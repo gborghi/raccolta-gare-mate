@@ -189,9 +189,27 @@ async function main() {
   const kwIndex = {}
   let written = 0
   let decorated = 0
+  let merged = 0
+
+  // Bilingual pass 1: collect hidden translation siblings, keyed by the default
+  // slug they translate. Siblings are NEVER written or indexed (skipped in the
+  // main loop); their body is merged into the default page below.
+  const siblings = new Map()
   for (const rel of files) {
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
     const { data, content } = parseFrontmatter(raw)
+    if (String(data.secondary) === "true" && data.translation_of) {
+      siblings.set(String(data.translation_of).toLowerCase(), {
+        lang: data.lang,
+        body: transform(content),
+      })
+    }
+  }
+
+  for (const rel of files) {
+    const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
+    const { data, content } = parseFrontmatter(raw)
+    if (String(data.secondary) === "true") continue // never emit / index siblings
     let newContent = transform(content)
     // inject decor image for section notes
     const top = rel.split(path.sep)[0]
@@ -204,6 +222,21 @@ async function main() {
           `<img class="section-decor" src="${prefix}static/decor/${fileName}" alt="" loading="lazy">\n\n` +
           newContent
         decorated++
+      }
+    }
+    // Bilingual merge: append the translated sibling body after a split marker, so
+    // qlang.inline.ts can partition the article DOM and toggle language. Only for
+    // quesito pages that actually have a translation.
+    if (data.tipo === "quesito") {
+      const sib = siblings.get(path.basename(rel, ".md").toLowerCase())
+      if (sib) {
+        const origin = data.lang || "it"
+        newContent =
+          `<div class="qlang-switch" data-default="${origin}"></div>\n\n` +
+          newContent +
+          `\n\n<span class="qlang-split" data-lang="${sib.lang}"></span>\n\n` +
+          sib.body
+        merged++
       }
     }
     const dest = path.join(CONTENT, loRel(rel))
@@ -272,7 +305,7 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti. Usa l'interru
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
-  console.log(`copied ${written} notes, indexed ${quesiti.length} quesiti`)
+  console.log(`copied ${written} notes, indexed ${quesiti.length} quesiti, merged ${merged} bilingual siblings`)
   if (missingPdf.size) {
     console.log(`WARN: ${missingPdf.size} PDF links had no Drive mapping (kept as plain text):`)
     for (const p of [...missingPdf].sort().slice(0, 40)) console.log("  -", p)

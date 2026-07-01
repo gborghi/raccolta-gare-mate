@@ -12,6 +12,8 @@ import quesitiTablesScript from "../../components/scripts/quesitiTables.inline"
 import cercaScript from "../../components/scripts/cerca.inline"
 // @ts-ignore
 import navbarScript from "../../components/scripts/navbar.inline"
+// @ts-ignore
+import qlangScript from "../../components/scripts/qlang.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -272,6 +274,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   componentResources.afterDOMLoaded.push(quesitiTablesScript)
   componentResources.afterDOMLoaded.push(cercaScript)
   componentResources.afterDOMLoaded.push(navbarScript)
+  componentResources.afterDOMLoaded.push(qlangScript)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)

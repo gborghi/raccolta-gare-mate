@@ -231,3 +231,35 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.2r
   // the literal ", " separators are redundant once chips wrap with a gap
   .note-properties-separator { display: none; }
 }
+
+// =====================================================================
+// Bilingual quesito language switch (qlang.inline.ts)
+// =====================================================================
+.qlang-switch {
+  display: flex;
+  gap: 0.4rem;
+  margin: 0 0 0.8rem;
+}
+.qlang-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.15rem 0.35rem;
+  cursor: pointer;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+  filter: grayscale(0.7);
+  opacity: 0.6;
+  transition: opacity 0.15s, filter 0.15s, border-color 0.15s;
+
+  &:hover { opacity: 0.9; }
+  &.active { filter: none; opacity: 1; border-color: var(--secondary); }
+}
+.qlang-flag {
+  display: block;
+  width: 1.5rem;
+  height: auto;
+  border-radius: 2px;
+}
+// structural marker only — never visible
+.qlang-split { display: none; }
