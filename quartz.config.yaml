@@ -11,7 +11,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    - _attachments
   defaultDateType: modified
   theme:
     fontOrigin: googleFonts
