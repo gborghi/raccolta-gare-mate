@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q03
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality on reciprocals of triangle sides*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza sulle reciprocità dei lati del triangolo*
+
+> Prova che se $a, b, c$ sono lati di un triangolo, allora $$\frac{1}{a} + \frac{1}{b} + \frac{1}{c} \le \frac{1}{a+b-c} + \frac{1}{b+c-a} + \frac{1}{c+a-b}.$$
+
+[[src_pol_1994_r1__Q03]]

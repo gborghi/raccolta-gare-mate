@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q12
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di numeri interi divisibili tra 1 e 12 (insiemi)*
 
@@ -44,3 +47,19 @@ tags:
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of integers divisible by 1 to 12 (totals) *
+
+> A space station wants to record the passage of an asteroid, which moves in space in a uniform, straight-moving motion relative to it. Unfortunately, the station's radar is damaged, and it does not provide reliable distance measurements, while accurately measuring the angle under which the asteroid is seen. Some detections are carried out at regular intervals. What is the minimum number of detections needed to reconstruct the trajectory of the asteroid?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** a finite number greater than 4
+> - **(E)** No number of detections is enough.
+
+[[src_archimede_2003_triennio__Q12]]

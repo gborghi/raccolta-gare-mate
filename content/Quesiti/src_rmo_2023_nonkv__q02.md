@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_nonkv__Q02
 parent: src_rmo_2023_nonkv
 competition: Regional Mathematical Olympiad 2023
@@ -33,6 +34,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Semicircle with variable chord CD; show angle and circumcircle conditions*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o7iLlUQAhl19zj3fiRO4A18L1eOLmVoI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Semicircolo con CD a corde variabili; indicazione dell'angolo e delle condizioni del circoncircolo< MSK1/>
+
+> Il $\omega$ deve essere un semicircolo con $AB$ come diametro di confine e il $CD$ deve essere un'accorda variabile del semicircolo di lunghezza costante tale che $C, D$ si trovi all'interno dell'arco $AB$. Il $E$ deve essere un punto del diametro $AB$ in modo tale che $CE$ e $DE$ siano ugualmente incline alla linea $AB$. Prova che a) la misura di $\angle CED$ è una costante; b) il circoncircolo del triangolo $CED$ passa attraverso un punto fisso.
+
+[[src_rmo_2023_nonkv__Q02]]

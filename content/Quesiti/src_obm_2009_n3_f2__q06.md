@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f2__Q06
 parent: src_obm_2009_n3_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 6-digit numbers from distinct digits satisfying two conditions*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 6 cifre da cifre distinte che soddisfano due condizioni*
+
+> Determinare il numero di enti enti a 6 cifre $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ che possono essere formati utilizzando sei cifre distinte da $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che siano soddisfatte contemporaneamente le seguenti condizioni: \begin{enumerate} \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$; \item[(ii) $n$ è divisibile per $9$. \end{enumere}
+
+[[src_obm_2009_n3_f2__Q06]]

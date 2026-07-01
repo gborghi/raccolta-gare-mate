@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Student — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_finale__Q06
 parent: src_kangourou_2018_student_finale
 competition: Kangourou 2018 Finale Nazionale Student
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caratterizzare i poligoni equilateri convessi rombosi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** lati a coppie paralleli
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Characterization of the convex equilateral polygons *
+
+![[src_kangourou_2018_student_finale__prob6.png]]
+
+> Call each convex equilateral polygon **rumbus** if it is possible to dial it with a finite number of rumbes having the same side of the polygon. It shall characterize as explicitly as possible all convex equilateral polygons.
+
+**Answer:** lati a coppie paralleli
+[[src_kangourou_2018_student_finale__Q06]]

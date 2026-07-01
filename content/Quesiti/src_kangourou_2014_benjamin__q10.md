@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q10
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale quadrato rende uguali area bianca e nera*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which square equals the black and white area*
+
+![[src_kangourou_2014_benjamin__prob10.png]]
+
+> Bianca's digital clock is partially damaged: all three horizontal lines of the figure to the right (minutes) are not illuminated. The clock has just been taken from the picture shown on the left to the one shown on the right. What time is it right now? (A) 12:40 B) 12:44 C) 12:47 D) 12:48 E) 12:49 Questions from n. 11 al n. 20 is worth 4 points each.
+
+[[src_kangourou_2014_benjamin__Q10]]

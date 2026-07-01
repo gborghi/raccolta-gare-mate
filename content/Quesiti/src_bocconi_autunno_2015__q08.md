@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q08
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di mosse scacchiera particolare*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of particular chess moves< MSK1/>
+
+> A little bit of a chessboard. Only two movements are permitted for the pedals you see in the figure: moving a pedal over an adjacent box (on one side), provided that the latter is free; jumping a pedal located in an adjacent box (on one side), whatever its colour, provided that the box immediately beyond the leaped pedal is free. In how many moves, at least, can you swap the white and the black pads?
+
+![[src_bocconi_autunno_2015__Q08.png]]
+
+**Answer:** 15
+[[src_bocconi_autunno_2015__Q08]]

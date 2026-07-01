@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q10
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezze diverse di un angolo del triangolo (rettangoli)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0014
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different angles of a triangle (rectangles) *
+
+> Invited to court Tornado of the Right Dimensions, Root sees the valley fish of the Q of hearts deliver a prestigious ticket to the valley frog of the Duchessiana. An invitation to court to play a game of croquet is not a privilege you get every day! Even the invitation cards are finely decorated. On the rear they have a particular design made of a triangle on whose sides are built three rectangles externally to the sides. In addition, these rectangles are made in such a way that between each pair of rectangles one can insert exactly one regular polygon, with a vertex coinciding with one of the triangles and two sides coinciding with those of the rectangles emanating from it that are also not sides of the triangle. How many different angles can a triangle take?
+
+**Answer:** 0014
+[[src_cesenatico_2013_finale__Q10]]

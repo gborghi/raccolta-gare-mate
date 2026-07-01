@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1994-95_round1__Q02
 parent: src_bmo_1994-95_round1
 competition: British Mathematical Olympiad 1994-95 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular octagon with side 2; midpoints of two sides; find length XY*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ottagone regolare con lato 2; punti di mezzo di due lati; trovare lunghezza XY*
+
+> $ABCDEFGH$ è un ottagono regolare con lato $2$. $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$. Le linee $AM$, $CH$, $EF$ e $GN$ sono disegnate. La $X$ è l'intersezione di $AM$ e $CH$, e la $Y$ è l'intersezione di $GN$ e $EF$ [linee ausiliarie esatte parzialmente non chiare nella fonte]. Trova la lunghezza di < MSK16/>.
+
+![[src_bmo_1994-95_round1__Q02.png]]
+
+[[src_bmo_1994-95_round1__Q02]]

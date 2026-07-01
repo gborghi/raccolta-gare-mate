@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Student 2023 — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_finale__QS1
 parent: src_kangourou_2023_student_finale
 competition: Kangourou Finale Student 2023
@@ -24,6 +25,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *equo o vantaggioso, per chi*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* fair or advantageous for those *
+
+> Andrea and Julius play dice as follows. Together they throw six dice (traditional, equals): if he throws 3 out of at least one dice, Andrew earns a euro from Julius; otherwise, Julius earns two euros from Andrew. Is it a fair game or is it advantageous for either of us? In this second case, for whom?
+
+[[src_kangourou_2023_student_finale__QS1]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2004 (XLV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2004__Q06
 parent: src_imho_2004
 competition: IMO 2004 (XLV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all n with an alternating multiple*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1szqn3o_1STn6AS-iMOaHZTa6rpdHG630/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find all n with an alternating multiple
+
+> We call a positive integer *alternating* if every two consecutive digits in its decimal representation are of different parity. Find all positive integers $n$ such that $n$ has a multiple which is alternating.
+
+[[src_imho_2004__Q06]]

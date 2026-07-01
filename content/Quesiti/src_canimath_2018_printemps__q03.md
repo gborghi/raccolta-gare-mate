@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2018 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_printemps__Q03
 parent: src_canimath_2018_printemps
 competition: Coupe Animath Printemps 2018
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n equal to sum of squares of its two smallest divisors*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n uguali alla somma dei quadrati dei suoi due più piccoli divisori*
+
+> $n$ sia un numero intero positivo. Scrivere $1 = d_1 < d_2 < \cdots < d_k = n$ per i suoi divisori. Ci viene data quella $n = d_1^2 + d_2^2$. Determinare tutti i possibili valori di $n$.
+
+[[src_canimath_2018_printemps__Q03]]

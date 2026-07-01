@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q24
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che Hardy vinca la nona partita (lancio moneta)*
 
@@ -124,3 +127,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9842
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of Hardy winning the ninth game.
+
+> An unlawful sportsman [60] A mathematician who wasn't too honest enchanted all Hortona's dice. To decide then who will touch the ball in the Quamditch final, the two captains Hardy and Fracto play this way: the two take turns tossing a coin, and the first to come out on top wins. At this point, the two repeat the game, but this time it's the loser who gets the first shot. If Hardy first pitched the first time, calculate the odds of Hardy winning Game 9. Give as a result the numerator of the fraction reduced to the minimum terms.
+> 
+> Cesenatico Competition for teams 2 6 VII GARA NAZIONAL A SQUADRE Competition for the public  SOLUTIONS  6 May 2006 Nr. Problem Pti Solution 1 A leisure break 15 0793 2 Impostors revealed 40 2912 3 Stormy reports 35 0052 4 The first test 60 0004 5 Question of positions 40 0015 6 Seducer of overtime 35 0064 7 Training of Quamditch 20 0118 8 Merited holidays 80 4862 9 The tournament Triangles 45 8160 10 To the potions lesson 65 0594 11 A truffle weapon 15 2143 12 The team of Quamditch 40 0175 13 L  Exam of divination 70 2547 14 The final test of Quamditch 60 0027 16 A scheme of Quamditch 25 3025 17 020 17 A scheme of danger One 40 020 18 The beautiful 40 0101 Un un un unwillingness of the Divine Defence against the Secondary Schools
+
+**Answer:** 9842
+[[src_cesenatico_2006_squadre_pubblico__Q24]]

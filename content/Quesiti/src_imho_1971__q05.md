@@ -1,6 +1,7 @@
 ---
 title: IMO 1971 (XIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1971__Q05
 parent: src_imho_1971
 competition: IMO 1971 (XIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Finite set S in plane with exactly n points at unit distance from each point*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Finite set S in plane with exactly n points at unit distance from each point
+
+> Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: for every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
+
+[[src_imho_1971__Q05]]

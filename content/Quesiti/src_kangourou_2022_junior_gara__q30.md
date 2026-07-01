@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q30
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diametro massimo delle sei semisfere nel cubo*
 
@@ -108,3 +111,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum diameter of the six hemispheres in the cube*
+
+![[src_kangourou_2022_junior_gara__prob30.png]]
+
+> The figure shows a cube in which six hemispheres of the same diameter have been excavated, each centered in the center of a face. The diameter of the hemispheres is the maximum that allows the interior of the six hemispheres to be two to two disjoint. If the side of the cube is 2, how much is the diameter of the hemispheres?
+>  
+> A) 1
+>   
+> B) 2
+>   
+> C) √2 D) 3/2 E) √3/2
+>  
+> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0 X A B E E B A C B D B D D D E A A E C B B D D E C C E D A C
+>  
+> Is it the center of the radius circle? A) A
+>   
+> B) B
+>   
+> C) C
+>  
+> D) D
+>  
+> E) E A B C D P G
+
+**Answer:** C
+[[src_kangourou_2022_junior_gara__Q30]]

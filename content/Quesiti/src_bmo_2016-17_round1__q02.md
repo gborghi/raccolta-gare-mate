@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2016-17_round1__Q02
 parent: src_bmo_2016-17_round1
 competition: British Mathematical Olympiad 2016-17 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3-smooth greatest divisor; find all pairs (m,n) with n·f(m)=m·f(n)*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*3-smooth greatest divisor; trovare tutte le coppie (m,n) con n·f(m)=m·f(n) *
+
+> Per ogni intero positivo $n$, $f(n)$ deve essere il più grande $a$ in modo tale che $a \mid n$ e $a$ non abbiano un fattore primo maggiore di $3$. Per esempio, $f(6) = 6$, $f(11) = 1$, $f(12) = 12$, $f(30) = 6$.
+> 
+> Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$n \cdot f(m) = m \cdot f(n).$$
+
+[[src_bmo_2016-17_round1__Q02]]

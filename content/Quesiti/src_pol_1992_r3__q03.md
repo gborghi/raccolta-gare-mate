@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1992 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1992_r3__Q03
 parent: src_pol_1992_r3
 competition: Olimpiade Matematica Polacca 1992 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove double sum of a_m a_n/(m+n) is nonneg*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che la doppia somma di a_m a_n/(m+n) non è negativa*
+
+> Se $a_1, a_2, \ldots, a_r$ sono numeri reali arbitrari, dimostrare la disuguaglianza $$\sum_{n=1}^{r} \sum_{m=1}^{r} \frac{a_m a_n}{m+n} \ge 0.$$
+
+[[src_pol_1992_r3__Q03]]

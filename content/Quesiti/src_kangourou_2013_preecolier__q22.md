@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q22
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somme di denaro realizzabili con quattro monete*
 
@@ -49,3 +52,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Money made with four coins*
+
+> Anna has a five-cent coin, a ten-cent coin, a twenty-cent coin, and a fifty-cent coin. How many different sums of money can you make with these coins? A) 4
+> 	
+> B) 7
+> 	
+> C) 10
+> 	
+> D) 15
+> 	
+> 	
+> E) 20
+
+**Answer:** D
+[[src_kangourou_2013_preecolier__Q22]]

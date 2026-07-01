@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q12
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For how many positive integers N does dividing 111 by N leave remainder 6?*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
+
+> Per quanti integri positivi $N$ è il rimanente $6$ quando $111$ è diviso da $N$?
+>
+> - **(A)** 5
+> - **(B)** 4
+> - **(C)** 3
+> - **(D)** 2
+> - **(E)** 1
+
+**Risposta:** A
+[[src_smc_2021__Q12]]

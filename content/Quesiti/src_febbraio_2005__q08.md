@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q08
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -21,6 +22,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo volume di tali parti del cubo*
 
@@ -62,3 +65,46 @@ tags:
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*maximum volume of such parts of the cube*
+
+![[src_febbraio_2005__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (Bt) at (3,3);
+  \coordinate (E) at (0,3);
+  \coordinate (F) at (1.2,1.0);
+  \coordinate (G) at (4.2,1.0);
+  \coordinate (D) at (4.2,4.0);
+  \coordinate (C) at (1.2,4.0);
+  \draw (A)--(B)--(Bt)--(E)--cycle;
+  \draw (E)--(Bt)--(D)--(C)--cycle;
+  \draw (B)--(G)--(D);
+  \draw[dashed] (A)--(F);
+  \draw[dashed] (F)--(G);
+  \draw[dashed] (F)--(C);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[above right] at (D) {$D$};
+  \node[left] at (E) {$E$};
+  \node[right] at (G) {$F$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Given a unit-side cube (see figure), consider the plane to which the $\overline{AB}$ and $\overline{CD}$ pins belong and the plane to which the $\overline{AE}$ and $\overline{FD}$ pins belong. These two planes cut the cube into four parts. What is the maximum volume of these parts?
+> 
+> **(A)** $\dfrac{1}{4}$ **(B)** $\dfrac{1}{3}$ **(C)** $\dfrac{\sqrt{2}}{4}$ **(D)** $\dfrac{3}{8}$ **(E)** $\dfrac{1}{2}$.
+> 
+> (see figure)
+
+[[src_febbraio_2005__Q08]]

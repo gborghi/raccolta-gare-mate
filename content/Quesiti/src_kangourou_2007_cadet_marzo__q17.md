@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q17
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max celle con 15 rette*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max cells with 15 lines< MSK1/>
+
+> 9 lines, of which 5 are drawn horizontally and 4 vertically, identify 12 rectangular cells; 6 horizontal lines and 3 verticals identify only 10 cells. How many cells can you get to the maximum by tracing 15 lines? A) 22 B) 30 C) 36 D) 40 E) 42
+
+**Answer:** E
+[[src_kangourou_2007_cadet_marzo__Q17]]

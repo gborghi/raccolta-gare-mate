@@ -1,6 +1,7 @@
 ---
 title: IMO 1972 (XIV International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1972__Q01
 parent: src_imho_1972
 competition: IMO 1972 (XIV International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Two disjoint subsets of ten two-digit numbers with equal sums*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two disjoint subsets of ten two-digit numbers with equal sums*
+
+> Prove that from a set of ten distinct two-digit numbers (in the decimal system), it is possible to select two disjoint subsets whose members have the same sum.
+
+[[src_imho_1972__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q13
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Domino set 0–8: how many pieces contain the most common face value*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Domino set 08: quanti pezzi contengono il valore nominale più comune*
+
+> Un set di domino con il doppio 8 più alto (contiene tutti i pezzi $[i,j]$ con $0 \le i \le j \le 8$) ha 45 pezzi in totale. Il valore nominale che appare sulla maggior parte dei pezzi appare su quanti pezzi?
+> 
+> (A) 34 \quad (B) 36 \quad (C) 42 \quad (D) 55 \quad (E) 45
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q13]]

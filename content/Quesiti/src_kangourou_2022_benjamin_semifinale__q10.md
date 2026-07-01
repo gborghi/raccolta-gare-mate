@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q10
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto di (numero*10) diviso 6 con numero=2 mod 6*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining of (number*10) divided by 6 with number=2 mod 6*
+
+> (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
+
+**Answer:** 0002
+[[src_kangourou_2022_benjamin_semifinale__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q18
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Broken calculator: max number of square-root presses until a number smaller than 2 appears*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolatore rotto: numero massimo di presse a radice quadrata fino a quando non appare un numero inferiore a 2*
+
+> La calcolatrice di Esmeralda è rotta: quando si premono il pulsante $\sqrt{\ }$, la calcolatrice fa, invece della radice quadrata, la seguente operazione: prende la radice quadrata (come dovrebbe) e poi divide per il numero di cifre prima della virgola. Esmeralda inserisce nel calcolatore un numero con $100$ e inizia a premere il pulsante $\sqrt{\ }$ ripetutamente. Quante volte, al massimo, Esmeralda premere il pulsante fino a raggiungere, per la prima volta, un numero inferiore a 2?
+> 
+> (A) 2 (B) 4 (C) 5 (D) 8 (E) 9
+
+[[src_obm_2011_n3_f1__Q18]]

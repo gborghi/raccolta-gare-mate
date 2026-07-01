@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q24
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> when < MSK1/>
+
+> < MSK0/>Schools placed < MSK1/> (15 points)
+> 
+> A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and $m$ is divisor of $n$. Can you give him a hand by telling him how many pairs there are?
+> 
+> (NB: $1$ and $k$ are considered $k$ divisors.)
+
+**Answer:** 0027
+[[src_archimede_2001_squadre__Q24]]

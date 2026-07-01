@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q30
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tipi di vermetto con 3 gialle e 2 verdi*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Types of vermette with 3 yellow and 2 green *
+
+![[src_kangourou_2000_studenti__prob30.png]]
+
+> A vermette's body is made of circles. How many different types of this vertebrate exist, if 3 of the 5 body parts have to be yellow and 2 have to be green? A) 6 B) 8 C) 9 D) 10 E) 12
+> 
+> The Commission has already adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the protection of the environment.
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q30]]

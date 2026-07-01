@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q14
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -24,6 +25,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti che amano la matematica (insiemi)*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Students who love mathematics (totals) *
+
+> All 180 students in the first grade of high school love math and/or physics. The number of students who love only mathematics is twice as many as those who love only physics; 20% of the total love both subjects. How many students love math?
+>
+> - **(A)** 108
+> - **(B)** 144
+> - **(C)** 120
+> - **(D)** 132
+> - **(E)** 96
+
+**Answer:** D
+[[src_garaprime_2025__Q14]]

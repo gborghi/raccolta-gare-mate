@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q03
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convert one mil (one thousandth of an inch, 2.5 cm per inch) to mm*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
+
+> Utilizzato per misurare la larghezza di un filo, un millimetro equivale a un millesimo di pollice. Un pollice è circa $2.5\,\text{cm}$.
+> 
+> Quale di queste è uguale a circa un miliardo?
+>
+> - **(A)** $\frac{1}{40}\,\text{mm}$
+> - **(B)** $\frac{1}{25}\,\text{mm}$
+> - **(C)** $\frac{1}{4}\,\text{mm}$
+> - **(D)** $25\,\text{mm}$
+> - **(E)** $40\,\text{mm}$
+
+**Risposta:** A
+[[src_smc_2019__Q03]]

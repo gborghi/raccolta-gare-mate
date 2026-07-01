@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012__Q04
 parent: src_cesenatico_2012
 competition: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *coppie {a,b} con xa*xb quadrato perfetto*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** {1,2}
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>pairs {a,b} with xa< MSK1/>xb perfect square< MSK2/>
+
+> Whether x1, x2, x3, . . . the sequence defined by recurrence is as follows: (x1 = 4 xn+1 = x1x2x3 · · xn + 5 for n ≥1. (The first terms of the sequence are thus x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . ) Find all the pairs of positive integers {a, b} such that xaxb is a perfect square.
+
+**Answer:** {1,2}
+[[src_cesenatico_2012__Q04]]

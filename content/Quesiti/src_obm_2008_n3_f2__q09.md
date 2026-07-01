@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q09
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize product of 2008 entries of 2008×2008 matrix (i+j), one per row and column*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare il prodotto delle voci 2008 del 2008× 2008 matrice (i+j), una per riga e colonna*
+
+> In una matrice $2008 \times 2008$, l'elemento nella riga $i$ e nella colonna $j$ è il numero $i + j$ (le righe e le colonne sono numerate da $1$ a $2008$). Scegliamo gli elementi $2008$ di questa matrice in modo che non ci siano due elementi scelti nella stessa riga o nella stessa colonna. Gli elementi scelti vengono poi moltiplicati insieme. Qual è il prodotto più piccolo possibile che si possa ottenere in questo modo?
+
+[[src_obm_2008_n3_f2__Q09]]

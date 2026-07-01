@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q19
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Different rectangular hollow desk arrangements seating 30 students*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diversi arrangiamenti di scrivania vuota rettangolare per 30 studenti*
+
+> In una classe, l'insegnante disponeva delle scrivanie per formare una grande scrivania rettangolare con un buco rettangolare al centro (come mostrato). Ad esempio, utilizzando piccole scrivanie di uguale dimensione, si può formare una grande scrivania con 10 piccole scrivanie sul perimetro. In quanti modi diversi l'insegnante può organizzare tutti i 30 scrivania degli studenti in una formazione rettangolare così vuota, in modo che ciascuno dei 30 studenti possa sedersi a un piccolo scrivania sul perimetro?
+> 
+> (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 15
+
+![[src_obm_2012_n1_f1__Q19.png]]
+
+**Risposta:** C
+[[src_obm_2012_n1_f1__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q14
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *terzo spezzone*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>third fraction< MSK1/>
+
+> A 95-meter-long rope is cut into three pieces so that the third is one and a half times the second and the second is one and a half times the first. How long is the third piece? A) 36
+> 	
+> B) 42
+> 	
+> C) 45
+> 	
+> D) 46
+> 	
+> E) 48
+
+**Answer:** C
+[[src_kangourou_2023_junior__Q14]]

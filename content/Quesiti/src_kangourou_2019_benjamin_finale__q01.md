@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Benjamin — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_finale__Q01
 parent: src_kangourou_2019_benjamin_finale
 competition: Kangourou 2019 Finale Nazionale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti biscotti alla marmellata aveva Ada prima dello scambio*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 22
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many jam cookies did Ada have before the exchange?
+
+> Ada had 40 biscuits: some chocolate, others jam. She agreed with Cecilia this way: for 3 chocolate cookies given to Cecilia, she received 5 from Cecilia with marmalade. Now Ada has 52 cookies, all marmalade. How many jam cookies did you have before the exchange?
+
+**Answer:** 22
+[[src_kangourou_2019_benjamin_finale__Q01]]

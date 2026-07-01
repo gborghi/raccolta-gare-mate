@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q20
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale carta resta sul tavolo dalle affermazioni di Ada..Dina*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What paper remains on the table from Ada's statements.
+
+> Nine cards numbered 1 to 9 were placed face down on the table. Ada, Bea, Cloe and Dinah each took two of these cards. Ada says, The sum of my numbers is 6. Bea says, "The difference between my numbers is 5". Cloe says, The product of my numbers is 18. Dina says, "One of my numbers is twice the other". All four statements are true. What number is left on the table? A) 1
+>  
+> B) 3
+>  
+> C) 6
+>  
+> D) 8
+>  
+> E) 9 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2024_cadet__Q20]]

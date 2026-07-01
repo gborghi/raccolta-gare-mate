@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q10
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa è determinato tra cornice, passepartout e tela*
 
@@ -40,3 +43,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is determined between frame, passpartout and canvas*
+
+![[src_archimede_2000_2livello__prob10.png]]
+
+> The canvas of a rectangular painting is surrounded by a 10 cm wide passepartout (i.e. box). Around the latter there is a frame, also 10 cm wide (the white rectangle represents the canvas, the drawn surface the passepartout, the black surface the frame). It is known that the area of the whole frame (including the frame) is twice the sum of the passport and the canvas. It can then be concluded that:
+>
+> - **(A)** The area of the frame and the area of the pass and the canvas shall be determined.
+> - **(B)** Only the area of the frame is determined.
+> - **(C)** only the area of the passports is determined
+> - **(D)** Only the area of the canvas is determined.
+> - **(E)** None of the previous quantities are determined. (see figure)
+
+**Answer:** D
+[[src_archimede_2000_2livello__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q15
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count negative integer values satisfying floor equation*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i valori interi negativi che soddisfano l'equazione del pavimento*
+
+> Quanti valori interi negativi di $x$ soddisfano l'equazione $\left[\dfrac{x}{3}\right] = \left[\dfrac{x}{5}\right]$? (Qui $[z]$ indica il più grande numero intero inferiore o uguale a $z$. Ad esempio $[3.4] = 3$ e $[-2.3] = -3$.)
+
+**Risposta:** 8
+[[src_prmo_2012__Q15]]

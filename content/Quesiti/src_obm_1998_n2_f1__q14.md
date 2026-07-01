@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q14
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *True discount versus apparent discount in a sale*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sconto reale rispetto allo sconto apparente in una vendita*
+
+> Horacio ha deciso di aumentare le vendite di CD nel suo negozio e ha annunciato una vendita di liquidazione con un 30% di sconto sul prezzo dell'etichetta. Succede che il giorno prima della vendita, Horacio aveva aumentato il prezzo segnalato sulle etichette. Di conseguenza, il vero sconto è stato solo del 9%. Quanto ha aumentato Horacio il prezzo?
+> 
+> A) 30% B) 39% C) 21% D) 40% E) 31%
+
+**Risposta:** A
+[[src_obm_1998_n2_f1__Q14]]

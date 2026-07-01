@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q01
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest among five exponential expressions in base 3*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più grande delle cinque espressioni esponenziali nella base 3*
+
+> Quale dei seguenti numeri è il più grande?
+>
+> - **(A)** $3^{10}$
+> - **(B)** $9^{10}$
+> - **(C)** $27^{11}$
+> - **(D)** $243^{8}$
+> - **(E)** $81^{11}$
+
+**Risposta:** E
+[[src_obm_1998_n1_f1__Q01]]

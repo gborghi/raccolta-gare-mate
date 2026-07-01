@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q03
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi senza due consecutivi, almeno 2 elem*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0221
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sub-sets without two consecutive elements, at least 2 *
+
+> The subset Consider the sum of the first 11 positive integers {1, 2, ..., 9, 10, 11}. How many of its subsets of at least two elements that do not contain two consecutive numbers?
+
+**Answer:** 0221
+[[src_kangourou_2024_junior_squadre_f2__Q03]]

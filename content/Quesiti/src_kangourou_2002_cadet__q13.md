@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q13
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Topi totali con occhi azzurri*
 
@@ -48,3 +51,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total tops with blue eyes< MSK1/>
+
+> A certain colony is 25% white and 75% black. Among white mice, 50% have blue eyes while among black mice only 20% have blue eyes. Knowing that 99 mice have blue eyes, how many mice does the colony consist of?
+>  
+>  
+> A. 360 B. 340 C. 240 D. None of the preceding numbers
+>  
+> E. The data is insufficient to answer.
+
+**Answer:** A
+[[src_kangourou_2002_cadet__Q13]]

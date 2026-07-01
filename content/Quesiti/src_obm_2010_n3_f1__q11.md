@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q11
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Esmeralda draws y=2x+6 but swaps the axes; identify the resulting graph.*
 
@@ -51,3 +54,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esmeralda disegna y=2x+6 ma scambia gli assi; identifica il grafico risultante.*
+
+> Esmeralda stava per disegnare il grafico di $y=2x+6$ ma ha scambiato gli assi (disegna con gli assi scambiati). Qual è la relazione tra il grafico che ha disegnato e il grafico con gli assi scambiati di luogo? Scegli il grafico giusto.
+> 
+> (A), (B), (C), (D), (E): cinque schizzi di piano di coordinate candidati (cfr. figura).
+
+![[src_obm_2010_n3_f1__Q11.png]]
+
+[[src_obm_2010_n3_f1__Q11]]

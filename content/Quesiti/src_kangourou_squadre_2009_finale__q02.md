@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q02
 parent: src_kangourou_squadre_2009_finale
 competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero poligoni di un circuito chiuso pentagoni-quadrati*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of polygons in a closed circuit pentagon-square*
+
+![[src_kangourou_squadre_2009_finale__prob2.png]]
+
+> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By alternating pentagons into squares, so that one side of a pentagon matches one side of a square and vice versa, you want to make a closed circuit while staying on a plane: the construction of the ring must proceed as shown by the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+
+**Answer:** 0020
+[[src_kangourou_squadre_2009_finale__Q02]]

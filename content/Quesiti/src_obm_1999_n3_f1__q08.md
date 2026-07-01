@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q08
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer values of x making (x+99)/(x+19) an integer*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valori interi di x che rendono (x+99)/(x+19) un intero*
+
+> Quanti valori interi di $x$ sono tali che $\dfrac{x+99}{x+19}$ sia un intero?
+> 
+> A) 5 \quad B) 10 \quad C) 20 \quad D) 30 \quad E) 40
+
+**Risposta:** C
+[[src_obm_1999_n3_f1__Q08]]

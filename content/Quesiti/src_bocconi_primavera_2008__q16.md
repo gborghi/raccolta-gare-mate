@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q16
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato addizione da 1 a 2008 con cifre 0, 2, 8*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16.000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result added from 1 to 2008 with figures 0, 2, 8*
+
+> Carla sums all integers, from 1 to 2008, using only the digits 0, 2, 8 (possibly repeated). < MSK0/>What is the result of the addition? < MSK1/>
+
+**Answer:** 16.000
+[[src_bocconi_primavera_2008__Q16]]

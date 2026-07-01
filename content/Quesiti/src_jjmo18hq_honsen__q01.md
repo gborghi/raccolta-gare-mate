@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18hq_honsen__Q01
 parent: src_jjmo18hq_honsen
 competition: Japan Junior Mathematical Olympiad 2020 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize L-trominoes tiling a grid with L and S tiles*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare le tromine L che tessono una griglia con piastrelle L e S*
+
+> Su una griglia $2020 \times 2021$, diverse piastrelle dei due tipi $L$ e $S$ mostrate nella figura sono posizionate lungo le celle in modo che non si sovrappongano e l'intera griglia sia coperta. Trova il minimo valore possibile del numero di piastrelle $L$ utilizzate. Le piastrelle possono essere rotate e riflesse.
+> 
+> Qui $L$ è un tromino a forma di L (tre cellule di unità) e $S$ è un tetromino a forma di S (quattro cellule di unità).
+
+![[src_jjmo18hq_honsen__Q01.png]]
+
+[[src_jjmo18hq_honsen__Q01]]

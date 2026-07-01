@@ -1,6 +1,7 @@
 ---
 title: IMO 2022 (LXIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2022__Q05
 parent: src_imho_2022
 competition: IMO 2022 (LXIII International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all triples (a,b,p) positive integers, p prime, a^b+b=p^a*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tsXgbJ9Pl2aI5mNYIg-TXWZHgI4xJ55P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find all triples (a,b,p) positive integers, p prime, a^b+b=p^a*
+
+> Find all triples $(a, b, p)$ of positive integers with $p$ prime and $$a^b + b = p^a.$$
+
+[[src_imho_2022__Q05]]

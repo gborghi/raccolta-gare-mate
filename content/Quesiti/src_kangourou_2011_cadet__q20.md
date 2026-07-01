@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q20
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale forma di cartone bloccare l'inserimento delle altre*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What form of card block the insertion of the other*
+
+![[src_kangourou_2011_cadet__prob20.png]]
+
+> The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes obtained by approaching five equal squares, having the same side as the chessboard boxes. Two of the shapes have already been placed on the chessboard: you want to place a third on the empty boxes so that you can't insert any of the other shapes without overlapping. Which of the five forms below should you use? (Warning: shapes can be turned and/or rotated, but they must always be inserted so that their sides match the sides of the boxes). The questions from N. 21 al N. 30 is worth 5 points each 21. The five-digit number 24X8Y is divisible by 4, 5 and 9. How much is X + Y? A) 13 B) 10 C) 9 D) 5 E) 4
+
+**Answer:** D
+[[src_kangourou_2011_cadet__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q08
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppia di aree per cerchio inscritto e circoscritto a un quadrato*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pair of areas per circle inscribed and enclosed in a square*
+
+> Which of the following pairs (orders) of positive numbers can express the areas (in order) of the inscribed circle and the circumscribed circle in the same square? A) (3/2, 3) B) (π, 4π) C) (√π, π) D) (π, π2) E) (2/5, 3)
+
+**Answer:** A
+[[src_kangourou_2024_junior__Q08]]

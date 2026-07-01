@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q25
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Stacked cubes: identify which front view is impossible given left and front views*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cubbi accumulati: identificare quale vista anteriore è impossibile data vista sinistra e anteriore*
+
+> Alcuni cubetti sono impilati per formare un blocco. Le figure a sinistra mostrano la vista dal lato sinistro e la vista dalla parte anteriore. Quale delle seguenti figure ** non può essere la vista dall'anteriore?
+> 
+> **(A) ** Figura A $\quad$ **(B) ** Figura B $\quad$ **(C) ** Figura C $\quad$ **(D) ** Figura D $\quad$ **(E) ** Figura E
+
+![[src_obm_2009_n2_f1__Q25.png]]
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q25]]

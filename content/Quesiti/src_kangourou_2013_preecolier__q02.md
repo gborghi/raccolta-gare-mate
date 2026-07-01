@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q02
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Libri rimasti sullo scaffale*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Leaving books on the shelf< MSK1/>
+
+> There's 12 books on the shelf and four kids in the room. How many books are left on the shelf if every kid takes a book? A) 12
+> 	
+> B) 8
+> 	
+> C) 4
+> 	
+> D) 2
+> 	
+> E) 0
+
+**Answer:** B
+[[src_kangourou_2013_preecolier__Q02]]

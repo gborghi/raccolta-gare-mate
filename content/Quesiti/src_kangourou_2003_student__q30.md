@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q30
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomio f(x^2-1) dato f(x^2+1)*
 
@@ -59,3 +62,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Polynomial f ((x^2-1) given f ((x^2+1) < MSK1/>
+
+> If f is a polynomial such that f (x2 + 1) = x4 + 4x2 . So f (x2 - 1) is the polynomial A) x4 - 4x2 B) x4 C) x4 + 4x2 - 4 D) x4 - 4 E) None of the previous answers is correct A B C D P Q R M A D E B C F
+
+**Answer:** D
+[[src_kangourou_2003_student__Q30]]

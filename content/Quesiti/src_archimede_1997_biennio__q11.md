@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q11
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di lamiera sprecata tagliando cerchio e quadrato*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of sheet wasted by cutting circle and square*
+
+> A circle of the maximum possible diameter shall be cut from a square sheet, followed by a square of the maximum possible side. The percentage of waste sheet is
+>
+> - **(A)** 1/4 of the original sheet
+> - **(B)** 1/2 of the original sheet
+> - **(C)** 1/2 of the circular sheet
+> - **(D)** 1/4 of the circular sheet
+> - **(E)** None of the previous ones.
+
+**Answer:** B
+[[src_archimede_1997_biennio__Q11]]

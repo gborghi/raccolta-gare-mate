@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q30
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle inaccessibili nel gioco da tavolo*
 
@@ -77,3 +80,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cases inaccessible in the table game*
+
+![[src_kangourou_2002_student__prob30.png]]
+
+> The image next to it represents a table game in which the boxes on the three circumferences have been numbered from A1 to A25, from B1 to B12 and from C1 to C18. A sheet is initially placed in box A1 and can be moved to other boxes according to the following rule: at each step the sheet can be moved to a box two positions apart, on the same circumference, in any direction (for example, an admissible sequence is as follows: C5 → C3 → C1 = A22 → A20 → A18 → A20); but it is not possible to move the sheet directly from C2 to A23. How many boxes are inaccessible for any sequence of moves, starting, as stated, from box A1?
+>  
+> A. 0 B. 6 C. 15 D. 27
+>  
+> E. 30
+> 
+> Kangourou Italy Competition of 21 March 2002 Student category For students of fourth and fifth grades Solutions
+>  
+>  
+> The correct answer is indicated in square brackets after the question number.
+
+**Answer:** B
+[[src_kangourou_2002_student__Q30]]

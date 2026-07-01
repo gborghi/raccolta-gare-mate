@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q07
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5-tuples of non-negative integers summing to 2022 with none divisible by 3*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 500149500
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 5 volte dei numeri interi non negativi che sommano fino al 2022 senza che nessuno sia divisibile per 3*
+
+> Trova il numero di 5 tupli $(a, b, c, d, e)$ di enti interi non negativi che soddisfano $a + b + c + d + e = 2022$ in modo tale che nessuno di $a, b, c, d, e$ sia divisibile da $3$. (Il numero intero $0$ non è considerato divisibile da $3$ ai fini di questo problema.)
+
+**Risposta:** 500149500
+[[src_jjmo20yq_yosen__Q07]]

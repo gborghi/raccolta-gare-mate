@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q20
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle raggiungibili dal re in cinque mosse senza ripetizioni*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Chases reachable by the king in five moves without repetition*
+
+> In the quadrilateral ABCD the diagonals are orthogonal to each other and the angles in B and D are straight. In addition, AB = AD = 20 cm, BC = CD = 30 cm. Calculate the radius of circumference recorded in the ABCD.
+>
+> - **(A)** 15 cm,
+> - **(B)** 5 √ 13 cm,
+> - **(C)** 10 cm,
+> - **(D)** 6 √ 5 cm,
+> - **(E)** 12 cm. 21) A tournament has 20 participants. In each round, two of the participants still in the competition are drawn, and they play one match. Each contestant who has been defeated twice is eliminated and the last remaining contestant wins. Knowing the winner never lost, how many games were played in all? (A) 19, (B) 38, (C) 40, (D) 380, (E) there are not enough data. 22) The square ABCD is drawn on a sheet. The sheet is folded (along a straight line) so that B coincides with the mean point of DC. The side BC is divided by the bend into two segments of lengths a and b, with a ≤b. How much is a b/a? (A) 2, (B) 1, (C) 5/3, (D) 25/9, (E) √ 5/2. 23) The police are investigating a robbery. The five suspects, including the culprit and perhaps some accomplices, said: A: B is guilty. D is one of the accomplices. B:E is innocent. A is one of the accomplices. C: E is the culprit. D is innocent.  D:  The culprit is actually E. A was his accomplice.  E: A was one of the accomplices. C is the culprit. Knowing that the culprit lies about everything, the possible accomplices, out of fear, make a statement that is true and false and the innocent people, finally, always tell the truth, how many accomplices? (A) 0, (B) 1, (C) 2, (D) 3, (E) is impossible to determine. 24) We have a sequence of 2011 numbers, of which we indicate with an the term n-eighth. Knowing that a1 = 1, and that for every n ≥2, an = an−1(3n + 1), find the last four digits of the term a2011. (A) 0000, (B) 3400, (C) 6000, (D) 6031, (E) 6034. 25) King Tal of Tali is located in the center of a chessboard with three rows and three columns. How many distinct paths of 3 moves can King Tal of the Tals make inside the chessboard ? [When he makes a move, the king moves into any of the boxes that have at least one vertex in common with the box in which he is.] (A) 36, (B) 54, (C) 84, (D) 121, (E) 168.
+
+**Answer:** E
+[[src_archimede_2011_biennio__Q20]]

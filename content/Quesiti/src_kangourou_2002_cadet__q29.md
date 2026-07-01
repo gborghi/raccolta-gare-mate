@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q29
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero AFDC nei triangoli uguali*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A quadrilateral area of AFDC in equal triangles*
+
+> In the figure, the triangles ABC and DCE are equal; furthermore, the length of DC is 1 cm and that of CB is 4 cm. If the area of the triangle ABC is S, then the area of the quadrilateral AFDC is
+>  
+> A. 2S / 3        B. S / 2       C. 2S / 5       D. S / 4      E. S / 5.
+
+**Answer:** C
+[[src_kangourou_2002_cadet__Q29]]

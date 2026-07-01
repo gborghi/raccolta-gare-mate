@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f1__Q04
 parent: src_obm_2005_nu_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real square matrices satisfying (A+B)^k = A^k + B^k for all positive integers k*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matrici quadrate reali che soddisfano (A+B) ^ k = A^k + B^k per tutti gli integri positivi k*
+
+> Lasciate che $A$ e $B$ siano matrici quadrate reali della stessa dimensione in modo tale che, per ogni intero positivo $k$, $$(A + B)^k = A^k + B^k.$$ dimostri che se $A$ è invertibile allora $B$ è la matrice zero.
+
+[[src_obm_2005_nu_f1__Q04]]

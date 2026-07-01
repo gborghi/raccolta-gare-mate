@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q16
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto numeri nelle celle grigie, somme parziali date*
 
@@ -66,3 +69,38 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Product numbers in grey cells, partial sums given < MSK1/>
+
+![[src_kangourou_2017_cadet_marzo__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!50] (1,0) rectangle (2,1);
+  \fill[gray!50] (3,0) rectangle (4,1);
+  \draw[thick] (0,0) rectangle (5,1);
+  \draw[thick] (1,0) -- (1,1);
+  \draw[thick] (2,0) -- (2,1);
+  \draw[thick] (3,0) -- (3,1);
+  \draw[thick] (4,0) -- (4,1);
+  \node at (0.5,0.5) {3};
+  \node at (4.5,0.5) {4};
+\end{tikzpicture}
+\end{document}
+```
+
+> Mara wants to write a number in each box of the grid here on the side, so that the sum of all the numbers is 35, that the sum of the numbers in the first three boxes (left) is 22, and that the sum of the numbers in the last three boxes is 25. He's already written two of the numbers. What's the product of the numbers he'll write on the grey boxes? A) 63
+> 	
+> B) 108 C) 0
+> 	
+> D) 48
+> 	
+> E) 39
+
+**Answer:** A
+[[src_kangourou_2017_cadet_marzo__Q16]]

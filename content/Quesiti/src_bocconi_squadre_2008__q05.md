@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q05
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inserire numeri 1–9 in griglia con operazioni date*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1 + 7 = 8; 5 + 4 = 9; 6 : 3 = 2 (vedi griglia soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Insert numbers 19 in the grid with operations given *
+
+> Replace the digits 1 to 9 (use once and only) instead of the dots. $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
+
+**Answer:** 1 + 7 = 8; 5 + 4 = 9; 6 : 3 = 2 (vedi griglia soluzione)
+[[src_bocconi_squadre_2008__Q05]]

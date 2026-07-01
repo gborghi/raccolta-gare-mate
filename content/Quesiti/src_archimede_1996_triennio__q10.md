@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q10
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che un estratto sia minore dell'altro*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of one extract being smaller than the other< MSK1/>
+
+> What is the probability that the first number extracted from the Florence wheel is less than the first number extracted from the Naples wheel? (Remember that the lot draws the numbers from 1 to 90).
+>
+> - **(A)** 44 90
+> - **(B)** 88 179
+> - **(C)** 44 89
+> - **(D)** 89 180
+> - **(E)** 1 2.
+
+**Answer:** D
+[[src_archimede_1996_triennio__Q10]]

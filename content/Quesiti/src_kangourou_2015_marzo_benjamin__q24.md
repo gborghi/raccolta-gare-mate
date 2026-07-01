@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q24
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero scritto*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*written number*
+
+> Aster must guess a whole number written by Laura. Laura says she doesn't remember how she got it: she knows she started from 100, then multiplied by 2 or by 3, added 1 or 2 and finally divided by 3 or by 4. What's the number Laura wrote? A) 50
+> 	
+> B) 51
+> 	
+> C) 67
+> 	
+> D) 68 E) The information is not sufficient to determine this.
+
+**Answer:** C
+[[src_kangourou_2015_marzo_benjamin__Q24]]

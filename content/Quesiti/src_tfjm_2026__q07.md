@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2026__Q07
 parent: src_tfjm_2026
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Define a 'permutative' number whose double has the same digits except one digit (0 to 4) replaced by its double; 'rotative' moves the first digit to last and 'fitatory' moves the last digit to first. Decide existence and count such n-digit numbers, also in other bases.*
 
@@ -77,3 +80,35 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Definire un numero "permutativo" il cui doppio ha le stesse cifre tranne una cifra (0-4), sostituito dal doppio; "rotativo" sposta la prima cifra a durare e "fitatorio" sposta l'ultima cifra a durare. Decidere l'esistenza e contare tali numeri a n cifre, anche in altre basi.*
+
+> 7. Doppio e cifre.
+> 
+> Chiamiamo un numero permutativo un numero di $\mathbb{N}^*$ il cui doppio è composto dalle stesse cifre in un ordine arbitrario, ad eccezione di una singola cifra (tra $0$ e $4$) che viene sostituita dal suo doppio.
+> 
+> Ad esempio, $2 \times 163 = 326$: il suo doppio è composto dalle stesse cifre, ad eccezione della cifra $1$ che viene sostituita dalla cifra $2$. Al contrario, il numero $11$ non è permutativo, perché per ottenere $2 \times 11 = 22$ si dovrebbe sostituire ciascuno dei numeri con il suo doppio.
+> 
+> Tra questi, distingueremo:
+> 
+> - un numero rotativo (nombre rotatif): un numero tale che la permutazione consiste nel spostare la prima cifra per la ultima, e è questa cifra che viene raddoppiata. Ad esempio, $253$ sarebbe rotabile se il suo doppio fosse $526$. - un numero fitatorio (nombre fitator): un numero tale che la permutazione consiste nel spostare l'ultima cifra al primo, ed è questa cifra che viene raddoppiata. Ad esempio, $253$ sarebbe fitatoria se il suo doppio fosse $625$.
+> 
+> Il numero $163$ non è né rotativo né fitatorio. Vedi figura 9.
+> 
+> 1. Let < MSK0/>. a) Esiste un numero rotativo con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri rotativi con cifre $n$.
+> 
+> 2. Let < MSK0/>. a) Esiste un numero fitatorio con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri di inserimento con cifre $n$.
+> 
+> 3. Let < MSK0/>. a) Let < MSK1/>. Esiste un numero permutativo con cifre $n$ che termina con la cifra $c$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri permutativi con cifre $n$. In particolare, determinare il limite di questo numero diviso per $9 \times 10^{n-1}$, se esiste ($9 \times 10^{n-1}$ è il numero di numeri con cifre $n$).
+> 
+> 4. Ripetere la precedente sottoquestione per altre basi di numerazione.
+> 
+> Domanda complementare. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2026__Q07.png]]
+
+[[src_tfjm_2026__Q07]]

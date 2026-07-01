@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1971 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1971_r3__Q02
 parent: src_pol_1971_r3
 competition: Olimpiade Matematica Polacca 1971 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pool table triangle: ball reflects finite times without hitting vertex*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo della tavola della piscina: la palla riflette i tempi finiti senza colpire il vertice*
+
+> Un tavolo da biliardo ha la forma di un triangolo i cui angoli sono in rapporto razionale. Una palla posizionata in un punto interno del tavolo viene colpita da un bastone. La palla riflette dai lati del triangolo secondo la legge del riflesso. Prova che la palla si muoverà solo lungo un numero finito di segmenti. (Si presume che la palla non raggiunga le vertici del triangolo.)
+
+[[src_pol_1971_r3__Q02]]

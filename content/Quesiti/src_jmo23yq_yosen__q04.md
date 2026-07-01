@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q04
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of coefficients of even powers in a product*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6696
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei coefficienti di potenze pari in un prodotto*
+
+> Nel polinomio $(x+1)^3 (x+2)^3 (x+3)^3$, $a_k$ indica il coefficiente di $x^k$. Trova il valore di $a_0 + a_2 + a_4 + a_6$.
+
+**Risposta:** 6696
+[[src_jmo23yq_yosen__Q04]]

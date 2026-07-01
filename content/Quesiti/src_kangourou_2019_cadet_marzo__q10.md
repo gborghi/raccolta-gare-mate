@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q10
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali sono le tre cifre nascoste data somma 10126*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What are the three hidden digits given sum 10126*
+
+![[src_kangourou_2019_cadet_marzo__prob10.png]]
+
+> 10. I wrote three four-digit numbers, each on a cardboard. Then I arranged the cards so that three of the numbers are hidden. The sum of the three numbers is 10126: what are the hidden numbers? (a) 4, 5 and 7 (b) 4, 6 and 7 (c) 4, 5 and 6 (d) 3, 5 and 6 (e) None of the above questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2019_cadet_marzo__Q10]]

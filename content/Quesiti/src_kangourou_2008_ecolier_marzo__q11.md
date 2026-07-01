@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q11
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale costruzione di cubetti non e realizzabile*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which construction of cubes is not feasible*
+
+![[src_kangourou_2008_ecolier_marzo__prob11.png]]
+
+> The construction you see on the right is done using 5 equal cubes. You can move only one, put it in the position you want. Which of the underlying constructions (seen from different angles) cannot be realized ?
+
+**Answer:** D
+[[src_kangourou_2008_ecolier_marzo__Q11]]

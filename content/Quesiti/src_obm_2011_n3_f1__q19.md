@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q19
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of integers n>1 such that 2011 is a sum of n distinct positive integers*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di integri n>1 tale che il 2011 sia la somma di n diversi integri positivi*
+
+> Esistono 3 valori di interi $n > 1$ in modo che $10$ possa essere scritto come somma di $n$ diversi interi positivi:
+> 
+> $n = 2: 10 = 3 + 7$ $n = 3: 10 = 2 + 3 + 5$ $n = 4: 10 = 1 + 2 + 3 + 4$
+> 
+> Quanti valori di integri $n > 1$ esistono per i quali è possibile esprimere il 2011 come somma di $n$ diversi integri positivi?
+> 
+> (A) 59 (B) 60 (C) 61 (D) 62 (E) 63
+
+[[src_obm_2011_n3_f1__Q19]]

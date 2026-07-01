@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q03
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Black-minus-white area of a 3x3 checkerboard-cut rectangle*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $60000$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*area in bianco-nero-meno di un rettangolo taglio da scacchi 3x3*
+
+> Come nella figura, il rettangolo $ABCD$ è diviso in regioni $9$ da linee $4$ parallele ai suoi lati, e le regioni sono colorate alternatamente in bianco e nero. Date $$AP=269,\quad PQ=292,\quad QB=223,\qquad AR=387,\quad RS=263,\quad SD=176,$$, si trova il valore di (superficie totale delle regioni nere) $-$ (superficie totale delle regioni bianche). (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
+
+![[src_jmo27yq_yosen__Q03.png]]
+
+**Risposta:** $60000$
+[[src_jmo27yq_yosen__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q08
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Deduzione logica su occhiali, cappellino e mancini*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** Luca non è mancino, ha il cappellino, ha gli occhiali
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Logical deduction on glasses, hat and handles*
+
+> Our four friends are Carla, Desiderio, Luca and Milena. Two of them wear glasses, two have a hat, and two are left-handed. The two friends, who use their right hand to write, have glasses and do not wear a hat. The leftists are a boy and a girl. Desire is left. What about Luke? Is that left? (Yes or no?) Does he wear the hat? Do you have glasses? (Yes or no?) Look for the right answers.
+
+**Answer:** Luca non è mancino, ha il cappellino, ha gli occhiali
+[[src_bocconi_autunno_2007__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1974 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1974_r3__Q06
 parent: src_pol_1974_r3
 competition: Olimpiade Matematica Polacca 1974 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diagonals in a convex n-gon split it into triangles so each vertex has an even number of drawn diagonals and no two cross inside; prove n is divisible by 3.*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diagonali in un n-gon convex dividendo in triangoli in modo che ogni vertice ha un numero pari di diagonali tracciati e non due incrociati all'interno; provare n è divisibile per 3.*
+
+> Sono disegnati diversi diagonali in un convex $n$-gon in modo da dividere il $n$-gon in triangoli e: (i) il numero di diagonali disegnati ad ogni vertice è pari; (ii) nessuno dei due diagonali ha un punto interno comune. Prova che $n$ è divisibile per $3$.
+
+[[src_pol_1974_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q02
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic 2n-term nonnegative reals with product-dominates-sum constraints; find minimum of total sum*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali non negativi a termine ciclico 2n con vincoli di prodotto-dominato-somma; trovare il minimo della somma totale*
+
+> (40 marchi) Dato il numero intero $n \ge 3$, $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ sia un numero reale non negativo, soddisfacente $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. E per qualsiasi $i = 1, 2, \ldots, 2n$, c'è $a_i a_{i+2} \ge b_i + b_{i+1}$, dove $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Trova il minimo di $a_1 + a_2 + \cdots + a_{2n}$.
+
+![[src_cn_cmc-second-round_2020__Q02.png]]
+
+[[src_cn_cmc-second-round_2020__Q02]]

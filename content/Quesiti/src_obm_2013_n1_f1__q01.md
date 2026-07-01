@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q01
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute double of: 24 plus triple of 13 minus quadruple of 15*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Computo doppio di: 24 più triplo di 13 meno quadruplo di 15*
+
+> Qual è il doppio di $24$ più il triplo di $13$ meno il quadruplo di $15$?
+> 
+> (A) $24$ \quad (B) $26$ \quad (C) $27$ \quad (D) $37$ \quad (E) $38$
+
+[[src_obm_2013_n1_f1__Q01]]

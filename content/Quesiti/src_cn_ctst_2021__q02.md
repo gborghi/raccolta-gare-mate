@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q02
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid coloring with k-set colour constraints, find largest N*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colorazione a griglia con restrizioni di colore k-set, trovare la più grande N*
+
+> Date le cifre integri positive $n$ e $k$, $n > k^2 \ge 4$. In una griglia $n \times n$, qualsiasi quadrato $k$ in diverse righe e colonne distinte è chiamato $k$-set. Trovare il più grande intero positivo $N$ che soddisfi questo: si possono scegliere $N$ quadrati della griglia $n \times n$ e colorarli in un certo modo, in modo che per qualsiasi insieme di $k$ di colore, alcuni due quadrati abbiano lo stesso colore e altri due quadrati abbiano colori diversi.
+
+[[src_cn_ctst_2021__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q03
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle inscribed in unit circle, angle bisectors extended to circle, evaluate ratio*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo inserito nel cerchio unitario, bisectori angolari estesi al cerchio, rapporto di valutazione*
+
+> $\triangle ABC$ è inserito in un cerchio unitario. I tre bisettori degli angoli $A$, $B$ e $C$ sono estesi per incrociare il cerchio rispettivamente a $A_1$, $B_1$ e $C_1$. Poi < MSK0/>
+> 
+> (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$
+
+**Risposta:** A
+[[src_cn_cmc_2005__Q03]]

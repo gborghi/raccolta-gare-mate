@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q02
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante figure hanno lo stesso perimetro del foglio quadrato*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many figures have the same perimeter as the square sheet*
+
+> A chocolate bar costs 40 cents, but for every five chocolates purchased, another one is given as a gift. Marta gave four chocolates to each of her four friends. How much did she spend? A) 5.60 B) 2.40 C) 1.60 D) 6.40 E) A figure different from each of the preceding figures.
+
+[[src_kangourou_2013_junior__Q02]]

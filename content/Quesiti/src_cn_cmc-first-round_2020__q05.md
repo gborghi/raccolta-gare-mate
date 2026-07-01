@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q05
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of 9-element Gaussian integer set with non-decreasing moduli*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 8
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi permutazioni di un insieme di integri gaussiani di 9 elementi con moduli non in diminuzione*
+
+> (Paper B, Parte I Q5) Lasciate che l'elemento $9$ sia composto da $X = \{a + b\mathrm{i} \mid a, b \in \{1, 2, 3\}\}$, con $\mathrm{i}$ l'unità immaginaria. $\pi = (z_1, z_2, \ldots, z_9)$ è una permutazione di tutti gli elementi di $X$, che soddisfa $|z_1| \le |z_2| \le \cdots \le |z_9|$. Il numero di tali permutazioni $\pi$ è $\underline{\qquad}$.
+
+**Risposta:** 8
+[[src_cn_cmc-first-round_2020__Q05]]

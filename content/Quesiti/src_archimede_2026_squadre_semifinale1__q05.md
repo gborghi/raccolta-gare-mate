@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q05
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma alternata a/9-(a/9)^2 da 1 a 10*
 
@@ -75,3 +78,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0091
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary alternate to/9-(a/9)^2 from 1 to 10*
+
+> Francesco Laganà Hermita, the first in her class, was the first to correctly answer the question posed by Professor Vector, a professor at Aritmanzia. She asked us to use the number tables to calculate
+>  
+> 1 9 − 1 9 2! −
+>  
+> 2 9 − 2 9 2! +
+>  
+> 3 9 − 3 9 2! −··+
+>  
+> 9 9 − 9 9 2! −
+>  
+> 10 9 − 10 9 2! . What did Hermit replied? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0091
+[[src_archimede_2026_squadre_semifinale1__Q05]]

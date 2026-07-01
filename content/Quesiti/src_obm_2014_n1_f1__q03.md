@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q03
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive difference between a five-digit and a four-digit number with all nine digits distinct*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minore differenza positiva tra un numero a cinque cifre e un numero a quattro cifre con tutte e nove cifre distinte*
+
+> Qual è la più piccola differenza positiva tra un intero positivo con cinque cifre e un intero positivo con quattro cifre, con tutte le nove cifre distinte?
+> 
+> (A) $13$ \quad (B) $19$ \quad (C) $29$ \quad (D) $29$ \quad (E) $36$
+
+[[src_obm_2014_n1_f1__Q03]]

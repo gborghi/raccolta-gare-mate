@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round1__Q01
 parent: src_bmo_1984-85_round1
 competition: British Mathematical Olympiad 1984-85 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles tangent to a line, prove bisection and area ratio*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti a una linea, dimostrare la bisezione e il rapporto di superficie*
+
+> Due cerchi $S_1$ e $S_2$ toccano ognuno una linea retta $p$ nello stesso punto $P$. Tutti i punti di $S_2$, tranne $P$, sono all'interno di $S_1$. Una linea retta $q$ (i) è perpendicolare a $p$; (ii) tocca $S_2$ a $R$; (iii) taglia $p$ a $L$; e (iv) taglia $S_1$ a $N$ e $M$, dove $M$ è tra $L$ e $R$. a) Provare che $RP$ divide l'angolo $MPN$. b) Se $MP$ divide l'angolo $RPL$, trovare, con la prova, il rapporto tra le superfici di $S_1$ e $S_2$.
+
+[[src_bmo_1984-85_round1__Q01]]

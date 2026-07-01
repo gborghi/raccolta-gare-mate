@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q16
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di triangoli leggibili con due ventagli da 2007 stecche*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8.072.216.216 triangoli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of readable triangles with two fans from 2007 spokes*
+
+> The figure represents two vents (with four spikes) that overlap as shown in the figure. Consider the same situation now, but with two 2007 fans out. How many triangles can you now read in the figure?
+
+![[src_bocconi_finalenaz_2007__Q16.png]]
+
+**Answer:** 8.072.216.216 triangoli
+[[src_bocconi_finalenaz_2007__Q16]]

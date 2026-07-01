@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q25
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two people each roll a die; one wins on even product, other on odd; probability the even chooser wins*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due persone ciascuno ruota un dado; uno vince su prodotto pari, l'altro su pari; probabilità che il scelta pari vinca*
+
+> Due persone disputano un gioco lanciando una scommessa pari (par) o impar (impar). A loro non piace lo zero e quindi ognuno ruota un dado, e la persona che ha scelto il risultato pari (par) vince. La probabilità che la persona che ha scelto anche (par) vinca è: (A) $1/2$ (B) $2/5$ (C) $3/5$ (D) $12/25$ (E) $13/25$
+
+**Risposta:** E
+[[src_obm_2002_n3_f1__Q25]]

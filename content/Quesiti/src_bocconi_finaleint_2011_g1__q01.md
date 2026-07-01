@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q01
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagliare torta quadrata in parti uguali*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cutting square cake into equal parts*
+
+> For his birthday, Solomon wants to cut the side-shaped cake into four pieces so that all the pieces are different, either in size or shape. The cuts must follow the lines of the square. Solomon wants an equal number of cherries on each side. **Make a drawing of how to cut it.**
+
+![[src_bocconi_finaleint_2011_g1__Q01.png]]
+
+[[src_bocconi_finaleint_2011_g1__Q01]]

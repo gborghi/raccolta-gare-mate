@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1996-97_round2__Q03
 parent: src_bmo_1996-97_round2
 competition: British Mathematical Olympiad 1996-97 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count degree-5 polynomials divisible by x^2-x+1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare polinomi di grado-5 divisibili per x^2-x+1*
+
+> Trova il numero di polinomi di grado $5$ con i coefficienti $\textbf{distinct}$ dell'insieme $\{1, 2, 3, 4, 5, 6, 7, 8\}$ divisibili per $x^2 - x + 1$.
+
+[[src_bmo_1996-97_round2__Q03]]

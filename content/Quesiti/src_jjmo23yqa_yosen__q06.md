@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q06
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer triples satisfying two equations with bound 80000*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 80197
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare triplici interi che soddisfano due equazioni con il limite 80000*
+
+> Trova il numero di triples di numeri interi $(a, b, c)$ con $1 \le a, b, c \le 80000$ che soddisfano sia $a + b^2 + c^3 = b(c+1)^2$ che $2b = a + c$.
+
+**Risposta:** 80197
+[[src_jjmo23yqa_yosen__Q06]]

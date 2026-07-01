@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q09
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed angle ECF with parallel chords CD and AB, arc CA=44 degrees*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo inciso ECF con accordi paralleli CD e AB, arco CA=44 gradi*
+
+> Poiché le misure $CA$ $44^\circ$ e $CD$ e $AB$ sono parallele, le misure $DB$, $CE$ e $FD$ sono congruenti e misurano anche $44^\circ$. Poiché $CB$ è un diametro, l'arco $EF$ misura $180^\circ-44^\circ-44^\circ=48^\circ$. Infine $\angle ECF$ è l'angolo inserito determinato da arco $EF$, quindi il suo valore è $48^\circ/2=24^\circ$. Qual è il valore di < MSK14/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** C
+[[src_obm_2016_n2_f1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q12
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di partenza di Chiara per arrivare puntuale in bici*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** alle 10,00
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time to leave Chiara to arrive on time by bike< MSK1/>
+
+> Chiara and Marco made an appointment, for a snack, in a bar a mile from their home (you can see that the nearest person wasn't there...). Marco set off at $8.00$ in the morning and cycled at an average speed of $18$ km/h. Clear went to the appointment in her car, with an average speed of $72$ km/h. The good thing is that Chiara and Marco arrived at the appointment simultaneously.
+> 
+> What time did Chiara leave home?
+
+**Answer:** alle 10,00
+[[src_bocconi_squadre_2012__Q12]]

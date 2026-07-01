@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q01
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle centinaia di 5^2017*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Center of the hundreds of 5^2017*
+
+> What's the figure for the hundreds of 52017?
+>
+> - **(A)** 5
+> - **(B)** 2
+> - **(C)** 1
+> - **(D)** 3
+> - **(E)** 6
+
+**Answer:** C
+[[src_archimede_2017_biennio__Q01]]

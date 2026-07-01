@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q04
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale grafico a torta corrisponde al grafico a colonne*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which pie chart matches the column chart*
+
+![[src_kangourou_2015_marzo_student__prob4.png]]
+
+> Diana drew the column graph in the figure to represent the quantity of each of the 4 species of trees her class catalogued during a botanical excursion. James thinks, instead, that the relationship between the different species is best seen with a pie chart. Of the following pie charts, which one should James draw? A) B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2015_marzo_student__Q04]]

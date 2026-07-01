@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q13
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a set of points in space where any two distinct points are at distance 1, find the maximum number of points.*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un insieme di punti nello spazio in cui due punti distinti sono a distanza 1, trovare il numero massimo di punti.*
+
+> In un insieme di punti nello spazio, la distanza tra due punti diversi è uguale a $1$. Il numero massimo di punti che questo insieme può avere è:
+> 
+> A) 2
+> 
+> B) 3
+> 
+> C) 4
+> 
+> D) 6
+> 
+> E) 8
+
+**Risposta:** C
+[[src_obm_1998_n3_f1__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (IX International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1967__Q03
 parent: src_imho_1967
 competition: IMO 1967 (IX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisibility of product of consecutive integers by prime*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Divisibility of product of consecutive integers by prime*
+
+> Let $k$, $m$, $n$ be natural numbers such that $m + k + 1$ is a prime greater than $n + 1$. Let $c_s = s(s+1)$. Prove that the product $$(c_{m+1} - c_k)(c_{m+2} - c_k)\cdots(c_{m+n} - c_k)$$ is divisible by $c_1 c_2 \cdots c_n$.
+
+[[src_imho_1967__Q03]]

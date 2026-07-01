@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q09
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro triangolo coi punti medi nell’esagono*
 
@@ -61,3 +64,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 54
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle perimeter with midpoints in the hexagon*
+
+![[src_kangourou_2016_squadre_f__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (V0) at (2,0);
+  \coordinate (V1) at (1,1.732);
+  \coordinate (V2) at (-1,1.732);
+  \coordinate (V3) at (-2,0);
+  \coordinate (V4) at (-1,-1.732);
+  \coordinate (V5) at (1,-1.732);
+  \draw (V0) -- (V1) -- (V2) -- (V3) -- (V4) -- (V5) -- cycle;
+  \coordinate (M01) at (1.5,0.866);
+  \coordinate (M23) at (-1.5,0.866);
+  \coordinate (M45) at (0,-1.732);
+  \draw (M01) -- (M23) -- (M45) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> A regular hexagon of 12 cm side contains a triangle whose vertices are the midpoints of three two to two non-adjacent sides (see figure). How many centimeters does the perimeter of the triangle measure?
+
+**Answer:** 54
+[[src_kangourou_2016_squadre_f__Q09]]

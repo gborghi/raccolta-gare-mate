@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q11
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2n×2n grid; color exactly 2n^2 cells so no two colored cells share a side*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\binom{2n}{n}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2n×2n griglia; colore esattamente 2n^2 cellule in modo che non due cellule di colore condividono un lato*
+
+> C'è una griglia $2n \times 2n$. Colore esattamente le celle $2n^2$ secondo la seguente condizione:
+> 
+> Condizione: se una cellula colorata condivide un vertice con un'altra cellula colorata, non devono condividere un lato (cioè non ci sono due cellule colorate adiacenti).
+> 
+> Trova il numero di tali coloranti. (Le colorazioni legate alla rotazione o alla riflessione sono conteggiate come diverse.)
+
+**Risposta:** \binom{2n}{n}^2
+[[src_jmo22yq_yosen__Q11]]

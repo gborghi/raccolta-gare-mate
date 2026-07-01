@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q03
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante celle restano dopo cancellazioni (33x21)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cells remain after deletion (33x21) < MSK1/>
+
+> In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is equal. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
+
+**Answer:** B
+[[src_kangourou_2008_student_marzo__Q03]]

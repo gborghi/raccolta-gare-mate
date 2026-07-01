@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q14
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the largest perfect square that is a factor of 10!*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il più grande quadrato perfetto che è un fattore di 10!*
+
+> Uno dei seguenti è il più grande quadrato che è un fattore di $10!$. - Quale?
+> 
+> Si noti che < MSK0/>.
+>
+> - **(A)** $(4!)^2$
+> - **(B)** $(5!)^2$
+> - **(C)** $(6!)^2$
+> - **(D)** $(7!)^2$
+> - **(E)** $(8!)^2$
+
+**Risposta:** C
+[[src_smc_2019__Q14]]

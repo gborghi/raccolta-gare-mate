@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q05
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre nascoste nelle tre targhe somma 11126*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cifres hidden in the three plates sum 11126< MSK1/>
+
+![[src_kangourou_2019_student_marzo__prob5.png]]
+
+> Three four-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlaid. We know that the sum of the three numbers is 11126. What are the hidden numbers? A) 1, 4 e 7. B) 3, 3 e 3. C) 4, 5 e 6. D) 4, 5 e 7. (e) None of the preceding three.
+
+**Answer:** E
+[[src_kangourou_2019_student_marzo__Q05]]

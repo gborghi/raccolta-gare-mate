@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q09
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hundreds digit of largest 6-digit palindromic number divisible by 18*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cento cifre del più grande numero palindromico di 6 cifre divisibile per 18*
+
+> Un numero palindromico è quello in cui i numeri leggono lo stesso avanti e indietro, come 123 321. Qual è il centinaio di cifre del più grande numero palindromico di sei cifre divisibile per 18?
+>
+> - **(A)** $9$
+> - **(B)** $7$
+> - **(C)** $5$
+> - **(D)** $3$
+> - **(E)** $1$
+
+**Risposta:** E
+[[src_smc_2024__Q09]]

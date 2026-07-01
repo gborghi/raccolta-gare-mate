@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q03
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid, internal bisector meets BC at E, incircle of ABE touches AB at M, find angle DAE*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 60
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Trapezoide, bisector interno incontra BC a E, incircolo di ABE tocca AB a M, trovare angolo DAE< MSK1/>
+
+> In un trapezoide $ABCD$, il bisettore interno dell'angolo $A$ interseca la base $BC$ (o la sua estensione) al punto $E$. Nel triangolo $ABE$ è inciso un cerchio che tocca il lato $AB$ al punto $M$ e il lato $BE$ al punto $P$. Trova l'angolo $DAE$ in gradi, se $AB \cdot MP = 2$.
+
+**Risposta:** 60
+[[src_ioqm_2022__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q29
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti passeggeri*
 
@@ -55,3 +58,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many passengers< MSK1/>
+
+> A train has five carriages, each carrying at least one passenger. We'll say "nearby" two passengers if they're in the same carriage or in adjacent carriages. Each passenger has exactly 5 or 10 neighbors. How many passengers are on the train? A) 13
+> 	
+> B) 15
+> 	
+> C) 17
+> 	
+> D) 20 E) There is more than one possibility.
+
+**Answer:** A
+[[src_kangourou_2016_cadet_marzo__Q29]]

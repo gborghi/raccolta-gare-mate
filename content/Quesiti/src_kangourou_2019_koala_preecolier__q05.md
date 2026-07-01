@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q05
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dischetti ha portato via Anna dalla casetta*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many floppy disks did Anna take away from the house?
+
+![[src_kangourou_2019_koala_preecolier__prob5.png]]
+
+> By attaching a triangle to a cardboard board and all the same discs, possibly broken in half, Mark created the image of a small house. To make fun of him, Anna took away some of the entire discs; the figure shows you what remains of Mark's work. How many floppy disks did Anna take?
+>
+> (see figure)
+>
+> - **(A)** 8
+> - **(B)** 7
+> - **(C)** 6
+> - **(D)** 5
+> - **(E)** 4
+
+[[src_kangourou_2019_koala_preecolier__Q05]]

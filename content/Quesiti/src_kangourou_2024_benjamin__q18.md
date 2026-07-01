@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q18
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante celle dell'alveare contengono miele*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many hive cells contain honey< MSK1/>
+
+![[src_kangourou_2024_benjamin__prob18.png]]
+
+> The figure represents a 16 cell hive. Let's say two cells are close if they have a side in common. Some cells contain honey: the number in each cell indicates how many nearby cells contain honey. How many cells contain honey? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q18]]

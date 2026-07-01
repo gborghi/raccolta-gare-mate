@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q08
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colori dei nastri della treccia per numeri 1,2,3*
 
@@ -45,3 +48,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colors of the ribbon for numbers 1,2,3*
+
+![[src_kangourou_2020_pre_marzo__prob8.png]]
+
+> The braid in the figure is composed using three tapes: one yellow, one blue and one red. What colors match the numbers 1, 2, 3 you see in the figure?
+>
+> (see figure)
+>
+> - **(A)** One is blue, two is yellow and three is red.
+> - **(B)** One is yellow, two is red and three is blue.
+> - **(C)** One is red, two is blue, and three is yellow.
+> - **(D)** 1 is yellow, 2 is blue and 3 is red.
+> - **(E)** One is blue, two is red and three is yellow.
+
+**Answer:** D
+[[src_kangourou_2020_pre_marzo__Q08]]

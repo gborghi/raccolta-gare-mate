@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q15
 parent: src_kangourou_squadre_2009_finale
 competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore frazione somma dispari 1001..1999 / 1..999*
 
@@ -59,3 +62,31 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0003
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of the odd fraction sum 1001.1999 / 1.999< MSK1/>
+
+> A fraction to be simplified
+>  
+> What is the value of the fraction 1001+1003+1005+...+1997+1999 1+3+5+...+997+999?
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> A
+> 
+>  
+> Kangourou of Mathematics 2009 Kangourou team cup - final by Mirabilandia, 10 May 2009
+
+**Answer:** 0003
+[[src_kangourou_squadre_2009_finale__Q15]]

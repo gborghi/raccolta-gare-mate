@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q05
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo topi per un colore di ciascuno*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum mice for one colour of each < MSK1/>
+
+> The magician Antony has 14 grey mice in his magic hat, 8 white and 6 black. What is the minimum number of mice you have to pull out of your magic hat, blindfolded, to be absolutely sure that, among the extracted mice, there is at least one for each color?
+>  
+> A. 23 B. 22 C. 21 D. 15 E. 9
+
+**Answer:** A
+[[src_kangourou_2002_benjamin__Q05]]

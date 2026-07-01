@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q12
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero impossibile in cima alla piramide di prodotti*
 
@@ -68,3 +71,37 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible number at the top of the product pyramid*
+
+![[src_kangourou_2016_student_marzo__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\w{1.2}
+  \def\h{0.6}
+  \draw (-1.5*\w, 0) rectangle (-0.5*\w, \h);
+  \draw (-0.5*\w, 0) rectangle (0.5*\w, \h);
+  \draw (0.5*\w, 0) rectangle (1.5*\w, \h);
+  \draw (-\w, \h) rectangle (0, 2*\h);
+  \draw (0, \h) rectangle (\w, 2*\h);
+  \draw (-0.5*\w, 2*\h) rectangle (0.5*\w, 3*\h);
+\end{tikzpicture}
+\end{document}
+```
+
+> In each of the rectangles that appear in the figure, you want to write a number so that all the rectangles in the lower row contain natural numbers greater than 1 and, for each rectangle in the upper rows, the number written there is the product of the numbers in the two rectangles on which it rests. Which of the following numbers can never appear in the rectangle at the top of the figure? A) 56
+> 	
+> B) 84
+> 	
+> C) 90
+> 	
+> D) 105 E) 220
+
+**Answer:** D
+[[src_kangourou_2016_student_marzo__Q12]]

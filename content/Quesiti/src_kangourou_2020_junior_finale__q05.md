@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q05
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del piu lungo tra CD e CE*
 
@@ -64,3 +67,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0081
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Longest length between CD and CE< MSK1/>
+
+![[src_kangourou_2020_junior_finale__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (B) at (0,4);
+  \coordinate (C) at (0,0);
+  \coordinate (A) at (5,0);
+  \coordinate (D) at (10/3, 4/3);
+  \coordinate (H) at (10/3, 0);
+  \draw (B) -- (C) -- (A) -- (B);
+  \draw (C) -- (D);
+  \draw[dashed] (D) -- (H);
+  \node[above left] at (B) {$B$};
+  \node[below left] at (C) {$C$};
+  \node[below right] at (A) {$A$};
+  \node[right] at (D) {$D$};
+  \node[below] at (H) {$H$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The longest in an ABC triangle the measure of AB is 123 that of BC is 27 and that of CA is 120. Consider the two points D and E that divide the AB side into three segments of equal length. What is the length of the longest of the CD and EC segments? (Answer by writing the nearest whole).
+
+**Answer:** 0081
+[[src_kangourou_2020_junior_finale__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q02
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di parole marziane fino a 5 lettere*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of Martian words up to 5 letters*
+
+> The Martian alphabet consists of only 3 letters and the words are up to 5 letters long (which can also be all the same). How many Martian words are there at most? A 363 B 125 C 150 D 151 E 315 F 381
+
+**Answer:** A
+[[src_garaprime_2018__Q02]]

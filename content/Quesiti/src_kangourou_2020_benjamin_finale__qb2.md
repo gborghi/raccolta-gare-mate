@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Benjamin — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_finale__QB2
 parent: src_kangourou_2020_benjamin_finale
 competition: Kangourou 2020 Finale nazionale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione delimitata da quattro archi uguali*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the region bounded by four equal arcs*
+
+![[src_kangourou_2020_benjamin_finale__probB2.png]]
+
+> The four arches that border the shaded region are all the same length, equal to the length of the two drawn arches. This length is a quarter of the length of a radius of 1 cm. How many square inches is the area of the shaded region? (see figure)
+
+**Answer:** 2
+[[src_kangourou_2020_benjamin_finale__QB2]]

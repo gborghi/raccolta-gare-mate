@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r3__Q05
 parent: src_pol_1997_r3
 competition: Olimpiade Matematica Polacca 1997 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex pentagon ABCDE with DC=DE, angle DCB=angle DEA=90 deg; F on AB with AF:BF=AE:BC; prove two angle equalities.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCDE pentagono convex con DC=DE, angolo DCB=angolo DEA=90 deg; F su AB con AF:BF=AE:BC; dimostrare due ugualità angolari.*
+
+> Si dà un pentagono convexo $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Il segmento $AB$ deve contenere un punto $F$ in modo tale che $AF : BF = AE : BC$. Provare che < MSK0/>
+
+[[src_pol_1997_r3__Q05]]

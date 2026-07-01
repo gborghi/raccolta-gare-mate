@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q18
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soldi iniziali del giocatore lavorando all'indietro*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial payouts of the player working backwards*
+
+> A stingy gambler pays 5,000 lire to enter a gambling house, where he doubles his money. When he gets out, he pays 5,000 lire for the parking of the car, but since luck is in his favor he enters a second free-entry gambling house, where he doubles his money again. After paying for the parking lot again with 6,000 lire, he realizes that there is nothing left in his wallet. How much money did the player initially have?
+>
+> - **(A)** 10 000
+> - **(B)** 12 000
+> - **(C)** 15 000
+> - **(D)** The data are insufficient.
+> - **(E)** The previous answers are all wrong.
+
+**Answer:** E
+[[src_archimede_1998_biennio__Q18]]

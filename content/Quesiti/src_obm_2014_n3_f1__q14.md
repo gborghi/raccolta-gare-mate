@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q14
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest possible center value of a 3x3 multiplicative magic square*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il minimo possibile valore centrale di un quadrato magico moltiplicativo 3x3*
+
+> Un quadrato magico moltiplicativo è un quadrato $n \times n$ con numeri interi positivi distinti i cui prodotti dei numeri nella stessa riga, colonna o diagonale sono uguali. Ad esempio, abbiamo il seguente quadrato magico moltiplicativo: $\begin{array}{|c|c|c|} \hline 128 & 1 & 32 \\ \hline 4 & 16 & 64 \\ \hline 8 & 256 & 2 \\ \hline \end{array}$ Qual è il valore più piccolo possibile del numero al centro di un quadrato magico moltiplicativo $3 \times 3$? (A) $1$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
+
+[[src_obm_2014_n3_f1__Q14]]

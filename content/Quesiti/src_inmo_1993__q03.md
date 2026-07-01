@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1993 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1993__Q03
 parent: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality for four positive reals summing to 1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza per quattro valori reali positivi sommati a 1*
+
+> Se $a, b, c, d$ sono numeri positivi con $a + b + c + d = 1$, dimostrare che $$ab + bc + cd \le \frac{1}{4}.$$ La disuguaglianza analogo vale per le variabili $n$?
+
+[[src_inmo_1993__Q03]]

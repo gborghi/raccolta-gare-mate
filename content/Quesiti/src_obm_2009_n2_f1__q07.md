@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q07
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit numbers each of whose digits exceeds corresponding digit of 314*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a 3 cifre ognuno dei quali supera la cifra corrispondente di 314*
+
+> Un numero naturale $A$ con tre cifre *detona * un numero naturale $B$ con tre cifre se ogni cifra di $A$ è strettamente superiore alla cifra corrispondente di $B$. Ad esempio, $876$ detona $345$; $876$ non detona $651$, né qualsiasi numero con meno di tre cifre. Quanti numeri a tre cifre esplodono?
+> 
+> **(A)** $120$ $\quad$ **(B)** $240$ $\quad$ **(C)** $360$ $\quad$ **(D)** $480$ $\quad$ **(E)** $600$
+
+**Risposta:** D
+[[src_obm_2009_n2_f1__Q07]]

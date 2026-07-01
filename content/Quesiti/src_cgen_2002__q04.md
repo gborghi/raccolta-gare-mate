@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2002 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2002__Q04
 parent: src_cgen_2002
 competition: Concours Général des Lycées 2002 — Matematica
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quatrieme partie: 3D construction of pseudo-rectangle triangles giving the surface x^2+y^2=z^2+1, and integer points on it.*
 
@@ -64,3 +67,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quatrieme partie: costruzione 3D di triangoli pseudo rettangolari che danno la superficie x^2+y^2=z^2+1, e punti interi su di essa.*
+
+> Questa parte si svolge nello spazio indicato in un quadro orthonormale diretto $(O;\vec{u},\vec{v},\vec{w})$ associato alle coordinate $(x,y,z)$.
+> 
+> Nel piano dell'equazione $z = 0$, $(C)$ sia il cerchio del centro $O$ e il raggio $1$, e $T$ e $P$ siano due punti distinti in modo tale che la linea $(TP)$ sia tangente al cerchio $(C)$ a $T$. Che $B$ e $C$ siano le intersezioni della linea $(OP)$ con il cerchio $(C)$, e che $(D)$ sia la linea perpendicolare al piano dell'equazione $z = 0$ che attraversa $P$.
+> 
+> **1.** a. Indicare che esistono due punti $A$ e $A'$ appartenenti alla linea $(D)$ in modo tale che i triangoli $ABC$ e $A'BC$ siano pseudo rettangolari rispettivamente a $A$ e $A'$; fornire una semplice costruzione di questi due punti. b. Mostrare che le coordinate di questi due punti soddisfano l'uguaglianza $x^2 + y^2 = z^2 + 1$.
+> 
+> **2.** $(H)$ deve essere l'insieme dei punti $A$ e $A'$ in quanto $T$ e $P$ variano. a. Qual è l'intersezione dell'insieme $(H)$ con un piano ortogonale a $\vec{w}$? b. Qual è l'intersezione dell'insieme $(H)$ con un piano contenente la linea $(O;\vec{w})$? c. Mostra che l'insieme $(H)$ è contenuto in un'unione di linee che si specificherà.
+> 
+> **3.** Quest'ultima domanda riguarda i punti interi dell'insieme $(H)$, cioè gli elementi di $(H)$ le cui tre coordinate sono interi. a. Che $(x,y,z)$ sia il triplo delle coordinate di tale punto. Indicare che $x$ o $y$ è strano. Da ora in poi, indicare con $\mathcal{S}$ l'insieme di triples $(x,y,z)$ di enti interi naturali rigorosamente positivi in modo tale che $x$ sia impar e $x^2 + y^2 = z^2 + 1$. b. Che $d$ sia un numero intero rigorosamente positivo fisso. Prova che l'insieme di elementi $(x,y,z)$ di $\mathcal{S}$ in modo tale che $\gcd(x+1, y+z) = d$ sia vuoto se $d$ è pari, e un insieme infinito se $d$ è pari. c. Il $m$ deve essere un intero naturale parziale superiore o uguale a $3$. Quanti elementi $(x,y,z)$ di $\mathcal{S}$ sono tali da $x = m$? Determinare questi elementi quando < MSK20/>.
+
+[[src_cgen_2002__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q03
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find BX in equilateral triangle with circle tangent at X and crossing sides*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $5 + \sqrt{10}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova BX in triangolo equilaterale con tangente di cerchio a X e lati di incrocio*
+
+> Il $ABC$ deve essere un triangolo equilaterale con lunghezza laterale $10$. Un cerchio che attraversa $A$ è tangente ai lati $BC$ (esclusi i punti finali) al punto $X$ e incontra i lati $AB$ e $AC$ di nuovo rispettivamente ai punti $D$ e $E$ (diversi da $A$). Dato che $BX > CX$ e $AD + AE = 13$, trovare la lunghezza $BX$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
+
+![[src_jmo34yqa_yosen__Q03.png]]
+
+**Risposta:** 5 + \sqrt{10}
+[[src_jmo34yqa_yosen__Q03]]

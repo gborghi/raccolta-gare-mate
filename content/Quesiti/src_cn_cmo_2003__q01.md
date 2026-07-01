@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2003 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2003__Q01
 parent: src_cn_cmo_2003
 competition: China Mathematical Olympiad 2003
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Collinearity of circumcenter, incenter, vertex iff equal areas*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Collinearità del circondocentro, dell'incentro, del vertice se le aree sono uguali< MSK1/>
+
+> Supponiamo che i punti $I$ e $H$ siano rispettivamente l'incentro e l'ortocentro di un triangolo acuto $ABC$, e che i punti $B_1$ e $C_1$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. È noto che il raggio $B_1I$ interseca il lato $AB$ a $B_2$ (o la sua estensione), $C_1I$ interseca l'estensione $AC$ a $C_2$, $B_2C_2$ e $BC$ interseca a $K$, e $A_1$ è il circoncentro di $\triangle BHC$. Prova che i tre punti $A_1$, $I$ e $A$ sono collineari se e solo se le superfici di $\triangle B_1B_2K$ e $\triangle C_1C_2K$ sono uguali. (Posizionato da Shen Wenxuan)
+
+[[src_cn_cmo_2003__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q12
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi di {1..9} con somma multipla di 3*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0175
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sub-sets of {1,9} with multiple sums of 3 < MSK1/>
+
+> The Quamditch team[40] Hardy, the captain of the Rapporteur's home Quamditch team must decide the roster of nine players from his home Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are such that the sum of the elements is multiple of 3?
+
+**Answer:** 0175
+[[src_cesenatico_2006_squadre_pubblico__Q12]]

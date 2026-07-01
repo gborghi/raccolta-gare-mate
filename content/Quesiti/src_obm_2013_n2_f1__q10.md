@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q10
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle of consecutive odd numbers: which row contains 2013?*
 
@@ -56,3 +59,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo di numeri dispari consecutivi: quale riga contiene 2013?*
+
+> Il triangolo aritmetico di Fibonacci si forma posizionando tutti i numeri integri odd positivi, a partire da 1, riga per riga, con ogni riga contenente un elemento in più rispetto al precedente. Le prime quattro righe sono:
+> 
+> $$\text{Row 1: } 1$$ $$\text{Row 2: } 3 \quad 5$$ $$\text{Row 3: } 7 \quad 9 \quad 11$$ $$\text{Row 4: } 13 \quad 15 \quad 17 \quad 19$$
+> 
+> In quale riga appare il numero $2013$?
+> 
+> (A) 45 \quad (B) 46 \quad (C) 62 \quad (D) 63 \quad (E) 64
+
+**Risposta:** D
+[[src_obm_2013_n2_f1__Q10]]

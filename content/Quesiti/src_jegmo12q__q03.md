@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2023 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo12q__Q03
 parent: src_jegmo12q
 competition: Japan EGMO Selection / Girls MO 2023
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place n² cards on n×n grid so adjacent cards have coprime values*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare le carte n2 sulla griglia n×n in modo che le carte adiacenti abbiano valori di coprime*
+
+> $n \ge 2$ sia un numero intero. Ci sono carte $n^2$ etichettate $1, 2, \ldots, n^2$. Per ogni numero intero $i$ con $1 \le i \le n^2$, la scheda $i$ ha il numero $\left\lfloor \dfrac{n^2}{i} \right\rfloor$ scritto su di essa. Desideriamo inserire una carta in ogni cella di una griglia $n \times n$ (una carta per cella) in modo tale che la seguente condizione soddisfi:
+> 
+> Per due cellule che condividono un lato, i due numeri scritti sulle schede posizionate in quelle cellule sono coprim.
+> 
+> Trova tutti i valori di $n$ per i quali esiste un tale sistema.
+
+[[src_jegmo12q__Q03]]

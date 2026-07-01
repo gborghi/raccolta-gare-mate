@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q25
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo peso bagaglio senza sovrapprezzo*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum weight of luggage without overhead< MSK1/>
+
+> The price of an airline's ticket includes carrying luggage up to a certain weight limit, while an additional charge is charged for each kilogram or fraction of a kilogram of luggage exceeding the limit. Mr Viaggio and his wife had, in two, 60 kg of luggage and paid 3 euros while Mr Girovago, for a luggage of the same weight, paid 10.50 euros. In kilograms, what is the maximum weight of luggage that each passenger can carry without overpayment? The Commission considers that the Commission's decision on the application of this Regulation to the Member States is inadequate and that it is unlikely that the Commission will take any further action.
+> 
+> I'm going to pay. I'm going to pay. 32 32 Kang 201 Kang 2011
+
+**Answer:** D
+[[src_kangourou_2011_student__Q25]]

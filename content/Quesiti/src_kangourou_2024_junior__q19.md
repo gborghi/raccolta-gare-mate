@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q19
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale quaterna non contiene numeri usati (somme multiple di 3)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which quadrant contains no numbers used (multiple sums of 3) *
+
+> Cristina placed 8 positive integers, all different from each other and chosen from the top 12, each in a vertex of a regular octagon so that, for each pair of adjacent vertices, the sum of the numbers that appear there turned out to be a multiple of 3. Which of the following four doesn't contain numbers that Cristina used? A) 1, 5, 9, 12 B) 3, 5, 7, 9 C) 1, 2, 11, 12 D) 5, 6, 7, 8 E) 3, 6, 9, 12
+
+**Answer:** E
+[[src_kangourou_2024_junior__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12mq_honsen__Q02
 parent: src_jjmo12mq_honsen
 competition: Japan Junior Mathematical Olympiad 2014 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove A≤B for minimum consecutive ratios of 2n positive rationals*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove A≤B per i rapporti minimi consecutivi di 2n razionali positivi*
+
+> $n$ sia un numero intero positivo. $a_1, a_2, \ldots, a_{2n}$ siano $2n$ numeri razionali positivi. Riordinarli in ordine non diminuente dà $b_1 \leq b_2 \leq \cdots \leq b_{2n}$. Definire $A$ come valore minimo tra $\dfrac{a_2}{a_1}, \dfrac{a_3}{a_2}, \ldots, \dfrac{a_{2n}}{a_{2n-1}}$ e $B$ come valore minimo tra $\dfrac{b_2}{b_1}, \dfrac{b_3}{b_2}, \ldots, \dfrac{b_{2n}}{b_{2n-1}}$. Prove che $A \leq B$.
+
+[[src_jjmo12mq_honsen__Q02]]

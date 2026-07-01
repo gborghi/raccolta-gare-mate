@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q08
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area and perimeter of gray squares in grid; maximize area with fixed perimeter*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area e il perimetro dei quadrati grigi nella griglia; massimizzare l'area con perimetro fisso*
+
+> Nella griglia di seguito, ogni piccolo quadrato ha area $1\,\text{cm}^2$.
+> 
+> (a) Qual è l'area e il perimetro della figura formata dai quadrati grigie?
+> 
+> b) Coloring altri quadrati, possiamo aumentare l'area di questa figura senza cambiare il suo perimetro. Qual è la superficie massima che possiamo raggiungere?
+
+![[src_obm_2004_n1_f2__Q08.png]]
+
+[[src_obm_2004_n1_f2__Q08]]

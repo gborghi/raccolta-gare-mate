@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q03
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo e massimo numero lati poligono angoli 168/169*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 3032
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum and maximum number of polygon angles of the sides 168/169*
+
+> The angles of the polygon For a polygon consider the following property (P): each of its internal angles measures 168 or 169 degrees. Write in the order the minimum and maximum number of sides for a polygon having the property (P). Write 0000 if there are no polygons with the property (P).
+
+**Answer:** 3032
+[[src_kangourou_2015_squadre_a__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f2__Q02
 parent: src_obm_2010_n3_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer quadratic with parameters r,s; count possible values of |r-s|*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integro quadratico con parametri r,s; contare i possibili valori di ̊r-s> *
+
+> $r$ e $s$ siano numeri interi. Supponiamo che l'equazione del secondo grado $$x^2 - (r+s)x + rs + 2010 = 0$$ abbia due soluzioni integrali. Quanti valori possibili ha $|r - s|$?
+
+[[src_obm_2010_n3_f2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q14
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri inseriti nella griglia sottogriglie 10*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers entered in the subgrid 10*
+
+![[src_kangourou_2011_junior__prob14.png]]
+
+> In the 3x3 grid in the figure, 5 numbers are visible. Nicola inserted one in each cell that appears free so that the sum of the numbers in each 2x2 subgrid is 10 (subgrids can only be made by cutting out consecutive rows and columns). How much is the sum of the numbers Nicola entered? A) 9 B) 10 C) 11 D) 12 E) 13
+
+**Answer:** D
+[[src_kangourou_2011_junior__Q14]]

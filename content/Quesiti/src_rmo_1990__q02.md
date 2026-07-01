@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1990 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1990__Q02
 parent: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality for positive reals: sum of fractions ge 3/2*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ineguaglianza per i reali positivi: somma delle frazioni ge 3/2 < MSK1/>
+
+> Per tutti i numeri reali positivi $a, b, c$ provare che $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b} \ge \frac{3}{2}.$$
+
+[[src_rmo_1990__Q02]]

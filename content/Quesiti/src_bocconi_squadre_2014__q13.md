@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q13
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area parte comune tra triangolo e quadrato interno al triangolo grande*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{11}{12}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Common area ratio of triangle to square inside the large triangle*
+
+> Take as a unit of measurement the side of the inner square to the large square and write the area of the common part (in gray in the figure) to the triangle and the inner square to the large triangle.
+
+![[src_bocconi_squadre_2014__Q13.png]]
+
+**Answer:** $\dfrac{11}{12}$
+[[src_bocconi_squadre_2014__Q13]]

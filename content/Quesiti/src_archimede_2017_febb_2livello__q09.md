@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q09
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie reali (x,y) con x+y^2=y^3 e y+x^2=x^3*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
+
+> How many pairs of real numbers (x,y) satisfy both equations x + y2 = y3 and y + x2 = x3?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 9
+> - **(E)** Infinite
+
+**Answer:** B
+[[src_archimede_2017_febb_2livello__Q09]]

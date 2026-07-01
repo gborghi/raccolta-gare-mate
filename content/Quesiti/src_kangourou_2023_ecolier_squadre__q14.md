@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q14
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centesimi in più di Claudia rispetto a Elena*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0930
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>100 more than Claudia than Elena< MSK1/>
+
+> The extra cents Claudia has 64 20 cent coins and some 50 cent coins. Elena has 95 20-cent coins and some 50-cent coins. Claudia and Elena have the same number of coins, and the ones we've listed are the only coins they have. How many cents does Claudia have more than Elena?
+
+**Answer:** 0930
+[[src_kangourou_2023_ecolier_squadre__Q14]]

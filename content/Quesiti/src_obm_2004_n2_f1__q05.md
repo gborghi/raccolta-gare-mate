@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q05
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of product of odd numbers from 1 to 99*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità di numero di prodotto dei numeri odd da 1 a 99*
+
+> La cifra di unità del numero $1 \times 3 \times 5 \times \cdots \times 97 \times 99$ è:
+> 
+> **A)** $1$ $\quad$ **B)** $3$ $\quad$ **C)** $5$ $\quad$ **D)** $7$ $\quad$ **E)** $9$
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q05]]

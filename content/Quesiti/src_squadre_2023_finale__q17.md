@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q17
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma complessita binaria c(n) da 1 a 2048*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8420
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complex binary sum c(n) from 1 to 2048*
+
+> I'm not going to be able to tell you what to do. Nefarey knows that the binary complexity c(n) of a natural number n is the minimum number of powers of 2 needed to write n as the sum or difference of powers of 2. For example c(4) = 1 because 4 = 22, c(15) = 2 because 15 = 24 −20 and c(23) = 3 because 23 = 24 +23 −20. To set the trajectory so that the rocket reaches the moon, it must calculate c(1) + c(2) + c(3) +...+ c(2047) + c(2048). What value does it get?
+
+**Answer:** 8420
+[[src_squadre_2023_finale__Q17]]

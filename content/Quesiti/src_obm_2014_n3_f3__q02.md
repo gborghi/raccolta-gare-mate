@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f3__Q02
 parent: src_obm_2014_n3_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers n>1 such that digit sum divides remainder mod n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli enti n>1 in modo tale che la somma digitali divida il rimanente mod n*
+
+> Trova tutti gli enti $n > 1$ con la seguente proprietà: per ogni $k$ con $0 \le k \le n$, esiste un multiple di $n$ la cui somma digitali, nella base dieci, lascia il rimanente $k$ quando diviso da $n$.
+
+[[src_obm_2014_n3_f3__Q02]]

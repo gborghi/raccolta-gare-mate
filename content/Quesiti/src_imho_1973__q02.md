@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (XV International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1973__Q02
 parent: src_imho_1973
 competition: IMO 1973 (XV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Finite set M with parallel midpoint lines property*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Finite set M with parallel midpoint lines property*
+
+> Determine whether or not there exists a finite set $M$ of points in space not lying in the same plane such that, for any two points $A$ and $B$ of $M$, one can select two other points $C$ and $D$ of $M$ so that lines $AB$ and $CD$ are parallel and not coincident.
+
+[[src_imho_1973__Q02]]

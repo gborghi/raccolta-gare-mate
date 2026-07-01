@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q02
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Average of integers from 0 to 10000 whose decimal representation avoids digit 1*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2469
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medio di numeri interi da 0 a 10000 la cui rappresentazione decimale evita la cifra 1*
+
+> Trova la media di tutti gli enti tra $0$ e $10000$ (inclusi) la cui rappresentazione decimale non contiene la cifra $1$.
+
+**Risposta:** 2469
+[[src_jmo20yq_yosen__Q02]]

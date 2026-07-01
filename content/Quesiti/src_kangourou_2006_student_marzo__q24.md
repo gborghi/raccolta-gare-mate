@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q24
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Liste di risposte che garantiscono 4 corrette*
 
@@ -65,3 +68,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lists of answers providing 4 correct answers*
+
+> I have to do a 10-question test, and the answer to each question is "yes" or "no". It must be structured in such a way that those who answer 'yes' to one half of the questions and 'no' to the other half still give correct answers to at least four questions. How many possible lists of correct answers give me this guarantee? A) 55 B) 252 C) 2 D) 10 E) 22 55 Z A X Y 90 120 200 figure 2 figure 1 Student_06.qxp 20/02/2006 23.38 Page 31
+> 
+> I'm going to pay. I'm going to pay. 32 32 Kang 2006 Kang 2006 tudent
+
+**Answer:** E
+[[src_kangourou_2006_student_marzo__Q24]]

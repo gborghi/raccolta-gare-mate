@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q19
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *All four-distinct-digit numbers sorted; largest positive difference between neighbors*
 
@@ -53,3 +56,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutti i numeri a quattro cifre distinte ordinati; maggiore differenza positiva tra i vicini*
+
+> Juca fece un elenco di tutti i numeri interi positivi con quattro cifre distinte, in ordine crescente. Poi fece un'altra lista delle differenze positive tra tutte le coppie di numeri vicini. Nella seconda lista, quale era il numero più grande che Juca scrisse?
+> 
+> (A) $25$ \quad (B) $36$ \quad (C) $47$ \quad (D) $103$ \quad (E) $105$
+
+[[src_obm_2014_n1_f1__Q19]]

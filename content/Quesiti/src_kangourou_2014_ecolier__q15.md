@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q15
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cavoli ha mangiato il coniglio in una settimana*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cabbage has the rabbit eaten in a week< MSK1/>
+
+![[src_kangourou_2014_ecolier__prob15.png]]
+
+> By joining eight equal cubes, Thomas obtained a construction and laid it on the floor as shown in the figure to the right. Looking at the construction from above, which of the following images can Thomas see?
+
+[[src_kangourou_2014_ecolier__Q15]]

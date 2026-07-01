@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q17
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangolo, bisettrice, congruenze e segmenti uguali HF=FC*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangle, bisector, congruence and segments equal to HF=FC*
+
+![[src_archimede_2016_febb_2livello__prob17.png]]
+
+> Demonstrative Exercise Whether ABCD is a rectangle with AB > BC and whether ω is its circumscribed circumference. E and F are the intersections (different from A) of the intersection of the angle \ BAD with the CD side and the circumference ω respectively. The perpendicular to DF passing through E intersects the DF rope in G and the non-C-containing DF arc at point H. It is shown that: (a) the DF and FB segments are of the same length; (b) the DEG and DHG triangles are congruent; (c) the HF and FC segments are equal.
+
+[[src_archimede_2016_febb_2livello__Q17]]

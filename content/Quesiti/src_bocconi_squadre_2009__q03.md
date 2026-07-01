@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q03
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di 9 cifre divisibile per 2,3,...,8 con condizioni sulle sottostringhe*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 381654729
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of 9 digits divisible by 2,3,...,8 with conditions on the substrings*
+
+> Find a nine-digit number (all different from each other and different from 0) that is divisible by 9 and such that: - the number formed by its first two digits is divisible by 2; - the number formed by its first three digits is divisible by 3; - \ldots - the number formed by its first seven digits is divisible by 7; - the number formed by its first eight digits is divisible by 8.
+
+**Answer:** 381654729
+[[src_bocconi_squadre_2009__Q03]]

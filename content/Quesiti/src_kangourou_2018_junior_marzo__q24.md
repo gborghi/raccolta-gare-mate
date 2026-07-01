@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q24
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo N di circonferenze tangenti nella corona circolare*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum N tangent circumferences in the circular crown*
+
+![[src_kangourou_2018_junior_marzo__prob24.png]]
+
+> The smaller radius of a circular crown is 1, the larger is 9. They want to draw N circles within the circular crown so that • each is tangent to both the circles that delimit the circular crown and • the circles do not have more than one point in common at two to two. The figure next to it, not in scale, illustrates a possible position for one of the N circumferences. What's the greatest possible value for N?
+
+**Answer:** C
+[[src_kangourou_2018_junior_marzo__Q24]]

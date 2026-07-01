@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q22
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo segmenti perché ogni circoletto abbia stesso grado*
 
@@ -61,3 +64,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimize segments so that each circle has the same grade*
+
+![[src_kangourou_2014_junior__prob22.png]]
+
+> Look at the figure. Clara wants to add the smallest possible number of segments with two circles at the ends so as to obtain the following result: from each of the seven circles the same number of segments starts. What's the least number of segments you have to trace? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 9
+> 	
+> E) 10 1 ----------- q +  1--- r 25 ------ 19
+>
+
+**Answer:** D
+[[src_kangourou_2014_junior__Q22]]

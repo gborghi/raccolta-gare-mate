@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q01
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Knight minimum moves to reach any square on 5x5 board*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di movimenti di cavaliere per raggiungere qualsiasi quadrato su una lavagna 5x5*
+
+> A Joao piace verificare le proprietà del cavaliere d' scacchi su una tavola. In uno dei suoi esperimenti, Jo\~ao colloca un cavaliere nel quadrato inferiore sinistro della tavola $5 \times 5$. Qual è il numero minimo di mosse che il cavaliere deve fare per raggiungere qualsiasi quadrato della tavola $5 \times 5$?
+> 
+> *Nota:* Il cavaliere si muove in una forma $L$: due quadrati in una direzione e poi un quadrato in una direzione perpendicolare, come illustrato nella figura.
+
+![[src_obm_2012_n2_f2__Q01.png]]
+
+[[src_obm_2012_n2_f2__Q01]]

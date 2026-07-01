@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q04
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frammento che fa parte del sole sorridente*
 
@@ -51,3 +54,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fragment that is part of the smiling sun*
+
+![[src_kangourou_2021_ecolier__prob4.png]]
+
+> Alessia drew the smiling sun you see here. Which of the following fragments is part of his drawing? A)
+> 	
+> B) C)
+> 	
+> D)
+> 	
+> E) 1 3 + 2
+>
+
+**Answer:** B
+[[src_kangourou_2021_ecolier__Q04]]

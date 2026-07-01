@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2000-01 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2000-01_round2__Q01
 parent: src_bmo_2000-01_round2
 competition: British Mathematical Olympiad 2000-01 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Marble-passing game; find ratio p/q in terms of n*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $2^n$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di marmo; trovare il rapporto p/q in termini di n*
+
+> Ahmed e Beth hanno rispettivamente $p$ e $q$ marmi, con $p > q$.
+> 
+> A partire da Ahmed, ciascuno a sua volta dà all'altro quanti marmi che l'altro già possiede. Si scopre che dopo tali trasferimenti, Ahmed ha marmi $q$ e Beth ha marmi $p$.
+> 
+> Trova $\dfrac{p}{q}$ in termini di $n$.
+
+**Risposta:** $2^n$
+[[src_bmo_2000-01_round2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2017 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2017__Q03
 parent: src_inmo_2017
 competition: Indian National Mathematical Olympiad 2017
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find triples (x,a,b) satisfying fractional-part equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca triplici (x,a,b) che soddisfino l'equazione frazionaria*
+
+> Trova il numero di triples $(x, a, b)$ dove $x$ è un numero reale e $a, b$ appartiene all'insieme $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che $$x^2 - a\{x\} + b = 0,$$ dove $\{x\}$ denota la parte frazionaria del numero reale $x$. (ad esempio $\{1.1\} = 0.1 = \{-0.9\}$.)
+
+[[src_inmo_2017__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 1 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale1__Q13
 parent: src_squadre_2023_semifinale1
 competition: Gara a Squadre 2023 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo isoscele con punti conciclici BEFM, angolo ACB*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle with BEFM conic points, ACB angle*
+
+> To design the perfect shot, you have to know the place perfectly. Lupin/3, Jig∈N and Goemetrikon study the map of the museum room from which they will make a famous statue disappear. The room is an ABC isosceles triangle of base AB. The three doors of the room are in M, the middle point of BC, in F, the foot of height relative to B and in E, point on AB such that EB ∼= BM. They also know that B,E,F,M passes a circumference. To avoid video surveillance, it is important to know the width of the ABC angles. How much it 's worth ! The ACB?
+
+**Answer:** 0036
+[[src_squadre_2023_semifinale1__Q13]]

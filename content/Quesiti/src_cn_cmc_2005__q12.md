@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q12
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lucky numbers with digit sum 7: find a_{5m} given a_m = 2005*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 52000
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri fortunati con somma di 7 numeri: trovare a_{5m} dato a_m = 2005*
+
+> Un numero naturale $n$ è chiamato "numero fortunato" se la somma delle sue cifre è $7$. Organizzare tutti i numeri fortunati in ordine ascendente per ottenere la sequenza $a_1, a_2, \ldots$. Se $a_m = 2005$, allora $a_{5m} = $ \underline{\hspace{2cm}}.
+
+**Risposta:** 52000
+[[src_cn_cmc_2005__Q12]]

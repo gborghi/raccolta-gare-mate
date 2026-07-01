@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q05
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomio con p(α)=β e p(β)=α, somma α+β*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Polynomial with p(α) =β and p(β) =α, sum of α+β*
+
+> In studying the polynomial p(x) = x2 + 2x −6, Enrica discovered two distinct real numbers α and β such that p(α) = β and p(β) = α. How much is α + β?
+>
+> - **(A)** −3
+> - **(B)** −2 √ 2
+> - **(C)** 0
+> - **(D)** 2
+> - **(E)** 6
+
+**Answer:** A
+[[src_archimede_2021_2livello__Q05]]

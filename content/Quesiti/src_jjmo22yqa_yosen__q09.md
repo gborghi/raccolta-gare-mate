@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q09
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 2024-step Hamiltonian tours on 2024 cells with restricted moves returning to cell 1*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2026
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i tour hamiltoniani in fase 2024 sulle cellule 2024 con movimenti ristretti che ritornano alla cellula 1*
+
+> Ci sono $2024$ celle etichettate $1, 2, \ldots, 2024$, e un pezzo che inizia sulla cella $1$. Per un numero intero $k$ con $1 \le k \le 2024$, quando il pezzo si trova nella cella $k$, può essere eseguita una delle seguenti mosse:
+> 
+> 1. Traslocare il pezzo nella cella < MSK0/>. 2. Trasferire il pezzo nella cella $k + 1$. 3. Trasferire il pezzo nella cella $k - 2$ (autorizzato solo quando $k$ è pari). 4. Trasferire il pezzo nella cella $k + 2$ (autorizzato solo quando $k$ è pari).
+> 
+> Trovare il numero di sequenze di movimenti $2024$ esattamente in modo che il pezzo visita ogni cella diversa dalla cella $1$ esattamente una volta e ritorni alla cella $1$ alla fine, senza visitare la cella $1$ in mezzo.
+> 
+> (Qui le celle $0$ e $2025$ rappresentano le celle $2024$ e $1$, rispettivamente.)
+
+![[src_jjmo22yqa_yosen__Q09.png]]
+
+**Risposta:** 2026
+[[src_jjmo22yqa_yosen__Q09]]

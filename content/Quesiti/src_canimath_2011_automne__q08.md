@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q08
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *x,y,z in [0,1] with (1-x)(1-y)(1-z)=xyz; one of three products >=1/4 and one <=1/4*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*x,y,z in [0,1] con (1-x)(1-y)(1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4*
+
+> $x$, $y$, $z$ siano tre numeri reali appartenenti all'intervallo $[0, 1]$ che soddisfano $$(1-x)(1-y)(1-z) = xyz.$$ 1. Indicare che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è maggiore o uguale a $\frac{1}{4}$. 2. Mostra che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è inferiore o uguale a $\frac{1}{4}$.
+
+[[src_canimath_2011_automne__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q09
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo n con somma 24 numeri x un 3 cifre quadrato perfetto*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6666
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum n with sum of 24 digits x one perfect 3-digit square*
+
+> Fredmath's parents are playing with a deck of nine cards numbered 1 to 9. Summy approaches, takes 4 cards and asks: How many different ways are there to order these cards?, Scoobe-Zout answers: By changing the position of the 4 cards you can get 24 numbers of 4 digits, all different. Then S-Higgs asks:  And if I added them all and 24 what number would I get? Vennma observes promptly: It depends on the cards, but by multiplying this sum by a number of exactly three digits you can get a perfect square n2. When you vary the choice of the initial 4 cards, what is the maximum value of n?
+
+**Answer:** 6666
+[[src_squadre_2024_finale__Q09]]

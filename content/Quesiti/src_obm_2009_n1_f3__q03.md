@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f3__Q03
 parent: src_obm_2009_n1_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3D solid made of unit cubes; count cubes per direction in larger similar solid*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*solide tridimensionale costituito da cubetti unitari; cubetti di conteggio per direzione in solidi simili più grandi*
+
+> Dato un solido formato da cubetti di bordo $1\text{ cm}$, come mostrato nella figura 1, possiamo indicare il numero di cubetti in ciascuna direzione come mostrato nella figura 2.
+> 
+> [La figura 1 mostra un piccolo solido simile a una scala; la figura 2 mostra un cubo $3\times3\times3$ con numeri che indicano il numero di cubi unitari lungo ciascuna direzione.]
+> 
+> Esmeraldino ha assemblato un solido a partire da cubi di bordo $1\text{ cm}$ e ha realizzato una figura simile alla figura 2, dove i numeri $a, b, c, d, e, f, x$ e $m$ figurano nella griglia (vedere figura a pagina 2).
+> 
+> Trova i valori di $a$, $b$, $c$, $d$, $e$, $f$, $x$ e $m$.
+
+![[src_obm_2009_n1_f3__Q03.png]]
+
+[[src_obm_2009_n1_f3__Q03]]

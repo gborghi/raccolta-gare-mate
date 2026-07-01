@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q24
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Antichain pair in divisor poset: prove sqrt(|A|)+sqrt(|B|)≤sqrt(|D|)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+MSK1/>Pare di catene in posizione di divisore: prove sqrt(<A to be) +sqrt(to be)≤sqrt(to be)*
+
+> Il numero $n$ è un numero intero positivo fisso. Denotare con $D$ l'insieme di tutti i divisori positivi di $n$. Che $A$ e $B$ siano sottogruppi di $D$ che soddisfino: per qualsiasi $a \in A$ e $b \in B$, né $a$ divide $b$ né $b$ divide $a$. Provare che < MSK0/>
+
+[[src_cn_ctst_2022__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q04
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last digit when Esmeralda writes positive integers in sequence and stops at the 149162536th digit*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'ultima cifra quando Esmeralda scrive numeri interi positivi in sequenza e si ferma al 149162536 ° numero*
+
+> Esmeralda scrisse i numeri interi positivi uno dopo l'altro formando una sequenza: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ e si fermò quando raggiunse la $149{,}162{,}536$th cifra. Qual e' stata l'ultima cifra che ha scritto?
+
+**Risposta:** 6
+[[src_obm_2010_n1_f2__Q04]]

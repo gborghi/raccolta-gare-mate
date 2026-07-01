@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q05
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-referential: the product of the numbers in the incorrect alternatives is a perfect cube.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Auto-referenziale: il prodotto dei numeri nelle alternative errate è un cubo perfetto.*
+
+> Il prodotto dei numeri che appaiono nelle alternative errate di questa domanda è un cubo perfetto. Segna l'alternativa corretta.
+> 
+> (A) 4 (B) 8 (C) 18 (D) 54 (E) 192
+
+[[src_obm_2004_n3_f1__Q05]]

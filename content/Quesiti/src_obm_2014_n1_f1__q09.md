@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q09
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Table of directed fares between five cities; minimum cost to visit all*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tabella delle tariffe dirette tra cinque città; costo minimo per visitare tutte*
+
+> La tabella indica il prezzo in reais dei biglietti per viaggi tra cinque città $A$, $B$, $C$, $D$, $E$. Si noti che il prezzo di andare e di tornare tra due città diverse è diverso. Pablo vuole visitare tutte le città, spendendo il minimo possibile. Il tavolo è:
+> 
+> $$\begin{array}{c|ccccc} & A & B & C & D & E \\ \hline A & - & 3 & 1 & 2 & 5 \\ B & 2 & - & 2 & 1 & 4 \\ C & 1 & 3 & - & 2 & 1 \\ D & 2 & 5 & 4 & - & 3 \\ E & 5 & 2 & 1 & 4 & - \end{array}$$
+> 
+> Quanto spenderà Pablo?
+> 
+> (A) $4$ reais \quad (B) $5$ reais \quad (C) $6$ reais \quad (D) $9$ reais \quad (E) $11$ reais
+
+[[src_obm_2014_n1_f1__Q09]]

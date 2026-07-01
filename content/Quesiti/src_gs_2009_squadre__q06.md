@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q06
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre orologi a velocita diverse, ora comune*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three different speed clocks, common time*
+
+> According to G2AS, in the headquarters of the Galactic Geo-temporal Control, on huge walls, there are clocks that indicate the exact time of many planets. In one corner, there are analog clock hands, which indicate the time of the only three planets in the universe where the day is divided into 12 hours and 60 minutes: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, Fallia's clock is at 7, Bethselamin's clock is at 11, and Ciceronicus's clock is at 2. But as an hour passes on Fallia's clock, Ciceronicus's moves an hour and 20 minutes, and while Bethselamin's clock counts 12 hours, Fallia's counts 36. What time will Fallia's clock mark the first time that those of Bethselamin and Ciceronicus will mark the same hour? You get the answer using the first two digits for the hour, the last two digits for the minute.
+
+[[src_gs_2009_squadre__Q06]]

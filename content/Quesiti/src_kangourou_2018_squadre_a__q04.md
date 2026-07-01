@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q04
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare striscia 6 quadrati con rotazione*
 
@@ -58,3 +61,29 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 48
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>6 square strip colouring modes with rotation< MSK1/>
+
+![[src_kangourou_2018_squadre_a__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (1,1);
+  \draw (1,0) rectangle (2,1);
+  \draw (2,0) rectangle (3,1);
+  \draw (3,0) rectangle (4,1);
+  \draw (4,0) rectangle (5,1);
+  \draw (5,0) rectangle (6,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> Three colors Cristina has three colors to color the six squares where the strip you see in the figure is divided. It is not obliged to use the same quantity or even to use all three, but it must ensure that adjacent squares receive different colors. How many different ways can you color the strip? Note: colours that can be obtained from each other by rotating the strip correspond to only one way.
+
+**Answer:** 48
+[[src_kangourou_2018_squadre_a__Q04]]

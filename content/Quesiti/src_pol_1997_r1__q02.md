@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q02
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a parallelogram with an interior point giving an angle equality, prove another angle equality.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un parallelo con un punto interno che dà un'eguaglianza d'angolo, dimostrare un'altra eguaglianza d'angolo.*
+
+> $P$ deve essere un punto all'interno di un parallelo $ABCD$ tale che $\angle ABP = \angle ADP$. Prove che $\angle PAB = \angle PCB$.
+
+[[src_pol_1997_r1__Q02]]

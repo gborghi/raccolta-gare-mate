@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2007 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2007__Q01
 parent: src_cn_cgmo_2007
 competition: China Girls' Mathematical Olympiad 2007
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A positive integer m is good if m equals n divided by the number of divisors of n, for some positive integer n. Prove 1,...,17 are good and 18 is not.*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un intero positivo m è buono se m è uguale a n diviso per il numero di divisori di n, per un intero positivo n. Prove 1,...,17 sono buone e 18 non è.
+
+> Un intero positivo $m$ è chiamato buono, se c'è un intero positivo $n$ tale che $m$ è il quotiente di $n$ sul numero di divisori interi positivi di $n$ (inclusi 1 e $n$ stesso). Provare che $1, 2, \cdots, 17$ sono numeri buoni e che 18 non è un buon numero.
+
+**Risposta:** 18 is not a good number
+[[src_cn_cgmo_2007__Q01]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q11
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di n per cui la somma dei primi n dispari dà quattro cifre uguali*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Il numero richiesto è 41
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of n for which the sum of the first n odd numbers gives four equal digits*
+
+> The sum of the first $n$ consecutive odd numbers starting with $1$ is $n^2$. A number of four digits all equal is of the type $\overline{aaaa}$. For what value of $n$ is a four-digit number all equal?
+
+**Answer:** Il numero richiesto è 41
+[[src_bocconi_finalenaz_2011__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2011-12_round2__Q01
 parent: src_bmo_2011-12_round2
 competition: British Mathematical Olympiad 2011-12 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral midpoints give four triangles with equal circumradii*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I punti medi quadrilaterali ciclici danno quattro triangoli con circumradii uguali*
+
+> Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Provare che le circondazioni dei triangoli $EPQ$, $EQR$, $ERS$ e $ESP$ sono tutte uguali.
+
+[[src_bmo_2011-12_round2__Q01]]

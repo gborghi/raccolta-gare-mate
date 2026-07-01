@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q05
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno di nascita di Archimede da catena di uguaglianze*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Year of birth of Archimedes from the chain of equality*
+
+> Archimedes was born in the year x before Christ. Knowing that a = b, c = b 3, b = e, d = 49, e = a, a = 2001, x = c −380, when Archimedes was born?
+>
+> - **(A)** 287 a.C.
+> - **(B)** 289 a.C.
+> - **(C)** 387 a.C.
+> - **(D)** 667 a.C.
+> - **(E)** 285 a.C.
+
+[[src_archimede_2001_biennio__Q05]]

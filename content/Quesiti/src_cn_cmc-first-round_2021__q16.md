@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q16
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-5: sequence a_1=1, a_n=1/(4a_{n-1})+1/n; find a_100.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A1-5: sequenza a_1=1, a_n=1/(4a_{n-1}) +1/n; trovare a_100.*
+
+> [Paper di prova A1, problema 5] Lasciate che la sequenza $\{a_n\}$ soddisfi $a_1=1$, $a_n=\dfrac{1}{4a_{n-1}}+\dfrac{1}{n}\ (n\ge 2)$. Quindi il valore di $a_{100}$ è ______.
+
+**Risposta:** \dfrac{101}{200}
+[[src_cn_cmc-first-round_2021__Q16]]

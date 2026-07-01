@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q07
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express 25 as sum of two primes in how many ways*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espresso 25 come somma di due prime in quanti modi*
+
+> Il numero $10$ può essere scritto come somma di due numeri primi in due modi: $10 = 5 + 5$ e $10 = 7 + 3$. In quanti modi possiamo esprimere il numero $25$ come somma di due numeri primi?
+> 
+> (A) $4$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) none
+
+**Risposta:** B
+[[src_obm_2000_n1_f1__Q07]]

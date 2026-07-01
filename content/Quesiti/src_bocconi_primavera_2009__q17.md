@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q17
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali carte girare per verificare "1 se e solo se A"*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** Sara dovrà girare tutte le carte.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What cards to play to check "1 if and only if A" *
+
+> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it necessarily has an "A" on the other and vice versa. Sara doesn't believe it and decides to check it out for herself.
+> 
+> What cards does Sara have to turn to be sure Sergio's claim is true?
+
+![[src_bocconi_primavera_2009__Q17.png]]
+
+**Answer:** Sara dovrà girare tutte le carte.
+[[src_bocconi_primavera_2009__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q07
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza intera elica su cilindro, 2006 m in 15 giri*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0118
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Full length of propeller on cylinder, 2006 m in 15 laps*
+
+> Quamditch training [20] In a Quamditch training, leggywoman Hermita Lagrange is studying a very difficult figure: she wants to go back slowly to a propeller (i.e. taking height regularly while spinning along the lateral surface of an imaginary cylinder), so that her scope travels a total distance of 2006 meters in exactly 15 laps, rising in all by an integer number of meters. In addition, the cylinder's circumference is to be a whole number of meters long. How much can this number be worth (if any)?
+
+**Answer:** 0118
+[[src_cesenatico_2006_squadre_pubblico__Q07]]

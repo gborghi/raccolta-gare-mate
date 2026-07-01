@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q11
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di modi di scrivere 1..7 nelle caselle senza che caselle adiacenti differiscano di 3.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 384
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of ways to write 1.7. in boxes without adjacent boxes differing by 3.*
+
+> Write the seven numbers from $1$ to $7$ in the boxes in the figure (one number per box). Two numbers in boxes having a common side, in whole or in part, must not have a difference of $3$. How many ways can you complete the figure?
+
+![[src_bocconi_finaleint_2010_g1__Q11.png]]
+
+**Answer:** 384
+[[src_bocconi_finaleint_2010_g1__Q11]]

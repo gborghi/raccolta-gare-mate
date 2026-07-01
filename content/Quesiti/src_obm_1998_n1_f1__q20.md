@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q20
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine the day when both a liar and a truth-teller say 'Tomorrow is a lying day'*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Determina il giorno in cui sia un bugiardo che uno che dice la verità diranno: "Domani è un giorno di bugie".
+
+> Pedro e Maria formano una coppia particolare. Pedro mente mercoledì, giovedì e venerdì e dice la verità per il resto della settimana. Maria mente domenica, lunedì e martedì, e dice la verità per il resto della settimana. Un giorno, entrambi dicono: "Domani sarà un giorno di menzogna". Il giorno in cui questa dichiarazione fu fatta fu:
+>
+> - **(A)** Lunedì
+> - **(B)** Martedì
+> - **(C)** Venerdì
+> - **(D)** Sabato
+> - **(E)** Domenica
+
+**Risposta:** B
+[[src_obm_1998_n1_f1__Q20]]

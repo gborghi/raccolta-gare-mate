@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q13
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle x in a circle figure with two isosceles triangles and parallel chords*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo x in una figura circolare con due triangoli e accordi paralleli *
+
+> Considerate la figura laterale, dove i punti $A$ a $I$ sono su una circonferenza. È noto che i triangoli $ABC$ e $GHI$ sono uguali, che $AB$, $CD$, $EF$ e $GH$ sono segmenti paralleli e che $BC$, $DE$, $FG$ e $HI$ sono segmenti paralleli. Qual è la misura dell'angolo $x$ in gradi? (A) $15^\circ$ (B) $20^\circ$ (C) $30^\circ$ (D) $40^\circ$ (E) $45^\circ$
+
+![[src_obm_2014_n3_f1__Q13.png]]
+
+[[src_obm_2014_n3_f1__Q13]]

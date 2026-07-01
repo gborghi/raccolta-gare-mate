@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q19
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Miscela che da il verde meno scuro*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Mix with less dark green < MSK1/>
+
+> Carla wants to paint the walls of her room green. The green tempera you bought in the store is too dark, so think about mixing it with white tempera. It makes several test mixes: which of the following will give the darker green color? A) 1 part green and 2 parts white. B) 2 parts green and 3 parts white. C) 2 parts green and 5 parts white. D) 4 parts green and 7 parts white. E) 4 parts green and 9 parts white.
+
+**Answer:** C
+[[src_kangourou_2021_benjamin__Q19]]

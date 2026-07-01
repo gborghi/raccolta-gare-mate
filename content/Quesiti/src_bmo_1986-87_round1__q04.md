@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1986-87_round1__Q04
 parent: src_bmo_1986-87_round1
 competition: British Mathematical Olympiad 1986-87 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial with given values; prove P(N)=N+51 implies N=26*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio con dati dati; prova P(N)=N+51 implica N=26*
+
+> Che $P(x)$ sia qualsiasi polinomio con coefficienti interi tali che $$P(21) = 17, \quad P(32) = -247, \quad P(37) = 33.$$ dimostri che se $P(N) = N + 51$ per un certo numero intero $N$, allora $N = 26$.
+
+[[src_bmo_1986-87_round1__Q04]]

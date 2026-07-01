@@ -1,6 +1,7 @@
 ---
 title: IMO 1999 (XL International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1999__Q05
 parent: src_imho_1999
 competition: IMO 1999 (XL International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tangent line CD to circle G2 via intersecting circles configuration*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tangent line CD to circle G2 via intersecting circles configuration*
+
+> Two circles $G_1$ and $G_2$ are contained inside the circle $G$, and are tangent to $G$ at the distinct points $M$ and $N$, respectively. $G_1$ passes through the center of $G_2$. The line passing through the two points of intersection of $G_1$ and $G_2$ meets $G$ at $A$ and $B$. The lines $MA$ and $MB$ meet $G_1$ at $C$ and $D$, respectively.
+> 
+> Prove that $CD$ is tangent to $G_2$.
+
+[[src_imho_1999__Q05]]

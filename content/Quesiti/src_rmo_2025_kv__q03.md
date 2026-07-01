@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_kv__Q03
 parent: src_rmo_2025_kv
 competition: Regional Mathematical Olympiad 2025
@@ -33,6 +34,8 @@ tags:
   - regione/kv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex pentagon with symmetry conditions; prove right angle at I*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Pentagono convex con condizioni di simmetria; prova angolo retto a I< MSK1/>
+
+> Il $ABCDE$ deve essere un pentagono convexo in cui $AB = AE$, $CB = CE$ e $\angle CBD = 90^\circ$. Lasciate che i bisettori interni di $\angle EAB$ e $\angle DCB$ si intersecano a $I$, e lasciate che $M$ sia il punto medio di $AC$. Prove che $\angle MIC = 90^\circ$.
+
+[[src_rmo_2025_kv__Q03]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q18
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre numeri a due cifre con prodotto incrociato*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $(10, 20, 30)$ oppure $(15, 16, 17)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two-digit numbers with cross product*
+
+> Mattia wrote three two-digit numbers. He added those three numbers, then calculated the product. The sum of the three numbers is written $xy$ (with $x$ the decimal point and $y$ the unit point). This product is written $x0y0$ (with $x$ the number of thousands and $y$ the number of tens; the other two digits are zeros). What are, in increasing order, the three numbers Mattia has chosen?
+
+**Answer:** $(10, 20, 30)$ oppure $(15, 16, 17)$
+[[src_bocconi_finaleint_2011_g2__Q18]]

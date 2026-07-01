@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2024__Q06
 parent: src_tfjm_2024
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
@@ -34,6 +35,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rigged coins: Felix flips a coin landing heads with probability p; Clara predicts upcoming flips to maximize her guaranteed (worst-case over p) expected gain across strategies, then with two coins, guessing which coin, and a switch point K.*
 
@@ -78,3 +81,39 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Monete rigidate: Felix lancia una moneta con probabilità di sbarco p; Clara predice i prossimi lanci per massimizzare il suo guadagno garantito (in peggiore caso rispetto a p) atteso attraverso le strategie, quindi con due monete, indovinando quale moneta, e un punto di svolta K.*
+
+> $n \ge 1$ sia un numero intero. Felix e Clara giocano a testa o coda. Felix possiede una moneta truccata che cade sulle teste con probabilità $p \in [0,1]$. Felix lancia la moneta la prima volta, poi Clara cerca di prevedere il risultato del prossimo lancio, Felix lancia di nuovo la moneta, Clara fa una previsione, e così via. La prima previsione di Clara riguarda il numero di flip $2$; in totale Felix lancia la moneta $n+1$ volte (le flips sono presunte indipendenti) e Clara fa $n$ previsioni per le flips $2, 3, \dots, n+1$. I volti $n+1$ e le previsioni $n$ costituiscono un $\textbf{game}$.
+> 
+> Un esempio di gioco, per $n = 2$, è: Felix volte le teste; Clara predice le code; Felix volte le code; Clara predice le teste; Felix volte le code. In questo caso, Clara fece una prima previsione corretta e una seconda incorreta.
+> 
+> Supponiamo in questa domanda che Clara guadagni un punto per ogni predizione corretta. Il suo numero totale di punti alla fine della partita è chiamato $\textbf{gain}$. Qual è l'aspettativa del suo guadagno se la sua previsione è: a) sempre testa? b) il risultato del passaggio precedente? c) le teste, se il numero di teste già ottenuto è pari, le code altrimenti?
+> 
+> Ora Clara vuole massimizzare le sue possibilità di ottenere un buon punteggio. Non conosce il valore di $p$ ma sa che $p \in \mathcal{P}$ dove $\mathcal{P}$ è un sottoinsieme di $[0,1]$. Una $\textbf{strategy}$ per Clara è un modo di scegliere quale previsione fare prima di girare $m$ in funzione dei risultati di girare $1, 2, \dots, m-1$. La domanda $\textbf{1.}$ fornisce tre esempi di strategie. $G_{\mathcal{S},p}$ sia il guadagno (a casuale) ottenuto per la strategia $\mathcal{S}$, con $p$ la probabilità che la moneta crolla. Uno definisce il $\textbf{minimal expected gain}$ per la strategia $\mathcal{S}$ come $\mathcal{G}_{\mathcal{S}} = \min_{p \in \mathcal{P}} \mathbb{E}(G_{\mathcal{S},p})$. In altre parole, $\mathcal{G}_{\mathcal{S}}$ è l'aspettativa del guadagno portato dalla strategia $\mathcal{S}$ per il peggiore dei valori di $p \in \mathcal{P}$, cioè quello in cui questo guadagno previsto è il più basso.
+> 
+> Se Clara non dispone di informazioni a priori sul valore di $p$, cioè $\mathcal{P} = [0,1]$, quale è il guadagno minimo atteso per le strategie a), b), c) descritte nella domanda $\textbf{1.}$?
+> 
+> $\textbf{3.}$ Trova una strategia $\mathcal{S}$ che dà il massimo guadagno minimo atteso $\mathcal{G}_{\mathcal{S}}$ tra tutte le strategie possibili (e la calcoli) se: a) $\mathcal{P} = [0, \frac{1}{2}]$; b) $\mathcal{P} = [0, 1]$; c) $\mathcal{P} = [0, \frac{1}{4}] \cup [\frac{3}{4}, 1]$.
+> 
+> Da ora in poi, Felix possiede due monete, di aspetto indistinguibile, che cadono sulle teste con probabilità $p_1$ e $p_2$. Prima di ogni partita, sceglie la moneta $1$ con probabilità $q$ (di conseguenza la moneta $2$ con probabilità $1-q$) e poi lancia la moneta scelta $n+1$ volte, come prima. Si suppone che Clara conosca le probabilità $p_1$, $p_2$ e $q$ (per cui le scelte di previsione che fa possono dipendere da $p_1$, $p_2$ e $q$).
+> 
+> Qual è l'aspettativa del guadagno di Clara per le strategie a), b) e c) descritte nella questione? Tra tutte le strategie possibili, trovate una per la quale l'aspettativa di guadagno è la più grande possibile, e calcolatela.
+> 
+> Clara non cerca più di indovinare il risultato dei lanci, ma piuttosto quale moneta è stata scelta. Felix lancia la moneta per la prima volta, quindi dopo ogni lancio Clara può scegliere di dichiarare quale moneta pensa sia stata scelta o di interrompere il gioco; guadagna $1$ punti per corretta scommessa ma perde un punto per ulteriore lancio richiesto.
+> 
+> Quale strategia massimizza l'aspettativa del guadagno ottenuto, e quale è quindi questo guadagno in media? Cosa succede quando $n \to \infty$ (cioè quando non si fissa più un limite sul numero di volte richieste)?
+> 
+> Ora Felix ha ancora due monete ma cambia le monete a metà strada. Prima della partita, sceglie uniformemente a caso un numero $K$ tra $1$ e $n$ (inclusivo). Flippe moneta $1$ per flips $0, \dots, K-1$ e moneta $2$ per flips $K, \dots, n$. Clara conosce ancora le probabilità.
+> 
+> Clara deve indovinare quale MSK1 è stato scelto da Felix. a) Clara annuncia la sua previsione dopo i passaggi $n+1$. Quale strategia le permette di massimizzare la probabilità di avere ragione, e qual è questa probabilità? b) Clara può indovinare $K$ prima della fine della partita. Se ha ragione guadagna $n - (m - K)$ punti in cui $m$ è il numero del flip dopo il quale è stato fatto l'annuncio. In altre parole, se fa l'annuncio dopo il flip $m$, o $m < K$ e non guadagna punti, o $m \ge K$ e guadagna $n$ punti ma perde un punto per ogni flip di ritardo nel suo annuncio. Quali strategie le consentono di massimizzare l'aspettativa del suo guadagno, e qual è quindi questo guadagno in media?
+> 
+> < MSK0/> Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2024__Q06.png]]
+
+[[src_tfjm_2024__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q02
 parent: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti nipoti ha Nonna Anna (cugini di Mario ecc)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
+
+> Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Peter have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children) does Grandma Anna have?
+
+**Answer:** 10
+[[src_kangourou_2017_squadre_f__Q02]]

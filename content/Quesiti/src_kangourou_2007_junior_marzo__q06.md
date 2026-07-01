@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q06
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti percorsi minimi tra le caselle marcate*
 
@@ -58,3 +61,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of paths between the marked boxes*
+
+![[src_kangourou_2007_junior_marzo__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.6]
+  \draw[line width=1pt] (0,0) grid (4,5);
+  \node at (0.5,4.5) {$\triangle$};
+  \node at (3.5,0.5) {$\triangle$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the grid in the figure. A move consists exclusively of moving (horizontal, vertical or diagonal) a foot from one box to another adjacent one. You want to move a pedal from one of the two boxes marked with the triangle on the other, using as few moves as possible. How many different routes do you have available? A) 2 B) 4 C) 7 D) 20 E) 35
+
+**Answer:** B
+[[src_kangourou_2007_junior_marzo__Q06]]

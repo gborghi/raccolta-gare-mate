@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q09
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voti ottenuti dalla lista del sindaco*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 167 voti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Votes obtained from the mayor's list*
+
+> In the recent municipal elections in Caldé  a small village on Lake Maggiore with $527$ voting constituencies  the list of optimists received $18$, $25$ and $98$ votes more than the opposing lists respectively.
+> 
+> **How many votes did the mayor's list get? **
+
+**Answer:** 167 voti
+[[src_bocconi_primavera_2007__Q09]]

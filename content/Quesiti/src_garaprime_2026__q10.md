@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q10
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Naturali tra 10 e 2026 con somma cifre 3*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Natural between 10 and 2026 with a sum of 3 digits *
+
+> What are the natural numbers greater than 10 and less than 2026 whose sum of the digits is 3?
+>
+> - **(A)** 13
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 16
+> - **(E)** 17
+
+**Answer:** E
+[[src_garaprime_2026__Q10]]

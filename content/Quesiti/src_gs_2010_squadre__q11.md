@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q11
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo totale festa con abbandoni progressivi*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1520
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total price of party with progressive abandonment*
+
+> This is the first of a series of reports on the progress of the European Union's efforts in the field of education and training.
+> 
+> Matt and Lou are throwing a jazz party together, renting a clubhouse that costs $8 per person per hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour, a ninth of the remaining people leave. After another 60 minutes an eighth of the remaining left the party, and so on with this criterion, until half of those still present left. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
+
+**Answer:** 1520
+[[src_gs_2010_squadre__Q11]]

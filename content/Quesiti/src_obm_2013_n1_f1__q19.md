@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q19
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of 6th-grade students from a sports bar chart*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di studenti di sesta elementare di un grafico di bar sportivi*
+
+> Il grafico accanto si riferisce alla pratica sportiva degli studenti del 6° anno di una scuola. Nessuno dei ragazzi che giocano a calcio o volleyball gioca a basket, e nessuna ragazza che gioca a basket o volleyball gioca a calcio. Ci sono cinque ragazzi e tre ragazze che non praticano nessuno dei tre sport. Quanti studenti ci sono almeno in sesto anno?
+> 
+> (A) $37$ \quad (B) $45$ \quad (C) $50$ \quad (D) $64$ \quad (E) $72$
+
+![[src_obm_2013_n1_f1__Q19.png]]
+
+[[src_obm_2013_n1_f1__Q19]]

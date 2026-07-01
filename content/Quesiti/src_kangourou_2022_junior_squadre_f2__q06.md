@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q06
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre del minimo k con s(s(s(k)))=10*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0023
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of minimum k with s(s(s(k)))=10*
+
+> The sum of the digits Assigned a positive integer n, we denote with s(n) the sum of its digits. How many digits has the smallest positive integer k such that s(s(s(k))) = 10?
+
+**Answer:** 0023
+[[src_kangourou_2022_junior_squadre_f2__Q06]]

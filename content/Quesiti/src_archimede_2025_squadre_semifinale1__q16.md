@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q16
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume di un antiprisma quadrato lato 10 altezza 30*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3414
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of a square antibody side 10 height 30*
+
+> Death can wait for the evil wizard to rule the world after locking James Bound in a cell shaped like a square prism. Without teams or a compass, he can't measure the sides. Unexpectedly, the villain's white cat turns out to be an MI6 secret agent and informs Bound that the cell has a base side 10m long and 30m high, allowing him to free himself. The bad guy comments laconically: Who would have thought a pet was a secret agent!?. What is the volume (in m3) of the cell? A square prism is a polyhedron that resembles a square prism, but in which one of the bases is rotated 45 degrees around the prism's axis. Consequently, the lateral surface is not composed of four rectangles, but of eight isosceles, the sides of which are formed by connecting each vertex of the bases to the two nearest vertices of the other base. Team competition 2025  Semi-final 1  Problem tests  2/2
+> 
+> XXVI National Semifinal Team Competition 1  Friday 9 May 2025 Ministry of Education and Merit Solutions Nr. The problem
+
+**Answer:** 3414
+[[src_archimede_2025_squadre_semifinale1__Q16]]

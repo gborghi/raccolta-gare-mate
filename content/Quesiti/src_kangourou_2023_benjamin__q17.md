@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q17
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scambiare due numeri per uguagliare somme grigio/bianco*
 
@@ -58,3 +61,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Exchange two numbers to equal gray/white sums*
+
+![[src_kangourou_2023_benjamin__prob17.png]]
+
+> Serena wants to replace two of the numbers in this grid so that the sum of the numbers in gray is equal to the sum of the numbers in white. What numbers do you have to swap places with? A) 1 e 11 B) 2 e 8 C) 3 e 7 D) 4 e 13 E) 7 e 13 4 2 3 1 1 3 5 2 13 7 4 6 8 11
+>
+
+**Answer:** E
+[[src_kangourou_2023_benjamin__Q17]]

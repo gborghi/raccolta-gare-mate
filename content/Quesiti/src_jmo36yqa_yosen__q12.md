@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q12
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum z for positive integers x,y,z with x^y*y^z=2^{20x+20y} and y/20 integer, z/20 not*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $2^{127} \cdot 641^{641}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo z per gli integri positivi x,y,z con x^y*y^z=2^{20x+20y} e y/20 integri, z/20 non*
+
+> Lasciate che $x$, $y$, $z$ siano integri positivi che soddisfino $x^y \cdot y^z = 2^{20x + 20y}$. Dato che $\dfrac{y}{20}$ è un numero intero e $\dfrac{z}{20}$ non è un numero intero, trovare il valore minimo possibile di $z$.
+
+**Risposta:** 2^{127} \cdot 641^{641}
+[[src_jmo36yqa_yosen__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f2__Q06
 parent: src_obm_1998_n1_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Wooden cube 10 cm painted, cut into 1 cm³ cubes: count by painted faces*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a) $512$; b) $384$; c) $96$; d) $8$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Cubo di legno di 10 cm dipinto, tagliato in cubetti di 1 cm3: contato per le facce dipinte
+
+> Le facce di un cubo di legno che misura 10 centimetri sono dipinte in nero. Il cubo viene poi diviso in 1000 piccoli cubetti, ognuno con bordi di 1 centimetro. Determinare: a) il numero di piccoli cubetti che non hanno faccia dipinta; b) il numero di piccoli cubetti che hanno esattamente una faccia dipinta; c) il numero di piccoli cubetti che hanno esattamente due facce dipinte; d) il numero di piccoli cubetti che hanno esattamente tre facce dipinte.
+
+**Risposta:** a) $512$; b) $384$; c) $96$; d) $8$
+[[src_obm_1998_n1_f2__Q06]]

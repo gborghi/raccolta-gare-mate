@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q02
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio cerchio nella serratura (area = r*perim/2)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7453
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Lay circle in the lock (area = r< MSK1/>perim/2) < MSK2/>
+
+> The tiny lock on the Root trail sees a Banachoniglio sneak into a narrow, but normative, spacey Banachoniglio and curious decide to follow him. As soon as she enters, she is completely involved in a long fall that leads her into a locked room with a tiny door locked. He's crossed the threshold of the Matteviglie Field. The lock on the door that Root would like to open is the union of an equilateral triangle of vertices ABC with a circle passing through A, symmetrical with respect to the beam coming out of A, and not intersecting BC. Root is confused by this strange figure and the Banachoniglio explains to her that to enter she must know the value of the radius of the circle. It also tells you that DE = 7453 (D is the intersection between the circumference and the AC side, E is the intersection between the BC side and the tangent to the circumference in D). Root is still puzzled, so the Banachoniglio gives her one last, important suggestion: the area of the lock is equal to half the product between the radius of the circle and the perimeter of the lock. What answer will Root have to give?
+
+**Answer:** 7453
+[[src_cesenatico_2013_finale__Q02]]

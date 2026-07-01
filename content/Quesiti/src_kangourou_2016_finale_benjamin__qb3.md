@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Benjamin — Quesito B3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB3
 parent: src_kangourou_2016_finale_benjamin
 competition: Kangourou 2016 finale nazionale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *giorni di ponte aggiunti ai festivi*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 23 o 24
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*days of bridge added to holidays*
+
+> In the strange Kang Republic, the year is divided into the same months as ours, with the same length, but the holidays are those whose number is divisible by $6$ or it is a prime number: the others are working days. If the holidays were to be added to each day of the week, i.e. a working day preceding and followed by a holiday, how many more holidays would there be in each year? (Remember that $1$ is not a prime number.)
+
+**Answer:** 23 o 24
+[[src_kangourou_2016_finale_benjamin__QB3]]

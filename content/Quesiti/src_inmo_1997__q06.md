@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1997 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1997__Q06
 parent: src_inmo_1997
 competition: Indian National Mathematical Olympiad 1997
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cubic with three real roots; minimal absolute value root bounds ratio b/a*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cubico con tre radici reali; valore minimo assoluto rapporto di limite radicale b/a*
+
+> $a$ e $b$ siano numeri positivi per i quali l'equazione cubica $x^3 - ax + b = 0$ ha tre radici reali (non necessariamente distinte). Se $\alpha$ è quello con valore assoluto minimo, dimostrare che $$\frac{b}{a} < \alpha < \frac{3b}{2a}.$$
+
+[[src_inmo_1997__Q06]]

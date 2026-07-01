@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r2__Q01
 parent: src_pol_2006_r2
 competition: Olimpiade Matematica Polacca 2006 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given positive integers a,b,c and reals x,y,z with |x-a|<=1, |y-b|<=1 and a^2+b^2=c^2, x^2+y^2=z^2, prove the sets {a,b} and {x,y} coincide.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dati i numeri interi positivi a,b,c e i numeri reali x,y,z con \x-a-a-a-a-a-a<=1, \y-b<=1 e a^2+b^2=c^2, x^2+y^2=z^2, dimostri che gli insiemi {a,b} e {x,y} coincidono.*
+
+> I numeri interi positivi $a,b,c$ e $x,y,z$ soddisfano $|x-a|\le 1$, $|y-b|\le 1$ e $$a^2+b^2=c^2, \quad x^2+y^2=z^2.$$ Prove che gli insiemi $\{a,b\}$ e $\{x,y\}$ coincidono.
+
+[[src_pol_2006_r2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q29
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato del prodotto di sei numeri (divisibilita)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of the six-digit product (divisibility) *
+
+> One of the following numbers is the result of operation 333 x 743 x 710 x 352 x 745 x 298. What kind? A) 13727978688124880 B) 13727978688124800 C) 12727978688123000 D) 12727978688124800 E) 14727978688124836
+
+**Answer:** B
+[[src_kangourou_2005_cadet__Q29]]

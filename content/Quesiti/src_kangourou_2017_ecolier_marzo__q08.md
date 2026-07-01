@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q08
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Uguaglianza vera tra le opzioni date*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True equality between the options given*
+
+![[src_kangourou_2017_ecolier_marzo__prob8.png]]
+
+> Which of the following equations is true? A)
+> 	
+> B)
+> 	
+> C) D)
+> 	
+> E) 17 13 8 11 +   11    7    2 6
+> 
+> The questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2017_ecolier_marzo__Q08]]

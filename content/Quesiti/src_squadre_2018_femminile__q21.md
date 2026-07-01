@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q21
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coefficienti a,b,c di gradi 11,12,13 in prodotto di polinomi*
 
@@ -119,3 +122,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0124
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Coefficients a,b,c of degrees 11,12,13 in product of polynomials< MSK1/>
+
+> A musical motif resembling a call is storming the earth. No one knows what it is, but Fry has to find out. A terrible spaceship is crushing the planets in search of something. Beuler, using his positronic brain, manages to translate music into the polynomial 2 3 4 5 2 3 4 5 6 7 ( ) (1 ))  1 ) p x x x x x x x x x x x x x x x x x x x x                                                                                                  The music will stop if you can eliminate the terms degree 11 , 12 and 13 of ( ) p x . Beuler sets the calculation by writing 11 12 13 ( ) ( ) p x ax bx cx    , but how much are a , b and c ? (Give the answer to b c ).
+
+**Answer:** 0124
+[[src_squadre_2018_femminile__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2011 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2011__Q01
 parent: src_cn_cmc-complementary-test_2011
 competition: China Mathematical Competition (Complementary Test) 2011
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoints of diagonals of cyclic quadrilateral, equal angle condition*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi di diagonali di quadrilaterali ciclici, condizione di angolo uguale*
+
+> 40 punti) Come illustrato nella figura. 1.1, i punti $P$ e $Q$ sono, rispettivamente, i punti medi di $AC$ e $BD$  le due diagonali del quadrilaterale ciclico $ABCD$. Let < MSK5/>. Provare $\angle AQB = \angle CQD$.
+
+![[src_cn_cmc-complementary-test_b11_w69__Q01.png]]
+
+[[src_cn_cmc-complementary-test_2011__Q01]]

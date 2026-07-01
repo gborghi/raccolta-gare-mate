@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q10
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of ab over all positive integer pairs (a,b) with a | b and b | 360*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 624650
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
+
+> Calcolare la somma di $ab$ su tutte le coppie di integri positivi $(a, b)$ che soddisfano la seguente condizione:\n\nCondizione: $a$ è divisore di $b$, e $b$ è divisore di $360$.
+
+**Risposta:** 624650
+[[src_jjmo16yq_yosen__Q10]]

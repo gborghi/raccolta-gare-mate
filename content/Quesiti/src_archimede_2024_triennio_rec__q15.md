@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q15
 parent: src_archimede_2024_triennio_rec
 competition: Giochi di Archimede 2024 - Gara Triennio (riserva)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo BCD con D simmetrico rispetto al baricentro*
 
@@ -40,3 +43,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BCD triangular area with D symmetrical to the baricenter*
+
+> Whether ABC is a rectangular triangle in B, the cathetes AB and BC measuring, respectively, 8 and 15 m. If the symmetry of A with respect to ABC's barycenter is given by D, how many m2 does the area of the BCD triangle measure?
+>
+> - **(A)** 16
+> - **(B)** 15
+> - **(C)** 20
+> - **(D)** 30
+> - **(E)** 25
+
+[[src_archimede_2024_triennio_rec__Q15]]

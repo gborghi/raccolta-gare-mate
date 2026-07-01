@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q02
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence rounded to nearest ten starts 0, 10, 10, 20, 30, …; count terms that equal 40.*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza arrotondata alle prime dieci iniziali 0, 10, 10, 20, 30, ...; conteggiamento pari a 40. *
+
+> La sequenza, formata arrotondando ciascuno dei seguenti numeri al decimo più vicino, inizia $0, 10, 10, 20, 30, \ldots$ Quando continua, quanti termini di questa sequenza sono uguali a $40$?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+**Risposta:** C
+[[src_smc_2021__Q02]]

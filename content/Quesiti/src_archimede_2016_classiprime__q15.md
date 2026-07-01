@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q15
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del cubo con tre fori quadrati passanti*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of the cube with three passing square holes*
+
+![[src_archimede_2016_classiprime__prob15.png]]
+
+> On a cube with a side of 18 cm, 3 square holes with a side of 6 cm were used in the center of the faces, which cross it from side to side, as shown in the figure: What is the volume of the solid obtained, expressed in cm3? A 4320 B 3888 C 1944 D 5616 E 5184 F 3600
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q15]]

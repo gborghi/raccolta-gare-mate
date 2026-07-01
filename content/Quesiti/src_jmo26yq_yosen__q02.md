@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q02
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers 1..2016 with small remainder mod 20*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi 1..2016 con mod 20 *
+
+> Tra i numeri interi da $1$ a $2016$, quanti sono i cui restanti dopo la divisione da $20$ sono inferiori alla metà di $16$ (cioè il restante del modulo intero $20$ è inferiore a $\tfrac{16}{2} = 8$)?
+
+**Risposta:** 600
+[[src_jmo26yq_yosen__Q02]]

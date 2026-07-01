@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q22
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera per due equazioni con soluzione comune*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statement for two equations with common solution*
+
+> The three numbers a, b, c are all different from each other and different from 0. The two equations ax2 + bx + c = 0 and bx2 + ax + c = 0 have at least one solution in common. Which of the following statements must be true?
+> 	
+> A) A common solution must be 0.
+> 	
+> B) One of the two equations has only one real solution.
+> 	
+> C) a > 0.
+> 	
+> D) b > 0.
+> 	
+> E) a + b + c = 0
+
+**Answer:** E
+[[src_kangourou_2024_student__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q08
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ripiani della libreria a multipli comuni*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiple common library shelves*
+
+> A carpenter built a 250-centimeter-tall bookstore, but he placed the supports for the shelves on one side 20 cm apart from each other and on the other side 25 cm apart, always starting from the base. How many perfectly horizontal floors can the library house, including the basement? A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** C
+[[src_kangourou_2005_benjamin__Q08]]

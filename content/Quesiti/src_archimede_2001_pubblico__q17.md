@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q17
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *ultime 4 cifre*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4512
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>last 4 digits < MSK1/>
+
+> Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
+> 
+> 'What are the last four digits of the greatest (in absolute value) coefficient of the $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)?"$$ polynomial?
+
+**Answer:** 4512
+[[src_archimede_2001_pubblico__Q17]]

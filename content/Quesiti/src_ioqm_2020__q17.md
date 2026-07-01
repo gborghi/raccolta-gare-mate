@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q17
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count two-digit numbers with exactly 4 positive factors*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri a due cifre con esattamente 4 fattori positivi*
+
+> Quanti numeri a due cifre hanno esattamente 4 fattori positivi? (Qui 1 e il numero $n$ sono considerati anche fattori di $n$.)
+
+[[src_ioqm_2020__Q17]]

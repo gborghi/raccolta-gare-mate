@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q06
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle medians given; find area*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Mediani triangolari dati; area di ricerca< MSK1/>
+
+> Nel triangolo $ABC$, $D$, $E$, $F$ siano rispettivamente i punti medi di $BC$, $CA$ e $AB$. Dato che $AD = 3$, $BE = 3$, $CF = 5$, si trova l'area del triangolo $ABC$.
+
+[[src_jjmo5q__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q15
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Estrazioni su 10000 con almeno due numeri vicini al lotto*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5173
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Extractions from 10000 with at least two numbers close to the lot*
+
+> Ragetti's skepticism [70] Ragetti, the guy with the wooden eye, is very skeptical of the π-race lot. He noted that it happens unusually often that two numbers near are extracted, that is, that they have a difference less than or equal to 2 (e.g. 17 and 19, or 27 and 28, but not 46 and 49). Well aware of the tricks of the filibusta, he thinks this is an indication that the game is rigged. Knowing that in the MSK1/>-ratico lot you extract 6 numbers between 1 and 90, would you know how many extractions out of 10,000 we should expect to get at least two nearby numbers (if the game isn't made up)?
+
+**Answer:** 5173
+[[src_gas_2010_pubblico__Q15]]

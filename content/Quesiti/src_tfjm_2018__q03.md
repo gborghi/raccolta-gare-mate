@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2018__Q03
 parent: src_tfjm_2018
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018
@@ -37,6 +38,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A two-player game placing buildings on n plots by the sea; a building of i floors goes on plot i, floors with a sea view score points, and one analyzes guaranteed advantage and optimal scores under several rule variants.*
 
@@ -71,3 +74,27 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un gioco per due giocatori che colloca gli edifici su n parcelli accanto al mare; un edificio di i piani si svolge su parcello i, pavimenti con punti di punteggio di vista sul mare, e si analizzano vantaggi garantiti e punteggi ottimali sotto diverse varianti di regola.*
+
+> Vista sul mare. Nella località balneare di Vecteur-les-Bains, la concorrenza tra gli sviluppatori immobiliari è intensa. Ognuno vuole costruire edifici che offrano il maggior numero di piani con vista sul mare. Ci sono località $n$ numerate da $1$ a $n$ (località $1$ si trova sul mare, località $n$ più lontana da esso). Cécile ed Eva si confrontano per costruire edifici. La legislazione è molto rigorosa: in un luogo $i$ si ha il diritto di costruire un edificio di esattamente $i$ piani. Un pavimento di un edificio ha vista sul mare se e solo se è strettamente più alto di ogni edificio che lo separa dal mare (vedere figura 2).
+> 
+> Cécile costruisce il primo edificio sul luogo di sua scelta, poi Eva costruisce a sua volta su un luogo rimanente, e così via, fino a quando non sono stati posizionati gli edifici $k$. Per ogni edificio si conta il numero di piani con vista sul mare; il punteggio di un giocatore è la somma dei punteggi dei suoi edifici.
+> 
+> 1. Qual è il miglior vantaggio che Cécile può garantire se: a) $k=1,2,3$; b) $k=n,n-1$; c) $k$ arbitrario?
+> 
+> 2. Cécile ed Eva ora fanno pace: ognuna cerca di massimizzare il proprio punteggio, senza preoccuparsi dell'altro. Quando uno sviluppatore può garantire a se stesso lo stesso punteggio in diversi modi, sceglie l'opzione che dà il miglior punteggio all'altro. a) Qual è il massimo punteggio che Cécile può garantire a se stessa? Si può iniziare studiando gli stessi valori particolari di $k$ come nella domanda 1. b) La stessa domanda per Eva.
+> 
+> 3. La legislazione cambia. Due integri $k_C$ e $k_E$ sono ora fissati in modo tale che $k_C+k_E\le n$. Cécile ed Eva giocano rispettivamente $k_C$ e $k_E$ volte, in un ordine deciso dalla legge. Risolvi le domande precedenti quando: a) $n=1$, $k_C$ arbitrario e Eva suona dopo che Cécile ha posto i suoi edifici $k_C$; b) $k_C$ e $k_E$ arbitrario, Cécile posiziona i suoi edifici $k_C$ e Eva le posiziona i suoi edifici $k_E$; c) $k_C$ e $k_E$ arbitrario e Cécile sceglie l'ordine in cui giocano.
+> 
+> 4. A causa del riscaldamento globale, il livello del mare è aumentato e Vecteur-les-Bains è ora un'isola. Il terreno è ora una striscia di parcelli $2n-1$ di cui il mare confina da entrambi i lati. A distanza $k$ dal braccio più vicino del mare, si può costruire un edificio di dimensioni $k$ (vedere figura 3). Ogni piano è diviso in appartamenti $2$ (uno rivolto a sinistra e uno a destra), e il punteggio è il numero di appartamenti che consentono di vedere il mare. Riprendi le domande precedenti in questo contesto.
+> 
+> 5. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2018__Q03.png]]
+
+[[src_tfjm_2018__Q03]]

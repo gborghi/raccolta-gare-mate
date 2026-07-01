@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q14
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta della sorella maggiore date le medie*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Age of the older sister given the average < MSK1/>
+
+> The ages of three sisters are different. The average age of three is 10 years. If we look at sisters in pairs, the average age of one couple is 11 years, that of another is 12 years. How old is your older sister? A) 12
+> 	
+> B) 14
+> 	
+> C) 16
+> 	
+> D) 18
+> 	
+> E) The data are insufficient to answer.
+
+**Answer:** C
+[[src_kangourou_2022_cadet_gara__Q14]]

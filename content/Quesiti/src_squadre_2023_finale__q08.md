@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q08
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -23,6 +24,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo biglie con condizioni 23x e 88x*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2023
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of bags with conditions 23x and 88x*
+
+> Where does Agnese get the balls? Agnese finds two jars containing explosive particles. He has to take N balls to go play with the sisters, and he realizes that if he takes them all from the first jar, then in the second there will be 23 times the balls left in the first jar; if he takes them all in the second jar, the balls in the first will be 88 times the ones left in the second jar. What's the minimum number of balls Agnese needs?
+
+**Answer:** 2023
+[[src_squadre_2023_finale__Q08]]

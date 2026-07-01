@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1983 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1983_r3__Q03
 parent: src_pol_1983_r3
 competition: Olimpiade Matematica Polacca 1983 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *One-player pawn game on an infinite chessboard: two adjacent pawns are removed and one is placed on a third adjacent empty square; if the initial pawns fill a rectangle whose number of squares is divisible by 3, prove the game cannot end with one pawn left.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di pedoni da un giocatore su una scacchiera infinita: vengono rimossi due pedoni adiacenti e uno viene posto su un terzo quadrato vuoto adiacente; se i pedoni iniziali riempiono un rettangolo il cui numero di quadrati è divisibile per 3, dimostrare che il gioco non può finire con un pedone rimasto.*
+
+> Considerate il seguente gioco da giocatore su una scacchiera infinita. Se due quadrati orizzontalmente o verticalmente adiacenti sono occupati da un pedone ciascuno, e un quadrato sulla stessa linea adiacente a uno di essi è vuoto, allora è consentito rimuovere i due pedoni e posizionare un pedone sul terzo quadrato (vuoto). Prova che se nella posizione iniziale tutti i pedoni formavano un rettangolo con il numero di quadrati divisibili per 3, allora non è possibile terminare la partita con solo un pedone rimasto sulla tavola.
+
+[[src_pol_1983_r3__Q03]]

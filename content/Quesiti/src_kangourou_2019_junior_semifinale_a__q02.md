@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q02
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio in decimetri di tre circonferenze nel triangolo*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0073
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ray in decimers of three circumferences in the triangle*
+
+> Three circles In an equilateral triangle of 40 metres side, three circles of equal radius are drawn, two to two tangents to each other, each tangent to two sides of the triangle. What is the largest integer that does not exceed the length in decimeter of the radius of the circles?
+
+**Answer:** 0073
+[[src_kangourou_2019_junior_semifinale_a__Q02]]

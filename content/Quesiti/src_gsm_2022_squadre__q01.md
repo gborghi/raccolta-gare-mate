@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q01
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione 2022!/(2022!-2021!-2020!) ridotta*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4041
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This appropriation is intended to cover expenditure relating to the implementation of the programme.
+
+> the whole of a real number x is the largest integer less than or equal to x; it is written x for example π=3, 10=10,  √ 17=4;
+
+**Answer:** 4041
+[[src_gsm_2022_squadre__Q01]]

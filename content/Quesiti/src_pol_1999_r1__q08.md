@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q08
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set S of n>=2 elements: find smallest k such that k subsets exist where any two distinct elements are separated by some A_j.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme S di n>=2 elementi: trovare il più piccolo k tale che esistano sottoinsiemi k dove due elementi distinti sono separati da qualche A_j.*
+
+> Si deve $S$ essere un insieme di elementi $n \ge 2$. Trova la $k$ più piccola per la quale esistono sottoinsiemi $A_1, A_2, \ldots, A_k$ di $S$ con la seguente proprietà: Per due elementi $a, b \in S$ esiste $j \in \{1, 2, \ldots, k\}$ tale che $A_j$ contiene esattamente uno degli elementi $a, b$.
+
+[[src_pol_1999_r1__Q08]]

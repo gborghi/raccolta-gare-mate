@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q06
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways postman delivers exactly two letters correctly*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i modi in cui il postino consegna esattamente due lettere correttamente*
+
+> Un postino deve consegnare cinque lettere a cinque case diverse. In modo ingannevole, posta una lettera attraverso ogni porta senza cercare di vedere se è l'indirizzo corretto. In quanti modi diversi avrebbe potuto farlo in modo che esattamente due delle cinque case ricevessero le lettere corrette?
+
+**Risposta:** 20
+[[src_prmo_2012__Q06]]

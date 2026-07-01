@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q06
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n≥2 so 1,…,n can be arranged with every adjacent product a perfect square*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo n≥2 quindi 1,...,n può essere organizzato con ogni prodotto adiacente un quadrato perfetto*
+
+> Trova il numero intero più piccolo $n \ge 2$ in modo che gli enti $1, 2, \ldots, n$ possano essere disposti in una riga in modo che il prodotto di ogni coppia di numeri interi adiacenti sia un quadrato perfetto.
+
+[[src_jmo13yq_yosen__Q06]]

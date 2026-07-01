@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q01
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square with vertices on three parallel lines distance 3 apart; find area*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato con vertici su tre linee parallele a distanza di 3 anni; trovare superficie*
+
+> Nel piano sono tracciate tre linee parallele $l_1, l_2, l_3$ in modo tale che la distanza perpendicolare tra $l_1$ e $l_2$ sia 3 e la distanza perpendicolare tra $l_2$ e $l_3$ sia anche 3. Un quadrato $ABCD$ è costruito in modo tale che $A$ si trova su $l_1$, $B$ si trova su $l_2$, $C$ si trova su $l_2$ e $D$ si trova su $l_3$. Trova l'area della piazza.
+
+[[src_ioqm_2021__Q01]]

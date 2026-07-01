@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q22
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers a,b,c and prime p with 2^a·p^b = (p+2)^c + 1*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(p, a, b, c) = (3, 1, 1, 1)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi a,b,c e p primo con 2^a·p^b = (p+2)^c + 1*
+
+> Trova tutti gli integri positivi $a$, $b$, $c$ e prime $p$ soddisfacendo $$2^a p^b = (p + 2)^c + 1.$$
+
+**Risposta:** $(p, a, b, c) = (3, 1, 1, 1)$
+[[src_cn_ctst_2022__Q22]]

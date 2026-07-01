@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q17
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a+b con due quadratiche a radici reali e simmetriche*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value a+b with two real and symmetrical root squares*
+
+> The two equations x2 + ax + b = 0 and x2 + bx + a = 0 have both real roots. We know that the sum of the squares of the roots of the first equation is equal to the sum of the squares of the roots of the second and that a ≠ b. The value of a + b A) is 0. B) è  −2. C) è  4. D) è  −4. E) cannot be determined.
+
+**Answer:** B
+[[src_kangourou_2016_student_marzo__Q17]]

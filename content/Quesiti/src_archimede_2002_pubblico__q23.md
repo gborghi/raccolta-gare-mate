@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q23
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *geometria del triangolo*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*triangle geometry*
+
+> **Anna's triangle** (55 points)
+> 
+> Anna just drew a triangle using her reel and made it so that each side was an odd number of centimeters. How many triangles of this kind can you draw if your reed does not allow you to measure more than 15 centimeters? (NB: Two triangles are considered different only if they are not congruent)
+
+**Answer:** 0070
+[[src_archimede_2002_pubblico__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2015__Q02
 parent: src_cesenatico_2015
 competition: Olimpiade Italiana (Cesenatico) 2015 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *da un certo punto un solo genere*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*to some extent a single genus*
+
+> A music streaming service offers songs classified into 10 music genres, so that each track belongs to one and only one genre. The songs are played one after the other: the first 17 are chosen by the user, but from the eighteenth the service automatically determines which song to play. Elisabetta noted that if one ranks which genres appear more than once during the last 17 tracks played, the new song always belongs to the genre at the top of the chart or, in case of equal merit, to one of the first ex-aequo. To show that no matter what the first 17 tracks are, from a certain point onwards the proposed songs are all the same.
+
+[[src_cesenatico_2015__Q02]]

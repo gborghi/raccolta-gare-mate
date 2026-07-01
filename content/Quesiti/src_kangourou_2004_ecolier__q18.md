@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q18
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da quanti triangoli il settimo (numeri quadrati)*
 
@@ -67,3 +70,38 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Of how many triangles the seventh (square numbers) *
+
+![[src_kangourou_2004_ecolier__prob18.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  % Triangle 1: single right triangle
+  \draw[thick] (0,3) -- (1,3) -- (0,4) -- cycle;
+  % Triangle 2: 4 small triangles (2x2 subdivision)
+  \draw[thick] (0,0.5) -- (2,0.5) -- (0,2.5) -- cycle;
+  \draw[thick] (1,0.5) -- (0,1.5);
+  \draw[thick] (0,1.5) -- (1,1.5);
+  \draw[thick] (1,0.5) -- (1,1.5);
+  % Triangle 3: 9 small triangles (3x3 subdivision)
+  \draw[thick] (0,-3.5) -- (3,-3.5) -- (0,-0.5) -- cycle;
+  \draw[thick] (0,-1.5) -- (2,-1.5);
+  \draw[thick] (0,-2.5) -- (1,-2.5);
+  \draw[thick] (1,-3.5) -- (1,-1.5);
+  \draw[thick] (2,-3.5) -- (2,-1.5);
+  \draw[thick] (0,-2.5) -- (1,-3.5);
+  \draw[thick] (0,-1.5) -- (2,-3.5);
+\end{tikzpicture}
+\end{document}
+```
+
+> Here you see three triangles in succession. The second and third are obtained by approximating 4 and 9 triangles equal to the first respectively. Imagine continuing to build triangles like this. How many triangles equal to the first will make up the seventh triangle of the series (i.e. the fourth you build)? A) 21 B) 25 C) 35 D) 49                 E) 64
+
+**Answer:** D
+[[src_kangourou_2004_ecolier__Q18]]

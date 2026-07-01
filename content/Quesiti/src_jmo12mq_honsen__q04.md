@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12mq_honsen__Q04
 parent: src_jmo12mq_honsen
 competition: Japan Mathematical Olympiad 2002 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic sum inequality under two normalization constraints*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ineguaglianza della somma ciclica in due limitazioni di normalizzazione< MSK1/>
+
+> $n$ sia un numero naturale con $n \ge 3$. Supponiamo che i numeri reali positivi $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfino $$a_1 + a_2 + \cdots + a_n = 1$$ $$b_1^2 + b_2^2 + \cdots + b_n^2 = 1.$$ Proviamo che la disuguaglianza $$a_1(b_1 + b_2) + a_2(b_2 + b_3) + \cdots + a_n(b_n + b_1) < 1$$ sia valida.
+
+[[src_jmo12mq_honsen__Q04]]

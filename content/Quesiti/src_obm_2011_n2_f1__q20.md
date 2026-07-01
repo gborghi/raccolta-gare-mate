@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q20
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-colorings of a house-shaped figure with adjacent-different rule*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi 3 colori di una figura a forma di casa con regola adiacente diversa*
+
+> Renan vuole dipingere i piccoli quadrati della figura accanto, utilizzando al massimo tre colori diversi, in modo tale che due quadrati che possiedono un lato comune abbiano colori diversi. Quante dipinti distinti può fare Renan?
+> 
+> (A) $3^4$ \quad (B) $246$ \quad (C) $178$ \quad (D) $150$ \quad (E) $120$
+
+![[src_obm_2011_n2_f1__Q20.png]]
+
+[[src_obm_2011_n2_f1__Q20]]

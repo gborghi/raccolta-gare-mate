@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q10
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti sulla faccia X dei dadi impilati*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Points on the X face of stacked dice*
+
+![[src_kangourou_2011_junior__prob10.png]]
+
+> Three regular dice (i.e. such that the sum of points on opposite faces is always 7) are stacked as shown in the figure. From the lowest dice, the face is indicated by 1 point. You also know that every time two different dice faces match, the sum of the points on both faces is 5. How many dots are there on the face marked with X? A) 2 B) 3 C) 4 D) 5 E) 6 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2011_junior__Q10]]

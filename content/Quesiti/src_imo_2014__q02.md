@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (shortlist/papers) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2014__Q02
 parent: src_imo_2014
 competition: IMO 2014 (shortlist/papers)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo k con quadrato k×k libero da torri pacifiche*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum k with square k×k free of peace towers*
+
+> It is < MSK0/> a whole. A chessboard $n \times n$ composed of $n^2$ square units shall be considered. A configuration of $n$ towers on this chessboard is said to be **pacific** if each row and column contains exactly one tower. Find the largest positive integer $k$ such that, for each peaceful configuration of $n$ towers, there exists a square $k \times k$ that contains no tower on any of its $k^2$ unit squares.
+
+[[src_imo_2014__Q02]]

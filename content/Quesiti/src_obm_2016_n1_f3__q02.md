@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f3__Q02
 parent: src_obm_2016_n1_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n: any n integer-coordinate points have two with squared distance divisible by 2016*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nello più piccolo: ogni n punto di coordinate interi ha due con distanza quadrata divisibile entro il 2016*
+
+> Trova il più piccolo $n$ in modo che qualsiasi insieme di punti $n$ nel piano cartesiano, tutti con coordinate interi, contenga due punti la cui distanza quadrata è un multiple di $2016$.
+
+[[src_obm_2016_n1_f3__Q02]]

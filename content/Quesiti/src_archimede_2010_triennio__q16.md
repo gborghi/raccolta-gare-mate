@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q16
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne interi 0-100 con identita tra quadrati*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer fields 0-100 with identity between squares*
+
+> How many distinct ternes (x, y, z), made up of integers between 0 and 100 (extremes included), satisfy (x −y) 2 + (y + z) 2 = (x + y) 2 + (y −z) 2?
+>
+> - **(A)** 101 · 201,
+> - **(B)** 106,
+> - **(C)** 1012,
+> - **(D)** 104,
+> - **(E)** 51 · 301.
+
+**Answer:** A
+[[src_archimede_2010_triennio__Q16]]

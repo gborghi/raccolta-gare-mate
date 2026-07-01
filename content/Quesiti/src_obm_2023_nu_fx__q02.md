@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2023_nu_fx__Q02
 parent: src_obm_2023_nu_fx
 competition: Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Power series satisfying a differential equation; evaluate a series*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Serie di potenza che soddisfano un'equazione differenziale; valutare una serie*
+
+> Let $a_n = \dfrac{1}{\binom{2n}{n}}$ per tutti $n \ge 1$.
+> 
+> (a) dimostrare che $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converge per tutti $x \in (-4,4)$ e che la funzione $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ soddisfa l'equazione differenziale $x(x-4)f''(x)+(x+2)f(x)=-x$.
+> 
+> b) Prove che < MSK0/>.
+
+[[src_obm_2023_nu_fx__Q02]]

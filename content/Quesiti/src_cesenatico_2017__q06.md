@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2017__Q06
 parent: src_cesenatico_2017
 competition: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infiniti m con num. fattori primi dispari di m(m+3) multiplo di 3*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Endless m with num. Unusual prime factors of m(m+3) multiple of 3*
+
+> To prove that there are infinitely many positive integers m such that the number of distinct prime factors of m*m+3) is a multiple of 3. Note: For example, the number 60 = 22 · 3 · 5 has two distinct odd prime factors and the number 1050 = 2 · 3 · 52 · 7 has three.
+
+[[src_cesenatico_2017__Q06]]

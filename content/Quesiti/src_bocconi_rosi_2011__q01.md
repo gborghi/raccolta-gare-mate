@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q01
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costo macchine di lusso vs risparmio*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 155.000 Euro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Luxury machinery cost versus savings< MSK1/>
+
+> Today Mark feels particularly rich and is ready to invest his savings. So he learned about the prices of some cars and learned that buying two luxury cars, one medium-cylinder and two vintage, costs 176,000 euros. On the other hand, if you buy three luxury cars, two medium-cylinder and one vintage, you would spend a total of 197,000 euros. How much will you spend if you're content with one luxury car and three vintage cars?
+
+**Answer:** 155.000 Euro
+[[src_bocconi_rosi_2011__Q01]]

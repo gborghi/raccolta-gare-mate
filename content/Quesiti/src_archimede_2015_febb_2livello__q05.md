@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q05
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomi monici con MCD e mcm dati, scelte di p(x)*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Monic polynomials with MCD and mcm data, p(x) *
+
+> Two monic polynomials (i.e. with a maximum degree coefficient equal to 1) with integer coefficients p(x) and q(x) are such that their maximum common divisor is (x −1)(x −2), their minimum common multiple is (x −1) 2(x −2) 3(x −3)(x + 1) and the degree of p(x) is less than or equal to the degree of q(x. In how many ways can p ((x) be chosen?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
+
+**Answer:** C
+[[src_archimede_2015_febb_2livello__Q05]]

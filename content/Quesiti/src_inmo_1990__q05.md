@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1990 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1990__Q05
 parent: src_inmo_1990
 competition: Indian National Mathematical Olympiad 1990
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show triangle side quantity lies strictly between 1/2 and 2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che la quantità laterale del triangolo si trova strettamente tra 1/2 e 2*
+
+> Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può mantenere entrambi i limiti?
+
+[[src_inmo_1990__Q05]]

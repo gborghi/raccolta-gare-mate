@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q10
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo alfa (quadrato e esagono regolare)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure of the alpha angle (square and regular hexagon) *
+
+> The figure shows an ABCD square of center O and a regular exon, one of which is OC. What is the degree of the angle indicated by α? A) 105 B) 110 C) 115 D) 120 E) 125 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2024_junior__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q09
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione certamente vera prendendo 20 frutti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sure assertion by taking 20 fruits< MSK1/>
+
+> In one box were 20 apples and 20 pears. Carlo accidentally took 20 fruits from the box and Luca took all the rest. Which of the following is certainly true? A) Charles took at least one pear. B) Charles took the same number of apples and pears. C) Charles took the same number of apples as Luke. D) Charles took as many pears as the apples that Luke took. E) Charles took the same number of pears as Luke.
+
+**Answer:** D
+[[src_kangourou_2021_benjamin__Q09]]

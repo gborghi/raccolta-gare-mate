@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q10
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of digit-sets {a,b,c} whose six two-digit numbers sum to 484.*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di set di numeri {a,b,c} i cui sei numeri a due cifre si sommano a 484.*
+
+> Con tre cifre distinte $a$, $b$ e $c$, è possibile formare 6 numeri di due cifre distinte. Quante serie $\{a, b, c\}$ sono tali che la somma dei 6 numeri formati sia di 484?
+> 
+> A) Uno B) Due C) Tre D) Quattro E) Più di quattro
+
+[[src_obm_2004_n3_f1__Q10]]

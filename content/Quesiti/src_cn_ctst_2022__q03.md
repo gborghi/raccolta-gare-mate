@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q03
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Multi-dimensional game with pieces: find minimum starting count*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $p_1^{b_1} p_2^{b_2} \cdots p_n^{b_n}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco multidimensionale con pezzi: trovare il numero minimo di partenze *
+
+> Date le cifre integri positive $n$, $p_1, p_2, \ldots, p_n$ (ciascuno $p_i \ge 2$) e $b_1, b_2, \ldots, b_n$. Lasciate che il $Q = \{(x_1, x_2, \ldots, x_n) \in \mathbb{Z}_{\ge 0}^n \mid 0 \le x_i \le p_i^{b_i} - 1 \text{ for each } i\}$ sia la tabella di gioco. Inizialmente posizionare $M$ pezzi di gioco su $Q$ (senza restrizioni sul numero di pezzi per posizione). Esistono tipi di movimenti legali $n$: il tipo $i$-th rimuove i pezzi $p_i$ dalla posizione $(x_1, \ldots, x_n) \in Q$ (con $x_i \ge 1$) e colloca un pezzo a $(x_1, \ldots, x_i - 1, \ldots, x_n)$. Trovare il valore minimo di $M$ in modo tale che, indipendentemente dal modo in cui i pezzi di gioco $M$ sono inizialmente posizionati, si possa sempre eseguire una sequenza di mosse per ottenere almeno un pezzo all'origine $(0, 0, \ldots, 0)$.
+
+**Risposta:** $p_1^{b_1} p_2^{b_2} \cdots p_n^{b_n}$
+[[src_cn_ctst_2022__Q03]]

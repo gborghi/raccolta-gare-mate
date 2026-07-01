@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2013 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_automne__Q06
 parent: src_canimath_2013_automne
 competition: Coupe Animath Automne 2013
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four collinear points: every circle through A,B meets circle through C,D*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro punti collineari: ogni cerchio attraverso A,B incontra il cerchio attraverso C,D*
+
+> Se i punti $A$, $B$, $C$, $D$ sono quattro punti distinti nel piano. Si scopre che ogni cerchio che passa attraverso $A$ e $B$ incrocia ogni cerchio che passa attraverso $C$ e $D$.
+> 
+> Provare che $A$, $B$, $C$, $D$ sono collineari o che si trovano tutti su un cerchio comune.
+
+[[src_canimath_2013_automne__Q06]]

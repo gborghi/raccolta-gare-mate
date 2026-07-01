@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q10
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number of people in room with friendship/enmity constraint*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nombre massimo di persone in una stanza con vincolo di amicizia/intimità< MSK1/>
+
+> In una stanza, certe persone sono amiche. Una persona non è mai amica di se stessa. Se la persona $A$ è amica di persona $B$, allora $B$ è amica di $A$. Osserviamo la regola: "il nemico del mio amico è il mio amico", il che significa che per qualsiasi scelta di tre persone $A$, $B$, $C$: se $A$ e $B$ sono amici, e $B$ e $C$ non sono amici, allora $A$ e $C$ sono amici. Ogni persona nella stanza ha esattamente $1$ amico.
+> 
+> Quante persone possono esserci nella stanza al massimo?
+
+[[src_canimath_2025_printemps__Q10]]

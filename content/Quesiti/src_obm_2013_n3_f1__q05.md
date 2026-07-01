@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q05
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Boustrophedon column filling of 1..2013; column 2 holds 50, column 4 holds 100, find column of 1000*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserimento di colonna di boustropedone del 1..2013; colonna 2 contiene 50, colonna 4 contiene 100, trova colonna di 1000*
+
+> Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero in ogni cella. Comincia nella prima colonna e la riempie dall'alto verso il basso; poi riempie la seconda colonna da basso verso l'alto, e continua in questa direzione, riempendo la terza colonna dall'alto verso il basso, la quarta, ecc., fino a raggiungere l'ultima colonna e finire nell'angolo inferiore-destra. Il numero $50$ è nella seconda colonna e il numero $100$ è nella quarta colonna. In quale colonna è scritto il numero $1000$?
+> 
+> (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
+
+[[src_obm_2013_n3_f1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q01
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 6 cifre palindromi divisibili per 33*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*6 digit palindrome numbers divisible by 33*
+
+> How many numbers of 6 digits divisible by 33 are palindromes, that is, they stay the same if read from right to left?
+>
+> - **(A)** 30
+> - **(B)** 33
+> - **(C)** 300
+> - **(D)** 333
+> - **(E)** None of the above.
+
+**Answer:** C
+[[src_archimede_2021_2livello__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q09
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of girls in a class given height-ranking pattern*
 
@@ -53,3 +56,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre di ragazze in una classe data per il modello di altezza *
+
+> Una classe di 36 studenti ha altezze diverse. Il più corto tra i ragazzi è più alto di 5 ragazze, il secondo ragazzo più corto è più alto di 6 ragazze, il terzo ragazzo più corto è più alto di 7 ragazze, e così via, fino al ragazzo più alto, che è più alto di tutte le ragazze. Quante ragazze ci sono in questa classe?
+> 
+> (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
+
+**Risposta:** C
+[[src_obm_2011_n1_f1__Q09]]

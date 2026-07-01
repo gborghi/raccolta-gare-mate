@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q06
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Soccer ball: count seams from pentagons and hexagons*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Palla di calcio: contare le cuciture dai pentagoni e dagli esagoni*
+
+> Una palla da calcio è fatta di 32 pezzi di pelle. 12 di essi sono pentagoni regolari e gli altri 20 sono esagoni regolari. I lati dei pentagoni sono uguali ai lati degli esagoni, e ogni pezzo è cucito agli altri lungo i lati condivisi. Ogni cucitura unisce due lati di due pezzi. Quante cuciture sono fatte nella fabbricazione di una palla da calcio?
+> 
+> A) 60 \quad B) 64 \quad C) 90 \quad D) 120 \quad E) 180
+
+**Risposta:** B
+[[src_obm_1999_n3_f1__Q06]]

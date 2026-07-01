@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_kvjnv__Q05
 parent: src_rmo_2023_kvjnv
 competition: Regional Mathematical Olympiad 2023
@@ -38,6 +39,8 @@ tags:
   - regione/kvjnv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle sides a,b,c with T_n expression, given ratio condition find all perimeters*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I lati di un triangolo a,b,c con espressione T_n, con una condizione di rapporto data trovano tutti i perimetri*
+
+> Le lunghezze laterali $a$, $b$, $c$ di un triangolo $ABC$ sono interi positivi. $$T_n = (a + b + c)^{2n} - (a - b + c)^{2n} - (a + b - c)^{2n} + (a - b - c)^{2n}$$ per qualsiasi numero intero positivo $n$. Se $\dfrac{T_2}{2T_1} = 2023$ e $a > b > c$, determinare tutti i possibili perimetri del triangolo $ABC$.
+
+[[src_rmo_2023_kvjnv__Q05]]

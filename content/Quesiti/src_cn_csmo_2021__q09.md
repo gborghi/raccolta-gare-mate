@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q09
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prime p>=5; compute residue of a weighted floor sum modulo p*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{p-1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prima p>=5; residuo di calcolo di una somma ponderata del pavimento modulo p*
+
+> $p \ge 5$ sia un numero primo, $M = \{1, 2, \ldots, p-1\}$. Definire $$T = \{(n, x_n) : p \mid (nx_n - 1) \text{ with } n, x_n \in M\}.$$ Trovare il residuo minimo non negativo del modulo $\displaystyle\sum_{(n,x_n)\in T} n\left[\frac{nx_n}{p}\right]$ $p$, dove $[x]$ indica il numero intero più grande inferiore o uguale a $x$.
+
+**Risposta:** $\frac{p-1}{2}$
+[[src_cn_csmo_2021__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q07
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadratini di cioccolato rimanenti*
 
@@ -55,3 +58,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining chocolate squares< MSK1/>
+
+![[src_kangourou_2005_ecolier__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[thick] (0,0) -- (8,0) -- (8,2) -- (11,2) -- (11,6) -- (0,6) -- cycle;
+  \node[above] at (5.5,6) {11 cm};
+  \node[left]  at (0,3)   {6 cm};
+  \node[right] at (11,4)  {4 cm};
+  \node[below] at (4,0)   {8 cm};
+\end{tikzpicture}
+\end{document}
+```
+
+> Elisabeth had a rectangular chocolate tablet made of 1 cm x 1 cm squares. He ate some of these squares and the piece of chocolate that remains has the shape of the figure. How many squares are left? A) 66               B) 64              C) 62 D) 60               E) 58
+
+**Answer:** D
+[[src_kangourou_2005_ecolier__Q07]]

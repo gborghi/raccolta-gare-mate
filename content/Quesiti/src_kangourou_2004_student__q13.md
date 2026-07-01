@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q13
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale marziani con tentacoli sopra la media*
 
@@ -67,3 +70,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of Martian tentacles above average< MSK1/>
+
+> Every Martian has one, two or three tentacles on his head. Exactly 1% of the Martian population consists of individuals with three tentacles, while 97% consists of individuals with two tentacles and the remainder - 4 3 7 4 3 5 4 + 2 3 3 4 3 6 + A E D B C
+> 
+> I'm going to pay. I'm going to pay. 30 30 Kang 2004 Kang 2004 tudent you 2% has only one tentacle. What percentage of Martians have more tentacles on their heads than the average of the entire Martian population? A) 1%          B) 3%         C) 97%       D) 98%       E) 99%
+
+**Answer:** D
+[[src_kangourou_2004_student__Q13]]

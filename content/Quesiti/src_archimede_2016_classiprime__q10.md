@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q10
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo APQ data area quadrilatero BCQP*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area triangle APQ data area quadrilateral BCQP*
+
+> In the ABC triangle you have AB = 60cm and AC = 50cm. Let's take P on the AB side and Q on the AC side so that AP = AQ = 10cm. If the area of the BCQP quadrilateral is 696cm2, what is the area of the APQ triangle in cm2? A 24 B 32 C 20 D 18 E 36 F cannot be determined by the data provided alone
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q10]]

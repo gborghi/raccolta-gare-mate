@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q21
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *X+Y se 24X8Y divisibile per 4,5,9*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*X+Y if 24X8Y is divisible by 4,5,9*
+
+> The five digit number $24X8Y$ is divisible by $4$, $5$ and $9$. How much is MSK4/?
+>
+> - **(A)** 13
+> - **(B)** 10
+> - **(C)** 9
+> - **(D)** 5
+> - **(E)** 4
+
+**Answer:** E
+[[src_kangourou_2011_cadet__Q21]]

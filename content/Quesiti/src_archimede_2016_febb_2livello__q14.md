@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q14
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio PIN con vincoli su cifre e somma almeno 8*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 210
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PIN count with digit constraints and sum of at least 8*
+
+> Eugenia's phone PIN consists of 4 digits; Eugenia only remembers that the first is between 0 and 6, the second between 0 and 3, the third between 0 and 4, the fourth between 0 and 2, and that the sum of the four digits is at least 8 (for example, the PIN could be 3330). How many codes are compatible with Eugenia's memories?
+
+**Answer:** 210
+[[src_archimede_2016_febb_2livello__Q14]]

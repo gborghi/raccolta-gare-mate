@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_individuale__Q03
 parent: src_archimede_2002_individuale
 competition: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dimostrare*
 
@@ -37,3 +40,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>show< MSK1/>
+
+![[src_archimede_2002_individuale__prob3.png]]
+
+> Both $r$ a straight line and $A$ $B$ two points above and below $r$ respectively, with the feet of the perpendiculars led by $A$ and $B$ on the straight line $r$ respectively called $R$ and $S$. Called $M$ the middle point of the $AB$ segment, to show that the circumferences circumscribed to the $ARM$ and $BSM$ triangles are equal (assuming the triangles are not degenerate).
+> 
+> (see figure)
+
+[[src_archimede_2002_individuale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q09
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due quadratiche con radice comune, somma a+b*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two squares with common root, sum a+b*
+
+> Let a and b be two distinct real numbers. We know that the two equations x2 + ax + 3b = 0 x2 + bx + 3a = 0 have a common solution: what are the possible values for the sum of a + b?
+>
+> - **(A)** 0 o −3
+> - **(B)** 0 o 3
+> - **(C)** Only 0
+> - **(D)** Only −3
+> - **(E)** There are infinite possible values.
+
+**Answer:** D
+[[src_archimede_2018_2livello__Q09]]

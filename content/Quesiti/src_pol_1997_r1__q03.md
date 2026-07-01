@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q03
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality for real numbers a,b at least 1 and c at least 0, with integer n at least 1.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimostra una disuguaglianza per i numeri reali a,b almeno 1 e c almeno 0, con un numero intero n almeno 1.*
+
+> $a, b \ge 1$, $c \ge 0$ siano numeri reali e $n \ge 1$ un numero intero. Provare che < MSK0/>
+
+[[src_pol_1997_r1__Q03]]

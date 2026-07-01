@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q12
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cubi con vertici in griglia 11x11x11 interi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3025
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of cubes with 11x11x11 integer grid vertices*
+
+> A pattern by Quamditch Hardy, the captain of the Quamditch team at the Reporter's House, instructs his teammates on a new game pattern he's worked out. If we consider in space the sum Q of points that have whole coordinates and are between 0 and 10 (included), how many cubes are there with the axes parallel to the Cartesian axis and with the vertices belonging to Q?
+
+**Answer:** 3025
+[[src_cesenatico_2006_squadre_finale__Q12]]

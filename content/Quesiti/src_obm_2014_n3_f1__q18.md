@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q18
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered positive-integer pairs (a,b) with 2014/(a^2+b^2) an integer*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio ordinato di coppie di integri positivi (a,b) con 2014/(a^2+b^2) un intero*
+
+> Quante coppie ordinate $(a,b)$ di numeri interi positivi esistono in modo tale che $\frac{2014}{a^2+b^2}$ sia un numero intero? (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
+
+[[src_obm_2014_n3_f1__Q18]]

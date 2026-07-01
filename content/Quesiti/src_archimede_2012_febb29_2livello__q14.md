@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q14
 parent: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dei punti rossi (piu vicini ad A) in triangolo dato*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 198
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of red dots (nearest to A) in a given triangle*
+
+> ABC is an acute triangle and H is the foot of height relative to the vertex A. Let's color every point P inside the triangle this way: red if the nearest vertex to P is A; green if the nearest vertex to P is B; blue if the nearest vertex to P is C. Knowing that AH = 35, BH = 21 and CH = 15, what is the size of the area formed by the red dots?
+
+**Answer:** 198
+[[src_archimede_2012_febb29_2livello__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q13
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume iniziale parallelepipedo che diventa cubo*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5814
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial volume of parallel piped that becomes cube*
+
+> The members of Planar Express visit Amy's parents, Leo and Inez, who want to build a New Mars Vegas. The idea is to take the rudder built on a sheltered ground, a structure in the shape of a paralelepiped, and to restructure it by increasing the three dimensions by 2 m, 3 m and 4 m so as to increase the volume of the structure by 3 3447 m and make it a cube. Liela, along with a group of eco-feminists, tries to resist and ends up saving a little bloodsucker on the brink of extinction. What you'll find is that the little leech is an alien who wants to destroy humanity. Fortunately, Fry's intervention settled things. Coming back from Mars, Beuler asks himself: What was the initial volume of the quarry before the restructuring in 3 m?
+
+**Answer:** 5814
+[[src_squadre_2018_femminile__Q13]]

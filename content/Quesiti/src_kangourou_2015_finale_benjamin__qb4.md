@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Benjamin — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_benjamin__QB4
 parent: src_kangourou_2015_finale_benjamin
 competition: Kangourou 2015 finale nazionale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura angolo ABC*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 45 gradi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The measurement shall be carried out in accordance with the methodology set out in Annex II.
+
+![[src_kangourou_2015_finale_benjamin__probB4.png]]
+
+> The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
+
+**Answer:** 45 gradi
+[[src_kangourou_2015_finale_benjamin__QB4]]

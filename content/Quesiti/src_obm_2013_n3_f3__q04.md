@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f3__Q04
 parent: src_obm_2013_n3_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n with sequence of nonzero digits satisfying divisibility condition*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N più grande con una sequenza di numeri non zero che soddisfa la condizione di divisibilità*
+
+> Trova il valore più grande di $n$ per il quale esiste una sequenza $(a_1, a_2, \ldots, a_n)$ di cifre non zero (cioè $a_i \in \{1,2,3,4,5,6,7,8,9\}$) tale che per ogni $k$ con $1 \le k \le n$, il numero $k$ di cifre $(a_1 a_2 \cdots a_k)$ formato dai primi numeri $k$ divida il numero $(k+1)$ di cifre $(a_1 a_2 \cdots a_k a_{k+1})$. (Qui $(a_1 a_2 \cdots a_m)$ indica il numero $a_1 \cdot 10^{m-1} + a_2 \cdot 10^{m-2} + \cdots + a_m$.)
+
+[[src_obm_2013_n3_f3__Q04]]

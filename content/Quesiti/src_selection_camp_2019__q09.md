@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q09
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If P(P(x)) and P(P(P(x))) are integer-coeff then P is too*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se P(P(x)) e P(P(P(x))) sono coef interi, allora P è troppo*
+
+> Diciamo che $P(x)$ sia un polinomio con coefficienti razionali, e supponiamo che $P(P(x))$ e $P(P(P(x)))$ siano polinomi con coefficienti interi. Provare che $P(x)$ ha anche dei coefficienti interi.
+
+[[src_selection_camp_2019__Q09]]

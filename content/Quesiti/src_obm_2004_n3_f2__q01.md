@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f2__Q01
 parent: src_obm_2004_n3_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer values of a sum expression given root constraints*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i valori interi di un'espressione di somma data le restrizioni di radice*
+
+> Ogni numero $x_1, x_2, \ldots, x_{2004}$ può essere uguale a $\sqrt{2}-1$ o $\sqrt{2}+1$. Quanti valori interi distinti può assumere la somma $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$?
+
+[[src_obm_2004_n3_f2__Q01]]

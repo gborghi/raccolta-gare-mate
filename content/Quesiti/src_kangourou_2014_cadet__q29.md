@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q29
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo foglie visitabili dalla rana (salti non adiacenti)*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most frog-friendly leaves (non-adjacent leaps) < MSK1/>
+
+![[src_kangourou_2014_cadet__prob29.png]]
+
+> In a pond there are 16 leaves of nymph, arranged in a pattern of 4×4 as shown in the figure. A frog sits on a leaf in one of the corners. It can jump from leaf to leaf horizontally or vertically; it can never land on an adjacent leaf and cannot visit the same leaf twice. What is the largest number of leaves (including the starting one) that the frog can visit? A) 16
+> 	
+> B) 15
+> 	
+> C) 14
+> 	
+> D) 13
+> 	
+> E) 12
+
+**Answer:** A
+[[src_kangourou_2014_cadet__Q29]]

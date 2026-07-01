@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1986-87_round1__Q06
 parent: src_bmo_1986-87_round1
 competition: British Mathematical Olympiad 1986-87 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum of xyz over product of four factors*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{1}{256}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca il massimo di xyz sul prodotto di quattro fattori< MSK1/>
+
+> Trova, con prova, il valore massimo di $$\frac{xyz}{(1+x)(x+y)(y+z)(z+16)}$$ per i numeri reali positivi $x$, $y$, $z$.
+
+**Risposta:** $\dfrac{1}{256}$
+[[src_bmo_1986-87_round1__Q06]]

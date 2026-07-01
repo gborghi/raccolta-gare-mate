@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q30
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare mappa di 4 regioni con 4 colori*
 
@@ -54,3 +57,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to colour a map of 4 regions with 4 colours*
+
+![[src_kangourou_2017_benjamin_marzo__prob30.png]]
+
+> Giulia has four pencils of different colours and wants to use them (all or part) to colour the map of an island in four regions, as shown in the figure. He doesn't want two neighboring regions to be the same color. How many ways can you color the map of the island? A) 12
+> 	
+> B) 18
+> 	
+> C) 24
+> 	
+> D) 36
+> 	
+> E) 48
+>
+
+**Answer:** E
+[[src_kangourou_2017_benjamin_marzo__Q30]]

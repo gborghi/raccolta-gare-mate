@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2004-05 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2004-05_round2__Q02
 parent: src_bmo_2004-05_round2
 competition: British Mathematical Olympiad 2004-05 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisectors in 120° triangle; circle on diameter EF passes through D*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Bissettori angolari in triangolo 120°; il cerchio sul diametro EF passa attraverso D*
+
+> In triangolo $ABC$, $\angle BAC = 120^\circ$. I bisettori angolari degli angoli $A$, $B$ e $C$ devono incontrare i lati opposti rispettivamente in $D$, $E$ e $F$. Provare che il cerchio di diametro $EF$ passa attraverso $D$.
+
+[[src_bmo_2004-05_round2__Q02]]

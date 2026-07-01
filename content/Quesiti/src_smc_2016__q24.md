@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q24
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In square PQRS, arc QS is a quarter circle with centre Q. Line TU is tangent to the arc, with T on QR and U on SR extended. Find TR : UR.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel PQRS quadrato, l'arco QS è un quarto di cerchio con il centro Q. La linea TU è tangente all'arco, con T su QR e U su SR estesa. Trova TR: UR.*
+
+> Il diagramma mostra un quadrato $PQRS$. L'arco $QS$ è un quarto di cerchio. La linea $TU$ è una tangente all'arco $QS$. Il punto $T$ si trova su $QR$ e il punto $U$ si trova su $SR$ esteso. Qual è la lunghezza di < MSK8/>?
+>
+> - **(A)** $3:2$
+> - **(B)** $4:3$
+> - **(C)** $5:4$
+> - **(D)** $7:6$
+> - **(E)** $9:8$
+
+![[src_smc_2016__Q24.png]]
+
+**Risposta:** B
+[[src_smc_2016__Q24]]

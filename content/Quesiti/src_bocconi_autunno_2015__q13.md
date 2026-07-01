@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q13
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piccolo numero intero maggiore di 1 quadrato e quinta potenza*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1024
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Little integer greater than 1 square and fifth power*
+
+> At the same time. What is the smallest integer greater than 1 that is simultaneously a square and also a fifth power of some natural number?
+
+**Answer:** 1024
+[[src_bocconi_autunno_2015__Q13]]

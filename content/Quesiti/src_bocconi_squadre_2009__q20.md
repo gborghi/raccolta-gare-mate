@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q20
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocità media su un giro completo di Formula 1 diviso in tre parti*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 201,6 Km/h
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean speed on a full lap of Formula 1 divided into three parts*
+
+> A lap of the new Formula 1 circuit is divided into three parts: a fast part, which represents half the length of the entire lap, where the average speed of the cars is 280 Km/h; a slow part  one third of a lap  where the average speed is 140 Km/h and the last, where the cars reach an average speed of 210 Km/h. What's the average speed on a full lap? (Only one decimal digit is sufficient to indicate the number of Km/h).
+
+**Answer:** 201,6 Km/h
+[[src_bocconi_squadre_2009__Q20]]

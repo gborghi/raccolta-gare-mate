@@ -1,6 +1,7 @@
 ---
 title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2009__Q01
 parent: src_cesenatico_2009
 competition: XXV Olimpiade Italiana Cesenatico 2009
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valori di e*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** e=27.5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>values of e< MSK1/>
+
+> They are a < b < c < d < and real numbers. Calculate all possible sums of two to two of these five numbers. Of these 10 sums, the three smallest ones are 32, 36, 37, while the two largest ones are 48 and 51. Let us determine all the possible values that can be assumed.
+
+**Answer:** e=27.5
+[[src_cesenatico_2009__Q01]]

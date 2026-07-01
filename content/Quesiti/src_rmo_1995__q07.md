@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1995 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1995__Q07
 parent: src_rmo_1995
 competition: Regional Mathematical Olympiad 1995
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove x^2 sin x + x cos x + x^2 + 1/2 > 0 for all real x*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18d_A9jRTrt0hHchaSE4JEb6g0MGjIeh6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove x^2 sin x + x cos x + x^2 + 1/2 > 0 per tutte le vere x*
+
+> Indicare che per qualsiasi numero reale $x$, $$x^2 \sin x + x \cos x + x^2 + \frac{1}{2} > 0.$$
+
+[[src_rmo_1995__Q07]]

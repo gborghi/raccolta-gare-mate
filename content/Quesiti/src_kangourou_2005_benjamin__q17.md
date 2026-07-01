@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q17
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree ombreggiate di cinque cerchi*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report of shaded areas of five circles*
+
+![[src_kangourou_2005_benjamin__prob17.png]]
+
+> The five circles in the figure have the same radius and the four outer circles are tangent to the inner circle as shown. The square connects the centers of the four outer circles. Then the ratio of the area of the shaded region of the five circles to the area of the unshaded region of the four outer circles is A) 1 : 3 B) 1 : 4 C) 2 : 5 D) 2 : 3 E) 5 : 4
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q17]]

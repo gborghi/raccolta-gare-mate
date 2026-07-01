@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q22
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del numero di 5 cifre dato somma 52713*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of digits of the 5-digit number given sum of 52713*
+
+> Pippo picks a positive five-digit integer and deletes one so that it gets a four-digit number. The sum of the original number and the modified number is 52713. What is the sum of the digits of the five-digit number? A) 26
+> 	
+> B) 20
+> 	
+> C) 23
+> 	
+> D) 19
+> 	
+> E) 17
+
+**Answer:** C
+[[src_kangourou_2013_cadet__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q02
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum area of triangle with integer sides and perimeter 7*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{3\sqrt{7}}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area massima di un triangolo con lati interi e perimetro 7*
+
+> Un triangolo con perimetro 7 ha lunghezze laterali interi. Qual è l'area massima possibile di un triangolo simile?
+
+**Risposta:** \frac{3\sqrt{7}}{4}
+[[src_prmo_2012__Q02]]

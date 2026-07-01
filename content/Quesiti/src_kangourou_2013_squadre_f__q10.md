@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q10
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coefficiente C di x^2 nel prodotto (1-x)...(1-10x)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1320
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Coefficient C of x2 in the product (1-x)...(1-10x) < MSK1/>
+
+> The coefficient by rotating the product (1  x) 1  2x) 1  3x) ... (1  10x) and collecting similar terms you get an expression of the type A + Bx + Cx2 + Dx3 +... + Mx10. How much is C?
+
+**Answer:** 1320
+[[src_kangourou_2013_squadre_f__Q10]]

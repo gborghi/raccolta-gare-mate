@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q19
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero ABCD doppio di BEDF*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A quadrilateral area ABCD double of BEDF*
+
+> For the convex quadrilateral ABCD, the dimensions of the sides AB, BC, CD and DA are known, which are in the order of 4, 9, 6 and 11 cm. If the median points of the sides AB and CD are indicated by E and F, it is also known that the area of the BEDF quadrilateral is 18 cm2. How many cm2 is the area of the quadrilateral ABCD?
+>
+> - **(A)** 27
+> - **(B)** 36
+> - **(C)** 24
+> - **(D)** more than 50
+> - **(E)** a value between 40 and 50
+
+**Answer:** B
+[[src_archimede_2016_triennio__Q19]]

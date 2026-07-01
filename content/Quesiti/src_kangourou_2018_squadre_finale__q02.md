@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q02
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ADC in quadrilatero con angoli noti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A quadrilateral ADC angle with known angles*
+
+> The quadrilateral In an ABCD quadrilateral, the angles ABD, CBD and CAD all measure 40 degrees. How many degrees does the angle ADC measure?
+
+**Answer:** 0100
+[[src_kangourou_2018_squadre_finale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q22
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ludmilson pages a book with 4-digit numbers using only 1 and 2*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ludmilson fa le pagine di un libro con numeri a 4 cifre utilizzando solo 1 e 2*
+
+> Ludmilson numerizza le pagine di un libro consecutivamente a partire dalla pagina $2$, utilizzando solo i numeri $1$ e $2$ per scrivere i numeri di pagina $4$-cifre. Il numero di pagine del libro di Ludmilson è:
+> 
+> **A) ** 1701 \quad **B) ** 702 \quad **C) ** 703 \quad **D) ** 704 \quad **E) ** 705
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q22]]

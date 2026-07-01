@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q05
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Odd function on nonzero reals with a squared-sum identity; find nearest integer to f(33)*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione Odd su reali non-zero con un'identità di somma quadrata; trovare il numero intero più vicino a f(33)*
+
+> Che $f$ sia una funzione dai reali non-zero ai reali non-zero tale che \begin{itemize} \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ per tutti i reali non-zero $x, y, z$ tale che $x + y + z = 0$; \item $f(-x) = -f(x)$ per ogni reale non-zero $x$; \item $f(2011) = 1$. \end{itemize} Trova il numero intero più vicino a $f(33)$.
+
+[[src_obm_2011_n3_f2__Q05]]

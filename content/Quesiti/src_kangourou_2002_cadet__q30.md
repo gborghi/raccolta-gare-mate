@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q30
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondo numero nella successione fino a 1000*
 
@@ -66,3 +69,31 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Second number in succession up to 1000*
+
+> Consider a sequence of positive integers such that every number from the third to the next is the sum of all the numbers before it, the first number is 1 and the last number is 1000. In the longest succession you can build with this law, how much is the second number worth?
+>  
+> A. 124
+>  
+> B. 125
+>  
+> C. 225
+>  
+> D. 224
+>  
+> E. 120.
+> 
+> The Commission has not yet taken any further action. This item is not intended to be used.
+>  
+> 1 Kangourou Italy Competition of 21 March 2002 Cadet category For third and first year students Solutions
+>  
+>  
+> The correct answer is indicated in square brackets after the question number.
+
+**Answer:** A
+[[src_kangourou_2002_cadet__Q30]]

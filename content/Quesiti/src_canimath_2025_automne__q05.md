@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q05
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among four positive reals, a pair's difference is less than a third of the sum of the other two*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due*
+
+> Mostrate che tra quattro numeri reali rigorosamente positivi, esistono sempre due di essi la cui differenza (cioè la più grande delle due meno la più piccola) è rigorosamente inferiore a un terzo della somma delle altre due.
+
+[[src_canimath_2025_automne__Q05]]

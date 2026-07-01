@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r2__Q02
 parent: src_pol_2004_r2
 competition: Olimpiade Matematica Polacca 2004 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Concurrent diagonals in convex hexagon with equal sides and angle sum*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diagonali concomitanti in esagono converso con lati e angoli uguali
+
+> In un esagono converso $ABCDEF$ tutti i lati hanno la stessa lunghezza e $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$ Prove che le diagonali $AD$, $BE$ e $CF$ sono simultanee.
+
+[[src_pol_2004_r2__Q02]]

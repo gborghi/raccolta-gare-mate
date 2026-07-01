@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2000 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2000__Q01
 parent: src_rmo_2000
 competition: Regional Mathematical Olympiad 2000
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct isosceles triangles with 120-degree apex, show PQR equilateral*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construire triangoli con un'anca uguale a 120 gradi, mostrando il PQR equilaterale*
+
+> Il $AC$ deve essere un segmento di linea nel piano e $B$ un punto tra $A$ e $C$. Costruire triangoli $PAB$ e $QBC$ su un lato del segmento $AC$ in modo tale che $\angle APB = \angle BQC = 120^\circ$, e un triangole $RAC$ su un altro lato di $AC$ in modo tale che $\angle ARC = 120^\circ$. Mostra che $PQR$ è un triangolo equilaterale.
+
+![[src_rmo_2000__Q01.png]]
+
+[[src_rmo_2000__Q01]]

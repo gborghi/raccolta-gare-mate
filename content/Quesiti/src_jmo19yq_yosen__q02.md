@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q02
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Externally tangent circles, collinear chord through tangency*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8/3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli tangenti esternamente, corda collineare attraverso la tangenza*
+
+> Un cerchio $O_1$ di raggio $2$ e un cerchio $O_2$ di raggio $4$ sono tangenti esternamente al punto $P$. I punti $A,B$ diversi da $P$ vengono presi rispettivamente sulle circonferenze di $O_1$ e $O_2$, e accade che $A,P,B$ si trova su una singola linea retta. Se la lunghezza del segmento $AB$ è $4$, trovare la lunghezza del segmento $PB$.
+
+![[src_jmo19yq_yosen__Q02.png]]
+
+**Risposta:** 8/3
+[[src_jmo19yq_yosen__Q02]]

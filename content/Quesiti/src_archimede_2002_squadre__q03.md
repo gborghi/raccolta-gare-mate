@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q03
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *successione di interi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0048
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> succession of integers < MSK1/>
+
+> **Distracted school year**  55 points
+> 
+> During a boring class hour, Anna plays the following game. Write an integer $a_0$ on a sheet, then write a sequence of integers $a_i$ each time taking as $a_{i+1}$ or the sum of the digits from the previous number or their product. After a while, you realize that all the numbers you wrote are odd. How many $a_0$ numbers with less than twelve digits for which at any time Anna stops she is still determined to calculate $a_{i+1}$ according to the rules above will always find only odd numbers?
+
+**Answer:** 0048
+[[src_archimede_2002_squadre__Q03]]

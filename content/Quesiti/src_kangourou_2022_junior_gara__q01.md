@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q01
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dei tetti visibili da verniciare sull'edificio*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of visible roofs to be painted on the building*
+
+![[src_kangourou_2022_junior_gara__prob1.png]]
+
+> On the roof of a square-based building there are some buildings, also square-based, two of which have another on the roof always square-based. All the individual buildings are parallel piers. The bases are of four different sizes: 40, 20, 10 and 5 m2. They want to paint all the roofs in dark gray, as the figure suggests. How many square meters is the area to be painted? A) 1.600 B) 2.100 C) 2.150
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q01]]

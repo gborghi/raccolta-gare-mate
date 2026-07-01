@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo33ya_yosen__Q03
 parent: src_jmo33ya_yosen
 competition: Japan Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Problem statement not present in source (answer sheet only)*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{7}{9}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+
+> [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
+
+**Risposta:** \frac{7}{9}
+[[src_jmo33ya_yosen__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f3__Q02
 parent: src_obm_1998_n2_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle BAC given midpoints and equal-angle conditions in triangle*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find angolo BAC dato punti di mezzo e condizioni di angolo uguale in triangolo*
+
+> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $ADC$ e $BAE$ sono uguali, trovare l'angolo $BAC$.
+
+[[src_obm_1998_n2_f3__Q02]]

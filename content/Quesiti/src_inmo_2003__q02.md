@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2003 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2003__Q02
 parent: src_inmo_2003
 competition: Indian National Mathematical Olympiad 2003
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all primes p,q and even n>2 satisfying a sum equation*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le prime p,q e anche n>2 che soddisfano un'equazione somma*
+
+> Trova tutti i numeri primi $p$ e $q$, e numeri pari $n > 2$, soddisfacendo l'equazione $$p^n + p^{n-1} + \cdots + p + 1 = q^2 + q + 1.$$
+
+[[src_inmo_2003__Q02]]

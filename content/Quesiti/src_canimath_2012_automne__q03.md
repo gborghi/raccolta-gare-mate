@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q03
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find width of a diagonal ribbon on a rectangular box*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca larghezza di un nastro diagonale su una scatola rettangolare*
+
+> Su una scatola rettangolare di dimensioni < MSK0/>, è stata posizionata una nastro diagonalmente come mostrato nella figura di seguito (la nastro è rappresentata in grigio nella figura). È stato misurato che $AB = 1\,\text{cm}$ e $BC = 5\,\text{cm}$. Calcola la larghezza del nastro.
+
+![[src_canimath_2012_automne__Q03.png]]
+
+[[src_canimath_2012_automne__Q03]]

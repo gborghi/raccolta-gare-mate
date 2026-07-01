@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q02
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero furfanti*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number of thieves< MSK1/>
+
+> Around a table are seated 4 people, each of whom can be either a knight (who always tells the truth) or a cunning man (who always lies). Each of the people in the room says, "Of the other three people sitting at this table with me, there are exactly two crooks". What's the total number of crooks sitting at the table?
+>
+> - **(A)** No one
+> - **(B)** I 'm sure it 's two .
+> - **(C)** I'm sure all four of them.
+> - **(D)** Certainly 1
+> - **(E)** the information provided is insufficient to establish it;
+
+**Answer:** E
+[[src_archimede_2017_biennio__Q02]]

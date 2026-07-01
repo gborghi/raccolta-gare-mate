@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q15
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tokens in a 30x30 grid: at most one per cell, every empty cell shares row/column with a token, every token has at most one other token in its row or column; find the smallest k so that every k x k subsquare always contains a token*
 
@@ -56,3 +59,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Token in una griglia 30x30: al massimo uno per ogni cella, ogni cella vuota condivide riga/colonna con un token, ogni token ha al massimo un altro token nella sua riga o colonna; trovare il k più piccolo in modo che ogni sottoquadrato k x k contiene sempre un token*
+
+> Theo colloca i token nelle celle di una tabella di dimensioni $30 \times 30$ rispettando le seguenti regole:
+> 
+> $\triangleright$ Ogni cella contiene al massimo un token.
+> 
+> $\triangleright$ Per ogni cella vuota, tra le celle della stessa riga o della stessa colonna, c'è almeno una cella contenente un token.
+> 
+> $\triangleright$ Per ogni token inserito, tra le celle della stessa riga o della stessa colonna, c'è al massimo un'altra cella che contiene un token.
+> 
+> Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un token.
+
+[[src_canimath_2023_automne__Q15]]

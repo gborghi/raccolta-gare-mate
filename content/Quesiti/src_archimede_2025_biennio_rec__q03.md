@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q03
 parent: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo D in quadrilatero con punto E e lati uguali*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle D in a rectangle with point E and equal sides*
+
+![[src_archimede_2025_biennio_rec__prob3.png]]
+
+> In the convex quadrilateral ABCD, the amplitudes of the interior angles bA = 70° and bB = 109° are known. There is also a point E on the DA side such that AB = AE, BC = BE, EC = ED. What is the width of the angle bD ? A E B C D
+>
+> - **(A)** 61°
+> - **(B)** 60°
+> - **(C)** 59°
+> - **(D)** 62°
+> - **(E)** 58°
+
+**Answer:** C
+[[src_archimede_2025_biennio_rec__Q03]]

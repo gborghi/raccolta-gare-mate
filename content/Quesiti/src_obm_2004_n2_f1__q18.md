@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q18
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which two paper pieces fold into a cube*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che due pezzi di carta si pieghano in un cubo*
+
+> Si può costruire un cubo, a partire da due pezzi di carta presentati in una delle alternative di seguito, solo piegandosi lungo le linee scartate e unendosi lungo le linee solide. Questi due pezzi sono:
+> 
+> **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano coppie di pezzi di carta piatta)
+
+![[src_obm_2004_n2_f1__Q18.png]]
+
+[[src_obm_2004_n2_f1__Q18]]

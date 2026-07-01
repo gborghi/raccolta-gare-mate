@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q20
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest N from arithmetic progression remainders 11,12,13*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N più piccolo dei rimanenti di progressione aritmetica 11,12,13*
+
+> Considera l'insieme $E$ di tutti i numeri naturali $n$ in modo tale che quando diviso rispettivamente per 11, 12, 13, i rimanenti, in tale ordine, sono numeri primi distinti in una progressione aritmetica. Se $N$ è il numero più grande di $E$, si trova la somma delle cifre di $N$.
+
+[[src_prmo_2019__Q20]]

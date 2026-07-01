@@ -1,6 +1,7 @@
 ---
 title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006__Q02
 parent: src_cesenatico_2006
 competition: XXII Olimpiade Italiana Cesenatico 2006
@@ -23,6 +24,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determinare valori di (a,b,c) con c=ab e ab=a^2 e relazioni*
 
@@ -32,3 +35,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (20,2,40),(4,3,12),(12,1,12)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* Determine values of (a,b,c) with c=ab and ab=a^2 and relationships*
+
+> Determine all values of $m$, $n$ such as $p^n + 144 = m^2$, where $m$ and $n$ are positive integers and $p$ is a prime number.
+
+**Answer:** (20,2,40),(4,3,12),(12,1,12)
+[[src_cesenatico_2006__Q02]]

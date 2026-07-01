@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Student — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_student__QS2
 parent: src_kangourou_2015_finale_student
 competition: Kangourou 2015 finale nazionale Student
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valori di n*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 1 e 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z_cR8nCAXBpRsQKgwOr6WJi09KR66jxC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>values of n< MSK1/>
+
+> 2 . You want to draw on one of these sheets a grid of size (n + 1) × n and the one on the shorter side is made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of n? S3. (11 points) The currency in use in Khangland is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that for every positive integer N, the different possible ways to realize the sum of N + 1 kang are in the narrowest number.
+
+**Answer:** 1 e 2
+[[src_kangourou_2015_finale_student__QS2]]

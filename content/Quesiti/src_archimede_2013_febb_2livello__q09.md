@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q09
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomio con p(5n-1)=5^(5n)-1, calcolare p(3)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Polynomial with p(5n-1) = 5^(5n)-1, calculated p(3) *
+
+> Knowing that the polynomial p is such that, for every integer n, p(5n −1) = 55n −1, how much will p(3) be worth?
+>
+> - **(A)** 1023
+> - **(B)** 999
+> - **(C)** 874
+> - **(D)** 242
+> - **(E)** 0
+
+**Answer:** A
+[[src_archimede_2013_febb_2livello__Q09]]

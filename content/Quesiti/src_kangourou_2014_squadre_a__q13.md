@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q13
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero sul terzo segnale chilometrico (cifre scambiate)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 106
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number on the third kilometre signal (digits exchanged) *
+
+> Miles signals Giulio is driving at a steady speed on a freeway. At some point, you notice that the two digits of the number on the kilometre signal you're passing are those of the signal you had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving you notice that the number present on the signal you are passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What's the number on the third mile?
+
+**Answer:** 106
+[[src_kangourou_2014_squadre_a__Q13]]

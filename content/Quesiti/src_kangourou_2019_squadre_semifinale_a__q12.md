@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q12
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti raggiungibili dalla pulce dopo 30 salti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Points reached by the flea after 30 jumps< MSK1/>
+
+> Flea A square grid is obtained by approximating 100< MSK0/>100 identical square cells. A flea is located at the point in the center of the grid (top of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting top. After 30 jumps, how many different spots could you be in?
+
+**Answer:** 0120
+[[src_kangourou_2019_squadre_semifinale_a__Q12]]

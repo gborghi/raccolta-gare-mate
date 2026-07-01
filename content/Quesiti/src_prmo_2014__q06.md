@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q06
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest natural number n such that x^2 - nx + 2014 = 0 has integer roots*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 91
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo numero naturale n tale che x^2 - nx + 2014 = 0 abbia radici interi*
+
+> Qual è il numero naturale $n$ più piccolo possibile per il quale l'equazione $x^2 - nx + 2014 = 0$ ha radici interi?
+
+**Risposta:** 91
+[[src_prmo_2014__Q06]]

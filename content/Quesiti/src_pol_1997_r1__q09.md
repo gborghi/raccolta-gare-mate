@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q09
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions on [1,infinity) into [1,infinity) satisfying a recurrence and a boundedness condition.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni su [1,infinity) in [1,infinity) che soddisfano una ricorrenza e una condizione di limitazione.*
+
+> Trova tutte le funzioni $f : [1, \infty) \to [1, \infty)$ che soddisfano: (i) $f(x + 1) = \frac{f(x)^2 - 1}{x}$ per tutte le $x \ge 1$; (ii) la funzione $g(x) = f(x)/x$ è limitata.
+
+[[src_pol_1997_r1__Q09]]

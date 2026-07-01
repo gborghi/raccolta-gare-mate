@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q05
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -33,6 +34,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Peeling polygonal labels by removing triangles with a unit ruler*
 
@@ -71,3 +74,33 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scapping etichette poligonali rimuovendo i triangoli con una regolazione unità*
+
+> Julien vuole togliere un'etichetta poligonale testarda.
+> 
+> Ha una regola di lunghezza $1$ che utilizza per scagliare successivi piccoli triangoli dall'etichetta. Per eliminare un triangolo, deve scegliere due punti a distanza massima $1$ l'uno dall'altro, situati su lati adiacenti dell'etichetta che formano un angolo acuto o retto. Il triangolo da scolpire deve essere interamente contenuto nel resto dell'etichetta.
+> 
+> Ad esempio, se l'etichetta è il pentagono della figura 11, può posizionare il suo reggente su uno dei due lati completamente arancioni, ma non può posizionare il suo reggente sui lati puntati: il lato sinistro è troppo lungo, il lato destro collega due lati che formano un angolo obtuso, e i due lati superiori formano un angolo obtuso. Quando il triangolo svelto soddisfa tutte le condizioni, il svelto è **valid**.
+> 
+> Julien si ferma quando l'intera etichetta è stata sbucciata, cioè rimane solo un triangolo con angolo acuto e il cui lato opposto ha una lunghezza massima $1$, o quando non può più sbucciare alcun triangolo. Nel primo caso si dice che l'etichetta iniziale è **interamente peelabile**.
+> 
+> **1.** Esiste un poligono con lati $n$ che sia interamente pealisabile per i seguenti valori di $n$: a) $n = 3$ o $n = 4$? b) $n = 5$? c) $n \ge 6$?
+> 
+> **2.** Ora ci concentriamo su particolari poligoni: a) Per quali valori di $c$ è un quadrato di lato $c$ interamente pealisabile? b) Per quali valori di $c$ un triangolo equilaterale di lato $c$ è interamente pealisabile? c) Per qualsiasi $a > 0$, per quali valori di $c$ il rettangolo $c \times a$ è interamente peelabile?
+> 
+> **3.** In un quadrilaterale, supponiamo che tutti i lati abbiano una lunghezza inferiore a $1$. E' sempre del tutto peelabile?
+> 
+> **4.** Esiste un reale $R > 0$ tale che qualsiasi poligono contenente un disco di raggio $R$ non sia completamente peelabile?
+> 
+> **5.** Rivedere le domande precedenti che sostituiscono il vincolo che l'angolo sia acuto o retto con il vincolo che esso sia al massimo un angolo fisso $\alpha$ (le domande precedenti corrispondono al caso $\alpha = 90^\circ$).
+> 
+> **6.** Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2020__Q05.png]]
+
+[[src_tfjm_2020__Q05]]

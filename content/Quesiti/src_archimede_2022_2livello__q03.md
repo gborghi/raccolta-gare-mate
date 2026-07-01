@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q03
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro cerchi tangenti, raggio del quarto*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four tangent circles, radius of the fourth *
+
+![[src_archimede_2022_2livello__prob3.png]]
+
+> Three unit radius circles are tangent to each other and a fourth circle is tangent to all three, and does not enclose them. How much is the radius of the fourth circumference?
+>
+> - **(A)** √ 3+1 24
+> - **(B)** 1 8
+> - **(C)** √ 3 12
+> - **(D)** 2 √ 3 3 −1
+> - **(E)** √ 3−1 4
+
+**Answer:** D
+[[src_archimede_2022_2livello__Q03]]

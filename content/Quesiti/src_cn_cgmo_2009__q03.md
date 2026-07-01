@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q03
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given n points on the coordinate axes with integer coordinates bounded by n, minimize the cyclic sum of squared distances between consecutive points.*
 
@@ -52,3 +55,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dati n punti sugli assi di coordinate con coordinate interi dilimitate da n, ridurre al minimo la somma ciclica delle distanze quadrate tra punti consecutivi.*
+
+> $n$ sia un dato intero positivo. Nel piano delle coordinate, considera l'insieme dei punti $$\{P_0, P_1, \ldots, P_n\} = \{(x, y) \mid x \text{ and } y \text{ are integers with } xy = 0, |x| \le n, |y| \le n\}.$$ Determina il valore minimo di $$(P_0 P_1)^2 + (P_1 P_2)^2 + \cdots + (P_{n-1} P_n)^2 + (P_n P_0)^2.$$ (Posizionato da Wang Xinmiao)
+
+[[src_cn_cgmo_2009__Q03]]

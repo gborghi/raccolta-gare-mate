@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q07
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima griglia 3x3 con sei somme primi diversi*
 
@@ -54,3 +57,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of grid 3x3 with six different prime sums*
+
+> Grid 3 × 3 In each cell of a grid 3 × 3 one and only one positive integer is inserted so that the six numbers obtained by adding those inserted in each single row and those inserted in each single column are six prime numbers all different from each other. The nine numbers in the grid, on the other hand, are not necessarily all different from each other. What's the minimum possible value for the sum of these 9 numbers?
+>  
+>  
+> A D B C Q ?
+
+**Answer:** 29
+[[src_kangourou_2015_squadre_f__Q07]]

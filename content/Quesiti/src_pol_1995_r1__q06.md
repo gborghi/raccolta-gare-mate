@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q06
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cevians from interior point; express sum a+b+c as product*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ceviani dal punto interno; somma espressa a+b+c come prodotto*
+
+> $P$ sia un punto all'interno di un triangolo $ABC$. I raggi $AP$, $BP$, $CP$ si intersecano rispettivamente a $BC$, $CA$, $AB$, $B'$ e $C'$. Set $a = AP/PA'$, $b = BP/PB'$, $c = CP/PC'$. Esprimere il prodotto della somma $a + b + c$.
+
+[[src_pol_1995_r1__Q06]]

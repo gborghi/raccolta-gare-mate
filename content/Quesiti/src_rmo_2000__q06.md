@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2000 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2000__Q06
 parent: src_rmo_2000
 competition: Regional Mathematical Olympiad 2000
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find least value of ab such that a^n b^(n+1) is divisible by 2000 for all n*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore minimo di ab in modo tale che a^n b^(n+1) sia divisibile per 2000 per tutte le n*
+
+> (i) Considerare due integri positivi $a$ e $b$ in modo tale che $a^n b^{n+1}$ sia divisibile da $2000$ per ogni intero positivo $n$. Qual è il valore minimo possibile del prodotto < MSK5/>?
+> 
+> (ii) Considerare due integri positivi $a$ e $b$ che sono tali che $a^n b^{n+1}$ sia divisibile da $2000$ per un certo intero positivo $n$. Qual è il valore minimo possibile del prodotto < MSK5/>?
+
+[[src_rmo_2000__Q06]]

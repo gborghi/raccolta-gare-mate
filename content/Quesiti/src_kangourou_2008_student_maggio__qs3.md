@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS3
 parent: src_kangourou_2008_student_maggio
 competition: Kangourou 2008 - Student finale nazionale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n interi con somma = prodotto per ogni n>1*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17e9IDZmmMC0kmw9HyZkRsJZSaNWwywyl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n whole with sum = product for each n>1< MSK1/>
+
+> < MSK2/>(11 points) < MSK3/> Can we find, for each < MSK0/>, < MSK1/> non-zero natural integers for which the sum is equal to the product?
+
+**Answer:** si
+[[src_kangourou_2008_student_maggio__QS3]]

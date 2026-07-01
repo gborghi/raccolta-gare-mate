@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q10
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of large rectangle formed by six identical small rectangles*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di un grande rettangolo formato da sei piccoli rettangoli identici*
+
+> Sei rettangoli identici vengono messi insieme per formare un rettangolo più grande come mostrato nella figura. Qual è l'area del rettangolo più grande?
+> 
+> A) $210\text{ cm}^2$ \quad B) $280\text{ cm}^2$ \quad C) $430\text{ cm}^2$ \quad D) $504\text{ cm}^2$ \quad E) $588\text{ cm}^2$
+
+![[src_obm_2005_n1_f1__Q10.png]]
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q10]]

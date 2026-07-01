@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2018 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_automne__Q01
 parent: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute 2018 pieces in b boxes into n houses; box contains at least n pieces?*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n pezzi?
+
+> Distribuiamo i pezzi $2018$ in scatole $b$, e poi distribuiamo queste scatole $b$ in case $n$, in modo tale che ogni casa riceva strettamente meno di scatole $b$. È possibile che ciascuna scatola contenga almeno < MSK5/> pezzi?
+
+[[src_canimath_2018_automne__Q01]]

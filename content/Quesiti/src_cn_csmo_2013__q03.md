@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2013__Q03
 parent: src_cn_csmo_2013
 competition: China Southeastern Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recursive sequence; prove sum of squares of adjacent terms is in the sequence.*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza ricursiva; prova che la somma dei quadrati di termini adiacenti è nella sequenza.*
+
+> La sequenza $\{a_n\}$ deve essere definita da $a_1 = 1$, $a_2 = 2$, $a_{n+1} = \dfrac{a_n^2 + (-1)^n}{a_{n-1}}$ $(n = 2, 3, \ldots)$. Prova che la somma dei quadrati di due termini adiacenti della sequenza è anche nella sequenza.
+
+[[src_cn_csmo_2013__Q03]]

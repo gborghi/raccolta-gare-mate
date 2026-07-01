@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2016 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2016__Q01
 parent: src_inmo_2016
 competition: Indian National Mathematical Olympiad 2016
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle orthocenter on incircle, find AB/BC*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1woBuE2HYjU-e_MK1TenDn20fm5TAalE-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles orthocentro su incircolo, trovare AB/BC*
+
+> $ABC$ sia un triangolo in cui $AB = AC$. Supponiamo che l'ortocentro del triangolo si trovi sul cerchio interno. Trova il rapporto < MSK2/>.
+
+[[src_inmo_2016__Q01]]

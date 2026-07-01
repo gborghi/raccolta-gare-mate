@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 44
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q44
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-11: regular pyramid P-A1A2...An, O center of base, B midpoint of A1An; prove a relation and compare (1/n)Σcos∠AiPB with sinα sinβ.*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-11: piramide regolare P-A1A2...An, centro di base O, punto medio di A1An B; dimostrare una relazione e confrontare (1/n)ΣcosAiPB con sinα sinβ.*
+
+> [Test Paper B, Problem 11] (20 marks) Nella piramide regolare $P-A_1A_2\cdots A_n\ (n\ge 3)$, $O$ è il centro della base del poligono laterale $n$ e $B$ è il punto medio del bordo $A_1A_n$. (1) Prove che $PO^2\sin\dfrac{\pi}{n}+PA_1^2\cos^2\dfrac{\pi}{n}=PB^2$; (2) Per la piramide regolare $P-A_1A_2\cdots A_n$, l'angolo formato dal bordo laterale e dalla base sia $\alpha$ e l'angolo formato dalla faccia laterale e dalla base sia $\beta$. Provare a determinare la relazione di magnitudine tra $\dfrac{1}{n}\sum_{i=1}^{n}\cos\angle A_iPB$ e $\sin\alpha\sin\beta$, e poi provarlo.
+
+[[src_cn_cmc-first-round_2021__Q44]]

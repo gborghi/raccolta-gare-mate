@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1982__Q04
 parent: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubic Diophantine equation has at least three integer solutions*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cubic Diophantine equation has at least three integer solutions
+
+> Demonstrate that if $n$ is a positive integer such that the equation $$x^3 - 3xy^2 + y^3 = n$$ has a solution in integers $(x, y)$, then it has at least three such solutions.
+> 
+> Also show that the equation has no solutions in integers when $n = 2891$.
+
+[[src_imo_1982__Q04]]

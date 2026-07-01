@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q26
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *angolo PQR*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the sum of the values of the values of the samples.
+
+> 26. In a PQRS trapezoid the sides PQ and SR are parallel and PQ is triple SR; furthermore SR ^ and SP are equal and the angle RSP measures 120° (120 degrees). What is the dimension of the angle ^ PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
+
+**Answer:** D
+[[src_kangourou_2015_marzo_cadet__Q26]]

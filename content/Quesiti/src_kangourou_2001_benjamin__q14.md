@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q14
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero ultimo vagone del trenino*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last train number of the train*
+
+![[src_kangourou_2001_benjamin__prob14.png]]
+
+> What's the number of the last wagon on the kangaroo train?
+>
+> - **(A)** 52
+> - **(B)** 64
+> - **(C)** 66
+> - **(D)** 72
+> - **(E)** 88.
+
+**Answer:** C
+[[src_kangourou_2001_benjamin__Q14]]

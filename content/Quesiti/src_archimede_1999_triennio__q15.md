@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q15
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita della somma dei primi 25 primi*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of the sum of the first 25 prime *
+
+> Let N be the sum of the 25 smallest prime numbers. The number of units of N is equal to
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 0. I'm going to take note. Remember that number 1 is not considered prime and so the smallest prime number is 2.
+
+**Answer:** E
+[[src_archimede_1999_triennio__Q15]]

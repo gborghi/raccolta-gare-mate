@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q01
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tra termini 2019 e 2018 di N^2-2019N+2019*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the own funds of the institution.
+
+> Substitution If you substitute the numbers N = 1, 2, 3, ... in the expression N 2  2019N + 2019 you get a sequence of integers. What's the difference between the number on the 2019th place and the number on the 2018th?
+
+**Answer:** 2018
+[[src_kangourou_2019_squadre_semifinale_a__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q29
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Z->Z con x f(x)=(x-3)f(x+1): prodotto f(4)...f(2014)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Z->Z with x f(x)=(x-3)f(x+1): product f(4)...f(2014) *
+
+> Whether Z is the sum of the relative integers. The function f: Z Z satisfies the conditions f (4) = 6 and x ∙ f (x) = (x  3) ∙ f (x + 1) for every x belonging to Z. How much is f (4) ∙ f (7) ∙ f (10) ∙... ∙ f (2011) ∙ f (2014)? A) 2013 B) 2014 C) 2013∙ 2014
+> 	
+> D) 2013! E) 2014!
+
+**Answer:** D
+[[src_kangourou_2014_marzo_student__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round1__Q03
 parent: src_bmo_2019-20_round1
 competition: British Mathematical Olympiad 2019-20 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two tangent circles with common tangent; prove AC perpendicular to BD*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti con tangente comune; dimostrare che l'AC è perpendicolare a BD*
+
+> Due cerchi $S_1$ e $S_2$ sono tangenti a $P$. Un tangente comune, non attraverso $P$, tocca $S_1$ a $A$ e $S_2$ a $B$. I punti $C$ e $D$, rispettivamente su $S_1$ e $S_2$, sono al di fuori del triangolo $APB$ e sono tali che $P$ sia sulla linea $CD$.
+> 
+> Prova che $AC$ è perpendicolare a $BD$.
+
+[[src_bmo_2019-20_round1__Q03]]

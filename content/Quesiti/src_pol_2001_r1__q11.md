@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r1__Q11
 parent: src_pol_2001_r1
 competition: Olimpiade Matematica Polacca 2001 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n-tuple of positive integers is admissible if each k up to 2*sum has a {-2..2}-coefficient representation; find the maximum of the sum.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n-tuple di integri positivi è ammissibile se ogni k fino a 2 * somma ha una rappresentazione del coefficiente {-2..2}; trovare il massimo della somma.*
+
+> Un $n$-tuple $(c_1, c_2, \ldots, c_n)$ di numeri interi positivi è ammissibile se ogni intero positivo $k$ non superiore a $2(c_1 + c_2 + \cdots + c_n)$ può essere rappresentato nella forma $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$ Per ogni $n$ si trova il valore massimo possibile di $c_1 + \cdots + c_n$ se $(c_1, \ldots, c_n)$ è ammissibile.
+
+[[src_pol_2001_r1__Q11]]

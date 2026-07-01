@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q13
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di famiglie in gita data composizione fratelli*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of families travelling to a given composition of siblings*
+
+> Forty-eight boys are taking part in a ski trip. Some of them are together with brothers (or sisters): precisely 6 participate with exactly 1 brother, 9 with exactly 2 and 4 with exactly 3 brothers. All the others have no brothers (or sisters) taking part in the trip. How many families have children taking part in the trip? A) 19 B) 25 C) 31 D) 36 E) 48
+
+[[src_kangourou_2011_student__Q13]]

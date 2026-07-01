@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q08
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tassello non ottenibile dal quadrato*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table not available from square*
+
+> The square you see on the right is cut in the lines. Which of the following rates cannot be obtained in this way?
+>  
+>  
+>  
+>  
+>  
+>  
+> 
+> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. 3 Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2002_ecolier__Q08]]

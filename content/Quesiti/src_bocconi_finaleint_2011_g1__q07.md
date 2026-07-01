@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q07
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cinque numeri mancanti sul solido di Ottavio*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Five numbers missing from the Ottavio solid < MSK1/>
+
+> The Octavian solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each quadruple of triangles with a common vertex shall be the same. **Write out the five missing numbers.**
+
+![[src_bocconi_finaleint_2011_g1__Q07.png]]
+
+[[src_bocconi_finaleint_2011_g1__Q07]]

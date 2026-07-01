@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q07
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri sulle facce del cubo, vertici=1001*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 31
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers on the sides of the cube, vertices=1001*
+
+> The numbered cube A positive integer is written on each side of a cube; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers that are written on the faces?
+
+**Answer:** 31
+[[src_kangourou_2013_squadre_a__Q07]]

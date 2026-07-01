@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f3__Q01
 parent: src_obm_2005_n1_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of small cubes needed to form a single face of a large hollow cube*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di piccoli cubetti necessari per formare una singola faccia di un grande cubo vuoto*
+
+> Esmeraldinha ha alcuni piccoli cubetti di legno con bordo $2$ cm. Lei vuole costruire un grande cubo con bordo $10$ cm, ma poiché non ha abbastanza cubetti piccoli, incolla piccoli cubetti con bordo $2$ cm in modo da formare solo una faccia del cubo, che è vuota.
+> 
+> Quanti cubetti avrà bisogno?
+
+[[src_obm_2005_n1_f3__Q01]]

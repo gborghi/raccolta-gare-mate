@@ -1,6 +1,7 @@
 ---
 title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1985__Q06
 parent: src_imo_1985
 competition: IMO 1985 (26th International Mathematical Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Unique starting value keeping recurrence sequence in (0,1)*
 
@@ -42,3 +45,21 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_ricorsione|Ricorsione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Unique starting value keeping recurrence sequence in (0,1) < MSK1/>
+
+> For each real number $x_1$, the sequence $x_1, x_2, \ldots$ is constructed by
+> 
+> $$x_{n+1} = x_n \left( x_n + \frac{1}{n} \right)$$
+> 
+> for each $n \geq 1$. Demonstrate that there is exactly a value of $x_1$ for which
+> 
+> $$0 < x_n < x_{n+1} < 1$$
+> 
+> for each $n$.
+
+[[src_imo_1985__Q06]]

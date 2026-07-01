@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2005__Q02
 parent: src_cn_cmo_2005
 competition: China Mathematical Olympiad 2005
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle intersects triangle sides; AL, BM, CN concurrent*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Circolo interseca i lati del triangolo; AL, BM, CN contemporaneamente< MSK1/>
+
+> Un cerchio incrocia i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di linea $E_1F_2$ e $E_2F_1$ si incrociano al punto $L$, $F_1D_2$ e $F_2D_1$ si incrociano al punto $M$, $D_1E_2$ e $D_2E_1$ si incrociano al punto $N$. Provare che $AL$, $BM$ e $CN$ sono simultanei. (Posato da Ye Zhonghao)
+
+![[src_cn_cmo_2005__Q02.png]]
+
+[[src_cn_cmo_2005__Q02]]

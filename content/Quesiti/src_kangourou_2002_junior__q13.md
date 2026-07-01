@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q13
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Salti del canguro verso Mosca*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Jumps of the kangaroo to Moscow*
+
+> A phenomenal kangaroo moves by jumping in a straight line from Trieste to Moscow (the two cities are about 2,500 km apart) and each jump is twice the length of the previous jump. If the first jump is 1 meter long, after how many jumps will the kangaroo be as close to Moscow as possible?
+>  
+> A. 11 B. 12 C. 10 D. 20 E. 21
+> 
+> Junior year 2002. This item is not intended to be used. 4
+
+**Answer:** E
+[[src_kangourou_2002_junior__Q13]]

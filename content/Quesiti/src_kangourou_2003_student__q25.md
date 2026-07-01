@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q25
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione area triangolo APM nel rettangolo*
 
@@ -83,3 +86,51 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fraction area of triangle APM in the rectangle*
+
+![[src_kangourou_2003_student__prob25.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (C) at (2,2);
+  \coordinate (D) at (0,2);
+  \coordinate (P) at (2,1);
+  \coordinate (Q) at (1,2);
+  \coordinate (R) at (0,1);
+  \coordinate (M) at (0.5,1.5);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \fill[gray!30] (A) -- (P) -- (M) -- cycle;
+  \draw (A) -- (P) -- (M) -- cycle;
+  \draw (Q) -- (R);
+  \filldraw (A) circle (1.5pt);
+  \filldraw (B) circle (1.5pt);
+  \filldraw (C) circle (1.5pt);
+  \filldraw (D) circle (1.5pt);
+  \filldraw[draw=black, fill=white] (P) circle (2pt);
+  \filldraw[draw=black, fill=white] (Q) circle (2pt);
+  \filldraw[draw=black, fill=white] (R) circle (2pt);
+  \filldraw[draw=black, fill=white] (M) circle (2pt);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[right] at (P) {$P$};
+  \node[above] at (Q) {$Q$};
+  \node[left] at (R) {$R$};
+  \node[above right] at (M) {$M$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In an ABCD rectangle, P, Q and R are the midpoints of the sides BC, CD and AD, respectively, and M is the midpoint of the QR segment. What fraction of the area of ABCD is covered by the APM triangle? A) 1/4 B) 1/6 C) 3/8 D) 1/3 E) 5/16
+
+**Answer:** E
+[[src_kangourou_2003_student__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier finale (maggio) — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE3
 parent: src_kangourou_2007_ecolier_maggio
 competition: Kangourou 2007 Ecolier finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scegliere tre pezzi per quadrato 3x3*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to choose three pieces per square 3x3*
+
+![[src_kangourou_2007_ecolier_maggio__probE3.png]]
+
+> 3) Can you remove all the tokens? How (or, if not, why not)? E6. (22 points) Some of the integers that have 6 as a unit number also have this property: if you move the unit number 6 before the first digit of the number, you get a new number that is the product of the starting number by 4. Find the smallest integer with this property. • Find others. •
+
+**Answer:** 7
+[[src_kangourou_2007_ecolier_maggio__QE3]]

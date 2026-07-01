@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q03
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five-digit numbers with distinct odd digits; bound on houses with no newspaper.*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri a cinque cifre con cifre odd distinte; legati a case senza giornale.*
+
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ci sono $5$ numeri unici: $1,3,5,7,9$. Quindi ci sono $5\cdot 5 = 25$ numeri di esattamente cinque cifre tutti strani e con una somma pari di cifre. Pertanto, al massimo le case $25-18 = 7$ non hanno ricevuto il giornale.]
+
+**Risposta:** D
+[[src_obm_2016_n1_f1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q07
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many times per day do clock hands form a right angle?*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quante volte al giorno le mani dell'orologio formano un angolo retto?
+
+> Quante volte al giorno (24 ore) le mani di un orologio formano un angolo retto?
+> 
+> (A) 48 \quad (B) 44 \quad (C) 24 \quad (D) 22 \quad (E) 23
+
+**Risposta:** B
+[[src_obm_1999_n1_f1__Q07]]

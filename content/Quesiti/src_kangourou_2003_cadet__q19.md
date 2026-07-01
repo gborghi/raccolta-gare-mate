@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q19
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero sui 6 cartoncini con somme date*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number on 6 cartons with sums given < MSK1/>
+
+> Mary has six cards of different colors, each marked with a natural number. Choose three random cards and calculate the sum of the corresponding numbers. After doing this operation in all 20 possible ways, he finds that in 10 cases he got 16, and in the others he got 18. So the smallest of the numbers marked on the cards is A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** C
+[[src_kangourou_2003_cadet__Q19]]

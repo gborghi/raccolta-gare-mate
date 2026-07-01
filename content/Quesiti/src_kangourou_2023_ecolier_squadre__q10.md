@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q10
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi 0..10 con quattro cifre 4*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integres 0..10 with four digits 4< MSK1/>
+
+> Four 4 Michele noted that 7 can be obtained as 44: 4  4. How many of the eleven integers from 0 to 10 included can be obtained by writing for each exactly four times the number 4 and using appropriately some of the four operations (addition, subtraction, multiplication, division)?
+
+**Answer:** 0011
+[[src_kangourou_2023_ecolier_squadre__Q10]]

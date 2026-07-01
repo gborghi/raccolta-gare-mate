@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q02
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle AOF given isosceles right triangles with OA=8 cm*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 32
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del triangolo AOF data a triangoli rettangolari con OA=8 cm*
+
+> Nella figura di seguito, i triangoli $ABO$, $BCO$, $CDO$, $DEO$ e $FEO$ sono triangoli rettangolari a pieghe uguali. Ci viene data quella < MSK5/> cm. Determinare la superficie del triangolo $AOF$ in cm$^2$.
+
+![[src_canimath_2016_automne__Q02.png]]
+
+**Risposta:** 32
+[[src_canimath_2016_automne__Q02]]

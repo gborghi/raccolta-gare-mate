@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q12
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many of 1-9 can occupy the centre square of an X*
 
@@ -56,3 +59,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti di 1-9 possono occupare il quadrato centrale di un X *
+
+> Julieta fece un X con nove piccoli quadrati che formavano la figura mostrata. Lei vuole scrivere i numeri da 1 a 9 in questi quadrati, senza ripeterli, in modo che i numeri in ciascuno dei quattro 'bracci' della X abbiano la stessa somma. Quanti dei numeri da 1 a 9 possono occupare il quadrato centrale della X?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+![[src_obm_2015_n1_f1__Q12.png]]
+
+[[src_obm_2015_n1_f1__Q12]]

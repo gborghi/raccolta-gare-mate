@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q10
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma di cifre di un orologio digitale*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0024
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of digits of a digital watch*
+
+> A digital clock displays the hours with four digits: for example, if it is 3 and 12 in the afternoon, it shows 15:12, and the sum of the digits shown is 9. In the course of a day, what is the largest possible sum of the figures that the clock can show at any given moment? The answer is 0024. The solution. The maximum of the sum of the hour numbers is 10, which is done with 19, the sum of the minute numbers is 14, which is done with 59.
+
+**Answer:** 0024
+[[src_kangourou_2024_ecolier_semifinale__Q10]]

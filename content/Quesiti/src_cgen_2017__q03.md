@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2017 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2017__Q03
 parent: src_cgen_2017
 competition: Concours Général des Lycées 2017 — Matematica
@@ -44,6 +45,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangles in space E with integer-coordinate vertices in an orthonormal frame. Preliminary results on the foot of an altitude and rationality, irrationality of sqrt(n) for non-square n, and arithmetic of sums of three squares. Then study of which triangles (equilateral, isosceles 3-3-2 and 2-2-3) admit a similar copy with all integer vertices, via the tangent of angles having the form r*sqrt(k) with k square-free.*
 
@@ -98,3 +101,33 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EHAMpK1by8Xia4t4AWdCzG755ysDEYJL/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli nello spazio E con vertici di coordinate interi in un quadro ortonormale. Risultati preliminari sul piano di un'altitudine e della razionalità, dell'irrazionalità di sqrt(n) per n non quadrati e dell'aritmetica delle somme di tre quadrati. Poi studiare quali triangoli (equilaterali, isosceles 3-3-2 e 2-2-3) ammettere una copia simile con tutti i vertici interi, attraverso la tangenza di angoli con la forma r*sqrt(k) con k libero da quadrato.*
+
+> \textbf{3 Problema 3: nello spazio, tutti gli enti.}
+> 
+> Chiamiamo un numero razionale un numero che si può scrivere nella forma $\frac{a}{b}$, con $a$ e $b$ numeri interi relativi e $b \ne 0$. In particolare, la somma, la differenza, il prodotto e il quotiente di due numeri razionali sono numeri razionali.
+> 
+> Lo spazio $\mathscr{E}$ si riferisce a una cornice ortonormale $(O; \vec{\imath}, \vec{\jmath}, \vec{k})$. Per un punto $M(x; y; z)$ di $\mathscr{E}$ si denotano con $x$, $y$ e $z$ le sue coordinate.
+> 
+> Allo stesso modo, un punto $M(x; y)$ del piano $\mathscr{P}$ riferito a un quadro ortonormale $(O; \vec{\imath}, \vec{\jmath})$ sarà detto un punto intero quando $x$ e $y$ sono numeri interi.
+> 
+> In tutto questo problema, i triangoli considerati sono presunti non degenerati (non piatti).
+> 
+> Alcuni risultati preliminari.
+> 
+> \textbf{1.} Che $ABC$ sia un triangolo del piano $\mathscr{P}$ riferito a un quadro $(O; \vec{\imath}, \vec{\jmath})$, e che $H$ sia il piede dell'altitudine emessa da $A$ (cioè, $H$ è il punto di intersezione tra la linea $(BC)$ e la perpendicolare a $(BC)$ che attraversa $A$). \textbf{a.} Prova che $$\overrightarrow{AH} = \overrightarrow{AB} + \frac{\overrightarrow{BA} \cdot \overrightarrow{BC}}{BC^2} \, \overrightarrow{BC}.$$ \textbf{b.} Deduci che se $A$, $B$ e $C$ sono punti interi del piano $\mathscr{P}$, le coordinate di $H$ sono razionali. Le domande di cui sopra sono ancora valide? [Nota: la fine della domanda 3.1.1.b è parzialmente illeggibile nella fonte.] \textbf{2.} C'è un triangolo equilaterale le cui tre vertici sono punti interi del piano $\mathscr{P}$ riferito a un quadro $(O; \vec{\imath}, \vec{\jmath})$? \textbf{3.} Lasciate $n$ essere un intero naturale. Prova che $\sqrt{n}$ è un numero razionale se e solo se esiste un intero $m$ tale che $n = m^2$. - Sì, signore. a.} Prova che se $s$ è un numero intero relativo, allora esiste un numero intero $r$ tale che $s^2$ sia uguale a $8r$, o $8r + 1$, o $8r + 4$. \textbf{b.} Prova che se $a$, $b$, $c$ e $d$ sono integri tali da $2a^2 = b^2 + c^2 + d^2$, allora $a = b = c = d = 0$. [Nota: la fonte scrive la variabile come $t$ in un solo luogo; si legge come $d$ per la coerenza con l'equazione.]
+> 
+> \textbf{3.2 Studio dei triangoli dello spazio $\mathscr{E}$ con vertici interi.}
+> 
+> Indichiamo con $\theta$ la misura in radiani di un angolo non retto di un triangolo (non degenerato); uno ha $\tan(\theta) = \frac{\sin\theta}{\cos\theta}$.
+> 
+> Indichiamo con $k \ge 1$ un intero positivo che è libero dal quadrato, cioè $k$ è $1$ o si decompone in un prodotto di numeri primi separati in coppia.
+> 
+> \textbf{1.} Determina un triangolo equilaterale le cui vertici sono punti interi dello spazio $\mathscr{E}$. \textbf{2.} $T$ sia un triangolo le cui tre cime sono punti interi di $\mathscr{E}$. \textbf{a.} Prova che, per qualsiasi angolo non retto $\theta$ di $T$, il numero $\tan^2(\theta)$ è razionale. \textbf{b.} Prova che esiste un intero unico $k \ge 1$, libero da quadrati, in modo che per qualsiasi angolo $\theta$ di $T$, il numero $\tan(\theta)$ possa essere scritto nella forma $r\sqrt{k}$, dove $r$ è un numero razionale non zero. \textbf{c.} Usando la domanda \textbf{1.}, dimostrare che esistono integri $a_1, a_2, a_3, u_1, u_2$ e $u_3$, non tutti zero, soddisfacendo il sistema $$E(k,k) \;:\; \begin{cases} k\,(a_1^2 + a_2^2 + a_3^2) = u_1^2 + u_2^2 + u_3^2 \\ a_1 u_1 + a_2 u_2 + a_3 u_3 = 0 \end{cases}$$ (Ricorda: l'intero $k$ è quello trovato in questione \textbf{2.b.}) [Nota: la forma esatta del sistema $E(\cdot,\cdot)$ e i suoi parametri sono parzialmente ricostruiti da una fonte parzialmente illeggibile.] \textbf{3.} $k$ sia un intero a quadrato libero strettamente positivo. Supponiamo che esistano integri $a_1, a_2, a_3, u_1, u_2$ e $u_3$, non tutti zero, che soddisfano il sistema $E(3,k)$. $T$ sia un triangolo dello spazio $\mathscr{E}$. Supponiamo che, per qualsiasi angolo non retto $\theta$ di $T$, il numero $\tan(\theta)$ possa essere scritto nella forma $r\sqrt{k}$, dove $r$ è un numero razionale non zero. Mostrare che esiste un triangolo le cui tre vertici sono numeri interi e che hanno gli stessi angoli di $T$. - Sì, signore. a.} Il $T$ deve essere un triangolo a uguali dimensioni dello spazio $\mathscr{E}$ i cui lati sono di lunghezza $3$, $3$ e $2$. C'è un triangolo dello spazio $\mathscr{E}$ le cui tre vertici sono numeri interi e hanno gli stessi angoli di $T$? \textbf{b.} $T$ sia un triangolo a uguali dimensioni dello spazio $\mathscr{E}$ i cui lati sono di lunghezza $2$, $2$ e $3$. C'è un triangolo dello spazio $\mathscr{E}$ le cui tre vertici sono numeri interi e hanno gli stessi angoli di $T$? \textit{Rimarca:} Si può liberamente utilizzare la seguente identità, valida per tutti i veri $a$, $b$, $c$, $d$, $e$ e $f$: $$(a^2 + b^2 + c^2)(d^2 + e^2 + f^2) - (ad + be + cf)^2 = (ae - bd)^2 + (af - cd)^2 + (bf - ce)^2.$$
+
+[[src_cgen_2017__Q03]]

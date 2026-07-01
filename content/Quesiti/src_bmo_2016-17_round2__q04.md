@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2016-17_round2__Q04
 parent: src_bmo_2016-17_round2
 competition: British Mathematical Olympiad 2016-17 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bobby's secret 3-digit code: find minimum guesses Alex needs to guarantee learning the code*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il codice segreto a 3 cifre di Bobby: trovare le ipotesi minime che Alex deve garantire per imparare il codice
+
+> Bobby sceglie un codice segreto a tre cifre. Alex cerca di indovinare dicendo numeri a tre cifre uno alla volta. Dopo ogni ipotesi, Bobby risponde con quante cifre sono $\textit{Full}$ (cifre corrette nella posizione corretta) e quante sono $\textit{Close}$ (cifre corrette ma nella posizione sbagliata). Alex sa che entrambe le risposte sono corrette. Se Alex segue una strategia ottimale, qual e' il minimo numero di ipotesi necessarie per garantire che Alex possa determinare il codice segreto, qualunque sia?
+
+[[src_bmo_2016-17_round2__Q04]]

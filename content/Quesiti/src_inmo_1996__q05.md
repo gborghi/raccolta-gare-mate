@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1996 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1996__Q05
 parent: src_inmo_1996
 competition: Indian National Mathematical Olympiad 1996
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with a_{n+2}=2a_{n+1}-a_n+2; prove a_{4m+2} is a term*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con a_{n+2}=2a_{n+1}-a_n+2; dimostra a_{4m+2} è un termine*
+
+> La sequenza $(a_n)_{n \ge 1}$ è definita da $a_1 = 1$, $a_2 = 2$ e $$a_{n+2} = 2a_{n+1} - a_n + 2 \quad \text{for } n \ge 1.$$ Prove che per qualsiasi $m$, $a_{4m+2}$ è anche un termine della sequenza.
+
+[[src_inmo_1996__Q05]]

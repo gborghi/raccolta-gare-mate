@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q15
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n with reals in (-1,1) summing to 0 and squares summing to 2020*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N minore con i reali in (-1,1) sommati a 0 e i quadrati sommati a 2020*
+
+> Determinare il numero intero più piccolo $n$ in modo tale che esistano i valori $n$ $x_1, \ldots, x_n$ tutti appartenenti all'intervallo $\left]-1, 1\right[$ e per i quali $x_1 + \ldots + x_n = 0$ e $x_1^2 + \ldots + x_n^2 = 2020$.
+
+[[src_canimath_2021_printemps__Q15]]

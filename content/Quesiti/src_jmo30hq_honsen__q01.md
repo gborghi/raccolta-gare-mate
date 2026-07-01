@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30hq_honsen__Q01
 parent: src_jmo30hq_honsen
 competition: Japan Mathematical Olympiad 2020 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs making two expressions integers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi positivi che fanno due espressioni di numeri interi*
+
+> Trova tutte le coppie di integri positivi $(m, n)$ in modo che sia $$\frac{n^2+1}{2m}$$ che $$\sqrt{2^{n-1}+m+4}$$ siano integri.
+
+[[src_jmo30hq_honsen__Q01]]

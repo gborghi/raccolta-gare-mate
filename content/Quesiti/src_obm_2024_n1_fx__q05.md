@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n1_fx__Q05
 parent: src_obm_2024_n1_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Six-team football championship, find minimum possible highest score*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Campionato di calcio a sei squadre, trovare il minimo massimo punteggio possibile*
+
+> Un campionato è giocato tra sei squadre di calcio, con ciascuna squadra che gioca ciascuna delle altre cinque squadre esattamente una volta. Il vincitore di ciascuna partita guadagna 3 punti e il perdente guadagna 0 punti; se la partita termina in pareggio, entrambe le squadre guadagnano 1 punto. È noto che, alla fine del campionato, le sei squadre avevano in coppia punti totali diversi. Qual è il minimo valore possibile per il numero di punti della squadra con più punti?
+
+[[src_obm_2024_n1_fx__Q05]]

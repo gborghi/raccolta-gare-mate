@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q12
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Subsets of 10 points cut off by a half-space*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsiemi di 10 punti tagliati da mezzo spazio*
+
+> Un piano nello spazio divide lo spazio in due parti; una di queste parti (senza includere il piano stesso) è chiamata mezzo spazio. Che $S$ sia un insieme di punti $10$ nello spazio in modo tale che nessuno di loro sia coplanare. Trovare il numero di sottoinsiemi di $S$ che si formano come intersezione di $S$ con qualche mezzo spazio.
+
+[[src_jmo19yq_yosen__Q12]]

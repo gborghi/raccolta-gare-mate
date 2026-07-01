@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q13
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore espressione con cubo della somma*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2027
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expressed value with sum cube*
+
+> While sitting on a shakered, unmixed vodka martini, James Bond had noticed the writing of the conical ratio formula of the laser $$r = \sqrt[3]{8 - \sqrt{37}} + \sqrt[3]{8 + \sqrt{37}}$$ imprudently left near the olives. Later, he discovered that the laser power ratio must be $r^3 - 9r + 2011$. Now, in order to effectively sabotage the laser, you have to calculate the value of the power ratio exactly. What number does James count?
+
+**Answer:** 2027
+[[src_gs_2011_squadre__Q13]]

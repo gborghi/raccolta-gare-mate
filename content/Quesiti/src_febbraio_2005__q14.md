@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q14
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -21,6 +22,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenze tra centri di entry e segmenti tangenti*
 
@@ -29,3 +32,13 @@ tags:
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differences between entry centres and tangent segments*
+
+> Two $C_1$ and $C_2$ centers $A$ and $B$ are tangent externally in $T$. either $BD$ a tangent segment to $C_1$ in $D$ and $TC$ the tangent segment to both in $T$ with $C \in BD$. If $AT$ is 80 and $BT$ is 90 length, what is the length of $CD$?
+
+[[src_febbraio_2005__Q14]]

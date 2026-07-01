@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q09
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza A2021-A2020 delle corone circolari*
 
@@ -56,3 +59,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential A2021-A2020 of circular crowns*
+
+> (6 points) We denote with an the area of the circular crown bounded by two enclosed and enclosed circumferences to a regular polygon of n sides, each of length 1. What is the difference between A2021 − A2020? A)   B)  
+>  
+> C)  
+>  
+> D)  
+>  
+> E) 0
+>  
+>  
+> Open-ended questions
+
+**Answer:** E
+[[src_kangourou_2021_cadet_semifinale__Q09]]

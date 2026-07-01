@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q08
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which positive integer n makes the sum of fractions equal to 309*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Qual è il numero intero positivo n che rende la somma delle frazioni uguale a 309*
+
+> Quale dei numeri interi positivi di seguito soddisfa la seguente equazione: $$\frac{4}{n^4}+\frac{5}{n^4}+\frac{6}{n^4}+\cdots+\frac{n^4-6}{n^4}+\frac{n^4-5}{n^4}+\frac{n^4-4}{n^4}=309\,?$$
+> 
+> (A) $2007$ \quad (B) $309$ \quad (C) $155$ \quad (D) $25$ \quad (E) $5$
+
+**Risposta:** E
+[[src_obm_2007_n3_f1__Q08]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_nu_fx__Q04
 parent: src_obm_2022_nu_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convergence of series involving iterated exponential recurrence*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Convergenza di serie con ricorrenza esponenziale iterata*
+
+> Considerando $c, a > 0$, si deve considerare la sequenza $(x_n)_{n \ge 1}$ definita da $x_1 = c$ e $$x_{n+1} = x_n e^{-x_n^a}, \quad n \ge 1.$$ per i quali valori reali di $\beta$ è convergente la serie $\displaystyle\sum_{n=1}^{\infty} x_n^{\beta}$?
+
+[[src_obm_2022_nu_fx__Q04]]

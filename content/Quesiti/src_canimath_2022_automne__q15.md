@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q15
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest r such that n reals contain r with no two at distance 1 (or alpha)*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*R più grande tale che n reali contengano r senza due a distanza 1 (o alfa) *
+
+> $n$ sia un numero intero rigorosamente positivo.
+> 
+> 1) Determinare, in termini di $n$, il numero intero più grande $r$ che possieda la seguente proprietà: per tutti i reali $a_1, \ldots, a_n$, esistono tra di essi i reali $r$ $a_{i_1} < a_{i_2} < \cdots < a_{i_r}$ in modo tale che per tutti gli enti $k, \ell$ che verificano $1 \le k, \ell \le r$, si abbia $|a_{i_k} - a_{i_\ell}| \ne 1$.
+> 
+> 2) Supponiamo che $\alpha$ sia un numero irrazionale. Determinare, in termini di $n$, il numero intero più grande $r$ che possieda la seguente proprietà: per tutti i reali $a_1, \ldots, a_n$, tra loro esistono i reali $r$ $a_{i_1} < a_{i_2} < \cdots < a_{i_r}$ in modo tale che per tutti gli enti $k, \ell$ che verificano $1 \le k, \ell \le r$, si abbia $|a_{i_k} - a_{i_\ell}| \ne 1$ e $|a_{i_k} - a_{i_\ell}| \ne \alpha$.
+> 
+> Un numero irrazionale è un numero reale che non può essere scritto nella forma $\frac{p}{q}$, dove $p$ e $q$ sono interi e $q \ne 0$.
+
+[[src_canimath_2022_automne__Q15]]

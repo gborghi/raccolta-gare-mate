@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q06
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale polinomio non ammette b+1 come fattore*
 
@@ -53,3 +56,21 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which polynomial does not admit b+1 as a factor*
+
+> Which of the following polynomials does not admit its factors b + 1? A) 2b + 2
+> 	
+> B) b 2 – 1
+> 	
+> C) b 2 + b D) –1 – b
+> 	
+> E) b 2 + 1 1---- 2 1---- 8 1---- 6
+>
+
+**Answer:** E
+[[src_kangourou_2014_marzo_student__Q06]]

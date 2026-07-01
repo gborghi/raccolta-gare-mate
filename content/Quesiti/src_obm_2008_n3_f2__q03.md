@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q03
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all 4-digit autoreplicating numbers (last digits of n² equal n)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tutti i numeri autoreplici a 4 cifre (ultimi cifre di n2 uguali a n) *
+
+> Un intero positivo $n$ è chiamato *auto-replicante * se le ultime cifre di $n^2$ formano il numero $n$ stesso. Ad esempio, $25$ si riproduce automaticamente da $25^2 = 625$. Determinare la somma di tutti i numeri di replicazione automatica $n$ con numeri $4$ esatti (cioè tutti i numeri di replicazione automatica $n$ che soddisfano $1000 \le n \le 9999$).
+
+[[src_obm_2008_n3_f2__Q03]]

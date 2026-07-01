@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q15
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *SPQR*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1935
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information shall be provided for the purposes of this Regulation:
+
+> These Romans are First [50] In each of the four Roman encampments, Razionalorum, Realorum, Complessorum and Ciclotomicum, there is an odd first number of legionaries: S a Razionalorum, P a Realorum, Q a Complessorum and R a Ciclotomicum. To increase the efficiency of military operations, the four numbers were chosen so that S−1 has P divisors, P−1 has Q divisors and Q−1 has R divisors. Knowing that, in total, the Roman legionaries are the smallest possible number, what are the last four digits of the SPQR product?
+
+**Answer:** 1935
+[[src_cesenatico_2011_pubblico__Q15]]

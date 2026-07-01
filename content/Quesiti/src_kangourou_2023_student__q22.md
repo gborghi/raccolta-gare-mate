@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q22
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peggiore piazzamento finale possibile in gara a 3 specialita*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final placement maximum possible in the special 3 competition*
+
+> Thirteen climbers participate in a sport climbing competition involving three different specialties. The final score of each athlete is the product of the placements obtained in each specialty. For example, an athlete who finishes fourth, third and sixth in each of the three specialties will get a score of 72. Of course, the higher the score, the worse the final placement. Anna has already won the first two specialties. Once the last test is completed, what is the worst final placement you can have? A) Second B) Third C) Fourth D) Fifth E) Sixth
+
+**Answer:** B
+[[src_kangourou_2023_student__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q15
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decompose 2pi-periodic function into four pi-periodic even parts*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decomponere la funzione 2pi-periodico in quattro parti pari pi-periodico*
+
+> Supponiamo $f(x + 2\pi) = f(x)$ per qualsiasi $x \in \mathbb{R}$. Prova: ci sono $f_i(x)$ ($i = 1, 2, 3, 4$) tali che\n(1) $f_i(x)$ ($i = 1, 2, 3, 4$) è una funzione pari, e $f_i(x + \pi) = f_i(x)$ per qualsiasi $x \in \mathbb{R}$;\n(2) $f(x) = f_1(x) + f_2(x)\cos x + f_3(x)\sin x + f_4(x)\sin 2x$ per qualsiasi $x \in \mathbb{R}$.
+
+[[src_cn_cmc_2006__Q15]]

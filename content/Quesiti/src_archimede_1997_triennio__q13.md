@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q13
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conviene tirare o fermarsi nel gioco del dado*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pull or stop in the game of dice*
+
+> A game consists of repeated rolling of a dice; the scores obtained at each roll are added to the previous total and a player wins as many chips as his score, but he wins nothing if his score exceeds 10. A player already has a score of six. Should he throw another dice (adding six points) or withdraw from the game by winning the six tokens?
+>
+> - **(A)** It's good to draw: in fact, in four cases you gain, in only two cases you lose
+> - **(B)** You should stop. If you lose, you lose six tokens, and if you win, you gain four.
+> - **(C)** is appropriate to draw, but with a different motivation from (A)
+> - **(D)** It is appropriate to stop, but with a different motivation from (B)
+> - **(E)** It's just a matter of luck.
+
+**Answer:** D
+[[src_archimede_1997_triennio__Q13]]

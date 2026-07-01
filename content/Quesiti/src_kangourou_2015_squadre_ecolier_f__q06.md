@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q06
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangoli senza quadrato nero nella griglia 6x5*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 99
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rectangles without a black square in the 6x5 grid< MSK1/>
+
+![[src_kangourou_2015_squadre_ecolier_f__prob6.png]]
+
+> The rectangles In the figure you see a grid with 6 rows and 5 columns, formed by approaching 30 squares all of the same size. Five of these squares are blackened. How many rectangles that do not contain any black squares can be found in the grid? Attention: among rectangles should also be considered squares, regardless of their size!
+
+**Answer:** 99
+[[src_kangourou_2015_squadre_ecolier_f__Q06]]

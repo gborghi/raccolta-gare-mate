@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior finale nazionale — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ1
 parent: src_kangourou_2004_junior_finale
 competition: Kangourou 2004 Junior finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esistono basi in cui 15x15=321*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** base 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+There are bases where 15x15=321*
+
+> Are there grounds on which the expression $15 \times 15 = 321$ is correct?
+
+**Answer:** base 6
+[[src_kangourou_2004_junior_finale__QJ1]]

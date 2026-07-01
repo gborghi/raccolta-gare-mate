@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q07
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove n^4 + 4^n composite for all integers n > 1*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove n^4 + 4^n composto per tutti gli integri n > 1*
+
+> Prova che $n^4 + 4^n$ è composto per tutti i valori interi di $n$ superiori a 1.
+
+[[src_rmo_1991__Q07]]

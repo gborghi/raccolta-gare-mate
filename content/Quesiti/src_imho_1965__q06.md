@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (VII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1965__Q06
 parent: src_imho_1965
 competition: IMO 1965 (VII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bound the number of diameters of a finite planar point set*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bound the number of diameters of a finite planar point set*
+
+> In a plane a set of $n$ points ($n \ge 3$) is given. Each pair of points is connected by a segment. Let $d$ be the length of the longest of these segments. We define a diameter of the set to be any connecting segment of length $d$. Prove that the number of diameters of the given set is at most $n$.
+
+[[src_imho_1965__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q15
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Emma con condizioni di divisibilita per 5*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Emma's estate with divisibility conditions for 5< MSK1/>
+
+> Four cousins are 3, 8, 12, and 14. Their names, in alphabetical order, are Ada, Emma, Iva, and Olga. The sum of the ages of Olga and Ada is divisible by 5. The sum of Olga and Iva's ages is also divisible by 5. How old is Emma? A) 14
+> 	
+> B) 12
+> 	
+> C) 8
+> 	
+> D) 3 E) There is not enough data to establish this.
+
+**Answer:** A
+[[src_kangourou_2017_cadet_marzo__Q15]]

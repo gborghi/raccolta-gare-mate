@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 2'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1989__Q02
 parent: src_imo_1989
 competition: 'IMO 1989 (30th IMO, Braunschweig)'
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bisector-defined triangle area at least four times ABC*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bisector-defined triangle area at least four times ABC*
+
+> In an acute-angled triangle ABC the internal bisector of angle A meets the circumcircle of the triangle again at A1. Points B1 and C1 are defined similarly. Let A0 be the point of intersection of the line AA1 with the external bisectors of angles B and C. Points B0 and C0 are defined similarly. Prove that: (i) The area of the triangle A0B0C0 is twice the area of the hexagon AC1BA1CB1. (ii) The area of triangle A0B0C0 is at least four times the area of triangle ABC.
+
+[[src_imo_1989__Q02]]

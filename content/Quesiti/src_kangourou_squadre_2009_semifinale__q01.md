@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q01
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio esiti di 6 palline rosse e 5 verdi in scatola*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Counting results of 6 red and 5 green balls in box< MSK1/>
+
+> Do you have a decent target? How about the question  Have you a good goal? of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, in which attempts to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes ? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
+
+**Answer:** 0042
+[[src_kangourou_squadre_2009_semifinale__Q01]]

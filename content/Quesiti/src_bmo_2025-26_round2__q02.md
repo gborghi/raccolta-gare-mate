@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round2__Q02
 parent: src_bmo_2025-26_round2
 competition: British Mathematical Olympiad 2025-26 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral ABCD: prove AC=BD iff XY bisects angle DXC*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale convex: prova AC=BD se XY divide angolo DXC*
+
+> Il quadrilaterale converso $ABCD$ ha lati $AD$ e $BC$ non paralleli. Le diagonali $AC$ e $BD$ si intersecano a $X$. I bisettori perpendicolari dei lati $AD$ e $BC$ si incontrano a $Y$. Supponiamo che $Y$ sia rigorosamente all'interno del triangolo $XCD$.
+> 
+> Provare che $AC = BD$ se e solo se $XY$ divide $\angle DXC$.
+
+[[src_bmo_2025-26_round2__Q02]]

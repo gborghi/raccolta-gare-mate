@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q21
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti spigoli per tornare a P (destra/sinistra)*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many bars to return to P (right/left) < MSK1/>
+
+![[src_kangourou_2009_cadet_marzo__prob21.png]]
+
+> We move along the tips of the cube in the figure starting from point P, in the direction indicated by the arrow. At the end of the first line we have to decide whether to go to the right or to the left, and so at the end of each line we follow: we choose alternating right and left. How many spikes will we have traveled when we first return to point P? A) 2 B) 4 C) 6 D) 9 E) 12
+
+**Answer:** C
+[[src_kangourou_2009_cadet_marzo__Q21]]

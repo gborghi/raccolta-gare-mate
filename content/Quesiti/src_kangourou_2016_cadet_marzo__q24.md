@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q24
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *divisore*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The manufacturer shall provide the manufacturer with the following information:
+
+> Red Hood goes to bring sweets to Grandma and two other old ladies she calls Grandma. He comes out with a basket full of candy. As soon as she enters each of the grandmother's houses, the Wicked Wolf steals half the candy in the basket. Red Hood leaves every grandmother the same number of candy and when he leaves the last house the basket is empty. Which of the following numbers certainly divides the number of candy she left with? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 9
+
+**Answer:** E
+[[src_kangourou_2016_cadet_marzo__Q24]]

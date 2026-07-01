@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q07
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game: replace n on board; who wins?*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco: sostituire n a bordo; chi vince?
+
+> Il numero "3" è scritto su una lavagna. Alice e Bernard giocano il seguente gioco: ognuno a sua volta, designa con $n$ il numero scritto sulla tavola; il giocatore lo sostituisce con un intero $m$ tale che $n < m < n^2$, e tale che $m$ non abbia divisore comune con $n$ diverso da 1. Il primo giocatore a raggiungere un numero maggiore o uguale al 2016 perde il round. Alice va prima.
+> 
+> Determinare quale giocatore abbia una strategia vincente e descrivere quella strategia.
+
+[[src_canimath_2016_automne__Q07]]

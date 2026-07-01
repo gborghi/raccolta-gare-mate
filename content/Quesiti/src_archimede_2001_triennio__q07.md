@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q07
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Importo borse di studio ai ragazzi dati i vincoli*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Scholarship amount for the children given the constraints*
+
+> Nineteen students are required to receive a total of EUR 20 000 in scholarships. The amount of each purse is expressed as an integer in Euros. All the boys will get the same amount and so will the girls. But each girl will get 600 euros more than the boys. How much do the kids get?
+>
+> - **(A)** 600
+> - **(B)** 800
+> - **(C)** 1400
+> - **(D)** 1600
+> - **(E)** Only the girls get a purse.
+
+[[src_archimede_2001_triennio__Q07]]

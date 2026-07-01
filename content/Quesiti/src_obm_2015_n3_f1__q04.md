@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q04
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-referential: count vowels and consonants in the correct answer*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Auto-referenziale: contare vocali e consonanti nella risposta corretta*
+
+> Qual è il numero di vocali e consonanti nella risposta corretta? Le risposte non sono le etichette (A, B, C, D, E) ma i testi delle opzioni stesse.
+> 
+> (A) Vinte e cinque \;[Venticinque] \quad (B) Setenta e tr\^{e}s \;[Venticinque] \quad (C) Oitenta e cinque \;[Venticinque] \\ (D) Noventa e sete \;[Novecento sette] \quad (E) Cento e dezoito \;[Cento diciotto]
+
+**Risposta:** A
+[[src_obm_2015_n3_f1__Q04]]

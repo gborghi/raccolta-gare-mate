@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q02
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di spigoli del solido ottenuto tagliando i vertici di una piramide*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of beads of solid obtained by cutting the peaks of a pyramid*
+
+> The pyramid. Mathias finds in the barn a pyramid with a square base, made of bars, inherited from his grandfather. Since all the bars of this pyramid were slightly intact, Mathias decided to cut them all neatly with the help of a saw (cut all the vertices). How many beads does the solid have?
+
+![[src_bocconi_finaleint_2009_g2__Q02.png]]
+
+**Answer:** 24
+[[src_bocconi_finaleint_2009_g2__Q02]]

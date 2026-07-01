@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q15
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo ABC da tre segmenti paralleli ai lati*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of triangle ABC from three segments parallel to the sides*
+
+> In the figure an ABC equilateral triangle and a point P within it are represented. From P, three segments are plotted parallel to the sides, each having the second end on one side of the triangle. The figure also indicates the lengths of the three segments. What 's the perimeter of the ABC triangle ? A) 22 B) 26
+> 	
+> C) 33 D) 39 E) 44
+
+**Answer:** C
+[[src_kangourou_2024_junior__Q15]]

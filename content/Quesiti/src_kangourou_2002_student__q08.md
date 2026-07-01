@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q08
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di bicchiere con acqua a 45 gradi*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Percentage of glasses with water at 45°C
+
+![[src_kangourou_2002_student__prob8.png]]
+
+> A basic cylindrical glass partially filled with water and tilted to < MSK0/> is shown in the figure. What percentage of the glass contains water?
+>  
+> A. less than 25% B. 25% C. 33% D. 33,333%
+>  
+> E. more than 34%
+
+**Answer:** B
+[[src_kangourou_2002_student__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2018 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_automne__Q04
 parent: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rabbits in circle; white give moustaches to brown, grey to white; prove a brown rabbit has two white neighbours*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>I conigli in cerchio; bianchi danno baffi al marrone, grigio al bianco; dimostrano che un coniglio marrone ha due vicini bianchi< MSK1/>
+
+> I conigli grigi, bianchi e marroni sono seduti in cerchio. Alice chiede a tutti i conigli bianchi che hanno almeno un vicino marrone di dare i baffi $20$ a ciascuno dei loro vicini marroni; chiede a tutti i conigli grigi che hanno almeno un vicino bianco di dare i baffi $25$ a ciascuno dei loro vicini bianchi. Mostrate che uno dei conigli che ha spostato i baffi ha in realtà due vicini marroni.
+
+[[src_canimath_2018_automne__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q08
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma divisori da condizione a+k divide a+k^2*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0067
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of condition dividers a+k divided by a+k^2*
+
+> The central building has many entrances, but most of them are protected from explosives. 007 found that the only doors not protected from explosive are those marked with a $k$ (all positive) number such that $2011 + k$ divides $2011 + k^2$. James quickly determines all such $k$. Answer with the sum of all their digits.
+
+**Answer:** 0067
+[[src_gs_2011_squadre__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q18
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integer pairs (x,y) with 2x+3y=101*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare coppie di numeri interi positivi (x,y) con 2x+3y=101*
+
+> Quante coppie $(x, y)$ di integri positivi soddisfano l'equazione $2x + 3y = 101$?
+> 
+> A) 13 \quad B) 14 \quad C) 15 \quad D) 16 \quad E) 17
+
+**Risposta:** E
+[[src_obm_1999_n3_f1__Q18]]

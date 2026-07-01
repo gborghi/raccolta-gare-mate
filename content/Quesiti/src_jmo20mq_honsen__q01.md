@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20mq_honsen__Q01
 parent: src_jmo20mq_honsen
 competition: Japan Mathematical Olympiad 2010 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *H is circumcenter of triangle APQ*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*H è il circondario del centro del triangolo APQ*
+
+> Il $ABC$ deve essere un triangolo acuto con $AB \ne AC$, e il $H$ deve essere il piede della perpendicolare da $A$ a $BC$. I punti $P$ e $Q$ sono presi in modo che $A$, $B$, $P$ si trovino su una linea di questo ordine e $A$, $C$, $Q$ si trovino su una linea di questo ordine, in modo tale che i quattro punti $B$, $C$, $P$, $Q$ siano conciclici e $HP = HQ$. Prove che $H$ è il circoncentro del triangolo $APQ$.
+> 
+> (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_jmo20mq_honsen__Q01]]

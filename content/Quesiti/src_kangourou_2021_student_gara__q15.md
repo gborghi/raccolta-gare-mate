@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q15
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo grande dai perimetri dei piccoli*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the triangle larger than the perimeter of the smaller *
+
+![[src_kangourou_2021_student_gara__prob15.png]]
+
+> A triangle is divided into smaller triangles as shown in the figure. The number written on each of the small triangles indicates its perimeter. What is the perimeter of the great triangle? A) 31
+> 	
+> B) 34
+> 	
+> C) 41
+> 	
+> D) 62
+> 	
+> E) None of the above answers is correct.
+
+**Answer:** B
+[[src_kangourou_2021_student_gara__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2010__Q06
 parent: src_cesenatico_2010
 competition: XXVI Olimpiade Italiana Cesenatico 2010
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infiniti primi che dividono 2^(n^3+1)-3^(n^2+1)+5^(n+1)*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite primes divided by 2^(n^3+1) -3^(n^2+1) +5^(n+1) *
+
+> Demonstrate that there are infinite prime numbers that divide at least one integer of the form 2n3+1 −3n2+1 + 5n+1 with positive integer n.
+
+**Answer:** dimostrato
+[[src_cesenatico_2010__Q06]]

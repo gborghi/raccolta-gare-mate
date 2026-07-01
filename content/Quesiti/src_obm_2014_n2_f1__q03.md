@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q03
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three workers paint walls at different rates; find total time*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre lavoratori dipingono le pareti a velocità diverse; ritrovare il tempo totale*
+
+> Manuel, Antônio e Joaquim iniziano nello stesso momento a dipingere tre muri uguali di 60 metri ciascuno, un muro per persona. Nei primi 10 minuti di lavoro Manuel dipinge 2 metri, Antônio 3 metri e Joaquim 5 metri. Chi finisce per primo va subito ad aiutare gli altri, finché tutti e tre finiscono l'intero lavoro insieme. Quanto tempo ci vuole per il lavoro?
+> 
+> (A) 3 ore $\quad$ (B) 4 ore $\quad$ (C) 5 ore $\quad$ (D) 6 ore $\quad$ (E) 7 ore
+
+**Risposta:** B
+[[src_obm_2014_n2_f1__Q03]]

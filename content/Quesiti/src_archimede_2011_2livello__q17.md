@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q17
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di posti in carrozza con 2n stazioni*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** n^2
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of seats in carriages with 2n stations*
+
+> Demonstrative Exercise Be a positive whole. A stop train at 2 stations, including the initial and final stations, numbered in order from 1st to 2nd. It is known that in a certain carriage, for each pair of integers i, j such that 1 < MSK0/>i < j < MSK1/>2n, exactly one place has been reserved for the route between the station i-e and that station j-e. Of course, different reservations cannot overlap. Determine, in relation to n, the minimum number of seats that must be available in that carriage in order for the situation described to be possible.
+
+**Answer:** n^2
+[[src_archimede_2011_2livello__Q17]]

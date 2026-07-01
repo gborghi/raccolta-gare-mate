@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q16
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of five garden plans has the greatest total fence length*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale dei cinque piani di giardino ha la lunghezza totale della recinzione più grande*
+
+> Un architetto presenta al suo cliente cinque piani diversi per il progetto di arredamento di un terreno rettangolare, dove le linee solide rappresentano la recinzione che deve essere costruita per proteggere i fiori. Le regioni ombrate sono le piante di fiori rettangolari e il tipo di recinzione è lo stesso in tutti i casi. In quale di questi progetti sarà più costoso costruire la recinzione?
+> 
+> **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano una trama rettangolare con varie regioni rettangolari ombreggiate e linee di recinzione)
+
+![[src_obm_2004_n2_f1__Q16.png]]
+
+[[src_obm_2004_n2_f1__Q16]]

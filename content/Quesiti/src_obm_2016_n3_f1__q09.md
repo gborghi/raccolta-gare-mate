@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q09
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting sequences of 9 pearls (two colors) with respect to having equivalent sequences*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze di conteggio di 9 perle (due colori) per avere sequenze equivalenti*
+
+> Considerate le stringhe di perle di due colori B e P, con una relazione di equivalenza tra le stringhe. La stringa $BBBPBPPP$ ha otto perle e nessuna sequenza equivalente. Il problema analizza le stringhe di perle $9$: per casi (esistono o meno tre perle consecutive dello stesso colore), viene dimostrato che qualsiasi sequenza di perle $9$ ha esattamente due sequenze equivalenti, l'unica sequenza che ammette un'estensione mantenendo un singolo equivalente è $BBBPBPPP$. Determinare il numero pertinente per le sequenze di perle $9$. [Il valore della chiave di risposta corrisponde all'opzione D.]
+
+**Risposta:** D
+[[src_obm_2016_n3_f1__Q09]]

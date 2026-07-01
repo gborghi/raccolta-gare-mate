@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q08
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *People grouped into n circles with a common-circle condition; count totals*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Persone raggruppate in n cerchi con condizione di cerchio comune; conteggio totale< MSK1/>
+
+> $n$ sia un numero intero con $n \ge 2$. Ci sono $n$ cerchi (gruppi), e esattamente $n$ persone si riuniscono a ogni cerchio, in modo che in totale $n^2$ persone circondano i cerchi. Le persone appartenenti a un cerchio sono reciprocamente distinte, e due persone che appartengono entrambi a un cerchio comune appartengono esattamente a un cerchio in comune. Determina, in tutte queste configurazioni, quante persone ci possono essere.
+
+[[src_selection_camp_2021__Q08]]

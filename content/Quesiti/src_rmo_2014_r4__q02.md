@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r4__Q02
 parent: src_rmo_2014_r4
 competition: Regional Mathematical Olympiad 2014
@@ -31,6 +32,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality $4x^4+4y^3+5x^2+y+1\ge 12xy$ for positive reals*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza $4x^4+4y^3+5x^2+y+1\ge 12xy$ per i valori positivi *
+
+> Se $x$ e $y$ sono numeri reali positivi, dimostrare che $$4x^4 + 4y^3 + 5x^2 + y + 1 \ge 12xy.$$
+
+[[src_rmo_2014_r4__Q02]]

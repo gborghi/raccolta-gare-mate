@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q04
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(x+f(y))=x+f(f(y)), find f(2005)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(x+f(y))=x+f(f(y)), ritrovare f(2005) *
+
+> Una funzione $f:\mathbb{R}\to\mathbb{R}$ soddisfa $f(x+f(y))=x+f(f(y))$ per tutti i numeri reali $x$ e $y$. Poiché $f(2)=8$, trovare il valore numerico di $f(2005)$.
+
+[[src_obm_2005_n3_f2__Q04]]

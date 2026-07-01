@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r1__Q05
 parent: src_rmo_2014_r1
 competition: Regional Mathematical Olympiad 2014
@@ -31,6 +32,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, orthocentre, circumcircles: find point X independent of P*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto, ortocentro, circoncircoli: trovare il punto X indipendente da P*
+
+> Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo centro orto. Per ogni punto $P$ sul circoncircolo del triangolo $ABC$, $Q$ deve essere il punto di intersezione della linea $BH$ con la linea $AP$. Indicare che sul circoncircolo di $ABC$ vi è un punto unico $X$ tale che per ogni punto $P \neq A, B$ il circoncircolo di $HQP$ passi attraverso $X$.
+
+[[src_rmo_2014_r1__Q05]]

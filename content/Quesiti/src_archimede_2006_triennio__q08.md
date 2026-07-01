@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q08
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di divisori positivi di 6 fattoriale*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of positive divisors of 6 factors< MSK1/>
+
+> How many positive divisors does he have? = 1·2·3·4·5·6 ? (The divisors of a number must also include 1 and the number itself.)
+>
+> - **(A)** 5,
+> - **(B)** 6,
+> - **(C)** 10,
+> - **(D)** 24,
+> - **(E)** 30.
+
+**Answer:** E
+[[src_archimede_2006_triennio__Q08]]

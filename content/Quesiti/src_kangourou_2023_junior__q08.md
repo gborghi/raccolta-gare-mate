@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q08
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura angolo CAD*
 
@@ -71,3 +74,44 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>measurement of the CAD angle < MSK1/>
+
+![[src_kangourou_2023_junior__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \coordinate (A) at (2.22, 3.59);
+  \coordinate (B) at (0, 0);
+  \coordinate (C) at (5, 0);
+  \coordinate (D) at (3.0, 0);
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw[thick] (A) -- (D);
+  \node[above] at (A) {$A$};
+  \node[left]  at (B) {$B$};
+  \node[right] at (C) {$C$};
+  \node[below] at (D) {$D$};
+  \node[right] at (0.55, 0.15) {$58°$};
+  \node[left]  at (4.35, 0.15) {$52°$};
+  \node[right] at (2.35, 2.8)  {$x$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the triangle ABC in the figure (which is not on scale) the angle in B measures 58 degrees, that in C measures 52 degrees. The ABD triangle is similar to the ABC triangle. How many degrees does the CAD angle measure? A) 16
+> 	
+> B) 18
+> 	
+> C) 19
+> 	
+> D) 20
+> 	
+> E) 22
+
+**Answer:** B
+[[src_kangourou_2023_junior__Q08]]

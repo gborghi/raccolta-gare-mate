@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18hq_honsen__Q02
 parent: src_jjmo18hq_honsen
 competition: Japan Junior Mathematical Olympiad 2020 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle with altitude foot; find angle BCD*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo a pari stelle con piede di altitudine; angolo di ricerca BCD*
+
+> C'è un triangolo a pari livello $ABC$ con $AB = AC$. Il $H$ deve essere il piede della perpendicolare che viene abbassato da $B$ sulla linea $AC$. Quando un punto $D$ sul segmento $BH$ soddisfa $AB = 2BD$ e $BC = 2CD$, si trova la misura di $\angle BCD$.
+> 
+> Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo18hq_honsen__Q02]]

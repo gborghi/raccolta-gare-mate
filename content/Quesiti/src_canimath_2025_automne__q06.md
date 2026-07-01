@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q06
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equal areas of parallelogram ABCD and constructed parallelogram AEFG*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equivalenti superfici del parallelogramma ABCD e del parallelogramma costruito AEFG*
+
+> $ABCD$ sia un parallelo. Il punto $E$ deve essere un punto del segmento $[BC]$. Tracciamo il parallelo alla linea $(AE)$ che attraversa $D$, su cui posizionamo due punti, $F$ e $G$, in modo tale che $D$ si trova sul segmento $[FG]$ e in modo tale che il quadrilaterale $AEFG$ sia un parallelo. Indicare che le superfici dei due parallelogrammi $ABCD$ e $AEFG$ sono uguali.
+
+[[src_canimath_2025_automne__Q06]]

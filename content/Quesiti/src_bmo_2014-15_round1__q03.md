@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round1__Q03
 parent: src_bmo_2014-15_round1
 competition: British Mathematical Olympiad 2014-15 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to book 7 rooms in hotel corridor with no two adjacent same-side*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le modalità per prenotare 7 camere nel corridoio dell'hotel senza due camere adiacenti sullo stesso lato*
+
+> Un hotel ha dieci camere lungo ogni lato di un corridoio. Un leader di squadra olimpica desidera prenotare sette stanze sul corridoio in modo che non siano adiacenti due stanze riservate sullo stesso lato del corridoio. In quanti modi si può farlo?
+
+[[src_bmo_2014-15_round1__Q03]]

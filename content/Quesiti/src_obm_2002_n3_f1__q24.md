@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q24
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, angle A=60, angle B=50, M midpoint of AB, P on BC with AC+CP=BP; find angle MPC*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, angolo A=60, angolo B=50, M punto medio di AB, P su BC con AC+CP=BP; trovare angolo MPC*
+
+> Nel triangolo $ABC$, l'angolo $\hat{A}$ misura $60^\circ$ e l'angolo $\hat{B}$ misura $50^\circ$. Il punto $M$ è il punto medio del lato $AB$ e $P$ il punto sul lato $BC$ in modo tale che $AC+CP=BP$. Qual è la misura dell'angolo < MSK10/>? (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
+
+![[src_obm_2002_n3_f1__Q24.png]]
+
+**Risposta:** E
+[[src_obm_2002_n3_f1__Q24]]

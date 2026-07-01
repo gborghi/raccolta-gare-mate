@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 papers — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2018__Q01
 parent: src_imo_2018
 competition: IMO 2018 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *DE parallela a FG (assi BD e CE)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*DE parallel to FG (BD and CE axes) *
+
+> Let $\Gamma$ be the circumcircle of acute triangle $ABC$. Points $D$ and $E$ lie on segments $AB$ and $AC$ respectively such that $AD = AE$. The perpendicular bisectors of $BD$ and $CE$ intersect minor arcs $AB$ and $AC$ of $\Gamma$ at points $F$ and $G$ respectively. Prove that lines $DE$ and $FG$ are either parallel or they are the same line.
+
+[[src_imo_2018__Q01]]

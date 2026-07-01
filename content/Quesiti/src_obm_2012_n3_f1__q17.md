@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q17
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare probabilities of nearest vertex for random point in 6-8-10 triangle*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compari le probabilità del vertice più vicino per un punto casuale nel triangolo 6-8-10*
+
+> Il triangolo $ABC$ ha lati $AB = 6$, $AC = 8$ e $BC = 10$. Un punto $X$ è scelto a caso all'interno del triangolo $ABC$. $p_A$, $p_B$, $p_C$ siano le probabilità che $X$ sia la più vicina al vertice $A$, $B$ o $C$ rispettivamente. Allora...
+> 
+> **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$ $\quad$ **D)** $p_A < p_B = p_C$ $\quad$ **E)** $p_A = p_B = p_C$
+
+[[src_obm_2012_n3_f1__Q17]]

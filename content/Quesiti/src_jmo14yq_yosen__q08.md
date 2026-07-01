@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14yq_yosen__Q08
 parent: src_jmo14yq_yosen
 competition: Japan Mathematical Olympiad 2004 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize the minimum of a sum-of-fractions expression over positive reals summing to 1.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare il minimo di un'espressione somma di frazioni su valori reali positivi sommati a 1.*
+
+> $n$ sia un numero intero positivo. Per i valori positivi $a_1, a_2, \ldots, a_n$ con $a_1 + a_2 + \cdots + a_n = 1$, definire $$A = \frac{a_1}{1 + a_1} + \frac{a_2}{1 + a_1 + a_2} + \cdots + \frac{a_n}{1 + a_1 + a_2 + \cdots + a_n}.$$ Lasciate che $A$ dipenda dalla scelta di $a_1, \ldots, a_n$. Trovare il valore massimo del minimo di $A$ su tutte queste scelte.
+
+[[src_jmo14yq_yosen__Q08]]

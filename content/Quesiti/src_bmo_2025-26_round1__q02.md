@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round1__Q02
 parent: src_bmo_2025-26_round1
 competition: British Mathematical Olympiad 2025-26 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real triples satisfying two symmetric equations*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli reali che soddisfano due equazioni simmetriche*
+
+> Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 4.$$
+
+[[src_bmo_2025-26_round1__Q02]]

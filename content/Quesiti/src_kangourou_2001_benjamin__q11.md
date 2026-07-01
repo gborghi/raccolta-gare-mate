@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q11
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando Nikita e Sasha si ritrovano*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+When Nikita and Sasha meet again
+
+> Nikita and Sasha are running on the stadium track. Nikita takes 3 minutes for each lap, while Sasha takes 4 minutes for each lap. They leave at the same time. After how many minutes will they still cross the starting line together?
+>
+> - **(A)** After 6 minutes
+> - **(B)** After 8 minutes
+> - **(C)** After 10 minutes
+> - **(D)** After 12 minutes
+> - **(E)** You can't answer, because it depends on the length of the runway.
+
+**Answer:** D
+[[src_kangourou_2001_benjamin__Q11]]

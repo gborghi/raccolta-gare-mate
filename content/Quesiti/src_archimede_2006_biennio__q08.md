@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q08
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinare 3, radice 10, radice 2 piu radice 3*
 
@@ -47,3 +50,26 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordinare 3, radice 10, radice 2 piu radice 3*
+
+> Mettere in ordine crescente i tre numeri 3,
+> √
+> 10,
+> √
+> 2 +
+> √
+> 3.
+>
+> - **(A)** 3 < √ 10 < √ 2 + √ 3,
+> - **(B)** √ 2 + √ 3 < 3 < √ 10,
+> - **(C)** √ 10 < √ 2 + √ 3 < 3,
+> - **(D)** 3 < √ 2 + √ 3 < √ 10,
+> - **(E)** √ 2 + √ 3 < √ 10 < 3.
+
+**Answer:** D
+[[src_archimede_2006_biennio__Q08]]

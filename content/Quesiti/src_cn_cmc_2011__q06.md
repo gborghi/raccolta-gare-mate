@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q06
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find range of a so that f(x+a)>=2f(x) for all x in [a,a+2], f odd*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $[\sqrt{2}, +\infty)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'intervallo di a in modo che f(x+a)>=2f(x) per tutte le x in [a,a+2], f odd*
+
+> $f$ sia una funzione odd su $\mathbf{R}$, e $f(x) = x^2$ per $x > 0$. Supponiamo che per qualsiasi $x \in [a, a + 2]$, $f(x + a) \ge 2f(x)$. Quindi l'intervallo del numero reale $a$ è __________.
+
+**Risposta:** [\sqrt{2}, +\infty)
+[[src_cn_cmc_2011__Q06]]

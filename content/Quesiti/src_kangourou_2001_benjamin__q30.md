@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q30
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima differenza tra due numeri di 3 cifre*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum difference between two 3-digit numbers*
+
+> Using the digits 1 to 6 only once, you can form two three-digit numbers (e.g. 645 and 321, which differ by 324). Look for the two three-digit numbers whose difference is as small as possible. The slightest difference is:
+>
+> - **(A)** 69
+> - **(B)** 56
+> - **(C)** 49
+> - **(D)** 47
+> - **(E)** 38. This appropriation is intended to cover expenditure relating to the implementation of the programme. This item is not intended to be used. 1 Answers Category Benjamin Competition of 15 March 2001
+
+**Answer:** D
+[[src_kangourou_2001_benjamin__Q30]]

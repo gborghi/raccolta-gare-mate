@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q17
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di un cerchio diviso in tre parti uguali*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4,094
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a circle divided into three equal parts*
+
+> A circle is divided into three equal parts by the beams (in unit measure). What is the perimeter of the three sides? (Put $\pi = 3{,}141$ and express the result by a decimal number, with three digits after the comma.)
+
+![[src_bocconi_squadre_2008__Q17.png]]
+
+**Answer:** 4,094
+[[src_bocconi_squadre_2008__Q17]]

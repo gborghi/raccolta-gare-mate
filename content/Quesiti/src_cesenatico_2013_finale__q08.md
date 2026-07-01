@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q08
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri concatenati multipli di 11*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiple concatenated numbers of 11*
+
+> One part of the Brucarythmus fungus has the power to enlarge people, the other to shrink them. Root would like to take a piece of the mushroom, but he can only do so by solving the riddle that Brucaritmus proposes: I can tell you that their number is a multiple of 11 and that (based on 10) is made up of many consecutive 2-digit numbers next to each other, starting with 10 (such as 10, 1011, 101112, 10111213, ...). Knowing just this information, how many possible smoke rings could I have made?
+
+**Answer:** 0016
+[[src_cesenatico_2013_finale__Q08]]

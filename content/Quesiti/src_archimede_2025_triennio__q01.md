@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio__Q01
 parent: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni griglia 3x3 con numero dispari di verdi per riga/colonna*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*3x3 grid colours with odd number of greens per row/column*
+
+> What convex angle do the two hands of a clock form at 1:20 (assuming they both move at a constant speed)?
+>
+> - **(A)** 75°
+> - **(B)** 80°
+> - **(C)** 90°
+> - **(D)** 72°
+> - **(E)** 84°
+
+**Answer:** D
+[[src_archimede_2025_triennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q12
 parent: src_archimede_2020_riserva_triennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primi p con x^2-(43-p)x+5p a radici intere positive*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prime p with x^2-(43-p) x+5p positive whole roots*
+
+> Determine all prime numbers p such that the polynomial P(x) = x2 −(43 −p) x + 5p has two positive integers. Please indicate the sum of the above numbers p.
+>
+> - **(A)** 20
+> - **(B)** 26
+> - **(C)** 42
+> - **(D)** 19
+> - **(E)** 31 The Archimedean Games 2020/2021 Third Reserve Games   PROOF Codes: TT02
+
+[[src_archimede_2020_riserva_triennio__Q12]]

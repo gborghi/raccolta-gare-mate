@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q20
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura rappresenta i tre vasi visti dall alto*
 
@@ -54,3 +57,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure represents the three vessels seen from above*
+
+![[src_kangourou_2020_benjamin_marzo__prob20.png]]
+
+> Mara poured the same amount of liquid into three vessels shaped like a rectangular parallel piped (the shape of a shoe box). Viewed from the front, the three vessels appear to be of the same size, but the liquid has reached different levels in each. Which of the following can represent the three vessels seen from above? A)
+> 	
+> 	
+> B)
+> 	
+> 	
+> C)
+> 	
+> D)
+> 	
+> 	
+> E) Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2020_benjamin_marzo__Q20]]

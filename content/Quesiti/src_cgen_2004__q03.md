@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2004 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2004__Q03
 parent: src_cgen_2004
 competition: Concours Général des Lycées 2004 — Matematica
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Study of the limit of lambda_n (proportion of AD inside the circles): integral computations, inequalities, and convergence*
 
@@ -62,3 +65,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Studio del limite di lambda_n (proporzione di AD all'interno dei cerchi): calcoli integrali, disuguaglianze e convergenza*
+
+> Lo studio di un limite.
+> 
+> A partire dalla configurazione studiata nella parte 1, domanda 2, si definisce $\lambda_n$ come la proporzione del segmento $[AD]$ situato all'interno dei cerchi $(\Gamma_k)$, per $1 \le k \le n-1$. Quindi, uno ha $\lambda_n = \frac{1}{AD} \sum_{k=1}^{n-1} B_k C_k$.
+> 
+> 1. Calcolo delle integrali. Si definisce la funzione $f$, da $[0,1]$ a $\mathbb{R}$, da: per ogni $x \in [0,1]$, $f(x) = \int_0^x \sqrt{1-t^2}\, dt$, quindi la funzione $F$, da $\left[0, \frac{\pi}{2}\right]$ a $\mathbb{R}$, da: per ogni $x \in \left[0, \frac{\pi}{2}\right]$, $F(x) = f(\sin x)$. a. Indicare che la funzione $F$ è differenziabile e calcolare la sua derivata, denominata $F'$. b. Indicare che, per ogni $x$ in $\left[0, \frac{\pi}{2}\right]$, $F(x) = \int_0^x \cos^2 t\, dt$. c. Senza cercare di calcolare gli integrali, dimostrare l'uguaglianza $\int_0^{\frac{\pi}{2}} \cos^2(t)\, dt = \int_0^{\frac{\pi}{2}} \sin^2(t)\, dt$ e dedurre il valore comune a questi due integrali. d. Deduci che $\int_0^1 \sqrt{1-t^2}\, dt = \frac{\pi}{4}$; interpreta questo risultato geometricamente.
+> 
+> 2. a. Indicare che per ogni $n \ge 2$, $\lambda_n = \frac{2}{2n-1} \sum_{k=1}^{n} \sqrt{1 - \frac{k}{n} \cdot \frac{k-1}{n-1}}$. b. Indicare che se $n \ge 2$ e $1 \le k \le n$, uno ha: $\left(\frac{k-1}{n}\right)^2 \le \frac{k}{n} \cdot \frac{k-1}{n-1} \le \left(\frac{k}{n}\right)^2$. c. Un set $I_{n,k} = \int_{\frac{k-1}{n}}^{\frac{k}{n}} \sqrt{1-t^2}\, dt$. Indicare che per i valori appropriati di $n$ e $k$, che si specificherà, si ha: $n I_{n,k+1} \le \sqrt{1 - \frac{k-1}{n-1} \cdot \frac{k}{n}} \le n I_{n,k-1}$.
+> 
+> 3. Dimostrare, a partire dai risultati delle domande 1 e 2, che la sequenza $(\lambda_n)$ è convergente e calcolare il suo limite.
+
+[[src_cgen_2004__Q03]]

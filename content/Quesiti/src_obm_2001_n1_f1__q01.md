@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q01
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest possible difference between two 3-distinct-digit naturals: larger all-even digits, smaller all-odd digits*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La differenza più piccola possibile tra due numeri naturali a 3 cifre distinte: cifre più grandi e tutte uguali, cifre più piccole e tutte strane*
+
+> Considerate due numeri naturali, ognuno con tre cifre diverse. Il più grande ha solo cifre pari e il più piccolo solo cifre rare. Il valore minimo possibile per la differenza tra loro è:
+> 
+> (A) $111$ \quad (B) $49$ \quad (C) $29$ \quad (D) $69$ \quad (E) $5$
+
+**Risposta:** E
+[[src_obm_2001_n1_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q10
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso della balena con elefanti e ippopotami*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15 tonnellate
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of whale with elephants and hippos*
+
+> Your balance is balanced simply (!) by putting elephants and a small hippopotamus on one side, and a whale on the other. If you're thin ($50$ Kg), you can climb a plate of  over an elephant, while on the other side you'll be $12$ little hippos. On the other hand, if you are a little overweight ($200$ Kg), you can always climb one of the scales with $11$ small hippos while, on the other, an elephant ensures balance.
+> 
+> < MSK0/>How many tonnes does the whale weigh? < MSK1/>
+
+**Answer:** 15 tonnellate
+[[src_bocconi_primavera_2007__Q10]]

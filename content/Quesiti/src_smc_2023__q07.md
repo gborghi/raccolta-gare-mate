@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q07
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *25th term of an absolute-difference sequence*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*25° termine di una sequenza di differenza assoluta*
+
+> Una sequenza inizia con $2023, 2022, 1, \ldots$. Dopo i primi due termini, ogni termine è la differenza positiva tra i due termini precedenti. Qual è il valore del termine $25$?
+>
+> - **(A)** $2010$
+> - **(B)** $2009$
+> - **(C)** $2008$
+> - **(D)** $2007$
+> - **(E)** $2006$
+
+**Risposta:** D
+[[src_smc_2023__Q07]]

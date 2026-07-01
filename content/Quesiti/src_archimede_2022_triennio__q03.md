@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q03
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 4 cifre con 3 cifre uguali e una diversa*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four-digit numbers with three equal digits and a different one*
+
+> Gabriele notes that the number 2022 is written with 3 equal digits and a fourth digit different from the other 3. How many of all the four-digit natural numbers are written with three equal digits and a fourth digit different from the other three?
+>
+> - **(A)** 324
+> - **(B)** 315
+> - **(C)** 243
+> - **(D)** 216
+> - **(E)** 288
+
+**Answer:** A
+[[src_archimede_2022_triennio__Q03]]

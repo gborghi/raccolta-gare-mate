@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q03
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ritardo orologio dopo 24 ore*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Late clock after 24 hours< MSK1/>
+
+> Grandpa's old watch lags 20 seconds an hour. What will be the clock's delay after 24 hours?
+>
+> - **(A)** 7 minutes
+> - **(B)** 8 minutes
+> - **(C)** Nine minutes .
+> - **(D)** 10 minutes .
+> - **(E)** 11 minutes.
+
+**Answer:** B
+[[src_kangourou_2001_benjamin__Q03]]

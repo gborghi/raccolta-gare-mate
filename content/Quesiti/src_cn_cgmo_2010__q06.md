@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2010 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2010__Q06
 parent: src_cn_cgmo_2010
 competition: China Girls' Mathematical Olympiad 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum size of a set of permutations with no triple all-between property*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^{n-1}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massima dimensione di un insieme di permutazioni senza proprietà triple all-between*
+
+> $n$ sia un numero intero superiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, diciamo che $j$ si trova tra $i$ e $k$ se $i < j < k$ o $k < j < i$. (Per esempio, nella permutation $(1, 3, 2, 4)$, $3$ si trova tra $1$ e $4$, e $3$ non si trova tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutations distinte di $(1, 2, \ldots, n)$ in modo tale che tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non si trovi tra gli altri due in ogni permutation $p \in S$. Determinare il valore massimo di < MSK20/>.
+
+**Risposta:** $2^{n-1}$
+[[src_cn_cgmo_2010__Q06]]

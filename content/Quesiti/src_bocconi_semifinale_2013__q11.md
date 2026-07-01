@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q11
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misure degli angoli del triangolo tra pentagono e quadrato*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $9^\circ$, $63^\circ$, $108^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measures of angles of triangle between pentagon and square*
+
+> In the figure you see a square inserted into a regular pentagon (symmetrical to the square's diagonal).
+> 
+> Find the measurements of the angles of the small gray triangle.
+
+![[src_bocconi_semifinale_2013__Q11.png]]
+
+**Answer:** $9^\circ$, $63^\circ$, $108^\circ$
+[[src_bocconi_semifinale_2013__Q11]]

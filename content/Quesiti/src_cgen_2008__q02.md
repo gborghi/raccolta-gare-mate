@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2008 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2008__Q02
 parent: src_cgen_2008
 competition: Concours Général des Lycées 2008 — Matematica
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimising over lines: existence and uniqueness of the line minimising the sum of vertical segment lengths $AA'+BB'+CC'$, and the line minimising the sum of distances from the three vertices of a triangle.*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzazione delle linee: esistenza e unicità della linea riducendo al minimo la somma delle lunghezze del segmento verticale $AA'+BB'+CC'$, e la linea riducendo al minimo la somma delle distanze dai tre vertici di un triangolo.*
+
+> 1. Il piano si riferisce a un quadro ortonormale $(O;\vec{i},\vec{j})$. Consideriamo un triangolo $ABC$ il cui lato non è parallelo all'asse degli ordinati $Oy$. A ogni riga $\mathscr{D}$ non parallela a $Oy$ si associano i punti $A'$, $B'$ e $C'$, intersezioni di $\mathscr{D}$ con i paralleli a $Oy$ tracciati rispettivamente attraverso $A$, $B$ e $C$. Indicare che esiste una linea unica $\mathscr{D}$ per la quale la somma $s$ delle lunghezze $AA'+BB'+CC'$ è minima e caratterizzarla.
+> 
+> 2. Indicare che esiste una linea $\mathscr{D}$ per la quale la somma $s_1$ delle distanze da $A$, $B$ e $C$ a $\mathscr{D}$ è minima. Indicare che questa riga è unica se $ABC$ non è uguale e caratterizzarla.
+
+[[src_cgen_2008__Q02]]

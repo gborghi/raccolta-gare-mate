@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011__Q03
 parent: src_cesenatico_2011
 competition: Olimpiade Italiana (Cesenatico) 2011 - soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero finale invariante per parita*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final number unchanged per parity*
+
+> On a board are written whole numbers, ranging from 1 to 7. It is possible that not all numbers from 1 to 7 are present, and it is also possible that one, some or all numbers are repeated, one or more times. A move consists of choosing one or more numbers on the board, although they are all different, deleting them, and writing in their place the numbers that, together with those deleted, form the whole together {1, 2, 3, 4, 5, 6, 7}. For example, permitted moves are:
+> 
+> • delete a 4 and a 5, and write the numbers 1, 2, 3, 6 and 7 instead; • delete a 1, 2, 3, 4, 5, 6 and 7 without writing anything in their place. Demonstrate that, if you can find a sequence of moves that, starting from the initial situation, leads to having a single number (written only once) on the board, then this number does not depend on the sequence of moves used.
+
+[[src_cesenatico_2011__Q03]]

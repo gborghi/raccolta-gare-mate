@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2013 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_automne__Q08
 parent: src_canimath_2013_automne
 competition: Coupe Animath Automne 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer a with 5 times more positive divisors than a itself*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un intero positivo a con divisioni positive 5 volte più numerose di un solo*
+
+> Che $a$ sia un intero strettamente positivo tale che $a^3$ abbia $5$ volte quanti divisori positivi $a$.
+> 
+> Quanti divisori positivi può $a$ avere?
+
+[[src_canimath_2013_automne__Q08]]

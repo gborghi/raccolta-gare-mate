@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q14
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a+b cifre di 4^2021 e 25^2021*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value a+b figures of 4^2021 and 25^2021< MSK1/>
+
+> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the rest. For how many positive integers, less than 2021, does the same thing happen, that is, the rest of the four divisions is always 5?
+> 
+> (a) 4 (b) 3 (c) 2 (d) 1 (e) none
+
+[[src_kangourou_2021_junior_finale__Q14]]

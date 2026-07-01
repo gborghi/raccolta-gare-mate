@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q09
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale disuguaglianza e sempre verificata se x>y*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which inequality is always found if x>y*
+
+> Let x and y be two real numbers such that x > y. Which of the following inequalities has always occurred?
+>
+> - **(A)** x2 > xy
+> - **(B)** x2 > y2
+> - **(C)** x/y > 1
+> - **(D)** x3 > y3
+> - **(E)** x4 > y4.
+
+**Answer:** D
+[[src_archimede_1999_triennio__Q09]]

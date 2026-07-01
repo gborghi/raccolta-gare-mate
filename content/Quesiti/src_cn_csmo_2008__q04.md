@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2008__Q04
 parent: src_cn_csmo_2008
 competition: China Southeastern Mathematical Olympiad 2008
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count n-digit wave numbers; find f(10) and f(2008) mod 13*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $f(10) = 8008; f(2008) \equiv 10 \pmod{13}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri di onde a n cifre; trovare f(10) e f(2008) mod 13*
+
+> $a$ è un numero intero $n$ a 2 cifre $a_1 a_2 \cdots a_n$ (un numero naturale) che soddisfa le seguenti condizioni:
+> 
+> (i) $a_i \in \{1, 2, 3, 4\}$ e $a_i \ne a_{i+1}$, $i = 1, 2, \ldots, n-1$.
+> 
+> ii) Quando $n \ge 3$, i numeri $a_i - a_{i+1}$ e $a_{i+1} - a_{i+2}$ presentano segni opposti, $i = 1, 2, \ldots, n-2$.
+> 
+> $f(n)$ indichi il numero di tali integri $n$. Trova
+> 
+> (1) il valore di $f(10)$;
+> 
+> (2) il residuo di $f(2008)$ diviso per $13$.
+
+**Risposta:** f(10) = 8008; f(2008) \equiv 10 \pmod{13}
+[[src_cn_csmo_2008__Q04]]

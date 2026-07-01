@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q11
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza scritta sul cartello spezzato (Atown-Betown-Cetown)*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Distance written on the broken sign (Atown-Betown-Cetown)
+
+![[src_kangourou_2020_cadet_marzo__prob11.png]]
+
+> The shortest route from Atown to Cetown is through Betown. Along the route are the two road signs shown in the figure. What distance was written on the broken sign? A) 1 km B) 3 km C) 4 km D) 5 km E) 9 km
+
+**Answer:** A
+[[src_kangourou_2020_cadet_marzo__Q11]]

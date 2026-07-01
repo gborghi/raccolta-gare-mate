@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q10
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo primo 3 cifre con cascata di somme prime*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0977
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum first 3 digits with cascade of prime sums*
+
+> Two regular dice (faces numbered from one to six) are thrown without makeup. Which of the numbers $7$, $8$, $9$ and $10$ is most likely to be the sum of the two scores obtained?
+>
+> - **(A)** $7$
+> - **(B)** $8$
+> - **(C)** $9$
+> - **(D)** $10$
+> - **(E)** < MSK0/> and < MSK1/> have the same probability.
+
+**Answer:** 0977
+[[src_kangourou_2018_junior_finale__Q10]]

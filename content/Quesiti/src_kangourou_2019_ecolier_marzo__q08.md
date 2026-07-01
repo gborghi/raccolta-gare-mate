@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q08
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante forme ottenibili levando una piastrella*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many shapes can be obtained by lifting a tile< MSK1/>
+
+![[src_kangourou_2019_ecolier_marzo__prob8.png]]
+
+> In the first figure, you see five square tiles, all of them equal to each other, approached in a certain way. If you take one of them and leave the others where they are, how many of the following shapes can you get? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5 Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2019_ecolier_marzo__Q08]]

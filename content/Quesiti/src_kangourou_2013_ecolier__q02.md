@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q02
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale immagine ci sono piu canguri neri che bianchi*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In which image there are more black than white kangaroos
+
+> Look at the figure. 43+53=104. The addition written by Gianna is correct, but her brother Luke, in spite, covered two of the figures written by Gianna with two opaque sheets. The two numbers covered are the same. What's the number? A) 2 B) 4 C) 5 D) 7 E) 8
+
+[[src_kangourou_2013_ecolier__Q02]]

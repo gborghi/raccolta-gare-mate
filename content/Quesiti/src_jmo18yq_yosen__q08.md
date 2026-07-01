@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18yq_yosen__Q08
 parent: src_jmo18yq_yosen
 competition: Japan Mathematical Olympiad 2008 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expected number of tails-up coins after a flipping process*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero atteso di monete a coda dopo un processo di voltaggio*
+
+> Otto monete sono disposte in fila, tutte rivolte a testa in su. Noi facciamo ripetutamente quanto segue: scegliamo uniformemente una moneta a caso tra quelle che soddisfano la condizione di seguito, e la voltiamo. Condizione: la moneta scelta non ha monete a destra, o non ha monete a sinistra. Continueremo questa operazione finché non ci sarà una moneta che soddisfi la condizione. Trova il numero atteso di monete che sono rivolte verso l'alto in quel momento.
+
+[[src_jmo18yq_yosen__Q08]]

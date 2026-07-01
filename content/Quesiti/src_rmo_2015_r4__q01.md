@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r4__Q01
 parent: src_rmo_2015_r4
 competition: Regional Mathematical Olympiad 2015
@@ -29,6 +30,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcentre of triangle CB'I lies on angle bisector*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il circolo del triangolo CB'I si trova sul bisettore angolare*
+
+> Lasciate che $ABC$ sia un triangolo. $B'$ indica il riflesso di $B$ nel bisettore angolare interno $\ell$ di $\angle A$. Indicare che il circoncentro del triangolo $CB'I$ si trova sulla linea $\ell$, dove $I$ è l'incentro di $ABC$.
+
+![[src_rmo_2015_r4__Q01.png]]
+
+[[src_rmo_2015_r4__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1989 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1989__Q06
 parent: src_inmo_1989
 competition: Indian National Mathematical Olympiad 1989
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Scalene obtuse triangle: find points on extended BC with AD=sqrt(BD·CD)*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo obtouso di scalene: trovare punti su BC esteso con AD=sqrt(BD·CD) *
+
+> In un triangolo scalene $ABC$ l'angolo $A$ è obtuso. Determinare l'insieme di punti sul lato esteso $BC$ in modo tale che $AD = \sqrt{BD \cdot CD}$.
+
+[[src_inmo_1989__Q06]]

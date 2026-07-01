@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q01
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Abitanti di Giove dati percentuali di partecipanti maratona*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Jupiter population data as a percentage of marathon participants*
+
+> Today, the Great Marathon of 2008 kilometers is run on Jupiter, in which 80% of the planet's inhabitants participate. After two kilometres, 95% of the participants withdraw; the remaining 2,000 runners reach the finish line. How many inhabitants does Jupiter have?
+>
+> - **(A)** 20 000,
+> - **(B)** 40 000,
+> - **(C)** 50 000,
+> - **(D)** 80 000,
+> - **(E)** 100 000.
+
+**Answer:** C
+[[src_archimede_2008_biennio__Q01]]

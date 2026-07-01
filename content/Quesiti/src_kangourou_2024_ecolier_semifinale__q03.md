@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q03
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto dei tre numeri pensati (Adele, Beatrice, Cecilia)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product of the three numbers thought out (Adele, Beatrice, Cecilia) *
+
+> Adele, Beatrice and Cecilia each thought of a number. Adding Adele's number to Beatrice's number gets 20, adding Adele's number to Cecilia's number gets 24, adding Adele's number to Beatrice's number and Cecilia's number gets 44. What do you get when you multiply the three numbers by each other? The Commission has not yet decided whether to proceed with this procedure. The solution. The sum of the three numbers coincides with the sum of the double of Adele's number and the other two: then Adele's number must be 0.
+
+**Answer:** E
+[[src_kangourou_2024_ecolier_semifinale__Q03]]

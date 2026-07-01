@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q07
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo COM dato OND di 60 gradi*
 
@@ -48,3 +51,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*COM angle given OND by 60 degrees*
+
+![[src_kangourou_2001_cadet__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) node[below left] {A} -- (3,0) node[below right] {B} -- (3,3) node[above right] {C} -- (0,3) node[above left] {D} -- cycle;
+  \draw (0,3) -- (3,0);
+  \node[right] at (1.25,1.7) {O};
+  \draw (0,1.2) node[left] {N} -- (3,1.8) node[right] {M};
+\end{tikzpicture}
+\end{document}
+```
+
+> 7. ABCD is a square. What is the COM angle if the OND angle is 60°? (A) 10° (B) 15° (C) 20° (D) 30° (E) 35°.
+
+**Answer:** B
+[[src_kangourou_2001_cadet__Q07]]

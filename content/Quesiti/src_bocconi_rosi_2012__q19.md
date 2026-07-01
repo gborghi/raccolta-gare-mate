@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q19
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di studenti delle medie al cinema*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 81 (3 liceo, 81 medie, 16 elementari)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of secondary school students in cinema*
+
+> One hundred students went to the cinema to see the latest mathematical film, earning the owner of the place a cash prize of 200 euros. Each high school student paid 10 euros, each middle school student 2 euros and each elementary school boy 0.50 euros.
+> 
+> How many secondary school students were there, knowing that they were the majority and even more than twice the number of elementary school students?
+
+**Answer:** 81 (3 liceo, 81 medie, 16 elementari)
+[[src_bocconi_rosi_2012__Q19]]

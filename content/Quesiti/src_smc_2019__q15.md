@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q15
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum Q+R+S where pairwise HCFs of Q, R, S are three different primes*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum Q+R+S dove in coppia HCF di Q, R, S sono tre prime diverse*
+
+> I fattori comuni più alti di tutte le coppie scelte dai numeri interi positivi $Q$, $R$ e $S$ sono tre numeri primi diversi.
+> 
+> Qual è il minimo valore possibile di < MSK0/>?
+>
+> - **(A)** 41
+> - **(B)** 31
+> - **(C)** 30
+> - **(D)** 21
+> - **(E)** 10
+
+**Risposta:** B
+[[src_smc_2019__Q15]]

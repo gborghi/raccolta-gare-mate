@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q03
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grafico velocità-tempo del tragitto casa-scuola*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time-to-speed chart of the home-school journey*
+
+![[src_kangourou_2023_junior__prob3.png]]
+
+> To go to school, Maria leaves home and runs to a metro station, gets off the train at the second station and walks to school. Which of the following can be the chart of the speed that Mary kept from home to school in relation to time? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+>  	
+> E)
+
+**Answer:** D
+[[src_kangourou_2023_junior__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q13
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disposizione cifre 1-9 nei dischi con somma minima*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8371
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Disposition of digits 1-9 in disks with minimum sum*
+
+![[src_kangourou_2013_squadre_a__prob13.png]]
+
+> The magic discs. Look at the figure. Gianna wants to insert, one in each box, all the digits from 1 to 9 in the available boxes so that the sum of the digits inserted inside each of the disks is always the same and is the smallest possible, and that also the number obtained by approaching the 9 digits written is the smallest possible. What are the first four digits entered from the left?
+
+**Answer:** 8371
+[[src_kangourou_2013_squadre_a__Q13]]

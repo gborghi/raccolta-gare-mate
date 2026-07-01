@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q07
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo rettangolo, bisettrice, rapporto (AB/BC)^2*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rectangle, bisector, ratio (AB/BC) ^2 < MSK1/>
+
+![[src_archimede_2021_2livello__prob7.png]]
+
+> Let ABC be a right triangle in B. Both H is the foot of height from B and D is the intersection between the angle of the angle in A and the side of BC. Let's say HD is perpendicular to BC. How much is (AB BC) 2?
+>
+> - **(A)** √ 5 2
+> - **(B)** √ 5−1 2
+> - **(C)** √ 5
+> - **(D)** √ 5+1 2
+> - **(E)** Such a configuration cannot be achieved.
+
+**Answer:** B
+[[src_archimede_2021_2livello__Q07]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q05
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di porte affinche' ogni stanza abbia esattamente tre porte e si possa uscire.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of doors so that each room has exactly three doors and you can get out.
+
+> Here's the plant from Archie Tekte's house. Archie wants to have exactly three doors in each of the five rooms, and at least one door in the house to let you out. How many doors does Archie have to have at least? Note: You must be able to access all the rooms in the house.
+
+![[src_bocconi_finaleint_2010_g1__Q05.png]]
+
+**Answer:** 8
+[[src_bocconi_finaleint_2010_g1__Q05]]

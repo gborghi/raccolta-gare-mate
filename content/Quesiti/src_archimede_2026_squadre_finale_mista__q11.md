@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q11
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area carta nera visibile dopo pieghe del quadrato*
 
@@ -71,3 +74,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4444
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Black paper area visible after folding the square*
+
+![[src_archimede_2026_squadre_finale_mista__prob11.png]]
+
+> Misunderstandings Giacomo Gallina For Odin, it was hard! exclaims Stochastick, commenting on Hilcup's excellent results in the training arena. As she talks to her father, Hilcup nervously plays with a square sheet of ABCD 1 dm side, leaning on the table with her white face facing up and her black face facing down. On the sides AB, BC, CD and DA are marked, respectively, four points E, F, G and H, AE = BF = CG = DH = 1 3 dm. Leaving the center of the sheet standing, Hilcup raises the top A and folds the sheet along the HE segment, leading A to touch the inside of the square. Similarly, it then folds the sheet along the EF, FG and GH segments, lifting the B, C and D vertices respectively and bringing them into contact with the inside of the sheet. "I should really be in bed!" says Hilcup waving, not wanting to continue the conversation with his father. How many mm2 does the area of black paper visible from above measure? A B C D E F G H A′ B′ C′ D′ 1 3 1 3 1 3 1 3
+
+**Answer:** 4444
+[[src_archimede_2026_squadre_finale_mista__Q11]]

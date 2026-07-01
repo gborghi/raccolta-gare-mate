@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q04
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum rods to build a strip of 32 hexagons*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rolle minime per costruire una striscia di 32 esagoni*
+
+> La disposizione di sotto, composta da 32 esagoni, era assemblata con bastone, tutte di lunghezza uguale al lato dell'esagono. Quante bastone, almeno, sono necessarie per assemblare l'organizzazione?
+> 
+> **A)** $113$ $\quad$ **B)** $123$ $\quad$ **C)** $122$ $\quad$ **D)** $132$ $\quad$ **E)** $152$
+
+![[src_obm_2004_n2_f1__Q04.png]]
+
+**Risposta:** D
+[[src_obm_2004_n2_f1__Q04]]

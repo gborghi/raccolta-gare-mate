@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q13
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri di 3 cifre invertiti aumentano di 99*
 
@@ -64,3 +67,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Where the three-digit numbers inverted increase by 99*
+
+> For a positive integer with 3 significant digits, consider the following property: by writing the digits in reverse order you get a number, always 3 digits, greater than 99 units than the original. How many three-digit numbers have this property? A) 8
+> 	
+> B) 64
+> 	
+> C) 72
+> 	
+> D) 80
+> 	
+> E) 81 4 1---- 2 1---- 3 1---- 4 1---- 5 1---- 6 pq ----- 2 p---- 4
+>
+
+**Answer:** D
+[[src_kangourou_2021_student_gara__Q13]]

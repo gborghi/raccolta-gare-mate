@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q09
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima cifra di 2019*N dati i divisori di 2N e 3N*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last figure for 2019*N data for the 2N and 3N dividers*
+
+> (Points 6) The double of a positive integer N has 6 different integer divisors; whereas the triple of N has 4 different integer divisors. What is the last digit of the number 2019×N? Note: The divisors of a number include 1 and the number itself. A) 1
+> 	
+> B) 3
+> 	
+> C) 8
+> 	
+> D) 9
+> 	
+> E) It is impossible to establish
+> 
+> Open-ended questions
+
+**Answer:** A
+[[src_kangourou_2019_cadet_semif__Q09]]

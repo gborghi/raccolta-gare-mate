@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_nu_fx__Q02
 parent: src_obm_2020_nu_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many non-Fibonacci positive integers exist*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistono infiniti interi positivi non di Fibonacci*
+
+> Per $a$ un intero positivo, definire $F_1^{(a)} = 1$, $F_2^{(a)} = a$, e per $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. Un intero positivo è chiamato *fibonatico* se equivale a $F_n^{(a)}$ per un intero positivo $a$ e per un certo $n > 3$. Prove che esistono infinitamente molti interi positivi che non sono fibonatici.
+
+[[src_obm_2020_nu_fx__Q02]]

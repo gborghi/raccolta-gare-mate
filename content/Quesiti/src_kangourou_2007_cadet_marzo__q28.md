@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q28
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza max curva connessa (piastrelle archi)*
 
@@ -62,3 +65,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max length of curve connected (arched tiles) < MSK1/>
+
+![[src_kangourou_2007_cadet_marzo__prob28.png]]
+
+> The figure shows a square tile with a side length of 20 cm, with two decorative patterns in the shape of a quarter of a radius of 10 cm, centered on opposite vertices of the square. We're flooring with tiles like this on a square side area of 80 centimeters so that the arches connect to two by two. What is the length in centimeters of the longest connected curve that can form in this way? (a) 75 π B) 100 π C) 105 π D) 110 π E) 140 π 4 12 8 13 24 14 7 5 23 10 cm Texts_07.qxp 16-04-2007 12:05 Page 20
+> 
+> I'm going to pay. I'm going to pay. 21 21 Kang 2007 Kang
+
+**Answer:** D
+[[src_kangourou_2007_cadet_marzo__Q28]]

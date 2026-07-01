@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_finale__QS3
 parent: src_kangourou_2022_student_finale
 competition: Kangourou 2022 Student — Finale (risposta aperta)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *due cifre uguali*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*two digits equal to *
+
+> Consider the number $20232022$ in decimal notation; subtract its first digit from the right (the number of units) and add it to the number obtained with the remaining digits. Continue this way until you get a 10-digit number. It shows that this number you got has at least two digits equal.
+
+**Answer:** dimostrazione
+[[src_kangourou_2022_student_finale__QS3]]

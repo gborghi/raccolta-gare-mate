@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q06
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find q-p where sum of 1/i(i+1)(i+2) from 1 to 10 equals p/q in lowest terms*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca q-p in cui la somma di 1/i(i+1)(i+2) da 1 a 10 è uguale a p/q in termini più bassi*
+
+> Se la somma $\sum_{i=1}^{10} \frac{1}{i(i+1)(i+2)}$ è scritta in termini più bassi come $\frac{p}{q}$, si trova il valore di $q - p$.
+
+[[src_prmo_2017__Q06]]

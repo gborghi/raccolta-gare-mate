@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q14
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5-digit number xy26c divisible by 8, 9, 11; find x*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 5 cifre xy26c divisibile per 8, 9, 11; trovare x*
+
+> Il numero a 5 cifre $\overline{xy26c}$, in cui ogni lettera rappresenta una cifra, è divisibile per 8, 9 e 11. Qual è il valore di $x$?
+> 
+> (A) 3 $\quad$ (B) 5 $\quad$ (C) 1 $\quad$ (D) 4 $\quad$ (E) 9
+
+**Risposta:** A
+[[src_obm_2014_n2_f1__Q14]]

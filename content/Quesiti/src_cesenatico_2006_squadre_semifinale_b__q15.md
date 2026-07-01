@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q15
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto 320 B/A tra esagono e stella di David*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0480
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ratio 320 B/A between hexagon and star of David< MSK1/>
+
+> In geomancy class, Hardy and Hermita are in the geomancy lab, practicing to create magical symbols. Starting from a circumference on which six equidistant points mark, Hermita proposes to complete the figure by joining the six points to form a star of David, of area A. Hardy, on the other hand, proposes to join them to the hexagon, of area B. To measure the power of the two spells, the two measure the two areas. Tell me what 320B/A is worth.
+> 
+> Cesenatico Competition in teams 2 6 VII NATIONAL GARA A Semifinal squad B  Solution  5 May 2006 Nr. The problem
+
+**Answer:** 0480
+[[src_cesenatico_2006_squadre_semifinale_b__Q15]]

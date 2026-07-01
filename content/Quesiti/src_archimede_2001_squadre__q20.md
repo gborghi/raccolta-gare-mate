@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q20
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *ultime 4 cifre*
 
@@ -43,3 +46,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1536
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>last 4 digits < MSK1/>
+
+> This is a list of the countries of Central and Eastern Europe.
+> 
+> Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
+> 
+> What are the last four digits of the greatest coefficient (in absolute value) of the $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)(x-64)?»$$ polynomial
+
+**Answer:** 1536
+[[src_archimede_2001_squadre__Q20]]

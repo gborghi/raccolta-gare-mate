@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q05
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta dei pulcini nati il 24 febbraio osservati a marzo*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Eta of chicks born on 24 February observed in March< MSK1/>
+
+> When in Milan it's five o'clock in the afternoon, in San Francisco it's eight o'clock in the morning the same day. When I'm in San Francisco at 9pm on a Sunday, what time is it in Milan? (a) 6 a.m. on Sundays (b) 6 p.m. on Sundays (c) noon on Sundays (d) midnight between Sunday and Monday (e) 6 a.m. on Monday
+
+[[src_kangourou_2012_benjamin__Q05]]

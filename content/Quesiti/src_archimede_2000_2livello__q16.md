@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q16
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (m,n) interi positivi con 1/m+1/n-1/mn=2/5*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (3,10),(4,5),(10,3),(5,4)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive integer pairs (m,n) with 1/m+1/n-1/mn=2/5< MSK1/>
+
+> Determine all ordered pairs $(m, n)$ of positive integers satisfying the equation $$\frac{1}{m} + \frac{1}{n} - \frac{1}{mn} = \frac{2}{5}.$$
+
+**Answer:** (3,10),(4,5),(10,3),(5,4)
+[[src_archimede_2000_2livello__Q16]]

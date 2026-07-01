@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q02
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set A={1,2,m}, B={a^2}, C=A∪B with sum 6; find product of elements of C.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Set A={1,2,m}, B={a^2}, C=A∪B con la somma 6; trovare il prodotto degli elementi di C.*
+
+> [Test paper A, problema 2] Data l'insieme $A=\{1,2,m\}$, $m$ è reale. Il modulo di calcolo deve essere il seguente: Se la somma di tutti gli elementi di $C$ è $6$, il prodotto di tutti gli elementi di $C$ è ______.
+
+**Risposta:** -8
+[[src_cn_cmc-first-round_2021__Q02]]

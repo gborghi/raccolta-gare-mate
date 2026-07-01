@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q20
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the missing face number on an icosahedron net*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca il numero del viso mancante su una rete di icosaedro< MSK1/>
+
+> La figura seguente è una rete (piano) di un icosaedro (un solido la cui faccia è triangolare equilaterale). Le facce sono numerate da $1$ a $5$ in modo tale che intorno a ogni vertice del solido appaiano tutti i numeri $1$ a $5$. Qual è il numero sul volto contrassegnato con ``?'?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+![[src_obm_2010_n1_f1__Q20.png]]
+
+**Risposta:** D
+[[src_obm_2010_n1_f1__Q20]]

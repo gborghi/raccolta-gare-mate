@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q18
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Relation among angles using midpoint of a side in a triangle*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione tra gli angoli utilizzando il punto medio di un lato in un triangolo*
+
+> Nel triangolo $ABC$, $AB=2$, $BC=\sqrt{2}$. Il punto medio del lato $AB$ deve essere $M$. Se $m(BAC)=\alpha$, $m(\beta)$ e $m(MBC)=\gamma$:
+> 
+> (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180^\circ$ (D) $\alpha+\beta=90^\circ$ (E) $\alpha+\beta=45^\circ$
+
+[[src_obm_2015_n2_f1__Q18]]

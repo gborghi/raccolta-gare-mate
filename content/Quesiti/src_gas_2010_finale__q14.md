@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q14
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diametro sfera con due cerchi ortogonali tangenti in due punti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0600
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diameter of sphere with two orthogonal circles tangent to two points*
+
+> Anti-Cramer talisman Jack is increasingly terrified of Cramer, who hears his presence everywhere and searches relentlessly for his ship. The voodoo lady Tria Geome, using her Geomystic powers, will help him build a talisman that can keep the creature away. He explains that he will have to make a ball of clay on whose surface he will have to draw two mystical circles. These circumferences shall have a diameter of 50 and 36 cm, shall lie on straight planes, and shall be touched at two points 14 cm apart. How many millimeters will you have to measure the diameter of the clay sphere?
+
+**Answer:** 0600
+[[src_gas_2010_finale__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q11
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count real triples (x,y,z) satisfying x(x+y+z)=2005, y(x+y+z)=2006, z(x+y+z)=2007.*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i tripli reali (x,y,z) soddisfacendo x(x+y+z) = 2005, y(x+y+z) = 2006, z(x+y+z) = 2007.*
+
+> Quanti triples di numeri reali $x$, $y$, $z$ soddisfano il sistema di seguito? $$\begin{cases} x(x + y + z) = 2005 \\ y(x + y + z) = 2006 \\ z(x + y + z) = 2007 \end{cases}$$
+> 
+> (A) Nessuna (B) 1 (C) 2 (D) 3 (E) 2006
+
+**Risposta:** C
+[[src_obm_2006_n3_f1__Q11]]

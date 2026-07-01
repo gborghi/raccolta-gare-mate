@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n2_f3__Q06
 parent: src_obm_2017_n2_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For all positive integers n, a^n + 2017b^n has more distinct prime factors than n*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Per tutti gli integri positivi n, a^n + 2017b^n ha fattori primi più distinti di n*
+
+> Prova che per ogni intero positivo $n$ esistono interi positivi $a$ e $b$, con $\gcd(a, b) = 1$, in modo tale che $a^n + 2017b^n$ abbia più di $n$ fattori primi distinti.
+
+[[src_obm_2017_n2_f3__Q06]]

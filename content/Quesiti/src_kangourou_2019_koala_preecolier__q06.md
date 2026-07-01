@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q06
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da quanti fiori e composto il mazzo nel rettangolo fuori dal triangolo*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many flowers and composite the deck in the rectangle outside the triangle*
+
+![[src_kangourou_2019_koala_preecolier__prob6.png]]
+
+> In order to form a flower bunch, Gaia must use all the flowers in the rectangle, but outside the triangle, and only those. How many flowers will Gaia's deck be made of?
+>
+> (see figure)
+>
+> - **(A)** 26
+> - **(B)** 22
+> - **(C)** 19
+> - **(D)** 14
+> - **(E)** 13
+
+[[src_kangourou_2019_koala_preecolier__Q06]]

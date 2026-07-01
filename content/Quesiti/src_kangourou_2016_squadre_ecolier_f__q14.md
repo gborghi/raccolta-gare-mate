@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q14
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo tende da 5 posti per 31 ragazzi senza posti liberi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum tents of 5 seats for 31 boys with no seats
+
+> In camp A group of 31 boys go camping with their tents: some are three-seaters, others are five-seaters. What is the minimum number of five-seat tents you can carry if everyone has a seat but there are no open spaces in any of the tents?
+
+**Answer:** 2
+[[src_kangourou_2016_squadre_ecolier_f__Q14]]

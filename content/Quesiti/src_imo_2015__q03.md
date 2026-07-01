@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 papers — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2015__Q03
 parent: src_imo_2015
 competition: IMO 2015 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circumcircle di KQH e FKM tangenti*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circle of tangent KQH and FKM*
+
+> Let $ABC$ be an acute triangle with $AB > AC$. Let $\Gamma$ be its circumcircle, $H$ its orthocentre, and $F$ the foot of the altitude from $A$. Let $M$ be the midpoint of $BC$. Let $Q$ be the point on $\Gamma$ such that $\angle HQA = 90°$ and let $K$ be the point on $\Gamma$ such that $\angle HKQ = 90°$. Assumes that the points $A$, $B$, $C$, $K$ and $Q$ are all different and lie on $\Gamma$ in this order.
+> 
+> Prove that the circumcircles of triangles $KQH$ and $FKM$ are tangent to each other.
+
+[[src_imo_2015__Q03]]

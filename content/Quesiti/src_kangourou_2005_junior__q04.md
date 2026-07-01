@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q04
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma misure di 10 circonferenze piccole allineate*
 
@@ -54,3 +57,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary measurements of 10 small aligned circles*
+
+![[src_kangourou_2005_junior__prob4.png]]
+
+> The large circumference in the figure is 10 m long. The 10 small circles have their centers aligned on a diameter of the large circle. The two smallest outer circumferences are tangent internally to the larger circumference; each of the other is tangent externally to the two adjacent to it. What is the sum of the measurements of the small circles? A) 1 m B) 5 m C) 10 m D) 100 m E) depends on the diameter of the individual junior_05_D.qxp 21/02/2005 16.13 Page 22
+> 
+> I'm going to pay. I'm going to pay. 23 23 Kang 2005 Kang
+
+**Answer:** C
+[[src_kangourou_2005_junior__Q04]]

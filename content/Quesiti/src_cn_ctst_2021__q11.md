@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q11
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic sequence: count indices where maximal-average b_k >= 1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza ciclica: indici di conteggio in cui la media massima b_k >= 1*
+
+> Che $n$ sia un intero positivo e $a_1, a_2, \ldots, a_{2n+1}$ un numero reale non negativo (con indici presi modulo $2n+1$). Per $1 \le k \le 2n+1$, definire $$b_k = \max_{0 \le m \le n} \frac{1}{2m+1} \sum_{i=k-m}^{k+m} a_i$$ (indici mod $2n+1$). Prova: il numero di indici $k$ che soddisfano $b_k \ge 1$ non supera $2\sum_{i=1}^{2n+1} a_i$.
+
+[[src_cn_ctst_2021__Q11]]

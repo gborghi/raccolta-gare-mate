@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f3__Q05
 parent: src_obm_2009_n2_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumscribed circles of AOB and COD meet BC and AD at M,N,P,Q; prove MNPQ cyclic with center O*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli circoscritti di AOB e COD incontrano BC e AD a M,N,P,Q; dimostrano che MNPQ è ciclico con centro O*
+
+> Le diagonali di un quadrilaterale ciclico $ABCD$ si incontrano a $O$. I cerchi circoscritti dei triangoli $AOB$ e $COD$ intersecano per la seconda volta le linee $BC$ e $AD$ ai punti $M$, $N$, $P$ e $Q$, rispettivamente. Prove che il quadrilaterale $MNPQ$ è inserito in un cerchio con il centro $O$.
+
+[[src_obm_2009_n2_f3__Q05]]

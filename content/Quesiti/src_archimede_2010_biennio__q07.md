@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q07
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni di sette stati con tre colori*
 
@@ -45,7 +48,7 @@ tags:
 > - **(B)** 2,
 > - **(C)** 4,
 > - **(D)** 5,
-> - **(E)** 6. A B C D E F G
+> - **(E)** 6.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]]
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Seven-state colours with three colours< MSK1/>
+
+> Concept imagines a flat, round world, and divides it into seven states, one central and the other six around it, as shown in the figure next to it. In addition, each state is given a letter (see figure). He wants to color each state red, or green, or yellow, so that two neighboring states don't have the same color. How many different ways can you do that?
+>
+> - **(A)** No one.
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 5,
+> - **(E)** 6.
+
+**Answer:** E
+[[src_archimede_2010_biennio__Q07]]

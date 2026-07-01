@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q03
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale bianca del trapezio colorato*
 
@@ -59,3 +62,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 42
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>White percentage of the coloured trapezoid< MSK1/>
+
+![[src_kangourou_2012_squadre_semifinale__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \coordinate (A) at (0,0);
+  \coordinate (D) at (7,0);
+  \coordinate (B) at (2,3);
+  \coordinate (C) at (5,3);
+  \coordinate (E) at (3.5,2.1);
+  \fill[gray!50] (B) -- (C) -- (E) -- cycle;
+  \fill[gray!50] (A) -- (D) -- (E) -- cycle;
+  \draw (A) -- (D) -- (C) -- (B) -- cycle;
+  \draw (A) -- (C);
+  \draw (B) -- (D);
+  \node[below] at (3.5,0) {7};
+  \node[above] at (3.5,3) {3};
+\end{tikzpicture}
+\end{document}
+```
+
+> The colored trapezoid In the figure you see a trapezoid, part of which has been colored gray. The main base of the trapezoid is 7 metres long, the minor base is 3 metres long. What percentage of the trapezoid's surface is left white?
+
+**Answer:** 42
+[[src_kangourou_2012_squadre_semifinale__Q03]]

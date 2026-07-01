@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q15
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest c so that sum of 1/z_i < c guarantees Theo can give every student a liked gift*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il più grande c in modo che la somma di 1/z_i < c garantisca che Theo possa dare a ogni studente un regalo *
+
+> Nel campo di Animath ci sono $n$ studenti, numerati da $1$ a $n$, dove $n \ge 2$ è un numero naturale. Théo ha infiniti doni diversi, ognuno esistente in una sola copia. Inoltre, al numero di studenti $i$ piace un numero finito $z_i > 0$ dei regali proposti da Théo.
+> 
+> Determinare, come funzione di $n$, il più grande reale $c > 0$ che soddisfi la seguente proprietà: per qualsiasi numero intero positivo $x_1, x_2, \ldots, x_n$ tale che $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, Théo può sempre organizzare le cose in modo che ogni studente riceva un regalo che gli piace (con ogni regalo che va a un studente al massimo).
+
+[[src_canimath_2024_printemps__Q15]]

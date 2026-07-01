@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q24
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di n^2+m con m,n radici di x^2-x-2018=0*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of n^2+m with m,n roots of x^2-x-2018=0*
+
+> 24. m and n are the roots of the equation $x^{2}$- x - 2018 = 0. How much is < MSK1/> + m ? A) 2016 B) 2017 C) 2018 D) 2019 E) 2020
+
+**Answer:** D
+[[src_kangourou_2018_student_marzo__Q24]]

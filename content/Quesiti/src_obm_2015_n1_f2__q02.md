@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q02
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *T-shirt discounts: 3 at 10% vs 2 at 5%, difference 12 reais; find discounted price*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sconti sulle magliette: 3 al 10% contro 2 al 5%, differenza 12 reais; trovare prezzo scontato< MSK1/>
+
+> Júlia ha comprato magliette $3$ uguali e pagato con uno sconto $10\%$, mentre suo fratello ha comprato magliette $2$ dello stesso tipo e pagato con uno sconto $5\%$. Il fratello di Júlia ha pagato $12$ reais più di Júlia. Qual è il prezzo, in reais, di ogni T-shirt al prezzo scontato di Júlia?
+
+[[src_obm_2015_n1_f2__Q02]]

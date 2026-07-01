@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q21
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cubetti da rimuovere per la vista voluta*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum cubes to be removed for the desired view*
+
+![[src_kangourou_2014_benjamin__prob21.png]]
+
+> In the figure (left) you see a cube shaped by 27 equal cubes. You want to remove some cubes so that, looking at the cube from each of the faces that appear in the figure (i.e. from above, front and right) you always see the image on the right. What's the least number of cubes you can lift to reach your goal? A) 4
+> 	
+> B) 5
+>  	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 9
+
+**Answer:** D
+[[src_kangourou_2014_benjamin__Q21]]

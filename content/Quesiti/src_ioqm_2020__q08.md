@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q08
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5-digit number with digits k, k+1, k+2, 3k, k+3 equals m^2; find sum of digits of m*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 5 cifre con cifre k, k+1, k+2, 3k, k+3 = m^2; trovare la somma di cifre di m*
+
+> Un numero a 5 cifre (in base 10) ha cifre $k, k+1, k+2, 3k, k+3$ in quell'ordine, da sinistra a destra. Se questo numero è $m^2$ per un certo numero naturale $m$, trovare la somma delle cifre di $m$.
+
+[[src_ioqm_2020__Q08]]

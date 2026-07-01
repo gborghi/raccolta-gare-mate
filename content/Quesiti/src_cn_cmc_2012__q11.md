@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2012 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2012__Q11
 parent: src_cn_cmc_2012
 competition: China Mathematical Competition 2012
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rhombus in coordinate system; product OA·OC constant and trace of C*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Rhombus in sistema di coordinate; costante OA·OC del prodotto e traccia di C < MSK1/>
+
+> (20 punti) Come illustrato nella figura. 11.1, nel sistema di coordinate rettangolare $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Provare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sul mezzo cerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), trova la traccia di $C$.
+
+![[src_cn_cmc_b11_w58__Q11.png]]
+
+[[src_cn_cmc_2012__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q02
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max persone attorno a 7 tavoli quadrati accostati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max people around 7 square tables next to each other< MSK1/>
+
+> We have a number of equal square tables available. For the school party, we've brought seven of them together, forming a long rectangular table. If each square table can seat four people, one on each side, how many people can sit around the rectangular table? A) 14 B) 16 C) 18 D) 21 E) 28
+
+**Answer:** B
+[[src_kangourou_2006_ecolier_marzo__Q02]]

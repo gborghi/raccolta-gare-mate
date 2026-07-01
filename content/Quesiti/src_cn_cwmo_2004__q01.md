@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2004__Q01
 parent: src_cn_cwmo_2004
 competition: China Western Mathematical Olympiad 2004
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers n making a degree-4 polynomial a perfect square*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli enti n che rendono un polinomio di grado-4 un quadrato perfetto*
+
+> Trova tutti gli enti $n$ in modo tale che $n^4 - 6n^3 + 11n^2 + 3n + 31$ sia un quadrato perfetto.
+
+[[src_cn_cwmo_2004__Q01]]

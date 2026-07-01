@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f3__Q02
 parent: src_obm_2009_n2_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter of triangle CEF lies on circumcircle of triangle ABD*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il centro del circolo del triangolo CEF si trova sul circolo del triangolo ABD*
+
+> Si deve $ABCD$ essere un parallelo e $\Gamma$ il cerchio circonscritto del triangolo $ABD$. $E$ e $F$ siano rispettivamente le intersezioni di $\Gamma$ con le linee $BC$ e $CD$. Prove che il centro circoncentrale del triangolo $CEF$ si trova su $\Gamma$.
+
+[[src_obm_2009_n2_f3__Q02]]

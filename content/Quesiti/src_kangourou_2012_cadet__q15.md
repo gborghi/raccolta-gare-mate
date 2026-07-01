@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q15
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero sulla carta con maggiore di 100*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Any number on paper with more than 100*
+
+> We have four cards. The numbers 2, 5, 7 and 12 are each written on one side of a paper; on the opposite side one of the following attributes is instead written: divisible by 7, primo, dispare, greater than 100. It is known that in each paper the number written does not correspond to the attribute written on the opposite face. What number is written on the paper with the attribute  greater than 100? A) 2 B) 5 C) 7 D) 12 E) 2 or 5, but it is not possible to decide
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q15]]

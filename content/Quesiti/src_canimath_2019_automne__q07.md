@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q07
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Does strict ordering of fractions imply ordering of their mediants?*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
+
+> E' vero che se $a_1$, $a_2$, $b_1$, $b_2$, $c_1$, $d_1$, $c_2$, $d_2$ sono integri rigorosamente positivi in modo che $$\frac{a_1}{b_1} < \frac{c_1}{d_1} \quad \text{and} \quad \frac{a_2}{b_2} < \frac{c_2}{d_2},$$ si abbia sempre $$\frac{a_1 + c_1}{b_1 + d_1} < \frac{a_2 + c_2}{b_2 + d_2}\,?$$
+
+[[src_canimath_2019_automne__Q07]]

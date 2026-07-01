@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q16
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo n con S_n+S_{n-1}>2024 (diagonali poligono)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0048
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little number n with S_n+S_{n-1}>2024 (polygonal diagonals) < MSK1/>
+
+> 16. (Points 7) Assigned to a convex polygon of n sides (n > 3), we indicate with Sn the number of its diagonal. What is the smallest value of n such that Sn + Sn  1 > 2024? The answer is 0048. The solution. For each n > 3 we have Sn = n(n  3)/2, where Sn + Sn  1 = $n^{2}$ 4n + 2. In order to have $n^{2}$ 4n  2022 > 0 must be n > 2 + √2026. The first perfect square greater than 2026 is 2116 = $46^{2}$.
+
+**Answer:** 0048
+[[src_kangourou_2024_junior_semifinale__Q16]]

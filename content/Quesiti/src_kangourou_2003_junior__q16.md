@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q16
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore del prodotto telescopico fino a 2003*
 
@@ -78,3 +81,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of the telescopic product up to 2003< MSK1/>
+
+> The value of the expression is equal to A) 2004 B) 2003 C) 2002 D) 1002 E) 1001 11 9 7 5 ?? ? ?? ? ? ? ? ?? ? ?? ? ? ? ?? ? ?? ? ? 2003 1 1 3 1 1 2 1 1
+> 
+> I'm going to pay. I'm going to pay. 25 25 Kang 2003 Kang
+
+**Answer:** D
+[[src_kangourou_2003_junior__Q16]]

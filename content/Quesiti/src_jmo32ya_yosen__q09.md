@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q09
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutations of 1–1000 where each p_i is a multiple of i*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 504
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazioni di 11000 in cui ogni p_i è un multiple di i*
+
+> Quante permutazioni $(p_1, p_2, \ldots, p_{1000})$ di $1, 2, \ldots, 1000$ esistono tali che per ogni numero intero $i$ con $1 \le i \le 999$, $p_i$ sia un multiple di $i$?
+
+**Risposta:** 504
+[[src_jmo32ya_yosen__Q09]]

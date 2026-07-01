@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q16
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza secondo campo rettangolare*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length by rectangular field*
+
+> The length of a rectangular field is 80 m and the area is 3 200 m2. Find the length of another rectangular field whose area and width are both half the corresponding of the first field.
+>
+> - **(A)** 20 m
+> - **(B)** 40 m
+> - **(C)** 60 m
+> - **(D)** 80 m
+> - **(E)** 100 m.
+
+**Answer:** D
+[[src_kangourou_2001_benjamin__Q16]]

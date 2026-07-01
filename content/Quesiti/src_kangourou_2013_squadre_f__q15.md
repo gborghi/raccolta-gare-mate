@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q15
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo AVC della piramide pentagonale*
 
@@ -47,3 +50,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 108
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measuring the AVC angle of the pentagonal pyramid*
+
+> The pentagonal pyramid The base of a V-vertical pyramid is a regular ABCDE pentagon and its five faces are equilateral triangles. What is the measure in degrees of the angle of AVC?
+>  
+>  
+> 
+>  
+>  
+>  
+> Questions and solutions
+
+**Answer:** 108
+[[src_kangourou_2013_squadre_f__Q15]]

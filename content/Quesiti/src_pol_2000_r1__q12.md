@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q12
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *D,E,F on sides BC,CA,AB of acute triangle; circumcircles of AEF, BFD, CDE meet at P; given three ratio conditions prove AD,BE,CF are altitudes.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*D,E,F sui lati BC,CA,AB del triangolo acuto; i circoncircoli di AEF, BFD, CDE si incontrano a P; date tre condizioni di rapporto dimostrano che AD,BE,CF sono altitudini.*
+
+> I punti $D, E, F$ sono prelevati sui rispettivi lati $BC, CA, AB$ di un triangolo acuto $ABC$. I circoncircoli dei triangoli $AEF$, $BFD$, $CDE$ si incontrano al punto $P$. Prove che se $$\frac{PD}{PE} = \frac{BD}{AE}, \quad \frac{PE}{PF} = \frac{CE}{BF}, \quad \frac{PF}{PD} = \frac{AF}{CD},$$ allora $AD$, $BE$, $CF$ sono le altitudini del triangolo $ABC$.
+
+[[src_pol_2000_r1__Q12]]

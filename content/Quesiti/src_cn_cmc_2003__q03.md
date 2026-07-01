@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q03
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A 60-degree line through the focus of a parabola meets it at A, B; find the segment PF from the perpendicular bisector of AB.*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una linea di 60 gradi attraverso l'obiettivo di una parabola la incontra a A, B; trovare il segmento PF dal bisettore perpendicolare di AB.*
+
+> Si deve tracciare una linea con l'angolo di inclinazione di $60^\circ$ attraverso il foco $F$ della parabola $y^2 = 8(x+2)$. Se i due punti di intersezione della linea e della parabola sono $A$ e $B$, e il bisettore perpendicolare dell'accordo $AB$ interseca l'asse $x$ al punto $P$, allora la lunghezza del segmento $PF$ è ( ).
+> 
+> (A) $\frac{16}{3}$ \quad (B) $\frac{8}{3}$ \quad (C) $\frac{16\sqrt{3}}{3}$ \quad (D) $8\sqrt{3}$
+
+**Risposta:** (A)
+[[src_cn_cmc_2003__Q03]]

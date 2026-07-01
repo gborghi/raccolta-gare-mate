@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q19
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero tagli per spezzoni interi tutti diversi*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of cuts per whole whole whole pieces all different*
+
+> I had a 15-meter long rope. By cutting it properly, I obtained pieces that were a whole number of feet in length. The number of pieces is as large as possible, consistent with the fact that there are not two of the same length. How many cuts did I make? A) 3 B) 4 C) 5 D) 6 E) 15.
+
+**Answer:** B
+[[src_kangourou_2006_benjamin__Q19]]

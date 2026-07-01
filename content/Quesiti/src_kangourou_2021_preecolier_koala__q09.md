@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q09
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pezzi di nastro dopo il taglio*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pieces of tape after cutting< MSK1/>
+
+![[src_kangourou_2021_preecolier_koala__prob9.png]]
+
+> Edward cut a tape as shown in the figure. How many pieces of tape did you get?
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 11
+> - **(D)** 12
+> - **(E)** 13 (see figure)
+
+**Answer:** D
+[[src_kangourou_2021_preecolier_koala__Q09]]

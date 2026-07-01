@@ -1,6 +1,7 @@
 ---
 title: IMO 1986 (XXVII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1986__Q06
 parent: src_imho_1986
 competition: IMO 1986 (XXVII International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Color integer-coordinate points so axis-parallel lines differ by at most 1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Color integer-coordinate points so axis-parallel lines differ by at most 1*
+
+> One is given a finite set of points in the plane, each point having integer coordinates. Is it always possible to color some of the points in the set red and the remaining points white in such a way that for any straight line $L$ parallel to either of the coordinate axes the difference (in absolute value) between the numbers of white points and red points on $L$ is not greater than $1$?
+
+[[src_imho_1986__Q06]]

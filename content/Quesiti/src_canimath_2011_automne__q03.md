@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q03
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Twelve candidates each announcing cumulative number of lies, determine total lies*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dodici candidati che ciascuno annuncia un numero cumulato di menzogne, determinano il totale di menzogne*
+
+> Dodici candidati al sindaco partecipano a un dibattito televisivo. Dopo un po' uno di loro dichiara: "Finora abbiamo mentito una volta". Un secondo dice: "Ora, questo fa due volte". Un terzo poi esclama "Tre volte, ora", e così via fino al dodicesimo, che afferma che prima di lui ci sono state dodici menzogne. Il presentatore interrompe poi la discussione. Sapendo che almeno uno dei candidati ha annunciato correttamente quante volte ha mentito prima del suo turno di parlare, determinare quante persone hanno mentito in totale.
+
+[[src_canimath_2011_automne__Q03]]

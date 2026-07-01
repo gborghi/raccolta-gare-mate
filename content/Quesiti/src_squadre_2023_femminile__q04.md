@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q04
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ABC con ortocentro su AC perpendicolare a BH*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ABC angle with orthocenter on AC perpendicular to BH*
+
+> After discovering that someone has managed to steal Cheope's pyramid, Krull decides it's finally time to steal the moon! But to do so, he needs a loan from the criminal bank. To test the qualities of super-criminal, at the entrance to the bank the guard asks: "What is the sum of all perfect squares, with at least two digits, such that all the digits except the first one on the left are 4?" What does Krull have to answer to get in and talk to the principal?
+
+**Answer:** 0045
+[[src_squadre_2023_femminile__Q04]]

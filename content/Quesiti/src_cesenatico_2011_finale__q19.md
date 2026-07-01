@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q19
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita non scoprire sabotatori (interrogatori)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0142
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of not detecting saboteurs (interrogators) < MSK1/>
+
+> 4 Roman spies and 4 saboteurs of the architect who lost the contract infiltrated the construction site of Numerotris. Abelix has heard of the 4 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 44 workers at the site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all four, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma.
+> 
+> 4/3 Team competition 2011  National final  Problem texts
+
+**Answer:** 0142
+[[src_cesenatico_2011_finale__Q19]]

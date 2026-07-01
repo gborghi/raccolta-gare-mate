@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n1_fx__Q02
 parent: src_obm_2024_n1_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chess pieces (knight and rook) on 3x3 board, complete configurations*
 
@@ -61,3 +64,27 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piani di scacchi (cavaliere e torre) su tavola 3x3, configurazioni complete*
+
+> In questo problema usiamo alcuni pezzi del gioco degli scacchi.
+> 
+> - Il \emph{knight} (C) è un pezzo che attacca quadrati che sono 1 movimento in una direzione e 1 quadrato nella direzione perpendicolare. Una proprietà importante è che il cavaliere può saltare sopra i pezzi, cioè può attaccare un quadrato anche se ci sono pezzi tra di esso e il quadrato. Vedi la prima figura qui sotto: abbiamo un cavaliere nell'angolo inferiore sinistro che attacca esattamente 2 quadrati ($\bullet$).
+> 
+> - Il \emph{rook} (T) è un pezzo che attacca tutti i quadrati della stessa riga o colonna come esso. A differenza del cavaliere, la torre non può saltare sopra i pezzi. Nella seconda figura qui sotto, abbiamo una torre che attacca 4 quadrati ($\bullet$).
+> 
+> Quando si collocano alcuni pezzi di scacchi su una tavola $3 \times 3$, diciamo che questa configurazione è \emph{complete} quando ciascuno dei 9 quadrati è occupato da esattamente una parte o viene attaccato da almeno una delle parti. Non è consentito mettere più di un pezzo sulla stessa piazza.
+> 
+> Nel primo esempio di seguito, una configurazione completa con 3 torri. Nella seconda, una configurazione non completa utilizzando 3 torri.
+> 
+> a) Qual è il numero minimo di cavalieri necessario per realizzare una configurazione completa su una tavola $3 \times 3$ utilizzando solo cavalieri? Ricordate di mostrare un esempio con questo numero minimo di cavalieri e di dimostrare che non esiste una configurazione completa con meno cavalieri.
+> 
+> b) Quante diverse configurazioni complete esistono su una tavola $3 \times 3$ che utilizza esattamente una torre e due cavalieri? Le configurazioni ottenute tra loro mediante rotazioni o riflessioni sono considerate diverse. Per esempio, le quattro configurazioni riportate di seguito sono tutte considerate diverse.
+
+![[src_obm_2024_n1_fx__Q02.png]]
+
+[[src_obm_2024_n1_fx__Q02]]

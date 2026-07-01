@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q18
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -43,6 +44,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri sulle facce di un dado da gioco magico con vincoli di somma e parità*
 
@@ -63,3 +66,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers on the faces of a magic dice with sum and parity constraints*
+
+> The magic of the game. It represents the patron (development) of a dice in the figure, where each face is represented by its points. We want to write 21 positive integers all different from each other on $21$ white dots (one number per point) so that: - no face contains two consecutive numbers; - the face containing $3$ numbers (the $3$ points) contains only even numbers; - the four-point face contains $4$, the five-point face contains $5$ and the six-point face contains $6$; - the sum of the numbers written on each of the six faces is always the same and is minimal. What are the numbers written on the faces with two, three, four and five points? On the answer sheet, the numbers written on each of the four faces must be written in increasing order.
+
+![[src_bocconi_finaleint_2009_g2__Q18.png]]
+
+**Answer:** 4 soluzioni: $(18;25)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(18;25)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$; $(20;23)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(20;23)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$
+[[src_bocconi_finaleint_2009_g2__Q18]]

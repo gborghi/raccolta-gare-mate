@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q18
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer N with 2025 digits, first digit 3; every two consecutive digits form a multiple of 17 or 23; find units digit.*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero intero positivo N con 2025 cifre, prima cifra 3; ogni due cifre consecutive formano un moltiplo di 17 o 23; trova la cifra unità.*
+
+> Il numero intero positivo $N$ ha 2025 cifre. La prima cifra è 3. Ogni due cifre consecutive di $N$ costituiscono un numero a due cifre divisibile per 17 o 23. La cifra unità di $N$ può essere $p$ o $q$. Che cos'è < MSK5/>?
+>
+> - **(A)** 3
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 10
+
+**Risposta:** C
+[[src_smc_2025__Q18]]

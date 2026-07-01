@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1998 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1998__Q03
 parent: src_inmo_1998
 competition: Indian National Mathematical Olympiad 1998
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility by 5 for a polynomial evaluated at an integer*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uAxelJ4GAxypZpM2ox-8kZZSTZuFphZT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità per 5 per un polinomio valutato a un intero*
+
+> $p, q, r, s$ siano quattro integri con $5 \mid s$. Se vi è un intero $a$ per il quale $pa^2 + qa + r$ è divisibile per 5, dimostrare che vi è un intero $b$ tale che $sb^2 + rb + q$ sia anche divisibile per 5.
+
+[[src_inmo_1998__Q03]]

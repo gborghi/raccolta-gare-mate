@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q01
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divide a power tower by 4 to a power.*
 
@@ -52,3 +55,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dividere una torre di potenza per 4 a potenza.*
+
+> Dividendo il numero $4^{(4^4)}$ per $4^4$ otteniamo il numero:
+>
+> - **(A)** $2$
+> - **(B)** $4^4$
+> - **(C)** $4^8$
+> - **(D)** $4^{48}$
+> - **(E)** $4^{52}$
+
+**Risposta:** E
+[[src_obm_2010_n3_f1__Q01]]

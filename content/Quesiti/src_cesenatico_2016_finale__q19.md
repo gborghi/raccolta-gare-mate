@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q19
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma n<1000 con rotazioni cicliche multiple di n*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1630
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum n<1000 with multiple cyclic rotations of n*
+
+> Hard to see, the properties of n are on the swampy Dagoldbach planet, Master Yoneda is training Luke Randomwalker. To sharpen his mind, Yoneda questions Luke about the properties of a certain positive integer n. The learner notes that for any number of five digits abcde multiple of n (a, b, c, d, and represent the digits of the number and a is different from zero), also eabcd, deabc, cdeab and bcdea are multiples of n. What is the sum of all the n < 1000 that have this condition?
+
+**Answer:** 1630
+[[src_cesenatico_2016_finale__Q19]]

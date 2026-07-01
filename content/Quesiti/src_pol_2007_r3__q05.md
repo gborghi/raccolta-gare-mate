@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r3__Q05
 parent: src_pol_2007_r3
 competition: Olimpiade Matematica Polacca 2007 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedron with two equalities of summed face angles; prove circumsphere center lies on the line through midpoints of AB and CD.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro con due ugualità di angoli facciali sommati; prova che il centro della circumsfera si trova sulla linea attraverso i punti di mezzo di AB e CD.*
+
+> Un tetraedro $ABCD$ è tale che $$\angle BAC + \angle BDC = \angle ABD + \angle ACD,$$ $$\angle BAD + \angle BCD = \angle ABC + \angle ADC.$$ dimostri che il centro della sfera circoscritta del tetraedro si trova sulla linea che attraversa i punti medi di $AB$ e $CD$.
+
+[[src_pol_2007_r3__Q05]]

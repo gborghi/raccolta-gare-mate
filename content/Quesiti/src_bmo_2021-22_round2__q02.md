@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2021-22 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2021-22_round2__Q02
 parent: src_bmo_2021-22_round2
 competition: British Mathematical Olympiad 2021-22 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions satisfying 2yf(f(y)+x)=f(x+1)f(2y)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni che soddisfano 2yf(f(y) +x) =f(x+1) f(2y) *
+
+> Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y\, f(f(y) + x) = f(x+1)\, f(2y).$$
+
+[[src_bmo_2021-22_round2__Q02]]

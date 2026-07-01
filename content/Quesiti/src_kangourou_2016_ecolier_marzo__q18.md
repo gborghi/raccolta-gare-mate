@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q18
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma possibile eta quattro fratelli, tre gemelli*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>A possible total of four siblings, three twins < MSK1/>
+
+> Today is the birthday of four brothers: Dado, Dido and Dodo are twins, while Bobo is three years older. Which of the following numbers can be the sum of the ages of the four brothers? A) 25
+> 	
+> B) 27
+> 	
+> C) 29
+> 	
+> D) 30
+> 	
+> E) 60
+
+**Answer:** B
+[[src_kangourou_2016_ecolier_marzo__Q18]]

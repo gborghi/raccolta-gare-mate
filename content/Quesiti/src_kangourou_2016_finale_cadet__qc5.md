@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Cadet — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC5
 parent: src_kangourou_2016_finale_cadet
 competition: Kangourou 2016 finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *distanza CD*
 
@@ -52,3 +55,31 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of units in the unit.
+
+![[src_kangourou_2016_finale_cadet__probC5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) -- (4,0);
+  \draw[thick] (2,0) arc (0:180:2);
+  \fill[red] (0.268,1.0) circle (2pt);
+  \node[left] at (0.268,1.0) {B};
+  \fill[red] (1.316,1.880) circle (2pt);
+  \node[above] at (1.316,1.880) {C};
+  \node[below left] at (0,0) {A};
+  \node[below right] at (4,0) {D};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you can see a semicircumference of < MSK0/> diameter. The $A$ and $D$ points are the extremes, the $B$ and $C$ points are two other points of the semicircular that are separated from $2$ respectively from $A$ and $B$ points. What is the distance between $C$ and $D$? (see figure)
+
+**Answer:** 7
+[[src_kangourou_2016_finale_cadet__QC5]]

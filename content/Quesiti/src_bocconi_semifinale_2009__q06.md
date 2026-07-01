@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q06
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Saltare su un cubo da faccia a faccia adiacente*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Jump on a cube from face to face adjacent< MSK1/>
+
+> The fleas, you know, they jump. Our Mimmy fleas, starting from D, want to get to A. Its characteristic is that it jumps from the center of a face of a cube to that of an adjacent face without ever passing through the same face twice. Besides, Mimi never passes through a face not visible in the drawing.
+> 
+> How many ways can Mimi jump from D to A?
+
+![[src_bocconi_semifinale_2009__Q06.png]]
+
+**Answer:** 12
+[[src_bocconi_semifinale_2009__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q20
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Deduce in which box the coin is, given placement clues*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ridurre in quale casella si trova la moneta, dati indizi di posizionamento*
+
+> Su un tavolo ci sono tre scatole e tre oggetti, uno in ciascuna scatola: una moneta, un timbro e un cancelliere. È noto che: \begin{itemize} \item La scatola verde è a sinistra della scatola blu; \item La moneta è a sinistra dell'asciugatrice; \item La scatola rossa è a destra del timbro; \item La scatola rossa è a destra della scatola rossa. In quale scatola c'è la moneta?
+> 
+> (A) Nella scatola rossa. Quad (B) nella scatola verde. Quad (C) nella scatola blu. Quad (D) Le informazioni fornite non sono sufficienti per dare una risposta. \quad (E) Le informazioni fornite sono contraddittorie.
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q20]]

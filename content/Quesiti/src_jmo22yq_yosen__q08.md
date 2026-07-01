@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q08
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count sequences starting at 2012, ending at 1, each term less than sqrt of previous*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 201
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze di conteggio a partire dal 2012, che terminano a 1, ogni termine inferiore al quadrato del precedente*
+
+> In quanti modi si può scrivere una sequenza di numeri interi positivi che soddisfano la seguente condizione?
+> 
+> Condizione: il primo numero scritto è $2012$ e l'ultimo numero scritto è $1$. Dopo aver scritto un numero $n$, il numero successivo scritto è un intero positivo inferiore a $\sqrt{n}$.
+
+**Risposta:** 201
+[[src_jmo22yq_yosen__Q08]]

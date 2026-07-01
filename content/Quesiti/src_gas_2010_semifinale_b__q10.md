@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q10
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimi dobloni per pirata con divisione esatta e +13*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1144
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum double per pirate with exact division and +13*
+
+> The true pearl has got its hands on a fabulous loot of no more than 100,000 doubles. Jack realizes that he can exactly divide the spoil between the MSK0/>-rates of the swarm. But suddenly Master Gibbs comes and says, "Captain, we lost a man". Jack shows up in pain for just a moment, but then rolls his shoulders, shakes his smiling hat and informs the MSK1/>-rat of the swarm that the exact division of the loot is still possible, and each one will thus have exactly 13 more doubles. How many doubles can be reached at each MSK2/> rate at the most?
+> 
+> Team competition 2010  Semifinal B  Problem tests 3/3
+
+**Answer:** 1144
+[[src_gas_2010_semifinale_b__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q07
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri possibili fra 9 km su contachilometri (cifre 1,2)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible numbers within 9 km on contacylometers (figures 1.2) *
+
+> Mark's car The meter in Mark's car has six digits. Marco is driving and notices that at this time on his meter a number is only numbered 1 and 2 and that the number that will appear in 9 kilometres will still be numbered 1 and 2. How many numbers could show up within 9 kilometers?
+
+**Answer:** 16
+[[src_kangourou_2011_squadre_finale__Q07]]

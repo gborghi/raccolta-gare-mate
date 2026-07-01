@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q21
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza rampicante avvolta 5 volte attorno al paletto*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rolling length wrapped 5 times around the pallet< MSK1/>
+
+![[src_kangourou_2016_junior_marzo__prob21.png]]
+
+> A rattlesnake wrapped itself exactly five times around a 12-foot-tall, 15-inch-wide pole, as shown in the figure. During its growth the increase in its height has been constant over time. How long is the plant? A) 0,75 B) 1,0
+> 	
+> C) 1,25 D) 1,5 E) 1,75
+
+**Answer:** C
+[[src_kangourou_2016_junior_marzo__Q21]]

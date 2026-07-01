@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q01
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di parti quadrate e rettangolari del cartone*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of square and rectangular parts of cardboard*
+
+> Deborah wants to divide the cartoon of the figure into many square and rectangular parts. How much do you get at least?
+
+![[src_bocconi_autunno_2011__Q01.png]]
+
+**Answer:** 4
+[[src_bocconi_autunno_2011__Q01]]

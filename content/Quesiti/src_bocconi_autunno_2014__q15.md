@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q15
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quarto termine della progressione geometrica di Jacopo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $a_4 = 128$, con $a = 126$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quarter of the geometric progression of Jacopo*
+
+> The first three terms of the geometric progression written by Jacopo are: $a$, $a+6$, $a+30$. What will be the fourth term of Jacob's progression? (Remember that the terms $a_1, a_2, \ldots, a_n$ constitute a geometric progression when the ratio between each term and the previous one is always equal (constant).
+
+**Answer:** $a_4 = 128$, con $a = 126$
+[[src_bocconi_autunno_2014__Q15]]

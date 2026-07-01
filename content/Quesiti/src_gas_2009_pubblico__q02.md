@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q02
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media aritmetica dei numeri in rettangolo di tavola pitagorica*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1053
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arithmetic mean of the numbers in the rectangle of the Pythagorean table*
+
+> Pythagorean Rectangle [15] El-Romb is patiently compiling a 10000 × 10000 Pythagorean table. Bobo goes over there and traces the edge of a rectangle of 5×53 boxes that has 1001 on two opposite corners and wonders what the arithmetic mean of all the numbers in the rectangle is. Can you answer that?
+
+**Answer:** 1053
+[[src_gas_2009_pubblico__Q02]]

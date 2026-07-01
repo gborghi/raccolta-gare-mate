@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q28
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie formate da due furfanti*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs made up of two thieves*
+
+> There are 21 knights living in a city who always tell the truth and 2,000 crooks who always lie. With these 2021 people, one pollster composed 1010 couples, excluding one person. Then, in each couple, each person had to tell if the other was a knight or a con man. In this survey, 2,000 people were declared knights and 20 people were declared crooks. How many couples were made up of two crooks? A) 980 B) 985 C) 990 D) 995 E) 1000
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f3__Q03
 parent: src_obm_1999_n1_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Citizen exiled between cities; can he return to city A?*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cittadini esiliati tra città; può ritornare nella città A?*
+
+> Un regno è composto da dieci città. Un cittadino che si comporta male viene esiliato dalla città $A$ alla città $B$, dove $B$ è la città del regno più lontana da $A$. Dopo un po' di tempo, viene espulso dalla città $B$ alla città $C$, la città del regno più lontana da $B$. È noto che la città $C$ non è la stessa città $A$.
+> 
+> **Nota: ** Le distanze tra tutte le città sono diverse.
+> 
+> Se continua a essere esiliato in questo modo, è possibile che ritorni in città?
+
+[[src_obm_1999_n1_f3__Q03]]

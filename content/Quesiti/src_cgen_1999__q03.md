@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1999 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1999__Q03
 parent: src_cgen_1999
 competition: Concours Général des Lycées 1999 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle maximizing ratio of shortest side to inradius*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo acuto massimizzando il rapporto lato più breve a raggio < MSK1/>
+
+> Per quali triangoli a angolo acuto il rapporto tra lato più corto e raggio del cerchio inciso è maggiore?
+
+[[src_cgen_1999__Q03]]

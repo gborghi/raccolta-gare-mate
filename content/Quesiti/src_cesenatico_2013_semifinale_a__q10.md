@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q10
 parent: src_cesenatico_2013_semifinale_a
 competition: Gara a Squadre Cesenatico 2013 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 2 carte >=14 (mazzo)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0377
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability sum of 2 cards >=14 (scorched) < MSK1/>
+
+> The cards are hitting the head CuboQuadro stole the Cubo compass! To solve the problem, as they usually do, each one of them takes two cards from the same deck of 52 and adds up their values. CuboQuadro, which has caught a 6 and an 8, will only return the bad catch if the sum of the values of the two cards of the brother is greater than or equal to the sum of his own, i.e. 14. What is the probability that this will happen? Indicate the sum of the numerator and denominator of the probability expressed as a fraction reduced to the minimum terms. The deck is composed of four sets of 13 cards each, each of a value of 1,2,...13.
+
+**Answer:** 0377
+[[src_cesenatico_2013_semifinale_a__Q10]]

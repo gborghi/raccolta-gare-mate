@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q15
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni in un anno (feste di non-compleanno)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0771
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Days in a year (holidays other than birthdays) < MSK1/>
+
+> A good non-complete to you! During the tea, Root is made aware of a strange custom: in the Field of Mateviglie it is used to celebrate their non-birthdays: any day other than their birthday is a non-birthday. There are various non-birthday parties every day. Each party is attended by exactly 140 celebrants (i.e. people who celebrate a non-birthday on that day) and 6 guests (i.e. people who do not celebrate a non-birthday on that day). Each inhabitant of the Campo delle Mateviglie, on the day of his or her birthday, participates (as invited) in exactly 33 parties; on all other days, instead, participates (as celebrated) in exactly one party. In the Matteviglie field, the years all last the same number of days, but it is different from 365. Knowing that the inhabitants of the Matteviglie Camp are in limited numbers, how many days are there in a year?
+
+**Answer:** 0771
+[[src_cesenatico_2013_finale__Q15]]

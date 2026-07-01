@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q09
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centesimi per ogni spilla dato risparmio*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0081
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cents for each spinning spindle< MSK1/>
+
+> The organiser of a small soccer tournament, with teams of 7 players each, had decided to give each of the players of each team a souvenir spike for the cost of 1 euro. When he went to buy the pens, he found that their price had dropped by more than 10% in the meantime, saving a total of 6 euros 65 cents. How many cents did you pay each broom?
+
+**Answer:** 0081
+[[src_kangourou_2024_kangourou_squadre__Q09]]

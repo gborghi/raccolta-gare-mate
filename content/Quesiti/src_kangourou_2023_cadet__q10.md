@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q10
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero nella casella per somme uguali*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number in the box for equal sums*
+
+![[src_kangourou_2023_cadet__prob10.png]]
+
+> In each of the grid boxes here next to Eva wants to write a different integer chosen from 1 to 8. He has already entered three: what number must he write in the shadow box if he wants the two sums of the numbers in the two rows to be equal and the four sums of the numbers in the four columns to be equal? A) 1
+> 	
+> B) 2
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2023_cadet__Q10]]

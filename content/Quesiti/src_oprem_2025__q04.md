@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2025 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2025__Q04
 parent: src_oprem_2025
 competition: Olympiades Nationales de Mathématiques (Première) 2025
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max tilt angle of a hemispherical glass filled to half its height*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'angolo massimo di inclinazione di un vetro emisfero riempito alla metà della sua altezza< MSK1/>
+
+> **Esercizio 1 - Per tutti i candidati**
+> 
+> **4. O meglio, un po'.** Un vetro è formato da un emisfero (representato di fronte in sezione trasversale da un semicircolo per il disegno). Il vetro è riempito fino alla metà della sua altezza < MSK0/>. Qual è l'angolo massimo di inclinazione a cui si può inclinare il vetro senza versare il liquido?
+
+![[src_oprem_2025__Q04.png]]
+
+[[src_oprem_2025__Q04]]

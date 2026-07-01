@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q19
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza di E dal lato BC in trapezio rettangolo*
 
@@ -71,3 +74,41 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance of E from side BC in rectangular trapezoid*
+
+![[src_kangourou_2023_student__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,0);
+  \coordinate (C) at (4,3);
+  \coordinate (D) at (3,3);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw (A) -- (C);
+  \draw (B) -- (D);
+  \coordinate (E) at (3.2,2.4);
+  \fill (E) circle (1.5pt);
+  \node[left] at (E) {$E$};
+  \draw[dashed] (E) -- (4,2.4);
+  \node[above] at (3.6,2.4) {$d$};
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows an ABCD rectangular trapezoid whose base AB measures 120 and whose base CD measures 30. Both E and the point where the diagonals intersect. What 's the distance of E to the BC side ? A) 22
+> 	
+> (B) 23 C) 24 D) 25 E) Measurement depends on the distance between the bases
+
+**Answer:** C
+[[src_kangourou_2023_student__Q19]]

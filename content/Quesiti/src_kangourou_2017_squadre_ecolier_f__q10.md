@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q10
 parent: src_kangourou_2017_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore numero pescato da Martina (somma vincolata)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 200
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most number of fish caught by Martina (linked sum) *
+
+> Martina Martina's tickets put eight tickets in a bag on each of which she wrote one of the numbers 40, 80, 100, 101, 190, 200, 260 and 292 without repeating numbers already written. Then he pulled four tickets out of his bag and observed that the sum of the numbers on the remaining tickets is exactly twice the sum of the numbers on the tickets he caught. What's the biggest number Martina caught?
+
+**Answer:** 200
+[[src_kangourou_2017_squadre_ecolier_f__Q10]]

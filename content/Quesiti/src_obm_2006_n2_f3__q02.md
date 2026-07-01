@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f3__Q02
 parent: src_obm_2006_n2_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max collinear vertices in a 12-sided polygon*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Vincenti collineari massimi in un poligono a 12 lati*
+
+> Tra tutti i poligoni con 5 lati, il numero massimo di vertici collineari (cioè appartenenti a una singola linea) è di tre, come mostrato di seguito.
+> 
+> Qual è il numero massimo di vertici collineari che un poligono con 12 lati può avere?
+> 
+> **Attenzione:** dopo aver disegnato un 12-gon con il numero massimo di vertici collineari, ricorda di mostrare che nessun altro 12-gon ha più vertici collineari del tuo.
+
+![[src_obm_2006_n2_f3__Q02.png]]
+
+[[src_obm_2006_n2_f3__Q02]]

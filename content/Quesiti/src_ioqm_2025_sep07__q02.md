@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q02
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -33,6 +34,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers ≤100 divisible by 3 but not 2*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi ≤100 divisibili per 3 ma non per 2*
+
+> Trova il numero di interi positivi $n$ inferiori o uguali a 100, divisibili per 3 ma non divisibili per 2.
+
+**Risposta:** 17
+[[src_ioqm_2025_sep07__Q02]]

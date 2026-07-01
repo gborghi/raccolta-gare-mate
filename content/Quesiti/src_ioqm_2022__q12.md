@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q12
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with angles 60 and 30, isosceles trapezium BPQR inside, find minimum area ratio*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 03
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo con angoli 60 e 30, trapezio BPQR interno, ritrovare il rapporto di superficie minimo < MSK1/>
+
+> Dato che $\triangle ABC$ con $\angle B = 60^\circ$ e $\angle C = 30^\circ$, $P, Q, R$ devono essere punti sui lati $BA$, $AC$ e $CB$ rispettivamente in modo tale che $BPQR$ sia un trapezio di trapezium con $PQ \parallel BR$ e $BP = QR$. Trova il valore minimo possibile di $\frac{[ABC]}{[BPQR]}$, dove $[S]$ indica l'area di qualsiasi poligono $S$.
+
+**Risposta:** 03
+[[src_ioqm_2022__Q12]]

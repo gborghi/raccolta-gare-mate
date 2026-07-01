@@ -1,6 +1,7 @@
 ---
 title: IMO 1985 (XXVI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1985__Q05
 parent: src_imho_1985
 competition: IMO 1985 (XXVI International Mathematical Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circle through vertices A and C meets sides AB and BC at K and N*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circle through vertices A and C meets sides AB and BC at K and N*
+
+> A circle with center $O$ passes through the vertices $A$ and $C$ of triangle $ABC$ and intersects the segments $AB$ and $BC$ again at distinct points $K$ and $N$, respectively. The circumscribed circles of the triangles $ABC$ and $KBN$ intersect at exactly two distinct points $B$ and $M$. Prove that angle is a right angle.
+
+[[src_imho_1985__Q05]]

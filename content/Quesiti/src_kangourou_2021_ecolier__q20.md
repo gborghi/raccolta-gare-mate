@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q20
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Palloncino certamente colpito per totalizzare 30*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Balloon certainly hit to total 30
+
+![[src_kangourou_2021_ecolier__prob20.png]]
+
+> Mine throws a series of arrows at five balloons. When you hit one, you get the score you think you're getting. If at the end of the game you've scored 30 points, which balloon did Mia hit? A) 3
+> 	
+> B) 9
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 18
+
+**Answer:** A
+[[src_kangourou_2021_ecolier__Q20]]

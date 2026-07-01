@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q03
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine di estrazione chiavi di Padre Benedetto*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 83142675
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Order to extract keys from Father Benedict
+
+> Father Benedict put his keys in a box. When the end of a key enters the screwdriver of another key, the latter is locked and cannot be removed from the box. For example, to extract key 7, you need to first extract key 6 that blocks it. Instead, key 2 goes over key 3 and doesn't block it. Similarly, key 6 passes over key 8 and does not block it. If Father Benedict wants all his keys back, in what order should he take them out of the box?
+
+![[src_bocconi_finaleint_2011_g1__Q03.png]]
+
+**Answer:** 83142675
+[[src_bocconi_finaleint_2011_g1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q08
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Next term of oscillating sequence 1,2,3,4,5,4,3,2,1,2,3,4,5,...*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il termine successivo della sequenza oscillante 1,2,3,4,5,4,3,2,1,2,3,4,5,...*
+
+> Considera la sequenza oscillante: $1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, \ldots$ Il termine $2003^\text{rd}$ di questa sequenza è:
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+
+**Risposta:** C
+[[src_obm_2003_n1_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q03
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei 5 numeri dati sono multipli di 10*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many of the 5 numbers given are multiples of 10*
+
+> (Points 3) How many of the following five integers a = 2100 + 2102, b = 3100 + 3102, c = 5100 - 599, d = 399 + 799, and = 398 + 1 are multiples of 10? (A) One only (B) Two
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> (E) All
+
+**Answer:** E
+[[src_kangourou_2019_junior_semifinale__Q03]]

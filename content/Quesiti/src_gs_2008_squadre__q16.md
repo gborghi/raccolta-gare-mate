@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q16
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area circonferenze inscritte fra vialetti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7735
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of enclosures inscribed between avenues*
+
+> Tadfield's public garden is bounded by two alleys that move away from the entrance forming an angle of $60^\circ$ between them. Within the garden there are 3 circular ponds, one of which is tangent to the other two; each avenue passes tangentially to each pond. The first pond occupies an area of < MSK1/>.
+> 
+> What is the area occupied by the three ponds in < MSK0/>?
+
+**Answer:** 7735
+[[src_gs_2008_squadre__Q16]]

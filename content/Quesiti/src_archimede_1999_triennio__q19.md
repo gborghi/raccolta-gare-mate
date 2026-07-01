@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q19
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi disporre 3 ragazzi e 3 ragazze*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many ways to have 3 boys and 3 girls
+
+> How many ways can you arrange three boys and three girls for a group photo, placing the three boys squatting and the three girls standing behind them?
+>
+> - **(A)** 9
+> - **(B)** 24
+> - **(C)** 36
+> - **(D)** 54
+> - **(E)** 81.
+
+**Answer:** C
+[[src_archimede_1999_triennio__Q19]]

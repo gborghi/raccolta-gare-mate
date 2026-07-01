@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q06
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum buses needed so each bus carries equal students*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di autobus necessari in modo che ogni autobus porti studenti uguali*
+
+> Gli studenti di una scuola andarono in un viaggio per il quale furono affittati due autobus. Gli studenti < MSK0/> sono arrivati alla prima fermata dell'autobus e < MSK1/> al secondo. Quanti studenti devono spostarsi dal primo autobus al secondo in modo che ogni autobus porti lo stesso numero di studenti?
+> 
+> (A) $8$ \quad (B) $13$ \quad (C) $16$ \quad (D) $26$ \quad (E) $31$
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q06]]

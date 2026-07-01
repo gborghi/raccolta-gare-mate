@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q03
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grasshopper jumping along a line, reach point 5m from A*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grasshopper che salta lungo una linea, raggiunge il punto 5m da A*
+
+> Un agaro è esattamente 1 metro sopra il punto $A$ su una linea. Si trova al punto $A$ e vuole raggiungere il punto $B$ sulla stessa linea, in modo che $B$ sia a 5 metri di distanza da $A$, saltando esattamente 9 passi. In quanti modi può farlo?
+> 
+> A) 16 \quad B) 18 \quad C) 24 \quad D) 36 \quad E) 48
+
+**Risposta:** D
+[[src_obm_1999_n3_f1__Q03]]

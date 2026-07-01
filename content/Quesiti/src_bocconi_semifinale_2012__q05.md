@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q05
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare il numero pensato sapendo che dopo varie operazioni si ottiene 1.000.000.*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 312
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the expected number knowing that after several operations you get 1,000,000.*
+
+> I found a million!
+> 
+> Peter thinks of a number, multiplies it by 3, adds 792 to the result and then divides the number by 144 (obtaining an exact result, with no remainder). Then you subtract 2 from this last result and then you multiply by 100,000 the last number you get. Find exactly 1,000,000.
+> 
+> What was the number originally conceived by Peter?
+
+**Answer:** 312
+[[src_bocconi_semifinale_2012__Q05]]

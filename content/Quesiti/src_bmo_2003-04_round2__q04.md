@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2003-04 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2003-04_round2__Q04
 parent: src_bmo_2003-04_round2
 competition: British Mathematical Olympiad 2003-04 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bounded number of distinct digit blocks implies rationality*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un numero limitato di blocchi di cifre distinte implica razionalità*
+
+> Il numero reale $x$ tra $0$ e $1$ ha la rappresentazione decimale $$0.a_1 a_2 a_3 a_4 \ldots$$ con la seguente proprietà: il numero di blocchi $distinct$ della forma $$a_k a_{k+1} a_{k+2} \ldots a_{k+2003},$$ come $k$ si estende attraverso tutti i numeri interi positivi, è inferiore o uguale a $2004$.
+> 
+> Provare che $x$ è razionale.
+
+[[src_bmo_2003-04_round2__Q04]]

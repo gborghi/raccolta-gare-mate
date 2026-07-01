@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q07
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility-by-7 trick: count multiples via doubling last digit; find concatenated number*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tricco di divisibilità per 7: contare i moltipli attraverso il raddoppio dell'ultima cifra; trovare il numero concatenato*
+
+> Dalvenibon (un altro alias di studente $D$) ha trovato un amico per insegnargli un trucco per controllare la divisibilità per 7: cancellare la cifra di unità del numero e sottrarre due volte quella cifra dal numero rimanente. Per esempio, per 1001: rimuovere l'ultimo numero 1, e calcolare $100 - 2\cdot 1 = 98$, che è un multiple di 7. Ripetizione, $9 - 2\cdot 8 = 9 - 16 = -7$, multiplo di 7. Questo conferma che 1001 è un multiple di 7. Allo stesso modo 98: $9 - 2\cdot 8 = -7$, un multiple di 7. Usando questo metodo per elencare tutti i multipli positivi di 7 meno di 100 in ordine crescente e concatenandoli, qual è il numero risultante?
+> 
+> (A) 102112 \quad (B) 270280 \quad (C) 833823 \quad (D) 929925 \quad (E) 923823
+
+**Risposta:** E
+[[src_obm_2013_n2_f1__Q07]]

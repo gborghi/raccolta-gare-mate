@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q03
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale immagine scambia bianchi e grigi del quadrato*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which image exchanges the white and gray of the square*
+
+![[src_kangourou_2020_benjamin_marzo__prob3.png]]
+
+> The square in the figure consists of white and gray squares. Which of the following pictures is the same square where the white squares were exchanged for the gray squares? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D) E)
+
+**Answer:** D
+[[src_kangourou_2020_benjamin_marzo__Q03]]

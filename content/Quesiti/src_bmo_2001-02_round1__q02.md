@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2001-02_round1__Q02
 parent: src_bmo_2001-02_round1
 competition: British Mathematical Olympiad 2001-02 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral, equal lengths CD=CP=DQ; prove angle CAD=40°*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale ciclico, lunghezze uguali CD=CP=DQ; prova angolo CAD=40°*
+
+> Il quadrilaterale $ABCD$ è inserito in un cerchio. Le diagonali $AC$, $BD$ si incontrano a $P$. I lati $DA$, estesi oltre $A$, e $CB$, estesi oltre $B$, si incontrano a $Q$. Dato che $CD = CP = DQ$, dimostrare che $\angle CAD = 40^\circ$.
+
+[[src_bmo_2001-02_round1__Q02]]

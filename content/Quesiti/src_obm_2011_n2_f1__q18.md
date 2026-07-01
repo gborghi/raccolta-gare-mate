@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q18
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum problems answered scoring +4/-1/0 for total 52 over 24*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Problemi massimi risposti punteggiando +4/-1/0 per un totale di 52 su 24< MSK1/>
+
+> In un test di scelta multipla con problemi $24$, ciascuno di essi può essere risposto ottenendo uno dei seguenti punteggi: $4$ punti se la risposta è corretta, $-1$ punti se la risposta è errata e $0$ punti se la risposta è lasciata in bianco. Sapendo che uno studente ha ricevuto esattamente $52$ punti, quale è il numero massimo di problemi che avrebbe potuto rispondere?
+> 
+> (A) $14$ \quad (B) $15$ \quad (C) $16$ \quad (D) $17$ \quad (E) $18$
+
+[[src_obm_2011_n2_f1__Q18]]

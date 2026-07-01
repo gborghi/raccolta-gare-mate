@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q10
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione tratteggiata con corde uguali al raggio*
 
@@ -66,3 +69,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region drawn with strings equal to the radius*
+
+![[src_kangourou_2017_junior_semifinale__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \draw (0,0) circle (2);
+  \draw (-2,0) -- (2,0);
+  \coordinate (A) at (-2,0);
+  \coordinate (B) at (2,0);
+  \coordinate (D) at (1,1.732);
+  \coordinate (C) at (1,-1.732);
+  \begin{scope}
+    \clip (D) -- (B) -- (C) -- (1.95,-1.80) arc(-62.5:62.5:2) -- cycle;
+    \foreach \y in {-1.9,-1.7,...,1.9}
+      \draw[thin] (-0.5,\y) -- (2.5,\y);
+  \end{scope}
+  \draw (D) -- (B) -- (C);
+  \draw (D) arc(60:-60:2);
+  \node[left] at (A) {$A$};
+  \node[right] at (B) {$B$};
+  \node[above right] at (D) {$D$};
+  \node[below right] at (C) {$C$};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 6) In the figure you see a circle of area 600. AB is a diameter and the DB and BC strings are as long as the radius. What is the value of the area in question?
+
+**Answer:** 0100
+[[src_kangourou_2017_junior_semifinale__Q10]]

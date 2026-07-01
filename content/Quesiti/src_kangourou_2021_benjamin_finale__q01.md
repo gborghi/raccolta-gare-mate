@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q01
 parent: src_kangourou_2021_benjamin_finale
 competition: Kangourou 2021 Benjamin - finale
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti per riempire il primo recipiente di amebe*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 189
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes to fill the first container of amoeba< MSK1/>
+
+> The amoeba are protozoa that reproduce in three minutes, that is, every three minutes each amoeba generates another identical one. No amoeba dies as long as it has room to reproduce. Two vessels of equal capacity initially contain one amoeba, the second eight amoeba. The second container is filled with amoeba after exactly three hours. How many minutes does it take to fill the first container?
+
+**Answer:** 189
+[[src_kangourou_2021_benjamin_finale__Q01]]

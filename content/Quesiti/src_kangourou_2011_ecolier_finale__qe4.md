@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE4
 parent: src_kangourou_2011_ecolier_finale
 competition: Kangourou 2011 Finale Ecolier (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di problemi per cinque categorie*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of problems for five categories*
+
+> In the Mirabilandia final, six problems are proposed for each of the five categories, one for each of the following scores: $5$, $7$, $11$, $14$, $18$ and $22$. Of course, in each category the six problems must all be different, but the same problem can be assigned to more than one category. Please note, however, that if a problem gives a certain score in a category and also appears in a higher category, it must give a lower score in the latter category. The organising committee wants to prepare as few problems as possible. What's this number?
+
+**Answer:** 10
+[[src_kangourou_2011_ecolier_finale__QE4]]

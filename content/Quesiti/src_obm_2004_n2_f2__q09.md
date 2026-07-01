@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f2__Q09
 parent: src_obm_2004_n2_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4-digit legal numbers defined by digit sum condition*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri giuridici a 4 cifre definiti con la condizione somma di cifre*
+
+> < MSK0/>Problema 4< MSK1/> (parte B)
+> 
+> Un numero a 4 cifre $\overline{abcd}$ è chiamato *legal* se la somma del numero formato dalle sue prime due cifre e il numero formato dalle sue ultime due cifre è uguale al numero formato dalle sue due cifre medie. In altre parole, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalentemente, $(10a + b) + (10c + d) = 10b + c$). Ad esempio, $2307$ è legale perché $23 + 07 = 30$.
+> 
+> (a) Qual è il numero legale più piccolo di < MSK0/>? (b) Quanti numeri legali di 4 cifre ci sono?
+
+[[src_obm_2004_n2_f2__Q09]]

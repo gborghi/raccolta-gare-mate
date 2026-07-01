@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE6
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti ciclisti almeno hanno mentito se somma e 36*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many cyclists have at least lied if sum and 36
+
+> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, obviously with a number between 1 and 10. The reporter sums up the answers you give him and gets 36. He concludes that some certainly lied - how many, at least?
+
+**Answer:** 3
+[[src_kangourou_2022_ecolier_finale__QE6]]

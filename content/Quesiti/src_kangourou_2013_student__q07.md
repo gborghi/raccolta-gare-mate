@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q07
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante affermazioni vere su x con 2<x<3*
 
@@ -49,3 +52,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many true statements on x with 2<x<3*
+
+> How many of the following inequalities are true for each number x such that 2 < x < 3?
+> 	
+> 4 < x2 < 9 4 < 2x < 9 6 < 3x < 9 0 < x2 – 2x < 3 A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+[[src_kangourou_2013_student__Q07]]

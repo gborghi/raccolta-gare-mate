@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q11
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Groups of 5th and 6th graders visiting a cave, find group size*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gruppi di studenti di quinto e sesto anno che visitano una grotta, trovare la dimensione del gruppo*
+
+> I bambini di $108$ e $6^{\text{th}}$ vogliono fare un viaggio in una grotta. Si formano gruppi uguali di più di $5$ ma meno di $20$ studenti. Quante diverse dimensioni di gruppo sono possibili?
+> 
+> (A) $2$ \quad (B) $8$ \quad (C) $5$ \quad (D) $4$ \quad (E) $3$
+
+**Risposta:** E
+[[src_obm_2004_n1_f1__Q11]]

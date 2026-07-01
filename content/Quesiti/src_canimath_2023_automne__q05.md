@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q05
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two equilateral triangles OAB, OAC of side 1; build equilateral OBD, OCE; points P, Q at unit distances; prove B, P, Q collinear*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare B, P, Q collineare*
+
+> I punti $A$, $B$, $C$ e $O$ siano quattro punti distinti in modo tale che i triangoli $OAB$ e $OAC$ siano equilaterali con il lato $1$. I punti $D$ e $E$ siano due punti distinti e diversi da $A$, in modo che anche i triangoli $OBD$ e $OCE$ siano equilaterali. Il punto $P$ deve essere il punto del segmento $[AD]$ in modo tale che $DP = 1$. Il punto $Q$ deve essere il punto del segmento $[AE]$ in modo tale che $AQ = 1$. Indicare che i punti $B$, $P$ e $Q$ sono collineari.
+
+[[src_canimath_2023_automne__Q05]]

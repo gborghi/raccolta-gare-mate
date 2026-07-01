@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2007 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2007__Q02
 parent: src_cn_ctst_2007
 competition: China National Team Selection Test 2007
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all good rational numbers x=p/q>1*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** all integers greater than 1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i numeri razionali buoni x=p/q>1*
+
+> Il numero razionale $x$ è chiamato "buono" se $x = \frac{p}{q} > 1$, dove $p$, $q$ sono integri positivi copriemi, e ci sono $a$ e $N$ in modo tale che per ogni intero $n \geq N$, $$|\{x^n\} - a| < \frac{1}{2(p+q)},$$ dove $\{a\} = a - [a]$, e $[a]$ è il numero intero più grande inferiore o uguale a $a$. Trova tutti i numeri razionali "buoni".
+
+**Risposta:** all integers greater than 1
+[[src_cn_ctst_2007__Q02]]

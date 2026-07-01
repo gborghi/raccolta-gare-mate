@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q04
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two urns, operations to empty both simultaneously*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Due urne, operazioni per svuotare entrambe contemporaneamente< MSK1/>
+
+> Ci sono due urne che contengono ciascuna un numero arbitrario di palle. Entrambi non sono vuoti per cominciare. Ci sono permessi due tipi di operazioni: (a) rimuovere simultaneamente un numero uguale di palle dalle urne, e (b) raddoppiare il numero di palle in una qualsiasi di esse.
+> 
+> Mostrate che dopo aver eseguito queste operazioni infinite volte, entrambe le urne possono essere svuotate.
+
+[[src_rmo_1991__Q04]]

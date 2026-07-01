@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q09
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove exponential lower bound for positive sequence with partial sum growth condition*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prove il limite inferiore esponenziale per la sequenza positiva con condizione di crescita parziale della somma< MSK1/>
+
+> (16 punti) Supponiamo che la sequenza dei numeri positivi $\{x_n\}$ soddisfi $S_n \ge 2S_{n-1}$, $n = 2, 3, \ldots$, dove $S_n = x_1 + \cdots + x_n$. Prova che esiste una costante $C > 0$, tale che $$x_n \ge C \cdot 2^n,\quad n = 1, 2, \ldots$$
+
+[[src_cn_cmc_2013__Q09]]

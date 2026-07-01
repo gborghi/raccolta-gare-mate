@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n1_fx__Q03
 parent: src_obm_2024_n1_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular octagon with midpoints and intersections, find segment lengths and squares*
 
@@ -58,3 +61,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Octogono regolare con punti medi e intersezioni, trovare lunghezze e quadrati del segmento*
+
+> Nella figura seguente, $ABCDEFGH$ è un ottagono regolare con lato di 6 cm. I punti $M$ e $N$ sono rispettivamente i punti intermedi di $AB$ e $CD$. Il punto $T$ è l'incrocio delle linee $AB$ e $CD$. In questo modo, $OMTN$ è un quadrato. Inoltre, le lunghezze di $BP$ e $CQ$ sono entrambe di 5 cm. È noto che un ottagono regolare ha angoli interni di $135^\circ$ e tutti i lati di uguale lunghezza.
+> 
+> a) Determinare la lunghezza del segmento < MSK0/>.
+> 
+> b) Determinare il quadrato della lunghezza del segmento $BT$, cioè $BT^2$.
+> 
+> c) Determinare il quadrato della lunghezza del segmento $PQ$, cioè $PQ^2$.
+> 
+> \emph{In questo problema, potresti voler usare il teorema di Pitagora: in un triangolo rettangolo con gambe $a$ e $b$ e ipotenusa $c$ (il lato opposto all'angolo $90^\circ$), la relazione $a^2 + b^2 = c^2$ si mantiene.}
+
+![[src_obm_2024_n1_fx__Q03.png]]
+
+[[src_obm_2024_n1_fx__Q03]]

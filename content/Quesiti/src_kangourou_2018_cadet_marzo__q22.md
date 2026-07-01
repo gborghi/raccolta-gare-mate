@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q22
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume della scatola dallo sviluppo piano*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Box volume from the development plan*
+
+![[src_kangourou_2018_cadet_marzo__prob22.png]]
+
+> The figure shows the flat development of a rectangular-based box and the sum of the measures, in centimetres, of some of its shoots. How many cubic centimeters does the volume of the box measure? A) 43
+> 	
+> B) 70
+> 	
+> C) 80 D) 100
+> 	
+> E) 1820
+
+**Answer:** C
+[[src_kangourou_2018_cadet_marzo__Q22]]

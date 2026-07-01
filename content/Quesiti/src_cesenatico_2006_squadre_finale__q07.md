@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q07
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di f^(2006)(11) iterando quadrato somma cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0169
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of f^(((11) by iterating square sum of digits < MSK1/>
+
+> 7. Magical power As even learned mathematicians know, the power of a spell is reinforced by repeating its formula. Calculating power, however, is not easy. Either f (n) the square of the sum of the digits of n. It is then $f^{(2)}$(n) = f(f(n)), $f^{(3)}$(n) = f(f(n))) and so on. Find $f^{(2006)}$(11).
+
+**Answer:** 0169
+[[src_cesenatico_2006_squadre_finale__Q07]]

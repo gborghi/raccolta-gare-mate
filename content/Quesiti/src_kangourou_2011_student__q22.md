@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q22
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante progressioni aritmetiche contengono entrambe*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many arithmetic progressions contain both *
+
+> Consider the two arithmetic progressions 5, 20, 35, and 35, 61, 87, ... How many different arithmetic progressions of positive integers do both contain? A) 0 B) 3 C) 5 D) 26 E) Infinite
+
+**Answer:** C
+[[src_kangourou_2011_student__Q22]]

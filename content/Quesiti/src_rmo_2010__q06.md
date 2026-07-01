@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2010 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2010__Q06
 parent: src_rmo_2010
 competition: Regional Mathematical Olympiad 2010
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count n in {1,...,2010} where floor(n/floor(sqrt(n))) equals floor((n+1)/floor(sqrt(n+1)))*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta n in {1,...,2010} dove il pavimento(n/pavimento(sqrt(n))) è uguale al pavimento(((n+1)/pavimento(sqrt(n+1)))*
+
+> Per ogni numero intero $n \ge 1$, definire $a_n = \left[\dfrac{n}{[\sqrt{n}]}\right]$, dove $[x]$ indica il numero intero più grande non superiore a $x$. Trova il numero di tutti $n$ nell'insieme $\{1, 2, 3, \ldots, 2010\}$ per il quale $a_n = a_{n+1}$.
+
+[[src_rmo_2010__Q06]]

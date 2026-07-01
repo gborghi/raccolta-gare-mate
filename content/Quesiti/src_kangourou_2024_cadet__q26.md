@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q26
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante uova ha comperato il cliente (gallina doppio piccione)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many eggs the customer has purchased (double pigeon chicken) < MSK1/>
+
+> Marianna brings chicken eggs and pigeon eggs to the market. He placed them, without distinction, in baskets containing 4, 6, 12, 13, 22 and 29 eggs. His first client buys all the eggs in a basket. Marianna observes that, in this way, she was left with twice as many chicken eggs as the number of pigeon eggs. How many eggs did the client buy? A) 4
+>  
+> B) 12
+>  
+> C) 13
+>  
+> D) 22
+>  
+> E) 29
+
+**Answer:** E
+[[src_kangourou_2024_cadet__Q26]]

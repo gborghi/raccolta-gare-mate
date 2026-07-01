@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q09
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Codici di 4 cifre con prodotto delle cifre 18*
 
@@ -43,3 +46,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four-digit codes with product of 18 digits *
+
+> Carlo forgot his phone's unlock code. All you remember is that the code is made up of four digits and the product of those digits is 18. How many possible codes meet these conditions?
+>
+> - **(A)** 32
+> - **(B)** 36
+> - **(C)** 40
+> - **(D)** 60
+> - **(E)** 24
+
+[[src_archimede_2015_biennio__Q09]]

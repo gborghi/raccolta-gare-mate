@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q15
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with a_{n+1}=a_{n+2}(a_{n+1}+a_n), given a_5=35 find a_4*
 
@@ -51,3 +54,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con a_{n+1}=a_{n+2}(a_{n+1}+a_n), data a_5=35 trovare a_4*
+
+> I termini $a_n$ di una sequenza di numeri interi positivi soddisfano la relazione $$a_{n+1} = a_{n+2}(a_{n+1} + a_n)\quad\text{for } n = 1, 2, 3, \ldots$$ Se $a_5 = 35$, cosa è $a_4$? (A) $1$ (B) $3$ (C) $5$ (D) $7$ (E) $9$
+
+[[src_obm_2005_n3_f1__Q15]]

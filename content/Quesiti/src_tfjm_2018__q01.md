@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2018__Q01
 parent: src_tfjm_2018
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018
@@ -37,6 +38,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting distinct jigsaw-puzzle pieces (unit squares with bumps/hollows on their sides) and characterizing singular puzzles that can be assembled in essentially one way.*
 
@@ -71,3 +74,29 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare pezzi di puzzle distinti (quadrati di unità con protuberanze / buche sui loro lati) e caratterizzare puzzle singoli che possono essere assemblati in un modo essenzialmente unico.*
+
+> Puzzli. Nicolas progetta pezzi di puzzle. I suoi pezzi sono quadrati di lato $1$ cm. Su ciascun lato di un pezzo può lasciare il lato dritto, aggiungere un bump o tagliare un buco. C'è una singola forma di buco (e quindi una singola forma complementare di bump). (Vedi la figura 1 per esempi di pezzi distinti: i pezzi a sinistra e al centro sono identici fino a una rotazione; i pezzi a centro e a destra sono identici fino a una rovescia, cioè una simmetria assiale.)
+> 
+> 1. Quanti pezzi distinti (vedi Figura 1) esistono se: a) non si permette di ruotare o volgere i pezzi; b) si permette di ruotare i pezzi ma non di volgere; c) si permette di ruotare e volgere i pezzi?
+> 
+> Un puzzle $m\times n$ è un puzzle che si può assemblare, fatto di pezzi $m\times n$, formando un rettangolo di lunghezza $m$ cm e larghezza $n$ cm (i pezzi vengono posizionati fianco a fianco, ogni urto corrispondente a un vuoto), in modo che i lati dritti si trovino esattamente sul bordo del rettangolo. Diciamo che un puzzle $m\times n$ è singolare se c'è essenzialmente solo un modo (fino a una simmetria del rettangolo) per assemblarlo, cioè Nessun scambio di pezzi produce la stessa disposizione.
+> 
+> 2. Per quali coppie di integri positivi $(m,n)$ si può: a) trovare un puzzle singolare $m\times n$; b) trovare un puzzle non singolare $m\times n$? In altre parole, quando un puzzle può non essere singolare, cioè contengono due pezzi identici? (Rifigura la domanda 2 se lo desideri.)
+> 
+> 3. Qual è il numero massimo di pezzi che un singolo puzzle può contenere?
+> 
+> 4. Rispondi alla domanda 2 se uno richiede che il puzzle sia singolare.
+> 
+> 5. Si deve fissare un numero intero $k\in\mathbb{N}^*$. Una ora consente $k$ forme di buco e molte forme corrispondenti di bump, ogni tipo di bump che si adatta solo al suo buco complementare. Riprendi le domande precedenti.
+> 
+> 6. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2018__Q01.png]]
+
+[[src_tfjm_2018__Q01]]

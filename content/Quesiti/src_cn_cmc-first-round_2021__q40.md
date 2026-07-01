@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 40
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q40
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-7: parabola y=ax^2-3x+3 and y^2=2px symmetric about y=x+m; find product apm.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-7: parabola y=ax^2-3x+3 e y^2=2px simmetrica circa y=x+m; trovare il prodotto apm.*
+
+> [Test Paper B, Problem 7] In un sistema di coordinate rettangolare piano $xOy$, il grafico della parabola $y=ax^2-3x+3\ (a\ne 0)$ e quello della parabola $y^2=2px\ (p>0)$ sono simmetrici rispetto alla linea $y=x+m$. Quindi il prodotto dei numeri reali $a,p,m$ è ______.
+
+**Risposta:** -3
+[[src_cn_cmc-first-round_2021__Q40]]

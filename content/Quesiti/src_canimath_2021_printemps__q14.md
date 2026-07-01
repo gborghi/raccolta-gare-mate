@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q14
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two parts: cevian-intersection inequality in a triangle; sum of distances in an isosceles trapezoid*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due parti: disuguaglianza di intersezione ceviale in un triangolo; somma delle distanze in un trapezoide a isosceles*
+
+> 1. Lasciate che $XYZ$ sia un triangolo. Il punto $L$ deve essere un punto sul segmento $[XY]$ e il punto $N$ un punto sul segmento $[XZ]$. Il punto di intersezione dei segmenti $[ZL]$ e $[YN]$ è $M$. Provare che < MSK0/>
+> 
+> 2. Il $ABCD$ deve essere un quadrilaterale convexo in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$, $AD < AB$ e $BC < AB$. Il punto $P$ deve essere situato all'interno del quadrilaterale $ABCD$. Provare che < MSK0/>
+
+[[src_canimath_2021_printemps__Q14]]

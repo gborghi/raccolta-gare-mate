@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q03
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo MNC nel rettangolo di area 288*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the MNC triangle in the rectangle of area 288*
+
+> In an ABCD rectangle with an area of 288 cm2, M and N respectively are the midpoints of the sides AB and AD. Determine the area of the MNC triangle.
+>
+> - **(A)** 108 cm2
+> - **(B)** 144 cm2
+> - **(C)** 96 cm2
+> - **(D)** 72 cm2
+> - **(E)** 192 cm2
+
+**Answer:** A
+[[src_garaprime_2025__Q03]]

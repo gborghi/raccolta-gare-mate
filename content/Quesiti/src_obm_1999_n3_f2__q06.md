@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f2__Q06
 parent: src_obm_1999_n3_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer solutions of x^3 - y^3 = 999*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni integrali di x^3 - y^3 = 999*
+
+> Trovare tutte le soluzioni integrali di $x^3 - y^3 = 999$.
+
+[[src_obm_1999_n3_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q06
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count tilings of cross-shaped grid region with 12 L-shaped trominoes up to symmetry*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di piastrelle della regione della griglia a forma incrociata con 12 trombini a forma di L fino alla simmetria*
+
+> In un piano di griglia, collocare le piastrelle $12$ del tipo di tromino a forma di L mostrato (che coprono ciascuna delle unità quadrate $4$ in forma di L) senza sovrapposizione in modo che coprono esattamente la regione a forma incrociata mostrata nella figura. Quanti modi ci sono? (Le piastrelle possono essere ruotate o invertite. Due piastrelle sono considerate uguali se una può essere ottenuta dall'altra mediante rotazione o riflessione dell'intero pannello.)
+
+![[src_jjmo16yq_yosen__Q06.png]]
+
+**Risposta:** 19
+[[src_jjmo16yq_yosen__Q06]]

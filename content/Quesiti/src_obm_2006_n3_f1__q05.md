@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q05
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two distinct nonzero reals a,b with a-b=a/b; find a possible value of a/b+1/b-ab.*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due reali non-zero distinte a,b con a-b=a/b; trovare un possibile valore di a/b+1/b-ab.*
+
+> I due numeri reali distinti $a$ e $b$ non sono zero e soddisfano $a - b = \dfrac{a}{b}$. Indicare l'alternativa che mostra uno dei possibili valori di $\dfrac{a}{b} + \dfrac{1}{b} - ab$.
+> 
+> (A) $-2$ \quad (B) $-\dfrac{1}{2}$ \quad (C) $\dfrac{1}{3}$ \quad (D) $\dfrac{1}{2}$ \quad (E) $2$
+
+[[src_obm_2006_n3_f1__Q05]]

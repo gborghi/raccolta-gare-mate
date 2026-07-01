@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q01
 parent: src_kangourou_squadre_2010_semifinale
 competition: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero formato con cifre date (somma e prodotto)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0941
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number formatted with given digits (sum and product) *
+
+> Do you have a decent target? How about the question  Have you a good goal? of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, in which attempts to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes ? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
+
+**Answer:** 0941
+[[src_kangourou_squadre_2010_semifinale__Q01]]

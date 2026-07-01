@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round2__Q04
 parent: src_bmo_1999-00_round2
 competition: British Mathematical Olympiad 1999-00 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a 10-element set where no 6 elements sum divisible by 6; what about 11?*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova un insieme di 10 elementi in cui non ci sono 6 elementi sommati divisibili per 6; che dire di 11?*
+
+> (a) Trovare un insieme $A$ di dieci integri positivi in modo tale che non ci siano sei membri di $A$ che abbiano una somma divisibile da $6$. (b) È possibile trovare tale insieme se "dieci" vengono sostituiti da "onze"?
+
+[[src_bmo_1999-00_round2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q09
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find length AB in trapezoid with given angles and sides*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la lunghezza AB nel trapezoide con angoli e lati dati*
+
+> Nel trapezoide di seguito, $AB$ è parallelo a $CD$, $AD = 10\,\mathrm{cm}$ e $CD = 15\,\mathrm{cm}$. L'angolo $C$ misura $75^\circ$ e l'angolo $D$ misura $30^\circ$. Qual è la lunghezza del lato < MSK8/>, in centimetri?
+> 
+> A) 5 B) 7.5 C) 10 D) 12.5 E) $5\sqrt{3}$
+
+![[src_obm_1998_n2_f1__Q09.png]]
+
+**Risposta:** A
+[[src_obm_1998_n2_f1__Q09]]

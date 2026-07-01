@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q08
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of PQ, midpoints of diagonals of trapezium with parallel sides 16 and 20*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza del PQ, punti di mezzo di diagonali del trapezio con lati paralleli 16 e 20*
+
+> I lati $AB$ e $BC$ siano paralleli di un trapezio $ABCD$. I punti medi $P$ e $Q$ siano i punti medi dei diagonali $AC$ e $BD$. Se $AD = 16$ e $BC = 20$, qual è la lunghezza di $PQ$?
+
+**Risposta:** 2
+[[src_prmo_2013__Q08]]

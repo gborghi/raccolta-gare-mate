@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q09
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo persone con rapporto maschi/femmine 0,24*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 31
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum male to female ratio of 0.24< MSK1/>
+
+> Male and female In a room there are some people: if the number of males is divided by the number of females, you get exactly 0.24. It is known that the number of people present is the smallest that can determine that ratio. How many people are in that room?
+
+**Answer:** 31
+[[src_kangourou_2009_squadre_semifinale__Q09]]

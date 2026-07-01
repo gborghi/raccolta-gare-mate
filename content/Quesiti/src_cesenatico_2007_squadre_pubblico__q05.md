@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q05
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo b con (mnmn)_b cubo perfetto, risposta b+m+n*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Little b with (mnmn)_b perfect cube, answer b+m+n*
+
+> The invasion! [20] The Moreninja of the village of the Root have invaded the village of Numeruto! Every street corner is the scene of bloody clashes. In one of these, two mateninja are committed to finding the smallest integer b > 1 such that there exist m, n natural minors of b so that the positive integer (mnmn) b (i.e. the number mnmn at the base of b) is a perfect cube. Returns the value of b+m+n as a response. Team competition 2007  Public competition  Problem texts  Pag. 1 di 4
+> 
+> I'm going to pay. 2 out of 4  Team competition 2007  Public competition  Problem texts
+
+[[src_cesenatico_2007_squadre_pubblico__Q05]]

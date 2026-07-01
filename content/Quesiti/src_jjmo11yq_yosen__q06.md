@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q06
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest sum of three distinct integers whose product ends in 99*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 269
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma minore di tre integri distinti il cui prodotto termina in 99*
+
+> $a,b,c$ siano tre integri positivi reciprocamente distinti. Poiché le ultime due cifre del prodotto $abc$ sono $99$, si trova il valore più piccolo possibile di $a+b+c$.
+
+**Risposta:** 269
+[[src_jjmo11yq_yosen__Q06]]

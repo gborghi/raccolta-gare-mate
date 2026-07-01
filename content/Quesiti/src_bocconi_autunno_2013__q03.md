@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q03
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza dell'acqua nella scatola grande.*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2{,}5 \text{ cm}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height of water in the large box.< MSK1/>
+
+> Carla has at her disposal the two boxes of the figure (they are cubes): the first has a side of 10 cm, the second 20 cm. It fills the little one, up to the edge, with water that then melts into the second box (without losing a drop).
+> 
+> What will be the height of the water in the big box?
+
+**Answer:** 2{,}5 \text{ cm}
+[[src_bocconi_autunno_2013__Q03]]

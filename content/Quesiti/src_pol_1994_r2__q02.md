@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r2__Q02
 parent: src_pol_1994_r2
 competition: Olimpiade Matematica Polacca 1994 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given positive reals whose sum equals their product, and positive b_i with a_i <= b_i, prove the sum of b_i is at most their product.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dati i numeri positivi reali la cui somma è pari al loro prodotto, e i positivi b_i con a_i <= b_i, dimostrare che la somma di b_i è al massimo il loro prodotto.*
+
+> Lasciate che $a_1, \ldots, a_n$ siano numeri reali positivi come $\sum_{i=1}^{n} a_i = \prod_{i=1}^{n} a_i$, e lasciate che $b_1, \ldots, b_n$ siano numeri reali positivi come $a_i \le b_i$ per tutti $i$. Prove che $\sum_{i=1}^{n} b_i \le \prod_{i=1}^{n} b_i$.
+
+[[src_pol_1994_r2__Q02]]

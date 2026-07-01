@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q15
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di gettoni da togliere per evitare prodotti tra rimasti*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of tokens to be removed to avoid products remaining *
+
+> RENATO has 1,000 tokens at his disposal on which he can read all the numbers from 1 to 1,000. How many tokens must you minimize to make sure that none of the remaining tokens have the same number as the product of the numbers of the other two (remaining) tokens?
+
+**Answer:** 30
+[[src_bocconi_autunno_2010__Q15]]

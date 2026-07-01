@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q14
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza lato minore dei quattro triangoli rettangoli attorno al quadrato*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 62 cm o $100\sqrt{5}-\frac{1}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of side less than the four rectangular triangles around the square*
+
+> The large square was obtained from the smaller one (dark) by extending its sides of a segment, as you can see in the figure, and then by connecting the points found. What is the length of the minor side in the four rectangular triangles, knowing that the area of the small (dark) square is $1\,\text{m}^2$ and that the area of each rectangular triangle is $0{,}5\,\text{m}^2$? Give the answer in $\text{cm}$ if possible by replacing $\sqrt{2}$ with $1{,}414$; $\sqrt{3}$ with $1{,}732$; $\sqrt{5}$ with $2{,}236$ and then rounding the result to the nearest.
+
+![[src_bocconi_autunno_2012__Q14.png]]
+
+**Answer:** 62 cm o $100\sqrt{5}-\frac{1}{2}$
+[[src_bocconi_autunno_2012__Q14]]

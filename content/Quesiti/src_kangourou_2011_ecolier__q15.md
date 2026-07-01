@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q15
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale griglia non puo aver scritto Emanuela*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What grid can't have written Emanuela
+
+![[src_kangourou_2011_ecolier__prob15.png]]
+
+> Emanuela enjoys writing her name on some grids like the ones in the answers. Enter a letter in each box in the order following this rule: it can start from any box but, if a letter is written in a box, the next one must be written in a box that has a side or a vertex in common with the previous one. Which of these grids could not have been filled by Emanuel?
+
+**Answer:** E
+[[src_kangourou_2011_ecolier__Q15]]

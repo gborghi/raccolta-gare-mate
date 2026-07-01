@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q28
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Litri da sostituire per soluzione al 42%*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Litres to be replaced per solution at 42%< MSK1/>
+
+> There are 21 liters of a solution with 18% alcohol in one container. How many liters of this liquid do you have to replace with a solution of 90% alcohol to get a solution of 42% alcohol?
+>  
+> A. 3 B. 5 C. 7 D. 9 E. 11
+
+**Answer:** C
+[[src_kangourou_2002_student__Q28]]

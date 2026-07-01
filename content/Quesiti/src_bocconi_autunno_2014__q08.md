@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q08
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del puzzle di Jacob con raggio 8 cm*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $32 \text{ cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Area of Jacob's puzzle with radius of 8 cm
+
+> On the ground, in his room, Jacob found the piece of a puzzle you see in the figure. What's its area, knowing that all the arc radii are semicirculars that have the same radius?
+
+![[src_bocconi_autunno_2014__Q08.png]]
+
+**Answer:** $32 \text{ cm}^2$
+[[src_bocconi_autunno_2014__Q08]]

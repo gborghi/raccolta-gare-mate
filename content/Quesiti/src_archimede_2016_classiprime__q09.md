@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q09
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli rettangoli con vertici tra vertici e centro di ottagono*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular triangles with vertices between vertices and centre of octagon*
+
+> Given a regular octagon, the set U consists of its 8 vertices and its centre. How many rectangular triangles have 3 points of U for vertices? A 32 B 28 C 56 D 16 E 36 F 72
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q09]]

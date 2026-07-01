@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q14
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotti di numeri consecutivi: quanti divisibili per 3*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 43
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Products of consecutive numbers: quantities divisible by 3*
+
+> Multiply in every possible way two different numbers chosen between 1, 2, 3, \ldots, 19, 20 and mark the even results thus obtained. However, if a result has been obtained more than once, it will be scored only once.
+> 
+> < MSK0/>How many of these results are divisible by 3? < MSK1/>
+
+**Answer:** 43
+[[src_bocconi_finalenaz_2010__Q14]]

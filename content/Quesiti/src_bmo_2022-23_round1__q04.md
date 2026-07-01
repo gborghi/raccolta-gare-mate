@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2022-23 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2022-23_round1__Q04
 parent: src_bmo_2022-23_round1
 competition: British Mathematical Olympiad 2022-23 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find highest guaranteed Katy score in 8x8 'A'/'K' game*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
+
+> Alex e Katy giocano su una griglia quadrata di 64 cellule. Si girano a turno per giocare, con Alex prima. A sua volta, Alex scrive "A" in una cella vuota. A sua volta, Katy scrive "K" in due celle vuote che condividono un lato. La partita finisce quando un giocatore non può muoversi. Il punteggio di Katy è il numero di K sulla griglia alla fine della partita. Qual e' il punteggio piu' alto che Katy puo' ottenere se suona bene, non importa cosa faccia Alex?
+
+[[src_bmo_2022-23_round1__Q04]]

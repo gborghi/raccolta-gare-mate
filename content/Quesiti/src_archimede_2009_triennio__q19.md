@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q19
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area ombreggiata con rettangolo, cerchio e semicirconferenze*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded area with rectangle, circle and semicircular *
+
+![[src_archimede_2009_triennio__prob19.png]]
+
+> We draw a rectangle with sides of 5 cm and 12 cm, the circumference in which it is inscribed and the semicirculars which have the sides of the rectangle in diameter and are external to it, as shown in the figure next to it. What is the area of the shaded part?
+>
+> - **(A)** 45 cm2,
+> - **(B)** 13π cm2,
+> - **(C)** 19π cm2,
+> - **(D)** 60 cm2,
+> - **(E)** 20π cm2.
+
+**Answer:** D
+[[src_archimede_2009_triennio__Q19]]

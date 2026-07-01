@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q14
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ball-splitting game: prove Paul wins for N=2019 and loses for N=2020*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
+
+> Paul gioca con le palle e una borsa; le palle formano una singola pila. A ogni turno, Paul sceglie una pila che ha almeno 2 palline, ne toglie una e la mette nella sua borsa, e poi divide le palline rimanenti in due pile non vuote. La partita si ferma quando tutte le pile sono composte da esattamente 3 palle, e Paul perde se in un momento non riesce più a fare una mossa legale. Paul vince se raggiunge uno stato in cui tutte le pile consistono esattamente di 3 palle.
+> 
+> a) Mostrare che se $N = 2019$, Paul può vincere.
+> 
+> b) Mostrare che se $N = 2020$, Paul non può vincere.
+
+[[src_canimath_2019_automne__Q14]]

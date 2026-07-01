@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q07
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo prodotto di tre numeri scelti dall elenco*
 
@@ -66,3 +69,15 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum product of three numbers selected from the list*
+
+> The magician Kanga will multiply between them three different numbers chosen from the following list: - 5, - 3, - 1, 2, 4, 6. What's the least of the products you could get? A) - 200 B) - 120 C) - 90 D) - 48 E) - 15 8+5 -------- 3 8 -------- 3+5 3+5 -------- 8 8+3 -------- 5 3 -------- 8+5 A B D F E C
+>
+
+**Answer:** B
+[[src_kangourou_2020_cadet_marzo__Q07]]

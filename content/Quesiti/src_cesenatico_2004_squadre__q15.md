@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q15
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu grande numero non esprimibile con monete palindrome (Frobenius)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0201
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most large number not expressed in palindrome coins (Frobenius) < MSK1/>
+
+> French numismatic The national currency of France is the franc. However, there are no coins worth one franc: the smallest coin is 11 francs, and all coins have a palindrome number of francs as their value. Messer Guiglielmo Guardastagno and the merchant guild complained that with these coin cuts it is not possible to compose exactly any whole quantity of Franqi (for example, 37 Franqi cannot be composed with the available coins). What is the largest number that can certainly not be expressed in Franquvian coins? A palindrome number is a number that remains unchanged if its digits (based 10) are read from right or left: for example, palindromes 11, 10001, 949.
+
+**Answer:** 0201
+[[src_cesenatico_2004_squadre__Q15]]

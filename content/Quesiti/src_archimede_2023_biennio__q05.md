@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q05
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di a4-a1 in progressione aritmetica*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of a4-a1 in arithmetic progression*
+
+> A sequence of 6 numbers a1, a2, a3, a4, a5, a6 has been chosen so that a2 −a1 = a3 −a2 = a4 −a3 = a5 −a4 = a6 −a5. Knowing that a1 + a2 + a3 = 7 and a4 + a5 + a6 =19, indicate what the value of a4 − a1 is.
+>
+> - **(A)** 2
+> - **(B)** 6
+> - **(C)** 3
+> - **(D)** 1
+> - **(E)** 4
+
+**Answer:** E
+[[src_archimede_2023_biennio__Q05]]

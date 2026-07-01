@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r2__Q05
 parent: src_pol_1997_r2
 competition: Olimpiade Matematica Polacca 1997 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability that white dice sum mod 7 equals black dice sum mod 7*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La probabilità che la somma dei dadi bianchi mod 7 sia uguale alla somma dei dadi neri mod 7*
+
+> Abbiamo gettato i dadi bianchi e i dadi neri. Trova la probabilità che il restante modulo 7 della somma dei numeri sui dadi bianchi sia uguale al restante modulo 7 della somma dei numeri sui dadi neri.
+
+[[src_pol_1997_r2__Q05]]

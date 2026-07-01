@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q16
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with altitude AD, AB=DC=1; maximum area*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con altitudine AD, AB=DC=1; superficie massima*
+
+> Nel triangolo $ABC$, $AD$ è l'altitudine relativa al lato $BC$. Se $AB=DC=1$, indicare l'alternativa che corrisponde all'area massima del triangolo $ABC$.
+> 
+> (A) $\dfrac{3\sqrt{3}}{8}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\sqrt{2}}{3}$ \quad (D) $\dfrac{\sqrt{2}}{2}$ \quad (E) $\dfrac{1}{2}$
+
+**Risposta:** A
+[[src_obm_2007_n3_f1__Q16]]

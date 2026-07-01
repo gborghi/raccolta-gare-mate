@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q24
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di n con espressione radicale annidata intera*
 
@@ -59,3 +62,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2475
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of n with full nested radical expression*
+
+> Ghost reinforcements Areagorn must try to increase the company's army further, and this time he asks for reinforcements from the undead. Sadly, the head of the army of the undead, a mathematician, proposes to Areagorn to give him a warrior for every natural number n such that the number 41q√n+p n+20092009 is whole. How many undead will the company have? With the cooperation of
+> 
+> . . I 'm not . Competition in teams .2 .9 X GARA NATIONAL A SQUADER Final national  Solution  9 May 2009 Nr. The problem
+
+**Answer:** 2475
+[[src_gas_2009_finale__Q24]]

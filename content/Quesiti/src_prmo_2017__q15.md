@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q15
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum sum of two removed integers from 1..n given average of rest is 17*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma massima di due integri rimossi da 1..n data media di riposo è di 17*
+
+> Gli integri $1, 2, 3, \ldots, n$, dove $n > 2$, sono scritti su una lavagna. Due numeri $m, k$ in modo tale che $1 < m < n, 1 < k < n$ siano rimossi e la media dei numeri rimanenti si ritenga a 17. Qual è la somma massima dei due numeri rimossi?
+
+[[src_prmo_2017__Q15]]

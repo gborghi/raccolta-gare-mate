@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q09
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare il numero misterioso comune a quattro addizioni con cifre nascoste.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni: 7; 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Finding the mysterious number common to four additions with hidden digits.*
+
+> Mathilde wrote to Mathias four mysterious additions: $? \times 2 + 17$, $? + 11 \times 7$, $? + 18 \times 7$, $? + 23 \times 7$, where each question point always represents the same positive number and each asterisk represents all different numbers; the four additions all yield the same result. Mathilde found the number represented by the question mark. It's your turn!
+
+**Answer:** 2 soluzioni: 7; 17
+[[src_bocconi_finaleint_2010_g1__Q09]]

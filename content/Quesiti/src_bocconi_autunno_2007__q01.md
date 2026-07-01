@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q01
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno del compleanno di Jacob*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 28 dicembre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is Jacob's birthday.
+
+> Next January Jacob will be able to say, "The day after tomorrow will be exactly one week after my birthday". On what day does Jacob turn 10?
+
+**Answer:** 28 dicembre
+[[src_bocconi_autunno_2007__Q01]]

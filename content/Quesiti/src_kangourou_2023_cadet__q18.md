@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q18
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *area grande*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>large area< MSK1/>
+
+![[src_kangourou_2023_cadet__prob18.png]]
+
+> The figure shows a rectangle consisting of three gray squares, each 25 cm2 in area; its vertices are on the sides of a larger rectangle: in particular the vertices on the two smaller sides are the midpoints of those sides. How many square centimetres is the area of the large rectangle? A) 125 B) 136 C) 149 D) 150 E) 172
+
+**Answer:** D
+[[src_kangourou_2023_cadet__Q18]]

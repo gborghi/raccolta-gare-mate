@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f2__Q02
 parent: src_obm_2000_n1_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find side length of square I in rectangle divided into 9 squares*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la lunghezza laterale del quadrato I nel rettangolo diviso in 9 quadrati*
+
+> Il rettangolo mostrato accanto è diviso in quadrati $9$ $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$ e $I$. Il quadrato $A$ ha lunghezza laterale $1$ e il quadrato $B$ ha lunghezza laterale $9$.
+> 
+> Qual è la lunghezza laterale del quadrato $I$?
+
+![[src_obm_2000_n1_f2__Q02.png]]
+
+**Risposta:** 18
+[[src_obm_2000_n1_f2__Q02]]

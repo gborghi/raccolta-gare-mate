@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q13
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero che non puo essere la somma delle eta massime*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number which cannot be the sum of the maximum ages< MSK1/>
+
+> In a group of six people each knows, in addition to their own, the age of each of the others and the six ages are consecutive numbers. If you ask each of them the age of the oldest and add the answers, which of the following numbers can certainly not be the result? A) 95
+>   
+> B) 125 C) 167 D) 205 E) 233
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q13]]

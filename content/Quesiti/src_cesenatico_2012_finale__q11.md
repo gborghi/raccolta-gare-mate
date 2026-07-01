@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q11
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max vittorie Gonioku nel mini-torneo (min e max)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1109
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Max Gonioku wins in the mini-tournament (min and max)
+
+> 11. A challenging tournament Before the XXII Tenkamatici tournament, when Gonioku was still inexperienced, Master Muten and the Gru Hermit organized a mini-tournament for all their students. Hermit of Gru's students were 9 more than Master Muten's, including Gonioku. At the end of the mini-tournament, in which all the couples faced each other once and there was no tie, the total number of victories achieved by the students of the Hermitage was exactly 9 times the number of victories of the students of Muten. How many fights could Gonioku have won, at most? (In the answer, use the first two digits to indicate the solution in case the participants in the tournament were the smallest possible number and the last two digits to indicate the solution in case
+
+**Answer:** 1109
+[[src_cesenatico_2012_finale__Q11]]

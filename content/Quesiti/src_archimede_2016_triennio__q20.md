@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q20
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *trovare n*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*find n*
+
+> Given the integers n and k, with 1 ≤k ≤n, we define a polynomial, of degree n −1, as follows: p(x) = (x + 1)(x + 2)...(x + n) (x + k) . For example, if it was n = 5 and k = 2, we would have p(x) = (x + 1)(x + 3)(x + 4)(x + 5). Suppose that, for a certain choice of n and k, the coefficient of xn−2 in the polynomial p(x) is equal to 67. What is the value of n in that case?
+>
+> - **(A)** 68
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 11
+> - **(E)** 69 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Archimedean Games - Triennio competition 23 November 2016 • The test consists of 20 problems. Each question shall be followed by five replies indicated by the letters (A), (B), (C), (D) and (E): one of these answers is correct and the other four are incorrect. • Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+**Answer:** C
+[[src_archimede_2016_triennio__Q20]]

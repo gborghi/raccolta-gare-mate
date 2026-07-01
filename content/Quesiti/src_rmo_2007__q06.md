@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2007__Q06
 parent: src_rmo_2007
 competition: Regional Mathematical Olympiad 2007
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequalities comparing n with sum of its roots for n>=9*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le disuguaglianze che confrontano n con la somma delle sue radici per n>=9*
+
+> Prova che: a) $5 < \sqrt[3]{5} + \sqrt[4]{5} + \sqrt[5]{5}$; b) $8 > \sqrt{8} + \sqrt[3]{8} + \sqrt[4]{8}$; c) $n > \sqrt{n} + \sqrt[3]{n} + \sqrt[4]{n}$ per tutti gli enti $n \ge 9$.
+
+[[src_rmo_2007__Q06]]

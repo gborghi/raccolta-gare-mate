@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q02
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu grande x con cbrt(x+1184)-cbrt(x-1184)=4*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2912
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pious large x with cbrt(x+1184)-cbrt(x-1184)=4< MSK1/>
+
+> A number with only even digits. 2. Unveiled impostors [40] Often people wonder how it is possible to recognize a mathematician from a mateban, that is, someone fasting mathematics. It's often simpler than you think. A mattress would never find the greatest value of x so 3√ x+1184− 3√ x−1184 = 4.
+
+**Answer:** 2912
+[[src_cesenatico_2006_squadre_pubblico__Q02]]

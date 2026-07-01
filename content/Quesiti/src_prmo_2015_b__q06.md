@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q06
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit N whose digit-reversal sum is a perfect square; count*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N a due cifre la cui somma di inversione di cifre è un quadrato perfetto; contare*
+
+> Quanti numeri interi positivi a due cifre $N$ hanno la proprietà che la somma di $N$ e il numero ottenuto invertendo l'ordine dei numeri di $N$ è un quadrato perfetto?
+
+**Risposta:** 8
+[[src_prmo_2015_b__Q06]]

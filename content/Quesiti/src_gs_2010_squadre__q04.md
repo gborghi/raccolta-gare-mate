@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q04
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spartizione cifra fra tre musicisti per eta*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9600
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure division between three musicians per age*
+
+> **Musicers' pay** (point 20)
+> 
+> Murph explains to the three Magic Tones how the money they owe for their performance will be distributed, as stipulated by the rules of the Musicians' Union. Murph explains: Half of the money will be divided equally between you, the other half will be allocated to you in proportion to your age in years. Knowing that the older musician will receive, in fact, $40, and that his age is the sum of the ages of the other two, how much in cents of a dollar is the sum to be divided?
+
+**Answer:** 9600
+[[src_gs_2010_squadre__Q04]]

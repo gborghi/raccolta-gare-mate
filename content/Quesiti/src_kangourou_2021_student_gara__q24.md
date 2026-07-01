@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q24
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di chi e figlio il cangurino s*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Of whom and of whom the kangaroo s*
+
+![[src_kangourou_2021_student_gara__prob24.png]]
+
+> Five kangaroos, called A, B, C, D and E, each have a child that we indicate with the letters s, t, u, v and z. In the photos in the first group, exactly two children are matched to their mother, while in the second group the correct matches are exactly three. Whose son is the kangaroo ? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** D
+[[src_kangourou_2021_student_gara__Q24]]

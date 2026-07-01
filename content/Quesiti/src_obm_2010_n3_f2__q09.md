@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f2__Q09
 parent: src_obm_2010_n3_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Billiard ball on ABCD square table; find angles for ball to return to vertex after 2010 bounces*
 
@@ -56,3 +59,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Bolla da biliardo sulla tabella quadrata ABCD; trovare angoli per la palla per tornare al vertice dopo i rimbalzi del 2010*
+
+> Un tavolo da biliardo ha la forma di un quadrato < MSK0/>. SuperPablo ha una missione speciale: partendo dal vertice $A$ con una palla da biliardo, deve spararla in modo che, dopo aver saltato esattamente $2010$ volte sui lati del quadrato, la palla arrivi per la prima volta a un vertice del quadrato.
+> 
+> Quali sono i valori possibili dell'angolo formato dal lato $AB$ con la traiettoria iniziale della palla?
+> 
+> \emph{Osservazione}: Quando la palla colpisce i lati, subisce una perfetta riflessione, cioè l'angolo di incidenza è uguale all'angolo di riflessione. Supponiamo anche che la palla sia un punto.
+
+![[src_obm_2010_n3_f2__Q09.png]]
+
+[[src_obm_2010_n3_f2__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f3__Q02
 parent: src_obm_2015_n1_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nine cards 1–9 stacked; three people draw two each; analyse remaining sums*
 
@@ -55,3 +58,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nove carte 19 accumulate; tre persone disegnano due ciascuno; analizzano le somme rimanenti < MSK1/>
+
+> Nove carte numerate < MSK0/> a < MSK1/> sono state mescolate e impilate. Ana, Beto e C\u00e9lio hanno disegnato due carte, lasciando tre carte sulla pila.
+> 
+> a) Qual è la somma più grande possibile dei numeri delle carte che sono rimaste sul tavolo?
+> 
+> b) Se la somma dei numeri sulla coppia di carte di ciascuna persona è la stessa per tutte e tre le persone, qual è la somma più piccola possibile dei numeri sulle carte lasciate sulla tavola?
+> 
+> c) In quanti modi diversi può verificarsi la situazione descritta alla lettera b) (cioè, in quanti modi le carte tracciate < MSK0/> possono essere suddivise in tre coppie che hanno tutte la stessa somma)?
+
+![[src_obm_2015_n1_f3__Q02.png]]
+
+[[src_obm_2015_n1_f3__Q02]]

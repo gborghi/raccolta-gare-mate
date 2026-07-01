@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q07
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte le lancette formano angolo retto 6-12*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times do the hands form a right angle 6-12< MSK1/>
+
+![[src_kangourou_2022_ecolier_semifinale__prob7.png]]
+
+> (5 points) Between 6:00 a.m. and 12:00 a.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
+>  
+> B) 11 C) 10 D)6
+>  
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2022_ecolier_semifinale__Q07]]

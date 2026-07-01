@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2003 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2003__Q07
 parent: src_rmo_2003
 competition: Regional Mathematical Olympiad 2003
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find two disjoint nonempty subsets A,B of {1,...,10} minimising prod(A)/prod(B)*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca due sottogruppi non vuoti A,B di {1,...,10} che riducono al minimo il prodotto A)/prod(B) *
+
+> Considera l'insieme < MSK0/>. Trova due sottinsiemi non vuoti $A$ e $B$ di $X$ in modo tale che: (a) $A \cup B = X$; (b) $\mathrm{prod}(A)$ sia divisibile da $\mathrm{prod}(B)$, dove per qualsiasi insieme finito di numeri $C$, $\mathrm{prod}(C)$ indica il prodotto di tutti i numeri di $C$; (c) il quotiente $\mathrm{prod}(A)/\mathrm{prod}(B)$ è il più piccolo possibile.
+
+[[src_rmo_2003__Q07]]

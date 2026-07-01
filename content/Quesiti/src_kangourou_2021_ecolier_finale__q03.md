@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q03
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti per riempire il primo recipiente di amebe*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 189
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes to fill the first container of amoeba< MSK1/>
+
+> In this diagram, each square contains an integer different from all the others, but in four squares the number is invisible. The arrows between two squares are directed from the square containing the largest number to the square containing the smallest number. What's the sum of the invisible numbers?
+>
+> - **(A)** 30
+> - **(B)** 28
+> - **(C)** 22
+> - **(D)** 16
+> - **(E)** 14 (see figure)
+
+**Answer:** 189
+[[src_kangourou_2021_ecolier_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q16
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area delimitata da corde e arco in cerchio diviso in tre*
 
@@ -61,7 +64,7 @@ tags:
 > - **(B)** 25( π 6 + √ 3) cm2,
 > - **(C)** 15( π 3 + √ 3 2 ) cm2,
 > - **(D)** 25 √ 3 2 cm2,
-> - **(E)** 25 2 ( π 3 + √ 3 2 ) cm2. C A B D
+> - **(E)** 25 2 ( π 3 + √ 3 2 ) cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
@@ -70,3 +73,42 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area bounded by rope and arc in a circle divided into three*
+
+![[src_archimede_2008_biennio__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (2cm);
+  \coordinate (A) at (150:2);
+  \coordinate (B) at (30:2);
+  \coordinate (C) at (270:2);
+  \draw (A) -- (C);
+  \draw (B) -- (C);
+  \fill (A) circle (1pt);
+  \fill (B) circle (1pt);
+  \fill (C) circle (1pt);
+  \node[above left] at (A) {$A$};
+  \node[above right] at (B) {$B$};
+  \node[below] at (C) {$C$};
+  \node[above] at (90:2) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The radius of the side circumference is 5 cm; in addition, points A, B and C divide the circumference into three arcs of equal length. Calculate the area bounded by the AC and BC strings and by the D-containing A and B extreme arcs.
+>
+> - **(A)** 25( π 3 + √ 3 2 ) cm2,
+> - **(B)** 25( π 6 + √ 3) cm2,
+> - **(C)** 15( π 3 + √ 3 2 ) cm2,
+> - **(D)** 25 √ 3 2 cm2,
+> - **(E)** 25 2 ( π 3 + √ 3 2 ) cm2.
+
+**Answer:** A
+[[src_archimede_2008_biennio__Q16]]

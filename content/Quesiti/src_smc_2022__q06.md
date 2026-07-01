@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q06
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate the expression 4^800 / 8^400.*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Evaluare l'espressione 4^800 / 8^400.< MSK1/>
+
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** $\frac{1}{2^{400}}$
+> - **(B)** $\frac{1}{2^{200}}$
+> - **(C)** $1$
+> - **(D)** $2^{200}$
+> - **(E)** $2^{400}$
+
+**Risposta:** E
+[[src_smc_2022__Q06]]

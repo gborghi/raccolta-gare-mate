@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 30
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q30
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of elements in E partitioned into 3 subsets with equal sums*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di elementi di E suddivisi in 3 sottogruppi con somme uguali*
+
+> $E$ indichi l'insieme di tutti i numeri naturali $n$ in modo tale che $3 < n < 100$ e l'insieme $\{1, 2, 3, \ldots, n\}$ possano essere suddivisi in 3 sottoinsiemi con somme uguali. Trova il numero di elementi di $E$.
+
+[[src_prmo_2019__Q30]]

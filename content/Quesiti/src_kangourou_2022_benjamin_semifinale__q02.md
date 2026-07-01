@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q02
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubi di lato 1cm nel cubo grande*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many side cubes 1cm in the large cube< MSK1/>
+
+![[src_kangourou_2022_benjamin_semifinale__prob2.png]]
+
+> (3 points) In the figure you can see a large-format cube approaching a 3 cm side cube, 4 cubes each on a 2 cm side and several other cubes, each on a 1 cm side, without leaving holes. How many of these 1 cm side cubes are there? A) 26
+>  
+> B) 36 C) 48 D) 66 E) 82
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_semifinale__Q02]]

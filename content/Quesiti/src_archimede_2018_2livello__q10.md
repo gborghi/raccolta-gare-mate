@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q10
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quaterne interi positivi con x+y=ab e a+b=xy*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive integers with x+y=ab and a+b=xy< MSK1/>
+
+> How many are the four positive integers (a, b, x, y) such that x + y = a · b and a + b = x · y?
+>
+> - **(A)** 1
+> - **(B)** 5
+> - **(C)** 9
+> - **(D)** 17
+> - **(E)** Infinite
+
+**Answer:** C
+[[src_archimede_2018_2livello__Q10]]

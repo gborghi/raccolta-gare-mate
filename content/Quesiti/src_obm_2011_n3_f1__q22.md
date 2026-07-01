@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q22
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of (1-sqrt2)^2011 given (1+sqrt2)^2011 = a + b sqrt2 with integer a,b*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di (1-sqrt2)^2011 data (1+sqrt2)^2011 = a + b sqrt2 con numero intero a,b*
+
+> Essendo $a$ e $b$ integri tali che $\left(1 + \sqrt{2}\right)^{2011} = a + b\sqrt{2}$, $\left(1 - \sqrt{2}\right)^{2011}$ è uguale a
+> 
+> (A) $a + 2b + (a-b)\sqrt{2}$ (B) $a - 2b + (a-b)\sqrt{2}$ (C) $a + 2b + (b-a)\sqrt{2}$ (D) $2b - a + (b-a)\sqrt{2}$ (E) $a + (b-a)\sqrt{2}$
+
+[[src_obm_2011_n3_f1__Q22]]

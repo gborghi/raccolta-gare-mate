@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ5
 parent: src_kangourou_2009_junior_maggio
 competition: Kangourou 2009 - Junior finale nazionale (Mirabilandia)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimi vertici rossi con distanze diverse (21-agono)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum red vertices with different distances (21-agon) < MSK1/>
+
+> *(18 points) * Consider a regular polygon of 21 sides. You want to color some vertices red so that, however you choose two pairs of vertices both colored red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
+
+**Answer:** 5
+[[src_kangourou_2009_junior_maggio__QJ5]]

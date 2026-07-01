@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q12
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *parte bianca*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>white part< MSK1/>
+
+![[src_kangourou_2022_student__prob12.png]]
+
+> The large square in the figure is divided by two squares and two rectangles. The midpoints of their inner sides to the great square are the vertices of the shaded quadrilateral, which has area 3. What is the area of the white part of the large square? A) 15
+>   
+> B) 18
+>   
+> C) 21 D) 24
+>   
+> E) There is insufficient data to answer.
+
+**Answer:** C
+[[src_kangourou_2022_student__Q12]]

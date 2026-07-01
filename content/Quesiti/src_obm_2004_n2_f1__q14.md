@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q14
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve 2(2^{2x})=4^x+64 for x*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Soluzione 2(2^{2x})=4^x+64 per x*
+
+> Se $2(2^{2x}) = 4^x + 64$, allora $x$ è uguale a:
+> 
+> **A)** $-2$ $\quad$ **B)** $-1$ $\quad$ **C)** $1$ $\quad$ **D)** $2$ $\quad$ **E)** $3$
+
+**Risposta:** E
+[[src_obm_2004_n2_f1__Q14]]

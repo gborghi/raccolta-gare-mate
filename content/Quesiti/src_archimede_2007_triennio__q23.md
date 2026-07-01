@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Triennio — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_triennio__Q23
 parent: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale area intersezione di due triangoli equilateri*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of intersection area of two equilateral triangles*
+
+> Two equilateral triangles have the common barycenter and one is obtained from the other by a rotation of 30 degrees. The area of their intersection is a percentage of the area of one of the triangles which is:
+>
+> - **(A)** between 50% and 60%,
+> - **(B)** between 60% and 70%,
+> - **(C)** between 70% and 80%;
+> - **(D)** between 80% and 90%,
+> - **(E)** between 90% and 100%.
+
+**Answer:** C
+[[src_archimede_2007_triennio__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q15
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quante ore si riempie il serbatoio con 10 rubinetti*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many hours to fill the tank with 10 taps< MSK1/>
+
+> In Kangland, the currency is the kang. With $5$ kang you buy an apple and a pear, with $7$ kang an apple and a banana, with $10$ kang a pear and a banana. How many kang do you need to buy an apple, a pear and a banana?
+>
+> - **(A)** $8$
+> - **(B)** $9$
+> - **(C)** $10$
+> - **(D)** $11$
+> - **(E)** $12$
+
+**Answer:** 0006
+[[src_kangourou_2019_ecolier_finale__Q15]]

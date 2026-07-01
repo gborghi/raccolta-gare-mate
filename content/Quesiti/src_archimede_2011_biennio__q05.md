@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q05
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri vertici piramide quadrata con facce div per 3*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of vertex numbers of square pyramid with div faces for 3*
+
+> At the Grand Dinner of the Olympics, held each year during the Cesenatic event, there are various first and various second plates. Last year there were 60 ways to choose a meal (i.e. a first and a second). This year, the first ones will be added, and there will be 68 ways to choose a meal. How many firsts were there last year at least? [In choosing a meal you can match any prime to any second.]
+>
+> - **(A)** 4,
+> - **(B)** 8,
+> - **(C)** 10,
+> - **(D)** 12,
+> - **(E)** 15.
+
+**Answer:** C
+[[src_archimede_2011_biennio__Q05]]

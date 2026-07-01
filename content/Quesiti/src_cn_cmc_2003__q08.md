@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q08
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the area of the focal triangle of an ellipse given the ratio of focal distances.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo focale di un'ellisse dato il rapporto delle distanze focali.*
+
+> Supponiamo che i punti $F_1, F_2$ siano i foci dell'ellisse $\frac{x^2}{9} + \frac{y^2}{4} = 1$, $P$ sia un punto dell'ellisse e $|PF_1| : |PF_2| = 2 : 1$. Quindi l'area di $\triangle PF_1F_2$ è uguale a ___.
+
+**Risposta:** 4
+[[src_cn_cmc_2003__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round1__Q01
 parent: src_bmo_1974-75_round1
 competition: British Mathematical Olympiad 1974-75 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve floor-of-square-roots sum equal to 400*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi la somma del pavimento delle radici quadrate pari a 400*
+
+> Dato che $x$ è un intero positivo risolvere $$[\sqrt{1}] + [\sqrt{2}] + \ldots + [\sqrt{x^2-1}] = 400$$ (dove $[z]$ significa la parte integrale di $z$) e dimostrare la soluzione è completa.
+
+[[src_bmo_1974-75_round1__Q01]]

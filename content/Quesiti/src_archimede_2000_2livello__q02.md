@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q02
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del sottoinsieme definito da cerchio e semipiano*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the subset defined by circle and semiplane*
+
+> Whether $A$ is the area of the subset of the plan consisting of the $(x, y)$ points verifying the two $x^2 + y^2 \leq 100$ reports, $x + \sqrt{17}\, y \leq 0$. So, what?
+>
+> - **(A)** $A < 100$
+> - **(B)** $100 \leq A < 150$
+> - **(C)** $150 \leq A < 200$
+> - **(D)** $200 \leq A < 250$
+> - **(E)** $A \geq 250$.
+
+**Answer:** C
+[[src_archimede_2000_2livello__Q02]]

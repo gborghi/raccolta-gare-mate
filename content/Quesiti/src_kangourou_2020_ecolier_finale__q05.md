@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q05
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scrivere 546 come somma di multipli di 3*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to write 546 as the sum of multiples of 3*
+
+> Sonia uses plaster on the floor to trace the large table you see on the side, then starts jumping from cell to cell. Start from the $1$ cell number and follow this rule: with each new jump, land in a cell with a number that is $3$ units greater than that of the cell from which you jumped. What's the number in the last cell you can land on?
+>
+> - **(A)** $11$
+> - **(B)** $13$
+> - **(C)** $18$
+> - **(D)** $19$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 0030
+[[src_kangourou_2020_ecolier_finale__Q05]]

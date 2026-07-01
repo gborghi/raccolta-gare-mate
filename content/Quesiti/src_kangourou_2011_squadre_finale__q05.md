@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q05
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi senza numeri consecutivi (>=2 elementi)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 221
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sub-sets without consecutive numbers (>=2 elements) *
+
+> &ient consecutive numbers Either A the sum of the first 11 positive integers, i.e. A = {1, 2, 3,..., 10, 11}. How many subsets of A, made up of at least two elements, do not contain two consecutive numbers?
+
+**Answer:** 221
+[[src_kangourou_2011_squadre_finale__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q24
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti metri e larga la piscina*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many metres and width of the pool< MSK1/>
+
+![[src_kangourou_2018_cadet_marzo__prob24.png]]
+
+> Stefano and Giovanni are having a contest. Stephen runs around the pool shown in the figure, while John swims along the larger side of the pool. Stephen runs three times as fast as John swims. John crosses the pool six times by swimming at the same time as Stefano runs around the pool five times. How wide is the pool? A) 25
+> 	
+> B) 30
+> 	
+> C) 35
+> 	
+> D) 40
+> 	
+> E) 45
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q24]]

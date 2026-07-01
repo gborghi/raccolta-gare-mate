@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q11
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma diagonali griglia nxn minima con celle 3 e 17*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0160
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum diagonal grid sum nxn with cells 3 and 17*
+
+> The grid In each cell of a square grid n, where n is a positive integer, an integer is placed so that the numbers in two adjacent cells (i.e. they share a side) differ exactly by 1. The numbers 3 and 17 are in the grid. If n is the smallest possible value compatible with the statement of the problem, what is the sum of the numbers appearing on the diagonal of the grid?
+
+**Answer:** 0160
+[[src_kangourou_squadre_2024_finale__Q11]]

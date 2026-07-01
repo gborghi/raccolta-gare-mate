@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1979-80 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1979-80_round2__Q03
 parent: src_bmo_1979-80_round2
 competition: British Mathematical Olympiad 1979-80 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality for real numbers with equality condition*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dimostrare una disuguaglianza per i numeri reali con condizione di uguaglianza*
+
+> Dimostra che se $a_0 = 0$, $a_1$, $a_2$, $\ldots$, $a_n$ sono numeri reali, allora $$\sum_{i=1}^{n} a_i(a_{i-1} - a_i) \le \tfrac{1}{4}\sum_{i=1}^{n}(a_i - a_{i-1})^2,$$ tenuta di uguaglianza se e solo se $a_i = a_n$ $(0 \le i \le n).$
+
+[[src_bmo_1979-80_round2__Q03]]

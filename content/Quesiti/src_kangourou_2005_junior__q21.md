@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q21
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero risultati diversi di autobus in 19 minuti*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of different bus results in 19 minutes*
+
+> At a bus stop only bus A (usually every 3 minutes) and bus B (usually every 5 minutes) pass. If I'm at a stop exactly 19 minutes and count the total number of buses passing in the meantime, how many different results can I get? A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** C
+[[src_kangourou_2005_junior__Q21]]

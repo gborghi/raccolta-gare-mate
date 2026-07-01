@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16mq_honsen__Q03
 parent: src_jmo16mq_honsen
 competition: Japan Mathematical Olympiad 2006 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions satisfying a given functional equation*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite sui numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(x)^2 + 2y\,f(x) + f(y) = f\bigl(y + f(x)\bigr).$$
+
+[[src_jmo16mq_honsen__Q03]]

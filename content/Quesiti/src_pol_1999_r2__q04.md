@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r2__Q04
 parent: src_pol_1999_r2
 competition: Olimpiade Matematica Polacca 1999 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interior point P with angle conditions; if O (circumcenter) differs from P, prove angle APO is right.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto interno P con condizioni angolari; se O (circumcentro) differisce da P, dimostrare che l'angolo APO è corretto.*
+
+> $P$ deve essere un punto all'interno di un triangolo $ABC$ tale che $\angle PAB = \angle PCA$ e $\angle PAC = \angle PBA$. Se $O \neq P$ è il centro circundante di $\triangle ABC$, dimostrare che $\angle APO$ è corretto.
+
+[[src_pol_1999_r2__Q04]]

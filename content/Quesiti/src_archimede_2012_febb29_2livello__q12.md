@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q12
 parent: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Moneta blu ruota attorno a tre rosse, numero di giri*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Blue coin revolving around three reds, number of turns MSK1/>
+
+> Mary has three red and one blue coins, all of the same radius and with a rubber edge. He puts the three red coins on the table at the tips of an equilateral triangle so that they touch two by two, then he puts the blue one on the table so that he touches one of the red coins. Now, by holding the red coins tight, he rotates the blue one so that it always remains attached to at least one of the red coins and the rubber edges do not slip. After a complete tour around the group of the three red coins, the blue coin returns to its starting point; how many turns has it made on itself?
+>
+> - **(A)** 3
+> - **(B)** 1
+> - **(C)** π
+> - **(D)** 3π 4
+> - **(E)** 9 2. Problems with numerical answer  5 points
+
+**Answer:** A
+[[src_archimede_2012_febb29_2livello__Q12]]

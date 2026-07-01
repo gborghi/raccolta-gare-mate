@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q22
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs of integers (x, y) satisfying sqrt(x - sqrt(x+23)) = 2*sqrt(2) - y.*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare coppie di integri (x, y) che soddisfano sqrt(x - sqrt(x+23)) = 2*sqrt(2) - y.*
+
+> Quante coppie di integri $(x, y)$ soddisfano l'equazione $\sqrt{x - \sqrt{x+23}} = 2\sqrt{2} - y$?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 8
+> - **(E)** infinitamente molti
+
+**Risposta:** B
+[[src_smc_2022__Q22]]

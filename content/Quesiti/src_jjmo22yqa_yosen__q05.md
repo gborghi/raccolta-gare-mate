@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q05
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral ABCD with BC=1, angle C=90 deg, AC=AD, triangles ABD and BCD similar*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{5\sqrt{2}}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di ABCD quadrilaterale con BC=1, angolo C=90 deg, AC=AD, triangolo ABD e BCD simile*
+
+> C'è un quadrilaterale $ABCD$ che soddisfa $BC = 1$, $\angle BCD = 90^\circ$ e $AC = AD$. Dato che i triangoli $ABD$ e $BCD$ sono simili, si trova l'area del quadrilaterale $ABCD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \dfrac{5\sqrt{2}}{4}
+[[src_jjmo22yqa_yosen__Q05]]

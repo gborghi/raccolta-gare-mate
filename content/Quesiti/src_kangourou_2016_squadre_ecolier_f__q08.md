@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q08
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza in mm del trenino in microkang*
 
@@ -41,3 +44,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 836
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Length in mm of the microkang trailer< MSK1/>
+
+> Measurements in Kangland. In Kangland, lengths are not measured in meters, but in kang. A kang is 1.6 meters long, consists of 80 minikang and each minikang consists of 80 microkang. Anna's train is 3344 microkang long. How many millimeters is it?
+>  
+> 
+> 2
+
+**Answer:** 836
+[[src_kangourou_2016_squadre_ecolier_f__Q08]]

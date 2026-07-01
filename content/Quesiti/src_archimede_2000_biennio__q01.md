@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q01
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Guadagno totale dopo doppia compravendita di scaffaletto*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total profit after double sale of shelf *
+
+> At the flea market a seller sells for 80 euros a shelf he had bought for 70 euros. Then think about it, buy the shelf back for 90 euros and sell it back for 100 euros. How much did you make in the end?
+>
+> - **(A)** I 've got nothing .
+> - **(B)** 10 Euro
+> - **(C)** This appropriation is intended to cover expenditure relating to:
+> - **(D)** He lost 10 Euros.
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_2000_biennio__Q01]]

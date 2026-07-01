@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q05
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of a cube made from a rectangular paper sheet net*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 125
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di un cubo realizzato da una rete di fogli di carta rettangolare*
+
+> Utilizzando la parte evidenziata di un foglio rettangolare di carta come rete, si può assemblare un cubo. Se la superficie del foglio è $300\,\text{cm}^2$, qual è il volume di questo cubo, in $\text{cm}^3$?
+
+![[src_obm_2004_n1_f2__Q05.png]]
+
+**Risposta:** 125
+[[src_obm_2004_n1_f2__Q05]]

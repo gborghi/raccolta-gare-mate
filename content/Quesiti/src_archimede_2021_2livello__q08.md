@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q08
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Striscia di 8 caselle, operazioni, combinazioni ottenibili*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Stripe of 8 boxes, operations, combinations obtained*
+
+> Little Boole has drawn a strip of eight boxes, each of which can be written as either a 0 or a 1. Initially each box contains a 0. For each move, Boole performs one of the following operations: (a) replace each 0 with a 1 and each 1 with a 0; (b) choose three consecutive boxes and only in these boxes replace each 0 with a 1 and vice versa. How many different combinations of 0 and 1 can Boole get?
+>
+> - **(A)** 25
+> - **(B)** 26
+> - **(C)** 27
+> - **(D)** 28 −2
+> - **(E)** 28
+
+**Answer:** C
+[[src_archimede_2021_2livello__Q08]]

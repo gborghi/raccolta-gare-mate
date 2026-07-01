@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q04
 parent: src_kangourou_2024_benjamin_semifinale
 competition: Kangourou Semifinale individuale Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale riga si trova 2024 nella disposizione a moduli*
 
@@ -153,3 +156,94 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which row is 2024 in the module provision*
+
+![[src_kangourou_2024_benjamin_semifinale__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[dot/.style={circle,fill,inner sep=2pt}]
+  \foreach \x in {0,1,2,3,4} \node[dot] at (\x*0.6, 0) {};
+  \foreach \y in {1,2,3} {
+    \node[dot] at (0, -\y*0.6) {};
+    \node[dot] at (4*0.6, -\y*0.6) {};
+  }
+  \node[dot] at (0, -4*0.6) {};
+  \foreach \x in {3,4,5,6} \node[dot] at (\x*0.6, -4*0.6) {};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 4) Imagine listing all n integers from 1 onwards by arranging them as shown in the figure, where each vertical segment and each horizontal segment of consecutive numbers contains exactly 5. In which line, starting from the top, is the number 2.024? This appropriation is intended to cover expenditure on technical assistance for the implementation of the programme.
+>  
+>  
+>  
+> 21 22 23 24 25
+>  
+>  
+>  
+> The amount of the loan shall be calculated on the basis of the following:
+>  
+>  
+>  
+> 10
+>  
+>  
+>  
+> 20
+>  
+>  
+>  
+> 26
+>  
+>  
+>  
+> The amount of the loan shall be calculated on the basis of the amount of the loan.
+>  
+>  
+>  
+> 11
+>  
+>  
+>  
+> 19
+>  
+>  
+>  
+> 27
+>  
+>  
+>  
+> The amount of the loan shall be calculated on the basis of the amount of the loan.
+>  
+>  
+>  
+> 12
+>  
+>  
+>  
+> 18
+>  
+>  
+>  
+> 28
+>  
+>  
+>  
+> The amount of the loan shall be calculated on the basis of the amount of the loan.
+>  
+>  
+>  
+> 13 14 15 16 17
+>  
+>  
+>  
+> 29 30 31 A) The first. B) The second. C) The third. D) The fourth. E) The fifth. Answer: A). The solution. The arrangement consists of an alignment of modules such as the one shown in the figure, each of which contains 16 consecutive integers. You have 2.024 = 16 × 126 + 8: then 2.024 is in the same line as the number 8, so in the first.
+
+**Answer:** A
+[[src_kangourou_2024_benjamin_semifinale__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q11
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma di due numeri di 4 cifre con cifre 1-8*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of two 4-digit numbers with digits 1-8*
+
+> Using each of the digits 1, 2, 3, 4, 5, 6, 7, 8 exactly once, we form two 4-digit numbers so that their sum is as small as possible. What is the value of that sum? A) 2468 B) 3825 C) 4023 D) 4734 E) 6912 A B
+> 
+> I'm going to pay. I'm going to pay. I'm going to tell you something.
+
+**Answer:** B
+[[src_kangourou_2012_cadet__Q11]]

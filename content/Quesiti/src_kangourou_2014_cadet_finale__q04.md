@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Cadet — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q04
 parent: src_kangourou_2014_cadet_finale
 competition: Kangourou 2014 finale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo rettangolo dalla bisettrice (4 e 5)*
 
@@ -57,3 +60,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 54 cm^2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the rectangular triangle from the beam (4 and 5) *
+
+![[src_kangourou_2014_cadet_finale__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (C) at (0,3);
+  \coordinate (B) at (5,0);
+  \coordinate (K) at (0,1.5);
+  \coordinate (H) at (1.5,2.1);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (B) -- (K);
+  \draw (C) -- (H);
+  \node[left] at (C) {$C$};
+  \node[left] at (A) {$A$};
+  \node[right] at (B) {$B$};
+  \node[left] at (K) {$K$};
+  \node[above right] at (H) {$H$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The beam of one of the sharp corners of a rectangular triangle divides the opposite triangle into two segments, one 4 cm long and the other 5 cm long. Calculate the area of the triangle.
+
+**Answer:** 54 cm^2
+[[src_kangourou_2014_cadet_finale__Q04]]

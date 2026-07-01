@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q08
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle AEB in rectangle with intersecting segments*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{25}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di triangolo AEB rettangolare con segmenti incrociati*
+
+> In rettangolo $ABCD$, $AB = 5$ e $BC = 3$. I punti $F$ e $G$ sono sul segmento di linea $CD$ in modo che $DF = 1$ e $GC = 2$. Le linee $AF$ e $BG$ si incrociano a $E$. Qual è la superficie di < MSK11/>?
+
+**Risposta:** \frac{25}{2}
+[[src_prmo_2012__Q08]]

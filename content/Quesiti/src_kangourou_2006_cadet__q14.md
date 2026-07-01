@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q14
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di alieni blu su STAR 1*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of blue aliens on STAR 1< MSK1/>
+
+> An alien convoy crosses space aboard the starship STAR 1. They're three different colors: green, purple and blue. The greens have two tentacles, the lilies have three, and the blues have five. The greens are as many as the lilies and the blues are 10 more than the greens. Together they have 250 tentacles. How many blue aliens travel on STAR 1? A) 15 B) 20 C) 25 D) 30 E) 40
+
+**Answer:** D
+[[src_kangourou_2006_cadet__Q14]]

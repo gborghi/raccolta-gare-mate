@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q22
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza dal lato inferiore del quadrato intermedio*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance from the lower side of the middle square*
+
+![[src_kangourou_2020_benjamin_marzo__prob22.png]]
+
+> Look at the figure: In a large square, whose side is known, three smaller squares are drawn. The distance of the lower side of the minor and the greater side of the three from the lower side of the large square is known. How many centimeters from the bottom of the large square is the bottom of the middle square? A) 17
+> 	
+> B) 17,5 C) 18
+> 	
+> D) 18,5 E) 19
+
+**Answer:** E
+[[src_kangourou_2020_benjamin_marzo__Q22]]

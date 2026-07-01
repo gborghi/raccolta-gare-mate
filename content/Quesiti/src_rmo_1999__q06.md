@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1999 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1999__Q06
 parent: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer solutions of $(m-n)^2 = \frac{4mn}{m+n-1}$*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni integrali di $(m-n)^2 = \frac{4mn}{m+n-1}$*
+
+> Trova tutte le soluzioni in numeri interi $m, n$ dell'equazione $$(m-n)^2 = \frac{4mn}{m+n-1}.$$
+
+[[src_rmo_1999__Q06]]

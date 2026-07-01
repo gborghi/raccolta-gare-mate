@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round1__Q05
 parent: src_bmo_2013-14_round1
 competition: British Mathematical Olympiad 2013-14 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle with interior point; prove two identities/inequalities*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo equilaterale con punto interno; dimostrare due identità/inequità*
+
+> Che $ABC$ sia un triangolo equilaterale, e che $P$ sia un punto all'interno di questo triangolo. I piedi delle perpendicolari da $P$ ai lati $BC$, $CA$ e $AB$ siano rispettivamente $D$, $E$ e $F$. Provare che a) $AP + BP + CP = AD + BE + CF$, b) $AP + BD + CE \geq BP + CD + AE$.
+
+[[src_bmo_2013-14_round1__Q05]]

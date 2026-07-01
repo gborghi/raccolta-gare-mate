@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q14
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misure della scatola piu piccola per la costruzione*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Smaller box sizes for construction< MSK1/>
+
+![[src_kangourou_2017_benjamin_marzo__prob14.png]]
+
+> Milena made the construction you see next to the 1 dm side cubes and now wants to put it in a rectangular box. Which of the following are the dimensions of the smallest box you can use? A) 3 × 4 × 4 B) 3 × 5 × 5 C) 3 × 4 × 5 D) 4 × 4 × 4 E) 4 × 4 × 5
+
+**Answer:** C
+[[src_kangourou_2017_benjamin_marzo__Q14]]

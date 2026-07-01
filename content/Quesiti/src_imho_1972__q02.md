@@ -1,6 +1,7 @@
 ---
 title: IMO 1972 (XIV International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1972__Q02
 parent: src_imho_1972
 competition: IMO 1972 (XIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrilateral inscribed in circle can be dissected into inscribable quadrilaterals*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quadrilateral inscribed in circle can be dissected into inscribable quadrilaterals*
+
+> Prove that if $n \ge 4$, every quadrilateral that can be inscribed in a circle can be dissected into $n$ quadrilaterals each of which is inscribable in a circle.
+
+[[src_imho_1972__Q02]]

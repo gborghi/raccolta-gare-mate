@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q05
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che Nicola vinca almeno 4 monete in 5 partite*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Chances that Nicola will win at least 4 coins in 5 games
+
+> At a fair there is a very inviting game, because you can participate for free; the winner wins a prize. The prize agreed for the first four matches is one coin, for the fifth it is two coins. Nicola at each game has a 2-3 chance of winning the prize and decides to play 5 games. What are the odds of Nicholas winning at least four coins?
+>
+> - **(A)** 5 2 3 5
+> - **(B)** 4 2 3 5
+> - **(C)** 3 2 3 5
+> - **(D)** 2 2 3 5
+> - **(E)** 2 3 5 .
+
+**Answer:** A
+[[src_archimede_2011_2livello__Q05]]

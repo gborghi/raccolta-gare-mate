@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q13
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ticket price per student given total and absences*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Find il prezzo del biglietto per studente dato il totale e le assenze< MSK1/>
+
+> Per partecipare al film \textit{Central do Brasil}, ciascuno degli studenti di una classe deve pagare $y$ reais per la tariffa dell'autobus. Poiché 3 studenti erano assenti, ciascuno degli studenti presenti dovette pagare 2 reais in più per coprire il costo totale. Qual era il prezzo per persona?
+> 
+> A) $(x+3)(y-2)$ B) $(x-3)y + 2$ C) $x(y-2) - 3$ D) $xy - 6$ E) $(x-3)(y+2)$
+
+**Risposta:** E
+[[src_obm_1998_n2_f1__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q02
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo anno con somma eta figli > eta padre*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>First year with total children > parent < MSK1/>
+
+> The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded because of a defect to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
+
+**Answer:** D
+[[src_kangourou_2008_junior_marzo__Q02]]

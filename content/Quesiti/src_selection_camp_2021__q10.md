@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q10
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many primes whose island-bridge graph is disconnected*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molte prime il cui grafico di ponte-isola è disconnesso*
+
+> Per ogni numero primo $p$, esiste un regno $P$ costituito da isole $1, 2, \ldots, p$. Per due isole distinte $n$ e $m$ del regno $P$, un ponte li collega se e solo se $(n^2 - m + 1)(m^2 - n + 1)$ è divisibile da $p$. Prove che esistono infinite prime $p$ per le quali esiste una coppia di due isole distinte del regno $P$ che non possono essere raggiunte l'una dall'altra viaggiando attraverso i ponti.
+
+[[src_selection_camp_2021__Q10]]

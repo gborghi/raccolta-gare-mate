@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q11
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *People in a row alternate truth-tellers and liars; count the liars.*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Le persone in fila si alternano a dire la verità e a mentire; contare i bugiardi.
+
+> In una fila di persone, ognuno è onesto o bugiardo. Scopri quanti sono i bugiardi.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la prima persona a rispondere non può dire la verità; la seconda ha detto la verità, la terza ha mentito, la quarta ha detto la verità, e così via, quindi i bugiardi e le persone oneste si alternano. Quindi ci sono mentitori nella fila.]
+
+**Risposta:** C
+[[src_obm_2016_n1_f1__Q11]]

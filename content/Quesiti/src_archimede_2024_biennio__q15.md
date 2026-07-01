@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio__Q15
 parent: src_archimede_2024_biennio
 competition: Giochi di Archimede 2024 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di triangolo TEF da aree di triangoli in rettangolo*
 
@@ -66,3 +69,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*TEF triangle area from rectangular triangle areas*
+
+![[src_archimede_2024_biennio__prob15.png]]
+
+> In the rectangle ABCD, the points E, F, G, H, I, L divide the sides into 2 or 3 equal parts, as shown in the figure. The areas of TAG, THI, TCL triangles (expressed in mm2) are those shown in the figure. How many mm2 is the area of the TEF triangle ? T A B C D E F G H I L 20 15 13 ?
+>
+> - **(A)** 7
+> - **(B)** 6
+> - **(C)** 5
+> - **(D)** 8
+> - **(E)** 9
+
+**Answer:** A
+[[src_archimede_2024_biennio__Q15]]

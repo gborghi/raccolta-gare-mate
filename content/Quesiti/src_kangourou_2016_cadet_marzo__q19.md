@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q19
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti sulla superficie*
 
@@ -60,3 +63,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* points on the surface*
+
+![[src_kangourou_2016_cadet_marzo__prob19.png]]
+
+> I had seven ordinary dice, so that the sum of the dots on each pair of opposite faces is 7. I glued them so that on the faces that you come across against each other there are the same number of dots, so I got the solid figure. How many dots are there on the surface of such a solid? A) 24
+> 	
+> B) 90
+> 	
+> C) 95
+> 	
+> D) 105 E) 126
+>
+
+**Answer:** B
+[[src_kangourou_2016_cadet_marzo__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2008 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2008__Q06
 parent: src_cn_csmo_2008
 competition: China Southeastern Mathematical Olympiad 2008
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove M, N, D collinear given incircle tangency and midpoint conditions*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova M, N, D collineare data la tangenza del cerchio e le condizioni del punto medio*
+
+> Come mostrato nella figura, $BC$ e $AC$ sono tangenti al cerchio inscritto $I$ di $\triangle ABC$ rispettivamente a $M$ e $N$. $E$ e $F$ sono rispettivamente i punti intermedi di $AB$ e $AC$. $EF$ si interseca con $BI$ al punto $D$. Provare che $M$, $N$, $D$ sono collineari.
+
+![[src_cn_b07_w182__Q06.png]]
+
+[[src_cn_csmo_2008__Q06]]

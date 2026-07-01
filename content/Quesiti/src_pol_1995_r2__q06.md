@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r2__Q06
 parent: src_pol_1995_r2
 competition: Olimpiade Matematica Polacca 1995 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine all positive integers n for which an n x n square can be cut into 2x2 and 3x3 squares (sides parallel to the big square).*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determina tutti gli integri positivi n per i quali un n x n quadrato può essere tagliato in quadrati 2x2 e 3x3 (laterali paralleli al grande quadrato).*
+
+> Determinare tutti i numeri interi positivi $n$ per i quali il quadrato $n \times n$ può essere tagliato in quadrati $2 \times 2$ e $3 \times 3$ (con i lati paralleli ai lati del grande quadrato).
+
+[[src_pol_1995_r2__Q06]]
