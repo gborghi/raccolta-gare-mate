@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca R + M + O dati prodotti e condizioni di somma< MSK1/>
+*Ricerca R + M + O dati prodotti e condizioni di somma*
 
 > Le lettere $R$, $M$ e $O$ rappresentano numeri interi. Se $R \times M \times O = 240$, $R \times Q \times M = 46$ e $R + M \times Q = 64$, qual è il valore di $R + M + O$?
 

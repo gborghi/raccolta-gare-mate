@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>total family< MSK1/>
+*total family*
 
 > I have as many brothers as I have sisters. For each of my brothers, it happens that the number of his sisters is twice the number of his brothers. With Mom and Dad, how many of us are in the family?
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles < MSK1/>
+*Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles *
 
 > Jacob wants to completely cover the figure, gluing nine pieces of paper (four rectangles and five squares). However, if you stick $1$ mm of $1 \times 1$ paper on certain boxes, none of them are intended.
 > 

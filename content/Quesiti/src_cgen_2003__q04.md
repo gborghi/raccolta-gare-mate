@@ -79,7 +79,7 @@ tags:
 > 
 > 1. $a$, $b$, $c$ siano tre numeri reali quali $a(b-c)\neq 0$, $A$, $B$, $C$ i punti delle rispettive coordinate $(0,a)$, $(b,0)$, $(c,0)$. Calcolare le coordinate dell'ortocentro $D$ del triangolo $ABC$.
 > 
-> 2. Si deve $X$ essere l'insieme ottenuto prendendo l'unione di una riga $\Delta$ e di un punto $M$ non appartenente a $\Delta$. Determinare < MSK4/>. Mostra che $\mathcal{H}(X)\cup X$ è un insieme ortocentrico.
+> 2. Si deve $X$ essere l'insieme ottenuto prendendo l'unione di una riga $\Delta$ e di un punto $M$ non appartenente a $\Delta$. Determinare $\mathcal{H}(X)$. Mostra che $\mathcal{H}(X)\cup X$ è un insieme ortocentrico.
 > 
 > 3. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno tre punti di $(O,\vec{u})$ distinti da $O$. a. Indicare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse non zero dello stesso segno. b. Indicare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse rigorosamente positive.
 > 

@@ -44,13 +44,6 @@ tags:
 >  
 >  
 > E. nessuno di questi 
->   
->  
->  
->  
->  
->  
-> 
 > Student 2002. Pagina N. 
 > 5 
 > I quesiti dal N. 21 al N. 30 valgono 5 punti

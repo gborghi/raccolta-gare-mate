@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cubets with exactly one painted face< MSK1/>
+*Cubets with exactly one painted face*
 
 > 26. A large cube is obtained by assembling 64 identical cubes. Three of the faces of the large cube are painted. For how many of the cubes, at most, can one face be painted? A) 27 B) 28 C) 32 D) 34 E) 40 1 6 3
 

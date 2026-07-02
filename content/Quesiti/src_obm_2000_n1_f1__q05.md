@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Palle in scatola: riduzione del colore per eliminazione< MSK1/>
+*Palle in scatola: riduzione del colore per eliminazione*
 
 > Una scatola contiene diverse palle: blu, giallo, rosso, bianco e nero. Renato tira le palle $3$ dalla scatola. Sapendo che nessuna delle tre palle è nera, non gialla e non rossa, Renato vuole fare la seguente affermazione riguardo a queste palle $3$:
 > 

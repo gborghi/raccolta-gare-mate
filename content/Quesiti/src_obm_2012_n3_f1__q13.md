@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'anno di nascita di qualcuno nato il 29 febbraio in una domenica data il 29 febbraio 2012 era mercoledì< MSK1/>
+*L'anno di nascita di qualcuno nato il 29 febbraio in una domenica data il 29 febbraio 2012 era mercoledì*
 
 > Gli anni bisesti hanno un altro giorno, il 29 febbraio, che si verifica ogni 4 anni. Esmeralda è nata il 29 febbraio in una domenica. Sapendo che il 29 febbraio 2012 è un mercoledì, in quale anno è nata Esmeralda?
 > 

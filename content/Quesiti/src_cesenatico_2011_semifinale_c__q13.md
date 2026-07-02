@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of aryan reaching the walls (catapult) < MSK1/>
+*Probability of aryan reaching the walls (catapult) *
 
 > The Romans besieged the village of the Gauls and intended to build arrows to bring down the walls. The Welsh have a catapult that can destroy their fins, but it can't hit them if they're closer than 30 steps or more than 150 steps away from the walls. In addition, a kite travels 40 steps per minute, a catapult launches a stroke per minute and hits the kite with a probability of 10 d where d is the distance (in steps) of the kite from the walls. The Romans send the kite one at a time, they want more than a 50% chance of getting at least one kite to the walls and they build the minimum number of kite that allows it. What's the probability in this case? Provide the first four digits after the comma as the answer.
 

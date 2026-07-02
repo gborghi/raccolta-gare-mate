@@ -68,7 +68,7 @@ tags:
 
 ![[src_kangourou_2023_ecolier__prob24.png]]
 
-> Maria blacked out exactly 5 boxes in a grid 4 < MSK0/> 4. Then he challenged five of his friends to guess which boxes he blacked out. Their answers are those given below. After looking at their drawings, Mary says, "One of you guessed all the boxes and each of the others just 4 boxes". What's the correct answer? A) B)
+> Maria blacked out exactly 5 boxes in a grid 4 × 4. Then he challenged five of his friends to guess which boxes he blacked out. Their answers are those given below. After looking at their drawings, Mary says, "One of you guessed all the boxes and each of the others just 4 boxes". What's the correct answer? A) B)
 > 	
 > C)
 > 	

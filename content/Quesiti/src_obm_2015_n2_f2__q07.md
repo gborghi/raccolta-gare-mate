@@ -68,7 +68,7 @@ tags:
 > 
 > b) Considerando di nuovo la tabella con la colorazione iniziale mostrata nella figura, disegnare la tabella $2 \times 5$ con i colori di ogni quadrato dopo che Maria ha premuto i pulsanti $L1$, $C2$, $C3$ e $C5$.
 > 
-> (c) Maria ha sostituito la sua tabella < MSK0/> con una tabella < MSK1/>, come indicato nella figura seguente. Con ogni riga e colonna è associato un pulsante che cambia il colore di ogni quadrato di quella riga o colonna, per un totale di pulsanti $2 + 2015 = 2017$. Quanti colori della tabella $2 \times 2015$ si possono ottenere premendo alcuni di questi pulsanti?
+> (c) Maria ha sostituito la sua tabella $2 \times 5$ con una tabella $2 \times 2015$, come indicato nella figura seguente. Con ogni riga e colonna è associato un pulsante che cambia il colore di ogni quadrato di quella riga o colonna, per un totale di pulsanti $2 + 2015 = 2017$. Quanti colori della tabella $2 \times 2015$ si possono ottenere premendo alcuni di questi pulsanti?
 
 ![[src_obm_2015_n2_f2__Q07.png]]
 

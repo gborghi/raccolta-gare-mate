@@ -55,7 +55,7 @@ tags:
 
 *Posizione di Josias in una linea, con il numero davanti un quarto del numero dietro *
 
-> Josias sta in fila. Lasciate che la sua posizione sia $x$, così $x-1$ persone sono arrivate prima di lui e le persone che sono arrivate dopo di lui numero $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias < MSK5/> nella riga? [Valore della chiave di risposta: $x=404$.]
+> Josias sta in fila. Lasciate che la sua posizione sia $x$, così $x-1$ persone sono arrivate prima di lui e le persone che sono arrivate dopo di lui numero $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias $x$ nella riga? [Valore della chiave di risposta: $x=404$.]
 
 **Risposta:** A
 [[src_obm_2016_n3_f1__Q02]]

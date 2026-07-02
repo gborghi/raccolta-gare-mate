@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value f(5) with f(x) = ax3+bx^2+5x-6 and f(a) = f(b) = f(c) = 1 < MSK1/>
+*Value f(5) with f(x) = ax3+bx^2+5x-6 and f(a) = f(b) = f(c) = 1 *
 
 > The three girls will infiltrate Vector's house under the pretext of selling cookies by making him choose between 82 different types. The minions cook them: they prepare 68 biscuits; one of the first type, two of the second type, and so on, up to the 82nd type of biscuit, of which 82 are baked. The packages were obtained by Dr. Nefarey, who, however, misunderstood the phone and took 83 cookies a day. Knowing that each package contains only one type of cookie, and that all cooked cookies are packaged, what is the minimum number of packages that the minions will need to use?
 

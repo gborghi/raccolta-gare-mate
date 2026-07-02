@@ -79,7 +79,7 @@ tags:
 
 *2007 numbers with divisible pairs 17 or 23*
 
-> What are the positive integers n of 2007 digits (in decimal representation) with the following property: any two-digit integer consisting of two consecutive digits of n (in the same order in which they appear in n) is divisible by 17 or by 23? A) 5 B) 6 C) 7 D) 9 E) More than 9 < MSK0/>2 1 x + 1 y + 1 z 3 5 6 A D M B C Tests_08.qxp 9-03-2008 14:56 Page 32
+> What are the positive integers n of 2007 digits (in decimal representation) with the following property: any two-digit integer consisting of two consecutive digits of n (in the same order in which they appear in n) is divisible by 17 or by 23? A) 5 B) 6 C) 7 D) 9 E) More than 9 √2 1 x + 1 y + 1 z 3 5 6 A D M B C Tests_08.qxp 9-03-2008 14:56 Page 32
 > 
 > Category Student For fourth and fifth year students of secondary school
 >  

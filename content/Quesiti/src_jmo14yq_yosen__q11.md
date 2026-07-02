@@ -48,6 +48,6 @@ tags:
 
 *ABCD quadrilaterale convexa con AD=CD, BD=BC e angoli dati; trovare angolo BAD.*
 
-> Nel quadrilaterale convex $ABCD$, abbiamo $AD = CD$, $BD = BC$, $\angle ADC = 168^\circ$ e $\angle ABC = 66^\circ$. Trova < MSK5/>.
+> Nel quadrilaterale convex $ABCD$, abbiamo $AD = CD$, $BD = BC$, $\angle ADC = 168^\circ$ e $\angle ABC = 66^\circ$. Trova $\angle BAD$.
 
 [[src_jmo14yq_yosen__Q11]]

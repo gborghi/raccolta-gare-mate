@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grandmother's age at the time of Katia's birth< MSK1/>
+*Grandmother's age at the time of Katia's birth*
 
 > Adding the ages (in whole numbers of years) of Katia and her mother gives 36; adding the ages of her mother and grandmother gives 81. How old was Grandma when Katia was born? A) 28
 > 	

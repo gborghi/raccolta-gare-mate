@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pieces of cheese did the mouse take in the maze< MSK1/>
+*How many pieces of cheese did the mouse take in the maze*
 
 ![[src_kangourou_2011_ecolier__prob22.png]]
 

@@ -64,7 +64,7 @@ tags:
 
 *Almeno n in modo che la composizione a n volte di f sia uguale all'identità su S={1..9}*
 
-> Let < MSK0/>. Considera una funzione $f : S \to S$ definita nella tabella seguente.
+> Let $S = \{1, 2, 3, 4, 5, 6, 7, 8, 9\}$. Considera una funzione $f : S \to S$ definita nella tabella seguente.
 > 
 > $\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \hline x & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ \hline f(x) & 8 & 3 & 5 & 7 & 2 & 9 & 6 & 1 & 4 \\ \hline \end{array}$
 > 

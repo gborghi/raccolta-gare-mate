@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time when the two watches were set to the correct time< MSK1/>
+*Time when the two watches were set to the correct time*
 
 > There are two digital clocks in my office that show the 24 hours. One goes one minute ahead every hour, the other loses two minutes every hour. Yesterday, at the same time, Sara and I both returned them at the right time but when I looked at them today, one pointed to 11:00, the other to 12:00. What time did we put them on the right time yesterday? A) 16:20 B) 16:00 C) 15:40 D) 15:20 E) 14:00
 

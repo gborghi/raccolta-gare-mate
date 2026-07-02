@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Riduczione approssimativa percentuale degli incidenti di macchine da tè da 225 a 47< MSK1/>
+*Riduczione approssimativa percentuale degli incidenti di macchine da tè da 225 a 47*
 
 > Le statistiche ufficiali britanniche sugli incidenti hanno mostrato che in un solo anno si sono verificati 225 incidenti che hanno coinvolto teapot. Tuttavia, nell'anno successivo si registrarono 47 simili incidenti. Qual è stata la percentuale approssimativa di riduzione degli incidenti registrati che hanno coinvolto teapot dal primo anno al secondo?
 >

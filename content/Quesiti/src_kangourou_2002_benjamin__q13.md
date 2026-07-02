@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Movement of the bee in the hive< MSK1/>
+*Movement of the bee in the hive*
 
 ![[src_kangourou_2002_benjamin__prob13.png]]
 

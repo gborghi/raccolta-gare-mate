@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which is correct< MSK1/>
+*which is correct*
 
 ![[src_kangourou_2023_ecolier__prob20.png]]
 

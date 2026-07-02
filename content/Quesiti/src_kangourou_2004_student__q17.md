@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rectangular triangles with vertices of a 14-zone < MSK1/>
+*Rectangular triangles with vertices of a 14-zone *
 
 > How many rectangular triangles have three of the 14 vertices of a regular 14? A) 72 B) 82 C) 84 D) 88 E) other answer
 

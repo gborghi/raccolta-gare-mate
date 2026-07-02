@@ -53,7 +53,7 @@ tags:
 
 *46 quadrati rossi sulla lavagna 9x9: almeno 3 rossi in ogni blocco 2x2*
 
-> Circa 46 quadrati di una lavagna < MSK0/> sono di colore rosso. Indicare che esiste un blocco $2 \times 2$ di 4 quadrati di cui almeno 3 di colore rosso.
+> Circa 46 quadrati di una lavagna $9 \times 9$ sono di colore rosso. Indicare che esiste un blocco $2 \times 2$ di 4 quadrati di cui almeno 3 di colore rosso.
 
 ![[src_inmo_2006__Q04.png]]
 

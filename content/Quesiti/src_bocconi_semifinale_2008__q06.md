@@ -56,7 +56,7 @@ tags:
 
 *Weight of washed cube obtained from 4x4x4 cube*
 
-> This large cube is made up of $4 \times 4 \times 4$ cubes glued together. Starting from the three faces visible, we crossed the cube from one side to the other, lifting entire rows of cubes (in the direction indicated by the arrows). If this wash cube weighs < MSK1/> grams, what is the weight of the 'wash cube' (i.e. the remaining cubes)?
+> This large cube is made up of $4 \times 4 \times 4$ cubes glued together. Starting from the three faces visible, we crossed the cube from one side to the other, lifting entire rows of cubes (in the direction indicated by the arrows). If this washing cube weighs $10$ grams, what is the weight of the 'washing cube' (i.e. the remaining cubes)?
 
 ![[src_bocconi_semifinale_2008__Q06.png]]
 

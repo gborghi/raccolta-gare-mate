@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Report of exagonal and interstellar polygon areas< MSK1/>
+*Report of exagonal and interstellar polygon areas*
 
 ![[src_archimede_2000_triennio__prob13.png]]
 

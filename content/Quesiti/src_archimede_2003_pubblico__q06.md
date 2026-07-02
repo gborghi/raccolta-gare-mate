@@ -43,6 +43,6 @@ tags:
 
 This is the main reason for the change.
 
-> In the main square of the city stands a stone stele. The inscription of the stele is a triangle of numbers that has on its sides the numbers 0, 1, 2, 3, ... as shown in the figure. Every number inside the triangle is the sum of the two that are above it. We indicate with $f(n)$ the sum of the numbers in the line beginning with $n$. What is the remainder of the < MSK2/> division for 2003? (see figure)
+> In the main square of the city stands a stone stele. The inscription of the stele is a triangle of numbers that has on its sides the numbers 0, 1, 2, 3, ... as shown in the figure. Every number inside the triangle is the sum of the two that are above it. We indicate with $f(n)$ the sum of the numbers in the line beginning with $n$. What is the remainder of the $f(2003)$ division for 2003? (see figure)
 
 [[src_archimede_2003_pubblico__Q06]]

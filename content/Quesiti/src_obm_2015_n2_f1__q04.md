@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Possibile data del compleanno di Marta data la limitazione del Giorno della Madre< MSK1/>
+*Possibile data del compleanno di Marta data la limitazione del Giorno della Madre*
 
 > Joao è un uomo molto premuroso e ha deciso di festeggiare, in un solo giorno, il giorno della Madre e il compleanno di sua moglie Marta. Sapendo che in un determinato anno le due date coincidono e che il giorno dopo la celebrazione non coinciderà più (il giorno della madre viene celebrato la seconda domenica di maggio), quale delle opzioni rappresenta una possibile data per il compleanno di Marta?
 > 

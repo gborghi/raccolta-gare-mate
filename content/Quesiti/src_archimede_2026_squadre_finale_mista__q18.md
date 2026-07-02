@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary powers of 16 of the roots of the polynomial < MSK1/>
+*Summary powers of 16 of the roots of the polynomial *
 
 > The Chief has returned to the house Lorenzo Degli Act It's time to proclaim the new Chief of Berkhoff! The old Gödhi begins the ceremony by tracing with coal, on the front of Hilcup, the polynomial p(x) = x15 −2x14 +2x13 −x12 +x11 −2x10 +2x9 −x8 +x7 −2x6 +2x5 −x4 +x3 −2x2 +2x−1. Only someone truly worthy of this title is able to calculate the sum of the 16th powers of all the roots of p (x), including complex ones. How much is that?
 

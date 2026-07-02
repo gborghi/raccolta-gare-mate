@@ -56,7 +56,7 @@ tags:
 
 *Valuta f(0) di una funzione interiore che soddisfa f(n) - n+1)
 
-> La funzione $f$, definita sui numeri interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$, per ogni numero intero $n$. Quanto è < MSK3/>?
+> La funzione $f$, definita sui numeri interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$ per ogni numero intero $n$. Quanto è $f(0)$?
 > 
 > (A) $-17$ (B) 0 (C) 1 (D) 2 (E) 9
 

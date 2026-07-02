@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum sum< MSK1/>
+*minimum sum*
 
 > (Points 5) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters of different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
 

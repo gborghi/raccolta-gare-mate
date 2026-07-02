@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum colours for the straw web< MSK1/>
+*Minimum colours for the straw web*
 
 > Using colored straws (each straw has only one color), you propose to build a lattice like the one in the figure (in which each side of each square is made with only one straw). You don't want any strawberries coming into contact with strawberries of the same color. What's the minimum number of different colors that you can use to make your project?
 >  

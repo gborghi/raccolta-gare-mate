@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode to move on the grid by avoiding traps< MSK1/>
+*Mode to move on the grid by avoiding traps*
 
 > An ant moves on this square mesh pattern to go from $D$ to $A$, following the shortest path. However, you must avoid the trap depicted in the picture in black at all costs. How many different ways can you make this move? Note: the ant moves only on horizontal and vertical segments (tracks).
 

@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mmonths containing day 30< MSK1/>
+*Mmonths containing day 30*
 
 > How many months in a solar year contains the 30th day? A) 6               B) 7              C) 9              D) 11              E) 12
 

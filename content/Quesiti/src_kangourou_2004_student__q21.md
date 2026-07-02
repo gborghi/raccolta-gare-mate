@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-% of broccoli < MSK1/>
+% of broccoli *
 
 > There's an election in Ortholand. Every voter in the Broccoli Party has already eaten broccoli, while 90% of voters in the other parties have never eaten broccoli. What percentage did the Broccoli Party get, if exactly 46% of voters have already eaten broccoli? A) 40% B) 41%        C) 43% D) 45%       E) 46%
 

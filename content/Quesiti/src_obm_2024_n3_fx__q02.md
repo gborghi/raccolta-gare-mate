@@ -57,6 +57,6 @@ tags:
 
 *Triangoli equilaterali sull'ipotenusa; intersezione dei ceviani è uguale al prodotto dei segmenti*
 
-> Che $ABC$ sia un triangolo rettangolo a $B$, con altitudine $BT$ sull'ipotenusa $AC$. Costruire i triangoli equilaterali $BTX$ e $BTY$ in modo tale che $X$ sia situato sullo stesso lato di $BT$ rispetto a $A$ e $Y$ sia situato sullo stesso lato di $BT$ rispetto a $C$. Il $P$ deve essere l'intersezione di $AY$ e $CX$. Provare che < MSK0/>
+> Che $ABC$ sia un triangolo rettangolo a $B$, con altitudine $BT$ sull'ipotenusa $AC$. Costruire i triangoli equilaterali $BTX$ e $BTY$ in modo tale che $X$ sia situato sullo stesso lato di $BT$ rispetto a $A$ e $Y$ sia situato sullo stesso lato di $BT$ rispetto a $C$. Il $P$ deve essere l'intersezione di $AY$ e $CX$. Provare che $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
 
 [[src_obm_2024_n3_fx__Q02]]

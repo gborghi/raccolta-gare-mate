@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>T-shirts for monkeys (III) counting < MSK1/>
+*T-shirts for monkeys (III) counting *
 
 > In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts that Sylvier had bought if they had no aversion to any color?
 

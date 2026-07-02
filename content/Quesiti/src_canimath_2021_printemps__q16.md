@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia< MSK1/>
+*Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia*
 
 > Si dice che un insieme di integri non vuoti sia *equilibrato* se il suo numero di elementi è uguale alla media dei suoi elementi. Ad esempio, l'insieme $\{1, 2, 6\}$ è equilibrato, perché ha $3$ elementi la cui media è uguale a $3$, ma l'insieme $\{1, 2, \ldots, n\}$ non è equilibrato quando $n \ge 2$, perché ha $n$ elementi la cui media è uguale a $(n+1)/2$.
 > 

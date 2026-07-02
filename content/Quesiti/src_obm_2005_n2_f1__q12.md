@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Dicerture incrociate di origine di Paulistas/Baianos; tra tutte, il 20% afferma di Paulista; trova la percentuale vera di Paulistas< MSK1/>
+*Dicerture incrociate di origine di Paulistas/Baianos; tra tutte, il 20% afferma di Paulista; trova la percentuale vera di Paulistas*
 
 > In una certa città accade un fatto interessante. Il 10% dei Baianos dice di essere Paulista e il 10% dei Paulista dice di essere Baiano. Tutti gli altri Paulistas e Baianos assumono la loro vera origine. Tra i Paulistas e i Baianos, $20\%$ dicono di essere Paulistas. Che percentuale rappresentano i veri Paulistas tra i Paulistas e i Baianos? A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Isosceles trapezoide ABCD in piano xy; trovare a^b< MSK1/>
+*Isosceles trapezoide ABCD in piano xy; trovare a^b*
 
 > Che $ABCD$ sia un quadrilaterale nel piano $xy$ con $AB$ parallelo a $CD$ e $AD = BC$. Supponiamo $A = (0, 0)$, $B = (10, 0)$, $C = (8, 5)$ e $D = (a, b)$. Determinare il valore di $a^b$.
 

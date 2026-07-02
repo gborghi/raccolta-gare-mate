@@ -49,6 +49,6 @@ tags:
 
 *Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare*
 
-> $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettore dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che < MSK12/>.
+> $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettore dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che $\widehat{AFE} = \widehat{EFD}$.
 
 [[src_canimath_2022_printemps__Q12]]

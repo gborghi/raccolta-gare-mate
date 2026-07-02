@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many handkerchiefs< MSK1/>
+*how many handkerchiefs*
 
 > On a long rope in the garden they lie to dry some handkerchiefs and some pairs of socks. Between two handkerchiefs there is always at least one sock and between two socks there is at least one handkerchief. There are 29 drying heads. How many handkerchiefs are there? A) 11
 > 	

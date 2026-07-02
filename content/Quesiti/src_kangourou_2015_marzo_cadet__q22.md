@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>major number< MSK1/>
+*major number*
 
 > Five positive integers (not necessarily all different) are inscribed on five cards. For each pair of cards, Peter calculates the sum of the numbers written on them. The different totals you get are only three: 57, 70 and 83. What's the biggest number on the cards? A) 35 B) 42
 > 	

@@ -61,7 +61,7 @@ tags:
 
 > I fattori comuni più alti di tutte le coppie scelte dai numeri interi positivi $Q$, $R$ e $S$ sono tre numeri primi diversi.
 > 
-> Qual è il minimo valore possibile di < MSK0/>?
+> Qual è il minimo valore possibile di $Q + R + S$?
 >
 > - **(A)** 41
 > - **(B)** 31

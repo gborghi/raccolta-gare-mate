@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which has a larger area< MSK1/>
+*which has a larger area*
 
 ![[src_kangourou_2023_benjamin__prob29.png]]
 

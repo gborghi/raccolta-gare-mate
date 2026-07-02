@@ -52,6 +52,6 @@ tags:
 
 Game of moving points on a line, periodicity question
 
-> < MSK0/> is a positive real. $N$ is an integer greater than 1. < MSK2/> points are placed on a line, not by coincidence. A move is carried out as follows. Pick any two points $A$ and $B$ which are not at the same location. Replace $B$ by another point $B'$ to the right of $B$. Replace $A$ by another point $A'$ to the left of $A$ such that $A'B' = kAB$. For what values of $k$ can we move the points arbitrarily far to the right by repeated moves?
+> $k$ is a positive real. $N$ is an integer greater than 1. $N$ points are placed on a line, not by coincidence. A move is carried out as follows. Pick any two points $A$ and $B$ which are not at the same location. Replace $B$ by another point $B'$ to the right of $B$. Replace $A$ by another point $A'$ to the left of $A$ such that $A'B' = kAB$. For what values of $k$ can we move the points arbitrarily far to the right by repeated moves?
 
 [[src_imho_2000__Q03]]

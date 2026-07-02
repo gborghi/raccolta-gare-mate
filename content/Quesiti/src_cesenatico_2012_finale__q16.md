@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of aura of 7 digits with 4 zeros or greater< MSK1/>
+*Probability of aura of 7 digits with 4 zeros or greater*
 
 > The defective scooter finally out of the resuscitation tank, Gonioku is ready to face Symmetrizer. These, unable to perceive the aura of enemies, rely on their malfunctioning scout. You can see that Gonioku's aura is a positive integer of 7 digits, that 4 of these are zeros (but not the first) and that this number is multiple 3 but not 4. Symmetrizer assumes for simplicity that Gonioku's aura can be with equal probability any of the numbers that satisfy the conditions. He also knows that his aura is 70,000,000. What is the probability that Gonioku's is greater? As a response, provide the first four digits after the comma.
 

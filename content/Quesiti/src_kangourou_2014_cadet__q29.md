@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most frog-friendly leaves (non-adjacent leaps) < MSK1/>
+*Most frog-friendly leaves (non-adjacent leaps) *
 
 ![[src_kangourou_2014_cadet__prob29.png]]
 

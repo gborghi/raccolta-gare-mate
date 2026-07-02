@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of chocolates given to three children< MSK1/>
+*Number of chocolates given to three children*
 
 > The mother gave her three children the same number of chocolates. When they each ate six, they realized that, overall, the chocolates left were as many as they each received from their mother. What's the total number of chocolates your mom gave you? A) 27 B) 48 C) 36 D) 21 E) 22 Answer: A). The solution. The number sought must be such that subtracting 18 gives one third of the same number.
 

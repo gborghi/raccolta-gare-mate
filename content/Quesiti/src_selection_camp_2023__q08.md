@@ -67,9 +67,9 @@ tags:
 > 
 > In primo luogo, A sceglie un primo $p \ge 7$. Successivamente, B sceglie i numeri reali $r_1, r_2 \ge 0$. Poi A sceglie gli integri $s, t$ soddisfa $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, e scrive sulla lavagna $0, s, t, st$, ciascun modulo ridotto $p$, in questo ordine. Dopo di che, A esegue ripetutamente, quante volte si desidera, una delle seguenti tre operazioni:
 > 
-> - Fixare un numero intero $m$ con $1 \le m \le p-1$; sostituire ciascuno dei quattro numeri della lavagna con quel numero più $m$, modulo ridotto $p$. - Fixare un numero intero $n$ con $2 \le n \le p-1$; sostituire ciascuno dei quattro numeri sulla lavagna con quel numero volte $n$, modulo ridotto $p$. - sostituire ciascuno dei quattro numeri della lavagna con la sua potenza < MSK8/>-th, modulo ridotto < MSK9/>. Tuttavia, questa operazione non può essere eseguita quando almeno uno dei quattro numeri è $0$.
+> - Fixare un numero intero $m$ con $1 \le m \le p-1$; sostituire ciascuno dei quattro numeri della lavagna con quel numero più $m$, modulo ridotto $p$. - Fixare un numero intero $n$ con $2 \le n \le p-1$; sostituire ciascuno dei quattro numeri sulla lavagna con quel numero volte $n$, modulo ridotto $p$. - sostituire ciascuno dei quattro numeri della lavagna con la sua potenza $(p-2)$-th, modulo ridotto $p$. Tuttavia, questa operazione non può essere eseguita quando almeno uno dei quattro numeri è $0$.
 > 
-> L'obiettivo di A è rendere i numeri sulla lavagna $0, 2, 3, 6$ in ordine. Si noti che se non esistono interi $s, t$ che soddisfano $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, A è considerato incapace di raggiungere l'obiettivo.
+> L'obiettivo di A è rendere i numeri sulla lavagna $0, 2, 3, 6$ in ordine. Si noti che se non esistono numeri interi $s, t$ che soddisfano $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, A è considerato incapace di raggiungere l'obiettivo.
 > 
 > Trova il più grande valore possibile di $x$ per il quale B può sempre impedire a A di raggiungere l'obiettivo, indipendentemente dalle azioni di A.
 

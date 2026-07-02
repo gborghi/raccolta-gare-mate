@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little odd number of 3 digits divisible by 11 by binding < MSK1/>
+*Little odd number of 3 digits divisible by 11 by binding *
 
 > Divide 11 Find the smallest three-digit odd positive integer, divisible by 11 and such that the number of hundreds is greater than the number of units.
 

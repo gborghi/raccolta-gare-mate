@@ -87,7 +87,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Problema di probabilità. Franck deve superare gli esami MCQ in cui ogni risposta corretta dà +1 punti, ogni risposta sbagliata -1 punti, e nessuna risposta 0 punti. Primo esame: 10 domande, il pass ha bisogno di almeno 7 punti; decidere quali domande rispondere data probabilità di successo p. Secondo esame: 50 domande, passaggio richiede almeno 26 punti; confronta le strategie e trova l'ottimale come funzione di p.*
+*Problema di probabilità. Franck deve superare gli esami MCQ in cui ogni risposta corretta dà +1 punti, ogni risposta sbagliata -1 punti, e nessuna risposta 0 punti. Primo esame: 10 domande, il pass ha bisogno di almeno 7 punti; decidere quali domande rispondere data probabilità di successo p. Secondo esame: 50 domande, passaggio richiede almeno 26 punti; confronta le strategie e trova l'ottimale come funzione di p.*
 
 > Franck fa il primo esame.
 > 
@@ -105,7 +105,7 @@ tags:
 > 
 > Franck deve ora superare un secondo esame, costituito nuovamente da un QCM, costituito questa volta da domande $50$. Le regole di questo esame sono le stesse di quella precedente. In tal modo, Franck deve rispondere alle domande $50$ (cioè non è obbligato a rispondere a tutte le domande). Ogni risposta corretta gli porta un punto e ogni risposta sbagliata gli porta a perdere un punto.
 > 
-> Franck può superare il secondo esame solo se ottiene un totale finale di almeno < MSK0/> punti. Per ogni domanda, ha una probabilità $p$ di trovare la risposta corretta, con $0 < p < 1$.
+> Franck può superare il secondo esame solo se ottiene un totale finale di almeno $26$ punti. Per ogni domanda, ha una probabilità $p$ di trovare la risposta corretta, con $0 < p < 1$.
 > 
 > Per qualsiasi numero intero $k$ tale da $1 \le k \le 25$, indichiamo con $P_k$ la probabilità che Franck passi l'esame rispondendo alle prime domande $26 + k$. [Nota: l'intervallo esatto dell'indice e la formulazione "26+k" sono parzialmente leggibili nella fonte.]
 > 

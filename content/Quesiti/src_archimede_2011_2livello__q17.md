@@ -54,7 +54,7 @@ tags:
 
 *Minimum number of seats in carriages with 2n stations*
 
-> Demonstrative Exercise Be a positive whole. A stop train at 2 stations, including the initial and final stations, numbered in order from 1st to 2nd. It is known that in a certain carriage, for each pair of integers i, j such that 1 < MSK0/>i < j < MSK1/>2n, exactly one place has been reserved for the route between the station i-e and that station j-e. Of course, different reservations cannot overlap. Determine, in relation to n, the minimum number of seats that must be available in that carriage in order for the situation described to be possible.
+> Demonstrative Exercise Be a positive whole. A stop train at 2 stations, including the initial and final stations, numbered in order from 1st to 2nd. It is known that in a certain carriage, for each pair of integers i, j such that 1 ≤i < j ≤2n, exactly one place has been reserved for the route between the i-e-m and that j-e-m stations. Of course, different reservations cannot overlap. Determine, in relation to n, the minimum number of seats that must be available in that carriage in order for the situation described to be possible.
 
 **Answer:** n^2
 [[src_archimede_2011_2livello__Q17]]

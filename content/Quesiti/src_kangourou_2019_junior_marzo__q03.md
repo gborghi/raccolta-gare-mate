@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many different results by adding three dice< MSK1/>
+*How many different results by adding three dice*
 
 > Throw three regular dice at once and add up the outcomes: how many different results are possible? A) 14
 > 	

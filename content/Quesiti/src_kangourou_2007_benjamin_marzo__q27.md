@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Number on the face? (closed data) < MSK1/>
+Number on the face? (closed data) *
 
 ![[src_kangourou_2007_benjamin_marzo__prob27.png]]
 

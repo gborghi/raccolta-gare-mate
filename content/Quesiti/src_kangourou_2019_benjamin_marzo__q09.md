@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many kangaroos if the sum of ages increases by 24 in 2 years< MSK1/>
+*How many kangaroos if the sum of ages increases by 24 in 2 years*
 
 > The sum of ages in years of a group of kangaroos is 36. In two years, their combined ages will be 60. How many kangaroos are in that group? A) 10
 > 	

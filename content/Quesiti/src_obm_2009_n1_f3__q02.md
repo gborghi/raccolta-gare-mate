@@ -64,10 +64,10 @@ tags:
 
 > Le celle di una griglia $3 \times 3$ sono numerate da $1$ a $9$, ogni numero utilizzato esattamente una volta. In ogni riga orizzontale, coloriamo il rosso la cella con il numero maggiore e il verde la cella con il numero più piccolo. Il numero $A$ deve essere il più piccolo dei numeri delle celle rosse e il numero $B$ il più grande dei numeri delle celle verdi.
 > 
-> a) Indicare un modo per riempire la griglia in modo che < MSK0/>.
+> a) Indicare un modo per riempire la griglia in modo che $A - B = 4$.
 > 
-> b) Indicare un modo per riempire la griglia in modo che < MSK0/>.
+> b) Indicare un modo per riempire la griglia in modo che $A - B = -3$.
 > 
-> c) È possibile ottenere < MSK0/> e < MSK1/>? Non dimenticate di giustificare la vostra risposta.
+> c) È possibile ottenere $A = 4$ e $B = 3$? Non dimenticate di giustificare la vostra risposta.
 
 [[src_obm_2009_n1_f3__Q02]]

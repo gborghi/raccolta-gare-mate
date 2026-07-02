@@ -83,7 +83,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>color x< MSK1/>
+*color x*
 
 ![[src_kangourou_2015_marzo_ecolier__prob19.png]]
 

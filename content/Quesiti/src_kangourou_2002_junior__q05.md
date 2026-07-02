@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Longest piece in square< MSK1/>
+*Longest piece in square*
 
 > Whether the length of the longest broken line, formed by segments having the ends at the vertices of a square on side 1, which can be traced without ever pulling the pen off the sheet and without twice traversing any segment (it is allowed to pass more than once for some vertices). Which of the following numbers is closest to l?
 >  

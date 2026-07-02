@@ -56,7 +56,7 @@ tags:
 
 *Calcolare la somma alternata 0-1+2-3+...-49+50*
 
-> Indicare il valore di < MSK0/>.
+> Indicare il valore di $0 - 1 + 2 - 3 + 4 - 5 + \ldots - 49 + 50$.
 > 
 > *Solo una risposta numerica è prevista qui.*
 

@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum movement< MSK1/>
+*minimum movement*
 
 ![[src_kangourou_2023_benjamin__prob18.png]]
 

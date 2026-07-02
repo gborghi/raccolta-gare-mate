@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of years with at least 36 divisors in [1006,2006]< MSK1/>
+*sum of years with at least 36 divisors in [1006,2006]*
 
 > The Triangle tournament [45] In years that have at least 36 divisors, the Higher School of Mathematics organizes the Triangle tournament. From its foundation in 1006 to this year in 2006, in which years has the tournament been organized? Answer with the sum of those years.
 

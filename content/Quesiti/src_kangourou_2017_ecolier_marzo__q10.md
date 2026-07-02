@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum envelopes for 70 balloons (5,10,25) < MSK1/>
+*Minimum envelopes for 70 balloons (5,10,25) *
 
 > The balloons are for sale in envelopes of 5, 10 and 25. Mario purchases exactly 70 balloons. What's the smallest number of envelopes you can buy? A) 3
 > 	

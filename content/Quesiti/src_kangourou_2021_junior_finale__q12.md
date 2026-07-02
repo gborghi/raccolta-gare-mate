@@ -49,7 +49,7 @@ tags:
 
 *Length of the bridge (Aldo and Carlo) *
 
-> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The < MSK0/> step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest degree?
+> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The $6°$ step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest degree?
 > 
 > A) 6 B) 7 C) 8 D) 9 E) 10
 

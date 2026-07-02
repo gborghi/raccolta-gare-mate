@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n0 such that (n+1)! has a digit greater than n!*
+*Minimum n0 such that (n+1)! has a digit greater than n!*
 
-> For every positive integer n, the factorial of n is defined as n! = n × (n – 1) × … × 2 × 1. What is the smallest integer n0 such that, for every n < MSK4/> n0, the decimal expression of the number (n + 1)? It contains at least one digit more than n. ? A) 3
+> For every positive integer n, the factorial of n is defined as n! = n × (n – 1) × … × 2 × 1. What is the smallest integer n0 such that, for every n ≥ n0, the decimal expression of the number (n + 1)? It contains at least one digit more than n. ? A) 3
 > 	
 > B) 2
 > 	

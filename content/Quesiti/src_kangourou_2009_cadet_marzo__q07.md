@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many children with 9 adults in an elevator< MSK1/>
+*How many children with 9 adults in an elevator*
 
 > An elevator can carry up to 12 adults or up to 20 children. How many children can climb up to 9 adults? A) 3 B) 4 C) 5 D) 6 E) 8
 

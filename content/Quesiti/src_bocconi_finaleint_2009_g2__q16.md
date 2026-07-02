@@ -63,7 +63,7 @@ tags:
 
 Magic 3x3 square with the initials of nine children
 
-> In the Magic Square. Nine children, Axel, Ben, Cléa, Dave, Elsa, Fred, Gaby, Héra, and Inès, each take a breastplate with a different number. The order of the breastplate numbers is the same as the order of the initials of the names in the alphabet: Axel's breastplate number is smaller than Ben's, which is smaller than Cléa's, etc. Each of them is placed in one of the boxes of a square < MSK0/>. The square is magical: the sum of the three numbers of the same row (row, column or diagonal) is always the same, whatever the chosen row. The square is oriented so that the number at the top left is the smallest. Retrieve each one's place (response by writing the letters in the square boxes).
+> In the Magic Square. Nine children, Axel, Ben, Cléa, Dave, Elsa, Fred, Gaby, Héra, and Inès, each take a breastplate with a different number. The order of the breastplate numbers is the same as the order of the initials of the names in the alphabet: Axel's breastplate number is smaller than Ben's, which is smaller than Cléa's, etc. Each of them is placed in one of the boxes of a square $3 \times 3$. The square is magical: the sum of the three numbers of the same row (row, column or diagonal) is always the same, whatever the chosen row. The square is oriented so that the number at the top left is the smallest. Retrieve each one's place (response by writing the letters in the square boxes).
 
 ![[src_bocconi_finaleint_2009_g2__Q16.png]]
 

@@ -114,7 +114,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ordered pairs of symptoms with transient implication< MSK1/>
+*Ordered pairs of symptoms with transient implication*
 
 ![[src_squadre_2018_femminile__prob11.png]]
 

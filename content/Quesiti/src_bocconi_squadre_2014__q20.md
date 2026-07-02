@@ -53,7 +53,7 @@ tags:
 
 Maximum number of regions in which 10 lines divide the plan
 
-> A straight divides the plan into two regions. How many regions, at most, do MSK0/> lines divide a plan?
+> A straight divides the plan into two regions. How many regions, at most, do$10$ lines divide a plan?
 
 **Answer:** 56
 [[src_bocconi_squadre_2014__Q20]]

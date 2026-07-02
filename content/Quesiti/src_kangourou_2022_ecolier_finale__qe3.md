@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sarah's position at the classification goal with Gino and Pino< MSK1/>
+*Sarah's position at the classification goal with Gino and Pino*
 
 > Three students per class of the school participate in a country marching race. In the final ranking, Sara is exactly in the middle of the ranking (i.e. there is the same number of participants who precede and follow her), while Gino follows her to 19th place and Pino follows her to 28th place. Knowing there were no equal, what place does Sara occupy?
 

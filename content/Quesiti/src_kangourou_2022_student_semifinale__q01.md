@@ -85,7 +85,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>true statements< MSK1/>
+*true statements*
 
 ![[src_kangourou_2022_student_semifinale__prob1.png]]
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pious convex polygons containing p or not containing p< MSK1/>
+*Pious convex polygons containing p or not containing p*
 
 ![[src_kangourou_2020_cadet_finale__probC5.png]]
 

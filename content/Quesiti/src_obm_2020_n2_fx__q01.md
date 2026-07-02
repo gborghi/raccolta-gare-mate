@@ -50,6 +50,6 @@ tags:
 
 *Trovare angolo BFC in triangolo rettangolo con condizioni bisettori e perpendicolari*
 
-> $ABC$ sia un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. Il bisettore di angolo $\angle DAC$ incontra il segmento $DC$ a $E$. $F$ sia il punto della linea $AE$ in modo tale che $BF \perp AE$. Dato che < MSK10/>, trovare la misura di < MSK11/>.
+> $ABC$ sia un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. Il bisettore di angolo $\angle DAC$ incontra il segmento $DC$ a $E$. $F$ sia il punto della linea $AE$ in modo tale che $BF \perp AE$. Dato che $\angle BAE = 45^\circ$, trovare la misura di $\angle BFC$.
 
 [[src_obm_2020_n2_fx__Q01]]

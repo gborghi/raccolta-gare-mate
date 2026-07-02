@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many < MSK1/>
+*how many *
 
 > (Points 6) Some numbers, all different from each other, are written at different points in a conference so that each number is the product of the two numbers written next to it. How many numbers are written?
 

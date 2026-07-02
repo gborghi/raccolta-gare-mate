@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>dado, three gifts< MSK1/>
+*dado, three gifts*
 
 > How many polynomials $p(x)$ of second degree, with integer coefficients and with 2 integer roots, such as $p(8) = 17$? (Note: remember that integers can be positive, negative or zero.)
 > 

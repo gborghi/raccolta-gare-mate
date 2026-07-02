@@ -46,7 +46,7 @@ tags:
 
 *Members of two choirs with a common part*
 
-> 2 . Therefore < MSK0/> 199 and the value 199 ` and actually obtained conpk = 1 2 + 1 2 1 199. Solution of problem 5 (Lethal Cocktail) 2·45+1·40+1·0 4 = 32.5 Solution of problem 6 (At Tadfield Zoo, I) The situation ` and outlined by matrix A B C D E yellow blue X green X X red X X X X
+> 2 . Therefore ≥ 199 and the value 199 ` and actually obtained conpk = 1 2 + 1 2 1 199. Solution of problem 5 (Lethal Cocktail) 2·45+1·40+1·0 4 = 32.5 Solution of problem 6 (Tadfield Zoo, I) The situation ` and outlined by matrix A B C D E yellow blue X green X X red X X X X
 
 **Answer:** 2745
 [[src_gs_2008_squadre__Q02]]

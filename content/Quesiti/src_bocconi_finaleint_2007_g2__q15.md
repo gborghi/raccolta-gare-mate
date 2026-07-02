@@ -61,7 +61,7 @@ tags:
 
 *sum of the hypotenuses of the two rectangular triangles of the ground*
 
-> Father Itoine's land has the shape of a pentagon depicted next to it (the proportions are not respected). This land consists of eight parcels, all of which have dimensions equal to whole numbers of meters: three squares, two rectangular triangles and three non-square rectangles. The sum of the parcel areas in gray is < MSK0/> m2.
+> Father Itoine's land has the shape of a pentagon depicted next to it (the proportions are not respected). This land consists of eight parcels, all of which have dimensions equal to whole numbers of meters: three squares, two rectangular triangles and three non-square rectangles. The sum of the parcel areas in gray is $1620$ m2.
 > 
 > **What is the sum of the hypotenuses of the two rectangular triangles, expressed in meters? **
 

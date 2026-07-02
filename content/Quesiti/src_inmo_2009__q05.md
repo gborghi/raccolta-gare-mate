@@ -53,6 +53,6 @@ tags:
 
 *Nel triangolo acuto, somma delle distanze di centro ortodosso ≤ 2 × massima altitudine*
 
-> Che $ABC$ sia un triangolo acuto e che $H$ sia il suo centro ortografico. $h_{\max}$ indichi l'altitudine più grande del triangolo $ABC$. Provare che < MSK0/>
+> Che $ABC$ sia un triangolo acuto e che $H$ sia il suo centro ortografico. $h_{\max}$ indichi l'altitudine più grande del triangolo $ABC$. Provare che $$AH + BH + CH \le 2h_{\max}.$$
 
 [[src_inmo_2009__Q05]]

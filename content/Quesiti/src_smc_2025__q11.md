@@ -58,7 +58,7 @@ tags:
 
 *PQR triangolare rettangolare con angolo PQR = 90°, PQ = 20, PR = 25; M su PR; N su QR; trovare MN dove la superficie del triangolo PQM è metà PQR.*
 
-> Il diagramma mostra un triangolo $PQR$ con $\angle PQR = 90^\circ$, $PQ = 20$ e $PR = 25$. Il punto $M$ si trova su $PR$ in modo tale che $QM$ sia un triangolo rettangolare la cui superficie è metà di quella del triangolo $PQR$. Qual è la lunghezza di < MSK8/>?
+> Il diagramma mostra un triangolo $PQR$ con $\angle PQR = 90^\circ$, $PQ = 20$ e $PR = 25$. Il punto $M$ si trova su $PR$ in modo tale che $QM$ sia un triangolo rettangolare la cui superficie è metà di quella del triangolo $PQR$. Qual è la lunghezza di $MN$?
 >
 > - **(A)** $4\sqrt{2}$
 > - **(B)** $\frac{15}{\sqrt{2}}$

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Date written today counting months every 30 days< MSK1/>
+*Date written today counting months every 30 days*
 
 > What a carelessness! At Christmas, Alexander received a notebook of 365 pages. Every day, starting from the first of January last year and starting on the first page, Alexander wrote the date of the day (without the year) on the first page he found free: he started by writing 0101, then 0201 and so on (in some days of February he wrote for example 1302). To his hesitation, however, he wrote the dates as if every month had 30 days. What date did you write this morning?
 

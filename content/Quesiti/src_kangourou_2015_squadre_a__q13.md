@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of digits in the square of 99...9 (99 noni) < MSK1/>
+*sum of digits in the square of 99...9 (99 noni) *
 
 > A number and its square Consider the number 999...999 in which the writing appears only the number 9 repeated 99 times. How much is the sum of the digits squared of this number?
 

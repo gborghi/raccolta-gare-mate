@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>colored fraction< MSK1/>
+*colored fraction*
 
 ![[src_kangourou_2023_cadet_semifinale__prob5.png]]
 

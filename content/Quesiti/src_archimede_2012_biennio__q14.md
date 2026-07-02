@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Price increase of petrol by 10%< MSK1/>
+*Price increase of petrol by 10%*
 
 > As of 22 November 2012, the price of petrol is 35% of the cost of the product, which is in turn composed of several items (oil, refining, distribution costs, etc.); the cost of oil today constitutes 24% of the cost of the product. Given that on 1 January 2013 the price of oil will increase by 10% and the other costs will remain unchanged, how much will the price of gasoline increase on that date?
 >

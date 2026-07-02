@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>a is power of 54 < MSK1/>
+*a is power of 54 *
 
 > If a and b are positive integers such that 54a = ab. Prove that a is a power of 54, that is, there exists a positive integer c such that a = 54c.
 

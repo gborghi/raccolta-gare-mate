@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What anagram can appear in the second strip< MSK1/>
+*What anagram can appear in the second strip*
 
 > On the first strip you see 11 cards, each with two letters. On the second you see the same cards arranged differently. Which of the following may appear in the second line of the second deck of cards? (a) the number of children in the family (b) the number of children in the family (c) the number of children in the family (d) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family
 

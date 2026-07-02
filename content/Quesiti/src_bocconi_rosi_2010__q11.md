@@ -52,11 +52,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Children of the Plan-Sphere table pair< MSK1/>
+*Children of the Plan-Sphere table pair*
 
 > Mr. Piano and Mrs. Sfera had children from previous marriages. Then they married and had other children together. Today they've gathered the whole family together, them, their children, the children from their previous marriages, to celebrate a birthday.
 > 
-> How many children did Mr. Piano and Mrs. Sfera have from their marriage knowing that at the table, for their birthday, they were in MSK0 and that Mr. Piano was the father of the children present and Mrs. Sfera their mother?
+> How many children did Mr. Piano and Mrs. Sfera have from their marriage knowing that at the table, for their birthday, they were in$10$and that Mr. Piano was the father of the children present and Mrs. Sfera their mother?
 
 **Answer:** 5 figli
 [[src_bocconi_rosi_2010__Q11]]

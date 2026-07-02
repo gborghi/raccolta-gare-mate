@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many times the last in an hour< MSK1/>
+*how many times the last in an hour*
 
-> < MSK0/> corners are aligned on a suspended electrical cable. And when one of them crawls, its neighbour on the right and its neighbour on the left (or just one of the two, if the crankshaft is at one end of the two) take flight and after a minute they return to their place and crawle in turn. Start scratching the first horn in the line. After exactly one hour of this first crack, how many times will the last crack be?
+> $51$ corners are aligned on a suspended electrical cable. And when one of them crawls, its neighbour on the right and its neighbour on the left (or just one of the two, if the crankshaft is at one end of the two) take flight and after a minute they return to their place and crawle in turn. Start scratching the first horn in the line. After exactly one hour of this first crack, how many times will the last crack be?
 
 **Answer:** 6
 [[src_kangourou_2015_finale_benjamin__QB5]]

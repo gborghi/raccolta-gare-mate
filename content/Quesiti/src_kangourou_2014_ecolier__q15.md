@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cabbage has the rabbit eaten in a week< MSK1/>
+*How many cabbage has the rabbit eaten in a week*
 
 ![[src_kangourou_2014_ecolier__prob15.png]]
 

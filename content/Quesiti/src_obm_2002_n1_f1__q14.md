@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Summa massima possibile di un milione di naturali il cui prodotto è di un milione < MSK1/>
+*Summa massima possibile di un milione di naturali il cui prodotto è di un milione *
 
 > Il prodotto di un milione di numeri naturali, non necessariamente distinti, equivale a un milione. Qual è il più grande valore possibile per la somma di questi numeri?
 > 

@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n consecutive integers none at prime power < MSK1/>
+*n consecutive integers none at prime power *
 
 > Prove that for every positive integer n there exist n consecutive positive integers none of which is an integral power of a prime number.
 

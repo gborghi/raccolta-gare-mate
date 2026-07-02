@@ -52,6 +52,6 @@ tags:
 
 *Conte di coppie {A,B} di sottoinsiemi di {1,...,10} con intersezione fissa {5,7,8}*
 
-> Let < MSK0/>. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{5, 7, 8\}$.
+> Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{5, 7, 8\}$.
 
 [[src_rmo_2012_r3__Q04]]

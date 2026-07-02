@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Track speed, distance to reach < MSK1/>
+*Track speed, distance to reach *
 
 > The Orcs kidnapped Morry and Polino at 3 p.m. yesterday afternoon and set off at full speed to Isengraf, 234 miles away. Areagorn, Legalois and Gim-Lie discovered the traces of the abduction only this morning at 9am and immediately began their pursuit, starting from the same spot. Orcs have a very irregular gait, which depends on the sun and their fatigue. At 15 they leave at full speed, at 3 miles per hour and manage to keep this pace for 6 hours; then they slow down to 1.8 mi/h for the next 6 hours; then again they descend to 1.2 mi/h for the 6 hours
 > 

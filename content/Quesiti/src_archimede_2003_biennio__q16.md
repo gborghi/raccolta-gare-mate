@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-If the value of the input data is p+(qr) = ((p+q)
+If the value of the input data is less than the value of the input data, the value of the input data shall be less than the input data.
 
-> If p, q, r are three real numbers, p × (q + r) = (p × q) + (p × r) is always true. In which cases is p + (q < MSK3/> r) = (p + q) < MSK4/> (p + r)?
+> If p, q, r are three real numbers, p × (q + r) = (p × q) + (p × r) is always true. In which cases is p + (q × r) = (p + q) × (p + r)?
 >
 > - **(A)** If and only if p = q = r = 1 3 or p = 0
 > - **(B)** if and only if p = q = r

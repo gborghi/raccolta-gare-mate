@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esercizio 2, Q2: pi_n è in aumento< MSK1/>
+*Esercizio 2, Q2: pi_n è in aumento*
 
 > Esercizio 2 - (2) Dimostra che la sequenza $(\pi_n)_{n \ge 0}$ aumenta, cioè per ogni intero naturale $n$, $\pi_n \le \pi_{n+1}$.
 

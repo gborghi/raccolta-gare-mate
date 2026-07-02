@@ -51,6 +51,6 @@ tags:
 
 *Due cerchi interamente tangenti; tangente comune e secante; dimostrare che BD è diametro *
 
-> Due cerchi di radii diversi si toccano internamente a < MSK0/>. Un tangente comune, non attraverso $A$, tocca il cerchio interno a $C$ e passa attraverso un punto $B$ sul cerchio esterno. La linea $CA$ è prodotta per incontrare il cerchio esterno a $D$. Provare che $BD$ è un diametro del cerchio esterno.
+> Due cerchi di radii diversi si toccano internamente a $A$. Un tangente comune, non attraverso $A$, tocca il cerchio interno a $C$ e passa attraverso un punto $B$ sul cerchio esterno. La linea $CA$ è prodotta per incontrare il cerchio esterno a $D$. Provare che $BD$ è un diametro del cerchio esterno.
 
 [[src_bmo_2009-10_round1__Q04]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum of sufficient evidence given total correct answers< MSK1/>
+*Minimum of sufficient evidence given total correct answers*
 
 > (Points 5) 30 students took a test of 10 questions. To be sufficient, at least eight questions were required to be answered correctly. In all, the correct answers are 240. What is the minimum number of proofs that are sufficient?
 

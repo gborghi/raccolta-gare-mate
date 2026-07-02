@@ -67,7 +67,7 @@ tags:
 > 
 > In quale scatola c'è la moneta?
 > 
-> < MSK4/>A) < MSK5/> Nella scatola rossa. < MSK0/> < MSK6/>B) < MSK7/> Nella scatola verde. < MSK1/> < MSK8/>C) < MSK9/> Nella casella blu. < MSK2/> < MSK10/>D) < MSK11/> Le informazioni fornite non sono sufficienti per dare una risposta. < MSK3/> < MSK12/>E) < MSK13/> Le informazioni fornite sono contraddittorie.
+> **A) ** Nella scatola rossa. $\quad$ **B) ** Nella scatola verde. $\quad$ **C) ** Nella casella blu. $\quad$ **D) ** Le informazioni fornite non sono sufficienti per dare una risposta. $\quad$ **E) ** Le informazioni fornite sono contraddittorie.
 
 **Risposta:** B
 [[src_obm_2004_n2_f1__Q20]]

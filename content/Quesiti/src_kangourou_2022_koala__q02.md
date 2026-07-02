@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>last box< MSK1/>
+*last box*
 
 ![[src_kangourou_2022_koala__prob2.png]]
 

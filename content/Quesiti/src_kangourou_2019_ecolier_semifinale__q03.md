@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age difference between Thomas and Mary given constraints< MSK1/>
+*Age difference between Thomas and Mary given constraints*
 
 > (Points 3) George is 8 years younger than Paul; Paul is 11 years younger than Mary and George is 3 years younger than Thomas. What is the age, age difference between Thomas and Mary? A) 1
 > 	

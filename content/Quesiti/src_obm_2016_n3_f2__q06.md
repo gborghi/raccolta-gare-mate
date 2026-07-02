@@ -58,7 +58,7 @@ tags:
 
 *Tagliare la scheda m x n con pezzi quadrati e quadrati; ridurre al minimo la m *n *
 
-> La figura seguente mostra due tipi di pezzi: tipo 1, con $4$ quadrati, e tipo 2, con $3$ quadrati. Una tabella con righe $m$ e colonne $n$ è cartigliata, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione dei quadrati $3$. La stessa lavagna è inoltre incollata, senza sovrapposizioni, con pezzi di tipo 2, ad eccezione dei quadrati $2$. I pezzi possono essere rotati ma non possono estendersi al di fuori della lavagna. Qual è il minimo valore possibile del prodotto < MSK6/>?
+> La figura seguente mostra due tipi di pezzi: tipo 1, con $4$ quadrati, e tipo 2, con $3$ quadrati. Una tabella con righe $m$ e colonne $n$ è cartigliata, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione dei quadrati $3$. La stessa lavagna è inoltre incollata, senza sovrapposizioni, con pezzi di tipo 2, ad eccezione dei quadrati $2$. I pezzi possono essere rotati ma non possono estendersi al di fuori della lavagna. Qual è il minimo valore possibile del prodotto $m \times n$?
 
 ![[src_obm_2016_n3_f2__Q06.png]]
 

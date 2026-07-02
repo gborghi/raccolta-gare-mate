@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La spesa di Pedro in quattro negozi, trovare l'importo iniziale < MSK1/>
+*La spesa di Pedro in quattro negozi, trovare l'importo iniziale *
 
-> Pedro lasciò casa e andò a quattro negozi, ognuno in un quartiere diverso. In ogni negozio spendeva la metà di quello che aveva più 2,00 MSK1/>$\,8.00$. Quanto aveva Pedro quando se n'è andato?
+> Pedro lasciò casa e andò a quattro negozi, ognuno in un quartiere diverso. In ogni negozio spendeva la metà di quello che aveva più 2,00$. At the end he had $$\,8.00$. Quanto aveva Pedro quando se n'è andato?
 > 
 > A) $\mathrm{R}\$\,220{,}00$ \quad B) $\mathrm{R}\$\,204{,}00$ \quad C) $\mathrm{R}\$\,196{,}00$ \quad D) $\mathrm{R}\$\,188{,}00$ \quad E) $\mathrm{R}\$\,180{,}00$
 

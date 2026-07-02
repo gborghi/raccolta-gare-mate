@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities of three-digit n with product div 7< MSK1/>
+*Quantities of three-digit n with product div 7*
 
 > How many integers n of exactly three digits (in decimal form), not more than 200, are such that the product (n + 1)(n + 2)(n + 3) is divisible by 7? A) 43         B) 31          C) 34          D) 24          E) 39
 

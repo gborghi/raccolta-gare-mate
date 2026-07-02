@@ -48,6 +48,6 @@ tags:
 
 *Special numbers with digits 0-9 and divisibility*
 
-> Let's say that three odd numbers are consecutive if they're MSK1. We call "special" those whole numbers that have all the same numbers and that can be written as the sum of the squares of three consecutive odd numbers. (a) Determine all special four-digit numbers. (b) Are there special numbers of 2000 digits?
+> Let's say that three odd numbers are consecutive if they're$c - b = b - a = 2$. We call "special" those integers that have all the same digits and that can be written as the sum of the squares of three consecutive odd numbers. (a) Determine all special four-digit numbers. (b) Are there special numbers of 2000 digits?
 
 [[src_cesenatico_2000__Q01]]

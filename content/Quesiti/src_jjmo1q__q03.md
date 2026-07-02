@@ -53,7 +53,7 @@ tags:
 
 *Rileva il rapporto DS/SR utilizzando due ceviani in un parallelo*
 
-> Nel parallelo $ABCD$, due punti $P$ e $Q$ sono posizionati sul lato $BC$ in modo tale che $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$ $R$ sia l'intersezione della linea $AP$ con la linea $CD$, e $S$ sia l'intersezione della linea $AQ$ con la linea $CD$. Trova il valore di < MSK11/>.
+> Nel parallelo $ABCD$, due punti $P$ e $Q$ sono posizionati sul lato $BC$ in modo tale che $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$ $R$ sia l'intersezione della linea $AP$ con la linea $CD$, e $S$ sia l'intersezione della linea $AQ$ con la linea $CD$. Trova il valore di $\dfrac{DS}{SR}$.
 
 ![[src_jjmo1q__Q03.png]]
 

@@ -60,7 +60,7 @@ tags:
 
 > Come mostrato nel diagramma, c'è una sequenza di curve $P_0, P_1, P_2, \ldots$ $P_0$ è un triangolo equilaterale. È noto che la regione circondata da $P_0$ ha area 1. Si costruisce $P_{k+1}$ da $P_k$ operando come segue: trisect ogni lato di $P_k$, costruire un triangolo equilaterale verso l'esterno su ogni lato di $P_k$ seduto sul segmento medio di quel lato, e infine rimuovere il segmento medio $(k = 0, 1, 2, \cdots)$. Scrivere $S_k$ come la superficie della regione circondata da $P_k$.
 > 
-> (1) Trovare una formula per il termine generale della sequenza $\{S_k\}$. (2) Trova < MSK1/>.
+> (1) Trovare una formula per il termine generale della sequenza $\{S_k\}$. (2) Trova $\lim_{n \to \infty} S_n$.
 
 ![[src_cn_cmc_2002__Q14.png]]
 

@@ -57,7 +57,7 @@ Percentage of glasses with water at 45°C
 
 ![[src_kangourou_2002_student__prob8.png]]
 
-> A basic cylindrical glass partially filled with water and tilted to < MSK0/> is shown in the figure. What percentage of the glass contains water?
+> A basic cylindrical glass partially filled with water and tilted to 45° is shown in the figure. What percentage of the glass contains water?
 >  
 > A. less than 25% B. 25% C. 33% D. 33,333%
 >  

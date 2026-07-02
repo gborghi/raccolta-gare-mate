@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes to correct 84 worked together< MSK1/>
+*Minutes to correct 84 worked together*
 
 > Teachers at work To correct 32 mathematical papers on the third-grade examination, one professor takes 80 minutes; another professor, to correct the same number of papers, takes only 60 minutes. Each professor spends the same amount of time correcting each paper. If you put them together and then re-start 84 processes, so that you start and finish the correction together, how many minutes would it take?
 

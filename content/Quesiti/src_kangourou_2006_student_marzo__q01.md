@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which product is the largest (isoperimetric) < MSK1/>
+*Which product is the largest (isoperimetric) *
 
 > Which of the following numbers is the largest? A) 2006×2006  B) 2005×2007   C) 2004×2008  D) 2003×2009   E) 2002×2010
 

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Unshaded area in square with 8 semicircumferences< MSK1/>
+*Unshaded area in square with 8 semicircumferences*
 
 ![[src_kangourou_2018_junior_marzo__prob13.png]]
 

@@ -61,7 +61,7 @@ tags:
 
 *Tre tappeti (area combinata 90 m^2) coprono un pavimento di 60 m^2; esattamente due strati coprono 12 m^2; trovate l'area coperta da esattamente tre strati.*
 
-> Tre tappeti hanno una superficie combinata di < MSK0/>. Quando sono disposti per coprire completamente un pavimento di superficie $60\text{ m}^2$, l'area coperta da esattamente due strati di tappeto è $12\text{ m}^2$. Qual è l'area del pavimento coperta da esattamente tre strati di tappeto?
+> Tre tappeti hanno una superficie combinata di $90\text{ m}^2$. Quando sono disposti per coprire completamente un pavimento di superficie $60\text{ m}^2$, l'area coperta da esattamente due strati di tappeto è $12\text{ m}^2$. Qual è l'area del pavimento coperta da esattamente tre strati di tappeto?
 >
 > - **(A)** $2\text{ m}^2$
 > - **(B)** $6\text{ m}^2$

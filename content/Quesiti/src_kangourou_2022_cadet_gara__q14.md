@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Age of the older sister given the average < MSK1/>
+* Age of the older sister given the average *
 
 > The ages of three sisters are different. The average age of three is 10 years. If we look at sisters in pairs, the average age of one couple is 11 years, that of another is 12 years. How old is your older sister? A) 12
 > 	

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Now read in the mirror< MSK1/>
+*Now read in the mirror*
 
 ![[src_kangourou_2000_studenti__prob4.png]]
 

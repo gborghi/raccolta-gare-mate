@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many overall correct answers (test) < MSK1/>
+*How many overall correct answers (test) *
 
 > A closed-response test (such as Kangourou) consists of 10 questions. For each correct answer, 5 points are awarded, while for each wrong answer, 3 points are subtracted. All competitors answered all the questions: Angelo scored 34 points, Betta scored 10 and Clemente scored only 2. How many were the correct answers overall? (A) 17 B) 18 C) 15 D) 13 E) 21 A) B) C) D) E) Fin Pin Rin Tin
 > 

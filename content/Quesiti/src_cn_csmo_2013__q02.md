@@ -53,7 +53,7 @@ tags:
 
 *Configurazione della linea incircolare e tangente; dimostrare un'eguaglianza d'angolo.*
 
-> $\odot I$ sia l'incircolo di $\triangle ABC$ con $AB > AC$. $\odot I$ tangente a $BC$ e $AD$ rispettivamente a $D$ e $E$. La linea tangente $EP$ di $\odot I$ interseca la linea estesa di $BC$ a $P$. Il segmento $CF$ è parallelo a $PE$ e si interseca con $AD$ al punto $F$. La linea $BF$ interseca $\odot I$ nei punti $M$ e $N$ in modo tale che $M$ sia sul segmento $BF$. Il segmento $PM$ interseca $\odot I$ all'altro punto $Q$. Provare che < MSK25/>.
+> $\odot I$ sia l'incircolo di $\triangle ABC$ con $AB > AC$. $\odot I$ tangente a $BC$ e $AD$ rispettivamente a $D$ e $E$. La linea tangente $EP$ di $\odot I$ interseca la linea estesa di $BC$ a $P$. Il segmento $CF$ è parallelo a $PE$ e si interseca con $AD$ al punto $F$. La linea $BF$ interseca $\odot I$ nei punti $M$ e $N$ in modo tale che $M$ sia sul segmento $BF$. Il segmento $PM$ interseca $\odot I$ all'altro punto $Q$. Provare che $\angle ENP = \angle ENQ$.
 
 ![[src_cn_csmo_b11_w309__Q02.png]]
 

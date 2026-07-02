@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What pair to remove without changing the mean< MSK1/>
+*What pair to remove without changing the mean*
 
 > Consider the numbers 17, 13, 5, 10, 14, 9, 12, 16. Which of the following number pairs can you remove from this list without changing the mean (arithmetic)? A) 12 and 17 B) 5 and 17 C) 9 and 16 D) 10 and 12 E) 14 and 10 2011 x 2,011 201,1 x 20,11 Text_11Mat.qxp 19-05-2011 21:24 Page 17
 > 

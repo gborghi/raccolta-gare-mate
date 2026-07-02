@@ -58,7 +58,7 @@ tags:
 
 *Spagno con orario straordinario: trovare il salario base*
 
-> Dino ha guadagnato < MSK0/> reais, compreso il pagamento per le ore extra. Il salario (quando le ore di lavoro esteso sono standard) supera i REAL < MSK1/> nell'importo da pagare per le ore di lavoro esteso. Quanto paga?
+> Dino ha guadagnato $250$ reais, compreso il pagamento per le ore extra. Il salario (quando le ore di lavoro esteso sono standard) supera i REAL $200$ nell'importo da pagare per le ore di lavoro esteso. Quanto paga?
 > 
 > (A) $200$ reais \quad (B) $150$ reais \quad (C) $225$ reais \quad (D) $175$ reais \quad (E) $180$ reais
 

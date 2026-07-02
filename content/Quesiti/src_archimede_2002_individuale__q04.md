@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which n roots are integer< MSK1/>
+* for which n roots are integer*
 
 > Determine for which values of $n$ all solutions to the equation $X^3 - 3X + n = 0$ are integers.
 

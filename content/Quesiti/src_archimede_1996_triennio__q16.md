@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of guessing a number with false digits< MSK1/>
+*Probability of guessing a number with false digits*
 
 > A friend of mine wrote a secret four-digit number using the numbers 1, 2, 3 and 4 only once. Knowing that no number occupies the place that corresponds to its value (i.e. the first number is not 1, the second number is not 2, and so on), what are the odds of guessing the number on the first attempt?
 >

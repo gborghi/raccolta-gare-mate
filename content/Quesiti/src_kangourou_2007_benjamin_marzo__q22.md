@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Box position for maximum opening of the door< MSK1/>
+*Box position for maximum opening of the door*
 
 ![[src_kangourou_2007_benjamin_marzo__prob22.png]]
 

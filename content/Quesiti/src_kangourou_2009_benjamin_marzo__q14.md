@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Light grey region area (rectangles overlapping) < MSK1/>
+*Light grey region area (rectangles overlapping) *
 
 ![[src_kangourou_2009_benjamin_marzo__prob14.png]]
 

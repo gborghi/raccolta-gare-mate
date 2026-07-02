@@ -54,11 +54,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>età di padre e di figlio, date le condizioni passate e future< MSK1/>
+*età di padre e di figlio, date le condizioni passate e future*
 
-> Hélio ha ora < MSK0/> anni. Tre volte l'età di Hélio era esattamente l'età del padre di Hélio. Ora il padre ha il doppio dell'età di suo figlio. Quanti anni hanno Hélio e suo figlio?
+> Hélio ha ora $18$ anni. Tre volte l'età di Hélio era esattamente l'età del padre di Hélio. Ora il padre ha il doppio dell'età di suo figlio. Quanti anni hanno Hélio e suo figlio?
 > 
-> (A) anni $72$ e anni $36$ e anni $18$. Quad (B) < MSK3/> anni e < MSK4/> anni e < MSK5/> anni. Quad (C) < MSK6/> anni e < MSK7/> anni. Quad (D) < MSK8/> anni e < MSK9/> anni. \quad (E) < MSK10/> anni e < MSK11/> anni.
+> (A) anni $72$ e anni $36$ e anni $18$. Quad (B) $36$ anni e $18$ anni e $18$ anni. Quad (C) $40$ anni e $20$ anni. Quad (D) $50$ anni e $25$ anni. \quad (E) $38$ anni e $19$ anni.
 
 **Risposta:** E
 [[src_obm_2000_n1_f1__Q12]]

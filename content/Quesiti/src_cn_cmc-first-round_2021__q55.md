@@ -56,7 +56,7 @@ tags:
 
 *B1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di y1-y2.*
 
-> [Paper di prova B1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistri e destri dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto sul $\Gamma$ nel primo quadrante e le estensioni di $PF_1$, $PF_2$ si intersecano $\Gamma$ rispettivamente nei punti $Q_1(x_1,y_1)$ e $Q_2(x_2,y_2)$. Trova il massimo di < MSK10/>.
+> [Paper di prova B1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto sul $\Gamma$ nel primo quadrante e le estensioni di $PF_1$, $PF_2$ si intersecano $\Gamma$ rispettivamente nei punti $Q_1(x_1,y_1)$ e $Q_2(x_2,y_2)$. Trova il massimo di $y_1-y_2$.
 
 **Risposta:** \dfrac{2\sqrt{2}}{3}
 [[src_cn_cmc-first-round_2021__Q55]]

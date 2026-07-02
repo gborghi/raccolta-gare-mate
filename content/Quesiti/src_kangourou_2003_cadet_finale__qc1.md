@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Disposition 1-9 with sums at vertices 20< MSK1/>
+*Disposition 1-9 with sums at vertices 20*
 
 ![[src_kangourou_2003_cadet_finale__probC1.png]]
 

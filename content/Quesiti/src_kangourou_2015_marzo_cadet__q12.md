@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>grey region area< MSK1/>
+*grey region area*
 
 ![[src_kangourou_2015_marzo_cadet__prob12.png]]
 

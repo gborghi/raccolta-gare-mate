@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum socks to be extracted for 7 pairs paired< MSK1/>
+*Minimum socks to be extracted for 7 pairs paired*
 
 > Mother washed Gianni's socks - five pairs of black, 10 pairs of brown, and 15 pairs of gray - and asked him to put them away after pairing them for color. But Gianni put them all mixed up in a box. Now Gianni has to go on a seven-day camping trip: what is the minimum number of socks he can get out of the box, even in the dark, to make sure he has at least seven pairs of socks well matched? A) 16 B) 14 C) 35 D) 37 E) 18
 

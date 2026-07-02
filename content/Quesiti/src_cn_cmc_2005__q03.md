@@ -57,7 +57,7 @@ tags:
 
 *Triangolo inserito nel cerchio unitario, bisectori angolari estesi al cerchio, rapporto di valutazione*
 
-> $\triangle ABC$ è inserito in un cerchio unitario. I tre bisettori degli angoli $A$, $B$ e $C$ sono estesi per incrociare il cerchio rispettivamente a $A_1$, $B_1$ e $C_1$. Poi < MSK0/>
+> $\triangle ABC$ è inserito in un cerchio unitario. I tre bisettori degli angoli $A$, $B$ e $C$ sono estesi per incrociare il cerchio rispettivamente a $A_1$, $B_1$ e $C_1$. Poi $$\frac{AA_1\cos\dfrac{A}{2} + BB_1\cos\dfrac{B}{2} + CC_1\cos\dfrac{C}{2}}{\sin A + \sin B + \sin C} = (\quad).$$
 > 
 > (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$
 

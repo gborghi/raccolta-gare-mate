@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>points of Lidia< MSK1/>
+*points of Lidia*
 
 ![[src_kangourou_2023_cadet__prob17.png]]
 

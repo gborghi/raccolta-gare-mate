@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which k has three solutions of k = k < MSK1/>
+* for which k has three solutions of k = k *
 
 > For which values of $\lambda$ does the equation $|x| - 1 = \lambda$ have exactly three solutions?
 > 

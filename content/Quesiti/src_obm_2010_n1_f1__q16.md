@@ -59,7 +59,7 @@ tags:
 
 Gli studenti che amano sia la matematica che il portoghese nella classe 56
 
-> In una classe di grado $6^{\text{th}}$, ogni studente ama almeno una delle due materie seguenti: matematica o portoghese. Meno di < MSK1/> degli studenti come la matematica e < MSK2/> degli studenti come il portoghese. La classe ha studenti < MSK3/>. Quanti studenti amano entrambi i soggetti allo stesso tempo?
+> In una classe di grado $6^{\text{th}}$, ogni studente ama almeno una delle due materie seguenti: matematica o portoghese. Meno di $\dfrac{3}{4}$ degli studenti come la matematica e $\dfrac{5}{7}$ degli studenti come il portoghese. La classe ha studenti $56$. Quanti studenti amano entrambi i soggetti allo stesso tempo?
 > 
 > (A) $8$ \quad (B) $13$ \quad (C) $24$ \quad (D) $26$
 

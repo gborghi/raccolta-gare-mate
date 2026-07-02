@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'età di due fratelli e di un padre come numeri interi che soddisfano le condizioni di frazione< MSK1/>
+*L'età di due fratelli e di un padre come numeri interi che soddisfano le condizioni di frazione*
 
 > Le età attuali in anni di due fratelli $A$ e $B$, e il loro padre $C$ sono rispettivamente tre numeri interi positivi distinti $a$, $b$ e $c$. Supponiamo che $\dfrac{a-1}{a+1}$ e $\dfrac{b+1}{b-1}$ siano due numeri interi consecutivi e $\dfrac{c-1}{b-1}$ e $\dfrac{c+1}{b+1}$ sono due numeri interi consecutivi. Se $a + b + c \le 150$ determina $a$, $b$, $c$.
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Scuola paga un supplemento per lo scambio di penne e notebook< MSK1/>
+*Scuola paga un supplemento per lo scambio di penne e notebook*
 
 > Una penna costa Rs. 13 e un quaderno costa Rs. 17. Una scuola spende esattamente Rs. 10000 nel 2017-18 per acquistare penne $x$ e libri di appunti $y$ in modo che $x$ e $y$ siano il più vicini possibile (cioè $|x - y|$ è minimo). L'anno prossimo, nel 2018-19, la scuola spenderà poco più di Rs. 10000 e acquista penne $y$ e libri di appunti $x$. Quanto ha pagato la scuola?
 

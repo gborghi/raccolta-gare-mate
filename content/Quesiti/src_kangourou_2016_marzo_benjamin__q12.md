@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>days of Nora< MSK1/>
+*days of Nora*
 
 > Maria, Anna and Nora work in a nursery. Every day from Monday to Friday, exactly two of them go to work. Maria works three days a week, Anna four days a week. How many days a week does Nora work? A) 1
 > 	

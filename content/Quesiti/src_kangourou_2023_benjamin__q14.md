@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>image in 30 minutes< MSK1/>
+*image in 30 minutes*
 
 ![[src_kangourou_2023_benjamin__prob14.png]]
 

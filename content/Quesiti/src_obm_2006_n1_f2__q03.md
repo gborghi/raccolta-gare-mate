@@ -64,6 +64,6 @@ tags:
 
 > Osservare le seguenti equazioni: $$1 = 1$$ $$1 + 2 + 1 = 4$$ $$1 + 2 + 3 + 2 + 1 = 9$$ $$1 + 2 + 3 + 4 + 3 + 2 + 1 = 16$$ $$\vdots$$ $$1 + 2 + 3 + \cdots + 2006 + 2007 + 2006 + \cdots + 3 + 2 + 1 = A$$
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $\dfrac{A}{223}$?
 
 [[src_obm_2006_n1_f2__Q03]]

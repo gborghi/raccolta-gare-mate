@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Smaller area of the cut Yin-Yang (coef. pi)*
+* Smaller area of the cut Yin-Yang (coef. pi)*
 
 ![[src_cesenatico_2007_squadre_finale__prob10.png]]
 

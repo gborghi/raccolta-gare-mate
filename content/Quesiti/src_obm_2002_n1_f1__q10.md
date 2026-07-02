@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Fraczione di strada percorsa al ritorno per una rivista< MSK1/>
+*Fraczione di strada percorsa al ritorno per una rivista*
 
 > Marcelo se n'è andato esattamente minuti prima di andare a scuola. Mentre andava, si rese conto di aver dimenticato a casa la rivista Eureka! che stava per mostrare a un amico, e ha deciso di tornare; in questo modo sarebbe arrivato $20$ minuti dopo l'inizio. Ma, invece di tornare, ha continuato a camminare, arrivando a scuola $10$ minuti in ritardo. Quale frazione della strada già percorsa corrisponde a questo punto?
 > 

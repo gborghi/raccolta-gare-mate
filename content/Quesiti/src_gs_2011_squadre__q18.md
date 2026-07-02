@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of cycle length of at least 6 permutations< MSK1/>
+*Probability of cycle length of at least 6 permutations*
 
 > To become head of SPECTRE, Blofeld must pass a very tough test: the Final Test. La P.D. It's a game of chance where one player stands alone against everyone else. There are ten boxes numbered $1$ to $10$ and ten balls numbered $1$ to $10$. The player alone inserts, without looking at them, a ball into each box. Now, each of the other players, one after the other, opens a box, looks at the number of the ball, opens the box with that number, looks at the number of the ball in the last one and continues until he finds a ball with the number of a box already open. Each player sees the boxes that the player who played before him opened. The player alone outperforms the P.D. if one of the others opens more than five boxes. Knowing that the other contenders for the position of head of SPECTRE were exactly five, what are the odds that Blofeld will beat PD? Answer by writing the first four digits after the resulting comma.
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value x of the solution (2^x exponential equation) < MSK1/>
+*Value x of the solution (2^x exponential equation) *
 
 > Assigned the equation 2x +1 + 2x = 3y + 2 - 3y , where x and y are integers, the value x of the solution (x, y) is A) 0 B) 3 C) -1 D) 1 E) 2
 

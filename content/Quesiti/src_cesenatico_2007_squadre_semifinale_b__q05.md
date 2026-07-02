@@ -47,8 +47,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>99-eighth root of the product dividers of 2^8< MSK1/>3^10< MSK2/>
+*99-eighth root of the product dividers of 2^8*3^10*
 
-> Otenusa's test Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of the number 28310. How long is it?
+> Otenusa's test Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of number 28310. How long is it?
 
 [[src_cesenatico_2007_squadre_semifinale_b__Q05]]

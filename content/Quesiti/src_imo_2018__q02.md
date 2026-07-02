@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interi n with cyclic succession ai·ai+1+1=ai+2< MSK1/>
+*Interi n with cyclic succession ai·ai+1+1=ai+2*
 
 > Find all integers $n \geq 3$ for which there exist real numbers $a_1, a_2, \ldots, a_{n+2}$ satisfying $a_{n+1} = a_1$, $a_{n+2} = a_2$ and $$a_i a_{i+1} + 1 = a_{i+2}$$ for $i = 1, 2, \ldots, n$.
 

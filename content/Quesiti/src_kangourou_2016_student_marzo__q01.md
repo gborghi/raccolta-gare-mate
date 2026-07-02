@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Oldest age given three sums in pairs< MSK1/>
+*Oldest age given three sums in pairs*
 
 > The sum of Teresa's and Joan's years is 23, that of Joan's and Alexandra's years is 24, and the sum of Teresa's and Alexandra's years is 25. How old is the oldest of the three girls? A) 10
 > 	

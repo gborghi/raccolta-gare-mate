@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ospiti alberghieri: massimo non si mangia più di tre carni< MSK1/>
+*Ospiti alberghieri: massimo non si mangia più di tre carni*
 
 > Un hotel ha 100 ospiti. 30 mangiano carne di maiale, 60 mangiano pollo e 80 mangiano carne bovina. Qual è il numero massimo di persone che non mangiano nessuno di questi tre tipi di carne?
 > 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value f(0) recursive function of McCarthy < MSK1/>
+*Value f(0) recursive function of McCarthy *
 
 > The value in 0 Consider the function f defined on the set of non-negative integers, to values in the set of integers, as follows: for n non-negative integers, put f(n) = n  10 if n > 100, f(n) = f (f(n + 11)) if 0 ≤ n ≤ 100. How much is f?
 

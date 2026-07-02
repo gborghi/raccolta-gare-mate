@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cows to double the animal ratio< MSK1/>
+*How many cows to double the animal ratio*
 
 > There's a horse, two cows and three pigs on Gino's old farm. How many more cows does Gino have to buy if he wants the number of all the animals on the farm to be twice the number of cows?
 >

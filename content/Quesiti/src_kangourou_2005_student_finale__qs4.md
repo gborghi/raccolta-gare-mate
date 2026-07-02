@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Product of factories not squared but divided by 50! < MSK1/>
+* Product of factories not squared but divided by 50! *
 
 > For each positive integer $n$, "factor of $n$"  is said and the symbol $n!$  indicates the product of all integers from $1$ to $n$ included, each considered once and only once (so you have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). It shows that the $1! \times 2! \times \cdots \times 99! \times 100!$ product of the factors of the first 100 positive integers is not a perfect square, but its quotient with $50!$ is.
 

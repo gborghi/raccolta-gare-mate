@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Diegi rimanenti di razione per l'alimentazione del bestiame dopo l'acquisto e la vendita di mucche< MSK1/>
+*Diegi rimanenti di razione per l'alimentazione del bestiame dopo l'acquisto e la vendita di mucche*
 
-> Un agricoltore aveva vacche < MSK0/> e razioni per nutrirle per < MSK1/> giorni. Tuttavia, < MSK2/> giorni dopo, ha comprato < MSK3/> più mucche e < MSK4/> giorni dopo quell'acquisto ha venduto < MSK5/> mucche. Per quanti altri giorni, dopo questo ultimo acquisto, può nutrire il gregge con le rimanenti razioni?
+> Un agricoltore aveva vacche $24$ e razioni per nutrirle per $60$ giorni. Tuttavia, $10$ giorni dopo, ha comprato $6$ più mucche e $10$ giorni dopo quell'acquisto ha venduto $20$ mucche. Per quanti altri giorni, dopo questo ultimo acquisto, può nutrire il gregge con le rimanenti razioni?
 > 
 > (A) $50$ \quad (B) $60$ \quad (C) $70$ \quad (D) $80$ \quad (E) $90$
 

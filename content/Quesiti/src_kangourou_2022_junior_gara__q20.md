@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>In what order can five rings be removed< MSK1/>
+*In what order can five rings be removed*
 
 ![[src_kangourou_2022_junior_gara__prob20.png]]
 

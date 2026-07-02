@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>product and sum of two reds< MSK1/>
+*product and sum of two reds*
 
 > Each natural number, zero included, is coloured in white or red, so that: • there is at least one white number and at least one red number; • the sum between a white number and a red number is white; • the product between a white number and a red number is red. Demonstrate that the product of two red numbers is always a red number and that the sum of two red numbers is always a red number.
 

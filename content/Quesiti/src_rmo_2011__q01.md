@@ -47,7 +47,7 @@ tags:
 
 *Triangolo con ceviani simultanei; prova uguale angolo*
 
-> Lasciate che $ABC$ sia un triangolo. I segmenti $D$, $E$, $F$ siano punti rispettivamente sui segmenti $BC$, $CA$, $AB$ in modo tale che $AD$, $BE$, $CF$ siano convergenti al punto $K$. Supponiamo $BD/DC = BF/FA$ e $\angle ADB = \angle AFC$. Prove che < MSK13/>.
+> Lasciate che $ABC$ sia un triangolo. I segmenti $D$, $E$, $F$ siano punti rispettivamente sui segmenti $BC$, $CA$, $AB$ in modo tale che $AD$, $BE$, $CF$ siano convergenti al punto $K$. Supponiamo $BD/DC = BF/FA$ e $\angle ADB = \angle AFC$. Prove che $\angle ABE = \angle CAD$.
 
 ![[src_rmo_2011__Q01.png]]
 

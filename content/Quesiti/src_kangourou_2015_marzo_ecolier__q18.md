@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max black squares< MSK1/>
+*max black squares*
 
 ![[src_kangourou_2015_marzo_ecolier__prob18.png]]
 

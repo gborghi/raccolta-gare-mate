@@ -53,7 +53,7 @@ tags:
 
 *Volume of non-cubic parallel-piped with area 448*
 
-> Surely you have considered two equal rectangular parallel pipes, each with a total area of < MSK0/>. A rectangular (non-cubic) parallelepiped with a total area of < MSK1/> can also be obtained. What would be the volume of this cube?
+> Surely you have considered two equal rectangular parallel pipes, each with a total area of $448 \text{ cm}^2$. A rectangular (non-cubic) parallelepiped with a total area of $448 \text{ cm}^2$ can also be obtained. What would be the volume of this cube?
 
 **Answer:** $512 \text{ cm}^3$
 [[src_bocconi_semifinale_2008__Q09]]

@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N value with 2^n = 134217728< MSK1/>
+*N value with 2^n = 134217728*
 
 > A power of two. You know that 2n is equal to 134,217,728. How much is n ?
 

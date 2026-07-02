@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two intersecting circles, product AX·YD< MSK1/>
+*Two intersecting circles, product AX·YD*
 
 > Spies in love. Even James Bound has been in love! As a young man, he met Vesper Lynear, a mathematician who conquered him by solving almost instantly the following question: how many non-conforming rectangular triangles are there, with lengths of positive whole catheters and having areas numerically equal to 5 times their perimeter?
 

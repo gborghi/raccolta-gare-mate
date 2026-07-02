@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which box contains more triangles< MSK1/>
+*Which box contains more triangles*
 
 ![[src_kangourou_2022_koala__prob1.png]]
 

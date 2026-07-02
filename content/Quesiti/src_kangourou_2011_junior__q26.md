@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cubic feet of cube shaft without common vertices< MSK1/>
+*How many cubic feet of cube shaft without common vertices*
 
 > How many squares of a cube are such that if two squares are chosen in the square, they have no vertices in common? (If two squares do not coincide but are obtained from each other by rotation of the cube, they shall be considered different.)
 

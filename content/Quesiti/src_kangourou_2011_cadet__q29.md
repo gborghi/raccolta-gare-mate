@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of cells to be touched to find 2 adjacent blue cells< MSK1/>
+*Minimum number of cells to be touched to find 2 adjacent blue cells*
 
 > An electronic game features a 4x4 chessboard, which, when touched on a cell, lights up by showing its color. The blue cells need to be lit. In each game, there are only two blue cells and they have one side in common. What is the minimum number of cells that you can touch to be sure to illuminate both blue cells? A) 9 B) 10 C) 11 D) 12 E) 13
 

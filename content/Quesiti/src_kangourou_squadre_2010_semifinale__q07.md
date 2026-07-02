@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interest sum equal to n in the chain of inequalities< MSK1/>
+*Interest sum equal to n in the chain of inequalities*
 
 > Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, airplane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President bus, the Vice-President train and the Prime Minister air. What is the smallest number of city-to-city connections to meet all needs?
 

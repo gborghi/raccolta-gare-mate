@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most consecutive sweet numbers (central figure > other sum) < MSK1/>
+*Most consecutive sweet numbers (central figure > other sum) *
 
 > We call carino a three-digit number (significant) if the central number is greater than the sum of the other two. How many consecutive cute numbers can there be at most? A) 5
 > 	

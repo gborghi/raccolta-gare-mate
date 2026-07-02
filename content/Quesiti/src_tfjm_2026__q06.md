@@ -95,17 +95,17 @@ tags:
 > 
 > Per le seguenti domande, ogni sedile ha un orientamento fisso (Nord, Sud, Est o Ovest), e ogni persona seduta su un sedile guarda accanto a esso, nella direzione associata, a una distanza pari a $1$ (il caso in cui il sedile è sul lato del muro, nella direzione in cui si guarda, fa sì che non si veda nessuno nel proprio campo visivo). Chiamiamo una configurazione qualsiasi tavolo associato a ciascun sedile un orientamento. Per una configurazione $D$, si definisce $C_{\max}(D)$ come il numero massimo di persone che possono essere posizionate senza disagio e $C_{\min}(D)$ come il numero minimo di persone necessario per rendere la stanza quasi completa.
 > 
-> 2. a) Quale valore < MSK0/> assume al massimo (in particolare, l'ospedale sceglie < MSK1/> in modo ottimale)? Si può iniziare con $n = 1, 2, 3$. b) Ripetere la domanda precedente per $C_{\min}(D)$.
+> 2. a) Quale valore $C_{\max}(D)$ assume al massimo (in particolare, l'ospedale sceglie $D$ in modo ottimale)? Si può iniziare con $n = 1, 2, 3$. b) Ripetere la domanda precedente per $C_{\min}(D)$.
 > 
 > Un'ondata di calore si impadronisce della stanza: l'ospedale decide di sostituire alcuni posti con fontane d'acqua. Se un sedile è orientato verso una fontana, la persona che si trova lì guarda la fontana e non si sente a proprio agio.
 > 
 > Una configurazione può ora associare a ciascuna posizione un sedile (con il suo orientamento, come prima) o una fontana. Vedi figura 8.
 > 
-> 3. Let < MSK0/>. Solo in questa domanda, supponiamo che l'ospedale installa fonti $p$. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$. Uno inizia con $p = 1$.
+> 3. Let $p \in \mathbb{N}^*$. Solo in questa domanda, supponiamo che l'ospedale installa fonti $p$. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$. Uno inizia con $p = 1$.
 > 
-> 4. Let < MSK0/>. Solo in questa questione, supponiamo che l'ospedale possa sostituire invece i sedili $p$ di sua scelta con fontane. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$.
+> 4. Let $p \in \mathbb{N}^*$. Solo in questa questione, supponiamo che l'ospedale possa sostituire invece i sedili $p$ di sua scelta con fontane. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$.
 > 
-> 5. Torniamo alla situazione all'inizio del problema, in cui i sedili sono sgabelli. Le persone arrivano una per una e, quando una persona arriva, si siede su uno scavo scelto uniformemente a caso tra i possibili scavi (cioè dove non si sentirà a proprio agio). Indichiamo < MSK0/> il numero previsto di persone che possono sedersi.
+> 5. Torniamo alla situazione all'inizio del problema, in cui i sedili sono sgabelli. Le persone arrivano una per una e, quando una persona arriva, si siede su uno scavo scelto uniformemente a caso tra i possibili scavi (cioè dove non si sentirà a proprio agio). Indichiamo $E(m, n)$ il numero previsto di persone che possono sedersi.
 > 
 > Estimare il valore di $E(m, n)$ come funzione di $m$ e $n$.
 > 

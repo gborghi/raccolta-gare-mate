@@ -55,7 +55,7 @@ tags:
 
 *Riconesta la disuguaglianza dei prodotti e la disuguaglianza del rapporto ciclico con cinque variabili*
 
-> (i) Prove che, per tutti gli integri positivi < MSK1/>, < MSK0/>
+> (i) Prove che, per tutti gli integri positivi $m$, $$\left(2 - \frac{1}{m}\right)\left(2 - \frac{3}{m}\right)\left(2 - \frac{5}{m}\right) \cdots \left(2 - \frac{2m-1}{m}\right) \le m!$$
 > 
 > (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^4 + \left(\frac{b}{c}\right)^4 + \left(\frac{c}{d}\right)^4 + \left(\frac{d}{e}\right)^4 + \left(\frac{e}{a}\right)^4 \ge \frac{b}{a} + \frac{c}{b} + \frac{d}{c} + \frac{e}{d} + \frac{a}{e}.$$
 

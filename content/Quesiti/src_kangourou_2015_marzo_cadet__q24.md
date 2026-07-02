@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>2 light 25%, 3 heavy 60%: how many kangaroos< MSK1/>
+*2 light 25%, 3 heavy 60%: how many kangaroos*
 
 > In a group of kangaroos the weight of the two lighter kangaroos accounts for 25% of the total weight of the group. The weight of the three heaviest kangaroos accounts for 60% of the total weight. How many kangaroos are in the group? A) 6
 > 	

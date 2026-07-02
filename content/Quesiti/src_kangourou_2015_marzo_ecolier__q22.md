@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max number< MSK1/>
+*max number*
 
 ![[src_kangourou_2015_marzo_ecolier__prob22.png]]
 

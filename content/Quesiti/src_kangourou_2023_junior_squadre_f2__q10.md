@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fewer than 6 consecutive products in the given form< MSK1/>
+*Fewer than 6 consecutive products in the given form*
 
 > Six consecutive integers The product of six consecutive positive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. Which is the smallest of the six consecutive integers?
 

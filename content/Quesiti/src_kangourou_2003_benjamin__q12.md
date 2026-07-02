@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Different results by adding two numbers< MSK1/>
+*Different results by adding two numbers*
 
 > By choosing in every possible way two different numbers between 1, 2, 3, 4, 5 and adding them together, how many different results can we get? A) 5 B) 6 C) 7 D) 8 E) 9
 > 

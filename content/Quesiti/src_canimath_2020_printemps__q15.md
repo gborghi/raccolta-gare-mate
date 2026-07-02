@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*ABCD quadrato con triangolo equilaterale esterno BCS; punti di mezzo N,H,P; angoli di calcolo BPN e NHC*
+*ABCD quadrato con triangolo esterno equilaterale BCS; punti di mezzo N,H,P; angoli di calcolo BPN e NHC*
 
-> Che $ABCD$ sia un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo < MSK10/>. 2) Calcolare l'angolo < MSK11/>.
+> Che $ABCD$ sia un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo $\widehat{BPN}$. 2) Calcolare l'angolo $\widehat{NHC}$.
 
 [[src_canimath_2020_printemps__Q15]]

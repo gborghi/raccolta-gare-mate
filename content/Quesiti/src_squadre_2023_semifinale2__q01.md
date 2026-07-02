@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pentagon side colours with 3 colours< MSK1/>
+*Pentagon side colours with 3 colours*
 
 > The coat of arms of the Arcsenio Lupin family/3 is the cradle of an illustrious family of mathematical thieves. As a child, Archenius enjoyed drawing and coloring the family coat of arms, which is in the shape of a pentagon. In how many ways can the sides of the coat of arms be colored using the colors yellow, blue, and red, so that successive sides have different colors?
 

@@ -57,6 +57,6 @@ tags:
 
 Prove che la somma di 1/n^n è uguale all'integrale di x^{-x}*
 
-> Provare che < MSK0/>
+> Provare che $$\sum_{n=1}^{\infty} \frac{1}{n^n} = \int_0^1 x^{-x}\,dx.$$
 
 [[src_obm_2005_nu_f2__Q05]]

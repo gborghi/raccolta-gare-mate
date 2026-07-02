@@ -60,7 +60,7 @@ tags:
 
 *Punti di centro e piede di altitudine nel triangolo ABC; area del pentagono AERSF con area ABC=252*
 
-> Nella figura, $E$ è il punto medio di $AC$, $R$ è il punto medio di $AB$ e $S$ è il piede dell'altitudine da $B$ a $AC$. Inoltre, < MSK7/>. Se l'area del triangolo $ABC$ è $252$, qual è l'area del pentagono $AERSF$?
+> Nella figura, $E$ è il punto medio di $AC$, $R$ è il punto medio di $AB$ e $S$ è il piede dell'altitudine da $B$ a $AC$. Inoltre, $BR = RS = SC$. Se l'area del triangolo $ABC$ è $252$, qual è l'area del pentagono $AERSF$?
 > 
 > **(A)** $168$ $\quad$ **(B)** $189$ $\quad$ **(C)** $200$ $\quad$ **(D)** $210$ $\quad$ **(E)** $220$
 

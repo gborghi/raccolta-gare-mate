@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo acuto ABC; circoncentro O, centro-orto H, centroide G; angolo di ricerca C< MSK1/>
+*Triangolo acuto ABC; circoncentro O, centro-orto H, centroide G; angolo di ricerca C*
 
 > In un triangolo acuto $ABC$, $O$ è il circoncentro, $H$ è l'ortocentro e $G$ è il centroide. Il $OD$ deve essere perpendicolare a $BC$ e il $HE$ deve essere perpendicolare a $CA$, con $D$ su $BC$ e $E$ su $CA$. Il $F$ deve essere il punto medio di $AB$. Supponiamo che le superfici dei triangoli $ODC$, $HEA$ e $GFB$ siano uguali. Trova tutti i valori possibili di $\hat{C}$.
 

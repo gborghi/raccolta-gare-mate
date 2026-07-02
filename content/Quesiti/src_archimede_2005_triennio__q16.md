@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times does the figure 1 appear from 1 to 2005< MSK1/>
+*How many times does the figure 1 appear from 1 to 2005*
 
 > Andrea did not do the homework and as punishment the teacher assigned him the task of writing all the numbers between 1 and 2005, including extreme numbers (each number must be written only once). How many times will Andrea have to write the number one?
 >

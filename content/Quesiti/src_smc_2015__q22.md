@@ -57,7 +57,7 @@ tags:
 
 *Valuta di f(2015) dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1)) *
 
-> Let < MSK0/>. Qual è il valore di $f(2015)$?
+> Let $f(x) = x + \sqrt{x^2 + 1} + \dfrac{1}{x - \sqrt{x^2 + 1}}$. Qual è il valore di $f(2015)$?
 >
 > - **(A)** $-1$
 > - **(B)** $0$

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of negative product by double-throwing < MSK1/>
+*Probability of negative product by double-throwing *
 
 > The numbers that appear on the faces of an unmade dice are: -3, -2, -1, 0, 1, 2. If we draw the dice twice, what is the probability that the product of the two numbers we get is negative? A) 1 / 2 B) 1 / 3 C) 11 / 36 D) 13 / 36 E) 1 / 4
 

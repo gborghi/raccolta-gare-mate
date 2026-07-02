@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number after 9 in decimal development of x< MSK1/>
+*Number after 9 in decimal development of x*
 
 > We know that x is 0.9 . . . And that 1/x is equal to 1. . . (the dots indicate that the additional decimal places have been omitted). What's the number that comes right after 9 in the decimal development of x?
 >

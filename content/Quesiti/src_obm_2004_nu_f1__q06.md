@@ -57,6 +57,6 @@ tags:
 
 *Calcolare una somma di telescopio che coinvolge fattori simili a cubi*
 
-> Calcolare < MSK0/>.
+> Calcolare $\displaystyle\sum_{k=1}^{\infty} \frac{1}{(3k+1)(3k+2)(3k+3)}$.
 
 [[src_obm_2004_nu_f1__Q06]]

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum amount of beads thrown with proportional constraints< MSK1/>
+*Maximum amount of beads thrown with proportional constraints*
 
 > Alberto, Barbara and Clara are playing in a large square where there are 2008 birdies. Alberto throws down the triple of the beers thrown down by Barbara, who in turn throws down the double of the beers thrown down by Clara. How many beers did Alberto throw down?
 >

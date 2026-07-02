@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Numero di donne presenti alla festa dato il numero di coppie di danza< MSK1/>
+*Numero di donne presenti alla festa dato il numero di coppie di danza*
 
 > In una festa, ogni uomo ballava con esattamente quattro donne e ogni donna ballava con esattamente tre uomini. Nove uomini hanno partecipato alla festa. Quante donne hanno partecipato alla festa?
 

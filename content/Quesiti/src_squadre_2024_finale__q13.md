@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n with n less reverse equal to 12345678< MSK1/>
+*Minimum n with n less reverse equal to 12345678*
 
 > Reverse count During dinner Summy introduced everyone to Mr. MeeStern-Volmer's show, he was the creepy guy. During the show Mr MeeStern-Volmer sings in a rhythmic voice that: The inverse of a positive integer is the positive integer that is obtained by writing its numbers in reverse. For example, the reverse of 8267 is 7628 and the reverse of 15620 is 2651. Saying this hypnotizes all crew and passengers, except Scoobe-Zout and S-Higgs who are focused on food. In order to break the trance state, they need to find the smallest positive integer n such that the inverse of n is equal to 12345678. What's the number to get out of the trance? 2024 Team Competition  National Final  Problem Tests  2/4
 > 

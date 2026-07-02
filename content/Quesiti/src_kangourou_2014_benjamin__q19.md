@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum chocolates to be added (remaining 2 mod 3 and 5) < MSK1/>
+*Minimum chocolates to be added (remaining 2 mod 3 and 5) *
 
 > Miriam has some chocolates. Whether you group them into groups of 3 or you group them into groups of 5, you always have 2. How many more must you take to a minimum if you want them to be grouped into groups of three or grouped into groups of five and no one is left with them? A) 3
 > 	

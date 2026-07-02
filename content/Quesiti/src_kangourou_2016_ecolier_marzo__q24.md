@@ -58,37 +58,6 @@ tags:
 > D) Donato	
 > 	
 > E) Elio
-> 
-> categoria
-> A
-> X
-> X
-> X
-> B
-> X
-> X
-> X
-> X
-> X
-> C
-> X
-> X
-> X
-> X
-> X
-> X
-> X
-> D
-> X
-> X
-> X
-> X
-> X
-> E
-> X
-> X
-> X
-> X
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
@@ -114,8 +83,6 @@ tags:
 > C) Chicken D) Donated
 > 	
 > E) Helium
-> 
-> A category X X X X B X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
 
 **Answer:** B
 [[src_kangourou_2016_ecolier_marzo__Q24]]

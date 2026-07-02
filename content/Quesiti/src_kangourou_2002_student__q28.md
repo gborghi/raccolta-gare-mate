@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Litres to be replaced per solution at 42%< MSK1/>
+*Litres to be replaced per solution at 42%*
 
 > There are 21 liters of a solution with 18% alcohol in one container. How many liters of this liquid do you have to replace with a solution of 90% alcohol to get a solution of 42% alcohol?
 >  

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Anno in cui è massimizzata l'edizione GCD dell'anno e OBM< MSK1/>
+*Anno in cui è massimizzata l'edizione GCD dell'anno e OBM*
 
 > In $2012$ abbiamo l'edizione $34$ dell'OBM e $\mathrm{mdc}(2012, 34) = 2$. Supponendo che l'OBM si svolga sempre ogni anno, in quale anno si verificherà il più grande valore possibile per il $\mathrm{mdc}$ dell'anno e l'edizione dell'OBM tenuta in quell'anno?
 > 

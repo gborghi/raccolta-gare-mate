@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What Aldo sees from the interwoven strips (opposite view) < MSK1/>
+*What Aldo sees from the interwoven strips (opposite view) *
 
 ![[src_kangourou_2019_koala_preecolier__prob13.png]]
 

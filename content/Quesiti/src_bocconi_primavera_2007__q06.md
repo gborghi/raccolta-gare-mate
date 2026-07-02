@@ -54,7 +54,7 @@ Type of juice using one, two, three or four fruits*
 
 > In the same situation as before, how many types of fruit juices can Carla prepare using one or two or all four types of fruit she has?
 > 
-> < MSK0/>How many types of juices can you make?< MSK1/>
+> **How many types of juices can you make?**
 
 **Answer:** 15 tipi di succhi
 [[src_bocconi_primavera_2007__Q06]]

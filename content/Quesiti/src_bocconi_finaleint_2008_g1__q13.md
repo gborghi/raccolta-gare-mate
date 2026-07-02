@@ -61,7 +61,7 @@ tags:
 
 *Camel: maximum quantity of water delivered to a camp in the desert with two camels.*
 
-> A camel shed is located at the entrance of the desert and must supply water to a field located $16$ km from there. It has a water reserve of < MSK1/> L and two camels moving at < MSK2/> km/h. When moving, a camel can carry up to < MSK3/> L of water and consume < MSK4/> L of water per hour while, when standing, it consumes only < MSK5/> L per hour. The camel rider, for his part, consumes < MSK6/> L of water per hour walking and < MSK7/> L of water per hour standing. A camel that is not led by its camel keeper can no longer navigate the desert. The camel keeper can tie a camel to a picket and leave it alone. How much water can the camelman deliver to the camp, knowing that he must be able to get out of the wilderness (at the same point of entry) with his two camels?
+> A camel shed is located at the entrance of the desert and must supply water to a field located $16$ km from there. It has a water reserve of $100$ L and two camels moving at $4$ km/h. When moving, a camel can carry up to $50$ L of water and consume $4$ L of water per hour while, when standing, it consumes only $1$ L per hour. The camel rider, for his part, consumes $2$ L of water per hour walking and $1$ L of water per hour standing. A camel that is not led by its camel keeper can no longer navigate the desert. The camel keeper can tie a camel to a picket and leave it alone. How much water can the camelman deliver to the camp, knowing that he must be able to get out of the wilderness (at the same point of entry) with his two camels?
 
 **Answer:** 30 litri
 [[src_bocconi_finaleint_2008_g1__Q13]]

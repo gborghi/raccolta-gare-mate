@@ -50,7 +50,7 @@ tags:
 
 *Three out of five surfaces of equal area*
 
-> Three of the five surfaces in the figure have the same area. < MSK0/>What are they? < MSK1/>
+> Three of the five surfaces in the figure have the same area. **What are they? **
 
 ![[src_bocconi_rosi_2011__Q15.png]]
 

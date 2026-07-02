@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Il nuovo rivestimento riflette 1/10 della luce riflessa dalla vernice nera; trova % assorbita< MSK1/>
+*Il nuovo rivestimento riflette 1/10 della luce riflessa dalla vernice nera; trova % assorbita*
 
-> Le vernici nere opache assorbono < MSK0/> di luce, riflettendo il resto. Gli scienziati hanno sviluppato un nuovo rivestimento, ``` dieci volte più nero' rispetto alle vernici nere opache, il che significa che riflette $1/10$ della luce riflessa dalle vernici nere opache. Che percentuale di luce assorbe il nuovo rivestimento?
+> Le vernici nere opache assorbono $97\%$ di luce, riflettendo il resto. Gli scienziati hanno sviluppato un nuovo rivestimento, ``` dieci volte più nero' rispetto alle vernici nere opache, il che significa che riflette $1/10$ della luce riflessa dalle vernici nere opache. Che percentuale di luce assorbe il nuovo rivestimento?
 > 
 > (A) $9.7$ \quad (B) $90.3$ \quad (C) $99.7$ \quad (D) $99.9$ \quad (E) $970$
 

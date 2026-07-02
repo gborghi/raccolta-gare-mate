@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>longer than the diameter?< MSK1/>
+*longer than the diameter?*
 
 ![[src_kangourou_2025_junior_finale__probJ4.png]]
 

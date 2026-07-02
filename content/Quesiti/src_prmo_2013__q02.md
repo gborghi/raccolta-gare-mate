@@ -51,6 +51,6 @@ tags:
 
 *Valore della somma di 1/(S_n+S_{n-1}) per n=1 a 99*
 
-> Let < MSK0/>. Qual è il valore di $\sum_{n=1}^{99} \frac{1}{S_n + S_{n-1}}$?
+> Let $S_n = \sum_{k=0}^{n} \frac{1}{\sqrt{k+1} + \sqrt{k}}$. Qual è il valore di $\sum_{n=1}^{99} \frac{1}{S_n + S_{n-1}}$?
 
 [[src_prmo_2013__Q02]]

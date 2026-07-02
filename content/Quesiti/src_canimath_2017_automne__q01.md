@@ -55,6 +55,6 @@ tags:
 
 *Escrivere 225 come somma di 5 o 4 integri positivi consecutivi*
 
-> Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di < MSK3/> numeri interi consecutivi? b) Può essere scritta come la somma di < MSK4/> numeri interi consecutivi?
+> Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di $5$ numeri interi consecutivi? b) Può essere scritta come la somma di $4$ numeri interi consecutivi?
 
 [[src_canimath_2017_automne__Q01]]

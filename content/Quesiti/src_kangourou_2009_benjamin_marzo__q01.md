@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integral numbers between 2,009 and 19,03< MSK1/>
+*Integral numbers between 2,009 and 19,03*
 
 > How many integers are there between 2,009 and 19,03 ? A) 16 B) 17 C) 14 D) 15 E) More than 17
 

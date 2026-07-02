@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Image of the cube not consistent with the others< MSK1/>
+*Image of the cube not consistent with the others*
 
 ![[src_kangourou_2017_cadet_semifinale__prob5.png]]
 

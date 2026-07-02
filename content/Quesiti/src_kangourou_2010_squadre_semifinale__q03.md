@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs of non-adjacent boxes on a chessboard 8x8< MSK1/>
+*Pairs of non-adjacent boxes on a chessboard 8x8*
 
-> How many pairs of non-adjacent boxes are found on a chessboard 8 < MSK0/> 8? (Two boxes are called adjacent if they are different and have a side in common.)
+> How many pairs of non-adjacent boxes are found on a chessboard 8 × 8? (Two boxes are called adjacent if they are different and have a side in common.)
 
 **Answer:** 1904
 [[src_kangourou_2010_squadre_semifinale__Q03]]

@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many days and length of vacation (rain) < MSK1/>
+*How many days and length of vacation (rain) *
 
 > The Kangourou family was on vacation in London for a few days. During the holidays, it rained in 15 different days, but: - rainy mornings were always followed by dry afternoons; - rainy afternoons were always preceded by dry mornings; - dry mornings were around 12 and dry afternoons were around 13. How long was the vacation? A) 15 B) 16 C) 19 D) 20 E) 25 tonnes II 7 5 tonnes I
 > 

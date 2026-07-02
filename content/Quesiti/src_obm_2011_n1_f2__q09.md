@@ -67,7 +67,7 @@ tags:
 > 
 > a) Nella parte del geoplano mostrata (una griglia $4 \times 4$ di unghie $16$), disegnare il maggior numero di quadrati uguali che Diamantino può ottenere utilizzando un singolo pezzo di corda. Segnalare le frecce come nell'esempio per indicare come la corda è disposta.
 > 
-> b) Diamantino sostiene di poter ottenere < MSK0/> quadrati sul proprio geoplano. Mostrare che è possibile ottenere la stessa quantità anche sulla griglia $5 \times 5$ di unghie mostrata sotto. Non dimenticate di segnare le frecce sul disegno.
+> b) Diamantino sostiene di poter ottenere $11$ quadrati sul proprio geoplano. Mostrare che è possibile ottenere la stessa quantità anche sulla griglia $5 \times 5$ di unghie mostrata sotto. Non dimenticate di segnare le frecce sul disegno.
 
 ![[src_obm_2011_n1_f2__Q09.png]]
 

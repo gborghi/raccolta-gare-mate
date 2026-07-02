@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height x of water in the glass< MSK1/>
+*Height x of water in the glass*
 
 > A 10 cm high transparent cylindrical glass is partially filled with water. You can see the glass in two positions. What is the x-height of the water in the image on the right? A) 3 cm B) 4 cm C) 5 cm D) 6 cm E) 7 cm
 > 

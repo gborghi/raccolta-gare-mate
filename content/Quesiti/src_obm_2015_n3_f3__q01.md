@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Collinearità di A, D, N se angolo BAC = 45 gradi< MSK1/>
+*Collinearità di A, D, N se angolo BAC = 45 gradi*
 
 > Che $ABC$ sia un triangolo acuto scaleno e $N$ il centro del cerchio che attraversa i piedi delle tre altitudini del triangolo. $D$ è l'intersezione delle linee tangenti al circoncircolo di $ABC$ a $B$ e $C$. Provare che $A$, $D$ e $N$ sono collineari se e solo se $\angle BAC = 45^\circ$.
 

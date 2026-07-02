@@ -53,6 +53,6 @@ tags:
 
 *Right triangle, incenters line meets sides, area of inequality*
 
-> $ABC$ is a right-angled triangle at $A$, and $D$ is the foot of the altitude from $A$. The straight line joining the incenters of the triangles $ABD$, $ACD$ intersects the sides $AB$, $AC$ at the points $K$, $L$ respectively. $S$ and $T$ denote the areas of the triangles $ABC$ and $AKL$ respectively. Show that MSK14/.
+> $ABC$ is a right-angled triangle at $A$, and $D$ is the foot of the altitude from $A$. The straight line joining the incenters of the triangles $ABD$, $ACD$ intersects the sides $AB$, $AC$ at the points $K$, $L$ respectively. $S$ and $T$ denote the areas of the triangles $ABC$ and $AKL$ respectively. Show that$S \ge 2T$.
 
 [[src_imho_1988__Q05]]

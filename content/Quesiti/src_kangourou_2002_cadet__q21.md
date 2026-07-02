@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum divisors of n divisible by 21 and 9 < MSK1/>
+*Minimum divisors of n divisible by 21 and 9 *
 
 > A positive integer n is divisible by 21 and by 9. What is the minimum number of positive integers that must have n (1 and n inclusive)?
 >  

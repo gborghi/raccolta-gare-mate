@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length of square cuts max from semicircle< MSK1/>
+*Length of square cuts max from semicircle*
 
 > The cuts From a semicircle of paper with a radius of 100√5 you want to cut the largest square possible. What is the overall length of the cuts to achieve the goal?
 

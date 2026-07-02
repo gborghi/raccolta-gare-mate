@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Coefficiente di x^2025 in prodotto; restante mod 100 < MSK1/>
+*Coefficiente di x^2025 in prodotto; restante mod 100 *
 
 > Che $N$ sia il coefficiente di $x^{2025}$ nell'espansione di $$(x+1)(x^2+3)(x^4+5)(x^8+7)\cdots(x^{1024}+21).$$ Qual è il rimanente quando $N$ è diviso per 100?
 

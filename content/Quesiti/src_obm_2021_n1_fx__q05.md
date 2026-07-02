@@ -73,16 +73,16 @@ tags:
 
 > Un certo negozio vende modelli di casseforti con serrature a codice che hanno pulsanti $n$ numerati da 1 a $n$ e un pulsante $C$ per avviare.
 > 
-> La password per aprire la cassaforte è un sottogruppo non vuoto del set $\{1, 2, \ldots, n\}$. Per aprirlo, la persona deve premere $C$ e quindi inserire una sequenza che forma la password. Se la cassaforte non si apre, la persona può premere di nuovo < MSK2/> e provare una nuova sequenza.
+> La password per aprire la cassaforte è un sottogruppo non vuoto del set $\{1, 2, \ldots, n\}$. Per aprirlo, la persona deve premere $C$ e quindi inserire una sequenza che forma la password. Se la cassaforte non si apre, la persona può premere di nuovo $C$ e provare una nuova sequenza.
 > 
 > Per esempio, per $n = 4$, se qualcuno premesse la sequenza $C413$, la cassaforte è aperta se la password è $\{4\}, \{1\}, \{3\}, \{4,1\}, \{1,3\}, \{4,1,3\}$ o $\{4,1,3,\ldots\}$  l'ordine degli elementi non importa. Se la cassaforte non si apre, la persona può premere di nuovo $C$ e continuare il test. Un nuovo tentativo potrebbe essere la sequenza $C3412$, che aprirebbe la cassaforte se la password è $\{3\}, \{4\}, \{1\}, \{2\}, \{3,4\}, \{4,1\}, \{1,2\}, \{3,4,1\}, \{4,1,2\}$ o $\{3,4,1,2\}$.
 > 
-> Per alcuni valori di $n$, ciò che conta è il minor numero di volte che una persona deve premere i pulsanti per garantire che la cassaforte sia aperta. Per esempio, per $n = 2$ è necessario premere 5 volte e la sequenza $C12C2$ copre tutte le possibilità: $\{1\}$ o $\{2\}$ o $\{1,2\}$  e la sequenza $C12C2$ copre tutti questi sottoinsiemi. È necessario premere $C$ 2 volte di più, i pulsanti $C1$ o $C2$, per testare il sottogruppo $\{1,2\}$ più 2 pulsanti $C1$ o $C2$, per testare l'elemento. È necessario premere 3 pulsanti per testare < MSK13/> e altre 2 pulsanti per < MSK14/> o < MSK15/> da solo con < MSK16/>, coprendo tutte le possibilità.
+> Per alcuni valori di $n$, ciò che conta è il minor numero di volte che una persona deve premere i pulsanti per garantire che la cassaforte sia aperta. Per esempio, per $n = 2$ è necessario premere 5 volte e la sequenza $C12C2$ copre tutte le possibilità: $\{1\}$ o $\{2\}$ o $\{1,2\}$  e la sequenza $C12C2$ copre tutti questi sottoinsiemi. È necessario premere $C$ 2 volte di più, i pulsanti $C1$ o $C2$, per testare il sottogruppo $\{1,2\}$ più 2 pulsanti $C1$ o $C2$, per testare l'elemento. È necessario premere 3 pulsanti per testare $\{1,2\}$ e altre 2 pulsanti per $\{1\}$ o $\{2\}$ da solo con $C2$, coprendo tutte le possibilità.
 > 
-> < MSK0/>Attenzione: < MSK1/> Per ogni elemento è necessario presentare una sequenza con il numero minimo di presse che si trovano e dimostrare che premendo meno volte c'è sempre una combinazione che non viene testata.
+> *Attenzione: * Per ogni elemento è necessario presentare una sequenza con il numero minimo di presse che si trovano e dimostrare che premendo meno volte c'è sempre una combinazione che non viene testata.
 > 
-> a) Per < MSK0/>, qual è il numero minimo di volte che occorre premere i pulsanti < MSK1/>, 1, 2 e 3 per garantire l'apertura della cassaforte?
+> a) Per $n = 3$, qual è il numero minimo di volte che occorre premere i pulsanti $C$, 1, 2 e 3 per garantire l'apertura della cassaforte?
 > 
-> b) Per < MSK0/>, qual è il numero minimo di volte che è necessario premere i pulsanti < MSK1/>, 1, 2, 3 e 4 per garantire l'apertura della cassaforte?
+> b) Per $n = 4$, qual è il numero minimo di volte che è necessario premere i pulsanti $C$, 1, 2, 3 e 4 per garantire l'apertura della cassaforte?
 
 [[src_obm_2021_n1_fx__Q05]]

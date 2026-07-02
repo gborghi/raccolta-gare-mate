@@ -54,7 +54,7 @@ tags:
 
 *Valutazione della perdita derivante da una frazione delle entrate totali delle colture*
 
-> Un agricoltore dovrebbe ricevere circa < MSK0/> reais dalla vendita del suo raccolto. Tuttavia, la mancanza di pioggia ha causato una perdita del raccolto, valutata tra < MSK1/> e < MSK2/> del totale previsto. Quali dei seguenti valori potrebbero rappresentare la perdita dell'agricoltore?
+> Un agricoltore dovrebbe ricevere circa $100{,}000$ reais dalla vendita del suo raccolto. Tuttavia, la mancanza di pioggia ha causato una perdita del raccolto, valutata tra $\frac{1}{5}$ e $\frac{1}{4}$ del totale previsto. Quali dei seguenti valori potrebbero rappresentare la perdita dell'agricoltore?
 > 
 > A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99 D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum moves to move from AILATI to ITALY< MSK1/>
+*Minimum moves to move from AILATI to ITALY*
 
 > How many moves, at least, do you go from left to right?
 > 

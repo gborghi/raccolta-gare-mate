@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which is not square on the perfect cube< MSK1/>
+*Which is not square on the perfect cube*
 
 > Which of the following integers is not a perfect square and is not a perfect cube? A) 613
 > 	

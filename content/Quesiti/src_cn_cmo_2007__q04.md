@@ -50,6 +50,6 @@ tags:
 
 *Circumcenter, incenter, punti tangenti; prova OIMN*
 
-> Supponiamo che i punti $O$ e $I$ siano rispettivamente il circoncentro e l'incentro di $\triangle ABC$, e che il cerchio di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ rispettivamente ai punti $D$, $E$ e $F$. Le linee $FD$ e $CA$ sono intercettate al punto $P$, mentre le linee $DE$ e $AB$ sono intercettate al punto $Q$. E i punti $M$ e $N$ sono il punto medio dei segmenti $PE$ e $QF$ rispettivamente. Provare che < MSK20/>.
+> Supponiamo che i punti $O$ e $I$ siano rispettivamente il circoncentro e l'incentro di $\triangle ABC$, e che il cerchio di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ rispettivamente ai punti $D$, $E$ e $F$. Le linee $FD$ e $CA$ sono intercettate al punto $P$, mentre le linee $DE$ e $AB$ sono intercettate al punto $Q$. E i punti $M$ e $N$ sono il punto medio dei segmenti $PE$ e $QF$ rispettivamente. Provare che $OI \perp MN$.
 
 [[src_cn_cmo_2007__Q04]]

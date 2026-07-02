@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum p(-2) of a quartic polynomial with constraints and p(a)>=a^3< MSK1/>
+*Minimum p(-2) of a quartic polynomial with constraints and p(a)>=a^3*
 
 > There are 50 islands in a large lake, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of the respective numbers divides the other. For each island, its district consists of the island itself and all those from which it can be reached by a series of bridges. How many are in all the districts?
 >

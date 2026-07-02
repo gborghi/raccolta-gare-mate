@@ -63,7 +63,7 @@ tags:
 
 ![[src_kangourou_2017_junior_marzo__prob10.png]]
 
-> Look at the figure. A white, gray and black circle with a radius of 1 cm (without stripes) on a straight line; K and L are the points of contact at the start and at the finish respectively: they are 11 < MSK0/> cm apart. Which of the following pictures shows the circle on arrival? A)
+> Look at the figure. A white, gray and black circle with a radius of 1 cm (without stripes) on a straight line; K and L are the points of contact at the start and at the end respectively: they are 11 π cm apart. Which of the following pictures shows the circle on arrival? A)
 > 	
 > B)
 > 	

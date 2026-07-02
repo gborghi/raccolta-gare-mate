@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La media ponderata dell'angolo di prova si trova tra 60 e l'angolo più grande< MSK1/>
+*La media ponderata dell'angolo di prova si trova tra 60 e l'angolo più grande*
 
 > Gli angoli $A$, $B$ e $C$ di un triangolo sono misurati in gradi, e $A$, $B$ e $C$ sono interi positivi con $A + B + C = 180$. Le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Prova che $$60 \leq \frac{aA + bB + cC}{a + b + c} \leq C$$ dove $C$ è l'angolo più grande e $c$ è il lato più lungo corrispondente.
 

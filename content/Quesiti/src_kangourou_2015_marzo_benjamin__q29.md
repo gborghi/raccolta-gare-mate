@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the missing one< MSK1/>
+*the missing one*
 
 > Alberto scored four distinct points on a straight line and now, for each pair of points, he measures their distance. Of the six different numbers he gets, five are (in increasing order): 2, 3, 11, 12, 14. The missing one is under 14. What is it? A) 1
 > 	

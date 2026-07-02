@@ -85,7 +85,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Billboard edge point for bouncing < MSK1/>
+*Billboard edge point for bouncing *
 
 ![[src_archimede_2023_biennio__prob12.png]]
 

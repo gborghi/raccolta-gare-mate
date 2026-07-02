@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance first to ninth bus stop< MSK1/>
+*Distance first to ninth bus stop*
 
 > Nine consecutive bus stops are located along a road so that the distance between two adjacent stops is always the same. The distance between the first and third stop is 600 meters. How far is the first stop from the ninth? A)  1200      B)  1500     C)  1800      D)  2400    E)  2700
 

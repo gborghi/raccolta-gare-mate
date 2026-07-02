@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Different areas between rising rhomboidal mosaics< MSK1/>
+*Different areas between rising rhomboidal mosaics*
 
 ![[src_garaprime_2025__prob1.png]]
 

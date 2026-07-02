@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Triangle, beam, projections, isosceles ADH< MSK1/>
+*Triangle, beam, projections, isosceles ADH*
 
 ![[src_archimede_2022_2livello__prob16.png]]
 

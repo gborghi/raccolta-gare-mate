@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min number of +< MSK1/>
+*min number of +*
 
 > Each asterisk in the equation 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 = 0 is to be replaced by a + or a  so that the equation is corrected. What is the minimum number of asterisks to be replaced by the + sign? A) 1
 > 	

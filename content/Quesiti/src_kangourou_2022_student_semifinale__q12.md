@@ -54,7 +54,7 @@ tags:
 
 *equal board within*
 
-> (5 points) Let's call a rectangle of full size m < MSK0/> n fair if the following happens: when it is divided into m squares on the unit side, the squares along the edge are as many as the remaining ones (i.e. those that are tightly inside). How many, if any, are equal rectangles? (A rectangle m × n shall be considered to be identical to the rectangle n × m; if you believe that there are infinitely many equal rectangles, answer 9999.)
+> (5 points) Let's call a rectangle of full size m × n fair if the following happens: when it is divided into m squares on the unit side, the squares along the edge are as many as the remaining ones (i.e. those that are tightly inside). How many, if any, are equal rectangles? (A rectangle m × n shall be considered to be identical to the rectangle n × m; if you believe that there are infinitely many equal rectangles, answer 9999.)
 
 **Answer:** 2
 [[src_kangourou_2022_student_semifinale__Q12]]

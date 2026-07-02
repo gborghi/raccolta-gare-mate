@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum routes< MSK1/>
+*minimum routes*
 
 > A cube has sides of length 1. Starting from one of the peaks, an ant wants to return to you by walking only along the cube's tips and walking all of them at least once. How long are the shortest routes he can take? A) 12
 > 	

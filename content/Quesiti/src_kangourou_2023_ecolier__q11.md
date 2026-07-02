@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which< MSK1/>
+*which*
 
 ![[src_kangourou_2023_ecolier__prob11.png]]
 

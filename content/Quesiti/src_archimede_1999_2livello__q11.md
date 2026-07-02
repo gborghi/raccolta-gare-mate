@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time setting with maximum likelihood of avoiding the last hour< MSK1/>
+*Time setting with maximum likelihood of avoiding the last hour*
 
 > Professor Scappavia teaches mathematics at a school where classes are given six hours a day, Monday through Friday. Her weekly teaching schedule is 18 hours and she would like to never teach in the last hour of class for personal reasons. However, the timetable committee only allows the professor to choose the daily breakdown of her working hours, after which her time will be randomly drawn. Which of the following arrangements should the professor choose so that she is most likely to never have the last hour of class?
 >

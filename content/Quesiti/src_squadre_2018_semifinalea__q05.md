@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two similar triangles intersecting in the hexagon, side product ratio< MSK1/>
+*Two similar triangles intersecting in the hexagon, side product ratio*
 
 > It's a great Gauss! The rays in the flow geometry always create strange figures, Matryx! says DOC. Today they form two T1 and T2 triangles, with two parallel sides, partially overlapping so as to intersect in an ABCDEF hexagon, whose area is half that of T1, and also the 49 72 of T2. Also AB is 4DE. Now, Matryx, can you tell me how much AB ·CD ·EF BC ·DE ·FA? You write the result as a fraction reduced to the minimum terms, and you answer it by indicating the sum between numerator and denominator.
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of 0,3 per cube< MSK1/>
+*Value of 0,3 per cube*
 
 > 0, 3 × 0, 3 × 0, 3 is equal to
 >

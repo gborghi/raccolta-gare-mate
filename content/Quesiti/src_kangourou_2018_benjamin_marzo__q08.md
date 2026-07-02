@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum rings to be touched to make them red< MSK1/>
+*Minimum rings to be touched to make them red*
 
 ![[src_kangourou_2018_benjamin_marzo__prob8.png]]
 

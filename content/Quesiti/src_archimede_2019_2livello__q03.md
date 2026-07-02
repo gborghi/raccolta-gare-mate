@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shoes in packages, minimum packages for three pairs< MSK1/>
+*Shoes in packages, minimum packages for three pairs*
 
 > In Alice's drawer there are 30 socks of five colors: 6 white, 6 yellow, 6 red, 6 green and 6 blue. The little brother takes 10 black envelopes and inserts in each envelope three socks (taken from the drawer) of three different colors. Now Alice must go to Cesenatico and must have in her suitcase at least three pairs of socks of three different colors (the two socks of each pair must be of the same color). How many envelopes does Alice have to take, at least, to make sure she has all the socks she needs?
 >

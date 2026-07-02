@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Scala di equilibrio: rimuovere i pesi dalla vasca inferiore fino a che non siano bilanciati e svuotati< MSK1/>
+*Scala di equilibrio: rimuovere i pesi dalla vasca inferiore fino a che non siano bilanciati e svuotati*
 
 > C'è una scala di equilibrio. Sul pannello sinistro ci sono pesi di massa $22, 24, 26, 28$ (uno ciascuno) e sul pannello destro ci sono pesi di massa $23, 25, 27, 29$ (uno ciascuno). La padella la cui massa totale dei pesi su di essa è più grande punta verso il basso; quando i totali sono uguali, la scala si bilancia. A ogni momento, un peso viene rimosso dalla padella che è attualmente inclinata verso il basso; questo viene ripetuto fino a quando la scala si bilancia. In quanti modi si possono effettuare le rimozioni in modo che, al momento in cui le bilanci della bilancia sono state eliminate tutte le pesate?
 

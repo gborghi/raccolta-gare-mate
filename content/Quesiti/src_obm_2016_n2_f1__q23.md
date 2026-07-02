@@ -60,7 +60,7 @@ tags:
 
 *Anno successivo dopo il 2016 con 53 sabati*
 
-> Si noti che un mese ha $4$ o $5$ sabato e $365=7\cdot 52+1$, quindi un anno ha $52$ settimane complete più $1$ o $2$ giorni extra, a seconda se si tratta di un anno bisuale. Chiamare $x$ una variabile di conteggio, $5x+4(12-x)=52\Rightarrow x=4$ e $5x+4(12-x)=53\Rightarrow x=5$. Un anno ha $53$ sabati quando $1$ gennaio è sabato, o quando $2$ gennaio è sabato e l'anno è un anno bisuale (come in $2016$). Tabellare $1$ gennaio degli anni successivi: 2016 Sabato, 2017 Domenica, 2018 Lunedì, 2019 Martedì, 2020 Mercoledì, 2021 Venerdì, 2022 Sabato. Pertanto l'anno successivo con $53$ sabato è $2022$. Qual è il prossimo anno con < MSK16/> sabato? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Si noti che un mese ha $4$ o $5$ sabati e $365=7\cdot 52+1$, quindi un anno ha $52$ settimane complete più $1$ o $2$ giorni extra, a seconda se si tratta di un anno bisuale. Chiamare $x$ una variabile di conteggio, $5x+4(12-x)=52\Rightarrow x=4$ e $5x+4(12-x)=53\Rightarrow x=5$. Un anno ha $53$ sabati quando $1$ gennaio è sabato, o quando $2$ gennaio è sabato e l'anno è un anno bisuale (come in $2016$). Tabellare $1$ gennaio degli anni successivi: 2016 Sabato, 2017 Domenica, 2018 Lunedì, 2019 Martedì, 2020 Mercoledì, 2021 Venerdì, 2022 Sabato. Pertanto l'anno successivo con $53$ sabato è $2022$. Qual è il prossimo anno con $53$ sabato? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** E
 [[src_obm_2016_n2_f1__Q23]]

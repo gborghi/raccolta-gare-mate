@@ -49,7 +49,7 @@ tags:
 
 > Find all functions $f$ defined on the set of positive real numbers which take positive values and satisfy the conditions:
 > 
-> (i) < MSK0/> for the positive < MSK1/>;
+> (i) $f(xf(y)) = yf(x)$ for the positive $x, y$;
 > 
 > (ii) $f(x) \to 0$ as $x \to \infty$.
 

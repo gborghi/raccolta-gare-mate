@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trova la combinazione più piccola e sicura che soddisfi tre indizi< MSK1/>
+*Trova la combinazione più piccola e sicura che soddisfi tre indizi*
 
 > Abel tiene i suoi risparmi in una cassaforte. Per non dimenticare la combinazione della cassaforte, decide di memorizzare i seguenti indizi:
 > 

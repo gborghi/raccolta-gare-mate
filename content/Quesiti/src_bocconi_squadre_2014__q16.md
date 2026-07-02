@@ -54,7 +54,7 @@ tags:
 
 *Minimum volume of parallel piped box with 1 cm cubes, full at maximum 40%*
 
-> A parallel-piped box may be filled completely with cubes of < MSK0/> cm on the side. If the largest number of cubes of < MSK1/> cm < MSK2/> volume (the sides of the cubes parallel to the sides of the box) are placed in the box, the maximum < MSK3/> of the box is filled. Find the minimum volume of the box that meets all of the above conditions.
+> A parallel-piped box may be filled completely with cubes of $1$ cm on the side. If the largest number of cubes of $4$ cm $^3$ volume (the sides of the cubes parallel to the sides of the box) are placed in the box, the maximum $40\%$ of the box is filled. Find the minimum volume of the box that meets all of the above conditions.
 
 **Answer:** 30
 [[src_bocconi_squadre_2014__Q16]]

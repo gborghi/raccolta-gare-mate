@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca BM nel triangolo ABC dato BAM e BMC hanno uguali inradii< MSK1/>
+*Ricerca BM nel triangolo ABC dato BAM e BMC hanno uguali inradii*
 
 > $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $BAM$, $BMC$ abbiano scritti cerchi di uguale raggio. Trova la lunghezza di $BM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
 

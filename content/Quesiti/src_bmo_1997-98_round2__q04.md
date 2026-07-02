@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sistema simmetrico: trovare soluzione positiva unica< MSK1/>
+*Sistema simmetrico: trovare soluzione positiva unica*
 
 > Trova una soluzione delle equazioni simultanee $$xy + yz + zx = 12$$ $$xyz = 2 + x + y + z$$ in cui tutte le $x, y, z$ sono positive e prova che è l'unica tale soluzione.
 > 

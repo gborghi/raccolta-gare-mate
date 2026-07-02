@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Minimize advanced cells by cutting pieces < MSK1/>
+Minimize advanced cells by cutting pieces *
 
 ![[src_kangourou_2013_cadet__prob6.png]]
 

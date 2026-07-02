@@ -57,7 +57,7 @@ tags:
 
 *Dati due equazioni simultanee in 3^x e 3^y, trovare il valore di 3^x + 3^y.*
 
-> I numeri $x$ e $y$ sono tali che $3^x + 3^{y+1} = 5\sqrt{3}$ e $3^{x+1} + 3^y = 3\sqrt{3}$. Qual è il valore di < MSK4/>?
+> I numeri $x$ e $y$ sono tali che $3^x + 3^{y+1} = 5\sqrt{3}$ e $3^{x+1} + 3^y = 3\sqrt{3}$. Qual è il valore di $3^x + 3^y$?
 >
 > - **(A)** $\sqrt{3}$
 > - **(B)** $2\sqrt{3}$

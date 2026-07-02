@@ -58,6 +58,6 @@ tags:
 > 
 > Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Il punto $E$ su $AB$ è tale che $\angle EDB = 90^\circ$. Il punto $F$ su $AC$ è tale che $\angle EDA = \angle FDC$.
 > 
-> Mostra che < MSK0/>.
+> Mostra che $\angle BAD = \angle FDC$.
 
 [[src_bmo_2000-01_round2__Q03]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little knives to fill the sugar container< MSK1/>
+*Little knives to fill the sugar container*
 
 > The sugar container Giulia can fill with sugar by pouring a sugar container into it - 6 small spoons, 3 medium spoons and 1 large spoon, - or 2 small spoons, 1 medium spoon and 3 large spoons, - or 4 medium spoons and 2 large spoons, all filled with sugar. How many small spoons full of sugar do you need to fill the jar?
 

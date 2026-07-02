@@ -53,6 +53,6 @@ tags:
 
 *Contare i valori possibili di a_2017 per la sequenza con una data ricorrenza*
 
-> Considera le sequenze $a_1, a_2, a_3, \ldots$ di numeri reali positivi con $a_1 = 1$ e tali da $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$ per ogni intero positivo $n$. Quanti valori possibili può contenere < MSK4/>?
+> Considera le sequenze $a_1, a_2, a_3, \ldots$ di numeri reali positivi con $a_1 = 1$ e tali che $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$ per ogni intero positivo $n$. Quanti valori possibili può contenere $a_{2017}$?
 
 [[src_bmo_2017-18_round1__Q04]]

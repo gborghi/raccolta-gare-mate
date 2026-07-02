@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prova la rana sul cerchio Γ ritorna al punto precedentemente visitato< MSK1/>
+*Prova la rana sul cerchio Γ ritorna al punto precedentemente visitato*
 
 > Un cerchio $\Gamma$ ha un raggio 1. Una linea $l$ è tale che la distanza perpendicolare da $l$ al centro di $\Gamma$ sia strettamente compresa tra 0 e 2. Una rana sceglie un punto su $\Gamma$ la cui distanza perpendicolare da $l$ è inferiore a 1 e si trova su quel punto. Poi esegue una sequenza di salti. Ogni salto ha una lunghezza di 1 e se un salto inizia su $\Gamma$ deve finire su $l$ e viceversa. Prova che dopo un numero finito di salti la rana ritorna a un punto su cui è stata prima.
 

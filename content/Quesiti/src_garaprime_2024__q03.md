@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many consecutive fifty with equal mean and product mult 11 and 13< MSK1/>
+*How many consecutive fifty with equal mean and product mult 11 and 13*
 
 > Five consecutive positive integers, less than 100, are such that their mean is an even integer and their product is a multiple of both 11 and 13. How many fifty are possible? A) 4 B) 7 C) 5 D) 6 E) 8 The correct answer is E Let's show the five numbers with x−2, x−1, x, x+1, x+2, with x>2 and x<98. The mean is (x−2)+(x−1)+x+(x+1)+(x+2) 5 = 5x 5 = x, so x must be equal. It is easy to see that the only values that x can take and that allow for a multiple product of both 11 and 13 are x=12, 24, 54, 64, 66, 76, 78, 90, i.e. 8 values.
 

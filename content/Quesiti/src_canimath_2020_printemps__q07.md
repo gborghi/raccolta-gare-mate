@@ -61,6 +61,6 @@ tags:
 
 > Il gioco di mathinal è un gioco giocato da giocatori $n$ (con $n \ge 2$), con $n$ carte verdi e $n$ carte rosse. Inizialmente, ogni giocatore prende una carta verde e una carta rossa, e scrive un numero intero su ciascuna di queste due carte (uno è autorizzato a scrivere lo stesso numero intero sulle due carte). Poi ogni giocatore calcola la somma dei numeri delle sue due carte, e indichiamo con $M$ la somma più grande tra le somme dei $n$ giocatori.
 > 
-> Successivamente, i giocatori ridistribuiscono le carte rosse come segue: il giocatore che detiene la carta verde del numero più piccolo riceve la carta rossa del numero più grande; poi il giocatore che detiene la carta verde del secondo numero più piccolo riceve la carta rossa del secondo numero più grande; e così via. Ogni giocatore calcola di nuovo la somma dei numeri delle sue due carte, e indichiamo con $M'$ la somma più grande tra le somme dei giocatori $n$. 1) È possibile avere < MSK2/>? 2) È possibile avere < MSK3/>?
+> Successivamente, i giocatori ridistribuiscono le carte rosse come segue: il giocatore che detiene la carta verde del numero più piccolo riceve la carta rossa del numero più grande; poi il giocatore che detiene la carta verde del secondo numero più piccolo riceve la carta rossa del secondo numero più grande; e così via. Ogni giocatore calcola di nuovo la somma dei numeri delle sue due carte, e indichiamo con $M'$ la somma più grande tra le somme dei giocatori $n$. 1) È possibile avere $M' < M$? 2) È possibile avere $M' > M$?
 
 [[src_canimath_2020_printemps__Q07]]

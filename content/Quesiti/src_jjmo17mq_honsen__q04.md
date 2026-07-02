@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Minimum di spostamenti ortogonali nel percorso di King-Move Hamiltonian su n < MSK0/>n griglia < MSK2/>
+*Minimum di spostamenti ortogonali nel percorso di King-Move Hamiltonian su n ×n griglia *
 
 > $n \ge 3$ sia un numero intero. Considerate una griglia di quadrati $n \times n$. Si gioca il seguente gioco:
 > 

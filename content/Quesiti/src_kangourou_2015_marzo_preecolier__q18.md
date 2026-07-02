@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many ways< MSK1/>
+*how many ways*
 
 > A kangaroo can jump from a position to an adjacent one connected to a segment. He's not allowed to go through the same position twice. If it starts from $S$, how many different ways can it reach $F$ by jumping exactly $4$? (see figure)
 > 

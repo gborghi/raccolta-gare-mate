@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum known attempts the constraints< MSK1/>
+*maximum known attempts the constraints*
 
 > (Points 3) The code of a safe deposit box is a four-digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With this information alone, how many attempts will it take to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
 

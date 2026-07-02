@@ -54,8 +54,8 @@ tags:
 
 *La radice dell'equazione reale si trova in un intervallo dato*
 
-> Il numero reale $t$ è una radice dell'equazione $$x^n + a_1 x^{n-1} + \cdots + a_{n-1} x + a_n = 0, \quad (n \geq 2),$$ in cui i coefficienti sono reali e soddisfano $-1 \leq a_k \leq 1$, $(2 \leq k \leq n)$.
+> Il numero reale $t$ è una radice dell'equazione $$x^n + a_1 x^{n-1} + \cdots + a_{n-1} x + a_n = 0, \quad (n \geq 2),$$ dove i coefficienti sono reali e soddisfano $-1 \leq a_k \leq 1$, $(2 \leq k \leq n)$.
 > 
-> Provare che < MSK0/>
+> Provare che $$-(1 + \sqrt{5}) \leq t \leq \frac{1}{2}(1 + \sqrt{5}).$$
 
 [[src_bmo_1975-76_round2__Q02]]

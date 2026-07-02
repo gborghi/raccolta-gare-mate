@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ipotenusa XY di triangolo rettangolo dai due mediani alle gambe< MSK1/>
+*Ipotenusa XY di triangolo rettangolo dai due mediani alle gambe*
 
 > Che $XOY$ sia un triangolo rettangolo con $X\hat{O}Y = 90^\circ$. I punti intermedi $M$ e $N$ siano rispettivamente i punti intermedi $OX$ e $OY$ delle gambe. Dato che $XN = 19$ e $YM = 22$, determinare la misura del segmento $XY$.
 > 

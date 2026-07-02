@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Final product zeros n < MSK1/> m data MCD and mcm < MSK2/>
+Final product zeros n * m data MCD and mcm *
 
 > Of two integers n and m we know that the maximum common divisor is 2 · 34 · 5 while the minimum common multiple is 23 · 37 · 52 · 7. How many zeros does the product end with? A 3 B 4 C 1 D 2 E more than 4 F not uniquely determinable from the data provided
 

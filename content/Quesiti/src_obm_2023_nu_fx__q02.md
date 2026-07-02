@@ -64,8 +64,8 @@ tags:
 
 > Let $a_n = \dfrac{1}{\binom{2n}{n}}$ per tutti $n \ge 1$.
 > 
-> (a) dimostrare che $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converge per tutti $x \in (-4,4)$ e che la funzione $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ soddisfa l'equazione differenziale $x(x-4)f''(x)+(x+2)f(x)=-x$.
+> a) Prove che $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converge per tutti $x \in (-4,4)$ e che la funzione $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ soddisfa l'equazione differenziale $x(x-4)f''(x)+(x+2)f(x)=-x$.
 > 
-> b) Prove che < MSK0/>.
+> b) Prove che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n\binom{2n}{n}} = \frac{1}{3} + \frac{2\pi\sqrt{3}}{27}$.
 
 [[src_obm_2023_nu_fx__Q02]]

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number remaining after double-sum deletions< MSK1/>
+*Number remaining after double-sum deletions*
 
 > The numbers 1, 2, 7, 9, 10, 15 and 19 were written on a board. Two players alternately cancel one number at a time until only one number remains on the board. If the sum of the numbers deleted by one player is twice the sum of the numbers deleted by the other, what number is left on the board? A) 7
 > 	

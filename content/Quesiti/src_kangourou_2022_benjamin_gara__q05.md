@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The last three digits of the smallest 12-digit number < MSK1/>
+*The last three digits of the smallest 12-digit number *
 
 ![[src_kangourou_2022_benjamin_gara__prob5.png]]
 

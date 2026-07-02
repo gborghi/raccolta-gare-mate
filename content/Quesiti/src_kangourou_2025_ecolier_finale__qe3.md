@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little whole number with sum of 30 < MSK1/>
+*Little whole number with sum of 30 *
 
 > Write the smallest integer greater than 0 whose sum is 30. Explain how you determined it.
 

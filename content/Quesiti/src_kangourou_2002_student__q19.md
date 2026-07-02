@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time for Achilles and the turtle< MSK1/>
+*Time for Achilles and the turtle*
 
 > Achilles' fast-footed chases the turtle that walks slowly in front of him. The initial distance between them is 990 meters. The speed of Achilles is 10 meters per second, the speed of the turtle is 1 meter every 10 seconds. How long before Achilles reaches the turtle?
 >  

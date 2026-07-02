@@ -51,8 +51,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare le arrangiamenti circolari di 3 colpi rossi, 3 blu e 3 gialli; rotazioni identificate, riflessioni distinte< MSK1/>
+*Contare le arrangiamenti circolari di 3 colpi rossi, 3 blu e 3 gialli; rotazioni identificate, riflessioni distinte*
 
-> Sono presenti < MSK0/> colligatori: < MSK1/> rosso, < MSK2/> blu e < MSK3/> giallo. Conteggi il numero di modi per posizionare le prese $9$ in posizioni spaziate ugualmente intorno a una tavola circolare. Due dispositivi sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione. Tuttavia, una disposizione e la sua immagine speculare (cioè la disposizione vista dopo aver invertito la direzione di rotazione) sono considerati come due disposizioni distinte.
+> Sono presenti $9$ colligatori: $3$ rosso, $3$ blu e $3$ giallo. Conteggi il numero di modi per posizionare le prese $9$ in posizioni spaziate ugualmente intorno a una tavola circolare. Due dispositivi sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione. Tuttavia, una disposizione e la sua immagine speculare (cioè la disposizione vista dopo aver invertito la direzione di rotazione) sono considerati come due disposizioni distinte.
 
 [[src_jmo13yq_yosen__Q07]]

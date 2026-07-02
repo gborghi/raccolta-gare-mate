@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Find n < MSK1/>
+Find n *
 
 > (5 points) Anna and Ernesto play as follows. On the table there are n cards numbered from 1 to n. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. You know the odds of Anna winning are 74%. How much is n? A) 8
 >  

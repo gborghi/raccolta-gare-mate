@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>from how many years< MSK1/>
+*from how many years*
 
 > The sum of the numbers for 2023 is 7. How many years from now, for the first time in a year, will the sum of the numbers still be seven? A) 7
 > 	

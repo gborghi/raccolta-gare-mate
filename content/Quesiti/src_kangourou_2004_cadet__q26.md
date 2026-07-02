@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Differential x-y after 999 seconds (vertical) < MSK1/>
+*Differential x-y after 999 seconds (vertical) *
 
 ![[src_kangourou_2004_cadet__prob26.png]]
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Initial points on the straight after repeated insertions< MSK1/>
+*Initial points on the straight after repeated insertions*
 
 > On a straight line at first a few points are marked. For each pair of consecutive points Lucia marks another point within the segment that has them as extremes. Repeat this operation three more times. In the end, 225 points are scored on the straight. How many dots were initially marked on the straight? A) 10
 > 	

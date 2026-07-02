@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-% of world production represented by Europe < MSK1/>
+% of world production represented by Europe *
 
 > Italian wine production accounts for 25% of world wine production and 38% of European wine production. What percentage of world production is represented by European production?
 >

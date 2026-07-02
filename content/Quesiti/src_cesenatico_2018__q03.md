@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of reverses < 3< MSK1/>
+*sum of reverses < 3*
 
 > They're x1, x2, . . . , xn positive integers. Let's assume that, in their decimal writing, none of xi is an extension of another xj. For example, 123 is an extension of 12, and 459 is an extension of 4, but 134 is not an extension of 123. Prove that 1 x1 + · · + 1 xn < 3.
 

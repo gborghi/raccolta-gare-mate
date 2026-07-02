@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which are not planar developments of the cut cube< MSK1/>
+*Which are not planar developments of the cut cube*
 
 ![[src_kangourou_2008_junior_marzo__prob9.png]]
 

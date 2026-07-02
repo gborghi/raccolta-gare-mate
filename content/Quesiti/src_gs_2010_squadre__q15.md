@@ -49,6 +49,6 @@ tags:
 
 > **Enrolled polygons ** (points 50)
 > 
-> In a radius of 1 m, the diameter shall be plotted as the first step. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least so that the side of the polygon obtained is shorter than < MSK0/> m?
+> In a radius of 1 m, the diameter shall be plotted as the first step. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least so that the side of the polygon obtained is shorter than $\dfrac{1}{2^{2010}}$ m?
 
 [[src_gs_2010_squadre__Q15]]

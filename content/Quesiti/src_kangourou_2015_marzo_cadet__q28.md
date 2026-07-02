@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max attempts< MSK1/>
+*max attempts*
 
 > 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luke telling me the number is seven digits. I don't know what number I forgot to write down, or what position it might be in. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
 

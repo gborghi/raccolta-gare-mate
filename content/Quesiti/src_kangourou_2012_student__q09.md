@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Winks on real x with x^3<64<x^2< MSK1/>
+*Winks on real x with x^3<64<x^2*
 
 > A real number x satisfies the inequalities x3 < 64 < x2. Which of the following statements on x is correct? A) 0 < x < 64 B) -8 < x < 4 C) x > 8 D) -4 < x < 8 E) x < -8
 

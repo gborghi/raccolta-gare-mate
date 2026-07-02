@@ -55,7 +55,7 @@ tags:
 
 *Trova angolo x con triangoli e accordi paralleli su un cerchio*
 
-> Considerate la figura a destra, dove i punti $A$ fino a $I$ si trovano su un cerchio. È noto che i triangoli $ABC$, $CDE$, $EFG$ e $GHI$ sono uguali e che i segmenti $BC$, $DE$, $FG$ e $HI$ sono paralleli. Qual è la misura dell'angolo < MSK10/>?
+> Considerate la figura a destra, dove i punti $A$ fino a $I$ si trovano su un cerchio. È noto che i triangoli $ABC$, $CDE$, $EFG$ e $GHI$ sono uguali e che i segmenti $BC$, $DE$, $FG$ e $HI$ sono paralleli. Qual è la misura dell'angolo $x = \angle APC$?
 > 
 > (A) $15^\circ$ $\quad$ (B) $20^\circ$ $\quad$ (C) $30^\circ$ $\quad$ (D) $40^\circ$ $\quad$ (E) $45^\circ$
 

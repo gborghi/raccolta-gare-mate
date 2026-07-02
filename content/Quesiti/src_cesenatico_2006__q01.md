@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rose paper value< MSK1/>
+*Rose paper value*
 
 > Rosa and Savino play the following game with the Neapolitan cards (40 cards numbered 1 to 10 of 4 different seeds): initially they divide the 40 cards (20 for each), then in turn they place a card on the table. When some of the cards on the table have values whose sum is exactly 15, these cards are deleted from the game (if there are more than one way to get a sum of 15, the player who supported the last card decides which cards have a sum of values equal to 15 to eliminate). At the end of the game, two cards remained in Savino's hand (one 5 and one 3), one card on the table (one 9) and one card in Rosa's hand. What's the value of the Rose card?
 

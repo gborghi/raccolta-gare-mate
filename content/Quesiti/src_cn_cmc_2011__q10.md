@@ -52,6 +52,6 @@ tags:
 
 *Sequenza di ricorrenze: trovare termine generale e confrontare termini consecutivi*
 
-> Supponiamo che la sequenza $\{a_n\}$ soddisfi $a_1 = 2t - 3$ ($t \in \mathbf{R}$ e $t \neq \pm 1$), $$a_{n+1} = \frac{(2t^{n+1} - 3)a_n + 2(t - 1)t^n - 1}{a_n + 2t^n - 1} \quad (n \in \mathbf{N}^*).$$ (1) Trova la formula del termine generale su $\{a_n\}$. (2) Se < MSK6/>, scopri quale sia più grande tra < MSK7/> e < MSK8/>.
+> Supponiamo che la sequenza $\{a_n\}$ soddisfi $a_1 = 2t - 3$ ($t \in \mathbf{R}$ e $t \neq \pm 1$), $$a_{n+1} = \frac{(2t^{n+1} - 3)a_n + 2(t - 1)t^n - 1}{a_n + 2t^n - 1} \quad (n \in \mathbf{N}^*).$$ (1) Trova la formula del termine generale circa $\{a_n\}$. (2) Se $t > 0$, scopri quale sia più grande tra $a_{n+1}$ e $a_n$.
 
 [[src_cn_cmc_2011__Q10]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Six-piece cut rod length< MSK1/>
+*Six-piece cut rod length*
 
 ![[src_kangourou_2020_junior_marzo__prob8.png]]
 

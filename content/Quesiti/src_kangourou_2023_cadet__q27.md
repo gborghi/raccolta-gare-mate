@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> when 77< MSK1/>
+* when 77*
 
 > In the figure you see a way you can write the number 1015 as a sum of numbers where only the number 7 appears: in total the number has been used 10 times. If we want to write the number 2023 as the sum of positive numbers containing only the number 7, using that number 19 times, how many times do we have to use the number 77? A) 2
 > 	

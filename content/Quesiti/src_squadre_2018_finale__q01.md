@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year x before 9613 with 9613^2-x^2 perfect square< MSK1/>
+*Year x before 9613 with 9613^2-x^2 perfect square*
 
 > Welcome to the future! Philip J. Frege, you're in the future! Liela Turinga shouts dramatically after awakening our hero from hibernation. What year are they? Shortly before the year 9613. In fact, it's exactly the last year x before 9613 so 96132 −x2 is a perfect square. What year is the poor pony-pizza?
 

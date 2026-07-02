@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many white tiles in the diagonal mosaic< MSK1/>
+*How many white tiles in the diagonal mosaic*
 
 ![[src_kangourou_2004_junior__prob20.png]]
 

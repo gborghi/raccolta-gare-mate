@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Initial number of chocolates in each tray after exchanges between Chiara, Carla and Jacopo< MSK1/>
+*Initial number of chocolates in each tray after exchanges between Chiara, Carla and Jacopo*
 
 > In Clara's room, there are three trays containing the same number of chocolates. Carla takes one out of one of the three trays and puts it back in one of the other two. Milena, in turn, takes two chocolates from one of the three trays and (resisting the temptation to eat them) puts them back in one of the other two. It's Jacopo's turn. He takes four chocolates from one of the three trays and puts them back in one of the other two. At this point, one of the three trays contains twice the number of chocolates in a second tray and three times the number of chocolates in a third tray. How many chocolates did each tray initially contain?
 

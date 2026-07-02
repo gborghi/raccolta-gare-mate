@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Chocolates received from Carla in the second distribution< MSK1/>
+Chocolates received from Carla in the second distribution*
 
-> Deborah, Jacob, and Luke went to visit their cousins Carla and Milena. Uncle Desiderio, to celebrate the meeting, distributed some chocolates to everyone: Deborah had 7, Jacob 3, Luke 2, Carla 8 and Milena 9. At this point, Desiderio had 21 chocolates left to distribute and wants to do so so that after this second distribution, all cousins have the same number of chocolates. How many chocolates has Carla (in the second order) received?
+> Deborah, Jacob, and Luke went to visit their cousins Carla and Milena. Uncle Desiderio, to celebrate the meeting, distributed some chocolates to everyone: Debora had 7, Jacob 3, Luke 2, Carla 8 and Milena 9. At this point, Desiderio had 21 chocolates left to distribute and he wants to do so so that after this second distribution, all cousins have the same number of chocolates. How many chocolates has Carla (in the second order) received?
 
 **Answer:** 2 cioccolatini
 [[src_bocconi_rosi_2011__Q11]]

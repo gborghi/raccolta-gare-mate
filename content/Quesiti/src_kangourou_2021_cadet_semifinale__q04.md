@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Certainly false claim (Lisa's euro) < MSK1/>
+*Certainly false claim (Lisa's euro) *
 
 > (4 points) If any of the following three statements
 >  

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>6 coupon e 6 bulleti; coppie inserite insieme in bulleti; nessun coupon in bulleto con numero identico< MSK1/>
+*6 coupon e 6 bulleti; coppie inserite insieme in bulleti; nessun coupon in bulleto con numero identico*
 
 > Esistono sei cuponi numerati da 1 a 6 e sei buste, anche numerati da 1 a 6. I primi due coupon sono messi insieme in una sola busta. Allo stesso modo, il terzo e il quarto sono messi insieme in una busta diversa, e gli ultimi due sono messi insieme in un'altra busta diversa. Quanti modi si può fare se non si inserisce un coupon nella busta con lo stesso numero del coupon?
 

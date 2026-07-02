@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>In which dish the apple-carrot-pear ratio < MSK1/>
+*In which dish the apple-carrot-pear ratio *
 
 > In which dish is the number of apples twice that of carrots and the number of carrots twice that of pears?
 > 

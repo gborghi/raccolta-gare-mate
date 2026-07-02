@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solts needed to hang towels< MSK1/>
+*Solts needed to hang towels*
 
 ![[src_kangourou_2012_ecolier__prob3.png]]
 

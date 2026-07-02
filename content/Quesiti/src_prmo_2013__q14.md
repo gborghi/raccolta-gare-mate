@@ -54,6 +54,6 @@ tags:
 
 *Trova m+n dove m,n sono i numeri interi più piccoli pari/pari che rendono il numero triangolare un quadrato perfetto*
 
-> Che $m$ sia il più piccolo numero intero parziale per il quale $1 + 2 + \cdots + m$ è un quadrato di un intero e che $n$ sia il più piccolo numero intero pari per il quale $1 + 2 + \cdots + n$ è un quadrato di un intero. Qual è il valore di < MSK4/>?
+> Che $m$ sia il più piccolo numero intero parziale per il quale $1 + 2 + \cdots + m$ è il quadrato di un intero e che $n$ sia il più piccolo numero intero pari per il quale $1 + 2 + \cdots + n$ è il quadrato di un intero. Qual è il valore di $m + n$?
 
 [[src_prmo_2013__Q14]]

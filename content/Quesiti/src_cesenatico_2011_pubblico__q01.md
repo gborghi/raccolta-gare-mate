@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability sum of 9 dice <= 31< MSK1/>
+*Probability sum of 9 dice <= 31*
 
 > Concerto in D minor [15] The bardo Assuranceturing, as he cannot sing in public without ending up tied up like a salami, is locked in his hut to play dice. If he throws 9 Roman dice (common dice with 6 faces numbered 1 to 6), what is the probability that the sum of the outcome values is less than or equal to 31? As a response, provide the first four digits after the comma.
 

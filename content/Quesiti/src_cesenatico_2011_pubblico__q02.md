@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> missing pieces of bronze < MSK1/>
+* missing pieces of bronze *
 
 > On the boat for Britannia, when Abelix asks him for information about the type of coins used on his land, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. Also, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 25 and a half pieces of copper, how many pieces of bronze does he need to reach the value of an iron barrel?
 

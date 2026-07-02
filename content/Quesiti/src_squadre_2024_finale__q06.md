@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume of amulets after cube-octahedron-cube< MSK1/>
+*Volume of amulets after cube-octahedron-cube*
 
 > Scoobe-Zout met a guy on the ship with a somewhat disturbing airtight. Immediately he escapes and jumps into the arms of S-Higgs who, seeing him so frightened, decides to build him an amulet to protect him. At the beginning S-Higgs takes a wooden cube of 10000mm3. However, as Scoobe-Zout prefers octahedra, S-Higgs uses his precision saw and cuts the cube to obtain an octahedra that has the centers of the cube's faces to top. When the operation is over, Scoobe-Zout reminds him that in the Inca tradition octahedra are cursed. Then, quickly, S-Higgs re-shapes the octahedron to get a cube that has the centers of the octahedron's faces to top. What is the value in cubic millimetres of the volume of the amulet? 2024 Team Competition  National Final  Problem Tests  1/4
 

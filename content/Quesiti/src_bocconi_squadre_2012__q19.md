@@ -54,9 +54,9 @@ tags:
 
 *Fourth fraction with number 1 equal to 1*
 
-> Is it possible to write the number $1$ as the sum of five fractions that all have the $1$ numerator, knowing that the last one (in descending order) is $\frac{1}{24}$?
+> Is it possible to write the $1$ number as the sum of five fractions that all have the $1$ numerator, knowing that the last one (in descending order) is $\frac{1}{24}$?
 > 
-> < MSK1/>If this is not possible, type < MSK0/>. If possible, indicate the fourth fraction (always in descending order).**
+> **If this is not possible, type $0$. If possible, indicate the fourth fraction (always in descending order).**
 
 **Answer:** $\dfrac{1}{12}$
 [[src_bocconi_squadre_2012__Q19]]

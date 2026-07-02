@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum sweets eaten by Andrea< MSK1/>
+*Minimum sweets eaten by Andrea*
 
 > Three children ate a total of 17 sweets. Andrea ate more candy than each of the other children. How many must have eaten at least?
 >  

@@ -54,6 +54,6 @@ tags:
 
 *Calcolare un'integrale impropria con esponenziale *
 
-> Calcolo < MSK0/>
+> Calcolo $$\int_2^{\infty} \frac{e^x - 1 - x}{(e^x - 1) \cdot x}\, dx.$$
 
 [[src_obm_2006_nu_f1__Q01]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> isosceles triangle and parallelogram< MSK1/>
+* isosceles triangle and parallelogram*
 
 > DEMOSTRATIVE EXERCISE Given a circumference ω of diameter AB and P an inner point of the AB segment, both M and the middle point of PB. If r, s two parallel lines passing through M, P respectively, do not coincide with the straight AB and are orthogonal to it. Then either H is the orthogonal projection of A over s and K is the point of intersection (different from A) between ω and the straight AH. Finally X, Y are the intersections of r with ω, where X is on the opposite side of H to AB. (a) Demonstrate that the triangle HY K is isosceles. (b) Demonstrate that BXHY is a parallelogram.
 

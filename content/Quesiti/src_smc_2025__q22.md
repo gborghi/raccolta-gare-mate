@@ -58,9 +58,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>n terpe e 12 formiatri mangiano n^2 + 20n + 25 formiche ugualmente; quante formiche mangia ogni animale? < MSK1/>
+*n Nerdvarks e 12 formiatri mangiano n^2 + 20n + 25 formiche in eguaglianza; quante formiche mangia ogni animale? *
 
-> Insieme, gli aardvarks < MSK0/> e i 12 formici mangiano < MSK1/> formiche. Ogni animale mangia lo stesso numero di formiche. Quante formiche mangia ogni animale?
+> Insieme, gli aardvarks $n$ e i 12 formici mangiano $n^2 + 20n + 25$ formiche. Ogni animale mangia lo stesso numero di formiche. Quante formiche mangia ogni animale?
 >
 > - **(A)** 61
 > - **(B)** 66

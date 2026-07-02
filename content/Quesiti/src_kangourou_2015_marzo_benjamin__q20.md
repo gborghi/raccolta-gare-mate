@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min moves to A< MSK1/>
+*min moves to A*
 
 ![[src_kangourou_2015_marzo_benjamin__prob20.png]]
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum sizes for 7 slices with one star< MSK1/>
+*Minimum sizes for 7 slices with one star*
 
 ![[src_kangourou_2002_benjamin__prob27.png]]
 

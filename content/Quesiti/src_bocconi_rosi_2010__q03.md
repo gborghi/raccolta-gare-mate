@@ -47,9 +47,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Three friends with a total age of 28 years, between the ages of 37 years < MSK1/>
+*Three friends with a total age of 28 years, between the ages of 37 years *
 
-> Jacob, Luca and Francesco are together < MSK0/> years. How many years from now will they have MSK1 together?
+> Jacob, Luca and Francesco are together $28$ years. How many years from now will they have$37$together?
 
 **Answer:** Tra 3 anni
 [[src_bocconi_rosi_2010__Q03]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities 2 and 5 to make 2000< MSK1/>
+*Quantities 2 and 5 to make 2000*
 
 > The year 2000: the number 2000 is obtained by multiplying only two and five. How many of each type are needed? (a) two two and five five B) three two and three five C) three two and four five D) four two and three five E) four two and four five
 

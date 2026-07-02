@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most likely value of difference of two dice< MSK1/>
+*Most likely value of difference of two dice*
 
 > Let's draw two dice (with the faces numbered 1 to 6, as in use), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equal B) 0 C) 1 D) 2 E) 3
 

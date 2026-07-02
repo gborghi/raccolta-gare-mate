@@ -54,7 +54,7 @@ tags:
 
 *Next year with 53 full weekends after 2000*
 
-> In < MSK0/> there were < MSK1/> full weekends (Saturday and Sunday).
+> In $2000$ there were $53$ full weekends (Saturday and Sunday).
 > 
 > **What year will it be with full weekends? **
 

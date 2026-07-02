@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Replacement of beverage to obtain 50% juice< MSK1/>
+*Replacement of beverage to obtain 50% juice*
 
 > A 33 cl bottle of an orange drink is 75% water and 25% orange juice. Enrica wants to replace some of the beverage in this bottle with orange juice, so as to get a new beverage that is 50% orange juice. How many cl of the original drink should Enrica replace with orange juice?
 >

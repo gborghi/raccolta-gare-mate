@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Magrathea templates, co-circular columns (I) < MSK1/>
+*Magrathea templates, co-circular columns (I) *
 
 ![[src_gs_2009_squadre__prob15.png]]
 

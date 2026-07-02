@@ -60,7 +60,7 @@ tags:
 
 *Construire un polinomio intero che scompare a P_j ma non è divisibile da p a Q*
 
-> Let < MSK1/>. Che $p$ sia un primo, $k$ un intero positivo, e $P_1,P_2,\ldots,P_n, Q\in\mathbb{Z}^k$ tale che per tutti $j$, $1\le j\le k$, $$\frac{P_j-Q}{p}\in\mathbb{Z}^k.$$
+> Let $\mathbb{Z}^k=\{(x_1,x_2,\ldots,x_k):x_1,x_2,\ldots,x_k\in\mathbb{Z}\}$. Che $p$ sia un primo, $k$ un intero positivo, e $P_1,P_2,\ldots,P_n, Q\in\mathbb{Z}^k$ tale che per tutti $j$, $1\le j\le k$, $$\frac{P_j-Q}{p}\in\mathbb{Z}^k.$$
 > 
 > Prova che esiste un polinomio $f(x_1,\ldots,x_k)$ con coefficienti interi come $f(P_j)=0$ per tutti $j$, $1\le j\le k$ e $\dfrac{f(Q)}{p}\notin\mathbb{Z}$.
 

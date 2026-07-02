@@ -51,7 +51,7 @@ tags:
 
 *Triangolo acuto, angolo BAC=60 gradi, linea di Euler incontra i lati, prova PO=HQ*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB > AC$ e $\angle BAC = 60^\circ$. Denotare il circoncentro con $O$ e l'ortocentro con $H$ e far incontrare $OH$ con $AB$ a $P$ e $AC$ a $Q$. Prova che < MSK10/>.
+> Il $ABC$ deve essere un triangolo acuto con $AB > AC$ e $\angle BAC = 60^\circ$. Denotare il circoncentro con $O$ e l'ortocentro con $H$ e far incontrare $OH$ con $AB$ a $P$ e $AC$ a $Q$. Prova che $PO = HQ$.
 > 
 > Nota: il circoncentro del triangolo $ABC$ è il centro del cerchio che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari da ogni vertice al lato opposto.
 

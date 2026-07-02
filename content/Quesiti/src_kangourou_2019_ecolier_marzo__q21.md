@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants) < MSK1/>
+*How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants) *
 
 > In a zoo there are a total of 15 animals: lions, elephants and kangaroos. Ten are not lions, eight are not elephants. How many kangaroos are there? A) 2
 > 	

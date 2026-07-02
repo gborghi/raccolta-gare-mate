@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>I figli del conte emir sono stati nidificati "escluse 39" con condizioni gemelle/triplici< MSK1/>
+*I figli del conte emir sono stati nidificati "escluse 39" con condizioni gemelle/triplici*
 
 > L'emiro Abdel Azir divenne famoso per i suoi molti figli. Ha avuto più di 39 figli, tra cui tre bambini, i gemelli dei figli dello storico Ahmed Aab che afferma, inoltre, che tra tutti questi l'emiro aveva solo due set di triplici, tranne 39; aveva solo gemelli, tranne 39; aveva solo nascite singole, tranne 39; tutte le coppie gemelle sono quadruple, tranne 39. Quanti figli aveva l'emiro?
 >

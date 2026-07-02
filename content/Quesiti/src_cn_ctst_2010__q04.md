@@ -55,6 +55,6 @@ tags:
 
 *C'è una buona mappa grafica con valore massimo n fattorial*
 
-> $G = G(V, E)$ sia un grafico semplice con insieme verticale $V$ e insieme di bordi $E$, e supponiamo che $|V| = n$. Una mappa $f: V \to \mathbb{Z}$ si dice buona se soddisfa: (1) $\displaystyle\sum_{v \in V} f(v) = |E|$; (2) Se si colorano arbitrariamente alcuni vertici in rosso, esiste un vertice rosso $v$ tale che $f(v)$ non è maggiore del numero di vertici adiacenti a $v$ che non sono colorati in rosso. Let < MSK9/>. Mostra che < MSK10/>.
+> $G = G(V, E)$ sia un grafico semplice con insieme verticale $V$ e insieme di bordi $E$, e supponiamo che $|V| = n$. Una mappa $f: V \to \mathbb{Z}$ si dice buona se soddisfa: (1) $\displaystyle\sum_{v \in V} f(v) = |E|$; (2) Se si colorano arbitrariamente alcuni vertici in rosso, esiste un vertice rosso $v$ tale che $f(v)$ non è maggiore del numero di vertici adiacenti a $v$ che non sono colorati in rosso. Let $m(G) = \min\{\displaystyle\sum_{v} |f(v)| : f \text{ is good}\}$. Mostra che $m(G) \le n!$.
 
 [[src_cn_ctst_2010__Q04]]

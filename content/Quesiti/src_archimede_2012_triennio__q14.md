@@ -114,7 +114,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mean distance points on the development of the cone< MSK1/>
+*Mean distance points on the development of the cone*
 
 ![[src_archimede_2012_triennio__prob14.png]]
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Position of the ab product on the real line< MSK1/>
+*Position of the ab product on the real line*
 
 > Renata scored as accurately as possible two points a and b on the real line. One of the points p, q, r, s, t of the line represents the product ab. What kind? A) p
 > 	

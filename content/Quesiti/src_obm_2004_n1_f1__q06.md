@@ -53,7 +53,7 @@ tags:
 
 *Minimum di autobus necessari in modo che ogni autobus porti studenti uguali*
 
-> Gli studenti di una scuola andarono in un viaggio per il quale furono affittati due autobus. Gli studenti < MSK0/> sono arrivati alla prima fermata dell'autobus e < MSK1/> al secondo. Quanti studenti devono spostarsi dal primo autobus al secondo in modo che ogni autobus porti lo stesso numero di studenti?
+> Gli studenti di una scuola andarono in un viaggio per il quale furono affittati due autobus. Gli studenti $57$ sono arrivati alla prima fermata dell'autobus e $31$ al secondo. Quanti studenti devono spostarsi dal primo autobus al secondo in modo che ogni autobus porti lo stesso numero di studenti?
 > 
 > (A) $8$ \quad (B) $13$ \quad (C) $16$ \quad (D) $26$ \quad (E) $31$
 

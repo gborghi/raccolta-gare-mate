@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Find all pairs (m,n) making a fraction a positive integer< MSK1/>
+*Find all pairs (m,n) making a fraction a positive integer*
 
 > Find all pairs $(m, n)$ of positive integers such that $\dfrac{m^2}{2mn^2 - n^3 + 1}$ is a positive integer.
 

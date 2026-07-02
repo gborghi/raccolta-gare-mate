@@ -55,7 +55,7 @@ tags:
 
 *To have the digits 1,2,3,4 in the expression for the minimum result.*
 
-> Place all the digits 1,2,3,4 in the boxes in the figure to get the smallest possible result. The figure is < MSK0/>.
+> Place all the digits 1,2,3,4 in the boxes in the figure to get the smallest possible result. The figure is $\big(\ \square\,\square - \square\ \big) \times \square$.
 
 ![[src_bocconi_semifinale_2011__Q05.png]]
 

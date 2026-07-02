@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Saba, Rayan, Derin completano il compito insieme in 5 minuti; Saba+Derin 7 minuti; Rayan+Derin 15 minuti; trovate tempo per Derin da solo.< MSK1/>
+*Saba, Rayan, Derin completano il compito insieme in 5 minuti; Saba+Derin 7 minuti; Rayan+Derin 15 minuti; trovate tempo per Derin da solo.*
 
-> Saba, Rayan e Derin stanno collaborando per completare un compito. Ognuno di essi lavora a un ritmo costante indipendentemente da chiunque altro stia lavorando al compito. Quando tutti e tre lavorano insieme, occorrono < MSK0/> minuti per completare il compito. Quando Saba lavora con Derin, il compito richiede < MSK1/> minuti per completarlo. Quando Rayan lavora con Derin, il compito richiede $15$ minuti per completarlo. Quanti minuti ci vogliono per Derin per completare il compito da solo?
+> Saba, Rayan e Derin stanno collaborando per completare un compito. Ognuno di essi lavora a un ritmo costante indipendentemente da chiunque altro stia lavorando al compito. Quando tutti e tre lavorano insieme, occorrono $5$ minuti per completare il compito. Quando Saba lavora con Derin, il compito richiede $7$ minuti per completarlo. Quando Rayan lavora con Derin, il compito richiede $15$ minuti per completarlo. Quanti minuti ci vogliono per Derin per completare il compito da solo?
 >
 > - **(A)** 21
 > - **(B)** 28

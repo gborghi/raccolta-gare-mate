@@ -43,10 +43,10 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Extractions because the probability exceeds 1/2< MSK1/>
+*Extractions because the probability exceeds 1/2*
 
 > **A game of cards** (50 points)
 > 
-> A gambling game is played with a bag containing 2010 pockets, 2 reds, all the other black. You win if you extract all the red (no matter how many black) seeds, one after the other. A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a greater than MSK0 chance of winning?
+> A gambling game is played with a bag containing 2010 pockets, 2 reds, all the other black. You win if you extract all the red (no matter how many black) seeds, one after the other. A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a greater than$50\%$chance of winning?
 
 [[src_gs_2010_squadre__Q16]]

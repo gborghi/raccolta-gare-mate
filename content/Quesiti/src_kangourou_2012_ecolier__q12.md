@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum sweets decorated with both grapes and nuts< MSK1/>
+*Minimum sweets decorated with both grapes and nuts*
 
 > Grandma made 20 candy for her grandchildren. He decorated some with grapes, some with nuts, and some with both grapes and nuts: first, he put grapes on 15 sweets, then he put nuts on 15 sweets. How many must be the candy decorations with both grapes and nuts? A) 4 B) 5 C) 6 D) 8 E) 10
 

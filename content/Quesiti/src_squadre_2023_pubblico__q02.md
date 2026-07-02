@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Right distance s from the centre of Gamma2, rays 8 and 52< MSK1/>
+*Right distance s from the centre of Gamma2, rays 8 and 52*
 
 > The first to join Lupin's adventures was Jig, a skilled gunfighter and problem solver. For example, while recharging, he determined the maximum area that a triangle can have with the shortest side measuring 40 and the longest side measuring 101. What is it?
 

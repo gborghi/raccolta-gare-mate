@@ -58,7 +58,7 @@ tags:
 
 ![[src_kangourou_2020_pre_marzo__prob24.png]]
 
-> John and Stephen are exchanging balls. First John gives to Stephen as many baskets as he has; then Stephen gives to John as many baskets as John has after the first trade. After these two exchanges both have < MSK0/> bills. How many balls did John have in the beginning?
+> John and Stephen are exchanging balls. First John gives to Stephen as many baskets as he has; then Stephen gives to John as many baskets as John has after the first trade. After these two exchanges both have $4$ bills. How many balls did John have in the beginning?
 >
 > - **(A)** $2$
 > - **(B)** $3$

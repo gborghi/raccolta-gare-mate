@@ -51,6 +51,6 @@ tags:
 
 *Peaceful rook configurations on n×n board with no k×k empty square*
 
-> Let < MSK0/> be an integer. Consider a $n \times n$ chessboard consisting of $n^2$ unit squares. A configuration of $n$ rooks on this board is called peaceful if every row and every column contains exactly one rook. Find the greatest positive integer $k$ such that, for each peaceful configuration of $n$ rooks, there is a $k \times k$ square which does not contain a rook on any of its $k^2$ unit squares.
+> Let $n \ge 2$ be an integer. Consider a $n \times n$ chessboard consisting of $n^2$ unit squares. A configuration of $n$ rooks on this board is called peaceful if every row and every column contains exactly one rook. Find the greatest positive integer $k$ such that, for each peaceful configuration of $n$ rooks, there is a $k \times k$ square which does not contain a rook on any of its $k^2$ unit squares.
 
 [[src_imho_2014__Q02]]

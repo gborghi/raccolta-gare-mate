@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La più piccola n con n! un multiple di 2016*
+*La più piccola n con n! un multiple di 2016*
 
 > Factoring $2016$ in numeri primi dà $2016=2^5\cdot 3^2\cdot 7$. Pertanto $n!$ deve contenere almeno queste potenze prime come divisori. Per far apparire il fattore $7$ abbiamo bisogno di $n\ge 7$; da $7!=5040$ il candidato successivo è $8!=40320=20\cdot 2016$. Pertanto il valore più piccolo è $n=8$. Qual è la minima $n$ tale che $n!$ sia un multiple di $2016$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 

@@ -58,7 +58,7 @@ tags:
 
 *Massetta di 100 pietre; somma di prodotti scritti in quadrati*
 
-> Esmeralda ha un mucchio di pietre. Divide questa pila in due pile più piccole e poi moltiplica il numero di pietre in queste due nuove pile, scrivendo il prodotto in un quadrato. Sceglie poi l'insieme con la maggior parte delle pietre e ripete la procedura: le quantità di pietre nelle due nuove pile vengono moltiplicate e il prodotto viene scritto nel quadrato successivo. Questa operazione è ripetuta fino a quando non rimangono solo pile di pietra < MSK1/> ciascuna.
+> Esmeralda ha un mucchio di pietre. Divide questa pila in due pile più piccole e poi moltiplica il numero di pietre in queste due nuove pile, scrivendo il prodotto in un quadrato. Sceglie poi la pila con la maggior parte delle pietre e ripete la procedura: le quantità di pietre nelle due nuove pile vengono moltiplicate e il prodotto viene scritto nel quadrato successivo. Questa operazione è ripetuta fino a quando non rimangono solo pile di pietra $1$ ciascuna.
 > 
 > Quali sono i valori possibili della somma di tutti i prodotti scritti nei quadrati?
 

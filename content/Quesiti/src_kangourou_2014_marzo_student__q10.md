@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year with last digit > sum of first three, all different < MSK1/>
+*Year with last digit > sum of first three, all different *
 
 > The 2014 number is made up of numbers all different from each other, and the last one is larger than the sum of the first three. How many years have passed since last year with this property? A) 5
 > 	

@@ -56,7 +56,7 @@ tags:
 
 *Triangolo, angolo BAC=140, punti di mezzo M, N, P piede perpendicolare, angolo di ricerca NMP*
 
-> In triangolo $ABC$, $m(B\hat{A}C) = 140^\circ$. Il $M$ deve essere il punto medio di $BC$, $N$ il punto medio di $AB$ e $P$ il punto laterale $AC$ in modo tale che $MP$ sia perpendicolare a $AC$. Qual è la misura dell'angolo < MSK10/>?
+> In triangolo $ABC$, $m(B\hat{A}C) = 140^\circ$. Il $M$ deve essere il punto medio di $BC$, $N$ il punto medio di $AB$ e $P$ il punto laterale $AC$ in modo tale che $MP$ sia perpendicolare a $AC$. Qual è la misura dell'angolo $N\hat{M}P$?
 >
 > - **(A)** $40^\circ$
 > - **(B)** $50^\circ$

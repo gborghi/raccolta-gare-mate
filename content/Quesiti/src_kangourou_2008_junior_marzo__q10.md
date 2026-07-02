@@ -72,7 +72,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many more tests per average 4/5< MSK1/>
+*How many more tests per average 4/5*
 
 > In my classroom, math tests are made up of five questions. In the first test I took, I only answered one of the five questions correctly. If from now on I prepare very well so that I can always answer every question correctly, how many tests do I have to take to get an average of four out of five correct answers? A) 2 B) 3 C) 4 D) 5 E) 6 √5 √5 + √2 √13 B A O K + K O = ------ W O W 1 2 3 4 5 Texts_08.qxp 9-03-2008 14:56 Page 23
 > 

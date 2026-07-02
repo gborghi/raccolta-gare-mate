@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantity of subsets of 7 in arithmetic progression< MSK1/>
+*Quantity of subsets of 7 in arithmetic progression*
 
 > Arithmetic progressions Consider the sum of the first 100 positive integers. From this set we form all subsets consisting of 7 numbers which, when ordered in increasing order, form an arithmetic progression (e.g. This is the first time I have heard of this. How many distinct sets of this form exist?
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rana della piscina circolare: dimostrare che l'equilibrio è raggiunto< MSK1/>
+*Rana della piscina circolare: dimostrare che l'equilibrio è raggiunto*
 
 > Come illustrato nella figura 3, un pool circolare è diviso in $2n$ ($n \geq 5$) "griglie". Si dice che due griglie siano vicine se hanno un lato comune o un arco. Quando le rane saltano contemporaneamente nelle griglie (con almeno una rane per griglia), si verifica una "erupzione" in una griglia se ci sono almeno tre rane in essa. Dopo un'eruzione in una griglia, una rana salta da quella griglia in ciascuna delle sue griglie vicine. Prova che dopo numerosi passi finiti, la distribuzione delle rane sarà in equilibrio (cioè non si verifica alcuna eruzione). (Posato da Su Chun)
 

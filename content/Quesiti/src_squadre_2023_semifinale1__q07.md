@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of mcm(k,8) per k from 1 to 136< MSK1/>
+*Sum of mcm(k,8) per k from 1 to 136*
 
 > Lupin/3 falls in love Lupin/3 is in love with the beautiful Fujit ̄o, a thief who has taken him by answering almost instantly to the following question: how much is the sum mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
 

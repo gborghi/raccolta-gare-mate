@@ -51,7 +51,7 @@ tags:
 
 *Prove CE/BF = AJ/AK utilizzando bisettori circoncircolari e perpendicolari*
 
-> Come mostrato nella figura seguente, il punto $P$ si trova sul circoncircolo del triangolo $ABC$. Le linee $AB$ e $CP$ si incontrano a $E$ e le linee $AC$ e $BP$ si incontrano a $F$. Il bisettore perpendicolare del segmento di linea $AB$ incontra il segmento di linea $AC$ a $K$, e il bisettore perpendicolare del segmento di linea $AC$ incontra il segmento di linea $AB$ a $J$. Provare che < MSK0/>
+> Come mostrato nella figura seguente, il punto $P$ si trova sul circoncircolo del triangolo $ABC$. Le linee $AB$ e $CP$ si incontrano a $E$ e le linee $AC$ e $BP$ si incontrano a $F$. Il bisettore perpendicolare del segmento di linea $AB$ incontra il segmento di linea $AC$ a $K$, e il bisettore perpendicolare del segmento di linea $AC$ incontra il segmento di linea $AB$ a $J$. Provare che $$\frac{CE}{BF} = \frac{AJ}{AK}.$$
 
 ![[src_cn_cgmo_2005__Q01.png]]
 

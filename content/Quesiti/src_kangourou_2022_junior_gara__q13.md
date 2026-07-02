@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number which cannot be the sum of the maximum ages< MSK1/>
+*Number which cannot be the sum of the maximum ages*
 
 > In a group of six people each knows, in addition to their own, the age of each of the others and the six ages are consecutive numbers. If you ask each of them the age of the oldest and add the answers, which of the following numbers can certainly not be the result? A) 95
 >   

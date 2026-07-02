@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-How many pages are missing (231 ... (MSK1/>)
+How many pages are missing (231 ... (*)
 
-> Which numbers, among those listed in the answers, can you write in the box on the left and the box on the right respectively to correct the $2020 + \square = 2022 + \square$ equation?
+> Which of the numbers listed in the answers can you type in the box on the left and in the box on the right respectively to correct the $2020 + \square = 2022 + \square$ equation?
 > 
 > A) 3 e 5 B) 4 e 1 C) 2 e 4 D) 7 e 2 E) 9 e 7
 

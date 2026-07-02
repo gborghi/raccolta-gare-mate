@@ -54,11 +54,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'angolo massimo di inclinazione di un vetro emisfero riempito alla metà della sua altezza< MSK1/>
+*L'angolo massimo di inclinazione di un vetro emisfero riempito alla metà della sua altezza*
 
 > **Esercizio 1 - Per tutti i candidati**
 > 
-> **4. O meglio, un po'.** Un vetro è formato da un emisfero (representato di fronte in sezione trasversale da un semicircolo per il disegno). Il vetro è riempito fino alla metà della sua altezza < MSK0/>. Qual è l'angolo massimo di inclinazione a cui si può inclinare il vetro senza versare il liquido?
+> **4. O meglio, un po'.** Un vetro è formato da un emisfero (representato di fronte in sezione trasversale da un semicircolo per il disegno). Il vetro è riempito fino alla metà della sua altezza $h$. Qual è l'angolo massimo di inclinazione a cui si può inclinare il vetro senza versare il liquido?
 
 ![[src_oprem_2025__Q04.png]]
 

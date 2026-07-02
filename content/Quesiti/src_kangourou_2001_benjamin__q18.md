@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Current age of Susy< MSK1/>
+*Current age of Susy*
 
 > Three years ago the three twins Paolo, Simone, and Billy and their sister Susy, who was four years older than them, had been together for 24 years. How old is Susy now?
 >

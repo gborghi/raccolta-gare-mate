@@ -51,7 +51,7 @@ tags:
 
 *How many AB numbers with 12xAB = 21xBA*
 
-> In some cases, two-digit number pairs have the same product of the two numbers read in reverse (e.g. 13 < MSK0/> 62 = 31 < MSK1/> 26). How many are the numbers of two digits AB (A and B are decimal digits) such that 12 × AB = 21 × BA?
+> In some cases, pairs of two-digit numbers have the same product of the two numbers read backwards (e.g. 13 × 62 = 31 × 26). How many numbers of two digits AB (A and B are the decimal digits) such that 12 × AB = 21 × BA?
 >
 > - **(A)** 1
 > - **(B)** 2

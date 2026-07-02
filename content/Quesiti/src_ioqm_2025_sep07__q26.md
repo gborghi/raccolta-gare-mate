@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima < MSK1/>
+*Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima *
 
 > Considerate una sequenza di numeri reali di lunghezza finita. Le medie consecutive di quattro termini di questa sequenza aumentano strettamente, ma le medie di sette termini consecutivi diminuiscono strettamente. Qual è la lunghezza massima possibile di tale sequenza?
 

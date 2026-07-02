@@ -51,6 +51,6 @@ tags:
 
 *Prove (1-p^m)^n + (1-q^n)^m >= 1 per p,q non negativo con p+q=1*
 
-> Lasciate che $p, q$ siano numeri reali non negativi con $p + q = 1$, e lasciate che $m, n$ siano numeri interi positivi. Provare che < MSK0/>
+> Lasciate che $p, q$ siano numeri reali non negativi con $p + q = 1$, e lasciate che $m, n$ siano numeri interi positivi. Provare che $$(1 - p^m)^n + (1 - q^n)^m \ge 1.$$
 
 [[src_pol_1994_r1__Q10]]

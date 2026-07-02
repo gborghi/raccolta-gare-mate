@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many parallelograms with vertices between 8 points < MSK1/>
+*How many parallelograms with vertices between 8 points *
 
 > (Points 6) Two circles with the same centre (but different radius) shall be intersected at 8 points by two different diameters of the radius of the circle. How many parallelograms do 4 of these 8 points have for vertices?
 

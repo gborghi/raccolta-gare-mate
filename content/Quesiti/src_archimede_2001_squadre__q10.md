@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum known term< MSK1/>
+*maximum known term*
 
 > **Ancient civilizations** (60 points)
 > 

@@ -59,9 +59,9 @@ tags:
 
 *Rectangle ABCD con diagonali; triangolo BME con ME=MB e BE=BA; trovare la sua superficie e dimostrare BD parallela EC*
 
-> Nel rettangolo $ABCD$, con diagonali $AC$ e $BD$, i lati $AB$ e $BC$ misurano rispettivamente $13$ cm e $14$ cm. Si consideri il triangolo $BME$, così che $ME = MB$ e $BE = BA$, con $E \neq A$.
+> Nel rettangolo $ABCD$, con diagonali $AC$ e $BD$, i lati $AB$ e $BC$ misurano rispettivamente $13$ cm e $14$ cm. Si consideri il triangolo $BME$, in modo tale che $ME = MB$ e $BE = BA$, con $E \neq A$.
 > 
-> a) Calcolare l'area del triangolo < MSK0/>.
+> a) Calcolare l'area del triangolo $BME$.
 > 
 > b) Indicare che il segmento $BD$ è parallelo al segmento $EC$.
 

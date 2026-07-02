@@ -52,7 +52,7 @@ tags:
 
 *La linea incontra i lati del triangolo circoncircolare ai punti intermedi di BN, CM, E, F; prova angolo EOF = angolo A*
 
-> Supponiamo che una linea che attraversa il circoncircolo $O$ di $\triangle ABC$ incroci $AB$ e $AC$ rispettivamente nei punti $M$ e $N$, e $E$ e $F$ siano i punti di mezzo di $BN$ e $CM$, rispettivamente. Prova che < MSK10/>. (Posizionato da Tao Pingheng)
+> Supponiamo che una linea che attraversa il circoncircolo $O$ di $\triangle ABC$ incroci $AB$ e $AC$ rispettivamente nei punti $M$ e $N$, e $E$ e $F$ siano i punti di mezzo di $BN$ e $CM$, rispettivamente. Prova che $\angle EOF = \angle A$. (Posizionato da Tao Pingheng)
 
 ![[src_cn_csmo_b11_w293__Q04.png]]
 

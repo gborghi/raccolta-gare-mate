@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Parallel-piped heights with perfect square volume< MSK1/>
+*Parallel-piped heights with perfect square volume*
 
 > Possibility Benedetta Demoro A square-based parallel piped has all full-sized shoulders in cm; in particular its height has length (p2 + p+ 4) cm, with nonnegative integer p. The value of the volume of the parallelepiped in cm3 is equal to that of the area in cm2 of a square with sides of whole dimensions. What are the possible heights of the paralelepiped? [Give the sum of the values in cm of possible heights.]: 0084
 

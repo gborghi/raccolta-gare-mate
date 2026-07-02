@@ -59,7 +59,7 @@ tags:
 
 *Dangerous ladder that blocks the jumping kangaroo*
 
-> A kangaroo climbs a 500-step ladder like this: first jumps on the MSK0/> ladder, then backwards by 1, then upwards by 5, backwards by 3, forward by 7, downwards by 5, and so on. Unfortunately, a ladder is dangerous and if the kangaroo jumped over it, it would fall to the ground. The kangaroo will climb to the top if the dangerous ladder is:
+> A kangaroo climbs a 500-step ladder like this: first jumps on the3° ladder, then backwards by 1, then backwards by 5, backwards by 3, forward by 7, down by 5, and so on. Unfortunately, a ladder is dangerous and if the kangaroo jumped over it, it would fall to the ground. The kangaroo will climb to the top if the dangerous ladder is:
 >
 > - **(A)** il 200°
 > - **(B)** il 201°

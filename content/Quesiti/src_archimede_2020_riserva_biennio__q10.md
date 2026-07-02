@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Seconds to fill the tank with two faucets together< MSK1/>
+*Seconds to fill the tank with two faucets together*
 
 > In a fountain tank there are two different faucets, A and B, connected by independent pipes. It takes six minutes to fill the tub, leaving everything open. Opening the B tap, which brought in the minor, takes nine minutes. In how many seconds do you fill the tub and leave both taps open simultaneously?
 >

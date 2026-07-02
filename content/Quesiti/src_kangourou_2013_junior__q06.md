@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Power of two obtained from 4^15+8^10< MSK1/>
+*Power of two obtained from 4^15+8^10*
 
 > What 's the sum of 415 plus 810 ? A) 210
 > 	

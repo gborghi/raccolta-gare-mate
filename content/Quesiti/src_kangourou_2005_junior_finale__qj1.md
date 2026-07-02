@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum locks purchased from Silvia< MSK1/>
+*Minimum locks purchased from Silvia*
 
 > Five girls, including Silvia, bought some hair locks. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by three of them is greater than that bought by the other two.
 > 

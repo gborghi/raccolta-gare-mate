@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-degenerate triangles of 10 points < MSK1/>
+*Non-degenerate triangles of 10 points *
 
 > There are exactly ten points in the plan. Five of these are on a straight line and no other straight line contains more than two points between those data. How many non-degenerate triangles have three of the ten data points as vertices?
 >  

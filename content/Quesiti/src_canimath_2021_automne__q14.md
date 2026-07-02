@@ -55,6 +55,6 @@ tags:
 
 *I sottoinsiemi bilanciati non vuoti di {1,...,n} sono pari in numero*
 
-> $n$ sia un numero intero rigorosamente positivo. $T$ sia un sottogruppo non vuoto di $\{1, \ldots, n\}$. Un numero $m$ (non necessariamente un numero intero) è chiamato *mediano* di $T$ se ci sono almeno quegli elementi di $T$ inferiori o uguali a $m$ come ci sono elementi di $T$ superiori o uguali a $m$. L'insieme < MSK9/> è chiamato < MSK15/>equilibrato < MSK16/> se la media degli elementi di < MSK10/> è uguale a una media di < MSK11/>. Indicare che il numero dei sottogruppi bilanciati non vuoti di $\{1, \ldots, n\}$ è pari.
+> $n$ sia un numero intero rigorosamente positivo. $T$ sia un sottogruppo non vuoto di $\{1, \ldots, n\}$. Un numero $m$ (non necessariamente un numero intero) è chiamato *mediano* di $T$ se ci sono almeno quegli elementi di $T$ inferiori o uguali a $m$ come ci sono elementi di $T$ superiori o uguali a $m$. L'insieme $T$ è chiamato *equilibrato * se la media degli elementi di $T$ è uguale a una media di $T$. Indicare che il numero dei sottogruppi bilanciati non vuoti di $\{1, \ldots, n\}$ è pari.
 
 [[src_canimath_2021_automne__Q14]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many digits 9 in product 99< MSK1/>n< MSK2/>
+*How many digits 9 in product 99*n*
 
 > Whether n is the whole number 999...999, where only the figure 9 appears for 2008 times. How often does 9 appear in product 99 n? A) 2007 B) 2006 C) 2008 D) 2 E) 1
 

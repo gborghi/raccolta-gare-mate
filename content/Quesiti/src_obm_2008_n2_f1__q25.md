@@ -54,8 +54,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cubini piccoli con faccia rossa e blu provenienti da un cubo tagliato< MSK1/>
+*Cubini piccoli con faccia rossa e blu provenienti da un cubo tagliato*
 
-> Ho un cubo di legno con tre facce rosse e tre facce blu. È tagliato in cubetti < MSK0/> più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu? (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
+> Ho un cubo di legno con tre facce rosse e tre facce blu. È tagliato in cubetti $3\times 3\times 3=27$ più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu? (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
 
 [[src_obm_2008_n2_f1__Q25]]

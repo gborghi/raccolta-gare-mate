@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage who speak both languages< MSK1/>
+*Percentage who speak both languages*
 
 > In Canada, part of the population speaks only English, part only French and part both languages. If 85% of the population speaks English and 75% French, what percentage of the population speaks both languages?
 >  

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of two teleports (geometric delays) < MSK1/>
+*Probability of two teleports (geometric delays) *
 
 > Even Earth is about to be destroyed to make way for a hyperspace curve. Square Perfect came up with a plan to save himself and Arthur. They will have to teleport on a Bogon ship, wait at least half an hour on it for their teleportation device to recharge, and then they can transfer with the device to another spacecraft that is expected to cross the Bogon ship 11 hours later than their expected arrival time (the teleportation device only works when the two ships are close together). In fact, unfortunately, there is no guarantee that the two ships will be on time: each of them, regardless of the other, has 12 chances of arriving on time, 14 of being one hour late, 18 of having two, 16 of having three, and so on. What are the odds that our two heroes will be able to teleport twice as scheduled? Answer by stating the sum of the numerator and denominator of the fraction reduced to the minimum terms.
 

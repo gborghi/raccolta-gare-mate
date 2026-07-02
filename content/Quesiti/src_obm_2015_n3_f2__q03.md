@@ -56,6 +56,6 @@ tags:
 
 *Triangolo inciso in cerchio con angoli dati; punto interno casuale X, probabilità X è più vicino a B che a A o C; trovare p*q*
 
-> (Parte A) Tre punti $A$, $B$ e $C$ sono contrassegnati sul confine di un cerchio in modo tale che $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ e $m(\widehat{ACB}) = 40^\circ$. Un punto $X$ viene scelto a caso all'interno del cerchio. La probabilità che, tra $A$, $B$ o $C$, il punto $X$ sia più vicino a $B$ è $\frac{p}{q}$, dove $p$ e $q$ sono integri copri. Quanto è < MSK15/>?
+> (Parte A) Tre punti $A$, $B$ e $C$ sono contrassegnati sul confine di un cerchio in modo tale che $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ e $m(\widehat{ACB}) = 40^\circ$. Un punto $X$ viene scelto a caso all'interno del cerchio. La probabilità che, tra $A$, $B$ o $C$, il punto $X$ sia più vicino a $B$ è $\frac{p}{q}$, dove $p$ e $q$ sono integri coprimi. Quanto è $p \cdot q$?
 
 [[src_obm_2015_n3_f2__Q03]]

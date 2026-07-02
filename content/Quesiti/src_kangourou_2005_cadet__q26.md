@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Numbers between 10 and 99 more than tripled by exchanging digits< MSK1/>
+*Numbers between 10 and 99 more than tripled by exchanging digits*
 
 > How many positive integers between 10 and 99 are more than tripled when you exchange their numbers ? The Commission has therefore decided to extend the period of validity of this Regulation to the following three years:
 > 

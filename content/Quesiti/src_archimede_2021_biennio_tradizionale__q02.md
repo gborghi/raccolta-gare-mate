@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum value of 3-2x given (5-4x) ((5x-4)=0< MSK1/>
+*Maximum value of 3-2x given (5-4x) ((5x-4)=0*
 
 > Knowing that (5 −4x) ((5x −4) = 0, what can be the maximum value of 3 −2x?
 >

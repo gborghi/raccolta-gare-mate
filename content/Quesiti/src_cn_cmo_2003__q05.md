@@ -58,10 +58,10 @@ tags:
 
 Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
 
-> Una certa azienda vuole assumere una segretaria. Applicano dieci persone. I primi candidati < MSK0/> non dovrebbero essere impiegati. A partire dal quarto, un candidato sarà impiegato se e solo se il suo grado di abilità è superiore a quello di tutti gli intervistati precedenti, e l'intervista continua. Se le nove persone precedenti non sono impiegate, l'ultima sarà impiegata.
+> Una certa azienda vuole assumere una segretaria. Applicano dieci persone. I primi candidati $3$ non dovrebbero essere impiegati. A partire dal quarto, un candidato sarà impiegato se e solo se il suo grado di abilità è superiore a quello di tutti gli intervistati precedenti, e l'intervista continua. Se le nove persone precedenti non sono impiegate, l'ultima sarà impiegata.
 > 
 > Supponiamo che le persone $10$ siano diverse in capacità, e possiamo organizzarle in base al loro rating di capacità da superiore a inferiore come $A_1 > A_2 > \cdots > A_{10}$. Ora indichiamo con $A_k$ il numero di permutazioni in modo tale che il richiedente con il grado di abilità $k$-th sia impiegato, e la probabilità che sia impiegato è $\frac{A_k}{10!}$.
 > 
-> Provare che la politica data dal gestore ha le seguenti due proprietà: (1) La probabilità che l'impresa impiega uno dei tre principali (cioè: < MSK0/>, < MSK1/> o < MSK2/>) è maggiore di < MSK3/>. (2) La probabilità che l'azienda impiega uno dei tre ultimi non è superiore a $10\%$. (Posizionato da Su Chun)
+> Provare che la politica data dal gestore ha le seguenti due proprietà: (1) La probabilità che l'impresa impiega uno dei tre principali (cioè: $A_1$, $A_2$ o $A_3$) è maggiore di $70\%$. (2) La probabilità che l'azienda impiega uno dei tre ultimi non è superiore a $10\%$. (Posizionato da Su Chun)
 
 [[src_cn_cmo_2003__Q05]]

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Construction using more than one cube< MSK1/>
+*Construction using more than one cube*
 
 ![[src_kangourou_2020_pre_marzo__prob11.png]]
 

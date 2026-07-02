@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year of birth of de Morgan< MSK1/>
+*Year of birth of de Morgan*
 
 > The French mathematician August de Morgan, who died in 1899, used to say that he was x years old in the year x2. When was de Morgan born? A) 1806 B) 1848 C) 1849 D) 1899 E) In another year.
 

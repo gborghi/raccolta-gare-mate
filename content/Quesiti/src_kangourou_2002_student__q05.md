@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Spieces of a prism with 2002 vertices< MSK1/>
+*Spieces of a prism with 2002 vertices*
 
 > A prism has 2002 vertices. What's the number of his claws?
 >  

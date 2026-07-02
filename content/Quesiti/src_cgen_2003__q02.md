@@ -74,7 +74,7 @@ tags:
 > 
 > 2. Determinare i sottogruppi ortocentrici con 4 elementi.
 > 
-> 3. $X$ sia un insieme di quattro punti su un cerchio e $Y=\mathcal{H}(X)$. a. Indicare che $Y$ viene ottenuto da $X$ con una semplice trasformazione. b. Determinare < MSK4/>.
+> 3. $X$ sia un insieme di quattro punti su un cerchio e $Y=\mathcal{H}(X)$. a. Indicare che $Y$ viene ottenuto da $X$ con una semplice trasformazione. b. Determinare $\mathcal{H}(Y)$.
 > 
 > 4. a. Il $\Gamma$ deve essere un cerchio di raggio rigorosamente positivo; determinare $\mathcal{H}(\Gamma)$. b. Il disco $D$ deve avere un raggio rigorosamente positivo; determina il $\mathcal{H}(D)$.
 

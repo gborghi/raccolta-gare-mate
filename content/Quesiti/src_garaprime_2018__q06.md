@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Data when the patients were 100000 with exponential growth< MSK1/>
+*Data when the patients were 100000 with exponential growth*
 
 > On the island of Kenonce, an influenza epidemic is spreading rapidly: every 24 days the number of sick people is doubling. If on February 6, 2018, there were 200,000 patients, on what date were 100,000? 29 January B 31 January C 2 February D 25 January E 27 January F 17 January
 

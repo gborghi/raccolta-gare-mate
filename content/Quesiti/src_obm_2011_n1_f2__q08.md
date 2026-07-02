@@ -63,9 +63,9 @@ tags:
 
 *Selo (pari di divisori corretti) di numeri interi: calcolare, invertere e ridurre al minimo*
 
-> Il \textit{selo} (seal) di un intero positivo $n$ è definito come la coppia ordinata $\mathrm{par}(x;\, y)$, dove $x$ è il numero di divisori positivi di $n$ che sono strettamente inferiori a $n$, e $y$ è la somma di tali divisori. Ad esempio, i divisori positivi di $10$ che sono inferiori a $10$ sono $1$, $2$ e $5$, quindi il selo di $10$ è $(3;\, 8)$. Il selo del numero $1$ è $(1;\, 1)$.
+> Il \textit{selo} (seal) di un intero positivo $n$ è definito come la coppia ordinata $\mathrm{par}(x;\, y)$, dove $x$ è il numero di divisori positivi di $n$ strettamente inferiori a $n$, e $y$ è la somma di tali divisori. Ad esempio, i divisori positivi di $10$ che sono inferiori a $10$ sono $1$, $2$ e $5$, quindi il selo di $10$ è $(3;\, 8)$. Il selo del numero $1$ è $(1;\, 1)$.
 > 
-> a) Qual è il selo di < MSK0/>?
+> a) Qual è il selo di $9$?
 > 
 > b) Quale numero ha selo $(2;\, 3)$?
 > 

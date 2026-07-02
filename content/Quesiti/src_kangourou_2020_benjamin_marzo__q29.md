@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many glue drops in the sphere pyramid< MSK1/>
+*How many glue drops in the sphere pyramid*
 
 ![[src_kangourou_2020_benjamin_marzo__prob29.png]]
 

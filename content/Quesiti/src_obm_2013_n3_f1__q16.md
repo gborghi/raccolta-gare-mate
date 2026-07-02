@@ -61,7 +61,7 @@ tags:
 
 *Catenata in zigzag di segmenti uguali tra due linee attraverso A; angolo B1AB2=1 grado, massimo n*
 
-> Nella figura seguente, < MSK0/>. I punti $B_1, B_3, B_5, \ldots$ appartengono ad una linea retta e i punti $B_2, B_4, B_6, \ldots$ appartengono ad un'altra linea retta. Tutti i punti $B_1, B_2, B_3, \ldots, B_n$ sono distinti. Sapendo che l'angolo $\angle B_1 A B_2$ misura $1^\circ$, quale è il più grande valore possibile di $n$?
+> Nella figura seguente, $AB_1 = B_1 B_2 = B_2 B_3 = \cdots = B_{n-1} B_n$. I punti $B_1, B_3, B_5, \ldots$ appartengono ad una linea retta e i punti $B_2, B_4, B_6, \ldots$ appartengono ad un'altra linea retta. Tutti i punti $B_1, B_2, B_3, \ldots, B_n$ sono distinti. Sapendo che l'angolo $\angle B_1 A B_2$ misura $1^\circ$, quale è il più grande valore possibile di $n$?
 > 
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $90$ \quad (E) $n$ può essere arbitrariamente grande
 

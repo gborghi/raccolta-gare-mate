@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Signs and fraction value (negative) < MSK1/>
+*Signs and fraction value (negative) *
 
 > The numerator and denominator of a fraction are negative numbers and the numerator is greater than one of the denominator. Which of the following statements is true? A) The fraction is a number less than -1. B) The fraction is a number between -1 and 0. C) The fraction is a positive number less than 1. D) The fraction is a number greater than 1. E) It cannot be established whether the fraction is a positive or a negative number. 1 3 π - 1 2 √3 (√3 - 3 2) π 1 8 π 1 2 π - 1 2 √3 √3 - 1 2 π √14 √7 √13 √17 A B 1 Tests_08.qxp 9-03-2008 14:56 Page 30
 > 

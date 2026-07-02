@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0>How many dromedaries (10 animals, 14 foxes) < MSK1/>
+*How many dromedaries (10 animals, 14 foxes) *
 
 ![[src_kangourou_2019_koala_preecolier__prob19.png]]
 

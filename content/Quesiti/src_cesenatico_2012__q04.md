@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>pairs {a,b} with xa< MSK1/>xb perfect square< MSK2/>
+*pairs {a,b} with xa*xb perfect square*
 
-> Whether x1, x2, x3, . . . the sequence defined by recurrence is as follows: (x1 = 4 xn+1 = x1x2x3 · · xn + 5 for n ≥1. (The first terms of the sequence are thus x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . ) Find all the pairs of positive integers {a, b} such that xaxb is a perfect square.
+> Whether x1, x2, x3, . . . the sequence defined by recurrence as follows: (x1 = 4 xn+1 = x1x2x3 · · xn + 5 for n ≥1. (The first terms of the sequence are then x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . ) Find all the pairs of positive integers {a, b} such that xaxb is a perfect square.
 
 **Answer:** {1,2}
 [[src_cesenatico_2012__Q04]]

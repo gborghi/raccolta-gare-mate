@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of ab-bc+ca with product abc=16< MSK1/>
+*Maximum of ab-bc+ca with product abc=16*
 
 > Sum of powers Three positive integers a, b, c all different from each other are such that their product is 16. What is the maximum possible value for the expression ab − bc + ca?
 

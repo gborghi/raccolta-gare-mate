@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> adjacent pair< MSK1/>
+* adjacent pair*
 
 ![[src_kangourou_2023_benjamin__prob25.png]]
 

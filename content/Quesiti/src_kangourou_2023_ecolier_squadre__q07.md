@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bonded box chocolate < MSK1/>
+*Bonded box chocolate *
 
 > Luisa's chocolates have four boxes, all containing the same number of chocolates. Overall, the chocolates are less than 180, but three boxes of any of the four contain more than 130. How many chocolates does each box contain?
 

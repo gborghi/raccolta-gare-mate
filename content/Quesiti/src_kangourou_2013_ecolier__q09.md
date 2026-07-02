@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many triangles are seen in Figure < MSK1/>
+*How many triangles are seen in Figure *
 
 > A train car is occupied only by three families, each made up of a father, mother and three children, male or female. In two families there are twins and all the twins in that car are males. How many females at most, including mothers, are traveling in that car? A) 5
 >         	

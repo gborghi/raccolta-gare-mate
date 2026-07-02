@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many children have a triangle over the square< MSK1/>
+*How many children have a triangle over the square*
 
 ![[src_kangourou_2016_ecolier_marzo__prob6.png]]
 

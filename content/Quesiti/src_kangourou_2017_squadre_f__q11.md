@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>United number of 1^3+2^3+...+2017^3< MSK1/>
+*United number of 1^3+2^3+...+2017^3*
 
 > Sum of cubes What is the unit number 13 + 23 + 33 + ... + 20163 + 20173 ?
 

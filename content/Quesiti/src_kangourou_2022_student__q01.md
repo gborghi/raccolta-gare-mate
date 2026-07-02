@@ -84,7 +84,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> which does not represent the use< MSK1/>
+* which does not represent the use*
 
 ![[src_kangourou_2022_student__prob1.png]]
 

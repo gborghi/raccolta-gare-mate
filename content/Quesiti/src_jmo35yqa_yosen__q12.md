@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK0/>Pentagono ciclico ABCDE, AC=AD, BC < in P; riflettere sulle 5 linee laterali; trovare P1P3/P1P5*
+*Pentagono ciclico ABCDE, AC=AD, BC < in P; riflettere sulle 5 linee laterali; trovare P1P3/P1P5*
 
-> Un pentagono $ABCDE$ è inserito in un cerchio $\Omega$ e soddisfa $AC = AD$ e $BC \parallel DE$. Prendi un punto $P$ sull'arco $CD$ di $\Omega$ che non contiene $A$, e lascia che $P_1, P_2, P_3, P_4, P_5$ siano i riflessi di $P$ attraverso le linee $AB$, $BC$, $CD$, $DE$ e $EA$ rispettivamente. Si ritiene che $PC : PD = P_1 P_2 : P_4 P_5 = 2 : 3$ e $CD : P_2 P_4 = 4\sqrt{2} : 11$. Trova il valore di < MSK17/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Un pentagono $ABCDE$ è inserito in un cerchio $\Omega$ e soddisfa $AC = AD$ e $BC \parallel DE$. Prendi un punto $P$ sull'arco $CD$ di $\Omega$ che non contiene $A$ e lascia $P_1, P_2, P_3, P_4, P_5$ essere il riflesso di $P$ attraverso le linee $AB$, $BC$, $CD$, $DE$ e $EA$ rispettivamente. Si ritiene che $PC : PD = P_1 P_2 : P_4 P_5 = 2 : 3$ e $CD : P_2 P_4 = 4\sqrt{2} : 11$. Trova il valore di $\dfrac{P_1 P_3}{P_1 P_5}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{\sqrt{37}}{10}
 [[src_jmo35yqa_yosen__Q12]]

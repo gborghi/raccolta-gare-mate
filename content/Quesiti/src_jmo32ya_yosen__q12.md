@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca BC in un triangolo acuto dato il centro, il punto medio e l'angolo condizione< MSK1/>
+*Ricerca BC in un triangolo acuto dato il centro, il punto medio e l'angolo condizione*
 
-> In triangolo acuto $ABC$, $AB = 11$ e $AC = 10$. $H$ sia il centro ortografico e $M$ il punto medio di $BC$. Un punto $P$ all'interno del triangolo $ABC$ si trova sul circoncircolo del triangolo $BHC$ e soddisfa $\angle ABP = \angle CPM$ e $PM = 3$. Trova la lunghezza del lato < MSK11/>.
+> In triangolo acuto $ABC$, $AB = 11$ e $AC = 10$. $H$ sia il centro ortografico e $M$ il punto medio di $BC$. Un punto $P$ all'interno del triangolo $ABC$ si trova sul circoncircolo del triangolo $BHC$ e soddisfa $\angle ABP = \angle CPM$ e $PM = 3$. Trova la lunghezza del lato $BC$.
 
 **Risposta:** 2\sqrt{21}
 [[src_jmo32ya_yosen__Q12]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of units of 3^(8^7) < MSK1/>
+*Number of units of 3^(8^7) *
 
 > What is the number of units of 3(87)?
 >

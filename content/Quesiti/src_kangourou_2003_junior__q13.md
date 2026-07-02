@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Table capacity by percentages< MSK1/>
+*Table capacity by percentages*
 
 > When a tank is filled except that it contains 30% more liters than when it is filled only 30%. How many liters does the tank contain when it's full? A) 60 B) 75 C) 90 D) 100 E) 120
 

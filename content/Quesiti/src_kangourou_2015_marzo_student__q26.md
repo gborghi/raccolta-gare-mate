@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many < MSK1/>
+*how many *
 
 > Let's consider all ABC triangles rectangles in B, with AB length 20 and such that all their sides have full size. How many distinct triangles exist with these properties? A) 1
 > 	

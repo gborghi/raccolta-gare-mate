@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum cube sum of three cubes< MSK1/>
+*Minimum cube sum of three cubes*
 
 > Cube Let's say a natural number A other than zero is a cube if there's another natural number B such that A = B×B×B: for example 8 is a cube. What is the smallest number that is a cube and is the sum of three cubes?
 

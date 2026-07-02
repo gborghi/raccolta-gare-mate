@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum time interval with the same figures >9< MSK1/>
+*Minimum time interval with the same figures >9*
 
 > A digital clock displays the time in an AB:CD format, from 00:00 to 23:59. If 10:01 is just struck, wait 9 minutes before the time shown is composed of the same digits, in a different order, and 9 minutes is absolutely the minimum time interval possible for this to happen (e.g. between 10:05 and the next first hour composed of the same digits, i.e. 10:50, the interval is 45 minutes, between 00:10 and 01:00 is 50 minutes). How many minutes is the smallest possible time interval ever greater than 9?
 > 

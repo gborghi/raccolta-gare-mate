@@ -67,11 +67,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum moves to properly align the sheets< MSK1/>
+*Minimum moves to properly align the sheets*
 
 ![[src_kangourou_2018_cadet_marzo__prob29.png]]
 
-> In dominoes, two cards are matched correctly if half of the two cards that are in contact contain the same number of points. Six cards are aligned as shown in the figure. The moves allowed to make sure that they are properly approached are of two types: swapping the position of two cards (without rotating them) or rotating a < MSK0/> card (leaving it in the same position as the sequence). What is the minimum number of moves by which you can get all the tiles to be aligned correctly? A) 1
+> In dominoes, two cards are matched correctly if half of the two cards that are in contact contain the same number of points. Six cards are aligned as shown in the figure. The moves allowed to make sure that they are properly approached are of two types: swapping the position of two cards (without rotating them) or rotating a 180° card (leaving it in the same position as the sequence). What is the minimum number of moves by which you can get all the tiles to be aligned correctly? A) 1
 > 	
 > B) 2
 > 	

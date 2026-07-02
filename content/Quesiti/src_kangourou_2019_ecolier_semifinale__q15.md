@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many initial forms of cheese are given to mice over two days< MSK1/>
+*How many initial forms of cheese are given to mice over two days*
 
 > A cellar contains some whole forms of cheese. One day 36 mice invade the cellar and devour a total of 12 whole forms of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining forms. How many whole forms of cheese were there in the basement? a b h d c g f e
 > 	

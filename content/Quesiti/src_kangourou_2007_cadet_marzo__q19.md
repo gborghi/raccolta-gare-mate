@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Greatest sum by subtracting 3 numbers (grid) < MSK1/>
+*Greatest sum by subtracting 3 numbers (grid) *
 
 ![[src_kangourou_2007_cadet_marzo__prob19.png]]
 

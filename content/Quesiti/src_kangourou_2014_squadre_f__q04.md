@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum positive sum with a^2+b^2=100< MSK1/>
+*Minimum positive sum with a^2+b^2=100*
 
 > Sum of squares You know that two integers of a and b are equal to a2 + b2 = 100 and that their sum is the smallest positive number compatible with this assumption. How much is their sum?
 

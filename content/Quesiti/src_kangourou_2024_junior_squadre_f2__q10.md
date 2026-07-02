@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of exactly a visible red face< MSK1/>
+*Probability of exactly a visible red face*
 
-> The Ada cube adjoins 64 cubes on side 1 to form a cube 4 < MSK0/> 4 < MSK1/> 4 and coats the six outer faces of the resulting cube in red. Then he separates the 64 cubes, randomly picks one of them and throws it on the floor like a dice: what is the probability that, among the faces of the cubes visible after the launch, there is exactly a painting of it in red? (Write one after the other numerator and denominator of the fraction: for example if the answer is 21/23 or 2/123 write 2123, if it is 1/3 write 0103.)
+> The Ada cube adjoins 64 cubes on side 1 to form a cube 4 × 4 × 4 and coats the six outer faces of the resulting cube in red. Then he separates the 64 cubes, randomly picks one of them and throws it on the floor like a dice: what is the probability that, among the faces of the cubes visible after the launch, there is exactly one painting of it in red? (Write one after the other numerator and denominator of the fraction: for example if the answer is 21/23 or 2/123 write in both cases 2123, if it is 1/3 write 0103.)
 
 **Answer:** 0716
 [[src_kangourou_2024_junior_squadre_f2__Q10]]

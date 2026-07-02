@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume of the side cube 6 < MSK1/>
+*Volume of the side cube 6 *
 
 ![[src_kangourou_squadre_2010_finale__prob6.png]]
 

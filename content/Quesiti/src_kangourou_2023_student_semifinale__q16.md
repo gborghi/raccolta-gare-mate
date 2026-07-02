@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interest closer to p, square perimeter ratio blended < MSK1/>
+*Interest closer to p, square perimeter ratio blended *
 
 ![[src_kangourou_2023_student_semifinale__prob16.png]]
 

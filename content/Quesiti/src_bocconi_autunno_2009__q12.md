@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times do snails form a right angle between noon and 6 a.m. < MSK1/>
+*How many times do snails form a right angle between noon and 6 a.m. *
 
 > Between noon and 6 p.m. (on the same day), how many times do the large and small hands of a clock form a right angle?
 

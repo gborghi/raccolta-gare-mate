@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Triangolo retto con punto medio di due punti interni; dimostrare la disuguaglianza di media armonica per i rapporti*
+*Triangolo retto con punto medio di due punti interiori; dimostrare la disuguaglianza di media armonica per i rapporti *
 
-> Come mostrato nella figura. 5.1. Il $C$ deve essere l'angolo retto di $\triangle ABC$. Che $M_1$ e $M_2$ siano due punti arbitrari all'interno di $\triangle ABC$, e che $M$ sia il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ si incrociano rispettivamente a $N_1$, $N_2$ e $N$. Provare che < MSK0/>
+> Come mostrato nella figura. 5.1. Il $C$ deve essere l'angolo retto di $\triangle ABC$. Che $M_1$ e $M_2$ siano due punti arbitrari all'interno di $\triangle ABC$, e che $M$ sia il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ si incrociano rispettivamente a $N_1$, $N_2$ e $N$. Provare che $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
 
 ![[src_cn_csmo_b11_w277__Q05.png]]
 

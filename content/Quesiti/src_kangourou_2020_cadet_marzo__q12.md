@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Km per day for the target average of March< MSK1/>
+*Km per day for the target average of March*
 
 > Anna had proposed walking an average of five kilometers a day for the whole month of March. On the evening of March 16, she realized that she had traveled 95 km up to that point. How many miles a day does he have to walk on average in the next few days of the month to reach his goal? A) 5,4 B) 5
 > 	

@@ -58,9 +58,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ante che girano 60 gradi ogni passo: ritorno dopo i passi del 2008 o del 2009?< MSK1/>
+*Ante che girano 60 gradi ogni passo: ritorno dopo i passi del 2008 o del 2009?*
 
-> Una formica cammina nel piano in questo modo: inizialmente cammina $1\,\text{cm}$ in qualsiasi direzione. Dopo ogni passo, cambia la direzione della sua traiettoria di $60^\circ$ a sinistra o a destra e cammina $1\,\text{cm}$ in quella nuova direzione. È possibile che la formica ritorni al suo punto di partenza in (a) $2008$? b) le fasi < MSK4/>?
+> Una formica cammina nel piano in questo modo: inizialmente cammina $1\,\text{cm}$ in qualsiasi direzione. Dopo ogni passo, cambia la direzione della sua traiettoria di $60^\circ$ a sinistra o a destra e cammina $1\,\text{cm}$ in quella nuova direzione. È possibile che la formica ritorni al suo punto di partenza in (a) $2008$? b) le fasi $2009$?
 
 ![[src_obm_2008_n2_f3__Q05.png]]
 

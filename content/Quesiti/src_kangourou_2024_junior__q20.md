@@ -62,7 +62,7 @@ tags:
 
 > The figure on the left shows the development of the solid as shown in the figure on the right. The development consists of the approximation of four squares, all of which are 1 cm on the side, with two quarters of equilateral triangles. How many centimeters is the distance between the solids A and B shown in the figure? A) √5
 > 	
-> (b) (1 + < MSK0/>2) C) 5/2 D) (1 + < MSK1/>3) E) 2< MSK2/>2 Questions from N. 21 al N. 30 is worth 5 points each.
+> (b) (1 + √2) C) 5/2 D) (1 + √3) E) 2√2 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
 [[src_kangourou_2024_junior__Q20]]

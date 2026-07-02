@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La maggior parte degli studenti in classe vota con determinati limiti di frazione< MSK1/>
+*La maggior parte degli studenti in classe vota con determinati limiti di frazione*
 
 > In una classe, un insegnante ha votato se rinviare l'esame di matematica. Un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e l'insegnante ha tenuto un nuovo voto, in cui esattamente $8$ gli studenti hanno cambiato idea, in modo che $\dfrac{3}{4}$ degli studenti hanno votato contro il rinvio. Qual è il numero massimo di studenti che avrebbero potuto partecipare al voto?
 

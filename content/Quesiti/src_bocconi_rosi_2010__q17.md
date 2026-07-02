@@ -54,9 +54,9 @@ tags:
 
 *Handshakes at parties by couples without partners*
 
-> It's time to say hi. At the end of the party (which was attended by only couples) everyone greets everyone except, of course, their partner. They counted MSK0/> handshakes.
+> It's time to say hi. At the end of the party (which was attended by only couples) everyone greets everyone except, of course, their partner. They counted$112$ handshakes.
 > 
-> < MSK0/>How many participants were there? < MSK1/>
+> **How many participants were there? **
 
 **Answer:** I partecipanti erano 16
 [[src_bocconi_rosi_2010__Q17]]

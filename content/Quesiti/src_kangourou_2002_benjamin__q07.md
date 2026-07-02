@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Collana with two thirds black heart< MSK1/>
+*Collana with two thirds black heart*
 
 ![[src_kangourou_2002_benjamin__prob7.png]]
 

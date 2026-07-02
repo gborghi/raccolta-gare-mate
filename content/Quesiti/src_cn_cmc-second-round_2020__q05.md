@@ -53,6 +53,6 @@ tags:
 
 *Cinque punti su un cerchio con tre archi uguali; dimostrare che l'angolo PAQ è uguale all'angolo PEQ*
 
-> 40 punti) Come mostrato alla figura 1.1, $A$, $B$, $C$, $D$, $E$ sono cinque punti in ordine sul cerchio $\Omega$, soddisfacendo $\overset{\frown}{ABC} = \overset{\frown}{BCD} = \overset{\frown}{CDE}$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AD$ e $BE$ e $P$ si trovano sul segmento $CQ$. Prove che < MSK13/>.
+> 40 punti) Come mostrato alla figura 1.1, $A$, $B$, $C$, $D$, $E$ sono cinque punti in ordine sul cerchio $\Omega$, soddisfacendo $\overset{\frown}{ABC} = \overset{\frown}{BCD} = \overset{\frown}{CDE}$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AD$ e $BE$ e $P$ si trovano sul segmento $CQ$. Prove che $\angle PAQ = \angle PEQ$.
 
 [[src_cn_cmc-second-round_2020__Q05]]

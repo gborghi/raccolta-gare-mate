@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Permutazione di 1,17 con prodotto ciclico uguale a 2^t, ritrovare massimo t< MSK1/>
+*Permutazione di 1,17 con prodotto ciclico uguale a 2^t, ritrovare massimo t*
 
 > Che $a_1, a_2, \ldots, a_{17}$ sia una permutazione di $1, 2, \ldots, 17$, soddisfacendo tale $(a_1 - a_2)(a_2 - a_3) \cdots (a_{16} - a_{17})(a_{17} - a_1) = 2^t$. Trova il valore massimo del numero intero $t$.
 

@@ -57,7 +57,7 @@ tags:
 
 > Ci sono numeri reali $a$, $b$ e $c$ e un numero positivo $\lambda$ tale che $f(x) = x^3 + ax^2 + bx + c$ abbia tre radici reali $x_1$, $x_2$ e $x_3$ soddisfacenti: (1) $x_2 - x_1 = \lambda$; (2) $x_3 > \dfrac{1}{2}(x_1 + x_2)$.
 > 
-> Trova il valore massimo di < MSK0/>.
+> Trova il valore massimo di $\dfrac{2a^3 + 27c - 9ab}{\lambda^3}$.
 
 **Risposta:** \frac{3}{2}\sqrt{3}
 [[src_cn_cmc-extra-test_2002__Q02]]

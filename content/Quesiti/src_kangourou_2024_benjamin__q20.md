@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-*Correct inequality for n with 7 pairs more than the terns*
+*Correct inequality for n with 7 pairs more than terns*
 
 > Roberto has no balls. He first groups them into pairs and records the number of pairs found; then he groups them into pairs and records the number of pairs found. In both cases, they are given a seed. The number of pairs is 7 units greater than the number of terns. Which of the following inequalities is correct? A) n < 29
 > 	
@@ -66,7 +66,7 @@ tags:
 > 	
 > D) 49 ≤ n < 59
 > 	
-> E) n < MSK0/> 59 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) n ≥ 59 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
 [[src_kangourou_2024_benjamin__Q20]]

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Papers after five cuts in 10< MSK1/>
+*Papers after five cuts in 10*
 
 > Anna cuts a sheet of paper into 10 pieces. Then he takes one of these pieces and cuts it back into 10 pieces and goes on like this three more times (that's a total of 5 times). How many pieces of paper do you end up with? A) 40 B) 45 C) 46 D) 47 E) 50
 

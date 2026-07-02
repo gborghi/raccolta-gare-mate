@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Piedi bisettori angolari; prova XY=(b+c-a)/2< MSK1/>
+*Piedi bisettori angolari; prova XY=(b+c-a)/2*
 
 > Lasciate che $ABC$ sia un triangolo. Il $BE$ e il $CF$ siano rispettivamente bisettori di angolo interno di $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Supponiamo che $X$ sia un punto del segmento $CF$ tale che $AX \perp CF$, e $Y$ sia un punto del segmento $BE$ tale che $AY \perp BE$. Prove che $XY = \frac{b + c - a}{2}$ dove $BC = a$, $CA = b$ e $AB = c$.
 

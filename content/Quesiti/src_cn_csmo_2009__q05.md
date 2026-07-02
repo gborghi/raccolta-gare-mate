@@ -54,7 +54,7 @@ tags:
 
 *Numero di valori distinti della somma ponderata su tutte le permutazioni da 1 a n*
 
-> Impostare la permutazione $X = (x_1, x_2, \ldots, x_n)$ di $1, 2, \ldots, n$ in $A$. Per $\forall X \in A$, si lascia $f(X) = \sum_{k=1}^{n} k x_k$. Let < MSK5/>. Trova il valore di $|M|$. (Posato da Xiong Bin)
+> Impostare la permutazione $X = (x_1, x_2, \ldots, x_n)$ di $1, 2, \ldots, n$ in $A$. Per $\forall X \in A$, si lascia $f(X) = \sum_{k=1}^{n} k x_k$. Let $M = \{f(X) \mid X \in A\}$. Trova il valore di $|M|$. (Posato da Xiong Bin)
 
 **Risposta:** \frac{n(n^2-1)}{6}+1
 [[src_cn_csmo_2009__Q05]]

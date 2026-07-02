@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Evaluare un prodotto di radicali annidati< MSK1/>
+*Evaluare un prodotto di radicali annidati*
 
-> Calcolare < MSK0/>
+> Calcolare $$\sqrt{12\sqrt{45\sqrt{250\sqrt{\frac{400}{\sqrt{16}}}}}}.$$
 > 
 > *Solo una risposta numerica è prevista qui.*
 

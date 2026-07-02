@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum n tripli coprono tutti i tripli consecutivi in qualsiasi sequenza da 1 a 100< MSK1/>
+*Minimum n tripli coprono tutti i tripli consecutivi in qualsiasi sequenza da 1 a 100*
 
 > $n$ sia un numero intero positivo. Supponiamo che $n$ tripli di integri $(x_1, y_1, z_1),\,(x_2, y_2, z_2),\,\ldots,\,(x_n, y_n, z_n)$, ciascuno con $1 \le x_j, y_j, z_j \le 100$, soddisfino la seguente condizione:
 > 

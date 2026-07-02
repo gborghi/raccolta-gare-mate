@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK1/>Minimum c con Im z Di ≤ < c di <Re z Di per le radici di polinomi cambiati segno*
+*Minimum c con Im z Di ≤ < c di <Re z Di per le radici di polinomi cambiati segno*
 
 > $P(x) = x^{2012} + a_{2011}x^{2011} + a_{2010}x^{2010} + \cdots + a_1 x + a_0$ sia un polinomio di grado $2012$ di coefficienti reali con $1$ come suo coefficiente principale. Trovare il minimo del numero reale $c$ in modo tale che $|\operatorname{Im} z| \le c\,|\operatorname{Re} z|$, dove $\operatorname{Re} z$ e $\operatorname{Im} z$ sono rispettivamente le parti reali e immaginarie di qualsiasi radice di un polinomio ottenuta cambiando alcuni dei coefficienti di $P(x)$ ai loro numeri opposti. (postato da Zhu Huawei)
 

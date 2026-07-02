@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prodotti palindromici di numero di punito< MSK1/>
+*Prodotti palindromici di numero di punito*
 
 > Un numero naturale si chiama palindromo se si legge lo stesso avanti e indietro. Ad esempio, 481184, 131 e 2 sono palindromi.
 > 

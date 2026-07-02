@@ -53,7 +53,7 @@ tags:
 
 Quale potenza è uguale a 2 sollevata a più potenze sommate?
 
-> Che cos' è < MSK0/>?
+> Che cos' è $2^4 + 2^3 + 2^2 + 2^1 - 4^0$?
 > 
 > (A) $0$ \quad (B) $2$ \quad (C) $4$ \quad (D) $4^7$ \quad (E) $4^8$
 

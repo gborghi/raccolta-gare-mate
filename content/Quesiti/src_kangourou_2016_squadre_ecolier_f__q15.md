@@ -35,31 +35,11 @@ tags:
 
 > Un prodotto molto grande 
 > Moltiplichiamo tutti i numeri dispari di tre cifre: qual è la cifra delle unità del prodotto?  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> 
 > 3 
 >  
 > Kangourou della Matematica 2016   
 > Coppa a squadre Kangourou Ecolier   
 > Cervia, 6 maggio 2016 
->  
->  
->  
->  
->  
->  
 >       Quesiti e soluzioni
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

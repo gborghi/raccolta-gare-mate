@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many numbers are common to Lara and Mara's choices< MSK1/>
+*How many numbers are common to Lara and Mara's choices*
 
 > From the list of numbers 3, 5, 2, 6, 1, 4, 7 Lara chose 3 numbers, different from each other, whose sum is 8; instead, from the same list, Mara chose 3 numbers, different from each other, whose sum is 7. How many numbers do Lara and Mara have in common? A) 0
 > 	

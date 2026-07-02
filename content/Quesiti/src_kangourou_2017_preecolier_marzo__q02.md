@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many five-pointed stars in the figure < MSK1/>
+*How many five-pointed stars in the figure *
 
 ![[src_kangourou_2017_preecolier_marzo__prob2.png]]
 

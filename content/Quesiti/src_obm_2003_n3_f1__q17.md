@@ -59,9 +59,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta gli ospiti alla festa che riceve 77 piatti di 4 tipi che servono diversi numeri di persone< MSK1/>
+*Conta gli ospiti alla festa che riceve 77 piatti di 4 tipi che servono diversi numeri di persone*
 
-> In una tipica festa, ogni piatto di riso serviva $2$ persone, ogni piatto di magonese serviva $3$ persone, ogni piatto di carne serviva $4$ persone e ogni piatto di dolci serviva $5$ persone. Sono stati utilizzati un totale di piatti < MSK4/> e ogni persona alla festa è stata servita esattamente una volta. Quante persone erano alla festa?
+> In una tipica festa, ogni piatto di riso servito a persone $2$, ogni piatto di magonese servito a persone $3$, ogni piatto di carne servito a persone $4$, e ogni piatto di dolci servito a persone $5$. Sono stati utilizzati un totale di piatti $77$ e ogni persona alla festa è stata servita esattamente una volta. Quante persone erano alla festa?
 > 
 > A) $20$ \quad B) $30$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 

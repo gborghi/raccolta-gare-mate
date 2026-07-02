@@ -41,13 +41,6 @@ tags:
 > C. 11  
 > D. 12  
 > E. 18 
->  
->  
->  
->  
->  
->  
->  
 > a 
 > b 
 > 
@@ -65,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most sum of digits of the sum of digits < MSK1/>
+*Most sum of digits of the sum of digits *
 
 > What is the maximum value of the sum of digits of the sum of digits of a 3-digit number?
 >  

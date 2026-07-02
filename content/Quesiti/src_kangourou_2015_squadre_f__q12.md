@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Speed to arrive on time between late and early< MSK1/>
+*Speed to arrive on time between late and early*
 
 > Franco likes to ride a bicycle, even if he has to travel long distances. Starting at a given moment and cycling at a speed of 20 km/h, you would arrive at an appointment with an hour of delay; leaving at the same moment and cycling at a speed of 30 km/h, you would arrive an hour early. How many miles an hour does he have to cycle if he wants to get there on time?
 

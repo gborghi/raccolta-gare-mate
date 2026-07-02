@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>insieme di 16 integri positivi con prodotto in coppia non superiore al 1994< MSK1/>
+*insieme di 16 integri positivi con prodotto in coppia non superiore al 1994*
 
 > $A$ sia un insieme di 16 integri positivi con la proprietà che il prodotto di due numeri distinti di $A$ non supererà il 1994. Mostrare che ci sono due numeri $a$ e $b$ in $A$ che non sono relativamente primi.
 

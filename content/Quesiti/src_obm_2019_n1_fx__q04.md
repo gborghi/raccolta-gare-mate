@@ -71,7 +71,7 @@ tags:
 > 
 > $$\begin{array}{|c|}\hline 0 \\ \hline x \quad S \\ \hline y \hline \end{array}$$
 > 
-> - Ogni numero appare esattamente una volta. - La somma dei numeri in ciascuna delle tre righe orizzontali di tre celle e la somma dei numeri nella barra verticale di cinque celle devono essere tutte uguali. - I numeri < MSK0/> e < MSK1/> sono già inseriti e non possono essere spostati.
+> - Ogni numero appare esattamente una volta. - La somma dei numeri in ciascuna delle tre righe orizzontali di tre celle e la somma dei numeri nella barra verticale di cinque celle devono essere tutte uguali. - I numeri $0$ e $8$ sono già inseriti e non possono essere spostati.
 > 
 > Trovare tutti i valori possibili di $x + y$ e, per ogni valore, fornire un esempio di come compilare tutti i numeri.
 

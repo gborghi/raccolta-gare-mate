@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Black flies that give more milk than white flies< MSK1/>
+*Black flies that give more milk than white flies*
 
 > Three black cows and four white cows give as much milk in six days as three white cows and four black cows give in seven days. Which cows (individually) give more milk, the black cows or the white cows?
 

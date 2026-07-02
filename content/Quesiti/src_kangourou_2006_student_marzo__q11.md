@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>2006 remainder with the same divider (rest 5 out of 1001) < MSK1/>
+*2006 remainder with the same divider (rest 5 out of 1001) *
 
 > If you divide 1001 by an appropriate one-digit number, you get 5. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
 

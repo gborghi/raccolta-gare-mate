@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum moves to turn 6 cards by flipping 4< MSK1/>
+*Minimum moves to turn 6 cards by flipping 4*
 
 > Six playing cards are lined up on a table, and none of them shows the back. One move consists of flipping exactly four cards (not necessarily consecutive). What's the minimum number of moves enough to make all the cards turn? A) 3
 > 	

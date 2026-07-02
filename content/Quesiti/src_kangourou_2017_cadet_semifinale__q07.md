@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining partition of 97531x1468 by 15< MSK1/>
+*Remaining partition of 97531x1468 by 15*
 
 > (Points 5) Denotes with N the product of 97531 for 1468. What's the rest of the division of N by 15?
 >

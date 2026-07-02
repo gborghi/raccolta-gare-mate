@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max months with five Sundays< MSK1/>
+*Max months with five Sundays*
 
 > What is the maximum number of months in a year that can have five Sundays? A) 3 B) 4 C) 5 D) 6 E) 7 Δ Δ 1 1 x 0 y B C A Test_07.qxp 16-04-2007 12:06 Page 23
 > 

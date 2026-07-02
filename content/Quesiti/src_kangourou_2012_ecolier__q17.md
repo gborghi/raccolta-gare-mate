@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of jumps to reach the 22nd step< MSK1/>
+*Minimum number of jumps to reach the 22nd step*
 
 ![[src_kangourou_2012_ecolier__prob17.png]]
 

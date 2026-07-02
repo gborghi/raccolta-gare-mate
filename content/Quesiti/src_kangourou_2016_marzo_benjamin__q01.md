@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>part of each slice< MSK1/>
+*part of each slice*
 
 > Michael cuts a pizza into four equal slices. Then cut each of these four slices into three equal slices. What part of the total is each resulting slice? A) One third
 > 	

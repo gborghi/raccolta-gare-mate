@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum side l so that three pizzas are on the table< MSK1/>
+*Minimum side l so that three pizzas are on the table*
 
 > Three friends enter Giorgio's pizzeria and sit each on one side of a rectangular table; the first sits on one side 70 cm long, the second and the third sit facing each other, on sides length l. The pizzas have a diameter of 30 cm; Giorgio serves the pizza of the first adventurer so that it is tangent to his side of the table at the middle point and the pizzas of the other two so that they are tangent to their respective sides of the table and to the first pizza. What is the minimum value of l (in centimeters) for the three pizzas to sit entirely on the table?
 >

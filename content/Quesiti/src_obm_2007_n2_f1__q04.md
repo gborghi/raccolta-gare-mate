@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ratione di adulti a bambini somministrata a uomini: donne e donne: bambini< MSK1/>
+*Ratione di adulti a bambini somministrata a uomini: donne e donne: bambini*
 
 > In una determinata città, il rapporto tra uomini e donne è $2:3$ e fra donne e bambini è $8:1$. Il rapporto tra il numero di adulti e bambini è:
 > 

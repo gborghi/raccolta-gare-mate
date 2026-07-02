@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little number of n with S(n)>=100 (coefficients 2020../2424..) < MSK1/>
+*Little number of n with S(n)>=100 (coefficients 2020../2424..) *
 
 > Consider the sum of the n additions
 > 	

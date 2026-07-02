@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum cost of strips to cover figures< MSK1/>
+*Minimum cost of strips to cover figures*
 
 ![[src_kangourou_2017_ecolier_semifinale__prob13.png]]
 

@@ -52,7 +52,7 @@ tags:
 
 *Circolo con angoli di corda tangente 30° e 10°; angolo di ricerca BDC*
 
-> I punti $A$, $B$, $C$, $D$ si trovano su un cerchio in questo ordine. L'angolo tra la tangente al cerchio a $B$ e l'accordo $AB$ è $30^\circ$, e l'angolo tra la tangente a $C$ e l'accordo $CD$ è $10^\circ$. Le linee $AB$ e $DC$ sono parallele e $B$ e $C$ si trovano su lati opposti del centro rispetto all'accordo $AD$. Trova < MSK15/>.
+> I punti $A$, $B$, $C$, $D$ si trovano su un cerchio in questo ordine. L'angolo tra la tangente al cerchio a $B$ e l'accord $AB$ è $30^\circ$, e l'angolo tra la tangente a $C$ e l'accord $CD$ è $10^\circ$. Le linee $AB$ e $DC$ sono parallele, e $B$ e $C$ si trovano su lati opposti del centro rispetto all'accordo $AD$. Trova $\angle BDC$.
 
 ![[src_jmo22yq_yosen__Q02.png]]
 

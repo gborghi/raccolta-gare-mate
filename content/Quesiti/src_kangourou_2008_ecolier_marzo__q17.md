@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of the kangaroo in autumn 2004< MSK1/>
+*Weight of the kangaroo in autumn 2004*
 
 > A kangaroo gets 5 pounds in winter and 4 pounds in summer. Her weight is monitored in spring and autumn. In the spring of 2008, the kangaroo weighed 100 pounds. How many pounds did he weigh in the fall of 2004? A) 92 B) 93 C) 95 D) 96 E) 98
 

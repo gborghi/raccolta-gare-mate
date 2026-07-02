@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nel parallelogramma ABCD, K su BC e L su CD con BK< MSK1/>AD=DL< MSK2/>AB; DK e BL si incontrano a P. Indicare l'angolo DAP = angolo BAC.
+*Nel parallelo ABCD, K su BC e L su CD con BK*AD=DL*AB; DK e BL si incontrano a P. Indicare l'angolo DAP = angolo BAC.
 
 > I punti $K$ e $L$ sono presi sui lati $BC$ e $CD$ di un parallelo $ABCD$, rispettivamente, in modo tale che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano al punto $P$. Prove che $\angle DAP = \angle BAC$.
 

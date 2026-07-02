@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Single coloured crabs (inclusion and exclusion) < MSK1/>
+*Single coloured crabs (inclusion and exclusion) *
 
 > Matilde drew 36 kangaroos using three distinct colors. The white was used for 25 kangaroos, the red for 28 and the black for 20. Only five kangaroos were used in all three colors. How many of the designed kangaroos are of the same color? A) 0 B) 4 C) 12 D) 31 E) It is not possible to establish it.
 

@@ -67,11 +67,11 @@ tags:
 
 > Su una tabella rettangolare con righe $6$ e colonne $9$ sono occupate celle $32$. Possiamo affermare che:
 >
-> - **(A)** Tutte le colonne hanno almeno < MSK0/> cellule occupate.
+> - **(A)** Tutte le colonne hanno almeno $3$ cellule occupate.
 > - **(B)** Nessuna colonna ha più di $3$ cellule occupate.
 > - **(C)** Una colonna non ha cellule occupate.
 > - **(D)** Alcune righe hanno cellule occupate almeno $6$.
-> - **(E)** Tutte le righe hanno cellule occupate < MSK0/>.
+> - **(E)** Tutte le righe hanno cellule occupate $5$.
 
 **Risposta:** D
 [[src_obm_2001_n2_f1__Q12]]

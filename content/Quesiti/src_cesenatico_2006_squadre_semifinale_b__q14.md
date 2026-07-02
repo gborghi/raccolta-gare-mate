@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reduced fractions m/n with m< MSK1/>n=18!< MSK2/>
+*Reduced fractions m/n with m*n=18!*
 
 > Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing to the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and so m·n = 18!.
 

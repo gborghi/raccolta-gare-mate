@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of candies (20 per bag, 12 advanced) < MSK1/>
+*Minimum number of candies (20 per bag, 12 advanced) *
 
 > Grandma has a lot of candy. He decides to divide them among his grandchildren so that they each receive a bag of candy with the same number. She puts as many candy as possible in each bag: eventually she discovers that there are 20 candy in each bag and 12 candies are given to her. How many candy do you think Grandma had? A) 52
 > 	

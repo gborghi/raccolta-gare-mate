@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which fruit does Bianca eat< MSK1/>
+*Which fruit does Bianca eat*
 
 > Mother brings five different fruits to the table: an apple, a pear, an orange, a kiwi and a banana. Each of the five children takes a fruit he likes.
 > 	

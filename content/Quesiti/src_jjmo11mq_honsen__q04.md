@@ -49,6 +49,6 @@ tags:
 
 *Espresso angolo HJK utilizzando angolo BCA nel triangolo acuto*
 
-> C'è un triangolo acuto $ABC$ con $AB < AC$, il cui centro ortocentrico e incentrico sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimere < MSK10/> in termini di < MSK11/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> C'è un triangolo acuto $ABC$ con $AB < AC$, il cui centro ortocentrico e incentrico sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimere $\angle HJK$ in termini di $\angle BCA$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 [[src_jjmo11mq_honsen__Q04]]

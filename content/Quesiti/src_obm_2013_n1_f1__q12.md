@@ -53,13 +53,13 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sconto ora contro sconto più aumento dei prezzi del 5% il mese prossimo< MSK1/>
+*Sconto ora contro sconto più aumento dei prezzi del 5% il mese prossimo*
 
 > Se Joana acquista oggi un computer di $2000$ reais, riceverà uno sconto di $5\%$. Se lo lascia per domani, riceverà lo stesso sconto di $5\%$, ma il computer aumenterà di $5\%$. Se aspetta, cosa succederà?
 >
 > - **(A)** Niente, pagherà la stessa somma.
 > - **(B)** Perderà reais.
-> - **(C)** Lei guadagnerà < MSK0/> reais.
+> - **(C)** Lei guadagnerà $105$ reais.
 > - **(D)** Perderà reais.
 > - **(E)** Perderà reais.
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True claim with MCD(m,35)>10< MSK1/>
+*True claim with MCD(m,35)>10*
 
 > m is a positive integer such that MCD (m, 35) > 10. Which of the following is certainly true? (A) the decimal representation of m has at least 3 digits (B) m is multiple of 35 (C) m is divisible by 15 (D) m is divisible by 25 (E) m is divisible by either 5 or 7 but not both. Note: MCD (a, b) indicates the maximum common divisor between a and b. The questions from N. 11 al N. 20 is worth 4 points each.
 

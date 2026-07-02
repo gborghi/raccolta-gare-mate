@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Minimum n in modo che ogni n coprime in coprime di {1,...,2005} contengano un primo*
+*Minimum n in modo che tutti gli elementi copriemi in coppia di {1,...,2005} contengano un primo*
 
-> Let < MSK0/>. Se in qualsiasi sottoinsieme di $S$ esiste almeno un numero primo composto da $n$ numeri copriemi in coppia, si trova il valore minimo di $n$.
+> Let $S = \{1, 2, \cdots, 2005\}$. Se in qualsiasi sottoinsieme di $S$ esiste almeno un numero primo composto da $n$ numeri copriemi in coppia, si trova il valore minimo di $n$.
 
 [[src_cn_cwmo_2005__Q03]]

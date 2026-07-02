@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Required speed for record after initial delay< MSK1/>
+*Required speed for record after initial delay*
 
 > A pilot wants to set a new record on a 50 km route: run it at an average speed of 100 km/h. Due to some technical problems, it takes 40 minutes to travel the first 25 km. At what speed must he travel the rest of the way (going at a constant speed) to succeed in his intent?
 >

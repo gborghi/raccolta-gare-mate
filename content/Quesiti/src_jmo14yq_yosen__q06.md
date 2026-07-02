@@ -53,6 +53,6 @@ tags:
 
 *Ricerca f(x) soddisfacente f(x)+f(1/(1-x))=1/x per tutte le x non 0 o 1.*
 
-> $f(x)$ sia una funzione a valore reale definita per tutti i numeri reali $x$ diversi da $0$ e $1$, soddisfacendo $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{1}{x}$$ per tutti i numeri reali $x \neq 0, 1$. Trova < MSK6/>.
+> $f(x)$ sia una funzione a valore reale definita per tutti i numeri reali $x$ diversi da $0$ e $1$, soddisfacendo $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{1}{x}$$ per tutti i numeri reali $x \neq 0, 1$. Trova $f(x)$.
 
 [[src_jmo14yq_yosen__Q06]]

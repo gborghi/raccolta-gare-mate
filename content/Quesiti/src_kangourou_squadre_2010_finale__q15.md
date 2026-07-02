@@ -38,17 +38,6 @@ tags:
 > Qual è il valore della frazione   1001+1003+1005+...+1997 +1999
 > 1+ 3+ 5+...+ 997 + 999
 >  ? 
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
 > A 
 > 
 >  
@@ -67,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most students with 3 problems out of 8 and one common< MSK1/>
+*Most students with 3 problems out of 8 and one common*
 
 > A fraction to be simplified
 >  

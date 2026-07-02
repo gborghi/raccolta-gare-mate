@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of removing ball 8 after operations< MSK1/>
+*Probability of removing ball 8 after operations*
 
 > One journal contains 8 balls, on which the numbers 1 to 8 are written. Federica catches two balls in a row, erases the number written on the first and replaces it with her double, erases the number on the second ball and replaces it with the fourfold of it. Then reinsert the two balls into the urn (for example, if Federica caught balls 3 and 7 in this order, she will reinsert two balls with the numbers 6 and 28 into the urn). Finally, extract a ball again: what is the probability that the ball extracted has the number 8?
 >

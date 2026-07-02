@@ -54,6 +54,6 @@ tags:
 
 *Ricerca tutte le dimensioni possibili di due cilindri simili con altezza somma 1 e volume somma 8pi*
 
-> Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è < MSK0/>. La somma dei loro volumi è < MSK1/>. Trova tutte le possibilità per le dimensioni di ciascun cilindro.
+> Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è $1$. La somma dei loro volumi è $8\pi$. Trova tutte le possibilità per le dimensioni di ciascun cilindro.
 
 [[src_bmo_2018-19_round1__Q05]]

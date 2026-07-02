@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total of prime factors of 12345< MSK1/>
+*Total of prime factors of 12345*
 
 > First factors One of the first factors of 12345 is a number greater than 500. What is the sum of all its prime factors?
 

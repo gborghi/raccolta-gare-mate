@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>P'OQ' convex angle after three hours of running< MSK1/>
+*P'OQ' convex angle after three hours of running*
 
 > The square in the side figure is obtained by approximating 9 identical squares and is divided into three angular sectors. $\alpha$ and $\beta$ are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true?
 >

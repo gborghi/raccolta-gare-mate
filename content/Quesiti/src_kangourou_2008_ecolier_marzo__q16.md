@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many years on Frettoloso< MSK1/>
+*How many years on Frettoloso*
 
 > On the fast-moving planet, a year lasts three months, a month lasts 10 days, and a day lasts as long as a day on planet Earth. Joan on Earth has 360 days. How old would she be on "Friday"? A) 4 B) 6 C) 10 D) 12 E) Another number. The questions from N. 17 al N. Twenty-four is worth five points each.
 

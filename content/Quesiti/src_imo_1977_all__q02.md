@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>any 7 sum negative, any 11 sum positive< MSK1/>
+*any 7 sum negative, any 11 sum positive*
 
 > In a finite sequence of real numbers the sum of any seven successive terms is negative, and the sum of any eleven successive terms is positive. Determine the maximum number of terms in the sequence.
 

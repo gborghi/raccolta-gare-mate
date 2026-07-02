@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many consecutive odds add up to 1600< MSK1/>
+*How many consecutive odds add up to 1600*
 
 ![[src_kangourou_2003_student_finale__probS2.png]]
 

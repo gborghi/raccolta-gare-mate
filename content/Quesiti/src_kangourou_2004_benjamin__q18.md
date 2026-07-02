@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length of trace of the snail Tin< MSK1/>
+*Length of trace of the snail Tin*
 
 ![[src_kangourou_2004_benjamin__prob18.png]]
 

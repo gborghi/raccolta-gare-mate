@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Quadrilaterale con diagonali che si intersecano a < MSK0/>; ridurre al minimo il perimetro < MSK2/>
+*Quadrilaterale con diagonali che si intersecano a 60°; ridurre al minimo il perimetro *
 
 > In quadrilaterale $ABCD$, le diagonali $AC$ e $BD$ si intersecano in un punto interno $P$. Date $AC = 2$, $BD = 3$ e $\angle APB = 60^\circ$, si trova il valore minimo di $AB + BC + CD + DA$.
 

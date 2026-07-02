@@ -56,6 +56,6 @@ tags:
 
 Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n pezzi?
 
-> Distribuiamo i pezzi $2018$ in scatole $b$, e poi distribuiamo queste scatole $b$ in case $n$, in modo tale che ogni casa riceva strettamente meno di scatole $b$. È possibile che ciascuna scatola contenga almeno < MSK5/> pezzi?
+> Distribuiamo i pezzi $2018$ in scatole $b$, e poi distribuiamo queste scatole $b$ in case $n$, in modo tale che ogni casa riceva strettamente meno di scatole $b$. È possibile che ciascuna scatola contenga almeno $n$ pezzi?
 
 [[src_canimath_2018_automne__Q01]]

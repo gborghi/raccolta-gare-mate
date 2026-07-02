@@ -59,7 +59,7 @@ tags:
 
 Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal ponte
 
-> Due amici, Augusto e Eduardo, stanno attraversando un ponte. Ciascuno ha camminato $\dfrac{2}{5}$ del ponte quando un treno appare da dietro Augusto (venendo dal lato di Augusto). Se Augusto torna a $15\,\text{km/h}$, scappa a malapena (esce proprio quando arriva il treno). Eduardo corre avanti a $15\,\text{km/h}$ e scappa a malapena. Qual è la velocità del treno, in < MSK3/>?
+> Due amici, Augusto e Eduardo, stanno attraversando un ponte. Ciascuno ha camminato $\dfrac{2}{5}$ del ponte quando un treno appare da dietro Augusto (venendo dal lato di Augusto). Se Augusto torna a $15\,\text{km/h}$, scappa a malapena (esce proprio quando arriva il treno). Eduardo corre avanti a $15\,\text{km/h}$ e scappa a malapena. Qual è la velocità del treno, in $\text{km/h}$?
 > 
 > A) $30$ \quad B) $45$ \quad C) $60$ \quad D) $75$ \quad E) $90$
 

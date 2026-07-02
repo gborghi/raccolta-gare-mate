@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>one and 36 more than the average of the other two < MSK1/>
+*one and 36 more than the average of the other two *
 
 > Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees wider than the average of the other two. How many degrees can the widest of the three angles be measured at most?
 

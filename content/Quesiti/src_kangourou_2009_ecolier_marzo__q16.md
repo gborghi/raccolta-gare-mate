@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What time does the clock go back to < MSK1/>
+*What time does the clock go back to *
 
 > At 6:15, your digital clock, which at that time marked the exact time, fell to the ground and began to go backwards, yet keeping the exact time. At 7:30, you looked at the clock again. What time did it say? A) 17:00 B) 17:45 C) 18:30 D) 19:00 E) 19:15 1 2 3 4 A B C D E Texts_09.qxp 15-04-2009 20:23 Page 7
 > 

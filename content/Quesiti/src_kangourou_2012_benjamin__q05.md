@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eta of chicks born on 24 February observed in March< MSK1/>
+*Eta of chicks born on 24 February observed in March*
 
 > When in Milan it's five o'clock in the afternoon, in San Francisco it's eight o'clock in the morning the same day. When I'm in San Francisco at 9pm on a Sunday, what time is it in Milan? (a) 6 a.m. on Sundays (b) 6 p.m. on Sundays (c) noon on Sundays (d) midnight between Sunday and Monday (e) 6 a.m. on Monday
 

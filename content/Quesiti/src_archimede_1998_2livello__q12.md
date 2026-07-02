@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Any single statement about age and strength is false< MSK1/>
+*Any single statement about age and strength is false*
 
 > One, and only one, of the following statements is false. What kind?
 >

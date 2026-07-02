@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Where to place the Z plate in order of weight< MSK1/>
+*Where to place the Z plate in order of weight*
 
 ![[src_kangourou_2016_ecolier_marzo__prob22.png]]
 

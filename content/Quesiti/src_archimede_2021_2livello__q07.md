@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rectangle, bisector, ratio (AB/BC) ^2 < MSK1/>
+*Rectangle, bisector, ratio (AB/BC) ^2 *
 
 ![[src_archimede_2021_2livello__prob7.png]]
 

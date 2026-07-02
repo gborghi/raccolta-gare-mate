@@ -64,7 +64,7 @@ tags:
 
 > The "wire-domain"
 > 
-> Carla enjoys a game in which she has 8 1x2 cards (equal to each other) with which she covers, without overlapping or holes, a 4x4 chessboard. Carla has to go from any (assigned) situation to any final (assigned) situation with a minimum number of moves. Each move consists of a < MSK0/> rotation of two tiles touching each other on the long side. The figure illustrates a case where this minimum number is 2 moves.
+> Carla enjoys a game in which she has 8 1x2 cards (equal to each other) with which she covers, without overlapping or holes, a 4x4 chessboard. Carla has to go from any (assigned) situation to any final (assigned) situation with a minimum number of moves. Each move consists of a 90° rotation of two tiles touching each other on the long side. The figure illustrates a case where this minimum number is 2 moves.
 > 
 > How much is this number worth at most?
 

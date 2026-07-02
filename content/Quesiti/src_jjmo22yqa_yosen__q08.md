@@ -60,7 +60,7 @@ tags:
 
 > Trovare il numero di modi per riempire ogni cella di una griglia $2024 \times 2024$ con una delle lettere J, M, O in modo tale che soddisfino entrambe le seguenti condizioni:
 > 
-> - Ogni < MSK0/> sottogrid contiene esattamente < MSK1/> copie di J, < MSK2/> copia di M e < MSK3/> copia di O. - Ogni cella di una riga a numeri odd (conteggiata dall'alto) e di una colonna a numeri odd (conteggiata dalla sinistra) contiene la lettera J.
+> - Ogni $2 \times 2$ sottogrid contiene esattamente $2$ copie di J, $1$ copia di M e $1$ copia di O. - Ogni cella di una riga a numeri odd (conteggiata dall'alto) e di una colonna a numeri odd (conteggiata dalla sinistra) contiene la lettera J.
 > 
 > (I dispositivi che coincidono dopo la rotazione o la riflessione sono considerati come distinti.)
 

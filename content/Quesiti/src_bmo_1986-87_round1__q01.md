@@ -55,7 +55,7 @@ tags:
 
 *Soluzioni integrali di due equazioni diofantine*
 
-> (a) Trovare, con prova, tutte le soluzioni integrali di < MSK0/>
+> (a) Trovare, con prova, tutte le soluzioni integrali di $$a^3 + b^3 = 9.$$
 > 
 > b) Trova, con prova, tutte le soluzioni integrali di $$35a^4 + 46a^2b^2 + 13b^4 = 9.$$
 

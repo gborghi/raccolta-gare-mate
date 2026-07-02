@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Major grey area between the figures< MSK1/>
+*Major grey area between the figures*
 
 ![[src_kangourou_2001_benjamin__prob7.png]]
 

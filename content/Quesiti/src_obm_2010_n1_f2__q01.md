@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Copi necessari per completare il riempimento di un vaso da 1/4 pieno a 1/3 pieno< MSK1/>
+*Copi necessari per completare il riempimento di un vaso da 1/4 pieno a 1/3 pieno*
 
-> Un vaso contiene < MSK0/> della sua capacità in acqua. Versa una tazza piena di acqua nel vaso, il volume raggiunge < MSK1/> della sua capacità. Quanti altri bicchieri pieni sono ancora necessari per riempire completamente il vaso?
+> Un vaso contiene $\frac{1}{4}$ della sua capacità in acqua. Versa una tazza piena di acqua nel vaso, il volume raggiunge $\frac{1}{3}$ della sua capacità. Quanti altri bicchieri pieni sono ancora necessari per riempire completamente il vaso?
 
 **Risposta:** 8
 [[src_obm_2010_n1_f2__Q01]]

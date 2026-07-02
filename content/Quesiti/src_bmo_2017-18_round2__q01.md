@@ -50,7 +50,7 @@ tags:
 
 *Circolo tangente a BC a B attraverso il punto medio M incontra AB a P; prova AB×BP=2BM2*
 
-> Considera il triangolo < MSK0/>. Il punto medio di $AC$ è $M$. Il cerchio tangente a $BC$ a $B$ e passando attraverso $M$ incontra di nuovo la linea $AB$ a $P$.
+> Considera il triangolo $ABC$. Il punto medio di $AC$ è $M$. Il cerchio tangente a $BC$ a $B$ e passando attraverso $M$ incontra di nuovo la linea $AB$ a $P$.
 > 
 > Prove che $AB \times BP = 2BM^2$.
 

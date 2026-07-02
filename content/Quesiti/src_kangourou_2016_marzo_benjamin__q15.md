@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum sum< MSK1/>
+*minimum sum*
 
 > A strip of paper has the number 2581953764. Gianni cuts the strip into two dots, getting three numbers, then adds those three numbers. What's the least amount you can get? A) 2675 B) 2975 C) 2978 D) 4217 E) 4298
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rettangolo EFGH se ABCD ciclico, cerchio inciso in quadrilaterale< MSK1/>
+*Rettangolo EFGH se ABCD ciclico, cerchio inciso in quadrilaterale*
 
 > Supponiamo che il quadrilaterale convex $ABCD$ abbia un cerchio inciso. Il cerchio tocca rispettivamente $AB$, $BC$, $CD$, $DA$ a $A_1$, $B_1$, $C_1$ e $D_1$. Il $H$ deve essere il punto medio di $D_1 A_1$ e le linee $A_1 B_1$ e $D_1 C_1$ devono incontrarsi al $E$. Le linee $F$ e $G$ devono essere i punti di mezzo dei lati $B_1 C_1$ e $D_1 A_1$ rispettivamente, e le linee $A_1 D_1$ e $B_1 C_1$ devono incontrarsi al punto $I$. Prova che $E$, $F$, $G$, $H$ si trovano su un cerchio se e solo se $ABCD$ è un quadrilaterale ciclico.
 

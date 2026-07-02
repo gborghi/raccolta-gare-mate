@@ -51,7 +51,7 @@ tags:
 
 *How many distinct values of the sum of the perimeter of 4 triangles area 1/4*
 
-> There are several ways of dividing a square of side 1 into 4 triangles each of area < MSK0/> (to "separate" means to break down without overlapping if not, possibly, sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
+> There are several ways of dividing a square of side 1 into 4 triangles each of area $\frac{1}{4}$ (to "separate" means to break down without overlapping if not, if possible, sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
 
 **Answer:** 5
 [[src_kangourou_2011_cadet_finale__QC6]]

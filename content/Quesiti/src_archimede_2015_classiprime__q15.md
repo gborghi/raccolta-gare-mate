@@ -61,7 +61,7 @@ tags:
 
 *Student most likely given page choice and number sum*
 
-> In a high school on Kenoncè Island, Professor Bocciotutti chooses who to interview from among her 21 pupils. (a) She randomly opens a 288-page book (numbered 1 to 288), chooses one of the two pages on which she opened it and checks the number N. (b) If N < MSK0/>21 takes the student marked with the number N from the register list, otherwise it replaces N with the sum of its digits and repeats operation (b). What is the number of students most likely to be selected? A 10 B 9 C 11 D 8 and 12 F all students are equally likely to be selected
+> In a high school on Kenoncè Island, Professor Bocciotutti chooses who to interview from among her 21 pupils. (a) She randomly opens a 288-page book (numbered 1 to 288), chooses one of the two pages on which she opened it and checks the number N. (b) If N ≤21 takes the student marked with the number N from the register list, otherwise it replaces N with the sum of its digits and repeats operation (b). What is the number of students most likely to be selected? A 10 B 9 C 11 D 8 and 12 F all students are equally likely to be selected
 
 **Answer:** A
 [[src_archimede_2015_classiprime__Q15]]

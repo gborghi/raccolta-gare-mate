@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> lots of cotton < MSK1/>
+* lots of cotton *
 
 > Snow White organized a chess tournament for the seven dwarfs, where each dwarf had to play a game with each other dwarf. On Monday, Brontolo played 1 game, Eolo played 2, Pisolo 3, Mammolo 4, Gongolo 5 and Dotto 6. How many games did Cucciolo play on Monday? A) 1
 > 	

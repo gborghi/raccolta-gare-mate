@@ -47,7 +47,7 @@ tags:
 
 *Time between the overlapping of the tiles*
 
-> The hour hand of a clock completes a complete turn in < MSK0/> hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
+> The hour hand of a clock completes a complete turn in $12$ hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
 
 **Answer:** 1h5'27"3/11
 [[src_kangourou_2003_cadet_finale__QC5]]

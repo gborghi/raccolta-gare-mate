@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Weight of 1 apple and 1 orange < MSK1/>
+Weight of 1 apple and 1 orange *
 
 > 3 apples and 2 oranges weigh a total of 255 grams; 2 apples and 3 oranges weigh a total of 285 grams. All apples have the same weight and all oranges have the same weight. How many grams weigh one apple and one orange? A) 110 B) 108         C) 105        D) 104        E) 102
 

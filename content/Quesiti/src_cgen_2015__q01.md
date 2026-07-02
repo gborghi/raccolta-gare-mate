@@ -101,14 +101,14 @@ tags:
 > 
 > Isabelle e Clara ricevono la stessa sequenza finita di $n$ reali $(x_1, x_2, \ldots, x_n)$. Isabelle vuole riordinarlo in modo da ottenere una sequenza finita di peso minimo. Per fare ciò, considera tutti gli ordini possibili di questi reali $n$, determina per ciascuno il peso della sequenza corrispondente e sceglie un ordine per il quale il peso è minimo. Indicare $I$ questo peso minimo.
 > 
-> Per sua parte, Clara, più affrettata di Isabelle, adotta l'algoritmo seguente. Inizia scegliendo tra i reali $n$ un numero, indicato $c_1$, in modo che il valore di $|c_1|$ sia il più piccolo possibile. Sceglie quindi il numero $c_2$ tra i reali $n - 1$ rimanenti, in modo che il valore di $|c_1 + c_2|$ sia il più piccolo possibile. Più in generale, dopo aver scelto i numeri $c_1, \ldots, c_i$ tra i reali $n$ dati all'inizio, sceglie $c_{i+1}$ tra i rimanenti $n - i$ in modo che il valore di $|c_1 + \cdots + c_i + c_{i+1}|$ sia il più piccolo possibile. Alla fine ottiene una sequenza finita $(c_1, \ldots, c_n)$ di $n$ reali. Indicare < MSK13/> il suo peso.
+> Per sua parte, Clara, più affrettata di Isabelle, adotta l'algoritmo seguente. Inizia scegliendo tra i reali $n$ un numero, indicato $c_1$, in modo che il valore di $|c_1|$ sia il più piccolo possibile. Sceglie quindi il numero $c_2$ tra i reali $n - 1$ rimanenti, in modo che il valore di $|c_1 + c_2|$ sia il più piccolo possibile. Più in generale, dopo aver scelto i numeri $c_1, \ldots, c_i$ tra i reali $n$ dati all'inizio, sceglie $c_{i+1}$ tra i rimanenti $n - i$ in modo che il valore di $|c_1 + \cdots + c_i + c_{i+1}|$ sia il più piccolo possibile. Alla fine ottiene una sequenza finita $(c_1, \ldots, c_n)$ di $n$ reali. Indicare $C$ il suo peso.
 > 
-> 2. Determinare $I$ e $C$ nei due casi seguenti. a. $n = 3$ e $x_1 = 1$, $x_2 = 2$, $x_3 = -4$. b. < MSK6/> e < MSK7/>, < MSK8/>, < MSK9/>, < MSK10/>.
+> 2. Determinare $I$ e $C$ nei due casi seguenti. a. $n = 3$ e $x_1 = 1$, $x_2 = 2$, $x_3 = -4$. b. $n = 4$ e $x_1 = 1$, $x_2 = -1$, $x_3 = 2$, $x_4 = -2$.
 > 
 > 3. Se $n = 2$, indicare che $I = C$.
 > 
 > 4. Se $n = 3$, indicare che $C \le \frac{3}{2} I$.
 > 
-> 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che < MSK10/>. c. Mostra che < MSK11/>. d. Riduzione di < MSK12/>. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
+> 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
 
 [[src_cgen_2015__Q01]]

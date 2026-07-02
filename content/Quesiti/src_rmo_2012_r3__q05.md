@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Ratio di superficie del triangolo APQ a quadrilaterale PDEQ in triangolo con base triciclata*
+*Ratio di superficie del triangolo APQ a quadrilaterale PDEQ in triangolo con base trisectata*
 
-> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. $F$ sia il punto medio di $AC$. In < MSK9/> < MSK7/> < MSK8/> e in < MSK11/> < MSK10/> si intersecano rispettivamente. Determinare il rapporto tra la superficie del triangolo $APQ$ e quella del quadrilaterale $PDEQ$.
+> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. $F$ sia il punto medio di $AC$. In $P$ $BF$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare il rapporto tra la superficie del triangolo $APQ$ e quella del quadrilaterale $PDEQ$.
 
 ![[src_rmo_2012_r3__Q05.png]]
 

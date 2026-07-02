@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Heritage after growth of 50% for four hours< MSK1/>
+*Heritage after growth of 50% for four hours*
 
 > Every hour Uncle Paperone's fortune increases by 50%. If at noon on a certain day Paperone owns 64 fantasilliards, what will his fortune be at 4 p.m. on the same day?
 >

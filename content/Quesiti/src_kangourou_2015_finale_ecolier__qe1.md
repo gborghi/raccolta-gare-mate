@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many sums < MSK1/>
+*how many sums *
 
 > A strange ATM box can only deliver sums of money less than 1000 euros and only with 5, 10, 20 and 50 euro banknotes, all in equal quantities at each withdrawal. How many different amounts of money can be withdrawn from that ATM?
 

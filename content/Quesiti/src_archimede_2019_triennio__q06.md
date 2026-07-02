@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Estimate of product mcm 2160 and odd MCD< MSK1/>
+*Estimate of product mcm 2160 and odd MCD*
 
 > The product of two natural numbers is 2160. Their maximum common divisor is odd and greater than 1. Indicating with m the minimum common multiple of two numbers, we have:
 >

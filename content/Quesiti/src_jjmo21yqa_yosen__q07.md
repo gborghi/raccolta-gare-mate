@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maximi paesi che superano il team del paese J< MSK1/>
+*Maximi paesi che superano il team del paese J*
 
 > In una competizione con i paesi $100$ compresi i paesi J, i giocatori $3$ di ciascun paese (un totale di giocatori $300$) fanno un test e tutti $300$ ottengono punteggi di numeri interi distinti non negativi. I tre giocatori di Country J ottengono i punteggi classificati $1$st, $10$th e $100$th più alti tra tutti i giocatori $300$. Trovare il numero massimo possibile di paesi, tra i restanti $99$, che soddisfino la seguente condizione: la somma dei punteggi dei tre giocatori di quel paese è superiore alla somma dei punteggi dei tre giocatori del paese J.
 

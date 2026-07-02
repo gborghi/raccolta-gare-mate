@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of sponge from 90% to 80% water< MSK1/>
+*Weight of sponge from 90% to 80% water*
 
 > (Points 5) A sponge is made up of 90% water and weighs 2 kg. After some of the water has evaporated, 80% of the sponge is water. What's his weight in pounds now?
 >

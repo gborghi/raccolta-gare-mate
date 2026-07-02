@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of 24 by throwing 4 dice< MSK1/>
+*Probability of 24 by throwing 4 dice*
 
 > Carla throws, all together, four dice, with faces numbered from 1 to 6. What is the probability that the product of the four numbers is 24?
 >

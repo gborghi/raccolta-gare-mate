@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Box volume from three facial areas< MSK1/>
+*Box volume from three facial areas*
 
 > A box has six rectangular faces, three of which have areas, respectively, 8 dm2, 40 dm2, 20 dm2. How many dm3 does the volume of the box measure?
 >

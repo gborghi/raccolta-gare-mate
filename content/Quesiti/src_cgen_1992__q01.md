@@ -70,13 +70,13 @@ tags:
 
 *Sottoinsiemi convexi di piano e di un delta di mappa di simmetria*
 
-> Diciamo che un sottogruppo non vuoto $\Delta$ del piano $\mathcal{P}$ è convexo se ha la seguente proprietà: per ogni coppia $(M, N)$ di punti di $\Delta$, il segmento $[MN]$ è contenuto in $\Delta$.
+> Diciamo che un sottoinsieme non vuoto $\Delta$ del piano $\mathcal{P}$ è convexo se ha la seguente proprietà: per ogni coppia $(M, N)$ di punti di $\Delta$, il segmento $[MN]$ è contenuto in $\Delta$.
 > 
 > Il $\Delta$ deve essere una parte convexa del piano $\mathcal{P}$. Se $A$ è un punto di $\mathcal{P}$, a ogni coppia $(M, N)$ di punti di $\Delta$ si associa il punto $m$ definito da $$\overrightarrow{Am} = \frac{1}{2}\overrightarrow{MN}$$ e si indica con $\delta_A(\Delta)$ l'insieme di tutti i punti $m$ così ottenuti.
 > 
 > **1.** **a.** Mostra che $\delta_A(\Delta)$ ammette un centro di simmetria.
 >    
-> < MSK4/>b.< MSK5/> In che condizione si ha < MSK0/> < MSK1/>? Con quale trasformazione si passa da $\delta_0(\Delta)$ a $\delta_A(\Delta)$?
+> **b.** In che condizione si ha $A$ $\delta_A(\Delta) = \Delta$? Con quale trasformazione si passa da $\delta_0(\Delta)$ a $\delta_A(\Delta)$?
 > 
 > **2.** $A$ deve essere un punto del piano $\mathcal{P}$. Determinare e rappresentare $\delta_A(\Delta)$ quando: **a.** $\Delta$ è una striscia del piano delimitata da due linee parallele.
 >    
@@ -84,6 +84,6 @@ tags:
 >    
 > **c.** $\Delta$ è mezzo piano.
 > 
-> < MSK2/>3.< MSK3/> Indicare che in entrambi i casi 2.b. e 2.c., i confini di $\Delta$ e $\delta_A(\Delta)$ hanno la stessa lunghezza.
+> **3.** Indicare che in entrambi i casi 2.b. e 2.c., i confini di $\Delta$ e $\delta_A(\Delta)$ hanno la stessa lunghezza.
 
 [[src_cgen_1992__Q01]]

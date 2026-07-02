@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max length of curve connected (arched tiles) < MSK1/>
+*Max length of curve connected (arched tiles) *
 
 ![[src_kangourou_2007_cadet_marzo__prob28.png]]
 

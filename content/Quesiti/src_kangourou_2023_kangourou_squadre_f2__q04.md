@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N value in water mixtures< MSK1/>
+*N value in water mixtures*
 
 > Mixtures One mixture A is 90% water and one mixture B is 54%. 160 litres were taken from mixture B and mixed with n litres of mixture A to produce a new mixture in which the water content is 78%. How much is n?
 

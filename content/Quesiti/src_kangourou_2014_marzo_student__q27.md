@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>value of m< MSK1/>
+*value of m*
 
 > When all the factors (k, m, n) of positive integers that are equal to k = (2014 + m) / n = 10241/n + 1 are varied, how many different values can the number m take? (a) There is no such tender. B) 1
 > 	

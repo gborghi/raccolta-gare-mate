@@ -62,9 +62,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*quadrilaterale convex, riducendo al minimo f(P)=PA*BC+PD*CA+PC*AB; conciclicità minima e minima numerica.*
+*quadrilaterale convex, riducendo al minimo f(P)=PA*BC+PD*CA+PC*AB; conciclicità al minimo e numero minimo.*
 
-> (50 marchi) Come mostrato alla figura. 1, $ABCD$ è un quadrilaterale convex con $\angle B + \angle D < 180^\circ$, e $P$ è un punto in movimento sul piano. Indicare che $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$ (1) Provare che $P$, $A$, $B$, $C$ sono conciclici quando $f(P)$ raggiunge il minimo. (2) Supponiamo che il punto $E$ si trovi sull'arco $\overset{\frown}{AB}$ del cerchio circoscritto $O$ di $\triangle ABC$, soddisfacendo $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$, inoltre $DA$, $DC$ sono tangenti a $\odot O$, $AC = \sqrt{2}$. Trova il minimo di < MSK18/>.
+> (50 marchi) Come mostrato alla figura. 1, $ABCD$ è un quadrilaterale convex con $\angle B + \angle D < 180^\circ$, e $P$ è un punto in movimento sul piano. Indicare che $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$ (1) Provare che $P$, $A$, $B$, $C$ sono conciclici quando $f(P)$ raggiunge il minimo. (2) Supponiamo che il punto $E$ si trovi sull'arco $\overset{\frown}{AB}$ del cerchio circoscritto $O$ di $\triangle ABC$, soddisfacendo $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$, inoltre $DA$, $DC$ sono tangenti a $\odot O$, $AC = \sqrt{2}$. Trova il minimo di $f(P)$.
 
 ![[src_cn_cmc-complementary-test_2008__Q01.png]]
 

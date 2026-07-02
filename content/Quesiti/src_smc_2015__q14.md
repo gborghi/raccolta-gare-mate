@@ -58,7 +58,7 @@ tags:
 
 *Ricerca il lato sconosciuto di un triangolo con superficie di 88 unità quadrate e due lati 10 e 22*
 
-> Il triangolo mostrato ha un'area di 88 unità quadrate. Qual è il valore di < MSK0/>?
+> Il triangolo mostrato ha un'area di 88 unità quadrate. Qual è il valore di $y$?
 >
 > - **(A)** $17.6$
 > - **(B)** $2\sqrt{46}$

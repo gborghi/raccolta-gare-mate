@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum age of Eva turtle by end of 2022< MSK1/>
+*Minimum age of Eva turtle by end of 2022*
 
 > The year 2022 is a special year as the figure 2 appears three times. It's the third time the turtle Eva has seen a year with three digits equal. How old will Eva be at the end of 2022? A) 18
 >   

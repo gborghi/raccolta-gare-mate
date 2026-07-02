@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum problems with distinct corrections/errors for 50< MSK1/>
+*Minimum problems with distinct corrections/errors for 50*
 
 > (Points 6) A mathematical contest was presented with problems for 50 contestants. For each individual contestant, the correct answers given, the wrong ones and the ones not given were counted. There were no two competitors who provided both the same number of correct answers and the same number of incorrect answers. What's the smallest possible value for n? The answer is: 0009. The solution. In our assumptions, for 0 ≤ k ≤ n, the eligible data with exactly k correct answers are in the number of n  k + 1 (there may not be any unspecified answers). The sum of all these numbers in k is the sum of the integers from 1 to n + 1 included, i.e. $\frac{(n+1)(n+2)}{2}$ and this value must be at least 50. From $n^2 + 3n - 98 \ge 0$, with n integers, follows $n \ge 9$.
 

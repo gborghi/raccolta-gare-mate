@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-From MSK0/> to MSK-b+1, what relationship is necessarily worth
+From* to MSK-b+1, what relationship is necessarily worth
 
 > Two real numbers are given to a b such that ∙3a −b + 1  = e ∙b ∙ Then you have to. . .
 >

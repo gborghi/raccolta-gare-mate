@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Mare con facce opposte che sommano 7 laminate quattro volte; trovare la direzione della faccia 1< MSK1/>
+*Mare con facce opposte che sommano 7 laminate quattro volte; trovare la direzione della faccia 1*
 
 > Il disegno di seguito mostra un dado ordinario la cui somma dei punti su facce opposte è sempre uguale a 7. Si colloca su un tavolo orizzontale con la faccia ``1' rivolta verso est (Leste). Il dado viene poi spostato quattro volte. Un movimento consiste in una rotazione $90^\circ$ intorno a un bordo. Dopo il primo movimento il volto in contatto con il tavolo diventa ``1', poi ``2', e infine il volto ``5'. In quale direzione è rivolto il volto ``1' dopo questa sequenza di movimenti? (La figura indica le direzioni Nord e Est.)
 > 

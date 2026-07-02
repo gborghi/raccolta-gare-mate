@@ -52,6 +52,6 @@ tags:
 
 *ABCD quadrilaterale convexa, angoli specifici, MD=NB; angolo di ricerca MNB*
 
-> Il $ABCD$ deve essere un quadrilaterale convesso con $\widehat{ABC} = 90^\circ$, $\widehat{BAD} = \widehat{ADC} = 80^\circ$. Il punto $M$ e il punto $N$ devono essere punti rispettivamente su $[AD]$ e $[BC]$ in modo tale che $\widehat{CDN} = \widehat{ABM} = 20^\circ$. Supponiamo inoltre che $MD = NB$. Che cos'è < MSK9/>?
+> Il $ABCD$ deve essere un quadrilaterale convesso con $\widehat{ABC} = 90^\circ$, $\widehat{BAD} = \widehat{ADC} = 80^\circ$. Il punto $M$ e il punto $N$ devono essere punti su $[AD]$ e $[BC]$ rispettivamente in modo tale che $\widehat{CDN} = \widehat{ABM} = 20^\circ$. Supponiamo inoltre che $MD = NB$. Che cos'è $\widehat{MNB}$?
 
 [[src_canimath_2018_automne__Q05]]

@@ -67,7 +67,7 @@ tags:
 
 *The last three letters of the 2002 sequence*
 
-> Using the letters A, B, C you make up the sequence formed by 2002 letters starting with A B C B A B C B A B C B B A B B B B B B B B B B B B B B A....... And he keeps repeating this block of letters. What are the last three letters?
+> Using the letters A, B, C you make up the sequence formed by 2002 letters starting with A B C B A B C B A B C B B A A....... And he keeps repeating this block of letters. What are the last three letters?
 >  
 > A. ABC B. BCB C. CBA D BAB
 >  

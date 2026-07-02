@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Inter n with the same remainder divided by 1059,1417,2312< MSK1/>
+*Inter n with the same remainder divided by 1059,1417,2312*
 
 > If you divide 1059, 1417 and 2312 by a certain integer greater than 1, you always get the same remainder. What's the number n?
 

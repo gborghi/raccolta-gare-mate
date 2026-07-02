@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conteggio delle ortografie di OLYMPIADS da tipografo poco affidabile< MSK1/>
+*Conteggio delle ortografie di OLYMPIADS da tipografo poco affidabile*
 
 > Un tipografo poco affidabile può garantire che quando cerca di digitare una parola con lettere diverse, ogni lettera della parola apparirà esattamente una volta in quello che digitano, e ogni lettera si verificherà al massimo una lettera in ritardo (anche se può verificarsi più di una lettera in anticipo). Pertanto, quando si tenta di digitare MATHS, il typista può digitare MATHS, MTAHS o TMASH, ma non ATMSH.
 > 

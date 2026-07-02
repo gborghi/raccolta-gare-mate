@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Face opposite in the folded cube< MSK1/>
+*Face opposite in the folded cube*
 
 ![[src_kangourou_2003_cadet__prob6.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Label edges of connected graph so gcd at each vertex equals 1< MSK1/>
+*Label edges of connected graph so gcd at each vertex equals 1*
 
 > Suppose $G$ is a connected graph with $k$ edges. Prove that it is possible to label the edges $1, 2, \ldots, k$ in such a way that at each vertex which belongs to two or more edges, the greatest common divisor of the integers labeling those edges is equal to $1$.
 > 

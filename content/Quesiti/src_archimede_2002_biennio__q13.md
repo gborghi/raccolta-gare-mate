@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Water level after cubic immersion in the tank< MSK1/>
+*Water level after cubic immersion in the tank*
 
 > In a parallel-piped tub with a 40 cm square side base, water is injected until a level of 30 cm is reached. Then a cube full of 20 centimeters is completely immersed in the tank. What's the water level now?
 >

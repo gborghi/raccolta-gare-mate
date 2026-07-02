@@ -51,6 +51,6 @@ tags:
 
 *finished whole solutions*
 
-> Let n < MSK0/>2 be an integer. Consider the solutions (a, b, c) of the system of equations (n = a + b −c n = a2 + b2 −c2, where a, b, c are integers. Demonstrate that there is at least one solution and that there are a finite number of solutions.
+> Let n ≥2 be an integer. Consider the solutions (a, b, c) of the system of equations (n = a + b −c n = a2 + b2 −c2, where a, b, c are integers. Demonstrate that there is at least one solution and that there are a finite number of solutions.
 
 [[src_cesenatico_2017__Q02]]

@@ -75,9 +75,9 @@ tags:
 > 
 > b) Indicare se è possibile disegnare un poligono semplice con lati $20$ e una linea che non contiene vertici e taglia i lati $20$ del poligono. Se possibile, mostralo con un disegno. Se no, spiegate il motivo.
 > 
-> c) Considerare un poligono semplice con lati < MSK0/>. Spiega perché non è possibile disegnare una linea che taglia esattamente $17$ i lati di questo poligono senza passare attraverso uno dei suoi vertici.
+> c) Considerare un poligono semplice con lati $21$. Spiega perché non è possibile disegnare una linea che taglia esattamente $17$ i lati di questo poligono senza passare attraverso uno dei suoi vertici.
 > 
-> d) Rendere uno schema di un poligono semplice con lati $21$ e linee $10$ in modo tale che queste linee non passino attraverso nessun vertice e il numero di lati tagliati da queste linee sia distinto.
+> d) Rendere uno sketch di un poligono semplice con lati $21$ e linee $10$ in modo tale che queste linee non passino attraverso nessun vertice e il numero di lati tagliati da queste linee sia distinto.
 
 ![[src_obm_2020_n1_fx__Q05.png]]
 

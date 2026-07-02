@@ -38,10 +38,6 @@ tags:
 > l’angolo acuto formato dalle sue diagonali misura 60 gradi. Detti O il punto di intersezione di tali 
 > diagonali ed E il piede della perpendicolare condotta dal vertice A alla diagonale BA’, il segmento 
 > OE misura 4√3 cm. Di quanti centimetri cubici è il volume del parallelepipedo? 
->  
->  
->  
-> 
 > 2
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]

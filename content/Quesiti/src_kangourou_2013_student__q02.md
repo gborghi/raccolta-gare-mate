@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rage of the circle inscribed in the regular octagon< MSK1/>
+*Rage of the circle inscribed in the regular octagon*
 
 ![[src_kangourou_2013_student__prob2.png]]
 

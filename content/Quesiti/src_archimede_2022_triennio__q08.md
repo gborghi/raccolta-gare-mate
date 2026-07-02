@@ -52,7 +52,7 @@ tags:
 
 *BAD angle with rim constructed on an isosceles triangle*
 
-> Externally to an ABC isosceles triangle (with AC = BC), a BCDE rhomboid is constructed, where $\widehat{CDE}$ = 96°. What is the width of the angle < MSK1/>?
+> Externally to an ABC isosceles triangle (with AC = BC), a BCDE rhomboid is constructed, where $\widehat{CDE}$ = 96°. What is the width of the angle $\widehat{BAD}$?
 >
 > - **(A)** 54°
 > - **(B)** 36°

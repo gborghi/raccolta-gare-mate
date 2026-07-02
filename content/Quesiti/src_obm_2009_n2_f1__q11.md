@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>5 carte bianche in coppie adiacenti; tutte possono essere fatte a lato nero? < MSK1/>
+*5 carte bianche in coppie adiacenti; tutte possono essere fatte a lato nero? *
 
 > Cinque carte identiche hanno ciascuno un lato bianco e un lato nero. Sono disposte in fila con il lato bianco rivolto verso l'alto. Una mossa consiste nel scegliere una coppia unica di carte adiacenti e girarle entrambe. Almeno quante mosse sono necessarie affinché tutte le carte finiscano con il lato nero rivolto verso l'alto?
 > 

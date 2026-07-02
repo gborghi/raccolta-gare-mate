@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Meno studenti che giocano all'hockey in condizioni di LCM in una classe inferiore a 30< MSK1/>
+*Meno studenti che giocano all'hockey in condizioni di LCM in una classe inferiore a 30*
 
 > Ci sono meno di 30 studenti nella classe di matematica di livello A. Una metà di loro suona il pianoforte, un quarto giocano all'hockey e un settimo sono nel gioco scolastico. Quanti studenti giocano a hockey?
 >

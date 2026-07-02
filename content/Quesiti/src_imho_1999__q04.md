@@ -55,7 +55,7 @@ tags:
 
 *Pairs of positive integers with divisibility condition involving prime*
 
-> Determine the pairs < MSK0/> of positive integers such that
+> Determine the pairs $(n, p)$ of positive integers such that
 > 
 > $p$ is a prime, $n$ not exceeded $2p$, and $(p-1)^n + 1$ is divisible by $n^{p-1}$.
 

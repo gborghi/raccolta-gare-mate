@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most integer value of (x^2+xy+y^2)/10 below 9999 < MSK1/>
+*Most integer value of (x^2+xy+y^2)/10 below 9999 *
 
 > Lake Albano Lorenzo Mazza Vlada and Matteo are in Rome and decide to take advantage of the beautiful day to cycle around the perimeter of Lake Albano. Vlada (After a long pedal ride) I'm so tired, how many meters have we walked? Matthew We traveled as many meters as the greatest integer value of the number x2 + xy + y2 10 obtained using positive integers x and y, and that is less than or equal to 9999. What number is it?
 

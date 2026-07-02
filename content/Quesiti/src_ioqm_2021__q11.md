@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>4 coppie sposate sedute a turno per sesso in un cerchio; nessun marito accanto alla moglie < MSK1/>
+*4 coppie sposate sedute a turno per sesso in un cerchio; nessun marito accanto alla moglie *
 
 > In quanti modi quattro coppie sposate possono sedersi in un giro con sedi identici in modo tale che uomini e donne occupino sedi alternativi e nessun marito si sedi accanto alla moglie?
 

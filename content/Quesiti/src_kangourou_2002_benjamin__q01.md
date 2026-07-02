@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-palindromic alignment < MSK1/>
+*Non-palindromic alignment *
 
 > 2002 is an alignment of numbers that provides the same number whether it is read from the right or the left. Which of the following number alignments does not have the same property?
 >  

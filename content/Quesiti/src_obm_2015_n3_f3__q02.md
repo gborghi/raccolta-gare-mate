@@ -60,6 +60,6 @@ tags:
 
 *La k più piccola, quindi ogni sottoinsieme di elementi 4n contiene k coppie {a,b} con b multiple di a*
 
-> Per esempio, < MSK0/>, < MSK1/>. Trovare il valore più grande di $k$ per il quale è corretto la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi ha almeno $k$ sottoinsiemi di due elementi $\{a, b\}$ con $a < b$ e $b$ un multiple di $a$.
+> Per esempio, $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Trovare il valore più grande di $k$ per il quale è corretto la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi ha almeno $k$ sottoinsiemi di due elementi $\{a, b\}$ con $a < b$ e $b$ un multiple di $a$.
 
 [[src_obm_2015_n3_f3__Q02]]

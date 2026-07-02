@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Third digit integers = five times the product of the digits< MSK1/>
+*Third digit integers = five times the product of the digits*
 
 > How many three-digit positive integers are equal to five times the product of their own digits? A) 1
 >   

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>ears of Trimi< MSK1/>
+*ears of Trimi*
 
 > Every inhabitant of a strange planet has some (possibly even more than two) ears. Three inhabitants, Imi, Dimi and Trimi, meet; no one else is present. He says, "I can see for eight hours". Tell me, I can see seven. Trimi says, "How strange! I can only see five. None of them can see their own ears, all of them see the ears of others, and all of them speak the truth. How many ears does Trimi have? A) 2
 > 	

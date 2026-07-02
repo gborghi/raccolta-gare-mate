@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many flavors are exhausted if the combinations match< MSK1/>
+*How many flavors are exhausted if the combinations match*
 
 > One morning, Anna bought a two-flavored ice cream from an ice cream maker who had 16 different flavors of ice cream for sale. Paola went to the same ice cream shop in the afternoon to get a 3-flavored ice cream, but several flavors had run out and she had to choose between the remaining ones. If the number of possible combinations for Anna's choice and Paola's choice were the same, how many flavors were exhausted in the afternoon? A) 2
 > 	

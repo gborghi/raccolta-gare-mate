@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> equal to or less than 4x, find n< MSK1/>
+* equal to or less than 4x, find n*
 
 > (6 points) Anna and Ernesto play as follows. On the table there are n covered cards numbered from 1 to n, where n is an even number. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. You know, the probability of Anna winning is four times the probability of Ernesto winning. How much is n? A) 6
 >  

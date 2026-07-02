@@ -57,6 +57,6 @@ tags:
 
 *a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma*
 
-> Per ogni intero rigorosamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali integri rigorosamente positivi < MSK7/> soddisfano < MSK8/>? b) Calcolare < MSK9/>.
+> Per ogni intero rigorosamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali integri rigorosamente positivi $n$ soddisfano $a_n = 0$? b) Calcolare $a_1 + a_2 + \cdots + a_{2005}$.
 
 [[src_canimath_2017_automne__Q02]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>value first day< MSK1/>
+*value first day*
 
 > In Britain, wild boars are scarce, and so Borelix had to go on a diet: he eats one boar a day more than two-thirds of the number of boars he had eaten the day before. Knowing that on the ninth day of his stay on the island he eats only 259 boars, how many had he eaten on the first day?
 

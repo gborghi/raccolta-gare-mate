@@ -62,8 +62,8 @@ tags:
 
 > Considera la sequenza $a_n = \sum_{k=1}^{n} \frac{k}{n^2}$ per $n \geq 1$.
 > 
-> a) Determinare < MSK0/>.
+> a) Determinare $\lim_{n \to \infty} a_n$.
 > 
-> b) Determinare < MSK0/>.
+> b) Determinare $\lim_{n \to \infty} \left(\frac{2^n(2 - a_n)}{n+1}\right)^{n+1}$.
 
 [[src_obm_2017_n1_f1__Q02]]

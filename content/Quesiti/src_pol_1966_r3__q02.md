@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Soluzione in numeri interi < MSK0/> < MSK2/>
+*Soluzione in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$ *
 
 > Risolvere in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
 

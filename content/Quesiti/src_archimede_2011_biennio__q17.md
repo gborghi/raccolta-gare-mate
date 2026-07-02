@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum radius of circle with three vertices of the same colour< MSK1/>
+*Minimum radius of circle with three vertices of the same colour*
 
 > Knowing that the equation ax2 −bx + c = 0, with a > 1, has two positive solutions narrowly less than 1, we can safely say that:
 >

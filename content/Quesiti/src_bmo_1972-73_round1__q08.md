@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Matrice di compagnia di una mappa Mobius; prodotto e condizioni per T^n = I< MSK1/>
+*Matrice di compagnia di una mappa Mobius; prodotto e condizioni per T^n = I*
 
 > Chiamare la matrice di accompagnamento per la mappatura $M_p = \begin{pmatrix} a_p & b_p \\ c_p & d_p \end{pmatrix}$. $\det M_p \ne 0$.
 > 

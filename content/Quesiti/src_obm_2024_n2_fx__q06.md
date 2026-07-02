@@ -56,6 +56,6 @@ tags:
 
 *Perpendicolarità che si traduce in triangolo di isosceles con configurazione ceviana speciale*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = BC$. Il $D$ deve essere un punto sul segmento $AB$, $E$ un punto sul segmento $BC$ e $P$ un punto sul segmento $DE$ in modo tale che $AD = DP$ e $CE = PE$. < MSK10/> deve essere il punto medio di < MSK11/>. La linea parallela a $AB$ attraverso $M$ si interseca a $AC$ a $X$, e la linea parallela a $BC$ attraverso $M$ si interseca a $Y$. Le linee $DX$ e $EY$ si incrociano a $F$. Prove che $FP$ è perpendicolare a $DE$.
+> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = BC$. Il $D$ deve essere un punto del segmento $AB$, $E$ un punto del segmento $BC$ e $P$ un punto del segmento $DE$ in modo tale che $AD = DP$ e $CE = PE$. $M$ deve essere il punto medio di $DE$. La linea parallela a $AB$ attraverso $M$ si interseca a $AC$ a $X$, e la linea parallela a $BC$ attraverso $M$ si interseca a $Y$. Le linee $DX$ e $EY$ si incrociano a $F$. Prove che $FP$ è perpendicolare a $DE$.
 
 [[src_obm_2024_n2_fx__Q06]]

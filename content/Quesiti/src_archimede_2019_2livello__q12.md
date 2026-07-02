@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Chess tournament, matches, final zeros of n < MSK1/>
+*Chess tournament, matches, final zeros of n *
 
 > Two schools compete in a chess tournament with 75 pupils each: 75 matches are organised in which all pupils play one-on-one (one member of the first school versus one of the second) under the control of an external referee. Each school counts its students from 1 to 75, and the referee sets the rule that two boys cannot clash if the difference between their numbers is a multiple of 3. If n is the number of possible couplings that satisfy this rule, how many zeros does n end with?
 >

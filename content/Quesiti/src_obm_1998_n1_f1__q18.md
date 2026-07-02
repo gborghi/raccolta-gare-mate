@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z < MSK1/>
+*Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z *
 
 > Sul pianeta Z, ogni abitante ha $3$ gambe e ogni macchina ha $5$ ruote. In una piccola città di questo pianeta, ci sono in totale $97$ gambe e ruote. Possiamo quindi affermare:
 >

@@ -52,7 +52,7 @@ tags:
 
 *Filma di trasparenza del 70% sul vetro del 90%: riduzione totale delle radiazioni*
 
-> I film < MSK0/> sono utilizzati sulle finestre edili e sul vetro dei veicoli per ridurre la radiazione solare. I film sono classificati in base al grado di trasparenza, cioè alla percentuale di radiazioni solari che trasmettono. Mettendo un film di trasparenza $70\%$ su un vetro con trasparenza $90\%$, si ottiene un $\textbf{reduction}$ di radiazioni solari uguale a: A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
+> I film $Insulfilm$ sono utilizzati sulle finestre edili e sul vetro dei veicoli per ridurre la radiazione solare. I film sono classificati in base al grado di trasparenza, cioè alla percentuale di radiazioni solari che trasmettono. Mettendo un film di trasparenza $70\%$ su un vetro con trasparenza $90\%$, si ottiene un $\textbf{reduction}$ di radiazioni solari uguale a: A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
 
 **Risposta:** B
 [[src_obm_2005_n2_f1__Q02]]

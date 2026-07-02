@@ -64,7 +64,7 @@ tags:
 
 > Le lettere $O$, $B$, $M$ rappresentano numeri interi positivi utilizzati come esponenti, come $$2^O + 2^B + 2^M = 24.$$ a) In un caso in cui $O$, $B$ e $M$ rappresentano lo stesso numero, quale è quel numero?
 > 
-> b) Indicare che < MSK0/> non può essere uguale a < MSK1/>.
+> b) Indicare che $O$ non può essere uguale a $1$.
 > 
 > c) In un caso in cui $O$ è doppio di $M$, qual è il valore di $B$?
 

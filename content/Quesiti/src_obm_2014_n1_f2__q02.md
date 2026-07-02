@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Dieci bambini in fila; scambi minimi di vicini per spostare la posizione più alta alla posizione più corta< MSK1/>
+*Dieci bambini in fila; scambi minimi di vicini per spostare la posizione più alta alla posizione più corta*
 
 > Dieci bambini formano una linea dalla più corta alla più alta. È noto che in questa linea non ci sono due bambini della stessa altezza. Con qualche movimento, il bambino più alto si muove nella posizione del più corto, usando solo scambi tra bambini vicini. Qual è il numero minimo di scambi di posizioni da effettuare?
 

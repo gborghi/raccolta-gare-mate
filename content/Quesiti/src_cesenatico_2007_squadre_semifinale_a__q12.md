@@ -47,8 +47,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>99-th root of the product dividers of 2^10< MSK1/>3^8< MSK2/>
+*99-th root of the product dividers of 2^10*3^8*
 
-> The brilliant Sekante has only one dream: when he becomes Grandin he will build himself a magnificent throne. He has even completed the project, he just has to decide exactly what the shape of the garden will be, but he knows it will be triangular, and it will have an angle of 30°, the opposite side of 57 mat-ken and another side of 75 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
+> The brilliant Sekante has only one dream: when he becomes Grandin he will build himself a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 57 mat-ken and another side of 75 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
 
 [[src_cesenatico_2007_squadre_semifinale_a__Q12]]

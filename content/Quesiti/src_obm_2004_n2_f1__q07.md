@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Differenza p-q tra probabilità di caramelle di sapore uguale e di sapore diverso< MSK1/>
+*Differenza p-q tra probabilità di caramelle di sapore uguale e di sapore diverso*
 
 > Ci sono 1002 caramelle di banana e 1002 caramelle di mele in una scatola. Lara prende, senza vedere, due caramelle dalla scatola. La probabilità che le due caramelle abbiano lo stesso sapore è $p$ e la probabilità che le caramelle abbiano sapori diversi è $q$ Qual è la differenza tra $p$ e $q$?
 > 

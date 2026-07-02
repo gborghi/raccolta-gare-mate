@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Who and Barbara given the objects owned< MSK1/>
+*Who and Barbara given the objects owned*
 
 > Samuel invited some friends to his home at 3:45 p.m. Julia arrived 25 minutes late, Gino arrived a quarter of an hour ahead of Julia. What time did Gino arrive? A) 15:05                B) 15:30              C) 15:55               D) 16:05             E) 16:20
 

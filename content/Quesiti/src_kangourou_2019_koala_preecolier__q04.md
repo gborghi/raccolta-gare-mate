@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pairs of socks with the same number< MSK1/>
+*How many pairs of socks with the same number*
 
 ![[src_kangourou_2019_koala_preecolier__prob4.png]]
 

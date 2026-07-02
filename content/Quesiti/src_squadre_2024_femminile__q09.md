@@ -49,6 +49,6 @@ tags:
 
 *The last four digits of c_2024 with three consecutive concatenations*
 
-> The design by Fuzzy [⋆] Inspector Giuseppe Fuzzy, MontyHallbano's collaborator, draws an isosceles ABC triangle in A. It then takes the D and E points respectively on the AC and AB sides such that DE is parallel to BC. The intersection between the BD and EC segments shows that \ BPC = < MSK0/>. It is also known that the circumferences in the quadrilateral ADPE and the triangle BPC have congruent radii and that the height of the triangle ABC relative to the vertex A is 1200. He then asks Commissioner MontyHallbano: How big is the AC side?
+> The design by Fuzzy [⋆] Inspector Giuseppe Fuzzy, MontyHallbano's collaborator, draws an isosceles ABC triangle in A. It then takes the D and E points respectively on the AC and AB sides such that DE is parallel to BC. The intersection between the BD and EC segments shows that \ BPC = 60°. It is also known that the circumferences in the quadrilateral ADPE and the triangle BPC have congruent radii and that the height of the triangle ABC relative to the vertex A is 1200. He then asks Commissioner MontyHallbano: How big is the AC side?
 
 [[src_squadre_2024_femminile__Q09]]

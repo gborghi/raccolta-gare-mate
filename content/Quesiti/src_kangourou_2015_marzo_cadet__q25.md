@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min pieces per cubic inch < MSK1/>
+*min pieces per cubic inch *
 
 ![[src_kangourou_2015_marzo_cadet__prob25.png]]
 

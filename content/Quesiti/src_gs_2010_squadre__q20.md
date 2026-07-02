@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Counting minor p/2 coatings with Eulero< MSK1/>
+*Counting minor p/2 coatings with Eulero*
 
 > **Paper stars, II** (points 60)
 > 

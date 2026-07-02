@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>b-a first, unit number of a+b = 3, ab squared< MSK1/>
+*b-a first, unit number of a+b = 3, ab squared*
 
 > Determine all pairs (a, b) of positive integers that satisfy the following three conditions: • b > a and b −a is a prime number, • the unit number of a + b is 3, • ab is the square of an integer.
 

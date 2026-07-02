@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Product current age Gianni and Lisa< MSK1/>
+Product current age Gianni and Lisa*
 
 > Gianni and Lisa Gianni is two years older than Lisa. This year the product of their ages (in years) is the product of the ages of last year, increased by 27. Write the product of the current two ages.
 

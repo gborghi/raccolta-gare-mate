@@ -58,9 +58,9 @@ tags:
 
 *Litr di acqua evaporata che riduce il contenuto di acqua di pera dal 90% al 60%*
 
-> Una pera ha circa $90\%$ acqua e $10\%$ materia solida. Un produttore mette $100$ chilogrammi di pere a secco fino a che la massa totale è $60\%$ acqua. Quanti litri di acqua evaporeranno? (Ricorda: < MSK4/> litro di acqua ha massa < MSK5/> chilogrammo.)
+> Una pera ha circa $90\%$ acqua e $10\%$ materia solida. Un produttore mette $100$ chilogrammi di pere a secco fino a che la massa totale è $60\%$ acqua. Quanti litri di acqua evaporeranno? (Ricorda: $1$ litro di acqua ha massa $1$ chilogrammo.)
 > 
-> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$ litri
+> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
 
 **Risposta:** C
 [[src_obm_2001_n2_f1__Q04]]

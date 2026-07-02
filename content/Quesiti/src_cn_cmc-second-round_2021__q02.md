@@ -50,7 +50,7 @@ tags:
 
 *Geometria del cerchio: prova angolo BCQ uguale angolo BAC*
 
-> (Test paper A, problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente del circoncircolo di $\triangle ABC$ al punto $A$, che soddisfano $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. Il cerchio che attraversa i punti $A$, $B$, $E$ incrocia il lato $AC$ al punto $P$. Il cerchio che attraversa i punti $A$, $D$, $P$ interseca l'estensione di $DM$ al punto $Q$. Provare che < MSK20/>.
+> (Test paper A, problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente del circoncircolo di $\triangle ABC$ al punto $A$, che soddisfano $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. Il cerchio che attraversa i punti $A$, $B$, $E$ incrocia il lato $AC$ al punto $P$. Il cerchio che attraversa i punti $A$, $D$, $P$ interseca l'estensione di $DM$ al punto $Q$. Provare che $\angle BCQ = \angle BAC$.
 
 ![[src_cn_cmc-second-round_2021__Q02.png]]
 

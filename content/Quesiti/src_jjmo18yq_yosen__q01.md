@@ -54,7 +54,7 @@ tags:
 
 *Ratio AB/AC in triangolo rettangolo con etichette quadrate e di superficie *
 
-> Nel triangolo rettangolo $ABC$, è inserito un quadrato come mostrato nella figura. I tre numeri scritti all'interno della figura rappresentano le aree dei tre triangoli rettangolari formati dai lati del quadrato. Trova < MSK1/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo rettangolo $ABC$, è inserito un quadrato come mostrato nella figura. I tre numeri scritti all'interno della figura rappresentano le aree dei tre triangoli rettangolari formati dai lati del quadrato. Trova $\dfrac{AB}{AC}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jjmo18yq_yosen__Q01.png]]
 

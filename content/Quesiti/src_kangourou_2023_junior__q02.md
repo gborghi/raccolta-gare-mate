@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which day between 2023 days< MSK1/>
+*which day between 2023 days*
 
 > Today is Thursday. What day will it be in 2023 days? A) Tuesday. (b) Wednesday. (c) Thursday. D) Friday. E) Saturday.
 

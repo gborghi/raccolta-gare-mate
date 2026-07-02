@@ -66,6 +66,6 @@ tags:
 > 
 > a) Se $AB = CD = 5$, $BC = 8$ e $EF = 3$, qual è il perimetro dell'esagono $ABCDEF$?
 > 
-> b) Se < MSK0/>, < MSK1/>, < MSK2/> e < MSK3/>, qual è il valore di < MSK4/>?
+> b) Se $PQ = 3$, $QR = 4$, $RS = 5$ e $TU = 1$, qual è il valore di $ST + PU$?
 
 [[src_obm_2012_n1_f3__Q02]]

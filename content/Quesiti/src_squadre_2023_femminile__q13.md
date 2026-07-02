@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of product of first two < 40 plus one square< MSK1/>
+*Probability of product of first two < 40 plus one square*
 
 > Vector's square house [⋆⋆] Vector's house is built around the pool where his shark lives: it is an ABC triangle with AB = 20m, AC = 23m and BC = 29m. On the BC side the square BCC1B2 is constructed, in the same part of the plane in which the triangle is located. Similarly, CAA1C2 and ABB1A2 are built. The sides of these three squares form the walls of the house. The air conditioning ducts are B1B2 and C1C2; they intersect A1A2, respectively, in P and Q. The line for P perpendicular to AB and the line for Q perpendicular to AC meet in X, the central air intake, from which Krull will have to descend without being seen by Vector. The AX corridor, which passes over the pool, intersects the circumference circumscribed at ABC again in Y (which is finally the exit!). Determine AX ·XY in m2. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms. 2023 Team Competition  National Final  Problem Tests  2/3
 

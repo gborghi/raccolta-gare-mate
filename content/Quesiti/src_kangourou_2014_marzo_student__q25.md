@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max <=100 distinct whole with product not divided by 54 < MSK1/>
+*Max <=100 distinct whole with product not divided by 54 *
 
 > Thomas wants to choose positive integers, all different from each other and all not greater than 100, so that their product is not divisible by 54. How many numbers can he pick at most? A) 8
 > 	

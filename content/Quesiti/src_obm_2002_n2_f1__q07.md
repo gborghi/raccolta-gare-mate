@@ -60,7 +60,7 @@ tags:
 
 Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 
-> Marcelo ci vuole esattamente $20$ minuti a piedi da casa sua alla scuola. Un giorno, mentre camminava, notò la rivista Eureka! Se continuava a camminare arrivava a scuola < MSK1/> minuti dopo l'ora in cui normalmente parte, e se tornava a prendere la rivista allo stesso ritmo, arrivava a scuola < MSK2/> minuti tardi. Quale frazione del sentiero aveva percorso Marcelo in quel momento?
+> Marcelo ci vuole esattamente $20$ minuti a piedi da casa sua alla scuola. Un giorno, mentre camminava, notò la rivista Eureka! Se continuava a camminare arrivava a scuola $8$ minuti dopo l'ora di partenza e se tornava a prendere la rivista allo stesso ritmo, arrivava a scuola $10$ minuti in ritardo. Quale frazione del sentiero aveva percorso Marcelo in quel momento?
 >
 > - **(A)** $\dfrac{2}{5}$
 > - **(B)** $\dfrac{9}{20}$

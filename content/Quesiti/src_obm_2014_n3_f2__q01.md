@@ -54,7 +54,7 @@ tags:
 
 *Ratio EG/GD in triangolo equilaterale con punti di trisezione*
 
-> Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Il rapporto $\frac{EG}{GD}$ può essere scritto nella forma $\frac{m}{n}$ con $\gcd(m,n) = 1$. Qual è il valore di < MSK5/>?
+> Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Il rapporto $\frac{EG}{GD}$ può essere scritto nella forma $\frac{m}{n}$ con $\gcd(m,n) = 1$. Qual è il valore di $m + n$?
 
 ![[src_obm_2014_n3_f2__Q01.png]]
 

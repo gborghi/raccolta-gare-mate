@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Couples m,n with mn=25! a reduced fraction of less than 1*
+* Couples m,n with mn=25! a reduced fraction of less than 1*
 
 > How many pairs of positive integers (m, n) are such that the fraction m n is reduced to the minimum terms and strictly less than 1, and that the product mn is equal to 1 · 2 · 3 · 24 · 25 (or the product of the first 25 positive integers)?
 >

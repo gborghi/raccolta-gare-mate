@@ -97,7 +97,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Esercizio 3 (traccia generale senza specialità matematica, e tutta la traccia tecnologica): Piramide di Pascal di differenze assolute  costruzione, conteggio di entrate, piramidi perfette, e dove la più grande entrata deve essere attraverso un argomento di percorso più grande vicino.*
+*Esercizio 3 (traccia generale senza specialità matematica, e tutta la traccia tecnologica): Piramide di Pascal di differenze assolute  costruzione, conteggio delle entrate, piramidi perfette, e dove la più grande entrata deve essere attraverso un argomento di percorso più grande vicino.*
 
 > **Esercizio 3 (candidati della pista generale NON seguendo l'opzione  spé maths  E TUTTI i candidati della pista tecnologica) **
 > 
@@ -109,19 +109,19 @@ tags:
 > 
 > **2. Alcuni esempi.**
 > 
-> **a.** Costruire la piramide Pascal con linee $4$ la cui ultima linea è costituita, in questo ordine di esposizione, dai numeri interi $4,\ 3,\ 9$ e $7$ ($4$ si trova quindi all'estrema sinistra e $7$ all'estrema destra).
+> **a.** Costruire la piramide Pascal con linee $4$ la cui ultima linea è costituita, in questo ordine di esposizione, dai numeri interi $4,\ 3,\ 9$ e $7$ ($4$ è quindi all'estrema sinistra e $7$ all'estrema destra).
 > 
-> **b.** Costruire una piramide Pascal con linee $3$ utilizzando esclusivamente gli integri $1$, $2$, $3$.
+> **b.** Costruire una piramide di Pascal con linee $3$ utilizzando esclusivamente gli integri $1$, $2$, $3$.
 > 
 > **3. Numero di integri in una piramide di Pascal.**
 > 
 > **a.** Quanti numeri (distinti o meno) sono scritti in una piramide Pascal con linee $3$? Con linee $4$?
 > 
-> < MSK2/>b.< MSK3/> Lasciate < MSK0/>. Quanti numeri (distinti o meno) sono scritti in una piramide di Pascal con linee $n$?
+> **b.** Lasciate $n\ge 2$. Quanti numeri (distinti o meno) sono scritti in una piramide di Pascal con linee $n$?
 > 
-> In quanto segue, diciamo che una piramide di Pascal è perfetta se contiene esattamente una volta ciascuno degli enti tra MSK0 e il numero totale di enti del triangolo. Ad esempio, la piramide Pascal con linee $3$ che hanno $2$ in alto, linea media $3$ $5$ e linea base $4$ $1$ $6$ è perfetta.*
+> In quanto segue, diciamo che una piramide di Pascal è perfetta se contiene esattamente una volta ciascuno dei numeri interi tra$1$e il numero totale di numeri interi del triangolo. Ad esempio, la piramide Pascal con le linee $3$ che hanno $2$, la linea media $3$ $5$ e la linea base $4$ $1$ $6$ è perfetta.
 > 
-> < MSK2/>4. < MSK3/> Lasciate < MSK0/>. Mostrare che se esiste una piramide perfetta con linee $n$, il numero intero più grande che possiede si trova sulla linea inferiore. Qual è questo numero intero?
+> **4. ** Lasciate $n\ge 2$. Mostrare che se esiste una piramide perfetta con linee $n$, il numero intero più grande che possiede si trova sulla linea inferiore. Qual è questo numero intero?
 > 
 > **5.** Costruire una piramide Pascal perfetta con linee $3$ in cui il numero $6$ sia situato in basso e in mezzo.
 > 
@@ -129,7 +129,7 @@ tags:
 > 
 > **a.** giustificare che sia sufficiente a dimostrare che non può essere situato in fondo a destra. Supponiamo, in quanto segue, che il numero $n(n+1)/2$ sia situato in basso a destra.
 > 
-> **b.** Considera quindi il percorso che parte dalla cima della piramide e scende progressivamente, collegando il numero raggiunto su ogni linea al più grande dei due numeri della linea inferiore situato a sinistra e a destra. Nell'esempio di cui sopra la domanda 4 questo percorso sarebbe $2\to 5\to 6$. Mostrare che, nel caso generale, questo percorso può seguire solo il bordo destro della piramide e terminare a $n(n+1)/2$.
+> **b.** Considera quindi il percorso che parte dalla cima della piramide e scende progressivamente, collegando il numero raggiunto su ciascuna linea al più grande dei due numeri della linea inferiore situata a sinistra e a destra. Nell'esempio di cui sopra la domanda 4 questo percorso sarebbe $2\to 5\to 6$. Mostrare che, nel caso generale, questo percorso può seguire solo il bordo destro della piramide e terminare a $n(n+1)/2$.
 > 
 > **c.** Concludi considerando il triangolo equilaterale la cui base inferiore è composta dai numeri $n-2$ più a sinistra dell'ultima linea.
 

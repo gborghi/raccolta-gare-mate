@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which platonic solid has an eulerian path< MSK1/>
+*Which platonic solid has an eulerian path*
 
 ![[src_archimede_1997_triennio__prob25.png]]
 

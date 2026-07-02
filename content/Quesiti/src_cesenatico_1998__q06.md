@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Increasing multiplication function f(n)=n< MSK1/>
+*Increasing multiplication function f(n)=n*
 
 > Whether $f$ is a function defined in the set of positive integers to positive integers. Let's say that: - $f$ is *increasing* if $n < m$ implies $f(n) < f(m)$ - $f$ is * multiplied* if $\text{MCD}(m, n) = 1$ implies $f(nm) = f(n) \cdot f(m)$ - $f$ is * completely multiplied* if $f(nm) = f(n) \cdot f(m)$ for each $n, m$.
 > 

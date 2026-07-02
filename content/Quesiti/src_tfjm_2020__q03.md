@@ -94,9 +94,9 @@ tags:
 > 
 > Data la distribuzione delle parti della pizza, indichiamo con $g_{\max}$ il più grande guadagno che Lily possa garantire con certezza, qualunque sia il modo di giocare di Hadrien.
 > 
-> Tuttavia, a volte decide di pensare meno e di giocare in questo modo: prende la parte più pesante alla prima curva, poi ad ogni passo prende la parte più pesante delle due parti che può prendere; in caso di pareggio può scegliere la parte che desidera. Il guadagno massimo che può garantire seguendo queste regole è indicato come $g_{\text{glouton}}$. In particolare, $g_{\max} \ge g_{\text{glouton}}$.
+> Tuttavia, a volte decide di pensare di meno e di giocare nel modo seguente: prende la parte più pesante alla prima curva, poi ad ogni passo prende la parte più pesante delle (al massimo due) parti che può prendere; in caso di pareggio può scegliere la parte che desidera. Il guadagno massimo che può garantire seguendo queste regole è indicato come $g_{\text{glouton}}$. In particolare, $g_{\max} \ge g_{\text{glouton}}$.
 > 
-> < MSK2/>1.< MSK3/> Quando < MSK0/>, quali sono i valori possibili di < MSK1/>?
+> **1.** Quando $n = 2, 3, 4, 5$, quali sono i valori possibili di $g_{\max}$?
 > 
 > **2.** Per quali integri $n$ si può avere $g_{\max} > g_{\text{glouton}}$, vale a dire, esiste una strategia strettamente migliore di qualsiasi strategia avida?
 > 
@@ -106,9 +106,9 @@ tags:
 > 
 > D'ora in poi, Lily e Hadrien giocano su un brownie quadrato tagliato in parti quadrate. Iniziamo studiando il caso in cui le parti $n$ sono gratuite.
 > 
-> < MSK3/>5. < MSK4/> Le candele sono ora posizionate una per ogni parte (nel caso in cui < MSK0/> sia imparato, devono esserci < MSK1/> o < MSK2/> candele). Quante parti contenenti candele può Lily assicurarsi di ottenere?
+> **5. ** Le candele sono ora posizionate una per ogni parte (nel caso in cui $n$ sia imparato, devono esserci $\left\lceil \frac{n^2}{2} \right\rceil$ o $\left\lfloor \frac{n^2}{2} \right\rfloor$ candele). Quante parti contenenti candele può Lily assicurarsi di ottenere?
 > 
-> **6. ** Hadrien ha le candele $k$, con $k \le n^2$, e vengono posizionate dove vuole prima dell'inizio della partita. Secondo i valori di $k$ e $n$, quante parti contenenti candele può Lily garantire di ottenere?
+> **6. ** Hadrien ha le candele $k$, con $k \le n^2$, e vengono posizionate dove desidera prima dell'inizio della partita. Secondo i valori di $k$ e $n$, quante parti contenenti candele può Lily garantire di ottenere?
 > 
 > **7.** Proporre e studiare altre vie di ricerca.
 

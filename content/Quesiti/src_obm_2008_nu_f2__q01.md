@@ -61,7 +61,7 @@ tags:
 
 *Equazione integrale che implica due punti derivati uguali*
 
-> Lasciate che il < MSK0/> sia crescente, differenziabile e invertibile.
+> Lasciate che il $f:[0,1]\to[0,1]$ sia crescente, differenziabile e invertibile.
 > 
 > Se $\displaystyle\int_0^1 f(x)\,dx = \int_0^1 f^{-1}(x)\,dx$, dimostrare che esistono due valori reali distinti $a,b$ con $0\le a < b \le 1$ tali che $f'(a)=f'(b)=1$.
 > 

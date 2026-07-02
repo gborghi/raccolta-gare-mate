@@ -54,6 +54,6 @@ tags:
 
 *Numero a cinque cifre xy26z divisibile per 8, 9 e 11; trovare x*
 
-> Il numero a cinque cifre $\overline{xy26z}$, in cui ciascuna delle lettere rappresenta una cifra, è divisibile da $8$, $9$ e $11$. Qual è il valore di < MSK4/>? (A) $3$ (B) $5$ (C) $1$ (D) $4$ (E) $9$
+> Il numero a cinque cifre $\overline{xy26z}$, in cui ciascuna delle lettere rappresenta una cifra, è divisibile da $8$, $9$ e $11$. Qual è il valore di $x$? (A) $3$ (B) $5$ (C) $1$ (D) $4$ (E) $9$
 
 [[src_obm_2014_n3_f1__Q07]]

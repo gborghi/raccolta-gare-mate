@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number closest to 2,015 x 510.2 < MSK1/>
+*Number closest to 2,015 x 510.2 *
 
 > Which of the following numbers is closest to the product 2,015 x 510,2? A) 0,1 B) 1
 > 	

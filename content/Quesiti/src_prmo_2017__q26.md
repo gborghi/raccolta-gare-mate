@@ -46,8 +46,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Ricerca m+n+k per l'area tra due accordi paralleli AB=6, CD=8 nel raggio di circolo 5*
+*Ricerca m+n+k per l'area tra due accordi paralleli AB=6, CD=8 in raggio circolare 5*
 
-> Lasciate che $AB$ e $CD$ siano due accordi paralleli in un cerchio con raggio 5 in modo tale che il centro $O$ si trovi tra questi accordi. Supponiamo $AB = 6$, $CD = 8$. Supponiamo inoltre che l'area della parte del cerchio che si trova tra gli accordi $AB$ e $CD$ sia $\frac{m\pi + n}{k}$, dove $m, n, k$ sono interi positivi con $\gcd(m, n, k) = 1$. Qual è il valore di < MSK10/>?
+> Lasciate che $AB$ e $CD$ siano due accordi paralleli in un cerchio con raggio 5 in modo tale che il centro $O$ sia tra questi accordi. Supponiamo $AB = 6$, $CD = 8$. Supponiamo inoltre che l'area della parte del cerchio che si trova tra gli accordi $AB$ e $CD$ sia $\frac{m\pi + n}{k}$, dove $m, n, k$ sono interi positivi con $\gcd(m, n, k) = 1$. Qual è il valore di $m + n + k$?
 
 [[src_prmo_2017__Q26]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di pieghe per ottenere più di 100 fori quando si svolgono< MSK1/>
+*Minimum di pieghe per ottenere più di 100 fori quando si svolgono*
 
 > Carlitos fa un buco in un foglio di carta rettangolare. Si piega il foglio a metà e fa un buco; poi si piega di nuovo il foglio già piegato a metà e fa un buco. Può ripetere questa procedura tutte le volte che vuole, evitando sempre di colpire dove ci sono già buchi. Quando si apre il foglio, viene contato il numero totale di buchi. Quante pieghe deve fare almeno per ottenere più di 100 buchi nel foglio?
 

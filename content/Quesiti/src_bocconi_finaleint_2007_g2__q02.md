@@ -56,7 +56,7 @@ tags:
 
 *Tri-digit number with sum of 18 and relations between the digits*
 
-> A number is made up of three digits. Its added three digits give < MSK0/>. The sum of the first two digits is twice the sum of the third, and half of the second is equal to one third of the first.
+> A number is made up of three digits. Its added three digits give $18$. The sum of the first two digits is twice the sum of the third, and half of the second is equal to one third of the first.
 > 
 > What is this number?
 

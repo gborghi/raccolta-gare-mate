@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Within days Franco will see you (mcm 13 and 7) < MSK1/>
+* Within days Franco will see you (mcm 13 and 7) *
 
 > Loretta goes to an outpatient clinic every 13 days for treatment. On Thursdays, and only on Thursdays, Franco, Loretta's favourite nurse, serves in the ambulatory. Knowing that today, Thursday, Loretta went to the hospital, in how many days will she see Franco?
 >

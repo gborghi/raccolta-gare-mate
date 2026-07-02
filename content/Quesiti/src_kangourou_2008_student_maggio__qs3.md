@@ -43,9 +43,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n whole with sum = product for each n>1< MSK1/>
+*n whole with sum = product for each n>1*
 
-> < MSK2/>(11 points) < MSK3/> Can we find, for each < MSK0/>, < MSK1/> non-zero natural integers for which the sum is equal to the product?
+> *(11 points) * Can we find, for each $n > 1$, $n$ non-zero natural integers for which the sum is equal to the product?
 
 **Answer:** si
 [[src_kangourou_2008_student_maggio__QS3]]

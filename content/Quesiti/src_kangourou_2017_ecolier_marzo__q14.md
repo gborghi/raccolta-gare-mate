@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum minutes to cook 5 dishes on two ovens< MSK1/>
+*Minimum minutes to cook 5 dishes on two ovens*
 
 > David wants to cook five dishes and has only two ovens. Each meal has a different cooking time: 40, 15, 35, 10 and 45 minutes. What is the minimum number of minutes David needs to finish the job? Note that David cannot take a living thing out of the fire unless the whole time of cooking has been spent. A) 60
 > 	

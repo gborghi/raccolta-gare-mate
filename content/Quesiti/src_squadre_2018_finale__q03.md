@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of N with such sequence that N^a0=sum of N^ai< MSK1/>
+*Sum of N with such sequence that N^a0=sum of N^ai*
 
 > Beuler gives the numbers [⋆] The Beuler robot went into tilt because of a magnet, and it literally started to give the numbers! The Professor. Fredholm observes that the numbers listed by Beuler are all and only positive integers N for which there is a sequence of nonnegative integers a0,a1,...,a2019 such that Na0 = Na1 +Na2 +··+Na2019 What is the sum of all numbers listed by Beuler?
 

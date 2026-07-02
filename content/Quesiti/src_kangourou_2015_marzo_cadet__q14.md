@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> of how many cm rises the pool level< MSK1/>
+* of how many cm rises the pool level*
 
 > During a storm, 15 litres of water per square meter fell. How many centimetres has the water level of an outdoor pool risen? A) 150 B) 0,15 C) 15
 > 	

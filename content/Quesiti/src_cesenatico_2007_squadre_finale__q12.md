@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum minutes with possibility of rapid doubling< MSK1/>
+*Minimum minutes with possibility of rapid doubling*
 
 > Race against time Numeruto must run to save his companion Otenusa, prisoner to 265 mat-cho from him. Numeruto can decide, from the start, whether to continue running or spend a minute to summon a spirit that doubles his speed, but between one invocation and the other he must travel at least 1 mat-cho. If its initial speed is 1 matcho per minute, how many minutes will it take to get from Otenusa? Give as a solution the numerator of the fraction reduced to the minimum terms.
 

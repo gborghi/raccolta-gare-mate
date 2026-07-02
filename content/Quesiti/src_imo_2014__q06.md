@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coloring straight roots without blue region< MSK1/>
+*Coloring straight roots without blue region*
 
 > A set of lines in the plane is in ** general position** if no pair is parallel and no tern passes through the same point. A set of lines in general position divides the plan into regions, some of which have finite area; these regions are called **finite regions**. Demonstrate that for all $n$ sufficiently large, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ lines in blue so that no finite region has an entirely blue edge.
 > 

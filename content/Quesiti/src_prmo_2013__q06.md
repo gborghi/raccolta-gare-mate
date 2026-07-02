@@ -52,6 +52,6 @@ tags:
 
 *Ricerca S(5N+2013) dove N è il numero intero positivo più piccolo con somma digitale 2013*
 
-> $S(M)$ indichi la somma delle cifre di un intero positivo $M$ scritto nella base 10. $N$ sia il numero intero positivo più piccolo tale che $S(N) = 2013$. Qual è il valore di < MSK4/>?
+> $S(M)$ indichi la somma delle cifre di un intero positivo $M$ scritto nella base 10. $N$ sia il numero intero positivo più piccolo tale che $S(N) = 2013$. Qual è il valore di $S(5N + 2013)$?
 
 [[src_prmo_2013__Q06]]

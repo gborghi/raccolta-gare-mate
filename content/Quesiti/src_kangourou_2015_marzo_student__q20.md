@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>face indicated< MSK1/>
+*face indicated*
 
 ![[src_kangourou_2015_marzo_student__prob20.png]]
 

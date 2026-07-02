@@ -57,10 +57,6 @@ tags:
 > altri due. Quante “V con vertice assegnato” si riescono ad 
 > individuare in un insieme di 7 punti, 6 dei quali siano i vertici di 
 > un esagono regolare e il settimo sia il centro dello stesso esagono?
->  
->  
->  
->  
 > A. 6  
 > B. 18  
 > C. 20  

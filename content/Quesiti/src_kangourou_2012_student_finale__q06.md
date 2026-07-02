@@ -43,6 +43,6 @@ tags:
 
 *Infinite family of nearly disjoint unnumerable subsets*
 
-> We denote the sum of positive integers with < MSK0/>. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be given a biunivocal correspondence with $\mathbb{N}$, whose elements are subsets of $\mathbb{N}$ two to two quasi-disjoint.
+> We denote the sum of positive integers with $\mathbb{N}$. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be biunivocal with $\mathbb{N}$, the elements of which are subsets of $\mathbb{N}$ two to two quasi-disjoint.
 
 [[src_kangourou_2012_student_finale__Q06]]

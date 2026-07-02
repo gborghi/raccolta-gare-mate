@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Coppie (a, b) con gcd 1 e lcm 495< MSK1/>
+*Coppie (a, b) con gcd 1 e lcm 495*
 
 > Quante coppie ordinate $(a, b)$ di integri positivi con $a < b$ e $100 \le a, b \le 1000$ soddisfano $\gcd(a, b) : \text{lcm}(a, b) = 1 : 495$?
 

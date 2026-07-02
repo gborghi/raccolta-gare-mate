@@ -53,7 +53,7 @@ tags:
 
 *Espresso il prezzo di una dozzina di arance più una dozzina di banane in melone *
 
-> I meloni < MSK0/> costano lo stesso che le arance < MSK1/> più le banane < MSK2/>; inoltre, una mezza dozzina di banane costa metà di un melone. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è pari al prezzo di:
+> I meloni $2$ costano lo stesso che le arance $9$ più le banane $6$; inoltre, una mezza dozzina di banane costa metà di un melone. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è pari al prezzo di:
 > 
 > (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum sheets that can be cut from the sheet< MSK1/>
+*Maximum sheets that can be cut from the sheet*
 
 ![[src_kangourou_2013_preecolier__prob19.png]]
 

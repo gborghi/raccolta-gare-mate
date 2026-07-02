@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of units of the product (5^5+1)
+*Number of units of the product (5^5+1)
 
 > What is the number of units in the product (55 + 1)(510 + 1)(515 + 1)? A) 1
 >          	

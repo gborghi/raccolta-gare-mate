@@ -99,7 +99,7 @@ tags:
 \end{document}
 ```
 
-> (Points 3) The ABC triangle in the figure is equilateral, with the side 12 cm long. The MN segment is parallel to the AB side, while the AM segment is 10 cm long. How many square centimetres is the area of the ANC triangle? (A) 36 (B) 30 (MSK0/> 3 C) 10 (MSK1/> 3 D) 6 (MSK2/> 3 E) 10 Answer: D). I'm not alone. The height of the triangle ABC is 12 × √3 2 cm and coincides with that of the triangle ANC with respect to the base CN, which is 2 cm long.
+> (Points 3) The ABC triangle in the figure is equilateral, with the side 12 cm long. The MN segment is parallel to the AB side, while the AM segment is 10 cm long. How many square centimetres is the area of the ANC triangle? (A) 36 (B) 30 (√ 3 C) 10 (√ 3 D) 6 (√ 3 E) 10 Answer: D). I'm not alone. The height of the triangle ABC is 12 × √3 2 cm and coincides with that of the triangle ANC with respect to the base CN, which is 2 cm long.
 
 **Answer:** D
 [[src_kangourou_2024_cadet_semifinale__Q02]]

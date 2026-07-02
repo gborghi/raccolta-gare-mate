@@ -50,7 +50,7 @@ tags:
 
 *Volume octahedron from the centers of the parallel-piped faces*
 
-> In a right-angled parallel-piped, the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 < MSK0/> 10 < MSK1/> 18, what is the volume of the octahedron?
+> In a right-angled parallel-piped the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
 
 **Answer:** 0450
 [[src_kangourou_2019_squadre_semifinale_a__Q13]]

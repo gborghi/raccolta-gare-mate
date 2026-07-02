@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last year with maximum year ratio< MSK1/>
+*Last year with maximum year ratio*
 
-> In this millennium, for a year between 2010 and 2999, we call the product of the year quotient the product of the first with the last digit of the year divided by the sum of the two central digits. For example, this year's coefficient is 2 < MSK0/> 5: (0 + 1) = 10. In some of the next few years, the annual rate will be higher than 10. What will be the last year of this third millennium in which the annual rate will be as high as possible?
+> In this millennium, for a year between 2010 and 2999, we call the product of the year the quotient of the first with the last digit of the year divided by the sum of the two central digits. For example, this year's coefficient is 2 × 5: (0 + 1) = 10. In some of the next few years, the annual rate will be higher than 10. What will be the last year of this third millennium in which the annual rate will be as high as possible?
 
 **Answer:** 2109
 [[src_kangourou_2015_squadre_ecolier_f__Q14]]

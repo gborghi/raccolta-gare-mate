@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference of two integers with product 36 and sum 37< MSK1/>
+*Difference of two integers with product 36 and sum 37*
 
 > The product of two integers is 36 whereas their sum is 37. What's the difference? A) 1
 > 	

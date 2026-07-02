@@ -54,7 +54,7 @@ tags:
 
 *Integres with k odd digits and a coefficient n/5 similar*
 
-> Display Exercise Whether k < MSK0/>1 is a natural number. Determine the number of positive integers n with the following properties as a function of k: (a) base ten is written with k digits, all odd; (b) they are divisible by 5, and the quotient n 5, written on base ten, still has k digits, all odd.
+> Display Exercise Whether k ≥1 is a natural number. Determine the number of positive integers n with the following properties as a function of k: (a) on base ten are written with k digits, all odd; (b) they are divisible by 5, and the quotient n 5, written on base ten, still has k digits, all odd.
 
 **Answer:** 3^(k-1)
 [[src_archimede_2006_2livello__Q16]]

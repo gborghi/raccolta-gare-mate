@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cells remain after deletion (33x21) < MSK1/>
+*How many cells remain after deletion (33x21) *
 
 > In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is equal. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
 

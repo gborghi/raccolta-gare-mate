@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Locus of opposite vertex Q of perpendicular rays in sphere< MSK1/>
+*Locus of opposite vertex Q of perpendicular rays in sphere*
 
 > $P$ is a given point inside a given sphere. Three mutually perpendicular rays from $P$ intersect the sphere at points $U$, $V$, and $W$; $Q$ denotes the vertex diagonally opposite to $P$ in the parallelpiped determined by $PU$, $PV$, and $PW$. Find the locus of $Q$ for all such triads of rays from $P$.
 

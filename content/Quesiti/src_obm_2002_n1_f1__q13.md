@@ -61,7 +61,7 @@ tags:
 
 *Minimum di bambini che preferiscono l'opzione della compagnia di autobus*
 
-> Una scuola organizzerà un'escursione allo zoo. Ci sono due opzioni di trasporto. La prima opzione è quella di noleggiare "van": ciascun van può trasportare $8$ bambini e i suoi costi di noleggio R\$$60{,}00$. The second option is to contract a company that does the service: the company hires buses with capacity for $48$ children and charges R\$$237{,}00$, plus R\$$120{,}00$ per autobus utilizzato. La scuola preferirà la compagnia degli autobus se ci sono almeno < MSK4/> bambini. Il valore di $N$ è:
+> Una scuola organizzerà un'escursione allo zoo. Ci sono due opzioni di trasporto. La prima opzione è quella di noleggiare "van": ciascun van può trasportare $8$ bambini e i suoi costi di noleggio R\$$60{,}00$. The second option is to contract a company that does the service: the company hires buses with capacity for $48$ children and charges R\$$237{,}00$, plus R\$$120{,}00$ per autobus utilizzati. La scuola preferirà la compagnia degli autobus se ci sono almeno $N$ bambini. Il valore di $N$ è:
 > 
 > (A) $28$ (B) $31$ (C) $32$ (D) $33$ (E) $36$
 

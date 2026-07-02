@@ -53,6 +53,6 @@ tags:
 
 *Summa provata di reciprocità ≤ (m+n)/m per un sottogruppo di anticetene di {1,...,m}*
 
-> $m$ e $n$ siano integri positivi con $m \ge 2$. L'insieme $S = \{1, 2, \cdots, m\}$ e $T = \{a_1, a_2, \cdots, a_k\}$ è un sottoinsieme di $S$ in modo tale che ogni numero di $S$ non sia divisibile da due numeri distinti di $T$. Provare che < MSK0/>
+> $m$ e $n$ siano integri positivi con $m \ge 2$. L'insieme $S = \{1, 2, \cdots, m\}$ e $T = \{a_1, a_2, \cdots, a_k\}$ è un sottoinsieme di $S$ in modo tale che ogni numero di $S$ non sia divisibile da due numeri distinti di $T$. Provare che $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_k} \le \frac{m+n}{m}.$$
 
 [[src_cn_cgmo_2005__Q07]]

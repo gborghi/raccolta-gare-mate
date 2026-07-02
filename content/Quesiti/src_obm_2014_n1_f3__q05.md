@@ -76,7 +76,7 @@ tags:
 > 
 > iii. Il giocatore che toglie l'ultima moneta vince.
 > 
-> a) Supponiamo che mettano monete < MSK0/> sul tavolo. Se Ana gioca prima e toglie due monete, mostra come Beatriz può vincere la partita (indipendentemente dalle mosse rimanenti di Ana).
+> a) Supponiamo che mettano monete $11$ sul tavolo. Se Ana gioca prima e toglie due monete, mostra come Beatriz può vincere la partita (indipendentemente dalle mosse rimanenti di Ana).
 > 
 > b) Ora supponiamo che mettano monete $15$ sul tavolo. Mostrare che il primo giocatore può sempre vincere (indipendentemente dalle mosse del secondo giocatore).
 

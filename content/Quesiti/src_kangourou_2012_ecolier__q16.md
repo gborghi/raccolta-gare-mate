@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What and the white part of the block< MSK1/>
+*What and the white part of the block*
 
 ![[src_kangourou_2012_ecolier__prob16.png]]
 

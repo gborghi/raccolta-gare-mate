@@ -49,6 +49,6 @@ tags:
 
 *Sharing coins of 1/n value into <=100 groups*
 
-> For every positive < MSK0/>, the Cape Town Bank issues cut coins < MSK1/>. Given a finite collection of such coins (not necessarily of different cuts) with a total value of at most $99 + \frac{1}{2}$, demonstrate that the collection can be divided into 100 or fewer groups, so that each group has a total value of at most $1$.
+> For every positive $n$, the Cape Town Bank issues cut coins $\frac{1}{n}$. Given a finite collection of such coins (not necessarily in different cuts) with a total value of at most $99 + \frac{1}{2}$, demonstrate that the collection can be divided into 100 or fewer groups, so that each group has a total value of at most $1$.
 
 [[src_imo_2014__Q05]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rectangular diagonal with cyclic ABPD< MSK1/>
+*Rectangular diagonal with cyclic ABPD*
 
 > Meanwhile, in Armorica, a curious symbol, unknown to the Gauls, was found on a menhir. This is formed by an ABCD rectangle and an equilateral CDE triangle constructed externally to the rectangle on the CD side. Parabolix decides to analyze it, and he calls P the center of the triangle. So he finds that the smaller side of BC measures 45 centimeters, and that the ABPD points are on the same circumference. How many millimeters does the diagonal of the rectangle measure? Team competition 2011  National final  Problem texts  1/3
 > 

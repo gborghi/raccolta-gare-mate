@@ -54,7 +54,7 @@ tags:
 
 *Evaluare il 2020 diviso per (20 volte 20)*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $\dfrac{2020}{20 \times 20}$?
 >
 > - **(A)** $10.1$
 > - **(B)** $5.5$

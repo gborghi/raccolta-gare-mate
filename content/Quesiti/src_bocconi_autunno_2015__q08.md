@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of particular chess moves< MSK1/>
+*Minimum number of particular chess moves*
 
 > A little bit of a chessboard. Only two movements are permitted for the pedals you see in the figure: moving a pedal over an adjacent box (on one side), provided that the latter is free; jumping a pedal located in an adjacent box (on one side), whatever its colour, provided that the box immediately beyond the leaped pedal is free. In how many moves, at least, can you swap the white and the black pads?
 

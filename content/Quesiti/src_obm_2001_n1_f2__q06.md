@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Unità di N = 1^2 + 2^2 + ... + 196883^2*
+*Unità di N = 1^2 + 2^2 + ... + 196883^2*
 
 > $N$ sia il numero intero positivo dato da $N = 1^2 + 2^2 + 3^2 + 4^2 + \ldots + (196883)^2$. Qual è la cifra di unità di $N$?
 

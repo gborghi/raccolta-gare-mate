@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of radii of two circumferences in the square< MSK1/>
+*Sum of radii of two circumferences in the square*
 
 ![[src_kangourou_2007_junior_marzo__prob20.png]]
 

@@ -57,7 +57,7 @@ tags:
 
 Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la prossima volta che concordano
 
-> Il professore Piraldo ha due orologi, sia digitali che di $24$ ore. Nessuno dei due funziona: uno cambia il tempo al doppio della velocità normale e l'altro va dall'indietro in avanti alla velocità normale. Entrambi mostrano correttamente < MSK1/>. Qual è l'ora corretta nel momento successivo in cui i due orologi mostrano la stessa ora?
+> Il professore Piraldo ha due orologi, sia digitali che di $24$ ore. Nessuno dei due funziona: uno cambia il tempo al doppio della velocità normale e l'altro va dall'indietro in avanti alla velocità normale. Entrambi mostrano correttamente $13{:}00$. Qual è l'ora corretta nel momento successivo in cui i due orologi mostrano la stessa ora?
 >
 > - **(A)** $05{:}00$
 > - **(B)** $09{:}00$

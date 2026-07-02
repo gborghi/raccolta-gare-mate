@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times does the right hand appear in the figure< MSK1/>
+*How many times does the right hand appear in the figure*
 
 ![[src_kangourou_2018_koala_marzo__prob15.png]]
 

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Regular polygon sides with an inner angle 719 times the outer angle< MSK1/>
+*Regular polygon sides with an inner angle 719 times the outer angle*
 
 > This is BERK (Carlo Càssola) The island of Berk can be approached by a regular polygon where the inner corners have width equal to 719 times that of the outer corners. How many sides of the polygon are there?
 

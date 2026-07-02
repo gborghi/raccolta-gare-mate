@@ -54,6 +54,6 @@ tags:
 
 *Ricerca tutti gli insiemi di carte a 4 con numeri interi a 1 cifra distinti che danno 4 somme distinte e 3 prodotti distinti*
 
-> Ci sono 4 carte, ognuna con un numero intero positivo singolo-cifrato scritto su di essa. Quando si scelgono due delle quattro carte e si aggiungono i loro numeri, possono essere ottenute somme distinte esattamente < MSK0/> in totale. Quando si scelgono due delle quattro carte e si moltiplicano i loro numeri, si possono ottenere esattamente $3$ prodotti distinti in totale. Trova tutte le possibili serie di 4 enti che potrebbero essere scritte sulle carte.
+> Ci sono 4 carte, ognuna con un numero intero positivo singolo-cifrato scritto su di essa. Quando si scelgono due delle quattro carte e si aggiungono i loro numeri, possono essere ottenute somme distinte esattamente $4$ in totale. Quando si scelgono due delle quattro carte e si moltiplicano i loro numeri, si possono ottenere esattamente $3$ prodotti distinti in totale. Trova tutte le possibili serie di 4 enti che potrebbero essere scritte sulle carte.
 
 [[src_jjmo9yq_yosen__Q06]]

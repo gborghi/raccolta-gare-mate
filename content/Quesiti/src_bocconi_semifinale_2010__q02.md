@@ -56,7 +56,7 @@ tags:
 
 *Form in the maze: maximum distance to be walked*
 
-> In the labyrinth of the figure, an ant begins its journey from $A$. The rules of the route stipulate that it may pass several times at the same junction but may not cross the same corridor more than once. What is the maximum distance the ant can travel (by the rules)? Note: the ant does not necessarily have to return to where it started walking at < MSK1/>; each straight line segment (as shown in Figure) is < MSK2/> cm.
+> In the labyrinth of the figure, an ant begins its journey from $A$. The rules of the route stipulate that it may pass several times at the same junction but may not cross the same corridor more than once. What is the maximum distance the ant can travel (by the rules)? Note: the ant does not necessarily have to return to where it started walking at $A$; each straight line segment (as shown in Figure) is $1$ cm.
 
 ![[src_bocconi_semifinale_2010__Q02.png]]
 

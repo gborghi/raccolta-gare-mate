@@ -56,7 +56,7 @@ tags:
 
 *Remove players by leaving 2N with height conditions*
 
-> A whole < MSK0/> is given. A collection of $N(N+1)$ footballers, of which there are no two of the same height, is arranged in a row. Sir Alex wants to remove $N(N-1)$ players from this row, leaving a new row of $2N$ players where the following $N$ conditions apply:
+> A whole $N \geq 2$ is given. A collection of $N(N+1)$ footballers, of which there are no two of the same height, is arranged in a row. Sir Alex wants to remove $N(N-1)$ players from this row, leaving a new row of $2N$ players where the following $N$ conditions apply:
 > 
 > (1) no one is between the two highest players,
 > 

@@ -57,11 +57,6 @@ tags:
 > allineati. Quale delle seguenti affermazioni è vera? 
 >  
 > A. è impossibile farlo   
->  
->  
->  
->  
->      
 > B. vi è un solo numero che può occupare il cerchio 
 > centrale  
 > C. vi sono esattamente due numeri diversi che possono 

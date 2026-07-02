@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Maximum KANGOUROU number with increasing code < MSK1/>
+Maximum KANGOUROU number with increasing code *
 
 > The sequence of 7 letters AGKNORU (in alphabetical order) is associated with a sequence of 7 digits all different from each other, arranged in increasing order. Each chosen sequence is a code, respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? (a) 987654321 B) 987654354 C) 536478679 D) 536479879 E) 536454859 Questions from N. 11 al N. 20 is worth 4 points each.
 

@@ -53,7 +53,7 @@ tags:
 
 *Valuta di 99 volte la differenza dei decimali ricorrenti*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $99(0.\dot{4}\dot{9}-0.\dot{4})$?
 >
 > - **(A)** $5$
 > - **(B)** $4$

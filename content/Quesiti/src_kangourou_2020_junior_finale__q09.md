@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-*Interest sum n with d(n) *s(n)=96*
+*Interest sum n with d(n) *s(n) = 96*
 
 > Divisors For a positive integer n we denote with d(n) the number of its divisors and with s(n) their sum (e.g. d(8) = 4 because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Determine the sum of all integers such that n = 96.
 

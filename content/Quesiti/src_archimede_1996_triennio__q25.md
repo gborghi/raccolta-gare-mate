@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of cardboard wasted by cutting circles< MSK1/>
+*Percentage of cardboard wasted by cutting circles*
 
 ![[src_archimede_1996_triennio__prob25.png]]
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca il massimo di xyz sul prodotto di quattro fattori< MSK1/>
+*Ricerca il massimo di xyz sul prodotto di quattro fattori*
 
 > Trova, con prova, il valore massimo di $$\frac{xyz}{(1+x)(x+y)(y+z)(z+16)}$$ per i numeri reali positivi $x$, $y$, $z$.
 

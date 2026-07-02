@@ -51,7 +51,7 @@ tags:
 
 *Minimum cubes for building an open box 10x10x10*
 
-> An open box is constructed by gluing wooden cubes with a 1 cm beam, the outer dimensions of the finished box are 10 cm < MSK0/> 10 cm < MSK1/> 10 cm. What is the minimum number of cubes needed to build the box?
+> An open box is constructed by gluing wooden cubes with a 1 cm beam, the outer dimensions of the finished box being 10 cm × 10 cm × 10 cm. What is the minimum number of cubes needed to build the box?
 >
 > - **(A)** 400
 > - **(B)** 412

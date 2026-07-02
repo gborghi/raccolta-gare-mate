@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> single mode < MSK1/>
+* single mode *
 
 > Let n be an integer greater than 2. They want to color red exactly n+1 of the numbers 1, 2, · · , 2n−1, 2n so that there are no three distinct numbers x, y, z colored red that satisfy the equality x + y = z. Demonstrate that there is one and only one way to choose numbers to color red that meets the given condition.
 

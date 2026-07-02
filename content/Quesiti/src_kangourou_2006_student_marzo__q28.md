@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Areas in the region? (rectangle divided by M,N) < MSK1/>
+Areas in the region? (rectangle divided by M,N) *
 
 ![[src_kangourou_2006_student_marzo__prob28.png]]
 

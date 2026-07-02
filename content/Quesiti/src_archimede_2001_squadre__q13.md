@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum number to make 2001< MSK1/>
+*minimum number to make 2001*
 
 > The following is the list of countries in the world which have been granted the right to vote:
 > 

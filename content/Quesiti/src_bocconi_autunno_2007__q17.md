@@ -54,7 +54,7 @@ tags:
 
 *Number of three digits to be guessed on the square conditions*
 
-> Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for hundreds, $d$ for tens and $u$ for units; the number of hundreds is nothing). Let's square this number and then divide it by 2. So we get a five-digit number that's written as MSK6/. What was the starting number?
+> Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for hundreds, $d$ for tens and $u$ for units; the number of hundreds is nothing). Let's square this number and then divide it by 2. So we get a five-digit number that's written as$cdduc$. What was the starting number?
 
 **Answer:** 1552
 [[src_bocconi_autunno_2007__Q17]]

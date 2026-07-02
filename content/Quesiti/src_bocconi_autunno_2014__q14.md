@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integral numbers from 1 to 100000 without digit 5 or digit 7 < MSK1/>
+*Integral numbers from 1 to 100000 without digit 5 or digit 7 *
 
 > How many integers, including $1$ and $100.000$ (included), are written without using either the $5$ digit or the $7$ digit?
 

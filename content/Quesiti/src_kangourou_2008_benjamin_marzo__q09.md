@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of grey of a periodic brake< MSK1/>
+*Percentage of grey of a periodic brake*
 
 ![[src_kangourou_2008_benjamin_marzo__prob9.png]]
 

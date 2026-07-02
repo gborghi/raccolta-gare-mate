@@ -53,6 +53,6 @@ tags:
 
 *Per i reali positivi con a3+b3=c3, provare a2+b2−c2≥6(c−a)(c−b)*
 
-> $a$, $b$, $c$ siano numeri reali positivi tali da $a^3 + b^3 = c^3$. Provare che < MSK0/>
+> $a$, $b$, $c$ siano numeri reali positivi tali da $a^3 + b^3 = c^3$. Provare che $$a^2 + b^2 - c^2 \ge 6(c - a)(c - b).$$
 
 [[src_inmo_2009__Q06]]

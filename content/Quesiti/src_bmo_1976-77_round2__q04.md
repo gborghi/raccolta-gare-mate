@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Construire un colletto di 2 perle in 2 colori che coprono tutte le coppie di colori< MSK1/>
+*Construire un colletto di 2 perle in 2 colori che coprono tutte le coppie di colori*
 
 > Prove che per ogni numero intero $n \geq 1$ è possibile costruire un collare con perle $2n$ in tutto, essendo di $2n$ diversi colori, in modo tale che per ogni coppia di colori diversi vi sia almeno un paio di perle adiacenti di questi due colori. È possibile fare lo stesso utilizzando perle $2n^2 - 1$ in tutto? Datemi una ragione per la vostra risposta. (Un "colletto" è un'impostazione circolare di perle, senza alcun attaccamento; si presume che sia disponibile un ampio approvvigionamento di perle di tutti i colori.)
 

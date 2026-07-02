@@ -52,6 +52,6 @@ tags:
 
 *Divisibility condition forces at equals b*
 
-> Let < MSK0/> and < MSK1/> be positive integers. Show that if $4ab - 1$ divides $(4a^2 - 1)^2$, then $a = b$.
+> Let $a$ and $b$ be positive integers. Show that if $4ab - 1$ divides $(4a^2 - 1)^2$, then $a = b$.
 
 [[src_imho_2007__Q05]]

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>AP di 40 diversi integri positivi contiene uno non di forma 2^k+3^l< MSK1/>
+*AP di 40 diversi integri positivi contiene uno non di forma 2^k+3^l*
 
 > Prove che in una progressione aritmetica composta da $40$ diversi interi positivi, almeno uno dei numeri non può essere scritto come $2^k + 3^l$, dove $k$, $l$ sono interi non negativi. (Posato da Chen Yonggao)
 

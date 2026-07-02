@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (m,n) with m^n = 2^12< MSK1/>
+*Pairs (m,n) with m^n = 2^12*
 
 > How many pairs of positive integers (m, n) are such that mn = 212?
 >

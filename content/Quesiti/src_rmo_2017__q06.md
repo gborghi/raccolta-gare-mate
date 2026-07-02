@@ -51,6 +51,6 @@ tags:
 
 *Rimprovare le disuguaglianze cicliche per reali superiori a 1*
 
-> $x, y, z$ siano numeri reali, ognuno più grande di $1$. Provare che < MSK0/>
+> $x, y, z$ siano numeri reali, ognuno più grande di $1$. Provare che $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
 
 [[src_rmo_2017__Q06]]

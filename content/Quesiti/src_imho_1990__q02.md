@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum k black points guaranteeing a good colouring< MSK1/>
+*Minimum k black points guaranteeing a good colouring*
 
 > Let $n \ge 3$ and consider a set $E$ of $2n - 1$ distinct points on a circle. Suppose that exactly $k$ of these points are to be colored black. Such a coloring is ``good' if there is at least one pair of black points such that the interior of one of the arcs between them contains exactly $n$ points from $E$. Find the smallest value of $k$ so that every such coloring of $k$ points of $E$ is good.
 

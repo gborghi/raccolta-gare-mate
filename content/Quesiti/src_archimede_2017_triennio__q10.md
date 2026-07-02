@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>after several minutes< MSK1/>
+*after several minutes*
 
 > At 12:00 p.m. the hours and minutes of a clock are overlapping. After how many minutes, for the first time, will they be aligned and opposite?
 >

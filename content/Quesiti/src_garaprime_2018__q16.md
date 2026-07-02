@@ -56,11 +56,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum worm path length to halve the apple< MSK1/>
+*Maximum worm path length to halve the apple*
 
 ![[src_garaprime_2018__prob16.png]]
 
-> A small worm enters a large spherical apple with a radius of 10 cm and leaves after having traveled within it a path (not necessarily straight) of length d. Find the maximum lattice length that, whatever the shape of the worm's path, if d < l l l l l l l l l l l l s still manage to cut the apple (with a flat cut) into two equal parts, one of which is completely healthy. A ℓ= 20 cm B ℓ= 10 cm C ℓ= 10π cm D ℓ= 5π cm E ℓ= 10π 3 cm F ℓ= 20π 3 cm
+> A small worm enters a large spherical apple with a radius of 10 cm and leaves after having traveled within it a path (not necessarily straight) of length d. Find the maximum lattice length that, whatever the shape of the worm's path, if d < s still manage to cut the apple (with a flat cut) into two equal parts, one of which is completely healthy. A ℓ= 20 cm B ℓ= 10 cm C ℓ= 10π cm D ℓ= 5π cm E ℓ= 10π 3 cm F ℓ= 20π 3 cm
 
 **Answer:** A
 [[src_garaprime_2018__Q16]]

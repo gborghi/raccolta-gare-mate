@@ -53,7 +53,7 @@ tags:
 
 *Triangolo isosceles, circoncircolo, incentro, punto medio dell'arco; prova collinearità M,B,T*
 
-> Come illustrato in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti al circoncircolo $O$ di $\triangle ABC$. $R$ sia un punto su $\widehat{AC}$ con $AR \parallel BC$, e $Q$ sia l'altra intersezione di $PR$ e cerchio $O$. Che $I$ sia l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$ e $G$ sia l'altra intersezione di $QD$ e di cerchio $O$. Supponiamo che la linea attraverso $I$ e perpendicolare a $AI$ incroci le linee $AG$, $AC$ rispettivamente nei punti $M$ e $N$. $S$ sia il punto medio di $\widehat{AR}$, $T$ sia l'altra intersezione della linea $SN$ e del cerchio $O$. Provare che < MSK30/>, < MSK31/>, < MSK32/> sono collineari.
+> Come illustrato in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti al circoncircolo $O$ di $\triangle ABC$. $R$ sia un punto su $\widehat{AC}$ con $AR \parallel BC$, e $Q$ sia l'altra intersezione di $PR$ e di $O$. Che $I$ sia l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$ e $G$ sia l'altra intersezione di $QD$ e di cerchio $O$. Supponiamo che la linea attraverso $I$ e perpendicolare a $AI$ incroci le linee $AG$, $AC$ rispettivamente nei punti $M$ e $N$. $S$ sia il punto medio di $\widehat{AR}$, $T$ sia l'altra intersezione della linea $SN$ e del cerchio $O$. Provare che $M$, $B$, $T$ sono collineari.
 
 ![[src_cn_csmo_2020__Q02.png]]
 

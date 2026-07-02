@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability sum 13 with two 12-sided dice< MSK1/>
+*Probability sum 13 with two 12-sided dice*
 
 > If two regular dice with twelve faces, numbered 1 to 12, are thrown, the probability that the sum of the face values is 13 is:
 >

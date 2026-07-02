@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Problema annullato< MSK1/>
+*Problema annullato*
 
 > (Annullato / Annullato  Annulada.)
 

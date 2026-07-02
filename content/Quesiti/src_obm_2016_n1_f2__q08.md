@@ -62,7 +62,7 @@ tags:
 
 *segmenti di perimetro vs quotiente di segmenti interni per n ×n griglia; modello e domande estreme*
 
-> [Parte B] Associamo a ogni quadrato $n \times n$ (divisi in quadrati unitari) il quotiente del numero di segmenti unitari sul suo perimetro per il numero di segmenti unitari strettamente all'interno. I primi tre valori sono:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) Qual è il quotiente associato al quadrato $5 \times 5$?\n(b) Quanti valori di $n$ danno un quotiente uguale a $\dfrac{1}{2}$?\n(c) La differenza assoluta tra i quotienti di due quadrati consecutivi nella sequenza è sempre $\dfrac{1}{k}$ per qualche valore fisso di $k$. Che cos'è < MSK7/>? Quanti segmenti unitari si trovano sul perimetro del più piccolo quadrato il cui quotiente associato è inferiore a $\dfrac{1}{10}$?
+> [Parte B] Associamo a ogni quadrato $n \times n$ (divisi in quadrati di unità) il quotiente del numero di segmenti unitari sul suo perimetro per il numero di segmenti unitari strettamente all'interno. I primi tre valori sono:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) Qual è il quotiente associato al quadrato $5 \times 5$?\n(b) Quanti valori di $n$ danno un quotiente uguale a $\dfrac{1}{2}$?\n(c) La differenza assoluta tra i quotienti di due quadrati consecutivi nella sequenza è sempre $\dfrac{1}{k}$ per un certo valore fisso di $k$. Che cos'è $k$? Quanti segmenti unitari si trovano sul perimetro del più piccolo quadrato il cui quotiente associato è inferiore a $\dfrac{1}{10}$?
 
 ![[src_obm_2016_n1_f2__Q08.png]]
 

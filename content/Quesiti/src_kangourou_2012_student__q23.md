@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n operations to recover 7/8< MSK1/>
+*Minimum n operations to recover 7/8*
 
 > It was decided to operate on fractions in only two ways: 1 increase the numerator by 8 and 1 increase the denominator by 7. Starting from fraction 7/8, after having made a total of n of these operations (in an order of choice), the fraction 7/8 was recovered after being reduced to minimum terms. What's the minimum value of n that this could have happened for? A) 56 B) 81 C) 109 D) 113 E) Can not be recovered 7/8
 

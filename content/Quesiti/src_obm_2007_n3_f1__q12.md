@@ -60,7 +60,7 @@ tags:
 
 *Rete stradale a triangolo retto; deviazione del 24% più lunga; bronzatura con angolo più piccolo *
 
-> Le città di A'opolis, Be'opolis e Ce'opolis sono collegate da strade rette. È noto che la strada che collega A'opolis e Be'opolis è perpendicolare alla strada che collega A'opolis e Ce'opolis. Rubens vive a Be'opolis e ha un impegno a Ce'opolis. Tuttavia, la strada che collega Be'opolis a Ce'opolis è chiusa, quindi deve percorrere la rotta Be'opolis-A'opolis-Ce'opolis. Per raggiungere l'impegno in tempo, Rubens viaggia a una velocità < MSK0/> superiore a quella che avrebbe usato sulla strada chiusa.
+> Le città di A'opolis, Be'opolis e Ce'opolis sono collegate da strade rette. È noto che la strada che collega A'opolis e Be'opolis è perpendicolare alla strada che collega A'opolis e Ce'opolis. Rubens vive a Be'opolis e ha un impegno a Ce'opolis. Tuttavia, la strada che collega Be'opolis a Ce'opolis è chiusa, quindi deve percorrere la rotta Be'opolis-A'opolis-Ce'opolis. Per raggiungere l'impegno in tempo, Rubens viaggia a una velocità $24\%$ superiore a quella che avrebbe usato sulla strada chiusa.
 > 
 > Se $\alpha$ è l'angolo più piccolo del triangolo determinato dalle tre strade, allora:
 > 

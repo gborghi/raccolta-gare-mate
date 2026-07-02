@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Seconds for meeting on circumference (marathon) < MSK1/>
+*Seconds for meeting on circumference (marathon) *
 
 > Marathon runner Finally Root can get out of the lake of tears, but it's all soup. Captain Liebezout organizes a marathon so that he can dry himself up. He runs around a circle at a constant speed, making one lap every 12 minutes. Root wants to reach it and runs at a constant speed around the perimeter of a regular ABCDE pentagon inscribed in the circumference making a turn every 11 minutes. At the beginning Root starts from A and runs towards B on the pentagon, while Captain Liebezout starts from point L on the minor arc AB such that ˆ LBA = 12° and runs towards A on the circumference. After how many seconds do they meet?
 

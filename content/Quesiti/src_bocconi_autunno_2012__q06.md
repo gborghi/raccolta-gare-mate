@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time required to cut 10 six cypress bushes in six hours< MSK1/>
+*Time required to cut 10 six cypress bushes in six hours*
 
 > If six loggers harvest six cypresses in six hours, how long will it take ten loggers to harvest ten cypresses?
 

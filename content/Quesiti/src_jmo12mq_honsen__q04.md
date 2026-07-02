@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ineguaglianza della somma ciclica in due limitazioni di normalizzazione< MSK1/>
+*Ineguaglianza della somma ciclica in due limitazioni di normalizzazione*
 
 > $n$ sia un numero naturale con $n \ge 3$. Supponiamo che i numeri reali positivi $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfino $$a_1 + a_2 + \cdots + a_n = 1$$ $$b_1^2 + b_2^2 + \cdots + b_n^2 = 1.$$ Proviamo che la disuguaglianza $$a_1(b_1 + b_2) + a_2(b_2 + b_3) + \cdots + a_n(b_n + b_1) < 1$$ sia valida.
 

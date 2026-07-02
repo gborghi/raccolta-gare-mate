@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Girls originating in the group< MSK1/>
+*Girls originating in the group*
 
 > From a group of boys and girls, 15 girls leave. At this point, for every girl who stays, there are exactly two boys. After a while 45 boys leave the group: now for each boy who remains there are 5 girls. How many girls were originally in the group?
 >  

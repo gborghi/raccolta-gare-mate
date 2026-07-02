@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sitting in the canoe< MSK1/>
+*Sitting in the canoe*
 
 ![[src_kangourou_2001_ecolier__prob5.png]]
 

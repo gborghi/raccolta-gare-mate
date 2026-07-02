@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Punti di centro del cerchio circoscritto, centro interno, prova di conciclicità< MSK1/>
+*Punti di centro del cerchio circoscritto, centro interno, prova di conciclicità*
 
 > (30 marchi) Come mostrato alla figura. 1, $M$, $N$ sono i punti medi degli archi $\widehat{BC}$ e $\widehat{AC}$, rispettivamente, che si trovano sul cerchio circonscritto di un triangolo acuto $\triangle ABC$ ($\angle A < \angle B$). Attraverso il punto $C$ tracciare $PC \perp MN$, intercettando il cerchio $\Gamma$ al punto $P$. $I$ è il centro interno di $\triangle ABC$. Estendere la linea $PI$ per intercettare $\Gamma$ al punto $T$.
 > 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coins to complete the Mida vessel< MSK1/>
+*Coins to complete the Mida vessel*
 
 > Electrum and silver coins allow anything that the antique merchant touches to be turned into gold to create an alabaster vase. The price of the vase is 177 drachmas. Mida has in her purse 3 gold coins worth 20 drachmas each, 5 electrum coins worth 11 drachmas each, and 7 silver coins worth 3 drachmas each. The merchant has no rest; therefore Mida must pay the exact price, but to do so he must ask his valet to take coins from his purse. How many gold coins does the valet have to take?
 

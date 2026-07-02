@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum k whole with t satisfying dissection< MSK1/>
+*Minimum k whole with t satisfying dissection*
 
 > Dark Fourier Federico Antonini During the dragon attack at Berkhoff, Hilcup attempts to hit a Dark Fourier with one of his unlikely inventions. When studying the dark Fourier flight, we find ourselves considering the dissection (k +1−t) t ≥3 k(k +1) 2 +t ! . "I've got it!" cries Hilcup, but when he tells the others, no one believes him. So, as his father rebukes him, he thinks back on the dissection just studied and asks himself: What is the minimum positive integer k for which there exists a positive integer t that satisfies her?
 

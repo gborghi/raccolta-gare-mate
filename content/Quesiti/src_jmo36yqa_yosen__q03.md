@@ -54,7 +54,7 @@ tags:
 
 *Trova AC/AD dato segmenti di accordi uguali e tre aree triangolari su un cerchio*
 
-> Su un cerchio ci sono cinque punti $A$, $B$, $C$, $D$, $E$ in questo ordine. $P$ e $Q$ siano rispettivamente le intersezioni di accordi $BE$ con accordi $AC$ e di accordi $BE$ con accordi $AD$. Supponiamo che < MSK11/> sia valido. Le superfici dei triangoli $BCP$, $APQ$ e $DEQ$ sono rispettivamente $2$, $9$ e $3$. Trova il valore di $\dfrac{AC}{AD}$, dove $XY$ indica la lunghezza del segmento $XY$.
+> Su un cerchio ci sono cinque punti $A$, $B$, $C$, $D$, $E$ in questo ordine. $P$ e $Q$ siano rispettivamente le intersezioni di accordi $BE$ con accordi $AC$ e di accordi $BE$ con accordi $AD$. Supponiamo che $BP = PQ = QE$ sia valido. Le superfici dei triangoli $BCP$, $APQ$ e $DEQ$ sono rispettivamente $2$, $9$ e $3$. Trova il valore di $\dfrac{AC}{AD}$, dove $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo36yqa_yosen__Q03.png]]
 

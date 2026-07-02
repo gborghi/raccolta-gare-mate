@@ -50,7 +50,7 @@ tags:
 
 *Minimum number of parallel lines on the sides per 100 regions*
 
-> Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly < MSK0/> regions?
+> Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly $100$ regions?
 
 **Answer:** 16
 [[src_kangourou_2015_finale_student__QS5]]

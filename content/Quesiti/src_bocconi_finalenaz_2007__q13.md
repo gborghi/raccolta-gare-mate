@@ -55,7 +55,7 @@ tags:
 
 *First year after 2007 in which there are no births in the Countries of Numbers*
 
-> In the country of numbers, the birth of the first and only child of each couple is scheduled for the year whose number is equal to that of the year of marriage plus the sum of its digits. For example, a couple who got married in 2002 had a child in < MSK0/>. What will be the first year after 2007 in which there will be no births in Numbers Country?
+> In the country of numbers, the birth of the first and only child of each couple is scheduled for the year whose number is equal to that of the year of marriage plus the sum of its digits. For example, a couple who got married in 2002 had a child in $2006 = 2002 + 2 + 0 + 0 + 2$. What will be the first year after 2007 in which there will be no births in Numbers Country?
 
 **Answer:** L'anno è 2022
 [[src_bocconi_finalenaz_2007__Q13]]

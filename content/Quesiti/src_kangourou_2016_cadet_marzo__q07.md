@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>who use a car< MSK1/>
+*who use a car*
 
 > In my school, only 12 percent of teachers come to school by car, while 60 percent, or 45 people, use public transport. How many teachers use the car to get to school? A) 4
 > 	

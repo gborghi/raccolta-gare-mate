@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Values of k with full solution of x^10+kx^2+4=0< MSK1/>
+*Values of k with full solution of x^10+kx^2+4=0*
 
 > The answer is B. Let's show with n the whole solution of the equation x10 + kx2 + 4 = 0; we observe that n = 0 otherwise the equation is not verified. We can write: n10 + kn2 + 4 = 0 k = −n8 −4 n2 . So, since k is integer and n8 is integer, 4 n2 is integer, and so n2 divides 4 and so it can only be n = ±1, n = ±2. In the first case we have k = −5 and in the second case k = −28 −1. k can only take two values. [Problem proposed by Mr P. I'm going to tell you something.
 

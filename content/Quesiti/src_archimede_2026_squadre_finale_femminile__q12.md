@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>How many beam bounces at < MSK0/> to get back into the pit< MSK2/>
+*How many beam bounces at 5° to get back into the pit*
 
-> KNOW THE DRAGONS (Claudia Manotti) Hiccup becomes skilled at domesticating the dragons guarded for the training of young Vikings, though in his unorthodox ways. Gronkio, for example, is stopped due to the allergy of dragons to a particular plant, while the Mortal Claw is particularly sensitive to the scratches under the chin. The Terrible Terror, one of the smallest dragons in existence, enjoys following the rays of light. The Arena is a perfect circle coated with reflective metal. Hiccup is positioned just above the hole of the Terrible Terror that's on the edge and using the shield sends a beam of light that forms an angle of exactly 5° with the diameter of the arena. The dragon follows the beam after hitting the rim of the arena many times until it enters the pit. How many times did you beat the poor dragon by following the light beam before you went back into the pit?
+> KNOW THE DRAGONS (Claudia Manotti) Hiccup becomes skilled at domesticating the dragons guarded for the training of young Vikings, though in his unorthodox ways. Gronkio, for example, is stopped due to the allergy of dragons to a particular plant, while the Mortal Claw is particularly sensitive to the scratches under the chin. The Terrible Terror, one of the smallest dragons in existence, enjoys following the rays of light. The Arena is a perfect circle coated with reflective metal. Hiccup is positioned just above the hole of the Terrible Terror that's on the edge and by exploiting the shield, it sends a beam of light that forms an angle of exactly 5° with the diameter of the arena. The dragon follows the beam after hitting the rim of the arena many times until it enters the pit. How many times did you beat the poor dragon by following the light beam before you went back into the pit?
 
 **Answer:** 35
 [[src_archimede_2026_squadre_finale_femminile__Q12]]

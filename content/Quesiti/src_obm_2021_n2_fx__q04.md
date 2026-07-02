@@ -62,7 +62,7 @@ tags:
 
 > Nella figura di seguito abbiamo un triangolo $ABC$, angolato a destra a $B$, e $BDEF$ è un quadrato inciso in questo triangolo. I cerchi inseriti nei triangoli $CFE$ e $EDA$ hanno rispettivamente i raggi $c$ e $b$. All'interno del quadrato sono disegnati due cerchi di raggio $b$ e due cerchi di raggio $a$. I due cerchi di raggio $b$ sono tangenti tra loro e i due cerchi di raggio $a$ sono tangenti tra loro. Ricordate che quando due cerchi sono tangenti, il centro è collineare con il punto di tangenza.
 > 
-> Determinare il rapporto < MSK0/>.
+> Determinare il rapporto $\dfrac{a}{c}$.
 
 ![[src_obm_2021_n2_fx__Q04.png]]
 

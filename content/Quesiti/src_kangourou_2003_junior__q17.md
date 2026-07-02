@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>4 semicircle tangent circle beam< MSK1/>
+*4 semicircle tangent circle beam*
 
 ![[src_kangourou_2003_junior__prob17.png]]
 

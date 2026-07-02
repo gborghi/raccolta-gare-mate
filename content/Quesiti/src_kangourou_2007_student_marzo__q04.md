@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many separate dividers has 10^n < MSK1/>
+*How many separate dividers has 10^n *
 
 > How many distinct divisors does 10n have, if you also count 1 and 10n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
 

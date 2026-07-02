@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Limita al numero di fattorizzazione non ordinate attraverso il più grande fattore primo< MSK1/>
+*Limita al numero di fattorizzazione non ordinate attraverso il più grande fattore primo*
 
 > Per un intero positivo $k > 1$, $f(k)$ indichi il numero di modi di fattorizzare $k$ in un prodotto di interi positivi ognuno più grande di $1$ (l'ordine dei fattori non è contato; ad esempio, $12 = 2 \times 6 = 3 \times 4 = 2 \times 2 \times 3$, quindi $f(12) = 4$). Prova che se $p$ è il primo divisore più grande di $n$, allora $$f(n) \le \frac{n}{p}.$$
 > 

@@ -55,7 +55,7 @@ tags:
 
 *Price by garment given price ratios*
 
-> Nando finally made up his mind and even bought three clothes. He did not pay any expenses and paid < MSK0/> Euro. What was the price of the second dress, knowing that the price of the third was twice that of the first and that to write the three prices in question (all euro integers) nine different digits are used?
+> Nando finally made up his mind and even bought three clothes. He did not pay any expenses and paid $1991$ Euro. What was the price of the second dress, knowing that the price of the third was twice that of the first and that to write the three prices in question (all euro integers) nine different digits are used?
 > 
 > What is the price of the second dress?
 

@@ -54,10 +54,10 @@ tags:
 
 > An isosceles trapezoid with bases $a$ and $c$ and height $h$ is given.
 > 
-> (a) On the symmetry axis of this trapezoid, find all points $P$ such that both oblique sides of the trapezoid subtract right angles in $P$.
+> (a) On the axis of symmetry of this trapezoid, find all points $P$ such that both oblique sides of the trapezoid subtract right angles in $P$.
 > 
-> (b) Calculate the distance < MSK0/> from each base.
+> (b) Calculate the distance $P$ from each base.
 > 
-> (c) Determine under what conditions such MSK0/ points actually exist (discuss the various cases that may arise).
+> (c) Determine under what conditions such$P$points actually exist (discuss the various cases that may arise).
 
 [[src_imho_1960__Q07]]

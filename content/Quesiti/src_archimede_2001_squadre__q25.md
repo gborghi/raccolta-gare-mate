@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>third radius < MSK1/>
+*third radius *
 
 > The amount of the loan shall be calculated as follows:
 > 

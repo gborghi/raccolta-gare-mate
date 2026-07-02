@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> in how many ways< MSK1/>
+* in how many ways*
 
 > Anna has 100 discs of different sizes. He wants to build a tower overlapping 99 disks so that each disk is smaller than the disk it's leaning on. How many different ways can you do that? A) 49
 > 	

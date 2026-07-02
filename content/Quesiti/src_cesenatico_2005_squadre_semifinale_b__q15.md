@@ -49,7 +49,7 @@ tags:
 
 Maximum area of two semicircles of fabric 140x70*
 
-> Two semicircles are to be made from a piece of fabric < MSK0/> cm long and < MSK1/> cm wide so as to use as much fabric as possible. What is the total area of the fabric used?
+> Two semicircles are to be made from a piece of fabric $140$ cm long and $70$ cm wide so as to use as much fabric as possible. What is the total area of the fabric used?
 
 **Answer:** 8357
 [[src_cesenatico_2005_squadre_semifinale_b__Q15]]

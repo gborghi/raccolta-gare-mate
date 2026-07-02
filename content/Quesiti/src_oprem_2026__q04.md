@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esercizio 1, Q4: volume del secchio di frustum, raggio del livello dell'acqua e livello di mezzo riempimento< MSK1/>
+*Esercizio 1, Q4: volume del secchio di frustum, raggio del livello dell'acqua e livello di mezzo riempimento*
 
-> Esercizio 1 (tutti i candidati) - La metà non è stupida. Un secchio ha la forma di un cono troncato di piccolo raggio $r$, grande raggio $R > r$ e altezza totale $h$. a) giustificare che il volume totale sia < MSK3/>. b) Si riempie il secchio fino ad un'altezza $x$; $\rho$ sia il numero reale appartenente all'intervallo $[0,h]$ in modo tale che la superficie dell'acqua a questa altezza $x$ sia un disco di raggio $\rho$. Determinare < MSK9/> in termini di < MSK10/>, < MSK11/>, < MSK12/> e < MSK13/>. c) Supponiamo che $r = 1$, $R = 1.2$ e $h = 2$. Utilizzando la calcolatrice, indicare un valore approssimativo di $x$ in modo che il secchio sia riempito a metà della sua capacità. Perché non si può limitare la ricerca intorno al valore $x = 1$?
+> Esercizio 1 (tutti i candidati) - La metà non è stupida. Un secchio ha la forma di un cono troncato di piccolo raggio $r$, grande raggio $R > r$ e altezza totale $h$. a) giustificare che il volume totale sia $\mathcal{V} = \frac{\pi h}{3}(r^2 + Rr + R^2)$. b) Si riempie il secchio fino ad un'altezza $x$; $\rho$ sia il numero reale appartenente all'intervallo $[0,h]$ in modo tale che la superficie dell'acqua a questa altezza $x$ sia un disco di raggio $\rho$. Determinare $\rho$ in termini di $x$, $r$, $R$ e $h$. c) Supponiamo che $r = 1$, $R = 1.2$ e $h = 2$. Utilizzando la calcolatrice, indicare un valore approssimativo di $x$ in modo che il secchio sia riempito a metà della sua capacità. Perché non si può limitare la ricerca intorno al valore $x = 1$?
 
 ![[src_oprem_2026__Q04.png]]
 

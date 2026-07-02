@@ -45,6 +45,6 @@ tags:
 
 *Prove product of differences divisible by product of c_i*
 
-> If $k$, $m$, $n$ are natural numbers such that $m + k + 1$ is a prime number greater than $n + 1$. It shall be < MSK6/>. Demonstrate that the product $$(c_{m+1} - c_k)(c_{m+2} - c_k) \cdots (c_{m+n} - c_k)$$ is divisible by the product $c_1 c_2 \cdots c_n$.
+> If $k$, $m$, $n$ are natural numbers such that $m + k + 1$ is a prime number greater than $n + 1$. It shall be $c_s = s(s+1)$. Demonstrate that the product $$(c_{m+1} - c_k)(c_{m+2} - c_k) \cdots (c_{m+n} - c_k)$$ is divisible by the product $c_1 c_2 \cdots c_n$.
 
 [[src_imo_1967_all__Q03]]

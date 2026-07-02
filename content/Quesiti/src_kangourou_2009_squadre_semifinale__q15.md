@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last figure of 2^2009+3^2009+5^2009+7^2009< MSK1/>
+*Last figure of 2^2009+3^2009+5^2009+7^2009*
 
 > The last digit What is the number 22009 + 32009 + 52009 + 72009?
 > 

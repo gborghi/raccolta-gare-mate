@@ -79,12 +79,12 @@ tags:
 > 
 > Il postino deve consegnare una lettera per casa.
 > 
-> Per fare questo, inizia a partire in bicicletta a casa $1$ e lascia cadere la lettera corrispondente; poi distribuisce le altre lettere alle altre case, e infine ritorna a casa $1$ per prendere di nuovo la sua bicicletta.
+> Per fare questo, inizia a partire in bicicletta a casa $1$ e lascia cadere la lettera corrispondente; poi distribuisce le altre lettere alle altre case, e infine torna a casa $1$ per riprendere la sua bicicletta.
 > 
 > Egli effettua così un solo viaggio, dove i numeri successivi delle case a cui ha consegnato formano un percorso di corriere.
 > 
-> Ad esempio, se $n = 5$, un viaggio possibile è $1, 5, 2, 4, 3, 1.$ La distanza totale percorsa, chiamata lunghezza del viaggio, è pari a $12$ poiché in questo caso è pari a $|5-1| + |2-5| + |4-2| + |3-4| + |1-3| = 12.$ Un altro viaggio possibile è $1, 3, 5, 4, 2, 1$, di lunghezza $8.$
+> Ad esempio, se $n = 5$, un viaggio possibile è $1, 5, 2, 4, 3, 1.$ La distanza totale percorsa, chiamata lunghezza del viaggio, è pari a $12$ poiché in questo caso è uguale a $|5-1| + |2-5| + |4-2| + |3-4| + |1-3| = 12.$ Un altro viaggio possibile è $1, 3, 5, 4, 2, 1$, di lunghezza $8.$
 > 
-> 1. Quanti viaggi ci sono? 2. a) Indicare che ogni viaggio ha una lunghezza superiore o pari a < MSK0/>. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
+> 1. Quanti viaggi ci sono? 2. a) Indicare che ogni viaggio ha una lunghezza superiore o pari a $2(n-1)$. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
 
 [[src_cgen_2012__Q03]]

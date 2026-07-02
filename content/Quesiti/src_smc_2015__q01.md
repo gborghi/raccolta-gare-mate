@@ -59,7 +59,7 @@ tags:
 
 *Evaluare 2015^2 meno 2016 volte 2014*
 
-> Che cos' è < MSK0/>?
+> Che cos' è $2015^2 - 2016 \times 2014$?
 >
 > - **(A)** $-2015$
 > - **(B)** $-1$

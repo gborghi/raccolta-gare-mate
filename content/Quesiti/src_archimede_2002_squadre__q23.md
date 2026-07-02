@@ -47,9 +47,9 @@ tags:
 
 *triangle geometry*
 
-> < MSK0/>Anna's triangle < MSK1/>  60 points
+> **Anna's triangle **  60 points
 > 
-> Anna just drew a triangle using her reel and made each side an odd number of centimeters. How many triangles of this kind can he draw, considering that his rectangle does not allow for measurements of more than six inches [35]? (NB: Two triangles are considered different only if they are not congruent)
+> Anna just drew a triangle using her reel and made each side an odd number of centimeters. How many triangles of this kind can he draw, considering that his rectangle does not allow for measurements of more than six inches [35 cm]? (NB: Two triangles are considered different only if they are not congruent)
 
 **Answer:** 0615
 [[src_archimede_2002_squadre__Q23]]

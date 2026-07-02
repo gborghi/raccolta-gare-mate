@@ -58,7 +58,7 @@ tags:
 
 *Trovare l'età di Ludmilson x data (x-55) ((x+55) è un cubo primo.*
 
-> Lasciate che < MSK0/> sia l'età di Ludmilson. È noto che $(x-55)(x+55)=p^3$, dove $p$ è un numero primo. Determina l'età di Ludmilson. [Fonte: scheda ufficiale delle soluzioni (gabarito); dichiarazione ricostruita dalla soluzione. I fattori della soluzione sono i casi $\{x-55=1,\ x+55=p^3\}$ e $\{x-55=p,\ x+55=p^2\}$, dando $p^2-p=110$, $p=11$, $x=66$.]
+> Lasciate che $x$ sia l'età di Ludmilson. È noto che $(x-55)(x+55)=p^3$, dove $p$ è un numero primo. Determina l'età di Ludmilson. [Fonte: scheda ufficiale delle soluzioni (gabarito); dichiarazione ricostruita dalla soluzione. I fattori della soluzione sono i casi $\{x-55=1,\ x+55=p^3\}$ e $\{x-55=p,\ x+55=p^2\}$, dando $p^2-p=110$, $p=11$, $x=66$.]
 
 **Risposta:** 66
 [[src_obm_2007_n2_f2__Q01]]

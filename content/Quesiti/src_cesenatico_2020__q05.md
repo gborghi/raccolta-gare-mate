@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max and min of f(2020) < MSK1/>
+*max and min of f(2020) *
 
 > Either S is the sum of integers greater than or equal to 2. A function f: S →S is said to be primordial if it has the following properties: • it is surjective (i.e. for every s ∈S there is at least one n ∈S such that f(n) = s), • it is increasing on primes (i.e. if p1 < p2 are prime numbers, then f(p1) < f(p2)), • for every n ∈S, the value of f(n) is the product of f(p) when f ((p) varies between all primes dividing n (so, for example, f((360) = f(23 · 32 · 5) = f2) · f3) · f5)). Determine the maximum and minimum possible value for f(2020), as f varies between all primordial functions.
 

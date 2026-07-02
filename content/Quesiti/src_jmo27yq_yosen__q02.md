@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contate le fatturazioni ordinate in coprime a<b di 29! < MSK1/>
+*Contate le fatturazioni ordinate in coprime a<b di 29! *
 
 > Quante coppie di integri positivi $(a,b)$ esistono tali che $a<b$, $ab=29!$, e $a$ e $b$ siano coprime (cioè: $\gcd(a,b)=1$)?
 

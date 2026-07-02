@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many prime r sums of two prime numbers with equal sums < MSK1/>
+*How many prime r sums of two prime numbers with equal sums *
 
 > (Points 5) A prime r is the sum of two prime p and q. It also happens that the sum of the digits r coincides with the sum of the digits p plus the sum of the digits q. How many possible prime r numbers are in this situation? (Warning: 1 is not a prime number!) A) Only 1
 > 	

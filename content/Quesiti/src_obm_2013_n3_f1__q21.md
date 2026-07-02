@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/> Trapezoide ABCD, AB di direzione BAD=74, angolo BK82, ABC=P su CD con AD+DP=PC+CB=AB; trovare angolo APB< MSK1/>
+* Trapezoide ABCD, AB di direzione BAD=74, angolo B82, ABC=P su CD con AD+DP=PC+CB=AB; trovare angolo APB*
 
-> Nel trapezoide $ABCD$, con $AB$ parallelo a $CD$, l'angolo $\angle BAD$ misura $82^\circ$ e l'angolo $\angle ABC$ misura $74^\circ$. Supponiamo che esista un punto $P$ sul lato $CD$ tale che $AD + DP = PC + CB = AB$. Quanto misura l'angolo < MSK10/>?
+> Nel trapezoide $ABCD$, con $AB$ parallelo a $CD$, l'angolo $\angle BAD$ misura $82^\circ$ e l'angolo $\angle ABC$ misura $74^\circ$. Supponiamo che esista un punto $P$ sul lato $CD$ tale che $AD + DP = PC + CB = AB$. Quanto misura l'angolo $\angle APB$?
 > 
 > (A) $76^\circ$ \quad (B) $77^\circ$ \quad (C) $78^\circ$ \quad (D) $79^\circ$ \quad (E) $80^\circ$
 

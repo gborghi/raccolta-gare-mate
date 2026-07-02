@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum loss of vouchers for shoes< MSK1/>
+*Minimum loss of vouchers for shoes*
 
 > Mario wants to buy a pair of shoes that cost 117 and, having at his disposal a voucher for 50 and, five vouchers for 20 and, eight for 5 and and one for 1 and. If the value of the vouchers exceeds the price of the product, the difference shall not be refunded. How much of the value of the vouchers will be lost, at least, to pay for the shoes entirely with your vouchers?
 >

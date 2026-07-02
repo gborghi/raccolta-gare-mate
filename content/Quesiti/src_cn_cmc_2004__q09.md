@@ -52,7 +52,7 @@ tags:
 
 *Angolo diidrale in un cubo lungo il bordo diagonale*
 
-> Nel diagramma, $ABCD$-$A_1B_1C_1D_1$ è un cubo. Disegni di linea $\overline{D_1C}$ e $\overline{D_1B}$. Disegnare $CE$ in modo tale che $CE \perp D_1B$ e $CE$ si incrociano $\overline{D_1B}$ a $F$. < MSK9/> si interseca con < MSK10/> a < MSK11/>. L'angolo diedrico $A$-$BD_1$-$A_1$ in gradi è ___.
+> Nel diagramma, $ABCD$-$A_1B_1C_1D_1$ è un cubo. Disegni di linea $\overline{D_1C}$ e $\overline{D_1B}$. Disegnare $CE$ in modo tale che $CE \perp D_1B$ e $CE$ si incrociano $\overline{D_1B}$ a $F$. $AE$ si interseca con $\overline{D_1B}$ a $G$. L'angolo diedrico $A$-$BD_1$-$A_1$ in gradi è ___.
 
 ![[src_cn_cmc_2004__Q09.png]]
 

@@ -54,7 +54,7 @@ tags:
 
 *Vertical points encountered by the diagonal rectangle 350x210*
 
-> Millimeter paper On a sheet of millimeter paper, where a square grid of one millimeter of side is present, a rectangle of 350 < MSK0/> 210 millimetres with sides parallel to the lines already on the sheet and vertices coinciding with vertices of the squares is shown. How many vertices of squares does each of the diagonals of this rectangle meet?
+> Millimeter paper On a sheet of millimeter paper, where a square grid of one millimeter of side is present, a rectangle of 350 × 210 millimetres with sides parallel to the lines already on the sheet and vertices coinciding with vertices of the squares is shown. How many vertices of squares does each of the diagonals of this rectangle meet?
 
 **Answer:** 71
 [[src_kangourou_2009_squadre_semifinale__Q07]]

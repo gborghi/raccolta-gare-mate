@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area of the largest triangle on a 4x4 grid of points< MSK1/>
+*Area of the largest triangle on a 4x4 grid of points*
 
 ![[src_kangourou_2017_benjamin_semifinale__prob3.png]]
 

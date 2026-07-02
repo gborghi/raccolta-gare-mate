@@ -51,6 +51,6 @@ tags:
 
 *Trova a_{2004} per la ricorrenza a_{n+2}=(a_n+1)/a_{n+1} con a_1=a_2=1*
 
-> La sequenza $\{a_n\}$ soddisfa $a_1 = a_2 = 1$ e $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Trova < MSK4/>.
+> La sequenza $\{a_n\}$ soddisfa $a_1 = a_2 = 1$ e $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Trova $a_{2004}$.
 
 [[src_cn_cwmo_2004__Q05]]

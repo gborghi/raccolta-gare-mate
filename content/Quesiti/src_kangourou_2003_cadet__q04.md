@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max interior straight angles in a hexagon< MSK1/>
+*Max interior straight angles in a hexagon*
 
 > In a hexagon (not necessarily convex) how many straight interior angles can be found at most? A) 2 B) 3 C) 4 D) 5 E) 6
 

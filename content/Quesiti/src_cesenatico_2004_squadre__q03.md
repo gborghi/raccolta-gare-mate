@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum biscuits with divisible by 3,5,7 with data residues< MSK1/>
+*Minimum biscuits with divisible by 3,5,7 with data residues*
 
 > Ladies Elissa, Fiammetta and Neifile have bought a box of typical Franquvian cookies. Madame Elissa equally distributes the cookies of her packaging to her 3 children, Madame Fiammetta eats two and then divides in equal parts the remaining cookies of her packaging to her 5 children, finally Madame Neifile eats two and equally distributes her remaining cookies to her 7 children. How many cookies does a package contain, at least?
 

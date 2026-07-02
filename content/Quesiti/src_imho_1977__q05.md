@@ -53,6 +53,6 @@ tags:
 
 Parts $(a,b)$ with $a^2+b^2$ divisible by $a+b$; remainder $r=1977$*
 
-> Let < MSK0/> and < MSK1/> be positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the remainder is $r$. Prove that there are infinitely many pairs $(a, b)$ such that $q^2 + r = 1977$.
+> Let $a$ and $b$ be positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the remainder is $r$. Prove that there are infinitely many pairs $(a, b)$ such that $q^2 + r = 1977$.
 
 [[src_imho_1977__Q05]]

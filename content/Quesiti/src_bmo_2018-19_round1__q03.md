@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Determina tutti i prodotti T ottenuti da due coppie di integri che differiscono ciascuna di 9< MSK1/>
+*Determina tutti i prodotti T ottenuti da due coppie di integri che differiscono ciascuna di 9*
 
-> Ares moltiplica due numeri interi che differiscono di 9. Grace moltiplica due numeri interi che differiscono di 9. Essi ottengono lo stesso prodotto < MSK0/>. Determinare tutti i possibili valori di $T$.
+> Ares moltiplica due numeri interi che differiscono di 9. Grace moltiplica due numeri interi che differiscono di 9. Essi ottengono lo stesso prodotto $T$. Determinare tutti i possibili valori di $T$.
 
 [[src_bmo_2018-19_round1__Q03]]

@@ -54,7 +54,7 @@ tags:
 
 > **Fraggle jumps** (20 points)
 > 
-> There are two frogs in the garden of Professor Abacus' mansion. At this time they are in one of the alleys near the swimming pool, moving towards the frog $B$ from the frog $A$. The $A$ frog is 40 cm from the well, while the $B$ frog is one meter from the well behind the $A$. The frog $B$ at each jump covers half the distance that there is at that moment between her and the water well. The $A$ frog on the first jump covers half the distance, the second one covers a third, the third one covers a quarter and so on. After how many jumps does MSK7 exceed MSK8 knowing that frogs always jump at the same time?
+> There are two frogs in the garden of Professor Abacus' mansion. At this time they are in one of the alleys near the swimming pool, moving towards the frog $B$ from the frog $A$. The $A$ frog is 40 centimetres from the well, while the $B$ frog is one metre from the well behind the $A$. The frog $B$ at each jump covers half the distance that is between her and the water well at that moment. The $A$ frog on the first jump covers half the distance, the second one covers a third, the third one covers a quarter and so on. After how many jumps does$B$exceed$A$, knowing that frogs always jump at the same time?
 
 **Answer:** 0004
 [[src_archimede_2002_pubblico__Q08]]

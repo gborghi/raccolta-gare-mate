@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>cubo di legno con 3 facce rosse e 3 facce blu tagliati in 27; cubbi di conteggio con facce rosse e blu< MSK1/>
+*cubo di legno con 3 facce rosse e 3 facce blu tagliati in 27; cubbi di conteggio con facce rosse e blu*
 
 > Ho un cubo di legno, con tre facce rosse e tre facce blu, in modo che facce opposte abbiano colori diversi. Il cubo viene tagliato in $3 \times 3 \times 3 = 27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno, allo stesso tempo, una faccia rossa e un'altra blu?
 > 

@@ -48,6 +48,6 @@ tags:
 
 *Ricerca il piano a+b) dato due equazioni radicali nei reali positivi a,b*
 
-> Supponiamo che $a, b$ siano numeri reali positivi come $a\sqrt{a} + b\sqrt{b} = 183$, $a\sqrt{b} + b\sqrt{a} = 182$. Trova < MSK3/>.
+> Supponiamo che $a, b$ siano numeri reali positivi come $a\sqrt{a} + b\sqrt{b} = 183$, $a\sqrt{b} + b\sqrt{a} = 182$. Trova $\lfloor(a + b)\rfloor$.
 
 [[src_prmo_2017__Q02]]

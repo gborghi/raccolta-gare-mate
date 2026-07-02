@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Problemi massimi risposti punteggiando +4/-1/0 per un totale di 52 su 24< MSK1/>
+*Problemi massimi risposti punteggiando +4/-1/0 per un totale di 52 su 24*
 
 > In un test di scelta multipla con problemi $24$, ciascuno di essi può essere risposto ottenendo uno dei seguenti punteggi: $4$ punti se la risposta è corretta, $-1$ punti se la risposta è errata e $0$ punti se la risposta è lasciata in bianco. Sapendo che uno studente ha ricevuto esattamente $52$ punti, quale è il numero massimo di problemi che avrebbe potuto rispondere?
 > 

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>band length< MSK1/>
+*band length*
 
 ![[src_kangourou_2016_cadet_marzo__prob17.png]]
 

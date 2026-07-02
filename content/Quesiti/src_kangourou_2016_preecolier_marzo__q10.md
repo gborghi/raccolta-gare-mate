@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum white non-contact eggs in the box< MSK1/>
+*Maximum white non-contact eggs in the box*
 
 > Lisa has some chickens that have made white eggs and brown eggs. He put six eggs in the egg-carrying box you see in the picture so that two white eggs never come into contact with each other. How many white eggs did he put in the box? (see figure)
 >

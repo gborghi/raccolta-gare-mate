@@ -53,7 +53,7 @@ tags:
 
 *Lunghezza EF in configurazione di cerchio tangente*
 
-> Tre punti distinti $D$, $B$ e $C$ sono collineari con $DB=BC=2$. Il punto $A$ soddisfa $AB=AC$. Supponiamo che esista un cerchio $\Gamma$ tangente alla linea $AC$ a $A$ e tangente alla linea $DC$ a $D$. $E$ sia l'intersezione di $\Gamma$ e della linea $AB$ diversa da $A$, e $F$ sia l'intersezione di $CE$ e $\Gamma$ diversa da $E$. Trova la lunghezza del segmento $EF$. (Se la risposta contiene un radicale < MSK20/>, indicare il valore < MSK21/> sotto il radicale.)
+> Tre punti distinti $D$, $B$ e $C$ sono collineari con $DB=BC=2$. Il punto $A$ soddisfa $AB=AC$. Supponiamo che esista un cerchio $\Gamma$ tangente alla linea $AC$ a $A$ e tangente alla linea $DC$ a $D$. $E$ sia l'intersezione di $\Gamma$ e della linea $AB$ diversa da $A$, e $F$ sia l'intersezione di $CE$ e $\Gamma$ diversa da $E$. Trova la lunghezza del segmento $EF$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
 ![[src_jmo27yq_yosen__Q04.png]]
 

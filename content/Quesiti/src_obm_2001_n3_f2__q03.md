@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trapezoide ABCD con ABCD; trovare angolo DAB data condizione somma angolo< MSK1/>
+*Trapezoide ABCD con ABCD; trovare angolo DAB data condizione somma angolo*
 
-> Il trapezoide < MSK0/> ha basi < MSK1/>. Il lato $DA$ è lungo $x$ e il lato $BC$ è lungo $2x$. La somma degli angoli $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
+> Il trapezoide $ABCD$ ha basi $AB \parallel CD$. Il lato $DA$ è lungo $x$ e il lato $BC$ è lungo $2x$. La somma degli angoli $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
 
 ![[src_obm_2001_n3_f2__Q03.png]]
 

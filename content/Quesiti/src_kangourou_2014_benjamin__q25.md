@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes between arrivals of subsequent messengers< MSK1/>
+*Minutes between arrivals of subsequent messengers*
 
 > The king and his messengers are traveling from the castle to the summer residence at a speed of 5 Km/h. Every hour the king, from where he is, sends back to the castle a messenger running at the speed of 10 Km/h. How many minutes pass between the arrival of a messenger at the castle and the next? A) 30
 > 	

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>50% more than errors on 30 < MSK1/>
+*50% more than errors on 30 *
 
 > 4. The Kangourou contest involves 30 questions in which each answer is either right or wrong. Last year Rossana took part, answering all questions and her correct answers were 50% more than those wrong. How many correct answers did Rossana give ? A) 10 B) 12 C) 15 D) 18 E) 20
 

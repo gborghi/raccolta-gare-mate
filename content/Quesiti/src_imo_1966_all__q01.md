@@ -46,6 +46,6 @@ tags:
 
 How many solved only problem B
 
-> In a mathematical competition three problems are proposed $A$, $B$, $C$. Among the participants were 25 students who solved at least one of the problems. Of all the competitors who did not solve the $A$ problem, the number of those who solved $B$ was twice the number of those who solved $C$. The number of students who solved only the $A$ problem was one more than the number of students who solved $A$ and at least one other problem. Of all the students who solved exactly one problem, half didn't solve the MSK8 problem. How many students have solved only the MSK9 problem?
+> In a mathematical competition three problems are proposed $A$, $B$, $C$. Among the participants were 25 students who solved at least one of the problems. Of all the competitors who did not solve the $A$ problem, the number of those who solved $B$ was twice the number of those who solved $C$. The number of students who solved only the $A$ problem was one more than the number of students who solved $A$ and at least one other problem. Of all the students who solved exactly one problem, half didn't solve the$A$problem. How many students have solved only the$B$problem?
 
 [[src_imo_1966_all__Q01]]

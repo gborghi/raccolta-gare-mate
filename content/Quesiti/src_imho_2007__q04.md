@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Angle bisector, circumcircle, perpendicular bisectors, equal areas< MSK1/>
+*Angle bisector, circumcircle, perpendicular bisectors, equal areas*
 
 > In triangle $ABC$ the bisector of angle $BCA$ intersects the circumcircle again at $R$, the perpendicular bisector of $BC$ at $P$, and the perpendicular bisector of $AC$ at $Q$. The midpoint of $BC$ is $K$ and the midpoint of $AC$ is $L$. Prove that the $RPK$ and $RQL$ triangles have the same area.
 

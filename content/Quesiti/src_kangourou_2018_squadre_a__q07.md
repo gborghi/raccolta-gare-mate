@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grams of material after 20 days (evaporation) < MSK1/>
+*Grams of material after 20 days (evaporation) *
 
 > Evaporation A material evaporates at a constant rate i.e. at equal time, the percentage of the mass evaporating is the same. The mass halves in eight days. Suppose you have such a quantity of that material that the square of its mass is 1,479,200 g2. How many grams of that stuff will you find after 20 days?
 

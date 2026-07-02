@@ -51,8 +51,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare 20 volte dei numeri interi positivi che soddisfano le condizioni di disuguaglianza dei prodotti< MSK1/>
+*Contare 20 volte dei numeri interi positivi che soddisfano le condizioni di disuguaglianza dei prodotti*
 
-> $(p_1, p_2, \ldots, p_{10}, q_1, q_2, \ldots, q_{10})$ sia un $20$-topo di integri positivi con $p_1 = q_{10} = 1$, e per ogni $i = 1, 2, \ldots, 9$, la condizione $p_i q_i - p_{i+1} q_{i+1} \ge 1$ è valida. Quanti sono tali "MSK5/>-tupli"?
+> $(p_1, p_2, \ldots, p_{10}, q_1, q_2, \ldots, q_{10})$ sia un $20$-topo di integri positivi con $p_1 = q_{10} = 1$, e per ogni $i = 1, 2, \ldots, 9$, la condizione $p_i q_i - p_{i+1} q_{i+1} \ge 1$ è valida. Quanti sono tali "$20$-tupli"?
 
 [[src_jmo16yq_yosen__Q12]]

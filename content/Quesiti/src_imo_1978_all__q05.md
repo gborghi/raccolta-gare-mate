@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum a_k/k^2 >= sum 1/k< MSK1/>
+*sum a_k/k^2 >= sum 1/k*
 
 > Let $\{a_k\}$ ($k = 1, 2, 3, \ldots$) be a sequence of distinct positive integers. Prove that for all natural numbers
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of positive divisors of 6 factors< MSK1/>
+*Number of positive divisors of 6 factors*
 
 > How many positive divisors does he have? = 1·2·3·4·5·6 ? (The divisors of a number must also include 1 and the number itself.)
 >

@@ -53,7 +53,7 @@ tags:
 
 *Angolo inciso ECF con accordi paralleli CD e AB, arco CA=44 gradi*
 
-> Poiché le misure $CA$ $44^\circ$ e $CD$ e $AB$ sono parallele, le misure $DB$, $CE$ e $FD$ sono congruenti e misurano anche $44^\circ$. Poiché $CB$ è un diametro, l'arco $EF$ misura $180^\circ-44^\circ-44^\circ=48^\circ$. Infine $\angle ECF$ è l'angolo inserito determinato da arco $EF$, quindi il suo valore è $48^\circ/2=24^\circ$. Qual è il valore di < MSK14/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Poiché le misure $CA$ $44^\circ$ e $CD$ e $AB$ sono parallele, le misure $DB$, $CE$ e $FD$ sono congruenti e misurano anche $44^\circ$. Poiché $CB$ è un diametro, l'arco $EF$ misura $180^\circ-44^\circ-44^\circ=48^\circ$. Infine $\angle ECF$ è l'angolo inserito determinato da arco $EF$, quindi il suo valore è $48^\circ/2=24^\circ$. Qual è il valore di $\angle ECF$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
 [[src_obm_2016_n2_f1__Q09]]

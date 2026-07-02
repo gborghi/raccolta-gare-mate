@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quattro linee di faccia tetraedro concomitanti se i prodotti di lati opposti sono uguali < MSK1/>
+*Quattro linee di faccia tetraedro concomitanti se i prodotti di lati opposti sono uguali *
 
 > Prove che le quattro linee che uniscono i vertici di un tetraedro con gli incentri delle facce opposte hanno un punto comune se e solo se i tre prodotti delle lunghezze dei bordi opposti sono uguali.
 

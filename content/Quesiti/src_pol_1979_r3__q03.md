@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Probabilità di esatti successi k in n test indipendenti< MSK1/>
+*Probabilità di esatti successi k in n test indipendenti*
 
-> Un esperimento consiste nell'esecuzione di test indipendenti $n$. La prova $i$-è riuscita con probabilità pari a $p_i$. La probabilità di successo dei test $k$ è $p_k$. Provare che < MSK0/>
+> Un esperimento consiste nell'esecuzione di test indipendenti $n$. La prova $i$-è riuscita con probabilità pari a $p_i$. La probabilità di successo dei test $k$ è $p_k$. Provare che $$\sum_{k=0}^{n} k p_k = \sum_{i=1}^{n} p_i.$$
 
 [[src_pol_1979_r3__Q03]]

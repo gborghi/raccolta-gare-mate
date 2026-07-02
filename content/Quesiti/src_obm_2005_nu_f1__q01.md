@@ -58,6 +58,6 @@ tags:
 
 *Ricerca l'area del triangolo formato da linee tangenti a cubo*
 
-> $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono numeri interi. È noto che < MSK5/>. Le linee tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si incrociano al punto $C$. Calcolare l'area del triangolo $ABC$, sapendo che quest'area è un numero intero.
+> $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono numeri interi. È noto che $f(1) = f(-1) = 0$. Le linee tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si incrociano al punto $C$. Calcolare l'area del triangolo $ABC$, sapendo che quest'area è un numero intero.
 
 [[src_obm_2005_nu_f1__Q01]]

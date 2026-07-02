@@ -58,7 +58,7 @@ tags:
 
 *Magic square 4×4 with constant symmetrical sum and 15.14 at the center of the fourth line*
 
-> Dürer's magic square, contained in his famous Melancholia, has a peculiarity: the sum of two symmetrical numbers relative to the center of the square is always equal to half the magic sum (i.e. $17$). Find another magic square, with the numbers MSK2/ and MSK3/ written in this order in the middle of the fourth line, which has the same property.
+> Dürer's magic square, contained in his famous Melancholia, has a peculiarity: the sum of two symmetrical numbers relative to the center of the square is always equal to half the magic sum (i.e. $17$). Find another magic square, with the numbers$15$and$14$written in this order in the middle of the fourth line, which has the same property.
 
 **Answer:** Quadrato magico: prima riga $[13,3,2,16]$, seconda riga $[8,10,11,5]$, terza riga $[12,6,7,9]$, quarta riga $[1,15,14,4]$ (e varianti per simmetria)
 [[src_bocconi_squadre_2014__Q18]]

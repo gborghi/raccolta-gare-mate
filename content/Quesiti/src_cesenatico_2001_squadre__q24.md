@@ -49,9 +49,9 @@ tags:
 
 *Ordered pairs of 385 divisors with m divisor of n*
 
-> < MSK0/>Schools placed < MSK1/> (15 points)
+> **Schools placed ** (15 points)
 > 
-> A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and that $m$ is divisor of $n$. Can you give him a hand and tell him how many?
+> A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and $m$ is divisor of $n$. Can you give him a hand and tell him how many?
 > 
 > (NB: 1 and $k$ are considered to be $k$ divisors)
 

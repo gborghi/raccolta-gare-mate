@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Four first years with a total of 240, the youngest < MSK1/>
+*Four first years with a total of 240, the youngest *
 
 > Anna, Bianca, Carla, and Diana are four women of different ages. Their ages are prime numbers whose sum is 240. Knowing that none of them are over 70, what is the age of the youngest?
 >

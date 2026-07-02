@@ -40,23 +40,8 @@ tags:
 > m   modo che i 4 poligoni abbiano la stessa area? 
 >  
 >          A. No, qualunque sia il triangolo ABC 
->  
->  
->  
->  
->  
->  
 > B. Sì, ma solo se ABC un triangolo equilatero 
->  
->  
->  
->  
->  
 > C. Sì, ma solo se ABC è un triangolo rettangolo  
->  
->  
->  
->  
 > D. Sì, ma solo se ABC è un triangolo ottusangolo        
 >  
 >  

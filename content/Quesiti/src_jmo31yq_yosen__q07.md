@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Centroidi ACP e ABQ coincidono; trovare BC< MSK1/>
+*Centroidi ACP e ABQ coincidono; trovare BC*
 
 > Sul lato $BC$ del triangolo $ABC$, si prendono i punti $P$ e $Q$ e il centroide del triangolo $ACP$ coincide con il centroide del triangolo $ABQ$. Dato $AB=10$, $AC=11$, $BP=5$, $CQ=6$, si trova la lunghezza del lato $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 

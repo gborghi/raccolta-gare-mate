@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pair of firsts with sum of 126 and product< MSK1/>
+*Pair of firsts with sum of 126 and product*
 
-> It's cold near the fence and nothing's happening. To warm up, the Night's Watchers complicate the calculations. For example, Edd the Sorrowful writes all possible pairs $(p, q)$ of prime numbers (then greater than 1) such that: 1. $p + 2q$ is prime 2. $6p + q$ is prime 3. < MSK3/> shall be first.
+> It's cold near the fence and nothing's happening. To warm up, the Night's Watchers complicate the calculations. For example, Edd the Sorrowful writes all possible pairs $(p, q)$ of prime numbers (then greater than 1) such that: 1. $p + 2q$ is prime 2. $6p + q$ is prime 3. $p + q - 124$ shall be first.
 > 
 > Then they write the product $p \cdot q$ for each of these pairs. What's the minimum product they write?
 

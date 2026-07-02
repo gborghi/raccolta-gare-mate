@@ -40,15 +40,6 @@ tags:
 > Lara ha dapprima disegnato un triangolo equilatero. Poi ha unito i punti medi di 
 > ogni lato e ha ottenuto un triangolo più piccolo che ha annerito. Poi ha ripetuto l’operazione su ogni triangolo bianco che le è rimasto. La figura mostra il risultato dei 
 > primi tre passi di questa procedura. 
-> 	
-> 	
-> 	
-> 	
-> 	
-> 	 	
-> 	
-> 	
-> 	
 > Lara prosegue nel suo gioco. Quanti triangoli scuri ci saranno al passo successivo?
 > A) 7	
 > 	
@@ -71,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Dark triangles at the next step in the fractal < MSK1/>
+*Dark triangles at the next step in the fractal *
 
 ![[src_kangourou_2016_ecolier_marzo__prob12.png]]
 

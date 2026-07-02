@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> when < MSK1/>
+* when *
 
-> < MSK0/>Schools placed < MSK1/> (15 points)
+> **Schools placed ** (15 points)
 > 
 > A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and $m$ is divisor of $n$. Can you give him a hand by telling him how many pairs there are?
 > 

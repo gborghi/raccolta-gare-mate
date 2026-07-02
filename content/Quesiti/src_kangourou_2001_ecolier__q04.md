@@ -32,10 +32,6 @@ tags:
 *Numero X nel triangolo di Tartaglia*
 
 > Il numero che si deve porre al posto di "X" nella tabella
-> 1
-> 1
-> 1
-> 1
 > 2
 > 1
 > 1

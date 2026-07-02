@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fish with the nose towards the ring by stretching the rope< MSK1/>
+*Fish with the nose towards the ring by stretching the rope*
 
 ![[src_kangourou_2021_ecolier__prob2.png]]
 

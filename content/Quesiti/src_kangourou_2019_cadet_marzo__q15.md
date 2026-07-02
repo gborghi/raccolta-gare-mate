@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many hugs does Enza exchange (knowledge graph) < MSK1/>
+*How many hugs does Enza exchange (knowledge graph) *
 
 > 15. Anna, Bella, Chiara, Dora and Enza are at a party, each hugging exactly one of the girls she knows among the other four. Anna changes one hug, Bella changes two, Clara changes three and Dora changes four. How many hugs does Enza exchange? A) 1 B) 2 C) 3 D) 4 E) 0
 

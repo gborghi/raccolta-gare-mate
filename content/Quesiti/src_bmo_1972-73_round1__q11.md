@@ -62,11 +62,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due cilindri grossi, uno a rotoli sull'altro; ottenere il theta-dot dall'ODE< MSK1/>
+*Due cilindri grossi, uno a rotoli sull'altro; ottenere il theta dot dall'ODE*
 
 > (i) Due cilindri circolari a destra $A$ e $B$, di uguale lunghezza, hanno rispettivamente radii e masse $a$, $b$ e $M$, $m$.
 > 
-> $A$ si basa su un generatore in contatto con una tavola orizzontale ruvida. $B$ si basa su $A$, inizialmente in equilibrio instabile, con l'asse verticalmente superiore a $A$. L'equilibrio è disturbato, < MSK4/> ruota su < MSK5/> e < MSK6/> ruota sul tavolo. Nel movimento successivo il piano contenente gli assi fa un angolo $\theta$ con la verticale.
+> $A$ si basa su un generatore in contatto con una tavola orizzontale ruvida. $B$ si basa su $A$, inizialmente in equilibrio instabile, con l'asse verticalmente superiore a $A$. L'equilibrio è disturbato, $B$ ruota su $A$ e $A$ ruota sul tavolo. Nel movimento successivo il piano contenente gli assi fa un angolo $\theta$ con la verticale.
 > 
 > Disegnare diagrammi che mostrino angoli, forze, ecc., per il periodo in cui non c'è scivolamento. Scrivere le equazioni che, in caso di eliminazione, danno un'equazione differenziale per $\theta$, indicando i principi utilizzati. Indicare come si potrebbe effettuare l'eliminazione; non vi viene chiesto di farlo.
 > 

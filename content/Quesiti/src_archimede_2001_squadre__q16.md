@@ -52,11 +52,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>probability of up to 4 consecutive points< MSK1/>
+*probability of up to 4 consecutive points*
 
-> < MSK0/>Sports competence< MSK1/> (55 points)
+> **Sports competence** (55 points)
 > 
-> Two brothers stationed in orbit around the Earth have just watched the fifth set of the Italy-Yugoslavia volleyball game in Imo-Vision, which ended with a score of 15-12 for Yugoslavia. The Pescato, after 5 consecutive points from Sartoretti leads on its net and screams, saying back, who tiffs for Italy: it is Ardna, who tiffs for Italy. You're wrong, says Ardna, Italy has never scored more than 4 points in a row. Olean looks at the statistics, sees that throughout the set there were 8 ball changes and he starts to calculate the probability that he is right (calculating the number of all the possible moves of the score, those that would give him reason and getting the percentage by ignoring the decimal digits). What percentage will Olean find?
+> Two brothers stationed in orbit around the Earth just watched the fifth set of the Italy-Yugoslavia volleyball game in Imo-Vision, which ended with a score of 15-12 for Yugoslavia. The Pescato, after 5 consecutive points from Sartoretti leads on its net and screams, saying back, who tiffs for Italy: it is Ardna, who tiffs for Italy. You're wrong, says Ardna, Italy has never scored more than 4 points in a row. Olean looks at the statistics, sees that throughout the set there have been 8 ball changes and he starts to calculate the probability that he is right (calculating the number of all possible moves of the score, those that would give him right and getting the percentage by ignoring the decimal digits). What percentage will Olean find?
 > 
 > NB: A team scores even when they get the ball.
 

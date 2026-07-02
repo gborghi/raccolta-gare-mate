@@ -49,9 +49,9 @@ tags:
 
 *Total weight of the three bags*
 
-> I'd like to have three bags of biscuits, candy and dried fruit transported. The weight of the first bag  that of the biscuits  is < MSK0/> Kg. We also know that the bag of dried fruit weighs as much as the bag of cookies plus the bag of candy, while the bag weighs as much as the bag of cookies plus half the weight of the bag of dried fruit.
+> I'd like to have three bags of biscuits, candy and dried fruit transported. The weight of the first bag  that of the biscuits  is $12$ Kg. We also know that the bag of dried fruit weighs as much as the bag of cookies plus the bag of candy, while the bag weighs as much as the bag of cookies plus half the weight of the bag of dried fruit.
 > 
-> < MSK0/>What is the total weight of the three bags? < MSK1/>
+> **What is the total weight of the three bags? **
 
 **Answer:** 96 Kg
 [[src_bocconi_primavera_2007__Q08]]

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum parallel-piped area of 500 cubes< MSK1/>
+*Minimum parallel-piped area of 500 cubes*
 
 > Parallelpipedo A rectangular parallelpipedo was constructed by approaching 500 cubes on side 1, so that the area of its total surface is as small as possible. How much is this area worth?
 

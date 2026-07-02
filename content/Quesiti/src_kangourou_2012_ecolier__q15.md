@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Longest interval with at least a 5 digit < MSK1/>
+*Longest interval with at least a 5 digit *
 
 > You have a digital clock in front of you (i.e., a clock that shows the time by indicating the numbers: for example, it writes 12:15 to indicate noon and a quarter). How many minutes is the longest time interval during which at least one of the four digits is 5? A) 10 B) 30 C) 60 D) 70 E) 90 1 x 1 1 x 3 2 x 2 6 −3 6 −5 4 −1 1 + 3 8 −7 9 −7 2 −1
 

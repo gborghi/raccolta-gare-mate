@@ -54,6 +54,6 @@ tags:
 
 *Conteggi funzioni f:S->S su S={1,2,3,4,5} con f^{50}(x)=x per tutte le x.*
 
-> Let < MSK0/>. Trova il numero di funzioni $f : S \to S$ tale da $f^{50}(x) = x$ per tutte le $x \in S$.
+> Let $S = \{1, 2, 3, 4, 5\}$. Trova il numero di funzioni $f : S \to S$ tale da $f^{50}(x) = x$ per tutte le $x \in S$.
 
 [[src_pol_1999_r2__Q05]]

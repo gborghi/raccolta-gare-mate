@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum coins to be minted at a power station< MSK1/>
+*Maximum coins to be minted at a power station*
 
 > 10 euro coins are placed on the table. Taking one of these coins, how many coins are there at most that you can place around it so that they touch it, but there are no overlapping coins? A) 5 B) 6 C) 7 D) 8 E) 9
 

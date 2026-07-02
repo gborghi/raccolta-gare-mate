@@ -48,6 +48,6 @@ tags:
 
 *Linea perpendicolare al centro incontra la corrente corrente a E; prova IE=IF*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Lasciate che $AI$ si intersechi con $BC$ all'interno di $F$. Disegnare una linea perpendicolare a $AI$ a $I$. Lasciate che < MSK9/> si intersechi a < MSK10/>. Prova che < MSK11/>.
+> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Lasciate che $AI$ si intersechi con $BC$ all'interno di $F$. Disegnare una linea perpendicolare a $AI$ a $I$. Lasciate che $AC$ si intersechi a $E$. Prova che $IE = IF$.
 
 [[src_rmo_2016_r2__Q01]]

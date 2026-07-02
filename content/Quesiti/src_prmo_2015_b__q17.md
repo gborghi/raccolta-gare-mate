@@ -55,7 +55,7 @@ tags:
 
 *Espressione P con a+b+c=0; trovare P*
 
-> Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di < MSK5/>?
+> Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di $P$?
 
 **Risposta:** 1
 [[src_prmo_2015_b__Q17]]

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum block of black with distinct white blocks< MSK1/>
+*maximum block of black with distinct white blocks*
 
 > (6 points) We have 90 tokens, half of which are black and the other half white. We want to align them so that the consecutive blocks of white tokens are as many as possible and that no pair of these blocks have the same number of tokens. What is the number of tokens in the largest possible block of consecutive black tokens?
 

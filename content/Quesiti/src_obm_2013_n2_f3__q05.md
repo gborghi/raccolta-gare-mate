@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo di scalene, media AM, cerchio di diametro AM incontra AB e AC; trova angolo BAC< MSK1/>
+*Triangolo di scalene, media AM, cerchio di diametro AM incontra AB e AC; angolo di ricerca BAC*
 
-> Il $ABC$ deve essere un triangolo di scalene e $AM$ la media relativa al lato $BC$. Il cerchio con diametro $AM$ incrocia di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$, entrambi diversi da $A$. Supponiamo che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo < MSK11/>.
+> Si deve $ABC$ essere un triangolo di scalene e $AM$ la media relativa al lato $BC$. Il cerchio di diametro $AM$ incrocia di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$, entrambi diversi da $A$. Supponiamo che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo $\angle BAC$.
 
 [[src_obm_2013_n2_f3__Q05]]

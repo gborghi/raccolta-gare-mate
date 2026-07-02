@@ -54,8 +54,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of 10000 times the product of multiple breasts of pi/5< MSK1/>
+*Value of 10000 times the product of multiple breasts of pi/5*
 
-> The final test [50] The exam to become Mezzin has now come to an end. Few hardworking mornings have managed to reach this goal. But only those who can say how much is worth 10000 (less < MSK0/> 5) (less than 2 5 < MSK1/>) (less than 3 5 < MSK2/>) (less than 4 5 < MSK3/>) will be able to claim the title. What is the value to be given to complete the exam?
+> The final test [50] The exam to become Mezzin has now come to an end. Few hardworking mornings have managed to reach this goal. But only those who can say how much is worth 10000 (less π 5) (less than 2 5 π) (less than 3 5 π) (less than 4 5 π) will be able to claim the title. What is the value to be given to complete the exam?
 
 [[src_cesenatico_2007_squadre_pubblico__Q15]]

@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Second and tenth digits of factor 15 < MSK1/>
+*Second and tenth digits of factor 15 *
 
-> 29. Francis has calculated 1×2× ... MSK2/>15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 e 0 B) 7 e 4 C) 4 e 8 D) 9 e 2 E) 3 e 8
+> 29. Francis has calculated 1×2× ...×15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 e 0 B) 7 e 4 C) 4 e 8 D) 9 e 2 E) 3 e 8
 
 **Answer:** E
 [[src_kangourou_2018_student_marzo__Q29]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum product of factors to be removed to make K square< MSK1/>
+*Minimum product of factors to be removed to make K square*
 
 > The colonisation of the archipelago has cost an unprecedented amount. The real cash deficit K is the product of the following 20 factors: K = 1! · 2! · 3! · · · 19! · 20!. What is the minimum value of the product of the numbers, chosen from 1, 2, . . . , 20, such that, by eliminating the factorial correspondence from K, the number K becomes a perfect square? Team competition 2004  National stage  Problem texts  Pag. 4 di 4
 

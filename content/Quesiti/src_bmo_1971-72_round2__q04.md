@@ -57,6 +57,6 @@ tags:
 
 *Ricerca tutti i polinomi p tali che a·p(a2)+b·p(b2)+c·p(c2)=k·abc per i lati del triangolo*
 
-> Quando $k = 1$, trovare tutti i polinomi $p$ in una variabile tale che $$a \cdot p(a^2) + b \cdot p(b^2) + c \cdot p(c^2) = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$. Prova il tuo risultato. Qual è l' effetto di alterare < MSK8/>?
+> Quando $k = 1$, trovare tutti i polinomi $p$ in una variabile tale che $$a \cdot p(a^2) + b \cdot p(b^2) + c \cdot p(c^2) = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$. Prova il tuo risultato. Qual è l' effetto di alterare $k$?
 
 [[src_bmo_1971-72_round2__Q04]]

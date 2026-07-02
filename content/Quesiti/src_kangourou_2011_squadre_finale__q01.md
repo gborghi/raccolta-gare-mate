@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Higher figure sum on digital watch< MSK1/>
+*Higher figure sum on digital watch*
 
 > Anna and her watch Anna enjoys calculating the sum of the digits that appear on her digital watch: for example, if the clock indicates 21:17, Anna gets 11. What is the highest amount Anna can get?
 

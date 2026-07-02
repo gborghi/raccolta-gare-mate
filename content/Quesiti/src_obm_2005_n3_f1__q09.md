@@ -53,6 +53,6 @@ tags:
 
 *Volume stimato di tutto il platino prodotto nella storia per densità e tonnellata*
 
-> Il platino è un metallo molto raro, più raro e costoso dell'oro. La densità è < MSK0/>. Supponiamo che la produzione mondiale di platino negli ultimi anni fosse di circa < MSK2/> tonnellate all'anno, e che prima fosse trascurabile. Indicare l'alternativa il cui volume è più vicino al volume di platino prodotto nella storia umana: (A) una scatola da scarpe (B) una piscina (C) un edificio di dieci piani (D) il Monte Pascoal (E) la Luna
+> Il platino è un metallo molto raro, più raro e costoso dell'oro. La densità è $21.45\ \text{g/cm}^3$. Supponiamo che la produzione mondiale di platino negli ultimi anni fosse di circa $110$ tonnellate all'anno, e che prima fosse trascurabile. Indicare l'alternativa il cui volume è più vicino al volume di platino prodotto nella storia umana: (A) una scatola da scarpe (B) una piscina (C) un edificio di dieci piani (D) il Monte Pascoal (E) la Luna
 
 [[src_obm_2005_n3_f1__Q09]]

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Errored date of Kangourou Day (third Thursday of March) < MSK1/>
+*Errored date of Kangourou Day (third Thursday of March) *
 
 > Kangourou Day is celebrated every year on the third Thursday of March. The following are the dates of Kangourou Day for the next five years. Four are right, but one is wrong. What kind? This appropriation is intended to cover the expenditure incurred by the Member States in connection with the implementation of the budget of the European Union.
 

@@ -88,7 +88,7 @@ tags:
 \end{document}
 ```
 
-> Emilia wants to write a number in each cell of a grid 3 < MSK0/> 3 so that the sums of the numbers written in two cells that have one side in common are all the same. As the figure shows, he's already written two numbers. What is the sum of all the numbers in the grid? A) 18
+> Emilia wants to write a number in each cell of a grid 3 × 3 so that the sums of the numbers written in two cells that have one side in common are all the same. As the figure shows, he's already written two numbers. What is the sum of all the numbers in the grid? A) 18
 > 	
 > B) 20
 > 	

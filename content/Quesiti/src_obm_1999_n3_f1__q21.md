@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trova il rapporto di età di Maria nel 1996 e nel 2002< MSK1/>
+*Trova il rapporto di età di Maria nel 1996 e nel 2002*
 
-> Il 12/6/1999, Pedro e Maria celebrano i loro compleanni. Lo stesso giorno del 1996, l'età di Pedro era < MSK0/> dell'età di Maria. Nello stesso giorno del 2002, l'età di Pedro sarà uguale a quella di Maria quando aveva 20 anni. Quanti anni ha oggi Maria?
+> Il 12/6/1999, Pedro e Maria celebrano i loro compleanni. Lo stesso giorno del 1996, l'età di Pedro era $\frac{3}{4}$ dell'età di Maria. Nello stesso giorno del 2002, l'età di Pedro sarà uguale a quella di Maria quando aveva 20 anni. Quanti anni ha oggi Maria?
 > 
 > A) 30 \quad B) 31 \quad C) 33 \quad D) 34 \quad E) 34
 

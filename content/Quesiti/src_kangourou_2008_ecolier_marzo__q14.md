@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum bricks 1x2x4 in a box 4x4x4< MSK1/>
+*Maximum bricks 1x2x4 in a box 4x4x4*
 
 ![[src_kangourou_2008_ecolier_marzo__prob14.png]]
 

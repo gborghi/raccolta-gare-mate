@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Where to start to visit each box< MSK1/>
+*Where to start to visit each box*
 
 ![[src_kangourou_2008_benjamin_marzo__prob23.png]]
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> all different digits again< MSK1/>
+* all different digits again*
 
 ![[src_kangourou_2022_student__prob11.png]]
 

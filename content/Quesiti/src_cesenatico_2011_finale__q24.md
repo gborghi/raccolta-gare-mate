@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of p(1000) per product (1+x^2i) < MSK1/>
+*Summary of p(1000) per product (1+x^2i) *
 
 > The third and final task imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Mountain sage. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=1(1+x2i) and burns it up and asks how much the sum of the digits in base 10 of p(1000 is worth. How should Abelix respond?
 > 

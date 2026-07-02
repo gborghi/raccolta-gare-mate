@@ -56,7 +56,7 @@ tags:
 
 *Ricerca l'intervallo di b e il valore di un dato minimo di una funzione razionale pari a 3*
 
-> Se < MSK0/>, trovare
+> Se $\displaystyle\min_{x\in\mathbf{R}} \frac{ax^2+b}{\sqrt{x^2+1}} = 3$, trovare
 > 
 > (1) l'intervallo di $b$;
 > 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n with Sn+S(n-1)>2024 diagonal polygon< MSK1/>
+*Minimum n with Sn+S(n-1)>2024 diagonal polygon*
 
 > (Points 6) Assigned to a polygon convex of n sides (n > 3), we use Sn to indicate the number of its diagonal. What is the smallest value of n such that Sn + Sn  1 > 2024? The answer is 0048. The solution. For every n > 3 we have Sn = n(n  3)/2, where Sn + Sn  1 = n2  4n + 2. In order to have n2  4n  2022 > 0 must be n > 2 + √2026. The first perfect square greater than 2026 is 2116 = 462.
 

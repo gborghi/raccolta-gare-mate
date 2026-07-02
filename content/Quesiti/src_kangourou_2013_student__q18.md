@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total (x,y) pairs with x^2 y^3 = 6^12 < MSK1/>
+*Total (x,y) pairs with x^2 y^3 = 6^12 *
 
 > How many distinct pairs (x, y) of positive integers satisfy the equation x2 y3 = 612? A) 6
 > 	

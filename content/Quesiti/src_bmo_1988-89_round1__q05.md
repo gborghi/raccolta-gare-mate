@@ -52,6 +52,6 @@ tags:
 
 *Prove sin A + sin B + sin C > 2 per il triangolo acuto*
 
-> Nessun angolo di un triangolo $ABC$ supera $90^\circ$. Provare che < MSK0/>
+> Nessun angolo di un triangolo $ABC$ supera $90^\circ$. Provare che $$\sin A + \sin B + \sin C > 2.$$
 
 [[src_bmo_1988-89_round1__Q05]]

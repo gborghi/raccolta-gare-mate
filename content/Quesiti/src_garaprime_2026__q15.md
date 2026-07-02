@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Anater with red head and feathers (together) < MSK1/>
+*Anater with red head and feathers (together) *
 
 > A lake is populated by 800 ducks with red or blue feathers and red or blue heads. If 430 ducks have red feathers, 290 ducks have blue heads and 160 ducks have both blue heads and blue feathers, how many ducks have both red heads and red feathers?
 >

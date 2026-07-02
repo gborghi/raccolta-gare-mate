@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of 252 cos t -275sin t +298< MSK1/>
+*Maximum of 252 cos t -275sin t +298*
 
 > The strength of a frog miraculously overcame the task of history, Numeruto must now face that of theoretical magical arts! The most difficult question is what is the maximum level of life force that a frog sign matinee can develop. Numeruto is the sign of the frog and is sure that its vital force depends on its θ concentration according to the function: 252cosθ−275sinθ+298. What is the greatest life force Numeruto can develop?
 

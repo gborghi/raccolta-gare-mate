@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum speed ratio between Sandro and Carlo without overtaking< MSK1/>
+*Maximum speed ratio between Sandro and Carlo without overtaking*
 
 > Carlo likes to run, Sandro likes to ride a bicycle. They want to train on the same road, 1.5 km long: Sandro leaves at the beginning of the road, Carlo 1 km ahead. They start at the same moment, they go in the same direction, and each one moves at a constant speed. If Sandro doesn't overtake Carlo, how much is the ratio between Sandro's speed and Carlo's speed?
 >   

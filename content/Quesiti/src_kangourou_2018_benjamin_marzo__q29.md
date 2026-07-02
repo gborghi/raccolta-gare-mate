@@ -69,7 +69,7 @@ tags:
 
 ![[src_kangourou_2018_benjamin_marzo__prob29.png]]
 
-> There are eight dominoes on the table: as you can see, one is half covered by another. The eight cards can be inserted (without necessarily respecting the rules of the master) into a square 4 < MSK0/> 4 so that the number of points in each row and in each column is the same. How many dots are hidden on the cover of the card? Remember, in each half of each card, the points can be 0 to 6. A) 1
+> There are eight dominoes on the table: as you can see, one is half covered by another. The eight cards can be inserted (without necessarily respecting the rules of the master) into a square of 4 × 4 so that the number of points in each row and in each column is the same. How many dots are hidden on the cover of the card? Remember, in each half of each card, the points can be 0 to 6. A) 1
 > 	
 > B) 2
 > 	

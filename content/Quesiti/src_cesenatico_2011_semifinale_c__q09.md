@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Other travel < MSK1/>
+Other travel *
 
 > The three Borelix towers must overcome one of the twelve tasks imposed by Julius Caesar, for this purpose it transports a pile of 7 heavy stone discs from a pedana in the temple of Julius Caesar to an identical one in that of Cleopatra. The discs are of 7 different sizes, must be carried one at a time and can only be placed on a larger disc or on a free pedal. Initially, the discs are stacked in order from the largest (located on the pedal) to the smallest (top). Borelix has the impression that there is no
 

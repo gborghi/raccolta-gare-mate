@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale < MSK1/>
+*Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale *
 
 > Il $ABCD$ deve essere un quadrilaterale converso con $\angle DAB = \angle BDC = 90^\circ$. Lasciate che gli incircoli dei triangoli $ABD$ e $BCD$ toccino $BD$ a $P$ e $Q$, rispettivamente, con $P$ tra $B$ e $Q$. Se $AD = 999$ e $PQ = 200$, qual è la somma dei radii degli incircoli dei triangoli $ABD$ e $BCD$?
 

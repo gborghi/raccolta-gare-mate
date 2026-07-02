@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of brown males in total pupils< MSK1/>
+*Percentage of brown males in total pupils*
 
 > In one class the blondes make up 40 percent of the total while the rest are brown. Of all the blonde students, 75 percent are female. Knowing that the number of females in the class is equal to the number of males, what is the percentage of brown males out of the total number of students in the class?
 >

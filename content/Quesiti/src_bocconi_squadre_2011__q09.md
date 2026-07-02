@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Late of the equivolumetric cube at the reduced parallelpiped< MSK1/>
+*Late of the equivolumetric cube at the reduced parallelpiped*
 
 > Increasing the smallest size of a rectangular parallelepiped by 3 cm and decreasing the largest by 5 cm gives a cube with the same volume as the initial parallelepiped. What's the size of the side of the cube?
 

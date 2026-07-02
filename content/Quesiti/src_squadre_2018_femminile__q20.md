@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Routes on a 6x6 chessboard with no return to the boxes visited< MSK1/>
+*Routes on a 6x6 chessboard with no return to the boxes visited*
 
 > Back from Mars, Beuler is devoting himself to his favorite pastime. Given a 6 6  chessboard with a pedal placed on the box at the bottom left, how many paths exist that lead the pedal into the box at the top right corner and can only make moves that move the pedal from a box to one of the three neighbours with it up, right or down, without being able to return to boxes already crossed? Now trained for these problems, Beuler solves the puzzle in seconds. What solution did you come up with?
 

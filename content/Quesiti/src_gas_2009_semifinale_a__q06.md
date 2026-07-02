@@ -52,7 +52,7 @@ tags:
 
 Succession with average variations, term value 1000
 
-> King Theorem's army King Theorem's barracks are full of soldiers who are moved from one location to another year after year depending on the needs. The particularity is that from last year to this year the average change in the number of soldiers in the n − 1 and n barracks was n for each n < MSK0/>2. Knowing that the 2009 barracks had 1,000 more soldiers, how many more soldiers did the 1,000 barracks have?
+> King Theorem's army King Theorem's barracks are full of soldiers who are moved year after year from one location to another depending on the needs. The particularity is that from last year to this year the average variation between soldiers from the n − 1 and n barracks was n for each n ≥2. Knowing that the 2009 barracks had 1,000 more soldiers, how many more soldiers did the 1,000 barracks have?
 
 **Answer:** 2010
 [[src_gas_2009_semifinale_a__Q06]]

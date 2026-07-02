@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Irreducible fraction corresponding to number 121212121212< MSK1/>
+*Irreducible fraction corresponding to number 121212121212*
 
 > The number $121212121212$ (with alternating digits 1 and 2, for a total of 12 digits) is equal to an irreducible fraction of the form $\frac{4}{\square}$.
 > 

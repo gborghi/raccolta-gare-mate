@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Stack di cubetti di plastica blu esposti all'aria; contare i cubetti con esattamente 3 facce blu e 3 facce grigie.< MSK1/>
+*Stack di cubetti di plastica blu esposti all'aria; contare i cubetti con esattamente 3 facce blu e 3 facce grigie.*
 
 > Diverse scatole cubiche di plastica blu sono state impilate all'aria aperta nella posizione mostrata nella figura. Con il tempo, la plastica esposta all'aria perse il suo colore, diventando grigio. Quando abbiamo smantellato la pila, abbiamo verificato che il numero di scatole con esattamente tre facce blu e tre facce grigie è:
 > 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of the tomb ending at 89th number< MSK1/>
+*Probability of the tomb ending at 89th number*
 
 > Luca and Carlo play against each other in a tombola (without other opponents). Each has a folder with 15 numbers; the two folders have no numbers in common. What is the probability that the match will end at the 89th extract?
 >

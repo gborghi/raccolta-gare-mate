@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>average of six< MSK1/>
+*average of six*
 
 > The geometric mean of n numbers is defined as the n-th root of the product of n numbers. If the geometric mean of two sets of numbers is 3 and 12, what is the geometric mean of the set formed by all six numbers? A) 4
 > 	

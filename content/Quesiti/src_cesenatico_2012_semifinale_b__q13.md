@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how much the Death collected< MSK1/>
+*how much the Death collected*
 
 > Knights of other shores The alien invasion of the Uru System is complete! At the peace conference, called in a hurry, around the round table sit 8595 creatures, who may be aliens or terrestrials (the former always tell the truth, the latter always lie to save themselves). We know that the aliens at the conference are more than 2012 and less than 8,000, and that each creature claims that between the two creatures on its left there are as many aliens as between the two creatures on its right. How many aliens are out there?
 

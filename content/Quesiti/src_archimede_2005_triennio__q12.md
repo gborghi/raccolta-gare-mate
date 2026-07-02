@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of guessing 10 responses with constraints< MSK1/>
+*Probability of guessing 10 responses with constraints*
 
 > A mathematics competition consists of 10 multiple-choice questions, each with four possible answers marked with the letters A, B, C and D (for each question there is one and only one correct answer). Charles learns that the list of correct answers contains three letters A, three letters B, two letters C, and two letters D. What is the probability that Charles, choosing at random a list that he has
 >

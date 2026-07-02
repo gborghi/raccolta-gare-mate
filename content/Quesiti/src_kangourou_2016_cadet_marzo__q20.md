@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many boys< MSK1/>
+*how many boys*
 
 > There are 20 students in a class. They were settled in pairs so that exactly one third of the boys had a girl next to them and exactly half of the girls had a boy next to them. How many kids are in the class? A) 18
 > 	

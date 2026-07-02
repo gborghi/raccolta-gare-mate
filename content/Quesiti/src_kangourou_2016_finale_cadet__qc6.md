@@ -43,9 +43,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>days of additional bridge < MSK1/>
+*days of additional bridge *
 
-> In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by < MSK3/> or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceding and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
+> In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceding and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
 
 **Answer:** 2
 [[src_kangourou_2016_finale_cadet__QC6]]

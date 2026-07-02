@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Omega tangent in P meets BS on the visor< MSK1/>
+*Omega tangent in P meets BS on the visor*
 
 > Whether $ABC$ is an acute triangle with $AB < AC$. Whether $\Omega$ the circumscribed circumference of $ABC$. Whether $S$ is the middle point of the $CB$ arc of $\Omega$ containing $A$. The perpendicular from $A$ to $BC$ meets $BS$ in $D$ and meets $\Omega$ again in $E \neq A$. The line for $D$ parallel to $BC$ meets the line $BE$ in $L$. Whether $\omega$ the circumference circumscribed at the $BDL$ triangle. Be $P \neq B$ the second intersection point of $\omega$ with $\Omega$.
 > 

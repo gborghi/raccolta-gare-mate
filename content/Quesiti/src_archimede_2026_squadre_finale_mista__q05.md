@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summation of max and min self-divisible digits 1-9 < MSK1/>
+*Summation of max and min self-divisible digits 1-9 *
 
 > The Horrifying Bijection Giuseppe Mascellani Moduloso and Nashtrid are training their ability to do multiple things simultaneously in the arena. In defeating the Predator Dragon, they also have to use all the digits from 1 to 9 once to make up three self-dividing three-digit numbers. A number is said to be self-divisible if it is multiple of each of its own digits explains Scalarchio. Among all possible solutions, Nashtrid finds the set of numbers with maximum sum S, while Moduloso finds the one with minimum sum s. How much is S+s worth?
 

@@ -59,7 +59,7 @@ tags:
 
 *240 numeri complessi sul cerchio unitario che soddisfano le limitazioni di arco: trovare il modulo massimo della somma *
 
-> Il $C = \{z \in \mathbb{C} \mid |z| = 1\}$ deve essere il cerchio unitario del piano complesso. 240 numeri complessi $z_1, z_2, \ldots, z_{240} \in C$ (repetite consentite) soddisfano le seguenti condizioni: (1) per qualsiasi arco aperto $\widehat{\Gamma}$ di lunghezza $\dfrac{\pi}{5}$ su $C$, ci sono al massimo $200$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\Gamma}$; (2) per qualsiasi arco aperto $\widehat{\gamma}$ di lunghezza $\dfrac{\pi}{240}$ su $C$, ci sono al massimo $120$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\gamma}$. Trova il massimo di < MSK16/>.
+> Il $C = \{z \in \mathbb{C} \mid |z| = 1\}$ deve essere il cerchio unitario del piano complesso. 240 numeri complessi $z_1, z_2, \ldots, z_{240} \in C$ (repetite consentite) soddisfano le seguenti condizioni: (1) per qualsiasi arco aperto $\widehat{\Gamma}$ di lunghezza $\dfrac{\pi}{5}$ su $C$, ci sono al massimo $200$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\Gamma}$; (2) per qualsiasi arco aperto $\widehat{\gamma}$ di lunghezza $\dfrac{\pi}{240}$ su $C$, ci sono al massimo $120$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\gamma}$. Trova il massimo di $|z_1 + z_2 + \cdots + z_{240}|$.
 
 **Risposta:** $80 + 40\sqrt{3}$
 [[src_cn_ctst_2022__Q05]]

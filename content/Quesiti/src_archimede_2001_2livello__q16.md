@@ -51,6 +51,6 @@ tags:
 
 *Demonstrate that the HMK triangle is equilateral (angle 60°) *
 
-> Whether ABC is a triangle such that the angle of ACB = < MSK0/>. Both M the midpoint of side AB and H and K are the feet of heights starting from B and A respectively. Prove that the HMK triangle is equilateral.
+> Whether ABC is a triangle such that the angle of ACB = 60°. Both M the midpoint of the side AB and H and K are the feet of heights starting from B and A respectively. Prove that the HMK triangle is equilateral.
 
 [[src_archimede_2001_2livello__Q16]]

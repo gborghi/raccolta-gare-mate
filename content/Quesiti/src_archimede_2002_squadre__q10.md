@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum power dividing 2002!< MSK1/>
+*maximum power dividing 2002!*
 
 > Anna is punished! 55 points
 > 

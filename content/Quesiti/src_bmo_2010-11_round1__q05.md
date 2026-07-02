@@ -51,8 +51,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Due cerchi si incontrano a L,M; P su S2; mostrare l'accordo QR in S1 passa attraverso il punto fisso*
+*Due cerchi si incontrano a L,M; P su S2; mostra che l'accordo QR in S1 passa attraverso il punto fisso*
 
-> I cerchi $S_1$ e $S_2$ si incontrano a $L$ e $M$. Let $P$ essere un punto su $S_2$. Lasciate che < MSK6/> e < MSK7/> si riuniscano rispettivamente a < MSK9/> e < MSK10/>. Indicare che, poiché $P$ varia su $S_2$, la linea $QR$ passa attraverso un punto fisso.
+> I cerchi $S_1$ e $S_2$ si incontrano a $L$ e $M$. Let $P$ essere un punto su $S_2$. Lasciate che $PL$ e $PM$ rientrino in $S_1$ rispettivamente a $Q$ e $R$. Indicare che, poiché $P$ varia su $S_2$, la linea $QR$ passa attraverso un punto fisso.
 
 [[src_bmo_2010-11_round1__Q05]]

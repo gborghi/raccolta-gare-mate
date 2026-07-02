@@ -61,7 +61,7 @@ tags:
 
 > Arnaldo pensò a un numero a quattro cifre e sfidò Bernardo a scoprire quale fosse. Per aiutarlo, ha dato a Bernardo i seguenti tre indizi, esattamente uno dei quali è vero:
 > 
-> - Indizio 1: il numero e' un cubo perfetto. - Indizio 2: Il numero è il numero a quattro cifre più piccolo che ha esattamente quattro divisori positivi. - Indice 3: Il numero è un multiple di < MSK0/>.
+> - Indizio 1: il numero e' un cubo perfetto. - Indizio 2: Il numero è il numero a quattro cifre più piccolo che ha esattamente quattro divisori positivi. - Indice 3: Il numero è un multiple di $59$.
 > 
 > Qual e' il numero che Arnaldo ha pensato?
 

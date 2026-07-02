@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>p(12) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2< MSK1/>
+*p(12) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2*
 
 > Attempting to capture SherLog Hodge and trusted Wolfram build a trap to trap Mongearty. It is an ABCD rectangle with AB length 48dm and BC length 20dm. On the AC diagonal a rectangle is constructed such that AC is one side and the side opposite it passes through B. In the same way on BD you build a rectangle passing through A. If Mongearty enters the area formed by the union of the three rectangles, the trap will break out. Wolfram wonders if the area is enough. How much is the area in dm2?
 

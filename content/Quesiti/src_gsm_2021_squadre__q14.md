@@ -65,7 +65,7 @@ tags:
 
 *Maximum height of parallel piped on a plane inclined by 30 degrees*
 
-> Cima Blockhaus Sandro Campigotto After making one of the most challenging climbs in Italy, Giuseppe and Giulio reached Cima Blockhaus, in the heart of the Abruzzo Apennines. Joseph, while riding, a problem of geometry came to mind. Do you want to hear it? JULIOS (Coming off the bike) Yes, I need to stop for a moment to rest my legs. Joseph A rectangular parallel piped with a side base of 50 cm is supported on an inclined plane of < MSK0/>. What is the maximum height in millimetres that it can have so as not to overturn, that is, so that the vertical perpendicular from the center of the beam is not external to the bottom base? Julius, is the paralelepedo made of homogeneous material? Joseph of course!
+> Cima Blockhaus Sandro Campigotto After climbing one of the most challenging mountains in Italy, Giuseppe and Giulio reached Cima Blockhaus, in the heart of the Abruzzo Apennines. Joseph, while riding, a problem of geometry came to mind. Do you want to hear it? JULIOS (Coming off the bike) Yes, I need to stop for a moment to rest my legs. Joseph A rectangular parallel piped with a side base of 50 cm is supported on an inclined plane of 30°. What is the maximum height in millimetres that it can have so as not to overturn, that is, so that the vertical perpendicular from the center of the beam is not external to the bottom base? Julius, is the paralelepedo made of homogeneous material? Joseph of course!
 
 **Answer:** 1224
 [[src_gsm_2021_squadre__Q14]]

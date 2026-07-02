@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of all zero points after 10 hands < MSK1/>
+*Probability of all zero points after 10 hands *
 
 > Alberto, Barbara and Carlo are playing cards. In each hand, the winner gains 2 points, while the other two players lose one point each. Initially, everyone has zero points. What's the probability that after 10 hands, they're all zero again?
 >

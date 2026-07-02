@@ -54,7 +54,7 @@ tags:
 
 *Minimum time to form chain of 10 rings*
 
-> A blacksmith has < MSK0/> separate pieces of chain, each consisting of two rings inserted into each other. It takes a blacksmith a quarter of an hour to open a ring and a quarter of an hour to close it. How long does it take, at least, to form a single-piece chain of < MSK1/> rings (closed)?
+> A blacksmith has $5$ separate pieces of chain, each consisting of two rings inserted into each other. It takes a blacksmith a quarter of an hour to open a ring and a quarter of an hour to close it. How long does it take, at least, to form a single-piece chain of $10$ rings (closed)?
 
 **Answer:** 90 minuti
 [[src_bocconi_semifinale_2008__Q11]]

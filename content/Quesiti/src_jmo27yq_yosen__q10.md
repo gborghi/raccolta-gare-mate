@@ -53,7 +53,7 @@ tags:
 
 *Lunghezza perpendicolare da Q a BC in triangolo rettangolo*
 
-> Il triangolo $ABC$ soddisfa $\angle B=90^\circ$, $AB=8$, $BC=3$. Un punto $P$ si trova sul lato $BC$, un punto $Q$ sul lato $CA$ e un punto $R$ sul lato $AB$, soddisfacendo $\angle CRP=\angle CRQ$ e $\angle BPR=\angle CPQ$. Inoltre, il perimetro del triangolo $PQR$ è $12$. Trova la lunghezza della perpendicolare abbassata da $Q$ a lato $BC$. (Se la risposta contiene un radicale < MSK16/>, indicare il valore < MSK17/> sotto il radicale.)
+> Il triangolo $ABC$ soddisfa $\angle B=90^\circ$, $AB=8$, $BC=3$. Un punto $P$ si trova sul lato $BC$, un punto $Q$ sul lato $CA$ e un punto $R$ sul lato $AB$, soddisfacendo $\angle CRP=\angle CRQ$ e $\angle BPR=\angle CPQ$. Inoltre, il perimetro del triangolo $PQR$ è $12$. Trova la lunghezza della perpendicolare abbassata da $Q$ a lato $BC$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
 **Risposta:** $\dfrac{9}{2}$
 [[src_jmo27yq_yosen__Q10]]

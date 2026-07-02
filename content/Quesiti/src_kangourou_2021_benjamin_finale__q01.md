@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes to fill the first container of amoeba< MSK1/>
+*Minutes to fill the first container of amoeba*
 
 > The amoeba are protozoa that reproduce in three minutes, that is, every three minutes each amoeba generates another identical one. No amoeba dies as long as it has room to reproduce. Two vessels of equal capacity initially contain one amoeba, the second eight amoeba. The second container is filled with amoeba after exactly three hours. How many minutes does it take to fill the first container?
 

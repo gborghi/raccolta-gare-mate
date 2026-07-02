@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes of cell phone use during charging< MSK1/>
+*Minutes of cell phone use during charging*
 
 > A fully charged cell phone must remain charged for 2 hours to fully charge if it is not in use in the meantime. On the other hand, if it is used during charging, half of the energy introduced is consumed immediately and only the remainder accumulates in the battery. Knowing that it took two and a half hours to charge the battery from zero, it is necessary to determine how many minutes the cell phone was used during the charging (whether or not the phone is used, the energy stored in a time interval is assumed to be proportional to its duration).
 >

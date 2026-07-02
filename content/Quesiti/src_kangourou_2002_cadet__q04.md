@@ -52,7 +52,7 @@ tags:
 
 *Solar day in Newbury*
 
-> The July MSK0/ in Newbury the sun rises at 4:53 and sets at 21:25. The solar noon is therefore halfway between these two hours. What time is the solar noon in Newbury on MSK1 of July?
+> The July1°in Newbury the sun rises at 4:53 a.m. and sets at 9:25 p.m. The solar noon is therefore halfway between these two hours. What time is the solar noon in Newbury on1°of July?
 >  
 > A. 11:08 B. 12:39 C. 13:09            D. 16:32 E. 12:00
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume of cardboard box 6x6< MSK1/>
+*Volume of cardboard box 6x6*
 
 ![[src_kangourou_2004_benjamin__prob10.png]]
 

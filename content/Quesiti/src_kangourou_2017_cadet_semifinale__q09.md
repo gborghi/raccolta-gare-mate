@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum moves by the Woman to return to the original box< MSK1/>
+*Minimum moves by the Woman to return to the original box*
 
 > In the game of chess, the woman can move like a tower (i.e. vertically or horizontally) or like a spade (i.e. diagonally). On an infinite chessboard, a Woman in the first move moves like a Tower of a box, to the second as a Two-Boxed Tower, to the third as a 3-Boxed Tower and continues to move in alternate moves like an Alfiere and as a Tower, increasing with each move the length of her path of a box. What's the minimum number of moves that allows Donna to return to the original box?
 >

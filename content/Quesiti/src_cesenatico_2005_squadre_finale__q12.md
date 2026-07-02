@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum pressures to determine n from residues n^k mod k< MSK1/>
+*Minimum pressures to determine n from residues n^k mod k*
 
 > The great circus The renowned archaeologist Polynomial Jones and his companion Claire Petiblanc give themselves a day of relaxation between adventures at the circus. One of the attractions is Dr. Smurf's Electronic Brain. The operation is simple: at the beginning of the game, the brain draws a mysterious number between 1 and a billion, which must be guessed. Polynomial Jones pays a dresser to press a big button
 > 

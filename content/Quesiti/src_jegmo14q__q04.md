@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di pietre lasciate nella casella 1 dopo le operazioni di spostamento delle pietre< MSK1/>
+*Minimum di pietre lasciate nella casella 1 dopo le operazioni di spostamento delle pietre*
 
 > Ci sono caselle $2025$ numerate $1, 2, \ldots, 2025$ e per ogni numero intero $i$ con $1 \le i \le 2025$, la casella $i$ contiene inizialmente le pietre $2^{i-1}$. Si ripete la seguente operazione.
 > 

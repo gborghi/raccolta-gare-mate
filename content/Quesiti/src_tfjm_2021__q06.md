@@ -104,7 +104,7 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > Il comitato organizzativo di Louis per l'anno 2020 era composto da volontari $b_1 \ge 4$ numerati $L_1, L_2, L_3, \cdots, L_{b_1}$. Tra questi volontari c'era anche Anais, che è il numero $L_1$. Il comitato organizzativo per l'anno 2021 è composto da volontari $b_2 \ge 4$ $A_1, A_2, A_3, \cdots, A_{b_2}$. Tra questi volontari c'è Louis, che è il numero $A_1$. Oltre a Anais e Louis, gli unici membri di entrambi i comitati sono $L_2 = A_{b_2}$ e $A_2 = L_{b_1}$.
 > 
-> Alcuni volontari sono vicini: - Anais ha $b_2$ vicini che sono membri del suo comitato, cioè $A_1, A_2, \ldots, A_{b_2}$. - Louis ha $b_1$ vicini che sono membri del suo comitato, cioè $L_1, L_2, \ldots, L_{b_1}$. - per < MSK4/>, il volontario < MSK5/> ha < MSK6/> vicini: < MSK7/>, < MSK8/> e Louis. - Per < MSK9/>, il volontario < MSK10/> ha < MSK11/> vicini: < MSK12/>, < MSK13/> e Anais. - Il volontario < MSK14/> ha < MSK15/> vicini: < MSK16/>, < MSK17/>, < MSK18/> e Louis. - Il volontario < MSK19/> ha < MSK20/> vicini: < MSK21/>, < MSK22/>, < MSK23/> e Anais.
+> Alcuni volontari sono vicini: - Anais ha $b_2$ vicini che sono membri del suo comitato, cioè $A_1, A_2, \ldots, A_{b_2}$. - Louis ha $b_1$ vicini che sono membri del suo comitato, cioè $L_1, L_2, \ldots, L_{b_1}$. - per $2 < i < b_1$, il volontario $L_i$ ha $3$ vicini: $L_{i-1}$, $L_{i+1}$ e Louis. - Per $2 < i < b_2$, il volontario $A_i$ ha $3$ vicini: $A_{i-1}$, $A_{i+1}$ e Anais. - Il volontario $A_2 = L_{b_1}$ ha $4$ vicini: $A_3$, $A_1$, $L_{b_1-1}$ e Louis. - Il volontario $A_{b_2} = L_2$ ha $4$ vicini: $L_3$, $L_1$, $A_{b_2-1}$ e Anais.
 > 
 > Ad esempio, se Louis aveva $b_1=5$ volontari tra cui Anais, e Anais aveva $b_2=4$ volontari tra cui Louis, allora le relazioni sono rappresentate come nella Figura 7.
 > 
@@ -124,13 +124,13 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > **(2) ** Supponiamo in questa domanda che il numero di borse date ai partecipanti sia ogni volta zero, cioè $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori (s) di $b_1$, $b_2$ e $N$ si può garantire un costo di esattamente $C=N$?
 > 
-> < MSK6/>(3) < MSK7/> Non supponiamo più che < MSK0/>. In termini di $N$, $b_1$, $b_2$ e $j$, quali sono i valori possibili del costo totale $C$?
+> **(3) ** Non supponiamo più che $N \ge 2\max(b_1 j_1, b_2 j_2)$. In termini di $N$, $b_1$, $b_2$ e $j$, quali sono i valori possibili del costo totale $C$?
 > 
 > **(4) ** Infatti, il numero di borse distribuite ai volontari non cambia di anno in anno. Louis aveva quindi dato pacchetti di sacchetti $j_1 = b_2$ a ciascuno dei suoi volontari, e Anais desidera che ciascuno dei suoi volontari abbia sacchetti $j_2 = b_1$. In questo contesto, rivedere la domanda precedente.
 > 
 > Louis e Anais desiderano spendere il meno possibile e avere un bilancio equilibrato, in modo che $C_{\min} = N$ mentre $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori di $C_{\min}$ è possibile?
 > 
-> L'organizzazione del TFJM crea legami e esistono infatti ulteriori contatti diretti tra i volontari dei due comitati. Per $N \ge 2\max(b_1 j_1, b_2 j_2)$, in termini di $b_1$, $b_2$, $j_1$ e $j_2$, tra quali volontari è più saggio stabilire questi nuovi contatti $k$ in modo che $C_{\min}$ sia il più piccolo possibile? Si può iniziare trattando il caso < MSK9/>.
+> L'organizzazione del TFJM crea legami e esistono infatti ulteriori contatti diretti tra i volontari dei due comitati. Per $N \ge 2\max(b_1 j_1, b_2 j_2)$, in termini di $b_1$, $b_2$, $j_1$ e $j_2$, tra quali volontari è più saggio stabilire questi nuovi contatti $k$ in modo che $C_{\min}$ sia il più piccolo possibile? Si può iniziare trattando il caso $k=1$.
 > 
 > **(7) ** Proporre e esplorare altre direzioni di ricerca.
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> succession of integers < MSK1/>
+* succession of integers *
 
 > **Distracted school year**  55 points
 > 

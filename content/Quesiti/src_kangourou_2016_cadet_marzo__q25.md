@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>grey the day after< MSK1/>
+*grey the day after*
 
 ![[src_kangourou_2016_cadet_marzo__prob25.png]]
 

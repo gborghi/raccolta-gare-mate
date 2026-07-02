@@ -50,6 +50,6 @@ tags:
 
 ![[src_archimede_2001_individuale__prob5.png]]
 
-> If $ABC$ is a triangle and $\omega$ is the circumference inscribed in $ABC$. The circumference $\omega$ is tangent to the side $AB$ in $T$. either $D$ the point of $\omega$ diametrically opposite to $T$, or $S$ the point of intersection of the passing straight line for $C$ and $D$ with the side $AB$. Show that < MSK13/>.
+> If $ABC$ is a triangle and $\omega$ is the circumference inscribed in $ABC$. The circumference $\omega$ is tangent to the side $AB$ in $T$. either $D$ the point of $\omega$ diametrically opposite to $T$, or $S$ the point of intersection of the passing straight line for $C$ and $D$ with the side $AB$. Show that $AT = SB$.
 
 [[src_archimede_2001_individuale__Q05]]

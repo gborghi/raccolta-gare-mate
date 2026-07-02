@@ -51,8 +51,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Punti D,E sull'ipotenusa con angolo DAE=45°; circolo di ADE incontra le gambe a P,Q; prova BP+CQ=PQ.*
+*Punti D,E sull'ipotenusa con angolo DAE=45°; circoncircolo di ADE incontra le gambe a P,Q; prova BP+CQ=PQ.*
 
-> I punti $D$ e $E$ si trovano sull'ipotenusa $BC$ di un triangolo rettangolo $ABC$ di uguale taglia in modo tale che $\angle DAE = 45^\circ$. Il circoncircolo del triangolo $ADE$ incontra di nuovo i lati $AB$ e $AC$ rispettivamente a $P$ e $Q$. Prova che < MSK10/>.
+> I punti $D$ e $E$ si trovano sull'ipotenusa $BC$ di un triangolo rettangolo $ABC$ di uguale taglia in modo tale che $\angle DAE = 45^\circ$. Il circoncircolo del triangolo $ADE$ incontra i lati $AB$ e $AC$ di nuovo rispettivamente a $P$ e $Q$. Prova che $BP + CQ = PQ$.
 
 [[src_pol_2001_r1__Q07]]

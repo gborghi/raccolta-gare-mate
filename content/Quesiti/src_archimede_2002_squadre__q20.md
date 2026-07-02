@@ -45,11 +45,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>65 points, solid geometry < MSK1/>
+*65 points, solid geometry *
 
-> < MSK0/>Abacus sculptor< MSK1/>  65 points
+> **Abacus sculptor**  65 points
 > 
-> In his spare time, Professor Abacus enjoys abstract sculpture. From a 20-centimeter-long wooden cube he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices two vertices of the cube that are on the same face and two vertices that are on the diagonal of the cube; the second is obtained by rotating the first 90 degrees around the center of the cube. What is the volume of the sculpture in MSK0/?
+> In his spare time, Professor Abacus enjoys abstract sculpture. From a 20-centimeter-long wooden cube he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices two vertices of the cube that are on the same face and two vertices that are on the diagonal of the cube; the second is obtained by rotating the first 90 degrees around the center of the cube. What is the volume of the sculpture in$\mathrm{cm}^3$?
 
 **Answer:** 4000
 [[src_archimede_2002_squadre__Q20]]

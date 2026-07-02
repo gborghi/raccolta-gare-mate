@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>blue rectangles < MSK1/>
+*blue rectangles *
 
 > On a board are blue rectangles and red rectangles. Exactly seven of the rectangles are squares. The number of red rectangles is the number of blue squares plus 3, and that of red squares is that of blue rectangles plus 2. How many blue rectangles are on the board? A) 1
 > 	

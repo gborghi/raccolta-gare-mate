@@ -56,6 +56,6 @@ tags:
 
 *Summa di disuguaglianza del perimetro laterale di un poligono*
 
-> Che $n \ge 3$ sia un numero naturale e che $P$ sia un poligono con lati $n$. $a_1, a_2, \ldots, a_n$ sia la lunghezza dei lati di $P$ e $p$ sia il suo perimetro. Provare che < MSK0/>
+> Che $n \ge 3$ sia un numero naturale e che $P$ sia un poligono con lati $n$. Il $a_1, a_2, \ldots, a_n$ è la lunghezza dei lati di $P$ e il $p$ è il suo perimetro. Provare che $$\frac{a_1}{p - a_1} + \frac{a_2}{p - a_2} + \cdots + \frac{a_n}{p - a_n} < 2.$$
 
 [[src_rmo_2013_r2__Q05]]

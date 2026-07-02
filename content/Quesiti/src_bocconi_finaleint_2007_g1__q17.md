@@ -62,7 +62,7 @@ tags:
 
 Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mira-Jeu 1 km from Ananas
 
-> Pineapples, Banana, Coconut and Orange are villages located on the four peaks of a square desert. Mira-Jeu is an oasis whose distances from Ananas, Bananas and Coco are integers, not nulls and less than < MSK0/> kilometres. From Mira-Jeu you can see pineapples and bananas at an angle of < MSK1/>. Mira-Jeu is in fact located < MSK2/> kilometre from Ananas. What is the distance, expressed in kilometres, from Mira-Jeu to Coco?
+> Pineapples, Banana, Coconut and Orange are villages located on the four peaks of a square desert. Mira-Jeu is an oasis whose distances from Ananas, Banana and Coco are integers, not nulls and less than $100$ kilometres. From Mira-Jeu you can see pineapples and bananas at an angle of $135^\circ$. Mira-Jeu is in fact located $1$ kilometre from Ananas. What is the distance, expressed in kilometres, from Mira-Jeu to Coco?
 
 ![[src_bocconi_finaleint_2007_g1__Q17.png]]
 

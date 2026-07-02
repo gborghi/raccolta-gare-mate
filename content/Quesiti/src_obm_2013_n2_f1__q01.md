@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prezzo del computer dopo sconto del 5% e poi aumento del 5%< MSK1/>
+*Prezzo del computer dopo sconto del 5% e poi aumento del 5%*
 
 > Joana vuole comprare un computer oggi per 2000 reais e riceverebbe uno sconto del 5%. Se aspetta fino a domani, il prezzo del computer aumenterà del 5%. Se aspetta, cosa succederà?
 > 

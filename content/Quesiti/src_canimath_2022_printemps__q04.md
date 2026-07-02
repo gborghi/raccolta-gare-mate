@@ -52,6 +52,6 @@ tags:
 
 *Triangolo con due punti di lunghezza uguale sul lato più lungo, dimostrare un'identità angolare*
 
-> Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Indicare che < MSK0/>
+> Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Indicare che $$\widehat{BAC} + 2\widehat{PAQ} = 180^\circ.$$
 
 [[src_canimath_2022_printemps__Q04]]

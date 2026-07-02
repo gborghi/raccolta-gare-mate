@@ -52,6 +52,6 @@ tags:
 
 *Contare i sedili validi di 7 persone a tavola circolare dove nessuno siede accanto alla sedia assegnata da un altro*
 
-> Le persone < MSK0/> sono sedute una per sedia a un tavolo circolare con sedie < MSK1/>. Ogni persona ha la propria sedia assegnata. Tuttavia, mentre ci sono ancora sedie non occupate, nessuna persona può sedersi in una sedia adiacente alla sedia di un'altra persona. (Le persone che non sono state ancora sedute possono sedersi solo se non è occupata una sedia adiacente.)
+> Le persone $7$ sono sedute una per sedia a un tavolo circolare con sedie $7$. Ogni persona ha la propria sedia assegnata. Tuttavia, mentre ci sono ancora sedie non occupate, nessuna persona può sedersi in una sedia adiacente alla sedia di un'altra persona. (Le persone che non sono state ancora sedute possono sedersi solo se non è occupata una sedia adiacente.)
 
 [[src_jmo15yq_yosen__Q08]]

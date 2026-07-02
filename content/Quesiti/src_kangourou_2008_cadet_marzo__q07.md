@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cut-top cube mirrors< MSK1/>
+*Cut-top cube mirrors*
 
 ![[src_kangourou_2008_cadet_marzo__prob7.png]]
 

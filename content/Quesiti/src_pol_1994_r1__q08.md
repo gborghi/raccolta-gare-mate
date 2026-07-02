@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Se b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b
+*Se
 
 > $a, b, c$ siano integri positivi come $b \mid a^3$, $c \mid b^3$ e $a \mid c^3$. Prove che $abc \mid (a + b + c)^{13}$.
 

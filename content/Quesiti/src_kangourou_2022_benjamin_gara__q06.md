@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fragments of pizza with ham and vegetables < MSK1/>
+*Fragments of pizza with ham and vegetables *
 
 > A pizza boy cut a pizza into 12 slices and then cooked it using the ingredients he had: mushrooms, ham and vegetables. She put only mushrooms on three slices; she put ham on seven slices and vegetables on five slices. Not one slice is left unsecured. How many slices are found to have both ham and vegetables? A) 1
 >   

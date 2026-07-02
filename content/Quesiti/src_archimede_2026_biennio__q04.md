@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of figures of 10^2025+10^803+3^4+2^5< MSK1/>
+*sum of figures of 10^2025+10^803+3^4+2^5*
 
 > Roberta writes for extended the number n = 102025 + 10803 + 34 + 25. What is the sum of all the digits of n?
 >

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of finalist cats (total) < MSK1/>
+*Minimum number of finalist cats (total) *
 
 > There are 66 cats in the Miss Cat 2013 competition. Twenty-one were eliminated because they failed the rat test. Of the rest, 27 have at least two colors of hair and 32 have a white tail. All cats with at least two colors of hair and a white tail are in the final. So the smallest possible number of finalist cats is A) 5.
 >       	

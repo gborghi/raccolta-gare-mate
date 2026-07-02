@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number c of sum of 1554 of the permutations< MSK1/>
+*Number c of sum of 1554 of the permutations*
 
 > a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by exchanging these three digits is 1554. What 's c ? A) 3 B) 4 C) 5 D) 6 E) 7
 

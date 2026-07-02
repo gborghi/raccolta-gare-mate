@@ -53,6 +53,6 @@ tags:
 
 *f: Z+→Z+ in aumento rigido con f(n))=3n; ritrovare f(1992)*
 
-> Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi in numeri interi positivi. Supponiamo che $f(n + 1) > f(n)$ e $f(f(n)) = 3n$ per tutti gli integri positivi $n$. Determinare < MSK4/>.
+> Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi in numeri interi positivi. Supponiamo che $f(n + 1) > f(n)$ e $f(f(n)) = 3n$ per tutti gli integri positivi $n$. Determinare $f(1992)$.
 
 [[src_bmo_1991-92_round1__Q05]]

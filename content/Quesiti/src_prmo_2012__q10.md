@@ -50,7 +50,7 @@ tags:
 
 *Lunghezza di AY in quadrato con triangoli equilaterali all'interno*
 
-> $ABCD$ è quadrato e $AB = 1$. I triangoli equilaterali $AYB$ e $CXD$ sono disegnati in modo tale che $X$ e $Y$ siano all'interno del quadrato. Qual è la lunghezza di < MSK6/>?
+> $ABCD$ è quadrato e $AB = 1$. I triangoli equilaterali $AYB$ e $CXD$ sono disegnati in modo tale che $X$ e $Y$ siano all'interno del quadrato. Qual è la lunghezza di $XY$?
 
 **Risposta:** \sqrt{3}-1
 [[src_prmo_2012__Q10]]

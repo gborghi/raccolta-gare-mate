@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mean speed required to recover delay< MSK1/>
+*Mean speed required to recover delay*
 
 > City A is 450 km from city B. A train that connects you to the station, scheduled to take 2 hours and 15 minutes. After travelling for the first part of the journey at an average of 160 km/h, the train is 9 minutes late on the roadmap: to arrive on time, how many km/h must its average speed be on the remaining part of the journey?
 

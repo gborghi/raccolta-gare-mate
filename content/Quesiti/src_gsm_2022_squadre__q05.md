@@ -52,7 +52,7 @@ tags:
 
 ![[src_gsm_2022_squadre__prob5.png]]
 
-> Two concentric circles shall be given: one radius < MSK0/> cm; the other radius < MSK1/> cm. Two lines tangent to the inner circle at $r$ and $s$ respectively in the $A$ and $B$ points and incidents between them at the $C$ point belonging to the outer circle. The points of intersection of the outer circumference with $E$ and $F$ shall be said with $r$ and $s$ respectively. What is the area of the $ABFE$ quadrilateral?
+> Two concentric circles shall be given: one radius $20$ cm; the other radius $40$ cm. Two lines tangent to the inner circle at $r$ and $s$ respectively in the $A$ and $B$ points and incidents between them at the $C$ point belonging to the outer circle. The points of intersection of the outer circumference with $E$ and $F$ shall be said with $r$ and $s$ respectively. What is the area of the $ABFE$ quadrilateral?
 
 **Answer:** 1558
 [[src_gsm_2022_squadre__Q05]]

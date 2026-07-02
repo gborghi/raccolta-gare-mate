@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Perfect squares < 9200 with unit number 6 < MSK1/>
+*Perfect squares < 9200 with unit number 6 *
 
 > Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as a unit number?
 

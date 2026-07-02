@@ -57,6 +57,6 @@ tags:
 
 *Prove la disuguaglianza integrale per aumentare la funzione integrabile*
 
-> Che la funzione $f : \mathbb{R} \to \mathbb{R}$ sia integrabile e in aumento. Provare che < MSK0/>
+> Che la funzione $f : \mathbb{R} \to \mathbb{R}$ sia integrabile e in aumento. Provare che $$\int_0^1 x\, f(x)\, dx \ge \frac{1}{2}\int_0^1 f(x)\, dx.$$
 
 [[src_obm_2006_nu_f2__Q01]]

@@ -53,7 +53,7 @@ tags:
 
 ![[src_kangourou_2018_squadre_a__prob13.png]]
 
-> Three circles Look at the figure: the three circles are two to two tangents and the AB rope of the big circle is tangent to the two inner circles. If the area of the grey figure obtained by removing the two inner circles from the great circle is 18< MSK0/> cm2, how many centimetres is the length of the rope?
+> Three circles Look at the figure: the three circles are two to two tangents and the AB rope of the large circle is tangent to the two inner circles. If the area of the grey figure obtained by removing the two inner circles from the large circle is 18π cm2, how many centimetres is the length of the rope?
 
 **Answer:** 12
 [[src_kangourou_2018_squadre_a__Q13]]

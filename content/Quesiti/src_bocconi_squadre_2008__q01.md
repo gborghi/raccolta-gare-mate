@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age of 5 children with sum equal to product< MSK1/>
+*Age of 5 children with sum equal to product*
 
 > There are 5 children in our family (not all twins). All of them were born on 1 January 2008 and, as of 1 January 2008, the sum of their ages is equal to their product. How old are the five children in our family?
 

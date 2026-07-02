@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Suma dei quadrati delle aree di proiezione facciale costante se parallelepiped è cubo< MSK1/>
+*Suma dei quadrati delle aree di proiezione facciale costante se parallelepiped è cubo*
 
 > Prova che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepiped rettangolare su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepiped è un cubo.
 

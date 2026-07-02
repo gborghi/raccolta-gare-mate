@@ -82,7 +82,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Una catena di n unità di collegamento con l'angolo orientato a ciascuna giunta limitato ad un intervallo a seconda dell'alfa; descrivere e calcolare l'area dell'insieme di punti raggiungibile dall'estremità libera, con varianti che fissano A_1 e utilizzano angoli vicini a pi/2.*
+*Una catena di n unità di collegamento con l'angolo orientato a ciascuna articolazione limitato ad un intervallo a seconda dell'alfa; descrivere e calcolare l'area dell'insieme di punti raggiungibile dalla fine libera, con varianti che fissano A_1 e utilizzano angoli vicini a pi/2.*
 
 > Catenata a rotoli. Let $n\in\mathbb{N}^*$ e $\alpha\in[0,\pi]$. Colin si diverte con una catena rullata. La catena è costituita da $n$ collegamenti $A_0A_1,A_1A_2,\ldots,A_{n-1}A_n$, uniti a bisaglie; ogni segmento $[A_iA_{i+1}]$ ha lunghezza $1$ per $0\le i\le n-1$ (i segmenti possono essere incrociati). Il punto $A_0$ è fissato. Quando la catena è rotolata, l'angolo di ciascuna cerniera può assumere solo determinati valori: per qualsiasi $1\le i\le n-1$, l'angolo orientato $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ deve rimanere nell'intervallo $[-\alpha,\alpha]$ (vedi figura 4). Scriviamo $\mathcal{B}_\alpha^n$ per l'insieme di punti raggiungibili dall'estremità $A_n$ della catena.
 > 
@@ -94,9 +94,9 @@ tags:
 > 
 > 3. Descrivere $\mathcal{C}_\alpha^n$ negli stessi casi della domanda 1.
 > 
-> 4. In questi stessi casi, quali sono i valori possibili dell'angolo orientato $\widehat{(A_0A_1,A_1A_n)}$? E' vero che per due punti $X$ e $Y$ tali che $A_1X=A_1Y$, esiste un arco di cerchio centrato a $A_1$, tra $X$ e $Y$, che è interamente incluso in $\mathcal{C}_\alpha^n$?
+> 4. In questi stessi casi, quali sono i valori possibili dell'angolo orientato $\widehat{(A_0A_1,A_1A_n)}$? E' vero che per due punti $X$ e $Y$, di cui $A_1X=A_1Y$, esiste un arco di cerchio centrato a $A_1$, tra $X$ e $Y$, che è interamente incluso in $\mathcal{C}_\alpha^n$?
 > 
-> 5. Let < MSK0/>. Supponiamo che la catena sia rotolata, con gli angoli abbastanza vicini a $\frac{\pi}{2}$: più precisamente, per qualsiasi $1\le i\le n-1$, l'angolo orientato $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ deve rimanere in $\left[\frac{\pi}{2}-\varepsilon,\frac{\pi}{2}+\varepsilon\right]\cup\left[-\frac{\pi}{2}-\varepsilon,-\frac{\pi}{2}+\varepsilon\right]$. Redo domande da 1 a 3 in questo caso.
+> 5. Let $\varepsilon\in\left[0,\frac{\pi}{2}\right]$. Supponiamo che la catena sia rotolata, con gli angoli abbastanza vicini a $\frac{\pi}{2}$: più precisamente, per qualsiasi $1\le i\le n-1$, l'angolo orientato $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ deve rimanere in $\left[\frac{\pi}{2}-\varepsilon,\frac{\pi}{2}+\varepsilon\right]\cup\left[-\frac{\pi}{2}-\varepsilon,-\frac{\pi}{2}+\varepsilon\right]$. Redo domande da 1 a 3 in questo caso.
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 

@@ -56,7 +56,7 @@ tags:
 
 *Maximum side of the square carved in cardboard*
 
-> In a side square < MSK0/>, a side square < MSK1/> has been carved (as you can see in the figure). In the remaining piece of cardboard, a quarter of the circumference is plotted with the center at point A. What is the maximum value of $x$ for construction to be possible (the entire quarter of the circumference is in the remaining piece of cardboard)? $1{,}414$ may be replaced by $\sqrt{2}$.
+> In a side square $x + 1$, a side square $x$ has been carved (as you can see in the figure). In the remaining piece of cardboard, a quarter of the circumference is plotted with the center at point A. What is the maximum value of $x$ for the construction to be possible (the entire quarter of the circumference is in the remaining piece of cardboard)? $1{,}414$ may be replaced by $\sqrt{2}$.
 
 ![[src_bocconi_autunno_2009__Q17.png]]
 

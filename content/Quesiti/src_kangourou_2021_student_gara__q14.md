@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of odd sums of adjacent terns< MSK1/>
+*Maximum number of odd sums of adjacent terns*
 
 > We want to align, in any order, the first 1000 positive integers and, for each set of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
 

@@ -50,6 +50,6 @@ tags:
 
 *Trovare il rapporto laterale del triangolo dagli angoli incentro-circumcentro*
 
-> Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto < MSK5/>.
+> Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto $AB : BC : CA$.
 
 [[src_bmo_2007-08_round2__Q02]]

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of the values of a< MSK1/>
+*sum of the values of a*
 
 > Selection of the rose Quamditch is a sport that combines shot, agility and power of thought and action. For this reason, Hardy, captain of the Quamditch team of the House of Rapporteur, subjects aspiring mathematicians to the following test: while performing a triple capriola carpiata, they must consider all the ordered pairs of positive integers (a,b) such that a2 + b2 = 1105. What is the sum of the different values of a?
 

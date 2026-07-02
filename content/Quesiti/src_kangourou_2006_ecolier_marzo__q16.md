@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance between Blue and Dan (bear curves) < MSK1/>
+*Distance between Blue and Dan (bear curves) *
 
 > Four crows are crouched on a beam. Their names are Ala, Blue, Cra and Dan. The wing is exactly halfway between Blue and Cra. The distance between Blue and Wing is the same as the distance between Cra and Dan. Wing's four meters from Dan. What's the distance between Blue and Dan? A) 5 m B) 6 m C) 7 m D) 8 m E) 9 m Questions from N. 17 al N. Twenty-four is worth five points each.
 

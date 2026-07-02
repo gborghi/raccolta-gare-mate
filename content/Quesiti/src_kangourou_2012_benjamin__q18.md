@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Hip frog arrival point< MSK1/>
+*Hip frog arrival point*
 
 ![[src_kangourou_2012_benjamin__prob18.png]]
 

@@ -49,9 +49,9 @@ tags:
 
 How many oyster eggs do you need for 60 people?
 
-> In an omelette an oyster egg is equivalent to < MSK0/> chicken eggs. With < MSK1/> chicken eggs, an omelette is made for < MSK2/> people.
+> In an omelette an oyster egg is equivalent to $24$ chicken eggs. With $6$ chicken eggs, an omelette is made for $5$ people.
 > 
-> < MSK1/>How many oysters do you need for < MSK0/> people? < MSK2/>
+> **How many oysters do you need for $60$ people? **
 
 **Answer:** 3 uova di struzzo
 [[src_bocconi_primavera_2007__Q13]]

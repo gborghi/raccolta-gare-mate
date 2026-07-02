@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many parts the scissor cuts the wire < MSK1/>
+*How many parts the scissor cuts the wire *
 
 ![[src_kangourou_2017_preecolier_marzo__prob4.png]]
 

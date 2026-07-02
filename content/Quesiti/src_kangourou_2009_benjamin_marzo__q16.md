@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of cubes to fill the box< MSK1/>
+*Minimum number of cubes to fill the box*
 
 > We have a box shaped like a rectangular parallel-piped with dimensions, in centimeters, 24 x 24 x 60. We want to fill it completely with indeformable cubes all equal, which we can choose the size of. What's the smallest number of cubes that's enough to accomplish the goal? A) 8 B) 20 C) 60 D) 720 E) 1440
 

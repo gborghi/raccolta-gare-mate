@@ -51,7 +51,7 @@ tags:
 
 *Integer coefficient polynomials with roots 1+√2, min sum
 
-> (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + < MSK0/>2 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
+> (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + √2 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
 
 **Answer:** 4
 [[src_kangourou_2022_junior_semifinale__Q17]]

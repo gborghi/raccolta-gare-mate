@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Unità di polvere di 10^1992 / (10^83 + 7) < MSK1/>
+*Unità di polvere di 10^1992 / (10^83 + 7) *
 
 > Qual è la cifra di unità del più grande intero inferiore o uguale a $\dfrac{10^{1992}}{10^{83}+7}$?
 

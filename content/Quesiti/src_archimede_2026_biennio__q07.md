@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of dividing 16 candies with equal friends < MSK1/>
+*Mode of dividing 16 candies with equal friends *
 
 > Marco has a bag of 16 mint candies, which he wants to share with three friends and his cousin. Each of them, including Mark himself, will have to receive at least one candy; moreover, in order not to create a scandal, Mark's three friends will have to receive the same number of candy. How many ways will Marco be able to make the split?
 >

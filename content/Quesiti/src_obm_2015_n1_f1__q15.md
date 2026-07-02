@@ -86,7 +86,7 @@ tags:
 >
 > Nel secondo turno, tutti gli elettori che hanno votato per il partito AA hanno mantenuto i loro voti, e lo stesso è successo con gli elettori del partito BB. Di coloro che hanno votato per il partito CC nel primo turno, $40\%$ ha votato per il partito AA e il resto per il partito BB. Di coloro che avevano votato per altri partiti o hanno dato voti nulli, $60\%$ ha continuato senza votare per AA o BB e il resto ha votato in parte per AA e in parte per BB. Da questo punto di vista, è corretto affermare che:
 >
-> - **(A)** AA ha vinto con più di < MSK0/> dei voti.
+> - **(A)** AA ha vinto con più di $47\%$ dei voti.
 > - **(B)** BB ha vinto con $47\%$ dei voti.
 > - **(C)** AA ha vinto con $51\%$ dei voti.
 > - **(D)** BB ha vinto con più di $43\%$ dei voti.

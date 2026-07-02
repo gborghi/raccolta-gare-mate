@@ -71,7 +71,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>point never touched< MSK1/>
+*point never touched*
 
 ![[src_kangourou_2015_marzo_ecolier__prob14.png]]
 

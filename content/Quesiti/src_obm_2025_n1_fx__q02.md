@@ -64,7 +64,7 @@ tags:
 
 > (a) La figura seguente mostra un quadrato laterale $x$ con diagonale $2$ cm. Ottieniamo un'equazione per $x$ in due modi: direttamente attraverso l'area del quadrato, o sommando le quattro aree dei triangoli formati dai lati e dai diagonali. Trova questa equazione e calcola il valore di $x$.
 > 
-> b) La figura seguente mostra un ottagono regolare < MSK0/> di lato < MSK1/> cm. Ogni angolo interno di un ottagono regolare misura $135^\circ$. Nell'interno dell'ottangolo, i quadrati $ABIJ$ e $EFKL$ sono stati costruiti sui lati $AB$ e $EF$, rispettivamente. Qual è la superficie del quadrilaterale $IJKL$?
+> b) La figura seguente mostra un ottagono regolare $ABCDEFGH$ di lato $2$ cm. Ogni angolo interno di un ottagono regolare misura $135^\circ$. Nell'interno dell'ottangolo, i quadrati $ABIJ$ e $EFKL$ sono stati costruiti sui lati $AB$ e $EF$, rispettivamente. Qual è la superficie del quadrilaterale $IJKL$?
 
 ![[src_obm_2025_n1_fx__Q02.png]]
 

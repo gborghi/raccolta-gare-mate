@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>More left in Ada and Gino< MSK1/>
+*More left in Ada and Gino*
 
 > Apples Ada and Gino bought many apples at the market, and on their way home they each ate one. If they bought twice as many, they'd have 25 more at home than they have. How many apples did Ada and Gino have left?
 

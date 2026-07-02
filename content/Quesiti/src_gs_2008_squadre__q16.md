@@ -50,9 +50,9 @@ tags:
 
 *Area of enclosures inscribed between avenues*
 
-> Tadfield's public garden is bounded by two alleys that move away from the entrance forming an angle of $60^\circ$ between them. Within the garden there are 3 circular ponds, one of which is tangent to the other two; each avenue passes tangentially to each pond. The first pond occupies an area of < MSK1/>.
+> Tadfield's public garden is bounded by two alleys that move away from the entrance forming an angle of $60^\circ$ between them. Within the garden there are 3 circular ponds, one of which is tangent to the other two; each avenue passes tangentially to each pond. The first pond occupies an area of $85\,\text{m}^2$.
 > 
-> What is the area occupied by the three ponds in < MSK0/>?
+> What is the area occupied by the three ponds in $\text{m}^2$?
 
 **Answer:** 7735
 [[src_gs_2008_squadre__Q16]]

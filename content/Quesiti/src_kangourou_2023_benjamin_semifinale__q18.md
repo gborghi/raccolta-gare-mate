@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of removable figures< MSK1/>
+*sum of removable figures*
 
 > (Points 8) The number 7 2 3 1 1 2 3 7 2 1 3 7 2 1 3 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
 

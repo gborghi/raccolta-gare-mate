@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Buoni numeri 2^n+2^{piano(n/2)}: somme e non somme di numeri buoni distinti< MSK1/>
+*Buoni numeri 2^n+2^{piano(n/2)}: somme e non somme di numeri buoni distinti*
 
 > Chiamare un intero un \textit{buono numero} se può essere scritto, utilizzando un intero non negativo $n$, nella forma $2^n + 2^{\lfloor n/2 \rfloor}$. (Qui $\lfloor r \rfloor$ indica il più grande numero intero non superiore al numero reale $r$.)
 > 

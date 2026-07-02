@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rage of circles in the triangle< MSK1/>
+*Rage of circles in the triangle*
 
 ![[src_kangourou_2002_student__prob18.png]]
 

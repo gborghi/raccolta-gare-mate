@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Product possible third side values (30 degrees, sides 59.95) < MSK1/>
+*Product possible third side values (30 degrees, sides 59.95) *
 
 > The brilliant Sekante has only one dream: when he becomes Grandin he will build a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 59 mat-ken and another side of 95 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
 

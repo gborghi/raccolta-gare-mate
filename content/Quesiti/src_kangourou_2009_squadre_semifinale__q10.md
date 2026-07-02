@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Equal and odd probability with two dice tricked< MSK1/>
+*Equal and odd probability with two dice tricked*
 
 > Two identical dice (each with faces numbered 1 to 6, as duse) are tricked: by throwing any one of them, the face with the number 1 can never come out and the probability that one of the remaining faces will come out is proportional to the number shown on the face. So, if we're going to run them, how many chances out of 100 are there that one of the faces will return an even number and the other one will return an odd number?
 

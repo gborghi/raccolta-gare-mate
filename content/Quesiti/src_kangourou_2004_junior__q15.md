@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Unanswered questions given score 87< MSK1/>
+*Unanswered questions given score 87*
 
 > A closed response test (such as Kangourou) consists of 20 questions. For each correct answer, 7 points are awarded, while for each wrong answer, 2 points are subtracted. Unsubmitted replies have no effect (0 points of charge). You passed the test and scored 87 points. How many questions have you not answered? A) 2           B) 3            C) 4           D) 5           E) 6
 

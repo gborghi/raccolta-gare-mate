@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Students with brother and sister (inclusion-exclusion) < MSK1/>
+*Students with brother and sister (inclusion-exclusion) *
 
 > There are 29 students in a class. Students who have at least one sister are 12, those who have at least one brother are 18. Tina, Roberto, and Anna are the only children. How many students in that class have both a brother and a sister? (A) None (B) 1 (C) 3 (D) 4 (E) 6
 

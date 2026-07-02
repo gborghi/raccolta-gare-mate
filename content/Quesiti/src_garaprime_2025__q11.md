@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integrations satisfying the chain of inequalities< MSK1/>
+*Integrations satisfying the chain of inequalities*
 
 > How many positive integers n satisfy the inequalities (15n) 20 > n40 > 280 ?
 >

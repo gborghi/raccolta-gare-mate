@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di colori per le diagonali di colore del 2014-gon in modo che le diagonali di incrocio differiscano< MSK1/>
+*Minimum di colori per le diagonali di colore del 2014-gon in modo che le diagonali di incrocio differiscano*
 
 > Ogni diagonale di un poligono regolare con lati $2014$ è colorata in uno dei colori $n$. Ogni volta che due diagonali si incrociano all'interno, sono di colori diversi. Qual è il valore minimo di $n$ per il quale questo è possibile?
 

@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>In as many as 270 ways as consecutive integers < MSK1/>
+*In as many as 270 ways as consecutive integers *
 
-> How many different ways can < MSK0/> be obtained by adding consecutive positive integers?
+> How many different ways can $270$ be obtained by adding consecutive positive integers?
 
 **Answer:** 7
 [[src_kangourou_2025_junior_finale__QJ3]]

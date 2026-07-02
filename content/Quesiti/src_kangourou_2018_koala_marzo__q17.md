@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many gnoms are wet (fungal headings) < MSK1/>
+*How many gnoms are wet (fungal headings) *
 
 ![[src_kangourou_2018_koala_marzo__prob17.png]]
 

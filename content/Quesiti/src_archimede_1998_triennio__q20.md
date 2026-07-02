@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sara's age from the sum of the age figures < MSK1/>
+*Sara's age from the sum of the age figures *
 
 > Two mathematicians, Andrea and Sara, meet one evening. Andrea says the sum of the numbers of my age is equal to the sum of the numbers of your age, and Sarah answers but next year my sum will be four times your, to which Andrea replies yes, but in two years our sums will be equal again. Considering that neither of them has yet reached their 100th birthday, how old is Sara?
 >

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Find naturals where digit product equals x^2-10x-22 < MSK1/>
+*Find naturals where digit product equals x^2-10x-22 *
 
 > Find all natural numbers $x$ such that the product of their digits (in decimal notation) is equal to $x^2 - 10x - 22$.
 

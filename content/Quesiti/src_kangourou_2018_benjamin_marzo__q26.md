@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many volumes each box contains< MSK1/>
+*How many volumes each box contains*
 
 > A writer has signed many copies of his book and numbered them from number 1. Copies are kept in a gradual order in some boxes: each box contains the same amount of volumes as the others, and the boxes are also numbered starting with the number 1. It is known that volume n. 40 is in the fourth box, which volume n. 73 is in the seventh box and that volume n. 99 is in box nine. How many volumes does each box contain?
 > 	

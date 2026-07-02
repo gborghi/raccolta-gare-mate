@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>invariant pair of heads< MSK1/>
+*invariant pair of heads*
 
 > Clara has eight coins in a row. Some show the face with the head, others with the cross, in this sequence: TTTTTCCC. He plays this game: with each move, he picks two consecutive coins and flips both. Clearly, with some moves of this kind, you would like to get a row of coins arranged in the CCCCCCTT sequence. What can be concluded?
 >

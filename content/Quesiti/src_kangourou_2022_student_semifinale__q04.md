@@ -56,11 +56,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max rectangular area< MSK1/>
+*max rectangular area*
 
 ![[src_kangourou_2022_student_semifinale__prob4.png]]
 
-> (4 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The area of the region in black is 20 4  < MSK0/>). With a configuration like this, what is the maximum value of the area of each of the two rectangles when the two rays vary? A) 40 B) 40√2
+> (4 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The area of the region in black is 20 4  π). With a configuration like this, what is the maximum value of the area of each of the two rectangles when the two rays vary? A) 40 B) 40√2
 >  
 > C) 20 D) 40 / π E) None of the proposed numbers.
 

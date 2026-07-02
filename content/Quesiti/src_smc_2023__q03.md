@@ -53,15 +53,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Effetto sulla superficie della base di scalazione verso l'alto e l'altezza verso il basso< MSK1/>
+*Effetto sulla superficie della base di scalazione verso l'alto e l'altezza verso il basso*
 
 > La base di un triangolo è aumentata di $20\%$ e la sua altezza diminuita di $15\%$. Cosa succede alla sua zona?
 >
-> - **(A)** Riduce di < MSK0/>
+> - **(A)** Riduce di $3\%$
 > - **(B)** Resta lo stesso .
-> - **(C)** Riduce di < MSK0/>
-> - **(D)** Aumenta di < MSK0/>
-> - **(E)** Aumenta di < MSK0/>
+> - **(C)** Riduce di $2\%$
+> - **(D)** Aumenta di $2\%$
+> - **(E)** Aumenta di $5\%$
 
 **Risposta:** D
 [[src_smc_2023__Q03]]

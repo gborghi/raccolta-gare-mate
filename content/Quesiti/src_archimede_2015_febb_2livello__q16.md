@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>cyclicity and similarities< MSK1/>
+*cyclicity and similarities*
 
 ![[src_archimede_2015_febb_2livello__prob16.png]]
 

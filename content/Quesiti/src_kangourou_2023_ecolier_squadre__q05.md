@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bottle price given promotion and savings< MSK1/>
+*Bottle price given promotion and savings*
 
 > Bottles A wine shop offers the following promotion: if a customer buys two bottles of the same price (which is always an integer of EUR), he can choose whether to pay the second bottle half its price or 23 EUR, whatever its price. Sofia chose the first option and thus saved 2 euros compared to what she would have spent if she had chosen the second. How many euros was the selling price for each of the bottles you bought?
 

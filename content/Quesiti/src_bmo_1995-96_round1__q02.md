@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Calcolo f  1996) dato f  1) = 1996 e condizione somma ricorrente < MSK1/>
+*Calcolo f  1996) dato f  1) = 1996 e condizione somma ricorrente *
 
 > Una funzione $f$ è definita sull'insieme di tutti gli integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$ Calcola il valore esatto di $f(1996)$.
 

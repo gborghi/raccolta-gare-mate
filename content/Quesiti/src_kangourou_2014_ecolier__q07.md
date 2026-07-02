@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What the flowers look like from the outside of the window< MSK1/>
+*What the flowers look like from the outside of the window*
 
 ![[src_kangourou_2014_ecolier__prob7.png]]
 

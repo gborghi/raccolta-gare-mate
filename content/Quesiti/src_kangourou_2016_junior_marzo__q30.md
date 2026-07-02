@@ -46,40 +46,10 @@ tags:
 > 
 > categoria
 > A
-> X
-> X
-> X
-> X
-> X
 > B
-> X
-> X
-> X
-> X
-> X
-> X
-> X
 > C
-> X
-> X
-> X
-> X
-> X
-> X
-> X
 > D
-> X
-> X
-> X
-> X
-> X
-> X
 > E
-> X
-> X
-> X
-> X
-> X
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]
@@ -96,7 +66,7 @@ tags:
 
 > At a conference the 2016 participants were registered with the abbreviations P1, ..., P2016. Each participant from P1 to P2015 shook hands with a number of participants exactly equal to that in their registration stamp. How many participants did P2016 shake hands with? A) 1 B) 504 C) 672 D) 1008 E) 2015
 > 
-> Category X X X X X X X X X X X X X X X X X X X X X X X X X
+> Category
 
 **Answer:** D
 [[src_kangourou_2016_junior_marzo__Q30]]

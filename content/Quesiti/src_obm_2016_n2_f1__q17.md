@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di operazioni di fusione per igualarne le pile 1,2,...,9,11 sommando a 56 < MSK1/>
+*Minimum di operazioni di fusione per igualarne le pile 1,2,...,9,11 sommando a 56 *
 
 > La somma totale delle pietre è $1+2+3+\dots+9+11=56$. Per che le pile abbiano un valore comune $k$, questo deve dividere $56$; e poiché alcune pile hanno già pietre $11$, ogni pile finale ha almeno $11$, quindi i valori possibili sono $14$, $28$ o $56$. Per ottenere pile di $28$ occorrono due operazioni, pile di $56$ meno e pile di $14$ occorrono $6$ operazioni, che possono essere eseguite come $$(11+3),(9+5),(8+6),(7+4+2+1).$$ Qual è il numero minimo di operazioni? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 

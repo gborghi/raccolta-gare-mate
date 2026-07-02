@@ -55,7 +55,7 @@ tags:
 
 *Ricerca PQ dove Q è la seconda intersezione dei circoncircoli dei triangoli PAC e PBD*
 
-> Cinque punti $A, B, C, D, P$ si trovano in un piano, con $A, B, C, D$ collineare in tale ordine. Abbiamo $AB = BC = CD = 6$, $PB = 5$, $PC = 7$. Il $Q$ deve essere l'intersezione tra il circoncircolo di $\triangle PAC$ e il circoncircolo di $\triangle PBD$ diverso da $P$. Trova la lunghezza < MSK9/>.
+> Cinque punti $A, B, C, D, P$ si trovano in un piano, con $A, B, C, D$ collineare in tale ordine. Abbiamo $AB = BC = CD = 6$, $PB = 5$, $PC = 7$. Il $Q$ deve essere l'intersezione tra il circoncircolo di $\triangle PAC$ e il circoncircolo di $\triangle PBD$ diverso da $P$. Trova la lunghezza $PQ$.
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 

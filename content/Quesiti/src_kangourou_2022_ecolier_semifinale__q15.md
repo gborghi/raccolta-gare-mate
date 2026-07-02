@@ -37,7 +37,7 @@ tags:
 > N. 
 >   
 > C 
-> D D D D D 
+> 
 > B 
 > C 
 > A 
@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coefficient number of 111,222,555 divided by 111< MSK1/>
+*Coefficient number of 111,222,555 divided by 111*
 
 > (8 points) The number 111,222,333,444,555 (each of the digits 1 to 5 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 >  

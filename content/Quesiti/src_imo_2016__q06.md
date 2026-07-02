@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fredges on non-collision segments if n occurs< MSK1/>
+*Fredges on non-collision segments if n occurs*
 
 > There are $n \geq 2$ segments in the plane such that every two segments intersect and no three segments meet at one point. Geoff must choose one end of each segment and place a frog on it, facing the other end. Then he'll hit his hands $n-1$ times. Every time it claps its hands, each frog will immediately jump forward to the next intersection point on its segment. Frogs never change the direction of their jumps. Geoff wants to place the frogs so that no pair of frogs ever occupies the same intersection at the same time.
 > 

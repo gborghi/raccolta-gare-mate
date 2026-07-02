@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum solution f^4 < MSK1/>
+*Minimum solution f^4 *
 
 > The whole part for every real number x put f(x) = x2 + 64x + 992. Whether α is the least of the solutions of the equation f(f(f(x)))) = 0: determine the whole part of the absolute value of α.
 >  

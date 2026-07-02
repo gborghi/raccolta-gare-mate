@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max inhabitants< MSK1/>
+*max inhabitants*
 
 > Via del Salto is made up of 9 villas lined up in a row. At least one person lives in each of them, and the number of inhabitants of two neighbouring villas does not exceed 6. Then the number of people who can live on the Via del Salto is at most A) 23. B) 25. C) 27. D) 29. E) 31.
 

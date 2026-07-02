@@ -54,7 +54,7 @@ tags:
 
 *Pallindrome 4 digits with 17n perfect square*
 
-> On the same street, at a distance of < MSK0/> m from each other, two student residences arise. The first building houses students $100$, the second $150$. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
+> On the same street, at a distance of $250$ m from each other, two student residences arise. The first building houses students $100$, the second $150$. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
 >
 > - **(A)** In front of the first building.
 > - **(B)** A $100$ metres from the first building (and $150$ from the second).

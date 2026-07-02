@@ -62,7 +62,7 @@ tags:
 
 *Cubric root value of 2+√5 plus cubic root of 2-√5*
 
-> What is 3p 2 + < MSK0/> 5 + 3p 2 − < MSK1/> 5 ?
+> What is 3p 2 + √ 5 + 3p 2 − √ 5 ?
 >
 > - **(A)** 3p 9 −4 √ 5
 > - **(B)** 1

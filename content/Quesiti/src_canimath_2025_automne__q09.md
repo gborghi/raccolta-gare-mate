@@ -47,6 +47,6 @@ tags:
 
 *L'area del triangolo rettangolo è uguale alla somma di due regioni simili alla luna tra semicircoli*
 
-> $B$, $C$ siano due punti del piano, $K_1$ un semicircolo di diametro $[BC]$ e $A$ un punto su $K_1$. Il $K_2$ deve essere il semicircolo di diametro $[CA]$ e $K_3$ il semicircolo di diametro $[AB]$, situato al di fuori del triangolo $ABC$. Indichiamo con $S$ la superficie del triangolo $ABC$, con $S_1$ la superficie compresa tra l'arco $\widehat{AB}$ di $K_1$ e l'arco $\widehat{AB}$ di $K_3$, e con $S_2$ la superficie compresa tra l'arco $\widehat{AC}$ di $K_1$ e l'arco $\widehat{AC}$ di $K_2$. Mostra che < MSK23/>.
+> $B$, $C$ siano due punti del piano, $K_1$ un semicircolo di diametro $[BC]$ e $A$ un punto su $K_1$. Il $K_2$ deve essere il semicircolo di diametro $[CA]$ e $K_3$ il semicircolo di diametro $[AB]$, situato al di fuori del triangolo $ABC$. Indichiamo con $S$ la superficie del triangolo $ABC$, con $S_1$ la superficie compresa tra l'arco $\widehat{AB}$ di $K_1$ e l'arco $\widehat{AB}$ di $K_3$, e con $S_2$ la superficie compresa tra l'arco $\widehat{AC}$ di $K_1$ e l'arco $\widehat{AC}$ di $K_2$. Mostra che $S = S_1 + S_2$.
 
 [[src_canimath_2025_automne__Q09]]

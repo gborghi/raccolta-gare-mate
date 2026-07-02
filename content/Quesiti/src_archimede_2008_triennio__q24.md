@@ -55,7 +55,7 @@ tags:
 
 *Percentage of cone volume at the cylinder intersection*
 
-> C and T are respectively a rectangular cone and a circular cylinder, which have the same axis and have bases in the same plane (and are turned from the same side relative to this plane). The base area of C is 400 < MSK0/> cm2 while the base radius of T is 10 cm. In addition, the heights of C and T both measure 20 cm. What percentage of the volume of C is contained in the intersection between C and T ?
+> C and T are respectively a cone and a straight circular cylinder, which have the same axis and have the bases in the same plane (and are turned from the same side relative to this plane). The base area of C is 400 π cm2 while the base radius of T is 10 cm. In addition, the heights of C and T both measure 20 cm. What percentage of the volume of C is contained in the intersection between C and T ?
 >
 > - **(A)** 20 √ 2 %,
 > - **(B)** 40 %,

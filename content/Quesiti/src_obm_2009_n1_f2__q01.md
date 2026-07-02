@@ -58,7 +58,7 @@ tags:
 
 *Le carte necessarie per costruire una casa di carte a 5 livelli dato i livelli 1,2,3 utilizzare 2,7,15 carte*
 
-> La figura accanto mostra le case di carte di livello $1$, $2$ e $3$. Per costruire queste case di carte sono state utilizzate rispettivamente le carte $2$, $7$ e $15$. Quante carte saranno necessarie per costruire una casa di carte di < MSK6/> livelli?
+> La figura accanto mostra le case di carte di livello $1$, $2$ e $3$. Per costruire queste case di carte sono state utilizzate rispettivamente le carte $2$, $7$ e $15$. Quante carte saranno necessarie per costruire una casa di carte di $5$ livelli?
 
 ![[src_obm_2009_n1_f2__Q01.png]]
 

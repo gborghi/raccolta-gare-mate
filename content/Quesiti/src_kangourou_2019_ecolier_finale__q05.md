@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Designed number to make up the bracelet< MSK1/>
+*Designed number to make up the bracelet*
 
 > As shown in the figure, the mother cut a cake in half, then cut in half one of the two halves, then cut in half one of the two parts she got, and finally cut in half one of the last two slices she got. The smallest slices you got weigh an octet. How much did the whole cake weigh?
 >

@@ -52,6 +52,6 @@ tags:
 
 Se n è la somma dei quadrati di due positivi in triplice consecutive, così è n^2*
 
-> Let < MSK0/>. Prova che, se $n \in S$, allora $n^2 \in S$.
+> Let $S = \{n \mid n-1,\, n,\, n+1 \text{ all can be expressed as the sum of the squares of two positive integers}\}$. Prova che, se $n \in S$, allora $n^2 \in S$.
 
 [[src_cn_cwmo_2006__Q05]]

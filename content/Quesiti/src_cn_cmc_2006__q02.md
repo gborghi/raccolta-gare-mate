@@ -54,7 +54,7 @@ tags:
 
 *Rango di x soddisfacente la disuguaglianza logaritmica*
 
-> Supponiamo < MSK0/>. Quindi l'intervallo di $x$ è (\ \).
+> Supponiamo $\log_x(2x^2 + x - 1) > \log_x 2 - 1$. Quindi l'intervallo di $x$ è (\ \).
 > 
 > (A) $\frac{1}{2} < x < 1$\quad (B) $x > \frac{1}{2}$ e $x \ne 1$\quad (C) $x > 1$\quad (D) $0 < x < 1$
 

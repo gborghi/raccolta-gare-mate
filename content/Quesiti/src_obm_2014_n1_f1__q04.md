@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Problema di composizione di classe / rapporto con rapporti di scelta multipla< MSK1/>
+*Problema di composizione di classe / rapporto con rapporti di scelta multipla*
 
 > In una classe di sesto anno ci sono ragazzi e ragazze; il numero di ragazzi supera il numero di ragazze di una determinata quantità. Qual è il rapporto tra il numero di ragazze e il numero di ragazzi in questa classe?
 > 

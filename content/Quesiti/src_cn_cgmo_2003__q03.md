@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cinque valori reali non negativi sommati a 1: prodotti vicini sul cerchio< MSK1/>
+*Cinque valori reali non negativi sommati a 1: prodotti vicini sul cerchio*
 
 > (1) Per tutti i cinque numeri reali non negativi $a$, $b$, $c$, $d$ e $e$ con la loro somma uguale a $1$, è sempre possibile organizzarli intorno a un cerchio in modo che ci siano sempre due numeri vicini con il loro prodotto non inferiore a $\frac{1}{4}$.
 > 

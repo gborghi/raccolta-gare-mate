@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of adults charged for theatre< MSK1/>
+*Minimum number of adults charged for theatre*
 
 > Today, the theatre was attended by adults and children. The theater has 100 seats, but not all were occupied. Tickets for adults are €20, for children €10, and at the end of the show, the price was €1200. What is the minimum number of adults who may have been present at the show?
 >

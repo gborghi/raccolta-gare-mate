@@ -59,7 +59,7 @@ tags:
 
 *Percentuale dei voli totali cancellati a causa del vulcano (10%) e della pioggia (20% del riposo) *
 
-> A causa di un'eruzione vulcanica, < MSK0/> di tutti i voli di un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali di questo aeroporto che sono stati cancellati?
+> A causa di un'eruzione vulcanica, $10\%$ di tutti i voli di un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali di questo aeroporto che sono stati cancellati?
 > 
 > (A) 28% (B) 30% (C) 35% (D) 38% (E) 70%
 

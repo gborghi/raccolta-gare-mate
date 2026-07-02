@@ -54,7 +54,7 @@ tags:
 
 *Maximum integer 4 distinct digits divisible by each digit*
 
-> Look at the balance sheets in the figure where three identical dogs and two weights appear, one of < MSK0/> and the other of < MSK1/> pounds. The weight in kilograms of each of the dogs is expressed by an integer. What kind?
+> Look at the balance sheets in the figure where three identical dogs and two weights appear, one of $12$ and the other of $20$ pounds. The weight in kilograms of each of the dogs is expressed by an integer. What kind?
 >
 > - **(A)** $7$
 > - **(B)** $8$

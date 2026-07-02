@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> sum of a_i/b_i >= n< MSK1/>
+* sum of a_i/b_i >= n*
 
 > (**18 points**) Determine whether the following statement is true or false by reasoning the answer.
 > 

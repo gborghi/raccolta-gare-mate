@@ -57,11 +57,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of whole solutions of ∆x ∆+2 ∆y ∆=4022
+*Number of whole solutions of ∆x ∆+2 ∆y ∆=4022
 
-> Another adventure is over and the village is unmistakably gathering for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions to the equation ≠ ≠ ≠ ≠ ≠ 2 ≠ ≠ 4022. How many pigs were needed?
+> Another adventure is over and the village is unmistakably gathering for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions of the equation x x x + 2 y = 4022. How many pigs were needed?
 > 
-> This year's event is the 12th National Team Semi-Final. The problem
+> This year's competition will be held on the second Saturday of May. The problem
 
 **Answer:** 8044
 [[src_cesenatico_2011_semifinale_a__Q16]]

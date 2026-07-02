@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Inteers such that by subtracting the last digit, give 1/14 < MSK1/>
+*Inteers such that by subtracting the last digit, give 1/14 *
 
 > 21. How many positive integers are such that the number obtained by eliminating the last digit is 1/14 of the original number? A) 0 B) 1 C) 2 D) 3 E) 4
 

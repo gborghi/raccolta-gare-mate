@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many positive whole solutions< MSK1/>
+*how many positive whole solutions*
 
 > What are the ordered pairs of natural numbers $(x, y)$, $x > 0$ and $y > 0$, such as $5 < x + y \leq 10$? (Note: they are considered ordered pairs, so for example $(1, 2)$ and $(2, 1)$ are separate pairs).
 >

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area triangle AB'C' with symmetries to the center< MSK1/>
+*Area triangle AB'C' with symmetries to the center*
 
 > Indicate the sum of all real numbers x for which the equality 2x + 1 · 4x2 −7x −10 · (x3 −2)4 + 1 = 0
 >

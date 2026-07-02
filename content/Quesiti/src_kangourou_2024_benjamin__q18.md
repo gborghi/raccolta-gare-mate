@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many hive cells contain honey< MSK1/>
+*How many hive cells contain honey*
 
 ![[src_kangourou_2024_benjamin__prob18.png]]
 

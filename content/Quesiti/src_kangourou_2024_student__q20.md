@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>After several hours one candle and triple the other< MSK1/>
+*After several hours one candle and triple the other*
 
 > Two candles of equal height begin to burn at the same moment and each one is consumed evenly over time. One would take 4 hours to run out, the other 5 hours. After how many hours will one be three times as long as the other? A) 40 / 11 B) 45 / 12 C) 63 / 20 D) 3
 > 	

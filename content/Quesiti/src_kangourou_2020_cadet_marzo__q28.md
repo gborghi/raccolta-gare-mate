@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum metres of the trainer (three children run 50m) < MSK1/>
+*Minimum metres of the trainer (three children run 50m) *
 
 > Four children are standing on the four corners of a 10-meter-sized pool. Their coach's on one side of the pool. When he calls them, three of them come out and run toward him along the shortest possible path along the sides of the pool: they run 50 meters in all. How many metres at least must the trainer walk to reach the fourth child (always moving along the sides of the pool)? A) 10
 > 	

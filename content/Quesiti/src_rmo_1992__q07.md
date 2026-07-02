@@ -52,6 +52,6 @@ tags:
 
 *Prove la disuguaglianza 1 < somma di 1/(1001) a 1/(3001) < 4/3.*
 
-> Provare che < MSK0/>
+> Provare che $$1 < \frac{1}{1001} + \frac{1}{1002} + \frac{1}{1003} + \cdots + \frac{1}{3001} < \frac{4}{3}.$$
 
 [[src_rmo_1992__Q07]]

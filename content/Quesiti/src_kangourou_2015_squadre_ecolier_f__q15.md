@@ -40,11 +40,6 @@ tags:
 > costa due euro al chilo e occorrono 5 chili di vernice per verniciare una superficie di 
 > quattro metri quadrati e mezzo. Quanti euro si spenderanno per la vernice necessaria 
 > a dare una mano di colore al solido? 
->  
-> 
->  
->  
->  
 > Kangourou della Matematica 2015   
 > Coppa a squadre Kangourou Ecolier Popotus   
 > Cervia, 8 maggio 2015 
@@ -63,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Euro for painting the solid of 4 cubes (EXPO) < MSK1/>
+*Euro for painting the solid of 4 cubes (EXPO) *
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob15.png]]
 

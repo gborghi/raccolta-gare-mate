@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Triangolo con circoncircolo e incentro; kite PIRQ implica equilaterale*
+*Triangolo con circoncircolo e incentro; PIRQ della gabbia implica equilaterale*
 
-> Il $ABC$ deve essere un triangolo con circoncircolo $\Gamma$ e incentro $I$. I bisettori di angolo interno di $\angle A$, $\angle B$ e $\angle C$ devono incontrare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. In < MSK12/> < MSK11/> e in < MSK14/> < MSK13/> si intersecano. Lasciate che < MSK15/> si incroci < MSK16/> in < MSK17/>. Supponiamo che il quadrilaterale $PIRQ$ sia un aquilone; cioè $IP = IR$ e $QP = QR$. Prova che $ABC$ è un triangolo equilaterale.
+> Il $ABC$ deve essere un triangolo con circoncircolo $\Gamma$ e incentro $I$. I bisettori di angolo interno di $\angle A$, $\angle B$ e $\angle C$ devono incontrare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. In $P$ $AA'$ e in $Q$ $AC$ si intersecano. Lasciate che $BB'$ si incroci $AC$ in $R$. Supponiamo che il quadrilaterale $PIRQ$ sia un aquilone; cioè $IP = IR$ e $QP = QR$. Prova che $ABC$ è un triangolo equilaterale.
 
 ![[src_rmo_2015_r3__Q05.png]]
 

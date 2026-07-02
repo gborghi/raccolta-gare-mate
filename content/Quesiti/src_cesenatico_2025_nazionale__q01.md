@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n with n=225 s(n) and n=225 s(n) ^2< MSK1/>
+*Minimum n with n=225 s(n) and n=225 s(n) ^2*
 
 > For every positive integer n, we indicate with s(n) the sum of the digits of n in the normal representation in base 10. For example, s(7) = 7 and s(10654) = 16. (a) Determine the smallest positive integer n such that n = 225 · s(n). (b) Determine the smallest positive integer n such that n = 225 · s(n) 2.
 

@@ -60,7 +60,7 @@ tags:
 > - **(B)** $8$
 > - **(C)** $9$
 > - **(D)** $10$
-> - **(E)** < MSK0/> and < MSK1/> have the same probability.
+> - **(E)** $7$ and $8$ have the same probability.
 
 **Answer:** 0977
 [[src_kangourou_2018_junior_finale__Q10]]

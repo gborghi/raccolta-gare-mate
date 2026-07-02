@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Who gets the biggest product and how much < MSK1/>
+*Who gets the biggest product and how much *
 
 > Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, from 1111. B) Bruno, from 1111. C) Anna, of 2222. D) Bruno, 2222. E) None of the above answers is correct.
 

@@ -52,7 +52,7 @@ tags:
 
 *Prove che O1, O2, A sono collineari in triangolo acuto con condizione di bisettore angolare*
 
-> 40 punti) Come illustrato nella figura. 1.1, in triangolo acuto < MSK0/>, < MSK1/>. $M$, $N$ sono due punti diversi su $BC$ in modo tale che $\angle BAM = \angle CAN$ e $O_1$, $O_2$ sono rispettivamente i circoncenti di $\triangle ABC$ e $\triangle AMN$. Prove che $O_1$, $O_2$, $A$ sono collineari.
+> 40 punti) Come illustrato nella figura. 1.1, in triangolo acuto $\triangle ABC$, $AB > AC$. $M$, $N$ sono due punti diversi su $BC$ in modo tale che $\angle BAM = \angle CAN$ e $O_1$, $O_2$ siano rispettivamente i circoncenti di $\triangle ABC$ e $\triangle AMN$. Prove che $O_1$, $O_2$, $A$ sono collineari.
 
 ![[src_cn_cmc-complementary-test_b11_w77__Q01.png]]
 

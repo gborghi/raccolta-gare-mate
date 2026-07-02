@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integres with product numbers 33< MSK1/>
+*Integres with product numbers 33*
 
 > In the drawing you see two squares, each side $3$ cm, joined together for the $C$ vertex. An ant starts from the $A$ point and follows the $ABCDEFCGA$ path along the edge of the figure. The ant repeats the route several times. After travelling a distance of $2019$ cm, the ant gets tired and stops at the top where it is at that moment. What letter denotes it? (see figure)
 

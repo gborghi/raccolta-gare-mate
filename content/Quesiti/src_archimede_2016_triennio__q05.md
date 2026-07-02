@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Three pairs of different coloured knitted or crocheted fabrics< MSK1/>
+*Three pairs of different coloured knitted or crocheted fabrics*
 
 > Six people (two in a red shirt, two in a blue shirt, two in a yellow shirt), to play briscola, want to divide themselves into three teams of two people each. In how many ways can they divide, so that the two in each team have different colored jerseys?
 >

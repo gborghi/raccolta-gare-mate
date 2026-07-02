@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di strette di mano per garantire l'infezione di tutte le persone del 2015< MSK1/>
+*Minimum di strette di mano per garantire l'infezione di tutte le persone del 2015*
 
-> Ci sono persone $2015$. Inizialmente, esattamente la persona < MSK1/> è infetta dalla febbre IMO, ma non è noto chi sia. Quando due persone si stringono la mano, se uno di loro è infetto, l'altro diventa infetto. Qual è il numero minimo di strette di mano che deve verificarsi per garantire che tutte le persone < MSK2/> siano infette, indipendentemente da chi sia la persona infetta iniziale?
+> Ci sono persone $2015$. Inizialmente, esattamente la persona $1$ è infetta dalla febbre IMO, ma non è noto chi sia. Quando due persone si stringono la mano, se uno di loro è infetto, l'altro diventa infetto. Qual è il numero minimo di strette di mano che deve verificarsi per garantire che tutte le persone $2015$ siano infette, indipendentemente da chi sia la persona infetta iniziale?
 
 [[src_selection_camp_2016__Q06]]

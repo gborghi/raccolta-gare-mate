@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of girls with influenza< MSK1/>
+*Minimum number of girls with influenza*
 
 > One class is made up of nine boys and 13 girls. Half of them have the flu. What's the minimum number of girls who definitely have the flu? A) 7 B) 5 C) 2 D) 6 E) 4
 

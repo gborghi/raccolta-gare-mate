@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integres between -20,16 and 3,17< MSK1/>
+*Integres between -20,16 and 3,17*
 
 > How many integers are there between −20.16 and 3.17? A) 16 B) 17 C) 20 D) 23 E) 24
 

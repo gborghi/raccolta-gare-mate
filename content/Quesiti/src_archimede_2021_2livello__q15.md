@@ -55,6 +55,6 @@ tags:
 
 ![[src_archimede_2021_2livello__prob15.png]]
 
-> DEMOSTRATIVE EXERCISE Whether ABCD is a rectangle and whether E is an arbitrary point other than C on the DC side. Both H the projection of E on the AC diagonal and K the projection of C on the AE semicircle. (a) Demonstrate that K lies on the circumference circumscribed at ABCD and that the quadrilateral CKEH is cyclic, i.e. inscrutable in a circumference. (b) Show that \ CKB + \ CKH = < MSK0/>. (c) Demonstrate that K, H, B are aligned if and only if ABCD is a square.
+> DEMOSTRATIVE EXERCISE Whether ABCD is a rectangle and whether E is an arbitrary point other than C on the DC side. Both H the projection of E on the AC diagonal and K the projection of C on the AE semicircle. (a) Demonstrate that K lies on the circumference circumscribed at ABCD and that the quadrilateral CKEH is cyclic, i.e. inscrutable in a circumference. (b) Show that \ CKB + \ CKH = 90°. (c) Demonstrate that K, H, B are aligned if and only if ABCD is a square.
 
 [[src_archimede_2021_2livello__Q15]]

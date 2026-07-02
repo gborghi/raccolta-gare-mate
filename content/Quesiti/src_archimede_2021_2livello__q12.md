@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Six-fold with sum of 168 cubes, remaining form 6< MSK1/>
+*Six-fold with sum of 168 cubes, remaining form 6*
 
 > Both N the number of ordered six-times of integers (a,b,c,d,e,f) such that a3+b3+c3+d3+e3+f3 = 168 and −2021202120219 < abcdef < 2021202120219, where abcdef is the product of the six integers. Which of the following is the remainder of N in division by 6?
 >

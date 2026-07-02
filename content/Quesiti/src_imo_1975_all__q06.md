@@ -61,6 +61,6 @@ tags:
 > 
 > (ii) for all real $a, b, c$ $$P(b+c,\, a) + P(c+a,\, b) + P(a+b,\, c) = 0,$$
 > 
-> (iii) MSK0/.
+> (iii)$P(1, 0) = 1$.
 
 [[src_imo_1975_all__Q06]]

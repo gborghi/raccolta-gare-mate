@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>1/p prob red and green bags always different< MSK1/>
+*1/p prob red and green bags always different*
 
 > In a box there are 1,016 red and 1,008 green bubbles. Do you calculate the probability that, if you randomly extract one seed at a time, after each extraction, the number of red seed remaining in the box will always remain different from the number of green seed remaining in the box? Write the number 1/p or, if it is not an integer, the integer nearest it. The answer is 0253. The solution. Let's calculate the probability of the complementary event C, that is, after some extraction, the green balls left in the box are as many as the red ones. Let's imagine doing the reverse operation, which is filling the box by drawing the seeds from the outside, which is equivalent to our purpose. If the first card entered is green, which happens with probability of 1.008/2.024, C is certainly occurring. Now let's say that the first card you put in is red and that C happens again. Consider the first time C occurs: the last insert must have been a green leaf. Since we only have red or green balls, the probability a priori that this was a green ball is still 1,008/2,024. So you have p = 1  2 × 1.008/2.024 = 8/2.024 = 1/253.
 

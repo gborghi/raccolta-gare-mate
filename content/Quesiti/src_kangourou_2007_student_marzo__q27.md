@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Chapter 100 cells above (spiral 12345) < MSK1/>
+*Chapter 100 cells above (spiral 12345) *
 
 ![[src_kangourou_2007_student_marzo__prob27.png]]
 

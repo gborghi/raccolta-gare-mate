@@ -99,11 +99,11 @@ tags:
 > 
 > Il numero $163$ non è né rotativo né fitatorio. Vedi figura 9.
 > 
-> 1. Let < MSK0/>. a) Esiste un numero rotativo con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri rotativi con cifre $n$.
+> 1. Let $n \ge 2$. a) Esiste un numero rotativo con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri rotativi con cifre $n$.
 > 
-> 2. Let < MSK0/>. a) Esiste un numero fitatorio con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri di inserimento con cifre $n$.
+> 2. Let $n \ge 2$. a) Esiste un numero fitatorio con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri di inserimento con cifre $n$.
 > 
-> 3. Let < MSK0/>. a) Let < MSK1/>. Esiste un numero permutativo con cifre $n$ che termina con la cifra $c$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri permutativi con cifre $n$. In particolare, determinare il limite di questo numero diviso per $9 \times 10^{n-1}$, se esiste ($9 \times 10^{n-1}$ è il numero di numeri con cifre $n$).
+> 3. Let $n \ge 2$. a) Let $c \in \{0, 1, 2, \dots, 9\}$. Esiste un numero permutativo con cifre $n$ che termina con la cifra $c$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri permutativi con cifre $n$. In particolare, determinare il limite di questo numero diviso per $9 \times 10^{n-1}$, se esiste ($9 \times 10^{n-1}$ è il numero di numeri con cifre $n$).
 > 
 > 4. Ripetere la precedente sottoquestione per altre basi di numerazione.
 > 

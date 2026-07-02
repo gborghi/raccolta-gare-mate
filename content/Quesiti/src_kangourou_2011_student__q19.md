@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of balls with divisibility by 6.7.42< MSK1/>
+*Minimum number of balls with divisibility by 6.7.42*
 
 > Each ball in a lottery day has a positive integer. On exactly 30 balls, there's a number divisible by 6, on exactly 20 a number divisible by 7 and on exactly 10 a number divisible by 42. How many balls should there be in the urna at least? A) 30 B) 40 C) 53 D) 54 E) 60
 

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Emma's estate with divisibility conditions for 5< MSK1/>
+*Emma's estate with divisibility conditions for 5*
 
 > Four cousins are 3, 8, 12, and 14. Their names, in alphabetical order, are Ada, Emma, Iva, and Olga. The sum of the ages of Olga and Ada is divisible by 5. The sum of Olga and Iva's ages is also divisible by 5. How old is Emma? A) 14
 > 	

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sub-totals with multiple sums of n between n integers < MSK1/>
+*Sub-totals with multiple sums of n between n integers *
 
 > Demonstrate that, however positive integers $n$ ($n \geq 1$) are assigned, some of them can always be chosen so that their sum is a multiple of $n$.
 

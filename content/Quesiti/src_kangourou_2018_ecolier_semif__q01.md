@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Animals living in mice and cats after cats eat< MSK1/>
+* Animals living in mice and cats after cats eat*
 
 > On an island there are exactly 190 mice and 20 cats. After each cat has eaten five mice, how many live animals, mice and cats, remain on the island? A) 90 B) 100 C) 110 D) 95 E) 85
 

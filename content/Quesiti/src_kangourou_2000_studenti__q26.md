@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of KANGAROO with distinct digits< MSK1/>
+*Value of KANGAROO with distinct digits*
 
 > If each letter corresponds to a different number, then KANGAROO + 10000 × AROO  10000 × KANG ("×" indicates the ordinary multiplication) is A) AROOAROO B) AROOKANG C) KANGKANG D) KANGAROO E) KAGANROO
 

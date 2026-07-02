@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Exponent of the first 2 in product of (5^d-1) < MSK1/>
+*Exponent of the first 2 in product of (5^d-1) *
 
 > What is the exponent of the first 2 in the factorization of the number (5 −1)(55 −1) . . . (55...5 −1) where in each factor an exponent appears a 5 more than in the previous and the last ones appear, as exponents, 2014?
 

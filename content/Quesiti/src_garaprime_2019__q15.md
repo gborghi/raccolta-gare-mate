@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of firsts in the factorization of p(19,18) < MSK1/>
+*Number of firsts in the factorization of p(19,18) *
 
 > Given the polynomial p(x, y) = x5 +x4y +x3y2 +x2y3 +xy4 +y5, both n = p(19, 18), i.e. n is the number that is obtained by replacing the values x = 19 and y = 18 in the polynomial. How many different prime numbers do you have in the factorization of n? A 4 B 3 C 5 D 6 E 7 F more than 7
 

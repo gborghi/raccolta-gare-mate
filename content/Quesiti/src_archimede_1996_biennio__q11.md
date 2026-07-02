@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Final weight of anguries after evaporation< MSK1/>
+*Final weight of anguries after evaporation*
 
 > A batch of anguries of an initial weight of 500 kg is stored for one week in a warehouse. At the beginning, the water content of anguries was 99% by weight. At the end of storage, due to evaporation, this percentage dropped to 98%. How much do the watermelons weigh in the end?
 >

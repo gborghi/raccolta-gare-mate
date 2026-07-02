@@ -90,7 +90,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many different sums < MSK1/>
+*how many different sums *
 
 ![[src_kangourou_2023_benjamin__prob26.png]]
 

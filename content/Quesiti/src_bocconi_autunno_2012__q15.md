@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many sweets are served overall in a restaurant with restrictions< MSK1/>
+*How many sweets are served overall in a restaurant with restrictions*
 
 > As soon as Renato retired, he gave in to his passion and opened a restaurant. Last night, 32 customers took (at least) the starter and the first; the $\frac{8}{6}$ of all customers chose (at least) the first and the sweet; half took everything: starter, first and sweet. The first one was taken by everyone and nobody the gourmets:) he was confined to one scope. How many sweets were served in total?
 

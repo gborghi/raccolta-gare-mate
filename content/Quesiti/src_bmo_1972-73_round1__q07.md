@@ -50,11 +50,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'aspettativa di vita di un draconiano di 70 anni da un modello di tavolo vita< MSK1/>
+*L'aspettativa di vita di un draconiano di 70 anni da un modello di tavolo vita*
 
-> La tabella di vita rilasciata dal segretario generale della Draconia mostra tra i nati vivi < MSK0/> il numero < MSK1/> che si prevede sarà vivo < MSK2/> anni dopo. Per $60 \le a \le 100$ la curva $y = Ax\,(100 - x) + \frac{B}{(x - 40)^2}$ si adatta molto strettamente alle cifre della tabella, essendo costanti $A$ e $B$.
+> La tabella di vita rilasciata dal segretario generale della Draconia mostra tra i nati vivi $10{,}000$ il numero $(y)$ che si prevede sarà vivo $a$ anni dopo. Per $60 \le a \le 100$ la curva $y = Ax\,(100 - x) + \frac{B}{(x - 40)^2}$ si adatta molto strettamente alle cifre della tabella, essendo costanti $A$ e $B$.
 > 
-> Determinare l'aspettativa di vita (in anni corretti a un decimale) di un draconiano di età < MSK0/>.
+> Determinare l'aspettativa di vita (in anni corretti a un decimale) di un draconiano di età $70$.
 > 
 > N.B. All'età $100$ tutti i draconiani vengono giustiziati.
 

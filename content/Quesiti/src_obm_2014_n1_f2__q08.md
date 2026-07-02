@@ -57,11 +57,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*EFGH quadrato inciso in ABCD quadrato con punti di mezzo I,J,K,L; trovare tre aree*
+*Figura EFGH quadrata scritta in quadrato ABCD con punti di mezzo I, J, K, L; trovare tre aree*
 
-> Nella figura, abbiamo $AF = 12$ cm e $AE = 16$ cm. I vertici del quadrato $EFGH$ si trovano sui lati del quadrato $ABCD$, e i punti $I$, $J$, $K$, $L$ sono i punti di mezzo dei lati di $EFGH$.
+> Nella figura, abbiamo $AF = 12$ cm e $AE = 16$ cm. I vertici del quadrato $EFGH$ si trovano sui lati del quadrato $ABCD$, e i punti $I$, $J$, $K$, $L$ sono i punti medi dei lati di $EFGH$.
 > 
-> a) Qual è la superficie del quadrato < MSK0/>? b) Qual è la superficie del quadrato < MSK1/>? c) Qual è la superficie del quadrato grigio all'interno del quadrato $EFGH$?
+> a) Qual è la superficie del quadrato $ABCD$? b) Qual è la superficie del quadrato $EFGH$? c) Qual è la superficie del quadrato grigio all'interno del quadrato $EFGH$?
 
 ![[src_obm_2014_n1_f2__Q08.png]]
 

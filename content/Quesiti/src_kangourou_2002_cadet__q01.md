@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0> Larger fraction < MSK1/>
+*Larger fraction*
 
 > Which of the following numbers, expressed as fractions, is the largest?
 >  

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of the darkest part of the square< MSK1/>
+*Fraction of the darkest part of the square*
 
 > In the square of the figure, segments have been drawn that connect some opposite vertices and the middle point of one side. The darkest part of the figure was thus formed. What's the darker fraction of the surface than the whole square?
 

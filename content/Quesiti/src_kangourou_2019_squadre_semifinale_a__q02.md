@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum litres per minute to prevent the boat from sinking< MSK1/>
+*Minimum litres per minute to prevent the boat from sinking*
 
 > The boat A boat travels at a constant speed of 4 kilometers per hour. When it is two kilometers from the coast, it begins to boil water: 32 liters per minute. It can carry up to 150 litres of water without sinking. A pump shall be put into operation immediately to empty at least part of the water on board. If the pump is running constantly, how many litres of water at least must it be able to discharge every minute if the boat is to reach shore before sinking?
 

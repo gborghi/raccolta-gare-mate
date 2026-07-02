@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Currency: card price paid with 3 different coins using one of 0,50 euro, remaining in 3 different coins< MSK1/>
+*Currency: card price paid with 3 different coins using one of 0,50 euro, remaining in 3 different coins*
 
-> Mathilde, on vacation, wants to buy a card for her friend Geo. He wants to pay for it with three different coins. It also prefers to give a coin of $0{,}50$ euro. The merchant then returns three different coins. What's the price of the card? The coins in use are the following: < MSK1/> euro; < MSK2/> euro; < MSK3/> euro; < MSK4/> euro; < MSK5/> euro; < MSK6/> euro; < MSK7/> euro; < MSK8/> euro.
+> Mathilde, on vacation, wants to buy a card for her friend Geo. He wants to pay for it with three different coins. It also prefers to give a coin of $0{,}50$ euro. The merchant then returns three different coins. What's the price of the card? The coins in use are the following: $0{,}01$ euro; $0{,}02$ euro; $0{,}05$ euro; $0{,}10$ euro; $0{,}20$ euro; $0{,}50$ euro; $1$ euro; $2$ euro.
 
 **Answer:** $0{,}23$ euro oppure $0{,}27$ euro
 [[src_bocconi_finaleint_2007_g1__Q09]]

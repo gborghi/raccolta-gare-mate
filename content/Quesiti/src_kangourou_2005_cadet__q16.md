@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of water in the bucket after 20 l/m2 of rain< MSK1/>
+*Height of water in the bucket after 20 l/m2 of rain*
 
 > Tonight it rained heavily: 20 litres of rain fell per square meter. How high is the water level in the bucket I left, empty and unturned, in the garden? A) 2 mm B) 5 mm C) 1 cm D) 2 cm E) 5 cm 8 13 15 A C B A) B) C) D) E) Cadet_05_D.
 > 

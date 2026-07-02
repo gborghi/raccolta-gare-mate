@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-This is the sum of the amounts of the following items: < MSK0/>
+This is the sum of the amounts of the following items: *
 
 > Writing the whole number (102018 + 2018)2 by extension uses 4037 digits. What is the sum of all these numbers?
 >

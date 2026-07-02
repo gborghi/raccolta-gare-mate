@@ -34,13 +34,6 @@ tags:
 > Il quadrato che vedete sulla destra viene ritagliato secondo le 
 > linee indicate. Quale dei seguenti tasselli non può essere 
 > ottenuto in questo modo? 
->  
->  
->  
->  
->  
->  
-> 
 > Ecolier 2002. Pagina N. 
 > 3 
 > I quesiti dal N. 9 al N. 16 valgono 4 punti ciascuno

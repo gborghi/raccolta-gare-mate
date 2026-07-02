@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>one single true statement in euro of Lisa< MSK1/>
+*one single true statement in euro of Lisa*
 
 > (2 points) If any of the following three statements
 >  

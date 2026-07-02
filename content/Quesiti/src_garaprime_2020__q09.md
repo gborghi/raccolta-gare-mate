@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eighth divisor in descending order of 646400< MSK1/>
+*Eighth divisor in descending order of 646400*
 
 > If we write in descending order the list of all the positive divisors of 646400 we get: 646400, 323200, 161600, . . . , 5, 4, 2, 1 What is the eighth number on that list? A 32320 B 40400 C 2525 D 16160 E 25856 F 5050
 

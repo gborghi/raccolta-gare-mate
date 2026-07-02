@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum trucks for 50 boxes< MSK1/>
+*Minimum trucks for 50 boxes*
 
 > We have to transport 50 boxes at the same time using trucks weighing 1,200 kilograms each. The first weighs 150 kg, the second 151 kg, the third 152 kg and so on until the last weighs 199 kg. What is the minimum number of trucks sufficient to carry out the transport?
 >  

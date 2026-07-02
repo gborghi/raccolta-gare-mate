@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Smaller box sizes for construction< MSK1/>
+*Smaller box sizes for construction*
 
 ![[src_kangourou_2017_benjamin_marzo__prob14.png]]
 

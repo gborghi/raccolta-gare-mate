@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>possible pair< MSK1/>
+*possible pair*
 
 ![[src_kangourou_2023_ecolier__prob3.png]]
 

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>try to equilibrate< MSK1/>
+*try to equilibrate*
 
 > In an $n$-gon all of whose interior angles are equal, the lengths of consecutive sides satisfy the relation $$a_1 \geq a_2 \geq \cdots \geq a_n.$$ Prove that $a_1 = a_2 = \cdots = a_n$.
 

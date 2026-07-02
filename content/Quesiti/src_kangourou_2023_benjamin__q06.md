@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>non-visible scales< MSK1/>
+*non-visible scales*
 
 ![[src_kangourou_2023_benjamin__prob6.png]]
 

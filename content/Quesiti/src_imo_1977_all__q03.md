@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-unique factorization into indecomposables in V_n< MSK1/>
+*Non-unique factorization into indecomposables in V_n*
 
 > If $n$ is an integer $> 2$, and $V_n$ is the sum of the integers $1 + kn$, with $k = 1, 2, \ldots$. A $m \in V_n$ number is said to be *unbreakable* in $V_n$ if $p, q \in V_n$ numbers such as $pq = m$ do not exist. Demonstrate that there is a number $r \in V_n$ that can be expressed as the product of elements that cannot be broken down into $V_n$ in more than one way. (Products which differ only in order of factors are considered to be the same.)
 

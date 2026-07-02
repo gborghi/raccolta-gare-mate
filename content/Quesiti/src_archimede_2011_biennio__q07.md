@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum prime number with 60 and 68 meal combinations< MSK1/>
+*Minimum prime number with 60 and 68 meal combinations*
 
 > A number is called a palindrome if the sequence of its digits does not change whether it is read from left to right or from right to left; for example 36563 is a palindrome. How many five-digit palindrome numbers are such that the sum of their digits is equal?
 >

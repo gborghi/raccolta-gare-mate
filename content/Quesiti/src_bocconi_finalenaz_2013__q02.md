@@ -58,7 +58,7 @@ tags:
 
 *Number read by Milena on four identical dice*
 
-> The figures < MSK0/> are shown on the faces of four (identical) dice. Opposite faces always have the same sum: 5. Carla reads the 2013 number from the dice side facing her. Which number will Milena, standing in front of Carla, read the numbers from left to right?
+> The figures $0, 1, 2, 3, 4, 5$ are shown on the faces of four (identical) dice. Opposite faces always have the same sum: 5. Carla reads the 2013 number from the dice side facing her. Which number will Milena, standing in front of Carla, read the numbers from left to right?
 > 
 > Which number will Milena read, reading the figures shown on the faces opposite those seen by Carla?
 

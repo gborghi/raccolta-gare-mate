@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Over the years produced figures > sum of figures< MSK1/>
+*Over the years produced figures > sum of figures*
 
 > Imagine that today is the first day of 2013 (i.e. last New Year): in how many years will we be for the first time in a year that the product of its numbers is greater than the sum of its numbers? A) 87 B) 102	               C) 98 D) 1
 >           	

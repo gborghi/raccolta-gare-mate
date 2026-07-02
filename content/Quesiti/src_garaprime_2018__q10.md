@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of coefficients of p(x) from polynomial product< MSK1/>
+*Sum of coefficients of p(x) from polynomial product*
 
 > From the polynomial p(x) we know that (x6 −3x −1) · p(x) = x17 −x11 −6x7 −4x6 −9x2 + 1. What is the sum of the coefficients of p(x)? A 6 B −6 C 3 D −3 E 2 F −2
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of k if 2012 = m^m (m^k - k) < MSK1/>
+*Value of k if 2012 = m^m (m^k - k) *
 
 > Anna found that, for an appropriate choice of positive integers m and k, we have 2012 = mm × (mk  k). How much is k? A) 2 B) 3 C) 4 D) 9 E) 11
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prova 1^2005 + 2^2005 + ... + 2005^2005 è divisibile per 1+2+...+2005*
+*Prova 1^2005 + 2^2005 + ... + 2005^2005 è divisibile per 1+2+...+2005*
 
 > Provare che il numero $1^{2005} + 2^{2005} + 3^{2005} + \cdots + 2005^{2005}$ è un multiple di $1 + 2 + 3 + \cdots + 2005$.
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability out of 100 that the first and last are squared< MSK1/>
+*Probability out of 100 that the first and last are squared*
 
 > Gertrude's objects Gertrude has five objects: three squares and two circles. If you put them in random rows on the table, how many chances out of 100 are there that the first and last object are two squares?
 

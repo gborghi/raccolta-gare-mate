@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>KAN-GAR=OO, maximum KAN< MSK1/>
+*KAN-GAR=OO, maximum KAN*
 
 > In the KAN  GAR = OO equality, each letter represents a digit (in decimal notation): different letters represent different digits, equal letters represent equal digits. What is the maximum value that can be assumed from the KAN number? The Commission has therefore decided to extend the scope of this Regulation to the following areas:
 > 

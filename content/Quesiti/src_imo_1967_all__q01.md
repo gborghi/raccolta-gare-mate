@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Four unit circles cover parallelograms iff a-condition holds< MSK1/>
+*Four unit circles cover parallelograms iff a-condition holds*
 
 > Whether $ABCD$ a parallelogram with sides $AB = a$, $AD = 1$ and $\angle BAD = \alpha$. If the $\triangle ABD$ triangle is acutane, prove that the four radius 1 circles with centers $A$, $B$, $C$, $D$ cover the parallelogram if and only if $$a \leq \cos\alpha + \sqrt{3}\,\sin\alpha.$$
 

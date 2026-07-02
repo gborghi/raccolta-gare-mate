@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le coppie vincenti (m,n) < MSK1/>
+Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le coppie vincenti (m,n) *
 
-> Su un tavolo ci sono marmi blu < MSK0/> e marmi rossi < MSK1/>. Armaan e Babita giocano a turni. In ogni turno il giocatore deve scegliere un marmo del colore di sua scelta. Armaan inizia per primo, e il giocatore che sceglie l'ultimo marmo rosso vince. Per quante scelte di $(m, n)$ con $1 \le m, n \le 11$ Armaan può forzare una vittoria?
+> Su un tavolo ci sono marmi blu $m$ e marmi rossi $n$. Armaan e Babita giocano a turni. In ogni turno il giocatore deve scegliere un marmo del colore di sua scelta. Armaan inizia per primo, e il giocatore che sceglie l'ultimo marmo rosso vince. Per quante scelte di $(m, n)$ con $1 \le m, n \le 11$ Armaan può forzare una vittoria?
 
 [[src_ioqm_2025_sep07__Q22]]

@@ -52,7 +52,7 @@ tags:
 
 *Prove GE = GH in triangolo rettangolo con configurazione tangente a cerchio inscritta*
 
-> Come mostrato nella figura. 6.1, $\triangle ABC$ è un triangolo rettangolare, $\angle C = 90^\circ$. Disegnare un cerchio centrato a $B$ con raggio $BC$. Il $D$ deve essere un punto sul lato $AC$ e $DE$ deve essere tangente al cerchio a $E$. La linea attraverso $C$ perpendicolare a $AB$ incontra la linea $DE$ estesa al punto $F$. La linea $AF$ incontra $DE$ al punto $G$. La linea attraverso $A$ parallela a $BG$ incontra $DE$ (estesa) a $H$. Provare che < MSK19/>.
+> Come mostrato nella figura. 6.1, $\triangle ABC$ è un triangolo rettangolare, $\angle C = 90^\circ$. Disegnare un cerchio centrato a $B$ con raggio $BC$. Il $D$ deve essere un punto sul lato $AC$ e $DE$ deve essere tangente al cerchio a $E$. La linea attraverso $C$ perpendicolare a $AB$ incontra la linea $DE$ estesa al punto $F$. La linea $AF$ incontra $DE$ al punto $G$. La linea attraverso $A$ parallela a $BG$ incontra $DE$ (estesa) a $H$. Provare che $GE = GH$.
 
 ![[src_cn_cwmo_b11_w236__Q06.png]]
 

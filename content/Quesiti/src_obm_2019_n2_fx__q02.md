@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prove la disuguaglianza che coinvolge min e massimo di due integri positivi< MSK1/>
+*Prove la disuguaglianza che coinvolge min e massimo di due integri positivi*
 
 > Che $a$, $b$ e $k$ siano integri positivi con $k > 1$ in modo tale che $$\min(a, b) + \text{mdc}(a, b) = k(a + b),$$ dove $\text{mdc}(a,b)$ denota il più grande divisore comune di $a$ e $b$.
 > 

@@ -52,6 +52,6 @@ tags:
 
 *Triangolo acuto con piede di altitudine; circoncenti conciclici con piedi se P è ortocentro*
 
-> Come mostrato nella figura, $\triangle ABC$ è un triangolo acuto con $AB < AC$. $AD$ è l'altezza perpendicolare su $BC$ con punto $P$ lungo $AD$. Attraverso $P$ disegnare $PE \perp AC$ con $E$ come caduta del piede, disegnare $PF \perp AB$ con $F$ come caduta del piede. < MSK11/> e < MSK12/> sono i circoncenti di < MSK13/> e < MSK14/> rispettivamente. Prova che $O_1$, $O_2$, $E$, $F$ sono conciclici se e solo se $P$ è l'ortocentro di $\triangle ABC$.
+> Come mostrato nella figura, $\triangle ABC$ è un triangolo acuto con $AB < AC$. $AD$ è l'altezza perpendicolare su $BC$ con punto $P$ lungo $AD$. Attraverso $P$ disegnare $PE \perp AC$ con $E$ come caduta del piede, disegnare $PF \perp AB$ con $F$ come caduta del piede. $O_1$ e $O_2$ sono i circoncenti di $\triangle BDF$ e $\triangle CDE$ rispettivamente. Prova che $O_1$, $O_2$, $E$, $F$ sono conciclici se e solo se $P$ è l'ortocentro di $\triangle ABC$.
 
 [[src_cn_cmc-complementary-test_2007__Q04]]

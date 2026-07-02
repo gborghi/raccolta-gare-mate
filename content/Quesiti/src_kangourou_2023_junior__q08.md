@@ -79,7 +79,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>measurement of the CAD angle < MSK1/>
+*measurement of the CAD angle *
 
 ![[src_kangourou_2023_junior__prob8.png]]
 

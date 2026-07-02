@@ -55,7 +55,7 @@ tags:
 
 *Volume of rolling solid around one side*
 
-> The perimeter of a rim is 32 cm and each of the two sharp angles measures < MSK0/>. How much is the volume of the solid obtained by rotating the shaft around its side?
+> The perimeter of a rim is 32 cm and each of the two sharp angles measures 30°. How much is the volume of the solid obtained by rotating the shaft around its side?
 >
 > - **(A)** 128 √ 3π
 > - **(B)** 128π

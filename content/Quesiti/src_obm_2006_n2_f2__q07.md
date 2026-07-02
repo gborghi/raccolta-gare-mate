@@ -57,7 +57,7 @@ tags:
 
 *Trova l'angolo alfa nel triangolo di paricele dove i bisettori si incontrano a I e H*
 
-> Nel triangolo con uguali dimensioni $ABC$, $I$ è l'intersezione dei bisettori angolari e $H$ è l'intersezione delle altitudini. È noto che < MSK3/>. Determinare l'angolo $\alpha$.
+> Nel triangolo di pari dimensioni $ABC$, $I$ è l'intersezione dei bisettori angolari e $H$ è l'intersezione delle altitudini. È noto che $\angle IAH = \angle IHC = \alpha$. Determinare l'angolo $\alpha$.
 
 ![[src_obm_2006_n2_f2__Q07.png]]
 

@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>who solved or girls< MSK1/>
+*who solved or girls*
 
 > A class was facing one of Kangourou's problems. The number of boys who solved the problem matches the number of girls who didn't. Is the number of those (boys and girls) who solved the problem higher or the overall number of girls? A) The situation cannot occur. B) The data are insufficient to answer. (c) The number of girls. D) The number of people who have solved the problem E) The two numbers are equal. A B C D Texts_07.qxp 16-04-2007 12:06 Page 24
 > 

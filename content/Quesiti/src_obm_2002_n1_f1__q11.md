@@ -77,7 +77,7 @@ tags:
 > - **(B)** Nel mese di luglio, la differenza di entrate è stata maggiore rispetto a tutti gli altri mesi.
 > - **(C)** La società B ha registrato un calo maggiore di quello della società A tra due mesi consecutivi.
 > - **(D)** In nessun semestre il fatturato totale di A è stato superiore a quello di B.
-> - **(E)** In un solo semestre i ricavi totali del semestre hanno superato < MSK0/> milioni di reais.
+> - **(E)** In un solo semestre i ricavi totali del semestre hanno superato $20$ milioni di reais.
 
 ![[src_obm_2002_n1_f1__Q11.png]]
 

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bound n(P) -deg(P) <=2 for P(k) ^2=1 integer roots< MSK1/>
+*Bound n(P) -deg(P) <=2 for P(k) ^2=1 integer roots*
 
 > Whether $P$ is a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such as $(P(k))^2 = 1$, prove that $$n(P) - \deg(P) \leq 2,$$ where $\deg(P)$ denotes the degree of the $P$ polynomial.
 

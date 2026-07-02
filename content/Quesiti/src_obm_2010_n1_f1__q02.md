@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca il real di Lucia dato in coppie < MSK1/>
+*Ricerca il real di Lucia dato in coppie *
 
 > Ana, Esmeralda e L'Ucia insieme hanno REAL. Ana e Esmeralda insieme hanno $19$ reais, e Esmeralda e L\'{u}cia insieme hanno $21$ reais. Quanti reais ha l'U.C.?
 > 

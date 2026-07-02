@@ -50,6 +50,6 @@ tags:
 
 *Due accordi tangenti dal punto sul cerchio esterno: rapporto angolare*
 
-> Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (diverso da $A$) su $T$, vengono disegnati gli accordi $PQ$ e $PR$ di $T$ che toccano rispettivamente $S$ a $X$ e $Y$. Mostra che < MSK12/>.
+> Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (diverso da $A$) su $T$, vengono disegnati gli accordi $PQ$ e $PR$ di $T$ che toccano rispettivamente $S$ a $X$ e $Y$. Mostra che $\angle QAR = 2\angle XAY$.
 
 [[src_bmo_2000-01_round1__Q02]]

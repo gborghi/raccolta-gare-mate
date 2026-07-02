@@ -50,6 +50,6 @@ tags:
 
 *Convex pentagon ABCDE with BC=DE, show P,S,Q,R concyclic*
 
-> Let $ABCDE$ be a convex pentagon such that $BC = DE$. Assume that there is a point $T$ inside $ABCDE$ with $TB = TD$, $TC = TE$ and $\angle ABT = \angle TEA$. Let line $AB$ intersect lines $CD$ and $CT$ at points $P$ and $Q$, respectively. Let line $AE$ intersect lines $CD$ and $DT$ at points $R$ and $S$, respectively. Assumes that the points $P$, $Q$, $A$, $S$ occur on their line in that order. Prove that the points MSK21/>, MSK22/>, MSK23/>, MSK24/> lie on a circle.
+> Let $ABCDE$ be a convex pentagon such that $BC = DE$. Assume that there is a point $T$ inside $ABCDE$ with $TB = TD$, $TC = TE$ and $\angle ABT = \angle TEA$. Let line $AB$ intersect lines $CD$ and $CT$ at points $P$ and $Q$, respectively. Let line $AE$ intersect lines $CD$ and $DT$ at points $R$ and $S$, respectively. Assumes that the points $P$, $Q$, $A$, $S$ occur on their line in that order. Prove that the points$P$,$S$,$Q$,$R$ lie on a circle.
 
 [[src_imho_2022__Q04]]

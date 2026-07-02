@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Classe di 9 studenti, >=1 brasiliano; ogni 4 condividono una nazionalità, ogni 5 hanno <=3 di uno; quanti brasiliani< MSK1/>
+*Classe di 9 studenti, >=1 brasiliano; ogni 4 condividono una nazionalità, ogni 5 hanno <=3 di uno; quanti brasiliani*
 
 > Un insegnante di inglese dà lezioni private a una classe di studenti $9$, almeno uno dei quali è brasiliano. Se l'insegnante sceglie gli studenti $4$ per fare una presentazione, il gruppo avrà almeno due studenti della stessa nazionalità; se sceglie gli studenti $5$, avrà al massimo tre studenti della stessa nazionalità. Quanti brasiliani ci sono in classe? A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 

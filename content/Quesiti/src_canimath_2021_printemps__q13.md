@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>6000 voti di studenti; dopo una sostituzione la media aumenta di 1/10; limita una differenza di conteggio < MSK1/>
+*6000 voti di studenti; dopo una sostituzione la media aumenta di 1/10; limita una differenza di conteggio *
 
-> Sei mila studenti hanno fatto un esame e tutti hanno ottenuto un punteggio compreso tra $0$ e $8$ ($0$ e $8$). Vincent decide di sostituire tutti i gradi uguali a $1$, $2$ e $3$ con $0$ e tutti i gradi uguali a $5$, $6$ o $7$ con $8$. Gli altri voti sono invariati. Dopo questa modifica, la media dei punteggi è aumentata di < MSK12/>.
+> Sei mila studenti hanno fatto un esame e tutti hanno ottenuto un punteggio compreso tra $0$ e $8$ ($0$ e $8$). Vincent decide di sostituire tutti i gradi uguali a $1$, $2$ e $3$ con $0$ e tutti i gradi uguali a $5$, $6$ o $7$ con $8$. Gli altri voti sono invariati. Dopo questa modifica, la media dei punteggi è aumentata di $\frac{1}{10}$.
 > 
 > Dimostrare che esistono due integri $a$ e $b$ in modo tale che la differenza tra il numero di studenti che hanno ottenuto il grado $a$ e il numero di studenti che hanno ottenuto il grado $b$, prima delle modifiche effettuate da Vincent, sia almeno $100$.
 

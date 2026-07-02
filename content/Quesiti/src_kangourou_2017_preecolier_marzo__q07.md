@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What collagen did Lydia make< MSK1/>
+*What collagen did Lydia make*
 
 > With a string and four beads Lydia made this collar: two large (dark) beads and two small (clear) alternating beads. Of the necklaces pictured below, which is the one made by Lydia?
 > 

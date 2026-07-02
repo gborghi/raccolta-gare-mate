@@ -59,7 +59,7 @@ tags:
 
 *Remaining pirates on land by succession c(n+1)=2c(n)+1*
 
-> 80 years from now [60] Businesses with π-rates in the Caribbean are very popular, and enrollment is increasing. Last year, which was 1725, the only new π-rate had been Will Turing, but since then every year the number of new π-rates increases according to the formula cn+1 = 2cn +1, where cn represents the number of new π-rates in year n. In 1806 all the new π-rates of that year will sail to celebrate at sea, dividing in 1806 by ship, possibly leaving the remaining π-rates ashore. How many MSK6/-rates will remain on the ground?
+> 80 years from now [60] Businesses with π-rates in the Caribbean are very popular, and enrollment is increasing. Last year, which was 1725, the only new π-rate had been Will Turing, but since then every year the number of new π-rates increases according to the formula cn+1 = 2cn +1, where cn represents the number of new π-rates in year n. In 1806 all the new π-rates of that year will sail to celebrate at sea, dividing in 1806 by ship, possibly leaving the remaining π-rates ashore. How manyπ-rates will remain on the ground?
 > 
 > Team competition 2010  Public competition  Problem texts 3/3
 

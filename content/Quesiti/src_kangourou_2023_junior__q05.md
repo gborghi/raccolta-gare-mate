@@ -78,7 +78,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>shaded percentage< MSK1/>
+*shaded percentage*
 
 ![[src_kangourou_2023_junior__prob5.png]]
 

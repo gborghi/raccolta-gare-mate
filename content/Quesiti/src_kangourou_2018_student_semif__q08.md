@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability that the figure 1 is between 1 and 10^7< MSK1/>
+*Probability that the figure 1 is between 1 and 10^7*
 
-> (Points 5) Imagine that in a bag there are all the integers between 1 and 107 (extremes included) and to extract one of these numbers at random. This p the probability that in its representation (decimal) the figure 1 will be A) p < 35% B) 35% < MSK0/> p < 40% C) 40% < MSK1/> p < 45% D) 45% < MSK2/> p < 50% E) p < MSK3/> 50%
+> (Points 5) Imagine that in a bag there are all the integers between 1 and 107 (extremes included) and to extract one of these numbers at random. This p the probability that in its representation (decimal) the figure 1 will be A) p < 35% B) 35% ≤ p < 40% C) 40% ≤ p < 45% D) 45% ≤ p < 50% E) p ≥ 50%
 
 **Answer:** E
 [[src_kangourou_2018_student_semif__Q08]]

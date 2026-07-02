@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Fraczione di vetro di vino conico occupato dall'acqua quando inclinato< MSK1/>
+*Fraczione di vetro di vino conico occupato dall'acqua quando inclinato*
 
 > L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
 

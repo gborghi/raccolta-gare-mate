@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pairs m,n with 1/m+1/n=1/3< MSK1/>
+*How many pairs m,n with 1/m+1/n=1/3*
 
 > (7 points) How many pairs of integers m, n with m  n satisfy the equality 1 m + 1 n = 13?
 

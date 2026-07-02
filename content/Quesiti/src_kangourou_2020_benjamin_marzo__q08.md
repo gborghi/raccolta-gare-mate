@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many blue regions in the colour of the circle< MSK1/>
+*How many blue regions in the colour of the circle*
 
 ![[src_kangourou_2020_benjamin_marzo__prob8.png]]
 

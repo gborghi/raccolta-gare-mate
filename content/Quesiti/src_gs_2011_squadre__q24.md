@@ -45,7 +45,7 @@ tags:
 
 *Eighth spherical spherical triangle area*
 
-> James must enter a spherical capsule with a surface < MSK0/>. It is known that the opening consists of a spherical triangle with angles of $90^\circ$, $60^\circ$, $45^\circ$. A spherical triangle is the part of a spherical surface enclosed by three arcs of maximum circumference. James's trying to figure out if the opening's gonna be wide enough to go in with Honey. What is the area of the spherical triangle measured in $\text{dm}^2$?
+> James must enter a spherical capsule with a surface $60\,\text{m}^2$. It is known that the opening consists of a spherical triangle with angles of $90^\circ$, $60^\circ$, $45^\circ$. A spherical triangle is the part of a spherical surface enclosed by three arcs of maximum circumference. James's trying to figure out if the opening's gonna be wide enough to go in with Honey. What is the area of the spherical triangle measured in $\text{dm}^2$?
 
 **Answer:** 0125
 [[src_gs_2011_squadre__Q24]]

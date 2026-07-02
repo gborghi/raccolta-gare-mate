@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many fish has Andrea caught (reduction of 38%) < MSK1/>
+*How many fish has Andrea caught (reduction of 38%) *
 
 > This is the first time I've seen this.
 > 

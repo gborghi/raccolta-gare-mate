@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of requests for the product of tern out of 98 numbers< MSK1/>
+*Minimum number of requests for the product of tern out of 98 numbers*
 
 > (8 points) 98 numbers are arranged on a circumference, each equal to 1 or  1 (without excluding that they are all equal to each other). You want to know their product without being able to see them: for the purpose you can ask, for how many dice you want, the product of the numbers that form a dice of consecutive numbers (regardless of how they appear on the circumference). What's the smallest number of questions you can ask?
 >  

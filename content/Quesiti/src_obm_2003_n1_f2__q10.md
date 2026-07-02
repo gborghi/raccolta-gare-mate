@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale < MSK1/>
+*Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale *
 
 > Sono posti su un tavolo nove pezzi diversi di domino, parzialmente coperti da un pezzo di carta. I dominosi si toccano in modo che il punto $1$ sia adiacente al punto $1$, i punti $2$ siano adiacenti ai punti $2$, ecc. Qual è il numero totale di punti nascosti dalla carta?
 

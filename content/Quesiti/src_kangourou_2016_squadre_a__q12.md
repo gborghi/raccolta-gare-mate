@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining of N^2 divided by 23 given N=16 mod 23 < MSK1/>
+*Remaining of N^2 divided by 23 given N=16 mod 23 *
 
 > Divide a positive integer N divided by 23 gives 16. What's the rest of N2 divided by 23?
 

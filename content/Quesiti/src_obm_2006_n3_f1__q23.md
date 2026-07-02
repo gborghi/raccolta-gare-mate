@@ -61,7 +61,7 @@ tags:
 
 Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multipli di 2160.
 
-> Considerate i prodotti 2161 < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/>, < MSK4/>. Quanti di loro sono moltiplicati di 2160?
+> Considerate i prodotti 2161 $0 \cdot 2160$, $1 \cdot 2159$, $2 \cdot 2158$, $\ldots$, $2160 \cdot 0$. Quanti di loro sono moltiplicati di 2160?
 > 
 > (A) 2 \quad (B) 3 \quad (C) 12 \quad (D) 13 \quad (E) 2161
 

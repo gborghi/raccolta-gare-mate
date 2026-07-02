@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Diagonal length AB of the parallel piped < MSK1/>
+*Diagonal length AB of the parallel piped *
 
 ![[src_kangourou_2008_student_marzo__prob12.png]]
 

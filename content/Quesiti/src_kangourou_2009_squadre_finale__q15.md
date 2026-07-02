@@ -40,17 +40,6 @@ tags:
 > Qual è il valore della frazione   1001+1003+1005+...+1997 +1999
 > 1+ 3+ 5+...+ 997 + 999
 >  ? 
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
 > A 
 > 
 >  
@@ -69,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fractional value of odd sums shifted by 1000< MSK1/>
+*Fractional value of odd sums shifted by 1000*
 
 > A fraction to be simplified
 >  

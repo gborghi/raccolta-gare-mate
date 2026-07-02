@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Major between A..E with equal displacement< MSK1/>
+*Major between A..E with equal displacement*
 
 > If A + 1 = B + 2 = C  3 = D + 4 = E  5 what is the greatest? A) A B) B C) C D) D E) E
 

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>grey area report < MSK1/>
+*grey area report *
 
 ![[src_archimede_2002_2livello__prob5.png]]
 

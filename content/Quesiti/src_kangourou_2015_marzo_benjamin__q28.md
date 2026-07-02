@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to place 3 kangaroos in 7 boxes not adjacent< MSK1/>
+*How to place 3 kangaroos in 7 boxes not adjacent*
 
 ![[src_kangourou_2015_marzo_benjamin__prob28.png]]
 

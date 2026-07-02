@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>First year with total children > parent < MSK1/>
+*First year with total children > parent *
 
 > The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded because of a defect to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
 

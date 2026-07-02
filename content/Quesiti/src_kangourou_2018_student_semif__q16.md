@@ -52,7 +52,7 @@ tags:
 
 *How many whole ternes (a,b,c) are ordered with a*b*c=45000*
 
-> (Points 7) For how many ordered ternes (a, b, c) of relative integers does a < MSK0/> b < MSK1/> c = 45,000 occur?
+> (Points 7) For how many ordered ternes (a, b, c) of relative integers does a × b × c = 45,000?
 
 **Answer:** 3600
 [[src_kangourou_2018_student_semif__Q16]]

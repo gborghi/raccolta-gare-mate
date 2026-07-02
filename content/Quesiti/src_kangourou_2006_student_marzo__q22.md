@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>For quantities n the power n^300 has <=100 digits< MSK1/>
+*For quantities n the power n^300 has <=100 digits*
 
 > For how many positive integers n is the power n 300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
 

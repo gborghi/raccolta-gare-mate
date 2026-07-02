@@ -57,7 +57,7 @@ tags:
 
 ![[src_archimede_2010_2livello__prob14.png]]
 
-> The monument at Mathenkamen is in the shape of a pyramid which rests on its 18 m square side base. Its height is 15 m, and the foot of height falls in the center of the square. The pyramid is oriented so that, when the sun's rays reach from the south inclined by < MSK0/> towards the ground, the area of the ground on which it spreads its shadow is as small as possible. What is the value of this area in m2? (Note: the ground covered by the base of the pyramid is not to be counted as shady ground.)
+> The monument at Mathenkamen is in the shape of a pyramid which rests on its 18 m square side base. Its height is 15 m, and the foot of height falls in the center of the square. The pyramid is oriented so that, when the sun's rays come from the south inclined by 45° towards the ground, the area of the ground on which it spreads its shadow is as small as possible. What is the value of this area in m2? (Note: the ground covered by the base of the pyramid is not to be counted as shady ground.)
 
 **Answer:** 27
 [[src_archimede_2010_2livello__Q14]]

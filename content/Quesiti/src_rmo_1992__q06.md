@@ -52,6 +52,6 @@ tags:
 
 *ABCD quadrilaterale con punti di mezzo P,Q di CD,AB; linee che si incontrano; prove area ADX+area BCY=area PXQY.*
 
-> $ABCD$ è un quadrilaterale e $P$, $Q$ sono i punti medi rispettivamente di $CD$ e $AB$. Lasciate che $AP$, $DQ$ si incontrino a $X$, e $BP$, $CQ$ si incontrino a $Y$. Provare che < MSK0/>
+> $ABCD$ è un quadrilaterale e $P$, $Q$ sono i punti medi rispettivamente di $CD$ e $AB$. Lasciate che $AP$, $DQ$ si incontrino a $X$, e $BP$, $CQ$ si incontrino a $Y$. Provare che $$\text{area of } ADX + \text{area of } BCY = \text{area of quadrilateral } PXQY.$$
 
 [[src_rmo_1992__Q06]]

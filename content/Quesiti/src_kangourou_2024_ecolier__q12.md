@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fish eaten by the other chicken (26 to one) < MSK1/>
+*Fish eaten by the other chicken (26 to one) *
 
 > The penguin goes fishing every day and every day brings home 9 fish for his two chicks: 5 fish for the first chicken he sees, 4 fish per second; they eat all the fish. In the last few days, a chicken has eaten 26 fish. How many fish did the other chicken eat in the same days? A) 19
 > 	

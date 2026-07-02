@@ -54,6 +54,6 @@ tags:
 
 > Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. La linea parallela a $(BI)$ che passa attraverso $C$ incontra la linea $(CI)$ a $Q$. La linea parallela a $(CI)$ che passa attraverso $B$ incontra la linea $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
 > 
-> Mostra che < MSK0/>.
+> Mostra che $PY = QX$.
 
 [[src_canimath_2025_printemps__Q05]]

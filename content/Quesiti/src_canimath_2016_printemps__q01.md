@@ -53,6 +53,6 @@ tags:
 
 *ABCD quadrato di lato 10 cm, X punto medio di AB, triangolo isosceles ABY; area di sovrapposizione con quadrato è di 99 cm2, trovare XY.*
 
-> N.B. In questo esercizio, e solo in questo, è richiesta una risposta senza giustificazione. $ABCD$ sia un quadrato di lato $10\,\mathrm{cm}$. $X$ sia il punto medio di $[AB]$. Mettiamo un punto $Y$ in modo che il triangolo $ABY$ sia uguale a $Y$, e la regione che è allo stesso tempo all'interno di $ABY$ e all'interno di $ABCD$ ha un'area di $99\,\mathrm{cm}^2$. Quanto è < MSK10/>?
+> N.B. In questo esercizio, e solo in questo, è richiesta una risposta senza giustificazione. $ABCD$ sia un quadrato di lato $10\,\mathrm{cm}$. $X$ sia il punto medio di $[AB]$. Mettiamo un punto $Y$ in modo che il triangolo $ABY$ sia uguale a $Y$, e la regione che è allo stesso tempo all'interno di $ABY$ e all'interno di $ABCD$ ha un'area di $99\,\mathrm{cm}^2$. Quanto è $XY$?
 
 [[src_canimath_2016_printemps__Q01]]

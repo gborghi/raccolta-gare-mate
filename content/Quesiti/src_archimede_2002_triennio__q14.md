@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of two females giving birth to twins< MSK1/>
+*Probability of two females giving birth to twins*
 
 > The percentage of females born in the twin parts is 48.5%. Assuming that in twin parts the probability of two births being of different sex is 33 percent, what is the probability of two females being born in a twin birth?
 >

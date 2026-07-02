@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare le coppie di cattive relazioni tra 8 persone con vincoli di amicizia/inimicizia< MSK1/>
+*Contare le coppie di cattive relazioni tra 8 persone con vincoli di amicizia/inimicizia*
 
 > Ci sono persone $8$. Tra le $3$, almeno $2$ hanno una buona relazione tra loro. Tra i $4$ di essi, almeno $2$ hanno una cattiva relazione tra loro. Trova tutti i valori possibili per il numero di coppie di persone che hanno una cattiva relazione.
 

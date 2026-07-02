@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total number of knuckles among five sparrows< MSK1/>
+*Total number of knuckles among five sparrows*
 
 > In the figure, you can see five sparrows on a string: some looking to the right, others to the left. Each eyelid passes once towards each other eyelid that is on the side where it looks: for example, the second eyelid passes only once. How many whistles can be heard in total? (see figure)
 >

@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max population of the city (number of hairs) < MSK1/>
+*Max population of the city (number of hairs) *
 
 > In a city, there are no two people with the same number of hairs, and no one has exactly 9999 hairs. The number of inhabitants of the city is greater than the number of hairs of the person who has more. How many people can that town be? A) 1 B) 9997 C) 9998 D) 9999 E) 10000 1 2
 >  

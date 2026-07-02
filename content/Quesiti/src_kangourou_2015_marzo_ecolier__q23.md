@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of figures < MSK1/>
+*sum of figures *
 
 > The product of the digits of an integer is 15. What's their sum? A) 2
 > 	

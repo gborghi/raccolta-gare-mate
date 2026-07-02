@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cover an 8x8 chessboard with 21 tiles 1x3< MSK1/>
+*Cover an 8x8 chessboard with 21 tiles 1x3*
 
 ![[src_kangourou_2007_cadet_maggio__probC4.png]]
 

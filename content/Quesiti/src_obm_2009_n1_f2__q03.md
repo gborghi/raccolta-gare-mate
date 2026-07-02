@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Da un tavolo di frequenza di 5 giorni in cui ogni studente ha perso esattamente 2 giorni, scopri quale percentuale delle assenze totali è diminuita il giorno di frequenza più basso< MSK1/>
+*Da un tavolo di frequenza di 5 giorni in cui ogni studente ha perso esattamente 2 giorni, scopri quale percentuale delle assenze totali è diminuita il giorno di frequenza più basso*
 
 > Nel corso di cinque giorni, la frequenza degli studenti è stata registrata nella tabella seguente:
 > 

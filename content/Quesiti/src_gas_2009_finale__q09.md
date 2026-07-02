@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tempted maximum runes on hexagonal prism without rotations< MSK1/>
+*Tempted maximum runes on hexagonal prism without rotations*
 
 > Gaussdalf's enchanted key must open a door to Toria, behind which are hidden the scrolls with the last secrets of the dwarves. The magic that locks the door is sophisticated: to enter you need a regular hexagonal prism, with a different rune engraved on each face. Gaussdalf knows the eight runes he has to use, but he doesn't know the correspondence with the faces. How many attempts will you have to make to open the door? (Note: two configurations are different only if one cannot be obtained from the other by rotating the prism relative to some axis.)
 

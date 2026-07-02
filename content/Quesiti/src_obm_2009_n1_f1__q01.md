@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di e^{x/e}-x; confronta e^pi e pi^e< MSK1/>
+*Minimum di e^{x/e}-x; confronta e^pi e pi^e*
 
 > (a) Trovare il valore minimo della funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=e^{(x/e)}-x$ (qui $e=2{,}71828\ldots$ è la base del logaritmo naturale).
 > 

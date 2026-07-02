@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Triangle shaded hexagonal area< MSK1/>
+*Triangle shaded hexagonal area*
 
 ![[src_kangourou_2022_junior_squadre_f2__prob3.png]]
 

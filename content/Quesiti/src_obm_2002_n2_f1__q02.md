@@ -63,15 +63,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK2/>Bolla da biliardo su 5 < MSK1/>7 tavola colpita a < MSK0/>; contare i colpi laterali prima della tasca angolare < MSK3/>
+*Bolla da biliardo su 5 ×7 tavola colpita a 45°; contare i colpi laterali prima della tasca angolare *
 
 > Se dovessi giocare a biliardo su un tavolo rettangolare il cui rapporto larghezza-lunghezza è $5:7$, e spari una palla da un angolo a $45^\circ$ ai lati, quante volte la palla colpisce i lati prima di cadere in una tasca in un angolo?
 >
-> - **(A)** < MSK0/> volte
-> - **(B)** < MSK0/> volte
-> - **(C)** < MSK0/> volte
-> - **(D)** < MSK0/> volte
-> - **(E)** < MSK0/> volte
+> - **(A)** $10$ volte
+> - **(B)** $12$ volte
+> - **(C)** $14$ volte
+> - **(D)** $16$ volte
+> - **(E)** $15$ volte
 
 ![[src_obm_2002_n2_f1__Q02.png]]
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Blink of the circumference of the beam and medium arc< MSK1/>
+*Blink of the circumference of the beam and medium arc*
 
 > Given an EFG triangle, both C and the circumference to it circumscribed. We indicate with X the point of intersection (other than F) of the intersection of the angle E FG with the circumference C and with Y the middle point of the arc EG containing F. Knowing that FX is 12 and FY is 5, how much does the radius of the circumference C measure?
 >

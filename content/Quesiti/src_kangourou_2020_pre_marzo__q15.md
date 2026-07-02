@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The appearance of the paper after two turns< MSK1/>
+*The appearance of the paper after two turns*
 
 ![[src_kangourou_2020_pre_marzo__prob15.png]]
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Multipleths of 3 between 2000 and 4000< MSK1/>
+*Multipleths of 3 between 2000 and 4000*
 
 > How many times 3 is greater than or equal to 2000 and less than or equal to 4000?
 >

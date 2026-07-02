@@ -48,6 +48,6 @@ tags:
 
 *Prove CF = FG in triangolo con configurazione incircolare*
 
-> Nel triangolo $ABC$, abbiamo $AB > AC$. L'incircolo $\omega$ tocca $BC$ a $E$ e $AE$ si interseca con $\omega$ a $D$. Selezionare un punto $F$ su $AE$ ($F$ è diverso da $E$), in modo tale che $CE = CF$. Il punto di intersezione di $CF$ e $BD$ è $G$. Prova che < MSK16/>.
+> Nel triangolo $ABC$, abbiamo $AB > AC$. L'incircolo $\omega$ tocca $BC$ a $E$ e $AE$ si interseca con $\omega$ a $D$. Selezionare un punto $F$ su $AE$ ($F$ è diverso da $E$), in modo tale che $CE = CF$. Il punto di intersezione di $CF$ e $BD$ è $G$. Prova che $CF = FG$.
 
 [[src_cn_ctst_2008__Q01]]

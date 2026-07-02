@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>I coppie di diagonali paralleli in 10 goni regolari < MSK1/>
+*I coppie di diagonali paralleli in 10 goni regolari *
 
 > In quanti modi si possono selezionare una coppia di diagonali paralleli di un poligono regolare di 10 lati?
 

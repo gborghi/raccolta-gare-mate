@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>According to Desiderio< MSK1/>
+*According to Desiderio*
 
 > Desiderio's numbers. Desiderio likes to play with positive integers. In particular, he enjoys choosing a number $a$, to which he first adds his double and then his six-fold (6 times the starting number) thus obtaining a first result. At this point, always Desiderio considers the sum of the cube of the number chosen more at the beginning with the cube of its double. It thus obtains a second result which, surprisingly, is equal to 1000 times the first result. What is Desiderio's second outcome?
 

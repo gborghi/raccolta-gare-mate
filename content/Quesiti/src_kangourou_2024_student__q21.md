@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum result with operations on two-sided cards< MSK1/>
+*Minimum result with operations on two-sided cards*
 
 ![[src_kangourou_2024_student__prob21.png]]
 

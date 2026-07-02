@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of composing three teams of 6 pairs of twins< MSK1/>
+*Mode of composing three teams of 6 pairs of twins*
 
 > A strange class A strange class is made up of six pairs of twins. The 12 students will be divided into three teams of four students each, who will compete in a competition, so that no team will have either a student or a twin. How many different ways can the three teams be composed?
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum a4 with pairs MCD >1 but global MCD 1< MSK1/>
+*Minimum a4 with pairs MCD >1 but global MCD 1*
 
 > Four positive integers a1 < a2 < a3 < a4 are such that, given two of them, their maximum common divisor is greater than 1, but mcd(a1, a2, a3, a4) = 1. What is the minimum value that a4 can assume?
 >

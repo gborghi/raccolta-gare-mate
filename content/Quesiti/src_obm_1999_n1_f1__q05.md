@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Semplificare la metà di < MSK0/>.< MSK2/>
+*Semplificare la metà di $2^{10} + 4^5$.*
 
 > Il valore di $\dfrac{2^{10} + 4^5}{2}$ è uguale a:
 > 

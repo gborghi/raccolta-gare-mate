@@ -52,7 +52,7 @@ tags:
 
 *Calcola 1/x + 1/y data x+y = 2024xy*
 
-> $x$ e $y$ siano numeri reali non zero come $x + y = 2024xy$. Calcolo < MSK0/>
+> $x$ e $y$ siano numeri reali non zero come $x + y = 2024xy$. Calcolo $$\frac{1}{x} + \frac{1}{y}.$$
 > 
 > Qui si aspetta solo una risposta numerica.
 

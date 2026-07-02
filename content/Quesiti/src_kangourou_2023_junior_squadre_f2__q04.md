@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max-min difference alignments of 4 digits< MSK1/>
+*Max-min difference alignments of 4 digits*
 
 > By adding up the figures, the alignment 222222222211111111 is composed of ten digits 2 followed by as many digits 1. We pick a pair of adjacent numbers and we replace their sum with it. We get a 19-digit alignment, like 222222231111111 or 24222222211111111. We perform this operation from time to time on every alignment we get, with the restriction that the pair of digits we operate on provides a single digit sum, thus reducing the number of digits of the alignment by 1 at a time. What's the difference between the largest and the smallest of the numbers represented by the four-digit alignments that we can get?
 

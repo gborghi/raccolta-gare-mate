@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many are < MSK1/>
+*how many are *
 
 > In the textbooks of the confederation, those polynomials whose coefficients are such integers that the sum of their squares is less than or equal to the degree of the polynomial are called "honest". How many honest polynomials (of a variable) of degree less than or equal to four?
 > 

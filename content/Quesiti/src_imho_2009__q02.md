@@ -50,6 +50,6 @@ tags:
 
 *Circle tangent to PQ in triangle with circumcircle*
 
-> Let $ABC$ be a triangle with circumcenter $O$. The points $P$ and $Q$ are interior points of the sides $CA$ and $AB$, respectively. Let $K$, $L$, and $M$ be the midpoints of the segments $BP$, $CQ$, and $PQ$, respectively, and let $\Gamma$ be the circle passing through $K$, $L$, and $M$. Suppose that the line $PQ$ is tangent to the circle $\Gamma$. Prove that MSK18/.
+> Let $ABC$ be a triangle with circumcenter $O$. The points $P$ and $Q$ are interior points of the sides $CA$ and $AB$, respectively. Let $K$, $L$, and $M$ be the midpoints of the segments $BP$, $CQ$, and $PQ$, respectively, and let $\Gamma$ be the circle passing through $K$, $L$, and $M$. Suppose that the line $PQ$ is tangent to the circle $\Gamma$. Prove that$OP = OQ$.
 
 [[src_imho_2009__Q02]]

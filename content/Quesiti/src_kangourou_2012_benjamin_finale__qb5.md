@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>You can get sum 2012 on the exposed faces of the dice< MSK1/>
+*You can get sum 2012 on the exposed faces of the dice*
 
 ![[src_kangourou_2012_benjamin_finale__probB5.png]]
 

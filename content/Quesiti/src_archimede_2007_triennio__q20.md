@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of setting up a round table with white and black plates< MSK1/>
+*Mode of setting up a round table with white and black plates*
 
 > Alberto has to set up a round table for six people and has six white plates and six black plates available. Each person must put in one and only one plate and can choose, arbitrarily, white or black. How many different ways does Alberto fit the table? (Two fitted boards which differ only by one rotation are not to be considered separate).
 >

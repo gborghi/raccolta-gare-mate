@@ -51,6 +51,6 @@ tags:
 
 Cyclic quadrilateral: angle bisectors meet on AC iff RP=RQ*
 
-> < MSK0/> is cyclic. The feet of the perpendicular from $D$ to the lines $AB$, $BC$, $CA$ are $P$, $Q$, $R$ respectively. Show that the angle bisectors of $\angle ABC$ and $\angle CDA$ meet on the line $AC$ iff $RP = RQ$.
+> $ABCD$ is cyclic. The feet of the perpendicular from $D$ to the lines $AB$, $BC$, $CA$ are $P$, $Q$, $R$ respectively. Show that the angle bisectors of $\angle ABC$ and $\angle CDA$ meet on the line $AC$ iff $RP = RQ$.
 
 [[src_imho_2003__Q04]]

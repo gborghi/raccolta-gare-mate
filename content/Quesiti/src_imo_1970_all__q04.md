@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Find n where six consecutive integers split into equal products< MSK1/>
+*Find n where six consecutive integers split into equal products*
 
 > Find the set of all positive integers $n$ with the property that the set $\{n, n+1, n+2, n+3, n+4, n+5\}$ can be divided into two subsets such that the product of the numbers in one subset is equal to the product of the numbers in the other subset.
 

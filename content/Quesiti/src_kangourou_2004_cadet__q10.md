@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many rings in the 1.7 m long chain< MSK1/>
+*How many rings in the 1.7 m long chain*
 
 ![[src_kangourou_2004_cadet__prob10.png]]
 

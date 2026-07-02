@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which should be deleted< MSK1/>
+*which should be deleted*
 
 ![[src_kangourou_2015_marzo_benjamin__prob23.png]]
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Star operation as the number of surreations< MSK1/>
+*Star operation as the number of surreations*
 
 > The rules of the motel, I** (points 60)
 > 

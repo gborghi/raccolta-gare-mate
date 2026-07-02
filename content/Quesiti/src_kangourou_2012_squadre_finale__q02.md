@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage increase in area of triangle with sides +20%< MSK1/>
+*Percentage increase in area of triangle with sides +20%*
 
 > Greener than that! A park occupies a triangular area. To increase its area, it is decided to increase the length of each side by 20%. What percentage of the area is increased?
 

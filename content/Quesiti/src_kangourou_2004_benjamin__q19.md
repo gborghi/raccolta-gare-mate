@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>First day for maximum sunny days< MSK1/>
+*First day for maximum sunny days*
 
 > Turtle Island has a very strange climate: every Monday and Wednesday it rains, every Saturday there is fog while the rest of the days there is sunshine. A group of tourists plan to spend 44 consecutive days on the island. What day of the week should be their first day of vacation if they want to enjoy as many sunny days as possible? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
 

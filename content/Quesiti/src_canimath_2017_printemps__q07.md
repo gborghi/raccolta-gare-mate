@@ -58,11 +58,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Allineamento di amicizia: al massimo 2 amici producono spazi ≤2017; 3 amici possono fallire*
+*allineamento di amicizia: al massimo 2 amici producono spazi ≤2017; 3 amici possono fallire*
 
 > Un campo di matematica ha esattamente un milione di studenti; alcune coppie di studenti sono amici (se $A$ è un amico di $B$, allora $B$ è un amico di $A$).
 > 
-> a) Supponiamo che ogni studente abbia al massimo due amici. Mostrare che è possibile allineare tutti gli studenti in una fila in modo che tra due amici ci siano al massimo < MSK0/> altri studenti tra di loro.
+> a) Supponiamo che ogni studente abbia al massimo due amici. Mostrare che è possibile allineare tutti gli studenti in una fila in modo che tra due amici ci siano al massimo $2017$ altri studenti tra di loro.
 > 
 > b) Supponiamo ora che ogni studente abbia al massimo tre amici. Mostrate che questo non è necessariamente possibile.
 

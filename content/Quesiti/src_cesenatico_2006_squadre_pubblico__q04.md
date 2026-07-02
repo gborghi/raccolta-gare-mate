@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum of 4a^3/b + b + 1/a with a,b>0< MSK1/>
+*Minimum of 4a^3/b + b + 1/a with a,b>0*
 
 > The first test [60] Finally came the big day of the Triangle tournament. The competitors are placed before the first test: determine the minimum value of 4a3 b + b+1 a at the variation of a > 0 and b > 0 real numbers. Team competition 2006  Public competition  Problem texts  Pag. 1 di 4
 > 

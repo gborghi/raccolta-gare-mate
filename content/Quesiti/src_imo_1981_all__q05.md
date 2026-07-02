@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>incenter, circumcenter, or hill < MSK1/>
+*incenter, circumcenter, or hill *
 
 > Three congruent circles have a common point $O$ and are contained in a given triangle. Each circle is tangent to a pair of triangle sides. Demonstrate that the center, circumcenter of the triangle and the point $O$ are collinear.
 

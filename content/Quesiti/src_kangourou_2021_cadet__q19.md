@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True claim by division of apples and pears< MSK1/>
+*True claim by division of apples and pears*
 
 > In a box there are apples and pears: the number of apples is twice the number of pears. Cristina and Liliana divide the fruits so that Cristina has twice the number of fruits as Liliana. Which of the following is true? 11 ----- 2 h 1 P Q x 45°
 > 

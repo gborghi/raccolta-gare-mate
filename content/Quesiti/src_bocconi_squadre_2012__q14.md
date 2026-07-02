@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of lighter and heavier chocolate eggs< MSK1/>
+*Weight of lighter and heavier chocolate eggs*
 
 > On the table, ready to be given, there are five chocolate eggs marked with the letters $A, B, C, D, E$. However, they are of two different types: one has heavier chocolate, the other is lighter and therefore weighs less. You know that the eggs together weigh $A$ and $E$ together weigh $252$ g; the eggs $A, B, C$ together weigh $420$ g; the eggs $B, C, D, E$ together weigh $567$ g.
 > 

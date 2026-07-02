@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies between 700 and 800 coatings with 707< MSK1/>
+*Interies between 700 and 800 coatings with 707*
 
-> How many integers n, such as 700 < MSK0/>n < MSK1/>800, do not have factors in common with 707? A 86 B 82 C 93 D 81 E 91 F 77
+> How many integers n, such as 700 ≤n ≤800, do not have factors in common with 707? A 86 B 82 C 93 D 81 E 91 F 77
 
 **Answer:** A
 [[src_archimede_2016_classiprime__Q07]]

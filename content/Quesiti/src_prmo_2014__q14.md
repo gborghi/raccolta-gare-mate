@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nombre di persone nella famiglia di Manjul che hanno avuto problemi con la miscela di caffè/ latte< MSK1/>
+*Nombre di persone nella famiglia di Manjul che hanno avuto problemi con la miscela di caffè/ latte*
 
-> Una mattina, ogni membro della famiglia di Manjul bevette un misto di circa 10 grammi di caffè e latte. Le quantità di caffè e latte variavano da tazza a tazza, ma non erano mai zero. Manjul ha bevuto < MSK0/>-th della quantità totale di latte e < MSK1/>-th della quantità totale di caffè. Quante persone ci sono nella famiglia di Manjul?
+> Una mattina, ogni membro della famiglia di Manjul bevette un misto di circa 10 grammi di caffè e latte. Le quantità di caffè e latte variavano da tazza a tazza, ma non erano mai zero. Manjul ha bevuto $1/7$-th della quantità totale di latte e $2/17$-th della quantità totale di caffè. Quante persone ci sono nella famiglia di Manjul?
 
 **Risposta:** 8
 [[src_prmo_2014__Q14]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Le minoranze (10 centesimi) a pagare 23 reais utilizzando banconote di 10 reais< MSK1/>
+*Le minoranze (10 centesimi) a pagare 23 reais utilizzando banconote di 10 reais*
 
 > Laurinha aveva nel suo portafoglio solo 10 banconote reali e 10 centoville. Ha pagato 23 reais con il minor numero possibile di monete. Quante monete ha usato?
 > 

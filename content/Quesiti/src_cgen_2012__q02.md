@@ -59,6 +59,6 @@ tags:
 
 > Problema 2: una sequenza prevalentemente in diminuzione.
 > 
-> Che $(u_n)_{n \ge 0}$ sia una sequenza di numeri reali rigorosamente positivi in modo tale che $u_0 = 1$ e, per ogni numero intero $n \ge 1$, almeno la metà dei termini $u_0, u_1, \ldots, u_{n-1}$ siano superiori o uguali a $2u_n$. Indicare che < MSK5/> tende a < MSK6/>
+> Che $(u_n)_{n \ge 0}$ sia una sequenza di numeri reali rigorosamente positivi in modo tale che $u_0 = 1$ e, per ogni numero intero $n \ge 1$, almeno la metà dei termini $u_0, u_1, \ldots, u_{n-1}$ siano superiori o uguali a $2u_n$. Indicare che $u_n$ tende a $0.$
 
 [[src_cgen_2012__Q02]]

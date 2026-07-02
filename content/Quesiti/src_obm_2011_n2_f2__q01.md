@@ -52,6 +52,6 @@ tags:
 
 *Real a,b sono radici di x2+ax+b=0; trovare a−b*
 
-> Lasciate che $a$ e $b$ siano numeri reali non zero in modo tale che l'equazione $x^2 + ax + b = 0$ abbia $a$ e $b$ come soluzioni. Determinare < MSK5/>.
+> Lasciate che $a$ e $b$ siano numeri reali non zero in modo tale che l'equazione $x^2 + ax + b = 0$ abbia $a$ e $b$ come soluzioni. Determinare $a - b$.
 
 [[src_obm_2011_n2_f2__Q01]]

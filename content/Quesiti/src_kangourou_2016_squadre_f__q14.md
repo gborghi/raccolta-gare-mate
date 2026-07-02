@@ -41,21 +41,6 @@ tags:
 > a 6. Quante sono le esacoppie tali che sia massima la somma dei due numeri che le compongono? 
 > Attenzione: le esacoppie sono coppie non ordinate;  in altre parole, l’esacoppia {123,456} coincide 
 > con l’esacoppia {456,123}. 
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> 
->  
->  
 > Kangourou della Matematica 2016 
 > Coppa a squadre Kangourou   
 > Finale - Cervia, 8 maggio 2016 

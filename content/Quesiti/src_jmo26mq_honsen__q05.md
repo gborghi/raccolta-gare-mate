@@ -62,6 +62,6 @@ tags:
 > 
 > Le città devono essere suddivise in due gruppi $\alpha$ e $\beta$ e ogni strada che collega una città del gruppo $\alpha$ a una città del gruppo $\beta$ è designata autostrada. Dimostrare l'esistenza di una tale partizione che soddisfa entrambe le seguenti condizioni:
 > 
-> - Ogni gruppo contiene almeno una città. - Per ogni città, il numero di incidenti sulle autostrade in quella città è massimo < MSK0/>.
+> - Ogni gruppo contiene almeno una città. - Per ogni città, il numero di incidenti sulle autostrade in quella città è massimo $1$.
 
 [[src_jmo26mq_honsen__Q05]]

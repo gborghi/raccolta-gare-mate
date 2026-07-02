@@ -61,7 +61,7 @@ tags:
 
 *First factor in multiplication by different symbols*
 
-> In this multiplication, each symbol always represents the same number and two different symbols are representing two different numbers. < MSK0/> What is the first factor?
+> In this multiplication, each symbol always represents the same number and two different symbols are representing two different numbers. $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$ What is the first factor?
 
 ![[src_bocconi_finalenaz_2012__Q09.png]]
 

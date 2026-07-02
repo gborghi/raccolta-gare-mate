@@ -51,6 +51,6 @@ tags:
 
 *Prove la disuguaglianza dei valori reali positivi a, b con a+b=1*
 
-> $a, b$ siano numeri reali positivi con $a + b = 1$. Provare che < MSK0/>
+> $a, b$ siano numeri reali positivi con $a + b = 1$. Provare che $$a^a b^b + a^b b^a \le 1.$$
 
 [[src_bmo_2004-05_round2__Q03]]

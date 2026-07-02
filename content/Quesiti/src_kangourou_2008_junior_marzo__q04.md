@@ -83,7 +83,7 @@ tags:
 
 *Quantities between A..E are different from 6*
 
-> The numbers A, B, C, D, E are defined as follows A = 2−(−4), B = (−2)(−3), C = 2−8, D = 0−(−6) and E = (−12):(−2) How many of them are different from 6 ? A) 0 B) 1 C) 2 D) 4 E) 5 I and I U and I O O O O O O O O O O O O O O O O O
+> The numbers A, B, C, D, E are defined as follows A = 2−(−4), B = (−2)(−3), C = 2−8, D = 0−(−6) and E = (−12):(−2) How many of them are different from 6 ? A) 0 B) 1 C) 2 D) 4 E) 5 I and I U and I
 > 
 > I'm going to pay. I'm going to pay. 23 23 Kang 2008 Kang 2008
 

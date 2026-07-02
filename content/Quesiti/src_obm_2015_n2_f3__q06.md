@@ -54,6 +54,6 @@ tags:
 
 *Triangolo di scalene con bisettori interni; angolo di calcolo BCA*
 
-> Il $ABC$ deve essere un triangolo di scalene con $AD$, $BE$ e $CF$ come bisettori interni, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che < MSK10/>. Calcolare la misura dell'angolo $\angle BCA$.
+> Il $ABC$ deve essere un triangolo di scalene con $AD$, $BE$ e $CF$ come bisettori interni, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che $\angle AFE = \angle ADC$. Calcolare la misura dell'angolo $\angle BCA$.
 
 [[src_obm_2015_n2_f3__Q06]]

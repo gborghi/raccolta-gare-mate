@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height in the lower cone when the two cones have equal chocolate< MSK1/>
+*Height in the lower cone when the two cones have equal chocolate*
 
 > 21. Eurochocolate Sandro Campigotto Sara and Matteo are at Eurochocolate in Perugia, the largest chocolate festival in Europe. Sara (Looking at a glass clessandra containing melted chocolate) That strange clessandra is made up of two cones of equal base and 15 cm high each. Matteo Ora is at rest: the lower cone is full up to the top. Sara: How high in centimetres will the chocolate be in the bottom cone when the two cones contain the same amount?
 

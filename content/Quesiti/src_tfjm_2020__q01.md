@@ -90,7 +90,7 @@ tags:
 > 
 > **2.** $k$ e $n$ siano due integri fissi. Qual è il numero minimo di domino che Laetitia deve mettere in modo che il giocatore non possa completare la griglia in almeno due modi diversi?
 > 
-> **3.** $k$ e $n$ siano due integri positivi. Qual è il numero massimo di posizioni che un domino può occupare? Studiare i casi in cui < MSK2/> e < MSK3/> si dividono.
+> **3.** $k$ e $n$ siano due integri positivi. Qual è il numero massimo di posizioni che un domino può occupare? Studiare i casi in cui $n$ e $k$ si dividono.
 > 
 > **4.** Da ora la griglia ha dimensioni $n \times n$, e $k \ge 2$ è un divisore di $n$. Rivisitare le domande precedenti in questo caso.
 > 

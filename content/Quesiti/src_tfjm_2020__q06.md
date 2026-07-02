@@ -92,17 +92,17 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 > 
 > Si presume che fin dall'inizio il ladro non possa rimanere più di una notte nello stesso distretto.
 > 
-> La città di Londra è composta da distretti $N$ $q_1, q_2, \ldots, q_N$ disposti in un cerchio, con strade che collegano vicini sul cerchio, come nella Figura 12. Come funzione di MSK2/, quanti poliziotti serve Winston per arrestare il ladro con certezza dopo un certo numero di giorni?
+> **1.** La città di Londra è composta da distretti $N$ $q_1, q_2, \ldots, q_N$ disposti in un cerchio, con strade che collegano vicini sul cerchio, come nella figura 12. Come funzione di$N$, quanti poliziotti serve Winston per arrestare il ladro con certezza dopo un certo numero di giorni?
 > 
-> Lasciate che MSK0 e MSK1 siano due numeri interi in modo che Winston possa garantire la cattura del ladro. Qual e' il numero minimo di giorni di cui ha bisogno per essere sicuro di catturarlo?
+> Lasciate che$n$e$N$siano due numeri interi in modo che Winston possa garantire la cattura del ladro. Qual e' il numero minimo di giorni di cui ha bisogno per essere sicuro di catturarlo?
 > 
-> **3.** Diciamo che una città non ha **loop** se non esiste un ciclo di distretti distinti $b \ge 3$. Qual è il numero minimo di agenti sufficiente per catturare il ladro in qualsiasi città senza un ciclo?
+> **3.** Diciamo che una città non ha **loop** se non esiste un ciclo di distretti $b \ge 3$ distinti. Qual è il numero minimo di agenti sufficiente per catturare il ladro in qualsiasi città senza un ciclo?
 > 
 > **4. ** La città di New York è una griglia quadrata di lato $N$. Quanti agenti serve almeno Winston per catturare il ladro?
 > 
 > **5.** Una città si dice sia **planare** se può essere disegnata in aereo senza incrocio stradale. Ad esempio, la figura 13 mostra una città piana. Per qualsiasi numero intero, c'è una città piana tale che Winston non possa catturare il ladro con gli ufficiali?
 > 
-> A seguito dei tagli di bilancio, Winston può ora inviare solo tra < MSK0/> e < MSK1/> droni al giorno, per un certo numero intero fisso < MSK2/>. Ripensate alle domande precedenti per questo caso.
+> A seguito dei tagli di bilancio, Winston può ora inviare solo tra $1$ e $d$ droni al giorno, per un certo numero intero fisso $d$. Ripensate alle domande precedenti per questo caso.
 > 
 > **7.** Proporre e studiare altre vie di ricerca.
 

@@ -181,13 +181,13 @@ tags:
 > 
 > 1. Lasciate che $x$ sia un reale arbitrario. a. Dimostra che $x - 1 < \mathrm{ent}(x) \le x$. b. Che $n$ sia un intero relativo e $y$ un reale tale che $0 \le y < 1$. Dimostra che $\mathrm{ent}(n+y) = n$. Esprimere $n$ e $y$ in funzione di $\mathrm{ent}(x)$ e $\mathrm{frac}(x)$.
 > 
-> 2. Che il $x$ sia un reale rigorosamente positivo. Calcolare $\mathcal{E}(x)$: a. quando $x = 1$; b. quando < MSK3/>.
+> 2. Che il $x$ sia un reale rigorosamente positivo. Calcolare $\mathcal{E}(x)$: a. quando $x = 1$; b. quando $x = 2$.
 > 
-> 3. Quali delle proprietà $\mathbf{P}_\cap$ e $\mathbf{P}_\cup$ sono soddisfatte: a. quando < MSK2/>? b. quando < MSK3/>?
+> 3. Quali delle proprietà $\mathbf{P}_\cap$ e $\mathbf{P}_\cup$ sono soddisfatte: a. quando $\max\{\alpha\,;\beta\} = 1$? b. quando $\max\{\alpha\,;\beta\} > 1$?
 > 
 > 4. Che $x$ sia un reale arbitrario e $n$ un intero naturale non zero. a. Dimostra, per ogni numero intero $k \ge 0$, che $\mathrm{ent}(n\,\mathrm{frac}(kx))$ appartiene al set $\{0\,;1\,;\ldots;n-1\}$. b. Dimostrare che esistono due integri $k$ e $\ell$ come $0 \le k < \ell \le n$ e $\mathrm{ent}(n\,\mathrm{frac}(kx)) = \mathrm{ent}(n\,\mathrm{frac}(\ell x))$. c. Un set $m = \ell - k$. Dimostra che il numero $\mathrm{frac}(mx)$ appartiene a uno dei due intervalli $\left[0\,;\tfrac{1}{n}\right[$ o $\left]1-\tfrac{1}{n}\,;1\right[$. d. Dimostrare che esiste un numero intero $\nu \ge 1$ per il quale $0 \le \mathrm{frac}(\nu x) < \frac{1}{n}$ o $1 - \frac{1}{n} < \mathrm{frac}(\nu x) < 1$. e. Dimostra che esiste un numero intero $\nu \ge 1$ per il quale $0 \le \mathrm{frac}(\nu x) < \frac{1}{n}$.
 > 
-> 5. Si suppone in questa domanda che $\max\{\alpha\,;\beta\} < 1$ e $\alpha$ sia uguale a un $\frac{p}{q}$ razionale dove $p$ e $q$ sono due integri naturali non zero. a. Dalla domanda 4 si deduce che, per ogni $\varepsilon > 0$ reale, esistono due integri naturali non zero $k$ e $\ell$ tali che $qk \le \frac{\ell}{\beta} < qk + \varepsilon$. b. Quali delle proprietà $\mathbf{P}_\cap$ e $\mathbf{P}_\cup$ sono soddisfatte?
+> 5. In questa domanda si suppone che $\max\{\alpha\,;\beta\} < 1$ e $\alpha$ sia uguale a un $\frac{p}{q}$ razionale dove $p$ e $q$ sono due integri naturali non zero. a. Dalla domanda 4 si deduce che, per ogni $\varepsilon > 0$ reale, esistono due integri naturali non zero $k$ e $\ell$ tali che $qk \le \frac{\ell}{\beta} < qk + \varepsilon$. b. Quali delle proprietà $\mathbf{P}_\cap$ e $\mathbf{P}_\cup$ sono soddisfatte?
 > 
 > Parte 2: Partizione.
 > 
@@ -205,9 +205,9 @@ tags:
 > 
 > 9. Dimostrare che, se $\alpha$ e $\beta$ sono irrazionali e se esistono due integri $u \ge 1$ e $v \ge 1$ in modo tale che $u\alpha + v\beta = 1$, allora la proprietà $\mathbf{P}_\cap$ è effettivamente soddisfatta.
 > 
-> Si presuppone, da ora in poi, per le domande da 10 a 18, che $\alpha$ e $\beta$ siano due reali irrazionali per i quali è soddisfatta la proprietà $\mathbf{P}_\cap$.
+> Si suppone, da ora in poi, per le domande da 10 a 18, che $\alpha$ e $\beta$ siano due realità irrazionali per le quali è soddisfatta la proprietà $\mathbf{P}_\cap$.
 > 
-> 10. Dimostra che < MSK0/>.
+> 10. Dimostra che $\max\{\alpha\,;\beta\} < 1$.
 > 
 > Si adopta ora un punto di vista geometrico sul problema. Si identifica ogni punto del piano con le sue coordinate, e ogni rettangolo con un prodotto cartesiano di intervalli; quindi, quando $I$ e $J$ sono due intervalli, $I \times J$ è l'insieme dei punti di coordinate $(x\,;y)$ per i quali $x \in I$ e $y \in J$. Una nota $O$ l'origine del piano, e $\Omega$ l'insieme di punti del piano delle coordinate $(kp + n\,;\ldots)$ associate ad integri, come definito nella fonte (notazione $kp+n$).
 > 
@@ -221,11 +221,11 @@ tags:
 > 
 > 15. Che $x$ sia un reale strettamente positivo e $\mathcal{H}$ un insieme di reali contenenti $1$, non uguale all'intervallo $]0\,;x[$, in modo tale che per tutti i reali $y$ e $z$ in $\mathcal{H}$, $y - z \in \mathcal{H}$. Dimostrare che $\mathcal{H} = \{kx : k \in \mathbb{Z}\}$, ovvero che $\mathcal{H}$ è l'insieme dei numeri reali $kx$ in cui $k$ è un numero intero relativo.
 > 
-> 16. Si nota $\Lambda$ l'insieme di valori reali $x$ per i quali il punto di coordinate $(x\,;0)$ appartiene a una linea parallela a $(OQ)$ che passa attraverso un punto $P$ di $\Omega$. a. Dimostra che $\Lambda$ contiene un elemento dell'intervallo $]0\,;1[$. b. Riduzione di $\Lambda = \{k\delta : k \in \mathbb{Z}\}$ per alcuni $\delta > 0$ reali.
+> 16. Si nota $\Lambda$ l'insieme di valori reali $x$ per i quali il punto di coordinate $(x\,;0)$ appartiene a una linea parallela a $(OQ)$ che attraversa un punto $P$ di $\Omega$. a. Dimostra che $\Lambda$ contiene un elemento dell'intervallo $]0\,;1[$. b. Riduzione di $\Lambda = \{k\delta : k \in \mathbb{Z}\}$ per alcuni $\delta > 0$ reali.
 > 
-> 17. Una nota $\Gamma$ la serie di valori $f(P)$ ottenuta quando $P$ è un punto di $\Omega$ situato sulla linea $(OQ)$. a. Dimostrare che l'insieme $\Gamma$ contiene almeno un intero naturale non zero. b. $\gamma$ sia il numero intero naturale non zero più piccolo tale che $\gamma \in \Gamma$. Dimostra che $\Gamma = \{k\gamma : k \in \mathbb{Z}\}$. c. Deduci che la frazione $-\frac{x}{y}$ è un numero razionale.
+> 17. Una nota $\Gamma$ l'insieme dei valori $f(P)$ ottenuti quando $P$ è un punto di $\Omega$ situato sulla linea $(OQ)$. a. Dimostrare che l'insieme $\Gamma$ contiene almeno un intero naturale non zero. b. $\gamma$ sia il numero intero naturale non zero più piccolo tale che $\gamma \in \Gamma$. Dimostra che $\Gamma = \{k\gamma : k \in \mathbb{Z}\}$. c. Deduci che la frazione $-\frac{x}{y}$ è un numero razionale.
 > 
-> 18. Infine, si nota $\frac{u}{v}$ il numero $-\frac{x}{y}$ in forma di frazione irriducibile, poi si nota $W$ l'insieme dei valori $f$ reali tali da $\frac{f}{v} \in \Lambda$. a. dimostrare che $u$ e $v$ appartengono a $\Lambda$. b. Riduzione di < MSK8/>.
+> 18. Infine, si nota $\frac{u}{v}$ il numero $-\frac{x}{y}$ in forma di frazione irriducibile, poi si nota $W$ l'insieme dei valori $f$ reali tali da $\frac{f}{v} \in \Lambda$. a. dimostrare che $u$ e $v$ appartengono a $\Lambda$. b. Riduzione di $W = \Lambda$.
 > 
 > 19. Dimostra il teorema B.
 > 
@@ -233,6 +233,6 @@ tags:
 > 
 > 20. Dimostrare che la proprietà $\mathbf{P}_\cup$ è soddisfatta se e solo se $\max\{\alpha\,;\beta\} = 1$, o $\alpha$ e $\beta$ sono due numeri irrazionali strettamente inferiori a $1$ per i quali esistono due integri $u \ge 1$ e $v \ge 1$ tali da $u(1-\alpha) + v(1-\beta) = 1$.
 > 
-> 21. Esistono tre valori rigorosamente positivi $\alpha$, $\beta$ e $\gamma$ per i quali gli insiemi $\mathcal{E}(\alpha)$, $\mathcal{E}(\beta)$ e $\mathcal{E}(\gamma)$ sono disgiunti in coppia?
+> 21. Esistono tre valori rigorosamente positivi $\alpha$, $\beta$ e $\gamma$ per i quali gli insiemi $\mathcal{E}(\alpha)$, $\mathcal{E}(\beta)$ e $\mathcal{E}(\gamma)$ sono disconnessi in coppia?
 
 [[src_cgen_2024__Q03]]

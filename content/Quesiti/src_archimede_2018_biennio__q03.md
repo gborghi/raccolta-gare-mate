@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Both-faced cubes painted in a 10x10x10 cube< MSK1/>
+*Both-faced cubes painted in a 10x10x10 cube*
 
 > Carla builds a cube by gluing 1000 small cubes all equal (with 10 cubes along each beam). So he painted all the faces of the cube he built red. How many of the initial cubes will have exactly two red faces?
 >

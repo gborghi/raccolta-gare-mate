@@ -51,6 +51,6 @@ tags:
 
 *Incenter concurrence in triangle with interior point*
 
-> Let $P$ be a point inside triangle $ABC$ such that $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$ Let $D$, $E$ be the incenters of triangles $APB$, $APC$, respectively. Show that MSK7/>, MSK8/>, MSK9/> meet at a point.
+> Let $P$ be a point inside triangle $ABC$ such that $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$ Let $D$, $E$ be the incenters of triangles $APB$, $APC$, respectively. Show that$AP$,$BD$,$CE$ meet at a point.
 
 [[src_imho_1996__Q02]]

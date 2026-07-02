@@ -97,7 +97,7 @@ tags:
 \end{document}
 ```
 
-> The lattice A lattice is an assembly of bars articulated at their junction points. When its threads are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 < MSK0/> 4 square mesh mesh that contains none to make it rigid?
+> The lattice A lattice is an assembly of bars articulated at their junction points. When its threads are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 × 4 square mesh mesh that contains none to make it rigid?
 
 **Answer:** 0007
 [[src_kangourou_2019_squadre_finale__Q12]]

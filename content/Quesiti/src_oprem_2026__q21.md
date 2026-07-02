@@ -53,6 +53,6 @@ tags:
 
 *Esercizio 3, Q2: ab divisibile per 3 se possibile; trovare la possibilità di trovare una x una griglia*
 
-> Esercizio 3 - (2a) Si suppone che si possa tessere una griglia $a \times a$ (si dice quindi che la griglia di dimensione $a \times a$ è pavabile). Indicare che il numero intero $a \times a$ è divisibile da $3$. (2b) Trovare le griglie di dimensioni < MSK4/> che siano passabili.
+> Esercizio 3 - (2a) Si suppone che si possa tessere una griglia $a \times a$ (si dice quindi che la griglia di dimensioni $a \times a$ è pavabile). Indicare che il numero intero $a \times a$ è divisibile da $3$. (2b) Trovare le griglie di dimensioni $a \times a$ che siano passabili.
 
 [[src_oprem_2026__Q21]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many holes after 5 folds< MSK1/>
+*How many holes after 5 folds*
 
 ![[src_kangourou_2004_benjamin__prob12.png]]
 

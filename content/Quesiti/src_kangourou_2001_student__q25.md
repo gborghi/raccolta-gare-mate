@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Product number m< MSK1/>n logarithmic data< MSK2/>
+*Product number m*n logarithmic data*
 
 > Let m and n be two positive integers such that log 10 m = 12.3... and log 10 = 15.4... How many digits does the product m⋅n have?
 >

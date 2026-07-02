@@ -63,11 +63,11 @@ tags:
 
 *Minimum k for infinite play on 50x50 tokens *
 
-> On a certain day $40$ trains traveled between two of the cities $S$, $T$, $U$, $V$ and $Z$.
+> On a certain day $40$ trains travelled between two of the cities $S$, $T$, $U$, $V$ and $Z$.
 >
-> - Ten trains travelled either from or to MSK0/. - Ten trains travelled either to or from MSK1/. - Ten trains travelled either to or from MSK2/. - Ten trains travelled either from or to MSK3/.
+> - Ten trains travelled either from or to$S$. - Ten trains travelled either to or from$T$. - Ten trains travelled either to or from$U$. - Ten trains travelled either from or to$V$.
 >
-> How many trains have traveled either to or from < MSK0/>?
+> How many trains have traveled either to or from $Z$?
 >
 > - **(A)** $0$
 > - **(B)** $10$

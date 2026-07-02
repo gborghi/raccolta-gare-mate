@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Diametro AB del cerchio, accordi CD perpendicolari a esso incontrando AB a E; per qualsiasi P su CD, le linee AP e BP incontrano nuovamente il cerchio a F e G; O è il circumentro di EFG. L' area di mostra dell' OCD è costante.< MSK1/>
+*Diametro AB del cerchio, accordi CD perpendicolari a esso che si incontrano AB a E; per qualsiasi P su CD, le linee AP e BP incontrano il cerchio di nuovo a F e G; O è il circumentro di EFG. L' area di mostra dell' OCD è costante.*
 
-> Si deve $AB$ essere un diametro di un cerchio $\Gamma$ e si deve $CD$ essere un accordo perpendicolare a tale diametro. Il $E$ deve essere il punto di intersezione di $CD$ e $AB$, e il $P$ deve essere qualsiasi punto dell'accordo $CD$ diverso da $E$. Le linee $AP$ e $BP$ si riuniscono rispettivamente a $\Gamma$ e $G$. Se $O$ è il centro circundante del triangolo $EFG$, mostrare che l'area del triangolo $OCD$ è sempre la stessa, indipendentemente dal punto scelto $P$.
+> Si deve $AB$ essere un diametro di un cerchio $\Gamma$ e si deve $CD$ essere un accordo perpendicolare a tale diametro. Il $E$ deve essere il punto di intersezione di $CD$ e $AB$, e il $P$ deve essere qualsiasi punto dell'accordo $CD$ diverso da $E$. Le linee $AP$ e $BP$ rientrano in $\Gamma$ rispettivamente a $F$ e $G$. Se $O$ è il centro circundante del triangolo $EFG$, indicare che l'area del triangolo $OCD$ è sempre la stessa, indipendentemente dal punto scelto $P$.
 
 ![[src_obm_2014_n2_f3__Q02.png]]
 

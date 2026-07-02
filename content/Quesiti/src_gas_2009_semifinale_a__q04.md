@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Product (alpha-1) ((beta-1) roots of a square polynomial< MSK1/>
+*Product (alpha-1) ((beta-1) roots of a square polynomial*
 
 > A hidden shortcut In the mines of Toria the company of heroes led by the wizard Gaussdalf the Grey stumbles upon a secret door. By opening it they could access an important shortcut, but to do so you need to know the product (α −1)(β −1), where α and β are the roots of the polynomial 37x2 +9002x−2009. Name the product. . . and come in.
 

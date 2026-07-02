@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What score can't have the team < MSK1/>
+*What score can't have the team *
 
 > After three football championship games, one team scored three goals and suffered one. In the championship, three points are awarded for each win, one point for each draw and zero points for each defeat. What score, among those listed, can't that team have in the standings today? A) 7 B) 6 C) 5 D) 4 E) 3
 

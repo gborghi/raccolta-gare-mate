@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Maximum of the largest of four integers with mean 2026 < MSK1/>
+Maximum of the largest of four integers with mean 2026 *
 
 > If the arithmetic mean of four distinct positive integers is 2026, what is the maximum possible value of the largest of these numbers?
 >

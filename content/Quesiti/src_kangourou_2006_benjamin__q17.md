@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to colour cube 3 faces blue 3 red< MSK1/>
+*How to colour cube 3 faces blue 3 red*
 
 > You have a cube and you want to color three faces blue and three faces red. How many different ways can you do that? (Two cubes are differently coloured if, however one is turned, the other cannot be obtained.) A) 1 B) 2 C) 3 D) 4 E) 5
 

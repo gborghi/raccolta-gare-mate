@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max cross-sectional tiles on the 8x8 chessboard < MSK1/>
+*Max cross-sectional tiles on the 8x8 chessboard *
 
 ![[src_kangourou_2004_cadet_finale__probC6.png]]
 

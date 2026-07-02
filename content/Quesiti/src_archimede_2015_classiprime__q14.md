@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Foreign tourist share given total percentage growth< MSK1/>
+*Foreign tourist share given total percentage growth*
 
 > After the Great Depression, tourists have returned to the island of Kenoncè. Compared to the previous year, foreign tourists grew by 5% and domestic tourists by 1%. This led to a 2.5% increase in the total number of tourists. What was the share of foreign tourists compared to the total number of tourists in the previous year? A 3 8 B 1 3 C 1 2 D 2 5 E 3 7 F not uniquely determinable from the data provided
 

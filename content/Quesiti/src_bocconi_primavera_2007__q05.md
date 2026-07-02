@@ -50,11 +50,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Types of juices with only two of the four ingredients< MSK1/>
+*Types of juices with only two of the four ingredients*
 
 > At the park bar, Carla prepares fruit juices using pineapples, apples, kiwis and bananas.
 > 
-> < MSK0/>How many types of juices can you make using only two of the four ingredients? < MSK1/>
+> **How many types of juices can you make using only two of the four ingredients? **
 
 **Answer:** 6 tipi di succhi
 [[src_bocconi_primavera_2007__Q05]]

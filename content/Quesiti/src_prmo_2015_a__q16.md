@@ -54,7 +54,7 @@ tags:
 
 *angolo $\angle ADF$ in un triangolo acuto con punti di mezzo e condizioni di angolo uguale*
 
-> Nel triangolo acuto $ABC$, $D$ sia il punto medio di $BC$. $F$ sia il punto medio di $AC$. Supponiamo < MSK5/>. Se $\angle DAE = \angle DFE$, qual è il valore di $\angle ADF$ in gradi?
+> Nel triangolo acuto $ABC$, $D$ sia il punto medio di $BC$. $F$ sia il punto medio di $AC$. Supponiamo $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è il valore di $\angle ADF$ in gradi?
 
 **Risposta:** 40
 [[src_prmo_2015_a__Q16]]

@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>total number of cracks in one hour< MSK1/>
+*total number of cracks in one hour*
 
 > Fifty-one ravens are lined up on a branch of a large tree. Whenever one of them crawls, his right and his left, if they exist, are in flight. Every crow that takes flight flies for exactly one minute, then takes its place by immediately making a crackling sound. This morning the first to crawl was the raven at the end of the branch and then they continued, according to the described rule, for exactly one hour: at the end of the hour all the ravens in flight returned to the branch making each one one one last crawl sound. How many were there at that hour, from the first to the last moment included, the scratches made?
 

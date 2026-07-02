@@ -53,7 +53,7 @@ tags:
 
 *Ricerca set A somma data di sottoinsiemi terzi*
 
-> Let < MSK0/>. Supponiamo che l'insieme delle somme di tutti gli elementi di ogni sottoinsieme ternario di $A$ sia $B = \{-1, 3, 5, 8\}$. Poi $A =$ ________.
+> Let $A = \{a_1, a_2, a_3, a_4\}$. Supponiamo che l'insieme delle somme di tutti gli elementi di ogni sottoinsieme ternario di $A$ sia $B = \{-1, 3, 5, 8\}$. Poi $A =$ ________.
 
 **Risposta:** {-3, 0, 2, 6}
 [[src_cn_cmc_2011__Q01]]

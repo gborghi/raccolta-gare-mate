@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>A solid of four cubes requires less paint< MSK1/>
+*A solid of four cubes requires less paint*
 
 ![[src_kangourou_2019_koala_preecolier__prob14.png]]
 

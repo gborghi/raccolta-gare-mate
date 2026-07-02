@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integer numbers between 20-radq21 and 20+radq21< MSK1/>
+*Integer numbers between 20-radq21 and 20+radq21*
 
-> How many integers are between 20  < MSK0/>21 and 20 + < MSK1/>21? A) 9
+> How many integers are between 20  √21 and 20 + √21? A) 9
 > 	
 > B) 10
 > 	

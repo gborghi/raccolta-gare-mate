@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grams of white for the same colour (proportion) < MSK1/>
+*Grams of white for the same colour (proportion) *
 
 > To paint her bedroom, Maria created an ink by mixing 1896 grams of yellow paint and 120 grams of white. Her cousin Julius wants to paint it the same color. With how many grams of white will you have to mix 2,212 grams of yellow paint to get the same color?
 >

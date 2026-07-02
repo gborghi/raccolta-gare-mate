@@ -49,6 +49,6 @@ tags:
 
 *Cordo, punto medio, cerchio tangente e rapporto di distanza*
 
-> Che $AB$ sia un cordone di un cerchio $\mathscr{C}_1$ che non è diametro e $M$ sia il punto medio di $AB$. Il $T$ deve essere un punto sul cerchio $\mathscr{C}_2$ con $OM$ come diametro. La tangente di $\mathscr{C}_2$ a $T$ incontra $\mathscr{C}_1$ a $P$. Indicare che < MSK0/>
+> Che $AB$ sia un cordone di un cerchio $\mathscr{C}_1$ che non è diametro e $M$ sia il punto medio di $AB$. Il $T$ deve essere un punto sul cerchio $\mathscr{C}_2$ con $OM$ come diametro. La tangente di $\mathscr{C}_2$ a $T$ incontra $\mathscr{C}_1$ a $P$. Indicare che $$PA^2 + PB^2 = 4PT^2.$$
 
 [[src_inmo_1998__Q01]]

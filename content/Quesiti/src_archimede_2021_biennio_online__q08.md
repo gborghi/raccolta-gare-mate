@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pear juice left after mixing and extraction< MSK1/>
+*Pear juice left after mixing and extraction*
 
 > Paola prepared a drink by mixing 600 ml of pear juice with 400 ml of banana juice, drank 300 ml and left the remainder in a jar. Francesco mixed the drink in the bowl with 200 ml of strawberry juice and drank 90 ml. How much pear juice is in the jar now?
 >

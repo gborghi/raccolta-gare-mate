@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many grams weigh the nine bags (balance sheet) < MSK1/>
+*How many grams weigh the nine bags (balance sheet) *
 
 ![[src_kangourou_2019_benjamin_marzo__prob22.png]]
 

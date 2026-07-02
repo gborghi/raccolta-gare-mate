@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n is 23< MSK1/>
+*n is 23*
 
 > (Points 5) How many positive integers are n such that the rest of division 2023: n is 23?
 

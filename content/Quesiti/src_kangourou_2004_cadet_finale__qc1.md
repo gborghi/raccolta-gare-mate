@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Increased surface area of the solid excavated< MSK1/>
+*Increased surface area of the solid excavated*
 
 ![[src_kangourou_2004_cadet_finale__probC1.png]]
 

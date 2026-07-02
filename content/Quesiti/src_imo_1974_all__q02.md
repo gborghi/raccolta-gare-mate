@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Point D with CD geometric mean iff sinA sinB<=sin^2(C/2) < MSK1/>
+*Point D with CD geometric mean iff sinA sinB<=sin^2(C/2) *
 
 > In the $ABC$ triangle, prove that there is a point $D$ on the $AB$ side such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \leq \sin^2 \frac{C}{2}.$$
 

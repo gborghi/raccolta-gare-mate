@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; trovare la più grande diffusione possibile< MSK1/>
+*20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; trovare la più grande diffusione possibile*
 
 > Un gruppo di nani che uscivano dalla miniera si sedette attorno a una tavola rotonda per contare le nugget d'oro che ognuno di loro aveva estratto. Essi fanno le seguenti osservazioni:
 > 

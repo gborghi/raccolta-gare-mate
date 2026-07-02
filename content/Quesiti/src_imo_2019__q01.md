@@ -44,6 +44,6 @@ tags:
 
 *Z->Z with f(2a)+2f(b)=f(f(a+b))*
 
-> It is < MSK1/> the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
+> It is $\mathbb{Z}$ the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
 
 [[src_imo_2019__Q01]]

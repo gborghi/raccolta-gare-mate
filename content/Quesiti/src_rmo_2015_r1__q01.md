@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilaterali ciclici, diagonali incontrati, circoncircoli, angolo di incentro< MSK1/>
+*Quadrilaterali ciclici, diagonali incontrati, circoncircoli, angolo di incentro*
 
 > In un quadrilaterale ciclico $ABCD$, le diagonali $AC$ e $BD$ si intersecano a $X$. Lasciate che i circoncircoli dei triangoli $AXD$ e $BXC$ si incrociano di nuovo a $Y$. Se $X$ è il centro del triangolo $ABY$, indicare che $\angle CAD = 90^\circ$.
 

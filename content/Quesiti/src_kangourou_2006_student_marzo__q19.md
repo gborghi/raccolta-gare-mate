@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max angles less than 60 in convex polygon< MSK1/>
+*Max angles less than 60 in convex polygon*
 
 > How many angles of width less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
 

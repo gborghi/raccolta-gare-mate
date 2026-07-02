@@ -58,7 +58,7 @@ tags:
 
 *Tre rettangoli incontrano tre linee rette nei punti P, Q, R con angoli esterni p°, q°, r°. Trova p + q + r.*
 
-> Il diagramma mostra tre rettangoli e tre linee rette. Qual è il valore di < MSK0/>?
+> Il diagramma mostra tre rettangoli e tre linee rette. Qual è il valore di $p + q + r$?
 >
 > - **(A)** 135
 > - **(B)** 180

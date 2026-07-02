@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many digits minimum n for 20 with sum of digits for 1999< MSK1/>
+*How many digits minimum n for 20 with sum of digits for 1999*
 
 > It is both n the smallest positive integer divisible by 20 and such that the sum of its digits is divisible by 1999. How many digits does it have?
 >

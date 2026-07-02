@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of points of the star < MSK1/>
+*sum of points of the star *
 
 > Adam draws a five-pointed star, joining five points with five segments. Four angles at the ends are given the same width; the width of the angle at the other ends is $12^\circ$.
 > 

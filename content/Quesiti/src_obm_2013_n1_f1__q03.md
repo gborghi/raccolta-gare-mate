@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Liter di succo estrattibili da due sacchetti di arance da 5 kg< MSK1/>
+*Liter di succo estrattibili da due sacchetti di arance da 5 kg*
 
-> Un mercato vende arance solo in borse di < MSK0/> kg ciascuna. Di ogni chilogrammo di arancione, $55\%$ è succo. Inoltre, < MSK2/> kg di succo corrisponde a < MSK3/> ml di succo. Quindi, quanti litri di succo possiamo estrarre da due sacchetti di arance?
+> Un mercato vende arance solo in borse di $5$ kg ciascuna. Di ogni chilogrammo di arancione, $55\%$ è succo. Inoltre, $1$ kg di succo corrisponde a $900$ ml di succo. Quindi, quanti litri di succo possiamo estrarre da due sacchetti di arance?
 > 
 > (A) $4.5$ \quad (B) $4.8$ \quad (C) $4.95$ \quad (D) $5$ \quad (E) $5.1$
 

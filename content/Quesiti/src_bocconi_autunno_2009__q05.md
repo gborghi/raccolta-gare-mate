@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum positive integer divisible by 16 times the sum of its digits< MSK1/>
+*Minimum positive integer divisible by 16 times the sum of its digits*
 
 > Find the smallest integer (positive) equal to 16 times the sum of its digits.
 

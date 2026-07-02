@@ -58,7 +58,7 @@ tags:
 
 *Little cubes intersected by a perpendicular diagonal plane of the 2011 cube*
 
-> A large cube $2011 \times 2011 \times 2011$ is composed of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. < MSK2/>How many small cubes does it intersect? < MSK3/>
+> A large cube $2011 \times 2011 \times 2011$ is composed of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. **How many small cubes does it intersect? **
 
 **Answer:** 9 099 271
 [[src_bocconi_finaleint_2011_g1__Q17]]

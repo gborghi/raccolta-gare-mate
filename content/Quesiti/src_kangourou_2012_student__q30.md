@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>pairs of both pairs< MSK1/>
+*pairs of both pairs*
 
 > In Wonderland, every cat is either wise or crazy. If a wise cat finds himself in a room with three crazy cats, he immediately goes crazy too. On the other hand, if a mad cat comes to a room with three wise cats, the wise cats immediately declare him mad. Three cats enter an empty room one after another; after a fourth cat has entered, the first cat that had entered comes out; after a fifth cat has entered, the second cat comes out, and so on, so that there are never more than four cats in the room. When 2012 comes in, for the first time, one cat is declared insane by the other three. Which of these couples can be made up of cats who, once they enter the room, are both crazy? (a) The first and the 2011th B) The second and the 2010th C) The third and the 2009th D) The fourth and the last E) The second and the 2011th
 > 

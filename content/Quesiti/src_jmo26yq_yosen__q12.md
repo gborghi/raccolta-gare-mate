@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maxime conteggio onesto identificabile attraverso i rapporti di contato di bugiardi del villaggio< MSK1/>
+*Maxime conteggio onesto identificabile attraverso i rapporti di contato di bugiardi del villaggio*
 
 > Ci sono abitanti di villaggio numerati da $1$ a $2015$ che vivono in un villaggio; tra i abitanti di villaggio $2016$ alcuni sono onesti e altri sono bugiardi, con almeno un abitante onesto. Un cittadino onesto dice sempre la verità, mentre un bugiardo può dire la verità o la menzogna (non sai cosa fa ogni bugiardo, né chi è onesto). Sapete che il numero di abitanti onesti è esattamente $T$. Ogni cittadino sa, per ogni cittadino, se quel cittadino è onesto o un bugiardo. Ogni giorno potete dare segretamente un'istruzione a un abitante del villaggio scelto; il giorno successivo quel abitante scrive il numero di bugiardi tra un gruppo specifico di abitanti del villaggio e, la sera del $i$-th giorno, consegna la carta al abitante del villaggio $i - k_i$ (con $1 \le i \le 2016$). Un abitante onesto scrive il conto vero; un bugiardo può scrivere qualsiasi numero. Determina il valore massimo di $T$ per il quale esiste una strategia che, non importa come si comportino i bugiardi, ti permette di identificare correttamente tutti i villaggieri onesti. (Nota: alcune parti della meccanica di questo problema sono parzialmente illeggibili nella scansione; la risposta finale è $503$.)
 

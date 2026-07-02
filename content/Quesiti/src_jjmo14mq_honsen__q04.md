@@ -49,6 +49,6 @@ tags:
 
 *Circumcenter, orthocenter, parallelo a BC, angolazioni uguali*
 
-> Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Lascia che la linea che attraversa $O$ parallela a $BC$ incontra le linee $AB$ e $AC$ rispettivamente a $P$ e $Q$. Il < MSK9/> deve essere il punto medio di < MSK10/>. Prova che < MSK11/>.
+> Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Lascia che la linea che attraversa $O$ parallela a $BC$ si riunisca rispettivamente alle linee $AB$ e $AC$ a $P$ e $Q$. Il $M$ deve essere il punto medio di $AH$. Prova che $\angle BMP = \angle CMQ$.
 
 [[src_jjmo14mq_honsen__Q04]]

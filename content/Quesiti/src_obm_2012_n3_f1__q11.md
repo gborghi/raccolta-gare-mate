@@ -71,7 +71,7 @@ tags:
 > 
 > ii) $f(3n + 1) = 3f(n) + 2$;
 > 
-> iii) < MSK0/>.
+> iii) $f(3n + 2) = 3f(n)$.
 > 
 > Quindi $f(2012)$ è uguale a
 > 

@@ -59,7 +59,7 @@ tags:
 
 > Anna picked a number A and subtracted 1/10, Beatrice picked a number B and multiplied it by 1/10. Anna and Beatrice got the same result. So 9 cm2 A B C D
 > 
-> (A) certainly A < B. B) certainly A > B. (c) certainly A < MSK0/> B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
+> (A) certainly A < B. B) certainly A > B. (c) certainly A × B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
 
 **Answer:** E
 [[src_kangourou_2021_junior_marzo__Q11]]

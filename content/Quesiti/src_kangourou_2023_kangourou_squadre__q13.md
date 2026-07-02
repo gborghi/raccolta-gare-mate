@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>500-th term not square or perfect cube< MSK1/>
+*500-th term not square or perfect cube*
 
 > The 500th term Think of ordering in increasing succession all positive integers that are neither perfect squares nor perfect cubes. What's the 500th anniversary of the succession?
 

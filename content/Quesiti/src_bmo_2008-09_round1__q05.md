@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Determine le sequenze periodiche razionali che soddisfano una recidiva< MSK1/>
+*Determine le sequenze periodiche razionali che soddisfano una recidiva*
 
 > Determinare le sequenze $a_0, a_1, a_2, \ldots$ che soddisfano tutte le seguenti condizioni: a) $a_{n+1} = 2a_n^2 - 1$ per ogni numero intero $n \ge 0$, b) $a_0$ è un numero razionale e c) $a_i = a_j$ per alcuni $i, j$ con $i \neq j$.
 

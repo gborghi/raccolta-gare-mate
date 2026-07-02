@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many other differently coloured parrots< MSK1/>
+*How many other differently coloured parrots*
 
 ![[src_kangourou_2020_ecolier_marzo__prob21.png]]
 

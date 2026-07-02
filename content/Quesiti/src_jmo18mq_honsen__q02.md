@@ -54,7 +54,7 @@ tags:
 
 *Gli giocatori in un cerchio passano carte rosse/bianche; il massimo dei ruoli è di equilibrio*
 
-> Ci sono carte rosse < MSK0/> e carte bianche < MSK1/>. Ciascuno dei giocatori $2008$ viene distribuito $2$ di queste carte, e i giocatori si siedono in un cerchio rivolto verso l'interno. In un turno, tutti i giocatori fanno contemporaneamente quanto segue:
+> Ci sono carte rosse $2008$ e carte bianche $2008$. Ciascuno dei giocatori $2008$ viene distribuito $2$ di queste carte, e i giocatori si siedono in un cerchio rivolto verso l'interno. In un turno, tutti i giocatori fanno contemporaneamente quanto segue:
 > 
 > - Se un giocatore detiene almeno una carta rossa, passa una carta rossa al giocatore sulla sinistra. Se un giocatore non detiene una carta rossa, passa una carta bianca al giocatore sulla sinistra.
 > 

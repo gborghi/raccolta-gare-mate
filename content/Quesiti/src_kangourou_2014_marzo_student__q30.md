@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max final animals< MSK1/>
+*max final animals*
 
 > In the forest of an imaginary island there are three kinds of animals: lions, wolves and goats. Wolves can only eat goats, lions eat both goats and wolves while goats are vegetarians. But the island is magical, and so every wolf when it eats a goat becomes a lion, while a lion becomes a wolf when it eats a goat and becomes a goat when it eats a wolf. At this moment on the island there are 17 goats, 55 wolves and 6 lions. What is the maximum number of animals that can be on the island when there is no longer any chance of one animal eating another (of a different species)? A) 1
 > 	

@@ -53,7 +53,7 @@ tags:
 
 *Ricerca il valore di X_144 in una sequenza geometrica*
 
-> Supponiamo che $4^{x_1} = 5$, $5^{x_2} = 6$, $6^{x_3} = 7$, $\ldots$, $126^{x_{123}} = 127$, $127^{x_{124}} = 128$. Qual è il valore di < MSK6/>?
+> Supponiamo che $4^{x_1} = 5$, $5^{x_2} = 6$, $6^{x_3} = 7$, $\ldots$, $126^{x_{123}} = 127$, $127^{x_{124}} = 128$. Qual è il valore di $x_1 x_2 x_3 \cdots x_{124}$?
 
 **Risposta:** \frac{7}{2}
 [[src_prmo_2012__Q09]]

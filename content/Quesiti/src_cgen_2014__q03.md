@@ -100,17 +100,17 @@ tags:
 
 *Cifri dietro le lettere: un numero d è "buono" per una parola di lunghezza n se un'attribuzione (le lettere a cifre distinte) è un multiple di d. Determina quali d sono buoni vs cattivi (una cattiva d ha una parola "bloccante" senza più), con risultati su 10, 8, 27, 32, numeri primi attraverso Fermat, 9, 18 e relazioni divisori.*
 
-> Una \textbf{word} di lunghezza $n$ è una sequenza di lettere scelte dalle 10 lettere $A, B, C, D, E, F, G, H, I, J$. Per esempio, $BEC$, $JJCD$, $AFFICHAGE$, $ABCDEFGHIJ$ sono parole di lunghezze rispettivamente $3$, $4$, $9$ e $10$.
+> Una \textbf{word} di lunghezza $n$ è una sequenza di lettere scelte dalle 10 lettere $A, B, C, D, E, F, G, H, I, J$. Per esempio, $BEC$, $JJCD$, $AFFICHAGE$, $ABCDEFGHIJ$ sono parole di lunghezza $3$, $4$, $9$ e $10$ rispettivamente.
 > 
-> Un \textbf{attribution} di una parola è il numero ottenuto sostituendo ogni lettera con un numero, due lettere identiche sostituite dalla stessa cifra e due lettere distinte da numeri distinti (la lettera principale può essere sostituita da $0$). Ad esempio $121 = 11^2$ e $040 = 40$ sono attribuzioni di $GAG$, ma $555$ e $000$ non lo sono.
+> Una \textbf{attribution} di una parola è il numero ottenuto sostituendo ogni lettera con un numero, due lettere identiche sostituite dalla stessa cifra e due lettere distinte da numeri distinti (la lettera principale può essere sostituita da $0$). Ad esempio $121 = 11^2$ e $040 = 40$ sono attribuzioni di $GAG$, ma $555$ e $000$ non lo sono.
 > 
-> Un intero positivo $d > 0$ si dice che sia \textbf{good} per una parola se una delle sue attribuzioni è un multiple di $d$; altrimenti la parola è un \textbf{blocker} di $d$ (nessuna attribuzione è un multiple di $d$). Un numero $d > 0$ che ammette un bloccante è chiamato \textbf{bad}; un numero che ammette nessun bloccante è chiamato \textbf{good}.
+> Un intero positivo $d > 0$ è detto \textbf{good} per una parola se una delle sue attribuzioni è un multiple di $d$; altrimenti la parola è un \textbf{blocker} di $d$ (nessuna attribuzione è un multiple di $d$). Un numero $d > 0$ che ammette un bloccante è chiamato \textbf{bad}; un numero che ammette nessun bloccante è chiamato \textbf{good}.
 > 
 > \textbf{1.} \textbf{a.} Mostrare che la parola $AB$ è un blocco di $d = 100$.
 > 
 > \textbf{b.} Mostrare che la parola $AB$ non è un bloccatore di qualsiasi $d$ con al massimo due cifre (cioè $d \le 99$).
 > 
-> Mostri che MSK0/ è cattivo.
+> Mostri che$10$è cattivo.
 > 
 > \textbf{b.} Mostrare che $8$ è cattivo.
 > 
@@ -126,7 +126,7 @@ tags:
 > 
 > \textbf{b.} Mostra che $9$ ammette al massimo $27$ buone attribuzioni.
 > 
-> \textbf{4.} Che $a$ sia una parola di lunghezza $n$ e $\omega$ un'attribuzione di $a$. Denotare con $a'$ l'attribuzione ottenuta da $a$ mediante una permutazione ciclica dei numeri: i numeri $0,1,2,3,4,5,6,7,8$ sono aumentati di $1$, mentre il numero $9$ viene inviato a $0$. Le cifre $0,1,2,3,4,5,6,7,8,9$ sono quindi sostituite rispettivamente da $1,2,3,4,5,6,7,8,9,0$. Per esempio, se $n = 5$ e $a = 01789$, allora $a' = 12890$. $k$ sia il numero di occasioni della cifra $9$ nella scrittura decimale di $a$.
+> \textbf{4.} Che $a$ sia una parola di lunghezza $n$ e $\omega$ un'attribuzione di $a$. Denotare con $a'$ l'attribuzione ottenuta da $a$ mediante una permutazione ciclica dei numeri: i numeri $0,1,2,3,4,5,6,7,8$ vengono aumentati di $1$, mentre il numero $9$ viene inviato a $0$. Le cifre $0,1,2,3,4,5,6,7,8,9$ sono quindi sostituite rispettivamente da $1,2,3,4,5,6,7,8,9,0$. Per esempio, se $n = 5$ e $a = 01789$, allora $a' = 12890$. $k$ sia il numero di occasioni della cifra $9$ nella scrittura decimale di $a$.
 > 
 > Se $a$ è congruente a $r$ modulo $9$, a cosa è $a'$ modulo congruente $9$?
 > 

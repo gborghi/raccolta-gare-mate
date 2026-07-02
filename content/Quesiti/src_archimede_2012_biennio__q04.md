@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>New mean after decreasing each number by 10< MSK1/>
+*New mean after decreasing each number by 10*
 
 > The arithmetic mean of 11 numbers is 4850. If each of the 11 numbers is decreased by 10, their mean becomes:
 >

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pious large x with cbrt(x+1184)-cbrt(x-1184)=4< MSK1/>
+*Pious large x with cbrt(x+1184)-cbrt(x-1184)=4*
 
 > A number with only even digits. 2. Unveiled impostors [40] Often people wonder how it is possible to recognize a mathematician from a mateban, that is, someone fasting mathematics. It's often simpler than you think. A mattress would never find the greatest value of x so 3√ x+1184− 3√ x−1184 = 4.
 

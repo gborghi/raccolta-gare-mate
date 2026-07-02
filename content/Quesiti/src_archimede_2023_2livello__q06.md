@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Owners of 10^2024+1 of the form 10^n+1 < MSK1/>
+* Owners of 10^2024+1 of the form 10^n+1 *
 
 > Consider the number N = 1000 . . . 0001 consisting of the number one followed by 2023 zeros, which in turn are followed by the number one. How many proper divisors of N (i.e., the strictly understood divisors between 1 and N) are also written as a digit 1 followed by some positive number of zeros, followed in turn by a digit 1?
 >

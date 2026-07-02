@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Parli di parole bacana definiti ricorrentemente; prove (α,β) bacana se αβ è palindromo< MSK1/>
+*Parli di parole bacana definiti ricorrentemente; prove (α,β) bacana se αβ è palindromo*
 
 > Difiniamo ricorrentemente **bacana** coppie di parole $(\alpha, \beta)$ sull'alfabeto $\{a, b\}$ come segue: $(\alpha, \beta)$ è una coppia di bacana se e solo se esiste una coppia di bacana $(u, w)$ tale che $(\alpha, \beta) = (u, w)$ o $(\alpha, \beta) = (w, u)$; oppure esiste $c_i \in \{a, b\}$ per tutti $i$, e un intero positivo $n$, tale che $\alpha = c_1 c_2 \ldots c_n$ con $c_{n+1-j} = c_j$ per tutti $1 \le j \le n$.
 > 

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many apples in total (6 boxes vs 5 with +2) < MSK1/>
+*How many apples in total (6 boxes vs 5 with +2) *
 
 > 2. Andrea divided the apples to be sold at the market into six boxes, putting the same number of apples in each box. Bruno notes that five boxes could have been filled with the same apples, each containing two more apples. How many apples do you have to bring to the market? A) 30 B) 45 C) 60 D) 78 E) 120
 

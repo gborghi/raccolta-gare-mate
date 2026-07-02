@@ -57,7 +57,7 @@ tags:
 
 *Possibilità di ordinare p1, p2, p3 di ottenere grandi somme con 1, 2 e 3 dadi*
 
-> $p_1=\frac{2}{6}=\frac13$ sia la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Per due dadi (risultati $6^2=36$), i risultati favorevoli sono somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Per tre dadi (risultati $6^3=216$), il conteggio delle somme $15,16,17,18$ dà $20$ risultati favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Di conseguenza < MSK11/>. Ordini $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
+> $p_1=\frac{2}{6}=\frac13$ sia la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Per due dadi (risultati $6^2=36$), i risultati favorevoli sono somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Per tre dadi (risultati $6^3=216$), il conteggio delle somme $15,16,17,18$ dà $20$ risultati favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Di conseguenza $p_3<p_2<p_1$. Ordini $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
 
 **Risposta:** E
 [[src_obm_2016_n3_f1__Q15]]

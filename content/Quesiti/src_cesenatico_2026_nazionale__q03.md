@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs n>m with conditions on minimum/maximum first< MSK1/>
+*Pairs n>m with conditions on minimum/maximum first*
 
 > (a) Determine all pairs of positive integers n > m with the following property: there exists a positive integer such that the smallest prime dividing n + a coincides with the smallest prime dividing m + a. (b) Determine all pairs of positive integers n > m with the following property: there exists a positive integer such that the smallest prime dividing n + a coincides with the largest prime dividing m + a.
 

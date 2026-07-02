@@ -57,7 +57,7 @@ tags:
 
 *Distance from L with maximum PEQ angle (tangency) *
 
-> From a point L two straight roads start forming an acute angle α. Along one of the two roads there are two lamps, positioned in P and Q, such that LP = 40 m and LQ = 90 m. Eva is in E on the other road, and she sees the two lamps at an angle. How far from L is Eva, if < MSK1/> has the maximum width possible?
+> From a point L two straight roads start forming an acute angle α. Along one of the two roads there are two lamps, positioned in P and Q, such that LP = 40 m and LQ = 90 m. Eva is in E on the other road, and she sees the two lamps at an angle. How far from L is Eva, if $\widehat{PEQ}$ has the maximum width possible?
 >
 > - **(A)** 40 m
 > - **(B)** 60 m

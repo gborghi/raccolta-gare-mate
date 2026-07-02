@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many rectangles are shown in the figure? < MSK1/>
+*How many rectangles are shown in the figure? *
 
 > How many rectangles do you see charted in the figure?
 > 

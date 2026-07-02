@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>residues mod 25 and 15, divisible by 25cl< MSK1/>
+*residues mod 25 and 15, divisible by 25cl*
 
 > The British Cantorax needs a large amount of magic potion to save his village from the Romans. Parabolix has prepared some of it on its own, and it has to be bottled. She has containers of varying sizes available, but she wants to put the potion in containers all equal to each other. Initially, he tries to use 25-litre containers, but he gets one-litre. Then he tries with the 15-liter containers, but this time they're 6 liters ahead. Finally, he decides to put the potion in 25-centimeter bottles and, of course, manages not to push the potion forward. Knowing that Parabolix produced less than 500 liters of potion and used more than 1,500 bottles, what is the exact number of bottles used?
 

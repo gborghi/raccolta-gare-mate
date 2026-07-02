@@ -63,7 +63,7 @@ tags:
 
 *Codice segreto: trovare a+b+c+d dalle equazioni digitali*
 
-> In un codice segreto, le prime 10 lettere dell'alfabeto rappresentano i numeri da 0 a 9, con ogni lettera corrispondente esattamente a una cifra e viceversa. È noto che < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/> e < MSK4/>. Possiamo concludere che $a + b + c + d$ è uguale a:
+> In un codice segreto, le prime 10 lettere dell'alfabeto rappresentano i numeri da 0 a 9, con ogni lettera corrispondente esattamente a una cifra e viceversa. È noto che $d + d = f$, $d \cdot d = f$, $c + c = d$, $c + d = a$ e $a - a = b$. Possiamo concludere che $a + b + c + d$ è uguale a:
 > 
 > A) 0 B) 2 C) 4 D) 6 E) 8
 

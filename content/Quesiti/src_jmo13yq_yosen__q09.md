@@ -50,6 +50,6 @@ tags:
 
 *Lunghezza minima QR mentre P si muove su BC con angolo QPR=60°, Q su CA, R su AB*
 
-> Nel triangolo $ABC$ con $BC = 7$, $CA = 8$, $AB = 5$, $P$, $Q$, $R$ siano punti sui segmenti $BC$, $CA$ e $AB$ rispettivamente, nessuno in un vertice, con $\angle QPR = 60^\circ$. Poiché < MSK11/> e < MSK12/> variano in base a queste condizioni, trovare il valore minimo di < MSK13/>. (Per i punti $X, Y$, la notazione $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$ con $BC = 7$, $CA = 8$, $AB = 5$, $P$, $Q$, $R$ siano punti sui segmenti $BC$, $CA$ e $AB$ rispettivamente, nessuno in un vertice, con $\angle QPR = 60^\circ$. Poiché $Q$ e $R$ variano in base a queste condizioni, trovare il valore minimo di $QR$. (Per i punti $X, Y$, la notazione $XY$ indica la lunghezza del segmento $XY$.)
 
 [[src_jmo13yq_yosen__Q09]]

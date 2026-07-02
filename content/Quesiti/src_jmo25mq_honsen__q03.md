@@ -61,6 +61,6 @@ tags:
 > 
 > (1) Supponiamo che $\{a_n\}$ sia in ascesa e $p$ sia un primo maggiore di $a_1$. Indicare che un certo termine della sequenza è divisibile per $p$.
 > 
-> (2) < MSK0/> sia un primo pari. Indicare che esiste una sequenza ascendente $\{a_n\}$ che non contiene un multiple di $p$.
+> (2) $p$ sia un primo pari. Indicare che esiste una sequenza ascendente $\{a_n\}$ che non contiene un multiple di $p$.
 
 [[src_jmo25mq_honsen__Q03]]

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Primes p,q with pq=83333, calculate p+3q< MSK1/>
+*Primes p,q with pq=83333, calculate p+3q*
 
 > Access to the mathematical casino is exclusive and reserved for mathematical secret agents. At the entrance a circumference of 15 radii, its diameter BC and an outer point A to the circumference are drawn. The circumference intersects segments AB and AC in D and E respectively. BD = 1 3AB and CE = 1 4AC are known. To enter the casino, you have to say how much the ABC area is worth. What's the answer? Team competition 2025  Semifinal 1  Problem tests  1/2
 

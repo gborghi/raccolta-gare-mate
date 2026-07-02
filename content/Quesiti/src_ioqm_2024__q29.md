@@ -50,8 +50,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Ultime due cifre del conteggio dei divisori di n^2 inferiore a n non divisi n*
+*Ultime due cifre del conteggio di divisori di n^2 inferiore a n che non dividono n*
 
-> Let < MSK0/>. $M$ indichi il numero di divisori positivi di $n^2$ che sono inferiori a $n$ ma non dividono $n$. Qual è il numero formato prendendo le ultime due cifre di $M$ (nel medesimo ordine)?
+> Let $n = 2^{19} 3^{12}$. $M$ indica il numero di divisori positivi di $n^2$ che sono inferiori a $n$ ma non dividono $n$. Qual è il numero formato prendendo le ultime due cifre di $M$ (nel medesimo ordine)?
 
 [[src_ioqm_2024__Q29]]

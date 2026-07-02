@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many white cubes along the large cube's tips< MSK1/>
+*How many white cubes along the large cube's tips*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob13.png]]
 

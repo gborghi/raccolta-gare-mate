@@ -56,6 +56,6 @@ tags:
 
 *Fensatura di un campo quadrato con due restrizioni perimetrali*
 
-> L'agricoltore possiede un terreno quadrato di lato < MSK0/> m, circondato lungo l'intero perimetro. Vuole dividerla in tre partigi rettangolari di superficie uguale. Una tale partizione è possibile con: a) al massimo < MSK1/> m di recinzione aggiuntiva? b) al massimo < MSK2/> m di recinzione aggiuntiva?
+> L'agricoltore possiede un terreno quadrato di lato $33$ m, circondato lungo l'intero perimetro. Vuole dividerla in tre partigi rettangolari di superficie uguale. Una tale partizione è possibile con: a) al massimo $55$ m di recinzione aggiuntiva? b) al massimo $54$ m di recinzione aggiuntiva?
 
 [[src_canimath_2011_printemps__Q04]]

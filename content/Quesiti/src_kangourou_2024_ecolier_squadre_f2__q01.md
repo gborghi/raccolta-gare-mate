@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Adam's age with reversed year figures< MSK1/>
+*Adam's age with reversed year figures*
 
 > Adam's Age Today, May 5, 2024, is Adam's birthday and, by filling out a form in which he was required to indicate his year of birth, Adam mistakenly reversed the last two digits of the year. Thus, it turns out that Adam would be 30 years old. How old is Adam? The answer is 0075.
 

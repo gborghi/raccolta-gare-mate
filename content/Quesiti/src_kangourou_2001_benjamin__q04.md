@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Black part of the figure< MSK1/>
+*Black part of the figure*
 
 ![[src_kangourou_2001_benjamin__prob4.png]]
 

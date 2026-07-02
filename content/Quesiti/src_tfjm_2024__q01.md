@@ -98,7 +98,7 @@ tags:
 > 
 > Alexander vuole organizzare i suoi triomini in linea retta, nel modo seguente (una striscia orizzontale di triomini alternando punti su e punti giù).
 > 
-> Per quali valori di MSK1 può Alexander organizzare tutti i triomini in linea retta? Si può iniziare con il trattamento dei casi < MSK2/>.
+> Per quali valori di$n$può Alexander organizzare tutti i triomini in linea retta? Si può iniziare con il trattamento dei casi $n = 2, 3, 4$.
 > 
 > D'ora in poi, i numeri non sono più scritti sui lati, ma sulle cime dei triangoli. Alexander ora desidera che i numeri scritti su due vertici adiacenti coincidano.
 > 
@@ -112,7 +112,7 @@ tags:
 > 
 > $\textbf{6.}$ Trova, come funzione di $n$, la dimensione del più grande rombo completo che Alexander può formare con i suoi triomini.
 > 
-> < MSK0/> Proporre e studiare altre vie di ricerca.
+> $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__Q01.png]]
 

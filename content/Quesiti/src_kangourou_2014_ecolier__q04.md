@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grams of leaves eaten by the waking koala< MSK1/>
+*Grams of leaves eaten by the waking koala*
 
 ![[src_kangourou_2014_ecolier__prob4.png]]
 

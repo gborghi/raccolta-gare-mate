@@ -37,11 +37,6 @@ tags:
 > Paolo ha scoperto un trucco per ricordare il suo numero di codice di quattro cifre: ha osservato che 
 > è un quadrato perfetto e che, diviso per un qualunque intero fra 2 e 9 inclusi, dà come resto 1. Qual 
 > è il numero di codice di Paolo?           
->  
->  
->  
-> 
->  
 > Kangourou della Matematica 2010 
 > Coppa a squadre Kangourou   
 > Semifinale turno A 

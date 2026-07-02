@@ -56,6 +56,6 @@ tags:
 
 Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S*
 
-> Su un cerchio si scrivono i numeri $2012$. Ciascuno di essi è uguale a $1$ o $-1$. La somma è < MSK3/>. Supponiamo che non esistano $10$ numeri consecutivi sul cerchio la cui somma è $0$. Quali valori < MSK6/> può assumere in questa condizione?
+> Su un cerchio si scrivono i numeri $2012$. Ciascuno di essi è uguale a $1$ o $-1$. La somma è $S$. Supponiamo che non esistano $10$ numeri consecutivi sul cerchio la cui somma è $0$. Quali valori $S$ può assumere in questa condizione?
 
 [[src_canimath_2017_automne__Q07]]

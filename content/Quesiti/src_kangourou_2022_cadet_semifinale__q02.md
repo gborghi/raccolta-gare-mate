@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times do the hands form a right angle 6-12< MSK1/>
+*How many times do the hands form a right angle 6-12*
 
 ![[src_kangourou_2022_cadet_semifinale__prob2.png]]
 

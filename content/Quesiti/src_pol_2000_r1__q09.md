@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Interi positivi m,n con mn dividendo m^2+n^2+m; dimostrare m è un quadrato perfetto.< MSK1/>
+*Interi positivi m,n con mn dividendo m^2+n^2+m; dimostrare m è un quadrato perfetto.*
 
 > Supponiamo che gli integri positivi $m$ e $n$ siano tali che $mn$ divida $m^2 + n^2 + m$. Prova che $m$ è un quadrato perfetto.
 

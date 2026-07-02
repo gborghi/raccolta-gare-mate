@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of water in submerged tank II< MSK1/>
+*Height of water in submerged tank II*
 
 ![[src_kangourou_2004_junior__prob14.png]]
 

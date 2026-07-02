@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>set of the median points< MSK1/>
+*set of the median points*
 
 ![[src_cesenatico_2024__prob2.png]]
 

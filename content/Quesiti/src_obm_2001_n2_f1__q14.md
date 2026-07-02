@@ -60,9 +60,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Numero di ragazzi in una classe data restanti di divisione e 15 ragazze< MSK1/>
+*Numero di ragazzi in una classe data restanti di divisione e 15 ragazze*
 
-> Contare gli studenti di una classe $4$ con $4$ lascia un residuo di $2$, e contare $5$ con $5$ lascia un residuo di $1$. Sapendo che < MSK6/> degli studenti sono ragazze e che il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
+> Contare gli studenti di una classe $4$ con $4$ lascia un residuo di $2$, e contare $5$ con $5$ lascia un residuo di $1$. Sapendo che $15$ degli studenti sono ragazze e che il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
 > 
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>height< MSK1/>
+*height*
 
 > During an adventure in Egypt, Borelix unwittingly breaks the nose of the famous Sphinx. The nose, now on the ground, is an irregular ABCD tetrahedron resting on the face of the ABC. Borelix, throwing a Roman, breaks the nose further along a plane parallel to ABD by dividing it into two pieces of which the one containing the C vertex has a volume that, once decreased by 27.2%, becomes equal to that of the other piece. Knowing that the height (relative to the ground) of the piece containing top C is 5.33m, how many millimetres did you measure the height of ABCD relative to ABC?
 

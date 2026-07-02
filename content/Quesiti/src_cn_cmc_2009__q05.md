@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK0/>Minimum di ∆OP di * di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
+*Minimum di ∆OP di * di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
 
 > Se si considerano i punti $P$, $Q$ su un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) che soddisfano $OP \perp OQ$, il valore minimo di $|OP| \times |OQ|$ è \_\_\_\__.
 

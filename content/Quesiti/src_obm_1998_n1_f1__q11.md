@@ -58,7 +58,7 @@ tags:
 
 *Fee di parcheggio per un determinato intervallo di tempo*
 
-> Un parcheggio impone < MSK0/> reali per la prima ora e < MSK1/> centavos per ogni ora successiva o frazione di essa. André ha parcheggiato la sua auto a $11$h\\$20$min e se ne è andato a $15$h\$40$min. Quanti reais deve pagare per il parcheggio?
+> Un parcheggio impone $1$ reali per la prima ora e $75$ centavos per ogni ora successiva o frazione di essa. André ha parcheggiato la sua auto a $11$h\\$20$min e se ne è andato a $15$h\$40$min. Quanti reais deve pagare per il parcheggio?
 >
 > - **(A)** $2.50$
 > - **(B)** $4.00$

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rolling length wrapped 5 times around the pallet< MSK1/>
+*Rolling length wrapped 5 times around the pallet*
 
 ![[src_kangourou_2016_junior_marzo__prob21.png]]
 

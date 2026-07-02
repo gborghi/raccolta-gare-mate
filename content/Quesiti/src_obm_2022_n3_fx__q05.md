@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Funzione somma paritaria: dimostrare la crescita legata con costante c < MSK1/>
+*Funzione somma paritaria: dimostrare la crescita legata con costante c *
 
 > $n$ sia un numero intero positivo. Definire $S(n)$ come il numero intero positivo più piccolo in modo che $S(n)$ e $n$ abbiano la stessa parità e non esistano **** interi positivi $k, x_1, x_2, \ldots, x_k$ in modo che $x_1 + x_2 + \cdots + x_k = n$ e $x_1^2 + x_2^2 + \cdots + x_k^2 = S(n)$. Prova che esiste una costante reale $c > 0$ e un intero positivo $n_0$ tale che $S(n) \ge cn^{3/2}$ per ogni $n \ge n_0$.
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many tallies was the payroll (contracts) < MSK1/>
+*How many tallies was the payroll (contracts) *
 
 > Luke looks up at the pyramid you see below. Which one of the pictures on the side do you see?
 >

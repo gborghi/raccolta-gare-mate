@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Farm diviso in lotti triangolari; trovare la superficie originale data il lotto più piccolo è di 40 alqueires< MSK1/>
+*Farm diviso in lotti triangolari; trovare la superficie originale data il lotto più piccolo è di 40 alqueires*
 
 > Un contadino decise di dividere la sua fattoria tra i suoi cinque figli. Il disegno (non in scala) rappresenta l'azienda agricola e i confini di divisione, che sono triangolari, in modo che $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$ il bambino più piccolo riceva il terreno rappresentato dal triangolo più piccolo. Quanti alquiri ha la proprietà originale, visto che il bambino più piccolo ha ricevuto 40 alquiri?
 

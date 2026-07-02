@@ -72,17 +72,17 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Un gioco combinatorio con n torce ogni accesa o spenta; i giocatori alternatamente togliono una torcia ma non possono mai ripetere una configurazione, e il giocatore che non può muoversi perde; determinare le strategie vincenti nel gioco cooperativo, un limite di k torce accese, togliere un numero fisso per turno, e il numero di togliere asimmetrico per giocatore.*
+*Un gioco combinatorio con n torce ogni accesa o spenta; i giocatori alternatamente togliono una torcia ma non possono mai ripetere una configurazione, e il giocatore che non può muoversi perde; determinare le strategie di vincita nel gioco cooperativo, un limite di k torce accese, togliere un numero fisso per turno, e il numero di togliere asimmetrico per giocatore.*
 
-> Accendiamo il fuoco. Let < MSK0/>. Gabrielle e Marie giocano a un gioco. Hanno davanti loro torce $n$, ognuna delle quali può essere accesa o spenta. Inizialmente, tutte le torce vengono spente. Ogni volta, a partire da Gabrielle, uno dei due giocatori tocca una torcia, cioè cambia lo stato di quella torcia: se la torcia è stata spenta la accende, e viceversa. Per rendere interessante il gioco, Gabrielle e Marie si impongono un vincolo: è proibito ottenere una configurazione già ottenuta in precedenza (vedi Figura 5). Il primo che non può più giocare ha perso.
+> Accendiamo il fuoco. Let $n\in\mathbb{N}^*$. Gabrielle e Marie giocano a un gioco. Hanno davanti loro torce $n$, ognuna delle quali può essere accesa o spenta. Inizialmente, tutte le torce vengono spente. Ogni volta, a partire da Gabrielle, uno dei due giocatori tocca una torcia, cioè cambia lo stato di quella torcia: se la torcia è stata spenta la accende, e viceversa. Per rendere interessante il gioco, Gabrielle e Marie si impongono un vincolo: è proibito ottenere una configurazione già ottenuta in precedenza (vedi Figura 5). Il primo che non può più giocare ha perso.
 > 
 > 1. (Solo in questa domanda, Gabrielle e Marie collaborano, e non si cerca chi vince.) È possibile per Gabrielle e Marie ottenere tutte le configurazioni possibili con le torce $n$ durante una singola partita? Nel caso in cui ciò sia possibile, su quali configurazioni può finire il gioco?
 > 
 > 2. D'ora in poi, i due giocatori giocano l'uno contro l'altro. Chi di loro ha una strategia vincente?
 > 
-> 3. Let < MSK0/>. Per evitare di diventare troppo caldi, i giocatori si vietano di accendere più di $k$ torce contemporaneamente. Rendi la domanda 2 in questo contesto.
+> 3. Let $1\le k\le n-1$. Per evitare di diventare troppo caldi, i giocatori si vietano di accendere più di $k$ torce contemporaneamente. Rendi la domanda 2 in questo contesto.
 > 
-> 4. I due giocatori devono ora attivare (cambiare lo stato di) torce $a$ esattamente ad ogni turno, per un numero intero fisso $a$, e non possono attivare nessuna delle torce che hanno appena cambiato stato. Redo le domande 2 e 3 in questo contesto. Si può iniziare con il trattamento dei casi < MSK2/> o < MSK3/>.
+> 4. I due giocatori devono ora attivare (cambiare lo stato di) esattamente $a$ torce ad ogni turno, per un numero intero fisso $a$, e non possono attivare nessuna delle torce che hanno appena cambiato stato. Redo le domande 2 e 3 in questo contesto. Si può iniziare con il trattamento dei casi $a=2$ o $a=3$.
 > 
 > 5. La stessa domanda, ma Gabrielle deve ora attivare le torce $a$ per turno, e le torce Marie $b$ per turno, per due integri fissi $a$ e $b$.
 > 

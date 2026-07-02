@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum k with (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4) < MSK1/>
+*Minimum k with (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4) *
 
 > (Points 7) What is the smallest real number k such that the inequality (x2 + y2 + z2) 2 ≤ k (x4 + y4 + z4) is worth for every tern {x, y, z} of real numbers?
 

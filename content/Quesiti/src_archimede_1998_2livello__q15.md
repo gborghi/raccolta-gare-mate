@@ -47,7 +47,7 @@ tags:
 
 *Minimum a+b with 21ab2 and 15ab perfect squares*
 
-> The numbers < MSK0/>, < MSK1/> are positive integers. What is the minimum positive value of $a + b$ so that $21a b^2$ and $15a b$ are both perfect squares?
+> The numbers $a$, $b$ are positive integers. What is the minimum positive value of $a + b$ so that $21a b^2$ and $15a b$ are both perfect squares?
 > 
 > (A) 16 \quad (B) 26 \quad (C) 36 \quad (D) 46 \quad
 

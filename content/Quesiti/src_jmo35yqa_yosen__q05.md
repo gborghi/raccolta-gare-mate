@@ -53,7 +53,7 @@ tags:
 
 *Quadrilaterali bicentrici, raggio incircolo 6; triangoli PBC, QCD inradii 5,3; trovare BC/CD*
 
-> Un quadrilaterale $ABCD$ è inserito in un cerchio ed è circoscritto anche su un cerchio di raggio $6$. Il raggio $AB$ e il raggio $DC$ si incontrano a un punto $P$, e il raggio $AD$ e il raggio $BC$ si incontrano a un punto $Q$. Le inradii dei triangoli $PBC$ e $QCD$ sono rispettivamente $5$ e $3$. Trova < MSK12/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Un quadrilaterale $ABCD$ è inserito in un cerchio ed è circoscritto anche su un cerchio di raggio $6$. Il raggio $AB$ e il raggio $DC$ si incontrano a un punto $P$, e il raggio $AD$ e il raggio $BC$ si incontrano a un punto $Q$. Le inradii dei triangoli $PBC$ e $QCD$ sono rispettivamente $5$ e $3$. Trova $\dfrac{BC}{CD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo35yqa_yosen__Q05.png]]
 

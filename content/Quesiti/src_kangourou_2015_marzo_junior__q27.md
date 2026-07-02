@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number deleted< MSK1/>
+*number deleted*
 
 > For a positive integer n, after eliminating one of the numbers 1, 2, 3, ..., n - 1, n, the arithmetic mean of the remaining numbers is 4.75. What number was deleted? A) 5
 > 	

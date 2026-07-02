@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum gray squares without 2x2 gray squares< MSK1/>
+*Maximum gray squares without 2x2 gray squares*
 
 ![[src_kangourou_2014_ecolier__prob24.png]]
 

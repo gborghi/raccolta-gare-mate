@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum grey mice with group boundings< MSK1/>
+*Maximum grey mice with group boundings*
 
 > Joseph has 100 mice each of which is either white or gray. However you choose a group of seven mice, at least four are white. What is the maximum number of gray mice Joseph can have?
 >

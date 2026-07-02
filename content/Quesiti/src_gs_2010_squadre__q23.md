@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mean time to complete extractions< MSK1/>
+*Mean time to complete extractions*
 
 > **Another game of cards** (points 70)
 > 

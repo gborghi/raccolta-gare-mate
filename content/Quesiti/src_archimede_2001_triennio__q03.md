@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True claim on pupils with visual impairments< MSK1/>
+*True claim on pupils with visual impairments*
 
 > In one school, 40 percent of pupils are visually impaired, of which 70 percent only wear glasses and 30 percent only use contact lenses. Knowing that there are 42 pairs of glasses in total, which of these statements is true?
 >

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Months beginning and ending on the same day of the week< MSK1/>
+*Months beginning and ending on the same day of the week*
 
 > From the beginning of 2005 to all of 2025, how many months start and end on the same day of the week? A) 5 B) 20 C) 21 D) 147 E) 16
 

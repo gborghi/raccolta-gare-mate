@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length AA' from product similar quadrilateral areas< MSK1/>
+*Length AA' from product similar quadrilateral areas*
 
 ![[src_archimede_2006_2livello__prob8.png]]
 

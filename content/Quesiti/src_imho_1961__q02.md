@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Try a^2+b^2+c^2 >= 4 squared 3 T (Weitzenbock inequality) < MSK1/>
+*Try a^2+b^2+c^2 >= 4 squared 3 T (Weitzenbock inequality) *
 
 > Let $a, b, c$ be the sides of a triangle, and $T$ its area. In what case does equality hold?
 

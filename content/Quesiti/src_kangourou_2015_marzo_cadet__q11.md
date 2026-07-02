@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>not two born on the same day/month: number of pupils< MSK1/>
+*not two born on the same day/month: number of pupils*
 
 > In a classroom, there are no two boys born on the same day of the week or two girls born in the same month. If another boy or girl were added to the class, at least one of the two conditions would no longer be true. How many students is the class? A) 18 B) 19
 > 	

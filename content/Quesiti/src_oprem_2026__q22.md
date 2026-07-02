@@ -53,6 +53,6 @@ tags:
 
 *Esercizio 3, Q3: condizione su b per una griglia da 2 x b di essere pavable*
 
-> Esercizio 3 - (3) Si suppone < MSK0/>. In quali condizioni necessarie e sufficienti per $b$ è possibile utilizzare la griglia di dimensioni $2 \times b$?
+> Esercizio 3 - (3) Si suppone $a = 2$. In quali condizioni necessarie e sufficienti per $b$ è possibile utilizzare la griglia di dimensioni $2 \times b$?
 
 [[src_oprem_2026__Q22]]

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>UV length between two circle arcs in the square< MSK1/>
+*UV length between two circle arcs in the square*
 
 ![[src_archimede_2024_biennio_rec__prob10.png]]
 

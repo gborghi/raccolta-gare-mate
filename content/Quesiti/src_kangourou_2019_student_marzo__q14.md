@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height and height of the man (three info with correct data) < MSK1/>
+*Height and height of the man (three info with correct data) *
 
 > The police have collected the following information, which is partly contradictory, about one man:
 > 	

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of socks for 4 equal pairs< MSK1/>
+*Minimum number of socks for 4 equal pairs*
 
 > There are 40 socks in a basket: 10 yellow, 10 red, 10 green and 10 blue. I take a number of them without looking, and I hope with them I can put together at least four pairs in which both socks are the same color. What's the minimum number of socks to take to make sure you can do it? A 11 B 8 C 12 D 15 E 10 F None of the other answers are correct
 

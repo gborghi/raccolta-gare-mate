@@ -52,7 +52,7 @@ tags:
 
 *Flames for flooring 1 m × 1 m with 5 cm squares *
 
-> How many matches, < MSK0/> cm long, is the minimum required to cover a square floor (< MSK1/>) with a square lattice of < MSK2/> cm on the side?
+> How many matches, $5$ cm long, is the minimum required to cover a square floor ($1\text{ m} \times 1\text{ m}$) with a square lattice of $5$ cm on the side?
 
 **Answer:** 840
 [[src_bocconi_squadre_2014__Q03]]

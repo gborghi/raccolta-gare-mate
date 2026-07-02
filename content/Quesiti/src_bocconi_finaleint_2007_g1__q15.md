@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Calcions range: how many ways to dispose of 16 calissons (rombs) in the hexagonal box< MSK1/>
+*Calcions range: how many ways to dispose of 16 calissons (rombs) in the hexagonal box*
 
 > How many ways can 16 calissons be arranged in a box without overlapping? A calisson and a rum-shaped dessert consisting of two equilateral triangles (see grey example). It can take three different directions. A solution obtained from another by symmetry shall be considered distinct.
 

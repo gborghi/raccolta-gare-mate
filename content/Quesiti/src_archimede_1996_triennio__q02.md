@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Where the dog reaches the hare given the hawks< MSK1/>
+*Where the dog reaches the hare given the hawks*
 
 > A dog standing at point A is chasing a hare that is, at the beginning, 30 m ahead of A. The dog gallops with a 2-meter hawk, while the hare runs away completing 1-meter hawk. For every two hacks of a dog, the hare makes three. Where will the dog reach the hare?
 >

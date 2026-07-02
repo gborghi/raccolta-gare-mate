@@ -54,8 +54,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prodotto di telescopio di calcolo di (n^4+n^2+1) per indici pari< MSK1/>
+*Prodotto di telescopio di calcolo di (n^4+n^2+1) per anche indici odd*
 
-> Calcolo < MSK0/>
+> Calcolo $$\frac{(2^4+2^2+1)(4^4+4^2+1)(6^4+6^2+1)\cdots(32^4+32^2+1)}{(1^4+1^2+1)(3^4+3^2+1)(5^4+5^2+1)\cdots(31^4+31^2+1)}.$$
 
 [[src_obm_2010_n3_f2__Q05]]

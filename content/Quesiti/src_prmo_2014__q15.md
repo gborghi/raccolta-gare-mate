@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Lunghezza XY in triangolo XOY con angolo=90, punti medi M, N sulle gambe, XN=YM=22*
+*Lunghezza XY in triangolo XOY con angolo=90, punti di mezzo M,N sulle gambe, XN=YM=22*
 
-> Che $XOY$ sia un triangolo con $\angle XOY = 90^\circ$. I punti intermedi $M$ e $N$ siano rispettivamente i punti intermedi $OX$ e $OY$ delle gambe. Supponiamo che $XN = 19$ e $YM = 22$. Che cos'è < MSK8/>?
+> Che $XOY$ sia un triangolo con $\angle XOY = 90^\circ$. Il punto medio delle gambe $M$ e $N$ sono rispettivamente $OX$ e $OY$. Supponiamo che $XN = 19$ e $YM = 22$. Che cos'è $XY$?
 
 **Risposta:** 26
 [[src_prmo_2014__Q15]]

@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>angle measurement ACB< MSK1/>
+*angle measurement ACB*
 
 ![[src_kangourou_2023_cadet_semifinale__prob10.png]]
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of the second extract being 28 given 27< MSK1/>
+*Probability of the second extract being 28 given 27*
 
 > There are 90 numbers in each wheel of the lottery. Five of these are extracted, one at a time, without returning the extracted numbers to the urn. In a certain wheel, the number 27 is first extracted. The probability that the second extract is 28
 >

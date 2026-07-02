@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (m,n) with perfect square number of injections< MSK1/>
+*Pairs (m,n) with perfect square number of injections*
 
 > Given sets $A$ and $B$, a **injection** from $A$ to $B$ is a $f: A \to B$ function such that for each $a, a' \in A$, if $f(a) = f(a')$, then $a = a'$.
 > 

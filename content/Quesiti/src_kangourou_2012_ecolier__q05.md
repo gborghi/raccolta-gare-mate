@@ -244,7 +244,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many children are still hiding < MSK1/>
+*How many children are still hiding *
 
 > A box contains five boxes each of which, in turn, contains five boxes. How many boxes are in all of this? A) 30 B) 31 C) 25 D) 26 E) 27 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D
 > 

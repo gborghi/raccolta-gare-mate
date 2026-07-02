@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of coefficients of degree equal to (3-2x-3x^2)^21< MSK1/>
+*sum of coefficients of degree equal to (3-2x-3x^2)^21*
 
 > Given the positive integer $n$, we call $P_n(x) = (3 - 2x - 3x^2)^n$ the polynomial and with $G_n$ the sum of all the coefficients of the degree terms equal to $P_n(x)$, including the known term. For example, $P_2(x) = (3 - 2x - 3x^2)^2 = 9 - 12x - 14x^2 + 12x^3 + 9x^4$ and $G_2 = 9 - 14 + 9 = 4$. Determine the value of $G_{21}$.
 

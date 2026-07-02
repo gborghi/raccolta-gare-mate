@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum weight of luggage without overhead< MSK1/>
+*Maximum weight of luggage without overhead*
 
 > The price of an airline's ticket includes carrying luggage up to a certain weight limit, while an additional charge is charged for each kilogram or fraction of a kilogram of luggage exceeding the limit. Mr Viaggio and his wife had, in two, 60 kg of luggage and paid 3 euros while Mr Girovago, for a luggage of the same weight, paid 10.50 euros. In kilograms, what is the maximum weight of luggage that each passenger can carry without overpayment? The Commission considers that the Commission's decision on the application of this Regulation to the Member States is inadequate and that it is unlikely that the Commission will take any further action.
 > 

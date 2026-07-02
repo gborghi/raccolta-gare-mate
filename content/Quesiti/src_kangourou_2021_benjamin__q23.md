@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Position of black teeth after a small wheel turn< MSK1/>
+*Position of black teeth after a small wheel turn*
 
 ![[src_kangourou_2021_benjamin__prob23.png]]
 

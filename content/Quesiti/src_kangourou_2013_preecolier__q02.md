@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Leaving books on the shelf< MSK1/>
+*Leaving books on the shelf*
 
 > There's 12 books on the shelf and four kids in the room. How many books are left on the shelf if every kid takes a book? A) 12
 > 	

@@ -53,6 +53,6 @@ tags:
 
 *Infinite sequence of positive integers with a ratio bound*
 
-> Let MSK1 be an infinite sequence of positive integers. Prove that there exists a unique integer $n \ge 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
+> Let$a_0 < a_1 < a_2 < \cdots$be an infinite sequence of positive integers. Prove that there exists a unique integer $n \ge 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
 
 [[src_imho_2014__Q01]]

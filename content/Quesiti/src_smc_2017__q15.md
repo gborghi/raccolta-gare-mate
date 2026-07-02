@@ -62,9 +62,9 @@ tags:
 
 *PQRS quadrato con PT=1, QU=2, RV=3, SW=4 dove T,U,V,W si trovano sui bordi; TUVW costituisce un quadrilaterale con una superficie della metà della PQRS. Trova PQ.*
 
-> Il diagramma mostra un quadrato $PQRS$. I punti $T$, $U$, $V$ e $W$ si trovano sui bordi del quadrato, come mostrato, in modo tale che $PT = 1$, $QU = 2$, $RV = 3$ e $SW = 4$.
+> Il diagramma mostra un quadrato $PQRS$. I punti $T$, $U$, $V$ e $W$ si trovano sui bordi del quadrato, come mostrato, come $PT = 1$, $QU = 2$, $RV = 3$ e $SW = 4$.
 > 
-> Qual è la lunghezza di < MSK0/>?
+> Qual è la lunghezza di $PQ$?
 >
 > - **(A)** $5$
 > - **(B)** $6$

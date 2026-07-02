@@ -55,6 +55,6 @@ tags:
 
 *Casse minime per la conservazione delle bottiglie d'acqua 2015 e delle scatole di succo d'arancia 2015*
 
-> Una fabbrica dispone di diverse scatole, ciascuna con una capacità di < MSK0/> litri. Ha bottiglie d'acqua $2015$, ciascuna contenente $3$ litri, e scatole di succo d'arancia $2015$, ciascuna contenente $5$ litri. Ogni scatola può contenere qualsiasi combinazione di bottiglie e cartoni, purché il loro volume totale non superi la capacità della scatola. Nessuna scatola può essere sovraempempiegata. Qual è il numero minimo di scatole di cui ha bisogno l'azienda per immagazzinare tutte le bottiglie e tutte le scatole che ha prodotto?
+> Una fabbrica dispone di diverse scatole, ciascuna con una capacità di $31$ litri. Ha bottiglie d'acqua $2015$, ciascuna contenente $3$ litri, e cartoni di succo d'arancia $2015$, ciascuna contenente $5$ litri. Ogni scatola può contenere qualsiasi combinazione di bottiglie e cartoni, purché il loro volume totale non superi la capacità della scatola. Nessuna scatola può essere sovraempempiegata. Qual è il numero minimo di scatole di cui ha bisogno l'azienda per immagazzinare tutte le bottiglie e tutte le scatole che ha prodotto?
 
 [[src_obm_2015_n2_f2__Q04]]

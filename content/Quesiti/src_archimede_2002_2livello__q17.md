@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Parallel whole-sided pipes with volume 250000< MSK1/>
+*Parallel whole-sided pipes with volume 250000*
 
 > This is the first time I've seen this.
 > 

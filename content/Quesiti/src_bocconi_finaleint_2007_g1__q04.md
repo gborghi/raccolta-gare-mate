@@ -57,7 +57,7 @@ tags:
 
 *Put the digits 1-2-3-4-5 in the boxes of an exact multiplication*
 
-> It helps Barnabe to place the < MSK0/> numbers in boxes (one digit per box) to get an exact multiplication.
+> It helps Barnabe to place the $1 - 2 - 3 - 4 - 5$ numbers in boxes (one digit per box) to get an exact multiplication.
 
 ![[src_bocconi_finaleint_2007_g1__Q04.png]]
 

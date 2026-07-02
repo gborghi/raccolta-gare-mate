@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Result of the operation in the card puzzle< MSK1/>
+*Result of the operation in the card puzzle*
 
 ![[src_kangourou_2021_cadet__prob5.png]]
 

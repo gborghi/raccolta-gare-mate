@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many levels< MSK1/>
+*how many levels*
 
 ![[src_kangourou_2016_marzo_benjamin__prob8.png]]
 

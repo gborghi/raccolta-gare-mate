@@ -96,9 +96,9 @@ tags:
 \end{document}
 ```
 
-> On an island there are only Knights and Spheres: Knights are people who always tell the truth, while Spheres always lie, and everyone on the island knows who the Knights are and who the Spheres are. Today, residents of the island are waiting in the King's reception hall. This room is a square side $4$ meters and is floored with $16$ square side bricks $1$ meters. Each person is standing on a brick, one person per brick. As they wait, each of the $16$ people declares, "In the bricks next to mine there are as many crooks as there are knights". How many knights can there be at most?
+> On an island there are only Knights and Snatchers: Knights are people who always tell the truth, while Snatchers always lie, and everyone on the island knows who the Knights are and who the Snatchers are. Today, residents of the island are waiting in the King's reception hall. This room is a square side $4$ meters and is floored with $16$ square side bricks $1$ meters. Each person is standing on a brick, one person per brick. While they wait, each of the people says, "In the bricks next to mine, there are as many crooks as there are knights". How many knights can there be at most?
 > 
-> < MSK0/>NOTE:< MSK1/> Two bricks are adjacent if they have an entire side in common.
+> **NOTE:** Two bricks are adjacent if they have an entire side in common.
 
 **Answer:** 4
 [[src_kangourou_2025_benjamin_finale__QB6]]

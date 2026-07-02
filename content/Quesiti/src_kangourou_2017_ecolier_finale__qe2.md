@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Square frames, 35 coloured < MSK1/>
+*Square frames, 35 coloured *
 
 > On a square sheet, Anna drew a square with sides on some of the lines that make up the square; then she colored the squares that have two vertices on at least one of the two diagonals of the square. If you colored 35 squares, how many squares are enclosed in the square?
 

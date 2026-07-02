@@ -55,6 +55,6 @@ tags:
 
 *Sequenza positiva con ricorrenza non lineare; trovare termini e somme parziali legate*
 
-> Let $\{a_n\}$ essere una sequenza di numeri reali positivi come $a_1 = \frac{1}{2}$, e per $n \ge 2$, $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$ (1) Trovare $a_n$ per $n \ge 1$. (2) Let < MSK6/>. Mostra che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
+> Let $\{a_n\}$ essere una sequenza di numeri reali positivi come $a_1 = \frac{1}{2}$, e per $n \ge 2$, $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$ (1) Trovare $a_n$ per $n \ge 1$. (2) Let $S_n = \sum_{i=1}^n a_i$. Mostra che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
 
 [[src_cn_csmo_2021__Q01]]

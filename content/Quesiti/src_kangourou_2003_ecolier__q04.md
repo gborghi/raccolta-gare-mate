@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Images with three quarters of hearts< MSK1/>
+*Images with three quarters of hearts*
 
 ![[src_kangourou_2003_ecolier__prob4.png]]
 

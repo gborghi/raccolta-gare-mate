@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Image seen by overlapping the holes in the cartons< MSK1/>
+*Image seen by overlapping the holes in the cartons*
 
 ![[src_kangourou_2020_pre_marzo__prob5.png]]
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little number 4 distinct digits with mean digit condition< MSK1/>
+*Little number 4 distinct digits with mean digit condition*
 
 > As all mathematicians know, a domestic elf can regain his freedom if he manages to solve a problem that his master poses to him. Recently an alphas was asked what is the smallest integer of 4 distinct and non-zero digits such that each of its digits (except the first and last) is strictly greater than the arithmetic mean of the two adjacent digits. What is the answer that gives freedom back to the alpha?
 

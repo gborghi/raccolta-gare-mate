@@ -59,11 +59,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due strisce di 1 cm di larghezza tagliate in rettangoli che formano una striscia decorativa di 100 cm; trovare larghezza originale< MSK1/>
+*Due strisce di 1 cm di larghezza tagliate in rettangoli che formano una striscia decorativa di 100 cm; trovare larghezza originale*
 
-> Due strisce di larghezza < MSK0/> cm, una nera e una bianca, sono state incollate insieme per formare rettangoli più piccoli. I rettangoli sono stati posizionati fianco a fianco (senza sovrapposizioni e utilizzando entrambe le strisce completamente) per formare la striscia decorativa mostrata di seguito. Se la striscia decorativa ha una lunghezza totale di < MSK1/> cm, quale era la larghezza, in cm, di ciascuna striscia prima di essere tagliata?
+> Due strisce di larghezza $1$ cm, una nera e una bianca, sono state incollate insieme per formare rettangoli più piccoli. I rettangoli sono stati posizionati fianco a fianco (senza sovrapposizioni e utilizzando entrambe le strisce completamente) per formare la striscia decorativa mostrata di seguito. Se la striscia decorativa ha una lunghezza totale di $100$ cm, quale era la larghezza, in cm, di ciascuna striscia prima di essere tagliata?
 > 
-> (La striscia mostra pezzi rettangolari in bianco e nero alternati disposti in una fila di lunghezza totale < MSK0/> cm.)
+> (La striscia mostra pezzi rettangolari in bianco e nero alternati disposti in una fila di lunghezza totale $100$ cm.)
 
 ![[src_obm_2015_n1_f2__Q03.png]]
 

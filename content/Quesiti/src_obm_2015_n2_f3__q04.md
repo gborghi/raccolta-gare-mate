@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimizzare le foglie nel processo di riforma stradale su un albero di n città< MSK1/>
+*Minimizzare le foglie nel processo di riforma stradale su un albero di n città*
 
 > Nel paese di Arnaldópolis ci sono città collegate da strade $n - 1$ e da qualsiasi città è possibile raggiungere la capitale Arnaldópolis utilizzando le strade.
 > 

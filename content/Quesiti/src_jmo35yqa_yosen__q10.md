@@ -56,7 +56,7 @@ tags:
 
 *Conteggiare funzioni f:S->S su {0..8} con f(x) f(y)-f(z)) divisibile per 9 ogni volta che 9  x+y-z*
 
-> Let < MSK0/>. Considera le funzioni $f$ definite su $S$ e prendendo valori in $S$ in modo tale che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiple di $9$, allora $f(x)\,f(y) - f(f(z))$ è anche un multiple di $9$. Quante funzioni < MSK10/> esistono?
+> Let $S = \{0, 1, 2, \ldots, 8\}$. Considera le funzioni $f$ definite su $S$ e prendendo valori in $S$ in modo tale che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiple di $9$, allora $f(x)\,f(y) - f(f(z))$ è anche un multiple di $9$. Quante funzioni $f$ esistono?
 
 **Risposta:** 858
 [[src_jmo35yqa_yosen__Q10]]

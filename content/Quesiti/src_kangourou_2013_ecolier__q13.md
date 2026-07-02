@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Who is the oldest person by date of birth< MSK1/>
+*Who is the oldest person by date of birth*
 
 > Ada, Bruna, Cecilia and Dora were born in the same year. Their birthdays are, by date but not by name, on 20 February, 12 April, 12 May and 25 May. Bruna and Ada were born in the same month. Ada and Cecilia were born on the same day in different months. Who's the oldest? A) Ada B) Bruna C) Cecilia D) Dora E) It is not possible to establish it.
 

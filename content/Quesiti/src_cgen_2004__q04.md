@@ -62,15 +62,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Studio della condizione (C_1): la traduzione via p=2n-1, q=2k-1 in p^2-q^2=16a^2 e la caratterizzazione delle soluzioni attraverso somme di due quadrati*
+*Studiare la condizione (C_1): tradurla attraverso p=2n-1, q=2k-1 in p^2-q^2=16a^2 e caratterizzare le soluzioni attraverso somme di due quadrati*
 
-> Studio della condizione < MSK0/>.
+> Studio della condizione $(C_1)$.
 > 
 > Consideriamo due integri $n$ e $k$ come $1 \le k \le n-1$.
 > 
 > 1. Un insieme $p = 2n-1$ e $q = 2k-1$. Mostrare che la coppia $(n,k)$ verifica la condizione $(C_1)$ se, e solo se, $(p,q)$ sono un paio di integri naturali dispari come $q < p$, verificando la seguente condizione $(C_2)$: $(C_2)$: esiste $a \in \mathbb{N}$ come $p^2 - q^2 = 16a^2$.
 > 
-> 2. Lasciate che $(p,q)$ siano un paio di integri naturali, in modo che esistano integri $u > 0$ e $v > 0$, di parità diverse, per cui $p = u^2 + v^2$ e $q = u^2 - v^2$. Mostrare che $(p,q)$ è un paio di integri naturali dispari come $q < p$ verificando la condizione $(C_2)$.
+> 2. Lasciate che $(p,q)$ siano un paio di integri naturali, in modo tale che esistano integri $u > 0$ e $v > 0$, di parità diverse, per cui $p = u^2 + v^2$ e $q = u^2 - v^2$. Mostrare che $(p,q)$ è un paio di integri naturali dispari come $q < p$ verificando la condizione $(C_2)$.
 > 
 > 3. Consideriamo un paio di $(p,q)$ di integri naturali dispari, coprimo, come $q < p$ e verificando la condizione $(C_2)$. Mostrare che esistono due integri naturali $u$ e $v$ di parità diverse come $p = u^2 + v^2$ e $q = u^2 - v^2$. Calcolare quindi, come funzione di $u$ e $v$, il valore dell'intero numero $a$ che interviene nella condizione $(C_2)$.
 

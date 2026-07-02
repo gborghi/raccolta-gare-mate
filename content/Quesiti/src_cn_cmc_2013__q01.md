@@ -53,7 +53,7 @@ tags:
 
 *Summa degli elementi del set B derivati dal set A*
 
-> Dato < MSK0/>, lasciate < MSK1/>. La somma degli elementi di $B$ è quindi $\underline{\qquad}$.
+> Dato $A = \{2, 0, 1, 3\}$, lasciate $B = \{x \mid -x \in A,\ 2 - x^2 \notin A\}$. La somma degli elementi di $B$ è quindi $\underline{\qquad}$.
 
 **Risposta:** -5
 [[src_cn_cmc_2013__Q01]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of orange faces with 50% likelihood of same colour< MSK1/>
+*Maximum number of orange faces with 50% likelihood of same colour*
 
 > Alice has a rather strange watch. There's the classic 12-hour quadrant, with the hour and minute bid. However, while the minute hand moves as usual (rotating clockwise), the hour hand moves the opposite way (anti-clockwise). How many times will the two bids cross each other over the course of a day (i.e. from midnight to midnight the following day, considering both the initial and final bids)?
 >

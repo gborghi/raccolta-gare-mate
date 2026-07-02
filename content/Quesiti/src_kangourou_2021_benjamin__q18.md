@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Combination that cannot be the correct one< MSK1/>
+*Combination that cannot be the correct one*
 
 ![[src_kangourou_2021_benjamin__prob18.png]]
 

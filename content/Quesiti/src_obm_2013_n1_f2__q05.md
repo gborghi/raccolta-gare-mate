@@ -56,6 +56,6 @@ tags:
 
 *100 corrette su 128 domande; trovare almeno N corrette consecutive*
 
-> In una prova a scelta multipla, Julia ha risposto correttamente a < MSK0/> di < MSK1/> domande possibili. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
+> In una prova a scelta multipla, Julia ha risposto correttamente alle domande $100$ di $128$. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
 
 [[src_obm_2013_n1_f2__Q05]]

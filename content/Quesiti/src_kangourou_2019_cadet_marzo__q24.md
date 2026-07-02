@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How much did Rita have before she bought (reports) < MSK1/>
+*How much did Rita have before she bought (reports) *
 
 > When Rita and Flora compared their savings, the ratio between Rita's and Flora's was 5:3 Rita later bought a tablet for 160 euros and the ratio of the two friends' savings became 3: 5. How many euros did Rita have before she bought it? A) 250 B) 200 C) 220 D) 430 E) 420
 

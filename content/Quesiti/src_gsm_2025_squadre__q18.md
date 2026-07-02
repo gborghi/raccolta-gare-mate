@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability to occur in 2026 in a succession of operations< MSK1/>
+*Probability to occur in 2026 in a succession of operations*
 
 > Simón Muselli operations To generate sequences, first a positive number is chosen randomly and then operations are applied in sequence, randomly chosen each time between the following three: add the addition 3; multiply by the factor 4; raise to the power 5. For example, we can generate the sequence 2 25 = 32 32⋅4 = 144 144 + 3 = 147 147 + 3 = 150 ... What is the probability that the number 2026 will occur in the sequence knowing that we have used the  operation multiply for the factor 4 no more than once? [Give the number of divisors of the denominator of the fraction reduced to the minimum terms as the answer.]: 0003
 

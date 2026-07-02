@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many tiles touched by both legs< MSK1/>
+*How many tiles touched by both legs*
 
 > On a long route of 2024 aligned tiles, a kangaroo enjoys jumping like this: he touches the first tiles with only one leg, the second with both legs, the third with only the other leg, the fourth with both legs, he completely jumps the fifth and then repeats this pattern until the last tiles. How many tiles have both legs touched? A) 674 B) 676 C) 804 D) 810 E) 1012
 

@@ -52,7 +52,7 @@ tags:
 
 *2014-2014*
 
-> What is the result of 2014 < MSK0/> 2014: 2014  2014 ? A) 0
+> What is the result of 2014 × 2014: 2014  2014 ? A) 0
 > 	
 > B) 1
 > 	

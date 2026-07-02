@@ -71,7 +71,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Part of water in B (river forks) < MSK1/>
+*Part of water in B (river forks) *
 
 ![[src_kangourou_2008_student_marzo__prob5.png]]
 

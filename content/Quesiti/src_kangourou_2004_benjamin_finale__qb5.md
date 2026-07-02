@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many regular pairs in a watch< MSK1/>
+*How many regular pairs in a watch*
 
 > It is 9.00 on the large clock at the entrance to Mirabilandia Park: I observe that on the dial all the numbers included in the arc between the two hands, proceeding clockwise, are smaller than the numbers $9$ and $12$ that are at both ends. I call **regular pair** any subset formed by two different numbers from the $\{1, 2, 3, \ldots, 12\}$ set that, like $\{9, 12\}$: - delimit at least one arc containing only minor numbers of both numbers in the pair and - do not denote two consecutive hours.
 > 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum eulerian path widths on icosahedron< MSK1/>
+*Maximum eulerian path widths on icosahedron*
 
 > Russian mountains φ-neas: Hey Ferbmat, I know what we're going to do today: we're going to build Russian mountains! (Ferbmat approves silently). φ-neas: The tracks are placed on the stalks of an icosahedron. The car will start from a summit and must follow a route that never crosses the same ridge twice, reaching a summit that is not necessarily the one from which it started. How many people, at most, can you get through the car?
 

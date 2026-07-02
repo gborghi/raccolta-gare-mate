@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare gli anni biscotti dal 1889 ad oggi< MSK1/>
+*Contare gli anni biscotti dal 1889 ad oggi*
 
 > Gli anni bisesti sono multipli di $4$, ad eccezione di quelli che sono multipli di $100$ ma non di $400$. Quanti anni a salto sono passati dalla Proclamazione della Repubblica del Brasile in $1889$ fino ad oggi (2003)?
 

@@ -51,15 +51,15 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rugs not responding (three lions) < MSK1/>
+*Rugs not responding (three lions) *
 
-> Stefano has the figures $2$, $0$, $1$ and $9$. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to yield the greatest possible result, what figure should you enter in the box shown with the question mark?
+> Stefano has the figures $2$, $0$, $1$ and $9$. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what figure should you enter in the box shown with the question mark?
 >
-> - **(A)** < MSK0/> or < MSK1/>.
-> - **(B)** < MSK0/> or < MSK1/>.
-> - **(C)** If necessary < MSK0/>.
-> - **(D)** If necessary < MSK0/>.
-> - **(E)** If necessary < MSK0/>. (see figure)
+> - **(A)** $0$ or $1$.
+> - **(B)** $0$ or $2$.
+> - **(C)** If necessary $0$.
+> - **(D)** If necessary $1$.
+> - **(E)** If necessary $2$. (see figure)
 
 **Answer:** 0058
 [[src_kangourou_2019_ecolier_finale__Q13]]

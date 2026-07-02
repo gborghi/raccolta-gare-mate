@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Within the ages Daniela is 16< MSK1/>
+*Within the ages Daniela is 16*
 
 > Daniela's age At 16, Daniela will be five times as old as she was four years ago. How many years from now will Daniela be 16?
 

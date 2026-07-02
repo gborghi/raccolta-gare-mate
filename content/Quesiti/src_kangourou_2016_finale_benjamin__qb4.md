@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> is suitable for which? < MSK1/>
+* is suitable for which? *
 
 > To be promoted, a Fox student must take a closed-answer test, answering all questions correctly. You can choose between two envelopes: - envelope A containing $5$ questions, each with $2$ answers, - envelope B containing $2$ questions, each with $6$ answers.
 > 

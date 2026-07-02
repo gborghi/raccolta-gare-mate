@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time of the fourth quarter-hour pill< MSK1/>
+*Time of the fourth quarter-hour pill*
 
 > To heal himself, Michele must take pills, each one (from the second to the next) a quarter of an hour away from the previous one. He took the first one at 11:05. What time did you get the fourth? A) 11:40 B) 11:50 C) 11:55 D) 12:00	            	 E) 12:05
 

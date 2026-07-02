@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode to colour the 4x4 table in black with constraints< MSK1/>
+*Mode to colour the 4x4 table in black with constraints*
 
 ![[src_kangourou_2021_junior_marzo__prob29.png]]
 

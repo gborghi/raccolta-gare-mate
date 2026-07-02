@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max remainder division number/sum of digits< MSK1/>
+*Max remainder division number/sum of digits*
 
 > What is the maximum possible value for the remainder of the division between a two-digit integer and the sum of its two digits? A) 9            B) 13          C) 15          D) 16          E)  17
 

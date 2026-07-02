@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>radius of the quadrilateral < MSK1/>
+*radius of the quadrilateral *
 
 > The pool of Professor Abacus
 > 

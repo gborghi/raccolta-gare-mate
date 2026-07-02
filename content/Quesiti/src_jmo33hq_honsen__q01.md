@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cellule massime coperte da almeno 1 L di tetromino su una griglia 5x5< MSK1/>
+*Cellule massime coperte da almeno 1 L di tetromino su una griglia 5x5*
 
 > Su una griglia $5 \times 5$, le piastrelle di tetromino a forma di L (che coprono ciascuna 4 celle a forma di L, come mostrato) sono posizionate lungo le linee della griglia. Le piastrelle possono sovrapporsi tra loro, ma non devono estendersi al di fuori della griglia. Per ogni cella, il numero di piastrelle che la coprono deve essere compreso tra $0$ e $2$ (inclusi). Trovare il numero massimo possibile di celle che sono coperte da almeno $1$ piastrelle.
 > 

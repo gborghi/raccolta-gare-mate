@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Each polyhedron has two faces with the same number of beads< MSK1/>
+*Each polyhedron has two faces with the same number of beads*
 
 ![[src_kangourou_2012_cadet_finale__probC6.png]]
 

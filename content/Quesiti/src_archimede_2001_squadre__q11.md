@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum cone radius< MSK1/>
+*minimum cone radius*
 
 > This is the total amount of the contribution from the Union to the programme.
 > 

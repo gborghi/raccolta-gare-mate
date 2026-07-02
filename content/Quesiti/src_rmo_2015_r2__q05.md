@@ -53,7 +53,7 @@ tags:
 
 *Due cerchi, centro di Sigma su gamma; DE parallelo AC implica AE=AB*
 
-> Due cerchi $\Gamma$ e $\Sigma$ nel piano si incrociano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ si trova su $\Gamma$. I punti $C$ e $D$ devono essere rispettivamente $\Gamma$ e $\Sigma$ in modo tale che $C$, $B$ e $D$ siano collineari. Il punto $E$ su $\Sigma$ deve essere tale che $DE$ sia parallelo a $AC$. Mostra che < MSK17/>.
+> Due cerchi $\Gamma$ e $\Sigma$ nel piano si incrociano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ si trova su $\Gamma$. I punti $C$ e $D$ devono essere rispettivamente $\Gamma$ e $\Sigma$ in modo tale che $C$, $B$ e $D$ siano collineari. Il punto $E$ su $\Sigma$ deve essere tale che $DE$ sia parallelo a $AC$. Mostra che $AE = AB$.
 
 ![[src_rmo_2015_r2__Q05.png]]
 

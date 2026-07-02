@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Self-referential answer to ((n-1) ((n-3)+6)/2< MSK1/>
+*Self-referential answer to ((n-1) ((n-3)+6)/2*
 
-> Two ships with a < MSK0/>-rate each were launched at peak, in 1602 (1, 2, 1) three ships were sunk, with one, two and one < MSK1/>-rate respectively, and so on. The superstitious Master Gibbs explains that all of these have become ghost vessels, and only those with a strange beak. How many ghost ships have appeared in this time period?
+> Two ships with a π-rate each were launched at peak, three ships were sunk in 1602 (1, 2, 1) with one, two and one π-rate respectively, and so on. The superstitious Master Gibbs explains that all of these have become ghost vessels, and only those with a strange beak. How many ghost ships have appeared in this time period?
 
 **Answer:** 0003
 [[src_gas_2010_semifinale_b__Q01]]

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how much to spin to match< MSK1/>
+*how much to spin to match*
 
 > John throws 150 coins on the table. Only 40% of the coins show the side Testa: how many coins must be rotated so that the number of coins showing Testa is equal to that of the coins showing Cross? A) 10 B) 15
 > 	

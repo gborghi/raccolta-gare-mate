@@ -60,7 +60,7 @@ tags:
 
 *15 monete di 25 e 10 centesimi per un determinato importo; scegliere l'equazione corretta*
 
-> Wagner ha monete $15$, alcune di $25$ centavos e altre di $10$ centavos. < MSK3/> sia il numero delle monete < MSK4/>-centavo. Quale delle equazioni qui sotto permette di trovare questo numero?
+> Wagner ha monete $15$, alcune di $25$ centavo e altre di $10$ centavo. $x$ sia il numero delle monete $25$-centavo. Quale delle equazioni qui sotto permette di trovare questo numero?
 > 
 > (A) $5x+10(15-x)=27$ \quad (B) $25x+10(15-x)=270$ \quad (C) $x+(15-x)=27$
 > 

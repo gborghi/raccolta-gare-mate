@@ -61,7 +61,7 @@ tags:
 
 ![[src_archimede_2013_biennio__prob14.png]]
 
-> Salvo and Maria (S and M in figure) are separated by a long wall, inclined at an angle of α relative to the straight line joining them (where 0 < α < < MSK0/>). In the two points P1 and P2 of the nearest wall to Salvo and Maria there are two doors, distant from each other d > 0; knowing that Salvo and Maria are respectively 10 meters and 8 meters from the door to their nearest, which of the two doors must Salvo cross to reach Mary by taking the shortest path possible?
+> Salvo and Maria (S and M in figure) are separated by a long wall, inclined at an angle of α relative to the straight line joining them (where 0 < α < 90°). In the two points P1 and P2 of the nearest wall to Salvo and Maria there are two doors, distant from each other d > 0; knowing that Salvo and Maria are respectively 10 meters and 8 meters from the door to their nearest, which of the two doors must Salvo cross to reach Mary by taking the shortest path possible?
 >
 > - **(A)** the door P1
 > - **(B)** the P2 door

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esercizio 2, Q13: conclusione< MSK1/>
+*Esercizio 2, Q13: conclusione*
 
 > Esercizio 2 - (13) Conclusione.
 

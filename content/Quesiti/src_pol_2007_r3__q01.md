@@ -51,6 +51,6 @@ tags:
 
 *Triangolo acuto con circoncentro e altitudine; dimostrare un rapporto di uguaglianza che coinvolge intersezioni perpendicolari del piede.*
 
-> In un triangolo acuto $ABC$ il punto $O$ è il centro circostante, $CD$ è l'altitudine, $E$ un punto laterale $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ a $M$ incrocia rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prove che < MSK13/>.
+> In un triangolo acuto $ABC$ il punto $O$ è il centro circostante, $CD$ è l'altitudine, $E$ un punto laterale $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ a $M$ incrocia rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prove che $\frac{LM}{MK} = \frac{AD}{DB}$.
 
 [[src_pol_2007_r3__Q01]]

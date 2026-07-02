@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of tiles 2x8 with dominoes< MSK1/>
+*Mode of tiles 2x8 with dominoes*
 
 > How many different ways can a rectangular floor of size 2 × 8 be tiled using rectangular tiles of size 1 × 2 (without overlapping)?
 >

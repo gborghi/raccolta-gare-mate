@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Within days the kangaroo will be 8 weeks old< MSK1/>
+Within days the kangaroo will be 8 weeks old*
 
 > A kangaroo is six weeks and two days old today. In how many days will it be eight weeks? A) 5
 > 	

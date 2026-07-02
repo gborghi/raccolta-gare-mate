@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of inner corners< MSK1/>
+*sum of inner corners*
 
 ![[src_kangourou_2014_marzo_student__prob28.png]]
 

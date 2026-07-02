@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Compositions of 14 with last odd term< MSK1/>
+*Compositions of 14 with last odd term*
 
 > Many characters have arrived in the future thanks to technology that separates the heads from the rest of the body and keeps them alive and active indefinitely in transparent cylindrical containers. Most of these containers are housed inside the Museum of Tests, where politicians, athletes, actors, UMI presidents and all kinds of famous figures of the twentieth century and beyond are to be found. The Museum is able to guarantee the survival of as many heads as the compositions of 14 in which the last term (the one on the right) is odd. A composition of an integer n is an ordered list of positive integers whose sum is n. For example , number 3 admits the following four compositions: (3) , (1;2) , (2;1) and (1;1;1) .
 

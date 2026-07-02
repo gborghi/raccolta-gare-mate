@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many candies (combinations 3 = double 2) < MSK1/>
+*How many candies (combinations 3 = double 2) *
 
 > I have all the different candy in my pocket, and the number of ways I can choose three is twice the number of ways I can choose two. How many candies do I have in my pocket?
 

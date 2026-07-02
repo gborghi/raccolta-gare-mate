@@ -58,9 +58,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Die laminato 10 volte, somma 57; numero minimo di sei < MSK1/>
+*Die laminato 10 volte, somma 57; numero minimo di sei *
 
-> Esmeralda rotolò un dado dieci volte e ottenne la somma di tutti i risultati. Almeno quante volte avrebbe potuto far rotolare un MSK1/?
+> Esmeralda rotolò un dado dieci volte e ottenne la somma di tutti i risultati. Almeno quante volte avrebbe potuto far rotolare un$6$?
 > 
 > **(A)** $5$ $\quad$ **(B)** $6$ $\quad$ **(C)** $7$ $\quad$ **(D)** $8$ $\quad$ **(E)** $9$
 

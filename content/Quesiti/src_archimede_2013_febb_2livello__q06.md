@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Minimum of ∈ X is equal to x^2+4y^2 < MSK1/>
+* Minimum of ∈ X is equal to x^2+4y^2 *
 
 > So x and y are real numbers such that you have x2 + 4y2 = 1; what is the minimum value of x = 2y + 2y = 1?
 >

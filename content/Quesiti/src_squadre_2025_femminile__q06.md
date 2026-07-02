@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum movements to force a monochromatic equilateral triangle< MSK1/>
+*Minimum movements to force a monochromatic equilateral triangle*
 
 > For the first time ever, Phineas and Ferb decide not to do anything. But Candace suspects something and, worried about losing her spy job, decides to provoke her brothers. Phineas challenges Candace to a game. It takes an infinite tessellation covering the plane made of congruent equilateral triangles. With each move, Phineas chooses a vertex of a triangle and Candace can decide whether to color it red or blue. Phineas wins the game if he can color the same three points of the plane that are vertices of any equilateral triangle. Ferb's already calculated that it won't take many moves. What's the minimum number of moves Phineas will need, assuming Candace plays the smartest way possible to keep him from winning?
 

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What will be the 16th group of beads (pattern) < MSK1/>
+*What will be the 16th group of beads (pattern) *
 
 ![[src_kangourou_2018_koala_marzo__prob7.png]]
 

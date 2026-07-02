@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ribbito alla dimensione del set con condizione lcm< MSK1/>
+*Ribbito alla dimensione del set con condizione lcm*
 
-> $n$ sia un intero positivo, impostato $A \subseteq \{1, 2, \cdots, n\}$, e per ogni $a, b \in A$, $\text{lcm}(a, b) \le n$. Provare che < MSK0/>
+> $n$ sia un intero positivo, impostato $A \subseteq \{1, 2, \cdots, n\}$, e per ogni $a, b \in A$, $\text{lcm}(a, b) \le n$. Provare che $$|A| \le 1.9\sqrt{n} + 5.$$
 
 [[src_cn_ctst_2007__Q06]]

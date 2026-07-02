@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of products of independent heaps, induction< MSK1/>
+*Summary of products of independent heaps, induction*
 
 > To pay for a Pan Galactic Gargle Blaster at the Illegal Bistró, you take 50 Altarian dollars, you divide the 50 coins into two heaps, you count the coins of each of the two heaps and you write the product of the two counts. Then you take one of the heaps with more than one coin and you divide it into two heaps, you count the coins of each heap and you write down the product of the two counts. It continues as long as all the heaps are of one coin. All the products are added. You pay the final amount you get (not 50 Altarian dollars). What is the maximum amount that you can pay?
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>position of the passengers< MSK1/>
+*position of the passengers*
 
 > Professor Abacus in the tram (fifteen points)
 > 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i figli in una famiglia da vincoli di rapporto fra fratelli< MSK1/>
+*Contare i figli in una famiglia da vincoli di rapporto fra fratelli*
 
 > Fred e Sarah sono i figli maggiori della stessa famiglia numerosa. Fred ha la metà dei fratelli rispetto alle sorelle, mentre Sarah ha le sorelle uguali ai fratelli. Quanti bambini ci sono in questa famiglia?
 

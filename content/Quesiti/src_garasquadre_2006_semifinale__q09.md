@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>volts in seconds exceeds minutes < MSK1/>
+*volts in seconds exceeds minutes *
 
 > Hermitage is quite confused by the use of the Time Circle, which allows her to travel through time. So she finds herself often forced to keep an eye on the clock. So N is the number of times in a week that the second hand exceeds the minute hand. How much is N?
 

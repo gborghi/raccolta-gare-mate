@@ -51,7 +51,7 @@ tags:
 
 *Previous date consisting only of odd digits*
 
-> The general test of the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the figures for 8.3.2008 is odd. < MSK0/>What is the previous date composed solely of odd numbers? < MSK1/>
+> The general test of the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the figures for 8.3.2008 is odd. **What is the previous date composed solely of odd numbers? **
 
 **Answer:** 19.11.1999
 [[src_bocconi_primavera_2008__Q02]]

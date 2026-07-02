@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Extractions for certainty of 6 socks of the same colour< MSK1/>
+*Extractions for certainty of 6 socks of the same colour*
 
-> Miss Moneypenny kept in a drawer the socks that James Bond left her for her to remember before leaving: she explained that there are $2$ socks of one color, $4$ socks of another color, $6$ socks of a third, and so on; in other words, for a proper numbering of the colors of the socks from $1$ to $n$, there are $2i$ socks of the $i$-eighth color. James calculated that, by taking MSK7 socks at random, it is certain that you have MSK8 socks of different colors, but, by taking MSK9 socks at random, you may not succeed. What is the minimum number of random extractions needed to be sure you have < MSK10/> socks of the same colour?
+> Miss Moneypenny kept in a drawer the socks that James Bond left her for her to remember before leaving: she explained that there are $2$ socks of one color, $4$ socks of another color, $6$ socks of a third, and so on; in other words, for a proper numbering of the colors of the socks from $1$ to $n$, there are $2i$ socks of the $i$-eighth color. James calculated that, by taking$79$socks at random, it is certain that you have$4$socks of different colors, but, by taking$78$socks at random, you may not succeed. What is the minimum number of random extractions needed to be sure you have $6$ socks of the same colour?
 
 **Answer:** 0067
 [[src_gs_2011_squadre__Q12]]

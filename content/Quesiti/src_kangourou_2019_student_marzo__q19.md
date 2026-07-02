@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum whole less the nested root of 20< MSK1/>
+*Minimum whole less the nested root of 20*
 
 > The largest integer smaller than √ 20 + √ 20 + √ 20 + √ 20 + √ 20 is A) 4.
 > 	

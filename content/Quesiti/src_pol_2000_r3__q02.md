@@ -50,6 +50,6 @@ tags:
 
 *La somma dell'angolo è di 180 gradi in un triangolo a uguali con un punto interno*
 
-> Il punto $P$ è preso all'interno di un triangolo $ABC$ con $AC = BC$ in modo tale che $\angle PAB = \angle PBC$. Il punto $M$ è il punto medio di $AB$. Provare che < MSK0/>
+> Il punto $P$ è preso all'interno di un triangolo $ABC$ con $AC = BC$ in modo tale che $\angle PAB = \angle PBC$. Il punto $M$ è il punto medio di $AB$. Provare che $$\angle APM + \angle BPC = 180^\circ.$$
 
 [[src_pol_2000_r3__Q02]]

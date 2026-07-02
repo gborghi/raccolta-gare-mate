@@ -55,11 +55,11 @@ tags:
 
 *Aree di triangoli ABF e ADF in quadrato con punto medio e linea*
 
-> L'area quadrata $ABCD$ è $300\,\text{cm}^2$. Nella figura, $M$ è il punto medio di $CD$ e il punto $F$ si trova sulla linea $BC$.
+> L'area quadrata $ABCD$ è $300\,\text{cm}^2$. Nella figura $M$ è il punto medio di $CD$ e il punto $F$ si trova sulla linea $BC$.
 > 
-> a) Qual è la superficie del triangolo < MSK0/>?
+> a) Qual è la superficie del triangolo $ABF$?
 > 
-> b) Qual è la superficie del triangolo < MSK0/>?
+> b) Qual è la superficie del triangolo $ADF$?
 
 ![[src_obm_2006_n1_f2__Q07.png]]
 

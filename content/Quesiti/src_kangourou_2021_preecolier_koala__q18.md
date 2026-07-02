@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fruits left after the magnet has been transformed< MSK1/>
+*Fruits left after the magnet has been transformed*
 
 ![[src_kangourou_2021_preecolier_koala__prob18.png]]
 

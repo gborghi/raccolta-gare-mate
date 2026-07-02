@@ -61,6 +61,6 @@ tags:
 
 > $k$ sia un numero intero positivo. Arnaldo e Bernaldo giocano su una tavola $2020 \times 2020$. Inizialmente tutte le celle della lavagna sono vuote. Una mossa consiste nel scegliere una cella vuota e metterci un token blu o rosso. Bernaldo vince se in qualsiasi momento esistono $k$ celle consecutive nella stessa riga o colonna tutte piene di gettoni dello stesso colore. Arnaldo è il primo, e da allora i giocatori si alternano. Arnaldo vince se a un certo punto l'intero tavolo viene riempito senza che Bernaldo vinca.
 > 
-> Trova tutti i valori di < MSK0/> per i quali Arnaldo ha una strategia vincente.
+> Trova tutti i valori di $k$ per i quali Arnaldo ha una strategia vincente.
 
 [[src_obm_2020_n2_fx__Q06]]

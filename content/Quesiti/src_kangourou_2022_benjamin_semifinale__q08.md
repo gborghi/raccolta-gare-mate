@@ -84,7 +84,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many correct statements about Ada and Bice running< MSK1/>
+*How many correct statements about Ada and Bice running*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob8.png]]
 

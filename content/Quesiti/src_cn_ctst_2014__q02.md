@@ -58,10 +58,10 @@ tags:
 
 *101-gon 2-coloring: massimizzare e contare i triangoli obtusi con condizione di colore alternato.*
 
-> Che < MSK0/> sia un normale < MSK1/>-gon. Colori tutti i vertici rossi o blu. $N$ è il numero di triangoli obtusi che soddisfano le seguenti condizioni: i tre vertici del triangolo devono essere vertici del $101$-gon, entrambi i vertici con angoli acuti hanno lo stesso colore e il vertice con angolo obtuso ha un colore diverso.
+> Che $A_1, A_2, \ldots, A_{101}$ sia un normale $101$-gon. Colori tutti i vertici rossi o blu. $N$ è il numero di triangoli obtusi che soddisfano le seguenti condizioni: i tre vertici del triangolo devono essere vertici del $101$-gon, entrambi i vertici con angoli acuti hanno lo stesso colore e il vertice con angolo obtuso ha un colore diverso.
 > 
 > (1) Trovare il più grande valore possibile di $N$.
 > 
-> (2) Trovare il numero di coloranti in modo tale da raggiungere il massimo < MSK0/>. (Due colorazioni sono diverse se qualche vertice è di colore diverso.)
+> (2) Trovare il numero di coloranti in modo tale da raggiungere il massimo $N$. (Due colorazioni sono diverse se qualche vertice è di colore diverso.)
 
 [[src_cn_ctst_2014__Q02]]

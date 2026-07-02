@@ -58,7 +58,7 @@ tags:
 
 *Coefficiente di conduzione massimo di un cubo la cui derivata è delimitata da 1 su [0,1]*
 
-> È noto che < MSK0/> (< MSK1/>) e < MSK2/> per < MSK3/>. Si prega di trovare il valore massimo di $a$.
+> È noto che $f(x) = ax^3 + bx^2 + cx + d$ ($a \ne 0$) e $|f'(x)| \le 1$ per $0 \le x \le 1$. Si prega di trovare il valore massimo di $a$.
 
 **Risposta:** $\frac{8}{3}$
 [[src_cn_cmc_2010__Q09]]

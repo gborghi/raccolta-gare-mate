@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>In which box the cat reaches the mouse< MSK1/>
+*In which box the cat reaches the mouse*
 
 ![[src_kangourou_2013_preecolier__prob13.png]]
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>For which n blacken cells with n per subgrid 3x3< MSK1/>
+*For which n blacken cells with n per subgrid 3x3*
 
 > You have a 5x5 grid and you want to blacken some of the cells in it so that in every 3x3 subgrid there are exactly n blackened cells. For which integers, from 1 to 8 inclusive, can you achieve the goal? (Sub-grids can be made by cutting only consecutive rows and columns.) A) Only 1 B) Only 1 and 2 C) Only 1, 2 and 3 D) Only 1, 2, 7 and 8 E) For each value of n (including 1 and 8)
 

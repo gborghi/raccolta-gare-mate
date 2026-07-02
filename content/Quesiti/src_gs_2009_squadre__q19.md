@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Magrathea templates, lengths with similarities (II) < MSK1/>
+*Magrathea templates, lengths with similarities (II) *
 
 ![[src_gs_2009_squadre__prob19.png]]
 

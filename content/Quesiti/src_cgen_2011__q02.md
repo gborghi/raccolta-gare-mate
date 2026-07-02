@@ -71,7 +71,7 @@ tags:
 
 > **Problema 2: Date il cambio!**
 > 
-> Un acquirente ha nella borsa delle monete < MSK0/>. Indichiamo $a_1, \ldots, a_n$ i valori facciali di queste monete - sono numeri interi strettamente positivi. Accordiamo di chiamare la capacità ** di questa borsa il numero intero più grande $M$ in modo che si possa pagare, senza cambiare, ogni somma (intera) da $1$ a $M$. Indichiamo $C(a_1, \ldots, a_n)$ la capacità della borsa contenente le monete $a_1, \ldots, a_n$.
+> Un acquirente ha nella borsa delle monete $n$. Indichiamo $a_1, \ldots, a_n$ i valori facciali di queste monete - sono numeri interi strettamente positivi. Accordiamo di chiamare la capacità ** di questa borsa il numero intero più grande $M$ in modo che si possa pagare, senza cambiare, ogni somma (intera) da $1$ a $M$. Indichiamo $C(a_1, \ldots, a_n)$ la capacità della borsa contenente le monete $a_1, \ldots, a_n$.
 > 
 > **1. In questa domanda presumiamo che $a_1 = 1$ e $a_1 \le a_2 \le \ldots \le a_n$.
 > 
@@ -81,7 +81,7 @@ tags:
 > 
 > **c.** Indicare un metodo per calcolare $C(a_1, \ldots, a_n)$.
 > 
-> < MSK3/>d.< MSK4/> Risolvi < MSK0/>. Come si scelgono gli enti $a_1, \ldots, a_n$ in modo che la capacità $C(a_1, \ldots, a_n)$ sia il più grande possibile?
+> **d.** Risolvi $n$. Come si scelgono gli enti $a_1, \ldots, a_n$ in modo che la capacità $C(a_1, \ldots, a_n)$ sia il più grande possibile?
 > 
 > **2. Con il cambio.** Il commerciante al quale il nostro acquirente va a fare acquisti ha anche una borsa, che gli consente di dare il cambio. Fissamo gli integri $n$ e $p$. Chiamiamo *capacità comune* il numero intero più grande $M$ in modo che si possa pagare (cioè effettuare l'operazione) ogni importo intero da $1$ a $M$. Come si possono scegliere i portafogli $(a_1, \ldots, a_n)$ dell'acquirente e $(v_1, \ldots, v_p)$ del venditore, in modo da offrire la massima capacità comune possibile?
 

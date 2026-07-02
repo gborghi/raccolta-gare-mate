@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The largest spicy two-digit number < MSK1/>
+*The largest spicy two-digit number *
 
 > We call a two-digit number piccante which is the sum of the sum of its digits and the product of its digits. Ad es. 89 is a spicy number because 89 = (8 + 9) + (8 × 9). What's the biggest spicy number?
 

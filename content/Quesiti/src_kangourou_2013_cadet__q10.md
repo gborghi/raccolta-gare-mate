@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of three integers from coupled products 14,10,35< MSK1/>
+*Sum of three integers from coupled products 14,10,35*
 
 > Three positive integers, multiplied by two to two, yield 14, 10, and 35. How much is their sum? A) 10
 > 	

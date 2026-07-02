@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n with decreasing residues divided by 10.2 < MSK1/>
+*Minimum n with decreasing residues divided by 10.2 *
 
 > Remains and Divisions What's the smallest positive integer that divided by 10 gives a remainder of 9, divided by 9 gives a remainder of 8, divided by 8 gives a remainder of 7 and so on until "divided by 2 gives a remainder of 1"?
 

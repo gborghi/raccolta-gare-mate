@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Figures not cut from 20x25 grid diagonal < MSK1/>
+*Figures not cut from 20x25 grid diagonal *
 
-> In a rectangular grid 20 < MSK0/> 25 the two diagonal lines are drawn. How many squares of the grid are not cut inside by the diagonals?
+> In a rectangular grid 20 × 25 the two diagonal lines are drawn. How many squares of the grid are not cut inside by the diagonals?
 >
 > - **(A)** 320
 > - **(B)** 326

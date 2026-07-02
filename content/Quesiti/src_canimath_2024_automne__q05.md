@@ -57,7 +57,7 @@ tags:
 
 *2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma L*
 
-> Considera una griglia < MSK0/>. Quentin ha $k$ colori e colori per ciascuna delle celle $2024^2$ della griglia con uno dei colori $k$, in modo che ogni colore sia utilizzato almeno una volta. Determinare il numero intero positivo più piccolo $k$ verificando la seguente proprietà:
+> Considera una griglia $2024 \times 2024$. Quentin ha $k$ colori e colori per ciascuna delle celle $2024^2$ della griglia con uno dei colori $k$, in modo che ogni colore sia utilizzato almeno una volta. Determinare il numero intero positivo più piccolo $k$ verificando la seguente proprietà:
 > 
 > Qualunque sia il colore di Quentin, si possono sempre trovare tre celle $C_1$, $C_2$ e $C_3$ di colori distinti in coppia in modo tale che $C_1$ e $C_2$ sono nella stessa riga, e $C_2$ e $C_3$ sono nella stessa colonna.
 

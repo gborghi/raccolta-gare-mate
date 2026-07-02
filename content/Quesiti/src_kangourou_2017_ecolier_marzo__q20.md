@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to see two newborns without starting with the lion< MSK1/>
+*How to see two newborns without starting with the lion*
 
 > A giraffe, an elephant, a lion and a bear were born recently at the zoo. Susanna has little time, but she wants to go see two different babies, but not start with the lion. How many different ways can you proceed? A) 3
 > 	

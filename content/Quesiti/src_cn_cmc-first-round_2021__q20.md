@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK0/>A1-9: f(x) = 9:12-log_3 <c_11, a<b<c con f(a) 2f(b) = 2f(c); trovare ac/b.*
+*A1-9: f(x) = 9:12-log_3 <c_11, a<b<c con f(a) 2f(b) = 2f(c); trovare ac/b.*
 
-> [Paper di prova A1, problema 9] (16 punti) Se si dà la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il valore di $\dfrac{ac}{b}$.
+> [Paper di prova A1, problema 9] (16 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il valore di $\dfrac{ac}{b}$.
 
 **Risposta:** 9
 [[src_cn_cmc-first-round_2021__Q20]]

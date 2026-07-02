@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which operation from the smallest result< MSK1/>
+*Which operation from the smallest result*
 
 > Which of the following results is the smallest? A)       x B)       : C)√     x D)      + E)       -
 

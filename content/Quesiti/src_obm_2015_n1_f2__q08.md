@@ -70,7 +70,7 @@ tags:
 > 
 > a) Qual è la superficie, in $\text{cm}^2$, del triangolo i cui vertici sono i punti $B$, $F$ e $D$?
 > 
-> b) Qual è la superficie, in < MSK0/>, del quadrilaterale < MSK1/>?
+> b) Qual è la superficie, in $\text{cm}^2$, del quadrilaterale $ACDF$?
 > 
 > c) I triangoli $ABC$ e $BCD$ si sovrappongono parzialmente. Qual è la superficie, in $\text{cm}^2$, della regione comune a entrambi i triangoli, indicata in grigio nella figura seguente?
 > 

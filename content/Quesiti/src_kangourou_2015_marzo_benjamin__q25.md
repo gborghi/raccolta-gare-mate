@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-This is the maximum BD-AC < MSK1/>
+This is the maximum BD-AC *
 
 > ABCD is a 4-digit number; the digits A, B, C and D are in increasing order from left to right. Consider the two numbers BD and AC: what is the maximum possible value of the difference BD-AC ? A) 86
 > 	

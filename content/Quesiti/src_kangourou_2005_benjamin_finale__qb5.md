@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum extractions to empty urns (variations +/-1) < MSK1/>
+*Minimum extractions to empty urns (variations +/-1) *
 
 > There are balls in an urn. We count subsequent extractions following strictly this procedure: - at the first extraction a ball is taken; - at each subsequent extraction (including the last) one more or one less ball is taken than the previous extraction.
 > 

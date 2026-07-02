@@ -66,6 +66,6 @@ tags:
 > 
 > a) Dimostra che $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 1$$ se e solo se $n$ è primo o $n = 4$.
 > 
-> b) Determinare i tre numeri interi più piccoli < MSK1/> per i quali < MSK0/>
+> b) Determinare i tre numeri interi più piccoli $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
 
 [[src_obm_2015_n2_f3__Q05]]

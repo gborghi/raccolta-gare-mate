@@ -56,7 +56,7 @@ tags:
 
 *Due trapezzi uguali uniti per formare un quadrato con buco quadrato interno; trovare area*
 
-> Unendo due trapeziodi uguali con basi $30\,\text{cm}$ e $50\,\text{cm}$, fianco a fianco, possiamo formare un quadrato di superficie $2500\,\text{cm}^2$, con un buco quadrato al centro. Qual è l'area di ciascun trapezoide, in < MSK3/>?
+> Unendo due trapeziodi uguali con basi $30\,\text{cm}$ e $50\,\text{cm}$, fianco a fianco, possiamo formare un quadrato di superficie $2500\,\text{cm}^2$, con un buco quadrato al centro. Qual è l'area di ciascun trapezoide, in $\text{cm}^2$?
 > 
 > A) 200 $\quad$ B) 250 $\quad$ C) 300 $\quad$ D) 350 $\quad$ E) 400
 

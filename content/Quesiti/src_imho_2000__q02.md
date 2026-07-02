@@ -51,6 +51,6 @@ tags:
 
 Inequality for positive reals with product 1
 
-> Let < MSK1/> be positive reals with product 1. Prove that $$\left(a - 1 + \frac{1}{b}\right)\left(b - 1 + \frac{1}{c}\right)\left(c - 1 + \frac{1}{a}\right) \le 1.$$
+> Let $a, b, c$ be positive reals with product 1. Prove that $$\left(a - 1 + \frac{1}{b}\right)\left(b - 1 + \frac{1}{c}\right)\left(c - 1 + \frac{1}{a}\right) \le 1.$$
 
 [[src_imho_2000__Q02]]

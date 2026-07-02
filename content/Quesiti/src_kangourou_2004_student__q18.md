@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ramage inscribed in a quarter circle< MSK1/>
+*Ramage inscribed in a quarter circle*
 
 ![[src_kangourou_2004_student__prob18.png]]
 

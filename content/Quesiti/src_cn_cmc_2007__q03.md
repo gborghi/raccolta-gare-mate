@@ -56,7 +56,7 @@ tags:
 
 *Probabilità che a - 2b + 10 > 0 per le palle disegnate con sostituzione*
 
-> Nove palle della stessa dimensione e colore, numerate < MSK0/>, sono state messe in un pacchetto. Ora $A$ tira una palla dal pacchetto, nota che è di numero $a$, e la rimette indietro. Poi $B$ trae anche una palla dal pacchetto e nota che è di numero $b$. Quindi la probabilità che l'ineguaglianza $a - 2b + 10 > 0$ sia mantenuta è $($\quad$)$.
+> Nove palle della stessa dimensione e colore, numerate $1, 2, \ldots, 9$, sono state messe in un pacchetto. Ora $A$ tira una palla dal pacchetto, nota che è di numero $a$, e la rimette indietro. Poi $B$ trae anche una palla dal pacchetto e nota che è di numero $b$. Quindi la probabilità che l'ineguaglianza $a - 2b + 10 > 0$ sia mantenuta è $($\quad$)$.
 > 
 > (A) $\dfrac{52}{81}$ $\quad$ (B) $\dfrac{59}{81}$ $\quad$ (C) $\dfrac{60}{81}$ $\quad$ (D) $\dfrac{61}{81}$
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Entire pairs with 2x offset+3 offset> < 23< MSK1/ offset
+* Entire pairs with 2x offset+3 offset> < 23*offset
 
 > In a training centre you can study foreign languages, programming and accounting. The $35\%$ of those studying a language study English; the $13\%$ of the students of the centre study a language other than English. No student studies more than one language. What percentage of students at the center study a language?
 >

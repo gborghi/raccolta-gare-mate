@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many haids weighed the whole cake (target cuts) < MSK1/>
+*How many haids weighed the whole cake (target cuts) *
 
 ![[src_kangourou_2019_ecolier_marzo__prob5.png]]
 

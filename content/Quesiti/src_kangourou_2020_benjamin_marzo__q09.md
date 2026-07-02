@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of apples to be moved to match the baskets< MSK1/>
+*Minimum number of apples to be moved to match the baskets*
 
 > I have four baskets containing 1, 4, 6 and 9 apples. I want to move some apples from one basket to another so that in the end each basket contains the same number of apples. What's the minimum number of apples I can move to make my project? A) 3
 > 	

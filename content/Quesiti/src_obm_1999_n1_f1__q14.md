@@ -57,7 +57,7 @@ tags:
 
 *Carte su una tabella; media di tutte è 5, media dei vicini di Y è 3; trovare X.*
 
-> Sette carte con numeri su una faccia sono posizionate a faccia in giù su una tavola, disposta in una griglia $2 \times 3$. Le schede $X$ e $Y$ sono posizionate con la faccia numerata verso l'alto. La disposizione è: $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$ La media aritmetica dei numeri su tutte le carte è 5. La media aritmetica dei numeri della carta $Y$ e dei suoi tre vicini è di 3. Qual è il numero scritto sulla scheda < MSK5/>?
+> Sette carte con numeri su una faccia sono posizionate a faccia in giù su una tavola, disposta in una griglia $2 \times 3$. Le schede $X$ e $Y$ sono posizionate con la faccia numerata verso l'alto. La disposizione è: $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$ La media aritmetica dei numeri su tutte le carte è 5. La media aritmetica dei numeri della carta $Y$ e dei suoi tre vicini è di 3. Qual è il numero scritto sulla scheda $X$?
 > 
 > (A) $-4$ \quad (B) 12 \quad (C) 0 \quad (D) 15 \quad (E) 10
 

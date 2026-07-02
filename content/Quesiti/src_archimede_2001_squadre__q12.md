@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minor segment< MSK1/>
+*minor segment*
 
 > Furniture ** (40 points)
 > 

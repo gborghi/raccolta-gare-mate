@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many sets of S with a given union equal to {1.9.}< MSK1/>
+*How many sets of S with a given union equal to {1.9.}*
 
-> For how many different sets of S is it true that S < MSK0/> {1, 2, 3, 4, 5} = {1, 2, 3, ..., 9} ? A) 512 B) 32
+> For how many different sets of S is it true that S ∪ {1, 2, 3, 4, 5} = {1, 2, 3, ..., 9} ? A) 512 B) 32
 > 	
 > C) 256 D) 16
 > 	

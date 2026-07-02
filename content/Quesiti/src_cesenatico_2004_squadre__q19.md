@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference between equal and odd ways of illuminating 6 windows< MSK1/>
+*Difference between equal and odd ways of illuminating 6 windows*
 
 > The throne room The throne room of Franquie is illuminated by 6 large windows. The windows can be completely darkened from the inside with a tent, or from the outside with a wooden panel. The Queen's maid of honor counted all the different ways of opening or closing, regardless, curtains and panels, so that light would enter through an equal number of windows. The king's shield, on the other hand, counted all the different ways of opening or closing the curtains and panels, for which the windows illuminating the hall are in odd number. What's the difference between these two numbers?
 

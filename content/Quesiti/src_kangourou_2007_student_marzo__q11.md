@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times a child divides his mother< MSK1/>
+*How many times a child divides his mother*
 
 > Thomas was born on the day his mother turned 20 and so they celebrate their birthday together. If they both live long enough, how many times will Thomas' age (in years) be a divider of his mother's age? A) 4 B) 5 C) 6 D) 7 E) 8
 

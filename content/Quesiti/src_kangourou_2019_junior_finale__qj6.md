@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>AEF circle lies on the semicircle AB (acute triangle orthocentric) < MSK1/>
+*AEF circle lies on the semicircle AB (acute triangle orthocentric) *
 
 ![[src_kangourou_2019_junior_finale__probJ6.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of two out of three births on the same day of the week< MSK1/>
+*Probability of two out of three births on the same day of the week*
 
 > Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the comma).
 

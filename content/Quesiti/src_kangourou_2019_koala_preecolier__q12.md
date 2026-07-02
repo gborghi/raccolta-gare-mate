@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many different routes for the cat to milk< MSK1/>
+*How many different routes for the cat to milk*
 
 ![[src_kangourou_2019_koala_preecolier__prob12.png]]
 

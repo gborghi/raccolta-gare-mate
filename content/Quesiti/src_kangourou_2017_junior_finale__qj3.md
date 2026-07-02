@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Flight time with winds going back and forth< MSK1/>
+*Flight time with winds going back and forth*
 
 > (**11 points**) A scheduled aircraft flies daily from an airport $A$ to an airport $B$ and returns from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind at all, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
 

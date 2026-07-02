@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Regolare 2020-gon con etichette distinte; mostrare alcuni n soddisfa le disuguaglianze< MSK1/>
+*Regolare 2020-gon con etichette distinte; mostrare alcuni n soddisfa le disuguaglianze*
 
 > C'è un normale $2020$-gon, e i vertici $1, 2, \ldots, 2020$ sono disposti nel senso orario. Inoltre, separatamente dai numeri delle vertici, un numero intero positivo distinto è assegnato a ciascun vertice (in modo che due vertici non ricevano lo stesso numero intero). Indicare che esiste un numero intero $n$ con $1 \le n \le 2020$ che soddisfa la seguente condizione:
 > 

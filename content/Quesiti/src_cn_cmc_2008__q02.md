@@ -55,7 +55,7 @@ tags:
 
 *Intervallo di parametro a in modo che B sia un sottoinsieme di A*
 
-> Per esempio, < MSK0/>, < MSK1/>. Se $B \subseteq A$, allora l'intervallo di $a$ è ( ).
+> Per esempio, $A = [-2, 4)$, $B = \{x \mid x^2 - ax - 4 < 0\}$. Se $B \subseteq A$, allora l'intervallo di $a$ è ( ).
 > 
 > (A) $[-1, 2)$ \quad (B) $[1, 2]$ \quad (C) $[0, 3]$ \quad (D) $[0, 3)$
 

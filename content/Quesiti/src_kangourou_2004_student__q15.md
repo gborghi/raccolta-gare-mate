@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>A positive integer count on a 3 basis weighted < MSK1/>
+*A positive integer count on a 3 basis weighted *
 
 > How many positive integers can be written in the form a0 + 3 a1 + 32 a2 + 33 a3 + 34 a4 with a0 , a1 , a2 , a3 , a4 belonging to the set {-1, 0, 1}? A) 5 B) 80 C) 81 D) 121        E) 243
 

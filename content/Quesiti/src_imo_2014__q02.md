@@ -47,6 +47,6 @@ tags:
 
 *Maximum k with square k×k free of peace towers*
 
-> It is < MSK0/> a whole. A chessboard $n \times n$ composed of $n^2$ square units shall be considered. A configuration of $n$ towers on this chessboard is said to be **pacific** if each row and column contains exactly one tower. Find the largest positive integer $k$ such that, for each peaceful configuration of $n$ towers, there exists a square $k \times k$ that contains no tower on any of its $k^2$ unit squares.
+> It is $n \geq 2$ a whole. A chessboard $n \times n$ composed of $n^2$ square units shall be considered. A configuration of $n$ towers on this chessboard is said to be **pacific** if each row and column contains exactly one tower. Find the largest positive integer $k$ such that, for each peaceful configuration of $n$ towers, there exists a square $k \times k$ that contains no tower on any of its $k^2$ unit squares.
 
 [[src_imo_2014__Q02]]

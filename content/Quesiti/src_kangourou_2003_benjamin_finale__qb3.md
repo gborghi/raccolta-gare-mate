@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length of the magical rectangle< MSK1/>
+*Length of the magical rectangle*
 
 > Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills its owner's wish. After $5$ desired its area is $2\,\text{cm}^2$, while after $2$ desired its height was $4\,\text{cm}$. How long did he have after he fulfilled his first wish?
 

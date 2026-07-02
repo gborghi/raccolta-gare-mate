@@ -61,7 +61,7 @@ tags:
 
 *Minimum n in modo che un certo punto buono si trovi su n linee rotte a forma di Z in una griglia*
 
-> Nel piano $xy$, un punto di rete $(x, y)$ è chiamato **good** se $1 < x \le 2000$ e $1 < y \le 2000$ (cioè.~ entrambe le coordinate sono interi con $2 \le x \le 2000$ e $2 \le y \le 2000$). Per quattro punti buoni $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$, il percorso poligonale $ABCD$ si chiama linea rotta ** a forma di Z** se tutti i seguenti punti: - $A, B, C, D$ sono tutti punti buoni. - < MSK12/> e < MSK13/>. - $x_2 > x_3$ e $y_2 > y_3$. - < MSK16/> e < MSK17/>.
+> Nel piano $xy$, un punto di rete $(x, y)$ è chiamato **good** se $1 < x \le 2000$ e $1 < y \le 2000$ (cioè.~ entrambe le coordinate sono interi con $2 \le x \le 2000$ e $2 \le y \le 2000$). Per quattro punti buoni $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$, il percorso poligonale $ABCD$ si chiama linea rotta ** a forma di Z** se tutti i seguenti punti: - $A, B, C, D$ sono tutti punti buoni. - $x_1 < x_2$ e $y_1 = y_2$. - $x_2 > x_3$ e $y_2 > y_3$. - $x_3 < x_4$ e $y_3 = y_4$.
 > 
 > Qui una linea rotta a forma di Z $ABCD$ è composta da segmenti $AB$, $BC$, $CD$ (compresi i loro punti di fine).
 > 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Anni senza incidente necessari per rendere utile l'assicuratore A< MSK1/>
+*Anni senza incidente necessari per rendere utile l'assicuratore A*
 
 > Le compagnie di assicurazione automobilistica A e B addebitano un valore annuale (premia) più un valore che l'utente deve pagare in caso di incidente (deduttibile, franquia). Jean vuole assicurare la sua auto e ha ricevuto dalle assicuratrici le seguenti proposte: Assicuratore A: Premia annuale di R\$ 1500.00 and deductible of R\$ 1400.00 Assicuratore B: Premia annuale di R\$ 1700.00 and deductible of R\$ 700.00 Per far valere la pena che Jean assumi Assicuratore A, non deve avere un incidente con la macchina per almeno $N$ anni. Il valore di $N$ è:
 > 

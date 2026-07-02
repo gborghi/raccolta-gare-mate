@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities of X with X+Y+Z=60 (digit sums) < MSK1/>
+*Quantities of X with X+Y+Z=60 (digit sums) *
 
 > We denote with Y the sum of the digits of the positive integer X and with Z the sum of the digits of the number Y. For how many positive integers X happens that X + Y + Z is equal to 60 ? A) 0 B) 1 C) 2 D) 3 E) More than 3
 

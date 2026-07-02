@@ -61,10 +61,10 @@ tags:
 
 *Contare i numeri giuridici a 4 cifre definiti con la condizione somma di cifre*
 
-> < MSK0/>Problema 4< MSK1/> (parte B)
+> **Problema 4** (parte B)
 > 
 > Un numero a 4 cifre $\overline{abcd}$ è chiamato *legal* se la somma del numero formato dalle sue prime due cifre e il numero formato dalle sue ultime due cifre è uguale al numero formato dalle sue due cifre medie. In altre parole, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalentemente, $(10a + b) + (10c + d) = 10b + c$). Ad esempio, $2307$ è legale perché $23 + 07 = 30$.
 > 
-> (a) Qual è il numero legale più piccolo di < MSK0/>? (b) Quanti numeri legali di 4 cifre ci sono?
+> (a) Qual è il numero legale più piccolo di $2307$? (b) Quanti numeri legali di 4 cifre ci sono?
 
 [[src_obm_2004_n2_f2__Q09]]

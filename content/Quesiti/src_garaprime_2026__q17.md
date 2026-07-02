@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of figures from 10^2026 - 2026< MSK1/>
+*Summary of figures from 10^2026 - 2026*
 
 > Nicolò enjoys calculating the sum of the digits of the number 102026 −2026. What's your number?
 >

@@ -70,7 +70,7 @@ tags:
 
 > Nella figura seguente, $ABCDEFGH$ è un ottagono regolare con lato di 6 cm. I punti $M$ e $N$ sono rispettivamente i punti intermedi di $AB$ e $CD$. Il punto $T$ è l'incrocio delle linee $AB$ e $CD$. In questo modo, $OMTN$ è un quadrato. Inoltre, le lunghezze di $BP$ e $CQ$ sono entrambe di 5 cm. È noto che un ottagono regolare ha angoli interni di $135^\circ$ e tutti i lati di uguale lunghezza.
 > 
-> a) Determinare la lunghezza del segmento < MSK0/>.
+> a) Determinare la lunghezza del segmento $MP$.
 > 
 > b) Determinare il quadrato della lunghezza del segmento $BT$, cioè $BT^2$.
 > 

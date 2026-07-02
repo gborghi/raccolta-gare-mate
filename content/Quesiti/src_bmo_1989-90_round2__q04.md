@@ -52,12 +52,12 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'area massima dei triangoli inseriti in T; prova AI^2 = AB·AC per incentro I< MSK1/>
+*L'area massima dei triangoli inseriti in T; prova AI^2 = AB·AC per incentro I*
 
-> Un insieme di triangoli deve essere inscritto in un triangolo $T$ (cioè i vertici si trovano sul confine di $T$). Trova il valore massimo di $\text{Area}(\Delta)$ su tutti i triangoli inseriti.
+> Un insieme di triangoli deve essere inserito in un triangolo $T$ (cioè i vertici si trovano sul confine di $T$). Trova il valore massimo di $\text{Area}(\Delta)$ su tutti i triangoli inseriti.
 > 
 > Il $I$ deve essere il centro del cerchio inscritto nel triangolo $ABC$, con $AB$ e $AC$ prodotti al di là di $B$ e $C$ rispettivamente.
 > 
-> Provare che < MSK0/>
+> Provare che $$AI^2 = AB \cdot AC.$$
 
 [[src_bmo_1989-90_round2__Q04]]

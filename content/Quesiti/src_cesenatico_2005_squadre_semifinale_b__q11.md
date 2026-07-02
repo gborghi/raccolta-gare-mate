@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining of 3^210 divided by 2^13< MSK1/>
+*Remaining of 3^210 divided by 2^13*
 
 > Calculate the remainder of the division of $3^{2^{10}}$ by $2^{13}$.
 

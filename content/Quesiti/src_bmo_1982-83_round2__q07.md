@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>In una colonia di topi mn+1 dimostrare l'esistenza di un anticatenato o di una catena di tipo Dilworth< MSK1/>
+*In una colonia di topi mn+1 dimostrare l'esistenza di un anticatenato o di una catena di tipo Dilworth*
 
 > In una colonia di topi $(mn + 1)$, dimostrare che almeno una delle seguenti affermazioni è vera:
 > 

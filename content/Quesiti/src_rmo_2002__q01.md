@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>I piedi dei ceviani sono le altitudini se i rapporti dati sostengono < MSK1/>
+*I piedi dei ceviani sono le altitudini se i rapporti dati sostengono *
 
 > In un triangolo acuto $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$ in modo tale che $$\frac{CD}{CE} = \frac{CA}{CB},\quad \frac{AE}{AF} = \frac{AB}{AC},\quad \frac{BF}{BD} = \frac{BC}{BA}.$$ dimostri che $AD$, $BE$, $CF$ sono le altitudini di $ABC$.
 

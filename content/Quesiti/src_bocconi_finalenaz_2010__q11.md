@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum cycling distance in three and a half hours< MSK1/>
+*Maximum cycling distance in three and a half hours*
 
 > John finished a three-and-a-half-hour bike ride. In each one-hour interval, he traveled 12 kilometers.
 > 

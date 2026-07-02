@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Turbo the snail, minimum n guaranteed attacks< MSK1/>
+*Turbo the snail, minimum n guaranteed attacks*
 
 > Turbo the snail plays a game on a board with rows and columns. There are hidden monsters in the cells. Initially, Turbo doesn't know where any of the monsters are, but he knows that there is exactly one monster in each row except the first row and the last row, and that each column contains at most one monster.
 > 

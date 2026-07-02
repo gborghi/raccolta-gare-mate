@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of males with distance restriction< MSK1/>
+*Maximum number of males with distance restriction*
 
 > Ten students, male and female, are in line. However you choose two males in a row, the number of students standing between those two males is different from 2. How many males can there be in line at most? A) 7
 >         	

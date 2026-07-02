@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum path of the ant and farthest point < MSK1/>
+*Minimum path of the ant and farthest point *
 
 ![[src_kangourou_2009_cadet_maggio__probC5.png]]
 

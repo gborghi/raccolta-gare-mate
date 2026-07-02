@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Evaluare l'espressione 4^800 / 8^400.< MSK1/>
+*Evaluare l'espressione 4^800 / 8^400.*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $\frac{4^{800}}{8^{400}}$?
 >
 > - **(A)** $\frac{1}{2^{400}}$
 > - **(B)** $\frac{1}{2^{200}}$

@@ -88,13 +88,13 @@ tags:
 
 > L'agente 1234 deve disattivare una bomba protetta da una serratura combinata.
 > 
-> La serratura è costituita da ruote indipendenti < MSK0/>. Ogni ruota è costituita da incisioni $n \ge 2$ numerate da $0$ a $n-1$. L'agente può girare una ruota con un punto (un clic), ma, nel farlo, la ruota può muoversi solo in una sola direzione: $0 \to 1 \to \cdots \to n-1 \to 0$. La serratura è inizialmente in posizione $0\ldots0$.
+> La serratura è costituita da ruote indipendenti $r \ge 2$. Ogni ruota è costituita da incisioni $n \ge 2$ numerate da $0$ a $n-1$. L'agente può girare una ruota con un punto (un clic), ma, nel farlo, la ruota può muoversi solo in una sola direzione: $0 \to 1 \to \cdots \to n-1 \to 0$. La serratura è inizialmente in posizione $0\ldots0$.
 > 
 > Se l'agente riesce a visualizzare la combinazione corretta, la bomba viene disattivata automaticamente. Inoltre, poiché la serratura è rudimentale, la bomba tiene traccia di tutte le combinazioni già visualizzate in precedenza; quindi, se la combinazione corretta è già stata visualizzata in precedenza, la posizione $0\ldots0$ inclusa, l'esplosione è già stata attivata.
 > 
 > Dal momento che l'agente non conosce la combinazione, il suo unico obiettivo è trovare una sequenza di movimenti che passa attraverso tutte le combinazioni possibili almeno una volta.
 > 
-> Ad esempio, se $n=3$ e $r=2$, l'agente prova ogni combinazione con la sequenza $00 \to 10 \to 11 \to 21 \to 22 \to 02 \to 12 \to 00$. Una sequenza non può essere $01 \to 11 \to 21 \to 01$ poiché la combinazione $01$ si ripete, né $01 \to 21$ poiché le ruote non possono avanzare di due clic contemporaneamente.
+> Ad esempio, se $n=3$ e $r=2$, l'agente prova ogni combinazione con la sequenza $00 \to 10 \to 11 \to 21 \to 22 \to 02 \to 12 \to 00$. Una sequenza non può essere $01 \to 11 \to 21 \to 01$ poiché la combinazione $01$ è ripetuta, né $01 \to 21$ poiché le ruote non possono avanzare di due clic contemporaneamente.
 > 
 > **(1) ** In questa domanda supponiamo $n=10$ e $r=3$. E' possibile che l'agente possa disattivare la bomba con certezza? In caso contrario, qual è il numero massimo di combinazioni verificabili?
 > 
@@ -102,13 +102,13 @@ tags:
 > 
 > **(3) ** Rivedi la domanda (2) se l'agente non può mai girare la stessa ruota due volte di seguito.
 > 
-> < MSK3/>(4) < MSK4/> Lasciate < MSK0/>. Rivedi la domanda (2) se l'agente non può girare una ruota che è tra le ultime ruote girate $d$ (la domanda precedente corrisponde a $d=1$).
+> **(4) ** Lasciate $2 \le d \le r-1$. Rivedi la domanda (2) se l'agente non può girare una ruota che è tra le ultime ruote girate $d$ (la domanda precedente corrisponde a $d=1$).
 > 
-> < MSK6/>(5) < MSK7/> Lasciate < MSK0/>. Rivisitare la domanda (2) se, invece di girare una ruota alla volta, l'agente le gira $k$ in una volta, ciascuna a un punto (senza passare attraverso una combinazione intermedia). Per esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 011 \to 112 \to 213 \to \cdots$
+> **(5) ** Lasciate $2 \le k \le r$. Rivisitare la domanda (2) se, invece di girare una ruota alla volta, l'agente le gira $k$ in una volta, ciascuna a un punto (senza passare attraverso una combinazione intermedia). Per esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 011 \to 112 \to 213 \to \cdots$
 > 
-> < MSK8/>(6) < MSK9/> Lasciate < MSK0/>. Rivisitare la domanda (2) se, invece di girare una ruota alla volta, l'agente ne gira $k$ contemporaneamente: la prima per una notta, la seconda per 2, e così via fino alla $k$-th per $k$ (senza passare attraverso una combinazione intermedia). Ad esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 012 \to 222 \to 342 \to \cdots$
+> **(6) ** Lasciate $2 \le k \le r$. Rivisitare la domanda (2) se, invece di girare una ruota alla volta, l'agente ne gira $k$ contemporaneamente: la prima per una notta, la seconda per 2, e così via fino alla $k$-th per $k$ (senza passare attraverso una combinazione intermedia). Ad esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 012 \to 222 \to 342 \to \cdots$
 > 
-> **(7) ** In questa domanda, supponiamo $n=10$. Let < MSK1/>. L'agente 1234 ha scoperto che la bomba ha un difetto di fabbricazione, e la combinazione è un multiple di MSK2/. Cerca quindi sequenze di movimenti che passano attraverso diverse combinazioni che sono multipli di $m$, facendo al contempo il minor numero di movimenti possibile. Rivedere le domande precedenti in questo quadro. Si può iniziare trattando la domanda (2) per i valori $m = 10, 2, 3, 4$.
+> **(7) ** In questa domanda, supponiamo $n=10$. Let $m \ge 2$. L'agente 1234 ha scoperto che la bomba ha un difetto di fabbricazione, e la combinazione è un multiple di$m$. Cerca quindi sequenze di movimenti che passano attraverso diverse combinazioni che sono multipli di $m$, facendo al contempo il minor numero di movimenti possibile. Rivedere le domande precedenti in questo quadro. Si può iniziare trattando la domanda (2) per i valori $m = 10, 2, 3, 4$.
 > 
 > **(8) ** Proporre e esplorare altre direzioni di ricerca.
 

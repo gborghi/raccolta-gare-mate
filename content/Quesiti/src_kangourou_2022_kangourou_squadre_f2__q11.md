@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n with adjacent sums of perfect squares< MSK1/>
+*Minimum n with adjacent sums of perfect squares*
 
 > Squares in pairs For some values of n, but not all, the sum of the first n positive integers can be ordered so that the sum of two integers that, in this new order, come to be adjacent is always a perfect square. Which is the smallest of the n values for which this happens?
 

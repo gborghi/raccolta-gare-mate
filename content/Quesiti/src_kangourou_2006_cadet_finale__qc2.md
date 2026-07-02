@@ -78,7 +78,7 @@ tags:
 \end{document}
 ```
 
-> A metal bar, which for simplicity's sake is assumed to be threaded and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall makes an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does MSK1/ describe on the wall? Reason for your statement. (see figure)
+> A metal bar, which for simplicity's sake is assumed to be threaded and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall makes an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does$M$describe on the wall? Reason for your statement. (see figure)
 
 **Answer:** quarto di circonferenza
 [[src_kangourou_2006_cadet_finale__QC2]]

@@ -53,6 +53,6 @@ tags:
 
 *Contare le coppie non ordinate {A,B} sottoinsieme di {1,...,10} con A∩B={2,3,5,7}*
 
-> Let < MSK0/>. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7\}$.
+> Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7\}$.
 
 [[src_rmo_2012_r1__Q04]]

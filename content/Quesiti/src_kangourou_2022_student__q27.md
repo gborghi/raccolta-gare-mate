@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Laser beam in an equilateral triangle, distance PA< MSK1/>
+*Laser beam in an equilateral triangle, distance PA*
 
 ![[src_kangourou_2022_student__prob27.png]]
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum time< MSK1/>
+*minimum time*
 
 ![[src_archimede_2003_individuale__prob2.png]]
 

@@ -66,7 +66,7 @@ tags:
 > 
 > $$\begin{array}{|c|c|}\hline A & B \\ \hline C & D \\ \hline\end{array}$$
 > 
-> a) Quante tabelle diverse esistono in modo tale che < MSK0/>?
+> a) Quante tabelle diverse esistono in modo tale che $B = C$?
 > 
 > b) Quante tabelle diverse esistono in totale?
 

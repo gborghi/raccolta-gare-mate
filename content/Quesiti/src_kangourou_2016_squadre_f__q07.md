@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum initial confectionery with fractions taken from two < MSK1/>
+*Minimum initial confectionery with fractions taken from two *
 
 > A vase contains some confetti. She passes Simone and takes 1/15 of it; then she passes Sarah and takes 1/8 of what Simon left behind. Before Simon arrived, the vessel required the smallest amount of confetti with which it was possible for this to happen. How many confections were there?
 

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Prove (2m)!(2n)!/(m!n!(m+n)!) is an integer< MSK1/>
+*Prove (2m)!(2n)!/(m!n!(m+n)!) is an integer*
 
 > Let $m$ and $n$ be arbitrary non-negative integers. Prove that
 > 

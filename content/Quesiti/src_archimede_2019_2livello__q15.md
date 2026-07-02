@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Lamp lamps in a row, moved with first ratio < MSK1/>
+*Lamp lamps in a row, moved with first ratio *
 
 > There are 4037 lamps arranged in rows and numbered from 1 to 4037. Initially, each light bulb can be switched on or off. One move consists of choosing two bulbs numbered a, b such that a/b or b/a is a prime number and changing the status of both. Demonstrate that in a finite number of moves you can make the bulbs from 1 to 2019 all on whatever the initial configuration is.
 

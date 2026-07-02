@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Perimetro triangolare 2p, radio circundante R, radio ininterrato r: mostra p < 2(R+r) < MSK1/>
+*Perimetro triangolare 2p, radio circundante R, radio ininterrato r: mostra p < 2(R+r) *
 
 > Il $R$ e il $r$ siano rispettivamente il circondario e l'inradio di un triangolo di perimetro $2p$. Mostra che $p < 2(R + r)$.
 

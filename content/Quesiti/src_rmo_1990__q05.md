@@ -49,6 +49,6 @@ tags:
 
 *Punto P all'interno del triangolo ABC con perimetro 2s: prova s < AP+BP+CP < 2s*
 
-> $P$ è qualsiasi punto all'interno di un triangolo $ABC$. Il perimetro del triangolo $AB + BC + CA = 2s$. Provare che < MSK0/>
+> $P$ è qualsiasi punto all'interno di un triangolo $ABC$. Il perimetro del triangolo $AB + BC + CA = 2s$. Provare che $$s < AP + BP + CP < 2s.$$
 
 [[src_rmo_1990__Q05]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of two adjacent white seals< MSK1/>
+*Probability of two adjacent white seals*
 
 > Two white crab and eight gray crab are flying over a river. Suddenly they land on one of the banks of the river, arranged in a straight line in random order. What is the probability that the two white cabbages are next to each other? A) 1/5 B) 1/6 C) 1/7 D) 1/8 E) 1/9
 

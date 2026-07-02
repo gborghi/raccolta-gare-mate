@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> slower than a fifth < MSK1/>
+* slower than a fifth *
 
 > Stephania leaves home on foot to visit a friend in a nearby town, stops by her for an hour and returns home. For fatigue, on return every hour of walking it covers a distance less than one fifth of that covered in an hour of walking. In this way, returning home generally takes an hour longer than usual. How many hours have you been away from home?
 

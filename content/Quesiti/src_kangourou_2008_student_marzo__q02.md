@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of x^2008/y^2008 with x+y=0< MSK1/>
+*Value of x^2008/y^2008 with x+y=0*
 
 > If x + y = 0 and x ≠y, then = A) −1 B) 0 C) 1 D) 22008 E) x/y
 

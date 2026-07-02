@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Water-related functions, minimum c values f (r) + f (r) < MSK1/>
+Water-related functions, minimum c values f (r) + f (r) *
 
 > Let $\mathbb{Q}$ be the set of rational numbers. A function $f : \mathbb{Q} \to \mathbb{Q}$ is called *aquaesulian* if the following property holds: for every $x, y \in \mathbb{Q}$, $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$
 > 

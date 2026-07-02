@@ -72,7 +72,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Longest length between CD and CE< MSK1/>
+*Longest length between CD and CE*
 
 ![[src_kangourou_2020_junior_finale__prob5.png]]
 

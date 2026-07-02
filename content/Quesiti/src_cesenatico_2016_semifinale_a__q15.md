@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Values of p(3) for monic cubic feet with constraints< MSK1/>
+*Values of p(3) for monic cubic feet with constraints*
 
 > A fjord on Mathratea the world builder, Schwarzibartfast, is building an exact copy of planet Earth, complete to the last fjord. Initially he wanted to build a fjord for every possible monic polynomial with real coefficients of degree 3 such that p(1) = 1, p(2) = 2 and p(3) is an integer. Realizing that these are infinite, he decided to limit himself to those in which all the coefficients have an absolute value of less than or equal to 5600. How many different values can p(3) assume?
 

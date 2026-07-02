@@ -57,7 +57,7 @@ tags:
 
 *Contare le caselle non vuote rimanenti dopo operazioni di divisione 50^25 a partire da una casella*
 
-> C'è una scatola contenente pietre < MSK0/>. Si ripete la seguente operazione: scegliere una scatola non vuota, rimuovere le sue pietre una per una, inserendo ciascuna pietra in una scatola (vuota) appena creata; quindi scartare la scatola originale (ora vuota). Dopo aver eseguito l'operazione $50^{25}$ in totale, quante scatole non vuote rimangono?
+> C'è una scatola contenente pietre $50^{25}$. Si ripete la seguente operazione: scegliere una scatola non vuota, rimuovere le sue pietre una per una, inserendo ogni pietra in una scatola (vuota) appena creata; quindi scartare la scatola originale (ora vuota). Dopo aver eseguito l'operazione $50^{25}$ in totale, quante scatole non vuote rimangono?
 
 **Risposta:** 10 \cdot 50^{12} - 1
 [[src_jjmo23yqa_yosen__Q05]]

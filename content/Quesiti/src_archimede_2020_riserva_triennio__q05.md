@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum n with a 24^n divider of 60^100< MSK1/>
+*Maximum n with a 24^n divider of 60^100*
 
 > Indicate the maximum integer n such that 24n is a divisor of 60100.
 >

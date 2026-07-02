@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Perimeter of the canvas of Elsa< MSK1/>
+*Perimeter of the canvas of Elsa*
 
 ![[src_kangourou_2001_ecolier__prob21.png]]
 

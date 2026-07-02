@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes in the target third of a quarter of the day< MSK1/>
+*Minutes in the target third of a quarter of the day*
 
 > How many minutes is half a third of a quarter of a day? A) 20         B) 30        C) 60           D) 120           E) 150
 

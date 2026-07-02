@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum boxes to remove to open the black< MSK1/>
+*Minimum boxes to remove to open the black*
 
 ![[src_kangourou_2022_ecolier_gara__prob2.png]]
 

@@ -81,17 +81,17 @@ tags:
 
 > Campionati con sospensione. $n\ge 2$ sia un numero intero. Vincent vuole organizzare un campionato con sospensione tra i giocatori. Vuole che ogni giocatore giochi a turno contro ciascuno degli altri, in modo che la classifica finale sia conosciuta il più tardi possibile. Una coppia non gioca mai due volte. Scriviamo $T(n)$ per il numero minimo di giorni necessari per organizzare il torneo.
 > 
-> 1. Che cos' è < MSK0/>?
+> 1. Che cos' è $T(n)$?
 > 
 > Vincent decide sulle seguenti regole. Il vincitore di una partita segna $1$ punti e il perdente $0$ punti. Alla fine del campionato, i giocatori sono classificati per numero decrescente di punti. In caso di pareggio, uno procede a caso con un pareggio. I giocatori pari possono essere classificati in qualsiasi ordine.
 > 
-> 2. Let < MSK0/>. Qual è il maggior numero possibile di punti del giocatore classificato $k$-th nella classifica finale? Il minor numero possibile di punti?
+> 2. Let $1\le k\le n$. Qual è il maggior numero possibile di punti del giocatore classificato $k$-th nella classifica finale? Il minor numero possibile di punti?
 > 
 > Vincent non vuole perdere tempo. Nel resto del problema, supponiamo che il campionato sia sempre organizzato in giorni esatti. Sebbene il modo di organizzare il campionato possa variare, a Vincent piace il sospenso sulla classifica finale per durare il più a lungo possibile. Ma sa che non è sempre così.
 > 
 > 3. Dopo $j$ giorni, un giocatore sa che, qualunque sia il risultato dei giorni rimanenti, sarà il primo nella classifica finale. Calcolare il minimo $j$ per il quale ciò sia possibile.
 > 
-> 4. Risparmiare < MSK0/>. Riprendi la domanda precedente con un giocatore che sa che sarà classificato $k$-th nella classifica finale.
+> 4. Risparmiare $1\le k\le n$. Riprendi la domanda precedente con un giocatore che sa che sarà classificato $k$-th nella classifica finale.
 > 
 > 5. L'ultimo giorno, i giocatori $p$ conoscono già con certezza la loro classifica finale. Qual è il massimo valore possibile di $p$? E sostituire "all'ultimo giorno" con "dopo $j$ giorni"?
 > 

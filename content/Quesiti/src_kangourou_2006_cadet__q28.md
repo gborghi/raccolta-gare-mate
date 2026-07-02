@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to approach cars with S closer to T< MSK1/>
+*How to approach cars with S closer to T*
 
 > A locomotive pulls a train of five cars, S, T, U, V and W. In how many ways can the wagons be approached if the locomotive is to be closer to the S-wagon than the T-wagon? A) 120 B) 60 C) 48 D) 30 E) 10
 

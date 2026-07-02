@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total numbers are 20 times the sum of the digits < MSK1/>
+*Total numbers are 20 times the sum of the digits *
 
 > How many positive integers, written in decimal notation, are 20 times the sum of their digits? (Write [9999] if you believe there are infinitesimal.)
 

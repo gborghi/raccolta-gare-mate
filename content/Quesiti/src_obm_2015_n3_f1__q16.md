@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nello più piccolo di questo n! finisce esattamente nel 2016 con i zeri tracciati*
+*Nello più piccolo di questo n! finisce esattamente nel 2016 con i zeri tracciati*
 
 > Per un intero positivo $n$, il fattorial è $n! = 1 \cdot 2 \cdot 3 \cdots n$. Non esiste un $n$ per il quale $n!$ finisce esattamente in zero traccianti per il 2015. Trova il minimo $n$ in modo tale che $n!$ finisca esattamente negli zero traccianti del 2016.
 > 

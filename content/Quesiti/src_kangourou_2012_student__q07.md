@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Maximum positive integer n with n^200 < 5^300 < MSK1/>
+Maximum positive integer n with n^200 < 5^300 *
 
 > The maximum positive integer n for which n200 < 5300 is A) 5. B) 6. C) 8. D) 11. (E) 12.
 

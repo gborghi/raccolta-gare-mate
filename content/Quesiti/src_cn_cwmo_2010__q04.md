@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prove il limite superiore del prodotto massimo dato il limite di tre momenti< MSK1/>
+*Prove il limite superiore del prodotto massimo dato il limite di tre momenti*
 
 > $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ siano numeri non negativi che soddisfino contemporaneamente le seguenti condizioni:
 > 

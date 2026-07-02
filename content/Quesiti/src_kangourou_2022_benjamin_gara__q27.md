@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Flat development that does not produce the solid shown< MSK1/>
+*Flat development that does not produce the solid shown*
 
 ![[src_kangourou_2022_benjamin_gara__prob27.png]]
 

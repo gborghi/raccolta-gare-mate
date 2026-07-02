@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age of the two children's product (age problem) < MSK1/>
+*Age of the two children's product (age problem) *
 
 > A man and his two sons are 96 years old in all. Four years ago, the eldest son was half his father's age and twice his brother's. What number is obtained by multiplying the current ages of the two children?
 >

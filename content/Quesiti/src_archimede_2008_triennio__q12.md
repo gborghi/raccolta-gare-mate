@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Smallest of 27 consecutive years with average 2008< MSK1/>
+*Smallest of 27 consecutive years with average 2008*
 
 > The arithmetic mean of twenty-seven consecutive natural numbers is 2008. How much is the smallest of them worth?
 >

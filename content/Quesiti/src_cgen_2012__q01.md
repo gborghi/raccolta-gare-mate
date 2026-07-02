@@ -99,13 +99,13 @@ tags:
 > 
 > Lo scopo di questo problema è quello di studiare il comportamento della funzione $f$ e delle sequenze $\big(f^i(n)\big)_{i \in \mathbb{N}}$ per $n$ fisso.
 > 
-> 1. (a) Calcolare < MSK0/>. b) Determinare i numeri $f^i(36^{36})$ per $0 \le i \le 3$. Cosa si può dire dei seguenti?
+> 1. (a) Calcolare $f(2012)$. b) Determinare i numeri $f^i(36^{36})$ per $0 \le i \le 3$. Cosa si può dire dei seguenti?
 > 
 > 2. (a) Date un esempio di un intero $n \ge 1$ tale che, per un intero naturale $i$, si abbia $$f^{i+2}(n) = f^i(n) \quad \text{and} \quad f^{i+1}(n) \ne f^i(n).$$ (b) Mostri che la funzione $f$ non è né non diminuente né non in aumento.
 > 
 > 3. Risolvere in $\mathbb{N}^*$: (a) l'equazione $f(n) = 1$; (b) l'equazione $f(n) = 2$; (c) l'equazione $f(n) = 4$.
 > 
-> 4. a) Per tutti gli integri $a \ge 2$ e $b \ge 0$, indicare che $ab \le a^b$. b) Che $k \in \mathbb{N}^*$ e $a_1, \ldots, a_k, b_1, \ldots, b_k$ siano integri tali che $a_i \ge 2$ e $b_i \ge 0$ per tutti $i$. Indicare che $$a_1 b_1 + a_2 b_2 + \cdots + a_k b_k \le a_1^{b_1} a_2^{b_2} \cdots a_k^{b_k}.$$ (c) Per tutti $n \in \mathbb{N}^*$, indicare che $f(f(n)) \le n$. (d) Let < MSK11/>. Mostrare che esiste un intero naturale $r$ tale che, per ogni intero $i \ge r$, si abbia $f^{i+2}(n) = f^i(n).$
+> 4. a) Per tutti gli integri $a \ge 2$ e $b \ge 0$, indicare che $ab \le a^b$. b) Che $k \in \mathbb{N}^*$ e $a_1, \ldots, a_k, b_1, \ldots, b_k$ siano integri tali che $a_i \ge 2$ e $b_i \ge 0$ per tutti $i$. Indicare che $$a_1 b_1 + a_2 b_2 + \cdots + a_k b_k \le a_1^{b_1} a_2^{b_2} \cdots a_k^{b_k}.$$ (c) Per tutti $n \in \mathbb{N}^*$, indicare che $f(f(n)) \le n$. (d) Let $n \in \mathbb{N}^*$. Mostrare che esiste un intero naturale $r$ tale che, per ogni intero $i \ge r$, si abbia $f^{i+2}(n) = f^i(n).$
 > 
 > 5. $E$ sia l'insieme di numeri interi $n \ge 2$ che hanno solo esponenti strettamente superiori a $1$ nella loro decomposizione in fattori primi. (a) Per ogni numero intero $a \ge 2$, indicare che esistono numeri interi naturali $\alpha$ e $\beta$ in modo tale che $a = 2\alpha + 3\beta.$ (b) dedurre da questo che se $n$ appartiene a $E$, allora esiste un elemento $m$ di $E$ in modo tale che $f(m) = n.$ (c) Indicare un elemento $m$ di $E$ in modo tale che $f(m) = 2012^{2012}.$ (d) Cosa si può dire dell'inverso di (b)?
 

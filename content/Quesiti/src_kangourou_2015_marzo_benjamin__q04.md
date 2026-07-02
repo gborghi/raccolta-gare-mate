@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>10 chickens, eggs in 10 days< MSK1/>
+*10 chickens, eggs in 10 days*
 
 > There are ten chickens in a chicken coop. Five of them each lay one egg a day while the others each lay one egg on alternate days. How many eggs do chickens make in a 10-day period? A) 75
 > 	

@@ -52,6 +52,6 @@ tags:
 
 *Prove $x^2y^2(x^2+y^2)\le 2$ per i risultati positivi con $x+y=2$*
 
-> Che $x, y$ siano valori reali positivi tali che $x + y = 2$. Provare che < MSK0/>
+> Che $x, y$ siano valori reali positivi tali che $x + y = 2$. Provare che $$x^2 y^2 (x^2 + y^2) \le 2.$$
 
 [[src_inmo_2002__Q03]]

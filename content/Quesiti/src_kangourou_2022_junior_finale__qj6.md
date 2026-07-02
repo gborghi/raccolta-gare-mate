@@ -46,6 +46,6 @@ tags:
 
 *The final 10-digit number has at least two equal digits*
 
-> Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the number of units) and add it to the number obtained by the remaining digits. Continue this way until you get a < MSK1/> number. It shows that this number you got has at least two digits equal.
+> Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the number of units) and add it to the number obtained by the remaining digits. Continue this way until you get a $10$ number. It shows that this number you got has at least two digits equal.
 
 [[src_kangourou_2022_junior_finale__QJ6]]

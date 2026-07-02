@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of not detecting saboteurs< MSK1/>
+*Probability of not detecting saboteurs*
 
 > Building investigations [35] Five Roman spies and five saboteurs infiltrated the construction site of Numerotris. Abelix has heard of the 5 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 55 workers at the construction site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all five of them, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma. Team competition 2011  Public competition  Problem texts  1/2
 > 

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Label graph edges so each vertex has gcd 1< MSK1/>
+*Label graph edges so each vertex has gcd 1*
 
 > Whether $G$ is a connected graph with $k$ vertices. Demonstrate that it is possible to label beads with the numbers $1, 2, \ldots, k$ so that, for each vertex belonging to two or more beads, the maximum common divisor of the numbers with which those beads are labeled is $1$.
 > 

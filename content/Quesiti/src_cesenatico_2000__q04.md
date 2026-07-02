@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sparse weight of chessboard/lengths < MSK1/>
+*Sparse weight of chessboard/lengths *
 
 ![[src_cesenatico_2000__prob4b.png]]
 ![[src_cesenatico_2000__prob4.png]]
@@ -75,6 +75,6 @@ tags:
 
 > Fixed an entire $n > 1$, Alberto and Barbara play the following game: 1. Alberto chooses a positive whole. 2. Barbara chooses an integer greater than 1 that is multiple or submultiply the number of Albert (including the number itself). 3. Alberto returns to Barbara the number you said, possibly adding or subtracting 1.
 > 
-> The game continues by alternately repeating steps 2 and 3. Barbara wins if she can pick $n$ within 50 moves. For what values of MSK1 can Barbara win against any strategy of Alberto?
+> The game continues by alternately repeating steps 2 and 3. Barbara wins if she can pick $n$ within 50 moves. For what values of$n$can Barbara win against any strategy of Alberto?
 
 [[src_cesenatico_2000__Q04]]

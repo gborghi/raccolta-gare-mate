@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Seconds when two lamps are lit together< MSK1/>
+*Seconds when two lamps are lit together*
 
 > (Points 4) A light bulb stays on for 3 seconds, then turns off for 2 seconds, then turns on for 3 seconds, then turns off for 2 seconds and so on. Another light bulb behaves like the previous one, but stays on for 6 seconds and off for 4. At this moment the two lamps are both on. For how many seconds of the next minute, measured from this moment on, will the two bulbs turn on simultaneously? A) 3
 > 	

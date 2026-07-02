@@ -53,6 +53,6 @@ tags:
 
 *Distinct elements of {1..n} with pairwise sum condition*
 
-> Let < MSK1/> and < MSK2/> be positive integers. Let $a_1, a_2, \ldots, a_m$ be distinct elements of $\{1, 2, \ldots, n\}$ such that whenever $a_i + a_j \le n$ for some $i, j$, $1 \le i \le j \le m$, there exists $k$, $1 \le k \le m$, with $a_k = a_i + a_j$. Prove that $$a_1 + a_2 + \cdots + a_m \ge \frac{n+1}{2}.$$
+> Let $m$ and $n$ be positive integers. Let $a_1, a_2, \ldots, a_m$ be distinct elements of $\{1, 2, \ldots, n\}$ such that whenever $a_i + a_j \le n$ for some $i, j$, $1 \le i \le j \le m$, there exists $k$, $1 \le k \le m$, with $a_k = a_i + a_j$. Prove that $$a_1 + a_2 + \cdots + a_m \ge \frac{n+1}{2}.$$
 
 [[src_imho_1994__Q01]]

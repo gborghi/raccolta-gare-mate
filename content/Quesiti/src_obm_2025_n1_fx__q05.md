@@ -85,7 +85,7 @@ tags:
 > 
 > (a) Copia la carta qui sotto sul tuo foglio di soluzione e da un esempio di riempimento in modo che diventi parte del gioco. $$\begin{array}{|c|c|c|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} \\ \hline\end{array}$$
 > 
-> b) Qual è il numero delle carte < MSK0/> di questo gioco?
+> b) Qual è il numero delle carte $2\times 2025$ di questo gioco?
 
 ![[src_obm_2025_n1_fx__Q05.png]]
 

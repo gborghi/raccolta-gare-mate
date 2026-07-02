@@ -55,7 +55,7 @@ tags:
 
 ![[src_archimede_2014_febb_2livello__prob14.png]]
 
-> A horse is placed in a corner box of a chessboard 3 < MSK0/> 3. A move consists of moving the horse into an accessible box by two horizontal steps followed by a vertical step, or two vertical steps followed by a horizontal step. How many ways can you move it into the opposite corner box, with exactly 12 moves?
+> A horse is placed in a corner box of a chessboard 3 × 3. A move consists of moving the horse into an accessible box by two horizontal steps followed by a vertical step, or two vertical steps followed by a horizontal step. How many ways can you move it into the opposite corner box, with exactly 12 moves?
 
 **Answer:** 992
 [[src_archimede_2014_febb_2livello__Q14]]

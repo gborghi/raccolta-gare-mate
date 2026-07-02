@@ -60,7 +60,7 @@ tags:
 
 *Prove la disuguaglianza (1+x)(1+y)(1+z) ≤ 4+4xyz per x2+y2+z2-2xyz=1*
 
-> $x, y, z$ siano numeri reali come $x^2 + y^2 + z^2 - 2xyz = 1$. Provare che < MSK0/>
+> $x, y, z$ siano numeri reali come $x^2 + y^2 + z^2 - 2xyz = 1$. Provare che $$(1+x)(1+y)(1+z) \le 4 + 4xyz.$$
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 

@@ -45,11 +45,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>65 points, solid geometry < MSK1/>
+*65 points, solid geometry *
 
 > The following table shows the results of the evaluation:
 > 
-> Professor Abacus has created a sculpture in abstract sculpture. From a side cube 10 centimeters he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices the vertices of the cube that are on a diagonal $d$ of one face and two vertices that are on the diagonal $d'$ of the opposite face that is not parallel to $d$. The vertices of the second tetrahedron are the remaining four vertices of the cube. What is the volume of the sculpture in MSK3/?
+> Professor Abacus has created a sculpture in abstract sculpture. From a side cube 10 centimeters he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices the vertices of the cube that are on a diagonal $d$ of one face and two vertices that are on the diagonal $d'$ of the opposite face that is not parallel to $d$. The vertices of the second tetrahedron are the remaining four vertices of the cube. What is the volume of the sculpture in$\text{cm}^3$?
 
 **Answer:** 0500
 [[src_archimede_2002_pubblico__Q20]]

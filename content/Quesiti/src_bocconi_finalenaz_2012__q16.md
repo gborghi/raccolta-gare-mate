@@ -58,7 +58,7 @@ tags:
 
 *Area of curved triangle between three tangent circles*
 
-> The three circles of the figure, tangent two to two, have the same radius. The curved triangle, coloured in the figure, has a 'side' of < MSK0/> cm. What's your area?
+> The three circles of the figure, tangent two to two, have the same radius. The curved triangle, coloured in the figure, has a 'side' of $106$ cm. What's your area?
 
 ![[src_bocconi_finalenaz_2012__Q16.png]]
 

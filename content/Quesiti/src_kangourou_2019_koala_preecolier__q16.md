@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many hours since the third stop in Aroo (total 17 hours) < MSK1/>
+*How many hours since the third stop in Aroo (total 17 hours) *
 
 ![[src_kangourou_2019_koala_preecolier__prob16.png]]
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of ab data 4^a=9 and 9^b=256< MSK1/>
+*Value of ab data 4^a=9 and 9^b=256*
 
 > If 4a = 9 and 9b = 256, then ab is equal to A) 2006 B) 48 C) 36 D) 10 E) 4
 

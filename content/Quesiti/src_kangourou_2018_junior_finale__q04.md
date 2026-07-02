@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum N with bags (Fibonacci Euclidean Algorithm) < MSK1/>
+*Maximum N with bags (Fibonacci Euclidean Algorithm) *
 
 > In the figure you can see a regular pentagon of which four diagonal lines have been drawn that identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
 

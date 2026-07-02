@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of children with sibling < MSK1/>
+*Minimum number of children with sibling *
 
 > Each child (male or female) of the Red Lords has at least one brother and one sister and the number of the Red Lords' children is the smallest that allows this to occur. How many children do Mr. Red have? A) 2             B) 3              C) 4               D) 5               E) 6
 

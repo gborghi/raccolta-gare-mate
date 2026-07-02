@@ -54,9 +54,9 @@ tags:
 
 Minimum minutes in Chiara for pre-dinner chores
 
-> Clara's very busy because she has friends for dinner tonight. He still has to work at the computer for 30 minutes (pc, the printer will work alone for another 10), prepare the dishwasher (it will take a quarter of an hour, then the machine will go on its own for an hour) and shower in 15 minutes. But before you shower, you have to wash the floor. You have to set aside another 40 minutes.
+> Clara's very busy because she has friends for dinner tonight. He still has to work on the computer for 30 minutes (pc, the printer will work alone for another 10), prepare the dishwasher (it will take a quarter of an hour, then the machine will go on its own for an hour) and shower in 15 minutes. But before you shower, you have to wash the floor. You have to set aside another 40 minutes.
 > 
-> < MSK0/>How many minutes do you need at least? < MSK1/>
+> **How many minutes do you need at least? **
 
 **Answer:** A Chiara, come minimo, servono 100 minuti.
 [[src_bocconi_primavera_2009__Q03]]

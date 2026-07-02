@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Area di trapezzo con cerchio inciso, data due lati laterali< MSK1/>
+*Area di trapezzo con cerchio inciso, data due lati laterali*
 
 > Il trapezoide $ABCD$ ha $AD \parallel BC$, con angoli acuti a $B$ e $C$. Ha un cerchio di raggio $3$. Date $AB = 7$ e $CD = 8$, si trova l'area del trapezoide $ABCD$.
 

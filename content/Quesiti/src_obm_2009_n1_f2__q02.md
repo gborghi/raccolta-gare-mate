@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>6° grado: di ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più di ragazze; studenti totali< MSK1/>
+*6° grado: di ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più di ragazze; studenti totali*
 
 > In una classe di seconda elementare, di tutti gli studenti di seconda elementare, $4$ sono ragazze. Ci sono più ragazzi che ragazze. Quanti studenti ci sono in questa classe?
 

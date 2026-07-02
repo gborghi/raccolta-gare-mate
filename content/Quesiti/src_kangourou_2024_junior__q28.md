@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many strings of length between radius and diameter (20-gones) < MSK1/>
+*How many strings of length between radius and diameter (20-gones) *
 
 > On a circumference are marked 20 points, vertices of a regular 20-sided polygon. If for each pair of these points the rope is drawn which has them as ends, when are the lines drawn longer than the radius but less than the diameter of the circumference? A) 90
 > 	

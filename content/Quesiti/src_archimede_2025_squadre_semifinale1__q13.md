@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two intersecting circles, product AX·YD< MSK1/>
+*Two intersecting circles, product AX·YD*
 
 > Bound and Mathieu want to devise a trap to capture a spectral theorist. To mimic the situation, two circumferences are drawn on the floor: Γ of centre O and radius 4m, and ∆ of centre O′ and radius R > 4m. The two circumferences intersect in A and B, the segment OO′ intersects Γ in C, while the straight OB intersects ∆in B and D. Bound notices that the segments CO′ and AD intersect, and puts himself right at their intersection point X, while Mathieu puts himself at a Y point on the segment DX. If the intersection of Y C with Γ is distinct from C, then \ Y FO = \ DOX and XO′ = 3m. For the trap to be infallible, Bound and Mathieu must determine the value (in square metres) of the product AX ·Y D. How much is that product worth?
 

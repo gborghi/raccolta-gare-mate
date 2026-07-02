@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference between the heights of two fungi< MSK1/>
+*Difference between the heights of two fungi*
 
 ![[src_kangourou_2021_preecolier_koala__prob2.png]]
 

@@ -61,11 +61,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Determine il risultato dell'Austria contro la Danimarca dalla classifica di gruppo< MSK1/>
+*Determine il risultato dell'Austria contro la Danimarca dalla classifica di gruppo*
 
 > Il Gruppo A dell'ultima Coppa del Mondo di calcio si è concluso con i seguenti risultati:
 > 
-> Austria < MSK0/> punti; Brasile < MSK1/> punti; Camerun < MSK2/> punti; Danimarca < MSK3/> punti.
+> Austria $7$ punti; Brasile $5$ punti; Camerun $4$ punti; Danimarca $0$ punti.
 > 
 > È noto che l'Austria e il Camerun hanno segnato solo $1$ gol ciascuno, mentre l'Austria ha ceduto $3$ gol. Qual è stato il risultato della partita Austria $\times$ Danimarca?
 > 

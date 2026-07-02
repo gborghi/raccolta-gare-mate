@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Current price of the item less expensive (discounts) < MSK1/>
+*Current price of the item less expensive (discounts) *
 
 > In a store a month ago, two items were priced the same. One of the two subsequently received a 5% discount while the other received a 15% increase. As a result of these changes, the two prices now differ by 6 euros. What is the current price of the cheaper item? A) € 1,5      B) € 6 C) € 28,5    D) € 30      E) € 34,50 7 6
 > 

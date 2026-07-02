@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Track length on n semicirculars< MSK1/>
+*Track length on n semicirculars*
 
 ![[src_kangourou_2005_cadet__prob19.png]]
 

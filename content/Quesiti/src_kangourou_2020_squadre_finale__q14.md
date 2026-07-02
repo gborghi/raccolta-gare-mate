@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many safe deposit boxes for 44100< MSK1/>
+*How many safe deposit boxes for 44100*
 
 > The spoil A spoil of 44,100 gold coins is divided into bags: one of 1, one of 3, one of 5, one of 7 coins ... and so on. One of the bags is then placed in a safe, two of the remaining bags together in another safe, three of the remaining bags together in a third safe and so on. How many safe houses are in total?
 

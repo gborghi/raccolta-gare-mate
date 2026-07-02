@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum final score of Joey < MSK1/>
+*Minimum final score of Joey *
 
 > In a kangaroo jump competition, each participant performs 5 jumps. Each jump is rated on a score of 1 to 20. The leap with the lowest score (or one of the leaps that received the same lowest score, if more than one) is not counted in the final score. Before we discarded the lowest-scoring jump, the sum of the scores for Joey's five jumps was 72. So the final score is at least
 >

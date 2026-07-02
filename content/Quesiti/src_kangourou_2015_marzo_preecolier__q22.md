@@ -51,15 +51,15 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>true statement < MSK1/>
+*true statement *
 
-> Chiara builds a cube using grey and white cubes (see figure). Two cubes of the same color have no face in common. Which of the following statements regarding the number of cubes used is true?
+> Chiara builds a cube using gray and white cubes (see figure). Two cubes of the same color have no face in common. Which of the following statements regarding the number of cubes used is true?
 >
-> - **(A)** the grey cubes are < MSK0/> in addition to the white cubes
-> - **(B)** the white cubes are < MSK0/> in addition to the grey cubes
+> - **(A)** the grey cubes are $1$ in addition to the white cubes
+> - **(B)** the white cubes are $1$ in addition to the grey cubes
 > - **(C)** The grey cubes are as many as the white ones.
-> - **(D)** the white cubes are < MSK0/> in addition to the grey cubes
-> - **(E)** the grey cubes are < MSK0/> in addition to the white cubes
+> - **(D)** the white cubes are $2$ in addition to the grey cubes
+> - **(E)** the grey cubes are $2$ in addition to the white cubes
 
 **Answer:** A
 [[src_kangourou_2015_marzo_preecolier__Q22]]

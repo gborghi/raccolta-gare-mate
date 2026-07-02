@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Recovery given product 71685 with figures exchanged< MSK1/>
+*Recovery given product 71685 with figures exchanged*
 
 > Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the number of tens is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
 

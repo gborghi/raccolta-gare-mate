@@ -53,7 +53,7 @@ tags:
 
 This is the total number of units of measurement.
 
-> The kangaroo calculates: 2 < MSK0/> 0 + 0 < MSK1/> 1. The result is
+> The kangaroo calculates: 2 × 0 + 0 × 1. The result is
 >
 > - **(A)** 2
 > - **(B)** 0

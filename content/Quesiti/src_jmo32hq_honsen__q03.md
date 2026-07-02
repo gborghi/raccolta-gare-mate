@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Il triangolo isosceles, il circoncircolo, il circoncentro di HDF si trova su Gamma< MSK1/>
+*Il triangolo isosceles, il circoncircolo, il circoncentro di HDF si trova su Gamma*
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $O$ deve essere un punto rigorosamente all'interno del triangolo (non su nessun lato). Il $\Gamma$ deve essere il circoncircolo del triangolo $ABC$. Le linee che attraversano $O$ incontrano il segmento $BC$ a $D$ e il segmento $AC$ (escluse le estremità) a $E$, e queste due linee si incrociano. Che $F$ sia un punto su $\Gamma$ diverso da $A$, $B$, $C$ in modo tale che $B$, $D$, $F$ siano collineari (o che la linea $BD$ rientri a $\Gamma$ a $F$). Il $H$ è la seconda intersezione del circoncircolo del triangolo $AEO$ con $\Gamma$. Prove che il centro circoncentrale del triangolo $HDF$ si trova su $\Gamma$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 

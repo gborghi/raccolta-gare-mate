@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Find all homogeneous polynomials satisfying cyclic sum condition< MSK1/>
+*Find all homogeneous polynomials satisfying cyclic sum condition*
 
 > Find all polynomials $P$ in two variables, with the following properties: (i) for a positive integer $n$ and all real $t, x, y$: $$P(tx, ty) = t^n P(x, y)$$ (that is, $P$ is homogeneous of degree $n$), (ii) for all real $a, b, c$: $$P(b+c, a) + P(c+a, b) + P(a+b, c) = 0,$$ (iii) $P(1, 0) = 1$.
 

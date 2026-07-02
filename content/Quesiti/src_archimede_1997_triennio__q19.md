@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many marks changed to get 1997 from the sum< MSK1/>
+*How many marks changed to get 1997 from the sum*
 
 > In the sum of 1 + 2 + 3 + · · + 100, how many signs + must be changed to −minimum in order to obtain 1997?
 >

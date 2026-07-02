@@ -52,7 +52,7 @@ tags:
 >
 > - **(A)** $c$ is whole
 > - **(B)** $a + b + c$ is whole
-> - **(C)** < MSK0/>, < MSK1/>, < MSK2/> are integers
+> - **(C)** $a$, $b$, $c$ are integers
 > - **(D)** If $a$ is integer $b$ is also integer
 > - **(E)** $2a$ is whole.
 

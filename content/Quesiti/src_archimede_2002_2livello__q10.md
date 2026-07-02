@@ -47,7 +47,7 @@ tags:
 
 *Milk riddle and math team competition*
 
-> A cyclist takes a route of 30 km at a speed of < MSK0/> km/h. Knowing that it took 40 minutes to determine how many degrees occupies the intermediate semicircle sector.
+> A cyclist takes a route of 30 km at a speed of $v$ km/h. Knowing that it took 40 minutes to determine how many degrees occupies the intermediate semicircle sector.
 > 
 > (A) $60°\,20'$ &ensp; (B) $60°\,00'$ &ensp; (C) $45°$ &ensp; (D) $37°\,20'$ &ensp; (E) cannot be determined
 

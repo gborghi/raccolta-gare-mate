@@ -54,6 +54,6 @@ tags:
 
 *Prove che il KDMR quadrilaterale è ciclico in triangolo acuto con centro orto*
 
-> $ABC$ sia un triangolo acuto con $AB < AC$. La $D$, la $E$ e la $F$ siano i piedi delle altitudini rispettivamente da $A$, $B$ e $C$, e la $M$ sia il punto medio di $BC$. Che < MSK10/> sia l'ortocentro di < MSK11/>. $P$ sia l'intersezione delle linee $EF$ e $BC$. La linea $PH$ incontra nuovamente il cerchio di diametro $AH$ al punto $J$. Il < MSK18/> deve essere il riflesso di < MSK19/> su < MSK20/>. Le linee $JD$ e $PR$ si incontrano a $K$. Provare che il quadrilaterale $KDMR$ è ciclico.
+> $ABC$ sia un triangolo acuto con $AB < AC$. I metri $D$, $E$ e $F$ siano i piedi delle altitudini rispettivamente da $A$, $B$ e $C$, e $M$ sia il punto medio di $BC$. Che $H$ sia l'ortocentro di $ABC$. $P$ sia l'intersezione delle linee $EF$ e $BC$. La linea $PH$ incontra nuovamente il cerchio di diametro $AH$ al punto $J$. Il $R$ deve essere il riflesso di $A$ su $BC$. Le linee $JD$ e $PR$ si incontrano a $K$. Provare che il quadrilaterale $KDMR$ è ciclico.
 
 [[src_obm_2025_n2_fx__Q03]]

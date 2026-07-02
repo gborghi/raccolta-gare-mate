@@ -46,8 +46,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Couples (k,n) with k!=(2^n-1)(2^n-2)...< MSK1/>
+*Couples (k,n) with k!=(2^n-1)(2^n-2)...*
 
-> Find all positive integers < MSK1/> pairs such as < MSK0/>
+> Find all positive integers $(k, n)$ pairs such as $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
 
 [[src_imo_2019__Q04]]

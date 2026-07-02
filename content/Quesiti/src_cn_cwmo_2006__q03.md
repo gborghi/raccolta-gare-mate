@@ -56,7 +56,7 @@ tags:
 
 *Geometria: angolo bisector e valore di bronzaggio nella configurazione di circolo*
 
-> In $\triangle ABC$, $\angle ABC = 60^\circ$. La tangenza al punto $P$ al circoncircolo di $\triangle ABC$ incontra la linea $CB$ estesa a $A$. Let < MSK6/>. I punti $D$ e $E$ si trovano rispettivamente sul segmento di linea $PA$ e sul circoncircolo, in modo tale che $\angle DBE = 90^\circ$ e $PD = PE$. Il $F$ deve essere l'incrocio di $BE$ e $PC$. È dato che le linee $AF$, $BP$ e $CD$ sono simultanee. (1) Provare che $BF$ è il bisettore di $\angle PBC$. (2) Trova il valore di < MSK20/>.
+> In $\triangle ABC$, $\angle ABC = 60^\circ$. La tangenza al punto $P$ al circoncircolo di $\triangle ABC$ incontra la linea $CB$ estesa a $A$. Let $\angle PCB = \alpha$. I punti $D$ e $E$ si trovano rispettivamente sul segmento di linea $PA$ e sul circoncircolo, in modo tale che $\angle DBE = 90^\circ$ e $PD = PE$. Il $F$ deve essere l'incrocio di $BE$ e $PC$. È dato che le linee $AF$, $BP$ e $CD$ sono simultanee. (1) Provare che $BF$ è il bisettore di $\angle PBC$. (2) Trova il valore di $\tan\alpha$.
 
 ![[src_cn_b07_w150__Q03.png]]
 

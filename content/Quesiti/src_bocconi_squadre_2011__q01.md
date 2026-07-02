@@ -52,7 +52,7 @@ tags:
 
 *Summary distances from the internal point of the regular pentagon*
 
-> The pentagon of the figure, of an area equal to < MSK0/>, has its five sides equal to each other and equal to 1 cm. Calculate (as a function of $S$) the value of the expression $MA+MB+MC+MD+ME$ which is the sum of the distances of the point $M$ from the five sides of the pentagon (or their extensions).
+> The pentagon of the figure, of an area equal to $S$, has its five sides equal to each other and equal to 1 cm. Calculate (as a function of $S$) the value of the expression $MA+MB+MC+MD+ME$ which is the sum of the distances of the point $M$ from the five sides of the pentagon (or their extensions).
 
 ![[src_bocconi_squadre_2011__Q01.png]]
 

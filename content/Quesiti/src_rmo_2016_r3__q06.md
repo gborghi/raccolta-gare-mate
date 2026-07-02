@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'esistenza e la non esistenza di progressione armonica in aumento stretto< MSK1/>
+*L'esistenza e la non esistenza di progressione armonica in aumento stretto*
 
 > (a) Dato qualsiasi numero naturale $N$, dimostrare che esiste una sequenza rigorosamente crescente di integri positivi $N$ in progressione armonica. b) dimostrare che non può esistere una sequenza infinita di numeri interi positivi in progressione armonica.
 

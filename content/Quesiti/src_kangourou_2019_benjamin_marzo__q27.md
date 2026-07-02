@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many points did Alberto score (bottle pyramids) < MSK1/>
+*How many points did Alberto score (bottle pyramids) *
 
 ![[src_kangourou_2019_benjamin_marzo__prob27.png]]
 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Trip colours with multiples of 3 blue< MSK1/>
+*Trip colours with multiples of 3 blue*
 
 > Martina has a square strip of paper, with side squares of 1 centimeter, length 2023 cm. He wants to mark every inch height, from 0 to 2023, with one of his three colored pinheads (red, yellow and blue). It'll make sure that the multiples of 3, including 0, are all marked in blue and that there are no nearby tiles of the same color. How many different ways will Martina be able to achieve the coloring?
 >

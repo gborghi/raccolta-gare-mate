@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>In how many years a year with two digits repeated< MSK1/>
+*In how many years a year with two digits repeated*
 
 > A mushroom grows day by day. Licia photographed him every day from Monday to Friday. Which one of these photos was taken on Tuesday?
 >

@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-€0.60 and €0.80 franc with fixed total
+€0.60 and €0.80 franc with fixed total *
 
-> Carla sent her friend Milena a package with a birthday present. For shipping expenses, it only put stamps of $0{,}60$ Euro and $0{,}80$ Euro on the package for a total value of $6{,}60$ Euro. Carla used less than < MSK3/> stamps overall. How many stamps from $0{,}80$ Euro did you use?
+> Carla sent her friend Milena a package with a birthday present. For shipping expenses, it only put stamps of $0{,}60$ Euro and $0{,}80$ Euro on the package for a total value of $6{,}60$ Euro. Carla used less than $10$ stamps overall. How many stamps from $0{,}80$ Euro did you use?
 
 **Answer:** 6
 [[src_bocconi_semifinale_2008__Q03]]

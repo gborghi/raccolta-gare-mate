@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Octogono con integri blu sui lati; i prodotti verticali possono essere 1,2,...,8 in qualche ordine?< MSK1/>
+*Octogono con integri blu sui lati; i prodotti verticali possono essere 1,2,...,8 in qualche ordine?*
 
 > Su ciascun lato di un ottagono, Anna scrive in blu un intero rigorosamente positivo (gli 8 interi che scrive non sono necessariamente distinti). Poi, su ciascun vertice dell'ottagono, scrive in rosso il prodotto dei due numeri interi blu scritti alle estremità dei due lati che si incontrano a quel vertice. Anna può scegliere i numeri interi blu in modo che i numeri interi rossi scritti sui vertici siano esattamente $1, 2, 3, 4, 5, 6, 7, 8$ (non necessariamente in quell'ordine)?
 

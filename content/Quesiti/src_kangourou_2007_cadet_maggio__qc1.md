@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of pupils (77 handshakes) < MSK1/>
+*Number of pupils (77 handshakes) *
 
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 77 handshakes were made. How many students (without discriminating between males and females) are in that class?
 

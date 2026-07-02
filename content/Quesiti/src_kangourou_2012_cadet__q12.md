@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area of the peas flour before variation< MSK1/>
+*Area of the peas flour before variation*
 
 ![[src_kangourou_2012_cadet__prob12.png]]
 

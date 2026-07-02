@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum truth sheets in 10000 lying/sincere circles< MSK1/>
+*Maximum truth sheets in 10000 lying/sincere circles*
 
 > Dangerous games Playing with tricks can be quite dangerous. The 5,000 students of the house of Rapportaureo drank a potion that forced them to tell the truth all the time, while the 5,000 students of the house of Partimmaginaria drank a potion that forced them to always lie. The 10,000 students in the two houses are arranged in a circle and each one writes on a scroll. My right neighbor is from Rapporteur or my right neighbor is from Partimagineria. Of course, everyone knows which houses the neighbors belong to. How many sheets of my right-hand neighbor's reporting can there be, at most?
 > 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many side cubes 1cm in the large cube< MSK1/>
+*How many side cubes 1cm in the large cube*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob2.png]]
 

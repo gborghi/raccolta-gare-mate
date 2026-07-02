@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time to wash 3 elephants together< MSK1/>
+*Time to wash 3 elephants together*
 
 > Kang Circus elephant trainer takes 40 minutes to wash an elephant. Your young son takes two hours to do the same job. How long will it take the trainer and his son to wash three elephants if they work together? (A) 30 minutes. (b) 45 minutes. (c) 60 minutes. (d) 90 minutes. E) 100 minutes.
 

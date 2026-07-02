@@ -48,40 +48,10 @@ tags:
 > 
 > categoria
 > A
-> X
-> X
-> X
-> X
-> X
-> X
 > B
-> X
-> X
-> X
-> X
-> X
-> X
-> X
 > C
-> X
-> X
-> X
-> X
-> X
-> X
-> X
 > D
-> X
-> X
-> X
-> X
 > E
-> X
-> X
-> X
-> X
-> X
-> X
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -106,7 +76,7 @@ tags:
 > 	
 > E) 24
 > 
-> A category X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+> A category
 
 **Answer:** C
 [[src_kangourou_2016_student_marzo__Q30]]

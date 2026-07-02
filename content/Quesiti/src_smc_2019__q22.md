@@ -62,7 +62,7 @@ tags:
 
 > Una funzione $f$ soddisfa l'equazione $(n - 2019)f(n) - f(2019 - n) = 2019$ per ogni intero $n$.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $f(2019)$?
 >
 > - **(A)** $0$
 > - **(B)** $1$

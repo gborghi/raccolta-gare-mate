@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>third radius < MSK1/>
+*third radius *
 
 > There is a square next to the parliament building with three circular fountains. Two of them have a radius of $64$ imometres, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive integer solutions of x^x - 2^x - x2 = 10 < MSK1/>
+*Positive integer solutions of x^x - 2^x - x2 = 10 *
 
 > How many positive integer solutions of the $x^x - 2x - x^2 = 0$ equation are there?
 >

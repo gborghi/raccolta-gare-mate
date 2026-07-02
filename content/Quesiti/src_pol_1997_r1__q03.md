@@ -54,6 +54,6 @@ tags:
 
 *Rimostra una disuguaglianza per i numeri reali a,b almeno 1 e c almeno 0, con un numero intero n almeno 1.*
 
-> $a, b \ge 1$, $c \ge 0$ siano numeri reali e $n \ge 1$ un numero intero. Provare che < MSK0/>
+> $a, b \ge 1$, $c \ge 0$ siano numeri reali e $n \ge 1$ un numero intero. Provare che $$(ab + c)^n - c \le a^n \left( (b + c)^n - c \right).$$
 
 [[src_pol_1997_r1__Q03]]

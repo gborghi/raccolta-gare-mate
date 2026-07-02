@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many members of the group with 24 pairs of socks< MSK1/>
+*How many members of the group with 24 pairs of socks*
 
 > At the Festival of Colored Socks every girl must wear a pink and yellow sock while every boy must wear a blue and green sock. To attend the party, a group of friends had to buy 24 pairs of socks. Knowing that there is only one size of socks, that they are sold in pairs, and that each pair is one color, how many can be the components of the group?
 > 	

@@ -59,7 +59,7 @@ tags:
 
 *Equazione funzionale f(x) + f(1/(1-x)) = 24x; trovare f(3) *
 
-> Una funzione $f$ soddisfa l'equazione $f(x) + f\!\left(\dfrac{1}{1-x}\right) = 24x$ per tutti i valori reali di $x$ tranne $x = 0$ e $x = 1$. Qual è il valore di < MSK5/>?
+> Una funzione $f$ soddisfa l'equazione $f(x) + f\!\left(\dfrac{1}{1-x}\right) = 24x$ per tutti i valori reali di $x$ tranne $x = 0$ e $x = 1$. Qual è il valore di $f(3)$?
 >
 > - **(A)** $40$
 > - **(B)** $42$

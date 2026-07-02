@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of a in arithmetic progression< MSK1/>
+*Value of a in arithmetic progression*
 
 > a, b, c, d, and are five numbers in arithmetic progression. We know that b is 5.5 and e is 10. How much is it worth? A) 0,5 B) 3 C) 4 D) 4,5 E) 5
 

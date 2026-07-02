@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ordinate roots of 8, cubic roots of 26 and 2.9< MSK1/>
+*Ordinate roots of 8, cubic roots of 26 and 2.9*
 
 > Given the 3 numbers a = √ 8, b = 3 √ 26 and c = 2, 9 then we have: A a < c < b B a < b < c C b < a < c D b < c < a E c < a < b F c < b < a
 

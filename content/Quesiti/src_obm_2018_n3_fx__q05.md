@@ -68,6 +68,6 @@ tags:
 > 
 > a) Quante operazioni sono state eseguite?
 > 
-> b) Determinare il valore massimo possibile di < MSK0/>.
+> b) Determinare il valore massimo possibile di $x$.
 
 [[src_obm_2018_n3_fx__Q05]]

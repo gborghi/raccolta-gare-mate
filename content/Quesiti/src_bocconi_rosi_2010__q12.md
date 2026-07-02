@@ -49,11 +49,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Luke's age knowing the relationship to his own past age< MSK1/>
+*Luke's age knowing the relationship to his own past age*
 
-> I've got MSK0/> times the age that Luke was when I was the age of Luke now.
+> I've got$4$ times the age that Luke was when I was the age of Luke now.
 > 
-> What is Luke's age now, if I'm MSK0?
+> What is Luke's age now, if I'm$40$?
 
 **Answer:** Luca ha 25 anni
 [[src_bocconi_rosi_2010__Q12]]

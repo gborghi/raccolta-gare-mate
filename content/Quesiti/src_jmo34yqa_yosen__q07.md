@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conte le coppie (p,a) con p primo >= 3 e ap^4+2p^3+2p^2+1 un quadrato perfetto< MSK1/>
+*Conte le coppie (p,a) con p primo >= 3 e ap^4+2p^3+2p^2+1 un quadrato perfetto*
 
 > Trova il numero di coppie $(p, a)$ dove $p$ è un primo con $p \ge 3$ e $a$ è un intero con $1 \le a \le 2024$, soddisfa $a < p^4$ e $ap^4 + 2p^3 + 2p^2 + 1$ è un quadrato perfetto.
 

@@ -60,11 +60,11 @@ tags:
 
 *Piegare un foglio rettangolare lungo la sua diagonale, quindi in modo che C incontra A; mostrare il quadrilaterale pieghevole è un rombo e trovare la sua area*
 
-> Un foglio di carta rettangolare $ABCD$, di superficie $1$, viene ripiegato lungo la sua diagonale $AC$ e poi ripiegato; successivamente viene ripiegato in modo che il vertice $C$ coincida con il vertice $A$, e poi ripiegato, lasciando la piega $MN$, come nel disegno di seguito.
+> Un foglio di carta rettangolare $ABCD$, di superficie $1$, viene piegato lungo la sua diagonale $AC$ e poi svolto; successivamente viene piegato in modo che il vertice $C$ coincida con il vertice $A$, e poi svolto, lasciando la piega $MN$, come nel disegno di seguito.
 > 
-> < MSK1/>a) < MSK2/> Mostra che il quadrilaterale < MSK0/> è un rombo.
+> **a) ** Mostra che il quadrilaterale $AMCN$ è un rombo.
 > 
-> **b) ** Se la diagonale $AC$ è doppia della larghezza $AD$, qual è l'area del rombo $AMCN$?
+> **b) ** Se la diagonale $AC$ è doppia della larghezza $AD$, qual è la superficie del rombo $AMCN$?
 
 ![[src_obm_2001_n2_f3__Q01.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>There is a person with at least 85% of the wealth< MSK1/>
+*There is a person with at least 85% of the wealth*
 
 > In a certain country wealth is distributed very unevenly: in fact, taken from any group of at least 10 people, at least 90% of their total wealth is concentrated in no more than 10% of the people.
 > 

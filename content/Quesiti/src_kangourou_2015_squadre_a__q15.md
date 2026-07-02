@@ -35,10 +35,6 @@ tags:
 
 > La divisione per 2015 
 >        Un numero  diviso per 2015 dà resto 2. Qual è il resto della divisione di 11 per 2015? 
->  
->  
->  
-> 
 > Kangourou della Matematica 2015 
 > Coppa a squadre Kangourou   
 > Semifinale turno A 
@@ -58,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining of the N^11 division for 2015, N=2 mod 2015< MSK1/>
+*Remaining of the N^11 division for 2015, N=2 mod 2015*
 
 > The division for 2015 A number divided by 2015 gives the remainder 2. What's the rest of Division 11 for 2015?
 >  

@@ -54,11 +54,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive number in the lowest level median brick< MSK1/>
+*Positive number in the lowest level median brick*
 
 > In the pyramid of the figure, the number of each brick is the product of the numbers of the two bricks on which it rests.
 > 
-> < MSK0/>What is the positive number to be inserted into the middle brick of the lowest level? < MSK1/>
+> **What is the positive number to be inserted into the middle brick of the lowest level? **
 
 ![[src_bocconi_primavera_2009__Q05.png]]
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Terns (a,b,c) in [0,2005] with b^2+b=c^2-c and a^2=b+c< MSK1/>
+*Terns (a,b,c) in [0,2005] with b^2+b=c^2-c and a^2=b+c*
 
 > During their expeditions around the world, the well-known archaeomathematician Polinomia Jones and his collaborator and friend Al Jabr used to spend evenings cramming themselves with simple problems in front of the fire. One night Al Jabr challenges our hero to find all the terns of integers (a,b,c), each of which comprised between 0 and 2005, such that b2 + b = c2 − c and a2 = b + c. How many are there?
 

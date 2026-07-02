@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eta of grandfather Angelo with conditions of multiples< MSK1/>
+*Eta of grandfather Angelo with conditions of multiples*
 
 > Angelo Nonno Angelo, who is not yet centenarian, today says: My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5. How old is Grandpa Angelo today?
 

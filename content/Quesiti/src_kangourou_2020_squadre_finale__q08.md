@@ -57,7 +57,7 @@ tags:
 
 *Minimum line reversals for 2020 red tokens*
 
-> On a rectangular chessboard of 100 < MSK0/> 50 there are 5000 tokens, one on each box. Each token has a black face and a red face and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to overturn a token you have to overturn all the tokens in the row or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
+> On a rectangular chessboard of 100 × 50 there are 5000 tokens, one on each box. Each token has a black face and a red face, and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to overturn a token you have to overturn all the tokens of the line or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
 
 **Answer:** 0022
 [[src_kangourou_2020_squadre_finale__Q08]]

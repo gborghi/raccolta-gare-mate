@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> equal opposite corners < MSK1/>
+* equal opposite corners *
 
 > ABCD is a tetrahedron with the following properties: A′, B′, C′, D′, respectively, the centers of the faces BCD, ACD, ABD and ABC, so that the directions AA′, BB′, CC′ and DD′ have one thing in common. Demonstrate that the product of the lengths of two opposite sides of the tetrahedron is constant, i.e. AB·CD = AC·BD = AD·BC.
 

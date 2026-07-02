@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-The following table shows the results of the evaluation of the results of the evaluation:
+The following table shows the results of the evaluation:
 
-> Let MSK1 be the set of positive rational numbers. Construct a function $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ such that $$f(x f(y)) = \frac{f(x)}{y}$$ for all $x$, $y$ in $\mathbb{Q}^+$.
+> Let$\mathbb{Q}^+$be the set of positive rational numbers. Construct a function $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ such that $$f(x f(y)) = \frac{f(x)}{y}$$ for all $x$, $y$ in $\mathbb{Q}^+$.
 
 [[src_imho_1990__Q04]]

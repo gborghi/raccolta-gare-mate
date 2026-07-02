@@ -52,6 +52,6 @@ tags:
 
 *Prove la disuguaglianza di n numeri reali con la somma 2n*
 
-> Let $n \geq 3$ essere un numero intero e let $1 < a_1 \leq a_2 \leq \cdots \leq a_n$ essere $n$ numeri reali come $a_1 + a_2 + \cdots + a_n = 2n$. Provare che < MSK0/>
+> Let $n \geq 3$ essere un numero intero e let $1 < a_1 \leq a_2 \leq \cdots \leq a_n$ essere $n$ numeri reali come $a_1 + a_2 + \cdots + a_n = 2n$. Provare che $$a_1 a_2 \cdots a_{n-1} + a_1 a_2 \cdots a_{n-2} + 2 + a_1 a_2 + a_1 a_2 \cdots a_n \geq 2 \cdot a_1 a_2 \cdots a_n.$$
 
 [[src_inmo_2020__Q04]]

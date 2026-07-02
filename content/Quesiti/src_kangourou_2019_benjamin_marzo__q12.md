@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which solid requires more paint (greater surface area) < MSK1/>
+*Which solid requires more paint (greater surface area) *
 
 ![[src_kangourou_2019_benjamin_marzo__prob12.png]]
 

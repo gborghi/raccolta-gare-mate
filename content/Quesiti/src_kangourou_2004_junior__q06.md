@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Nights at the youngest (proportions) < MSK1/>
+*Nights at the youngest (proportions) *
 
 > Alessia, Beatrice, and Carla have collected a total of 770 nuts and decide to divide them proportionally to their age. According to this criterion, if Alessia touched 4 nuts, Carla would touch 3, if Beatrice touched 7 nuts, Alessia would touch 6. How many nuts of those crops are for the youngest of the three? A) 264        B) 256       C) 218         D) 198       E) 180 Dˆ A B C D 30° 75° 50° ?
 > 

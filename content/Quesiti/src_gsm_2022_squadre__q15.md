@@ -51,11 +51,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum trajectory of an ant on a parallel piped< MSK1/>
+*Minimum trajectory of an ant on a parallel piped*
 
 ![[src_gsm_2022_squadre__prob15.png]]
 
-> On a parallel piped square base of $5$ cm and high $10$ cm, an ant starts from a vertex $A$ of the square base and initially reaches the vertex $B$ diametrically opposite the other base. Then it goes to the center of that base and from there it goes back to MSK4/. What is the minimum length in mm of such a route?
+> On a parallel piped square base of $5$ cm and high $10$ cm, an ant starts from a vertex $A$ of the square base and initially reaches the vertex $B$ diametrically opposite the other base. Then it goes to the center of that base and from there it goes back to$A$. What is the minimum length in mm of such a route?
 
 **Answer:** 0304
 [[src_gsm_2022_squadre__Q15]]

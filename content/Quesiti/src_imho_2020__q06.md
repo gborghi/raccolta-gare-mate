@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive constant c so a line separates S from each point< MSK1/>
+*Positive constant c so a line separates S from each point*
 
 > Prove that there exists a positive constant $c$ such that the following statement is true:
 > 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many stones can Maciste get (+4 per shot) < MSK1/>
+*How many stones can Maciste get (+4 per shot) *
 
 > Maciste initially has seven stones and a hammer that breaks any stone into exactly five smaller stones. What number of stones can you get, among the following? A) 17
 > 	

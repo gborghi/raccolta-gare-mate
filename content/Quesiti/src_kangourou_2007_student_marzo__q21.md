@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reverse function g (f(g(x))=x) < MSK1/>
+*Reverse function g (f(g(x))=x) *
 
 > If and f (g (x)) = x, then g (x) = A) B) C) D) E) other function
 

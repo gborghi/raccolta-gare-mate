@@ -53,7 +53,7 @@ tags:
 
 ![[src_kangourou_2021_cadet_semifinale__prob14.png]]
 
-> (6 points) A rectangular strip of paper is folded to obtain the hexagonal shape in the figure, which surrounds an equilateral triangle of side 8 cm (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures < MSK0/> 3 cm. How long is the strip?
+> (6 points) A rectangular strip of paper is folded to obtain the hexagonal shape in the figure, which surrounds an equilateral triangle of side 8 cm (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures √ 3 cm. How long is the strip?
 
 **Answer:** 33
 [[src_kangourou_2021_cadet_semifinale__Q14]]

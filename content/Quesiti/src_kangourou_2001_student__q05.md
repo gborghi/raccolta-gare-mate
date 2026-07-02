@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability number equal to or greater than 399< MSK1/>
+*Probability number equal to or greater than 399*
 
 > What is the probability that, if you randomly choose a 3-digit number (significant), it is equal to or greater than 399?
 

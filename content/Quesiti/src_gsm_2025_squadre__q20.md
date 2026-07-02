@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of the covered die being 6< MSK1/>
+*Probability of the covered die being 6*
 
 > Six on the dice Sandro Campigotto Andrea throws a dice and gets a six, then walks away from the room. Barbara throws two more dice on the same table, fails to look at the result and leaves the room. Carlo walks into the room and covers a random dice. The two remaining dice on the table both show face 6. What's the probability that the covered dice has a value of 6? [Give the answer the probability multiplied by 10000.]: 0625
 

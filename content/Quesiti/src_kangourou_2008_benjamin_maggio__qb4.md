@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little palindrome peak divided by 27< MSK1/>
+*Little palindrome peak divided by 27*
 
 > An Isabella number is a palindrome number (whole greater than zero) that is divisible by $27$. What's Isabella's smallest number? (Remember that a palindrome number is a number that can be read indifferently from right to left or from left to right, such as the numbers $6226$ or $97579$.)
 

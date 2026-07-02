@@ -60,6 +60,6 @@ tags:
 
 > $(u_n)_{n \in \mathbb{N}}$ sia la sequenza di integri definita da: $$\begin{cases} u_0 = 0 \text{ for every natural integer } n,\\ u_{2n} = u_n,\\ u_{2n+1} = 1 - u_n.\end{cases}$$
 > 
-> 1. Calcolare < MSK0/>. 2. Determinare il numero di indici $n$, inferiori o uguali a $1990$, in modo tale che $u_n = 0$. 3. $p$ sia un intero naturale parziale e $N = (2p-1)^2$. Calcolare $u_N$.
+> 1. Calcolare $u_{100}$. 2. Determinare il numero di indici $n$, inferiori o uguali a $1990$, in modo tale che $u_n = 0$. 3. $p$ sia un intero naturale parziale e $N = (2p-1)^2$. Calcolare $u_N$.
 
 [[src_cgen_1990__Q01]]

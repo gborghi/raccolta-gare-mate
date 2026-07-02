@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of children (average family age) < MSK1/>
+*Number of children (average family age) *
 
 > 19. Answer C. Both n the number of children: adding up the years of all members of the family gets 18(n + 2), adding up the years of all members excluding the father gets 14(n + 1). So it has to be 18 ((n + 2)  14 ((n + 1) = 38, so we get n = 4.
 

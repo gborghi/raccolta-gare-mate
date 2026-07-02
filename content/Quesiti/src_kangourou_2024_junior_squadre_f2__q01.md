@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum ABC with mean divisible permutations of 60< MSK1/>
+*Minimum ABC with mean divisible permutations of 60*
 
 > Divisable by 60 What is the smallest natural number of three digits ABC, all distinct from each other and different from zero, such that the average of all the numbers that you get by permuting the three digits (ABC included) is an integer divisible by 60?
 

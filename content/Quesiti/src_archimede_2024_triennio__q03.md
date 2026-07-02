@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total pairs (m,n) which solve n^2+2024n+2024m=2024< MSK1/>
+*Total pairs (m,n) which solve n^2+2024n+2024m=2024*
 
 > Carla, with a lot of patience, is typing out the number 1000300 + 759. How many digits will he have to write in all?
 >

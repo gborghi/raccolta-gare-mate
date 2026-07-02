@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min equidistant pallets< MSK1/>
+*min equidistant pallets*
 
 ![[src_kangourou_2023_benjamin__prob24.png]]
 

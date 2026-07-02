@@ -59,7 +59,7 @@ tags:
 
 *Diameter of the large circle of the ant, triangle data and circles of 1 mm diameter.*
 
-> The two circles, the triangle, and the great circle represent an ant's two eyes, nose, and head, respectively. Each of the two circles is tangent to the other circle and the great circle. The two circles have the same radius. The triangle has three equal sides and its vertices are on the circles. The three sides of the triangle and the diameters of the two circles all measure < MSK0/> millimetres. What is the diameter of the great circle in millimeters? A value approximating the nearest cent of a millimeter shall be given, taking, if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$; $3{,}317$ for $\sqrt{11}$.
+> The two circles, the triangle, and the great circle represent an ant's two eyes, nose, and head, respectively. Each of the two circles is tangent to the other circle and the great circle. The two circles have the same radius. The triangle has three equal sides and its vertices are on the circles. The three sides of the triangle and the diameters of the two circles all measure $1$ millimetres. What is the diameter of the great circle in millimeters? A value approximating the nearest cent of a millimeter shall be given, taking, if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$; $3{,}317$ for $\sqrt{11}$.
 
 **Answer:** 2,03
 [[src_bocconi_finaleint_2010_g1__Q18]]

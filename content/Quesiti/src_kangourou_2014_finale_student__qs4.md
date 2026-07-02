@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for n quantities of m< MSK1/>
+* for n quantities of m*
 
 > A natural number $n$ is broken down into $2014$ prime factors (not necessarily all distinct from each other). Each prime factor is added to $1$ and the new $2014$ numbers obtained are multiplied by each other, resulting in a $m$ number. Is it possible that for some natural number $n$, $n$ divides the number $m$ thus obtained? If the answer is no, provide an appropriate justification. If yes, specify for how many natural numbers $n$ $n$ divides $m$.
 

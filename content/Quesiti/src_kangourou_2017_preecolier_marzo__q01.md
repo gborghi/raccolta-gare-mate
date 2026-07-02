@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Who caught the fish following the ropes < MSK1/>
+*Who caught the fish following the ropes *
 
 ![[src_kangourou_2017_preecolier_marzo__prob1.png]]
 

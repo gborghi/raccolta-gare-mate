@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time to empty damigiana by drinking together< MSK1/>
+*Time to empty damigiana by drinking together*
 
-> On his own, Donato would take us now to learn the contents of a bottle of wine; Marco, MSK1 hours; Michele, MSK2 hours.
+> On his own, Donato would take us now to learn the contents of a bottle of wine; Marco,$3$hours; Michele,$6$hours.
 > 
 > If you put them together to drink, how long does it take you to finish the dinner?
 

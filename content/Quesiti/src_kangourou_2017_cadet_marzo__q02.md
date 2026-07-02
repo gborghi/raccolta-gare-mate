@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White fraction of the striped isosceles triangle< MSK1/>
+*White fraction of the striped isosceles triangle*
 
 ![[src_kangourou_2017_cadet_marzo__prob2.png]]
 

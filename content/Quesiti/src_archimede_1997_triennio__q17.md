@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interest closer to an expression with roots< MSK1/>
+*Interest closer to an expression with roots*
 
 > Which integer is closest to the number √ 5 + 2 √ 5 −2 ?
 >

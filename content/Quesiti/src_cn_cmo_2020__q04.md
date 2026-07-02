@@ -55,7 +55,7 @@ tags:
 
 *Triangolo acuto inserito in un cerchio; linea attraverso il centro parallela a AM; dimostrare l'uguaglianza delle somme di angoli*
 
-> Come mostrato nella figura. 4.1, inserire il < MSK1/> acuto al cerchio < MSK2/>, < MSK3/>. $M$ è il punto medio dell'arco minore $\widehat{BC}$ del cerchio $\omega$ e $K$ è il punto antipodal del punto $A$ sul cerchio $\omega$. Costruire una linea parallela di $AM$ attraverso il centro $O$ del cerchio $\omega$, il segmento di intersezione $AB$ al punto $D$ e l'estensione di $CA$ al punto $E$. Supponiamo che la linea $BM$ si intersechi $CK$ al punto $P$ e la linea $CM$ si intersechi $BK$ al punto $Q$. Provare che < MSK0/>
+> Come mostrato nella figura. 4.1, inserire il $\triangle ABC$ acuto al cerchio $\omega$, $AB > AC$. $M$ è il punto medio dell'arco minore $\widehat{BC}$ del cerchio $\omega$ e $K$ è il punto antipodal del punto $A$ sul cerchio $\omega$. Costruire una linea parallela di $AM$ attraverso il centro $O$ del cerchio $\omega$, il segmento intersezionante $AB$ al punto $D$ e l'estensione di $CA$ al punto $E$. Supponiamo che la linea $BM$ si intersechi $CK$ al punto $P$ e la linea $CM$ si intersechi $BK$ al punto $Q$. Provare che $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
 
 ![[src_cn_cmo_2020__Q04.png]]
 

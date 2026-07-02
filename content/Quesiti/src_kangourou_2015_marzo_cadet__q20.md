@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many true < MSK1/>
+*how many true *
 
 > Irene asked five of her students how many of them had studied yesterday. Aldo answered no one, Bianca answered only one, Clelia answered exactly two, Diana answered exactly three, Henry answered exactly four. Irene knows that students who didn't study lied and those who studied told the truth. How many of these students studied yesterday? A) 0
 > 	

@@ -52,6 +52,6 @@ tags:
 
 *Prove la disuguaglianza dei valori reali positivi x, y, z*
 
-> Lasciate che $x, y, z$ siano numeri reali positivi. Provare che < MSK0/>
+> Lasciate che $x, y, z$ siano numeri reali positivi. Provare che $$\frac{y^2 + z^2}{x} + \frac{z^2 + x^2}{y} + \frac{x^2 + y^2}{z} \ge 2(x + y + z).$$
 
 [[src_rmo_2014_r2__Q02]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>K dividers (10k squared, 6k cubic) < MSK1/>
+*K dividers (10k squared, 6k cubic) *
 
 > k is the smallest positive integer with this property: 10k is a perfect square and 6k is a perfect cube. How many positive divisors does the number k have ? A) 30                B) 40                C) 54                D) 72                E) 96
 

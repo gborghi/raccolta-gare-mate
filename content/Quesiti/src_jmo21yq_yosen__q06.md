@@ -49,6 +49,6 @@ tags:
 
 *Ricerca AR in triangolo rettangolo con angolo bisector e condizioni di lunghezza uguale*
 
-> Nel triangolo $ABC$ con $\angle ABC = 90^\circ$, i punti $P, Q, R$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, con $AQ : QC = 2 : 1$, $AR = AQ$, $QP = QR$ e $\angle PQR = 90^\circ$. Con < MSK10/>, trovare < MSK11/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo $ABC$ con $\angle ABC = 90^\circ$, i punti $P, Q, R$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, con $AQ : QC = 2 : 1$, $AR = AQ$, $QP = QR$ e $\angle PQR = 90^\circ$. Con $CP = 1$, trovare $AR$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 [[src_jmo21yq_yosen__Q06]]

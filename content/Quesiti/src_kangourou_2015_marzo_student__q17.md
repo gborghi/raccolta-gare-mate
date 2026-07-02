@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>price report< MSK1/>
+*price report*
 
 > A car salesman bought and sold two cars. Compared to the purchase prices, it resold the first one at a price above 40% and the second one at a price above 60%. The total revenue for the two cars was 54% more than the sum of the purchase prices. What is the ratio of the prices paid by the dealer for the first and second cars? (A) 2:3 B) 20:27 C) 3:7 D) 7:12 E) The information is not sufficient to answer.
 

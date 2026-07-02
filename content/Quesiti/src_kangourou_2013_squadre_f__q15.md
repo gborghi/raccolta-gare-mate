@@ -36,12 +36,6 @@ tags:
 > La piramide pentagonale 
 > La base di una piramide di vertice V è un pentagono regolare ABCDE e le sue cinque facce sono 
 > triangoli equilateri. Qual è la misura in gradi dell’angolo AVC? 
->  
->  
-> 
->  
->  
->  
 >     Quesiti e soluzioni
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]

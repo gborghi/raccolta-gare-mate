@@ -52,6 +52,6 @@ tags:
 
 *Prove un rapporto di prodotto per un esagono centricamente simmetrico dai punti di intersezione delle sue linee laterali.*
 
-> Che il $ABCDEF$ sia un esagono centralmente simmetrico. Le linee $AB$ e $EF$ si incontrano a $A'$, le linee $BC$ e $AF$ si incontrano a $B'$, e le linee $AB$ e $CD$ si incontrano a $C'$. Provare che < MSK0/>
+> Che il $ABCDEF$ sia un esagono centralmente simmetrico. Le linee $AB$ e $EF$ si incontrano a $A'$, le linee $BC$ e $AF$ si incontrano a $B'$, e le linee $AB$ e $CD$ si incontrano a $C'$. Provare che $$AB\cdot BC\cdot CD=AA'\cdot BB'\cdot CC'.$$
 
 [[src_pol_1993_r1__Q03]]

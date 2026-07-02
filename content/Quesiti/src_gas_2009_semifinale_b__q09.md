@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum cleared eulerian path mirrors on icosahedron< MSK1/>
+*Minimum cleared eulerian path mirrors on icosahedron*
 
 > The visions of Divisor I Polyedril, or visionary stones, are magical crystals that allow you to see remote things in time and space. Tauron called the Dark Lord of Middle-earth, or simply the Enemy, sabotaged King Divisor's Polyedril, which now only shows scary images and reality shows. The polyhedron has the shape of an icosahedron but Tauron magically erased some of the solid's stalks. It is now possible to travel the entire skeleton formed by the remaining spines by passing once and only once for each of them. How many lashes did you wipe at least?
 

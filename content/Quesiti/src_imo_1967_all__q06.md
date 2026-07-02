@@ -48,6 +48,6 @@ tags:
 
 Find number of days and total medals
 
-> In a sporting event, $m$ medals were awarded in $n$ consecutive days ($n > 1$). On the first day, a medal was awarded and the remaining MSK4 medals were awarded. On the second day, two medals were awarded and the remaining medals were MSK5/; and so on. The remaining < MSK6/> medals were awarded on the eighth and final day. How many days did the race last and how many medals were awarded in total?
+> In a sporting event, $m$ medals were awarded in $n$ consecutive days ($n > 1$). On the first day, a medal was awarded and the remaining$m-1$medals were awarded. On the second day, two medals were awarded and the remaining medals were$\dfrac{1}{7}$; and so on. The remaining $n$ medals were awarded on the eighth and final day. How many days did the race last and how many medals were awarded in total?
 
 [[src_imo_1967_all__Q06]]

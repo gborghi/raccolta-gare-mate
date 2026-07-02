@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quaternary x< y< z< t with xyzt-1=2001< MSK1/>
+*Quaternary x< y< z< t with xyzt-1=2001*
 
 > The number of different positive integers (x, y, z, t) such that x < y < z < t and xyzt - 1 = 2001, is equal to
 >

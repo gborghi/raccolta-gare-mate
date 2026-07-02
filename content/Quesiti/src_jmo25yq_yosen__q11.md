@@ -53,7 +53,7 @@ tags:
 
 *Ricerca l'area del triangolo ABC dato alle aree di tre sotto-triangoli formati da punti di centro d'arco*
 
-> Che $\triangle ABC$ sia un triangolo inciso in un cerchio. Il $A'$ deve essere il punto medio dell'arco $BC$ senza $A$, il $B'$ deve essere il punto medio dell'arco $CA$ senza $B$ e il $C'$ deve essere il punto medio dell'arco $AB$ senza $C$. Le superfici di $\triangle A'B'C'$, $\triangle AB'C'$ e $\triangle A'BC'$ sono rispettivamente $2$, $3$ e $4$. Trova la superficie di < MSK16/>.
+> Che $\triangle ABC$ sia un triangolo inciso in un cerchio. Il $A'$ deve essere il punto medio dell'arco $BC$ senza $A$, il $B'$ deve essere il punto medio dell'arco $CA$ senza $B$ e il $C'$ deve essere il punto medio dell'arco $AB$ senza $C$. Le superfici di $\triangle A'B'C'$, $\triangle AB'C'$ e $\triangle A'BC'$ sono rispettivamente $2$, $3$ e $4$. Trova la superficie di $\triangle ABC$.
 
 **Risposta:** \dfrac{288}{35}
 [[src_jmo25yq_yosen__Q11]]

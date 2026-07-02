@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rete pieghevole di cartone costituisce una scatola rettangolare; trova il suo volume< MSK1/>
+*Rete pieghevole di cartone costituisce una scatola rettangolare; trova il suo volume*
 
-> Il disegno di fianco mostra un pezzo di cartone che verrà piegato e incollato lungo i bordi per formare una scatola rettangolare. Gli angoli degli angoli della cartone sono tutti angoli retti. Qual è il volume della scatola, in < MSK0/>? A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
+> Il disegno di fianco mostra un pezzo di cartone che verrà piegato e incollato lungo i bordi per formare una scatola rettangolare. Gli angoli degli angoli della cartone sono tutti angoli retti. Qual è il volume della scatola, in $\text{cm}^3$? A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
 
 ![[src_obm_2005_n2_f1__Q10.png]]
 

@@ -85,7 +85,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which combination of ice cream and decoration is NOT possible< MSK1/>
+*Which combination of ice cream and decoration is NOT possible*
 
 ![[src_kangourou_2020_ecolier_marzo__prob18.png]]
 

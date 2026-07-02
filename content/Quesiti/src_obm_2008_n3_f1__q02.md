@@ -53,7 +53,7 @@ tags:
 
 *Per x = 10^(-2008), trovare l'opzione con il valore più grande*
 
-> Let < MSK0/>. Indicare l'alternativa che presenta il maggior valore.
+> Let $x = 10^{-2008}$. Indicare l'alternativa che presenta il maggior valore.
 > 
 > (A) $\dfrac{1}{x}$ (B) $\dfrac{1}{x(x+1)}$ (C) $\dfrac{1}{1+\dfrac{1}{1+\dfrac{1}{x}}}$ (D) $x$ (E) $\dfrac{x}{x+\dfrac{1}{x}}$
 

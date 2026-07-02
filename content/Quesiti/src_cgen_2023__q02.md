@@ -151,7 +151,7 @@ tags:
 > 
 > 5. Tra i polinomi dati (in fonte), quali sono falsamente simpatici e inizialmente simpatici?
 > 
-> 6. Mostrare che qualsiasi polinomio falsamente simpatico è: a. strettamente negativo nell'intervallo $[0, +\infty)$; b. diminuzione nell'intervallo < MSK1/>.
+> 6. Mostrare che qualsiasi polinomio falsamente simpatico è: a. strettamente negativo nell'intervallo $[0, +\infty)$; b. diminuzione nell'intervallo $[0, +\infty)$.
 > 
 > 7. Mostrare che qualsiasi polinomio $P$ che è falsamente simpatico e inizialmente simpatico soddisfa: $P$ diminuisce su un intervallo $[0, r]$, $P$ aumenta rigorosamente su $[r, +\infty)$, $P$ è rigorosamente negativo su $[0, r]$, e l'equazione $P(x) = 0$ ammette una soluzione unica su $[r, +\infty)$.
 > 
@@ -161,7 +161,7 @@ tags:
 > 
 > 2.3 Torniamo alle idee.
 > 
-> Da ora in poi, consideriamo i polinomi veramente simpatetici $P_1, P_2, \dots$ di grado al massimo $d$. Si scrive ogni polinomio $P_n$ nella forma $$P_n : x \mapsto a_{d,n} x^d + a_{d-1,n} x^{d-1} + \cdots + a_{1,n} x + a_{0,n}.$$ Si suppone inoltre che, per ogni numero intero $k$ con $0 \le k \le d$, la sequenza $(a_{k,n})_{n \ge 1}$ converge; $a_k$ denota il suo limite. Considera il polinomio $P_\infty$ definito da $$P_\infty : x \mapsto a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + a_0.$$ Per ogni reale $r$, indicare con $x_n$ la soluzione unica strettamente positiva dell'equazione $P_n(x) = 0$. Si studia la possibile convergenza della sequenza < MSK13/>.
+> Da ora in poi, consideriamo i polinomi veramente simpatetici $P_1, P_2, \dots$ di grado al massimo $d$. Si scrive ogni polinomio $P_n$ nella forma $$P_n : x \mapsto a_{d,n} x^d + a_{d-1,n} x^{d-1} + \cdots + a_{1,n} x + a_{0,n}.$$ Si suppone inoltre che, per ogni numero intero $k$ con $0 \le k \le d$, la sequenza $(a_{k,n})_{n \ge 1}$ converge; lasciate $a_k$ indicare il suo limite. Considera il polinomio $P_\infty$ definito da $$P_\infty : x \mapsto a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + a_0.$$ Per ogni reale $r$, indicare con $x_n$ la soluzione unica strettamente positiva dell'equazione $P_n(x) = 0$. Si studia la possibile convergenza della sequenza $(x_n)_{n \ge 1}$.
 > 
 > 10. Lasciate che $t$ sia un reale fisso. Indicare che la sequenza $(P_n(t))_{n \ge 1}$ converge a $P_\infty(t)$.
 > 

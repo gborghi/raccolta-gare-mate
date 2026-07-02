@@ -45,9 +45,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Punto D su BC, incentri I1 I2 di ABD ACD, angolo BI1E=60, angolo CI2F< MSK1/>
+*Punto D su BC, incentri I1 I2 di ABD ACD, angolo BI1E=60, angolo CI2F*
 
-> $D$ sia un punto interno del lato $BC$ di un triangolo $ABC$. Il $I_1$ e il $I_2$ siano rispettivamente gli incentri dei triangoli $ABD$ e $ACD$. Lasciate che < MSK7/> e < MSK8/> si incontrino rispettivamente < MSK9/> in < MSK10/> e < MSK11/>. Se $\angle BI_1 E = 60^\circ$, qual è la misura di $\angle CI_2 F$ in gradi?
+> $D$ sia un punto interno del lato $BC$ di un triangolo $ABC$. Il punto di riferimento è il punto di riferimento di cui all'allegato I del presente regolamento. In $E$ e $F$, rispettivamente, $AI_1$ e $AI_2$ si incontrano $BC$. Se $\angle BI_1 E = 60^\circ$, qual è la misura di $\angle CI_2 F$ in gradi?
 
 **Risposta:** 60
 [[src_prmo_2018__Q29]]

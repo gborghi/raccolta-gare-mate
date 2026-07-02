@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The smallest sum of two numbers with nine digits < MSK1/>
+*The smallest sum of two numbers with nine digits *
 
 > (6 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest amount you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Lonely probability of figures locked on a 2x3 grid< MSK1/>
+*Lonely probability of figures locked on a 2x3 grid*
 
 > The leader of the SPECTRAL THEOREM plays a loner with his white cat on his legs. He must insert in each box of a grid 2×3, initially empty, a figure representing him at the head of the world (the figures are all the same). The first figure is placed randomly; from the second the leader randomly chooses a box that has at least one vertex in common with the box in which he placed the previous figure. After inserting a few figures, but not all, the leader realizes that there are no boxes adjacent to that choice right away. He's upset, the cat's leaving. What was the probability that the cat would leave? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

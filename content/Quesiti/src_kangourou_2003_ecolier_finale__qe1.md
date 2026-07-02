@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many apples from packages with 9 total oranges< MSK1/>
+*How many apples from packages with 9 total oranges*
 
 > In one store, fruit packages of two types are on sale: packages of 2 oranges and 4 apples each and packages of 5 oranges and 3 apples each. After I bought some packages at that store, I find myself with nine oranges in all. How many apples have I bought in total?
 

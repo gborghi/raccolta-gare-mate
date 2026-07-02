@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum apples divisible by 3, 4 and 1/2 after -2< MSK1/>
+*Minimum apples divisible by 3, 4 and 1/2 after -2*
 
 > Three friends are dividing an apple basket into equal parts and they realize they can do it without cutting the apples. A fourth friend arrives and they decide to divide again, always in equal parts and they manage to do it again without cutting the apples. One of the four goes home and eats two apples along the way. When he gets home, he realizes that he can split the remaining apples in half with his girlfriend without cutting them. How many original apples could there be at least?
 >

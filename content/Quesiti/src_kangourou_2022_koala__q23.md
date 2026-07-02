@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many children< MSK1/>
+*how many children*
 
 ![[src_kangourou_2022_koala__prob23.png]]
 

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance after 17 jumps with saddle rotations< MSK1/>
+*Distance after 17 jumps with saddle rotations*
 
 > A squirrel moves by making jumps of exactly 10 centimeters. His motorcycle follows this pattern: he makes a number of jumps in a given direction, then rotates to his left of 120° and makes, in the new direction, twice the jumps he had made in the previous direction. At this point, turn again 120° to the left and double the number of jumps once again. Knowing that it starts with a single jump in a given direction, how far from the starting point will it be after 17 jumps?
 >

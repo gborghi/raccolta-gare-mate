@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies between 2.09 and 15.3< MSK1/>
+*Interies between 2.09 and 15.3*
 
 > How many integers are between 2.09 and 15.3? A) 13 B) 14 C) 11 D) 12 E) are infinite
 

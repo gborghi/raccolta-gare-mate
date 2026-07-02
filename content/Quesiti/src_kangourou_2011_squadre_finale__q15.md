@@ -38,12 +38,6 @@ tags:
 > Gli angoli del rombo 
 > In figura vedete un rombo formato accostando quattro triangoli rettangoli fra loro congruenti. 
 > Quanti gradi misura ciascuno degli angoli acuti del rombo?                                                        
->  
->               
->                                                                                                                             
-> 
->  
->  
 > Kangourou della Matematica 2011 
 > Coppa a squadre Kangourou - finale 
 > Mirabilandia,  8  maggio  2011 

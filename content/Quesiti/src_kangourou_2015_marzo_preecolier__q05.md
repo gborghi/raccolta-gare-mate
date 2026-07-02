@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>shorter < MSK1/>
+*shorter *
 
 ![[src_kangourou_2015_marzo_preecolier__prob5.png]]
 

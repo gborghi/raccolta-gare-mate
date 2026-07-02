@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Team points after four days with constraints< MSK1/>
+*Team points after four days with constraints*
 
 > Mark says, "My team was ahead of you in the standings for the first three days, and only now at the fourth you've reached us". Roberto replies: 'But don't forget that on the third day we evened right at your house and that, unlike you, we are still in a draw. How many points does each of the two teams have at the end of day four? (Three points are awarded to the winning team, 0 points to the losing team, 1 point to each team in the event of a draw).
 >

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Half sheet x^2 y^2, maximum number of jokes < MSK1/>
+*Half sheet x^2 y^2, maximum number of jokes *
 
 > A booklet chooses two odd numbers x, y such that 0 < y < x < 2012, calculates x2 −y2 and writes the result on a sheet. Every morning (starting the next day) he wakes up, reads the number written on the paper, and if that number is even, he replaces it with his half and goes to make a joke to someone. The day he first reads a strange number, he disappears back into the fairy world. How many jokes does a puppeteer make at most?
 >

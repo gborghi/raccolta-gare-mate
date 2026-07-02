@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which cube is obtained< MSK1/>
+*which cube is obtained*
 
 ![[src_kangourou_2023_benjamin__prob4.png]]
 

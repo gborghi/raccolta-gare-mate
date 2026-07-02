@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>XA diagonal of the parallel piped (Pitagora) < MSK1/>
+*XA diagonal of the parallel piped (Pitagora) *
 
 ![[src_kangourou_2006_student_marzo__prob20.png]]
 

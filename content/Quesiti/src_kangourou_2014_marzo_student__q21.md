@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min of maximum< MSK1/>
+*min of maximum*
 
 > On the board are written 10 positive integers that are different from each other: we call M the largest. You know that exactly 5 of them are divisible by 5 and exactly 7 are divisible by 7. What is the minimum value that M can assume? A) 105 B) 77
 > 	

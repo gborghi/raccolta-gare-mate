@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ineguaglianza per i valori reali non negativi sommati a 1 attraverso frazioni ponderate< MSK1/>
+*Ineguaglianza per i valori reali non negativi sommati a 1 attraverso frazioni ponderate*
 
 > $r_1, r_2, \ldots, r_n$ siano numeri reali non negativi con $\sum_{i=1}^{n} \frac{r_i}{i + r_i} = 1$. Prove che $\sum_{i=1}^{n} \frac{r_i}{4i - 1} \le 1$.
 

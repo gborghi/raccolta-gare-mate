@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Inteers from 1 to 100 not dividing the product from 50 to 80< MSK1/>
+*Inteers from 1 to 100 not dividing the product from 50 to 80*
 
 > Whether K = 50 · 51 · 52 · · 79 · 80 the product of integers 50 to 80. How many integers from 1 to 100 (extremes included) don't divide K?
 >

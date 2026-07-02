@@ -59,7 +59,7 @@ tags:
 
 *Ricerca p dato che i numeri interi positivi m, n, p soddisfano 3m + 3/(n + 3/p) = 17*
 
-> I numeri interi positivi $m$, $n$ e $p$ soddisfano l'equazione $3m + \dfrac{3}{n + \dfrac{3}{p}} = 17$. Qual è il valore di < MSK4/>?
+> I numeri interi positivi $m$, $n$ e $p$ soddisfano l'equazione $3m + \dfrac{3}{n + \dfrac{3}{p}} = 17$. Qual è il valore di $p$?
 >
 > - **(A)** $2$
 > - **(B)** $3$

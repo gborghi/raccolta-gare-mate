@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Circolo interseca i lati del triangolo; AL, BM, CN contemporaneamente< MSK1/>
+*Circolo interseca i lati del triangolo; AL, BM, CN contemporaneamente*
 
 > Un cerchio incrocia i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di linea $E_1F_2$ e $E_2F_1$ si incrociano al punto $L$, $F_1D_2$ e $F_2D_1$ si incrociano al punto $M$, $D_1E_2$ e $D_2E_1$ si incrociano al punto $N$. Provare che $AL$, $BM$ e $CN$ sono simultanei. (Posato da Ye Zhonghao)
 

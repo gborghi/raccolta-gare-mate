@@ -51,7 +51,7 @@ tags:
 
 Middle-aged party with girls double boys
 
-> There's a lot of guys at a party, but there's twice as many girls. Their average age is < MSK0/> years, while that of boys is < MSK1/> years.
+> There's a lot of guys at a party, but there's twice as many girls. Their average age is $15$ years, while that of boys is $18$ years.
 > 
 > **What is the average age of all party participants?**
 

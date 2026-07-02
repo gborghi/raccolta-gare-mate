@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N values with 8n^3+11n^2+16n-20 perfect cube, sum< MSK1/>
+*N values with 8n^3+11n^2+16n-20 perfect cube, sum*
 
 > Goemetrikon: I will join you if you show that you are not afraid to get your hands dirty. . . I'm not in the business of counting. Could you tell me how much is 20233 −3·20223 +3·20213 −20203?. Lupin/3: Give me a second. . . ». What is the answer to Goemetrikon's question?
 

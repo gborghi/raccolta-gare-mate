@@ -49,6 +49,6 @@ tags:
 
 *OM:ON per un quadrilaterale tangenziale con incentro O*
 
-> Il quadrilaterale $ABCD$ è circoscritto intorno a un cerchio centrato a $O$ (il cerchio è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Il segmento $M$ deve essere il punto medio del segmento $AC$ e il segmento $N$ deve essere il punto medio del segmento $BD$. Trova < MSK10/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Il quadrilaterale $ABCD$ è circoscritto intorno a un cerchio centrato a $O$ (il cerchio è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Il segmento $M$ deve essere il punto medio del segmento $AC$ e il segmento $N$ deve essere il punto medio del segmento $BD$. Trova $OM : ON$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 [[src_jmo21yq_yosen__Q11]]

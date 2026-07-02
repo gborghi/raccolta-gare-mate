@@ -51,6 +51,6 @@ tags:
 
 *Triangolo con D,E su BC,AC; P su ED; rapporto BS/SD*
 
-> In un triangolo $ABC$, i punti $D$ e $E$ si trovano sui segmenti $BC$ e $AC$ in modo tale che $BD = 3DC$ e $AE = 4EC$. Il punto $P$ è in linea $ED$ in modo tale che $D$ sia il punto medio del segmento $EP$. Le linee $AP$ e $BC$ si incrociano al punto $S$. Trova il rapporto < MSK14/>.
+> In un triangolo $ABC$, i punti $D$ e $E$ si trovano sui segmenti $BC$ e $AC$ in modo tale che $BD = 3DC$ e $AE = 4EC$. Il punto $P$ è in linea $ED$ in modo tale che $D$ sia il punto medio del segmento $EP$. Le linee $AP$ e $BC$ si incrociano al punto $S$. Trova il rapporto $BS/SD$.
 
 [[src_rmo_2013_mumbai__Q04]]

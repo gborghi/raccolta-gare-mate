@@ -59,7 +59,7 @@ tags:
 
 Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 
-> Il numero $840$ può essere scritto come $\dfrac{p!}{q!}$, dove $p$ e $q$ sono numeri interi positivi inferiori a $10$. Qual è il valore di < MSK5/>? Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
+> Il numero $840$ può essere scritto come $\dfrac{p!}{q!}$, dove $p$ e $q$ sono numeri interi positivi inferiori a $10$. Qual è il valore di $p + q$? Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
 >
 > - **(A)** 8
 > - **(B)** 9

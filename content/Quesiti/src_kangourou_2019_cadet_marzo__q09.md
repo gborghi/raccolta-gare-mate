@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many chocolates are left after the last day< MSK1/>
+*How many chocolates are left after the last day*
 
 > 9. Elizabeth received a large box of 60 chocolates as a gift. On Monday he ate a tenth, on Tuesday he ate a ninth of the remaining, on Wednesday he ate an eighth of the remaining and so on until the day he ate half the chocolate left over the day before. How many chocolates are left after that day? A) 3 B) 8 C) 4 D) 2 E) 6
 

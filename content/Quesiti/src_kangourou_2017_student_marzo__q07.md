@@ -60,7 +60,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 
 ![[src_kangourou_2017_student_marzo__prob7.png]]
 
-> Each bar consists of two white and two black cubes, glued together to produce a parallel piped of 4 < MSK0/> 1 < MSK1/> 1 with two white cubes at one end and two black cubes at the other, as shown in Figure 1. Which of the following solids can be constructed with 4 bars? A) B) C)
+> Each bar consists of 2 white and 2 black cubes, glued together to produce a parallel piped of 4 × 1 × 1 with two white cubes at one end and two black cubes at the other, as shown in Figure 1. Which of the following solids can be constructed with 4 bars? A) B) C)
 > 	
 > D) E)
 

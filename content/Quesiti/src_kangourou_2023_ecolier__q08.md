@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which is not available< MSK1/>
+*which is not available*
 
 ![[src_kangourou_2023_ecolier__prob8.png]]
 

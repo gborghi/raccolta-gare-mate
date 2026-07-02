@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Chance of Danilo getting the jersey 8< MSK1/>
+*Chance of Danilo getting the jersey 8*
 
 > There are 11 players on a team and 11 shirts numbered from 1 to 11. Players enter the locker room one at a time, in random order. Everyone, as soon as they arrive, chooses a shirt at random, except Danilo who prefers shirt number eight and, if available, chooses that one. What are the odds of Danilo getting his favorite jersey number?
 >

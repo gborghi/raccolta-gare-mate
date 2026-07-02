@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-*Length of the segment joining consecutive mediums in a rectangle inscribed in a circle with a diameter of 2 cm*
+*Length of the segment connecting consecutive mediums in a rectangle inscribed in a circle with a diameter of 2 cm*
 
-> Write any rectangle into a circle with a diameter of < MSK0/> cm and consider the midpoints of its sides. What is the length of the segment connecting two of these consecutive mean points?
+> Write any rectangle into a circle with a diameter of $2$ cm and consider the midpoints of its sides. What is the length of the segment connecting two of these consecutive mean points?
 
 ![[src_bocconi_squadre_2014__Q05.png]]
 

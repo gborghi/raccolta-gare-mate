@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (a,b) with gcd(a^n+b,b^n+a) constant< MSK1/>
+*Pairs (a,b) with gcd(a^n+b,b^n+a) constant*
 
 > Determine the pairs $(a, b)$ of positive integers for which there exist positive integers $g$ and $N$ such that $$\gcd(a^n + b,\, b^n + a) = g$$ holds for all integers $n \geq N$.
 > 

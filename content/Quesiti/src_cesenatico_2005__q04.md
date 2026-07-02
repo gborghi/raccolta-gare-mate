@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n integers two to two with common factor but three to three coatings< MSK1/>
+*n integers two to two with common factor but three to three coatings*
 
-> Determine for which n < MSK0/>3 it is possible to find n positive integers such that two to two have at least one common factor other than 1, but three to three are prime to each other. If we add the condition that all integers are less than 5000, what is the maximum value of n possible?
+> Determine for which n ≥3 it is possible to find n positive integers such that two to two have at least one common factor other than 1, but three to three are prime to each other. If we add the condition that all integers are less than 5000, what is the maximum value of n possible?
 
 **Answer:** per ogni n>=3; con limite <5000 il massimo n e 4
 [[src_cesenatico_2005__Q04]]

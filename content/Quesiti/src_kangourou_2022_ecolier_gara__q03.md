@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>A set of arrows to bring the bee to bloom< MSK1/>
+*A set of arrows to bring the bee to bloom*
 
 ![[src_kangourou_2022_ecolier_gara__prob3.png]]
 

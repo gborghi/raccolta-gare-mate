@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Eptagone regolare con punti segnati; angolo di ricerca PTS< MSK1/>
+*Eptagone regolare con punti segnati; angolo di ricerca PTS*
 
-> C' è un heptagone regolare < MSK0/> con lunghezza laterale < MSK1/>. I punti $P, Q, R, S$ si trovano rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Il segmento $T$ è l'intersezione del segmento $PR$ e del segmento $QS$. Trova la misura di $\angle PTS$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> C' è un heptagone regolare $ABCDEFG$ con lunghezza laterale $1$. I punti $P, Q, R, S$ si trovano rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Il segmento $T$ è l'intersezione del segmento $PR$ e del segmento $QS$. Trova la misura di $\angle PTS$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jjmo8yq_yosen__Q07.png]]
 

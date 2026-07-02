@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pairs (m,n) with 1/m+1/n=1/2022< MSK1/>
+*How many pairs (m,n) with 1/m+1/n=1/2022*
 
 > For all ordered pairs $(m, n)$ of positive integers $$\frac{1}{m} + \frac{1}{n} = \frac{1}{2022}\,?$$
 

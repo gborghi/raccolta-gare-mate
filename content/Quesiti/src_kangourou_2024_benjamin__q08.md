@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of weights to balance 445 g< MSK1/>
+*Minimum number of weights to balance 445 g*
 
 > To weigh an object weighing 445 g, Piero has a two-plate scale and the following eight weights What is the minimum number of weights that allows him to balance the scale? A) 2
 > 	

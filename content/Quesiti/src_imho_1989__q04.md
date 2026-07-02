@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Convex quadrilateral with special point yields inequality 1/sqrt(h) >= 1/sqrt(AD) +1/sqrt(BC) < MSK1/>
+*Convex quadrilateral with special point yields inequality 1/sqrt(h) >= 1/sqrt(AD) +1/sqrt(BC) *
 
 > Let $ABCD$ be a convex quadrilateral such that the sides $AB$, $AD$, $BC$ satisfy $AB = AD + BC$. There exists a point $P$ inside the quadrilateral at a distance $h$ from the line $CD$ such that $AP = h + AD$ and $BP = h + BC$. Show that:
 

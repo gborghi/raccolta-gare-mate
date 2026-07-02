@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height difference between Desiderio and Nando (IMC) < MSK1/>
+*Height difference between Desiderio and Nando (IMC) *
 
 > To measure a person's possible overweight, the World Health Organization (WHO) has introduced a 'body mass index' (BMI) given by the ratio of weight, measured in kg, to height squared (in m).
 > 

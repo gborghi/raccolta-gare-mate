@@ -61,7 +61,7 @@ tags:
 
 > Multiply in every possible way two different numbers chosen between 1, 2, 3, \ldots, 19, 20 and mark the even results thus obtained. However, if a result has been obtained more than once, it will be scored only once.
 > 
-> < MSK0/>How many of these results are divisible by 3? < MSK1/>
+> **How many of these results are divisible by 3? **
 
 **Answer:** 43
 [[src_bocconi_finalenaz_2010__Q14]]

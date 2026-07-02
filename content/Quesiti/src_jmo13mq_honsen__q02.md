@@ -69,7 +69,7 @@ tags:
 > 
 > (3) $b$ è un multiple di $a$.
 > 
-> Trova tutte le coppie < MSK0/>.
+> Trova tutte le coppie $(a, b)$.
 > 
 > Per esempio, quando $a = 1234$ e $b = 3412$, le condizioni (1) e (2) si appoggiano ma (3) non lo fanno.
 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of returning to the pit after 6 random steps< MSK1/>
+*Probability of returning to the pit after 6 random steps*
 
 > A turtle occasionally takes a walk, starting from its own lair. The pass is made up of one metre straight sections, each in a random direction between North, South, West, East. What are the odds that after a six-meter walk, the turtle will find itself in the ditch again?
 >

@@ -53,7 +53,7 @@ tags:
 
 *AC diagonal length in the shape of four equilateral triangles*
 
-> Look at the figure, it's made up of four equilateral triangles that have sides of 1 m. Calculate the length of the diagonal < MSK0/>.
+> Look at the figure, it's made up of four equilateral triangles that have sides of 1 m. Calculate the length of the diagonal $AC$.
 
 ![[src_bocconi_squadre_2011__Q12.png]]
 

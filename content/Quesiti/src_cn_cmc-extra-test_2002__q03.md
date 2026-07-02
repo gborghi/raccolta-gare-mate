@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Programmazione della Coppa del Mondo: piani di sostituzione del conteggio < MSK1/>
+*Programmazione della Coppa del Mondo: piani di sostituzione del conteggio *
 
 > Prima del torneo della Coppa del Mondo, l'allenatore di calcio del paese $F$ permetterà a sette giocatori $A_1$, $A_2$, $\ldots$, $A_7$ di partecipare a tre lezioni di allenamento (90 minuti ciascuno) per valutarli. Supponiamo che, in qualsiasi momento durante una partita, uno e solo uno di loro entri sul campo; e il tempo totale (misurato in minuti) sul campo per ciascuno di $A_1$, $A_2$, $A_3$ e $A_4$ sia divisibile per 7 e il tempo totale per ciascuno di $A_5$, $A_6$ e $A_7$ sia divisibile per 13. Se non vi è alcuna restrizione sul numero di volte di sostituzione di giocatori durante ogni partita, allora quanti possibili casi ci sono all'interno del tempo totale per ogni giocatore sul campo?
 

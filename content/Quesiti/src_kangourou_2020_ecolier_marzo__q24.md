@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most of the KAN-ROO+GA results with distinct figures< MSK1/>
+*Most of the KAN-ROO+GA results with distinct figures*
 
 > Anna replaces the letters in the expression KAN  ROO + GA with digits chosen from 1 to 9: equal letters with equal numbers, different letters with different numbers. Then calculate the result. What's the best result you can get? A) 933 B) 939 C) 941 D) 942 E) 948
 > 

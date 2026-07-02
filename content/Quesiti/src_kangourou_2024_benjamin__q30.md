@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What figure has Biagio added (increase to 2024) < MSK1/>
+*What figure has Biagio added (increase to 2024) *
 
 > Ada had written a three-digit number on the board. Biagio added a fourth digit to the right of Ada's number. Now Biagio observes: Look! Your number has increased by 2024. What number did Biagio add? A) 2
 > 	

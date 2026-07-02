@@ -59,6 +59,6 @@ tags:
 
 > Noémie e Tristan sono pastori. Ognuno di essi possiede un numero di pecore che è un quadrato perfetto, cioè un intero che può essere scritto nella forma $n^2 = n \times n$ con $n$ un intero non negativo. Scriviamo così $a^2$ per il numero di pecore di Noémie e $b^2$ per quello di Tristan. Dopo un rapido conteggio del numero totale di pecore, si deduce che $97 \le a^2 + b^2 \le 108$. Determina il numero di pecore di ciascuna, sapendo che:
 > 
-> 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno < MSK0/> pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
+> 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
 [[src_canimath_2020_automne__Q04]]

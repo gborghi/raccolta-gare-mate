@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>First difference, perfect square product, maximum first p< MSK1/>
+*First difference, perfect square product, maximum first p*
 
 > The difference of two positive integers a and b is a prime number p and their product is a perfect square not exceeding 10,000. What is the maximum value that p can assume?
 

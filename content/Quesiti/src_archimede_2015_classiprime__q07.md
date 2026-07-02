@@ -76,7 +76,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area of the smallest equilateral triangle containing hexagon< MSK1/>
+*Area of the smallest equilateral triangle containing hexagon*
 
 ![[src_archimede_2015_classiprime__prob7.png]]
 

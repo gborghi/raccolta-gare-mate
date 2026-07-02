@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Biggest N 4 digits with the last digit 1 in bases 4,5,6,7< MSK1/>
+*Biggest N 4 digits with the last digit 1 in bases 4,5,6,7*
 
 > An appropriate agreement [30] As everyone knows, the morning villages of Retta, Root, Monoide and Binomio count on different bases. Find the largest number N of 4 decimal digits whose penultimate digit is 1 when N is written in base 4, 5, 6, 7.
 

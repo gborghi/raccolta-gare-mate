@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>100 more than Claudia than Elena< MSK1/>
+*100 more than Claudia than Elena*
 
 > The extra cents Claudia has 64 20 cent coins and some 50 cent coins. Elena has 95 20-cent coins and some 50-cent coins. Claudia and Elena have the same number of coins, and the ones we've listed are the only coins they have. How many cents does Claudia have more than Elena?
 

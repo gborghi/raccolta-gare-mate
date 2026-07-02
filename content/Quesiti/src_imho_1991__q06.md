@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-MSK1/>Construct bounded sequence with -- x_j>
+*Construct bounded sequence with -- x_j>
 
 > An infinite sequence $x_0, x_1, x_2, \ldots$ of real numbers is said to be *bounded* if there is a constant $C$ such that $|x_i| \le C$ for every $i \ge 0$.
 > 

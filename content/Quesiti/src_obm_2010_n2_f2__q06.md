@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Count legal 2< MSK0/>2010 bicolori che evitano il monocromatico L-tromino< MSK2/>
+*Count legal 2×2010 bicolori che evitano il monocromatico L-tromino*
 
 > Joãozinho vuole colorare una lavagna $2 \times 2010$ con due colori $A$ e $B$. Un colore è chiamato \emph{legal} se non è possibile trovare un tromino L (tromino a forma di L), come nella figura seguente, con tutti i suoi quadrati dello stesso colore. Determina il numero di coloranti legali.
 > 

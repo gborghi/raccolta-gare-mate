@@ -53,7 +53,7 @@ tags:
 
 *Triangolo isosceles con incentro; prova BH perpendicolare QH*
 
-> 40 punti) Come mostrato alla figura 1.1, nelle isosceles $\triangle ABC$, $AB = BC$ e $I$ è il suo incentro. $M$ è il punto medio di $BI$. $P$ si trova sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$ sull'estensione di $PI$ soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore del circoncircolo di $\triangle ABC$. Prove che < MSK13/>.
+> 40 punti) Come mostrato alla figura 1.1, nelle isosceles $\triangle ABC$, $AB = BC$ e $I$ è il suo incentro. $M$ è il punto medio di $BI$. $P$ si trova sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$ sull'estensione di $PI$ soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore del circoncircolo di $\triangle ABC$. Prove che $BH \perp QH$.
 
 ![[src_cn_cmc-second-round_2020__Q01.png]]
 

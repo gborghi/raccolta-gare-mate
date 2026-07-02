@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Count of k with unchanged MCD and mcm< MSK1/>
+*Count of k with unchanged MCD and mcm*
 
 > That's n = 7575 and m = 7755. How many ways can I choose the positive integer k so that MCD(m, n) = MCD(m, n, k) and mcm(m, n) = mcm(m, n, k)? A 16 B 12 C 2 D 181 E 163 F 36
 

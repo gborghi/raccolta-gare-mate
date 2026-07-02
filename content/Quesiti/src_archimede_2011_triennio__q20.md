@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ramage of a circle inscribed in a quadrilateral with orthogonal diagonals< MSK1/>
+*Ramage of a circle inscribed in a quadrilateral with orthogonal diagonals*
 
 > In the quadrilateral ABCD the diagonals are orthogonal to each other and the angles in B and D are straight. In addition, AB = AD = 20 cm, BC = CD = 30 cm. Calculate the radius of circumference recorded in the ABCD.
 >

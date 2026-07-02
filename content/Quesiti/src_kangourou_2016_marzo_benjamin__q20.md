@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> thick environment< MSK1/>
+* thick environment*
 
 ![[src_kangourou_2016_marzo_benjamin__prob20.png]]
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N2 dividers if n has 6 dividers< MSK1/>
+*N2 dividers if n has 6 dividers*
 
 > If n is a natural number with 6 positive integers, how many positive integers does n have? N.B.: Among the divisors of a number, we also count 1 and the number itself.
 >

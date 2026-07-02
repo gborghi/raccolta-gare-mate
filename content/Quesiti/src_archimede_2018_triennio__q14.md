@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of empty seat between boy and girl< MSK1/>
+*Probability of empty seat between boy and girl*
 
 > Three boys and two girls have to sit around a table with six chairs, numbered from 1 to 6. To decide its place, each of the five draws one out of six sheets (numbered 1 to 6) by lot. What's the probability that the empty chair will be between a boy and a girl?
 >

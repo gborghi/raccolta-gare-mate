@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which weights are lifted< MSK1/>
+*which weights are lifted*
 
 ![[src_kangourou_2023_benjamin__prob21.png]]
 

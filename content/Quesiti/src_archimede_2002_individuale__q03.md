@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>show< MSK1/>
+*show*
 
 ![[src_archimede_2002_individuale__prob3.png]]
 

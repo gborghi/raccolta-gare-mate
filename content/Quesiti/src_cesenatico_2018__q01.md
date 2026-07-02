@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>height of the bottle< MSK1/>
+*height of the bottle*
 
 > A cone-shaped bottle rests on its base. It is filled with water until the level of the liquid reaches 8 centimetres measured vertically below the top of the cone. Now, if you turn the bottle around, without changing the amount of water inside, the space left empty at the top of the reversed cone is 2 centimeters high. How high is the bottle?
 

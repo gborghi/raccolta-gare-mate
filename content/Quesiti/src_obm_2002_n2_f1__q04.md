@@ -60,15 +60,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Diluire due volte il latte di 2000 l con acqua; trovare V in modo che il latte sia uguale al volume dell'acqua< MSK1/>
+*Diluire due volte il latte di 2000 l con acqua; trovare V in modo che il latte sia uguale al volume dell'acqua*
 
-> Una fabbrica acquista < MSK0/> litri di latte puro e poi rimuove un volume < MSK1/> di latte. Il contenitore viene quindi riempito di < MSK2/> litri di acqua, viene rimosso lo stesso volume < MSK3/> della miscela e viene riempito di nuovo di < MSK4/> litri di acqua. Nella miscela finale, il volume del latte è uguale al volume dell'acqua. Il volume $V$ (in litri) è:
+> Una fabbrica acquista $2000$ litri di latte puro e poi rimuove un volume $V$ di latte. Il contenitore viene quindi riempito di $2000$ litri di acqua, viene rimosso lo stesso volume $V$ della miscela e viene riempito di nuovo di $2000$ litri di acqua. Nella miscela finale, il volume del latte è uguale al volume dell'acqua. Il volume $V$ (in litri) è:
 >
-> - **(A)** < MSK0/> litri
-> - **(B)** < MSK0/> litri
-> - **(C)** < MSK0/> litri
-> - **(D)** < MSK0/> litri
-> - **(E)** < MSK0/> litri
+> - **(A)** $500$ litri
+> - **(B)** $600$ litri
+> - **(C)** $700$ litri
+> - **(D)** $800$ litri
+> - **(E)** $875$ litri
 
 **Risposta:** A
 [[src_obm_2002_n2_f1__Q04]]

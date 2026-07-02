@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time for the tape beam to double again< MSK1/>
+*Time for the tape beam to double again*
 
 > The ribbon part of a recorder wrapped in a coil forms a circular crown. Knowing that after 20 minutes of operation the radius of the circular crown has doubled, how long will the recorder have to continue to operate for the radius to double again? The tape is flowing at a constant speed.
 >

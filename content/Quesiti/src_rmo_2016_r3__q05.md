@@ -51,6 +51,6 @@ tags:
 
 *Triangolo rettangolare, struttura incentrata, prova BA=BC*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Estendere $AI$ e $CI$; lasciare che si incrociano rispettivamente $BC$ in $D$ e $AB$ in $E$. Tracciare una linea perpendicolare a $AI$ a $I$ per raggiungere $AC$ in $J$; tracciare una linea perpendicolare a $CI$ a $I$ per raggiungere $AC$ in $K$. Supponiamo < MSK18/>. Provare che < MSK19/>.
+> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Estendere $AI$ e $CI$; lasciare che si incrociano rispettivamente $BC$ in $D$ e $AB$ in $E$. Tracciare una linea perpendicolare a $AI$ a $I$ per raggiungere $AC$ in $J$; tracciare una linea perpendicolare a $CI$ a $I$ per raggiungere $AC$ in $K$. Supponiamo $DJ = EK$. Provare che $BA = BC$.
 
 [[src_rmo_2016_r3__Q05]]

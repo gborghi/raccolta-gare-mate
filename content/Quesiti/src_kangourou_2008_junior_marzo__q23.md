@@ -66,9 +66,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of k by k! The following information is provided for in Part A of this Annex:
+*Value of k by k! The following information is provided for in Part A of this Annex:
 
-> For every positive integer n greater than or equal to 2 , we get n ! = 1.2.3. ... .(n-1). n. You know , for a whole k , you get k ! = 215 . 36 . 53 . 72 . 11 . 13. How much is k? A) 13 B) 14 C) 15 D) 16 E) 17 A Q B C P Tests_08.qxp 9-03-2008 14:56 Page 25
+> For every positive integer n greater than or equal to 2 , we get n ! = 1.2.3. ... .(n-1). n. You know , for a whole k , you get k ! = 215 . 36 . 53 . 72 . 11 . 13. How much is k? A) 13 B) 14 C) 15 D) 16 E) 17 A Q B C P Text_08.qxp 9-03-2008 14:56 Page 25
 > 
 > I'm going to pay. I'm going to pay. 26 26 Kang 2008 Kang 2008
 

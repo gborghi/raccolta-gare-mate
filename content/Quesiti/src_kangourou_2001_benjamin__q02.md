@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Folded and triangular cut sheet < MSK1/>
+*Folded and triangular cut sheet *
 
 ![[src_kangourou_2001_benjamin__prob2.png]]
 

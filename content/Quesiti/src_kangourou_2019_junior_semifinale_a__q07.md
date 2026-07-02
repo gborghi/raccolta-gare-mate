@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>ABC product with continuous fraction = 881/97 < MSK1/>
+*ABC product with continuous fraction = 881/97 *
 
 > The product For three positive integers A, B and C, A + 1/(B + (1/C)) = 881/97. How much is their product worth?
 

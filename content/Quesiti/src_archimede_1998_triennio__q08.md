@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of growth of the first three extracts< MSK1/>
+*Probability of growth of the first three extracts*
 
 > Numbers 1, 2, 3 and 4 are extracted from a single day in any order. What is the probability that the first three numbers extracted are in increasing order?
 >

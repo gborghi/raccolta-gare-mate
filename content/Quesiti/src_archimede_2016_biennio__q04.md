@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Disambiguations of 4 keypads< MSK1/>
+*Disambiguations of 4 keypads*
 
 > Four friends have grown tired of their keys and decide to redistribute them, so that each of them has one different from the one he had before. How many different ways can keys be exchanged?
 >

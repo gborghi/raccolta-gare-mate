@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Laura's first figure to earn at least €15< MSK1/>
+*Laura's first figure to earn at least €15*
 
 > At the beginning of the game, Laura and Matteo put on the table eight euros each. The game begins with Laura writing a number chosen between 1 and 6 (included). Then, Matthew adds another and so on (the numbers can also be repeated). Every time Matteo has played, the two friends check whether the numbers written so far form a multiple of 9; if not, Laura takes 5 Euros from the table and the game continues; if it is, Matteo makes what's on the table and the game ends.
 > 

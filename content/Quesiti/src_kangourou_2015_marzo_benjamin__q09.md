@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many plants< MSK1/>
+*how many plants*
 
 > In John's garden there are only two types of plants: those of one type have 5 leaves, the other 2 leaves and 1 flower. Giovanni discovered that there are 32 leaves and 6 flowers in all. How many are all over the plants? A) 10             B) 12            C) 13             D) 15                E) 16
 

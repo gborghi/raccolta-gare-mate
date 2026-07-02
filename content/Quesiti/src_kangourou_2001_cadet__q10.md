@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Trails from A to B without going back< MSK1/>
+*Trails from A to B without going back*
 
 ![[src_kangourou_2001_cadet__prob10.png]]
 

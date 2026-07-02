@@ -56,6 +56,6 @@ tags:
 
 *Min scatole per garantire l'apertura di tutte le 10 lucchette con 2 chiavi per scatola*
 
-> Led, un famoso eroe del gioco, ha una nuova sfida: aprire il portale del drago. Il portale dispone di < MSK0/> lucchetti distinti. Per aprire il portale, Led deve avere almeno una chiave per ogni lucchetto. Ci sono scatole $45$ nel gioco, e ciascuna scatola contiene esattamente $2$ chiavi distinte, con chiavi nella stessa scatola che aprono lo stesso lucchetto. Inoltre, le serrature $10$ hanno tutte chiavi diverse e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare per garantire l'apertura del portale?
+> Led, un famoso eroe del gioco, ha una nuova sfida: aprire il portale del drago. Il portale dispone di $10$ lucchetti distinti. Per aprire il portale, Led deve avere almeno una chiave per ogni lucchetto. Ci sono scatole $45$ nel gioco, e ciascuna scatola contiene esattamente $2$ chiavi distinte, con le chiavi nella stessa scatola che aprono lo stesso lucchetto. Inoltre, le serrature $10$ hanno tutte chiavi diverse e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare per garantire l'apertura del portale?
 
 [[src_obm_2013_n2_f2__Q08]]

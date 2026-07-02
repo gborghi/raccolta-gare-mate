@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Littleest value of a maximum of six integers< MSK1/>
+*Littleest value of a maximum of six integers*
 
 > Six positive integers are assigned, all different from each other; for one and only one pair of these integers it happens that the minor is not a divisor of the major. What's the smallest possible value for the largest of these six integers? A) 18 B) 20 C) 36 D) 45 E) A number different from the previous one
 

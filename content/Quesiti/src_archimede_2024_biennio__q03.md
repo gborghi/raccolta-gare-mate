@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum boxes for 3 three-coloured tickets< MSK1/>
+*Minimum boxes for 3 three-coloured tickets*
 
 > Clear has many colored tickets, each contained in a pocket: 30 are red, 25 are green, 33 are yellow, 21 are blue. He picks up some pockets at random, without opening them (the colours of the tickets are not visible from the outside). How many do you have to take at least to make sure you find at least three tickets with three different colors?
 >

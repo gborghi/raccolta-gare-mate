@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>n prodotto di pavimenti più 2 < MSK1/>4^[k/2] un quadrato perfetto < MSK2/>
+*n prodotto di pavimenti più 2 *4^[k/2] un quadrato perfetto *
 
 > $n$ sia un intero positivo e $k$ sia l'intero non negativo che soddisfa $2^k \le n < 2^{k+1}$. Trova tutti $n$ in modo che $$\left[\frac{n}{2^0}\right]\left[\frac{n}{2^1}\right]\cdots\left[\frac{n}{2^k}\right] + 2\cdot 4^{\left[\frac{k}{2}\right]}$$ sia un quadrato perfetto. Qui, per un numero reale $r$, $[r]$ indica il più grande intero non superiore a $r$, e per un intero positivo $a$ imponiamo $a^0 = 1$.
 

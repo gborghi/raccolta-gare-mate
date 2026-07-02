@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK3/>Le diagonali < MSK0/>, < MSK1/>, < MSK2/> area di divisione dell'esagono converso sono simultanee< MSK4/>
+*Le diagonali $AD$, $BE$, $CF$ area di divisione dell'esagono converso sono simultanee*
 
 > Ogni diagonale $AD$, $BE$, $CF$ di un esagono converso $ABCDEF$ divide l'area dell'esagono. Prova che queste tre diagonali passano attraverso lo stesso punto.
 

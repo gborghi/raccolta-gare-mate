@@ -53,7 +53,7 @@ tags:
 
 *How to pay exactly €2.70 in coins*
 
-> Clear has bought a notebook that costs < MSK0/> Euros. In his purse, he has $6$ pieces of $0{,}50$ Euro and $12$ pieces of $20$ cents. You have to be careful how you pay because the wallet has no money left to give you. How many different ways can you pay the exact amount of < MSK5/> Euro?
+> Clear has bought a notebook that costs $2{,}70$ Euros. In his purse, he has $6$ pieces of $0{,}50$ Euro and $12$ pieces of $20$ cents. You have to be careful how you pay because the wallet has no money left to give you. How many different ways can you pay the exact amount of $2{,}70$ Euro?
 
 **Answer:** 3
 [[src_bocconi_autunno_2014__Q02]]

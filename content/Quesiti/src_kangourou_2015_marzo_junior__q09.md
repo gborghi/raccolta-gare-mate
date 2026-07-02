@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Total days < MSK0/>< MSK1/>
+Total days **
 
 > Louis bought 100 candles. He consumes one candle a day, but as soon as he has the remains of seven candles, he manages to make a new one. How many days will the candles he bought last? A) 112 B) 114 C) 115 D) 116 E) 117
 

@@ -47,7 +47,7 @@ tags:
 
 *Minimum ice cost spending all *
 
-> I have €MSK0/> with which I want to buy two candies for each of my friends: they can be ice cream or chocolate, but all my friends prefer to have an ice cream and a chocolate and I intend to satisfy as many of them as possible. Chocolates are all the same price as ice cream, and each chocolate costs more than a cent. How much should an ice cream cost at least, if I spend exactly the amount available?
+> I have €$8{,}22$ with which I want to buy two sweets for each of my friends: they can be ice cream or chocolate, but all my friends prefer to have an ice cream and a chocolate and I intend to satisfy as many of them as possible. Chocolates are all the same price as ice cream, and each chocolate costs more than a cent of an ice cream. How much should an ice cream cost at least, if I spend exactly the amount available?
 
 **Answer:** 43
 [[src_kangourou_2004_benjamin_finale__QB6]]

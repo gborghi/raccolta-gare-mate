@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many shapes can be obtained by lifting a tile< MSK1/>
+*How many shapes can be obtained by lifting a tile*
 
 ![[src_kangourou_2019_ecolier_marzo__prob8.png]]
 

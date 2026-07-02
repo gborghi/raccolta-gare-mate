@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sets of consecutive integers with a sum of 1 billion < MSK1/>
+*Sets of consecutive integers with a sum of 1 billion *
 
 > Situation of danger [40] Following the intrusion into the castle of the Higher Mathematical School of the followers of the One-who-can-not-be-demonstrated, all the words of order to enter the houses of the school have been changed. As soon as Hardy, Ron and Hermita try to enter the Reporter's house, the guard ghost asks them how many sets of consecutive integers are there and whose sum is a billion. What answer do you have to give to enter?
 

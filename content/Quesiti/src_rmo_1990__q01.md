@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Pigeon hole su sfere dello stesso colore e dimensione in due scatole< MSK1/>
+*Pigeon hole su sfere dello stesso colore e dimensione in due scatole*
 
 > Due scatole contengono tra di loro 65 palle di diverse dimensioni. Ogni palla è bianca, nera, rossa o gialla. Se si prendono 5 palle dello stesso colore, almeno 2 di esse saranno sempre della stessa dimensione (radio). Prova che ci sono almeno 3 palle nella stessa scatola, dello stesso colore e della stessa dimensione (radio).
 

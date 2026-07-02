@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How much does a chocolate bar cost< MSK1/>
+*How much does a chocolate bar cost*
 
 > Four tablets of chocolate cost six euros more than one table. How much does a chocolate bar cost? (a) 1 euro B) 2 euro C) 3 euro D) 4 euro E) 5 euro
 

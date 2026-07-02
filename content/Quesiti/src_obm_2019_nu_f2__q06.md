@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Limite di f n)/n! in cui f(n) conta i disturbi senza cicli a due (amice segreto senza "interruzione")*
+*Limite di f n)/n! in cui f(n) conta i disturbi senza cicli a due (amice segreto senza "interruzione")*
 
 > In una riunione di amicizia, supponiamo che nessuno sia il proprio amico segreto. Diciamo che due persone $A$ e $B$ hanno un "jam" (marmelada) se esistono due persone $A$ e $B$ in modo tale che $B$ sia l'amico segreto di $A$ e $A$ sia l'amico segreto di $B$. Per ogni numero intero positivo $n$, $f(n)$ è il numero di disegni di amici segreti con $n$ persone che non hanno "jam", cioè $f(n)$ è il numero di permutazioni $\sigma$ di $\{1, 2, \ldots, n\}$ in modo tale che:
 > 

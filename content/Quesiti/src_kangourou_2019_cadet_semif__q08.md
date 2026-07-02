@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of the smallest and largest of 1009 consecutive < MSK1/>
+*sum of the smallest and largest of 1009 consecutive *
 
 > (Points 5) The sum of 1009 consecutive integers is 2018-2019. How much is the sum of the smallest and largest of these numbers? A) 4 × 20182018 B) 10092019
 > 	

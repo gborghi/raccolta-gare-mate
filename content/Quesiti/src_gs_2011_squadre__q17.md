@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Implications between positive responses (logic) < MSK1/>
+*Implications between positive responses (logic) *
 
 ![[src_gs_2011_squadre__prob17.png]]
 

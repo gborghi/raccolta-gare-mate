@@ -68,6 +68,6 @@ tags:
 > 
 > a) Scrivere i nomi abbreviati dei primi cinque piloti nell'ordine di partenza della gara e le rispettive posizioni.
 > 
-> b) Dalla volta $17$ fino alla fine della gara, i primi tre piloti riescono a mantenere le loro durata per volta: PRE fa ogni volta $2\text{ min }01\text{ s}$, SAP fa ogni volta $1\text{ min }59\text{ s}$ e BET fa ogni volta $1\text{ min }58\text{ s}$. Alla fine del giro < MSK4/>, SAP era < MSK5/> dietro PRE e BET era < MSK6/> dietro PRE. Considerando che questi tre piloti compongono il podio e che il pilota più veloce riesce sempre a superare un pilota più lento davanti a lui, spiegate chi ha vinto la gara e quali piloti hanno preso il secondo e il terzo posto.
+> b) Dal giro $17$ fino alla fine della gara, i primi tre piloti riescono a mantenere la loro durata per giro: PRE fa ogni giro in $2\text{ min }01\text{ s}$, SAP fa ogni giro in $1\text{ min }59\text{ s}$ e BET fa ogni giro in $1\text{ min }58\text{ s}$. Alla fine del giro $17$, SAP era $15\text{ s}$ dietro PRE e BET era $18\text{ s}$ dietro PRE. Considerando che questi tre piloti compongono il podio e che il pilota più veloce riesce sempre a superare un pilota più lento davanti a lui, spiegate chi ha vinto la gara e quali piloti hanno preso il secondo e il terzo posto.
 
 [[src_obm_2017_n1_f3__Q01]]

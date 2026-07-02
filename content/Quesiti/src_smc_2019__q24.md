@@ -62,7 +62,7 @@ tags:
 
 > I numeri $x$, $y$ e $z$ sono indicati da $x = \sqrt{12 - 3\sqrt{7}} - \sqrt{12 + 3\sqrt{7}}$, $y = \sqrt{7 + 4\sqrt{3}} - \sqrt{7 - 4\sqrt{3}}$ e $z = \sqrt{7} + \sqrt{3}$.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $xyz$?
 >
 > - **(A)** 1
 > - **(B)** $-6$

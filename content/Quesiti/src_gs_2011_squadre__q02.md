@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shorter route on side face vs roof < MSK1/>
+*Shorter route on side face vs roof *
 
 > A skyscraper is cylindrical with a perimeter base $150\,\text{m}$, the high walls $160\,\text{m}$, the conical roof with the same cylinder base and high $20\,\text{m}$. Thanks to windshields that allow it to move in any direction on the smooth surface of the building, 007 is climbing the skyscraper to place three bombs exactly $30\,\text{m}$ under the chimney at the base of the roof and at the same distance from each other. You just fixed the second one and you need to go to the point where you fixed the third one. What is the length in meters of the minimum distance to travel?
 

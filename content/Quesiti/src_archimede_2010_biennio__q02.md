@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum socks for two of the same colour< MSK1/>
+*Minimum socks for two of the same colour*
 
 > Emilio takes the socks out of a basket in the dark with six black socks, 14 blue socks and eight green socks. To make sure that among the socks you picked up there are two of the same color, the minimum number of socks you need to pick up is:
 >

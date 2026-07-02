@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities n by 2003 divided by n remaining 23< MSK1/>
+*Quantities n by 2003 divided by n remaining 23*
 
 > How many positive integers n are such that 2003 divided by n gives 23? A) 22 B) 19 C) 13 D) 12 E) 87
 

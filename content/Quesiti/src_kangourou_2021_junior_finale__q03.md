@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum time to restore 10 containers< MSK1/>
+*Maximum time to restore 10 containers*
 
 ![[src_kangourou_2021_junior_finale__prob3.png]]
 

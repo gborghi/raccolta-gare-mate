@@ -53,7 +53,7 @@ tags:
 
 *Ricerca larghezza di un nastro diagonale su una scatola rettangolare*
 
-> Su una scatola rettangolare di dimensioni < MSK0/>, è stata posizionata una nastro diagonalmente come mostrato nella figura di seguito (la nastro è rappresentata in grigio nella figura). È stato misurato che $AB = 1\,\text{cm}$ e $BC = 5\,\text{cm}$. Calcola la larghezza del nastro.
+> Su una scatola rettangolare di dimensioni $6\,\text{cm} \times 4\,\text{cm}$, un nastro è stato posizionato diagonalmente come mostrato nella figura di seguito (il nastro è rappresentato in grigio nella figura). È stato misurato che $AB = 1\,\text{cm}$ e $BC = 5\,\text{cm}$. Calcola la larghezza del nastro.
 
 ![[src_canimath_2012_automne__Q03.png]]
 

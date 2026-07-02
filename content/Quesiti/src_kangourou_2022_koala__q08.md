@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>cost of the tray< MSK1/>
+*cost of the tray*
 
 ![[src_kangourou_2022_koala__prob8.png]]
 

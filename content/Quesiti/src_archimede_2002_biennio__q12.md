@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What are the statements on 3^10 odd cubic squares < MSK1/>
+*What are the statements on 3^10 odd cubic squares *
 
 > Among the following statements: (i) 310 is a cube; (ii) 310 is odd; (iii) 310 is a square; what are the correct ones?
 >

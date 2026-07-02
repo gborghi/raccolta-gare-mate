@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare le ragazze alla scuola di Esmeralda dopo un aumento dell'iscrizione del 10%/20%< MSK1/>
+*Contare le ragazze alla scuola di Esmeralda dopo un aumento dell'iscrizione del 10%/20%*
 
-> Nella scuola di Esmeralda, quest'anno il numero di ragazzi è aumentato di < MSK0/> e il numero di ragazze è aumentato di < MSK1/> rispetto all'anno scorso. Attualmente ci sono studenti < MSK2/>, esattamente < MSK3/> in più rispetto all'anno scorso. Quante ragazze ci sono a scuola?
+> Nella scuola di Esmeralda, quest'anno il numero di ragazzi è aumentato di $10\%$ e il numero di ragazze è aumentato di $20\%$ rispetto all'anno scorso. Attualmente ci sono studenti $230$, esattamente $30$ in più rispetto all'anno scorso. Quante ragazze ci sono a scuola?
 
 [[src_obm_2012_n1_f2__Q06]]

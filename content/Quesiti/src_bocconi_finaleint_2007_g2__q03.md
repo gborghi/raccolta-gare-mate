@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many buttons are missing from the command< MSK1/>
+*How many buttons are missing from the command*
 
-> Mathine's mother is a merchant. Mathine likes to look at button boxes of all colors. In a button box there are $12$, and in a cardboard box, there are $12$ button boxes. Mathine's mom is coming to get her order for MSK2 button cards. Mathine counted the $2007$ buttons.
+> Mathine's mother is a merchant. Mathine likes to look at button boxes of all colors. In a button box there are $12$, and in a cardboard box, there are $12$ button boxes. Mathine's mom is coming to get her order for$24$button cards. Mathine counted the $2007$ buttons.
 > 
 > How many buttons are missing on the command?
 

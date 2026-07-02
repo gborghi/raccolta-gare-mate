@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Le sottogruppe minori di k so k coprono S tramite sindacati firmati< MSK1/>
+*Le sottogruppe minori di k so k coprono S tramite sindacati firmati*
 
 > Il $S$ deve essere un insieme di elementi $n$. Trova il numero intero positivo $k$ con la seguente proprietà: data qualsiasi $k$ sottogruppo distinto $A_1, A_2, \ldots, A_k$ di $S$, esiste una scelta appropriata dei segni $+$ e $-$ in modo tale che $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$, dove $A_i^{+} = A_i$ e $A_i^{-} = S \setminus A_i$ sono il complemento di $A_i$ rispetto a $S$.
 

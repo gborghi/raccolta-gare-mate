@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*L'incircolo del triangolo ABC tocca AB e BC a P e Q; il bisettore da A incontra PQ a S; prova che l'angolo ASC è di 90 gradi.*
+*L'incircolo del triangolo ABC tocca AB e BC a P e Q; il bisettore da A incontra PQ a S; dimostra che l'angolo ASC è di 90 gradi.*
 
-> L'incircolo $o$ di un triangolo $ABC$ è tangente ai lati $AB$ e $BC$ rispettivamente a $P$ e $Q$. Il bisettore angolare a $A$ incontra $PQ$ al punto $S$. Provare < MSK9/>.
+> L'incircolo $o$ di un triangolo $ABC$ è tangente ai lati $AB$ e $BC$ rispettivamente a $P$ e $Q$. Il bisettore angolare a $A$ incontra $PQ$ al punto $S$. Provare $\angle ASC = 90^\circ$.
 
 [[src_pol_1994_r2__Q05]]

@@ -60,11 +60,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Angolo di ricerca ZXY in un cuore formato da triangolo equilaterale ABC e da due semicircoli, con linee attraverso il centro O che incontrano AC< MSK1/>
+*Cerca angolo ZXY in un cuore formato da triangolo equilaterale ABC e da due semicircoli, con linee attraverso il centro O che incontrano AC*
 
 > Il "cuore" mostrato nel diagramma è formato da un triangolo equilaterale $ABC$ e da due semicerchi congruenti su $AB$. Il punto $O$ è il centro di uno dei semicircoli e si trova su un punto $X$. Le linee $XO$ e $XP$ sono estese per soddisfare $AC$ rispettivamente a $Y$ e $Z$. Le linee $XY$ e $XZ$ sono di uguale lunghezza.
 > 
-> Che cos' è < MSK0/>?
+> Che cos' è $\angle ZXY$?
 >
 > - **(A)** $20^\circ$
 > - **(B)** $25^\circ$

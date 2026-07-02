@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Triangulation with the formula of Euler< MSK1/>
+*Triangulation with the formula of Euler*
 
 > The royal banner is a triangle divided into 3 triangles of different colors and with 4 diamonds, one at each vertex. The Queen wants to make it change using more triangles; the King agrees, but imposes that a number of triangles greater than 3 be used and that the gift properties of the original one be maintained: it must be a triangle divided into $a$ triangles, with a diamond at each vertex; each side must contain only two diamonds (the two at its vertices) and, in each vertex of the figure, one must meet the same number of sides (the number of sides that meet in the same vertex of the original banner is three). What is the sum of the numbers that the Queen can choose?
 > 

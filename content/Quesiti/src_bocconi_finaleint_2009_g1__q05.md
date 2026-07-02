@@ -62,7 +62,7 @@ tags:
 
 *Complete a self-referential sentence with two digits so that it is true.*
 
-> 5 - AUTHORREFERENCE (coefficient 5) Complete the sentence in the box with the help of digits to make it true: < MSK0/> In this box, the number of digits \ldots\ and 3 times the number of digits \ldots
+> 5 - AUTHORREFERENCE (coefficient 5) Complete the sentence in the box with the help of digits to make it true: $$1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18$$ In this box, the number of digits \ldots\ and 3 times the number of digits \ldots
 
 **Answer:** 1 e 3
 [[src_bocconi_finaleint_2009_g1__Q05]]

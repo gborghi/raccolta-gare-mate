@@ -47,8 +47,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Reali positivi a, b, c, d: dimostrare la doppia disuguaglianza per sei frazioni di somma pari< MSK1/>
+*Reali positivi a, b, c, d: dimostrare la doppia disuguaglianza per sei frazioni di somma pari*
 
-> Lasciate che $a, b, c, d$ siano numeri reali positivi. Provare che < MSK0/>
+> Lasciate che $a, b, c, d$ siano numeri reali positivi. Provare che $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
 
 [[src_bmo_1991-92_round2__Q02]]

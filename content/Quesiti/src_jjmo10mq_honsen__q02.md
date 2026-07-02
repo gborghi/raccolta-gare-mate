@@ -48,8 +48,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*moltipli a 7 cifre di 7 stabili sotto tutte le riorganizzazioni a cifre*
+*moltipli a 7 cifre di 7 stabili sotto tutti i riordini a cifre*
 
-> $n$ è un numero di 7 cifre che è un multiple di $7$. Supponiamo che non importa come siano riordinate le cifre di $n$, il numero risultante è sempre un multiple di $7$. Trova tutte queste < MSK4/>.
+> $n$ è un numero di 7 cifre che è un multiple di $7$. Supponiamo che non importa come i numeri di $n$ siano riordinati, il numero risultante è sempre un multiple di $7$. Trova tutte queste $n$.
 
 [[src_jjmo10mq_honsen__Q02]]

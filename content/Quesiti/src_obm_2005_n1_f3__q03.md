@@ -65,9 +65,9 @@ tags:
 
 *Numeri scritti in diagonale su una lavagna da 100x100 a partire dalla riga 1 colonna 50; trovare n e posizione del 2005*
 
-> A partire dalla cella situata alla riga $1$ e alla colonna $50$ di una lavagna $100 \times 100$, i numeri $1, 2, 3, 4, \ldots, n$ verranno scritti, come nella figura seguente, che presenta una parte della lavagna e mostra come devono essere posizionati i numeri. Il numero $n$ occuperà la cella nella riga $1$, nella colonna $100$.
+> A partire dalla cella situata alla riga $1$ e alla colonna $50$ di una tavola $100 \times 100$, i numeri $1, 2, 3, 4, \ldots, n$ verranno scritti, come nella figura seguente, che presenta una parte della tavola e mostra come devono essere posizionati i numeri. Il numero $n$ occuperà la cella nella riga $1$, nella colonna $100$.
 > 
-> a) Determinare < MSK0/>.
+> a) Determinare $n$.
 > 
 > b) In quale riga e colonna apparirà il numero $2005$?
 

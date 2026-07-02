@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera < MSK1/>
+*Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera *
 
 > $k$ sia un numero intero positivo. L'OIM organizza un torneo di scacchi con giocatori $2k$. Si gioca una partita al giorno, e durante tutto il torneo ogni coppia di giocatori gioca esattamente una partita. Ogni giocatore si trova presso la sede dell'IMO dal giorno della sua prima partita fino al giorno della sua ultima. Ogni giorno, la sede dell'IMO emette un numero di voucher per il pasto pari al numero di giocatori che soggiornano nella sede quel giorno. Trovare il valore minimo possibile del numero totale di buoni di pasto emessi dall'IMO.
 

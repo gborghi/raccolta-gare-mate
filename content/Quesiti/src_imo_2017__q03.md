@@ -61,7 +61,7 @@ tags:
 > 
 > (i) The rabbit moves invisibly at a point $A_n$ such that the distance between $A_{n-1}$ and $A_n$ is exactly $1$.
 > 
-> (ii) A tracking device shall communicate to the hunter a point < MSK0/>. The only guarantee provided by the device is that the distance between $P_n$ and $A_n$ is at most $1$.
+> (ii) A tracking device shall communicate to the hunter a point $P_n$. The only guarantee provided by the device is that the distance between $P_n$ and $A_n$ is at most $1$.
 > 
 > (iii) The hunter moves visibly at a point $B_n$ such that the distance between $B_{n-1}$ and $B_n$ is exactly $1$.
 > 

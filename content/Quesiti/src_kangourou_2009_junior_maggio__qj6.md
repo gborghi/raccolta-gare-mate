@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Moving coins on 1000-acre (8x125 and 125x8) < MSK1/>
+*Moving coins on 1000-acre (8x125 and 125x8) *
 
 > *(22 points) * On some vertices of a regular 1000-sided polygon there are some coins (each vertices may host none, one or more). One move consists of the following operations: choose two coins and move one to the adjacent clockwise and the other to the opposite clockwise. From the situation where there is exactly one coin at each summit, can a finite number of moves lead to: a) 8 piles of 125 coins each? (b) 125 heaps of eight coins each?
 > 

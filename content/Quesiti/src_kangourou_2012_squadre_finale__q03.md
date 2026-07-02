@@ -49,7 +49,7 @@ tags:
 
 *Number of digits of 8^5 * 5^17 * 7^3 *
 
-> Multiplication From how many digits is the number 85 < MSK0/> 517 < MSK1/> 73?
+> Multiplication From how many digits is the number 85 × 517 × 73?
 
 **Answer:** 19
 [[src_kangourou_2012_squadre_finale__Q03]]

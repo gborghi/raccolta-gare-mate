@@ -53,6 +53,6 @@ tags:
 
 *Interi distinti: limite inferiore su elementi non espressi come differenza*
 
-> Risparmiare < MSK0/>. Prova: per tutti gli integri $n$ distinti $a_1, a_2, \ldots, a_n$, l'insieme $\left\{1, 2, \ldots, \left\lfloor \dfrac{n(n-1)}{2} \right\rfloor\right\}$ contiene almeno $\left\lfloor \dfrac{n(n-6)}{48} \right\rfloor$ elementi che non possono essere espressi come la differenza di alcuni $a_i$ e $a_j$. Qui, $\lfloor x \rfloor$ è il più grande numero intero non superiore o uguale a $x$.
+> Risparmiare $n \ge 2$. Prova: per tutti gli integri $n$ distinti $a_1, a_2, \ldots, a_n$, l'insieme $\left\{1, 2, \ldots, \left\lfloor \dfrac{n(n-1)}{2} \right\rfloor\right\}$ contiene almeno $\left\lfloor \dfrac{n(n-6)}{48} \right\rfloor$ elementi che non possono essere espressi come la differenza di alcuni $a_i$ e $a_j$. Qui, $\lfloor x \rfloor$ è il più grande numero intero non superiore o uguale a $x$.
 
 [[src_cn_ctst_2021__Q03]]

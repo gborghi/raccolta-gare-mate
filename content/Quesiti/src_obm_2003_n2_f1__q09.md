@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Tre naturali consecutivi a< b< c; semplificare c^2 - ab< MSK1/>
+*Tre naturali consecutivi a< b< c; semplificare c^2 - ab*
 
 > I numeri $a$, $b$, $c$ sono numeri naturali consecutivi in ordine crescente (così $b = a+1$, $c = a+2$). Il valore di $c^2 - ab$ è quindi uguale a:
 > 

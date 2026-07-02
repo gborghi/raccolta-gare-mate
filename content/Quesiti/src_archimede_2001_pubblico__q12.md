@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum number to make 1000< MSK1/>
+*minimum number to make 1000*
 
 > Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $|$ and $\uparrow$. The $|$ symbol at the end of a sequence meant adding a unit, while the $\uparrow$ symbol meant multiplying by $7$. For example, the $|||\uparrow|$ sequence represented the $29$ number. What is the minimum number of symbols required to represent the number $1000$?
 

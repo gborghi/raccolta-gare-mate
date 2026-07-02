@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilaterali ciclici da intersezioni di cerchi incircoli< MSK1/>
+*Quadrilaterali ciclici da intersezioni di cerchi incircoli*
 
 > Il $ABC$ deve essere un triangolo con un angolo ottuso $A$ e incentro $I$. I cerchi $ABI$ e $ACI$ incrociano di nuovo il cerchio $ABC$ rispettivamente a $X$ e $Y$. Le linee $AX$ e $BI$ si incontrano a $P$, e le linee $AY$ e $CI$ si incontrano a $Q$. Provare che $BCQP$ è ciclico.
 

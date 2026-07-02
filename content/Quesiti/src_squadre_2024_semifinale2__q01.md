@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum handshakes between 35 participants in two factions< MSK1/>
+*Maximum handshakes between 35 participants in two factions*
 
 > Party at SherLog Hodge Castle, the famous detective, covertly watches the 33 party participants. He knows that some are on his side, while others are loyal to his bitter enemy, Mongearty. Some participants shake hands, but only if they didn't know each other before. Knowing that members of the same faction already knew each other, how many handshakes did SherLog observe?
 

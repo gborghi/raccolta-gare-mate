@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Stick di raccolta: punteggiate esattamente 40 punti; contate un numero distinto di bastoni sufficienti < MSK1/>
+*Stick di raccolta: punteggiate esattamente 40 punti; contate un numero distinto di bastoni sufficienti *
 
 > Nel gioco di pega-varetas, i bastoni verdi valgono 5 punti ciascuno, i bastoni blu valgono 10 punti, i bastoni gialli valgono 15 punti e i bastoni rossi valgono 20. Ci sono 5 bastoni di ogni colore. Carlinhos è riuscito a segnare 40 punti in un giro. Considerando solo il numero di bastoni di ogni colore, in quanti modi diversi avrebbe potuto ottenere questo punteggio, supponendo che fosse sempre possibile scegliere bastoni di qualsiasi colore?
 

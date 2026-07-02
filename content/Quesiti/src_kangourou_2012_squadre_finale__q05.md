@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum final zero of n if the product dividers has 15 zeroes< MSK1/>
+*Maximum final zero of n if the product dividers has 15 zeroes*
 
 > Multiply all divisors A positive integer n is such that, if you multiply all its divisors, including n, you get a number whose writing (decimal) ends with 15 zeros. With how many zeros at most can you finish writing (decimal) of n?
 

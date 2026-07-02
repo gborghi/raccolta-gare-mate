@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Of the many Tuesday boys=girls< MSK1/>
+*Of the many Tuesday boys=girls*
 
 > There are currently 25 boys and 19 girls in a dance school. Starting next Tuesday, two boys and three girls will be added every Tuesday. How many Tuesdays will the number of girls be equal to the number of boys? A) 6 B) 5 C) 4 D) 3 E) 2
 

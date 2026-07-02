@@ -52,7 +52,7 @@ tags:
 
 *Lunghezza PQ che collega i punti di mezzo di diagonali nell'isosceles trapezoide ABCD*
 
-> In isoceles trapezoide $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. $P$ e $Q$ siano rispettivamente i punti medi delle diagonali $AC$ e $BD$. Trova la lunghezza < MSK9/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> In isoceles trapezoide $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. $P$ e $Q$ siano rispettivamente i punti medi delle diagonali $AC$ e $BD$. Trova la lunghezza $PQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \dfrac{7}{2}
 [[src_jjmo18yq_yosen__Q05]]

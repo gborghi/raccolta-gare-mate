@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum shoe extraction to have a pair of the same color< MSK1/>
+*Minimum shoe extraction to have a pair of the same color*
 
 > In my closet there are seven pairs of black shoes, five white shoes and two red shoes. If I take my shoes out of the closet without looking, how many shoes do I have to take at least to make sure I have a pair (a left shoe and a right shoe) of the same color?
 

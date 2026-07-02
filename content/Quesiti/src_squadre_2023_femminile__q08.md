@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance G' from the ABG plane in regular tetrahedron< MSK1/>
+*Distance G' from the ABG plane in regular tetrahedron*
 
 > Where does Agnese get the balls? Agnese finds two jars containing explosive particles. He has to take N balls to go play with the sisters, and he realizes that if he takes them all from the first jar, then in the second there will be 23 times the balls left in the first jar; if he takes them all in the second jar, the balls in the first will be 88 times the ones left in the second jar. What's the minimum number of balls Agnese needs?
 

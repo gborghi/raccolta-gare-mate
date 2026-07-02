@@ -64,7 +64,7 @@ tags:
 > 
 > (a) dimostrare che $3, 4, 6$ sono incornicibili.
 > 
-> b) dimostrare che ogni < MSK0/> non è incornicibile.
+> b) dimostrare che ogni $n \geq 7$ non è incornicibile.
 > 
 > c) Determinare se $5$ è incornicibile.
 

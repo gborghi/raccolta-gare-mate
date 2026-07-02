@@ -74,7 +74,7 @@ tags:
 \end{document}
 ```
 
-> In the figure you can see three radius circles < MSK0/>, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. How much is the radius of the latter? (see figure)
+> In the figure you can see three radius circles $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. How much is the radius of the latter? (see figure)
 
 **Answer:** 1 - 1/raddt3
 [[src_kangourou_2022_junior_finale__QJ2]]

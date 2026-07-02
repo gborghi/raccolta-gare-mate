@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of 36 by throwing 4 dice< MSK1/>
+*Probability of 36 by throwing 4 dice*
 
 > If you roll four dice, with faces from 1 to 6, what is the probability that the product of the resulting numbers is 36?
 >

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Balance with true addition< MSK1/>
+* Balance with true addition*
 
 > Look at the balance shown in the figure and ignore the weights of all the elements that make up the balance (of course, even the two plates of the balance  including the upper triangular one  are regularly spaced apart). Each one of them bears a burden.
 > 

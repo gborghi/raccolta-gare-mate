@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Area di trapezzoide retto data due diagonali e un angolo di 45 gradi < MSK1/>
+*Area di trapezzoide retto data due diagonali e un angolo di 45 gradi *
 
 > In quadrilaterali $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Trova la sua area. Qui $XY$ indica la lunghezza del segmento $XY$.
 

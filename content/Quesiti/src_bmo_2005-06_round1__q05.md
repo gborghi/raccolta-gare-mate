@@ -48,6 +48,6 @@ tags:
 
 *Esiste un punto di bisezione di superficie uguale se il quadrilaterale è parallelo*
 
-> Che < MSK0/> sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
+> Che $G$ sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
 
 [[src_bmo_2005-06_round1__Q05]]

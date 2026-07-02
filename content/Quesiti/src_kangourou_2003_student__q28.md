@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Different results for the sum of 12 cube vectors< MSK1/>
+*Different results for the sum of 12 cube vectors*
 
 > By associating a verse with it, Peter transforms each vertex of a cube into a vector of equal length; thus adding up all 12 vectors thus obtained. How many different results can Peter achieve in this way (using all possible choices on the verses)? A) 25 B) 27 C) 64 D) 100 E) 125
 

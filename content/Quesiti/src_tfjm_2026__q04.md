@@ -88,7 +88,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK2/>Collane di perle di lunghezza l con valori interi sommati al prezzo p, considerati uguali fino alla rotazione e evitando m perle di valore 0 consecutivo; collane di conteggio < MSK0/> e l'insieme ristretto < MSK1/> utilizzando solo valori in un sottinsieme D.< MSK3/>
+*Collane di perle di lunghezza l con valori interi sommati al prezzo p, considerati uguali fino alla rotazione e evitando m perle di valore 0 consecutivo; collane di conteggio $C(l,p,m)$ e l'insieme ristretto $C_D(l,p,m)$ utilizzando solo valori in un sottinsieme D.*
 
 > 4. Colletti di perle.
 > 
@@ -96,7 +96,7 @@ tags:
 > 
 > Per fare le collane, il gioielliere ha diversi tipi di perle, un tipo per ogni valore, ogni perla specificata da un valore (in pezzi d'oro). Ogni colletto è caratterizzato dalla successione di perle che lo formano, disposte in un cerchio. La lunghezza $\ell$ di una collana viene definita come il numero di perle e il prezzo $p$ come la somma dei valori delle perle. Consideriamo che due colletti siano uguali se uno può essere ottenuto dall'altro mediante una rotazione.
 > 
-> La figura 5 mostra tre colletti di lunghezza < MSK0/> e prezzo < MSK1/>. Le collane < MSK2/> e < MSK3/> sono le stesse.
+> La figura 5 mostra tre colletti di lunghezza $\ell = 5$ e prezzo $p = 6$. Le collane $A$ e $B$ sono le stesse.
 > 
 > Un giorno, un cliente nobile, la marchessa di Carabas, ordina un collare con perle $7$, al prezzo di monete d'oro $5$, che non contiene mai perle di valore $0$ di fila.
 > 
@@ -112,7 +112,7 @@ tags:
 > 
 > 4. Per $D$ fisso, a quale condizione (') su $(\ell, p, m)$ si ottiene l'uguaglianza $C(\ell, p, m) = C_D(\ell, p, m)$?
 > 
-> 5. Se < MSK0/>, quante collane ci sono in < MSK1/>? Si possono distinguere i seguenti casi, in cui $d = \gcd(\ell, p)$:
+> 5. Se $D = \{0, 1\}$, quante collane ci sono in $C_D(\ell, p, m)$? Si possono distinguere i seguenti casi, in cui $d = \gcd(\ell, p)$:
 > 
 > a) $d = 1$, b) $d$ un numero primo, c) $d$ arbitrario.
 > 

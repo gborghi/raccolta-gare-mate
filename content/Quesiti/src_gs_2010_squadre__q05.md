@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Additions that give 360360 as product< MSK1/>
+*Additions that give 360360 as product*
 
 > The following points shall be added:
 > 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rond-robin con transibilità e pochi disegni; trovare n^2 giocatori in ordine totale< MSK1/>
+*Rond-robin con transibilità e pochi disegni; trovare n^2 giocatori in ordine totale*
 
 > Ci sono giocatori $2n^2$ ($n \ge 2$) in un singolo torneo di scacchi a rotonda. È noto che: \begin{enumerate} \item[(1)] Per tutti e tre i giocatori $A$, $B$, $C$: se $A$ batte $B$ e $B$ batte $C$, allora $A$ batte $C$; \item[(2)] Ci sono al massimo $\dfrac{n}{16}$ sorte. \end{enumerate} Prova: è possibile scegliere i giocatori $n^2$ e etichettarli $P_{ij}$ ($1 \le i, j \le n$), in modo tale che per qualsiasi $i, j, i', j' \in \{1, 2, \ldots, n\}$ con $i < i'$, il giocatore $P_{ij}$ batta il giocatore $P_{i'j'}$.
 

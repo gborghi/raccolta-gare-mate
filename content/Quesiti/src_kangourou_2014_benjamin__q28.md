@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Times of only grass for the rabbit Tim< MSK1/>
+*Times of only grass for the rabbit Tim*
 
 > Tim Rabbit likes carrots and carrots. On the days when you're not on a diet, you eat 9 carrots or 2 carrots or 4 carrots and 1 carrot. On the days she's on a diet, instead, she eats only grass. In the last 10 days, he's eaten a total of 30 carrots and 9 carrots. How many of those 10 days did you only eat weed? A) 0
 > 	

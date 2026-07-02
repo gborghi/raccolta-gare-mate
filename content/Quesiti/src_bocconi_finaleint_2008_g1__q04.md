@@ -53,7 +53,7 @@ tags:
 
 *Number of buses to be added on a circular route to reduce the interval.*
 
-> Four buses run a circular route. The interval between them is < MSK0/> minutes. If you want to reduce this interval to $16$ minutes, how many buses do you need to add on the route?
+> Four buses run a circular route. The interval between them is $24$ minutes. If you want to reduce this interval to $16$ minutes, how many buses do you need to add on the route?
 
 **Answer:** 2 bus
 [[src_bocconi_finaleint_2008_g1__Q04]]

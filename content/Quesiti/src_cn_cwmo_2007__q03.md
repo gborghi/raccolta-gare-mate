@@ -52,6 +52,6 @@ tags:
 
 *Prove la disuguaglianza della somma delle frazioni per i valori reali che sommano a 3*
 
-> Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Provare che < MSK0/>
+> Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Provare che $$\frac{1}{5a^2 - 4a + 11} + \frac{1}{5b^2 - 4b + 11} + \frac{1}{5c^2 - 4c + 11} \le \frac{1}{4}.$$
 
 [[src_cn_cwmo_2007__Q03]]

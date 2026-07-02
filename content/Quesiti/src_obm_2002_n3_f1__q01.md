@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Leggizione di un grafico a barre della fatturazione mensile delle società A e B nella seconda metà del 2001< MSK1/>
+*Leggizione di un grafico a barre della fatturazione mensile delle società A e B nella seconda metà del 2001*
 
 > Il grafico seguente mostra la fatturazione mensile (in milioni di reais) delle società A e B durante la seconda metà del 2001. Sulla base di questo grafico, possiamo affermare che:
 >

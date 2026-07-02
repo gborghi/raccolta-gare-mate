@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of children from three cherry pie< MSK1/>
+*Number of children from three cherry pie*
 
 ![[src_kangourou_2017_preecolier_marzo__prob3.png]]
 

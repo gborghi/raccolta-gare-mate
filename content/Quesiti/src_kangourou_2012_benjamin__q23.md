@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mean age of twelve boys< MSK1/>
+*Mean age of twelve boys*
 
 > At a birthday party, there are twelve kids, and there's at least one for each of the six to 10-year-olds. Four of them are 6 years old and the most common age is 8. What is the average age of the twelve boys? A) 6,5 B) 7,5 C) 8,5 D) 9 E) 10
 

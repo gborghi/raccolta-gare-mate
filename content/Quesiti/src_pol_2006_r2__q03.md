@@ -55,6 +55,6 @@ tags:
 
 *Per i numeri positivi a,b,c con ab+bc+ca=abc, dimostrare che la somma ciclica delle frazioni che coinvolgono quattro potenze è almeno 1.*
 
-> I numeri positivi $a,b,c$ soddisfano la condizione $ab+bc+ca=abc$. Provare che < MSK0/>
+> I numeri positivi $a,b,c$ soddisfano la condizione $ab+bc+ca=abc$. Provare che $$\frac{a^4+b^4}{ab(a^3+b^3)}+\frac{b^4+c^4}{bc(b^3+c^3)}+\frac{c^4+a^4}{ca(c^3+a^3)}\ge 1.$$
 
 [[src_pol_2006_r2__Q03]]

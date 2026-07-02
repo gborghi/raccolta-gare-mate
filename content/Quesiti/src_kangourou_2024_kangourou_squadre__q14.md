@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum replacement lamps, colour ratios< MSK1/>
+*Minimum replacement lamps, colour ratios*
 
 > There are many lamps in a large luminaire. Yesterday, for every 20 reds there were 48 green lamps. Today, some light bulbs of one of the two colours have been replaced by as many of the other colour: now there are 26 red light bulbs for every 50 green. What is the smallest number of light bulbs that have certainly been replaced?
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Least constant for symmetric sum inequality< MSK1/>
+*Least constant for symmetric sum inequality*
 
 > Let $n$ be a fixed integer, with $n \ge 2$.
 > 

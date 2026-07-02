@@ -53,6 +53,6 @@ tags:
 
 *La prova massima di due moduli complessi è almeno mn/sqrt(m^2+n^2)*
 
-> Date le cifre complesse $a$, $b$, $c$, lasciamo $|a + b| = m$, $|a - b| = n$, e supponiamo $mn \neq 0$. Provare che < MSK0/>
+> Date le cifre complesse $a$, $b$, $c$, lasciamo $|a + b| = m$, $|a - b| = n$, e supponiamo $mn \neq 0$. Provare che $$\max\{|ac + b|,\ |a + bc|\} \ge \frac{mn}{\sqrt{m^2 + n^2}}.$$
 
 [[src_cn_cmo_2007__Q01]]

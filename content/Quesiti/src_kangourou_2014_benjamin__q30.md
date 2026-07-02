@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum age of Aldo (10 different ages sum 180)< MSK1/>
+*Minimum age of Aldo (10 different ages sum 180)*
 
 > A grandmother has ten grandchildren: today their ages, in years, are ten different numbers, and their sum is 180. Of the ten grandchildren, Aldo is the eldest. How old does Aldo have to be at least today? A) 19
 > 	

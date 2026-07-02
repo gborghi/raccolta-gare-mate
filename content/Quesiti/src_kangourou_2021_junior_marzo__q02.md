@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Full chart of the temperature trend< MSK1/>
+*Full chart of the temperature trend*
 
 ![[src_kangourou_2021_junior_marzo__prob2.png]]
 

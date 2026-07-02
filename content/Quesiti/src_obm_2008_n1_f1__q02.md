@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Espressione per il cambiamento quando si acquista olio d'oliva e succo < MSK1/>
+*Espressione per il cambiamento quando si acquista olio d'oliva e succo *
 
 > Esmeralda compra cinque scatole di olio d'oliva a quattro reais e settanta centoville ciascuno, cinque scatole di succo a tre reais e dodici centoville ciascuno e tre scatole di succo a ottanta centoville ciascuno. Lei paga con un biglietto di cinquanta soldi reali e vuole sapere quanta cambio riceverà. Quale delle seguenti espressioni aritmetiche rappresenta la soluzione a questo problema?
 > 

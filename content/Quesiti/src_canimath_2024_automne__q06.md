@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*ABCD quadrato, triangoli equilaterali ABE e DAF esterni; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
+*ABCD quadrato, triangoli equilaterali ABE e DAF esteriori; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
 
-> $ABCD$ sia quadrato e $E$ e $F$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABE$ e $DAF$ siano equilaterali. $H$ sia il punto medio di $[EF]$ e $G$ il punto di intersezione delle linee $(BF)$ e $(CE)$. Mostra che < MSK11/>.
+> $ABCD$ sia quadrato e $E$ e $F$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABE$ e $DAF$ siano equilaterali. $H$ sia il punto medio di $[EF]$ e $G$ il punto di intersezione delle linee $(BF)$ e $(CE)$. Mostra che $GH = GC$.
 
 [[src_canimath_2024_automne__Q06]]

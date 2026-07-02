@@ -49,7 +49,7 @@ tags:
 
 *Due triangoli che condividono angolo con i lati dati, trovare AC+DF*
 
-> I triangoli $ABC$ e $DEF$ sono tali da $\angle A = \angle D$, $AB = DE = 17$, $BC = EF = 10$ e $AC - DF = 12$. Che cos' è < MSK6/>?
+> I triangoli $ABC$ e $DEF$ sono tali da $\angle A = \angle D$, $AB = DE = 17$, $BC = EF = 10$ e $AC - DF = 12$. Che cos' è $AC + DF$?
 
 **Risposta:** 30
 [[src_prmo_2018__Q17]]

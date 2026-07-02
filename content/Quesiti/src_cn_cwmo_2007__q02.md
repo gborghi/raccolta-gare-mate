@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due cerchi, perpendicolare OD per MN se conciclicità di P,Q,M,N < MSK1/>
+*Due cerchi, perpendicolare OD per MN se conciclicità di P,Q,M,N *
 
 > I punti $C$ e $D$ siano due punti di intersezione del cerchio $O_1$ e del cerchio $O_2$. Una linea che attraversa $D$ incrocia il cerchio $O_1$ rispettivamente nei punti $A$ e $B$. I punti $P$ e $Q$ sono rispettivamente sul cerchio $O_2$ e sul cerchio $O_1$. Le linee $PD$ e $AC$ si incrociano a $M$, e le linee $QD$ e $BC$ si incrociano a $N$. Supponiamo che $O$ sia il centro circoncentrale del triangolo $ABC$, dimostriamo che $OD \perp MN$ se e solo se $P$, $Q$, $M$, $N$ sono conciclici.
 

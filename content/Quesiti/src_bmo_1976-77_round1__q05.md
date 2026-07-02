@@ -51,6 +51,6 @@ tags:
 
 5 sfere uguali su un pentagono regolare; due sfere tangenti si incontrano?
 
-> $A_1 A_2 A_3 A_4 A_5$ è un pentagono regolare i cui lati sono di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è la sfera con centro $A_i$ e raggio $a$. Le sfere $K_1, K_2, \ldots, K_5$ sono tutte toccate esternamente da ciascuna delle due sfere $P_1$ e $P_2$ anche di raggio $a$. Determinare con la prova e senza tabelle se < MSK10/> e < MSK11/> hanno o non hanno un punto comune.
+> $A_1 A_2 A_3 A_4 A_5$ è un pentagono regolare i cui lati sono di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è la sfera con centro $A_i$ e raggio $a$. Le sfere $K_1, K_2, \ldots, K_5$ sono tutte toccate esternamente da ciascuna delle due sfere $P_1$ e $P_2$ anche di raggio $a$. Determinare con la prova e senza tabelle se $P_1$ e $P_2$ hanno o non hanno un punto comune.
 
 [[src_bmo_1976-77_round1__Q05]]

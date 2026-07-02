@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little-sized oil shale< MSK1/>
+*Little-sized oil shale*
 
 ![[src_kangourou_2022_koala__prob18.png]]
 

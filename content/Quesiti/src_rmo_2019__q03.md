@@ -51,6 +51,6 @@ tags:
 
 *Rimostra una disuguaglianza per i reali positivi con a+b+c=1.*
 
-> $a, b, c$ siano numeri reali positivi come $a + b + c = 1$. Provare che < MSK0/>
+> $a, b, c$ siano numeri reali positivi come $a + b + c = 1$. Provare che $$\frac{a}{a^2 + b^3 + c^3} + \frac{b}{b^2 + c^3 + a^3} + \frac{c}{c^2 + a^3 + b^3} \le \frac{1}{5abc}.$$
 
 [[src_rmo_2019__Q03]]

@@ -63,7 +63,7 @@ tags:
 
 > Considera una griglia $30 \times 30$ in cui esattamente $30$ le celle sono di colore nero, con esattamente una cella nera in ogni riga e ogni colonna. La cella dell'angolo superiore sinistro è di colore nero ed è etichettata $W_1$. Leggere le celle nere da sinistra a destra e da cima a fondo, etichettarle $W_1, W_2, \ldots, W_{30}$. Tutte le seguenti condizioni devono essere soddisfatte:
 > 
-> - < MSK0/> sono integri separati in coppia tra < MSK1/> e alcuni legati. - Per ogni $1 \le i \le n$, i numeri interi $W_i$ e $W_{i+1}$ (indici mod $30$, quindi $W_{31} = W_1$) condividono un lato comune sulla griglia. - Per ciascuna $1 \le n \le 30$, $C_n$ indichi il centro della cella etichettata $W_n$; quindi $C_1, C_2, \ldots, C_{30}$ si trova all'interno del confine formato dalle celle nere della colonna (o riga) di $n$.
+> - $W_1, W_2, \ldots, W_{30}$ sono integri separati in coppia tra $1$ e alcuni legati. - Per ogni $1 \le i \le n$, i numeri interi $W_i$ e $W_{i+1}$ (indici mod $30$, quindi $W_{31} = W_1$) condividono un lato comune sulla griglia. - Per ciascuna $1 \le n \le 30$, $C_n$ indica il centro della cella etichettata $W_n$; quindi $C_1, C_2, \ldots, C_{30}$ si trova all'interno del confine formato dalle celle nere della colonna (o riga) di $n$.
 > 
 > Contare il numero di modi per colorare una configurazione del genere. I colori collegati a rotazione o riflessione sono considerati diversi.
 

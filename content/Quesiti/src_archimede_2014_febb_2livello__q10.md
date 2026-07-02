@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-zero coefficients of the product of binomials (1+x^3^k) < MSK1/>
+*Non-zero coefficients of the product of binomials (1+x^3^k) *
 
 > Consider the polynomial p(x) = (1 + x31)(1 + x32)(1 + x33)(1 + x34)(1 + x35)(1 + x39)), and suppose we perform the product, thus obtaining an expression of the type a0 + a1x + a2x2 + . . . + a402x402, where for example a0 = a402 = 1. How many of the coefficients a0, . . . , a402 is different from zero?
 >

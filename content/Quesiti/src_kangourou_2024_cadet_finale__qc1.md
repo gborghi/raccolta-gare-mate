@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The meaning of KAB can be deduced from the answer< MSK1/>
+*The meaning of KAB can be deduced from the answer*
 
 > In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
 

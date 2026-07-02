@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many supplements were sold by total collection< MSK1/>
+*How many supplements were sold by total collection*
 
 > 3) A newspaper costs EUR 0.90; the buyer is offered an optional supplement of EUR 1.50 At the end of the day, 333 copies of the paper were sold and the total revenue from the sale of the paper and its supplements was EUR 539.70. How many supplements have been purchased?
 >

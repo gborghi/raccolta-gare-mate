@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many white scales are used in the cube< MSK1/>
+*How many white scales are used in the cube*
 
 ![[src_kangourou_2022_ecolier_gara__prob17.png]]
 

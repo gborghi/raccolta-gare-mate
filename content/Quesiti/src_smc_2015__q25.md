@@ -59,7 +59,7 @@ tags:
 
 *Valuta di f(500) per una funzione moltiplicativa con f(10)=14 e f(40)=20*
 
-> Una funzione $f$, definita sull'insieme di integri positivi, è tale che $f(xy) = f(x) + f(y)$ per tutti $x$ e $y$. È dato che $f(10) = 14$ e $f(40) = 20$. Qual è il valore di < MSK6/>?
+> Una funzione $f$, definita sull'insieme di integri positivi, è tale che $f(xy) = f(x) + f(y)$ per tutti $x$ e $y$. È dato che $f(10) = 14$ e $f(40) = 20$. Qual è il valore di $f(500)$?
 >
 > - **(A)** $29$
 > - **(B)** $30$

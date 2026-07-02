@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Summa dei perimetri di sei quadrati a lato intero di un quadrato di 144 cm^2< MSK1/>
+*Summa dei perimetri di sei quadrati a lato intero di un quadrato di 144 cm^2*
 
 > Un quadrato di superficie $144$ cm$^2$ può essere decomposto in sei quadrati con lati interi, non tutti uguali. Qual è la somma dei perimetri di tutti e sei i quadrati?
 > 

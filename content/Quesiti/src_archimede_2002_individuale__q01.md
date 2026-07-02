@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> to determine them< MSK1/>
+* to determine them*
 
 > Determine all the positive integers of three digits that are equal to 34 times the sum of their digits.
 

@@ -73,7 +73,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Min squares to be repainted (not adjacent to each other) < MSK1/>
+*Min squares to be repainted (not adjacent to each other) *
 
 ![[src_kangourou_2015_marzo_benjamin__prob3.png]]
 

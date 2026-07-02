@@ -111,17 +111,17 @@ tags:
 > 
 > Ora Nicolas non ha più un pulsante per far girare l'elettrone, ma specchi da cui l'elettrone rimbalza, conforme alle leggi della fisica classica: gli angoli di incidenza e di riflessione sono uguali.
 > 
-> Li organizza in modo da formare un poligono convexo, cioè uno i cui angoli interni hanno tutti una misura rigida tra $0$ e $\pi$. Si suppone che l'elettrone sia lanciato in modo che non attraversasse mai un vertice del poligono.
+> Li organizza in modo da formare un poligono convexo, cioè uno i cui angoli interni hanno tutti la misura strettamente tra $0$ e $\pi$. Si suppone che l'elettrone sia lanciato in modo che non attraversasse mai un vertice del poligono.
 > 
 > Un poligono convex viene detto $\textbf{admirable}$ se Nicolas può far rimbalzare l'elettrone dai lati del poligono in qualsiasi ordine. In altre parole, per qualsiasi numerazione dei lati del poligono con i numeri interi da $1$ a $M$, è possibile posizionare la pistola elettronica in modo che l'elettrone rimbalzi dal lato $1$, poi $2$ e così via fino a $M$.
 > 
-> La figura $9$ rappresenta un quadrilaterale (in arancione) i cui lati sono stati numerati e una possibile traiettoria di un elettrone rispetto a questo ordine: rimbalza successivamente fuori dai lati $1$, poi $2$, poi $3$ e poi $4$. Per rendere questo poligono ammirevole, si dovrebbe essere in grado di fare la stessa cosa qualunque numero sia attribuito ai lati.
+> La figura $9$ rappresenta un quadrilaterale (in arancione) i cui lati sono stati numerati e una possibile traiettoria di un elettrone rispetto a questo ordine: rimbalza successivamente dai lati $1$, poi $2$, poi $3$ e poi $4$. Per rendere questo poligono ammirevole, si dovrebbe essere in grado di fare la stessa cosa qualunque numero sia attribuito ai lati.
 > 
 > Per quale $M$ è ammirevole il poligono regolare con lati $M$ le cui vertici si trovano su un cerchio di raggio $1$?
 > 
 > Per quale $M \ge 3$ Nicolas può costruire un polygono ammirevole con i lati $M$?
 > 
-> < MSK0/> Proporre e studiare altre vie di ricerca.
+> $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__Q05.png]]
 

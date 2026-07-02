@@ -57,7 +57,7 @@ tags:
 
 *Dato che a2(b+c)=b2(c+a)=2010, calcolare c2(a+b)*
 
-> $a$, $b$ e $c$ siano numeri reali come $a \ne b$ e $a^2(b+c) = b^2(c+a) = 2010$. Calcolare < MSK5/>.
+> $a$, $b$ e $c$ siano numeri reali come $a \ne b$ e $a^2(b+c) = b^2(c+a) = 2010$. Calcolare $c^2(a+b)$.
 
 **Risposta:** 2010
 [[src_obm_2009_n2_f3__Q04]]

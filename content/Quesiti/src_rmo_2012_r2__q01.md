@@ -53,7 +53,7 @@ tags:
 
 *Circolo quadrante inserito nel quadrato unitario, radio *
 
-> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Scrivere un cerchio $\Gamma$ che tocchi l'arco $AC$ internamente, l'arco $BD$ internamente e anche il lato $AB$. Trova il raggio del cerchio < MSK11/>.
+> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi l'arco $AC$ internamente, l'arco $BD$ internamente e anche il lato $AB$. Trova il raggio del cerchio $\Gamma$.
 
 ![[src_rmo_2012_r2__Q01.png]]
 

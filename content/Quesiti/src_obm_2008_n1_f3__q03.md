@@ -68,7 +68,7 @@ tags:
 > 
 > [Si mostra una lavagna $3 \times 4$ coperta da quattro pezzi $3 \times 1$.]
 > 
-> a) Determinare in quanti modi il giardo può produrre un rivestimento per < MSK0/>. b) In quanti modi il giardo può coprire la lavagna per < MSK1/>?
+> a) Determinare in quanti modi il giardo può produrre un rivestimento per $n = 1, 2, 3, 4, 5, 6, 7$. b) In quanti modi il giardo può coprire la lavagna per $n = 15$?
 
 ![[src_obm_2008_n1_f3__Q03.png]]
 

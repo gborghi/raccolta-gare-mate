@@ -51,6 +51,6 @@ tags:
 
 *Triangolo acuto, centro ortografico, due circoncircoli che incontrano le linee di altitudine all'esterno; dimostrare AE = AF*
 
-> Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e che $D$ sia l'intersezione delle linee $AH$ e $BC$. Il punto $E$ deve essere il punto (diversi da $A$ e $B$) in cui il circoncircolo del triangolo $ABD$ incontra la linea $CH$, dove $E$ si trova fuori dal triangolo $ABC$. Il punto $F$ deve essere il punto (diversi da $A$ e $C$) in cui il circoncircolo del triangolo $ACD$ incontra la linea $BH$, dove $F$ si trova fuori dal triangolo $ABC$. Provare che < MSK19/>.
+> Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e che $D$ sia l'intersezione delle linee $AH$ e $BC$. $E$ deve essere il punto (diversi da $A$ e $B$) in cui il circoncircolo del triangolo $ABD$ incontra la linea $CH$, dove $E$ si trova fuori dal triangolo $ABC$. Il punto $F$ deve essere il punto (diversi da $A$ e $C$) in cui il circoncircolo del triangolo $ACD$ incontra la linea $BH$, dove $F$ si trova fuori dal triangolo $ABC$. Provare che $AE = AF$.
 
 [[src_jjmo9mq_honsen__Q03]]

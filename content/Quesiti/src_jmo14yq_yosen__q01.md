@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Scatole di 10 e 6 mele per un totale di 38; combinazioni di scatole da contare.< MSK1/>
+*Scatole di 10 e 6 mele per un totale di 38; combinazioni di scatole da contare.*
 
 > Ci sono diverse scatole che contengono ciascuna 10 mele e diverse scatole che contengono ciascuna 6 mele. Se il numero totale di mele è di 38, in quanti modi possono essere combinate le scatole?
 

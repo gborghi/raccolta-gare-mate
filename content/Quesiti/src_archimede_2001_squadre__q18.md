@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Innaig field size< MSK1/>
+*Innaig field size*
 
 > This is the total amount of the loan amount.
 > 

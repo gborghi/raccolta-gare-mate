@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reduction in volume in the solidification< MSK1/>
+*Reduction in volume in the solidification*
 
 > When a solid is liquefied, its volume increases by 1/12; how much less does its volume decrease when it solidifies? A) 1/10 B) 12
 > 	

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>T-shirts for monkeys at the zoo (I) < MSK1/>
+*T-shirts for monkeys at the zoo (I) *
 
 > If they're B and D, the rest you can't complete 8-9. If they're B (or D) and E, the rest is completed in 1 way 10-11. If they are A and B (or D), the rest is completed in 1 mode 3.
 > 

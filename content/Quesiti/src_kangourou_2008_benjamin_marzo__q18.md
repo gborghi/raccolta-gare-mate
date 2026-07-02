@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eta of Ada and Ivo under linear conditions< MSK1/>
+*Eta of Ada and Ivo under linear conditions*
 
 > Ada and Ivo are coming of age today. In two years Ivo will be twice as old as he was two years ago, while in three years Ada will be three times as old as she was three years ago. Which of the following is correct? A) Ivo is one year older than Ada B) Ada is one year older than Ivo C) Ada and Ivo are the same age D) Ivo is two years older than Ada E) Ada is two years older than Ivo
 

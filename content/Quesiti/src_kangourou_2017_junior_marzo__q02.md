@@ -59,11 +59,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Appearance of the word KANGAROO after flipping and rotating< MSK1/>
+*Appearance of the word KANGAROO after flipping and rotating*
 
 ![[src_kangourou_2017_junior_marzo__prob2.png]]
 
-> Peter wrote the word KANGAROO on a glass sheet between them, then turned the sheet over with a pen on his right side and then turned it on his < MSK0/> plane. What does Peter see now? A)
+> Peter wrote the word KANGAROO on a glass sheet between them, then turned the sheet over with a pin on his right side and then turned it on his 180° plane. What does Peter see now? A)
 > 	
 > B)
 > 	

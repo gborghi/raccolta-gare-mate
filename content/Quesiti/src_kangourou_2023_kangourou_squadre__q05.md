@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Insertions SUDOKU 2x3 grid with U-link < MSK1/>
+*Insertions SUDOKU 2x3 grid with U-link *
 
-> SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 < MSK0/> 3 so that no row and no column host both letters U. How many different insertions are possible?
+> SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 × 3 so that no row and no column host both letters U. How many different insertions are possible?
 
 **Answer:** 0144
 [[src_kangourou_2023_kangourou_squadre__Q05]]

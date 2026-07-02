@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum product ab with a^2+b^2+1007ab=2018< MSK1/>
+*Maximum product ab with a^2+b^2+1007ab=2018*
 
 > The sides of a quadrilateral measure 1, 4, 7, 8. What's your maximum area?
 

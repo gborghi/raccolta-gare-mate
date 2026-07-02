@@ -102,15 +102,15 @@ tags:
 > 
 > 2. In questa domanda, supponiamo che i sensori non siano sensibili, cioè che rilevino la presenza di veleno se, e solo se, la sua concentrazione nel campione testato è almeno uguale a una certa soglia. Determinare una strategia ottimale di rilevamento $S$ e determinare $D_{N,k}(S)$.
 > 
-> 3. In questa domanda, supponiamo che i rilevatori non siano più deterministi. Indicare $p \in [0,1]$ e $q \in [0,1]$ e supporre che la probabilità che il rilevatore rileva la presenza di veleno sia $p$ e la probabilità di un falso positivo sia $q$, cioè $\mathbb{P}_{\text{poison present}}(\text{positive detection}) = p$ e $\mathbb{P}_{\text{poison absent}}(\text{positive detection}) = q$.
+> 3. In questa domanda, supponiamo che i rilevatori non siano più deterministi. Impostare $p \in [0,1]$ e $q \in [0,1]$ e supporre che la probabilità che il rilevatore rileva la presenza di veleno sia $p$ e la probabilità di un falso positivo sia $q$, cioè $\mathbb{P}_{\text{poison present}}(\text{positive detection}) = p$ e $\mathbb{P}_{\text{poison absent}}(\text{positive detection}) = q$.
 > 
-> Set < MSK0/>. Diciamo che una strategia $S$ è $\varepsilon$-ottimale se $D_{N,k}(S)$ è la più piccola possibile tra tutte le strategie la cui probabilità di fallimento è inferiore a $\varepsilon$.
+> Set $\varepsilon > 0$. Diciamo che una strategia $S$ è $\varepsilon$-ottimale se $D_{N,k}(S)$ è la più piccola possibile tra tutte le strategie la cui probabilità di fallimento è inferiore a $\varepsilon$.
 > 
-> a) In questa e nella domanda successiva, supponiamo < MSK0/>. stabilire una strategia di rilevamento la cui probabilità di fallimento è inferiore a $\varepsilon$. b) Determinare una strategia < MSK2/>-ottimale < MSK3/> e determinare < MSK4/>. c) Le stesse domande con $q \ne 0$.
+> a) In questa e nella domanda successiva, supponiamo $q = 0$. stabilire una strategia di rilevamento la cui probabilità di fallimento è inferiore a $\varepsilon$. b) Determinare una strategia $\varepsilon$-ottimale $S$ e determinare $D_{N,k}(S)$. c) Le stesse domande con $q \ne 0$.
 > 
-> 4. In questa domanda, supponiamo che i rilevatori non siano più deterministici e siano dinamici, cioè la probabilità di rilevamento positivo in presenza di veleno è esattamente uguale alla concentrazione di veleno nel campione testato, e quella di falso positivo è $\varepsilon$. Set $\varepsilon > 0$.
+> 4. In questa domanda, supponiamo che i rilevatori non siano più deterministi e siano dinamici, cioè la probabilità di rilevamento positivo in presenza di veleno è esattamente uguale alla concentrazione di veleno nel campione testato, e quella di falso positivo è $\varepsilon$. Set $\varepsilon > 0$.
 > 
-> a) stabilire una strategia di rilevamento la cui probabilità di fallimento è inferiore a < MSK0/>. b) Determinare una strategia < MSK1/>-ottimale < MSK2/> e determinare < MSK3/>.
+> a) stabilire una strategia di rilevamento la cui probabilità di fallimento è inferiore a $\varepsilon$. b) Determinare una strategia $\varepsilon$-ottimale $S$ e determinare $D_{N,k}(S)$.
 > 
 > 5. Ripetere le domande 1 e 2 tenendo conto delle strategie $\varepsilon$ ottimali.
 > 

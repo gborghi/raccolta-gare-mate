@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>This decimal number of 13^7/10^5 plus the root 3 of 10^5 < MSK1/>
+*This decimal number of 13^7/10^5 plus the root 3 of 10^5 *
 
 > What is the sixth decimal digit after the comma of the number 137 + √ 3 105 ?
 >

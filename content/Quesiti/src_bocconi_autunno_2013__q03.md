@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of water in the large box.< MSK1/>
+*Height of water in the large box.*
 
 > Carla has at her disposal the two boxes of the figure (they are cubes): the first has a side of 10 cm, the second 20 cm. It fills the little one, up to the edge, with water that then melts into the second box (without losing a drop).
 > 

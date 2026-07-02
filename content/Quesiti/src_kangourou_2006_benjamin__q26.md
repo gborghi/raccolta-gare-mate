@@ -74,7 +74,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum points to be removed to avoid equilateral triangles< MSK1/>
+*Minimum points to be removed to avoid equilateral triangles*
 
 ![[src_kangourou_2006_benjamin__prob26.png]]
 

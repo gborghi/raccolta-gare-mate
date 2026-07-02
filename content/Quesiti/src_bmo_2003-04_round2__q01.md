@@ -52,6 +52,6 @@ tags:
 
 > Che $ABC$ sia un triangolo equilaterale e $D$ un punto interno del lato $BC$. Un cerchio, tangente a $BC$ a $D$, taglia $AB$ internamente a $M$ e $N$, e $AC$ internamente a $P$ e $Q$.
 > 
-> Mostra che < MSK0/>.
+> Mostra che $BD + AM + AN = CD + AP + AQ$.
 
 [[src_bmo_2003-04_round2__Q01]]

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>A2-2: massimo di f(x)=2sin^2 x - tan^2 x.< MSK1/>
+*A2-2: massimo di f(x)=2sin^2 x - tan^2 x.*
 
 > [Papero di prova A2, problema 2] Il massimo di $f(x)=2\sin^2 x-\tan^2 x$ è ______.
 

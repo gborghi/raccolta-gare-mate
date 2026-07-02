@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cyclic quadrilateral if AP=CP by angle bisectors< MSK1/>
+*Cyclic quadrilateral if AP=CP by angle bisectors*
 
 > In a convex quadrilateral $ABCD$ the diagonal $BD$ does not bisect the angles $ABC$ and $CDA$. The point $P$ lies inside $ABCD$ and satisfies $$\angle PBC = \angle DBA \quad \text{and} \quad \angle PDC = \angle BDA.$$ Prove that $ABCD$ is a cyclic quadrilateral if and only if $AP = CP$.
 

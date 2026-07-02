@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum days with heights in arithmetic progression< MSK1/>
+*Minimum days with heights in arithmetic progression*
 
 > Alessandro Lombardo Pomona Springer, a professor of herbology, cures in a secret greenhouse his precious 2025 mandrake, initially all high 109 nanobucets (nb), that is, a stick. Every day, it waters exactly 101 distinct mandrels. At the end of the day, the mandrels that were watered that day grow by 1 nb, while the others decrease by 1 nb. One day, just before the mandrels were to be watered, Springer decides to arrange the almond pots by arranging them from lowest to highest. When performing this action, it is noticed that all plants have different heights and that the height difference between two consecutive plants remains constant. How many days have passed, at least, since the day she started taking care of the almonds?
 

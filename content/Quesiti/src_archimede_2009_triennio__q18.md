@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Second figure of the product (10^4+1)
+*Second figure of the product (10^4+1)
 
 > What's the second digit, starting from the left, of the number (104 + 1) ((102 + 1) ((10 + 1))?
 >

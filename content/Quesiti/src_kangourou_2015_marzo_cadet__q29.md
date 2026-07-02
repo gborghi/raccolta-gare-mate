@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>greater remainder< MSK1/>
+*greater remainder*
 
 > 29. Maria divides 2015 subsequently by 1, 2, 3 and so on up to 1000 inclusive. He writes down the remains of each division. What's the largest remainder he finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum Monday for 45 consecutive days< MSK1/>
+*Maximum Monday for 45 consecutive days*
 
 > How many Mondays can there be for 45 consecutive days?
 >

@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> which result< MSK1/>
+* which result*
 
-> One of the following numbers is the result of product 21.649 < MSK0/> 513.239. What kind? A) 11.111.111
+> One of the following numbers is the result of product 21.649 × 513.239. What kind? A) 11.111.111
 > 	
 > B) 111.111.111
 > 	

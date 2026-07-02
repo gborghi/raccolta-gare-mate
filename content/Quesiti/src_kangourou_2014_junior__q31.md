@@ -54,7 +54,7 @@ tags:
 
 *How many liars in the 2014 lineup *
 
-> In the figure, you see a regular octagon. The area of the shaded region is < MSK0/>. What is the area of the octagon in square centimeters?
+> In the figure, you see a regular octagon. The area of the shaded region is $3 \text{ cm}^2$. What is the area of the octagon in square centimeters?
 > 
 > (see figure)
 > 

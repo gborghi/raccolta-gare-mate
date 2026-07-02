@@ -52,7 +52,7 @@ tags:
 
 *Summary of figures expressed as 123456789*
 
-> The expression Write the sum of the digits of the result of the following expression: (123.456.789) 2  123.455.789 < MSK0/> 123.456.789.
+> The expression Write the sum of the digits of the result of the following expression: (123.456.789) 2  123.455.789 × 123.456.789.
 
 **Answer:** 0045
 [[src_kangourou_2022_kangourou_squadre_f2__Q01]]

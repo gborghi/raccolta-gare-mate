@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many sandwiches with two and a half slices of bread< MSK1/>
+*How many sandwiches with two and a half slices of bread*
 
 > When Pinocchio answers a question with a lie, his nose lengthens by 6 cm; when he answers telling the truth, his nose shortens by 2 cm. At 8 this morning, his nose was 9 cm long; from that moment on Pinocchio has told three lies and twice the truth: how long is his nose now? A) 14 cm B) 15 cm C) 19 cm D) 23 cm E) 31 cm
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Probabilità di usare occhiali magenta il 31 agosto data una scelta casuale giornaliera< MSK1/>
+*Probabilità di usare occhiali magenta il 31 agosto data una scelta casuale giornaliera*
 
 > José ha tre coppie di occhiali: uno magenta, uno giallo e uno cian. Ogni mattina ne sceglie uno a caso, facendo attenzione a non usarne mai lo stesso del giorno precedente. Il 1° agosto indossava la magenta. Qual e' la probabilita' che il 31 agosto usi di nuovo la coppia di magenta?
 

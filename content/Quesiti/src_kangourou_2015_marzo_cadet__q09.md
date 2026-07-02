@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>what region< MSK1/>
+*what region*
 
 ![[src_kangourou_2015_marzo_cadet__prob9.png]]
 

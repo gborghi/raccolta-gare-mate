@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many liars out of 7 in a circle that declare themselves liars< MSK1/>
+*How many liars out of 7 in a circle that declare themselves liars*
 
 > You're making a trip to the Island of the Sincere and the Liar, where every resident is either Sincere (always telling the truth) or Liar (always thinking). Meets seven of them, sitting in a circle around a lighthouse, and each of them declares  I am sitting between two Liars!. How many of them are actually liars? A) 3
 > 	

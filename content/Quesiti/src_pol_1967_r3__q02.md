@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente < MSK1/>
+*100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente *
 
 > Ci sono 100 persone in una sala, ognuno conosce almeno 66 degli altri. Prove che c'è un caso in cui, tra tutti e quattro, due di loro si conoscono.
 

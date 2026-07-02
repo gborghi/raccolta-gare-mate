@@ -57,7 +57,7 @@ tags:
 
 *Radici di due quadratici correlati; trovare valore di a*
 
-> Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono anche le radici dell'equazione $x^2 - bx + a = 0$. I valori $a$ e $b$ non sono necessariamente reali. Qual è il valore di < MSK4/>?
+> Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono anche le radici dell'equazione $x^2 - bx + a = 0$. I valori $a$ e $b$ non sono necessariamente reali. Qual è il valore di $a$?
 > 
 > (A) $-\sqrt{2}$ $\quad$ (B) $\sqrt{2}\,\sqrt{3}$ $\quad$ (C) $\sqrt{3}$ $\quad$ (D) $\sqrt{2}$ $\quad$ (E) $\sqrt{3}$
 

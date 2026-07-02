@@ -62,7 +62,7 @@ tags:
 
 > $d \le n$ siano numeri interi positivi e $A$ una matrice reale $d \times n$. Vediamo $A$ come una trasformazione lineare $\mathbb{R}^n \to \mathbb{R}^d$ data da $v \mapsto Av$ (visualizzando gli elementi di $\mathbb{R}^n$ come vettori di colonna). $\sigma(A)$ sia la suprema su tutti i sottospazi $d$-dimensionali $W$ di $\mathbb{R}^n$ di $\inf_{w \in W,\, |w|=1} |Aw|$. Per ogni $i \in \{1, \ldots, d\}$, $r(i) \in \mathbb{R}^n$ è il $i$-th row-vector di $A$, e per $j \in \{1, \ldots, d\}$ con $j \ne i$, $d(r(i), r(j))$ indica la distanza euclidica tra $r(i)$ e $r(j)$.
 > 
-> Per ogni $i \in \{1, \ldots, d\}$, $e_i$ sia l'elemento $i$- della base canonica di $\mathbb{R}^d$. Provare che < MSK0/>
+> Per ogni $i \in \{1, \ldots, d\}$, $e_i$ sia l'elemento $i$- della base canonica di $\mathbb{R}^d$. Provare che $$\sigma(A) \le \min_{i} \min_{j : j \ne i} d(r(i), r(j)) \le \sqrt{n} \cdot \sigma(A).$$
 > 
 > **Remark.** $|\cdot|$ indica la norma euclidiana; $A^T$ è la trasposizione di $A$; $d(r(i), r(j))$, $1 \le j \le d$, $j \ne i$, indica la distanza di $r(i)$ da $r(j)$.
 

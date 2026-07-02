@@ -54,7 +54,7 @@ tags:
 
 *Probabilità di almeno due numeri adiacenti tra cinque scelti da 1 a 20*
 
-> Prendi a caso cinque numeri diversi da < MSK0/>. Quindi la probabilità che ci siano almeno due numeri adiacenti tra loro è $\underline{\qquad}$.
+> Prendi a caso cinque numeri diversi da $1, 2, \ldots, 20$. Quindi la probabilità che ci siano almeno due numeri adiacenti tra loro è $\underline{\qquad}$.
 
 **Risposta:** \frac{232}{323}
 [[src_cn_cmc_2013__Q06]]

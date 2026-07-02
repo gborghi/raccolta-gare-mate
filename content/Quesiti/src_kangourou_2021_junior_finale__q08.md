@@ -52,7 +52,7 @@ tags:
 
 *sum of n with 2021 = n + sum of n*
 
-> Look at the figure. A rectangle with a perimeter of 30 cm is divided into four rectangles, one of which is a square of area < MSK0/>. How many centimetres does the perimeter of the $ABCD$ rectangle measure? (see figure)
+> Look at the figure. A rectangle with a perimeter of 30 cm is divided into four rectangles, one of which is a square of area $9\text{ cm}^2$. How many centimetres does the perimeter of the $ABCD$ rectangle measure? (see figure)
 > 
 > A) 14 B) 16 C) 18 D) 21 E) 24
 

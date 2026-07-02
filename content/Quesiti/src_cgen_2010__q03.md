@@ -103,7 +103,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Modello probabilistico/recursivo di tre specie cellulari che si evolvono nel corso delle generazioni: limite di probabilità di compatibilità e convergenza delle sequenze proporzionali in due scenari*
+*Modello probabilistico/recursivo di tre specie cellulari che evolvono nel corso delle generazioni: limite di probabilità di compatibilità e convergenza delle sequenze proporzionali in due scenari*
 
 > Problema 3: sulla vita su Marte!
 > 
@@ -111,25 +111,25 @@ tags:
 > 
 > Con solo informazioni parziali, gli scienziati cercano di osservare i seguenti fatti:
 > 
-> - Esistono tre specie di cellule, denominate < MSK0/>, < MSK1/> e < MSK2/>. - La riproduzione delle cellule comporta la partecipazione di tre cellule "padri". - La riproduzione avviene solo se i tre genitori sono "compatibili", cioè se più di uno di essi sono della stessa specie (almeno due dei tre genitori appartengono alla stessa specie).
+> - Esistono tre specie di cellule, denominate $A$, $B$ e $C$. - La riproduzione delle cellule comporta la partecipazione di tre cellule "padri". - La riproduzione avviene solo se i tre genitori sono "compatibili", cioè se più di uno di essi sono della stessa specie (almeno due dei tre genitori appartengono alla stessa specie).
 > 
 > 1. Si osservano le rispettive proporzioni $a$, $b$, $c$ delle cellule delle diverse specie, con $a + b + c = 1$.
 > 
 > a. Qual è la probabilità $p$ che tre cellule prese a caso siano compatibili?
 > 
-> b. Mostra che < MSK0/>. Si può prima stabilire un limite inferiore fisso $a \ge \ldots$.
+> b. Mostra che $p \ge \frac{1}{9}$. Si può prima stabilire un limite inferiore fisso $a \ge \ldots$.
 > 
 > Quando i tre genitori non sono tutti della stessa specie, le proporzioni delle specie possono variare da una generazione all'altra, in particolare quando una specie è minoritaria $\beta$. Gli scienziati esitano tra due modelli:
 > 
-> - Modello 1: il discendente è del tipo della specie maggioritaria < MSK0/>. - Modello 2: il discendente è del tipo della specie minoritaria < MSK1/>.
+> - Modello 1: il discendente è del tipo della specie maggioritaria $\alpha$. - Modello 2: il discendente è del tipo della specie minoritaria $\beta$.
 > 
 > Per valutare questi modelli, si indicano con $a_n$, $b_n$, $c_n$ le proporzioni delle diverse specie alla generazione $n$, con $a_n \ge b_n \ge c_n$.
 > 
 > 2. Studiare il primo scenario. In questa domanda si suppone che la genetica delle cellule segua il primo scenario.
 > 
-> a. Verificare che: < MSK0/>
+> a. Verificare che: $$a_{n+1} = \frac{a_n^2(3-2a_n)}{1-6a_n b_n c_n}, \quad b_{n+1} = \frac{b_n^2(3-2b_n)}{1-6a_n b_n c_n}, \quad c_{n+1} = \frac{c_n^2(3-2c_n)}{1-6a_n b_n c_n}.$$
 > 
-> b. In questa e nelle seguenti domande si ricorda che $a_n \ge b_n \ge c_n$. Mostrare che per tutti $n$ uno ha $a_{n+1} > a_n > b_n > c_n$. Riduzione di < MSK3/>.
+> b. In questa e nelle seguenti domande si ricorda che $a_n \ge b_n \ge c_n$. Mostrare che per tutti $n$ uno ha $a_{n+1} > a_n > b_n > c_n$. Riduzione di $a_n > b_n > c_n > 0$.
 > 
 > c. Verificare che le sequenze $(a_n - b_n)_{n \in \mathbb{N}}$ e $(b_n - c_n)_{n \in \mathbb{N}}$ aumentino.
 > 

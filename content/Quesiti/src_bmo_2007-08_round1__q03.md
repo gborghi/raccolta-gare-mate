@@ -47,6 +47,6 @@ tags:
 
 *Diametro e perpendicolari in un cerchio; prova LS = LT*
 
-> $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$ o $C$) sul cerchio attraverso $A$, $B$ e $C$, sullo stesso lato dell'accordo $BC$ come $A$, e il $P$ deve essere l'altra estremità del diametro attraverso $Q$. Le perpendicolari da $Q$ a $CA$ e $AB$ soddisfano rispettivamente la linea $PA$ a $S$ e $T$. Il piede della perpendicolare da $P$ alla linea $BC$ è $L$. Mostra che < MSK22/>.
+> $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$ o $C$) sul cerchio attraverso $A$, $B$ e $C$, sullo stesso lato dell'accordo $BC$ come $A$, e il $P$ deve essere l'altra estremità del diametro attraverso $Q$. Le perpendicolari da $Q$ a $CA$ e $AB$ soddisfano rispettivamente la linea $PA$ a $S$ e $T$. Il piede della perpendicolare da $P$ alla linea $BC$ è $L$. Mostra che $LS = LT$.
 
 [[src_bmo_2007-08_round1__Q03]]

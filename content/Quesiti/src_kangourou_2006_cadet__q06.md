@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Centiliters left in the bottle after pouring< MSK1/>
+*Centiliters left in the bottle after pouring*
 
 > A 1/3-liter bottle is 3/4 full. How many centimetres of liquid will it contain after pouring 20 centimetres into a glass? A) 24.5 B) 7.5 C) 5 D) 13 E) 0 (i.e. it will be empty) Pag. I'm going to pay. The Commission has not yet decided whether to proceed with the adoption of a decision on the application of this Regulation.
 > 

@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, dimostrare che due commissioni condividono almeno n/30 membri.*
+In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, dimostrare che due commissioni condividono almeno n/30 membri.*
 
-> Si dà un intero positivo $n$. In un'associazione composta da membri $n$ si svolgono 6 commissioni. Ogni commissione contiene almeno < MSK2/> persone. Dimostrare che esistono due commissioni che contengono almeno $n/30$ persone in comune.
+> Si dà un intero positivo $n$. In un'associazione composta da membri $n$ si svolgono 6 commissioni. Ogni commissione contiene almeno $n/4$ persone. Dimostrare che esistono due commissioni che contengono almeno $n/30$ persone in comune.
 
 [[src_pol_2002_r2__Q03]]

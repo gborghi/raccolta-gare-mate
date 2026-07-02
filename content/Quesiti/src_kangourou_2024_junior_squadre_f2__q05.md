@@ -50,7 +50,7 @@ tags:
 
 *Most subgrids score 10x10*
 
-> The grid A competitor has a grid square 10 < MSK0/> 10. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What's the maximum score you can get?
+> The grid A competitor has a grid square 10 × 10. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What's the maximum score you can get?
 
 **Answer:** 3410
 [[src_kangourou_2024_junior_squadre_f2__Q05]]

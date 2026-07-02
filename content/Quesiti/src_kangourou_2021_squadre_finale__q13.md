@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>F in cents (gift collection) < MSK1/>
+*F in cents (gift collection) *
 
 > Alice's birthday present is at a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each child. How many cents is the quotient of the division M: F ?
 

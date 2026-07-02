@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of the largest with an average of 10 of 10 integers< MSK1/>
+*Maximum of the largest with an average of 10 of 10 integers*
 
 > The arithmetic mean of 10 different positive integers is 10. What is the maximum value of the largest of these 10 numbers? A) 10 B) 45 C) 50 D) 55 E) 91
 

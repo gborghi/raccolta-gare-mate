@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>estimation of who knew the correct answer< MSK1/>
+*estimation of who knew the correct answer*
 
 > (3 points) To a closed answer question by Kangourou like this, with 5 options for the answer, 10,000 students answered. Of these, some have been able to determine the correct answer based on their knowledge, others have tried to guess by choosing quite randomly from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
 >  

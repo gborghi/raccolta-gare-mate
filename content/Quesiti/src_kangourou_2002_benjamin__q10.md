@@ -39,12 +39,6 @@ tags:
 >   B. 17   
 > C. 7     D. 14 
 > E. 28 
->  
->  
->  
->  
->  
-> 
 > Benjamin 2002. Pagina N. 
 > 3 
 > I quesiti dal N. 11 al N. 20 valgono 4 punti
@@ -59,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bags in the third box< MSK1/>
+*Bags in the third box*
 
 > They want to divide 49 balls into three boxes so that the first box contains half the balls of the second and the second half the balls of the third. How many balls will the third box have to hold?
 >  

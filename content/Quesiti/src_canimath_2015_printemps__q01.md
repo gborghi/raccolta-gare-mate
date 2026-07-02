@@ -60,7 +60,7 @@ tags:
 
 *Tre operazioni a numeri interi; trovare x dando 1945, tutti x dando 2015*
 
-> Sono definite tre operazioni sui numeri interi: - Operazione $A$: moltiplicare per $2$ e aggiungere $4$ al risultato. - Operazione $B$: moltiplicare per $1$ e aggiungere $16$ al risultato. - Operazione < MSK6/>: moltiplicare per < MSK7/> e aggiungere < MSK8/> al risultato.
+> Sono definite tre operazioni sui numeri interi: - Operazione $A$: moltiplicare per $2$ e aggiungere $4$ al risultato. - Operazione $B$: moltiplicare per $1$ e aggiungere $16$ al risultato. - Operazione $C$: moltiplicare per $5$ e aggiungere $25$ al risultato.
 > 
 > a) Trovare un numero intero $x$ tale che, dopo aver applicato successivamente le operazioni $A$, $B$ e $C$ in tale ordine, si ottiene $1945$.
 > 

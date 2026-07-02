@@ -49,7 +49,7 @@ tags:
 
 *Area of the part shown in Figure *
 
-> < MSK0/>What is the area of the part shown in Figure 1?< MSK1/>
+> **What is the area of the part shown in Figure 1?**
 
 ![[src_bocconi_primavera_2007__Q18.png]]
 

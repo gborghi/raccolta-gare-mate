@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum summer camp entries, allowance< MSK1/>
+*Minimum summer camp entries, allowance*
 
 > The summer camp Marco and his brother enrolled in a summer camp. The weekly cost of enrolling a child in this camp is €60, but if a family enrolls more than one child, they are entitled to the reduced allowance of €54 per child from the second. The first week's enrollment has raised €3,000 and more than half of those enrolled are single children. What is the minimum number of applicants?
 

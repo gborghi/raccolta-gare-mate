@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore rispetto all'ultima; trovano le ore lavorate dalla prima donna< MSK1/>
+Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quelle dell'ultimo; trovano le ore lavorate dalla prima donna*
 
 > Un gruppo di donne che lavorano insieme allo stesso ritmo può costruire un muro in 45 ore. Quando l'opera iniziò, non tutte le donne iniziarono a lavorare insieme. Si univano al lavoro nel corso di un periodo di tempo, uno dopo l'altro, a uguali intervalli. Una volta al lavoro, ciascuno rimaneva fino a quando il lavoro era finito. Se la prima donna ha lavorato 5 volte più ore dell'ultima donna, per quante ore ha lavorato la prima donna?
 

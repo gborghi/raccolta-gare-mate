@@ -52,7 +52,7 @@ tags:
 
 *First year after 2016 with 1 January again Friday*
 
-> It was still Friday. What will be the first year after 2016 in which < MSK1/> January will fall again on Friday?
+> It was still Friday. What will be the first year after 2016 in which 1° January will fall again on a Friday?
 
 **Answer:** 2021
 [[src_kangourou_2016_squadre_ecolier_f__Q03]]

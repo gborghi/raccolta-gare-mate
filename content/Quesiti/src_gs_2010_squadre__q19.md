@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total height of the ziqqurat per recourse< MSK1/>
+*Total height of the ziqqurat per recourse*
 
 > The mausoleum (point 50)
 > 

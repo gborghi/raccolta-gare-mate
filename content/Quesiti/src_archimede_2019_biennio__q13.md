@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability sum 8 with normal and special dice< MSK1/>
+*Probability sum 8 with normal and special dice*
 
 > Laura has two dice. One of the two is a normal dice game, with faces numbered from 1 to 6. The other is a special dice instead, which has two faces with the number 3, one face with the number 4 and three faces with the number 6. So if you put the two dice together, what is the probability that the sum of the two numbers that come out is equal to 8?
 >

@@ -56,6 +56,6 @@ tags:
 
 *Contare i sottoinsiemi per somma rimanente mod 7 e per prodotto rimanente mod 7; trovare il rapporto a_n/b_n.*
 
-> $a_n$ indica il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 6n\}$ la cui somma di elementi dà il rimanente $5$ diviso per $7$. Inoltre, $b_n$ è il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 7n\}$ il cui prodotto degli elementi dà il rimanente $5$ diviso per $7$. Trova < MSK8/>.
+> $a_n$ indica il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 6n\}$ la cui somma di elementi dà il rimanente $5$ diviso per $7$. Inoltre, $b_n$ è il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 7n\}$ il cui prodotto degli elementi dà il rimanente $5$ diviso per $7$. Trova $a_n / b_n$.
 
 [[src_pol_1997_r1__Q08]]

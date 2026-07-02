@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of white ball extraction at second extraction< MSK1/>
+*Probability of white ball extraction at second extraction*
 
 > One box contains three white balls and two black balls. Mark extracts a ball and puts it back in the box by adding another ball of the same color. At this point he extracts a new ball from the box. What is the probability that the latter is white?
 >

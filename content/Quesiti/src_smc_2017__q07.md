@@ -62,7 +62,7 @@ tags:
 
 > Il numero intero positivo $k$ soddisfa l'equazione $\sqrt{2} + \sqrt{8} + \sqrt{18} = \sqrt{k}$.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $k$?
 >
 > - **(A)** $28$
 > - **(B)** $36$

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many sums of three elements < MSK1/>
+*How many sums of three elements *
 
 > a, b and c are three distinct numbers taken together {1, 4, 7, 10, 13, 16, 19, 22, 25, 28}. How many different sums of a + b + c are possible? A) 19 B) 21 C) 22 D) 30 E) 63
 > 

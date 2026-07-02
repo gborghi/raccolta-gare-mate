@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca tutti i valori dell'espressione del prodotto simmetrico dati rapporti uguali < MSK1/>
+*Ricerca tutti i valori dell'espressione del prodotto simmetrico dati rapporti uguali *
 
 > Lasciate che $x, y, z$ siano tre numeri reali non zero (non necessariamente positivi) in modo tale che $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$ Trova tutti i valori che il numero $$\frac{(x+y)(y+z)(z+x)}{xyz}$$ può prendere.
 

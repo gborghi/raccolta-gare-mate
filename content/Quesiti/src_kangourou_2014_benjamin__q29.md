@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>For how many days can the weather be predicted< MSK1/>
+*For how many days can the weather be predicted*
 
 > In a strange part of the world, the two days preceding each sunny day are rainy days. In addition, the fifth day after every rainy day is still a rainy day. Today is a sunny day in that region: for how many consecutive days from tomorrow, at most, can we predict whether it will rain or shine? (The answer 1, for example, means that we can predict the weather of tomorrow, but not the day after tomorrow.) A) 1
 > 	

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Real solutions of (x^2-4x+5)^{x^2+x-30}=1 < MSK1/>
+*Real solutions of (x^2-4x+5)^{x^2+x-30}=1 *
 
 > How many distinct real solutions does the equation admit (x2 − 4x + 5) = 1 ? A) 1
 > 	

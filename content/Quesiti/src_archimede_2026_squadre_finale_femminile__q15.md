@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of non-reducible fractions n/100 with 1<=n<=99< MSK1/>
+*sum of non-reducible fractions n/100 with 1<=n<=99*
 
 > After a welcome speech, Stoick invites his son Hiccup, the village's new Sterminator, into the area. Now you'll have to kill a dragon. Hiccup is facing a Horrible Nightmare that is immediately covered in flames. Hiccup abandons his shield and weapon and begins to calm the dragon by listing all the irreducible fractions of the form 100n with 1 99n   . The dragon calms down and lets himself get closer. They're not what we think. We don't have to kill them, he shouts to the crowd, moving forward to touch the dragon's nose. Angry Stoick throws his axe at the balustrade screaming, "Stop the fight!" The dragon frightens and attacks. How much is the sum of all the fractions listed by Hiccup?
 

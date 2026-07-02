@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-prime and non-dive 2-digit integers for 2,3,5< MSK1/>
+*Non-prime and non-dive 2-digit integers for 2,3,5*
 
 > How many positive integers of two digits that are not prime and are not divisible by 2, 3, or 5? A) 2
 > 	

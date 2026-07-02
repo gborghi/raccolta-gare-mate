@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum of beads to be extracted to have 3 beads of the same colour< MSK1/>
+*Minimum of beads to be extracted to have 3 beads of the same colour*
 
 > Adélise says to Bill, "This bag contains different colored bags. If you randomly extract $100$ seeds from this bag, you can be sure you have $4$ seeds of the same color, but it's not sure if you only extracted $99$.
 > 

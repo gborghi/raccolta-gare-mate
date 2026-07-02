@@ -67,7 +67,7 @@ tags:
 
 ![[src_kangourou_2004_junior__prob25.png]]
 
-> The ones in the figure are circles. The area of the shaded region is 2< MSK0/>. How long is the AB segment? A) 1 B) 2 C) 3 D) 4 E) cannot be answered because it depends on the radii of the circles K L M N P Q A B
+> The ones in the figure are circles. The area of the shaded region is 2π. How long is the AB segment? A) 1 B) 2 C) 3 D) 4 E) cannot be answered because it depends on the radii of the circles K L M N P Q A B
 > 
 > I'm going to pay. I'm going to pay. 27 27 Kang 2004 Kang
 

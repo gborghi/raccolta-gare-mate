@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of Martian tentacles above average< MSK1/>
+*Percentage of Martian tentacles above average*
 
 > Every Martian has one, two or three tentacles on his head. Exactly 1% of the Martian population consists of individuals with three tentacles, while 97% consists of individuals with two tentacles and the remainder - 4 3 7 4 3 5 4 + 2 3 3 4 3 6 + A E D B C
 > 

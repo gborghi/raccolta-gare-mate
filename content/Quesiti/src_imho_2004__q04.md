@@ -55,6 +55,6 @@ tags:
 
 Positive reals as triangle sides from sum-reciprocal inequality
 
-> Let MSK1 be an integer. Let $t_1, t_2, \ldots, t_n$ be positive real numbers such that $$n^2 + 1 > (t_1 + t_2 + \cdots + t_n)\left(\frac{1}{t_1} + \frac{1}{t_2} + \cdots + \frac{1}{t_n}\right).$$ Show that $t_i, t_j, t_k$ are side lengths of a triangle for all $i, j, k$ with $1 \leq i < j < k \leq n$.
+> Let$n \geq 3$be an integer. Let $t_1, t_2, \ldots, t_n$ be positive real numbers such that $$n^2 + 1 > (t_1 + t_2 + \cdots + t_n)\left(\frac{1}{t_1} + \frac{1}{t_2} + \cdots + \frac{1}{t_n}\right).$$ Show that $t_i, t_j, t_k$ are side lengths of a triangle for all $i, j, k$ with $1 \leq i < j < k \leq n$.
 
 [[src_imho_2004__Q04]]

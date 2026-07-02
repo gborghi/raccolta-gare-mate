@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Unire dodici 3 < MSK0/>4 rettangoli di plastica fianco a fianco per massimizzare il perimetro < MSK2/>
+*Unire dodici 3 ×4 rettangoli di plastica fianco a fianco per massimizzare il perimetro *
 
-> Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui < MSK0/>. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
+> Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui $3\,\text{cm} \times 4\,\text{cm}$. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
 
 [[src_obm_2013_n1_f2__Q03]]

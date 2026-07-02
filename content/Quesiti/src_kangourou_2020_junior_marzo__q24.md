@@ -49,7 +49,7 @@ tags:
 
 ![[src_kangourou_2020_junior_marzo__prob24.png]]
 
-> 24. Two identical rectangles measuring 3 cm < MSK0/> 9 cm are partially overlapping as shown in the figure. How many square centimetres is the area of the region on which they lie? A) 12 B) 13,5 C) 14 D) 15 E) 16
+> 24. Two identical rectangles measuring 3 cm × 9 cm are partially overlapping as shown in the figure. How many square centimetres is the area of the region on which they lie? A) 12 B) 13,5 C) 14 D) 15 E) 16
 
 **Answer:** D
 [[src_kangourou_2020_junior_marzo__Q24]]

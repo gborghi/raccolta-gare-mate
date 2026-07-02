@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which statement is certainly true (weights) < MSK1/>
+*Which statement is certainly true (weights) *
 
 > Anna and Bice together weigh less than Carla and Dina together; Carla and Emma together weigh less than Franca and Bice together. Which of the following is certainly true? A) Anna and Emma together weigh less than Franca and Dina. B) Dina and Emma together weigh more than Carla and Franca. C) Dina and Franca together weigh more than Anna and Carla. D) Anna and Bice together weigh less than Carla and Franca. E) Anna, Bice and Carla together weigh as much as Dina, Emma and Franca. The Commission has decided to extend the period of validity of this Regulation to the following areas:
 > 

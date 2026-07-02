@@ -75,7 +75,7 @@ tags:
 
 > Per quanto riguarda la risposta a un problema, Maurício, Paulo, Eduardo e Carlos hanno fatto le seguenti dichiarazioni:
 > 
-> - Maurício: è superiore a < MSK0/>. - Paulo: è superiore a < MSK1/>. E' un numero primo. - Carlos: è maggiore di MSK2/.
+> - Maurício: è superiore a $5$. - Paulo: è superiore a $10$. E' un numero primo. - Carlos: è maggiore di$12$.
 > 
 > Tra le affermazioni di cui sopra, quante possono essere vere?
 > 

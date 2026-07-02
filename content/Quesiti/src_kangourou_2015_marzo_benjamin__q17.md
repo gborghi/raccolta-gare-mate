@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>perimeter possible< MSK1/>
+*perimeter possible*
 
 > The area of a rectangle is 12 cm2 and the lengths (in cm) of its sides are integers. Which of the following values can be the length of the perimeter of the rectangle? A) 20 cm B) 26 cm C) 28 cm D) 32 cm E) 48 cm
 

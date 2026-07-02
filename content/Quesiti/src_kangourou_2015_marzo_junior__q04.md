@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> how many more Anna< MSK1/>
+* how many more Anna*
 
 > Anna, Betta and Cinzia purchased a box containing 30 cookies: for the price, Anna provided 80 cents, Betta 50 cents and Cinzia 20. So they each took 10 cookies. If the cookies were divided in proportion to what each one paid, how many more would Anna have had? A) 10
 > 	

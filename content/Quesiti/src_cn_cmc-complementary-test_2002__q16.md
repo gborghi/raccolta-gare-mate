@@ -66,7 +66,7 @@ tags:
 > 
 > (1) Quando $x \in \mathbf{R}$, $f(x - 1) = f(2 - x)$ e $f(x) \ge x$.
 > 
-> (2) Quando < MSK0/>, < MSK1/>.
+> (2) Quando $x \in (0, 2)$, $f(x) \le \left(\dfrac{x + 1}{2}\right)^2$.
 > 
 > Trovare il valore massimo di $m$ in modo tale che esista $t \in \mathbf{R}$ per il quale $f(x + t) \le x$ è valido per tutti $x \in [1, m]$.
 

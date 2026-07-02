@@ -36,10 +36,6 @@ tags:
 > Il massimo comun divisore di due numeri interi positivi m e n è 12
 > e il loro minimo comune multiplo è un quadrato perfetto. Allora quanti
 > dei 5 numeri razionali 
-> , 
-> , 
-> , 
-> , 
 > sono dei quadrati perfetti?
 > A) 1 
 > B) 2 
@@ -58,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many rational squares are perfect (MCD,mcm) < MSK1/>
+*How many rational squares are perfect (MCD,mcm) *
 
 > The greatest common divisor of two positive integers m and n is 12 and their least common multiple is a perfect square. So how many of the five rational numbers are perfect squares? A) 1 B) 2 C) 3 D) 4 E) No decision can be made without further information.
 

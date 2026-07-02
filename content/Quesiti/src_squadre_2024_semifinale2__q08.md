@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Couples (x,y) with shy shy <=6000 and relationship to powers of 2 < MSK1/>
+*Couples (x,y) with shy shy <=6000 and relationship to powers of 2 *
 
 > Around a round table there are 10,000 people, but unfortunately each of them could be a member of the notorious Black Organization. Of these people, 4248 say the following sentence: Between me and the two 2024 Team Games  Semifinal 1  Problem Tests  1/2
 > 

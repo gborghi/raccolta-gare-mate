@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Periods of 2+ consecutive days with 15 Sudoku solved total< MSK1/>
+*Periods of 2+ consecutive days with 15 Sudoku solved total*
 
 > On the first day of vacation, Jacob solves a sudoku pattern. Then, every day afterwards  until the end of the holidays  solves one more than the day before: solves two on the second day, three on the third day, etc. Each day, Jacob  who is a precise type  marks on his calendar the number of resolved patterns and, on returning from the holidays, determines that there has been a period of at least two consecutive days during which he has resolved exactly 15 patterns in total.
 > 

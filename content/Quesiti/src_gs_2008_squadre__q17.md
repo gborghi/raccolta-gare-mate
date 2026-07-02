@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>T-shirts for monkeys (II) counting < MSK1/>
+*T-shirts for monkeys (II) counting *
 
 > Sylvier had actually bought 1 yellow shirt, 2 blue, 2 green and 3 red, leaving them in the room of the five monkeys.
 > 

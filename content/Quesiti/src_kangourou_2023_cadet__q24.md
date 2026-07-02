@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many ways< MSK1/>
+*how many ways*
 
 ![[src_kangourou_2023_cadet__prob24.png]]
 

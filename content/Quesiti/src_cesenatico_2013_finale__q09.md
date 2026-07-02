@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>ABCD product (nested radicals) < MSK1/>
+*ABCD product (nested radicals) *
 
 > Snake, snake! Roots miscalibrate the amount of mushroom to eat and grow more and more. This brings Pigeon out of his drawer, where he has his nest, alerting him, for he fears that Root has come to eat his eggs. So Pigeon complains: They are a,b,c,d four real numbers such that a = p 44+√71+a,b = p 44+ √ 71−b,c = p 44−√71+c,d = p 44− √ 71−d: my eggs will be eaten within a number of minutes equal to the product abcd. I'll never tell you the value of this number, you snake! How much is this product worth?
 

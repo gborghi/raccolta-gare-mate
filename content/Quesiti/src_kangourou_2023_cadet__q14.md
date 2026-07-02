@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many positive integers can be written with 6 matches < MSK1/>
+*How many positive integers can be written with 6 matches *
 
 ![[src_kangourou_2023_cadet__prob14.png]]
 

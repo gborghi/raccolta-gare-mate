@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max square points in a 4x4 grid< MSK1/>
+*Max square points in a 4x4 grid*
 
 > An astute attack scheme by Julius Caesar explains to the centurion Caius Tatticus how he intends to dispose of his troops in a future confrontation. To do this, it shows them a pattern where there are 16 points arranged in a square grid 4×4. You can draw 20 squares having 4 vertices of these points. Julius Caesar wants to choose n points so that no square has all its vertices between them. What is the maximum value of n?
 > 

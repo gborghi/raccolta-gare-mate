@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Three-step achievable points (invariant MCD) < MSK1/>
+*Three-step achievable points (invariant MCD) *
 
 > Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance shall be covered on foot, and the distance to be covered by swimming shall be 2 km. How many miles is the entire route?
 >

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Wake up on Eadrax, time trips and multiples of 9< MSK1/>
+*Wake up on Eadrax, time trips and multiples of 9*
 
 > On the planet Eadrax, a day lasts 100 hours, an hour lasts 100 minutes, a minute lasts 100 seconds. In the main square of the capital, on top of a very high tower, there is a large, clearly visible digital clock, divided into 3 frames $\text{hh}\;\text{mm}\;\text{ss}$. With the ability to always see the great digital clock, workers have become very methodical: they wake up, eat and go to bed all at the same time.
 > 

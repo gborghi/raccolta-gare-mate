@@ -57,7 +57,7 @@ tags:
 
 *Zona per famiglia dopo aver diviso un'azienda agricola rettangolare tra 200 famiglie*
 
-> Una fattoria rettangolare di < MSK0/> di larghezza e < MSK1/> di lunghezza è stata espropria per la riforma agraria. L'azienda agricola deve essere suddivisa tra famiglie $200$ in modo che ciascuna famiglia riceva la stessa superficie. Ogni famiglia dovrebbe ricevere:
+> Una fattoria rettangolare di $10\,\text{km}$ di larghezza e $20\,\text{km}$ di lunghezza è stata espropria per la riforma agraria. L'azienda agricola deve essere suddivisa tra famiglie $200$ in modo che ciascuna famiglia riceva la stessa superficie. Ogni famiglia dovrebbe ricevere:
 >
 > - **(A)** $1{,}000{,}000\,\text{m}^2$
 > - **(B)** $100{,}000\,\text{m}^2$

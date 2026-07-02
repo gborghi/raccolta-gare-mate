@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Win-loss difference in chess (40 matches, 25 points) < MSK1/>
+*Win-loss difference in chess (40 matches, 25 points) *
 
 > In a tournament, a chess player played 40 games earning 25 points: one point for each game won, half for each match drawn and zero for each game lost. What's the difference between the number of games you won and the number of games you lost? A) 5
 > 	

@@ -49,6 +49,6 @@ tags:
 
 *Due coniugati isogonali sul circolo circostante: le linee di pedali si incontrano sul circolo a nove punti*
 
-> In oblique < MSK0/> (< MSK1/>). Per $i = 1, 2$, le linee $AP_i$, $BP_i$ e $CP_i$ incrociano di nuovo il circoncircolo di $\triangle ABC$ rispettivamente a $D_i$, $E_i$ e $F_i$, con $D_i$ su un arco $BC$ non contenente $A$. È noto che la linea $P_1P_2$ interseca il circoncircolo di $\triangle ABC$ a due punti $Q_1$ e $Q_2$. Per $i = 1, 2$, $X_i$ e $Y_i$ siano rispettivamente le proiezioni di $Q_i$ sui lati $AB$ e $AC$. Le linee $X_1Y_1$ e $X_2Y_2$ si incontrano a $W$. Provare che $W$ si trova sul cerchio a nove punti di $\triangle ABC$.
+> In oblique $\triangle ABC$ ($BC > AC > AB$). Per $i = 1, 2$, le linee $AP_i$, $BP_i$ e $CP_i$ incrociano di nuovo il circoncircolo di $\triangle ABC$ rispettivamente a $D_i$, $E_i$ e $F_i$, con $D_i$ su un arco $BC$ non contenente $A$. È noto che la linea $P_1P_2$ interseca il circoncircolo di $\triangle ABC$ a due punti $Q_1$ e $Q_2$. Per $i = 1, 2$, $X_i$ e $Y_i$ siano rispettivamente le proiezioni di $Q_i$ sui lati $AB$ e $AC$. Le linee $X_1Y_1$ e $X_2Y_2$ si incontrano a $W$. Provare che $W$ si trova sul cerchio a nove punti di $\triangle ABC$.
 
 [[src_cn_ctst_2022__Q08]]

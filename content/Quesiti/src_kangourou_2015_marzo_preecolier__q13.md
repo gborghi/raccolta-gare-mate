@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the missing card< MSK1/>
+*the missing card*
 
 > Each card is an equilateral triangle. What's the missing card? (see figure)
 > 

@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-*Distance from the starting point of the centre of a billiards ball to 59 bounce thrown at 45 degrees.*
+*Distance from the starting point of the centre of a billiards ball to a rebound of 45 degrees at 59 degrees.*
 
-> Amerigo plays pool on a rectangular pool of 2.06 m by 3.06 m. Its ball (6 cm in diameter) is placed in the middle of one of the two long sides of the pool and Amerigo makes it roll, without effects, at an angle of $45^\circ$ relative to the pool side. Assuming Amerigo has pulled hard enough, how far from the starting point will the center of the ball be at the time of the MSK1/> bounce? Give the answer in meters, rounding to centimeters. It's closer. In the final result statement, if necessary, $1{,}414$ for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$ and $4{,}123$ for $\sqrt{17}$ shall be taken.
+> Amerigo plays pool on a rectangular pool of 2.06 m by 3.06 m. His ball (which is 6 cm in diameter) is placed in the middle of one of the two long sides of the pool and Amerigo makes it roll, without effects, at an angle of $45^\circ$ with respect to the pool side. Assuming Amerigo has pulled hard enough, how far from the starting point will the center of the ball be at the time of the$59^\circ$ bounce? Give the answer in meters, rounding to centimeters. It's closer. In the final expression of the result, $1{,}414$ for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$ and $4{,}123$ for $\sqrt{17}$ shall be taken if necessary.
 
 **Answer:** $1{,}5\sqrt{2}$ m, circa 2,12 m
 [[src_bocconi_finalenaz_2008__Q12]]

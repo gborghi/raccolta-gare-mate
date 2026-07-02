@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum factor to make 18< MSK1/>k power six< MSK2/>
+*Minimum factor to make 18*k power six*
 
 > Lisa wants to multiply 18 by a number, so the result is both a perfect square and a perfect cube. What's the smallest number Lisa can use?
 >
@@ -60,7 +60,7 @@ tags:
 > - **(B)** 72
 > - **(C)** 1728
 > - **(D)** 2592
-> - **(E)** 46656 Test n. 1 Italian Mathematical Union Olympic Games of Mathematics Project X National Competition for the First Classes Wednesday 5 February 2025 Name: Cognome: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. The letter corresponding to the correct answer shall be shown, for each question, on this page in the window at the bottom. Every right answer is worth 5 points, every wrong answer is worth 0 points, and every problem left unanswered is worth 1 point. Cancellations on the grid are not allowed. The use of electronic devices, compass and goniometer shall not be permitted. The problems are not in order of difficulty, but alternate randomly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test number 2
+> - **(E)** 46656 Test n. 1 Italian Mathematical Union Mathematical Olympiad Project X National Competition for the First Classes Wednesday 5 February 2025 Name: Cognome: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. The letter corresponding to the correct answer shall be shown, for each question, on this page in the window at the bottom. Every right answer is worth 5 points, every wrong answer is worth 0 points, and every problem left unanswered is worth 1 point. Cancellations on the grid are not allowed. The use of electronic devices, compass and goniometer shall not be permitted. The problems are not in order of difficulty, but alternate randomly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test number 2
 
 **Answer:** D
 [[src_garaprime_2025__Q18]]

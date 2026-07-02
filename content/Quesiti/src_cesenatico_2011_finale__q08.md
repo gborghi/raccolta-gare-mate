@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability sum of 7 dice > 24< MSK1/>
+*Probability sum of 7 dice > 24*
 
 > An assuranceturing bardo, because he can't sing in public without ending up tied up like a salami, locks himself in his cabin playing dice. If he throws 7 Roman dice (common dice with 6 faces numbered from 1 to 6), what is the probability that the sum of the outcome values is strictly greater than 24? As a response, provide the first four digits after the comma.
 

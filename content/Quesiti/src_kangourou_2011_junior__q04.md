@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True relationship between X and Z< MSK1/>
+*True relationship between X and Z*
 
 > Let's put X is 122 x 123 + 123 x 124 + 124 x 125, Y is 1222 + 1232 + 1242, Z is 121 x 122 + 122 x 123 + 123 x 124. Which of the following reports is true? A) Y < X < Z B) X < Y = Z C) X < Y < Z D) Z < Y < X E) X = Y < Z
 

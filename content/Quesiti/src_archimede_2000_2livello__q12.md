@@ -43,9 +43,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many distinct TVs nest in the screen< MSK1/>
+*How many distinct TVs nest in the screen*
 
-> The screen size of a television is < MSK0/>. A camera frames the entire TV, and it sends the image back to the TV itself, so inside this TV you see another one and so on. The largest TV you see inside the screen has an area equal to half the screen area. Assuming that a person watches the TV sitting at such a distance that he or she cannot distinguish images of less than < MSK1/> area, how many TVs does he or she see inside the screen?
+> The screen size of a television is $60\,\text{cm} \times 45\,\text{cm}$. A camera frames the entire TV, and it sends the image back to the TV itself, so inside this TV you see another one and so on. The largest TV you see inside the screen has an area equal to half the screen area. Assuming that a person watches the TV sitting at such a distance that he or she cannot distinguish images of less than $1\,\text{cm}^2$ area, how many TVs does he or she see inside the screen?
 
 **Answer:** 11
 [[src_archimede_2000_2livello__Q12]]

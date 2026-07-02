@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ordine di prova di 2 modulo Fermat potenza primaria< MSK1/>
+*Ordine di prova di 2 modulo Fermat potenza primaria*
 
 > Supponiamo che $m$ e $k$ siano integri non negativi, e $p = 2^{2^m} + 1$ sia un numero primo. Prove questo .
 > 

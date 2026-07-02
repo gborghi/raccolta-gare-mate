@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coefficient C of x2 in the product (1-x)...(1-10x) < MSK1/>
+*Coefficient C of x2 in the product (1-x)...(1-10x) *
 
 > The coefficient by rotating the product (1  x) 1  2x) 1  3x) ... (1  10x) and collecting similar terms you get an expression of the type A + Bx + Cx2 + Dx3 +... + Mx10. How much is C?
 

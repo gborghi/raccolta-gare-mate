@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta le celle marroni in colorazione 7x7 con restrizioni di maggioranza a fila rossa e a colonna blu< MSK1/>
+*Conta le celle marroni in colorazione 7x7 con restrizioni di maggioranza a fila rossa e a colonna blu*
 
 > Janaína vuole dipingere le cellule di un pannello $7 \times 7$ in rosso, blu o marrone nel modo seguente: in ogni riga, il numero di cellule rosse non può essere inferiore al numero di cellule di ciascuno degli altri colori; in ogni colonna, il numero di cellule blu non può essere inferiore al numero di cellule di ciascuno degli altri colori. Quante cellule saranno dipinte di marrone?
 

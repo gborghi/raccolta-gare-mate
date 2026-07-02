@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage change in total number of frogs< MSK1/>
+*Percentage change in total number of frogs*
 
 > On an island there are only green frogs and blue frogs. Compared to a year ago, the number of blue frogs increased by 60% while the number of green frogs decreased by 60%. Today, the ratio of blue frog numbers to green frog numbers is the same as it was a year ago between green frog numbers and blue frog numbers. What percentage of the total number of frogs on the island has varied from one year ago? A) 0% B) 20% C) 30% D) 40% E) 50%
 

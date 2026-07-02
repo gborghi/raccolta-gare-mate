@@ -64,15 +64,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Rimessa alla velocità media di gara di Papa-Leguas data la velocità del primo giro di 200 km/h*
+*Limita alla velocità media di gara di Papa-Leguas data la velocità del primo giro di 200 km/h*
 
-> Papa-Leguas ha partecipato a una gara (insieme a Coyote e Flash) composta da giri $100$ su un circuito. Come sempre, il Coyote ha cercato di catturare Papa-Leguas e ha posto diverse trappole lungo la strada. Nel primo giro il Coyote catturò Papa-Leguas, ma la velocità media di Papa-Leguas nel primo giro era solo $200$ km/h. Sapendo questo, la velocità media di Papa-Leguas sulla gara:
+> Papa-Leguas ha partecipato a una gara (insieme a Coyote e Flash) che consisteva in $100$ giri su un circuito. Come sempre, il Coyote ha cercato di catturare Papa-Leguas e ha posto diverse trappole lungo la strada. Nel primo giro il Coyote catturò Papa-Leguas, ma la velocità media di Papa-Leguas nel primo giro era solo $200$ km/h. Sapendo questo, la velocità media di Papa-Leguas sulla gara:
 >
-> - **(A)** Non può superare < MSK0/> km/h.
+> - **(A)** Non può superare $200$ km/h.
 > - **(B)** Non può superare $250$ km/h, ma può superare $200$ km/h.
 > - **(C)** Non può superare $2000$ km/h, ma può superare $250$ km/h.
 > - **(D)** Non può superare $20000$ km/h, ma può superare $2000$ km/h.
-> - **(E)** Possono superare < MSK0/> km/h.
+> - **(E)** Possono superare $20000$ km/h.
 
 **Risposta:** D
 [[src_obm_2001_n2_f1__Q22]]

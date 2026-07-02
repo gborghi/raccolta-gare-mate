@@ -56,6 +56,6 @@ tags:
 
 *Perimetro del triangolo ortico di ABC con lati 13,14,15; trovare a+b*
 
-> Si può dimostrare che per un triangolo acuto $ABC$, il triangolo $DEF$ con $D$, $E$, $F$ che sono rispettivamente i piedi delle altitudini dai lati $BC$, $CA$ e $AB$ riduce al minimo il perimetro tra tutti i triangoli iscritti in $ABC$. Il triangolo $DEF$ è chiamato il triangolo ortico ** di $ABC$. Se $AB = 13$, $BC = 14$ e $CA = 15$, il perimetro del triangolo ortico può essere scritto come $\dfrac{a}{b}$, dove $a$ e $b$ sono integri positivi copri. Determinare il valore di < MSK17/>.
+> Si può dimostrare che per un triangolo acuto $ABC$, il triangolo $DEF$ con $D$, $E$, $F$ che sono rispettivamente i piedi delle altitudini dai lati $BC$, $CA$ e $AB$ riduce al minimo il perimetro tra tutti i triangoli iscritti in $ABC$. Il triangolo $DEF$ è chiamato il triangolo ortico ** di $ABC$. Se $AB = 13$, $BC = 14$ e $CA = 15$, il perimetro del triangolo ortico può essere scritto come $\dfrac{a}{b}$, dove $a$ e $b$ sono integri positivi copri. Determinare il valore di $a + b$.
 
 [[src_obm_2013_n3_f2__Q05]]

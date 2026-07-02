@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>last 4 digits < MSK1/>
+*last 4 digits *
 
 > This is a list of the countries of Central and Eastern Europe.
 > 

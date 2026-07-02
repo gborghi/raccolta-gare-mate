@@ -50,6 +50,6 @@ tags:
 
 *Prove la disuguaglianza simmetrica data la somma dei quadrati equivale a uno*
 
-> $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 1$. Provare che < MSK0/>
+> $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 1$. Provare che $$x^2 y^2 + y^2 z^2 + z^2 x^2 \leq \frac{1}{3}.$$
 
 [[src_bmo_2002-03_round1__Q03]]

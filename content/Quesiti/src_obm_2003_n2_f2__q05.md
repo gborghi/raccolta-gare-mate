@@ -57,6 +57,6 @@ tags:
 
 *Equazione funzionale f ((x) - f ((xy) = x/y+y/x: trovare f ((1) e una formula per f ((x) *
 
-> $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ deve essere una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per qualsiasi $x$ e $y$. (a) Calcolare < MSK4/>. b) Trova una formula per < MSK5/>.
+> $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ deve essere una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per qualsiasi $x$ e $y$. (a) Calcolare $f(1)$. b) Trova una formula per $f(x)$.
 
 [[src_obm_2003_n2_f2__Q05]]

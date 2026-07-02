@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta i dupli (a_1,...,a_2100) mod 2100 che soddisfano una condizione di convoluzione di tipo Mobius< MSK1/>
+*Conta i dupli (a_1,...,a_2100) mod 2100 che soddisfano una condizione di convoluzione di tipo Mobius*
 
 > Trovare il numero di tuppi $(a_1, a_2, \ldots, a_{2100})$ di enti interi con $0 \le a_i \le 2099$ per tutti $i$, in modo che esista un tuple di enti $(b_1, b_2, \ldots, b_{2100})$ per il quale, per ogni intero $i$ con $1 \le i \le 2100$, $$a_i \equiv \sum_{\substack{\gcd(j-i,\,2100)=1 \\ 1 \le j \le 2100}} b_j \pmod{2100}.$$ Qui il lato destro è la somma di $b_j$ su tutti gli enti $j$ con $1 \le j \le 2100$ in modo che nessun intero $\ge 2$ divide sia $j - i$ che $2100$.
 

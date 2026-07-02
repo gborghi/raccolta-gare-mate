@@ -85,7 +85,7 @@ tags:
 > 
 > Per i diversi tornei del TFJM2, il comitato organizzativo nazionale decide di allevare le farfalle $N$. All'origine, il numero di farfalla $i$ ha una larghezza delle ali pari a $x_i$ centimetri. Ogni giorno, alcune farfalle subiscono una trasformazione che modifica la loro larghezza delle ali.
 > 
-> 1. Solo in questa domanda, supponiamo di avere farfalle $2$ di larghezza iniziale $1$ cm. a) Ogni giorno, una delle due farfalle di larghezza massima ha la sua larghezza divisoria per due. Quanto tempo ci vorrà affinché entrambe le farfalle abbiano una larghezza delle ali strettamente inferiore a < MSK2/> cm? E per $0.1$ cm? b) Supponiamo che < MSK4/> sia strano. Cosa succede se la trasformazione divide per due la larghezza delle ali di una delle farfalle di larghezza media?
+> 1. Solo in questa domanda, supponiamo di avere farfalle $2$ di larghezza iniziale $1$ cm. a) Ogni giorno, una delle due farfalle di larghezza massima ha la sua larghezza divisoria per due. Quanto tempo ci vorrà affinché entrambe le farfalle abbiano una larghezza delle ali strettamente inferiore a $0.5$ cm? E per $0.1$ cm? b) Supponiamo che $N$ sia strano. Cosa succede se la trasformazione divide per due la larghezza delle ali di una delle farfalle di larghezza media?
 > 
 > 2. Supponiamo che $N$ sia strano. D'ora in poi, supponiamo che le due trasformazioni si alternino: - La prima trasformazione si applica a una delle farfalle con l'ala media, che perde la metà della sua ala. - La seconda trasformazione si applica a una delle farfalle con l'apertura media delle ali, che ottiene la metà della sua apertura. È vero che, per tutti $M \in \mathbb{R}$, una delle farfalle supererà alla fine la dimensione $M$?
 > 
@@ -93,9 +93,9 @@ tags:
 > 
 > D'ora in poi facciamo l'ipotesi che tutte le farfalle si trasformino contemporaneamente.
 > 
-> 4. Ogni giorno, ogni farfalla si trasforma in due farfalla: la prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$. Let $x \in \mathbb{R}_+$. Si calcola la percentuale di farfalle con larghezza delle ali superiore a < MSK3/> il giorno < MSK4/>.
+> 4. Ogni giorno, ogni farfalla si trasforma in due farfalla: la prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$. Let $x \in \mathbb{R}_+$. Calcolare la percentuale di farfalle con larghezza delle ali superiore a $x$ il giorno $n$.
 > 
-> 5. Ogni giorno, ogni farfalla si trasforma in due farfalla. La prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$ della larghezza delle ali del nonno. Dato che non c'è nonno alla prima trasformazione, supponiamo che il nonno abbia la stessa larghezza delle ali del genitore. Let $x \in \mathbb{R}_+$. Qual è la percentuale di farfalle con una larghezza delle ali strettamente superiore a < MSK3/> il giorno < MSK4/>? (Si può iniziare esaminando i casi particolari di < MSK5/>.)
+> 5. Ogni giorno, ogni farfalla si trasforma in due farfalla. La prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$ della larghezza delle ali del nonno. Dato che non c'è nonno alla prima trasformazione, supponiamo che il nonno abbia la stessa larghezza delle ali del genitore. Let $x \in \mathbb{R}_+$. Qual è la percentuale di farfalle con una larghezza delle ali rigorosamente superiore a $x$ il giorno $n$? (Si può iniziare esaminando i casi particolari di $x$.)
 > 
 > 6. Ogni giorno, ogni farfalla si trasforma in due farfalla. La percentuale di evoluzione della larghezza delle ali delle nuove farfalle rispetto ai loro genitori è tracciata a caso seguendo una legge di probabilità fissa discreta. Si può recuperare questa legge di probabilità osservando l'evoluzione delle farfalle abbastanza a lungo?
 > 

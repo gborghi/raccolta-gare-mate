@@ -54,6 +54,6 @@ tags:
 
 *Quadratico con coefficienti digitali ha radice razionale, quindi il numero a tre cifre è composto*
 
-> In questo caso, si deve indicare il valore di < MSK0/>, < MSK1/>, < MSK2/>. L'equazione quadrata $ax^2 + bx + c = 0$ ha una radice razionale. Prova che il numero a tre cifre $\overline{abc}$ non è un numero primo.
+> In questo caso, si deve indicare il valore di $a$, $b$, $c \in \{0, 1, 2, \ldots, 9\}$. L'equazione quadrata $ax^2 + bx + c = 0$ ha una radice razionale. Prova che il numero a tre cifre $\overline{abc}$ non è un numero primo.
 
 [[src_cn_csmo_2010__Q01]]

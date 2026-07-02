@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times do you shake two left hands< MSK1/>
+*How many times do you shake two left hands*
 
 ![[src_kangourou_2021_benjamin__prob2.png]]
 

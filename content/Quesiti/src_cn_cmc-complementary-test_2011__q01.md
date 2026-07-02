@@ -50,7 +50,7 @@ tags:
 
 *Medi di diagonali di quadrilaterali ciclici, condizione di angolo uguale*
 
-> 40 punti) Come illustrato nella figura. 1.1, i punti $P$ e $Q$ sono, rispettivamente, i punti medi di $AC$ e $BD$  le due diagonali del quadrilaterale ciclico $ABCD$. Let < MSK5/>. Provare $\angle AQB = \angle CQD$.
+> 40 punti) Come illustrato nella figura. 1.1, i punti $P$, $Q$ sono, rispettivamente, i punti medi di $AC$, $BD$  le due diagonali del quadrilaterale ciclico $ABCD$. Let $\angle BPA = \angle DPA$. Provare $\angle AQB = \angle CQD$.
 
 ![[src_cn_cmc-complementary-test_b11_w69__Q01.png]]
 

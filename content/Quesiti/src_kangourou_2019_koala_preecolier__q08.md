@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How packages will be aligned on the left-hand tape< MSK1/>
+*How packages will be aligned on the left-hand tape*
 
 ![[src_kangourou_2019_koala_preecolier__prob8.png]]
 

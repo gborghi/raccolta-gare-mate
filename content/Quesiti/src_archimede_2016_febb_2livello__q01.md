@@ -54,7 +54,7 @@ tags:
 
 Minimum number of transactions so that everyone pays the same
 
-> Determine the volume of the region of space traversed by the surface during a < MSK0/> rotation around the traced line.
+> Determine the volume of the region of space traversed by the surface during a 180° rotation around the traced line.
 >
 > - **(A)** 2 3π
 > - **(B)** 4π

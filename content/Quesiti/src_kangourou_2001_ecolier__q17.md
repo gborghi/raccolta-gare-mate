@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Caramel in the trash with the largest number < MSK1/>
+*Caramel in the trash with the largest number *
 
 > I have three baskets, each containing 11 candies. I take a candy from each basket in the following order: left basket, center basket, right basket, center basket, left basket, center basket, right basket, center basket, and so on. When the central trash is empty, how many candy are left in the trash that contains the most?
 >

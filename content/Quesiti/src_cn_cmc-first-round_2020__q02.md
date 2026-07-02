@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Punti finali dell'ellisse e punto foci condizione del prodotto, rapporto di ricerca< MSK1/>
+*Punti finali dell'ellisse e punto foci condizione del prodotto, rapporto di ricerca*
 
 > (Paper A, parte I Q2) Nell'ellisse $\Gamma$, $A$ è un punto di fine dell'asse maggiore, $B$ è un punto di fine dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, il valore di $\dfrac{|AB|}{|F_1F_2|}$ è $\underline{\qquad}$.
 

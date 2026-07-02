@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Incenter ratio inequality with angle bisectors< MSK1/>
+*Incenter ratio inequality with angle bisectors*
 
 > Given a triangle $ABC$, let $I$ be the center of its inscribed circle. The internal bisectors of the $A$, $B$, $C$ meet the opposite sides in $A'$, $B'$, $C'$ respectively. Prove that $$\frac{1}{4} < \frac{AI \cdot BI \cdot CI}{AA' \cdot BB' \cdot CC'} \le \frac{8}{27}.$$
 

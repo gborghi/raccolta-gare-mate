@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Bissettori angolari da bisettori perpendicolari in triangolo acuto; dimostrare BO perp a DE< MSK1/>
+*Bissettori angolari da bisettori perpendicolari in triangolo acuto; dimostrare BO perp a DE*
 
 > Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AC$ incontrano $AB$ e $BC$ rispettivamente a $X$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ si incontrano rispettivamente a $AC$ e $E$. Prova che $BO$ è perpendicolare a $DE$.
 

@@ -59,7 +59,7 @@ tags:
 
 *Lunghezza EF di due punti su un semicircolo i cui piedi sul diametro si trovano a distanze 1 e 8 da A.*
 
-> Il $AB$ deve essere un segmento di lunghezza 26, e $C$ e $D$ devono essere punti sul segmento $AB$ in modo tale che $AC=1$ e $AD=8$. I punti $E$ e $F$ siano punti su un semicircolo di diametro $AB$, con $EC$ e $FD$ perpendicolari a $AB$. Quanto è < MSK12/>?
+> Il segmento $AB$ deve essere di lunghezza 26, e il segmento $C$ e il segmento $D$ devono essere punti del segmento $AB$ in modo tale che il segmento $AC=1$ e il segmento $AD=8$. I punti $E$ e $F$ siano punti su un semicircolo di diametro $AB$, con $EC$ e $FD$ perpendicolari a $AB$. Quanto è $EF$?
 > 
 > (A) 5 (B) $5\sqrt{2}$ (C) 7 (D) $7\sqrt{2}$ (E) 12
 

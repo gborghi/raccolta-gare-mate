@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of a+5b with ab=12 natural< MSK1/>
+*Maximum of a+5b with ab=12 natural*
 
 > Knowing that a and b are natural numbers whose product is equal to 12, what is the minimum value of a + 5b?
 >

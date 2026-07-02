@@ -52,7 +52,7 @@ tags:
 
 *Min transizioni in modo che 101 persone ricevano 51 carte ciascuno*
 
-> Supponiamo che ci siano 101 persone sedute attorno a un tavolo rotondo. Ogni persona possiede < MSK0/> pezzi di carte, < MSK1/>. Chiamiamo transizione quando una persona trasmette una delle sue carte a una delle persone adiacenti. Trova il numero positivo minimo $r$ in modo tale che non ci sia modo di effettuare più di $r$ transizioni in modo che ogni persona posseda 51 carte. (Posizionato da Qu Zhenhua)
+> Supponiamo che ci siano 101 persone sedute attorno a un tavolo rotondo. Ogni persona possiede $k$ pezzi di carte, $k = 1, 2, \ldots, 101$. Chiamiamo transizione quando una persona trasmette una delle sue carte a una delle persone adiacenti. Trova il numero positivo minimo $r$ in modo tale che non ci sia modo di effettuare più di $r$ transizioni in modo che ogni persona posseda 51 carte. (Posizionato da Qu Zhenhua)
 
 **Risposta:** 42925
 [[src_cn_ctst_2013__Q02]]

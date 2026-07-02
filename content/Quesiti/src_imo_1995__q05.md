@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-In the case of the equation, the following equation is used: < MSK0/>Hexagon inequality AG+GB+GH+DH+HE>=CF< MSK1/>
+In the case of the equation, the following equation is used: *Hexagon inequality AG+GB+GH+DH+HE>=CF*
 
 > Whether $ABCDEF$ is a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such as $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points within the hexagon such as $\angle AGB = \angle DHE = 2\pi/3$. Show that $$AG + GB + GH + DH + HE \geq CF.$$
 

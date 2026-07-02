@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Images with more black than white kangaroos< MSK1/>
+*Images with more black than white kangaroos*
 
 ![[src_kangourou_2013_preecolier__prob4.png]]
 

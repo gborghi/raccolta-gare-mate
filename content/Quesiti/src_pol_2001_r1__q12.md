@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK0/>Sequenze con x0 e \ \x_n=di_{n-1}+1 \; trovare il minimo della somma assoluta.*
+*Sequenze con x0 e \ \x_n=di_{n-1}+1\; trovare il minimo della somma assoluta.*
 
 > Considerare tutte le sequenze $x_0, x_1, \ldots, x_{2000}$ di numeri interi che soddisfano $$x_0 = 0 \quad \text{and} \quad |x_n| = |x_{n-1} + 1| \text{ for } n = 1, 2, \ldots, 2000.$$ Trovare il valore minimo dell'espressione $|x_1 + x_2 + \cdots + x_{2000}|$.
 

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many < MSK1/>
+*how many *
 
 > How many different regular polygons exist such that the measure, in degrees, of their angles is an integer? A) 17
 > 	

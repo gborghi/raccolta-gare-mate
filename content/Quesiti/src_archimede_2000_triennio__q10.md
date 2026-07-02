@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Products of the continuous fraction chain abcd< MSK1/>
+*Products of the continuous fraction chain abcd*
 
 > Knowing that 1 a = a + 1 b = b + 1 c = c + 1 d = 2 how much is the abcd product worth?
 >

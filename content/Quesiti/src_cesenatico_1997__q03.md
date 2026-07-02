@@ -60,7 +60,7 @@ tags:
 
 > Consider the infinite quadrant in the figure, where all squares have sides $1$. Is it possible to colour some of the squares in black so that both of the following properties are satisfied?
 > 
-> - For every natural number < MSK0/>, the square with vertices in < MSK1/> and side < MSK2/> (with sides parallel to the axes) has a number of black squares greater than the number of white squares. - On each infinite diagonal of squares parallel to the one shown in the figure, there is at most a finite number of black squares.
+> - For every natural number $n$, the square with vertices in $O$ and side $n$ (with sides parallel to the axes) has a number of black squares greater than the number of white squares. - On each infinite diagonal of squares parallel to the one shown in the figure, there is at most a finite number of black squares.
 > 
 > (see figure)
 

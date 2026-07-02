@@ -69,7 +69,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum route< MSK1/>
+*minimum route*
 
 ![[src_kangourou_2015_marzo_junior__prob12.png]]
 

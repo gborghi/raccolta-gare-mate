@@ -50,7 +50,7 @@ tags:
 
 *Ricerca il CD nel triangolo ABC con il punto D su BC, dati lati e angoli uguali.*
 
-> Nel triangolo $ABC$, $D$ deve essere un punto sul segmento $BC$ tale che $AB = AD = 2$, $BD = 1$ e $\angle BAD = \angle CAD$. Trova la lunghezza < MSK6/>.
+> Nel triangolo $ABC$, $D$ deve essere un punto sul segmento $BC$ tale che $AB = AD = 2$, $BD = 1$ e $\angle BAD = \angle CAD$. Trova la lunghezza $CD$.
 
 **Risposta:** 3
 [[src_jmo14yq_yosen__Q02]]

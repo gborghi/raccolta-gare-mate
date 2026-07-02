@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number d in the product of six consecutive integers of 12 digits< MSK1/>
+*Number d in the product of six consecutive integers of 12 digits*
 
 > The product of six consecutive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. What 's the value of the number d ? A) 1
 > 	

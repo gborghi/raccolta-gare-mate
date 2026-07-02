@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What shape does not come with two cuts on folded sheet< MSK1/>
+*What shape does not come with two cuts on folded sheet*
 
 ![[src_kangourou_2012_cadet__prob9.png]]
 

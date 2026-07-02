@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>A possible total of four siblings, three twins < MSK1/>
+*A possible total of four siblings, three twins *
 
 > Today is the birthday of four brothers: Dado, Dido and Dodo are twins, while Bobo is three years older. Which of the following numbers can be the sum of the ages of the four brothers? A) 25
 > 	

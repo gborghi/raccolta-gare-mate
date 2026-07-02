@@ -50,7 +50,7 @@ tags:
 
 *Circolo inciso che tocca due quadranti e un lato di quadrato unitario*
 
-> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi gli archi $AC$ e $BD$ sia esternamente che sul lato $CD$. Trova il raggio del cerchio < MSK11/>.
+> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi gli archi $AC$ e $BD$ sia esternamente che sul lato $CD$. Trova il raggio del cerchio $\Gamma$.
 
 ![[src_rmo_2012_r3__Q01.png]]
 

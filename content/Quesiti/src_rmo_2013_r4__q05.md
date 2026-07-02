@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo ABC con ortrocentro H; circoncircoli di ACP e ABP incontrano la linea CH a R; H è centro di PQR< MSK1/>
+*Triangolo ABC con ortrocentro H; circoncircoli di ACP e ABP incontrano la linea CH a R; H è centro di PQR*
 
 > In un triangolo $ABC$, $H$ indichi il suo centro ortodosso. $P$ sia il riflesso di $A$ rispetto a $BC$. Il circoncircolo del triangolo $ABP$ incrocia di nuovo la linea $BH$ a $Q$, e il circoncircolo del triangolo $ACP$ incrocia di nuovo la linea $CH$ a $R$. Prova che $H$ è l'incentro del triangolo $PQR$.
 

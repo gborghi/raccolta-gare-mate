@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of all the integers (figure reflection) < MSK1/>
+*Summary of all the integers (figure reflection) *
 
 > Numbers in the mirror Ancient people of the Couranteni used to write numbers with the digits ordered both right to left and left to right. Jones polynomial discovered that an integer courantene is a positive integer k such that for every positive integer n divisible by k, the integer obtained from n by inverting the order of the digits is also divisible by k. What's the sum of all the whole currents?
 

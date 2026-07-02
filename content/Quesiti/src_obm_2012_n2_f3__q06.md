@@ -62,7 +62,7 @@ tags:
 
 *Ricerca i valori m,n,d che consentono la marcatura completa di m×n bar di cioccolato*
 
-> Maria ha una barra di cioccolato di dimensioni < MSK0/> divisa in quadrati < MSK1/>. Desidera segnare ogni piccolo quadrato utilizzando lo strumento di stampilamento seguente:
+> Maria ha una barra di cioccolato di dimensioni $m \times n$ divisa in quadrati $1 \times 1$. Desidera segnare ogni piccolo quadrato utilizzando lo strumento di stampilamento seguente:
 > 
 > Lo strumento può essere utilizzato orizzontalmente o verticalmente. Esso segna due quadrati che lasciano tra di loro due quadrati con distanza $d = 1$; i quadrati segnalati non possono essere alterati e non è consentito segnalare un quadrato più di una volta. Per quali valori di $m$, $n$ e $d$ è possibile segnare tutti i quadrati secondo queste condizioni?
 > 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Longest side courtyard triangle rectangle isosceles< MSK1/>
+*Longest side courtyard triangle rectangle isosceles*
 
 > The courtyard of Louis' house is shaped like an isosceles rectangle. Knowing that the yard area is 16 m2, how much is the longest side of the yard?
 >

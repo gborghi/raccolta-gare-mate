@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which fraction is closest to 1/2< MSK1/>
+*Which fraction is closest to 1/2*
 
 > Which of the following fractions has a value closer to 1/2 ? A) 25/79 B) 27/59 C) 29/57 D) 52/79 E) 57/92
 >

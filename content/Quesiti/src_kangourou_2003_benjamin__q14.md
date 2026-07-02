@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Blues of Elizabeth< MSK1/>
+*Blues of Elizabeth*
 
 > Elizabeth has 20 different colored beads: yellow, green, blue, and black. 17 balls are not green, 5 are black, 12 are not yellow. How many are Elizabeth's blue balls? A) 3 B) 4 C) 5 D) 8 E) 15
 

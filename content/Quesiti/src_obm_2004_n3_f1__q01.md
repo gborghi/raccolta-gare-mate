@@ -69,7 +69,7 @@ tags:
 > 
 > | $x$ | 1 | 2 | 3 | 4 | 5 | |---|---|---|---|---|---| | $f(x)$ | 4 | 1 | 3 | 5 | 2 |
 > 
-> Per esempio, $f(2)=1$. Quanto è < MSK1/>?
+> Per esempio, $f(2)=1$. Quanto è $\underbrace{f(f(\dots(f(f(4))\dots))}_{2004\text{ times}}$?
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 

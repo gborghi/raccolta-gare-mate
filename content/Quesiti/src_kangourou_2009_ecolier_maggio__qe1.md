@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of liters of syrup to be prepared< MSK1/>
+*Maximum of liters of syrup to be prepared*
 
 > (*5 points*) To prepare 4 liters of syrup, exactly 3 liters of water, 1 litre of concentrated juice and 500 grams of sugar are needed. You have 18 liters of water, 5 liters of concentrated juice and 2 kilos of sugar. How many liters of syrup can you make?
 

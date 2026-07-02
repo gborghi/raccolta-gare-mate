@@ -53,7 +53,7 @@ tags:
 
 *Non-visible points on two dice*
 
-> On the faces of a dice, the points corresponding to the natural numbers 1 to 6 appear. The faces shown in the figure show a total of 13 points. < MSK0/>How many dots are not visible? < MSK1/>
+> On the faces of a dice, the points corresponding to the natural numbers 1 to 6 appear. The faces shown in the figure show a total of 13 points. **How many dots are not visible? **
 
 ![[src_bocconi_primavera_2008__Q01.png]]
 

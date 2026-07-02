@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Date 2003 minutes after 20.03 < MSK1/>
+Date 2003 minutes after 20.03 *
 
 > What date is 2003 minutes after 8:03 p.m. on March 20, 2003? A) 21-03-2003 B) 22-03-2003 C) 23-03-2003 D) 21-04-2003 E) 22-04-2003
 

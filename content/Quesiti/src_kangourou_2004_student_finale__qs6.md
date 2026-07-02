@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of distances of P from the six spokes of the tetrahedron< MSK1/>
+*sum of distances of P from the six spokes of the tetrahedron*
 
 > Consider a point $P$ within a regular side tetrahedron $1$. It shows that the sum of the distances of $P$ from the six vertebrae of the tetrahedron is not less than $\dfrac{2\sqrt{2}}{3}$ and identifies any $P$ points for which that sum is exactly $\dfrac{2\sqrt{2}}{3}$.
 

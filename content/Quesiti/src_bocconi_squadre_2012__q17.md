@@ -55,7 +55,7 @@ tags:
 
 > The island of Polygon is in the shape of a convex quadrilateral. Liliana - a daring explorer - is located within the island at a point that is respectively $20$ km, $10$ km, $18$ km, $6$ km from the four peaks of the island.
 > 
-> < MSK1/>What is the maximum area of Polygon Island in < MSK0/>? < MSK2/>
+> **What is the maximum area of Polygon Island in $\text{km}^2$? **
 
 **Answer:** $364 \text{ km}^2$
 [[src_bocconi_squadre_2012__Q17]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Demonstrate a2023>=3034 (roots of sums and reciprocal) < MSK1/>
+*Demonstrate a2023>=3034 (roots of sums and reciprocal) *
 
 > $x_1, x_2, \ldots, x_{2023}$ are real positive numbers with two to two distinct ones such that $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$ is an integer for each $n = 1, 2, \ldots, 2023$. Show that $a_{2023} \geq 3034$.
 

@@ -60,11 +60,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>combinata sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi< MSK1/>
+*combinata sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi*
 
 > Il codice segreto della casella forte di Animath è costituito da $7$ cifre distinte. La casella forte si apre quando si inserisce una sequenza di cifre $7$ che soddisfano entrambe le seguenti condizioni: - le cifre $7$ sono tutte distinte, - almeno una delle cifre $7$ è nella posizione corretta.
 > 
-> a) È possibile aprire la casella forte nel massimo dei tentativi < MSK0/>?
+> a) È possibile aprire la casella forte nel massimo dei tentativi $6$?
 > 
 > b) Qual è il numero minimo di tentativi richiesti per garantire l'apertura della casella forte, indipendentemente dal codice segreto?
 

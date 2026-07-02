@@ -66,7 +66,7 @@ tags:
 
 > Diamantino gioca con numeri di due o più cifre, trasformandoli in numeri a una cifra nel seguente modo: aggiunge le due cifre più a destra e sostituisce quelle due cifre con il risultato, ripetendo il processo finché non ottiene ciò che vuole. Ad esempio, partendo da $367$ scrive $313$, poi scrive $34$, e finisce scrivendo $7$.
 > 
-> a) A partire dal numero < MSK0/>, quale numero riceverà Diamantino?
+> a) A partire dal numero $2012$, quale numero riceverà Diamantino?
 > 
 > b) Qual è il numero a tre cifre più grande che Diamantino può trasformare in $1$?
 > 

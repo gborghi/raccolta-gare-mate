@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>35% women, 252 more men< MSK1/>
+*35% women, 252 more men*
 
 > This year exactly 35% of the participants in the Kangourou marathon were women and the men were 252 times more than the women. Between men and women, how many were in all the marathons? A) 802 B) 810 C) 822 D) 824 E) 840
 

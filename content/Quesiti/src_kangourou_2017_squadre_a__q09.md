@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Three-digit increasing numbers< MSK1/>
+*Three-digit increasing numbers*
 
 > Let's say a number of three significant digits is growing if the digits are all different and that of the hundreds is less than that of the tens which is less than that of the units. How many numbers are growing?
 

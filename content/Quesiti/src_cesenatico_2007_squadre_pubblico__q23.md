@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of f ((a,b,c,d) with square bound (positive integers) < MSK1/>
+*Maximum of f ((a,b,c,d) with square bound (positive integers) *
 
 > Question of measures [70] The amount of life force Numeruto needs for its superior multiplication technique must be carefully calibrated, so that the technique fails. Numbered must find the maximum of the function f(a,b,c,d) = 2bd −d2 −b2 +100a−100c+280, when a,b,c,d varies between the positive integers that occur (a+b)2 +2a+b = (c+d)2 +2c+d. How much is it worth?
 

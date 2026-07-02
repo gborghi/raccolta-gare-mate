@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prova BX=CX se PQ è il diametro del cerchio circoscritto< MSK1/>
+*Prova BX=CX se PQ è il diametro del cerchio circoscritto*
 
 > Il triangolo $ABC$ è inserito nel cerchio $S$ e $AB < AC$. La linea attraverso $A$ perpendicolare a $BC$ incontra $S$ a $P$ ($P \neq A$). Il punto $X$ si trova sul segmento $AC$ e la linea $BX$ incontra $S$ al $Q$ ($Q \neq B$).
 > 

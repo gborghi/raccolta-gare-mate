@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many bears for two trains with shrimp< MSK1/>
+*How many bears for two trains with shrimp*
 
 > In Toyland, you can have three dolls for a train, and you can have a doll for two bears. How many bears can you get for two trains?
 >

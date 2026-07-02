@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Fraczioni: 2/9 di bottiglia riempie la tazza a 5/6; bottiglie necessarie per 15 tazze complete< MSK1/>
+*Fraczioni: 2/9 di bottiglia riempie la tazza fino a 5/6; bottiglie necessarie per 15 tazze complete*
 
-> È noto che < MSK0/> del contenuto di una bottiglia riempie una tazza a < MSK1/> della sua capacità. Per riempire completamente 15 tazze, quante bottiglie sono necessarie?
+> È noto che $\dfrac{2}{9}$ del contenuto di una bottiglia riempie una tazza a $\dfrac{5}{6}$ della sua capacità. Per riempire completamente 15 tazze, quante bottiglie sono necessarie?
 > 
 > A) 2 $\quad$ B) 3 $\quad$ C) 4 $\quad$ D) 5 $\quad$ E) 6
 

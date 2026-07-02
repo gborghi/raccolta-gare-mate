@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Distinguished from the total number of dividers in the < MSK1/> chain
+* Distinguished from the total number of dividers in the * chain
 
 > How many sets of natural numbers are distinct from each other (a, b, c) such that the number a is a divisor of b, the number b is a divisor of c and the number c is a divisor of 12?
 >

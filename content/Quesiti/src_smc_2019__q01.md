@@ -58,7 +58,7 @@ tags:
 
 *Calcolo 123^2 - 23^2*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $123^2 - 23^2$?
 >
 > - **(A)** 10000
 > - **(B)** 10409

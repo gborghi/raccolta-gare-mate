@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White, red and green carnations: sufficient minimum quantity< MSK1/>
+*White, red and green carnations: sufficient minimum quantity*
 
 > Angelo owns three types of stamps: the white 1 Euro, the red and finally the green ones (the value of both is given by an integer of Euro, but the value of the greens is less than that of the red stamps). Angelo also notes that for letters and packages which require a stamp from any whole number of Euro not exceeding 15, three stamps (maximum) are sufficient.
 > 

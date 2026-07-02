@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage increase in wrong brick volume< MSK1/>
+*Percentage increase in wrong brick volume*
 
-> One firm has been commissioned to make rectangular parallel-piped bricks. The required dimensions were 10 cm < MSK0/> 12 cm < MSK1/> 14 cm, but by mistake the bricks produced were 12 cm < MSK2/> 14 cm < MSK3/> 16 cm. By what percentage is the volume of the brick manufactured greater than the volume of the brick ordered? A) 20% B) 30% C) 40% D) 50% E) 60%
+> One firm has been commissioned to make rectangular parallel-piped bricks. The required dimensions were 10 cm × 12 cm × 14 cm, but by mistake the bricks produced were 12 cm × 14 cm × 16 cm. By what percentage is the volume of the brick manufactured greater than the volume of the brick ordered? A) 20% B) 30% C) 40% D) 50% E) 60%
 
 **Answer:** E
 [[src_kangourou_2005_junior__Q07]]

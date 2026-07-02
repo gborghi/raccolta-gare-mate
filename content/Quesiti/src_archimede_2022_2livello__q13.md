@@ -76,7 +76,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Hexagonal table, rectangular tablecloth, table area< MSK1/>
+*Hexagonal table, rectangular tablecloth, table area*
 
 ![[src_archimede_2022_2livello__prob13.png]]
 

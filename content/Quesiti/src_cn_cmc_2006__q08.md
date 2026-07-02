@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Trova intervallo di reale a so=z da <=2 per theta, dove z(a+cos theta) +(2a-sin theta) i*
+*Trova intervallo di reale a so=ız da <=2 per theta, dove z(a+cos theta) +(2a-sin theta) i*
 
-> Il numero complesso < MSK0/>. Se $|z| \le 2$ per qualsiasi $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
+> Il numero complesso $z = (a + \cos\theta) + (2a - \sin\theta)\mathrm{i}$. Se $|z| \le 2$ per qualsiasi $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
 
 **Risposta:** $\left[-\dfrac{\sqrt{5}}{5},\, \dfrac{\sqrt{5}}{5}\right]$
 [[src_cn_cmc_2006__Q08]]

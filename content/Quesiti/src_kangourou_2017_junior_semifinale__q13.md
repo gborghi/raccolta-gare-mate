@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ray inscribed in rectangular triangle< MSK1/>
+*Ray inscribed in rectangular triangle*
 
 > (Points 12) In a right triangle the length of the hypotenuse is less than 4 at the sum of the lengths of the catheters. How long is the radius of the inscribed circle?
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>certain assertion< MSK1/>
+*certain assertion*
 
 > Five different boxes of candy were emptied into one basket. Now, in this basket, there are 102 candy bars. Which of the following is certainly true? A) There were at least 20 candies in each box. B) At least one of the boxes contained more than 21 candies. C) At least one of the boxes contained less than 21 candies. D) There were more than 21 candies in each box. E) One of the boxes contained exactly 21 candies.
 

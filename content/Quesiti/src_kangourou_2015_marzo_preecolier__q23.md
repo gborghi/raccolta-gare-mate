@@ -51,13 +51,13 @@ tags:
 
 I'm on my way. I'm coming in.
 
-> We set off for the Scout Camp yesterday afternoon at MSK0/ and arrived at our destination this morning at MSK1/. How many hours have we traveled?
+> We set off for the Scout Camp yesterday afternoon at$16{:}32$and arrived at our destination this morning at$6{:}11$. How many hours have we traveled?
 >
-> - **(A)** < MSK0/> hours and < MSK1/> minutes
-> - **(B)** < MSK0/> hours and < MSK1/> minutes
-> - **(C)** < MSK0/> hours and < MSK1/> minutes
-> - **(D)** < MSK0/> hours and < MSK1/> minutes
-> - **(E)** < MSK0/> hours and < MSK1/> minutes
+> - **(A)** $13$ hours and $39$ minutes
+> - **(B)** $13$ hours and $21$ minutes
+> - **(C)** $2$ hours and $21$ minutes
+> - **(D)** $14$ hours and $39$ minutes
+> - **(E)** $14$ hours and $21$ minutes
 
 **Answer:** A
 [[src_kangourou_2015_marzo_preecolier__Q23]]

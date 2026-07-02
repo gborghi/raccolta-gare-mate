@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Small number of 10 digits with sheets < MSK1/>
+*Small number of 10 digits with sheets *
 
 ![[src_kangourou_2006_ecolier_marzo__prob8.png]]
 

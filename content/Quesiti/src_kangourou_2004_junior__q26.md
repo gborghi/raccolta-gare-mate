@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Wheel length (cylinder) < MSK1/>
+*Wheel length (cylinder) *
 
 > A rectangular pass is made with a 1 cm thick carpet that, rolled over itself for its entire length, provides a cylinder whose base is (approximately) a circle of 1 meter in diameter. Which of the following numbers is closest to the length of the pass in meters? A) 20         B) 50          C) 75         D) 150         E) 300
 

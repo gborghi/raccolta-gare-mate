@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sticks after breaking one < MSK1/>
+*Sticks after breaking one *
 
 > Stephen has seven sticks of varying lengths. Break one in half. How many sticks does Stefano have now?
 >

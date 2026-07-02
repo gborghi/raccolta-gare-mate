@@ -60,7 +60,7 @@ tags:
 
 Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; quantità ottenute ciascuno
 
-> Rosa decise di distribuire $250$ reais tra i suoi nipoti, dando la stessa quantità intera (senza centavos) a ciascuno, ma vide che $10$ reais sarebbero rimasti. Poi ha deciso di dare una quantità maggiore a ciascuno, ma allora $22$ reais sarebbe rimasto. Pertanto ha deciso di distribuire solo < MSK3/> reais. Quanto guadagnava ogni nipote?
+> Rosa decise di distribuire $250$ reais tra i suoi nipoti, dando la stessa quantità completa (senza centavos) a ciascuno, ma vide che $10$ reais sarebbero rimasti. Poi ha deciso di dare una quantità maggiore a ciascuno, ma allora $22$ reais sarebbe rimasto. Pertanto ha deciso di distribuire solo $240$ reais. Quanto guadagnava ogni nipote?
 > 
 > (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
 

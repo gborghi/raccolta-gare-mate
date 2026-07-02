@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare < MSK1/>
+*Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare *
 
 > 12 nani vivono in una foresta. Ognuno ha un mantello a due lati che è blu da un lato e rosso dall'altro, e ogni nano indossa costantemente il suo mantello dal lato rosso.
 > 

@@ -68,7 +68,7 @@ tags:
 
 ![[src_kangourou_squadre_2024_finale__prob7.png]]
 
-> The shaded region The figure highlights two inner tangent circumferences in a point, the diameter of the outer circumference having that point as one of the extremes and the diameter of the same circumference perpendicular to it. The lengths in metres, 20 and 36, of the two segments indicated are also specified. What is the area of the region (shaded) divided by < MSK0/> in square metres?
+> The shaded region The figure highlights two inner tangent circumferences in a point, the diameter of the outer circumference having that point as one of the extremes and the diameter of the same circumference perpendicular to it. The lengths in metres, 20 and 36, of the two segments indicated are also specified. What is the area of the region (shaded) divided by π in square metres?
 >  
 > } 36 20 } P Q A B C D E F G
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grades of the angle of the slice (15%) < MSK1/>
+*Grades of the angle of the slice (15%) *
 
 ![[src_kangourou_2003_junior__prob1.png]]
 

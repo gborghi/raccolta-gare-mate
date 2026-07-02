@@ -53,6 +53,6 @@ tags:
 
 *Prove una disuguaglianza massima quadrata per le sequenze di somma zero*
 
-> Supponiamo che i numeri reali $a_1, a_2, \ldots, a_n$ soddisfino $a_1 + a_2 + \cdots + a_n = 0$. Prova < MSK0/>
+> Supponiamo che i numeri reali $a_1, a_2, \ldots, a_n$ soddisfino $a_1 + a_2 + \cdots + a_n = 0$. Prova $$\max_{1 \le i \le n} a_i^2 \le \frac{n}{3} \sum_{i=1}^{n-1} (a_i - a_{i+1})^2.$$
 
 [[src_cn_cmo_2006__Q01]]

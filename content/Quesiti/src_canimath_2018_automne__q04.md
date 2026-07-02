@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>I conigli in cerchio; bianchi danno baffi al marrone, grigio al bianco; dimostrano che un coniglio marrone ha due vicini bianchi< MSK1/>
+*I conigli in cerchio; bianchi danno baffi al marrone, grigio al bianco; dimostrano che un coniglio marrone ha due vicini bianchi*
 
 > I conigli grigi, bianchi e marroni sono seduti in cerchio. Alice chiede a tutti i conigli bianchi che hanno almeno un vicino marrone di dare i baffi $20$ a ciascuno dei loro vicini marroni; chiede a tutti i conigli grigi che hanno almeno un vicino bianco di dare i baffi $25$ a ciascuno dei loro vicini bianchi. Mostrate che uno dei conigli che ha spostato i baffi ha in realtà due vicini marroni.
 

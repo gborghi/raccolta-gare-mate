@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mean annual use of the hotel< MSK1/>
+*Mean annual use of the hotel*
 
 > The average capacity utilisation of a hotel is 88% during the three summer months and 44% during the remaining months of the year. What is the average exploitation for the whole year?
 >  

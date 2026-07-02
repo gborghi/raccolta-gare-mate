@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Semplificare l'espressione radicale annidata< MSK1/>
+*Semplificare l'espressione radicale annidata*
 
 > Semplificando l'espressione $$\sqrt{2+\sqrt{3}}\cdot\sqrt{2+\sqrt{2+\sqrt{3}}}\cdot\sqrt{2+\sqrt{2+\sqrt{2+\sqrt{3}}}}\cdot\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{3}}}}$$ otteniamo:
 > 

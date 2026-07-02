@@ -84,9 +84,9 @@ tags:
 > 
 > $$\begin{array}{|c|c|c|c|} \hline \mathbf{1} & & \mathbf{2} & \\ \hline & & & \\ \hline \mathbf{3} & & & \\ \hline \mathbf{4} & & & \\ \hline \end{array}$$
 > 
-> **Horizontal: ** - (1) The exact answer to this game. - (2) It is a prime number, equal to the product of more consecutive prime numbers less < MSK0/> (e.g. < MSK1/>, even if this is not a prime number). - (3) Product of three consecutive numbers (e.g. < MSK2/>). - (4) It is a product of two primes.
+> **Horizontal: ** - (1) The exact answer to this game. - (2) It is a prime number, equal to the product of more consecutive prime numbers less $1$ (e.g. $5 \cdot 7 \cdot 11 - 1$, even if this is not a prime number). - (3) Product of three consecutive numbers (e.g. $4 \cdot 5 \cdot 6$). - (4) It is a product of two primes.
 > 
-> **Vertical: ** - (1) Sum of cubes of two prime numbers. - (2) Palindrome number of < MSK0/> prime power digits (a palindrome number is a number that does not change if read from right to left). - (3) It is a prime number. - (4) < MSK1/> vertical to square.
+> **Vertical: ** - (1) Sum of cubes of two prime numbers. - (2) Palindrome number of $4$ prime power digits (a palindrome number is a number that does not change if read from right to left). - (3) It is a prime number. - (4) $3$ vertical to square.
 > 
 > (NB: The answer to any of the definitions can also be less than $1000$. If one of the answers should be, for example, $13$ in the table, enter $0013$.)
 

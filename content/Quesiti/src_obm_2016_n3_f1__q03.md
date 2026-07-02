@@ -59,7 +59,7 @@ tags:
 
 *Side di un quadrato uguale in superficie a un rettangolo di dimensioni interi con perimetro 58 e prodotto quadrato*
 
-> $x$ e $y$ siano le dimensioni interi di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le possibili coppie sono < MSK4/>. Esattamente una di queste coppie ha il prodotto $x\cdot y$ pari a un quadrato perfetto, vale a dire $4\cdot 25=100$. Trova il lato $n$ di un quadrato con la stessa area di quel rettangolo, ovvero $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore della chiave di risposta: $n=10$.]
+> $x$ e $y$ siano le dimensioni interi di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le possibili coppie sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Esattamente una di queste coppie ha il prodotto $x\cdot y$ pari a un quadrato perfetto, vale a dire $4\cdot 25=100$. Trova il lato $n$ di un quadrato con la stessa area di quel rettangolo, ovvero $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore della chiave di risposta: $n=10$.]
 
 **Risposta:** C
 [[src_obm_2016_n3_f1__Q03]]

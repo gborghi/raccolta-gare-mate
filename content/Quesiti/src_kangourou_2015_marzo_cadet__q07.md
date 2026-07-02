@@ -82,7 +82,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> mirror that coincides with UV< MSK1/>
+* mirror that coincides with UV*
 
 ![[src_kangourou_2015_marzo_cadet__prob7.png]]
 

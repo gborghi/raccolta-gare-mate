@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Where dog and cat meet (triple speed) < MSK1/>
+*Where dog and cat meet (triple speed) *
 
 ![[src_kangourou_2020_benjamin_marzo__prob10.png]]
 

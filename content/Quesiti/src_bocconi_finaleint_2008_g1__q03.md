@@ -56,7 +56,7 @@ tags:
 
 *Maximum number of cubes visible from a single point of view in a 3x3x3 cube*
 
-> A cube of < MSK0/> cm on the side was manufactured by gluing together < MSK1/> cubes of < MSK2/> cm on the side. What is the largest number of cubes visible from a single point of view?
+> A cube of $3$ cm on the side was manufactured by gluing together $27$ cubes of $1$ cm on the side. What is the largest number of cubes visible from a single point of view?
 
 **Answer:** 19 cubetti
 [[src_bocconi_finaleint_2008_g1__Q03]]

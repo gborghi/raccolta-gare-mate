@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Head and tail crocodile length including < MSK1/>
+*Head and tail crocodile length including *
 
 > A crocodile's tail is one-third of its total length. The head is 93 cm long, exactly like a quarter of the crocodile's length if you don't count the tail. How long is the crocodile, including head and tail? A) 558 B) 496 C) 490 D) 372 E) 186
 

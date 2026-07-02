@@ -52,7 +52,7 @@ tags:
 
 *L'area ombrata all'interno di un decagono regolare di area 1*
 
-> C'è un decagono regolare (poligono laterale regolare < MSK0/>) come mostrato nella figura seguente. Se la superficie totale del decagone è $1$, si trova la superficie della regione ombrata.
+> C'è un decagono regolare (poligono laterale regolare $10$) come mostrato nella figura seguente. Se la superficie totale del decagone è $1$, si trova la superficie della regione ombrata.
 
 ![[src_jmo31yq_yosen__Q02.png]]
 

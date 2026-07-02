@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sections for drawing a cube of 1000 cubes< MSK1/>
+*Sections for drawing a cube of 1000 cubes*
 
 ![[src_kangourou_2016_squadre_f__prob6.png]]
 

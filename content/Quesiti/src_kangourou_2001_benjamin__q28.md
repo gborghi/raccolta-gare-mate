@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area exaggerated given star area< MSK1/>
+*Area exaggerated given star area*
 
 ![[src_kangourou_2001_benjamin__prob28.png]]
 

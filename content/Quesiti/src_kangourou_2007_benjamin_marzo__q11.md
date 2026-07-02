@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Black holes on the diagonal (grid 4x4) < MSK1/>
+*Black holes on the diagonal (grid 4x4) *
 
 ![[src_kangourou_2007_benjamin_marzo__prob11.png]]
 

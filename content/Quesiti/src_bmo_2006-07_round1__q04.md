@@ -51,6 +51,6 @@ tags:
 
 *Due cerchi tangenti con tangente comune; diametro AP; tangente PQ; prova AP = PQ*
 
-> Due cerchi di tocco $S$ e $T$ hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che < MSK11/>.
+> Due cerchi di tocco $S$ e $T$ hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che $AP = PQ$.
 
 [[src_bmo_2006-07_round1__Q04]]

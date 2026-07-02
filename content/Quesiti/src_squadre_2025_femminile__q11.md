@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Green balls with the same colour as different < MSK1/>
+*Green balls with the same colour as different *
 
 > While Phineas, Ferb, and their friends build a spa, Doofenshmirtz adopts a kitten and decides to name it Pelosetto Calzoncino. The latter, however, causes him a series of accidents, including flying the sky with the annuvolinator; Perry is sent to investigate the incident. The agent finds out that the kitten has a box with 45 red balls. Perry, in order to distract the cat, decides to insert a number of green phosphorescent balls into the box so that the probability of extracting two balls of the same color simultaneously is equal to the probability of extracting two balls of a different color. Pelosetto gets hit by the balls and inadvertently fires a beam that destroys the Spa. How many green balls did Perry put in? (Give the sum of the squares of all possible solutions as an answer.)
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cyclostillate of n multiples of 9 and 11< MSK1/>
+*Cyclostillate of n multiples of 9 and 11*
 
 > Given any positive integer n, we call cyclostilate of n the number that is obtained by concatenating 2012 letters of n (based on 10). For example , the cyclostilate of 314 is 314314314 . . . 314, where the numbers 314 are repeated 2012 times. (a) Determine all positive integers m such that the cyclostilate of m is a multiple of 9. (b) Determine all positive integers m such that the cyclostilate of m is multiple 11.
 

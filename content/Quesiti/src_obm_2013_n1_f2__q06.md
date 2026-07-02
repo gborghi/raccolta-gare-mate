@@ -55,6 +55,6 @@ tags:
 
 *Sbarazzare i numeri interi 11000 due a due a partire dal secondo; contare gli studenti*
 
-> L'insegnante Maria scrisse sulla lavagna tutti gli enti da $1$ a $1000$. Ha chiamato uno studente e gli ha chiesto di cancellare i numeri a partire dal secondo, cancellare ogni altro numero (cioè, cancellare il 2 °, 4 °, 6 °, < MSK2/>). Poi chiese al prossimo studente di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellare tutti gli altri), e così via. Quanti studenti sono andati alla lavagna?
+> L'insegnante Maria scrisse sulla lavagna tutti gli enti da $1$ a $1000$. Ha chiamato uno studente e gli ha chiesto di cancellare i numeri a partire dal secondo, cancellare ogni altro numero (cioè, cancellare il 2 °, 4 °, 6 °, $\ldots$). Poi chiese al prossimo studente di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellare tutti gli altri), e così via. Quanti studenti sono andati alla lavagna?
 
 [[src_obm_2013_n1_f2__Q06]]

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Differenza attesa tra i più grandi e i più piccoli tra m tratti da {1,...,n}< MSK1/>
+*Differenza attesa tra i più grandi e i più piccoli tra m tratti da {1,...,n}*
 
 > $n > m > 1$ siano numeri razionali. Tracciamo a caso $m$ numeri distinti dal set $\{1, 2, \ldots, n\}$. Trova il valore atteso della differenza tra il più grande e il più piccolo dei numeri tratti.
 

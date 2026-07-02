@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Squares eaten without the initial size< MSK1/>
+*Squares eaten without the initial size*
 
 > Re-read the previous question. Now let's ask you, how many square chocolates did Elizabeth eat? A) 6 B) 10 C) 12 D) 17 E) it is not possible to know the questions from N. 9 al N. 16 is worth 4 points each.
 

@@ -54,6 +54,6 @@ tags:
 
 *In un triangolo acuto con angolo C = 45 gradi, il circondario O e l'ortocentro H, la linea attraverso O perpendicolare a CO incontra AC e BC a K e L; dimostrare OK+KH=OL+LH.*
 
-> In un triangolo acuto $ABC$ l'angolo a $C$ è uguale a $45^\circ$, $O$ è il circondario e $H$ l'ortocentro. La linea attraverso $O$ perpendicolare a $CO$ incontra rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prova che < MSK11/>.
+> In un triangolo acuto $ABC$ l'angolo a $C$ è uguale a $45^\circ$, $O$ è il circondario e $H$ l'ortocentro. La linea attraverso $O$ perpendicolare a $CO$ incontra rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prova che $OK+KH=OL+LH$.
 
 [[src_pol_2007_r1__Q05]]

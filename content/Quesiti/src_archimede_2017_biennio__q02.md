@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number of thieves< MSK1/>
+*number of thieves*
 
 > Around a table are seated 4 people, each of whom can be either a knight (who always tells the truth) or a cunning man (who always lies). Each of the people in the room says, "Of the other three people sitting at this table with me, there are exactly two crooks". What's the total number of crooks sitting at the table?
 >

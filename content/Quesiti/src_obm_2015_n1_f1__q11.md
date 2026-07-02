@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Area di pezzo di metallo ottenuta mediante taglio e saldatura di triangoli< MSK1/>
+*Area di pezzo di metallo ottenuta mediante taglio e saldatura di triangoli*
 
 > Geraldo, il serratore, prese una piastra di metallo quadrata, poi la tagliò e saldeva triangoli rettangolari con gambe di 5 cm, costruendo il pezzo rappresentato accanto. Qual è l'area di questo pezzo?
 >

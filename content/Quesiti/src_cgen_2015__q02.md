@@ -73,7 +73,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza di altitudini e condizione ortocentrica espressa attraverso i prodotti dotati dei vettori di direzione della linea.*
+*Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea.*
 
 > Problema 2: Tetraede.
 > 
@@ -81,7 +81,7 @@ tags:
 > 
 > Nella domanda 3 e 3, $ABCD$ indica un tetraedro.
 > 
-> 1. a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$. b. Indicare che $\overrightarrow{AG} = \frac{3}{4}\overrightarrow{AG_A}$, dove $G_A$ è il centroide del triangolo $BCD$. c. Chiamiamo \emph{median} emesso da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce analogamente gli altri tre mediani, emessi da $B$, da $C$ e da $D$. Indicare che i mediani sono simultanei al punto < MSK11/>.
+> 1. a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$. b. Indicare che $\overrightarrow{AG} = \frac{3}{4}\overrightarrow{AG_A}$, dove $G_A$ è il centroide del triangolo $BCD$. c. Chiamiamo \emph{median} emesso da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce analogamente gli altri tre mediani, emessi da $B$, da $C$ e da $D$. Indicare che i mediani sono simultanei al punto $G$.
 > 
 > 2. Mostrare che esiste una sfera unica che passa attraverso $A, B, C, D$. Si chiama sfera circoscritta al tetraedro $ABCD$, e noi denotamo con $O$ il suo centro.
 > 

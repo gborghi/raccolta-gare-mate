@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of the polynomial r(2002) with r(2000) = 2000, r(2001) = 2001< MSK1/>
+*Value of the polynomial r(2002) with r(2000) = 2000, r(2001) = 2001*
 
 > Andrea, traveling on a train, meets Maldab who is walking down the same road in the opposite direction. After 10 seconds, the train passed Maldab. Knowing that Andrew's walking speed is twice that of Maldab and one fifth that of the train, how many seconds has it taken Andrew to reach Maldab since they met?
 > 

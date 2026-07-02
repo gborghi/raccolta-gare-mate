@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sitting modes for 6 people with two couples adjacent< MSK1/>
+*Sitting modes for 6 people with two couples adjacent*
 
 > Romeo, Juliet, Helena, Paris, Achilles, Ulysses are sitting on a bench. Juliet wants to sit next to Romeo and Elena next to Paris. How many ways can the six be arranged from right to left, to satisfy them?
 >

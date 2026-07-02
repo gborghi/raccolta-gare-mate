@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last decimal point not less than 1/5^2022< MSK1/>
+*Last decimal point not less than 1/5^2022*
 
 > (7 points) What is the last decimal digit other than 0 in number 1 52022 ?
 

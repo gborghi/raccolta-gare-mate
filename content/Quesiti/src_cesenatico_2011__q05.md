@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integres of n^3 = p^2 - p - 1 with p prime < MSK1/>
+*Integres of n^3 = p^2 - p - 1 with p prime *
 
 > Determine all solutions (p, n) of the equation n3 = p2 −p −1 where p is a prime number and n is an integer.
 

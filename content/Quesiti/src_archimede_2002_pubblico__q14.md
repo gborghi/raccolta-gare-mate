@@ -47,9 +47,9 @@ tags:
 
 *number of beads of each colour*
 
-> The balls of Carla < MSK1/> (60 points)
+> The balls of Carla ** (60 points)
 > 
-> This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call MSK0/, all containing at least two balls. Then he looks at them gently as he reads the newspaper, fixes the $A_i$ heap and distractively calculates the $c_i$ number of all the pairs of balls that both belong to $A_i$. You then notice that the sum of all the $c_i$ is 28 and that the same thing happens when you look at the dice. Can you tell me how many balls Carla has?
+> This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call$A_i$, all containing at least two balls. Then he looks at them gently as he reads the newspaper, fixes the $A_i$ stack and distractively calculates the $c_i$ number of all the pairs of balls that both belong to $A_i$. You then notice that the sum of all the $c_i$ is 28 and that the same thing happens when you look at the dice. Can you tell me how many balls Carla has?
 
 **Answer:** 0016
 [[src_archimede_2002_pubblico__Q14]]

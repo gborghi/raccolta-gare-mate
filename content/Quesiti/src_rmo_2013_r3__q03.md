@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ortocentro di ABD sul cerchio Γ iff sul bisettore perpendicolare di BC< MSK1/>
+*Ortocentro di ABD sul cerchio Γ iff sul bisettore perpendicolare di BC*
 
 > In un triangolo acuto $ABC$ con $AB < AC$, il cerchio $\Gamma$ tocca $AB$ a $B$ e passa attraverso $C$ incrociandosi di nuovo a $AC$ a $D$. Prova che l'ortocentro del triangolo $ABD$ si trova su $\Gamma$ se e solo se si trova sul bisettore perpendicolare di $BC$.
 

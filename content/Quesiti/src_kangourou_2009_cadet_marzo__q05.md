@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Black square area (subdivisions) < MSK1/>
+*Black square area (subdivisions) *
 
 ![[src_kangourou_2009_cadet_marzo__prob5.png]]
 

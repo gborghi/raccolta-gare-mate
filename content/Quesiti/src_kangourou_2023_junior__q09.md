@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive integer pairs (a,b) with a/5=7/b< MSK1/>
+*Positive integer pairs (a,b) with a/5=7/b*
 
 > How many pairs (a, b) of positive integers satisfies the equality a/5 = 7/b? A) 0
 > 	

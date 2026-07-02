@@ -49,6 +49,6 @@ tags:
 
 *Trovare l'angolo BAC in triangolo a stelle uguali con condizione di incentro*
 
-> Che $ABC$ sia un triangolo nel quale $AB = AC$ e che $I$ sia il suo centro. Supponiamo $BC = AB + AI$. Trova < MSK4/>.
+> Che $ABC$ sia un triangolo nel quale $AB = AC$ e che $I$ sia il suo centro. Supponiamo $BC = AB + AI$. Trova $\angle BAC$.
 
 [[src_rmo_2009__Q01]]

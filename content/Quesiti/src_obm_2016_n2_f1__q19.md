@@ -58,7 +58,7 @@ tags:
 
 *Computare SR=1 in un cerchio con triangoli simili RSA e XYA*
 
-> Il $I$ è l'intersezione tra $AD$ e $BF$ e $O$ del centro del cerchio. Poiché $FA=AB=AY=AX$, $FB$ è parallelo a $XY$, quindi i triangoli $RSA$ e $XYA$ sono simili e $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ dal momento che $\angle ABI=30^\circ$ e $AB=AO=OB$. Quindi $SR=1$. Qual è il valore di < MSK13/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Il $I$ è l'intersezione tra $AD$ e $BF$ e $O$ del centro del cerchio. Poiché $FA=AB=AY=AX$, $FB$ è parallelo a $XY$, quindi i triangoli $RSA$ e $XYA$ sono simili e $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ dal momento che $\angle ABI=30^\circ$ e $AB=AO=OB$. Quindi $SR=1$. Qual è il valore di $SR$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 ![[src_obm_2016_n2_f1__Q19.png]]
 

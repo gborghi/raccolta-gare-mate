@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Euro to the second-placed player (double prizes) < MSK1/>
+*Euro to the second-placed player (double prizes) *
 
 > EUR 1005 was distributed among the competitors who placed in the top four places of a race. The prize doubles with each placement, so for example the third-placed person wins twice as much as the fourth-placed person. How much does the second-placed person receive? A) 138 B) 140 C) 268 D) 300 E) 301,50
 

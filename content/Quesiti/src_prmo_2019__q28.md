@@ -48,6 +48,6 @@ tags:
 
 *Nel numero intero più grande non superiore a r1+r2+r3 per i triangoli angolari incircoli*
 
-> < MSK0/> sia un triangolo con lati 51, 52, 53. $\Omega$ indichi l'incircolo di $\triangle ABC$. Tracciare tangenti a $\Omega$ paralleli ai lati di $ABC$. Il $r_1, r_2, r_3$ deve essere l'inradii dei tre triangoli angolari così formati. Trova il più grande numero intero non superiore a $r_1 + r_2 + r_3$.
+> $ABC$ sia un triangolo con lati 51, 52, 53. $\Omega$ indichi l'incircolo di $\triangle ABC$. Tracciare tangenti a $\Omega$ paralleli ai lati di $ABC$. Il $r_1, r_2, r_3$ deve essere l'inradii dei tre triangoli angolari così formati. Trova il più grande numero intero non superiore a $r_1 + r_2 + r_3$.
 
 [[src_prmo_2019__Q28]]

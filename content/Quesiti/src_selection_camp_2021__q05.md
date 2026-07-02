@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Lattice convex n-gon diviso dal punto interno in aree pari consecutive< MSK1/>
+*Lattice convex n-gon diviso dal punto interno in aree pari consecutive*
 
 > Trova tutti gli enti $n \ge 4$ che soddisfano la seguente condizione. Esiste una convexa $n$-gon la cui verticale sono tutti punti reticolari (punti le cui due coordinate sono entrambe enti) e un punto $P$ nel suo interno in modo tale che, denotando le aree dei triangoli $n$ in cui $P$ divide il poligono (unendo $P$ alle verticali) da $S_1, S_2, \ldots, S_n$ in qualche ordine, e lasciando $S$ essere l'area dell'intero poligono, le quantità $2S_1, 2S_2, \ldots, 2S_n$ sono numeri interi consecutivi e il loro valore più grande è divisibile da $S$.
 

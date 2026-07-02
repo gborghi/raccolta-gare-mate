@@ -53,7 +53,7 @@ tags:
 
 *Arrangimenti di conteggio di 2024 pietre nere e bianche con condizione di maggioranza di segno-flip*
 
-> Un totale di pietre < MSK0/>  bianche e nere  sono disposte in fila. Si è scoperto che il numero di pietre nere che hanno una pietra bianca a destra è maggiore del numero di pietre nere che hanno una pietra bianca a sinistra. Trova il numero di tali accordi.
+> Un totale di pietre $2024$  bianche e nere  sono disposte in fila. Si è scoperto che il numero di pietre nere che hanno una pietra bianca a destra è maggiore del numero di pietre nere che hanno una pietra bianca a sinistra. Trova il numero di tali accordi.
 
 **Risposta:** 2^{2022}
 [[src_jjmo22yqa_yosen__Q03]]

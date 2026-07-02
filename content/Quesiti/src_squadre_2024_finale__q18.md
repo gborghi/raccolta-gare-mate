@@ -51,7 +51,7 @@ tags:
 
 *Cyclic pentagon perimeter of whole sides, BAE=120*
 
-> As the tide descends, five rocky spots placed at the summits of an ABCDE pentagon inscribed in a radius of 43 √ 3 emerge from the water. AB = BC, DE = EA and all its sides have lengths expressed as integers. In addition \ BAE = < MSK0/>. How much is the perimeter of ABCDE?
+> As the tide descends, five rocky spots emerge from the water at the summits of an ABCDE pentagon inscribed in a radius of 43 √ 3. AB = BC, DE = EA and all its sides have lengths expressed as integers. In addition \ BAE = 120°. How much is the perimeter of ABCDE?
 
 **Answer:** 0417
 [[src_squadre_2024_finale__Q18]]

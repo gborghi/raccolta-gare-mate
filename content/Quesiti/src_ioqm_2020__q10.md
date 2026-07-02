@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cinque studenti fanno il test 0-100; la differenza più grande possibile tra media e media< MSK1/>
+*Cinque studenti fanno il test 0-100; la differenza più grande possibile tra media e media*
 
 > Cinque studenti fanno un test in cui è possibile ottenere un punteggio di un numero intero da 0 a 100 inclusi. Qual è la differenza più grande possibile tra la media e la media dei punteggi? (La media di un insieme di punteggi è il punteggio più medio quando i dati sono organizzati in ordine crescente. È esattamente il punteggio medio quando ci sono un numero impar di punteggi, ed è la media dei due punteggi medi quando ci sono un numero pari di punteggi.)
 

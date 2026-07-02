@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum keys to obtain 2000 with malfunctioning calculator< MSK1/>
+*Minimum keys to obtain 2000 with malfunctioning calculator*
 
 > Jacopo found an old calculator in the attic, a little malfunctioning. Only the "1" button, the "+" button and the "=" button work.
 > 

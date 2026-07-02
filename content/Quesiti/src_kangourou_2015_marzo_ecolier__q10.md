@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many bananas are given< MSK1/>
+*how many bananas are given*
 
 > Carlo had seven apples and two bananas. He gave Gianni two apples, and he gave him some bananas. Now the number of apples and the number of bananas that Charles has are the same. How many bananas did Gianni give Carlo? A) 2
 > 	

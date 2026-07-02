@@ -83,7 +83,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Tollaggi stradali tra n città etichettati 1..n; tollaggi su una strada pari al massimo delle etichette dei suoi punti di fine; ottimizzazione del costo totale su vari grafici di rete, più un gioco di numerazione tra king e ASMR.*
+*Tollaggi stradali tra n città etichettati 1..n; tollaggio su una strada pari al massimo delle etichette dei suoi punti di fine; ottimizzazione del costo totale su vari grafici di rete, più un gioco di numerazione tra king e ASMR.*
 
 > Il problema 7 - tasse stradali.
 > 
@@ -91,9 +91,9 @@ tags:
 > 
 > In questo paese ci sono $n$ città ($n \in \mathbb{N}^*$). Alcune città sono collegate da una strada, formando così il sistema stradale. Il sistema fiscale è il seguente: a tutte le città viene assegnato un numero da $1$ a $n$ (ogni numero viene utilizzato esattamente una volta). La tassa da pagare per una strada che collega una città di numero $i$ a una città di numero $j$ è il massimo tra $i$ e $j$. Il costo totale del sistema stradale è la somma di tutte le tasse da pagare per ciascuna strada. Il costo totale dipende dal numero delle città. La figura 7 mostra due esempi. (Figura 7: a sinistra, un esempio del costo totale $12$; a destra, un esempio del costo totale $14$.)
 > 
-> 1. Qual è il valore massimo e minimo del costo totale se ci sono < MSK0/> città che formano un quadrato, come illustrato nella figura 8? (Figura 8: sistema di strade quadrate.)
+> 1. Qual è il valore massimo e minimo del costo totale se ci sono $4$ città che formano un quadrato, come illustrato nella figura 8? (Figura 8: sistema di strade quadrate.)
 > 
-> 2. Qual è il valore massimo e minimo del costo totale per i seguenti casi (vedere anche le figure 9 e 10)? a) Sistema stradale completo: per ogni coppia di città esiste esattamente una strada. b) Sistema stradale in coppia: ci sono città collegate in coppie. c) Sistema di strade circolare: le città < MSK1/> formano un anello con < MSK2/>. d) Sistema stradale di rete: ci sono < MSK3/> città che formano una rete. (Figura 9: sistema stradale completo con $n = 6$ (a sinistra), in coppia con $m = 3$ (in mezzo), anello con $n = 6$ (a destra). Figura 10: sistema stradale di rete con $k = 3$.)
+> 2. Qual è il valore massimo e minimo del costo totale per i seguenti casi (vedere anche le figure 9 e 10)? a) Sistema stradale completo: per ogni coppia di città esiste esattamente una strada. b) Sistema stradale in coppia: ci sono città collegate in coppie. c) Sistema di strade circolare: le città $n$ formano un anello con $n \ge 3$. d) Sistema stradale di rete: ci sono $n = k^2$ città che formano una rete. (Figura 9: sistema stradale completo con $n = 6$ (a sinistra), in coppia con $m = 3$ (in mezzo), anello con $n = 6$ (a destra). Figura 10: sistema stradale di rete con $k = 3$.)
 > 
 > 3. Trovare formule o stime per il costo totale massimo e minimo di un sistema stradale arbitrario.
 > 

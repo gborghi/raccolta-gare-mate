@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>5 persone, tutte somme di età in coppia distinte; trovare la differenza minima di età tra il più anziano e il più giovane< MSK1/>
+*5 persone, tutte somme di età in coppia distinte; trovare la differenza minima di età tra il più anziano e il più giovane*
 
 > Ci sono persone $5$. Le età di ciascuna coppia di persone $2$ sono state calcolate; tutte le somme in coppia $\binom{5}{2} = 10$ si sono rivelate essere numeri interi positivi distinti. Trova il valore minimo possibile della differenza di età tra la persona più anziana e la persona più giovane.
 

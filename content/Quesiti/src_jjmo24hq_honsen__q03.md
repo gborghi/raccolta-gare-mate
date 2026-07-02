@@ -54,10 +54,10 @@ tags:
 
 *Arrangere tutti i divisori in modo che le somme consecutive siano potenze di due*
 
-> $n$ sia un numero intero positivo con almeno $3$ divisori positivi, e $k$ indichi il numero di divisori positivi di $n$. Trovare tutti i valori possibili di $n$ per i quali esiste una sequenza $d_1, d_2, \dots, d_k$ in cui tutti i divisori positivi di $n$ appaiono esattamente una volta ciascuno, soddisfacendo la seguente condizione:
+> $n$ sia un intero positivo con almeno $3$ divisori positivi e $k$ indichi il numero di divisori positivi di $n$. Trovare tutti i valori possibili di $n$ per i quali esiste una sequenza $d_1, d_2, \dots, d_k$ in cui tutti i divisori positivi di $n$ appaiono esattamente una volta ciascuno, soddisfacendo la seguente condizione:
 > 
 > Per ogni numero intero $i$ con $1 \le i \le k-1$, la somma $d_i + d_{i+1}$ è una potenza di due.
 > 
-> Qui, una potenza di due significa un intero espressibile nella forma $2^m$ utilizzando un intero non negativo $m$. Inoltre, < MSK2/>.
+> Qui, una potenza di due significa un intero espressibile nella forma $2^m$ utilizzando un intero non negativo $m$. Inoltre, $2^0 = 1$.
 
 [[src_jjmo24hq_honsen__Q03]]

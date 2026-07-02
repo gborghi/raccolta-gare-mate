@@ -47,9 +47,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to distribute 27 candies to three with exactly two types< MSK1/>
+*How to distribute 27 candies to three with exactly two types*
 
-> Andrea, Bernardo and Chiara want to share a pack of candy. The pack contains < MSK0/> strawberry candy, < MSK1/> lemon and < MSK2/> mint. How many ways can the $27$ candies (even in unequal parts) be distributed between the three, so that each has exactly two candies?
+> Andrea, Bernardo and Chiara want to share a pack of candy. The pack contains $9$ strawberry candy, $9$ lemon and $9$ mint. How many ways can the $27$ candies (even in unequal parts) be distributed between the three, so that each has exactly two candies?
 
 **Answer:** 7104
 [[src_cesenatico_2005_squadre_semifinale_a__Q09]]

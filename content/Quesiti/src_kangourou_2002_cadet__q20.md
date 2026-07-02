@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Seconds on a moving scale upwards< MSK1/>
+*Seconds on a moving scale upwards*
 
 > Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by climbing the steps of a moving ladder when it is not running; he takes 60 seconds when the ladder is running, but he lets himself be carried without moving. How many seconds does it take if the ladder is running and at the same time he climbs the stairs?
 >  

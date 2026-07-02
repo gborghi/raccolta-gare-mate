@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Short radius of small square circumference< MSK1/>
+*Short radius of small square circumference*
 
 ![[src_kangourou_2005_junior__prob24.png]]
 

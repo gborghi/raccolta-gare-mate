@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>2006-th integer other than squared in cube< MSK1/>
+*2006-th integer other than squared in cube*
 
 > At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment they must perform an exercise: given sequence 2, 3, 5, 6, 7, 10, 11, .. . , composed of all positive integers other than n squares and n cubes of other integers, for the 2006th term.
 

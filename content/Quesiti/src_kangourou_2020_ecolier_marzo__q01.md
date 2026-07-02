@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What photo of the fungus was taken on Tuesday< MSK1/>
+*What photo of the fungus was taken on Tuesday*
 
 ![[src_kangourou_2020_ecolier_marzo__prob1.png]]
 

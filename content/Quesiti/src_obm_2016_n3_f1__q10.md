@@ -59,7 +59,7 @@ tags:
 
 *Lunghezza SR in una configurazione circolare di accordi con archi uguali e triangoli simili*
 
-> I punti si trovano su un cerchio con il centro $O$. Il $I$ è l'intersezione di $AD$ e $BF$. Dal momento che $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Quindi i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Di conseguenza $SR=1$. Trova < MSK15/>. [Valore della chiave di risposta: $SR=1$.]
+> I punti si trovano su un cerchio con il centro $O$. Il $I$ è l'intersezione di $AD$ e $BF$. Dal momento che $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Quindi i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Di conseguenza $SR=1$. Trova $SR$. [Valore della chiave di risposta: $SR=1$.]
 
 ![[src_obm_2016_n3_f1__Q10.png]]
 

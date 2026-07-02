@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum time broken to two orthogonal lines< MSK1/>
+*Minimum time broken to two orthogonal lines*
 
 > Who told you to stop? [45] At about the time of the pennyhill, pirates spotted a ship stationed in the middle of the Mediterranean, 14 miles away from them. Tosto, they're headed there to loot her. However, in fear that (by chance) it will be populated by the usual Gauls, they proceed with extreme caution. Their approach route consists of two straight lines, orthogonal to each other, the first at 1/5 miles per hour, the second at 1/10 miles per hour. Moreover, of all the routes of this kind, they choose the slowest. How many minutes will it take the pirate ship to intercept each other (where, of course, the usual Gauls are crushing a little bit)?
 

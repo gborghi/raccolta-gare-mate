@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Days of the year with a sum of 23 digits given < MSK1/>
+*Days of the year with a sum of 23 digits given *
 
 > This year, the date of the Kangourou individual race is 16/03/2023: adding up all the figures for this date, you get 17. For how many days, from the first to the last day of this year, is the sum of the dates 23?
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rate of number of cats and dogs< MSK1/>
+*Rate of number of cats and dogs*
 
 > There are dogs and cats in a room. The number of cat legs is twice the number of dog noses. So the number of cats is A) twice the number of dogs. (b) equal to the number of dogs. (c) half the number of dogs. D) 1/4 of the number of dogs. E) 1/6 of the number of dogs.
 

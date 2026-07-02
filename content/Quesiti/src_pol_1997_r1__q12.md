@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Per n persone che cenano tre volte e ogni coppia si riunisce esattamente una volta, dimostrare che n è congruente a 1 o 3 mod 6.< MSK1/>
+*Per n persone che cenano tre volte e ogni coppia si riunisce esattamente una volta, dimostrare che n è congruente a 1 o 3 mod 6.*
 
 > Un gruppo di persone $n$ notò che, per un certo periodo di tempo, tre di loro potrebbero andare a cena insieme, ogni coppia si riunisce esattamente a una cena. Prova che $n \equiv 1$ o $n \equiv 3 \pmod{6}$.
 

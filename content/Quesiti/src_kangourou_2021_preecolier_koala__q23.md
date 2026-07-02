@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cuts of fruit eaten by Kangie in two weeks< MSK1/>
+*Cuts of fruit eaten by Kangie in two weeks*
 
 > On Mondays, Wednesdays and Fridays, Kangaroo Kangie eats only apples. On Tuesdays and Thursdays, he only eats mangoes. Eat two apples or three meals a day. He doesn't eat fruit on Saturday and Sunday. How many pieces of fruit does Kangie eat in two weeks?
 >

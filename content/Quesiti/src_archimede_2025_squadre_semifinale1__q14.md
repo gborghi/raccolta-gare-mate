@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Operation to be iterated on rational numbers from 2 to 99< MSK1/>
+*Operation to be iterated on rational numbers from 2 to 99*
 
 > The spy who loved me Unexpectedly, Vesper Lynear broke James Bound's heart. He had defined the operation ⋆his rational numbers this way: for every positive rational x,y, x⋆y = x+y 1+xy). He had then set the result of (...(((2 ⋆3) ⋆4)...) ⋆99 as the code of his safe, but once he opened it he discovered that Vesper had stolen the contents and had gone. What result did Vesper put in? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

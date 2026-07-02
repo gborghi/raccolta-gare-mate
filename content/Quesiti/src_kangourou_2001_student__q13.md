@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cents per packet of rubber< MSK1/>
+*Cents per packet of rubber*
 
 > In New York City, 16 packs of chewing gum cost as many dollars as you can buy with a dollar. How many cents does a package cost? One dollar is 100 cents .
 >

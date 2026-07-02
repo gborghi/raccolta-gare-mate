@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*2016 persone in fila, ciascun cretino/cavaliere; ognuno punta su qualcuno davanti e li etichetta; strettamente più cretini che cavalieri; l'osservatore identifica tutti.*
+*2016 persone in fila, ciascun cretino/cavaliere; ognuno punta su qualcuno davanti e li etichetta; rigorosamente più cretini che cavalieri; osservatore identifica tutti.*
 
-> Le persone < MSK0/> sono in un file indiano (linea singola). Ognuno di loro è o un cretino (che mente sempre) o un cavaliere (che dice sempre la verità). Ognuna delle persone $2016$ vede tutti coloro che sono davanti a loro e solo loro. Ogni persona, tranne quella che è proprio davanti, designa una delle persone davanti a loro e dice una delle due frasi: "questa persona è un cretino" o "questa persona è un cavaliere". Sapendo che ci sono rigorosamente più scagnozzi che cavalieri, come può un osservatore determinare quale è un scagnozzo e quale un cavaliere?
+> Le persone $2016$ sono in un file indiano (linea singola). Ognuno di loro è o un cretino (che mente sempre) o un cavaliere (che dice sempre la verità). Ognuna delle persone $2016$ vede tutti coloro che sono davanti a loro e solo loro. Ogni persona, tranne quella che è proprio davanti, designa una delle persone davanti a loro e dice una delle due frasi: "questa persona è un cretino" o "questa persona è un cavaliere". Sapendo che ci sono rigorosamente più scagnozzi che cavalieri, come può un osservatore determinare quale è uno scagnozzo e quale un cavaliere?
 
 [[src_canimath_2016_printemps__Q03]]

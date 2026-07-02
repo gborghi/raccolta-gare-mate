@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Within how many months will Sara be two years old< MSK1/>
+*Within how many months will Sara be two years old*
 
 > Sara turns one year and three months today. In how many months will she be two?
 >

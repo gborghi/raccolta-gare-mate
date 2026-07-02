@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n given the remainder of 999:n< MSK1/>
+*n given the remainder of 999:n*
 
 > In division 999: n, where n is a natural number of two digits (significant), the rest is 3. Then the rest of the 2001 division:
 >

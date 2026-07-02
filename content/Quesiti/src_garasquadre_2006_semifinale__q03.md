@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> length of BC< MSK1/>
+* length of BC*
 
 > The only way to make visible what has been written about the construction of the malander is to solve a geometric problem: in an ABC triangle the lengths of the sides coming out of A are 1358 and 2006, and the median coming out of A is 1358. What's the length of BC?
 

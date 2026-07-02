@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>BC^2=CD·CE in trapezoidal with perpendicular diagonals< MSK1/>
+*BC^2=CD·CE in trapezoidal with perpendicular diagonals*
 
 ![[src_cesenatico_1998__prob4.png]]
 

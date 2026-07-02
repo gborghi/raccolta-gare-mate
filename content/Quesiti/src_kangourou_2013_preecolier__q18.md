@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fragments obtained by exchanging 6 pairs < MSK1/>
+*Fragments obtained by exchanging 6 pairs *
 
 ![[src_kangourou_2013_preecolier__prob18.png]]
 

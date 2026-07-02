@@ -76,7 +76,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number thought by Elisa (unknown operations) < MSK1/>
+*Number thought by Elisa (unknown operations) *
 
 > Elisa came up with a whole number. Marco multiplied it by 5 or by 6, but we don't know which of the two. Sonia added to Mark's result one of the two numbers 5 or 6, but we don't know which one. Dino subtracted from Sonia's result one of the two numbers 5 or 6, but we don't know which one. Finally, Dino communicated the result: 73. What number did Elisa think of? A) it is not possible to know B) 11 C) 12 D) 14 E) 15 A B 4 6 6 4 4 5 4 a b c d
 > 

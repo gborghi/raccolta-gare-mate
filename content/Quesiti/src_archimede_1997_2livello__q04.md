@@ -48,7 +48,7 @@ tags:
 
 How many congressmen out of 100 wear a tie
 
-> A strip consists of an internal steel cylinder of < MSK0/ cm radius coated with a layer of light rubber of constant thickness. Knowing that when the materials are reversed the weight of the strip remains unchanged, determine the thickness of the coating.
+> A strip consists of an internal steel cylinder of $1$cm radius coated with a layer of light rubber of constant thickness. Knowing that when the materials are reversed the weight of the strip remains unchanged, determine the thickness of the coating.
 >
 > - **(A)** $1$ cm
 > - **(B)** $\sqrt{2}$ cm

@@ -57,9 +57,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Dominanza minima della moneta su 37 punti della griglia all'interno di una distanza quadrata
+*Dominanza minima della moneta su 37 punti della griglia all'interno di una distanza quadrata
 
-> Nel piano $xy$, considerate i punti reticolari $37$ (punti le cui coordinate sono entrambe enti) a distanza massima $\sqrt{10}$ dall'origine; chiamate questi **buoni punti**. Un accordo mette le monete su uno o più punti positivi. Un buon punto $(a,b)$ è chiamato ** ben coperto** se esiste un buon punto $(c,d)$ con una moneta del tipo $|a-c| = |b-d|$. Un sistema di sicurezza **** è un sistema in cui ogni punto positivo è ben coperto. $n$ deve essere il numero minimo di monete utilizzate in qualsiasi sistema di sicurezza. Quanti dispositivi di sicurezza utilizzano esattamente le monete < MSK7/>?
+> Nel piano $xy$, considerate i punti reticolari $37$ (punti le cui coordinate sono entrambe enti) a distanza massima $\sqrt{10}$ dall'origine; chiamate questi **buoni punti**. Un accordo mette le monete su uno o più punti positivi. Un buon punto $(a,b)$ è chiamato ** ben coperto** se esiste un buon punto $(c,d)$ con una moneta del tipo $|a-c| = |b-d|$. Un sistema di sicurezza **** è un sistema in cui ogni punto positivo è ben coperto. $n$ deve essere il numero minimo di monete utilizzate in qualsiasi sistema di sicurezza. Quanti dispositivi di sicurezza utilizzano esattamente le monete $n$?
 
 ![[src_jjmo24yqa_yosen__Q07.png]]
 

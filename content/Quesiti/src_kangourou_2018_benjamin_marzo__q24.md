@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum groups with the same sum of 2 to 10< MSK1/>
+*Maximum groups with the same sum of 2 to 10*
 
 > Nicola wants to distribute the nine numbers 2, 3, 4, ..., 10 into certain groups, so that the sum of the numbers appearing in each group is the same for all groups. How many groups can you get at most? A) 2
 > 	

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True claim with MCD(m,35)>10< MSK1/>
+*True claim with MCD(m,35)>10*
 
 > m is a positive integer such that MCD (m, 35) > 10. Which of the following is certainly true?
 >

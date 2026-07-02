@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> of what is overlapping < MSK1/>
+* of what is overlapping *
 
 ![[src_kangourou_2015_marzo_benjamin__prob10.png]]
 

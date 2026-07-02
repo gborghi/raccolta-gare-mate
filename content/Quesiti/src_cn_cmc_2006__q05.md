@@ -51,7 +51,7 @@ tags:
 
 *Condizione su a+b>=0 per f(a)+f(b)>=0 con funzione odd*
 
-> Supponiamo < MSK0/>. Per qualsiasi $a, b \in \mathbf{R}$, per soddisfare $f(a) + f(b) \ge 0$, la condizione $a + b \ge 0$ è (\ \ ).
+> Supponiamo $f(x) = x + \log_x\!\left(\sqrt{x^2 + 1}\right)$. Per qualsiasi $a, b \in \mathbf{R}$, per soddisfare $f(a) + f(b) \ge 0$, la condizione $a + b \ge 0$ è (\ \ ).
 > 
 > (A) necessaria e sufficiente (B) non necessaria ma sufficiente (C) necessaria ma insufficiente (D) né necessaria né sufficiente
 

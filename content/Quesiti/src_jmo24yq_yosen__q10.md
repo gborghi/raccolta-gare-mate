@@ -59,7 +59,7 @@ tags:
 
 *55×55 griglia, operazioni a colori; operazioni minime per ottenere il modello nero/bianco prescritto*
 
-> Considera una griglia di celle < MSK0/>. L'operazione \emph{} consiste nel: scegliere una sotto-griglia rettangolare (una o più righe e colonne complete), poi dipingere ogni cella in quel rettangolo di un unico colore (intero nero o tutto bianco). Partendo dallo stato in cui tutte le celle sono bianche, trovare il numero minimo di operazioni necessarie per raggiungere una configurazione in cui tutte le seguenti tre condizioni sono valide: \begin{itemize} \item \item Ogni riga che contiene almeno una cellula bianca contiene anche una cellula nera adiacente (con un lato condiviso) a qualche cellula bianca. Ogni cellula bianca è adiacente ad almeno una cellula nera. # Finire #
+> Considera una griglia di celle $55 \times 55$. L'operazione \emph{} consiste nel: scegliere una sottogriglia rettangolare (una o più righe e colonne complete), poi dipingere ogni cella in quel rettangolo in un unico colore (intero nero o tutto bianco). Partendo dallo stato in cui tutte le celle sono bianche, trovare il numero minimo di operazioni necessarie per raggiungere una configurazione in cui tutte le seguenti tre condizioni sono valide: \begin{itemize} \item Tutte le celle nella colonna più sinistra sono nere. \item Ogni riga che contiene almeno una cellula bianca contiene anche una cellula nera adiacente (con un lato condiviso) a qualche cellula bianca. Ogni cellula bianca è adiacente ad almeno una cellula nera. # Finire #
 
 **Risposta:** 784
 [[src_jmo24yq_yosen__Q10]]

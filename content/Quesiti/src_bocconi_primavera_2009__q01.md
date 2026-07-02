@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes to cut a log into five parts< MSK1/>
+*Minutes to cut a log into five parts*
 
 > If it takes one and a half minutes to cut a tree (a trunk of constant diameter) into two parts, how many minutes does it take to cut the same tree into five parts?
 

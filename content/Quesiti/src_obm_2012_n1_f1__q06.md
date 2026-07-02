@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr) < MSK1/>
+*Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr) *
 
 > Ricardo prende una pillola il lunedì, mercoledì e venerdì, ogni settimana. Le pillole sono vendute in scatole di 20 unità ciascuno. Qual è il numero minimo di scatole che deve comprare per avere abbastanza per un anno intero?
 > 

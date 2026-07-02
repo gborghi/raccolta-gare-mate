@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Vincenti collineari massimi di un 12-gon; dimostrare l'ottimalità< MSK1/>
+*Vincenti collineari massimi di un 12-gon; dimostrare l'ottimalità*
 
 > Tra i poligoni con lati $5$, il numero massimo di vertici collineari (legati su una singola linea retta) è di tre, come mostrato nella figura.
 > 

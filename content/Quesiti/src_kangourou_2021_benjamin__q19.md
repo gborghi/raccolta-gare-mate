@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Mix with less dark green < MSK1/>
+* Mix with less dark green *
 
 > Carla wants to paint the walls of her room green. The green tempera you bought in the store is too dark, so think about mixing it with white tempera. It makes several test mixes: which of the following will give the darker green color? A) 1 part green and 2 parts white. B) 2 parts green and 3 parts white. C) 2 parts green and 5 parts white. D) 4 parts green and 7 parts white. E) 4 parts green and 9 parts white.
 

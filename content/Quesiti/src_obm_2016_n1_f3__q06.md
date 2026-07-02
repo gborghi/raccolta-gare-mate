@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilaterali convexi non ciclici; i circoncenti dei quadrilaterali bisettori e il punto dell'asse radicale sono collineari< MSK1/>
+*Quadrilaterali convexi non ciclici; i circoncenti dei quadrilaterali bisettori e il punto dell'asse radicale sono collineari*
 
 > Il $ABCD$ deve essere un quadrilaterale convex, non ciclico, senza lati paralleli. Le linee $AB$ e $CD$ si incontrano a $L$. $M \ne L$ sia il secondo punto di intersezione dei circoncircoli dei triangoli $ADL$ e $BCL$. I bisettori interni di $ABCD$ determinano un quadrilatero ciclico convex con circumcenter $I$, e i bisettori esterni di $ABCD$ determinano un quadrilatero ciclico con convex con circumcenter $J$. Provare che $I$, $J$ e $M$ sono collineari.
 

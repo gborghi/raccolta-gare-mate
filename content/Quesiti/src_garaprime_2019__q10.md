@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Disparate dividers of 8100 multiples of 5< MSK1/>
+*Disparate dividers of 8100 multiples of 5*
 
 > How many odd positive divisors of 8100 are multiples of 5? A 10 B 15 C 9 D 30 E 12 F 18
 

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>white part< MSK1/>
+*white part*
 
 ![[src_kangourou_2022_student__prob12.png]]
 

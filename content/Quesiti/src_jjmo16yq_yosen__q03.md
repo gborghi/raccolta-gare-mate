@@ -53,7 +53,7 @@ tags:
 
 *Contare i modi in cui Taro partecipa esattamente a 6 riunioni su 10 senza vincolo di partecipazione dopo 3 assenze*
 
-> Taro ha riunioni di club. Egli assisterà esattamente < MSK1/> di loro. Tuttavia, se è assente per $3$ riunioni consecutive, non è autorizzato ad assistere alla riunione immediatamente dopo tali $3$ assenze consecutive (deve anche mancare quella). In quanti modi può scegliere quali incontri frequentare?
+> Taro ha riunioni di club. Egli assisterà esattamente $6$ di loro. Tuttavia, se è assente per $3$ riunioni consecutive, non è autorizzato ad assistere alla riunione immediatamente dopo tali $3$ assenze consecutive (deve anche mancare quella). In quanti modi può scegliere quali incontri frequentare?
 
 **Risposta:** 161
 [[src_jjmo16yq_yosen__Q03]]

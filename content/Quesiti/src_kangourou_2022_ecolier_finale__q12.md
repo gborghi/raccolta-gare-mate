@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time difference between cat and turtle (path) < MSK1/>
+*Time difference between cat and turtle (path) *
 
 > In the school yard, a few rows of chairs were lined up. Each row contains the same number of seats. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on your left and 5 on your right in your row. How many chairs have been put in the yard?
 > 

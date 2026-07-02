@@ -60,7 +60,7 @@ tags:
 
 *Tiger head: trace the cut into two pieces along the sides or diagonals at 45 degrees of the grid*
 
-> The figure represents a tiger's head. The colours of the fur break down the head into two distinct pieces. Trace the cut, knowing that it passes only through the sides or diagonal < MSK0/> of the grid boxes. There's only one solution and one request.
+> The figure represents a tiger's head. The colours of the fur break down the head into two distinct pieces. Trace the cut, knowing that it passes only through the sides or diagonal $45^\circ$ of the grid boxes. There's only one solution and one request.
 
 ![[src_bocconi_finaleint_2007_g1__Q16.png]]
 

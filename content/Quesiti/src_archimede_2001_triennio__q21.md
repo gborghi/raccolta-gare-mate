@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Initial number after 2000 iterations doubles and minus 1< MSK1/>
+*Initial number after 2000 iterations doubles and minus 1*
 
 > A number is first doubled and then decreased by a unit. Applying this procedure 2000 times below results in 22001 + 1. What's the departure number?
 >

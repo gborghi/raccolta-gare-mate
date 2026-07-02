@@ -47,6 +47,6 @@ tags:
 
 *Triangolo isoscelso ABC, D su BC con BD=48, DC=61, CE perpendicolare ad AD; trovare AE*
 
-> Che $ABC$ sia un triangolo con $AB = AC$. Il punto $D$ deve essere un punto del segmento $BC$ tale che $BD = 48$ e $DC = 61$. Il $E$ deve essere un punto su $AD$ tale che $CE$ sia perpendicolare a $AD$ e $DC = 61$. Trova < MSK11/>.
+> Che $ABC$ sia un triangolo con $AB = AC$. Il punto $D$ deve essere un punto del segmento $BC$ tale che $BD = 48$ e $DC = 61$. Il $E$ deve essere un punto su $AD$ tale che $CE$ sia perpendicolare a $AD$ e $DC = 61$. Trova $AE$.
 
 [[src_ioqm_2020__Q07]]

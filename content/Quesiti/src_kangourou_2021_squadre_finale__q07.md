@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bus speed (order to two distributors) < MSK1/>
+*Bus speed (order to two distributors) *
 
 > The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order of buses, cars, trucks. What is the speed of the bus in km/h?
 >  

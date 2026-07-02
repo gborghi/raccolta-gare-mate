@@ -46,6 +46,6 @@ tags:
 
 *Quadrilaterale ciclico, linea perpendicolare che attraversa il circondocentro*
 
-> Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Il punto $P$ deve essere diverso da $A$ e $B$, in modo tale che $\angle PAC = \angle PBD = 90^\circ$. Prove che la linea perpendicolare a MSK6 passa attraverso il centro circostante del triangolo $PAB$.
+> Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Il punto $P$ deve essere diverso da $A$ e $B$, in modo tale che $\angle PAC = \angle PBD = 90^\circ$. Prove che la linea perpendicolare a$CD$passa attraverso il centro circostante del triangolo $PAB$.
 
 [[src_jjmo13mq_honsen__Q01]]

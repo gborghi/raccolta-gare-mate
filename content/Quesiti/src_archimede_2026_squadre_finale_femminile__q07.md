@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum polynomial degree coef 2,0,6 with p(-1) = 2026< MSK1/>
+*Minimum polynomial degree coef 2,0,6 with p(-1) = 2026*
 
 > Returning to Berk, Hiccup discovers that he and the other youths from the village have been enrolled in Flame Cement, a Viking training where the best will be named Sterminator and can kill a dragon in the arena in front of everyone. Hiccup wouldn't want to participate, but his father doesn't feel any reason. Astrid, Moccosus, Gambedipesce, Testadituff and Testabruta are all in the Arena when Scaraffius releases a Gronkio. Astrid shows all her worth right away. Hiccup hides and for fear starts to calculate the smallest possible degree for a polynomial ( ) p x whose coefficients can only be 2 , 0 or 6 such that (1) 2026 p   . Needless to say, if it wasn't for Scarface, Hiccup would be dead. What is the degree of the polynomial?
 

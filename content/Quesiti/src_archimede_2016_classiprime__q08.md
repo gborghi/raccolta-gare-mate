@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum product with sum of 10 < MSK1/>
+*maximum product with sum of 10 *
 
 > Teacher Sotuttoio is fixated on group work and posters. The group of Luca, Massimo, Davide and Claudia must prepare a carton with 10 drawings: they can start the work as they wish, provided that one person works on each of the 10 drawings. The final score of the group will be the product of the number of drawings made by each child. For example, if Luke does 7 drawings and each of the other children does only one, the final score will be 7 · 1 · 1 · 1, that is, 7. Children immediately notice that even grades higher than 10 can be scored. What's the highest score you can get? A 36 B 24 C 54 D 27 E 15 F 20
 

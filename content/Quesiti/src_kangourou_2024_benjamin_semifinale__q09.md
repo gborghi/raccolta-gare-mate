@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many blocks of 2024...2024 divided by 4 < MSK1/>
+*How many blocks of 2024...2024 divided by 4 *
 
 > (Points 6) Consider the alignment of figures 202420242024...20242024 where the fourth order 2024 appears 1,012 times. Each block that is made up of any number of consecutive digits in this alignment and does not start with 0 identifies an integer a whole number (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth and so on, identifies the number 4.202.420). How many integers, all different from each other, determined by eligible blocks, are divisible by 4? A) 2021             B) 2024             C) 2025             D) 6067            E) 6070
 > 

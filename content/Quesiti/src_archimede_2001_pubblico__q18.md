@@ -48,7 +48,7 @@ tags:
 
 *count quadrupled in 20 years, last 4 digits after 20000*
 
-> The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after < MSK0/> years, the amount of a current account is quadrupled. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last $4$ figures in the statement that Ocnarf's heirs will be able to read in $20000$ years?
+> The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after $20$ years, the amount of a current account is quadrupled. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last $4$ figures in the statement that Ocnarf's heirs will be able to read in $20000$ years?
 
 **Answer:** 0076
 [[src_archimede_2001_pubblico__Q18]]

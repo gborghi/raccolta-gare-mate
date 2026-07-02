@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>AP reduced< MSK1/>
+*AP reduced*
 
 > Uncovered impostors Often one wonders how it is possible to recognize a mathematician from a mateban, that is, someone fasting in mathematics. The method is very simple! Try asking a mattress the following question. In an ABC triangle, straight to A, be AB = 7 and AC = 24. P is the intersection of height from A to median from B. Determine the AP. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of green cane in the 3x3 grid< MSK1/>
+*Minimum number of green cane in the 3x3 grid*
 
 ![[src_kangourou_2019_cadet_marzo__prob23.png]]
 

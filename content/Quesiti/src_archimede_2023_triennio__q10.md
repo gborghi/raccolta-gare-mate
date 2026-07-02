@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Trip colours with 4 blue multipliers (4 colours) < MSK1/>
+*Trip colours with 4 blue multipliers (4 colours) *
 
 > Gabriele has a square strip of paper, with side squares of 1 centimeter, length 2023 cm. He wants to mark every inch height, from 0 to 2023, with one of his 4 colored pinheads (red, yellow, green and blue). It will make sure that the multiples of 4, including 0, are all marked in blue and that there are no nearby tiles of the same color. How many different ways will Gabriele be able to achieve the coloring?
 >

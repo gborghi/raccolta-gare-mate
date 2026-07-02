@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Initial squares of the chocolate table< MSK1/>
+*Initial squares of the chocolate table*
 
 ![[src_kangourou_2009_ecolier_marzo__prob7.png]]
 

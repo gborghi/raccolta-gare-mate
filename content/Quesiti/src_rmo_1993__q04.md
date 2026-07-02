@@ -51,6 +51,6 @@ tags:
 
 *Inuguaglianza per i radii di un cerchio inciso nel rettangolo*
 
-> Il $ABCD$ deve essere un rettangolo con $AB = a$ e $BC = b$. Supponiamo che $r_1$ sia il raggio del cerchio che attraversa $A$ e $B$ e tocca $CD$; e allo stesso modo $r_2$ è il raggio del cerchio che attraversa $B$ e $C$ e tocca $AD$. Indicare che < MSK0/>
+> Il $ABCD$ deve essere un rettangolo con $AB = a$ e $BC = b$. Supponiamo che $r_1$ sia il raggio del cerchio che attraversa $A$ e $B$ e tocca $CD$; e allo stesso modo $r_2$ è il raggio del cerchio che attraversa $B$ e $C$ e tocca $AD$. Indicare che $$r_1 + r_2 \ge \frac{5}{8}(a + b).$$
 
 [[src_rmo_1993__Q04]]

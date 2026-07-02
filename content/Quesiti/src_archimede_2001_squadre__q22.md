@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many are < MSK1/>
+*how many are *
 
 > The following table shows the results of the calculations:
 > 

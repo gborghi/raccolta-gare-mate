@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time to fill the fractional volume< MSK1/>
+*Time to fill the fractional volume*
 
 > To take into account the processing time required by Deep Thought, to produce the Answer to the Definitive Question about Life, the Universe and the Whole, the Unified Syndicate of Philosophers and Other Thinkers (SUFAP) has arranged a water clessandra formed by two cones, connected at the vertices. Water fills the bottom cone. The water wheel is turned and the water starts to fall; after 2009 years, the water is exactly half the height of the lower cone. The water keeps falling regularly. After how many years since the SUFAP's clex hydrometer was turned, will all the water be in the bottom cone?
 

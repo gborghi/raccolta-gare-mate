@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max distance between two persons (re-transmitter) < MSK1/>
+*Max distance between two persons (re-transmitter) *
 
 > A balloon is stationary at 1,200 meters above the ground. The crew on board has a receiver capable of operating within 1300 metres. What is the maximum distance in metres for two people on the ground to communicate with the crew on board, equipped with similar transmitters? A) 500 B) 800 C) 1000 D) 1200 E) 1300
 

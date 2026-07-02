@@ -56,7 +56,7 @@ tags:
 
 *Evaluare (x^3-1)/(1+x^2+(x+1)^2) per x=2015*
 
-> Let < MSK1/>. L'espressione data può essere riscritta come $$\frac{x^3-1^3}{1^2+x^2+(x+1)^2}=\frac{(x-1)(x^2+x+1)}{2(x^2+x+1)}=\frac{x-1}{2}.$$ Quindi il valore ricercato è $\frac{2015-1}{2}=1007$. Qual è il valore dell'espressione? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Let $x=2015$. L'espressione data può essere riscritta come $$\frac{x^3-1^3}{1^2+x^2+(x+1)^2}=\frac{(x-1)(x^2+x+1)}{2(x^2+x+1)}=\frac{x-1}{2}.$$ Quindi il valore ricercato è $\frac{2015-1}{2}=1007$. Qual è il valore dell'espressione? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** B
 [[src_obm_2016_n2_f1__Q06]]

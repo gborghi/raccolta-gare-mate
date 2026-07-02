@@ -54,8 +54,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>4x4x4 cubo di zuccheri a 3 sapori; trovare 12 sapori identici in 9 coppie di distanza uguale< MSK1/>
+*4x4x4 cubo di zuccheri a 3 sapori; trovare 12 sapori identici in 9 coppie di distanza uguale*
 
-> Bjork ha cubetti di zucchero < MSK0/>, ciascuno di dimensioni < MSK1/>. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Ha accumulato i cubetti di zucchero in un cubo $4 \times 4 \times 4$. Dovere che tra i cubetti i cui centri si trovano su una sottolattice allineata all'asse $1 \times 1 \times 1$ devono esistere cubetti di zucchero $12$ dello stesso sapore, che possono essere suddivisi in coppie disgiunte $9$ in modo che i cubetti di ciascuna coppia siano dello stesso colore.
+> Bjork ha cubetti di zucchero $64$, ciascuno di dimensioni $1 \times 1 \times 1$. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Ha accumulato i cubetti di zucchero in un cubo $4 \times 4 \times 4$. Dovere che tra i cubetti i cui centri si trovano su una sottolattice allineata all'asse $1 \times 1 \times 1$ devono esistere cubetti di zucchero $12$ dello stesso sapore, che possono essere suddivisi in coppie disgiunte $9$ in modo che i cubetti di ciascuna coppia siano dello stesso colore.
 
 [[src_bmo_2024-25_round1__Q06]]

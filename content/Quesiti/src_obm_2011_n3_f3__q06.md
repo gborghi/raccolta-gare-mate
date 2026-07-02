@@ -58,6 +58,6 @@ tags:
 
 *Il prodotto ciclico delle differenze dei reali non negativi del 2011 con la somma data è limitato*
 
-> $x_1, x_2, x_3, \ldots, x_{2011}$ siano numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Provare che < MSK0/>
+> $x_1, x_2, x_3, \ldots, x_{2011}$ siano numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Provare che $$\left|\prod_{\text{cyc}}(x_i - x_{i+1})\right| = \left|(x_1-x_2)(x_2-x_3)(x_3-x_4)(x_4-x_5)\cdots(x_{2009}-x_{2010})(x_{2010}-x_{2011})(x_{2011}-x_1)\right| \le \frac{3\sqrt{3}}{16}.$$
 
 [[src_obm_2011_n3_f3__Q06]]

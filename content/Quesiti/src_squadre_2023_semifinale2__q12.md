@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Lupin-Jig distance with barycenter 63 and 153< MSK1/>
+*Lupin-Jig distance with barycenter 63 and 153*
 
 > Did you read that in the cities of MathVillain and EastPonente this year, the syn(use) was stronger than usual? Goemetrikon: Yes, you are. The proportion of patients in MathVillain as a whole was 8%, while in EstPonente it was 10%. Jig∈N: In addition, the proportion of patients under 50 in MathVillain was twice as high as in EastPonente, and the same proportion was also found in the over-50 group. Goemetrikon: How is this possible? Is there a contradiction? Jig∈N: No. Knowing that both cities are young, i.e. the under-50s are at least as many as the over-50s, what is the minimum ratio between the under-50s and the total population of MathVillain? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

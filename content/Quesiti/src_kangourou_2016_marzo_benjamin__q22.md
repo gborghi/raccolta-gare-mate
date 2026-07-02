@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many < MSK1/>
+*how many *
 
 > Richard writes all the numbers that have the following properties: the first digit is 1, each of the digits that follow is not less than the one that precedes it and the sum of its digits is 5. How many numbers does Richard write? A) 4
 > 	

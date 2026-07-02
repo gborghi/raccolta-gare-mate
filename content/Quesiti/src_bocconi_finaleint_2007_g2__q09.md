@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many number bars up to 2007 have 20 switched on bars< MSK1/>
+*How many number bars up to 2007 have 20 switched on bars*
 
 > Numberbars are numbers that do not start with zero, the figures of which are displayed with the help of switched-on bars (in bold in the figure).
 > 

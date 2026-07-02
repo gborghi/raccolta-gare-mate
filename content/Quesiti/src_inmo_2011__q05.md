@@ -50,6 +50,6 @@ tags:
 
 *Quadrilatero ciclico con AC·BD=EG·FH implica quattro linee simultanee*
 
-> $ABCD$ sia un quadrilaterale inciso in un cerchio $\Gamma$. I punti intermedi $E$, $F$, $G$, $H$ siano rispettivamente i punti intermedi $AB$, $BC$, $CD$ e $DA$ degli archi $\Gamma$. Supponiamo < MSK11/>. Prove che $AC$, $BD$, $EG$, $FH$ sono simultanei.
+> $ABCD$ sia un quadrilaterale inciso in un cerchio $\Gamma$. I punti intermedi $E$, $F$, $G$ e $H$ siano rispettivamente i punti intermedi $AB$, $BC$, $CD$ e $DA$ degli archi $\Gamma$. Supponiamo $AC \cdot BD = EG \cdot FH$. Prove che $AC$, $BD$, $EG$, $FH$ sono simultanei.
 
 [[src_inmo_2011__Q05]]

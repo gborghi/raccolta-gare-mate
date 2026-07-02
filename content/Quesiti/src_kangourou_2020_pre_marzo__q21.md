@@ -53,11 +53,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many yellow apples are in the basket< MSK1/>
+*How many yellow apples are in the basket*
 
 ![[src_kangourou_2020_pre_marzo__prob21.png]]
 
-> In a basket there are some apples and pears. Every fruit is either yellow or green. The number of apples exceeds the total number of green fruits by < MSK1/>. There are yellow pears. How many yellow apples are in the basket?
+> In a basket there are some apples and pears. Every fruit is either yellow or green. The number of apples exceeds the total number of green fruits by $3$. There are yellow pears. How many yellow apples are in the basket?
 >
 > - **(A)** $4$
 > - **(B)** $5$

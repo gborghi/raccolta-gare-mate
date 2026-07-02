@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Black bags in boxes, maximum by box< MSK1/>
+*Black bags in boxes, maximum by box*
 
 > Bigio has four black and four white balls. It also has four boxes. He puts two balls in each box. Since it's rather disgusting, the number of black beans (noires) that you've indicated on each box is false. We know there's more white balls in the last box on the right than in the last box on the left. Tell me how many black balls you put in each box.
 

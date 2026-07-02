@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Fattore primo più basso di 35 − 1 < MSK1/>
+*Fattore primo più basso di 35 − 1 *
 
 > Qual è il più grande fattore primo di $3^5 - 1$?
 >

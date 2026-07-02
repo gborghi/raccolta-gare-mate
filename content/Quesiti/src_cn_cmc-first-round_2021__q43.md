@@ -58,7 +58,7 @@ tags:
 
 *B-10: Γ grafico di y = 1/ da fare; P nel primo quadrante, Q nel secondo quadrante, PQ tangente a parte di Γ nel secondo quadrante a Q; min di \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
-> [Test Paper B, Problem 10] (20 marks) In un sistema di coordinate retangolare piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. I punti $P,Q$ su $\Gamma$ devono soddisfare: $P$ è nel primo quadrante, $Q$ è nel secondo quadrante e la linea $PQ$ è tangente alla parte di $\Gamma$ nel secondo quadrante al punto $Q$. Trova il minimo di < MSK10/>.
+> [Test Paper B, Problem 10] (20 marks) In un sistema di coordinate rettangolare piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. I punti $P,Q$ su $\Gamma$ devono soddisfare: $P$ è nel primo quadrante, $Q$ è nel secondo quadrante e la linea $PQ$ è tangente alla parte di $\Gamma$ nel secondo quadrante al punto $Q$. Trova il minimo di $|PQ|$.
 
 **Risposta:** 2
 [[src_cn_cmc-first-round_2021__Q43]]

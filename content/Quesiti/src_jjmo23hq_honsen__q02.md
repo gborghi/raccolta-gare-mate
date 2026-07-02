@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esistenza di etichettatura reale di 2025-gon regolare con condizione del prodotto< MSK1/>
+*Esistenza di etichettatura reale di 2025-gon regolare con condizione del prodotto*
 
 > Determinare se esiste un modo per scrivere un numero reale ad ogni vertice di un normale $2025$-gon che soddisfa tutte le seguenti condizioni:
 > 

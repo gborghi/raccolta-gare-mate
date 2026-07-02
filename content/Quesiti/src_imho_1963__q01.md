@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Real roots of square x^2-p) + 2 square x^2-1) = x < MSK1/>
+*Real roots of square x^2-p) + 2 square x^2-1) = x *
 
 > Find all the real roots of the equation $$\sqrt{x^2 - p + 2\sqrt{x^2 - 1}} = x,$$ where $p$ is a real parameter.
 

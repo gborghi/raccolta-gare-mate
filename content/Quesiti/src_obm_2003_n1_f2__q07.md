@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Torre di dice: ridurre al minimo la somma dei punti visibili del viso < MSK1/>
+*Torre di dice: ridurre al minimo la somma dei punti visibili del viso *
 
 > Su un dado standard la somma dei punti su facce opposte è sempre $7$. Beatriz costruì una torre con $4$ dadi identici, incollare le facce insieme come mostrato nella figura. Qual è il numero minimo di punti che Beatriz può ottenere sommando tutti i punti sulle facce esposte della torre?
 

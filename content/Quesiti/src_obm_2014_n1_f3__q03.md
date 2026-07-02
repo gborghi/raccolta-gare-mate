@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Dicci pilastrati come pilastri; volti in contatto e cubo rigido con uguali sommi facciali< MSK1/>
+*Dicci pilastrati come pilastri; volti in contatto e cubo rigido con uguali sommi facciali*
 
 > Geraldo ha diversi dadi ordinari (la somma dei punti sulle facce opposte è di 7). Può vedere tre volti di ciascuna morte alla volta, come mostrato nella figura.
 > 

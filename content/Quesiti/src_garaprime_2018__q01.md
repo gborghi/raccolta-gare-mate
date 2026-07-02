@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Root value of 4^201 - 2^401 - 2^400< MSK1/>
+*Root value of 4^201 - 2^401 - 2^400*
 
 > The expression √ 4201 −2401 −2400 is: A 2200 B 220 C 2100 D 4200 E 4101 F None of the other answers is accurate
 

@@ -41,8 +41,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Largest integer not representable as nonnegative combination (Frobenius) < MSK1/>
+*Largest integer not representable as nonnegative combination (Frobenius) *
 
-> Let < MSK0/> be positive integers, no two of which have a common divisor greater than < MSK1/>. Show that $2abc - ab - bc - ca$ is the largest integer which cannot be expressed in the form $xbc + yca + zab$ where $x, y, z$ are non-negative integers.
+> Let $a, b, c$ be positive integers, no two of which have a common divisor greater than $1$. Show that $2abc - ab - bc - ca$ is the largest integer which cannot be expressed in the form $xbc + yca + zab$ where $x, y, z$ are non-negative integers.
 
 [[src_imo_1983__Q03]]

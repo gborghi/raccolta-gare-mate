@@ -63,11 +63,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Trova x in modo che i fattori di 100 riempiano una griglia 3×3 con uguali prodotti riga, colonna e diagonale*
+*Trova x in modo che i fattori di 100 riempiano una griglia 3×3 con uguali prodotti di riga, colonna e diagonale*
 
 > Ciascuno dei fattori di 100 deve essere inserito in una griglia $3 \times 3$, una per ogni cella, in modo tale che i prodotti dei tre numeri di ogni riga, colonna e diagonale siano tutti uguali. Le posizioni dei numeri $1$, $2$, $50$ e $x$ sono indicate nel diagramma.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $x$?
 >
 > - **(A)** 4
 > - **(B)** 5

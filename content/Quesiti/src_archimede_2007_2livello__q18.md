@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>DO bisette and similarities CDB~AOD in circumference< MSK1/>
+*DO bisette and similarities CDB~AOD in circumference*
 
-> DEMOSTRATIVE EXERCISE A circumference of diameter AB and centre O is given. Whether C is a point on the circumference (different from A and B), and the line r parallel to AC is plotted for O. Either D the intersection of r with the circumference of the opposite side of C to AB. (i) Demonstrate that the DO is < MSK0/>. (ii) Demonstrate that the CDB triangle is similar to the AOD triangle.
+> DEMOSTRATIVE EXERCISE A circumference of diameter AB and centre O is given. Whether C is a point on the circumference (different from A and B), and the line r parallel to AC is plotted for O. Either D the intersection of r with the circumference of the opposite side of C to AB. (i) Demonstrate that the DO is $\widehat{CDB}$. (ii) Demonstrate that the CDB triangle is similar to the AOD triangle.
 
 **Answer:** dimostrazione
 [[src_archimede_2007_2livello__Q18]]

@@ -56,6 +56,6 @@ tags:
 
 *S_n è la somma dei primi dieci multipli positivi di n; calcola S_1+S_2+...+S_10.*
 
-> Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è < MSK4/>? (A) $2925$ (B) $3025$ (C) $3125$ (D) $3225$ (E) $3325$
+> Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è $S_1 + S_2 + S_3 + \cdots + S_{10}$? (A) $2925$ (B) $3025$ (C) $3125$ (D) $3225$ (E) $3325$
 
 [[src_obm_2009_n3_f1__Q19]]

@@ -59,7 +59,7 @@ tags:
 
 *Tempo di viaggio da Iracimimirm a Salvador con ingorghi in movimento*
 
-> Dall'Iracimimirm al Salvador lungo la Strada di Coconut è $60\text{ km}$. A $11{:}00$, un incidente provoca un ingorghi che si estende $15\text{ km}$ in direzione di Salvador e si muove a $4\text{ km/h}$. Lasciamo Iracimimirm a < MSK4/>, viaggiando a < MSK5/>; nella zona di jam la nostra velocità scende a < MSK6/>. A che ora arriviamo a Salvador?
+> Dall'Iracimimirm al Salvador lungo la Strada di Coconut è $60\text{ km}$. A $11{:}00$, un incidente provoca un ingorghi che si estende $15\text{ km}$ in direzione di Salvador e si muove a $4\text{ km/h}$. Lasciamo Iracimimirm a $11{:}00$, viaggiando a $60\text{ km/h}$; nella zona di jam la nostra velocità scende a $6\text{ km/h}$. A che ora arriviamo a Salvador?
 > 
 > A) $10\text{h}43\text{min}$ \quad B) $10\text{h}17\text{min}$ \quad C) $10\text{h}48\text{min}$ \quad D) $10\text{h}53\text{min}$ \quad E) $11\text{h}01\text{min}$
 

@@ -52,7 +52,7 @@ tags:
 
 *In centro sulla linea RT data RT parallela a DE nella configurazione di circolo*
 
-> Come mostrato nella figura. 2.1, $D$ è il punto medio dell'arco $BC$ del circoncircolo del triangolo $ABC$. $X$ si trova su un arco $BD$. $F$ è il punto medio dell'arco $AX$. $S$ si trova su un arco $AC$. < MSK9/> si interseca con < MSK10/> a < MSK11/>. < MSK12/> si interseca con < MSK13/> al punto < MSK14/>. Prova che se $RT \parallel DE$, il centro del triangolo $ABC$ si trova sulla linea $RT$.
+> Come mostrato nella figura. 2.1, $D$ è il punto medio dell'arco $BC$ del circoncircolo del triangolo $ABC$. $X$ si trova su un arco $BD$. $F$ è il punto medio dell'arco $AX$. $S$ si trova su un arco $AC$. $SD$ si interseca con $BC$ a $R$. $SE$ si interseca con $AX$ al punto $T$. Prova che se $RT \parallel DE$, il centro del triangolo $ABC$ si trova sulla linea $RT$.
 
 ![[src_cn_cmo_b11_w93__Q02.png]]
 

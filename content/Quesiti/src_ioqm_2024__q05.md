@@ -49,6 +49,6 @@ tags:
 
 *Calcolazione \ab-c per le espressioni simmetriche date in x,y,z*
 
-> < MSK0/>, < MSK1/> e < MSK2/>. Il valore di $|ab - c|$ è:
+> $a = \frac{x}{y} + \frac{y}{z} + \frac{z}{x}$, $b = \frac{x}{z} + \frac{z}{x} + \frac{y}{x}$ e $c = \left(\frac{x}{y} + \frac{y}{z}\right)\left(\frac{y}{z} + \frac{z}{x}\right)\left(\frac{z}{x} + \frac{x}{y}\right)$. Il valore di $|ab - c|$ è:
 
 [[src_ioqm_2024__Q05]]

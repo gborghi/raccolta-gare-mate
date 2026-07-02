@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many fruits per apple and pear of the same colour< MSK1/>
+*how many fruits per apple and pear of the same colour*
 
 > In a completely dark room, Simona randomly picks up the fruit from a basket containing 3 green apples, 5 yellow apples, 7 green pears and 2 yellow pears. How many fruits does Simona need to take to make sure she has at least an apple and a pear of the same color? A) 9
 > 	

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grams of yellow per 220 grams of green< MSK1/>
+*Grams of yellow per 220 grams of green*
 
 > The paint To obtain 700 grams of paint of a certain green gradation, 140 grams of blue, 210 grams of yellow and 350 grams of white must be mixed. To get 220 grams of paint of the same green grade, how many grams of yellow do you need to use? The answer is 0066.
 

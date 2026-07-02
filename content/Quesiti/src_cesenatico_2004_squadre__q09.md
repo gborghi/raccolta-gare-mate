@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little number of 3 distinct digits equal to the mean of permutations< MSK1/>
+*Little number of 3 distinct digits equal to the mean of permutations*
 
 > The torture chamber Each secret cell of the palace is numbered with a number of exactly three digits. The royal carpenter notices that the torture cell has the smallest of the three-digit numbers all distinct, which is equal to the arithmetic mean of the six numbers obtained by exchanging their numbers. What's this number?
 

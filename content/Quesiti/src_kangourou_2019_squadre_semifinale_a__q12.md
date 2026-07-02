@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Points reached by the flea after 30 jumps< MSK1/>
+*Points reached by the flea after 30 jumps*
 
-> Flea A square grid is obtained by approximating 100< MSK0/>100 identical square cells. A flea is located at the point in the center of the grid (top of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting top. After 30 jumps, how many different spots could you be in?
+> Flea A square grid is obtained by approximating 100×100 identical square cells. A flea is located at the point in the center of the grid (top of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting top. After 30 jumps, how many different spots could you be in?
 
 **Answer:** 0120
 [[src_kangourou_2019_squadre_semifinale_a__Q12]]

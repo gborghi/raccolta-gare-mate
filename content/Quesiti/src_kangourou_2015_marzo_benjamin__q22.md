@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how much < MSK1/>
+*how much *
 
 > Joan bought three toys. For the first one, he paid a euro more than half of what he had. She bought the second toy by adding 2 euros to half of her remaining money and by adding 3 euros to half of what she had left after buying the first two toys she bought the third. That's how he spent all his money. How many euros did you spend on everything? A) 34
 > 	

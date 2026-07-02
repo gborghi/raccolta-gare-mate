@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Poligono converso tagliato in pentagoni e triangoli, superficie più grande< MSK1/>
+*Poligono converso tagliato in pentagoni e triangoli, superficie più grande*
 
 > Un poligono convexo è tagliato dalle sue diagonali in un pentagono e dieci triangoli. Qual è il maggior numero di triangoli ottenuti che possono avere la stessa area?
 

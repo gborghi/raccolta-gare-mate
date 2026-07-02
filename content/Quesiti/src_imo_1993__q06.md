@@ -56,8 +56,8 @@ This is the total number of steps to be taken to achieve the desired results.
 > 
 > (a) There is a positive integer $M(n)$ such that after $M(n)$ all lamps are switched on again;
 > 
-> (b) If < MSK0/>, < MSK1/> may be taken;
+> (b) If $n = 2^k$, $M(n) = n^2 - 1$ may be taken;
 > 
-> (c) If < MSK0/>, you may take < MSK1/>.
+> (c) If $n = 2^k + 1$, you may take $M(n) = n^2 - n + 1$.
 
 [[src_imo_1993__Q06]]

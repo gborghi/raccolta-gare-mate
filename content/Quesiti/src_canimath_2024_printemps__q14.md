@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Geometria triangolare isosceles: BH bisecta angolo GEA; EF parallelo a BH< MSK1/>
+*Geometria triangolare isosceles: BH bisecta angolo GEA; EF parallelo a BH*
 
 > $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
 > 

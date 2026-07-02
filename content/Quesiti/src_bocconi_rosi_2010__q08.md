@@ -55,7 +55,7 @@ tags:
 
 *Count triangles in the figure*
 
-> < MSK0/>How many triangles do you see in the figure? < MSK1/>
+> **How many triangles do you see in the figure? **
 
 ![[src_bocconi_rosi_2010__Q08.png]]
 

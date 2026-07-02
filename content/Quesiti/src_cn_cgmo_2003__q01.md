@@ -55,7 +55,7 @@ tags:
 
 *ineguaglianze di superficie triangolare con rapporto x sul segmento DE*
 
-> Lasciate che $ABC$ sia un triangolo. I punti $D$ e $E$ sono rispettivamente sui lati $AB$ e $AC$, mentre il punto $F$ è sul segmento di linea $DE$. Let < MSK9/>. Provare che $$S_{\triangle CEF} = x(1-x)S_{\triangle ABC}$$ e $$\sqrt{S_{\triangle ABE}} + \sqrt{S_{\triangle ADF}} \le \sqrt{S_{\triangle ABC}}.$$
+> Lasciate che $ABC$ sia un triangolo. I punti $D$ e $E$ sono rispettivamente sui lati $AB$ e $AC$, mentre il punto $F$ è sul segmento di linea $DE$. Let $\frac{AD}{AC} = \frac{DF}{DE} = x$. Provare che $$S_{\triangle CEF} = x(1-x)S_{\triangle ABC}$$ e $$\sqrt{S_{\triangle ABE}} + \sqrt{S_{\triangle ADF}} \le \sqrt{S_{\triangle ABC}}.$$
 
 ![[src_cn_cgmo_2003__Q01.png]]
 

@@ -96,7 +96,7 @@ tags:
 \end{document}
 ```
 
-> In the regular pentagon drawn side by side, the ABC triangle is equilateral. How much is the convex angle < MSK0/>?
+> In the regular pentagon drawn side by side, the ABC triangle is equilateral. How much is the convex angle $\widehat{ECD}$?
 >
 > - **(A)** 120°
 > - **(B)** 144°

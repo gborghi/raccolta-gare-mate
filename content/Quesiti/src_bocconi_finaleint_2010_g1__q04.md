@@ -58,7 +58,7 @@ tags:
 
 *Number of faces to be glued by joining two excavators to minimize surface area.*
 
-> Each of these two objects consists of six cubes of MSK0/> centimetres of grain that have been assembled. After rotating and moving them, these two objects are glued together so that the surface of the newly obtained solid is minimal. How many faces do you have to glue? Two contact faces shall both be glue-spatched and only the faces to be glued shall be glue-spatched.
+> Each of these two objects consists of six cubes of$1$ centimetres of grain that have been assembled. After rotating and moving them, these two objects are glued together so that the surface of the newly obtained solid is minimal. How many faces do you have to glue? Two contact faces shall both be glue-spatched and only the faces to be glued shall be glue-spatched.
 
 ![[src_bocconi_finaleint_2010_g1__Q04.png]]
 

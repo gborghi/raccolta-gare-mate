@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'area superficiale del trofeo costituita da 5 cubetti impilati (10, 20, 30, 40, 50 cm) < MSK1/>
+*L'area superficiale del trofeo costituita da 5 cubetti impilati (10, 20, 30, 40, 50 cm) *
 
 > Un trofeo è costruito da cinque scatole cubiche con lunghezze laterali di 10 cm, 20 cm, 30 cm, 40 cm e 50 cm, apicate una sopra l'altra. Il cubo più grande si trova in basso, e ogni cubo più piccolo si concentra sulla faccia superiore di quello sotto di esso. In questo modo, ogni cubo viene saldato a quello di lato 10 cm più grande direttamente sotto di esso. L'intera superficie esterna di questo trofeo deve essere coperta da un certo tipo di rivestimento. Quanti metri quadrati di rivestimento sono necessari?
 > 

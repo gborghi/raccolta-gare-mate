@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>one +4 one -2 from true, quantities < MSK1/>
+*one +4 one -2 from true, quantities *
 
 > Five friends are trying to guess how many kangaroos live in the zoo. They assume, in the order of answer, that they are 5, 8, 9, 11, 12. One of these answers is 4 greater than the correct number, another is 2 less than the correct number. How many kangaroos live in the zoo? A) 6
 > 	

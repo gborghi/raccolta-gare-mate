@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of the bench (half-circles) < MSK1/>
+*Height of the bench (half-circles) *
 
 ![[src_kangourou_2004_junior__prob10.png]]
 

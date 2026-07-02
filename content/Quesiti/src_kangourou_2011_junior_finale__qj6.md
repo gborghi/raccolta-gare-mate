@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>For which m the ant comes out of the tiled box< MSK1/>
+*For which m the ant comes out of the tiled box*
 
 > An ant is trapped in a box whose floor is a square tiled with $m^2$ square tiles all on the same side and where the exit routes are only at the four vertices. The ant is located at the bottom left of the vertex and you can only move along the intercept of the tiles going right of one and up of one, then right of two and up of two, then right again of three and up of three and so on. When it encounters a wall, whether it has completed a straight line or not, it stops, turns $180°$ towards the inside of the box and starts moving again as described (i.e. moving from one tile to the right, then one up, then two to the right, and so on).
 > 

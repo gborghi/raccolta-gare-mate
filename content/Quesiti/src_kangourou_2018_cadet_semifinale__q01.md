@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which N value is not possible for chocolates< MSK1/>
+*Which N value is not possible for chocolates*
 
 > (Points 2) A certain N number of chocolates was divided among seven boys so that five of them all had the same number greater than 0, and, of the remaining two, one had twice the other. So N A) can't be 19.
 > 	

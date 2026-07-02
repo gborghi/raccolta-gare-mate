@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many real solutions< MSK1/>
+*how many real solutions*
 
 > Twenty soft square pillows are stacked on top of each other. Each pillow weighs 500 g and initially has a thickness of 30 cm. In the pile, however, the thickness of each pillow is reduced by 2 cm for each half kilogram of weight above it (1 cm for each half kilogram). How high is the pile?
 >

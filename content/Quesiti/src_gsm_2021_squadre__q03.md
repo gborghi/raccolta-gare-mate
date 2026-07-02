@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of reaching the summit with biforcations< MSK1/>
+*Probability of reaching the summit with biforcations*
 
 > In Carnia Sandro Campigotto Alessandro (Walking in front of the group, along a path that winds through the beautiful mountains of Carnia) Luigi, go ahead. At each turn, indicate the direction to take to reach the top of Col Quaternà. Luigi hastened his step, leaving the rest of the group behind. Luigi (arriving at the top of the Col Quaternà) Shit! The forks were 10, but I still have 3 indicator signals in my pocket. I'm going down. I knew I shouldn't be distracted by the view, but it's so beautiful! However, it's pretty obvious which side is the top. I'm really excited. I estimate that for every bifurcation without the signal, the group has a 20% chance of missing the path. What is the percentage probability that the group will reach the top based on Louis' assessment?
 

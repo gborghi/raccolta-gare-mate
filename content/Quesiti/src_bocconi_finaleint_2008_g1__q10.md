@@ -59,9 +59,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-*Maximum number of regions closed by tracing a regular pentagon and a regular hexagon not crossed.*
+*Maximum number of regions closed by tracing a regular pentagon and hexagon not crossed.*
 
-> By drawing an equilateral triangle and a square, a maximum of < MSK0/> closed regions in the plane are created. Mathias draws an uncrossed regular pentagon (figure at $5$ sides) and a regular hexagon (figure at $6$ sides). How many closed regions of the plan will you get, at most?
+> By drawing an equilateral triangle and a square, a maximum of $7$ closed regions in the plane are created. Mathias draws an uncrossed regular pentagon (figure at $5$ sides) and a regular hexagon (figure at $6$ sides). How many closed regions of the plan will you get, at most?
 
 ![[src_bocconi_finaleint_2008_g1__Q10.png]]
 

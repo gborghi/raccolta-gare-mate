@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many threads to remove for the necklace< MSK1/>
+*How many threads to remove for the necklace*
 
 ![[src_kangourou_2004_benjamin__prob24.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Numbers 1000..4000 with only odd digits< MSK1/>
+*Numbers 1000..4000 with only odd digits*
 
 > Odd numbers How many integers between 1,000 and 4,000 are composed of odd numbers only? The answer is 0250.
 

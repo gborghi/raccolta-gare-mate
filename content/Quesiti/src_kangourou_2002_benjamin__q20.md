@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of the weights of the five boys< MSK1/>
+*Summary of the weights of the five boys*
 
 > Five guys climb pairs on a scale in every possible combination. The weight of beds is, in kilograms: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding up the weights of the five boys gets
 >  

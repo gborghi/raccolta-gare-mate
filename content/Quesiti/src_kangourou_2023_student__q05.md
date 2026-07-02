@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two prime integers (exactly divisors 1,2,n) < MSK1/>
+*Two prime integers (exactly divisors 1,2,n) *
 
 > Let's say a positive integer n is 2prime if it admits exactly 3 distinct divisors, precisely 1, 2 and n itself. How many integers are the first two? A) 0 B) 1 C) 2 D) 3 E) 4
 

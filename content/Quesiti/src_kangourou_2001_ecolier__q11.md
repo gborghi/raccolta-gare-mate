@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most kangaroos with distinct candies< MSK1/>
+*Most kangaroos with distinct candies*
 
 > 20 candies are distributed among some kangaroos so that each kangaroo receives at least one candy and never two kangaroos have the same number of candies. How many kangaroos are at most present at the candy distribution?
 >

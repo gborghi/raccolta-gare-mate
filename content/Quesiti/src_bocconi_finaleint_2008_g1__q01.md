@@ -56,7 +56,7 @@ tags:
 
 *Counting of red cards in the right packet of a deck divided into two.*
 
-> Julien divided his deck of $32$ cards into two unequal packs of $19$ cards (left) and $13$ cards (right). The left packet contains $13$ black cards. How many red cards does the right pack contain? Note: a deck of < MSK4/> cards contains as many red cards as black cards.
+> Julien divided his deck of $32$ cards into two unequal packs of $19$ cards (left) and $13$ cards (right). The left packet contains $13$ black cards. How many red cards does the right pack contain? Note: a deck of $32$ cards contains as many red cards as black cards.
 
 **Answer:** 10 carte rosse
 [[src_bocconi_finaleint_2008_g1__Q01]]

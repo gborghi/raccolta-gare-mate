@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Millith decimal point of 3/7< MSK1/>
+*Millith decimal point of 3/7*
 
 > Michela would like to write the fraction 37 in decimal form . What number will take the thousandth place after the comma?
 >

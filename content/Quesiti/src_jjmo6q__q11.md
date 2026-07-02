@@ -71,7 +71,7 @@ tags:
 > 
 > - Ogni cellula rossa è adiacente ad almeno una cellula blu e ad almeno una cellula nera. - Ogni cellula blu è adiacente ad almeno una cellula nera e ad almeno una cellula rossa. - Ogni cellula nera è adiacente ad almeno una cellula rossa e ad almeno una cellula blu.
 > 
-> (Due cellule distinte sono chiamate < MSK0/>adiacenti< MSK1/> se condividono un lato.)
+> (Due cellule distinte sono chiamate **adiacenti** se condividono un lato.)
 > 
 > Rispondi alle seguenti domande:
 > 

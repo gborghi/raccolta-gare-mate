@@ -63,12 +63,12 @@ tags:
 
 *Edifici 1-100, piani = somma di cifre; quale dichiarazione è vera*
 
-> Una via ha $100$ edifici numerati da $1$ a $100$, dove gli edifici con numero pari sono sul lato destro della strada e gli edifici con numero imparso sono sul lato sinistro. La quantità di piani (andare) di ciascun edificio è pari alla somma dei numeri corrispondenti all'edificio. Pertanto, possiamo affermare che:
+> Una via ha $100$ edifici numerati da $1$ a $100$, dove gli edifici con numero pari sono sul lato destro della strada e gli edifici con numero odd sono sul lato sinistro. La quantità di piani (andare) di ciascun edificio è pari alla somma dei numeri corrispondenti all'edificio. Pertanto, possiamo affermare che:
 >
-> - **(A)** Il numero di edifici con più di < MSK0/> piani è maggiore sul lato destro della strada.
-> - **(B)** Il numero di edifici con meno di < MSK0/> piani è maggiore sul lato destro della strada.
-> - **(C)** Almeno la metà degli edifici ha < MSK0/> o più piani.
-> - **(D)** A entrambi i lati della strada ci sono la stessa quantità di edifici con esattamente < MSK0/> piani.
+> - **(A)** Il numero di edifici con più di $10$ piani è maggiore sul lato destro della strada.
+> - **(B)** Il numero di edifici con meno di $5$ piani è maggiore sul lato destro della strada.
+> - **(C)** Almeno la metà degli edifici ha $10$ o più piani.
+> - **(D)** A entrambi i lati della strada ci sono la stessa quantità di edifici con esattamente $8$ piani.
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
 **Risposta:** D

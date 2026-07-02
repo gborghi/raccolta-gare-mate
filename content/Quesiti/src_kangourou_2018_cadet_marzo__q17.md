@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum days for two consecutive days of sunshine< MSK1/>
+*Minimum days for two consecutive days of sunshine*
 
 > The advertisement for a hotel on an island in the Caribbean reads: 350 days of sunshine a year! If the advertisement's claim is true, how many days at least is it enough for Gianni Scottato to stay at the hotel in 2018, if he wants to be sure he has two consecutive days of sunshine? A) 17
 > 	

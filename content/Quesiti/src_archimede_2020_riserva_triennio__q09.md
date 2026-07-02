@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of thieves at tables bound to neighbours< MSK1/>
+*Minimum number of thieves at tables bound to neighbours*
 
 > On an island there are two categories of people: the knights (who always tell the truth) and the crooks (who always tell the lies). At a banquet, there are 9 tables with 3 people sitting, 8 tables with 4 people, 5 tables with 5 people and 10 tables with 6 (all round tables). Each of them says: The two people next to me are from two different categories. How many thieves can there be at the banquet?
 >

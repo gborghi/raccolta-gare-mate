@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How much weight does the basket of the ball weigh< MSK1/>
+*How much weight does the basket of the ball weigh*
 
 > A balloon can lift a basket if it contains material weighing no more than 80 kilograms. Two balloons attached to the same basket can lift it if it contains material weighing no more than 180 kilograms. How many kilos does the basket weigh? A) 10 B) 20 C) 30 D) 40 E) 50
 

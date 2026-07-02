@@ -60,9 +60,9 @@ tags:
 
 *Funzione a intervallo dalle radici quadratiche; disuguaglianza max-min e trigonale*
 
-> Supponiamo che $\alpha$ e $\beta$ siano radici reali diverse dell'equazione $4x^2 - 4tx - 1 = 0$ ($t \in \mathbf{R}$). $[\alpha,\, \beta]$ è il dominio della funzione $f(x) = \dfrac{2x - t}{x^2 + 1}$.
+> Supponiamo che $\alpha$ e $\beta$ siano diverse radici reali dell'equazione $4x^2 - 4tx - 1 = 0$ ($t \in \mathbf{R}$). $[\alpha,\, \beta]$ è il dominio della funzione $f(x) = \dfrac{2x - t}{x^2 + 1}$.
 > 
-> (1) Trova < MSK0/>.
+> (1) Trova $g(t) = \max f(x) - \min f(x)$.
 > 
 > (2) Prova che per $u_i \in \left(0,\, \dfrac{\pi}{2}\right)$ ($i = 1,\, 2,\, 3$), se $\sin u_1 + \sin u_2 + \sin u_3 = 1$, allora $$\frac{1}{g(\tan u_1)} + \frac{1}{g(\tan u_2)} + \frac{1}{g(\tan u_3)} < \frac{3}{4}\sqrt{6}.$$
 

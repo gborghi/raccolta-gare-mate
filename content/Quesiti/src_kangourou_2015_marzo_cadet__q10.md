@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>spins in 5 seconds< MSK1/>
+*spins in 5 seconds*
 
 > A cyclist pedals at a speed of five meters per second. The circumference of each wheel of his bicycle is 250 cm long. In five seconds, how many complete spins does each wheel make? A) 2
 >  	

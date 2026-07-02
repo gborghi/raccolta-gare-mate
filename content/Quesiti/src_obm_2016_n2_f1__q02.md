@@ -55,7 +55,7 @@ tags:
 
 *Posizione di Josias in una linea data alle persone prima e dopo*
 
-> Lasciate che la posizione di Josias in una riga sia $x$. Poi arrivarono persone prima di lui e persone dopo. Determinare < MSK3/>. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Lasciate che la posizione di Josias in una riga sia $x$. Poi arrivarono persone prima di lui e persone dopo. Determinare $x$. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
 [[src_obm_2016_n2_f1__Q02]]

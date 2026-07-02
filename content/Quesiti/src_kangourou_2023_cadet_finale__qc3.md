@@ -45,7 +45,7 @@ tags:
 
 The following information shall be provided:
 
-> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of MSK1/> is an integer number of kilograms. However, the average weight of $S$ items would remain an integer number of kilograms if you replaced each $S$ item weighing 2, 3 or 4 kilograms, respectively, with an item weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of < MSK4/> objects?
+> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of$S$ is an integer number of kilograms. However, the average weight of $S$ objects would remain an integer number of kilograms if you replaced each $S$ object weighing 2, 3 or 4 kilograms, respectively, with an object weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of $S$ objects?
 
 **Answer:** 3
 [[src_kangourou_2023_cadet_finale__QC3]]

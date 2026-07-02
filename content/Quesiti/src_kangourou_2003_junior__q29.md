@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Min moves change chess colour 2x3< MSK1/>
+*Min moves change chess colour 2x3*
 
 ![[src_kangourou_2003_junior__prob29.png]]
 

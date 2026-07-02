@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many figures overlap < MSK1/>
+*how many figures overlap *
 
 ![[src_kangourou_2022_koala__prob16.png]]
 

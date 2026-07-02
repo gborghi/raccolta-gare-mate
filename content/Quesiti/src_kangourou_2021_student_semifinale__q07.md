@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of diameters impossible< MSK1/>
+*sum of diameters impossible*
 
 > (5 points) Using high-precision tools, a single square of 10 cm on the side can be cut into circles such that, added together, their diameters in centimetres are obtained. j)  15. h)  10 π.
 >  

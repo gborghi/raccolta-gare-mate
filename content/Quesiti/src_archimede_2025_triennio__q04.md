@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tri-digit integers m with f(m) = f(m-1) +25, sum and product of digits< MSK1/>
+*Tri-digit integers m with f(m) = f(m-1) +25, sum and product of digits*
 
 > In the isosceles triangle DEF, where DE = EF, the angle  E is 32°. The height from D and the beam from F intersect at point I. What is the width of the convex angle  DIF ?
 >

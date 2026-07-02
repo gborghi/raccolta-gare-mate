@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Today's age of the problem child over double age< MSK1/>
+*Today's age of the problem child over double age*
 
 > The father says to his son, "In two years, when you are twice as old as you were 'in 20 years,' the father will be twice as old as you were". What is the child's current age?
 

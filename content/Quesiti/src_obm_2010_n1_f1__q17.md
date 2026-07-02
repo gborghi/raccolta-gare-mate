@@ -61,7 +61,7 @@ tags:
 
 *Area di piastrelle rettangolari con 17 quadrati di unità bianche in angolo *
 
-> La figura rappresenta un angolo di una piastra rettangolare fatta di quadrati unitari (lato $1\,\text{cm}$). In questo tessuto $17$ i quadrati sono bianchi. Qual è la superficie della piastrella, in < MSK2/>?
+> La figura rappresenta un angolo di una piastra rettangolare fatta di quadrati unitari (lato $1\,\text{cm}$). In questo tessuto $17$ i quadrati sono bianchi. Qual è la superficie della piastrella, in $\text{cm}^2$?
 > 
 > (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
 

@@ -35,11 +35,6 @@ tags:
 
 > Quanti di questi quadrati sono scomposti dalla linea tracciata al loro interno in due 
 > forme non sovrapponibili?
->  	
->  	
-> 	
->  	
->  
 > A) Nessuno. 	
 >  B) 1	
 > 	

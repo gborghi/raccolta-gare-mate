@@ -65,6 +65,6 @@ tags:
 
 > La funzione $f$ è definita sull'insieme di integri positivi da $f(1) = 1$, $f(2) = 2$ e $$f(n+1) = (1 + (2n + 1)f(n))f(n-1)$$ per $n \geq 2$.
 > 
-> (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi < MSK1/> è < MSK2/>?
+> (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi $2007$ è $f(n) = 2n$?
 
 [[src_bmo_2007-08_round1__Q06]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Olimpiade: 15% nessuna, 25% parziale, 156 risolti tutti; trovare il totale dei partecipanti< MSK1/>
+*Olimpiade: 15% nessuna, 25% parziale, 156 risolti tutti; trovare il totale dei partecipanti*
 
 > In un test olimpiatico, $15\%$ degli studenti non ha risolto alcun problema, $25\%$ ha risolto almeno un problema ma ha commesso qualche errore, e il resto, $156$ degli studenti, ha risolto tutti i problemi correttamente. Il numero di studenti che hanno partecipato alle Olimpiadi è stato:
 > 

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>grey area< MSK1/>
+*grey area*
 
 ![[src_kangourou_2016_cadet_marzo__prob8.png]]
 

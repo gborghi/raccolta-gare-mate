@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Massimi cubetti impilati in modo che i vicini differiscano di colore< MSK1/>
+*Massimi cubetti impilati in modo che i vicini differiscano di colore*
 
 > Fabiana ha 55 cubetti della stessa dimensione, cioè 10 rossi, 15 blu e 30 verdi. Lei vuole costruire una torre impilando questi cubetti in modo tale che due cubetti vicini abbiano colori diversi. Quanti cubetti può mettere a piombo?
 >

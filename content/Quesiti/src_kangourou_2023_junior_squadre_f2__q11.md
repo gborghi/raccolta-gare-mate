@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n with side Qn greater than 2022< MSK1/>
+*Minimum n with side Qn greater than 2022*
 
 > The squares A Q0 square on side 3 is covered by a Q1 square (different from Q0) whose sides each contain a Q0 vertex. The same is done by covering Q1 with a Q2 square (different from Q1) whose sides each contain a Q1 vertex. This is sometimes done by following this rule until you get a Qn square. If the squares after Q0 are chosen appropriately, what is the smallest value of n such that the length of the Qn side exceeds 2022?
 

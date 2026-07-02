@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White squares in the tenth square< MSK1/>
+*White squares in the tenth square*
 
 > The squares in the answers were partially grey. In which of them is the colored part greater?
 >

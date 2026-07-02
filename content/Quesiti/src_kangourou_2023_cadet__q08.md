@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> which are in conflict< MSK1/>
+* which are in conflict*
 
 ![[src_kangourou_2023_cadet__prob8.png]]
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight in the same weight group of 9 units< MSK1/>
+*Weight in the same weight group of 9 units*
 
 > Over a century ago, a drug dealer weighed the goods using a two-plate scale and 12 weights: the lighter one-hectare weight and the others weighing a larger one-hectare weight. The druggist divided the weights into three groups of four weights each: the total weight of one of the three groups was 41 hectares, the weight of another group 26 hectares. Which of the following weights was in the same 9 hectare weight group? A) 3 hg B) 5 hg C) 7 hg D) 8 hg E) 10 hg
 >

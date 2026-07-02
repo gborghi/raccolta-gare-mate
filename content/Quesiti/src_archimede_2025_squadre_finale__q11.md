@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>As a reference to the calculator (a^3+1)/(a+1)^3< MSK1/>
+*As a reference to the calculator (a^3+1)/(a+1)^3*
 
 > Belljeet's favorite problem The time machine builders, φ-neas and Ferbmat don't realize Belljeet's stuck in a tree, but luckily there's someone ready to help him! Hey, look at this! I have a calculator and your favorite math problem! Do you remember that? It speaks of a real number such that a2 +1 23 = (a+1)2 11 . I'm sure you will. He asked to find the value of a3 +1 (a+1)3. What's the answer to Belljeet's favorite problem? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

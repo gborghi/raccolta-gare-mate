@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n initial of the solitary (fraction operation) < MSK1/>
+*n initial of the solitary (fraction operation) *
 
 > A very widespread droid loner works like this. First, you have to choose a number n, and save the following numbers in memory (in order): 1, 1 2, 1 3, . . . , 1 n. Then proceed in this way, until only one number remains: the first two numbers a and b in the list are deleted, and the new number ab (a+1) (b+1)−1 is saved in memory at the bottom of the list. In a moment of leisure the droid BB-∞ makes a solo match, getting 1 229 as the final number. How much is the number n chosen initially?
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contate i numeri interi positivi n <= 31! con 3^n + n divisibile per 31*
+*Contate i numeri interi positivi n <= 31! con 3^n + n divisibile per 31*
 
 > Determinare il numero di integri positivi $n$ inferiori o uguali a $31!$ in modo tale che $3^n+n$ sia divisibile da $31$.
 

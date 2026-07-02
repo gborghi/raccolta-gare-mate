@@ -64,106 +64,11 @@ tags:
 > Nelle tre figure puoi osservare tre quadrati grandi, ognuno suddiviso in quadrati più piccoli secondo la regola seguente: passando da un quadrato
 > grande al successivo, il quadrato in alto a destra viene suddiviso in 4
 > quadrati più piccoli. Se non conteggiamo i quadrati che sono suddivisi
-> * 
-> * 
-> * 
-> * 
-> * 
-> *
-> *
-> *
-> *
-> * 
 >  
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> *
-> *
-> *
-> *
-> * 
 >  
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> *
-> *
-> *
-> *
-> * 
 >  
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> *
-> *
-> *
-> *
-> *
-> *
-> *
-> *
-> *
-> *
 >  
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> *
-> *
-> *
-> *
-> * 
 >  
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
 > Testi_08.qxp  9-03-2008  14:56  Pagina 5
 > 
 > Pag. 

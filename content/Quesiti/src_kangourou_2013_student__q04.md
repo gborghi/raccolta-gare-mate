@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of the cubic root of 3^(3^3) < MSK1/>
+*Value of the cubic root of 3^(3^3) *
 
 > The cubic root of 3 is A) 33
 > 	

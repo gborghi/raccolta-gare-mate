@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Max studenti che hanno votato sul rinvio degli esami di matematica< MSK1/>
+*Max studenti che hanno votato sul rinvio degli esami di matematica*
 
 > In una classe, l'insegnante ha tenuto un voto per decidere se l'esame di matematica sarebbe stato rinviato o meno. Tutti gli studenti hanno votato e, di conseguenza, un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e poi hanno votato di nuovo; 8 studenti hanno cambiato idea, così che $\frac{5}{9}$ degli studenti hanno finito per essere contro il rinvio. Quanti studenti hanno partecipato al voto?
 

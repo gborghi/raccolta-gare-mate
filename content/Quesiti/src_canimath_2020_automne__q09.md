@@ -53,7 +53,7 @@ tags:
 
 *Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu) *
 
-> Alexie e Baptiste possiedono entrambi un edificio. Ogni piano dell'edificio di Alexie ha bagni e camere da letto. Baptiste, per quanto riguarda lui, dispone di $4$ bagni e $3$ camere da letto per piano. Ci sono in totale < MSK4/> bagni e < MSK5/> camere da letto. Trova il numero di piani degli edifici di Alexie e Baptiste.
+> Alexie e Baptiste possiedono entrambi un edificio. Ogni piano dell'edificio di Alexie ha bagni e camere da letto. Baptiste, per quanto riguarda lui, dispone di $4$ bagni e $3$ camere da letto per piano. Ci sono in totale $25$ bagni e $18$ camere da letto. Trova il numero di piani degli edifici di Alexie e Baptiste.
 > 
 > *Solo una risposta numerica è prevista qui.*
 

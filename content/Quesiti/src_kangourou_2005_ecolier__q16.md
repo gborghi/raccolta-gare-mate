@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>False claim on cats and dogs with fears< MSK1/>
+*False claim on cats and dogs with fears*
 
 > There's two cats in the house, Tiny and Tony, and two dogs, Dim and Dill. Tiny's afraid of both dogs, while Tony's afraid of Dim, but not Dill. What statement (referring to these cats and dogs) is false? A) Every cat is afraid of some dog. B) There is a cat that is not afraid of at least one dog. C) There's a dog that scares both cats. D) Every dog scares at least one cat. E) There's a dog that doesn't scare any of the cats. P 1 2 ... The Commission has not yet decided whether to proceed with the adoption of a decision on the application of this Regulation.
 > 

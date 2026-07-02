@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>Maximum blackened grid boxes 7< MSK0/>7 without three consecutive < MSK2/>
+*Maximum blackened grid boxes 7×7 without three consecutive *
 
-> What is the maximum number of boxes that can be blackened in the < MSK0/> grid of the figure without ever forming three consecutive boxes, aligned horizontally or vertically?
+> What is the maximum number of boxes that can be blackened in the $7 \times 7$ grid of the figure without ever forming three consecutive boxes, aligned horizontally or vertically?
 
 ![[src_bocconi_autunno_2008__Q15.png]]
 

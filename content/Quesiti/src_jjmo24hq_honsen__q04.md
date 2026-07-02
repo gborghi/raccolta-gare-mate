@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimizzare il rapporto max/min sotto restrizione di prodotto ciclica< MSK1/>
+*Minimizzare il rapporto max/min sotto restrizione di prodotto ciclica*
 
 > I numeri reali positivi $x_1, x_2, \dots, x_{2026}$ soddisfano $$(x_1 + x_2)(x_2 + x_3) \cdots (x_{2025} + x_{2026})(x_{2026} + x_1) = 3^{2026}\, x_1 x_2 \cdots x_{2026}.$$ $M$ sia il valore massimo tra $x_1, x_2, \dots, x_{2026}$, e $m$ sia il valore minimo. Trova il minimo valore possibile di $\dfrac{M}{m}$.
 

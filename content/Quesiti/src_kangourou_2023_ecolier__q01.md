@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which first went off< MSK1/>
+*which first went off*
 
 ![[src_kangourou_2023_ecolier__prob1.png]]
 

@@ -48,11 +48,11 @@ tags:
 
 *Which beam to increase for maximum volume increase*
 
-> A straight parallel piped has lengths of $a$, $b$, $c$, with $a < b < c$. If the length of one of the shoulders is increased by a quantity < MSK4/>, then the volume of the paralelepiped increases. In which of the following cases does the volume increase the most?
+> A straight parallel piped has lengths of $a$, $b$, $c$, with $a < b < c$. If the length of one of the shoulders is increased by a quantity $q$, then the volume of the paralelepiped increases. In which of the following cases does the volume increase the most?
 >
-> - **(A)** When increased < MSK0/>
-> - **(B)** when < MSK0/> is increased
-> - **(C)** when < MSK0/> is increased
+> - **(A)** When increased $a$
+> - **(B)** when $b$ is increased
+> - **(C)** when $c$ is increased
 > - **(D)** The increase is the same in any case.
 > - **(E)** depends on the specific values of $a$, $b$, $c$.
 

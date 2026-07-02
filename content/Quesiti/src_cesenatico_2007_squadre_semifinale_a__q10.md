@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fragment area larger than the broken kunai (AC=26) < MSK1/>
+*Fragment area larger than the broken kunai (AC=26) *
 
 > The kunai is one of the basic weapons used by all mateninja; its blade has a particular shape: it is a quadrilateral made so that its smaller diagonal divides it into two isosceles triangles, each with the diagonal as its base. We call A, B, C, D the tips of the blade of a kunai, with A and C the extremes of the minor diagonal; then the traditional measures of the village blacksmith of the Retta predict that ABC = 30°, CDA = 90° and that the AC segment is 26 mat-bu long. Numeritus' kunai broke in combat along the straight line passing for A and perpendicular to AD. What is the surface area of the largest blade fragment measured in mat-bu2?
 

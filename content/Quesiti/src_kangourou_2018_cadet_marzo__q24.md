@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many metres and width of the pool< MSK1/>
+*How many metres and width of the pool*
 
 ![[src_kangourou_2018_cadet_marzo__prob24.png]]
 

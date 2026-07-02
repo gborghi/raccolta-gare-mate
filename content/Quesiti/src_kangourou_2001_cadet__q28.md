@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of children with a product age 1664< MSK1/>
+*Number of children with a product age 1664*
 
 > The product of the ages of my children (in years) is 1664. The youngest is half the age of the oldest, and there are no twins. How many kids do I have?
 >

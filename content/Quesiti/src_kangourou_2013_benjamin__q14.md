@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fished if tripled would give 12 more < MSK1/>
+*Fished if tripled would give 12 more *
 
 > Matteo went fishing. If he had caught three times the fish he caught, he would have caught 12 more. How many fish have you caught? A) 7
 >         	

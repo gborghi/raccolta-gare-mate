@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Il codice di probabilità A viene utilizzato nella settimana 7 dato che è stato utilizzato nella settimana 1< MSK1/>
+*Il codice di probabilità A viene utilizzato nella settimana 7 dato che è stato utilizzato nella settimana 1*
 
 > Una stazione di informazione utilizza quattro codici diversi, $A$, $B$, $C$ e $D$, per la comunicazione, ma ogni settimana ne utilizza solo uno. Il codice utilizzato in una settimana determinata viene selezionato in modo casuale con pari probabilità tra i tre che non sono stati utilizzati nell'ultima settimana. Supponiamo che il codice utilizzato nella prima settimana sia $A$. La probabilità che $A$ venga utilizzato anche nella settima settimana è quindi __________ (espressa come frazione irriducibile).
 

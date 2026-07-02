@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integres 0..10 with four digits 4< MSK1/>
+*Integres 0..10 with four digits 4*
 
 > Four 4 Michele noted that 7 can be obtained as 44: 4  4. How many of the eleven integers from 0 to 10 included can be obtained by writing for each exactly four times the number 4 and using appropriately some of the four operations (addition, subtraction, multiplication, division)?
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>BAD d'angolo in dodicagone regolare< MSK1/>
+*BAD d'angolo in dodicagone regolare*
 
 > La figura accanto rappresenta un dodicagono regolare. Qual è la misura dell'angolo $\angle BAD$?
 > 

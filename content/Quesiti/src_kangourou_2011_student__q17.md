@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Any statement on the parable may be false< MSK1/>
+*Any statement on the parable may be false*
 
 ![[src_kangourou_2011_student__prob17.png]]
 

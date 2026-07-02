@@ -49,6 +49,6 @@ tags:
 
 *Bissettore angolare, tangente di circoncircolo, uguale angolo di intersezione di circoncircolo*
 
-> $ABC$ sia un triangolo acuto e $M$ il punto medio del lato $BC$. $\ell$ sia il bisettore angolare di $\angle BAC$, e $D$ sia l'intersezione di $\ell$ con la tangente al circoncircolo del triangolo $ABC$ a $C$. Il $H$ deve essere un punto su $\ell$ tale che $\angle ABH = 90^\circ$. Il $P$ è il secondo punto di intersezione (diverso dal $C$) del circoncircolo del triangolo $CDH$ e del circoncircolo del triangolo $ABC$. Prova che < MSK16/>.
+> $ABC$ sia un triangolo acuto e $M$ il punto medio del lato $BC$. $\ell$ sia il bisettore angolare di $\angle BAC$, e $D$ sia l'intersezione di $\ell$ con la tangente al circoncircolo del triangolo $ABC$ a $C$. Il $H$ deve essere un punto su $\ell$ tale che $\angle ABH = 90^\circ$. Il $P$ deve essere il secondo punto di intersezione (diversi da $C$) del circoncircolo del triangolo $CDH$ e del circoncircolo del triangolo $ABC$. Prova che $\angle CPM = \angle ACB$.
 
 [[src_selection_camp_2016__Q01]]

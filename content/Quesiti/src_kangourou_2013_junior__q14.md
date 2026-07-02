@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of girls with average increments< MSK1/>
+*Percentage of girls with average increments*
 
 > In a classroom, where there are both boys and girls, a test was carried out. If each of the boys had scored three more points in their test, the average class score would have increased by 1.2 points. What percentage of the students in that class are girls? A) 75% B) 60% C) 50% D) 40% E) 25%
 

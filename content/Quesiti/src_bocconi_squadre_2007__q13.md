@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum path along the faces of the parallel piped from A to B< MSK1/>
+*Minimum path along the faces of the parallel piped from A to B*
 
-> What is the shortest path for an ant in < MSK0/> and wants to reach the point < MSK1/>, moving along the faces of the paralelepipedo in the figure? (You have to approximate the solution by default, rounding to the first decimal point.)
+> What is the shortest path for an ant in $A$ and wants to reach the point $B$, moving along the faces of the paralelepipedo in the figure? (You have to approximate the solution by default, rounding to the first decimal point.)
 
 ![[src_bocconi_squadre_2007__Q13.png]]
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Nando's age by root system< MSK1/>
+*Nando's age by root system*
 
 > Nando's age is equal to that of Deborah's increased cubic root of Jacob's age. Deborah's is equal to Jacob's age increased by the cubic root of Nando's age. Jacob's is equal to the cubic root of Nando's age increased by the square root of Deborah's age. How old is Nando?
 

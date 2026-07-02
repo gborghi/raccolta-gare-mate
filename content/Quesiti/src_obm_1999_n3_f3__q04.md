@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prezzi di Kriptonita città antipodal differiscono di non più di 100 Urghs< MSK1/>
+*Prezzi di Kriptonita città antipodal differiscono di non più di 100 Urghs*
 
 > Il pianeta $\textit{Zork}$ è sferico e ha molte città. Per ciascuna città esiste una città antipodal (cioè simmetrica rispetto al centro del pianeta). In $\textit{Zork}$ le strade collegano coppie di città $P$ e $Q$; vi è anche una strada che collega le città $P'$ e $Q'$, dove $P'$ è la città antipodal di $P$ e $Q'$ è la città antipodal di $Q$. Inoltre, le strade non si attraversano e tra due città $P$ e $Q$ è sempre possibile viaggiare da $P$ a $Q$ lungo una certa sequenza di strade.
 > 

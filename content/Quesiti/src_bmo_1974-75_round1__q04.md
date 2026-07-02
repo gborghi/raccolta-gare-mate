@@ -55,6 +55,6 @@ tags:
 
 > Tre linee parallele $AD$, $BE$ e $CF$ sono tracciate attraverso le vertici del triangolo $ABC$ che si incontrano sui lati opposti rispettivamente in $D$, $E$ e $F$.
 > 
-> I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di < MSK10/>.
+> I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di $k$.
 
 [[src_bmo_1974-75_round1__Q04]]

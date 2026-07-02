@@ -72,9 +72,9 @@ tags:
 > 
 > a) Qual è l'area del quadrato più grande della figura $2$?
 > 
-> b) Qual è la superficie totale della figura < MSK0/>?
+> b) Qual è la superficie totale della figura $2$?
 > 
-> c) Qual è la superficie totale della figura < MSK0/>?
+> c) Qual è la superficie totale della figura $6$?
 
 ![[src_obm_2016_n2_f3__Q02.png]]
 

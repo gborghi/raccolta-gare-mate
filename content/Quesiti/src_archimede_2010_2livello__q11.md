@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum balls to be extracted per product multiple of 12< MSK1/>
+*Minimum balls to be extracted per product multiple of 12*
 
 > In a box, there are 20 balls numbered from 1 to 20. Each number is present in one and only one of these balls. How many different balls do we have to extract at least, to be sure that the product of their numbers is a multiple of 12?
 >

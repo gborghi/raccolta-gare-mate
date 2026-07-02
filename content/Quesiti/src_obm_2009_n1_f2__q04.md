@@ -58,7 +58,7 @@ tags:
 
 *Coperta un tavolo di 88 cm x 95 cm con fogli quadrati di 10 cm; trova la superficie coperta da quattro fogli sovrapposti*
 
-> Mariazinha vuole coprire la parte superiore di una tavola rettangolare di $88$ cm di $95$ cm con fogli quadrati di cartone di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli sono tagliati a partire da un rollo di < MSK3/> cm di larghezza e collocati in file, senza superposizioni, fino a raggiungere i confini. Poiché i fogli non devono superare i bordi, sono piegati sopra i confini, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigia scura). Qual è l'area della regione coperta da quattro fogli?
+> Mariazinha vuole coprire la parte superiore di una tavola rettangolare di $88$ cm di $95$ cm con fogli quadrati di cartone di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli sono tagliati a partire da un rollo di $10$ cm di larghezza e collocati in file, senza superposizioni, fino a raggiungere i confini. Poiché i fogli non devono superare i bordi, sono piegati sopra i confini, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigia scura). Qual è l'area della regione coperta da quattro fogli?
 
 ![[src_obm_2009_n1_f2__Q04.png]]
 

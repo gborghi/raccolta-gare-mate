@@ -55,6 +55,6 @@ tags:
 
 *Ribbito su voci diagonali di array in aumento $n\times n$*
 
-> Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti per formare un array $n$ da $n$ composto da righe $n$ e colonne $n$ in modo tale che i numeri di ogni riga (da sinistra a destra) e di ogni colonna (da cima a sotto) siano in ordine crescente. Indicare con $a_{jk}$ il numero nella riga $j$-th e nella colonna $k$-th. Supponiamo che $b_j$ sia il numero massimo possibile di voci che possono verificarsi come $a_{jj}$, $1 \le j \le n$. Provare che < MSK0/>
+> Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti per formare un array $n$ da $n$ composto da righe $n$ e colonne $n$ in modo tale che i numeri di ogni riga (da sinistra a destra) e di ogni colonna (da cima a sotto) siano in ordine crescente. Indicare con $a_{jk}$ il numero nella riga $j$-th e nella colonna $k$-th. Supponiamo che $b_j$ sia il numero massimo possibile di voci che possono verificarsi come $a_{jj}$, $1 \le j \le n$. Provare che $$b_1 + b_2 + \cdots + b_n \le \frac{n}{3}(n^2 - 3n + 5).$$
 
 [[src_inmo_2002__Q06]]

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Impossible order in which the pancakes are eaten< MSK1/>
+*Impossible order in which the pancakes are eaten*
 
 > Lucia prepared six pancakes and engraved a number from 1 to 6 on each, then cooked them in the order indicated by the number. While she was working (but we don't know when and how many times), her children walked into the kitchen and ate the hottest pancakes each time. Which of the following cannot be the order in which the pancakes were eaten? A) 456231 B) 125436 C) 325461 D) 123456 E) 654321
 

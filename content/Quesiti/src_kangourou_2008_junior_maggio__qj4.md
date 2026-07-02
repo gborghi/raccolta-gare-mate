@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum straight for all angles of 10.90 degrees< MSK1/>
+*Minimum straight for all angles of 10.90 degrees*
 
 > They want to be drawn in a plane of lines so that between them they are sure to form angles of each of the following measures: $10^\circ$, $20^\circ$, $30^\circ$, $40^\circ$, $50^\circ$, $60^\circ$, $70^\circ$, $80^\circ$, $90^\circ$. What is the smallest number of lines that fulfill this requirement?
 

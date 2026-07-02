@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Capacity of small cubic container< MSK1/>
+*Capacity of small cubic container*
 
 > I have two cube-shaped containers; the larger side is a tenth of a meter longer than the other side. The big one is full of water, the other one is empty. If I turn the water from the big container to the small one until it's filled, the big container has 217 liters of water left. What is the capacity of the small container in litres? A) 343 B) 125 C) 1331 D) 729 E) A value different from the previous ones
 

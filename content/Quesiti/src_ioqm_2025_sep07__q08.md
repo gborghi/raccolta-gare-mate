@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Colore 4 vertici di quadrilaterali con 4 colori; lati e diagonali AC ottengono punti terminali di colore diverso< MSK1/>
+*Colore 4 vertici di quadrilaterali con 4 colori; lati e diagonali AC ottengono punti terminali di colore diverso*
 
 > Un quadrilaterale ha quattro vertici $A, B, C, D$. Vogliamo colorare ogni vertice in uno dei quattro colori rosso, blu, verde o giallo, in modo che ogni lato del quadrilaterale e la diagonale $AC$ abbiano punti terminali di diversi colori. In quanti modi possiamo farlo?
 

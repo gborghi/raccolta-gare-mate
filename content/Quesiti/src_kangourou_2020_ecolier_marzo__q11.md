@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many bones reaches the tied dog (leash 11m) < MSK1/>
+*How many bones reaches the tied dog (leash 11m) *
 
 ![[src_kangourou_2020_ecolier_marzo__prob11.png]]
 

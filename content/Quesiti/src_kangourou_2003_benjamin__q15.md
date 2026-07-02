@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Red-tape trees< MSK1/>
+*Red-tape trees*
 
 > There are 46 trees along the road from Louis' house to the pool. Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. Allandata marked the first tree and then the second of each pair of trees she encountered; on her return she marked the first tree and then the third of each trunk of trees she encountered. After that, how many trees have the red ribbon? A) 16 B) 23 C) 24 D) 30 E) 31
 

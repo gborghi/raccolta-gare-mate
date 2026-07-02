@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Estimate of x = 99 minus 70 roots of 2< MSK1/>
+*Estimate of x = 99 minus 70 roots of 2*
 
-> Whether x = 99 −70 < MSK0/> 2. So, what?
+> Whether x = 99 −70 √ 2. So, what?
 >
 > - **(A)** x ≤−1 100
 > - **(B)** −1 100 < x < 0

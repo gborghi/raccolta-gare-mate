@@ -60,7 +60,7 @@ tags:
 
 *Triangolo semicircolo e triangolo di isosceles della stessa superficie; trovare tan(x) *
 
-> Il disegno di seguito mostra un semicircolo e un triangolo di isosceles della stessa area. Qual è il valore di < MSK0/>?
+> Il disegno di seguito mostra un semicircolo e un triangolo di isosceles della stessa area. Qual è il valore di $\tan x^\circ$?
 > 
 > (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
 

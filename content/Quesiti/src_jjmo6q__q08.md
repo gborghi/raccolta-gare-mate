@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca le dimensioni delle classi date le restrizioni e i numeri di coltivazione di tulipani 52, 64< MSK1/>
+*Ricerca le dimensioni delle classi date le restrizioni e i numeri di coltivazione di tulipani 52, 64*
 
 > Una scuola media decise di far piantare i tulipani agli studenti. Ogni studente pianta almeno una lampadina. Gli studenti della stessa classe piantano lo stesso numero di lampadine, e ogni studente pianta lo stesso numero di lampadine come gli studenti di altre classi. Il numero totale di lampadine che possono essere piantate è massimo $100$; il numero di lampadine il cui totale è inferiore a $100$ è $6$, e i due numeri più piccoli sono $52$ e $64$.
 > 

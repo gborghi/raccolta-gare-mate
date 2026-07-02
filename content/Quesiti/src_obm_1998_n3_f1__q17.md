@@ -61,19 +61,19 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Due radio vendute a prezzi uguali, una con profitto del 25% e un'altra con perdita del 25%; trovare il risultato netto sul capitale investito.*
+*Due radio vendute a prezzi uguali, una con profitto del 25% e una con perdita del 25%; trovare il risultato netto sul capitale investito.*
 
 > Ho venduto due radio a prezzi uguali. Su una di esse ho ottenuto un profitto di $25\%$ sul prezzo di acquisto, e sull'altra una perdita di $25\%$. Per quanto riguarda il capitale investito:
 > 
 > A) Non avevo né profitto né perdita
 > 
-> B) Ho ottenuto un profitto di < MSK0/>
+> B) Ho ottenuto un profitto di $6{,}25\%$
 > 
-> C) Ho ottenuto un profitto di < MSK0/>
+> C) Ho ottenuto un profitto di $16\%$
 > 
-> D) Ho perso < MSK0/>
+> D) Ho perso $6{,}25\%$
 > 
-> E) Ho perso < MSK0/>
+> E) Ho perso $16\%$
 
 **Risposta:** D
 [[src_obm_1998_n3_f1__Q17]]

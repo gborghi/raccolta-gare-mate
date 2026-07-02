@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La maggior quantità di cioccolatini non esattamente acquistabili da scatole di 8,9,10 < MSK1/>
+*La maggior quantità di cioccolatini non esattamente acquistabili da scatole di 8,9,10 *
 
 > In un negozio di cioccolato ci sono scatole di cioccolati 8, 9 e 10. Si noti che non si possono acquistare esattamente alcune quantità; ad esempio, non si possono acquistare esattamente 12 cioccolatini. Qual è la maggior quantità di cioccolati che non si possono acquistare esattamente in questo negozio?
 > 

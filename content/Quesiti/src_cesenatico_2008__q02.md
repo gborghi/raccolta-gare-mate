@@ -47,9 +47,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number of colours< MSK1/>
+*number of colours*
 
-> Let n < MSK0/>2 be an integer. We color all the boxes on a chessboard n × n in red or blue so that every square 2 × 2 contained in the chessboard has exactly two red and two blue boxes. How many colors are possible? NOTE: Two colours obtained from each other by rotation or symmetry of the chessboard are considered to be distinct.
+> Let n ≥2 be an integer. We color all the boxes on a chessboard n × n in red or blue so that every square 2 × 2 contained in the chessboard has exactly two red and two blue boxes. How many colors are possible? NOTE: Two colours obtained from each other by rotation or symmetry of the chessboard are considered to be distinct.
 
 **Answer:** 2^(n+1)-2
 [[src_cesenatico_2008__Q02]]

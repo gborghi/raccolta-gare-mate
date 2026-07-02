@@ -52,7 +52,7 @@ tags:
 
 *56 numbered boxes, consecutive sum*
 
-> The house roulette Abacus MSK1/> (50 points)
+> The house roulette Abacus** (50 points)
 > 
 > There's a weird roulette game at Professor Abacus' house. In this roulette wheel, there are 50 boxes in a circle, each of which has an integer number. However, taking 20 consecutive boxes the sum of the numbers written in them is always equal to 500. There is also a box in which the number 1 appears and the others are numbered in a clockwise fashion from it, in the 19th the number 19 appears and in the 50th the number 50. What number is written in the 56th box?
 

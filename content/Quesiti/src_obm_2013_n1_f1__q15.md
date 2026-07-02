@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La taglia minima della classe data al vincitore ha avuto 10 voti e altri distinti< MSK1/>
+*La taglia minima della classe data al vincitore ha avuto 10 voti e altri distinti*
 
 > L'insegnante Marli ha proposto una elezione per rappresentare la classe di sesto anno. Cinque studenti si presentarono come candidati. Tutti gli studenti hanno votato e il vincitore è stato Pedrinho, con voti $10$. Gli altri quattro candidati hanno ricevuto ciascuno un numero diverso di voti. Almeno quanti studenti ci sono in questa classe?
 > 

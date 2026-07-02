@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'unità di 3 aumentata alla potenza 1998< MSK1/>
+*L'unità di 3 aumentata alla potenza 1998*
 
 > Qual è la cifra di unità di $3^{1998}$?
 > 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of unit fractions for 28/33< MSK1/>
+*Minimum number of unit fractions for 28/33*
 
 > What is the smallest number of additions of type 1/n, with positive integer n, such that the number 28/33 can be expressed as the sum of those additions? A) 2 B) 3 C) 4 D) 5 E) 285
 

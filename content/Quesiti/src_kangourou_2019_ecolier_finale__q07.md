@@ -56,7 +56,7 @@ tags:
 
 *Equal numbers with the last six digits in the interval*
 
-> Linda hung pictures in a box using drawing dots, as you can see in the figure. If he had suspended MSK2 operating in the same way, how many dots would he have had to use?
+> Linda hung pictures in a box using drawing dots, as you can see in the figure. If he had suspended$7$operating in the same way, how many dots would he have had to use?
 >
 > - **(A)** $14$
 > - **(B)** $16$

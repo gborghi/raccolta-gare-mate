@@ -43,15 +43,6 @@ tags:
 > Fredholm inventa un pulsante che può trasportare una persona dieci secondi indietro nel tempo. Grazie a questa trovata, Fry riesce 
 > a vincere le Forze Oscure. 
 > Fry e Liela decidono di sposarsi e di affrontare insieme le prossime avventure spaziali. 
->  
->  
-> 
->  
->  
->  
->  
-> 
->  
 > GARA DI MATEMATICA A SQUADRE FEMMINILE 
 > I FINALE NAZIONALE 
 > (5 maggio 2018) 

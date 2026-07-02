@@ -57,6 +57,6 @@ tags:
 
 *Data una sequenza definita da una ricorrenza media in esecuzione, valutare una somma ponderata.*
 
-> La sequenza $(x_n)$ è definita da $x_0=1992$ e $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$ per ciascuna $n\ge 1$. Calcolare < MSK4/>.
+> La sequenza $(x_n)$ è definita da $x_0=1992$ e $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$ per ciascuna $n\ge 1$. Calcolare $\displaystyle\sum_{n=0}^{1992}2^n x_n$.
 
 [[src_pol_1993_r1__Q06]]

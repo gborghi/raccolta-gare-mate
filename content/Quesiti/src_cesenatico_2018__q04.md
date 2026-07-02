@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>double first or power first< MSK1/>
+*double first or power first*
 
 > Let N be an integer greater than 1. We call x the smallest positive integer with the following property: there is a positive integer y narrowly less than x −1 such that x divides N + y. Prove that x is the double of a prime number or a power of a prime number. Note: remember that x is a power of a prime number if there exists a prime p and a positive integer n ≥1 such that x = pn.
 

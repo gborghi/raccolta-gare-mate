@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the sixth face< MSK1/>
+*the sixth face*
 
 ![[src_kangourou_2016_cadet_marzo__prob30.png]]
 

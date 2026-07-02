@@ -76,7 +76,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of opposite faces< MSK1/>
+*sum of opposite faces*
 
 ![[src_kangourou_2015_marzo_cadet__prob4.png]]
 

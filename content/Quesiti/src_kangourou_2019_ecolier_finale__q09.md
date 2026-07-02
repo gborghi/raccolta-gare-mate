@@ -51,7 +51,7 @@ tags:
 
 *Perimeter of the orthogonal polygon of area 200*
 
-> In the figure you can see an obstacle course: the obstacles are the gray squares representing so many water wells. To reach the last box, the one indicated with $X$, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: $1$ means it must land on the next box, $2$ means it must jump a box, and so on). How many boxes does it have to be along its first jump if it wants to land in MSK3 avoiding all the water wells?
+> In the figure you can see an obstacle course: the obstacles are the gray squares representing so many water wells. To reach the last box, the one indicated with $X$, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: $1$ means it must land on the next box, $2$ means it must jump a box, and so on). How many boxes does it have to be along its first jump if it wants to land in$X$avoiding all the water wells?
 >
 > - **(A)** $1$
 > - **(B)** $2$

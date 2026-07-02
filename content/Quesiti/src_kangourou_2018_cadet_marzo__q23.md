@@ -66,7 +66,7 @@ tags:
 
 ![[src_kangourou_2018_cadet_marzo__prob23.png]]
 
-> Rita wrote a number (relative whole) in each of the cells on the edge of a table 5 < MSK0/> 6. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you see two of the numbers she wrote. What number did you write in the x-numbered cell? A) 10
+> Rita wrote a number (relative whole) in each of the cells on the edge of a table 5 × 6. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you see two of the numbers she wrote. What number did you write in the x-numbered cell? A) 10
 > 	
 > B) 7
 > 	

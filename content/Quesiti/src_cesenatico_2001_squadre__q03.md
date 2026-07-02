@@ -47,7 +47,7 @@ tags:
 
 *Equipment of the damaged ship distributable between four ships*
 
-> < MSK0/>Wretched explorers< MSK1/> (10 points)
+> **Wretched explorers** (10 points)
 > 
 > Five sunken spaceships are returning home from a voyage of exploration in our galaxy and one of them has just suffered irreparable damage. The crew of this ship is transferred to the other four and when these ships resume their journey each has the same number of people on board. The captain of the ship failing realizes that if his crew had been less numerous it would not have been possible to distribute it among the ships in order to obtain the same result. Since at the start of the voyage the four healthy ships contained 109, 49, 267, and 278 imes, how many crew members were on the wrecked ship?
 

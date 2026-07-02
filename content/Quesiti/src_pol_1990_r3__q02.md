@@ -53,6 +53,6 @@ tags:
 
 *Prove che la somma ciclica delle frazioni in numeri positivi è al massimo n-1.*
 
-> Lasciate che $x_1, x_2, \ldots, x_n$ siano numeri positivi. Provare che < MSK0/>
+> Lasciate che $x_1, x_2, \ldots, x_n$ siano numeri positivi. Provare che $$\frac{x_1^2}{x_1^2 + x_2 x_3} + \frac{x_2^2}{x_2^2 + x_3 x_4} + \cdots + \frac{x_{n-1}^2}{x_{n-1}^2 + x_n x_1} + \frac{x_n^2}{x_n^2 + x_1 x_2} \le n - 1.$$
 
 [[src_pol_1990_r3__Q02]]

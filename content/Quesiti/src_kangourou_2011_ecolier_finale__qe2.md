@@ -47,7 +47,7 @@ tags:
 
 *Cifra A if 4A=CB and 4B=A*
 
-> The three letters $A$, $B$ and $C$ each represent one digit and different letters represent different digits. You know that MSK3 and that MSK4. What is the figure represented by $A$?
+> The three letters $A$, $B$ and $C$ each represent one digit and different letters represent different digits. You know that$A + A + A + A = CB$and that$B + B + B + B = A$. What is the figure represented by $A$?
 
 **Answer:** 8
 [[src_kangourou_2011_ecolier_finale__QE2]]

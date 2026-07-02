@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Products of fractions in irreducible form< MSK1/>
+*Products of fractions in irreducible form*
 
 > Write the result of the product indicated as an irreducible fraction (no longer simplifiable). $$\frac{1}{2} \times \frac{3}{7} \times \frac{5}{9} \times \cdots \times \frac{2005}{2009} \times \frac{2007}{2011}$$
 

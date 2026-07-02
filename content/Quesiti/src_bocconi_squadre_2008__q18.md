@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (a,b) of positive integers with (b^3+1)/(ab-1) integer < MSK1/>
+*Pairs (a,b) of positive integers with (b^3+1)/(ab-1) integer *
 
 > Determine the pairs $(a, b)$ of positive integers, with $a$ greater than or equal to $b$, where $(b^3 + 1)/(ab - 1)$ is an integer.
 

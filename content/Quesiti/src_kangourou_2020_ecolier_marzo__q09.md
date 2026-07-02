@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many red regions in the colour of the circle< MSK1/>
+*How many red regions in the colour of the circle*
 
 ![[src_kangourou_2020_ecolier_marzo__prob9.png]]
 

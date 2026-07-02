@@ -47,9 +47,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Ricerca l'intervallo di f(x) = sin^4 x - sin x cos x + cos^4 x*
+*Trova l'intervallo di f(x) = sin^4 x - sin x cos x + cos^4 x*
 
-> Let < MSK0/>. L'intervallo di $f(x)$ è ________.
+> Let $f(x) = \sin^4 x - \sin x \cos x + \cos^4 x$. L'intervallo di $f(x)$ è ________.
 
 **Risposta:** $\left[0,\, \dfrac{9}{8}\right]$
 [[src_cn_cmc_2006__Q07]]

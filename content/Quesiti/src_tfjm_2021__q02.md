@@ -96,7 +96,7 @@ tags:
 > 
 > In tutta questa domanda supponiamo che $B=C$. Per quale Battista ha una strategia vincente? Studiare in particolare il caso $B=C=\{-1,0,1\}$ e il caso $B=C=\{0,1\}$.
 > 
-> < MSK5/>(2) < MSK6/> Lasciate < MSK0/>. Supponiamo $B=\{-n,-n+1,\ldots,n-1,n\}$ e $C=\{-n,-n+1,\ldots,k-1,k+1,\ldots,n-1,n\}$ (Carole è privato dell'offset $k$). - Chi vince? Ripensare la questione se è Baptiste che è privato dell'offset $k$.
+> **(2) ** Lasciate $-n \le k \le n$. Supponiamo $B=\{-n,-n+1,\ldots,n-1,n\}$ e $C=\{-n,-n+1,\ldots,k-1,k+1,\ldots,n-1,n\}$ (Carole è privato dell'offset $k$). - Chi vince? Ripensare la questione se è Baptiste che è privato dell'offset $k$.
 > 
 > **(3) ** Rivisitare la domanda precedente considerando invece altre serie $B$ e $C$. Si possono considerare $B=\{0,1\}$, $C=\{-1,0\}$; oppure invece $B=\{x,y\}$, $C=\{-x,-y\}$ con $x$ e $y$ due integri distinti; o più in generale il caso in cui $B$ e $C$ siano simmetrici, ovvero: $-k$ è in $C$ se e solo se $k$ è in $B$.
 > 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantity of paints per four-box solid< MSK1/>
+*Quantity of paints per four-box solid*
 
 ![[src_kangourou_2020_benjamin_marzo__prob18.png]]
 

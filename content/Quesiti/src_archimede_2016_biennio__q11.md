@@ -114,7 +114,7 @@ tags:
 \end{document}
 ```
 
-> Given a circumference γ having an O centre and a diameter AB of 16 cm, either P is a point on the AB extension from part B and r is a straight line passing through P, intersecting γ at points C and D (with D between C and P). Furthermore, let's say that we have OD = DP and $\widehat{APC}$ = 18°. What is the width of the angle < MSK1/>?
+> Given a circumference γ having an O centre and a diameter AB of 16 cm, either P is a point on the AB extension from part B and r is a straight line passing through P, intersecting γ at points C and D (with D between C and P). Furthermore, let's say that we have OD = DP and $\widehat{APC}$ = 18°. What is the width of the angle $\widehat{AOC}$?
 >
 > - **(A)** 48°
 > - **(B)** 54°

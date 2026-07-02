@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>weight set aside < MSK1/>
+*weight set aside *
 
 ![[src_kangourou_2023_ecolier__prob10.png]]
 

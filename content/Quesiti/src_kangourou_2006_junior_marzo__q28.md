@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of maturing 5-4 always to the advantage< MSK1/>
+*Mode of maturing 5-4 always to the advantage*
 
 ![[src_kangourou_2006_junior_marzo__prob28.png]]
 

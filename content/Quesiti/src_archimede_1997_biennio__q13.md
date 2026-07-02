@@ -59,7 +59,7 @@ tags:
 
 ![[src_archimede_1997_biennio__prob13.png]]
 
-> The diagram shows the floor layout of a large hall. The square tiles are white, while the rectangular ones are black and measure 30 cm < MSK0/>40. What is the Sb/Sn ratio between the total white and black surface area?
+> The diagram shows the floor layout of a large hall. The square tiles are white, while the rectangular tiles are black and measure 30 cm×40. What is the Sb/Sn ratio between the total white and black surface area?
 >
 > - **(A)** Sb/Sn < 95%
 > - **(B)** 95% ≤Sb/Sn < 100%

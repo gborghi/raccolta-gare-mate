@@ -62,7 +62,7 @@ tags:
 
 *Classe completa, gli studenti rivendicano 24 o altri numeri; alcuni mentono, altri dicono la verità; studenti totali*
 
-> In una classe completa, l'insegnante chiede quanti studenti hanno studiato per l'esame. Molti studenti rispondono. Quelli che hanno studiato dicono la verità; quelli che non hanno studiato mentono. Se MSK0/ dice la verità, quanti studenti ci sono nella stanza?
+> In una classe completa, l'insegnante chiede quanti studenti hanno studiato per l'esame. Molti studenti rispondono. Quelli che hanno studiato dicono la verità; quelli che non hanno studiato mentono. Se$32$dice la verità, quanti studenti ci sono nella stanza?
 > 
 > (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
 

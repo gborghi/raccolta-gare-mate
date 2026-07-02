@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many statements on powers of 2 are true< MSK1/>
+*How many statements on powers of 2 are true*
 
 > Given the numbers x = 2(46) and y = 2(65), consider the following 4 statements: (1) x is a perfect square; (2) x is a divisor of y; (3) y is a perfect square; (4) y is a perfect cube. Of the four above statements, how many are true?
 >

@@ -55,6 +55,6 @@ tags:
 
 *Centro parallelepiped, somma ponderata delle distanze quadrate disuguaglianza*
 
-> Si deve $O$ essere il centro di un parallelo $A_1 A_2 \cdots A_8$. Provare che < MSK0/>
+> Si deve $O$ essere il centro di un parallelo $A_1 A_2 \cdots A_8$. Provare che $$4 \sum_{i=1}^{8} OA_i^2 \le \left( \sum_{i=1}^{8} OA_i \right)^2.$$
 
 [[src_pol_1994_r3__Q05]]

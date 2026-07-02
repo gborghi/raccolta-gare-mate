@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadratici con perturbazione a coefficiente piccolo e intervallo radicale superiore a 10000< MSK1/>
+*Quadratici con perturbazione a coefficiente piccolo e intervallo radicale superiore a 10000*
 
-> Lasciate che $p$ e $q$ siano due numeri reali in modo tale che l'equazione di grado-$2$ $x^2 + px + q = 0$ abbia due radici reali distinte $u$ e $v$ (con $u > v$). I coefficienti $p$ e $q$ sono modificati di meno di $0.01$: supponiamo che l'equazione $x^2 + p' x + q' = 0$ (dove $|p' - p| < 0.01$ e $|q' - q| < 0.01$) abbia anche due radici reali distinte $u'$ e $v'$ (con $u' > v'$). Esistono valori < MSK16/>, < MSK17/>, < MSK18/>, < MSK19/> per i quali < MSK20/>?
+> Lasciate che $p$ e $q$ siano due numeri reali in modo tale che l'equazione di grado-$2$ $x^2 + px + q = 0$ abbia due radici reali distinte $u$ e $v$ (con $u > v$). I coefficienti $p$ e $q$ sono modificati di meno di $0.01$: supponiamo che l'equazione $x^2 + p' x + q' = 0$ (dove $|p' - p| < 0.01$ e $|q' - q| < 0.01$) abbia anche due radici reali distinte $u'$ e $v'$ (con $u' > v'$). Esistono valori $p$, $q$, $p'$, $q'$ per i quali $|u' - u| > 10000$?
 
 [[src_canimath_2011_printemps__Q06]]

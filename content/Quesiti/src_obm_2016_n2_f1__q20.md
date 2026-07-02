@@ -60,7 +60,7 @@ tags:
 
 *X più piccolo con x+y=10 che soddisfa un'equazione di conteggio di parità*
 
-> In un insieme con elementi $n$ il numero di sottoinsiemi di due elementi è $\frac{n(n-1)}{2}$. $x$ e $y$ siano le quantità di numeri pari e impar nella lista di Janaina, con $x+y=10$. La condizione indicata dà $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy$. Rimpiazzando $y=10-x$ il rendimento $x^2-9x+10=0$, con soluzioni $x=1$ o $x=9$. Poiché $(x,y)=(9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$. Qual è il valore massimo di < MSK13/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> In un insieme con elementi $n$ il numero di sottoinsiemi di due elementi è $\frac{n(n-1)}{2}$. $x$ e $y$ siano le quantità di numeri pari e impar nella lista di Janaina, con $x+y=10$. La condizione indicata dà $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy$. Rimpiazzando $y=10-x$ il rendimento $x^2-9x+10=0$, con soluzioni $x=1$ o $x=9$. Poiché $(x,y)=(9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$. Qual è il valore massimo di $x$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** E
 [[src_obm_2016_n2_f1__Q20]]

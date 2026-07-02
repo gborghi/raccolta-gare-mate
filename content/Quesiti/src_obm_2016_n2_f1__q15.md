@@ -58,7 +58,7 @@ tags:
 
 Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio normale
 
-> Il punto in cui le mani di un orologio si incontrano ruota più velocemente della mano dell'ora. Per l'orologio di Esmeralda, in cui la mano oraria fa una rotazione completa più veloce, gli incontri si verificano in momenti corrispondenti a spostamenti orari delle dimensioni $\tfrac{l}{13},\tfrac{2l}{13},\dots,\tfrac{12l}{13}$. Per un orologio normale il prossimo incontro si verifica quando $12k-k=l$, cioè $k=\tfrac{l}{11}$, che indica incontri a $\tfrac{l}{11},\tfrac{2l}{11},\dots,\tfrac{10l}{11}$. Pertanto, in ore < MSK4/> si verificano < MSK5/> più incontri nell'orologio di Esmeralda rispetto a quello normale, e durante un'intera giornata < MSK6/>. Determinare la relazione tra il numero di incontri. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Il punto in cui le mani di un orologio si incontrano ruota più velocemente della mano dell'ora. Per l'orologio di Esmeralda, dove la mano oraria fa una rotazione completa più veloce, gli incontri si verificano in momenti corrispondenti a spostamenti orari di dimensioni $\tfrac{l}{13},\tfrac{2l}{13},\dots,\tfrac{12l}{13}$. Per un orologio normale il prossimo incontro si verifica quando $12k-k=l$, cioè $k=\tfrac{l}{11}$, che indica incontri a $\tfrac{l}{11},\tfrac{2l}{11},\dots,\tfrac{10l}{11}$. Pertanto, nelle ore $12$ si verificano $2$ più incontri nell'orologio di Esmeralda di quello normale, e su un'intera giornata $y=x+4$. Determinare la relazione tra il numero di incontri. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
 [[src_obm_2016_n2_f1__Q15]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Q the mean point of AP is the ORTOCENTRE of ADE< MSK1/>
+*Q the mean point of AP is the ORTOCENTRE of ADE*
 
 > Whether AB is a rope of one circumference and P is an inner point of AB such that AP = 2PB. Either DE the string passing through P and perpendicular to AB. Demonstrate that the mean point Q of AP is the orthocenter of ADE.
 

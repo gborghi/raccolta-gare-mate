@@ -52,7 +52,7 @@ tags:
 
 > This is the first time that the European Parliament has voted in favour of the amendments.
 > 
-> Bernardo's playing with his mechanic. It can construct two side cubes $a$ and $b$ with $a < b$. Then it disassembles the two cubes and by putting together the various sides of the previous one it builds a larger, lateral $c = a + b$ cube. The volume of the new cube exceeds by < MSK4/> the sum of the volumes of the other 2. Finally, Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in < MSK8/>)?
+> Bernardo's playing with his mechanic. It can construct two side cubes $a$ and $b$ with $a < b$. Then it disassembles the two cubes and by putting together the various sides of the previous one it builds a larger cube, side $c = a + b$. The volume of the new cube exceeds by $450 \ \mathrm{cm}^3$ the sum of the volumes of the other 2. Finally, Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in $\mathrm{cm}^3$)?
 
 **Answer:** 1500
 [[src_archimede_2002_squadre__Q24]]

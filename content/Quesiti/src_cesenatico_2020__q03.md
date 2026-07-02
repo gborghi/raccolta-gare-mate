@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>finished solutions< MSK1/>
+*finished solutions*
 
 > They're a1, a2. . . , a2020 e b1, b2, . . . , b2020 of real numbers, not necessarily distinct. Suppose that the positive integers n for which the equation a1dix −b1dix + a2dix −b2dix + · · · + a2020dix −b2020 = n (1) has exactly two real solutions are finite. Demonstrate that the positive integers n for which equation (1) has at least one real solution are finite.
 

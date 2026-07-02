@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate). < MSK1/>
+*Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate). *
 
 > Il pavimento di una stanza ha la forma di un quadrato laterale di 4 m. In quanti modi possiamo coprire completamente la stanza con tappeti uguali di dimensioni di 1 m per 2 m? Ecco tre modi per farlo.
 > 

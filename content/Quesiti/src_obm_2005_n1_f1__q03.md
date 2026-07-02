@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Percentuale di polpa dopo miscelazione di succo e acqua< MSK1/>
+*Percentuale di polpa dopo miscelazione di succo e acqua*
 
-> Diamantino mette in un contenitore tre litri di acqua e un litro di succo (composto di < MSK0/> pasta e < MSK1/> acqua). Dopo aver miscelato tutto, quale percentuale del volume totale è la polpa?
+> Diamantino mette tre litri di acqua e un litro di succo (composto di polpa $20\%$ e acqua $80\%$) in un contenitore. Dopo aver miscelato tutto, quale percentuale del volume totale è la polpa?
 > 
 > A) $5\%$ \quad B) $7\%$ \quad C) $8\%$ \quad D) $20\%$ \quad E) $60\%$
 

@@ -54,7 +54,7 @@ tags:
 
 *Angolo triangolare con BP+CQ=PQ e intersezione di circolo *
 
-> I punti $P$ e $Q$ devono essere i punti sui lati $AB$ e $AC$ del triangolo $ABC$, rispettivamente, soddisfacendo $BP + CQ = PQ$. Il $R$ deve essere l'intersezione del bisettore angolare di $\angle BAC$ con il circoncircolo del triangolo $ABC$, diverso da $A$. Set < MSK10/>.
+> I punti $P$ e $Q$ devono essere i punti sui lati $AB$ e $AC$ del triangolo $ABC$, rispettivamente, che soddisfano $BP + CQ = PQ$. Il $R$ deve essere l'intersezione del bisettore angolare di $\angle BAC$ con il circoncircolo del triangolo $ABC$, diverso da $A$. Set $\angle BAC = \alpha$.
 > 
 > Trova $\angle PRQ$ in termini di $\alpha$.
 > 

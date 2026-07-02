@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many glue drops in the pyramid of 4x4 spheres < MSK1/>
+*How many glue drops in the pyramid of 4x4 spheres *
 
 ![[src_kangourou_2020_cadet_marzo__prob27.png]]
 

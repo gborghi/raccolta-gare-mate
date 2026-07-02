@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Restante di 19^92 dopo divisione per 92< MSK1/>
+*Restante di 19^92 dopo divisione per 92*
 
 > Determinare il residuo di $19^{92}$ diviso per $92$.
 

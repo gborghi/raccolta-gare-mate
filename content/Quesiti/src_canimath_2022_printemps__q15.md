@@ -59,12 +59,12 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato < MSK1/>
+*Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato *
 
 > $n$ sia un intero rigorosamente positivo, $x_1, \ldots, x_{n+1}$ rigorosamente positivi reali e $p < q$ due interi rigorosamente positivi. Supponiamo che $$x_{n+1}^p > x_1^p + \ldots + x_n^p.$$
 > 
-> 1) Indicare che < MSK0/>.
+> 1) Indicare che $x_{n+1}^q > x_1^q + \ldots + x_n^q$.
 > 
-> 2) Indicare che < MSK0/>
+> 2) Indicare che $$\left(x_{n+1}^p - (x_1^p + \ldots + x_n^p)\right)^q < \left(x_{n+1}^q - (x_1^q + \ldots + x_n^q)\right)^p.$$
 
 [[src_canimath_2022_printemps__Q15]]

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of -1^3-2^3+3^3+4^3-...+16^3 (alternate signs) < MSK1/>
+*Value of -1^3-2^3+3^3+4^3-...+16^3 (alternate signs) *
 
 > After many years, the computer built by the Mathrateans was able to calculate the answer to the Question (whatever it is). It is equal to the quantity −13 −23 +33 +43 −··+153 +163, where the signs in front of the cubes are alternately two less and two more. Unfortunately, it was destroyed before the last step, which is to calculate the value of this sum, was completed. Can you complete this calculation?
 > 

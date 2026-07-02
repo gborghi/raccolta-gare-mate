@@ -64,9 +64,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Bolla da biliardo sulla tabella quadrata ABCD; trovare angoli per la palla per tornare al vertice dopo i rimbalzi del 2010*
+*Bolla da biliardo su tabella quadrata ABCD; trovare angoli per la palla per tornare al vertice dopo i rimbalzi del 2010*
 
-> Un tavolo da biliardo ha la forma di un quadrato < MSK0/>. SuperPablo ha una missione speciale: partendo dal vertice $A$ con una palla da biliardo, deve spararla in modo che, dopo aver saltato esattamente $2010$ volte sui lati del quadrato, la palla arrivi per la prima volta a un vertice del quadrato.
+> Un tavolo da biliardo ha la forma di un quadrato $ABCD$. SuperPablo ha una missione speciale: partendo dal vertice $A$ con una palla da biliardo, deve spararla in modo che, dopo aver rimbalzato esattamente $2010$ volte sui lati del quadrato, la palla arrivi per la prima volta a un vertice del quadrato.
 > 
 > Quali sono i valori possibili dell'angolo formato dal lato $AB$ con la traiettoria iniziale della palla?
 > 

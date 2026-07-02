@@ -58,7 +58,7 @@ tags:
 
 *Terrain of Pere Icles: area of the pentagon with angles of 45, 90, 225 degrees and diagonal AB=152 m*
 
-> The Pere Icles has a pentagon-shaped land. As indicated in the figure, the two smallest sides of this pentagon are of the same length and the inner angles all measure $45^\circ$, $90^\circ$ or $225^\circ$. When Pere Icles is asked the area of his land, he simply answers: \"The AB diagonal measures exactly $152$ meters. You know enough to calculate the land area!" What is the area of the pre d'Icles (in < MSK4/>)?
+> The Pere Icles has a pentagon-shaped land. As indicated in the figure, the two smaller sides of this pentagon are of the same length and the inner angles all measure $45^\circ$, $90^\circ$ or $225^\circ$. When Pere Icles is asked the area of his land, he simply answers: \"The AB diagonal measures exactly $152$ meters. You know enough to calculate the land area!" What is the area of the pre d'Icles (in $\mathrm{m}^2$)?
 
 ![[src_bocconi_finaleint_2007_g1__Q13.png]]
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reported cubic volume/regular tetrahedron entered < MSK1/>
+*Reported cubic volume/regular tetrahedron entered *
 
 > (Points 4) A regular tetrahedron is inscribed in a cube whose edges are diagonal to the sides of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
 > 	

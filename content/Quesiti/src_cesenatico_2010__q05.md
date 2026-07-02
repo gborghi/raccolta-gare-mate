@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many non-winning strings < MSK1/>
+*how many non-winning strings *
 
 > In the village of Cuccagna, you play the following solitaire. Starting from a finite string of zeros and ones, the following moves are allowed: (i) delete two consecutive zeros; (ii) delete three consecutive zeros;
 > 

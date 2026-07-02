@@ -60,6 +60,6 @@ tags:
 
 Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato della strada.
 
-> Sulla strada Gengibre ci sono $n$ case numerate da 1 a $n$ ($n \in \mathbb{N}$). Le case a numero pari sono da un lato della strada, e le case a numero odd sono dall'altro lato. Il sindaco Ludmilson Amottarim decide di demolire alcune case in modo che la somma dei numeri delle case su ciascun lato diventi uguale alla somma dei numeri sull'altro lato. Per raggiungere il suo obiettivo, qual è il numero minimo di case che il sindaco deve demolire se: a) la strada ha $n = 15$ case? b) la strada ha case < MSK4/>? c) la strada ha case < MSK5/>?
+> Sulla strada Gengibre ci sono $n$ case numerate da 1 a $n$ ($n \in \mathbb{N}$). Le case a numero pari sono da un lato della strada, e le case a numero odd sono dall'altro lato. Il sindaco Ludmilson Amottarim decide di demolire alcune case in modo che la somma dei numeri delle case su ciascun lato diventi uguale alla somma dei numeri sull'altro lato. Per raggiungere il suo obiettivo, qual è il numero minimo di case che il sindaco deve demolire se: a) la strada ha $n = 15$ case? b) la strada ha case $n = 16$? c) la strada ha case $n = 2006$?
 
 [[src_obm_2006_n2_f2__Q06]]

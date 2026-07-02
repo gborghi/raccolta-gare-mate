@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Colored bags, 'except' conditions, total bags< MSK1/>
+*Colored bags, 'except' conditions, total bags*
 
 > In a bag, there are balls of various colors. You know, all but six beans are yellow, all but seven beans are red, all but 10 beans are blue. In addition, there is at least one blue ball and there may also be balls of colours other than yellow, red and blue. How many balls is in the bag?
 >

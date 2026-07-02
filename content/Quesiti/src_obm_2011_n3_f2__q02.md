@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta gli anagrammi di FELICIDADE alternati (consonante/vocale) < MSK1/>
+*Conta gli anagrammi di FELICIDADE alternati (consonante/vocale) *
 
 > Una sequenza di lettere, con o senza significato, viene chiamata $alternated$ quando è formata da consonanti e vocali alternati. Ad esempio, EZEQAF, MATEMATICA, LEGAL e ANIMADA sono parole alternate, mentre DSOIUF, OLIMPIADA e ORDINARIO non lo sono. Quanti anagrammi della parola FELICIDADE (compresa la parola FELICIDADE stessa) sono sequenze alternate?
 

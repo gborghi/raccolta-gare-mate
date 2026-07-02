@@ -50,7 +50,7 @@ tags:
 
 *Triangolo con bisettori angolari e punto tangente incircolo; prova FE=AD*
 
-> Che $ABC$ sia un triangolo e che $BB_1$, $CC_1$ siano rispettivamente i bisettori di $\angle B$, $\angle C$ con $B_1$ su $AC$ e $C_1$ su $AB$. I piedi perpendicolari $E$ e $F$ siano i piedi dei punti perpendicolari tracciati rispettivamente da $A$ a $BB_1$ e $CC_1$. Supponiamo che $D$ sia il punto in cui l'incircolo di $ABC$ tocca $AB$. Prova che < MSK17/>.
+> Che $ABC$ sia un triangolo e che $BB_1$, $CC_1$ siano rispettivamente i bisettori di $\angle B$, $\angle C$ con $B_1$ su $AC$ e $C_1$ su $AB$. I piedi perpendicolari $E$ e $F$ devono essere tracciati rispettivamente da $A$ a $BB_1$ e $CC_1$. Supponiamo che $D$ sia il punto in cui l'incircolo di $ABC$ tocca $AB$. Prova che $AD = FE$.
 
 ![[src_rmo_2011__Q05.png]]
 

@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>true statements< MSK1/>
+*true statements*
 
 > Six people A, B, C, D, E, F are in a room. Each of them has five hats at her disposal and must put one on the head of every other person she is not a friend of. Keep in mind that if X is Y's friend, then vice versa is also true. At operations completed, the number of hats on the heads of different people is: 3 on A, 1 on B, 2 on C, 4 on D, 2 on E, 0 (none) on F. How many of the following statements are true? - C and E are friends; - F is friend of all; - A is friend of B and F; - D is friend of F; - B is not friend of A; - C is friend of B and A. A) 2
 >  

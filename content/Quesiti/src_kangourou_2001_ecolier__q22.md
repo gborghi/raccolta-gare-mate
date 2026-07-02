@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>When all the candles are off< MSK1/>
+*When all the candles are off*
 
 > Zita has four candles. Each candle can stay lit for three hours before it goes out. Light two of the candles. After 30 minutes, a blast of wind turns off one, and an hour later, another blast of wind turns off the other. Zita then decides to light all four candles. How long after all the candles are off, if no wind blows?
 >

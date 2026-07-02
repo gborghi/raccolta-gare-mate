@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which girls eat the same number of cookies< MSK1/>
+*Which girls eat the same number of cookies*
 
 > Five girls are eating cookies. Laura eats two more cookies than Sofia; Betti eats three fewer cookies than Laura. Clara eats one cookie more than Betti and three fewer than Alice. Which girls eat the same number of cookies? A) Clara and Laura. (b) Clara and Sofia. C) Laura and Alice. D) Sofia and Alice. E) Alice and Betti. A B C E F 1 2 3 4 5
 >

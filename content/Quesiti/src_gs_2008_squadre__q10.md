@@ -49,7 +49,7 @@ tags:
 
 *Long side difference of folded sheet*
 
-> Pepper takes a sheet, folds it in half on the long side and cuts it along the fold. Take one of the two sides, fold it in two on the long side and cut it along the fold. Repeat the same operation three more times (five cuts in total), and you get a sheet size < MSK0/>.
+> Pepper takes a sheet, folds it in half on the long side and cuts it along the fold. Take one of the two sides, fold it in two on the long side and cut it along the fold. Repeat the same operation three more times (five cuts in total), and you get a sheet size $62\,\text{mm} \times 88\,\text{mm}$.
 > 
 > How much could he measure the long side of the sheet from which he had begun? How much could he at least measure? Give the difference between the two measurements in millimetres as an answer.
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo con punto medio D di BC, condizioni d'angolo; prova AOD equilaterale < MSK1/>
+*Triangolo con punto medio D di BC, condizioni d'angolo; prova AOD equilaterale *
 
 > Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo $\angle DAB = \angle DCA = 15^\circ$. Inoltre, se $O$ è il circoncentro di $ADC$, dimostrare che il triangolo $AOD$ è equilaterale.
 

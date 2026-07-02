@@ -53,7 +53,7 @@ tags:
 
 *mcm of three integers with a+b+c=2010 and 1/a+1/b+1/c=1/58*
 
-> Jack and his crew are trapped in Davy Jensen's coffin, the mystical waters beyond the Perimeter of the World. At sunset Captain Disparrow understands how to return to the world of the living: you have to overturn the ship so that you sail above it, and at the same time you have to find three positive integers a, b, c, such that a+b+c = 2010 and that you can overturn them too, obtaining that 1/a + 1/b + 1/c = 1/58. While with a green whale the MSK0/>-rats return to the world of the living, responding to the minimum common multiple of the three integers.
+> Jack and his crew are trapped in Davy Jensen's coffin, the mystical waters beyond the Perimeter of the World. At sunset Captain Disparrow understands how to return to the world of the living: you have to overturn the ship so that you sail above it, and at the same time you have to find three positive integers a, b, c, such that a+b+c = 2010 and that you can overturn them too, obtaining that 1/a + 1/b + 1/c = 1/58. While with a green whale theπ-rats return to the world of the living, responding to the minimum common multiple of the three integers.
 
 **Answer:** 5220
 [[src_gas_2010_finale__Q17]]

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum whole fractions with integers from 1 to 22< MSK1/>
+*Maximum whole fractions with integers from 1 to 22*
 
 > Using all integers between 1 and 22 included, one numbered and one denominated, one can form 11 fractions. How many of these fractions can have an integer value at most? A) 7
 > 	

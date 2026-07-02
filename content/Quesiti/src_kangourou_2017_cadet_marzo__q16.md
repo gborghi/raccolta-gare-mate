@@ -74,7 +74,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Product numbers in grey cells, partial sums given < MSK1/>
+*Product numbers in grey cells, partial sums given *
 
 ![[src_kangourou_2017_cadet_marzo__prob16.png]]
 

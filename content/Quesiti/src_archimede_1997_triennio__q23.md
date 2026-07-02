@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Relations between the palindrome counts of 5 6 7 digits< MSK1/>
+*Relations between the palindrome counts of 5 6 7 digits*
 
 > To avoid ambiguity, we agree that, as usual, an integer cannot start from zero. A positive integer is said to be palindrome if its expression at base 10, read in reverse order (from right to left) still represents the same number. Since p5 is the number of 5-digit palindromes, p6 is the number of 6-digit palindromes, p7 is the number of 7-digit palindromes, which of the following statements is correct?
 >

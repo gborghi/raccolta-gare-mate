@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sequenza concatenata 123...9991000; quante volte appare il gruppo 89?< MSK1/>
+*Sequenza concatenata 123...9991000; quante volte appare il gruppo 89?*
 
 > I numeri interi positivi da 1 a 1000 sono scritti fianco a fianco, in ordine crescente, formando la sequenza $123456789101112131415\ldots 9991000$. In questa sequenza, quante volte appare il gruppo "89"?
 > 

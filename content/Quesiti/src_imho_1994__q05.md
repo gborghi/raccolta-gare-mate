@@ -54,6 +54,6 @@ tags:
 
 *Functional equation on reals greater than -1*
 
-> Let $S$ be the set of real numbers strictly greater than $-1$. Find all functions $f: S \to S$ satisfying the two conditions: 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ for all $x$ and $y$ in $S$; 2. < MSK7/> is strictly increasing on each of the intervals < MSK8/> and < MSK9/>.
+> Let $S$ be the set of real numbers strictly greater than $-1$. Find all functions $f: S \to S$ satisfying the two conditions: 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ for all $x$ and $y$ in $S$; 2. $\dfrac{f(x)}{x}$ is strictly increasing on each of the intervals $-1 < x < 0$ and $0 < x$.
 
 [[src_imho_1994__Q05]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Couples (m,n) with 4·m!+1=2^n+3^n, giving a·b< MSK1/>
+*Couples (m,n) with 4·m!+1=2^n+3^n, giving a·b*
 
 > Missed it! David Averoldi Be careful, I'll take care of it! cries out Moduloso to Nashtrid, as he throws a accept against a dragon and misses him completely. I had the sun in my eyes! But at least I can determine all pairs of nonnegative integers (m,n) that satisfy 4m! + 1 = 2n + 3n. Either (a,b) the component sum per component of all pairs found; give as a response a·b. You remember that m! = 1·2·3··m, whereas 0! = 1.
 

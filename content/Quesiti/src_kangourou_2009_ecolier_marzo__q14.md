@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many mushrooms has Bice collected< MSK1/>
+*How many mushrooms has Bice collected*
 
 > Anna, Bice and Carla collected a total of seven mushrooms. Each of them collected at least one fungus, but each collected a different number of fungi from each of the other two. Anna collected the least of them all and Carla the most. How many mushrooms did Bice collect? A) 1 B) 2 C) 3 D) 4 E) The situation described cannot have occurred.
 

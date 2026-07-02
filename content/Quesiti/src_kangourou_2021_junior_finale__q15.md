@@ -54,7 +54,7 @@ tags:
 
 *Major CASE in encrypted multiplication*
 
-> The figure shows a semicircle centered in < MSK0/>. The measurements of two of the angles that appear are indicated. What is the measure, in degrees, of the angle $\alpha$? (see figure)
+> The figure shows a semicircle centered in $O$. The measurements of two of the angles that appear are indicated. What is the measure, in degrees, of the angle $\alpha$? (see figure)
 > 
 > A) 18 B) 11 C) 17,5 D) 9 E) 16
 

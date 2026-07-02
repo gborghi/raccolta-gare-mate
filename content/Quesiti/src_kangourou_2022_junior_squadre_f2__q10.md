@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The last three digits of 7^9999< MSK1/>
+*The last three digits of 7^9999*
 
 > What are the last three digits (hundreds, tens, units) of the number 79999?
 

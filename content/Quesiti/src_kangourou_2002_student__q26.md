@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies with sums of 2 digits up to 10^2002< MSK1/>
+*Interies with sums of 2 digits up to 10^2002*
 
 > How many integers between 1 and 102002 have the sum of the digits equal to 2? A. 2007006 B. 2005003 C. 2003001 D. 2005002
 >  

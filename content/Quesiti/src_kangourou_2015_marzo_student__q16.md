@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>first actual encounter< MSK1/>
+*first actual encounter*
 
 > If one reads the following five statements in the given order, i.e. starting with A), what is the first true statement one encounters? A) C) is true
 > 	

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum a=n^3+2n^2 squared of odd whole < MSK1/>
+*Minimum a=n^3+2n^2 squared of odd whole *
 
 > The Aztec gold fortress is empty and all the ancient coins must be recovered before the curse is lifted. The ghost pirate Bourbakossa has led his men to look everywhere, and in the meantime he tries to remember how many coins there were when the enforcer was found. The only clue is a note in Captain Jack Disparrow's boarding journal that says: ...the Aztec coins are in quantity equal to the smallest positive integer a = n3 +2n2, such that n is a natural number and a is the square of an odd integer. How many coins must the π-raties of Bourbakossa look for?
 

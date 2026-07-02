@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min bottles< MSK1/>
+*min bottles*
 
 > There's only nine houses on Via del Salto, all on the same side of the road. At least one person lives in each house, and the total number of people living in a pair of adjacent houses never exceeds 6. A milkman must deliver one bottle of milk for every person living in Via del Salto. What's the minimum number of bottles you have to put on the truck to make sure you have enough? A) 23
 > 	

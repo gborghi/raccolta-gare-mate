@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little multiple of 73 with square >=63 divisors< MSK1/>
+*Little multiple of 73 with square >=63 divisors*
 
 > 8. The ghost guarding the entrance to the house of Rapporteur, to which Hardy, Hermita and Ron belong, allows entry only to those who can solve easy mathematical questions. The ghost asks which is the smallest integer multiple of 73 such that its square has at least 63 divisors. What's the keyword?
 

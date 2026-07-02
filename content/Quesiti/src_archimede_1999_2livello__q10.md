@@ -54,7 +54,7 @@ tags:
 
 *Isosceles trapezoidal area with diagonal and angle data*
 
-> In an isosceles trapezoid, a diagonal is 22 cm long; it is also known that such a diagonal forms an angle of < MSK0/> with the major base. How much is the area of the trapezoid?
+> In an isosceles trapezoid, a diagonal is 22 cm long; it is also known that such a diagonal forms an angle of $45°$ with the major base. How much is the area of the trapezoid?
 >
 > - **(A)** $121\text{ cm}^2$
 > - **(B)** $242\text{ cm}^2$

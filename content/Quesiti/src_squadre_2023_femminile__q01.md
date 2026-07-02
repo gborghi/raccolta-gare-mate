@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of n numbers of 9999...9 (2023 nine) squared minus one< MSK1/>
+*sum of n numbers of 9999...9 (2023 nine) squared minus one*
 
 > 10,000 minions in a row Krull is a supervillain criminal, but with a good spirit... Today he's upset because he thinks he hasn't been able to steal the moon yet! To relax, he likes to think about mathematical problems. He then goes down to his lab and takes 10,000 minions, his trusted assistants, numbered from 1 to 10,000. Then he decides to line them up in such a way that the smallest of the 9999 absolute value differences between the numbers of two consecutive minions is as large as possible. How much is this difference worth?
 

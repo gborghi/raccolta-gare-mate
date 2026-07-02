@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum distance to travel from A to D < MSK1/>
+*Minimum distance to travel from A to D *
 
 > Four oil wells are located in four points of the desert: A, B, C, D, aligned in this order (left to right) and each 2 km apart. When wells in B and C are set on fire, a safety zone is created around them for which it is forbidden to be less than 1 km from B and C.
 > 

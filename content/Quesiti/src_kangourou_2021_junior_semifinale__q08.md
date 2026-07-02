@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>numbers with different output< MSK1/>
+*numbers with different output*
 
 > (5 points) Peter rounded all positive integers less than 10,000 to tens, then rounded the numbers to hundreds, and finally rounded the final results to thousands. Instead, Paul rounded directly to the thousands all positive integers less than 10,000. For how many of the starting integers do the two boys get different end results? Rounding is to be understood in the usual sense: for example, for rounding to tens, 10 and 13 are rounded to 10, 15 and 17 to 20. A) 0
 >  

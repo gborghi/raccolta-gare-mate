@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of 100 to 99 to 2+... + 2 to 2 to 2< MSK1/>
+*sum of 100 to 99 to 2+... + 2 to 2 to 2*
 
 > The sum of 1002 - 992 + 982 - ... + 22 - 12 is equal to A) 2002; B) 2020; C) 4040; D) 5050; E) 8008
 

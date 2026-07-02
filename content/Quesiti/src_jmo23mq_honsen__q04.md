@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prove che KD taglia l'angolo BKC attraverso il piede dell'asse radicale< MSK1/>
+*Prove che KD taglia l'angolo BKC attraverso il piede dell'asse radicale*
 
 > Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Il cerchio che attraversa i punti $B$ e $C$ e il cerchio con segmento $AH$ come diametro si intersecano a due punti distinti $X, Y$. Il $D$ deve essere il piede della perpendicolare da $A$ alla linea $BC$, e il $K$ deve essere il piede della perpendicolare da $D$ alla linea $XY$. Prove che $\angle BKD = \angle CKD$.
 

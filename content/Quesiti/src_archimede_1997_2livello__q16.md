@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>angle in D< MSK1/>
+*angle in D*
 
 > In a convex quadrilateral $ABCD$ the sides $AB$, $BC$, $CD$ are equal. In addition, $AC = BD = AD$. What is the angle in $D$?
 

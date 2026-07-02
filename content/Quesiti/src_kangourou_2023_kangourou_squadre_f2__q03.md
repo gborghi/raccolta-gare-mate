@@ -56,7 +56,7 @@ tags:
 
 Gamme of glues for parallel 7x6x5
 
-> The Amedeo glue has a large number of parallel-piped blocks, each measuring (in centimeters) 2 < MSK0/> 1 < MSK1/> 1. Approach  without leaving empty spaces  and join some of these blocks together to obtain a parallel-piped rectangle of size (in centimeters) 7 × 6 × 5. For two adhering surfaces, 1 gram of glue is needed per cm2. Every time two surfaces are adhering, you have to stick them together. How many grams of glue do you use to build the parallelepiped?
+> Amedeo glue has a large number of parallel-piped blocks, each measuring (in centimeters) 2 × 1 × 1. Approach  without leaving empty spaces  and join some of these blocks together to obtain a parallel-piped rectangle measuring (in centimeters) 7 × 6 × 5. For two adhering surfaces, 1 gram of glue is needed per cm2. Every time two surfaces are adhering, you have to stick them together. How many grams of glue do you use to build the parallelepiped?
 
 **Answer:** 0418
 [[src_kangourou_2023_kangourou_squadre_f2__Q03]]

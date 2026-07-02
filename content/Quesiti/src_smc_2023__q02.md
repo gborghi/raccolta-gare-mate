@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Differenza tra un terzo e 0,333< MSK1/>
+*Differenza tra un terzo e 0,333*
 
-> Qual è la differenza tra un terzo e < MSK0/>?
+> Qual è la differenza tra un terzo e $0.333$?
 >
 > - **(A)** $0$
 > - **(B)** $\dfrac{3}{1000}$

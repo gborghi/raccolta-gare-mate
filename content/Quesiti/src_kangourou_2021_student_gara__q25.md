@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of numbers on the faces of the solid (snube dodecahedron) < MSK1/>
+*Sum of numbers on the faces of the solid (snube dodecahedron) *
 
 ![[src_kangourou_2021_student_gara__prob25.png]]
 

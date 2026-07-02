@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how much blue to remove< MSK1/>
+*how much blue to remove*
 
 > Piera has 49 blue pearls and one red. If you want 90% of the pearls to be blue, how many blue pearls do you need and just take them off? A) 4
 > 	

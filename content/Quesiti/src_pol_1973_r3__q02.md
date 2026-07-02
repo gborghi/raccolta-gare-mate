@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Probabilità di testa in 100 lanci; convergenza delle sequenze< MSK1/>
+*Probabilità di testa in 100 lanci; convergenza delle sequenze*
 
 > $p_n$ indichi la probabilità che, in $n$ lanci, una moneta giusta mostri la testa in su 100 volte consecutive. Prove che la sequenza $\{p_n\}$ converge e determina il suo limite.
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Money per bag given 42 bags divided among 41 people< MSK1/>
+*Money per bag given 42 bags divided among 41 people*
 
 > There Baba and his forty thieves steal 42 bags of gold coins: each bag contains the same number of coins and all the coins are identical. Then they divide the loot into equal parts. Each receives a complete bag and two gold coins. How many coins does each bag contain? A) 41 B) 42 C) 81 D) 82 E) 84 Exit P Q R
 

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Inradius/exradius product relation for split triangle< MSK1/>
+*Inradius/exradius product relation for split triangle*
 
 > Whether $M$ a point on the $AB$ side of the $\triangle ABC$ triangle. The radii of the circles inscribed in the triangles $AMC$, $BMC$ and $ABC$ are $r_1$, $r_2$ and $r$ respectively. $q_1$, $q_2$ and $q$ shall be the radii of the circles expressed by the same triangles lying at the angle $ACB$. Show that $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
 

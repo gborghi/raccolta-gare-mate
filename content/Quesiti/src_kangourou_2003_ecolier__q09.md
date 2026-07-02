@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Blue cubes inside the brick < MSK1/>
+*Blue cubes inside the brick *
 
 ![[src_kangourou_2003_ecolier__prob9.png]]
 

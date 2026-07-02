@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Composition not obtained from Luisa's cuttings< MSK1/>
+*Composition not obtained from Luisa's cuttings*
 
 > Luisa has some stitches like the one shown in the picture. You can rotate them, but don't break or overlap. If you approach them according to these rules, you can get four of the five compositions below. Which one can't get it? (see figure)
 >

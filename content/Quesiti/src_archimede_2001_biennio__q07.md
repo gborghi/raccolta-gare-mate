@@ -30,41 +30,13 @@ tags:
 
 *Figura ottenuta ruotando il diagramma attorno origine*
 
-![[src_archimede_2001_biennio__prob7.png]]
+![[src_archimede_2001_biennio__prob7ref.png]]
 
 > Il diagramma a fianco viene ruotato attorno all’origine. Quale fra le
 > seguenti è la figura che è stata ottenuta?
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
-> r
->
+
+![[src_archimede_2001_biennio__prob7.png]]
+
 > - **(A)**
 > - **(B)**
 > - **(C)**
@@ -82,10 +54,12 @@ tags:
 
 *Figure obtained by rotating the diagram around the source*
 
+![[src_archimede_2001_biennio__prob7ref.png]]
+
+> The side diagram is rotated around the origin. Which of the following is the figure obtained?
+
 ![[src_archimede_2001_biennio__prob7.png]]
 
-> The side diagram is rotated around the origin. Which of the following is the figure obtained? r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r
->
 > - **(A)**
 > - **(B)**
 > - **(C)**

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shaded region of four overlapping hearts< MSK1/>
+*Shaded region of four overlapping hearts*
 
 ![[src_kangourou_2017_cadet_marzo__prob9.png]]
 

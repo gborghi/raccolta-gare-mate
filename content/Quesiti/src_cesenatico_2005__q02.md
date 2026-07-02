@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>one divisible by sum of digits < MSK1/>
+*one divisible by sum of digits *
 
 > Demonstrate that, however you take 18 consecutive positive integers less than or equal to 2005, there is at least one divisible by the sum of its digits.
 

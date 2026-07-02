@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Untouched cubes from the 4x4x4 cube drill< MSK1/>
+*Untouched cubes from the 4x4x4 cube drill*
 
 ![[src_kangourou_2023_ecolier_squadre_f2__prob6.png]]
 

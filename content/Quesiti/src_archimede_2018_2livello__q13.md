@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Produced polynomials, minimum grade of the quotient< MSK1/>
+*Produced polynomials, minimum grade of the quotient*
 
 > Angela has the polynomials x −1, (x −1) x −2), (x −1) x −2) x −3), . . . up to (x −1)(x −2) · · (x −2017)(x −2018), and divides them into two groups. Having said that p(x) is the product of the polynomials of the first group and q(x) is that of the polynomials of the second group, Angela notices that the polynomial p(x) divides the polynomial q(x), and that the degree of the quotient q(x) p(x) is as small as possible: how much is that degree worth?
 

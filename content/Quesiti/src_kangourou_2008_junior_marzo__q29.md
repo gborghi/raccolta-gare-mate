@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many jump sequences 1m/3m by 10m< MSK1/>
+*How many jump sequences 1m/3m by 10m*
 
 > Kangaroos can only move by jumping and can only jump from a meter or three meters. Kang wants to move ten meters straight. How many possible jump sequences do you have? (Consider two different sequences in different order, such as {1,3,3,3} and {3,3,3,1}). A) 28 B) 26 C) 35 D) 55 E) 56
 

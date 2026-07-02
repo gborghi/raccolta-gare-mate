@@ -49,6 +49,6 @@ tags:
 
 *Ratio AR:RC per il punto interno con angoli e rapporti dati*
 
-> Il $P$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle APB = \angle APC = 130^\circ$ e $PB : PC = 2 : 3$. sui lati $AB$ e $AC$, rispettivamente, prendere i punti $Q$ e $R$ in modo tale che $\angle APQ = \angle APR = 80^\circ$. Dato che < MSK9/>, trovare < MSK10/>.
+> Il $P$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle APB = \angle APC = 130^\circ$ e $PB : PC = 2 : 3$. sui lati $AB$ e $AC$, rispettivamente, prendere i punti $Q$ e $R$ in modo tale che $\angle APQ = \angle APR = 80^\circ$. Dato che $AQ : QB = 4 : 3$, trovare $AR : RC$.
 
 [[src_jjmo3q__Q10]]

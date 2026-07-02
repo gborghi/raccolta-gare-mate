@@ -55,7 +55,7 @@ tags:
 
 *Maximum change in the volume of a parallel piped*
 
-> By sewing a piece of wood in the shape of a rectangular parallel-piped, another 3 cm < MSK0/> 4 cm < MSK1/> 5 cm diameter parallel-piped pair is extracted by making three parallel cuts to the faces. Working with the saw can only ensure that the actual dimensions will differ by no more than 1 mm from those desired. How far can the volume of the parallel piped constructed from that of the desired parallel piped be diverted at most?
+> By sewing a piece of wood in the shape of a rectangular parallel-piped, another 3 cm × 4 cm × 5 cm diameter parallel-piped pair is extracted by making three parallel cuts to the faces. Working with the saw can only ensure that the actual dimensions will differ by no more than 1 mm from those desired. How far can the volume of the parallel piped constructed from that of the desired parallel piped be diverted at most?
 >
 > - **(A)** Approximately 0,5 cm3
 > - **(B)** about 1.2 cm3

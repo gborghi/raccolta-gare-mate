@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Anthony hamiltonian paths on the cube shafts< MSK1/>
+*Anthony hamiltonian paths on the cube shafts*
 
 > An ant is on top of a cube. It moves along the tips of the cube so that it passes once and only once from each vertex of the cube. How many distinct paths can he take?
 >

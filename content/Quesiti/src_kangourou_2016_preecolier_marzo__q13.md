@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs with a difference of less than 15 between 7.13,20.30< MSK1/>
+*Pairs with a difference of less than 15 between 7.13,20.30*
 
 > Angela wants to choose two of the numbers 7, 13, 20, and 30 so that the difference between the largest and smallest of the ones she's chosen is less than 15. How many different pairs of numbers can he choose?
 >

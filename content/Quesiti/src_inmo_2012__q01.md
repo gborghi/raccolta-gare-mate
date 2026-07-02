@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'area massima del quadrilatero ciclico con angolo lato e centrale dato< MSK1/>
+*L'area massima del quadrilatero ciclico con angolo lato e centrale dato*
 
 > Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Supponiamo che $AB = \sqrt{2 + \sqrt{2}}$ e $AB$ subtendano $135^\circ$ al centro del cerchio. Trova la superficie massima possibile di $ABCD$.
 

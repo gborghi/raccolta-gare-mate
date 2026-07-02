@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pieces cut from 15 to 23< MSK1/>
+*How many pieces cut from 15 to 23*
 
 > There were 15 pieces of paper. After some were cut into three pieces, the pieces of paper became 23. How many pieces of paper were cut? A) 1              B) 2              C) 3              D) 4             E) 5
 

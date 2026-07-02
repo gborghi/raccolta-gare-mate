@@ -51,7 +51,7 @@ tags:
 
 *Trovare l'angolo centrale AOC da due angoli dati OBA e OBC su un cerchio*
 
-> Le $A$, $B$ e $C$ devono essere tre punti su un cerchio con il centro $O$, posizionati in modo tale che $A$, $O$ e $C$ non siano allineati, in modo tale che $B$ si trovi sull'arco minore $AC$, rispettando le seguenti uguali angolari: $\widehat{OBA} = 77^\circ$ e $\widehat{OBC} = 33^\circ$. Qual è la misura dell'angolo < MSK11/>?
+> Le $A$, $B$ e $C$ siano tre punti su un cerchio con il centro $O$, posizionati in modo tale che $A$, $O$ e $C$ non siano allineati, in modo tale che $B$ si trovi sull'arco minore $AC$, e rispettando le seguenti uguali angolari: $\widehat{OBA} = 77^\circ$ e $\widehat{OBC} = 33^\circ$. Qual è la misura dell'angolo $\widehat{AOC}$?
 > 
 > *Solo una risposta numerica è prevista qui.*
 

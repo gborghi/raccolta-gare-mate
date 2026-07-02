@@ -57,7 +57,7 @@ tags:
 
 *Fill 9×9 grid con 19 per colonna, somma di righe uguale; trovare X+Y*
 
-> Nella tabella seguente, scrivete i numeri da 1 a 9 in ogni colonna in modo che la somma dei numeri scritti nelle nove righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri di ciascuna colonna. Trova < MSK2/>.
+> Nella tabella seguente, scrivete i numeri da 1 a 9 in ogni colonna in modo che la somma dei numeri scritti nelle nove righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri di ciascuna colonna. Trova $X + Y$.
 
 ![[src_obm_2004_n1_f2__Q06.png]]
 

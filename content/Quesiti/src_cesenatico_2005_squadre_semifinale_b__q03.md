@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Large ultra first of 3 digits< MSK1/>
+*Large ultra first of 3 digits*
 
 > An ultraprime is a prime number such that, by exchanging its digits, the number obtained remains prime. What's the greatest number of three ultraprime digits?
 

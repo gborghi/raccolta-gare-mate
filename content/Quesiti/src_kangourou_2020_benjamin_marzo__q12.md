@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How long has Trello been out (clock head-down) < MSK1/>
+*How long has Trello been out (clock head-down) *
 
 > In the cave of the Trello bat, there's a digital clock hanging properly. When Trello comes out of the cave , he sees the writing on the clock . Before dawn he comes home, hangs upside down and still sees writing on the clock. How long has Trello been out of the cave? A) 3 hours and 28 minutes. B) 3 hours and 40 minutes. C) 3 hours and 42 minutes. D) 4 hours and 18 minutes. E) 5 hours and 42 minutes.
 

@@ -73,7 +73,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Hexagonal polygonal length mean points tetrahedral shoulders< MSK1/>
+*Hexagonal polygonal length mean points tetrahedral shoulders*
 
 ![[src_kangourou_2024_student__prob12.png]]
 

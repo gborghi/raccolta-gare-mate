@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>False claim on M (area 1) < MSK1/>
+*False claim on M (area 1) *
 
 > We denote with M the product of the perimeter of a triangle for the sum of the three heights of the same triangle. Which of the following is false if the area of the triangle is 1? A) M can be greater than 1000. B) M is always greater than 6. C) M can be equal to 18. D) If the triangle is rectangular, then M>16. E) M may be less than 12. m . I am not going to say anything about this, but I am going to tell you something.
 > 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which set of rods does not have a regular hexagon< MSK1/>
+*Which set of rods does not have a regular hexagon*
 
 ![[src_kangourou_2011_cadet__prob22.png]]
 

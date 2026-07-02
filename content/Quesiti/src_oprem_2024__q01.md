@@ -104,7 +104,7 @@ tags:
 > 
 > In questo esercizio, tutte le domande e le sotto-missioni sono, in larga misura, indipendenti. A partire dalla domanda 7, la difficoltà è aumentata. Tutte le risposte devono essere giustificate.
 > 
-> **1. Percentuali per tutte le età.< MSK1/>
+> **1. Percentuali per tutte le età.**
 > 
 > **a.** È esatto che, per tutti i numeri reali positivi $x$ e $y$, $x\%$ di euro $y$ è uguale a $y\%$ di euro $x$? Riduzione, senza un calcolo complicato, del valore di $32\%$ di $25$ euro.
 > 
@@ -114,7 +114,7 @@ tags:
 > 
 > **2. Doppio significato.** Date due riformulazioni molto diverse della domanda  Quale numero dà $51$ quando si moltiplica con $0.01$ e poi si alza con $1$?  in modo da rimuovere l'ambiguità e fornire le due risposte diverse.
 > 
-> **3. Il segreto del 20/20.** Un soggetto di esame, classificato fuori di $20$, è composto da un esercizio classificato fuori di $5$ e da un problema classificato fuori di $15$. Un candidato riceve il grado $4$ da $5$ sull'esercizio e $3$ da $15$ sul problema. Qual è il grado del candidato in < MSK7/>? Tuttavia, il calcolo frazionario dimostra che $\frac{4}{5}+\frac{3}{15}=\frac{20}{20}$ (il risultato è giustificato); proporre un motivo che possa dare al candidato $20$ di $20$ (il paradosso), e poi dimostrare che, nello stesso contesto di un esercizio di $5$ e di un problema di $15$, questo calcolo dà sempre un risultato migliore del primo.
+> **3. Il segreto del 20/20.** Un soggetto di esame, classificato fuori di $20$, è composto da un esercizio classificato fuori di $5$ e da un problema classificato fuori di $15$. Un candidato riceve il grado $4$ da $5$ sull'esercizio e $3$ da $15$ sul problema. Qual è il grado del candidato in $20$? Tuttavia, il calcolo frazionario dimostra che $\frac{4}{5}+\frac{3}{15}=\frac{20}{20}$ (il risultato è giustificato); proporre un motivo che possa dare al candidato $20$ di $20$ (il paradosso), e poi dimostrare che, nello stesso contesto di un esercizio di $5$ e di un problema di $15$, questo calcolo dà sempre un risultato migliore del primo.
 > 
 > **4. Trovare l'intruso.** Uno ha un equilibrio a due pannelli come nella figura a destra. Tra le arance $5$ indistinguibili dal tatto e dalla vista  $4$ di esse pesano esattamente la stessa quantità e $1$ è leggermente più leggera  si propone una procedura per rilevare, nel massimo dei pesi $2$, l'arancione più leggero. Ora consideriamo le arance $2\,024$ indistinguibili dal tatto e dalla vista, di cui $2\,023$ pesa esattamente la stessa e $1$ è leggermente più leggera; proponiamo una procedura che permetta di rilevare l'arancia più leggera, nel massimo dei pesi $10$.
 > 
@@ -126,7 +126,7 @@ tags:
 > 
 > **8. Solo per gli occhi.** Un angolo di cubo è costituito da tre specchi reciprocamente perpendicolari. In generale, un raggio incidente che colpisce uno degli specchi viene poi riflettuto sugli altri due prima di partire. Ad esempio, sul diagramma a destra, il raggio luminoso rimbalza tre volte: prima colpisce la faccia anteriore, poi la faccia laterale destra, poi la faccia superiore. Spiegate perché il raggio in partenza è parallelo al raggio in entrata. Riduzione dell'uso di tale dispositivo per la realizzazione dei retroreflettori (catadioptri) posizionati nella parte posteriore delle biciclette e delle automobili.
 > 
-> < MSK3/>9. < MSK4/> Un rotolio di nastro adesivo ha un raggio interno < MSK0/> cm e un raggio esterno < MSK1/> cm. Il nastro adesivo è lungo < MSK2/> m. Determinare, il più precisamente possibile, lo spessore del nastro.
+> **9. ** Un rotolio di nastro adesivo ha un raggio interno $R=1.8$ cm e un raggio esterno $R'=2.6$ cm. Il nastro adesivo è lungo $25$ m. Determinare, il più precisamente possibile, lo spessore del nastro.
 > 
 > **10.** Una tabella di righe $n$ e colonne $p$ contiene numeri reali. Riordiniamo ogni riga da sinistra a destra in ordine crescente, poi ogni colonna a sua volta dal basso verso l'alto in ordine crescente (qui $n=3$ e $p=5$). Dimostra che dopo questa seconda operazione ogni riga rimane ordinata, sempre in ordine crescente da sinistra a destra.
 

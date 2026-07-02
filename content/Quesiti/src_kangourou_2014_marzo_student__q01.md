@@ -63,7 +63,7 @@ tags:
 
 ![[src_kangourou_2014_marzo_student__prob1.png]]
 
-> From a cube of dimensions 5 < MSK0/> 5 < MSK1/> 5, obtained by approaching cubes of dimensions 1 < MSK2/> 1 < MSK3/> 1, some of the cubes are removed so as to obtain the solid in the figure, formed by a flat base of height 1 topped by columns, all of the same height 4. How many cubes have been removed in total? A) 56
+> From a cube of dimensions 5 × 5 × 5, obtained by approaching cubes of dimensions 1 × 1 × 1, some of the cubes are removed so as to obtain the solid in the figure, formed by a flat base of height 1 topped by columns, all of the same height 4. How many cubes have been removed in total? A) 56
 > 	
 > B) 60
 > 	

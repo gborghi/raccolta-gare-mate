@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many biscuits are in the tray< MSK1/>
+*How many biscuits are in the tray*
 
 > In one tray, between cookies and chocolates, there are 30 candy bars in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i sottosetti malvagi (nessun tre successivi) di {1,...,10} < MSK1/>
+*Contare i sottosetti malvagi (nessun tre successivi) di {1,...,10} *
 
 > Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi come elementi; l'insieme vuoto è un insieme cattivo. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
 

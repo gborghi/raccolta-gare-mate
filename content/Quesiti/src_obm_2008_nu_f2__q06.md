@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i tuppi ordinati con prodotto massimo n; legato f(n) tra due potenze < MSK1/>
+*Contare i tuppi ordinati con prodotto massimo n; legato f(n) tra due potenze *
 
 > Per un numero intero positivo $n$, $f(n)$ è il numero di prodotti di numeri interi superiori a $1$ il cui risultato è al massimo $n$; cioè $f(n)$ è il numero di $k$-tupli $(a_1,a_2,\ldots,a_k)$ dove $k$ è un numero naturale, $a_1\ge 2$ è un numero intero, e $a_1\cdot a_2\cdots a_k\le n$ per ogni $i$ e $a_1\cdot a_2\cdots a_k\le n$ (conteggiando il numero vuoto $0$-tuplo $()$, il cui prodotto è $1$, come un termine). Quindi, ad esempio, $f(1)=1$ per il $0$-tuple; $f(6)=9$ per il $0$-tuple $()$, i $1$-tuple $(2),(3),(4),(5),(6)$, i $2$-tuple $(2,2),(2,3)$ e $(3,2)$.
 > 

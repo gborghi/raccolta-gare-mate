@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Car speed in front of the caravan after 100 hours< MSK1/>
+*Car speed in front of the caravan after 100 hours*
 
 > In a strange driving resistance competition, all cars are expected to run on the same road starting at point A. The first car starts from A and maintains a constant speed of 50 km/h. From that moment on, every hour a car starts and each car maintains a constant speed of 1 km/h higher than that of the previous car. The last car leaves 50 hours after the first (and therefore travels at 100 km/h). What is the speed of the car that is in front of the caravan 100 hours after the first car leaves? A) 50 km/h
 > 	

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of mcm(k,8) per k from 1 to 120< MSK1/>
+*Sum of mcm(k,8) per k from 1 to 120*
 
 > If you're looking for a match, Lupin/3 prefers to play this game: extract three balls from a bag containing 9 balls numbered from 1 to 9. Every time he extracts a ball, he marks the number and then puts it back in the bag. If the maximum common divisor (MCD) of these 3 numbers is 1 then the beautiful Fujit ̄o counterexchanges her love, otherwise it is not reciprocated. What's the probability that Lupin/3 will compete in Team 2023  Semifinal 1  Problem Tests  1/2
 > 

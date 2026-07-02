@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum c and infinite terms with 2c^2 = a^2 + b^2< MSK1/>
+*Minimum c and infinite terms with 2c^2 = a^2 + b^2*
 
 > DEMOSTRATIVE EXERCISE a) What is the minimum positive integer c such that there exists at least one pair (a, b) of distinct positive integers such that 2c2 = a2 + b2? (b) Demonstrate that there are infinitely many (a, b, c) distinct positive integers such that 2c2 = a2 + b2.
 

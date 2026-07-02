@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maximizzare il prodotto mn con m+n=90 e m,n coprimo< MSK1/>
+*Maximizzare il prodotto mn con m+n=90 e m,n coprimo*
 
 > Che $m$ e $n$ siano interamente integri positivi coprimari che soddisfano $m+n=90$. Trova il valore massimo possibile del prodotto $mn$.
 

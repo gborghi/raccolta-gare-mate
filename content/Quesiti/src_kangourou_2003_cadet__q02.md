@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max 4x4 boxes intersected by a straight line< MSK1/>
+*Max 4x4 boxes intersected by a straight line*
 
 > A straight slices a 4x4 chessboard without going over the top of any box. What is the largest number of boxes (squares 1x1) that a straight line can intersect? A) 3 B) 4 C) 6 D) 7 E) 8
 

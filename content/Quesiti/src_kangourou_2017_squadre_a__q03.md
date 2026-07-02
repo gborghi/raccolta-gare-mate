@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Blue cubes in contact with red ones in the box 5x6x7< MSK1/>
+*Blue cubes in contact with red ones in the box 5x6x7*
 
 > A box without a lid has a base of 5 and 6 and a height of 7. There were 210 cubes on side one in the box. Those who touch the box are red, the others are blue. How many blue cubes share at least one face with a red one?
 

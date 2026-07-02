@@ -51,6 +51,6 @@ tags:
 
 *Numeri reali a_k>1 che soddisfano la condizione di somma, dimostrano la disuguaglianza della somma doppia*
 
-> I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti superiori a $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Provare che < MSK0/>
+> I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti superiori a $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Provare che $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1} < 2n-1.$$
 
 [[src_inmo_1995__Q05]]

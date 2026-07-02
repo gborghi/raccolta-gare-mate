@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>MALE number given MELA minimum with distinct digits< MSK1/>
+*MALE number given MELA minimum with distinct digits*
 
 > *(7 points) * The letters of the word "MELA" are all distinct from each other. He matches each letter of this word with a digit so that the word "MELA" represents the smallest number of four digits all distinct from each other. While maintaining this choice of numbers, what number is represented by the word "MALE"?
 

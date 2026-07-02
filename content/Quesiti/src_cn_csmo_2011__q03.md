@@ -52,6 +52,6 @@ tags:
 
 *Ricerca tutte le n in modo che ogni sottoinsieme di 35 elementi di {1,...,50} contenga a,b con a+b=n o a-b=n*
 
-> Indicare < MSK0/>. Trova tutti gli integri positivi $n$ in modo che ci siano almeno due elementi diversi $a$ e $b$ in qualsiasi sottoinsieme con 35 elementi di $M$, come $a + b = n$ o $a - b = n$. (Posizionato da Li Shenghong)
+> Indicare $M = \{1, 2, 3, \ldots, 50\}$. Trova tutti gli integri positivi $n$ in modo che ci siano almeno due elementi diversi $a$ e $b$ in qualsiasi sottoinsieme con 35 elementi di $M$, come $a + b = n$ o $a - b = n$. (Posizionato da Li Shenghong)
 
 [[src_cn_csmo_2011__Q03]]

@@ -51,11 +51,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Acquisto di un computer oggi rispetto a dopo un aumento del prezzo del 5% e uno sconto del 5%< MSK1/>
+*Acquisto di un computer oggi rispetto a dopo un aumento del prezzo del 5% e uno sconto del 5%*
 
-> Se Joana acquista oggi un computer il cui prezzo è $2000$ reais, avrà uno sconto di $5\%$. Se aspetta fino a domani riceverà lo stesso sconto di $5\%$, ma il prezzo del computer sarà aumentato di $5\%$. Quindi, se aspetta, cosa succederà?
+> Se Joana acquista oggi un computer il cui prezzo è $2000$ reais, riceverà uno sconto di $5\%$. Se aspetta fino a domani riceverà lo stesso sconto di $5\%$, ma il prezzo del computer sarà aumentato di $5\%$. Quindi, se aspetta, cosa succederà?
 > 
-> (A) Niente, visto che pagherà la stessa somma. Quad (B) Perderà reais. \quad (C) Otterrà $105$ reais. Quad (D) Perderà i reais. Quad (E) Perderà < MSK3/> reais.
+> (A) Niente, visto che pagherà la stessa somma. Quad (B) Perderà reais. \quad (C) Otterrà $105$ reais. Quad (D) Perderà i reais. Quad (E) Perderà $105$ reais.
 
 **Risposta:** D
 [[src_obm_2013_n3_f1__Q02]]

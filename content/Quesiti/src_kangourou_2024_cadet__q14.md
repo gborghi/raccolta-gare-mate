@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fish eaten by the other chicken (44 to one) < MSK1/>
+*Fish eaten by the other chicken (44 to one) *
 
 > The cage Paola fishes 12 fish for her two chickens every day and gives 7 fish every day to the first chicken she sees and 5 fish every second: they eat all the fish. A chicken has eaten 44 fish in the last few days. How many fish did the other chicken eat in the same days ? A) 34
 >  

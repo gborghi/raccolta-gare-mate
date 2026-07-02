@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Dinamica del colore Amoeba; contare gli stati possibili nel tubo di prova< MSK1/>
+*Dinamica del colore Amoeba; contare gli stati possibili nel tubo di prova*
 
-> Quando due amebe rosse si incontrano, si trasformano in una sola ameba blu; quando un ameba rosso incontra un ameba blu, le due si trasformano in tre amebe rosse; quando due amebe blu si incontrano, si trasformano in quattro amebe rosse. Un tubo di prova contiene inizialmente < MSK0/> amoebas blu e < MSK1/> amoebas rosse.
+> Quando due amebe rosse si incontrano, si trasformano in una sola ameba blu; quando un ameba rosso incontra un ameba blu, i due si trasformano in tre amebe rosse; quando due amebe blu si incontrano, si trasformano in quattro amebe rosse. Un tubo di prova contiene inizialmente $a$ amoebas blu e $v$ amoebas rosse.
 > 
 > Determinare, in funzione di $a$ e $v$, tutte le possibili quantità di amoeba nel tubo di prova e il numero di amoeba di ogni colore per ciascuna di tali quantità.
 

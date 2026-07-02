@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>values of e< MSK1/>
+*values of e*
 
 > They are a < b < c < d < and real numbers. Calculate all possible sums of two to two of these five numbers. Of these 10 sums, the three smallest ones are 32, 36, 37, while the two largest ones are 48 and 51. Let us determine all the possible values that can be assumed.
 

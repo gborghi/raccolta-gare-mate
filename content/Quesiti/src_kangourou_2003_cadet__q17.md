@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities n with max divisor =15 times the min< MSK1/>
+*Quantities n with max divisor =15 times the min*
 
 > How many positive integers n have the following property: among the (positive) divisors of n other than 1 and n, the largest is 15 times the smallest? A) 0 B) 1 C) 2 D) infinite E) none of the above answers is correct
 

@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Arrangere 8 palle di 3 colori con numero impar di rosso < MSK1/>
+*Arrangere 8 palle di 3 colori con numero impar di rosso *
 
 > Tra i modi per organizzare un totale di sfere $8$ dei tre colori rosso, blu e giallo di fila, quante ci sono in cui il numero di sfere rosse utilizzate è strano? Supponiamo che ci siano sufficienti palline di ogni colore, e che ci siano colori che non vengono utilizzati affatto.
 

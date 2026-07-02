@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum red vertices with all different distances (21 axis) < MSK1/>
+*Maximum red vertices with all different distances (21 axis) *
 
-> Consider a regular polygon of < MSK0/> sides. You want to color some vertices red so that, however you choose two pairs of vertices both red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
+> Consider a regular polygon of $21$ sides. You want to color some vertices red so that, however you choose two pairs of vertices both red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
 
 **Answer:** 5
 [[src_kangourou_2009_cadet_maggio__QC6]]

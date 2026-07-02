@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Wrapped length of bulge on the mattress< MSK1/>
+*Wrapped length of bulge on the mattress*
 
 > A teacher in the kitchen [35] Bonferrina, the wife of the village chief, when she has to prepare the outing for the big banquet always drinks a little magic potion. Thanks to its magical effect, it is thus able to stretch it evenly with a thickness of 0.1 mm. After laying it down, he wraps it over his beloved mattress so that he can carry it comfortably to the village oven. Knowing that the paste makes a whole number of turns around the matrix, that the diameter of this roll is 65 cm and that initially the diameter of the matrix was 4 cm, find out how long the fold is in decameters.
 

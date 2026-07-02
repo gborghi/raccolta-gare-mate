@@ -51,7 +51,7 @@ tags:
 
 *to demonstrate the geometric conditions*
 
-> Determine the polygon area obtained as a union of two squares both having sides of length 1, having the same centre and rotating < MSK0/> with respect to each other.
+> Determine the area of the polygon obtained as a union of two squares both having sides of length 1, having the same centre and rotating 45° with respect to each other.
 >
 > - **(A)** 4 −2 √ 2
 > - **(B)** 9 8

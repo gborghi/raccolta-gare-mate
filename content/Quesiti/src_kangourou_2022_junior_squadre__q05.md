@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>2022-th whole without digit 1 < MSK1/>
+*2022-th whole without digit 1 *
 
 > Without digit 1 If you write in ascending order (in decimal notation) all positive integers less than 10,000 in which the digit 1 does not appear, what is the number that occupies the 2022-but position?
 

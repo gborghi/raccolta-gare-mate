@@ -51,8 +51,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Triangolo acuto con angolo ACB = 2 angolo ABC, D su BC con 2 angolo BAD = angolo ABC; dimostrare 1/BD = 1/AB + 1/AC.*
+*Triangolo acuto con angolo ACB = 2 angolo ABC, D su BC con 2 angolo BAD = angolo ABC; prova 1/BD = 1/AB + 1/AC.*
 
-> In un triangolo a angolo acuto $ABC$ con $\angle ACB = 2\angle ABC$, $D$ è il punto laterale $BC$ che soddisfa $2\angle BAD = \angle ABC$. Provare che < MSK0/>
+> In un triangolo a angolo acuto $ABC$ con $\angle ACB = 2\angle ABC$, $D$ è il punto laterale $BC$ che soddisfa $2\angle BAD = \angle ABC$. Provare che $$\frac{1}{BD} = \frac{1}{AB} + \frac{1}{AC}.$$
 
 [[src_pol_2000_r1__Q02]]

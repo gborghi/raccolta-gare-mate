@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> which result< MSK1/>
+* which result*
 
 ![[src_kangourou_2022_koala__prob3.png]]
 

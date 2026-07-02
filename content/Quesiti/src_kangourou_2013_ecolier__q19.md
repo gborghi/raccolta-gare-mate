@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cat waking minutes in January< MSK1/>
+*Cat waking minutes in January*
 
 > Last January, Trippa slept for exactly three weeks. How many minutes were you awake in January? A) 24 × 3 × 24 × 60 B) 10 × 24 × 60	               	        C) 9 × 24 × 60 D) 24 × 24 × 60 E) 10 × 24 × 60 × 60
 

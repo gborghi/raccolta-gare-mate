@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum footpaths on a 8x8 chessboard< MSK1/>
+*Minimum footpaths on a 8x8 chessboard*
 
-> A pawn is placed in the first upper left-hand box of a chessboard 8 < MSK0/> 8 (box (1, 1)) and must reach the last lower right-hand box of the chessboard (box (8, 8)). Each move involves moving the pedal from each box in which it is in an adjacent box, that is, sharing a side with it. How many different routes require as few moves as possible?
+> A pawn is placed in the first upper left-hand box of a chessboard 8 × 8 (box (1, 1)) and must reach the last lower right-hand box of the chessboard (box (8, 8)). Each move consists of moving the pedal from each box in which it is in an adjacent box, that is, it shares a side with it. How many different routes require as few moves as possible?
 
 **Answer:** 3432
 [[src_kangourou_2023_junior_squadre_f2__Q13]]

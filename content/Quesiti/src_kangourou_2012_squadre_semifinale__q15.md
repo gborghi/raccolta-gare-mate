@@ -59,7 +59,7 @@ tags:
 
 *Minimum n with the last three digits of 3999n equal to 888*
 
-> The last three digits What is the smallest positive integer n such that the last three digits of product 3999 < MSK0/> n are 888?
+> The last three digits What is the smallest positive integer n such that the last three digits of product 3999 × n are 888?
 >  
 > 
 >  

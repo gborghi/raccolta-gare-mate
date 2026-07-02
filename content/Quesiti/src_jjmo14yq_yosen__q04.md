@@ -60,9 +60,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La maggior parte delle persone ottiene almeno una mela in più dell'arancia< MSK1/>
+*La maggior parte delle persone ottiene almeno una mela in più dell'arancia*
 
-> Ci sono mele $2016$ e arance $2016$ e queste sono distribuite tra le persone $2016$ alle seguenti condizioni: \begin{itemize} \item Ogni frutto deve essere distribuito. Nessuna persona riceve < MSK3/> frutta. Nessuna persona può ricevere in totale più di < MSK4/> pezzi di frutta (comprendendo entrambe le specie). In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno < MSK5/> più mele che arancione?
+> Ci sono mele $2016$ e arance $2016$ e queste sono distribuite tra le persone $2016$ alle seguenti condizioni: \begin{itemize} \item Ogni frutto deve essere distribuito. Nessuna persona riceve $0$ frutta. Nessuna persona può ricevere in totale più di $4$ pezzi di frutta (comprendendo entrambe le specie). In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno $1$ più mele che arancione?
 
 **Risposta:** 1612
 [[src_jjmo14yq_yosen__Q04]]

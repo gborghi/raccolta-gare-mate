@@ -57,6 +57,6 @@ tags:
 > 
 > (a) Demonstrate that for each such succession there is a $n \geq 1$ such that $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} \geq 3{,}999.$$
 > 
-> (b) Find such a succession for which < MSK0/>
+> (b) Find such a succession for which $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4.$$
 
 [[src_imo_1982__Q03]]

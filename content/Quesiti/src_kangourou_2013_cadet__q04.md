@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Candle still lit after 55 minutes< MSK1/>
+*Candle still lit after 55 minutes*
 
 > Alexander lights a candle every ten minutes. Every candle burns for 40 minutes and then it goes out. How many candles are still lit 55 minutes after Alexander lit the first candle? A) 2
 > 	

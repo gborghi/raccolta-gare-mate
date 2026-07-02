@@ -60,7 +60,7 @@ tags:
 
 *Lunghezza dell'AP in un triangolo XYZ con linee attraverso un punto parallelo ai lati*
 
-> Il diagramma mostra un triangolo $XYZ$. I lati $XY$, $YZ$ e $XZ$ hanno lunghezze rispettivamente $2$, $3$ e $4$. Le linee $AMB$, $PMQ$ e $SMT$ sono disegnate in parallelo ai lati $YZ$, $XZ$ e $XY$, rispettivamente, dove $A$, $P$, $S$ sono sul lato $XY$ e $B$, $Q$, $T$ sono sul lato $XZ$. Inoltre $M$ è lo stesso punto su ciascuna di queste linee. Qual è la lunghezza di < MSK22/>?
+> Il diagramma mostra un triangolo $XYZ$. I lati $XY$, $YZ$ e $XZ$ hanno lunghezze rispettivamente $2$, $3$ e $4$. Le linee $AMB$, $PMQ$ e $SMT$ sono disegnate in parallelo ai lati $YZ$, $XZ$ e $XY$, rispettivamente, dove $A$, $P$, $S$ sono sul lato $XY$ e $B$, $Q$, $T$ sono sul lato $XZ$. Inoltre $M$ è lo stesso punto su ciascuna di queste linee. Qual è la lunghezza di $AP$?
 >
 > - **(A)** $\dfrac{10}{11}$
 > - **(B)** $\dfrac{11}{12}$

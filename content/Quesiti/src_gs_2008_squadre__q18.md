@@ -49,11 +49,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shorter course on the cylinder surface< MSK1/>
+*Shorter course on the cylinder surface*
 
 ![[src_gs_2008_squadre__prob18.png]]
 
-> An ant is in the center of the circle at the top of the MSK0/>L** in front of the Ell lab. Another is in the center of the other circle on **L**.
+> An ant is in the center of the circle at the top of the**L** in front of the Ell lab. Another is in the center of the other circle on **L**.
 > 
 > How long in millimeters is the shortest path that allows one ant to reach the other?
 > 

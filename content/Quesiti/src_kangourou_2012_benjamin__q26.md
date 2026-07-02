@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of square tables from table 6x7< MSK1/>
+*Minimum number of square tables from table 6x7*
 
 > Peter has a rectangular wooden board of 6 × 7 dm. He wants to cut it down so that you can only get square boards whose sides measure an integer number of decimeter. What is the minimum number of boards you'll have to get? A) 4 B) 5 C) 7 D) 9 E) 42
 

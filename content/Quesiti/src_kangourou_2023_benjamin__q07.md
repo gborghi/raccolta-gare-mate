@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> equal to < MSK1/>
+* equal to *
 
 ![[src_kangourou_2023_benjamin__prob7.png]]
 

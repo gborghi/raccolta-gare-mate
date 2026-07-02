@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max MCD(m,n) by exchanging the first/last digit + n digits< MSK1/>
+*Max MCD(m,n) by exchanging the first/last digit + n digits*
 
 > On the planet Geodesis, between one evil plan and the other, Count Sudooku delights in writing numbers of up to 10 digits with the first and last digits different between them and from zero. Next to each number m, he writes the number n obtained from m by exchanging the first and last digits, and then notes the maximum common divisor d between m and n. Determine the maximum possible value for d and add it to the number of its digits. Team competition 2016  National final  Problem texts  1/5
 > 

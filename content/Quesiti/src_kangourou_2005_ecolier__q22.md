@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum exchanges for rearranging five cards< MSK1/>
+*Minimum exchanges for rearranging five cards*
 
 ![[src_kangourou_2005_ecolier__prob22.png]]
 

@@ -76,7 +76,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Axis of a segment with max (chebyshev distance) metric < MSK1/>
+*Axis of a segment with max (chebyshev distance) metric *
 
 ![[src_kangourou_2022_student_finale__probS5.png]]
 

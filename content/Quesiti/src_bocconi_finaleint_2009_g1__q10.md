@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of moves (turn 7 glasses at a time) to bring all 9 glasses to the drying stage.< MSK1/>
+*Minimum number of moves (turn 7 glasses at a time) to bring all 9 glasses to the drying stage.*
 
 > 10 - The BICKING GAME (coefficient 10) There are nine glasses on a table. One and drunk, eight are down. One move consists of turning seven glasses (any glass can be turned backwards or backwards). At least, how many moves do you have to play to get all the glasses drunk?
 

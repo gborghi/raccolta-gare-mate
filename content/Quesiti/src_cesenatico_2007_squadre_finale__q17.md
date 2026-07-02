@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Years orderly divided by k, k-1,... more than 2007*
+*Years orderly divided by k, k-1,... more than 2007*
 
 > The last favorable moment for the seal closure ritual that imprisons the demon was 2007, as mathematics is reinforced by the fact that 2007 is divisible by 9, 2008 by 8, 2009 by 7, and 2010 by 6. When a sequence, longer than this, of years with the characteristic of being orderly divisible by positive integers k, k −1, k −2, begins for the first time after 2007. . . ?
 

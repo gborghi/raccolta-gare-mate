@@ -47,7 +47,7 @@ tags:
 
 *Next future date with three 5*
 
-> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date which will contain three more < MSK4/> is:
+> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date which will contain three more $5$ is:
 > 
 > (A) $5/5/2025$ (B) $15/6/2055$ (C) $15/5/2050$ (D) $25/5/2015$ (E) $15/5/2015$
 

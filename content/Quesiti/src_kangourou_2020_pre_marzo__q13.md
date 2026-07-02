@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Figure in which the grey pencil is used most< MSK1/>
+*Figure in which the grey pencil is used most*
 
 ![[src_kangourou_2020_pre_marzo__prob13.png]]
 

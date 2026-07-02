@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Conversion of double-double-double-double-taller < MSK1/>
+*Conversion of double-double-double-double-taller *
 
 > 800 doubles are worth 100 dukes. 100 doubles are equal to 250 tallies. How many duchies have the same value as 100 tallies? A) 2 B) 5 C) 10 D) 25 E) 50
 

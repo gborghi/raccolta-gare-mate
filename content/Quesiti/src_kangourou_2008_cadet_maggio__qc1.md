@@ -47,13 +47,13 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Final turnout at the polls (increase in percentage) < MSK1/>
+*Final turnout at the polls (increase in percentage) *
 
 > Elections for mayor of Kanguria are held every four years. Voters can exercise their right to vote in a single day.
 > 
-> Four years ago, voter turnout at 1 p.m. was < MSK0/> of the eligible voters, and at the end it was < MSK1/>.
+> Four years ago, voter turnout at 1 p.m. was $20\%$ of the eligible voters, and finally it was $70\%$.
 > 
-> This year the attendance recorded at 1 p.m. was < MSK0/>. What will be the final outcome if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
+> This year the attendance recorded at 1 p.m. was $24\%$. What is the final outcome if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
 
 **Answer:** 84%
 [[src_kangourou_2008_cadet_maggio__QC1]]

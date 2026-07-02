@@ -53,7 +53,7 @@ tags:
 
 *Trova il valore di un angolo di massimizzazione APB con punto medio B di OA sul triangolo rettangolo*
 
-> Lasciamo $OA = 2$ e $\angle AOP = 90^\circ$, quindi il triangolo $AOP$ è un triangolo rettangolo con l'angolo giusto a $O$. Il punto medio del lato $OA$ è $B$. Let < MSK6/>. Trova il valore di $a$ che massimizza $\angle APB$.
+> Lasciamo $OA = 2$ e $\angle AOP = 90^\circ$, quindi il triangolo $AOP$ è un triangolo rettangolo con l'angolo giusto a $O$. Il punto medio del lato $OA$ è $B$. Let $OP = a$. Trova il valore di $a$ che massimizza $\angle APB$.
 
 **Risposta:** \sqrt{2}
 [[src_jmo15yq_yosen__Q03]]

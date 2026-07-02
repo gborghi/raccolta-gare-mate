@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total tops with blue eyes< MSK1/>
+*Total tops with blue eyes*
 
 > A certain colony is 25% white and 75% black. Among white mice, 50% have blue eyes while among black mice only 20% have blue eyes. Knowing that 99 mice have blue eyes, how many mice does the colony consist of?
 >  

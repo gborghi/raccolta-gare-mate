@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>At least (n-3 choose 2) convex quadrilaterals from n points< MSK1/>
+*At least (n-3 choose 2) convex quadrilaterals from n points*
 
 > Given $n > 4$ points in the plane such that no three are collinear. Prove that there are at least $\binom{n-3}{2}$ convex quadrilaterals whose vertices are four of the given $n$ points.
 

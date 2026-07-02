@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>In how many ways 1001 as the sum of two prime < MSK1/>
+*In how many ways 1001 as the sum of two prime *
 
 > How many different ways (except the order) can the number 1001 be written as the sum of two prime numbers? A) 0
 > 	

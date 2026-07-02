@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum n persons in 60 seats with no isolated free seat< MSK1/>
+*Minimum n persons in 60 seats with no isolated free seat*
 
 > 60 chairs are arranged around a round table. A certain number, let's call it n, of people are sitting at this table so that anyone who wants to join them should necessarily sit in a chair next to someone already occupied. The smallest value of n that makes the situation possible is A) 15 B) 20 C) 30 D) 40 E) 58
 

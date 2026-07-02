@@ -54,7 +54,7 @@ tags:
 
 ![[src_kangourou_2007_cadet_marzo__prob3.png]]
 
-> A billiard ball hits the edge of the table at an angle of < MSK0/>, as shown in the figure. Which hole will he fall into? (a) A (b) B (c) C (d) D (e) in any
+> A billiard ball hits the edge of the table at an angle of 45°, as shown in the figure. Which hole will he fall into? (a) A (b) B (c) C (d) D (e) in any
 
 **Answer:** C
 [[src_kangourou_2007_cadet_marzo__Q03]]

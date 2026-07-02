@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many turns to read KANGAROO correctly< MSK1/>
+*How many turns to read KANGAROO correctly*
 
 ![[src_kangourou_2014_benjamin__prob1.png]]
 

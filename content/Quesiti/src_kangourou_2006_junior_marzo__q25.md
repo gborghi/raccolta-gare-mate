@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Color of the cube with 6 colours< MSK1/>
+*Color of the cube with 6 colours*
 
 > You have six different colors available to color the six faces of a cube: you can only use one color per face and you have to use all the colors. How many different colors of the cube are possible? (Two colours are understood to be different if and only if they cannot be obtained from each other by rotating the cube.)
 

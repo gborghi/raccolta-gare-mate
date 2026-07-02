@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of MCD with 42 greater than 10< MSK1/>
+*Probability of MCD with 42 greater than 10*
 
 > Elena's playing dice and pulling a number out of the bag (numbers range from 1 to 90). What is the probability that the maximum common divisor between the extracted number and the number 42 is greater than 10?
 >

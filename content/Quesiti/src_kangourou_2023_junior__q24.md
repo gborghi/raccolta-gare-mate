@@ -60,10 +60,6 @@ tags:
 > 88
 > 89
 > 90
-> 1
-> 1
-> 1
-> 1
 > A
 > B
 > ?
@@ -80,7 +76,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>right slope bisecting area< MSK1/>
+*right slope bisecting area*
 
 > In the plane with an orthogonal cartesian system, the rectangle R of vertices (0,0), (100,0), (100,50) and (0,50) was drawn. From R the center circle (75.30) and radius 10 have been removed. What is the slope of the straight line passing through the point (75.30) and dividing the remaining part of the rectangle into two regions of the same area? N.B. The pend of a passing line for the two points (a, b) and (c, d) is the ratio (b  d)/(a  c). A) 1/5 B) 1/3
 > 	

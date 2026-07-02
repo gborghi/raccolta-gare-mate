@@ -54,7 +54,7 @@ tags:
 
 *Massima dimensione di un insieme di permutazioni senza proprietà triple all-between*
 
-> $n$ sia un numero intero superiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, diciamo che $j$ si trova tra $i$ e $k$ se $i < j < k$ o $k < j < i$. (Per esempio, nella permutation $(1, 3, 2, 4)$, $3$ si trova tra $1$ e $4$, e $3$ non si trova tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutations distinte di $(1, 2, \ldots, n)$ in modo tale che tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non si trovi tra gli altri due in ogni permutation $p \in S$. Determinare il valore massimo di < MSK20/>.
+> $n$ sia un numero intero superiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, diciamo che $j$ si trova tra $i$ e $k$ se $i < j < k$ o $k < j < i$. (Per esempio, nella permutation $(1, 3, 2, 4)$, $3$ si trova tra $1$ e $4$, e $3$ non si trova tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutations distinte di $(1, 2, \ldots, n)$ in modo tale che tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non si trovi tra gli altri due in ogni permutation $p \in S$. Determinare il valore massimo di $m$.
 
 **Risposta:** $2^{n-1}$
 [[src_cn_cgmo_2010__Q06]]

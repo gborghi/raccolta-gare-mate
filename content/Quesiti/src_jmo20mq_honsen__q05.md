@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maximi intersezioni di rotta diagonale chiusa di convex 2010-gon< MSK1/>
+*Maximi intersezioni di rotta diagonale chiusa di convex 2010-gon*
 
 > Si dà un convex $2010$-gon in cui non ci sono tre diagonali che abbiano un punto comune diverso dai vertici. Considera una linea chiusa rotta che è costituita da diagonali $2010$ (i lati del poligono non sono ammessi) e attraversa ogni vertice esattamente una volta. Trova il numero massimo possibile di intersezioni di una linea rotta chiusa.
 > 

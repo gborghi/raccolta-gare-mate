@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0> In which base 5654 is the power of a prime < MSK1/>
+*In which base 5654 is the power of a prime*
 
 > In which bases b > 6 does the writing 5654 represent a power of a prime number?
 

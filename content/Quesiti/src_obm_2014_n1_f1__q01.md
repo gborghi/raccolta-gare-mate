@@ -64,7 +64,7 @@ tags:
 
 *Orologio analogo: contare quante volte le due mani puntano in una determinata configurazione in un intervallo *
 
-> Ogni orologio analogo ha almeno due mani: una per mostrare l'ora e l'altra per mostrare il minuto. Joaozinho osserva che queste mani sono talvolta molto distanti e talvolta molto vicine, come nella figura. Quante volte, tra < MSK0/> ore e < MSK1/> minuti di una mattina e < MSK2/> ore di mattina del giorno successivo, si verifica la configurazione?
+> Ogni orologio analogo ha almeno due mani: una per mostrare l'ora e l'altra per mostrare il minuto. Joaozinho osserva che queste mani sono talvolta molto distanti e talvolta molto vicine, come nella figura. Quante volte, tra le ore $5$ e $7$ minuti di una mattina e $7$ ore della mattina del giorno successivo, si verifica la configurazione?
 > 
 > (A) $40$ \quad (B) $44$ \quad (C) $45$ \quad (D) $46$ \quad (E) $47$
 

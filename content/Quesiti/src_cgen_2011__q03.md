@@ -83,7 +83,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Sulle radici m della unità U_m, studiare l'esistenza di f: U_{2n} -> U_{2n} con f(f(z))=z^2; analizzare i casi per n e costruire soluzioni per n odd.*
+*Sulle radici m di unità U_m, studiare l'esistenza di f: U_{2n} -> U_{2n} con f(f(z))=z^2; analizzare i casi per n e costruire soluzioni per n odd.*
 
 > **Problema 3: La radice del quadrato.**
 > 
@@ -93,7 +93,7 @@ tags:
 > 
 > **1.** Indicare che l'insieme $\{ z^2 \mid z \in U_{2n} \}$ è uguale a $U_n$ e che è incluso in $U_{2n}$.
 > 
-> < MSK1/> 2. < MSK2/> Supponiamo che esista una soluzione < MSK0/> al problema considerato.
+> ** 2. ** Supponiamo che esista una soluzione $f$ al problema considerato.
 > 
 > **a.** Verificare che $f(z^2) = (f(z))^2$ per tutti $z$ in $U_{2n}$.
 > 

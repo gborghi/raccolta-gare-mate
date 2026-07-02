@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Price of the average escaped parrot< MSK1/>
+*Price of the average escaped parrot*
 
 > There were five parrots in a cage. Their average price was 60 euros. One day, while cleaning the cage, the most handsome one flew away. The average price of the remainder is 50 euros. What was the price of the fugitive? (a) 10 euro B) 20 euro C) 55 euro D) 60 euro E) 100 euro
 

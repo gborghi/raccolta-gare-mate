@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of f^(((11) by iterating square sum of digits < MSK1/>
+*Value of f^(((11) by iterating square sum of digits *
 
 > 7. Magical power As even learned mathematicians know, the power of a spell is reinforced by repeating its formula. Calculating power, however, is not easy. Either f (n) the square of the sum of the digits of n. It is then $f^{(2)}$(n) = f(f(n)), $f^{(3)}$(n) = f(f(n))) and so on. Find $f^{(2006)}$(11).
 

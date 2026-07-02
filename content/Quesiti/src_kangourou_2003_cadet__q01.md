@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Recognize folded/cut sheet< MSK1/>
+*Recognize folded/cut sheet*
 
 ![[src_kangourou_2003_cadet__prob1.png]]
 

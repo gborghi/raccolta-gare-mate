@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value a+b figures of 4^2021 and 25^2021< MSK1/>
+*Value a+b figures of 4^2021 and 25^2021*
 
 > If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the rest. For how many positive integers, less than 2021, does the same thing happen, that is, the rest of the four divisions is always 5?
 > 

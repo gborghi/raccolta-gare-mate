@@ -60,7 +60,7 @@ tags:
 > - **(B)** 4 times the area of $ABC$
 > - **(C)** 5 times the area of $ABC$
 > - **(D)** 6 times the area of $ABC$
-> - **(E)** 7 times the area of < MSK0/>.
+> - **(E)** 7 times the area of $ABC$.
 
 **Answer:** E
 [[src_archimede_1998_2livello__Q10]]

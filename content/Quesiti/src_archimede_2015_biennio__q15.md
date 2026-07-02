@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rage of the rope plate and the fragment sachet< MSK1/>
+*Rage of the rope plate and the fragment sachet*
 
 ![[src_archimede_2015_biennio__prob15.png]]
 

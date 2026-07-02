@@ -55,7 +55,7 @@ tags:
 
 *Lunghezza QX con un semicircolo inserito in un triangolo equilaterale*
 
-> Il triangolo $PQR$ è equilaterale. Un semicircolo con centro $O$ è disegnato con il suo diametro su $PR$ in modo che una estremità sia a $P$ e il bordo curvo tocchi $QR$ a $X$. Il raggio del semicircolo è $\sqrt{3}$. Qual è la lunghezza di < MSK7/>?
+> Il triangolo $PQR$ è equilaterale. Un semicircolo con centro $O$ è disegnato con il suo diametro su $PR$ in modo che una estremità sia a $P$ e il bordo curvo tocchi $QR$ a $X$. Il raggio del semicircolo è $\sqrt{3}$. Qual è la lunghezza di $QX$?
 >
 > - **(A)** $\sqrt{3}$
 > - **(B)** $2-\sqrt{3}$

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many blackheads did you have at the beginning as you move forward 5 < MSK1/>
+*How many blackheads did you have at the beginning as you move forward 5 *
 
 > The Tim rabbit is very fond of carrots and carrots, but it follows an iron rule: every day, as you choose, it eats either 9 carrots, or 2 carrots, or 1 carrots and 4 carrots. For a week, Tim ate a total of 30 carrots. How many carrots did you eat in all that week? A) 6
 > 	

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of odd divisors by 7!< MSK1/>
+*Fraction of odd divisors by 7!*
 
 > What a fraction of the sum of the divisors of 7! It's made up of odd numbers? A)
 > 	

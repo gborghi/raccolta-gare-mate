@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which couple may be of the same age< MSK1/>
+*which couple may be of the same age*
 
 > 3. Isabella is older than Charles and younger than Liliana. Edward is older than Isabella. What couple can be made by people of the same age? A) Charles and Edward B) Edward and Liliana C) Liliana and Charles D) Isabella and Liliana E) Edward and Isabella
 

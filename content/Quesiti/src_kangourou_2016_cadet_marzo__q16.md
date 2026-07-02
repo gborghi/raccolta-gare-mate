@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the sum of all possible years< MSK1/>
+*the sum of all possible years*
 
 > Today is the birthday of 5 brothers: Leo, Lino and Luca are twins; their brothers, three years younger, Nico and Nino, are also twins. Which of the following numbers can be the sum of the ages of the five brothers? A) 36
 > 	

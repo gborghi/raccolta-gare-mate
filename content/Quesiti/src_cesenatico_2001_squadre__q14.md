@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bisexual years (sum of figures 7) between 0 and 5000 < MSK1/>
+*Bisexual years (sum of figures 7) between 0 and 5000 *
 
-> The following table shows the number of calendar days: < MSK0/> Calendars< MSK1/> (30 points)
+> The following table shows the number of calendar days: ** Calendars** (30 points)
 > 
 > In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is 7 (for example, the year 1060 is even-numbered). How many leap years have there been between year zero and year 5000?
 

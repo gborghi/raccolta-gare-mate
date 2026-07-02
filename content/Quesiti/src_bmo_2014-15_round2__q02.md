@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prova l'equivalenza: più consigli per ragazzi strani se le classi uniche hanno più ragazzi.< MSK1/>
+*Prova l'equivalenza: più consigli per ragazzi strani se le classi uniche hanno più ragazzi.*
 
 > Nella scuola primaria di Oddesdon ci sono un numero strano di lezioni. Ogni classe contiene un numero impar di allievi. Un allievo da ogni classe sarà scelto per formare il consiglio scolastico. Prove che le seguenti due affermazioni sono logicamente equivalenti.
 > 

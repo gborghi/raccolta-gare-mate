@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum moves to spin 5 coins by turning 3 coins at a time< MSK1/>
+*Minimum moves to spin 5 coins by turning 3 coins at a time*
 
 > On a table there are five coins, all with their sides headed up. You can switch to the coins, but you have to turn exactly 3 of them with each move. What's the minimum number of moves that allows you to have all the coins with the cross side up? A) 2
 > 	

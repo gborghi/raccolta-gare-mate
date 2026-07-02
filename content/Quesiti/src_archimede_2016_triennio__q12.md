@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability sum of red dice equal to blue dice< MSK1/>
+*Probability sum of red dice equal to blue dice*
 
 > Two red dice and one blue dice are thrown. What is the probability that the sum of the red dice scores is equal to the blue dice score?
 >

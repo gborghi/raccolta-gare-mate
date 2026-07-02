@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times are the tips perpendicular in a day< MSK1/>
+*How many times are the tips perpendicular in a day*
 
 > How many times, over the course of a day (from midnight to midnight) are the hour and minute clock (with a common 12-hour dial) perpendicular?
 >

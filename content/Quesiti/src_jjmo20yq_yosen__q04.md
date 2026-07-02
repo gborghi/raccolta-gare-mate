@@ -52,7 +52,7 @@ tags:
 
 *Triangolo AB=5,BC=7,CA=6 con punti ceviani; circoncircolo di BDF tangente a EF*
 
-> Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, $D$, $E$, $F$ siano rispettivamente punti sui lati $BC$, $CA$ e $AB$ (non coincidendo con nessun vertice). Il quadrilaterale $ABDE$ ha un cerchio circoscritto e il quadrilaterale $BCEF$ ha anche un cerchio circoscritto. Il cerchio circonscritto del triangolo $BDF$ è tangente al segmento di linea $EF$. Trova la lunghezza < MSK14/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, $D$, $E$, $F$ siano punti sui lati $BC$, $CA$ e $AB$ rispettivamente (non coincidendo con nessun vertice). Il quadrilaterale $ABDE$ ha un cerchio circoscritto e il quadrilaterale $BCEF$ ha anche un cerchio circoscritto. Il cerchio circonscritto del triangolo $BDF$ è tangente al segmento di linea $EF$. Trova la lunghezza $EF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{75}{37}
 [[src_jjmo20yq_yosen__Q04]]

@@ -64,11 +64,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sequenza infinita di integri positivi con condizione di potenza di min-differenza di 2025; dimostrare la surgezione sui positivi< MSK1/>
+*Sequenza infinita di integri positivi con condizione di potenza di min-differenza di 2025; dimostrare la surgezione sui positivi*
 
 > Lasciate che $(a_k)_{k \ge 1}$ sia una sequenza infinita di integri positivi tale che:
 > 
-> (i) < MSK0/> sono numeri interi positivi separati in coppia, tutti diversi da < MSK1/>;
+> (i) $a_1, a_2, \ldots, a_{10000}$ sono numeri interi positivi separati in coppia, tutti diversi da $2$;
 > 
 > (ii) per $n > 10000$ definire $a_n$ come il numero intero positivo più piccolo diverso da $a_1, a_2, \ldots, a_{n-1}$ in modo tale che $|a_n - a_{n-1}|$ sia una potenza di $2025$ (nota che $1$ è una potenza di $2025$).
 > 

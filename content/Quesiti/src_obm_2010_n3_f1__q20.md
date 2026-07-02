@@ -65,9 +65,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Summa di prodotti p(A) su tutti i sottosetti A di {1,...,10}.< MSK1/>
+*Summa di prodotti p(A) su tutti i sottosetti A di {1,...,10}.*
 
-> Per ogni sottoinsieme $A$ di $\{1,2,3,4,5,6,7,8,9,10\}$, $p(A)$ deve essere il prodotto dei suoi elementi. Ad esempio, $p(\{1,2,4,5\})=40$ e $p(A)=10!=1\cdot 2\cdot 3\cdots 10$ (quando $A$ è l'intero insieme). Per convenzione, $p(\varnothing)=1$. La somma di tutti i prodotti < MSK7/> < MSK8/> è pari a
+> Per ogni sottoinsieme $A$ di $\{1,2,3,4,5,6,7,8,9,10\}$, $p(A)$ deve essere il prodotto dei suoi elementi. Ad esempio, $p(\{1,2,4,5\})=40$ e $p(A)=10!=1\cdot 2\cdot 3\cdots 10$ (quando $A$ è l'intero insieme). Per convenzione, $p(\varnothing)=1$. La somma di tutti i prodotti $2^{10}$ $p(A)$ è pari a
 >
 > - **(A)** $2^{11}$
 > - **(B)** $11!$

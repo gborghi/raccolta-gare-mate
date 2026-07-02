@@ -80,7 +80,7 @@ tags:
 > 
 > Quando i numeri interi possono essere riempiti soddisfacendo entrambe le condizioni, chiamiamo $(m, n)$ una \emph{buona coppia}. Ad esempio, $(2, 2)$ è una buona coppia.
 > 
-> (1) Let < MSK0/>. Trova tutti gli enti $n$ con $n \le 10$ in modo tale che $(3, n)$ sia una buona coppia.
+> (1) Let $m = 3$. Trova tutti gli enti $n$ con $n \le 10$ in modo tale che $(3, n)$ sia una buona coppia.
 > 
 > (2) Per le buone coppie $(m, n)$ con $m, n \le 10$, indicare il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Hypotenous triangle rectangle from cateto and inscribed radius< MSK1/>
+*Hypotenous triangle rectangle from cateto and inscribed radius*
 
 > Gabriella has a large six-sided dice completely white, except for the numbers written on the faces, and she wants to color all the faces and all the vertices of the dice, using red, blue, green, and yellow, so that there are no two adjacent faces (i.e. with one side in common) with the same color and each vertex has a different color from all the faces to which it belongs. How many different ways can you do that?
 >

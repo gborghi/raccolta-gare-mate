@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Colouring them with other colours< MSK1/>
+*Colouring them with other colours*
 
 > You have 2004 coriandals (each of one color). Half of them are blue, a quarter are red and a sixth are green. How many other colors are there? A) 167         B) 334        C) 501        D) 1002      E) 1837
 

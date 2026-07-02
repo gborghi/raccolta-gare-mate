@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many brown balls in Elena's 20< MSK1/>
+*How many brown balls in Elena's 20*
 
 > Elena has 20 buds, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green; 5 are red; 12 are not blue. How many brown balls are there?
 

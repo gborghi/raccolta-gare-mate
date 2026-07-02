@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume of parallel pipes in the forehead. The value of the underlying assets shall be calculated on the basis of the following information:
+*Volume of parallel pipes in the forehead. The value of the underlying assets shall be calculated on the basis of the following information:
 
 > The lengths of the tips of a rectangular parallel-piped, measured in centimetres, are integers and form a geometric progression of the ratio q = 2. Which of the following measures, in cubic centimetres, can represent the volume of the solid? (a) 120 (b) 188 (c) 350 (d) 500 (e) None
 

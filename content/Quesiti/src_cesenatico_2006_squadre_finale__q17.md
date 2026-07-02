@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integres >9 with strictly increasing numbers< MSK1/>
+*Integres >9 with strictly increasing numbers*
 
 > A condemnation to be avoided The followers of the One-who-can-not-be-proved, fierce proponents of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
 

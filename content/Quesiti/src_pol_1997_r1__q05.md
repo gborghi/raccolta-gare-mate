@@ -54,6 +54,6 @@ tags:
 
 *I bisettori angolari di un triangolo incontrano i lati opposti e il circoncircolo; dimostrare che la somma dei rapporti è almeno di 1.*
 
-> I bisettori angolari degli angoli $A$, $B$, $C$ di un triangolo $ABC$ incontrano i lati opposti rispettivamente a $D$, $E$, $F$ e il cerchio circoscritto di $\triangle ABC$ a $K$, $L$ e $M$. Provare che < MSK0/>
+> I bisettori angolari degli angoli $A$, $B$, $C$ di un triangolo $ABC$ incontrano i lati opposti rispettivamente a $D$, $E$, $F$ e il cerchio circoscritto di $\triangle ABC$ a $K$, $L$ e $M$. Provare che $$\frac{AD}{DK} + \frac{BE}{EL} + \frac{CF}{FM} \ge 1.$$
 
 [[src_pol_1997_r1__Q05]]

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of 3a+1/a given 9a^2+1/a^2=19< MSK1/>
+*Value of 3a+1/a given 9a^2+1/a^2=19*
 
 > If we know that 9a2 plus 1a2 is 19, with a positive real number, how much is 3a plus 1a?
 >

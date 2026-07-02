@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Five numbers missing from the Ottavio solid < MSK1/>
+*Five numbers missing from the Ottavio solid *
 
 > The Octavian solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each quadruple of triangles with a common vertex shall be the same. **Write out the five missing numbers.**
 

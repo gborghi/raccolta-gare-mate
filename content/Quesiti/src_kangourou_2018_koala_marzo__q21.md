@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pieces of paper after the two target cuts< MSK1/>
+*How many pieces of paper after the two target cuts*
 
 ![[src_kangourou_2018_koala_marzo__prob21.png]]
 

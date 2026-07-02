@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Numero di persone a un banchetto dato i rapporti dei piatti< MSK1/>
+*Numero di persone a un banchetto dato i rapporti dei piatti*
 
 > In una tipica festa, ogni piatto di riso è condiviso da 2 persone, ogni piatto di carne è condiviso da 4 persone, e ogni piatto di dessert è condiviso da 5 persone. Sono stati usati esattamente 77 piatti e tutti i piatti offerti sono stati serviti a tutti. Quante persone erano al banchetto?
 > 

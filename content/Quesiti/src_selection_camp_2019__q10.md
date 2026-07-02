@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Isoceles ABC, PA parallelo BC; condizione angolare dà A,P,X,Y conciclica< MSK1/>
+*Isoceles ABC, PA parallelo BC; condizione angolare dà A,P,X,Y conciclica*
 
 > $ABC$ sia un triangolo con $AB = AC$, e $M$ sia il punto medio di $BC$. Prendiamo un punto $P$ tale che $PA$ sia parallelo a $BC$ e $PB < PC$. sulle linee $PB$ e $PC$ prendere i punti $X$ e $Y$ rispettivamente, in modo che $P$, $B$, $X$ si trovino in questo ordine e $P$, $C$, $Y$ si trovino in questo ordine. Supponiamo che $\angle PXM = \angle PYM$ sia valido. Provare che i quattro punti $A$, $P$, $X$, $Y$ si trovano su un cerchio comune.
 

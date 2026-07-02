@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of a cube with a painted face< MSK1/>
+*Probability of a cube with a painted face*
 
 > Laura paints the entire surface of a wooden cube in blue, then she cuts it into 63 = 216 equal cubes. By mixing the cubes and pulling one out at random, what are the odds that Laura will find one that has exactly the face painted blue?
 >

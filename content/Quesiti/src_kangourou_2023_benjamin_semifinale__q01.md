@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min odd numbers< MSK1/>
+*min odd numbers*
 
 > Adele wrote a number consisting of 3 odd numbers and some even numbers, while Marco wrote a number consisting of 2 odd numbers and some even numbers. Gianna added Adele's number to Marco's. How many odd numbers will Gianna get at least? A) 0 (i.e. it may not have) B) 1 C) 2 D) 3 E) 4
 

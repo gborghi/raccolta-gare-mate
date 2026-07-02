@@ -58,13 +58,13 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Quadro di area 64 con centro O; OA=OC=2, AB=CD=4 e una catena di segmenti perpendicolari; trovare aree di trapezoide ABCO e BCDE quadrilaterale.*
+*Quadro di area 64 con centro O; OA=OC=2, AB=CD=4 e una catena di segmenti perpendicolari; trovare aree di ABCO trapezoide e BCDE quadrilaterale.*
 
 > Nella figura, $O$ è il centro del quadrato, $OA = OC = 2$, $AB = CD = 4$, $\overline{CD}$ è perpendicolare a $\overline{OC}$, che è perpendicolare a $\overline{OA}$, che è perpendicolare a $\overline{AB}$. La superficie del quadrato è $64$ cm$^2$.
 > 
-> a) Calcolare la superficie del trapezzo < MSK0/>.
+> a) Calcolare la superficie del trapezzo $ABCO$.
 > 
-> b) Calcolare l'area del quadrilaterale < MSK0/>.
+> b) Calcolare l'area del quadrilaterale $BCDE$.
 
 ![[src_obm_2011_n1_f3__Q04.png]]
 

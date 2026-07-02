@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quale dei prodotti indicati è strano? < MSK1/>
+*Quale dei prodotti indicati è strano? *
 
 > Quale dei seguenti prodotti è strano?
 > 

@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Routes on a 10x8 board frame in 16 movements< MSK1/>
+*Routes on a 10x8 board frame in 16 movements*
 
 ![[src_archimede_2021_biennio_online__prob11.png]]
 

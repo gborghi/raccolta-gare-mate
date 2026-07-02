@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which axles can Alba use for connections< MSK1/>
+*Which axles can Alba use for connections*
 
 ![[src_kangourou_2022_ecolier_gara__prob20.png]]
 

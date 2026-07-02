@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What sum cannot be drawn from three dice with odd numbers 1-11 < MSK1/>
+*What sum cannot be drawn from three dice with odd numbers 1-11 *
 
 > On the sides of a dice, instead of the numbers 1 to 6, the first six odd numbers appear. Anna pulled the dice three times and added the three scores. Which of the following is certainly not the result you have achieved? A) 31
 > 	

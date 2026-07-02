@@ -46,16 +46,6 @@ tags:
 > -2
 > -2
 > -2
-> 1
-> 1
-> 1
-> 1
-> 1
-> 1
-> 1
-> 1
-> 1
-> 1
 > A
 > B
 > C
@@ -80,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max ratio number of 3 digits to sum of digits< MSK1/>
+*Max ratio number of 3 digits to sum of digits*
 
 > What is the maximum value that the ratio of a three-digit number to the sum of its digits can assume? A) 97 B) 100 C) 101 D) 110 E) none of the above -1 -1 -1 -1 -1 -1 -1 -2 -2 -2 -2 -2 1 1 1 1 1 1 1 1 1 1 1 A B C D E Tests_07.qxp 16-04-2007 12:07 Page 31
 > 

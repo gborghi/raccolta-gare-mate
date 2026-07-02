@@ -56,7 +56,7 @@ tags:
 
 *Ratio di aree [CHAM]/[AEFG] in un quadrato di lato 6 con triangoli simili*
 
-> In un quadrato di lato $6$ si ha $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Di conseguenza $CH=6/3=2$ e $HB=CB-CH=4$. L'area del quadrilaterale $CHAM$ è $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. Per il teorema di Pitagore nel triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Pertanto < MSK11/>. Trova il rapporto < MSK12/>. [Valore della chiave di risposta: $\frac{5}{39}$.]
+> In un quadrato di lato $6$ si ha $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Di conseguenza $CH=6/3=2$ e $HB=CB-CH=4$. L'area del quadrilaterale $CHAM$ è $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. Per il teorema di Pitagore nel triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Pertanto $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Trova il rapporto $\frac{[CHAM]}{[AEFG]}$. [Valore della chiave di risposta: $\frac{5}{39}$.]
 
 ![[src_obm_2016_n3_f1__Q22.png]]
 

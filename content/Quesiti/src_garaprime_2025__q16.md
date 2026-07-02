@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum MC of positive integers with sum of 10 < MSK1/>
+*Maximum MC of positive integers with sum of 10 *
 
 > The sum of some positive integers is 10. What's the maximum of their minimum common multiple?
 >

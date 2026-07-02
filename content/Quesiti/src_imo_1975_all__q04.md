@@ -44,8 +44,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Iterated digit sum of 4444^4444< MSK1/>
+*Iterated digit sum of 4444^4444*
 
-> When $4444^{4444}$ is written in decimal notation, the sum of its digits is $A$. Whether $B$ is the sum of the digits of $A$. Find the sum of the digits < MSK4/>. ($A$ and $B$ are written in decimal notation.)
+> When $4444^{4444}$ is written in decimal notation, the sum of its digits is $A$. Whether $B$ is the sum of the digits of $A$. Find the sum of the digits $B$. ($A$ and $B$ are written in decimal notation.)
 
 [[src_imo_1975_all__Q04]]

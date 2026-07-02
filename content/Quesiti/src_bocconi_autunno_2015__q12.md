@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eye to 11: maximum output with two digits < MSK1/>
+*Eye to 11: maximum output with two digits *
 
 > Watch out for the 11! $10 \times 11 = 1 \times 1$. Then, with two digits $a$ and $b$, we find that also $\overline{ab}$ and $\overline{ba}$ (where $\overline{ab}$ is the number whose value is $10a + b$, and $\overline{ba}$ is the number you read the same way) must satisfy $\overline{ab} \times \overline{ba} = a \cdot b \cdot \overline{ab} \cdot \overline{ba}$ by reading $\overline{bb}$ the same way. Find the maximum product value of the two members of the previous equation.
 

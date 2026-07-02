@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which strip left Gino (color changes) < MSK1/>
+*Which strip left Gino (color changes) *
 
 ![[src_kangourou_2019_koala_preecolier__prob22.png]]
 

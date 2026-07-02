@@ -58,7 +58,7 @@ tags:
 
 *Prove che un numero specifico di grandi dimensioni è composto*
 
-> Diciamo che un numero naturale è composto se può essere scritto come il prodotto di due numeri naturali entrambi più grandi di MSK0/. Ad esempio, $91$ è composto perché possiamo scrivere $91 = 7 \times 13$.
+> Diciamo che un numero naturale è composto se può essere scritto come il prodotto di due numeri naturali entrambi più grandi di$1$. Ad esempio, $91$ è composto perché possiamo scrivere $91 = 7 \times 13$.
 > 
 > Provare che il numero $$\frac{1}{2}\!\left(2^{2004}+2\right)+1$$ è composto.
 

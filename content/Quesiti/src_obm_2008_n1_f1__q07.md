@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Classe di 22 ragazzi e 18 ragazze; il 60% fa lavoro comunitario; minimo da ragazzi< MSK1/>
+*Classe di 22 ragazzi e 18 ragazze; il 60% fa lavoro comunitario; minimo da ragazzi*
 
 > Una classe ha 22 maschi e 18 femmine. Durante le vacanze, $60\%$ di tutti gli studenti della classe svolgono attività comunitarie. Almeno quanti studenti maschi partecipano a questo lavoro?
 > 

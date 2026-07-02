@@ -46,6 +46,6 @@ tags:
 
 *Max-area triangle similar to A1B1C1 circumscribing A0B0C0*
 
-> If < MSK0/> and < MSK1/> are any two acutangular triangles. All $ABC$ triangles are considered to be similar to $\triangle A_1B_1C_1$ (so that the vertices $A_1$, $B_1$, $C_1$ correspond to the vertices $A$, $B$, $C$ respectively) and bounded by the triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$ and $C_0$ on $AB$). Of all these possible triangles, determine the one with the maximum area and build it.
+> If $A_0B_0C_0$ and $A_1B_1C_1$ are any two acutangular triangles. All $ABC$ triangles are considered to be similar to $\triangle A_1B_1C_1$ (so that the vertices $A_1$, $B_1$, $C_1$ correspond to the vertices $A$, $B$, $C$ respectively) and bounded by the triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$ and $C_0$ on $AB$). Of all these possible triangles, determine the one with the maximum area and build it.
 
 [[src_imo_1967_all__Q04]]

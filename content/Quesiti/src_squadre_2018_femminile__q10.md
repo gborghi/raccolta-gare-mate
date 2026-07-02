@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance with polynomial roots, a^8+b^8< MSK1/>
+*Distance with polynomial roots, a^8+b^8*
 
 > In the 3000s there is a space police called the "Squad of Sunset" who, when a human reaches 160 years of age, captures him and transports him to a specific planet-host, then makes him live his last years in a simulated reality. Since Professor Fredholm was born in 2841, he is 159 years old but declares 150 to avoid capture. Unfortunately, the deception is discovered. Fry decides to use one of the professor's inventions, the Sniffoscope, a telescope capable of sniffing the smell of anything in any part of the universe. The Sniffoscope detects the smell of old age on a planet 8 8 to b
 >  

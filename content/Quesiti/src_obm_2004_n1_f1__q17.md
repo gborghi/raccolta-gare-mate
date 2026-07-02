@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Fraczione di persone con i capelli biondi da un grafico delle torte< MSK1/>
+*Fraczione di persone con i capelli biondi da un grafico delle torte*
 
-> I risultati di un sondaggio sul colore dei capelli delle persone < MSK0/> sono riportati nella tabella delle torte qui sotto. Il grafico mostra: castagna < MSK1/>, nero < MSK2/>, auburn < MSK3/> e bionda (il resto del settore). Quante di queste persone hanno i capelli biondi?
+> I risultati di un sondaggio sul colore dei capelli delle persone $1200$ sono riportati nella tabella delle torte qui sotto. Il grafico mostra: castagna $30\%$, nero $24\%$, auburn $16\%$ e bionda (il resto del settore). Quante di queste persone hanno i capelli biondi?
 > 
 > (A) $60$ \quad (B) $320$ \quad (C) $360$ \quad (D) $400$ \quad (E) $840$
 

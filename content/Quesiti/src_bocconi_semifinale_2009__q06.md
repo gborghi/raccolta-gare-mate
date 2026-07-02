@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Jump on a cube from face to face adjacent< MSK1/>
+*Jump on a cube from face to face adjacent*
 
 > The fleas, you know, they jump. Our Mimmy fleas, starting from D, want to get to A. Its characteristic is that it jumps from the center of a face of a cube to that of an adjacent face without ever passing through the same face twice. Besides, Mimi never passes through a face not visible in the drawing.
 > 

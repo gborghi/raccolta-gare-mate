@@ -51,7 +51,7 @@ tags:
 
 *Prove che i circoncentieri e i piedi di altitudine sono simultanei nel triangolo.*
 
-> Che $O$ sia il centro circundante di $\triangle ABC$ e $H_1$ sia la proiezione di $A$ su $BC$. L'estensione di $AO$ interseca il circoncircolo di $\triangle BOC$ a $A'$. Le proiezioni di $A'$ su $AB$ e $AC$ sono rispettivamente $D$ e $E$. Il $O_1$ deve essere il centro circostante di $\triangle DH_1E$. Definire $H_2$, $O_2$, $H_3$ e $O_3$ in modo simile. Prove che < MSK19/>, < MSK20/>, < MSK21/> e < MSK22/>, < MSK23/>, < MSK24/> sono simultanei.
+> Che $O$ sia il centro circundante di $\triangle ABC$ e $H_1$ sia la proiezione di $A$ su $BC$. L'estensione di $AO$ interseca il circoncircolo di $\triangle BOC$ a $A'$. Le proiezioni di $A'$ su $AB$ e $AC$ sono rispettivamente $D$ e $E$. Il $O_1$ deve essere il centro circostante di $\triangle DH_1E$. Definire $H_2$, $O_2$, $H_3$ e $O_3$ in modo simile. Provare che $H_1$, $H_2$, $H_3$ e $O_1$, $O_2$, $O_3$ sono simultanei.
 
 ![[src_cn_ctst_b11_w166__Q01.png]]
 

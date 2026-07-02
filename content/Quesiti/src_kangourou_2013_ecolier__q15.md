@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Paid to be drawn to form a rectangle< MSK1/>
+*Paid to be drawn to form a rectangle*
 
 > By putting the piece right next to one of the ones listed in the answers, without overlap, you can form a rectangle. Which piece do you have to pick?
 >     	

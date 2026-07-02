@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Angolo di bisezione di diagonale quadrilaterale ciclico, CE=CA se DE=AB< MSK1/>
+*Angolo di bisezione di diagonale quadrilaterale ciclico, CE=CA se DE=AB*
 
 > Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE = AB$.
 

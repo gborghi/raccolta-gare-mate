@@ -84,9 +84,9 @@ tags:
 
 > Durante un torneo di matematica, giovani matematici si incontrano. Per ogni pasto i partecipanti si dividono in gruppi, ciascun gruppo corrisponde a una tavola. Essi desiderano definire un piano diverso a ogni pasto, in modo che due partecipanti non si sedano mai più di una volta allo stesso tavolo. Un piano che lo raggiunga si chiama $\textbf{ideal}$.
 > 
-> Nella sala da pranzo ci sono tavoli $t$, ciascuno con posti $p \ge 2$. In totale, le persone < MSK2/> partecipano alle Olimpiadi e ci sono pasti < MSK3/>.
+> Nella sala da pranzo ci sono tavoli $t$, ciascuno con posti $p \ge 2$. In totale, le persone $n = tp$ partecipano alle Olimpiadi e ci sono pasti $r$.
 > 
-> < MSK0/> Perrine può sempre trovare un piano ideale se < MSK1/>? E cosa succede se $r < \lceil (n-1)/(p-1) \rceil$?
+> $\textbf{1.}$ Perrine può sempre trovare un piano ideale se $r = \lceil (n-1)/(p-1) \rceil$? E cosa succede se $r < \lceil (n-1)/(p-1) \rceil$?
 > 
 > $\textbf{2.}$ Indicare il minimo $r$ che consente di costruire un piano ideale e descrivere il piano nei seguenti casi: a) se $p = 2$ e $t = 3$; b) se $t = p = 3$; c) se $t = 3$ e $p = 6$; d) se $t = 2$ e $p$ sono arbitrari.
 > 
@@ -102,7 +102,7 @@ tags:
 > 
 > $\textbf{7.}$ Estimare, in funzione di $p$ e $t$, il valore minimo di $f$ per il quale esiste un piano ideale uniforme $f$, ripetendo le stime precedentemente proposte.
 > 
-> < MSK0/> Proporre e studiare altre vie di ricerca.
+> $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__Q02.png]]
 

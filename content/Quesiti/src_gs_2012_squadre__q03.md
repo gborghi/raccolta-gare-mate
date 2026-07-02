@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume ratio by mass and density< MSK1/>
+*Volume ratio by mass and density*
 
 > 3 . To calculate Bn, you notice that, with one throw, you get to B from C with probability 2 3 and from A, with probability 9 1. Therefore Bn = 2Cn−1 3 +An−1. Finally, it is noted that, at launch, the landmark may be on one of the two vertices A oC (without being equal) or on one of the two vertices B or D (if n is odd). Therefore, sen is equal to,An +Cn = 1. Putting together these observations, we find that, sen = 2m is equal, A2m = 1 3 (2 3C2m−2 + A2m−2
 

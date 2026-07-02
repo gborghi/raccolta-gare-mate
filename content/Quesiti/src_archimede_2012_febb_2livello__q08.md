@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Expenditure increases by 0.5% per annum, a year in which it doubles< MSK1/>
+*Expenditure increases by 0.5% per annum, a year in which it doubles*
 
 > The costs of organising the National Mathematical Olympiads increase by 0.5% each year compared to the previous year. In what year will the expenditure be exactly double that of 2012? Note: In 2012 the expenditure is not zero.
 >

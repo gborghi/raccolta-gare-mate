@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many red sides< MSK1/>
+*how many red sides*
 
 > The vertices of a 20-sided polygon are numbered from 1 to 20 so that the numbers on adjacent vertices differ by 1 or 2. The sides of the polygon whose ends differ only by 1 are painted red. How many red sides of the polygon are there? A) 1
 >   

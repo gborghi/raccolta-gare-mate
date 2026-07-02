@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum in degrees< MSK1/>
+*sum in degrees*
 
 ![[src_kangourou_2016_cadet_marzo__prob4.png]]
 

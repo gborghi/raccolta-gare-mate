@@ -59,6 +59,6 @@ tags:
 
 *n con 36 fattori primi; conteggio di numeri interi copri a n in cinque subintervalli uguali; limite inferiore sulla somma delle differenze quadrate*
 
-> Supponiamo che un intero positivo $n$ possa essere divisibile esattamente $36$ diversi numeri primi. Per $k = 1, 2, \ldots, 5$, $c_k$ è il numero di integri sull'intervallo $\left[\frac{(k-1)n}{5}, \frac{kn}{5}\right]$ che sono copriemi con $n$. È noto che $c_1, c_2, \ldots, c_5$ non sono tutti uguali. Provare che < MSK0/>
+> Supponiamo che un intero positivo $n$ possa essere divisibile esattamente $36$ diversi numeri primi. Per $k = 1, 2, \ldots, 5$, $c_k$ è il numero di integri sull'intervallo $\left[\frac{(k-1)n}{5}, \frac{kn}{5}\right]$ che sono copriemi con $n$. È noto che $c_1, c_2, \ldots, c_5$ non sono tutti uguali. Provare che $$\sum_{1 \le i < j \le 5} (c_i - c_j)^2 \ge 2^{36}.$$
 
 [[src_cn_cmo_2020__Q03]]

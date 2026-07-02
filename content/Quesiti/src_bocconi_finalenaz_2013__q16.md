@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Three prime numbers with product 19 times their sum< MSK1/>
+*Three prime numbers with product 19 times their sum*
 
 > The product of three prime numbers is 19 times their sum.
 > 

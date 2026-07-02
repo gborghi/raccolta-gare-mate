@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Late hours in one week< MSK1/>
+*Late hours in one week*
 
 > A clock lags by X minutes every Y hour. How many hours, in terms of X and Y, will you delay that clock in a week?
 

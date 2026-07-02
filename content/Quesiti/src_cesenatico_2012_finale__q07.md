@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n with aura 8128 (factors less than difference) < MSK1/>
+*n with aura 8128 (factors less than difference) *
 
 > Double the sum of the answers to questions 5 and 3.
 

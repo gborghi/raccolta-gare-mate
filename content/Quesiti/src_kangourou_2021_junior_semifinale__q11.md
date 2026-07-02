@@ -39,13 +39,6 @@ tags:
 > corti della striscia si saldano nel punto mostrato. Il lato corto 
 > della striscia misura √3 cm. Quanti centimetri è lunga la 
 > striscia?  
->  
->  
->  
->  
->  
->  
->  
 > saldatura 
 > √3 cm
 
@@ -63,15 +56,7 @@ tags:
 
 ![[src_kangourou_2021_junior_semifinale__prob11.png]]
 
-> (5 points) A rectangular strip of paper is folded to form the hexagonal shape in the figure, which surrounds an equilateral triangle of 8 cm side (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures < MSK0/> 3 cm. How long is the strip?
->  
->  
->  
->  
->  
->  
->  
-> Welding < MSK0/> 3 cm
+> (5 points) A rectangular strip of paper is folded to form the hexagonal shape in the figure, which surrounds an equilateral triangle of 8 cm side (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures √ 3 cm. How long is the strip? Welding √3 cm
 
 **Answer:** 0033
 [[src_kangourou_2021_junior_semifinale__Q11]]

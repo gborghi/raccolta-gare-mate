@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coloring integers in M with two colors preserving sum condition< MSK1/>
+*Coloring integers in M with two colors preserving sum condition*
 
 > Let $n$ and $k$ be given relatively prime natural numbers, $k < n$. Each number in the set $M = \{1, 2, \ldots, n-1\}$ is colored either blue or white. It is given that (i) for each $i \in M$, both $i$ and $n - i$ have the same color; (ii) for each $i \in M$, $i \neq k$, both $i$ and $|i - k|$ have the same color. Prove that all numbers in $M$ must have the same color.
 

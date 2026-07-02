@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sitting modes for 5 people with two couples adjacent< MSK1/>
+*Sitting modes for 5 people with two couples adjacent*
 
 > Romeo, Juliet, Elena, Paris, Ulysses are sitting on a bench. Juliet wants to be next to Romeo, Elena next to Paris. How many ways can the five be arranged from left to right, to satisfy them?
 >

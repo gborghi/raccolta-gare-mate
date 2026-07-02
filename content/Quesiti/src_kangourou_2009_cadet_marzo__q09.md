@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Litres in the half-sized container< MSK1/>
+*Litres in the half-sized container*
 
 > A rectangular parallel-piped container is of such size that, when filled to the brim, it contains one litre of water. Each of its three dimensions is halved, creating a new vessel of the same shape. If this container is also filled to the brim, how many liters of water is it? A) 0,0625 B) 0,125 C) 0,25 D) 0,5 E) A number different from the previous ones
 

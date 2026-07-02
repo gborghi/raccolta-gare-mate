@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>A1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di r1-r2 (radi di cerchio).< MSK1/>
+*A1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di r1-r2 (radi di cerchio).*
 
 > [Paper di prova A1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto del $\Gamma$ nel primo quadrante e le estensioni di $PF_1$ e $PF_2$ si intersecano rispettivamente con $\Gamma$ nei punti $Q_1,Q_2$. Il $r_1,r_2$ deve essere il raggio di radii degli incircoli di $\triangle PF_1Q_2$ e $\triangle PF_2Q_1$, rispettivamente. Trova il massimo di $r_1-r_2$.
 

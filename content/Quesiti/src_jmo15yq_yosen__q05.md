@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma < MSK1/>
+*Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma *
 
 > Quanti triples non ordinati di integri positivi reciprocamente distinti $\{a, b, c\}$ soddisfano $abc = 12(a + b + c)$? Qui, i triples che differiscono solo nell'ordine (come $\{3, 6, 18\}$ e $\{6, 3, 18\}$) vengono contati come lo stesso triplo.
 

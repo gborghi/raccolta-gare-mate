@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Common n and m dividers (MCD and its dividers) < MSK1/>
+*Common n and m dividers (MCD and its dividers) *
 
 > They are n = 11.112.222 and m = 11.118.888. How many positive integers exactly divide both m and n? A 16 B 8 C 2 D 4 E 24 F 6
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Soluzioni integrali per il calcolo del bilancio 2020 < < MSK0/>
+*Soluzioni integrali per il calcolo del bilancio 2020 < *
 
 > Trovare il numero di soluzioni integrali a $\big||x| - 2020\big| < 5$.
 

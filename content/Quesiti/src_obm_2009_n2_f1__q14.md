@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Punto P sul CD; regione ombreggiata 1/3 del rettangolo; trovare PC< MSK1/>
+*Punto P sul CD; regione ombreggiata 1/3 del rettangolo; trovare PC*
 
 > Nella figura, $P$ è un punto sul lato $CD$ del rettangolo $ABCD$ e $Q$ è l'intersezione dei diagonali del rettangolo $ABCP$. La regione ombrata è la parte comune al rettangolo $ABCD$ e al triangolo $ADP$.
 > 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Divers of n knowing that 30n has 45 < MSK1/>
+*Divers of n knowing that 30n has 45 *
 
 > Of positive integer n we know that 30n has 45 positive divisors (also counting 1 and 30n). How many positive divisors of n? A 16 B 42 C 36 D 12 E 24 F 32
 

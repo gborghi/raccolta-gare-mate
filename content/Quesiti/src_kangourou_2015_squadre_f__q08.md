@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of odd sums from commodities < MSK1/>
+*Maximum number of odd sums from commodities *
 
-> Daniela and prime numbers Daniela chooses 20 prime integers to her liking, all different from each other. It then multiplies them by two to two in every possible way (except the order: for example, product 3 < MSK0/> 5 and product 5 < MSK1/> 3 correspond in one way; it never multiplies a number by itself). Finally, it adds the products thus obtained to two by two in every possible way. What's the maximum number of odd sums you could get?
+> Daniela and prime numbers Daniela chooses 20 prime integers to her liking, all different from each other. It then multiplies them by two to two in every possible way (except the order: for example, product 3 × 5 and product 5 × 3 correspond in one way; it never multiplies a number by itself). Finally, it adds the products thus obtained to two by two in every possible way. What's the maximum number of odd sums you could get?
 
 **Answer:** 3249
 [[src_kangourou_2015_squadre_f__Q08]]

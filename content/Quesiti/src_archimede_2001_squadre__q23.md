@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum to < MSK1/>
+*minimum to *
 
 > The following table shows the calculation of the average monthly earnings:
 > 

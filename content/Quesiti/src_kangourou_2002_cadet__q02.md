@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little wheel wheels< MSK1/>
+*Little wheel wheels*
 
 ![[src_kangourou_2002_cadet__prob2.png]]
 

@@ -59,9 +59,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/> Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.< MSK1/>
+* Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.*
 
-> Una scatola di bevande si forma disposendo quattro triangoli congruenti come mostrato. < MSK0/> e < MSK1/>. Qual è il volume della scatola, in cm< MSK2/>?
+> Una scatola di bevande si forma disposendo quattro triangoli congruenti come mostrato. $QP = RS = 4\text{ cm}$ e $PR = 10\text{ cm}$. Qual è il volume della scatola, in cm$^3$?
 >
 > - **(A)** $\frac{10}{3}\sqrt{23}$
 > - **(B)** $\frac{11}{3}\sqrt{10}$

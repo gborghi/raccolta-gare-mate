@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-*B/h ratio given equilateral triangle and isoperimetric rectangle*
+*Rate b/h given equilateral triangle and isoperimeteral rectangle*
 
-> An equilateral triangle has the same perimeter as a rectangle of dimensions b and h (with b > h). The area of the triangle is < MSK0/> 3 times the area of the rectangle. How much is b h worth?
+> An equilateral triangle has the same perimeter as a rectangle of dimensions b and h (with b > h). The area of the triangle is √ 3 times the area of the rectangle. How much is b h worth?
 >
 > - **(A)** √ 3
 > - **(B)** 2

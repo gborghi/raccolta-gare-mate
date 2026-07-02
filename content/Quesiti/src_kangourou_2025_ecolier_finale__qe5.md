@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max and min cents of Bob< MSK1/>
+*max and min cents of Bob*
 
 ![[src_kangourou_2025_ecolier_finale__probE5.png]]
 

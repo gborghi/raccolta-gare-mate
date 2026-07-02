@@ -58,7 +58,7 @@ tags:
 
 ![[src_kangourou_2014_squadre_a__prob2.png]]
 
-> Average grid In each of the boxes of a grid 100 < MSK0/> 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the top boxes. What number was entered in the fourth?
+> Average grid In each of the boxes of a grid 100 × 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the top boxes. What number was entered in the fourth?
 
 **Answer:** 892
 [[src_kangourou_2014_squadre_a__Q02]]

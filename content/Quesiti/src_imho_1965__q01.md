@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>Find the x in [0,2< MSK0/>] satisfying a trigonometric inequality< MSK2/>
+*Find the x in [0,2π] satisfying a trigonometric inequality*
 
 > Determine the values $x$ in the interval $0 \le x \le 2\pi$ which satisfy the inequality $$2\cos x \le \sqrt{1+\sin 2x} - \sqrt{1-\sin 2x} \le \sqrt{2}.$$
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>For integers n the number n/(n-10) and integers < MSK1/>
+*For integers n the number n/(n-10) and integers *
 
 > (Points 5) For how many integers n is the number n/(n - 10) an integer? A) 4
 > 	

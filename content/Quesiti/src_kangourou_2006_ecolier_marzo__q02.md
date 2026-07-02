@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max people around 7 square tables next to each other< MSK1/>
+*Max people around 7 square tables next to each other*
 
 > We have a number of equal square tables available. For the school party, we've brought seven of them together, forming a long rectangular table. If each square table can seat four people, one on each side, how many people can sit around the rectangular table? A) 14 B) 16 C) 18 D) 21 E) 28
 

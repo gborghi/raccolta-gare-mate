@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>To divide 27 shells into heaps in which no heaps are multiples of 3, maximizing the product.< MSK1/>
+*To divide 27 shells into heaps in which no heaps are multiples of 3, maximizing the product.*
 
 > Tatiana collected shells on the beach. It divides them into lots so that the number of shells in a pile is never a multiple of $3$. The product of all these numbers and maximum: how much is it worth?
 

@@ -140,9 +140,9 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 
 > Parte 3: Una strategia per Germain.
 > 
-> $n \ge 3$ sia un numero intero. Germain e Sophie continuano a giocare la stessa partita durante i round MSK1/. Germain vuole impedire a Sophie di vincere con una probabilità strettamente superiore a $(n-1)/n$. Per questo, adotta la seguente strategia: prima dell'inizio del gioco, Germain seleziona a caso la scatola in cui nasconde il pacchetto di caramelle.
+> $n \ge 3$ sia un numero intero. Germain e Sophie continuano a giocare la stessa partita durante i round$n-1$. Germain vuole impedire a Sophie di vincere con una probabilità strettamente superiore a $(n-1)/n$. Per questo, adotta la seguente strategia: prima dell'inizio del gioco, Germain seleziona a caso la scatola in cui nasconde il pacchetto di caramelle.
 > 
-> 4. Sophie non sa in quale scatola è nascosto il pacchetto di caramelle. Per un round $\ell$ con $1 \le \ell \le n-1$, $g_\ell$ deve essere il numero associato alla casella che Germain elimina al round $\ell$. (Signare $z_1, z_2, \ldots, z_{\ell-1}$ le designazioni successive di Sophie e $g_2, \ldots, g_\ell$ le scatole eliminate.) $p_\ell(b)$ sia la probabilità, conoscendo i numeri $z_1, z_2, \ldots, z_{\ell-1}$ e $g_2, \ldots, g_\ell$, che il numero di casella $b$ contiene il pacchetto di caramelle.
+> 4. Sophie non sa in quale scatola è nascosto il pacchetto di caramelle. Per un round $\ell$ con $1 \le \ell \le n-1$, $g_\ell$ deve essere il numero associato alla casella che Germain elimina al round $\ell$. (Signare $z_1, z_2, \ldots, z_{\ell-1}$ le designazioni successive di Sophie e $g_2, \ldots, g_\ell$ le scatole eliminate.) Signare $p_\ell(b)$ la probabilità, conoscendo i numeri $z_1, z_2, \ldots, z_{\ell-1}$ e $g_2, \ldots, g_\ell$, che il numero di casella $b$ contiene il pacchetto di caramelle.
 > 
 > 5. Date, per ogni numero intero $b$ tale da $1 \le b \le n$, la probabilità $p_1(b)$.
 > 
@@ -154,7 +154,7 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 
 > Parte 4: Una strategia per Sophie e Germain.
 > 
-> Evariste, amica di Sophie e Germain, decide di dar loro un pacchetto di caramelle se giocano un'ultima partita (sempre alle stesse condizioni) e se, alla fine di questa partita, Sophie trova la scatola giusta. Germain ha l'obbligo di mettere il pacchetto in una scatola a caso, senza avere il diritto di comunicare a Sophie la scatola in cui ha messo il pacchetto. Prima di iniziare questo gioco finale, Sophie e Germain possono concordare una strategia comune?
+> Evariste, un'amica di Sophie e Germain, decide di dare loro un pacchetto di caramelle se giocano un'ultima partita (sempre alle stesse condizioni) e se, alla fine di questa partita, Sophie trova la scatola giusta. Germain ha l'obbligo di mettere il pacchetto in una scatola a caso, senza avere il diritto di comunicare a Sophie la scatola in cui ha messo il pacchetto. Prima di iniziare questo gioco finale, Sophie e Germain possono concordare una strategia comune?
 > 
 > 9. Per quali valori di $n \ge 3$ possono Sophie e Germain ideare una strategia comune che assicuri che Sophie trovi la scatola con il pacchetto?
 

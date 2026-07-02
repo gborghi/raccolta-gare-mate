@@ -55,11 +55,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Litr di acqua evaporata che disidrata 100 kg di pere dal 90% al 60% di acqua< MSK1/>
+*Litr di acqua evaporata che disidrata 100 kg di pere dal 90% al 60% di acqua*
 
-> Una pera è circa < MSK0/> acqua e < MSK1/> materia solida. Un produttore mette $100$ chilogrammi di pere per disidratarli fino al punto in cui l'acqua rappresenta $60\%$ della massa totale. Quanti litri di acqua evaporeranno? (ricorda: $1$ litro di acqua ha una massa di $1$ chilogrammo).
+> Una pera è circa $90\%$ acqua e $10\%$ materia solida. Un produttore mette $100$ chilogrammi di pere per disidratarli fino al punto in cui l'acqua rappresenta $60\%$ della massa totale. Quanti litri di acqua evaporeranno? (ricorda: $1$ litro di acqua ha una massa di $1$ chilogrammo).
 > 
-> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$ litri
+> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
 
 **Risposta:** C
 [[src_obm_2001_n1_f1__Q06]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of falling into water by walking 2 metres at random< MSK1/>
+*Probability of falling into water by walking 2 metres at random*
 
 > Francis takes the sun on a 4 meter-wide square ABCD platform, surrounded by water. For a bet, you're placed at the point of the platform 1 meter away from the sides AB and BC. Then, blindfolded, he walks in a random direction for two meters. What are the chances that Francis will end up in the water?
 >

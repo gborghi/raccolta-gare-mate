@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nomero di ragazzi in una classe data il resto mod 4 e mod 5, con 15 ragazze e ragazze che superano in numero i ragazzi< MSK1/>
+*Nomero di ragazzi in una classe data il resto mod 4 e mod 5, con 15 ragazze e ragazze che superano in numero i ragazzi*
 
 > Il conteggio degli studenti di una classe $4$ in un momento lascia $2$ e il conteggio $5$ in un momento lascia $1$. Sapendo che gli studenti sono ragazze e che in questa classe il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
 > 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Natural quantities 2 to 3 digits greater than the sum of the digits < MSK1/>
+*Natural quantities 2 to 3 digits greater than the sum of the digits *
 
 > How many two- or three-digit natural integers are greater than the sum of their digits? A) 1 B) 100 C) 989 D) 990 E) 999
 

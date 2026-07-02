@@ -55,7 +55,7 @@ tags:
 
 *EF length with congruent triangles and data angles*
 
-> Whether ABCD is a convex quadrilateral, F a point on the CD segment, and AC's intersection point with BF. It is known that AB = FC, AE = 14, BE = 10 < MSK1/> 2, \ BAC = \ BFD, \ BEA = < MSK0/>. How large is the EF segment?
+> Whether ABCD is a convex quadrilateral, F a point on the CD segment, and AC's intersection point with BF. It is known that AB = FC, AE = 14, BE = 10 √ 2, \ BAC = \ BFD, \ BEA = 45°. How large is the EF segment?
 
 **Answer:** 6
 [[src_archimede_2017_febb_2livello__Q14]]

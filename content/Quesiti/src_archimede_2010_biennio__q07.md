@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Seven-state colours with three colours< MSK1/>
+*Seven-state colours with three colours*
 
 > Concept imagines a flat, round world, and divides it into seven states, one central and the other six around it, as shown in the figure next to it. In addition, each state is given a letter (see figure). He wants to color each state red, or green, or yellow, so that two neighboring states don't have the same color. How many different ways can you do that?
 >

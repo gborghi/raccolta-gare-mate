@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of bags containing the initial < MSK1/>
+*Probability of bags containing the initial *
 
 > Ada and Bice Ada and Bice have two bags of identical content: one bag for each of the five colors A, B, C, D and E. Ada randomly picks a pie from her bag and inserts it into Bice's, immediately after Bice picks a pie randomly from her bag and inserts it into Ada's. Now the two bags have five bags each again. What is the probability that the contents of the bags are equivalent to the original? (Write the probability as a fraction of integers p/q reduced to minimum terms and write in the order p and q; for example, if the answer was 7/9, write [0709].)
 >  

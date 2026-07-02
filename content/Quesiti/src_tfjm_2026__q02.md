@@ -98,7 +98,7 @@ tags:
 > 
 > Essi notano che si tratta di una figura geometrica fatta di punti e punti retti (segmenti), che soddisfa le condizioni:
 > 
-> a) Ogni bastone contiene esattamente < MSK0/> punti. b) Ogni punto appartiene esattamente ai bastoni < MSK1/>. c) Se due bastoni distinti si incrociano, i tre punti non sono collineari.
+> a) Ogni bastone contiene esattamente $3$ punti. b) Ogni punto appartiene esattamente ai bastoni $2$. c) Se due bastoni distinti si incrociano, i tre punti non sono collineari.
 > 
 > Essi si chiedono se esistano altre figure con queste proprietà, che chiamano figura del mulino (figure du moulin). Per una figura del mulino, $p$ è il numero totale di punti.
 > 

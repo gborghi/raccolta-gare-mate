@@ -51,6 +51,6 @@ tags:
 
 *Sistema 1/(ab)=b+2c, 1/(bc)=2c+3a, 1/(ca)=3a+b; (a+b+c)^3=p/q, trovare p+q*
 
-> (Parte A) I numeri reali $a$, $b$ e $c$ soddisfano le equazioni $\frac{1}{ab} = b + 2c$, $\frac{1}{bc} = 2c + 3a$, $\frac{1}{ca} = 3a + b$. Abbiamo $(a + b + c)^3 = \frac{p}{q}$, con $p$ e $q$ integri copri e $q > 0$. Calcolare < MSK10/>.
+> (Parte A) I numeri reali $a$, $b$ e $c$ soddisfano le equazioni $\frac{1}{ab} = b + 2c$, $\frac{1}{bc} = 2c + 3a$, $\frac{1}{ca} = 3a + b$. Abbiamo $(a + b + c)^3 = \frac{p}{q}$, con $p$ e $q$ integri copri e $q > 0$. Calcolare $p + q$.
 
 [[src_obm_2015_n3_f2__Q06]]

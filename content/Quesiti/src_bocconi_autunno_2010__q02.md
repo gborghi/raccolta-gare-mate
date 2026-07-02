@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Age of Enlightenment by three brothers with product 35 and sum of 13< MSK1/>
+* Age of Enlightenment by three brothers with product 35 and sum of 13*
 
 > Chiara has two younger brothers. The product of the ages of the three children is 35, their sum is 13. What is Chiara's age?
 

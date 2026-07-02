@@ -62,7 +62,7 @@ tags:
 
 *Procedura di eliminazione del cerchio su n studenti; trovare la posizione degli studenti scelti*
 
-> Per il sorteo di una lotteria tra gli studenti di una scuola (MSK0/>) viene adottata la seguente procedura. Gli studenti sono collocati in un cerchio e un conteggio inizia con uno studente nella forma: "uno, due, uno, due, $\ldots$". Ogni volta che si dice TWO, lo studente corrispondente viene eliminato e il conteggio riprende con il prossimo studente rimanente. Il conteggio continua fino a quando non rimane solo uno studente, e quel studente è quello scelto.
+> Per il sorteo di una lotteria tra gli studenti di una scuola ($n$) viene adottata la seguente procedura. Gli studenti sono collocati in un cerchio e un conteggio inizia con uno studente nella forma: "uno, due, uno, due, $\ldots$". Ogni volta che si dice TWO, lo studente corrispondente viene eliminato e il conteggio riprende con il prossimo studente rimanente. Il conteggio continua fino a quando non rimane solo uno studente, e quel studente è quello scelto.
 > 
 > a) Per quali valori di $n$ è scelto il primo studente nel cerchio (colui che inizia il conteggio)?
 > 

@@ -51,7 +51,7 @@ tags:
 
 *Contare le buone posizioni delle carte etichettate con coppie in scatole*
 
-> (Paper A, Parte I Q8) Ci sono carte $10$, ognuna delle quali ha due numeri, numerati $1$, $2$, $3$, $4$, $5$, scritte su di essa, e i numeri su due carte non sono esattamente identici. Le schede contengono tutte quelle etichettate $1$, $2$, $3$, $4$, $5$, e una scheda con $i$ e $j$ scritte su di essa può essere inserita solo nella casella $i$ o nella casella $j$. Un posizionamento è chiamato "buono" se nella casella $1$ ci sono più carte di ciascuna delle altre caselle. Il numero totale dei posti di lavoro "buoni" è < MSK16/>.
+> (Paper A, Parte I Q8) Ci sono carte $10$, ognuna delle quali ha due numeri, numerati $1$, $2$, $3$, $4$, $5$, scritte su di essa, e i numeri su due carte non sono esattamente identici. Le schede contengono tutte quelle etichettate $1$, $2$, $3$, $4$, $5$, e una scheda con $i$ e $j$ scritte su di essa può essere inserita solo nella casella $i$ o nella casella $j$. Un posizionamento è chiamato "buono" se nella casella $1$ ci sono più carte di ciascuna delle altre caselle. Il numero totale dei posti di lavoro "buoni" è $\underline{\qquad}$.
 
 **Risposta:** 56
 [[src_cn_cmc-first-round_2020__Q08]]

@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Blue coin revolving around three reds, number of turns MSK1/>
+Blue coin revolving around three reds, number of turns*
 
-> Mary has three red and one blue coins, all of the same radius and with a rubber edge. He puts the three red coins on the table at the tips of an equilateral triangle so that they touch two by two, then he puts the blue one on the table so that he touches one of the red coins. Now, by holding the red coins tight, he rotates the blue one so that it always remains attached to at least one of the red coins and the rubber edges do not slip. After a complete tour around the group of the three red coins, the blue coin returns to its starting point; how many turns has it made on itself?
+> Mary has three red and one blue coins, all of the same radius and with a rubber edge. He puts the three red coins on the table at the tips of an equilateral triangle so that they touch two by two, then he puts the blue one on the table so that he touches one of the red coins. Now, by holding the red coins tight, he rotates the blue one so that it always stays attached to at least one of the red coins and the rubber edges do not slip. After a complete journey around the group of the three red coins, the blue coin returns to its starting point; how many turns has it made on itself?
 >
 > - **(A)** 3
 > - **(B)** 1

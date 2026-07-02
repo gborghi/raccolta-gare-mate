@@ -55,6 +55,6 @@ tags:
 
 *Trova a+b e ab dati due equazioni reali in a e b*
 
-> $a$ e $b$ siano numeri reali distinti come $a^2 = 6b + 5ab$ e $b^2 = 6a + 5ab$. a) Determinare il valore di < MSK4/>. b) Determinare il valore di < MSK5/>.
+> $a$ e $b$ siano numeri reali distinti come $a^2 = 6b + 5ab$ e $b^2 = 6a + 5ab$. a) Determinare il valore di $a + b$. b) Determinare il valore di $ab$.
 
 [[src_obm_2006_n2_f2__Q08]]

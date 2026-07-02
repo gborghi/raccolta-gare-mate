@@ -51,7 +51,7 @@ tags:
 
 *Conciclicità di A, incentro I e due punti di cerchio P, Q*
 
-> Considerate un triangolo $ABC$. Un cerchio $O$ che attraversa i punti $B$ e $C$ incontra i segmenti $AB$ e $AC$ (esclusi i loro punti terminali) rispettivamente ai punti $D$ e $E$, e $AD + AE = BC$ si ferma. Il punto $I$ deve essere l'incentro del triangolo $ABC$ e le linee $BI$ e $CI$ devono incontrare rispettivamente il cerchio $O$ nei punti $P$ e $Q$ (diversi da $B$ e $C$). Indicare che < MSK18/>, < MSK19/>, < MSK20/>, < MSK21/> si trovano su un singolo cerchio.
+> Considerate un triangolo $ABC$. Un cerchio $O$ che attraversa i punti $B$ e $C$ incontra i segmenti $AB$ e $AC$ (esclusi i loro punti terminali) rispettivamente ai punti $D$ e $E$, e $AD + AE = BC$ si ferma. Il punto $I$ deve essere l'incentro del triangolo $ABC$ e le linee $BI$ e $CI$ devono incontrare rispettivamente il cerchio $O$ nei punti $P$ e $Q$ (diversi da $B$ e $C$). Indicare che $A$, $I$, $P$, $Q$ si trovano su un singolo cerchio.
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
 

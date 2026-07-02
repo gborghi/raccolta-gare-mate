@@ -54,7 +54,7 @@ tags:
 
 *Distance from the arrival of a constant-speed pedestrian*
 
-> A 13 km mountain race was won by a podium runner who took 51 minutes to complete the race. Paolo, classified MSK0/, took 1 hour and 18 minutes. Admitting that Paul ran at a steady speed, how far from the finish was he as the winner crossed the finish line?
+> A 13 km mountain race was won by a podium runner who took 51 minutes to complete the race. Paolo, classified57°, took 1 hour and 18 minutes. Admitting that Paul was running at a steady speed, how far from the finish was he as the winner crossed the finish line?
 >
 > - **(A)** 3750 m,
 > - **(B)** 4000 m,

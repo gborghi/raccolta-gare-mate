@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n>4 points, not three hill, at least C(n,2) convex quadrilaterals< MSK1/>
+*n>4 points, not three hill, at least C(n,2) convex quadrilaterals*
 
 > Given $n > 4$ points in the plane such that no three are collinear. Prove that there are at least $\binom{n}{2}$ convex quadrilaterals whose vertices are four of the given points.
 

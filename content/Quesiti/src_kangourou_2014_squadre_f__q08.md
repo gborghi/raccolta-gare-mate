@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>age equal to sum of figures per year< MSK1/>
+*age equal to sum of figures per year*
 
 > Elena and her mother Elena and her mother were both born on January 1. In this year 2014, for each of them the number of years of age is the sum of the figures of their respective years of birth. How old was Elena's mother when Elena was born?
 

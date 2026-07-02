@@ -93,7 +93,7 @@ tags:
 > 
 > Date le due città $A$ e $B$, il loro $maximal asymmetric compatibility$ $C(A, B)$ è il più grande numero intero $n$ in modo tale che Bonifacio può assicurarsi che la corrispondenza non fallisce dopo $n$ giorni, qualunque siano le scelte di Aliénor.
 > 
-> Let < MSK0/>. Un ciclo $k$ in una città è un insieme di abitanti $k$ $c_1, \cdots, c_k$ in modo tale che gli unici amici di $c_i$ siano $c_{i-1}$ e $c_{i+1}$ per tutti $1 \le i \le k$, impostando $c_0 = c_k$ e $c_{k+1} = c_1$. La città i cui abitanti $a_1 + a_2 + \cdots + a_l$ formano un ciclo $a_1$, ... e un ciclo $a_l$ disgiunto si chiama $\mathcal{C}_{a_1, a_2, \ldots, a_l}$. La città $\mathcal{Z}$ è la città infinita con un abitante per numero intero relativo, e tale che gli unici amici dell'abitante $i$ sono gli abitanti $i + 1$ e $i - 1$.
+> Let $k \ge 3$. Un ciclo $k$ in una città è un insieme di abitanti $k$ $c_1, \cdots, c_k$ in modo tale che gli unici amici di $c_i$ siano $c_{i-1}$ e $c_{i+1}$ per tutti $1 \le i \le k$, impostando $c_0 = c_k$ e $c_{k+1} = c_1$. La città i cui abitanti $a_1 + a_2 + \cdots + a_l$ formano un ciclo $a_1$, ... e un ciclo $a_l$ disgiunto si chiama $\mathcal{C}_{a_1, a_2, \ldots, a_l}$. La città $\mathcal{Z}$ è la città infinita con un abitante per numero intero relativo, e tale che gli unici amici dell'abitante $i$ sono gli abitanti $i + 1$ e $i - 1$.
 > 
 > La figura 7 illustra la città $\mathcal{C}_6$ e la città $\mathcal{C}_{3,3}$. Gli abitanti sono rappresentati da cerchi e due amici sono uniti da un segmento quando sono legati.
 > 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of salt in solution< MSK1/>
+*Percentage of salt in solution*
 
 > Roberta adds 3 grams of salt to 17 grams of water. What is the percentage of salt in the solution obtained?
 >  

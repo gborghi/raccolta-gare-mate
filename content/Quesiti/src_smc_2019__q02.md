@@ -54,7 +54,7 @@ tags:
 
 *Evaluare l'espressione di sottrazione nidificata che coinvolge il 2019 e il 2000*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $(2019 - (2000 - (10 - 9))) - (2000 - (10 - (9 - 2019)))$?
 >
 > - **(A)** 4040
 > - **(B)** 40

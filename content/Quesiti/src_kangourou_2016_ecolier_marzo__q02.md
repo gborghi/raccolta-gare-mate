@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Calculation 17+3 and 20-16 in the tables< MSK1/>
+*Calculation 17+3 and 20-16 in the tables*
 
 ![[src_kangourou_2016_ecolier_marzo__prob2.png]]
 

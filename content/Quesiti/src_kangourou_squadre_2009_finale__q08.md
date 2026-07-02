@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>rectangle 36x81 squared < MSK1/>
+*rectangle 36x81 squared *
 
 ![[src_kangourou_squadre_2009_finale__prob8.png]]
 

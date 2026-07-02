@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of p(N) product numbers from 10 to 100< MSK1/>
+*Summary of p(N) product numbers from 10 to 100*
 
 > Given a positive integer N, written in decimal form, we denote the product of its digits with p(N: for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)? A) 2025 B) 4500 C) 5005 D) 5050 E) None of the above answers are correct.
 

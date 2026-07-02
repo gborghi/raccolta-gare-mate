@@ -49,10 +49,10 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>angles and sides < MSK1/>
+*angles and sides *
 
 ![[src_cesenatico_2011__prob4.png]]
 
-> Let ABCD be a convex quadrilateral. Both P the intersection of the outer blades of < MSK0/> and < MSK1/>. Show that $\widehat{APD}$ = $\widehat{BPC}$ if and only if AD + AC = BC + BD. [Note: Please note that the outer edge of an angle is the straight line passing through the top of the angle and perpendicular to the inner edge (i.e. the usual edge) of the angle itself.]
+> Let ABCD be a convex quadrilateral. Both P the intersection of the outer blades of $\widehat{DAC}$ and $\widehat{DBC}$. Show that $\widehat{APD}$ = $\widehat{BPC}$ if and only if AD + AC = BC + BD. [Note: Please note that the outer edge of an angle is the straight line passing through the top of the angle and perpendicular to the inner edge (i.e. the usual edge) of the angle itself.]
 
 [[src_cesenatico_2011__Q04]]

@@ -53,7 +53,7 @@ tags:
 
 *Initial number ABC2 by correlation with reorder*
 
-> A beverage should be packaged by mixing raspberry syrup with water in the < MSK0/> ratio. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage?
+> A beverage should be packaged by mixing raspberry syrup with water in the $1 : 7$ ratio. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage?
 >
 > - **(A)** $\dfrac{1}{4}$
 > - **(B)** $\dfrac{1}{2}$

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number of the last < MSK1/>
+*number of the last *
 
 > 96 members of a mathematics club stand in circles and start counting. One starts by saying 1, your neighbor says 2, the next 3 and so on, continuing along the circle always in the same direction. Every person who says an even number leaves the circle, and the ones left start the second round starting from 97, of course. They keep going until there's only one person left. What's the number that this person said in the first round? A) 1
 > 	

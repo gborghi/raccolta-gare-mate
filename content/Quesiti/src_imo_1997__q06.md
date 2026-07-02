@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bound f(2^n), partitions of n into powers of 2 < MSK1/>
+*Bound f(2^n), partitions of n into powers of 2 *
 
 > For each positive integer n , let f(n) denotes the number of ways of representing n as a sum of powers of 2 with nonnegative integer exponents. Representations which differ only in the ordering of their summands are considered to be the same. For example, f(4) = 4, because the number 4 can be represented in the following four ways: 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1. Prove that, for any integer n ≥3, 2n2/4 < f(2n) < 2n2/2.
 

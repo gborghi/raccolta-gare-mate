@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of head at the next coin toss< MSK1/>
+*Probability of head at the next coin toss*
 
 > Leo throws a coin 7 times (unmade) and gets twice the head and five times the cross. If he throws it one more time, what are the odds of getting his head?
 >

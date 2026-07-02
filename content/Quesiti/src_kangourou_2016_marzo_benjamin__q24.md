@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many tables< MSK1/>
+*how many tables*
 
 > Luigi started a small restaurant. His friend James gave him some square tables and chairs. If Luigi wanted to use each of these tables in isolation and put four chairs per table, he would need six more chairs. If he wanted to bring the tables together in pairs and put six chairs per double table, four chairs would advance him. How many tables did James give to Louis ? A) 8
 > 	

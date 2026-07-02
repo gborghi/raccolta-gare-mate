@@ -56,7 +56,7 @@ tags:
 
 *Mean of base 10 of the digits on base 5*
 
-> For an extra hand Due to continuous duels, the likelihood that an MSK0/>-rat will lose a hand in a fight is extremely high. For this reason, in the π-rate community the decimal numbering base is replaced by the numbering base 5. Ragetti, the guy with the wooden eye is playing the following game: he writes on a sheet all the numbers that, on base 5, are written using once and only once all the numbers from 0 to 4 (the 0 can also be in the initial position). Finally, calculate the average of all the numbers you wrote. What number did you get, base 10? 14 Less easy pieces
+> For an extra hand Due to continuous duels, the likelihood that anπ-rat will lose a hand in a fight is extremely high. For this reason, in the π-rate community the decimal numbering base is replaced by the numbering base 5. Ragetti, the guy with the wooden eye is playing the following game: he writes on a sheet all the numbers that, on base 5, are written using once and only once all the numbers from 0 to 4 (the 0 can also be in the initial position). Finally, calculate the average of all the numbers you wrote. What number did you get, base 10? 14 Less easy pieces
 
 **Answer:** 1562
 [[src_gas_2010_finale__Q10]]

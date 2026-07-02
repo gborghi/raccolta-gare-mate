@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Less than 6 consecutive, maximum product of 10 digits< MSK1/>
+*Less than 6 consecutive, maximum product of 10 digits*
 
 > Six consecutive integers A 10-digit integer is the product of six consecutive positive integers and is the largest 10-digit integer that enjoys this property. Which is the smallest of the six consecutive integers?
 

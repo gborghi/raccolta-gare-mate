@@ -65,7 +65,7 @@ tags:
 
 *Rettangolo di lati interi con perimetro 58 e superficie quadrata; trovare lato di quadrato.*
 
-> Un rettangolo ha dimensioni interi $x$ e $y$ e la sua superficie è uguale a quella di un quadrato laterale $n$. Trova < MSK3/>.
+> Un rettangolo ha dimensioni interi $x$ e $y$ e la sua superficie è uguale a quella di un quadrato laterale $n$. Trova $n$.
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $2x+2y = 58$ quindi $x+y = 29$; le possibili coppie $(x,y)$ sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Di questi, solo $(4,25)$ dà un prodotto che è un quadrato perfetto, $4\cdot 25 = 100$, quindi $n = \sqrt{4\cdot 25} = \sqrt{100} = 10$.]
 

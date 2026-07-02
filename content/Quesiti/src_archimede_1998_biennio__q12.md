@@ -77,7 +77,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many equilateral triangles in Figure < MSK1/>
+*How many equilateral triangles in Figure *
 
 ![[src_archimede_1998_biennio__prob12.png]]
 

@@ -54,7 +54,7 @@ tags:
 
 *Area of the triangle ABC divided by the three parallels on the sides*
 
-> DECOUPAGE OF A TRIANGLE From an interior point in a < MSK0/> triangle the three parallels to the sides of the triangle are plotted. Thus, the triangle is divided into three parallelograms and three smaller triangles of area (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$ and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of the triangle $ABC$?
+> DECOUPAGE OF A TRIANGLE From an inner point in a $ABC$ triangle the three parallels to the sides of the triangle are plotted. Thus, the triangle is divided into three parallelograms and three smaller triangles of area (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$ and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of the triangle $ABC$?
 
 **Answer:** 144 cm²
 [[src_bocconi_finalenaz_2009__Q14]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Years with double-digit sums of the following, extreme sums< MSK1/>
+*Years with double-digit sums of the following, extreme sums*
 
 > Andrea Rossetti (Fish) is reading the Berkhoff Chronicles and the dragon raids that hit the village. When you carefully compare the dates recorded in the registers, you notice a curious regularity: there is a survey every year whose sum of figures is twice the sum of the figures of the following year. What is the first and last year that a raid will take place between 2000 and 2999? Give the sum of the two numbers found.
 

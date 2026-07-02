@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum value of 7-4x given (2x-3)(5-3x) = 0< MSK1/>
+*Maximum value of 7-4x given (2x-3)(5-3x) = 0*
 
 > Knowing that (2x −3) ((5 −3x) = 0, what can be the maximum value of 7 −4x?
 >

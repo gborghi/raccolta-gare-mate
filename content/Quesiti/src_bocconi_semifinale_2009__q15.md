@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ratio between small and large cut diamond pieces< MSK1/>
+*Ratio between small and large cut diamond pieces*
 
-> The value of a diamond is proportional to the square of its weight. During the cutting operations, a magnificent diamond worth $11.200$ Euro broke in two. The two smallest diamonds, together, are worth < MSK1/> Euro less than the big diamond that broke.
+> The value of a diamond is proportional to the square of its weight. During the cutting operations, a magnificent diamond worth $11.200$ Euro broke in two. The two smallest diamonds, together, are worth $4.200$ Euro less than the big diamond that broke.
 > 
 > What is the ratio of the weights of the two pieces obtained from the large diamond (specifically, the ratio of the weight of the smaller piece to that of the larger piece)? (To give the answer in the form of an irreducible fraction)
 

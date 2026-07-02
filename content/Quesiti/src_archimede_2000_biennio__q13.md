@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Incidence of raw materials on the price of the mascot< MSK1/>
+*Incidence of raw materials on the price of the mascot*
 
 > The price of the mascot of the mathematics Olympics is given by the sum of the price of raw materials and the price of processing. Last year, the mascot cost 10 euros. This year the cost of raw materials has doubled, so the mascot costs €11.80. How much does the price of raw materials affect the final price of the product this year?
 >

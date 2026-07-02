@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of x (span, whole sides) < MSK1/>
+*Value of x (span, whole sides) *
 
 ![[src_kangourou_2007_student_marzo__prob10.png]]
 

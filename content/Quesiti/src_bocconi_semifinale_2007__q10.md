@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining coloured carpets in the Nando box< MSK1/>
+*Remaining coloured carpets in the Nando box*
 
 > Nando had a box of 100 colored pencils. After using them for his magnificent drawings, he threw into the trash those that seemed too short. All 'pencil' of less than 4 cm in length, from 4 cm to the specified length, end up in the basket. Your neighbor picks them up and joins the pieces of the same length. The four bars you get are the same length.
 > 

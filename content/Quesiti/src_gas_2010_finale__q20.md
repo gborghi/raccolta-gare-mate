@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Product a< MSK1/>b with a^2-b^2 perfect square minimum, figures exchanged< MSK2/>
+*Product a*b with a^2-b^2 perfect square minimum, figures exchanged*
 
-> The dog with the keys. After the second time, Jack Disparrow is locked up in a dried-up Dutch cell. Spiffy, the dog with the keys, inevitably shows up, and Jack tries to lure him unsuccessfully. Out of the darkness of the cell emerges Bill Turing, who explains: "The dog answers only to those who know the magic numbers a and b and pronounces their product. I'll give you some clues: a is a positive integer of two distinct digits; b is obtained from a by exchanging the digits; the difference a2 −b2 is a perfect square and is, furthermore, the least possible. What number must Jack pronounce to attract Spiffy?
+> The dog with the keys. After the second time, Jack Disparrow is locked up in a dried-up Dutch cell. Spiffy, the dog with the keys, inevitably shows up, and Jack tries to lure him unsuccessfully. Out of the darkness of the cell emerges Bill Turing, who explains: "The dog answers only to those who know the magic numbers a and b and pronounces their product. I'll give you some clues: a is a positive integer of two distinct digits; b is obtained from a by exchanging the digits; the difference a2 −b2 is a perfect square and is also the least possible. What number must Jack pronounce to attract Spiffy?
 
 **Answer:** 3640
 [[src_gas_2010_finale__Q20]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> when in the largest< MSK1/>
+* when in the largest*
 
 > Three baskets of different sizes contain a total of 48 balls. The smallest basket contains half of the balls in the middle basket, and counting the balls in the smaller and larger baskets together, you get twice the number of balls in the middle basket. How many balls does the biggest basket contain? A) 16
 > 	

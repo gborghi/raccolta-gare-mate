@@ -51,6 +51,6 @@ tags:
 
 *Parallelogramma ABCD con lato più lungo due volte più corto; bisectori di angolo formano XYZW; area di ABCD*
 
-> Nel parallelo < MSK0/> il lato più lungo è il doppio del lato più breve. Il $XYZW$ è il quadrilaterale formato dai bisettori interni degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, si trova l'area di $ABCD$.
+> Nel parallelo $ABCD$ il lato più lungo è il doppio del lato più breve. Il $XYZW$ è il quadrilaterale formato dai bisettori interni degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, si trova l'area di $ABCD$.
 
 [[src_ioqm_2021__Q05]]

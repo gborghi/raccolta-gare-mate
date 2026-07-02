@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum whole of which the product of the digits and 540 < MSK1/>
+*Minimum whole of which the product of the digits and 540 *
 
 > What is the smallest positive integer whose product is 540? (Write 0000 if you believe such a number does not exist.)
 

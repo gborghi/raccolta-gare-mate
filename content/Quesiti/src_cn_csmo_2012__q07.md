@@ -55,7 +55,7 @@ tags:
 
 *Nel triangolo con angolo bisettore e piede perpendicolare, trovare angolo AME*
 
-> In $\triangle ABC$ con $AB = 1$, $D$ deve essere un punto su $AC$ tale che $\angle ABD = \angle C$ e $E$ deve essere un punto su $AB$ tale che $BE \perp DE$. Il $H$ deve essere un punto su $DE$ in modo tale che $AH \perp DE$ e $M$ siano il punto medio di $CD$. Trova il valore di < MSK13/>. (Posizionato da Xiong Bin)
+> In $\triangle ABC$ con $AB = 1$, $D$ deve essere un punto su $AC$ tale che $\angle ABD = \angle C$ e $E$ deve essere un punto su $AB$ tale che $BE \perp DE$. Il $H$ deve essere un punto su $DE$ tale che $AH \perp DE$ e $M$ siano il punto medio di $CD$. Trova il valore di $\angle AME$. (Posizionato da Xiong Bin)
 
 ![[src_cn_csmo_b11_w301__Q07.png]]
 

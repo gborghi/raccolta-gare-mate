@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last day with two to two different digits< MSK1/>
+*Last day with two to two different digits*
 
 > Today's date can be written as 21/03/2019: the digits 0, 1 and 2 were used twice each. Which of the following numbers denotes the day on which two to two different digits were last used? A) 30
 > 	

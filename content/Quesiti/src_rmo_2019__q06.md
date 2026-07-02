@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Tra 91 numeri interi distinti >1 con >=456 copriemi copriemi, trovate quattro con gcd ciclico in coppia 1.< MSK1/>
+*Tra 91 numeri interi distinti >1 con >=456 copriemi copriemi, trovate quattro con gcd ciclico in coppia 1.*
 
 > Supponiamo che $91$ siano dati integri positivi distinti superiori a $1$ in modo tale che ci siano almeno $456$ coppie tra di esse che sono relativamente prime. Mostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra di loro tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
 

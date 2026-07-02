@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Colorings of 8 objects with different coloured adjoints< MSK1/>
+*Colorings of 8 objects with different coloured adjoints*
 
 > Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colours are eligible?
 

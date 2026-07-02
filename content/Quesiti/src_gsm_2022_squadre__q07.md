@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Conditioned likelihood of unvaccinated patient< MSK1/>
+*Conditioned likelihood of unvaccinated patient*
 
 > It is considered that $1$ Italian on $9$ is not vaccinated for Covid-19 and the chances of contracting Covid-19 are $0{,}1$ for a vaccinated person and $0{,}9$ for a non-vaccinated person. What is the probability that a sick Italian has contracted the disease from an unvaccinated person?
 > 

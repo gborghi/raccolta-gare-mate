@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>total time< MSK1/>
+*total time*
 
 > It takes Isabella half an hour to make halfway between home and school. How long does it take to get all the way from home to school?
 > 

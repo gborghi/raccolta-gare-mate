@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sagoms obtained by approaching two equilateral triangles< MSK1/>
+*Sagoms obtained by approaching two equilateral triangles*
 
 ![[src_kangourou_2008_benjamin_marzo__prob2.png]]
 

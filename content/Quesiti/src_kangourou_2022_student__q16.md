@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of surface areas< MSK1/>
+*sum of surface areas*
 
 ![[src_kangourou_2022_student__prob16.png]]
 

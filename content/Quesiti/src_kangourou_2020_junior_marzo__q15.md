@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of 9x+27y given 17x+51y=102< MSK1/>
+*Value of 9x+27y given 17x+51y=102*
 
 > If 17x plus 51y is 102, what's 9x plus 27y worth? A) 54
 > 	

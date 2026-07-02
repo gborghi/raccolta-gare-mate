@@ -49,6 +49,6 @@ tags:
 
 *Tangent line meets chords and rays in equal segments*
 
-> $AB$ is tangent to the circles $CAMN$ and $NMBD$. $M$ lies between $C$ and $D$ on the line $CD$, and $CD$ is parallel to $AB$. The chords $NA$ and $CM$ meet at $P$; the chords $NB$ and $DM$ meet at $Q$. The rays $CA$ and $DB$ meet at $E$. Prove that MSK18/.
+> $AB$ is tangent to the circles $CAMN$ and $NMBD$. $M$ lies between $C$ and $D$ on the line $CD$, and $CD$ is parallel to $AB$. The chords $NA$ and $CM$ meet at $P$; the chords $NB$ and $DM$ meet at $Q$. The rays $CA$ and $DB$ meet at $E$. Prove that$PE = QE$.
 
 [[src_imho_2000__Q01]]

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Effective day to start the 18-day visit< MSK1/>
+*Effective day to start the 18-day visit*
 
 > Elena has to spend 18 consecutive days with her grandmother. She knows that Grandma has a habit of making cookies that she likes every Tuesday, Saturday and Sunday. On what day of the week should you start your visit with your grandmother? A) Monday B) Tuesday C) Friday D) Saturday E) Sunday Atown 3 km Betown 1 km Atown 6 km Betown 2 km ?
 >

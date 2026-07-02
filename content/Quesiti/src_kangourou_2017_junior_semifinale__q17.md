@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum sum given by MCD 3 and mcm 1800< MSK1/>
+*Minimum sum given by MCD 3 and mcm 1800*
 
 > (Points 15) Two positive integers have 3 as their maximum common divisor and 1800 as their minimum common multiple. What is the minimum value that their sum can have?
 

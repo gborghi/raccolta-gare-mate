@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many kids in the class have catfish dogs< MSK1/>
+*How many kids in the class have catfish dogs*
 
 > The boys in one class have a total of eight cats, six dogs and three fish. Every boy has at least one animal, no one has more than two, and whoever has two certainly has a dog, but he doesn't have two dogs. Exactly two boys have both a dog and a fish and exactly three boys have both a cat and a dog. How many kids are in that class? A) 11 B) 12 C) 13 D) 14 E) 17
 

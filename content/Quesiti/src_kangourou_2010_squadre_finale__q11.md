@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>First hexagon with crown thickness > 130< MSK1/>
+*First hexagon with crown thickness > 130*
 
 > The thickness of the hexagon We call the thickness of a regular hexagon the thickness of the circular crown bounded by the circumference to it circumscribed and by that to it inscribed (i.e. the difference between the greater and lesser of the two rays). Now let's imagine a sequence of regular hexagons, the first on side one, the second on side two, the third on side three, and so on. What place in the sequence does the first of these hexagons, whose thickness exceeds 130, occupy?
 

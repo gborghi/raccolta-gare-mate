@@ -49,6 +49,6 @@ tags:
 
 *area triangolare e area quadrilaterale da ceviani*
 
-> Il $P$ deve essere un punto interno di un triangolo $ABC$ e $BP$ e $CP$ devono incontrare $AC$ e $AB$ rispettivamente in $E$ e $F$. Se < MSK8/>, < MSK9/> e < MSK10/>, trovare < MSK11/>. (Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilaterale, a seconda del caso).
+> Il $P$ deve essere un punto interno di un triangolo $ABC$ e $BP$ e $CP$ devono incontrare $AC$ e $AB$ rispettivamente in $E$ e $F$. Se $[BPF] = 4$, $[BPC] = 8$ e $[CPE] = 13$, trovare $[AFPE]$. (Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilaterale, a seconda del caso).
 
 [[src_rmo_1997__Q01]]

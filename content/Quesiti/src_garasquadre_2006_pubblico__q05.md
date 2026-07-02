@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>find AB< MSK1/>
+*find AB*
 
 ![[src_garasquadre_2006_pubblico__prob5.png]]
 

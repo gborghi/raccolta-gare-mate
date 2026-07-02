@@ -62,6 +62,6 @@ tags:
 
 > $x$ e $y$ siano numeri reali rigorosamente positivi con $0 < x < y$. Definire: $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$ Prove che: a) $0 < G - H$ b) $Q \ge G < 2A$ (cioè\ $G \le Q$ e $G < 2A$) c) $G - H < Q - A$
 > 
-> (In sintesi: < MSK0/>.)
+> (In sintesi: $0 < G - H < Q - A \le A - G$.)
 
 [[src_canimath_2009_printemps__Q06]]

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Area del triangolo OAB data la nidificazione dei triangoli a destra, area dell'OCD è di 12< MSK1/>
+*Area del triangolo OAB data la nidificazione dei triangoli a destra, area dell'OCD è di 12*
 
 > Nella figura seguente, i triangoli $OAB$, $OBC$, $OCD$ sono triangoli a piega retta con angolazioni rette rispettivamente $\angle OAB$, $\angle OBC$ e $\angle OCD$. Quando l'area del triangolo $OCD$ è $12$, trovare l'area del triangolo $OAB$.
 

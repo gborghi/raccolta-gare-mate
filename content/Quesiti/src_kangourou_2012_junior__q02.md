@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Calculation of 11.111-1.1111< MSK1/>
+*Calculation of 11.111-1.1111*
 
 > The speed of a pedestrian and that of a cyclist are in the ratio of 2 to 7. The pedestrian covers 4 kilometers in an hour. How many miles does a cyclist travel in four hours? A) 14 B) 16 C) 28 D) 36 E) A number different from the previous one
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n distinct integers each divided by the sum of other n-1< MSK1/>
+*n distinct integers each divided by the sum of other n-1*
 
 > Show or refute the following statement.
 > 

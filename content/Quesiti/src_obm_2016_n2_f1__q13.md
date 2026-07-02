@@ -53,7 +53,7 @@ tags:
 
 *Ricerca x attraverso i triangoli congruenti BAD, EAC e Pitagora*
 
-> Le misure $p$ e $q$ siano rispettivamente le misure degli angoli $\angle BAD$ e $\angle EAC$. Da $BA=DE$, $\angle ABE=\angle BAE=p$; analogamente da $AC=DC$, $\angle DAC=\angle ADC=x+q$. Con il contrario del teorema di Pitagore, dal momento che $BC^2=AB^2+AC^2$, si ottiene $p+q+x=90^\circ$. Analizzare la somma angolare del triangolo $DAE$, $180^\circ=(p+x)+(q+x)=90^\circ+2x$, quindi $x=45^\circ$. Qual è il valore di < MSK13/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Le misure $p$ e $q$ siano rispettivamente le misure degli angoli $\angle BAD$ e $\angle EAC$. Da $BA=DE$, $\angle ABE=\angle BAE=p$; analogamente da $AC=DC$, $\angle DAC=\angle ADC=x+q$. Con il contrario del teorema di Pitagore, dal momento che $BC^2=AB^2+AC^2$, si ottiene $p+q+x=90^\circ$. Analizzare la somma angolare del triangolo $DAE$, $180^\circ=(p+x)+(q+x)=90^\circ+2x$, quindi $x=45^\circ$. Qual è il valore di $x$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
 [[src_obm_2016_n2_f1__Q13]]

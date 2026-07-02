@@ -57,7 +57,7 @@ tags:
 
 *Valuta di n data ripetuta lacrima-one-in-n rendimenti 2011 pezzi*
 
-> Safira strappò un foglio di carta in pezzi < MSK0/> e poi prese uno di questi pezzi e lo strappò di nuovo in pezzi < MSK1/>. Ha continuato questo processo, cioè a ogni passo ha preso uno dei pezzi e lo ha strappato in pezzi $n$. Sapendo che la quantità finale di fogli di carta che ha ottenuto è $2011$, in quanti pezzi Safira ha strappato il foglio?
+> Safira strappò un foglio di carta in pezzi $n$ e poi prese uno di questi pezzi e lo strappò di nuovo in pezzi $n$. Ha continuato questo processo, cioè a ogni passo ha preso uno dei pezzi e lo ha strappato in pezzi $n$. Sapendo che la quantità finale di fogli di carta che ha ottenuto è $2011$, in quanti pezzi Safira ha strappato il foglio?
 > 
 > (A) $15$ \quad (B) $26$ \quad (C) $28$ \quad (D) $33$ \quad (E) $36$
 

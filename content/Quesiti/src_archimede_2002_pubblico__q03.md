@@ -50,11 +50,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> succession of integers < MSK1/>
+* succession of integers *
 
-> < MSK0/>Distracted school year< MSK1/> (55 points)
+> **Distracted school year** (55 points)
 > 
-> During a boring class hour, Anna plays the following game. He writes on a sheet an integer $a_0$, then writes a sequence of integers $a_i$: each time taking as $a_{i+1}$ or the sum of the digits from the previous number or their product. After a while, you realize that all the numbers you wrote are odd. How many $a_i$ numbers with less than six digits for which at any time Anna stops and still decides to calculate $a_{i+1}$ according to the above rules will she always find and only odd numbers?
+> During a boring class hour, Anna plays the following game. He writes on a sheet an integer $a_0$, then writes a sequence of integers $a_i$: each time taking as $a_{i+1}$ or the sum of the digits from the previous number or their product. After a while, you realize that all the numbers you wrote are odd. How many $a_i$ numbers with less than six digits for which at any time Anna stops and still decides to calculate $a_{i+1}$ according to the rules above will she always find and only odd numbers?
 
 **Answer:** 0039
 [[src_archimede_2002_pubblico__Q03]]

@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK1/>Pare di catene in posizione di divisore: prove sqrt(<A to be) +sqrt(to be)≤sqrt(to be)*
+*Pare di catene in posizione di divisore: prove sqrt(<A to be) +sqrt(to be)≤sqrt(to be)*
 
-> Il numero $n$ è un numero intero positivo fisso. Denotare con $D$ l'insieme di tutti i divisori positivi di $n$. Che $A$ e $B$ siano sottogruppi di $D$ che soddisfino: per qualsiasi $a \in A$ e $b \in B$, né $a$ divide $b$ né $b$ divide $a$. Provare che < MSK0/>
+> Il numero $n$ è un numero intero positivo fisso. Denotare con $D$ l'insieme di tutti i divisori positivi di $n$. Che $A$ e $B$ siano sottoinsiemi di $D$ che soddisfino: per qualsiasi $a \in A$ e $b \in B$, né $a$ divide $b$ né $b$ divide $a$. Provare che $$\sqrt{|A|} + \sqrt{|B|} \le \sqrt{|D|}.$$
 
 [[src_cn_ctst_2022__Q24]]

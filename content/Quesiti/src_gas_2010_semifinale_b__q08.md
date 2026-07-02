@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum a with a^2+200a+1 perfect square< MSK1/>
+*Maximum a with a^2+200a+1 perfect square*
 
 > Optimize it! When beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the optimiser to be spared, but discovers with regret that to make it effective with real π-rates, she is asked to find the largest positive integer such that a2 +200a + 1 is a perfect square. What's the answer?
 

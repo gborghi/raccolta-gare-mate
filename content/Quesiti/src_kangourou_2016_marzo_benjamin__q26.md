@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the sixth< MSK1/>
+*the sixth*
 
 ![[src_kangourou_2016_marzo_benjamin__prob26.png]]
 

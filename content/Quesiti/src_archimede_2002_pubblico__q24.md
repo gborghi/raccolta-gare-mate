@@ -52,7 +52,7 @@ tags:
 
 > This is a list of the official languages of the European Union, including the official languages of the European Union.
 > 
-> Bernardo's playing with the mechanic. First, he builds two side cubes measuring $a$ and $b$ in centimeters. Then it disassembles its cubes and by putting together the various sides of its predecessors it builds a larger, lateral $c = a + b$ cube. The volume of the new cube exceeds < MSK3/> the sum of the volumes of the other 2. Finally Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in < MSK7/>)?
+> Bernardo's playing with the mechanic. First, he builds two side cubes measuring $a$ and $b$ in centimeters. Then it disassembles its cubes and by putting together the various sides of its predecessors it builds a larger, lateral $c = a + b$ cube. The volume of the new cube exceeds $3000 \text{ cm}^3$ the sum of the volumes of the other 2. Finally Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in $\text{cm}^3$)?
 
 **Answer:** 1000
 [[src_archimede_2002_pubblico__Q24]]

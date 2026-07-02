@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Duration of holiday after half rainy days< MSK1/>
+*Duration of holiday after half rainy days*
 
 > During Gianna's vacation there were seven half days of rain. The dry rows were 6, the dry mornings were 5. How many days did Gianna's vacation last? A) 7
 > 	

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum mesh colours with the same distance N=6767·7676< MSK1/>
+*Maximum mesh colours with the same distance N=6767·7676*
 
 > For every sea I will sail, David Averoldi Stochastick whistles a melody that is immediately recognized by Valgebra, who begins to sing: For every point at full coordinates of the Cartesian plane I will sail, and each of them I will color without fear: if two points will be exactly 6767·7676 units apart, the same color I will give them. What's the maximum number of colors I can use?
 

@@ -62,7 +62,7 @@ tags:
 
 *Soccer players in a row; remove 2N players preserving tallness conditions*
 
-> An integer < MSK0/> is given. A collection of $N(N+1)$ soccer players, no two of whom are of the same height, stand in a row. Sir Alex wants to remove $N(N-1)$ players from this row leaving a new row of $2N$ players where the following $N$ conditions hold:
+> An integer $N \ge 2$ is given. A collection of $N(N+1)$ soccer players, no two of whom are of the same height, stand in a row. Sir Alex wants to remove $N(N-1)$ players from this row leaving a new row of $2N$ players in which the following $N$ conditions hold:
 > 
 > (1) no one stands between the two tallest players,
 > 

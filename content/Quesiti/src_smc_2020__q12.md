@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca il costo di un completo a tre pezzi data due equazioni sui prezzi di giacca, pantaloni, giubbotto< MSK1/>
+*Ricerca il costo di un completo a tre pezzi data due equazioni sui prezzi di giacca, pantaloni, giubbotto*
 
 > Un vestito a tre pezzi è costituito da una giacca, un paio di pantaloni e una cintura. Due giacche e tre coppie di pantaloni costano 380 sterline. Un paio di pantaloni costa lo stesso che due giubbotti. Quanto costa un vestito a tre pezzi?
 >

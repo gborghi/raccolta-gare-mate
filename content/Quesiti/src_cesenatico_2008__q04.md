@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Term (a,b,c) positive integers with a^2+2^(b+1) = 3^c< MSK1/>
+*Term (a,b,c) positive integers with a^2+2^(b+1) = 3^c*
 
 > Determine all terns (a, b, c) of integers greater than zero such that a2 + 2b + 1 = 3c.
 

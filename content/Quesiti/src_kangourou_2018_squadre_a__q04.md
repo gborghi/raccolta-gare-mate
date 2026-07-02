@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>6 square strip colouring modes with rotation< MSK1/>
+*6 square strip colouring modes with rotation*
 
 ![[src_kangourou_2018_squadre_a__prob4.png]]
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solid volume at the center of the cutting cube for coloured dies< MSK1/>
+*Solid volume at the center of the cutting cube for coloured dies*
 
 > A challenging training A key stage of morning training is sword cutting. Today Numeruto must show his skill to the master and his companions. There's a wooden cube in front of it with 12 long beads. Color the centers of each face using 3 colors (the same color for the centers of opposite faces). He then cuts through each passing plane with his sword through a fine line of distinctly colored dots. Determine the volume of the solid containing the center of the cube.
 

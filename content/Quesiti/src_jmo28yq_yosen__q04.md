@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Restante di 1111^2018 modulo 11111< MSK1/>
+*Restante di 1111^2018 modulo 11111*
 
 > Trova il rimanente quando $1111^{2018}$ è diviso da $11111$.
 

@@ -48,6 +48,6 @@ tags:
 
 *A pile contains two cards with a square sum*
 
-> It is < MSK0/> a whole. Ivan writes the numbers $n, n+1, \ldots, 2n$ each on a different card. Then he mixes these MSK2/ cards and divides them into two piles. Demonstrate that at least one of the two stacks contains two cards such that the sum of their numbers is a perfect square.
+> It is $n \geq 100$ a whole. Ivan writes the numbers $n, n+1, \ldots, 2n$ each on a different card. Then he mixes these$n+1$cards and divides them into two piles. Demonstrate that at least one of the two stacks contains two cards such that the sum of their numbers is a perfect square.
 
 [[src_imo_2021__Q01]]

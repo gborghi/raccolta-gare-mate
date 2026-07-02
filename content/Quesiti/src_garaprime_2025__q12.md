@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Given product xy (x+y) ^2=100x+y=2025< MSK1/>
+*Given product xy (x+y) ^2=100x+y=2025*
 
 > The two positive real numbers x and y are such that (x + y) 2 = 100x + y = 2025. How much is product xy worth?
 >

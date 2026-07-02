@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which n returns to the starting point< MSK1/>
+* for which n returns to the starting point*
 
 > Demonstrative Exercise Be a positive whole. A flea is on the real line and performs a sequence of n jumps of length 1,2,3. . . ,n. The flea can choose the order of the jump lengths and for each jump it can decide whether to jump to the right or to the left. (a) Demonstrate that for n = 2012, the fly can end the jump sequence at the same point from which it started. (b) Demonstrate that for n = 2013 this is not possible. (c) In general, what is the point of departure?
 

@@ -41,13 +41,6 @@ tags:
 
 >  dove m e n sono numeri interi 
 > positivi? (Scrivi 9999 se ritieni che siano infiniti). 
->  
->  
->  
->  
->  
->  
->  
 > P
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

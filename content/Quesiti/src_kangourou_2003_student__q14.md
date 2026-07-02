@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Acute triangle area of 12,13,15< MSK1/>
+*Acute triangle area of 12,13,15*
 
 > 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acutangle triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
 

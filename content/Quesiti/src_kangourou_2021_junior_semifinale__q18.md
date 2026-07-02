@@ -68,7 +68,7 @@ tags:
 
 ![[src_kangourou_2021_junior_semifinale__prob18.png]]
 
-> (8 points) The figure shows two externally tangent circumferences inserted into an angle of < MSK0/> and both tangents to the semicircles delimiting the angle: M and N are the two tangent points to the horizontal semicircle. The lines for A and B are parallel and tangent to the small and the large circumference respectively. The radius of the small circumference is √12. If AM is long 3, how long is AB?
+> (8 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the semicircles delimiting the angle: M and N are the two tangent points to the horizontal semicircle. The lines for A and B are parallel and tangent to the small and the large circumference respectively. The radius of the small circumference is √12. If AM is long 3, how long is AB?
 >  
 > Answers
 >  

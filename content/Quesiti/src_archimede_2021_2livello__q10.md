@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Terms with 2^a+2^b+2^c divider of 8^a+8^b+8^c< MSK1/>
+*Terms with 2^a+2^b+2^c divider of 8^a+8^b+8^c*
 
 > Determine the number of ordered tern (a,b,c) of non-negative integers such that each of the numbers 2a, 2b, 2c is less than 10000 and that the number 2a + 2b + 2c is a divisor of 8a + 8b + 8c.
 >

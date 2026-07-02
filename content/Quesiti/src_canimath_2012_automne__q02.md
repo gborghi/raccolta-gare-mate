@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cucinazione ottimale delle bistecche con una padella contenente due < MSK1/>
+*Cucinazione ottimale delle bistecche con una padella contenente due *
 
 > Per preparare una bistecca, deve essere cucinata un minuto su ogni lato. Abbiamo solo una padella, in cui possiamo mettere al massimo due bistecche alla volta.
 > 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Bambini con dolci intorno a un tavolo; trovare accordi iniziali che possano essere resi perfetti< MSK1/>
+*Bambini con dolci intorno a un tavolo; trovare accordi iniziali che possano essere resi perfetti*
 
 > Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte. Una disposizione è chiamata *perfetta* se vi è una sequenza di mosse che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
 

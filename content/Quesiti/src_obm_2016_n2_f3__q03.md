@@ -86,6 +86,6 @@ tags:
 > 
 > a) Spiegare perché il numero $n$ dei gruppi non può essere $50$.
 > 
-> b) Qual è il valore minimo possibile di < MSK0/>?
+> b) Qual è il valore minimo possibile di $n$?
 
 [[src_obm_2016_n2_f3__Q03]]

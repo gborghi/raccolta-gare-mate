@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricorrenza della sequenza: risultati di limitazione e di non limitazione< MSK1/>
+*Ricorrenza della sequenza: risultati di limitazione e di non limitazione*
 
 > Una sequenza $b_1, b_2, b_3, \ldots$ di numeri reali non zero ha la proprietà che $$b_{n+1} = \frac{b_n^2 - 1}{b_n}$$ per tutti gli enti interi positivi $n$. Supponiamo che $b_1 = 1$ e $b_7 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare inoltre che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
 

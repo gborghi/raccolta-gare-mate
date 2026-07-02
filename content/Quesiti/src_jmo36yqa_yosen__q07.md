@@ -59,7 +59,7 @@ tags:
 
 *Conteggio dei sedili degli studenti sulle banche del 2026 dopo un processo di migrazione a due regole*
 
-> Ci sono banchi $2026$ equamente spaziati intorno a un cerchio (numerati $1$ fino a $2026$), ognuno inizialmente occupato da esattamente uno studente. In ogni fase del processo, l'insegnante: - Seleziona uno studente che sta seduto sulla panchina $1$ e gli chiede di passare alla panchina $2$ (la panchina successiva nella direzione positiva). - Ogni altro studente che non è stato selezionato si sposta sulla panchina che è < MSK5/> posizioni in avanti.
+> Ci sono banchi $2026$ equamente spaziati intorno a un cerchio (numerati $1$ fino a $2026$), ognuno inizialmente occupato da esattamente uno studente. A ogni fase del processo, l'insegnante: - Seleziona uno studente che sta seduto sulla panchina $1$ e gli chiede di passare alla panchina $2$ (la panchina successiva nella direzione positiva). - Ogni altro studente che non è stato selezionato si sposta sulla panchina che è $2$ posizioni in avanti.
 > 
 > Quando tutti gli studenti hanno finito di muoversi, il numero totale degli studenti sulle panchine risulta essere esattamente $2000$. Trova il numero di posti a sedere possibili in quel momento.
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities n in [1,2007] with 2n in 19 groups (conditions) < MSK1/>
+*Quantities n in [1,2007] with 2n in 19 groups (conditions) *
 
 > The big dance [⋆] Even at the moreninja academy occasionally the weather is relaxing and tonight the big dance of the little ones is taking place. All the guests have already arrived in the room: n mateninji (the males) and n mateninje (the females) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 19 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
 

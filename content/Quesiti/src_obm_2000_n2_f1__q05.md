@@ -66,7 +66,7 @@ tags:
 
 *Effetto sulle medie della classe dopo il trasferimento dell'ultimo allievo dalla classe A alla classe B*
 
-> Gli studenti < MSK0/> approvati in un concorso, i cui punteggi erano tutti distinti, sono stati suddivisi in due gruppi in base al loro classificazione: i primi < MSK1/> sono stati collocati nella classe A e i prossimi < MSK2/> nella classe B. Le medie di entrambe le classi nella competizione sono state quindi calcolate. Successivamente, fu deciso di trasferire l'ultimo studente della classe A alla classe B. Quale delle seguenti affermazioni è certamente vero?
+> Gli studenti $61$ approvati in un concorso, i cui punteggi erano tutti distinti, sono stati suddivisi in due gruppi in base al loro ranking: i primi $31$ sono stati classificati nella classe A e i prossimi $30$ nella classe B. Le medie di entrambe le classi nella competizione sono state quindi calcolate. Successivamente, fu deciso di trasferire l'ultimo studente della classe A alla classe B. Quale delle seguenti affermazioni è certamente vero?
 > 
 > A) La media della classe A è migliorata, ma la classe B è peggiorata. B) La media della classe A è peggiorata, ma la classe B è migliorata. C) Le medie di entrambe le classi sono migliorate. D) Le medie di entrambe le classi sono peggiorate. E) Le medie delle classi possono migliorare o peggiorare, a seconda dei punteggi dei candidati.
 

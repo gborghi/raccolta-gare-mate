@@ -54,6 +54,6 @@ tags:
 
 *Prove il limite inferiore sul prodotto delle distanze da un punto a tutti gli altri*
 
-> (50 marchi) Il $P_0, P_1, P_2, \ldots, P_n$ deve essere $n + 1$ punti su un piano, la distanza minima tra ciascuno di essi è $d > 0$. Prova < MSK0/>
+> (50 marchi) Il $P_0, P_1, P_2, \ldots, P_n$ deve essere $n + 1$ punti su un piano, la distanza minima tra ciascuno di essi è $d > 0$. Prova $$|P_0P_1| \cdot |P_0P_2| \cdots |P_0P_n| > \left(\frac{d}{3}\right)^n \sqrt{(n+1)!}.$$
 
 [[src_cn_cmc-complementary-test_2012__Q03]]

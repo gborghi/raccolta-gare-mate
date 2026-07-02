@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many weeks are equal to 2016 hours< MSK1/>
+*How many weeks are equal to 2016 hours*
 
 > 3. How many weeks is 2016 hours? A) 6 B) 8 C) 10 D) 12 E) 16
 

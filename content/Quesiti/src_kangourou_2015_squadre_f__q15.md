@@ -38,12 +38,6 @@ tags:
 > Allineandone alcune una dopo l'altra, senza sovrapposizioni neppure parziali, volete formare una 
 > barra lunga esattamente un metro. Quante possibilità avete, se non tenete conto dell'ordine in cui le 
 > barrette si susseguono?  
->  
->  
->  
-> 
->  
->  
 >      Quesiti e soluzioni
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Graph of maximum temperatures expected in 7 days< MSK1/>
+*Graph of maximum temperatures expected in 7 days*
 
 ![[src_kangourou_2021_student_gara__prob1.png]]
 

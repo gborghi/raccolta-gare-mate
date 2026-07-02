@@ -51,6 +51,6 @@ tags:
 
 *Triangolo isosceles, circoncircolo, linea attraverso D parallela ad AC, AE:EB=2:1*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. La circoscrizione di $\Gamma$ sia la sua circonferenza e la circoscrizione di $O$ sia il centro di $\Gamma$. In $D$ $CO$ si deve incontrare $\Gamma$. Tracciare una linea parallela a $AC$ attraverso $D$. Lasciate che < MSK10/> si intersechi a < MSK11/>. $AE : EB = 2 : 1$. Prova che $ABC$ è un triangolo equilaterale.
+> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. La circoscrizione di $\Gamma$ sia la sua circonferenza e la circoscrizione di $O$ sia il centro di $\Gamma$. In $D$ $CO$ si deve incontrare $\Gamma$. Tracciare una linea parallela a $AC$ attraverso $D$. Lasciate che $AB$ si intersechi a $E$. $AE : EB = 2 : 1$. Prova che $ABC$ è un triangolo equilaterale.
 
 [[src_rmo_2016_r4__Q01]]

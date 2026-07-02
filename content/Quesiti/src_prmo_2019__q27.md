@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Disturbi di conteggio di BHARAT< MSK1/>
+*Disturbi di conteggio di BHARAT*
 
 > Diciamo che una riorganizzazione delle lettere di una parola non ha lettere fisse se, quando la riorganizzazione è posta direttamente sotto la parola, nessuna colonna ha la stessa lettera ripetuta. Ad esempio, $HBRATA$ è un riordinamento senza lettere fisse di $BHARAT$. Quante riorganizzazioni distinguibili senza lettere fisse ha $BHARAT$? (I due $A$ sono considerati identici.)
 

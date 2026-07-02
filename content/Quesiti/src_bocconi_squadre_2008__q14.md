@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of chocolates given by Carla to Milena< MSK1/>
+*Number of chocolates given by Carla to Milena*
 
 > Carla gives Milena a number of chocolates. Adding this number to the sum of its digits, you get 2008. How many chocolates did Carla give Milena?
 

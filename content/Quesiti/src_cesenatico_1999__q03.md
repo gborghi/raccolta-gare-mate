@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>AB passes through the intersection with r1+r2=r (tangent circles) < MSK1/>
+*AB passes through the intersection with r1+r2=r (tangent circles) *
 
 ![[src_cesenatico_1999__prob3.png]]
 

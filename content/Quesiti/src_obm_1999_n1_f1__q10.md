@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>100 monete (50c e R\$1) complessivamente 76 reais; trovare differenza di conteggio tra i due tipi.< MSK1/>
+*100 monete (50c e R\$1) complessivamente 76 reais; trovare differenza di conteggio tra i due tipi.*
 
 > Ronaldo, ogni volta che puo', risparmia monete di 50 centos o 1 vero. Attualmente ha 100 monete per un totale di 76 reais. Quante monete di una denominazione ha in più dell'altra?
 > 

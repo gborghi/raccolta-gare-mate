@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of 42 cubic feet, base perimeter 18< MSK1/>
+*Height of 42 cubic feet, base perimeter 18*
 
 > Andrea has 42 identical cubes, each with a 1 cm long tail. Using all of them, he constructed a rectangular parallel-piped, whose base has a perimeter of 18 cm. What is the height of the parallel piped? A) 1 cm B) 2 cm C) 3 cm       D) 4 cm E) 5 cm
 

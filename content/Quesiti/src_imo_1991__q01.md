@@ -53,6 +53,6 @@ tags:
 
 Bound product of incenter-vertex over bisector ratios
 
-> Given a triangle ABC, let me be the center of its inscribed circle. The internal bisectors of the angles A, B, C meet the opposite sides in A′, B′, C′ respectively. Prove that 1 4 < AI · BI · CI AA < MSK3/> · BB < MSK4/> · CC < MSK5/> < MSK6/> 8 27.
+> Given a triangle ABC, let me be the center of its inscribed circle. The internal bisectors of the angles A, B, C meet the opposite sides in A′, B′, C′ respectively. Prove that 1 4 < AI · BI · CI AA ′ · BB ′ · CC ′ ≤ 8 27.
 
 [[src_imo_1991__Q01]]

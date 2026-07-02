@@ -57,7 +57,7 @@ tags:
 
 *Distance from the top of a tetrahedron after rotation*
 
-> A regular tetrahedron whose beam measures 6 < MSK1/> 3 cm is resting on a plane p (i.e. a face is contained in p); we indicate with V the vertex that does not belong to p. The tetrahedron is rotated < MSK0/> by a rotation having the straight axis containing one of the axles resting on p. Calculate how far from plane p is the vertex V after rotation.
+> A regular tetrahedron whose beam measures 6 √ 3 cm is resting on a plane p (i.e. a face is contained in p); we indicate with V the vertex that does not belong to p. The tetrahedron shall be rotated 90° by a rotation having the straight axis containing one of the axles resting on p. Calculate how far from plane p is the vertex V after rotation.
 >
 > - **(A)** 1 √ 3 cm,
 > - **(B)** 2 3 cm,

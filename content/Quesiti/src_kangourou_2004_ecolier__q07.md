@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Exact time between four clocks< MSK1/>
+*Exact time between four clocks*
 
 ![[src_kangourou_2004_ecolier__prob7.png]]
 

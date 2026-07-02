@@ -59,7 +59,7 @@ tags:
 
 *Which combination uniquely determines the triangle*
 
-> For which of the following combinations of sides and angles does a uniquely determined ABC triangle exist? A) AB = 11cm, BC = 19cm, CA = 7cm B) AB = 11cm, BC = 6cm, ? BAC (i.e. measure of the angle BAC) = 63° C) AB = 11cm, CA = 7cm, ? CBA = 128° D) AB = 11 cm, ? BAC = < MSK2/>, ? CBA = 128° E) None of the above. I'm not going anywhere. 1 Fig. 2
+> For which of the following combinations of sides and angles does a uniquely determined ABC triangle exist? A) AB = 11cm, BC = 19cm, CA = 7cm B) AB = 11cm, BC = 6cm, ? BAC (i.e. measure of the angle BAC) = 63° C) AB = 11cm, CA = 7cm, ? CBA = 128° D) AB = 11 cm, ? BAC = 63°, ? CBA = 128° E) None of the above. I'm not going anywhere. 1 Fig. 2
 > 
 > I'm going to pay. I'm going to pay. 29 29 Kang 2003 Kang
 

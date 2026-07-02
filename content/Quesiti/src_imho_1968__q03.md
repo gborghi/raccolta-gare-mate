@@ -62,7 +62,7 @@ tags:
 
 *System of equations: analyze solutions based on discriminant Delta*
 
-> Consider the system of equations $$ax_1^2 + bx_1 + c = x_2$$ $$ax_2^2 + bx_2 + c = x_3$$ $$\vdots$$ $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$ $$ax_n^2 + bx_n + c = x_1$$ with unknowns $x_1, x_2, \ldots, x_n$, where $a, b, c$ are real and $a \neq 0$. Let < MSK8/>.
+> Consider the system of equations $$ax_1^2 + bx_1 + c = x_2$$ $$ax_2^2 + bx_2 + c = x_3$$ $$\vdots$$ $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$ $$ax_n^2 + bx_n + c = x_1$$ with unknowns $x_1, x_2, \ldots, x_n$, where $a, b, c$ are real and $a \neq 0$. Let $\Delta = (b-1)^2 - 4ac$.
 > 
 > (a) If $\Delta < 0$, there is no solution. (b) If $\Delta = 0$, there is exactly one solution. (c) If $\Delta > 0$, there is more than one solution.
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs of straight lines parallel to the ends of a cube< MSK1/>
+*Pairs of straight lines parallel to the ends of a cube*
 
 > How many pairs of straight sghembe (i.e. not lying on the same plane) can be formed, choosing the straight lines from those on which the spikes of a cube lie?
 

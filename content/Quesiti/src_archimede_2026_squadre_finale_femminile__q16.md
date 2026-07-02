@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive pairs (a,b) with a^2+b^2-2a-4b=2026< MSK1/>
+*Positive pairs (a,b) with a^2+b^2-2a-4b=2026*
 
 > Having warned that his friend is in danger, Sdentato runs into the arena, protects Hiccup from the dragon and saves him. Unfortunately, in the most total chaos, he is imprisoned by the Vikings. It is useless for Hiccup to find all pairs ( , ) a b of positive integers such as 2 2 2 4 2026 a b a b     , a problem that Stoick had failed to solve. (Give the sum of the values a b  of all the pairs found.)
 

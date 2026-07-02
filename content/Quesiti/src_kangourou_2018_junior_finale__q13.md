@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of m^3+n^5 given m^5+n^3=7901< MSK1/>
+*Value of m^3+n^5 given m^5+n^3=7901*
 
-> Observe the figure: in a side square < MSK0/> < MSK1/> semicirculars all of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What's the area of the unshaded part of the square? (see figure)
+> Note the figure: in a side square $4$ $8$ semicirculars all of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What's the area of the unshaded part of the square? (see figure)
 >
 > - **(A)** $2\pi$
 > - **(B)** $8$

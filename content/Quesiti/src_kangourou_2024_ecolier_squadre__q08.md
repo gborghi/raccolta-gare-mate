@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes from the last hour with the same figures exchanged< MSK1/>
+*Minutes from the last hour with the same figures exchanged*
 
 ![[src_kangourou_2024_ecolier_squadre__prob8.png]]
 

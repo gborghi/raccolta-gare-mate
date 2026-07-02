@@ -55,10 +55,6 @@ tags:
 > U 
 > 5 
 > R 
-> 
->  
->  
->  
 > Quesiti e soluzioni
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -71,18 +67,13 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Weight of the word KANGOUROU given sums of letters < MSK1/>
+Weight of the word KANGOUROU given sums of letters *
 
 ![[src_kangourou_2023_ecolier_squadre__prob15.png]]
 
 > Weight In the word kangaroo every letter has a weight, equal letters have the same weight. The four letters KNGR together weigh 16, the three letters AOU together weigh 9, the four letters KANG together weigh 13, the letter R together weigh 5. How much does the word kangaroo weigh?
 >  
-> 16 K N G R 13 K A N G 9 A O U 5 R
-> 
->  
->  
->  
-> Questions and solutions
+> 16 K N G R 13 K A N G 9 A O U 5 R Questions and solutions
 
 **Answer:** 0032
 [[src_kangourou_2023_ecolier_squadre__Q15]]

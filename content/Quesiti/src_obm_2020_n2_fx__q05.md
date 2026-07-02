@@ -53,6 +53,6 @@ tags:
 
 *Prove l'eguaglianza angolare utilizzando circoli di due triangoli in un triangolo acuto*
 
-> $ABC$ sia un triangolo acuto con il centro circundante $O$. Il punto medio di $AB$ e $K \ne C$ è il secondo punto di intersezione dei circoncircoli dei triangoli $ACK$ e $OMB$. Le linee $CK$ e $OM$ si incontrano a $P$. Prova che < MSK10/>.
+> $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $M$ è il punto medio del $AB$ e $K \ne C$ il secondo punto di intersezione dei circoncircoli dei triangoli $ACK$ e $OMB$. Le linee $CK$ e $OM$ si incontrano a $P$. Prova che $\angle KAP = \angle MCB$.
 
 [[src_obm_2020_n2_fx__Q05]]

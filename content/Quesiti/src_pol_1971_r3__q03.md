@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sifre con serrature distribuite tra i membri del comitato< MSK1/>
+*Sifre con serrature distribuite tra i membri del comitato*
 
 > Una cassaforte è protetta da un certo numero di serrature. Undici membri del comitato hanno le chiavi di alcune serrature. Qual è il numero minimo di serrature necessario affinché ogni sei membri del comitato possano aprire la cassaforte, ma non cinque membri possono farlo? Come dovrebbero essere distribuite le chiavi tra i membri del comitato se il numero di serrature è il più piccolo?
 

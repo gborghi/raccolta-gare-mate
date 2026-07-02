@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum coin in the third of 6 bags< MSK1/>
+*Maximum coin in the third of 6 bags*
 
 > 1,000 coins for 6 bags 1,000 coins are distributed in 6 bags. Each bag contains at least one coin. The first contains three times the coins of the second which in turn contains twice the coins of the third. How many coins can there be in the third bag at most?
 

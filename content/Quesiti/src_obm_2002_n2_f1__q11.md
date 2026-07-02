@@ -71,7 +71,7 @@ tags:
 > - **(B)** Nel mese di luglio la differenza di entrate è stata maggiore di tutte le altre.
 > - **(C)** La società $B$ ha registrato un calo maggiore dei ricavi rispetto alla società $A$ nei due mesi consecutivi.
 > - **(D)** Nel semestre, il fatturato totale di $A$ è stato superiore a quello di $B$.
-> - **(E)** La differenza tra le entrate totali del semestre non ha superato < MSK0/> milioni di reais.
+> - **(E)** La differenza tra le entrate totali del semestre non ha superato $20$ milioni di reais.
 
 ![[src_obm_2002_n2_f1__Q11.png]]
 

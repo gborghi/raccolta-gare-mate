@@ -53,7 +53,7 @@ tags:
 
 Holidays in 2017 (4 months, first minor)
 
-> Long holidays in Madagascar start at < MSK0/> of a certain month and last for 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many are the holiday days in 2017?
+> Long holidays in Madagascar start at 1° of a certain month and last for 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many are the holiday days in 2017?
 
 **Answer:** 120
 [[src_kangourou_2017_squadre_ecolier_f__Q09]]

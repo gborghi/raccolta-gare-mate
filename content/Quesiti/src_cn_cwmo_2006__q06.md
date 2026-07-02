@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conciclicità in cerchio con circoncircolo di triangolo BOD< MSK1/>
+*Conciclicità in cerchio con circoncircolo di triangolo BOD*
 
 > $AB$ è un diametro di cerchio $O$, il punto $C$ si trova sulla linea $AB$ prodotta. Una linea che attraversa $C$ incrocia il cerchio $O$ nei punti $D$ e $E$. $OF$ è un diametro di circoncircolo $O_1$ di $\triangle BOD$. Unire $CF$ e la sua estensione, incrociare il cerchio $O$ a $G$. Provare che i punti $O$, $A$, $E$, $G$ sono conciclici.
 

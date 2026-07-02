@@ -56,7 +56,7 @@ tags:
 
 *A+B+C+D given AB,CD arithmetic mean with AB,CD*
 
-> Four digits A, B, C, D with A < MSK0/> 0 are assigned. The positive number represented, in decimal notation, as AB,CD is the arithmetic mean of the integers AB and CD. How much is A + B + C + D ? A) 14
+> Four digits A, B, C, D with A ≠ 0 are assigned. The positive number represented, in decimal notation, as AB,CD is the arithmetic mean of the integers AB and CD. How much is A + B + C + D ? A) 14
 > 	
 > B) 18
 > 	

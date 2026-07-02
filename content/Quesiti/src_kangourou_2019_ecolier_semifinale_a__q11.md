@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of dividing 50 apples with constraints< MSK1/>
+*Mode of dividing 50 apples with constraints*
 
 > Alice, Bianca and Claudia want to split 50 apples (without cutting them) so that Alice gets at least 14, Bianca gets at least 9, and Claudia gets 12 or 15. How many different ways can they do that?
 

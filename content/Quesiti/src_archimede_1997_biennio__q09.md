@@ -60,7 +60,7 @@ tags:
 
 *Colla to build a 5x5x5 cube from unit cubes*
 
-> To glue the faces of two unit cubes together, 0.25 grams of glue are needed. How much glue does it take to build a cube 5 < MSK0/> 5 < MSK1/> 5 from 125 unit cubes? (N.B. To ensure greater strength, all contact facial pairs are glued.)
+> To glue the faces of two unit cubes together, 0.25 grams of glue are needed. How much glue does it take to build a cube 5 from 125 unit cubes? (N.B. To ensure greater strength, all contact facial pairs are glued.)
 >
 > - **(A)** 180 g
 > - **(B)** 150 g

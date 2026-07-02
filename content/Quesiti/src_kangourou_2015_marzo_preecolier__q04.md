@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>total black spots< MSK1/>
+*total black spots*
 
 ![[src_kangourou_2015_marzo_preecolier__prob4.png]]
 

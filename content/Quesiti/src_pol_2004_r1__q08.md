@@ -52,6 +52,6 @@ tags:
 
 *Per un punto $P$ all'interno del tetraedro $ABCD$, provare $\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ$.*
 
-> Il punto $P$ si trova all'interno di un tetraedro $ABCD$. Provare che < MSK0/>
+> Il punto $P$ si trova all'interno di un tetraedro $ABCD$. Provare che $$\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ.$$
 
 [[src_pol_2004_r1__Q08]]

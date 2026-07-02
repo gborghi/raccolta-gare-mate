@@ -63,9 +63,9 @@ tags:
 
 > Un camionista, scendendo da una collina, trovò un tronco che bloccava la strada. Per misurare la lunghezza del registro, ha fatto quanto segue: partendo dalla base del registro ha camminato verso l'alto, contando i passi $20$; poi immediatamente si è girato e ha camminato dalla parte superiore del registro di nuovo alla base, contando i passi $140$. I suoi passi sono $80$ centimetri di lunghezza, e ogni passo che prende lo sposta avanti per la stessa distanza.
 > 
-> a) Il < MSK0/> deve essere la lunghezza del registro in metri. Quanti metri ha camminato il camionista mentre ha fatto i suoi passi < MSK1/> fino alla cima del tronco? (La lettera $\ell$ deve apparire nella tua risposta.)
+> a) Il $\ell$ deve essere la lunghezza del registro in metri. Quanti metri ha camminato il camionista mentre ha fatto i suoi passi $20$ fino alla cima del tronco? (La lettera $\ell$ deve apparire nella tua risposta.)
 > 
-> b) Qual è il valore di < MSK0/>?
+> b) Qual è il valore di $\ell$?
 
 ![[src_obm_2015_n1_f3__Q03.png]]
 

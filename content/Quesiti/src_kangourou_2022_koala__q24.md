@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum exchanges for increasing order< MSK1/>
+*minimum exchanges for increasing order*
 
 ![[src_kangourou_2022_koala__prob24.png]]
 

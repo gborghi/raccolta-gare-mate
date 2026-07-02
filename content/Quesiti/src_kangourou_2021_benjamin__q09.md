@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sure assertion by taking 20 fruits< MSK1/>
+*Sure assertion by taking 20 fruits*
 
 > In one box were 20 apples and 20 pears. Carlo accidentally took 20 fruits from the box and Luca took all the rest. Which of the following is certainly true? A) Charles took at least one pear. B) Charles took the same number of apples and pears. C) Charles took the same number of apples as Luke. D) Charles took as many pears as the apples that Luke took. E) Charles took the same number of pears as Luke.
 

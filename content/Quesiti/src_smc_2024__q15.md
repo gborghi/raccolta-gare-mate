@@ -60,7 +60,7 @@ tags:
 
 *Due quadrati JKLM e NKPO che condividono angolo K; NL = 10 cm, area ombrata 62 cm2; trovi KN*
 
-> Il diagramma mostra due quadrati, $JKLM$ e $NKPO$. La lunghezza di $NL$ è di 10 cm. La zona ombrata ha una superficie di 62 cm < MSK3/>. Qual è la lunghezza di < MSK4/> in cm?
+> Il diagramma mostra due quadrati, $JKLM$ e $NKPO$. La lunghezza di $NL$ è di 10 cm. La zona ombrata ha una superficie di 62 cm $^2$. Qual è la lunghezza di $KN$ in cm?
 >
 > - **(A)** $3$
 > - **(B)** $\sqrt{18}$

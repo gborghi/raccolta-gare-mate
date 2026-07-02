@@ -66,7 +66,7 @@ tags:
 
 > Alcuni quadrati di una griglia con lo stesso numero di righe (linee orizzontali) e colonne (linee verticali) sono dipinti in nero, seguendo il modello mostrato nella figura di pagina 1. Il modello è illustrato per una griglia con 14 colonne e 14 righe.
 > 
-> a) Quanti quadrati sono dipinti in una griglia < MSK0/> (con 14 righe e 14 colonne)?
+> a) Quanti quadrati sono dipinti in una griglia $14 \times 14$ (con 14 righe e 14 colonne)?
 > 
 > b) Quante righe ha una griglia se contiene 199 quadrati dipinti?
 > 

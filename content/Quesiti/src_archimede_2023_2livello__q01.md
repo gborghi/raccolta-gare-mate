@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coloured 9x10 chessboard, maximum red box size< MSK1/>
+*Coloured 9x10 chessboard, maximum red box size*
 
-> The boxes of a chessboard 9 < MSK0/> 10 are red, green or blue. Each square 3 × 3 of the chessboard contains exactly three red, three green and three blue boxes. How many red boxes are there at most?
+> The boxes of a chessboard 9 × 10 are red, green or blue. Each square 3 × 3 of the chessboard contains exactly three red, three green and three blue boxes. How many red boxes are there at most?
 >
 > - **(A)** 32
 > - **(B)** 34

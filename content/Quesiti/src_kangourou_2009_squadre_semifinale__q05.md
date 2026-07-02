@@ -50,7 +50,7 @@ tags:
 
 *Maximum 8x8 chessboard pads with constraints*
 
-> 5. The chessboard You have a chessboard 8 < MSK0/> 8 (such as that of a lady or a chess player) and 50 pawns. You want to put the pawns on the chessboard so that:
+> 5. The chessboard You have a chessboard 8 × 8 (such as that of a lady or a chess player) and 50 pawns. You want to put the pawns on the chessboard so that:
 
 **Answer:** 21
 [[src_kangourou_2009_squadre_semifinale__Q05]]

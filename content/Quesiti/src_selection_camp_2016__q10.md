@@ -56,8 +56,8 @@ tags:
 
 *Massimo n per il posizionamento di numeri simili a serpenti nel 2015×2015 grid*
 
-> In una griglia $2015 \times 2015$ sono scritti i numeri interi $1, 2, \ldots, n$, uno in ciascuna delle celle distinte $n$, soddisfacendo le seguenti condizioni: - Per ogni numero intero $i$ con $1 \le i \le n-1$, la cellula contenente $i$ e la cellula contenente $i+1$ condividono un bordo, e la cellula contenente $n$ e la cellula contenente $1$ condividono un bordo. Inoltre, nessuna delle due celle che contengono entrambi i numeri condivide un bordo, eccetto per quelle coppie descritte sopra. - Per tutti gli integri < MSK9/> con < MSK10/>, se la cella contenente < MSK11/> e la cella contenente < MSK12/> condividono solo un angolo (vertice), allora < MSK13/>.
+> In una griglia $2015 \times 2015$ sono scritti i numeri interi $1, 2, \ldots, n$, uno in ciascuna delle celle distinte $n$, soddisfacendo le seguenti condizioni: - Per ogni numero intero $i$ con $1 \le i \le n-1$, la cellula contenente $i$ e la cellula contenente $i+1$ condividono un bordo, e la cellula contenente $n$ e la cellula contenente $1$ condividono un bordo. Inoltre, nessuna delle due celle che contengono entrambi i numeri condivide un bordo, eccetto per quelle coppie descritte sopra. - Per tutti gli integri $i, j$ con $1 \le i < j \le n$, se la cella contenente $i$ e la cella contenente $j$ condividono solo un angolo (vertice), allora $\min\{j - i,\, n + i - j\} = 2$.
 > 
-> Trova il valore massimo possibile di < MSK0/>.
+> Trova il valore massimo possibile di $n$.
 
 [[src_selection_camp_2016__Q10]]

@@ -60,7 +60,7 @@ tags:
 
 *Couples (x,y) with x<=y and xy=5(x+y) *
 
-> For how many pairs (x, y) of integers such that x < MSK0/> y, is xy = 5 (x + y) ? A) 4
+> For how many pairs (x, y) of integers such that x ≤ y, is xy = 5 (x + y) ? A) 4
 > 	
 > B) 5
 > 	

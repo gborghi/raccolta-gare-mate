@@ -64,7 +64,7 @@ tags:
 
 *Prove il ciclo di Hamilton nel grafico Tumbolia con un massimo di un cambiamento di modalità di trasporto*
 
-> Ci sono < MSK0/> città in Tumbolia. Ogni coppia di città è collegata da una strada o da una ferrovia, senza che nessuna coppia sia collegata da entrambe.
+> Ci sono $N$ città in Tumbolia. Ogni coppia di città è collegata da una strada o da una ferrovia, senza che nessuna coppia sia collegata da entrambe.
 > 
 > Un turista desidera viaggiare in tutta la Tumbolia, visitando ogni città esattamente una volta e tornando nella città in cui ha iniziato il suo viaggio.
 > 

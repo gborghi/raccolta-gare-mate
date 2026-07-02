@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of packages for 95 bags< MSK1/>
+*Minimum number of packages for 95 bags*
 
 > The bookstore sells beans in packs of 5, 10 or 25. Tom bought exactly 95 beans. What's the minimum number of packages you can buy? A) 4
 >   

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum of 1/(32a^5) +a^5 given 1/(4a^2) +a^2< MSK1/>
+*Maximum of 1/(32a^5) +a^5 given 1/(4a^2) +a^2*
 
 > Knowing that $$\frac{1}{4a^2} + a^2 = 8,$$ what is the maximum value of $$\frac{1}{32a^5} + a^5$$?
 

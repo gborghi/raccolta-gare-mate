@@ -49,14 +49,14 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>There are tetrahedra with equilateral base and rational volume< MSK1/>
+*There are tetrahedra with equilateral base and rational volume*
 
 > It is well known that the area of an equilateral triangle on the unit side cannot be expressed as a rational number (i.e. as a ratio of integers). Are there tetrahedra that have this triangle as their basis and whose volume is expressed as a rational number?
 >
 > - **(A)** There are none.
 > - **(B)** There are infinitesimal numbers.
 > - **(C)** Only the regular tetrahedron
-> - **(D)** only tetrahedra with a height of 6 < MSK0/> 3
+> - **(D)** only tetrahedra with a height of 6 √ 3
 > - **(E)** Only if the tetrahedron is straight.
 
 [[src_archimede_2002_triennio__Q24]]

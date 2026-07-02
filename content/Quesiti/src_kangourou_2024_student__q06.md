@@ -71,7 +71,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum 16^15 four times as power< MSK1/>
+*sum 16^15 four times as power*
 
 > Which of the following numbers corresponds to the result of the sum 1615 + 1615 + 1615 + 1615 + 1615 ? A) 1619 B) 431
 > 	

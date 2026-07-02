@@ -39,20 +39,7 @@ tags:
 > Ho la sequenza 1 □ 2 □ 3 □ 4 □ 5.  Inserisco nella sequenza una parentesi sinistra “(” e una destra 
 > “)” e sostituisco due dei simboli □ con il simbolo “+” e due con il simbolo “–” in modo che il 
 > risultato dell’espressione algebrica che ne risulta sia il massimo possibile. Qual è questo risultato?  
->  
->  
->  
->  
->  
->  
->  
 > 7 
->  
->  
->  
-> 
->  
->  
 > Kangourou della Matematica 2016 
 > Coppa a squadre Kangourou   
 > Semifinale turno A 

@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grandfather's age from the middle< MSK1/>
+*Grandfather's age from the middle*
 
 > The average age of grandmother, grandfather, and seven grandchildren is 28. The average age of the seven grandchildren is 15. How old is Grandpa, if he's three years older than Grandma? A) 71           B)  72        C)  73         D)  74        E)  75
 

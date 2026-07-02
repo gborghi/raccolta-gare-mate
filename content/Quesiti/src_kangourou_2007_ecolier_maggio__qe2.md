@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Square carpet area of the slurry< MSK1/>
+*Square carpet area of the slurry*
 
 ![[src_kangourou_2007_ecolier_maggio__probE2.png]]
 

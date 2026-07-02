@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many spins < MSK1/>
+*how many spins *
 
 > Magician has a deck of 52 cards, stacked in piles, with the back up. Magogo separates the seven-card deck at the top of the pile, flips it over, and puts it under the pile. Now all the cards are back in the pile, but not all of them have their backs up yet: the bottom seven have turned upside down. Magno repeats the previous operation until it happens again that all the cards have their backs up. In total, how many seven-card deals did Magog make?
 

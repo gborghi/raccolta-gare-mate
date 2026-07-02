@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max and min cents of Bob< MSK1/>
+*max and min cents of Bob*
 
 > Seven coins are placed on a table in a row, as shown in the figure.
 > 

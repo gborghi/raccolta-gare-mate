@@ -56,7 +56,7 @@ tags:
 
 *Cubs to be added to box the cube*
 
-> A full glass of water weighs < MSK0/> grams. The same empty glass weighs < MSK1/> grams. How many grams does a glass of half-filled water weigh?
+> A full glass of water weighs $400$ grams. The same empty glass weighs $100$ grams. How many grams does a glass of half-filled water weigh?
 >
 > - **(A)** $150$
 > - **(B)** $200$

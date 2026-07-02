@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ogni colletto di 9 perle a due colori contiene due sequenze equivalenti di 5 perle< MSK1/>
+*Ogni colletto di 9 perle a due colori contiene due sequenze equivalenti di 5 perle*
 
 > La sequenza $BBBPBPPP$ non ha due subsequenze equivalenti. Considerare qualsiasi sequenza di perle $9$ (ogni perla è nera $B$ o bianca $P$). Caso 1: se non ci sono tre perle consecutive dello stesso colore, o le perle si alternano strettamente (e ogni blocco di perle consecutive $5$ contiene due sequenze equivalenti), o ci sono due perle equivalenti adiacenti e un blocco vicino di $5$ contiene una sequenza di tipo $PBBP$, dando due sequenze equivalenti. Caso 2: se ci sono tre perle consecutive $BBB$ e una continuazione ad un estremo non è del colore opposto, immediatamente appaiono due sequenze equivalenti; se entrambe le continuità sono del colore opposto e non ad un estremo, il blocco $PBBBP$ contiene due sequenze equivalenti; se $BBB$ si trova ad un estremo (diciamo a sinistra) senza tre lettere uguali al di fuori degli estremi, le possibili continuazioni $BBBPPB$, $BBBPBB$ danno tre sequenze equivalenti, mentre l'unica continuazione che evita due sequenze equivalenti è $BBBPBPPP$, dopo di che qualsiasi perla aggiunta all'estremo destro genera due sequenze equivalenti. Pertanto ogni sequenza di perle $9$ possiede due sequenze equivalenti. Prove questo. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 

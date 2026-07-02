@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most number with product figures of 90< MSK1/>
+*Most number with product figures of 90*
 
 > What is the greatest positive integer whose product is 90? (Write 0000 if you believe such a number does not exist.)
 

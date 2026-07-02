@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length of the path of the ant on the box< MSK1/>
+*Length of the path of the ant on the box*
 
 > Which of the following complete the mosaic on the side?
 >

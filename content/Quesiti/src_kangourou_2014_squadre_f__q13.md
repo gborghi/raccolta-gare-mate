@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum sum of grid 3x3 with six sums all different< MSK1/>
+*Minimum sum of grid 3x3 with six sums all different*
 
 > The grid In each cell of a grid 3 × 3 a positive integer must be entered (different cells can host the same number) so that, by adding the numbers entered for both rows and columns, six different results are obtained. What is the lowest possible value for the sum of all the numbers entered?
 

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of disk remaining healthy< MSK1/>
+*Fraction of disk remaining healthy*
 
 > A computer is infected by a virus that, during the day it was inoculated, damaged half of the hard drive. During the next day the virus damaged 1/3 of the remaining part of the disc; during the third day the virus damaged 1/4 of the still healthy part at the beginning of the day and during the fourth day
 > 

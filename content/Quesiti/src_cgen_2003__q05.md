@@ -89,7 +89,7 @@ tags:
 > 
 > L'obiettivo di questa parte è la costruzione di notevoli set ortocentrici.
 > 
-> 1. Lasciate che $k$ sia un reale non-zero e lasciate che $Y$ sia l'iperbola dell'equazione $xy=k$. a. I punti $A$, $B$, $C$, $D$ siano quattro punti distinti di $Y$, con rispettive abscisse $a$, $b$, $c$ e $d$. Indicare che $\overrightarrow{AB}$ e $\overrightarrow{CD}$ sono ortogonali se e solo se $abcd=-k^2$. b. I punti $A$, $B$ e $C$ siano tre punti distinti di $Y$, con rispettive abscisse $a$, $b$ e $c$. Determinare l'ortocentro di < MSK22/>. c. Indicare che < MSK23/> è ortocentrico.
+> 1. Lasciate che $k$ sia un reale non-zero e lasciate che $Y$ sia l'iperbola dell'equazione $xy=k$. a. I punti $A$, $B$, $C$, $D$ siano quattro punti distinti di $Y$, con rispettive abscisse $a$, $b$, $c$ e $d$. Indicare che $\overrightarrow{AB}$ e $\overrightarrow{CD}$ sono ortogonali se e solo se $abcd=-k^2$. b. I punti $A$, $B$ e $C$ siano tre punti distinti di $Y$, con rispettive abscisse $a$, $b$ e $c$. Determinare l'ortocentro di $ABC$. c. Indicare che $Y$ è ortocentrico.
 > 
 > Nel complesso del resto della quarta parte si considera un intero relativo non zero $q$ e si indica con $X$ l'insieme dei punti dell'equazione $x^2+qxy-y^2=1$.
 > 
@@ -97,7 +97,7 @@ tags:
 > 
 > In tutto il resto della quarta parte, si indica con $r$ e $r'$ queste due radici e con $s$ la somiglianza definita dalla rappresentazione complessa $z\mapsto(1-ri)z$. b. Indicare che $s(X)$ è un iperbola, dell'equazione $xy=k$, dove $k$ è un numero reale da determinare. Deduci che $X$ è un insieme ortocentrico.
 > 
-> 3. $G$ sia l'insieme dei punti di $X$ con coordinate interi e $\Gamma$ l'insieme degli abscissi degli elementi di $s(G)$. a. Verificare che $\Gamma$ sia l'insieme dei numeri reali del modulo $x+ry$, dove $x$ e $y$ sono due enti simili a $(x+ry)(x+r'y)=1$. b. Indicare che $-1\in\Gamma$; indicare che $r^2\in\Gamma$. c. Indicare che il prodotto di due elementi di $\Gamma$ è un elemento di $\Gamma$ e che l'inverso di un elemento di $\Gamma$ è un elemento di $\Gamma$. Mostrare che $\Gamma$ possiede infiniti elementi.
+> 3. $G$ sia l'insieme dei punti di $X$ con coordinate interi e $\Gamma$ l'insieme degli abscissi degli elementi di $s(G)$. a. Verificare che $\Gamma$ sia l'insieme dei numeri reali del modulo $x+ry$, dove $x$ e $y$ sono due integri tali da $(x+ry)(x+r'y)=1$. b. Indicare che $-1\in\Gamma$; indicare che $r^2\in\Gamma$. c. Indicare che il prodotto di due elementi di $\Gamma$ è un elemento di $\Gamma$ e che l'inverso di un elemento di $\Gamma$ è un elemento di $\Gamma$. Mostrare che $\Gamma$ possiede infiniti elementi.
 > 
 > 4. Da quanto precede si deduce che l'insieme $G$ dei punti di coordinate interi di $X$ è un insieme ortocentrico infinito.
 

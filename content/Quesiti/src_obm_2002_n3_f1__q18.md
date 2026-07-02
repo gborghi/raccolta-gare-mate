@@ -59,9 +59,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Circolo con AB=6, BC=2, AC di diametro, angoli ABD e CBD uguali; trovare BD< MSK1/>
+*Circolo con AB=6, BC=2, AC di diametro, angoli ABD e CBD uguali; trovare BD*
 
-> Nel cerchio di sotto, abbiamo che $AB=6$, $BC=2$, $AC$ è un diametro e gli angoli $A\hat{B}D$ e $C\hat{B}D$ sono uguali. Qual è il valore di < MSK5/>? (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
+> Nel cerchio di sotto, abbiamo che $AB=6$, $BC=2$, $AC$ è un diametro e gli angoli $A\hat{B}D$ e $C\hat{B}D$ sono uguali. Qual è il valore di $BD$? (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
 
 ![[src_obm_2002_n3_f1__Q18.png]]
 

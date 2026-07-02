@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maxime presse di squart rotto (sqrt o /100) per prima scendere al di sotto di 2< MSK1/>
+*Maxime presse di squart rotto (sqrt o /100) per prima scendere al di sotto di 2*
 
-> La calcolatrice di Esmeralda è rotta: quando si premono il pulsante $\sqrt{\phantom{x}}$, la calcolatrice fa, per caso, una di queste due operazioni: prende la radice quadrata (come dovrebbe) o divide il numero per $100$ (come non dovrebbe). Esmeralda ha inserito il numero < MSK2/> sulla calcolatrice e ha iniziato a premere il pulsante < MSK3/> ripetutamente. Quante volte, al massimo, Esmeralda avrebbe premuto il pulsante fino a far apparire, per la prima volta, un numero inferiore a $2$?
+> La calcolatrice di Esmeralda è rotta: quando si pulsa il pulsante $\sqrt{\phantom{x}}$, la calcolatrice fa, per caso, una di queste due operazioni: prende la radice quadrata (come dovrebbe) o divide il numero per $100$ (come non dovrebbe). Esmeralda ha inserito il numero $201120112011$ sulla calcolatrice e ha iniziato a premere il pulsante $\sqrt{\phantom{x}}$ ripetutamente. Quante volte, al massimo, Esmeralda avrebbe premuto il pulsante fino a far apparire, per la prima volta, un numero inferiore a $2$?
 > 
 > (A) $2$ \quad (B) $4$ \quad (C) $5$ \quad (D) $8$ \quad (E) $9$
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Multi-dimensional dividers of 2^20< MSK1/>3^23 which do not divide 2^10< MSK2/>3^20< MSK3/>
+*Multi-dimensional dividers of 2^20*3^23 which do not divide 2^10*3^20*
 
 > How many different positive integers are divisible by 220 323, but they're not divisible by 210 320? A) 13
 > 	

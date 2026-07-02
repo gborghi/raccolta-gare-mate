@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rate of volume of regular tetrahedron and ABPQ tetrahedron< MSK1/>
+*Rate of volume of regular tetrahedron and ABPQ tetrahedron*
 
 > In a regular tetrahedron of vertices A, B, C, D, we use P and Q to indicate the centers of the two faces that have the AB joint. What is the ratio of the volume of the initial tetrahedron to that of the tetrahedron whose vertices are points A, B, P and Q?
 

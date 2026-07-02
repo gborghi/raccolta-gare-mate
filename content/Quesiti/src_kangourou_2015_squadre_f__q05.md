@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little lucky number (sum of digits div 17) < MSK1/>
+*Little lucky number (sum of digits div 17) *
 
 > A lucky number Some believe that 17 brings good luck. So let's say that a positive integer is lucky if the sum of its digits is divisible by 17 and, when you add 1 to it, the sum of the digits of the new number you get is still divisible by 17. What's the smallest lucky number?
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Isosceles trapezoid, bisectriform, AB=AP with condition < MSK1/>
+*Isosceles trapezoid, bisectriform, AB=AP with condition *
 
 > Demonstrative Exercise Whether ABCD is an isosceles trapezoid of base major AB such that the angle bisector in D passes through B. Let's say that the intersection of the angle in A intersects the side of BC at the point P. Demonstrate that AB = AP if and only if the biset of ÷ PAD passes through C.
 

@@ -57,9 +57,9 @@ tags:
 
 *Cheque amount in euro and cents paid by the cashier*
 
-> With no money left, Picson deposits a cheque in euro and cents (the number of cents is well below < MSK0/>). The cashier mistakenly reverses the number of euros and the number of cents he pays in exchange for the check. Picson doesn't know it. A little later, he buys a newspaper with this coin at the cost of $95$ cents. He then retains a coin equal to twice the amount of the initial check.
+> With no money left, Picson deposits a cheque in euro and cents (the number of cents is well below $100$). The cashier mistakenly reverses the number of euros and the number of cents he pays in exchange for the check. Picson doesn't know it. A little later, he buys a newspaper with this coin at the cost of $95$ cents. He then retains a coin equal to twice the amount of the initial check.
 > 
-> < MSK0/>What was this amount, expressed in euro and cents? < MSK1/>
+> **What was this amount, expressed in euro and cents? **
 
 **Answer:** 1,03 €
 [[src_bocconi_finaleint_2007_g2__Q10]]

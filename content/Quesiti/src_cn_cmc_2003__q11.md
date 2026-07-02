@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca l'altezza di un cilindro con 8 palle unità in due strati di 4.< MSK1/>
+*Ricerca l'altezza di un cilindro con 8 palle unità in due strati di 4.*
 
 > 8 palle di raggio 1 sono collocate in un cilindro in due strati, con ciascun strato contenente 4 palle. Ogni palla è in contatto con 2 palle nello stesso strato, 2 palle nell'altro strato, una base e la superficie laterale del cilindro. Allora l'altezza del cilindro è ___.
 

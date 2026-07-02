@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Nessun numero intero positivo soddisfa < MSK0/> < MSK2/>
+*Nessun numero intero positivo soddisfa $x^x + y^y = 2^{2009}$ *
 
 > Prova che non esistono numeri interi positivi $x$ e $y$ tali da $x^x + y^y = 2^{2009}$.
 

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum balloons inflated in two hours< MSK1/>
+*Maximum balloons inflated in two hours*
 
 > Angelo can inflate eight balloons every three minutes, but one out of every 10 blows up as soon as it's inflated. What's the maximum number of inflated balloons Angelo can deliver in two hours? A) 160            B) 216            C) 240 D) 288 E) 320
 

@@ -50,6 +50,6 @@ tags:
 
 *Triangolo acuto, ceviani formando un triangolo simile, dimostrare P è centroid*
 
-> $P$ sia un punto interno di un triangolo angolato acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Dato che < MSK11/>. Provare che $P$ è il centroide di $\triangle ABC$.
+> $P$ sia un punto interno di un triangolo angolato acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Dato che $\triangle DEF \sim \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
 
 [[src_cn_cwmo_2007__Q01]]

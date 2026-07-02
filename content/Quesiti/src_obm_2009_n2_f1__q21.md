@@ -60,7 +60,7 @@ tags:
 
 *Due cerchi disegnati su una griglia di due centimetri quadrati; trovare la distanza minima tra di loro*
 
-> Su un foglio di carta quadrata in cui ogni quadrato ha un lato < MSK0/> cm, sono disegnati due cerchi come mostrato nella figura. La distanza minima tra i due cerchi è:
+> Su un foglio di carta quadrata in cui ogni quadrato ha un lato $2$ cm, sono disegnati due cerchi come mostrato nella figura. La distanza minima tra i due cerchi è:
 > 
 > **(A)** $3$ cm $\quad$ **(B)** $\sqrt{10}$ cm $\quad$ **(C)** $(\sqrt{10} + 3)$ cm $\quad$ **(D)** $(\sqrt{10} - 2)$ cm $\quad$ **(E)** $(\sqrt{10} - 3)$ cm
 

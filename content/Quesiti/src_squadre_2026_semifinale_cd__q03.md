@@ -86,7 +86,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of alternate signs of a/11-(a/11)^2< MSK1/>
+*Summary of alternate signs of a/11-(a/11)^2*
 
 > Francesco Laganà Hermita never denies this: she was the first to correctly answer the question posed by Professor Vector, professor of Aritmanzia. She asked us to use the number tables to calculate
 >  

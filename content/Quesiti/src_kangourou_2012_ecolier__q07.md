@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many gray tiles have fallen< MSK1/>
+*How many gray tiles have fallen*
 
 ![[src_kangourou_2012_ecolier__prob7.png]]
 

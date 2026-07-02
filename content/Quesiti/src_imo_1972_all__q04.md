@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solve cyclic system of product inequalities, positive reals< MSK1/>
+*Solve cyclic system of product inequalities, positive reals*
 
 > Find all solutions $(x_1, x_2, x_3, x_4, x_5)$ of the system of inequalities
 > 

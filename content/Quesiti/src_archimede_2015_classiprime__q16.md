@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>list of integers with sum m and product 720< MSK1/>
+*list of integers with sum m and product 720*
 
 > Find the smallest positive integer m such that there is a list of positive integers whose sum is m and whose product is 720. A m = 19 B m = 16 C m = 17 D m = 18 E m = 20 F m = 21
 

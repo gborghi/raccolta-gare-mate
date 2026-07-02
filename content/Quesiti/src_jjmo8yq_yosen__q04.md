@@ -48,6 +48,6 @@ tags:
 
 *M a tre cifre, n differente in una cifra, n multiple di m*
 
-> Esistono numeri interi positivi a tre cifre $m, n$ in modo tale che $m$ e $n$ differiscono esattamente in una cifra (nella stessa posizione). Inoltre, $n$ è un multiple di $m$. Quante coppie < MSK5/> sono possibili?
+> Esistono numeri interi positivi a tre cifre $m, n$ in modo tale che $m$ e $n$ differiscono esattamente in una cifra (nella stessa posizione). Inoltre, $n$ è un multiple di $m$. Quante coppie $(m, n)$ sono possibili?
 
 [[src_jjmo8yq_yosen__Q04]]

@@ -58,7 +58,7 @@ tags:
 
 > I punti $X$, $Y$, $Z$ sono rispettivamente i punti medi dei lati $AB$, $BC$ e $AC$ del triangolo $ABC$. I punti $A'$, $B'$, $C'$ sono sui lati $XZ$, $XY$ e $YZ$ del triangolo $XYZ$, rispettivamente, in modo tale che $\frac{AB}{A'B'} = \frac{AC}{A'C'} = \frac{BC}{B'C'} = 2$. I quadrilaterali $ABB'A'$, $BCC'B'$ e $ACC'A'$ sono trapezzi nei quali i lati del triangolo $ABC$ sono le basi.
 > 
-> a) Determinare il rapporto tra l'area del trapezzo < MSK0/> e l'area del triangolo < MSK1/>.
+> a) Determinare il rapporto tra l'area del trapezzo $ABB'A'$ e l'area del triangolo $A'B'X$.
 > 
 > b) Determinare il rapporto tra la superficie del triangolo $XYZ$ e la superficie del triangolo $ABC$.
 

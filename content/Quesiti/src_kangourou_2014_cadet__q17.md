@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum time to finish the two baths with data times< MSK1/>
+*Minimum time to finish the two baths with data times*
 
 > Six children share an apartment with two bathrooms, which they use every morning from 7:00 a.m. onwards. They use the bathrooms one at a time, each the first bathroom they find free, but they each stay there regularly for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organize themselves properly, at what time, at the earliest, will they be able to finish using the toilets? A) 7:45 B) 7:46 C) 7:47 D) 7:48 E) 7:50
 

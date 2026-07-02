@@ -53,7 +53,7 @@ tags:
 
 *Costo di alcol per guidare 600 km a 25 km per 3 litri*
 
-> Un litro di alcol costa 0,75 MSK1/>25 MSK2/>3 MSK3/>600$ km?
+> Un litro di alcol costa 0,75$. Henrique's car travels $25$ km on $3$ litres of alcohol. How many reais will Henrique spend on alcohol to travel $600$ km?
 > 
 > (A) $54$ \quad (B) $72$ \quad (C) $50$ \quad (D) $52$ \quad (E) $45$
 

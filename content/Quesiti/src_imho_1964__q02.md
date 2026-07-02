@@ -50,7 +50,7 @@ tags:
 
 *Try a^2(b+c-a)+...<=3abc for the sides of a triangle*
 
-> The sides of a triangle are < MSK0/>. To demonstrate that
+> The sides of a triangle are $a, b, c$. To demonstrate that
 > 
 > $$a^2(b+c-a) + b^2(c+a-b) + c^2(a+b-c) \leq 3abc.$$
 

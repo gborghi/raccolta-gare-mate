@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>m+n cubic root of 45+29 roots2< MSK1/>
+*m+n cubic root of 45+29 roots2*
 
 > n and m are two positive integers for which: 3p 45 + 29 √ 2 = m + n √ 2. How much is m + n?
 >

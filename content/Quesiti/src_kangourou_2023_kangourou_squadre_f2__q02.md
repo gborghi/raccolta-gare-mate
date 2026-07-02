@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many girls have passed average exams< MSK1/>
+*How many girls have passed average exams*
 
 > Examination A university examination was taken by 210 students. The average score (in thirty) reported by the girls is 25, the average score reported by the boys is 20; the average score calculated for all participants is 23. How many girls have passed the exam?
 

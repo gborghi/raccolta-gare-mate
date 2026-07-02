@@ -55,7 +55,7 @@ tags:
 
 *Contare le linee attraverso i punti della griglia nella griglia 20 ×15 con al massimo un punto della griglia interna sul segmento di origine*
 
-> Considerare i punti della griglia $(m, n)$ con $m = 1, 2, \ldots, 20$ e $n = 1, 2, \ldots, 15$. Per ciascun punto, si considera il segmento di linea dall'origine $O = (0, 0)$ a $(m, n)$. Chiamare tale segmento \emph{good} se il segmento aperto da $O$ a $(m,n)$ contiene al massimo un punto della griglia (cioè\ un punto con entrambe le coordinate interi positivi). Quanti buoni segmenti ci sono? (Qui un punto di laminazione è un punto le cui coordinate sono enteri; i segmenti paralleli agli assi di coordinate sono esclusi.)
+> Considerare i punti della griglia $(m, n)$ con $m = 1, 2, \ldots, 20$ e $n = 1, 2, \ldots, 15$. Per ciascun punto, si considera il segmento di linea dall'origine $O = (0, 0)$ a $(m, n)$. Chiamare tale segmento \emph{good} se il segmento aperto da $O$ a $(m,n)$ contiene al massimo un punto reticolo (cioè\ un punto con entrambe le coordinate interi positivi). Quanti buoni segmenti ci sono? (Qui un punto di laminazione è un punto le cui coordinate sono enteri; i segmenti paralleli agli assi di coordinate sono esclusi.)
 
 **Risposta:** 212
 [[src_jmo25yq_yosen__Q07]]

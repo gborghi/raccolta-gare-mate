@@ -48,6 +48,6 @@ tags:
 
 *Incircolare il punto tangente e perpendicolare; dimostrare che BX è un diametro*
 
-> Il triangolo $ABC$, dove $AB < AC$, ha un incircolo che tocca $BC$ a $S$. La perpendicolare da $B$ a $AS$ incontra la linea $AS$ al punto $P$. $X$ sia il punto di $AC$ in modo tale che $PX \parallel BC$. Indicare che < MSK11/> è il diametro dell'incircolo.
+> Il triangolo $ABC$, dove $AB < AC$, ha un incircolo che tocca $BC$ a $S$. La perpendicolare da $B$ a $AS$ incontra la linea $AS$ al punto $P$. $X$ sia il punto di $AC$ in modo tale che $PX \parallel BC$. Indicare che $BX$ è il diametro dell'incircolo.
 
 [[src_bmo_2002-03_round1__Q02]]

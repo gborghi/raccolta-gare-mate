@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Scala di equilibrio con tre mele e un blocco di 200 g; trovare il peso totale delle mele.< MSK1/>
+*Scala di equilibrio con tre mele e un blocco di 200 g; trovare il peso totale delle mele.*
 
 > Marcos ha messo tre mele su una bilancia di due pannelli. Ha un blocco di 200 grammi. Osservando l'equilibrio, osserva: (i) la mela più grande pesa quanto le altre due mele insieme; (ii) il blocco e la mela più piccola insieme pesano quanto le altre due mele insieme; (iii) la mela più piccola insieme alla mela media pesa quanto il blocco. Qual è il peso totale delle tre mele?
 > 

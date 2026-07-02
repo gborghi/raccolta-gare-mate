@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Square side cut into 36 squares (one larger) < MSK1/>
+*Square side cut into 36 squares (one larger) *
 
 > Thirty-six squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm2, while all the others have an area of 1 cm2. How many centimeters does the side of the starting square measure?
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>6 weeks = n! The value of the underlying asset shall be reported in the following column:
+*6 weeks = n! The value of the underlying asset shall be reported in the following column:
 
 > For what value of n is it true that 6 weeks is n? Seconds? (Remember that n! = n ∙ (n – 1) ∙ (n – 2) ∙ ... ∙ 3 ∙ 2 ∙ 1) A) 6
 > 	

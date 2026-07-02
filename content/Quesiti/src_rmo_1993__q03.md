@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangoli non isocelli da vertici di 20 g< MSK1/>
+*Triangoli non isocelli da vertici di 20 g*
 
 > Supponiamo che $A_1 A_2 \ldots A_{20}$ sia un poligono regolare laterale $20$. Quanti triangoli non isoscelli (scaleni) possono essere formati le cui vertici sono tra le vertici del poligono?
 

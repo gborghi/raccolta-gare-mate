@@ -53,7 +53,7 @@ tags:
 
 *Numero di api se 10 galloni sono condivisi tra 7 milioni di chilometri di viaggi*
 
-> Un gallone di miele fornisce energia sufficiente per una api a volare < MSK0/> milione di chilometri. Se i galloni di miele fossero condivisi tra tutte le api, quante api potrebbero condividerli?
+> Un gallone di miele fornisce energia sufficiente per una api a volare $7$ milione di chilometri. Se i galloni di miele fossero condivisi tra tutte le api, quante api potrebbero condividerli?
 > 
 > A) $7{,}000$ \quad B) $70{,}000$ \quad C) $700{,}000$ \quad D) $7{,}000{,}000$ \quad E) $70{,}000{,}000$
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>quadrilatero convex con cos identificazione; prova trapezio o ciclico< MSK1/>
+*quadrilatero convex con cos identificazione; prova trapezio o ciclico*
 
 > Gli angoli $A$, $B$, $C$, $D$ di un quadrilaterale convexo soddisfano la relazione $$\cos A + \cos B + \cos C + \cos D = 0.$$ Prove che $ABCD$ sia un trapezio o ciclico.
 

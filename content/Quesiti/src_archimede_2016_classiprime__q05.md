@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>winning bite by 27cm< MSK1/>
+*winning bite by 27cm*
 
 > Claudia and Luca challenge the game Mordi La Striscia: it starts with a strip of whole-length liquorice (expressed in centimeters) and, in turn, each player detaches a piece of whole-length positive (always expressed in centimeters) from it with a bite, but making sure that, at each turn, the liquorice detached from the bite is never more than what remains. In the end, the winner is the one who, after the bite, leaves a strip of only one centimeter. At some point, the licorice strip is 27 centimeters long and it's up to Claudia to bite. If you want to be sure you're winning, how many inches of licorice do you have to take off with your bite? A 12 B 13 C 11 D 10 and 9 F Luke will win whatever Claudia does
 

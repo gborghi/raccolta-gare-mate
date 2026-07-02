@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ordinate roots 2 < MSK1/>2^1/6), roots 5, 11^1/3) < MSK2/>
+*Ordinate roots 2 *2^1/6), roots 5, 11^1/3) *
 
 > Put the three numbers in increasing order 2 6√ 2, √ 5, 3√
 

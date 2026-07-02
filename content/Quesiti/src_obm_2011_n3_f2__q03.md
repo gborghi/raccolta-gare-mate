@@ -56,6 +56,6 @@ tags:
 
 *Triangolo acuto, piede d'altitudine da A; distanze da B e centro orto pari a 10; superficie approssimativa*
 
-> L'angolo interno alla vertica $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altitudine relativa al vertice $A$ tocca il lato $BC$ al punto $D$. Le distanze da $D$ alla verticale $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimato al numero intero più vicino? Se necessario, utilizzare < MSK10/>.
+> L'angolo interno alla vertica $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altitudine relativa al vertice $A$ tocca il lato $BC$ al punto $D$. Le distanze da $D$ alla verticale $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimato al numero intero più vicino? Se necessario, utilizzare $\sqrt{3} \approx 1{,}732$.
 
 [[src_obm_2011_n3_f2__Q03]]

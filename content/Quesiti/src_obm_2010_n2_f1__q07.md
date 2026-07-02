@@ -65,7 +65,7 @@ tags:
 
 *Angolo di scacchiatura convenzionale con 17 quadrati bianchi; area di ricerca*
 
-> Il disegno rappresenta un angolo di una tabella rettangolare convenzionale, formata da piccoli quadrati laterali < MSK0/> cm. In questa lavagna, $17$ piccoli quadrati sono bianchi. Qual è l'area della lavagna, in centimetri quadrati?
+> Il disegno rappresenta un angolo di una tabella rettangolare convenzionale, formata da piccoli quadrati laterali $1$ cm. In questa lavagna, $17$ piccoli quadrati sono bianchi. Qual è l'area della lavagna, in centimetri quadrati?
 >
 > - **(A)** $29$
 > - **(B)** $34$

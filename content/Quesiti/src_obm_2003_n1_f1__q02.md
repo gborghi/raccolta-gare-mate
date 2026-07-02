@@ -67,9 +67,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Consumo medio mensile di acqua nel corso di 5 mesi< MSK1/>
+*Consumo medio mensile di acqua nel corso di 5 mesi*
 
-> La tabella seguente mostra il consumo idrico (in < MSK0/>) di una famiglia nei primi 5 mesi del 2003.
+> La tabella seguente mostra il consumo idrico (in $\text{m}^3$) di una famiglia nei primi 5 mesi del 2003.
 > 
 > \[ \begin{array}{ẽninec} \textc koloba} \hl \bf{Month \textbf{Consumption (m}^3\textbf{)} \\ \hline \text{January} & 12.5 \\ \text{February} & 13.8 \\ \text{March} & 13.7 \\ \text{April} & 11.4 \\ \text{} May & 12.1 \\ \hline \end{array} \]
 > 

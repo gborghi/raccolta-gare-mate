@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Diagonali di quadrilaterali ciclici; circoncentro e collineare ortocentro< MSK1/>
+*Diagonali di quadrilaterali ciclici; circoncentro e collineare ortocentro*
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si intersecano al punto $P$. Che $O$ sia il circoncentro del triangolo $APB$ e $H$ sia l'ortocentro del triangolo $CPD$. Indicare che i punti $H$, $P$ e $O$ si trovano su una linea.
 

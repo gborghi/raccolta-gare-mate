@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Spieces of a face-counting polyester < MSK1/>
+*Spieces of a face-counting polyester *
 
 > An artist has made a stone sculpture in the shape of a strange polyhedron. The surface of the sculpture is made up of 31 triangular faces, 18 quadrangular faces, 11 pentagonal faces and 7 hexagonal faces. How many beads does polyhedron have? (A) 65, (B) 94, (C) 100, (D) 123, (E) 131.
 

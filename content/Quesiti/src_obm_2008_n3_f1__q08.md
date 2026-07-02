@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>OBM il 14 giugno 2008 (sabato, anno bisestivo); quando il 14 giugno sarà nuovamente sabato< MSK1/>
+*OBM il 14 giugno 2008 (sabato, anno bisestivo); quando il 14 giugno sarà nuovamente sabato*
 
 > La prima fase dell'OBM 2008 si è svolta il $14$ giugno, sabato dell'anno bisto $2008$. Tra quanti anni Giugno ricadrà sabato?
 > 

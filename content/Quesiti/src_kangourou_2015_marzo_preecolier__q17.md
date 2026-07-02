@@ -47,7 +47,7 @@ tags:
 
 *path length*
 
-> There are $11$ flags along a straight line where a race takes place. The first flag is raised at departure and the last at arrival. The distance between one flag and the next flag shall be < MSK1/> metres. How many meters is the path?
+> There are $11$ flags along a straight line where a race takes place. The first flag is raised at departure and the last at arrival. The distance between one flag and the next flag shall be $8$ metres. How many meters is the path?
 > 
 > (A) $24$ (B) $48$ (C) $72$ (D) $80$ (E) $88$
 

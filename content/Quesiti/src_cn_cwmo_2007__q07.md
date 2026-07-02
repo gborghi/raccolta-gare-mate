@@ -49,6 +49,6 @@ tags:
 
 *Punto interno P con DEF congruente ad ABC implica P è centroid*
 
-> $P$ sia un punto interno del triangolo a angolo acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Con < MSK11/>. Provare che $P$ è il centroide di $\triangle ABC$.
+> $P$ sia un punto interno del triangolo a angolo acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Con $\triangle DEF \cong \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
 
 [[src_cn_cwmo_2007__Q07]]

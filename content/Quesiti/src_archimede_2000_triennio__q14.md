@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Wake-up time with time zone difference< MSK1/>
+*Wake-up time with time zone difference*
 
 > Emanuele has come a long way and can't sleep. After returning to Italy at 11:11 a.m. he says: "I haven't slept in 53 hours and 53 minutes". What time did you wake up last, knowing that you were in Korea at the time and are now in Italy (remember that the time zone difference between Italy and Korea is 7 hours ahead)?
 >

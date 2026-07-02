@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum cubes seen simultaneously in the cube 11x11x11< MSK1/>
+*Maximum cubes seen simultaneously in the cube 11x11x11*
 
 > Look at the cube A cube of 11 cm on the side is obtained by approaching cubes of 1 cm on the side. What is the maximum number of these cubes that can be seen simultaneously by a single person?
 

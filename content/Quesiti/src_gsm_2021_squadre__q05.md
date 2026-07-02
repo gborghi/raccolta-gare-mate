@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>to deduce the number thought< MSK1/>
+*to deduce the number thought*
 
 > Villa Feltrinelli Lorenzo Mazza Carlo (Sitting by the lake in the garden of the villa) I propose a game while we wait for the ferry to Riva. Each of you is thinking of a positive integer. Emilia, tell me what number you thought of. (Emilia whispers to Carlo so that Silvio doesn't hear.) (Silvio plays Emilia) Now I write on this sheet the sum of the two numbers, on this other sheet the product of the two numbers. Then I pick one at random and show it to you. Who can tell me what numbers you've been thinking about? Silvio C is 4000. I don't know what number Emilia thought. Emilia I can't even tell what number Silvio thought. What number did Emilia think of?
 

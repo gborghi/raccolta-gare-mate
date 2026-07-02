@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pizza chips eaten between 2/3 and 3/4 < MSK1/>
+*Pizza chips eaten between 2/3 and 3/4 *
 
 > (4 points) A pizza was cut into less than 10 slices all of the same size. Mark ate some of them: more but less than the whole pizza. How many slices did you eat?
 

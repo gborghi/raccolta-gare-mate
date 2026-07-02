@@ -66,8 +66,8 @@ tags:
 
 > Carlinhos fa un elenco di tutti i numeri a quattro cifre con cifre distinte che soddisfano le seguenti condizioni: la somma delle cifre è $12$, e tra le cifre due sono pari e due sono odd. Il numero $2703$, ad esempio, è nella sua lista. Ricordate che il numero non può avere un primo zero (zero a sinistra).
 > 
-> a) Qual è il numero più vicino a < MSK0/> che figura nell'elenco di Carlinhos?
+> a) Qual è il numero più vicino a $2016$ che figura nell'elenco di Carlinhos?
 > 
-> b) Determinare la somma di tutti i numeri della lista di Carlinhos inferiori a < MSK0/>.
+> b) Determinare la somma di tutti i numeri della lista di Carlinhos inferiori a $2016$.
 
 [[src_obm_2016_n2_f3__Q04]]

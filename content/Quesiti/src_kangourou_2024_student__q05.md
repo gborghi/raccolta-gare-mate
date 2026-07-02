@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of 6 in a set of dice< MSK1/>
+*Probability of 6 in a set of dice*
 
 > A dice has been tricked: now the probability of getting 2, 3, 4 or 5 is always 1/6, but the probability of getting 6 is twice the probability of getting 1. Now what's the probability of getting 6? A) 1/4 B) 1/6
 > 	

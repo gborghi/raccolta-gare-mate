@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Measure the angle X by extending two sides (9-agons) < MSK1/>
+*Measure the angle X by extending two sides (9-agons) *
 
 ![[src_kangourou_2009_cadet_marzo__prob19.png]]
 

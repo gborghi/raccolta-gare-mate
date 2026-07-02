@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>sum of figures of (4^7) ^9 < MSK0/> (5^2) ^64 < MSK2/>
+*sum of figures of (4^7) ^9 × (5^2) ^64 *
 
-> What is the sum of the digits of the number (47)9 < MSK0/> (52)64 ? A) 1
+> What is the sum of the digits of the number (47)9 × (52)64 ? A) 1
 > 	
 > B) 4
 > 	

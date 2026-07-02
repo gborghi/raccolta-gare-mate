@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length travelled at different speeds< MSK1/>
+*Length travelled at different speeds*
 
 > A kangaroo traveled, never stopping, a round trip in a total of 15 minutes. On the way, the speed was 5 m/s and on the way back, 4 m/s. The length of the one-way journey is A) 4.05 km B) 8.1 km C) 0.9 km D) 2 km E) impossible to determine with this information alone.
 

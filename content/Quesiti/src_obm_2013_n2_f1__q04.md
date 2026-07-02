@@ -57,7 +57,7 @@ tags:
 
 *L'area reale della camera da letto dal disegno di scala 1:45*
 
-> Le misure riportate nella figura si riferiscono a un disegno su scala (scala < MSK0/>) che rappresenta una camera da letto rettangolare con bagno. Qual è la vera area della camera da letto?
+> Le misure riportate nella figura si riferiscono a un disegno su scala (scala $1{:}45$) che rappresenta una camera da letto rettangolare, compresa una bagno. Qual è la vera area della camera da letto?
 > 
 > (A) $12.15\,\text{m}^2$ \quad (B) $15.5\,\text{m}^2$ \quad (C) $27\,\text{m}^2$ \quad (D) $32\,\text{m}^2$ \quad (E) $60\,\text{m}^2$
 

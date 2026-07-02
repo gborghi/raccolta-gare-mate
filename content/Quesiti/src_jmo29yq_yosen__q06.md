@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Vertici massimi segnalati di 120 goni regolari evitando l'isosceles di 18 gradi di punta tripla< MSK1/>
+*Vertici massimi segnalati di 120 goni regolari evitando l'isosceles di 18 gradi di punta tripla*
 
-> Alcuni dei vertici di un normale < MSK0/>-gon sono segnati. Trovare il maggior numero possibile di vertici segnati per i quali non esiste un triplo di vertici segnati che forma i tre vertici di un triangolo a uguale occhio il cui angolo di punta è $18^\circ$.
+> Alcuni dei vertici di un normale $120$-gon sono segnati. Trovare il maggior numero possibile di vertici segnati per i quali non esiste un triplo di vertici segnati che forma i tre vertici di un triangolo a uguale occhio il cui angolo di punta è $18^\circ$.
 
 **Risposta:** 78
 [[src_jmo29yq_yosen__Q06]]

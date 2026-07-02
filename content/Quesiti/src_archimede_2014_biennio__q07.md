@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum bags in the dealer with 5 coins< MSK1/>
+*Maximum bags in the dealer with 5 coins*
 
 > At Luna Park, there is a seed distributor with two buttons and a container: the first button puts 16 seed into the container, the second increases the number of seed in the container by 50%. By entering a coin, you can press any of the two buttons. If the container is initially empty, how many bags can you get into the container with 5 coins? (A) 70, (B) 80, (C) 88, (D) 96, (E) 108.
 

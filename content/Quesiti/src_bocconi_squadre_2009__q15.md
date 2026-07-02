@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many triangles are seen in Figure < MSK1/>
+*How many triangles are seen in Figure *
 
 > How many triangles do you see in the figure?
 

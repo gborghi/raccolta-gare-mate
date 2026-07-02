@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Days to the next divisible date 10001< MSK1/>
+*Days to the next divisible date 10001*
 
 > 2003 is a prime number. Today is 20-03-2003: by removing the dashes that separate the day from the month from the year (and the spaces in relation to it), we would write 2003-2003, and this number is divisible by 10001. How many days will pass before the next date, which, following the same criteria, would be represented by a number still divisible by 10001? A) 365 B) 366 C) 396 D) 397 E) none of the above answers
 > 

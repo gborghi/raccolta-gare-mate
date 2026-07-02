@@ -63,8 +63,8 @@ tags:
 
 > Considera la funzione $f(x) = \left(e^x - 1\right)^{1/x}$, definita per $x > 0$.
 > 
-> < MSK1/>a) < MSK2/> Mostra che < MSK0/> sta aumentando rigorosamente.
+> **a) ** Mostra che $f(x)$ sta aumentando rigorosamente.
 > 
-> **b) ** $V(y)$ deve essere definito da $V(y) = x$ se e solo se $f(x) = y$. Dato $0 < a < b < c$, numeri reali, si considera l'equazione $a^b + b^a = c^c$. Esprimere $x$ in termini di $a$, $b$ e $c$ utilizzando funzioni elementari e $V$.
+> **b) ** $V(y)$ deve essere definito da $V(y) = x$ se e solo se $f(x) = y$. Dato $0 < a < b < c$, numeri reali, si considera l'equazione $a^b + b^a = c^c$. Esprimere $x$ in termini di $a$, $b$ e $c$ usando funzioni elementari e $V$.
 
 [[src_obm_2012_nu_f1__Q02]]

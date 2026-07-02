@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>value of a2< MSK1/>
+*value of a2*
 
 > The first term a1 of a sequence of real numbers is between 0 and 1. For all n ≥ 1, a2n = a2 × an + 1 and a2n + 1 2 n What is the value of a2? A) Equal to a1. B) 2
 >  

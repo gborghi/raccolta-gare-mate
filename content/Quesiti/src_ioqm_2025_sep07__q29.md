@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato < MSK1/>
+*Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato *
 
 > Si dice che un poligono regolare con vertici $n \ge 5$ sia colorato se è possibile colorare i vertici utilizzando al massimo 6 colori in modo tale che ogni vertice sia colorato esattamente con un colore e in modo tale che ogni 5 vertici consecutivi abbiano colori diversi. Trova il numero più grande $n$ per il quale un poligono regolare con vertici $n$ è \textbf{not} colorato.
 

@@ -51,7 +51,7 @@ tags:
 
 *Maximizzare il volume del cilindro tra il cerchio dell'emisfero e la sua proiezione*
 
-> Che < MSK0/> sia un emisfero e < MSK1/> il piano che ne contiene il cerchio base. Un piano variabile $Q$, parallelo a un piano fisso perpendicolare a $P$, interseca l'emisfero lungo un cerchio $C$. Indichiamo con $C'$ la proiezione ortogonale di $C$ su $P$.
+> Che $\sum$ sia un emisfero e $P$ il piano che ne contiene il cerchio base. Un piano variabile $Q$, parallelo a un piano fisso perpendicolare a $P$, interseca l'emisfero lungo un cerchio $C$. Indichiamo con $C'$ la proiezione ortogonale di $C$ su $P$.
 > 
 > Come si deve posizionare il piano $Q$ in modo che il cilindro con basi $C$ e $C'$ abbia un volume massimo?
 

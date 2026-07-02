@@ -90,7 +90,7 @@ tags:
 \end{document}
 ```
 
-> The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the $BC$ catheter, each having one end on the $AB$ catheter and the other on the hypotenuse. The length of the $BC$ catheter is $10$ meters. What is the sum of the lengths of these < MSK7/> segments?
+> The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the $BC$ catheter, each having one end on the $AB$ catheter and the other on the hypotenuse. The length of the $BC$ catheter is $10$ meters. What is the sum of the lengths of these $7$ segments?
 
 **Answer:** 35
 [[src_kangourou_2003_cadet_finale__QC4]]

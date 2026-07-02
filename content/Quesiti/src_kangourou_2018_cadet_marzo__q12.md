@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of uncolored squares in the rectangle< MSK1/>
+*Number of uncolored squares in the rectangle*
 
 > A rectangle is divided into 40 identical squares. The rectangle contains more than one row of squares. Andrea found the center line of squares and colored it. How many squares have you not painted? A) 20
 > 	

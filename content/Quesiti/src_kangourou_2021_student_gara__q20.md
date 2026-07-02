@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Graph of residual thickness of the rolled roll< MSK1/>
+*Graph of residual thickness of the rolled roll*
 
 ![[src_kangourou_2021_student_gara__prob20.png]]
 

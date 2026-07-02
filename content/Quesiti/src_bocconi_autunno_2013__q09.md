@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times does the alarm clock display four consecutive digits? < MSK1/>
+*How many times does the alarm clock display four consecutive digits? *
 
 > When Angelo wakes you can read, illuminate, every hour and minute of the day. At certain times, such as at 02h and 31 minutes or 21h and 34 minutes, four consecutive digits appear on the alarm screen: in the first of the two preceding examples, the digits $0$-$1$-$2$-$3$; in the second, the digits $1$-$2$-$3$-$4$.
 > 

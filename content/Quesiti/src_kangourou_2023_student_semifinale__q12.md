@@ -50,6 +50,6 @@ tags:
 
 *A-B value with sums of squares and consecutive products*
 
-> (Points 5) Both A and B = (1 < MSK0/> 3) + (2 < MSK1/> 4) + (3 < MSK2/> 5) + ... + (2.022 < MSK3/> 2.024). How much is A  B?
+> (Points 5) Both A and B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B?
 
 [[src_kangourou_2023_student_semifinale__Q12]]

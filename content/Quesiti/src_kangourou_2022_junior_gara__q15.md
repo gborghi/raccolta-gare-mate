@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grandmother's age with wrong estimates of 1.2,4< MSK1/>
+*Grandmother's age with wrong estimates of 1.2,4*
 
 > Three grandchildren tried to guess their grandmother's age: one said 75 years, another 78 and the third 81. One of the answers is wrong by 1 year, another by 2 and the remaining by 4 (not necessarily in the order in which they were listed). How old is Grandma? A) 76
 >   

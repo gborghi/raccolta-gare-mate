@@ -85,7 +85,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Exponent of 17 in the factorization of n!< MSK1/>
+*Exponent of 17 in the factorization of n!*
 
 > For a certain positive integer n, Daria wrote the factorization into integers of n! = 1 × 2 × ... (n  1) × n: the prime integers are in increasing order and each appears as high as possible exponentially. Two spots have covered some of the prime integers and some exponents, particularly the 17 exponent. What's this exponent? A) 1
 > 	

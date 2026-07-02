@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Possible 53 people with 11 strokes each< MSK1/>
+*Possible 53 people with 11 strokes each*
 
 > There are 53 people at a party. Is it possible that each of them shake hands with exactly 11 other guests? Justify the answer.
 

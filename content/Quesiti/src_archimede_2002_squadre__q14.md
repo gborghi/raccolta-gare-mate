@@ -49,7 +49,7 @@ tags:
 
 > The balls of Carla  65 points
 > 
-> This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call MSK0/, all containing at least two balls. By observing it bearingly as he reads the newspaper, he fixes the $A_i$ stack and distractively calculates the $c_i$ number of all the pairs of balls belonging to both $A_i$. You then notice that the sum of all the $c_i$ is 100 and that the same thing happens when you look at the ternes and the quaternes. Can you tell me how many balls Carla has?
+> This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call$A_i$, all containing at least two balls. By observing it bearingly as he reads the newspaper, he fixes the $A_i$ stack and distractively calculates the $c_i$ number of all the pairs of balls belonging to both $A_i$. You then notice that the sum of all the $c_i$ is 100 and that the same thing happens when you look at the ternes and the quaternes. Can you tell me how many balls Carla has?
 
 **Answer:** 0092
 [[src_archimede_2002_squadre__Q14]]

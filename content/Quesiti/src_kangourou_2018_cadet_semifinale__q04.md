@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White fraction in the triangle figure< MSK1/>
+*White fraction in the triangle figure*
 
 ![[src_kangourou_2018_cadet_semifinale__prob4.png]]
 

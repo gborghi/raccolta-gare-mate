@@ -57,6 +57,6 @@ tags:
 
 *Prove un limite inferiore per una somma ponderata di inversi data una disposizione speciale di 1..n^2 su una scheda n ×n con una cella scelta per riga e colonna.*
 
-> I numeri $1, 2, \ldots, n^2$ sono disposti nelle celle di una tabella $n \times n$ in modo tale che i numeri $1, \ldots, n$ siano nella prima riga (in questo ordine), $n+1, \ldots, 2n$ nella seconda, ecc. Scegliamo le celle $n$ della scheda, nessuna delle quali è nella stessa riga o colonna. Il numero $a_i$ deve essere il numero scelto nella riga $i$. Provare che < MSK0/>
+> I numeri $1, 2, \ldots, n^2$ sono disposti nelle celle di una tabella $n \times n$ in modo tale che i numeri $1, \ldots, n$ siano nella prima riga (in questo ordine), $n+1, \ldots, 2n$ nella seconda, ecc. Scegliamo le celle $n$ della scheda, nessuna delle quali è nella stessa riga o colonna. Il numero $a_i$ deve essere il numero scelto nella riga $i$. Provare che $$\frac{1^2}{a_1} + \frac{2^2}{a_2} + \cdots + \frac{n^2}{a_n} \ge \frac{n+2}{2} - \frac{1}{n^2+1}.$$
 
 [[src_pol_2008_r3__Q01]]

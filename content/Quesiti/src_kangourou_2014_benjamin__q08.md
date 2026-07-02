@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum white pearls to be displayed with grays< MSK1/>
+*Minimum white pearls to be displayed with grays*
 
 ![[src_kangourou_2014_benjamin__prob8.png]]
 

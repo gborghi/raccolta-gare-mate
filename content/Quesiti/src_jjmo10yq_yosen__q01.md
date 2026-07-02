@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Due persone scalare le scale a velocità diverse; trovare possibili conteggiamenti delle scale*
+*Due persone scalare le scale a velocità diverse; trovare possibili numeri di scale*
 
-> La persona $A$ sale $2$ passi alla volta e la persona $B$ sale $3$ passi alla volta. Tuttavia, entrambi possono anche salire < MSK4/> passo alla volta. L'ultimo passo prima della cima deve essere arrampicato da $A$ e $B$ in un solo passo. Quando sono salite le scale, il numero totale di passi compiuti da $A$ e $B$ insieme è stato $16$. Trova tutti i valori possibili per il numero di scale nella scala.
+> La persona $A$ sale $2$ passi alla volta e la persona $B$ sale $3$ passi alla volta. Tuttavia, entrambi possono anche salire $1$ passo alla volta. L'ultimo passo prima della cima deve essere arrampicato da $A$ e $B$ in un solo passo. Quando sono salite le scale, il numero totale di passi compiuti da $A$ e $B$ insieme è stato $16$. Trova tutti i valori possibili per il numero di scale nella scala.
 
 **Risposta:** 19, 20, 21, 22
 [[src_jjmo10yq_yosen__Q01]]

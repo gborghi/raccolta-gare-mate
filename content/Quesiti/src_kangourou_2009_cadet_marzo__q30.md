@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Differential BC-AB (long biset 2) < MSK1/>
+*Differential BC-AB (long biset 2) *
 
 > In an ABC triangle the angle in B measures 20 degrees and the angle in C measures 40 degrees. The length of the beam of the angle in A is 2. What is the difference between the length of BC and the length of AB? A) 4 B) 2 C) 1,5 D) 1 E) A different value Tests_09.qxp 15-04-2009 20:26
 > 

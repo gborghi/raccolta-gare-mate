@@ -53,7 +53,7 @@ tags:
 
 *Due cerchi incrociati, la linea CF incontra i cerchi a P Q, punti di mezzo di archi, prova conciclica*
 
-> Come mostrato di seguito, due cerchi $\Gamma_1$, $\Gamma_2$ si incrociano nei punti $A$, $B$. Una linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $C$, $D$; un'altra linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $E$, $F$; e la linea $CF$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $P$ e $Q$, rispettivamente. I punti medi $M$ e $N$ siano rispettivamente $\widehat{PB}$ (su $\Gamma_1$) e $\widehat{QB}$ (su $\Gamma_2$). Disegnare le linee $CM$ e $FN$. Provare che < MSK27/>, < MSK28/>, < MSK29/>, < MSK30/> sono conciclici. (Posato da Xiong Bin)
+> Come mostrato di seguito, due cerchi $\Gamma_1$, $\Gamma_2$ si incrociano nei punti $A$, $B$. Una linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $C$, $D$; un'altra linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $E$, $F$; e la linea $CF$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $P$ e $Q$, rispettivamente. I punti medi $M$ e $N$ siano rispettivamente $\widehat{PB}$ (su $\Gamma_1$) e $\widehat{QB}$ (su $\Gamma_2$). Disegnare le linee $CM$ e $FN$. Provare che $C$, $F$, $M$, $N$ sono conciclici. (Posato da Xiong Bin)
 
 ![[src_cn_cmo_2010__Q01.png]]
 

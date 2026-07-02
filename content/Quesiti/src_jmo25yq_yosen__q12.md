@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca una costante massima tale che ogni griglia di colore bianco e nero ammetta sempre a·n2 posizioni non sovrapposte di L-tromino< MSK1/>
+*Ricerca una costante massima tale che ogni griglia di colore bianco e nero ammetta sempre a·n2 posizioni non sovrapposte di L-tromino*
 
 > Per qualsiasi numero intero positivo $n$, considera una griglia $(n+1) \times (n+1)$ di cellule unità, ciascuna di colore nero o bianco. Desideriamo posizionare sulla griglia tromini a forma di L non sovrapposti (ciascuno coprendo cellule $3$ che formano un quadrato $2 \times 2$ con un angolo rimosso, cioè\ un tromino L), a condizione che all'interno del quadrato di confine $2 \times 2$ di ogni tromino posizionato, la regione $2 \times 2$ contenga sia una cellula nera che una cellula bianca (cioè che\ non deve essere monocromatica). Trovare il numero reale massimo $a$ in modo tale che, per ogni numero intero positivo $n$ e per ogni colorazione in bianco e nero della griglia $(n+1) \times (n+1)$, si possa sempre posizionare almeno $\lfloor a n^2 \rfloor$ tali tromino non sovrapposti.
 > 

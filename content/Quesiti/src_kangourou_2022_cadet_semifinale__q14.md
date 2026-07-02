@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to sit in cars with constraints< MSK1/>
+*How to sit in cars with constraints*
 
 > (6 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
 

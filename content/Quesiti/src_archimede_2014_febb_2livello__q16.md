@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Six mean points on a circumference of an equilateral triangle< MSK1/>
+*Six mean points on a circumference of an equilateral triangle*
 
 > Let ABC be an acute triangle. They are the medians AM, BN and CL, which intersect in the barycenter G. The mean points of AG, BG and CG are M′, N′ and L′ respectively. Show that the six points M, M′, N, N′, L, L′ lie on a circumference if and only if ABC is equilateral.
 

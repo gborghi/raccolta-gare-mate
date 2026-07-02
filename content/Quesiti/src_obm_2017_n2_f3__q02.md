@@ -60,7 +60,7 @@ tags:
 
 > Sappiamo che $C$ è un numero reale e $x$, $y$, $z$ sono diversi numeri reali non zero che soddisfano: $$x + \frac{y}{z} = y + \frac{z}{x} = z + \frac{x}{y} = C.$$
 > 
-> a) Indicare che < MSK0/>.
+> a) Indicare che $C = -1$.
 > 
 > b) Trova almeno una soluzione $(x, y, z)$ per l'equazione data.
 

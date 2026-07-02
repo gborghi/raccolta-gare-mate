@@ -61,11 +61,11 @@ tags:
 
 *JMO Microtassazione delle monete del Regno: trovare monete totali minime S*
 
-> $n$ sia un numero intero positivo. Nel Regno dell'OMS ci sono cittadini $2^n$ e un re. La moneta è costituita da monete $2^a$-yen per $a = 0, 1, 2, \ldots, n-1$ (cioè monete $1$-yen, $2$-yen, $4$-yen, $\ldots$, $2^{n-1}$-yen). Ogni cittadino possiede molte denominazioni. Il numero totale di monete detenute da tutti i cittadini è < MSK9/>.
+> $n$ sia un numero intero positivo. Nel Regno dell'OMS ci sono cittadini $2^n$ e un re. La moneta è costituita da monete $2^a$-yen per $a = 0, 1, 2, \ldots, n-1$ (cioè monete $1$-yen, $2$-yen, $4$-yen, $\ldots$, $2^{n-1}$-yen). Ogni cittadino possiede molte denominazioni. Il numero totale di monete detenute da tutti i cittadini è $S$.
 > 
 > A partire da qualche giorno, il Regno JMO svolge ogni giorno la seguente operazione, chiamata "micro-tassazione":
 > 
-> - Ogni cittadino seleziona un sottoinsieme finito (possibilmente vuoto) delle monete che detiene attualmente, e quella notte consegna tutte le monete selezionate ad altri cittadini (distribuendole tra gli altri cittadini come desiderano). - Dopo questo passaggio, per ogni cittadino, l'importo totale che ha donato è rigorosamente superiore a < MSK0/> yen superiore all'importo totale che ha ricevuto.
+> - Ogni cittadino seleziona un sottoinsieme finito (possibilmente vuoto) delle monete che detiene attualmente e quella notte consegna tutte le monete selezionate ad altri cittadini (distribuendole tra gli altri cittadini come desiderano). - Dopo questo passaggio, per ogni cittadino, l'importo totale che ha donato è rigorosamente superiore a $1$ yen superiore all'importo totale che ha ricevuto.
 > 
 > Si dice che la micro-tassazione possa continuare a tempo indeterminato nel Regno dell'OMM. Trova il valore minimo di $S$ per il quale questo è raggiungibile.
 

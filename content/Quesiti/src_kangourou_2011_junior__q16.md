@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many ways to blacken cells with row and column constraints< MSK1/>
+*How many ways to blacken cells with row and column constraints*
 
 ![[src_kangourou_2011_junior__prob16.png]]
 

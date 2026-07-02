@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>smallest square area< MSK1/>
+*smallest square area*
 
 ![[src_kangourou_2016_marzo_benjamin__prob5.png]]
 

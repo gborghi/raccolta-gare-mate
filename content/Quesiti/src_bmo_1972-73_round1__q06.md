@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ratio di ragazzi a ragazze rispetto alla probabilità di essere d'accordo con l'insegnante< MSK1/>
+*Ratio di ragazzi a ragazze rispetto alla probabilità di essere d'accordo con l'insegnante*
 
 > Quando si rispondono a domande di conoscenza generale (questioni in modo che ogni domanda sia risolta con sì o no), la probabilità che l'insegnante sia corretto è $a$ e la probabilità che l'allievo sia corretto è $b$ o $c$ a seconda che l'allievo sia un ragazzo o una ragazza.
 > 

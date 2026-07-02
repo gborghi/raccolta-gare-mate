@@ -51,6 +51,6 @@ tags:
 
 *ABCD quadrilaterale ciclico: il bisettore angolare dell'angolo ADB incontra l'AC a N; dimostra CD parallelo ad AB se AN=NC*
 
-> Considerate un quadrilaterale ciclico < MSK0/>. Le diagonali $AC$ e $BD$ si incontrano a $T$. Il bisettore di angolo interno di $\angle ADB$ incontra $AC$ a $N$. Prova che $CD$ è parallelo a $AB$ se e solo se $AN = NC$.
+> Considerate un quadrilaterale ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano a $T$. Il bisettore di angolo interno di $\angle ADB$ incontra $AC$ a $N$. Prova che $CD$ è parallelo a $AB$ se e solo se $AN = NC$.
 
 [[src_bmo_2016-17_round2__Q03]]

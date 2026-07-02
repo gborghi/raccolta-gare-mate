@@ -58,11 +58,11 @@ tags:
 
 Gioco di versare latte e tè per fare due buoni tè di latte
 
-> Una tazza contenente < MSK0/> grammi di latte e < MSK1/> grammi di tè nero si chiama buon tè al latte se < MSK2/> e < MSK3/>.
+> Una tazza contenente $x$ grammi di latte e $y$ grammi di tè nero si chiama buon tè al latte se $y > 0$ e $\dfrac{y}{x+y} > \dfrac{3}{5}$.
 > 
 > Ora ci sono coppe vuote. Il giocatore A e il giocatore B, con A al primo posto, eseguono alternativamente le seguenti operazioni:
 > 
-> - Operazione A: versare un totale di < MSK0/> grammi di latte in alcune tazze. - L'operazione B: versare un totale di < MSK1/> grammi di tè nero in alcune tazze, scegliere poi una delle tazze < MSK2/> e svuotare il contenuto.
+> - Operazione A: versare un totale di $60$ grammi di latte in alcune tazze. - L'operazione B: versare un totale di $60$ grammi di tè nero in alcune tazze, scegliere poi una delle tazze $3$ e svuotare il contenuto.
 > 
 > L'obiettivo di B e' quello di rendere due tazze di tè buono allo stesso tempo. Indipendentemente dalle azioni di B, A può continuare a impedire a B di raggiungere questo obiettivo per sempre?
 

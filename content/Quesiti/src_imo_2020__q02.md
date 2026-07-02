@@ -47,8 +47,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-This is the same as the difference between the number of employees and the number of employees.
+This is the same as the previous one.
 
-> The real numbers $a, b, c, d$ are $a \geq b \geq c \geq d > 0$ and $a + b + c + d = 1$. Indicates that < MSK0/>
+> The real numbers $a, b, c, d$ are $a \geq b \geq c \geq d > 0$ and $a + b + c + d = 1$. Indicates that $$(a + 2b + 3c + 4d)\, a^a b^b c^c d^d < 1.$$
 
 [[src_imo_2020__Q02]]

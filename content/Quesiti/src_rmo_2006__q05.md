@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilatero tangenziale con ABCD e AB=3CD; trovare inradius< MSK1/>
+*Quadrilatero tangenziale con ABCD e AB=3CD; trovare inradius*
 
 > Il $ABCD$ è un quadrilaterale in cui $AB$ è parallelo a $CD$ e perpendicolare a $AD$; $AB = 3CD$; e la superficie del quadrilaterale è 4. Se si può disegnare un cerchio che tocchi tutti i lati del quadrilaterale, trovare il suo raggio.
 

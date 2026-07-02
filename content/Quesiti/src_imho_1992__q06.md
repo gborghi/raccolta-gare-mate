@@ -62,7 +62,7 @@ tags:
 
 > For every positive integer $n$, $S(n)$ is defined to be the greatest integer such that, for every positive integer $k \leq S(n)$, $n^2$ can be written as the sum of $k$ positive squares.
 > 
-> Prove that for each < MSK1/>.
+> Prove that for each $n \geq 4$.
 > 
 > **(b) ** Find an integer $n$ such that $S(n) = n^2 - 14$.
 > 

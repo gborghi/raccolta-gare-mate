@@ -57,12 +57,12 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trasformazioni di amoeba: tubo con 201 amoeba blu e 112 amoeba rosso< MSK1/>
+*Trasformazioni di amoeba: tubo con 201 amoeba blu e 112 amoeba rosso*
 
-> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando un ameba blu si unisce ad una ameba rossa, entrambi si trasformano in tre amebe rosse; quando due amebe blu si uniscono, si trasformano in quattro amebe rosse. Un tubo di prova contiene inizialmente < MSK0/> amoebas blu e < MSK1/> amoebas rosse.
+> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando una ameba blu si unisce ad una ameba rossa, entrambe si trasformano in tre amebe rosse; quando due amebe blu si uniscono, si trasformano in quattro amebe rosse. Un tubo di prova contiene inizialmente $201$ amoebas blu e $112$ amoebas rosse.
 > 
-> a) È possibile che, dopo alcune trasformazioni, il tubo contenga < MSK0/> amoebas blu e < MSK1/> amoebas rosse?
+> a) È possibile che, dopo alcune trasformazioni, il tubo contenga $100$ amoebas blu e $314$ amoebas rosse?
 > 
-> b) È possibile che, dopo alcune trasformazioni, il tubo contenga < MSK0/> amoebas blu e < MSK1/> amoebas rosse?
+> b) È possibile che, dopo alcune trasformazioni, il tubo contenga $99$ amoebas blu e $314$ amoebas rosse?
 
 [[src_obm_2012_n2_f3__Q01]]

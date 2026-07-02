@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>miscela di alcol e benzina egualizzata con l'aggiunta di alcol puro< MSK1/>
+*miscela di alcol e benzina egualizzata con l'aggiunta di alcol puro*
 
 > Il serbatoio della macchina di Esmeralda ha una capacità di 60 litri e contiene una miscela di alcol del 20% e benzina dell'80%, a metà piena. Esmeralda chiese di aggiungere alcolici al serbatoio fino a che la miscela non diventasse uguale quantità di alcol e benzina. Quanti litri di alcol dovrebbero essere aggiunti?
 

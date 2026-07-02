@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>140 Inches in Spanne< MSK1/>
+*140 Inches in Spanne*
 
 > For measuring the lengths, Kenoncè Island uses 4 different units of measurement: the Pollice, the Mignolo, the Index and the Spanna. We know that 7 Indices are as long as 5 Spanne, 21 Minnoli as long as 20 Inches and 2 Indices as long as 3 Minnoli. How many Spanne is 140 inches? A 70 B 105 C 630 D 42 E 450 F 12
 

@@ -80,7 +80,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> number instead of ?< MSK1/>
+* number instead of ?*
 
 ![[src_kangourou_2023_cadet__prob6.png]]
 

@@ -51,6 +51,6 @@ tags:
 
 *Numeri reali a,b,c in (0,1) con a+b+c=2: dimostrare la somma delle frazioni >=8*
 
-> $a, b, c$ siano numeri reali nell'intervallo $(0, 1)$ con $a + b + c = 2$. Provare che < MSK0/>
+> $a, b, c$ siano numeri reali nell'intervallo $(0, 1)$ con $a + b + c = 2$. Provare che $$\frac{a}{1-a} + \frac{b}{1-b} + \frac{c}{1-c} \ge 8.$$
 
 [[src_inmo_1991__Q04]]

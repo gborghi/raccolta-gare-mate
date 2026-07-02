@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how much more by half< MSK1/>
+*how much more by half*
 
 > After playing 200 chess games, I won exactly 49 percent. How many more games do I have to play so that, assuming I win all of them, I get to have won exactly half the games I've played? A) 1
 > 	

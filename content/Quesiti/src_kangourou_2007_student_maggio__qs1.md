@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shorter route on the cone surface< MSK1/>
+*Shorter route on the cone surface*
 
 ![[src_kangourou_2007_student_maggio__probS1.png]]
 

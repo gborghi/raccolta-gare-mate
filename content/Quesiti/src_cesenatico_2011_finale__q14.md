@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>MCD probability = 1 of two divisors of 12!< MSK1/>
+*MCD probability = 1 of two divisors of 12!*
 
 > Abelix and Borelix invented a new game to pass the time before leaving for Egypt. Whenever they put out a patrol of Roman soldiers, they ask two of them to choose randomly, each independently, a divisor of 12!; if the two numbers have a maximum common divisor equal to 1, Borelix wins, otherwise Abelix wins. What are the odds of Abelix winning? As a response, provide the first four digits after the comma.
 

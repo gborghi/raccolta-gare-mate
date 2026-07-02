@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Autumn compared to spring (discounts/increases) < MSK1/>
+*Autumn compared to spring (discounts/increases) *
 
 > A shop in Milan and a shop in Rimini in the spring sell the same items at the same prices. The Milan store reduces prices by 10% during the summer and increases prices by 10% in the autumn compared with those in the summer; the one in Rimini does the exact opposite, which is to say, it increases prices by 10% during the summer and reduces prices by 10% in the autumn compared with those in the summer. In autumn compared to spring A) the Milan store is more expensive and that of Rimini less expensive B) the Milan store is less expensive and that of Rimini more expensive C) both stores are more expensive D) both stores are less expensive E) both stores have kept prices unchanged
 

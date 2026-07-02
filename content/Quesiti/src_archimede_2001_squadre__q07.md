@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> in how many ways< MSK1/>
+* in how many ways*
 
 > This is the total number of subscriptions.
 > 

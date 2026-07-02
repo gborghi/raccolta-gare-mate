@@ -53,6 +53,6 @@ tags:
 
 *Doppia somma con min delle sequenze ordinate non è negativa*
 
-> $n$ sia un numero intero positivo. I numeri reali $a_1, a_2, \ldots, a_n$ e $r_1, r_2, \ldots, r_n$ sono tali che $a_1 \le a_2 \le \cdots \le a_n$ e $0 \le r_1 \le r_2 \le \cdots \le r_n$. Provare che < MSK0/>
+> $n$ sia un numero intero positivo. I numeri reali $a_1, a_2, \ldots, a_n$ e $r_1, r_2, \ldots, r_n$ sono tali che $a_1 \le a_2 \le \cdots \le a_n$ e $0 \le r_1 \le r_2 \le \cdots \le r_n$. Provare che $$\sum_{i=1}^{n} \sum_{j=1}^{n} a_i a_j \min(r_i, r_j) \ge 0.$$
 
 [[src_cn_csmo_2010__Q07]]

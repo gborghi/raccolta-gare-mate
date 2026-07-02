@@ -63,10 +63,6 @@ tags:
 > π  
 > E. 12
 > 5π  
->  
->  
->  
-> 
 > Student 2002. Pagina N. 
 > 6
 

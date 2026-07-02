@@ -57,7 +57,7 @@ tags:
 
 *How to arrange 8 towers not in the same colour*
 
-> C.E.S.E.N.A.T.I.C.O. φ-neas: Hey, where's Periodic?. Perryodico, or rather Agent MSK0/, is engaged in his daily mission against Dr. DoofenSchwartz, who managed to catch him! Dr. DoofenSchwartz: I've got you, you little orchid. Look at my latest invention: it's called Placing Efficiently On Non-Aligned Elements Towers in Homologous Colors, in short, C.E.S.E.N.A.T.I.C.O.! It allows 8 towers of chess to be placed on a classic chessboard 8×8, so that they are all on boxes of the same color, without any pair of towers being on the same row or column. Not even time to finish the sentence, which Perryodico manages to get rid of. "Fate to you, Perryodic the Ornithorn!" cries DoofenSchwartz. In how many ways can placement be made? 2025 Team Competition  National Final  Problem Tests  1/4
+> C.E.S.E.N.A.T.I.C.O. φ-neas: Hey, where's Periodic?. Perryodico, or rather Agentπ, is engaged in his daily mission against Dr. DoofenSchwartz, who managed to catch him! Dr. DoofenSchwartz: I've got you, you little orchid. Look at my latest invention: it's called Placing Effectively On Non-Aligned Elements Towers in Homologous Colors, in short, C.E.S.E.N.A.T.I.C.O.! It allows 8 towers of chess to be placed on a classic chessboard 8×8, so that they are all on boxes of the same color, without any pair of towers being on the same row or column. Not even time to finish the sentence, which Perryodico manages to get rid of. "Fate to you, Perryodic the Ornithorn!" cries DoofenSchwartz. In how many ways can placement be made? 2025 Team Competition  National Final  Problem Tests  1/4
 
 **Answer:** 1152
 [[src_archimede_2025_squadre_finale__Q04]]

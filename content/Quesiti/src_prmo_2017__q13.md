@@ -51,6 +51,6 @@ tags:
 
 *Ricerca AB nel rettangolo ABCD con punto medio E di AB e due condizioni di perpendicularità*
 
-> In un rettangolo $ABCD$, $E$ è il punto medio di $AB$; $F$ è un punto su $AC$ tale che $BF$ sia perpendicolare a $AC$; e $FE$ sia perpendicolare a $BD$. Supponiamo $BC = 8\sqrt{3}$. Trova < MSK10/>.
+> In un rettangolo $ABCD$, $E$ è il punto medio di $AB$; $F$ è un punto su $AC$ tale che $BF$ sia perpendicolare a $AC$; e $FE$ sia perpendicolare a $BD$. Supponiamo $BC = 8\sqrt{3}$. Trova $AB$.
 
 [[src_prmo_2017__Q13]]

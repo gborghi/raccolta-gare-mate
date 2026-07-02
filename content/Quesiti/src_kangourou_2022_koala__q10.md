@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cangaroo to koala by avoiding blue spots< MSK1/>
+*Cangaroo to koala by avoiding blue spots*
 
 ![[src_kangourou_2022_koala__prob10.png]]
 

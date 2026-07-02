@@ -55,6 +55,6 @@ tags:
 
 *Per un quadrilaterale con un cerchio inciso, quattro quantità associate sono uguali*
 
-> $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$ dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che < MSK1/>
+> $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$ dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
 
 [[src_bmo_1983-84_round1__Q07]]

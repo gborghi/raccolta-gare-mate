@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Convex hexagon with midpoint-distance condition has equal angles< MSK1/>
+*Convex hexagon with midpoint-distance condition has equal angles*
 
 > A convex hexagon has the property that for any pair of opposite sides the distance between their midpoints is $\dfrac{\sqrt{3}}{2}$ times the sum of their lengths. Show that all the hexagons are equal.
 

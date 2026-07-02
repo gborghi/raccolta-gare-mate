@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>tabella CRT: somma delle celle evidenziate (mod 3 < MSK0/> mod 7) < MSK2/>
+*tabella CRT: somma delle celle evidenziate (mod 3 × mod 7) *
 
 > Lasciate che $m$ e $n$ siano due integri positivi che sono coprimi. Il teorema del rimanente cinese afferma che, per qualsiasi numero intero $i$ e $j$ con $0 \le i < m$ e $0 \le j < n$, esiste esattamente un numero intero $a$ con $0 \le a < mn$ in modo tale che il resto della divisione di $a$ da $m$ è uguale a $i$ e il resto della divisione di $a$ da $n$ è uguale a $j$. Per esempio, per $m = 3$ e $n = 7$, il numero $19$ è il numero intero unico in $\{0, 1, \ldots, 20\}$ che lascia i rimanenti $1$ e $5$ quando diviso rispettivamente da $3$ e $7$.
 > 

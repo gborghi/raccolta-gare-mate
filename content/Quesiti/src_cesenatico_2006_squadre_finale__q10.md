@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Six circles on a hexagon (coefficient of adhesion) perimeter di pi)*
+*Six circles on a hexagon (coefficient of adhesion) perimeter di pi)*
 
 > The plant of the castle The plant of the castle of Hortona, seat of the Higher Mathematical School, consists of the union of 6 circles of radius equal to 100, the centers of which are arranged on the vertices of a regular hexagon of side 100. What is the perimeter of the castle? The result is less than π (in other words, if for example the result is 10π, then the answer is 0010).
 

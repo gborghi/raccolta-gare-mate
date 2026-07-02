@@ -94,7 +94,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>fraction of lost volume< MSK1/>
+*fraction of lost volume*
 
 ![[src_kangourou_2022_student__prob29.png]]
 

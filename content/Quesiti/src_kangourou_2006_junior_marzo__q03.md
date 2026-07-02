@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>When the difference between clocks is 1 hour< MSK1/>
+*When the difference between clocks is 1 hour*
 
 > If answer B is wrong, then neither are D and E. You know that in the questions put by Kangourou, one and only one of the answers is correct. So you can conclude that the correct answer is A A B B C C D D E E
 

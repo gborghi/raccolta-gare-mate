@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Centri, punti di centro dei lati e concomitanza incircolare nel triangolo scaleno< MSK1/>
+*Centri, punti di centro dei lati e concomitanza incircolare nel triangolo scaleno*
 
 > Dato un triangolo $ABC$, $A$ deve essere il circoncentro relativo alla vertica $A$ e $O$ deve essere il punto di intersezione dei bisettori esterni di $\angle B$ e $\angle C$. Che $I_A$, $I_B$, $I_C$ siano gli eccentri del triangolo scaleno $ABC$ rispetto rispettivamente a $A$, $B$, $C$, e che $X$, $Y$, $Z$ siano i punti medi di $I_A I_B$, $I_A I_C$, $I_B I_C$, rispettivamente. L'incircolo del triangolo $ABC$ tocca rispettivamente i lati $BC$, $CA$, $AB$ nei punti $D$, $E$ e $F$. Prova che le linee $DX$, $EY$ e $FZ$ si incontrano in un punto comune appartenente al triangolo $ABC$.
 

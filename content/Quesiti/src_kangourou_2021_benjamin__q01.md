@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Parallel piped composed of six bricks< MSK1/>
+*Parallel piped composed of six bricks*
 
 ![[src_kangourou_2021_benjamin__prob1.png]]
 

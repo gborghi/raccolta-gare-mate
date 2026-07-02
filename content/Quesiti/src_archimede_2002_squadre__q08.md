@@ -51,7 +51,7 @@ tags:
 
 > **Fraggle jumps**  20 points
 > 
-> There are two frogs in Professor Abacus' house. Right now they're in one of the alleys around the pool and they're trying to reach a water well. The frog $A$ is 20 centimetres from the well, while the $B$ is behind the $A$ one metre from the well. The $B$ at each jump covers half the distance, the second covers a third, the third covers a quarter and so on. After how many jumps does MSK4/ exceed MSK5/, knowing that frogs always jump at the same time?
+> There are two frogs in Professor Abacus' house. Right now they're in one of the alleys around the pool and they're trying to reach a water well. The frog $A$ is 20 centimetres from the well, while the $B$ is behind the $A$ one metre from the well. The $B$ at each jump covers half the distance, the second covers a third, the third covers a quarter and so on. After how many jumps does$B$exceed$A$, knowing that frogs always jump at the same time?
 
 **Answer:** 0005
 [[src_archimede_2002_squadre__Q08]]

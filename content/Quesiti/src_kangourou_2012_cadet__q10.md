@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What and the white block of the paralelepiped< MSK1/>
+*What and the white block of the paralelepiped*
 
 ![[src_kangourou_2012_cadet__prob10.png]]
 

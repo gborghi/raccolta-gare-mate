@@ -55,9 +55,9 @@ tags:
 
 *AX/XY ratio in a triangle with a point on the cevial*
 
-> At the recent Festival of Mathematics in Rome, the famous painter Mathart exhibited his work in triangular form (see figure, which does not respect proportions). The young man $X$ visited her and, curious, asked him why the ratio between the sides $AX$ and $XY$. Mathart merely replied that the point $X$ was on the figure so that the ratio $\frac{AX}{XY}$ was equal to 12 to 49.
+> At the recent Festival of Mathematics in Rome, the famous painter Mathart exhibited his work in triangular form (see the figure, which however does not respect the proportions). The young man $X$ visited her and asked him, curious, why the relationship between the dimensions of the sides $AX$ and $XY$. Mathart merely replied that the point $X$ was on the figure so that the ratio $\frac{AX}{XY}$ was equal to 12 to 49.
 > 
-> How much is the MSK0/?
+> How much is the$\frac{AX}{XY}$?
 
 ![[src_bocconi_semifinale_2007__Q17.png]]
 

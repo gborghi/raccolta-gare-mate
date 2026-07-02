@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many large sweets were bought< MSK1/>
+*How many large sweets were bought*
 
 > There are three types of candy: large, medium and small. Each large dessert costs 4 euros, each medium 2 euros and each small 1 euro. Clemente buys 10 candies, at least one per type, and pays 16 euros. How many big candies did Clemente buy? A) 3 B) 2 C) 1 D) 0 E) it is not possible to establish
 > 

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Prove x^n+5x^(n-1) +3 is irreducible over integers< MSK1/>
+*Prove x^n+5x^(n-1) +3 is irreducible over integers*
 
 > Let f(x) = xn + 5xn−1 + 3, where n > 1 is an integer. Prove that f(x) cannot be expressed as the product of two nonconstant polynomials with integer coefficients.
 

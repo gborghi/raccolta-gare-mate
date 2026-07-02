@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Separate paths of the mouse in the maze< MSK1/>
+*Separate paths of the mouse in the maze*
 
 ![[src_kangourou_2016_ecolier_marzo__prob7.png]]
 

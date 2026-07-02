@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reducible fraction from continuous cradled fraction< MSK1/>
+*Reducible fraction from continuous cradled fraction*
 
 > Write the result of the expression as an irreducible fraction (no longer simplifiable). $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
 

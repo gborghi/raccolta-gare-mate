@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reduction in the volume of melting ice< MSK1/>
+*Reduction in the volume of melting ice*
 
 > When frozen, water increases its volume by 1 / 11. How much less ice does the volume decrease when water returns?
 >  

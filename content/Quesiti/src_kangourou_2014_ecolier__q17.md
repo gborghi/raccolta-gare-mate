@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Requests showing green after the next rounds< MSK1/>
+*Requests showing green after the next rounds*
 
 > Henry has ten legs all the same: each face is red and the other green. He's placing them in a row on the table so they all show their red faces. After a minute, it's all over. After one more minute, only those of equal rank. After another minute, only the third, sixth and ninth turn. After another minute only the fourth and eighth turn and so on until, in the end, only the tenth turn. At this point, how many pedals show the green face? A) 1
 > 	

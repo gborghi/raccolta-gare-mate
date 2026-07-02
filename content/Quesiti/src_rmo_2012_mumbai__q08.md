@@ -53,6 +53,6 @@ tags:
 
 *Rimostra una disuguaglianza per due frazioni con un vincolo reciproco*
 
-> $x = 2a$, $y = 2b$, $z = 2c$ con $a, b, c > 1$ che soddisfi $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Provare che < MSK0/>
+> $x = 2a$, $y = 2b$, $z = 2c$ con $a, b, c > 1$ che soddisfi $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Provare che $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
 
 [[src_rmo_2012_mumbai__Q08]]

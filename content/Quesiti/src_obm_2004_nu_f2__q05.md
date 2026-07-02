@@ -63,7 +63,7 @@ tags:
 
 > $m\ge 2$ sia un numero intero. Arnaldo e Bernaldo giocano la seguente partita: ogni giocatore, a turno, riceve un intero positivo $N_i$ e passa all'altro giocatore o $N_{i+1}=N_i-1$ o $N_{i+1}=\left\lfloor N_i/m\right\rfloor$. Chi riceve un numero intero positivo $N_0$ e passa lo zero vince la partita.
 > 
-> Lasciate che < MSK0/> (resp. $B_m$) è l'insieme dei valori di $N_0$, $N_0<n$, per il quale Arnaldo (resp. Bernaldo) ha una strategia vincente.
+> Lasciate che $A_m$ (resp. $B_m$) è l'insieme dei valori di $N_0$, $N_0<n$, per il quale Arnaldo (resp. Bernaldo) ha una strategia vincente.
 > 
 > Calcolare $\displaystyle\lim_{n\to\infty}\frac{|A_m|}{|B_m|}$ come funzione di $m$.
 

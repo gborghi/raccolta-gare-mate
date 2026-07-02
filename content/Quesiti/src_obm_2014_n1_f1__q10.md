@@ -60,7 +60,7 @@ tags:
 
 Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può risparmiare
 
-> Joana, per acquistare penne $20$ e matite $20$, ha confrontato i prezzi in due negozi. Nel negozio A ogni penna costa < MSK2/> reais e ogni matita < MSK3/> reais; nel negozio B ogni penna costa < MSK4/> reais e ogni matita < MSK5/> reais. Ogni negozio ha una promozione. Comprando con la scelta migliore tra comprare solo al negozio A o solo al negozio B, quanto può risparmiare?
+> Joana, per acquistare penne $20$ e matite $20$, ha confrontato i prezzi in due negozi. Nel negozio A ogni penna costa $4$ reais e ogni matita $5$ reais; nel negozio B ogni penna costa $6$ reais e ogni matita $3$ reais. Ogni negozio ha una promozione. Comprando con la scelta migliore tra comprare solo al negozio A o solo al negozio B, quanto può risparmiare?
 > 
 > (A) nulla (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
 

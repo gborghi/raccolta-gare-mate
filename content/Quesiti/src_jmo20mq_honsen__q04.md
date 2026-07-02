@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ineguaglianza ciclica in tre valori positivi < MSK1/>
+*Ineguaglianza ciclica in tre valori positivi *
 
 > Per i numeri reali positivi $x$, $y$, $z$, dimostrare che $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
 

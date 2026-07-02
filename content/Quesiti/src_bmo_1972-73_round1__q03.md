@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La corda sopra la superficie dell'emisfero sul cilindro non si trova in piano< MSK1/>
+*La corda sopra la superficie dell'emisfero sul cilindro non si trova in piano*
 
 > Una curva che costituisce il quartiere $x^2 + y^2 = r^2$, $x, y \ge 0$, insieme al segmento di linea $x = r$, $-h \le y \le 0$, è rotata intorno a $x = 0$ per formare una superficie di rivoluzione che è un emisfero su un cilindro. Una stringa è stretta strettamente sulla superficie dal punto della curva $(r\sin\alpha, -r\cos\alpha)$ al punto $(r\alpha, -h)$ nel piano della curva. Indicare che la stringa non si trova in un piano se $\tan\theta > \frac{r}{h}$.
 > 

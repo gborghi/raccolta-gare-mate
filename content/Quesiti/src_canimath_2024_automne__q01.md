@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Computo (2039−2024) 2/9< MSK1/>
+*Computo (2039−2024) 2/9*
 
-> Calcolo < MSK0/>
+> Calcolo $$\frac{(2039 - 2024)^2}{9}.$$
 > 
 > Qui si aspetta solo una risposta numerica.
 

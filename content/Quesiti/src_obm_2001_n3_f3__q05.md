@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilaterale convex: le quattro perpendicolari medie ai lati concordano se è ciclico< MSK1/>
+*Quadrilaterale convex: le quattro perpendicolari medie ai lati concordano se è ciclico*
 
 > In un quadrilaterale convexo, l'altitudine relativa a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile, cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
 

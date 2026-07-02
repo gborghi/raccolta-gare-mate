@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of exiting T in one-way neighbourhood< MSK1/>
+*Probability of exiting T in one-way neighbourhood*
 
 ![[src_kangourou_2024_student__prob14.png]]
 

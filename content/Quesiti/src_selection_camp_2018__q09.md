@@ -56,8 +56,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Operazione * suinsiemi finiti di integri positivi; A*B=B*A implica l'associazione stellare iterata*
+*L'operazione * su gruppi finiti di integri positivi; A*B=B*A implica l'associazione stellare iterata*
 
-> Per i set finiti $X$ e $Y$ di integri positivi, $f_X(k)$ indichi il $k$-minimo intero positivo non in $X$. Definire $$X * Y = X \cup \{f_X(y) \mid y \in Y\}.$$ Lasciate che $a, b$ siano numeri interi positivi. Che $A$ sia un insieme di enti interi positivi $a$ e $B$ sia un insieme di enti interi positivi $b$. Supponiamo < MSK12/>. Provare che < MSK1/>
+> Per i set finiti $X$ e $Y$ di enti interi positivi, $f_X(k)$ indica il $k$-minimo intero positivo non in $X$. Definire $$X * Y = X \cup \{f_X(y) \mid y \in Y\}.$$ Lasciate che $a, b$ siano numeri interi positivi. Che $A$ sia un insieme di enti interi positivi $a$ e $B$ sia un insieme di enti interi positivi $b$. Supponiamo $A * B = B * A$. Provare che $$\underbrace{A * (A * \cdots * (A * (A * A)) \cdots)}_{A \text{ appears } b \text{ times}} = \underbrace{B * (B * \cdots * (B * (B * B)) \cdots)}_{B \text{ appears } a \text{ times}}.$$
 
 [[src_selection_camp_2018__Q09]]

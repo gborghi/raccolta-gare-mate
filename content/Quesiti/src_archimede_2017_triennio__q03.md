@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of decimal places of H = factor sums< MSK1/>
+*Number of decimal places of H = factor sums*
 
 > With the symbol n! the product of positive integers from 1 to n, for example: 4! = 1 · 2 · 3 · 4. Let's say the number H is equal to 1. + 2! + 3! + 4! + ... + 2016! + 2017! (a sum with 2017 pluses). What's the number of tens of H?
 >

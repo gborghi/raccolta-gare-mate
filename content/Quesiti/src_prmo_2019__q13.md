@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Minimum somma positiva di prodotti di coppie provenienti da < MSK0/>1 sequenza< MSK2/>
+*Minimum somma positiva di prodotti di coppie provenienti da ±1 sequenza*
 
 > Ogni numero $x_1, x_2, \ldots, x_{101}$ è $\pm 1$. Qual è il valore positivo più piccolo di $\displaystyle\sum_{1 \le i < j \le 101} x_i x_j$?
 

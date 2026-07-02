@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Trapezoidal area given diagonal triangular areas< MSK1/>
+*Trapezoidal area given diagonal triangular areas*
 
 > A trapezoid A trapezoid is divided from its two diagonal sides into four triangles. If 5 and 125 are the areas of the two of these triangles that share one of their sides with one of the parallel sides of the trapezium, how much is the trapezium area?
 

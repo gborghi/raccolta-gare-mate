@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Angolo in un eptagono ciclico con cinque lati uguali< MSK1/>
+*Angolo in un eptagono ciclico con cinque lati uguali*
 
 > Un eptagone $PABCDEF$ è inserito in un cerchio, e $$AB=BC=CD=DE=EF$$ si tiene. Se $\angle PAB=100^\circ$ e $\angle PFE=120^\circ$, trovare $\angle FPA$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
 

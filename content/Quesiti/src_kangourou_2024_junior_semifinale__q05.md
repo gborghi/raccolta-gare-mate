@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>€ remaining to the eldest child (proportions) < MSK1/>
+*€ remaining to the eldest child (proportions) *
 
 > A father divides between his three children, aged 8, 12 and 18, the sum of $380 into parts that are inversely proportional to their age. The three children agree to give a gift to the mother and divide the cost of the €304 into parts directly proportional to the figures received from the father. How much is left for the eldest son? (A) 16 (B) 15 (C) 12 (D) 18 (E) 20 Answer A) The solution. If 1 is made, the amount for a 12-year-old child, for an 8-year-old child, it is 3/2, and for an 18-year-old, it is 2/3, so in increasing age order, it is 180, 120 and 80 euros. The breakdown of EUR 304, now in parts directly proportional to these amounts, is therefore in the same order as EUR 144, 96 and 64.
 

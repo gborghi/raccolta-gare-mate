@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of running two non-consecutive days per week< MSK1/>
+*Mode of running two non-consecutive days per week*
 
 > George wants to go running exactly twice a week and always on the same days of the week, but he doesn't want to go running two days in a row. How many different ways can he accomplish his plan? A) 16
 > 	

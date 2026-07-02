@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which is cooked and blown away (20 residual dots) < MSK1/>
+*Which is cooked and blown away (20 residual dots) *
 
 ![[src_kangourou_2018_koala_marzo__prob6.png]]
 

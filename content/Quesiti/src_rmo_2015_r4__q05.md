@@ -50,7 +50,7 @@ tags:
 
 *CA=CD implica che il centro di Sigma si trova su Gamma*
 
-> Due cerchi $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una linea che attraversa $B$ incrocia $\Gamma$ di nuovo a $C$ e $\Sigma$ di nuovo a $D$, rispettivamente. Supponiamo che $CA = CD$. Indicare che il centro di < MSK10/> si trova su < MSK11/>.
+> Due cerchi $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una linea attraverso $B$ incrocia $\Gamma$ di nuovo a $C$ e $\Sigma$ di nuovo a $D$, rispettivamente. Supponiamo che $CA = CD$. Indicare che il centro di $\Sigma$ si trova su $\Gamma$.
 
 ![[src_rmo_2015_r4__Q05.png]]
 

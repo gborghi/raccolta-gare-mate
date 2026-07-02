@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Side of Amerigo square with frame < MSK1/>
+*Side of Amerigo square with frame *
 
 > Amerigo hangs his painting (white square), inserting it into a frame that is also square. The area of the painting is equal to that of the darker surface in the figure.
 > 

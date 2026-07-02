@@ -57,7 +57,7 @@ tags:
 
 *Area of the region reachable by a dog tied with a 3 m rope to a top of a 1 m side hexagonal fold.*
 
-> 12 - The dog (coefficient 12) The base of Julien's dog's dog and a regular hexagon whose side measures 1 meter. The cat is closed and the dog is tied to the outside of the cat to a figure top with a 3-meter long rope. What, in square metres, is the area of the region that the dog can reach outside its litter? The exact answer is given using < MSK0/> if necessary.
+> 12 - The dog (coefficient 12) The base of Julien's dog's dog and a regular hexagon whose side measures 1 meter. The cat is closed and the dog is tied to the outside of the cat to a figure top with a 3-meter long rope. What, in square metres, is the area of the region that the dog can reach outside its litter? The exact answer is given using $\pi$ if necessary.
 
 **Answer:** $3\pi$ m$^2$
 [[src_bocconi_finaleint_2009_g1__Q12]]

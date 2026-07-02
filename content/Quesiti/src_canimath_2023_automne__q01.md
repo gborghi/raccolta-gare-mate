@@ -59,7 +59,7 @@ tags:
 
 *Evaluare una frazione numerica di un prodotto di numeri pari su un prodotto di piccoli interi*
 
-> Calcolo < MSK0/>
+> Calcolo $$\frac{4 \times 6 \times 8 \times 10 \times 12}{2 \times 3 \times 4 \times 5 \times 6}.$$
 > 
 > Qui si aspetta solo una risposta numerica.
 

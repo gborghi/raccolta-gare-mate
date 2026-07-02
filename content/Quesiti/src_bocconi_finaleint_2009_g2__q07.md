@@ -62,7 +62,7 @@ tags:
 
 *Reconstruct a multiplication with most of the deleted digits*
 
-> Multiplication of the value of the product. In this multiplication, certain (correct) product figures were consecutive (each differed from the previous one of a unit) and each appeared only once. All other figures greater than < MSK1/> have been deleted. Reconstruct the operation: $$\begin{array}{r}\_\,\_\,3\\ \times\ \_\,4\\ \hline \_\,\_\,\_\,2\end{array}$$
+> Multiplication of the value of the product. In this multiplication, certain (correct) product figures were consecutive (each differed from the previous one of a unit) and each appeared only once. All other figures greater than $4$ have been deleted. Reconstruct the operation: $$\begin{array}{r}\_\,\_\,3\\ \times\ \_\,4\\ \hline \_\,\_\,\_\,2\end{array}$$
 
 ![[src_bocconi_finaleint_2009_g2__Q07.png]]
 

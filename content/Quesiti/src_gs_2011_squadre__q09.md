@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of activation at exactly fifth pressure< MSK1/>
+*Probability of activation at exactly fifth pressure*
 
 > To activate the car launcher of the 007, the release button must be pressed twice (the first time to remove the safety). James is trying to activate the launcher, but the button is damaged: not only does the button work with probability $\dfrac{3}{4}$, but it is also necessary that the button works twice in a row to be able to activate the weapon because the safe is damaged and, if you press the button and that doesn't work, the safe reacts. What's the probability that the weapon will activate exactly at the fifth press of the button? Answer by writing the first four digits after the resulting comma.
 

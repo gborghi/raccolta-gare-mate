@@ -91,7 +91,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>report areas< MSK1/>
+*report areas*
 
 ![[src_kangourou_2015_marzo_student__prob27.png]]
 

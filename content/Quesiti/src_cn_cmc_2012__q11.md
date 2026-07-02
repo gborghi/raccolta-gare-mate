@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rhombus in sistema di coordinate; costante OA·OC del prodotto e traccia di C < MSK1/>
+*Rhombus in sistema di coordinate; costante OA·OC del prodotto e traccia di C *
 
 > (20 punti) Come illustrato nella figura. 11.1, nel sistema di coordinate rettangolare $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Provare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sul mezzo cerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), trova la traccia di $C$.
 

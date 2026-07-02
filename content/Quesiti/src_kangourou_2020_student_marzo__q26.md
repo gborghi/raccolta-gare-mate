@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of seeds remaining in the box< MSK1/>
+*Minimum number of seeds remaining in the box*
 
 > Antonio has a box with 71 balls. The rules of the game allow him, with each move, to remove exactly 30 cards or to re-enter the box exactly 18 of the cards removed in the previous moves. If Antonio can remove or re-put the seeds in the box as many times as he wants, what is the minimum number of seeds that will remain in the box anyway? A) 1
 > 	

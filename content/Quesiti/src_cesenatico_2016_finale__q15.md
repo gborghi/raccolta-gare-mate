@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> pentagon and exaggeration formation without residues< MSK1/>
+* pentagon and exaggeration formation without residues*
 
 > A LTE fighter squadron is made up of a number of spacecraft (greater than 1), which can be arranged in different formations. An n-agon formation consists of a ship surrounded by a number of concentric n-agons. The innermost n-agon is formed by n vessels, the second by 2n, the third by 3n, and so on up to the outermost one. The squadron of which Mond Vander is a member can be deployed in pentagonal and hexagonal formation without ships advancing in either case. How many starships is it made up of, at least?
 

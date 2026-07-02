@@ -51,7 +51,7 @@ tags:
 
 *Triangolo, BD=DE=EC su BC, ceviani paralleli, angoli uguali; trovare AC*
 
-> Sul lato $BC$ del triangolo $ABC$ (esclusi i punti finali), ci sono due punti distinti $D$ e $E$ che soddisfano $BD = DE = EC$. I punti $P$ sul lato $AB$ e $Q$ sul lato $AC$ (entrambi esclusi i punti finali) sono scelti in modo che le linee $DP$ e $EQ$ siano entrambe parallele. Inoltre, < MSK11/>. Dato che $AP = 5$ e $PB = 14$, trovare la lunghezza di $AC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sul lato $BC$ del triangolo $ABC$ (esclusi i punti finali), ci sono due punti distinti $D$ e $E$ che soddisfano $BD = DE = EC$. I punti $P$ sul lato $AB$ e $Q$ sul lato $AC$ (entrambi esclusi i punti finali) sono scelti in modo che le linee $DP$ e $EQ$ siano entrambe parallele. Inoltre, $\angle BPD = \angle EQC$. Dato che $AP = 5$ e $PB = 14$, trovare la lunghezza di $AC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 23
 [[src_jjmo24yqa_yosen__Q06]]

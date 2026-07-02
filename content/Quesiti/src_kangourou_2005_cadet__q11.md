@@ -62,11 +62,6 @@ tags:
 > C) 16 punti
 > D) 20 punti
 > E) 24 punti 
-> a
-> a
-> a
-> a
-> a
 > b
 > D
 > C

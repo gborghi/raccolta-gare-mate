@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of celebrations in a group of 100 people< MSK1/>
+*Number of celebrations in a group of 100 people*
 
 > By definition, in a group of people a celebrity is a person in the group who is known to every other person in the group, but doesn't know any other person in the group. Consider a group of 100 people: within it the number of celebrities A) is necessarily 0 B) is necessarily 1 C) is necessarily 0 or 1 D) is necessarily 0 or 100 E) is necessarily 1 or 2 2004
 > 

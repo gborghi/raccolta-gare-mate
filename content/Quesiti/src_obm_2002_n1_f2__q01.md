@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Anni di palindrome: dopo il 2002; dopo il 1991 < MSK1/>
+*Anni di palindrome: dopo il 2002; dopo il 1991 *
 
 > L'anno 2002 è un palindromo, cioè si legge lo stesso da sinistra a destra e da destra a sinistra.
 > 

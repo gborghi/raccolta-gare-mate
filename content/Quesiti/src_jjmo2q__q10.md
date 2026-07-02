@@ -46,6 +46,6 @@ tags:
 
 *Quadrilaterale con condizioni di punto e angolo diagonali, angolo di ricerca BCD*
 
-> Nel quadrilaterale $ABCD$, lasciare che i segmenti $AC$ e $BD$ si incrociano al punto $P$. Inoltre, < MSK0/> attenuare. Trova < MSK5/>.
+> Nel quadrilaterale $ABCD$, lasciare che i segmenti $AC$ e $BD$ si incrociano al punto $P$. Inoltre, $$AB = BP = AD, \qquad \angle ABC = \angle BDC, \qquad \angle BCD = \angle CAD$$ attenuare. Trova $\angle BCD$.
 
 [[src_jjmo2q__Q10]]

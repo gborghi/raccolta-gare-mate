@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference between the largest and smallest sweet number< MSK1/>
+*Difference between the largest and smallest sweet number*
 
 > Sweet numbers Call each number of three digits dolce (therefore with the first digit different from 0) such that the first digit is the sum of the other two: for example 431 is sweet because 4=3+1, while 412 is not. What's the difference between the largest and smallest of the sweet numbers?
 

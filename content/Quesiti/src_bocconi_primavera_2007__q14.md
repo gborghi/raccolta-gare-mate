@@ -50,7 +50,7 @@ tags:
 
 How many years have Erica and I been together?
 
-> I'm twice your age when I was your age. When you're my age, together, we'll be MSK0/> years old. How old are Erica and I today?
+> I'm twice your age when I was your age. When you're my age, together, we'll be$108$ years old. How old are Erica and I today?
 > 
 > How many years have we been together?
 

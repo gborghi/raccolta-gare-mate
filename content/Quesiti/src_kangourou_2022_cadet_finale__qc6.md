@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pairs (m,n) with 1/m+1/n=1/2022< MSK1/>
+*How many pairs (m,n) with 1/m+1/n=1/2022*
 
-> For how many ordered pairs of positive integers do you have MSK1/?
+> For how many ordered pairs of positive integers do you have$\dfrac{1}{m} + \dfrac{1}{n} = \dfrac{1}{2022}$?
 
 **Answer:** 27
 [[src_kangourou_2022_cadet_finale__QC6]]

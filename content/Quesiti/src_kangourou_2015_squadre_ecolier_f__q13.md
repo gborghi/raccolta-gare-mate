@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference between black and white tiles 4000 black edge < MSK1/>
+*Difference between black and white tiles 4000 black edge *
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob13.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year in which unit number eta = unit number m^m< MSK1/>
+*Year in which unit number eta = unit number m^m*
 
 > Princess Cunegonda Princess Cunegonda was born on 1 January 1992. A fairy, who happened to be passing by near the cradle where Cunegonda had just been born, made the following prediction: In the first year m in which the number of Cunegonda's age units will be equal to the number of mm units, something wonderful will happen in Cunegonda. Then the prediction came true. What year?
 

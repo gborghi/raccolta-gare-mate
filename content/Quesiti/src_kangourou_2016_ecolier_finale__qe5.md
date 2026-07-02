@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of comparisons to check the 5 heaviest < MSK1/>
+*Minimum number of comparisons to check the 5 heaviest *
 
 > On the table there are $100$ objects of very close weight (some may even have the same weight): they told me that the heaviest objects, listed in descending weight order, are A, B, C, D and E. I want to check the statement, but I only have a two-plate balance and there can only be one object on each plate, so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that allows me to check the statement?
 

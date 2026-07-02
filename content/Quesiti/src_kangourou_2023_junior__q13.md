@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> area of shaded trapezoid< MSK1/>
+* area of shaded trapezoid*
 
 ![[src_kangourou_2023_junior__prob13.png]]
 

@@ -54,6 +54,6 @@ tags:
 
 *Minimum di ragazze tra il 60% della classe che svolge attività comunitarie*
 
-> Una classe ha ragazzi e ragazze. Durante le vacanze, < MSK2/> di tutti gli studenti di quella classe sono andati a fare lavori comunitari. Almeno quante ragazze hanno partecipato a questo lavoro? (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
+> Una classe ha ragazzi e ragazze. Durante le vacanze, $60\%$ di tutti gli studenti di quella classe sono andati a fare lavori comunitari. Almeno quante ragazze hanno partecipato a questo lavoro? (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
 
 [[src_obm_2008_n2_f1__Q21]]

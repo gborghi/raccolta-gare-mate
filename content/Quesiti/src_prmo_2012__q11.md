@@ -56,7 +56,7 @@ tags:
 
 *Il più piccolo numero intero diviso P(n) per tutti i numeri positivi pari n*
 
-> Let < MSK0/>. Qual è il numero intero più grande che è un divisore di $P(n)$ per tutti i numeri interi pari positivi $n$?
+> Let $P(n) = (n+1)(n+3)(n+5)(n+7)(n+9)$. Qual è il numero intero più grande che è un divisore di $P(n)$ per tutti i numeri interi pari positivi $n$?
 
 **Risposta:** 15
 [[src_prmo_2012__Q11]]

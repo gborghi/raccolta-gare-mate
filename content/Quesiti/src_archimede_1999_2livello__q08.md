@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What is the number that is divided by the mcm of the integers 1.100< MSK1/>
+*What is the number that is divided by the mcm of the integers 1.100*
 
 > Be $M$ the common minimum multiple of all integers between 1 and 100. Which of the following numbers is a divisor of $M$?
 >

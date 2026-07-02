@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>nature of the two individuals< MSK1/>
+*nature of the two individuals*
 
 > There are only two types of people living on the Magi and Witches Island: Magi (who always tell the truth) and Witches (who always lie). I met two individuals who live on the island and asked the highest if they were both magicians: from his answer I could not infer what nature they were, and so I asked the lowest if his neighbor was a magician. His answer made me understand the nature of each of them: what was it?
 > 	

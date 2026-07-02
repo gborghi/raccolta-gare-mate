@@ -59,7 +59,7 @@ tags:
 
 *Conteggio di date con giorno, mese, ultime due cifre dell'anno *
 
-> Una data bella si verifica quando, scritta come $11/11/11$, il mese, il giorno e le ultime due cifre dell'anno sono tutte uguali. Lo scorso anno, questo modello si è verificato su < MSK1/>. Quanti giorni ci sono da $10/10/10$ a $11/11/11$, compresi sia $10/10/10$ che $11/11/11$?
+> Una data bella si verifica quando, scritta come $11/11/11$, il mese, il giorno e le ultime due cifre dell'anno sono tutte uguali. Lo scorso anno, questo modello si è verificato su $10/10/10$. Quanti giorni ci sono da $10/10/10$ a $11/11/11$, compresi sia $10/10/10$ che $11/11/11$?
 > 
 > (A) 396 \quad (B) 398 \quad (C) 400 \quad (D) 402 \quad (E) 404
 

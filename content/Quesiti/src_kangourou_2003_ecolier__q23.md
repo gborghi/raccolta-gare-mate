@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many liars in the group (answers 1,2,3,4) < MSK1/>
+*How many liars in the group (answers 1,2,3,4) *
 
 > In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following four different answers: 1, 2, 3, 4. How many really lie in that group of people? A) 0 B) 1 C) 2 D) 3 E) 4
 

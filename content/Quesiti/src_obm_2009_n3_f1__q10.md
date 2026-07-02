@@ -53,7 +53,7 @@ tags:
 
 *Dal mezzogiorno, quando le mani dell'ora e del minuto formano per la prima volta un angolo di 145 gradi.*
 
-> L'orologio della parete indica inizialmente mezzogiorno. Le mani dell'ora e del minuto formeranno per la prima volta un angolo di < MSK0/> gradi: (A) tra le 12h e le 12h10min. (B) tra le 12.10 e le 12.15 min. (C) tra le 12.15 e le 12.20 min. D) tra le 12h20 e le 12h25. (E) dopo le 12h25min.
+> L'orologio della parete indica inizialmente mezzogiorno. Le mani dell'ora e del minuto formeranno per la prima volta un angolo di $145$ gradi: (A) tra le 12h e le 12h10min. (B) tra le 12.10 e le 12.15 min. (C) tra le 12.15 e le 12.20 min. D) tra le 12h20 e le 12h25. (E) dopo le 12h25min.
 
 ![[src_obm_2009_n3_f1__Q10.png]]
 

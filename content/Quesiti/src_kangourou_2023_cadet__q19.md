@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min to be added< MSK1/>
+*min to be added*
 
 > Angelo drew two perpendicular semirettes with the same origin O. He now wants to draw other semicircles with origin O so that for each choice of values 10, 20, 30, 40, 50, 60, 70, 80 there are two of the semicircles in the drawing that contain an angle measuring as many degrees as the value indicates. What's the minimum number of semirettes he can add? A) 2
 > 	

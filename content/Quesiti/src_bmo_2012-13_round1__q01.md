@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Max contatori su scacchi evitando cinque in ogni riga< MSK1/>
+*Max contatori su scacchi evitando cinque in ogni riga*
 
 > Isaac colloca alcuni contatori sui quadrati di un $8$ da una scacchiera $8$ in modo che ci sia al massimo un contatore in ciascuno dei quadrati $64$. Determinare, con giustificazione, il numero massimo che può inserire senza avere cinque o più contatori nella stessa riga, nella stessa colonna o su una delle due lunghe diagonali.
 

@@ -51,7 +51,7 @@ tags:
 
 *Ricerca BD/DC dati quattro sub-area triangolari formate da due ceviani*
 
-> Nel triangolo $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$ e $AB$. I cevi $BE$ e $CF$ si intersecano al punto $P$. Le superfici dei triangoli $AFD$, $FPD$, $PED$, $EAD$ sono rispettivamente $10$, $7$, $5$ e $13$. Trova < MSK18/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$ e $AB$. I cevi $BE$ e $CF$ si intersecano al punto $P$. Le superfici dei triangoli $AFD$, $FPD$, $PED$, $EAD$ sono rispettivamente $10$, $7$, $5$ e $13$. Trova $\dfrac{BD}{DC}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{5}{6}
 [[src_jjmo23yqa_yosen__Q07]]

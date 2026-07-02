@@ -58,7 +58,7 @@ tags:
 
 > Per un intero positivo $n$, $S(n)$ indichi la somma di tutti gli enti da $1$ a $n$ il cui più grande divisore comune con $n$ è $1$.
 > 
-> (1) Trova < MSK0/>. (Non è necessaria alcuna prova).
+> (1) Trova $S(30)$. (Non è necessaria alcuna prova).
 > 
 > (2) Trova tutti gli integri positivi $n$ in modo tale che $S(n)$ sia primo. Qui, un primo è un numero intero maggiore o uguale a $2$ che non ha divisori positivi diversi da $1$ e se stesso, e non è uguale a $1$.
 

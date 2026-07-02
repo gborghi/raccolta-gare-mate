@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of opening at least 13 boxes< MSK1/>
+*Probability of opening at least 13 boxes*
 
 > Emilio Largo has captured James Bond and, with sadistic taste, challenges him to a strange roulette. There are thirty-six boxes numbered from $1$ to $36$ and thirty-six balls numbered from $1$ to $36$; Largo randomly inserts a ball into each box. Bond will have to open a box, look at the number of the ball, open the box with that number, and continue. He stops when he finds a ball with the number of a box already open. If he opens less than thirteen boxes, he'll be thrown into the shark tank. James quickly calculates the probability of escape, makes a mocking gesture, and opens the box number $5$. What's the probability he calculated? Answer by writing the first four digits after the resulting comma.
 

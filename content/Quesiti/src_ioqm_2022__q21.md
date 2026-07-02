@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ante sul vertice cubo, si muove al vertice adiacente ogni 10 minuti, viaggi di un'ora di ritorno al punto di partenza< MSK1/>
+*Ante sul vertice cubo, si muove al vertice adiacente ogni 10 minuti, viaggi di un'ora di ritorno al punto di partenza*
 
 > Una formica è al vertice di un cubo. Ogni 10 minuti si sposta verso un vertice adiacente lungo un bordo. Se $N$ è il numero di viaggi di un'ora che terminano al vertice di partenza, trovare la somma dei quadrati delle cifre di $N$.
 

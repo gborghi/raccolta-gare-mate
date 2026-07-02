@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rolle massime ottenute da quantità limitate di ingredienti< MSK1/>
+*Rolle massime ottenute da quantità limitate di ingredienti*
 
 > Per realizzare i rulli $12$ occorre esattamente $100\,\text{g}$ di zucchero, $50\,\text{g}$ di burro, mezzo litro di latte e $400\,\text{g}$ di farina. Il maggior numero di rulli che si possono produrre con $500\,\text{g}$ di zucchero, $300\,\text{g}$ di burro, $4$ di litri di latte e $5$ di chilogrammi di farina è:
 >

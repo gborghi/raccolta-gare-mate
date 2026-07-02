@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo con angoli 60 e 30, trapezio BPQR interno, ritrovare il rapporto di superficie minimo < MSK1/>
+*Triangolo con angoli 60 e 30, trapezio BPQR interno, ritrovare il rapporto di superficie minimo *
 
 > Dato che $\triangle ABC$ con $\angle B = 60^\circ$ e $\angle C = 30^\circ$, $P, Q, R$ devono essere punti sui lati $BA$, $AC$ e $CB$ rispettivamente in modo tale che $BPQR$ sia un trapezio di trapezium con $PQ \parallel BR$ e $BP = QR$. Trova il valore minimo possibile di $\frac{[ABC]}{[BPQR]}$, dove $[S]$ indica l'area di qualsiasi poligono $S$.
 

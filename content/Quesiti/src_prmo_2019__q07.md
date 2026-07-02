@@ -49,7 +49,7 @@ tags:
 
 *Differenza di angolo dell'orologio tra due volte quando le mani sono perpendicolari*
 
-> Su un orologio, ci sono due istanti tra le 12 di mezzogiorno e le 13 di sera, quando la mano dell'ora e la mano del minuto sono ad angolo retto. La differenza di minuti tra questi due istanti è scritta come $a + \frac{b}{c}$, dove $a, b, c$ sono integri positivi, con $b < c$ e $b/c$ nella forma ridotta. Qual è il valore di < MSK4/>?
+> Su un orologio, ci sono due istanti tra le 12 di mezzogiorno e le 13 di sera, quando la mano dell'ora e la mano del minuto sono ad angolo retto. La differenza di minuti tra questi due istanti è scritta come $a + \frac{b}{c}$, dove $a, b, c$ sono integri positivi, con $b < c$ e $b/c$ nella forma ridotta. Qual è il valore di $a + b + c$?
 
 **Risposta:** 51
 [[src_prmo_2019__Q07]]

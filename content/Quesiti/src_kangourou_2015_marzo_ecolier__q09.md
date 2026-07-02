@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many < MSK1/>
+*how many *
 
 ![[src_kangourou_2015_marzo_ecolier__prob9.png]]
 

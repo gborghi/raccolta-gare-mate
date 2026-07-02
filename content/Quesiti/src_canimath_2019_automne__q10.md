@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di calzini disegnati per garantire due colori diversi da 6 blu e 6 rossi< MSK1/>
+*Minimum di calzini disegnati per garantire due colori diversi da 6 blu e 6 rossi*
 
 > Ho calzini di due colori diversi: 6 calzini blu e 6 calzini rossi. Ho disegnato diversi calzini a caso dal cassetto. Quante calzini devo disegnare, come minimo, per essere sicuro di avere due calzini di colori diversi?
 

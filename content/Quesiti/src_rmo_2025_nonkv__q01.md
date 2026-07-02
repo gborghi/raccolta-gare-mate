@@ -63,7 +63,7 @@ tags:
 
 > (a) Il $n \ge 3$ deve essere un numero intero. Trova una configurazione di linee $n$ nel piano che ha esattamente
 > 
-> - i) < MSK0/> punti di intersezione distinti;
+> - i) $n-1$ punti di intersezione distinti;
 > 
 > (ii) $n$ punti di intersezione distinti.
 > 

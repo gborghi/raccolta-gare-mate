@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Intersezioni di accordi in cerchio: dimostrazione della parità del prodotto DM·KE = DN·KF< MSK1/>
+*Intersezioni di accordi in cerchio: prova l'eguaglianza del prodotto DM·KE = DN·KF*
 
-> $\odot I$ sia l'incircolo di $\triangle ABC$. Il cerchio $\odot I$ incrocia i lati $AB$, $BC$ e $CA$ rispettivamente nei punti $D$, $E$ e $F$. La linea $EF$ incrocia le linee $AB$, $BI$ e $DI$ rispettivamente ai punti $M$, $N$ e $K$. Prova che < MSK16/>. (Posizionato da Zhang Pengcheng)
+> $\odot I$ sia l'incircolo di $\triangle ABC$. Il cerchio $\odot I$ incrocia i lati $AB$, $BC$ e $CA$ rispettivamente nei punti $D$, $E$ e $F$. La linea $EF$ incrocia le linee $AB$, $BI$ e $DI$ rispettivamente ai punti $M$, $N$ e $K$. Prova che $DM \cdot KE = DN \cdot KF$. (Posizionato da Zhang Pengcheng)
 
 ![[src_cn_csmo_b11_w301__Q02.png]]
 

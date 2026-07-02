@@ -42,12 +42,6 @@ tags:
 > vale (in cm2) l’area della superficie totale dell’ottavo?  Potete avvalervi 
 > della seguente informazione aggiuntiva: la misura del lato del cubo è un 
 > numero intero di centimetri.  
->  
->                                                                                                                        
->  
-> 
->  
->  
 > Kangourou della Matematica 2012 
 > Coppa a squadre Kangourou - finale 
 > Mirabilandia,  6  maggio  2012 

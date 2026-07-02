@@ -50,7 +50,7 @@ tags:
 
 *Minimum elements of subset A with ratios not exceeding 2*
 
-> Andrea constructs a set of 24 elements selected from the natural integers such that, whenever there are two numbers in MSK1/, there are also all natural numbers between MSK4/ and MSK5/. In the construction of $S$ some numbers can be repeated. Bruno chooses a subset $A$ of $S$ with the property that, however two elements of $A$ are chosen, their ratio does not exceed 2. Andrea wants to build $S$ so as to minimize the number of elements of the $A$ set that Bruno can choose. What's this number? Appropriately justify the answer.
+> Andrea constructs a set of 24 elements selected from the natural integers such that, whenever there are two numbers in$S$, there are also all natural numbers between$n$and$m$. In the construction of $S$ some numbers can be repeated. Bruno chooses a subset $A$ of $S$ with the property that, however two elements of $A$ are chosen, their ratio does not exceed 2. Andrea wants to build $S$ so as to minimize the number of elements of the $A$ set that Bruno can choose. What's this number? Appropriately justify the answer.
 
 **Answer:** 8
 [[src_kangourou_2011_student_finale__QS6]]

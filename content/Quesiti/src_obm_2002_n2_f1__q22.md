@@ -61,11 +61,11 @@ tags:
 
 > Durante un viaggio nel paese delle meraviglie, Alice ha sperimentato i seguenti quattro cambiamenti in successione: prima, è diventata $25\%$ più alta; successivamente, è diventata $10\%$ più corta; poi è diventata $10\%$ più alta; infine, è diventata $25\%$ più corta. Dopo i quattro cambiamenti, possiamo dire che Alice:
 >
-> - **(A)** era più alto di < MSK0/>.
-> - **(B)** era più alto di < MSK0/>.
-> - **(C)** è stato < MSK0/> più breve.
-> - **(D)** è stato < MSK0/> più breve.
-> - **(E)** era più alto di < MSK0/>.
+> - **(A)** era più alto di $1\%$.
+> - **(B)** era più alto di $1\%$.
+> - **(C)** è stato $1\%$ più breve.
+> - **(D)** è stato $5\%$ più breve.
+> - **(E)** era più alto di $5\%$.
 
 **Risposta:** C
 [[src_obm_2002_n2_f1__Q22]]

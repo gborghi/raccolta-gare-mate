@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which circle is blacker than white< MSK1/>
+*Which circle is blacker than white*
 
 ![[src_kangourou_2007_cadet_marzo__prob6.png]]
 

@@ -45,7 +45,7 @@ tags:
 
 *Maximum area of a square of sides 1,4,7,8*
 
-> The sides of a quadrilateral measure < MSK0/>. What's your maximum area?
+> The sides of a quadrilateral measure $1, 4, 7, 8$. What's your maximum area?
 
 **Answer:** 18
 [[src_kangourou_2018_student_finale__Q01]]

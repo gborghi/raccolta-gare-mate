@@ -59,7 +59,7 @@ tags:
 
 *Minimum di minuti per un serratore per formare una catena a 30 collegamenti da dieci pezzi a 3 collegamenti*
 
-> Un serratore ha $10$ pezzi di $3$ collegamenti di catena ciascuno, mostrati di seguito. Vuole fare una singola catena di collegamenti MSK2/. Per aprire e poi saldare un collegamento, il serratore richiede < MSK3/> minuti. Quanti minuti almeno ci vorrà per fare questa catena?
+> Un serratore ha $10$ pezzi di $3$ collegamenti di catena ciascuno, mostrati di seguito. Vuole fare una singola catena di collegamenti$30$. Per aprire e poi saldare un collegamento, il serratore richiede $5$ minuti. Quanti minuti almeno ci vorrà per fare questa catena?
 > 
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 

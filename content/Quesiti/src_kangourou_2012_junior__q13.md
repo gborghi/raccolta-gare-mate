@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many centimetres and height of the table< MSK1/>
+*How many centimetres and height of the table*
 
 > There's a table in Andrea and Michele's room. If Andrea stands on the table and Michele stands on the floor, it's as if Andrea is 80 cm taller than Michele. If you change positions, it's as if Michele is 90 cm taller than Andrea. How tall is the table? A) 10 B) 75 C) 80 D) 85 E) 90
 

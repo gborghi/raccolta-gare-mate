@@ -55,8 +55,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*100 reales su un cerchio, ogni ≤ somma di due vicini; numero massimo di quelli strettamente positivi*
+*100 reales su un cerchio, ogni ≤ somma di due vicini; numero massimo di quelli strettamente positivi *
 
-> Un centinaio di numeri reali sono posizionati intorno a un cerchio, in modo che ogni numero sia al massimo uguale alla somma dei suoi due vicini (andando in senso orario). Determinare il numero massimo di numeri reali rigorosamente positivi che possono apparire su questo cerchio.
+> Un centinaio di numeri reali sono posizionati attorno a un cerchio, in modo che ogni numero sia al massimo uguale alla somma dei suoi due vicini (andando in senso orario). Determinare il numero massimo di numeri reali rigorosamente positivi che possono apparire su questo cerchio.
 
 [[src_canimath_2024_automne__Q14]]

@@ -39,6 +39,6 @@ tags:
 
 Question No 16 of the Committee on Budgets
 
-> Either $ABC$ a rectangular triangle in $A$, with $AB > AC$; or $AH$ the height relative to the hypotenuse. On the $BC$ straight $D$ shall be taken such that $H$ is the mean point of $BD$; and then $E$ the foot of the perpendicular led from $C$ to $AD$. Show that < MSK11/>.
+> Either $ABC$ a rectangular triangle in $A$, with $AB > AC$; or $AH$ the height relative to the hypotenuse. On the $BC$ straight $D$ shall be taken such that $H$ is the mean point of $BD$; and then $E$ the foot of the perpendicular led from $C$ to $AD$. Show that $EH = AH$.
 
 [[src_febbraio_2005__Q16]]

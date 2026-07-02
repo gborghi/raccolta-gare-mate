@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number of thieves< MSK1/>
+*number of thieves*
 
 > There are two kinds of people living on an island: knights who always tell the truth and cunning people who always lie. During a birthday party, attended by 450 people, each of the attendees states: All those who are at the party, besides me, are thieves. How many crooks are at the party?
 >

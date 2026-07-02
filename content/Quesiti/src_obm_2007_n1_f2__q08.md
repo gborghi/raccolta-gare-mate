@@ -62,7 +62,7 @@ tags:
 
 Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
 
-> Esmeralda ha masse di < MSK0/> e < MSK1/> (una di ciascuna). Combinando uno o più di essi, può aggiungere $1,2,4,\dots$ ottenendo tutti i pesi da $1$ fino al totale $1+2+3+4+5+6=21$. Determinare quanti pesi totali (masse) Esmeralda può ottenere (può ottenere $21$ diverse masse).
+> Esmeralda ha masse di $1,2,3,4,5$ e $6$ (una di ciascuna). Combinando uno o più di essi, può aggiungere $1,2,4,\dots$ ottenendo tutti i pesi da $1$ fino al totale $1+2+3+4+5+6=21$. Determinare quanti pesi totali (masse) Esmeralda può ottenere (può ottenere $21$ diverse masse).
 
 **Risposta:** 21
 [[src_obm_2007_n1_f2__Q08]]

@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Facce di morte tetraedrale 1-4 incollate; che somma di facce visibili è impossibile< MSK1/>
+*Facce di morte tetraedrale 1-4 incollate; che somma di facce visibili è impossibile*
 
 > Un dado speciale ha facce triangolari equilaterali, numerate da $1$ a $4$, come nel disegno. Collegando due dadi, facciamo coincidere due volti, con lo stesso numero o meno. Quale dei seguenti numeri non può essere la somma dei volti visibili?
 >

@@ -51,9 +51,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La malattia del serbatoio uccide i pesci gialli; ritrovare la percentuale di mortalità< MSK1/>
+*La malattia del serbatoio uccide i pesci gialli; ritrovare la percentuale di mortalità*
 
-> In una vasca di pesce ci sono 100 pesci: 90 gialli e 10 rossi. Una misteriosa malattia uccise molti pesci gialli, ma nessun rosso. Dopo che la malattia è stata controllata, è stato verificato che nel serbatoio < MSK0/> i pesci erano gialli. Circa quale percentuale dei pesci gialli morì?
+> In una vasca di pesce ci sono 100 pesci: 90 gialli e 10 rossi. Una misteriosa malattia uccise molti pesci gialli, ma nessun rosso. Dopo che la malattia è stata controllata, è stato verificato che nel serbatoio $75\%$ i pesci erano gialli. Circa quale percentuale dei pesci gialli morì?
 > 
 > A) 15\% \quad B) 37\% \quad C) 50\% \quad D) 67\% \quad E) 84\%
 

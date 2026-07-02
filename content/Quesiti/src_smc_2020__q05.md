@@ -54,7 +54,7 @@ tags:
 
 *Ricerca la radice quadrata di 123454321*
 
-> Che cos' è < MSK0/>?
+> Che cos' è $\sqrt{123454321}$?
 >
 > - **(A)** $1111111$
 > - **(B)** $111111$

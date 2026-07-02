@@ -73,7 +73,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Order of shots rotating around the shell< MSK1/>
+*Order of shots rotating around the shell*
 
 ![[src_kangourou_2008_benjamin_marzo__prob27.png]]
 

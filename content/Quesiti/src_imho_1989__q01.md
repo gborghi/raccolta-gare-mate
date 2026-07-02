@@ -60,6 +60,6 @@ Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 > 
 > (i) Each $A_i$ contains 17 elements;
 > 
-> (ii) The sum of all the elements in each < MSK0/> is the same.
+> (ii) The sum of all the elements in each $A_i$ is the same.
 
 [[src_imho_1989__Q01]]

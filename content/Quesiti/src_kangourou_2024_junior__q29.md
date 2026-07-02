@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little number of lines with assigned intersections< MSK1/>
+*Little number of lines with assigned intersections*
 
 > We know that there are different lines in the plane and that one of them intersects exactly five lines, another one intersects exactly nine lines, and a third one intersects exactly 11. Which of the following is the smallest possible value for n ? A) 11
 > 	

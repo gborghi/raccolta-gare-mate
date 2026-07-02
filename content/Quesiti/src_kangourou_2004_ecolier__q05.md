@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many paint squares (black to white) < MSK1/>
+*How many paint squares (black to white) *
 
 ![[src_kangourou_2004_ecolier__prob5.png]]
 

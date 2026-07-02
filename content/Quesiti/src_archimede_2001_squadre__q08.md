@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>decimal digits after 2001 moves< MSK1/>
+*decimal digits after 2001 moves*
 
 > I mean, games... 1 2 3** (25 points)
 > 

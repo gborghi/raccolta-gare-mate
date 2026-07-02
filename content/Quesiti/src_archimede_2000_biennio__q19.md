@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tetrahedron CD length of beam given the beams< MSK1/>
+*Tetrahedron CD length of beam given the beams*
 
 > In the tomb of Pharaoh Tetrankamon, an emerald, shaped like a tetrahedron (a triangular-based pyramid) was found whose shoots measure in millimeters (54, 32, 29, 27, 20). When you point with A, B, C, D to the vertices of the tetrahedron and you know AB is 54, how many millimeters is CD?
 >

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quattro vertici scelti tra i nove goni regolari contengono quattro che formano un trapezio< MSK1/>
+*Quattro vertici scelti tra i nove goni regolari contengono quattro che formano un trapezio*
 
 > Supponiamo che cinque dei nove vertici di un poligono regolare a nove lati siano scelti arbitrariamente. Mostrate che si possono scegliere quattro tra questi cinque in modo tale che siano i vertici di un trapezio.
 

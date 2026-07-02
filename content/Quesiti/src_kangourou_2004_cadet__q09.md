@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most frequent day in second year< MSK1/>
+*Most frequent day in second year*
 
 > For the first of two consecutive non-bi-season years, there were more Thursdays than Tuesdays. Which of the following days of the week was more frequent in the second year? (a) Tuesdays (b) Wednesdays (c) Fridays (d) Saturdays (e) Sundays
 

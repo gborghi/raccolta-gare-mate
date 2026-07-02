@@ -48,21 +48,6 @@ tags:
 > D) 17	
 > 	
 > E) 24
-> a a a
-> a a a
-> a a a
-> 6
-> 7
-> ?
-> 9
-> 8
-> 5
-> 115 cm
-> 75 cm
-> P 4 5   + 
->           Q R S  =
->             6  5  4
-> 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
@@ -85,8 +70,7 @@ tags:
 > 	
 > C) 16 D) 17
 > 	
-> E) 24 a a a a a a a a a 6 7 ? 9 8 5 115 cm 75 cm P 4 5   + Q R S  = 6  5  4
->
+> E) 24
 
 **Answer:** B
 [[src_kangourou_2018_junior_marzo__Q06]]

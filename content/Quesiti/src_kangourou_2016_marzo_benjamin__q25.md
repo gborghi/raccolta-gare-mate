@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min to be added< MSK1/>
+*min to be added*
 
 ![[src_kangourou_2016_marzo_benjamin__prob25.png]]
 

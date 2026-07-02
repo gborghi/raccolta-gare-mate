@@ -42,28 +42,12 @@ tags:
 > 
 > 
 > 
-> +
-> +
-> +
-> +
-> +
-> +
 > 
 > 
 > 
 > 
 > 
 > 
-> +
-> +
-> +
-> +
-> +
-> +
-> +
-> +
-> +
-> +
 > 670
 > 1
 > 669
@@ -102,7 +86,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Result sum with fractions in two brackets< MSK1/>
+*Result sum with fractions in two brackets*
 
 > What is the result of the following sum?
 >  

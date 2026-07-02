@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Multiple of 11 closer to 1000< MSK1/>
+*Multiple of 11 closer to 1000*
 
 > *(5 points) * What is the multiple of 11 closest to 1000?
 

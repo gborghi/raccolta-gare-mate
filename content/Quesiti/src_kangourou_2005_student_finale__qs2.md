@@ -43,9 +43,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of development coefficients of (2x-y+z) ^8< MSK1/>
+*Sum of development coefficients of (2x-y+z) ^8*
 
-> What is the algebraic sum of all the coefficients (each with its own sign) of < MSK0/> development?
+> What is the algebraic sum of all the coefficients (each with its own sign) of $(2x - y + z)^8$ development?
 
 **Answer:** 256
 [[src_kangourou_2005_student_finale__QS2]]

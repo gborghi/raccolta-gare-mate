@@ -69,7 +69,7 @@ tags:
 > 
 > b) Sapendo che $BC = 2$, calcolare la lunghezza del segmento $DC$.
 > 
-> c) Calcolare la lunghezza del segmento < MSK0/>.
+> c) Calcolare la lunghezza del segmento $AC$.
 
 ![[src_obm_2004_n2_f3__Q01.png]]
 

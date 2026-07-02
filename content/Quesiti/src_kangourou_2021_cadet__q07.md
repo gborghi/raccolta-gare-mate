@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True claim on chain heights< MSK1/>
+*True claim on chain heights*
 
 > Bianca is 5 cm taller than Ada, but 10 cm shorter than Carla. Diana is 10 cm taller than Carla but 5 cm shorter than Enza. Which of the following statements is true? A) Bianca is 30 cm shorter than Enza. B) Enza is 15 cm taller than Diana. C) Carla is 20 cm shorter than Enza. D) Diana is 20 cm taller than Ada. E) Ada is 30 cm shorter than Enza.
 

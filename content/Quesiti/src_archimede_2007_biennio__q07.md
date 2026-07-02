@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Enhanced area by increasing base by 20% and height by 50%< MSK1/>
+*Enhanced area by increasing base by 20% and height by 50%*
 
 > By increasing the base of a rectangle by 20% and its height by 50%, how much does it increase its area?
 >

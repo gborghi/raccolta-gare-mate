@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Triangles with vertices on the cube not on any face< MSK1/>
+*Triangles with vertices on the cube not on any face*
 
 > Given a cube $C$, how many triangles have three vertices of $C$ for vertices and do not lie on any of the faces of $C$?
 > 

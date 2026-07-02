@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What is the development of the cube (opposite colour faces) < MSK1/>
+*What is the development of the cube (opposite colour faces) *
 
 ![[src_kangourou_2004_ecolier__prob6.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>A sum of 100 can be obtained on the visible faces of the dice< MSK1/>
+*A sum of 100 can be obtained on the visible faces of the dice*
 
 ![[src_kangourou_2012_ecolier_finale__probE6.png]]
 

@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Ricerca il limite di n volte la probabilità che due dei sei pedoni posizionati in modo casuale condividano una riga o una colonna.*
+*Trova il limite di n volte la probabilità che due dei sei pedoni posizionati in modo casuale condividano una riga o una colonna.*
 
-> Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. La probabilità che almeno due dei pedoni si trovino nella stessa riga o colonna è $p_n$. Trova < MSK2/>.
+> Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. La probabilità che almeno due dei pedoni si trovino nella stessa riga o colonna è $p_n$. Trova $\displaystyle\lim_{n\to\infty} n p_n$.
 
 [[src_pol_1993_r1__Q11]]

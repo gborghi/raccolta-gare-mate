@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distribution of 3 pairs of siblings next to each other< MSK1/>
+*Distribution of 3 pairs of siblings next to each other*
 
 > Three pairs of brothers sit on a bench. Everyone wants to be by their brother's side. How many ways can they go from left to right?
 >

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many houses between Gino and Silvia< MSK1/>
+*How many houses between Gino and Silvia*
 
 ![[src_kangourou_2009_ecolier_marzo__prob19.png]]
 

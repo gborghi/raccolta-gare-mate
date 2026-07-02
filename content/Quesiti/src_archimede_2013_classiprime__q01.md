@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>MK unit numbers of 2^255 and 2^256 < MSK1/>
+*MK unit numbers of 2^255 and 2^256 *
 
 > So a is 2255 and b is 2256. What is the number of units of the common multiple of a and b? A 0 B 2 C 4 D 8 E 5 F 6
 

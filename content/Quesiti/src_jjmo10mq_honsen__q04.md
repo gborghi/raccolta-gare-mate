@@ -50,6 +50,6 @@ tags:
 
 *Triangolo isosceles, costruzione circumcentrale; prova angolo PMQ = 90°*
 
-> Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $\angle BAC = 30^\circ$. Il punto $X$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Per il segmento $BX$, prendere il punto $P$ in modo che $AP = BP$; per il segmento $CX$, prendere il punto $Q$ in modo che $AQ = CQ$. Il $M$ deve essere il punto medio di $BC$. Prove che < MSK13/>.
+> Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $\angle BAC = 30^\circ$. Il punto $X$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Per il segmento $BX$, prendere il punto $P$ in modo che $AP = BP$; per il segmento $CX$, prendere il punto $Q$ in modo che $AQ = CQ$. Il $M$ deve essere il punto medio di $BC$. Prove che $\angle PMQ = 90^\circ$.
 
 [[src_jjmo10mq_honsen__Q04]]

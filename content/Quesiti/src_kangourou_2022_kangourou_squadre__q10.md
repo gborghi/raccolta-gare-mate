@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes of Bruno between three speeds< MSK1/>
+*Minutes of Bruno between three speeds*
 
 > Three friends, Ada is riding her bike, Bruno is running, Carla is walking. Ada's speed is twice that of Bruno who, in turn, is twice that of Carla. If they leave together to make the same journey and Carla arrives an hour after Ada, how many minutes does it take Bruno to cover the entire journey?
 

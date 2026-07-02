@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>There is polyhedron with each triangular flat section< MSK1/>
+*There is polyhedron with each triangular flat section*
 
 > Mark claims to have managed to build a polyhedron (not degenerate) such that each of its flat sections is a triangle (eventually degenerate). Can we believe him?
 

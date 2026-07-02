@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Telescopic sum with odd products< MSK1/>
+*Telescopic sum with odd products*
 
 > For every positive integer n, we call f (n) the product of all odd natural numbers less than or equal to 2n + 1 (e.g. f) = 1 · 3 · 5 · 7 · 9). Then we put g (n) = n f (n). What can be said of the sum S = g(1) + g(2) + · · + g(30)?
 >

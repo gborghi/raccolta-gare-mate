@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Mare con facce opposte che sommano a 7, direzione della faccia 1 dopo i movimenti< MSK1/>
+*Mare con facce opposte che sommano a 7, direzione della faccia 1 dopo i movimenti*
 
 > Il disegno seguente mostra un dado comune la cui somma dei punti su facce opposte è sempre uguale a $7$. Si colloca su un tavolo orizzontale con la faccia ``1' rivolta verso est. Il dado viene poi spostato quattro volte. Un movimento consiste in una rotazione di $90^\circ$ rispetto a un bordo. Dopo il primo movimento il volto in contatto con il tavolo diventa ``1', poi ``2', poi ``3' e, infine, il volto ``5'. In quale direzione è girato il volto ``1' dopo questa sequenza di movimenti?
 > 

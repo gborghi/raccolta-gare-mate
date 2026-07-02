@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number closest to 17x0,3x20,16/999< MSK1/>
+*Number closest to 17x0,3x20,16/999*
 
 > In two of them is inscribed a circle. What is the distance between the two circumferences? A) 2 √ 2 – 1 B) 2 √ 2 + 1 C) 2 √ 2 D) 2
 > 	

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Speed of the frame from the line with the pole and the Andrea< MSK1/>
+*Speed of the frame from the line with the pole and the Andrea*
 
 > Andrea follows a straight road at a constant speed of 6 km/h; Marco follows a parallel road at a constant speed to Andrea's, 12 m away from it, in the opposite direction. Between the two streets there is a pole that is 3 meters from the road on which Andrea is. Knowing that at every moment the pole is aligned with the positions of Andrew and Mark, at what speed is Mark moving?
 >

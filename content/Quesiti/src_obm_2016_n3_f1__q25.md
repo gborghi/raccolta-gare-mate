@@ -59,7 +59,7 @@ tags:
 
 *Ratio CO/CD dove O è il centro del triangolo ABD, con angolo retto a B e angolo di 60 gradi a C*
 
-> $O$ è il centro circundante del triangolo $ABD$, con un angolo retto segnato a $B$ e un angolo $60^\circ$ a $C$ (figura). Dal momento che $O$ è il centro circoncentrale del triangolo $ABD$, $m(\widehat{BOD})=120^\circ$, quindi il quadrilaterale $BCDO$ è ciclico. Poi < MSK9/> e < MSK10/>. Nel triangolo rettangolo $DOC$, il rapporto richiesto è $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Trova < MSK13/>. [Valore della chiave di risposta: $\frac{\sqrt3}{2}$.]
+> $O$ è il centro circundante del triangolo $ABD$, con un angolo retto segnato a $B$ e un angolo $60^\circ$ a $C$ (figura). Dal momento che $O$ è il circoncentro del triangolo $ABD$, $m(\widehat{BOD})=120^\circ$, quindi il quadrilaterale $BCDO$ è ciclico. Poi $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ e $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. Nel triangolo rettangolo $DOC$, il rapporto richiesto è $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Trova $\frac{CO}{CD}$. [Valore della chiave di risposta: $\frac{\sqrt3}{2}$.]
 
 ![[src_obm_2016_n3_f1__Q25.png]]
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many ways< MSK1/>
+*how many ways*
 
 > Stefano has four models: a truck, a car, a ship and a train. He wants to line them up so that both the ship and the train come after the car. How many different ways can you align your toys? A) 4
 > 	

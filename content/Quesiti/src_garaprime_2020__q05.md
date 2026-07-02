@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times do seconds and minutes match< MSK1/>
+*How many times do seconds and minutes match*
 
 > In the 12-hour time interval from 10:00:05 to 22:00:05 how many times does a clock's second and minute hands point in the same direction? A 708 B 720 C 719 D 660 E 600 F 590
 

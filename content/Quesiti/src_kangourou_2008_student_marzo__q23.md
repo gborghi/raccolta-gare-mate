@@ -90,7 +90,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of product figures (asterisked multiplication) < MSK1/>
+*Sum of product figures (asterisked multiplication) *
 
 ![[src_kangourou_2008_student_marzo__prob23.png]]
 

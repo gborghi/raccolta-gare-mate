@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What square appears multiple times in the strip< MSK1/>
+*What square appears multiple times in the strip*
 
 ![[src_kangourou_2013_preecolier__prob11.png]]
 

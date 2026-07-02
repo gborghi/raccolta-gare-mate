@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tops eaten by 15 cats in 15 hours< MSK1/>
+*Tops eaten by 15 cats in 15 hours*
 
 > A cat and a half eats a mouse and a half in an hour and a half. How many mice can 15 cats eat in 15 hours?
 >  

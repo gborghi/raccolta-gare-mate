@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i modi per pianificare i giorni di riposo senza tre giorni di formazione consecutivi< MSK1/>
+*Contare i modi per pianificare i giorni di riposo senza tre giorni di formazione consecutivi*
 
 > Un giocatore di tennis ha 30 giorni per prepararsi a un torneo. Se si allenano 3 giorni consecutivi, i giorni successivi soffre di stanchezza muscolare. Decide che durante quei 30 giorni si allenerà esattamente 20 giorni, non si allenerà mai per 3 giorni consecutivi, e riposa i restanti 10 giorni. In quanti modi diversi può scegliere i 10 giorni di riposo?
 

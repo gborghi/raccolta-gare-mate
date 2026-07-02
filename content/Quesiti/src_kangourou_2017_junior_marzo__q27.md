@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most odd numbers in the sum pyramid< MSK1/>
+*Most odd numbers in the sum pyramid*
 
 ![[src_kangourou_2017_junior_marzo__prob27.png]]
 

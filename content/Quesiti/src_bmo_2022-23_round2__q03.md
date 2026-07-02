@@ -57,7 +57,7 @@ tags:
 
 *Contare n-liste ideali in cui le medie correnti sono interi*
 
-> Per un intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è un $n$-lista se ogni $a_k$ è un intero nell'intervallo $1 \le a_k \le n$. Per ciascuna < MSK6/> < MSK0/>. Diciamo che una lista $n$ $A$ è ideale se $M_k$ è un intero per ogni $k = 1, 2, \ldots, n-1$.
+> Per un intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è un $n$-lista se ogni $a_k$ è un intero nell'intervallo $1 \le a_k \le n$. Per ciascuna $k = 1, 2, \ldots, n-1$ $$M_k = \frac{a_1 + a_2 + \cdots + a_k}{k}$$. Diciamo che una lista $n$ $A$ è ideale se $M_k$ è un intero per ogni $k = 1, 2, \ldots, n-1$.
 > 
 > Trova il numero delle liste $n$ ideali.
 

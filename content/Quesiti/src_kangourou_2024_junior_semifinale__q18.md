@@ -45,9 +45,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of seeds with the same colour probability 13/24< MSK1/>
+*Minimum number of seeds with the same colour probability 13/24*
 
-> In a bag there are some green and some red balls. The probability that they are both of the same colour is < MSK0/>. How many eggs can there be in the bag at least?
+> In a bag there are some green and some red balls. The probability that they are both of the same colour is $\dfrac{13}{24}$. How many eggs can there be in the bag at least?
 
 **Answer:** 0016
 [[src_kangourou_2024_junior_semifinale__Q18]]

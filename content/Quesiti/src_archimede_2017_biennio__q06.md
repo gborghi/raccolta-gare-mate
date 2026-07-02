@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>last remaining< MSK1/>
+*last remaining*
 
 > Mark writes in a row the integers from 1 to 64 (included). Then you start deleting some of them, like this: delete the number 1, leave the 2, delete the 3, leave the 4, etc. At the bottom of the line, it goes backwards, deleting the first number it finds among the remaining ones, leaving the second, etc. He then continues to cross the line alternately in both directions, deleting each time a yes number and a no number, until only one number remains on the board. What's the last number left?
 >

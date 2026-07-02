@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>last position boy< MSK1/>
+*last position boy*
 
 > Five girls and four boys took part in a competition where there were no positions of equal merit. The first place in the ranking is taken by a girl; by adding the numbers of the girls' positions you get twice the sum of the numbers of the boys' positions. What position did the last of the boys rank in?
 

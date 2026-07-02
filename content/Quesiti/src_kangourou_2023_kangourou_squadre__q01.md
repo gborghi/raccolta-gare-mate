@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>People with three candies of the same taste< MSK1/>
+*People with three candies of the same taste*
 
 > Candies In a certain group of people, each person has three candies that can be exclusively lemon or orange. 90 people have at least two lemon candies, 45 have at least two orange candies, 34 have two candies of different taste. How many people have three candies of the same taste?
 

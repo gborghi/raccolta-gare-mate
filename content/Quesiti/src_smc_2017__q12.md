@@ -62,7 +62,7 @@ tags:
 
 > Il diagramma mostra un quadrato e un decagono regolare che condividono un bordo. Un lato del quadrato è esteso per incontrare un bordo esteso del decagono.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $x$?
 >
 > - **(A)** $15$
 > - **(B)** $18$

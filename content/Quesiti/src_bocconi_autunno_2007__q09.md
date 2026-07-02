@@ -53,7 +53,7 @@ tags:
 
 *Figures owned by Nando on Monday before the first 3*
 
-> Nando loves playing with his friends. He won three on Monday. He won another MSK on Tuesday. On Wednesday, he won another MSK1/. And so on and so forth: every day of the week he wins more, three times as many as he had won the day before. So, on Saturday, he still wins $3 \times 3 \times 3 \times 3 \times 3$, coming up to 2008 figures. How many figures did he have on Monday before he won his first three figures?
+> Nando loves playing with his friends. He won three on Monday. He won another MSK on Tuesday. On Wednesday, he won another$3 \times 3 \times 3$. And so on and so forth: every day of the week he wins more, three times as many as he had won the day before. So, on Saturday, he still wins $3 \times 3 \times 3 \times 3 \times 3$, coming up to 2008 figures. How many figures did he have on Monday before he won his first three figures?
 
 **Answer:** 916
 [[src_bocconi_autunno_2007__Q09]]

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What box is obtained from cutting< MSK1/>
+*What box is obtained from cutting*
 
 ![[src_kangourou_2003_ecolier__prob19.png]]
 

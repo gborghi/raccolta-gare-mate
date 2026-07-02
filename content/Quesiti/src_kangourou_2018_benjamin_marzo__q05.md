@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What day is the 25th of the month< MSK1/>
+*What day is the 25th of the month*
 
 ![[src_kangourou_2018_benjamin_marzo__prob5.png]]
 

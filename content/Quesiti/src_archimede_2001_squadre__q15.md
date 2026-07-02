@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum base area< MSK1/>
+*maximum base area*
 
 > This is the total amount of the contribution from the Union to the programme.
 > 

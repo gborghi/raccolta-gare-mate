@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of infection by meeting six pairs< MSK1/>
+*Probability of infection by meeting six pairs*
 
 > 19. A walk by Giuseppe Rosolini Domenico LAdenovirus1554 (A1554) has a strange behavior: meeting an A1554 sick person is not a risk of infection; meeting a couple of A1554 sick people is a 50% risk of infection. Daniel I just arrived in Milan and took a stroll on the Naviles: I met exactly six couples of people. What's the probability that I got the A1554? Well, you take it pretty easily: here, 1 in 2 people is sick with A1554. Daniel, are you saying there's a 50% chance that you're sick? Dominic Yes! What are, in order, the first four digits after the comma of the probability that Daniel contracted adenovirus1554 while walking on the ships?
 

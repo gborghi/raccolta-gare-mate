@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pieces of tape after cutting< MSK1/>
+*How many pieces of tape after cutting*
 
 ![[src_kangourou_2021_preecolier_koala__prob9.png]]
 

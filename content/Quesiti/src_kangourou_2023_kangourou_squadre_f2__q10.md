@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum side intersections 3 red 5 blue< MSK1/>
+*Maximum side intersections 3 red 5 blue*
 
 > Angela's job at intersections is to draw three red triangles and five blue triangles on a sheet of paper. The number N of intersection points between different coloured sides must be finite. What is the maximum possible value of N?
 

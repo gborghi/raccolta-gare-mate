@@ -59,6 +59,6 @@ Question with multiple answers February 2005 No.2
 > 
 > **(D)** $a \leq \dfrac{1}{3}$, $b \leq \dfrac{1}{3}$, $c \leq \dfrac{1}{3}$
 > 
-> < MSK0/>(E) < MSK1/> none of the above.
+> **(E) ** none of the above.
 
 [[src_febbraio_2005__Q02]]

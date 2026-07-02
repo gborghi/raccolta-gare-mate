@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many days has the cat been very hungry< MSK1/>
+*How many days has the cat been very hungry*
 
 > On a normal day, the cat Lilli eats five mice; if it is very hungry, it eats 10. In the last nine days, he's eaten a total of 60 mice. How many days have you been very hungry? A) 1
 > 	

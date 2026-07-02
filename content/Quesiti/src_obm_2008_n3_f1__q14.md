@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Probabilità Bernaldo non ha picche dato che Arnaldo non ne ha< MSK1/>
+*Probabilità Bernaldo non ha picche dato che Arnaldo non ne ha*
 
 > Arnaldo, Bernaldo, Cernaldo e Dernaldo mescolano le carte $52$ di un mazzo e distribuiscono le carte $13$ a ciascuna. Arnaldo, sorpreso, dice: "Cos'è strano, non ho una carta di spade". Qual è la probabilità che anche Bernaldo non abbia una carta di spade?
 > 

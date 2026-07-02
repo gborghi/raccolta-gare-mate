@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The red and green sides of the octagon have the same sum< MSK1/>
+*The red and green sides of the octagon have the same sum*
 
 ![[src_kangourou_2022_junior_finale__probJ5.png]]
 

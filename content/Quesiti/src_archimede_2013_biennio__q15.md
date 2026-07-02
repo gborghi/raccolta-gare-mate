@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coefficient of x^199 in (x^2+x+1)^100< MSK1/>
+*Coefficient of x^199 in (x^2+x+1)^100*
 
 > What is the coefficient of x199 in (x2 + x + 1)100?
 >

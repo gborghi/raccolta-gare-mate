@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Otto punti in cubo unitario, circa due a distanza massima 1< MSK1/>
+*Otto punti in cubo unitario, circa due a distanza massima 1*
 
 > Lasciate dare otto punti in un cubo unitario. Prove che due di questi punti sono a distanza non superiore a 1.
 

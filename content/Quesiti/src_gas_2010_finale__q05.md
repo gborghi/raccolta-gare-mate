@@ -62,7 +62,7 @@ tags:
 
 *sum of 4-digit numbers with constraints on sums and even digits*
 
-> Music piracy All MSK0/>-rates love music, but those who are truly purist don't want to pay for it, and they just navigate until they find the opportunity to download it illegally (from captured ships! That you understood!). Jack is on the trail of a shipment of 3-man Pirate Menestrelli and to know where to intercept the ship carrying them he must find all the four-digit numbers such as:
+> Music piracy Allπ-rates love music, but those who are truly purists don't want to pay for it, and they just navigate until they find the opportunity to download it illegally (from captured ships! That you understood!). Jack is on the trail of a shipment of 3-man Pirate Menestrelli and to know where to intercept the ship carrying them he must find all the four-digit numbers such as:
 > 
 > 2/4 Team competition 2010  National Final  Problem texts the sum of the first and third digits is equal to the sum of the second and fourth digits and is equal to 9; there are no two odd numbers nearby; the first digit (i.e. the thousand) is less than the second and fourth. The sum of all the numbers satisfying these requirements represents the loading coordinates. Determine that amount.
 

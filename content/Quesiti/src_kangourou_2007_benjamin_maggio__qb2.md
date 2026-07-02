@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum coins for triangles and squares < MSK1/>
+*Minimum coins for triangles and squares *
 
 ![[src_kangourou_2007_benjamin_maggio__probB2.png]]
 

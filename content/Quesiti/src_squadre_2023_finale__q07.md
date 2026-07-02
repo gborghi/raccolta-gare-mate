@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>GK/AH ratio with centreline and height< MSK1/>
+*GK/AH ratio with centreline and height*
 
 > Gaetana and her wall triangle Maria, Gaetana and Agnese are getting bored at Krull's house and then each of them plant a nail in the wall to have fun... The three nails form an ABC triangle. Gaetana, who loves geometry, takes a nice black pennarello and draws the baricenter G of the triangle on the wall, and later also H, the foot of height relative to A and K the foot of the perpendicular to BC led by G. How much is the GK AH report ? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

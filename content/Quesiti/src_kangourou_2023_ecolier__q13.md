@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> when with 2< MSK1/>
+* when with 2*
 
 > Eight cars are in line at the port to board a ferry. Every car has two or three people. In total, these people are 19. How many cars exactly have two people in them? A) 2
 > 	

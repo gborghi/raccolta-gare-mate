@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>IMPERFECT sets are available< MSK1/>
+*IMPERFECT sets are available*
 
 > *(7 points) * Call a perfect set $A$ of positive integers such that: - it is composed of infinite numbers; - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
 > 

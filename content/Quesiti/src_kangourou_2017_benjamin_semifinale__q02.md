@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of the triangle occupied by the white M< MSK1/>
+*Fraction of the triangle occupied by the white M*
 
 ![[src_kangourou_2017_benjamin_semifinale__prob2.png]]
 

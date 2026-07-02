@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK2/>n < MSK0/>n < MSK1/>n cubo di unità di cubetti: rosso che si diffonde quotidianamente dal vertice; numerazione < MSK3/>
+*n ×n ×n cubo di unità di cubetti: rosso che si diffonde quotidianamente dal vertice; numerazione *
 
 > Un cubo $n \times n \times n$ è formato da cubetti unitari e ha, inizialmente, un cubo unitario rosso ad esattamente uno dei suoi vertici. Ogni giorno a partire dal giorno 2, i cubetti unitari che sono vicini (comparta una faccia) dei cubetti rossi diventano anche rossi e sono numerati con il numero del giorno. Ad esempio, il cubo $2 \times 2 \times 2$: il giorno 1, ha un cubo rosso (numerato 1); il giorno 2, ha quattro cubbi rossi (numerati 1 e tre numerati 2); il giorno 3, ha sette cubbi (uno numerato 1, tre numerati 2, tre numerati 3); il giorno 4, tutti e otto i cubbi sono rossi e numerati. Per rappresentare la numerazione finale possiamo usare le griglie $n$ ciascuna rappresentando uno strato del cubo. Per il cubo $2 \times 2 \times 2$ sopra gli strati sono: $$\begin{array}{|c|c|}\hline 1 & 2 \\ \hline 2 & 3 \\ \hline\end{array} \qquad \begin{array}{|c|c|}\hline 2 & 3 \\ \hline 3 & 4 \\ \hline\end{array}$$
 > 
@@ -75,7 +75,7 @@ tags:
 > 
 > b) In un cubo $10 \times 10 \times 10$, quanti cubetti unitari del lato 1 sono numerati 7? E quanti sono i 13?
 > 
-> c) In un cubo $n \times n \times n$, quale numero appare più spesso nella numerazione dei cubetti unitari? (La risposta può dipendere da < MSK1/>.)
+> c) In un cubo $n \times n \times n$, quale numero appare più spesso nella numerazione dei cubetti unitari? (La risposta può dipendere da $n$.)
 
 ![[src_obm_2018_n1_fx__Q05.png]]
 

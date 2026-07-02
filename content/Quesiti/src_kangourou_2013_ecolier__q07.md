@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Full weight of the broken mirror< MSK1/>
+*Full weight of the broken mirror*
 
 > A rectangular mirror is broken: the figure shows you how it is cracked and where a piece is missing. Which of the following is missing? A) B)
 > 	

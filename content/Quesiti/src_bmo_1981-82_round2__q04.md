@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due punti sulla curva x^n - ay^n = b; area del triangolo legato < MSK1/>
+*Due punti sulla curva x^n - ay^n = b; area del triangolo legato *
 
 > $P_1(x_1, y_1)$, $P_2(x_2, y_2)$ sono due punti della curva $x^n - ay^n = b$ per i quali $x > 0$, $y > 0$. Qui $a$ e $b$ sono costanti positive e $n$ è un intero $> 1$. Prova che se $y_1 < y_2$ e $\Delta$ sono l'area del triangolo $OP_1P_2$, allora $$by_2 > 2ny_1^{n-1} a^{1-\frac{1}{n}} \Delta.$$
 

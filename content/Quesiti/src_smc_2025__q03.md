@@ -59,7 +59,7 @@ tags:
 
 *Evaluare 25^2 - 24^2 - 23^2 + 22^2 utilizzando la differenza di fattorizzazione dei quadrati.*
 
-> Che cos' è < MSK0/>?
+> Che cos' è $25^2 - 24^2 - 23^2 + 22^2$?
 >
 > - **(A)** 0
 > - **(B)** 1

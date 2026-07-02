@@ -57,9 +57,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due tappeti coprono 81 m2 di pavimento; tappeto B area duplice tappeto A; trovare la superficie del pavimento non coperta< MSK1/>
+*Due tappeti coprono 81 m2 di pavimento; tappeto B area duplice tappeto A; trovare la superficie del pavimento non coperta*
 
-> Una stanza quadrata con $81 \text{ m}^2$ di superficie del pavimento ha il pavimento completamente coperto da due tappeti rettangolari A e B, che si sovrappongono come mostrato alla figura (1). In un certo momento, il tappeto B viene scivolato e ruotato < MSK1/>, posizionandolo sopra il tappeto A come indicato nella figura (2).
+> Una stanza quadrata con $81 \text{ m}^2$ di superficie del pavimento ha il pavimento completamente coperto da due tappeti rettangolari A e B, che si sovrappongono come mostrato alla figura (1). In un certo momento, il tappeto B viene scivolato e ruotato $90^\circ$, posizionandolo sopra il tappeto A come indicato nella figura (2).
 > 
 > Sapendo che l'area del tappeto B è doppia dell'area del tappeto A, calcolare l'area (in $\text{m}^2$) della parte del pavimento che è diventata scoperta dopo che il tappeto B è stato spostato.
 

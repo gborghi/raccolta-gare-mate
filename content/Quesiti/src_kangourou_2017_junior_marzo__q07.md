@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of chess successes< MSK1/>
+*Percentage of chess successes*
 
 > Mauro plays chess. He's played 15 games this year, winning nine. Now he's got five more to play. If he won all of them, what would be his success rate this year? A) 60% B) 65% C) 70% D) 75% E) 80%
 

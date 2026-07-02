@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary values of a with a^2+b^2=1885< MSK1/>
+*Summary values of a with a^2+b^2=1885*
 
 > Selection of the rose Quamditch is a sport that combines shot, agility and power of thought and action. For this reason, Hardy, captain of the Quamditch team of the House of Rapporteur, subjects aspiring mathematicians to the following test: while performing a triple capriola carpiata, they must consider all ordered pairs of positive integers (a,b) such that a2 + b2 = 1885. What is the sum of the different values of a?
 

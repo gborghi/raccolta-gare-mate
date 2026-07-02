@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of four minors with product 882< MSK1/>
+*Summary of four minors with product 882*
 
 > Four brothers are all minors and of different ages. The product of four ages is 882. What's their sum? A) 23
 > 	

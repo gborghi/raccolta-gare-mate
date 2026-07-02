@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>9000th integer other than squared < MSK1/>
+*9000th integer other than squared *
 
 > At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment , they must solve an exercise: given sequence 2, 3, 5, 6, 7, 10, 11. .. , made up of all positive integers that are not n squares n cubes of other integers, predict the 9,000th term. Team competition 2006  Semifinal B Problem tests  Pag. 1 di 2
 > 

@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esercizio 1, Q2: trucco dell'età, la persona può diventare più giovane< MSK1/>
+*Esercizio 1, Q2: trucco dell'età, la persona può diventare più giovane*
 
-> Esercizio 1 (tutti i candidati) - Ritorno al futuro. Tuo zio ha $54$ anni. Con un trucco si fece $9$ anni più giovane. Più in generale, si consideri una persona di età < MSK2/> anni, con < MSK3/> e < MSK4/>. (a) Con quante anni, al massimo, questa persona malvagia può rendersi più giovane con la procedura descritta? b) Può questa persona diventare più giovane di esattamente < MSK5/> anni?
+> Esercizio 1 (tutti i candidati) - Ritorno al futuro. Tuo zio ha $54$ anni. Con un trucco si fece $9$ anni più giovane. Più in generale, si consideri una persona di età $ab$ anni, con $a \ge 5$ e $b = 6$. (a) Con quante anni, al massimo, questa persona malvagia può rendersi più giovane con la procedura descritta? b) Può questa persona diventare più giovane di esattamente $30$ anni?
 
 [[src_oprem_2026__Q02]]

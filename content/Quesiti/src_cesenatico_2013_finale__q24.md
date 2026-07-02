@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Growth modes in 6 steps (multiple chain, 12!)< MSK1/>
+*Growth modes in 6 steps (multiple chain, 12!)*
 
 > A sudden awakening During the process, Root realizes that it is starting to grow again. However, this is not a gradual growth, but six steps in succession. The Q of hearts is frightened and orders them to cut off their heads, throwing them at all their soldiers, the now tiny cards from the deck. In this turbine of sounds and colors, Root wakes up next to his cat Diny and realizes he's dreamed everything. Just remember that before the first step she was exactly as high as the K of hearts, which at the end of the sixth was 12! (factoral 12) times K and that after each step its height becomes an integer multiple of the previous one. It is also possible that during some steps this multiple was 1, that is, it did not grow at all. If we analyze the six heights at the end of each step, how many different ways can the Root be grown? In the answer, indicate the last four digits of the result obtained.
 > 

@@ -45,9 +45,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>total together< MSK1/>
+*total together*
 
-> Rick and Tom are building an igloo. Every hour Rick makes MSK0/> snow bricks and Tom makes MSK1/> less. How many snow bricks will they have built together in three hours?
+> Rick and Tom are building an igloo. Every hour Rick makes$8$ snow bricks and Tom makes$2$ less. How many snow bricks will they have built together in three hours?
 > 
 > (A) $14$ (B) $30$ (C) $42$ (D) $48$ (E) $54$
 

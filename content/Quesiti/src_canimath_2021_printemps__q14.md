@@ -59,8 +59,8 @@ tags:
 
 *Due parti: disuguaglianza di intersezione ceviale in un triangolo; somma delle distanze in un trapezoide a isosceles*
 
-> 1. Lasciate che $XYZ$ sia un triangolo. Il punto $L$ deve essere un punto sul segmento $[XY]$ e il punto $N$ un punto sul segmento $[XZ]$. Il punto di intersezione dei segmenti $[ZL]$ e $[YN]$ è $M$. Provare che < MSK0/>
+> 1. Lasciate che $XYZ$ sia un triangolo. Il punto $L$ deve essere un punto sul segmento $[XY]$ e il punto $N$ un punto sul segmento $[XZ]$. Il punto di intersezione dei segmenti $[ZL]$ e $[YN]$ è $M$. Provare che $$MY + MZ \le XY + XZ.$$
 > 
-> 2. Il $ABCD$ deve essere un quadrilaterale convexo in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$, $AD < AB$ e $BC < AB$. Il punto $P$ deve essere situato all'interno del quadrilaterale $ABCD$. Provare che < MSK0/>
+> 2. Il $ABCD$ deve essere un quadrilaterale convexo in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$, $AD < AB$ e $BC < AB$. Il punto $P$ deve essere situato all'interno del quadrilaterale $ABCD$. Provare che $$PA + PB + PC + PD < 4AB < 2(PA + PB + PC + PD).$$
 
 [[src_canimath_2021_printemps__Q14]]

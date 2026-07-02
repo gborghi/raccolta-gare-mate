@@ -53,6 +53,6 @@ tags:
 
 *P(x)=x^2025 diviso da Q(x)=x^4+x^3+2x^2+x+1; trovare R(3)*
 
-> Per esempio, < MSK0/>, < MSK1/>. $R(x)$ sia il residuo polinomial quando il polinomial $P(x)$ è diviso dal polinomial $Q(x)$. Trova < MSK5/>.
+> Per esempio, $P(x) = x^{2025}$, $Q(x) = x^4 + x^3 + 2x^2 + x + 1$. $R(x)$ sia il residuo polinomial quando il polinomial $P(x)$ è diviso dal polinomial $Q(x)$. Trova $R(3)$.
 
 [[src_ioqm_2025_sep07__Q24]]

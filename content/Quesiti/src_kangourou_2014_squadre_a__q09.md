@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Exchange tyres for equal consumption after several kilometres< MSK1/>
+*Exchange tyres for equal consumption after several kilometres*
 
 > The rotation of the tyres A car assembles special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the timing of the replacement is the same for all four tyres, after how many kilometres will the four tyres have to be replaced from front to rear and vice versa?
 

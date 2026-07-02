@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which h returns to 1< MSK1/>
+* for which h returns to 1*
 
 > Both h is a positive integer and an is the sequence defined for recurrence as follows: a0 = 1 an+1 = (an 2 if an is equal, an + h if an is odd. (For example, if h = 27 we have: a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...) For which values of h exists n > 0 for which an = 1?
 

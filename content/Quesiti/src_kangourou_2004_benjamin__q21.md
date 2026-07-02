@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White/shaded area report< MSK1/>
+*White/shaded area report*
 
 ![[src_kangourou_2004_benjamin__prob21.png]]
 

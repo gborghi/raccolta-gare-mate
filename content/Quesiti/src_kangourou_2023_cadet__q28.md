@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>report small/large hexagonal areas< MSK1/>
+*report small/large hexagonal areas*
 
 ![[src_kangourou_2023_cadet__prob28.png]]
 

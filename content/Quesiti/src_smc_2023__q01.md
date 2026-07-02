@@ -53,7 +53,7 @@ tags:
 
 *Valuta di una radice quadrata con denominatore di somma digitali*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $\sqrt{\dfrac{2023}{2+0+2+3}}$?
 >
 > - **(A)** $13$
 > - **(B)** $15$

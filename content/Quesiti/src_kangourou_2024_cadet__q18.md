@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of decrease in mass of dried mushroom< MSK1/>
+*Percentage of decrease in mass of dried mushroom*
 
 > Water constitutes 80% of the mass of a fresh fungus. Water, on the other hand, constitutes only 20% of the mass of the same dried mushroom. What percentage decreases the mass of the fungus during drying? A) 60
 >  

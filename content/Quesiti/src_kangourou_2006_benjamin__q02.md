@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Biggest number of 10 digits by attaching sheets< MSK1/>
+*Biggest number of 10 digits by attaching sheets*
 
 ![[src_kangourou_2006_benjamin__prob2.png]]
 

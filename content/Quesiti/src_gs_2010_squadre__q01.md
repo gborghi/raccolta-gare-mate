@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance traveled by the dog in three hours< MSK1/>
+*Distance traveled by the dog in three hours*
 
 > The following information shall be provided:
 > 

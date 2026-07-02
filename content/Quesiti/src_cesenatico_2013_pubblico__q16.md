@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Growth modes in 5 steps (multiple chain, 12!)< MSK1/>
+*Growth modes in 5 steps (multiple chain, 12!)*
 
 > A big banquet is being held in the castle of the new Root Queen. Between the roast and the dessert, the Red Queen suddenly asks Root: Take all the numbers up to 200, and subdivide them between those whose nearest square is odd and those whose nearest square is even. How different are the sums of the numbers in these two sets?
 > 

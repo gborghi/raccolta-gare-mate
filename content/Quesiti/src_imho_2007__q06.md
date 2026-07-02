@@ -56,6 +56,6 @@ tags:
 
 *Minimum planes covering lattice points with positive coordinate sum*
 
-> Let < MSK1/> be a positive integer. Consider $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ as a set of $(n+1)^3 - 1$ points in three-dimensional space. Determine the smallest possible number of planes, the union of which contains $S$ but does not include $(0, 0, 0)$.
+> Let $n$ be a positive integer. Consider $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ as a set of $(n+1)^3 - 1$ points in three-dimensional space. Determine the smallest possible number of planes, the union of which contains $S$ but does not include $(0, 0, 0)$.
 
 [[src_imho_2007__Q06]]

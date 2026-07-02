@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distinct cube colours with 2+4 faces (10 colours) < MSK1/>
+*Distinct cube colours with 2+4 faces (10 colours) *
 
 > Elena is busy coloring the faces of a large number of cubes. It's available in 10 different colors. In each cube, you want to color two faces of one color and the other four of another color. How many cubes, at most, can you color in different ways? (the colours of two cubes shall be considered the same if, moving them in any way, they do not appear distinguishable from the colours of the faces) 
 >

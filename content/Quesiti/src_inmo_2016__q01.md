@@ -49,6 +49,6 @@ tags:
 
 *Triangolo isosceles orthocentro su incircolo, trovare AB/BC*
 
-> $ABC$ sia un triangolo in cui $AB = AC$. Supponiamo che l'ortocentro del triangolo si trovi sul cerchio interno. Trova il rapporto < MSK2/>.
+> $ABC$ sia un triangolo in cui $AB = AC$. Supponiamo che l'ortocentro del triangolo si trovi sul cerchio interno. Trova il rapporto $AB/BC$.
 
 [[src_inmo_2016__Q01]]

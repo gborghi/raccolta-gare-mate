@@ -51,6 +51,6 @@ tags:
 
 *Trova m+n+p per il rapporto AC/AB nel triangolo rettangolo con un dato rapporto BD*
 
-> In un triangolo $ABC$, $\angle BAC = 90^\circ$. $D$ sia il punto di $BC$ in modo tale che $AB + BD = AC + CD$. Supponiamo < MSK5/>. Se $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, dove $m, n$ sono numeri interi positivi relativamente primi e $p$ è un numero primo, determinare il valore di $m + n + p$.
+> In un triangolo $ABC$, $\angle BAC = 90^\circ$. $D$ sia il punto di $BC$ in modo tale che $AB + BD = AC + CD$. Supponiamo $BD : DC = 2 : 1$. Se $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, dove $m, n$ sono numeri interi positivi relativamente primi e $p$ è un numero primo, determinare il valore di $m + n + p$.
 
 [[src_ioqm_2024__Q22]]

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Water poured in parallel piped given the level reached< MSK1/>
+*Water poured in parallel piped given the level reached*
 
 > If 40 cm3 of water is poured into a rectangular parallel-piped vessel with a 4 cm long base side, the liquid level reaches 5 cm. By pouring an unknown quantity into another rectangular parallel-piped vessel that has that side of the base 6 cm long and the other unchanged, the liquid reaches a level of 15 cm. How many cubic centimeters of water was poured the second time?
 >

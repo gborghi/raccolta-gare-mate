@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>False claim on holes and protrusions of a puzzle nxn< MSK1/>
+*False claim on holes and protrusions of a puzzle nxn*
 
 > Let's consider a square-shaped puzzle, with n pieces on each side. Each piece has 4 sides and on each side there can be either a hole or a protrusion, or it can be flat (when it is on the edge). Which of the following is false?
 >

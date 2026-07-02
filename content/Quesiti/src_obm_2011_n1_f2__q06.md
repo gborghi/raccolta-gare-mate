@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta fratelli di 60 anni che sono inferiori a 1000< MSK1/>
+*Conta fratelli di 60 anni che sono inferiori a 1000*
 
 > Diciamo che due o più numeri sono fratelli quando hanno esattamente gli stessi fattori primi. Ad esempio, $10 = 2 \times 5$ e $20 = 2^2 \times 5$ sono fratelli, poiché $2$ e $5$ sono i loro unici fattori primari. Il numero $60$ può avere fratelli inferiori a $1000$. Quanti fratelli hanno meno di $1000$ $60$?
 

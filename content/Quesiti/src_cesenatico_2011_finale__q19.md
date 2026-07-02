@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of not detecting saboteurs (interrogators) < MSK1/>
+*Probability of not detecting saboteurs (interrogators) *
 
 > 4 Roman spies and 4 saboteurs of the architect who lost the contract infiltrated the construction site of Numerotris. Abelix has heard of the 4 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 44 workers at the site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all four, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma.
 > 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many bags < MSK1/>
+*how many bags *
 
 > Kanga collected the candy contained in 555 packs of 9 candies each in a single heap and now packs bags of 15 candies each. How many bags will he have? A) 999 B) 925 C) 555 D) 333 E) 111
 

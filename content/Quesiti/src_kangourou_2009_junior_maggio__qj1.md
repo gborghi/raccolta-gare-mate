@@ -47,7 +47,7 @@ tags:
 
 *Minimum pieces of the axle to be stored in the 1x1 square*
 
-> < MSK0/>(5 points) < MSK1/> A 10 metre spear shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the target?
+> *(5 points) * A 10 metre spear shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the target?
 
 **Answer:** 8
 [[src_kangourou_2009_junior_maggio__QJ1]]

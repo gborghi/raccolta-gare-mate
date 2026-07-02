@@ -51,7 +51,7 @@ tags:
 
 *Ricerca BC in quadrilaterale con due angoli di 60 gradi e un angolo retto*
 
-> In quadrilaterali $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trova < MSK5/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> In quadrilaterali $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trova $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jjmo9yq_yosen__Q02.png]]
 

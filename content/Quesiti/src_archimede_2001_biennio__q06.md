@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining to be returned after error by the cashier< MSK1/>
+*Remaining to be returned after error by the cashier*
 
 > A girl buys a shirt that costs 13.90 euros and gives the teller a 20-euro bill. The cashier miscalculated the rest, and returned 13.90 euros. When she leaves the store, the girl realizes the mistake and, being honest, returns to return the part she did not owe. How much will you have to pay back?
 >

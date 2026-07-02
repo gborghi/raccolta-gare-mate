@@ -57,7 +57,7 @@ tags:
 
 *Cambia le bottiglie vuote con quelle piene: bottiglie massime*
 
-> Il municipio di una certa città ha condotto una campagna che ha permesso lo scambio di $4$ bottiglie vuote di latte $1$ per $1$ litro pieno di latte. Quanti litri pieni si possono ottenere da < MSK3/> bottiglie complete, se si inizia con < MSK4/> bottiglie complete?
+> Il municipio di una certa città ha condotto una campagna che ha permesso lo scambio di $4$ bottiglie vuote di latte $1$ per $1$ litro pieno di latte. Quanti litri pieni si possono ottenere da $43$ bottiglie complete, se si inizia con $43$ bottiglie complete?
 > 
 > (A) $11$ \quad (B) $12$ \quad (C) $13$ \quad (D) $14$ \quad (E) $15$
 

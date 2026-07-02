@@ -100,7 +100,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True relationship between alpha and beta angles in the 3x3 square< MSK1/>
+*True relationship between alpha and beta angles in the 3x3 square*
 
 ![[src_kangourou_2019_junior_marzo__prob7.png]]
 

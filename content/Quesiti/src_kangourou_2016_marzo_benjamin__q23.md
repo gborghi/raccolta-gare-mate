@@ -74,7 +74,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max 5x5 square cutting shafts < MSK1/>
+*Max 5x5 square cutting shafts *
 
 ![[src_kangourou_2016_marzo_benjamin__prob23.png]]
 

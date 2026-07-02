@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum two-digit MCD with product 600000< MSK1/>
+*Maximum two-digit MCD with product 600000*
 
 > The product of two natural numbers is 600000. What can be their maximum common divider?
 >

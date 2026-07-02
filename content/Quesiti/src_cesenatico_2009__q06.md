@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum k< MSK1/>
+*minimum k*
 
 > A natural number k is said to be n-squared if, by coloring the boxes of a chessboard 2n × k with n different colors, there are 4 distinct boxes of the same color whose centers are verticals of a rectangle having the sides parallel to the sides of the chessboard. Determine, as a function of n, the smallest natural k that is n-squared.
 

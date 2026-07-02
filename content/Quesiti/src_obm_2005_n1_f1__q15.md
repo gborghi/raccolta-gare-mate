@@ -61,7 +61,7 @@ tags:
 
 *Finalità di un pannello a striscia metallica ripetuta*
 
-> Un fabbro salda strisce di metallo per produrre pezzi identici che saranno uniti per fare il pannello mostrato di seguito. Il disegno mostra le misure, in centimetri, di uno dei pezzi. Il fabbro utilizza esattamente < MSK0/> metri di striscia per realizzare il suo lavoro. Quale dei disegni di seguito rappresenta il pannello finale?
+> Un fabbro salda strisce di metallo per produrre pezzi identici che saranno uniti per fare il pannello mostrato di seguito. Il disegno mostra le misure, in centimetri, di uno dei pezzi. Il fabbro utilizza esattamente $20$ metri di striscia per realizzare il suo lavoro. Quale dei disegni di seguito rappresenta il pannello finale?
 > 
 > A) B) C) D) E)
 

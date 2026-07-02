@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True statement with quantifiers in the rationales< MSK1/>
+*True statement with quantifiers in the rationales*
 
 > Which of the following statements is true in the set of rational numbers?
 >

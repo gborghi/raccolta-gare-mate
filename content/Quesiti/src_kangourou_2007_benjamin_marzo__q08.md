@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Result by removing 5 letters and reversing < MSK1/>
+*Result by removing 5 letters and reversing *
 
 > 5 letters are removed from the word KANGAROO (some may be repeated), then the remaining letters are written in reverse order. What may be the result? (a) RANK B) OGR C) RNO D) RAN E) ANG
 

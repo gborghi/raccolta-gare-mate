@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>View from the top of the solid of 8 cubes< MSK1/>
+*View from the top of the solid of 8 cubes*
 
 > On a plate, there were initially some cookies. Sandro took half of it, then Chiara took half the rest and finally Mauro took half the ones Chiara left behind. There's six cookies left in the final cut. How many were there at the beginning? A) 12
 > 	

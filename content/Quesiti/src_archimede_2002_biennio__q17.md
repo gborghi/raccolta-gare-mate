@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Ways to balance 16 g with weights of 1, 3, 9< MSK1/>
+Ways to balance 16 g with weights of 1, 3, 9*
 
-> Alberto has a large number of 1, 3 and 9 gram weights. If you want to use them to balance a 16-gram chain by placing them on just one of the two plates of an equal-armed scale, how many different ways can you choose the weights?
+> Alberto has a large number of 1, 3 and 9 gram weights. If you want to use them to balance a 16-gram chain by placing them only on one of the two plates of an equal-armed scale, how many different ways can you choose the weights?
 >
 > - **(A)** 1
 > - **(B)** 3

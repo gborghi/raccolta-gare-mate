@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of obtaining 9 with three different dice< MSK1/>
+*Probability of obtaining 9 with three different dice*
 
 > Dr. No challenges Bond to a game with three dice: one with 4 faces numbered from $1$ to $4$, one with 6 faces numbered from $1$ to $6$ and the last dice with 8 faces numbered from $1$ to $8$. Bond has to roll all the dice twice and add up the faces. You can leave the island if the result you get is $14$, or you'll be thrown in jail. James pulls all three dice together once, getting $5$ as the sum of the numbers on the faces. What are the odds of Bond not getting thrown in jail? Answer by writing the first four digits after the resulting comma.
 

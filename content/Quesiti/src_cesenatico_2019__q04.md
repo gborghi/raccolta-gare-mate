@@ -48,6 +48,6 @@ tags:
 
 If the floor is square then the floor is square
 
-> Let's denote with bxc the largest integer  of x. If λ < MSK0/>1 is a real number, and n is a positive integer, such as bλn+1c, bλn+2c, . . . , b4nc are all perfect squares. Prove that bλc is a perfect square.
+> Let's denote with bxc the largest integer  of x. If λ ≥1 is a real number, and n is a positive integer, such as bλn+1c, bλn+2c, . . . , b4nc are all perfect squares. Prove that bλc is a perfect square.
 
 [[src_cesenatico_2019__Q04]]

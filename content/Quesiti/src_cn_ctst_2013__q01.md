@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca il minimo di prodotto che coinvolga gcd su n integri coprimi< MSK1/>
+*Ricerca il minimo di prodotto che coinvolga gcd su n integri coprimi*
 
 > In caso di $n\ (>1)$ integri positivi copriemi $a_1, a_2, \ldots, a_n$, indicare $A = a_1 + a_2 + \cdots + a_n$. Let $d_i = (A,\, a_i)$ (il più grande divisore comune), $i = 1, 2, \ldots, n$. $D_i$ sia il più grande divisore comune di $\{a_1, a_2, \ldots, a_n\} \setminus \{a_i\}$, $i = 1, 2, \ldots, n$. Trova il minimo di $\prod_{i=1}^{n} \dfrac{A - a_i}{d_i D_i}$.
 > 

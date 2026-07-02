@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>4-digit years with thousands >= sum of other digits< MSK1/>
+*4-digit years with thousands >= sum of other digits*
 
 > Time circuits have been damaged by lightning: now the DeuLerean can only reach four-digit years such that the number of thousands is greater or equal to the sum of the other three. Little bad says \ DOC, and quickly calculates how many different years it can travel. What number do you get? It means that a four-digit number has the number of thousands, not nothing.
 

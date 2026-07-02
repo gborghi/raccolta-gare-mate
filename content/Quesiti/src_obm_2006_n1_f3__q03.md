@@ -66,7 +66,7 @@ tags:
 
 *Punto di scorciatura: contare i punteggi distinti con 2 frecce, quindi i partecipanti con 3 frecce*
 
-> Un arciere tira frecce al bersaglio mostrato a destra. I numeri indicano il punteggio ottenuto in ogni regione colpita da una freccia (se la freccia colpisce esattamente una linea, il punteggio è il minore delle due regioni adiacenti). Si noti che la regione rettangolare punta < MSK0/> punti.
+> Un arciere tira frecce al bersaglio mostrato a destra. I numeri indicano il punteggio ottenuto in ogni regione colpita da una freccia (se la freccia colpisce esattamente una linea, il punteggio è il minore delle due regioni adiacenti). Si noti che la regione rettangolare punta $0$ punti.
 > 
 > L'obiettivo ha regioni circolari concentriche con punteggi $1$, $2$, $3$, $4$, $5$ dal cerchio più esterno al cerchio più interno (con il rettangolo di valore $0$).
 > 

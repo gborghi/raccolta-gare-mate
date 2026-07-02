@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Natural minime with 11 dividers (scarp) < MSK1/>
+*Natural minime with 11 dividers (scarp) *
 
 > Cucciolo calls sgarzulini the natural numbers formed only by digits 1. How many digits has the smallest prime number greater than 1 such that the number of its prime divisors is a prime number?
 

@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum on products of non-zero digits, energy power< MSK1/>
+*Sum on products of non-zero digits, energy power*
 
 > A terrible alien monster has managed to sneak up on the Planar Express and is devouring all the members of the team. Fry realizes that in order to defeat the monster and bring his friends back to life, he will have to solve a very difficult problem. The alien will die only if hit with a power energy radius of 500 1 (2 ) 6 i P i  , where ( ) P n is the product of the non-zero digits of the natural number n. What power will the Planar Express crew save?
 

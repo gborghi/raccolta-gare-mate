@@ -52,6 +52,6 @@ tags:
 
 *Calcolare un'integrale che coinvolga radici quadrate incastonate*
 
-> Calcolo < MSK0/>
+> Calcolo $$\int_1^3 \frac{\sqrt{x^2+1}+x-1}{\sqrt{x^2+1}+x+1}\,dx.$$
 
 [[src_obm_2002_nu_f1__Q03]]

@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-Un professore confinato vuole sostituire Perrine per ricostruire la disposizione dei posti a sedere di n alunni; trovare il numero minimo di domande necessarie sotto diversi tipi di domande consentiti, con risposte adattive, errori e mentire.
+Un professore confinato vuole sostituire Perrine per ricostruire l'arrangamento dei posti a sedere di n alunni; trovare il numero minimo di domande necessarie sotto diversi tipi di domande consentite, con risposte adattive, errori e mentire.
 
 > Professore rinchiuso.
 > 
@@ -83,7 +83,7 @@ Un professore confinato vuole sostituire Perrine per ricostruire la disposizione
 > 
 > Timothy lascia a Perrine la scelta di mettere gli alunni nell'ordine che vuole nei posti della classe, dove deve rispondere alle sue domande. Fa domande a Perrine per determinare il piano di seduta della classe, ma è più pratico che le faccia in anticipo. Perrine, essendo a corto di tempo, mentre imposta il piano di posti a sedere, chiede a Timothy di scrivere una lista di domande a cui risponderà. Timothyé legge poi questa lista e restituisce, per ogni domanda che si trova nella lista, una risposta; questa lista di domande deve essere il più breve possibile.
 > 
-> 1. Gli alunni della classe sono numerati da 1 a < MSK0/>. Determina se Timothy può determinare il piano di seduta della classe e quale è la stima minima del numero di domande che deve porre, se è obbligato a porre domande della classe del modulo: a)  È studente $i$?  in cui < MSK2/>. b) Qualsiasi domanda a cui Perrine deve rispondere con  sì  o  no . c) Si trova l'allievo $i$ al posto $p$? in cui < MSK5/>. d) Indicare l'insieme degli alunni (non si può forzare il loro ordine) che si trovano nei luoghi < MSK6/> dove < MSK7/> è fissato in anticipo da Perrine. e) In quale luogo della classe si trova l'allievo < MSK8/>? dove $1 \le i \le n$.
+> 1. Gli alunni della classe sono numerati da 1 a $n$. Determina se Timothy può determinare il piano di seduta della classe e quale è la stima minima del numero di domande che deve porre, se è obbligato a porre domande della classe del modulo: a)  È studente $i$?  in cui $1 \le i \le n$. b) Qualsiasi domanda a cui Perrine deve rispondere con  sì  o  no . c) Si trova l'allievo $i$ al posto $p$? in cui $1 \le i, p \le n$. d) Indicare l'insieme degli alunni (non si può forzare il loro ordine) che si trovano nei luoghi $p_1, p_2, \ldots, p_k$ dove $1 \le k \le n$ è fissato in anticipo da Perrine. e) In quale luogo della classe si trova l'allievo $i$? dove $1 \le i \le n$.
 > 
 > 2. Timothy chiama Perrine al telefono. riceve la risposta a ciascuna delle sue domande appena dopo averla posta. Ripetere la domanda 1 in questo contesto.
 > 

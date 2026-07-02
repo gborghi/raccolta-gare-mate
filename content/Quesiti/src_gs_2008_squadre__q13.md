@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of separate birthdays< MSK1/>
+*Probability of separate birthdays*
 
 > What's the probability that Adam, Pepper, Wensleydale and Brian's birthdays fall on four different days of the week? The sum of the numerator and denominator of the fraction obtained after simplifying all the common factors shall be given as the answer.
 

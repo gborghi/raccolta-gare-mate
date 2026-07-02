@@ -55,10 +55,6 @@ tags:
 > 61°
 > 60°
 > 59°
-> ^
-> ^
-> ^
-> ^
 > 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]

@@ -56,9 +56,9 @@ tags:
 
 Aline's age derived from a mathematical magic game
 
-> Marie asks Aline to choose a number between $1$ and $9$, multiply it by $9$ and subtract this number. Aline receives < MSK3/>. That's enough for Marie to guess Aline's age.
+> Marie asks Aline to choose a number between $1$ and $9$, multiply it by $9$ and subtract this number. Aline receives $207$. That's enough for Marie to guess Aline's age.
 > 
-> What is the age of Aline?< MSK1/>
+> What is the age of Aline?**
 
 **Answer:** 27 anni
 [[src_bocconi_finaleint_2007_g2__Q06]]

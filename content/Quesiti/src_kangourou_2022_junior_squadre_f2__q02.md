@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Numbers of dividers equal to 20^22< MSK1/>
+*Numbers of dividers equal to 20^22*
 
 > Equal factors How many divisors (positive integers) of the number 2022 are equal numbers?
 

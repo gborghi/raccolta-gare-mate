@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Tempo per Nelly di raggiungere la fine di una passerella in movimento di 210 m < MSK1/>
+*Tempo per Nelly di raggiungere la fine di una passerella in movimento di 210 m *
 
 > Camminando su una passerella in movimento, Nelly copre 210 metri in 60 secondi. Nelly ha osservato che fa un metro per passo e che la passerella si muove di 210 metri in 60 secondi. Nelly ha notato che il passo massimo che fa è di un metro. Quanto ci vorrà per arrivare alla fine del corridoio?
 > 

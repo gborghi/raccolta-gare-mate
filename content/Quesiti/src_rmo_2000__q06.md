@@ -54,8 +54,8 @@ tags:
 
 *Ricerca il valore minimo di ab in modo tale che a^n b^(n+1) sia divisibile per 2000 per tutte le n*
 
-> (i) Considerare due integri positivi $a$ e $b$ in modo tale che $a^n b^{n+1}$ sia divisibile da $2000$ per ogni intero positivo $n$. Qual è il valore minimo possibile del prodotto < MSK5/>?
+> (i) Considerare due integri positivi $a$ e $b$ in modo tale che $a^n b^{n+1}$ sia divisibile da $2000$ per ogni intero positivo $n$. Qual è il valore minimo possibile del prodotto $ab$?
 > 
-> (ii) Considerare due integri positivi $a$ e $b$ che sono tali che $a^n b^{n+1}$ sia divisibile da $2000$ per un certo intero positivo $n$. Qual è il valore minimo possibile del prodotto < MSK5/>?
+> (ii) Considerare due integri positivi $a$ e $b$ che sono tali che $a^n b^{n+1}$ sia divisibile da $2000$ per qualche integro positivo $n$. Qual è il valore minimo possibile del prodotto $ab$?
 
 [[src_rmo_2000__Q06]]

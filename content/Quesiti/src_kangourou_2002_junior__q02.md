@@ -43,11 +43,6 @@ tags:
 > B. Alex 
 > C. Tommaso 
 > D. Roberto  
->  
->  
->  
->  
->  
 > E. nessuno dei precedenti 
 > Angelo 
 > Tommaso 

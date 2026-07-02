@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>height h< MSK1/>
+*height h*
 
 > A container is shaped like a rectangular prism and the base is a square side 10 cm. The water is poured into the container up to a height of 1 cm; a 2 cm side stone cubet is then immersed (which therefore does not float and lies on the bottom with one of its faces). The cube is now surrounded by water and its upper face is water-filled. How much is h worth? A) 1,92 B) 1,93 C) 1,90 D) 1,91 E) 1,94
 

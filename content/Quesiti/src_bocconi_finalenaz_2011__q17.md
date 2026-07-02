@@ -58,7 +58,7 @@ tags:
 
 *Length of barrier AB on the round island*
 
-> Desiderio has a perfectly round island on which he has placed four perfectly straight barriers. The goal of these barriers is to cover the edge of the island. In the figure there is also a pond, also perfectly round, tangent to the four barriers. The situation is illustrated by the figure which does not respect the dimensions; however, the lengths of two barriers (33 m and 77 m) with the width of the angle formed by them ($135^\circ$) are indicated. What is the length of the < MSK1/> barrier?
+> Desiderio has a perfectly round island on which he has placed four perfectly straight barriers. The goal of these barriers is to cover the edge of the island. In the figure there is also a pond, also perfectly round, tangent to the four barriers. The situation is illustrated by the figure which does not respect the dimensions; however, the lengths of two barriers (33 m and 77 m) with the width of the angle formed by them ($135^\circ$) are indicated. What is the length of the $AB$ barrier?
 
 ![[src_bocconi_finalenaz_2011__Q17.png]]
 

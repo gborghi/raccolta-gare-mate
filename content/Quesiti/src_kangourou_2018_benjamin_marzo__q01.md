@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Image seen from above the three objects< MSK1/>
+*Image seen from above the three objects*
 
 ![[src_kangourou_2018_benjamin_marzo__prob1.png]]
 

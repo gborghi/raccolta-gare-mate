@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time for the rotation of the loom< MSK1/>
+*Time for the rotation of the loom*
 
 ![[src_kangourou_2003_benjamin_finale__probB2.png]]
 
@@ -75,7 +75,7 @@ tags:
 \end{document}
 ```
 
-> In a square square there is a square oval as outlined by the figure. The area of the square part not occupied by the awning is < MSK0/> times the area of the awning. To take a walk around the square along its outer contour I use $15$ minutes. How many minutes will it take, at the same speed, to make a spin along the outline of the awning? (see figure)
+> In a square square there is a square oval as outlined by the figure. The area of the square part not occupied by the awning is $8$ times the area of the awning. To take a walk around the square along its outer contour I use $15$ minutes. How many minutes will it take, at the same speed, to make a spin along the outline of the awning? (see figure)
 
 **Answer:** 5 minuti
 [[src_kangourou_2003_benjamin_finale__QB2]]

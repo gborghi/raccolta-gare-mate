@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many white cubes (three-dimensional chessboard) < MSK1/>
+*How many white cubes (three-dimensional chessboard) *
 
 ![[src_kangourou_2004_ecolier__prob20.png]]
 

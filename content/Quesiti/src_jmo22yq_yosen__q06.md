@@ -58,7 +58,7 @@ tags:
 
 *2×100 colore rosso/blu a griglia con restrizioni di parità ed esistenza*
 
-> C'è una griglia < MSK0/> in cui ogni cella è colorata in rosso o blu. Considerate i coloranti che soddisfano entrambe le seguenti condizioni. I colori legati alla rotazione o alla riflessione sono considerati uguali.
+> C'è una griglia $2 \times 100$ in cui ogni cella è colorata in rosso o blu. Considerate i coloranti che soddisfano entrambe le seguenti condizioni. I colori legati alla rotazione o alla riflessione sono considerati uguali.
 > 
 > - Sia l'insieme delle cellule rosse che l'insieme delle cellule blu non sono vuote (esistono almeno una cellula rossa e almeno una cellula blu). - Il numero totale di globuli rossi è pari, e il numero totale di globuli blu è pari.
 > 

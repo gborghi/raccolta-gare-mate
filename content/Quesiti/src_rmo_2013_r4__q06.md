@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Regularmente i vertici di 20 goni sono di 3 colori; tre vertici dello stesso colore formano un triangolo di uguali osceli< MSK1/>
+*Regularmente i vertici di 20 goni sono di 3 colori; tre vertici dello stesso colore formano un triangolo di uguali osceli*
 
 > Supponiamo che i vertici di un poligono regolare di 20 lati siano colorati con tre colori  rosso, blu e verde  in modo tale che ci siano esattamente tre vertici rossi. Prove che ci sono tre vertici $A, B, C$ del poligono dello stesso colore in modo tale che il triangolo $ABC$ sia isosceles.
 

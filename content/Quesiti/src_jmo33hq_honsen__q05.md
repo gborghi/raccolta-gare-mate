@@ -63,7 +63,7 @@ tags:
 
 *S={1,...,3000}; trovare il massimo X in modo che per qualsiasi bijezione f, qualche bijezione g faccia la somma >= X*
 
-> Let < MSK0/>. Trova il numero intero massimo $X$ in modo tale che la seguente condizione sia valida:
+> Let $S = \{1, 2, \ldots, 3000\}$. Trova il numero intero massimo $X$ in modo tale che la seguente condizione sia valida:
 > 
 > Per qualsiasi bizione $f : S \to S$, esiste una bizione $g : S \to S$ tale che $$\sum_{k=1}^{3000} \Bigl(\max\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\} - \min\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\}\Bigr) \ge X.$$
 > 

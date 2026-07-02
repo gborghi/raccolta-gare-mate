@@ -64,11 +64,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Arc length of the deleted bars< MSK1/>
+*Arc length of the deleted bars*
 
 ![[src_archimede_2011_2livello__prob6.png]]
 
-> A blacksmith is building a horizontal iron canvas made up of many vertical bars, parallel to each other, each of which is positioned 18 cm away from the two nearby ones. The blacksmith connects the ends of each pair of adjacent bars to a curved arc-shaped bar located in the bar plane, the highest point of which is 3 < MSK0/> 3 cm from the straight line (treated in the figure) passing through the upper ends of all bars, and which is perpendicular to the bars themselves. How long is each of the bars used to build the bows?
+> A blacksmith is building a horizontal iron canvas made up of many vertical bars, parallel to each other, each of which is positioned 18 cm away from the two nearby ones. The blacksmith connects the ends of each pair of adjacent bars to a curved arc-shaped bar located in the bar plane, the highest point of which is 3 √ 3 cm from the straight line (treated in the figure) passing through the upper ends of all bars, and which is perpendicular to the bars themselves. How long is each of the bars used to build the bows?
 >
 > - **(A)** 8π( √ 3 −1) cm
 > - **(B)** 6π √ 3 cm

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of jumps to cover 997 metres< MSK1/>
+*Minimum number of jumps to cover 997 metres*
 
 > When the Kangaroo Jumpy pushes with his left leg, he jumps 2 meters; when he pushes with his right, he jumps 4 meters; finally, when he pushes with both legs, he jumps 7 meters. What's the minimum number of jumps on Jumpy to cover an exact distance of 997 meters? A) 146 B) 145 C) 144 D) 143 E) 142
 

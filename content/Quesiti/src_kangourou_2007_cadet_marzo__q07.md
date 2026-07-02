@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Breaking length ABC...P< MSK1/>
+*Breaking length ABC...P*
 
 ![[src_kangourou_2007_cadet_marzo__prob7.png]]
 

@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo retto, angolo di bisezione mediana; prova il limite di rapporto < MSK1/>
+*Triangolo retto, angolo di bisezione mediana; prova il limite di rapporto *
 
-> In un triangolo $ABC$ angolato a destra a $C$, la media attraverso $B$ divide l'angolo tra $BA$ e il bisettore di $\angle B$. Provare che < MSK0/>
+> In un triangolo $ABC$ angolato a destra a $C$, la media attraverso $B$ divide l'angolo tra $BA$ e il bisettore di $\angle B$. Provare che $$\frac{5}{2} < \frac{AB}{BC} < 3.$$
 
 ![[src_inmo_2007__Q01.png]]
 

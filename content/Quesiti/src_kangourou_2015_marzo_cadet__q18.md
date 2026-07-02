@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>perimeter < MSK1/>
+*perimeter *
 
 > Rita sums the lengths of three sides of a rectangle and gets 44 cm, Marta sums the lengths of three other sides of the same rectangle and gets 40 cm. How many centimeters does the perimeter of the rectangle measure? A) 42
 > 	

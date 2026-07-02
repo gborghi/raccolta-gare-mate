@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolazione poligonale: dimensione minima dell'insieme di diagonali ostruzionali< MSK1/>
+*Triangolazione poligonale: dimensione minima dell'insieme di diagonali ostruzionali*
 
 > $\mathcal{P}$ sia un poligono converso con vertici $n$, $n \ge 4$. Possiamo dividere $\mathcal{P}$ in triangoli disegnando diagonali che non si incrociano all'interno di $\mathcal{P}$. Una partizione di questo tipo è chiamata triangolazione **. Un insieme $X$ di diagonali di $\mathcal{P}$ si chiama *obstruttivo* se ha la seguente proprietà:
 > 

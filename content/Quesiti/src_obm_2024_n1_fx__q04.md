@@ -72,7 +72,7 @@ tags:
 > 
 > Ad esempio, se il primo termine della sequenza è $N = 300 = 2^2 \cdot 3 \cdot 5^2$, dal momento che il fattore primo più grande è $p = 5$, il secondo termine è $2^2 \cdot 3 \cdot (5+1)^2 = 2^2 \cdot 3 \cdot 6^2 = 2^4 \cdot 3^3$. Ripetendo il processo, il fattore primo più grande è ora $p = 3$, quindi il terzo termine è $2^4 \cdot (3+1)^3 = 2^4 \cdot 4^3 = 2^4 \cdot 2^6 = 2^{10}$. Poiché $2^{10}$ è una potenza di 2, la sequenza ha 3 termini: $2^2 \cdot 3 \cdot 5^2$, $2^4 \cdot 3^3$, $2^{10}$.
 > 
-> a) Quali sono i termini della sequenza quando < MSK0/>?
+> a) Quali sono i termini della sequenza quando $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
 > 
 > b) Mostrare che se un primo $p$ lascia il rimanente 1 quando diviso per 3, allora $\frac{p+1}{3}$ è un intero positivo che è anche divisibile per 3.
 > 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Written SHAVE as seen in the mirror after 180 degrees of rotation< MSK1/>
+*Written SHAVE as seen in the mirror after 180 degrees of rotation*
 
 > I'm in a barber's lounge in London and looking at the mirror in front of my chair I read on a sign, hung on the opposite wall, the word SHAVE. What kind of writing do I see when I turn my chair 180 degrees? A)
 > 	

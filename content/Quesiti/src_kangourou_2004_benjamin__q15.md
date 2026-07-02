@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The largest of two numbers (sum of 77) < MSK1/>
+*The largest of two numbers (sum of 77) *
 
 > The sum of two positive integers is 77. The smaller of the two times 8 gives the same result as the other times 6. How much is the larger of the two numbers? A) 33 B) 39 C) 43 D) 44         E) 54
 

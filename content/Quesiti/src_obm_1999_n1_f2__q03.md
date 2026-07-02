@@ -66,7 +66,7 @@ tags:
 > 
 > a) Qual è il perimetro della regione ombrosa?
 > 
-> b) Quale frazione dell'area del triangolo < MSK0/> rappresenta l'area oscurata?
+> b) Quale frazione dell'area del triangolo $ABC$ rappresenta l'area oscurata?
 
 ![[src_obm_1999_n1_f2__Q03.png]]
 

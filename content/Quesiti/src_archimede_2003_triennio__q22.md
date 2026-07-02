@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sub-sets of {1.2003} with the sum of the elements given< MSK1/>
+*Sub-sets of {1.2003} with the sum of the elements given*
 
 > Consider the sum of {1, 2, . . ., 2003}. How many of its subset B are such that the sum of the elements of B is equal to 2 007 000?
 >

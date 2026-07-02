@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Calcolare un radicale annidato< MSK1/>
+*Calcolare un radicale annidato*
 
-> Calcolare < MSK0/>
+> Calcolare $$\sqrt{32\sqrt{16\sqrt{8\sqrt{4}}}}.$$
 > 
 > Qui si aspetta solo una risposta numerica.
 

@@ -58,6 +58,6 @@ tags:
 > 
 > (a) Find all tables that have exactly $500$ footings.
 > 
-> (b) Demonstrate that there are infinite positive integers < MSK0/> such that there are no grids with exactly < MSK1/> footings.
+> (b) Demonstrate that there are infinite positive integers $k$ such that there are no grids with exactly $k$ footings.
 
 [[src_archimede_2003_individuale__Q05]]

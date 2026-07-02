@@ -36,10 +36,6 @@ tags:
 > Sottrazione       
 > Da un numero di tre cifre sottraete la somma dei cubi delle sue cifre. Qual è il risultato più grande che potete 
 > ottenere? 
->  
->  
->  
-> 
 > Kangourou della Matematica 2013 
 > Coppa a squadre Kangourou 
 > Semifinale turno A 
@@ -59,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number less the cube sum of the digits< MSK1/>
+*number less the cube sum of the digits*
 
 > Subtraction From a three-digit number subtract the sum of the cubes of its digits. What is the greatest result you can achieve?
 >  

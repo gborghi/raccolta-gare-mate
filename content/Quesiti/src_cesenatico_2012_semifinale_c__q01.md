@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Starting day of collection of figures (doubles 1/13) < MSK1/>
+*Starting day of collection of figures (doubles 1/13) *
 
 > The last stone The world has come to an end at other times in the past. Once in particular it was a certain Esmeralda Weatherwax who challenged Death to the game for everyone's salvation, but neither chess, cards, nor Monopoly were chosen. The two players sat down in front of a large pile of stones and began to play. He started Emerald, which took 30 stones. Death took 130 of them, then Emerald took 230. And they did so, according to the rules, which required each one to collect 100 more stones than the previous one. When the stones on the ground were no longer enough, the player would collect them all. The first one who couldn't pick up a stone would lose. As you can imagine, Esmeralda won after collecting 9,284 stones throughout the game. How many stones did Death collect?
 

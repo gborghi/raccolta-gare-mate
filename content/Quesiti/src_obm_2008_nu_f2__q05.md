@@ -62,7 +62,7 @@ tags:
 
 *Ricerca tutte le funzioni da Z a Z che soddisfano due condizioni funzionali*
 
-> Trova tutte le funzioni < MSK0/> che soddisfano:
+> Trova tutte le funzioni $f:\mathbb{Z}\to\mathbb{Z}$ che soddisfano:
 > 
 > (i) $f(f(n))=f(n)+1$ per tutti $n\in\mathbb{Z}$;
 > 

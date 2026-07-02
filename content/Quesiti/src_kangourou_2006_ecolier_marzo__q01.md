@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Day of the week of the birthday< MSK1/>
+*Day of the week of the birthday*
 
 > Yesterday was Matthew's birthday. Tomorrow is Thursday. On what day of the week did Matthew's birthday fall? (a) Tuesdays (b) Wednesdays (c) Thursdays (d) Saturdays (e) Mondays
 

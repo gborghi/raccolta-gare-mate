@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>intersezioni di centro e di circoncircolo; collinearità e conciclicità< MSK1/>
+*intersezioni di centro e di circoncircolo; collinearità e conciclicità*
 
 > Nel triangolo $ABC$ con $AB \neq AC$, il suo incentro deve essere $I$. I punti $P$ e $Q$ sono definiti come i punti in cui il circoncircolo del triangolo $BCI$ incrocia di nuovo rispettivamente le linee $AB$ e $AC$. Il $D$ deve essere l'intersezione delle linee $AI$ e $BC$.
 > 

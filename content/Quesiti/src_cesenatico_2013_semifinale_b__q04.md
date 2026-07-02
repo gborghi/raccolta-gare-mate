@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max polygon regular width strip sides 100< MSK1/>
+*Max polygon regular width strip sides 100*
 
 > The flowers in the grass Root, still surprised by what's happening, leaves the house, and finds himself walking in an infinitely flowery grassland 200cm long and wide. On the lawn, many flowers observe her, amazed to see a flower move! Each of them has the shape of a regular polygon of petal, oops, side 1cm. How many petals/late has the largest flower Root can meet in the lawn?
 

@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>longer segment< MSK1/>
+*longer segment*
 
 ![[src_kangourou_2015_marzo_cadet__prob23.png]]
 

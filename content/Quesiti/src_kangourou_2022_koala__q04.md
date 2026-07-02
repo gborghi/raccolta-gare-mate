@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> when approximated to exactly three others< MSK1/>
+* when approximated to exactly three others*
 
 ![[src_kangourou_2022_koala__prob4.png]]
 

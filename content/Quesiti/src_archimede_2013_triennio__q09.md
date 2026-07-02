@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum notebooks of different colours, power of 2< MSK1/>
+*Maximum notebooks of different colours, power of 2*
 
 > Alberto goes to the mailroom to buy notebooks and wants them all in different colors. There are 2014 notebooks in various colours in the cartel; for each colour the number of notebooks is a power of 2, different from colour to colour. How many notebooks can Alberto buy at most?
 >

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Produced from solutions of f(n)=n< MSK1/>
+*Produced from solutions of f(n)=n*
 
 > For every positive integer n be f(n) = (n2  3n + 3)2  3(n2  3n + 3) + 3. What is the product of all (real) solutions to the equation f (n) = n ? (Answer [0000] if the equation has no solutions, [9999] if it has infinitesimal solutions.)
 

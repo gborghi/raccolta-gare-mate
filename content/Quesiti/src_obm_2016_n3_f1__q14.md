@@ -59,7 +59,7 @@ tags:
 
 *Numero di prodotti distinti P=S*E*I*Z in un criptaritmo di tipo SEIPZ con cifre non zero*
 
-> Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà < MSK0/>. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere < MSK18/>? [Valore della chiave di risposta: $12$.]
+> Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà $Z=S^3\times I^2$. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere $P$? [Valore della chiave di risposta: $12$.]
 
 **Risposta:** A
 [[src_obm_2016_n3_f1__Q14]]

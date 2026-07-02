@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum sum and minimum length of distribution network< MSK1/>
+*Maximum sum and minimum length of distribution network*
 
-> The network A plot of land 1 km square by side is divided into rectangular sections each of which may be 5 m < MSK0/> 20 m or 6 m < MSK1/> 12 m in size. The individual portions are separated by a network and the overall layout is fenced off, always by a network: taking into account all possible layouts, what is the sum between the maximum and minimum length in kilometres of the network as a whole required?
+> The network A plot of land square 1 km side is divided into rectangular sections each of which may be 5 m × 20 m or 6 m × 12 m in size. The individual portions are separated by a network and the overall layout is fenced off, always by a network: taking into account all possible layouts, what is the sum between the maximum and minimum length in kilometres of the network as a whole required?
 
 **Answer:** 0504
 [[src_kangourou_2024_junior_squadre_f2__Q02]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total weight of the three fruits< MSK1/>
+*Total weight of the three fruits*
 
 > A pear, an apple, and a plum are on the plate of a scale. If we remove the pear, the balance is 230 grams; if we remove the apple, the balance is 200 grams; if we remove the plum, the balance is 290 grams. How many grams weigh all three fruits? A) 200 B) 250 C) 300 D) 360 E) 420
 

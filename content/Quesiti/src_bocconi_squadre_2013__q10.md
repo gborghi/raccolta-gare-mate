@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Report dark area and large circle area< MSK1/>
+*Report dark area and large circle area*
 
 > In the figure you see three circles, tangent two to two, whose radii are proportional to 1, 2 and 3.
 > 

@@ -85,7 +85,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last figure of 11^2004< MSK1/>
+*Last figure of 11^2004*
 
 > What is the latest figure for 112004? A) 0 B) 1 C) 2 D) 3 E) 4 ( ) 2
 >  

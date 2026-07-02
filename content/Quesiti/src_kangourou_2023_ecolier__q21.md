@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>blue bags of Adam< MSK1/>
+*blue bags of Adam*
 
 > Adam and Eve have 9 balls per head: some are red, others are blue, and overall, the red balls are 8. Eva has a number of blue balls that is twice the number of her red balls. How many blue balls does Adam have?
 

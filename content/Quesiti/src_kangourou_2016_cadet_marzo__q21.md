@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> sum of lengths p,q,r,s< MSK1/>
+* sum of lengths p,q,r,s*
 
 ![[src_kangourou_2016_cadet_marzo__prob21.png]]
 

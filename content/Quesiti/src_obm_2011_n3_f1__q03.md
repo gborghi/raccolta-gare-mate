@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Il modo più economico per acquistare 1,2 kg di polvere CHOCOBM da lattine di varie dimensioni< MSK1/>
+*Il modo più economico per acquistare 1,2 kg di polvere CHOCOBM da lattine di varie dimensioni*
 
 > In una panetteria, una lattina $200$ g di cioccolato in polvere CHOCOBM costa R\$3.00, a $400$ g can costs R\$5,00 e una lattina $800$ g può costare R\$8.00. For a recipe one needs $1,2$ kg of CHOCOBM in that bakery. Among the options below, what is the most economical way to buy $1,2$ kg di CHOCOBM in quella panetteria?
 >

@@ -53,6 +53,6 @@ tags:
 
 *Con una condizione angolare sul triangolo ABC, un cerchio tangente a AC da A a D su BC incontra AB a P; dimostrare BP/AC = BD/DC.*
 
-> Nel triangolo $ABC$ si trova $\angle B > \angle C$. Il punto $D$ si trova sul lato $BC$ e soddisfa l'uguaglianza $\angle DAC = (1/2)(\angle B - \angle C)$. Il cerchio tangente alla linea $AC$ nel punto $A$ e contenente il punto $D$ interseca la linea $AB$ nel punto $P \ne A$. Provare che < MSK0/>
+> Nel triangolo $ABC$ si trova $\angle B > \angle C$. Il punto $D$ si trova sul lato $BC$ e soddisfa l'uguaglianza $\angle DAC = (1/2)(\angle B - \angle C)$. Il cerchio tangente alla linea $AC$ nel punto $A$ e contenente il punto $D$ interseca la linea $AB$ nel punto $P \ne A$. Provare che $$\frac{BP}{AC} = \frac{BD}{DC}.$$
 
 [[src_pol_2002_r1__Q11]]

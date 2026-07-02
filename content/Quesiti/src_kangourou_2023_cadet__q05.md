@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which expression is also odd< MSK1/>
+*which expression is also odd*
 
 > Positive integers m and n are both odd. Which of the following integers is also odd? A) m × (n + 1)
 > 	

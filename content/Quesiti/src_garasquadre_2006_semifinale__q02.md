@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive integer pairs (a,b) with a<=222 and a/2< b<2a/3< MSK1/>
+*Positive integer pairs (a,b) with a<=222 and a/2< b<2a/3*
 
 > The first test of the tournament finally came the big day of the Triangle tournament, which compares the best math students. Here's the first test: Find how many pairs (a,b) of positive integers are such as a ≤222 and a 2 < b < 2 3a.
 

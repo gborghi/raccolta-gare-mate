@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time for other subjects of Susanna< MSK1/>
+*Time for other subjects of Susanna*
 
 > Susanna takes exactly one hour to do all her homework. He spends a third of his time on math and two-fifths on geography. How long does it take to do the other subjects?
 >

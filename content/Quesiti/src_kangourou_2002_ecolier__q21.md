@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Matteo's arrival position < MSK1/>
+*Matteo's arrival position *
 
 > Twenty-eight boys are taking part in a race. The number of boys who came after Matthew is twice the number of boys who came before Matthew. In what position did Matthew arrive?
 >  

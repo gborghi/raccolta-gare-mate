@@ -55,6 +55,6 @@ tags:
 
 *Calcolazione \A_n_di_di_di_di, la differenza tra i conti di sottoinsiemi di elementi di {1,...,2n} con somme di elementi pari e odd.*
 
-> Per un intero positivo $n$, $A_n$ e $B_n$ siano le famiglie dei sottosetti di $n$-elementi di $S_n=\{1,2,\ldots,2n\}$ con rispettivamente somme pari e odd di elementi. Calcolare < MSK5/>.
+> Per un intero positivo $n$, $A_n$ e $B_n$ siano le famiglie dei sottoinsiemi di $n$-elementi di $S_n=\{1,2,\ldots,2n\}$ con rispettivamente somme pari e odd di elementi. Calcolare $|A_n|-|B_n|$.
 
 [[src_pol_2001_r2__Q06]]

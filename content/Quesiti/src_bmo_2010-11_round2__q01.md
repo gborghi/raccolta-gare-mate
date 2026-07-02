@@ -48,6 +48,6 @@ tags:
 
 *Mostra angoli uguali dal punto interno utilizzando la costruzione ceviana*
 
-> Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ che sia tra $X$ e $P$. La linea attraverso $B$ e $U$ incontra $XC$ a $V$ e la linea attraverso $C$ e $U$ incontra $XB$ a $W$. Mostra che < MSK20/>.
+> Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ che sia tra $X$ e $P$. La linea attraverso $B$ e $U$ incontra $XC$ a $V$ e la linea attraverso $C$ e $U$ incontra $XB$ a $W$. Mostra che $\angle WXP = \angle VXP$.
 
 [[src_bmo_2010-11_round2__Q01]]

@@ -57,10 +57,10 @@ tags:
 
 > Il $ABCD$ deve essere un tetraedro inciso in una sfera con il centro $O$. Denotare con $G$ il centro isobario delle quattro vertici del tetraedro e con $I$ il centro della sfera inserita nel tetraedro. dimostrare che le seguenti tre proprietà sono equivalenti:
 > 
-> < MSK2/>1. < MSK3/> I due punti < MSK0/> e < MSK1/> coincidono.
+> **1. ** I due punti $O$ e $G$ coincidono.
 > 
 > **2.** Le quattro facce del tetraedro sono congruenti (isometriche).
 > 
-> < MSK2/>3.< MSK3/> I due punti < MSK0/> e < MSK1/> coincidono.
+> **3.** I due punti $O$ e $I$ coincidono.
 
 [[src_cgen_1992__Q03]]

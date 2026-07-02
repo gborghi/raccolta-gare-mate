@@ -105,7 +105,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Name of box X from the remaining chocolates< MSK1/>
+*Name of box X from the remaining chocolates*
 
 ![[src_kangourou_2024_benjamin__prob14.png]]
 

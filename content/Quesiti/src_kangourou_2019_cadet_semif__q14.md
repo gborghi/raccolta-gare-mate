@@ -102,7 +102,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Major pedals on the 21-axle with all different distances< MSK1/>
+*Major pedals on the 21-axle with all different distances*
 
 ![[src_kangourou_2019_cadet_semif__prob14.png]]
 

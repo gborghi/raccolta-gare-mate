@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>ABCD quadrilaterale ciclico: BD perpendicolare a CA se EA2+EB2+EC2+ED2=4r2< MSK1/>
+*ABCD quadrilaterale ciclico: BD perpendicolare a CA se EA2+EB2+EC2+ED2=4r2*
 
 > $ABCD$ è un quadrilaterale inserito in un cerchio di raggio $r$. Le diagonali $AC$ e $BD$ si incontrano a $E$.
 > 

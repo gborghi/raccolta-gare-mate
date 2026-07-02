@@ -56,6 +56,6 @@ tags:
 
 *Triangolo acuto con circoncircolo; simultaneità/colinearità di punti di intersezione specifici*
 
-> Che $ABC$ sia un triangolo acuto con $AB < AC$ e che $\Gamma$ sia il suo cerchio circoscritto. Definire $M$ come punto medio del lato $BC$ e $D$, $E$, $F$ come i piedi delle altitudini rispetto ai lati $BC$, $AC$ e $AB$, rispettivamente. Prendi < MSK11/> come intersezione di < MSK12/> e < MSK13/>. Il $R$, $S$ siano le intersezioni di $EF$ e $\Gamma$, in modo tale che $R$ si trovi sull'arco $AB$ che non contiene $C$ e $S$ si trovi sull'arco $AC$ che non contiene $B$. Inoltre, supponiamo che $BS$ e $CR$ si incontrino al punto $T$. Indicare che < MSK27/> divide l'angolo < MSK28/>.
+> Che $ABC$ sia un triangolo acuto con $AB < AC$ e che $\Gamma$ sia il suo cerchio circoscritto. Definire $M$ come punto medio del lato $BC$ e $D$, $E$, $F$ come i piedi delle altitudini rispetto ai lati $BC$, $AC$ e $AB$, rispettivamente. Prendi $N$ come intersezione di $EF$ e $AM$. Il $R$, $S$ siano le intersezioni di $EF$ e $\Gamma$, in modo tale che $R$ sia situato sull'arco $AB$ senza $C$ e $S$ sia situato sull'arco $AC$ senza $B$. Inoltre, supponiamo che $BS$ e $CR$ si incontrino al punto $T$. Indicare che $DA$ divide l'angolo $\angle TDN$.
 
 [[src_obm_2025_n3_fx__Q02]]

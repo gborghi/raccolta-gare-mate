@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum first dividing by 251001< MSK1/>
+*Maximum first dividing by 251001*
 
 > So p is the largest prime number that divides 251001. In the case of the first subparagraph of Article 2 (1) of Regulation (EC) No 1408/71 the Commission shall adopt delegated acts in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71 and in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71.';
 

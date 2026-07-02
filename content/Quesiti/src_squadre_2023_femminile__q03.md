@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to eat 7 boxes of 7 types in order< MSK1/>
+*How to eat 7 boxes of 7 types in order*
 
 > Minion by Collatz The Dr. Nefarey's experimenting with minions with a new type of triple dimming gas. If you're locked in a room full of this gas, strange things happen. If the minions are even in number, you halve their number, but if they are odd in number, they multiply until they reach three times the initial population, plus one. This is a peculiar behavior, since it seems that at the end of the process there is always a minion alone! Il Dr. Nefarey wants to figure out how many minions you can start from to get to a point where you have exactly 10 minions. For example, if you put 20 minions in the room, the number of minions immediately becomes 10. At this point the professor is trying to find the smallest 10 initial numbers of minions, greater than 10 and different from 20, which allows you to have exactly 10 minions. What's the sum of these 10 numbers?
 

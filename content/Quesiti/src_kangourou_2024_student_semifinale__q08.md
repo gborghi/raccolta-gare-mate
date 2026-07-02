@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many strips can be obtained by changing colour in 4 squares< MSK1/>
+*How many strips can be obtained by changing colour in 4 squares*
 
 ![[src_kangourou_2024_student_semifinale__prob8.png]]
 

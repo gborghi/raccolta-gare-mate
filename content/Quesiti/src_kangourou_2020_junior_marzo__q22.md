@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance from the point where the hare turns< MSK1/>
+*Distance from the point where the hare turns*
 
 > The hare and the turtle challenge each other on a five-kilometer straight path. The speed of the hare is five times that of the turtle, and each keeps its speed constant. They start from the same point at the same moment but, by mistake, the hare runs in a direction perpendicular to the path, which the turtle takes in correctly. When the hare notices the error, it turns and runs in a straight line to the point of arrival, which it reaches at the same time as the turtle. How many kilometers from the point of arrival is the point where the hare realized the error? A) 11
 > 	

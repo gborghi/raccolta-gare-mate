@@ -51,7 +51,7 @@ tags:
 
 *Lunghezza XE da due circoncircoli che si incontrano a X*
 
-> Sul lato $BC$ del triangolo $ABC$ ci sono due punti $D$ e $E$, con i quattro punti $B,D,E,C$ in questo ordine. Abbiamo $\angle BAD=\angle ACE$ e $\angle ABD=\angle CAE$. $X$ sia il secondo punto di intersezione (diverso da $A$) del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ADC$, e $F$ sia l'intersezione di $AX$ e $BC$. Date $BF=5$, $CF=6$ e $XD=3$, si trova la lunghezza del segmento $XE$. (Se la risposta contiene un radicale < MSK18/>, indicare il valore < MSK19/> sotto il radicale.)
+> Sul lato $BC$ del triangolo $ABC$ ci sono due punti $D$ e $E$, con i quattro punti $B,D,E,C$ in questo ordine. Abbiamo $\angle BAD=\angle ACE$ e $\angle ABD=\angle CAE$. $X$ sia il secondo punto di intersezione (diverso da $A$) del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ADC$, e $F$ sia l'intersezione di $AX$ e $BC$. Date $BF=5$, $CF=6$ e $XD=3$, si trova la lunghezza del segmento $XE$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
 **Risposta:** $\dfrac{3\sqrt{30}}{5}$
 [[src_jmo27yq_yosen__Q08]]

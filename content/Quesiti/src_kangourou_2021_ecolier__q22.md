@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tasks containing apples given the triple weight< MSK1/>
+*Tasks containing apples given the triple weight*
 
 ![[src_kangourou_2021_ecolier__prob22.png]]
 

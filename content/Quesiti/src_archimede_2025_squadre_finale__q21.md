@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume of sub-tetrahedron by volume of sub-tetrahedron < MSK1/>
+*Volume of sub-tetrahedron by volume of sub-tetrahedron *
 
 ![[src_archimede_2025_squadre_finale__prob21.png]]
 

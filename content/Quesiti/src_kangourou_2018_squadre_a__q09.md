@@ -51,7 +51,7 @@ tags:
 
 *Result of the difference in products close to 20182018*
 
-> What a difference! What is the result of 20.182.017 < MSK0/> 20.182.019  20.182.015 < MSK1/> 20.182.021?
+> What a difference! What is the result of 20.182.017 × 20.182.019  20.182.015 × 20.182.021?
 
 **Answer:** 8
 [[src_kangourou_2018_squadre_a__Q09]]

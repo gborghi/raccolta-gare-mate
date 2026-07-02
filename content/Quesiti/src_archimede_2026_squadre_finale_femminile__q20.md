@@ -42,10 +42,6 @@ tags:
 > 3
 > ...
 > 18
-> 
-> 
-> 
-> 
 > . Che risultato troverà quando porterà a 
 > termine il suo voto?
 

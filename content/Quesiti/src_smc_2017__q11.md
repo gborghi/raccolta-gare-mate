@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; somma = 8 volte la differenza. Indicare l'età di persona più anziana.< MSK1/>
+Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; somma = 8 volte la differenza. Indicare l'età di persona più anziana.*
 
 > Gli adolescenti Sam e Jo notano i seguenti fatti sulla loro età:
 > 

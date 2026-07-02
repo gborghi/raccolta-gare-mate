@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Price of sweater if VAT goes from 22% to 24%< MSK1/>
+*Price of sweater if VAT goes from 22% to 24%*
 
 > The sale price of an asset is obtained by increasing the actual amount of a certain percentage, called VAT (a tax, which is then paid to the tax). In a shop, the selling price of a sweater is 61,00 and, including VAT, at 22%. If VAT went up to 24%, what would be the selling price of the sweater?
 >

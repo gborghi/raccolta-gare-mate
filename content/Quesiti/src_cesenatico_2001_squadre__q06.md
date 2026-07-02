@@ -70,11 +70,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>exact answer to the numeric crossword< MSK1/>
+*exact answer to the numeric crossword*
 
 ![[src_cesenatico_2001_squadre__prob6.png]]
 
-> Other readings MSK1/ (65 points)
+> Other readings**(65 points)
 > 
 > One of the most controversial measures of the Senate this month is a law banning the publication of crosswords. Some student associations have launched the monthly "Contestation" cross-number to protest.
 > 
@@ -84,9 +84,9 @@ tags:
 > 
 > (1) The exact answer to this game.
 > 
-> (2) It is a prime number, equal to the product of more consecutive prime numbers minus 1 (e.g. < MSK0/>, even if this is not a prime number).
+> (2) It is a prime number, equal to the product of more consecutive primes less 1 (e.g. $5 \times 7 \times 11 - 1$, even if this is not a prime number).
 > 
-> (3) Product of three consecutive numbers (e.g. < MSK0/>).
+> (3) Product of three consecutive numbers (e.g. $4 \times 5 \times 6$).
 > 
 > (4) It is a prime number.
 > 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>100° moltiplo positivo di 7 o 8 in ordine crescente< MSK1/>
+*100° moltiplo positivo di 7 o 8 in ordine crescente*
 
 > Scrivi in ordine crescente tutti i numeri interi positivi che sono multipli di $7$ o $8$ (o entrambi), ottenendo $7, 8, 14, 16, \ldots$ Il numero scritto è:
 > 

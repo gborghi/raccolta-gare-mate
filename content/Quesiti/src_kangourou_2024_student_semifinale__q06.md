@@ -55,9 +55,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of three-digit product terms with more than zero < MSK1/>
+*Probability of three-digit product terms with more than zero *
 
-> (Points 4) Multiplying between them three randomly chosen numbers in the {38, 55, 68, 104, 175, 375}, what is the probability out of 100 that the product ends with the maximum number of zeros possible? A) 10 B) 15 C) 20 D) 25 E) 30 Answer: E). The solution. The factors of the six numbers are, in the order, 2 × 19, 5 × 11, 22 × 17, 23 × 13, 52 × 7, 53 × 3. The number of zeros is given by the highest exponent to which a high 2 < MSK6/> 5 can appear in the product; this exponent is clearly 3, which can be obtained by the following different choices of the trane: {104, 375, any of the remaining 4}, {38, 68, 375}, {55, 104, 175}, for a total of 6 out of 20 trane.
+> (Points 4) Multiplying between them three randomly chosen numbers in the {38, 55, 68, 104, 175, 375}, what is the probability out of 100 that the product ends with the maximum number of zeros possible? A) 10 B) 15 C) 20 D) 25 E) 30 Answer: E). The solution. The factors of the six numbers are, in the order, 2 × 19, 5 × 11, 22 × 17, 23 × 13, 52 × 7, 53 × 3. The number of zeros is given by the highest exponent to which a high 2 × 5 can appear in the product; this exponent is clearly 3, which can be obtained by the following different choices of the trane: {104, 375, any of the remaining 4}, {38, 68, 375}, {55, 104, 175}, for a total of 6 out of 20 trane.
 
 **Answer:** E
 [[src_kangourou_2024_student_semifinale__Q06]]

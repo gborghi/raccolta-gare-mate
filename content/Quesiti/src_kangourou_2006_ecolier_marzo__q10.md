@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many children in the family of Pietro< MSK1/>
+*How many children in the family of Pietro*
 
 > Peter has exactly one brother and his sister Catherine has as many brothers as she has sisters. How many children (both male and female) were in Peter's family? A) 2 B) 3 C) 4 D) 5 E) 6 a b c d and 309 41 68 5 7 2 Ecolier_06.qxp 21/02/2006 0.07 Page 6
 > 

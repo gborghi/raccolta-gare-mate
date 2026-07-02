@@ -48,36 +48,9 @@ tags:
 > X
 > X
 > B
-> X
-> X
-> X
-> X
-> X
-> X
 > C
-> X
-> X
-> X
-> X
-> X
-> X
-> X
-> X
 > D
-> X
-> X
-> X
-> X
-> X
-> X
-> X
 > E
-> X
-> X
-> X
-> X
-> X
-> X
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
@@ -94,7 +67,7 @@ This is the total value of the own funds of the institution.
 
 > Two three-digit numbers have all six different digits. The first digit of the second number is twice the last digit of the first. What's the smallest number you can get by adding two numbers of this kind? A) 552 B) 546 C) 301 D) 535 E) 537
 > 
-> A category X X X X B X X X X X X X X X X X X X X X X X X X X X
+> A category X X X X B
 
 **Answer:** E
 [[src_kangourou_2016_marzo_benjamin__Q30]]

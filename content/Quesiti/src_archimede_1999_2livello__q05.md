@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Identify the relative in the family relationship of Alberto< MSK1/>
+*Identify the relative in the family relationship of Alberto*
 
 > One of the following persons is "the brother-in-law of Alberto's father's daughter-in-law's brother". This is:
 >

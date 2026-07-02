@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>over two years< MSK1/>
+*over two years*
 
 > Six years ago, Anna was five times as old as her son, Mario. Now, instead, it's three times Mario's age. How many years from now will Anna be twice as old as Mario?
 >

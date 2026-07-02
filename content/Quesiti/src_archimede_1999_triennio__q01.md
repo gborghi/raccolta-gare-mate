@@ -61,7 +61,7 @@ tags:
 > - **(B)** 80
 > - **(C)** 96
 > - **(D)** 140
-> - **(E)** non si può determinare univocamente. b A b b b b b B b b b b b b b b b b b b b b b b D b b C b b b
+> - **(E)** non si può determinare univocamente.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
@@ -100,7 +100,7 @@ tags:
 > - **(B)** 80
 > - **(C)** 96
 > - **(D)** 140
-> - **(E)** It cannot be determined uniquely. b A b b b b b B b b b b b b b b b b b b b b b b D b b C b b b
+> - **(E)** It cannot be determined uniquely.
 
 **Answer:** C
 [[src_archimede_1999_triennio__Q01]]

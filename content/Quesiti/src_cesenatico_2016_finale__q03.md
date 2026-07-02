@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Produced PA< MSK1/>PC in the isosceles trapezoid (angles) < MSK2/>
+*Produced PA*PC in the isosceles trapezoid (angles) *
 
 > The missing planet within the ABCD trapezoid, the planet you will find. Master Yoneda, speaking by inversion, points to Obi-Van Kampenobi the location of the planet Rudino. The trapezoid is isosceles. Bases AB and CD 32 and 18, respectively, are long. At a point P such that PAD = PBA and PDA = PCD, the planet is located.  Obi-Van discovers from his friend TEX that the area of the ABP triangle is 192. How much is the product of PA and PC lengths?
 

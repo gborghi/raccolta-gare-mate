@@ -58,7 +58,7 @@ tags:
 
 *Nel PQRS quadrato, l'arco QS è un quarto di cerchio con il centro Q. La linea TU è tangente all'arco, con T su QR e U su SR estesa. Trova TR: UR.*
 
-> Il diagramma mostra un quadrato $PQRS$. L'arco $QS$ è un quarto di cerchio. La linea $TU$ è una tangente all'arco $QS$. Il punto $T$ si trova su $QR$ e il punto $U$ si trova su $SR$ esteso. Qual è la lunghezza di < MSK8/>?
+> Il diagramma mostra un quadrato $PQRS$. L'arco $QS$ è un quarto di cerchio. La linea $TU$ è una tangente all'arco $QS$. Il punto $T$ si trova su $QR$ e il punto $U$ si trova su $SR$ esteso. Qual è la lunghezza di $TR : UR$?
 >
 > - **(A)** $3:2$
 > - **(B)** $4:3$

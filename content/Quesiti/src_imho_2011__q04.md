@@ -53,6 +53,6 @@ tags:
 
 Count ways to place weights on balance without right pan heavier
 
-> Let < MSK0/> be an integer. We are given a balance and $n$ weights of weight $2^0, 2^1, \ldots, 2^{n-1}$. We are to place each of the weights on the balance, one after the other, so that the right pan is never heavier than the left pan. At each step we choose one of the weights that has not yet been placed on the balance, and place it on either the left pan or the right pan, until all of the weights have been placed. Determine the number of ways this can be done.
+> Let $n > 0$ be an integer. We are given a balance and $n$ weights of weight $2^0, 2^1, \ldots, 2^{n-1}$. We are to place each of the weights on the balance, one after the other, in such a way that the right pan is never heavier than the left pan. At each step we choose one of the weights that has not yet been placed on the balance, and place it on either the left pan or the right pan, until all of the weights have been placed. Determine the number of ways this can be done.
 
 [[src_imho_2011__Q04]]

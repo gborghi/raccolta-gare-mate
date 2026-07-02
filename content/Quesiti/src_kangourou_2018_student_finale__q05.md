@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Demonstrate the existence of a circle with exactly n knots < MSK1/>
+*Demonstrate the existence of a circle with exactly n knots *
 
 > Imagine the plane as a square sheet (all on the same side) boundless in every direction and call **node** each vertex of each square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
 

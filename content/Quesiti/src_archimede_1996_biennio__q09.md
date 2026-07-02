@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time on 200 m of a steady speed sprinter< MSK1/>
+*Time on 200 m of a steady speed sprinter*
 
 > A very regular sprinter when running the 100 meters takes 2.4 seconds for the first 20 meters and runs the remaining 80 meters at a constant speed, completing the race in 10 net seconds. If it went on for another 100 meters without changing its speed what time would it get on the 200 meters?
 >

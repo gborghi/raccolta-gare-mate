@@ -54,7 +54,7 @@ tags:
 
 *Counting of lies in a circle with statements about neighbors*
 
-> Mutiny The true pearl swarm is divided into two factions: the MSK0/> rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plan to mutine. At the end of the final report, as early as 2010 members of the crew were arranged in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many mutineers will there be in total?
+> Mutiny The true pearl swarm is divided into two factions: the MSK rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plan to mutine. At the end of the final report, as early as 2010 members of the crew were arranged in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many mutineers will there be in total?
 
 **Answer:** 0670
 [[src_gas_2010_semifinale_a__Q02]]

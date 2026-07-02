@@ -45,9 +45,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum value of c with a< b< c and reported data< MSK1/>
+*Maximum value of c with a< b< c and reported data*
 
-> Whether $n$ is a positive three-digit integer $a$, $b$, $c$ (with $a \neq 0$) such that $n$ has the same number of decimal digits as $a + b + c$. What is the maximum value that < MSK7/> can assume?
+> Whether $n$ is a positive three-digit integer $a$, $b$, $c$ (with $a \neq 0$) such that $n$ has the same number of decimal digits as $a + b + c$. What is the maximum value that $n$ can assume?
 > 
 > (A) 9 and so on; (B) 10 and so on; (C) 19 and so on; (D) 30 and so on; (E) 31
 

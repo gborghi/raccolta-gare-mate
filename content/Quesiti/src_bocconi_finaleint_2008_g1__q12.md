@@ -62,7 +62,7 @@ tags:
 
 *Naval Battle: positioning ships on a 6x5 grid by deducing from rotated photos.*
 
-> The figure represents a map of the military port of Maths-Pays and three of its aerial photographs taken at the same time. Boxes occupied by two different ships cannot touch each other, not even diagonally. All ships are < MSK1/> wide. There is one aircraft carrier $3$, two counter-terrainers $2$ and three stockpiles $1$. Complete the paper, knowing that there are no photos that have the correct orientation (each rotated).
+> The figure represents a map of the military port of Maths-Pays and three of its aerial photographs taken at the same time. Boxes occupied by two different ships cannot touch each other, not even diagonally. All ships are $1$ wide. There is one aircraft carrier of length $3$, two anti-shippers of length $2$ and three stockpiles of length $1$. Complete the paper, knowing that there are no photos that have the correct orientation (each rotated).
 
 ![[src_bocconi_finaleint_2008_g1__Q12.png]]
 

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK3/>Max × 1004 < MSK0/>1005 < MSK1/>... < MSK2/>2008 è divisibile per 2 < MSK4/>
+*Max × 1004 ×1005 ×... ×2008 è divisibile per 2 *
 
 > Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (cioè trovare il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
 

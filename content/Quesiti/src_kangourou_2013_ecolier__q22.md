@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many moons on the stretched carpet< MSK1/>
+*How many moons on the stretched carpet*
 
 > Peter bought a carpet 60 centimeters long and 36 wide. The carpet has a design made up of squares all of the same size that contain either the sun or the moon, as shown in the figure, which shows only one end of the carpet (imagine the remaining part being rolled). When the carpet is completely stretched, how many moons can you see? A) 68
 >         	

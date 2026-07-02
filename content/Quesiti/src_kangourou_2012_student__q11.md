@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Angle phi in the regular 5-pointed star< MSK1/>
+*Angle phi in the regular 5-pointed star*
 
 > My age is a two-digit number (in decimal form) that is a power of 5, while the age of a colleague of mine is a two-digit number that is a power of 2. The sum of all the digits of our ages is an odd number. How much is the product of those figures worth? A) 240 B) 2010 C) 60 D) 50 E) 300
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of non-promoted in relation to class< MSK1/>
+*Fraction of non-promoted in relation to class*
 
 > The 45 pupils in a class were promoted without training debts. Knowing that pupils promoted with educational debt are 16 of those promoted without debt, the fraction of those not promoted (compared to the whole class)
 >

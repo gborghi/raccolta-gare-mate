@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Zero in the ratio of (2004 units)/3< MSK1/>
+*Zero in the ratio of (2004 units)/3*
 
 > Alfonso divided the number by 3 (i.e. the number formed from 2004 figures all equal to 1). How many zeros are in the quotient you got? A) 1002      B) 669        C) 668        D) 667       E) 665
 

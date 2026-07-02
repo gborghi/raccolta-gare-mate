@@ -51,7 +51,7 @@ tags:
 
 *Most difference in money around a round table*
 
-> Around a round table there are < MSK0/> people. By talking to each other, they discover that the absolute value of the difference in money in the wallets of two people sitting next to each other is always $4\text{€}$ or $5\text{€}$. They also note that no couple of people have the same amount of money. What's the biggest difference between two people's money?
+> Around a round table there are $2022$ people. By talking to each other, they discover that the absolute value of the difference in money in the wallets of two people sitting next to each other is always $4\text{€}$ or $5\text{€}$. They also note that no couple of people have the same amount of money. What's the biggest difference between two people's money?
 
 **Answer:** 5054
 [[src_gsm_2022_squadre__Q18]]

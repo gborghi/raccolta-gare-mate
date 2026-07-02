@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time for the koala family together< MSK1/>
+*Time for the koala family together*
 
 > 8. A small koala eats the leaves of an entire eucalyptus tree in 10 hours. Both his father and mother eat twice as fast as he does. How long will the three members of the family together manage to eat all the leaves of the same tree? (A) two hours (B) three hours (C) four hours (D) five hours (E) six hours. Kangourou 15 March 2001, category Cadet. This item is not intended to be used.
 

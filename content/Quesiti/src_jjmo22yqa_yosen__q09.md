@@ -64,13 +64,13 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Conta i tour hamiltoniani in fase 2024 sulle cellule 2024 con movimenti ristretti che ritornano alla cellula 1*
+*Conta i tour hamiltoniani in fase 2024 sulle celle 2024 con movimenti limitati che ritornano alla cellula 1*
 
-> Ci sono $2024$ celle etichettate $1, 2, \ldots, 2024$, e un pezzo che inizia sulla cella $1$. Per un numero intero $k$ con $1 \le k \le 2024$, quando il pezzo si trova nella cella $k$, può essere eseguita una delle seguenti mosse:
+> Ci sono $2024$ celle etichettate $1, 2, \ldots, 2024$, e un pezzo che inizia sulla cella $1$. Per un numero intero $k$ con $1 \le k \le 2024$, quando il pezzo è in cella $k$, può essere eseguita una delle seguenti mosse:
 > 
-> 1. Traslocare il pezzo nella cella < MSK0/>. 2. Trasferire il pezzo nella cella $k + 1$. 3. Trasferire il pezzo nella cella $k - 2$ (autorizzato solo quando $k$ è pari). 4. Trasferire il pezzo nella cella $k + 2$ (autorizzato solo quando $k$ è pari).
+> 1. Traslocare il pezzo nella cella $k - 1$. 2. Trasferire il pezzo nella cella $k + 1$. 3. Trasferire il pezzo nella cella $k - 2$ (autorizzato solo quando $k$ è pari). 4. Trasferire il pezzo nella cella $k + 2$ (autorizzato solo quando $k$ è pari).
 > 
-> Trovare il numero di sequenze di movimenti $2024$ esattamente in modo che il pezzo visita ogni cella diversa dalla cella $1$ esattamente una volta e ritorni alla cella $1$ alla fine, senza visitare la cella $1$ in mezzo.
+> Trova il numero di sequenze di movimenti $2024$ esattamente in modo che il pezzo visita ogni cella diversa dalla cella $1$ esattamente una volta e ritorni alla cella $1$ alla fine, senza visitare la cella $1$ in mezzo.
 > 
 > (Qui le celle $0$ e $2025$ rappresentano le celle $2024$ e $1$, rispettivamente.)
 

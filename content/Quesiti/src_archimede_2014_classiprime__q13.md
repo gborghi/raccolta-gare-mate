@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of positive divisors of n=1122^2-121< MSK1/>
+*Number of positive divisors of n=1122^2-121*
 
 > To say how many positive divisors of n = 11222 −121 (also counting 1 and n). A 12 B 121 C 30 D 9 E 36 F 6
 

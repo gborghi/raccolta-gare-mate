@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which statement can be true (sport) < MSK1/>
+*Which statement can be true (sport) *
 
 > Anna, Bianca, Cecilia, and Diana each practice one of the following sports: karate, soccer, volleyball, and judo. Anna does not practice sports that use a ball, the white judoka often goes to the stadium to attend football matches. Which of the following statements can be true? A) Anna plays volleyball B) Bianca plays soccer C) Cecilia plays volleyball D) Diana plays karate E) Anna plays judo
 

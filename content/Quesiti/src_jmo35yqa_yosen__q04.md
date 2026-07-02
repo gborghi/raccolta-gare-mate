@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i numeri interi 1..1000 i cui restanti mod 2,3,4,5,6 sono separati in coppia< MSK1/>
+*Contare i numeri interi 1..1000 i cui restanti mod 2,3,4,5,6 sono separati in coppia*
 
 > Quanti integri $n$ con $1 \le n \le 1000$ hanno la proprietà che i rimanenti ottenuti quando $n$ è diviso da $2$, $3$, $4$, $5$, $6$ rispettivamente sono pareggiamente distinti (nessuno di due è uguale)?
 

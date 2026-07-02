@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rate of regular exaggerated areas on an equilateral triangle< MSK1/>
+*Rate of regular exaggerated areas on an equilateral triangle*
 
 > A regular hexagon and an equilateral triangle are inscribed in the same circle. Dividing the area of the hexagon by the area of the triangle, what number is obtained? A) 2
 > 	

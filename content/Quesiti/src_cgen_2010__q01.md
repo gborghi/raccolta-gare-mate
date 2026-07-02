@@ -79,11 +79,11 @@ tags:
 > 
 > 3. Determinare i centri delle omotesi che trasformano $\gamma$ in $\gamma'$.
 > 
-> 4. Let < MSK0/>. Indicare che i punti $A$, $I$, $D$ sono allineati su una linea ortogonale a $(GD)$.
+> 4. Let $AB = (\Delta)$. Indicare che i punti $A$, $I$, $D$ sono allineati su una linea ortogonale a $(GD)$.
 > 
-> 5. Mostra che < MSK0/>.
+> 5. Mostra che $AB = GD$.
 > 
-> 6. Esprimere il raggio $r'$ di $\gamma'$ in funzione dei raggi $R$ e $r$ di $\Gamma$ e $\gamma$.
+> 6. Esprimere il raggio $r'$ di $\gamma'$ come funzione dei raggi $R$ e $r$ di $\Gamma$ e $\gamma$.
 > 
 > (Nota: la dichiarazione stampata utilizza diverse etichette di punti/cerchi che sono parzialmente illeggibili nella scansione sorgente; vedi avvertenze.)
 

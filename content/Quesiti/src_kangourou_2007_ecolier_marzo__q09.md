@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Third doll by size (matrioska) < MSK1/>
+*Third doll by size (matrioska) *
 
 > A matrioska is made up of 5 dolls of different colors, one contained in the other. That blue is smaller than the green, but not the yellow. The blue one is bigger than both the blue and the green one, but smaller than the red one. What color is the third doll in order of size? A) green B) red C) blue D) blue E) yellow
 

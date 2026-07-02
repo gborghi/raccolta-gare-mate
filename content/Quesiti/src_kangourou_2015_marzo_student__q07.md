@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many holes < MSK1/>
+*how many holes *
 
 ![[src_kangourou_2015_marzo_student__prob7.png]]
 

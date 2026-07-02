@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bustles to be taken for 3 tickets of 3 colours< MSK1/>
+*Bustles to be taken for 3 tickets of 3 colours*
 
 > Clear has a lot of colored tickets, each contained in a pocket: 30 are red, 25 are green, 33 are yellow, 21 are blue. He picks up some pockets at random, without opening them (the colours of the tickets are not visible from the outside). How many do you have to take, at least, to make sure you find at least three tickets with three different colors?
 >

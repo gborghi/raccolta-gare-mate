@@ -55,7 +55,7 @@ tags:
 
 *Contare i numeri a 3 cifre ABC con ABC + BCA + CAB = AAA × 10*
 
-> Le cifre $A$, $B$, $C$ non sono zero e formano i numeri $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ in modo tale che $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quanti numeri < MSK7/> esistono?
+> Le cifre $A$, $B$, $C$ non sono zero e formano i numeri $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ in modo tale che $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quanti numeri $\overline{ABC}$ esistono?
 > 
 > **A) ** 6 $\quad$ **B) ** 8 $\quad$ **C) ** 9 $\quad$ **D) ** 15 $\quad$ **E) ** nessuno
 

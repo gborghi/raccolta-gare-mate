@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of base figures 2 of p(128) per product< MSK1/>
+*Summary of base figures 2 of p(128) per product*
 
 > An unusual climb [40] The third and final difficulty imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Wise Man of the Mountain. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=2(1+x2i)−1 and burns it asking him what the sum of the digits on the base 2 of p(128 is worth. How should Abelix respond?
 

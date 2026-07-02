@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Excise time from two clocks going forward by 8 and 6 minutes per hour< MSK1/>
+*Excise time from two clocks going forward by 8 and 6 minutes per hour*
 
 > Two clocks were charged and started at the same time today. But the first goes on for eight minutes every hour, the second for six. What time is it exactly when, still today, the first clock indicates 7:09 p.m. and the second 6:53 p.m.?
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many stars in the figure< MSK1/>
+*How many stars in the figure*
 
 ![[src_kangourou_2008_ecolier_marzo__prob2.png]]
 

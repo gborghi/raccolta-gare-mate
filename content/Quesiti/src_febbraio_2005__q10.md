@@ -44,7 +44,7 @@ tags:
 
 It's a game of chips, a winning strategy.
 
-> They are < MSK0/>, < MSK1/> positive integers prime to each other. What is the maximum value that the maximum common divisor between $(a + b)^2$ and $a - b$ can assume?
+> They are $a$, $b$ positive integers prime to each other. What is the maximum value that the maximum common divisor between $(a + b)^2$ and $a - b$ can assume?
 > 
 > **(A) ** 3 **(B) ** 4 **(C) ** 16 **(D) ** 32 **(E) ** may be large as desired.
 

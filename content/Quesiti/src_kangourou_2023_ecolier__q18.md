@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>open figure< MSK1/>
+*open figure*
 
 ![[src_kangourou_2023_ecolier__prob18.png]]
 

@@ -55,13 +55,13 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining molecule type (reactions with invariant) < MSK1/>
+*Remaining molecule type (reactions with invariant) *
 
 > By reacting with each other, three types of $X$, $Y$ and $\text{Anti-X}$ molecules behave as follows: - if a molecule of $X$ meets one of $Y$, a molecule of $\text{Anti-X}$ is formed that replaces them; - if a molecule of $\text{Anti-X}$ meets one of $Y$, a molecule of $X$ is formed that replaces them; - if a molecule of $X$ and one of $\text{Anti-X}$ meet, they explode, explode and release energy.
 > 
 > Of course, no molecule reacts with molecules of the same type!
 > 
-> Four < MSK0/> molecules, two < MSK1/> and five < MSK2/> react with each other in such a way that one molecule is eventually left. Can we guess what kind of guy he is?
+> Four $X$ molecules, two $Y$ and five $\text{Anti-X}$ react with each other in such a way that one molecule is eventually left. Can we guess what kind of guy he is?
 > 
 > [Caution: if you are positive, you must show that no other result can be obtained; otherwise, you must indicate two procedures each of which allows one molecule to be produced and the two molecules produced are different].
 

@@ -55,7 +55,7 @@ tags:
 
 *Conte le mappe F su sottoinsiemi di {1..6} con F(F(A)∪B)=A∩F(B)*
 
-> Let < MSK1/>. Considera le regole $F$ che assegnano a ciascun sottoinsieme $X$ di $S$ un sottoinsieme $F(X)$ di $S$, in modo tale che per ogni coppia di sottoinsiemi $A, B$ di $S$, $$F\bigl(F(A) \cup B\bigr) = A \cap F(B)$$ sia valida. Quante norme di questo tipo esistono?
+> Let $S = \{1, 2, \ldots, 6\}$. Considera le regole $F$ che assegnano a ciascun sottoinsieme $X$ di $S$ un sottoinsieme $F(X)$ di $S$, in modo tale che per ogni coppia di sottoinsiemi $A, B$ di $S$, $$F\bigl(F(A) \cup B\bigr) = A \cap F(B)$$ sia valida. Quante norme di questo tipo esistono?
 
 **Risposta:** 499
 [[src_jmo29yq_yosen__Q12]]

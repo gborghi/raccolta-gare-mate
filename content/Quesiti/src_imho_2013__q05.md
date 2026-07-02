@@ -59,6 +59,6 @@ tags:
 
 Functional equation on positive rationals with f(x)=x*
 
-> Let MSK0/ be the set of positive rational numbers. Let $f : \mathbb{Q}_{>0} \to \mathbb{R}$ be a function satisfying the following three conditions: \begin{itemize} \item[(i) ] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x) \cdot f(y) \ge f(xy)$; \item[(ii)] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x + y) \ge f(x) + f(y)$; \item[(iii)] there exists a rational number $a > 1$ such that $f(a) = a$. \end{itemize} Prove that for all $x \in \mathbb{Q}_{>0}$.
+> Let$\mathbb{Q}_{>0}$be the set of positive rational numbers. Let $f : \mathbb{Q}_{>0} \to \mathbb{R}$ be a function satisfying the following three conditions: \begin{itemize} \item[(i) ] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x) \cdot f(y) \ge f(xy)$; \item[(ii)] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x + y) \ge f(x) + f(y)$; \item[(iii)] there exists a rational number $a > 1$ such that $f(a) = a$. \end{itemize} Prove that for all $x \in \mathbb{Q}_{>0}$.
 
 [[src_imho_2013__Q05]]

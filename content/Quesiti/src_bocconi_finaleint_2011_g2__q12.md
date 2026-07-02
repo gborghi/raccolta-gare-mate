@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of grey area in the lily< MSK1/>
+*Percentage of grey area in the lily*
 
 > There's a glass in Mathematics Castle that represents a lily. All circle arcs are quarters of a circle. All the contact points are perfect. What is the area of the gray part on the figure, as a percentage of the area of the largest square? If necessary, take $2217$ for $\pi$.
 

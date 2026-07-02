@@ -60,14 +60,14 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Anni palindromici: i prossimi quattro dopo il 2002, il prossimo palindromice odd, il prossimo palindromice primario dopo il 929< MSK1/>
+*Anni palindromici: i prossimi quattro dopo il 2002, il prossimo palindromice odd, il prossimo palindromice primario dopo il 929*
 
 > L'anno $2002$ è un palindromo, cioè si legge lo stesso da sinistra a destra e da destra a sinistra.
 > 
-> a) A partire da MSK0/, quali saranno i prossimi quattro anni di palindrome?
+> a) A partire da$2002$, quali saranno i prossimi quattro anni di palindrome?
 > 
-> b) L'ultimo anno di palindroma pari è stato < MSK0/>, che è stato pari. Quando si verificherà il prossimo anno palindromo?
+> b) L'ultimo anno di palindroma pari è stato $1991$, che è stato pari. Quando si verificherà il prossimo anno palindromo?
 > 
-> c) L'ultimo anno di palindrome primario è avvenuto più di < MSK0/> anni fa, in < MSK1/>. Determina quale sarà il prossimo primo palindromo.
+> c) L'ultimo anno di palindrome primario è avvenuto più di $1000$ anni fa, in $929$. Determina quale sarà il prossimo primo palindromo.
 
 [[src_obm_2002_n2_f2__Q06]]

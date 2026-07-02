@@ -50,7 +50,7 @@ tags:
 > - **(B)** 10
 > - **(C)** 11
 > - **(D)** 14
-> - **(E)** 16. b b b b b b b
+> - **(E)** 16.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

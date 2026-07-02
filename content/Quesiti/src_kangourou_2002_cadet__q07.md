@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Days and eggs remaining for the order< MSK1/>
+*Days and eggs remaining for the order*
 
 > Alfonso the pastry chef produces 23 Easter eggs a day and receives a request for 2002 eggs just on a day when he no longer has eggs in stock. After how many days (including the first) can Alfonso fulfill the order and how many eggs does he have left after sending the 2002 eggs?
 >  

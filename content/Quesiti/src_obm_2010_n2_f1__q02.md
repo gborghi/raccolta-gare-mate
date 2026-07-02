@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>2% aumento del più piccolo di due numeri consecutivi dà il più grande; trovare somma < MSK1/>
+*2% aumento del più piccolo di due numeri consecutivi dà il più grande; trovare somma *
 
 > Aumentando di $2\%$ il valore del più piccolo di due numeri consecutivi, otteniamo il più grande di loro. Qual è la somma di questi numeri?
 >

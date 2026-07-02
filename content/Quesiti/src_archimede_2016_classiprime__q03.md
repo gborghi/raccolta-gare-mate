@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Product m< MSK1/>n data MCD=6 and mcm=3150< MSK2/>
+Product m*n data MCD=6 and mcm=3150*
 
 > Given two positive integers m and n, we know that MCD(m, n) = 6 and that mcm(m, n) = 3150. What is the value of the product? A 18900 B 9450 C 6300 D 12600 E the data provided are incompatible because there are no two numbers n and m satisfying the required conditions F the data provided are insufficient to satisfy
 

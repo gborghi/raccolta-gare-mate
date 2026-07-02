@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of water reaching B after forking< MSK1/>
+*Fraction of water reaching B after forking*
 
 ![[src_kangourou_2008_benjamin_marzo__prob12.png]]
 

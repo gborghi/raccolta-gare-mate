@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>values of n< MSK1/>
+*values of n*
 
 > 2 . You want to draw on one of these sheets a grid of size (n + 1) × n and the one on the shorter side is made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of n? S3. (11 points) The currency in use in Khangland is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that for every positive integer N, the different possible ways to realize the sum of N + 1 kang are in the narrowest number.
 

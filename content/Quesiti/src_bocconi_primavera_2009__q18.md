@@ -51,7 +51,7 @@ tags:
 
 *Initial side of the square of Peter's land*
 
-> Peter decides to enlarge his square ground so that it remains square but measures an extra meter on each side. In this way, the area of its land is increased by < MSK0/>.
+> Peter decides to enlarge his square ground so that it remains square but measures an extra meter on each side. In this way, the area of its land is increased by $27 \text{ m}^2$.
 > 
 > What was the initial length of the side of Peter's land?
 

@@ -70,7 +70,7 @@ tags:
 
 Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma erroneamente cammina un'ora tra ovest e nord a 30 gradi da nord; trova l'angolo da nord della direzione che deve prendere ora.*
 
-> Un viaggiatore deve camminare per un'ora in direzione tra nord e est, facendo < MSK0/> con est. Ha sbagliato e camminato per un'ora in direzione tra ovest e nord, formando $30^\circ$ con nord. Per raggiungere la sua destinazione, ora deve prendere una direzione che faccia con il nord un angolo di:
+> Un viaggiatore deve camminare per un'ora in direzione tra nord e est, facendo $30^\circ$ con est. Ha sbagliato e camminato per un'ora in direzione tra ovest e nord, formando $30^\circ$ con nord. Per raggiungere la sua destinazione, ora deve prendere una direzione che faccia con il nord un angolo di:
 > 
 > A) $0^\circ$
 > 

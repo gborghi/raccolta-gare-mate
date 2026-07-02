@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of three vertices exaggerating the shape of an equilateral triangle< MSK1/>
+*Probability of three vertices exaggerating the shape of an equilateral triangle*
 
 > What is the probability that, if three distinct vertices of a regular hexagon are taken at random, they are the vertices of an equilateral triangle?
 >

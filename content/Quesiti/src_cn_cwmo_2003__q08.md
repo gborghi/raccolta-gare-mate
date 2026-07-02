@@ -48,8 +48,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rimedio sul numero di ragazzi in seduta< MSK1/>
+*Rimedio sul numero di ragazzi in seduta*
 
-> Organizzare gli studenti $1650$ nelle righe $22$ per colonne $75$. È noto che per due colonne il numero di volte in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di ragazzi non supera < MSK4/>.
+> Organizzare gli studenti $1650$ nelle righe $22$ per colonne $75$. È noto che per due colonne il numero di volte in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di ragazzi non supera $928$.
 
 [[src_cn_cwmo_2003__Q08]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the final position determines the intermediate < MSK1/>
+*the final position determines the intermediate *
 
 > A flea is initially located at the point (0, 0) of the Cartesian plane. Then he makes a leap. Each jump is made in one of the four cardinal directions. The first jump is length 1, the second is length 2, the third is length 4, and so on, until the n-jump, which is length 2n−1. Demonstrate that if you know the final position of the fly, then you can uniquely determine its position after each of the n jumps.
 

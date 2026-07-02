@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many points < MSK1/>
+*how many points *
 
 > On a line are marked points, all different from each other: A and B are two of them. Counting all the segments that have as their extremes two of the points marked different from A and that contain A, you get 80. Counting all the segments that have as extremes two of the points marked different from B and that contain B, you get 90. How many dots are marked on the rectum? A) 20
 > 	

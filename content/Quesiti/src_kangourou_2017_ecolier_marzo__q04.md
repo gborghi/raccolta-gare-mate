@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number covered by the panda's nose< MSK1/>
+*Number covered by the panda's nose*
 
 ![[src_kangourou_2017_ecolier_marzo__prob4.png]]
 

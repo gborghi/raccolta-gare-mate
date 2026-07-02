@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many bars to return to P (right/left) < MSK1/>
+*How many bars to return to P (right/left) *
 
 ![[src_kangourou_2009_cadet_marzo__prob21.png]]
 

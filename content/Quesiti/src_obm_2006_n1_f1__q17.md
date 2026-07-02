@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca l'età di Neto nel 2006 dalla somma degli anni di nascita< MSK1/>
+*Ricerca l'età di Neto nel 2006 dalla somma degli anni di nascita*
 
 > Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma dei loro anni di nascita è di 3844. Quanti anni compie Neto nel 2006?
 >

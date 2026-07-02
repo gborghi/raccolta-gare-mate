@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max area of parallel-piped shadow (45 degrees) < MSK1/>
+*Max area of parallel-piped shadow (45 degrees) *
 
 > The manor of Mr. Satan Mr. Considered the world's greatest martial arts expert, Satan is building himself a home that shadows every neighbor's home. . . literally. Mr. Satan requested that the building be a rectangular parallel piped of 105 × 77 × 36 metres, but did not specify which of these three measures should be the height: he only wants it to be positioned so as to maximize the area of the shaded area on the ground when sunlight hits the ground from the south. (The ground beneath the building is not considered shaded.)
 

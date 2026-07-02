@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What label links the two babies to different equines< MSK1/>
+*What label links the two babies to different equines*
 
 ![[src_kangourou_2024_benjamin__prob10.png]]
 

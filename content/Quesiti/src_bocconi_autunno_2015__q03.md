@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tracks to read MATHS in Figure < MSK1/>
+*Tracks to read MATHS in Figure *
 
 > Anyways, math! How many different paths can you take to read the word "MATHS" in the figure? (Count also the route already traced)
 

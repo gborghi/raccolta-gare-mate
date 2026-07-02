@@ -68,7 +68,7 @@ tags:
 
 ![[src_kangourou_2024_benjamin__prob11.png]]
 
-> In the figure you can see a grid 4 < MSK0/> 5 with a black saddle and a grid and 4 tiles with which you can cover the grid without leaving empty spaces or creating overlapping. If the number 4 of one of the tiles is placed on the black box, what number is on the grey box? A) 1
+> In the figure you can see a grid 4 × 5 with a black saddle and a grid and 4 tiles with which you can cover the grid without leaving empty spaces or creating overlapping. If the number 4 of one of the tiles is placed on the black box, what number is on the grey box? A) 1
 > 	
 > B) 2
 > 	

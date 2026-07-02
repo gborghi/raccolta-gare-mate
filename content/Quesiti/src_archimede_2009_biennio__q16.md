@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Report of tangent gold and silver coins < MSK1/>
+*Report of tangent gold and silver coins *
 
 > A gold coin is surrounded by four equal silver coins. Each silver coin is equivalent to the gold coin and to two silver coins. Find the ratio of the gold coin radius to that of the silver coins.
 >

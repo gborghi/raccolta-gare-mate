@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Triangolo con AB>AC: punto sulla linea AB al di là di A, prova BQ=2AP*
+*Triangolo con AB>AC: punto sulla linea AB oltre A, prova BQ=2AP*
 
-> Che $ABC$ sia un triangolo con $AB > AC$. Il $P$ deve essere un punto della linea $AB$ al di là di $A$ in modo tale che $AP + PC = AB$. Il $M$ deve essere il punto medio di $BC$ e il $Q$ deve essere il punto sul lato $AB$ in modo tale che $CM \perp QM$. Prova che < MSK11/>.
+> Che $ABC$ sia un triangolo con $AB > AC$. Il $P$ deve essere un punto della linea $AB$ al di là di $A$ in modo tale che $AP + PC = AB$. Il $M$ deve essere il punto medio di $BC$ e il $Q$ deve essere il punto sul lato $AB$ in modo tale che $CM \perp QM$. Prova che $BQ = 2AP$.
 
 ![[src_rmo_2014_r2__Q05.png]]
 

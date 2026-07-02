@@ -56,7 +56,7 @@ tags:
 
 *Minimum i>0 for which a_i is a multiple of 19 in the recurrence*
 
-> They're a0, a1, a2. . . integers such that a0 = 19, a1 = 25, and for each n < MSK0/>0 an+2 = 2an+1−an. What's the smallest i > 0 where a is a multiple of 19?
+> They're a0, a1, a2. . . integers such that a0 = 19, a1 = 25, and for each n ≥0 an+2 = 2an+1−an. What's the smallest i > 0 where a is a multiple of 19?
 >
 > - **(A)** 19
 > - **(B)** 25

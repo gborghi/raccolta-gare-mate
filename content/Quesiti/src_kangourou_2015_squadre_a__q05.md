@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of composing two teams of 6 pairs of twins< MSK1/>
+*Mode of composing two teams of 6 pairs of twins*
 
 > Twins in a race A weird class is made up of six pairs of twins. The 12 students are to be split into two teams of six elements each, who will compete in a competition, so that no team has either a student or a twin among its members. How many different ways can the two teams be composed?
 

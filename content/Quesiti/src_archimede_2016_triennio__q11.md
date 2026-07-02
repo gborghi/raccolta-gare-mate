@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most large prime factor of 3^12-1< MSK1/>
+*Most large prime factor of 3^12-1*
 
 > What's the largest prime factor of 312 minus 1?
 >

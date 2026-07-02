@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Donna del censimento deduce le età individuali da due somme di coppie< MSK1/>
+*Donna del censimento deduce le età individuali da due somme di coppie*
 
 > Una censista in servizio ha visitato una casa che le donne detenute ha rifiutato di rivelare le loro singole età, ma ha detto  "non ci dispiace darvi la somma delle età di due donne che potete scegliere". La donna del censimento disse: "In tal caso, per favore, dammi la somma delle età di ogni possibile coppia". Ha dato le somme come segue: 30, 33, 41, 58, 66, 69. La donna censista prese queste cifre e se ne andò felice. Come ha calcolato le singole età delle donne a partire da queste cifre?
 

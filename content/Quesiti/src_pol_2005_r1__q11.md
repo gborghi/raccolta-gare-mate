@@ -50,8 +50,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Circolo inserito in un quadrilaterale convexo; perpendicolare attraverso l'intersezione di diagonali dà segmenti uguali.*
+*Circolo inciso in un quadrilaterale convexo; perpendicolare attraverso l'intersezione di diagonali dà segmenti uguali.*
 
-> Un cerchio con il centro $I$ è inserito in un quadrilaterale converso $ABCD$, dove $I$ non si trova su $AC$. Le diagonali $AC$ e $BD$ si intersecano a $E$. La linea attraverso $E$ perpendicolare a $BD$ incontra rispettivamente le linee $AI$ e $CI$ a $P$ e $Q$. Prove che < MSK13/>.
+> Un cerchio con il centro $I$ è inserito in un quadrilaterale converso $ABCD$, dove $I$ non si trova su $AC$. Le diagonali $AC$ e $BD$ si intersecano a $E$. La linea attraverso $E$ perpendicolare a $BD$ incontra rispettivamente le linee $AI$ e $CI$ a $P$ e $Q$. Prove che $PE = EQ$.
 
 [[src_pol_2005_r1__Q11]]

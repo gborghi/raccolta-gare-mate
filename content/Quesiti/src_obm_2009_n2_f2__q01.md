@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Aggiungere acqua per diluire la miscela di alcol da 9L al 30% di alcol< MSK1/>
+*Aggiungere acqua per diluire la miscela di alcol da 9L al 30% di alcol*
 
 > Esmeralda ha una bottiglia contenente 9 litri di una miscela che è di 50% alcol e 50% acqua. Vuole aggiungere acqua alla bottiglia in modo che la miscela risultante sia solo alcol del 30%. Quanti litri di acqua dovrebbe aggiungere?
 

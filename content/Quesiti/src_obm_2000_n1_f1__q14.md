@@ -58,7 +58,7 @@ tags:
 
 I figli di Emir Abdel Azir: problema di logica multipla
 
-> Emir Abdel Aziz era famoso per avere molti figli. Ha avuto più di < MSK0/> figli, tra cui gemelli. Infatti, lo storico Ahmed Aab afferma in due dei suoi libri che tutti i suoi figli gemelli erano doppi, tranne $39$; erano tripli, tranne $39$; erano tutti quadrupli, tranne $39$. Il numero dei figli dell' Emiro è:
+> Emir Abdel Aziz era famoso per avere molti figli. Ha avuto più di $39$ figli, tra cui gemelli. Infatti, lo storico Ahmed Aab afferma in due dei suoi libri che tutti i suoi figli gemelli erano doppi, tranne $39$; erano tripli, tranne $39$; erano tutti quadrupli, tranne $39$. Il numero dei figli dell' Emiro è:
 > 
 > (A) $111$ \quad (B) $48$ \quad (C) $51$ \quad (D) $78$ \quad (E) $75$
 

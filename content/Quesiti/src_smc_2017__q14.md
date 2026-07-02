@@ -60,7 +60,7 @@ tags:
 
 > Nel diagramma tutti gli angoli contrassegnati $\bullet$ sono uguali in dimensioni all'angolo contrassegnato $x^\circ$.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $x$?
 >
 > - **(A)** $100$
 > - **(B)** $105$

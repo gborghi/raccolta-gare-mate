@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>values of n< MSK1/>
+*values of n*
 
-> In the usual A4 (rectangular) sheets, the ratio between the length of the longest side and the length of the shortest side is < MSK0/>. You want to draw on one of these sheets a grid of MSK1 size made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of $n$?
+> In the usual A4 (rectangular) sheets, the ratio between the length of the longest side and the length of the shortest side is $\sqrt{2}$. You want to draw on one of these sheets a grid of$(n+1) \times n$size made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of $n$?
 
 **Answer:** 1 e 2
 [[src_kangourou_2015_finale_junior__QJ3]]

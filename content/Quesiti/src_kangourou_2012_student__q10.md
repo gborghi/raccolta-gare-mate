@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Measurement of the alpha angle in a regular 5-pointed star< MSK1/>
+*Measurement of the alpha angle in a regular 5-pointed star*
 
 ![[src_kangourou_2012_student__prob10.png]]
 

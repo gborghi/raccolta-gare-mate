@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Numbers of boys and girls at par< MSK1/>
+*Numbers of boys and girls at par*
 
 > There are currently 39 boys and 23 girls in a dance school. Starting today, six boys and eight girls will be added each week and in a few weeks the number of girls will be equal to the number of boys. How many boys and girls will be in the group at that time? A) 144 B) 154 C) 164 D) 174 E) 184
 

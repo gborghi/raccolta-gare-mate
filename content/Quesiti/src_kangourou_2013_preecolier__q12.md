@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many carrots does the rabbit eat in the maze< MSK1/>
+*How many carrots does the rabbit eat in the maze*
 
 ![[src_kangourou_2013_preecolier__prob12.png]]
 

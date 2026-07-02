@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Variation of revenue (+20% of price, -20% of turnover) < MSK1/>
+*Variation of revenue (+20% of price, -20% of turnover) *
 
 > On the occasion of a particularly important match, the price of the stadium entrance ticket was increased by 20% compared to previous matches. As a result, however, the attendance of spectators decreased by 20%. Compared to the previous batches, the proceeds are A) unchanged. (b) increased by 2%. (c) decreased by 2%. D) increased by 4%. E) decreased by 4%.
 

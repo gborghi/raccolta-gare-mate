@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fragrant sets of positive integers with prime factor condition< MSK1/>
+*Fragrant sets of positive integers with prime factor condition*
 
 > A set of positive integers is called \textit{fragrant} if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. Let $P(n) = n^2 + n + 1$. What is the least possible value of the positive integer $b$ such that there exists a non-negative integer $a$ for which the set $$\{P(a+1), P(a+2), \ldots, P(a+b)\}$$ is fragrant?
 

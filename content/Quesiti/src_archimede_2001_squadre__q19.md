@@ -45,11 +45,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>cost of the car< MSK1/>
+*cost of the car*
 
-> Loans between friends MSK1/> (10 points)
+> Loans between friends** (10 points)
 > 
-> Ammac and Olomam would like to buy a limousine, splitting the cost in half, but currently they only have the $3/4$ of the required amount. The generous Ollimac lends to both of them, at zero rate, the amount of shields each of them needs to complete their share; in particular, he lends 2 million shields to Olomam. Ammac pledges to buy 10 million shields (all of his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
+> Ammac and Olomam would like to buy a limousine, splitting the cost in half, but currently they only have the $3/4$ of the required amount. The generous Ollimac lends to both of them, at zero rate, the amount of shields they each need to complete their share; in particular, he lends 2 million shields to Olomam. Ammac pledges to buy 10 million shields (all his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
 
 **Answer:** 0032
 [[src_archimede_2001_squadre__Q19]]

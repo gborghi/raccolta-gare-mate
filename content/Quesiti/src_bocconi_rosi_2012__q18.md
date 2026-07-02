@@ -55,11 +55,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Color 6 non-adjacent triangles in the chocolate star< MSK1/>
+*Color 6 non-adjacent triangles in the chocolate star*
 
 > The star you see in the figure represents the base of a cake.
 > 
-> < MSK0/>Could you cover 6 triangles of the star with chocolate? < MSK1/> Attention, however: two triangles that have one side in common cannot both be covered with chocolate.
+> **Can you cover 6 triangles of the star with chocolate (by adding them)?** Attention, however: two triangles that have one side in common cannot both be covered with chocolate.
 
 ![[src_bocconi_rosi_2012__Q18.png]]
 

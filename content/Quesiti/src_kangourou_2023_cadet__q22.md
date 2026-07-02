@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>average speed< MSK1/>
+*average speed*
 
 ![[src_kangourou_2023_cadet__prob22.png]]
 

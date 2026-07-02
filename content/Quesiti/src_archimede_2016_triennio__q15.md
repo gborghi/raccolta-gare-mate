@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Multiple years of 12 but not of 60 < MSK1/>
+*Multiple years of 12 but not of 60 *
 
 > Observing the calendar, Chiara realized that the current year 2016 has a peculiarity: place x = 2016 the number of the year, then x + 1 is multiple of 1, x + 2 is multiple of 2, x + 3 is multiple of 3 and x + 4 is multiple of 4, but x + 5 is not multiple of 5. How many other positive integers, smaller than 2016, have the same peculiarity?
 >

@@ -53,6 +53,6 @@ tags:
 
 *Prove che una somma di tre radici quadrate è delimitata sopra da una costante.*
 
-> Supponiamo < MSK0/>. Prove che $2\sqrt{x+1} + \sqrt{2x-3} + \sqrt{15-3x} < 2\sqrt{19}$.
+> Supponiamo $\frac{1}{2} \le x \le 5$. Prove che $2\sqrt{x+1} + \sqrt{2x-3} + \sqrt{15-3x} < 2\sqrt{19}$.
 
 [[src_cn_cmc_2003__Q13]]

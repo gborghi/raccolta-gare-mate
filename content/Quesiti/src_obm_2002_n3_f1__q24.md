@@ -61,7 +61,7 @@ tags:
 
 *Triangolo ABC, angolo A=60, angolo B=50, M punto medio di AB, P su BC con AC+CP=BP; trovare angolo MPC*
 
-> Nel triangolo $ABC$, l'angolo $\hat{A}$ misura $60^\circ$ e l'angolo $\hat{B}$ misura $50^\circ$. Il punto $M$ è il punto medio del lato $AB$ e $P$ il punto sul lato $BC$ in modo tale che $AC+CP=BP$. Qual è la misura dell'angolo < MSK10/>? (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
+> Nel triangolo $ABC$, l'angolo $\hat{A}$ misura $60^\circ$ e l'angolo $\hat{B}$ misura $50^\circ$. Il punto $M$ deve essere il punto medio del lato $AB$ e $P$ il punto sul lato $BC$ in modo tale che $AC+CP=BP$. Qual è la misura dell'angolo $M\hat{P}C$? (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
 
 ![[src_obm_2002_n3_f1__Q24.png]]
 

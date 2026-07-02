@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum N people in 60 seats each next to each other< MSK1/>
+*Minimum N people in 60 seats each next to each other*
 
 > As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are sitting at this table so that each person is sitting next to the other. The smallest value of N that makes the situation possible is A) 40 B) 30 C) 20 D) 10 E) None of the above.
 

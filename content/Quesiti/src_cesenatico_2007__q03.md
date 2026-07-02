@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> cyclic quadrilateral and BA=BE< MSK1/>
+* cyclic quadrilateral and BA=BE*
 
 ![[src_cesenatico_2007__prob3.png]]
 

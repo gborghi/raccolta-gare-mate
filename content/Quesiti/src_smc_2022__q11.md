@@ -63,7 +63,7 @@ tags:
 
 *In un triangolo numerico in cui ogni disco è uguale al prodotto dei due dischi al di sotto e il disco superiore è 2022, trovi n.*
 
-> Nel triangolo numerico mostrato, ogni disco deve essere riempito di un intero positivo. Ogni disco nella riga superiore o media contiene il numero che è il prodotto dei due numeri immediatamente sotto. Qual è il valore di < MSK0/>?
+> Nel triangolo numerico mostrato, ogni disco deve essere riempito di un intero positivo. Ogni disco nella riga superiore o media contiene il numero che è il prodotto dei due numeri immediatamente sotto. Qual è il valore di $n$?
 >
 > - **(A)** 1
 > - **(B)** 2

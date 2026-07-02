@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sessagono regolare da picchi di denti; esagono con superficie 4x ha bisogno di quanti picchi di denti< MSK1/>
+*Sessagono regolare da picchi di denti; esagono con superficie 4x ha bisogno di quanti picchi di denti*
 
 > Utilizzando i coltelli da dente come corrispondenza, si può costruire un esagono regolare formato da sei triangoli equilaterali, come mostrato nella figura. Se si desidera costruire un altro esagono regolare la cui superficie è quattro volte quella del primo esagono, formato anche da triangoli unitari equilaterali, quante dentiere saranno necessarie?
 > 

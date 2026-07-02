@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nombre massimo di studenti con determinate condizioni di conoscenza di coppia< MSK1/>
+*Nombre massimo di studenti con determinate condizioni di conoscenza di coppia*
 
 > Ci sono $n$ nuovi studenti. Supponiamo che ci siano due studenti che si conoscono in ogni tre studenti e ci sono due studenti che non si conoscono in ogni quattro studenti. Trova il valore massimo di $n$.
 

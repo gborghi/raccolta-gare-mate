@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>concyclic points and intersections on Omega< MSK1/>
+*concyclic points and intersections on Omega*
 
 > So ABC is a triangle such that AB is AC and I is its center. Whether Γ the circumference circumscribed at ABC. The lines BI and CI intersect Γ in two new points, marked M and N respectively. Whether D is another point of Γ, lying on the arc BC that does not contain A, and whether E, F, respectively, are the intersections of AD with BI and CI. Finally, P and Q are the intersections of DM with CI and DN with BI, respectively. (i) Demonstrate that points D, I, P and Q lie on the same circumference Ω. (ii) Demonstrate that the EC and BF lines intersect on Ω.
 

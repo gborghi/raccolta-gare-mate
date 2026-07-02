@@ -64,7 +64,7 @@ tags:
 
 ![[src_archimede_2023_biennio__prob7.png]]
 
-> In the triangle ABC, where $\widehat{CAB}$ = 58° and $\widehat{ABC}$ = 54°, the semicircles CD, DE, EF are bisected respectively by the angles $\widehat{BCA}$, $\widehat{ADC}$, $\widehat{DEA}$. What is the width of the angle < MSK5/>? A B C D E F
+> In the triangle ABC, where $\widehat{CAB}$ = 58° and $\widehat{ABC}$ = 54°, the semicircles CD, DE, EF are bisected respectively by the angles $\widehat{BCA}$, $\widehat{ADC}$, $\widehat{DEA}$. What is the width of the angle $\widehat{AFE}$? A B C D E F
 >
 > - **(A)** 83°
 > - **(B)** 80°

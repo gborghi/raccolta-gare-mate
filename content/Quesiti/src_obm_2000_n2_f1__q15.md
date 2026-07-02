@@ -63,7 +63,7 @@ tags:
 
 > $a$ e $b$ siano numeri reali positivi come $\dfrac{a}{b} < 1$. Allora:
 > 
-> A) $\dfrac{a+1}{b+1}$ = $\dfrac{a}{b}$. B) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b} + 1$. C) $\dfrac{a+1}{b+1}$ è inferiore a $\dfrac{a}{b}$. D) $\dfrac{a+1}{b+1}$ è maggiore di $\dfrac{a}{b}$ ma inferiore a $1$. E) < MSK9/> può essere inferiore a < MSK10/>.
+> A) $\dfrac{a+1}{b+1}$ = $\dfrac{a}{b}$. B) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b} + 1$. C) $\dfrac{a+1}{b+1}$ è inferiore a $\dfrac{a}{b}$. D) $\dfrac{a+1}{b+1}$ è maggiore di $\dfrac{a}{b}$ ma inferiore a $1$. E) $\dfrac{a+1}{b+1}$ può essere inferiore a $\dfrac{a}{b}$.
 
 **Risposta:** D
 [[src_obm_2000_n2_f1__Q15]]

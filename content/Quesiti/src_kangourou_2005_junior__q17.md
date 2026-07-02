@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most common segment of two strands < MSK1/>
+*Most common segment of two strands *
 
 ![[src_kangourou_2005_junior__prob17.png]]
 

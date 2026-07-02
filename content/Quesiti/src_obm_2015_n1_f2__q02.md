@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sconti sulle magliette: 3 al 10% contro 2 al 5%, differenza 12 reais; trovare prezzo scontato< MSK1/>
+*Sconti sulle magliette: 3 al 10% contro 2 al 5%, differenza 12 reais; trovare prezzo scontato*
 
 > Júlia ha comprato magliette $3$ uguali e pagato con uno sconto $10\%$, mentre suo fratello ha comprato magliette $2$ dello stesso tipo e pagato con uno sconto $5\%$. Il fratello di Júlia ha pagato $12$ reais più di Júlia. Qual è il prezzo, in reais, di ogni T-shirt al prezzo scontato di Júlia?
 

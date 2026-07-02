@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max common points at more than one of four two-to-two tangent circumferences< MSK1/>
+*Max common points at more than one of four two-to-two tangent circumferences*
 
 > On the board, I want to draw four circles so that, no matter how you choose two, they have one and only one point in common. What is the largest number of points in the plane that can belong to more than one circumference? A) 1 B) 4 C) 5 D) 6 E) 8
 

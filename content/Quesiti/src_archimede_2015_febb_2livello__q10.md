@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Special green grass after the kangaroo jumps< MSK1/>
+*Special green grass after the kangaroo jumps*
 
 > Caboyara, a famous Australian circus performer, is performing again this year in a big make-up. It 's a spectacular scale with N = p1 · p2 · . . . · p2015 steps, where p1, p2, . . . , p2015 are distinct prime numbers; the steps corresponding to N divisors (including the first and lN-eighth step) are special and are initially illuminated in green. During the show, 2015 mastered kangaroos climb the ladder one after the other; for i = 1, 2, . . . , 2015, the eighth kangaroo jumps steps at a time, starting at the foot of the ladder (jumps step pi, then step 2pi, and so on until it reaches step N). Every time a kangaroo jumps on a special ladder, it changes color: green to red, green to red. How many special steps will be lit up in green at the end of the exhibition?
 >

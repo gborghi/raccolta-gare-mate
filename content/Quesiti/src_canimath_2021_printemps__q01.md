@@ -55,7 +55,7 @@ tags:
 
 *Calcolare una frazione basata su fattori*
 
-> Calcolo < MSK0/>
+> Calcolo $$\frac{6\times 5\times 4\times 3\times 2\times 1 - 5\times 4\times 3\times 2\times 1}{4\times 3\times 2\times 1}.$$
 > 
 > *Solo una risposta numerica è prevista qui.*
 

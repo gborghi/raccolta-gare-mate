@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number next to < MSK1/>
+*number next to *
 
 > Francesca wrote three consecutive whole numbers of three digits in their natural order, but instead of the digits she used symbols: here, there, there. Which of the following is the next number? A) §§ì B) à§à C) §òì D) §ìà E) §ò§
 

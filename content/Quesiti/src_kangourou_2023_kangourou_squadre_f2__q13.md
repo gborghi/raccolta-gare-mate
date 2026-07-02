@@ -51,11 +51,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-How to read BANANA in the table< MSK1/>
+How to read BANANA in the table*
 
 ![[src_kangourou_2023_kangourou_squadre_f2__prob13.png]]
 
-> BANANA How many different ways can the word BANANA be read in the table in the figure, keeping in mind that for each cell letta, the next cell must share a side with it and that the same cell can be letta multiple times?
+> BANANA How many different ways can the word BANANA be read in the table below, keeping in mind that for each cell letta, the next cell must share a side with it and that the same cell can be letta multiple times?
 
 **Answer:** 0084
 [[src_kangourou_2023_kangourou_squadre_f2__Q13]]

@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for how many times a1 is constant< MSK1/>
+* for how many times a1 is constant*
 
 > (5 points) A sequence {a1, a2, a3, ...} of real numbers is defined inductively as follows: an+1 = an2 an2−2022 an+1 for n = 1, 2, ... . For how many values of a1 is succession constant?
 >  

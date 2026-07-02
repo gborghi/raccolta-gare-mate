@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> when with two ice cream< MSK1/>
+* when with two ice cream*
 
 > Twelve girls went to an ice cream parlor together, each eating an average of one and a half ice cream. Two girls didn't eat ice cream; the others ate one or two. How many girls ate two ice cream? A) 2
 > 	

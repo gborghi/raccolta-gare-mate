@@ -58,7 +58,7 @@ tags:
 
 *A figure numbering seven regions of the figure with 1-7 without adjacent consecutive digits*
 
-> Number the seven regions in the figure with the integers from $1$ to $7$ (the $3$, in fact, has already been entered) so that two regions that  touch each other do not have two consecutive digits. What number is in < MSK3/>?
+> Count the seven regions in the figure with the integers from $1$ to $7$ (the $3$, in fact, has already been entered) so that two regions that  touch each other do not have two consecutive digits. What number is in $A$?
 
 ![[src_bocconi_squadre_2014__Q17.png]]
 

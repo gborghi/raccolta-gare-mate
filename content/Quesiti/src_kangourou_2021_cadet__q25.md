@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of ABCDE2 figures with 2ABCDE x3 = ABCDE2< MSK1/>
+*sum of ABCDE2 figures with 2ABCDE x3 = ABCDE2*
 
 > If we multiply by 3 the six-digit number 2ABCDE we get the six-digit number ABCDE2. What is the sum of the numbers in this number? A) 24
 > 	

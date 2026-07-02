@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>At least as many people as the same age< MSK1/>
+*At least as many people as the same age*
 
 > In a square, 2008 people gathered. None of them are over 50. What is the largest number for which the following is true: Are we sure that there are at least that number of people in the square who are the same age? A) 39 B) 40 C) 41 D) 42 E) None of the above.
 

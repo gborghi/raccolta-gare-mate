@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo acuto, P sulla media AM con AB=CP, prova angolo CPB=90< MSK1/>
+*Triangolo acuto, P sulla media AM con AB=CP, prova angolo CPB=90*
 
 > Nel triangolo a angolo acuto $ABC$ abbiamo $AB < AC < BC$. Il punto medio di $BC$ è $M$. C'è un punto $P$ sul segmento di linea $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
 > 

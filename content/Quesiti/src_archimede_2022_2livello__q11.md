@@ -60,9 +60,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>Families of < MSK0/> chicks, total possibility after 7 nesting < MSK2/>
+*Families of π chicks, total possibility after 7 nesting *
 
-> MSK0/> chi are animals that live in families of 1, 2 or 3 individuals. A family of 3 < MSK1/> chi were originally imported into Italy. A family of n < MSK2/> which reproduces by growing by 2n −2 new individuals, forming a total of 3n −2, and dividing into new families (not necessarily two families with the same number of individuals divide equally). All families reproduce simultaneously at each nest. For example, after the first nest there are necessarily seven < MSK3/> chi, which could be divided into three families of two and one of one, or into one of three and two of two, or into seven of one, etc. What are the chances for the total number of < MSK4/> chi after the seventh nesting?
+> π chi are animals that live in families of 1, 2 or 3 individuals. A family of 3 π chi were originally imported into Italy. A family of n π which reproduces by increasing 2n −2 new individuals, forming a total of 3n −2, and dividing into new families (not necessarily two families with the same number of individuals divide equally). All families reproduce simultaneously at each nest. For example, after the first nest there are necessarily seven π chi, which could be divided into three families of two and one of one, or into one of three and two of two, or into seven of one, etc. What are the chances for the total number of π chi after the seventh nesting?
 >
 > - **(A)** 129
 > - **(B)** 253

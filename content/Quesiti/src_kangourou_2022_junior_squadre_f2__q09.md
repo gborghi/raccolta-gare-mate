@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most embassies, triangle-free graph < MSK1/>
+*Most embassies, triangle-free graph *
 
 > Embassies On a distant planet there are exactly 30 nations, rather contentious among themselves: in fact, there are no three nations that have diplomatic relations with each other (each with each of the other two). If A is related to B, then B is also related to A and in A there is an embassy of B and in B there is an embassy of A. How many embassies could there be on that planet?
 

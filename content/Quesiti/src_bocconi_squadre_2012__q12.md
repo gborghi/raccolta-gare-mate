@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time to leave Chiara to arrive on time by bike< MSK1/>
+*Time to leave Chiara to arrive on time by bike*
 
 > Chiara and Marco made an appointment, for a snack, in a bar a mile from their home (you can see that the nearest person wasn't there...). Marco set off at $8.00$ in the morning and cycled at an average speed of $18$ km/h. Clear went to the appointment in her car, with an average speed of $72$ km/h. The good thing is that Chiara and Marco arrived at the appointment simultaneously.
 > 

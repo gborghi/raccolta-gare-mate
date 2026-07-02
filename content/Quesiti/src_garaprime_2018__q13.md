@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>999^9 dividers which are perfect squares or cubes< MSK1/>
+*999^9 dividers which are perfect squares or cubes*
 
 > How many positive divisors of 999 are perfect squares or perfect cubes? A 70 B 55 C 90 D 99 E 36 F 120
 

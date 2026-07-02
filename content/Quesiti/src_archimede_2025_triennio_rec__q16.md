@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of two splitters of 18000 coatings< MSK1/>
+*Probability of two splitters of 18000 coatings*
 
 > Luca and Giulia wrote, in 60 different notes, the list of all natural numbers that are divisors of 18000 (one for each note). Luke randomly draws one, then puts it back together with the others, and Julia then runs a new draw. What is the probability that the extracted numbers are prime?
 >

@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Measurement PC' from distances of P from the sides (sum of heights) < MSK1/>
+*Measurement PC' from distances of P from the sides (sum of heights) *
 
 ![[src_archimede_2025_biennio_rec__prob16.png]]
 

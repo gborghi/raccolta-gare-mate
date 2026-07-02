@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fraction of apple eaten by the crab< MSK1/>
+*Fraction of apple eaten by the crab*
 
 > An apple, or a part of it, floating on the surface of a lake emerges from it by 1/3 of its mass. A fish and a crab jump on a floating whole apple at the same time and begin to eat the submerged part and the emerging part, respectively. In equal time, the crab eats twice as much fish. When the whole apple has been eaten, what fraction of the apple has the crab eaten? A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
 

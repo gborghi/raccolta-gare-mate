@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Count representations of n as sum of powers of 2; prove bounds on f(2^n) < MSK1/>
+*Count representations of n as sum of powers of 2; prove bounds on f(2^n) *
 
 > For each positive integer $n$, let $f(n)$ denote the number of ways of representing $n$ as a sum of powers of $2$ with nonnegative integer exponents. Representations which differ only in the ordering of their summands are considered to be the same. For example, $f(4) = 4$, because the number $4$ can be represented in the following four ways: $$4;\; 2+2;\; 2+1+1;\; 1+1+1+1.$$ Prove that, for any integer $n \ge 3$, $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
 

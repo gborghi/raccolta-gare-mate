@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference between palindromes (6 and 5 digits) < MSK1/>
+*Difference between palindromes (6 and 5 digits) *
 
 > A number is called a palindrome if its decimal representation can be read indifferently from right to left or from left to right, as happens for example with 13931. What's the difference between the largest palindrome number of six significant digits and the smallest of five significant digits? A) 989989 B) 989998 C) 998998 D) 999898 E) 999988
 

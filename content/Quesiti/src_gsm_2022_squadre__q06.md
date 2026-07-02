@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum a with a number doubled to k times a^2< MSK1/>
+*Minimum a with a number doubled to k times a^2*
 
-> Consider a positive integer < MSK0/>. Let's write the number $a$ twice in a row and get a number $b$that is, assuming that $a$ is a number with $\ell$ digits, in other words it's $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the smallest value of $a$ such that $b = k a^2$ for a suitable $k$ positive integer?
+> Consider a positive integer $a > 1$. Let's write the number $a$ twice in a row and get a number $b$that is, assuming that $a$ is a number with $\ell$ digits, in other words it's $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the smallest value of $a$ such that $b = k a^2$ for a suitable $k$ positive integer?
 
 **Answer:** 0143
 [[src_gsm_2022_squadre__Q06]]

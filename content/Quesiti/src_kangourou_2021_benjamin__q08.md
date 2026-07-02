@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Originally folded sheet < MSK1/>
+*Originally folded sheet *
 
 ![[src_kangourou_2021_benjamin__prob8.png]]
 

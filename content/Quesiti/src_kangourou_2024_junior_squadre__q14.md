@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Extractions ordered to remove 12 bags< MSK1/>
+*Extractions ordered to remove 12 bags*
 
 > One bag contains 12 indistinguishable bags. Gaetano wants to take them all, not necessarily one at a time, but sometimes taking more than one at a time (e.g. he could take three together, then one, then again one, then seven, or even all twelve in a single shot). Taking into account the order in which Gaetano can incorporate the grains by extracting them, how many extractions are possible? Note: the order is important, e.g. (3, 1, 1, 7) is an extraction different from (1, 3, 1, 7).
 

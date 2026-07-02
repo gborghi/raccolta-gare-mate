@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>70 points, geometry < MSK1/>
+*70 points, geometry *
 
 > **The triangular garden** (70 points)
 > 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many dots on the Aladdin carpet< MSK1/>
+*How many dots on the Aladdin carpet*
 
 ![[src_kangourou_2022_ecolier_gara__prob13.png]]
 

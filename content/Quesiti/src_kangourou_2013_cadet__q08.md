@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What average of children is not possible for 5 households< MSK1/>
+*What average of children is not possible for 5 households*
 
 > The average number of children in 5 households cannot be A) 0.2. B) 1,2. C) 2,2. D) 2,4. E) 2,5.
 

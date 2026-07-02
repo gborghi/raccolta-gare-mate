@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Walk time data for mixed journeys< MSK1/>
+*Walk time data for mixed journeys*
 
 > When John goes to school by public transport and returns home on foot, his round trip takes 3 hours; when he goes back and forth by public transport, the trip takes 1 hour. How many hours would that journey take if John walked (and always at the same pace) on both occasions? A) Three and a half
 > 	

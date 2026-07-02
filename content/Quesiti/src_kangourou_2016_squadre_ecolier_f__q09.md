@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimate the initial apples in the dish with fractions taken< MSK1/>
+*Minimate the initial apples in the dish with fractions taken*
 
 > Apples In the dish there are apples. Anna took a few of them: they amounted to a third of the apples in the dish plus a third of the apples. Luigi took more: their quantity was equal to one third of the apples left in the dish plus one third of the apples. Now there's a whole number of apples left in the plate. What is the minimum number of apples that could be in the dish initially?
 

@@ -50,6 +50,6 @@ tags:
 
 *Three tangent circles inscribed in triangles, common tangent proofs*
 
-> A semicircular arc $\gamma$ is drawn on $AB$ as diameter. $C$ is a point on $\gamma$ other than $A$ and $B$, and $D$ is the foot of the perpendicular from $C$ to $AB$. We consider three circles $\gamma_1, \gamma_2, \gamma_3$, all tangent to the line $AB$. Of these, $\gamma_1$ is inscribed in $\triangle ABC$, while $\gamma_2$ and $\gamma_3$ are both tangent to $CD$ and to $\gamma$, one on each side of $CD$. Prove that MSK18/, and MSK19/ have a second tangent in common.
+> A semicircular arc $\gamma$ is drawn on $AB$ as diameter. $C$ is a point on $\gamma$ other than $A$ and $B$, and $D$ is the foot of the perpendicular from $C$ to $AB$. We consider three circles $\gamma_1, \gamma_2, \gamma_3$, all tangent to the line $AB$. Of these, $\gamma_1$ is inscribed in $\triangle ABC$, while $\gamma_2$ and $\gamma_3$ are both tangent to $CD$ and to $\gamma$, one on each side of $CD$. Prove that$\gamma_1, \gamma_2$, and$\gamma_3$have a second tangent in common.
 
 [[src_imho_1969__Q04]]

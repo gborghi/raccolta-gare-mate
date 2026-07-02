@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Dimensions of the oval field of Padre Ovo< MSK1/>
+*Dimensions of the oval field of Padre Ovo*
 
 > Father Ovo's field is a rectangle. It contains an oval pond (in grey in the figure) whose edge consists of four circular arches. Each arc is tangent to one side of the rectangle at its center point and tangentially connects to the two adjacent arcs. The radius of the two arcs on the left and right is 16 m. The radius of the two arches up and down is 81 meters. What are the width and length of the rectangle, knowing that they are integers of meters? Note: the centre of a circle is not necessarily placed inside the rectangle.
 

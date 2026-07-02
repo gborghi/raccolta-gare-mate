@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Any single statement on n is necessarily true< MSK1/>
+*Any single statement on n is necessarily true*
 
 > With respect to a certain positive integer n which we do not know, we know that each and only one of the statements listed is true. Which one is it? A) n is divisible by 3.
 > 	

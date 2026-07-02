@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>A1-3: radici di A, B di x^2-10x+6=0; trovare cos C.< MSK1/>
+*A1-3: radici di A, B di x^2-10x+6=0; trovare cos C.*
 
 > [Test Paper A1, Problem 3] In $\triangle ABC$, $\tan A$ e $\tan B$ sono le due radici dell'equazione $x^2-10x+6=0$. Il valore di $\cos C$ è quindi ______.
 

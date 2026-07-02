@@ -86,7 +86,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of the telescopic product up to 2003< MSK1/>
+*Value of the telescopic product up to 2003*
 
 > The value of the expression is equal to A) 2004 B) 2003 C) 2002 D) 1002 E) 1001 11 9 7 5 ?? ? ?? ? ? ? ? ?? ? ?? ? ? ? ?? ? ?? ? ? 2003 1 1 3 1 1 2 1 1
 > 

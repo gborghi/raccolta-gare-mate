@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs of positive integers with x+2^y=2^10< MSK1/>
+*Pairs of positive integers with x+2^y=2^10*
 
 > How many pairs of positive integers x and y satisfy the equation x + 2y = 210 ? A) 29 – 1 B) 29
 > 	

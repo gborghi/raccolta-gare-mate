@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quattro cifre decrescenti consecutive; somma dei rimanenti mod 37< MSK1/>
+*Quattro cifre decrescenti consecutive; somma dei rimanenti mod 37*
 
 > Le cifre di un intero positivo $n$ sono quattro numeri interi consecutivi in ordine decrescente quando vengono letti da sinistra a destra. Qual è la somma dei possibili rimanenti quando $n$ è diviso per 37?
 

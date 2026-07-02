@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Highest scored score < MSK1/>
+*Highest scored score *
 
 ![[src_kangourou_2021_ecolier__prob5.png]]
 

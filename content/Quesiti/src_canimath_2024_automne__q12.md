@@ -53,6 +53,6 @@ tags:
 
 *ABCD quadrato, triangoli equilaterali ABP e DAQ esteriore; calcolo NM/NC*
 
-> $ABCD$ sia quadrato e $P$ e $Q$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABP$ e $DAQ$ siano equilaterali. $N$ sia il punto medio di $[PQ]$ e $M$ il punto di intersezione delle linee $(BQ)$ e $(DP)$. Calcolare < MSK11/>.
+> $ABCD$ sia quadrato e $P$ e $Q$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABP$ e $DAQ$ siano equilaterali. $N$ sia il punto medio di $[PQ]$ e $M$ il punto di intersezione delle linee $(BQ)$ e $(DP)$. Calcolare $\dfrac{NM}{NC}$.
 
 [[src_canimath_2024_automne__Q12]]

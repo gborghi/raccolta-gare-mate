@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Heritage distribution inversely proportional to the ages < MSK1/>
+*Heritage distribution inversely proportional to the ages *
 
 > Yesterday was Monday or Tuesday or Wednesday or Thursday.
 

@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reduction in the percentage of androids after population increase< MSK1/>
+*Reduction in the percentage of androids after population increase*
 
 > Until 2013, in the Zoranel penal colony the population was 60% androids, of which 5% were supervised; say q the percentage of supervised androids over the total population in that year. In 2014 the population increased by 10% due to the arrival of N human exiles. How much has the percentage of surveillance androids decreased over the total population?
 >

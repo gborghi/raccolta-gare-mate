@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>decimal digits after 1000 moves< MSK1/>
+*decimal digits after 1000 moves*
 
-> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the angles of the triangle identified by the three points and considering the points that these angles intercept on the circumference. Xam starts playing with points on the circumference that identify length arcs $1$, $2$ and $3$. Xam stops after < MSK3/> moves. How many digits after the comma is the product of the lengths of the $3$ arcs identified by the last points drawn?
+> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the vertices of the triangle identified by the three points and considering the points that these vertices intercept on the circumference. Xam starts playing with points on the circumference that identify length arcs $1$, $2$ and $3$. Xam stops after $1000$ moves. How many digits after the comma does the product of the lengths of the $3$ arcs identified by the last points drawn have?
 
 **Answer:** 1999
 [[src_archimede_2001_pubblico__Q07]]

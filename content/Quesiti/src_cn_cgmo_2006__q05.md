@@ -56,8 +56,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Trova la dimensione minima di un insieme finito di punti interi T in modo tale che per ogni punto P in S ci sia un punto Q distinto in T con segmento PQ che non contiene altri punti interi.*
+*Ricerca la dimensione minima di un insieme finito di punti interi T in modo tale che per ogni punto P in S ci sia un punto Q distinto in T con segmento PQ che non contiene altri punti interi.*
 
-> Let < MSK0/>. Il $T$ deve essere l'insieme di punti interi del piano in modo tale che per qualsiasi punto $P$ in $S$ esista un punto diverso $Q$ in $T$ in modo tale che il segmento di linea $PQ$ non contenga punti interi tranne $P$ e $Q$. Trova il valore minimo di $|T|$, dove $|T|$ indica il numero di elementi del set finito $T$.
+> Let $S = \{(a, b) \mid 1 \le a, b \le 5, a, b \in Z\}$. Il $T$ deve essere l'insieme di punti interi del piano in modo tale che per qualsiasi punto $P$ di $S$ esista un punto diverso $Q$ di $T$ in modo tale che il segmento di linea $PQ$ non contenga punti interi tranne $P$ e $Q$. Trova il valore minimo di $|T|$, dove $|T|$ indica il numero di elementi del set finito $T$.
 
 [[src_cn_cgmo_2006__Q05]]

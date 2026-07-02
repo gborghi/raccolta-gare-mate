@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min colours< MSK1/>
+*min colours*
 
 ![[src_kangourou_2023_ecolier__prob15.png]]
 

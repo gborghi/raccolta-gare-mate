@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Numero di modi per spendere esattamente 1000 rupe per penne (Rs.11) e notebook (Rs.13) < MSK1/>
+*Numero di modi per spendere esattamente 1000 rupe per penne (Rs.11) e notebook (Rs.13) *
 
-> Una penna costa $\text{Rs.}\,11$ e un notebook $\text{Rs.}\,13$. Trova il numero di modi in cui una persona può spendere esattamente < MSK2/> per acquistare penne e notebook.
+> Una penna costa $\text{Rs.}\,11$ e un notebook $\text{Rs.}\,13$. Trova il numero di modi in cui una persona può spendere esattamente $\text{Rs.}\,1000$ per acquistare penne e notebook.
 
 [[src_prmo_2017__Q08]]

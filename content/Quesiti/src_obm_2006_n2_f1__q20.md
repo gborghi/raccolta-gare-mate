@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Spreadsheet computa media in esecuzione; trova l'ultima nota inserita da Piralão< MSK1/>
+*Spreadsheet computa media in esecuzione; trova l'ultima nota inserita da Piralão*
 
 > Il professore Piralão ha applicato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in una scheda elettronica che calcola automaticamente la media esecutiva dopo aver inserito ogni grado. I voti dei cinque studenti sono, in ordine crescente: $71, 76, 80, 82, 91$. Si è notato che dopo ogni voce la media corrente è sempre un numero intero. L'ultimo anno che ha frequentato Piralão è stato:
 > 

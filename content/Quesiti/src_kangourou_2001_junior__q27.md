@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies decreasing by 14 times< MSK1/>
+*Interies decreasing by 14 times*
 
 > We cancel out the number of units of a positive integer and notice that the number decreases by 14 times. How many integers have this property?
 >

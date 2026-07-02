@@ -54,7 +54,7 @@ tags:
 
 Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
-> Utilizzando le monete di 1 yen, 5 yen, 10 yen, 50 yen, 100 yen e 500 yen, pagate esattamente < MSK0/> yen in modo che il numero totale di monete pagate sia il più piccolo possibile. Trova questo numero totale minimo di monete. È possibile utilizzare qualsiasi numero di monete di ciascuna denominazione; non è necessario utilizzare tutte le monete. Potete anche ricevere cambiamenti (cioè potete pagare in eccesso e ricevere la differenza).
+> Utilizzando le monete di 1 yen, 5 yen, 10 yen, 50 yen, 100 yen e 500 yen, pagate esattamente $777$ yen in modo che il numero totale di monete pagate sia il più piccolo possibile. Trova questo numero totale minimo di monete. È possibile utilizzare qualsiasi numero di monete di ciascuna denominazione; non è necessario utilizzare tutte le monete. Potete anche ricevere cambiamenti (cioè potete pagare in eccesso e ricevere la differenza).
 
 **Risposta:** 6
 [[src_jmo13yq_yosen__Q01]]

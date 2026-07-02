@@ -54,7 +54,7 @@ tags:
 
 *Triangolo, bisettore e riflesso, cerchio; prova angoli uguali*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e il $E$ deve essere il riflesso di $D$ attraverso il lato $BC$. $F$ sia un punto sul segmento $AC$. La linea attraverso $A$ parallela a $BC$ incontra la linea $DF$ in un punto $G$. Il $P$ è l'intersezione della linea $AB$ con la linea $FG$ e il $Q$ è l'intersezione della linea $EP$ con la linea $FQ$ (come illustrato nella figura). Le linee $EP$ e $FQ$ determinano i punti $K$, $R$, $S$ e il circoncircolo del triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Provare che < MSK28/>.
+> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e il $E$ deve essere il riflesso di $D$ attraverso il lato $BC$. $F$ sia un punto sul segmento $AC$. La linea attraverso $A$ parallela a $BC$ incontra la linea $DF$ in un punto $G$. Il $P$ è l'intersezione della linea $AB$ con la linea $FG$, e il $Q$ è l'intersezione della linea $EP$ con la linea $FQ$ (come illustrato nella figura). Le linee $EP$ e $FQ$ determinano i punti $K$, $R$, $S$ e il circoncircolo del triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Provare che $\angle BXP = \angle CXQ$.
 
 ![[src_selection_camp_2024__Q02.png]]
 

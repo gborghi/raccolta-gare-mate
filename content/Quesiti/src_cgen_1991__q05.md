@@ -67,7 +67,7 @@ tags:
 
 > **1.** Considera la mappa $P : \mathbb{C} \to \mathbb{C}$ definita da: $$P(z) = z^5 + a_4 z^4 + a_3 z^3 + a_2 z^2 + a_1 z,$$ dove $a_1, a_2, a_3, a_4$ sono quattro numeri complessi dati. Impostare $w_l = e^{2il\pi/5}$ in cui $l$ è un numero intero con $0 \le l \le 4$.
 > 
-> Mostra che < MSK0/>.
+> Mostra che $P(w_0) + P(w_1) + P(w_2) + P(w_3) + P(w_4) = 5$.
 > 
 > **2.** $A_1, A_2, A_3, A_4, A_5$ siano cinque punti del piano. Un pentagono regolare è inserito nel cerchio con il centro $A_1$ e un raggio $R$.
 > 

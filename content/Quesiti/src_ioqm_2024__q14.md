@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Particelle a (79,80) dopo 80 passaggi di regola di divisione< MSK1/>
+*Particelle a (79,80) dopo 80 passaggi di regola di divisione*
 
 > Inizialmente, ci sono particelle $3^{80}$ all'origine $(0,0)$. A ogni passo le particelle vengono spostate nei punti al di sopra dell'asse $x$ come segue: se ci sono particelle $n$ in qualsiasi punto $(x,y)$, allora $\left\lfloor \frac{n}{3} \right\rfloor$ di esse vengono spostate a $(x+1,y+1)$, $\left\lfloor \frac{n}{3} \right\rfloor$ a $(x,y+1)$ e il resto a $(x-1,y+1)$. Per esempio, dopo il primo passo, ci sono $3^{79}$ particelle ciascuna a $(1,1)$, $(0,1)$ e $(-1,1)$. Dopo il secondo passo, ci sono particelle $3^{78}$ a $(-2,2)$ e $(2,2)$, $2 \times 3^{78}$ a $(-1,2)$ e $(1,2)$ e $3^{79}$ a $(0,2)$. Dopo i passi $80$, il numero di particelle a $(79,80)$ è:
 

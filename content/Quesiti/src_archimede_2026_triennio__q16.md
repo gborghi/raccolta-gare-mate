@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Grid 11x11 cherries/fish, flowering conditions< MSK1/>
+*Grid 11x11 cherries/fish, flowering conditions*
 
 > The quadrilateral ABCD is inscribed in a circumference. Indicated by E as the intersection point between the AC and BD diagonals, AC = 10 AE and BD = 5 BE. What's the relationship between the major and the minor diagonal?
 >

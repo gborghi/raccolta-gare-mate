@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Caramel in the sixth bag with bindings< MSK1/>
+*Caramel in the sixth bag with bindings*
 
 > Sara distributes 150 candies in 10 bags. Each bag (starting with the second) contains more candy than the previous one. Eventually, Sara realizes that the number of candy she put in the tenth bag is not more than double the number of candy she put in the first. How many candy did you put in the sixth bag? If the answer is not unambiguous, write 0000.
 

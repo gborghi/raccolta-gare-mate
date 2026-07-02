@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Francobolli in the first envelope (recurrence backwards) < MSK1/>
+*Francobolli in the first envelope (recurrence backwards) *
 
 > (Points 6) There are six numbered envelopes lined up: from the third to the next, each contains as many stamps as the two immediately preceding ones combined. The sixth contains 71 stamps, the fifth contains 43. How many stamps does the first one have? Answer: 0002. The solution. Proceeding backwards, the fourth contains 71  43 = 28, the third 43  28 = 15, the second 28  15 = 13, the first 15  13 = 2.
 

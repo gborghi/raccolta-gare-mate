@@ -79,7 +79,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>movement after X< MSK1/>
+*movement after X*
 
 ![[src_kangourou_2023_benjamin__prob30.png]]
 

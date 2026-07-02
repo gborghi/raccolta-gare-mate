@@ -50,10 +50,6 @@ tags:
 >   D. 20 
 >  
 > E. 21 
->  
->  
->  
-> 
 > Ecolier 2002. Pagina N. 
 > 5
 
@@ -68,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total biscuits with re-impasted slices< MSK1/>
+*Total biscuits with re-impasted slices*
 
 ![[src_kangourou_2002_ecolier__prob17.png]]
 

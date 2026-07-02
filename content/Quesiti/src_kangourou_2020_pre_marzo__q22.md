@@ -98,8 +98,8 @@ tags:
 >
 > (see figure)
 >
-> - **(A)** Only < MSK0/>
-> - **(B)** Only < MSK0/>
+> - **(A)** Only $5$
+> - **(B)** Only $3$
 > - **(C)** $2$ o $3$ o $4$
 > - **(D)** Only $1$ or $3$
 > - **(E)** $1$ o $3$ o $5$

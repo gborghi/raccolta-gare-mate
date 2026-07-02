@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N value given three sums 401,444,468< MSK1/>
+*N value given three sums 401,444,468*
 
 > Three cards There are three cards on the table and on each one is marked a number; the three numbers are positive integers, none greater than 30. Three friends play like this: they each take one of the three cards in sequence, noting the number shown on the card. Then the three cards are put back on the table and so a draw is made. After n rounds, each of the three friends sums up the n numbers he wrote down: the three sums are 401, 444, 468. How much is n?
 

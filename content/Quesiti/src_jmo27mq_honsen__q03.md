@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>A, punto medio di XY, punto medio di BC sono collineari< MSK1/>
+*A, punto medio di XY, punto medio di BC sono collineari*
 
 > $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $D$, $E$, $F$ sono i piedi delle perpendicolari abbassate rispettivamente da $A$, $B$, $C$ ai lati opposti e il $M$ è il punto medio del lato $BC$. Il $X$ deve essere l'intersezione della linea $AD$ e della linea $EF$, e il $Y$ deve essere l'intersezione della linea $AO$ e della linea $BC$. Il segmento $Z$ deve essere il punto medio di $XY$. Indicare che i tre punti $A$, $Z$ e $M$ sono collineari.
 

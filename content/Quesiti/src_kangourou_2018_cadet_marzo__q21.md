@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N value for Amalia to win< MSK1/>
+*N value for Amalia to win*
 
 > 130 people voted in favour of the parents' representative on the Institute's board, each for only one of the three candidates: Simone, Carlo and Amalia. At some point in the drawing of the cards the preferences for Simone are 24, for Charles 29 and for Amalia 37 and the chairman of the seat notes: If Amalia still receives at least N votes, she wins. How much is N ? A) 13
 > 	

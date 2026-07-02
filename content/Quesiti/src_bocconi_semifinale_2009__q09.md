@@ -58,7 +58,7 @@ tags:
 
 *Complete the scheme with distinct numbers and equal sums*
 
-> Complete the diagram discs in such a way as to comply with the following constraints: - the ten numbers must all be different and less than < MSK0/>; - in each small square, the two "cross products" must be equal (e.g. side by side, have < MSK1/>).
+> Complete the diagram discs in such a way as to comply with the following constraints: - the ten numbers must all be different and less than $20$; - in each small square, the two "cross products" must be equal (e.g. side by side, have $7 \times 6 = 14 \times 3 = 42$).
 
 ![[src_bocconi_semifinale_2009__Q09.png]]
 

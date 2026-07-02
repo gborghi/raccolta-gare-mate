@@ -50,6 +50,6 @@ tags:
 
 *Prove AE + AP = PD in triangolo rettangolo con incircolo*
 
-> $\triangle ABC$ sia un triangolo rettangolare con $\angle ACB = 90^\circ$. Il cerchio $\odot$ di $\triangle ABC$ è tangente a $BC$, $CA$, $AB$ rispettivamente a $D$, $E$ e $F$. < MSK10/> si interseca con < MSK11/> a < MSK12/>. $\angle BPC = 90^\circ$. Prove che $AE + AP = PD$.
+> $\triangle ABC$ sia un triangolo rettangolare con $\angle ACB = 90^\circ$. Il cerchio $\odot$ di $\triangle ABC$ è tangente a $BC$, $CA$, $AB$ rispettivamente a $D$, $E$ e $F$. $AD$ si interseca con $\odot$ a $P$. $\angle BPC = 90^\circ$. Prove che $AE + AP = PD$.
 
 [[src_cn_cmo_2006__Q04]]

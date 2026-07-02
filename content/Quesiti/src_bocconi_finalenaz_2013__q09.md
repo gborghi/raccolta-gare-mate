@@ -58,7 +58,7 @@ tags:
 
 Measures of square meadows with total area of 222 dams
 
-> Angelo has three square meadows, the sides of which are measured in decameters. The sum of the areas of the three meadows is 222 < MSK0/>.
+> Angelo has three square meadows, the sides of which are measured in decameters. The sum of the areas of the three meadows is 222 $\text{dam}^2$.
 > 
 > How much do the sides of the meadows measure? (On the answer sheet, write the smallest possible answer, if not unique.)
 

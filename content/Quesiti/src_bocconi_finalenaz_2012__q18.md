@@ -61,7 +61,7 @@ tags:
 
 *Nando's Age with forest of 969 trees*
 
-> By the age of 1, Nando had already planted a tree in his private forest. By the age of 2, he had planted other trees to form a regular triangle, with sides with two trees on each side and the first tree located on a peak. At 3 years old, Nando still plants other trees to form a new regular polygon (always < MSK0/> sides) with three trees per side and two sides that extend those of the previous year's polygon. And so on and so forth. Figure illustrates the cases where $n$ is $3, 4, 6$ subsequent forests, up to the age of 4 years. Today, in the forest involved in Nando's next birthday, there would be 969 trees. What is Nando's age (more than 4 years and less than 100)?
+> By the age of 1, Nando had already planted a tree in his private forest. By the age of two, he had planted other trees to form a regular triangle, with sides with two trees on each side and the first tree located on a top. At 3 years old, Nando still plants other trees to form a new regular polygon (always $n$ sides) with three trees per side and two sides that extend those of the previous year's polygon. And so on and so forth. Figure illustrates the cases where $n$ is $3, 4, 6$ subsequent forests, up to the age of 4 years. Today, in the forest involved in Nando's next birthday, there would be 969 trees. What is Nando's age (more than 4 years and less than 100)?
 
 ![[src_bocconi_finalenaz_2012__Q18.png]]
 

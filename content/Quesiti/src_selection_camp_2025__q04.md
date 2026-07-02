@@ -54,8 +54,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>n studenti, n gare, distintivo (a,b) per esattamente un top-b; massimizzazione del punteggio totale < MSK1/>
+*n studenti, n gare, distintivo (a,b) per esattamente un top-b; massimizzazione del punteggio totale *
 
-> $n$ sia un numero intero positivo. Ciascuno degli studenti < MSK1/> corre in gare < MSK2/>. In ciascuna gara a tutti gli studenti $n$ vengono assegnati ranghi distinti (non due studenti condividono un rank). Per una coppia di integri positivi $(a, b)$, si dice che uno studente abbia il titolo $(a, b)$ se lo studente finisce tra i migliori $b$ in esattamente $a$ delle gare $n$. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli studenti < MSK11/>.
+> $n$ sia un numero intero positivo. Ciascuno degli studenti $n$ corre in gare $n$. In ciascuna gara a tutti gli studenti $n$ vengono assegnati ranghi distinti (non due studenti condividono un rank). Per una coppia di integri positivi $(a, b)$, si dice che uno studente abbia il titolo $(a, b)$ se lo studente finisce tra i migliori $b$ in esattamente $a$ delle gare $n$. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli studenti $n$.
 
 [[src_selection_camp_2025__Q04]]

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Less sum in table 3x3 with integers 1-9 < MSK1/>
+*Less sum in table 3x3 with integers 1-9 *
 
 > James wrote in each box of a table 3 a different integer from 1 to 9. Then he calculated the sum of the integers in each row and column of the table. Five of the six results (in unspecified order) are 12, 13, 15, 16 and 17. What's the missing sum? A) 17
 > 	

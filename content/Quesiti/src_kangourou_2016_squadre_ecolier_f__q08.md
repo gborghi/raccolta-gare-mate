@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length in mm of the microkang trailer< MSK1/>
+*Length in mm of the microkang trailer*
 
 > Measurements in Kangland. In Kangland, lengths are not measured in meters, but in kang. A kang is 1.6 meters long, consists of 80 minikang and each minikang consists of 80 microkang. Anna's train is 3344 microkang long. How many millimeters is it?
 >  

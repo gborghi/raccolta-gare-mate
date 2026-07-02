@@ -51,6 +51,6 @@ tags:
 
 *Ricerca KL dove tre ceviani paralleli uguali attraversano il punto interno del triangolo con lati 26,65,78*
 
-> $P$ sia un punto interno del triangolo $ABC$ le cui lunghezze laterali sono 26, 65, 78. La linea attraverso $P$ parallela a $BC$ incontra $AB$ in $K$ e $AC$ in $L$. La linea attraverso $P$ parallela a $AB$ incontra $CA$ in $S$ e $CB$ in $T$. La linea attraverso $P$ parallela a $CA$ incontra $BC$ in $M$ e $BA$ in $N$. Se < MSK20/>, trovare < MSK21/>.
+> $P$ sia un punto interno del triangolo $ABC$ le cui lunghezze laterali sono 26, 65, 78. La linea attraverso $P$ parallela a $BC$ incontra $AB$ in $K$ e $AC$ in $L$. La linea attraverso $P$ parallela a $AB$ incontra $CA$ in $S$ e $CB$ in $T$. La linea attraverso $P$ parallela a $CA$ incontra $BC$ in $M$ e $BA$ in $N$. Se $KL = MN = ST$, trovare $KL$.
 
 [[src_prmo_2017__Q24]]

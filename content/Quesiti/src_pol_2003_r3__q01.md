@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Linea di altitudine e punto medio in triangolo acuto; dimostrare SD = SM dove S è il centro circostante di CKL.*
+*Linea di altitudine e di punto medio in triangolo acuto; dimostrare SD = SM dove S è il centro circundante di CKL.*
 
-> In un triangolo a angolo acuto $ABC$, $CD$ è l'altitudine. Una linea attraverso il punto medio $M$ del lato $AB$ incontra i raggi $CA$ e $CB$ rispettivamente a $K$ e $L$ in modo tale che $CK = CL$. Il punto $S$ è il centro circundante del triangolo $CKL$. Prova che < MSK11/>.
+> In un triangolo a angolo acuto $ABC$, $CD$ è l'altitudine. Una linea attraverso il punto medio $M$ del lato $AB$ incontra i raggi $CA$ e $CB$ rispettivamente a $K$ e $L$ in modo tale che $CK = CL$. Il punto $S$ è il centro circundante del triangolo $CKL$. Prova che $SD = SM$.
 
 [[src_pol_2003_r3__Q01]]

@@ -58,7 +58,7 @@ tags:
 
 *La radice quadrata più piccola del prodotto delle dimensioni rettangolari, perimetro 58*
 
-> $x$ e $y$ siano le dimensioni del rettangolo e $n$ il lato del quadrato. Da $2x+2y=58$, $x+y=29$. Supponendo $x\le y$, le dimensioni possibili sono $(x,y)\in\{(1,28),(2,27),(3,26),\dots,(14,15)\}$. Di questi, solo $(4,25)$ ha prodotto un quadrato perfetto, quindi $n=\sqrt{4\cdot 25}=10$. Qual è il valore di < MSK9/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> $x$ e $y$ siano le dimensioni del rettangolo e $n$ il lato del quadrato. Da $2x+2y=58$, $x+y=29$. Supponendo $x\le y$, le dimensioni possibili sono $(x,y)\in\{(1,28),(2,27),(3,26),\dots,(14,15)\}$. Di questi, solo $(4,25)$ ha prodotto un quadrato perfetto, quindi $n=\sqrt{4\cdot 25}=10$. Qual è il valore di $n$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
 [[src_obm_2016_n2_f1__Q18]]

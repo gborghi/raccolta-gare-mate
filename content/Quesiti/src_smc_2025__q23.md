@@ -56,7 +56,7 @@ tags:
 
 *Jemima fa n'esame; dopo (n-2) le prove la media è stata m; i punteggi completi nella prova n-1 aumentano la media di 4; i punteggi completi nella prova n aumentano la media di 3; trova n.*
 
-> Jemima fa una serie di test < MSK0/> ognuno con lo stesso punteggio massimo. Dopo i test < MSK1/>, il suo punteggio medio è stato < MSK2/>. Ha ottenuto punteggi completi nel test $(n-1)$, e così ha aumentato il suo punteggio medio di 4 punteggi. Nel test MSK4/> ha di nuovo ottenuto voti completi e ha aumentato il suo punteggio medio di 3 voti. Quanti test ha fatto Jemima?
+> Jemima fa una serie di test $n$ ognuno con lo stesso punteggio massimo. Dopo i test $(n-2)$, il suo punteggio medio è stato $m$. Ha ottenuto punteggi completi nel test $(n-1)$, e così ha aumentato il suo punteggio medio di 4 punteggi. Nel test$n$ ha di nuovo ottenuto voti completi e ha aumentato il suo punteggio medio di 3 voti. Quanti test ha fatto Jemima?
 >
 > - **(A)** 6
 > - **(B)** 7

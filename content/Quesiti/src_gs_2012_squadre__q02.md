@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last two digits of 2^99 by periodicity< MSK1/>
+*Last two digits of 2^99 by periodicity*
 
 > Dotto's practicing with the numbers. He took the $$f(n) = \frac{200 - 2n}{n}$$ function and calculated the last two digits (i.e. the two to the right) of the $$f(1) \cdot f(2) \cdot \ldots \cdot f(99).$$ product. What did he find?
 

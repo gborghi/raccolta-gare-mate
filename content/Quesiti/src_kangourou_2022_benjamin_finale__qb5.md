@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of equilateral triangles joining vertices of a cube< MSK1/>
+*Number of equilateral triangles joining vertices of a cube*
 
 > Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Le sequenze definite dalla ricorrenza gcd e lcm diventano infine periodiche< MSK1/>
+*Le sequenze definite dalla ricorrenza gcd e lcm diventano infine periodiche*
 
 > Che $a_0, a_1, \ldots$ e $b_0, b_1, \ldots$ siano sequenze di integri positivi che soddisfino $a_0, b_0 \ge 2$ e, per ogni intero non negativo $n$, $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$ dimostri che esiste un intero non negativo $N$ e un intero positivo $t$ tale che $a_{n+t} = a_n$ sia valido per ogni intero $n \ge N$. (Qui $\gcd(x, y)$ e $\operatorname{lcm}(x, y)$ indicano rispettivamente il più grande divisore comune e il più piccolo multiplo comune degli integri positivi $x$ e $y$.)
 

@@ -49,7 +49,7 @@ This is the problem.
 
 ![[src_archimede_2003_pubblico__prob17.png]]
 
-> A crying architect was called in to design a huge shopping mall on the outskirts of the city. The entire shopping centre shall be built on a square < MSK0/> of 240 metres on the side. The architect's design foresees that the plan of the shopping centre is the intersection of two parallelograms. The first of these has two opposite sides, each 120 metres long, lying respectively on the sides $AD$ and $BC$ of the square, while the second has two opposite sides (always 120 metres long) lying on the sides $AB$ and $CD$.
+> A crying architect was called in to design a huge shopping mall on the outskirts of the city. The entire shopping centre shall be built on a square $ABCD$ of 240 metres on the side. The architect's design foresees that the plan of the shopping centre is the intersection of two parallelograms. The first has two opposite sides, each 120 metres long, lying respectively on the sides $AD$ and $BC$ of the square, while the second has two opposite sides (always 120 metres long) lying on the sides $AB$ and $CD$.
 > 
 > If you owe $S_{\max}$ the maximum and $S_{\min}$ the minimum possible area of the mall plant, how much is $S_{\max} - S_{\min}$? (see figure)
 

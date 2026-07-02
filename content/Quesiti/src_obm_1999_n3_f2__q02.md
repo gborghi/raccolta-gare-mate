@@ -56,7 +56,7 @@ tags:
 
 *ABCD quadrato con quattro cerchi circoscritti: condizioni di angolo e lunghezza*
 
-> Lasciate che $ABCD$ sia quadrato. Selezionare i punti $M$, $N$, $P$, $Q$ su $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti l'uno all'altro esternamente. Prova che < MSK11/>.
+> Lasciate che $ABCD$ sia quadrato. Selezionare i punti $M$, $N$, $P$, $Q$ su $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo che i cerchi circondati dei triangoli $MBN$ e $PDQ$ siano tangenti l'uno all'altro esternamente. Prova che $MN + PQ \ge AC$.
 
 ![[src_obm_1999_n3_f2__Q02.png]]
 

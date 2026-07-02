@@ -62,7 +62,7 @@ tags:
 
 ![[src_kangourou_2021_student_gara__prob17.png]]
 
-> Each cell in Table 5 < MSK0/> 5 in Figure 5 contains a number, but some numbers are written in white and therefore invisible. You know that the sum of the numbers in each row and in each column is always the same. What is the number in the box given by the question mark? A) 8
+> Each cell of Table 5 × 5 in Figure 5 contains a number, but some numbers are written in white and therefore invisible. You know that the sum of the numbers in each row and in each column is always the same. What is the number in the box given by the question mark? A) 8
 > 	
 > B) 10
 > 	

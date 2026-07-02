@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>MCD of all numbers 1^n+...+999^n< MSK1/>
+*MCD of all numbers 1^n+...+999^n*
 
 > The most common combination [⋆] Goemetrikon: Here's the safe! The code that opens it is the maximum common divisor of all numbers of the form 1n +2n +3n +··+999n where n is a positive integer. . . ». Jig∈N: Damn, we don't have time to calculate endless numbers! Lupin 3 is sleeping. What's the code?
 

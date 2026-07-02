@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Proportional increase in area of wool (+10%+10%) < MSK1/>
+*Proportional increase in area of wool (+10%+10%) *
 
 > A man has a rectangular owl in his garden. He decides to enlarge it by increasing both the length and width by 10%. Then the area of the sheath increases from A to 10 percent B to 20 percent C to 21 percent D to 40 percent E to 121 percent
 

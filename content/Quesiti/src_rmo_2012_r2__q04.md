@@ -52,6 +52,6 @@ tags:
 
 *Coppie di conteggio {A,B} con sottoinsiemi A,B di {1,...,12} che soddisfano le condizioni*
 
-> Let < MSK0/>. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7, 8\}$.
+> Let $X = \{1, 2, 3, \ldots, 12\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7, 8\}$.
 
 [[src_rmo_2012_r2__Q04]]

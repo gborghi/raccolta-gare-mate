@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Tetraedro di maggior volume inserito nell'emisfero del raggio 1< MSK1/>
+*Tetraedro di maggior volume inserito nell'emisfero del raggio 1*
 
 > Determinare il più grande volume possibile di un tetraedro situato all'interno di un emisfero di raggio $1$.
 

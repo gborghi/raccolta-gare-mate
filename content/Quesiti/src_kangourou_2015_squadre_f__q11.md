@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Four digits of Cristina with a difference in products 1000< MSK1/>
+*Four digits of Cristina with a difference in products 1000*
 
 > Cristina's numbers From the numbers 1 to 9, Cristina chooses four of them all different from each other. He then groups them into pairs and orders the two pairs thus obtained, so as to form two two-digit integers from which he calculates the product. After carrying out this operation in all possible ways, it is noticed that the difference between the highest and lowest of the products obtained is exactly 1000. Write in increasing order the four digits chosen by Cristina.
 

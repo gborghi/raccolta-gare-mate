@@ -57,7 +57,7 @@ tags:
 
 *La somma delle reciprocità di tre valori quadratici costruiti dalle radici alfa,beta è uguale a 0.*
 
-> (Parte B, problema 2.) Una ha l'identità $(x-2)(x-3)+(x-3)(x+1)+(x+1)(x-2)=3(x-\alpha)(x-\beta)$, dove $\alpha,\beta$ sono le sue radici. Substituendo < MSK2/> si ottiene < MSK3/>, < MSK4/> e < MSK5/>. Calcolare $\dfrac{1}{(\alpha+1)(\beta+1)}+\dfrac{1}{(\alpha-2)(\beta-2)}+\dfrac{1}{(\alpha-3)(\beta-3)}$. [Fonte: foglio delle soluzioni; dichiarazione ricostruita dalla soluzione, che dà $\frac{1}{4}-1+\frac{3}{4}=0$.]
+> (Parte B, problema 2.) Una ha l'identità $(x-2)(x-3)+(x-3)(x+1)+(x+1)(x-2)=3(x-\alpha)(x-\beta)$, dove $\alpha,\beta$ sono le sue radici. Substituendo $x=-1,2,3$ si ottiene $(\alpha+1)(\beta+1)=4$, $(\alpha-2)(\beta-2)=-1$ e $(\alpha-3)(\beta-3)=\dfrac{4}{3}$. Calcolare $\dfrac{1}{(\alpha+1)(\beta+1)}+\dfrac{1}{(\alpha-2)(\beta-2)}+\dfrac{1}{(\alpha-3)(\beta-3)}$. [Fonte: foglio delle soluzioni; dichiarazione ricostruita dalla soluzione, che dà $\frac{1}{4}-1+\frac{3}{4}=0$.]
 
 **Risposta:** 0
 [[src_obm_2007_n2_f2__Q07]]

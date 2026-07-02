@@ -50,7 +50,7 @@ tags:
 
 *All hours possible if the clock changes 0 and 8 showing 20.08*
 
-> Carlo's digital watch is flawed: sometimes, but not always, instead of the figure $0$ it shows the figure $8$ and vice versa. If Carlo reads the MSK2 clock, what time could it actually be? Write down as many hours as you can.
+> Carlo's digital clock is flawed: sometimes, but not always, instead of the figure $0$ it shows the figure $8$ and vice versa. If Carlo reads the$20.08$clock, what time could it actually be? Write down as many hours as you can.
 
 **Answer:** 20.00, 20.08
 [[src_kangourou_2011_ecolier_finale__QE1]]

@@ -48,15 +48,6 @@ tags:
 > D)
 > E)
 > 2
-> 6
-> 6
-> 6
-> 6
-> 0
-> 0
-> 0
-> 0
-> 0
 > Benjamin_06.qxp  20/02/2006  23.56  Pagina 11
 > 
 > Pag. 
@@ -76,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White part paint after removal of cubes< MSK1/>
+*White part paint after removal of cubes*
 
 ![[src_kangourou_2006_benjamin__prob10.png]]
 

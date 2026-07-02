@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little chocolate milk (box 18) < MSK1/>
+*Little chocolate milk (box 18) *
 
 > If any of the following three statements
 >

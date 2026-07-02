@@ -53,6 +53,6 @@ tags:
 
 *Triangolo acuto con angolo 60°; riflessi di piedi d'altitudine bisetti BC*
 
-> Il $ABC$ deve essere un triangolo acuto con $\angle BAC = 60^\circ$ e $AB < BC < AC$. $M$ e $N$ siano i piedi delle altitudini rispettivamente da $B$ e $C$. Supponiamo che $BE$, $CF$ siano le altitudini, con $E$ su $CA$ e $F$ su $AB$. L'immagine $X$ deve essere l'immagine di $M$ riflessa nel punto medio di $BF$, e l'immagine $Y$ deve essere l'immagine di $N$ riflessa nel punto medio di $CE$. Provare che < MSK19/> divide < MSK20/>.
+> Il $ABC$ deve essere un triangolo acuto con $\angle BAC = 60^\circ$ e $AB < BC < AC$. $M$ e $N$ siano i piedi delle altitudini rispettivamente da $B$ e $C$. Supponiamo che $BE$, $CF$ siano le altitudini, con $E$ su $CA$ e $F$ su $AB$. L'immagine $X$ deve essere l'immagine di $M$ riflessa nel punto medio di $BF$, e l'immagine $Y$ deve essere l'immagine di $N$ riflessa nel punto medio di $CE$. Provare che $XY$ divide $BC$.
 
 [[src_rmo_2025_kv__Q05]]

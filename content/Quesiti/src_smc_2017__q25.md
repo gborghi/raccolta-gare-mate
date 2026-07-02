@@ -65,7 +65,7 @@ tags:
 
 *N nonagone regolare; ad ogni vertice un segmento di linea perpendicolare produce un nonagone S più piccolo (ombra). Trova area(S)/area(N).*
 
-> Il diagramma mostra un nonagon regolare $N$. Muovendosi in senso orario, ad ogni vertice un segmento di linea è disegnato perpendicolare al bordo precedente. Ciò produce un nonagon regolare più piccolo < MSK1/>, mostrato in ombra.
+> Il diagramma mostra un nonagon regolare $N$. Muovendosi in senso orario, ad ogni vertice un segmento di linea è disegnato perpendicolare al bordo precedente. Ciò produce un nonagon regolare più piccolo $S$, mostrato in ombra.
 > 
 > Quale frazione della superficie di $N$ è la superficie di $S$?
 >

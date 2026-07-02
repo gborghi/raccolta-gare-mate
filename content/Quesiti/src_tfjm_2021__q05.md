@@ -103,7 +103,7 @@ tags:
 > 
 > La figura 5 illustra una possibile distribuzione dei signori $4$ nel regno del Cile. La zona d'influenza di lord $s_1$ è il segmento blu.
 > 
-> Lasciate che sia un signore. Per un altro signore $s$, scrivete $a(t,s)$ per il potere che $t$ avrebbe se il signore $s$ fosse rimosso dal regno. Noi diciamo che MSK5/> è un nemico giurato di MSK6/> se, per ogni altro signore $s'$, $a(t,s) \ge a(t,s')$. Un signore può avere diversi nemici giurati.
+> Lasciate che sia un signore. Per un altro signore $s$, scrivete $a(t,s)$ per il potere che $t$ avrebbe se il signore $s$ fosse rimosso dal regno. Noi diciamo che$s$ è un nemico giurato di$t$ se, per ogni altro signore $s'$, $a(t,s) \ge a(t,s')$. Un signore può avere diversi nemici giurati.
 > 
 > Ad esempio, nella distribuzione illustrata nella figura 5, il signore $s_1$ ha giurato nemico $s_2$, $s_2$ ha giurato nemico $s_1$, $s_3$ ha giurato nemico $s_2$ e $s_4$ ha giurato nemico $s_3$.
 > 
@@ -119,13 +119,13 @@ tags:
 > 
 > Si dice che un signore sia un vassallo se è un nemico giurato di tutti gli altri signori.
 > 
-> Per ciascuno dei tre regni, quali sono tutti i numeri interi $n \ge 2$ in modo che possa esserci una configurazione di $n$ machiavelli?
+> Per ciascuno dei tre regni, quali sono tutti gli enti $n \ge 2$ in modo tale che possa esserci una configurazione di $n$ machiavelli?
 > 
 > Diciamo che una configurazione di signori in un regno è $k$-equilibrata se ogni signore ha esattamente $k$ nemici giurati, e ogni signore è il nemico giurato di esattamente $k$ signori.
 > 
 > **(5) ** Per ciascuno dei tre regni, quali sono i numeri interi $k \ge 1$ in modo che esista una configurazione $k$-equilibrata?
 > 
-> Per ciascuno dei tre regni, quali sono i numeri interi $n \ge 2$ in modo tale che esista una configurazione di signori $n$ in cui nessun paio di signori sono nemici giurati l'uno dell'altro?
+> Per ciascuno dei tre regni, quali sono i numeri interi $n \ge 2$ in modo che esista una configurazione di signori $n$ in cui nessun paio di signori sono nemici giurati l'uno dell'altro?
 > 
 > **(7) ** Fissa il numero $n \ge 2$ di signori e, per ogni signore $s$, un insieme $E_s$ di altri signori. Per ciascuno dei tre regni, determinare per quali assegnazioni $E_s$ esiste una configurazione per la quale i nemici giurati di $s$ sono esattamente gli elementi di $E_s$.
 > 

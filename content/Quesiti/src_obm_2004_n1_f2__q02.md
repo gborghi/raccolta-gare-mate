@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Peso prima di una dieta: variazioni della massa grassa del 20% e poi del 40%< MSK1/>
+*Peso prima di una dieta: variazioni della massa grassa del 20% e poi del 40%*
 
 > La massa grassa di una determinata persona corrisponde al 20% della sua massa corporea totale. Questa persona, che pesava 100 kg, ha fatto una dieta e ha perso il 40% del grasso, mantenendo gli altri indicatori uguali. Quanti chili ha pesato alla fine della dieta?
 

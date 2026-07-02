@@ -52,7 +52,7 @@ tags:
 
 *Ricerca un'identità trigonometrica data nel triangolo*
 
-> Supponiamo che in $\triangle ABC$ abbiamo $\sin A = 10\sin B\sin C$, $\cos A = 10\cos B\cos C$. Poi < MSK3/>.
+> Supponiamo che in $\triangle ABC$ abbiamo $\sin A = 10\sin B\sin C$, $\cos A = 10\cos B\cos C$. Poi $\tan A = \underline{\qquad}$.
 
 **Risposta:** 11
 [[src_cn_cmc_2013__Q03]]

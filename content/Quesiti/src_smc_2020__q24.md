@@ -61,7 +61,7 @@ tags:
 
 *Lunghezza di SQ in un triangolo in cui M è il punto medio di PQ, PS divide l'angolo RPQ, ST è parallelo a PR, angolo MTI = 120 gradi*
 
-> Nel diagramma mostrato, $M$ è il punto medio di $PQ$. La linea $PS$ divide $\angle RPQ$ e si interseca $RQ$ a $T$. La linea $ST$ è parallela a $PR$ e si interseca con $PQ$ a $S$. La lunghezza di $PQ$ è 12 e la lunghezza di $MT$ è 1. L'angolo $\angle STQ = 120^\circ$. Qual è la lunghezza di < MSK13/>?
+> Nel diagramma mostrato, $M$ è il punto medio di $PQ$. La linea $PS$ divide $\angle RPQ$ e si interseca $RQ$ a $T$. La linea $ST$ è parallela a $PR$ e si interseca con $PQ$ a $S$. La lunghezza di $PQ$ è 12 e la lunghezza di $MT$ è 1. L'angolo $\angle STQ = 120^\circ$. Qual è la lunghezza di $SQ$?
 >
 > - **(A)** $2$
 > - **(B)** $3$

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum EUR to secure the prize (balls) < MSK1/>
+*Maximum EUR to secure the prize (balls) *
 
 > In a moon park there is a box containing: - 15 balls, each half red and half blue; - 12 balls, each half blue and half green; - 9 balls, each half green and half red. Taking a ball out of the box at random costs a euro. If you present seven balls that have at least one color in common, you are given a prize that you care very much about. How many euros will you have to spend, at most, to secure the prize? A) 7 B) 8 C) 9 D) 10 E) 11 Questions from N. 21 al N. 30 is worth 5 points each.
 

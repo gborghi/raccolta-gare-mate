@@ -54,7 +54,7 @@ tags:
 
 *L'area del triangolo AOF data a triangoli rettangolari con OA=8 cm*
 
-> Nella figura di seguito, i triangoli $ABO$, $BCO$, $CDO$, $DEO$ e $FEO$ sono triangoli rettangolari a pieghe uguali. Ci viene data quella < MSK5/> cm. Determinare la superficie del triangolo $AOF$ in cm$^2$.
+> Nella figura di seguito, i triangoli $ABO$, $BCO$, $CDO$, $DEO$ e $FEO$ sono triangoli rettangolari a pieghe uguali. Ci viene data quella $OA = 8$ cm. Determinare la superficie del triangolo $AOF$ in cm$^2$.
 
 ![[src_canimath_2016_automne__Q02.png]]
 

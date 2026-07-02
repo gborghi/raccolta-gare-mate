@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many developments are closed in closed boxes< MSK1/>
+*How many developments are closed in closed boxes*
 
 ![[src_archimede_2002_biennio__prob19.png]]
 

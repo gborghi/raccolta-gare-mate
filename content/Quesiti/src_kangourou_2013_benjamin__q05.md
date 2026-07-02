@@ -54,7 +54,7 @@ tags:
 
 *Summary of three years of age over three years*
 
-> The symbol r indicates one of the ten digits. If r r < MSK0/> r = 176, what is the figure indicated by r ? A) 6
+> The symbol r indicates one of the ten digits. If r r × r = 176, what is the figure indicated by r ? A) 6
 >          	
 > B) 4
 >     	

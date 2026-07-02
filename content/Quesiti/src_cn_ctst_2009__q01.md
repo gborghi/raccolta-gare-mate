@@ -51,7 +51,7 @@ tags:
 
 *Prove CM perpendicolare all'AO in configurazione a cerchio e triangolo*
 
-> Il punto $D$ deve essere un punto sul lato $BC$ del triangolo $ABC$ tale che $\angle CAD = \angle CBA$. Un cerchio con centro $O$ passa attraverso $B$, $D$ e incontra segmenti $AB$, $AD$ rispettivamente a $E$ e $F$. Le linee $BF$ e $DE$ si incontrano al punto $G$. $M$ è il punto medio di $AG$. Prova che < MSK16/>.
+> Il punto $D$ deve essere un punto sul lato $BC$ del triangolo $ABC$ tale che $\angle CAD = \angle CBA$. Un cerchio con centro $O$ passa attraverso $B$, $D$ e incontra segmenti $AB$, $AD$ rispettivamente a $E$ e $F$. Le linee $BF$ e $DE$ si incontrano al punto $G$. $M$ è il punto medio di $AG$. Prova che $CM \perp AO$.
 
 ![[src_cn_ctst_2009__Q01.png]]
 

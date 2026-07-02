@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Include the largest of the five fractions< MSK1/>
+*Include the largest of the five fractions*
 
 > Indicate the largest of these fractions.
 >

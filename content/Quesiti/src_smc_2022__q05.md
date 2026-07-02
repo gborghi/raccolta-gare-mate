@@ -57,7 +57,7 @@ tags:
 
 Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $\frac{1}{1.01} + \frac{1}{1.1} + \frac{1}{1} + \frac{1}{11} + \frac{1}{101}$?
 >
 > - **(A)** 2.9
 > - **(B)** 2.99

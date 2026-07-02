@@ -52,7 +52,7 @@ tags:
 
 *How many real terns with a2+b2+c2=1 and a3+b3+c3=1*
 
-> How many < MSK1/> sets of real numbers verify the following system? $$\begin{cases} a^2 + b^2 + c^2 = 1 \\ a^3 + b^3 + c^3 = 1 \end{cases}$$
+> How many $(a, b, c)$ sets of real numbers verify the following system? $$\begin{cases} a^2 + b^2 + c^2 = 1 \\ a^3 + b^3 + c^3 = 1 \end{cases}$$
 >
 > - **(A)** None of them .
 > - **(B)** 1

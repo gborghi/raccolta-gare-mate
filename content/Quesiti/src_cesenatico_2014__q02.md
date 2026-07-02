@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>show angAPM=angPBA< MSK1/>
+*show angAPM=angPBA*
 
 > Whether ABC is such a triangle that, said H the height foot driven by C, we have AH = 3 · HB. In addition,  M is the mean point of AB;  N is the mean point of AC;  P is the point on the opposite side of B to the straight AC such that NP = NC and PC = CB. Prove that APM is PBA.
 

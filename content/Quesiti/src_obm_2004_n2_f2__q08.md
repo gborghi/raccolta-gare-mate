@@ -66,6 +66,6 @@ tags:
 > 
 > È noto che $AE = 8$, $BE = 17$ e $CF = 3$.
 > 
-> (a) Trovare la lunghezza del segmento $AB'$. b) Trova la lunghezza del lato < MSK1/>.
+> (a) Trovare la lunghezza del segmento $AB'$. b) Trova la lunghezza del lato $AD$.
 
 [[src_obm_2004_n2_f2__Q08]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value m+n with 2^m-2^n=240< MSK1/>
+*Value m+n with 2^m-2^n=240*
 
 > (Points 4) m and n are two positive integers such that 2m - 2n = 240. How much is m + n ? A) 10 B) 11 C) 15 D) 16 E) None of the above numbers are correct.
 

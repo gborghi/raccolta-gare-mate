@@ -54,7 +54,7 @@ tags:
 
 *Last digit other than 0 of the number 2^59 3^4 5^53*
 
-> What is the last digit other than 0 of the number 259 < MSK0/> 34 < MSK1/> 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 al N. 30 is worth 5 points each.
+> What is the last digit other than 0 of the number 259 × 34 × 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
 [[src_kangourou_2012_junior__Q20]]

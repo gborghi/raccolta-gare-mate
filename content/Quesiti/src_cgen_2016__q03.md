@@ -111,9 +111,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Andando in C: con j = e^{2i pi/3} e variabili a base di dadi Z_k = j^{F_k}, studiare la probabilità p_n che S_n = Z_1+...+Z_n = 0, derivare una forma chiusa tramite binomi, e analizzare la variabile di conteggio X_n degli indici con S_k = 0.*
+*Andando in C: con j = e^{2i pi/3} e variabili basate su dadi Z_k = j^{F_k}, studiare la probabilità p_n che S_n = Z_1+...+Z_n = 0, derivare una forma chiusa tramite binomi, e analizzare la variabile di conteggio X_n degli indici con S_k = 0.*
 
-> Problema 3: Entrare in < MSK0/>.
+> Problema 3: Entrare in $\mathbb{C}$.
 > 
 > In tutto questo problema, $j$ indica il numero complesso $e^{2i\pi/3}$. La probabilità di un evento $A$ è indicata come $P(A)$.
 > 
@@ -129,7 +129,7 @@ tags:
 > 
 > Consideriamo un intero $n \ge 1$ e lanciamo il dado $n$ volte (lanci indipendenti). Indichiamo con $F_k$ il risultato del $k$-th lancio, per $k \in \{1, \dots, n\}$. $Z_k = j^{F_k}$ deve essere la variabile risultante al $k$-th throw, per $k \in \{1, \dots, n\}$, e impostare $S_n = Z_1 + \cdots + Z_n$ e $p_n = P(S_n = 0)$. Indichiamo con $U_n$ la variabile che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = 1$, con $V_n$ quella che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = j$, e con $W_n$ quella che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = j^2$.
 > 
-> - Sì, signore. a.} Determinare < MSK0/>.
+> - Sì, signore. a.} Determinare $U_n + V_n + W_n$.
 > 
 > \textbf{b.} Indicare che $S_n = (U_n - V_n) j^0 + (V_n - W_n) j$ [gruppo esatto parzialmente illeggibile; $S_n$ espresso attraverso le differenze $U_n - V_n$ e $V_n - W_n$].
 > 

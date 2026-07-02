@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3< MSK1/>
+How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 
 > The bloody Bourbakossa is surprisingly also an aesthetic end and wants to put order in his basement after Jack's passing. He has 28 identical bottles of rum, which he wants to place on the 7 shelves of his cabin so that: there is a different number for each shelf and for each n = 1,2,...,7 the total number of bottles on the first n shelves is not multiple by 3. How many different ways can you fill shelves so that none of them are empty?
 

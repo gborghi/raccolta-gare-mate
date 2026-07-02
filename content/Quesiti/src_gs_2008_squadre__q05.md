@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Medium weighted lethal cocktail< MSK1/>
+*Medium weighted lethal cocktail*
 
 > If they're A and E, the rest is completed in three ways.
 

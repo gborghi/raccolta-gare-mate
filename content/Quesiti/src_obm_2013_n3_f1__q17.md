@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Corsa delle pulci: salti di m e n cm (m<n) che si incontrano per primo a 1 m; conteggio di coppie (m,n) < MSK1/>
+*Corsa delle pulci: salti di m e n cm (m<n) che si incontrano per primo a 1 m; conteggio di coppie (m,n) *
 
 > In un circo, l'attrazione principale è la corsa alle pulci. Due pulci, $P_1$ e $P_2$, perfettamente addestrate, saltano lungo la stessa linea retta, con velocità costanti, partendo dallo stesso punto nello stesso istante. Ogni salto di pulce $P_1$ misura $m$ centimetri e ogni salto di pulce $P_2$ misura $n$ centimetri, con $m < n$, entrambe enti. Tuttavia la pulce $P_1$ è più veloce della pulce $P_2$, in modo che, indipendentemente dalla velocità di $P_2$, $P_1$ possa sempre raggiungerla dopo alcuni salti. Supponendo che, dopo l'avvio, le pulci si trovino insieme, per la prima volta, alla fine del metro $1$, si determina il numero di possibili coppie $(m, n)$.
 > 

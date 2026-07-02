@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cat residue meters when the dog arrives< MSK1/>
+*Cat residue meters when the dog arrives*
 
 > My dog and my cat are in the garden, the first 100 meters from the door, the second 80 meters. I called them, and they rushed to the door. The dog runs twice as fast as the cat. When the dog arrived at the door, how many yards did the cat have to walk?
 

@@ -52,6 +52,6 @@ tags:
 
 *Ricerca i rapporti BP/PE e AP/PD nel triangolo con punto medio*
 
-> Che $ABC$ sia un triangolo e $D$ un punto sul segmento $BC$ tale da $DC = 2BD$. $E$ sia il punto medio di $AC$. Lasciate che $AD$ e $BE$ si incrociano in $P$. Determinare i rapporti < MSK9/> e < MSK10/>.
+> Che $ABC$ sia un triangolo e $D$ un punto sul segmento $BC$ tale da $DC = 2BD$. $E$ sia il punto medio di $AC$. Lasciate che $AD$ e $BE$ si incrociano in $P$. Determinare i rapporti $BP/PE$ e $AP/PD$.
 
 [[src_rmo_2012_r1__Q01]]

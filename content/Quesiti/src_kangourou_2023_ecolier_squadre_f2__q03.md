@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies 2..2023 only divisible by pairs < MSK1/>
+*Interies 2..2023 only divisible by pairs *
 
 > Divideable only by even quantities are the integers between 2 and 2023 included that, in addition to 1, are divisible only by numbers that are even?
 

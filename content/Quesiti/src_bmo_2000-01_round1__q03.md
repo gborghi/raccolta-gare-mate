@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Sette tetromini distinti; imballazione in un rettangolo 4< MSK0/>7< MSK2/>
+*Sette tetromini distinti; imballazione in un rettangolo 4×7*
 
-> Un tetromino è una figura composta da quattro quadrati unitari collegati ai bordi. (i) Se non facciamo distinzione tra le possibili rotazioni di un tetromino all'interno del suo piano, dimostriamo che ci sono sette tetromino distinte. (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo < MSK0/> senza sovrapposizioni.
+> Un tetromino è una figura composta da quattro quadrati unitari collegati ai bordi. (i) Se non facciamo distinzione tra le possibili rotazioni di un tetromino all'interno del suo piano, dimostriamo che ci sono sette tetromino distinte. (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
 
 [[src_bmo_2000-01_round1__Q03]]

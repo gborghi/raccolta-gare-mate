@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo acuto, centro ortografico, circoncircoli, riflessione; prova quattro punti conciclici< MSK1/>
+*Triangolo acuto, centro ortografico, circoncircoli, riflessione; prova quattro punti conciclici*
 
 > Lasciate che $ABC$ sia un triangolo acuto con $AB < AC$, e lasciate che $H$ sia il suo centro orto. Il $D$ deve essere un punto sul lato $BC$ (esclusi i suoi punti di fine) con $AB = AD$, e il $P$ deve essere un punto sul segmento $BD$ (esclusi i suoi punti di fine). La linea $BH$ incontra nuovamente il circoncircolo del triangolo $ABC$ in un punto $E$ (con $E \neq B$). Il $Q$ è la seconda intersezione (diversi da $D$) del circoncircolo del triangolo $ABD$ e del circoncircolo del triangolo $DHP$, e il $Q'$ è il riflesso di $Q$ attraverso la linea $AB$. Prova che i quattro punti $B$, $E$, $P$, $Q'$ si trovano su un cerchio comune (sono conciclici). Qui $XY$ indica la lunghezza del segmento $XY$.
 

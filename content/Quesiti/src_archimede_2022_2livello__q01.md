@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Packing to minimize travel, together points< MSK1/>
+*Packing to minimize travel, together points*
 
 > Viale Marconi is 800m long; 200m from one end there is a parking meter, 100m from the opposite end there is a clothing store. Astolfo wants to park his car, get a ticket to the parking meter, return to the car to display it on the windshield, visit the store, and finally return to the car. Besides, he is lazy and therefore wants to walk as little as possible; where does he have to park to do so? Indicate the total number of points on the sidewalk that minimize the distance Astolfo must walk.
 >

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Biggest first < 30 sum of two first< MSK1/>
+*Biggest first < 30 sum of two first*
 
 > What is the largest prime number less 30 that can be expressed as the sum of two prime numbers?
 

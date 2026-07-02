@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of the thirsty Desiree camel< MSK1/>
+*Weight of the thirsty Desiree camel*
 
 > Whenever the Desirée camel is thirsty, 84 percent of its body is made up of water. After drinking, its weight reaches 800 kg and water makes up 85 percent of its weight. What's the weight of the Desirée camel when it's thirsty?
 >

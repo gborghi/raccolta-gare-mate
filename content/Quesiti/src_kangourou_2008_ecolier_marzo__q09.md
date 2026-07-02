@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>For how many years combined = 4 times thousands < MSK1/>
+*For how many years combined = 4 times thousands *
 
 > The number that represents the year 2008 has the number of units equal to four times the number of thousands. In how many years will the same situation be repeated for the first time? A) 10 B) 100 C) 1000 D) 2008 E) A number of years different from the previous ones. This is the main reason why we are not prepared to accept the proposal.
 > 

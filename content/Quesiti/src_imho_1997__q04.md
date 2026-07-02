@@ -59,8 +59,8 @@ The value of the underlying assets shall be the sum of the assets of the institu
 
 > An $n \times n$ matrix whose entries come from the set $S = \{1, 2, \ldots, 2n-1\}$ is called a *silver* matrix if, for each $i = 1, 2, \ldots, n$, the $i$th row and the $i$th column together contain all elements of $S$. Show that
 > 
-> (a) there is no silver matrix for < MSK0/>;
+> (a) there is no silver matrix for $n = 1997$;
 > 
-> (b) silver matrices exist for infinitely many values of < MSK0/>.
+> (b) silver matrices exist for infinitely many values of $n$.
 
 [[src_imho_1997__Q04]]

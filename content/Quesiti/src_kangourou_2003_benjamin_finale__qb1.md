@@ -45,7 +45,7 @@ tags:
 
 *First of four numbers with the sum of 54*
 
-> Four numbers are such that the second is equal to the first plus $7$, the third is equal to the second plus $7$ and the fourth is equal to the third plus $7$. Their sum is < MSK3/>. What's the first number?
+> Four numbers are such that the second is equal to the first plus $7$, the third is equal to the second plus $7$ and the fourth is equal to the third plus $7$. Their sum is $54$. What's the first number?
 
 **Answer:** 3
 [[src_kangourou_2003_benjamin_finale__QB1]]

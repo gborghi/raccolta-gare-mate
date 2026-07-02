@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coins minted in Enzo (sacks 1 to 10) < MSK1/>
+*Coins minted in Enzo (sacks 1 to 10) *
 
 > There were ten bags on the table, each containing a different number of chocolate coins, from 1 to 10. Grandma gave each of the five grandchildren two bags of coins. Alex has five coins, Ben 7, Claudius 9, and Darius 15. How many chocolate coins were touched in Enzo? A) 9
 > 	

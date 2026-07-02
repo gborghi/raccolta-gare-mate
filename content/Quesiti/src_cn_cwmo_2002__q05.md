@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Lunghezza del segmento che unisce i circoncentri nel trapezoide è fissa< MSK1/>
+*Lunghezza del segmento che unisce i circoncentri nel trapezoide è fissa*
 
 > In un dato trapezio $ABCD$, $AD \parallel BC$. Supponiamo che $E$ sia un punto variabile su $AB$. $O_1$ e $O_2$ sono i circoncentri di $\triangle AED$ e $\triangle BEC$ rispettivamente. Provare che la lunghezza di $O_1O_2$ è un valore fisso. (Posizionato da Leng Ganpeng)
 

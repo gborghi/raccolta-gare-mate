@@ -58,7 +58,7 @@ tags:
 
 *Triangoli a due colori in griglia 7x7 con restrizioni*
 
-> Considera una griglia di celle < MSK0/>. Per due celle adiacenti, il bordo che condividono è chiamato "buono bordo". Quando ogni cella è divisa in quattro parti con i suoi due diagonali, l'intera figura è divisa in triangoli congruenti di isosceles destra $196$; ciascun triangolo di questo tipo è chiamato un "piccolo triangolo". In quanti modi ciascuno di questi piccoli triangoli $196$ può essere colorato in rosso o blu in modo che siano valide entrambe le seguenti condizioni? Per ogni cella, tra i quattro piccoli triangoli contenuti, il numero di colore rosso è esattamente $1$ o $3$. \item Per ogni buon bordo, i due piccoli triangoli che lo hanno come lato sono di colore lo stesso colore. # Finire #
+> Considera una griglia di celle $7 \times 7$. Per due celle adiacenti, il bordo che condividono è chiamato "buono bordo". Quando ogni cella è divisa in quattro parti dai suoi due diagonali, l'intera figura è divisa in triangoli congruenti di uguali dimensioni a destra $196$; ciascun triangolo di questo tipo è chiamato "piccolo triangolo". In quanti modi ciascuno di questi piccoli triangoli $196$ può essere colorato in rosso o blu in modo che siano valide entrambe le seguenti condizioni? Per ogni cella, tra i quattro piccoli triangoli contenuti, il numero di colore rosso è esattamente $1$ o $3$. \item Per ogni buon bordo, i due piccoli triangoli che lo hanno come lato sono di colore lo stesso colore. # Finire #
 
 ![[src_jjmo21yqa_yosen__Q09.png]]
 

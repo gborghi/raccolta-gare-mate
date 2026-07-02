@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Quante volte appare il numero 9 nel 987654321 < MSK0/> 9?< MSK2/>
+*Quante volte appare il numero 9 nel 987654321 × 9?*
 
 > Quante volte la cifra 9 appare nella risposta a $987\,654\,321 \times 9$?
 >

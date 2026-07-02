@@ -57,6 +57,6 @@ tags:
 
 *Funzioni definite ricorrentemente f,g su enti interi non negativi; contare n in [0,2015] con f(n) = 0*
 
-> (Parte A) Lasciate che $f$ e $g$ siano funzioni dai numeri interi non negativi ai numeri interi non negativi in modo tale che $f(0) = g(0) = 0$, e (equazioni funzionali relative a $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$, e $x$) siano valide per ogni numero intero non negativo $x$. Quanti valori di < MSK9/> con < MSK10/> soddisfano < MSK11/>?
+> (Parte A) Lasciate che $f$ e $g$ siano funzioni dai numeri interi non negativi ai numeri interi non negativi in modo tale che $f(0) = g(0) = 0$, e (equazioni funzionali relative a $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$, e $x$) siano valide per ogni numero intero non negativo $x$. Quanti valori di $n$ con $0 \le n \le 2015$ soddisfano $f(n) = 0$?
 
 [[src_obm_2015_n3_f2__Q05]]

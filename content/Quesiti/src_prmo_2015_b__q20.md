@@ -56,7 +56,7 @@ tags:
 
 *Circolo omega all'interno di Omega tangente a P; diametro XY tangente a omega; YZ=2PZ; angolo di ricerca PYX*
 
-> Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro $O$ di $\Omega$ si trova fuori di $\omega$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo < MSK9/>. Lasciate che < MSK10/> si incroci < MSK11/> a < MSK12/>. Se $YZ = 2PZ$, qual è la magnitudine di $\angle PYX$ in gradi?
+> Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro $O$ di $\Omega$ si trova fuori di $\omega$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo $PY > PX$. Lasciate che $PY$ si incroci $\omega$ a $Z$. Se $YZ = 2PZ$, qual è la magnitudine di $\angle PYX$ in gradi?
 
 **Risposta:** 15
 [[src_prmo_2015_b__Q20]]

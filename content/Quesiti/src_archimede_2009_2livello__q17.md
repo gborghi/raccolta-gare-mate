@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integrations with two rational expressions of both integers< MSK1/>
+*Integrations with two rational expressions of both integers*
 
 > Demonstratory Exercise Determine all positive integers m for which both 2 · 5m + 10 3m + 1 and 9m + 1m + 5 are integers.
 

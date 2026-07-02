@@ -54,7 +54,7 @@ tags:
 
 *Conteggio di enti interi pari alla somma delle delezioni a 7 cifre di base*
 
-> Quanti integri positivi $n$ soddisfano la seguente condizione? Condizione: Scrivere $n$ in base $7$ (con cifre di primo piano non zero) e lasciare $k$ essere il suo numero di cifre; richiedere $k \ge 2$. Dopo aver scritto $n$ nella base $7$, per ogni $i = 1, 2, \ldots, k-1$ togliere la $i$-esima cifra da destra (in basso), ottenendo un $(k-1)$-digito base-$7$ intero $n_i$. Poi < MSK0/>
+> Quanti integri positivi $n$ soddisfano la seguente condizione? Condizione: Scrivere $n$ in base $7$ (con cifre di primo piano non zero) e lasciare $k$ essere il suo numero di cifre; richiedere $k \ge 2$. Dopo aver scritto $n$ nella base $7$, per ogni $i = 1, 2, \ldots, k-1$ togliere la $i$-esima cifra dalla destra (in basso), ottenendo un $(k-1)$-digito base-$7$ intero $n_i$. Poi $$\sum_{i=1}^{k-1} n_i = n.$$
 
 **Risposta:** 42
 [[src_jmo28yq_yosen__Q11]]

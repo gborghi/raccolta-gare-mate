@@ -54,7 +54,7 @@ tags:
 
 *Last eight-digit palindrome date in gg/mm/aaaa*
 
-> The < MSK0/> February of this year was a palindrome date (< MSK1/>). Also considering eight-digit alignments, ** what was the last palindrome date in the past centuries? **
+> The $21$ February of this year was a palindrome date ($21.02.2012$). Also considering eight-digit alignments, ** what was the last palindrome date in past centuries? **
 
 **Answer:** 29/11/1192
 [[src_bocconi_squadre_2012__Q20]]

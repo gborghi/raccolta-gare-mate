@@ -54,9 +54,9 @@ tags:
 
 *Number of experts given a total of 28 handshakes*
 
-> At the last meeting of the group of mathematical games, a number of people (all great experts in mathematical games) took part. We don't know their exact number but they were definitely more than 2 and less than 10. In all, 28 shake hands were exchanged at the end of the meeting (and each expert greeted everyone else respectfully).
+> At the last meeting of the group of mathematical games, a number of people (all great experts in mathematical games) took part. We don't know their exact number but they were definitely more than 2 and less than 10. In all, 28 shake hands were exchanged at the end of the meeting (and each expert greeted all the others respectfully).
 > 
-> < MSK0/>How many experts were present at the meeting?< MSK1/>
+> **How many experts were present at the meeting?**
 
 **Answer:** Gli esperti di giochi matematici presenti alla riunione erano 8.
 [[src_bocconi_primavera_2009__Q20]]

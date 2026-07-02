@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Longer route from A to B without repeating sidewalks< MSK1/>
+*Longer route from A to B without repeating sidewalks*
 
 ![[src_kangourou_2012_cadet__prob7.png]]
 

@@ -61,7 +61,7 @@ tags:
 
 *Iterati di f(x)=2x^2+x-1: punti fissi reali e zeri reali*
 
-> Let < MSK0/>. Definire $f^{n+1}(x) = f(f^n(x))$ per tutti i $x$ reali e $n \ge 0$ (cioè $f^n$ è la $n$-th iterazione di $f$).
+> Let $f(x) = 2x^2 + x - 1$. Definire $f^{n+1}(x) = f(f^n(x))$ per tutti i $x$ reali e $n \ge 0$ (cioè $f^n$ è la $n$-th iterazione di $f$).
 > 
 > (a) (2 punti) Determinare il numero di soluzioni reali distinte dell'equazione $f^1(x) = x$.
 > 

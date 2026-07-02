@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage increase in the volume of a parallel piped< MSK1/>
+*Percentage increase in the volume of a parallel piped*
 
 > The box A box is shaped like a rectangular parallel-piped. If the length is increased by 50% and the width by 40%, and the height is decreased by 10%, by what percentage does the volume of the box increase? (Answer without the % symbol.)
 

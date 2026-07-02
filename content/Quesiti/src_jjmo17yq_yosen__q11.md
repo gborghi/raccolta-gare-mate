@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Circumradius dato incentro, ortocentro, AI=5, AH=6, angolo AIH=90< MSK1/>
+*Circumradius dato incentro, ortocentro, AI=5, AH=6, angolo AIH=90*
 
 > Che $I$ sia il centro e $H$ l'ortocentro del triangolo $ABC$. Poiché $AI = 5$, $AH = 6$ e $\angle AIH = 90^\circ$ si tengono, si trova la lunghezza del raggio del circolo circumscritto del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 

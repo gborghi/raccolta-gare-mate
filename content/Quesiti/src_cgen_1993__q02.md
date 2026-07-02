@@ -72,11 +72,11 @@ tags:
 
 > $n$ sia un dato numero intero rigorosamente positivo.
 > 
-> Esistono < MSK1/> numeri interi naturali consecutivi < MSK2/>, disposti in ordine crescente, che soddisfano: < MSK0/>
+> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0 + a_1 + \cdots + a_n = a_{n+1} + \cdots + a_{2n}?$$
 > 
-> Esistono < MSK1/> numeri interi naturali consecutivi < MSK2/>, ordinati in ordine crescente, che soddisfano: < MSK0/>
+> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, ordinati in ordine crescente, che soddisfano: $$a_0^2 + a_1^2 + \cdots + a_n^2 = a_{n+1}^2 + \cdots + a_{2n}^2?$$
 > 
-> Esistono < MSK1/> numeri interi naturali consecutivi < MSK2/>, disposti in ordine crescente, che soddisfano: < MSK0/>
+> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0^3 + a_1^3 + \cdots + a_n^3 = a_{n+1}^3 + \cdots + a_{2n}^3?$$
 > 
 > Per quest'ultima domanda, si possono studiare le variazioni della funzione $f$ definita su $\mathbb{R}$ da: $$f(x) = (x-n)^3 + (x-n+1)^3 + \cdots + x^3 - (x+1)^3 - \cdots - (x+n)^3.$$ Si mostrerà che l'equazione $f(x) = 0$ ammette una soluzione unica $x_n$ soddisfacente $3n(n+1) < x_n < 3n(n+1) + 1$.
 > 

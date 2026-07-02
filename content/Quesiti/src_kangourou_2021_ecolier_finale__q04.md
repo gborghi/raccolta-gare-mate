@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Correct 25x2=211 with +1/-1 on the digits< MSK1/>
+*Correct 25x2=211 with +1/-1 on the digits*
 
 > How many different four-digit numbers can be obtained from $337337$ by deleting two digits?
 >

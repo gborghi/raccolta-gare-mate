@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>età in cui l'età del padre è triplice dell'età del figlio< MSK1/>
+*età in cui l'età del padre è triplice dell'età del figlio*
 
 > Un padre ha 33 anni e suo figlio ha 7 anni. In quanti anni l'età del padre sarà triplicata dell'età del figlio?
 > 

@@ -66,9 +66,9 @@ tags:
 
 > $a$ e $b$ siano numeri positivi con $\dfrac{a}{b}<1$. Poi $\dfrac{a+1}{b+1}$:
 >
-> - **(A)** è uguale a < MSK0/>.
-> - **(B)** è uguale a < MSK0/>.
-> - **(C)** è inferiore a < MSK0/>.
+> - **(A)** è uguale a $\dfrac{a}{b}+1$.
+> - **(B)** è uguale a $\dfrac{a}{b}$.
+> - **(C)** è inferiore a $\dfrac{a}{b}$.
 > - **(D)** è superiore a $\dfrac{a}{b}$ ma inferiore a 1.
 > - **(E)** può essere maggiore di 1.
 

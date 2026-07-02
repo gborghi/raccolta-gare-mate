@@ -55,6 +55,6 @@ tags:
 
 *Cono con sezione ellittica: condizione per la intersezione di due percorsi superficiali*
 
-> Un cono circolare destro si trova su una base orizzontale, di raggio $r$. Il suo vertice $V$ è a una distanza $l$ da ogni punto sul perimetro della base. Una sezione piana del cono è un'ellisse il cui punto inferiore è $L$ e il cui punto più alto è $H$. Sulla superficie curva del cono, da un lato del piano $VLH$, sono segnate due percorsi da $L$ a $H$, $R_1$ lungo il semiperimetro dell'ellisse e $R_2$ il percorso di lunghezza più breve. Trova la condizione che < MSK10/> e < MSK11/> si incrociano tra < MSK12/> e < MSK13/>.
+> Un cono circolare destro si trova su una base orizzontale, di raggio $r$. Il suo vertice $V$ è a una distanza $l$ da ogni punto sul perimetro della base. Una sezione piana del cono è un'ellisse il cui punto inferiore è $L$ e il cui punto più alto è $H$. Sulla superficie curva del cono, da un lato del piano $VLH$, sono segnate due percorsi da $L$ a $H$, $R_1$ lungo il semiperimetro dell'ellisse e $R_2$ il percorso di lunghezza più breve. Trova la condizione che $R_1$ e $R_2$ si incrociano tra $L$ e $H$.
 
 [[src_bmo_1981-82_round1__Q05]]

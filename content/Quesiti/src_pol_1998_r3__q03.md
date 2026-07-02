@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Pentagono base della piramide: intersezioni diagonali di cinque trapezioni sono coplanari< MSK1/>
+*Pentagono base della piramide: intersezioni diagonali di cinque trapezioni sono coplanari*
 
 > Un pentagono converso $ABCDE$ è la base di una piramide $ABCDES$. Un piano che non attraversa nessuna vertica della piramide incontra i bordi $SA$, $SB$, $SC$, $SD$, $SE$ rispettivamente nei punti $A'$, $B'$, $C'$, $D'$ e $E'$. Prova che i punti di intersezione dei diagonali dei quadrilaterali $ABB'A'$, $BCC'B'$, $CDD'C'$, $DEE'D'$, $EAA'E'$ sono coplanari.
 

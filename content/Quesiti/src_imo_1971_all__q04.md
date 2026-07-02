@@ -42,7 +42,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimal closed polygonal path on tetrahedron edges< MSK1/>
+*Minimal closed polygonal path on tetrahedron edges*
 
 > All the faces of tetrahedron $ABCD$ are acute-angled triangles. We consider all closed polygonal paths of the form $XYZTX$ defined as follows: $X$ is a point on edge $AB$ distinct from $A$ and $B$; similarly, $Y$, $Z$, $T$ are interior points of edges $BC$, $CD$, $DA$, respectively. Proofs:
 > 

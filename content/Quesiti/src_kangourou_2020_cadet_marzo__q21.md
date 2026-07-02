@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Color of the cube in sixth place (color links) < MSK1/>
+*Color of the cube in sixth place (color links) *
 
 > Twelve colored cubes are aligned. There are 3 blue cubes, 2 yellow cubes, 3 red cubes and 4 green cubes, but not in this order. There is a yellow cube at one end of the line and a red cube at the other end. The red cubes are all contiguous; even the green cubes are all contiguous. The tenth cube on the left is blue. What's the color of the cube that's in sixth place on the left? A) Of course it is blue. B) Certainly yellow. C) Certainly red. D) It is certainly green. E) Blue or red.
 

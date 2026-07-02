@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta i cognomi distinti a 4 lettere con un alfabeto a 2 lettere< MSK1/>
+*Conta i cognomi distinti a 4 lettere con un alfabeto a 2 lettere*
 
 > L'alfabeto usato sul pianeta X ha solo due lettere: X e x. Un cognome (nome di famiglia) di ciascuno dei suoi abitanti è una sequenza di lettere $4$. Il numero massimo di diversi cognomi che si possono dare sul pianeta X è:
 >

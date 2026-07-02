@@ -50,7 +50,7 @@ tags:
 
 *Acute parallelogram angle with perimeter and area*
 
-> A parallelogram with a perimeter of P = 8 cm has an area of A = 4 < MSK3/> 2 cm2. What's your sharp angle? (A) 30°, (B) 45°, (C) 60°, (D) such a parallelogram does not exist, (E) the angle cannot be uniquely determined from the data provided.
+> A parallelogram with a perimeter of P = 8 cm has an area of A = 4 √ 2 cm2. What's your sharp angle? (A) 30°, (B) 45°, (C) 60°, (D) such a parallelogram does not exist, (E) the angle cannot be uniquely determined from the data provided.
 
 **Answer:** D
 [[src_archimede_2014_triennio__Q03]]

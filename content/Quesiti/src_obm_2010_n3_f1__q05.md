@@ -65,7 +65,7 @@ tags:
 
 *PQRS quadrato, T punto medio di QR, U piede di perpendicolare da Q alla linea PT; trovare TU.*
 
-> Un quadrato $PQRS$ ha lati di misura $x$. $T$ è il punto medio di $QR$ e $U$ è il piede della perpendicolare tratto da $Q$ sulla linea $PT$ (la linea $PT$ che attraversa $T$). Qual è la misura di < MSK9/>?
+> Un quadrato $PQRS$ ha lati di misura $x$. $T$ è il punto medio di $QR$ e $U$ è il piede della perpendicolare tratto da $Q$ sulla linea $PT$ (la linea $PT$ che attraversa $T$). Qual è la misura di $TU$?
 >
 > - **(A)** $\frac{x}{2}$
 > - **(B)** $\frac{x}{3}$

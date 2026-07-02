@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of bags with a single extract of 12 equal to none< MSK1/>
+*Number of bags with a single extract of 12 equal to none*
 
 > There are some identical bags, each containing 12 tokens numbered 1 through 12. By randomly extracting a token from each bag, the probability of extracting one and only one token with the number 12 is equal to the probability of not extracting any. How many bags are there? A) 8
 > 	

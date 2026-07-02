@@ -40,7 +40,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which n true< MSK1/>
+* for which n true*
 
 > [problem not present in the document]
 

@@ -56,6 +56,6 @@ tags:
 
 *In un rombo ABCD con E l'intersezione dei diagonali, F il punto medio di [BE], G il punto medio di [AD], I l'intersezione di (FG) e (AC), e K il riflesso di A attraverso I; trovare EK/EA.*
 
-> Che $ABCD$ sia un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle linee $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di < MSK12/>?
+> Che $ABCD$ sia un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle linee $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di $\dfrac{EK}{EA}$?
 
 [[src_canimath_2023_printemps__Q12]]

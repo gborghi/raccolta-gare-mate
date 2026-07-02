@@ -53,6 +53,6 @@ tags:
 
 Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite un intermediario
 
-> In un torneo di tennis < MSK0/> parteciparono giocatori. Qualsiasi due giocatori hanno giocato una partita (senza pareggio). Prove che esiste un giocatore $A$ tale che per qualsiasi altro giocatore $B$ sia $A$ sconfitto $B$ o che vi sia un giocatore $C$ che $A$ ha sconfitto e $B$ ha perso a $C$.
+> In un torneo di tennis $n$ parteciparono giocatori. Qualsiasi due giocatori hanno giocato una partita (senza pareggio). Prove che esiste un giocatore $A$ tale che per qualsiasi altro giocatore $B$, sia $A$ sconfitto $B$ o che vi sia un giocatore $C$ che $A$ ha sconfitto e $B$ perso a $C$.
 
 [[src_pol_1998_r1__Q11]]

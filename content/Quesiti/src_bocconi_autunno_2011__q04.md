@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many times does the alarm clock show a 0, a 1 and two 2 in 24 hours< MSK1/>
+*How many times does the alarm clock show a 0, a 1 and two 2 in 24 hours*
 
 > It's an alarm clock that lights up and records every hour and minute from 00:00 until 11:59. How many times in 24 hours, when lit up, does it simultaneously indicate a "0", a "1" and two "2"?
 

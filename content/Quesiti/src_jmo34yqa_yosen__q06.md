@@ -51,7 +51,7 @@ tags:
 
 *Ritrovare BC in triangolo di pari dimensioni con condizioni tangenti di cerchio e CF=10*
 
-> Nel triangolo di uguali dimensioni $ABC$ con $AB = AC = 5$, $D$ deve essere il punto laterale $AB$ con $AD = 3$, e $E$ deve essere un punto laterale $BC$ (esclusi i punti finali). Che $\omega$ sia il cerchio che attraversa $E$ e tangente alla linea $AB$ al punto $B$; supponiamo che $\omega$ sia anche tangente al circoncircolo del triangolo $ADE$. Il $F$ deve essere l'intersezione di $\omega$ e della riga $AE$ diversa da $E$. Se < MSK17/>, trova la lunghezza < MSK18/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo di uguali dimensioni $ABC$ con $AB = AC = 5$, $D$ deve essere il punto laterale $AB$ con $AD = 3$, e $E$ deve essere un punto laterale $BC$ (esclusi i punti finali). Che $\omega$ sia il cerchio che attraversa $E$ e che sia tangente alla linea $AB$ al punto $B$; supponiamo che $\omega$ sia anche tangente al circoncircolo del triangolo $ADE$. Il $F$ deve essere l'intersezione di $\omega$ e della riga $AE$ diversa da $E$. Se $CF = 10$, trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{14\sqrt{65}}{13}
 [[src_jmo34yqa_yosen__Q06]]

@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number of modes< MSK1/>
+*number of modes*
 
 > 9. In the lesson of geomatics, Hardy, Hermita and Ron have a group task: they have 6 different colours available and want to paint a prism on a square base (which has a height greater than the base frame) so that each colour is used for one and only one face.
 

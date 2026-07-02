@@ -52,6 +52,6 @@ tags:
 
 *In un grafico di amicizia senza amici comuni e due stranieri comuni, trovare n*
 
-> Ci sono persone < MSK0/> presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha due amici in comune. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
+> Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha due amici in comune. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
 
 [[src_bmo_1971-72_round2__Q03]]

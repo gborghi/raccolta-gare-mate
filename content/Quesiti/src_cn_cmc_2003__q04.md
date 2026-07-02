@@ -57,7 +57,7 @@ tags:
 
 *Ricerca il massimo di un'espressione trigonometrica su un dato intervallo.*
 
-> Let < MSK1/>. Il valore massimo di $$y = \tan\left(x + \frac{2\pi}{3}\right) - \tan\left(x + \frac{\pi}{6}\right) + \cos\left(x + \frac{\pi}{6}\right)$$ è ( ).
+> Let $x \in \left[-\frac{5\pi}{12}, -\frac{\pi}{3}\right]$. Il valore massimo di $$y = \tan\left(x + \frac{2\pi}{3}\right) - \tan\left(x + \frac{\pi}{6}\right) + \cos\left(x + \frac{\pi}{6}\right)$$ è ( ).
 > 
 > (A) $\frac{12}{5}\sqrt{2}$ \quad (B) $\frac{11}{6}\sqrt{2}$ \quad (C) $\frac{11}{6}\sqrt{3}$ \quad (D) $\frac{12}{5}\sqrt{3}$
 

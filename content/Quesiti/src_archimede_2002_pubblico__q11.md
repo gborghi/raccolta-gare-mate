@@ -48,11 +48,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>divide n rocks into heaps< MSK1/>
+*divide n rocks into heaps*
 
-> The rocks of Carla (MSK1/) (40 points)
+> The rocks of Carla (**) (40 points)
 > 
-> In the garden of Professor Abacus' villa, Carla is playing with rocks. At this time it has $n$ piles, formed by $1, 2, 3, \ldots, n$ rocks. Carla realizes that she can group a little bit of pebbles on one side and a little bit on the other so that the number of pebbles on either side is equal to the number of pebbles on the other side, and she moves a certain pebble from one side to the other, the one with more pebbles has exactly twice the number of the other. Carla, who is already very good at math because she is young, realizes that if she had $m$ piles made like above but with $m > n$ this could not have happened. How much is MSK4/?
+> In the garden of Professor Abacus' villa, Carla is playing with rocks. At this time it has $n$ piles, formed by $1, 2, 3, \ldots, n$ rocks. Carla realizes that she can group a little bit of pebbles on one side and a little bit on the other so that the number of pebbles on either side is equal to the number of pebbles on the other side, and she moves a certain pebble from one side to the other, the one with more pebbles has exactly twice the number of the other. Carla, who is already very good at math because she is young, realizes that if she had $m$ piles made like above but with $m > n$ this could not have happened. How much is$n$?
 
 **Answer:** 0011
 [[src_archimede_2002_pubblico__Q11]]

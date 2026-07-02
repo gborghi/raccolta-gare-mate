@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Extremity of six and a half rods< MSK1/>
+*Extremity of six and a half rods*
 
 > Four sticks have a total of eight ends. How many ends do six and a half sticks have in all? A) 6 B) 8 C) 12 D) 13 E) 14
 

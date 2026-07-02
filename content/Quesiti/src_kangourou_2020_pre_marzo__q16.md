@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of biscuits to be baked for 5 grandchildren< MSK1/>
+*Minimum number of biscuits to be baked for 5 grandchildren*
 
 ![[src_kangourou_2020_pre_marzo__prob16.png]]
 

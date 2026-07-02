@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Last possible figures if sum and product match< MSK1/>
+*Last possible figures if sum and product match*
 
 ![[src_kangourou_2016_ecolier_finale__probE3.png]]
 

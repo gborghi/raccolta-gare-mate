@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>During flight Rome-Mathcity with time zones< MSK1/>
+*During flight Rome-Mathcity with time zones*
 
 > On December 29th, at 12 o'clock, a plane leaves Rome. It shall reach its destination, Mathcity Airport, on 30 December at 11 a.m. local time. Meanwhile, another plane, flying at the same speed, takes off from Mathcity on 29 December at 12 noon (local time) to land in Rome on 29 December at 23 pm (Italian time). How long is the Rome-Mathcity flight?
 

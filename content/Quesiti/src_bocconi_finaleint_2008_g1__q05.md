@@ -58,7 +58,7 @@ tags:
 
 *Seven-segment display: minimum number of segments to be switched off to make an equality true.*
 
-> In a digital display, each digit is represented by two to seven bright segments (see drawing here). How many light segments must be switched off, at a minimum, to make the equation on the right < MSK0/> true?
+> In a digital display, each digit is represented by two to seven bright segments (see drawing here). How many light segments must be switched off, at a minimum, to make the equation on the right $00+00=100$ true?
 
 **Answer:** 2 segmenti
 [[src_bocconi_finaleint_2008_g1__Q05]]

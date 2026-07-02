@@ -57,6 +57,6 @@ tags:
 
 *Operazioni minime per segnalare un numero intero n su una linea reale a partire da 0 e 1*
 
-> Ci viene data la linea reale con solo i punti $0$ e $1$ contrassegnati. Possiamo eseguire la seguente operazione quante volte vogliamo: scegliere due punti già segnalati $a$ e $b$ e segnalare il riflesso di $a$ su $b$. $f(n)$ sia il numero minimo di operazioni necessario per segnalare il numero reale $n$ (che è il numero a distanza $|n|$ da $0$, a destra di $0$ se $n > 0$ e a sinistra di $0$ se $n < 0$). Ad esempio, $f(0) = f(1) = 0$ e $f(-1) = f(2) = 1$. Trova < MSK16/>.
+> Ci viene data la linea reale con solo i punti $0$ e $1$ contrassegnati. Possiamo eseguire la seguente operazione quante volte vogliamo: scegliere due punti già segnalati $a$ e $b$ e segnalare il riflesso di $a$ su $b$. $f(n)$ sia il numero minimo di operazioni necessario per segnalare il numero reale $n$ (che è il numero a distanza $|n|$ da $0$, a destra di $0$ se $n > 0$ e a sinistra di $0$ se $n < 0$). Ad esempio, $f(0) = f(1) = 0$ e $f(-1) = f(2) = 1$. Trova $f(n)$.
 
 [[src_obm_2019_n3_fx__Q02]]

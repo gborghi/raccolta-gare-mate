@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>not used< MSK1/>
+*not used*
 
 > I had 10 apples of different weights between them and 10 pairs of different weights between them. Each pear weighed more than every apple, but less than any pair of apples. I was lucky enough to pack three mixed bags, each of which weighs as much as the whole of the apples. Certainly I could not have hoped to use more pears than I did. How many pears have I not used?
 

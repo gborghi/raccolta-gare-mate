@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many boys (twin-tasting corners) < MSK1/>
+*How many boys (twin-tasting corners) *
 
 > An ice cream shop sells ice cream of nine different tastes. A group of kids walks into the store and each buys a two-taste ice cone: neither of them chooses the same combination of flavors and no combination of flavors is discarded. How many kids are there? A) 9            B) 36          C) 72         D) 81          E) 90
 

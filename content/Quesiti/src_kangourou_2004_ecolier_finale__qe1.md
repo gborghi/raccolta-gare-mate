@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Winning move in TRIS< MSK1/>
+*Winning move in TRIS*
 
 ![[src_kangourou_2004_ecolier_finale__probE1.png]]
 

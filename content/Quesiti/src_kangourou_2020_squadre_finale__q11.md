@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of a^3+b^3 given that a^3-b^3=485< MSK1/>
+*Value of a^3+b^3 given that a^3-b^3=485*
 
 > Sum of cubes Two positive integers a and b are such that a3  b3 = 485. How much is a3 + b3 ?
 

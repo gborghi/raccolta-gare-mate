@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which now gives the minor acute angle< MSK1/>
+*which now gives the minor acute angle*
 
 > (Points 4) In which of the following hours and minutes do the two hands of a clock (with a 12-hour dial) form the minor acute angle? A) 02:11             B) 04:22               C) 06:33            D) 08:44              E) 10:55
 

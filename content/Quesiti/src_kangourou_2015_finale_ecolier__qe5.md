@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>trials for potatoes< MSK1/>
+*trials for potatoes*
 
 > Cecilia, who wants some potatoes, is in front of three identical vending machines: one for candy, one for potatoes, one for biscuits. She can't see the inside of any of the three, but she's told that the label on the product, applied to each of the three, is wrong for each of the three. Cecilia observes a gentleman in front of her who, putting a coin in one of the distributors, gets candy. How many tries will you have to make to get the potatoes?
 

@@ -54,6 +54,6 @@ tags:
 
 *Contare copriemi (x,y,z) dove decine di cifre di x·z e y·z sono uguali a decine di cifre di x e y*
 
-> Se i numeri $x$, $y$, $z$ sono interamente integri positivi coprimi di due cifre ciascuno. La decima cifra di $x \cdot z$ equivale alla decima cifra di $x$, e la decima cifra di $y \cdot z$ equivale alla decima cifra di $y$, e la decima cifra di $x \cdot z$ equivale alla decima cifra di $y \cdot z$. Quanti sono tali tripli < MSK9/>?
+> Se i numeri $x$, $y$, $z$ sono interamente integri positivi coprimi di due cifre ciascuno. La decima cifra di $x \cdot z$ equivale alla decima cifra di $x$, e la decima cifra di $y \cdot z$ equivale alla decima cifra di $y$, e la decima cifra di $x \cdot z$ equivale alla decima cifra di $y \cdot z$. Quanti sono tali tripli $(x, y, z)$?
 
 [[src_jjmo4q__Q09]]

@@ -81,7 +81,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which friend lives on Curva Street (not straight) < MSK1/>
+*Which friend lives on Curva Street (not straight) *
 
 ![[src_kangourou_2011_junior__prob19.png]]
 

@@ -53,7 +53,7 @@ tags:
 
 *sum of the two numbers exchanged in the magic square*
 
-> Notice the picture: Daniel tied his dog to the corner of a rectangular stall with sides measuring $7$ m and $5$ m. The length of the lever is < MSK2/> m. There are < MSK3/> bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog?
+> Notice the picture: Daniel tied his dog to the corner of a rectangular stake with sides measuring $7$ m and $5$ m. The length of the lever is $11$ m. There are $5$ bone-shaped toys in the positions you see in the figure: how many can be reached by the dog?
 >
 > - **(A)** $1$
 > - **(B)** $2$

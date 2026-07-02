@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of figures selected by Viola< MSK1/>
+*Minimum number of figures selected by Viola*
 
 ![[src_kangourou_2022_ecolier_gara__prob16.png]]
 

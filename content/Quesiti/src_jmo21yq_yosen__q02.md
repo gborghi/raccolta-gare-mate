@@ -53,7 +53,7 @@ tags:
 
 *Summa di interi positivi ≤2011 divisibili per 3 con dati rimanenti*
 
-> Che $A$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 1 quando diviso per 3, e che $B$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 2 quando diviso per 3. Trova < MSK2/>.
+> Che $A$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 1 quando diviso per 3, e che $B$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 2 quando diviso per 3. Trova $A - B$.
 
 **Risposta:** 1341
 [[src_jmo21yq_yosen__Q02]]

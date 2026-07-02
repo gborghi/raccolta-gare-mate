@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which figures have been forgotten< MSK1/>
+*Which figures have been forgotten*
 
 ![[src_kangourou_2013_preecolier__prob1.png]]
 

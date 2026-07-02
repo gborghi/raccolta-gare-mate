@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>gumps exceed the noses by 18< MSK1/>
+*gumps exceed the noses by 18*
 
 > I have some dogs. Their legs are 18 times larger than their noses. How many dogs do I have? A) 4
 > 	

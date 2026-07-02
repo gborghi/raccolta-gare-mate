@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Circle beam inscribed from circumcenter and median conditions< MSK1/>
+*Circle beam inscribed from circumcenter and median conditions*
 
 > The Polynomial Jones road and his expedition are lost in the desert. His colleague and friend Al Jabr, with a stick, sketches the map on the sand. Al Jabr draws a triangle of ABC vertices, marks the circus O of the triangle and the midpoints M of AB and N of BC. The OM distance is 210km, the ON distance is 176km and OM2 +ON2 = (AC 2 )2. How much is the radius of the circle inscribed in ABC?
 

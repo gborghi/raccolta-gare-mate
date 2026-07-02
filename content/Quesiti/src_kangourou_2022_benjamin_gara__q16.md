@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solid that requires less paint than the four < MSK1/>
+*Solid that requires less paint than the four *
 
 ![[src_kangourou_2022_benjamin_gara__prob16.png]]
 

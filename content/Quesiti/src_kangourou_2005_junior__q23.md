@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which is not the development of an octahedron (cancelled) < MSK1/>
+*Which is not the development of an octahedron (cancelled) *
 
 ![[src_kangourou_2005_junior__prob23.png]]
 

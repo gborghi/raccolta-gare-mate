@@ -79,7 +79,7 @@ This is the total number of units in the unit.
 \end{document}
 ```
 
-> In the figure you can see a semicircumference of < MSK0/> diameter. The $A$ and $D$ points are the extremes, the $B$ and $C$ points are two other points of the semicircular that are separated from $2$ respectively from $A$ and $B$ points. What is the distance between $C$ and $D$? (see figure)
+> In the figure you can see a semicircumference of $8$ diameter. The $A$ and $D$ points are the ends, the $B$ and $C$ points are two other points of the semicircle that are separated from $2$ by $A$ and $B$ respectively. What is the distance between $C$ and $D$? (see figure)
 
 **Answer:** 7
 [[src_kangourou_2016_finale_cadet__QC5]]

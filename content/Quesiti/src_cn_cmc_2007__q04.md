@@ -56,7 +56,7 @@ tags:
 
 *Valuta di bcos(c)/a nell'equazione funzionale trigonometrica*
 
-> Let < MSK0/>. Se i numeri reali $a$, $b$, $c$ sono tali che $af(x) + bf(x - c) = 1$ sia valido per qualsiasi $x \in \mathbb{R}$, allora $\dfrac{b\cos c}{a}$ è uguale a $($\quad$)$.
+> Let $f(x) = 3\sin x + 2\cos x + 1$. Se i numeri reali $a$, $b$, $c$ sono tali che $af(x) + bf(x - c) = 1$ sia valido per qualsiasi $x \in \mathbb{R}$, allora $\dfrac{b\cos c}{a}$ è uguale a $($\quad$)$.
 > 
 > (A) $-\dfrac{1}{2}$ $\quad$ (B) $\dfrac{1}{2}$ $\quad$ (C) $-1$ $\quad$ (D) $1$
 

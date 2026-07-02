@@ -74,6 +74,6 @@ tags:
 \end{document}
 ```
 
-> Black rectangle The black rectangle in the figure has dimensions of 8 < MSK0/> 4. It is placed in the intersection between the edge of a square and the inscribed circumference, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
+> Black rectangle The black rectangle in the figure has dimensions of 8 × 4. It is located in the intersection between the edge of a square and the inscribed circumference, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
 
 [[src_kangourou_2021_squadre_finale__Q14]]

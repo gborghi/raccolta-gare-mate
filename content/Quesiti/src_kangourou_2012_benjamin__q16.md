@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What is true about the juice cocktail< MSK1/>
+*What is true about the juice cocktail*
 
 > In a fruit juice cocktail there are apples, bananas and oranges. Banana and orange are in the ratio of 1 to 2; orange and apple are in the ratio of 3 to 1. Which of the following claims is true? A) There are more bananas than oranges B) There are more oranges than apples and bananas combined C) There are more bananas than apples and oranges combined D) There are more apples than bananas and oranges combined E) The banana is the least present juice
 

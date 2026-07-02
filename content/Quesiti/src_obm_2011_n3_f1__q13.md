@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro < MSK1/>
+*Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro *
 
 > Esmeralda ha banconote $11$ di due reais, Rosa $7$ di cinque reais e Nelly $3$ di dieci reais. Qual è il minor numero possibile di banconote che le tre ragazze devono scambiare tra loro in modo che ognuna finisca con la stessa quantità di denaro?
 > 

@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Righe di fragole e jabuticaba consumate in turno (< MSK0/>5 ciascuno) < MSK2/>
+*Righe di fragole e jabuticaba consumate in turno (≤5 ciascuno) *
 
-> Rosinha ha raccolto diverse fragole e jabuticabas, al massimo 5 di ciascuna specie. Vuole mangiare 5 di ciascuna specie, mangiandole in serie alternate, a partire dalle fragole e finendo con i jabuticabas (ad esempio: 3 fragole, poi 2 jabuticabas, poi 2 fragole, poi 3 jabuticabas). Lei forma una fila con i frutti prima di mangiarli in ordine. Quante diverse righe può formare?
+> Rosinha ha raccolto diverse fragole e jabuticabas, al massimo 5 di ciascuna specie. Lei vuole mangiare 5 di ciascuna specie, mangiandole in serie alternate, a partire dalle fragole e finendo con i jabuticabas (ad esempio: 3 fragole, poi 2 jabuticabas, poi 2 fragole, poi 3 jabuticabas). Lei forma una fila con i frutti prima di mangiarli in ordine. Quante diverse righe può formare?
 > 
 > (A) 13 \quad (B) 14 \quad (C) 15 \quad (D) 16 \quad (E) 20
 

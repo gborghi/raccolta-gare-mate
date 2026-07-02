@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> reduced life and range by 1/4, reduced consumption< MSK1/>
+* reduced life and range by 1/4, reduced consumption*
 
 > If, in order to save water, you have reduced the duration of the shower by a quarter and (by reducing the pressure) also by a quarter the volume of water you consume for the shower in the unit of time, how much have you reduced the water consumption for a shower? A) 1/4 B) 3/8
 > 	

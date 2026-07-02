@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of an orange melon< MSK1/>
+*Weight of an orange melon*
 
 ![[src_kangourou_2002_ecolier__prob3.png]]
 

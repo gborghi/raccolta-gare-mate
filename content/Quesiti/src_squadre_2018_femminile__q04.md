@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Six-by-six chessboard routes with movements in the upper right corner< MSK1/>
+*Six-by-six chessboard routes with movements in the upper right corner*
 
 > While on the run, Fry swaps a suicide booth for an old phone booth and gets in line, meeting Beuler, a robot who works as an employee. To pass the time, Beuler is solving a game reported on an advertising manifesto: given a 6 6  chessboard with a pedal placed on the bottom left box, how many paths exist that lead the pedal into the upper right corner and can only make moves that move the pedal from the box in which it is located to one of the three adjacent boxes with the one starting in its top up right?
 

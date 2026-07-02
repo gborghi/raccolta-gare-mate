@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance to reach the friend< MSK1/>
+*Distance to reach the friend*
 
 > Today, the sum of the ages of Anna, Bruno, and Cristina is 31. What will be the sum of their ages in three years? A) 32
 >        	

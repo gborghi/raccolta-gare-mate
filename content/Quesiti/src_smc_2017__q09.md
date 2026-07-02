@@ -65,7 +65,7 @@ tags:
 
 > Il diagramma mostra un rettangolo $n \times (n+1)$ incollato con rettangoli $k \times (k+1)$, dove $n$ e $k$ sono numeri interi e $k$ prende ogni valore da $1$ a $8$ inclusivo.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $n$?
 >
 > - **(A)** $16$
 > - **(B)** $15$

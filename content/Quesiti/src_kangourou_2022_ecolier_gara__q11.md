@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age of the two male children (total of 22 females) < MSK1/>
+*Age of the two male children (total of 22 females) *
 
 ![[src_kangourou_2022_ecolier_gara__prob11.png]]
 

@@ -59,7 +59,7 @@ Who is guilty of the defendant's statements?
 
 > In recording the statements of the three defendants at a trial, the Chancellor was rather neglected, and the minutes show the following:
 >
-> - The culprit is MSK0/>ario. The culprit is Darius. - Mario: The culprit is MSK1/ario.
+> - The culprit is$\ldots$ario. The culprit is Darius. - Mario: The culprit is$\ldots$ario.
 >
 > Knowing that the culprit lied and that at least one of the innocents told the truth, what can we conclude?
 >

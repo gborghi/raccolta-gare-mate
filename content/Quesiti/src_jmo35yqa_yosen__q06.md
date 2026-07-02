@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due sequenze di numeri interi positivi con ricorrenza a metà accoppiata; contare le coppie iniziali (a1,b1) entrambe al massimo 40< MSK1/>
+*Due sequenze di numeri interi positivi con ricorrenza a metà accoppiata; contare le coppie iniziali (a1,b1) entrambe al massimo 40*
 
 > Ci sono due sequenze di interi positivi $a_1, a_2, \ldots$ e $b_1, b_2, \ldots$ in modo che per ogni intero positivo $n$, una delle seguenti sostengono: $$(a_{n+1}, b_{n+1}) = \left(\frac{a_n}{2},\, b_n + \frac{a_n}{2}\right) \quad \text{or} \quad (a_{n+1}, b_{n+1}) = \left(a_n + \frac{b_n}{2},\, \frac{b_n}{2}\right).$$ A questo punto, quante coppie $(a_1, b_1)$ di interi positivi, ciascuna al massimo $40$, possono verificarsi come coppia di partenza (cioè: in modo che entrambe le sequenze siano interamente composte da numeri interi positivi)?
 

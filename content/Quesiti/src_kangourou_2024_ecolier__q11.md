@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which vessel is to be filled first (discharge tubes) < MSK1/>
+*Which vessel is to be filled first (discharge tubes) *
 
 ![[src_kangourou_2024_ecolier__prob11.png]]
 

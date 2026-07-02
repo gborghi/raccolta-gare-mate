@@ -48,7 +48,7 @@ tags:
 
 Best friends with different-tasting candy bars
 
-> Lucilla has several candies: $6$ to mint, $7$ to lemon, $8$ to orange and $12$ to strawberry. He wants to give MSK4 to each of his friends, but each friend asks to have candy all of their tastes different. Considering the wishes of friends, how many friends can you please, at most?
+> Lucilla has several candies: $6$ mint, $7$ lemon, $8$ orange and $12$ strawberry. He wants to give some to each of his friends, but each friend asks to have candy all of their tastes different. Considering the wishes of friends, how many friends can you please, at most?
 
 **Answer:** 10
 [[src_kangourou_2017_cadet_finale__QC3]]

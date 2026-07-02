@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many ternes {a,b,c} with b mean of a and c < MSK1/>
+*How many ternes {a,b,c} with b mean of a and c *
 
 > The mean be S = {1, 2, 3, ..., 100, 101} the sum of the first one hundred and one natural numbers. How many terns {a, b, c} with a < c exist in S such that b = (a + c)/2?
 

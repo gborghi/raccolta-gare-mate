@@ -51,6 +51,6 @@ tags:
 
 *In un triangolo acuto, piede di altitudine D, piede da D a EF si trova sulla media*
 
-> Che il $ABC$ sia un triangolo acuto. Il piede dell'altitudine da $A$ a $BC$ è $D$. Il piede dell'altitudine da $B$ a $AC$ è $E$. Il piede dell'altitudine da $C$ a $AB$ è $F$. Il punto $P$ è il piede della perpendicolare da $D$ a $EF$. Indicare che < MSK13/> bisecta < MSK14/>.
+> Che il $ABC$ sia un triangolo acuto. Il piede dell'altitudine da $A$ a $BC$ è $D$. Il piede dell'altitudine da $B$ a $AC$ è $E$. Il piede dell'altitudine da $C$ a $AB$ è $F$. Il punto $P$ è il piede della perpendicolare da $D$ a $EF$. Indicare che $AP$ bisecta $BC$.
 
 [[src_bmo_2011-12_round1__Q06]]

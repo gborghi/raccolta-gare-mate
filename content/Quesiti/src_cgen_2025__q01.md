@@ -138,13 +138,13 @@ tags:
 > 
 > 4. Supponiamo, in questa domanda, che $A$ sia il punto delle coordinate $(3\,;\,9)$. a. Mostra che per ogni $n$ in $\mathbb{N}$, uno ha $x_n \ne 0$. b. Indicare che la sequenza $(x_n)$ non converge.
 > 
-> Si ricorda che, per ogni $x$ in $\mathbb{Q}^*$, esiste una coppia unica di integri $(a,b)$ come $b \ge 1$, $\mathrm{PGCD}(a,b) = 1$ e $x = \frac{a}{b}$. Uno poi indica con $H(x)$ il più grande degli enti $|a|$ e $|b|$, cioè $H(x) = \max(|a|, |b|)$. Ad esempio < MSK10/>. Si è inoltre d'accordo che $H(0) = 1$.
+> Si ricorda che, per ogni $x$ in $\mathbb{Q}^*$, esiste una coppia unica di integri $(a,b)$ come $b \ge 1$, $\mathrm{PGCD}(a,b) = 1$ e $x = \frac{a}{b}$. Uno poi indica con $H(x)$ il più grande degli enti $|a|$ e $|b|$, cioè $H(x) = \max(|a|, |b|)$. Ad esempio $H\!\left(\frac{-4}{3}\right) = 4$. Si è inoltre d'accordo che $H(0) = 1$.
 > 
 > Per ogni punto $P$ della parabola $\mathscr{P}$ tale che $x_P$ appartenga a $\mathbb{Q}$, un insieme $$h(P) = \ln(H(x_P)).$$
 > 
 > 5. Mostra che per ogni $c$ in $\mathbb{N}^*$, l'insieme $E(c) = \{P \in \mathscr{P},\ x_P \in \mathbb{Q} \text{ and } h(P) \le c\}$ è finito.
 > 
-> 6. Let < MSK0/>. Indicare che, se $\mathrm{PGCD}(a,b) = 1$, allora $\mathrm{PGCD}(a^2 - b^2,\, ab) = 1$.
+> 6. Let $(a,b) \in \mathbb{Z}^* \times \mathbb{N}^*$. Indicare che, se $\mathrm{PGCD}(a,b) = 1$, allora $\mathrm{PGCD}(a^2 - b^2,\, ab) = 1$.
 > 
 > 7. Mostrare che esistono due valori reali $m$ e $M$ in modo tale che, per ogni punto $P$ della parabola $\mathscr{P}$ in modo tale che $x_P$ appartenga a $\mathbb{Q}^*$, uno abbia $$m + h(P\oplus P) \le 2h(P) \le h(P\oplus P) + M.$$
 > 

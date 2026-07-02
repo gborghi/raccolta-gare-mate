@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volume of water in two-cubic clessid < MSK1/>
+*Volume of water in two-cubic clessid *
 
 > How much water? The figure shows you a water wheel made using two identical cubes. The clessidra has water to run continuously for 4 minutes; when all the water is in one of the two cubes, that cube is exactly half full. If water falls for 20 seconds without interruption, the water level in the bottom cube rises exactly 1 centimeter. What is the volume of water in the hydraulic fluid in cubic centimetres?
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year of birth of mother Enrica with product age 2013< MSK1/>
+*Year of birth of mother Enrica with product age 2013*
 
 > It's Mother Enrica's birthday today. Multiplying his age by that of his only son gets 2013. What year was Mother Enrica born? A) 1981 B) 1982 C) 1953 D) 1952 E) None of the above.
 

@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integer pairs m,n with m2=n2+17 < MSK1/>
+*Integer pairs m,n with m2=n2+17 *
 
 > How many pairs of positive integers m, n (with m > n) are such that m 2 = n 2 + 17? A) none B) one C) two D) four E) infinite 21 16 27 x E A B F junior_05_D.qxp 21/02/2005 16.13 Page 23
 > 

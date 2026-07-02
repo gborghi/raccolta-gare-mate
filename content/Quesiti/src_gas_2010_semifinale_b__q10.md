@@ -57,7 +57,7 @@ tags:
 
 *Maximum double per pirate with exact division and +13*
 
-> The true pearl has got its hands on a fabulous loot of no more than 100,000 doubles. Jack realizes that he can exactly divide the spoil between the MSK0/>-rates of the swarm. But suddenly Master Gibbs comes and says, "Captain, we lost a man". Jack shows up in pain for just a moment, but then rolls his shoulders, shakes his smiling hat and informs the MSK1/>-rat of the swarm that the exact division of the loot is still possible, and each one will thus have exactly 13 more doubles. How many doubles can be reached at each MSK2/> rate at the most?
+> The true pearl has got its hands on a fabulous loot of no more than 100,000 doubles. Jack realizes that he can exactly divide the spoil between theπ-rates of the swarm. But suddenly Master Gibbs comes and says, "Captain, we lost a man". Jack is only sad for a moment, but then he rolls his shoulders, shakes his smiling hat and informs theπ-rat of the swarm that the exact division of the loot is still possible, and each one will thus have exactly 13 more doubles. How many doubles can be reached at eachπ rate at the most?
 > 
 > Team competition 2010  Semifinal B  Problem tests 3/3
 

@@ -57,7 +57,7 @@ tags:
 
 *Volume of odd box filled to 64% with 2 cm thickness cubes.*
 
-> A odd box is a rectangular parallel-piped whose three beams measure odd integers of centimeters. It shall be filled with as many cubes as possible, the length of which shall be two centimetres, and the cubes shall be arranged in parallel with those of the box. What's the volume of the box, knowing that the cubes occupy the MSK0/?
+> A odd box is a rectangular parallel-piped whose three beams measure odd integers of centimeters. It shall be filled with as many cubes as possible, the length of which shall be two centimetres, and the cubes shall be arranged in parallel with those of the box. What's the volume of the box, knowing that the cubes occupy the$64\%$?
 
 **Answer:** 7 soluzioni: 525, 7425, 8325, 8925, 11625, 15225, 26325
 [[src_bocconi_finaleint_2010_g1__Q13]]

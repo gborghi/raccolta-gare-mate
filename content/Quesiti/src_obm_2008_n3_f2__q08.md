@@ -56,6 +56,6 @@ tags:
 
 *Trapezoide inciso in un cerchio di raggio 25, diametro CD, altezza 24, calcolo AF·BG/FG*
 
-> Un trapezoide $ABCD$, con lati paralleli $AB \parallel CD$, è inserito in un cerchio di raggio $25$. È noto che $CD$ è diametro e che l'altezza del trapezoide è $24$. Il punto $E$ deve essere il punto sull'arco $AB$ (sull'arco minore determinato da $A$ e $B$) con la più piccola distanza da $AB$ a $A$ e $B$. $F$ e $G$ siano rispettivamente i punti di intersezione delle linee $ED$ e $EC$ con $AB$. Calcolo < MSK0/>
+> Un trapezoide $ABCD$, con lati paralleli $AB \parallel CD$, è inserito in un cerchio di raggio $25$. È noto che $CD$ è diametro e che l'altezza del trapezoide è $24$. Il $E$ deve essere il punto sull'arco $AB$ (sulla minor arc determinata da $A$ e $B$) con la più piccola distanza da $AB$ determinata da $A$ e $B$. $F$ e $G$ siano rispettivamente i punti di intersezione delle linee $ED$ e $EC$ con $AB$. Calcolo $$\frac{AF \cdot BG}{FG}.$$
 
 [[src_obm_2008_n3_f2__Q08]]

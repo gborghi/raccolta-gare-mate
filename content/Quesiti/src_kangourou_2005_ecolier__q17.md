@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum lift travel with a capacity of 150 kg< MSK1/>
+*Minimum lift travel with a capacity of 150 kg*
 
 > The maximum capacity of an elevator is 150 kilograms. Four friends must use it to reach the tenth floor from the ground floor: three of them weigh 80 pounds each, while the fourth weighs 60 pounds. What is the minimum number of elevator trips to take the four friends to the desired plane? A) 1 B) 2 C) 3 D) 4             E) 7
 

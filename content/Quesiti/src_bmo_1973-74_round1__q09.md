@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Rota verticale inclinata alle cascate di base; trovare il tempo per raggiungere il tavolo< MSK1/>
+*Rota verticale inclinata alle cascate di base; trovare il tempo per raggiungere il tavolo*
 
 > Una barra verticale uniforme di lunghezza $2a$ è inclinata alla sua estremità inferiore ad una giunta senza attrito fissata ad una tavola orizzontale. Cade dal riposo in questa posizione instabile sul tavolo. Trova il tempo impiegato per cadere. Commenta la tua risposta.
 > 

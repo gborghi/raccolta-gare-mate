@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive n with n+30 greater than n squared< MSK1/>
+*Positive n with n+30 greater than n squared*
 
 > How many positive numbers are n such that n + 30 > n2?
 >

@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Form on the keyboard, how many statements on n are true< MSK1/>
+*Form on the keyboard, how many statements on n are true*
 
 ![[src_archimede_2015_febb_2livello__prob4.png]]
 

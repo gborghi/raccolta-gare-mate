@@ -64,7 +64,7 @@ tags:
 
 *Solutions of N×U×(M+E+R+O) =33 with distinct digits*
 
-> Consider the equation N < MSK0/> U < MSK1/> (M + E + R + O) = 33, where each letter represents an unknown. The eligible values for unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many solutions are eligible under these criteria? (Each solution is an ordered set of digits.)
+> Consider the equation N × U × (M + E + R + O) = 33, where each letter represents an unknown. The eligible values for unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many solutions are eligible under these criteria? (Each solution is an ordered set of digits.)
 > 	
 > B) 24
 > 	

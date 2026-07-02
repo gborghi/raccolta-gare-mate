@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most of two integers with sum of -4 and product -21< MSK1/>
+*Most of two integers with sum of -4 and product -21*
 
 > Two integers have the sum of −4 and produce −21. How much is the largest of these integers worth?
 >

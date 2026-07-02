@@ -54,6 +54,6 @@ tags:
 
 *Per i valori positivi a,b,c,d con ripercussioni sommate a 4, provare che la somma dei termini di radice cubica è al massimo 2(a+b+c+d)-4.*
 
-> I numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Provare che < MSK0/>
+> I numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Provare che $$\sqrt[3]{\frac{a^3+b^3}{2}}+\sqrt[3]{\frac{b^3+c^3}{2}}+\sqrt[3]{\frac{c^3+d^3}{2}}+\sqrt[3]{\frac{d^3+a^3}{2}}\le 2(a+b+c+d)-4.$$
 
 [[src_pol_2007_r2__Q06]]

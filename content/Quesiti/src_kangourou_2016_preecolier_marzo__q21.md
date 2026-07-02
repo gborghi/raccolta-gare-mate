@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Flower on which no cookware is laid< MSK1/>
+*Flower on which no cookware is laid*
 
 > In the figure you see four dots: for each, the number of dots on the right wing is different from that on the left. Each of them will lie on a flower that has as many leaves as the difference between the number of dots on its wings and has as many petals as the sum of these two numbers. Which one of the flowers you see in the picture will not have a little chick on it? (see figure)
 >

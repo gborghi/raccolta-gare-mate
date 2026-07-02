@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many special first-rate tubes < MSK1/>
+*How many special first-rate tubes *
 
 > We call special a set of positive primes if their product is equal to five times their sum. How many special suits are there? A) 0 B) 1 C) 2 D) 4 E) 6
 

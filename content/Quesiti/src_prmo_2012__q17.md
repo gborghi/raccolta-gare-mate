@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Valuta dell'espressione del prodotto data alle radici di cubo< MSK1/>
+*Valuta dell'espressione del prodotto data alle radici di cubo*
 
 > $x_1, x_2, x_3$ siano le radici dell'equazione $x^3 + 3x + 5 = 0$. Qual è il valore dell'espressione $\left(x_1 + \dfrac{1}{x_1}\right)\left(x_2 + \dfrac{1}{x_2}\right)\left(x_3 + \dfrac{1}{x_3}\right)$?
 

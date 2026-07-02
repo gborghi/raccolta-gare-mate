@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Highest water level vessel with half a litre < MSK1/>
+*Highest water level vessel with half a litre *
 
 ![[src_kangourou_2021_cadet__prob6.png]]
 

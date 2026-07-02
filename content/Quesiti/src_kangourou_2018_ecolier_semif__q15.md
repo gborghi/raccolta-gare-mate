@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum waiting time to know the time from the outlet< MSK1/>
+*Maximum waiting time to know the time from the outlet*
 
 > The clock on a bell tower beats at the time of each hour a number of times corresponding to the numerical value of the hour itself (from 1 to 12) and beats only once at the time of each quarter of an hour, half an hour and three quarters of an hour. At night, you hear a whistle. Based on the facts alone, how many minutes at most does it take to know for sure what time it is?
 > 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Expression value with repunit (11...1) < MSK1/>
+*Expression value with repunit (11...1) *
 
 > It 's easy to check how much is it worth ? A) 5
 > 	

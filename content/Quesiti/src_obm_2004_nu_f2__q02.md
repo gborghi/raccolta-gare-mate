@@ -68,6 +68,6 @@ tags:
 > 
 > - Per ogni $y\in\mathbb{R}$, l'insieme $\{x\in\mathbb{R}:(x,y)\in A\}$ è contabile (numeroso).
 > 
-> < MSK3/>Rimarca: < MSK4/> Un insieme < MSK0/> si chiama < MSK5/>numerable< MSK6/> se < MSK1/> o se esiste una funzione surgettiva < MSK2/>.
+> *Rimarca: * Un insieme $E$ si chiama *numerable* se $E=\emptyset$ o se esiste una funzione surgettiva $f:\mathbb{N}\to E$.
 
 [[src_obm_2004_nu_f2__Q02]]

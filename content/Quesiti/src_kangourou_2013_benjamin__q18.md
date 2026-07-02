@@ -57,7 +57,7 @@ tags:
 
 *Different numbers in the 4x4 grid with adjacent cells differing by 1*
 
-> In each cell of a grid 4 < MSK0/> 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ from 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers do you see in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
+> In each cell of a grid 4 × 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ from 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers do you see in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
 [[src_kangourou_2013_benjamin__Q18]]

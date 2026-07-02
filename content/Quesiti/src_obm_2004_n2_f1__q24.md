@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Tempo in cui l'assistente si ferma in modo da corrispondere all'uscita del braccialetto dell'artigiano< MSK1/>
+*Tempo in cui l'assistente si ferma in modo da corrispondere all'uscita del braccialetto dell'artigiano*
 
 > Un artigiano inizia a lavorare alle 8 e produce 6 braccialetti ogni venti minuti; il suo assistente inizia a lavorare un'ora più tardi e produce 8 braccialetti dello stesso tipo ogni mezz'ora. L'artigiano smette di lavorare alle 12h ma avverte il suo assistente che deve continuare a lavorare fino a quando non produce la stessa quantità dell'artigiano. A che ora si fermerà l'assistente?
 > 

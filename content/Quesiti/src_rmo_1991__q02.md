@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ineguaglianza per quattro valori reali positivi condizione di somma < MSK1/>
+*Ineguaglianza per quattro valori reali positivi condizione di somma *
 
 > Se $a$, $b$, $c$ e $d$ sono 4 numeri reali positivi, dimostrare che $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a} \ge 4.$$
 

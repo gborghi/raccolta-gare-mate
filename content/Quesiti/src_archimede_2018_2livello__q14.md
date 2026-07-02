@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Digital clock, not dividing < MSK1/>
+*Digital clock, not dividing *
 
 > Consider a digital clock and the four-digit numbers (hours and minutes): 10:45 will indicate the number 1045. What is the smallest positive integer that doesn't divide any of the numbers that appear between 11:00 and 12:59?
 

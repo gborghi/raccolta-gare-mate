@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance between pedestrian and cyclist after three hours of running< MSK1/>
+*Distance between pedestrian and cyclist after three hours of running*
 
 > A pedestrian and a cyclist set off together from city A towards city B 13 km away from A, agreeing to make the spool between A and B without ever stopping. Knowing that every hour the podium runner travels 9 km while the cyclist travels 25 km, what distance will separate the two athletes after three hours from the start of the competition?
 >

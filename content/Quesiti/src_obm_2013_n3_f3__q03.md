@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca tutte le funzioni iniettabili da valori reali non zero che soddisfano un'equazione funzionale< MSK1/>
+*Ricerca tutte le funzioni iniettabili da valori reali non zero che soddisfano un'equazione funzionale*
 
 > Trovare tutte le funzioni iniettrici $f$ dai reali non-zero ai reali non-zero in modo tale che $$f(x+y) \cdot \bigl(f(x) + f(y)\bigr) = f(xy)$$ per tutte le $x, y$ reali e non-zero con $x + y \neq 0$.
 

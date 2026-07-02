@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quanti dei dati numeri radicali sono superiori a 10< MSK1/>
+*Quanti dei dati numeri radicali sono superiori a 10*
 
 > Quanti dei seguenti numeri sono superiori a $10$? $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$ (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 

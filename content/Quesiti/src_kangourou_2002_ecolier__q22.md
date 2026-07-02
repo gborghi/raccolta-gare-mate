@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Kilometers to the next digit all different < MSK1/>
+Kilometers to the next digit all different *
 
 > My car's meter indicates that we've traveled 187,569 miles, a number whose numbers are all different. After how many miles will it happen again, next time?
 >  

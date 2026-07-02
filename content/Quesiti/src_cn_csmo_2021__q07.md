@@ -52,6 +52,6 @@ tags:
 
 *Prove le disuguaglianze relative all'espressione razionale simmetrica alle reciprocità delle differenze*
 
-> Che i valori < MSK1/> siano positivi reali distinti. Provare che < MSK0/>
+> Che i valori $a, b, c$ siano positivi reali distinti. Provare che $$\frac{ab+bc+ca}{(a+b)(b+c)(c+a)} < \frac{1}{7}\left(\frac{1}{|a-b|}+\frac{1}{|b-c|}+\frac{1}{|c-a|}\right).$$
 
 [[src_cn_csmo_2021__Q07]]

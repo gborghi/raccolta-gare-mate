@@ -50,6 +50,6 @@ tags:
 
 *A-B value with sums of squares and consecutive products*
 
-> (Points 6) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 < MSK0/> 3) + (2 < MSK1/> 4) + (3 < MSK2/> 5) + ... + (2.022 < MSK3/> 2.024). How much is A  B?
+> (Points 6) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B?
 
 [[src_kangourou_2023_junior_semifinale__Q15]]

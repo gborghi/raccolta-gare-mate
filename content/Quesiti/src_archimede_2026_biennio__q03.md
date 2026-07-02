@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum yellow bags to exceed 20%< MSK1/>
+*Minimum yellow bags to exceed 20%*
 
 > One box contains 30 red balls. Laura adds more eggs to the box, yellow. How many yellow balls does he have to add, at least, because yellow balls are more than 20% of the total?
 >

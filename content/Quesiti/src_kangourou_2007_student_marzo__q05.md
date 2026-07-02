@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of a rectangular triangle (41 gones) < MSK1/>
+*Probability of a rectangular triangle (41 gones) *
 
 > If you randomly select three of the vertices of a regular polygon of 41 sides, what is the probability that the triangle they have identified will be rectangular? A) 3/41 B) 1/41 C) 1/2 D) 6/41 E) None of the previous B A C O X Texts_07.qxp 16-04-2007 12:07 Page 28
 > 

@@ -58,7 +58,7 @@ tags:
 
 *Triangolo con cevian, angolo 80 a B, angolo 30 a C, angolo retto a H, BC=2BH, trovare x*
 
-> Nella figura < MSK0/>. L'angolo di $H$ è un angolo retto, l'angolo di $B$ adiacente al lato $BC$ misura $80^\circ$, la parte superiore misura $x$ e l'angolo di $C$ misura $30^\circ$. Trova < MSK8/>.
+> Nella figura $BC = 2BH$. L'angolo di $H$ è un angolo retto, l'angolo di $B$ adiacente al lato $BC$ misura $80^\circ$, la parte superiore misura $x$ e l'angolo di $C$ misura $30^\circ$. Trova $x$.
 >
 > - **(A)** $10^\circ$
 > - **(B)** $15^\circ$

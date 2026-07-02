@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many ways< MSK1/>
+*how many ways*
 
 > 30. I mean, color each positive integer according to the following three rules: Each number is either red or blue. The sum of two different red numbers is always a red number. The sum of two different blue numbers is always a blue number. How many different ways can I make these colors? A) 0 B) 2 C) 4 D) 6
 

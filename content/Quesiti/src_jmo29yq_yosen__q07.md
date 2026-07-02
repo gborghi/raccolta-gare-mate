@@ -57,7 +57,7 @@ tags:
 
 *Quadratici con P(1)=P(2)=Q(3)=0 e P^2+Q^2=R^2; trovare R*
 
-> $P,Q,R$ siano polinomi quadratici con coefficienti interi che soddisfino le seguenti condizioni. Trova tutte le possibili < MSK1/>. \inbegin{itemize} \item $P(1) = P(2) = Q(3) = 0$. \item Per ogni numero reale $x$, $P(x)^2 + Q(x)^2 = R(x)^2$ è valido. \item Non esiste un intero $\ge 2$ che divida tutti i coefficienti di $P$, $Q$, $R$. \item I coefficienti principali (quadratici) di $P$ e $Q$ non sono zero e il coefficiente principale (quadratico) di $R$ è positivo. # Finire #
+> $P,Q,R$ siano polinomi quadratici con coefficienti interi che soddisfino le seguenti condizioni. Trova tutte le possibili $R(x)$. \inbegin{itemize} \item $P(1) = P(2) = Q(3) = 0$. \item Per ogni numero reale $x$, $P(x)^2 + Q(x)^2 = R(x)^2$ è valido. \item Non esiste un numero intero $\ge 2$ che divida tutti i coefficienti di $P$, $Q$, $R$. \item I coefficienti principali (quadratici) di $P$ e $Q$ non sono zero e il coefficiente principale (quadratico) di $R$ è positivo. # Finire #
 
 **Risposta:** 5x^2-18x+17
 [[src_jmo29yq_yosen__Q07]]

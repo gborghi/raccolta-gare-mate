@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Finding a palindrome date from 2012< MSK1/>
+*Finding a palindrome date from 2012*
 
 > A number is called a palindrome when it is read the same way from left to right. For example, palindrome is number 353. The date of 21 February 2012 is a palindrome because it is written as 21.02.2012 (and reading it from the left, or from the right, expresses the same day).
 > 

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum sum of digits less than 208359< MSK1/>
+*Maximum sum of digits less than 208359*
 
 > The sum of the digits of an integer less than 208359 (and greater than zero) may be at most A) 26 B) 35 C) 45 D) 46 E) 50 Benjamin_05_D.qxp 21/02/2005 16.04 Page 13
 > 

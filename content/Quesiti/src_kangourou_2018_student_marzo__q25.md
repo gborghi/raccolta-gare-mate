@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many positive real solutions of the equation < MSK1/>
+*How many positive real solutions of the equation *
 
 > 25. How many real positive solutions does this equation have? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Development.
 

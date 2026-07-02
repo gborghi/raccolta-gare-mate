@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which adhesives and opposes the cube anathrocoll< MSK1/>
+*Which adhesives and opposes the cube anathrocoll*
 
 ![[src_kangourou_2020_ecolier_marzo__prob7.png]]
 

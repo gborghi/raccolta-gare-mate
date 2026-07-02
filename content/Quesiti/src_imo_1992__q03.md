@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Smallest n of colored edges forcing monochromatic triangle< MSK1/>
+*Smallest n of colored edges forcing monochromatic triangle*
 
 > Consider nine points in space, no four of which are coplanar. Each pair of points is joined by an edge (that is, a line segment) and each edge is either colored blue or red or left uncolored. Find the smallest value of n such that whenever exactly n edges are colored, the set of colored edges necessarily contains a triangle all of whose edges have the same color. 33rd International Mathematical Olympiad Second Day - Moscow - July 15, 1992 Time limit: 41 2 hours
 

@@ -53,10 +53,6 @@ tags:
 > misura l’area ABC  da ispezionare (in 
 > 2
 > km )? 
->  
->  
->  
-> 
 > 4
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

@@ -50,6 +50,6 @@ tags:
 
 *MCD of a^n+(a+1)^n+(a+2)^n is power of 3*
 
-> For every positive integer n, be Dn the maximum common divisor of all numbers of the form an + (a + 1)n + (a + 2)n as a varies between all positive integers. (a) Demonstrate that for every n, Dn is 3k for some whole k ≥0. (b) Demonstrate that for every k < MSK1/>0, there exists an integer n such that Dn = 3k.
+> For every positive integer n, be Dn the greatest common divisor of all numbers of the form an + (a + 1)n + (a + 2)n as a varies between all positive integers. (a) Demonstrate that for every n, Dn is 3k for some whole k ≥0. (b) Demonstrate that for every k ≥0, there exists an integer n such that Dn = 3k.
 
 [[src_cesenatico_2014__Q03]]

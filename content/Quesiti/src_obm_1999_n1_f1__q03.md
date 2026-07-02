@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Grafico del tasso del dollaro reale su 6 mesi; trovare la rata di maggio data il valore di dicembre.< MSK1/>
+*Grafico del tasso del dollaro reale su 6 mesi; trovare la rata di maggio data il valore di dicembre.*
 
 > Il grafico seguente mostra il valore approssimativo del dollaro in reais il 15 di ciascuno degli ultimi 6 mesi.
 > 

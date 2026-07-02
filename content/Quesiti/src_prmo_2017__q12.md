@@ -49,6 +49,6 @@ tags:
 
 *Total di studenti dati a ragazzi: ragazze = 1:3 e ragazzi presenti uguali al quadrato delle ragazze presenti*
 
-> In una classe, il numero totale di ragazzi e ragazze è nel rapporto < MSK0/>. Un giorno si scoprì che 8 ragazzi e 14 ragazze erano assenti dalla classe, e che il numero di ragazzi era il quadrato del numero di ragazze. Qual è il numero totale degli studenti della classe?
+> In una classe, il numero totale di ragazzi e ragazze è nel rapporto $1:3$. Un giorno si scoprì che 8 ragazzi e 14 ragazze erano assenti dalla classe, e che il numero di ragazzi era il quadrato del numero di ragazze. Qual è il numero totale degli studenti della classe?
 
 [[src_prmo_2017__Q12]]

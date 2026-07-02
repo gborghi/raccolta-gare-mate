@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode in which Chiara can program the 7 repetitions< MSK1/>
+*Mode in which Chiara can program the 7 repetitions*
 
 > (3 points) The teacher assigned this task to Chiara: she must memorize the same poem seven times. The teacher also recommended: Until you have finished this task, you must repeat the poem at least twice a day. How many different ways can Chiara program to do her job? Attention: repeating the poem 2 times on the first day and 5 times on the second or 5 times on the first day and 2 times on the second are two different ways. A) 5
 >  

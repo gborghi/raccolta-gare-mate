@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of dominoes in a row< MSK1/>
+*Maximum number of dominoes in a row*
 
 > Ennio has the dominoes that show you the figure. He wants to line them up by following the domino rule: the second square of each card must have the same number of points as the first square of the next card. How many can you line up, at most? A) 3
 >         	

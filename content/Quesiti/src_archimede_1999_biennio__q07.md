@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of units from 1999 to 1999< MSK1/>
+*Number of units from 1999 to 1999*
 
 > What is the unit figure for 199999?
 >

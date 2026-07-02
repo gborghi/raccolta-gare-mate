@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilatero converso con uguali radii di incircolo implica rombo< MSK1/>
+*Quadrilatero converso con uguali radii di incircolo implica rombo*
 
 > Che $ABCD$ sia un quadrilaterale convex e che $P$ sia l'intersezione delle diagonali $AC$ e $BD$. I radii degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Provare che $ABCD$ è un rombo.
 

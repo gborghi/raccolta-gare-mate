@@ -55,7 +55,7 @@ tags:
 
 *Total participants from n,m roots of the quadratic equation*
 
-> The great battle [20] In the epic clash between the MSK0/>-rate fleet and that of the East India Company, as will be told for generations, the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the equation x2 −102x+1817 = 0. Knowing that each of Disparrow's ships had MSK1/-rates and that each of the Company's ships had military personnel, how many in all took part in the encounter? Team competition 2010  Public competition  Problem texts  1/3
+> The great battle [20] In the epic clash between theπ-rate fleet and that of the East India Company, as will be told for generations, the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the equation x2 −102x+1817 = 0. Knowing that each of Disparrow's ships hadπ-rates and that each of the Company's ships had military personnel, how many in all took part in the encounter? Team competition 2010  Public competition  Problem texts  1/3
 > 
 > 2/3 Team competition 2010  Public competition  Problem texts
 

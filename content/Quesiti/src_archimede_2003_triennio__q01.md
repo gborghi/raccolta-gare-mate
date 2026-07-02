@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>type of inhabitant< MSK1/>
+*type of inhabitant*
 
 > 35/2 32/3 =. . .
 >

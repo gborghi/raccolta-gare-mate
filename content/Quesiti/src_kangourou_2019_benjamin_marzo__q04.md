@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many women were certainly born before 2000< MSK1/>
+*How many women were certainly born before 2000*
 
 > There are 14 women and 12 men in one room. Exactly half of these people were born before 2000. How many women can you be sure were born before 2000? A) 5
 > 	

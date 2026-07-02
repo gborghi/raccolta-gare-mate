@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Tra i 15 naturali > 1 e < 1998 copriamo in copriamo, almeno uno è primo< MSK1/>
+*Tra i 15 naturali > 1 e < 1998 copriamo in copriamo, almeno uno è primo*
 
 > Si devono dare 15 numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano copriemi. Prova che almeno uno di questi 15 numeri è primo.
 

@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Four pieces of the round Clodovico vase< MSK1/>
+*Four pieces of the round Clodovico vase*
 
-> Clovis had a beautiful vase (see figure), but he accidentally broke it into four pieces. This vessel was made up of eight motifs, four squares and four rounds. Each of the four pieces contains a square pattern and a round pattern, and the breaks occurred only along the dotted lines. < MSK0/>The lines of breakage of the vessel< MSK1/> are drawn in thicker strips on the figure (front: front, rear: rear, left: left, droite: right).
+> Clovis had a beautiful vase (see figure), but he accidentally broke it into four pieces. This vessel was made up of eight motifs, four squares and four rounds. Each of the four pieces contains a square pattern and a round pattern, and the breaks occurred only along the dotted lines. **The lines of breakage of the vessel** are drawn in thicker strips on the figure (front: front, rear: back, left: left, droite: right).
 
 ![[src_bocconi_finaleint_2011_g1__Q09.png]]
 

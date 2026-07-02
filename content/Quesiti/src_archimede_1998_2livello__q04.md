@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities of liquor in conical glass with cherry < MSK1/>
+*Quantities of liquor in conical glass with cherry *
 
 ![[src_archimede_1998_2livello__prob4.png]]
 

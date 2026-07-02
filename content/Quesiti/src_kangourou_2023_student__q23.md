@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Configuration of 625,626,627 in a numbered spiral< MSK1/>
+*Configuration of 625,626,627 in a numbered spiral*
 
 ![[src_kangourou_2023_student__prob23.png]]
 

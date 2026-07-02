@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Persone raggruppate in n cerchi con condizione di cerchio comune; conteggio totale< MSK1/>
+*Persone raggruppate in n cerchi con condizione di cerchio comune; conteggio totale*
 
 > $n$ sia un numero intero con $n \ge 2$. Ci sono $n$ cerchi (gruppi), e esattamente $n$ persone si riuniscono a ogni cerchio, in modo che in totale $n^2$ persone circondano i cerchi. Le persone appartenenti a un cerchio sono reciprocamente distinte, e due persone che appartengono entrambi a un cerchio comune appartengono esattamente a un cerchio in comune. Determina, in tutte queste configurazioni, quante persone ci possono essere.
 

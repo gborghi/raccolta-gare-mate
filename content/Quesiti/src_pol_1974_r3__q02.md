@@ -54,6 +54,6 @@ tags:
 
 *Un salmone passa due cascate ogni minuto con probabilità indipendenti p e q; calcola la probabilità che non abbia superato la prima in n minuti dato che non ha superato nessuna in quel tempo.*
 
-> Un salmone in un fiume di montagna deve superare due cascate. Ogni minuto, la probabilità del salmone di superare la prima cascata è $p > 0$, e la probabilità di superare la seconda cascata è $q > 0$. Si presume che questi due eventi siano indipendenti. Calcolare la probabilità che il salmone non abbia superato la prima cascata in < MSK2/> minuti, supponendo che non abbia superato entrambe le cascate in quel periodo.
+> Un salmone in un fiume di montagna deve superare due cascate. Ogni minuto, la probabilità del salmone di superare la prima cascata è $p > 0$, e la probabilità di superare la seconda cascata è $q > 0$. Si presume che questi due eventi siano indipendenti. Calcolare la probabilità che il salmone non abbia superato la prima cascata in $n$ minuti, supponendo che non abbia superato entrambe le cascate in quel periodo.
 
 [[src_pol_1974_r3__Q02]]

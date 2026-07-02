@@ -61,7 +61,7 @@ tags:
 
 *Quattro quadrati uguali a 20 cm impilati da angolo a centro; superficie della figura risultante*
 
-> Esmeralda ha quattro fogli quadrati uguali di carta, ciascuno con lato < MSK0/> cm. Si incolla un foglio sull'altro in modo che l'uno copra la metà dell'altro, come nelle figure $1$ e $2$. Continua a incollare in questo modo, unendo i quattro fogli, come nelle figure $3$ e $4$. Qual è la superficie della figura $4$?
+> Esmeralda ha quattro fogli quadrati uguali di carta, ciascuno con lato $20$ cm. Si incolla un foglio su un altro in modo che l'uno copra la metà dell'altro, come nelle figure $1$ e $2$. Continua a incollare in questo modo, unendo i quattro fogli, come nelle figure $3$ e $4$. Qual è la superficie della figura $4$?
 > 
 > (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
 

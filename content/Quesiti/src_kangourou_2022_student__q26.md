@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> length LM< MSK1/>
+* length LM*
 
 ![[src_kangourou_2022_student__prob26.png]]
 

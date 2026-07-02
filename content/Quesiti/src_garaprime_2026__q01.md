@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Products of all 1024^3 dividers < MSK1/>
+*Products of all 1024^3 dividers *
 
 > Teacher Scaldasedia, in order not to give a lesson, assigns her students to do a calculation in class that she thinks is long enough to fill in all the time: find the product of all the divisors of 10243, including 1 and 10243. To her great surprise, after a few minutes, her best student brings her the drawer with the correct result written on it. What is the result?
 >

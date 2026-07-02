@@ -55,8 +55,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Self-map on {1,...,n}: unica g soddisfacente f(g(f(m)))=g(f(g(m))) implica che f e ff hanno la stessa immagine*
+*Self-map su {1,...,n}: unica g soddisfacente f(g(f(m)))=g(f(g(m))) implica che f e ff hanno la stessa immagine*
 
-> $n$ sia un numero intero positivo. Let $S = \{1, 2, \ldots, n\}$, e let $\mathcal{A}$ essere l'insieme di tutte le funzioni da $S$ a $S$. Let $f$ essere una funzione in $\mathcal{A}$. Supponiamo che l'unica funzione $g \in \mathcal{A}$ che soddisfa $$f(g(f(m))) = g(f(g(m))), \quad m = 1, 2, \ldots, n$$ sia la stessa $g = f$. Provare che < MSK1/>
+> $n$ sia un numero intero positivo. Let $S = \{1, 2, \ldots, n\}$, e let $\mathcal{A}$ essere l'insieme di tutte le funzioni da $S$ a $S$. Let $f$ essere una funzione in $\mathcal{A}$. Supponiamo che l'unica funzione $g \in \mathcal{A}$ che soddisfa $$f(g(f(m))) = g(f(g(m))), \quad m = 1, 2, \ldots, n$$ sia la stessa $g = f$. Provare che $$\{f(m) \mid m = 1, 2, \ldots, n\} = \{f(f(m)) \mid m = 1, 2, \ldots, n\}.$$
 
 [[src_selection_camp_2018__Q02]]

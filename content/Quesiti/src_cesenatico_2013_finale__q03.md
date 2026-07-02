@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of 1/3 (power) < MSK1/>
+*Height of 1/3 (power) *
 
 > Drink me, Eat me Root finds in the living room a small bottle with the words BEVIMI, containing a liquid that causes a drinker to shrink by a factor of 243,512. Nearby is also a cake with the inscription MANGIAMI, a bite of which makes people enlarge by a factor of 128 81 . Root wants to get exactly a third taller than she is now, so she can get through the little door she's seen. Since Root is a square person, although sometimes irrational, he begins to think about what to do. How many bites will you have to give the pie?
 

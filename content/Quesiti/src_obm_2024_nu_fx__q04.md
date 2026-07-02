@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Funzioni morficamente impar e caratterizzazione polinomica di parità< MSK1/>
+*Funzioni morficamente impar e caratterizzazione polinomica di parità*
 
 > Diciamo che una funzione $f : \mathbb{R} \to \mathbb{R}$ è *morfisticamente odd* (moralmente ímpar) se il suo grafico è simmetrico rispetto a qualche punto, cioè esiste $(x_0, y_0) \in \mathbb{R}^2$ tale che $(2x_0 - x, 2y_0 - f(x)) \in \{(x, f(x)) : x \in \mathbb{R}\}$ per tutti $x \in \mathbb{R}$. D'altra parte, $f$ è chiamato *morficamente pari* (moralmente par) se il suo grafico è simmetrico rispetto a una linea (non necessariamente verticale o orizzontale). Se $f$ è morficamente pari, allora $f$ è anche morficamente impar.
 > 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Le entrate di lavaggio auto suddivise in dime tra tre persone< MSK1/>
+*Le entrate di lavaggio auto suddivise in dime tra tre persone*
 
 > Edmilson, Carlos ed Eduardo hanno guadagnato un totale di R\$150.00 washing cars. They earned the amounts in dimes (moedas de dez centavos). Since none of them had change to divide the equal amounts among the three, Carlos and Eduardo gave their dimes to Edmilson, who then had more money in dimes, and they divided the dimes among themselves. In the end, each one could divide his original amount of dimes; Eduardo received R\$10.00 in dime e gli altri divisi ugualmente, in modo che ognuno finisse con un numero intero di dime. Quanto guadagnava Eduardo prima della divisione? (A) R\$76.00 \quad (B) R\$51.00 \quad (C) R\$23.00 \quad (D) R\$50.00 \quad (E) R\$100.00
 

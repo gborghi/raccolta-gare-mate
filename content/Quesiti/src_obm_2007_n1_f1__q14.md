@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La bottiglia riempie 3 grandi + metà piccole, o 5 piccole + metà piccole; rapporto piccolo: grande< MSK1/>
+*La bottiglia riempie 3 grandi + metà piccole, o 5 piccole + metà piccole; rapporto piccolo: grande*
 
 > Il contenuto di una bottiglia di bicchieri non alcoolici riempie tre grandi bicchieri e un altro mezzo di un bicchiere piccolo; o $5$ di questi bicchieri piccoli e un altro mezzo di un bicchiere grande. Qual è il rapporto tra il volume di un bicchiere piccolo e quello di un bicchiere grande?
 > 

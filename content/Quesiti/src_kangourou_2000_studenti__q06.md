@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Different lengths by cutting strip into 3 and 4< MSK1/>
+*Different lengths by cutting strip into 3 and 4*
 
 > On a strip of paper 1 m long, we draw vertical lines that divide the strip into 4 equal parts and also draw the lines, always vertical, that divide the same strip into 3 equal parts. After that, we cut the strip according to the lines we've drawn. How many different lengths will these pieces have ? A) 2 B) 3 C) 4 D) 5 E) 6
 

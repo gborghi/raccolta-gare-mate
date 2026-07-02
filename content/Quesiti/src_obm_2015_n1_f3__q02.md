@@ -63,15 +63,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nove carte 19 accumulate; tre persone disegnano due ciascuno; analizzano le somme rimanenti < MSK1/>
+*Nove carte 19 accumulate; tre persone disegnano due ciascuno; analizzano le somme rimanenti *
 
-> Nove carte numerate < MSK0/> a < MSK1/> sono state mescolate e impilate. Ana, Beto e C\u00e9lio hanno disegnato due carte, lasciando tre carte sulla pila.
+> Nove carte numerate $1$ a $9$ sono state mescolate e impilate. Ana, Beto e C\u00e9lio hanno disegnato due carte, lasciando tre carte sulla pila.
 > 
 > a) Qual è la somma più grande possibile dei numeri delle carte che sono rimaste sul tavolo?
 > 
-> b) Se la somma dei numeri sulla coppia di carte di ciascuna persona è la stessa per tutte e tre le persone, qual è la somma più piccola possibile dei numeri sulle carte lasciate sulla tavola?
+> b) Se la somma dei numeri della coppia di carte di ciascuna persona è la stessa per tutte e tre le persone, qual è la somma più piccola possibile dei numeri delle carte lasciate sulla tavola?
 > 
-> c) In quanti modi diversi può verificarsi la situazione descritta alla lettera b) (cioè, in quanti modi le carte tracciate < MSK0/> possono essere suddivise in tre coppie che hanno tutte la stessa somma)?
+> c) In quanti modi diversi può verificarsi la situazione descritta alla lettera b) (cioè, in quanti modi le carte tirate $6$ possono essere suddivise in tre coppie che hanno tutte la stessa somma)?
 
 ![[src_obm_2015_n1_f3__Q02.png]]
 

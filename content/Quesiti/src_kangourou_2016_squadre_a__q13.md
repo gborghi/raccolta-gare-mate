@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0>Maximum of greater than 20 distinct integers mean 101 < MSK1/>
+*Maximum of greater than 20 distinct integers mean 101 *
 
 > The arithmetic mean of 20 positive integers all different from each other is 101. What is the maximum value of the largest of these 20 numbers?
 

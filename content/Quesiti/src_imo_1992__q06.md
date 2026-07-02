@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n^2 as sum of k positive squares, bounds< MSK1/>
+*n^2 as sum of k positive squares, bounds*
 
 > For each positive integer $n$, $S(n)$ is defined as the maximum integer such that, for each positive integer $k$ with $1 \le k \le S(n)$, $n^2$ can be written as the sum of $k$ squares of positive integers.
 > 

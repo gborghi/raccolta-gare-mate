@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Counting of cells of the colouring cube (4 boxes at the top) < MSK1/>
+*Counting of cells of the colouring cube (4 boxes at the top) *
 
-> How many integers < MSK0/> are all greater than 1 such that < MSK1/>?
+> How many integers $(a, b, c)$ are all greater than 1 such that $a^{b^c} < 2002$?
 > 
 > (A) 9 and (B) 19 and (C) 30 and (D) 31 and (E) 32
 

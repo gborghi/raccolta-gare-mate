@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Orange in the window: how many Renato sells for less than 100 < MSK1/>
+*Orange in the window: how many Renato sells for less than 100 *
 
-> To arrange for oranges to be displayed and sold, the fruit vendor Renato has at its disposal trays containing < MSK0/> oranges or other larger trays containing < MSK1/>. Whether you always use the small containers, or you always use the big ones, filling them up completely, you end up with an orange. The oranges Renato wants to sell are less than MSK3, but how many are they exactly?
+> To arrange for oranges to be displayed and sold, the fruit vendor Renato has available trays containing $12$ oranges or other larger trays containing $21$. Whether you always use the small containers, or you always use the big ones, filling them completely, you end up with an orange. The oranges Renato wants to sell are less than$100$, but how many are they exactly?
 
 **Answer:** 85
 [[src_bocconi_autunno_2014__Q06]]

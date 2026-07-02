@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Color of the 27th kangaroo (cycle 5) < MSK1/>
+*Color of the 27th kangaroo (cycle 5) *
 
 > Sofia draws kangaroos, coloring them in this order: one blue, then one green, then one red, then one black, then one yellow, then again one blue, one green, one red, one black and so on... What color will the 27th kangaroo be? A) blue B) yellow C) red D) black E) green
 

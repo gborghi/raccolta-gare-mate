@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Linea attraverso l'ortocentro H incontra AC a D, BC a E; linea attraverso H perpendicolare a DE incontra AB a F; dimostra DH/HE = AF/FB.*
+*Linea attraversando l'ortocentro H incontra AC a D, BC a E; linea attraversando H perpendicolare a DE incontra AB a F; dimostra DH/HE = AF/FB.*
 
-> Una linea attraversa l'ortocentro $H$ di un triangolo a angolo acuto $ABC$ e incontra i lati $AC$ e $BC$ rispettivamente a $D$ e $E$. La linea attraverso $H$ perpendicolare a $DE$ incrocia la linea $AB$ al punto $F$. Prova che < MSK10/>.
+> Una linea attraversa l'ortocentro $H$ di un triangolo angolato acuto $ABC$ e incontra i lati $AC$ e $BC$ rispettivamente a $D$ e $E$. La linea attraverso $H$ perpendicolare a $DE$ incrocia la linea $AB$ al punto $F$. Prova che $\frac{DH}{HE} = \frac{AF}{FB}$.
 
 [[src_pol_2006_r1__Q06]]

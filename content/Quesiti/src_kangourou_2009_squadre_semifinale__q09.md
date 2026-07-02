@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum male to female ratio of 0.24< MSK1/>
+*Minimum male to female ratio of 0.24*
 
 > Male and female In a room there are some people: if the number of males is divided by the number of females, you get exactly 0.24. It is known that the number of people present is the smallest that can determine that ratio. How many people are in that room?
 

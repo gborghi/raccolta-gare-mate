@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cubets with a single painted face< MSK1/>
+*Cubets with a single painted face*
 
 > A cube with a side length of 5 cm is made up of side cubes of 1 cm. Let's take three rows of cubes as shown in the figure and dip the remaining solid in a paint jug. How many cubes have one painted face?
 >  

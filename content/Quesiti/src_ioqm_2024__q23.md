@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>N più piccolo in modo tale che la quarta potenza 1^4,...,14^4 abbia residui distinti mod n < MSK1/>
+*N più piccolo in modo tale che la quarta potenza 1^4,...,14^4 abbia residui distinti mod n *
 
 > Considerate i quattordici numeri, $1^4, 2^4, \ldots, 14^4$. Il numero naturale più piccolo $n$ tale da lasciare residui distinti quando diviso per $n$ è:
 

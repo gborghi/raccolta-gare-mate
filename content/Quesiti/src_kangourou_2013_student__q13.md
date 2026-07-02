@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What colour of tiles cannot be obtained from the carpet< MSK1/>
+*What colour of tiles cannot be obtained from the carpet*
 
 ![[src_kangourou_2013_student__prob13.png]]
 

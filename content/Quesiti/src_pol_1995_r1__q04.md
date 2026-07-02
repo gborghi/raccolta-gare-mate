@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>19 studenti, 5 olimpiadi, tre in coppia comuni; due olimpiadi in comune < MSK0/>7< MSK2/>
+*19 studenti, 5 olimpiadi, tre in coppia comuni; due olimpiadi in comune ≥7*
 
 > In ciascuna scuola 19 studenti partecipano a cinque diverse Olimpiadi. In ciascuna olimpiada partecipano almeno 19 studenti, ma nessuno degli studenti partecipa a più di tre olimpiadi. Prova che se ogni tre Olimpiadi hanno un partecipante comune, allora ci sono almeno due Olimpiadi con almeno 7 partecipanti comuni.
 

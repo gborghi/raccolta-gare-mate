@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due urne, operazioni per svuotare entrambe contemporaneamente< MSK1/>
+*Due urne, operazioni per svuotare entrambe contemporaneamente*
 
 > Ci sono due urne che contengono ciascuna un numero arbitrario di palle. Entrambi non sono vuoti per cominciare. Ci sono permessi due tipi di operazioni: (a) rimuovere simultaneamente un numero uguale di palle dalle urne, e (b) raddoppiare il numero di palle in una qualsiasi di esse.
 > 

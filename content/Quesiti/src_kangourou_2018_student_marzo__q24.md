@@ -48,7 +48,7 @@ tags:
 
 *Value of n^2+m with m,n roots of x^2-x-2018=0*
 
-> 24. m and n are the roots of the equation $x^{2}$- x - 2018 = 0. How much is < MSK1/> + m ? A) 2016 B) 2017 C) 2018 D) 2019 E) 2020
+> 24. m and n are the roots of the equation $x^{2}$- x - 2018 = 0. How much is $n^{2}$ + m ? A) 2016 B) 2017 C) 2018 D) 2019 E) 2020
 
 **Answer:** D
 [[src_kangourou_2018_student_marzo__Q24]]

@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>probability of a blue jacket< MSK1/>
+*probability of a blue jacket*
 
 > Other meetings on the tram
 > 

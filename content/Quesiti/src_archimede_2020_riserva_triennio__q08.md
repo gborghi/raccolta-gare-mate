@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes to fill the tank with a second target faucet< MSK1/>
+*Minutes to fill the tank with a second target faucet*
 
 > To fill a water tank, there are two identical taps. Leaving only one of the two open, the tub fills up in 24 minutes. To shorten the time, when the tank is filled in half with water from a tap, the second tap is also opened. In doing so, how many minutes does it take for the entire tank to fill?
 >

@@ -50,8 +50,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK0/> Trova il minimo valore positivo di m - <128^m> <n=MSK1/
+* Trova il minimo valore positivo di m - <128^> n *
 
-> Trova, con prova, il minimo valore positivo possibile di $|128^m - 9^n|$, dove $m$ e $n$ sono integri positivi.
+> Trova, con prova, il minimo possibile valore positivo di $|128^m - 9^n|$, dove $m$ e $n$ sono interi positivi.
 
 [[src_bmo_1980-81_round1__Q04]]

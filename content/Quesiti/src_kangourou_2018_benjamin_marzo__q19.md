@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which development cannot be of the colored cube< MSK1/>
+*Which development cannot be of the colored cube*
 
 ![[src_kangourou_2018_benjamin_marzo__prob19.png]]
 

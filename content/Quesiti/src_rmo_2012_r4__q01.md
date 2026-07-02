@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Radio di un cerchio iscritto in un quadrato unitario tangente a due archi quadranti laterali e a un lato*
+*Radius di un cerchio iscritto in un quadrato unitario tangente a due archi quadranti laterali e a un lato*
 
-> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Scrivere un cerchio $\Gamma$ che tocchi l'arco $AC$ esternamente, l'arco $BD$ internamente e anche il lato $AD$. Trova il raggio del cerchio < MSK11/>.
+> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Scrivere un cerchio $\Gamma$ che tocchi l'arco $AC$ esternamente, l'arco $BD$ internamente e anche il lato $AD$. Trova il raggio del cerchio $\Gamma$.
 
 ![[src_rmo_2012_r4__Q01.png]]
 

@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>It is more the reducible or non-reducible fractions (1..6) < MSK1/>
+*It is more the reducible or non-reducible fractions (1..6) *
 
 > Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are these more reducing fractions or irreducible fractions?
 

@@ -53,7 +53,7 @@ tags:
 
 Il numero massimo di modi per distruggere ponti in modo che tutte le isole abbiano un grado pari
 
-> Ci sono isole $80$ e ponti $2005$. Ogni coppia di isole è collegata da un ponte al massimo, e alcune coppie potrebbero non avere un ponte. Da qualsiasi isola, è possibile raggiungere qualsiasi altra isola attraversando una sequenza di ponti (cioè il grafico è collegato). Desideriamo distruggere alcuni dei ponti MSK2 così che dopo la distruzione, ogni isola abbia un numero pari di ponti rimasti. (È consentito distruggere ponti $0$; dopo la distruzione il grafico non deve rimanere connesso; e dopo la distruzione, è anche accettabile se un'isola diventa irraggiungibile da un'altra). Su tutti i grafici collegati su vertici $80$ con bordi $2005$, trovare il numero massimo di modi per scegliere quali ponti distruggere.
+> Ci sono isole $80$ e ponti $2005$. Ogni coppia di isole è collegata da un ponte al massimo, e alcune coppie potrebbero non avere un ponte. Da qualsiasi isola, è possibile raggiungere qualsiasi altra isola attraversando una sequenza di ponti (cioè il grafico è collegato). Desideriamo distruggere alcuni dei ponti$2005$così che dopo la distruzione, ogni isola abbia un numero pari di ponti rimasti. (La distruzione di ponti $0$ è consentita; dopo la distruzione il grafico non deve rimanere connesso; e dopo la distruzione, è anche accettabile se un'isola diventa irraggiungibile da un'altra). Su tutti i grafici collegati su vertici $80$ con bordi $2005$, trovare il numero massimo di modi per scegliere quali ponti distruggere.
 
 **Risposta:** 2^{1926}
 [[src_jmo15yq_yosen__Q12]]

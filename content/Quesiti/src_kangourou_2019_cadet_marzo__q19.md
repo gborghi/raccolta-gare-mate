@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which 4x4 grids cannot be obtained from the two pieces< MSK1/>
+*Which 4x4 grids cannot be obtained from the two pieces*
 
 ![[src_kangourou_2019_cadet_marzo__prob19.png]]
 

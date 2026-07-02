@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Simplify roots 10 by roots 15 more roots 54< MSK1/>
+*Simplify roots 10 by roots 15 more roots 54*
 
 > The number √ 10 · √ 15 + √ 54 is equal to:
 >

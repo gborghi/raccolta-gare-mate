@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pamela garden area< MSK1/>
+*Pamela garden area*
 
 ![[src_kangourou_2001_benjamin__prob19.png]]
 

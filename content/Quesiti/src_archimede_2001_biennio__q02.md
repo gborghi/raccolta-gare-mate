@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum socks to take for a pair of the same colour< MSK1/>
+*Minimum socks to take for a pair of the same colour*
 
 > One drawer contains, in the infusion, 3 pairs of beige socks, 5 pairs of blue socks and 6 pairs of black socks. You're in the dark. How many socks do you have to take at least to make sure you have a pair of the same color?
 >

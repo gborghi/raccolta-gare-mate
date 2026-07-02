@@ -78,7 +78,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>3, tangent rope: large beam < MSK1/>
+*3, tangent rope: large beam *
 
 ![[src_kangourou_2014_marzo_student__prob13.png]]
 

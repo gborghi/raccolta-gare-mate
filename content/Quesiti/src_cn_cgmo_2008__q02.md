@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cubico con tre radici positive: prova la disuguaglianza dei coefficienti < MSK1/>
+*Cubico con tre radici positive: prova la disuguaglianza dei coefficienti *
 
 > Il polinomio reale $\varphi(x) = ax^3 + bx^2 + cx + d$ ha tre radici positive e $\varphi(0) < 0$. Prove che $$2b^3 + 9a^2 d - 7abc \le 0.$$ (Posato da Zhu Huawei)
 

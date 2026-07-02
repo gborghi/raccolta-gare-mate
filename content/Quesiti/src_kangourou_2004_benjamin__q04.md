@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>360000 seconds at several hours< MSK1/>
+*360000 seconds at several hours*
 
 > 360 000 seconds is equivalent to A) 3 hours B) 6 hours C) 8 and a half hours D) 10 hours E) more than 10 hours
 

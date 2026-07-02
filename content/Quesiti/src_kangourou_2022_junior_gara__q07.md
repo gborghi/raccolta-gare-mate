@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fragment value of 202,2x2,022/(20,22x2022) < MSK1/>
+*Fragment value of 202,2x2,022/(20,22x2022) *
 
 > What is the value of the fraction ------------------------ ? 20,22 × 2022 A) 0,01 B) 0,1 C) 1
 >   

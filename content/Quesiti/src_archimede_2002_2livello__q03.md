@@ -47,7 +47,7 @@ tags:
 
 A logical riddle about Martian and Venusian (who's thinking)
 
-> On a map of a certain region there are two cities at the top of a regular hexagon; the capitals represent as many cities. There are jobs in the region where each road is open with a probability of < MSK0/> irrespective of the others. What are the odds that the capital is accessible from at least one other city?
+> On a map of a certain region there are two cities at the top of a regular hexagon; the capitals represent as many cities. There are jobs in the region where each road is open with a probability of $\frac{1}{2}$ irrespective of the others. What are the odds that the capital is accessible from at least one other city?
 > 
 > (A) between $0{,}25\%$ and $0{,}5\%$ &ensp; (B) between $0{,}5\%$ and $1\%$ &ensp; (C) between $1\%$ and $5\%$ &ensp; (D) between $5\%$ and $20\%$ &ensp; (E) between $20\%$ and $50\%$
 

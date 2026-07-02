@@ -63,7 +63,7 @@ tags:
 
 > Esmeralda incolla i cubetti bianchi per costruire cubetti più grandi. Dopo aver riunito i cubetti più grandi, dipinge alcune delle facce visibili dei piccoli cubetti in verde o giallo.
 > 
-> a) Dopo aver assemblato un grande cubo laterale $3$ (fatto di $27$ piccoli cubetti), Esmeralda dipinge di verde le facce di piccoli cubetti che hanno esattamente $3$ facce visibili e di giallo le facce di piccoli cubetti che hanno esattamente $2$ facce visibili. Dopo la vernice, le facce < MSK4/> sono gialle. Quanti volti sono rimasti non dipinti sui piccoli cubetti?
+> a) Dopo aver assemblato un grande cubo laterale $3$ (fatto di $27$ piccoli cubetti), Esmeralda dipinge di verde le facce di piccoli cubetti che hanno esattamente $3$ facce visibili e di giallo le facce di piccoli cubetti che hanno esattamente $2$ facce visibili. Dopo la vernice, le facce $120$ sono gialle. Quanti volti sono rimasti non dipinti sui piccoli cubetti?
 > 
 > b) Dopo aver assemblato un grande cubo di $9$ piccoli cubetti, Esmeralda dipinse $3$ le facce del grande cubo verde e $1$ la faccia gialla. Al massimo, quanti piccoli cubetti avrebbero potuto avere esattamente $2$ volti verdi e $1$ volti gialli?
 

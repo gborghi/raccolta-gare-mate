@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes foreseen by grandmother without candlesticks< MSK1/>
+*Minutes foreseen by grandmother without candlesticks*
 
 > The candles Licia leaves home to visit her grandmother and bring her her birthday cake. But when she reaches a third of the way, she realizes that she has forgotten the candles. She goes home, picks up the candles and leaves to go to her grandmother's, where she arrives exactly 34 minutes late. If he always walked at the same speed and didn't waste time at home picking up the candles, how many minutes would it take him to get to Grandma's if he hadn't forgotten the candles?
 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of reaching 5 in billiards< MSK1/>
+*Probability of reaching 5 in billiards*
 
 > Agnese and Bruno challenge Viviana and Zenone at pool; the teams are very balanced, so for every ball played both teams have a 1/2 chance of scoring a goal. What's the probability of getting 5 even?
 >

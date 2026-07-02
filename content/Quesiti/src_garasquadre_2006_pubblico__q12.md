@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-empty subsets of {1,9} with multiple sums of 3 < MSK1/>
+*Non-empty subsets of {1,9} with multiple sums of 3 *
 
 > The Quamditch team[40] Hardy, the captain of the Rapporteur's home Quamditch team must decide the roster of the nine players on his home Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are such that the sum of the elements is multiple of 3?
 

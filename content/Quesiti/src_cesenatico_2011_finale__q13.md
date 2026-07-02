@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>multiply by 3,4,5 on different bases< MSK1/>
+*multiply by 3,4,5 on different bases*
 
 > A message from Egypt The code message Numerotris uses to ask friends from Wales to reach him in Egypt is a long sequence of 1000 digits between 0 and 8. To decode it, Parabolix notes that this number, read at base 10 is multiple of 3, read at base 9 is multiple of 4, and read at base 11 is multiple of 5. How much is the sum of the numbers on the paper worth at most?
 

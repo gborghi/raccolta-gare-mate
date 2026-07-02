@@ -65,8 +65,8 @@ tags:
 
 > Un anno $A$ viene chiamato *inteiro* (intero) quando le sue ultime due cifre non sono entrambe $0$ e il numero formato dalle ultime due cifre di $A$ divide esattamente $A$, cioè dà un risultato intero. Ad esempio, $2025$ e $2002$ sono anni interi, poiché $\frac{2025}{25}=81$ e $\frac{2002}{2}=1001$ sono numeri interi. D'altra parte, $2000$ e $2003$ non sono anni interi, poiché $2000$ termina in $00$ e $\frac{2003}{3}$ non è un numero intero.
 > 
-> (a) Quali sono i prossimi tre anni interi dopo < MSK0/>? Giustifica la tua risposta.
+> (a) Quali sono i prossimi tre anni interi dopo $2025$? Giustifica la tua risposta.
 > 
-> b) Quanti anni interi esistono tra < MSK0/> e < MSK1/>? Giustifica la tua risposta.
+> b) Quanti anni interi esistono tra $1900$ e $1999$? Giustifica la tua risposta.
 
 [[src_obm_2025_n1_fx__Q01]]

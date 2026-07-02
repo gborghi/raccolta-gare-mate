@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of not getting wet for three days in a row< MSK1/>
+*Probability of not getting wet for three days in a row*
 
 > It often happens this season that when Luke leaves school it rains: this happens with a probability of 2.5. For this reason Luke feels it appropriate to take an umbrella with him, but sometimes he forgets it; the probability that Luke forgets the umbrella in a single day is 12. What are the odds that for three days in a row, Luke never bathes on his way home from school? (A) less than 16, (B) between 16 and 13, (C) between 13 and 12, (D) between 12 and 2, (E) greater than 5. 6.
 

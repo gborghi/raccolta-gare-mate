@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solid other than the other four < MSK1/>
+*Solid other than the other four *
 
 ![[src_kangourou_2001_ecolier__prob13.png]]
 

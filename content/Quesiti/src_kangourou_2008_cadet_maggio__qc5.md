@@ -52,9 +52,9 @@ tags:
 
 *Equal subset = odd (999 and 1000 elements) *
 
-> A set of < MSK0/> elements is given. It shows that its subsets of an odd number of elements are as many as those of an equal number of elements. It then shows that the same thing is true for a set of $1000$ elements.
+> A set of $999$ elements is given. It shows that its subsets of an odd number of elements are as many as those of an equal number of elements. It then shows that the same thing is true for a set of $1000$ elements.
 > 
-> (Note: both the given set and the empty set are to be considered among the sub-sets, the empty set of which obviously consists of an equal number of elements.)
+> (Note: both the given set and the empty set are to be considered among the sub-sets, the empty set of which is obviously made up of an equal number of elements.)
 
 **Answer:** dimostrazione
 [[src_kangourou_2008_cadet_maggio__QC5]]

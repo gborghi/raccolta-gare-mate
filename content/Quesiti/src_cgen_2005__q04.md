@@ -130,13 +130,13 @@ tags:
 > 
 > Un numero intero $x\in[1;p-1]$ è chiamato modulo radice primitiva $p$ quando l'insieme del $(x^k \bmod p)$ per $k\in N$ è l'insieme $[1;p-1]$, vale a dire quando le potenze di $x$, modulo calcolato $p$, descrivono interamente $[1;p-1]$.
 > 
-> Per $p=5$: - $1$ non è un modulo radice primitivo $5$ poiché le sue potenze sono sempre uguali a $1$. - $2$ è un modulo radice primitivo $5$, poiché: $(2^0 \bmod 5)=1$, $(2^1 \bmod 5)=2$, $(2^2 \bmod 5)=4$, $(2^3 \bmod 5)=3$. - < MSK10/> è un modulo radicale primitivo < MSK11/>, poiché: < MSK12/>, < MSK13/>, < MSK14/>, < MSK15/>. - < MSK16/> non è una radice primitiva di < MSK17/> poiché < MSK18/>, < MSK19/> prende alternativamente il valore < MSK20/> o < MSK21/>.
+> Per $p=5$: - $1$ non è un modulo radice primitivo $5$ poiché le sue potenze sono sempre uguali a $1$. - $2$ è un modulo radice primitivo $5$, poiché: $(2^0 \bmod 5)=1$, $(2^1 \bmod 5)=2$, $(2^2 \bmod 5)=4$, $(2^3 \bmod 5)=3$. - $3$ è un modulo radicale primitivo $5$, poiché: $(3^0 \bmod 5)=1$, $(3^1 \bmod 5)=3$, $(3^2 \bmod 5)=4$, $(3^3 \bmod 5)=2$. - $4$ non è una radice primitiva di $5$ poiché $(4^k \bmod 5)$, $k\in N$ prende alternativamente il valore $1$ o $4$.
 > 
 > In questa domanda prendiamo $p=7$. Determinare le radici primitive modulo $7$.
 > 
 > Admettiamo che, qualunque sia il numero primo $p$, esiste almeno un modulo radice primitivo $p$. In quanto segue, indichiamo con $g$ un modulo radice primitivo $p$.
 > 
-> **2. a.** Indicare che l'insieme $\{g^k \bmod p\}$ per $k\in[0;p-2]$ è $[1;p-1]$. < MSK8/>b.< MSK9/> Lasciate < MSK3/>. Giustificare l'esistenza e l'unicità di un numero intero $a\in[1;p-2]$ tale che $A=(g^a \bmod p)$.
+> **2. a.** Indicare che l'insieme $\{g^k \bmod p\}$ per $k\in[0;p-2]$ è $[1;p-1]$. **b.** Lasciate $A\in[1;p-1]$. Giustificare l'esistenza e l'unicità di un numero intero $a\in[1;p-2]$ tale che $A=(g^a \bmod p)$.
 > 
 > $a$ è chiamato il logaritmo di base $g$ modulo $p$ di $A$; lo notiamo $\ell(A)$.
 > 
@@ -148,15 +148,15 @@ tags:
 > 
 > Questa parte sfrutta il fatto che la conoscenza dei logaritmi di alcuni numeri interi consente di determinare rapidamente il logaritmo di qualsiasi numero intero.
 > 
-> **1. ** Ci mettiamo nel caso $p=113$, $g=55$ e diamo $\ell(2)=60$, $\ell(3)=5$. Trova < MSK4/>.
+> **1. ** Ci mettiamo nel caso $p=113$, $g=55$ e diamo $\ell(2)=60$, $\ell(3)=5$. Trova $\ell(54)$.
 > 
 > Supponiamo da ora in poi, per il resto di questa parte, i numeri primi $p_1,\ldots,p_n$ strettamente inferiori a $p$ e gli enti $a_1,\ldots,a_n$ in modo tale che, per tutti $i\in[1;n]$, i fattori primi di $(g^i \bmod p)$ appartengono a $[p_1;\cdots;p_n]$. Per ogni $i\in[1;n]$, abbiamo quindi una relazione $(g^{a_i} \bmod p)=p_1^{e_{i,1}}p_2^{e_{i,2}}\cdots p_n^{e_{i,n}}$ in cui $e_{i,j}$ per $(i,j)\in[1;n]^2$ sono integri naturali.
 > 
-> < MSK2/>2. < MSK3/> Indicare che, per tutti < MSK0/>, < MSK1/>.
+> **2. ** Indicare che, per tutti $i\in[1;n]$, $a_i=e_{i,1}\ell(p_1)+e_{i,2}\ell(p_2)+\cdots+e_{i,n}\ell(p_n)\ (\mathrm{modulo}\ (p-1))$.
 > 
-> In questa domanda prendiamo $p=53$, $g=20$, $n=2$, $p_1=2$, $p_2=5$. < MSK16/>a.< MSK17/> Con l'aiuto di < MSK5/> e < MSK6/>, determinare < MSK7/> e < MSK8/>. < MSK18/>b.< MSK19/> Riduzione < MSK9/>. **c.** Quanti integri di $[1;52]$ possono essere scritti nella forma $2^\alpha 5^\beta$, con $\alpha$ e $\beta$ integri naturali?
+> In questa domanda prendiamo $p=53$, $g=20$, $n=2$, $p_1=2$, $p_2=5$. **a.** Con l'aiuto di $g$ e $g^3$, determinare $\ell(2)$ e $\ell(5)$. **b.** Riduzione $\ell(40)$. **c.** Quanti integri di $[1;52]$ possono essere scritti nella forma $2^\alpha 5^\beta$, con $\alpha$ e $\beta$ integri naturali?
 > 
-> < MSK12/>4. < MSK13/> Lasciate < MSK0/>. **a.** Indicare che l'insieme $\{g^s A \bmod p\}$ per $s\in[0;p-2]$ è $[1;p-1]$. **b.** Supponiamo conosciuto $s\in N$ in modo tale che $(g^s A \bmod p)$ factorizza con l'aiuto di $p_1,\ldots,p_n$ in modo unico. Supponiamo conosciuto $\ell(p_1),\ldots,\ell(p_n)$, dedurre $\ell(A)$. < MSK18/>c.< MSK19/> Con < MSK9/> e < MSK10/>, determinare < MSK11/>.
+> **4. ** Lasciate $A\in[1;p-1]$. **a.** Indicare che l'insieme $\{g^s A \bmod p\}$ per $s\in[0;p-2]$ è $[1;p-1]$. **b.** Supponiamo conosciuto $s\in N$ in modo tale che $(g^s A \bmod p)$ factorizza con l'aiuto di $p_1,\ldots,p_n$ in modo unico. Supponiamo conosciuto $\ell(p_1),\ldots,\ell(p_n)$, dedurre $\ell(A)$. **c.** Con $p=53$ e $g=20$, determinare $\ell(30)$.
 > 
 > Ritorniamo al caso generale. **a.** Qual è il numero di integri di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
 

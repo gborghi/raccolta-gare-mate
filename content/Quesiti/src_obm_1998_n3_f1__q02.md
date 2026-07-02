@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Cross-reference al problema 2 del livello 2 (dichiarazione non presente in queste pagine).< MSK1/>
+*Cross-reference al problema 2 del livello 2 (dichiarazione non presente in queste pagine).*
 
 > Vedi il problema 2 del livello 2.
 

@@ -61,7 +61,7 @@ tags:
 
 > Uno dei seguenti è il più grande quadrato che è un fattore di $10!$. - Quale?
 > 
-> Si noti che < MSK0/>.
+> Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
 >
 > - **(A)** $(4!)^2$
 > - **(B)** $(5!)^2$

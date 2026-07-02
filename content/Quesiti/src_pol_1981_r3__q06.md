@@ -56,6 +56,6 @@ tags:
 
 *Per un tetraedro di volume V con S la somma dei quadrati delle sue lunghezze di bordo, provare V <= S*sqrt(S)/(72*sqrt(3)).*
 
-> In un tetraedro di volume $V$ la somma dei quadrati delle lunghezze dei suoi bordi è uguale a $S$. Provare che < MSK0/>
+> In un tetraedro di volume $V$ la somma dei quadrati delle lunghezze dei suoi bordi è uguale a $S$. Provare che $$V \le \frac{S\sqrt{S}}{72\sqrt{3}}.$$
 
 [[src_pol_1981_r3__Q06]]

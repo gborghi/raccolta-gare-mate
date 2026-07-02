@@ -109,19 +109,19 @@ tags:
 > 
 > 1. In primo luogo, Mathis desidera posizionare le maniglie in modo da permettere di passare diversi tipi di corsi.
 > 
-> A) In questa domanda, Mathis vuole mettere una singola presa sul muro. Determinare le condizioni relative a $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha \in \left]0, \frac{\pi}{2}\right]$ che consentono il posizionamento di una singola presa in modo che vi sia un corso $l_1$ e un corso $l_2$, ognuno di dimensioni uguali a $1$. b) Let < MSK5/>. In questa domanda, Mathis vuole mettere le maniglie sul muro. Determinare le condizioni di $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha$ in modo che ci siano $l_1$ corsi di dimensioni $n$ e $l_2$ corsi di dimensioni $1$ (griglie $n$), ognuno utilizzando un corso diverso.
+> A) In questa domanda, Mathis vuole mettere una singola presa sul muro. Determinare le condizioni relative a $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha \in \left]0, \frac{\pi}{2}\right]$ che consentono il posizionamento di una singola presa in modo che vi sia un corso $l_1$ e un corso $l_2$, ognuno di dimensioni uguali a $1$. b) Let $n > 1$. In questa domanda, Mathis vuole mettere le maniglie sul muro. Determinare le condizioni di $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha$ in modo che ci siano $l_1$ corsi di dimensioni $n$ e $l_2$ corsi di dimensioni $1$ (griffi $n$), ognuno utilizzando un corso diverso.
 > 
 > 2. In questa domanda, supponiamo $\alpha < \frac{\pi}{2}$. Mathis vuole costruire una configurazione che permetta la coesistenza di due corsi con caratteristiche distinte: un corso $l_1$ di dimensioni $t_1$ e un corso $l_2$ di dimensioni $t_2$.
 > 
 > Determinare il numero minimo di agganci $N(l_1, l_2, t_1, t_2, \alpha)$ necessari per ottenere una configurazione contenente contemporaneamente un corso $l_1$ di dimensioni $t_1$ e un corso $l_2$ di dimensioni $t_2$.
 > 
-> 3. In questa domanda si può limitare al caso $\alpha = \frac{\pi}{2}$. Per modellare il fatto che alcuni movimenti sono più esigenti di altri, Mathis vuole associare ad ogni passo di un percorso un movimento scelto tra diversi tipi, ad esempio un movimento facile (a distanza $l_1$) o un movimento difficile (a distanza $l_2$) con $l_1 < l_2$.
+> 3. In questa domanda si può limitare al caso $\alpha = \frac{\pi}{2}$. Al fine di modellare il fatto che alcuni movimenti sono più esigenti di altri, Mathis desidera associare ad ogni passo di un percorso un movimento scelto tra diversi tipi, ad esempio un movimento facile (a distanza $l_1$) o un movimento difficile (a distanza $l_2$) con $l_1 < l_2$.
 > 
-> a) Let < MSK0/>. Determinare, in funzione di $n$, $l_1$ e $l_2$, il numero minimo di maniglie che sarebbe necessario utilizzare per consentire l'esecuzione di movimenti $n$ da un determinato punto di partenza fisso $A_0$, scegliendo ad ogni passaggio tra un movimento facile e un movimento difficile. b) Ripetere la domanda precedente con più tipi di movimenti. Uno inizia con $3$ tipi di movimenti.
+> a) Let $n > 0$. Determinare, in funzione di $n$, $l_1$ e $l_2$, il numero minimo di maniglie che sarebbe necessario utilizzare per consentire l'esecuzione di movimenti $n$ da un determinato punto di partenza fisso $A_0$, scegliendo ad ogni passo tra un movimento facile e un movimento difficile. b) Ripetere la domanda precedente con più tipi di movimenti. Uno inizia con $3$ tipi di movimenti.
 > 
 > 4. Aprendo una vecchia scatola, Mathis scopre alcune manovre di arrampicata. Desidera disposirli sul muro per ottenere il maggior numero possibile di corsi realizzabili.
 > 
-> a) Per un angolo $\alpha$ e una lunghezza $l > 0$ fissa e per le maniglie $n$, determinare l'impostazione delle maniglie $n$ che massimizzi il numero di corsi $l$ distinti possibili. Due corsi sono considerati uguali se passano esattamente attraverso le stesse manovre (il punto di partenza non conta). b) Discutere il caso in cui sono autorizzate diverse lunghezze di movimento (ad esempio $l_1 < l_2$), e proporre la configurazione che consente contemporaneamente un gran numero di corsi di diversi tipi.
+> a) Per un angolo $\alpha$ e una lunghezza $l > 0$ fissa, e per le maniglie $n$, determinare l'arredamento delle maniglie $n$ che massimizzi il numero di corsi $l$ distinti possibili. Due corsi sono considerati uguali se passano esattamente attraverso le stesse manovre (il punto di partenza non conta). b) Discutere il caso in cui sono autorizzate diverse lunghezze di movimento (ad esempio $l_1 < l_2$), e proporre la configurazione che consente contemporaneamente un gran numero di corsi di diversi tipi.
 > 
 > Domanda complementare. Proporre e studiare altre direzioni di ricerca.
 

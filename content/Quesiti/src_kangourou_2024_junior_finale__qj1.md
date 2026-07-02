@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>More are reducing or non-reducing fractions (1..12) < MSK1/>
+*More are reducing or non-reducing fractions (1..12) *
 
 > Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 included. Are these more reducing fractions or irreducible fractions?
 

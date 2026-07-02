@@ -63,7 +63,7 @@ tags:
 
 *Maximum number of L-tetramins that can be placed without overlapping in a 6x5 chessboard. *
 
-> 1 - QUADRAMINI (coefficient 1) Mathias has a rectangular chessboard of < MSK0/> boxes and a set of identical pieces with the shape represented in gray in the figure (a tetrammaton in L). How many pieces can Mathias put inside the chessboard without overlapping? Note: You can rotate the pieces.
+> 1 - QUADRAMINIES (coefficient 1) Mathias has a rectangular chessboard of $6 \times 5$ boxes and a set of identical pieces with the shape represented in gray in the figure (a tetrammaton in L). How many pieces can Mathias put inside the chessboard without overlapping? Note: You can rotate the pieces.
 
 ![[src_bocconi_finaleint_2009_g1__Q01.png]]
 

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tasks containing bananas by weight < MSK1/>
+*Tasks containing bananas by weight *
 
 ![[src_kangourou_2022_ecolier_finale__probE4.png]]
 

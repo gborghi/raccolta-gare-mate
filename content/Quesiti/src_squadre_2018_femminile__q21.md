@@ -51,49 +51,7 @@ tags:
 > )(1
 > )
 > p x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
-> x
 > 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
 > . 
 > La musica cesserà se si riuscirà ad eliminare i termini di grado 11 ,12 e 13 di 
 > ( )
@@ -127,9 +85,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coefficients a,b,c of degrees 11,12,13 in product of polynomials< MSK1/>
+*Coefficients a,b,c of degrees 11,12,13 in product of polynomials*
 
-> A musical motif resembling a call is storming the earth. No one knows what it is, but Fry has to find out. A terrible spaceship is crushing the planets in search of something. Beuler, using his positronic brain, manages to translate music into the polynomial 2 3 4 5 2 3 4 5 6 7 ( ) (1 ))  1 ) p x x x x x x x x x x x x x x x x x x x x                                                                                                  The music will stop if you can eliminate the terms degree 11 , 12 and 13 of ( ) p x . Beuler sets the calculation by writing 11 12 13 ( ) ( ) p x ax bx cx    , but how much are a , b and c ? (Give the answer to b c ).
+> A musical motif resembling a call is storming the earth. No one knows what it is, but Fry has to find out. A terrible spaceship is crushing the planets in search of something. Beuler, using his positronic brain, manages to translate music into the polynomial 2 3 4 5 2 3 4 5 6 7 ( ) (1 ))  1 ) p                                                                                                  The music will stop if you can eliminate the terms degree 11 , 12 and 13 of ( ) p x . Beuler sets the calculation by writing 11 12 13 ( ) ( ) p x ax bx cx    , but how much are a , b and c ? (Give the answer to b c ).
 
 **Answer:** 0124
 [[src_squadre_2018_femminile__Q21]]

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum k factors to be deleted without actual solutions< MSK1/>
+*Minimum k factors to be deleted without actual solutions*
 
 > The equation $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$ is written on the board, with $2016$ linear factors on each side. What is the minimum possible value of $k$ for which exactly $k$ of these $4032$ linear factors can be deleted so that at least one factor per side remains and the resulting equation has no real solutions?
 

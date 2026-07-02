@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Prove expression involving binomial coefficients is an integer< MSK1/>
+*Prove expression involving binomial coefficients is an integer*
 
 > Let $m$ and $n$ be arbitrary non-negative integers. Prove that $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$ is an integer. ($0! = 1$.)
 

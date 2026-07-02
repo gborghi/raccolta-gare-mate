@@ -47,7 +47,7 @@ tags:
 
 *Tangente e secante dal punto esterno, prova di uguale angolazione*
 
-> Dal punto $P$, al di fuori di un cerchio, tracciare due tangenti al cerchio che si toccano ai punti $A$ e $B$. Tracciare una linea secante che interseca il cerchio nei punti $C$ e $D$, con $C$ tra $P$ e $D$. Selezionare il punto $Q$ sull'accordo $CD$ in modo tale che $\angle DAQ = \angle PBC$. Prova che < MSK11/>.
+> Dal punto $P$, al di fuori di un cerchio, tracciare due tangenti al cerchio che si toccano ai punti $A$ e $B$. Tracciare una linea secante che incrocia il cerchio nei punti $C$ e $D$, con $C$ tra $P$ e $D$. Selezionare il punto $Q$ sull'accordo $CD$ in modo tale che $\angle DAQ = \angle PBC$. Prova che $\angle DBQ = \angle PAC$.
 
 ![[src_cn_cmc-extra-test_2003__Q01.png]]
 

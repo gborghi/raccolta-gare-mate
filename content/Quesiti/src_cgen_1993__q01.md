@@ -74,7 +74,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 
 > Chiamiamo una scatola di pesi **** qualsiasi insieme finito di pesi composto da: $$x_1 \text{ weights of } d_1 \text{ grams each,}$$ $$x_2 \text{ weights of } d_2 \text{ grams each,}$$ $$\vdots$$ $$x_k \text{ weights of } d_k \text{ grams each.}$$ $$x_k \text{ weights of } d_k \text{ grams each.}$$ I numeri $x_i$ e $d_i$ (per $1 \le i \le k$) sono numeri naturali non zero come $$1 \le d_1 < d_2 < \cdots < d_k.$$ Settiamo $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$ e diciamo che la massa totale della scatola è $n$ grammi.
 > 
-> Una scatola di pesi è chiamata **perfetta** se consente di ottenere, in modo unico, ogni massa $m$ da $\{0, 1, \ldots, n\}$: cioè, per ogni intero $m$ in $\{0, 1, \ldots, n\}$, esistono enti unici $y_1, y_2, \ldots, y_k$ in modo tale che per ogni indice $i$, $1 \le i \le k$, si abbia $0 \le y_i \le x_i$ e $m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k$.
+> Una scatola di pesi è chiamata **perfetta** se consente di ottenere, in modo unico, ogni massa $m$ da $\{0, 1, \ldots, n\}$: cioè, per ogni intero $m$ in $\{0, 1, \ldots, n\}$, esistono enti unici $y_1, y_2, \ldots, y_k$ in modo che per ogni indice $i$, $1 \le i \le k$, si abbia $0 \le y_i \le x_i$ e $m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k$.
 > 
 > **1.** Determinare tutte le scatole di pesi di massa totale $5$ grammi. Quale di queste è perfetta?
 > 
@@ -82,6 +82,6 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > **3.** Invece, dati $k$ numeri interi rigorosamente positivi $x_1, x_2, \ldots, x_k$ ($k$ non zero) in modo che $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k),$$ dimostri che esistono numeri interi $d_1, d_2, \ldots, d_k$ con $1 \le d_1 < d_2 < \cdots < d_k$ in modo che la scatola di pesi composta da pesi $x_1$ di grammi $d_1$, pesi $x_2$ di grammi $d_2$, pesi $\ldots$ di grammi $x_k$ sia perfetta.
 > 
-> < MSK1/>4.< MSK2/> Determina tutte le scatole perfette di pesi di massa totale < MSK0/> grammi.
+> **4.** Determina tutte le scatole perfette di pesi di massa totale $1993$ grammi.
 
 [[src_cgen_1993__Q01]]

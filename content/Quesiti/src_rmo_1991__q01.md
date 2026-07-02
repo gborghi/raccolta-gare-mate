@@ -49,6 +49,6 @@ tags:
 
 *Cevians attraverso il punto interno, prova che la somma del rapporto è uguale a uno*
 
-> Che $P$ sia un punto interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ incontrino rispettivamente i lati $BC$, $CA$, $AB$ in $D$, $E$ e $F$. Indicare che < MSK0/>
+> Che $P$ sia un punto interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ incontrino rispettivamente i lati $BC$, $CA$, $AB$ in $D$, $E$ e $F$. Indicare che $$\frac{AP}{PD} = \frac{AF}{FB} + \frac{AE}{EC}.$$
 
 [[src_rmo_1991__Q01]]

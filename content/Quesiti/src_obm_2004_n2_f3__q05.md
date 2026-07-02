@@ -56,11 +56,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Punto medio dell'ipotenusa; circoncenti di sotto triangoli; tangenza*
+*Midpoint of hypotenuse; circumcenters of sub-triangles; tangency*
 
-> Il punto medio della ipotenusa $AB$ di un triangolo rettangolo $ABC$ (con angolo retto a $C$) è $D$. $O_1$ e $O_2$ siano rispettivamente i circoncentri dei triangoli $ADC$ e $DBC$.
+> $D$ sia il punto medio dell'ipotenusa $AB$ di un triangolo rettangolo $ABC$ (con angolo retto a $C$). $O_1$ e $O_2$ siano rispettivamente i circoncenti dei triangoli $ADC$ e $DBC$.
 > 
-> a) Indicare che < MSK0/>.
+> a) Indicare che $\angle O_1 D O_2 = 90^\circ$.
 > 
 > b) Indicare che $AB$ è tangente al cerchio di diametro $O_1 O_2$.
 

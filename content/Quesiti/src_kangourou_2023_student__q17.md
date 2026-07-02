@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little n with an interval containing at least 4 integers< MSK1/>
+*Little n with an interval containing at least 4 integers*
 
 > What is the smallest nonnegative integer n such that the interval of extremes (n + 8)/2 and (2n + 14)/3, extremes included, contains at least four integers? A) 19
 > 	

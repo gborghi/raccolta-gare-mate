@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shorter route between roof slopes< MSK1/>
+*Shorter route between roof slopes*
 
 ![[src_gs_2011_squadre__prob16.png]]
 

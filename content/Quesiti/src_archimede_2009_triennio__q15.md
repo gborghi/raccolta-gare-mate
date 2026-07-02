@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little number with sum of 83 and product 1024< MSK1/>
+*Little number with sum of 83 and product 1024*
 
 > On my board are written some positive integers, not necessarily distinct. If I add them up, I find 83, if I multiply them, I find 1024. What's the smallest number written on my board?
 >

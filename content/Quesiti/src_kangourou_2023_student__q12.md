@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>sum of N digits with N!=6!< MSK1/>7!< MSK2/>
+*sum of N digits with N!=6!*7!*
 
 > For a positive integer n, the factorial of n, denoted by n!, is defined as the product of all integers from 1 to n. What is the sum of the digits of N if N!=6! × 7! ? A) 1
 > 	

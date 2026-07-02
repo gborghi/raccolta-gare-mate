@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Lunghezza minima della corda per legare 15 confezioni< MSK1/>
+*Lunghezza minima della corda per legare 15 confezioni*
 
 > Qual è il numero minimo di metri di corda necessari per legare 15 imballaggi, dato che ogni imballaggio misura $10\,\mathrm{cm} \times 20\,\mathrm{cm} \times 40\,\mathrm{cm}$ e 20 cm di corda sono riservati per l'arco?
 > 

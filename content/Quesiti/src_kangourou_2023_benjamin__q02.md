@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> order of wrapping< MSK1/>
+* order of wrapping*
 
 ![[src_kangourou_2023_benjamin__prob2.png]]
 

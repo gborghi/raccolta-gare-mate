@@ -47,6 +47,6 @@ tags:
 
 *Punto medio dell'accordo attraverso due intersezioni di circoncircolo in quadrilaterali convexi*
 
-> Che < MSK0/> sia un quadrilaterale convex. Il $O$ è l'intersezione di $AC$ e $BD$. I $M$ e $N$ siano le intersezioni del circoncircolo di $\triangle OAD$ con il circoncircolo di $\triangle OBC$. Il $T$ e il $S$ siano le intersezioni di $MN$ con il circoncircolo di $\triangle OAB$ e $\triangle OCD$ rispettivamente. Prova che $M$ è il punto medio di $TS$.
+> Che $ABCD$ sia un quadrilaterale convex. Il $O$ è l'intersezione di $AC$ e $BD$. I $M$ e $N$ siano le intersezioni del circoncircolo di $\triangle OAD$ con il circoncircolo di $\triangle OBC$. Il $T$ e il $S$ sono le intersezioni di $MN$ con il circoncircolo di $\triangle OAB$ e $\triangle OCD$ rispettivamente. Prova che $M$ è il punto medio di $TS$.
 
 [[src_cn_cgmo_2006__Q02]]

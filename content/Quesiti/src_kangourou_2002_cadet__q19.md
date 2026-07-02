@@ -52,7 +52,7 @@ tags:
 
 Minimum coins on the 2x9 grid
 
-> In some of the squares that make up a grid of 2 < MSK0/> 9 there are coins. Each square either contains a coin or has a side in common with a square containing one. The number of coins on the grid shall be at least A. 5           B. 6          C. 7          D. 8          E. 9.
+> In some of the squares that make up a grid of 2 × 9 there are coins. Each square either contains a coin or has a side in common with a square containing one. The number of coins on the grid shall be at least A. 5           B. 6          C. 7          D. 8          E. 9.
 
 **Answer:** A
 [[src_kangourou_2002_cadet__Q19]]

@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bisexual years with a sum of 6 digits between 0 and 7000< MSK1/>
+*Bisexual years with a sum of 6 digits between 0 and 7000*
 
-> In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is $6$ (e.g. year $1060$ is even-numbered). How many leap years have there been between year zero and year MSK2/?
+> In the IMES calendar, even years are those corresponding to numbers whose sum of digits is $6$ (e.g. year $1060$ is even). How many leap years have there been between year zero and year$7000$?
 
 **Answer:** 0084
 [[src_archimede_2001_pubblico__Q13]]

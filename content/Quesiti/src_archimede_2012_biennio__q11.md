@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to place pearless fruit between two apples< MSK1/>
+*How to place pearless fruit between two apples*
 
 > Charles has six apples and six pears: how many ways can he line up 6 fruits so that between two apples there is never any pear?
 >

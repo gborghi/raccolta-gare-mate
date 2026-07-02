@@ -48,6 +48,6 @@ tags:
 
 *Triangolo, punti laterali, linea che incontra il bisettore perpendicolare; rapporto angolare*
 
-> $ABC$ sia un triangolo con $AC > AB$. Il punto $X$ si trova sul lato $BA$ esteso attraverso $A$, e il punto $Y$ si trova sul lato $CA$ in modo tale che $BX = CA$ e $CY = BA$. La linea $XY$ incontra il bisettore perpendicolare del lato $BC$ a $P$. Indicare che < MSK0/>
+> $ABC$ sia un triangolo con $AC > AB$. Il punto $X$ si trova sul lato $BA$ esteso attraverso $A$, e il punto $Y$ si trova sul lato $CA$ in modo tale che $BX = CA$ e $CY = BA$. La linea $XY$ incontra il bisettore perpendicolare del lato $BC$ a $P$. Indicare che $$\angle BPC + \angle BAC = 180^\circ.$$
 
 [[src_bmo_2005-06_round2__Q03]]

@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ratio di superficie dipinta in rosso a bianco di un cubo tagliato in 27 piccoli cubi< MSK1/>
+*Ratio di superficie dipinta in rosso a bianco di un cubo tagliato in 27 piccoli cubi*
 
 > Un cubo di legno, dipinto in rosso, fu tagliato in 27 cubetti uguali, come nella figura. Alcuni di questi cubetti avevano ancora volti non dipinti (bianchi). Qual è il rapporto tra la superficie totale dipinta in rosso e la superficie totale bianca?
 > 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di griglie rimosse da carta 8x8 per bloccare tutti i T-pentominoes< MSK1/>
+*Minimum di griglie rimosse da carta 8x8 per bloccare tutti i T-pentominoes*
 
 > Su un pezzo di carta grafica $8 \times 8$, almeno quante griglie devono essere tolte, e non possiamo tagliare una "T" che ha cinque griglie come mostrato nella figura. 1? (Posato da Sun Wen-Hsien)
 

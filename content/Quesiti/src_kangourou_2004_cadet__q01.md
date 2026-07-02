@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-The results of the 2004-4 MSK1/>200 MSK2/>
+The results of the 2004-4*200*
 
 > What's the result of 2004 minus 4 x 200? A) 400800   B) 400000  C) 1204      D)  1200     E)  2804
 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>outcome not possible< MSK1/>
+*outcome not possible*
 
 > Samuel's playing with the calculator. Start with number 12 and multiply or divide (if possible) by 2 or by 3, 60 times in a row. Which of the following results cannot be achieved? A) 12
 > 	

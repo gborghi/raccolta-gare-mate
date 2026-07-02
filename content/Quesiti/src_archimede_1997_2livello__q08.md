@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Final position after 1997 steps on square sheet< MSK1/>
+*Final position after 1997 steps on square sheet*
 
 ![[src_archimede_1997_2livello__prob8.png]]
 

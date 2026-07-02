@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Summa della popolazione tre anni fa data l'attuale crescita < MSK1/>
+*Summa della popolazione tre anni fa data l'attuale crescita *
 
-> Tre anni fa, la popolazione di Pirajussara era uguale a quella di Tucupira oggi. Da allora, la popolazione di Pirajussara non è cambiata, mentre la popolazione di Tucupira è cresciuta di < MSK0/>. Attualmente, entrambe le città insieme hanno < MSK1/> abitanti. Qual era la somma della popolazione delle due città tre anni fa?
+> Tre anni fa, la popolazione di Pirajussara era uguale a quella di Tucupira oggi. Da allora, la popolazione di Pirajussara non è cambiata, mentre la popolazione di Tucupira è cresciuta di $50\%$. Attualmente, entrambe le città insieme hanno $9{,}000$ abitanti. Qual era la somma della popolazione delle due città tre anni fa?
 > 
 > A) $3{,}600$ \quad B) $4{,}500$ \quad C) $5{,}000$ \quad D) $6{,}000$ \quad E) $7{,}500$
 

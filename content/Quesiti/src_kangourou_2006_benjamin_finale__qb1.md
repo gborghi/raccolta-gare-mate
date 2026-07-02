@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>MALE number given MELA minimum with distinct digits< MSK1/>
+*MALE number given MELA minimum with distinct digits*
 
 > *(5 points) * The letters of the word "MALE" are all distinct from each other. He makes each letter of this word correspond to a digit so that the word "BLE" represents the smallest number of four digits all distinct from each other. While maintaining this choice of numbers, what number is represented by the word "MALE"?
 

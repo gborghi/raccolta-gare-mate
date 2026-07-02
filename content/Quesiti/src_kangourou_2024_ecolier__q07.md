@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many gray tiles does the poster hide< MSK1/>
+*How many gray tiles does the poster hide*
 
 ![[src_kangourou_2024_ecolier__prob7.png]]
 

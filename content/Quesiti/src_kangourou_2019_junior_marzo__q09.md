@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fragment of syrup for packing two litres of beverage< MSK1/>
+*Fragment of syrup for packing two litres of beverage*
 
 > A beverage should be packaged by mixing raspberry syrup with water in a ratio of 1: 7. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage? A) 1/4 B) 1/2
 > 	

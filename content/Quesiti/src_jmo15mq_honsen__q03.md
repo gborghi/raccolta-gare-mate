@@ -46,8 +46,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ineguaglianza a radice cubica per i valori reali positivi che sommano a 1 < MSK1/>
+*Ineguaglianza a radice cubica per i valori reali positivi che sommano a 1 *
 
-> $a,b,c$ siano numeri reali positivi che soddisfino $a+b+c=1$. Provare che < MSK0/>
+> $a,b,c$ siano numeri reali positivi che soddisfino $a+b+c=1$. Provare che $$a\sqrt[3]{1+b-c}+b\sqrt[3]{1+c-a}+c\sqrt[3]{1+a-b}\le 1.$$
 
 [[src_jmo15mq_honsen__Q03]]

@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which n true< MSK1/>
+* for which n true*
 
-> Consider the inequality < MSK0/>
+> Consider the inequality $$\left(x_1 + x_2 + \cdots + x_n\right)^2 \geq 4(x_1 x_2 + x_2 x_3 + \cdots + x_n x_1).$$
 > 
 > (a) Determine for which $n \geq 3$ is true for each possible choice of positive real numbers $x_1, x_2, \ldots, x_n$.
 > 

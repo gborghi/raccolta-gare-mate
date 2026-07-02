@@ -76,7 +76,7 @@ tags:
 > 
 > **2.** Indicare una rappresentazione parametrica di ciascuna delle linee $D_1, D_2$ e $D_3$.
 > 
-> < MSK3/>3.< MSK4/> Indicare che le righe < MSK0/> e < MSK1/> sono contenute in < MSK2/>.
+> **3.** Indicare che le righe $D_1, D_2$ e $D_3$ sono contenute in $\mathscr{S}$.
 > 
 > **4.** Indicare che ogni linea di spazio non contenuta in $\mathscr{S}$ incontra $\mathscr{S}$ nei punti $0$, $1$ o $2$.
 > 

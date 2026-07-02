@@ -46,9 +46,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum balls by 15 of the same colour< MSK1/>
+*Minimum balls by 15 of the same colour*
 
-> A box contains < MSK0/> coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be extracted to be sure that they have at least < MSK7/> of the same colour?
+> A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be extracted to be sure that they have at least $15$ of the same colour?
 
 **Answer:** 75
 [[src_kangourou_2003_cadet_finale__QC2]]

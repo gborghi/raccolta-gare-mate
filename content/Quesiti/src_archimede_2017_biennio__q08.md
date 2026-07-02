@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (a,b) with MCD 2 and mcm 60< MSK1/>
+*Pairs (a,b) with MCD 2 and mcm 60*
 
 > How many pairs of positive integers (a, b), with a < b, such that MCD(a, b) = 2 and mcm(a, b) = 60?
 >

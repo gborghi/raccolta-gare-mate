@@ -50,6 +50,6 @@ tags:
 
 *La linea attraverso il vertice C del parallelo raggiunge le estensioni dei lati*
 
-> Una linea attraverso la vertica $C$ di un parallelo $ABCD$ risponde alle estensioni dei lati $AB$ e $AD$ rispettivamente a $E$ e $F$. Provare che < MSK0/>
+> Una linea attraverso la vertica $C$ di un parallelo $ABCD$ risponde alle estensioni dei lati $AB$ e $AD$ rispettivamente a $E$ e $F$. Provare che $$AC^2 + CE \cdot CF = AB \cdot AE + AD \cdot AF.$$
 
 [[src_inmo_1997__Q01]]

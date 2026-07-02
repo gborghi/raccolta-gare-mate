@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum integer dividing p(2024) by p(1) = 7 p(2) = 15< MSK1/>
+*Maximum integer dividing p(2024) by p(1) = 7 p(2) = 15*
 
 > The road to Inspector Gauget's shelter lies at the base of a 600 m long conical mountain with a base radius of 150 m. He must capture a fugitive, hidden in the shelter that is on the side of the mountain exactly 150 meters from him towards the top of the mountain. To reach the shelter, the inspector takes the shortest route, which also makes a complete tour around the mountain; note that, curiously, the route is firstly up and then down. How many meters is the climb?
 

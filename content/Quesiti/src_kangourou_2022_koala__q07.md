@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many squares are stained< MSK1/>
+*how many squares are stained*
 
 ![[src_kangourou_2022_koala__prob7.png]]
 

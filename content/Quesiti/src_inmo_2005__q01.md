@@ -51,7 +51,7 @@ tags:
 
 *Mediano incircolo; prova lati in rapporto 5:10:13*
 
-> $M$ sia il punto medio del lato $BC$ di un triangolo $ABC$. La media < MSK3/> interseca l'incircolo di < MSK4/> a < MSK5/> e < MSK6/>, < MSK7/> più vicina a < MSK8/> che a < MSK9/>. Se $AK = KL = LM$, dimostrare che i lati del triangolo $ABC$ sono nel rapporto $5 : 10 : 13$ in un certo ordine.
+> $M$ sia il punto medio del lato $BC$ di un triangolo $ABC$. La media $AM$ interseca l'incircolo di $ABC$ a $K$ e $L$, $K$ più vicina a $A$ che a $L$. Se $AK = KL = LM$, dimostrare che i lati del triangolo $ABC$ sono nel rapporto $5 : 10 : 13$ in un certo ordine.
 
 ![[src_inmo_2005__Q01.png]]
 

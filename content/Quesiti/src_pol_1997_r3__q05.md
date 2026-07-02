@@ -52,6 +52,6 @@ tags:
 
 *ABCDE pentagono convex con DC=DE, angolo DCB=angolo DEA=90 deg; F su AB con AF:BF=AE:BC; dimostrare due ugualità angolari.*
 
-> Si dà un pentagono convexo $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Il segmento $AB$ deve contenere un punto $F$ in modo tale che $AF : BF = AE : BC$. Provare che < MSK0/>
+> Si dà un pentagono convexo $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Il segmento $AB$ deve contenere un punto $F$ in modo tale che $AF : BF = AE : BC$. Provare che $$\angle FCE = \angle ADE \quad \text{and} \quad \angle FEC = \angle BDC.$$
 
 [[src_pol_1997_r3__Q05]]

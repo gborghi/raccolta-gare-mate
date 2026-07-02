@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nombre massimo di mesi in un anno con cinque domeniche< MSK1/>
+*Nombre massimo di mesi in un anno con cinque domeniche*
 
 > In un anno, quante mesi hanno cinque domeniche al massimo? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 

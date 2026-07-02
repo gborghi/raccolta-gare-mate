@@ -60,7 +60,7 @@ tags:
 
 > Su una tabella rettangolare con righe $6$ e colonne $9$ sono occupati quadrati $32$. Possiamo affermare che:
 > 
-> (A) Tutte le colonne hanno almeno < MSK0/> quadrati occupati. \quad (B) Nessuna colonna ha più di $3$ quadrati occupati. \quad (C) Una colonna non ha quadrati occupati. \quad (D) Qualche riga ha almeno $6$ quadrati occupati. \quad (E) Tutte le righe hanno almeno $4$ quadrati occupati.
+> (A) Tutte le colonne hanno almeno $3$ quadrati occupati. \quad (B) Nessuna colonna ha più di $3$ quadrati occupati. \quad (C) Una colonna non ha quadrati occupati. \quad (D) Qualche riga ha almeno $6$ quadrati occupati. \quad (E) Tutte le righe hanno almeno $4$ quadrati occupati.
 
 **Risposta:** D
 [[src_obm_2001_n1_f1__Q16]]

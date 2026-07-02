@@ -56,6 +56,6 @@ tags:
 
 *Trova la cifra n: un moltiplo di 7 fiancheggiato dal 2004 e un numero di cifre del 2005*
 
-> Esmeralda ha digitato correttamente un multiple di < MSK0/> superiore a un miliardo, con cifre < MSK1/>. Alla sua sinistra ha scritto il numero $2004$ e alla sua destra, $1$, ottenendo nuovi numeri $2004\ldots1$ con una cifra $n$ e $2005$. Qual è il valore di $n$? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+> Esmeralda ha digitato correttamente un multiple di $7$ superiore a un miliardo, con cifre $4010$. Alla sua sinistra ha scritto il numero $2004$ e alla sua destra, $1$, ottenendo nuovi numeri $2004\ldots1$ con una cifra $n$ e $2005$. Qual è il valore di $n$? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
 [[src_obm_2005_n3_f1__Q05]]

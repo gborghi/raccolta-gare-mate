@@ -54,6 +54,6 @@ tags:
 
 *Isosceles trapezoide, diagonale di 100 m, angolo 30°, trovare S/sqrt(3) *
 
-> Un trapezoide $ABCD$ con i lati paralleli $AB$ e $CD$ è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. $S$ sia la superficie del trapezoide in $\text{m}^2$. Determinare < MSK9/>.
+> Un trapezoide $ABCD$ di uguali braccia, con lati paralleli $AB$ e $CD$, è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. $S$ sia la superficie del trapezoide in $\text{m}^2$. Determinare $S/\sqrt{3}$.
 
 [[src_obm_2008_n3_f2__Q01]]

@@ -52,6 +52,6 @@ tags:
 
 *Triangolo acuto: locus di P in modo che il triangolo a pedale DEF sia isoscello o equilaterale*
 
-> Un triangolo $ABC$ è angolato acuto. Per qualsiasi punto $P$ nel triangolo, $D$, $E$ e $F$ indicano rispettivamente le proiezioni di $P$ su $BC$, $CA$ e $AB$. Trovare il locus di $P$ per il quale il triangolo $DEF$ è uguale a quello di un anello. Quando < MSK11/> è equilaterale?
+> Un triangolo $ABC$ è angolato acuto. Per qualsiasi punto $P$ nel triangolo, $D$, $E$ e $F$ indicano rispettivamente le proiezioni di $P$ su $BC$, $CA$ e $AB$. Trovare il locus di $P$ per il quale il triangolo $DEF$ è uguale a quello di un anello. Quando $\triangle DEF$ è equilaterale?
 
 [[src_inmo_1989__Q07]]

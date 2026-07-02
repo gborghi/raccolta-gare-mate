@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interest closer to p given square perimeter ratio < MSK1/>
+*Interest closer to p given square perimeter ratio *
 
 ![[src_kangourou_2023_junior_semifinale__prob18.png]]
 

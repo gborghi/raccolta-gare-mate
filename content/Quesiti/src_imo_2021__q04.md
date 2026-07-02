@@ -44,6 +44,6 @@ tags:
 
 This is the sum of the tangent equations AD+DT+TX+XA=...
 
-> Both $\Gamma$ a circle with a centre $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. If < MSK9/> the circle surrounding the < MSK10/> triangle. The extension of $BA$ beyond $A$ is $\Omega$ in $X$, and the extension of $BC$ beyond $C$ is $\Omega$ in $Z$. The lengths of $AD$ and $CD$ beyond $D$ meet $\Omega$ in $Y$ and $T$ respectively. Show that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
+> Both $\Gamma$ a circle with a centre $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. If $\Omega$ the circle surrounding the $AIC$ triangle. The extension of $BA$ beyond $A$ is $\Omega$ in $X$, and the extension of $BC$ beyond $C$ is $\Omega$ in $Z$. The lengths of $AD$ and $CD$ beyond $D$ meet $\Omega$ in $Y$ and $T$ respectively. Show that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
 
 [[src_imo_2021__Q04]]

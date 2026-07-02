@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>value at < MSK1/>
+*value at *
 
 > a and b are two real numbers. The function f defined by f (x) = ax + b satisfies the equations f (f (f (1))) = 29 and f (f (f (0))) = 2. How much is it worth ? A) 1
 > 	

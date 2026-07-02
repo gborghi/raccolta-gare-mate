@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two swimmers, possible values of Zanobi tanks< MSK1/>
+*Two swimmers, possible values of Zanobi tanks*
 
 > Zanobi and Veronica go to the pool together and start swimming back and forth at the same time, at constant but different speeds, each in their own lane, starting from the same side of the pool. Veronica notices that, by the time she completes 28 swimming pools (i.e. she finishes 28 times the length of the pool), Zanobi is next to her. As soon as she completes 70 swimming pools, Veronica stops swimming and comes out of the water; at the same time, Zanobi also arrives at the edge of the pool, stops swimming and comes out of the water next to Veronica. Zanobi, who is slower than Veronica, has made m tanks; how many different values can m assume?
 >

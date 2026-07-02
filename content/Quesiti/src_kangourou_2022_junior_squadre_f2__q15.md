@@ -66,10 +66,6 @@ tags:
 >  
 >  
 > 1
->  
->  
->  
->  
 > a b
 > c
 > d e
@@ -92,7 +88,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N<10000 for N < MSK1/>
+*N<10000 for N *
 
 > Written right How many positive integers n less than 10,000 have this property: whatever the positive integer M is, if you write the digits of n to the right of those of M, the number obtained by approaching the two numbers is divisible by n. (Both for M and for n the notation used is the decimal.) 8
 >  

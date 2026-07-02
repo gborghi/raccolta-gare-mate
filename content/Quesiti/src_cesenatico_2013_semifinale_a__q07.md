@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary areas of 4025 triangles (telescopic) < MSK1/>
+*Summary areas of 4025 triangles (telescopic) *
 
 > My kingdom for a pedestrian Can I join the game too? Root asked the Red Queen. Sure, my dear, we just need a white pedal. Team competition 2013  Semifinals A  Problem tests  1/3
 > 

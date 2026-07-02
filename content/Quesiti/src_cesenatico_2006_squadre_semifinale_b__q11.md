@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Volt that launches seconds exceeds minutes in 24 hours< MSK1/>
+*Volt that launches seconds exceeds minutes in 24 hours*
 
 > Hermitage is quite confused by the use of Time Travel, which allows her to travel through time. So she finds herself often forced to keep an eye on the clock. Both N the number of times, in 24 hours, the second hand exceeds the minute hand. How much is N?
 

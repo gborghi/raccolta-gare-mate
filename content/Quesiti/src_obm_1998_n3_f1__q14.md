@@ -63,7 +63,7 @@ tags:
 
 *Se x uomini fanno x bundles in x secondi, quanti secondi ci vogliono y uomini per fare y bundles?*
 
-> Se gli uomini < MSK0/> fanno < MSK1/> bundles in < MSK2/> secondi, in quanti secondi gli uomini < MSK3/> faranno < MSK4/> bundles?
+> Se gli uomini $x$ fanno $x$ bundles in $x$ secondi, in quanti secondi gli uomini $y$ faranno $y$ bundles?
 > 
 > A) $y$
 > 

@@ -58,6 +58,6 @@ tags:
 
 *Inequality for real sequences with defined differences*
 
-> Real numbers < MSK3/> are given. For each $i$ ($1 \le i \le n$) define $$d_i = \max\{a_j : 1 \le j \le i\} - \min\{a_j : 1 \le j \le i\}$$ and let $$d = \max\{d_i : 1 \le i \le n\}.$$ (a) Prove that, for any real numbers $x_1 \le x_2 \le \cdots \le x_n$, $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$ (b) Show that there are real numbers $x_1 \le x_2 \le \cdots \le x_n$ such that equality holds in $(*)$.
+> Real numbers $a_1, a_2, \ldots, a_n$ are given. For each $i$ ($1 \le i \le n$) define $$d_i = \max\{a_j : 1 \le j \le i\} - \min\{a_j : 1 \le j \le i\}$$ and let $$d = \max\{d_i : 1 \le i \le n\}.$$ (a) Prove that, for any real numbers $x_1 \le x_2 \le \cdots \le x_n$, $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$ (b) Show that there are real numbers $x_1 \le x_2 \le \cdots \le x_n$ such that equality holds in $(*)$.
 
 [[src_imho_2007__Q01]]

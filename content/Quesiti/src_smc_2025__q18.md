@@ -60,9 +60,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Numero intero positivo N con 2025 cifre, prima cifra 3; ogni due cifre consecutive formano un moltiplo di 17 o 23; trova la cifra unità.*
+*N intero positivo con 2025 cifre, prima cifra 3; ogni due cifre consecutive formano un moltiplo di 17 o 23; trovare la cifra unità.*
 
-> Il numero intero positivo $N$ ha 2025 cifre. La prima cifra è 3. Ogni due cifre consecutive di $N$ costituiscono un numero a due cifre divisibile per 17 o 23. La cifra unità di $N$ può essere $p$ o $q$. Che cos'è < MSK5/>?
+> Il numero intero positivo $N$ ha 2025 cifre. La prima cifra è 3. Ogni due cifre consecutive di $N$ costituiscono un numero a due cifre divisibile per 17 o 23. La cifra unità di $N$ può essere $p$ o $q$. Che cos'è $p + q$?
 >
 > - **(A)** 3
 > - **(B)** 6

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prove il limite inferiore esponenziale per la sequenza positiva con condizione di crescita parziale della somma< MSK1/>
+*Prove il limite inferiore esponenziale per la sequenza positiva con condizione di crescita parziale della somma*
 
 > (16 punti) Supponiamo che la sequenza dei numeri positivi $\{x_n\}$ soddisfi $S_n \ge 2S_{n-1}$, $n = 2, 3, \ldots$, dove $S_n = x_1 + \cdots + x_n$. Prova che esiste una costante $C > 0$, tale che $$x_n \ge C \cdot 2^n,\quad n = 1, 2, \ldots$$
 

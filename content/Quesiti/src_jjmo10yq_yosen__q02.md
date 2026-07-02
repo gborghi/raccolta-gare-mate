@@ -53,7 +53,7 @@ tags:
 
 *Contare palindromi al massimo 2012 con ordine inverso uguale all'originale*
 
-> Un intero positivo è chiamato palindromo se i suoi numeri letti in ordine inverso danno lo stesso numero (senza zeri di primo piano). Ad esempio, $1234$ non è un palindromo poiché la lettura inversa dà $4321$, che non è uguale a $1234$. Quanti palindromi ci sono che sono al massimo < MSK3/>?
+> Un numero intero positivo è chiamato palindromo se i suoi numeri letti in ordine inverso danno lo stesso numero (senza zeri principali). Ad esempio, $1234$ non è un palindromo poiché la lettura inversa dà $4321$, che non è uguale a $1234$. Quanti palindromi ci sono che sono al massimo $2012$?
 
 **Risposta:** 119
 [[src_jjmo10yq_yosen__Q02]]

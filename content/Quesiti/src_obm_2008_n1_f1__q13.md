@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Il 14 giugno 2008 è sabato; quando sarà il prossimo 14 giugno sabato?< MSK1/>
+*Il 14 giugno 2008 è sabato; quando sarà il prossimo 14 giugno sabato?*
 
 > La prima fase dell'OBM si svolge il 14 giugno, sabato dell'anno bisto 2008. Tra quanti anni il 14 giugno ricadrà sabato?
 > 

@@ -54,6 +54,6 @@ tags:
 
 *n>2 circles of radius 1, no line meets more than two*
 
-> $n > 2$ circles of radius 1 are drawn in the plane so that no line meets more than two of the circles. Their centres are < MSK1/>. Show that MSK2/.
+> $n > 2$ circles of radius 1 are drawn in the plane so that no line meets more than two of the circles. Their centres are $O_1, O_2, \ldots, O_n$. Show that$\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
 
 [[src_imho_2002__Q06]]

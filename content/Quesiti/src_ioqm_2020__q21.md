@@ -45,8 +45,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N < MSK1/>
+*N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N *
 
-> Un totale di < MSK0/> mille rupie viene concesso a tre persone < MSK1/> ogni anno, a ciascuna una somma proporzionale alla sua età. Nel primo anno, < MSK2/> ha ottenuto il sesto settimo dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ottenuto 1000 rupie in meno rispetto al primo anno; e $C$ ha ottenuto il doppio di quello che aveva nel primo anno. Trova < MSK6/>.
+> Un totale di $N$ mille rupie viene versato ogni anno a tre persone $A, B, C$, a ciascuna una somma proporzionale alla sua età. Nel primo anno, $A$ ha ottenuto il sesto settimo dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ottenuto 1000 rupie in meno rispetto al primo anno; e $C$ ha ottenuto il doppio di quello che aveva nel primo anno. Trova $N$.
 
 [[src_ioqm_2020__Q21]]

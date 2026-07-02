@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year of forecast on a single digit and m^m < MSK1/>
+*Year of forecast on a single digit and m^m *
 
 > Disparate numbers Let's say a positive integer is disparate if divided by 6 gives the remainder 5 and divided by 8 gives the remainder 7. Find the first two odd numbers and write them in order (for example, if they were 65 and 86 you would write 6586).
 

@@ -60,7 +60,7 @@ tags:
 
 *Saldi di serratore uguali a pezzi a forma di S (10,5,5,10 cm) utilizzando 20 m di bastone; il cui disegno è l'estremità del pannello*
 
-> Un serratore salda le barre di metallo per produrre pezzi uguali che saranno uniti per formare il pannello di sotto. Il disegno laterale mostra le misurazioni, in centimetri, di uno di questi pezzi (forma S/zigzag con segmenti $10$, $5$, $5$, $10$). Il serratore utilizza esattamente < MSK4/> metri di bastone per svolgere il suo lavoro. Quale dei disegni di seguito rappresenta la fine del pannello? (Le opzioni A-E sono disegni.)
+> Un serratore salda le barre di metallo per produrre pezzi uguali che saranno uniti per formare il pannello di sotto. Il disegno laterale mostra le misure, in centimetri, di uno di questi pezzi (forma di zigzag S/zig con segmenti $10$, $5$, $5$, $10$). Il serratore utilizza esattamente $20$ metri di bastone per svolgere il suo lavoro. Quale dei disegni di seguito rappresenta la fine del pannello? (Le opzioni A-E sono disegni.)
 
 ![[src_obm_2005_n2_f1__Q15.png]]
 

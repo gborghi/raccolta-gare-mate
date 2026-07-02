@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Identify the black module of the parallel piped< MSK1/>
+*Identify the black module of the parallel piped*
 
 ![[src_kangourou_2003_cadet__prob21.png]]
 

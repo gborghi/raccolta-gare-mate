@@ -53,6 +53,6 @@ tags:
 
 *Smallest n-element subset of {1,...,280} with five pairwise coprime members*
 
-> Let < MSK0/>. Find the smallest integer $n$ such that each $n$-element subset of $S$ contains five numbers which are pairwise relatively prime.
+> Let $S = \{1, 2, 3, \ldots, 280\}$. Find the smallest integer $n$ such that each $n$-element subset of $S$ contains five numbers which are pairwise relatively prime.
 
 [[src_imho_1991__Q03]]

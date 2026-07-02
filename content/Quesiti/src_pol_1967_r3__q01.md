@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sequenza con recidiva: dimostrare tutti i termini positivi< MSK1/>
+*Sequenza con recidiva: dimostrare tutti i termini positivi*
 
 > I numeri reali $a_1, a_2, \ldots, a_n$ ($n \ge 3$) soddisfano le condizioni $a_1 = a_n = 0$ e $a_{k-1} + a_{k+1} \ge 2a_k$ per $k = 2, 3, \ldots, n-1$. Prove che nessuno dei numeri $a_1, a_2, \ldots, a_n$ è positivo.
 

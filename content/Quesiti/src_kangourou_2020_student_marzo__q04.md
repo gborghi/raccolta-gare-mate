@@ -74,7 +74,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Percentage of students who use motorcycles< MSK1/>
+*Percentage of students who use motorcycles*
 
 ![[src_kangourou_2020_student_marzo__prob4.png]]
 

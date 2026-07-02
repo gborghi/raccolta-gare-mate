@@ -56,7 +56,7 @@ tags:
 
 *f(x)=cos x+log_2 x con f(a)=f(2a); trovare f(2a)-f(4a).*
 
-> [Test paper A, problema 4] Supponiamo < MSK0/>. Se un numero reale positivo $a$ soddisfa $f(a)=f(2a)$, il valore di $f(2a)-f(4a)$ è ______.
+> [Test paper A, problema 4] Supponiamo $f(x)=\cos x+\log_2 x\ (x>0)$. Se un numero reale positivo $a$ soddisfa $f(a)=f(2a)$, il valore di $f(2a)-f(4a)$ è ______.
 
 **Risposta:** -3 \text{ or } -1
 [[src_cn_cmc-first-round_2021__Q04]]

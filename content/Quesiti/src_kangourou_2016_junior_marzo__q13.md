@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Missing result of the tennis tournament< MSK1/>
+*Missing result of the tennis tournament*
 
 > A direct elimination tennis tournament is over. The results of six of the seven final matches (quarter-finals, semi-finals and final) were (not necessarily in this order): Bianca beats Anna, Carla beats Daniela, Gina beats Hether, Gina beats Carla, Carla beats Bianca and Emma beats Franca. What's the missing result?
 > 	

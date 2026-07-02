@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many slices of cake were eaten< MSK1/>
+*How many slices of cake were eaten*
 
 ![[src_kangourou_2018_koala_marzo__prob4.png]]
 

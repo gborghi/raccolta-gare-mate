@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> sum exceeds by 31 that of Alice < MSK1/>
+* sum exceeds by 31 that of Alice *
 
 > I have eight identical, unmarked envelopes; in each one I have entered one and only one of the numbers 1, 2, 4, 8, 16, 32, 64, 128. Eva randomly picks some of these envelopes, Alice takes the others. The sum of the numbers in Eva's envelope is 31 times greater than the numbers in Alice's. How many envelopes did Eva take? A) 2
 > 	

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>I lati opposti di 1003-gon convex sono paralleli e congruenti< MSK1/>
+*I lati opposti di 1003-gon convex sono paralleli e congruenti*
 
 > Che $P$ sia un poligono converso con lati 2006. Le diagonali 1003 che collegano vertici opposti e i segmenti 1003 che collegano i punti medi di lati opposti sono tutti simultanei, cioè tutti i segmenti del 2006 condividono un punto comune. Prova che i lati opposti di $P$ sono paralleli e congruenti.
 

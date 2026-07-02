@@ -56,6 +56,6 @@ tags:
 
 *ABCD quadrato con punti M,N,P,Q sui lati in modo che i circoncircoli dei triangoli MBN e PDQ siano tangenti esternamente; dimostrare MN + PQ >= AC.*
 
-> Lasciate che $ABCD$ sia quadrato. Scegliamo i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo tale che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Prova che < MSK11/>.
+> Lasciate che $ABCD$ sia quadrato. Scegliamo i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo tale che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Prova che $MN + PQ \ge AC$.
 
 [[src_obm_1999_n2_f2__Q03]]

@@ -68,6 +68,6 @@ tags:
 > 
 > b) dimostrare che per Juca non è possibile sommare le cifre di una certa quantità di prime decimali dopo la virgola della rappresentazione decimale di $7/33$ per ottenere esattamente $2020$.
 > 
-> c) Juca ha osservato la rappresentazione decimale di < MSK0/>. Quante decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
+> c) Juca ha osservato la rappresentazione decimale di $11/41$. Quante decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
 
 [[src_obm_2020_n1_fx__Q03]]

@@ -70,7 +70,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 
 ![[src_kangourou_2021_junior_marzo__prob18.png]]
 
-> In each cell of a square grid 3 × 3 the number 0 appears initially. One move is to increase by 1 all the numbers appearing in the four cells of one of the four grids 2 < MSK1/> 2 contained in the grid (e.g. the one shaded in the image on the left). After several moves, the situation is as shown in the image on the right, in which some cells have been covered. What number should be in the place of the question mark? A) 14
+> In each cell of a square grid 3 × 3 the number 0 appears initially. One move is to increase by 1 all the numbers appearing in the four cells of one of the four grids 2 × 2 contained in the grid (e.g. the one shaded in the image on the left). After several moves, the situation is as shown in the image on the right, in which some cells have been covered. What number should be in the place of the question mark? A) 14
 > 	
 > B) 15
 > 	

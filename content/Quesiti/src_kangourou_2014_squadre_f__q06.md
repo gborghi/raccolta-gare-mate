@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integral numbers 1-10000 not divisible by 2 or by 5 < MSK1/>
+*Integral numbers 1-10000 not divisible by 2 or by 5 *
 
 > What are the integers between 1 and 10,000 (included) that are not divisible by 2 or by 5?
 

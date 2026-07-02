@@ -53,7 +53,7 @@ tags:
 
 *Angle to the top with four points on the sides of the triangle*
 
-> ABC is an isosceles triangle with AC = BC. Two points A′, A′′ on the AC side and one point B′ on the BC side are chosen so that AB = BA′ = A′B′ = B′A′′ = A′′C. What is the width of the angle < MSK0/>?
+> ABC is an isosceles triangle with AC = BC. Two points A′, A′′ on the AC side and one point B′ on the BC side are chosen so that AB = BA′ = A′B′ = B′A′′ = A′′C. What is the width of the angle $\widehat{ACB}$?
 >
 > - **(A)** 18°
 > - **(B)** 15°

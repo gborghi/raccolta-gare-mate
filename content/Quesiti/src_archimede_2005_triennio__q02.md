@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies n with n^3+2n^2+n perfect square< MSK1/>
+*Interies n with n^3+2n^2+n perfect square*
 
 > How many positive integers are n such that n3+2n2+n is a perfect square?
 >

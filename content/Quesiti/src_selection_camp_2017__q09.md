@@ -66,9 +66,9 @@ tags:
 
 *Rete traghetti su n isole: dimostrare che una delle isole è eventualmente collegata a tutte le altre*
 
-> $n \ge 3$ sia un numero intero. Un paese ha < MSK1/> isole. Inizialmente, la Società IMO gestisce rotte bidirezionali di traghetti tra alcune coppie di isole distinte in modo che le due isole siano collegate (possibilmente tramite isole intermedi). All'inizio di ogni anno, la Società IMO aggiorna le sue rotte di traghetto come segue:
+> $n \ge 3$ sia un numero intero. Un paese ha $n$ isole. Inizialmente, la Società IMO gestisce rotte bidirezionali di traghetti tra alcune coppie di isole distinte in modo che le due isole siano collegate (possibilmente tramite isole intermedi). All'inizio di ogni anno, la Società IMO aggiorna le sue rotte di traghetto come segue:
 > 
-> (1) Scegliere due isole distinte $X$ e $Y$ in modo tale che un traghetto abbia operato tra di loro nell'anno precedente. (2) Cancellare la rotta di traghetto tra $X$ e $Y$. (3) Per ciascuna isola $Z \neq X, Y$ in modo tale che un traghetto abbia operato tra esattamente uno di $\{X, Z\}$ e $\{Y, Z\}$ nell'anno precedente, aggiungere un nuovo percorso di traghetto tra $Z$ e l'altro di $X, Y$. (4) Nessuna altra rotta di traghetti viene aggiunta o cancellata.
+> (1) Scegliere due isole distinte $X$ e $Y$ in modo tale che un traghetto abbia operato tra di loro nell'anno precedente. (2) Cancellare la rotta di traghetto tra $X$ e $Y$. (3) Per ciascuna isola $Z \neq X, Y$ in modo tale che un traghetto abbia operato tra esattamente uno di $\{X, Z\}$ e $\{Y, Z\}$ nell'anno precedente, aggiungere una nuova rotta di traghetto tra $Z$ e l'altro di $X, Y$. (4) Nessuna altra rotta di traghetti viene aggiunta o cancellata.
 > 
 > La selezione di $X$ e $Y$ nella fase (1) deve soddisfare in ogni momento la seguente condizione:
 > 

@@ -53,6 +53,6 @@ tags:
 
 *Prove l'identità del rapporto per il punto P all'interno di un triangolo con angoli uguali*
 
-> $P$ sia il punto all'interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Provare che < MSK0/>
+> $P$ sia il punto all'interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Provare che $$\frac{AC}{AB + PC} = \frac{AB}{AC + PB}.$$
 
 [[src_pol_1997_r2__Q02]]

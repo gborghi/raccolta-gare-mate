@@ -56,7 +56,7 @@ tags:
 
 *Numbers m with 3m=ABC and 4m=CAB*
 
-> Veronica observes that 81·3 = 243 and 81·4 = 324 and asks how many are the numbers m with 10 < MSK0/>m < MSK1/>99 and such that 3m = ABC and 4m = CAB, with A, B and C decimal digits (also considered valid cases where one or more of the digits A, B, C are equal to zero).
+> Veronica observes that 81·3 = 243 and 81·4 = 324 and asks how many are the numbers m with 10 ≤m ≤99 and such that 3m = ABC and 4m = CAB, with A, B and C decimal digits (also considered valid cases where one or more of the digits A, B, C are equal to zero).
 >
 > - **(A)** 1
 > - **(B)** 2

@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>After the first few minutes double the second candle< MSK1/>
+*After the first few minutes double the second candle*
 
 > The two candles Two candles have the same length and, once lit, the consumption of each is directly proportional to the time. One of the two candles goes out in 10 hours, the other in eight hours. If they are switched on at the same time, after how many minutes will the length of the first be twice the length of the second?
 

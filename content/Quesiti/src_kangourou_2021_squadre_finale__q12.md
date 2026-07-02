@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>The last four digits of the largest strongest number < MSK1/>
+*The last four digits of the largest strongest number *
 
 > Numbers  strong Let's say a number is  strong if every pair of its consecutive digits is a number that is power, at least second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the number of thousands, the number of hundreds, etc. in the order.
 

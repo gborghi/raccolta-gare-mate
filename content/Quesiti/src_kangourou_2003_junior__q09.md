@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which module and the fourth (parallellepiped) < MSK1/>
+*Which module and the fourth (parallellepiped) *
 
 ![[src_kangourou_2003_junior__prob9.png]]
 

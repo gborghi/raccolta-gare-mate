@@ -74,15 +74,6 @@ tags:
 > triangolini (si intende che l’operazione effettuata sui due triangolini è la stessa). Dopo qualche
 > tempo si accorge che i numeri scritti sui 9 triangolini sono, in un qualche ordine, n, n+1, . . . , n+8,
 > dove n è un intero non negativo. Dimostrare che n può essere soltanto 0 o 2.
-> 0
-> 0
-> 0
-> 0
-> 0
-> 0
-> 0
-> 0
-> 0
 > Nota. I casi n = 0 e n = 2 possono effettivamente verificarsi, ma non si chiede di dimostrare
 > questa affermazione.
 
@@ -96,7 +87,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n can only be 0 or 2< MSK1/>
+*n can only be 0 or 2*
 
 ![[src_archimede_2017_febb_2livello__prob17.png]]
 

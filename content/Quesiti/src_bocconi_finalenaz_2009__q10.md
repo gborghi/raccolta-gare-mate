@@ -56,7 +56,7 @@ tags:
 
 *Area of a small square given the large square of area 405*
 
-> A large square has an area of < MSK0/> and contains five smaller, equal squares arranged as shown in the figure (which has an axis of stretched symmetry). What's the area of a small square?
+> A large square has an area of $405 \text{ cm}^2$ and contains five smaller, equal squares arranged as shown in the figure (which has an axis of stretched symmetry). What's the area of a small square?
 
 ![[src_bocconi_finalenaz_2009__Q10.png]]
 

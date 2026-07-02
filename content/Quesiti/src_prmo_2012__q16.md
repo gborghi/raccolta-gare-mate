@@ -59,7 +59,7 @@ tags:
 
 *Summa di f(k) per k=1 a 20 data funzione di tipo moltiplicativo*
 
-> $N$ sia l'insieme dei numeri naturali. Supponiamo che $f : N \to N$ sia una funzione che soddisfa le seguenti condizioni: a) $f(mn) = f(m)f(n)$; b) $f(m) < f(n)$ se $m < n$; c) $f(2) = 2$. Qual è il valore di < MSK6/>?
+> $N$ sia l'insieme dei numeri naturali. Supponiamo che $f : N \to N$ sia una funzione che soddisfa le seguenti condizioni: a) $f(mn) = f(m)f(n)$; b) $f(m) < f(n)$ se $m < n$; c) $f(2) = 2$. Qual è il valore di $\displaystyle\sum_{k=1}^{20} f(k)$?
 
 **Risposta:** 210
 [[src_prmo_2012__Q16]]

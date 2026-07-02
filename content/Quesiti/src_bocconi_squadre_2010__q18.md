@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many zeros in the product of all integers between 50 and 100< MSK1/>
+*How many zeros in the product of all integers between 50 and 100*
 
 > With how many zeros does the result of multiplying all integers between 50 and 100 (included) end?
 

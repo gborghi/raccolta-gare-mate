@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of cookie trays for the dish< MSK1/>
+*Minimum number of cookie trays for the dish*
 
 ![[src_kangourou_2021_preecolier_koala__prob22.png]]
 

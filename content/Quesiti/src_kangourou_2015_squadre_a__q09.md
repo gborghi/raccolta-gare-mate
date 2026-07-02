@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mattresses left after forming a cube< MSK1/>
+*Mattresses left after forming a cube*
 
 > The Cecilia bricks have 100 identical bricks: each has the shape of a 3 cm long, 2 cm wide and 1 cm high parallel-piped. After he approached some of them and formed a cube, how many of them remained?
 

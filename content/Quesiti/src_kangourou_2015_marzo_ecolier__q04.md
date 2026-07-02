@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min to be removed< MSK1/>
+*min to be removed*
 
 ![[src_kangourou_2015_marzo_ecolier__prob4.png]]
 

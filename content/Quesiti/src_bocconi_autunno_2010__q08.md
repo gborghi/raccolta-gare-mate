@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age of Angelo given the relationship to age of mother< MSK1/>
+*Age of Angelo given the relationship to age of mother*
 
 > Today, Angelo is a quarter of his mother's age. When he turns 18, his mother will be three times his age. How old is Angelo now?
 

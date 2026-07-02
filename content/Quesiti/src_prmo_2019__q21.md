@@ -50,6 +50,6 @@ tags:
 
 *Primo più piccolo nella partizione del set E = {5,6,7,8,9}*
 
-> Considera l'insieme < MSK0/>. Per qualsiasi partizione $\{A, B\}$ di $E$, con sia $A$ che $B$ non vuoti, si deve considerare il numero ottenuto aggiungendo il prodotto degli elementi di $A$ al prodotto degli elementi di $B$. Che $N$ sia il numero primo più grande tra questi numeri. Trova la somma delle cifre di $N$.
+> Considera l'insieme $E = \{5, 6, 7, 8, 9\}$. Per qualsiasi partizione $\{A, B\}$ di $E$, con sia $A$ che $B$ non vuoti, si deve considerare il numero ottenuto aggiungendo il prodotto degli elementi di $A$ al prodotto degli elementi di $B$. Che $N$ sia il numero primo più grande tra questi numeri. Trova la somma delle cifre di $N$.
 
 [[src_prmo_2019__Q21]]

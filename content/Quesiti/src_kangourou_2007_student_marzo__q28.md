@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max sequence length of odd numbers< MSK1/>
+*Max sequence length of odd numbers*
 
 > A positive integer of 5 digits is called a disposable number if it cannot be expressed as the product of two integers of 3 digits each. How long can a sequence of consecutive numbers that are all odd be at most? (a) 11 (b) 49 (c) 51 (d) 101 (e) a value different from the previous one
 

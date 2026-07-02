@@ -53,7 +53,7 @@ tags:
 
 *Number between 1000 and 9999 with digits other than the multiples of 1792*
 
-> The Metatron explained to Aziraphale that it must look for the predestined newborn in those hospital rooms whose 4-digit numbers have the property that, by substituting any way for a maximum of 3 digits, you never get a positive multiple of < MSK0/>.
+> The Metatron explained to Aziraphale that it must look for the predestined newborn in those hospital rooms whose 4-digit numbers have the property that, by substituting any way for up to 3 digits, you never get a positive multiple of $1792$.
 > 
 > Write the difference between the smallest and the largest of the numbers of rooms where Aziraphale must search for the predestinate.
 

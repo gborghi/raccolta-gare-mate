@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Area di quadrilaterale non convexa con angolo riflesso a D< MSK1/>
+*Area di quadrilaterale non convexa con angolo riflesso a D*
 
-> C'è un quadrilaterale non converso $ABCD$ il cui angolo interno alla verticale $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. Il $E$ deve essere l'intersezione della linea $BC$ con la linea $AD$, e il $F$ deve essere l'intersezione della linea $AB$ con la linea $CD$. Supponiamo < MSK12/>. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> C'è un quadrilaterale non converso $ABCD$ il cui angolo interno alla verticale $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. $E$ sia l'intersezione della linea $BC$ con la linea $AD$, e $F$ sia l'intersezione della linea $AB$ con la linea $CD$. Supponiamo $\angle CED = \angle AFD = 45^\circ$. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jjmo14yq_yosen__Q10.png]]
 

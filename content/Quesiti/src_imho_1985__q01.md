@@ -49,6 +49,6 @@ tags:
 
 *Circle tangent to sides of cyclic quadrilateral, tests AD+BC=AB*
 
-> A circle has center on the side $AB$ of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Prove that MSK2/.
+> A circle has center on the side $AB$ of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Prove that$AD + BC = AB$.
 
 [[src_imho_1985__Q01]]

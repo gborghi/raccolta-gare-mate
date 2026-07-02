@@ -66,7 +66,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (a,b) with an integer polynomial p(5,1)=a, p(17,19)=b< MSK1/>
+*Pairs (a,b) with an integer polynomial p(5,1)=a, p(17,19)=b*
 
 > The sides AB and BC of the triangle ABC are divided into 3 equal parts by the points P, Q and R, S. We know that the area of the ABC triangle is 120 m2. Taking any point X on the CA side, how many m2 does the area of the shaded quadrilateral at least measure? A B C X P Q R S
 >

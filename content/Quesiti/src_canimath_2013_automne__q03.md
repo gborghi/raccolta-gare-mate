@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Luminose e tre interruttori; contare le lampadine accese dopo interruttore casuale< MSK1/>
+*Luminose e tre interruttori; contare le lampadine accese dopo interruttore casuale*
 
 > Abbiamo $100$ lampadine, numerate $1$ a $100$, ognuna delle quali può essere accesa o spenta. Queste lampadine sono collegate a tre interruttori $A$, $B$ e $C$.
 > 

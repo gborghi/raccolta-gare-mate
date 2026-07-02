@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Giorno della settimana 99 giorni dopo sabato< MSK1/>
+*Giorno della settimana 99 giorni dopo sabato*
 
 > Oggi è sabato. Quale giorno della settimana sarà tra 99 giorni?
 > 

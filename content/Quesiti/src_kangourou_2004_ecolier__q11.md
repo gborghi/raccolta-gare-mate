@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What part of the fruit remains in the basket< MSK1/>
+*What part of the fruit remains in the basket*
 
 > Elizabeth brings Clement a basket of apples and oranges. Clemente eats half the apples and a third of the oranges. What part of the fruit remains in the basket? (a) half of all fruit B) more than half of all fruit C) two fifths of all fruit D) less than one third of all fruit E) one third of all fruit
 

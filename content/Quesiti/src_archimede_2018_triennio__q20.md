@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Soldiers remaining after repeated elimination of square positions< MSK1/>
+*Soldiers remaining after repeated elimination of square positions*
 
 > Cleopatra is playing with a row of n2 soldiers (where n is an integer greater than 30). First, Cleopatra removes from the line all soldiers whose position corresponds to a square (i.e. the 1°soldier, 4°, 9°, and so on). After completing this procedure, Cleopatra forms a new line with the remaining soldiers and repeats it again removing all the soldiers whose position in the new line corresponds to a square. It goes on this way, always with the same procedure. How many soldiers could have remained when Cleopatra, after completing the aforementioned procedure several times, became tired and stopped playing?
 >

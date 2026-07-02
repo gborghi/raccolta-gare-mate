@@ -55,7 +55,7 @@ tags:
 
 *Cono di altezza di 5 cm riempito di sabbia a 3 cm, poi invertito; trova l'altezza del livello di sabbia*
 
-> Il giocattolo preferito di Cicerone è un cono di vetro retto di $5$ cm di altezza. Cicero ha riempito il cono di sabbia fino a una altezza di < MSK1/> cm, come mostrato alla figura 1. Poi Cicerone chiuse la base del cono e lo girò a testa in giù, come indicato nella figura 2. A che altezza dalla base del cono, in cm, si trova il segno di sabbia?
+> Il giocattolo preferito di Cicerone è un cono di vetro retto di $5$ cm di altezza. Cicero ha riempito il cono di sabbia fino a una altezza di $3$ cm, come mostrato alla figura 1. Poi Cicerone chiuse la base del cono e lo girò a testa in giù, come indicato nella figura 2. A che altezza dalla base del cono, in cm, si trova il segno di sabbia?
 > 
 > (A) $1$ (B) $2$ (C) $5 - \sqrt[3]{98}$ (D) $\sqrt[3]{98}$ (E) $1 - \dfrac{\sqrt[3]{98}}{5}$
 

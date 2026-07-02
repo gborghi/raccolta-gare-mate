@@ -53,6 +53,6 @@ tags:
 
 *Progressioni aritmetiche massime delle reciprocità frazione-unità*
 
-> L'insieme $S = \{1/r : r = 1, 2, 3, \ldots\}$ di reciprocità dei numeri interi positivi contiene progressioni aritmetiche di varie lunghezze. Ad esempio, $1/20, 1/8, 1/5$ è una tale progressione, di lunghezza $3$ (e differenza comune $3/40$). Inoltre, si tratta di un $\textit{maximal progression}$ in $S$ di lunghezza $3$ poiché non può essere esteso a sinistra o a destra all'interno di $S$ ($-1/40$ e $11/40$ non essendo membri di $S$). (i) Trovare una progressione massima in < MSK11/> di lunghezza < MSK12/>. (ii) C'è una progressione massima in < MSK13/> di lunghezza < MSK14/>?
+> L'insieme $S = \{1/r : r = 1, 2, 3, \ldots\}$ di reciprocità dei numeri interi positivi contiene progressioni aritmetiche di varie lunghezze. Ad esempio, $1/20, 1/8, 1/5$ è una tale progressione, di lunghezza $3$ (e differenza comune $3/40$). Inoltre, si tratta di un $\textit{maximal progression}$ in $S$ di lunghezza $3$ poiché non può essere esteso a sinistra o a destra all'interno di $S$ ($-1/40$ e $11/40$ non essendo membri di $S$). (i) Trovare una progressione massima in $S$ di lunghezza $1996$. (ii) C'è una progressione massima in $S$ di lunghezza $1997$?
 
 [[src_bmo_1996-97_round2__Q04]]

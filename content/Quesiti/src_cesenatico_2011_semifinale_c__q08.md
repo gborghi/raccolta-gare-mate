@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area of the AFPD polygon in the triangular clexid< MSK1/>
+*Area of the AFPD polygon in the triangular clexid*
 
 > A particularly valuable object belonging to the Gauls is a curious clessandra, located within a triangle. This triangle, called ABC, was constructed as follows: two points D and E were taken, respectively on AC and BC, such that DE was parallel to AB, and two points F and G on AB such that DG was parallel to BC, EF parallel to AC, and DE = FG. Calling P the intersection between DG and EF, and knowing that AB = 91, that the area of the triangle is 4173 and that the BCA angle measures 45°, would you be able to calculate the area of the AFPD polygon?
 

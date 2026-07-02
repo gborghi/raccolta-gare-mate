@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/> ABCD convexa; P su BC, Q su CD con angolo BAP = angolo DAQ. I triangoli ABP e ADQ hanno superficie uguale se i loro ortocentri si trovano su una linea perpendicolare all'AC.*
+* ABCD convexa; P su BC, Q su CD con angolo BAP = angolo DAQ. I triangoli ABP e ADQ hanno superficie uguale se i loro ortocentri si trovano su una linea perpendicolare all'AC.*
 
 > Si dà un quadrilaterale convex $ABCD$. I punti $P$ e $Q$ diversi dai suoi vertici si trovano rispettivamente sui segmenti $BC$ e $CD$ e soddisfano la condizione $\angle BAP=\angle DAQ$. Indicare che i triangoli $ABP$ e $ADQ$ hanno la stessa superficie se e solo se i loro ortocentri si trovano su una linea perpendicolare a $AC$.
 

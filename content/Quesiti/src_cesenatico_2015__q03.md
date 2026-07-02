@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>cycled if parallelism< MSK1/>
+*cycled if parallelism*
 
 > Either ABC is a triangle, either K is the foot of the bisector relative to BC and either J is the foot of the tri-sector relative to BC nearest to the AC side (i.e. J is the point on BC such that 3 · CAJ = CAB). Then C′ and B′ are two points on the straight AJ, on the side of J with respect to A, such that AC′ = AC and AB = AB′. Demonstrate that the quadrilateral ABB′C can be inscribed in a circumference if and only if the lines C′K and B′B are parallel.
 

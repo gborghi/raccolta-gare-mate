@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of visible faces of the solid 2x2x1 cubic < MSK1/>
+*Maximum number of visible faces of the solid 2x2x1 cubic *
 
 ![[src_kangourou_2013_benjamin__prob29.png]]
 

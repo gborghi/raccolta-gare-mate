@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum red area on the faces of the parallel piped< MSK1/>
+*Minimum red area on the faces of the parallel piped*
 
 > First Impact On December 21, 2012, a spherical asteroid with a radius of 1/7 of a kilometer will hit the Earth's surface perpendicularly in a K-square area on the side of 26 km, making a hole exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (experts are likely to consider each position as equally likely). The authorities have a 5 km radius circular disintegrating shield: if the asteroid also competes in Team 2012  Semifinal A  Problem texts  1/1
 > 

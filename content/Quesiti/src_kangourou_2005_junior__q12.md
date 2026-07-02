@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum balls extracted by sum of 18< MSK1/>
+*Minimum balls extracted by sum of 18*
 
 > In a day there are 17 balls numbered 1 to 17. You have the option to extract a single number of balls of your choice. If you want to be sure that among the balls you extracted, there are at least two whose sum is 18, how many do you need to extract? A) 8 B) 10 C) 11 D) 12 E) 17
 

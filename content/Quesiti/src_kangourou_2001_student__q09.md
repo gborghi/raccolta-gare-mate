@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time when cyclists travel 130 km < MSK1/>
+*Time when cyclists travel 130 km *
 
 > Two cyclists leave the same spot at 2:10 p.m. The first is moving north at a speed of 32 km/h, while the second is moving east at a speed of 24 km/h. The distance between them will be 130 km at
 >

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length of the path of the ant over two obstacles< MSK1/>
+*Length of the path of the ant over two obstacles*
 
 ![[src_kangourou_2020_student_marzo__prob2.png]]
 

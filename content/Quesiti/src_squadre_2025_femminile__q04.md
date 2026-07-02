@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Invariant 5x5 grids for 90 degree rotation< MSK1/>
+*Invariant 5x5 grids for 90 degree rotation*
 
 > STAVOLT SET YOURSELF FUCKED! (Michelangelo Sabatini) Candace is in her room, on the phone with her friend Stacy, when, looking out the window, she sees Phineas and Ferb in the garden building a rocket. She then goes down to her mom's living room to report them, but she's busy: she's coloring square grids. It colours each box either red or green so that, by rotating the grid relative to the central box at an angle of 90,180 or 270 the grid remains colored as if it had not been rotated. Mom won't pay any attention to Candace until she's done. How many grids will it take to build?
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Aumento percentuale del costo della benzina per litro per Louise< MSK1/>
+*Aumento percentuale del costo della benzina per litro per Louise*
 
 > Quando Louise ha avuto la sua prima auto, 50 litri di benzina costavano 40 sterline. Quando l'altro giorno si riempì, ha notato che 40 litri di benzina costavano 50 sterline. Per quanto riguarda il prezzo della benzina, che è aumentato di circa la percentuale in questo periodo?
 >

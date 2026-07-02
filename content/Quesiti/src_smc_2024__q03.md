@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due dadi standard impilati con 9 volti visibili che sommano a 33; trovare la somma su volti che toccano< MSK1/>
+*Due dadi standard impilati con 9 volti visibili che sommano a 33; trovare la somma su volti che toccano*
 
 > Su un tavolo vengono posizionati due dadi standard, uno sopra l'altro, in modo che solo nove delle facce dei dadi possano essere viste. Le facce che toccano hanno lo stesso numero. La somma dei numeri sui volti visibili è di 33. Qual e' la somma dei numeri sui volti che toccano?
 >

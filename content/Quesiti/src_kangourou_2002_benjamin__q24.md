@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ascended length given time difference< MSK1/>
+*Ascended length given time difference*
 
 > A cyclist climbs along a mountain road at a speed of 12 km/h and descends along the same road at a speed of 20 km/h. The difference between the time taken to climb and the time taken to descend is 16 minutes. What is the length of the climb?
 >  

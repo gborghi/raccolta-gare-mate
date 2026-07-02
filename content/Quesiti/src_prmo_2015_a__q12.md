@@ -54,7 +54,7 @@ tags:
 
 *Trova $a^2 - b^2 + c^2$ da due equazioni lineari*
 
-> $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di < MSK5/>?
+> $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di $a^2 - b^2 + c^2$?
 
 **Risposta:** 1
 [[src_prmo_2015_a__Q12]]

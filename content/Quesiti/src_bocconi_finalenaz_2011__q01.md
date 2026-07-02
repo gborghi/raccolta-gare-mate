@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many red cards are in the bottom bracket< MSK1/>
+*How many red cards are in the bottom bracket*
 
 > In a deck of 52 cards, the cards are black and red and the black cards are as many as the red ones. The 52 cards were divided into two sets of 26 cards and the one above is 18 black cards. How many red cards are in the drawer below?
 

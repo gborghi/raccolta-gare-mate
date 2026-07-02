@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> x^2+3xy+5y^2=3149 and
+* x^2+3xy+5y^2=3149 and
 
 > After Belljeet managed to get off the tree, φ-neas and Ferbmat propose a challenge to him and BuFourier. φ-neas: You must each choose an integer whose absolute value is less than or equal to 40. You'll win if the two numbers you choose, which we'll call x and y, meet the condition written on the board. (Meanwhile, Ferbmat wrote on the board x2 +3xy +5y2 = 3149). Belljeet: I've already calculated how much it'll be worth in case we win! What number did Belljeet calculate?
 

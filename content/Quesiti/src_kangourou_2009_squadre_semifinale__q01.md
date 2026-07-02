@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Separate results by throwing 6 reds and 5 greens into the box< MSK1/>
+*Separate results by throwing 6 reds and 5 greens into the box*
 
 > Each pedal is exactly in a few boxes and there is no more than one in each box;
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum minutes to make 30 kangaroo jumps< MSK1/>
+*Minimum minutes to make 30 kangaroo jumps*
 
 > A kangaroo makes 10 jumps in one minute and then rests for three minutes. Then he makes another 10 jumps in one minute and rests for three minutes, and so on. What's the minimum number of minutes it takes to make 30 jumps?
 >

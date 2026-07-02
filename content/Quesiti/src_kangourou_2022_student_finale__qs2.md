@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>reds=greens< MSK1/>
+*reds=greens*
 
 ![[src_kangourou_2022_student_finale__probS2.png]]
 

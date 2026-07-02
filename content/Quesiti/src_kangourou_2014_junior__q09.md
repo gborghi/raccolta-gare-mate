@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Adult to youth ratio from data reports< MSK1/>
+*Adult to youth ratio from data reports*
 
 > In one village the ratio of the number of adult males to the number of adult females is 2:3, while the ratio of the number of adult females to the number of young females is 8:1. What is the relationship between the number of adults (men and women) and the number of young people? A) 5:1 B) 10:3 C) 13:1 D) 12:1 E) 40:3
 

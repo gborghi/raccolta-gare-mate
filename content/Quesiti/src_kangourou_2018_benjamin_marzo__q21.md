@@ -52,7 +52,7 @@ tags:
 > E) 6
 > A B C  +
 >          C B A  =
->      D D D D
+>
 > 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]

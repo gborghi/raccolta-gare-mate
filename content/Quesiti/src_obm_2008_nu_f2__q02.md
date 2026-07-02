@@ -60,8 +60,8 @@ tags:
 
 *Caratteristica del complemento finito attraverso il conteggio delle soluzioni di equazioni lineari*
 
-> Let < MSK0/>. Per ogni set $A,B\subseteq\mathbb{N}$, per ogni intero positivo $n$ indicare con $r(A,B,n)$ il numero di soluzioni dell'equazione $a+b=n$ con $a\in A$, $b\in B$.
+> Let $\mathbb{N}=\{0,1,2,3,\ldots\}$. Per ogni set $A,B\subseteq\mathbb{N}$, per ogni numero intero positivo $n$ indicare con $r(A,B,n)$ il numero di soluzioni dell'equazione $a+b=n$ con $a\in A$, $b\in B$.
 > 
-> Dimostrare che esiste un $n_0\in\mathbb{N}$ tale che $r(A,B,n+1)>r(A,B,n)$ per tutti $n>n_0$ se e solo se sia $\mathbb{N}\setminus A$ che $\mathbb{N}\setminus B$ sono finiti.
+> Dimostrare che esiste un $n_0\in\mathbb{N}$ tale che $r(A,B,n+1)>r(A,B,n)$ per tutti $n>n_0$ se e solo se entrambi $\mathbb{N}\setminus A$ e $\mathbb{N}\setminus B$ sono finiti.
 
 [[src_obm_2008_nu_f2__Q02]]

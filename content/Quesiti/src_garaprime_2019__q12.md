@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum of binary repunits n1+...+n10< MSK1/>
+*Sum of binary repunits n1+...+n10*
 
 > For every positive integer k, we use nk to indicate that positive integer whose binary representation has exactly k digits and they're all equal to 1. What 's n1 + n2 + n3 + ? . . + n10? A 2036 B 2048 C 1048 D 1536 E 2064 F 1792
 

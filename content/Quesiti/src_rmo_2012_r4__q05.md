@@ -55,7 +55,7 @@ tags:
 
 *In un triangolo con E su BC (BE=2EC) e F punto medio di AC, trovare BQ/QF dove BF incontra AE*
 
-> Lasciate che $ABC$ sia un triangolo. Il punto $E$ deve essere un punto del segmento $BC$ tale da $BE = 2EC$. $F$ sia il punto medio di $AC$. In $Q$ si interseca $BF$. Determinare < MSK9/>.
+> Lasciate che $ABC$ sia un triangolo. Il punto $E$ deve essere un punto del segmento $BC$ tale da $BE = 2EC$. $F$ sia il punto medio di $AC$. In $Q$ si interseca $BF$. Determinare $BQ/QF$.
 
 ![[src_rmo_2012_r4__Q05.png]]
 

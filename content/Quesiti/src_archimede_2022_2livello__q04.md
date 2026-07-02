@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Polynomial with p(a) + p(b) + p(c) = p(674), value of p(2022) < MSK1/>
+*Polynomial with p(a) + p(b) + p(c) = p(674), value of p(2022) *
 
 > The polynomial p(x) has the following property: for each set of integers a, b, c such that a+b+c = 2022 we have that p(a) + p(b) + p(c) = p(674). It is also known that p(0) = −2696. How much is it worth?
 >

@@ -90,7 +90,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Schedule di pizzaiolo singoli n pizze (una alla volta) per essere pronte vicino all'orario 0; ridurre al minimo la penalità totale ponderata di anticipo/trasto< MSK1/>
+*Schedule di pizzaiolo singoli n pizze (una alla volta) per essere pronte vicino all'orario 0; ridurre al minimo la penalità totale ponderata di anticipo/trasto*
 
 > Perrine ha chiesto a Yohann, un esperto pizzaiolo, di preparare le pizze per il torneo.
 > 
@@ -102,13 +102,13 @@ tags:
 > 
 > **(1) ** Supponiamo $d=0$. Che pena minima può ottenere Yohann? Uno suppone quindi per il resto che $d>0$.
 > 
-> Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$ e $p_i=1$? - b) per tutti i < MSK3/>, < MSK4/>? - (c) per tutti i < MSK5/>, < MSK6/>?
+> Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$ e $p_i=1$? - b) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$? - (c) per tutti i $i \in \{1,2,\ldots,n\}$, $p_i=1$?
 > 
-> < MSK11/>(3) < MSK12/> Lasciate < MSK0/> e < MSK1/>. Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=q^i$? - (b) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=\frac{1}{2^i}$? - (c) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=i$ e $p_i=1$?
+> **(3) ** Lasciate $0 < d_0 \le d$ e $0 < q < \frac{1}{2}$. Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=q^i$? - (b) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=\frac{1}{2^i}$? - (c) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=i$ e $p_i=1$?
 > 
-> **(4) ** Supponiamo che Yohann abbia il tempo di preparare tutte le pizze prima della data $-d$ (cioè $d_1+d_2+\cdots+d_n \le d$). Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$? - (b) per tutti i < MSK4/>, < MSK5/>?
+> **(4) ** Supponiamo che Yohann abbia il tempo di preparare tutte le pizze prima della data $-d$ (cioè $d_1+d_2+\cdots+d_n \le d$). Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$? - (b) per tutti i $i \in \{1,2,\ldots,n\}$, $p_i=1$?
 > 
-> In questa interrogazione, Yohann possiede un numero infinito di pizze, ma prepara solo la prima. Supponiamo che, qualunque sia il numero $n$ di pizze che prepara, $d_1+d_2+\cdots+d_n \le d$, e che le sanzioni diminuiscano, con $p_i$ una funzione decrescente $g:\mathbb{N}\to\mathbb{R}_+^*$. Calcolare con la massima precisione la pena minima che Yohann può garantire a se stesso in funzione di $n$. Che cosa accade per le altre funzioni decrescenti $g:\mathbb{N}\to\mathbb{R}_+^*$?
+> In questa interrogazione, Yohann ha un potenziale numero infinito di pizze, ma prepara solo la prima. Supponiamo che, qualunque sia il numero $n$ di pizze che prepara, $d_1+d_2+\cdots+d_n \le d$, e che le sanzioni diminuiscano, con $p_i$ una funzione diminuente $g:\mathbb{N}\to\mathbb{R}_+^*$. Calcolare con la massima precisione la pena minima che Yohann può garantire a se stesso in funzione di $n$. Che cosa accade per le altre funzioni decrescenti $g:\mathbb{N}\to\mathbb{R}_+^*$?
 > 
 > In caso di pizzaiolo, rivedere le domande (2) e (4).
 > 

@@ -64,12 +64,12 @@ tags:
 > 
 > (1) in each block, each (if any) digit 0 appears to the left of each (if any) digit 1. The blocks allowed are $00, 01, 11, 000, 001, 011, 111$;
 > 
-> (2) in each block, each (if any) digit 0 appears to the right of each (if any) digit 1. The blocks allowed are < MSK0/>.
+> (2) in each block, each (if any) digit 0 appears to the right of each (if any) digit 1. The blocks allowed are $00, 10, 11, 000, 100, 110, 111$.
 > 
-> For example, for the string $011011$ the subdivision $01 \mid 10 \mid 11$ is not correct, because the blocks are neither all of type (1), nor all of type (2). The $011 \mid 011$ subdivision is good, because all blocks are type (1).
+> For example, for the $011011$ string the subdivision $01 \mid 10 \mid 11$ is not correct, because the blocks are neither all of type (1), nor all of type (2). The $011 \mid 011$ subdivision is good, because all blocks are type (1).
 > 
-> (a) < MSK0/> integers greater than or equal to 0, with < MSK1/>. Demonstrate that the string consisting of $m$ digits 0 followed by $n$ digits 1 can be divided into blocks as stated by James.
+> (a) $m, n$ integers greater than or equal to 0, with $m + n \geq 2$. Show that the string consisting of $m$ digits 0 followed by $n$ digits 1 can be divided into blocks as stated by James.
 > 
-> (b) either < MSK0/> as a whole. Show that the number of strings of digits 0 and 1 of length $l$ for which Giacomo **not** can perform a subdivision as above is $2^{l-3}$.
+> (b) either $l \geq 4$ as a whole. Demonstrate that the number of strings of digits 0 and 1 of length $l$ for which Giacomo **not** can perform a subdivision as above is $2^{l-3}$.
 
 [[src_archimede_2024_triennio__Q17]]

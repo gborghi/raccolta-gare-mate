@@ -62,7 +62,7 @@ tags:
 
 *Minimum sum of points visible on the faces of a cube 3x3x3 made up of 27 dice.*
 
-> 9 - The DADI Cube (coefficient 9) A cube < MSK0/> is formed by assembling 27 identical dice. The faces of a dice carry all the digits from 1 to 6, and the sum of the points on two opposite faces is always 7. What is the minimum sum of all points visible on the surface of the cube?
+> 9 - The DADI Cube (coefficient 9) A cube $3 \times 3 \times 3$ is formed by assembling 27 identical dice. The faces of a dice carry all the digits from 1 to 6, and the sum of the points on two opposite faces is always 7. What is the minimum sum of all points visible on the surface of the cube?
 
 **Answer:** 90
 [[src_bocconi_finaleint_2009_g1__Q09]]

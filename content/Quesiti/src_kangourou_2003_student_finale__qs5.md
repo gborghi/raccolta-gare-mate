@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Now with overlapping hands< MSK1/>
+*Now with overlapping hands*
 
 > The dial of a clock only returns the 12 numbers corresponding to the hours; its three hands (hour, first minute, second minute) move continuously. At this moment (we're in the morning) the second hand indicates exactly one of the 12 numbers and in less than half an hour, the hour hand and the first minute hand will overlap exactly. What time is it?
 

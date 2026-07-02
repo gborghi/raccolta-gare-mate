@@ -50,6 +50,6 @@ tags:
 
 *Area quadrilaterale IXJY all'interno del rettangolo ABCD dell'area 4 (versione liceale) *
 
-> Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale < MSK11/>?
+> Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale $IXJY$?
 
 [[src_canimath_2019_automne__Q11]]

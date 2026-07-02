@@ -51,6 +51,6 @@ tags:
 
 *Numeri reali sommati a un numero intero con somme parziali limitate*
 
-> I numeri reali $x_1, x_2, \ldots, x_n$ dell'intervallo $(0,1)$ soddisfano l'uguaglianza $x_1 + x_2 + \cdots + x_n = m + r$, dove $m$ è un intero e $r \in [0,1)$. Provare che < MSK0/>
+> I numeri reali $x_1, x_2, \ldots, x_n$ dell'intervallo $(0,1)$ soddisfano l'uguaglianza $x_1 + x_2 + \cdots + x_n = m + r$, dove $m$ è un intero e $r \in [0,1)$. Provare che $$x_1^2 + x_2^2 + \cdots + x_n^2 \le m + r^2.$$
 
 [[src_pol_1988_r3__Q01]]

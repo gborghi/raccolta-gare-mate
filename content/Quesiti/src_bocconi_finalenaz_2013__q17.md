@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum operation to turn on all lamps< MSK1/>
+*Minimum operation to turn on all lamps*
 
 > Our electric guirl, circular, has nine bulbs initially all on. Starting with a light bulb chosen as the initial, the signal propagates from one bulb to the next, always in the same direction (when the signal has passed through all the bulbs, it reaches the initial bulb and so on).
 > 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i modi per scegliere 3 carte da 20 carte a numeri blu (110 ciascuna in 2 copie) che si sommano a 16< MSK1/>
+*Contare i modi per scegliere 3 carte da 20 carte a numeri blu (110 ciascuna in 2 copie) che si sommano a 16*
 
 > Ci sono carte $20$ numerate $1, 2, \ldots, 10$, ciascuna delle quali appare esattamente su carte $2$ (tutte le carte sono blu). Da queste carte $20$ vengono scelte le carte $3$. Trova il numero di modi per scegliere le carte $3$ in modo tale che la somma dei numeri scritti su di esse sia uguale a $16$. Nota: le carte con lo stesso numero sono considerate distinguibili (cioè le due carte con lo stesso numero sono considerate diverse).
 

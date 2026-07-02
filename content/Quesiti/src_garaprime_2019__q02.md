@@ -99,7 +99,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Black and white difference in table 81x81 frames< MSK1/>
+*Black and white difference in table 81x81 frames*
 
 ![[src_garaprime_2019__prob2.png]]
 
@@ -143,7 +143,7 @@ tags:
 \end{document}
 ```
 
-> The boxes in a table 9 < MSK0/> 9 are coloured in black and white (see figure). The central box is white, then the outer frames surrounding it are alternately black and white. Figure 1 Imagine doing the same thing with a table 81 × 81. What is the difference between the number of white boxes and the number of black boxes in this new table? A 161 B 321 C 81 D 167 E 319 F 1
+> The boxes in a table 9 × 9 are coloured in black and white (see figure). The central box is white, then the outer frames surrounding it are alternately black and white. Figure 1 Imagine doing the same thing with a table 81 × 81. What is the difference between the number of white boxes and the number of black boxes in this new table? A 161 B 321 C 81 D 167 E 319 F 1
 
 **Answer:** A
 [[src_garaprime_2019__Q02]]

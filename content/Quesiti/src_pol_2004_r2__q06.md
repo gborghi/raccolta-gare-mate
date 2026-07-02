@@ -53,6 +53,6 @@ tags:
 
 *Selezionare n/2 persone a tavola rotonda, ciascuna tra due conoscenti*
 
-> Ci sono persone < MSK0/> in una festa. Supponiamo che tra i tre ci siano due che si conoscono. Mostrare che si può selezionare almeno $n/2$ delle persone e organizzarle su una tavola rotonda in modo che ciascuna persona si sedi tra due delle sue conoscenze.
+> Ci sono persone $n \geq 5$ in una festa. Supponiamo che tra i tre ci siano due che si conoscono. Mostrare che si può selezionare almeno $n/2$ delle persone e organizzarle su una tavola rotonda in modo che ciascuna persona si sedi tra due delle sue conoscenze.
 
 [[src_pol_2004_r2__Q06]]

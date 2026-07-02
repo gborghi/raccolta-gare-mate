@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>10000 times real root product of 16x^4-16x^3-4x+1 < MSK1/>
+*10000 times real root product of 16x^4-16x^3-4x+1 *
 
 > Summer is coming to an end and φ-neas and Ferbmat have just built a machine capable of calculating the product of the real roots of a polynomial. To test it, they decide to insert the polynomial p(x) = 16x4 −16x3 −4x+1. While the machine is processing the result, BuFourier exclaims: Real radicals? So they must have a crown or something, right? (Suddenly, from a corner of the garden appears the Periodic ornitorinic). Oh, there you are, perryodic! Given the result calculated by the machine, what is the value of 10000?
 

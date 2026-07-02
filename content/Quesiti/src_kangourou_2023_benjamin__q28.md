@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>movement of Sonia< MSK1/>
+*movement of Sonia*
 
 > Sonia and Roberto have a bowl full of balls and they play like this. They can take turns choosing 1, 2, 3, 4 or 5 seeds from the bowl. Whoever takes the last ball (or the last ball) loses. At some point in the bowl game, there are 10 cards left and it's Sonia's turn: how many cards does she have to leave Roberto to be sure of winning? A) 9
 > 	

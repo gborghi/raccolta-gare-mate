@@ -63,7 +63,7 @@ tags:
 
 *Espresso somma dei coefficienti indicizzati pari di un polinomio di grado-2000*
 
-> Let < MSK0/>. Quindi $a_{2000}+a_{1998}+a_{1996}+\ldots+a_2+a_0$ è uguale a:
+> Let $P(x)=a_{2000}x^{2000}+a_{1999}x^{1999}+a_{1998}x^{1998}+\ldots+a_1x+a_0$. Quindi $a_{2000}+a_{1998}+a_{1996}+\ldots+a_2+a_0$ è uguale a:
 >
 > - **(A)** $\dfrac{P(1)-P(-1)}{2}$
 > - **(B)** $\dfrac{P(1)+P(-1)}{2}$

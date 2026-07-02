@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most difference between two arrows< MSK1/>
+*Most difference between two arrows*
 
 > Five girls play arrows: each arrows two arrows at the same target composed of ten regions of different values, from 1 to 10. Every shot hits the target and an arrow falls in every region. By the end of the game, Ada has a total of 11 points, Bea has 4, Camilla has 7, Doris has 16, and Eva has 17. Which of the five made the two shots with the most points difference? I 'm going to tell you something .
 

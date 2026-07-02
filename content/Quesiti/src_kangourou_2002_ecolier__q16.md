@@ -42,10 +42,6 @@ tags:
 > B. alle 7.20       C. alle 7.25 
 >  D. alle 7.30 
 > E. alle 7.33  
->  
->  
->  
->  
 > I quesiti dal N. 17 al N. 24 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

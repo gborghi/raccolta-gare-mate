@@ -52,7 +52,7 @@ tags:
 
 *La potenza di un punto e di triangoli simili dà un angolo di 100 gradi*
 
-> Nella configurazione data, $O$, $E$, $X$ sono collineari, $A$, $B$, $C$, $D$ si trovano su un cerchio, e i triangoli $OCX$ e $CEX$ sono simili in modo che $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; anche $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Date < MSK17/>, dimostrare che < MSK18/>.
+> Nella configurazione data, $O$, $E$, $X$ sono collineari, $A$, $B$, $C$, $D$ si trovano su un cerchio, e i triangoli $OCX$ e $CEX$ sono simili in modo che $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; anche $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Date $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, dimostrare che $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
 ![[src_rmo_2012_mumbai__Q07.png]]
 

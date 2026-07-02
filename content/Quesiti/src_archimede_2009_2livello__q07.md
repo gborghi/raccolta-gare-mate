@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum n integers without sum or difference divisible by 100< MSK1/>
+*Maximum n integers without sum or difference divisible by 100*
 
 > Determine the largest integer n with this property: there are distinct positive integers a1, . . . If they choose between two distinct ones, their sum and their difference shall be divisible by 100.
 >

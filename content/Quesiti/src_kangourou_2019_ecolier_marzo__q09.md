@@ -83,7 +83,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How long is the first leap to avoid the wells< MSK1/>
+*How long is the first leap to avoid the wells*
 
 ![[src_kangourou_2019_ecolier_marzo__prob9.png]]
 

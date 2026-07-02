@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many different bracelets with 7 coloured rings< MSK1/>
+*How many different bracelets with 7 coloured rings*
 
 > A bracelet for Carla Carla has seven rings of different colors. By placing them one by one and connecting them, he wants to build a bracelet. How many different bracelets can it form?
 

@@ -58,6 +58,6 @@ tags:
 
 *Contare i colori distinti di una scacchiera 2015x37 ottenuti con i pulsanti di inversione delle righe/colonne*
 
-> (Parte B) Considerate una tabella < MSK0/>, dipinta come una scacchiera. Ogni riga e colonna hanno un pulsante che inverte il colore di ogni cella della riga o colonna corrispondente, per un totale di pulsanti $2015 + 37 = 2052$. Quanti colori diversi si possono ottenere sulla lavagna?
+> (Parte B) Considerate una tabella $2015 \times 37$, dipinta come una scacchiera. Ogni riga e colonna hanno un pulsante che inverte il colore di ogni cella della riga o colonna corrispondente, per un totale di pulsanti $2015 + 37 = 2052$. Quanti colori diversi si possono ottenere sulla lavagna?
 
 [[src_obm_2015_n3_f2__Q07]]

@@ -54,7 +54,7 @@ tags:
 
 *Incircolo di triangolo; punto F con IF parallelo BC e angolazioni di base uguali; prova la perpendicularità*
 
-> Come illustrato in Fig. 2.1, il cerchio $\Omega$ è inscritto nel triangolo $\triangle ABC$; $I$ è il centro di $\triangle ABC$; $O$ è il centro circundante di $\triangle ABC$. Il punto di riferimento è il punto di riferimento di cui all'allegato I del presente regolamento. Il $D$ deve essere un punto di arco $\widehat{AC}$ (non contenente $B$) tale che $AD \parallel BC$. Il $F$ deve essere un punto all'interno di $\triangle ABC$ che soddisfa $IF \parallel BC$ e $\angle BAF = \angle CAF$. $K$ sia l'intersezione delle linee $AF$ e $DI$; $L$ sia l'intersezione delle linee $AF$ e la linea attraverso $N$ e qualche punto costruito. Prova: < MSK24/>.
+> Come illustrato in Fig. 2.1, il cerchio $\Omega$ è inscritto nel triangolo $\triangle ABC$; $I$ è il centro di $\triangle ABC$; $O$ è il centro circostante di $\triangle ABC$. Il punto di riferimento è il punto di riferimento di cui all'allegato I del presente regolamento. Il $D$ deve essere un punto di arco $\widehat{AC}$ (non contenente $B$) tale che $AD \parallel BC$. Il $F$ deve essere un punto all'interno di $\triangle ABC$ che soddisfa $IF \parallel BC$ e $\angle BAF = \angle CAF$. $K$ sia l'intersezione delle linee $AF$ e $DI$; $L$ sia l'intersezione delle linee $AF$ e la linea attraverso $N$ e qualche punto costruito. Prova: $MK \perp NL$.
 
 ![[src_cn_ctst_2021__Q20.png]]
 

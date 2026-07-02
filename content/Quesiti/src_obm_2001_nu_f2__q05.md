@@ -64,7 +64,7 @@ tags:
 
 > Per tutti i $u$ reali, $I(u) = \int_0^u \ln(1 - 2a\cos x + a^2)\,dx$.
 > 
-> a) Provare che < MSK0/>. [Nota: l'originale utilizza $I(u) = \frac{1}{2}I(u^2)$ con la sostituzione $a \mapsto a^2$; la dichiarazione precisa è: provare $I(u) = I(-u)$ e $I(u) = \frac{1}{2}I(u^2)$.]
+> a) Provare che $I(u) = I(-u) = \frac{1}{2}I(u^2)$. [Nota: l'originale utilizza $I(u) = \frac{1}{2}I(u^2)$ con la sostituzione $a \mapsto a^2$; la dichiarazione precisa è: provare $I(u) = I(-u)$ e $I(u) = \frac{1}{2}I(u^2)$.]
 > 
 > b) Calcolare $I(u)$ per tutti $u \in \mathbb{R}$.
 

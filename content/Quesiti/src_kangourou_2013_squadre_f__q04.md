@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>without squares in cubes< MSK1/>
+*without squares in cubes*
 
 > Sequence 2, 3, 5, 6, 7, 10, ... contains all positive integers that are neither perfect squares nor perfect cubes. What number is 2013th in this sequence?
 

@@ -52,7 +52,7 @@ tags:
 
 *Angle to the top of an isosceles triangle with a point on the side*
 
-> ABC is an isosceles triangle with AC = BC. A point A′ on the AC side shall be chosen so that AB = BA′ = A′C. What is the width of the angle < MSK0/>?
+> ABC is an isosceles triangle with AC = BC. A point A′ on the AC side shall be chosen so that AB = BA′ = A′C. What is the width of the angle $\widehat{ACB}$?
 >
 > - **(A)** 30°
 > - **(B)** 36°

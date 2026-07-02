@@ -48,7 +48,7 @@ tags:
 
 *Punto di corda e arco; prova EF·CD = AC·BD*
 
-> 40 punti) Come illustrato nella figura. 1.1, $AB$ è un'accordazione del cerchio $\omega$, $P$ è un punto sull'arco $AB$, e $E$, $F$ sono 2 punti su $AB$ che soddisfano $AE = EF = FB$. Connettere $PE$, $PF$ e estendereli per incrociarli con $\omega$ rispettivamente a $C$ e $D$. Prova < MSK0/>
+> 40 punti) Come illustrato nella figura. 1.1, $AB$ è un'accorda del cerchio $\omega$, $P$ è un punto su un arco $AB$, e $E$, $F$ sono 2 punti su $AB$ che soddisfano $AE = EF = FB$. Connettere $PE$, $PF$ e estendereli per incrociarli con $\omega$ rispettivamente a $C$ e $D$. Prova $$EF \cdot CD = AC \cdot BD.$$
 
 ![[src_cn_cmc-complementary-test_b11_w85__Q01.png]]
 

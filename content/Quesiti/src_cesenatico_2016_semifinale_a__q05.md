@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max AC with cyclic BCDE (ABMD, cyclic ACME) < MSK1/>
+*Max AC with cyclic BCDE (ABMD, cyclic ACME) *
 
 > Bogon I Bogon discovered the two hitchhikers on their ship! Now Superintendent Krylov-Bogonlyubov has forced them to solve a problem of the terrible Bogon geometry, the second worst in the entire universe. They're facing an ABC triangle with AB = 7623 and BC = 8000. Given M the BC middle point, they were forced to choose D,E points on the AC,AB segments respectively, so that ABMD and ACME are cyclic. To free themselves, they must find the maximum AC value such that BCDE is cyclic. What's this value?
 

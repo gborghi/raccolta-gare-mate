@@ -68,6 +68,6 @@ tags:
 > 
 > **2.** Per tale tetraedro $SABC$: il punto $S$ e il centro $\Omega$ della sfera $\Sigma$ si proiettano ortogonalmente sul piano $(ABC)$ rispettivamente nei punti $H$ e $O$. $R$ indichi il raggio del circolo circonscritto del triangolo $ABC$.
 > 
-> Prova che: $$R^2 = OH^2 + 2SI^2,$$ dove $I$ indica un punto che appare nella configurazione. *(Avvertimento: l'ultimo termine $2SI^2$ può comportare un punto $I$ non specificamente nominato nella parte leggibile dell'immagine; potrebbe essere $2SH^2$ o $2\,\Omega I^2$. Vedi avvertenze.)< MSK7/>
+> Prova che: $$R^2 = OH^2 + 2SI^2,$$ dove $I$ indica un punto che appare nella configurazione. *(Avvertimento: l'ultimo termine $2SI^2$ può comportare un punto $I$ non specificamente nominato nella parte leggibile dell'immagine; potrebbe essere $2SH^2$ o $2\,\Omega I^2$. Vedi avvertenze.)*
 
 [[src_cgen_1991__Q03]]

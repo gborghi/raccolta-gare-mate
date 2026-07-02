@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> in how many ways< MSK1/>
+* in how many ways*
 
 > Anna has five discs of different sizes. He wants to build a tower over three discs so that each disc (except the first from below) is smaller than the disc on which it rests. How many ways can you do that? A) 5
 > 	

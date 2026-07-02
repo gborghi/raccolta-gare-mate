@@ -57,7 +57,7 @@ tags:
 
 *Which number was not used in the equality*
 
-> I picked four numbers from MSK0/> and MSK1/> and I put one in each square so that we have the correct equality:
+> I picked four numbers from $1, 3, 4, 5$ and $7$ and I put one in each square so that we have a correct equality:
 >
 > $$\square + \square = \square + \square$$
 >

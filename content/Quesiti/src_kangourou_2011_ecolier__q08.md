@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of boxes for 66 eggs< MSK1/>
+*Minimum number of boxes for 66 eggs*
 
 > Boxing eggs can be done using boxes of 6 eggs and boxes of 12 eggs. What is the minimum number of boxes that can contain 66 eggs? A) 5 B) 6 C) 9 D) 11 E) 13 Questions from N. 9 al N. 16 is worth 4 points each.
 

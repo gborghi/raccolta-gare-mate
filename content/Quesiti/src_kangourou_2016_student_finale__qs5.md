@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most parallelogram area ratio over regular hexagon< MSK1/>
+*Most parallelogram area ratio over regular hexagon*
 
 ![[src_kangourou_2016_student_finale__probS5.png]]
 

@@ -59,9 +59,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many choices< MSK1/>
+*how many choices*
 
-> You are looking for a number of three digits ABC (A is the number of hundreds, B is the number of tens, C is the number of units) such that 1 < MSK0/> A < B < C and the sum of the three numbers ABC, BCA and CAB is a number of three digits equal to each other (i.e. of the type DDD). How many choices do you have? A) 3
+> You are looking for a number of three digits ABC (A is the number of hundreds, B is the number of tens, C is the number of units) such that 1 ≤ A < B < C and the sum of the three numbers ABC, BCA and CAB is a number of three digits equal to each other (i.e. of the type DDD). How many choices do you have? A) 3
 > 	
 > B) 4
 > 	

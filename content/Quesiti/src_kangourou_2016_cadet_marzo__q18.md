@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>after how many seconds it reaches < MSK1/>
+*after how many seconds it reaches *
 
 > Two kangaroos Sal and Tino start jumping at the same moment, from the same starting line and in the same direction and direction. They make a leap per second: each Sal jump is 6 meters long, while Tino's first jump is 1 meter long, the second 2, the third 3 and so on. After how many seconds does Tino reach Sal? A) 10
 > 	

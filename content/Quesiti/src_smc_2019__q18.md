@@ -65,7 +65,7 @@ tags:
 
 > Alison piega in due un pezzo quadrato di carta lungo la linea tracciata mostrata nel diagramma. Dopo aver aperto di nuovo il giornale, poi piega uno degli angoli sulla linea disegnata.
 > 
-> Qual è il valore di < MSK0/>?
+> Qual è il valore di $a$?
 >
 > - **(A)** 45
 > - **(B)** 60

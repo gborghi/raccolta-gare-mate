@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Gray triangles: numbers 1-8 in cells with sums of 14
+*Gray triangles: numbers 1-8 in cells with sums of 14
 
 > Place the integers 1 to 8 in the seven empty boxes in the figure so that the sum of the numbers at the vertices of the same grey triangle is always equal to 14.
 

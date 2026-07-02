@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of triangles to cut the kangaroo< MSK1/>
+*Minimum number of triangles to cut the kangaroo*
 
 ![[src_kangourou_2012_benjamin_finale__probB4.png]]
 

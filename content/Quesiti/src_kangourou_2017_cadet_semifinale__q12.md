@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum chocolates divided into classes 21 and 25< MSK1/>
+*Minimum chocolates divided into classes 21 and 25*
 
 > To celebrate their birthday, the twins Lina and Nina want to bring sweets to school to give to classmates and classmates: so Mom bought chocolates and split them in two equal parts, half for Lina and half for Nina. On the day of the party in Lina's class, there are 21 in attendance, in Nina's class there are 25. Lina gives each of her companions the same number of chocolates and they don't get any better. The same thing happens to Nina. What's the smallest number of chocolates your mom could buy?
 

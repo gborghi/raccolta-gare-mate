@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Natural pairs (m,n) with mn = p(m+n), p prime < MSK1/>
+*Natural pairs (m,n) with mn = p(m+n), p prime *
 
 > Given a prime number $p$, determine all ordered pairs of natural numbers $(m, n)$ that verify the equation: $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
 

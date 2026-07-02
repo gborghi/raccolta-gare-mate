@@ -62,10 +62,10 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Möbius mappe su (-1,1) via tanh; trovare il fattore minimo di contrazione< MSK1/>
+*Möbius mappe su (-1,1) via tanh; trovare il fattore minimo di contrazione*
 
 > (a) Che $g : \mathbb{R} \to (-1, 1)$ sia la bijezione data da $$g(x) = \tanh(x) = \frac{e^{2x} - 1}{e^{2x} + 1}.$$ Data $r \in [0, 1)$, dimostri che esiste $\lambda(r) \in [0, 1)$ con la seguente proprietà: per ogni funzione razionale $$f(x) = \frac{ax + b}{cx + d}$$ con $a, b, c, d$ numeri reali e $|d| > |c|$ tale che $f((-1,1)) \subset (-r, r)$, abbiamo $|(g^{-1} \circ f \circ g)(x)| \le \lambda(r)$ per tutti $x \in \mathbb{R}$.
 > 
-> b) Determinare il minimo < MSK0/> possibile nella parte (a).
+> b) Determinare il minimo $\lambda = \lambda(r)$ possibile nella parte (a).
 
 [[src_obm_2025_nu_fx__Q06]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Color as opposed to white< MSK1/>
+*Color as opposed to white*
 
 > Each face of a cube is painted in a different color. Paul, Andrew and Benedict, one by one, take the cube in their hands and tell what colors they see. Paul: "Blue, white and yellow"; Sandro: "Black, blue and red"; Benedict: "Green, black and white". What color is her face opposite the white one?
 >  

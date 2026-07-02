@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cubs with at least one coloured face in a cut cube< MSK1/>
+*Cubs with at least one coloured face in a cut cube*
 
 > We paint all the faces of a big cube. Then, with a saw, we make 9 cuts so that we divide it into smaller cubes all the same size. We don't move any pieces until we've completed the cuts. Of the small cubes thus obtained, some are colored (in the sense that they have at least one painted face); others have no trace of color. How many small, colorful cubes are there?
 

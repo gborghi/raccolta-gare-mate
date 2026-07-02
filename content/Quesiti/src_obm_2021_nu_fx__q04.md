@@ -57,8 +57,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Per n>1 lasciamo k(n) essere l'esponente massimo di potenza perfetta; trova il limite della media Cesaro*
+*Per n>1 lasciamo k(n) essere l'esponente massimo di potenza perfetta; trovare il limite della media di Cesaro*
 
-> Per ogni intero $n > 1$, $k(n)$ sia il più grande intero positivo $k$ tale che $n = m^k$ per un intero positivo $m$. Determinazione < MSK0/>
+> Per ogni intero $n > 1$, $k(n)$ sia il più grande intero positivo $k$ tale che $n = m^k$ per un intero positivo $m$. Determinazione $$\lim_{n \to \infty} \frac{1}{n} \sum_{j=2}^{n} k(j).$$
 
 [[src_obm_2021_nu_fx__Q04]]

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum sheets to make three crowns< MSK1/>
+*Minimum sheets to make three crowns*
 
 > Lisa is drawing crowns like the one next to her using stickers with these shapes: a cross ($+$), a circle ($\bullet$), a horizontal strip ($-$). The adhesives can be separated from separate sheets which have these two compositions: sheet 1 contains 2 strips and 1 circle and 1 cross; sheet 2 contains 4 circles, 2 crosses and 2 crosses. What's the minimum number of sheets Lisa will have to use if she wants to make 3 crowns?
 >

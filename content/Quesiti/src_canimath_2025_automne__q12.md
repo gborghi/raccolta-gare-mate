@@ -54,6 +54,6 @@ tags:
 
 *Mostra che Marie non scrive mai 5 nel processo iterato di prodotto più uno, più grande di primo divisore*
 
-> Marie scrive il numero $2$ su una lavagna. Poi, ogni minuto, calcola il prodotto di tutti i numeri scritti sulla lavagna e aggiunge $1$. Se $n$ è il risultato di questa operazione, Marie scrive sulla lavagna il più grande divisore primo di $n$. Marie non cancella mai i numeri dalla lavagna. Mostrare che Marie non scriverà mai il numero < MSK4/> sulla lavagna.
+> Marie scrive il numero $2$ su una lavagna. Poi, ogni minuto, calcola il prodotto di tutti i numeri scritti sulla lavagna e aggiunge $1$. Se $n$ è il risultato di questa operazione, Marie scrive sulla lavagna il più grande divisore primo di $n$. Marie non cancella mai i numeri dalla lavagna. Mostrare che Marie non scriverà mai il numero $5$ sulla lavagna.
 
 [[src_canimath_2025_automne__Q12]]

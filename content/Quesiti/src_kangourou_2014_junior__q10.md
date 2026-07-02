@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Meter for the valves to turn down (mcm) < MSK1/>
+*Meter for the valves to turn down (mcm) *
 
 ![[src_kangourou_2014_junior__prob10.png]]
 

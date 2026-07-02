@@ -62,7 +62,7 @@ tags:
 
 *Ricerca la lunghezza AB nel trapezoide con angoli e lati dati*
 
-> Nel trapezoide di seguito, $AB$ è parallelo a $CD$, $AD = 10\,\mathrm{cm}$ e $CD = 15\,\mathrm{cm}$. L'angolo $C$ misura $75^\circ$ e l'angolo $D$ misura $30^\circ$. Qual è la lunghezza del lato < MSK8/>, in centimetri?
+> Nel trapezoide di seguito, $AB$ è parallelo a $CD$, $AD = 10\,\mathrm{cm}$ e $CD = 15\,\mathrm{cm}$. L'angolo $C$ misura $75^\circ$ e l'angolo $D$ misura $30^\circ$. Qual è la lunghezza del lato $AB$, in centimetri?
 > 
 > A) 5 B) 7.5 C) 10 D) 12.5 E) $5\sqrt{3}$
 

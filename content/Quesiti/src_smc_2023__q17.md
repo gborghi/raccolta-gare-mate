@@ -64,11 +64,11 @@ tags:
 
 > Il numero $M=124563987$ è il numero più piccolo che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Ad esempio, i 5° e 6° cifre di $M$ rendono il numero $63$ che non è primo. $N$ è il numero più grande che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Quali sono i 5° e 6° cifre di $N$?
 >
-> - **(A)** < MSK0/> e < MSK1/>
-> - **(B)** < MSK0/> e < MSK1/>
-> - **(C)** < MSK0/> e < MSK1/>
-> - **(D)** < MSK0/> e < MSK1/>
-> - **(E)** < MSK0/> e < MSK1/>
+> - **(A)** $6$ e $3$
+> - **(B)** $5$ e $4$
+> - **(C)** $5$ e $2$
+> - **(D)** $4$ e $8$
+> - **(E)** $3$ e $5$
 
 **Risposta:** E
 [[src_smc_2023__Q17]]

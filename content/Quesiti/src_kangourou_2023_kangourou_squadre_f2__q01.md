@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Difference of surface area given difference of cubic volumes< MSK1/>
+*Difference of surface area given difference of cubic volumes*
 
 > Cube difference The measurements in meters of the sides of two cubes are integers. The difference (positive) in their volumes is 37 m3. How many square meters is the difference (positive) between their surfaces?
 

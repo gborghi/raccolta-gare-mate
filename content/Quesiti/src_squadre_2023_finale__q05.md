@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Right tangent distance s from the centre of Gamma2< MSK1/>
+*Right tangent distance s from the centre of Gamma2*
 
 > In the waiting room, Krull meets Vector, who managed to steal the pyramid. Curious, he asks him how he did it. Tronfio, Vector replies: "You must imagine two circumferences Γ1 and Γ2 of rays 7 and 41, respectively, tangent externally at the point P. Then you take r a tangent line at both circumferences and Q is the tangent point of r with Γ2 (which is different from P). Given that R is the P-distinguished intersection between the PQ straight and Γ1, consider the tangent line at Γ1 in R. You'd know how I did it if you knew how far the straight s is from the center of Γ2!" "Hey, what? And how would it help me understand?" Answer by the distance of s from the center of Γ2.
 

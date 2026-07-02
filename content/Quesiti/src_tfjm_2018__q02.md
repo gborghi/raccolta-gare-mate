@@ -97,15 +97,15 @@ tags:
 
 > Più veloce di Euclide? Morgane vuole calcolare il più grande divisore comune (GCD) di due integri $a$ e $b$ con $a\ge b\ge 1$. Essa utilizza l'algoritmo euclidiano classico, dove $r(x,y)$ indica il resto della divisione euclidiana di $x$ da $y$:
 > 
-> 1: < MSK0/> 2: < MSK1/> 3: Mentre < MSK2/>: 4: < MSK3/> 5: < MSK4/> 6: Ritorna < MSK5/>.
+> 1: $i\leftarrow 0$ 2: $(u_{-1},u_0)\leftarrow(a,b)$ 3: Mentre $u_i\ge 1$: 4: $\quad i\leftarrow i+1$ 5: $\quad u_i\leftarrow r(u_{i-2},u_{i-1})$ 6: Ritorna $u_{i-1}$.
 > 
-> Ad esempio, per calcolare il GCD di $a=34$ e $b=21$, Morgane calcola successivamente $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(8,5)=3$, $u_5=r(5,3)=2$, $u_6=r(3,2)=1$, $u_7=r(2,1)=0$. In seguito restituisce $u_6=1$. Il valore di $i$ alla fine dell'algoritmo è qui $f(34,21)=7$. Indichiamo con $f(a,b)$ questo numero di divisioni euclidiche eseguite per calcolare il GCD di $a$ e $b$.
+> Per esempio, per calcolare il GCD di $a=34$ e $b=21$, Morgane calcola successivamente $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(8,5)=3$, $u_5=r(5,3)=2$, $u_6=r(3,2)=1$, $u_7=r(2,1)=0$. In seguito restituisce $u_6=1$. Il valore di $i$ alla fine dell'algoritmo è qui $f(34,21)=7$. Indichiamo con $f(a,b)$ questo numero di divisioni euclidiche eseguite per calcolare il GCD di $a$ e $b$.
 > 
 > Difiniamo un ordine lessicografico su coppie: $(a,b)$ precede rigorosamente $(a',b')$ se e solo se $a<a'$, o $a=a'$ e $b<b'$.
 > 
 > 1. Per un numero intero $k$ fissato in anticipo, trovare la coppia $(a,b)$ più piccola per l'ordine lessicografico tale che $f(a,b)=k$.
 > 
-> Per risparmiare sforzi, Morgane ha un'altra idea: invece di usare sempre i due risultati più recenti $u_{i-2}$ e $u_{i-1}$, sceglie ad ogni passo due valori precedenti già calcolati e forma il resto della divisione euclidica del più grande per l'altro. Si ferma poi quando trova un valore $d$ e ha controllato $r(a,d)=0$ e $r(b,d)=0$, e afferma che $d$ è il GCD di $a$ e $b$. Per esempio, per calcolare il GCD di $a=u_{-1}=34$ e $b=u_0=21$, può calcolare $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(21,5)=1$, $u_5=r(34,1)=0$ e $u_6=r(21,1)=0$, e quindi affermare che $1$ è il GCD di $34$ e $21$.
+> Per risparmiare sforzi, Morgane ha un'altra idea: invece di usare sempre i due risultati più recenti $u_{i-2}$ e $u_{i-1}$, sceglie ad ogni passo due valori precedenti già calcolati e forma il resto della divisione euclidica del più grande per l'altro. Si ferma poi quando trova un valore $d$ e ha controllato $r(a,d)=0$ e $r(b,d)=0$, e afferma che $d$ è il GCD di $a$ e $b$. Ad esempio, per calcolare il GCD di $a=u_{-1}=34$ e $b=u_0=21$, può calcolare $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(21,5)=1$, $u_5=r(34,1)=0$ e $u_6=r(21,1)=0$, e quindi affermare che $1$ è il GCD di $34$ e $21$.
 > 
 > 2. Nel caso generale, cioè: per tutte le possibili coppie $a\ge b\ge 1$, l'affermazione di Morgane in tali esempi è corretta?
 > 
@@ -113,7 +113,7 @@ tags:
 > 
 > Scriviamo $g(a,b)$ per il numero minimo di divisioni euclidiche che Morgane deve eseguire (nel modo descritto sopra) per calcolare il GCD di $a$ e $b$, comprese le divisioni di $a$ e $b$ da $d$. L'esempio di cui sopra mostra $g(34,21)\le 6$.
 > 
-> 4. Calcolare < MSK0/>.
+> 4. Calcolare $g(34,21)$.
 > 
 > 5. Esiste un intero $A$ tale da avere sempre $g(a,b)\le f(a,b)+A$? In caso affermativo, indicare il minimo di tali $A$.
 > 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of blue aliens on STAR 1< MSK1/>
+*Number of blue aliens on STAR 1*
 
 > An alien convoy crosses space aboard the starship STAR 1. They're three different colors: green, purple and blue. The greens have two tentacles, the lilies have three, and the blues have five. The greens are as many as the lilies and the blues are 10 more than the greens. Together they have 250 tentacles. How many blue aliens travel on STAR 1? A) 15 B) 20 C) 25 D) 30 E) 40
 

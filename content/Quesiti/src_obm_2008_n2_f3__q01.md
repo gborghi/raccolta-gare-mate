@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sette preziose di domini: prove, contate a doppio, contate tutte< MSK1/>
+*Sette preziose di domini: prove, contate a doppio, contate tutte*
 
 > Un set di domino è formato da 28 pezzi diversi. Ogni pezzo ha due metà, ciascuna metà ha da zero a sei punti.
 > 

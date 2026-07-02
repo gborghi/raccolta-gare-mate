@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ladge of the largest square (rectangle in 6 squares) < MSK1/>
+*Ladge of the largest square (rectangle in 6 squares) *
 
 ![[src_kangourou_2006_junior_marzo__prob13.png]]
 

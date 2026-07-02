@@ -54,7 +54,7 @@ tags:
 
 *Meno m in modo che la somma dei quadrati di 11 integri consecutivi da m sia un quadrato perfetto*
 
-> $m$ sia il numero intero positivo più piccolo in modo tale che $m^2 + (m+1)^2 + \cdots + (m+10)^2$ sia il quadrato di un numero intero positivo $n$. Trova < MSK3/>.
+> $m$ sia il numero intero positivo più piccolo tale che $m^2 + (m+1)^2 + \cdots + (m+10)^2$ sia il quadrato di un numero intero positivo $n$. Trova $m + n$.
 
 **Risposta:** 95
 [[src_ioqm_2022__Q05]]

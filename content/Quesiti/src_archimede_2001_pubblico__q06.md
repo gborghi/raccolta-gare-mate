@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> in how many ways< MSK1/>
+* in how many ways*
 
 > In order to subscribe to the contest you must pay $40$ Shields to the Free Students' Association Imesi. In the Confederation, you can find banknotes of any value from $1$ to $100$ Shields. How many ways can an Imese pay for a contest subscription using three different bills?
 

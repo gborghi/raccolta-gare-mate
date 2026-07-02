@@ -56,7 +56,7 @@ tags:
 
 *Potenza massima di 7 diviso 50 fattori*
 
-> La potenza massima di $7$ che è un fattore di $50!$ è $7^k$ (dove $n!=1\times2\times3\times4\times\ldots\times(n-1)\times n$). Che cos' è < MSK4/>?
+> La potenza massima di $7$ che è un fattore di $50!$ è $7^k$ (dove $n!=1\times2\times3\times4\times\ldots\times(n-1)\times n$). Che cos' è $k$?
 >
 > - **(A)** $4$
 > - **(B)** $5$

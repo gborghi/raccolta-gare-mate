@@ -45,9 +45,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-This is the total amount of MSK1
+This is the total amount of*
 
-> For MSK0/> days Joy's cat goes hunting mice. Each day Joy catches more mice than the previous day. On the third day, he caught twice as many mice as the first day. In total, how many mice did Joy catch during the $3$ days?
+> For$3$ days Joy's cat goes hunting mice. Each day Joy catches more mice than the previous day. On the third day, he caught twice as many mice as the first day. In total, how many mice did Joy catch during the $3$ days?
 > 
 > (A) $12$ (B) $15$ (C) $18$ (D) $20$ (E) $24$
 

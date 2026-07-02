@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cents for each spinning spindle< MSK1/>
+*Cents for each spinning spindle*
 
 > The organiser of a small soccer tournament, with teams of 7 players each, had decided to give each of the players of each team a souvenir spike for the cost of 1 euro. When he went to buy the pens, he found that their price had dropped by more than 10% in the meantime, saving a total of 6 euros 65 cents. How many cents did you pay each broom?
 

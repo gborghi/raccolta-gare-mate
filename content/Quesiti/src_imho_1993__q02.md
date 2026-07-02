@@ -52,11 +52,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ratios and perpendicular circumcircles in acute triangles ABC< MSK1/>
+*Ratios and perpendicular circumcircles in acute triangles ABC*
 
 > Let $D$ be a point inside acute triangle $ABC$ such that $\angle ADB = \angle ACB + 90^\circ$ and $AC \cdot BD = AD \cdot BC$.
 > 
-> (a) Calculate the ratio < MSK0/>.
+> (a) Calculate the ratio $(AB \cdot CD)/(AC \cdot BD)$.
 > 
 > (b) Prove that the tangents at $C$ to the circumcircles of $\triangle ACD$ and $\triangle BCD$ are perpendicular.
 

@@ -59,7 +59,7 @@ tags:
 
 *Distance B C data of 30 degree angles on the carton*
 
-> Three people A, B, C are near a road junction between two perpendicular roads. A is located exactly at the intersection, while B and C are on two separate roads. In the field near the intersection (within the right angle < MSK0/>) there is an advertising sign, supported by two poles planted in the ground at points D and E, exactly one meter apart. A, B and C all see the front of the billboard. Knowing that the angles $\widehat{DAE}$, $\widehat{DBE}$ and $\widehat{DCE}$ all measure 30 degrees, what is the distance (in line daria) between B and C?
+> Three people A, B, C are near a road junction between two perpendicular roads. A is located exactly at the intersection, while B and C are on two separate roads. In the field near the intersection (within the right angle $\widehat{CAB}$) there is an advertising sign, supported by two poles planted in the ground at points D and E, exactly one meter apart. A, B and C all see the front of the billboard. Knowing that the angles $\widehat{DAE}$, $\widehat{DBE}$ and $\widehat{DCE}$ all measure 30 degrees, what is the distance (in line daria) between B and C?
 >
 > - **(A)** 3 2 m
 > - **(B)** 1 + √ 5 2 m

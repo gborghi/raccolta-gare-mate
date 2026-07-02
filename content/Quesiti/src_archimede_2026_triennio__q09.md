@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs of 4-digit palindromes with palindromic difference< MSK1/>
+*Pairs of 4-digit palindromes with palindromic difference*
 
 > The real number k satisfies the ratio −1 < k < 0. You can conclude that . . .
 >

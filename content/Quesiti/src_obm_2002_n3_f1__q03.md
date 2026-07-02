@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Un commerciante vende due articoli e calcola il guadagno totale dato il profitto e la perdita percentuali< MSK1/>
+*Un commerciante vende due articoli e calcola il guadagno totale dato il profitto e la perdita percentuali*
 
 > Un commerciante acquista due articoli per un totale di R\$ 27.000,00. He sold the first one at a profit of $10\%$ and the second one at a loss of $5\%$. The total gain was R\$ 750,00. I due prezzi di acquisto erano rispettivamente:
 >

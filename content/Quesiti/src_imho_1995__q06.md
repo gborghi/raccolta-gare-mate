@@ -52,6 +52,6 @@ tags:
 
 *p-element subsets of {1,...,2p} with sum divisible by p*
 
-> Let MSK0/ be an odd prime number. How many $p$-element subsets $A$ of $\{1, 2, \ldots, 2p\}$ are there, the sum of whose elements is divisible by $p$?
+> Let$p$be an odd prime number. How many $p$-element subsets $A$ of $\{1, 2, \ldots, 2p\}$ are there, the sum of whose elements is divisible by $p$?
 
 [[src_imho_1995__Q06]]

@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total points when internal are 36< MSK1/>
+*Total points when internal are 36*
 
 ![[src_kangourou_2022_ecolier_squadre__prob8.png]]
 

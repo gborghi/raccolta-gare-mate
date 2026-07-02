@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many passengers< MSK1/>
+*how many passengers*
 
 > A train has five carriages, each carrying at least one passenger. We'll say "nearby" two passengers if they're in the same carriage or in adjacent carriages. Each passenger has exactly 5 or 10 neighbors. How many passengers are on the train? A) 13
 > 	

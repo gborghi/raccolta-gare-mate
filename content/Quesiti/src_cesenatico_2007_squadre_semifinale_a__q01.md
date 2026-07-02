@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-luxury cartels (multiple 12) (not multiple 18) in 2007< MSK1/>
+*Non-luxury cartels (multiple 12) (not multiple 18) in 2007*
 
 > The village of Retta I Mateninja live organized in various villages. For example, the Retta road consists of a single long road (absolutely straight), flanked by buildings numbered 1 to 2007. Mateninja consume a lot of paper and in fact all buildings with multiples of 12 are billboards; also many mateninja are affluent, so all buildings with multiples of 18 are luxury shops. Numeruto walks the whole village looking for the best price for square footage: How many shops do you visit in total, if you skip the luxury ones?
 

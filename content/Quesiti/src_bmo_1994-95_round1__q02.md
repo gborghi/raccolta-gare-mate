@@ -51,7 +51,7 @@ tags:
 
 *Ottagone regolare con lato 2; punti di mezzo di due lati; trovare lunghezza XY*
 
-> $ABCDEFGH$ è un ottagono regolare con lato $2$. $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$. Le linee $AM$, $CH$, $EF$ e $GN$ sono disegnate. La $X$ è l'intersezione di $AM$ e $CH$, e la $Y$ è l'intersezione di $GN$ e $EF$ [linee ausiliarie esatte parzialmente non chiare nella fonte]. Trova la lunghezza di < MSK16/>.
+> $ABCDEFGH$ è un ottagono regolare con lato $2$. $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$. Le linee $AM$, $CH$, $EF$ e $GN$ sono disegnate. La $X$ è l'intersezione di $AM$ e $CH$, e la $Y$ è l'intersezione di $GN$ e $EF$ [linee ausiliarie esatte parzialmente non chiare nella fonte]. Trova la lunghezza di $XY$.
 
 ![[src_bmo_1994-95_round1__Q02.png]]
 

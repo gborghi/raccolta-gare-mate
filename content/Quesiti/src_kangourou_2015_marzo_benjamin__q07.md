@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of thumb (balance sheet) < MSK1/>
+*Weight of thumb (balance sheet) *
 
 ![[src_kangourou_2015_marzo_benjamin__prob7.png]]
 

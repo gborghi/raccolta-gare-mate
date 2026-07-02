@@ -89,19 +89,19 @@ tags:
 > 
 > Al fine di vincere le elezioni, Elbridge vuole spostare le capitali dei diversi distretti verso posizioni favorevoli al suo partito, nel minor numero di anni possibile.
 > 
-> Se $P$ è parte del piano che rappresenta un paese, con $n \ge 2$. Chiamiamo una configurazione una scelta di $n$ punti distinti $A_1, A_2, \ldots, A_n$ che rappresentano le capitali dei distretti $n$. Per una data configurazione, tagliamo $P$ in $n$ parti $D_1, \ldots, D_n$ (i distretti): il distretto $D_i$ è composto dal insieme di punti strettamente più vicini a $A_i$ che a tutti gli altri punti $A_j$.
+> Se $P$ è parte del piano che rappresenta un paese, con $n \ge 2$. Chiamiamo una configurazione una scelta di $n$ punti distinti $A_1, A_2, \ldots, A_n$ che rappresentano le capitali dei distretti $n$. Per una data configurazione, tagliamo $P$ in $n$ parti $D_1, \ldots, D_n$ (i distretti): il distretto $D_i$ è costituito dal insieme di punti strettamente più vicini a $A_i$ che a tutti gli altri punti $A_j$.
 > 
-> Ogni anno, Elbridge può trasferire, contemporaneamente, ogni capitale $A_i$ in una nuova posizione $A_i' \in D_i$. Quindi diciamo che $(A_1', \ldots, A_n')$ è realizzabile da $(A_1, \ldots, A_n)$ in $1$ anno. Poi la partizione di $P$ in distretti $n$ viene rifatta per questa nuova configurazione. Più in generale, diciamo che una configurazione $C'$ è realizzabile da $C$ se esiste $a \in \mathbb{N}$ in modo tale che $C'$ è realizzabile da $C$ in $a$ anni. Cfr. figura 6. (Figura 6: Esempio in cui $P$ è l'interno di un rettangolo e $n = 3$. La terza configurazione è realizzabile a partire dalla prima in < MSK15/> anni, ma non in una sola.)
+> Ogni anno, Elbridge può trasferire, contemporaneamente, ogni capitale $A_i$ in una nuova posizione $A_i' \in D_i$. Quindi diciamo che $(A_1', \ldots, A_n')$ è realizzabile da $(A_1, \ldots, A_n)$ in $1$ anno. Poi la partizione di $P$ in distretti $n$ viene rifatta per questa nuova configurazione. Più in generale, diciamo che una configurazione $C'$ è realizzabile da $C$ se esiste $a \in \mathbb{N}$ in modo tale che $C'$ è realizzabile da $C$ in $a$ anni. Cfr. figura 6. (Figura 6: Esempio in cui $P$ è l'interno di un rettangolo e $n = 3$. La terza configurazione è realizzabile a partire dalla prima in $2$ anni, ma non in una sola.)
 > 
 > In una prima parte, ci mettiamo nel caso in cui $P$ è un cerchio centrato all'origine. Di conseguenza, tutte le capitali sono situate alla stessa distanza dal centro di $P$.
 > 
 > 1. Da una data configurazione, quali configurazioni sono realizzabili?
 > 
-> 2. Risparmiare < MSK0/>. Partiamo dalla configurazione $C$ dove i capitali formano un poligono regolare centrato all'origine. È realizzabile la configurazione in cui ogni capitale occupa la posizione simmetrica rispetto all'origine? Se sì, determinare (con la massima precisione possibile), come funzione di $n$, il valore più piccolo di $a$ in modo tale che sia realizzabile in $a$ anni.
+> 2. Risparmiare $n$. Partiamo dalla configurazione $C$ dove i capitali formano un poligono regolare centrato all'origine. È realizzabile la configurazione in cui ogni capitale occupa la posizione simmetrica rispetto all'origine? Se sì, determinare (con la massima precisione possibile), come funzione di $n$, il valore più piccolo di $a$ in modo tale che sia realizzabile in $a$ anni.
 > 
 > 3. Fissare $n$ e un semicircolo $M$ di $P$. Esiste un valore $a$ tale che, per qualsiasi configurazione $C$, esista una configurazione realizzabile in anni $a$ in cui tutti i capitali appartengono a $M$? Se sì, determinare (con la massima precisione possibile), come funzione di $n$, il valore più piccolo di $a$ che funziona.
 > 
-> 4. Risparmiare < MSK0/>. Esiste un valore $a$ tale che, per qualsiasi configurazione $C$ e per qualsiasi configurazione $C'$ realizzabile da $C$, $C'$ sia realizzabile in $a$ anni da $C$? Se sì, determinare (con la massima precisione possibile), come funzione di $n$, il valore più piccolo di $a$ che funziona.
+> 4. Risparmiare $n$. Esiste un valore $a$ tale che, per qualsiasi configurazione $C$ e per qualsiasi configurazione $C'$ realizzabile da $C$, $C'$ sia realizzabile in $a$ anni da $C$? Se sì, determinare (con la massima precisione possibile), come funzione di $n$, il valore più piccolo di $a$ che funziona.
 > 
 > 5. Riproduci le domande precedenti in cui $P$ è l'intero piano. Nella domanda 3, $M$ è un semiplano.
 > 

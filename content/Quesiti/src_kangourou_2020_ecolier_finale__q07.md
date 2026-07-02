@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Major Marta euro with 20 banknotes< MSK1/>
+*Major Marta euro with 20 banknotes*
 
 > George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the face opposite the one with the ankle?
 >

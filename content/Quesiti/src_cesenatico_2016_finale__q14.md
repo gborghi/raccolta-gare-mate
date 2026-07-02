@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> sum of equal divisors = sum mult. di 5*
+* sum of equal divisors = sum mult. di 5*
 
 > Imperial officials have learned that the secret rebel base is located on one of Yacobin's 2016 moons (numbered 1 to 2016). Some spies have revealed crucial information about the number n corresponding to the moon on which the rebel base is located: the sum of the positive divisors equal to n is equal to the sum of the positive divisors multiplied by 5 of n, and n has at least 13 positive divisors equal to n. Which moon must be destroyed by the Empire?
 > 

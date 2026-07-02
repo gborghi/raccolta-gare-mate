@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Lap count per ciclisti più lenti quando completano più velocemente il giro 80< MSK1/>
+*Lap count per ciclisti più lenti quando completano più velocemente il giro 80*
 
 > In una competizione ciclistica, Carlinho completa un giro completo della pista in $30$ secondi, mentre Paulinho impiega $32$ secondi per completare un giro. Quando Carlinho completerà il numero del giro $80$, Paulinho completerà il numero del giro:
 >

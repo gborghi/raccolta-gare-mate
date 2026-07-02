@@ -87,7 +87,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>UV length between arcs in the square diagonal< MSK1/>
+*UV length between arcs in the square diagonal*
 
 ![[src_archimede_2025_biennio_rec__prob10.png]]
 

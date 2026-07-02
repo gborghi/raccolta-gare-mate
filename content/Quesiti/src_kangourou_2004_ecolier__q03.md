@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many swallows at the start< MSK1/>
+*How many swallows at the start*
 
 > There were some swirls on the light strings. At some point, five of those squirrels flew away, and three new squirrels landed. Now we're counting the swallows on the light strings, they're 12. How many squirrels were on the wires at the beginning? A)  8           B)  9 C)  10 D)  12         E)  14
 

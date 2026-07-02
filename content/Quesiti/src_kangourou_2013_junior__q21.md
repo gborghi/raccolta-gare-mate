@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining of division by 5 of (factor sum)^2< MSK1/>
+*Remaining of division by 5 of (factor sum)^2*
 
 > For every integer n from 1 onwards we denote with n ! the product 1 × 2 × 3 × ... × (n  1) × n (called the factor of n). Let's divide the number by 1. + 2! + 3! + ... + 100!) 2 times 5: what's the rest? A) 0
 > 	

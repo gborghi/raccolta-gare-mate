@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prova 2 ((AF+BD+CE) = l se P si trova sulla linea incenter-circumcenter in triangolo acuto< MSK1/>
+*Prova 2 ((AF+BD+CE) = l se P si trova sulla linea incenter-circumcenter in triangolo acuto*
 
 > $l$ è il perimetro di un triangolo acuto $\triangle ABC$ non equilaterale. $P$ è un punto variabile all'interno di $\triangle ABC$, e $D$, $E$ e $F$ sono le proiezioni di $P$ su $BC$, $CA$ e $AB$ rispettivamente. Prove che $2(AF + BD + CE) = l$ se e solo se $P$ è collineare con l'incentro e il circoncentro di $\triangle ABC$.
 

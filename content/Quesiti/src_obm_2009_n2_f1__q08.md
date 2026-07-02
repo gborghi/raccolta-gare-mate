@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Barella di cioccolato divisa 2/5, 1/4, restante 70 g; trovare peso totale < MSK1/>
+*Barella di cioccolato divisa 2/5, 1/4, restante 70 g; trovare peso totale *
 
 > Una barra di cioccolato è divisa tra Nelly, Penha e Sônia. Sapendo che Nelly riceve $\dfrac{2}{5}$ della barra, Penha $\dfrac{1}{4}$ della barra, e Sônia $70$ grammi, il peso della barra, in grammi, è:
 > 

@@ -49,6 +49,6 @@ tags:
 
 *Line attraverso il punto sul lato del triangolo, catena di parallele*
 
-> Prendi qualsiasi punto $P_1$ sul lato $BC$ di un triangolo $ABC$ e disegni la seguente catena di linee: $P_1P_2$ parallelo a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallelo a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallelo a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallelo a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallelo a $BC$ ($P_6$ su $AC$). Qui < MSK23/>, < MSK24/> si trovano su < MSK25/>; < MSK26/>, < MSK27/> si trovano su < MSK28/>; < MSK29/>, < MSK30/> si trovano su < MSK31/>. Indicare che $P_6P_1$ è parallelo a $AB$.
+> Prendi qualsiasi punto $P_1$ sul lato $BC$ di un triangolo $ABC$ e disegni la seguente catena di linee: $P_1P_2$ parallelo a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallelo a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallelo a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallelo a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallelo a $BC$ ($P_6$ su $AC$). Qui $P_2$, $P_3$ si trovano su $AB$; $P_3$, $P_5$ si trovano su $CA$; $P_1$, $P_4$ si trovano su $BC$. Indicare che $P_6P_1$ è parallelo a $AB$.
 
 [[src_rmo_1991__Q05]]

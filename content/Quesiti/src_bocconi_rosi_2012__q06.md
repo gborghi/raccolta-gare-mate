@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Next year after 2002 < MSK1/>
+*Next year after 2002 *
 
 > 2002 was a palindrome year (one could read it indifferently from left to right and vice versa).
 > 

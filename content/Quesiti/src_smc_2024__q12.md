@@ -59,7 +59,7 @@ tags:
 
 *Quattro numeri primi a due cifre che utilizzano tutti i numeri non a zero tranne 5; trovare la loro somma*
 
-> $p$, $q$, $r$ e $s$ sono numeri primi a due cifre che tra loro utilizzano tutti i numeri non zero tranne 5. Qual è il valore di < MSK4/>?
+> $p$, $q$, $r$ e $s$ sono numeri primi a due cifre che tra loro utilizzano tutti i numeri non zero tranne 5. Qual è il valore di $p + q + r + s$?
 >
 > - **(A)** $220$
 > - **(B)** $210$

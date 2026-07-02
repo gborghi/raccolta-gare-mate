@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solves trig inequality with abs value on [0,2pi]< MSK1/>
+*Solves trig inequality with abs value on [0,2pi]*
 
 > Determine all values of $x$ in the $0 \leq x \leq 2\pi$ range that satisfy the inequality $$2\cos x \leq \left|\sqrt{1+\sin 2x} - \sqrt{1-\sin 2x}\right| \leq \sqrt{2}.$$
 

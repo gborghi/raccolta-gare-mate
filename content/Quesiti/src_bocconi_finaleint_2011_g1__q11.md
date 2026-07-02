@@ -58,7 +58,7 @@ tags:
 
 Minimum weight of luggage Mr and Mrs Leggeri
 
-> When a passenger flies with the airline AIR-MATHS, each kilogram of his personal luggage above a certain weight < MSK0/> is taxed. The baggage of Mr and Mrs LEGGERI weighs in all < MSK1/> kilos. LEGGERI baggage had to pay < MSK2/> in full. The baggage of Mr and Mrs PESANTI also weighs a total of < MSK3/> kilos, but the baggage of Mr and Mrs PESANTI had to pay < MSK4/>. < MSK6/>What is the minimum weight of < MSK5/> in kilograms? < MSK7/>
+> When a passenger flies with the airline AIR-MATHS, any kilogram of his personal luggage above a certain weight $P$ shall be taxed. The baggage of Mr and Mrs LEGGERI weighs in all $58$ kilos. LEGGERI baggage had to pay $11 €$ in full. The baggage of Mr and Mrs PESANTI also weighs a total of $58$ kg, but the baggage of Mr and Mrs PESANTI had to pay $20 €$. **What is the minimum weight of $P$ in kilograms? **
 
 **Answer:** 18 chilogrammi
 [[src_bocconi_finaleint_2011_g1__Q11]]

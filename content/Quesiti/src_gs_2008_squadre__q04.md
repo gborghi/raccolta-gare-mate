@@ -52,7 +52,7 @@ tags:
 
 *Minimum number of stones subject to weight restrictions*
 
-> Ligur, the head of the underground quarry, must transport < MSK0/> of stones, each weighing less than < MSK1/>, from the quarry to a storage facility. Only one truck with a maximum capacity of < MSK2/> is available. The truck always travels without further loading, in the sense that, for each trip, no stone can be added without exceeding the maximum range.
+> Ligur, the head of the underground quarry, must carry $100\,\text{t}$ of stones, each weighing less than $1\,\text{t}$, from the quarry to a deposit. Only one truck with a maximum capacity of $1\,\text{t}$ is available. The truck always travels without further loading, in the sense that, for each trip, no stone can be added without exceeding the maximum range.
 > 
 > What is the maximum number of trips from the quarry to the warehouse that the truck will have to make to transport all the stones?
 

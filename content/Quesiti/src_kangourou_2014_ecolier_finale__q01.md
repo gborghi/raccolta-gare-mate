@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Goats to be bought because they are half of the animals< MSK1/>
+*Goats to be bought because they are half of the animals*
 
 > AR BS CT DU
 

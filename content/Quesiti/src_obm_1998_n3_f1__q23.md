@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Riferazione incrociata al problema 17 del livello 2 (dichiarazione non presente in queste pagine).< MSK1/>
+*Riferazione incrociata al problema 17 del livello 2 (dichiarazione non presente in queste pagine).*
 
 > Cfr. il problema 17 del livello 2.
 

@@ -55,7 +55,7 @@ tags:
 
 *Minimum number of northern square uphill walks*
 
-> Let < MSK0/> be a positive integer. A **Nordic square** is a $n \times n$ board containing all the integers from $1$ to $n^2$ so that each cell contains exactly one number. Two different cells are considered adjacent if they share a common side. Every cell that is adjacent only to cells containing larger numbers is called a **valley**. An **uphill path** is a sequence of one or more cells such that:
+> Let $n$ be a positive integer. A **Nordic square** is a $n \times n$ board containing all the integers from $1$ to $n^2$ so that each cell contains exactly one number. Two different cells are considered adjacent if they share a common side. Every cell that is adjacent only to cells containing larger numbers is called a **valley**. An **uphill path** is a sequence of one or more cells such that:
 > 
 > (i) the first cell in the sequence is a valley,
 > 

@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to colour hexagonal bricks with three colours< MSK1/>
+*How to colour hexagonal bricks with three colours*
 
 ![[src_archimede_2012_biennio__prob8.png]]
 

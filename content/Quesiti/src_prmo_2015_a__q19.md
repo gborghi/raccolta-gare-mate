@@ -58,7 +58,7 @@ tags:
 
 *angolo $\angle PYX$ per cerchi tangenti interni con diametro tangente al cerchio interno*
 
-> Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro di $\Omega$ è $O$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo < MSK8/>. Lasciate che < MSK9/> si incroci < MSK10/> a < MSK11/>. Se $YZ = 2PZ$, qual è il valore di $\angle PYX$ in gradi?
+> Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro di $\Omega$ è $O$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo $PY > PX$. Lasciate che $PY$ si incroci $\omega$ a $Z$. Se $YZ = 2PZ$, qual è il valore di $\angle PYX$ in gradi?
 
 **Risposta:** 15
 [[src_prmo_2015_a__Q19]]

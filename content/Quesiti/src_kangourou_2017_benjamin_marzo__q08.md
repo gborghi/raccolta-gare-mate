@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Correct order of the three rhinos by weight< MSK1/>
+* Correct order of the three rhinos by weight*
 
 ![[src_kangourou_2017_benjamin_marzo__prob8.png]]
 

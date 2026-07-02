@@ -50,6 +50,6 @@ tags:
 
 *Prove una relazione di prodotto in un esagono con lati paralleli*
 
-> Il $ABCDEF$ deve essere un esagono (che può non essere regolare), che ha $AB$ parallelo a $ED$, $BC$ parallelo a $FE$ e $CD$ parallelo a $AF$. Provare che < MSK0/>
+> Il $ABCDEF$ deve essere un esagono (che può non essere regolare), che ha $AB$ parallelo a $ED$, $BC$ parallelo a $FE$ e $CD$ parallelo a $AF$. Provare che $$AD \cdot BC \cdot CE = CA \cdot EF \cdot FD.$$
 
 [[src_bmo_1998-99_round2__Q02]]

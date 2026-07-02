@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum four-pen bags with a maximum of two of the same colour< MSK1/>
+*Maximum four-pen bags with a maximum of two of the same colour*
 
 > Luisa has many pens: 29 red, 13 blue, and 20 black. He wants to pack bags containing four pens each, so that no bag contains more than two pens of the same color. How many bags can you pack?
 

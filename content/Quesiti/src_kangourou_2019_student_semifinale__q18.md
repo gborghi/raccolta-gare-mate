@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many ways to buy 30 pieces between three types (max 20 each) < MSK1/>
+*How many ways to buy 30 pieces between three types (max 20 each) *
 
 > (Documents 8) In a shop there are three different types of items, and for each type, there are 20 pieces. A customer who wants to buy 30 of those pieces, regardless of the type, how many different ways than the types can he do it?
 > 

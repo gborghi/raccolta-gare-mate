@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Inclusions between sets of quadrilaterals< MSK1/>
+*Inclusions between sets of quadrilaterals*
 
 > Consider all the possible quadrilaterals in the plan. Name $A$ the set of all quadrilaterals having at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals having at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals having the four sides of the same length; $D$ the set of all quadrilaterals having at least one pair of parallel opposite sides of the same length. Some of these sets contain one or more of the others. For each set it specifies any other sets it contains.
 

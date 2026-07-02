@@ -63,7 +63,7 @@ tags:
 
 *Il KLMN quadrato contiene quadrati nidificati PQRS e TUVW, ottenuti ciascuno dividendo il lato precedente in rapporto 1:2; trovare la frazione ombrata.*
 
-> Il diagramma mostra un quadrato $KLMN$. All'interno viene disegnato un secondo quadrato $PQRS$, dove $P$ divide il lato $KL$ nel rapporto $1:2$. Allo stesso modo, un terzo quadrato $TUVW$ è disegnato all'interno di $PQRS$ con $T$ dividendo $PQ$ nel rapporto $1:2$. Quale frazione della superficie di < MSK10/> è ombrata?
+> Il diagramma mostra un quadrato $KLMN$. All'interno viene disegnato un secondo quadrato $PQRS$, dove $P$ divide il lato $KL$ nel rapporto $1:2$. Allo stesso modo, un terzo quadrato $TUVW$ è disegnato all'interno di $PQRS$ con $T$ dividendo $PQ$ nel rapporto $1:2$. Quale frazione della superficie di $KLMN$ è ombrata?
 >
 > - **(A)** $\frac{25}{81}$
 > - **(B)** $\frac{15}{81}$

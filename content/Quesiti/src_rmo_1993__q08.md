@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conteggio di cene assistite da sole in condizioni di sovrapposizione < MSK1/>
+*Conteggio di cene assistite da sole in condizioni di sovrapposizione *
 
 > Ho 6 amici e durante le vacanze li ho incontrati durante diverse cene. Ho scoperto che ho cenato con tutti i 6 esattamente il giorno $1$; con ogni $5$ di loro nei giorni $2$; con ogni $4$ di loro nei giorni $3$; con ogni $3$ di loro nei giorni $4$; con ogni $2$ di loro nei giorni $5$. Inoltre, ogni amico era presente alle cene $7$ e ogni amico era assente alle cene $7$. Quante cene ho fatto da sola?
 

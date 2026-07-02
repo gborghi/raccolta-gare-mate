@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability that a 3-year-old child is the youngest< MSK1/>
+*Probability that a 3-year-old child is the youngest*
 
 > The nursery school in my neighborhood consists of eight classes of 27 students each: one class for children aged two, two (each) for children aged three, four and five, and one, finally, for children aged six. During the recreation, four children sat on a bench in the yard, a bit apart from the others.
 > 

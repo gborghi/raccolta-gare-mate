@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which length cannot have the folded and cut barrel< MSK1/>
+*Which length cannot have the folded and cut barrel*
 
 > A spago was folded in half, and then again in half, and then again in half. Eventually, the folded sponge was cut once and formed into several pieces. One is 9 cm long, the other 4 cm. Then the length in centimetres of the entire length A) cannot be 52. B) It cannot be 68. (c) it cannot be 72. D) it cannot be 88. (e) it may be any of the measures proposed.
 

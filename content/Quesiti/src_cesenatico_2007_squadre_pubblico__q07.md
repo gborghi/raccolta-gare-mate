@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Infinite probability of descent (branching) < MSK1/>
+*Infinite probability of descent (branching) *
 
 > A singular technique [35] The Numeruto Matemaki has created a copy of it to confuse the pursuers of the village of Binomio. The copy, however, dissolves after a p or so, creating two more copies of Numbers with a probability of 5, 8, or disappearing without further consequences with a probability of 3.
 

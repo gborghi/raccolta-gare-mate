@@ -54,7 +54,7 @@ tags:
 
 *Trova n dati 299 modi per scegliere due palle di colore diverso dal sacchetto*
 
-> Ci sono sfere rosse < MSK0/>, sfere verdi < MSK1/> e sfere blu < MSK2/> in una borsa. Il numero di modi per scegliere due palle dalla borsa che hanno colori diversi è di 299. Qual è il valore di $n$?
+> Ci sono sfere rosse $n - 1$, sfere verdi $n$ e sfere blu $n + 1$ in una borsa. Il numero di modi per scegliere due palle dalla borsa che hanno colori diversi è di 299. Qual è il valore di $n$?
 
 **Risposta:** 10
 [[src_prmo_2013__Q05]]

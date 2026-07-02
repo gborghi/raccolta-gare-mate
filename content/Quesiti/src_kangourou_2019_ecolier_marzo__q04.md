@@ -45,16 +45,6 @@ tags:
 > D)	
 >  	
 >   E) 
-> ,
-> ,
-> ,
-> ,
-> ,
-> ,
-> ,
-> ,
-> ,
-> ,
 > 
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

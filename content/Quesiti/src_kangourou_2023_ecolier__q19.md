@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many different < MSK1/>
+*how many different *
 
 > Elisa, Mario and Nicola always enter the dining room one at a time. Elisa is never the first, Mario is never the second and Nicholas is never the third. How many different orders can they enter? A) 1
 > 	

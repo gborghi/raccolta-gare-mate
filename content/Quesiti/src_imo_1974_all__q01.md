@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>who received q on first round< MSK1/>
+*who received q on first round*
 
 > Three players $A$, $B$ and $C$ play the following game: on each of the three cards a whole is written. These three numbers $p, q, r$ correspond to $0 < p < q < r$. The three cards are mixed and one is dealt to each player. Each player then receives the number of tokens indicated by the card in his hand. The cards are then mixed again; the chips remain with the players.
 > 

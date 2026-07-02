@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Tra gli interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_m_a_n divisibile per 5050.*
+Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_m_a_n divisibile per 5050.*
 
-> < MSK0/> siano numeri interi. Prova che esistono quattro numeri diversi $a_k, a_l, a_m, a_n$ in modo tale che $a_k + a_l - a_m - a_n$ sia divisibile da $5050$.
+> $0 < a_1 < a_2 < \cdots < a_{100} < 5050$ siano numeri interi. Prova che esistono quattro numeri diversi $a_k, a_l, a_m, a_n$ in modo tale che $a_k + a_l - a_m - a_n$ sia divisibile da $5050$.
 
 [[src_pol_1999_r3__Q02]]

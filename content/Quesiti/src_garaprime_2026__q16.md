@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Hypotenuse from the rotation volumes around the chains< MSK1/>
+*Hypotenuse from the rotation volumes around the chains*
 
 > If a rectangular triangle is rotated around a catheter, completing one complete rotation, a volume of 1500π cm3 is obtained. If rotated around the other catheter, a volume of 2000π cm3 is obtained. How long is the hypotenuse?
 >

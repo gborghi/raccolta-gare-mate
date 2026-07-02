@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>GCD dei numeri palindromici 1221, 2332, 3443, ..., 8998< MSK1/>
+*GCD dei numeri palindromici 1221, 2332, 3443, ..., 8998*
 
 > Il più grande divisore comune dei numeri $1221, 2332, 3443, 4554, \ldots, 8998$ è:
 > 

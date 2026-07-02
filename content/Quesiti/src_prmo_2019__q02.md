@@ -52,7 +52,7 @@ tags:
 
 *Condizione delle radici dell'equazione funzionale*
 
-> Let < MSK1/>. Se per tutti i $x$ $$f\!\left(x + \frac{1}{x}\right) = f(x) + f\!\left(\frac{1}{x}\right)$$ reali non zero e le radici di $f(x) = 0$ sono numeri interi, qual è il valore di $a^2 + b^2$?
+> Let $f(x) = x^2 + ax + b$. Se per tutti i $x$ $$f\!\left(x + \frac{1}{x}\right) = f(x) + f\!\left(\frac{1}{x}\right)$$ reali non zero e le radici di $f(x) = 0$ sono numeri interi, qual è il valore di $a^2 + b^2$?
 
 **Risposta:** 13
 [[src_prmo_2019__Q02]]

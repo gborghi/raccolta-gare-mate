@@ -47,8 +47,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ceviani in triangolo acuto; DK bisecta angolo EKF< MSK1/>
+*Ceviani in triangolo acuto; DK bisecta angolo EKF*
 
-> Considera un triangolo acuto $ABC$ e lascia che $P$ sia un punto interno di $ABC$. Supponiamo che le linee $BP$ e $CP$, quando prodotte, soddisfino rispettivamente $AC$ e $AB$ in $E$ e $F$. $D$ sia il punto in cui $AP$ incrocia il segmento di linea $EF$ e $K$ sia il piede di perpendicolare da $D$ a $BC$. Indicare che < MSK15/> bisecta < MSK16/>.
+> Considera un triangolo acuto $ABC$ e lascia che $P$ sia un punto interno di $ABC$. Supponiamo che le linee $BP$ e $CP$, quando prodotte, soddisfino $AC$ e $AB$ rispettivamente in $E$ e $F$. $D$ sia il punto in cui $AP$ incrocia il segmento di linea $EF$ e $K$ sia il piede di perpendicolare da $D$ a $BC$. Indicare che $DK$ bisecta $\angle EKF$.
 
 [[src_inmo_2003__Q01]]

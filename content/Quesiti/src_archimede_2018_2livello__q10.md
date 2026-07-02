@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive integers with x+y=ab and a+b=xy< MSK1/>
+*Positive integers with x+y=ab and a+b=xy*
 
 > How many are the four positive integers (a, b, x, y) such that x + y = a · b and a + b = x · y?
 >

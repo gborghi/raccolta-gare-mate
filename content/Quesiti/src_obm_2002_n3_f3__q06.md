@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK1/>Arnaldo e Beatriz comunicano tramite segnali di fumo; legato N < MSK0/> 4096 sulla dimensione del dizionario< MSK2/>
+*Arnaldo e Beatriz comunicano tramite segnali di fumo; legato N ≤ 4096 sulla dimensione del dizionario*
 
 > Arnaldo e Beatriz comunicano durante un viaggio di campeggio usando segnali di fumo, a volte con un piccolo fuoco e a volte con uno grande. Durante il tempo disponibile prima del caffè mattutino, Arnaldo riesce a inviare una sequenza di 24 polveri di fumo. Beatriz e Arnaldo creano poi un dizionario per comunicare. Il dizionario elenca le sequenze $N$ di 24 polveri di fumo (dove $G$ indica un grande polvere di fumo e $P$ indica un piccolo polvere di fumo, ad esempio la sequenza $GPGPGPGPGPGPGPGPGPGPGPGPGP$), e il dizionario indica il significato di ciascuna sequenza. Per evitare interpretazioni errate, Arnaldo e Beatriz concordano di includere nel dizionario solo le sequenze che differiscono in almeno 8 delle 24 posizioni. Più precisamente, due sequenze sono considerate vicine se differiscono in almeno $8$ delle posizioni $24$. Arnaldo e Beatriz concordano di non includere sequenze vicine nel dizionario.
 > 

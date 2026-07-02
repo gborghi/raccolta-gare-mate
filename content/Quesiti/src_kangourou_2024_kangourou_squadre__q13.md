@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum euro per child, average of 4< MSK1/>
+*Minimum euro per child, average of 4*
 
 > The rich man The 2024 children in a small town have an average of 4 euros per person. Each has at least one euro and half has at least two. What is the maximum amount of euros that one of those children could have?
 

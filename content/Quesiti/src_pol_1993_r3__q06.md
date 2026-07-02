@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Determine il volume del tetraedro dalle aree del viso e dal circondario.< MSK1/>
+*Determine il volume del tetraedro dalle aree del viso e dal circondario.*
 
 > Scopri se è possibile determinare il volume di un tetraedro conoscendo le aree delle sue facce e il suo circondario.
 

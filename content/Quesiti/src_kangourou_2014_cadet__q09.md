@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which product gives the highest result< MSK1/>
+*Which product gives the highest result*
 
 > Which of the following products produces the greatest result? A) 44 × 777
 > 	

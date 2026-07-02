@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Collinearità del circondocentro, dell'incentro, del vertice se le aree sono uguali< MSK1/>
+*Collinearità del circondocentro, dell'incentro, del vertice se le aree sono uguali*
 
 > Supponiamo che i punti $I$ e $H$ siano rispettivamente l'incentro e l'ortocentro di un triangolo acuto $ABC$, e che i punti $B_1$ e $C_1$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. È noto che il raggio $B_1I$ interseca il lato $AB$ a $B_2$ (o la sua estensione), $C_1I$ interseca l'estensione $AC$ a $C_2$, $B_2C_2$ e $BC$ interseca a $K$, e $A_1$ è il circoncentro di $\triangle BHC$. Prova che i tre punti $A_1$, $I$ e $A$ sono collineari se e solo se le superfici di $\triangle B_1B_2K$ e $\triangle C_1C_2K$ sono uguali. (Posizionato da Shen Wenxuan)
 

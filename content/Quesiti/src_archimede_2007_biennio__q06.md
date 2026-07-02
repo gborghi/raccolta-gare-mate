@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Simplify 10^100+100^10< MSK1/>
+*Simplify 10^100+100^10*
 
 > The number 10100 + 10010 is equal to:
 >

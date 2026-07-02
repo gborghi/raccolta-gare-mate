@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Variation of salary expenditure with percentage changes< MSK1/>
+*Variation of salary expenditure with percentage changes*
 
 > On Mars, the Martian High Commissioner for Education said that the number of schoolteachers will be reduced by 30% next school year and that salaries for those who remain will be increased by 35%. The total expenditure on teachers' salaries therefore:
 >

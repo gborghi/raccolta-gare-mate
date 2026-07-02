@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK2/>Contare le coppie ordinate (m,n) con 1 < MSK0/> m < n < MSK1/> 50 e mn un quadrato perfetto < MSK3/>
+*Contare le coppie ordinate (m,n) con 1 ≤ m < n ≤ 50 e mn un quadrato perfetto *
 
 > Trova il numero di coppie ordinate $(m, n)$ dove $m$ e $n$ sono integri positivi in modo tale che $1 \le m < n \le 50$ e il prodotto $mn$ sia un quadrato perfetto.
 

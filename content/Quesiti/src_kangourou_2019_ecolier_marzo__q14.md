@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of a glass filled with water < MSK1/>
+*Weight of a glass filled with water *
 
 ![[src_kangourou_2019_ecolier_marzo__prob14.png]]
 

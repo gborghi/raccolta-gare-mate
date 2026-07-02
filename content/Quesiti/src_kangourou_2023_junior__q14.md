@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>third fraction< MSK1/>
+*third fraction*
 
 > A 95-meter-long rope is cut into three pieces so that the third is one and a half times the second and the second is one and a half times the first. How long is the third piece? A) 36
 > 	

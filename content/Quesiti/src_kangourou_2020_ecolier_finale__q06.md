@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eta of Alda (month two years Charles) < MSK1/>
+*Eta of Alda (month two years Charles) *
 
 > With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. What kind?
 >

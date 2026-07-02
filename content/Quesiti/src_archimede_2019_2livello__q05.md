@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Round table students, four types, sum of MSK1/>
+Round table students, four types, sum of*
 
 > In the Normal School, this year's students in the Science class are of four types: Mathematicians, Physicists, Chemists and Biologists. At the dining room they are all sitting together around a round table; each of them has exactly one person sitting in front of him, and furthermore for each student the whole made up of himself, his right neighbour, his left neighbour and the student sitting in front includes all four types of students. How many students can be enrolled in the sciences class, appropriately divided between the four types, knowing that they are between 30 and 50 (extreme included)? The result is the sum of all possible answers.
 >

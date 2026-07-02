@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum S(n+1) given S(n)=2026< MSK1/>
+*Minimum S(n+1) given S(n)=2026*
 
 > Let's show with S(n) the sum of the digits of a positive integer n (e.g. S(574) = 16). If S(n) = 2026, what can be the smallest value of S(n + 1)?
 >

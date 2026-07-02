@@ -56,6 +56,6 @@ tags:
 
 *Prove che l'iterata a n volte di una quadrata fissa è uguale a zero ha una soluzione reale per ogni n*
 
-> Let < MSK0/>. Prova che per ogni intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ha almeno una soluzione reale.
+> Let $f(x) = x^2 + 2007x + 1$. Prova che per ogni intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ha almeno una soluzione reale.
 
 [[src_obm_2007_n3_f3__Q01]]

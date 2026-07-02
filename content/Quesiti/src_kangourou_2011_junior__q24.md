@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum value of the sum of the averages of adjacent integers< MSK1/>
+*Maximum value of the sum of the averages of adjacent integers*
 
 > Mark writes the integers from 1 to 9 in a random order. For each pair of integers that, in that order, are adjacent, Mark then calculates the arithmetic mean of the two integers. Finally, add up all the arithmetic averages calculated. What's the greatest value you can get? A) 40 B) 43 C) 42,5 D) 43,5 E) 44
 

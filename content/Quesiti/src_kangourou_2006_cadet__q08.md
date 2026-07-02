@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total surface area of the two-cubic solid< MSK1/>
+*Total surface area of the two-cubic solid*
 
 > The solid in the figure consists of two cubes. The smallest, whose side is 1 centimeter long, is entirely resting on the upper face of the larger cube whose side measures 3 centimeters. What is the total surface area of the solid measured in square centimetres? A) 56 B) 58 C) 60 D) 62 E) 64
 

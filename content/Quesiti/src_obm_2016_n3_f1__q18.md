@@ -57,7 +57,7 @@ tags:
 
 *Primo anno successivo al 2016 in cui una data data è nuovamente sabato*
 
-> Si noti che ogni mese ha $4$ o $5$ sabati e che $365=7\cdot 52+1$. In un anno bisesuale sono $52$ settimane complete e $1$ giorno extra, mentre in un anno bisesuale sono $52$ settimane e $2$ giorni extra. Se si considera che $x$ sia il numero di anni biscotti, l'analisi utilizza $5x+4(12-x)=52\Rightarrow x=8$ e $5x+4(12-x)=53\Rightarrow x=5$. Il 1° gennaio è stato un sabato in $2016$ (aspettate: la tabella inizia con la setta per 2016); la tabella della giornata di lavoro del 1° gennaio è: 2016 setta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 setta, 2022 sabato. L'anno successivo in cui la data è nuovamente sabato è < MSK11/>. In quale anno il prossimo è di nuovo sabato? [Valore della chiave di risposta: $2022$.]
+> Si noti che ogni mese ha $4$ o $5$ sabati e che $365=7\cdot 52+1$. In un anno bisesuale sono $52$ settimane complete e $1$ giorno extra, mentre in un anno bisesuale sono $52$ settimane e $2$ giorni extra. Se si considera che $x$ sia il numero di anni biscotti, l'analisi utilizza $5x+4(12-x)=52\Rightarrow x=8$ e $5x+4(12-x)=53\Rightarrow x=5$. Il 1° gennaio è stato un sabato in $2016$ (aspettate: la tabella inizia con la setta per il 2016); la tabella della giornata di lavoro del 1° gennaio dice: 2016 setta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 setta, 2022 sabato. L'anno successivo in cui la data è nuovamente sabato è $2022$. In quale anno il prossimo è di nuovo sabato? [Valore della chiave di risposta: $2022$.]
 
 **Risposta:** E
 [[src_obm_2016_n3_f1__Q18]]

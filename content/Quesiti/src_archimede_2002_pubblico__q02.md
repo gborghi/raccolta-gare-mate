@@ -50,9 +50,9 @@ tags:
 
 The following points shall be inserted:
 
-> < MSK0/>Nipotines toy < MSK1/> (40 points)
+> **Nipotines toy ** (40 points)
 > 
-> Professor Abacus' three grandsons (Anna, Bernardo, and Carla) play the following game: In an urn there are three leaflets with the children's names written on them. A leaflet is extracted, a name is noted, and the leaflet is put back in the urn, repeating the operation until a name is extracted twice. At this point the player in question is eliminated and the other two continue by placing only two cards in the urn. When the name of one of the remaining two has been extracted twice (including the extractions already made before) the other is declared the winner. What's the probability that the game ends exactly after 4 extractions? (Calculate the probability as a percentage and report the entire part of the result)
+> Professor Abacus' three grandchildren (Anna, Bernardo, and Carla) play the following game: In an urn there are three leaflets with the children's names written on them. You extract a leaflet, write down what name was extracted, and put the leaflet back in the urn, repeating the operation until a name is extracted twice. At this point the player in question is eliminated and the other two continue by placing only two cards in the urn. When the name of one of the two remaining has been extracted twice (including the extractions already made before) the other is declared the winner. What's the probability that the game ends exactly after 4 extractions? (Calculate the probability as a percentage and report the entire part of the result)
 
 **Answer:** 0038
 [[src_archimede_2002_pubblico__Q02]]

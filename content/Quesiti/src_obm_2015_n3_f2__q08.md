@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Parallelogramma ABCD (AB=8, BC=4); cerchio attraverso A,C, punto medio M di BC, tangente a AD, incontra CD a P; trovare MP*
+*Parallelogramma ABCD (AB=8, BC=4); cerchio attraverso A,C, punto medio M di BC, tangente ad AD, incontra CD a P; trovare MP*
 
-> (Parte B) Che $ABCD$ sia un parallelo con $AB = 8$ e $BC = 4$. Il cerchio $\Gamma$ passa attraverso $A$, $C$ e attraverso il punto medio $M$ di $BC$, e taglia il lato $CD$ al punto $P \ne C$. È noto che < MSK10/> è tangente a < MSK11/>. Calcolare la misura del segmento $MP$.
+> (Parte B) Che $ABCD$ sia un parallelo con $AB = 8$ e $BC = 4$. Il cerchio $\Gamma$ passa attraverso $A$, $C$ e attraverso il punto medio $M$ di $BC$, e taglia il lato $CD$ al punto $P \ne C$. È noto che $AD$ è tangente a $\Gamma$. Calcolare la misura del segmento $MP$.
 
 [[src_obm_2015_n3_f2__Q08]]

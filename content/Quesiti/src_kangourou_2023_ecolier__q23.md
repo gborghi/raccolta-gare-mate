@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>shaded circle< MSK1/>
+*shaded circle*
 
 ![[src_kangourou_2023_ecolier__prob23.png]]
 

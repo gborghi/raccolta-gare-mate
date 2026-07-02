@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Year of birth of the chicken (diophantine system) < MSK1/>
+*Year of birth of the chicken (diophantine system) *
 
 > My grandfather My grandfather's birth year number has the following peculiarity: it is divisible by 2, by 3 if you take 1, by 5 if you take 2, by 7 if you take 3, and by 11 if you take 4. What year was my grandfather born, knowing that he was always a good Christian?
 

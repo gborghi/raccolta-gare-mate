@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining of 3^211 divided by 2^14< MSK1/>
+*Remaining of 3^211 divided by 2^14*
 
 > Calculate the remainder of the division of $3^{3^{3^3}}$ by $2^{14}$.
 

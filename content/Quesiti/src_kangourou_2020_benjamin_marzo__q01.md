@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum packaging of eggs for 24 muffins< MSK1/>
+*Minimum packaging of eggs for 24 muffins*
 
 > Michele wants to make 24 muffins for his birthday party. Two eggs are needed to make six muffins. The eggs are sold in packs of six. What's the minimum number of egg packs that Michael can buy? A) 1 B) 2 C) 3
 > 	

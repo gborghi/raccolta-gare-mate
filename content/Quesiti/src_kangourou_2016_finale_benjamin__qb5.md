@@ -48,7 +48,7 @@ tags:
 
 * 2016m network circular park, plant every 8m, same type every 64m*
 
-> A circular park is surrounded by a network of < MSK0/> meters. Each $8$ meter of network has a plant and each $64$ meter the plants are of the same type. How many different types of plants can be on the network at most?
+> A circular park is surrounded by a network of $2016$ meters. Each $8$ meter of network has a plant and each $64$ meter the plants are of the same type. How many different types of plants can be on the network at most?
 
 **Answer:** 4
 [[src_kangourou_2016_finale_benjamin__QB5]]

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most coins in the fortress stopping at total par< MSK1/>
+*Most coins in the fortress stopping at total par*
 
 > You have 100 bags: the first one contains a gold coin, the second one contains two, and so on, up to the penny that contains 100. You can fill your pocket by emptying, one by one, a few bags in the pocket, but when the number of coins in your treasure is equal and zero you will have to stop. How many coins, at most, can you put in the fortress?
 >

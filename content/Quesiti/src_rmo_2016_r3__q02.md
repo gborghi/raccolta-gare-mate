@@ -54,6 +54,6 @@ tags:
 
 *Rimostra la disuguaglianza con tre differenti valori positivi abc*
 
-> $a, b, c$ siano tre numeri reali positivi distinti, come $abc = 1$. Provare che < MSK0/>
+> $a, b, c$ siano tre numeri reali positivi distinti, come $abc = 1$. Provare che $$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} \ge 3.$$
 
 [[src_rmo_2016_r3__Q02]]

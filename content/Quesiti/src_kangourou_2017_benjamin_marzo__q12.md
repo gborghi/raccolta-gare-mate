@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Shares by cutting into 9 and 8 parts< MSK1/>
+*Shares by cutting into 9 and 8 parts*
 
 > Simone intends to divide a piece of spaghetti into nine pieces of the same length and marks the points where she must cut it with a blue pin. Barbara intends to divide the same piece of spaghetti into eight pieces of the same length and, in turn, marks the points where she must cut it with a red pin. Charles comes in and cuts the sponge wherever he finds any marks of pebble. How many pieces of spaghetti does Carlo get? A) 15
 > 	

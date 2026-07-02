@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trapezio ABCD con incircolo che tocca AB a Q e CD a P, trovare PQ< MSK1/>
+*Trapezio ABCD con incircolo che tocca AB a Q e CD a P, trovare PQ*
 
 > Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AD \perp AB$. Supponiamo che $ABCD$ abbia un incircolo che tocchi $AB$ a $Q$ e $CD$ a $P$. Poiché $PC = 36$ e $QB = 49$, trovare $PQ$.
 

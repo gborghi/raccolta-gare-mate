@@ -58,7 +58,7 @@ tags:
 
 *Colore 7 settori di un disco con 4 colori, rotazioni equivalenti*
 
-> Una faccia di un disco è suddivisa in settori congruenti $7$. Ci sono le matite < MSK1/> di colore: rosso, blu, giallo e verde. Usando questi, vogliamo colorare ogni settore con un colore. Lo stesso colore può essere utilizzato più volte e non è necessario utilizzare tutti i colori $4$, ma due settori adiacenti devono essere colorati con colori diversi. Quanti tipi di colorazione ci sono? Qui, due colori del disco che possono essere ottenuti l'uno dall'altro mediante rotazione sono considerati come lo stesso colore.
+> Una faccia di un disco è suddivisa in settori congruenti $7$. Ci sono le matite $4$ di colore: rosso, blu, giallo e verde. Usando questi, vogliamo colorare ogni settore con un colore. Lo stesso colore può essere utilizzato più volte e non è necessario utilizzare tutti i colori $4$, ma due settori adiacenti devono essere colorati con colori diversi. Quanti tipi di colorazione ci sono? Qui, due colori del disco che possono essere ottenuti l'uno dall'altro mediante rotazione sono considerati come lo stesso colore.
 
 ```tikz
 \begin{tikzpicture}

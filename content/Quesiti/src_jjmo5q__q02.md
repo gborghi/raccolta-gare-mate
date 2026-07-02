@@ -48,6 +48,6 @@ tags:
 
 *Quadrilaterale con diagonali perpendicolari; trovare il quarto lato*
 
-> Nel quadrilaterale $ABCD$, abbiamo $AB = 5$, $BC = 7$, $CD = 6$, e le diagonali $AC$ e $BD$ si incrociano perpendicolare all'interno del quadrilaterale. Trova < MSK6/>.
+> Nel quadrilaterale $ABCD$, abbiamo $AB = 5$, $BC = 7$, $CD = 6$, e le diagonali $AC$ e $BD$ si incrociano perpendicolare all'interno del quadrilaterale. Trova $DA$.
 
 [[src_jjmo5q__Q02]]

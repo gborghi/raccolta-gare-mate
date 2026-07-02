@@ -54,7 +54,7 @@ tags:
 
 *Solvi la disuguaglianza logaritmica che coinvolge il polinomio di grado-12*
 
-> Risolvere la disuguaglianza < MSK0/>
+> Risolvere la disuguaglianza $$\log_2(x^{12} + 3x^{10} + 5x^8 + 3x^6 + 1) < 1 + \log_2(x^4 + 1).$$
 
 **Risposta:** $\left(-\sqrt{\dfrac{-1+\sqrt{5}}{2}},\, \sqrt{\dfrac{-1+\sqrt{5}}{2}}\right)$
 [[src_cn_cmc_2008__Q14]]

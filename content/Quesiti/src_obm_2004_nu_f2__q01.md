@@ -68,6 +68,6 @@ tags:
 > 
 > b) Per ogni $a\in\mathbb{R}\setminus\{0\}$, la linea tangente al grafico di $f$ al punto $P=(a,f(a))$ taglia l'asse $x$ a un punto $A$ e l'asse $y$ a un punto $B$ in modo tale che $A$ sia il punto medio del segmento $BP$.
 > 
-> Calcolare < MSK0/>.
+> Calcolare $f(3)$.
 
 [[src_obm_2004_nu_f2__Q01]]

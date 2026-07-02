@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Min judges because the average is 5.625 < MSK1/>
+* Min judges because the average is 5.625 *
 
 > In an artistic skating competition all judges are required to award individual competitors a vote in whole numbers. The arithmetic mean of Stefania's total scores is 5,625. How many judges must the jury consist of at least for this result to be possible? A) 4 B) 8 C) 10 D) 16 E) it is not possible to answer without knowing how many points each judge has at his disposal. A B C D
 > 

@@ -56,7 +56,7 @@ tags:
 
 *Area di carta di colore nero quando un cuscinetto di inchiostro quadrato è girato 180 gradi circa l'angolo*
 
-> Un cuscinetto di inchiostro quadrato ha lati di lunghezza di 1 cm. È ricoperto di inchiostro nero e accuratamente collocato nel mezzo di un pezzo di carta bianca. Il cuscinetto quadrato viene poi girato $180^\circ$ intorno a un angolo. Il blocco viene poi rimosso dalla carta. Quale superficie di carta, in < MSK1/>, è di colore nero?
+> Un cuscinetto di inchiostro quadrato ha lati di lunghezza di 1 cm. È ricoperto di inchiostro nero e accuratamente collocato nel mezzo di un pezzo di carta bianca. Il cuscinetto quadrato viene poi girato $180^\circ$ intorno a un angolo. Il blocco viene poi rimosso dalla carta. Quale superficie di carta, in $\text{cm}^2$, è di colore nero?
 >
 > - **(A)** $\pi + 2$
 > - **(B)** $2\pi - 1$

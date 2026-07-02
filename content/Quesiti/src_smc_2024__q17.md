@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sacco di 4 palle rosse/bianche; P( entrambe disegnate in rosso) = 1/6; trovare P( entrambe disegnate in bianco) < MSK1/>
+*Sacco di 4 palle rosse/bianche; P( entrambe disegnate in rosso) = 1/6; trovare P( entrambe disegnate in bianco) *
 
 > Un sacchetto contiene quattro palle, ognuna di cui è di colore rosso o bianco. Se una palla viene tirata a caso e non sostituita, allora un'altra viene tirata a caso, la probabilità che entrambe le palle siano rosse è $\frac{1}{6}$. Qual è la probabilità che entrambe le palle siano bianche?
 >

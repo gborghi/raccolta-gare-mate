@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di punteggio complessivo per lo studente A in condizioni di dominio su lo studente B < MSK1/>
+*Minimum di punteggio complessivo per lo studente A in condizioni di dominio su lo studente B *
 
 > $a_1, a_2, \ldots, a_7$ sia una permutazione dei numeri interi $1, 2, \ldots, 7$. Gli studenti A e B provano ciascuno 7 problemi numerati $1$ attraverso $7$; per il problema $i$, uno studente guadagna $a_i$ punti se lo risolvono e $0$ punti altrimenti. Supponiamo che le seguenti due condizioni si applichino a ogni sottoinsieme di problemi che A e B potrebbero risolvere:
 > 

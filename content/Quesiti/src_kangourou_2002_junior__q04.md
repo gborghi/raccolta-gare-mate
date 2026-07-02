@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum cookies eaten by Daniela< MSK1/>
+*Minimum cookies eaten by Daniela*
 
 > Six children ate a total of 20 cookies together. Andrea ate one, Beatrice two and Charles three. Daniela ate more cookies than any of the other kids. What's the smallest number of cookies Daniela could have eaten?
 >  

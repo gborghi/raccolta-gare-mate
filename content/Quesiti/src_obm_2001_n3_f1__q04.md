@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Perla 90% acqua, disidrata al 60% acqua; trova litri evaporati a partire da 100 kg < MSK1/>
+*Perla 90% acqua, disidrata al 60% acqua; trova litri evaporati a partire da 100 kg *
 
 > Una pera è costituita al 90% da acqua e al 10% da materia solida. Un produttore mette 100 chilogrammi di pere in disidratazione fino a quando l'acqua non rappresenta il 60% della massa totale. Quanti litri di acqua evaporeranno? (Ricordi: 1 litro di acqua ha una massa di 1 kg.)
 > 

@@ -50,7 +50,7 @@ tags:
 
 *Un quadrilaterale converso con triangoli equilaterali dai punti medi è un rombo*
 
-> Che $ABCD$ sia un quadrilaterale convexo; $P$, $Q$, $R$, $S$ siano i punti di mezzo di $AB$, $BC$, $CD$, $DA$ rispettivamente in modo tale che i triangoli $AQR$ e $CSP$ siano equilaterali. Provare che < MSK11/> è un rombo. Determina le sue angolazioni.
+> Che $ABCD$ sia un quadrilaterale convexo; $P$, $Q$, $R$, $S$ siano i punti di mezzo rispettivamente di $AB$, $BC$, $CD$, $DA$ in modo tale che i triangoli $AQR$ e $CSP$ siano equilaterali. Provare che $ABCD$ è un rombo. Determina le sue angolazioni.
 
 ![[src_rmo_2005__Q01.png]]
 

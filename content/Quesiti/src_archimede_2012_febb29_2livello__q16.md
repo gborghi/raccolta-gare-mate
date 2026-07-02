@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>constant and monotonous values< MSK1/>
+*constant and monotonous values*
 
 > One sequence of n is 0, 1, 2, . . . } of real numbers is defined, when the real parameter a varies, as follows: (x0 = a, xn+1 = 2 −x2 n for n ≥1. (a) Find all the values of a for which xn is constant (i.e. xn = a for all n). (b) Demonstrate that for one of the values found in point (a) (which we will call y) we have that, if \a \a \a \y \y \y \y \x \y \y \y\y for all n (c) Demonstrate, if ∈ R > ∈ R, that xn is strictly decreasing.
 

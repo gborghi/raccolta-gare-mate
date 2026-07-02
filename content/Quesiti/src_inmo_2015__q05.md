@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>ABCD quadrilaterale convex ha incircolo iff 1/PE+1/PG=1/PF+1/PH< MSK1/>
+*ABCD quadrilaterale convex ha incircolo iff 1/PE+1/PG=1/PF+1/PH*
 
 > Che $ABCD$ sia un quadrilaterale convex. Lasciate che le diagonali $AC$ e $BD$ si incrociano in $P$. Le altitudini $PE$, $PF$, $PG$ e $PH$ siano rispettivamente le altitudini da $P$ ai lati $AB$, $BC$, $CD$ e $DA$. Indicare che $ABCD$ ha un incircolo se e solo se $$\frac{1}{PE} + \frac{1}{PG} = \frac{1}{PF} + \frac{1}{PH}.$$
 

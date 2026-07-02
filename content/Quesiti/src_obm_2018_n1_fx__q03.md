@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Pablo paga l'albergo ogni giorno utilizzando una catena di 7 collegamenti d'oro < MSK1/>
+*Pablo paga l'albergo ogni giorno utilizzando una catena di 7 collegamenti d'oro *
 
 > Pablo era in viaggio per una mina lontana e arrivò in un ostello dove voleva rimanere per una settimana. Non aveva soldi con sé, ma aveva una catena con 7 anelli d'oro che offriva al padrone dell'ospedale come pagamento per alloggio e cibo. Al proprietario dell'ostella piaceva l'offerta e disse che avrebbe addebitato un collegamento al giorno. Pablo pensò per un po' e disse che se riuscisse a tagliare alcuni anelli della catena, sarebbe stato in grado di effettuare il pagamento giornaliero e alla fine di 7 giorni, l'albergo sarebbe stato in grado di riassemblare l'intera catena.
 > 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Lessons left after eating layers< MSK1/>
+*Lessons left after eating layers*
 
 > Mama Clara buys a box of sugar in the pots. Cristina eats the surface layer, i.e. 77 pollen; of what remains she eats the lateral layer, which consists of 55 pollen; finally Cristina eats the frontal layer. How many tiles are left in the box? A) 203 B) 256 C) 295 D) 300 E) 3
 

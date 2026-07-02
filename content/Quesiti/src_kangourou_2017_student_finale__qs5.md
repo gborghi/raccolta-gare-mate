@@ -54,7 +54,7 @@ tags:
 
 ![[src_kangourou_2017_student_finale__probS5.png]]
 
-> A rectangle $9 \times 7$ is divided into $63$ squares of sides $1$, obtaining a lattice. Imagine planting a spindle in each of the vertices of the squares (one spindle in each common multiple-square vertex) and wanting to pass a thread by stretching it between one spindle and the other, so as to walk at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of the wire? (It overlooks the fact that it is necessary to rotate around some spindles, i.e. assume that the spindles are < MSK3/> thick).
+> A rectangle $9 \times 7$ is divided into $63$ squares of sides $1$, obtaining a lattice. Imagine planting a spindle in each of the vertices of the squares (one spindle in each common multiple-square vertex) and wanting to pass a thread by stretching it between one spindle and the other, so as to walk at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of the wire? (It overlooks the fact that it is necessary to rotate around some spindles, i.e. assume that the spindles are $0$ thick).
 
 **Answer:** 155
 [[src_kangourou_2017_student_finale__QS5]]

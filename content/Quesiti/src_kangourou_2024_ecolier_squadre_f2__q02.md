@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most weekly number of 4 digits < MSK1/>
+*Most weekly number of 4 digits *
 
 > We say a 4-digit integer is weekly if it has the following property: the product of two of its digits is equal to the sum of 7 with the product of the other two. For example, the number 2701 is weekly: in fact 7 × 1 = 7 + 2 × 0. What's the largest number of weeks? The answer is 9877.
 

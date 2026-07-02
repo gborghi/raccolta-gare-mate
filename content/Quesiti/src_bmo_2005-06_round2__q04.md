@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esame con bambini 2006; ridurre al minimo le risposte totali giuste< MSK1/>
+*Esame con bambini 2006; ridurre al minimo le risposte totali giuste*
 
-> Un esame composto da sei domande è presentato da bambini del 2006. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Che < MSK0/> sia il numero totale di risposte giuste ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino 1 $+$ il totale risolto dal bambino 2 $+ \cdots +$ il totale risolto dal bambino 2006). Trova il minimo valore possibile di $N$.
+> Un esame composto da sei domande è presentato da bambini del 2006. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Che $N$ sia il numero totale di risposte giuste ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino 1 $+$ il totale risolto dal bambino 2 $+ \cdots +$ il totale risolto dal bambino 2006). Trova il minimo valore possibile di $N$.
 
 **Risposta:** 3346
 [[src_bmo_2005-06_round2__Q04]]

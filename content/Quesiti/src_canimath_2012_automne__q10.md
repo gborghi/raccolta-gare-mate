@@ -54,6 +54,6 @@ tags:
 
 *Ricerca angolo ABC dato centro incircolo I, AI=BC e angolo ICA=2 angolo IAC*
 
-> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di < MSK4/>?
+> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di $\widehat{ABC}$?
 
 [[src_canimath_2012_automne__Q10]]

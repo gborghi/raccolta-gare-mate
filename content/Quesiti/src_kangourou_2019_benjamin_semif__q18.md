@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mother/Mother ratio between the same number of years < MSK1/>
+*Mother/Mother ratio between the same number of years *
 
 > Today is the birthday of Mara and her mother: her mother's age is five times Mara's and a number of years ago it was even seven times Mara's. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
 > 

@@ -60,9 +60,9 @@ tags:
 
 *Trova tutte le velocità v in modo che una macchina non si ferma mai a nessun semaforo*
 
-> Providence Avenue ha infinitamente molti semafori spaziati e sincronizzati. La distanza tra due semafori consecutivi è < MSK0/> m. Le luci sono aperte (verde) per $1$ min $30$ s, quindi chiuse (rosse) per $1$ min $30$ s, quindi aperte per $1$ min $30$ s, ecc. Supponiamo che un'auto si sposta a velocità costante < MSK7/> m/s lungo Providence Avenue.
+> Providence Avenue ha infinitamente molti semafori spaziati e sincronizzati. La distanza tra due semafori consecutivi è $1500$ m. Le luci sono aperte (verde) per $1$ min $30$ s, quindi chiuse (rosse) per $1$ min $30$ s, quindi aperte per $1$ min $30$ s, ecc. Supponiamo che un'auto si sposta a velocità costante $v$ m/s lungo Providence Avenue.
 > 
-> Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrario di semafori senza fermarsi a nessuno di essi?
+> Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrario di semafori senza fermarsi in nessuno di essi?
 
 **Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
 [[src_obm_2000_n3_f3__Q04]]

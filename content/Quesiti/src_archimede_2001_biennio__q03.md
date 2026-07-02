@@ -40,7 +40,7 @@ tags:
 > - **(B)** 10
 > - **(C)** 12
 > - **(D)** 15
-> - **(E)** 20. b b b b b b
+> - **(E)** 20.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

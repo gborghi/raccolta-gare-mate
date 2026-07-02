@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Calcolare un'espressione radicale annidata< MSK1/>
+*Calcolare un'espressione radicale annidata*
 
 > Calcolo: $$\sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{3 + \sqrt{1}}}}}}}}}$$ Si prevede una sola risposta numerica.
 

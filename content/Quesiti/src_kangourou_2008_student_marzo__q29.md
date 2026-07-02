@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many bars for 61 octages < MSK1/>
+*How many bars for 61 octages *
 
 ![[src_kangourou_2008_student_marzo__prob29.png]]
 

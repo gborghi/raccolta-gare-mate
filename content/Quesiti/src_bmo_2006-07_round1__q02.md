@@ -50,6 +50,6 @@ tags:
 
 *Quadrilaterale con punti di trisezione su due lati; dimostrare pari aree terze*
 
-> Nel quadrilaterale $ABCD$, i punti $M$ e $N$ sono sul lato $AB$ in modo tale che $AM = MN = NB$, e i punti $P$ e $Q$ sono sul lato $CD$ in modo tale che $CP = PQ = QD$. Provare che < MSK0/>
+> Nel quadrilaterale $ABCD$, i punti $M$ e $N$ sono sul lato $AB$ in modo tale che $AM = MN = NB$, e i punti $P$ e $Q$ sono sul lato $CD$ in modo tale che $CP = PQ = QD$. Provare che $$\text{Area of } AMCP = \text{Area of } MNQP = \tfrac{1}{3} \text{ Area of } ABCD.$$
 
 [[src_bmo_2006-07_round1__Q02]]

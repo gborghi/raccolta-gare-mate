@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n because CZ=1 < MSK1/>
+*n because CZ=1 *
 
 > Two regular polygons, with sides of length 1, lie in semiplanes opposite to the straight containing their common side AB. One of them is a 15-sided polygon, ABCD... And the other one is a polygon with n sides, ABZY... . For what value of n is the length of the CZ segment equal to 1? A) 10
 > 	

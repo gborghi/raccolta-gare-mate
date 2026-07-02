@@ -56,6 +56,6 @@ tags:
 
 *5(2m+1)(2m+3)(2m+5) = ababab a sei cifre; trovare m+a+b*
 
-> Let $m$ essere un intero positivo che soddisfi l'equazione $$5(2m+1)(2m+3)(2m+5) = \overline{ababab}$$ dove $a$ e $b$ rappresentano cifre diverse e $\overline{ababab}$ è un numero di sei cifre. Qual è il valore di < MSK5/>?
+> Let $m$ essere un intero positivo che soddisfi l'equazione $$5(2m+1)(2m+3)(2m+5) = \overline{ababab}$$ dove $a$ e $b$ rappresentano cifre diverse e $\overline{ababab}$ è un numero di sei cifre. Qual è il valore di $m + a + b$?
 
 [[src_ioqm_2025_sep28__Q11]]

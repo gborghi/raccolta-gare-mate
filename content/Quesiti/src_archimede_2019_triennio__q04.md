@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two men's currency with two terms of exchange< MSK1/>
+*Two men's currency with two terms of exchange*
 
 > Two men have coins. If the first one takes 3 out of the second, then he'll have as many as the second one would have. But if the second takes 1 from the first, then it's going to have three times as much as the first. How many coins do the two men have in total?
 >

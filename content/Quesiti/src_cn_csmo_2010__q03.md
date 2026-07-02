@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Circolo inciso interseca i ceviani; rapporto di prova dei prodotti è uguale a 3< MSK1/>
+*Circolo inciso interseca i ceviani; rapporto di prova dei prodotti è uguale a 3*
 
-> Come mostrato nella figura. 3.1. Il cerchio $I$ di $\triangle ABC$ deve toccare $BC$ e $AB$ rispettivamente a $D$ e $F$. Il segmento $AD$ e il segmento $CF$ devono essere incrociati rispettivamente a $H$ e $K$. Provare che < MSK0/>
+> Come mostrato nella figura. 3.1. Il cerchio $I$ di $\triangle ABC$ deve toccare $BC$ e $AB$ rispettivamente a $D$ e $F$. Il segmento $AD$ e il segmento $CF$ devono essere incrociati rispettivamente a $H$ e $K$. Provare che $$\frac{FD \times HK}{FH \times DK} = 3.$$
 
 ![[src_cn_csmo_b11_w277__Q03.png]]
 

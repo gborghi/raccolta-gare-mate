@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>coincidence of points and location of the media< MSK1/>
+*coincidence of points and location of the media*
 
 > An arbitrary point $M$ is selected within the $AB$ segment. The $AMCD$ and $MBEF$ squares are constructed from the same side of $AB$, having the $AM$ and $MB$ segments as bases respectively. The circles surrounded by these squares, with centres $P$ and $Q$, intersect at $M$ and at another point $N$. The intersection point of lines $AF$ and $BC$ shall be indicated by $N'$.
 > 

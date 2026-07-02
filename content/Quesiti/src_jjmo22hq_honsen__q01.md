@@ -52,6 +52,6 @@ tags:
 
 *Ineguaglianza per i reali positivi che soddisfano una condizione di rapporto*
 
-> Che $a, b, c, d$ siano valori reali positivi che soddisfino $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Provare che < MSK0/>
+> Che $a, b, c, d$ siano valori reali positivi che soddisfino $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Provare che $$( a+b)(c+d) \ge (a+c)(b+d).$$
 
 [[src_jjmo22hq_honsen__Q01]]

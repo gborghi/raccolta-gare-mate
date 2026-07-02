@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age of granddaughter (powers of 2 plus 100) < MSK1/>
+*Age of granddaughter (powers of 2 plus 100) *
 
 > This year a friend of mine, her daughter and her granddaughter all have ages that, in years, are powers of two and the sum of their ages is 100 years. How old is your granddaughter? A) 1
 > 	

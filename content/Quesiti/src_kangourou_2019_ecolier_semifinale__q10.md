@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cells can reach the foot in 5 movements< MSK1/>
+*How many cells can reach the foot in 5 movements*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob10.png]]
 

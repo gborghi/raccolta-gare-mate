@@ -55,7 +55,7 @@ tags:
 
 *Equality between two fractions using figures 09*
 
-> Complete the equality between two fractions, using the ten digits from 0 to 9 once and only once (in fact, 1 and 3 are already marked). You also know that each fraction is equal to 1/2. < MSK0/> Note: the query may admit more than one solution; one solution is sufficient.
+> Complete the equality between two fractions, using the ten digits from 0 to 9 once and only once (in fact, 1 and 3 are already marked). You also know that each fraction is equal to 1/2. $$\frac{-\,-}{-\,-} = \frac{1}{3} \cdot \cdot = \frac{-}{3\,-\,-}$$ Note: the query may admit more than one solution; one solution is sufficient.
 
 **Answer:** $\frac{46}{92} = \frac{185}{370}$ oppure $\frac{45}{90} = \frac{186}{372}$
 [[src_bocconi_autunno_2009__Q16]]

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilaterali convex con angoli, bisettori, punto medio e circoncircolo uguali: PQ perp AC < MSK1/>
+*Quadrilaterali convex con angoli, bisettori, punto medio e circoncircolo uguali: PQ perp AC *
 
 > Il $ABCD$ deve essere un quadrilaterale converso con $\angle ABC = \angle ADC < 90^\circ$. I bisettori angolari di $\angle ABC$ e $\angle ADC$ incontrano la linea $AC$ rispettivamente in punti distinti $E$ e $F$ e si incontrano a punto $P$. Let $M$ essere il punto medio del segmento $AC$, e let $\omega$ essere il circoncircolo del triangolo $BPD$. La linea $BM$ incontra di nuovo $\omega$ a un punto $X \neq B$ e la linea $DM$ incontra di nuovo $\omega$ a un punto $Y \neq D$. Se le linee $XE$ e $YF$ si incontrano al punto $Q$, dimostrare che le linee $PQ$ e $AC$ sono perpendicolari.
 

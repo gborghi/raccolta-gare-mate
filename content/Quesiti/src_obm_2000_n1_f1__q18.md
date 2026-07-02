@@ -56,11 +56,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Comparare le medie dopo il trasferimento degli studenti in ultima posizione< MSK1/>
+*Comparare le medie dopo il trasferimento degli studenti in ultima posizione*
 
-> Gli studenti < MSK0/> approvati in un concorso, i cui punteggi erano tutti diversi, sono stati suddivisi in due gruppi: gli studenti < MSK1/> con il miglior punteggio nel gruppo < MSK2/> e i < MSK3/> successivi nel gruppo < MSK4/>. Sono state calcolate le medie di entrambi i gruppi. In seguito è stato deciso di spostare l'allievo ultimo nel gruppo $A$ al gruppo $B$. Con questo:
+> Gli studenti $61$ approvati in un concorso, i cui punteggi erano tutti diversi, sono stati suddivisi in due gruppi: gli studenti $31$ con il miglior punteggio nel gruppo $A$ e i $30$ successivi nel gruppo $B$. Sono state calcolate le medie di entrambi i gruppi. In seguito è stato deciso di spostare l'allievo ultimo nel gruppo $A$ al gruppo $B$. Con questo:
 > 
-> (A) La media del gruppo < MSK0/> è migliorata, ma quella del gruppo < MSK1/> è peggiorata. \quad (B) La media del gruppo < MSK2/> è peggiorata, ma quella del gruppo < MSK3/> è migliorata. \quad (C) Le medie di entrambi i gruppi sono migliorate. \quad (D) Le medie di entrambi i gruppi sono peggiorate. \quad (E) Le medie di entrambi i gruppi possono migliorare o peggiorare, a seconda dei voti dei candidati.
+> (A) La media del gruppo $A$ è migliorata, ma quella del gruppo $B$ è peggiorata. \quad (B) La media del gruppo $A$ è peggiorata, ma quella del gruppo $B$ è migliorata. \quad (C) Le medie di entrambi i gruppi sono migliorate. \quad (D) Le medie di entrambi i gruppi sono peggiorate. \quad (E) Le medie di entrambi i gruppi possono migliorare o peggiorare, a seconda dei voti dei candidati.
 
 **Risposta:** C
 [[src_obm_2000_n1_f1__Q18]]

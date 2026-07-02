@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many 7-digit palindromes are there < MSK1/>
+*How many 7-digit palindromes are there *
 
 > A whole number is called a palindrome if its digits, read from left to right or from right to left, give the same result (e.g. 575 is a palindrome, 576 is not). How many seven-digit palindromes are there?
 

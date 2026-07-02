@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Incircoli e conciclicità: dimostrare B,E,I,F conciclicità in triangolo acuto*
+*Incircoli e conciclicità: dimostrare B,E,I,F conciclici in triangolo acuto*
 
-> Che il $ABC$ sia un triangolo acuto e che il $I$ sia il suo centro. Lascia che l'incircolo del triangolo $ABC$ tocchi $BC$ in $D$. L'incircolo del triangolo $ABD$ tocca $AB$ in $E$; il circolo del triangolo $ACD$ tocca $AC$ in $F$. Provare che < MSK11/> sono conciclici.
+> Che il $ABC$ sia un triangolo acuto e che il $I$ sia il suo centro. Lascia che l'incircolo del triangolo $ABC$ tocchi $BC$ in $D$. L'incircolo del triangolo $ABD$ tocca $AB$ in $E$; il circolo del triangolo $ACD$ tocca $AC$ in $F$. Provare che $B, E, I, F$ sono conciclici.
 
 ![[src_rmo_2014_r4__Q05.png]]
 

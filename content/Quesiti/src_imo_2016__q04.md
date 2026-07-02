@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum b with fragrant set of P(n) = n^2+n+1< MSK1/>
+*Minimum b with fragrant set of P(n) = n^2+n+1*
 
-> A set of positive integers is said to be **fragrance** if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. It is either < MSK1/>. What is the minimum possible value of the positive integer $b$ such that there is a non-negative integer $a$ for which the whole $$\{P(a+1),\, P(a+2),\, \ldots,\, P(a+b)\}$$ is fragrant?
+> A set of positive integers is called **fragrance** if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. It is either $P(n) = n^2 + n + 1$. What is the minimum possible value of the positive integer $b$ such that there is a non-negative integer $a$ for which the whole $$\{P(a+1),\, P(a+2),\, \ldots,\, P(a+b)\}$$ is fragrant?
 
 [[src_imo_2016__Q04]]

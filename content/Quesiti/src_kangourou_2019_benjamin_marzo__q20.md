@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pieces of paper after folding and cutting< MSK1/>
+*How many pieces of paper after folding and cutting*
 
 ![[src_kangourou_2019_benjamin_marzo__prob20.png]]
 

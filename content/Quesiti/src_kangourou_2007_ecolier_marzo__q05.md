@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What time is it (6 hours and a half to 4 hours) < MSK1/>
+*What time is it (6 hours and a half to 4 hours) *
 
 > In six and a half hours it will be exactly four in the morning. What time is it? A) 21: 30 B) 04: 00 C) 20: 00 D) 02: 30 E) 10: 30 1 2 3 4 5 6 school house A) B) C) D) E) Text_07.qxp 16-04-2007 12:02 Page 5
 > 

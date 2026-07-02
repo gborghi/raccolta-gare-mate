@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura < MSK1/>
+*Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura *
 
-> Sono fornite due strisce rettangolari di carta: una lunga < MSK0/> e larga < MSK1/>, e un'altra lunga < MSK2/> e larga < MSK3/>. Uno è piegato perpendicolare sull'altro per formare la figura mostrata. Il perimetro di questa figura, in centimetri, è:
+> Sono fornite due strisce rettangolari di carta: una lunga $20\,\text{cm}$ e larga $5\,\text{cm}$, e un'altra lunga $20\,\text{cm}$ e larga $11\,\text{cm}$. Uno è piegato perpendicolare sull'altro per formare la figura mostrata. Il perimetro di questa figura, in centimetri, è:
 > 
 > **A) ** 50 \quad **B) ** 60 \quad **C) ** 80 \quad **D) ** 100 \quad **E) ** 120
 

@@ -53,11 +53,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'età di Neto nel 2006 data la sua età e l'anno di nascita del 1994
+*L'età di Neto nel 2006 data la sua età e l'anno di nascita del 1994
 
-> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma degli anni di nascita è < MSK0/>. Nel 2006, Neto sarà:
+> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma degli anni di nascita è $3844$. Nel 2006, Neto sarà:
 > 
-> **A)** 55 anni \quad **B)** 56 anni \quad **C)** 60 anni \quad **D)** 62 anni \quad **E)** 105 anni
+> **A) ** 55 anni \quad **B) ** 56 anni \quad **C) ** 60 anni \quad **D) ** 62 anni \quad **E) ** 105 anni
 
 **Risposta:** B
 [[src_obm_2006_n2_f1__Q07]]

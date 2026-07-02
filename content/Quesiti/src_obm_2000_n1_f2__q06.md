@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Migliore n dando i rimanenti uguali per 154, 238, 334< MSK1/>
+*Migliore n dando i rimanenti uguali per 154, 238, 334*
 
 > Qual è il più grande intero positivo $n$ in modo che i rimanenti quando $154$, $238$ e $334$ sono entrambi divisi da $n$ siano tutti uguali?
 

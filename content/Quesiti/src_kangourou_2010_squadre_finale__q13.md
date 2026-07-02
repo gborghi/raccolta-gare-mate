@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum maximum element with perfect square product< MSK1/>
+*Minimum maximum element with perfect square product*
 
 > A set of special numbers A set S of integers is such that its smallest element is 1001 and the product of all its elements is a perfect square. What is the smallest value that the largest element of S can have?
 

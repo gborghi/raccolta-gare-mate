@@ -52,6 +52,6 @@ tags:
 
 *Prove la doppia disuguaglianza per la somma parziale armonica meno log n*
 
-> (50 marchi) dimostrare che < MSK0/>
+> (50 marchi) dimostrare che $$-1 < \left(\sum_{k=1}^{n} \frac{k}{k^2+1}\right) - \ln n \leq \frac{1}{2}, \quad n = 1, 2, \ldots$$
 
 [[src_cn_cmc-complementary-test_2009__Q02]]

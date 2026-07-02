@@ -52,6 +52,6 @@ tags:
 
 *Fraczione del serbatoio di combustibile utilizzato senza perdite, dato il consumo proporzionale al carico*
 
-> Un camion-cisterna era pieno di acqua, ma cominciò a fuoriuscire. Supponiamo che il consumo di carburante del camion sia direttamente proporzionale al peso che porta e che il flusso d'acqua e la velocità del camion siano costanti. Dopo aver percorso < MSK0/> km, il camion aveva la metà della capacità dell'acqua e usava mezzo serbatoio di carburante. Se fosse vuoto, il camion avrebbe usato, viaggiando la stessa distanza nelle stesse condizioni, un sesto di un serbatoio. Che frazione del serbatoio userebbe se non ci fosse una perdita? Ignorare l'influenza del peso del serbatoio sul consumo di benzina. (A) $\frac{11}{18}$ (B) $\frac{5}{9}$ (C) $\frac{2}{3}$ (D) $\frac{3}{4}$ (E) $\frac{4}{5}$
+> Un camion-cisterna era pieno di acqua, ma cominciò a fuoriuscire. Supponiamo che il consumo di carburante del camion sia direttamente proporzionale al peso che porta e che il flusso d'acqua e la velocità del camion siano costanti. Dopo aver percorso $200$ km, il camion aveva la metà della capacità dell'acqua e usava mezzo serbatoio di carburante. Se fosse vuoto, il camion avrebbe usato, viaggiando la stessa distanza nelle stesse condizioni, un sesto di un serbatoio. Che frazione del serbatoio userebbe se non ci fosse una perdita? Ignorare l'influenza del peso del serbatoio sul consumo di benzina. (A) $\frac{11}{18}$ (B) $\frac{5}{9}$ (C) $\frac{2}{3}$ (D) $\frac{3}{4}$ (E) $\frac{4}{5}$
 
 [[src_obm_2014_n3_f1__Q23]]

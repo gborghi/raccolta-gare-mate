@@ -63,6 +63,6 @@ tags:
 > 
 > a) dimostrare che $BM$ è perpendicolare a $AD$.
 > 
-> b) Calcolare l'area del quadrilaterale < MSK0/>.
+> b) Calcolare l'area del quadrilaterale $ABDC$.
 
 [[src_obm_2005_n2_f3__Q02]]

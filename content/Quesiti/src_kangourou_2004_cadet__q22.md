@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>2004-th decimal point of 1/700< MSK1/>
+*2004-th decimal point of 1/700*
 
 > What is the 2004th decimal digit (i.e. after the comma) in the decimal representation of the number 1 / 700 ? A) 0 B) 2 C) 5 D) 8           E) 9
 

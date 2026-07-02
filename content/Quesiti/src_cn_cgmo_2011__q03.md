@@ -51,6 +51,6 @@ tags:
 
 *Inequità con quattro valori reali positivi il cui prodotto è 1*
 
-> Supponiamo che i numeri positivi reali $a$, $b$, $c$, $d$ soddisfino $abcd = 1$. Prova < MSK0/>
+> Supponiamo che i numeri positivi reali $a$, $b$, $c$, $d$ soddisfino $abcd = 1$. Prova $$\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d} + \frac{9}{a+b+c+d} \ge \frac{25}{4}.$$
 
 [[src_cn_cgmo_2011__Q03]]

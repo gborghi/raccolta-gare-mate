@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many dots per 7 photographs (shared pattern) < MSK1/>
+*How many dots per 7 photographs (shared pattern) *
 
 ![[src_kangourou_2019_ecolier_marzo__prob7.png]]
 

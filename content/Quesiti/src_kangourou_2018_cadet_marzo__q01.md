@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many ticks on the snow axe< MSK1/>
+*How many ticks on the snow axe*
 
 > A snow height measuring rod is 3 metres long and has a tail every 15 centimetres from the ends (which are tailless). How many turkeys are on the raft? A) 20
 > 	

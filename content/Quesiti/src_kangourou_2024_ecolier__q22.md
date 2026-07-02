@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cells in the 9-cell hive contain honey< MSK1/>
+*How many cells in the 9-cell hive contain honey*
 
 ![[src_kangourou_2024_ecolier__prob22.png]]
 

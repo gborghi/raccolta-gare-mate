@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-(MSK0/>Evaluate infinite sums of floor n+2^k)/2^(k+1)) for the natural n*
+(*Evaluate infinite sums of floor n+2^k)/2^(k+1)) for the natural n*
 
 > For every natural number $n$, evaluate the sum $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$ (The symbol $[x]$ denotes the greatest integer not exceeding $x$.)
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sequence where a_n counts prior occurrences; possible periodicity< MSK1/>
+*Sequence where a_n counts prior occurrences; possible periodicity*
 
 > Let $a_1, a_2, a_3, \ldots$ be an infinite sequence of positive integers, and let $N$ be a positive integer. Suppose that, for each $n > N$, $a_n$ is equal to the number of times $a_{n-1}$ appears in the list $a_1, a_2, \ldots, a_{n-1}$.
 > 

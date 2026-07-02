@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most likely event by fishing 8 socks< MSK1/>
+*Most likely event by fishing 8 socks*
 
 > In my drawer, there are eight blue socks and eight black socks. I fish in the dark eight socks at a time. Which of the following is the most likely eventuality?
 >

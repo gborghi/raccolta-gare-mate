@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum real x with x^2-2004< 0< MSK1/>
+*Minimum real x with x^2-2004< 0*
 
 > The smallest real number x that results in inequality x2 −2004 < 0 is: A) −2004 B) 2004 C) 0 D) E) −
 

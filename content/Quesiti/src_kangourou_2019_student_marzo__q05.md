@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cifres hidden in the three plates sum 11126< MSK1/>
+*Cifres hidden in the three plates sum 11126*
 
 ![[src_kangourou_2019_student_marzo__prob5.png]]
 

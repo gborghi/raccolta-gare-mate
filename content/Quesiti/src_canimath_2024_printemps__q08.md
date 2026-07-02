@@ -52,7 +52,7 @@ tags:
 
 *Calcolare un'espressione semplice con potenze di 3*
 
-> Calcolo < MSK0/>
+> Calcolo $$\frac{3^3 + 3^3}{54}.$$
 > 
 > *Solo una risposta numerica è prevista.*
 

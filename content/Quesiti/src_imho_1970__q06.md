@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>100 points in general position; at most 70% of triangles are sharp< MSK1/>
+*100 points in general position; at most 70% of triangles are sharp*
 
 > In a plane there are 100 points, no three of which are collinear. Consider all possible triangles having these points as vertices. Prove that no more than $70\%$ of these triangles are acute-angled.
 

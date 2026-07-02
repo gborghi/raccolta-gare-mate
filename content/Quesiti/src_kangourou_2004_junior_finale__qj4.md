@@ -71,7 +71,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>A/B/ABC area report (symmetry) < MSK1/>
+*A/B/ABC area report (symmetry) *
 
 ```tikz
 \begin{document}
@@ -98,7 +98,7 @@ tags:
 \end{document}
 ```
 
-> Given a $ABC$ rectangle in $C$, consider the points $A'$ symmetric $A$ with respect to $BC$, $B'$ symmetric $B$ with respect to $AC$ and $C'$ symmetric $C$ with respect to $AB$. What is the ratio of < MSK11/> to < MSK12/>?
+> Given a $ABC$ rectangle in $C$, consider the points $A'$ symmetric $A$ with respect to $BC$, $B'$ symmetric $B$ with respect to $AC$ and $C'$ symmetric $C$ with respect to $AB$. What is the ratio of $A'B'C'$ to $ABC$?
 
 **Answer:** 3
 [[src_kangourou_2004_junior_finale__QJ4]]

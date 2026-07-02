@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Determine se esiste un poliedro convexo con specificata incidenza sul bordo della faccia< MSK1/>
+*Determine se esiste un poliedro convexo con specificata incidenza sul bordo della faccia*
 
 > Determinare se esiste un poliedro convex tale che (1) abbia 12 bordi, 6 facce e 8 vertici; (2) abbia 4 facce, ciascuna coppia di cui condivide un bordo comune del poliedro.
 

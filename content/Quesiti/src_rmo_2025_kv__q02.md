@@ -53,6 +53,6 @@ tags:
 
 *Prove la disuguaglianza dei valori reali positivi con abc=1*
 
-> $a, b, c$ siano numeri reali positivi che soddisfino $abc = 1$. Provare che < MSK0/>
+> $a, b, c$ siano numeri reali positivi che soddisfino $abc = 1$. Provare che $$\frac{2a^2}{a^2+1} + \frac{2b^2}{b^2+1} + \frac{2c^2}{c^2+1} \le a^2 + b^2 + c^2.$$
 
 [[src_rmo_2025_kv__Q02]]

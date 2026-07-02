@@ -56,7 +56,7 @@ tags:
 
 *Tetraedro con due coppie di bordi ortogonali; ridurre al minimo un'espressione di grado-6*
 
-> Un tetraedro $ABCD$ soddisfa le seguenti condizioni: 1. I bordi $AB$, $AC$ e $AD$ sono ortogonali in coppia (ogni coppia di questi tre bordi è ortogonale all'altra). 2. < MSK4/> e < MSK5/>.
+> Un tetraedro $ABCD$ soddisfa le seguenti condizioni: 1. I bordi $AB$, $AC$ e $AD$ sono ortogonali in coppia (ogni coppia di questi tre bordi è ortogonale all'altra). 2. $AB = 3$ e $CD = \sqrt{2}$.
 > 
 > Determinare il valore minimo di $BC^6 + BD^6 - AC^6 - AD^6$.
 

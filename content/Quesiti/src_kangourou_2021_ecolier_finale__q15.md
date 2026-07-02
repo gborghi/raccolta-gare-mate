@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many hundred-year pairs of two-digit numbers < MSK1/>
+*How many hundred-year pairs of two-digit numbers *
 
 > Returning from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a stack is needed for crossing, but they only have one that can fit two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together, they do it at the slowest speed?
 

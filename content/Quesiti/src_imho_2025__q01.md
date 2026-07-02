@@ -59,7 +59,7 @@ Count sunny lines through lattice points in the plane
 
 > A line in the plane is called *sunny* if it is **not** parallel to any of the $x$-axis, the $y$-axis, and the line $x + y = 0$.
 > 
-> Let < MSK0/> be a given integer. Determine the nonnegative integers $k$ such that there exist $n$ distinct lines in the plane satisfying both of the following:
+> Let $n \ge 2$ be a given integer. Determine the nonnegative integers $k$ such that there exist $n$ distinct lines in the plane satisfying both of the following:
 > 
 > - for all positive integers $a$ and $b$ with $a + b \le n + 1$, the point $(a, b)$ is on at least one of the lines; and - exactly $k$ of the $n$ lines are sunny.
 

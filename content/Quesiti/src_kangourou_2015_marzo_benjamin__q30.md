@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> cube with red and blue < MSK1/>
+* cube with red and blue *
 
 > Brando used 1cm side cubes to build a 4cm side cube. He then painted three faces of the large cube red and the other three blue. When he finished, he noticed that none of the little cubes had three red faces. How many cubes have both red and blue faces? A) 0
 > 	

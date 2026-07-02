@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Outcome of odd alternate sum from 99 to 11< MSK1/>
+*Outcome of odd alternate sum from 99 to 11*
 
 > 99  97 + 95  93 + ... + 15  13 + 11: what is the result of this expression where I wrote, alternating the characters, all odd numbers from 99 to 11? A) 59
 > 	

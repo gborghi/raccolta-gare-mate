@@ -48,7 +48,7 @@ tags:
 
 * inscribed circles and squares, radius greater than 200*
 
-> The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius $1$ Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$. The last belt is the only one with a greater radius than < MSK9/> Imoparsec. How many are in all the belts?
+> The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius $1$ Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$. The last belt is the only one with a greater radius than $200$ Imoparsec. How many are in all the belts?
 
 **Answer:** 0017
 [[src_archimede_2001_pubblico__Q01]]

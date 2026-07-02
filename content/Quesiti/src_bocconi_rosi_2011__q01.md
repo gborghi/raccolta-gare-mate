@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Luxury machinery cost versus savings< MSK1/>
+*Luxury machinery cost versus savings*
 
 > Today Mark feels particularly rich and is ready to invest his savings. So he learned about the prices of some cars and learned that buying two luxury cars, one medium-cylinder and two vintage, costs 176,000 euros. On the other hand, if you buy three luxury cars, two medium-cylinder and one vintage, you would spend a total of 197,000 euros. How much will you spend if you're content with one luxury car and three vintage cars?
 

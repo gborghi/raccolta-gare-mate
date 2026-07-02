@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_l per k ∙ MSK0/>l ∙ MSK2/>
+Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_l per k≠l ∙*
 
 > Lasciate che $a_1, a_2, \ldots$ sia una sequenza infinita di numeri interi. Supponiamo che per tutti gli integri $k \ge 1$ e $l \ge 1$, $k + l$ divida $a_k + a_l$. Indicare che per tutti gli integri $k \ge 1$ e $l \ge 1$ con $k \ne l$, $k - l$ divide $a_k - a_l$.
 

@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Minimum di colori per colori n^2 quadrati unitari con condizione di centro distinta< MSK1/>
+*Minimum di colori per colori n^2 quadrati unitari con condizione di centro distinta*
 
-> Considerare i quadrati di unità $n^2$ nel piano $xy$ centrato al punto $(i, j)$ con coordinate interi, $1 \le i \le n$, $1 \le j \le n$. È necessario colorare ogni quadrato unitario utilizzando uno dei colori $k$ in modo che due quadrati con centri a distanza pari a $\sqrt{5}$ l'uno dall'altro abbiano colori distinti. Qual è il minimo < MSK7/> possibile?
+> Considerare i quadrati di unità $n^2$ nel piano $xy$ centrato al punto $(i, j)$ con coordinate interi, $1 \le i \le n$, $1 \le j \le n$. È necessario colorare ogni quadrato unitario utilizzando uno dei colori $k$ in modo che due quadrati con centri a distanza pari a $\sqrt{5}$ l'uno dall'altro abbiano colori distinti. Qual è il minimo $k$ possibile?
 
 [[src_rmo_2017__Q04]]

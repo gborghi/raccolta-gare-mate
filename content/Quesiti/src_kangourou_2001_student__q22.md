@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most commonly used color in grid 43x43< MSK1/>
+*Most commonly used color in grid 43x43*
 
 ![[src_kangourou_2001_student__prob22.png]]
 

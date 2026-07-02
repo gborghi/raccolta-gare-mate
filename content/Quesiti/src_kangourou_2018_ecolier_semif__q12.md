@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many pipes to open to fill the pool in 6 hours< MSK1/>
+*How many pipes to open to fill the pool in 6 hours*
 
 > (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-duty one, would open to fill it in six hours?
 

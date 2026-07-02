@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Find the tetramine used to fill the square< MSK1/>
+*Find the tetramine used to fill the square*
 
 > Using four of the five "tetramin" in the figure, assembling them without holes or overlapping, Milena managed to form a square of 16 boxes.
 > 

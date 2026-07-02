@@ -49,8 +49,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Vale di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
+Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 
-> Tre numeri reali $x$, $y$, $z$ sono tali che $x^2 + 6y = -17$, $y^2 + 4z = 1$ e $z^2 + 2x = 2$. Qual è il valore di < MSK6/>?
+> Tre numeri reali $x$, $y$, $z$ sono tali che $x^2 + 6y = -17$, $y^2 + 4z = 1$ e $z^2 + 2x = 2$. Qual è il valore di $x^2 + y^2 + z^2$?
 
 [[src_prmo_2013__Q11]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Form to be taken from the vessel 4< MSK1/>
+*Form to be taken from the vessel 4*
 
 ![[src_kangourou_2021_ecolier__prob12.png]]
 

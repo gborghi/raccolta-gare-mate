@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>value of the sum 1/4+1/16+...< MSK1/>
+*value of the sum 1/4+1/16+...*
 
 > Whether $ABC$ is a right triangle isosceles as shown in Figure, with length cathetes $L$. The segments $DG$ and $EF$ are perpendicular to the sides $AB$ and $AC$ respectively, and the segments $AE$ and $AD$ are long $\tfrac{L}{2}$. Knowing that the area of the pentagon $ADGFE$ is $t$ square metres, we can say that $L$ is equal to:
 > 

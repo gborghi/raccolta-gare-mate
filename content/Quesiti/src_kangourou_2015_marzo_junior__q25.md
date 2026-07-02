@@ -90,7 +90,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>shorter segment < MSK1/>
+*shorter segment *
 
 ![[src_kangourou_2015_marzo_junior__prob25.png]]
 

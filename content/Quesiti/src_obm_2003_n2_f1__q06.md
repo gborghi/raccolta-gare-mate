@@ -56,7 +56,7 @@ tags:
 
 *Unità di n^n - n^2 per n=9867*
 
-> Let < MSK0/>. Se si calcola $n^n - n^2$, si trova un numero il cui numero unitario è:
+> Let $n = 9867$. Se si calcola $n^n - n^2$, si trova un numero il cui numero unitario è:
 > 
 > (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 6 \quad (E) 8
 

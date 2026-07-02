@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>After the number of stops of passengers near the destination< MSK1/>
+*After the number of stops of passengers near the destination*
 
 > A train leaves the capitol with 114 people on board. At each stop, 13 passengers descend and six take off. After how many stops is the number of passengers on board as close as possible to half the initial number? A) 6            B) 7            C)  8          D) 9           E) 10
 

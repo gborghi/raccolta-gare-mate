@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total 102 empty boxes given < MSK1/>
+*Total 102 empty boxes given *
 
 > I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes in turn contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102 B 64 C 118 D 115 E cannot be answered.
 

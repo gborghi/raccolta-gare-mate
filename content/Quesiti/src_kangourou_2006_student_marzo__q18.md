@@ -41,18 +41,6 @@ tags:
 > aritmetica. Quanti punti ha ottenuto la squadra che è arrivata ultima?
 > A) 3        B) 2            C) 1             D) Un punteggio diverso da 3, 2, 1.
 > E) La situazione descritta non si può verificare.            
-> B
-> B
-> B
-> B
-> R
-> R
-> R
-> R
-> G
-> G
-> G
-> G
 > 2
 > 1
 > −

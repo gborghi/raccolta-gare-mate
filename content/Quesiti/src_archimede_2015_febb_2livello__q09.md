@@ -61,7 +61,7 @@ tags:
 
 ![[src_archimede_2015_febb_2livello__prob9.png]]
 
-> A pedal is initially located on the central box of a chessboard 5 < MSK0/> 5. One step of the pedina consists of moving in a randomly chosen box between those that have exactly one vertex in common with the box on which it is located. What is the probability that after 12 steps the pawn will be in any corner of the chessboard?
+> A pedal is initially located on the central box of a chessboard 5 × 5. One step of the pedina consists of moving in a randomly chosen box between those that have exactly one vertex in common with the box on which it is located. What is the probability that after 12 steps the pawn will be in any corner of the chessboard?
 >
 > - **(A)** 1 3
 > - **(B)** 4 25

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Squares of chocolate left in the box< MSK1/>
+*Squares of chocolate left in the box*
 
 > A square box is filled with two equal layers of chocolate squares. Isabella ate all 20 squares of the upper layer along the edge of the box. How many square chocolates are left in the box? A) 16
 > 	

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>n punti euclidici; Gauss registra il livello di < log2 d) per ciascuna coppia; mostrano meno di 2n valori distinti< MSK1/>
+*n punti euclidici; Gauss registra il livello di < log2 d) per ciascuna coppia; mostrano meno di 2n valori distinti*
 
 > Euler segna $n$ punti diversi nel piano euclidico. Per ogni coppia di punti segnalati, Gauss scrive il numero $\lfloor \log_2 d \rfloor$ dove $d$ è la distanza tra i due punti. Prove che Gauss scrive meno di $2n$ valori distinti.
 > 

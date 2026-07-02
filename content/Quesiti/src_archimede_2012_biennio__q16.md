@@ -98,7 +98,7 @@ tags:
 > Either ABC is an acutangol triangle and either H on the AB side the foot of height from the C vertex. Suppose the area of the AHC triangle is at that of the ABC triangle as AC is at 2AB. Which of the following is certainly true?
 >
 > - **(A)** ABC is rectangle
-> - **(B)** D CAB = < MSK0/>
+> - **(B)** D CAB = 60°
 > - **(C)** AB = 2AH
 > - **(D)** AB = AC
 > - **(E)** ABC is equal.

@@ -63,7 +63,7 @@ tags:
 
 *Una coppia (x,y) con 1<=y<x è 'joli' se x e y hanno esattamente divisori positivi comuni x-y; con s(n) il numero di coppie joli con 1<=y<x<=n, decide se s(n)=2022 o s(n)=2023 è raggiungibile.*
 
-> $x, y$ siano integri positivi come $1 \leqslant y < x$. Diciamo che la coppia $(x, y)$ è *joli* se $x$ e $y$ hanno esattamente $x - y$ divisori positivi comuni. Ad esempio, $30$ e $42$ hanno esattamente $4$ divisori comuni: $1, 2, 3$ e $6$. Poiché < MSK11/>, la coppia < MSK12/> non è quindi joli. D'altra parte, la coppia $(8, 6)$ è joli, perché $6$ e $8$ hanno $8 - 6 = 2$ divisori positivi comuni: $1$ e $2$.
+> $x, y$ siano integri positivi come $1 \leqslant y < x$. Diciamo che la coppia $(x, y)$ è *joli* se $x$ e $y$ hanno esattamente $x - y$ divisori positivi comuni. Ad esempio, $30$ e $42$ hanno esattamente $4$ divisori comuni: $1, 2, 3$ e $6$. Poiché $42 - 30 = 12 \neq 4$, la coppia $(42, 30)$ non è quindi joli. D'altra parte, la coppia $(8, 6)$ è joli, perché $6$ e $8$ hanno $8 - 6 = 2$ divisori positivi comuni: $1$ e $2$.
 > 
 > Per ogni numero intero $n \geqslant 2$, $s(n)$ indichi il numero di coppie di numeri interi $(x, y)$ in modo tale che $1 \leqslant y < x \leqslant n$ e $(x, y)$ siano joli.
 > 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Time to go home with the clock fixed< MSK1/>
+*Time to go home with the clock fixed*
 
 > I'm home by now. The only watch I have stopped at 1:00. As soon as I realized it, I put it back on the bike without changing the time and went to a friend's house right away: I got to him at 15:00 (correct time) and left at 17:30 (correct time). Now I'm back home, and my watch (which in the meantime has been running regularly) is at 5:30. The time I spent on the trip is the same as the time I spent on the return. What time (correct) did I get home? (Write the four digits of the hour, without the two dots.)
 

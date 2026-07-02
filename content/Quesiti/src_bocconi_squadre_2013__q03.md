@@ -52,7 +52,7 @@ tags:
 
 *sum of diameters of large circle and small circle*
 
-> Modern artists are inspired by geometric shapes. In this table you can see a rectangular triangle whose area is < MSK0/> and whose sides are measured by an integer of cm. What is the sum of the two diameters (the larger circle and the smaller circle)?
+> Modern artists are inspired by geometric shapes. In this table you can see a rectangular triangle whose area is $60 \text{ cm}^2$ and the size of its sides is expressed by an integer of cm. What is the sum of the two diameters (the larger circle and the smaller circle)?
 
 ![[src_bocconi_squadre_2013__Q03.png]]
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many children are in the garden, ten companions, including 5 girls< MSK1/>
+*How many children are in the garden, ten companions, including 5 girls*
 
 > Only ten of James' schoolmates attend the garden party for his birthday. Five of them are girls. How many kids are in the yard?
 >

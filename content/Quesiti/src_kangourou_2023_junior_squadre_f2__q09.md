@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> Groups of 5 couples without siblings together< MSK1/>
+* Groups of 5 couples without siblings together*
 
 > To compete in a tournament, ten boys must be divided into five pairs. Among them, however, there are two pairs of brothers, and it is not desirable for two brothers to be in pairs together. How many different groups of five couples can be formed under this constraint? (Two groups of pairs shall be considered different if they differ by at least one pair.)
 

@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little whole number with sum of 100 < MSK1/>
+*Little whole number with sum of 100 *
 
 > What is the smallest positive integer whose sum is $100$? Explain how you determined it.
 

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>During possible training with double speed< MSK1/>
+*During possible training with double speed*
 
 > A cyclist trains by completing four laps of a circuit. It always takes an entire number of minutes to complete a lap, but at each lap after the first lap, its average speed in that lap doubles compared to that held in the previous lap. Which of the following can be the length, in minutes, of your training? A) 41
 > 	

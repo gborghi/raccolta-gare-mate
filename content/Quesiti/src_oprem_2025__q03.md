@@ -52,7 +52,7 @@ tags:
 
 > **Esercizio 1 - Per tutti i candidati**
 > 
-> **3. E fare matematica non è ciò che ci danneggia.** Una coppa di champagne ha una forma conica. Sono riempiti diversi cupetti identici, ognuno fino alla metà della sua altezza < MSK0/>. Quanti cuponi si possono riempire in questo modo?
+> **3. E fare matematica non è ciò che ci danneggia.** Una coppa di champagne ha una forma conica. Sono riempiti diversi cupetti identici, ognuno fino alla metà della sua altezza $h$. Quanti cuponi si possono riempire in questo modo?
 
 ![[src_oprem_2025__Q03.png]]
 

@@ -65,11 +65,11 @@ tags:
 
 *Contare i modi per costruire un cubo di 27 cm3 e un cubo di 64 cm3 da cubetti di lato 1, 2, 3 cm*
 
-> Jacira ha molti piccoli cubetti i cui lati misurano $1\text{ cm}$, $2\text{ cm}$ o $3\text{ cm}$. Quindi, ad esempio, ha due modi diversi per ottenere un cubo il cui volume è $8\text{ cm}^3$: uno di loro è quello di costruire un cubo con $8$ cubetti di lato $1\text{ cm}$ e l'altro è semplicemente quello di prendere un cubo di lato $2\text{ cm}$, come mostrato nella figura. Si noti che due cubes dello stesso volume vengono ottenuti in modi diversi se, e solo se, sono assemblati con diversi numeri di cubes.
+> Jacira ha molti piccoli cubetti i cui lati misurano $1\text{ cm}$, $2\text{ cm}$ o $3\text{ cm}$. Quindi, ad esempio, ha due modi diversi per ottenere un cubo il cui volume è $8\text{ cm}^3$: uno di essi è quello di costruire un cubo con $8$ cubi di lato $1\text{ cm}$ e l'altro è semplicemente quello di prendere un cubo di lato $2\text{ cm}$, come mostrato nella figura. Si noti che due cubes dello stesso volume vengono ottenuti in modi diversi se, e solo se, sono assemblati con diversi numeri di cubes.
 > 
-> a) In quanti modi diversi può ottenere un cubo con volume < MSK0/>?
+> a) In quanti modi diversi può ottenere un cubo con volume $27\text{ cm}^3$?
 > 
-> b) In quanti modi diversi può ottenere un cubo di volume < MSK0/>?
+> b) In quanti modi diversi può ottenere un cubo di volume $64\text{ cm}^3$?
 
 ![[src_obm_2017_n1_f3__Q02.png]]
 

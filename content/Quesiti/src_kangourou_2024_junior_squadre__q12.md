@@ -55,7 +55,7 @@ tags:
 
 The following table shows the results of the calculations:
 
-> Binary operation Of a * binary operation defined between real numbers it is known that x * x = 0 and x * (y * z) = (x * y) + z are however assigned three numbers x, y, z. What is the result of 2.024 < MSK5/> 24?
+> Binary operation Of a * binary operation defined between real numbers it is known that x * x = 0 and x * (y * z) = (x * y) + z are however assigned three numbers x, y, z. What is the result of 2.024 * 24?
 
 **Answer:** 2000
 [[src_kangourou_2024_junior_squadre__Q12]]

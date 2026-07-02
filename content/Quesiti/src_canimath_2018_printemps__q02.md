@@ -54,8 +54,8 @@ tags:
 
 *Compare due somme A e B che comportano reciprocità*
 
-> a) Let < MSK0/> e < MSK1/>. Mostra che $A > B$.
+> a) Let $A = (1 + 1/2)/2$ e $B = (1 + 1/2 + 1/3)/3$. Mostra che $A > B$.
 > 
-> b) Let < MSK0/> e < MSK1/>. Mostra che $A > B$.
+> b) Let $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ e $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Mostra che $A > B$.
 
 [[src_canimath_2018_printemps__Q02]]

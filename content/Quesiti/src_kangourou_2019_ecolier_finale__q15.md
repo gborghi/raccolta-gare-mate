@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many hours to fill the tank with 10 taps< MSK1/>
+*How many hours to fill the tank with 10 taps*
 
 > In Kangland, the currency is the kang. With $5$ kang you buy an apple and a pear, with $7$ kang an apple and a banana, with $10$ kang a pear and a banana. How many kang do you need to buy an apple, a pear and a banana?
 >

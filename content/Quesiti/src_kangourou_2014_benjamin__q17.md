@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many bags do you need for groups of 3 and 5 with no leftovers< MSK1/>
+*How many bags do you need for groups of 3 and 5 with no leftovers*
 
 > A restaurant has 16 tables; each table has 3, 4 or 6 seats. The restaurant can accommodate a total of 72 guests; a total of 36 guests can be accommodated in 3- or 4-seat tables. How many are the three-seater tables? A) 5
 > 	

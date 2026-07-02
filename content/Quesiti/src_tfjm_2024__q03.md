@@ -93,15 +93,15 @@ tags:
 > 
 > I giocatori raggiungono sempre una configurazione stabile dopo un certo numero di giri? Dimostrare questo o, al contrario, mostrare una configurazione che non consente di raggiungere una configurazione stabile.
 > 
-> < MSK0/> Let < MSK1/> e < MSK2/>. Supponiamo che il numero del giocatore $i$ inizia alla tabella $k$. Supponendo che il giocatore scelga i risultati delle sue partite (vincere le partite che vuole e perdere le altre), quale tavolo $j$ può sperare di raggiungere almeno una volta?
+> $\textbf{4.}$ Let $1 \le i \le 2n$ e $1 \le k \le n$. Supponiamo che il numero del giocatore $i$ inizia alla tabella $k$. Supponendo che il giocatore scelga i risultati delle sue partite (vincere le partite che vuole e perdere le altre), quale tavolo $j$ può sperare di raggiungere almeno una volta?
 > 
-> < MSK0/> Lasciate < MSK1/>. Come funzione di $k$ e $l$, è possibile che un giocatore che inizia al tavolo $k$ si stabilizzi in seguito al tavolo $l$?
+> $\textbf{5.}$ Lasciate $1 \le k < l \le n$. Come funzione di $k$ e $l$, è possibile che un giocatore che inizia al tavolo $k$ si stabilizzi in seguito al tavolo $l$?
 > 
-> $\textbf{6.}$ I giocatori prendono nota in un quaderno dove registrano i loro risultati nella seguente forma: ogni volta che il giocatore vince una partita scrive $V$, e ogni volta che perde scrive $D$. Una serie di lettere $D$ e $V$ è $\textbf{inscriptible}$ se esiste una configurazione iniziale di giocatori $2n$ per i quali un giocatore ha scritto questa serie di giochi. Ad esempio, la parola $VV\dots V$ è sempre iscrivibile perché è sempre scritta dal giocatore $1$. a) Contare il numero di parole iscribili di lettere < MSK9/> che non sono iscribili. b) Come funzione di $n$, stimare il più grande $\ell$ per il quale tutte le parole di lunghezza $\ell$ sono iscribili. c) Come funzione di $n$ e $\ell$, stimare il numero di parole iscrivibili di lunghezza $\ell$.
+> $\textbf{6.}$ I giocatori prendono nota in un quaderno dove registrano i loro risultati nella seguente forma: ogni volta che il giocatore vince una partita scrive $V$, e ogni volta che perde scrive $D$. Una serie di lettere $D$ e $V$ è $\textbf{inscriptible}$ se esiste una configurazione iniziale di giocatori $2n$ per i quali un giocatore ha scritto questa serie di giochi. Ad esempio, la parola $VV\dots V$ è sempre iscrivibile perché è sempre scritta dal giocatore $1$. a) Contare il numero di parole iscribili di lettere $m$ che non sono iscribili. b) Come funzione di $n$, stimare il più grande $\ell$ per il quale tutte le parole di lunghezza $\ell$ sono iscribili. c) Come funzione di $n$ e $\ell$, stimare il numero di parole iscrivibili di lunghezza $\ell$.
 > 
 > Tra tutte le configurazioni iniziali, stima la percentuale di configurazioni per le quali il player $3$ non raggiungerà mai la tabella $1$. Generalizza modificando i numeri del giocatore e della tavola.
 > 
-> < MSK0/> Proporre e studiare altre vie di ricerca.
+> $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__Q03.png]]
 

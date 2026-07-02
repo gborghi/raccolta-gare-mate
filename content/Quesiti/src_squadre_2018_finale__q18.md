@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Data g1g2m1m2 produced from the first two mirrors, sum of values< MSK1/>
+*Data g1g2m1m2 produced from the first two mirrors, sum of values*
 
 > Special birthday Frege has forgotten again what day it's Liela's birthday! It is only recalled that the number g1g2m1m2 formed by writing the date in the day/month format (with g1 and m1 equal to zero, if any) and reading the four digits in a row, is the product of two prime numbers, different and less than 100, which are written with the same digits in opposite order (ab and ba). What are the possible dates of birth that meet this requirement? The sum of the possible values of the number g1g2m1m2 is given.
 

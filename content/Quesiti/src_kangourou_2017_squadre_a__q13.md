@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Quantities of N first factor in the encrypted product< MSK1/>
+*Quantities of N first factor in the encrypted product*
 
 > Product In the product _ _ _  9 _ = _ 3 _ _ the first factor N is a 3-digit number, while the second factor is a 2-digit number with 9 as the number of decimal places. The result is a four-digit number that has three as the number of hundreds. How many numbers can N be the first factor?
 

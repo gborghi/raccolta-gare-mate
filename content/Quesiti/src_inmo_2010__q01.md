@@ -50,7 +50,7 @@ tags:
 
 *Circolo, bisettore angolare, punti di intersezione, PQ parallelo a BC*
 
-> $ABC$ sia un triangolo con circoncircolo $\Gamma$. $M$ sia un punto all'interno del triangolo $ABC$ che si trova anche sul bisettore di $\angle A$. Lasciate che < MSK5/>, < MSK6/> e < MSK7/> si incontrino rispettivamente in < MSK9/>, < MSK10/> e < MSK11/>. Supponiamo che $P$ sia il punto di intersezione di $A_1C_1$ con $AB$; e $Q$ sia il punto di intersezione di $A_1B_1$ con $AC$. Provare che $PQ$ è parallelo a $BC$.
+> $ABC$ sia un triangolo con circoncircolo $\Gamma$. $M$ sia un punto all'interno del triangolo $ABC$ che si trova anche sul bisettore di $\angle A$. Lasciate che $AM$, $BM$ e $CM$ si incontrino rispettivamente in $A_1$, $B_1$ e $C_1$. Supponiamo che $P$ sia il punto di intersezione di $A_1C_1$ con $AB$; e $Q$ sia il punto di intersezione di $A_1B_1$ con $AC$. Provare che $PQ$ è parallelo a $BC$.
 
 ![[src_inmo_2010__Q01.png]]
 

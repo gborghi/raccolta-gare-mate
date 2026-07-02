@@ -74,7 +74,7 @@ tags:
 > 
 > Si dice che un numero primo positivo sia $\textit{primadoido}$ se ha due o più cifre, tutte le sue cifre sono distinte l'una dall'altra e ogni due cifre consecutive formano un numero primo. Ad esempio, $413$ è primadoido, dal momento che $41$ e $13$ sono prime, ma $143$ e $313$ non sono primadoido, dal momento che $14$ non è primo e $313$ non ha tutti i suoi numeri distinti.
 > 
-> b) dimostrare che un numero di sei cifre < MSK0/> non può essere primadoido.
+> b) dimostrare che un numero di sei cifre $\overline{ABCDEF}$ non può essere primadoido.
 > 
 > c) Trova il numero primo primato più grande.
 

@@ -47,9 +47,9 @@ tags:
 
 *Cost of the car borrowed and shares owned*
 
-> Loans between friends MSK1/> (10 points)
+> Loans between friends** (10 points)
 > 
-> Ammac and Olonam would like to buy a limousine, splitting the cost in half, but they currently only have the $\frac{3}{4}$ of the required figure. The generous Ollimac lends to both at zero interest the amount of money each of them needs to complete their share; in particular, he lends 2 million shields to Olonam. Ammac pledges to buy 10 million shields (all of his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
+> Ammac and Olonam would like to buy a limousine, splitting the cost in half, but they currently only have the $\frac{3}{4}$ of the required amount. The generous Ollimac lends to both at zero interest the amount of money each of them needs to complete their quota; in particular, he lends 2 million shields to Olonam. Ammac pledges to buy 10 million shields (all his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
 
 **Answer:** 0032
 [[src_cesenatico_2001_squadre__Q19]]

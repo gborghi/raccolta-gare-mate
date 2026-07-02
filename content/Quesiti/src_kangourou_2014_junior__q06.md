@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Large area of the axis (double side) < MSK1/>
+*Large area of the axis (double side) *
 
 ![[src_kangourou_2014_junior__prob6.png]]
 

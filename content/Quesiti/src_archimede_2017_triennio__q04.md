@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number of knights< MSK1/>
+*number of knights*
 
 > Around a round table are six people, each of whom can be either a knight (who always tells the truth) or a cunning man (who always lies). Each of the people present says: Considering my two neighbors and the person sitting right in front of me, exactly two of these three people are cunning. How many knights are there at the table?
 >

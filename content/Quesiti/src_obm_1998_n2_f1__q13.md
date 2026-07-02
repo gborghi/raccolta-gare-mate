@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Find il prezzo del biglietto per studente dato il totale e le assenze< MSK1/>
+*Find il prezzo del biglietto per studente dato il totale e le assenze*
 
 > Per partecipare al film \textit{Central do Brasil}, ciascuno degli studenti di una classe deve pagare $y$ reais per la tariffa dell'autobus. Poiché 3 studenti erano assenti, ciascuno degli studenti presenti dovette pagare 2 reais in più per coprire il costo totale. Qual era il prezzo per persona?
 > 

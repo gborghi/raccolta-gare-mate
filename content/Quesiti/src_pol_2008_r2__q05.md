@@ -52,8 +52,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Triangolo ABC con AC=BC, punto D su AB con AD<DB, E riflessione di A in CD; dimostrare un rapporto di identità.*
+*Triangolo ABC con AC=BC, punto D su AB con AD<DB, E riflessione di A in CD; dimostrare l'identità del rapporto.*
 
-> In un triangolo $ABC$ con $AC = BC$, il punto $D$ sul lato $AB$ è tale che $AD < DB$ e $E$ siano il riflesso di $A$ in $CD$. Provare che < MSK0/>
+> In un triangolo $ABC$ con $AC = BC$, il punto $D$ sul lato $AB$ è tale che $AD < DB$ e $E$ siano il riflesso di $A$ in $CD$. Provare che $$\frac{AC}{CD} = \frac{BE}{BD - AD}.$$
 
 [[src_pol_2008_r2__Q05]]

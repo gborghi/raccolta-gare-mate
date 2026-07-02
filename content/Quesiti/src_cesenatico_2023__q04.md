@@ -53,10 +53,10 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>CE < MSK1/>ED maximum if B,O,E,D conical < MSK2/>
+*CE *ED maximum if B,O,E,D conical *
 
 ![[src_cesenatico_2023__prob4.png]]
 
-> On a circumference of center O and diameter AB, we fix a point C distinct from A and B. We then vary a point D, also distinct from A and B, on the arc AB of the circumference to which C does not belong, and we define E as the point of the CD segment such that the BE and CD lines are perpendicular. Demonstrate that the EC·ED product is maximum, at the variation of D, if and only if points B, O, E and D lie on the same circumference. Italian Olympic Games of Mathematics 2023 - Texts and solutions - Page 1 of 15
+> On a circumference of center O and diameter AB, we fix a point C distinct from A and B. Then we vary a point D, also distinct from A and B, on the arc AB of the circumference to which C does not belong, and we define E as the point of the CD segment such that the BE and CD lines are perpendicular. Demonstrate that the EC·ED product is maximum, at the variation of D, if and only if points B, O, E and D lie on the same circumference. Italian Olympic Games of Mathematics 2023 - Texts and solutions - Page 1 of 15
 
 [[src_cesenatico_2023__Q04]]

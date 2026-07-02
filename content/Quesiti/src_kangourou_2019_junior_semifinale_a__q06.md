@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>30 with p q prime < MSK1/>
+*30 with p q prime *
 
 > The rest are p and q two prime numbers both greater than 2019. What is the greatest remainder possible for division (p2 + q2): 30?
 

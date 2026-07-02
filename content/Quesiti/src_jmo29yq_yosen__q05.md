@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Il più piccolo intero positivo con i rimanenti 32,33,34 mod 97,100,103< MSK1/>
+*Il più piccolo intero positivo con i rimanenti 32,33,34 mod 97,100,103*
 
 > Trova il numero intero positivo più piccolo che lascia i rimanenti $32$, $33$, $34$ quando diviso rispettivamente da $97$, $100$, $103$.
 

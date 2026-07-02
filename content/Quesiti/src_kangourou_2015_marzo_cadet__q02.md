@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>major side< MSK1/>
+*major side*
 
 ![[src_kangourou_2015_marzo_cadet__prob2.png]]
 

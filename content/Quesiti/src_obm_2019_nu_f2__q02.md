@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esistenza di una funzione in continua crescita compressa tra successive scale di crescita esponenziale iterata< MSK1/>
+*Esistenza di una funzione in continua crescita compressa tra successive scale di crescita esponenziale iterata*
 
 > Diamo $\exp^{[0]} : \mathbb{R} \to \mathbb{R}$ da $\exp^{[0]}(x) = x$, per tutti $x \in \mathbb{R}$, e definiamo recursivamente, per ogni intero positivo $n$, le funzioni $\exp^{[n]} : \mathbb{R} \to \mathbb{R}$ da $$\exp^{[n]}(x) = e^{\exp^{[n-1]}(x)}, \quad \forall x \in \mathbb{R},$$ dove $e$ indica il numero di Euler. Diamo anche $\log^{[0]} : \mathbb{R} \to \mathbb{R}$ da $\log^{[0]}(x) = x$, per tutti $x \in \mathbb{R}$, e definiamo ricorritivamente, per ogni intero positivo $n$, le funzioni $\log^{[n]} : (\exp^{[n-1]}(0), +\infty) \to \mathbb{R}$ da $$\log^{[n]}(x) = \log(\log^{[n-1]}(x)), \quad \forall x \in (\exp^{[n-1]}(0), +\infty),$$ dove $\log$ è il logaritmo naturale. In altre parole, $\exp^{[n]}$ rappresenta la composizione della funzione esponenziale $n$ volte, e $\log^{[n]}$ rappresenta la composizione della funzione logaritmica $n$ volte, quando tale composizione può essere eseguita.
 > 

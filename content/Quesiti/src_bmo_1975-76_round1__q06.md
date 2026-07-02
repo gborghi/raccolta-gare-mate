@@ -65,7 +65,7 @@ tags:
 > 
 > $Q$ è un punto sulla sfera sullo stesso livello orizzontale di $O$. Il piano $OVQ$ taglia il cerchio $K$ in due punti $X$ e $Y$, di cui $Y$ è il più lontano da $Q$. $P$ è un punto del cono che si trova su $VY$, la cui posizione può essere determinata dal fatto che il percorso più breve da $P$ a $Q$ sulle superfici del cono e della sfera taglia il cerchio $K$ ad un angolo di $45^\circ$.
 > 
-> Provare < MSK0/>.
+> Provare $VP = \dfrac{r}{2}\sqrt{1 + \dfrac{1}{\sqrt{2}}}$.
 > 
 > [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\sin A / \sin a = \sin b / \sin B = \sin c / \sin C,$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A.]$$
 

@@ -52,6 +52,6 @@ tags:
 
 *Quadrilatero convex con lati e angoli speciali; prova la differenza di angolo 90°*
 
-> In un quadrilaterale converso $PQRS$, $PQ = RS = (\sqrt{3}+1)QR = SP$ e $\angle RSP - \angle SPQ = 30^\circ$. Provare che < MSK0/>
+> In un quadrilaterale converso $PQRS$, $PQ = RS = (\sqrt{3}+1)QR = SP$ e $\angle RSP - \angle SPQ = 30^\circ$. Provare che $$\angle PQR - \angle QRS = 90^\circ.$$
 
 [[src_inmo_2000__Q04]]

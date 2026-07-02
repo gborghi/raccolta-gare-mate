@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-MSK0/>B1-10: f(x) = lain2-log_3 < c) in cui f(a) 2f(b) = 2f(c); minimo di ac/b.*
+*B1-10: f(x) = lain2-log_3 < c) con f(a) 2f(b) = 2f(c); minimo di ac/b.*
 
 > [Paper di prova B1, problema 10] (20 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il minimo di $\dfrac{ac}{b}$.
 

@@ -46,11 +46,6 @@ tags:
 > Risposta: D) Sol. Se il disobbediente fosse stato Angelo, mentirebbero sia Bruno, sia Donato. Se fosse stato 
 > Bruno, oltre a lui mentirebbe anche Carlo. Se fosse stato Donato, oltre a lui mentirebbe Bruno. Allora è stato 
 > Carlo, ed è Donato che ha mentito. 
-> • 
-> • 
-> • 
-> • 
-> • 
 >  
 >  
 >  
@@ -82,10 +77,6 @@ tags:
 >  
 >  
 >  
-> • 
-> • 
-> • 
-> • 
 > 
 > Quesiti a risposta aperta
 

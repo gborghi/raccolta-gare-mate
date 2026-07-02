@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>White percentage of the coloured trapezoid< MSK1/>
+*White percentage of the coloured trapezoid*
 
 ![[src_kangourou_2012_squadre_semifinale__prob3.png]]
 

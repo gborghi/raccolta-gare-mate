@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>BD, FX, ME competitors (AMXE parallelogram) < MSK1/>
+*BD, FX, ME competitors (AMXE parallelogram) *
 
 > The $BCF$ triangle has a right angle in $B$. Whether $A$ the point on the $CF$ line such that $FA = FB$ and $F$ lie between $A$ and $C$. The point $D$ is chosen so that $DA = DC$ and $AC$ are the angles of the angle $\angle DAB$. The point $E$ is chosen so that $EA = ED$ and $AD$ are the angles of the angle $\angle EAC$. The mean point of $M$ shall be $CF$. If $X$ is the point such that $AMXE$ is a parallelogram (with $AM \parallel EX$ and $AE \parallel MX$). Demonstrate that $BD$, $FX$ and $ME$ are competitors.
 

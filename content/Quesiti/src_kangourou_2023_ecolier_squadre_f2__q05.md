@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>100th cost of each Easter egg< MSK1/>
+*100th cost of each Easter egg*
 
 > Easter egg I gave one Easter egg to each of my 13 friends. At first I had enough money to buy only nine eggs, and I would have advanced 20 cents, then my aunt lent me 40 euros. All eggs are the same price. How much did each egg cost?
 

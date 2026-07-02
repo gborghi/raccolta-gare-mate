@@ -66,7 +66,7 @@ tags:
 
 > In un elenco di numeri $10$, $x$ e $y$ siano le quantità di numeri odd e pari. Trova il valore massimo di $x$.
 > 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: in un insieme di elementi $n$ il numero di sottoinsiemi di due elementi è $\dfrac{n(n-1)}{2}$. Con $x+y = 10$ e la condizione $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (dal momento che la somma di due numeri con la stessa parità è pari e una coppia mista è impar). Substituendo < MSK4/> si ottiene < MSK5/>, con soluzioni < MSK6/> o < MSK7/>. Poiché $(x,y) = (9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$.]
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: in un insieme di elementi $n$ il numero di sottoinsiemi di due elementi è $\dfrac{n(n-1)}{2}$. Con $x+y = 10$ e la condizione $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (dal momento che la somma di due numeri con la stessa parità è pari e una coppia mista è impar). Substituendo $y = 10-x$ si ottiene $x^2-9x+10 = 0$, con soluzioni $x = 1$ o $x = 9$. Poiché $(x,y) = (9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$.]
 
 **Risposta:** E
 [[src_obm_2016_n1_f1__Q13]]

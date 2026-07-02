@@ -68,7 +68,7 @@ tags:
 
 > $n \geqslant 2$ sia un numero intero fisso. Un numero $S$ è detto *speciale* se, per ogni intero rigorosamente positivo $k$ e per ogni decomposizione di $n$ come somma di $k$ interi rigorosamente positivi $$n = n_1 + n_2 + \cdots + n_k,$$ con $n_1 \leqslant n_2 \leqslant \cdots \leqslant n_k$, si possono trovare interi $0 \leqslant a_1 < a_2 < \cdots < a_k$ tali che $$a_1 n_1 + a_2 n_2 + \cdots + a_k n_k = S.$$
 > 
-> a) Indicare che < MSK0/> è < MSK1/> non < MSK2/> speciale.
+> a) Indicare che $n^2 - 2n$ è ** non ** speciale.
 > 
 > b) Trova tutti i numeri speciali.
 

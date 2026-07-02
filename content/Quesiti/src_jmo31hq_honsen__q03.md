@@ -53,6 +53,6 @@ tags:
 
 *Triangolo acuto, punti su lati con BD=CE; prova uguale angolo con punto di circoncircolo*
 
-> Lasciate che $\triangle ABC$ sia un triangolo acuto. Il punto $D$ e il punto $E$ devono essere punti rispettivamente sui lati $AB$ e $AC$, soddisfacendo il punto $BD = CE$. Il $P$ deve essere un punto sul segmento $DE$ e il $Q$ deve essere un punto sull'arco $BC$ del cerchio circoscritto di $\triangle ABC$ che non contiene $A$. Supponiamo che $BP \cdot PC = QD \cdot QE$ e che i punti $A, B, C, D, E, P, Q$ siano tutti distinti. Provare che < MSK0/>
+> Lasciate che $\triangle ABC$ sia un triangolo acuto. Il punto $D$ e il punto $E$ devono essere punti rispettivamente sui lati $AB$ e $AC$, soddisfacendo il punto $BD = CE$. $P$ sia un punto sul segmento $DE$ e $Q$ sia un punto sull'arco $BC$ del cerchio circonscritto di $\triangle ABC$ non contenente $A$. Supponiamo che $BP \cdot PC = QD \cdot QE$ e che i punti $A, B, C, D, E, P, Q$ siano tutti distinti. Provare che $$\angle BPC = \angle BAC + \angle EQD.$$
 
 [[src_jmo31hq_honsen__Q03]]

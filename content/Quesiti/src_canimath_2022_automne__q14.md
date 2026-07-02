@@ -59,7 +59,7 @@ tags:
 
 *Reali positivi sommando a 1; disuguaglianza che comporta la somma di xxi-yi-yi e min ratios*
 
-> Che $n$ sia un numero intero strettamente positivo e $x_1, \ldots, x_n, y_1, \ldots, y_n$ sia un numero reale strettamente positivo tale che $x_1 + \cdots + x_n = y_1 + \cdots + y_n = 1$. Indicare che: < MSK0/>
+> Che $n$ sia un numero intero strettamente positivo e $x_1, \ldots, x_n, y_1, \ldots, y_n$ sia un numero reale strettamente positivo tale che $x_1 + \cdots + x_n = y_1 + \cdots + y_n = 1$. Indicare che: $$|x_1 - y_1| + |x_2 - y_2| + \cdots + |x_n - y_n| \le 2 - \min_{1 \le i \le n} \frac{x_i}{y_i} - \min_{1 \le i \le n} \frac{y_i}{x_i}$$
 > 
 > Per i numeri reali $a_1, a_2, \ldots, a_n$, $\displaystyle\min_u a_u$ indica il numero più piccolo dei numeri $n$ $a_1, a_2, \ldots, a_n$.
 

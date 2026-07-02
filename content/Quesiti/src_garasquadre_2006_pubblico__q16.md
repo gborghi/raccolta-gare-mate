@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cubs with axes parallel to the axes and whole vertices 0-10< MSK1/>
+*Cubs with axes parallel to the axes and whole vertices 0-10*
 
 > A Quamditch Scheme[25] Hardy, the captain of the Quamditch team from the house of Rapporteur, instructs his teammates on a new game scheme he has developed. If we consider in space the sum of Q points having whole coordinates and ranging from 0 to 10 (included), how many cubes exist with parallel axes to the Cartesian axis and vertices to Q?
 

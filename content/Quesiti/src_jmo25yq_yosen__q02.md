@@ -54,7 +54,7 @@ tags:
 
 *Ricerca BC dato che due tangenti si incontrano a P e AB parallele a CP*
 
-> Tre punti $A$, $B$ e $C$ si trovano su un cerchio. Il punto $P$ è l'intersezione delle tangenti al cerchio a $B$ e a $C$. Supponiamo che le linee $AB$ e $CP$ siano parallele, $AB = 3$ e $BP = 4$. Trova la lunghezza < MSK10/>.
+> Tre punti $A$, $B$ e $C$ si trovano su un cerchio. $P$ è l'intersezione dei tangenti al cerchio a $B$ e a $C$. Supponiamo che le linee $AB$ e $CP$ siano parallele, $AB = 3$ e $BP = 4$. Trova la lunghezza $BC$.
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 

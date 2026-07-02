@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> tiles 2 straight white and 2 straight black < MSK1/>
+* tiles 2 straight white and 2 straight black *
 
 > The Predators of Lost Temples An ancient scroll, unearthed by the well-known archaeologist Polynomial Jones in the Vatican archives, reveals that each of the ancient temples dedicated to Atyiahsinger is shaped like a 60-meter-square-sided square. The floor of each temple is covered with 900 square tiles, each of which measures 2 meters on each side. Of these, 450 are white and 450 black. The tiles form 2 white and 2 black rectangles, so that two rectangles of the same colour do not have side parts in common. Knowing that for each of the possible tiles there is exactly one temple with such a floor, how many temples will our hero have to look for?
 

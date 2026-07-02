@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weights in the third box< MSK1/>
+*Weights in the third box*
 
 > Six weights of 1, 2, 3, 4, 5 and 6 grams were locked in three empty boxes, two weights for each box. The contents of the first box weigh nine grams, the contents of the second eight grams. What weights were placed in the third box? A) 4g and 3g B) 5g and 2g C) 6g and 1g D) 4g and 2g E) 3g and 1g one level 2 cards two levels 7 cards three levels 15 cards A) B) C) D) E) Ecolier_06.qxp 21/02/2006 0.07 Page 7
 

@@ -53,6 +53,6 @@ tags:
 
 Come guadagnare esattamente 15 punti in 7 partite di calcio
 
-> Nel Super Bola, una nuova partita di calcio, il giocatore compete in stagioni. Ogni stagione è composta da sette partite, e in ogni partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punto per un pareggio, o $0$ punti per una sconfitta. In quanti modi diversi un giocatore può guadagnare esattamente < MSK3/> punti in una stagione?
+> Nel Super Bola, una nuova partita di calcio, il giocatore compete in stagioni. Ogni stagione è composta da sette partite, e in ogni partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punti per un pareggio, o $0$ punti per una perdita. In quanti modi diversi un giocatore può guadagnare esattamente $15$ punti in una stagione?
 
 [[src_obm_2016_n2_f2__Q05]]

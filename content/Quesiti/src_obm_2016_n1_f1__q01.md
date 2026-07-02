@@ -63,7 +63,7 @@ tags:
 
 > Calcolare il valore di $\dfrac{2016^2-1}{2015}$.
 > 
-> [Fonte: la chiave di risposta ufficiale (GABARITO); la dichiarazione di scelta pluriennale originale e le opzioni non sono riprodotte. Dalla soluzione: < MSK0/>. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
+> [Fonte: la chiave di risposta ufficiale (GABARITO); la dichiarazione di scelta pluriennale originale e le opzioni non sono riprodotte. Dalla soluzione: $\dfrac{2016^2-1}{2015}=\dfrac{(2016+1)(2016-1)}{2015}=\dfrac{2017\times 2015}{2015}=2017$. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
 
 **Risposta:** E
 [[src_obm_2016_n1_f1__Q01]]

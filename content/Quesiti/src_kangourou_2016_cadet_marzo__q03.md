@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> resulting in the sum of 26< MSK1/>
+* resulting in the sum of 26*
 
 > Instead of adding 26 to a certain number, Rita subtracted it and got  14. What number would you get if you actually added up 26? A) 12 B) 14 C) 36 D) 38 E) 40
 

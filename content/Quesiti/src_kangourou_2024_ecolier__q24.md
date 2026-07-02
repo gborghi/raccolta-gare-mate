@@ -72,7 +72,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of white blocks to make the cube< MSK1/>
+*Minimum number of white blocks to make the cube*
 
 ![[src_kangourou_2024_ecolier__prob24.png]]
 

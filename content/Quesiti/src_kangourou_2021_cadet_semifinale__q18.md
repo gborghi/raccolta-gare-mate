@@ -60,7 +60,7 @@ tags:
 >  
 > The Commission has not yet taken any further action.
 >  
-> P Welding < MSK0/> 3 cm
+> P Welding √ 3 cm
 
 **Answer:** 1
 [[src_kangourou_2021_cadet_semifinale__Q18]]

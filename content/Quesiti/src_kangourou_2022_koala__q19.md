@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Cumulative gift bears after sixth birthday< MSK1/>
+*Cumulative gift bears after sixth birthday*
 
 ![[src_kangourou_2022_koala__prob19.png]]
 

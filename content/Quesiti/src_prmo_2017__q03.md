@@ -49,6 +49,6 @@ tags:
 
 *I giorni la squadra B lavora da sola per finire il lavoro dopo che A inizia, B si unisce, poi A si ritira*
 
-> Un appaltatore ha due squadre di lavoratori: team $A$ e team $B$. Il team $A$ può completare un lavoro in 12 giorni e il team $B$ può svolgere lo stesso lavoro in 36 giorni. Il team $A$ inizia a lavorare sul lavoro e il team $B$ si unisce al team $A$ dopo quattro giorni. Il team < MSK7/> si ritira dopo altri due giorni. Per quante altre giornate il team $B$ deve lavorare per completare il lavoro?
+> Un appaltatore ha due squadre di lavoratori: team $A$ e team $B$. Il team $A$ può completare un lavoro in 12 giorni e il team $B$ può svolgere lo stesso lavoro in 36 giorni. Il team $A$ inizia a lavorare sul lavoro e il team $B$ si unisce al team $A$ dopo quattro giorni. Il team $A$ si ritira dopo altri due giorni. Per quante altre giornate il team $B$ deve lavorare per completare il lavoro?
 
 [[src_prmo_2017__Q03]]

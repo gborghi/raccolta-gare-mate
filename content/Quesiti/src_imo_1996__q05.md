@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>circumradii sum at least half perimeter< MSK1/>
+*circumradii sum at least half perimeter*
 
 > If $ABCDEF$ is a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. The radii of the circles surrounding the triangles $FAB$, $BCD$, $DEF$, respectively, and $P$ are the perimeter of the hexagon. Show that $$R_A + R_C + R_E \geq \frac{P}{2}.$$
 

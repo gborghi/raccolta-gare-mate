@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo con lati AP: IO perp BI, I circumcentro di DKE< MSK1/>
+*Triangolo con lati AP: IO perp BI, I circumcentro di DKE*
 
 > In un triangolo non equile $ABC$, i lati $a, b, c$ formano una progressione aritmetica. $I$ e $O$ indicano rispettivamente il centro e il circoncentro del triangolo.
 > 

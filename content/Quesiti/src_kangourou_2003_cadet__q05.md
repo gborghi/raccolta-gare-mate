@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Equivalence between containers (cups/glass) < MSK1/>
+*Equivalence between containers (cups/glass) *
 
 > In the Kangoo pub, all the same type of containers are the same. A bottle and a glass together contain as much as a carafe. A bottle contains as much as a glass and a spoon. Three mouths contain as much as two carafes. So a cup contains as much as A: 3 glasses B: 4 glasses C: 5 glasses D: 6 glasses E: 7 glasses
 > 

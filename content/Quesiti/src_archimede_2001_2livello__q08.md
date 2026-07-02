@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-Probability that Lorenzo is healthy given the positive test< MSK1/>
+Probability that Lorenzo is healthy given the positive test*
 
 > In one country, one percent of the population suffers from a disease. The test to find out if you're infected is wrong in 1 percent of cases. Lorenzo is tested and found to be ill. What are the odds that he's healthy?
 >

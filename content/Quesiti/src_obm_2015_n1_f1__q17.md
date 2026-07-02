@@ -67,7 +67,7 @@ tags:
 
 *Volume di una scatola dalle aree delle sue tre coppie di facce*
 
-> Juliana realizzò la pianificazione (net) di una scatola di cartone con due facce bianche, due facce nere e due facce grigie. Le facce bianche hanno ciascuna superficie < MSK0/>, le facce nere hanno ciascuna superficie < MSK1/> e le facce grigie < MSK2/> ciascuna. Qual è il volume della scatola?
+> Juliana realizzò la pianificazione (net) di una scatola di cartone con due facce bianche, due facce nere e due facce grigie. Le facce bianche hanno ciascuna superficie $35\,\text{cm}^2$, le facce nere hanno ciascuna superficie $21\,\text{cm}^2$ e le facce grigie $15\,\text{cm}^2$ ciascuna. Qual è il volume della scatola?
 >
 > - **(A)** $25\,\text{cm}^3$
 > - **(B)** $60\,\text{cm}^3$

@@ -62,11 +62,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Contare le griglie 100x100 con le lettere J,M,O dove ogni blocco 2x2 è buono e esattamente 10000 coppie adiacenti diverse*
+*Contare le griglie da 100x100 con le lettere J,M,O dove ogni blocco da 2x2 è buono e esattamente 10000 coppie adiacenti diverse*
 
 > Considera di riempire ogni cella di una griglia $100 \times 100$ con una delle lettere J, M, O. Chiamare un $2 \times 2$ sottogrid **buono blocco ** se soddisfa una delle seguenti condizioni: - Tutte le 4 celle contengono esattamente 1 lettera distinta. - Le 4 celle contengono esattamente 2 lettere distinte, ognuna appare esattamente due volte. - Le 4 celle contengono esattamente 3 lettere distinte, e le celle di basso a sinistra e di alto a destra contengono la stessa lettera.
 > 
-> Trovare il numero di riempimenti che soddisfano entrambe le seguenti condizioni: - Ogni sottogrido $2 \times 2$ è un buon blocco. - Il numero di coppie di celle adiacenti (con un bordo condiviso) che contengono lettere diverse è esattamente < MSK1/>. (Le coppie non sono ordinate.)
+> Trovare il numero di riempimenti che soddisfano entrambe le seguenti condizioni: - Ogni sottogrido $2 \times 2$ è un buon blocco. - Il numero di coppie di celle adiacenti (con un bordo condiviso) che contengono lettere diverse è esattamente $10000$. (Le coppie non sono ordinate.)
 > 
 > I riempimenti che coincidono dopo la rotazione o la riflessione sono contati come distinti.
 

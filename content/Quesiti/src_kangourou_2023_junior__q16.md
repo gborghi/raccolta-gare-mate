@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>black feet with right foot< MSK1/>
+*black feet with right foot*
 
 > One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. How many black steps did you put your right foot on? (A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
 

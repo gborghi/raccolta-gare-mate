@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Positive integer pairs (m,n) with 1/m+1/n-1/mn=2/5< MSK1/>
+*Positive integer pairs (m,n) with 1/m+1/n-1/mn=2/5*
 
 > Determine all ordered pairs $(m, n)$ of positive integers satisfying the equation $$\frac{1}{m} + \frac{1}{n} - \frac{1}{mn} = \frac{2}{5}.$$
 

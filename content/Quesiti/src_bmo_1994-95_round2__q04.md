@@ -55,7 +55,7 @@ tags:
 
 *Conta coppie di 2n persone; dimostra divisibilità di multinomial*
 
-> (a) Determinare, con una spiegazione attenta, in quanti modi le persone < MSK0/> possono essere accoppiate per formare squadre < MSK1/> di < MSK2/>.
+> (a) Determinare, con una spiegazione attenta, in quanti modi le persone $2n$ possono essere accoppiate per formare squadre $n$ di $2$.
 > 
 > b) dimostrare che $(2mn)!$ è divisibile per $((m!)^n (n!)^m)^2$ per tutti gli integri positivi $m$, $n$.
 

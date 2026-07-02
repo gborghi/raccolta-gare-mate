@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of no cavities after 89 extractions< MSK1/>
+*Probability of no cavities after 89 extractions*
 
 > Lucia and Carla play against each other in a bowl game (without any other opponents). Each folder has 15 numbers; the two folders have precisely 4 numbers in common. What is the probability that after 89 numbers were extracted, none of the two have ever made it?
 >

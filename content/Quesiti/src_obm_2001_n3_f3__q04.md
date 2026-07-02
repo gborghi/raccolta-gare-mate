@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>A partire da 1, premere sin o cos volte 2001 (radiani); trovare il risultato più grande possibile< MSK1/>
+*A partire da 1, premere sin o cos volte 2001 (radiani); trovare il risultato più grande possibile*
 
 > Una calcolatrice ha il numero $1$ sul suo display. Dobbiamo eseguire operazioni $2001$, ciascuna delle quali consiste nel premere esattamente una delle due tasti $\sin$ o $\cos$. Queste operazioni calcolano, rispettivamente, il seno o il cosino della loro argomentazione, in radiani. Qual è il più grande risultato possibile ottenuto dopo queste operazioni $2001$?
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max tastes for 12 different packs (10 tastes) < MSK1/>
+*Max tastes for 12 different packs (10 tastes) *
 
 > The confectionery shop has candies of different tastes; I want to pack candy packages so that: - the number of tastes present in each package is the same; - different packages differ by at least one taste.
 > 

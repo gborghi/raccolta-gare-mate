@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Late clock after 24 hours< MSK1/>
+*Late clock after 24 hours*
 
 > Grandpa's old watch lags 20 seconds an hour. What will be the clock's delay after 24 hours?
 >

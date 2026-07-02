@@ -51,6 +51,6 @@ tags:
 
 *Due cerchi si toccano internamente a M; tangente al cerchio interno incontra l'esterno a Q,R; dimostrano angoli uguali a M.*
 
-> Due cerchi si toccano internamente a < MSK0/>. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
+> Due cerchi si toccano internamente a $M$. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
 
 [[src_bmo_1992-93_round1__Q04]]

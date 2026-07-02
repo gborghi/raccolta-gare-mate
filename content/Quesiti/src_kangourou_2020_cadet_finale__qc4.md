@@ -54,7 +54,7 @@ tags:
 
 *True statements on special grid position number 6x6*
 
-> We fill a square grid with the first 62 positive integers, one per box: if one of the numbers is the largest of all the numbers in its row and the smallest of all the numbers in its column, let's say that the number is in the special position MSK2 relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
+> We fill a square grid with the first 62 positive integers, one per box: if one of the numbers is the largest of all the numbers in its row and the smallest of all the numbers in its column, let's say that the number is in the special position**relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
 > 
 > (a) there is at least one special number for each method of filling the grid;
 > 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Day of the week of the 20th of the month< MSK1/>
+*Day of the week of the 20th of the month*
 
 > In the same month, three Sundays fell into equal days. What day of the week was the 20th of that month?
 >  

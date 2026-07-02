@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max cells with 15 lines< MSK1/>
+*Max cells with 15 lines*
 
 > 9 lines, of which 5 are drawn horizontally and 4 vertically, identify 12 rectangular cells; 6 horizontal lines and 3 verticals identify only 10 cells. How many cells can you get to the maximum by tracing 15 lines? A) 22 B) 30 C) 36 D) 40 E) 42
 

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Prezzi da pagare con monete di 1000, 100, 10, 1 yen minimizzando la variazione< MSK1/>
+*Prezzi da pagare con monete di 1000, 100, 10, 1 yen minimizzando la variazione*
 
 > Taro ha una banconota di 1000 yen, una moneta di 100 yen, una moneta di 10 yen e una moneta di 1 yen, e le usa tutte e quattro per acquistare un oggetto. Quanti prezzi possibili può avere l'oggetto?
 > 

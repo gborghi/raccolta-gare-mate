@@ -70,7 +70,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which strip has a larger area< MSK1/>
+*Which strip has a larger area*
 
 ![[src_kangourou_2003_junior__prob3.png]]
 

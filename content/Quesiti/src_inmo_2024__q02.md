@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>2024x2024 gioco di colorare la tavola; trovare i quadrati massimi Mohit può colorare rosso< MSK1/>
+*2024x2024 gioco di colorare la tavola; trovare i quadrati massimi Mohit può colorare rosso*
 
 > Tutti i quadrati di una scheda $2024 \times 2024$ sono di colore bianco. In una mossa, Mohit può selezionare una riga o una colonna di cui ogni quadrato è bianco, scegliere esattamente 1000 quadrati in questa riga o colonna, e colorarli tutti rossi. Trova il numero massimo di quadrati che Mohit può colorare rosso in un numero finito di mosse.
 

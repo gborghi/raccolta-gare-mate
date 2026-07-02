@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Terne (a,b,c) sum 94 with mult. di 3*
+*Terne (a,b,c) sum 94 with mult. di 3*
 
-> After challenging each other on the battlefield, the Jaguar and the Ronzino relax together with Rootze for a cup of tea. Aitka, the chaplain, offers them 94 biscuits, numbered from 1 to 94. The White King orders Root to eat a number of whole a, Jaguaro b, and Ronzino c. Clearly a,b,c ≥0 and a+b+c = 94. Curiousnote Aitkathe number of different ways you can divide cookies by obeying the King's orders is multiplied by 3. How many ordered terns (a,b,c) have this property?
+> After challenging each other on the battlefield, the Jaguar and the Ronzino relax together with Rootze for a cup of tea. Aitka, the chaplain, offers them 94 biscuits, numbered from 1 to 94. The White King orders Root to eat a number of whole a, Jaguaro b, and Ronzino c. Clearly a,b,c ≥0 and a+b+c = 94. Curiousnote Aitkathe number of different ways in which you can divide cookies by obeying the King's orders is multiplied by 3. How many ordered terns (a,b,c) have this property?
 
 **Answer:** 4479
 [[src_cesenatico_2013_semifinale_b__Q13]]

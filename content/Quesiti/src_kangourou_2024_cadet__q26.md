@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many eggs the customer has purchased (double pigeon chicken) < MSK1/>
+*How many eggs the customer has purchased (double pigeon chicken) *
 
 > Marianna brings chicken eggs and pigeon eggs to the market. He placed them, without distinction, in baskets containing 4, 6, 12, 13, 22 and 29 eggs. His first client buys all the eggs in a basket. Marianna observes that, in this way, she was left with twice as many chicken eggs as the number of pigeon eggs. How many eggs did the client buy? A) 4
 >  

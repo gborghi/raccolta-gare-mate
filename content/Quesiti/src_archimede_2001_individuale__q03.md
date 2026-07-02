@@ -56,17 +56,17 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>positive whole solutions< MSK1/>
+*positive whole solutions*
 
 > Consider the equation
 > 
 > $$x^{2001} = y^x.$$
 > 
-> (a) Determine all pairs $(x, y)$ of solutions in which $x$ is a prime number and $y$ is a positive integer.
+> (a) Determine all $(x, y)$ pairs of solutions in which $x$ is a prime number and $y$ is a positive integer.
 > 
-> (b) Determine all < MSK0/> solution pairs in which < MSK1/> and < MSK2/> are positive integers.
+> (b) Determine all solutions pairs $(x, y)$ in which $x$ and $y$ are positive integers.
 > 
-> (Remember that MSK0/.)
+> (Remember that$2001 = 3 \cdot 23 \cdot 29$.)
 
 **Answer:** 8 coppie; con x primo: (3,3^667),(23,23^87),(29,29^69)
 [[src_archimede_2001_individuale__Q03]]

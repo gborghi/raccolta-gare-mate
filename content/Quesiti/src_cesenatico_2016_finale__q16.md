@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distance of Luke from the centre (60 degrees, BC) < MSK1/>
+*Distance of Luke from the centre (60 degrees, BC) *
 
 > Destroy the Black Death! Luke Randomwalker, aboard his fighter, must be able to destroy the Black Death. It shall hit a lens located in the centre of an ABC acute triangle consisting of 3 turrets such that BAC = 60° and BC = 2016 √ 3 m. Luke is located on the same plane as the towers and the target, at a distance of 2016 m from both B and C and on the opposite side of A with respect to BC. How far in meters is Luke from his target?
 

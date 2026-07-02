@@ -55,7 +55,7 @@ tags:
 
 *Bissettori di angolo triangolare di scalene con DE=DF: prova rapporto e angolo obtusso*
 
-> Lasciate che i lati di un triangolo scaleno $\triangle ABC$ soddisfino $AB \ne AC$. I punti $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$, in modo che $AD$, $BE$, $CF$ siano bisettiori angolari del triangolo. Supponiamo che < MSK11/>. Let $b = CA$, $c = AB$, $s = \frac{a+b+c}{2}$. Prove che: (1) $\dfrac{b}{c} = \dfrac{s-b}{s-c}$; (2) $\angle BAC > 90^\circ$. (Posizionato da Xiong Bin)
+> Lasciate che i lati di un triangolo scaleno $\triangle ABC$ soddisfino $AB \ne AC$. I punti $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$, in modo che $AD$, $BE$, $CF$ siano bisettiori angolari del triangolo. Supponiamo che $DE = DF$. Let $b = CA$, $c = AB$, $s = \frac{a+b+c}{2}$. Prove che: (1) $\dfrac{b}{c} = \dfrac{s-b}{s-c}$; (2) $\angle BAC > 90^\circ$. (Posizionato da Xiong Bin)
 
 ![[src_cn_cgmo_2003__Q05.png]]
 

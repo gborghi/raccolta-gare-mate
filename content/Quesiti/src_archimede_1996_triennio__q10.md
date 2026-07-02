@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of one extract being smaller than the other< MSK1/>
+*Probability of one extract being smaller than the other*
 
 > What is the probability that the first number extracted from the Florence wheel is less than the first number extracted from the Naples wheel? (Remember that the lot draws the numbers from 1 to 90).
 >

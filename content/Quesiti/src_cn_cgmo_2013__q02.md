@@ -49,9 +49,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trapezoide con due cerchi incisi, dimostrare tre linee simultanee< MSK1/>
+*Trapezoide con due cerchi incisi, dimostrare tre linee simultanee*
 
-> Come mostrato nella figura. 2.1, in un trapezoide $ABCD$, $AB \parallel CD$, $\odot O_1$ è tangente ai segmenti $DA$, $AB$, $BC$, $\odot O_2$ è tangente ai segmenti $BC$, $CD$, $DA$. Il $P$ è il punto tangente di $\odot O_1$ con $AB$ e $Q$ è il punto tangente di $\odot O_2$ con $CD$. Provare che < MSK16/>, < MSK17/>, < MSK18/> sono simultanei.
+> Come mostrato nella figura. 2.1, in un trapezoide $ABCD$, $AB \parallel CD$, $\odot O_1$ è tangente ai segmenti $DA$, $AB$, $BC$, $\odot O_2$ è tangente ai segmenti $BC$, $CD$, $DA$. Il $P$ è il punto tangente di $\odot O_1$ con $AB$ e $Q$ è il punto tangente di $\odot O_2$ con $CD$. Provare che $AC$, $BD$, $PQ$ sono simultanei.
 
 ![[src_cn_cgmo_b11_w225__Q02.png]]
 

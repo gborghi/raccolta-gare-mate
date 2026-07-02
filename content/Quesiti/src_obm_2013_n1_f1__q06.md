@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due gatti su un divano; frazione di divano occupata da Tica< MSK1/>
+*Due gatti su un divano; frazione di divano occupata da Tica*
 
 > I gatti Mate e Tica dormono sul divano. Mate arrivò per primo, e quando Tica arrivò, occupò un quarto della superficie del divano che rimaneva. Entrambi occupano esattamente la metà della superficie del divano. Quale frazione della superficie del divano è occupata da Tica?
 > 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Nine number product (system) < MSK1/>
+*Nine number product (system) *
 
 > Root bed bugger enters the Duchess' house, who is cuddling an ugly baby in tears, singing him this unusual nanna nanna. Two numbers, one day, I wrote on a booklet, if you take the biggest one out of a hundred, and you add one to the smallest one, one will just increase their output. But if you take the sum of them by seventy-nine-five times, kid, you get the difference in the squares of those numbers over there. Now, can you tell me how long their product is? Hearing this, the baby starts screaming and groaning, until he turns into a piglet. What number is hidden behind the Duchess's nanny's nest?
 

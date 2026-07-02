@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>Cyclic multiplication of ILANOM < MSK0/> 4 = MILAN< MSK2/>
+*Cyclic multiplication of ILANOM × 4 = MILAN*
 
 > Consider the following multiplication, knowing that equal letters have equal digits and different letters have different digits:
 > 

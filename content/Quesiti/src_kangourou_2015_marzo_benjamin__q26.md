@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>top F < MSK1/>
+*top F *
 
 ![[src_kangourou_2015_marzo_benjamin__prob26.png]]
 

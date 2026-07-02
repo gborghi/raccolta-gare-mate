@@ -53,6 +53,6 @@ tags:
 
 La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 
-> Let < MSK1/>. $f$ deve essere una funzione definita su $S$, assumendo valori in $S$, in modo tale che per ogni elemento $n \in S$, $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$ sia valido. Indicare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione a moltiplicazione di $k$ di $f$.)
+> Let $S = \{1, 2, \ldots, 999\}$. $f$ deve essere una funzione definita su $S$, assumendo valori in $S$, in modo tale che per ogni elemento $n \in S$, $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$ sia valido. Indicare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione a moltiplicazione di $k$ di $f$.)
 
 [[src_jmo28mq_honsen__Q03]]

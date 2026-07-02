@@ -54,7 +54,7 @@ tags:
 
 *T0 area from iterated median triangles up to T6*
 
-> Starting from a T0 triangle, I build the T1 triangle that has the midpoints of the sides of T0 as vertices. So I'm building T2 from T1. I kept going the same way until I got to T6. If T6 has an area of 1 cm2 and we indicate with s the area of T0 expressed in cm2, then: A 1000 < s < MSK0/>5000 B s < MSK1/>40 C 40 < s < MSK2/>200 D 200 < s < MSK3/>1000 E s > 5000 F cannot be determined solely by the data provided, as it depends on the shape of the triangle
+> Starting from a T0 triangle, I build the T1 triangle that has the midpoints of the sides of T0 as vertices. So I'm building T2 from T1. I kept going the same way until I got to T6. If T6 has an area of 1 cm2 and we indicate with s the area of T0 expressed in cm2, then: A 1000 < s ≤5000 B s ≤40 C 40 < s ≤200 D 200 < s ≤1000 E s > 5000 F cannot be determined solely by the data provided, as it depends on the shape of the triangle
 
 **Answer:** A
 [[src_garaprime_2018__Q04]]

@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many candies were there at the beginning after the withdrawals< MSK1/>
+*How many candies were there at the beginning after the withdrawals*
 
 ![[src_kangourou_2014_ecolier__prob9.png]]
 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i modi di incatenare una scarpa con 5 paia di fori, modello simmetrico< MSK1/>
+*Contare i modi di incatenare una scarpa con 5 paia di fori, modello simmetrico*
 
 > Il matematico eccentrico Jones, uno specialista in Teoria dei nodi, ha un bagagliaio con $5$ coppie di buchi attraverso i quali il dentello deve passare, obbedendo alle seguenti regole:\n- il dentello deve essere simmetrico rispetto all'asse verticale;\n- il dentello deve passare attraverso ogni buco esattamente una volta per ogni buco, indifferente se lo fa da sopra o da sotto;\n- il dentello deve iniziare e finire ai due buchi superiori e deve collegare direttamente (cioè, senza passare attraverso altri buchi) i due buchi inferiori.\nSono mostrati alcuni possibili schemi di dentello. Qual è il numero totale di possibilità per il matematico di incastrare il suo scarpo, seguendo le regole?\n\n*Osservazione:* I lacingi mostrati sono considerati uguali se e solo se l'ordine in cui il cordone passa attraverso i buchi è lo stesso.
 

@@ -50,7 +50,7 @@ tags:
 
 *n with arithmetic mean=geometric mean equal force*
 
-> A deck of < MSK0/> cards is given. On each card is written a positive integer. The deck has the property that the arithmetic mean of the numbers on each pair of cards is also the geometric mean of the numbers on some collection of one or more cards.
+> A deck of $n > 1$ cards is given. On each card is written a positive integer. The deck has the property that the arithmetic mean of the numbers on each pair of cards is also the geometric mean of the numbers on some collection of one or more cards.
 > 
 > So what does it mean that the numbers on the cards are all the same?
 

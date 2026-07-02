@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Yellow area in coloured rectangle on the nearest side< MSK1/>
+*Yellow area in coloured rectangle on the nearest side*
 
 > On a sheet of Charles' notebook there is a rectangle with two yellow sides of 24 cm and two red sides of 36 cm. Charles colors each point of the rectangle of the same color on the side closest to the same point. What will be the area of the part of the yellow rectangle?
 >

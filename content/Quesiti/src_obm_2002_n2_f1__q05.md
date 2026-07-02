@@ -59,15 +59,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per recuperare*
+*Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per raggiungere *
 
 > Due fratelli, Pedro e João, decisero di giocare a una gara. Poiché Pedro è più vecchio, ogni passo $2$ di João copre la stessa distanza di quello di Pedro. Per iniziare la gara, a João viene dato un vantaggio di $60$-passaggio prima che inizi Pedro. Dopo quante tappe Pedro raggiunge João?
 >
-> - **(A)** passi < MSK0/>
-> - **(B)** passi < MSK0/>
-> - **(C)** passi < MSK0/>
-> - **(D)** passi < MSK0/>
-> - **(E)** passi < MSK0/>
+> - **(A)** passi $90$
+> - **(B)** passi $120$
+> - **(C)** passi $150$
+> - **(D)** passi $180$
+> - **(E)** passi $200$
 
 **Risposta:** E
 [[src_obm_2002_n2_f1__Q05]]

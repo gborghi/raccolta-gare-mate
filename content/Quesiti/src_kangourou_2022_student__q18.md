@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>height on BC< MSK1/>
+*height on BC*
 
 ![[src_kangourou_2022_student__prob18.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Two-digit integers with decimal places < united < MSK1/>
+*Two-digit integers with decimal places < united *
 
 > How many are the positive integers of two digits (significant) in which the number of tens is less than the number of units? A) 32          B) 36          C)  40        D) 42          E) 45
 

@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>External Wolfram probability numerator, polygon 10000 < MSK1/>
+*External Wolfram probability numerator, polygon 10000 *
 
 > Pizzini for MontyHallbano The boss of the Sin(agra) gives code orders using sequences of exactly three letters, all distinct, taken from an alphabet that has all n letters. Commissioner MontyHallbano cannot translate the orders written on the plates, but he knows that the total number of possible sequences is multiple of 11 and 19. How much is n worth, at least?
 

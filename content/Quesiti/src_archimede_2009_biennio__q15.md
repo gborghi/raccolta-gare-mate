@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Students with n first and n^3+3 first< MSK1/>
+*Students with n first and n^3+3 first*
 
 > The Italian teacher enters a class of 24 students, all present, for one hour of questioning. He decides to question the students to whom he corresponds on the register a number n that is prime and such that n3 + 3 is also prime. How many students are you interviewing?
 >

@@ -144,13 +144,13 @@ tags:
 
 > **Esercizio 2 (candidati della pista generale seguendo l'opzione  spé maths ) **
 > 
-> < MSK0/>Summiamo tutti i numeri distinti (Nous sommes toutes distinctes). < MSK1/>
+> *Summiamo tutti i numeri distinti (Nous sommes toutes distinctes). *
 > 
 > In questo esercizio, il simbolo $n$ indica un intero naturale con $n\ge 1$; tutti gli insiemi considerati sono non vuoti, finiti e costituiti da numeri reali distinti; inoltre, ogni insieme finito $A=\{a_1,a_2,\ldots,a_n\}$ di $n$ elementi reali distinti verrà scritto con i suoi elementi ordinati come $a_1<a_2<\cdots<a_n$. Dato un tale insieme, scriviamo $S(A)$ per la somma dei suoi elementi, cioè $S(A)=a_1+\cdots+a_n$. In particolare, quando $n=1$ e $A=\{a_1\}$ è un singleton, $S(A)=a_1$.
 > 
 > Diciamo che l'insieme $A$ è **STD** (à sommes toutes distinctes, cioè tutte le somme del sottoinsieme distinte) quando, per tutti i sottoinsiemi non vuoti $Y$ e $Z$ di $A$ con $Y\neq Z$, si ha $S(Y)\neq S(Z)$. Allo stesso modo, le somme $2^n-1$ che si possono formare con gli elementi di $A$ sono tutte distinte.
 > 
-> Ad esempio, $A=\{1,2,5\}$ è STD poiché i numeri $1,2,5,\ 1+2=3,\ 2+5=7,\ 1+5=6,\ 1+2+5=8$ sono tutti distinti. Al contrario, < MSK2/> non è STD perché, assumendo < MSK3/> e < MSK4/>, si ha < MSK5/>, anche se < MSK6/>.
+> Ad esempio, $A=\{1,2,5\}$ è STD poiché i numeri $1,2,5,\ 1+2=3,\ 2+5=7,\ 1+5=6,\ 1+2+5=8$ sono tutti distinti. Al contrario, $A=\{2,4,6,7\}$ non è STD perché, assumendo $Y=\{2,4,7\}$ e $Z=\{6,7\}$, si ha $S(Y)=2+4+7=13=S(Z)$, anche se $Y\neq Z$.
 > 
 > ---
 > 
@@ -176,11 +176,11 @@ tags:
 > 
 > Consideriamo la sequenza $(u_n)$ definita da $u_1=1$ e la relazione di ricorrenza, valida per tutti $n\ge 1$: $$u_{n+1}=u_1+\cdots+u_n+1.$$
 > 
-> < MSK3/>6. < MSK4/> Verificare che < MSK0/> e < MSK1/>. Calcolare $u_5$.
+> **6. ** Verificare che $u_2=2$ e $u_3=4$. Calcolare $u_5$.
 > 
 > **7.** Scrivi sulla tua copia un programma nel linguaggio Python che restituisca $u_{100}$ (che in realtà non calcoleremo).
 > 
-> < MSK1/>8. < MSK2/> Studiare la direzione di variazione (monotonicità) della sequenza < MSK0/>.
+> **8. ** Studiare la direzione di variazione (monotonicità) della sequenza $(u_n)$.
 > 
 > **9.** Mostra che, per tutti $n\ge 1$, l'insieme $\{u_1,\ldots,u_n\}$ è STD.
 > 

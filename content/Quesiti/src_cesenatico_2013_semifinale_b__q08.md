@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability sum of 2 cards >=14 (scorched) < MSK1/>
+*Probability sum of 2 cards >=14 (scorched) *
 
 > Oysters' shovel The Triseco and the Cartantiere have collected many oysters; they would like to have them in a row by 2, but their number is not divisible by 2. Disappointed, they reluctantly decide to eat two. They try to line up the remaining ones by 3, but their number is not divisible by 3, so they eat 3. They go on like this, every time they eat n because the number of leftovers is not divisible by n. When Root meets them, they're in tears: they're now lined up for 71, and they're not done yet! How many oysters were there at least at the beginning of the feast?
 

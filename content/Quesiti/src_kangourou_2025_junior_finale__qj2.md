@@ -47,7 +47,7 @@ tags:
 
 *Number of square plots with grid 1172m*
 
-> A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Within the garden the plots are separated by lattices; the overall length of the lattices is < MSK1/> meters. How many square plots are there?
+> A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Within the garden the plots are separated by lattices; the overall length of the lattices is $1172$ meters. How many square plots are there?
 
 **Answer:** 312
 [[src_kangourou_2025_junior_finale__QJ2]]

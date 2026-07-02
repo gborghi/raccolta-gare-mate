@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Length of the broken ABC...P< MSK1/>
+*Length of the broken ABC...P*
 
 ![[src_kangourou_2007_benjamin_marzo__prob18.png]]
 

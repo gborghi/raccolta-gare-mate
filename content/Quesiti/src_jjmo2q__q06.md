@@ -52,6 +52,6 @@ tags:
 
 *Gli incantesimi magici trasformano fragole e banane in numeri mirati*
 
-> Un mago può usare due incantesimi, l'incantesimo A e l'incantesimo B. Quando viene utilizzato il carattere A, in quel momento ogni fragola si trasforma contemporaneamente in fragola < MSK0/> e banana < MSK1/>, e ogni banana si trasforma contemporaneamente in fragola < MSK2/> e banana < MSK3/>. Quando si utilizza l'Espressione B, ogni fragola si trasforma in < MSK4/> banana, e ogni banana si trasforma in < MSK5/> fragola e < MSK6/> banana. Partendo da uno stato con fragole $1$ e banane $1$, utilizzando gli incantesimi A e B un certo numero di volte, il mago vuole raggiungere uno stato con fragole $15$ e banane $877$. Qual è il numero minimo totale di volte che devono essere usate le incantesime?
+> Un mago può usare due incantesimi, l'incantesimo A e l'incantesimo B. Quando viene utilizzato il carattere A, in quel momento ogni fragola si trasforma contemporaneamente in fragola $1$ e banana $1$, e ogni banana si trasforma contemporaneamente in fragola $1$ e banana $1$. Quando si utilizza l'Espressione B, ogni fragola si trasforma in $1$ banana, e ogni banana si trasforma in $1$ fragola e $1$ banana. Partendo da uno stato con fragole $1$ e banane $1$, utilizzando gli incantesimi A e B un certo numero di volte, il mago vuole raggiungere uno stato con fragole $15$ e banane $877$. Qual è il numero minimo totale di volte che devono essere usate le incantesime?
 
 [[src_jjmo2q__Q06]]

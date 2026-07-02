@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Fetus length around the box< MSK1/>
+*Fetus length around the box*
 
 ![[src_kangourou_2000_studenti__prob8.png]]
 

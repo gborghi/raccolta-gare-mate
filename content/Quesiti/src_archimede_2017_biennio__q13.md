@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Replacement of beverage to obtain 50% juice< MSK1/>
+*Replacement of beverage to obtain 50% juice*
 
 > A bottle of 1 litre of orange drink is 80% water and 20% orange juice. Gianni wants to replace some of the beverage in this bottle with orange juice, so as to get a new beverage that is 50% orange juice. How many ml of Gianni's initial drink should he replace with orange juice?
 >

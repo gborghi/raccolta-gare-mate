@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>affirmation is certainly true< MSK1/>
+*affirmation is certainly true*
 
 > Let a, b, c be numbers other than 0 such that the two numbers −2a4b c and 3a b c have the same sign. Which of the following is certainly true? A) ab > 0 B) b < 0 C) c > 0 D) bc > 0
 

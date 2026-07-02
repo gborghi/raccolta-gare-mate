@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>possible location of Gerardo< MSK1/>
+*possible location of Gerardo*
 
 > A score is calculated for each chess player each month, derived from their results and made public, indicating their skill level at that time. Gerardo is about to start a chess tournament with 64 participants, which takes place in direct elimination (first the 32nd of the final, then the 16th, then the eighth, etc.): whoever wins a match passes the round, the other is eliminated (in case of a deal, the match is repeated). The previous edition of the tournament was very lavish with surprises: in each match the player with the highest score always won. Before the draw of the table (which occurs randomly among all participants), Gerardo informs himself about the other players present (who all have different scores) and concludes that, if everything should go again as in the previous edition, he could at most reach the semi-finals. It follows that, among the participants in the tournament, Gerardo's score...
 >

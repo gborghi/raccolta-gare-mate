@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Mostrato di camminata di formiche Distanza totale < MSK1/>
+*Mostrato di camminata di formiche Distanza totale *
 
 > Una formica lascia la formica per l'esercizio mattutino. Cammina a 4 piedi ad est e poi fa una curva a destra e cammina altri 4 piedi. Poi fa un'altra volta a destra e cammina altri 4 piedi. Se la formica continua questo modello fino a raggiungere di nuovo la formica, quale distanza in piedi avrebbe camminato?
 

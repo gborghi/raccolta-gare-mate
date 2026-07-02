@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Wake-up time given insomnia< MSK1/>
+*Wake-up time given insomnia*
 
 > Emanuel is suffering from insomnia. One day at 11:11 a.m., he says: "I haven't slept for 53 hours and 53 minutes". What time did you last wake up?
 >

@@ -82,15 +82,15 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Creazione di gioco: numero N carte 1..N in modo che ogni coppia autorizzata/proibita venga decisa leggendo la pagina manuale indicizzata dalla somma (o GCD, LCM, prodotto) dei due numeri di carte; caratterizzare le configurazioni ammissibili e trovare la minima M (>=N) che rende ogni configurazione M-ammissibile.*
+*Creazione di gioco: numero N carte 1..N in modo che ogni coppia autorizzata/proibita venga decisa leggendo la pagina manuale indicizzata dalla somma (o GCD, LCM, prodotto) dei due numeri di carta; caratterizzare le configurazioni ammissibili e trovare la minima M (>=N) che rende ogni configurazione M-ammissibile.*
 
 > Anaïs vuole creare un gioco da tavolo. Questo gioco richiede carte di numerazione con determinati vincoli. Il gioco è costituito da carte, ciascuna carta con un numero compreso tra $1$ e $N \ge 2$ e possibilmente un simbolo (distinto), insieme a un manuale di regole. Ogni coppia di simboli (distinti) è $\textbf{authorized}$ o $\textbf{forbidden}$. Uno chiama $\textbf{configuration}$ l'insieme di coppie autorizzate.
 > 
-> Anaïs vuole che i giocatori sappiano esattamente quali coppie sono autorizzate, ma invece di fornire l'elenco esaustivo delle coppie autorizzate, procede come segue: scrive su ogni carta un numero diverso tra $1$ e $N$ e fornisce ai giocatori un manuale di regole. Per conoscere lo stato di una coppia, basta che i giocatori aggiungano i numeri scritti sulle due carte e guardano la pagina corrispondente del manuale. È possibile che alcuni numeri di pagina non siano raggiungibili come una somma di numeri di carta. In tal caso, ciò che è scritto su di loro non importa.
+> Anaïs vuole far sapere ai giocatori esattamente quali coppie sono autorizzate, ma invece di fornire un elenco esaustivo delle coppie autorizzate, procede come segue: scrive su ogni carta un numero diverso tra $1$ e $N$ e fornisce ai giocatori un manuale di regole. Per conoscere lo stato di una coppia, basta che i giocatori aggiungano i numeri scritti sulle due carte e guardano la pagina corrispondente del manuale. È possibile che alcuni numeri di pagina non siano raggiungibili come una somma di numeri di carta. In tal caso, ciò che è scritto su di loro non importa.
 > 
 > Una configurazione è $\textbf{admissible}$ se per Anaïs è possibile eseguire la costruzione precedente, cioè numerare le carte e creare il corrispondente manuale.
 > 
-> Un esempio con $N = 5$ è il seguente: il gioco ha le carte $5$ $A$, $B$, $C$, $D$, $E$ e le uniche coppie autorizzate sono $(A, D)$ e $(C, D)$. Questa configurazione è ammissibile, poiché Anaïs può fare la seguente costruzione: attribuisce alle carte $A$, $B$, $C$, $D$, $E$ i numeri $3$, $5$, $2$, $1$, $4$ rispettivamente, e scrive "autorizzato" sulle pagine $3$ e $4$ del suo manuale e "proibito" sulle altre pagine.
+> Un esempio con $N = 5$ è il seguente: il gioco ha le carte $5$ $A$, $B$, $C$, $D$, $E$ e le uniche coppie autorizzate sono $(A, D)$ e $(C, D)$. Questa configurazione è ammissibile, poiché Anaïs può fare la seguente costruzione: attribuisce alle carte $A$, $B$, $C$, $D$, $E$ i numeri $3$, $5$, $2$, $1$, $4$ rispettivamente, e scrive "autorizzato" sulle pagine $3$ e $4$ del suo manuale e "proibito" su tutte le altre pagine.
 > 
 > $\textbf{1.}$ Per quale $N$ è ammissibile ogni configurazione?
 > 
@@ -106,7 +106,7 @@ tags:
 > 
 > $\textbf{6.}$ Estimare, come funzione di $N$, il minimo $M$ per il quale ogni configurazione è $M$ ammissibile. Fornire esempi di configurazioni per le quali si può calcolare il minimo $M$ per il quale sono $M$ ammissibili. Si interesseranno le varie modalità di combinazione delle carte (somma, GCD, ...).
 > 
-> < MSK0/> Proporre e studiare altre vie di ricerca.
+> $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2024__Q08.png]]
 

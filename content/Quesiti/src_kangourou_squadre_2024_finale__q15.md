@@ -41,26 +41,6 @@ tags:
 > estremi di alcuni di essi si sono ottenute le due regioni che appaiono, 
 > una bianca e una ombreggiata. Qual è l’area, in centimetri quadrati, 
 > della regione ombreggiata?  
-> 4 
-> 4 
-> 4 
-> 4 
-> 4 
-> 4 
-> 4 
-> 4 
-> 3 
-> 3 
-> 3 
-> 3 
-> 2 
-> 2 
-> 2 
-> 2 
-> 7 
-> 7 
-> 7 
-> 7 
 > Squadra Punti 
 > A 
 > 7 

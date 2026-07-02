@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Primi (p,q) che rendono p^3+3q^3-32 primi< MSK1/>
+*Primi (p,q) che rendono p^3+3q^3-32 primi*
 
 > Trova tutte le coppie di prime $(p,q)$ in modo tale che $p^3 + 3q^3 - 32$ sia primo.
 

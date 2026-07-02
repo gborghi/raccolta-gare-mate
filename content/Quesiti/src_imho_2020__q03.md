@@ -54,6 +54,6 @@ tags:
 
 *Pebbles of weights 1 to 4n divided into two equal piles*
 
-> There are < MSK0/> pebbles of weights < MSK1/>. Each pebble is colored in one of $n$ colors and there are four pebbles of each color. Show that we can arrange the pebbles into two piles so that the following two conditions are both satisfied: \begin{itemize} \item Each pile contains two pebbles of each color. I'm going to tell you.
+> There are $4n$ pebbles of weights $1, 2, 3, \ldots, 4n$. Each pebble is colored in one of $n$ colors and there are four pebbles of each color. Show that we can arrange the pebbles into two piles so that the following two conditions are both satisfied: \begin{itemize} \item Each pile contains two pebbles of each color. I'm going to tell you.
 
 [[src_imho_2020__Q03]]

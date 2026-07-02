@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Age of the youngest child of Henry given the age products< MSK1/>
+*Age of the youngest child of Henry given the age products*
 
 > Henry has five children. The big four are only one year apart. If you multiply their age and their age, they get product 1. How old is the youngest of Henry's children?
 

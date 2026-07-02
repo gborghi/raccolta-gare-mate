@@ -57,7 +57,7 @@ tags:
 
 *Ricerca l'intervallo di un parametro in modo che un insieme di soluzioni sia contenuto in un altro.*
 
-> Per esempio, < MSK0/>, < MSK1/>. Se $A \subseteq B$, allora l'intervallo del numero reale $a$ è ___.
+> Per esempio, $A = \{x \mid x^2 - 4x + 3 < 0, x \in \mathbf{R}\}$, $B = \{x \mid 2^{1-x} + a \le 0, x^2 - 2(a+7)x + 5 \le 0, x \in \mathbf{R}\}$. Se $A \subseteq B$, allora l'intervallo del numero reale $a$ è ___.
 
 **Risposta:** $-4 \le a \le -1$
 [[src_cn_cmc_2003__Q09]]

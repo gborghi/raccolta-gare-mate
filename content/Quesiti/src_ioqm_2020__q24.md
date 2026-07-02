@@ -50,6 +50,6 @@ tags:
 
 *Luce a (0,16), raggio di disco 2 a (6,10); lunghezza delle ombre sull'asse x = m√n; trovare m+n*
 
-> Una fonte luminosa al punto $(0, 16)$ del piano di coordinate lancia luce in tutte le direzioni. Un disco (un cerchio con il suo interno) di raggio 2 con il centro a $(6, 10)$ lancia un'ombra sull'asse $X$. La lunghezza dell'ombra può essere scritta nella forma $m\sqrt{n}$, dove $m, n$ sono numeri interi positivi e $n$ è quadrato libero. Trova < MSK6/>.
+> Una fonte luminosa al punto $(0, 16)$ del piano di coordinate lancia luce in tutte le direzioni. Un disco (un cerchio con il suo interno) di raggio 2 con il centro a $(6, 10)$ lancia un'ombra sull'asse $X$. La lunghezza dell'ombra può essere scritta nella forma $m\sqrt{n}$, dove $m, n$ sono numeri interi positivi e $n$ è quadrato libero. Trova $m + n$.
 
 [[src_ioqm_2020__Q24]]

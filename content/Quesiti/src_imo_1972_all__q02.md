@@ -41,7 +41,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Dissect cyclic quadrilateral into n cyclic quadrilaterals< MSK1/>
+*Dissect cyclic quadrilateral into n cyclic quadrilaterals*
 
 > Prove that if $n \geq 4$, every quadrilateral that can be inscribed in a circle can be dissected into $n$ quadrilaterals each of which is inscribable in a circle.
 

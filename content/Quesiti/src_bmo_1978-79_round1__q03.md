@@ -63,6 +63,6 @@ tags:
 
 > $S$ è un insieme di diversi integri unici positivi $\{a_i\}$, $i = 1$ a $n$. Nessuna differenza $|a_i - a_j|$ è uguale a $1 \le i < j \le n$.
 > 
-> Provare che < MSK0/>
+> Provare che $$\sum_{i=1}^{n} a_i \ge \tfrac{1}{3}n(n^2 + 2).$$
 
 [[src_bmo_1978-79_round1__Q03]]

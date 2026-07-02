@@ -51,6 +51,6 @@ tags:
 
 *Tetraedro ABCD; M,N punti di mezzo di AB,CD. Un punto P su MN soddisfa MP=CN e NP=AC; O è il circosentro. Mostra che O!=P implica OP perpendicolare a MN.*
 
-> In un tetraedro $ABCD$, $M$ e $N$ sono rispettivamente i punti medi dei bordi $AB$ e $CD$. Supponiamo che un punto $P$ sul segmento $MN$ soddisfi $MP=CN$ e $NP=AC$. Che il $O$ sia il circondario del tetraedro. Indicare che se < MSK10/>, allora < MSK11/>.
+> In un tetraedro $ABCD$, $M$ e $N$ sono rispettivamente i punti medi dei bordi $AB$ e $CD$. Supponiamo che un punto $P$ sul segmento $MN$ soddisfi $MP=CN$ e $NP=AC$. Che il $O$ sia il circondario del tetraedro. Indicare che se $O\ne P$, allora $OP\perp MN$.
 
 [[src_pol_2003_r1__Q08]]

@@ -56,8 +56,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Ricerca tutte le funzioni f: R *→R soddisfacendo af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
+*Ricerca tutte le funzioni f: R *→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
 
-> Let < MSK1/>. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
+> Let $a \in \mathbb{R}$. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
 
 [[src_canimath_2018_automne__Q08]]

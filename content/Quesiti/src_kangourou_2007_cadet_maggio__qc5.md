@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many bridges (rectangular grid diagonal) < MSK1/>
+*How many bridges (rectangular grid diagonal) *
 
 > A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one side kilometer. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be gained, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
 

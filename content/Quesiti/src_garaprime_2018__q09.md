@@ -78,7 +78,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Area of the smallest part by cutting rectangle< MSK1/>
+*Area of the smallest part by cutting rectangle*
 
 ![[src_garaprime_2018__prob9.png]]
 

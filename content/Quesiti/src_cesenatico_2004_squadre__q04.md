@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability that the MCD of two dice is 1< MSK1/>
+*Probability that the MCD of two dice is 1*
 
 > The vice of gambling in the most sordid neighborhoods of the capital of the kingdom of Franquie, is used to bet on dice. What's the probability that by throwing two dice you get two numbers whose maximum common divisor is 1? Express the probability as an irreducible fraction m n, write the sum m + n in the answer. Team competition 2004  National stage  Problem texts  Pag. 1 di 4
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs of integers with a product equal to the sum< MSK1/>
+*Pairs of integers with a product equal to the sum*
 
 > For how many pairs (a, b) of integers does their product happen to be equal to their sum?
 >

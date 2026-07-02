@@ -58,7 +58,7 @@ tags:
 
 *Quadrilaterali convexi con perpendicolari; punti conciclici e cerchio tangente*
 
-> Che < MSK0/> sia un quadrilaterale convex. Le linee $AB$ e $CD$ si incontrano a $E$ e le linee $BC$ e $AD$ si incontrano a $F$. Il $P$ e il $Q$ siano i piedi delle perpendicolari da $E$ alle linee $AB$ e $BC$ rispettivamente, e il $R$ e il $S$ siano i piedi delle perpendicolari da $F$ alle linee $AB$ e $CD$ rispettivamente. Le linee $ER$ e $FS$ si incontrano a $T$.
+> Che $ABCD$ sia un quadrilaterale convex. Le linee $AB$ e $CD$ si incontrano a $E$ e le linee $BC$ e $AD$ si incontrano a $F$. Il $P$ e il $Q$ sono i piedi delle perpendicolari da $E$ alle linee $AB$ e $BC$ rispettivamente, e il $R$ e il $S$ sono i piedi delle perpendicolari da $F$ alle linee $AB$ e $CD$ rispettivamente. Le linee $ER$ e $FS$ si incontrano a $T$.
 > 
 > a) Indicare che esiste un cerchio che attraversa i punti $E$, $F$, $P$, $Q$, $R$ e $S$.
 > 

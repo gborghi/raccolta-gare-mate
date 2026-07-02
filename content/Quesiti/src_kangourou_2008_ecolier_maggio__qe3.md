@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum colours in 10 separate bags< MSK1/>
+*Maximum colours in 10 separate bags*
 
 > A toy retailer has a large quantity of bags of 10 different colours; he wants to pack 10 bags of bags so that: - the number of colours in each bag is the same; - different bags differ by the colour of at least one bag.
 > 

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum mice for one colour of each < MSK1/>
+*Minimum mice for one colour of each *
 
 > The magician Antony has 14 grey mice in his magic hat, 8 white and 6 black. What is the minimum number of mice you have to pull out of your magic hat, blindfolded, to be absolutely sure that, among the extracted mice, there is at least one for each color?
 >  

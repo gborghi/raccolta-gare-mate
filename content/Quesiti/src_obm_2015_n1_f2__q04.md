@@ -58,6 +58,6 @@ tags:
 
 *2015 persone a tavola rotonda, ognuno dice un vicino onesto e un disonesto; contare onesto*
 
-> Ci sono persone < MSK0/> sedute attorno a un tavolo circolare. Ognuno di loro è onesto o disonesto. Ognuno dice: "Uno dei miei due vicini (il di sinistra o quello di destra) è onesto, e l'altro è disonesto".
+> Ci sono persone $2015$ sedute attorno a un tavolo circolare. Ognuno di loro è onesto o disonesto. Ognuno dice: "Uno dei miei due vicini (il di sinistra o quello di destra) è onesto, e l'altro è disonesto".
 
 [[src_obm_2015_n1_f2__Q04]]

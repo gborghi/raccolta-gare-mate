@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>full colour strength difference a or b < MSK1/>
+*full colour strength difference a or b *
 
 > Determine all pairs {a, b} of positive integers with the following property: however you color the positive integers with two colors A and B, there are always two positive integers of color A with difference a or two positive integers of color B with difference b.
 

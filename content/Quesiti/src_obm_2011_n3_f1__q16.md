@@ -59,7 +59,7 @@ tags:
 
 *Ratio AB:AF dopo due pieghe di un triangolo di carta con le stesse stelle*
 
-> Un pezzo di carta ha la forma di un triangolo di uguali pollice di lati $BC = 6$ cm e $AB = AC = 5$ cm ed è parzialmente riempito (grigio ombreggiato). Se si piega il vertice $A$ sul lato $BC$, il vertice $A$ coincide con un punto del lato $BC$; se si piega di nuovo, il punto $A$ si riposa sul punto $F$ del lato $AB$. Qual è il rapporto < MSK9/>?
+> Un pezzo di carta ha la forma di un triangolo di uguali pollice di lati $BC = 6$ cm e $AB = AC = 5$ cm ed è parzialmente riempito (grigio ombrato). Se si piega il vertice $A$ sul lato $BC$, il vertice $A$ coincide con un punto del lato $BC$; se si piega di nuovo, il punto $A$ si riposa sul punto $F$ del lato $AB$. Qual è il rapporto $\dfrac{AB}{AF}$?
 > 
 > (A) $\dfrac{4}{3}$ (B) $\dfrac{3}{2}$ (C) $\dfrac{8}{5}$ (D) $\dfrac{18}{5}$ (E) $\dfrac{24}{5}$
 

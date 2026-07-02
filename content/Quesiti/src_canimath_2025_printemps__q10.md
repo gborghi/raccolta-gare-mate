@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Nombre massimo di persone in una stanza con vincolo di amicizia/intimità< MSK1/>
+*Nombre massimo di persone in una stanza con vincolo di amicizia/intimità*
 
 > In una stanza, certe persone sono amiche. Una persona non è mai amica di se stessa. Se la persona $A$ è amica di persona $B$, allora $B$ è amica di $A$. Osserviamo la regola: "il nemico del mio amico è il mio amico", il che significa che per qualsiasi scelta di tre persone $A$, $B$, $C$: se $A$ e $B$ sono amici, e $B$ e $C$ non sono amici, allora $A$ e $C$ sono amici. Ogni persona nella stanza ha esattamente $1$ amico.
 > 

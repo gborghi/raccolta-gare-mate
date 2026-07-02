@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total turns when found< MSK1/>
+*Total turns when found*
 
 > Eros and Gianni are taking part in a track race. Each one runs at a constant speed: Eros makes 5 laps in 12 minutes; Gianni makes 3 laps in 10 minutes. Knowing that they started together from the starting line, after how many laps do they still cut the starting line together for the first time? It asks the total of the rounds taken by the two.
 >

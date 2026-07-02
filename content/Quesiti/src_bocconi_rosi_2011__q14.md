@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Nando's arrival time is late< MSK1/>
+*Nando's arrival time is late*
 
 > The appointment was for 3:00 p.m. but Peter's friends are all late. One with a delay of 47 minutes, another with a delay of half an hour, another with a delay of 35 minutes, another with a delay of 20 minutes, another with a delay of 25 minutes, another with an hour and 10 minutes, another with a delay of 53 minutes. Nando came in third. What time did Nando arrive yesterday?
 

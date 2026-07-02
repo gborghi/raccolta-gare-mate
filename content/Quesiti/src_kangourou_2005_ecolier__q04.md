@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum trips to fill tank by losing goal< MSK1/>
+*Minimum trips to fill tank by losing goal*
 
 > Daniel wants to fill a water tank for his turtle. The tank is filled with the contents of 4 buckets. Daniel fills the bucket with a fountain, but every time he travels from the fountain to the pool with the bucket full, he loses half the contents. What is the minimum number of trips, from the fountain to the pool, that will allow Daniel to fill the pool? A) 4               B) 5              C) 6              D) 7              E) 8
 

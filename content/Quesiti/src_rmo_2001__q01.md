@@ -50,7 +50,7 @@ tags:
 
 *Altezze, quadrati ciclici, parallele di FM e EN*
 
-> $BE$ e $CF$ siano le altitudini di un triangolo acuto $ABC$, con $E$ su $AC$ e $F$ su $AB$. Il punto di intersezione di $BE$ e $CF$ è $O$. Prendi qualsiasi riga < MSK10/> passando da < MSK11/> con < MSK12/> su < MSK13/> e < MSK14/> su < MSK15/>. Supponiamo che $M$ e $N$ siano situate rispettivamente su $BE$ e $CF$ in modo tale che $KM$ sia perpendicolare a $BE$ e $LN$ sia perpendicolare a $CF$. Provare che $FM$ è parallelo a $EN$.
+> $BE$ e $CF$ siano le altitudini di un triangolo acuto $ABC$, con $E$ su $AC$ e $F$ su $AB$. Il punto di intersezione di $BE$ e $CF$ è $O$. Prendi qualsiasi riga $KL$ passando da $O$ con $K$ su $AB$ e $L$ su $AC$. Supponiamo che $M$ e $N$ siano situate rispettivamente su $BE$ e $CF$ in modo tale che $KM$ sia perpendicolare a $BE$ e $LN$ sia perpendicolare a $CF$. Provare che $FM$ è parallelo a $EN$.
 
 ![[src_rmo_2001__Q01.png]]
 

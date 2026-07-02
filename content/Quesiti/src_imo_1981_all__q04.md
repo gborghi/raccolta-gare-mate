@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>largest divides lcm of others< MSK1/>
+*largest divides lcm of others*
 
 > (a) For which values of $n > 2$ is there a set of $n$ consecutive positive integers such that the largest number of the set is a divisor of the common minimum multiple of the other $n-1$ numbers?
 > 

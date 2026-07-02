@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>TV price with two successive discounts< MSK1/>
+*TV price with two successive discounts*
 
 > Francesco is interested in a TV model that is sold in the Landscape supermarket for 800 Euro. It is also noted that in Ipersfera stores they sell the same model at 15% less and practice a 10% discount to all customers named Francesco. How much do you spend buying a TV at the hypersphere stores?
 >

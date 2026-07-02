@@ -64,12 +64,12 @@ tags:
 
 *Collinearity DEF e segmento di uguaglianza ID=IF utilizzando incenter e A-excenter*
 
-> Il punto di eccentricità $ABC$ deve essere un triangolo con incentro $I$ e excentro $A$ (l'accentro opposto al vertice $A$) pari a $K$. Che $D$ sia il piede del bisettore interno dal vertice $A$, che $E$ sia il circoncentro del triangolo $BDK$, e che $F$ sia la seconda intersezione di $AC$ con il cerchio circumscritto del triangolo $BEC$.
+> Il punto di eccentricità $ABC$ deve essere un triangolo con incentro $I$ e excentro $A$ (l'accentro opposto al vertice $A$) pari a $K$. Che $D$ sia il piede del bisettore interno dal vertice $A$, che $E$ sia il circoncentro del triangolo $BDK$, e che $F$ sia la seconda intersezione di $AC$ con il circolo circumscritto del triangolo $BEC$.
 > 
 > a) dimostrare che i punti $D$, $E$, $F$ sono collineari.
 > 
-> b) Prove che < MSK0/>.
+> b) Prove che $ID = IF$.
 > 
-> \textit{Remember:} \begin{itemize} \item L'incentro di $ABC$ è l'intersezione dei bisettori interni di $\angle A$, $\angle B$ e $\angle C$. \item Il $A$-escentro di $ABC$ è l'intersezione del bisector interno di $\angle A$ con i bisector esterni di $\angle B$ e $\angle C$. # Finire #
+> \textit{Remember:} \begin{itemize} \item L'incentro di $ABC$ è l'intersezione dei bisettori interni di $\angle A$, $\angle B$ e $\angle C$. \item Il $A$-excentro di $ABC$ è l'intersezione del bisector interno di $\angle A$ con i bisector esterni di $\angle B$ e $\angle C$. # Finire #
 
 [[src_obm_2025_n2_fx__Q04]]

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum N(S) of the hundreds, average of 100< MSK1/>
+*Maximum N(S) of the hundreds, average of 100*
 
 > The hundreds Let's say a finite set S of positive integers is a hundred if  its elements are all distinct from each other,  it contains the number 2,024,  the average of its numbers is 100. For each of these sets of S, we denote with N(S) the largest number of S. When S varies between hundreds, which is the largest of the numbers N(S)? (If you think there are hundreds of sets of S with N(S) arbitrarily large, answer 9999.)
 

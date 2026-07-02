@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>min cards to be rolled over< MSK1/>
+*min cards to be rolled over*
 
 > (Points 3) Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an equal number. Marta wants to check if Aldo's telling the truth, but she wants to roll as few cards as possible. How many cards will he have to roll at most? A) 1           B) 2             C) 3            D) 4            E) 5
 

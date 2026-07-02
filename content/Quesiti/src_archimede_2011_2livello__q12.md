@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>True statement on sequence length with sums of the mark< MSK1/>
+*True statement on sequence length with sums of the mark*
 
 > It 's x1 . . . xn a finite sequence of real numbers such that: (i) the sum of 7 consecutive terms is always strictly positive; (ii) the sum of 13 consecutive elements is always strictly negative. Which of the following statements is true?
 >

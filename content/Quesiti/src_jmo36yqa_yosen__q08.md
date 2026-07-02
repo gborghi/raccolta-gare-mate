@@ -63,7 +63,7 @@ tags:
 
 > Che $a_1, a_2, a_3, \ldots$ sia una sequenza di numeri interi positivi in stretta crescita che soddisfa le seguenti due condizioni: - $a_1 = 36$, e esistono indici $i, j$ tali da $a_3 = 3750$. - Per qualsiasi numero intero positivo $n$, $\displaystyle\sum_{k=1}^{n} (-1)^{k-1} a_k$ è divisibile per $a_{n+1}$.
 > 
-> Qui, un intero $x$ viene detto a **divide** un intero $y$ se esiste un intero $m$ tale che $y = mx$. Trova < MSK4/>.
+> Qui, un intero $x$ viene detto **divide** un intero $y$ se esiste un intero $m$ tale che $y = mx$. Trova $a_{20}$.
 
 **Risposta:** 48000
 [[src_jmo36yqa_yosen__Q08]]

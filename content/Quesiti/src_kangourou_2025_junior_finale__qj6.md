@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>n distinct integers each divided by the sum of other n-1< MSK1/>
+*n distinct integers each divided by the sum of other n-1*
 
 > Proves or refutes the following statement: For each whole $n \geq 3$ there exist $n$ whole numbers all different from each other such that each of them divides the sum of the remaining $n - 1$.
 

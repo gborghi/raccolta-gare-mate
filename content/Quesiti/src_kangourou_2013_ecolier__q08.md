@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>What part of the broken mirror is missing< MSK1/>
+*What part of the broken mirror is missing*
 
 > Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All his figures are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The number of units is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Charles D) Darius E) Ennio I Questions from N. 9 al N. 16 is worth 4 points each.
 

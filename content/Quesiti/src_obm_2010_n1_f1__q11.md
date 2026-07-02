@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Die per un orologio che perde 5 minuti/ora per mostrare di nuovo l'ora corretta< MSK1/>
+*Die per un orologio che perde 5 minuti/ora per mostrare di nuovo l'ora corretta*
 
 > L'orologio mostrato indica l'ora corretta in questo momento, ma inizia a perdere esattamente $5$ minuti per ogni vera ora che passa. Dopo quanti giorni l'orologio mostrerà di nuovo l'ora corretta?
 > 

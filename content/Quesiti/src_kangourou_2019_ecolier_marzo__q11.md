@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Total weight of each of the three dogs (balance) < MSK1/>
+*Total weight of each of the three dogs (balance) *
 
 ![[src_kangourou_2019_ecolier_marzo__prob11.png]]
 

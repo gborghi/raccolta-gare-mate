@@ -53,6 +53,6 @@ tags:
 
 *Ricerca f(13) per un'equazione funzionale differenziabile continua*
 
-> La funzione $f:(-1,+\infty)\to\mathbb{R}$ è continua e differenziabile. È noto che $f(0)=0$, $f'(0)=a$ e $f(x+1)=e^{f(x)}$ per tutti $x>-1$. Calcolare < MSK5/>.
+> La funzione $f:(-1,+\infty)\to\mathbb{R}$ è continua e differenziabile. È noto che $f(0)=0$, $f'(0)=a$ e $f(x+1)=e^{f(x)}$ per tutti $x>-1$. Calcolare $f'(13)$.
 
 [[src_obm_2002_nu_f1__Q01]]

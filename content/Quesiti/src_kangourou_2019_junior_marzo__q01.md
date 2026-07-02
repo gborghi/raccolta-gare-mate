@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of 20x19+20+19< MSK1/>
+*Value of 20x19+20+19*
 
 > 20 x 19 + 20 + 19 = A) 389 B) 399 C) 409 D) 419 E) 429
 

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of 2/81 (power) < MSK1/>
+*Height of 2/81 (power) *
 
 > What's going on? Root is now located in the A corner of an ABCD square room on the side 4161cm, and rolls a very small ball onto the floor so that it reaches the point on the side BC that is 1cm from B. Every time it hits a wall, not only does the ball bounce back perfectly, but at the same time the room grows larger: the wall opposite the one hit by the ball moves away from the one hit instantly so that their distance doubles. The other two walls remain at the same distance. How many bounces will the ball make before it ends up on top of the room again?
 

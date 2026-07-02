@@ -52,6 +52,6 @@ tags:
 
 *Trova a+b data una radice condivisa di due polinomi*
 
-> $r$ sia la radice dell'equazione $x^2 - 12x - 12 = 0$. Sappiamo che $r$ è anche una radice dell'equazione $x^4 - ax^2 - b = 0$, dove $a$ e $b$ sono numeri reali. Trova < MSK6/>.
+> $r$ sia la radice dell'equazione $x^2 - 12x - 12 = 0$. Sappiamo che $r$ è anche una radice dell'equazione $x^4 - ax^2 - b = 0$, dove $a$ e $b$ sono numeri reali. Trova $a + b$.
 
 [[src_obm_2016_n3_f2__Q02]]

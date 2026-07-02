@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conteggio triplica a< b< c con diminuzione quadrata< MSK1/>
+*Conteggio triplica a< b< c con diminuzione quadrata*
 
 > Quanti triples $(a, b, c)$ di numeri interi positivi con $a < b < c$ soddisfano $$a^2 - 20005a > b^2 - 20005b > c^2 - 20005c\,?$$
 

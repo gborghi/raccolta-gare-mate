@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum positive integer with exactly 15 divisors< MSK1/>
+*Minimum positive integer with exactly 15 divisors*
 
 > What's the smallest positive integer that has exactly 15 divisors?
 > 

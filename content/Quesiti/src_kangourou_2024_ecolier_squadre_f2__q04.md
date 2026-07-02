@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Euro borrowed from the Salvadoran brother< MSK1/>
+*Euro borrowed from the Salvadoran brother*
 
 > Today in my dressing room there are 15 euros. Starting tomorrow, I'll give you three euros every day, but every day my brother will take four. When, at the end of a certain day, there will be 8 euros left in the savings account, how many euros will my brother have taken in? The answer is 0028.
 

@@ -75,7 +75,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>ray product< MSK1/>
+*ray product*
 
 ![[src_kangourou_2015_marzo_student__prob18.png]]
 

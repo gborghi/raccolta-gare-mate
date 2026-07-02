@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Quadrilatero ciclico con condizioni di angolo bisector; dimostrare l'uguaglianza del prodotto< MSK1/>
+*Quadrilatero ciclico con condizioni di angolo bisector; dimostrare l'uguaglianza del prodotto*
 
 > Nel quadrilaterale ciclico $ABCD$, $E$ deve essere un punto interno su $BC$, $F$ deve essere un punto su $AE$ e $G$ deve essere un punto sul bisettore esterno di $\angle BCD$, come mostrato nella figura. Prove che $AB \cdot AF = AD \cdot AE$.
 

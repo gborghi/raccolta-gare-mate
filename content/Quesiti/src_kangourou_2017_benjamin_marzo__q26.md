@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>5 with a red, 6 with a blue< MSK1/>
+*5 with a red, 6 with a blue*
 
 > A bag contains only red and blue tokens. Any way we extract 5 jets at least one is red; any way we extract 6 at least one is blue. What is the maximum number of tokens that can be contained in the bag? A) 11
 > 	

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Woven and woven fabrics length in 1999< MSK1/>
+*Woven and woven fabrics length in 1999*
 
 > A new Penelope weaves a canvas for the whole of 1999, from the first to the last day. Every morning she weaves 20 cm of cloth and every afternoon she weaves a little, 20 cm on even days of the month and 19 cm on odd days. How long was the canvas at the end?
 >

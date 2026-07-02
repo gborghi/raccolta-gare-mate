@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of rectangles n nearest to 1000 with straight lines < MSK1/>
+*Number of rectangles n nearest to 1000 with straight lines *
 
 > 5 parallel lines and some parallel lines are drawn in the plane. Overall, n rectangles can be identified, each having sides on four of the lines drawn. We know that n is the number as close to 1000 as possible with these assumptions. How much is n?
 

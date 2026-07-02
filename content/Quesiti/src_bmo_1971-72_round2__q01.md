@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Etichettatura di vertici regolari n2-gon con cifre 1,2 che soddisfano quattro condizioni< MSK1/>
+*Etichettatura di vertici regolari n2-gon con cifre 1,2 che soddisfano quattro condizioni*
 
 > Mostra come assegnare ai vertici di un poligono regolare con vertici $n^2$ numeri tali che: (i) vengono utilizzate solo le cifre $1$ e $2$; (ii) vengono utilizzate solo le cifre $n$; (iii) ogni vertice ha un numero diverso; e (iv) i vertici vicini hanno numeri diversi in un solo e solo luogo di una cifra.
 

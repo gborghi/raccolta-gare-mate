@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>to show AX=2R< MSK1/>
+*to show AX=2R*
 
 > On a center circumference A and radius R, four distinct points B, C, G, H are taken in such an order that G lies on the median of the triangle ABC extended by B, and H lies on the height extended by ABC extended by B. If X is the intersection between the AC and GH lines, it is shown that the AX segment is 2R long.
 

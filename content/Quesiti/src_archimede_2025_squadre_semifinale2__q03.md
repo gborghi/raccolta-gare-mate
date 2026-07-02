@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs with distinct remains divided by 2,200< MSK1/>
+*Pairs with distinct remains divided by 2,200*
 
 > Dividing The Director of MI6), better known as N, waits for Agent Bound to come back and report. While drawing a square, he chooses a point inside and traces the perpendiculars to the sides of the square passing through that point. It then chooses a second point, which is not on the perpendiculars already drawn, and draws the perpendiculars to the passing sides for the second point. Repeat this operation, always choosing points not on already mapped segments, until you have mapped the perpendiculars from the 40th point. How many regions have formed in the square?
 

@@ -49,6 +49,6 @@ tags:
 
 *In un triangolo di scalene acuto, con P,Q sui lati che soddisfano BP=BN, CQ=CN e K sulla linea AN con MK=MN, prova che l'angolo PKQ è un angolo retto.*
 
-> Il $ABC$ deve essere un triangolo scaleno a angolo acuto con un circoncircolo $\Gamma$. Il $M$ deve essere il punto medio del $BC$ e il $N$ deve essere il punto medio dell'arco minore $BC$ del $\Gamma$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AB$ e $AC$ in modo tale che $BP = BN$ e $CQ = CN$. Il punto $K \ne N$ si trova sulla linea $AN$ con $MK = MN$. Prova che < MSK16/>.
+> Il $ABC$ deve essere un triangolo scaleno a angolo acuto con un circoncircolo $\Gamma$. Il $M$ deve essere il punto medio del $BC$ e il $N$ deve essere il punto medio dell'arco minore $BC$ del $\Gamma$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AB$ e $AC$ in modo tale che $BP = BN$ e $CQ = CN$. Il punto $K \ne N$ si trova sulla linea $AN$ con $MK = MN$. Prova che $\angle PKQ = 90^\circ$.
 
 [[src_inmo_2026__Q03]]

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Interies from 1000 to 3000 with digit 7 exactly once< MSK1/>
+*Interies from 1000 to 3000 with digit 7 exactly once*
 
 > Of all the whole numbers from 1000 to 3000, how many of them do the number 7 appear exactly once?
 >

@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>large area< MSK1/>
+*large area*
 
 ![[src_kangourou_2023_cadet__prob18.png]]
 

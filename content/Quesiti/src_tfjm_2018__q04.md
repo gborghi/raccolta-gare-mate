@@ -83,9 +83,9 @@ tags:
 
 *Gallettes des rois: n galettes ciascuna tagliata in k parti contengono febbre nascoste con febbre a_1<=...<=a_n; data la quantità di febbre già trovate, decidete quale galette scegliere per massimizzare (o ridurre al minimo) la possibilità di trovare una febbre, e studiate le galettes inutili.*
 
-> Galettes des rois (torte dei re). Nella galette des rois del liceo, ci sono $n$ galettes numerate $1$ a $n$, ciascuna tagliata in parti $k$, dove $k$ e $n$ sono enti rigorosamente positivi. Guillaume mangia in modo casuale: arrivando, prende una parte di una galette. Ogni galette può contenere o meno fève (incantevoli). < MSK6/> è il numero di fève nella galette < MSK7/>. Supponiamo < MSK8/>.
+> Galettes des rois (torte dei re). Nella galette des rois del liceo, ci sono $n$ galettes numerate $1$ a $n$, ciascuna tagliata in parti $k$, dove $k$ e $n$ sono enti rigorosamente positivi. Guillaume mangia in modo casuale: arrivando, prende una parte di una galette. Ogni galette può contenere o meno fève (incantevoli). $a_i$ è il numero di fève nella galette $i$. Supponiamo $a_1\le a_2\le\cdots\le a_n$.
 > 
-> 1. Calcolare $\mathbb{P}(L=\ell)$ per qualsiasi numero intero $\ell\ge 0$, dove $L$ è il numero di fève già trovate prima dell'arrivo di Guillaume. Quali sono le aspettative di < MSK3/>?
+> 1. Calcolare $\mathbb{P}(L=\ell)$ per qualsiasi numero intero $\ell\ge 0$, dove $L$ è il numero di fève già trovate prima dell'arrivo di Guillaume. Quali sono le aspettative di $L$?
 > 
 > 2. Prendendo una parte casuale in galette $i$, qual è la probabilità che Guillaume trovi una fève? Come deve procedere per massimizzare le sue possibilità di trovare una fève?
 > 

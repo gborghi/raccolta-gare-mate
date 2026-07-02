@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>the missing one< MSK1/>
+*the missing one*
 
 > 27. Alberto drew five points on a straight line and now, for each pair of points, the distance between them. Of the ten different numbers you get, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
 

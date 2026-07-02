@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number on 6 cartons with sums given < MSK1/>
+*Minimum number on 6 cartons with sums given *
 
 > Mary has six cards of different colors, each marked with a natural number. Choose three random cards and calculate the sum of the corresponding numbers. After doing this operation in all 20 possible ways, he finds that in 10 cases he got 16, and in the others he got 18. So the smallest of the numbers marked on the cards is A) 2 B) 3 C) 4 D) 5 E) 6
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Sottosette di 1..2001 con somma impar< MSK1/>
+*Sottosette di 1..2001 con somma impar*
 
 > Dalle cifre naturali $2001$ $1, 2, 3, \ldots, 2001$ vengono scelte diverse cifre contemporaneamente. Quanti modi ci sono per sceglierne in modo che la somma totale dei numeri scelti sia strana? Per convenzione, quando nessun numero è scelto, la somma è $0$; inoltre, è consentito scegliere tutti i numeri $2001$.
 

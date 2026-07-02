@@ -55,7 +55,7 @@ tags:
 
 *Result added from 1 to 2008 with figures 0, 2, 8*
 
-> Carla sums all integers, from 1 to 2008, using only the digits 0, 2, 8 (possibly repeated). < MSK0/>What is the result of the addition? < MSK1/>
+> Carla sums all integers, from 1 to 2008, using only the digits 0, 2, 8 (possibly repeated). **What is the result of the addition? **
 
 **Answer:** 16.000
 [[src_bocconi_primavera_2008__Q16]]

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coplanar circles, perpendicular, locus of midpoint< MSK1/>
+*Coplanar circles, perpendicular, locus of midpoint*
 
 > Consider two coplanar circles of radii $R$ and $r$ ($R > r$) with the same center. Let $P$ be a fixed point on the smaller circle and $B$ a variable point on the larger circle. The line $BP$ meets the larger circle again at $C$. The perpendicular $l$ to $BP$ at $P$ meets the smaller circle again at $A$. (If $l$ is tangent to the circle at $P$ then $A = P$.)
 > 

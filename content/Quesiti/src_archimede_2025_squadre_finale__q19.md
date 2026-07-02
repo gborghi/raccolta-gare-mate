@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode 8 towers not included 4 white 4 black< MSK1/>
+*Mode 8 towers not included 4 white 4 black*
 
 > C.E.S.E.N.A.T.I.C.N.O. Because the C.E.S.E.N.A.T.I.C.O. It turned out to be a failure. DoofenSchwartz decided to perfect it to launch a final challenge to Perryodic the Ornithorynco. This gives rise to C.E.S.E.N.A.T.I.C.N.O., which is to effectively place on non-aligned elements towers in non-homologous colors. Unlike the previous version, this new invention allows 8 chess towers to be placed on a classic 8×8 chessboard, so that 4 are on white boxes and 4 on black boxes, without any pair of towers on the same row or column. How many ways can this be done?
 

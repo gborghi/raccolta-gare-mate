@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Compositions of 30 into three positive integers< MSK1/>
+*Compositions of 30 into three positive integers*
 
 > How many different ways can the number 30 be broken down as the sum of three strictly positive integers? (Two breakdowns are equal if they differ only in the order of the additives.)
 >

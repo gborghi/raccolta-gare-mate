@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum area of the largest square exceeding 2001 cm2< MSK1/>
+*Minimum area of the largest square exceeding 2001 cm2*
 
 > A small square is very envious of another square, its friend, which is very large and whose area exceeds its 2001 area.
 > 

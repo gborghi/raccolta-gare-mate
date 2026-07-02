@@ -56,7 +56,7 @@ tags:
 
 *Different schemes for climbing 8 steps (1 or 2) *
 
-> In every grid cell you see right next to it, there's an operation. Antonio shades all cells containing an operation resulting in < MSK0/>. Which of the following forms does it take?
+> In every grid cell you see right next to it, there's an operation. Antonio shades all cells containing an operation resulting in $20$. Which of the following forms does it take?
 >
 > The operations in the grid are: $16 + 4$, $2 \times 10$, $40 : 2$, $16 - 4$, $28 - 8$, $7 \times 3$.
 >

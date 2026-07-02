@@ -49,7 +49,7 @@ tags:
 
 *AB=2:3*
 
-> 24. Last time our heroes collected the seven dragon spheres, but the ritual to evoke Shannon is more complicated than usual. The spheres are arranged on the vertices of a regular ABCDEFG hexagon of centre O and area 4095 < MSK0/>. The dragon will come out of a point P that must be inside the hexagon, be on the circumference passing through O, A and B and such that (PA−PB): AB = 2: 3. To summon the dragon, in addition to reciting the magic formula they will also have to say the area of PAB, in $m^{2}$. What number do they have to say?
+> 24. Last time our heroes collected the seven dragon spheres, but the ritual to evoke Shannon is more complicated than usual. The spheres are arranged on the vertices of a regular ABCDEFG hexagon of centre O and area 4095 $m^{2}$. The dragon will come out of a point P that must be inside the hexagon, be on the circumference passing through O, A and B and such that (PA−PB): AB = 2: 3. To summon the dragon, in addition to reciting the magic formula they will also have to say the area of PAB, in $m^{2}$. What number do they have to say?
 
 **Answer:** 0325
 [[src_cesenatico_2012_finale__Q24]]

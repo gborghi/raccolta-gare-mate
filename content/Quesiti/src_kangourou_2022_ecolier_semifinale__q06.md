@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bacquet in the same group as the 6-package bag< MSK1/>
+*Bacquet in the same group as the 6-package bag*
 
 > (4 points) Roberto has nine bags containing 1, 2, 3, 4, 5, 6, 9, 13, 17 bags respectively. He wants to collect the bags in groups of three so that in each of the three resulting groups there is the same number of bags. Which of the following bags must be placed in the same group as the six-pack? A) The two-piece.
 >  

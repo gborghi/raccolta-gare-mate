@@ -122,9 +122,9 @@ tags:
 > 
 > In questa domanda, Denis dispone di un elenco di obiettivi per i partecipanti e ha il diritto di sommare gli altri partecipanti e di scegliere i loro obiettivi. È sempre possibile per Denis trovare una tabella di preferenze per i partecipanti $n+N$ che realizzi l'elenco degli obiettivi, se Denis può scegliere $N$? E se si limita a $N \le n$? To $N \le 1$? To $N=0$?
 > 
-> **(5) ** Supponiamo che, tra i partecipanti $n=a+b$, $a$ costituisca un ciclo $a$ e $b$ costituisca un ciclo $b$ per l'elenco di obiettivi di Denis. L'elenco degli obiettivi è realizzabile? Si può iniziare con il trattamento dei casi < MSK5/> e < MSK6/>.
+> **(5) ** Supponiamo che, tra i partecipanti $n=a+b$, $a$ formino un ciclo $a$ e $b$ formino un ciclo $b$ per l'elenco di obiettivi di Denis. L'elenco degli obiettivi è realizzabile? Si può iniziare con il trattamento dei casi $a=2$ e $a=b$.
 > 
-> In quali condizioni è possibile realizzare un elenco arbitrario di obiettivi? Si può iniziare con il trattamento di < MSK0/> e < MSK1/>.
+> In quali condizioni è possibile realizzare un elenco arbitrario di obiettivi? Si può iniziare con il trattamento di $a=2$ e $a=b$.
 > 
 > Dopo anni di presentazione dello show, Denis si è ritirato, in modo che la tabella delle preferenze rimanga sempre la stessa. Lo spettacolo è continuato con gli stessi partecipanti per diversi anni, in modo che ogni candidato ha perso l'evento sportivo almeno una volta. Alice, che conosce gli arcani dello show e ha visto tutte le repliche, cerca di dedurre la tabella delle preferenze. In termini di $n$, ci sono tabelle di preferenze che può determinare completamente? Se sì, per quale cosa è possibile?
 > 

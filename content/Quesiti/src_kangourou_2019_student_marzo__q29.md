@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of one of the three being the average of the other two< MSK1/>
+*Probability of one of the three being the average of the other two*
 
 > In the set {1, 2, 3, ..., 10} three numbers are chosen at random, two to two distinct. What is the probability that one of them is the arithmetic mean of the other two? A) 1/10 B) 1/6
 > 	

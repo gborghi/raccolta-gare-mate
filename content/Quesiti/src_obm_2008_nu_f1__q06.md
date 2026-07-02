@@ -58,6 +58,6 @@ tags:
 
 *Limito di calcolo di P_n P_{n+1}/n per una sequenza di somma trigonometrica*
 
-> Let < MSK0/>. Calcolare $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
+> Let $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Calcolare $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
 
 [[src_obm_2008_nu_f1__Q06]]

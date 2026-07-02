@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum round trip time with different speeds< MSK1/>
+*Maximum round trip time with different speeds*
 
 > Before he became a formidable rat, amateur swordsman and gunner Will Turing trained himself every day from his shop in the uptown downtown to the pier, 5km away, then back down the same road. Will explains to Elizabeth that on the plane the average speed of his race was 20 km/h; on the downhill he jumped to an average of 30 km/h, while on the climb (pant...pant...) he could only do the 15 km/h average. Will challenged Elizabeth to guess how long it took her to run her race every day. At most, how many seconds could it be?
 

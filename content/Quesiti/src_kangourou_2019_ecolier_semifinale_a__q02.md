@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum M-N between bags of candy< MSK1/>
+*Maximum M-N between bags of candy*
 
 > Four bags contain a total of 100 candies. They are lined up (left to right) from the most full to the most empty; the one on the left contains 42 candies, the one on the right contains 7 and no bag contains the same number of candies as another. If M is the number of candies in the second left-hand bag and N is the number of candies in the second right-hand bag, how much can M  N be worth at most?
 

@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Members of the Kangourou family< MSK1/>
+*Members of the Kangourou family*
 
 > Kangourou's parents have three daughters. Every girl has two brothers. How many members of the Kangourou family are there?
 >  

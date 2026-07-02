@@ -67,7 +67,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> sum of major figures < MSK1/>
+* sum of major figures *
 
 > The sum of 2023 consecutive integers is 2023. What is the sum of the major numbers in these numbers? A) 4
 > 	

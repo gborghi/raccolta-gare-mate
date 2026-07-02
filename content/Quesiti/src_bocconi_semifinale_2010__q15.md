@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sixth power of a decreasing nine-digit number< MSK1/>
+*Sixth power of a decreasing nine-digit number*
 
 > The sixth power of a positive integer $N$ is a 9-digit number. By arranging these numbers in descending order, you get 987744320. What was the initial number $N$?
 

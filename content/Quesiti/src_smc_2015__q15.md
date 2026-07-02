@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'originale profondità dell'acqua in un vaso cilindrico più grande dopo che un vaso più piccolo è stato spinto verso il basso all'interno< MSK1/>
+*L'originale profondità dell'acqua in un vaso cilindrico più grande dopo che un vaso più piccolo è stato spinto verso il basso all'interno*
 
 > Due vasi hanno forma cilindrica. Il vaso più grande ha un diametro di 20 cm. Il vaso più piccolo ha un diametro di 10 cm e un'altezza di 16 cm. Il vaso più grande è parzialmente riempito di acqua. Poi il vaso vuoto più piccolo, con l'estremità aperta in cima, viene spinto lentamente verso il basso nell'acqua, che scorre sul bordo. Quando il vaso più piccolo viene spinto verso il basso, è mezzo pieno di acqua. Qual era la profondità originale dell'acqua nel vaso più grande?
 >

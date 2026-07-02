@@ -54,7 +54,7 @@ tags:
 
 *L'area di regione ombrata dopo il ripiegamento di un foglio da 20 cm ×15 cm *
 
-> Un foglio di carta è lungo $20\,\text{cm}$ e largo $15\,\text{cm}$. Pieghiamo il foglio lungo la sua lunghezza. Quindi facciamo una doppia piega rettangolare in modo che due vertici opposti coincidano. Una volta svolto, le pieghe del secondo piego dividono il foglio in due parti, come mostrato nella figura. Qual è la superficie della parte ombrata, in < MSK2/>?
+> Un foglio di carta è lungo $20\,\text{cm}$ e largo $15\,\text{cm}$. Pieghiamo il foglio lungo la sua lunghezza. Quindi facciamo una doppia piega rettangolare in modo che due vertici opposti coincidano. Una volta svolto, le pieghe del secondo piego dividono il foglio in due parti, come mostrato nella figura. Qual è la superficie della parte ombrata, in $\text{cm}^2$?
 
 ![[src_obm_2006_n1_f2__Q02.png]]
 

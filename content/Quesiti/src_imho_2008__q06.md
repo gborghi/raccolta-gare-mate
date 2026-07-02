@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Tangent circle to sides of convex quadrilateral ABCD< MSK1/>
+*Tangent circle to sides of convex quadrilateral ABCD*
 
 > Let $ABCD$ be a convex quadrilateral with $|BA| \ne |BC|$. Denote the incircles of triangles $ABC$ and $ADC$ by $\omega_1$ and $\omega_2$ respectively. Suppose that there exists a circle $\omega$ tangent to the ray $BA$ beyond $A$ and to the ray $BC$ beyond $C$, which is also tangent to the lines $AD$ and $CD$. Prove that the common external tangents of $\omega_1$ and $\omega_2$ intersect on $\omega$.
 

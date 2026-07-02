@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum truths around the round table< MSK1/>
+*Maximum truths around the round table*
 
 > 29. The inhabitants of one island are exactly 2017 and each of them is either a liar (always thinking) or a truthful (always telling the truth). On the island, a large lunch is organized for more than a thousand inhabitants, all seated around a single round table. Each of them says, "I am sitting between a liar and a liar". What is the maximum number of truthful people that can live on the island? A) 1683 B) 668 C) 670 D) 1344 E) 1343
 

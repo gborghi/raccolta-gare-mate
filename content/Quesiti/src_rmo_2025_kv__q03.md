@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Pentagono convex con condizioni di simmetria; prova angolo retto a I< MSK1/>
+*Pentagono convex con condizioni di simmetria; prova angolo retto a I*
 
 > Il $ABCDE$ deve essere un pentagono convexo in cui $AB = AE$, $CB = CE$ e $\angle CBD = 90^\circ$. Lasciate che i bisettori interni di $\angle EAB$ e $\angle DCB$ si intersecano a $I$, e lasciate che $M$ sia il punto medio di $AC$. Prove che $\angle MIC = 90^\circ$.
 

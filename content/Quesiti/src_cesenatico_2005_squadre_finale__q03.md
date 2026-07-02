@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Mode of making up a caravan of 18 animals with no equivalent adjoining < MSK1/>
+*Mode of making up a caravan of 18 animals with no equivalent adjoining *
 
 > Well-known archaeologist Polynomial Jones is organizing an expedition into the desert and needs 18 pets to transport the equipment. Beasts can be dromedaries or camels. As everyone knows, dromedaries are unsociable and rather irascible animals: when placed in line, they do not tolerate having animals of their own kind in front of them (or behind them). How many different ways can Jones polynomial compose the animal caravan without the animals getting stuck?
 

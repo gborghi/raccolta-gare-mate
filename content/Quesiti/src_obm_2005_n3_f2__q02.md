@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La più piccola cifra integrale positiva multiplice modulo 5,7,9,11< MSK1/>
+*La più piccola cifra integrale positiva multiplice modulo 5,7,9,11*
 
 > Che $a$ sia un intero positivo tale che $a$ sia un multiple di $5$, $a+1$ sia un multiple di $7$, $a+2$ sia un multiple di $9$, e $a+3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
 

@@ -53,11 +53,11 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca larghezza del nastro avvolto diagonalmente intorno alla scatola rettangolare< MSK1/>
+*Ricerca larghezza del nastro avvolto diagonalmente attorno alla scatola rettangolare*
 
 > Un nastro è esteso su una scatola rettangolare come mostrato nella figura seguente. La scatola ha dimensioni $5 \times 3$ (lunga e altezza visibili), con una striscia diagonale di larghezza $x$ e un segmento di lunghezza $4.2$ indicato.
 > 
-> Calcolare la larghezza < MSK0/> del nastro.
+> Calcolare la larghezza $x$ del nastro.
 
 ![[src_canimath_2009_printemps__Q02.png]]
 

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integral numbers not prime < 1000 with sum of 2 digits < MSK1/>
+*Integral numbers not prime < 1000 with sum of 2 digits *
 
 > How many positive integers are prime numbers not less than 1000 whose sum of digits (in decimal form) is 2? (A) 2 (B) 4 (C) 6 (D) 7 (E) a number different from the previous ones.
 

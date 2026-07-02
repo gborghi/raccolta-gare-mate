@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many cards in the 0-0..8-8 domain < MSK1/>
+*How many cards in the 0-0..8-8 domain *
 
 ![[src_kangourou_2004_ecolier_finale__probE3.png]]
 

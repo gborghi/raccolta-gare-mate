@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Esistenza di k integri che soddisfano la disuguaglianza dei prodotti per tutti gli interpolanti reali< MSK1/>
+*Esistenza di k integri che soddisfano la disuguaglianza dei prodotti per tutti gli interpolanti reali*
 
 > Prove che, per qualsiasi dato intero $k \ge 2$, esistono $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$, in modo tale che per qualsiasi numero reale $b_1, b_2, \ldots, b_k$ soddisfa $a_i \le b_i \le 2a_i$, $1 \le i \le k$, e qualsiasi intero non negativo $c_1, c_2, \ldots, c_k$, abbiamo fornito $$k \prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i,$$ $\prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i$. (Possibile da Chen Yonggao)
 

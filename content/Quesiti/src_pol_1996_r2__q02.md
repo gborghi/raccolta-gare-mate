@@ -52,6 +52,6 @@ tags:
 
 *Circolo tangente ai lati quadrilaterali; collinearità delle intersezioni KL e MN*
 
-> Un cerchio con il centro $O$ è tangente ai lati $AB$, $BC$, $CD$, $DA$ di un quadrilaterale converso $ABCD$ a $K$, $L$, $M$, $N$. Le linee $KL$ e $MN$ si incrociano al punto $S$. Prove che < MSK13/>.
+> Un cerchio con il centro $O$ è tangente ai lati $AB$, $BC$, $CD$, $DA$ di un quadrilaterale converso $ABCD$ a $K$, $L$, $M$, $N$. Le linee $KL$ e $MN$ si incrociano al punto $S$. Prove che $BD \perp OS$.
 
 [[src_pol_1996_r2__Q02]]

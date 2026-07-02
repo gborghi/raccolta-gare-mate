@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of A after 10 launches (cube) < MSK1/>
+*Probability of A after 10 launches (cube) *
 
 ![[src_gs_2012_squadre__prob24.png]]
 

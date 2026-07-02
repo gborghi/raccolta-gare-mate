@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>possible sheets < MSK1/>
+*possible sheets *
 
 > A bush has 10 branches; on each branch there are 5 leaves or 2 leaves and 1 flower. Which of the following can be the number of leaves in the bush? A) 45
 > 	

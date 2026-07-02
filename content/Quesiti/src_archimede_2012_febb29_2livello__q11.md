@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Footprint divided by 12 product differences of squares, safe days< MSK1/>
+*Footprint divided by 12 product differences of squares, safe days*
 
 > There's a fool who lives in the fairy world. One day you choose 12 pairs of positive numbers: those of the first are odd, those of the second are 1 if divided by 3, those of the third are 1 if divided by 4, and so on until the twelfth. He then calculates the difference in the squares of the numbers of each pair and writes on a board the product of all the differences obtained. From the next morning, he divides the number on the board by 12 and, if the result is whole, he writes this result instead of the number that was on the board; if it's not whole, he erases everything and moves into the human world to joke. For how many days (except the initial one where the booklet chooses the numbers) are we sure that we will have no problems in our world?
 >

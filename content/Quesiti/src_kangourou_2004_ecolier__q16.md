@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Products of the figures (sum of 9, 10 figures) < MSK1/>
+*Products of the figures (sum of 9, 10 figures) *
 
 > The sum of the digits of a 10-digit number is equal to 9. How much is the product of the numbers in this number? A) 0 B) 1 C) 45 D) 9x8x7x6x ... x2x1 E) depends on the digits that make up the number 1 2 3 4 5
 > 

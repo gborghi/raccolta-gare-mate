@@ -62,7 +62,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>number not possible< MSK1/>
+*number not possible*
 
 > Alessio has two strings, one 1 meter long and the other 2 meters long. The cuts and all the pieces of rope you get are the same length. Which of the following cannot be the total number of pieces of rope obtained? A) 6
 > 	

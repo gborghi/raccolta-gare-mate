@@ -89,7 +89,7 @@ tags:
 
 > In tutta questa parte, $a$, $b$, $c$ sono valori rigorosamente positivi.
 > 
-> < MSK14/>1. < MSK15/> < MSK0/> deve essere il triplo dei valori rigorosamente positivi. stabilire l'equivalenza delle seguenti condizioni: i. esiste un triangolo $ABC$ pseudo rettangolo a $A$ e un triangolo obtuso a $B$ in modo tale che $AB = c$, $BC = a$ e $CA = b$; < MSK7/>; iii. esistono due valori reali $\rho > 0$ e $\theta$ con $0 < \theta < \dfrac{\pi}{4}$, quali $a = \rho\cos 2\theta$, $b = \rho\cos\theta$ e $c = \rho\sin\theta$.
+> **1. ** $(a,b,c)$ deve essere il triplo dei valori rigorosamente positivi. stabilire l'equivalenza delle seguenti condizioni: i. esiste un triangolo $ABC$ pseudo rettangolo a $A$ e un triangolo obtuso a $B$ in modo tale che $AB = c$, $BC = a$ e $CA = b$; $b^2 - c^2 = a\sqrt{b^2 + c^2}$; iii. esistono due valori reali $\rho > 0$ e $\theta$ con $0 < \theta < \dfrac{\pi}{4}$, quali $a = \rho\cos 2\theta$, $b = \rho\cos\theta$ e $c = \rho\sin\theta$.
 > 
 > Se queste condizioni sono soddisfatte, si dimostra che $\theta$ misura uno degli angoli del triangolo $ABC$. Come si può interpretare $\rho$ geometricamente?
 > 

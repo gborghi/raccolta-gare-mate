@@ -52,6 +52,6 @@ tags:
 
 *I cerchi di quattro triangoli in quadrilaterali convexi condividono un punto di rombo*
 
-> Che < MSK0/> sia un quadrilaterale convex. Prova che gli incircoli dei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
+> Che $ABCD$ sia un quadrilaterale convex. Prova che gli incircoli dei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
 
 [[src_obm_2004_n3_f3__Q01]]

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>MCD of all numbers 1^n+...+9999^n< MSK1/>
+*MCD of all numbers 1^n+...+9999^n*
 
 > A game dinner Both Lupin 3 and Fujit love to bet. Now they play each other: if Lupin wins/3, they'll go out to dinner; if Fujito wins, he'll have to give her the huge diamond he just stole. They've got 2023 matches in front of them. Initially Fujit ̄o chooses a positive integer n. Lupin/3 in its turns removes a number of matches between 1 and n extremes included; instead, Fujit ̄o in each turn removes a number of matches between n+1 and 2n extremes included. Start moving Lupin/3. Those who cannot make a move at the start of their shift have lost. Give as a response the sum of the n values that Fujito can choose to be sure of winning. 2023 Team Competition  Semifinal 1  Problem Tests  2/2
 > 

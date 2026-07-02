@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Mostra una sequenza unica di numeri interi positivi che soddisfa una data ricorrenza< MSK1/>
+*Mostra una sequenza unica di numeri interi positivi che soddisfa una data ricorrenza*
 
 > Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_4 = 12,$$ $$a_{n+1}a_{n-1} = a_n^2 \pm 1 \quad \text{for} \quad n = 2, 3, 4, \ldots.$$
 

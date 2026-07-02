@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many days< MSK1/>
+*how many days*
 
 > Ophelia bought cat food to feed her four cats for 12 days. On his way home, he found two stray cats and brought them home. If you give each cat the same food ration every day as when it made the purchase, how many days will the stock last? A) 8
 > 	

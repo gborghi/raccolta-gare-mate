@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How to divide 9 people into groups with constraints< MSK1/>
+*How to divide 9 people into groups with constraints*
 
 > Let's split up! The ring company, consisting of 4 gobbits, 2 humans, a dwarf, an elf and a witch, must be divided into two groups of 4 and 5. You want the elf and the dwarf to stay together and the gobbits to be split into two groups. How many ways can you divide?
 

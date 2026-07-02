@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Prove that (21n+4)/(14n+3) is irreducible< MSK1/>
+*Prove that (21n+4)/(14n+3) is irreducible*
 
 > Demonstrate that the fraction $\dfrac{21n+4}{14n+3}$ is irreducible for any natural number $n$.
 

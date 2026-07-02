@@ -60,7 +60,7 @@ tags:
 
 > Nella figura seguente, $AB = AF = CD = DE = 18$, $BC = EF = a$ e $BF = 24$. Inoltre, il quadrilaterale $BCEF$ è un rettangolo.
 > 
-> Supponiamo che l'area dell'esagono $ABCDEF$ sia uguale all'area di un rettangolo i cui due lati consecutivi hanno lunghezza $a$ e $36$. Trova < MSK3/>. Giustifica la tua risposta.
+> Supponiamo che l'area dell'esagono $ABCDEF$ sia uguale all'area di un rettangolo i cui due lati consecutivi hanno lunghezza $a$ e $36$. Trova $a^2$. Giustifica la tua risposta.
 > 
 > **Nota.** Si può usare il teorema di Pitagora, che afferma come segue. Se $XYZ$ è un triangolo rettangolo a $X$, allora $XY^2 + XZ^2 = YZ^2$.
 

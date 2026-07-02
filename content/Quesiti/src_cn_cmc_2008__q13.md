@@ -52,6 +52,6 @@ tags:
 
 Prove l'identità dell'intersezione di x di x e della linea tangente attraverso l'origine.
 
-> È noto che la curva $f(x) = |\sin x|$ intercetta la linea $y = kx$ ($k > 0$) in esattamente tre punti, la coordinata massima $x$ di questi punti essendo $a$. Provare che < MSK0/>
+> È noto che la curva $f(x) = |\sin x|$ intercetta la linea $y = kx$ ($k > 0$) in esattamente tre punti, la coordinata massima $x$ di questi punti essendo $a$. Provare che $$\frac{\cos a}{\sin a - a\cos a} = \frac{1 - a^2}{4a}.$$
 
 [[src_cn_cmc_2008__Q13]]

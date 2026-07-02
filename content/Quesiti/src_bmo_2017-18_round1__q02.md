@@ -47,8 +47,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maximo e minimo numero di giorni in cui almeno cinque dei sei amici nuotano< MSK1/>
+*Maximo e minimo numero di giorni in cui almeno cinque dei sei amici nuotano*
 
-> In un periodo di $100$ giorni, ciascuno dei sei amici va a nuotare esattamente $75$ giorni. Ci sono < MSK2/> giorni in cui almeno cinque degli amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
+> In un periodo di $100$ giorni, ciascuno dei sei amici va a nuotare esattamente $75$ giorni. Ci sono $n$ giorni in cui almeno cinque degli amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
 
 [[src_bmo_2017-18_round1__Q02]]

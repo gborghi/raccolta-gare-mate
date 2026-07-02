@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Due cerchi, tangenti e una trasversale incrociati; rapporto di radii < MSK1/>
+*Due cerchi, tangenti e una trasversale incrociati; rapporto di radii *
 
 > Ci sono due cerchi $O_1, O_2$ che si incrociano a due punti distinti $P$ e $Q$. La tangenza al cerchio $O_1$ a $P$ incontra nuovamente il cerchio $O_2$ a un punto $R$ (diferente da $P$), e la tangenza al cerchio $O_2$ a $Q$ incontra nuovamente il cerchio $O_1$ a un punto $S$ (diferente da $Q$). Inoltre, la linea $PR$ e la linea $QS$ si incrociano in un punto $X$. Considerato il $XR = 9$ e il $XS = 2$, scoprire quante volte il raggio di $O_2$ è confrontato con il raggio di $O_1$ (cioè il rapporto tra il raggio di $O_2$ e quello di $O_1$). Qui $YZ$ indica la lunghezza del segmento $YZ$.
 

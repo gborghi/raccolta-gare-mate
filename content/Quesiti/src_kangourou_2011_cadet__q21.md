@@ -54,7 +54,7 @@ tags:
 
 *X+Y if 24X8Y is divisible by 4,5,9*
 
-> The five digit number $24X8Y$ is divisible by $4$, $5$ and $9$. How much is MSK4/?
+> The five digit number $24X8Y$ is divisible by $4$, $5$ and $9$. How much is$X + Y$?
 >
 > - **(A)** 13
 > - **(B)** 10

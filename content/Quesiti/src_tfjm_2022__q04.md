@@ -85,7 +85,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i goblin possono riparare durante la notte; dimentica tutto ogni giorno, quindi trova una strategia per ridurre al minimo il costo totale senza perdere mai le nugget, quindi generalizzalo a k strumenti, incantesimi di fortuna e salvatori.*
+Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i goblin possono riparare durante la notte; dimentica tutto ogni giorno, quindi trova una strategia per ridurre al minimo il costo totale senza perdere mai le nugget, quindi generalizzatela a k strumenti, incantesimi di fortuna e salvatori.*
 
 > Nano senza memoria.
 > 
@@ -95,11 +95,11 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > Tuttavia, Alaric è vittima di una maledizione: al risveglio, la mattina dopo, ha dimenticato tutto ciò che avrebbe potuto fare i giorni precedenti. E' anche incapace di osservare l'usura dei suoi strumenti. Così, ogni sera, nel momento in cui sceglie quali strumenti lasciare ai goblin, non è in grado di sapere quanto sono indossati, o quale gli appartiene. Domani mattina prenderà uno strumento che non è né troppo vecchio né; gli strumenti che prenderà tra quelli che troverà. Se cerca di usare uno strumento che non funziona più, allora non può scavare né raccogliere nuggets quel giorno.
 > 
-> L'obiettivo del nano è quello di trovare una strategia per spendere il minimo denaro possibile assicurandosi di non perdere le nugget: il primo giorno, i goblin gli forniscono tutti i suoi strumenti nuovi, ma la mattina dopo non saprà se è il primo giorno. Uno indica con $c_n$ la quantità più piccola possibile che il nano spenderà fino al $n$-th giorno, assicurandosi di non perdere nuggets fino al $n$-th giorno.
+> L'obiettivo del nano è quello di trovare una strategia per spendere il minimo denaro possibile assicurandosi di non perdere le nugget: il primo giorno, i goblin gli forniscono tutti i suoi strumenti nuovi, ma la mattina dopo non saprà se è il primo giorno. Uno indica con $c_n$ la minima quantità possibile che la nana spenderà fino al $n$-th giorno, assicurandosi di non perdere nuggets fino al $n$-th giorno.
 > 
-> 1. Inserire < MSK0/> con la massima precisione possibile. La stessa domanda se la lampada può servire fino a 4 giorni invece di 3.
+> 1. Inserire $c_n$ con la massima precisione possibile. La stessa domanda se la lampada può servire fino a 4 giorni invece di 3.
 > 
-> 2. Il nano ora ha gli strumenti. Uno indica $v_1, \ldots, v_k \ge 1$ le loro vite e $c_n(v_1, \ldots, v_k)$ la quantità minima che il nano spenderà fino al $n$-th giorno assicurandosi di non perdere nuggets fino al $n$-th giorno. Estimare $c_n(v_1, \ldots, v_k)$, essendo interessato principalmente nei casi $n > 2^k$, per a) $k = 2$ e $v_1, v_2 \ge 1$ arbitrario. b) < MSK9/> per tutti < MSK10/>. c) $v_i > k$ per tutti $i \in [\![1, k]\!]$. d) $v_i = i$ per tutti $i \in [\![1, k]\!]$. e) $v_i = 2^i$ per tutti $i \in [\![1, k]\!]$. f) < MSK17/> arbitrario. Potrebbe interessare altri valori particolari di < MSK18/>.
+> 2. Il nano ora ha gli strumenti. Uno indica $v_1, \ldots, v_k \ge 1$ le loro vite e $c_n(v_1, \ldots, v_k)$ la quantità minima che il nano spenderà fino al $n$-th giorno assicurandosi di non perdere nuggets fino al $n$-th giorno. Valutare $c_n(v_1, \ldots, v_k)$, essendo interessato principalmente nei casi $n > 2^k$, per a) $k = 2$ e $v_1, v_2 \ge 1$ arbitrario. b) $v_i = k$ per tutti $i \in [\![1, k]\!]$. c) $v_i > k$ per tutti $i \in [\![1, k]\!]$. d) $v_i = i$ per tutti $i \in [\![1, k]\!]$. e) $v_i = 2^i$ per tutti $i \in [\![1, k]\!]$. f) $v_1, \ldots, v_k$ arbitrario. Potrebbe interessare altri valori particolari di $v_1, \ldots, v_k$.
 > 
 > 3. Si dispone sempre di $c_n(v_1, \ldots, v_{k+1}) \ge c_n(v_1, \ldots, v_k)$ per tutti $n, k, v_1, \ldots, v_k, v_{k+1} \ge 1$? Se non è così, date dei contro-esempi.
 > 

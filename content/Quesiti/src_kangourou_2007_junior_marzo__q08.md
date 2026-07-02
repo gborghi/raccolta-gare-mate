@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max of KAN+GA+ROO (different figures) < MSK1/>
+*Max of KAN+GA+ROO (different figures) *
 
 > Find the maximum value that the expression KAN + GA + ROO can assume when each letter is assigned a digit, so that different letters have different digits. A) 1906 B) 1897 C) 1905 D) 1895           E) 2007
 

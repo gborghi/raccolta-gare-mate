@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of the product of neighbouring integers (difference of products) < MSK1/>
+*Value of the product of neighbouring integers (difference of products) *
 
 > The value of the expression: 1234567896·1234567894−1234567899·1234567891. A 15 B 0 C 10 D 6 E 5 F 31
 

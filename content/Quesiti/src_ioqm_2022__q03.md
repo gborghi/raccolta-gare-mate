@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trapezoide, bisector interno incontra BC a E, incircolo di ABE tocca AB a M, trovare angolo DAE< MSK1/>
+*Trapezoide, bisector interno incontra BC a E, incircolo di ABE tocca AB a M, trovare angolo DAE*
 
 > In un trapezoide $ABCD$, il bisettore interno dell'angolo $A$ interseca la base $BC$ (o la sua estensione) al punto $E$. Nel triangolo $ABE$ è inciso un cerchio che tocca il lato $AB$ al punto $M$ e il lato $BE$ al punto $P$. Trova l'angolo $DAE$ in gradi, se $AB \cdot MP = 2$.
 

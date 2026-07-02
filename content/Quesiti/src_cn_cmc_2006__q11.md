@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Valuta minima della funzione trigradikale a intervallo< MSK1/>
+*Valuta minima della funzione trigradikale a intervallo*
 
 > Dato $f(x) = \frac{\sin(\pi x) - \cos(\pi x) + 2}{\sqrt{x}}$ per $\frac{1}{4} \le x \le \frac{5}{4}$, il minimo di $f(x)$ è $\underline{\hspace{2cm}}$.
 

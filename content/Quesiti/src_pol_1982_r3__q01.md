@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Maximizzare il d_n - c_n per n ragazze e n ragazzi attorno a una tavola rotonda< MSK1/>
+*Maximizzare il d_n - c_n per n ragazze e n ragazzi attorno a una tavola rotonda*
 
 > Trovare un modo per organizzare le ragazze e i ragazzi su una tavola rotonda per la quale il massimo è $d_n - c_n$, dove $d_n$ è il numero di ragazze sedute tra due ragazzi e $c_n$ il numero di ragazzi seduti tra due ragazze.
 

@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Finding an infinite set of imperfections< MSK1/>
+*Finding an infinite set of imperfections*
 
 > Call **IMPERFECT** a set $A$ of positive integers such that: - it is composed of infinite numbers; - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
 > 

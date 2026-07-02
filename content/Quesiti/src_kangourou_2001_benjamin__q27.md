@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining cubes after the holes< MSK1/>
+*Remaining cubes after the holes*
 
 ![[src_kangourou_2001_benjamin__prob27.png]]
 

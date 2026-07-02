@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK5/>L'ultima cifra del prodotto 1< MSK0/>3< MSK1/>5< MSK2/>...< MSK3/>97< MSK4/>99< MSK6/>
+*L'ultima cifra del prodotto 1×3×5×...×97×99*
 
 > Qual è la cifra di unità del numero $1 \times 3 \times 5 \times \cdots \times 97 \times 99$?
 > 

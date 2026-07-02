@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/> Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
+* Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
 
 > Una colonia di amebe ha inizialmente una ameba gialla e una ameba rossa. Ogni giorno ogni ameba si divide in due amebe identiche. Ogni ameba ha lo stesso colore del suo genitore con probabilità $\frac{1}{2}$ e il rosso con probabilità $\frac{1}{2}$. Dopo i giorni del 2006, qual è la probabilità che la colonia abbia esattamente un'ameba gialla?
 > 

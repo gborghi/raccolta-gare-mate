@@ -51,7 +51,7 @@ tags:
 
 *Triangolo acuto ABC con incentro I: prova FK = AF = AD*
 
-> Come mostrato nella figura. 4.1, nel $\triangle ABC$ acuto con $\angle A \ge 2\angle B$, $I$ sia il centro di $\triangle ABC$, e $K$ sia il punto simmetrico di $I$ circa $BC$. Le estensioni di $BA$ e $CK$ si incontrano a $D$. La linea che attraversa $B$ parallela a $CI$ incontra $AC$ a $E$ e incontra nuovamente il circoncircolo di $\triangle ABC$ a $F$. Prova che < MSK16/>.
+> Come mostrato nella figura. 4.1, nel $\triangle ABC$ acuto con $\angle A \ge 2\angle B$, $I$ sia il centro di $\triangle ABC$, e $K$ sia il punto simmetrico di $I$ circa $BC$. Le estensioni di $BA$ e $CK$ si incontrano a $D$. La linea che attraversa $B$ parallela a $CI$ incontra $AC$ a $E$ e incontra nuovamente il circoncircolo di $\triangle ABC$ a $F$. Prova che $FK = AF = AD$.
 
 ![[src_cn_ctst_2022__Q04.png]]
 

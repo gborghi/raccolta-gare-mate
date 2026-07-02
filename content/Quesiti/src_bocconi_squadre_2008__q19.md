@@ -48,9 +48,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Number of figures for the product 7^7 · 4^{11} · 5^{11}< MSK1/>
+*Number of figures for the product 7^7 · 4^{11} · 5^{11}*
 
-> What is the product number < MSK0/>?
+> What is the product number $7^7 \cdot 4^{11} \cdot 5^{11}$?
 
 **Answer:** 34
 [[src_bocconi_squadre_2008__Q19]]

@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>21th root value of the product of 576 dividers< MSK1/>
+*21th root value of the product of 576 dividers*
 
-> N is the product of all positive integers divided by 576 (including the number itself). What is 21< MSK0/>n worth? A 24 B 32 C 144 D 12 E 18 F is not an integer
+> N is the product of all positive integers divided by 576 (including the number itself). What is 21√n worth? A 24 B 32 C 144 D 12 E 18 F is not an integer
 
 **Answer:** A
 [[src_archimede_2013_classiprime__Q17]]

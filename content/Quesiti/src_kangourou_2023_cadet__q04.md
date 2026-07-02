@@ -60,11 +60,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>which cut does not go < MSK1/>
+*which cut does not go *
 
 ![[src_kangourou_2023_cadet__prob4.png]]
 
-> The figure shows a rectangular carton of 4 dm < MSK0/> 6 dm. You want to cover it with identical paper cuts of shape and size. It's not allowed to overlay or leave holes. Which of the following cuts cannot be used? A)
+> The figure shows a rectangular carton of 4 dm × 6 dm. You want to cover it with identical paper cuts of shape and size. It's not allowed to overlay or leave holes. Which of the following cuts cannot be used? A)
 > 	
 > B)
 > 	

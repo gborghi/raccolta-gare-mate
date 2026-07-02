@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Altezza di piedi, due circoncircoli, punto medio dell'accordo< MSK1/>
+*Altezza di piedi, due circoncircoli, punto medio dell'accordo*
 
 > Lasciate che $ABC$ sia un triangolo acuto. I gradi $D$, $E$, $F$ siano i piedi delle altitudini da $A$, $B$, $C$ ai lati $BC$, $CA$ e $AB$, rispettivamente. Il $G$ deve essere l'intersezione della linea $AD$ con la linea $EF$. Tra le intersezioni del circoncircolo del triangolo $DFG$ con il lato $AB$, $P$ deve essere quella che non è $F$. Tra le intersezioni del circoncircolo del triangolo $DEG$ con il lato $AC$, $Q$ sia quella che non è $E$. Prova che la riga $DG$ divide il segmento $PQ$.
 

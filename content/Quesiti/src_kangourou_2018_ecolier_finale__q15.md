@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining 5 of the four-digit product< MSK1/>
+*Remaining 5 of the four-digit product*
 
 > The remainder of the division by 5 of four positive integers is the same number other than zero. What's the remainder of the product of these four numbers divided by 5? Call 9999 if you can't find a single answer.
 > 

@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How often does Amerigo fixation occur between 14 and 17 < MSK1/>
+*How often does Amerigo fixation occur between 14 and 17 *
 
-> Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits that indicate the minutes. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between MSK6 and MSK7?
+> Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits of the minutes between them. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between$14\text{h}\,00$and$17\text{h}\,00$?
 
 **Answer:** 8
 [[src_bocconi_rosi_2011__Q18]]

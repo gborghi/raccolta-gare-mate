@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Height of box given gift tape< MSK1/>
+*Height of box given gift tape*
 
 ![[src_kangourou_2022_kangourou_squadre__prob4.png]]
 

@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eta of Eliana given the mean age< MSK1/>
+*Eta of Eliana given the mean age*
 
 > A jazz band consists of six members. Joseph plays the saxophone, Sergio plays the trumpet, Eliana sings and they're all the same age. The other three members of the jazz band are 17, 19, and 24. The average age of the six members is 21. How old is Eliana? A) 20
 > 	

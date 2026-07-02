@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Ordinate four surfaces per growing area< MSK1/>
+*Ordinate four surfaces per growing area*
 
 > From the smallest to the largest These four surfaces were drawn on the same square sheet of paper. Order them in increasing order from smaller to larger.
 

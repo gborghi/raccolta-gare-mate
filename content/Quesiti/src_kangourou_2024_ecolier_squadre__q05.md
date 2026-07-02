@@ -71,7 +71,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Maximum number of yellow beads given 25 green beads< MSK1/>
+*Maximum number of yellow beads given 25 green beads*
 
 ![[src_kangourou_2024_ecolier_squadre__prob5.png]]
 

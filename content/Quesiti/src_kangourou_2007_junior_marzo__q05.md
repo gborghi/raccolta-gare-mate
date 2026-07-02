@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Members after three years (+50% annually) < MSK1/>
+*Members after three years (+50% annually) *
 
 > An international body currently consists of 32 members. How many members will it have in three years' time if the number of members is 50% higher than the previous year? A) 182 B) 128 C) 108 D) 96 E) 80 Texts
 > 

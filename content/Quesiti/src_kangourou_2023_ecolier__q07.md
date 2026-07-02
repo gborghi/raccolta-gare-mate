@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> in how many ways< MSK1/>
+* in how many ways*
 
 ![[src_kangourou_2023_ecolier__prob7.png]]
 

@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Alpha angle between the equally spaced lists< MSK1/>
+*Alpha angle between the equally spaced lists*
 
 ![[src_kangourou_2019_squadre_finale__prob2.png]]
 

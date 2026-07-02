@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>At most 70% of triangles from 100 points are acute< MSK1/>
+*At most 70% of triangles from 100 points are acute*
 
 > In one plane there are 100 points, none of which are collinear with two others. Consider all possible triangles having such points as vertices. Demonstrate that no more than $70\%$ of these triangles is acutaneous.
 

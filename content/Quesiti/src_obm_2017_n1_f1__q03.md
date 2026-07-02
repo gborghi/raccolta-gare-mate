@@ -65,7 +65,7 @@ tags:
 
 > Considera l'ellisse con l'equazione $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$. Un semidiametro dell'ellisse è un segmento $OM$, dove $O = (0,0)$ è il centro dell'ellisse. Un angolo retto formato da due semidiametri $OM$ e $ON$ dell'ellisse ruota intorno al punto $O$.
 > 
-> a) Indicare che < MSK0/> è costante.
+> a) Indicare che $\dfrac{1}{|\overrightarrow{OM}|^2} + \dfrac{1}{|\overrightarrow{ON}|^2}$ è costante.
 > 
 > b) Trova l'envelope della famiglia di accordi $MN$.
 > 

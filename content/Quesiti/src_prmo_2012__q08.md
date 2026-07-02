@@ -55,7 +55,7 @@ tags:
 
 *Area di triangolo AEB rettangolare con segmenti incrociati*
 
-> In rettangolo $ABCD$, $AB = 5$ e $BC = 3$. I punti $F$ e $G$ sono sul segmento di linea $CD$ in modo che $DF = 1$ e $GC = 2$. Le linee $AF$ e $BG$ si incrociano a $E$. Qual è la superficie di < MSK11/>?
+> In rettangolo $ABCD$, $AB = 5$ e $BC = 3$. I punti $F$ e $G$ sono sul segmento di linea $CD$ in modo che $DF = 1$ e $GC = 2$. Le linee $AF$ e $BG$ si incrociano a $E$. Qual è la superficie di $\triangle AEB$?
 
 **Risposta:** \frac{25}{2}
 [[src_prmo_2012__Q08]]

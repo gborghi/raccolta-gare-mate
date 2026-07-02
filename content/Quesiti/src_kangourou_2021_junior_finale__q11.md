@@ -53,8 +53,8 @@ tags:
 
 *Summary of the sizes of three distinct digits of numbers*
 
-> Anna chose a number $A$ and subtracted $\frac{1}{10}$, Beatrice chose a number $B$ and multiplied it by $\frac{1}{10}$. Anna and Beatrice got the same result. So, what?
+> Anna chose a number $A$ and subtracted it from $\frac{1}{10}$, Beatrice chose a number $B$ and multiplied it by $\frac{1}{10}$. Anna and Beatrice got the same result. So, what?
 > 
-> (a) certainly < MSK0/>. (b) certainly < MSK1/>. (c) certainly < MSK2/>. D) $A$ is certainly different from $B$, but it could be either $A < B$ or $A > B$. E) None of the above claims are correct.
+> (a) certainly $A < B$. (b) certainly $A > B$. (c) certainly $A \times B > 0$. D) $A$ is certainly different from $B$, but it could be either $A < B$ or $A > B$. E) None of the above claims are correct.
 
 [[src_kangourou_2021_junior_finale__Q11]]

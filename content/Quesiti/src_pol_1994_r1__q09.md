@@ -50,8 +50,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>2n partecipanti, ciascuno conosciuto con >=n altri; coppia in n camere doppie per conoscenza< MSK1/>
+*2n partecipanti, ciascuno conosciuto con >=n altri; coppia in n camere doppie per conoscenza*
 
-> Ci sono $2n$ partecipanti a una conferenza. Ciascuna delle persone conosce almeno < MSK1/> altre persone. dimostrare che è possibile ospitare i partecipanti in $n$ camere doppie in modo che ognuno di loro condivida una stanza con la sua conoscenza.
+> Ci sono $2n$ partecipanti a una conferenza. Ciascuna delle persone conosce almeno $n$ altre persone. dimostrare che è possibile ospitare i partecipanti in $n$ camere doppie in modo che ognuno di loro condivida una stanza con il suo/la sua conoscenza.
 
 [[src_pol_1994_r1__Q09]]

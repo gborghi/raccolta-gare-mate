@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>intersection of triangles in a rectangle< MSK1/>
+*intersection of triangles in a rectangle*
 
 > No one remembers the command word to disable the robot Gort, which in nine days will ignite and destroy life on Earth. However, there is a second arrest procedure. In each of these days, the hero Ash Williams will throw a six-sided dice. If each launch is different from either the number released two days before or the number that will be released four days after, Gort will be deactivated. (If on one of the required days Ash did not draw the dice, e.g. two days before the first day, the resulting number is considered different.) What is the probability that the world will not end? As a response, provide the first four digits after the comma.
 

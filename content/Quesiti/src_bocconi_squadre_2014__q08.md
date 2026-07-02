@@ -54,7 +54,7 @@ tags:
 
 *Square tiles of 1 dm side to cover room 23 dm × 23 dm*
 
-> A floor of a square room of $23$ dm on the side is entirely covered by square tiles which may be $1$ dm on the side, or $2$ dm on the side, or $3$ dm on the side. How many < MSK4/> dm tiles on the side will be needed to cover the entire floor?
+> A floor of a square room of $23$ dm on the side is entirely covered by square tiles which may be $1$ dm on the side, or $2$ dm on the side, or $3$ dm on the side. How many $1$ dm tiles on the side will be needed to cover the entire floor?
 
 **Answer:** 1 piastrella
 [[src_bocconi_squadre_2014__Q08]]

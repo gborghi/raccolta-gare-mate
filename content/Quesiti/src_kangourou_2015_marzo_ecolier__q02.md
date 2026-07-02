@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0> the longest bar < MSK1/>
+*the longest bar*
 
 ![[src_kangourou_2015_marzo_ecolier__prob2.png]]
 

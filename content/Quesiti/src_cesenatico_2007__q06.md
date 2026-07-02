@@ -70,7 +70,7 @@ tags:
 
 Maximum constant c_n and d_n in inequality with product 1
 
-> For each integer n < MSK0/>2, determine: (a) the largest real number cn such that 1 1 + a1 + 1 1 + a2 + . . . + 1 1 + an ≥cn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1; (b) the largest real number such that 1 1 + 2a1 + 1 1 + 2a2 + . . . + 1 1 + 2an ≥dn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1.
+> For each integer n ≥2, determine: (a) the largest real number cn such that 1 1 + a1 + 1 1 + a2 + . . . + 1 1 + an ≥cn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1; (b) the largest real number such that 1 1 + 2a1 + 1 1 + 2a2 + . . . + 1 1 + 2an ≥dn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1.
 
 **Answer:** (a) c_n=1; (b) d_2=2/3, d_n=1 per n>=3
 [[src_cesenatico_2007__Q06]]

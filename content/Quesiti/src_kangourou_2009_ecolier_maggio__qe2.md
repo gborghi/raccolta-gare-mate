@@ -78,7 +78,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of cards remaining by two < MSK1/>
+*Minimum number of cards remaining by two *
 
 ![[src_kangourou_2009_ecolier_maggio__probE2.png]]
 

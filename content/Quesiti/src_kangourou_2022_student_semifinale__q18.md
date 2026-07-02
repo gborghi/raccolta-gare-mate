@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how many < MSK1/>
+*how many *
 
 > (8 points) Let's say a positive integer n is perfect if it matches the square of the number of its divisors (positive integers, 1 and n included): for example, 4, which has three divisors, is not perfect. How many are perfect numbers?
 >  

@@ -58,7 +58,7 @@ tags:
 
 *Numbers that Apollonia can read from 323*
 
-> Apollonia is playing a math game. He writes a number, on the side of it he can read the same numbers in different possible order, and so on until he writes $'1'$. For example, it starts by writing $'323'$, then writes $'5'$ on the side, because in $'323'$ it reads the following different numbers: $2$, $30$, $32$, and $323$ (but not $33$, as it is necessary that the digits that make up the reading number are placed next to each other). Then it starts again with $'5'$, in which it can read only the number $5$, then on the side of it it writes $'1'$, and stops. She then wrote three numbers below: $'323'$, $'5'$, $'1'$. Today, playing her game, Apollonia wrote $4$ numbers. < MSK17/>What is the smallest number from which it can be started? < MSK18/>
+> Apollonia is playing a math game. He writes a number, on the side of it he can read the same numbers in different possible order, and so on until he writes $'1'$. For example, it starts by writing $'323'$, then writes $'5'$ on the side, because in $'323'$ it reads the following different $4$ numbers: $2$, $30$, $32$ and $323$ (but not $33$, as it is necessary that the digits that make up the number read are placed next to each other). Then it starts again with $'5'$, in which it can read only the number $5$, then on the side of it it writes $'1'$, and stops. She then wrote three numbers below: $'323'$, $'5'$, $'1'$. Today, playing her game, Apollonia wrote $4$ numbers. **What is the smallest number from which it can be started? **
 
 **Answer:** 1230
 [[src_bocconi_finaleint_2011_g1__Q10]]

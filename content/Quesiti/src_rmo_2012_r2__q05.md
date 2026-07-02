@@ -52,9 +52,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ceviani triangolari, rapporto tra BP/PQ < MSK1/>
+*Ceviani triangolari, rapporto tra BP/PQ *
 
-> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. Il $F$ deve essere il punto medio di $AC$. In < MSK9/> < MSK7/> < MSK8/> e in < MSK11/> < MSK10/> si intersecano rispettivamente. Determinare < MSK12/>.
+> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. Il $F$ deve essere il punto medio di $AC$. In $P$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare $BP/PQ$.
 
 ![[src_rmo_2012_r2__Q05.png]]
 

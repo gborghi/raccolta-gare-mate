@@ -39,7 +39,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>area report < MSK1/>
+*area report *
 
 > [problem not present in the document]
 

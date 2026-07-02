@@ -47,6 +47,6 @@ tags:
 
 *Ricerca tutte le funzioni reali con f(xf(x) + f(y))=f(x) ^2+y*
 
-> Che $f(x)$ sia una funzione a valore reale definita sui numeri reali in modo tale che, per tutti i numeri reali $x$ e $y$, $$f\left(x f(x) + f(y)\right) = \left(f(x)\right)^2 + y$$ sia valida. Trova tutte le funzioni possibili < MSK4/>.
+> Che $f(x)$ sia una funzione a valore reale definita sui numeri reali in modo tale che, per tutti i numeri reali $x$ e $y$, $$f\left(x f(x) + f(y)\right) = \left(f(x)\right)^2 + y$$ sia valida. Trova tutte le funzioni possibili $f(x)$.
 
 [[src_jmo14mq_honsen__Q02]]

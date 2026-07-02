@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>L'area della superficie del tetraedro mai toccata da sfere in movimento libero< MSK1/>
+*L'area della superficie del tetraedro mai toccata da sfere in movimento libero*
 
 > Supponiamo che una palla di raggio 1 si muova liberamente all'interno di un tetraedro regolare con lunghezza di bordo $4\sqrt{6}$. Quindi l'area della superficie interna del contenitore che la palla non può mai toccare è ________.
 

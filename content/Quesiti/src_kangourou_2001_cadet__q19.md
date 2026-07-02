@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most peak face product< MSK1/>
+*Most peak face product*
 
 ![[src_kangourou_2001_cadet__prob19.png]]
 

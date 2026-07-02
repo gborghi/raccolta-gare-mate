@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Trova il 20% di 40 < MSK1/>
+*Trova il 20% di 40 *
 
 > $20\%$ di $40$ è uguale a:
 > 

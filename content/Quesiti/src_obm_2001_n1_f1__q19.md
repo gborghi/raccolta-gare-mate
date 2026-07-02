@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Numero di lupi tra cinque animali AE che sono cani (verità) o lupi (mentitori), data la loro dichiarazione*
+*Numero di lupi tra i cinque animali AE che sono cani (verità) o lupi (mentitori), data la loro dichiarazione*
 
-> Cinque animali < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/> e < MSK4/> sono cani o sono lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il MSK7 dice che il MSK8 è un lupo. < MSK9/> dice che < MSK10/> è un cane. < MSK11/> dice che < MSK12/> e < MSK13/> sono animali di specie diverse. < MSK14/> dice che < MSK15/> è un cane. Quanti lupi ci sono tra i cinque animali?
+> Cinque animali $A$, $B$, $C$, $D$ e $E$ sono cani o sono lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il$B$dice che il$C$è un lupo. $C$ dice che $D$ è un cane. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 

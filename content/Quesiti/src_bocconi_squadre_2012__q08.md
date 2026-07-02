@@ -51,7 +51,7 @@ tags:
 
 *Distance traveled by the cordial ant in the row*
 
-> A group of ants moves in a straight line and in a straight line, forming a column of < MSK0/> cm. At some point, the ant that was in the queue - particularly friendly - decides to go and greet the coworker who is at the head of the queue; he reaches out to her, greets her, and then comes back in the queue. Knowing that in this "going back and forth" the corneal ant's velocity has remained constant and that the column has traveled $50$ cm, ** what is the distance traveled by the corneal ant?**
+> A group of ants moves in a straight line and in a straight line, forming a column of $50$ cm. At some point, the ant that was in the queue - particularly friendly - decides to go and greet the coworker who is at the head of the queue; he reaches out to her, greets her, and then comes back in the queue. Knowing that in this "way-and-back" the corneal ant's velocity has remained constant and that the column has traveled $50$ cm, ** what is the distance traveled by the corneal ant?**
 > 
 > (The length of a single ant is considered negligible)
 

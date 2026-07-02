@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight ripped from the treasure map < MSK1/>
+*Weight ripped from the treasure map *
 
 ![[src_kangourou_2022_koala__prob5.png]]
 

@@ -53,7 +53,7 @@ tags:
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee) *
 
-> In un mazzo di carte composto solo da carte rosse e carte nere, ci sono $2$ volte più carte nere di quelle rosse. Se si aggiungono carte nere $4$, ci sono poi $3$ volte più carte nere di carte rosse. Quante carte contenevano il mazzo prima che le carte nere < MSK3/> fossero aggiunte?
+> In un mazzo di carte composto solo da carte rosse e carte nere, ci sono $2$ volte più carte nere di quelle rosse. Se si aggiungono carte nere $4$, ci sono poi $3$ volte più carte nere di carte rosse. Quante carte contenevano il mazzo prima che le carte nere $4$ fossero aggiunte?
 > 
 > *Solo una risposta numerica è prevista qui.*
 

@@ -51,8 +51,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Optimizzare il numero di lanci di rete che un pescatore di pesce realizza illegalmente, data la probabilità per lancio di essere catturato e di perdere tutti i guadagni, per massimizzare il profitto atteso.*
+*Optimizzare il numero di lanci di rete che un pescatore di pesce fa illegalmente, data la probabilità per lancio di essere catturato e di perdere tutti i guadagni, per massimizzare il profitto atteso.*
 
-> Un pescatore sta per pescare nelle acque territoriali di un paese vicino, per ciò che non ha una patente. Ogni volta che lancia la rete, la guardia costiera può fermarlo con la probabilità $1/k$, dove $k$ è un intero positivo fisso. Ogni lancio gli porta un pesce che sbarca con un peso fisso. Tuttavia, se la guardia costiera lo ferma, confisceranno tutto il suo sbarco di pesce e gli chiederanno di lasciare il paese. Il peschereccio di peschereccio prevede di lanciare la rete < MSK2/> volte prima di tornare nelle acque territoriali del suo paese. Trova $n$ per il quale il profitto previsto è massimo.
+> Un pescatore sta per pescare nelle acque territoriali di un paese vicino, per ciò che non ha una patente. Ogni volta che lancia la rete, la guardia costiera può fermarlo con la probabilità $1/k$, dove $k$ è un intero positivo fisso. Ogni lancio gli porta un pesce che sbarca con un peso fisso. Tuttavia, se la guardia costiera lo ferma, confisceranno tutto il suo sbarco di pesce e gli chiederanno di lasciare il paese. Il peschereccio di peschereccio prevede di lanciare la rete $n$ volte prima di tornare nelle acque territoriali del suo paese. Trova $n$ per il quale il profitto previsto è massimo.
 
 [[src_pol_1976_r3__Q05]]

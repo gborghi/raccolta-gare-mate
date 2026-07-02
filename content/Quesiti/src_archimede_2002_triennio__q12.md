@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of first digit less than second digit< MSK1/>
+*Probability of first digit less than second digit*
 
 > Two dice are thrown; the probability that the score of the first dice is narrowly less than that of the second dice is:
 >

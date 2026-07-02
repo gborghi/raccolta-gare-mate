@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>set of vertices< MSK1/>
+*set of vertices*
 
 > Given the equations on the left, which of the statements on the right is true? (I) x3 −5x2 x2 = 3x −15 3 , (II) x −5 1/2 = 3x −15 3/2 , (III) x −5 2 = x −5 2
 >

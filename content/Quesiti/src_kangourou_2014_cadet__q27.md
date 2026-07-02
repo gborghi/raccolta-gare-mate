@@ -68,7 +68,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many are from the Greens (Green/Red/Yellow) < MSK1/>
+*How many are from the Greens (Green/Red/Yellow) *
 
 > In one room there are 25 people, each of whom belongs to one of the following fraternities: the Greens, who always tell the truth, the Reds, who always lie, and the Giants, who, if they answer one question truthfully, lie to the next and vice versa. Each of these people was asked in the order: • Are you Green?  and 17 answered yes, •  are from Yellow? and 12 answered yes, •  are from Red? and 8 answered yes. How many are the Greens? A) 4
 > 	

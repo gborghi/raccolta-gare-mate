@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Question 1 (text not available in the sidecar) < MSK1/>
+*Question 1 (text not available in the sidecar) *
 
 > Six points are numbered as shown in the figure. Cristina obtains two triangles: one with vertices marked by even numbers, the other with vertices marked by odd numbers. Which of the five figures shows the two triangles obtained by Cristina? (see figure)
 

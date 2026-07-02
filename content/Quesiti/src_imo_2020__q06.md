@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Separating straight with distance >= n^(-1/3) < MSK1/>
+*Separating straight with distance >= n^(-1/3) *
 
 > It shows that there is such a positive constant $c$ that the following statement is true:
 > 

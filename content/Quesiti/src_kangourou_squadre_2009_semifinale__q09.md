@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum number of persons with male to female ratio 0.24< MSK1/>
+*Minimum number of persons with male to female ratio 0.24*
 
 > Disparate numbers Let's say a positive integer is disparate if divided by 6 gives the remainder 5 and divided by 8 gives the remainder 7. Find the first two odd numbers and write them in order (for example, if they were 65 and 86 you would write 6586).
 

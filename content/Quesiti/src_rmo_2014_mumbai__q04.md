@@ -56,6 +56,6 @@ tags:
 
 *Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
 
-> Una persona si muove nel piano $x$-$y$ che si muove solo in linea con le coordinate interi $x$ e $y$. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$; b) se $x + y$ è pari si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$. Quanti percorsi distinti può percorrere per passare da MSK11/> a MSK12/>, dato che ha fatto esattamente tre passi a destra (cioè $(x, y)$ a MSK14/>)?
+> Una persona si muove nel piano $x$-$y$ che si muove solo in linea con le coordinate interi $x$ e $y$. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$; b) se $x + y$ è pari si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$. Quanti percorsi distinti può percorrere per passare da$(0, 0)$ a$(8, 8)$, dato che ha fatto esattamente tre passi a destra (cioè $(x, y)$ a$(x + 1, y)$)?
 
 [[src_rmo_2014_mumbai__Q04]]

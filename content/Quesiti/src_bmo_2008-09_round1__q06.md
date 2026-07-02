@@ -52,6 +52,6 @@ tags:
 
 *Prove la disuguaglianza a3cosA + b3cosB + c3cosC < abc per il triangolo obtuso*
 
-> Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che < MSK0/>
+> Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
 
 [[src_bmo_2008-09_round1__Q06]]

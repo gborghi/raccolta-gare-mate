@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Mediani triangolari dati; area di ricerca< MSK1/>
+*Mediani triangolari dati; area di ricerca*
 
 > Nel triangolo $ABC$, $D$, $E$, $F$ siano rispettivamente i punti medi di $BC$, $CA$ e $AB$. Dato che $AD = 3$, $BE = 3$, $CF = 5$, si trova l'area del triangolo $ABC$.
 

@@ -50,7 +50,7 @@ tags:
 
 This is the total value of the underlying asset.
 
-> What is the value of < MSK0/> (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015) ? A) √ 2015 B) 2015 C) 2016 D) 2017 E) 4030
+> What is the value of √ (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015) ? A) √ 2015 B) 2015 C) 2016 D) 2017 E) 4030
 
 **Answer:** C
 [[src_kangourou_2015_marzo_student__Q11]]

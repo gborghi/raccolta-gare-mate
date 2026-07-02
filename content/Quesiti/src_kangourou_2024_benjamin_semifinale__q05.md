@@ -37,11 +37,6 @@ tags:
 > regalato in totale?   
 > A) 27             B) 48             C) 36             D) 21            E) Potrebbe non essere alcuno dei precedenti. 
 > ?
-> • 
-> • 
-> • 
-> • 
-> • 
 >  
 >  
 >  
@@ -73,10 +68,6 @@ tags:
 >  
 >  
 >  
-> • 
-> • 
-> • 
-> • 
 > 
 > Risposta: E). Soluzione. Se n è il numero dei figli, il numero cercato deve essere tale che, sottraendogli 6n, si 
 > ottenga 1/n del numero stesso. Questo è vero per 27 se n = 3 ma anche, per esempio, per 32 se n = 4.  

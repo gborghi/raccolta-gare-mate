@@ -52,6 +52,6 @@ tags:
 
 *Rimprovare la disuguaglianza simmetrica per i reali non negativi che sommano a 1*
 
-> I numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che < MSK0/>
+> I numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che $$7(pq + qr + rp) \le 2 + 9pqr.$$
 
 [[src_bmo_1998-99_round2__Q03]]

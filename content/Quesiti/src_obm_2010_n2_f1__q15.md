@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Integrali positivi somma 83 prodotto 1024; trovare il più piccolo < MSK1/>
+*Integrali positivi somma 83 prodotto 1024; trovare il più piccolo *
 
 > Alcuni numeri interi positivi, non necessariamente distinti, sono scritti sulla lavagna. La loro somma è $83$ e il loro prodotto è $1024$. Il numero più piccolo è uguale a
 >

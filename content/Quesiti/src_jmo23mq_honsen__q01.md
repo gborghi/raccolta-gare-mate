@@ -53,10 +53,10 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-Distribuire caramelle a gruppi di persone in condizioni< MSK1/>
+Distribuire caramelle a gruppi di persone in condizioni*
 
-> $n,k$ siano integri positivi con $n \ge k$. Ci sono persone $n$, e ciascuna persona appartiene esattamente a uno dei gruppi $1, \ldots, k$. Inoltre, ogni gruppo contiene almeno una persona. Dimostrare che, in queste condizioni, è possibile distribuire le caramelle $n^2$ tra le persone $n$ in modo che siano soddisfatte tutte le seguenti condizioni:
+> $n,k$ siano integri positivi con $n \ge k$. Ci sono persone $n$, e ciascuna persona appartiene esattamente a uno dei gruppi $1, \ldots, k$. Inoltre, ogni gruppo contiene almeno una persona. dimostrare che, in queste condizioni, è possibile distribuire le caramelle $n^2$ tra le persone $n$ in modo da soddisfare tutte le seguenti condizioni:
 > 
-> - Ogni persona riceve almeno < MSK0/> dolci. - Ogni persona appartenente al gruppo < MSK1/> riceve esattamente < MSK2/> dolci < MSK3/>. - Se < MSK4/>, allora < MSK5/>.
+> - Ogni persona riceve almeno $1$ dolci. - Ogni persona appartenente al gruppo $i$ riceve esattamente $a_i$ dolci $(1 \le i \le k)$. - Se $1 \le i < j \le k$, allora $a_i > a_j$.
 
 [[src_jmo23mq_honsen__Q01]]

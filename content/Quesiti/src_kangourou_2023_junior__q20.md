@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>blocks between 39 and 40< MSK1/>
+*blocks between 39 and 40*
 
 ![[src_kangourou_2023_junior__prob20.png]]
 

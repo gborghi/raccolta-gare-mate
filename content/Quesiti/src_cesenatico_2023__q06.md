@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> for which c traps < MSK1/>
+* for which c traps *
 
 > Dedalo buys a finite number of strings (each finite length) consisting of the binary digits 0 and 1. For each of the purchased strings, Dedalo pays (1/2)L drachmas, where L indicates the length of the string. The Minotaur escapes if he can find an infinite sequence of binary digits that contains none of the strings that Dedalo bought. Dedo has to trap the Minotaur. For example, if Dedalo bought the 00 and 11 strings, paying half a drachma, the minotaur could escape with the infinite sequence 01010101. . . On the other hand, Dedalus can trap the Minotaur at a cost of 75 cents of drachma: he will simply buy strings 0 and 11, or strings 00, 11, 01. Determine all positive integers c for which Dedalus can trap the Minotaur at a cost less than or equal to c c c c c cents of drachma. Italian Olympic Games of Mathematics 2023 - Texts and solutions - Page 2 of 15
 > 

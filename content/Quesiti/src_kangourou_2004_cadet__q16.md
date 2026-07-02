@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Min bricks 1x2x3 for a full cube < MSK1/>
+*Min bricks 1x2x3 for a full cube *
 
 > I have a lot of wooden bricks available, all one inch long, two inches wide and three inches high. What is the smallest number of bricks needed to build a full cube? A) 12           B) 18          C) 24         D) 36    E) 60
 

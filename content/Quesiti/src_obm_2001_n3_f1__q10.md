@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Circolo diviso da 2n+1 radii in settori congruenti; regioni massime tagliate anche da una linea< MSK1/>
+*Circolo diviso da 2n+1 radii in settori congruenti; regioni massime tagliate anche da una linea*
 
 > Un cerchio è diviso, per radii $2n + 1$, in settori congruenti $2n + 1$. Qual è il numero massimo di regioni del cerchio determinate da questi raggi e da una linea retta?
 > 

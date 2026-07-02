@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Participants with exactly 13 correct problems< MSK1/>
+*Participants with exactly 13 correct problems*
 
-> The last international final of mathematical and logic games was attended by 75 competitors in the C1 category. The < MSK0/> provided an accurate answer to at least 13 problems. The < MSK1/> gave an accurate answer to no more than 13 problems. How many participants solved exactly 13 problems?
+> The last international final of mathematical and logic games was attended by 75 competitors in the C1 category. The $36\%$ provided an accurate answer to at least 13 problems. The $84\%$ gave an accurate answer to no more than 13 problems. How many participants solved exactly 13 problems?
 
 **Answer:** 15
 [[src_bocconi_finaleint_2011_g2__Q09]]

@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>max removable without dropping cards< MSK1/>
+*max removable without dropping cards*
 
 ![[src_kangourou_2016_marzo_benjamin__prob3.png]]
 

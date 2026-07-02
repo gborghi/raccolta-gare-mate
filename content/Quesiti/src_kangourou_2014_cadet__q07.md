@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Bucket capacity (half and then three quarters) < MSK1/>
+*Bucket capacity (half and then three quarters) *
 
 > A bucket was half full. I added two gallons of water and it's now three-quarters full. What is the capacity (in litres) of the bucket? A) 10 B) 8
 > 	

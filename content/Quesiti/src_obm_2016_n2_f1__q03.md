@@ -58,7 +58,7 @@ tags:
 
 *Le famiglie che non ricevono un giornale, codici a due cifre a poche cifre*
 
-> Ci sono $5$ numeri unici: $1$, $3$, $5$, $7$, $9$. Pertanto ci sono $5\cdot 5=25$ numeri a due cifre che utilizzano solo queste cifre. Di conseguenza, la maggior parte delle famiglie < MSK7/> non ha ricevuto il giornale. Quante famiglie non hanno ricevuto il giornale? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+> Ci sono $5$ numeri unici: $1$, $3$, $5$, $7$, $9$. Pertanto ci sono $5\cdot 5=25$ numeri a due cifre che utilizzano solo queste cifre. Di conseguenza, la maggior parte delle famiglie $25-18=7$ non ha ricevuto il giornale. Quante famiglie non hanno ricevuto il giornale? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
 [[src_obm_2016_n2_f1__Q03]]

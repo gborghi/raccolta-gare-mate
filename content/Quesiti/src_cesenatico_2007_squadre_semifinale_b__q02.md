@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Non-luxury cartons (multiple 18) (not multiple 24) in 2007< MSK1/>
+*Non-luxury cartons (multiple 18) (not multiple 24) in 2007*
 
 > The morning ninja live organized in various villages. For example, the Retta road consists of a single long road (absolutely straight), flanked by buildings numbered 1 to 2007. Mateninja consume a lot of paper and in fact all buildings with multiple numbers of 18 are cartels; also many mateninja are affluent, so all buildings with multiple numbers of 24 are luxury shops. Numeruto walks the whole village looking for the best price for square footage: How many shops do you visit in total, if you skip the luxury ones?
 

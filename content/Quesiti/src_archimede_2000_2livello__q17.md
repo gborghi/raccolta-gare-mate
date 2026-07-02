@@ -45,7 +45,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>HMAC and isoscele< MSK1/>
+*HMAC and isoscele*
 
 > The points $H$, $K$, $M$ on the sides of a triangle $ABC$ are chosen so that $AH$ is a height, $BK$ is a biset and $CM$ is a median. The intersection between $AH$ and $BK$ shall be indicated by $D$ and the intersection between $HM$ and $BK$ shall be indicated by $E$. Knowing that $KD = 2$, $DE = 1$, $EB = 3$:
 > 

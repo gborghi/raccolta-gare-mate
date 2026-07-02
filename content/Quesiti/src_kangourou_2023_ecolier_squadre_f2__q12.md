@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sandwich price given the purchase of cakes and sandwiches< MSK1/>
+*Sandwich price given the purchase of cakes and sandwiches*
 
 > Yesterday I bought six sandwiches and three slices of cake, today I bought three sandwiches and six slices of cake. All sandwiches have the same price and all cake slices have the same price: a sandwich costs twice as much as a slice of cake. Yesterday I spent 6 euros and 90 cents more than today. How much is a sandwich worth?
 

@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>how much gold< MSK1/>
+*how much gold*
 
 > In a kangaroo tribe there are nine special individuals, called Super Kangaroos, who are the only ones with golden or silver hair. For every random encounter of 3 Supercranes, the probability of none of them being silver is 2/3. How many are the golden supercranks? A) 1
 > 	

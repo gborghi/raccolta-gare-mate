@@ -59,7 +59,7 @@ tags:
 
 *Count all the two-digit digits of the trunk-divisible numbers*
 
-> < MSK0/>What are the two-digit "trunk-divisible" numbers? < MSK1/>
+> **What are the two-digit "trunk-divisible" numbers? **
 > 
 > (A number is said to be "trunk-divisible" if, after deleting the unit number, the resulting number divides the initial number. For example, 24 is trunk-divisible because $2 \mid 24$.)
 >

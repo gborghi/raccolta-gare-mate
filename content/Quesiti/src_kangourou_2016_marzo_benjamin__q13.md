@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>who takes two< MSK1/>
+*who takes two*
 
 ![[src_kangourou_2016_marzo_benjamin__prob13.png]]
 

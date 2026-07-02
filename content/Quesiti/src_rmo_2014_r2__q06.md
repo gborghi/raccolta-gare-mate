@@ -56,6 +56,6 @@ tags:
 
 *Odd n: la somma dei prodotti delle righe e dei prodotti delle colonne nella griglia n×n non è zero*
 
-> Supponiamo che $n$ sia pari e ogni quadrato di una griglia $n \times n$ sia arbitrariamente riempito con $1$ o $-1$. $r_j$ e $c_k$ indichino il prodotto di tutti i numeri rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Provare che < MSK0/>
+> Supponiamo che $n$ sia pari e ogni quadrato di una griglia $n \times n$ sia arbitrariamente riempito con $1$ o $-1$. $r_j$ e $c_k$ indichino il prodotto di tutti i numeri rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Provare che $$\sum_{j=1}^{n} r_j + \sum_{k=1}^{n} c_k \ne 0.$$
 
 [[src_rmo_2014_r2__Q06]]

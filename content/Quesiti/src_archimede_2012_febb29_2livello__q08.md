@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum a+b with 21ab^2 and 15ab perfect cubes< MSK1/>
+*Minimum a+b with 21ab^2 and 15ab perfect cubes*
 
 > The numbers a, b are positive integers. What's the minimum value of a + b so that 21ab2 and 15ab are both perfect cubes?
 >

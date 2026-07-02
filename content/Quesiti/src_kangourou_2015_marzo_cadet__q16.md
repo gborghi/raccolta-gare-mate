@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>failed media< MSK1/>
+*failed media*
 
 > The average score of students who passed a math test is 6. He passed the test exactly 60 percent of the students, and their average score is 8. What is the average score of the students who did not pass the test? A) 1
 > 	

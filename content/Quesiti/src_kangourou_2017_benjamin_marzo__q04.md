@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value of 1111x3333 given as 1111x1111< MSK1/>
+*Value of 1111x3333 given as 1111x1111*
 
 > I'm telling you that 1111 is equal to 1234321. So how much is 1111 × 3333? A) 3692963 B) 3698963 C) 3456543 D) 3579753 E) 3702963
 

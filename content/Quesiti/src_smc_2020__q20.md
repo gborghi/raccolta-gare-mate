@@ -53,7 +53,7 @@ tags:
 
 *Ricerca 5^(x+y) dato due equazioni esponenziali in x e y*
 
-> I numeri reali $x$ e $y$ soddisfano le equazioni $4^y = \dfrac{1}{8(\sqrt{2})^{x+2}}$ e $9^x \times 3^y = 3\sqrt{3}$. Qual è il valore di < MSK4/>?
+> I numeri reali $x$ e $y$ soddisfano le equazioni $4^y = \dfrac{1}{8(\sqrt{2})^{x+2}}$ e $9^x \times 3^y = 3\sqrt{3}$. Qual è il valore di $5^{x+y}$?
 >
 > - **(A)** $5\sqrt{5}$
 > - **(B)** $5$

@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minutes to fill the first container of amoeba< MSK1/>
+*Minutes to fill the first container of amoeba*
 
 > In this diagram, each square contains an integer different from all the others, but in four squares the number is invisible. The arrows between two squares are directed from the square containing the largest number to the square containing the smallest number. What's the sum of the invisible numbers?
 >

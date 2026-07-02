@@ -61,7 +61,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Most white grains parched before the fifth gray< MSK1/>
+*Most white grains parched before the fifth gray*
 
 ![[src_kangourou_2014_cadet__prob10.png]]
 

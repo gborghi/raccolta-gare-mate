@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Imballare quattro tipi di blocchi di L-tetracube in una scatola 2x2x4< MSK1/>
+*Imballare quattro tipi di blocchi di L-tetracube in una scatola 2x2x4*
 
 > Come mostrato nella figura di seguito, ci sono tipi di blocchi $4$, ognuno formato da cubetti unitari $4$ di lunghezza di bordo $1$. Quanti modi ci sono per inserire $4$ tali blocchi in una scatola rettangolare $2\times 2\times 4$ in modo che nulla salga fuori? Blocchi dello stesso tipo possono essere utilizzati più volte e blocchi possono essere inseriti dopo la rotazione. I posizionamenti che coincidono sotto una rotazione dell'intera scatola sono contati come distinti.
 

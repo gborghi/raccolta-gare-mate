@@ -50,9 +50,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo acuto, circoncentro O, piede D da A; angolo AOD=90, OD=4sqrt7, AP=11; trovare EF< MSK1/>
+*Triangolo acuto, circoncentro O, piede D da A; angolo AOD=90, OD=4sqrt7, AP=11; trovare EF*
 
-> C'è un triangolo acuto $ABC$ con il circoncentro $O$. Il $D$ deve essere il piede della perpendicolare da $A$ a lato $BC$. Si ritiene che $\angle AOD = 90^\circ$ e $OD = 4\sqrt{7}$. I piedi $E$ e $F$ devono essere i piedi delle perpendicolari da $D$ ai lati $AB$ e $AC$ rispettivamente. Il segmento $AO$ e il segmento $EF$ si incontrano in un punto $P$ e $AP = 11$. Trova la lunghezza < MSK16/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+> C'è un triangolo acuto $ABC$ con il circoncentro $O$. Il $D$ deve essere il piede della perpendicolare da $A$ a lato $BC$. Si ritiene che $\angle AOD = 90^\circ$ e $OD = 4\sqrt{7}$. I piedi $E$ e $F$ devono essere i piedi delle perpendicolari da $D$ ai lati $AB$ e $AC$ rispettivamente. Il segmento $AO$ e il segmento $EF$ si incontrano in un punto $P$ e $AP = 11$. Trova la lunghezza $EF$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** 2\sqrt{61}
 [[src_jmo35yqa_yosen__Q09]]

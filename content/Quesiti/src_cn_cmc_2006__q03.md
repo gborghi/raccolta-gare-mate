@@ -55,7 +55,7 @@ tags:
 
 *Conte di coppie (a,b) per l'intersezione di gruppi di numeri naturali*
 
-> Supponiamo $A = \{x \mid 5x - a \le 0\}$, $B = \{x \mid 6x - b > 0\}$, $a, b \in \mathbf{N}$ e $A \cap B \cap \mathbf{N} = \{2, 3, 4\}$. Il numero di tali coppie < MSK4/> è (\ \).
+> Supponiamo $A = \{x \mid 5x - a \le 0\}$, $B = \{x \mid 6x - b > 0\}$, $a, b \in \mathbf{N}$ e $A \cap B \cap \mathbf{N} = \{2, 3, 4\}$. Il numero di tali coppie $(a, b)$ è (\ \).
 > 
 > (A) 20\quad (B) 25\quad (C) 30\quad (D) 42
 

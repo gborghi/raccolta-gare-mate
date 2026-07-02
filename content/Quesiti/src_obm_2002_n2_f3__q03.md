@@ -59,7 +59,7 @@ tags:
 
 *Gioco di matchstick su una tavola m x n; prima di completare una vittoria quadrata unità; determinare il giocatore con una strategia vincente*
 
-> Vi viene fornita una lavagna a scacchi < MSK0/> e bastoni di fiammifero della dimensione dei lati delle celle. Due giocatori giocano alternativamente e, ad ogni mossa, uno dei giocatori mette un fiammifero su un lato di una cella della tavola, essendo vietato sovrapporre i fiammiferi.
+> Vi viene fornita una lavagna a scacchi $m \times n$ e bastoni di fiammifero della dimensione dei lati delle celle. Due giocatori giocano alternativamente e, ad ogni mossa, uno dei giocatori mette un fiammifero su un lato di una cella della tavola, essendo vietato sovrapporre i fiammiferi.
 > 
 > Il giocatore che per primo riesce a completare un quadrato $1 \times 1$ di fiammiferi vince. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori ha la strategia vincente, cioè può vincere indipendentemente dal modo in cui il suo avversario gioca?
 

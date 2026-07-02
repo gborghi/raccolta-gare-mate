@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Little whole number not equal, not square, not prime, not mult3< MSK1/>
+*Little whole number not equal, not square, not prime, not mult3*
 
 > (Points 6) What is the smallest positive integer that is not equal, is not a perfect square, is not a prime number and is not a multiple of 3?
 

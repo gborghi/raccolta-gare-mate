@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>p(2024) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2< MSK1/>
+*p(2024) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2*
 
 > Summy greets them by giving them Captain Kronecker's business card. The note has a literal expression. Fredmath notes that the expression is a polynomial and the sum of the coefficients is 2. Vennma points out that the polynomial calculated in the double is NOT the same as the double of the polynomial. The difference is twice the square of the diminished variable of 1. So Dafn notes that p ((2R) = 2p ((R) + 2R2 −1. Summy recalls that in order to meet Captain Kronecker they'll have to find the value of the polynomial calculated in 2024. Which number will allow them to meet the captain?
 

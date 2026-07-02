@@ -53,9 +53,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Reduced m/n fractions with m< MSK1/>n=20!< MSK2/>
+*Reduced fractions m/n with m*n=20!*
 
-> Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and hence m·n = 20!.
+> Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing on the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and hence m·n = 20!.
 
 **Answer:** 0128
 [[src_cesenatico_2006_squadre_semifinale_a__Q05]]

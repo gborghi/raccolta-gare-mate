@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many kang per apple, pear and banana together< MSK1/>
+*How many kang per apple, pear and banana together*
 
 > In Kangland, the currency is the kang. With 5 kang you buy an apple and a pear, with 7 kang an apple and a banana, with 10 kang a pear and a banana. How many kangs does it take to produce an apple, a pear and a banana? A) 8
 > 	

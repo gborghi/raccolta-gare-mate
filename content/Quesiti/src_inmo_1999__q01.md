@@ -46,8 +46,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Triangolo acuto con bisettore angolare e condizione del perimetro del punto medio< MSK1/>
+*Triangolo acuto con bisettore angolare e condizione del perimetro del punto medio*
 
-> I punti $D$, $E$, $F$ sono prelevati sui lati $BC$, $CA$, $AB$ di un triangolo acuto angolato $ABC$ in modo tale che $AD \perp BC$, $AE = BC$ e $CF$ bisecci $\angle C$. Supponiamo che $CF$ soddisfi $AD$ a $M$ e $DE$ a $N$ in modo tale che $FM = 2$, $MN = 1$ e $NC = 3$. Trova il perimetro di < MSK19/>.
+> I punti $D$, $E$, $F$ sono prelevati sui lati $BC$, $CA$, $AB$ di un triangolo acuto angolato $ABC$ in modo tale che $AD \perp BC$, $AE = BC$ e $CF$ bisecci $\angle C$. Supponiamo che $CF$ soddisfi $AD$ a $M$ e $DE$ a $N$ in modo tale che $FM = 2$, $MN = 1$ e $NC = 3$. Trova il perimetro di $\triangle ABC$.
 
 [[src_inmo_1999__Q01]]

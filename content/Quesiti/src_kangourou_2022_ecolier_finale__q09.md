@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Initial liters in the tank (two taps) < MSK1/>
+*Initial liters in the tank (two taps) *
 
 > Ivan entered numbers into a grid $3 \times 3$ with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? (see figure)
 > 

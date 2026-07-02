@@ -53,7 +53,7 @@ tags:
 
 *Which statement about the artist is true*
 
-> Liliana drew an exotic fish by drawing, within a square, a quarter of a circumference whose radius is < MSK0/> cm and two semicirculars which both have a radius of < MSK1/> cm. Which of the following statements is true? 1) The area of Part A is larger than the area of Part B. 2) The area of Part A is less than the area of Part B. 3) Areas A and B are equal. 4) The information given does not allow us to give an answer (comparison between areas A and B).
+> Liliana drew an exotic fish by drawing, within a square, a quarter of a circumference whose radius is $10$ cm and two semicirculars which both have a radius of $5$ cm. Which of the following statements is true? 1) The area of Part A is larger than the area of Part B. 2) The area of Part A is less than the area of Part B. 3) Areas A and B are equal. 4) The information given does not allow us to give an answer (comparison between areas A and B).
 
 ![[src_bocconi_autunno_2014__Q09.png]]
 

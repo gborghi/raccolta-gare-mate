@@ -66,7 +66,7 @@ tags:
 
 > **Problema 2** (parte B)
 > 
-> (a) semplificare l'espressione "MSK0/"
+> (a) semplificare l'espressione "$$1 - \dfrac{1}{1 - \dfrac{1}{1 - \dfrac{1}{x}}}.$$"
 > 
 > b) Una calcolatrice ha due chiavi speciali: la chiave $A$ trasforma il numero $x$ attualmente visualizzato sul display in $\dfrac{1}{x}$; la chiave $B$ trasforma $x$ in $1 - x$.
 > 

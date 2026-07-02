@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Modello nei prodotti di 101 con puniti; somma a cifre per quelli del 2007< MSK1/>
+*Modello nei prodotti di 101 con puniti; somma a cifre per quelli del 2007*
 
 > Osservare le seguenti moltiplicazioni: $$101\times 11=1111$$ $$101\times 111=11211$$ $$101\times 1111=112211$$ $$101\times 11111=1122211$$ $$\ldots$$ Qual è la somma delle cifre del numero ottenuto quando moltiplicano $101$ per il numero $\underbrace{11111\ldots1}_{2007}$ (il numero formato da $2007$)?
 > 

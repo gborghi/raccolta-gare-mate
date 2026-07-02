@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Flea jump sequences to finish at 80 cm after 5 jumps< MSK1/>
+*Flea jump sequences to finish at 80 cm after 5 jumps*
 
 ![[src_archimede_2007_2livello__prob16.png]]
 

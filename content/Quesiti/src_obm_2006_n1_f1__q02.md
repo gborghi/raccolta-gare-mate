@@ -66,7 +66,7 @@ tags:
 
 > Il seguente grafico presenta informazioni sull'impatto causato da 4 tipi di monocultivazione sul suolo. Per ciascun tipo di monocultivazione, il grafico mostra la quantità di acqua (in litri) e di nutrienti (azoto, fosforo e potassio), in chilogrammi, consumata per ettaro per produrre 1 kg di canna da zucchero, o 1 kg di soia, o 1 kg di mais, o 1 kg di legno di eucalipto. A proposito di queste monoculture, quale affermazione è corretta?
 >
-> - **(A)** L'eucalyptus ha bisogno di circa < MSK0/> della massa di sostanze nutritive che la canna da zucchero ha bisogno di sviluppare.
+> - **(A)** L'eucalyptus ha bisogno di circa $1/3$ della massa di sostanze nutritive che la canna da zucchero ha bisogno di sviluppare.
 > - **(B)** L'eucalyptus è il raccolto che più secca e impoverisce il suolo, causando uno squilibrio ambientale.
 > - **(C)** La soia è la coltura che ha bisogno di più nutrienti.
 > - **(D)** Il mais ha bisogno del doppio dell'acqua di soia.

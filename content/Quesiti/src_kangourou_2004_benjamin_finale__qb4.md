@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Late min/max of the tiled Q square< MSK1/>
+*Late min/max of the tiled Q square*
 
 ![[src_kangourou_2004_benjamin_finale__probB4.png]]
 

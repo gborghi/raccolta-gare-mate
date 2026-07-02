@@ -56,9 +56,9 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Contare i sonnellini pomeridiani con limitazioni durante l'osservazione di 15 giorni< MSK1/>
+*Contare i sonnellini pomeridiani con limitazioni durante l'osservazione di 15 giorni*
 
-> Durante un certo numero di giorni, si osservò che ogni giorno in cui pioveva al mattino pioveva anche al pomeriggio, e che ogni giorno in cui pioveva al pomeriggio era stato buono al mattino. Durante il periodo di osservazione, è piovuto < MSK0/> giorni, ci sono state < MSK1/> buone mattine e < MSK2/> buoni pomeriggi.
+> Durante un certo numero di giorni, si osservò che ogni giorno in cui pioveva al mattino pioveva anche al pomeriggio, e che ogni giorno in cui pioveva al pomeriggio era stato buono al mattino. Durante il periodo di osservazione, è piovuto $15$ giorni, ci sono state $8$ buone mattine e $13$ buoni pomeriggi.
 > 
 > Quante sonnelline di pomeriggio ha piovuto? (cioè, quante pomeriggi piovosi c'erano?)
 

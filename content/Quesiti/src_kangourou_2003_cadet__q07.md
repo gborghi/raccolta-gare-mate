@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max n with digit eliminated reducing n times< MSK1/>
+*Max n with digit eliminated reducing n times*
 
 > A natural number n of at least 2 digits is such that, by eliminating the last digit, a number n times smaller is obtained. What's the maximum possible value for n? A) 9 B) 10 C) 11 D) 19 E) 20
 

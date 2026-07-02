@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Solid with a larger total area< MSK1/>
+*Solid with a larger total area*
 
 ![[src_kangourou_2001_benjamin__prob29.png]]
 

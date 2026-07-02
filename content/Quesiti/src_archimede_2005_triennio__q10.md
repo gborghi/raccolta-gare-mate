@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Values of a with 2a^4-4ab+b^2+2=0 < MSK1/>
+*Values of a with 2a^4-4ab+b^2+2=0 *
 
 > a and b are two real numbers such that 2a4 −4ab + b2 + 2 = 0 . How many distinct values can you assume at?
 >

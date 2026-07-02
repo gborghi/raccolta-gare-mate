@@ -64,7 +64,7 @@ tags:
 
 ![[src_kangourou_2019_ecolier_marzo__prob18.png]]
 
-> On a square sheet the figure you see appears: it is a painting of 7 < MSK0/> 7 squares enclosed by a frame of 32 squares. For a painting that occupies 10 < MSK1/> 10 squares, how many squares should the frame consist of? A) 36
+> On a square sheet the figure you see appears: it is a painting of 7 × 7 squares enclosed by a frame of 32 squares. For a painting that occupies 10 × 10 squares, how many squares should the frame consist of? A) 36
 > 	
 > B) 40
 > 	

@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Form taken from the rolling stock< MSK1/>
+*Form taken from the rolling stock*
 
 ![[src_kangourou_2022_ecolier_gara__prob23.png]]
 

@@ -83,7 +83,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Squares in figure 10 of the ladder< MSK1/>
+*Squares in figure 10 of the ladder*
 
 ![[src_kangourou_2000_studenti__prob13.png]]
 

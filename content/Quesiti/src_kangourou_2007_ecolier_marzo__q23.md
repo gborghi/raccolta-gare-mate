@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum cards for larger closed circuit < MSK1/>
+*Minimum cards for larger closed circuit *
 
 > Anna has a large number of square cards like the one next to her. Approaching four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
 

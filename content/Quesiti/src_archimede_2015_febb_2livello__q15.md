@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>winnings with moves -3 or meta< MSK1/>
+*winnings with moves -3 or meta*
 
 > Camilla has a box containing 2015 graffiti. He takes a positive number n and puts them on Federica's bench, challenging her to the next game. Federica has two types of moves: she can remove 3 graffiti from the pile she has on her bench (if the pile contains at least 3 graffiti), or she can remove half of the graffiti present (if the pile contains an equal number). Federica wins if, with a sequence of moves of the types described above, she manages to remove all the graffiti from her desk. (a) For how many of the 2015 possible values of n can Federica win? (b) The girls change the rules of the game and decide to award the victory to Federica in case she manages to leave a single graffiti on the bench. For how many of the 2015 values can Federica win with the new rules?
 

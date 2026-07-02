@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Palindromic hours on a digital clock< MSK1/>
+*Palindromic hours on a digital clock*
 
 > A digital clock indicates hours (with two digits, for 24 hours) and minutes (even these with two digits). How many times between a minute after midnight (00:01) and a minute before midnight the following day (23:59) does the digital clock show the same time both reading from left to right and vice versa (for example, at 15:51)?
 >

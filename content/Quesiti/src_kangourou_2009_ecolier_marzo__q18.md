@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Seconds to exit the viaduct (train) < MSK1/>
+*Seconds to exit the viaduct (train) *
 
 > A 180-meter-long train takes five seconds to pass a person. Shortly thereafter, the train enters a 360-meter viaduct. If the speed of the train remains the same, how many seconds pass from the moment the train enters the viaduct to the moment the last carriage leaves? A) 15 B) 10 C) 20 D)30 E) 25
 

@@ -65,7 +65,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many triangular bricks are needed with 3000 hexagons< MSK1/>
+*How many triangular bricks are needed with 3000 hexagons*
 
 ![[src_kangourou_2024_cadet__prob19.png]]
 

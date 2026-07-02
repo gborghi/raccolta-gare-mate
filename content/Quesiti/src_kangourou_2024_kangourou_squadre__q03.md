@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary of figures of 10^100 minus 2024< MSK1/>
+*Summary of figures of 10^100 minus 2024*
 
 > Sum of the numbers Imagine you've done the 10 × 10 × 10 × ... × 10 where the factor 10 appears 100 times and subtract 2024 from the result you got. What is the sum of the numbers of the result you get?
 

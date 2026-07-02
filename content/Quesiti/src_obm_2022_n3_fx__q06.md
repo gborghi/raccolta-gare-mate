@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>10x10 tabella dipinta in rosso: massimo n cellule in nessun gruppo speciale di 6 cellule< MSK1/>
+*10x10 tabella dipinta in rosso: massimo n cellule in nessun gruppo speciale di 6 cellule*
 
-> Alcune celle di una tabella < MSK0/> sono dipinte in rosso. Un insieme di sei celle è chiamato **special** se le sei celle sono l'intersezione di tre righe e due colonne, o due righe e tre colonne, e tutte e sei sono dipinte di rosso. Trova il valore più grande di $n$ per il quale è possibile dipingere le celle $n$ della tabella rossa in modo che non venga visualizzato alcun insieme speciale.
+> Alcune celle di una tabella $10 \times 10$ sono dipinte in rosso. Un insieme di sei celle è chiamato **special** se le sei celle sono l'intersezione di tre righe e due colonne, o due righe e tre colonne, e tutte e sei sono dipinte di rosso. Trova il valore più grande di $n$ per il quale è possibile dipingere le celle $n$ della tabella rossa in modo che non venga visualizzato alcun insieme speciale.
 
 [[src_obm_2022_n3_fx__Q06]]

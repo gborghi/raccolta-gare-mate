@@ -52,6 +52,6 @@ tags:
 
 *Find all angles CAB in triangle with angle bisectors and incenter*
 
-> Let $ABC$ be a triangle with $AB = AC$. The angle bisectors of $\angle CAB$ and $\angle ABC$ meet the sides $BC$ and $CA$ at $D$ and $E$, respectively. Let $K$ be the incenter of triangle $ADC$. Suppose that $\angle BEK = 45^\circ$. Find all possible values of < MSK11/>.
+> Let $ABC$ be a triangle with $AB = AC$. The angle bisectors of $\angle CAB$ and $\angle ABC$ meet the sides $BC$ and $CA$ at $D$ and $E$, respectively. Let $K$ be the incenter of triangle $ADC$. Suppose that $\angle BEK = 45^\circ$. Find all possible values of $\angle CAB$.
 
 [[src_imho_2009__Q04]]

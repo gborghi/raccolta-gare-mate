@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>side of the largest triangle < MSK1/>
+*side of the largest triangle *
 
 ![[src_kangourou_2016_finale_cadet__probC1.png]]
 

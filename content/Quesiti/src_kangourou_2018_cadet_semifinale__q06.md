@@ -87,7 +87,7 @@ tags:
 \end{document}
 ```
 
-> (Points 4) In the figure you see a rectangle 6 < MSK0/> 12 and a circle. The centre is the same for both figures and the short sides of the rectangle are equal to the circle. What is the area of the region shared by both, which is shaded in the figure? A) 24π - 3√3 B) 24π + 18√3
+> (Points 4) In the figure you see a rectangle 6 × 12 and a circle. The centre is the same for both figures and the short sides of the rectangle are equal to the circle. What is the area of the region shared by both, which is shaded in the figure? A) 24π - 3√3 B) 24π + 18√3
 > 	
 > C) 12π + 18√3 D) 18π - 8√3 E) 18π + 12√3
 

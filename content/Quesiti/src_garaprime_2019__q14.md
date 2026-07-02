@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Pairs (a,b) of 60060 dividers with MCD=6< MSK1/>
+*Pairs (a,b) of 60060 dividers with MCD=6*
 
 > How many ways can I choose the pair of integers (a, b), with a < b, so that a and b are both divisors of 60060, but what MCD(a, b) = 6? A 121 B 128 C 364 D 60 E 32 F 81
 

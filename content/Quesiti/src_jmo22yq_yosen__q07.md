@@ -55,7 +55,7 @@ tags:
 
 *Triangolo ABC con centro circonciso O; punto medio di DE è O; trovare CE*
 
-> $O$ sia il circoncentro del triangolo $ABC$. Il punto $D$ deve essere un punto sul segmento $AB$ e il punto $E$ un punto sul segmento $AC$ in modo tale che il punto medio del segmento $DE$ sia $O$. Dato < MSK8/>, < MSK9/>, < MSK10/>, si trova < MSK11/>.
+> $O$ sia il circoncentro del triangolo $ABC$. Il punto $D$ deve essere un punto sul segmento $AB$ e il punto $E$ un punto sul segmento $AC$ in modo tale che il punto medio del segmento $DE$ sia $O$. Dato $AD = 8$, $BD = 3$, $AO = 7$, si trova $CE$.
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 

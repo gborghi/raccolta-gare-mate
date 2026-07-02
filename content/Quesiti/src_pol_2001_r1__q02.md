@@ -52,6 +52,6 @@ tags:
 
 *L'intersezione di Cevian e un parallelo sui lati di un triangolo danno un rapporto uguale.*
 
-> I punti $D$ e $E$ si trovano rispettivamente sui lati $BC$ e $AC$ del triangolo $ABC$. Le linee $AD$ e $BE$ si incontrano a $P$. I punti $K$ e $L$ sono presi rispettivamente su $BC$ e $AC$ in modo che $CLPK$ sia un parallelo. Prove che < MSK13/>.
+> I punti $D$ e $E$ si trovano rispettivamente sui lati $BC$ e $AC$ del triangolo $ABC$. Le linee $AD$ e $BE$ si incontrano a $P$. I punti $K$ e $L$ sono presi rispettivamente su $BC$ e $AC$ in modo che $CLPK$ sia un parallelo. Prove che $\frac{AE}{EL} = \frac{BD}{DK}$.
 
 [[src_pol_2001_r1__Q02]]

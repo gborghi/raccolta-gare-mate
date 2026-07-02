@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Summary number and denomination of the telescopic product< MSK1/>
+*Summary number and denomination of the telescopic product*
 
 > Adding the numerator and denominator, when these are reduced to the minimum, to the result of the following expression
 >

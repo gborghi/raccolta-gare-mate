@@ -47,7 +47,7 @@ tags:
 
 *Last 4 digits of the fivefold account every 20 years*
 
-> < MSK0/>Generous banks< MSK1/> (25 points)
+> **Generous banks** (25 points)
 > 
 > The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after 20 years, the amount of a current account is multiplied by five times. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last four digits of the statement that Ocnarf's heirs will be able to read in 40020 years?
 

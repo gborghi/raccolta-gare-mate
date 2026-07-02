@@ -56,6 +56,6 @@ tags:
 
 *Contare matrici M_i con A^4 = M_i tra tre matrici date*
 
-> In questo caso, si deve indicare il valore di < MSK0/>, < MSK1/>, < MSK2/>. Per ciascuna delle matrici $M_i$ ($i = 1, 2, 3$), determinare quante matrici $A$ esistono in modo tale che $A^4 = M_i$.
+> In questo caso, si deve indicare il valore di $M_1 = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}$, $M_2 = \begin{pmatrix} 2 & 1 \\ 0 & 2 \end{pmatrix}$, $M_3 = \begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$. Per ciascuna delle matrici $M_i$ ($i = 1, 2, 3$), determinare quante matrici $A$ esistono in modo tale che $A^4 = M_i$.
 
 [[src_obm_2012_nu_f1__Q05]]

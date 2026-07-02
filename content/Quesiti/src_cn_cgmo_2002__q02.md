@@ -55,7 +55,7 @@ tags:
 
 *Programmazione del campo estivo: accordi di servizio con condizione di unicità*
 
-> Le ragazze parteciparono a un campo estivo. C'erano tre ragazze che dovevano essere al servizio ogni giorno. Quando il campo estivo è terminato, è stato scoperto che due delle ragazze studenti < MSK2/> avevano solo una volta di servizio nello stesso giorno.
+> Le ragazze parteciparono a un campo estivo. C'erano tre ragazze che dovevano essere al servizio ogni giorno. Quando il campo estivo è terminato, è stato scoperto che due delle ragazze studenti $3n$ avevano solo una volta di servizio nello stesso giorno.
 > 
 > (1) Quando $n = 3$, esiste un accordo che soddisfi il requisito di cui sopra? Prova la tua conclusione.
 > 

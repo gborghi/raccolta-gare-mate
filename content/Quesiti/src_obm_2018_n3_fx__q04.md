@@ -62,12 +62,12 @@ tags:
 
 *Tangenza in cerchio in XYZ; quindi triangoli congruenti e quadri ciclici per altitudini/incentri*
 
-> a) Nel triangolo $XYZ$, l'incircolo è tangente ai lati $XY$ e $XZ$ ai punti $T$ e $W$, rispettivamente. Provare che < MSK0/>
+> a) Nel triangolo $XYZ$, l'incircolo è tangente ai lati $XY$ e $XZ$ ai punti $T$ e $W$, rispettivamente. Provare che $$XT = XW = \frac{XY + XZ - YZ}{2}.$$
 > 
 > $ABC$ sia un triangolo e $D$ il piede dell'altitudine da $A$. I centri di incendio dei triangoli $ABD$ e $ACD$ siano rispettivamente $I$ e $J$. I circoli di $ABD$ e $ACD$ sono tangenti a $AD$ rispettivamente nei punti $M$ e $N$. Il $P$ deve essere il punto di tangenza dell'incircolo di $ABC$ con lato $AB$. Il cerchio con centro $A$ e raggio $AP$ interseca l'altitudine $AD$ a $K$.
 > 
 > b) Indicare che i triangoli $IMK$ e $KNJ$ sono congruenti.
 > 
-> c) Indicare che il quadrilaterale < MSK0/> è ciclico.
+> c) Indicare che il quadrilaterale $IDJK$ è ciclico.
 
 [[src_obm_2018_n3_fx__Q04]]

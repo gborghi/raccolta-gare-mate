@@ -52,6 +52,6 @@ tags:
 
 *ABCD quadrilaterale ciclico; le distanze x,y,z da A alle linee BD,BC,CD soddisfano BD/x=BC/y+CD/z.*
 
-> $ABCD$ è un quadrilaterale ciclico; $x$, $y$, $z$ sono le distanze di $A$ dalle linee $BD$, $BC$ e $CD$ rispettivamente. Provare che < MSK0/>
+> $ABCD$ è un quadrilaterale ciclico; $x$, $y$, $z$ sono le distanze di $A$ dalle linee $BD$, $BC$ e $CD$ rispettivamente. Provare che $$\frac{BD}{x} = \frac{BC}{y} + \frac{CD}{z}.$$
 
 [[src_rmo_1992__Q05]]

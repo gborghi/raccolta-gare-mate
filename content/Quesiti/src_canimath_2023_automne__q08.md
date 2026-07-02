@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>La media di cinque gradi è 16, tre conosciuti sono 13,14,17; trovare la somma dei due gradi dimenticati< MSK1/>
+*La media di cinque gradi è 16, tre conosciuti sono 13,14,17; trovare la somma dei due gradi dimenticati*
 
 > Maena ha ricevuto cinque voti in questo periodo, ma ricorda solo le prime tre, che sono $13$, $14$ e $17$. Lei sa che la media (assumendo che le cinque classi abbiano lo stesso peso) delle sue cinque classi è uguale a $16$. Qual è la somma dei due gradi che Maena non ricorda?
 > 

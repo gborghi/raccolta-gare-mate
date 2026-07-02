@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> sum of a< MSK1/>
+* sum of a*
 
 > (4 points) What is the sum of the possible values of the parameter a corresponding to which the two equations x2 + ax + 2022 = 0 and x2 + 2022x + a = 0 have at least one real solution in common? A) – 4045 B) – 1 C) 0
 >  

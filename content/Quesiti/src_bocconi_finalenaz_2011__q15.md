@@ -53,7 +53,7 @@ tags:
 
 *Distance BC in the triangle with equal medians*
 
-> In the $ABC$ triangle, the medians traced by $B$ and $C$ are equal, respectively. It also applies $AB^2 + AC^2 = 500$. Calculate the distance < MSK4/> in cm.
+> In the $ABC$ triangle, the medians traced by $B$ and $C$ are equal, respectively. It also applies $AB^2 + AC^2 = 500$. Calculate the distance $BC$ in cm.
 
 **Answer:** La distanza $BC$ è 10 cm
 [[src_bocconi_finalenaz_2011__Q15]]

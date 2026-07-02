@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Blue glass surface (circular glass) < MSK1/>
+*Blue glass surface (circular glass) *
 
 ![[src_kangourou_2006_student_marzo__prob16.png]]
 

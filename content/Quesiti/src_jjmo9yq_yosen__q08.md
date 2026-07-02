@@ -54,7 +54,7 @@ tags:
 
 *Area del triangolo ABQ: due triangoli a destra con triangoli di vertici collineari*
 
-> Il triangolo $ABC$ e il triangolo $PQR$ sono entrambi triangoli a destra con $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. I tre punti $B$, $Q$, $R$ sono collineari e i tre punti $A$, $P$, $C$ sono collineari. Trova l'area del triangolo < MSK11/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il triangolo $ABC$ e il triangolo $PQR$ sono entrambi triangoli a destra con $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. I tre punti $B$, $Q$, $R$ sono collineari e i tre punti $A$, $P$, $C$ sono collineari. Trova l'area del triangolo $ABQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jjmo9yq_yosen__Q08.png]]
 

@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Product pqr with p+1/(q+1/r) = 25/19< MSK1/>
+*Product pqr with p+1/(q+1/r) = 25/19*
 
 > Three positive integers p, q, and r are such that p + = . How much is the product worth ? A) 6
 > 	

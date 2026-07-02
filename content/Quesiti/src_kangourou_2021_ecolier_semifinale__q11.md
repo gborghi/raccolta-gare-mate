@@ -44,7 +44,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of one anguria in hectolitres (3 kg less than three anguries) < MSK1/>
+*Weight of one anguria in hectolitres (3 kg less than three anguries) *
 
 > (4 points) One anguria weighs 3 kg less than three anguries. All anguries have the same weight. Which is it, in eights?
 

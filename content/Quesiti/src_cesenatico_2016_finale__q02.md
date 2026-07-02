@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Max sum of the areas of uncorrelated whole rectangular triangles< MSK1/>
+*Max sum of the areas of uncorrelated whole rectangular triangles*
 
 > To celebrate the victory over the Merchant's Foundation, there's a big party on Naboole. The banquet tables are in the shape of rectangular triangles with sides of full length. In addition, each table has at least one square whose length is a prime number less than 20. Queen Atiyala insisted that there should be no two tables with congruent shapes (on Naboole putting two tables equal is like putting none). What is the sum of the areas of the tables at the banquet? Two triangles are considered congruent if they can overlap with each other through rotations, translations and symmetries.
 

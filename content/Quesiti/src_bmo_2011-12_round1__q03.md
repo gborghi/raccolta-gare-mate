@@ -50,6 +50,6 @@ tags:
 
 *L'intersezione di due cerchi attraverso la tangente P a S è fissa*
 
-> Considera un cerchio < MSK0/>. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Indicare che l'intersezione (diversi da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
+> Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Indicare che l'intersezione (diversi da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
 
 [[src_bmo_2011-12_round1__Q03]]

@@ -63,7 +63,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Remaining chocolate squares< MSK1/>
+*Remaining chocolate squares*
 
 ![[src_kangourou_2005_ecolier__prob7.png]]
 

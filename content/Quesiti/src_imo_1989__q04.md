@@ -59,6 +59,6 @@ tags:
 
 Convex quadrilateral distance inequality with interior point P*
 
-> Let ABCD be a convex quadrilateral such that the sides AB, AD, BC satisfy AB = AD + BC. There exists a point P inside the quadrilateral at a distance h from the line CD such that AP = h + AD and BP = h + BC. Show that: 1 < MSK0/> h < MSK1/> 1 < MSK2/> AD + 1 < MSK3/> BC .
+> Let ABCD be a convex quadrilateral such that the sides AB, AD, BC satisfy AB = AD + BC. There exists a point P inside the quadrilateral at a distance h from the line CD such that AP = h + AD and BP = h + BC. Show that: 1 √ h ≥ 1 √ AD + 1 √ BC .
 
 [[src_imo_1989__Q04]]

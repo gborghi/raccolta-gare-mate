@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>maximum known term< MSK1/>
+*maximum known term*
 
 > One of the most important problems of Imese archaeology is the deciphering of the numbers of the Qwghlm civilization, whose writing is quite well known. It is assumed that the Qwghlmians used a $8$ base system, having $8$ tentacles. A brilliant archaeologist just found a page in an old math book that said:
 > 

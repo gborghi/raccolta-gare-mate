@@ -59,7 +59,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Ricerca il numero del viso mancante su una rete di icosaedro< MSK1/>
+*Ricerca il numero del viso mancante su una rete di icosaedro*
 
 > La figura seguente è una rete (piano) di un icosaedro (un solido la cui faccia è triangolare equilaterale). Le facce sono numerate da $1$ a $5$ in modo tale che intorno a ogni vertice del solido appaiano tutti i numeri $1$ a $5$. Qual è il numero sul volto contrassegnato con ``?'?
 > 

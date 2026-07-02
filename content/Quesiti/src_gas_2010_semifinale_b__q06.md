@@ -50,7 +50,7 @@ tags:
 
 *Counting of odd lines in the Triangle of Tartaglia (1600-1726) *
 
-> 6. The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is dedicated to a year from 1600 to 1726 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a single MSK2/>-rate was sunk, in 1601 (1),
+> 6. The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is dedicated to a year from 1600 to 1726 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a singleπ-rate was sunk, in 1601 (1),
 
 **Answer:** 2059
 [[src_gas_2010_semifinale_b__Q06]]

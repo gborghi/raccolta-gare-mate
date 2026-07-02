@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum maid trips with unfavourable elevator< MSK1/>
+*Minimum maid trips with unfavourable elevator*
 
 > A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green plane is sure to be taken to the plane they want. The person entering the elevator in a red plane is taken to a plane of the same colour as the one he selected, but not necessarily in the selected plane; in any case, the elevator changes plane. From whatever floor you call, the elevator will arrive as soon as you're free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow you to reach your destination?
 

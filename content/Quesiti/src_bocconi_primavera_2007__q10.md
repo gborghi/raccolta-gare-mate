@@ -49,9 +49,9 @@ tags:
 
 *Weight of whale with elephants and hippos*
 
-> Your balance is balanced simply (!) by putting elephants and a small hippopotamus on one side, and a whale on the other. If you're thin ($50$ Kg), you can climb a plate of  over an elephant, while on the other side you'll be $12$ little hippos. On the other hand, if you are a little overweight ($200$ Kg), you can always climb one of the scales with $11$ small hippos while, on the other, an elephant ensures balance.
+> Your balance is balanced simply (!) by putting elephants and a small hippopotamus on one side, and a whale on the other. If you're thin ($50$ Kg), you can climb a plate of  over an elephant, while on the other side you'll be $12$ little hippos. On the other hand, if you're a little overweight ($200$ Kg), you can always climb one of the scales with $11$ small hippopotamuses while, on the other plate, an elephant ensures balance.
 > 
-> < MSK0/>How many tonnes does the whale weigh? < MSK1/>
+> **How many tonnes does the whale weigh? **
 
 **Answer:** 15 tonnellate
 [[src_bocconi_primavera_2007__Q10]]

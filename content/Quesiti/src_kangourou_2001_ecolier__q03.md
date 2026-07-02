@@ -49,7 +49,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of chocolate heart< MSK1/>
+*Weight of chocolate heart*
 
 ![[src_kangourou_2001_ecolier__prob3.png]]
 

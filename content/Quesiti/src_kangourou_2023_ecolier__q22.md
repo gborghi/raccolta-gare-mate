@@ -56,11 +56,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> order to obtain the result< MSK1/>
+* order to obtain the result*
 
 ![[src_kangourou_2023_ecolier__prob22.png]]
 
-> Elsa has two cars. In each case, you can enter a square sheet of paper: from the machine R, the rotating sheet < MSK0/> comes out clockwise, as shown in the first figure; instead, the machine S prints this image on the sheet: (a) RRS B) RRS C) RRS D) RRS E) RRS
+> Elsa has two cars. In each case, you can enter a square sheet of paper: from the machine R, the rotating sheet 90° comes out clockwise, as shown in the first figure; instead, the machine S prints this image on the sheet: (a) RRS B) RRS C) RRS D) RRS E) RRS
 
 **Answer:** B
 [[src_kangourou_2023_ecolier__Q22]]

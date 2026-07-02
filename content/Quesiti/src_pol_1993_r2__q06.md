@@ -52,6 +52,6 @@ tags:
 
 *Continuo f con f(1000) =999 e f(x) f(f(x)) =1 per tutti gli x reali; determinare f(500).*
 
-> Una funzione continua $f:\mathbb{R} \to \mathbb{R}$ soddisfa le condizioni $f(1000)=999$ e $f(x)f(f(x))=1$ per tutte le $x$ reali. Determinare < MSK4/>.
+> Una funzione continua $f:\mathbb{R} \to \mathbb{R}$ soddisfa le condizioni $f(1000)=999$ e $f(x)f(f(x))=1$ per tutte le $x$ reali. Determinare $f(500)$.
 
 [[src_pol_1993_r2__Q06]]

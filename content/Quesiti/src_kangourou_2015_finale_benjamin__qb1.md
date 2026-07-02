@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Unadjusted data with opposite sum conditions< MSK1/>
+*Unadjusted data with opposite sum conditions*
 
 > In a regular dice, the sum of the points on two opposite sides is always $7$. Amedeo says that he has constructed an irregular dice for which all three of the following facts occur: - there are faces with an odd number of points; - the sum of the points on two opposite faces is $7$ if an odd number of points appears on one of the two faces; - the sum of the points on two opposite faces is $8$ if an equal number of points appears on one of the two faces.
 > 

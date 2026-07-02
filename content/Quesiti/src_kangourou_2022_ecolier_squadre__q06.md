@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>How many equivalent verniciable squares< MSK1/>
+*How many equivalent verniciable squares*
 
 ![[src_kangourou_2022_ecolier_squadre__prob6.png]]
 

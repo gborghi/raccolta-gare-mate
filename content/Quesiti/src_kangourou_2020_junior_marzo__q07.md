@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Triangles before cutting 3 squares diagonally< MSK1/>
+*Triangles before cutting 3 squares diagonally*
 
 > Mary had 10 pieces of paper: some were squares, the remaining triangles. He cut three squares, each along one of the diagonals. Now if you count the vertices of the pieces of paper you find, you get 42. How many triangles did you have before you cut the three squares? A) 8
 >  	

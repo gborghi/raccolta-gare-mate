@@ -63,7 +63,7 @@ tags:
 > 
 > **1.** In questa domanda il numero intero $n$ è fisso.
 > 
-> Indicare che < MSK0/> è in aumento e che < MSK1/>.
+> Indicare che $f_n$ è in aumento e che $\displaystyle\lim_{x \to +\infty} f_n(x) = 0$.
 > 
 > **2.** Determina il limite della sequenza con termine generale $f_n(n)$.
 

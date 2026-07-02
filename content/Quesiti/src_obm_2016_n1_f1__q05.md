@@ -59,7 +59,7 @@ tags:
 
 *Giochi/ragazze che leggono riviste settimanali; a che data diventano uguali.*
 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: con < MSK0/> il numero di settimane, < MSK1/> settimane. Contando $17\times 7 = 119$ giorni dall'inizio della seconda settimana di febbraio, e dal momento che $31+30+31$ (marzo, aprile, maggio) più i giorni di febbraio rimanenti totali $21+31+30+31 = 113$ giorni, si conclude che il ragazzo equivale alla ragazza nel numero di riviste solo alla fine della prima settimana di giugno.]
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: con $x$ il numero di settimane, $29+3x = 12+4x \Leftrightarrow x = 17$ settimane. Contando $17\times 7 = 119$ giorni dall'inizio della seconda settimana di febbraio, e dal momento che $31+30+31$ (marzo, aprile, maggio) più i giorni di febbraio rimanenti totali $21+31+30+31 = 113$ giorni, si conclude che il ragazzo equivale alla ragazza nel numero di riviste solo alla fine della prima settimana di giugno.]
 
 **Risposta:** D
 [[src_obm_2016_n1_f1__Q05]]

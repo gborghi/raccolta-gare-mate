@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Which is not a 2004 divider< MSK1/>
+*Which is not a 2004 divider*
 
 > Which of the following is not a 2004 divider? A) 3 B) 4 C) 6 D) 8 E) 12
 

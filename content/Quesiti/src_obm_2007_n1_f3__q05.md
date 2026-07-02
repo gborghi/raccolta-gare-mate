@@ -53,8 +53,8 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Summa digitali di 9 volte il prodotto di cinque e due numeri di repunito del 2007< MSK1/>
+*Summa digitali di 9 volte il prodotto di cinque e due numeri di repunito del 2007*
 
-> Let < MSK0/>. Calcolare la somma delle cifre di $9 \times A$. Non dimenticate di giustificare la vostra risposta.
+> Let $A = \underbrace{555\!\cdots\!5}_{2007 \text{ fives}} \times \underbrace{222\!\cdots\!2}_{2007 \text{ twos}}$. Calcolare la somma delle cifre di $9 \times A$. Non dimenticate di giustificare la vostra risposta.
 
 [[src_obm_2007_n1_f3__Q05]]

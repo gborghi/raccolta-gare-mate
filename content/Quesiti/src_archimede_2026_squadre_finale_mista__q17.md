@@ -80,11 +80,11 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK1/>Shadow area conical trunk with sun at < MSK0/>< MSK2/>
+*Shadow area conical trunk with sun at 30°*
 
 ![[src_archimede_2026_squadre_finale_mista__prob17.png]]
 
-> Lorenzo Cortesi Stellato is back on his feet and, along with Hilcup, is fighting Dragon Burnsvist. It's over! Hilcup screams at the enemy. Really?Ripes Dragon Burnsvist, just as the Big Wild Beast traps Hilcup and Stellato in a cone-shaped ice block of 6 √ 2 m in height, whose lower and upper base rays measure respectively 7 √ 3 m and √ 3 m. At the moment of being trapped, Hilcup and Stellato are in flight, so the top base of the cone trunk is at a height of 180 dm from the ground. In addition, the axis of the cone trunk is perpendicular to the ground, which is perfectly horizontal. Knowing that the sun's rays, considered to be parallel to each other, form an angle of < MSK0/> with the ground, how many m2 does the area of the shadow of the ice block projected onto the ground measure? Field 2 √ 3 14 √ 3 2 √ 3 14 √ 3 h = 6 √ 2 30° Team competition 2026  National final  Problem tests  9/12
+> Lorenzo Cortesi Stellato is back on his feet and, along with Hilcup, is fighting Dragon Burnsvist. It's over! Hilcup screams at the enemy. Really?Ripes Dragon Burnsvist, just as the Big Wild Beast traps Hilcup and Stellato in a cone-shaped ice block of 6 √ 2 m high, whose lower and upper base rays measure respectively 7 √ 3 m and √ 3 m. At the moment of being trapped, Hilcup and Stellato are in flight, so the top base of the cone trunk is at a height of 180 dm from the ground. In addition, the axis of the cone trunk is perpendicular to the ground, which is perfectly horizontal. Knowing that the sun's rays, considered to be parallel to each other, form an angle of 30° with the ground, how many m2 does the area of the shadow of the ice block projected onto the ground measure? Field 2 √ 3 14 √ 3 2 √ 3 14 √ 3 h = 6 √ 2 30° Team competition 2026  National final  Problem tests  9/12
 
 **Answer:** 0492
 [[src_archimede_2026_squadre_finale_mista__Q17]]

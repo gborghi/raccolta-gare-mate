@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Percentuale di famiglie con cani e gatti dati di sovrapposizione< MSK1/>
+*Percentuale di famiglie con cani e gatti dati di sovrapposizione*
 
 > In Cajamirins, il 20% delle famiglie ha gatti (anche se meno hanno anche cani), e il 25% delle famiglie che hanno gatti hanno anche cani. Si sa anche che il 20% delle famiglie non ha un cane. Quante famiglie hanno entrambe le specie come animali domestici?
 > 

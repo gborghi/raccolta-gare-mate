@@ -52,7 +52,7 @@ tags:
 
 > Consider a rotating cone with a tangent inscribed sphere at the base of the cone. A cylinder is surrounded by this sphere so that one of its bases lies at the base of the cone. Both $V_1$ the cone volume and $V_2$ the cylinder volume.
 > 
-> (a) Demonstrate that < MSK0/>.
+> (a) Demonstrate that $V_1 \neq V_2$.
 > 
 > (b) Find the smallest number $k$ for which $V_1 = k V_2$; in this case, construct the angle below a diameter of the base of the cone to the top of the cone.
 

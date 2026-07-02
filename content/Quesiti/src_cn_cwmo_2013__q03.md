@@ -52,7 +52,7 @@ tags:
 
 *Line tangenti a cerchio; dimostrare CD = CE tramite bisettori angolari*
 
-> Come mostrato nella figura. 6.1, $PA$, $PB$ sono tangenti al cerchio con il centro $O$ a $A$ e $B$, il punto $C$ (diverso da $A$, $B$) è su un arco minore $AB$. La linea $l$ attraverso il punto $C$ e perpendicolare a $PC$ incontra rispettivamente i bisettori angolari di $\angle AOC$ e $\angle BOC$ nei punti $D$ e $E$. Prova che < MSK16/>. (Possibile da He Yijie)
+> Come mostrato nella figura. 6.1, $PA$, $PB$ sono tangenti al cerchio con il centro $O$ a $A$ e $B$, il punto $C$ (diverso da $A$, $B$) è su un arco minore $AB$. La linea $l$ attraverso il punto $C$ e perpendicolare a $PC$ incontra rispettivamente i bisettori angolari di $\angle AOC$ e $\angle BOC$ nei punti $D$ e $E$. Prova che $CD = CE$. (Possibile da He Yijie)
 
 ![[src_cn_cwmo_b11_w268__Q03.png]]
 

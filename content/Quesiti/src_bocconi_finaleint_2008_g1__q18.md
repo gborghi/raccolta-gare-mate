@@ -60,7 +60,7 @@ tags:
 
 *Gold: maximum amount of gold NOT exactly obtained from combinations of four types of bricks.*
 
-> Picsou owns four types of gold bullion, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$ and $D$ of the same density, the dimensions in centimetres being: $\bullet$ $3$, $4$ and $7$ respectively for $A$; $\bullet$ $3$, $4$ and $11$ for $B$; $\bullet$ $3$, $7$ and $11$ for $C$; $\bullet$ $4$, $7$ and $11$ for $D$. With four < MSK24/> bars, one < MSK25/> bar, four < MSK26/> bars and two < MSK27/> bars, Picsou obtains an exact amount of gold equal to < MSK28/> cm< MSK29/>. What is the maximum amount of gold in cm$^3$ that you cannot get exactly?
+> Picsou owns four types of gold bullion, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$ and $D$ of the same density, the dimensions in centimetres being: $\bullet$ $3$, $4$ and $7$ respectively for $A$; $\bullet$ $3$, $4$ and $11$ for $B$; $\bullet$ $3$, $7$ and $11$ for $C$; $\bullet$ $4$, $7$ and $11$ for $D$. With four $A$ bars, one $B$ bar, four $C$ bars and two $D$ bars, Picsou obtains an exact amount of gold equal to $2008$ cm$^3$. What is the maximum amount of gold in cm$^3$ that you cannot get exactly?
 
 **Answer:** 2017
 [[src_bocconi_finaleint_2008_g1__Q18]]

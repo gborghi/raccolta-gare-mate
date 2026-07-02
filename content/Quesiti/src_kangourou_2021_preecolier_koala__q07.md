@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/> holding their right hand < MSK1/>
+* holding their right hand *
 
 ![[src_kangourou_2021_preecolier_koala__prob7.png]]
 

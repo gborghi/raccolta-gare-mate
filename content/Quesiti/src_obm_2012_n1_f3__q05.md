@@ -64,12 +64,12 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Fuse di amoebas in coppie (rosso+rosso->1 azzurro, rosso+blu->2 rosso, blu+blu->2 rosso); da 19 azzurri e 95 rossi, trovare la dimensione massima della prossima generazione e il numero di amoebas azzurri quando il totale è di 100. < MSK1/>
+*Fuse di amoebas in coppie (rosso+rosso->1 azzurro, rosso+blu->2 rosso, blu+blu->2 rosso); da 19 azzurri e 95 rossi, trovare la dimensione massima della prossima generazione e il numero di amoebas azzurri quando il totale è di 100.*
 
-> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando una ameba rossa si unisce ad una ameba blu, le due si trasformano in due amebe rosse; e quando due amebe blu si uniscono, si trasformano in due amebe rosse. Fernando osserva un tubo di prova che contiene inizialmente < MSK0/> amoebas blu e < MSK1/> amoebas rosse.
+> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando una ameba rossa si unisce ad una ameba blu, le due si trasformano in due amebe rosse; e quando due amebe blu si uniscono, si trasformano in due amebe rosse. Fernando osserva un tubo di prova che contiene inizialmente $19$ amoebas blu e $95$ amoebas rosse.
 > 
 > a) osserva che tutti gli amoeba si uniscono in coppie, dando origine agli amoeba della generazione successiva. Quanti amoeba possono avere questa generazione?
 > 
-> b) A partire dalla situazione iniziale, se in un istante ci sono < MSK0/> amoebas, quante saranno blu?
+> b) A partire dalla situazione iniziale, se in un istante ci sono $100$ amoebas, quante saranno blu?
 
 [[src_obm_2012_n1_f3__Q05]]

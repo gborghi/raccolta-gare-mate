@@ -92,7 +92,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of 5 cap disorders< MSK1/>
+*Probability of 5 cap disorders*
 
 > (Points 18) The wardrobe returns 5 hats to the 5 gentlemen who had deposited them at the entrance. What are the odds that no one gets their hat? Write first the numerator and then the denominator of the fraction reduced to the minimum terms expressing the probability: e.g. If it's 7/12, write 0712. A B P C M N A D C B
 > 

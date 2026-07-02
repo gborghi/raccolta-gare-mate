@@ -55,6 +55,6 @@ tags:
 
 *Per i reali positivi a,b,c,d con A=a^3+b^3+c^3+d^3 e B=bcd+cda+dab+abc, provare (a+b+c+d)^3 <= 4A+24B.*
 
-> Per i numeri reali positivi $a$, $b$, $c$, $d$, indicare $A=a^3+b^3+c^3+d^3$ e $B=bcd+cda+dab+abc$. Provare che < MSK0/>
+> Per i numeri reali positivi $a$, $b$, $c$, $d$, indicare $A=a^3+b^3+c^3+d^3$ e $B=bcd+cda+dab+abc$. Provare che $$(a+b+c+d)^3\le 4A+24B.$$
 
 [[src_pol_2003_r1__Q12]]

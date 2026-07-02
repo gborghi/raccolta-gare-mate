@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Coincidence of sleep-wake cycles, weeks and rent< MSK1/>
+*Coincidence of sleep-wake cycles, weeks and rent*
 
 > A strange coincidence The young Meriandin Escherbach, called Morry, regularly alternates 12 hours of wakefulness and 15 hours of sleep. The village pastry chef throws his celebrated sweets all over the county every Sunday at noon. Always at noon, every 30 days, Morry's landlord comes to claim the rent. Today, Meriandin woke up exactly as the pastry chef squeezed the broomsticks and the landlord knocked on his door. How many days from now will this happen again?
 

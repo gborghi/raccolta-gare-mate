@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>No function on non-negative integers satisfies f(f(n))=n+1987< MSK1/>
+*No function on non-negative integers satisfies f(f(n))=n+1987*
 
 > Prove that there is no function $f$ from the set of non-negative integers into itself such that $f(f(n)) = n + 1987$ for every $n$.
 

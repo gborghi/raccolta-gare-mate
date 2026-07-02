@@ -53,7 +53,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Eight parallel-piped area ratio on a cube< MSK1/>
+*Eight parallel-piped area ratio on a cube*
 
 ![[src_kangourou_2009_cadet_marzo__prob24.png]]
 

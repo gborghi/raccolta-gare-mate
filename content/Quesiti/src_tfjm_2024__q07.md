@@ -101,7 +101,7 @@ tags:
 
 *Cookies divertenti: pasta depositata lungo i segmenti, ogni punto P riempendo un disco di raggio R(P); caratterizzare quali forme piane (disco, rettangolo, triangolo, annulo) sono cookie / r-cookies, la quantità di pasta necessaria, e quali contorni di r-cookies legati.*
 
-> Fabrice ha deciso di produrre biscotti con forme matematiche per gli snack dei < MSK0/>. Ha un sacchetto che gli permette di depositare la pasta dei biscotti nell'aereo seguendo un modello preciso. La pasta depositata in un determinato istante si trova lungo un segmento di linea retta (un punto che viene accettato come limite di un segmento di lunghezza $0$). A ciascun punto $P$ di uno di questi segmenti, il sacchetto di tubazione consente a Fabrice di depositare una quantità più o meno grande $R(P) \ge 0$ di pasta.
+> Fabrice ha deciso di produrre biscotti con forme matematiche per gli snack dei $\mathrm{TFJM}^2$. Ha un sacchetto che gli permette di depositare la pasta dei biscotti nell'aereo seguendo un modello preciso. La pasta depositata in un determinato istante si trova lungo un segmento di linea retta (un punto che viene accettato come limite di un segmento di lunghezza $0$). A ciascun punto $P$ di uno di questi segmenti, il sacchetto di tubazione consente a Fabrice di depositare una quantità più o meno grande $R(P) \ge 0$ di pasta.
 > 
 > Quando viene posta, la pasta si diffonde e riempie il disco di raggio $R(P)$ incentrato su $P$ per ogni punto $P$ in cui Fabrice mette la pasta. La pasta di Fabrice non si respinge da sola. Ad esempio, se il disco del centro $P$ e del raggio $R(P)$ è contenuto nel disco del centro $P'$ e del raggio $R(P')$, la pasta si diffonde in un biscotto di forma solo il disco del centro $P'$ e del raggio $R(P')$. La forma del biscotto dopo la cottura è quindi l'unione dei dischi del centro $P$ e del raggio $R(P)$, dove $P$ va oltre l'insieme dei punti in cui Fabrice mette la pasta.
 > 
@@ -111,13 +111,13 @@ tags:
 > 
 > Fabrice desidera in particolare realizzare le seguenti forme di biscotto: a) un disco di raggio $R$; b) un rettangolo completo con lati di lunghezza $a$ e $b$; c) un triangolo completo con lati di lunghezza $a$, $b$ e $c$; d) un annulo di raggio interno $R_1$ e di raggio esterno $R_2$ (con $R_2 > R_1$), i due cerchi che formano il confine dell'annulo che sono inclusi nel biscotto.
 > 
-> < MSK0/> La forma a) è un biscotto? La stessa domanda per ciascuna delle forme b), c) e d).
+> $\textbf{1.}$ La forma a) è un biscotto? La stessa domanda per ciascuna delle forme b), c) e d).
 > 
 > Il $\textbf{quantity of dough}$ utilizzato per la preparazione di un biscotto è la somma delle lunghezze dei segmenti in cui Fabrice mette la pasta.
 > 
 > Per ciascuna delle forme della domanda precedente che sono biscotti, con quali quantità di pasta può Fabrice farla?
 > 
-> Poiché la precisione della borsa di tubi di Fabrice è limitata, la quantità di pasta che deposita a < MSK0/> non può essere troppo piccola. Per un $r \ge 0$ fisso, si dice che lo strumento di Fabrice ha precisione $r$ quando $R(P) \ge r$ per ogni punto $P$ posizionato da Fabrice. Uno chiama $r$-$\textbf{cookie of the plane}$, più semplicemente $r$-cookie, un cookie che Fabrice può fare con uno strumento di precisione $r$. Le risposte alle seguenti domande dipenderanno quindi da $r$.
+> Poiché la precisione della borsa di tubi di Fabrice è limitata, la quantità di pasta che deposita a $P$ non può essere troppo piccola. Per un $r \ge 0$ fisso, si dice che lo strumento di Fabrice ha precisione $r$ quando $R(P) \ge r$ per ogni punto $P$ posizionato da Fabrice. Uno chiama $r$-$\textbf{cookie of the plane}$, più semplicemente $r$-cookie, un cookie che Fabrice può fare con uno strumento di precisione $r$. Le risposte alle seguenti domande dipenderanno quindi da $r$.
 > 
 > In particolare, i cookie $0$ sono esattamente i cookie e ogni cookie $r$ è un cookie.
 > 

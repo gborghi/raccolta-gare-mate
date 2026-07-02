@@ -52,6 +52,6 @@ tags:
 
 *insieri a 4 cifre le cui parti superiori e inferiori a 2 cifre hanno il prodotto pari al numero di divisori*
 
-> Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Considera il numero intero $p$ formato dalle centinaia e migliaia di cifre di $n$ (le due cifre superiori) e il numero intero $q$ formato dalle decine e dalle cifre di unità di $n$ (le due cifre inferiori), dove sia $p$ che $q$ sono numeri interi a 2 cifre. Il prodotto $p \cdot q$ è uguale al numero di divisori positivi di $n$. Trova tutte le < MSK10/>.
+> Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Considera il numero intero $p$ formato dalle centinaia e migliaia di cifre di $n$ (le due cifre superiori) e il numero intero $q$ formato dalle decine e dalle cifre di unità di $n$ (le due cifre inferiori), dove sia $p$ che $q$ sono numeri interi a 2 cifre. Il prodotto $p \cdot q$ è uguale al numero di divisori positivi di $n$. Trova tutte le $n$.
 
 [[src_jmo17yq_yosen__Q04]]

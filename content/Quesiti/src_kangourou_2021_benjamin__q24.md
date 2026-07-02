@@ -56,7 +56,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weighing fruit in pairs < MSK1/>
+*Weighing fruit in pairs *
 
 > Weighs four pairs of fruits. Apples and oranges weigh as much as pears and fish. Apples and pears weigh less than oranges with fish. Pears and oranges weigh less than apples with fish. Which fruit is heavier? A) The apple.
 > 	

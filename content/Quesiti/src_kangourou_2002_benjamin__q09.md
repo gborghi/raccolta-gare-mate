@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Distinct angles less than 180 degrees < MSK1/>
+*Distinct angles less than 180 degrees *
 
 ![[src_kangourou_2002_benjamin__prob9.png]]
 

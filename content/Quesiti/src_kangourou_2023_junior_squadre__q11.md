@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Full pairs of 10xy-x^2-9y^2=2023 < MSK1/>
+*Full pairs of 10xy-x^2-9y^2=2023 *
 
 > An equality How many pairs (ordered) (x, y) of relative integers is the equality 10xy  x2  9y2 = 2023 satisfied?
 

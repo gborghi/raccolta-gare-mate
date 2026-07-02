@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Final zeroes in the product of the first half of 2002 < MSK1/>
+*Final zeroes in the product of the first half of 2002 *
 
 > An integer is said to be prime if it is greater than or equal to 2 and if it admits as positive integers only 1 and itself (there are infinite prime numbers). With how many zeros does the decimal representation of the product of the first prime numbers of 2002 end?
 >  

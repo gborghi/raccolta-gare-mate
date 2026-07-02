@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Who has sufficient data to determine the acutangol triangle< MSK1/>
+*Who has sufficient data to determine the acutangol triangle*
 
 > The height measurements hA and hB, carried out by vertices A and B respectively, are known from an acute triangle ABC. Furthermore, Claudia knows the measure of the AC side, Luke the measure of the AB side and Raffaella the measure of the internal angle bA, but none of the three communicates the information in his possession to the other two. Which of the three has enough data to uniquely determine the triangle? To all B only Luca and Claudia C only Raffaella and Claudia D only Luca and Raffaella E only Claudia F only Luca
 

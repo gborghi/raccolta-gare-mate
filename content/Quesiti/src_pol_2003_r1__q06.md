@@ -50,6 +50,6 @@ tags:
 
 *A,B,C,D su cerchio o in ordine; M punto medio di arco AB non contenente C,D; N punto medio di arco CD non contenente A,B. Prova (AN^2-BN^2)/AB=(DM^2-CM^2)/CD.*
 
-> I punti $A$, $B$, $C$, $D$ si trovano in questo ordine su un cerchio $o$. Il $M$ deve essere il punto medio dell'arco $AB$ di $o$ non contenente $C$, $D$ e $N$ il punto medio dell'arco $CD$ di $o$ non contenente $A$, $B$. Provare che < MSK0/>
+> I punti $A$, $B$, $C$, $D$ si trovano in questo ordine su un cerchio $o$. Il $M$ deve essere il punto medio dell'arco $AB$ di $o$ non contenente $C$, $D$ e $N$ il punto medio dell'arco $CD$ di $o$ non contenente $A$, $B$. Provare che $$\frac{AN^2-BN^2}{AB}=\frac{DM^2-CM^2}{CD}.$$
 
 [[src_pol_2003_r1__Q06]]

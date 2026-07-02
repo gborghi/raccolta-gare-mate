@@ -49,6 +49,6 @@ tags:
 
 *Circolo attraverso O incrocia un altro circolo; prova di ugualezza angolare*
 
-> Il $\Gamma$ deve essere un cerchio con il centro $O$. Il $A$ deve essere un altro cerchio che attraversa $O$ e che si interseca con $\Gamma$ ai punti $A$ e $B$. Un diametro $CD$ di $\Gamma$ interseca $A$ in un punto $P$ diverso da $O$. Provare che < MSK0/>
+> Il $\Gamma$ deve essere un cerchio con il centro $O$. Il $A$ deve essere un altro cerchio che attraversa $O$ e che si interseca $\Gamma$ ai punti $A$ e $B$. Un diametro $CD$ di $\Gamma$ interseca $A$ in un punto $P$ diverso da $O$. Provare che $$\angle APC = \angle BPD.$$
 
 [[src_rmo_2013_r4__Q01]]

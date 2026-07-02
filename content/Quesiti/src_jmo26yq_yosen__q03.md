@@ -52,7 +52,7 @@ tags:
 
 *Angolo di due linee in un esagono ciclico*
 
-> Il $ABCDEF$ deve essere un esagono inciso in un cerchio. $P$ è l'intersezione della linea $AB$ e della linea $DC$, $Q$ l'intersezione della linea $BC$ e della linea $ED$, $R$ l'intersezione della linea $CD$ e della linea $FE$, $S$ l'intersezione della linea $DE$ e della linea $AF$, e $T$ l'intersezione della linea $FE$ e della linea $CB$. È dato che < MSK16/>, < MSK17/>, < MSK18/> e < MSK19/>. Trova la dimensione dell'angolo formato dall'intersezione della linea $BE$ e della linea $CF$.
+> Il $ABCDEF$ deve essere un esagono inciso in un cerchio. $P$ è l'intersezione della linea $AB$ e della linea $DC$, $Q$ l'intersezione della linea $BC$ e della linea $ED$, $R$ l'intersezione della linea $CD$ e della linea $FE$, $S$ l'intersezione della linea $DE$ e della linea $AF$, e $T$ l'intersezione della linea $FE$ e della linea $CB$. È dato che $\angle BPC = 50^\circ$, $\angle CQD = 45^\circ$, $\angle DRE = 40^\circ$ e $\angle ESF = 35^\circ$. Trova la dimensione dell'angolo formato dall'intersezione della linea $BE$ e della linea $CF$.
 
 **Risposta:** 95^\circ
 [[src_jmo26yq_yosen__Q03]]

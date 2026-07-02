@@ -55,7 +55,7 @@ tags:
 
 *Minimum squares to be coloured per grid 25x25*
 
-> You have a square grid formed by the approximation of 25 < MSK0/> 25 squares of side 1 and you have fun coloring the edge of the possible squares whose sides are contained in the grid highlighted, wherever they are and of whatever size they are. What is the minimum number of squares that you need to color the edge of if you want all the lines of the grid to be completely red?
+> You have a square grid formed by the approximation of 25 × 25 squares of side 1 and you have fun coloring the edge of the possible squares whose sides are contained in the grid highlighted, wherever they are and of whatever size they are. What is the minimum number of squares that you need to color the edge of if you want all the lines of the grid to be completely red?
 
 **Answer:** 48
 [[src_kangourou_2010_squadre_semifinale__Q09]]

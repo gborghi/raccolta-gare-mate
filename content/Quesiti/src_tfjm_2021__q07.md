@@ -91,7 +91,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-*Gioco combinatorio frog/lilia d'acqua su un grafico: Antoine protegge un lilia e Benoit ne affonda uno a turno (infinitamente); Antoine vince se la rana può raggiungere infinitamente molti lilia sopravvissuti; analizzare chi vince su vari stagni*
+*Gioco combinatorio frog/lilia d'acqua su un grafico: Antoine protegge un lilia e Benoit ne affonda uno ogni volta (infinitamente); Antoine vince se la rana può raggiungere infinitamente molti lilia sopravvissuti; analizzare chi vince su vari stagni*
 
 > Viva la rana libera!
 > 
@@ -109,7 +109,7 @@ tags:
 > 
 > Un esempio di gioco è illustrato nella figura 9, dove le lampadine di un stesso colore sono unite da una linea. Su una linea retta completa, Benoit vince questa partita perché, qualunque sia la padella di lilia su cui si colloca la rana, può raggiungere solo un numero finito di padelli di lilia, poiché i padelli di lilia protetti sono tutti isolati.
 > 
-> **(1) ** Determina, in termini di $k$, se Antoine o Benoit hanno una strategia vincente nel lago con le righe $k$ illustrate dalla figura 11. Si può iniziare studiando i casi < MSK2/> e < MSK3/>.
+> **(1) ** Determina, in termini di $k$, se Antoine o Benoit hanno una strategia vincente nel lago con le righe $k$ illustrate dalla figura 11. Si può iniziare studiando i casi $k=1$ e $k=2$.
 > 
 > **(2) ** Determina, per ciascuno degli stagni illustrati nella figura 12, se Antoine o Benoit hanno una strategia vincente.
 > 
@@ -119,7 +119,7 @@ tags:
 > 
 > C'è un stagno tale che Antoine abbia una strategia vincente per la regola della domanda (2) ma Benoit abbia una strategia vincente per la regola della domanda (3)? E l'inverso? Più in generale, confrontate tra di loro le regole delle domande (2), (3), (4a) e (4b): per ogni sottoinsieme di queste quattro regole, esiste un stagno tale che Antoine abbia una strategia vincente per ogni regola del sottoinsieme, ma Benoit abbia una strategia vincente per ogni regola?
 > 
-> Invece di giocare a turno, Antoine gioca ora le mosse MSK0/, poi Benoit gioca le mosse MSK1/, poi Antoine di nuovo le mosse MSK2/, e così via. Rivedere le domande (1) e (2) con questa nuova regola per i diversi valori di $A$ e $B$.
+> Invece di giocare a turno, Antoine gioca ora le mosse$A$, poi Benoit gioca le mosse$B$, poi Antoine di nuovo le mosse$A$, e così via. Rivedere le domande (1) e (2) con questa nuova regola per i diversi valori di $A$ e $B$.
 > 
 > **(7) ** Studiare altri stagni e trovare criteri e risultati generali per determinare la persona che ha la strategia vincente.
 

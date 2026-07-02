@@ -43,7 +43,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-The result of the test shall be the following: < MSK0/> result of 000000 minus 00< MSK1/>
+The result of the test shall be the following: * result of 000000 minus 00*
 
 > 6. Luke, who has not yet learned the ordinary notation of negative numbers, has devised his own way of representing integers before zero; considering the relative integers closest to zero he would write: 0000, 000, 00, 0, 1, 2, 3, ... . Using its notation, what is the result of 000000  00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
 

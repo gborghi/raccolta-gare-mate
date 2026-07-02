@@ -54,9 +54,9 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Sum row plus column < MSK1/> Chess buttons
+*Sum row plus column * Chess buttons
 
-> In a chessboard 8 < MSK0/> 8, the rows and columns are numbered from 1 to 8. On each box Mauro supports tokens according to this rule: look at the number of rows and columns corresponding to the box, add them up and put on the box as many tokens as the result of the sum. How many tokens does it support in all?
+> In a chessboard 8 × 8 the rows and columns are numbered from 1 to 8. On each box Mauro supports tokens according to this rule: look at the number of rows and columns corresponding to the box, add them up and put on the box as many tokens as the result of the sum. How many tokens does it support in all?
 >
 > - **(A)** 482,
 > - **(B)** 576,

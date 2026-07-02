@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Real alpha with floor sum ((k·alpha) multiple of n< MSK1/>
+*Real alpha with floor sum ((k·alpha) multiple of n*
 
 > Determine to real numbers $\alpha$ such that, for every positive integer $n$, the integer $$\lfloor \alpha \rfloor + \lfloor 2\alpha \rfloor + \cdots + \lfloor n\alpha \rfloor$$ is a multiple of $n$.
 > 

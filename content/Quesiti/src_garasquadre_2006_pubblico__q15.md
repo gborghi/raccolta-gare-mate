@@ -51,7 +51,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>probability of the ball touching Rapporteur< MSK1/>
+*probability of the ball touching Rapporteur*
 
 > The Quamditch Final [60] In the Quamditch school final, the teams of Reportaureo and Partimmaginaria meet. To decide the possession of the ball Hardy, the captain of Rapportaureo, and Fracto, the captain of Partimmaginaria, play the following game: they both draw a normal dice. If the number on Hardy's dice is greater than Fracto's, then the ball goes to Rapportaureo. If the numbers are the same, then the ball goes to Partimaginaria. If finally the Fracto number is the largest, then you repeat the game in reverse. Calculate the probability of the ball touching Rapporteur. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
 

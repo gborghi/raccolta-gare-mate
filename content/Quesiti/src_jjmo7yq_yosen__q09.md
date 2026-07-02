@@ -53,6 +53,6 @@ tags:
 
 *Volume di tetraedro O-ABC con determinate distanze e angoli uguali dal punto interno X*
 
-> Nel tetraedro $O$-$ABC$, $X$ deve essere un punto nella faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Trova il volume del tetraedro < MSK9/>- < MSK10/>. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
+> Nel tetraedro $O$-$ABC$, $X$ deve essere un punto nella faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Trova il volume del tetraedro $O$- $ABC$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
 
 [[src_jjmo7yq_yosen__Q09]]

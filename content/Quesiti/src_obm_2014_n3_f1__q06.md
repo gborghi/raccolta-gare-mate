@@ -52,6 +52,6 @@ tags:
 
 La probabilità che ogni urna colorata riceva esattamente le proprie palle colorate
 
-> Ciascuna delle palle < MSK0/> è dipinta blu, verde o giallo e viene inserita in uno dei tre urne, uno blu, un altro verde e il terzo giallo. Qual è la probabilità che ogni urna contenga esattamente le palle del suo rispettivo colore? (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
+> Ciascuna delle palle $2014$ è dipinta di blu, verde o giallo e viene inserita in uno dei tre urne, uno blu, un altro verde e il terzo giallo. Qual è la probabilità che ogni urna contenga esattamente le palle del suo rispettivo colore? (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
 
 [[src_obm_2014_n3_f1__Q06]]

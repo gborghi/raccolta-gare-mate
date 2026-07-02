@@ -57,7 +57,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Decilitres in the medium bottle on three shelves< MSK1/>
+*Decilitres in the medium bottle on three shelves*
 
 ![[src_kangourou_2021_benjamin__prob27.png]]
 

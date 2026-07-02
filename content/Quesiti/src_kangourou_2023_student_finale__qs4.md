@@ -46,6 +46,6 @@ tags:
 
 Characterizing n with p^2+n divisible by 40, p prime>5*
 
-> If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What about MSK6/?
+> If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What about$n$?
 
 [[src_kangourou_2023_student_finale__QS4]]

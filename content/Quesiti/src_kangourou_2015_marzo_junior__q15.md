@@ -60,7 +60,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>shaded area< MSK1/>
+*shaded area*
 
 ![[src_kangourou_2015_marzo_junior__prob15.png]]
 

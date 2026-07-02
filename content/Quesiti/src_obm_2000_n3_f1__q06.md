@@ -65,7 +65,7 @@ tags:
 
 *Equazione funzionale f(x+y)=x+f(y), trovare f(2000) *
 
-> Che $f$ sia una funzione con le seguenti proprietà: (i) per tutti i valori $x,y$, $f(x+y)=x+f(y)$; (ii) $f(0)=2$. Che cos' è < MSK4/>?
+> Che $f$ sia una funzione con le seguenti proprietà: (i) per tutti i valori $x,y$, $f(x+y)=x+f(y)$; (ii) $f(0)=2$. Che cos' è $f(2000)$?
 >
 > - **(A)** 0
 > - **(B)** 2

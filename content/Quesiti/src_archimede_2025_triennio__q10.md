@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>N2 cheese dividers with n=3^14·7^40 < MSK1/>
+*N2 cheese dividers with n=3^14·7^40 *
 
 > Paola has to reset her cell phone's pin, which consists of a 4-digit sequence (each of which can be any number from 0 to 9). To memorize it, it'll make sure you have exactly two different digits. How many pins does Paola have at her disposal?
 >

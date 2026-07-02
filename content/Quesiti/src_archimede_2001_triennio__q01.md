@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Integer numbers have mean 6 and sum 18< MSK1/>
+*Integer numbers have mean 6 and sum 18*
 
 > The whole numbers have a mean of 6 and a sum of 18. How many integers are there?
 >

@@ -70,7 +70,7 @@ tags:
 
 *Costruzione con 1000 piani: trovare i piani serviti da tutti e quattro gli ascensori, e esattamente da quattro*
 
-> Un edificio molto alto ha < MSK0/> piani, senza contare il piano terra. Dal piano terra partono cinque ascensori:
+> Un edificio molto alto ha $1000$ piani, senza contare il piano terra. Dal piano terra partono cinque ascensori:
 > 
 > - L'ascensore si ferma ad ogni piano. - Sosta di ascensore $B$ a piani multipli di $5$: $0, 5, 10, 15, \ldots$ - Sosta di ascensore $C$ a piani multipli di $7$: $0, 7, 14, 21, \ldots$ - Sosta di ascensore $D$ a piani multipli di $17$: $0, 17, 34, 51, \ldots$ - Sosta di ascensore $E$ a piani multipli di $23$: $0, 23, 46, 69, \ldots$
 > 

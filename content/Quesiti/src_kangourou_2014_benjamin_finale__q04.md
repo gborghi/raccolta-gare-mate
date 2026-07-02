@@ -46,7 +46,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Scoyattolo empties 15 plates in four visits< MSK1/>
+*Scoyattolo empties 15 plates in four visits*
 
 > AU BV CZ DR
 

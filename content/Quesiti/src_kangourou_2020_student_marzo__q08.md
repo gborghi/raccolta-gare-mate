@@ -52,7 +52,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Weight of an elephant given dogs and elephants< MSK1/>
+*Weight of an elephant given dogs and elephants*
 
 > If D dogs weigh K kilos overall and E elephants weigh as much as M dogs, how many kilos does an elephant weigh? (A) DKEM (B)
 > 	

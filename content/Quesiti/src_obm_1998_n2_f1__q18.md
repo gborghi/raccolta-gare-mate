@@ -64,7 +64,7 @@ tags:
 <span class="qlang-split" data-lang="it"></span>
 
 
-< MSK0/>Conta i modi per dipingere la bandiera con 4 colori, due non possono essere adiacenti< MSK1/>
+*Conta i modi per dipingere la bandiera con 4 colori, due non possono essere adiacenti*
 
 > Verrai dipinto la bandiera sotto utilizzando 4 colori: blu, verde, giallo e rosso, un colore per regione.
 > 

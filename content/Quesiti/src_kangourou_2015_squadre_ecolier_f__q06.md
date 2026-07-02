@@ -54,7 +54,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Rectangles without a black square in the 6x5 grid< MSK1/>
+*Rectangles without a black square in the 6x5 grid*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob6.png]]
 

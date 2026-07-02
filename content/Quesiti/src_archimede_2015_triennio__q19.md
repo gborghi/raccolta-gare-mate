@@ -58,7 +58,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>minimum metres< MSK1/>
+*minimum metres*
 
 > A square of side 2 meters is divided into four smaller squares of side half. An ant, initially placed on top of a large square, is free to walk along the sides of the squares. After walking a bit, running at least once on all sides of the squares, the ant returns to the starting point. How many meters has he traveled at least?
 >

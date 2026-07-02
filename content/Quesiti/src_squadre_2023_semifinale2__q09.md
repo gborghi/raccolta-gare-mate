@@ -48,7 +48,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Probability of MCD=1 of three extractions from 1-9< MSK1/>
+*Probability of MCD=1 of three extractions from 1-9*
 
 > Six doors in a row Lupin 3 and his gang want to steal the prototype of a new quantum computer. They've got to go through six doors in a row. Each gate has as its access code an integer number between 0 and 18 extremes included. They found that the sum of the codes of two consecutive ports is a number that divided by 19 gives us 3. This property applies to the first and second door, to the second and third door, and so on but also to the sixth and first door. How many sequences of six codes meet these conditions?
 

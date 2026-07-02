@@ -47,7 +47,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Minimum ab with 2069 number of Frobenius< MSK1/>
+*Minimum ab with 2069 number of Frobenius*
 
 > Goemetrikon is a skilled samaterai who alternates the reliable katana to solving mathematical questions. The last thing he solved was this: whether a and b are positive integers such that 2069 is the largest number that cannot be written as the sum of a (non-negative) multiple of a and a (non-negative) multiple of b. How much is ab worth, at least? After seeing him at the opera, Lupin/3 wants him in his band.
 

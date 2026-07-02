@@ -55,7 +55,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>Value w(2001^2001) sum of the numbers iterated< MSK1/>
+*Value w(2001^2001) sum of the numbers iterated*
 
 > For each positive integer n we calculate the sum of its digits (in decimal representation), then the sum of the digits of the number obtained and so on, until we get a single-digit number that is denoted by w(n). The number w (2001 2001) is equal to
 >

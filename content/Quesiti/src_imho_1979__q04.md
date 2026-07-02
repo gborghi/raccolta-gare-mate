@@ -50,7 +50,7 @@ tags:
 <span class="qlang-split" data-lang="en"></span>
 
 
-< MSK0/>All real numbers in pi make distances equal to fixed point< MSK1/>
+*All real numbers in pi make distances equal to fixed point*
 
 > Given a plane $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$. Find all points $R$ in $\pi$ such that $\frac{QP + PR}{QR}$ is a maximum.
 
