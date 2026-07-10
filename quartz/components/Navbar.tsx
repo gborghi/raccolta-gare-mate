@@ -3,16 +3,18 @@ import { classNames } from "../util/lang"
 
 // Full-width masthead navbar, rendered at <body> level by renderPage.tsx (mirrors the
 // maturità/physics site): a viewport-spanning bar with a centered max-width inner grid —
-// brand on the left, links centered. Links are ABSOLUTE, built from the configured
-// baseUrl's path so they carry the GitHub Pages project base on every page.
-// Styles live in quartz/styles/custom.scss; the height-measuring script is
-// quartz/components/scripts/navbar.inline.ts (shipped globally via componentResources).
+// two-line brand on the left, pill links centered (last one, "Cerca", is a lime CTA that
+// goes to the faceted /cerca page), and two icon buttons on the right that drive the
+// existing Quartz controls: the search icon opens the full-text search modal, the theme
+// icon toggles dark mode. Those two are wired in navbar.inline.ts by delegating to
+// `.search-button` / `.darkmode` (which live in the left sidebar) — no logic is duplicated.
+// Links are ABSOLUTE, built from the configured baseUrl's path so they carry the GitHub
+// Pages project base on every page. Styles live in quartz/styles/custom.scss.
 const LINKS: [string, string][] = [
   ["Aree", "Clusters"],
   ["Argomenti", "Topics"],
   ["Metodi", "Methods"],
   ["Abilità", "Skills"],
-  ["Cerca", "cerca"],
 ]
 
 // "host/sub/dir" -> "/sub/dir"  ;  "host" -> ""
@@ -30,12 +32,60 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
       <div class="navbar-inner">
         <a class="navbar-brand" href={`${bp}/`}>
           <img class="navbar-logo" src={`${bp}/static/logo.svg`} alt="" aria-hidden="true" />
-          Raccolta Gare di Matematica
+          <span class="navbar-brand-text">
+            <span class="navbar-brand-title">Raccolta Gare</span>
+            <span class="navbar-brand-sub">di Matematica</span>
+          </span>
         </a>
+
         <div class="navbar-links">
           {LINKS.map(([label, slug]) => (
-            <a href={`${bp}/${slug}${slug === "cerca" ? "" : "/"}`}>{label}</a>
+            <a href={`${bp}/${slug}/`}>{label}</a>
           ))}
+          <a class="navbar-cta" href={`${bp}/cerca`}>
+            Cerca
+          </a>
+        </div>
+
+        <div class="navbar-tools">
+          <button class="navbar-icon navbar-search" type="button" aria-label="Cerca nel testo">
+            <svg viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">
+              <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.8" />
+              <line
+                x1="13.5"
+                y1="13.5"
+                x2="18"
+                y2="18"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"
+              />
+            </svg>
+          </button>
+          <button class="navbar-icon navbar-dark" type="button" aria-label="Cambia tema">
+            <svg class="navbar-sun" viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">
+              <circle cx="10" cy="10" r="4.5" fill="none" stroke="currentColor" stroke-width="1.7" />
+              <g stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+                <line x1="10" y1="1.5" x2="10" y2="3.6" />
+                <line x1="10" y1="16.4" x2="10" y2="18.5" />
+                <line x1="1.5" y1="10" x2="3.6" y2="10" />
+                <line x1="16.4" y1="10" x2="18.5" y2="10" />
+                <line x1="4" y1="4" x2="5.5" y2="5.5" />
+                <line x1="14.5" y1="14.5" x2="16" y2="16" />
+                <line x1="16" y1="4" x2="14.5" y2="5.5" />
+                <line x1="5.5" y1="14.5" x2="4" y2="16" />
+              </g>
+            </svg>
+            <svg class="navbar-moon" viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">
+              <path
+                d="M15.5 12.5A6 6 0 0 1 7.5 4.5a6 6 0 1 0 8 8Z"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.6"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
         </div>
       </div>
     </nav>

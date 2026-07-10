@@ -20,24 +20,26 @@ configuration:
       body: Inter
       code: JetBrains Mono
     colors:
+      # Palette from the "Raccolta Gare Mate" Claude-Design (cream / forest / sage).
+      # Extra surface/card/accent tokens live in quartz/styles/custom.scss.
       lightMode:
-        light: "#f7faf7"
-        lightgray: "#e2e8e3"
-        gray: "#aeb8b0"
-        darkgray: "#454b46"
-        dark: "#1e2620"
-        secondary: "#1d5c44"
-        tertiary: "#6a9a7b"
-        highlight: rgba(29, 92, 68, 0.12)
+        light: "#e7ede0" # page background (cream-sage)
+        lightgray: "#d3ddc9" # hairlines / borders
+        gray: "#7c8c7f" # muted captions
+        darkgray: "#1e2a22" # body text
+        dark: "#12362a" # headings (forest)
+        secondary: "#1d5c44" # green — links / accents
+        tertiary: "#6a9a7b" # sage — hovers
+        highlight: rgba(29, 92, 68, 0.1)
         textHighlight: "#f5d90a88"
       darkMode:
-        light: "#141a16"
-        lightgray: "#2f3a33"
-        gray: "#5c6b61"
-        darkgray: "#d4dad6"
-        dark: "#e8ece9"
-        secondary: "#5fbf8a"
-        tertiary: "#9ccdb0"
+        light: "#0e1611" # page background
+        lightgray: "#26332a" # hairlines / borders
+        gray: "#7d9084" # muted captions
+        darkgray: "#e8ece9" # body text
+        dark: "#e8ece9" # headings
+        secondary: "#5fbf8a" # mint green
+        tertiary: "#9ccdb0" # sage
         highlight: rgba(95, 191, 138, 0.12)
         textHighlight: "#b3aa0288"
 plugins:

@@ -12,9 +12,11 @@ import { styleText } from "util"
 import { resolveFrame } from "./frames"
 import type { TreeTransform } from "../plugins/types"
 import NavbarConstructor from "./Navbar"
+import SiteFooterConstructor from "./SiteFooter"
 
-// custom (Raccolta Gare): full-width masthead rendered at <body> level (mirrors v4)
+// custom (Raccolta Gare): full-width masthead + footer rendered at <body> level (mirrors v4)
 const Navbar = NavbarConstructor()
+const SiteFooter = SiteFooterConstructor()
 
 interface RenderComponents {
   head: QuartzComponent
@@ -300,6 +302,7 @@ export function renderPage(
             ]}
           </Body>
         </div>
+        <SiteFooter {...componentData} />
       </body>
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")
