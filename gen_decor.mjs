@@ -66,7 +66,8 @@ const NODES = [
   ["skill_stima", "an approximate gauge or dial showing an estimate"],
 ];
 
-const file = (slug) => slug.replace(/[^A-Za-z0-9_-]+/g, "-");
+// lowercase: crawl-links lowercases img src and GitHub Pages is case-sensitive.
+const file = (slug) => slug.toLowerCase().replace(/[^a-z0-9_-]+/g, "-");
 
 async function gen(slug, subject) {
   const out = `${OUT}/${file(slug)}.png`;

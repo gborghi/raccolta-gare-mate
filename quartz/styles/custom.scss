@@ -86,9 +86,9 @@
   display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 0.25rem;
 }
 .navbar-links a {
-  font-family: var(--titleFont); font-weight: 600; font-size: 0.95rem;
+  font-family: var(--titleFont); font-weight: 600; font-size: 1.08rem;
   color: var(--navbar-fg) !important; background-image: none;
-  padding: 0.42rem 0.95rem; border-radius: 999px; text-decoration: none !important;
+  padding: 0.45rem 1.05rem; border-radius: 999px; text-decoration: none !important;
   transition: background 0.15s ease, color 0.15s ease;
 }
 .navbar-links a:not(.navbar-cta):hover { background: rgba(241, 247, 242, 0.12); }
@@ -121,7 +121,7 @@
   .navbar-links { grid-area: links; justify-self: center; }
   .navbar-logo { height: 2.3rem; }
   .navbar-brand-title { font-size: 1.05rem; }
-  .navbar-links a { padding: 0.3rem 0.7rem; font-size: 0.85rem; }
+  .navbar-links a { padding: 0.32rem 0.75rem; font-size: 0.95rem; }
   // The mobile explorer drawer defaults to ~100vw but is absolutely positioned
   // inside the left sidebar's padding (left ≈ 16px), so it spilled ~16px past the
   // right edge → horizontal page scroll → the width:100% sticky navbar appeared to
@@ -411,10 +411,13 @@ body[data-slug="index"] {
   background: var(--navbar-bg); overflow: hidden;
 }
 .home-hero-ornament {
-  position: absolute; top: -120px; right: -120px; opacity: 0.5;
-  pointer-events: none;
-  animation: home-floaty 13s ease-in-out infinite;
+  position: absolute; top: -90px; right: -90px; width: 560px; height: auto; margin: 0;
+  opacity: 0.7; pointer-events: none; user-select: none;
+  // the image's forest background blends into the hero gradient; only the
+  // lime/gold geometry shows over it (no visible rectangle). Static — no motion.
+  mix-blend-mode: screen;
 }
+@media (max-width: 800px) { .home-hero-ornament { width: 360px; top: -60px; right: -60px; opacity: 0.5; } }
 @keyframes home-floaty { 0%, 100% { transform: translateY(0) rotate(0); } 50% { transform: translateY(-14px) rotate(3deg); } }
 .home-hero-inner {
   position: relative; max-width: 1180px; margin: 0 auto; padding: 4.6rem 2rem 5rem;
@@ -442,6 +445,16 @@ body[data-slug="index"] .home-hero-title em { font-style: italic; color: #bfe98a
 .btn-primary:hover { transform: translateY(-2px); }
 .btn-ghost { color: var(--navbar-fg) !important; border: 1px solid rgba(241, 247, 242, 0.35); }
 .btn-ghost:hover { background: rgba(241, 247, 242, 0.08) !important; }
+// The homepage's styled links use full-URL hrefs (to survive crawl-links' lowercasing
+// of raw-HTML internal links, since pages live at capital-cased folders). Quartz tags
+// those as external and appends a ↗ icon — hide it on the design's own links (the real
+// external links in the credits section keep their icon).
+.home-hero a .external-icon,
+.area-card .external-icon,
+.class-row .external-icon,
+.class-more .external-icon,
+.feature-copy a .external-icon { display: none; }
+
 .home-hero-stats { display: flex; gap: 2.4rem; flex-wrap: wrap; }
 .home-hero-stats .stat { display: flex; flex-direction: column; }
 .home-hero-stats .stat-n {
