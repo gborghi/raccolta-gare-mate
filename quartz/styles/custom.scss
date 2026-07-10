@@ -453,7 +453,7 @@ body[data-slug="index"] .home-hero-title em { font-style: italic; color: #bfe98a
 .area-card .external-icon,
 .class-row .external-icon,
 .class-more .external-icon,
-.feature-copy a .external-icon { display: none; }
+.graph-promo a .external-icon { display: none; }
 
 .home-hero-stats { display: flex; gap: 2.4rem; flex-wrap: wrap; }
 .home-hero-stats .stat { display: flex; flex-direction: column; }
@@ -465,16 +465,22 @@ body[data-slug="index"] .home-hero-title em { font-style: italic; color: #bfe98a
   color: #9fc0a8; margin-top: 0.45rem;
 }
 
-// --- Hero two-column media (Recraft emblems) ---
-.home-hero-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 3rem; align-items: center; }
-.home-hero-media { position: relative; }
+// --- Hero two-column media (compass emblem, tight in a forest tile) ---
+.home-hero-grid { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 3rem; align-items: center; }
+// media column shrink-wraps the figure and pushes it to the right of the title copy
+.home-hero-media { position: relative; width: 21rem; max-width: 100%; margin-left: auto; }
 .home-hero-figure {
-  position: relative; aspect-ratio: 4 / 5; border-radius: 20px; overflow: hidden;
-  background: linear-gradient(160deg, #f6f9f0 0%, #eef3e6 100%);
-  border: 1px solid rgba(162, 207, 51, 0.3); box-shadow: 0 30px 70px rgba(8, 30, 20, 0.4);
+  position: relative; width: 100%; aspect-ratio: 1 / 1; border-radius: 24px; overflow: hidden;
+  // forest tile — same greens as the hero, so the transparent compass sits *inside* it
+  background: radial-gradient(120% 120% at 50% 34%, #1d5c44 0%, #123b2c 58%, #0e2e21 100%);
+  border: 1px solid rgba(162, 207, 51, 0.32); box-shadow: 0 30px 70px rgba(8, 30, 20, 0.45);
   display: flex; align-items: center; justify-content: center;
 }
-.home-hero-figure img { width: 100%; height: 100%; object-fit: contain; padding: 1.6rem; margin: 0; }
+// compass is transparent PNG → smaller, tightly inset, floating over the green
+.home-hero-figure img {
+  width: 84%; height: 84%; object-fit: contain; padding: 0; margin: 0;
+  filter: drop-shadow(0 8px 20px rgba(0, 0, 0, 0.38));
+}
 .home-hero-chip {
   position: absolute; bottom: -1.4rem; left: -1.4rem;
   background: var(--card); border: 1px solid var(--line); border-radius: 16px;
@@ -541,40 +547,52 @@ body[data-slug="index"] .home-h2 {
 .class-row .class-n { font-family: var(--codeFont); font-size: 0.78rem; color: var(--muted); font-weight: 400; }
 .class-more { margin-top: 1rem; font-family: var(--titleFont); font-weight: 600; font-size: 0.9rem; color: var(--green) !important; background: none !important; }
 
-.feature-strip {
-  background: var(--surface); border: 1px solid var(--line); border-radius: 24px; padding: 2.8rem 2.6rem;
-}
-.feature-lead { font-size: 1rem; line-height: 1.72; color: var(--muted); margin: 0 0 1.6rem; max-width: 48rem; }
-.feature-points { display: flex; flex-direction: column; gap: 0.9rem; }
-.feature-point { display: flex; gap: 0.9rem; align-items: flex-start; font-size: 0.95rem; line-height: 1.6; }
-.feature-point strong { color: var(--dark); font-weight: 600; }
-.feature-num {
-  flex: 0 0 auto; width: 1.7rem; height: 1.7rem; border-radius: 8px;
-  background: var(--card); border: 1px solid var(--line);
-  display: inline-flex; align-items: center; justify-content: center;
-  font-family: var(--titleFont); color: var(--green); font-size: 0.9rem; font-weight: 600;
-}
-body[data-slug="index"] .feature-strip .home-h2 { font-size: 1.9rem; margin-bottom: 1.1rem; }
-.feature-strip-grid { display: grid; grid-template-columns: 0.92fr 1.08fr; gap: 3rem; align-items: center; }
-.feature-media {
-  border-radius: 18px; overflow: hidden;
-  background: linear-gradient(160deg, #f6f9f0 0%, #eef3e6 100%);
-  border: 1px solid var(--line); box-shadow: 0 24px 56px rgba(20, 60, 40, 0.16);
-}
-.feature-media img { display: block; width: 100%; aspect-ratio: 5 / 4; object-fit: contain; padding: 1.6rem; margin: 0; }
+// --- Closing band: credits + a compact knowledge-graph card, side by side ---
+.home-closing { margin: 5rem 0 0; }
+.closing-grid { display: grid; grid-template-columns: 1.65fr 1fr; gap: 3.2rem; align-items: start; }
 
-// homepage credits (rendered from markdown after the hero)
-body[data-slug="index"] .markdown-preview-view > h2 {
-  font-family: var(--titleFont); font-weight: 500; color: var(--dark);
-  margin-top: 4.5rem; padding-top: 2rem; border-top: 1px solid var(--line);
+.closing-credits h2 {
+  font-family: var(--titleFont); font-weight: 500; font-size: 1.7rem; color: var(--dark);
+  margin: 0 0 1.3rem; padding-top: 2rem; border-top: 1px solid var(--line);
 }
-body[data-slug="index"] .markdown-preview-view > p { color: var(--muted); font-size: 0.92rem; }
+.closing-credits p { color: var(--muted); font-size: 0.9rem; line-height: 1.7; margin: 0 0 1rem; }
+.closing-credits strong { color: var(--fg); }
+
+// compact graph promo — the thumbnail is a link to the knowledge graph
+.graph-promo {
+  position: sticky; top: 5rem; align-self: start;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 1.5rem;
+}
+.graph-promo-thumb {
+  display: block; border-radius: 14px; overflow: hidden; margin: 0 0 1.2rem;
+  background: linear-gradient(160deg, #f6f9f0 0%, #eef3e6 100%);
+  border: 1px solid var(--line-soft); background-image: none;
+}
+.graph-promo-thumb img {
+  display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: contain; padding: 1rem; margin: 0;
+  transition: transform 0.25s ease;
+}
+.graph-promo-thumb:hover img { transform: scale(1.05); }
+.graph-promo .eyebrow { margin-bottom: 0.55rem; }
+.graph-promo h2 {
+  font-family: var(--titleFont); font-weight: 500; font-size: 1.3rem; line-height: 1.2;
+  color: var(--dark); margin: 0 0 0.7rem;
+}
+.graph-promo p { font-size: 0.9rem; line-height: 1.65; color: var(--muted); margin: 0 0 1.1rem; }
+.graph-promo-points { display: flex; flex-direction: column; gap: 0.55rem; margin-bottom: 1.2rem; }
+.graph-promo-points div { font-size: 0.82rem; line-height: 1.45; color: var(--muted); }
+.graph-promo-points strong { color: var(--dark); font-weight: 600; }
+.graph-promo-link {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.92rem;
+  color: var(--green) !important; background: none !important; text-decoration: none !important;
+}
 
 @media (max-width: 1000px) {
   .home-hero-grid { grid-template-columns: 1fr; gap: 2.4rem; }
-  .home-hero-media { max-width: 24rem; }
-  .home-hero-figure { aspect-ratio: 16 / 10; }
-  .feature-strip-grid { grid-template-columns: 1fr; gap: 1.6rem; }
+  .home-hero-media { width: 20rem; max-width: 100%; margin: 0 auto; }
+  .home-hero-figure { aspect-ratio: 1 / 1; }
+  .closing-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .graph-promo { position: static; order: -1; }
   .area-grid { grid-template-columns: repeat(2, 1fr); }
   .class-lists { grid-template-columns: 1fr; gap: 1.8rem; }
 }
@@ -584,7 +602,8 @@ body[data-slug="index"] .markdown-preview-view > p { color: var(--muted); font-s
   .home-hero-chip { left: 0; bottom: -1rem; }
   .area-grid { grid-template-columns: 1fr; }
   body[data-slug="index"] .home-h2 { font-size: 1.8rem; }
-  .class-lists, .feature-strip { padding: 1.7rem 1.4rem; }
+  .class-lists { padding: 1.7rem 1.4rem; }
+  .closing-credits h2 { font-size: 1.45rem; }
 }
 @media (prefers-reduced-motion: reduce) {
   .home-hero-ornament { animation: none; }

@@ -114,32 +114,30 @@ title: Raccolta Gare di Matematica
   </div>
 </section>
 
-<section class="home-section">
-  <div class="feature-strip feature-strip-grid">
-    <div class="feature-media">
-      <img src="static/decor/combinatoria-logica-e-probabilita.webp" alt="Emblema di combinatoria e logica — una rete di nodi" loading="lazy">
+<section class="home-closing">
+  <div class="closing-grid">
+    <div class="closing-credits">
+      <h2>Crediti e fonti</h2>
+      <p>I testi delle prove sono proprietà dei rispettivi <strong>enti organizzatori</strong>, qui citati come fonte. Questo è un archivio <strong>didattico, senza scopo di lucro</strong>: i quesiti sono raccolti, tradotti e classificati a fini di studio. Per segnalazioni o richieste di rimozione: <a href="mailto:gio.borghi@gmail.com">gio.borghi@gmail.com</a>.</p>
+      <p><strong>Italia.</strong> I <em>Giochi di Archimede</em>, la <em>Gara Nazionale</em> (Cesenatico) e la <em>Gara a Squadre</em> fanno parte del Progetto Olimpiadi della Matematica dell'<strong><a href="https://umi.dm.unibo.it/">UMI – Unione Matematica Italiana</a></strong>, per conto del Ministero dell'Istruzione e del Merito — sito delle olimpiadi: <a href="https://olimpiadi.dm.unibo.it/">olimpiadi.dm.unibo.it</a>. Il <em>Kangourou della Matematica</em> è organizzato da <strong><a href="https://www.kangourou.it/">Kangourou Italia</a></strong> (Università degli Studi di Milano), parte dell'<em>Association Kangourou Sans Frontières</em>. I <em>Giochi d'Autunno</em> e i <em>Giochi Matematici</em> sono organizzati dal <strong><a href="https://giochimatematici.unibocconi.it/">Centro PRISTEM – Università Bocconi</a></strong>.</p>
+      <p><strong>Competizioni internazionali.</strong> <a href="https://www.imo-official.org/">IMO – International Mathematical Olympiad</a>.</p>
+      <p><strong>Altri paesi (enti organizzatori).</strong> Brasile — <em>OBM</em>, <a href="https://www.sbm.org.br/">SBM – Sociedade Brasileira de Matemática</a> (<a href="https://www.obm.org.br/">obm.org.br</a>); Regno Unito — <em>BMO</em>, <em>Senior Mathematical Challenge</em>, <a href="https://www.ukmt.org.uk/">UKMT – United Kingdom Mathematics Trust</a>; Giappone — <em>JMO / JJMO / JGMO / EGMO selection</em>, <a href="https://www.imojp.org/">数学オリンピック財団 – Japan Mathematical Olympiad Foundation</a>; India — <em>IOQM</em> a cura della <a href="https://www.mtai.org.in/">MTA(I) – Mathematics Teachers' Association (India)</a>, <em>RMO / INMO</em> a cura di <a href="https://olympiads.hbcse.tifr.res.in/">HBCSE–TIFR</a>; Cina — <em>CMO / CMC / CWMO / CGMO / CSMO / CTST</em>, <a href="https://www.cms.org.cn/">CMS – Chinese Mathematical Society</a>; Francia — <em>Coupe Animath / TFJM² / Olympiades de Première</em>, <a href="https://www.animath.fr/">Animath</a>, e <em>Concours Général des Lycées</em>, <a href="https://www.education.gouv.fr/">Ministère de l'Éducation nationale</a>; Polonia — <em>Olimpiada Matematyczna</em>, <a href="https://om.sem.edu.pl/">Komitet Główny Olimpiady Matematycznej</a> (Stowarzyszenie na rzecz Edukacji Matematycznej, già Polskie Towarzystwo Matematyczne).</p>
+      <p>Se un ente desidera una citazione diversa o la rimozione dei propri materiali, lo aggiorneremo o rimuoveremo prontamente.</p>
     </div>
-    <div class="feature-copy">
+    <aside class="graph-promo">
+      <a class="graph-promo-thumb" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/" title="Apri il grafo della conoscenza">
+        <img src="static/decor/combinatoria-logica-e-probabilita.webp" alt="Grafo della conoscenza — una rete di nodi" loading="lazy">
+      </a>
       <div class="eyebrow">— Un grafo della conoscenza</div>
-      <h2 class="home-h2">Ogni quesito, un nodo di una rete che cresce.</h2>
-      <p class="feature-lead">Argomenti, metodi risolutivi e abilità collegano i quesiti fra loro. Naviga il grafo locale di ogni pagina, filtra per più tag con la <a href="https://gborghi.github.io/raccolta-gare-mate/cerca">ricerca faceted</a>, oppure ordina e filtra ogni tabella.</p>
-      <div class="feature-points">
-        <div class="feature-point"><span class="feature-num">1</span><div><strong>Testo bilingue.</strong> Molti quesiti sono disponibili in italiano e inglese.</div></div>
-        <div class="feature-point"><span class="feature-num">2</span><div><strong>Fonte tracciabile.</strong> Ogni quesito rimanda al PDF originale dell'ente organizzatore.</div></div>
-        <div class="feature-point"><span class="feature-num">3</span><div><strong>Ricerca combinata.</strong> Filtra per gara, anno, livello, argomento, metodo e abilità.</div></div>
+      <h2>Ogni quesito, un nodo di una rete che cresce.</h2>
+      <p>Argomenti, metodi e abilità collegano i quesiti fra loro. Naviga il grafo locale di ogni pagina o filtra per più tag con la <a href="https://gborghi.github.io/raccolta-gare-mate/cerca">ricerca faceted</a>.</p>
+      <div class="graph-promo-points">
+        <div><strong>Testo bilingue</strong> — molti quesiti in italiano e inglese.</div>
+        <div><strong>Fonte tracciabile</strong> — link al PDF originale dell'ente.</div>
+        <div><strong>Ricerca combinata</strong> — gara, anno, livello, argomento, metodo, abilità.</div>
       </div>
-    </div>
+      <a class="graph-promo-link" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/">Apri il grafo →</a>
+    </aside>
   </div>
 </section>
 
-## Crediti e fonti
-
-I testi delle prove sono proprietà dei rispettivi **enti organizzatori**, qui citati come fonte. Questo è un archivio **didattico, senza scopo di lucro**: i quesiti sono raccolti, tradotti e classificati a fini di studio. Per segnalazioni o richieste di rimozione: [gio.borghi@gmail.com](mailto:gio.borghi@gmail.com).
-
-**Italia.** I *Giochi di Archimede*, la *Gara Nazionale* (Cesenatico) e la *Gara a Squadre* fanno parte del Progetto Olimpiadi della Matematica dell'**[UMI – Unione Matematica Italiana](https://umi.dm.unibo.it/)**, per conto del Ministero dell'Istruzione e del Merito — sito delle olimpiadi: [olimpiadi.dm.unibo.it](https://olimpiadi.dm.unibo.it/). Il *Kangourou della Matematica* è organizzato da **[Kangourou Italia](https://www.kangourou.it/)** (Università degli Studi di Milano), parte dell'*Association Kangourou Sans Frontières*. I *Giochi d'Autunno* e i *Giochi Matematici* sono organizzati dal **[Centro PRISTEM – Università Bocconi](https://giochimatematici.unibocconi.it/)**.
-
-**Competizioni internazionali.** [IMO – International Mathematical Olympiad](https://www.imo-official.org/).
-
-**Altri paesi (enti organizzatori).** Brasile — *OBM*, [SBM – Sociedade Brasileira de Matemática](https://www.sbm.org.br/) ([obm.org.br](https://www.obm.org.br/)); Regno Unito — *BMO*, *Senior Mathematical Challenge*, [UKMT – United Kingdom Mathematics Trust](https://www.ukmt.org.uk/); Giappone — *JMO / JJMO / JGMO / EGMO selection*, [数学オリンピック財団 – Japan Mathematical Olympiad Foundation](https://www.imojp.org/); India — *IOQM* a cura della [MTA(I) – Mathematics Teachers' Association (India)](https://www.mtai.org.in/), *RMO / INMO* a cura di [HBCSE–TIFR](https://olympiads.hbcse.tifr.res.in/); Cina — *CMO / CMC / CWMO / CGMO / CSMO / CTST*, [CMS – Chinese Mathematical Society](https://www.cms.org.cn/); Francia — *Coupe Animath / TFJM² / Olympiades de Première*, [Animath](https://www.animath.fr/), e *Concours Général des Lycées*, [Ministère de l'Éducation nationale](https://www.education.gouv.fr/); Polonia — *Olimpiada Matematyczna*, [Komitet Główny Olimpiady Matematycznej](https://om.sem.edu.pl/) (Stowarzyszenie na rzecz Edukacji Matematycznej, già Polskie Towarzystwo Matematyczne).
-
-Se un ente desidera una citazione diversa o la rimozione dei propri materiali, lo aggiorneremo o rimuoveremo prontamente.
