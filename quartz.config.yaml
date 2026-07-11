@@ -105,8 +105,11 @@ plugins:
       enableRSS: true
   - source: github:quartz-community/favicon
     enabled: true
+  # Disabled: og-image emits one satori PNG per page (~19k files), which — added to
+  # the ~19k HTML pages — pushes the deployment past Cloudflare Pages' 20,000-file cap.
+  # Turning it off halves the file count (no per-page social preview images).
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
