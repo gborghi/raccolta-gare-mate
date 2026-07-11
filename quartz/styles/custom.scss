@@ -467,8 +467,10 @@ body[data-slug="index"] .home-hero-title em { font-style: italic; color: #bfe98a
 
 // --- Hero two-column media (compass emblem, tight in a forest tile) ---
 .home-hero-grid { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 3rem; align-items: center; }
-// media column shrink-wraps the figure and pushes it to the right of the title copy
-.home-hero-media { position: relative; width: 21rem; max-width: 100%; margin-left: auto; }
+// media column shrink-wraps the figure and pushes it to the right of the title copy;
+// fluid max-width lets the two-column hero survive down to a low breakpoint (compact
+// compass stays *beside* the title, never stacked, until mobile).
+.home-hero-media { position: relative; width: 100%; max-width: 21rem; margin-left: auto; }
 .home-hero-figure {
   position: relative; width: 100%; aspect-ratio: 1 / 1; border-radius: 24px; overflow: hidden;
   // forest tile — same greens as the hero, so the transparent compass sits *inside* it
@@ -588,9 +590,7 @@ body[data-slug="index"] .home-h2 {
 }
 
 @media (max-width: 1000px) {
-  .home-hero-grid { grid-template-columns: 1fr; gap: 2.4rem; }
-  .home-hero-media { width: 20rem; max-width: 100%; margin: 0 auto; }
-  .home-hero-figure { aspect-ratio: 1 / 1; }
+  // hero stays two-column here; the compass column just shrinks (max-width above).
   .closing-grid { grid-template-columns: 1fr; gap: 2rem; }
   .graph-promo { position: static; order: -1; }
   .area-grid { grid-template-columns: repeat(2, 1fr); }
@@ -599,11 +599,22 @@ body[data-slug="index"] .home-h2 {
 @media (max-width: 800px) {
   body[data-slug="index"] .home-hero-title { font-size: 2.35rem; }
   .home-hero-inner { padding: 3rem 1.3rem 3.4rem; }
-  .home-hero-chip { left: 0; bottom: -1rem; }
+  // keep the compass tighter beside the title as the column narrows
+  .home-hero-grid { gap: 1.8rem; }
+  .home-hero-media { max-width: 14rem; }
+  .home-hero-chip { left: -0.6rem; bottom: -1rem; padding: 0.7rem 0.85rem; min-width: 0; }
+  .home-hero-chip-tags span { font-size: 0.66rem; }
   .area-grid { grid-template-columns: 1fr; }
   body[data-slug="index"] .home-h2 { font-size: 1.8rem; }
   .class-lists { padding: 1.7rem 1.4rem; }
   .closing-credits h2 { font-size: 1.45rem; }
+}
+// only on a genuinely small screen does the compass drop below — and then it sits
+// ABOVE the title (order:-1), centered and small, so the hero still leads with it.
+@media (max-width: 560px) {
+  .home-hero-grid { grid-template-columns: 1fr; gap: 1.6rem; }
+  .home-hero-media { order: -1; margin: 0 auto; max-width: 12rem; }
+  .home-hero-chip { position: static; margin: 0.9rem auto 0; min-width: 0; width: fit-content; }
 }
 @media (prefers-reduced-motion: reduce) {
   .home-hero-ornament { animation: none; }

@@ -126,7 +126,7 @@ title: Raccolta Gare di Matematica
     </div>
     <aside class="graph-promo">
       <a class="graph-promo-thumb" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/" title="Apri il grafo della conoscenza">
-        <img src="static/decor/combinatoria-logica-e-probabilita.webp" alt="Grafo della conoscenza — una rete di nodi" loading="lazy">
+        <img src="static/decor/hero-graph.webp" alt="Grafo della conoscenza — una rete di nodi" loading="lazy">
       </a>
       <div class="eyebrow">— Un grafo della conoscenza</div>
       <h2>Ogni quesito, un nodo di una rete che cresce.</h2>
