@@ -7,8 +7,7 @@ tags:
 ---
 <img class="section-decor" src="../static/decor/topic_aritmetica.webp" alt="" loading="lazy">
 
-
-*topic* — **3295** quesiti (italiani).
+<div class="area-hero"><div class="area-hero-eyebrow">Argomento</div><h1 class="area-hero-title">Aritmetica / Teoria dei Numeri</h1><p class="area-hero-lead"><strong>3.295</strong> quesiti classificati sotto questo argomento.</p></div>
 
 ## Quesiti
 

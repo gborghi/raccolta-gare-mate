@@ -7,8 +7,7 @@ tags:
 ---
 <img class="section-decor" src="../static/decor/skill_conteggio_sistematico.webp" alt="" loading="lazy">
 
-
-*skill* — **1436** quesiti (italiani).
+<div class="area-hero"><div class="area-hero-eyebrow">Abilità</div><h1 class="area-hero-title">Conteggio sistematico</h1><p class="area-hero-lead"><strong>1.436</strong> quesiti che richiedono questa abilità.</p></div>
 
 ## Quesiti
 

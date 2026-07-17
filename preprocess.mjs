@@ -5,6 +5,7 @@
 // - emits ./quartz/static/quesiti.json consumed by the client table renderer
 import { promises as fs, readFileSync } from "node:fs"
 import path from "node:path"
+import { execFile } from "node:child_process"
 import matter from "gray-matter"
 
 const NUL = String.fromCharCode(0)
@@ -73,37 +74,119 @@ function parseFrontmatter(raw) {
   return { data, content: m[2] }
 }
 
-const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiMatematica/raccoltaGareMate/Knowledge Graph"
+const VAULT =
+  "E:/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiMatematica/raccoltaGareMate/Knowledge Graph"
 const ROOT = path.resolve(".")
 const CONTENT = path.join(ROOT, "content")
 const STATIC_JSON = path.join(ROOT, "quartz", "static", "quesiti.json")
 const KW_JSON = path.join(ROOT, "quartz", "static", "quesiti_kw.json")
+
+// Re-stamp content/ as Dropbox-ignored (NTFS com.dropbox.ignored alternate data stream)
+// after each regen — main() recreates the dir, which drops any prior flag. content/ stays
+// git-tracked (git syncs it to CI); this only stops Dropbox cloud-syncing the thousands of
+// generated files. Windows-only, best-effort (never fail the build).
+async function markDropboxIgnored(dir) {
+  // Windows: NTFS alternate data stream. macOS: xattr com.dropbox.ignored. Both are the
+  // per-OS way Dropbox marks a path "ignored". Linux (CI) has no Dropbox → no-op. Never
+  // throws — the flag is a nicety, not required for the build.
+  try {
+    if (process.platform === "win32") {
+      await fs.writeFile(`${dir}:com.dropbox.ignored`, "1")
+    } else if (process.platform === "darwin") {
+      await new Promise((res) =>
+        execFile("xattr", ["-w", "com.dropbox.ignored", "1", dir], () => res()),
+      )
+    }
+  } catch {}
+}
+
+// Public site base (must match baseUrl in quartz.config.yaml). Used to build ABSOLUTE
+// links inside raw-HTML blocks — wikilinks ([[..]]) are only resolved in markdown text,
+// never inside a raw HTML block, so the area-hero chips below can't use them. The
+// homepage generator further down hardcodes the same base.
+const SITE = "https://gborghi.github.io/raccolta-gare-mate"
+// Per-tipo eyebrow + fallback lead for the concept-page hero (Design "area" view).
+const TIPO_HERO = {
+  cluster: { eyebrow: "Macro-area", lead: "quesiti in questa macro-area." },
+  topic: { eyebrow: "Argomento", lead: "quesiti classificati sotto questo argomento." },
+  method: { eyebrow: "Metodo", lead: "quesiti risolti con questo metodo." },
+  skill: { eyebrow: "Abilità", lead: "quesiti che richiedono questa abilità." },
+}
+// 2832 -> "2.832" (Italian thousands separator)
+const itNum = (n) =>
+  String(n)
+    .replace(/\./g, "")
+    .replace(/\B(?=(\d{3})+(?!\d))/g, ".")
+// ["a","b","c"] -> "a, b e c"
+const joinE = (a) =>
+  a.length <= 1 ? a.join("") : a.slice(0, -1).join(", ") + " e " + a[a.length - 1]
+
+// Concept pages (Clusters/Topics/Methods/Skills) get the Claude-Design "area" hero: a
+// surface card carrying eyebrow + title + a lead line with the quesito count, and — for
+// clusters — chips linking each child topic. Returns { hero, tail } (tail = the untouched
+// "## Quesiti" section, still markdown, transformed by the caller) or null for other notes.
+function buildSectionHero(data, content) {
+  const meta = TIPO_HERO[data.tipo]
+  if (!meta) return null
+  const title = String(data.title || "").trim()
+  const qIdx = content.search(/^##\s+Quesiti\s*$/m)
+  const intro = qIdx >= 0 ? content.slice(0, qIdx) : content
+  const tail = qIdx >= 0 ? content.slice(qIdx) : ""
+  const countM = intro.match(/\*\*\s*([\d.]+)\s*\*\*/)
+  const count = countM ? itNum(countM[1]) : ""
+  // cluster child topics: "- [[topic_id|Name]] — N quesiti"
+  const chips = [...intro.matchAll(/^-\s*\[\[([^\]|]+)\|([^\]]+)\]\]\s*—\s*(\d[\d.]*)/gm)].map(
+    (m) => ({
+      id: m[1].trim(),
+      name: m[2].trim(),
+      n: itNum(m[3]),
+    }),
+  )
+  const leadBody = chips.length
+    ? "quesiti su " + joinE(chips.map((c) => c.name.toLowerCase())) + "."
+    : meta.lead
+  const lead = count ? `<p class="area-hero-lead"><strong>${count}</strong> ${leadBody}</p>` : ""
+  const chipHtml = chips.length
+    ? `<div class="area-hero-chips">${chips
+        .map(
+          (c) =>
+            `<a class="area-chip" href="${SITE}/Topics/${c.id}"><span class="area-chip-name">${c.name}</span><span class="area-chip-n">${c.n}</span></a>`,
+        )
+        .join("")}</div>`
+    : ""
+  const hero = `<div class="area-hero"><div class="area-hero-eyebrow">${meta.eyebrow}</div><h1 class="area-hero-title">${title}</h1>${lead}${chipHtml}</div>`
+  return { hero, tail }
+}
 
 // --- Hidden full-text keyword index --------------------------------------------
 // For each quesito we extract the meaningful words of its statement (and any
 // solution) so the table search can offer a "search full content" mode without
 // shipping whole notes. Stopwords (it/en/pt/fr) + domain boilerplate are removed;
 // the result is a deduped, space-joined keyword string per note href. Never shown.
-const STOPWORDS = new Set((
+const STOPWORDS = new Set(
   // Italian
-  "ad ai al alla alle allo agli anche ancora avere aveva avevano che chi ci coi col come con cosa cui da dai dal dalla dalle dallo degli dei del della delle dello di dove due ecco ed era erano essere fa fare fino fra gli ha hai hanno ho il in io la le lei li lo loro ma me mentre mi mia mie miei mio ne negli nei nel nella nelle nello no noi non nostra nostre nostri nostro o od ogni ognuno oppure per perche perché piu più po poi puo può qual quale quali quando quanta quante quanti quanto quasi quel quella quelle quelli quello questa queste questi questo qui se sei senza si sia siamo siete solo sono sopra sotto sta stata state stati stato su sua sue sui sul sulla sulle sullo suo suoi tra tre tu tua tue tuo tuoi tutta tutte tutti tutto un una uno vi voi " +
-  // English
-  "a об an and are as at be been but by can did do does each for from had has have he her here him his how i if in into is it its no not of on one or our so that the their them then there these they this to too two up was we were what when where which who will with you your " +
-  // Portuguese / French common
-  "as os um uma para com que dos das nao não por mais como ou se da de do em no na os un une le la les des du dans et est il elle pour qui que pas sur au aux ce " +
-  // domain boilerplate that appears in every note
-  "apri pdf fonte sorgente risposta topic area abilita abilità metodo metodi skill quesito problema gara testo soluzione soluzioni pag pagina prove prova"
-).split(/\s+/).filter(Boolean))
+  (
+    "ad ai al alla alle allo agli anche ancora avere aveva avevano che chi ci coi col come con cosa cui da dai dal dalla dalle dallo degli dei del della delle dello di dove due ecco ed era erano essere fa fare fino fra gli ha hai hanno ho il in io la le lei li lo loro ma me mentre mi mia mie miei mio ne negli nei nel nella nelle nello no noi non nostra nostre nostri nostro o od ogni ognuno oppure per perche perché piu più po poi puo può qual quale quali quando quanta quante quanti quanto quasi quel quella quelle quelli quello questa queste questi questo qui se sei senza si sia siamo siete solo sono sopra sotto sta stata state stati stato su sua sue sui sul sulla sulle sullo suo suoi tra tre tu tua tue tuo tuoi tutta tutte tutti tutto un una uno vi voi " +
+    // English
+    "a об an and are as at be been but by can did do does each for from had has have he her here him his how i if in into is it its no not of on one or our so that the their them then there these they this to too two up was we were what when where which who will with you your " +
+    // Portuguese / French common
+    "as os um uma para com que dos das nao não por mais como ou se da de do em no na os un une le la les des du dans et est il elle pour qui que pas sur au aux ce " +
+    // domain boilerplate that appears in every note
+    "apri pdf fonte sorgente risposta topic area abilita abilità metodo metodi skill quesito problema gara testo soluzione soluzioni pag pagina prove prova"
+  )
+    .split(/\s+/)
+    .filter(Boolean),
+)
 
 function keywords(content) {
   // keep only the statement: drop the metadata footer (Topic/Area/Risposta/Fonte…)
   const body = content.split(/\n\*\*(?:Topic|Area|Abilit|Risposta|Fonte|Metod|Skill)/)[0]
   const cleaned = body
-    .replace(/\[\[[^\]]*\]\]/g, " ")          // wikilinks
-    .replace(/\[[^\]]*\]\([^)]*\)/g, " ")      // md links
-    .replace(/[`*_>#|]/g, " ")                  // md syntax
+    .replace(/\[\[[^\]]*\]\]/g, " ") // wikilinks
+    .replace(/\[[^\]]*\]\([^)]*\)/g, " ") // md links
+    .replace(/[`*_>#|]/g, " ") // md syntax
     .toLowerCase()
-    .replace(/[^a-zà-ÿ\s]/g, " ")               // letters only (drop digits/punct/symbols)
+    .replace(/[^a-zà-ÿ\s]/g, " ") // letters only (drop digits/punct/symbols)
   const seen = new Set()
   for (const w of cleaned.split(/\s+/)) {
     if (w.length < 3 || STOPWORDS.has(w)) continue
@@ -152,9 +235,13 @@ function transform(content) {
     return `<div class="qtable" data-field="${spec.field}" data-values="${spec.values.join(",")}"></div>`
   })
   // angle-bracket form: [alias](<../../some path/file.pdf#page=N>) — path may contain spaces
-  content = content.replace(/\[([^\]]*)\]\(<([^>]*?\.pdf)(?:#[^>]*)?>\)/gi, (_m, a, p) => driveLink(a, p))
+  content = content.replace(/\[([^\]]*)\]\(<([^>]*?\.pdf)(?:#[^>]*)?>\)/gi, (_m, a, p) =>
+    driveLink(a, p),
+  )
   // plain form: [alias](../../file.pdf#page=N) — no spaces
-  content = content.replace(/\[([^\]]*)\]\(\s*([^)\s]*?\.pdf)(?:#[^)\s]*)?\s*\)/gi, (_m, a, p) => driveLink(a, p))
+  content = content.replace(/\[([^\]]*)\]\(\s*([^)\s]*?\.pdf)(?:#[^)\s]*)?\s*\)/gi, (_m, a, p) =>
+    driveLink(a, p),
+  )
   // drop the now-redundant backticked source path in "Sorgente: `path.pdf` · …"
   content = content.replace(/`[^`]*\.pdf`/gi, "")
   content = content.replace(/Sorgente:\s*·\s*/g, "Sorgente: ")
@@ -185,7 +272,12 @@ let decorSet = new Set()
 async function main() {
   await fs.rm(CONTENT, { recursive: true, force: true })
   await fs.mkdir(CONTENT, { recursive: true })
-  try { decorSet = new Set(await fs.readdir(DECOR_DIR)) } catch { decorSet = new Set() }
+  await markDropboxIgnored(CONTENT)
+  try {
+    decorSet = new Set(await fs.readdir(DECOR_DIR))
+  } catch {
+    decorSet = new Set()
+  }
   const files = await walk(VAULT)
   const quesiti = []
   const kwIndex = {}
@@ -212,7 +304,9 @@ async function main() {
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
     const { data, content } = parseFrontmatter(raw)
     if (String(data.secondary) === "true") continue // never emit / index siblings
-    let newContent = transform(content)
+    // Concept pages render the design's area-hero card; everything else transforms as-is.
+    const built = buildSectionHero(data, content)
+    let newContent = built ? built.hero + "\n\n" + transform(built.tail) : transform(content)
     // inject decor image for section notes
     const top = rel.split(path.sep)[0]
     if (DECOR_FOLDERS.has(top)) {
@@ -269,11 +363,15 @@ async function main() {
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
-  console.log(`keyword index: ${Object.keys(kwIndex).length} notes, ${(JSON.stringify(kwIndex).length / 1e6).toFixed(1)}MB`)
+  console.log(
+    `keyword index: ${Object.keys(kwIndex).length} notes, ${(JSON.stringify(kwIndex).length / 1e6).toFixed(1)}MB`,
+  )
 
   // copy attachments so ![[img]] embeds render on the published site too
   try {
-    await fs.cp(path.join(VAULT, "_attachments"), path.join(CONTENT, "_attachments"), { recursive: true })
+    await fs.cp(path.join(VAULT, "_attachments"), path.join(CONTENT, "_attachments"), {
+      recursive: true,
+    })
   } catch (e) {
     console.log("attachments copy skipped:", e.message)
   }
@@ -435,7 +533,9 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti. Usa l'interru
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
-  console.log(`copied ${written} notes, indexed ${quesiti.length} quesiti, merged ${merged} bilingual siblings`)
+  console.log(
+    `copied ${written} notes, indexed ${quesiti.length} quesiti, merged ${merged} bilingual siblings`,
+  )
   if (missingPdf.size) {
     console.log(`WARN: ${missingPdf.size} PDF links had no Drive mapping (kept as plain text):`)
     for (const p of [...missingPdf].sort().slice(0, 40)) console.log("  -", p)

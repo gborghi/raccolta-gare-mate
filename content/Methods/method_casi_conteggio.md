@@ -7,8 +7,7 @@ tags:
 ---
 <img class="section-decor" src="../static/decor/method_casi_conteggio.webp" alt="" loading="lazy">
 
-
-*method* — **51** quesiti (italiani).
+<div class="area-hero"><div class="area-hero-eyebrow">Metodo</div><h1 class="area-hero-title">Conteggio per casi</h1><p class="area-hero-lead"><strong>51</strong> quesiti risolti con questo metodo.</p></div>
 
 ## Quesiti
 

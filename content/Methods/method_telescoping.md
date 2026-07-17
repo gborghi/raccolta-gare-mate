@@ -7,8 +7,7 @@ tags:
 ---
 <img class="section-decor" src="../static/decor/method_telescoping.webp" alt="" loading="lazy">
 
-
-*method* — **74** quesiti (italiani).
+<div class="area-hero"><div class="area-hero-eyebrow">Metodo</div><h1 class="area-hero-title">Somme telescopiche</h1><p class="area-hero-lead"><strong>74</strong> quesiti risolti con questo metodo.</p></div>
 
 ## Quesiti
 

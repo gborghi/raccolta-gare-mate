@@ -19,6 +19,20 @@ function fixGraphLabel() {
 fixGraphLabel()
 document.addEventListener("nav", fixGraphLabel)
 
+// Left-sidebar toggle. A collapsed/expanded preference is persisted in localStorage and
+// reflected as a `left-collapsed` class on <body>; custom.scss reflows the grid to reclaim
+// the column and clips the sidebar to nothing (the fixed search modal still escapes, exactly
+// like on the home page). Re-applied on every SPA nav because micromorph re-renders <body>
+// from the server HTML, which never carries the class.
+const LEFT_KEY = "raccolta-left-collapsed"
+function applyLeftCollapsed() {
+  const collapsed = localStorage.getItem(LEFT_KEY) === "1"
+  document.body.classList.toggle("left-collapsed", collapsed)
+  document.querySelector(".navbar-toggle-left")?.setAttribute("aria-expanded", String(!collapsed))
+}
+applyLeftCollapsed()
+document.addEventListener("nav", applyLeftCollapsed)
+
 // Wire the two masthead icon buttons to the existing Quartz controls that live in the
 // left sidebar (search modal + darkmode). We delegate on `document` — which persists
 // across SPA navigations — so a single listener keeps working without rebinding, and no
@@ -35,6 +49,10 @@ if (!(window as any).__navbarToolsBound) {
     } else if (el.closest(".navbar-dark")) {
       e.preventDefault()
       ;(document.querySelector(".darkmode") as HTMLElement | null)?.click()
+    } else if (el.closest(".navbar-toggle-left")) {
+      e.preventDefault()
+      localStorage.setItem(LEFT_KEY, localStorage.getItem(LEFT_KEY) === "1" ? "0" : "1")
+      applyLeftCollapsed()
     }
   })
 }

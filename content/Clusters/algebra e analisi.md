@@ -5,17 +5,9 @@ cluster: Algebra e Analisi
 tags:
   - graph/cluster
 ---
-<img class="section-decor" src="../static/decor/Algebra-e-Analisi.webp" alt="" loading="lazy">
+<img class="section-decor" src="../static/decor/algebra-e-analisi.webp" alt="" loading="lazy">
 
-
-Macro-area. **1829** quesiti.
-
-## Topic inclusi
-
-- [[topic_algebra|Algebra]] — 1504 quesiti
-- [[topic_funzionali|Equazioni funzionali / successioni]] — 245 quesiti
-- [[topic_disuguaglianze|Disuguaglianze]] — 130 quesiti
-- [[topic_insiemi_funzioni|Insiemi e funzioni]] — 66 quesiti
+<div class="area-hero"><div class="area-hero-eyebrow">Macro-area</div><h1 class="area-hero-title">Algebra e Analisi</h1><p class="area-hero-lead"><strong>1.829</strong> quesiti su algebra, equazioni funzionali / successioni, disuguaglianze e insiemi e funzioni.</p><div class="area-hero-chips"><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_algebra"><span class="area-chip-name">Algebra</span><span class="area-chip-n">1.504</span></a><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_funzionali"><span class="area-chip-name">Equazioni funzionali / successioni</span><span class="area-chip-n">245</span></a><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_disuguaglianze"><span class="area-chip-name">Disuguaglianze</span><span class="area-chip-n">130</span></a><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_insiemi_funzioni"><span class="area-chip-name">Insiemi e funzioni</span><span class="area-chip-n">66</span></a></div></div>
 
 ## Quesiti
 

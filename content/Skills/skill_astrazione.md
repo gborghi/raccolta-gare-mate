@@ -7,8 +7,7 @@ tags:
 ---
 <img class="section-decor" src="../static/decor/skill_astrazione.webp" alt="" loading="lazy">
 
-
-*skill* — **340** quesiti (italiani).
+<div class="area-hero"><div class="area-hero-eyebrow">Abilità</div><h1 class="area-hero-title">Astrazione / generalizzazione</h1><p class="area-hero-lead"><strong>340</strong> quesiti che richiedono questa abilità.</p></div>
 
 ## Quesiti
 

@@ -107,7 +107,8 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   modeBtn.className = "qtable-modebtn"
   modeBtn.type = "button"
   const syncModeBtn = () => {
-    modeBtn.textContent = mode === "content" ? "Ricerca: contenuto completo" : "Ricerca: titolo/gara"
+    modeBtn.textContent =
+      mode === "content" ? "Ricerca: contenuto completo" : "Ricerca: titolo/gara"
     modeBtn.setAttribute("aria-pressed", String(mode === "content"))
   }
   syncModeBtn()
@@ -190,9 +191,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
           const kw = kwCache?.[r.href]
           return kw ? kw.includes(q) : false
         }
-        return (
-          r.summary.toLowerCase().includes(q) || r.competition.toLowerCase().includes(q)
-        )
+        return r.summary.toLowerCase().includes(q) || r.competition.toLowerCase().includes(q)
       })
       .sort(cmp)
     const pages = perPage === 0 ? 1 : Math.max(1, Math.ceil(shown.length / perPage))
@@ -218,19 +217,18 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
     const body =
       "<tbody>" +
       pageRows
-        .map(
-          (r) =>
-            (() => {
-              const n = nation(r)
-              return (
-                `<tr>${flagCell(n, prefix)}` +
-                `<td>${esc(r.competition)}</td>` +
-                `<td>${esc(String(r.year))}</td>` +
-                `<td>${esc(r.level)}</td>` +
-                `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-                `<td>${esc(String(r.quesito))}</td></tr>`
-              )
-            })(),
+        .map((r) =>
+          (() => {
+            const n = nation(r)
+            return (
+              `<tr>${flagCell(n, prefix)}` +
+              `<td>${esc(r.competition)}</td>` +
+              `<td>${esc(String(r.year))}</td>` +
+              `<td>${esc(r.level)}</td>` +
+              `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
+              `<td>${esc(String(r.quesito))}</td></tr>`
+            )
+          })(),
         )
         .join("") +
       "</tbody>"
@@ -297,9 +295,9 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
 }
 
 async function init() {
-  const placeholders = Array.from(
-    document.querySelectorAll<HTMLElement>("div.qtable"),
-  ).filter((el) => !el.dataset.rendered)
+  const placeholders = Array.from(document.querySelectorAll<HTMLElement>("div.qtable")).filter(
+    (el) => !el.dataset.rendered,
+  )
   if (!placeholders.length) return
 
   const slug = document.body.dataset.slug || ""
@@ -329,7 +327,10 @@ async function init() {
 // fixed CSS offsets — breadcrumb height varies). No-op on pages without a decor img.
 function positionDecor() {
   const img = document.querySelector<HTMLImageElement>("img.section-decor")
-  const title = document.querySelector<HTMLElement>(".center .article-title")
+  // concept pages hide the plugin article-title and carry the title inside the area-hero card
+  const title =
+    document.querySelector<HTMLElement>(".center .area-hero-title") ??
+    document.querySelector<HTMLElement>(".center .article-title")
   const center = img?.closest<HTMLElement>(".center")
   if (!img || !title || !center) return
   const place = () => {

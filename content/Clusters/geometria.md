@@ -5,17 +5,9 @@ cluster: Geometria
 tags:
   - graph/cluster
 ---
-<img class="section-decor" src="../static/decor/Geometria.webp" alt="" loading="lazy">
+<img class="section-decor" src="../static/decor/geometria.webp" alt="" loading="lazy">
 
-
-Macro-area. **2832** quesiti.
-
-## Topic inclusi
-
-- [[topic_geometria_piana|Geometria piana]] — 2179 quesiti
-- [[topic_geometria_solida|Geometria solida]] — 603 quesiti
-- [[topic_geometria_analitica|Geometria analitica]] — 104 quesiti
-- [[topic_trigonometria|Trigonometria]] — 54 quesiti
+<div class="area-hero"><div class="area-hero-eyebrow">Macro-area</div><h1 class="area-hero-title">Geometria</h1><p class="area-hero-lead"><strong>2.832</strong> quesiti su geometria piana, geometria solida, geometria analitica e trigonometria.</p><div class="area-hero-chips"><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_geometria_piana"><span class="area-chip-name">Geometria piana</span><span class="area-chip-n">2.179</span></a><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_geometria_solida"><span class="area-chip-name">Geometria solida</span><span class="area-chip-n">603</span></a><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_geometria_analitica"><span class="area-chip-name">Geometria analitica</span><span class="area-chip-n">104</span></a><a class="area-chip" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_trigonometria"><span class="area-chip-name">Trigonometria</span><span class="area-chip-n">54</span></a></div></div>
 
 ## Quesiti
 

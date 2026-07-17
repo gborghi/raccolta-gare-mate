@@ -7,8 +7,7 @@ tags:
 ---
 <img class="section-decor" src="../static/decor/skill_lettura_attenta.webp" alt="" loading="lazy">
 
-
-*skill* — **218** quesiti (italiani).
+<div class="area-hero"><div class="area-hero-eyebrow">Abilità</div><h1 class="area-hero-title">Lettura attenta del testo</h1><p class="area-hero-lead"><strong>218</strong> quesiti che richiedono questa abilità.</p></div>
 
 ## Quesiti
 

@@ -48,6 +48,35 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
         </div>
 
         <div class="navbar-tools">
+          <button
+            class="navbar-icon navbar-toggle-left"
+            type="button"
+            aria-label="Mostra/nascondi barra laterale"
+            aria-expanded="true"
+          >
+            <svg viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">
+              <rect
+                x="2.5"
+                y="3.5"
+                width="15"
+                height="13"
+                rx="2.5"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.6"
+              />
+              <line x1="8" y1="3.5" x2="8" y2="16.5" stroke="currentColor" stroke-width="1.6" />
+              <rect
+                x="3.6"
+                y="4.6"
+                width="3.6"
+                height="10.8"
+                rx="1"
+                fill="currentColor"
+                opacity="0.5"
+              />
+            </svg>
+          </button>
           <button class="navbar-icon navbar-search" type="button" aria-label="Cerca nel testo">
             <svg viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">
               <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.8" />
@@ -64,7 +93,14 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
           </button>
           <button class="navbar-icon navbar-dark" type="button" aria-label="Cambia tema">
             <svg class="navbar-sun" viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">
-              <circle cx="10" cy="10" r="4.5" fill="none" stroke="currentColor" stroke-width="1.7" />
+              <circle
+                cx="10"
+                cy="10"
+                r="4.5"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.7"
+              />
               <g stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
                 <line x1="10" y1="1.5" x2="10" y2="3.6" />
                 <line x1="10" y1="16.4" x2="10" y2="18.5" />
