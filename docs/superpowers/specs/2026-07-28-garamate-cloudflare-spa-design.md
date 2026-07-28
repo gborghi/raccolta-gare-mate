@@ -193,6 +193,23 @@ No repo secrets needed (deploy is local, authenticated via `wrangler login`).
 - gh-pages mirror still loads.
 - File-count gate passed before publish.
 
+## Post-planning refinements (2026-07-28)
+
+Two facts found while writing the SP1 plan
+(`docs/superpowers/plans/2026-07-28-per-gara-spa.md`) refine this design:
+
+1. **Containers reuse `Quesiti/<stem>`, not a new `gare/` folder.** Math quesiti already live
+   under `Quesiti/` and each gara's index note already sits at slug `Quesiti/<stem>`. Emitting
+   the reader container at that same slug replaces the index page and keeps every gara URL
+   unchanged — strictly better for "UX unaltered." References to `content/gare/<gara>.md` above
+   should read `content/Quesiti/<stem>.md`; `explorer` keeps excluding `Quesiti/` (no new
+   exclusion needed).
+2. **The qlang IT/EN toggle (Q1=B) is already built.** `preprocess.mjs` (lines ~288–337)
+   already collects `translation_of` siblings and merges them with `qlang-switch` /
+   `qlang-split` markers, and `qlang.inline.ts` already ships. SP1 only has to preserve those
+   markers inside each concatenated atom blob (atomRouter carries them opaquely) and ensure
+   qlang re-binds on the `atomrender` event.
+
 ## Out of scope
 
 - External assets repo / image offload (not needed under the cap).
