@@ -10,6 +10,7 @@ interface CustomEventMap {
   themechange: CustomEvent<{ theme: "light" | "dark" }>
   readermodechange: CustomEvent<{ mode: "on" | "off" }>
   render: CustomEvent<{}>
+  atomrender: CustomEvent<{}>
 }
 
 type ContentIndex = Record<FullSlug, ContentDetails>

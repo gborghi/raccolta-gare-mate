@@ -14,6 +14,8 @@ import cercaScript from "../../components/scripts/cerca.inline"
 import navbarScript from "../../components/scripts/navbar.inline"
 // @ts-ignore
 import qlangScript from "../../components/scripts/qlang.inline"
+// @ts-ignore
+import atomRouterScript from "../../components/scripts/atomRouter.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -275,6 +277,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   componentResources.afterDOMLoaded.push(cercaScript)
   componentResources.afterDOMLoaded.push(navbarScript)
   componentResources.afterDOMLoaded.push(qlangScript)
+  // SPA reader: must run AFTER qlang so qlang's "nav"/"atomrender" listeners are
+  // registered before atomRouter fires "atomrender" on its first render.
+  componentResources.afterDOMLoaded.push(atomRouterScript)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)

@@ -13,7 +13,10 @@ const LABEL: Record<string, string> = { it: "Italiano", en: "English" }
 
 function setupQlang() {
   const sw = document.querySelector(".qlang-switch") as HTMLElement | null
-  if (!sw) return
+  // qlangReady lets atomRouter re-scope this widget per atom swap: it clears the
+  // flag on the visible atom's switch before firing "atomrender", so we rebuild
+  // only that switch and skip ones already wired.
+  if (!sw || sw.dataset.qlangReady) return
   // The switch, the split marker, and all body nodes are SIBLINGS under the
   // rendered-markdown container (Quartz wraps content in
   // <article><div class="markdown-rendered">…</div></article>, so the nodes are
@@ -77,10 +80,14 @@ function setupQlang() {
     })
     sw.appendChild(b)
   }
+  sw.dataset.qlangReady = "1"
   apply(active)
 }
 
 document.addEventListener("nav", setupQlang)
+// atomRouter.inline.ts fires "atomrender" after swapping the visible quesito in a
+// gara reading page; re-poke so the newly-visible atom's own switch gets wired.
+document.addEventListener("atomrender", setupQlang)
 // Also run once on initial load in case the SPA router fired its first `nav`
 // before this listener was registered. setupQlang re-queries the DOM each time
 // and is safe to call repeatedly.
