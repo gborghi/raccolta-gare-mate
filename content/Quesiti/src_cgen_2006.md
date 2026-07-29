@@ -1,24 +1,230 @@
 ---
 title: Concours Général des Lycées 2006 — Matematica
 tipo: gara
-src_id: src_cgen_2006
 competition: Concours Général des Lycées 2006 — Matematica
 family: concours_generale
 year: '2006'
 level: Concours Général
-country: Francia
-modalita: individuale
-n_quesiti: '3'
-tags:
-  - kg/gara
-  - paese/francia
-  - comp/concours-generale
-  - anno/2006
-  - gara/individuale
 ---
+<div class="atom-reader" data-gara="Quesiti/src_cgen_2006"></div>
 
-Sorgente: [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
-- [[src_cgen_2006__Q01|Quesito 1]] — Iterated digit-rearrangement map f_q on the decimal digits of an integer; periodicity, fixed points and divisibility criteria
-- [[src_cgen_2006__Q02|Quesito 2]] — Hyperbola-type curve (1-x)(1-y)=a inside the unit square: nature, range of x+y and x^2+y^2, incircle/exscribed-circle radii of a triangle and an inequality involving the natural logarithm
-- [[src_cgen_2006__Q03|Quesito 3]] — Plane sections of a cube through its center: a projected-area formula, then bounding the area of triangular/quadrilateral/hexagonal cross-sections
+
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Iterated digit-rearrangement map f_q on the decimal digits of an integer; periodicity, fixed points and divisibility criteria*
+
+> If $n$ is a strictly positive natural number, write $\overline{a_i a_{i-1} \ldots a_1 a_0}$ for its decimal representation. Thus $n = 10^i a_i + 10^{i-1} a_{i-1} + \cdots + 10 a_1 + a_0$, where the digits $a_j$, $0 \le j \le i$, lie between $0$ and $9$, and $a_i \neq 0$.
+> Denote by $q$ an integer between $1$ and $9$ inclusive, set $p = 10q - 1$ and consider the function $f_q$ which to the integer $n = \overline{a_i a_{i-1} \ldots a_1 a_0}$ associates the integer:
+> $$f_q(n) = \overline{a_i a_{i-1} \ldots a_1} + q a_0 \text{ if } i \neq 0, \text{ then } f_q(n) = q a_0 \text{ if } i = 0.$$
+> Finally, with the integer $q$ fixed, associate to every integer $n$ the sequence $(n_k)$ defined by the relations $n_0 = n$ and, for every natural number $k$, $n_{k+1} = f_q(n_k)$. For example, if we fix $q = 5$, the sequence associated to $4907$ is $4907, 525, 77, 42, 14, 21, 7, 35, 28, 42, 14, \ldots$
+> 
+> 1. Verify that $f_q(n) = \frac{n + p a_0}{10}$. Deduce that $f_q(p) = p$.
+> 2. a. Show that, if $m > p$, then $f_q(m) < m$.
+>    b. Deduce that for every integer $n$, there exists an integer $j$ such that $n_j \le p$.
+> 3. a. Show that, if $m < p$, then $f_q(m) < p$.
+>    b. Deduce that for every integer $n$, the sequence $(n_k)$ is periodic from a certain rank on, that is, there exist integers $k$ and $T$ ($T > 0$) such that $n_{j+T} = n_j$ for all $j \ge k$.
+> 4. Establish that, for every integer $n$, $f_q(n)$ is congruent to $q \times n$ modulo $p$.
+> 5. For which values of $q$ does the function $f_q$ have fixed points (that is, integers $m$ such that $f_q(m) = m$) other than $p$? What are these fixed points in that case?
+> 6. Show that, for suitable choices of $q$, the study of the sequence $(n_k)$ associated to an integer $n$ provides divisibility criteria of $n$ by $9$, $19$, $29$, $13$, $49$ and $7$. State these criteria.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mappa di riorganizzazione dei numeri iterata f_q sui numeri decimali di un numero intero; periodicità, punti fissi e criteri di divisibilità*
+
+> Se $n$ è un numero naturale strettamente positivo, scrivete $\overline{a_i a_{i-1} \ldots a_1 a_0}$ per la sua rappresentazione decimale. Quindi $n = 10^i a_i + 10^{i-1} a_{i-1} + \cdots + 10 a_1 + a_0$, dove le cifre $a_j$, $0 \le j \le i$, si trovano tra $0$ e $9$, e $a_i \neq 0$. Indicare con $q$ un numero intero tra $1$ e $9$ inclusivo, impostare $p = 10q - 1$ e considerare la funzione $f_q$ che associa al numero intero $n = \overline{a_i a_{i-1} \ldots a_1 a_0}$ il numero intero: $$f_q(n) = \overline{a_i a_{i-1} \ldots a_1} + q a_0 \text{ if } i \neq 0, \text{ then } f_q(n) = q a_0 \text{ if } i = 0.$$ Infine, con il numero intero $q$ fisso, associare a ogni numero intero $n$ la sequenza $(n_k)$ definita dalle relazioni $n_0 = n$ e, per ogni numero naturale $k$, $n_{k+1} = f_q(n_k)$. Ad esempio, se si fissa $q = 5$, la sequenza associata a $4907$ è $4907, 525, 77, 42, 14, 21, 7, 35, 28, 42, 14, \ldots$
+> 
+> 1. Verificare che $f_q(n) = \frac{n + p a_0}{10}$. Riduzione di $f_q(p) = p$. 2. a. Indicare che, se $m > p$, allora $f_q(m) < m$. b. Deduci che per ogni numero intero $n$, esiste un numero intero $j$ tale che $n_j \le p$. 3. a. Indicare che, se $m < p$, allora $f_q(m) < p$. b. Deduci che per ogni numero intero $n$, la sequenza $(n_k)$ è periodica da un certo rango su, cioè esistono numeri interi $k$ e $T$ ($T > 0$) tali che $n_{j+T} = n_j$ per tutti $j \ge k$. 4. Stabilire che, per ogni numero intero $n$, $f_q(n)$ è congruente a $q \times n$ modulo $p$. 5. Per quali valori di $q$ la funzione $f_q$ ha punti fissi (cioè enti $m$ tali che $f_q(m) = m$) diversi da $p$? Quali sono questi punti fissi in quel caso? 6. Indicare che, per le scelte appropriate di $q$, lo studio della sequenza $(n_k)$ associata a un numero intero $n$ fornisce criteri di divisibilità di $n$ da $9$, $19$, $29$, $13$, $49$ e $7$. Indicare questi criteri.
+
+[[src_cgen_2006__Q01]]
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_analitica,topic_disuguaglianze,method_induzione,method_disuguaglianze,method_simmetria,method_telescoping,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Hyperbola-type curve (1-x)(1-y)=a inside the unit square: nature, range of x+y and x^2+y^2, incircle/exscribed-circle radii of a triangle and an inequality involving the natural logarithm*
+
+> PART 1.
+> Let $a$ be a real number such that $0 < a < 1$.
+> In the plane referred to an orthonormal frame, let $\mathscr{H}$ be the set with equation $(1-x)(1-y) = a$, and let $\mathscr{H}_1$ be the set of points with coordinates $(x, y)$ of $\mathscr{H}$ such that $0 \le x \le 1$ and $0 \le y \le 1$.
+> 1. Specify the nature of $\mathscr{H}$. Represent $\mathscr{H}$ and $\mathscr{H}_1$.
+> 2. Show that, when the point of coordinates $(x, y)$ describes $\mathscr{H}_1$, the sum $x + y$ describes an interval to be specified.
+> 3. Determine the set of values of $x^2 + y^2$ when the point of coordinates $(x, y)$ describes $\mathscr{H}_1$.
+>    Hint: One may show that $(x, y)$ are the coordinates of a point of $\mathscr{H}$ and that, if $s = x + y$, then:
+>    $$x^2 + y^2 = s^2 - 2s + 2 - 2a$$
+> The results of the two following questions do not enter into the rest of the exercise.
+> 4. Determine, discussing according to the value of $a$, the number of intersection points of $\mathscr{H}_1$ and the circle with center $O$ and radius $\sqrt{2}\,(1 - \sqrt{a})$.
+> 5. Determine the area of the domain bounded by $\mathscr{H}_1$ and the coordinate axes.
+>    Deduce, for $a \in \left[\frac{1}{4}, 1\right[$, the inequality:
+>    $$\frac{\pi}{2}(1 - \sqrt{a})^2 \le 1 - a + a \ln a$$
+>    Does the equation
+>    $$\frac{\pi}{2}(1 - \sqrt{a})^2 = 1 - a + a \ln a$$
+>    admit a solution belonging to $\left]0, 1\right[$?
+> 
+> PART 2.
+> Given two distinct points $P$ and $Q$ of the plane, write $]PQ[$ for the set of points of the segment $[PQ]$ distinct from $P$ and $Q$.
+> In the plane, consider a triangle $ABC$ and denote by $h$ the length of the altitude from $A$.
+> Let $\Gamma$ be the circle inscribed in the triangle, $I$ its center and $r$ its radius.
+> Recall that $I$ is the point of intersection of the interior bisectors of $ABC$, that is, the point interior to the triangle satisfying $\widehat{IAB} = \widehat{IAC}$, $\widehat{IBC} = \widehat{IBA}$ and $\widehat{ICA} = \widehat{ICB}$.
+> Denote by $\Delta_B$ (respectively $\Delta_C$) the line through $B$ and orthogonal to $(BI)$ (respectively through $C$ and orthogonal to $(CI)$).
+> 1. Let $J$ be the point of intersection of $\Delta_B$ and $\Delta_C$.
+>    Show that the distances from $J$ to the three lines $(AB)$, $(BC)$, $(CA)$ are equal. Deduce that $J$ belongs to the line $(AI)$ and is the center of a circle $\Gamma'$ tangent to the lines $(AB)$, $(BC)$, $(CA)$.
+>    The circle $\Gamma'$ is called the circle exscribed in the angle $A$ of the triangle $ABC$.
+> 2. By examining the angles of the triangles in question, show that $AIC$ is similar to $ABJ$ and that $AIB$ is similar to $ACJ$.
+>    Deduce $AI \cdot AJ = AB \cdot AC$.
+> 3. Let $f$ be the homothety with center $A$ that sends $J$ onto $I$.
+>    Specify the image under $f$ of the circle $\Gamma'$ and of the line $(BC)$. Deduce:
+>    $$\frac{AI}{AJ} = \frac{h - 2r}{h}$$
+> Now let $D$ be a point of $]BC[$.
+> Denote by $I_1$ and $I_2$ the centers of the circles inscribed in the triangles $ABD$ and $ACD$, and by $r_1$ and $r_2$ their radii; finally denote by $J_1$ and $J_2$ the centers of the circles exscribed in the angle $A$ of the triangles $ABD$ and $ACD$.
+> 4. Show that the triangles $AI_1 J_2$ and $AIC$ are similar. Likewise, the triangles $AI_2 J_1$ and $AIB$ are similar.
+> 5. By expressing $\frac{AI_1}{AJ_2} \cdot \frac{AI_2}{AJ_1}$ in two different ways, establish the relation:
+>    $$h(h - 2r) = (h - 2r_1)(h - 2r_2)$$
+> 
+> PART 3.
+> Keep the notations $ABC$, $h$, $r$ given in the second part.
+> In questions 1. and 2., for every point $D$ of $]BC[$, the radii of the circles inscribed in the triangles $ABD$ and $ACD$ are denoted $r_1(D)$ and $r_2(D)$, or simply $r_1$ and $r_2$ when there is no ambiguity.
+> 1. Show that there exists a unique point $E$ of $]BC[$ such that $r_1(E) = r_2(E)$.
+> 2. a. Show that $E$ is the point of $]BC[$ for which $r_1 + r_2$ is maximal.
+>    b. Show that $E$ is the point of $]BC[$ for which $r_1^2 + r_2^2$ is minimal if and only if $8r \le 3h$.
+> 3. In this question, $n$ denotes a nonzero natural number and one writes $N = 2^n$.
+>    Consider $N+1$ distinct points $D_0, D_1, \ldots, D_{N-1}, D_N$ placed in this order on the segment $[BC]$: in other words, for every integer $i$ in $[1, N-1]$, the point $D_i$ belongs to $]D_{i-1} D_{i+1}[$. One supposes moreover that $D_0 = B$ and $D_N = C$.
+>    For every integer $i$ in $[1, N]$, write $r_i$ for the radius of the circle inscribed in the triangle $A D_{i-1} D_i$.
+>    a. With $n$ given, determine the maximal value of $r_1 + r_2 + \cdots + r_N$ when $D_1, \ldots, D_{N-1}$ vary in $[BC]$ respecting the conditions stated above.
+>       One will show, for example by induction on $n$, that this maximal value is attained when $r_1 = r_2 = \ldots = r_N$.
+>    b. Write $u_n$ for the maximal value found in a.
+>       Express $u_n$ as a function of $r$, $n$, $h$.
+>       Show that the sequence $(u_n)$ converges to a limit to be expressed as a function of $r$ and $h$.
+>    c. Suppose $8r \le 3h$.
+>       With the integer $n$ given, determine the minimal value $v_n$ of $r_1^2 + \cdots + r_N^2$.
+>       Show that the sequence $(2^n v_n)$ converges.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Curva di tipo iperbola (1-x)(1-y) = a all'interno del quadrato unitario: natura, intervallo di x+y e x^2+y^2, radii di circolo/circolo escritto di un triangolo e una disuguaglianza che coinvolge il logaritmo naturale*
+
+> PARTE 1. $a$ sia un numero reale tale che $0 < a < 1$. Nel piano di riferimento a un quadro ortonormale, $\mathscr{H}$ sia l'insieme con l'equazione $(1-x)(1-y) = a$, e $\mathscr{H}_1$ sia l'insieme di punti con le coordinate $(x, y)$ di $\mathscr{H}$ tali che $0 \le x \le 1$ e $0 \le y \le 1$. 1. Indicare la natura di $\mathscr{H}$. Rappresentano $\mathscr{H}$ e $\mathscr{H}_1$. 2. Indicare che, quando il punto delle coordinate $(x, y)$ descrive $\mathscr{H}_1$, la somma $x + y$ descrive un intervallo da specificare. 3. Determinare l'insieme dei valori di $x^2 + y^2$ quando il punto di coordinate $(x, y)$ descrive $\mathscr{H}_1$. Suggerimento: Si può dimostrare che $(x, y)$ sono le coordinate di un punto di $\mathscr{H}$ e che, se $s = x + y$, allora: $$x^2 + y^2 = s^2 - 2s + 2 - 2a$$ I risultati delle due domande seguenti non rientrano nel resto dell'esercizio. 4. Determinare, discutendo secondo il valore di $a$, il numero di punti di intersezione di $\mathscr{H}_1$ e il cerchio con centro $O$ e raggio $\sqrt{2}\,(1 - \sqrt{a})$. 5. Determinare l'area del dominio dilimitata da $\mathscr{H}_1$ e gli assi di coordinate. Deduci, per $a \in \left[\frac{1}{4}, 1\right[$, la disuguaglianza: $$\frac{\pi}{2}(1 - \sqrt{a})^2 \le 1 - a + a \ln a$$ La equazione $$\frac{\pi}{2}(1 - \sqrt{a})^2 = 1 - a + a \ln a$$ ammette una soluzione appartenente a $\left]0, 1\right[$?
+> 
+> PARTE 2 Se si considerano due punti distinti $P$ e $Q$ del piano, scrivere $]PQ[$ per l'insieme dei punti del segmento $[PQ]$ distinti da $P$ e $Q$. Nel piano, considerate un triangolo $ABC$ e indicate con $h$ la lunghezza dell'altitudine da $A$. $\Gamma$ sia il cerchio inscritto nel triangolo, $I$ il suo centro e $r$ il suo raggio. Ricordiamo che $I$ è il punto di intersezione dei bisettori interni di $ABC$, cioè il punto interno del triangolo che soddisfa $\widehat{IAB} = \widehat{IAC}$, $\widehat{IBC} = \widehat{IBA}$ e $\widehat{ICA} = \widehat{ICB}$. Indicare con $\Delta_B$ (rispettivamente $\Delta_C$) la linea attraverso $B$ e ortogonale a $(BI)$ (rispettivamente attraverso $C$ e ortogonale a $(CI)$). 1. Il $J$ deve essere il punto di intersezione di $\Delta_B$ e $\Delta_C$. Indicare che le distanze da $J$ alle tre linee $(AB)$, $(BC)$, $(CA)$ sono uguali. Deduci che $J$ appartiene alla linea $(AI)$ ed è il centro di un cerchio $\Gamma'$ tangente alle linee $(AB)$, $(BC)$, $(CA)$. Il cerchio $\Gamma'$ è chiamato il cerchio descritto nell'angolo $A$ del triangolo $ABC$. 2. Esaminando gli angoli dei triangoli in questione, dimostrare che $AIC$ è simile a $ABJ$ e che $AIB$ è simile a $ACJ$. Riduzione $AI \cdot AJ = AB \cdot AC$. 3. $f$ sia l'omogeneità con il centro $A$ che invia $J$ su $I$. Indicare l'immagine sotto $f$ del cerchio $\Gamma'$ e della riga $(BC)$. Riduzione: $$\frac{AI}{AJ} = \frac{h - 2r}{h}$$ Ora $D$ sia un punto di $]BC[$. Indicare con $I_1$ e $I_2$ i centri dei cerchi iscritti nei triangoli $ABD$ e $ACD$, e con $r_1$ e $r_2$ i loro raggi; indicare infine con $J_1$ e $J_2$ i centri dei cerchi esposti nell'angolo $A$ dei triangoli $ABD$ e $ACD$. 4. Indicare che i triangoli $AI_1 J_2$ e $AIC$ sono simili. Allo stesso modo, i triangoli $AI_2 J_1$ e $AIB$ sono simili. 5. Esprimendo $\frac{AI_1}{AJ_2} \cdot \frac{AI_2}{AJ_1}$ in due modi diversi, stabilire la relazione: $$h(h - 2r) = (h - 2r_1)(h - 2r_2)$$
+> 
+> PARTE 3 Conservare le notazioni $ABC$, $h$, $r$ indicate nella seconda parte. - La prima domanda. e 2, per ogni punto $D$ di $]BC[$, i radii dei cerchi inseriti nei triangoli $ABD$ e $ACD$ sono indicati $r_1(D)$ e $r_2(D)$, o semplicemente $r_1$ e $r_2$ quando non vi è ambiguità. 1. Indicare che esiste un punto unico $E$ di $]BC[$ tale da $r_1(E) = r_2(E)$. 2. a. Indicare che $E$ è il punto di $]BC[$ per il quale $r_1 + r_2$ è massimo. b. Indicare che $E$ è il punto di $]BC[$ per il quale $r_1^2 + r_2^2$ è minimo se e solo se $8r \le 3h$. 3. In questa domanda, $n$ indica un numero naturale non zero e uno scrive $N = 2^n$. Considerare $N+1$ punti distinti $D_0, D_1, \ldots, D_{N-1}, D_N$ inseriti in questo ordine sul segmento $[BC]$: in altre parole, per ogni numero intero $i$ in $[1, N-1]$, il punto $D_i$ appartiene a $]D_{i-1} D_{i+1}[$. Si suppone inoltre che $D_0 = B$ e $D_N = C$. Per ogni numero intero $i$ in $[1, N]$, scrivere $r_i$ per il raggio del cerchio inserito nel triangolo $A D_{i-1} D_i$. a. Con $n$ indicato, determinare il valore massimo di $r_1 + r_2 + \cdots + r_N$ quando $D_1, \ldots, D_{N-1}$ varia in $[BC]$ rispettando le condizioni sopra indicate. Si mostrerà, ad esempio, mediante l'induzione su $n$, che questo valore massimo viene raggiunto quando $r_1 = r_2 = \ldots = r_N$. b. Scrivere $u_n$ per il valore massimo trovato in a. Esprimere $u_n$ come funzione di $r$, $n$, $h$. Indicare che la sequenza $(u_n)$ converge a un limite da esprimere come funzione di $r$ e $h$. c. Supponiamo $8r \le 3h$. Con il numero intero $n$ indicato, determinare il valore minimo $v_n$ di $r_1^2 + \cdots + r_N^2$. Indicare che la sequenza $(2^n v_n)$ converge.
+
+[[src_cgen_2006__Q02]]
+
+
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_disuguaglianze,method_coordinate,method_casework,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Plane sections of a cube through its center: a projected-area formula, then bounding the area of triangular/quadrilateral/hexagonal cross-sections*
+
+> The aim of this exercise is to study the intersections of a cube with planes passing through its center, and to bound the area of the plane sections thus obtained.
+> 
+> 3.1 A formula for computing plane areas
+> Space is referred to an orthonormal frame $(O; \vec{i}, \vec{j}, \vec{k})$.
+> Let $\mathscr{P}$ be a plane, with unit normal vector $\vec{n}$. Set $\vec{n} \cdot \vec{k} = \cos\gamma$, and denote by $\mathscr{P}_0$ the plane with frame $(O, \vec{i}, \vec{j})$.
+> 1. Assume in this question that $\mathscr{P}$ and the plane $\mathscr{P}_0$ are not parallel.
+>    Let $\mathscr{D}$ be the line of intersection of the planes $\mathscr{P}$ and $\mathscr{P}_0$, $A$ and $B$ points of $\mathscr{D}$, $C$ a point of $\mathscr{P}$, $C'$ the orthogonal projection of $C$ on the plane $\mathscr{P}_0$ and finally $H$ the orthogonal projection of $C$ on the line $(AB)$.
+>    a. Justify the fact that $H$ is also the orthogonal projection of $C'$ on the line $(AB)$.
+>    b. Deduce a relation between the lengths $CH$, $C'H$ and the angle $\gamma$, then between the areas $S$ and $S'$ of the triangles $ABC$ and $ABC'$.
+>    c. Let $Q$ be a polygon contained in the plane $\mathscr{P}$, $Q'$ its orthogonal projection on the plane $\mathscr{P}_0$ and $S$ and $S'$ their respective areas. Show that:
+>    $$S' = S |\cos\gamma|$$
+> 2. What can be said in the particular case where $\mathscr{P}$ and the plane $(O, \vec{i}, \vec{j})$ are parallel?
+> 3. Set $\vec{n} \cdot \vec{i} = \cos\alpha$ and $\vec{n} \cdot \vec{j} = \cos\beta$.
+>    a. Show that the absolute values of the coordinates of $\vec{n}$ in the basis $(\vec{i}, \vec{j}, \vec{k})$ are $|\cos\alpha|$, $|\cos\beta|$ and $|\cos\gamma|$.
+>    b. Let $Q$ be a polygon contained in the plane $\mathscr{P}$, $S$ its area, $S'$, $S''$ and $S'''$ the areas of its projections respectively onto the frame planes $(O, \vec{i}, \vec{j})$, $(O, \vec{j}, \vec{k})$ and $(O, \vec{k}, \vec{i})$.
+>       Show that: $S^2 = S'^2 + S''^2 + S'''^2$.
+> 
+> 3.2 Plane sections of a cube
+> 3.2.1 Generalities
+> Space being referred to the orthonormal frame $(O; \vec{i}, \vec{j}, \vec{k})$, consider the cube $\mathscr{K}$ with center $O$ represented opposite, whose vertices have coordinates:
+> $A(1, 1, 1)$, $B(-1, 1, 1)$, $C(-1, -1, 1)$, $D(1, -1, 1)$, $A'(-1, -1, -1)$, $B'(1, -1, -1)$, $C'(1, 1, -1)$, $D'(-1, 1, -1)$,
+> as well as a plane $\mathscr{P}$ passing through $O$, whose intersection with $\mathscr{K}$ is a polygon $\mathscr{A}$.
+> 1. Show that $\mathscr{P}$ contains $0$, $2$ or $4$ vertices of $\mathscr{K}$.
+> 2. How many planes $\mathscr{P}$ containing $4$ vertices of $\mathscr{K}$ are there? Determine in that case the nature of $\mathscr{A}$ as well as its area.
+> 3. Suppose $\mathscr{P}$ contains exactly two vertices of $\mathscr{K}$, $A$ and $A'$.
+>    a. Show that $\mathscr{P}$ meets one of the three edges $[BC]$, $[CD]$ or $[BD']$.
+>    b. Suppose $\mathscr{P}$ meets the edge $[BC]$ at a point of coordinates $(-1, y, 1)$. Determine, according to the value of $y$, the exact nature of $\mathscr{A}$ and compute its area.
+>    c. Give, in this case, the best possible bound on the area of $\mathscr{A}$ when $y$ varies.
+> 4. Suppose $\mathscr{P}$ contains no vertex of $\mathscr{K}$.
+>    a. Show that each of the half-spaces bounded by $\mathscr{P}$ contains exactly $4$ vertices of $\mathscr{K}$.
+>    b. Prove that $\mathscr{P}$ meets $4$ or $6$ edges of $\mathscr{K}$.
+> From now on one considers only planes $\mathscr{P}$ containing no vertex of $\mathscr{K}$.
+> 
+> 3.2.2 Planes $\mathscr{P}$ meeting 4 edges of $\mathscr{K}$
+> Consider a plane $\mathscr{P}$ meeting the edge $[AB]$ at a point $M$ of coordinates $(u, 1, 1)$ and the edge $[CD]$ at a point $N$ of coordinates $(v, -1, 1)$.
+> 1. Determine, according to the values of $u$ and $v$, the exact nature of $\mathscr{A}$ and compute its area.
+> 2. Give, in this case, the best possible bound on the area of $\mathscr{A}$ when $u$ and $v$ vary.
+> 
+> 3.2.3 Planes $\mathscr{P}$ meeting 6 edges of $\mathscr{K}$
+> Consider a plane $\mathscr{P}$ meeting the edge $[AB]$ at a point $M$ of coordinates $(x, 1, 1)$ and the edge $[BC]$ at a point $N$ of coordinates $(-1, y, 1)$.
+> 1. Show that $\mathscr{P}$ meets the edge $[C'A]$ at a point $R$ of coordinates $(-1, -1, z)$. Give, on a freehand sketch, the geometric construction of the point $R$, the points $M$ and $N$ being given.
+> 2. Establish that the three real numbers $x$, $y$ and $z$ are linked by the relation:
+>    $$(1) \qquad x + y + z + xyz = 0$$
+> 3. Draw the polygon $\mathscr{A}$ for $x = y = z = 0$ and compute its area.
+> 4. Show that the area $S$ of $\mathscr{A}$ satisfies the relation:
+>    $$S^2 = (3 - x + y + xy)^2 + (3 + x - z + xz)^2 + (3 - y + z + yz)^2$$
+>    One sets from now on:
+>    $$f(x, y, z) = (3 - x + y + xy)^2 + (3 + x - z + xz)^2 + (3 - y + z + yz)^2$$
+> 5. Determine the set of values of $S$ when the points $M$ and $N$ vary in such a way that $x + y = 0$.
+> 6. Given strictly positive reals $u$, $v$ and $w$, set $x = \frac{u-1}{u+1}$, $y = \frac{v-1}{v+1}$ and $z = \frac{w-1}{w+1}$.
+>    a. Verify that, when the triple $(x, y, z)$ satisfies relation $(1)$, one has $uvw = 1$ and $z = \frac{1 - uv}{1 + uv}$.
+>    b. One sets:
+>       $$g(u, v) = f\left(\frac{u-1}{u+1}, \frac{v-1}{v+1}, \frac{1-uv}{1+uv}\right)$$
+>       and one admits that one has the relation:
+>       $$g(u, v) = 32 \frac{(1 + v + uv)^2 \left(1 + u + u^2 + uv + u^2 v + u^2 v^2\right)}{(1 + u)^2 (1 + v)^2 (1 + uv)^2}$$
+>       Show that one has, for every couple $(u, v)$ of strictly positive reals, the bound:
+>       $$24 \le g(u, v) \le 32$$
+>       Deduce, in this case of figure, the best possible bound on the area of $\mathscr{A}$ when $x$ and $y$ vary.
+
+![[src_cgen_2006__Q03.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sezioni piane di un cubo attraverso il suo centro: una formula di area proiettata, che confina poi l'area delle sezioni trasversali triangolari/quadrilaterali/esagonali*
+
+> L'obiettivo di questo esercizio è quello di studiare le intersezioni di un cubo con piani che passano attraverso il suo centro, e di legare l'area delle sezioni di piano così ottenute.
+> 
+> 3.1 Una formula per il calcolo delle superfici a piano Spazio si riferisce a un quadro ortonormale $(O; \vec{i}, \vec{j}, \vec{k})$. Il $\mathscr{P}$ deve essere un piano, con vettore unitario normale $\vec{n}$. Impostare $\vec{n} \cdot \vec{k} = \cos\gamma$ e indicare con $\mathscr{P}_0$ il piano con telaio $(O, \vec{i}, \vec{j})$. 1. Supponiamo in questa domanda che $\mathscr{P}$ e il piano $\mathscr{P}_0$ non siano paralleli. Che $\mathscr{D}$ sia la linea di intersezione dei piani $\mathscr{P}$ e $\mathscr{P}_0$, $A$ e $B$ punti di $\mathscr{D}$, $C$ un punto di $\mathscr{P}$, $C'$ la proiezione ortogonale di $C$ sul piano $\mathscr{P}_0$ e infine $H$ la proiezione ortogonale di $C$ sulla linea $(AB)$. a. giustificare il fatto che $H$ è anche la proiezione ortogonale di $C'$ sulla linea $(AB)$. b. Riduzione di una relazione tra le lunghezze $CH$, $C'H$ e l'angolo $\gamma$, quindi tra le aree $S$ e $S'$ dei triangoli $ABC$ e $ABC'$. c. Che $Q$ sia un poligono contenuto nel piano $\mathscr{P}$, $Q'$ la sua proiezione ortogonale sul piano $\mathscr{P}_0$ e $S$ e $S'$ le rispettive aree. Indicare che: $$S' = S |\cos\gamma|$$ 2. Cosa si può dire nel caso particolare in cui $\mathscr{P}$ e il piano $(O, \vec{i}, \vec{j})$ siano paralleli? 3. Set $\vec{n} \cdot \vec{i} = \cos\alpha$ e $\vec{n} \cdot \vec{j} = \cos\beta$. a. Indicare che i valori assoluti delle coordinate di $\vec{n}$ nella base $(\vec{i}, \vec{j}, \vec{k})$ sono $|\cos\alpha|$, $|\cos\beta|$ e $|\cos\gamma|$. b. Il $Q$ deve essere un poligono contenuto nel piano $\mathscr{P}$, $S$, la sua superficie, $S'$, $S''$ e $S'''$ le aree delle sue proiezioni rispettivamente sui piani del telaio $(O, \vec{i}, \vec{j})$, $(O, \vec{j}, \vec{k})$ e $(O, \vec{k}, \vec{i})$. Mostra che: $S^2 = S'^2 + S''^2 + S'''^2$.
+> 
+> 3.2 Sezioni di piano di un cubo 3.2.1 Generalità Nel caso in cui lo spazio si riferisca alla cornice ortonormale $(O; \vec{i}, \vec{j}, \vec{k})$, si consideri il cubo $\mathscr{K}$ con centro $O$ rappresentato di fronte, le cui vertici hanno coordinate: $A(1, 1, 1)$, $B(-1, 1, 1)$, $C(-1, -1, 1)$, $D(1, -1, 1)$, $A'(-1, -1, -1)$, $B'(1, -1, -1)$, $C'(1, 1, -1)$, $D'(-1, 1, -1)$, nonché un piano $\mathscr{P}$ che attraversa $O$, la cui intersezione con $\mathscr{K}$ è un poligono $\mathscr{A}$. 1. Indicare che $\mathscr{P}$ contiene $0$, $2$ o $4$ vertici di $\mathscr{K}$. 2. Quanti piani $\mathscr{P}$ contengono le vertici $4$ di $\mathscr{K}$? Determinare in tal caso la natura del $\mathscr{A}$ e la sua superficie. 3. Supponiamo che $\mathscr{P}$ contenga esattamente due vertici di $\mathscr{K}$, $A$ e $A'$. a. Indicare che $\mathscr{P}$ incontra uno dei tre bordi $[BC]$, $[CD]$ o $[BD']$. b. Supponiamo che $\mathscr{P}$ incontra il bordo $[BC]$ in un punto di coordinate $(-1, y, 1)$. Determinare, secondo il valore di $y$, la natura esatta di $\mathscr{A}$ e calcolare la sua superficie. c. Indicare, in questo caso, il limite migliore possibile sulla superficie di $\mathscr{A}$ quando $y$ varia. 4. Supponiamo che $\mathscr{P}$ non contenga alcuna vertice di $\mathscr{K}$. a. Indicare che ciascun mezzo spazio dilimitato da $\mathscr{P}$ contiene esattamente $4$ vertici di $\mathscr{K}$. b. Prova che $\mathscr{P}$ incontra $4$ o $6$ bordi di $\mathscr{K}$. Da ora in poi si considera solo piani $\mathscr{P}$ che non contengono vertici di $\mathscr{K}$.
+> 
+> 3.2.2 Piani $\mathscr{P}$ che incontrano 4 bordi di $\mathscr{K}$ Considera un piano $\mathscr{P}$ che incontra il bordo $[AB]$ in un punto $M$ delle coordinate $(u, 1, 1)$ e il bordo $[CD]$ in un punto $N$ delle coordinate $(v, -1, 1)$. 1. Determinare, secondo i valori di $u$ e $v$, la natura esatta di $\mathscr{A}$ e calcolare la sua superficie. 2. Indicare, in questo caso, il limite migliore possibile sulla superficie di $\mathscr{A}$ quando $u$ e $v$ variano.
+> 
+> 3.2.3 Piani $\mathscr{P}$ che incontrano 6 bordi di $\mathscr{K}$ Considera un piano $\mathscr{P}$ che incontra il bordo $[AB]$ in un punto $M$ delle coordinate $(x, 1, 1)$ e il bordo $[BC]$ in un punto $N$ delle coordinate $(-1, y, 1)$. 1. Indicare che $\mathscr{P}$ incontra il bordo $[C'A]$ in un punto $R$ delle coordinate $(-1, -1, z)$. Indicare, su uno schizzo a mano libera, la costruzione geometrica del punto $R$, con i punti $M$ e $N$. 2. Stabilire che i tre numeri reali $x$, $y$ e $z$ sono legati dalla relazione: $$(1) \qquad x + y + z + xyz = 0$$ 3. Disegnare il poligono $\mathscr{A}$ per $x = y = z = 0$ e calcolare la sua superficie. 4. Indicare che l'area $S$ di $\mathscr{A}$ soddisfa la relazione: $$S^2 = (3 - x + y + xy)^2 + (3 + x - z + xz)^2 + (3 - y + z + yz)^2$$ Una serie da ora in poi: $$f(x, y, z) = (3 - x + y + xy)^2 + (3 + x - z + xz)^2 + (3 - y + z + yz)^2$$ 5. Determinare l'insieme dei valori di $S$ quando i punti $M$ e $N$ variano in modo tale che $x + y = 0$. 6. Date le valori rigorosamente positive $u$, $v$ e $w$, impostate $x = \frac{u-1}{u+1}$, $y = \frac{v-1}{v+1}$ e $z = \frac{w-1}{w+1}$. a. Verificare che, quando il triplo $(x, y, z)$ soddisfa la relazione $(1)$, si abbia $uvw = 1$ e $z = \frac{1 - uv}{1 + uv}$. b. Un insieme: $$g(u, v) = f\left(\frac{u-1}{u+1}, \frac{v-1}{v+1}, \frac{1-uv}{1+uv}\right)$$ e uno ammette che si ha la relazione: $$g(u, v) = 32 \frac{(1 + v + uv)^2 \left(1 + u + u^2 + uv + u^2 v + u^2 v^2\right)}{(1 + u)^2 (1 + v)^2 (1 + uv)^2}$$ Mostra che si ha, per ogni coppia $(u, v)$ di reali strettamente positivi, il limite: $$24 \le g(u, v) \le 32$$ Ridurre, in questo caso di figura, il limite migliore possibile sull'area di $\mathscr{A}$ quando $x$ e $y$ variano.
+
+![[src_cgen_2006__Q03.png]]
+
+[[src_cgen_2006__Q03]]

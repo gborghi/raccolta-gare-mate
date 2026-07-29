@@ -1,37 +1,553 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A
 tipo: gara
-src_id: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
 family: archimede
 year: '2010'
 level: squadre
-country: Italia
-modalita: squadre
-n_quesiti: '16'
-tags:
-  - kg/gara
-  - paese/italia
-  - comp/archimede
-  - anno/2010
-  - gara/squadre
 ---
+<div class="atom-reader" data-gara="Quesiti/src_gas_2010_semifinale_a"></div>
 
-Sorgente: [apri PDF](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
 
-- [[src_gas_2010_semifinale_a__Q01|Quesito 1]] — Risposta n auto-referenziale a (n-1)(n-2)+2
-- [[src_gas_2010_semifinale_a__Q02|Quesito 2]] — Conteggio bugiardi in cerchio con affermazioni sui vicini
-- [[src_gas_2010_semifinale_a__Q03|Quesito 3]] — Massimi dobloni per pirata con divisione esatta e +11
-- [[src_gas_2010_semifinale_a__Q04|Quesito 4]] — Differenza conteggio simboli in triangolo ciclico di 10000 righe
-- [[src_gas_2010_semifinale_a__Q05|Quesito 5]] — Minimo a=n^3+2n^2 quadrato di intero dispari
-- [[src_gas_2010_semifinale_a__Q06|Quesito 6]] — Massimo a con a^2+100a+1 quadrato perfetto
-- [[src_gas_2010_semifinale_a__Q07|Quesito 7]] — Media scalini tra piani con rampe crescenti su 200 piani
-- [[src_gas_2010_semifinale_a__Q08|Quesito 8]] — Valore atteso anni dalla riga della tessera rossa nel triangolo
-- [[src_gas_2010_semifinale_a__Q09|Quesito 9]] — Velocita nave da calo stimato di 1 minuto ogni 7 miglia
-- [[src_gas_2010_semifinale_a__Q10|Quesito 10]] — Prezzo ottimale spade per massimizzare i guadagni
-- [[src_gas_2010_semifinale_a__Q11|Quesito 11]] — Massima velocita inseguitore con rotta alternata a due direzioni
-- [[src_gas_2010_semifinale_a__Q12|Quesito 12]] — Conteggio righe dispari nel triangolo di Tartaglia (1600-1728)
-- [[src_gas_2010_semifinale_a__Q13|Quesito 13]] — Lunghezza segmento bisettrice in triangolo isoscele 120 gradi
-- [[src_gas_2010_semifinale_a__Q14|Quesito 14]] — Massimi numeri di 5 cifre con cifre 0-9, uno doppio dell'altro
-- [[src_gas_2010_semifinale_a__Q15|Quesito 15]] — Massima area quadrilatero in semicerchio con angoli dati
-- [[src_gas_2010_semifinale_a__Q16|Quesito 16]] — Tentativi massimi per aprire scrigno con 4 serrature e vincolo
+
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_logica,method_fattorizzazione,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Risposta n auto-referenziale a (n-1)(n-2)+2*
+
+> La ciurma per la gara
+> La più prestigiosa gara di matematica per π-rati dei Caraibi è la Big Whoop Cup, che quest’anno si giocherà
+> il 7 maggio, nell’anno del signore 1726. Capitan Jack Disparrow, aiutato dal fedele amico Mastro Gibbs,
+> approda a Tortuga per reclutare una nuova ciurma per la sua nave, la Perla Vera. All’ennesimo candidato
+> π-rata che si presenta con l’aria sbronza, Jack chiede: “Se n è la risposta a questa domanda, quanto fa
+> (n−1)(n−2)+2?”. Che cosa dovrà rispondere il π-rata per essere ammesso nella ciurma di Jack?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0002
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Self-referential answer to (n-1)
+
+> The most prestigious mathematical race for rat in the Caribbean is the Big Whoop Cup, which this year will be played on May 7, 1726. Captain Jack Disparrow, aided by his loyal friend Master Gibbs, approaches Turtle to recruit a new crew for his ship, the Pearl of Truth. To the next candidate π-rate who presents himself with the drunken air, Jack asks: If n is the answer to this question, how much does (n−1)(n−2)+2?. What will theπrate have to answer to be admitted into Jack's clutch?
+
+**Answer:** 0002
+[[src_gas_2010_semifinale_a__Q01]]
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Conteggio bugiardi in cerchio con affermazioni sui vicini*
+
+> Ammutinamento
+> La ciurma della Perla Vera è divisa in due fazioni: i π-rati reclutati da Capitan Jack Disparrow, che dicono
+> sempre la verità, e quelli arruolati dal temibile Bourbakossa, che mentono sempre e stanno tramando di
+> ammutinarsi. Alla resa dei conti finale, ben 2010 membri della ciurma si dispongono in cerchio sul ponte
+> della nave. Ognuno di essi dice ad alta voce: “Dei miei due vicini uno è stato reclutato da Jack e l’altro
+> da Bourbakossa”. Sapendo che nel cerchio è presente anche Mastro Gibbs, che è stato il primo ad essere
+> reclutato da Jack, quanti saranno in totale gli ammutinati?
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0670
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting of lies in a circle with statements about neighbors*
+
+> Mutiny The true pearl swarm is divided into two factions: the MSK rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plan to mutine. At the end of the final report, as early as 2010 members of the crew were arranged in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many mutineers will there be in total?
+
+**Answer:** 0670
+[[src_gas_2010_semifinale_a__Q02]]
+
+
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Massimi dobloni per pirata con divisione esatta e +11*
+
+> Il bottino
+> La Perla Vera ha messo le mani su un favoloso bottino non superiore a 100000 dobloni. Jack si accorge
+> che riesce a dividere esattamente il bottino tra i π-rati della ciurma. Improvvisamente però arriva Mastro
+> Gibbs che gli dice: “Capitano, abbiamo perso un uomo”. Jack si mostra addolorato solo per un attimo, ma
+> poi scrolla le spalle, agita il cappello sorridente e informa i π-rati della ciurma che la divisione esatta del
+> bottino è ancora possibile, e ciascuno in questo modo avrà esattamente 11 dobloni in più. Quanti possono
+> essere al massimo i dobloni che alla fine toccheranno a ciascun π-rata?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 1045
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum double per pirate with exact division and +11*
+
+> The true pearl has got his hands on a fabulous prey of no more than 100,000 doubles. Jack realizes that he can exactly divide the spoil between theπ-rates of the swarm. But suddenly Master Gibbs comes and says, "Captain, we lost a man". Jack is only sad for a moment, but then he rolls his back, shakes his smiling hat, and informs theπ-rat of the swarm that the exact division of the loot is still possible, and each will thus have exactly 11 more doubles. How many doubles can be reached at eachπ rate at the most?
+
+**Answer:** 1045
+[[src_gas_2010_semifinale_a__Q03]]
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Differenza conteggio simboli in triangolo ciclico di 10000 righe*
+
+> Il simbolo di Bourbakossa
+> Purtroppo l’ammutinamento è riuscito, Jack Disparrow è stato abbandonato su un’isoletta deserta e la Perla
+> Vera è caduta nelle mani di Bourbakossa, che fa issare le sue insegne: la sua bandiera è un grosso triangolo
+> nero su cui sono rappresentati tante volte tre simboli pirateschi. Sulla prima riga è rappresentata una scimmia. Sulla seconda riga una scimmia ed un forziere. Sulla terza riga una scimmia, un forziere ed una mela.
+> Sulla quarta riga ancora una scimmia, un forziere, una mela ed un’altra scimmia, e così via: sull’n-esima
+> riga ci sono n simboli ottenuti ripetendo nell’ordine scimmia, forziere e mela. Il triangolo conta in tutto
+> 10000 righe: qual è la differenza tra il numero di scimmie ed il numero di mele?
+> Gara a Squadre 2010 – Semifinale A – Testi dei problemi – 1/3
+> 
+> 2/3
+> Gara a Squadre 2010 – Semifinale A – Testi dei problemi
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 6667
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different symbol count in a cyclic triangle of 10000 rows*
+
+> The symbol of Bourbakossa Unfortunately, the mutiny succeeded, Jack Disparrow was abandoned on a deserted island and the True Pearl fell into Bourbakossa's hands, which makes his badges fly: his flag is a large black triangle on which three pirate symbols are often depicted. On the first line is a monkey. On the second line, a monkey and a forzer. On the third line, there's a monkey, a forzer, and an apple. On the fourth line again a monkey, a forcer, an apple and another monkey, and so on: on the eighth line there are n symbols obtained repeating in monkey, forcer and apple order. The triangle has a total of 10,000 lines: what is the difference between the number of apes and the number of apples? Team competition 2010  Semifinals A  Problem tests  1/3
+> 
+> 2/3 Team competition 2010  Semifinal A  Problem tests
+
+**Answer:** 6667
+[[src_gas_2010_semifinale_a__Q04]]
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Minimo a=n^3+2n^2 quadrato di intero dispari*
+
+> L’oro maledetto
+> Il forziere con l’oro azteco è vuoto e tutte le antiche monete dovranno essere recuperate prima che la
+> maledizione sia sciolta. Il pirata fantasma Bourbakossa ha sguinzagliato i suoi uomini a cercare per ogni
+> dove, e intanto cerca di ricordarsi quante erano le monete quando il forziere è stato trovato. L’unico indizio
+> è un appunto sul giornale di bordo di Capitan Jack Disparrow che dice: “...le monete azteche sono in
+> quantità pari al più piccolo intero positivo a = n3 +2n2, tale che n è un numero naturale ed a è il quadrato
+> di un intero dispari.” Quante monete devono cercare i π-rati di Bourbakossa?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0441
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum a=n^3+2n^2 squared of odd whole *
+
+> The Aztec gold fortress is empty and all the ancient coins must be recovered before the curse is lifted. The ghost pirate Bourbakossa has led his men to look everywhere, and in the meantime he tries to remember how many coins there were when the enforcer was found. The only clue is a note in Captain Jack Disparrow's boarding journal that says: ...the Aztec coins are in quantity equal to the smallest positive integer a = n3 +2n2, such that n is a natural number and a is the square of an odd integer. How many coins must the π-raties of Bourbakossa look for?
+
+**Answer:** 0441
+[[src_gas_2010_semifinale_a__Q05]]
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Massimo a con a^2+100a+1 quadrato perfetto*
+
+> Maximiser!
+> Quando la bella Elizabeth Somm finisce prigioniera di Bourbakossa, invoca il “maximiser” per essere risparmiata, ma scopre con rammarico che per renderlo efficace con dei veri π-rati, le viene chiesto di trovare
+> il più grande intero positivo a tale che a2 +100a+1 sia un quadrato perfetto. Cosa deve rispondere?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 1200
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum a with a^2+100a+1 perfect square*
+
+> Maximize it! When beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the maximiser to be spared, but finds with regret that to make it effective with real π-rates, she is asked to find the largest positive integer such that a2 +100a+1 is a perfect square. What's the answer?
+
+**Answer:** 1200
+[[src_gas_2010_semifinale_a__Q06]]
+
+
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Media scalini tra piani con rampe crescenti su 200 piani*
+
+> Fuga dalla prigione
+> Jack Disparrow con l’aiuto di Will è scappato dalla sua cella che si trova al piano più basso della torreprigione e vuole salire al piano più alto, da dove spera di riuscire a fuggire. La prigione è composta da 200
+> piani, numerati da 1 a 200 e collegati da un certo numero di rampe di scale. Dal piano 1 al 2 c’è 1 sola
+> rampa di scale con 1 solo gradino. Dal piano 2 al 3 ci sono 2 rampe con 1 e 2 scalini rispettivamente; dal
+> piano 3 al 4, ci sono 3 rampe con 1, 2 e 3 scalini; e così via. Quanti scalini ci sono, in media, tra un piano e
+> l’altro?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 6700
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean stairs between floors with ramps rising over 200 floors*
+
+> Jack Disparrow escapes from prison with Will's help. He escapes from his cell on the lower level of the prison tower and wants to climb to the top, where he hopes to escape. The prison consists of 200 floors, numbered from 1 to 200 and connected by a number of stair ramps. From the 1st to the 2nd floor there is only 1 staircase ramp with only 1 step. From floors 2 to 3 there are 2 ramps with 1 and 2 steps respectively; from floors 3 to 4, there are 3 ramps with 1, 2 and 3 steps; and so on. How many stairs are there, on average, between one floor and the other?
+
+**Answer:** 6700
+[[src_gas_2010_semifinale_a__Q07]]
+
+
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Valore atteso anni dalla riga della tessera rossa nel triangolo*
+
+> Temi tu la tombola di Davy Jensen?
+> Il π-rata maledetto Davy Jensen ha una borsa che contiene 90 tessere bianche della tombola, più 1 singola
+> tessera rosso sangue. Ogni prigioniero sulla sua nave, l’Olandese Secante, si sottopone al seguente gioco
+> per sapere quanti anni dovrà servire sulla nave: estrae le tessere a caso una alla volta e le dispone a triangolo
+> (1, poi 2, poi 3, . .., fino a 13). Il malcapitato dovrà servire tanti anni quante sono le tessere bianche sulla
+> riga di quella rossa. Bill “Sputafuoco” Turing, che osserva in disparte, si domanda mediamente quanti anni
+> di servizio tocchino in questo modo. Jack non capisce esattamente cosa intenda il suo collega π-rata, ma suo
+> figlio Will, che ha studiato, gli spiega che tra i tanti modi di definire il numero medio di anni di servizio (tutti
+> che portano allo stesso risultato) quello più comune è la somma dei numeri k · pk dove, per ogni numero
+> naturale 0 ≤k ≤12, pk è la probabilità che gli anni di servizio siano k. Qual è il numero medio di anni di
+> servizio?
+> [Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini]
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0008
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expected years from the red card line in the triangle*
+
+> Are you afraid of Davy Jensen's grave? The cursed Davy Jensen rat has a bag that contains 90 white tiles from the tomb, plus one single red card of blood. Each prisoner on his ship, the Dutchman Secante, undergoes the following game to know how many years he will have to serve on the ship: he extracts the cards randomly one at a time and arranges them in a triangle (1, then 2, then 3, . .. up to 13. The headless will have to serve as many years as the white papers on the red line. Bill Turing, who observes from a different angle, wonders on average how many years of service are affected in this way. Jack doesn't understand exactly what his colleague π-rate means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years of service (all leading to the same result) the most common is the sum of the numbers k · pk where, for every natural number 0 ≤k ≤12, pk is the probability that the years of service are k. What is the average number of years of service? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 0008
+[[src_gas_2010_semifinale_a__Q08]]
+
+
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Velocita nave da calo stimato di 1 minuto ogni 7 miglia*
+
+> La bussola del pirata Tom2
+> La bussola del pirata Tom2, oltre a indicare sempre la direzione del tesoro, fornisce anche l’ora di arrivo
+> stimata ipotizzando che la nave viaggi direttamente verso la meta alla velocità costante di 12 nodi (un nodo
+> di velocità corrisponde a 1 miglio all’ora). L’Olandese Secante, il vascello su cui è imbarcato Tom2, sta
+> andando dritta filata verso il tesoro alla sua massima velocità. Sapendo che l’orario di arrivo stimato dalla
+> bussola cala di 1 minuto ogni 7 miglia percorse, a quanti nodi di velocità va la nave?
+> [Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini]
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 3570
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ship's speed of descent estimated at 1 minute every 7 miles*
+
+> The Tom2 pirate's compass, besides always indicating the direction of the treasure, also provides the estimated time of arrival by assuming that the ship travels directly to the destination at a constant speed of 12 knots (a speed knot corresponds to 1 mile per hour). The Dutchman Secante, the vessel on which Tom2 is boarded, is heading straight for the treasure at its maximum speed. Knowing that the compass's estimated time of arrival drops by 1 minute every 7 miles traveled, at how many knots of speed does the ship go? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 3570
+[[src_gas_2010_semifinale_a__Q09]]
+
+
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_disuguaglianze,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Prezzo ottimale spade per massimizzare i guadagni*
+
+> Le spade di Will
+> Le spade fabbricate dal giovane Will Turing sono celebri per la loro qualità e possono essere vendute a caro
+> prezzo. Will vuole finanziare la prossima avventura vendendo le sue spade a Tortuga, ma deve decidere
+> quante fabbricarne e a che prezzo venderle. Se chiede un prezzo di 50 dobloni o meno è sicuro che tutti i
+> 10000 π-rati di Tortuga ne vorranno una. Se però fissa un prezzo superiore, per ogni doblone in più venderà
+> 20 spade in meno. Sapendo che fabbricare ogni spada gli costa 10 dobloni, supponendo che fissi un prezzo
+> tale da massimizzare i suoi guadagni, quanti pirati compreranno la propria spada da Will?
+> 
+> Gara a Squadre 2010 – Semifinale A – Testi dei problemi
+> 3/3
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 5400
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Optimal price of swords to maximize earnings*
+
+> Will's swords The swords made by young Will Turing are famous for their quality and can be sold for a high price. Will wants to finance his next adventure by selling his swords to Tortuga, but he has to decide how many to make and at what price to sell them. If you ask for a price of 50 doubles or less you're sure that all 10,000 MSK/>-rates in Tortuga will want one. But if he sets a higher price, for every more double he will sell 20 swords less. Knowing that making every sword costs him 10 doubles, assuming he sets a price that maximizes his earnings, how many pirates will buy their sword from Will?
+> 
+> Team competition 2010  Semifinal A  Problem tests 3/3
+
+**Answer:** 5400
+[[src_gas_2010_semifinale_a__Q10]]
+
+
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_algebra,method_trigonometria,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Massima velocita inseguitore con rotta alternata a due direzioni*
+
+> Fuga dal Cramer
+> La Perla Vera è braccata dal Cramer, il terribile mostro marino scatenato da Davy Jensen, e sta cercando
+> di raggiungere la terra prima di lui. L’isola più vicina è un punto che si trova esattamente 10 miglia a nord
+> della nave. Siccome il vento non è di poppa ma un po’ laterale, Capitan Disparrow imposta una rotta che
+> alterna continuamente due direzioni diverse: verso nord-est (30 gradi rispetto al nord) la nave va a 6 m/s,
+> mentre verso nord-ovest (60 gradi rispetto al nord) la nave va a 4 m/s. Il Cramer parte da un punto 10 miglia
+> più a sud della nave e si muove verso nord a velocità costante. Qual è la massima velocità del Cramer che
+> permette alla Perla Vera di arrivare all’isola per prima? Rispondere in cm/s.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Risposta:** 0742
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum speed pursuer with two-way alternating course*
+
+> The True Pearl is caught by Cramer, the terrible sea monster set off by Davy Jensen, and is trying to reach land ahead of him. The nearest island is a point that lies exactly 10 miles north of the ship. Since the wind is not windward but slightly lateral, Captain Disparrow imposes a route that alternates continuously in two different directions: to the northeast (30 degrees relative to the north) the ship goes at 6 m/s, while to the northwest (60 degrees relative to the north) the ship goes at 4 m/s. The Cramer starts at a point 10 miles south of the ship and moves north at constant speed. What's the maximum speed of the Cramer that allows the Pearl to reach the island first? Answer in cm/s.
+
+**Answer:** 0742
+[[src_gas_2010_semifinale_a__Q11]]
+
+
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Conteggio righe dispari nel triangolo di Tartaglia (1600-1728)*
+
+> Il triangolo di Tortuga
+> Sull’isola di Tortuga ha grande importanza una targa commemorativa detta il Triangolo di Tortuga. È
+> apparentemente identica al triangolo di Tartaglia, ma ogni sua riga è dedicata ad un anno dal 1600 al 1728
+> e i numeri riportati rappresentano il numero di π-rati imbarcati per ciascuna delle navi π-rata che sono
+> affondate in quell’anno. Ad esempio nel 1600 (1) è affondata una sola nave con un solo π-rata, nel 1601 (1,
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 2189
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting of odd lines in the Triangle of Tartaglia (1600-1728) *
+
+> The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is devoted to a year from 1600 to 1728 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a singleπ-rate was sunk, in 1601 (1),
+
+**Answer:** 2189
+[[src_gas_2010_semifinale_a__Q12]]
+
+
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Lunghezza segmento bisettrice in triangolo isoscele 120 gradi*
+
+> 13. La mappa del tesoro Capitan Disparrow sta studiando la mappa di un tesoro sulla quale sono segnati tre punti A, B e C, che sono vertici di un triangolo isoscele. La base AB del triangolo misura 3.9 km e l’angolo al vertice è di 120 gradi. Capitan Disparrow si trova nel punto B e sa che il tesoro si trova nel punto d’intersezione tra il lato BC e la bisettrice dell’angolo in A. Quanti metri dovrà percorrere per arrivare al tesoro?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 1427
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the bisector segment in an isosceles triangle 120 degrees*
+
+> 13. Captain Disparrow's treasure map is studying a treasure map marked with three points A, B and C, which are vertices of an isosceles triangle. The base AB of the triangle measures 3.9 km and the angle at the top is 120 degrees. Captain Disparrow is at point B and knows that the treasure is at the intersection between the BC side and the angle's intersection in A. How many yards will it take to get to the treasure?
+
+**Answer:** 1427
+[[src_gas_2010_semifinale_a__Q13]]
+
+
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Massimi numeri di 5 cifre con cifre 0-9, uno doppio dell'altro*
+
+> 14. La liberazione di Cauchypso La fratellanza dei π-rati è formata dai 9 π-rati nobili più Teague Disparrow, il padre di Jack. Ciascuno dei membri possiede una delle carte di un mazzo di 10 tarocchi magici, numerati con le cifre da 0 a 9. Per liberare Cauchypso dalla sua forma umana, i π-rati devono disporre tutte le carte in modo da formare con esse 2 numeri di 5 cifre (nessuno dei quali inizia con zero) che siano l’uno il doppio dell’altro e in modo tale che siano i più grandi possibili. Quali sono le ultime 4 cifre del minore dei due?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 8651
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum 5 digit numbers with digits 0 to 9, one double the other*
+
+> 14. The fraternity of the π-rates is made up of 9 π-noble rats plus Teague Disparrow, Jack's father. Each member holds one of the cards in a deck of 10 magic tarot decks, numbered from 0 to 9. To free Cauchypso from his human form, the π-rates must arrange all the cards in such a way as to form with them 2 5-digit numbers (none of which start with zero) that are one double the other and so that they are the largest possible. What are the last four digits of the smaller of the two?
+
+**Answer:** 8651
+[[src_gas_2010_semifinale_a__Q14]]
+
+
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Massima area quadrilatero in semicerchio con angoli dati*
+
+> 15. Vorticosa battaglia La Perla Vera rischia di essere inghiottita in un vortice! Quest’ultimo ha la forma di un quadrilatero OABC, tutto contenuto in un semicerchio di centro O e diametro AD. Il punto B sta sulla semicirconferenza e l’angolo BOA misura 60 gradi. L’Olandese Secante dà battaglia da un punto E della semicirconferenza tale che EOD misura 30 gradi. Il punto C appartiene al segmento DE oppure all’arco EB, ma purtroppo la vedetta non è sicura. Sapendo che AD misura 56 m, quanti metri quadrati può misurare, al massimo, l’area del vortice?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 0731
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum quadrilateral area in semicircle with data angles*
+
+> 15. The real pearl is in danger of being swallowed up in a vortex! The latter has the shape of an OABC quadrilateral, all contained in a semicircle of centre O and diameter AD. The point B is on the semicircular and the BOA angle is 60 degrees. The Dutch Dryer gives battle from a point E of the semicircle such that EOD measures 30 degrees. The point C belongs to the DE segment or to the EB arc, but unfortunately the viewpoint is not certain. Knowing that AD measures 56 m, how many square meters can it measure, at most, the area of the vortex?
+
+**Answer:** 0731
+[[src_gas_2010_semifinale_a__Q15]]
+
+
+
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Tentativi massimi per aprire scrigno con 4 serrature e vincolo*
+
+> 16. Il forziere fantasma Non è semplice aprire lo scrigno che custodisce il cuore di Davy Jensen: il prode Will Turing dispone già della chiave, ma ora è in crisi, perché ha scoperto che lo scrigno ha ben 4 serrature (una per lato). Per fortuna la chiave in suo possesso va bene per tutte le serrature, ma per sbloccare il meccanismo che apre lo scrigno, bisogna far fare 2 giri ad ogni serratura, in un ordine preciso che Will non conosce; sa solo che la prima serratura ad essere girata deve essere uguale all’ultima. Per quante volte Will dovrà, al massimo, provare a sbloccare il meccanismo per esser sicuro di aprire lo scrigno?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0360
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum attempts to open the box with 4 locks and fasteners*
+
+> 16. It's not easy to open the chest that holds Davy Jensen's heart: the prodigy Will Turing already has the key, but now he's in crisis, because he found that the chest has 4 locks (one on each side). Fortunately, the key in his possession is good for all locks, but to unlock the mechanism that opens the casket, you have to make 2 turns at each lock, in a precise order that Will doesn't know; he only knows that the first lock to be turned must be the same as the last one. How many times does Will have to try to unlock the mechanism to make sure he opens the safe?
+
+**Answer:** 0360
+[[src_gas_2010_semifinale_a__Q16]]

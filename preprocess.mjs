@@ -104,7 +104,7 @@ async function markDropboxIgnored(dir) {
 // links inside raw-HTML blocks — wikilinks ([[..]]) are only resolved in markdown text,
 // never inside a raw HTML block, so the area-hero chips below can't use them. The
 // homepage generator further down hardcodes the same base.
-const SITE = "https://gborghi.github.io/raccolta-gare-mate"
+const SITE = "https://raccolta-gare-mate.pages.dev"
 // Per-tipo eyebrow + fallback lead for the concept-page hero (Design "area" view).
 const TIPO_HERO = {
   cluster: { eyebrow: "Macro-area", lead: "quesiti in questa macro-area." },
@@ -220,6 +220,9 @@ function slugFromRel(rel) {
 function loRel(rel) {
   return path.join(path.dirname(rel), path.basename(rel).toLowerCase())
 }
+// Escape HTML-significant chars for values embedded in raw-HTML marker attributes.
+const esc = (s) =>
+  String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c])
 
 // Parse dataview body -> {field, values[]} from contains(FIELD, "VAL") pairs
 function parseDataview(body) {
@@ -300,10 +303,47 @@ async function main() {
     }
   }
 
+  // --- SPA: group quesiti by gara stem -> ONE reader page per gara ---
+  // Quesito files are Quesiti/src_<family>_<year>_<level>__QNN.md; the gara index note
+  // is Quesiti/src_<...>.md (no __QNN). We group atoms under the stem's slug so the
+  // container pass below emits one reader page at the gara's own slug (Quesiti/<stem>),
+  // replacing BOTH the ~19k per-quesito pages AND the old gara index page.
+  const gareAtoms = new Map() // stemSlug -> [{ rel, base, atomId }]
+  const gareParents = new Map() // stemSlug -> rel of the <stem>.md gara index note
+  // old atom href (Quesiti/<stem>__qnn) -> Quesiti/<stem>#<atomId>. Built HERE (not in the
+  // container pass) because the main loop below repoints quesiti.json / keyword hrefs.
+  const atomFrag = new Map()
+  for (const rel of files) {
+    if (rel.split(path.sep)[0] !== "Quesiti") continue
+    const { data: gd } = parseFrontmatter(await fs.readFile(path.join(VAULT, rel), "utf8"))
+    if (String(gd.secondary) === "true") continue // translation sibling, merged not atomized
+    const base = path.basename(rel, ".md")
+    const usc = base.indexOf("__")
+    const stemSlugOf = (b) => slugFromRel(loRel(path.join(path.dirname(rel), b + ".md")))
+    if (usc < 0) {
+      gareParents.set(stemSlugOf(base), rel) // gara index note
+      continue
+    }
+    const stem = stemSlugOf(base.slice(0, usc))
+    const atomId = base.slice(usc + 2).toLowerCase() // "q05"
+    if (!gareAtoms.has(stem)) gareAtoms.set(stem, [])
+    gareAtoms.get(stem).push({ rel, base, atomId })
+    atomFrag.set(slugFromRel(loRel(rel)), `${stem}#${atomId}`)
+  }
+  for (const list of gareAtoms.values())
+    list.sort((a, b) => a.atomId.localeCompare(b.atomId, "en", { numeric: true }))
+
   for (const rel of files) {
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
     const { data, content } = parseFrontmatter(raw)
     if (String(data.secondary) === "true") continue // never emit / index siblings
+    // SPA: quesito atoms and gara-index parents-with-atoms are emitted by the container
+    // pass below (one reader page per gara) -- skip their classic per-file page.
+    let skipQuesitoPage = false
+    if (rel.split(path.sep)[0] === "Quesiti") {
+      const slug = slugFromRel(loRel(rel))
+      if (path.basename(rel, ".md").includes("__") || gareAtoms.has(slug)) skipQuesitoPage = true
+    }
     // Concept pages render the design's area-hero card; everything else transforms as-is.
     const built = buildSectionHero(data, content)
     let newContent = built ? built.hero + "\n\n" + transform(built.tail) : transform(content)
@@ -335,12 +375,15 @@ async function main() {
         merged++
       }
     }
-    const dest = path.join(CONTENT, loRel(rel))
-    await fs.mkdir(path.dirname(dest), { recursive: true })
-    await fs.writeFile(dest, matter.stringify(newContent, data))
-    written++
+    if (!skipQuesitoPage) {
+      const dest = path.join(CONTENT, loRel(rel))
+      await fs.mkdir(path.dirname(dest), { recursive: true })
+      await fs.writeFile(dest, matter.stringify(newContent, data))
+      written++
+    }
     if (data.tipo === "quesito") {
-      const href = slugFromRel(loRel(rel))
+      const oldHref = slugFromRel(loRel(rel))
+      const href = atomFrag.get(oldHref) ?? oldHref
       const kw = keywords(content)
       if (kw) kwIndex[href] = kw
       quesiti.push({
@@ -360,6 +403,62 @@ async function main() {
       })
     }
   }
+  // --- SPA: emit one reader page per gara stem ---
+  // Each page concatenates every quesito's transformed body behind an inline atom-split
+  // marker; atomRouter.inline.ts partitions on those markers client-side. Bilingual atoms
+  // keep their qlang-switch/qlang-split blocks inside the atom blob (qlang.inline.ts owns
+  // them; atomRouter carries the blob opaquely and re-pokes qlang after each swap).
+  let gareEmitted = 0
+  for (const [stemSlug, atoms] of gareAtoms) {
+    const parentRel = gareParents.get(stemSlug)
+    const pdata = parentRel
+      ? parseFrontmatter(await fs.readFile(path.join(VAULT, parentRel), "utf8")).data
+      : {}
+    const blocks = []
+    for (const a of atoms) {
+      const { data: adata, content: acontent } = parseFrontmatter(
+        await fs.readFile(path.join(VAULT, a.rel), "utf8"),
+      )
+      let body = transform(acontent)
+      // bilingual merge: identical shape to the main-loop block above
+      const sib = siblings.get(path.basename(a.rel, ".md").toLowerCase())
+      if (sib) {
+        const origin = adata.lang || "it"
+        body =
+          `<div class="qlang-switch" data-default="${origin}"></div>\n\n` +
+          body +
+          `\n\n<span class="qlang-split" data-lang="${sib.lang}"></span>\n\n` +
+          sib.body
+      }
+      const atomTitle = adata.quesito ? `Quesito ${adata.quesito}` : a.atomId.toUpperCase()
+      const atags = [].concat(adata.topics || [], adata.methods || [], adata.skills || [])
+      blocks.push(
+        `\n\n<span class="atom-split" id="${a.atomId}" data-atom="${a.atomId}" ` +
+          `data-title="${esc(atomTitle)}" data-tags="${esc(atags.join(","))}"></span>\n\n` +
+          body.trim(),
+      )
+    }
+    const data = {
+      title: pdata.title || stemSlug,
+      tipo: "gara",
+      competition: pdata.competition ?? "",
+      family: pdata.family ?? "",
+      year: pdata.year ?? "",
+      level: pdata.level ?? "",
+    }
+    const dest = path.join(CONTENT, parentRel ? loRel(parentRel) : `${stemSlug}.md`)
+    await fs.mkdir(path.dirname(dest), { recursive: true })
+    await fs.writeFile(
+      dest,
+      matter.stringify(
+        `<div class="atom-reader" data-gara="${esc(stemSlug)}"></div>\n\n` + blocks.join("\n\n"),
+        data,
+      ),
+    )
+    gareEmitted++
+  }
+  console.log(`SPA: emitted ${gareEmitted} gara reader pages`)
+
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
@@ -389,8 +488,8 @@ title: Raccolta Gare di Matematica
       <h1 class="home-hero-title">Le gare di matematica,<br><em>coltivate</em> e catalogate.</h1>
       <p class="home-hero-lead">Un archivio vivo di <strong>17.800 quesiti</strong> — Giochi di Archimede, Kangourou, Cesenatico e gare internazionali — con testo, risposta e classificazione per argomento, metodo e abilità.</p>
       <div class="home-hero-cta">
-        <a class="btn-primary" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/">Esplora l'archivio</a>
-        <a class="btn-ghost" href="https://gborghi.github.io/raccolta-gare-mate/cerca">Ricerca per tag →</a>
+        <a class="btn-primary" href="https://raccolta-gare-mate.pages.dev/Clusters/">Esplora l'archivio</a>
+        <a class="btn-ghost" href="https://raccolta-gare-mate.pages.dev/cerca">Ricerca per tag →</a>
       </div>
       <div class="home-hero-stats">
         <div class="stat"><span class="stat-n">17.800</span><span class="stat-l">Quesiti</span></div>
@@ -419,7 +518,7 @@ title: Raccolta Gare di Matematica
     <p class="home-section-note">Ogni quesito è ricondotto a una delle quattro aree fondamentali della matematica olimpica.</p>
   </div>
   <div class="area-grid">
-    <a class="area-card" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/aritmetica-e-teoria-dei-numeri">
+    <a class="area-card" href="https://raccolta-gare-mate.pages.dev/Clusters/aritmetica-e-teoria-dei-numeri">
       <span class="area-banner"><img class="area-emblem" src="static/decor/aritmetica-e-teoria-dei-numeri.webp" alt="" loading="lazy"></span>
       <span class="area-body">
         <span class="area-n">3.259</span>
@@ -428,7 +527,7 @@ title: Raccolta Gare di Matematica
         <span class="area-go">apri →</span>
       </span>
     </a>
-    <a class="area-card" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/combinatoria,-logica-e-probabilita">
+    <a class="area-card" href="https://raccolta-gare-mate.pages.dev/Clusters/combinatoria,-logica-e-probabilita">
       <span class="area-banner"><img class="area-emblem" src="static/decor/combinatoria-logica-e-probabilita.webp" alt="" loading="lazy"></span>
       <span class="area-body">
         <span class="area-n">3.328</span>
@@ -437,7 +536,7 @@ title: Raccolta Gare di Matematica
         <span class="area-go">apri →</span>
       </span>
     </a>
-    <a class="area-card" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/geometria">
+    <a class="area-card" href="https://raccolta-gare-mate.pages.dev/Clusters/geometria">
       <span class="area-banner"><img class="area-emblem" src="static/decor/geometria.webp" alt="" loading="lazy"></span>
       <span class="area-body">
         <span class="area-n">2.832</span>
@@ -446,7 +545,7 @@ title: Raccolta Gare di Matematica
         <span class="area-go">apri →</span>
       </span>
     </a>
-    <a class="area-card" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/algebra-e-analisi">
+    <a class="area-card" href="https://raccolta-gare-mate.pages.dev/Clusters/algebra-e-analisi">
       <span class="area-banner"><img class="area-emblem" src="static/decor/algebra-e-analisi.webp" alt="" loading="lazy"></span>
       <span class="area-body">
         <span class="area-n">1.829</span>
@@ -462,33 +561,33 @@ title: Raccolta Gare di Matematica
   <div class="class-lists">
     <div class="class-col">
       <div class="class-eyebrow">Argomenti · 12</div>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_aritmetica"><span>Aritmetica / Teoria dei Numeri</span><span class="class-n">3.295</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_combinatoria"><span>Combinatoria</span><span class="class-n">2.191</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_geometria_piana"><span>Geometria piana</span><span class="class-n">2.179</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_algebra"><span>Algebra</span><span class="class-n">1.504</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_logica"><span>Logica, giochi, strategie</span><span class="class-n">1.257</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Topics/topic_geometria_solida"><span>Geometria solida</span><span class="class-n">603</span></a>
-      <a class="class-more" href="https://gborghi.github.io/raccolta-gare-mate/Topics/">Tutti gli argomenti →</a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Topics/topic_aritmetica"><span>Aritmetica / Teoria dei Numeri</span><span class="class-n">3.295</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Topics/topic_combinatoria"><span>Combinatoria</span><span class="class-n">2.191</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Topics/topic_geometria_piana"><span>Geometria piana</span><span class="class-n">2.179</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Topics/topic_algebra"><span>Algebra</span><span class="class-n">1.504</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Topics/topic_logica"><span>Logica, giochi, strategie</span><span class="class-n">1.257</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Topics/topic_geometria_solida"><span>Geometria solida</span><span class="class-n">603</span></a>
+      <a class="class-more" href="https://raccolta-gare-mate.pages.dev/Topics/">Tutti gli argomenti →</a>
     </div>
     <div class="class-col">
       <div class="class-eyebrow">Metodi · 21</div>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Methods/method_conteggio"><span>Conteggio combinatorio</span><span class="class-n">1.189</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Methods/method_congruenze"><span>Congruenze</span><span class="class-n">976</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Methods/method_casework"><span>Analisi per casi</span><span class="class-n">779</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Methods/method_fattorizzazione"><span>Fattorizzazione</span><span class="class-n">570</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Methods/method_coordinate"><span>Metodo delle coordinate</span><span class="class-n">440</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Methods/method_estremalita"><span>Principio di estremalità</span><span class="class-n">424</span></a>
-      <a class="class-more" href="https://gborghi.github.io/raccolta-gare-mate/Methods/">Tutti i metodi →</a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Methods/method_conteggio"><span>Conteggio combinatorio</span><span class="class-n">1.189</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Methods/method_congruenze"><span>Congruenze</span><span class="class-n">976</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Methods/method_casework"><span>Analisi per casi</span><span class="class-n">779</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Methods/method_fattorizzazione"><span>Fattorizzazione</span><span class="class-n">570</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Methods/method_coordinate"><span>Metodo delle coordinate</span><span class="class-n">440</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Methods/method_estremalita"><span>Principio di estremalità</span><span class="class-n">424</span></a>
+      <a class="class-more" href="https://raccolta-gare-mate.pages.dev/Methods/">Tutti i metodi →</a>
     </div>
     <div class="class-col">
       <div class="class-eyebrow">Abilità · 9</div>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Skills/skill_ragionamento_geometrico"><span>Ragionamento geometrico</span><span class="class-n">2.275</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Skills/skill_conteggio_sistematico"><span>Conteggio sistematico</span><span class="class-n">1.436</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Skills/skill_casework_accurato"><span>Casework accurato</span><span class="class-n">1.397</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Skills/skill_manipolazione_algebrica"><span>Manipolazione algebrica</span><span class="class-n">1.367</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Skills/skill_modellizzazione"><span>Modellizzazione</span><span class="class-n">875</span></a>
-      <a class="class-row" href="https://gborghi.github.io/raccolta-gare-mate/Skills/skill_riconoscimento_pattern"><span>Riconoscimento di pattern</span><span class="class-n">601</span></a>
-      <a class="class-more" href="https://gborghi.github.io/raccolta-gare-mate/Skills/">Tutte le abilità →</a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Skills/skill_ragionamento_geometrico"><span>Ragionamento geometrico</span><span class="class-n">2.275</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Skills/skill_conteggio_sistematico"><span>Conteggio sistematico</span><span class="class-n">1.436</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Skills/skill_casework_accurato"><span>Casework accurato</span><span class="class-n">1.397</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Skills/skill_manipolazione_algebrica"><span>Manipolazione algebrica</span><span class="class-n">1.367</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Skills/skill_modellizzazione"><span>Modellizzazione</span><span class="class-n">875</span></a>
+      <a class="class-row" href="https://raccolta-gare-mate.pages.dev/Skills/skill_riconoscimento_pattern"><span>Riconoscimento di pattern</span><span class="class-n">601</span></a>
+      <a class="class-more" href="https://raccolta-gare-mate.pages.dev/Skills/">Tutte le abilità →</a>
     </div>
   </div>
 </section>
@@ -504,18 +603,18 @@ title: Raccolta Gare di Matematica
       <p>Se un ente desidera una citazione diversa o la rimozione dei propri materiali, lo aggiorneremo o rimuoveremo prontamente.</p>
     </div>
     <aside class="graph-promo">
-      <a class="graph-promo-thumb" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/" title="Apri il grafo della conoscenza">
+      <a class="graph-promo-thumb" href="https://raccolta-gare-mate.pages.dev/Clusters/" title="Apri il grafo della conoscenza">
         <img src="static/decor/hero-graph.webp" alt="Grafo della conoscenza — una rete di nodi" loading="lazy">
       </a>
       <div class="eyebrow">— Un grafo della conoscenza</div>
       <h2>Ogni quesito, un nodo di una rete che cresce.</h2>
-      <p>Argomenti, metodi e abilità collegano i quesiti fra loro. Naviga il grafo locale di ogni pagina o filtra per più tag con la <a href="https://gborghi.github.io/raccolta-gare-mate/cerca">ricerca faceted</a>.</p>
+      <p>Argomenti, metodi e abilità collegano i quesiti fra loro. Naviga il grafo locale di ogni pagina o filtra per più tag con la <a href="https://raccolta-gare-mate.pages.dev/cerca">ricerca faceted</a>.</p>
       <div class="graph-promo-points">
         <div><strong>Testo bilingue</strong> — molti quesiti in italiano e inglese.</div>
         <div><strong>Fonte tracciabile</strong> — link al PDF originale dell'ente.</div>
         <div><strong>Ricerca combinata</strong> — gara, anno, livello, argomento, metodo, abilità.</div>
       </div>
-      <a class="graph-promo-link" href="https://gborghi.github.io/raccolta-gare-mate/Clusters/">Apri il grafo →</a>
+      <a class="graph-promo-link" href="https://raccolta-gare-mate.pages.dev/Clusters/">Apri il grafo →</a>
     </aside>
   </div>
 </section>
