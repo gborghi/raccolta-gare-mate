@@ -2,7 +2,8 @@
 
 Primary host: **Cloudflare Pages** → https://raccolta-gare-mate.pages.dev/ (project
 `raccolta-gare-mate`, wrangler **direct-upload**, NOT git-integrated).
-Mirror: **GitHub Pages** → `gborghi.github.io/raccolta-gare-mate` (branch `gh-pages`).
+Mirror: **GitHub Pages** → `gborghi.github.io/raccolta-gare-mate` (auto-deployed by CI,
+`.github/workflows/deploy.yml`, on push to `main` — no manual step).
 
 `baseUrl` in `quartz.config.yaml` = `raccolta-gare-mate.pages.dev`. Build + deploy are **fully
 local** (the CF Pages build container can't do the 13 GB heap / 19k-source build). Auth:
@@ -46,16 +47,12 @@ find public -type f -size +25M       # MUST be empty
 # 6. Deploy Cloudflare Pages (primary):
 npx wrangler pages deploy public --project-name raccolta-gare-mate --branch main
 
-# 7. Deploy gh-pages mirror (worktree push of the SAME public/, preserve CNAME if present):
-GHP="<path OUTSIDE Dropbox, e.g. E:/giovanni/gare-mate-ghpages>"
-git worktree add --no-checkout "$GHP" gh-pages
-cp -a public/. "$GHP"/
-git -C "$GHP" show gh-pages:CNAME > "$GHP/CNAME" 2>/dev/null || true
-git -C "$GHP" add -A && git -C "$GHP" commit -m "Deploy" && git -C "$GHP" push origin gh-pages
-git worktree remove --force "$GHP" && git worktree prune
-
-# 8. RESTART Dropbox.
+# 7. RESTART Dropbox.
 ```
+
+The **GitHub Pages mirror is auto-deployed by CI** (`.github/workflows/deploy.yml`) on every
+push to `main` — no manual gh-pages step needed. (That CI build is independent of this local
+build: it rebuilds `public/` from the committed `content/` and publishes to GitHub Pages.)
 
 ## Notes / gotchas
 
