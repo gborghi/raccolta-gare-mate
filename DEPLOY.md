@@ -95,3 +95,58 @@ build: it rebuilds `public/` from the committed `content/` and publishes to GitH
    `Navbar.tsx`, `renderPage.tsx`, `spa.inline.ts`), so the same bytes work under `/` (Cloudflare)
    and `/raccolta-gare-mate/` (GitHub).
 5. Verify with `check.py` (gare-mirror): every reference file must be identical on both hosts.
+
+## Lingue dei quesiti
+
+Convenzione (già in uso; modello: `content/prove/cuadernillo_2019.md`, atomo `q02`, nella raccolta di fisica; stessa struttura nei `content/Quesiti/` di mate).
+Obiettivo: ogni quesito in **lingua originale + italiano + inglese**, tutto **nello stesso file**, dentro lo stesso
+atomo (niente file separati per lingua, niente campi nel frontmatter):
+
+```markdown
+<span class="atom-split" id="q02" data-atom="q02" ...></span>
+<div class="qlang-switch" data-default="es"></div>      <!-- data-default = codice della lingua ORIGINALE -->
+
+**Titolo originale**
+Testo originale ...
+
+**Topic:** [[...]]
+**Metodi:** ... / **Competenze:** ... / **Objects:** ...
+**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/.../view)
+
+<div class="qlang-split" data-lang="it"></div>          <!-- div vuoto, poi la versione italiana -->
+
+**Titolo in italiano**
+Testo in italiano ...
+
+<div class="qlang-split" data-lang="en"></div>          <!-- div vuoto, poi la versione inglese -->
+
+**Title in English**
+Text in English ...
+```
+
+- Se l'originale è già italiano o inglese, quel blocco `qlang-split` si omette (l'originale fa da versione in quella lingua).
+- Figure, Topic/Fonte e link restano nel blocco originale; nelle traduzioni si ripetono solo le figure citate nel testo.
+- Le traduzioni arrivano come PR di contenuto (branch `kepler/traduzioni-gare-N`) e passano dalla stessa build unica:
+  tutti i blocchi `qlang` stanno nella stessa pagina, quindi la ricerca full-text di Quartz (inclusa quella booleana)
+  e l'indice per quesito li indicizzano tutti; lo switch lingua è solo lato client e non cambia i file pubblicati,
+  quindi GitHub Pages e il mirror Cloudflare restano identici byte per byte.
+
+## Immagini e limiti Cloudflare (20.000 file / 25 MiB per file)
+
+Cloudflare deve essere identico a GitHub Pages: nessuna immagine può essere esclusa o trasformata in link.
+Stato al 2026-10-02: nessun file supera i limiti (fisica ~2,7k file, mate ~5,4k, file max ~11 MB), quindi tutte
+le figure sono servite così:
+- **fisica**: `<img>` verso `https://gborghi.github.io/olifis-assets/_attachments/...` (stesso URL assoluto su
+  entrambi gli host; `build-pages.sh` sincronizza in add-only anche `content/prove/_attachments`);
+  figure TikZ → SVG inline nella pagina (`scripts/inline-tikz.mjs`).
+- **mate**: file nel sito (`_attachments/`), copiati byte per byte sul mirror tramite `mirror-manifest.json`.
+- Elenco per figura: `/workspace/gare-align/figure-methods.csv` (riepilogo `figure-methods.md`).
+
+Se in futuro una figura superasse i limiti, deve restare un `<img>` identico, in quest'ordine di preferenza:
+1. **jsDelivr** dal repo pubblico, fissato a un commit/tag: `https://cdn.jsdelivr.net/gh/gborghi/<repo>@<commit>/<path>`
+   (max 50 MB/file); va aggiunto `https://cdn.jsdelivr.net` a `img-src` in `_headers` (emit-cf-files).
+2. **Google Drive** (cartella `olimpiadifisica`, sottocartella dedicata, condivisione pubblica):
+   `https://lh3.googleusercontent.com/d/<ID>` o `https://drive.google.com/thumbnail?id=<ID>&sz=w2000`
+   (non `uc?export=view`); aggiungere il dominio a `img-src`.
+3. Cloudflare R2 solo come ultima scelta.
+Annotare qui ogni figura che usa uno di questi meccanismi.
