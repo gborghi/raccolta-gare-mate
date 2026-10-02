@@ -96,7 +96,7 @@ level: kangourou
 > Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 4 (A) 0 (B) 1 (C) 2 (D) 3 (E) 4.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q01]]
+[[Quesiti/src_kangourou_2001_cadet#q01|src_kangourou_2001_cadet__Q01]]
 
 
 
@@ -124,7 +124,7 @@ Other, of a kind used in the manufacture of foodstuffs
 > 2. Roberta has to pack 10 wooden kangaroos in boxes. If 178 kangaroos are red and 121 are blue, how many boxes does Roberta need to pack them all, not mixing the two colors? (A) 13 (B) 18 (C) 24 (D) 30 (E) 31. Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 1
 
 **Answer:** E
-[[src_kangourou_2001_cadet__Q02]]
+[[Quesiti/src_kangourou_2001_cadet#q02|src_kangourou_2001_cadet__Q02]]
 
 
 
@@ -157,7 +157,7 @@ Cutting off a ring to free them all
 > 3. By cutting off a single ring, can you free them all? A: yes, cutting A: yes, cutting B: yes, cutting C: yes, cutting D: no.
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q03]]
+[[Quesiti/src_kangourou_2001_cadet#q03|src_kangourou_2001_cadet__Q03]]
 
 
 
@@ -185,7 +185,7 @@ Cutting off a ring to free them all
 > 4. Henry's classmates are seven more than his classmates. In the same class the number of boys is twice that of girls. How many companions does Joan have in Henry's class? (A) 6 (B) 7 (C) 8 (D) 9 (E) 10.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q04]]
+[[Quesiti/src_kangourou_2001_cadet#q04|src_kangourou_2001_cadet__Q04]]
 
 
 
@@ -217,7 +217,7 @@ Cutting off a ring to free them all
 > 5. The figure on the right shows some streets of a small town. The distance between A and P is equal to that between A and Q which is 500 meters. The path from P to Q via A is 215 metres longer than that via B. So the path on C, compared to that on B, is (A) 275 meters longer (B) 215 meters longer (C) 430 meters longer (D) 43 meters longer (E) shorter.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q05]]
+[[Quesiti/src_kangourou_2001_cadet#q05|src_kangourou_2001_cadet__Q05]]
 
 
 
@@ -246,7 +246,7 @@ Cutting off a ring to free them all
 > 6. Multiplying two numbers belonging to the set {−9, −7, −5, 2, 4, 6}, what is the minimum result that can be obtained? (A) −63 (B) −54 (C) −18 (D) −10 (E) 8.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q06]]
+[[Quesiti/src_kangourou_2001_cadet#q06|src_kangourou_2001_cadet__Q06]]
 
 
 
@@ -300,7 +300,7 @@ Cutting off a ring to free them all
 > 7. ABCD is a square. What is the COM angle if the OND angle is 60°? (A) 10° (B) 15° (C) 20° (D) 30° (E) 35°.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q07]]
+[[Quesiti/src_kangourou_2001_cadet#q07|src_kangourou_2001_cadet__Q07]]
 
 
 
@@ -328,7 +328,7 @@ Cutting off a ring to free them all
 > 8. A small koala eats the leaves of an entire eucalyptus tree in 10 hours. Both his father and mother eat twice as fast as he does. How long will the three members of the family together manage to eat all the leaves of the same tree? (A) two hours (B) three hours (C) four hours (D) five hours (E) six hours. Kangourou 15 March 2001, category Cadet. This item is not intended to be used.
 
 **Answer:** A
-[[src_kangourou_2001_cadet__Q08]]
+[[Quesiti/src_kangourou_2001_cadet#q08|src_kangourou_2001_cadet__Q08]]
 
 
 
@@ -356,7 +356,7 @@ Cutting off a ring to free them all
 > 9. What is the ratio between the area of a regular hexagon on side 1 and the area of an equilateral triangle on side 3? 2 5 3 ( A ) (B) 2 (C) (D) (E) 1. 3 6 4
 
 **Answer:** A
-[[src_kangourou_2001_cadet__Q09]]
+[[Quesiti/src_kangourou_2001_cadet#q09|src_kangourou_2001_cadet__Q09]]
 
 
 
@@ -389,7 +389,7 @@ Cutting off a ring to free them all
 > 10. How many different paths are possible to go from point A to point B in the figure, if no point is allowed to be crossed more than once? (A) 3 (B) 6 (C) 7 (D) 8 (E) more than 10. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q10]]
+[[Quesiti/src_kangourou_2001_cadet#q10|src_kangourou_2001_cadet__Q10]]
 
 
 
@@ -418,7 +418,7 @@ Cutting off a ring to free them all
 > 11. The length of the side of a square placed on a plane is 1 cm. Each vertex of this square is the center of a radius of 1 cm, lying on the same plane. How many points in the plane do these circles intersect? (A) 6 (B) 8 (C) 10 (D) 12 (E) 14.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q11]]
+[[Quesiti/src_kangourou_2001_cadet#q11|src_kangourou_2001_cadet__Q11]]
 
 
 
@@ -446,7 +446,7 @@ The Night of Nicholas and Michele
 > 12. On each of the two tables there are 2001 nuts. Nicholas gets the nuts from one table, Michael gets the nuts from the other. In the first round, Nicholas takes one nut every three; then, in the second round, he takes one every five of the remaining. In the first round, Michele takes one nut every five; in the second round, one every three of the remaining ones. At this point, what is the situation? (A) Nicholas has 3/5 of Michael's nuts (B) Michael has 3/5 of Nicholas' nuts (C) Michael has 1 more nuts than Nicholas (D) Nicholas has 1 more nuts than Michael (E) Michael and Nicholas have the same number of nuts.
 
 **Answer:** E
-[[src_kangourou_2001_cadet__Q12]]
+[[Quesiti/src_kangourou_2001_cadet#q12|src_kangourou_2001_cadet__Q12]]
 
 
 
@@ -475,7 +475,7 @@ The Night of Nicholas and Michele
 > 13. In the expression below, each of the letters K, L, M, N and P corresponds to one and only one decimal digit. What number corresponds to the letter M? 4 × K L M N P 4 = 4 K L M N P. Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 3
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q13]]
+[[Quesiti/src_kangourou_2001_cadet#q13|src_kangourou_2001_cadet__Q13]]
 
 
 
@@ -550,7 +550,7 @@ The Night of Nicholas and Michele
 > - **(E)** 10°.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q14]]
+[[Quesiti/src_kangourou_2001_cadet#q14|src_kangourou_2001_cadet__Q14]]
 
 
 
@@ -595,7 +595,7 @@ The Night of Nicholas and Michele
 > - **(E)** 24.
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q15]]
+[[Quesiti/src_kangourou_2001_cadet#q15|src_kangourou_2001_cadet__Q15]]
 
 
 
@@ -638,7 +638,7 @@ The Night of Nicholas and Michele
 > - **(E)** 750 kg.
 
 **Answer:** E
-[[src_kangourou_2001_cadet__Q16]]
+[[Quesiti/src_kangourou_2001_cadet#q16|src_kangourou_2001_cadet__Q16]]
 
 
 
@@ -682,7 +682,7 @@ The Night of Nicholas and Michele
 > - **(E)** 135.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q17]]
+[[Quesiti/src_kangourou_2001_cadet#q17|src_kangourou_2001_cadet__Q17]]
 
 
 
@@ -784,7 +784,7 @@ The Night of Nicholas and Michele
 > Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 5
 
 **Answer:** A
-[[src_kangourou_2001_cadet__Q18]]
+[[Quesiti/src_kangourou_2001_cadet#q18|src_kangourou_2001_cadet__Q18]]
 
 
 
@@ -833,7 +833,7 @@ The Night of Nicholas and Michele
 > - **(E)** 120.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q19]]
+[[Quesiti/src_kangourou_2001_cadet#q19|src_kangourou_2001_cadet__Q19]]
 
 
 
@@ -887,7 +887,7 @@ The Night of Nicholas and Michele
 > - **(E)** 64. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q20]]
+[[Quesiti/src_kangourou_2001_cadet#q20|src_kangourou_2001_cadet__Q20]]
 
 
 
@@ -930,7 +930,7 @@ The Night of Nicholas and Michele
 > - **(E)** 12.
 
 **Answer:** E
-[[src_kangourou_2001_cadet__Q21]]
+[[Quesiti/src_kangourou_2001_cadet#q21|src_kangourou_2001_cadet__Q21]]
 
 
 
@@ -976,7 +976,7 @@ The Night of Nicholas and Michele
 > - **(E)** 72.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q22]]
+[[Quesiti/src_kangourou_2001_cadet#q22|src_kangourou_2001_cadet__Q22]]
 
 
 
@@ -1031,7 +1031,7 @@ The Night of Nicholas and Michele
 > - **(E)** 126.
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q23]]
+[[Quesiti/src_kangourou_2001_cadet#q23|src_kangourou_2001_cadet__Q23]]
 
 
 
@@ -1073,7 +1073,7 @@ The Night of Nicholas and Michele
 > - **(E)** 5.
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q24]]
+[[Quesiti/src_kangourou_2001_cadet#q24|src_kangourou_2001_cadet__Q24]]
 
 
 
@@ -1121,7 +1121,7 @@ The Night of Nicholas and Michele
 > - **(E)** 8 e 16.
 
 **Answer:** E
-[[src_kangourou_2001_cadet__Q25]]
+[[Quesiti/src_kangourou_2001_cadet#q25|src_kangourou_2001_cadet__Q25]]
 
 
 
@@ -1156,7 +1156,7 @@ The Night of Nicholas and Michele
 > I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes in turn contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102 B 64 C 118 D 115 E cannot be answered.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q26]]
+[[Quesiti/src_kangourou_2001_cadet#q26|src_kangourou_2001_cadet__Q26]]
 
 
 
@@ -1200,7 +1200,7 @@ The Night of Nicholas and Michele
 > - **(E)** 10.
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q27]]
+[[Quesiti/src_kangourou_2001_cadet#q27|src_kangourou_2001_cadet__Q27]]
 
 
 
@@ -1242,7 +1242,7 @@ The Night of Nicholas and Michele
 > - **(E)** 6.
 
 **Answer:** B
-[[src_kangourou_2001_cadet__Q28]]
+[[Quesiti/src_kangourou_2001_cadet#q28|src_kangourou_2001_cadet__Q28]]
 
 
 
@@ -1286,7 +1286,7 @@ The Night of Nicholas and Michele
 > - **(E)** 1024.
 
 **Answer:** D
-[[src_kangourou_2001_cadet__Q29]]
+[[Quesiti/src_kangourou_2001_cadet#q29|src_kangourou_2001_cadet__Q29]]
 
 
 
@@ -1332,4 +1332,4 @@ The stones to be taken to win
 > - **(E)** 5. 1 Answers Category Cadet Competition of 15 March 2001
 
 **Answer:** C
-[[src_kangourou_2001_cadet__Q30]]
+[[Quesiti/src_kangourou_2001_cadet#q30|src_kangourou_2001_cadet__Q30]]

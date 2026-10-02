@@ -22,7 +22,7 @@ level: INMO
 > (b) If $P$ is the circumcentre of $ABC$, then $P$ is the orthocentre of $A_1B_1C_1$;
 > (c) If $P$ is the orthocentre of $ABC$, then $P$ is either the incentre or an excentre of $A_1B_1C_1$.
 
-![[src_inmo_2001__Q01.png]]
+![[src_inmo_2001__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -38,9 +38,9 @@ level: INMO
 
 > $ABC$ sia un triangolo in cui nessun angolo 猫 $90^\circ$. Per qualsiasi punto $P$ nel piano del triangolo, $A_1, B_1, C_1$ indichi i riflessi di $P$ rispettivamente nei lati $BC, CA, AB$. Provare le seguenti affermazioni: (a) Se $P$ 猫 l'incentro o un eccentro di $ABC$, allora $P$ 猫 il circoncentro di $A_1B_1C_1$; (b) Se $P$ 猫 il circoncentro di $ABC$, allora $P$ 猫 l'ortocentro di $A_1B_1C_1$; (c) Se $P$ 猫 l'ortocentro di $ABC$, allora $P$ 猫 o l'incentro o un eccentro di $A_1B_1C_1$.
 
-![[src_inmo_2001__Q01.png]]
+![[src_inmo_2001__q01.png]]
 
-[[src_inmo_2001__Q01]]
+[[Quesiti/src_inmo_2001#q01|src_inmo_2001__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: INMO
 
 > Mostrare che l'equazione $$x^2 + y^2 + z^2 = (x - y)(y - z)(z - x)$$ ha infinite soluzioni in numeri interi $x, y, z$.
 
-[[src_inmo_2001__Q02]]
+[[Quesiti/src_inmo_2001#q02|src_inmo_2001__Q02]]
 
 
 
@@ -97,7 +97,7 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 > Se $a, b, c$ sono numeri reali positivi come $abc = 1$, dimostrare che $$a^{b+c} \cdot b^{c+a} \cdot c^{a+b} \le 1.$$
 
-[[src_inmo_2001__Q03]]
+[[Quesiti/src_inmo_2001#q03|src_inmo_2001__Q03]]
 
 
 
@@ -124,7 +124,7 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 > Date nove numeri interi, mostrare che 猫 possibile scegliere, tra loro, quattro numeri interi $a, b, c, d$ in modo tale che $a + b - c - d$ sia divisibile da $20$. Inoltre mostrano che una tale selezione non 猫 possibile se iniziamo con otto numeri interi invece di nove.
 
-[[src_inmo_2001__Q04]]
+[[Quesiti/src_inmo_2001#q04|src_inmo_2001__Q04]]
 
 
 
@@ -137,7 +137,7 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 > Let $ABC$ be a triangle and $D$ be the mid-point of $BC$. Suppose $\angle DAB = \angle DCA = 15^\circ$. Further, if $O$ is the circumcentre of $ADC$, prove that triangle $AOD$ is equilateral.
 
-![[src_inmo_2001__Q05.png]]
+![[src_inmo_2001__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -153,9 +153,9 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 > Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo $\angle DAB = \angle DCA = 15^\circ$. Inoltre, se $O$ 猫 il circoncentro di $ADC$, dimostrare che il triangolo $AOD$ 猫 equilaterale.
 
-![[src_inmo_2001__Q05.png]]
+![[src_inmo_2001__q05.png]]
 
-[[src_inmo_2001__Q05]]
+[[Quesiti/src_inmo_2001#q05|src_inmo_2001__Q05]]
 
 
 
@@ -184,4 +184,4 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)路b^(c+a)路c^(a+b)鈮
 
 > $\mathbf{R}$ indichi l'insieme dei numeri reali. Trova tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ che soddisfano la condizione $$f(x + y) = f(x)f(y)f(xy)$$ per tutte le $x, y \in \mathbf{R}$.
 
-[[src_inmo_2001__Q06]]
+[[Quesiti/src_inmo_2001#q06|src_inmo_2001__Q06]]

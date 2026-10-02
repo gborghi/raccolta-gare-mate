@@ -51,7 +51,7 @@ level: OBM Nível 1
 > 
 > b) Quanti numeri a tre cifre sono iscritti?
 
-[[src_obm_2013_n1_f3__Q01]]
+[[Quesiti/src_obm_2013_n1_f3#q01|src_obm_2013_n1_f3__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: OBM Nível 1
 > 
 > b) Chi prenderà tutte le monete?
 
-[[src_obm_2013_n1_f3__Q02]]
+[[Quesiti/src_obm_2013_n1_f3#q02|src_obm_2013_n1_f3__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: OBM Nível 1
 > 
 > What is the total white area of the combined figure?
 
-![[src_obm_2013_n1_f3__Q03.png]]
+![[src_obm_2013_n1_f3__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -127,9 +127,9 @@ level: OBM Nível 1
 > 
 > Qual è l'area bianca totale della figura combinata?
 
-![[src_obm_2013_n1_f3__Q03.png]]
+![[src_obm_2013_n1_f3__q03.png]]
 
-[[src_obm_2013_n1_f3__Q03]]
+[[Quesiti/src_obm_2013_n1_f3#q03|src_obm_2013_n1_f3__Q03]]
 
 
 
@@ -164,7 +164,7 @@ level: OBM Nível 1
 > 
 > b) In quale termine di questa sequenza appare per la prima volta la stringa di numeri $2013$ (in ordine)? Per esempio, la stringa $121$ appare per la prima volta nel quinto termine, $11\mathbf{121}31415$.
 
-[[src_obm_2013_n1_f3__Q04]]
+[[Quesiti/src_obm_2013_n1_f3#q04|src_obm_2013_n1_f3__Q04]]
 
 
 
@@ -207,4 +207,4 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero intero positivo più piccolo che può essere il numero più grande che appare nella tabella?
 
-[[src_obm_2013_n1_f3__Q05]]
+[[Quesiti/src_obm_2013_n1_f3#q05|src_obm_2013_n1_f3__Q05]]

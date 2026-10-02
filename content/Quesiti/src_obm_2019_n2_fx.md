@@ -53,7 +53,7 @@ level: OBM Nível 2
 > 
 > b) Un numero robusto è chiamato *super robusto* se tutti i suoi numeri sono distinti. Calcola la somma di tutti i numeri super-robusti.
 
-[[src_obm_2019_n2_fx__Q01]]
+[[Quesiti/src_obm_2019_n2_fx#q01|src_obm_2019_n2_fx__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: OBM Nível 2
 > 
 > Prove che $a + b \ge 4k$.
 
-[[src_obm_2019_n2_fx__Q02]]
+[[Quesiti/src_obm_2019_n2_fx#q02|src_obm_2019_n2_fx__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo rettangolo inciso in un cerchio $\Gamma$ con centro $O$. $D$ sia il piede dell'altitudine dal vertice $A$. $E$ e $F$ siano punti su $\Gamma$ in modo tale che $AE = AD = AF$. I punti di intersezione della linea $EF$ sono $P$ e $Q$ con i lati $AB$ e $AC$, rispettivamente. Il punto di intersezione $X$ è il secondo punto di intersezione della linea $EF$ con il circolo circonscritto del triangolo $APQ$. Indicare che le linee $XD$ e $AQ$ si incontrano su $\Gamma$.
 
-[[src_obm_2019_n2_fx__Q03]]
+[[Quesiti/src_obm_2019_n2_fx#q03|src_obm_2019_n2_fx__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: OBM Nível 2
 
 > Il $ABC$ deve essere un triangolo acuto e il $D$ un punto laterale $BC$. Il $E$ deve essere il riflesso di $D$ sulla linea $AC$, e il $F$ deve essere il riflesso di $D$ sulla linea $AB$. La linea $ED$ interseca la linea $AB$ a $G$, mentre la linea $FD$ interseca la linea $AC$ a $H$. Prova che i punti $A$, $E$, $F$, $G$ e $H$ si trovano tutti su un cerchio comune.
 
-[[src_obm_2019_n2_fx__Q04]]
+[[Quesiti/src_obm_2019_n2_fx#q04|src_obm_2019_n2_fx__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: OBM Nível 2
 > 
 > What is the maximum number of white unit squares that can be surrounded by exactly $n$ black unit squares?
 
-![[src_obm_2019_n2_fx__Q05.png]]
+![[src_obm_2019_n2_fx__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -173,9 +173,9 @@ level: OBM Nível 2
 > 
 > Qual è il numero massimo di quadrati di unità bianca che possono essere circondati da quadrati di unità nera esattamente $n$?
 
-![[src_obm_2019_n2_fx__Q05.png]]
+![[src_obm_2019_n2_fx__q05.png]]
 
-[[src_obm_2019_n2_fx__Q05]]
+[[Quesiti/src_obm_2019_n2_fx#q05|src_obm_2019_n2_fx__Q05]]
 
 
 
@@ -202,4 +202,4 @@ level: OBM Nível 2
 
 > Nel piano cartesiano, tutti i punti con entrambe le coordinate sono di colore blu. Si dice che due punti blu siano *visibili reciprocamente* se il segmento di linea che li collega non contiene altri punti blu. Prove che esiste un insieme di punti blu $2019$ che sono in coppia reciprocamente visibili.
 
-[[src_obm_2019_n2_fx__Q06]]
+[[Quesiti/src_obm_2019_n2_fx#q06|src_obm_2019_n2_fx__Q06]]

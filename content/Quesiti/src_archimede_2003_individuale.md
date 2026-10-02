@@ -33,7 +33,7 @@ level: nazionale
 
 > Find all three-digit natural numbers $n$ ($100 \le n \le 999$) that are equal to the number formed by the last three digits of $n^2$.
 
-[[src_archimede_2003_individuale__Q01]]
+[[Quesiti/src_archimede_2003_individuale#q01|src_archimede_2003_individuale__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: nazionale
 > 
 > Determine for which positive integers $n$ and $k$ the path can be arranged in accordance with these rules.
 
-[[src_archimede_2003_individuale__Q02]]
+[[Quesiti/src_archimede_2003_individuale#q02|src_archimede_2003_individuale__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: nazionale
 
 > In the figure, the point $C$ is within the radius $OB$ of a centre semiconductor $O$ and the segment $CD$ is perpendicular to the diameter $AB$. A center circumference $P$ is inscribed in the semiconductor, tangent to the arc $BD$ in $F$, to the segment $CD$ in $E$ and to the diameter $AB$ in $G$. Demonstrate that the $ADG$ triangle is isosceles. (see figure)
 
-[[src_archimede_2003_individuale__Q03]]
+[[Quesiti/src_archimede_2003_individuale#q03|src_archimede_2003_individuale__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: nazionale
 > 
 > Was the patient a con man or a knight?
 
-[[src_archimede_2003_individuale__Q04]]
+[[Quesiti/src_archimede_2003_individuale#q04|src_archimede_2003_individuale__Q04]]
 
 
 
@@ -172,7 +172,7 @@ level: nazionale
 > 
 > (b) Demonstrate that there are infinite positive integers $k$ such that there are no grids with exactly $k$ footings.
 
-[[src_archimede_2003_individuale__Q05]]
+[[Quesiti/src_archimede_2003_individuale#q05|src_archimede_2003_individuale__Q05]]
 
 
 
@@ -207,4 +207,4 @@ level: nazionale
 > 
 > Determine for which $n$ the Master Ceremonial Officer may arrange the signs so that the Master Ceremonial Officer may, starting from a suitable guest and following the procedure described, serve all the diners.
 
-[[src_archimede_2003_individuale__Q06]]
+[[Quesiti/src_archimede_2003_individuale#q06|src_archimede_2003_individuale__Q06]]

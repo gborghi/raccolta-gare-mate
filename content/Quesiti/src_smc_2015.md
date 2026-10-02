@@ -47,7 +47,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $2015$
 
 **Risposta:** D
-[[src_smc_2015__Q01]]
+[[Quesiti/src_smc_2015#q01|src_smc_2015__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $156$
 
 **Risposta:** A
-[[src_smc_2015__Q02]]
+[[Quesiti/src_smc_2015#q02|src_smc_2015__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $80\%$
 
 **Risposta:** B
-[[src_smc_2015__Q03]]
+[[Quesiti/src_smc_2015#q03|src_smc_2015__Q03]]
 
 
 
@@ -147,7 +147,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{1}{6}$
 > - **(E)** $\dfrac{3}{4}$
 
-![[src_smc_2015__Q04.png]]
+![[src_smc_2015__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -169,10 +169,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{1}{6}$
 > - **(E)** $\dfrac{3}{4}$
 
-![[src_smc_2015__Q04.png]]
+![[src_smc_2015__q04.png]]
 
 **Risposta:** B
-[[src_smc_2015__Q04]]
+[[Quesiti/src_smc_2015#q04|src_smc_2015__Q04]]
 
 
 
@@ -212,7 +212,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** A
-[[src_smc_2015__Q05]]
+[[Quesiti/src_smc_2015#q05|src_smc_2015__Q05]]
 
 
 
@@ -231,7 +231,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $9$
 > - **(E)** $10$
 
-![[src_smc_2015__Q06.png]]
+![[src_smc_2015__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -254,10 +254,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $9$
 > - **(E)** $10$
 
-![[src_smc_2015__Q06.png]]
+![[src_smc_2015__q06.png]]
 
 **Risposta:** E
-[[src_smc_2015__Q06]]
+[[Quesiti/src_smc_2015#q06|src_smc_2015__Q06]]
 
 
 
@@ -297,7 +297,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $\dfrac{\tfrac{1}{\tfrac{1}{3}}}{4}$
 
 **Risposta:** B
-[[src_smc_2015__Q07]]
+[[Quesiti/src_smc_2015#q07|src_smc_2015__Q07]]
 
 
 
@@ -316,7 +316,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $6$
 > - **(E)** $4$
 
-![[src_smc_2015__Q08.png]]
+![[src_smc_2015__q08.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -339,10 +339,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $6$
 > - **(E)** $4$
 
-![[src_smc_2015__Q08.png]]
+![[src_smc_2015__q08.png]]
 
 **Risposta:** D
-[[src_smc_2015__Q08]]
+[[Quesiti/src_smc_2015#q08|src_smc_2015__Q08]]
 
 
 
@@ -383,7 +383,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $5$
 
 **Risposta:** B
-[[src_smc_2015__Q09]]
+[[Quesiti/src_smc_2015#q09|src_smc_2015__Q09]]
 
 
 
@@ -423,7 +423,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $15$
 
 **Risposta:** D
-[[src_smc_2015__Q10]]
+[[Quesiti/src_smc_2015#q10|src_smc_2015__Q10]]
 
 
 
@@ -464,7 +464,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $27$
 
 **Risposta:** C
-[[src_smc_2015__Q11]]
+[[Quesiti/src_smc_2015#q11|src_smc_2015__Q11]]
 
 
 
@@ -483,7 +483,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\alpha + \beta$
 > - **(E)** $\tfrac{1}{4}(\alpha + \beta)$
 
-![[src_smc_2015__Q12.png]]
+![[src_smc_2015__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -505,10 +505,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\alpha + \beta$
 > - **(E)** $\tfrac{1}{4}(\alpha + \beta)$
 
-![[src_smc_2015__Q12.png]]
+![[src_smc_2015__q12.png]]
 
 **Risposta:** A
-[[src_smc_2015__Q12]]
+[[Quesiti/src_smc_2015#q12|src_smc_2015__Q12]]
 
 
 
@@ -549,7 +549,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** Venerdì
 
 **Risposta:** E
-[[src_smc_2015__Q13]]
+[[Quesiti/src_smc_2015#q13|src_smc_2015__Q13]]
 
 
 
@@ -568,7 +568,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $13\sqrt{2}$
 > - **(E)** $8\sqrt{5}$
 
-![[src_smc_2015__Q14.png]]
+![[src_smc_2015__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -590,10 +590,10 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $13\sqrt{2}$
 > - **(E)** $8\sqrt{5}$
 
-![[src_smc_2015__Q14.png]]
+![[src_smc_2015__q14.png]]
 
 **Risposta:** E
-[[src_smc_2015__Q14]]
+[[Quesiti/src_smc_2015#q14|src_smc_2015__Q14]]
 
 
 
@@ -633,7 +633,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $18$ cm
 
 **Risposta:** C
-[[src_smc_2015__Q15]]
+[[Quesiti/src_smc_2015#q15|src_smc_2015__Q15]]
 
 
 
@@ -674,7 +674,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $720$
 
 **Risposta:** A
-[[src_smc_2015__Q16]]
+[[Quesiti/src_smc_2015#q16|src_smc_2015__Q16]]
 
 
 
@@ -693,7 +693,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $\dfrac{1}{2}$
 > - **(E)** $\dfrac{1}{\sqrt{2}}$
 
-![[src_smc_2015__Q17.png]]
+![[src_smc_2015__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -715,10 +715,10 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $\dfrac{1}{2}$
 > - **(E)** $\dfrac{1}{\sqrt{2}}$
 
-![[src_smc_2015__Q17.png]]
+![[src_smc_2015__q17.png]]
 
 **Risposta:** C
-[[src_smc_2015__Q17]]
+[[Quesiti/src_smc_2015#q17|src_smc_2015__Q17]]
 
 
 
@@ -759,7 +759,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $5040$
 
 **Risposta:** D
-[[src_smc_2015__Q18]]
+[[Quesiti/src_smc_2015#q18|src_smc_2015__Q18]]
 
 
 
@@ -778,7 +778,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $32, 40$
 > - **(E)** $34, 42$
 
-![[src_smc_2015__Q19.png]]
+![[src_smc_2015__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -800,10 +800,10 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $32, 40$
 > - **(E)** $34, 42$
 
-![[src_smc_2015__Q19.png]]
+![[src_smc_2015__q19.png]]
 
 **Risposta:** A
-[[src_smc_2015__Q19]]
+[[Quesiti/src_smc_2015#q19|src_smc_2015__Q19]]
 
 
 
@@ -843,7 +843,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $\pi + 1$
 
 **Risposta:** E
-[[src_smc_2015__Q20]]
+[[Quesiti/src_smc_2015#q20|src_smc_2015__Q20]]
 
 
 
@@ -862,7 +862,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $\dfrac{13}{14}$
 > - **(E)** $\dfrac{14}{15}$
 
-![[src_smc_2015__Q21.png]]
+![[src_smc_2015__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -884,10 +884,10 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $\dfrac{13}{14}$
 > - **(E)** $\dfrac{14}{15}$
 
-![[src_smc_2015__Q21.png]]
+![[src_smc_2015__q21.png]]
 
 **Risposta:** C
-[[src_smc_2015__Q21]]
+[[Quesiti/src_smc_2015#q21|src_smc_2015__Q21]]
 
 
 
@@ -928,7 +928,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $2015$
 
 **Risposta:** B
-[[src_smc_2015__Q22]]
+[[Quesiti/src_smc_2015#q22|src_smc_2015__Q22]]
 
 
 
@@ -969,7 +969,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $113$
 
 **Risposta:** D
-[[src_smc_2015__Q23]]
+[[Quesiti/src_smc_2015#q23|src_smc_2015__Q23]]
 
 
 
@@ -1010,7 +1010,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $24$
 
 **Risposta:** C
-[[src_smc_2015__Q24]]
+[[Quesiti/src_smc_2015#q24|src_smc_2015__Q24]]
 
 
 
@@ -1051,4 +1051,4 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(E)** $50$
 
 **Risposta:** C
-[[src_smc_2015__Q25]]
+[[Quesiti/src_smc_2015#q25|src_smc_2015__Q25]]

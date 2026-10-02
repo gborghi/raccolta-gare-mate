@@ -33,7 +33,7 @@ level: Coupe Animath Printemps
 
 > Lascia che il $ABCD$ sia un rombo. Il punto $K$ deve essere un punto della riga $(CD)$, diverso da $C$ e $D$, in modo tale che $AD = BK$. Il punto di intersezione della linea $(BD)$ con il bisettore perpendicolare del segmento $[BC]$ è $P$. Provare che i punti $A$, $K$ e $P$ sono collineari.
 
-[[src_canimath_2013_printemps__Q03]]
+[[Quesiti/src_canimath_2013_printemps#q03|src_canimath_2013_printemps__Q03]]
 
 
 
@@ -62,7 +62,7 @@ level: Coupe Animath Printemps
 > I denominatori di due frazioni irriducibili sono $600$ e $700$. Qual è il minimo valore possibile del denominatore della loro somma (quando la somma è scritta come una frazione irriducibile)?
 
 **Risposta:** 168
-[[src_canimath_2013_printemps__Q04]]
+[[Quesiti/src_canimath_2013_printemps#q04|src_canimath_2013_printemps__Q04]]
 
 
 
@@ -93,7 +93,7 @@ level: Coupe Animath Printemps
 > 
 > Per quali valori di $m$ e $n$ cambia colore la scarafaggio ad ogni passo?
 
-[[src_canimath_2013_printemps__Q05]]
+[[Quesiti/src_canimath_2013_printemps#q05|src_canimath_2013_printemps__Q05]]
 
 
 
@@ -130,4 +130,4 @@ level: Coupe Animath Printemps
 > 
 > b) Qual è il numero minimo di tentativi richiesti per garantire l'apertura della casella forte, indipendentemente dal codice segreto?
 
-[[src_canimath_2013_printemps__Q06]]
+[[Quesiti/src_canimath_2013_printemps#q06|src_canimath_2013_printemps__Q06]]

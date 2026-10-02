@@ -36,7 +36,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le soluzioni razionali $x, y, z, t, w$ al seguente sistema: $$2xy = t^2 - w^2 + z^2,$$ $$2xz = t^2 - y^2 + w^2,$$ $$2yz = t^2 - w^2 + x^2.$$
 
-[[src_pol_1993_r3__Q01]]
+[[Quesiti/src_pol_1993_r3#q01|src_pol_1993_r3__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Olimpiade Polacca Round 3
 
 > Un cerchio $k$ con centro $O$ è inserito in un trapezoide non-isosceles $ABCD$ con base più lunga $AB$. $M$ sia il punto medio di $AB$. La linea $CD$ tocca $k$ al punto $E$ e interseca la linea $OM$ al punto $F$. Prove che $DE = FC$ se e solo se $AB = 2CD$.
 
-[[src_pol_1993_r3__Q02]]
+[[Quesiti/src_pol_1993_r3#q02|src_pol_1993_r3__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: Olimpiade Polacca Round 3
 
 > Indichiamo $g(k)$ il più grande divisore odd di un intero positivo $k$. Abbiamo impostato $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$ e definito la sequenza $x_n$ da $x_1 = 1$ e $x_{n+1} = f(x_n)$ per $n \in \mathbb{N}$. Indicare che il numero $800$ appare nella sequenza esattamente una volta e determinare per quale $n$ $x_n = 800$.
 
-[[src_pol_1993_r3__Q03]]
+[[Quesiti/src_pol_1993_r3#q03|src_pol_1993_r3__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: Olimpiade Polacca Round 3
 
 > Si deve dare un poliedro convexo le cui facce sono tutte triangolari. I vertici del poliedro sono colorati utilizzando tre colori. Prova che il numero di volti con vertici in tutti e tre i colori è pari.
 
-[[src_pol_1993_r3__Q04]]
+[[Quesiti/src_pol_1993_r3#q04|src_pol_1993_r3__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano le seguenti condizioni: $$f(-x) = -f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for } x \in \mathbb{R};$$ $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
 
-[[src_pol_1993_r3__Q05]]
+[[Quesiti/src_pol_1993_r3#q05|src_pol_1993_r3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: Olimpiade Polacca Round 3
 
 > Scopri se è possibile determinare il volume di un tetraedro conoscendo le aree delle sue facce e il suo circondario.
 
-[[src_pol_1993_r3__Q06]]
+[[Quesiti/src_pol_1993_r3#q06|src_pol_1993_r3__Q06]]

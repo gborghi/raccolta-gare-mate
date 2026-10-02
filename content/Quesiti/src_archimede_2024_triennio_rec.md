@@ -45,7 +45,7 @@ level: triennio
 > - **(D)** 12
 > - **(E)** 11
 
-[[src_archimede_2024_triennio_rec__Q01]]
+[[Quesiti/src_archimede_2024_triennio_rec#q01|src_archimede_2024_triennio_rec__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 13
 
-[[src_archimede_2024_triennio_rec__Q02]]
+[[Quesiti/src_archimede_2024_triennio_rec#q02|src_archimede_2024_triennio_rec__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: triennio
 > - **(D)** No one
 > - **(E)** 36
 
-[[src_archimede_2024_triennio_rec__Q03]]
+[[Quesiti/src_archimede_2024_triennio_rec#q03|src_archimede_2024_triennio_rec__Q03]]
 
 
 
@@ -173,7 +173,7 @@ level: triennio
 > - **(D)** 1/3
 > - **(E)** 2
 
-[[src_archimede_2024_triennio_rec__Q04]]
+[[Quesiti/src_archimede_2024_triennio_rec#q04|src_archimede_2024_triennio_rec__Q04]]
 
 
 
@@ -238,7 +238,7 @@ level: triennio
 > - **(D)** 16
 > - **(E)** 12
 
-[[src_archimede_2024_triennio_rec__Q05]]
+[[Quesiti/src_archimede_2024_triennio_rec#q05|src_archimede_2024_triennio_rec__Q05]]
 
 
 
@@ -276,7 +276,7 @@ level: triennio
 > - **(D)** 50
 > - **(E)** 42
 
-[[src_archimede_2024_triennio_rec__Q06]]
+[[Quesiti/src_archimede_2024_triennio_rec#q06|src_archimede_2024_triennio_rec__Q06]]
 
 
 
@@ -343,7 +343,7 @@ level: triennio
 > - **(D)** 17/4
 > - **(E)** 9/2
 
-[[src_archimede_2024_triennio_rec__Q07]]
+[[Quesiti/src_archimede_2024_triennio_rec#q07|src_archimede_2024_triennio_rec__Q07]]
 
 
 
@@ -396,7 +396,7 @@ level: triennio
 > - **(D)** √ 3 3
 > - **(E)** 3 4
 
-[[src_archimede_2024_triennio_rec__Q08]]
+[[Quesiti/src_archimede_2024_triennio_rec#q08|src_archimede_2024_triennio_rec__Q08]]
 
 
 
@@ -436,7 +436,7 @@ level: triennio
 > - **(D)** 7
 > - **(E)** 5
 
-[[src_archimede_2024_triennio_rec__Q09]]
+[[Quesiti/src_archimede_2024_triennio_rec#q09|src_archimede_2024_triennio_rec__Q09]]
 
 
 
@@ -476,7 +476,7 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 432
 > - **(E)** 420
 
-[[src_archimede_2024_triennio_rec__Q10]]
+[[Quesiti/src_archimede_2024_triennio_rec#q10|src_archimede_2024_triennio_rec__Q10]]
 
 
 
@@ -529,7 +529,7 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 4
 > - **(E)** 9/2
 
-[[src_archimede_2024_triennio_rec__Q11]]
+[[Quesiti/src_archimede_2024_triennio_rec#q11|src_archimede_2024_triennio_rec__Q11]]
 
 
 
@@ -572,7 +572,7 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 90
 > - **(E)** 81
 
-[[src_archimede_2024_triennio_rec__Q12]]
+[[Quesiti/src_archimede_2024_triennio_rec#q12|src_archimede_2024_triennio_rec__Q12]]
 
 
 
@@ -612,7 +612,7 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** No one
 > - **(E)** 68
 
-[[src_archimede_2024_triennio_rec__Q13]]
+[[Quesiti/src_archimede_2024_triennio_rec#q13|src_archimede_2024_triennio_rec__Q13]]
 
 
 
@@ -663,7 +663,7 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 77°
 > - **(E)** 72°
 
-[[src_archimede_2024_triennio_rec__Q14]]
+[[Quesiti/src_archimede_2024_triennio_rec#q14|src_archimede_2024_triennio_rec__Q14]]
 
 
 
@@ -702,7 +702,7 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 30
 > - **(E)** 25
 
-[[src_archimede_2024_triennio_rec__Q15]]
+[[Quesiti/src_archimede_2024_triennio_rec#q15|src_archimede_2024_triennio_rec__Q15]]
 
 
 
@@ -744,4 +744,4 @@ How to sit 4 pairs of sisters next to each other
 > - **(D)** 1/10
 > - **(E)** 7/80 511
 
-[[src_archimede_2024_triennio_rec__Q16]]
+[[Quesiti/src_archimede_2024_triennio_rec#q16|src_archimede_2024_triennio_rec__Q16]]

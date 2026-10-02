@@ -38,7 +38,7 @@ level: squadre
 > The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius of 1 Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$ The last belt is the only one with a greater radius than 2001 Imoparsec. How many are in all the belts?
 
 **Answer:** 0023
-[[src_cesenatico_2001_squadre__Q01]]
+[[Quesiti/src_cesenatico_2001_squadre#q01|src_cesenatico_2001_squadre__Q01]]
 
 
 
@@ -76,7 +76,7 @@ The position of the planet (24.25) in the order of the planets
 > (NB: More formally $(a,b)$ comes before $(c,d)$ if and only if: $a+b < c+d$ or $a+b = c+d$ and $a > c$.)
 
 **Answer:** 1250
-[[src_cesenatico_2001_squadre__Q02]]
+[[Quesiti/src_cesenatico_2001_squadre#q02|src_cesenatico_2001_squadre__Q02]]
 
 
 
@@ -108,7 +108,7 @@ The position of the planet (24.25) in the order of the planets
 > Five sunken spaceships are returning home from a voyage of exploration in our galaxy and one of them has just suffered irreparable damage. The crew of this ship is transferred to the other four and when these ships resume their journey each has the same number of people on board. The captain of the ship failing realizes that if his crew had been less numerous it would not have been possible to distribute it among the ships in order to obtain the same result. Since at the start of the voyage the four healthy ships contained 109, 49, 267, and 278 imes, how many crew members were on the wrecked ship?
 
 **Answer:** 0409
-[[src_cesenatico_2001_squadre__Q03]]
+[[Quesiti/src_cesenatico_2001_squadre#q03|src_cesenatico_2001_squadre__Q03]]
 
 
 
@@ -140,7 +140,7 @@ The position of the planet (24.25) in the order of the planets
 > The confederation's parliament is based on a triangle whose angle is twice that of the other. All sides of the triangle have a full length and a measure of 55 mm. How long can the perimeter of the building be, at most?
 
 **Answer:** 1540
-[[src_cesenatico_2001_squadre__Q04]]
+[[Quesiti/src_cesenatico_2001_squadre#q04|src_cesenatico_2001_squadre__Q04]]
 
 
 
@@ -215,7 +215,7 @@ The position of the planet (24.25) in the order of the planets
 > (see figure)
 
 **Answer:** 0020
-[[src_cesenatico_2001_squadre__Q05]]
+[[Quesiti/src_cesenatico_2001_squadre#q05|src_cesenatico_2001_squadre__Q05]]
 
 
 
@@ -298,7 +298,7 @@ The position of the planet (24.25) in the order of the planets
 > (NB: The answer to any of the definitions can also be a number less than 1000. If one of the answers should be, for example, 13, enter 0013 in the table)
 
 **Answer:** 7100
-[[src_cesenatico_2001_squadre__Q06]]
+[[Quesiti/src_cesenatico_2001_squadre#q06|src_cesenatico_2001_squadre__Q06]]
 
 
 
@@ -331,7 +331,7 @@ The position of the planet (24.25) in the order of the planets
 > To subscribe to the contest, you must pay 50 shields to the Free Students' Association. In the confederation you can find banknotes of any value from 1 to 100 shields. How many ways can an Imese pay for a contest subscription using three different bills?
 
 **Answer:** 0184
-[[src_cesenatico_2001_squadre__Q07]]
+[[Quesiti/src_cesenatico_2001_squadre#q07|src_cesenatico_2001_squadre__Q07]]
 
 
 
@@ -363,7 +363,7 @@ The position of the planet (24.25) in the order of the planets
 > The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the angles of the triangle detected by the three points and considering the points that these angles intercept on the circumference. Xam begins to play with points that on the circumference identify arcs of length 1, 2 and 3. Xam stops after the 2001 move. How many digits after the comma does the product of the lengths of the three arcs identified by the last points drawn have?
 
 **Answer:** 4001
-[[src_cesenatico_2001_squadre__Q08]]
+[[Quesiti/src_cesenatico_2001_squadre#q08|src_cesenatico_2001_squadre__Q08]]
 
 
 
@@ -395,7 +395,7 @@ The position of the planet (24.25) in the order of the planets
 > Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of its stones is equal). Assuming Obob leaves with 3 piles made of 441, 1437, and 327 stones respectively, what is the maximum number of piles he can come up with?
 
 **Answer:** 0735
-[[src_cesenatico_2001_squadre__Q09]]
+[[Quesiti/src_cesenatico_2001_squadre#q09|src_cesenatico_2001_squadre__Q09]]
 
 
 
@@ -444,7 +444,7 @@ The position of the planet (24.25) in the order of the planets
 > The Greek letters represent two different unknown Qwghlmian figures. Calculate the maximum value that the known term can assume.
 
 **Answer:** 3024
-[[src_cesenatico_2001_squadre__Q10]]
+[[Quesiti/src_cesenatico_2001_squadre#q10|src_cesenatico_2001_squadre__Q10]]
 
 
 
@@ -477,7 +477,7 @@ The position of the planet (24.25) in the order of the planets
 > The typical imesis house is made up of three square chambers of 10 mm side length connected by a triangular-shaped compartment, so that each side of this compartment coincides with one side of one of the chambers. The roof is a straight circular cone. What is the minimum radius that the base of the roof must have to cover the entire house? (Only the full part of the number found is indicated in the answer)
 
 **Answer:** 0013
-[[src_cesenatico_2001_squadre__Q11]]
+[[Quesiti/src_cesenatico_2001_squadre#q11|src_cesenatico_2001_squadre__Q11]]
 
 
 
@@ -509,7 +509,7 @@ The position of the planet (24.25) in the order of the planets
 > The wall clocks in use in the Confederation are all in the shape of a rectangle having the angle between the $45°$ diagonals. The upper side is parallel to the ground, while the lower side measures 1224 impolite. There is only a long handful of hours that moves like ours and after half a day he has made an exact turn. In the capital, a day lasts 20 hours; at this time it is one quarter and the bidding point identifies a point that divides the main side of the rectangle into two segments. What is the length of the lesser of the two segments?
 
 **Answer:** 0865
-[[src_cesenatico_2001_squadre__Q12]]
+[[Quesiti/src_cesenatico_2001_squadre#q12|src_cesenatico_2001_squadre__Q12]]
 
 
 
@@ -541,7 +541,7 @@ The position of the planet (24.25) in the order of the planets
 > Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $\circ$ and $\triangle$. The $\circ$ symbol at the end of a sequence meant adding a unit, while the $\triangle$ symbol meant multiplying by 7. For example, the sequence $\circ\circ\circ\circ\triangle\circ$ represented the number 29. What is the minimum number of symbols needed to represent the number 2001?
 
 **Answer:** 0024
-[[src_cesenatico_2001_squadre__Q13]]
+[[Quesiti/src_cesenatico_2001_squadre#q13|src_cesenatico_2001_squadre__Q13]]
 
 
 
@@ -574,7 +574,7 @@ The position of the planet (24.25) in the order of the planets
 > In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is 7 (for example, the year 1060 is even-numbered). How many leap years have there been between year zero and year 5000?
 
 **Answer:** 0110
-[[src_cesenatico_2001_squadre__Q14]]
+[[Quesiti/src_cesenatico_2001_squadre#q14|src_cesenatico_2001_squadre__Q14]]
 
 
 
@@ -606,7 +606,7 @@ The position of the planet (24.25) in the order of the planets
 > Confederation president Ocram Itrof wants to make a pool in his villa garden. Because he doesn't like too complicated geometric figures, he decides that his pool will be rectangular, just like his garden is rectangular. In addition, he would like to put a three-lane road around the basin to form a triangle. Considering the width of the alley is negligible, what will be the base area of the pool (in $\text{im}^2$) at most if the garden extends for $3500\ \text{im}^2$?
 
 **Answer:** 0875
-[[src_cesenatico_2001_squadre__Q15]]
+[[Quesiti/src_cesenatico_2001_squadre#q15|src_cesenatico_2001_squadre__Q15]]
 
 
 
@@ -643,7 +643,7 @@ The position of the planet (24.25) in the order of the planets
 > NB: A team scores even when they get the ball.
 
 **Answer:** 0081
-[[src_cesenatico_2001_squadre__Q16]]
+[[Quesiti/src_cesenatico_2001_squadre#q16|src_cesenatico_2001_squadre__Q16]]
 
 
 
@@ -675,7 +675,7 @@ The position of the planet (24.25) in the order of the planets
 > Returning from their journey, Aerdna and Oloap inherited a square-shaped field whose side is 100 immutable. The will says that the division of the field must be done by drawing a line that cuts two opposite sides so that the difference in the perimeter of the two sides is 120 immutable. What is the relationship between the area of the largest part and the area of the smallest?
 
 **Answer:** 0004
-[[src_cesenatico_2001_squadre__Q17]]
+[[Quesiti/src_cesenatico_2001_squadre#q17|src_cesenatico_2001_squadre__Q17]]
 
 
 
@@ -707,7 +707,7 @@ The position of the planet (24.25) in the order of the planets
 > Oloap and Aerdna, having inherited their field from $10000\ \text{imotavole}^2$, decide to plough it by dividing the work in half. They're going to take eight hours each to work both. Wanting to take less time, they ask for help from Innaig, also the owner of a plough, who works at their own pace and is willing to help them if the help is exactly returned by both. In doing so, each of them works six hours to plough all the fields. How large is the field of Innaig?
 
 **Answer:** 1250
-[[src_cesenatico_2001_squadre__Q18]]
+[[Quesiti/src_cesenatico_2001_squadre#q18|src_cesenatico_2001_squadre__Q18]]
 
 
 
@@ -739,7 +739,7 @@ The position of the planet (24.25) in the order of the planets
 > Ammac and Olonam would like to buy a limousine, splitting the cost in half, but they currently only have the $\frac{3}{4}$ of the required amount. The generous Ollimac lends to both at zero interest the amount of money each of them needs to complete their quota; in particular, he lends 2 million shields to Olonam. Ammac pledges to buy 10 million shields (all his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
 
 **Answer:** 0032
-[[src_cesenatico_2001_squadre__Q19]]
+[[Quesiti/src_cesenatico_2001_squadre#q19|src_cesenatico_2001_squadre__Q19]]
 
 
 
@@ -779,7 +779,7 @@ The position of the planet (24.25) in the order of the planets
 > $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)(x-64)\ ?»$$
 
 **Answer:** 1536
-[[src_cesenatico_2001_squadre__Q20]]
+[[Quesiti/src_cesenatico_2001_squadre#q20|src_cesenatico_2001_squadre__Q20]]
 
 
 
@@ -811,7 +811,7 @@ The position of the planet (24.25) in the order of the planets
 > The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after 20 years, the amount of a current account is multiplied by five times. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last four digits of the statement that Ocnarf's heirs will be able to read in 40020 years?
 
 **Answer:** 3125
-[[src_cesenatico_2001_squadre__Q21]]
+[[Quesiti/src_cesenatico_2001_squadre#q21|src_cesenatico_2001_squadre__Q21]]
 
 
 
@@ -848,7 +848,7 @@ The position of the planet (24.25) in the order of the planets
 > (NB: Non-zero constant polynomials have degree 0 and the polynomial 0 per convention has degree $-\infty$; therefore the latter is not an honest polynomial)
 
 **Answer:** 0646
-[[src_cesenatico_2001_squadre__Q22]]
+[[Quesiti/src_cesenatico_2001_squadre#q22|src_cesenatico_2001_squadre__Q22]]
 
 
 
@@ -887,7 +887,7 @@ The position of the planet (24.25) in the order of the planets
 > Calculate the smallest positive integer $a$ for which there are three non-zero integers $b$, $c$ and $d$ such that the sum of the months of $\frac{a}{b}$ and $\frac{c}{d}$ coincides with their ordinary sum. You answer 0 if the sum of the months never matches the normal sum when $a$ is a positive integer.
 
 **Answer:** 0000
-[[src_cesenatico_2001_squadre__Q23]]
+[[Quesiti/src_cesenatico_2001_squadre#q23|src_cesenatico_2001_squadre__Q23]]
 
 
 
@@ -923,7 +923,7 @@ The position of the planet (24.25) in the order of the planets
 > (NB: 1 and $k$ are considered to be $k$ divisors)
 
 **Answer:** 0027
-[[src_cesenatico_2001_squadre__Q24]]
+[[Quesiti/src_cesenatico_2001_squadre#q24|src_cesenatico_2001_squadre__Q24]]
 
 
 
@@ -956,4 +956,4 @@ The position of the planet (24.25) in the order of the planets
 > There is a square next to the parliament building with three circular fountains. Two of them have a radius of 52 mm, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
 
 **Answer:** 0013
-[[src_cesenatico_2001_squadre__Q25]]
+[[Quesiti/src_cesenatico_2001_squadre#q25|src_cesenatico_2001_squadre__Q25]]

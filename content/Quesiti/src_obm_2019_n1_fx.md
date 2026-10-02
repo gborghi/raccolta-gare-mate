@@ -43,7 +43,7 @@ level: OBM Nível 1
 > 
 > c) In un caso in cui $O$ è doppio di $M$, qual è il valore di $B$?
 
-[[src_obm_2019_n1_fx__Q01]]
+[[Quesiti/src_obm_2019_n1_fx#q01|src_obm_2019_n1_fx__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: OBM Nível 1
 > 
 > d) all ten tiles are placed, so that in any two small squares sharing a side there are no two black tiles?
 
-![[src_obm_2019_n1_fx__Q02.png]]
+![[src_obm_2019_n1_fx__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -92,9 +92,9 @@ level: OBM Nível 1
 > 
 > d) tutte le dieci piastrelle sono posizionate in modo tale che in due piccoli quadrati che condividono un lato non ci siano due piastrelle nere?
 
-![[src_obm_2019_n1_fx__Q02.png]]
+![[src_obm_2019_n1_fx__q02.png]]
 
-[[src_obm_2019_n1_fx__Q02]]
+[[Quesiti/src_obm_2019_n1_fx#q02|src_obm_2019_n1_fx__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: OBM Nível 1
 > 
 > c) Determine the legs of the triangle that could be used to calculate the distance from square $1$ to square $2019$.
 
-![[src_obm_2019_n1_fx__Q03.png]]
+![[src_obm_2019_n1_fx__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -143,9 +143,9 @@ level: OBM Nível 1
 > 
 > c) Determinare le gambe del triangolo che potrebbero essere utilizzate per calcolare la distanza da quadrato $1$ a quadrato $2019$.
 
-![[src_obm_2019_n1_fx__Q03.png]]
+![[src_obm_2019_n1_fx__q03.png]]
 
-[[src_obm_2019_n1_fx__Q03]]
+[[Quesiti/src_obm_2019_n1_fx#q03|src_obm_2019_n1_fx__Q03]]
 
 
 
@@ -166,7 +166,7 @@ level: OBM Nível 1
 > 
 > Find all possible values of $x + y$ and, for each value, give an example of how to fill in all the numbers.
 
-![[src_obm_2019_n1_fx__Q04.png]]
+![[src_obm_2019_n1_fx__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -188,9 +188,9 @@ level: OBM Nível 1
 > 
 > Trovare tutti i valori possibili di $x + y$ e, per ogni valore, fornire un esempio di come compilare tutti i numeri.
 
-![[src_obm_2019_n1_fx__Q04.png]]
+![[src_obm_2019_n1_fx__q04.png]]
 
-[[src_obm_2019_n1_fx__Q04]]
+[[Quesiti/src_obm_2019_n1_fx#q04|src_obm_2019_n1_fx__Q04]]
 
 
 
@@ -211,7 +211,7 @@ level: OBM Nível 1
 > 
 > c) Show that there exists a square with vertices on the grid that has exactly $84$ lattice points in its interior.
 
-![[src_obm_2019_n1_fx__Q05.png]]
+![[src_obm_2019_n1_fx__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -235,6 +235,6 @@ level: OBM Nível 1
 > 
 > c) Indicare che esiste un quadrato con vertici sulla griglia che ha esattamente $84$ punti reticolari all'interno.
 
-![[src_obm_2019_n1_fx__Q05.png]]
+![[src_obm_2019_n1_fx__q05.png]]
 
-[[src_obm_2019_n1_fx__Q05]]
+[[Quesiti/src_obm_2019_n1_fx#q05|src_obm_2019_n1_fx__Q05]]

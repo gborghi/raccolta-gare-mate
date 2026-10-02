@@ -35,7 +35,7 @@ level: PRMO
 > Un numero naturale $k$ è tale che $k^2 < 2014 < (k+1)^2$. Qual è il più grande fattore primo di $k$?
 
 **Risposta:** 11
-[[src_prmo_2014__Q01]]
+[[Quesiti/src_prmo_2014#q01|src_prmo_2014__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: PRMO
 > Il primo termine di una sequenza è 2014. Ogni termine successivo è la somma dei cubi dei numeri del termine precedente. Qual è il termine $2014^{\text{th}}$ della sequenza?
 
 **Risposta:** 2
-[[src_prmo_2014__Q02]]
+[[Quesiti/src_prmo_2014#q02|src_prmo_2014__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: PRMO
 > Il $ABCD$ deve essere un quadrilaterale converso con diagonali perpendicolari. Se $AB = 20$, $BC = 70$ e $CD = 90$, qual è il valore di $DA$?
 
 **Risposta:** 60
-[[src_prmo_2014__Q03]]
+[[Quesiti/src_prmo_2014#q03|src_prmo_2014__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: PRMO
 > In un triangolo con lunghezze laterali interi, un lato è tre volte più lungo di un secondo lato, e il terzo lato è 17. Qual è il più grande perimetro possibile del triangolo?
 
 **Risposta:** 49
-[[src_prmo_2014__Q04]]
+[[Quesiti/src_prmo_2014#q04|src_prmo_2014__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: PRMO
 > Se i numeri reali $a, b, c, d, e$ soddisfano $$a+1=b+2=c+3=d+4=k+5=a+b+c+d+e+3,$$ qual è il valore di $a^2 + b^2 + c^2 + d^2 + e^2$?
 
 **Risposta:** 10
-[[src_prmo_2014__Q05]]
+[[Quesiti/src_prmo_2014#q05|src_prmo_2014__Q05]]
 
 
 
@@ -182,7 +182,7 @@ level: PRMO
 > Qual è il numero naturale $n$ più piccolo possibile per il quale l'equazione $x^2 - nx + 2014 = 0$ ha radici interi?
 
 **Risposta:** 91
-[[src_prmo_2014__Q06]]
+[[Quesiti/src_prmo_2014#q06|src_prmo_2014__Q06]]
 
 
 
@@ -211,7 +211,7 @@ level: PRMO
 > Se $2^{x+y} = 4$, qual è il valore di $2^{1/x} + 2^{1/y}$?
 
 **Risposta:** 4
-[[src_prmo_2014__Q07]]
+[[Quesiti/src_prmo_2014#q07|src_prmo_2014__Q07]]
 
 
 
@@ -240,7 +240,7 @@ level: PRMO
 > $S$ sia un insieme di numeri reali con media $M$. Se i mezzi degli insiemi $S \cup \{15\}$ e $S \cup \{15, 1\}$ sono rispettivamente $M + 2$ e $M + 1$, quanti elementi ha $S$?
 
 **Risposta:** 4
-[[src_prmo_2014__Q08]]
+[[Quesiti/src_prmo_2014#q08|src_prmo_2014__Q08]]
 
 
 
@@ -269,7 +269,7 @@ level: PRMO
 > I numeri naturali $p, q, r$ sono tali che $a$ e $b$ sono radici di $x^2 - px + 1 = 0$ e $a + \frac{1}{b}$ e $b + \frac{1}{a}$ sono radici di $x^2 - rx + q = 0$. Qual è la somma di tutti i valori possibili di $q$?
 
 **Risposta:** 10
-[[src_prmo_2014__Q09]]
+[[Quesiti/src_prmo_2014#q09|src_prmo_2014__Q09]]
 
 
 
@@ -298,7 +298,7 @@ level: PRMO
 > In un triangolo $ABC$, $X$ e $Y$ sono punti sui segmenti $AB$ e $AC$, rispettivamente, tali da $AX : XB = 1 : 2$ e $AY : YC = 2 : 1$. Se l'area del triangolo $AXY$ è 10 allora qual è l'area del triangolo $ABC$?
 
 **Risposta:** 45
-[[src_prmo_2014__Q10]]
+[[Quesiti/src_prmo_2014#q10|src_prmo_2014__Q10]]
 
 
 
@@ -327,7 +327,7 @@ level: PRMO
 > Per i numeri naturali $x$ e $y$, $(x, y)$ indichi il più grande divisore comune di $x$ e $y$. Quante coppie di numeri naturali $x$ e $y$ con $x \le y$ soddisfano l'equazione $xy + y(x, y) = (x + y)^2$?
 
 **Risposta:** 3
-[[src_prmo_2014__Q11]]
+[[Quesiti/src_prmo_2014#q11|src_prmo_2014__Q11]]
 
 
 
@@ -356,7 +356,7 @@ level: PRMO
 > Il $ABCD$ deve essere un quadrilaterale converso con $\angle DAB = \angle BDC = 90^\circ$. Lasciate che gli incircoli dei triangoli $ABD$ e $BCD$ toccino $BD$ a $P$ e $Q$, rispettivamente, con $P$ tra $B$ e $Q$. Se $AD = 999$ e $PQ = 200$, qual è la somma dei radii degli incircoli dei triangoli $ABD$ e $BCD$?
 
 **Risposta:** 799
-[[src_prmo_2014__Q12]]
+[[Quesiti/src_prmo_2014#q12|src_prmo_2014__Q12]]
 
 
 
@@ -385,7 +385,7 @@ level: PRMO
 > Per quanti numeri naturali $n$ tra il 1 e il 2014 (entrambi inclusi) $\dfrac{8n}{9999 - n}$ è un numero intero?
 
 **Risposta:** 1
-[[src_prmo_2014__Q13]]
+[[Quesiti/src_prmo_2014#q13|src_prmo_2014__Q13]]
 
 
 
@@ -414,7 +414,7 @@ level: PRMO
 > Una mattina, ogni membro della famiglia di Manjul bevette un misto di circa 10 grammi di caffè e latte. Le quantità di caffè e latte variavano da tazza a tazza, ma non erano mai zero. Manjul ha bevuto $1/7$-th della quantità totale di latte e $2/17$-th della quantità totale di caffè. Quante persone ci sono nella famiglia di Manjul?
 
 **Risposta:** 8
-[[src_prmo_2014__Q14]]
+[[Quesiti/src_prmo_2014#q14|src_prmo_2014__Q14]]
 
 
 
@@ -443,7 +443,7 @@ level: PRMO
 > Che $XOY$ sia un triangolo con $\angle XOY = 90^\circ$. Il punto medio delle gambe $M$ e $N$ sono rispettivamente $OX$ e $OY$. Supponiamo che $XN = 19$ e $YM = 22$. Che cos'è $XY$?
 
 **Risposta:** 26
-[[src_prmo_2014__Q15]]
+[[Quesiti/src_prmo_2014#q15|src_prmo_2014__Q15]]
 
 
 
@@ -472,7 +472,7 @@ level: PRMO
 > In un triangolo $ABC$, $I$ indichi l'incentro. Lasciate che le linee $AI$, $BI$ e $CI$ incrociano l'incircolo rispettivamente a $P$, $Q$ e $R$. Se $\angle BAC = 40^\circ$, qual è il valore di $\angle QPR$ in gradi?
 
 **Risposta:** 55
-[[src_prmo_2014__Q16]]
+[[Quesiti/src_prmo_2014#q16|src_prmo_2014__Q16]]
 
 
 
@@ -501,7 +501,7 @@ level: PRMO
 > Per un numero naturale $b$, $N(b)$ indica il numero di numeri naturali $a$ per i quali l'equazione $x^2 + ax + b = 0$ ha radici interi. Qual è il valore più piccolo di $b$ per il quale $N(b) = 20$?
 
 **Risposta:** 749
-[[src_prmo_2014__Q17]]
+[[Quesiti/src_prmo_2014#q17|src_prmo_2014__Q17]]
 
 
 
@@ -530,7 +530,7 @@ level: PRMO
 > Lasciate che $f$ sia una funzione uno a uno dall'insieme dei numeri naturali a se stesso tale che $f(mn) = f(m)f(n)$ per tutti i numeri naturali $m$ e $n$. Qual è il valore minimo possibile di $f(999)$?
 
 **Risposta:** 24
-[[src_prmo_2014__Q18]]
+[[Quesiti/src_prmo_2014#q18|src_prmo_2014__Q18]]
 
 
 
@@ -562,7 +562,7 @@ level: PRMO
 > Che $x_1, x_2, \ldots, x_{2014}$ siano numeri reali diversi da 1, come $x_1 + x_2 + \cdots + x_{2014} = 1$ e $$\frac{x_1}{1-x_1} + \frac{x_2}{1-x_2} + \cdots + \frac{x_{2014}}{1-x_{2014}} = 1.$$ Qual è il valore di $$\frac{x_1^2}{1-x_1} + \frac{x_2^2}{1-x_2} + \cdots + \frac{x_{2014}^2}{1-x_{2014}}\,?$$
 
 **Risposta:** 0
-[[src_prmo_2014__Q19]]
+[[Quesiti/src_prmo_2014#q19|src_prmo_2014__Q19]]
 
 
 
@@ -591,4 +591,4 @@ level: PRMO
 > Qual è il numero di coppie ordinate $(A, B)$ in modo tale che $A$ e $B$ siano sottoinsiemi di $\{1, 2, 3, 4, 5\}$ e non $A \subseteq B$ né $B \subseteq A$?
 
 **Risposta:** 570
-[[src_prmo_2014__Q20]]
+[[Quesiti/src_prmo_2014#q20|src_prmo_2014__Q20]]

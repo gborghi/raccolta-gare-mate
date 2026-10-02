@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > Determinare, come funzione di $n$, il numero di valori possibili per il determinante di $A$, dato che $A$ è una matrice $n \times n$ reale, tale che $A^3 - A^2 - 3A + 2I = 0$, dove $I$ indica la matrice di identità $n \times n$ e $0$ indica la matrice zero $n \times n$.
 
-[[src_obm_2005_nu_f2__Q01]]
+[[Quesiti/src_obm_2005_nu_f2#q01|src_obm_2005_nu_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 
 > Lasciate che $f$ e $g$ siano funzioni continue distinte da $[0,1]$ a $(0,+\infty)$ in modo tale che $\int_0^1 f(x)\,dx = \int_0^1 g(x)\,dx$. Per $n \ge 0$, definire $$y_n = \int_0^1 \frac{f(x)^{n+1}}{g(x)^n}\,dx.$$ Prove che la sequenza $(y_n)_{n \ge 0}$ è in aumento e divergente.
 
-[[src_obm_2005_nu_f2__Q02]]
+[[Quesiti/src_obm_2005_nu_f2#q02|src_obm_2005_nu_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível Universitário
 
 > $v_1, v_2, \ldots, v_n$ siano vettori in $\mathbb{R}^2$ tali da $|v_i| \le 1$ per $1 \le i \le n$ e $\sum_{i=1}^n v_i = 0$. Prova che esiste una permutazione $\sigma$ di $\{1, 2, \ldots, n\}$ tale che $$\left|\sum_{j=1}^k v_{\sigma(j)}\right| \le \sqrt{5}$$ per ogni $k$ con $1 \le k \le n$. (Nota: se $v = (x,y) \in \mathbb{R}^2$, allora $|v| = \sqrt{x^2+y^2}$ indica la norma euclidica di $v$.)
 
-[[src_obm_2005_nu_f2__Q03]]
+[[Quesiti/src_obm_2005_nu_f2#q03|src_obm_2005_nu_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível Universitário
 
 > Si consideri la sequenza $(a_n)_{n \ge 1}$ definita da $a_1 = 1$, $a_{n+1} = a_n + \dfrac{1}{a_n^{2005}}$, per tutte le $n \ge 1$. Provare che la serie $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n \cdot a_n}$ converge.
 
-[[src_obm_2005_nu_f2__Q04]]
+[[Quesiti/src_obm_2005_nu_f2#q04|src_obm_2005_nu_f2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ Prove che la somma di 1/n^n è uguale all'integrale di x^{-x}*
 
 > Provare che $$\sum_{n=1}^{\infty} \frac{1}{n^n} = \int_0^1 x^{-x}\,dx.$$
 
-[[src_obm_2005_nu_f2__Q05]]
+[[Quesiti/src_obm_2005_nu_f2#q05|src_obm_2005_nu_f2__Q05]]
 
 
 
@@ -168,4 +168,4 @@ Prove che la somma di 1/n^n è uguale all'integrale di x^{-x}*
 
 > Prove che per tutti gli integri non negativi $0 \le i_1 < i_2 < \cdots < i_k$ e $0 \le j_1 < j_2 < \cdots < j_k$, la matrice $k \times k$ $A = (a_{rs})_{1 \le r,s \le k}$ definita da $$a_{rs} = \binom{i_r + j_s}{i_r} = \frac{(i_r + j_s)!}{i_r!\, j_s!}, \quad 1 \le r, s \le k,$$ è invertibile.
 
-[[src_obm_2005_nu_f2__Q06]]
+[[Quesiti/src_obm_2005_nu_f2#q06|src_obm_2005_nu_f2__Q06]]

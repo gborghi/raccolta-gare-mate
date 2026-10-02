@@ -25,7 +25,7 @@ level: OBM Nível 1
 > 
 > (c) How many cubes will have exactly 1 face painted?
 
-![[src_obm_2022_n1_fx__Q01.png]]
+![[src_obm_2022_n1_fx__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -47,9 +47,9 @@ level: OBM Nível 1
 > 
 > (c) Quanti cubetti avranno esattamente una faccia dipinta?
 
-![[src_obm_2022_n1_fx__Q01.png]]
+![[src_obm_2022_n1_fx__q01.png]]
 
-[[src_obm_2022_n1_fx__Q01]]
+[[Quesiti/src_obm_2022_n1_fx#q01|src_obm_2022_n1_fx__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: OBM Nível 1
 > 
 > b) Quali sono i due numeri più grandi di 3 cifre?
 
-[[src_obm_2022_n1_fx__Q02]]
+[[Quesiti/src_obm_2022_n1_fx#q02|src_obm_2022_n1_fx__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: OBM Nível 1
 > 
 > (d) Determine the length of segment $E_1 E_2$.
 
-![[src_obm_2022_n1_fx__Q03.png]]
+![[src_obm_2022_n1_fx__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -133,9 +133,9 @@ level: OBM Nível 1
 > 
 > d) Determinare la lunghezza del segmento $E_1 E_2$.
 
-![[src_obm_2022_n1_fx__Q03.png]]
+![[src_obm_2022_n1_fx__q03.png]]
 
-[[src_obm_2022_n1_fx__Q03]]
+[[Quesiti/src_obm_2022_n1_fx#q03|src_obm_2022_n1_fx__Q03]]
 
 
 
@@ -174,7 +174,7 @@ level: OBM Nível 1
 > 
 > (c) Supponiamo che una delle squadre abbia ottenuto più punti di tutte le altre combinate e meno vincite di tutte le altre. Qual è il numero minimo di vittorie che la squadra può avere?
 
-[[src_obm_2022_n1_fx__Q04]]
+[[Quesiti/src_obm_2022_n1_fx#q04|src_obm_2022_n1_fx__Q04]]
 
 
 
@@ -222,4 +222,4 @@ level: OBM Nível 1
 > 
 > c) Determinare tutti i numeri del partito 2022 di 6 cifre o più.
 
-[[src_obm_2022_n1_fx__Q05]]
+[[Quesiti/src_obm_2022_n1_fx#q05|src_obm_2022_n1_fx__Q05]]

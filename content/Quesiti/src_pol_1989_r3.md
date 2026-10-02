@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Un numero pari di persone partecipa a una conferenza a tavola rotonda. Dopo la pausa pranzo i partecipanti cambiano posto. Mostrate che alcune due persone sono separate dallo stesso numero di persone che erano prima della pausa.
 
-[[src_pol_1989_r3__Q01]]
+[[Quesiti/src_pol_1989_r3#q01|src_pol_1989_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > I cerchi $K_1$, $K_2$, $K_3$ sono indicati nel piano in modo tale che $K_2$ e $K_3$ siano tangenti a $P$, $K_3$ e $K_1$ a $Q$, e $K_1$ e $K_2$ a $R$. Le linee $PQ$ e $PR$ si riducono rispettivamente a $S$ e $T$. Le linee $SR$ e $TQ$ sono tagliate $K_2$ e $K_3$ di nuovo a $U$ e $V$. Provare che i punti $P$, $U$, $V$ sono collineari.
 
-[[src_pol_1989_r3__Q02]]
+[[Quesiti/src_pol_1989_r3#q02|src_pol_1989_r3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: Olimpiade Polacca Round 3
 > 
 > (b) Fornisci un esempio di una numerazione per la quale ci sono esattamente otto tripli.
 
-[[src_pol_1989_r3__Q03]]
+[[Quesiti/src_pol_1989_r3#q03|src_pol_1989_r3__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: Olimpiade Polacca Round 3
 
 > Si devono dare integri positivi $n$ e $k$. Si consideri una catena di set $A_0, A_1, \ldots, A_k$ in cui $A_0 = \{1, \ldots, n\}$, e per ciascuna $i$, $A_i$ è un sottoinsieme scelto a caso di $A_{i-1}$ (tutte le scelte sono equiprobabili). Indicare che la cardinalità attesa di $A_k$ è $n/2^k$.
 
-[[src_pol_1989_r3__Q04]]
+[[Quesiti/src_pol_1989_r3#q04|src_pol_1989_r3__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: Olimpiade Polacca Round 3
 
 > I cerchi pari di raggio $a$ si trovano su un emisfero di raggio $r$. Calcolare il raggio di un quarto cerchio sulla stessa sfera che è tangente ai tre cerchi dati.
 
-[[src_pol_1989_r3__Q05]]
+[[Quesiti/src_pol_1989_r3#q05|src_pol_1989_r3__Q05]]
 
 
 
@@ -177,4 +177,4 @@ level: Olimpiade Polacca Round 3
 
 > Che $a$, $b$, $c$, $d$ siano numeri positivi. Provare la disuguaglianza $$\sqrt{\frac{ab + ac + ad + bc + bd + cd}{6}} \ge \sqrt[3]{\frac{abc + abd + acd + bcd}{4}}.$$
 
-[[src_pol_1989_r3__Q06]]
+[[Quesiti/src_pol_1989_r3#q06|src_pol_1989_r3__Q06]]

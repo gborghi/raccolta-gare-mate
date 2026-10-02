@@ -38,7 +38,7 @@ level: squadre
 > Six digits for two numbers You have the digits 1, 3, 4, 7, 8, 9 to form two three-digit numbers each, and you have to use them all. You want the sum and the product of the two numbers that you form to be the largest possible. Which is the larger of the two numbers?
 
 **Answer:** 941
-[[src_kangourou_2010_squadre_semifinale__Q01]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q01|src_kangourou_2010_squadre_semifinale__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: squadre
 > On an aircraft, the seats of an aircraft are arranged in 60 horizontal rows of 6 seats each, marked by the letters A, B, ..., F. When all the passengers have taken their seats, the following situation occurs: there are no two rows in which the seats are exactly the same, that is, all and only those marked by the same letters. How many passengers can there be on that plane at most?
 
 **Answer:** 189
-[[src_kangourou_2010_squadre_semifinale__Q02]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q02|src_kangourou_2010_squadre_semifinale__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: squadre
 > How many pairs of non-adjacent boxes are found on a chessboard 8 × 8? (Two boxes are called adjacent if they are different and have a side in common.)
 
 **Answer:** 1904
-[[src_kangourou_2010_squadre_semifinale__Q03]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q03|src_kangourou_2010_squadre_semifinale__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: squadre
 > Maria Maria's table wants to cover a rectangular wooden table with sides of 60 and 40 cm using 6 square adhesives, each 22 cm wide, without cutting or folding them. Then it must partially overlay them and the final result is as shown in the figure (where the white areas are covered by a single adhesive, the gray areas by two adhesives, the black areas by more than two). What is, in cm2, the surface area covered by exactly two adhesives?
 
 **Answer:** 408
-[[src_kangourou_2010_squadre_semifinale__Q04]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q04|src_kangourou_2010_squadre_semifinale__Q04]]
 
 
 
@@ -174,7 +174,7 @@ level: squadre
 > A long sequence Imagine a sequence of 2010 positive integers constructed with the following rule. The first (the smallest) is 3 and each of the subsequent is the sum of the preceding with the square of the preceding (i.e., if q is a sequence number and p is the number preceding it in the sequence, you have q = p + p2). What are the last two digits of the last (greatest)?
 
 **Answer:** 92
-[[src_kangourou_2010_squadre_semifinale__Q05]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q05|src_kangourou_2010_squadre_semifinale__Q05]]
 
 
 
@@ -207,7 +207,7 @@ level: squadre
 > Teachers at work To correct 32 mathematical papers on the third-grade examination, one professor takes 80 minutes; another professor, to correct the same number of papers, takes only 60 minutes. Each professor spends the same amount of time correcting each paper. If you put them together and then re-start 84 processes, so that you start and finish the correction together, how many minutes would it take?
 
 **Answer:** 90
-[[src_kangourou_2010_squadre_semifinale__Q06]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q06|src_kangourou_2010_squadre_semifinale__Q06]]
 
 
 
@@ -237,7 +237,7 @@ level: squadre
 > A chain of inequalities Find the sum of all positive integers equal to n such that  53 < 2010/(53  n) < 53  n.
 
 **Answer:** 302
-[[src_kangourou_2010_squadre_semifinale__Q07]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q07|src_kangourou_2010_squadre_semifinale__Q07]]
 
 
 
@@ -269,7 +269,7 @@ level: squadre
 > Election of the President The President of an association was chosen by all members from two candidates, A and B. A got twice as many grades as B. Three members of the association voted on a white paper, while each of the others only voted for A or only for B. In this way, A got 64% of the total possible votes. How many members is the association?
 
 **Answer:** 75
-[[src_kangourou_2010_squadre_semifinale__Q08]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q08|src_kangourou_2010_squadre_semifinale__Q08]]
 
 
 
@@ -303,7 +303,7 @@ level: squadre
 > You have a square grid formed by the approximation of 25 × 25 squares of side 1 and you have fun coloring the edge of the possible squares whose sides are contained in the grid highlighted, wherever they are and of whatever size they are. What is the minimum number of squares that you need to color the edge of if you want all the lines of the grid to be completely red?
 
 **Answer:** 48
-[[src_kangourou_2010_squadre_semifinale__Q09]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q09|src_kangourou_2010_squadre_semifinale__Q09]]
 
 
 
@@ -334,7 +334,7 @@ level: squadre
 > A book with many pages The pages of a book are numbered from 1. To count all the pages, a total of 3005 digits were written. How many pages does the book have?
 
 **Answer:** 1028
-[[src_kangourou_2010_squadre_semifinale__Q10]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q10|src_kangourou_2010_squadre_semifinale__Q10]]
 
 
 
@@ -365,7 +365,7 @@ level: squadre
 > Binded sums Many positive integers, but not all, can be obtained as sums of additions each of which is 5 or 7. Write the sum of all the positive integers that cannot be obtained in this way; write [0000] in case these numbers are infinite.
 
 **Answer:** 114
-[[src_kangourou_2010_squadre_semifinale__Q11]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q11|src_kangourou_2010_squadre_semifinale__Q11]]
 
 
 
@@ -394,7 +394,7 @@ Single number 4 square digits and perfect cube
 > What is the only four-digit number that is both a square and a perfect cube?
 
 **Answer:** 4096
-[[src_kangourou_2010_squadre_semifinale__Q12]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q12|src_kangourou_2010_squadre_semifinale__Q12]]
 
 
 
@@ -424,7 +424,7 @@ Single number 4 square digits and perfect cube
 > .symmetrical numbers How many 4-digit numbers (significant) of the ABBA form are multiples of 11?
 
 **Answer:** 90
-[[src_kangourou_2010_squadre_semifinale__Q13]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q13|src_kangourou_2010_squadre_semifinale__Q13]]
 
 
 
@@ -456,7 +456,7 @@ Single number 4 square digits and perfect cube
 > The price of cheese To produce a quintal of a precious fresh cheese costs a factory 1200 euros. Before it is sold, the cheese must be allowed to ripen and ripening causes it to lose 1/5 of its original weight. How many euros will a quintale of seasoned cheese have to be sold if the factory wants to earn 15% of what it spends to produce it?
 
 **Answer:** 1725
-[[src_kangourou_2010_squadre_semifinale__Q14]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q14|src_kangourou_2010_squadre_semifinale__Q14]]
 
 
 
@@ -506,4 +506,4 @@ Single number 4 square digits and perfect cube
 > Questions and answers
 
 **Answer:** 5041
-[[src_kangourou_2010_squadre_semifinale__Q15]]
+[[Quesiti/src_kangourou_2010_squadre_semifinale#q15|src_kangourou_2010_squadre_semifinale__Q15]]

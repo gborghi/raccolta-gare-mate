@@ -49,7 +49,7 @@ level: biennio
 > - **(D)** 600
 > - **(E)** 1001
 
-[[src_archimede_2015_biennio__Q01]]
+[[Quesiti/src_archimede_2015_biennio#q01|src_archimede_2015_biennio__Q01]]
 
 
 
@@ -93,7 +93,7 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 6
 
-[[src_archimede_2015_biennio__Q02]]
+[[Quesiti/src_archimede_2015_biennio#q02|src_archimede_2015_biennio__Q02]]
 
 
 
@@ -134,7 +134,7 @@ Average age of three friends of Enea
 > - **(D)** 17
 > - **(E)** 18
 
-[[src_archimede_2015_biennio__Q03]]
+[[Quesiti/src_archimede_2015_biennio#q03|src_archimede_2015_biennio__Q03]]
 
 
 
@@ -173,7 +173,7 @@ Average age of three friends of Enea
 > - **(D)** 9
 > - **(E)** 5
 
-[[src_archimede_2015_biennio__Q04]]
+[[Quesiti/src_archimede_2015_biennio#q04|src_archimede_2015_biennio__Q04]]
 
 
 
@@ -218,7 +218,7 @@ Average age of three friends of Enea
 > - **(D)** 48
 > - **(E)** 24
 
-[[src_archimede_2015_biennio__Q05]]
+[[Quesiti/src_archimede_2015_biennio#q05|src_archimede_2015_biennio__Q05]]
 
 
 
@@ -258,7 +258,7 @@ Number of girls at a cross-dance party
 > - **(D)** 8
 > - **(E)** 16
 
-[[src_archimede_2015_biennio__Q06]]
+[[Quesiti/src_archimede_2015_biennio#q06|src_archimede_2015_biennio__Q06]]
 
 
 
@@ -298,7 +298,7 @@ Number of girls at a cross-dance party
 > - **(D)** 124
 > - **(E)** There's not enough data to determine that.
 
-[[src_archimede_2015_biennio__Q07]]
+[[Quesiti/src_archimede_2015_biennio#q07|src_archimede_2015_biennio__Q07]]
 
 
 
@@ -338,7 +338,7 @@ Number of girls at a cross-dance party
 > - **(D)** 2
 > - **(E)** 4
 
-[[src_archimede_2015_biennio__Q08]]
+[[Quesiti/src_archimede_2015_biennio#q08|src_archimede_2015_biennio__Q08]]
 
 
 
@@ -379,7 +379,7 @@ Number of girls at a cross-dance party
 > - **(D)** 60
 > - **(E)** 24
 
-[[src_archimede_2015_biennio__Q09]]
+[[Quesiti/src_archimede_2015_biennio#q09|src_archimede_2015_biennio__Q09]]
 
 
 
@@ -420,7 +420,7 @@ Sum of the five smallest divisors of 40! of a width of not more than 50 mm
 > - **(D)** 217
 > - **(E)** 223
 
-[[src_archimede_2015_biennio__Q10]]
+[[Quesiti/src_archimede_2015_biennio#q10|src_archimede_2015_biennio__Q10]]
 
 
 
@@ -467,7 +467,7 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 40%
 > - **(E)** 37%
 
-[[src_archimede_2015_biennio__Q11]]
+[[Quesiti/src_archimede_2015_biennio#q11|src_archimede_2015_biennio__Q11]]
 
 
 
@@ -510,7 +510,7 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 168
 > - **(E)** 205
 
-[[src_archimede_2015_biennio__Q12]]
+[[Quesiti/src_archimede_2015_biennio#q12|src_archimede_2015_biennio__Q12]]
 
 
 
@@ -557,7 +557,7 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)**
 > - **(E)**
 
-[[src_archimede_2015_biennio__Q13]]
+[[Quesiti/src_archimede_2015_biennio#q13|src_archimede_2015_biennio__Q13]]
 
 
 
@@ -598,7 +598,7 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 200
 > - **(E)** 270
 
-[[src_archimede_2015_biennio__Q14]]
+[[Quesiti/src_archimede_2015_biennio#q14|src_archimede_2015_biennio__Q14]]
 
 
 
@@ -684,7 +684,7 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 20
 > - **(E)** 15
 
-[[src_archimede_2015_biennio__Q15]]
+[[Quesiti/src_archimede_2015_biennio#q15|src_archimede_2015_biennio__Q15]]
 
 
 
@@ -727,4 +727,4 @@ Maximum percentage of palm oil from the order of ingredients
 > - **(D)** 17
 > - **(E)** 12 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Gara Biennio 25 November 2015 • The test consists of 16 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
-[[src_archimede_2015_biennio__Q16]]
+[[Quesiti/src_archimede_2015_biennio#q16|src_archimede_2015_biennio__Q16]]

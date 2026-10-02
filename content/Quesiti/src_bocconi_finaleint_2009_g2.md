@@ -41,7 +41,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > The number of days. Every day from $1^\circ$ January, Mathilde calculates the sum of all the digits of the date of the day. For example, on $1^\circ$ January 2009 (1-1-2009), Mathilde performed the $1+2+0+0+9=13$ calculation. Between $1^\circ$ January 2009 and 31 December 2009, what is the largest total that Mathilde can achieve?
 
 **Answer:** 31
-[[src_bocconi_finaleint_2009_g2__Q01]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q01|src_bocconi_finaleint_2009_g2__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > LA PIRAMIDE. Mathias trova nel granaio una piramide a base quadrata, fatta di sbarre, ereditata dal nonno. Poiché tutte le sbarre di questa piramide erano leggermente intaccate, Mathias decide di tagliarle tutte ordinatamente con l'aiuto di una sega (taglia tutti i vertici). Quanti spigoli possiede il solido ottenuto?
 
-![[src_bocconi_finaleint_2009_g2__Q02.png]]
+![[src_bocconi_finaleint_2009_g2__q02.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -73,10 +73,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > The pyramid. Mathias finds in the barn a pyramid with a square base, made of bars, inherited from his grandfather. Since all the bars of this pyramid were slightly intact, Mathias decided to cut them all neatly with the help of a saw (cut all the vertices). How many beads does the solid have?
 
-![[src_bocconi_finaleint_2009_g2__Q02.png]]
+![[src_bocconi_finaleint_2009_g2__q02.png]]
 
 **Answer:** 24
-[[src_bocconi_finaleint_2009_g2__Q02]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q02|src_bocconi_finaleint_2009_g2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > - l'$1$ figura una sola volta, il $2$ due volte, il $3$ tre volte, il $4$ quattro volte e il $5$ cinque volte;
 > - nessuna casella adiacente a un'altra (orizzontalmente, verticalmente o in diagonale) contiene una cifra identica.
 
-![[src_bocconi_finaleint_2009_g2__Q03.png]]
+![[src_bocconi_finaleint_2009_g2__q03.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -109,9 +109,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > One, two, three, four, five. You must type $1$, $2$, $3$, $4$ or $5$ in each box in the figure, subject to the following conditions: - the $1$ appears only once, the $2$ twice, the $3$ three times, the $4$ four times and the $5$ five times; - no box adjacent to another (horizontally, vertically or diagonally) contains an identical figure.
 
-![[src_bocconi_finaleint_2009_g2__Q03.png]]
+![[src_bocconi_finaleint_2009_g2__q03.png]]
 
-[[src_bocconi_finaleint_2009_g2__Q03]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q03|src_bocconi_finaleint_2009_g2__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > QUADRATI BIANCHI. Quanti quadrati interamente disegnati nella figura non contengono alcuna casella grigia? Nota: un quadrato può essere costituito da una sola casellina oppure da più caselline riunite.
 
-![[src_bocconi_finaleint_2009_g2__Q04.png]]
+![[src_bocconi_finaleint_2009_g2__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -143,10 +143,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > White squares. How many squares entirely drawn in the figure do not contain any gray boxes? Note: A square may consist of either a single box or multiple boxes combined.
 
-![[src_bocconi_finaleint_2009_g2__Q04.png]]
+![[src_bocconi_finaleint_2009_g2__q04.png]]
 
 **Answer:** 48
-[[src_bocconi_finaleint_2009_g2__Q04]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q04|src_bocconi_finaleint_2009_g2__Q04]]
 
 
 
@@ -177,7 +177,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > The MATHIAS list. Mathias writes the page numbers from $2009$ to $2009\,2010\,2011\,2012\,2013\ldots$ How many pages he wrote contain at least one digit $4$?
 
 **Answer:** 2511
-[[src_bocconi_finaleint_2009_g2__Q05]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q05|src_bocconi_finaleint_2009_g2__Q05]]
 
 
 
@@ -190,7 +190,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > IL GIARDINO DI ROSE. Il giardino di Rose comprende cinque rettangoli identici rappresentati nella figura. Lei vuole piantare delle rose lungo il bordo, distanziate regolarmente. Quante rose deve piantare?
 
-![[src_bocconi_finaleint_2009_g2__Q06.png]]
+![[src_bocconi_finaleint_2009_g2__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -209,10 +209,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > The Rose Garden. Rose's garden comprises five identical rectangles depicted in the figure. She wants to plant roses along the edge, regularly spaced. How many roses do you have to plant?
 
-![[src_bocconi_finaleint_2009_g2__Q06.png]]
+![[src_bocconi_finaleint_2009_g2__q06.png]]
 
 **Answer:** 70
-[[src_bocconi_finaleint_2009_g2__Q06]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q06|src_bocconi_finaleint_2009_g2__Q06]]
 
 
 
@@ -226,7 +226,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > MOLTIPLICAZIONE. In questa moltiplicazione, certe cifre del prodotto (corretto) erano consecutive (ciascuna differiva dalla precedente di una unità) e ciascuna appariva una sola volta. Tutte le altre cifre maggiori di $4$ sono state cancellate. Ricostruisci l'operazione:
 > $$\begin{array}{r}\_\,\_\,3\\ \times\ \_\,4\\ \hline \_\,\_\,\_\,2\end{array}$$
 
-![[src_bocconi_finaleint_2009_g2__Q07.png]]
+![[src_bocconi_finaleint_2009_g2__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -245,10 +245,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Multiplication of the value of the product. In this multiplication, certain (correct) product figures were consecutive (each differed from the previous one of a unit) and each appeared only once. All other figures greater than $4$ have been deleted. Reconstruct the operation: $$\begin{array}{r}\_\,\_\,3\\ \times\ \_\,4\\ \hline \_\,\_\,\_\,2\end{array}$$
 
-![[src_bocconi_finaleint_2009_g2__Q07.png]]
+![[src_bocconi_finaleint_2009_g2__q07.png]]
 
 **Answer:** $1963 \times 4 = 7852$
-[[src_bocconi_finaleint_2009_g2__Q07]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q07|src_bocconi_finaleint_2009_g2__Q07]]
 
 
 
@@ -261,7 +261,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > IL PATRON DI CUBO INCOMPIUTO. Su una griglia sono già disegnate (in grigio) alcune facce: si vuole il patron (sviluppo piano) di un cubo aperto, costituito dal fondo (la base) e da una sola altra faccia (il coperchio). Sulla griglia ci sono più caselle grigie che caselle bianche. Cerchia tutte le caselle bianche possibili che completano lo sviluppo.
 
-![[src_bocconi_finaleint_2009_g2__Q08.png]]
+![[src_bocconi_finaleint_2009_g2__q08.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -279,9 +279,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > The pattern of the unfinished cube. Some faces are already drawn (in gray) on a grid: the patron (plane development) of an open cube, consisting of the bottom (the base) and a single other face (the lid), is desired. There are more grey boxes on the grid than there are white boxes. Search all possible white boxes that complete the development.
 
-![[src_bocconi_finaleint_2009_g2__Q08.png]]
+![[src_bocconi_finaleint_2009_g2__q08.png]]
 
-[[src_bocconi_finaleint_2009_g2__Q08]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q08|src_bocconi_finaleint_2009_g2__Q08]]
 
 
 
@@ -312,7 +312,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Get in the bus. On departure, on a bus, the passengers are female. At the next stop two females descend and no one climbs; then the females constitute the $30\%$ of the passengers. How many seats does the bus have?
 
 **Answer:** 6
-[[src_bocconi_finaleint_2009_g2__Q09]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q09|src_bocconi_finaleint_2009_g2__Q09]]
 
 
 
@@ -343,7 +343,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Playing three. Before playing, Alain, Bernard and Camille have $99$, $100$ and $101$ tokens respectively. In each turn, the player with the most points gives one to each of the other two players, which brings him to the last place. How many shifts will there be?
 
 **Answer:** 295
-[[src_bocconi_finaleint_2009_g2__Q10]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q10|src_bocconi_finaleint_2009_g2__Q10]]
 
 
 
@@ -374,7 +374,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > Coffee with milk. Catherine and her friends each drink the same amount of milk coffee, but in different proportions of coffee and milk. Catherine drank a quarter of the total milk and a sixth of the total coffee. How many friends are at the table?
 
 **Answer:** 4
-[[src_bocconi_finaleint_2009_g2__Q11]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q11|src_bocconi_finaleint_2009_g2__Q11]]
 
 
 
@@ -405,7 +405,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > The perimeter of the triangle. The sides of a triangle measure an integer number of centimeters. One side is twice as long as the other, and the third measures $15$ cm. What is the perimeter of the triangle in cm at most?
 
 **Answer:** 43 cm
-[[src_bocconi_finaleint_2009_g2__Q12]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q12|src_bocconi_finaleint_2009_g2__Q12]]
 
 
 
@@ -436,7 +436,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > Two or three. Michel and Laurent start at the same time from two diametrically opposite points on a circular track. Michel walks in the opposite direction and Laurent in the opposite direction. They intersect for the first time when Michel traveled $100$ meters from the start. They intersect a second time when Laurent walked a mile after their first intersection. How big is the entire runway? The speed of each remains constant.
 
 **Answer:** 350 m
-[[src_bocconi_finaleint_2009_g2__Q13]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q13|src_bocconi_finaleint_2009_g2__Q13]]
 
 
 
@@ -467,7 +467,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > The verse of the book. A book has pages numbered from $1$ to $999$ included. For each page, a number is formed by joining the page number to the front page number. For example: $20$ before $2$, $350$ before $35$, $450$ before $45$, $607$ before $67$, etc. What is the sum of all the numbers thus obtained (including those of the first change)?
 
 **Answer:** 418095
-[[src_bocconi_finaleint_2009_g2__Q14]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q14|src_bocconi_finaleint_2009_g2__Q14]]
 
 
 
@@ -480,7 +480,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 
 > LA CARTA DEL TESORO. Il grande rettangolo della figura rappresenta la carta della valle dove si trova il tesoro. La carta è quadrettata e la zona grigia della figura rappresenta la parte sotto la quale è ripiegata, in modo regolare; il lato di ciascuna casella quadrata vale una certa lunghezza. La scala della carta è $\frac{1}{4}$. Il tesoro si trova in un punto della piega coincidente con l'angolo in alto a sinistra della zona ripiegata, le cui coordinate (orizzontale; verticale) restano da trovare. Quali sono, in decimetri a partire dall'angolo in basso a sinistra, le coordinate (orizzontale; verticale) del tesoro?
 
-![[src_bocconi_finaleint_2009_g2__Q15.png]]
+![[src_bocconi_finaleint_2009_g2__q15.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -499,10 +499,10 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 
 > The treasure card. The large rectangle of the figure represents the map of the valley where the treasure is located. The paper is square and the grey area of the figure represents the part under which it is folded, regularly; the side of each square box is a certain length. The paper scale is $\frac{1}{4}$. The treasure is located at a point of the fold coinciding with the upper left corner of the folded area, whose coordinates (horizontal; vertical) remain to be found. What are the coordinates (horizontal; vertical) of the treasure in decimeter from the bottom left corner?
 
-![[src_bocconi_finaleint_2009_g2__Q15.png]]
+![[src_bocconi_finaleint_2009_g2__q15.png]]
 
 **Answer:** $(28;\ 24)$
-[[src_bocconi_finaleint_2009_g2__Q15]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q15|src_bocconi_finaleint_2009_g2__Q15]]
 
 
 
@@ -515,7 +515,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 
 > IN QUADRATO MAGICO. Nove bambini, Axel, Ben, Cléa, Dave, Elsa, Fred, Gaby, Héra e Inès, prendono ciascuno un pettorale con un numero diverso. L'ordine dei numeri dei pettorali è lo stesso dell'ordine delle iniziali dei nomi nell'alfabeto: il numero del pettorale di Axel è più piccolo di quello di Ben, che è più piccolo di quello di Cléa, ecc. Ciascuno prende posto in una delle caselle di un quadrato $3 \times 3$. Il quadrato è magico: la somma dei tre numeri di una stessa fila (riga, colonna o diagonale) è sempre la stessa, qualunque sia la fila scelta. Il quadrato è orientato in modo che il numero in alto a sinistra sia il più piccolo. Ritrova il posto di ciascuno (rispondi scrivendo le lettere nelle caselle del quadrato).
 
-![[src_bocconi_finaleint_2009_g2__Q16.png]]
+![[src_bocconi_finaleint_2009_g2__q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -534,10 +534,10 @@ Magic 3x3 square with the initials of nine children
 
 > In the Magic Square. Nine children, Axel, Ben, Cléa, Dave, Elsa, Fred, Gaby, Héra, and Inès, each take a breastplate with a different number. The order of the breastplate numbers is the same as the order of the initials of the names in the alphabet: Axel's breastplate number is smaller than Ben's, which is smaller than Cléa's, etc. Each of them is placed in one of the boxes of a square $3 \times 3$. The square is magical: the sum of the three numbers of the same row (row, column or diagonal) is always the same, whatever the chosen row. The square is oriented so that the number at the top left is the smallest. Retrieve each one's place (response by writing the letters in the square boxes).
 
-![[src_bocconi_finaleint_2009_g2__Q16.png]]
+![[src_bocconi_finaleint_2009_g2__q16.png]]
 
 **Answer:** 2 soluzioni
-[[src_bocconi_finaleint_2009_g2__Q16]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q16|src_bocconi_finaleint_2009_g2__Q16]]
 
 
 
@@ -568,7 +568,7 @@ Magic 3x3 square with the initials of nine children
 > The bricks of Brian. Brian's bricks are all parallel-piped rectangles whose dimensions are integers less than or equal to $7$. Brian considers each brick different in size and has all the possible ones. Brian calculates the volume of each brick and divides it by the square of its larger size. Then add up all the results. What irreducible fraction does he get? Observation: a cube is a particular parallelepiped.
 
 **Answer:** $\frac{2009}{12}$
-[[src_bocconi_finaleint_2009_g2__Q17]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q17|src_bocconi_finaleint_2009_g2__Q17]]
 
 
 
@@ -586,7 +586,7 @@ Magic 3x3 square with the initials of nine children
 > - la somma dei numeri scritti su ciascuna delle sei facce sia sempre la stessa e sia minima.
 > Quali sono i numeri scritti sulle facce con due, tre, quattro e cinque punti? Sul foglio risposte, i numeri scritti su ciascuna delle quattro facce devono essere scritti in ordine crescente.
 
-![[src_bocconi_finaleint_2009_g2__Q18.png]]
+![[src_bocconi_finaleint_2009_g2__q18.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -605,7 +605,7 @@ Magic 3x3 square with the initials of nine children
 
 > The magic of the game. It represents the patron (development) of a dice in the figure, where each face is represented by its points. We want to write 21 positive integers all different from each other on $21$ white dots (one number per point) so that: - no face contains two consecutive numbers; - the face containing $3$ numbers (the $3$ points) contains only even numbers; - the four-point face contains $4$, the five-point face contains $5$ and the six-point face contains $6$; - the sum of the numbers written on each of the six faces is always the same and is minimal. What are the numbers written on the faces with two, three, four and five points? On the answer sheet, the numbers written on each of the four faces must be written in increasing order.
 
-![[src_bocconi_finaleint_2009_g2__Q18.png]]
+![[src_bocconi_finaleint_2009_g2__q18.png]]
 
 **Answer:** 4 soluzioni: $(18;25)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(18;25)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$; $(20;23)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(20;23)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$
-[[src_bocconi_finaleint_2009_g2__Q18]]
+[[Quesiti/src_bocconi_finaleint_2009_g2#q18|src_bocconi_finaleint_2009_g2__Q18]]

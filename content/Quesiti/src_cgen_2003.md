@@ -43,7 +43,7 @@ level: Concours Général
 > 
 > 2. Il $ABC$ è un triangolo, il $\Omega$ è il centro del suo cerchio circoscritto e il $H$ è il punto tale che $\overrightarrow{\Omega H}=\overrightarrow{\Omega A}+\overrightarrow{\Omega B}+\overrightarrow{\Omega C}$. Indicare che $H$ è l'ortocentro del triangolo $ABC$.
 
-[[src_cgen_2003__Q01]]
+[[Quesiti/src_cgen_2003#q01|src_cgen_2003__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: Concours Général
 > 
 > 4. a. Il $\Gamma$ deve essere un cerchio di raggio rigorosamente positivo; determinare $\mathcal{H}(\Gamma)$. b. Il disco $D$ deve avere un raggio rigorosamente positivo; determina il $\mathcal{H}(D)$.
 
-[[src_cgen_2003__Q02]]
+[[Quesiti/src_cgen_2003#q02|src_cgen_2003__Q02]]
 
 
 
@@ -133,7 +133,7 @@ level: Concours Général
 > 
 > 3. La variabile casuale $L$ deve associare a ogni elemento di $\mathcal{T}$ il quadrato della distanza da $O$ al suo ortocentro. Determinare, come funzione di $n$ e $R$, l'aspettativa della variabile casuale $L$.
 
-[[src_cgen_2003__Q03]]
+[[Quesiti/src_cgen_2003#q03|src_cgen_2003__Q03]]
 
 
 
@@ -182,7 +182,7 @@ level: Concours Général
 > 
 > 4. a. Determinare le serie ortocentriche finite, contenenti al massimo cinque punti e contenute nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$. b. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno sei punti. Mostrare che esistono due sequenze $(x_n)$ e $(x'_n)$ di numeri reali non zero in modo tale che, per ogni numero intero $n$, i punti delle coordinate $(x_n,0)$ e $(x'_n,0)$ appartengano a $X$, e in modo tale che: $$\lim_{n\to+\infty} x_n=+\infty,\qquad \lim_{n\to+\infty} x'_n=0.$$ Può essere finito un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno sei punti?
 
-[[src_cgen_2003__Q04]]
+[[Quesiti/src_cgen_2003#q04|src_cgen_2003__Q04]]
 
 
 
@@ -245,7 +245,7 @@ level: Concours Général
 > 
 > 4. Da quanto precede si deduce che l'insieme $G$ dei punti di coordinate interi di $X$ è un insieme ortocentrico infinito.
 
-[[src_cgen_2003__Q05]]
+[[Quesiti/src_cgen_2003#q05|src_cgen_2003__Q05]]
 
 
 
@@ -293,4 +293,4 @@ level: Concours Général
 > 
 > 2. Determinare le serie $X_0$ tali da $m=1$, poi quelle tali da $m=2$.
 
-[[src_cgen_2003__Q06]]
+[[Quesiti/src_cgen_2003#q06|src_cgen_2003__Q06]]

@@ -39,7 +39,7 @@ level: IMO
 > 
 > (Note that $\lfloor z \rfloor$ denotes the greatest integer less than or equal to $z$. For example, $\lfloor -\pi \rfloor = -4$ and $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
 
-[[src_imo_2024__Q01]]
+[[Quesiti/src_imo_2024#q01|src_imo_2024__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: IMO
 > 
 > (Note that $\gcd(x, y)$ denotes the greatest common divisor of integers $x$ and $y$.)
 
-[[src_imo_2024__Q02]]
+[[Quesiti/src_imo_2024#q02|src_imo_2024__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: IMO
 > 
 > (An infinite sequence $b_1, b_2, b_3, \ldots$ is eventually periodic if there exist positive integers $p$ and $M$ such that $b_{m+p} = b_m$ for all $m \geq M$.)
 
-[[src_imo_2024__Q03]]
+[[Quesiti/src_imo_2024#q03|src_imo_2024__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: IMO
 > 
 > Prove that $\angle KIL + \angle YPX = 180^\circ$.
 
-[[src_imo_2024__Q04]]
+[[Quesiti/src_imo_2024#q04|src_imo_2024__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: IMO
 > 
 > Determine the minimum value of $n$ for which Turbo has a strategy that guarantees reaching the last row on the $n$-th attempt or earlier, regardless of the locations of the monsters.
 
-[[src_imo_2024__Q05]]
+[[Quesiti/src_imo_2024#q05|src_imo_2024__Q05]]
 
 
 
@@ -204,4 +204,4 @@ Water-related functions, minimum c values f (r) + f (r) *
 > 
 > Show that there exists an integer $c$ such that for any aquaesulian function $f$ there are at most $c$ different rational numbers of the form $f(r) + f(-r)$ for some rational number $r$, and find the smallest possible value of $c$.
 
-[[src_imo_2024__Q06]]
+[[Quesiti/src_imo_2024#q06|src_imo_2024__Q06]]

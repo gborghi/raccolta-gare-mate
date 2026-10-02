@@ -23,7 +23,7 @@ level: OBM Nível 2
 > 
 > Compute the area of the triangle $X'Y'Z'$.
 
-![[src_obm_2002_n2_f3__Q01.png]]
+![[src_obm_2002_n2_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -43,9 +43,9 @@ level: OBM Nível 2
 > 
 > Calcolare l'area del triangolo $X'Y'Z'$.
 
-![[src_obm_2002_n2_f3__Q01.png]]
+![[src_obm_2002_n2_f3__q01.png]]
 
-[[src_obm_2002_n2_f3__Q01]]
+[[Quesiti/src_obm_2002_n2_f3#q01|src_obm_2002_n2_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 
 > Mostrate che, tra diciotto numeri interi a tre cifre consecutive, esiste sempre uno che è divisibile dalla somma delle sue cifre.
 
-[[src_obm_2002_n2_f3__Q02]]
+[[Quesiti/src_obm_2002_n2_f3#q02|src_obm_2002_n2_f3__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: OBM Nível 2
 > 
 > Il giocatore che per primo riesce a completare un quadrato $1 \times 1$ di fiammiferi vince. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori ha la strategia vincente, cioè può vincere indipendentemente dal modo in cui il suo avversario gioca?
 
-[[src_obm_2002_n2_f3__Q03]]
+[[Quesiti/src_obm_2002_n2_f3#q03|src_obm_2002_n2_f3__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: OBM Nível 2
 
 > Una miscela ha i componenti $A$ e $B$ nel rapporto $3 : 5$, una seconda miscela ha i componenti $B$ e $C$ nel rapporto $1 : 2$, e una terza miscela ha i componenti $A$ e $C$ nel rapporto $2 : 3$. In quale rapporto dobbiamo combinare la prima, la seconda e la terza miscela in modo che i componenti $A$, $B$ e $C$ appaiano nel rapporto $3 : 5 : 2$?
 
-[[src_obm_2002_n2_f3__Q04]]
+[[Quesiti/src_obm_2002_n2_f3#q04|src_obm_2002_n2_f3__Q04]]
 
 
 
@@ -168,7 +168,7 @@ level: OBM Nível 2
 > 
 > b) $PQ^2 = QR \cdot ST$.
 
-[[src_obm_2002_n2_f3__Q05]]
+[[Quesiti/src_obm_2002_n2_f3#q05|src_obm_2002_n2_f3__Q05]]
 
 
 
@@ -199,4 +199,4 @@ level: OBM Nível 2
 > 
 > Nota: $m! = 1 \cdot 2 \cdot \ldots \cdot m$.
 
-[[src_obm_2002_n2_f3__Q06]]
+[[Quesiti/src_obm_2002_n2_f3#q06|src_obm_2002_n2_f3__Q06]]

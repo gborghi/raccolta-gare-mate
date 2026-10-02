@@ -36,7 +36,7 @@ level: OBM Nível 1
 > 
 > (A) $24$ \quad (B) $26$ \quad (C) $27$ \quad (D) $37$ \quad (E) $38$
 
-[[src_obm_2013_n1_f1__Q01]]
+[[Quesiti/src_obm_2013_n1_f1#q01|src_obm_2013_n1_f1__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: OBM Nível 1
 > 
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $7$
 
-![[src_obm_2013_n1_f1__Q02.png]]
+![[src_obm_2013_n1_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -69,9 +69,9 @@ level: OBM Nível 1
 > 
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $7$
 
-![[src_obm_2013_n1_f1__Q02.png]]
+![[src_obm_2013_n1_f1__q02.png]]
 
-[[src_obm_2013_n1_f1__Q02]]
+[[Quesiti/src_obm_2013_n1_f1#q02|src_obm_2013_n1_f1__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: OBM Nível 1
 > 
 > (A) $4.5$ \quad (B) $4.8$ \quad (C) $4.95$ \quad (D) $5$ \quad (E) $5.1$
 
-[[src_obm_2013_n1_f1__Q03]]
+[[Quesiti/src_obm_2013_n1_f1#q03|src_obm_2013_n1_f1__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: OBM Nível 1
 > 
 > (A) $12$ \quad (B) $14$ \quad (C) $16$ \quad (D) $18$ \quad (E) $20$
 
-![[src_obm_2013_n1_f1__Q04.png]]
+![[src_obm_2013_n1_f1__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -134,9 +134,9 @@ level: OBM Nível 1
 > 
 > (A) $12$ \quad (B) $14$ \quad (C) $16$ \quad (D) $18$ \quad (E) $20$
 
-![[src_obm_2013_n1_f1__Q04.png]]
+![[src_obm_2013_n1_f1__q04.png]]
 
-[[src_obm_2013_n1_f1__Q04]]
+[[Quesiti/src_obm_2013_n1_f1#q04|src_obm_2013_n1_f1__Q04]]
 
 
 
@@ -167,7 +167,7 @@ level: OBM Nível 1
 > 
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
-[[src_obm_2013_n1_f1__Q05]]
+[[Quesiti/src_obm_2013_n1_f1#q05|src_obm_2013_n1_f1__Q05]]
 
 
 
@@ -182,7 +182,7 @@ level: OBM Nível 1
 > 
 > (A) $\dfrac{1}{12}$ \quad (B) $\dfrac{1}{8}$ \quad (C) $\dfrac{1}{6}$ \quad (D) $\dfrac{1}{5}$ \quad (E) $\dfrac{1}{2}$
 
-![[src_obm_2013_n1_f1__Q06.png]]
+![[src_obm_2013_n1_f1__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -199,9 +199,9 @@ level: OBM Nível 1
 > 
 > (A) $\dfrac{1}{12}$ \quad (B) $\dfrac{1}{8}$ \quad (C) $\dfrac{1}{6}$ \quad (D) $\dfrac{1}{5}$ \quad (E) $\dfrac{1}{2}$
 
-![[src_obm_2013_n1_f1__Q06.png]]
+![[src_obm_2013_n1_f1__q06.png]]
 
-[[src_obm_2013_n1_f1__Q06]]
+[[Quesiti/src_obm_2013_n1_f1#q06|src_obm_2013_n1_f1__Q06]]
 
 
 
@@ -216,7 +216,7 @@ level: OBM Nível 1
 > 
 > (A) $A$ \quad (B) $B$ \quad (C) $C$ \quad (D) $D$ \quad (E) $E$
 
-![[src_obm_2013_n1_f1__Q07.png]]
+![[src_obm_2013_n1_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -234,9 +234,9 @@ level: OBM Nível 1
 > 
 > (A) $A$ \quad (B) $B$ \quad (C) $C$ \quad (D) $D$ \quad (E) $E$
 
-![[src_obm_2013_n1_f1__Q07.png]]
+![[src_obm_2013_n1_f1__q07.png]]
 
-[[src_obm_2013_n1_f1__Q07]]
+[[Quesiti/src_obm_2013_n1_f1#q07|src_obm_2013_n1_f1__Q07]]
 
 
 
@@ -251,7 +251,7 @@ level: OBM Nível 1
 > 
 > (A) $10$ \quad (B) $15$ \quad (C) $18$ \quad (D) $20$ \quad (E) $30$
 
-![[src_obm_2013_n1_f1__Q08.png]]
+![[src_obm_2013_n1_f1__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -269,9 +269,9 @@ level: OBM Nível 1
 > 
 > (A) $10$ \quad (B) $15$ \quad (C) $18$ \quad (D) $20$ \quad (E) $30$
 
-![[src_obm_2013_n1_f1__Q08.png]]
+![[src_obm_2013_n1_f1__q08.png]]
 
-[[src_obm_2013_n1_f1__Q08]]
+[[Quesiti/src_obm_2013_n1_f1#q08|src_obm_2013_n1_f1__Q08]]
 
 
 
@@ -302,7 +302,7 @@ level: OBM Nível 1
 > 
 > (A) $345$ \quad (B) $456$ \quad (C) $567$ \quad (D) $678$ \quad (E) $789$
 
-[[src_obm_2013_n1_f1__Q09]]
+[[Quesiti/src_obm_2013_n1_f1#q09|src_obm_2013_n1_f1__Q09]]
 
 
 
@@ -332,7 +332,7 @@ level: OBM Nível 1
 > 
 > (A) $1006$ \quad (B) $2009$ \quad (C) $2012$ \quad (D) $2014$ \quad (E) $4026$
 
-[[src_obm_2013_n1_f1__Q10]]
+[[Quesiti/src_obm_2013_n1_f1#q10|src_obm_2013_n1_f1__Q10]]
 
 
 
@@ -371,7 +371,7 @@ level: OBM Nível 1
 > - **(D)** La somma di tre numeri primi non è mai un numero primo.
 > - **(E)** Il prodotto di due numeri primi può essere un numero primo.
 
-[[src_obm_2013_n1_f1__Q11]]
+[[Quesiti/src_obm_2013_n1_f1#q11|src_obm_2013_n1_f1__Q11]]
 
 
 
@@ -409,7 +409,7 @@ level: OBM Nível 1
 > - **(D)** Perderà reais.
 > - **(E)** Perderà reais.
 
-[[src_obm_2013_n1_f1__Q12]]
+[[Quesiti/src_obm_2013_n1_f1#q12|src_obm_2013_n1_f1__Q12]]
 
 
 
@@ -440,7 +440,7 @@ level: OBM Nível 1
 > 
 > (A) $299$ \quad (B) $301$ \quad (C) $310$ \quad (D) $361$ \quad (E) $450$
 
-[[src_obm_2013_n1_f1__Q13]]
+[[Quesiti/src_obm_2013_n1_f1#q13|src_obm_2013_n1_f1__Q13]]
 
 
 
@@ -455,7 +455,7 @@ level: OBM Nível 1
 > 
 > (A) $12.15$ m$^2$ \quad (B) $15.5$ m$^2$ \quad (C) $27$ m$^2$ \quad (D) $32$ m$^2$ \quad (E) $60$ m$^2$
 
-![[src_obm_2013_n1_f1__Q14.png]]
+![[src_obm_2013_n1_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -472,9 +472,9 @@ level: OBM Nível 1
 > 
 > (A) $12.15$ m$^2$ \quad (B) $15.5$ m$^2$ \quad (C) $27$ m$^2$ \quad (D) $32$ m$^2$ \quad (E) $60$ m$^2$
 
-![[src_obm_2013_n1_f1__Q14.png]]
+![[src_obm_2013_n1_f1__q14.png]]
 
-[[src_obm_2013_n1_f1__Q14]]
+[[Quesiti/src_obm_2013_n1_f1#q14|src_obm_2013_n1_f1__Q14]]
 
 
 
@@ -505,7 +505,7 @@ level: OBM Nível 1
 > 
 > (A) $16$ \quad (B) $30$ \quad (C) $34$ \quad (D) $36$ \quad (E) $40$
 
-[[src_obm_2013_n1_f1__Q15]]
+[[Quesiti/src_obm_2013_n1_f1#q15|src_obm_2013_n1_f1__Q15]]
 
 
 
@@ -536,7 +536,7 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) Ana \quad (B) Beatriz \quad (C) Cristina \quad (D) Dalva \quad (E) Nessuno di loro
 
-[[src_obm_2013_n1_f1__Q16]]
+[[Quesiti/src_obm_2013_n1_f1#q16|src_obm_2013_n1_f1__Q16]]
 
 
 
@@ -567,7 +567,7 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
 
-[[src_obm_2013_n1_f1__Q17]]
+[[Quesiti/src_obm_2013_n1_f1#q17|src_obm_2013_n1_f1__Q17]]
 
 
 
@@ -598,7 +598,7 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $36$ cm \quad (B) $84$ cm \quad (C) $96$ cm \quad (D) $112$ cm \quad (E) $164$ cm
 
-[[src_obm_2013_n1_f1__Q18]]
+[[Quesiti/src_obm_2013_n1_f1#q18|src_obm_2013_n1_f1__Q18]]
 
 
 
@@ -613,7 +613,7 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $37$ \quad (B) $45$ \quad (C) $50$ \quad (D) $64$ \quad (E) $72$
 
-![[src_obm_2013_n1_f1__Q19.png]]
+![[src_obm_2013_n1_f1__q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -631,9 +631,9 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $37$ \quad (B) $45$ \quad (C) $50$ \quad (D) $64$ \quad (E) $72$
 
-![[src_obm_2013_n1_f1__Q19.png]]
+![[src_obm_2013_n1_f1__q19.png]]
 
-[[src_obm_2013_n1_f1__Q19]]
+[[Quesiti/src_obm_2013_n1_f1#q19|src_obm_2013_n1_f1__Q19]]
 
 
 
@@ -648,7 +648,7 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
-![[src_obm_2013_n1_f1__Q20.png]]
+![[src_obm_2013_n1_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -666,6 +666,6 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 > 
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
-![[src_obm_2013_n1_f1__Q20.png]]
+![[src_obm_2013_n1_f1__q20.png]]
 
-[[src_obm_2013_n1_f1__Q20]]
+[[Quesiti/src_obm_2013_n1_f1#q20|src_obm_2013_n1_f1__Q20]]

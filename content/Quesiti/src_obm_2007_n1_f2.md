@@ -37,7 +37,7 @@ level: OBM Nível 1
 > Un numero $N$ è formato da blocchi uguali, ognuno della forma "$10100$". Sapendo che il numero $N$ ha cifre $101$, esso è formato da blocchi completi $20$ più una cifra principale in più, e la somma delle cifre di ogni blocco è uguale a $1+0+1+0+0=2$. Determinare il valore del numero totale di cifre di $N$ (la quantità richiesta è uguale a $20\times 2+1=41$).
 
 **Risposta:** 41
-[[src_obm_2007_n1_f2__Q01]]
+[[Quesiti/src_obm_2007_n1_f2#q01|src_obm_2007_n1_f2__Q01]]
 
 
 
@@ -50,7 +50,7 @@ level: OBM Nível 1
 
 > A square sheet of paper, of area $300\text{ cm}^2$, is folded along a first fold and then along a second fold, as shown in the figures (left: before the first fold; right: after the folds). One can verify that $CE=EA$ and $CF=FA$, and by a property of the fold the segment $FE$ is perpendicular to the segment $AC$; these segments cross at their midpoints, so the triangles $EBC$ and $AECF$-parts are congruent and the quadrilateral $AECF$ is composed of congruent triangles. Determine the area, in $\text{cm}^2$, of the resulting convex pentagon $BEFE'B'$ (the requested value equals $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
 
-![[src_obm_2007_n1_f2__Q02.png]]
+![[src_obm_2007_n1_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -69,10 +69,10 @@ level: OBM Nível 1
 
 > Un foglio quadrato di carta, di superficie $300\text{ cm}^2$, viene ripiegato lungo il primo ripiegamento e poi lungo il secondo ripiegamento, come mostrato nelle figure (a sinistra: prima del primo ripiegamento; a destra: dopo i ripiegamenti). Si può verificare che $CE=EA$ e $CF=FA$, e con una proprietà del piego il segmento $FE$ è perpendicolare al segmento $AC$; questi segmenti si incrociano ai loro punti di mezzo, quindi i triangoli $EBC$ e $AECF$-parti sono congruenti e il quadrilaterale $AECF$ è composto da triangoli congruenti. Determinare l'area, in $\text{cm}^2$, del pentagono convex risultante $BEFE'B'$ (il valore richiesto è uguale a $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
 
-![[src_obm_2007_n1_f2__Q02.png]]
+![[src_obm_2007_n1_f2__q02.png]]
 
 **Risposta:** 150
-[[src_obm_2007_n1_f2__Q02]]
+[[Quesiti/src_obm_2007_n1_f2#q02|src_obm_2007_n1_f2__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: OBM Nível 1
 > Secondo il modello osservato, le somme sono uguali al quadrato del pacco centrale (quello il cui numero di pacchi a sinistra è uguale al numero di pacchi a destra). Pertanto, mettendo $A=2007^2$, si valuta $\dfrac{A}{223^2}=\dfrac{2007^2}{223^2}=\left(\dfrac{2007}{223}\right)^2=9^2=81$. Determinare questo valore (la risposta è $81$).
 
 **Risposta:** 81
-[[src_obm_2007_n1_f2__Q03]]
+[[Quesiti/src_obm_2007_n1_f2#q03|src_obm_2007_n1_f2__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: OBM Nível 1
 > Si taglia un foglio rettangolare di cartone; dopo i tagli il pezzo rimanente ha lati uguali alla metà dei lati del cartone. Di conseguenza, il perimetro di quel pezzo risultante è la metà del perimetro del blocco di carta; e quel perimetro risultante è $129$. Determinare il perimetro del blocco di carta prima del taglio (equivalente a $129\times 2=258$).
 
 **Risposta:** 258
-[[src_obm_2007_n1_f2__Q04]]
+[[Quesiti/src_obm_2007_n1_f2#q04|src_obm_2007_n1_f2__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 1
 
 > The volume of each wooden block is $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. The part of each block submerged in the liquid has volume $0.80\times 0.096\text{ m}^3$. The volume of liquid displaced by the $25$ blocks equals $25\times 0.80\times 0.096=1.92\text{ m}^3$. The reservoir is a cube of side $2\text{ m}$, so its base area is $4\text{ m}^2$; hence the rise of the level $h$ satisfies $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. If the initial liquid level was $100\text{ cm}$, determine the new level of the liquid (it is $148\text{ cm}$).
 
-![[src_obm_2007_n1_f2__Q05.png]]
+![[src_obm_2007_n1_f2__q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -164,10 +164,10 @@ level: OBM Nível 1
 
 > Il volume di ciascun blocco di legno è $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. La parte di ciascun blocco immersa nel liquido ha un volume $0.80\times 0.096\text{ m}^3$. Il volume di liquido spostato dai blocchi $25$ è uguale a $25\times 0.80\times 0.096=1.92\text{ m}^3$. Il serbatoio è un cubo laterale $2\text{ m}$, quindi la sua superficie di base è $4\text{ m}^2$; quindi l'aumento del livello $h$ soddisfa $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. Se il livello iniziale di liquido è stato $100\text{ cm}$, determinare il nuovo livello del liquido (è $148\text{ cm}$).
 
-![[src_obm_2007_n1_f2__Q05.png]]
+![[src_obm_2007_n1_f2__q05.png]]
 
 **Risposta:** 148
-[[src_obm_2007_n1_f2__Q05]]
+[[Quesiti/src_obm_2007_n1_f2#q05|src_obm_2007_n1_f2__Q05]]
 
 
 
@@ -200,7 +200,7 @@ level: OBM Nível 1
 > Nell'aggiunta di seguito, al primo controllo si può presumere che le tre cifre a destra di tutti i numeri siano scritte correttamente, ma che una cifra sia scritta erroneamente. Tra le cifre, la $9$ è scritta erroneamente. In base all'analisi, al posto della cifra sbagliata deve essere inserita una $6$ e sostituita, se necessario, da una $2$, in modo che l'aggiunta $$\begin{array}{r} 7\,4\,6\,5\,8\,6 \\ +\;8\,6\,9\,4\,3\,0 \\ \hline 1\,6\,1\,6\,0\,1\,6 \end{array}$$ sia corretta. Facendo la sostituzione e verificando che il resto si adatta, si ottiene $a=2$. Determinare il valore di $a^6$ (avemo $a^6=2^6=64$).
 
 **Risposta:** 64
-[[src_obm_2007_n1_f2__Q06]]
+[[Quesiti/src_obm_2007_n1_f2#q06|src_obm_2007_n1_f2__Q06]]
 
 
 
@@ -215,7 +215,7 @@ level: OBM Nível 1
 > (a) Show that $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$, and, since $\text{area }\triangle FMC=\text{area }\triangle AMD$, conclude that $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$.
 > (b) Since $AD=FC$, $CD$ is a common side, and $\hat{C}$ and $\hat{D}$ are right angles, conclude that triangles $FCD$ and $ADC$ are congruent, so $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, and show that the area of triangle $ADF$ equals $\dfrac{300}{2}=150\text{ cm}^2$.
 
-![[src_obm_2007_n1_f2__Q07.png]]
+![[src_obm_2007_n1_f2__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -233,9 +233,9 @@ level: OBM Nível 1
 
 > Let $ABCD$ essere un quadrato di area $300\text{ cm}^2$, let $M$ essere il punto medio del lato $CD$, e let $F$ essere il punto corrispondente della configurazione. Abbiamo $m(F\hat{M}C)=m(A\hat{M}D)$ (angoli verticali), $m(A\hat{D}M)=m(F\hat{C}M)$ (dal momento che $ABCD$ è un quadrato, questi sono angoli rettangolari), e $MC=MD$ (dal momento che $M$ è il punto medio di $CD$); quindi i triangoli $AMD$ e $FMC$ sono congruenti. a) Indicare che $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$ e, dal momento che $\text{area }\triangle FMC=\text{area }\triangle AMD$, concludere che $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$. b) Poiché $AD=FC$, $CD$ è un lato comune e $\hat{C}$ e $\hat{D}$ sono angoli rettangolari, si conclude che i triangoli $FCD$ e $ADC$ sono congruenti, quindi $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, e si dimostra che l'area del triangolo $ADF$ è uguale a $\dfrac{300}{2}=150\text{ cm}^2$.
 
-![[src_obm_2007_n1_f2__Q07.png]]
+![[src_obm_2007_n1_f2__q07.png]]
 
-[[src_obm_2007_n1_f2__Q07]]
+[[Quesiti/src_obm_2007_n1_f2#q07|src_obm_2007_n1_f2__Q07]]
 
 
 
@@ -266,7 +266,7 @@ Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
 > Esmeralda ha masse di $1,2,3,4,5$ e $6$ (una di ciascuna). Combinando uno o più di essi, può aggiungere $1,2,4,\dots$ ottenendo tutti i pesi da $1$ fino al totale $1+2+3+4+5+6=21$. Determinare quanti pesi totali (masse) Esmeralda può ottenere (può ottenere $21$ diverse masse).
 
 **Risposta:** 21
-[[src_obm_2007_n1_f2__Q08]]
+[[Quesiti/src_obm_2007_n1_f2#q08|src_obm_2007_n1_f2__Q08]]
 
 
 
@@ -297,4 +297,4 @@ Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
 
 > Esaminando la tabella, si può concludere che la somma degli elementi diagonali $n$ è uguale a $2n+(n-1)k$, dove $k$ è la cifra unità del numero $n$. Ad esempio, la diagonale numerata $4$ ha la somma $2\cdot 4+(4-1)\cdot 4=20$, ecc. (a) Indicare che la somma degli elementi della diagonale $9$ è $2\cdot 9+(9-1)\cdot 9=90$ (equivalentemente, i numeri $9$ da $1$ a $9$ di quella diagonale danno $10\cdot 9=90$). b) Indicare che la somma diagonale $2007$ è $2\cdot 2007+(2007-1)\cdot 7=4014+14042=18056$ e trovare il resto della divisione di questo numero per $100$ (il resto è $56$).
 
-[[src_obm_2007_n1_f2__Q09]]
+[[Quesiti/src_obm_2007_n1_f2#q09|src_obm_2007_n1_f2__Q09]]

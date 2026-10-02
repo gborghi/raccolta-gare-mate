@@ -34,7 +34,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Risolvere in numeri reali $x, y, z$ il sistema di equazioni $$\begin{cases} x^3 = 5y^3 - 4z \\ y^3 = 5z^3 - 4x \\ z^3 = 5x^3 - 4y \end{cases}$$
 
-[[src_pol_2008_r1__Q01]]
+[[Quesiti/src_pol_2008_r1#q01|src_pol_2008_r1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > All'interno di un angolo convexo con vertice $P$ è dato un punto $A$. I punti $X$ e $Y$ si trovano su diversi raggi dell'angolo in modo che $PX = PY$ e la somma $AX + AY$ siano minimi. Prove che $\angle XAP = \angle YAP$.
 
-[[src_pol_2008_r1__Q02]]
+[[Quesiti/src_pol_2008_r1#q02|src_pol_2008_r1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Una sequenza $(a_n)$ di numeri interi è definita da $a_1 = 1$, $a_2 = 2$ e $$a_n = 3a_{n-1} + 5a_{n-2} \quad \text{for } n = 3, 4, 5, \ldots .$$ Esiste un numero intero $k \ge 2$ per il quale $k$ divide $a_n$ per tutti $n = 1, 2, \ldots$?
 
-[[src_pol_2008_r1__Q03]]
+[[Quesiti/src_pol_2008_r1#q03|src_pol_2008_r1__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > $n \ge 1$ sia un dato numero intero. Per ogni sottoinsieme non vuoto $A$ di $\{1, 2, \ldots, n\}$ definire il numero $w(A)$ come segue: se $a_1 > a_2 > \cdots > a_k$ sono gli elementi di $A$, allora $w(A) = a_1 - a_2 + a_3 - \cdots + (-1)^{k+1} a_k$. Trova la somma dei numeri $w(A)$ su tutti i possibili sottogruppi $2^n - 1$ $A$.
 
-[[src_pol_2008_r1__Q04]]
+[[Quesiti/src_pol_2008_r1#q04|src_pol_2008_r1__Q04]]
 
 
 
@@ -146,7 +146,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Trova tutti i triples $(p, q, r)$ dei numeri primi per i quali $$pq + qr + rp \quad \text{and} \quad p^3 + q^3 + r^3 - 2pqr$$ sono divisibili da $p + q + r$.
 
-[[src_pol_2008_r1__Q05]]
+[[Quesiti/src_pol_2008_r1#q05|src_pol_2008_r1__Q05]]
 
 
 
@@ -173,7 +173,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Trovare tutti i polinomi $W(x)$ con coefficienti reali in modo tale che $W(x^2) W(x^3) = W(x)^5$ sia valido per ogni numero reale $x$.
 
-[[src_pol_2008_r1__Q06]]
+[[Quesiti/src_pol_2008_r1#q06|src_pol_2008_r1__Q06]]
 
 
 
@@ -200,7 +200,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > In un insieme di persone $n$ si formano società $2^n - 1$ (una società è un sottoinsieme non vuoto di persone). Ogni società deve scegliere un leader secondo la seguente regola: se una società $C$ è l'unione $A \cup B$ di due società $A$ e $B$, allora il leader di $C$ è anche il leader di almeno una delle società $A$ e $B$. Trova il numero di possibili scelte di leader.
 
-[[src_pol_2008_r1__Q07]]
+[[Quesiti/src_pol_2008_r1#q07|src_pol_2008_r1__Q07]]
 
 
 
@@ -227,7 +227,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > La base di una piramide $SABCD$ è un quadrilaterale converso $ABCD$. Una sfera è inserita nella piramide e tocca la base $ABCD$ al punto $P$. Prove che $\angle APB + \angle CPD = 180^\circ$.
 
-[[src_pol_2008_r1__Q08]]
+[[Quesiti/src_pol_2008_r1#q08|src_pol_2008_r1__Q08]]
 
 
 
@@ -254,7 +254,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Determinare il numero più piccolo $a$ che abbia la seguente proprietà: per tutti i numeri reali $x, y, z \ge a$ che soddisfano $x + y + z = 3$, esso detiene $x^3 + y^3 + z^3 \ge 3$.
 
-[[src_pol_2008_r1__Q09]]
+[[Quesiti/src_pol_2008_r1#q09|src_pol_2008_r1__Q09]]
 
 
 
@@ -283,7 +283,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Si dà un numero primo $p$. Una sequenza di interi positivi $a_1, a_2, \ldots$ soddisfa la relazione $$a_{n+1} = a_n + p \left\lfloor \sqrt[p]{a_n} \right\rfloor \quad \text{for } n = 1, 2, 3 \ldots$$ Mostra che c'è un termine in questa sequenza che è la potenza $p$- di un intero.
 
-[[src_pol_2008_r1__Q10]]
+[[Quesiti/src_pol_2008_r1#q10|src_pol_2008_r1__Q10]]
 
 
 
@@ -312,7 +312,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > I punti $P_1, P_2, P_3, P_4, P_5, P_6, P_7$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, $BC$, $CA$, $AB$, $BC$ di un triangolo $ABC$ e soddisfano $$\angle P_1 P_2 C = \angle A P_2 P_3 = \angle P_3 P_4 B = \angle C P_4 P_5 = \angle P_5 P_6 A = \angle B P_6 P_7 = 60^\circ .$$ Prove che $P_1 \equiv P_7$.
 
-[[src_pol_2008_r1__Q11]]
+[[Quesiti/src_pol_2008_r1#q11|src_pol_2008_r1__Q11]]
 
 
 
@@ -339,4 +339,4 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 
 > Si deve dare un numero intero $m \ge 2$. Trovare il numero intero più piccolo $n \ge m$ con la proprietà che, per ogni partizione del set $\{m, m+1, \ldots, n\}$ in due sottoinsiemi, uno dei sottoinsiemi contiene tre numeri $a, b, c$ (non necessariamente distinti) con $ab = c$.
 
-[[src_pol_2008_r1__Q12]]
+[[Quesiti/src_pol_2008_r1#q12|src_pol_2008_r1__Q12]]

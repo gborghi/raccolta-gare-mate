@@ -45,7 +45,7 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q01]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q01|src_kangourou_2019_benjamin_marzo__Q01]]
 
 
 
@@ -79,7 +79,7 @@ level: kangourou
 > The sum of the dots on opposite sides of a regular dice is always 7. Which of the following is the image of a regular dice? A) B) C) D) E)
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_marzo__Q02]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q02|src_kangourou_2019_benjamin_marzo__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: kangourou
 > (e) Decoration of office
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_marzo__Q03]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q03|src_kangourou_2019_benjamin_marzo__Q03]]
 
 
 
@@ -176,7 +176,7 @@ level: kangourou
 > E) 1
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_marzo__Q04]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q04|src_kangourou_2019_benjamin_marzo__Q04]]
 
 
 
@@ -215,7 +215,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_marzo__Q05]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q05|src_kangourou_2019_benjamin_marzo__Q05]]
 
 
 
@@ -254,7 +254,7 @@ In what order were the four photos taken?
 > Tina took in a certain order the four photographs you see: they show the same group of people who are on their way, in the reverse from the bottom of the photos to the top. In what order were they taken? A) 2431 B) 4321 C) 1324 D) 4231 E) 2413
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_marzo__Q06]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q06|src_kangourou_2019_benjamin_marzo__Q06]]
 
 
 
@@ -301,7 +301,7 @@ In what order were the four photos taken?
 > E) 29
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q07]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q07|src_kangourou_2019_benjamin_marzo__Q07]]
 
 
 
@@ -335,7 +335,7 @@ In what order were the four photos taken?
 > Kangourou Day is always on the third Thursday of March: this year it corresponds to the 21st. And in 2020, what day will it be? A) Al 19	. B) Al 20	. C) Still at 21. D) Al 22	. E) Al 23.
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q08]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q08|src_kangourou_2019_benjamin_marzo__Q08]]
 
 
 
@@ -381,7 +381,7 @@ In what order were the four photos taken?
 > E) 24
 
 **Answer:** B
-[[src_kangourou_2019_benjamin_marzo__Q09]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q09|src_kangourou_2019_benjamin_marzo__Q09]]
 
 
 
@@ -429,7 +429,7 @@ In what order were the four photos taken?
 > E) 9 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q10]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q10|src_kangourou_2019_benjamin_marzo__Q10]]
 
 
 
@@ -464,7 +464,7 @@ In what order were the four photos taken?
 > A digital clock marks 20:19. What is the closest time to 20:19 as opposed to 20:19, which is written using the same digits? A) 19:02 B) 2:19 C) 19:20 D) 9:12 E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_marzo__Q11]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q11|src_kangourou_2019_benjamin_marzo__Q11]]
 
 
 
@@ -505,7 +505,7 @@ In what order were the four photos taken?
 >
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q12]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q12|src_kangourou_2019_benjamin_marzo__Q12]]
 
 
 
@@ -557,7 +557,7 @@ In what order were the four photos taken?
 > E) 11
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q13]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q13|src_kangourou_2019_benjamin_marzo__Q13]]
 
 
 
@@ -602,7 +602,7 @@ In what order were the four photos taken?
 > D) 20 E) 21
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q14]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q14|src_kangourou_2019_benjamin_marzo__Q14]]
 
 
 
@@ -650,7 +650,7 @@ In what order were the four photos taken?
 > E) 11
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q15]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q15|src_kangourou_2019_benjamin_marzo__Q15]]
 
 
 
@@ -690,7 +690,7 @@ In what order were the four photos taken?
 > In the figure you can see a double-meter folding made up of 10 segments each 20 centimeters long. Only one of the five figures you see below can't be formed with this double-meter: which? A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q16]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q16|src_kangourou_2019_benjamin_marzo__Q16]]
 
 
 
@@ -742,7 +742,7 @@ In which mosaic is the blackest and largest area
 > E)
 
 **Answer:** B
-[[src_kangourou_2019_benjamin_marzo__Q17]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q17|src_kangourou_2019_benjamin_marzo__Q17]]
 
 
 
@@ -799,7 +799,7 @@ In which mosaic is the blackest and largest area
 >
 
 **Answer:** B
-[[src_kangourou_2019_benjamin_marzo__Q18]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q18|src_kangourou_2019_benjamin_marzo__Q18]]
 
 
 
@@ -853,7 +853,7 @@ In which mosaic is the blackest and largest area
 > E) 36
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q19]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q19|src_kangourou_2019_benjamin_marzo__Q19]]
 
 
 
@@ -910,7 +910,7 @@ In which mosaic is the blackest and largest area
 > (E) 16 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q20]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q20|src_kangourou_2019_benjamin_marzo__Q20]]
 
 
 
@@ -956,7 +956,7 @@ Who rode a bicycle given the implications
 > E) It is not possible to know
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q21]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q21|src_kangourou_2019_benjamin_marzo__Q21]]
 
 
 
@@ -1003,7 +1003,7 @@ Who rode a bicycle given the implications
 > E) 90
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_marzo__Q22]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q22|src_kangourou_2019_benjamin_marzo__Q22]]
 
 
 
@@ -1044,7 +1044,7 @@ Which of the five papal statements is false
 >
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_marzo__Q23]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q23|src_kangourou_2019_benjamin_marzo__Q23]]
 
 
 
@@ -1088,7 +1088,7 @@ Which of the five papal statements is false
 > C) Exactly 2. D) 2 or 3 depending on the initial number. E) 3 or 4 depending on the initial number.
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q24]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q24|src_kangourou_2019_benjamin_marzo__Q24]]
 
 
 
@@ -1139,7 +1139,7 @@ Which of the five papal statements is false
 > E)
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_marzo__Q25]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q25|src_kangourou_2019_benjamin_marzo__Q25]]
 
 
 
@@ -1187,7 +1187,7 @@ Which of the five papal statements is false
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2019_benjamin_marzo__Q26]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q26|src_kangourou_2019_benjamin_marzo__Q26]]
 
 
 
@@ -1242,7 +1242,7 @@ Which of the five papal statements is false
 > D) 26 E) 28
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_marzo__Q27]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q27|src_kangourou_2019_benjamin_marzo__Q27]]
 
 
 
@@ -1300,7 +1300,7 @@ Which of the five papal statements is false
 >
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q28]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q28|src_kangourou_2019_benjamin_marzo__Q28]]
 
 
 
@@ -1356,7 +1356,7 @@ Which of the five papal statements is false
 > E)
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_marzo__Q29]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q29|src_kangourou_2019_benjamin_marzo__Q29]]
 
 
 
@@ -1407,4 +1407,4 @@ How many red chips does Philip have now after 10 games?
 >
 
 **Answer:** C
-[[src_kangourou_2019_benjamin_marzo__Q30]]
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q30|src_kangourou_2019_benjamin_marzo__Q30]]

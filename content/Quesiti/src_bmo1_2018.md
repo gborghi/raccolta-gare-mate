@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$ a sua volta, scrivendo un elenco dei rimanenti $365$. Henry divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$ a sua volta, scrivendo un elenco dei rimanenti $366$. Quale elenco di rimanenti ha la somma maggiore e per quanto?
 
-[[src_bmo1_2018__Q01]]
+[[Quesiti/src_bmo1_2018#q01|src_bmo1_2018__Q01]]
 
 
 
@@ -60,7 +60,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 
 > In un periodo di 100 giorni, ciascuno dei sei amici va a nuotare in esattamente 75 giorni. Mostrate che ci deve essere almeno un giorno in cui tutti e sei i vostri amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
 
-[[src_bmo1_2018__Q02]]
+[[Quesiti/src_bmo1_2018#q02|src_bmo1_2018__Q02]]
 
 
 
@@ -87,7 +87,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 
 > Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ è sul lato $BC$ e $BN = AB$. La linea $MN$ è perpendicolare a $AB$ e passa attraverso $N$ incontra $AB$ a $M$. Prova che la linea $MN$ divide sia l'area che il perimetro del triangolo $ABC$ in parti uguali.
 
-[[src_bmo1_2018__Q03]]
+[[Quesiti/src_bmo1_2018#q03|src_bmo1_2018__Q03]]
 
 
 
@@ -116,7 +116,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 
 > Considerare le sequenze $a_1, a_2, a_3, \ldots$ di numeri reali positivi, come $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$ per ogni intero positivo $n$. Quali sono i valori possibili che $a_{2017}$ può assumere?
 
-[[src_bmo1_2018__Q04]]
+[[Quesiti/src_bmo1_2018#q04|src_bmo1_2018__Q04]]
 
 
 
@@ -143,7 +143,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 
 > Se prendiamo una griglia $200 \times 100$ (o $100 \times 2$) di quadrati unitari, e rimuoviamo quadrati alternativi, i quadrati $150$ rimanenti formano un $100$-combo. Henry prende una griglia $200 \times 100$ di quadrati unitari, rimuove $150$ quadrati, e sceglie $k$ di questi quadrati e li colora in modo che James non sia in grado di scegliere $150$ quadrati multicolori che formano un $100$-combo. Qual è il minimo valore possibile di $k$?
 
-[[src_bmo1_2018__Q05]]
+[[Quesiti/src_bmo1_2018#q05|src_bmo1_2018__Q05]]
 
 
 
@@ -170,4 +170,4 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 
 > Matthew ha un mazzo di carte $300$ numerate $1$ a $300$. Prende le carte dal mazzo una alla volta e posiziona le carte selezionate in una fila, con ogni nuova carta aggiunta all'estremità destra della fila. Matthew deve provvedere che, in ogni momento, la media dei numeri sulle carte della fila sia un numero intero. Se a un certo punto, non rimane nessuna carta nel mazzo che permetta a Matthew di continuare, allora si ferma. Quando Matthew si è fermato, qual è il numero minimo possibile di carte che avrebbe potuto mettere in fila? Datemi un esempio che dimostri che ciò è possibile.
 
-[[src_bmo1_2018__Q06]]
+[[Quesiti/src_bmo1_2018#q06|src_bmo1_2018__Q06]]

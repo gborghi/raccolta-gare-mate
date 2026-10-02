@@ -43,7 +43,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > b) Se il campione ottiene $5$ punti, due squadre finiscono nella stessa posizione con $3$ punti ciascuno, e l'ultimo ottiene $2$ punti, quante gare si saranno verificate?
 
-[[src_obm_2016_n2_f3__Q01]]
+[[Quesiti/src_obm_2016_n2_f3#q01|src_obm_2016_n2_f3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > c) What is the total area of figure $6$?
 
-![[src_obm_2016_n2_f3__Q02.png]]
+![[src_obm_2016_n2_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -86,9 +86,9 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > c) Qual è la superficie totale della figura $6$?
 
-![[src_obm_2016_n2_f3__Q02.png]]
+![[src_obm_2016_n2_f3__q02.png]]
 
-[[src_obm_2016_n2_f3__Q02]]
+[[Quesiti/src_obm_2016_n2_f3#q02|src_obm_2016_n2_f3__Q02]]
 
 
 
@@ -141,7 +141,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > b) Qual è il valore minimo possibile di $n$?
 
-[[src_obm_2016_n2_f3__Q03]]
+[[Quesiti/src_obm_2016_n2_f3#q03|src_obm_2016_n2_f3__Q03]]
 
 
 
@@ -178,7 +178,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > b) Determinare la somma di tutti i numeri della lista di Carlinhos inferiori a $2016$.
 
-[[src_obm_2016_n2_f3__Q04]]
+[[Quesiti/src_obm_2016_n2_f3#q04|src_obm_2016_n2_f3__Q04]]
 
 
 
@@ -235,4 +235,4 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > 
 > Nota: diciamo che due numeri sono copriemi se non hanno un divisore comune maggiore o uguale a $2$ (più grande di $1$). Ad esempio, $9$ e $4$ sono coprime, poiché $1$ è il loro unico divisore comune.
 
-[[src_obm_2016_n2_f3__Q05]]
+[[Quesiti/src_obm_2016_n2_f3#q05|src_obm_2016_n2_f3__Q05]]

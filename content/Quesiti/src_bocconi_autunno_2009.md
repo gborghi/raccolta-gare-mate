@@ -35,7 +35,7 @@ level: Giochi d'Autunno
 > Write the largest odd number of three digits so that the sum of its digits is equal to 12.
 
 **Answer:** 921
-[[src_bocconi_autunno_2009__Q01]]
+[[Quesiti/src_bocconi_autunno_2009#q01|src_bocconi_autunno_2009__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Giochi d'Autunno
 > Mr. Teerema has three children: Carla, Milena and Luca. The average age of the two girls is 10 years while the sum of the ages of the three boys is 33 years. How old is Luca?
 
 **Answer:** 13
-[[src_bocconi_autunno_2009__Q02]]
+[[Quesiti/src_bocconi_autunno_2009#q02|src_bocconi_autunno_2009__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: Giochi d'Autunno
 
 > I 12 fiammiferi della figura formano 5 quadrati (quello grande e quattro piccoli). Trovate un modo di spostare 2 di questi fiammiferi così da formare adesso 7 quadrati. (Disegnate la nuova figura nel foglio risposte).
 
-![[src_bocconi_autunno_2009__Q03.png]]
+![[src_bocconi_autunno_2009__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -94,10 +94,10 @@ level: Giochi d'Autunno
 
 > The 12 matches in the figure form 5 squares (the big one and four small ones). Find a way to move two of these matches so that we can now form seven squares. (Draw the new figure in the reply sheet).
 
-![[src_bocconi_autunno_2009__Q03.png]]
+![[src_bocconi_autunno_2009__q03.png]]
 
 **Answer:** (o simili — vedi figura soluzione)
-[[src_bocconi_autunno_2009__Q03]]
+[[Quesiti/src_bocconi_autunno_2009#q03|src_bocconi_autunno_2009__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: Giochi d'Autunno
 > The day 01/01/01 (1° January 2001) was the first day of the third millennium. Then complete the following sentence: 10/10/10 (10 October 2010) will be the ______th day of the third millennium. Note: fill in the dots with the required number (written in figures) recalling that 2004 and 2008 were leap years.
 
 **Answer:** 3570
-[[src_bocconi_autunno_2009__Q04]]
+[[Quesiti/src_bocconi_autunno_2009#q04|src_bocconi_autunno_2009__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: Giochi d'Autunno
 > Find the smallest integer (positive) equal to 16 times the sum of its digits.
 
 **Answer:** 144
-[[src_bocconi_autunno_2009__Q05]]
+[[Quesiti/src_bocconi_autunno_2009#q05|src_bocconi_autunno_2009__Q05]]
 
 
 
@@ -171,7 +171,7 @@ level: Giochi d'Autunno
 > $$- \; - \; - \; = $$
 > $$2 \; 0 \; 1 \; 0$$
 
-![[src_bocconi_autunno_2009__Q06.png]]
+![[src_bocconi_autunno_2009__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -188,10 +188,10 @@ level: Giochi d'Autunno
 
 > Complete the addition of the figure by using (once and only) the digits 1,2,3,4,5,7,8. Note: each digit in the first row must be less than the corresponding digit of the second number (the one below it vertically) and the digits of this second number must be ordered from left to right, from smallest to largest. $$- \; - \; + $$ $$- \; - \; - \; = $$ $$2 \; 0 \; 1 \; 0$$
 
-![[src_bocconi_autunno_2009__Q06.png]]
+![[src_bocconi_autunno_2009__q06.png]]
 
 **Answer:** $432 + 1578 = 2010$
-[[src_bocconi_autunno_2009__Q06]]
+[[Quesiti/src_bocconi_autunno_2009#q06|src_bocconi_autunno_2009__Q06]]
 
 
 
@@ -204,7 +204,7 @@ level: Giochi d'Autunno
 
 > Quanti quadrati riuscite a vedere in figura?
 
-![[src_bocconi_autunno_2009__Q07.png]]
+![[src_bocconi_autunno_2009__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -221,10 +221,10 @@ level: Giochi d'Autunno
 
 > How many squares can you see in the figure?
 
-![[src_bocconi_autunno_2009__Q07.png]]
+![[src_bocconi_autunno_2009__q07.png]]
 
 **Answer:** 20
-[[src_bocconi_autunno_2009__Q07]]
+[[Quesiti/src_bocconi_autunno_2009#q07|src_bocconi_autunno_2009__Q07]]
 
 
 
@@ -253,7 +253,7 @@ level: Giochi d'Autunno
 > In the Appendix: $\text{TER} + \text{TER} = \text{SEX}$ replaced by the digits instead of the letters. Please note: the same letter always has the same number and two different letters must have two different numbers. Besides, no number can start with 0. What is the largest value that can be substituted for the word sex?
 
 **Answer:** 806
-[[src_bocconi_autunno_2009__Q08]]
+[[Quesiti/src_bocconi_autunno_2009#q08|src_bocconi_autunno_2009__Q08]]
 
 
 
@@ -283,7 +283,7 @@ level: Giochi d'Autunno
 > Write the result of the product indicated as an irreducible fraction (no longer simplifiable). $$\frac{1}{2} \times \frac{3}{7} \times \frac{5}{9} \times \cdots \times \frac{2005}{2009} \times \frac{2007}{2011}$$
 
 **Answer:** $\frac{3}{4040099}$
-[[src_bocconi_autunno_2009__Q09]]
+[[Quesiti/src_bocconi_autunno_2009#q09|src_bocconi_autunno_2009__Q09]]
 
 
 
@@ -297,7 +297,7 @@ level: Giochi d'Autunno
 > Scrivete il risultato dell'espressione indicata sotto forma di frazione irriducibile (non più semplificabile).
 > $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
 
-![[src_bocconi_autunno_2009__Q10.png]]
+![[src_bocconi_autunno_2009__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
@@ -314,10 +314,10 @@ level: Giochi d'Autunno
 
 > Write the result of the expression as an irreducible fraction (no longer simplifiable). $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
 
-![[src_bocconi_autunno_2009__Q10.png]]
+![[src_bocconi_autunno_2009__q10.png]]
 
 **Answer:** $\frac{13}{8}$
-[[src_bocconi_autunno_2009__Q10]]
+[[Quesiti/src_bocconi_autunno_2009#q10|src_bocconi_autunno_2009__Q10]]
 
 
 
@@ -330,7 +330,7 @@ level: Giochi d'Autunno
 
 > Dividete la figura in due parti sovrapponibili (eventualmente mediante qualche rotazione e qualche ribaltamento).
 
-![[src_bocconi_autunno_2009__Q11.png]]
+![[src_bocconi_autunno_2009__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -347,10 +347,10 @@ level: Giochi d'Autunno
 
 > Divide the figure into two overlapping parts (perhaps by some rotation and some flipping).
 
-![[src_bocconi_autunno_2009__Q11.png]]
+![[src_bocconi_autunno_2009__q11.png]]
 
 **Answer:** (vedi figura soluzione)
-[[src_bocconi_autunno_2009__Q11]]
+[[Quesiti/src_bocconi_autunno_2009#q11|src_bocconi_autunno_2009__Q11]]
 
 
 
@@ -379,7 +379,7 @@ level: Giochi d'Autunno
 > Between noon and 6 p.m. (on the same day), how many times do the large and small hands of a clock form a right angle?
 
 **Answer:** 11
-[[src_bocconi_autunno_2009__Q12]]
+[[Quesiti/src_bocconi_autunno_2009#q12|src_bocconi_autunno_2009__Q12]]
 
 
 
@@ -408,7 +408,7 @@ level: Giochi d'Autunno
 > Think of a number (full, positive). Decrease it by 8. Then divide the result by 5. Raise the number you find to the square, then add 23, divide by 12, and increase by 8. If you end up with 20, what was the number you initially thought of?
 
 **Answer:** 63
-[[src_bocconi_autunno_2009__Q13]]
+[[Quesiti/src_bocconi_autunno_2009#q13|src_bocconi_autunno_2009__Q13]]
 
 
 
@@ -437,7 +437,7 @@ level: Giochi d'Autunno
 > Nando's age is equal to that of Deborah's increased cubic root of Jacob's age. Deborah's is equal to Jacob's age increased by the cubic root of Nando's age. Jacob's is equal to the cubic root of Nando's age increased by the square root of Deborah's age. How old is Nando?
 
 **Answer:** 27
-[[src_bocconi_autunno_2009__Q14]]
+[[Quesiti/src_bocconi_autunno_2009#q14|src_bocconi_autunno_2009__Q14]]
 
 
 
@@ -450,7 +450,7 @@ level: Giochi d'Autunno
 
 > Abbiamo cominciato a scrivere i numeri interi (a partire da 0, 1, 2, ecc.) a spirale, come potete vedere in figura. Potete anche vedere che, rispetto agli assi indicati, il numero 25 ad esempio ha coordinate (3;2). Nello stesso sistema di riferimento, quali saranno le coordinate del numero 2010?
 
-![[src_bocconi_autunno_2009__Q15.png]]
+![[src_bocconi_autunno_2009__q15.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -467,10 +467,10 @@ level: Giochi d'Autunno
 
 > We started writing the whole numbers (starting with 0, 1, 2, etc.) in a spiral, as you can see in the figure. You can also see that, compared to the axes shown, for example, the number 25 has coordinates (3;2). In the same reference system, what will be the coordinates of the 2010 number?
 
-![[src_bocconi_autunno_2009__Q15.png]]
+![[src_bocconi_autunno_2009__q15.png]]
 
 **Answer:** $(8;\ -22)$
-[[src_bocconi_autunno_2009__Q15]]
+[[Quesiti/src_bocconi_autunno_2009#q15|src_bocconi_autunno_2009__Q15]]
 
 
 
@@ -501,7 +501,7 @@ level: Giochi d'Autunno
 > Complete the equality between two fractions, using the ten digits from 0 to 9 once and only once (in fact, 1 and 3 are already marked). You also know that each fraction is equal to 1/2. $$\frac{-\,-}{-\,-} = \frac{1}{3} \cdot \cdot = \frac{-}{3\,-\,-}$$ Note: the query may admit more than one solution; one solution is sufficient.
 
 **Answer:** $\frac{46}{92} = \frac{185}{370}$ oppure $\frac{45}{90} = \frac{186}{372}$
-[[src_bocconi_autunno_2009__Q16]]
+[[Quesiti/src_bocconi_autunno_2009#q16|src_bocconi_autunno_2009__Q16]]
 
 
 
@@ -514,7 +514,7 @@ level: Giochi d'Autunno
 
 > In un cartone quadrato di lato $x + 1$, è stato intagliato un quadrato di lato $x$ (come potete vedere in figura). Nel pezzo di cartone rimasto, si traccia un quarto di circonferenza con centro nel punto A. Quanto vale al massimo $x$ perché la costruzione sia possibile (l'intero quarto di circonferenza sta nel pezzo di cartone rimasto)? Si può sostituire $1{,}414$ a $\sqrt{2}$.
 
-![[src_bocconi_autunno_2009__Q17.png]]
+![[src_bocconi_autunno_2009__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
@@ -531,10 +531,10 @@ level: Giochi d'Autunno
 
 > In a side square $x + 1$, a side square $x$ has been carved (as you can see in the figure). In the remaining piece of cardboard, a quarter of the circumference is plotted with the center at point A. What is the maximum value of $x$ for the construction to be possible (the entire quarter of the circumference is in the remaining piece of cardboard)? $1{,}414$ may be replaced by $\sqrt{2}$.
 
-![[src_bocconi_autunno_2009__Q17.png]]
+![[src_bocconi_autunno_2009__q17.png]]
 
 **Answer:** $1 + \sqrt{2}$
-[[src_bocconi_autunno_2009__Q17]]
+[[Quesiti/src_bocconi_autunno_2009#q17|src_bocconi_autunno_2009__Q17]]
 
 
 
@@ -563,4 +563,4 @@ level: Giochi d'Autunno
 > If $2^{300}$ is a 31-digit number, how many digits does $5^{300}$ consist of?
 
 **Answer:** 70 cifre
-[[src_bocconi_autunno_2009__Q18]]
+[[Quesiti/src_bocconi_autunno_2009#q18|src_bocconi_autunno_2009__Q18]]

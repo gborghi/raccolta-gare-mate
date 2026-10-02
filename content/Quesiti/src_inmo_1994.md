@@ -41,7 +41,7 @@ level: INMO
 > 
 > b) Inoltre, se $P$ è il quarto vertice del parallelo $AGCP$, dimostrare che il triangolo $GAP$ è simile a $\triangle ABC$.
 
-[[src_inmo_1994__Q01]]
+[[Quesiti/src_inmo_1994#q01|src_inmo_1994__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: INMO
 
 > Prova che se $x$ è una radice reale di $x^5 - x^3 + x = a$, allora $x^6 \ge 2a - 1$.
 
-[[src_inmo_1994__Q02]]
+[[Quesiti/src_inmo_1994#q02|src_inmo_1994__Q02]]
 
 
 
@@ -95,7 +95,7 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 
 > Prove che tra i 181 quadrati perfetti ci sono 19 la cui somma è divisibile per 19.
 
-[[src_inmo_1994__Q03]]
+[[Quesiti/src_inmo_1994#q03|src_inmo_1994__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 
 > Trova il numero di triangoli (non generati) le cui vertici si trovano nell'insieme dei punti $(s, t)$ nel piano con $s, t \in \{0, 1, 2, 3, 4\}$.
 
-[[src_inmo_1994__Q04]]
+[[Quesiti/src_inmo_1994#q04|src_inmo_1994__Q04]]
 
 
 
@@ -149,7 +149,7 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 
 > Un cerchio attraverso il vertice $C$ di un rettangolo $ABCD$ è tangente ai lati $AB$ e $AD$ a $M$ e $N$. Dato che la distanza da $C$ alla linea $MN$ è pari a 5, calcolare l'area del rettangolo $ABCD$.
 
-[[src_inmo_1994__Q05]]
+[[Quesiti/src_inmo_1994#q05|src_inmo_1994__Q05]]
 
 
 
@@ -178,4 +178,4 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 
 > Trova tutte le funzioni $f: \mathbb{R} \to \mathbb{R}$ che soddisfano $$f(-x) = f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for all } x,$$ e $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for all } x \ne 0.$$
 
-[[src_inmo_1994__Q06]]
+[[Quesiti/src_inmo_1994#q06|src_inmo_1994__Q06]]

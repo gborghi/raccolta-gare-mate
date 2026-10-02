@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e se $A$ è amico di $B$, allora $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ci siano al massimo $2010$ bambini tra ogni coppia di amici. E' sempre possibile farlo?
 
-[[src_bmo2_2010__Q01]]
+[[Quesiti/src_bmo2_2010#q01|src_bmo2_2010__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Nel triangolo $ABC$ il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prove che $\angle AEC = \angle DGC$ se, e solo se, $\angle ACB = 90^\circ$. (Il centroide di un triangolo è l'intersezione dei tre mediani, le linee che uniscono ogni vertice al punto medio del lato opposto.)
 
-[[src_bmo2_2010__Q02]]
+[[Quesiti/src_bmo2_2010#q02|src_bmo2_2010__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 2
 
 > Il numero intero $x$ è almeno $3$ e $n = x^6 - 1$. Che $p$ sia un primo e $k$ un intero positivo tale che $p^k$ sia un fattore di $n$. Mostra che $p^{3k} < 8n$.
 
-[[src_bmo2_2010__Q03]]
+[[Quesiti/src_bmo2_2010#q03|src_bmo2_2010__Q03]]
 
 
 
@@ -115,4 +115,4 @@ level: BMO Round 2
 
 > Prova che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$4(x + y + z)^3 > 27(x^2 y + y^2 z + z^2 x).$$
 
-[[src_bmo2_2010__Q04]]
+[[Quesiti/src_bmo2_2010#q04|src_bmo2_2010__Q04]]

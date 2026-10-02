@@ -54,7 +54,7 @@ level: kangourou
 > - **(E)** Henry (see figure)
 
 **Answer:** D
-[[src_kangourou_2017_preecolier_marzo__Q01]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q01|src_kangourou_2017_preecolier_marzo__Q01]]
 
 
 
@@ -98,7 +98,7 @@ level: kangourou
 > - **(E)** 9 (see figure)
 
 **Answer:** C
-[[src_kangourou_2017_preecolier_marzo__Q02]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q02|src_kangourou_2017_preecolier_marzo__Q02]]
 
 
 
@@ -142,7 +142,7 @@ level: kangourou
 > - **(E)** 8 (see figure)
 
 **Answer:** B
-[[src_kangourou_2017_preecolier_marzo__Q03]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q03|src_kangourou_2017_preecolier_marzo__Q03]]
 
 
 
@@ -186,7 +186,7 @@ level: kangourou
 > - **(E)** 5 (see figure)
 
 **Answer:** E
-[[src_kangourou_2017_preecolier_marzo__Q04]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q04|src_kangourou_2017_preecolier_marzo__Q04]]
 
 
 
@@ -226,7 +226,7 @@ level: kangourou
 > (see figure)
 
 **Answer:** A
-[[src_kangourou_2017_preecolier_marzo__Q05]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q05|src_kangourou_2017_preecolier_marzo__Q05]]
 
 
 
@@ -266,7 +266,7 @@ level: kangourou
 > - **(E)** 10 (see figure)
 
 **Answer:** A
-[[src_kangourou_2017_preecolier_marzo__Q06]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q06|src_kangourou_2017_preecolier_marzo__Q06]]
 
 
 
@@ -302,7 +302,7 @@ level: kangourou
 > (see figure)
 
 **Answer:** E
-[[src_kangourou_2017_preecolier_marzo__Q07]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q07|src_kangourou_2017_preecolier_marzo__Q07]]
 
 
 
@@ -350,7 +350,7 @@ level: kangourou
 > - **(E)** 7
 
 **Answer:** C
-[[src_kangourou_2017_preecolier_marzo__Q08]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q08|src_kangourou_2017_preecolier_marzo__Q08]]
 
 
 
@@ -390,7 +390,7 @@ level: kangourou
 > - **(E)** 14
 
 **Answer:** D
-[[src_kangourou_2017_preecolier_marzo__Q09]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q09|src_kangourou_2017_preecolier_marzo__Q09]]
 
 
 
@@ -426,7 +426,7 @@ Where's Jim after the ride?
 > (see figure)
 
 **Answer:** C
-[[src_kangourou_2017_preecolier_marzo__Q10]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q10|src_kangourou_2017_preecolier_marzo__Q10]]
 
 
 
@@ -467,7 +467,7 @@ Where's Jim after the ride?
 > - **(E)** 12 (see figure)
 
 **Answer:** D
-[[src_kangourou_2017_preecolier_marzo__Q11]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q11|src_kangourou_2017_preecolier_marzo__Q11]]
 
 
 
@@ -503,7 +503,7 @@ Where's Jim after the ride?
 > (see figure)
 
 **Answer:** D
-[[src_kangourou_2017_preecolier_marzo__Q12]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q12|src_kangourou_2017_preecolier_marzo__Q12]]
 
 
 
@@ -539,7 +539,7 @@ Where's Jim after the ride?
 > (see figure)
 
 **Answer:** D
-[[src_kangourou_2017_preecolier_marzo__Q13]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q13|src_kangourou_2017_preecolier_marzo__Q13]]
 
 
 
@@ -579,7 +579,7 @@ How many children behind William in the line?
 > - **(E)** a number different from the previous ones
 
 **Answer:** B
-[[src_kangourou_2017_preecolier_marzo__Q14]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q14|src_kangourou_2017_preecolier_marzo__Q14]]
 
 
 
@@ -615,7 +615,7 @@ That's the time it was two and a half hours ago.
 > (see figure)
 
 **Answer:** B
-[[src_kangourou_2017_preecolier_marzo__Q15]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q15|src_kangourou_2017_preecolier_marzo__Q15]]
 
 
 
@@ -655,7 +655,7 @@ That's the time it was two and a half hours ago.
 > - **(E)** 7 (see figure)
 
 **Answer:** B
-[[src_kangourou_2017_preecolier_marzo__Q16]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q16|src_kangourou_2017_preecolier_marzo__Q16]]
 
 
 
@@ -706,7 +706,7 @@ That's the time it was two and a half hours ago.
 > - **(E)** 15 (see figure)
 
 **Answer:** B
-[[src_kangourou_2017_preecolier_marzo__Q17]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q17|src_kangourou_2017_preecolier_marzo__Q17]]
 
 
 
@@ -746,7 +746,7 @@ That's the time it was two and a half hours ago.
 > - **(E)** 4
 
 **Answer:** C
-[[src_kangourou_2017_preecolier_marzo__Q18]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q18|src_kangourou_2017_preecolier_marzo__Q18]]
 
 
 
@@ -782,7 +782,7 @@ That's the time it was two and a half hours ago.
 > (see figure)
 
 **Answer:** C
-[[src_kangourou_2017_preecolier_marzo__Q19]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q19|src_kangourou_2017_preecolier_marzo__Q19]]
 
 
 
@@ -822,7 +822,7 @@ That's the time it was two and a half hours ago.
 > - **(E)** 9
 
 **Answer:** E
-[[src_kangourou_2017_preecolier_marzo__Q20]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q20|src_kangourou_2017_preecolier_marzo__Q20]]
 
 
 
@@ -858,7 +858,7 @@ That's the time it was two and a half hours ago.
 > (see figure)
 
 **Answer:** A
-[[src_kangourou_2017_preecolier_marzo__Q21]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q21|src_kangourou_2017_preecolier_marzo__Q21]]
 
 
 
@@ -898,7 +898,7 @@ What's written on the last lock?
 > - **(E)** DAD (see figure)
 
 **Answer:** D
-[[src_kangourou_2017_preecolier_marzo__Q22]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q22|src_kangourou_2017_preecolier_marzo__Q22]]
 
 
 
@@ -945,7 +945,7 @@ What's written on the last lock?
 > - **(E)** the blue monster (see figure)
 
 **Answer:** E
-[[src_kangourou_2017_preecolier_marzo__Q23]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q23|src_kangourou_2017_preecolier_marzo__Q23]]
 
 
 
@@ -981,4 +981,4 @@ What image is seen without cutting the rope?
 > (see figure)
 
 **Answer:** C
-[[src_kangourou_2017_preecolier_marzo__Q24]]
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q24|src_kangourou_2017_preecolier_marzo__Q24]]

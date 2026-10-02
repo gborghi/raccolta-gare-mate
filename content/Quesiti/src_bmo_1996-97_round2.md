@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Che $M$ e $N$ siano due integri positivi a 9 cifre con la proprietà che se una cifra di $M$ viene sostituita dalla cifra di $N$ al posto corrispondente (ad esempio, la cifra "dieci" di $M$ è sostituita dalla cifra "dieci" di $N$), il numero intero risultante è un multiple di $7$. Prova che qualsiasi numero ottenuto sostituendo una cifra di $N$ con la cifra corrispondente di $M$ è anche un multiple di $7$. Trova un intero $d > 9$ tale che il risultato sopra riportato in merito alla divisibilità per $7$ rimanga vero quando $M$ e $N$ sono due integri positivi a 2 cifre $d$.
 
-[[src_bmo_1996-97_round2__Q01]]
+[[Quesiti/src_bmo_1996-97_round2#q01|src_bmo_1996-97_round2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Nel triangolo acuto $ABC$, $CF$ è un'altitudine, con $F$ su $AB$, e $BM$ è una media, con $M$ su $CA$. Dato che $BM = CF$ e $\angle MBC = \angle FCA$ dimostrano che il triangolo $ABC$ è equilaterale.
 
-[[src_bmo_1996-97_round2__Q02]]
+[[Quesiti/src_bmo_1996-97_round2#q02|src_bmo_1996-97_round2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 2
 
 > Trova il numero di polinomi di grado $5$ con i coefficienti $\textbf{distinct}$ dell'insieme $\{1, 2, 3, 4, 5, 6, 7, 8\}$ divisibili per $x^2 - x + 1$.
 
-[[src_bmo_1996-97_round2__Q03]]
+[[Quesiti/src_bmo_1996-97_round2#q03|src_bmo_1996-97_round2__Q03]]
 
 
 
@@ -118,4 +118,4 @@ level: BMO Round 2
 
 > L'insieme $S = \{1/r : r = 1, 2, 3, \ldots\}$ di reciprocità dei numeri interi positivi contiene progressioni aritmetiche di varie lunghezze. Ad esempio, $1/20, 1/8, 1/5$ è una tale progressione, di lunghezza $3$ (e differenza comune $3/40$). Inoltre, si tratta di un $\textit{maximal progression}$ in $S$ di lunghezza $3$ poiché non può essere esteso a sinistra o a destra all'interno di $S$ ($-1/40$ e $11/40$ non essendo membri di $S$). (i) Trovare una progressione massima in $S$ di lunghezza $1996$. (ii) C'è una progressione massima in $S$ di lunghezza $1997$?
 
-[[src_bmo_1996-97_round2__Q04]]
+[[Quesiti/src_bmo_1996-97_round2#q04|src_bmo_1996-97_round2__Q04]]

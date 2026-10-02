@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Trova il primo intero $n > 1$ in modo tale che la media di $1^2, 2^2, 3^2, \ldots, n^2$ sia un quadrato perfetto.
 
-[[src_bmo2_1994__Q01]]
+[[Quesiti/src_bmo2_1994#q01|src_bmo2_1994__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Quanti diversi (cioè: se ci sono triangoli non congruenti in coppia con lati interi e perimetro interi $p$? (Esprimi la tua risposta in termini di $p$, considerando i casi in base al residuo di $p$ modulo 12.)
 
-[[src_bmo2_1994__Q02]]
+[[Quesiti/src_bmo2_1994#q02|src_bmo2_1994__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: BMO Round 2
 > 
 > Provare che $$AR(AP + AR) = AQ(AQ + AS).$$
 
-[[src_bmo2_1994__Q03]]
+[[Quesiti/src_bmo2_1994#q03|src_bmo2_1994__Q03]]
 
 
 
@@ -119,4 +119,4 @@ level: BMO Round 2
 
 > Quanti quadrati perfetti ci sono (mod $2^n$)?
 
-[[src_bmo2_1994__Q04]]
+[[Quesiti/src_bmo2_1994#q04|src_bmo2_1994__Q04]]

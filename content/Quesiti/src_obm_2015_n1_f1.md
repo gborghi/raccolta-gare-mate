@@ -49,7 +49,7 @@ level: OBM Nível 1
 > - **(E)** B-A-M-V
 
 **Risposta:** C
-[[src_obm_2015_n1_f1__Q01]]
+[[Quesiti/src_obm_2015_n1_f1#q01|src_obm_2015_n1_f1__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 1
 > - **(E)** 54 minuti
 
 **Risposta:** D
-[[src_obm_2015_n1_f1__Q02]]
+[[Quesiti/src_obm_2015_n1_f1#q02|src_obm_2015_n1_f1__Q02]]
 
 
 
@@ -134,7 +134,7 @@ level: OBM Nível 1
 > - **(E)** 4029
 
 **Risposta:** E
-[[src_obm_2015_n1_f1__Q03]]
+[[Quesiti/src_obm_2015_n1_f1#q03|src_obm_2015_n1_f1__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: OBM Nível 1
 > - **(E)** 64
 
 **Risposta:** E
-[[src_obm_2015_n1_f1__Q04]]
+[[Quesiti/src_obm_2015_n1_f1#q04|src_obm_2015_n1_f1__Q04]]
 
 
 
@@ -196,7 +196,7 @@ level: OBM Nível 1
 > - **(D)** 29
 > - **(E)** 30
 
-![[src_obm_2015_n1_f1__Q05.png]]
+![[src_obm_2015_n1_f1__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -220,9 +220,9 @@ level: OBM Nível 1
 > - **(D)** 29
 > - **(E)** 30
 
-![[src_obm_2015_n1_f1__Q05.png]]
+![[src_obm_2015_n1_f1__q05.png]]
 
-[[src_obm_2015_n1_f1__Q05]]
+[[Quesiti/src_obm_2015_n1_f1#q05|src_obm_2015_n1_f1__Q05]]
 
 
 
@@ -241,7 +241,7 @@ level: OBM Nível 1
 > - **(D)** $1800\,\text{cm}^2$
 > - **(E)** $1600\,\text{cm}^2$
 
-![[src_obm_2015_n1_f1__Q06.png]]
+![[src_obm_2015_n1_f1__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -265,10 +265,10 @@ level: OBM Nível 1
 > - **(D)** $1800\,\text{cm}^2$
 > - **(E)** $1600\,\text{cm}^2$
 
-![[src_obm_2015_n1_f1__Q06.png]]
+![[src_obm_2015_n1_f1__q06.png]]
 
 **Risposta:** A
-[[src_obm_2015_n1_f1__Q06]]
+[[Quesiti/src_obm_2015_n1_f1#q06|src_obm_2015_n1_f1__Q06]]
 
 
 
@@ -310,7 +310,7 @@ level: OBM Nível 1
 > - **(E)** 202
 
 **Risposta:** C
-[[src_obm_2015_n1_f1__Q07]]
+[[Quesiti/src_obm_2015_n1_f1#q07|src_obm_2015_n1_f1__Q07]]
 
 
 
@@ -351,7 +351,7 @@ level: OBM Nível 1
 > - **(D)** 7
 > - **(E)** 9
 
-[[src_obm_2015_n1_f1__Q08]]
+[[Quesiti/src_obm_2015_n1_f1#q08|src_obm_2015_n1_f1__Q08]]
 
 
 
@@ -370,7 +370,7 @@ level: OBM Nível 1
 > - **(D)** 6
 > - **(E)** 7
 
-![[src_obm_2015_n1_f1__Q09.png]]
+![[src_obm_2015_n1_f1__q09.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]]
@@ -394,9 +394,9 @@ level: OBM Nível 1
 > - **(D)** 6
 > - **(E)** 7
 
-![[src_obm_2015_n1_f1__Q09.png]]
+![[src_obm_2015_n1_f1__q09.png]]
 
-[[src_obm_2015_n1_f1__Q09]]
+[[Quesiti/src_obm_2015_n1_f1#q09|src_obm_2015_n1_f1__Q09]]
 
 
 
@@ -436,7 +436,7 @@ level: OBM Nível 1
 > - **(D)** R\$18.00
 > - **(E)** R\$20.00
 
-[[src_obm_2015_n1_f1__Q10]]
+[[Quesiti/src_obm_2015_n1_f1#q10|src_obm_2015_n1_f1__Q10]]
 
 
 
@@ -455,7 +455,7 @@ level: OBM Nível 1
 > - **(D)** $200\,\text{cm}^2$
 > - **(E)** $250\,\text{cm}^2$
 
-![[src_obm_2015_n1_f1__Q11.png]]
+![[src_obm_2015_n1_f1__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -478,9 +478,9 @@ level: OBM Nível 1
 > - **(D)** $200\,\text{cm}^2$
 > - **(E)** $250\,\text{cm}^2$
 
-![[src_obm_2015_n1_f1__Q11.png]]
+![[src_obm_2015_n1_f1__q11.png]]
 
-[[src_obm_2015_n1_f1__Q11]]
+[[Quesiti/src_obm_2015_n1_f1#q11|src_obm_2015_n1_f1__Q11]]
 
 
 
@@ -499,7 +499,7 @@ level: OBM Nível 1
 > - **(D)** 4
 > - **(E)** 5
 
-![[src_obm_2015_n1_f1__Q12.png]]
+![[src_obm_2015_n1_f1__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -523,9 +523,9 @@ level: OBM Nível 1
 > - **(D)** 4
 > - **(E)** 5
 
-![[src_obm_2015_n1_f1__Q12.png]]
+![[src_obm_2015_n1_f1__q12.png]]
 
-[[src_obm_2015_n1_f1__Q12]]
+[[Quesiti/src_obm_2015_n1_f1#q12|src_obm_2015_n1_f1__Q12]]
 
 
 
@@ -544,7 +544,7 @@ level: OBM Nível 1
 > - **(D)** 20
 > - **(E)** 24
 
-![[src_obm_2015_n1_f1__Q13.png]]
+![[src_obm_2015_n1_f1__q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -568,9 +568,9 @@ level: OBM Nível 1
 > - **(D)** 20
 > - **(E)** 24
 
-![[src_obm_2015_n1_f1__Q13.png]]
+![[src_obm_2015_n1_f1__q13.png]]
 
-[[src_obm_2015_n1_f1__Q13]]
+[[Quesiti/src_obm_2015_n1_f1#q13|src_obm_2015_n1_f1__Q13]]
 
 
 
@@ -613,7 +613,7 @@ level: OBM Nível 1
 > - **(E)** 55
 
 **Risposta:** B
-[[src_obm_2015_n1_f1__Q14]]
+[[Quesiti/src_obm_2015_n1_f1#q14|src_obm_2015_n1_f1__Q14]]
 
 
 
@@ -674,7 +674,7 @@ level: OBM Nível 1
 > - **(E)** Le affermazioni precedenti non derivano dalle informazioni fornite.
 
 **Risposta:** E
-[[src_obm_2015_n1_f1__Q15]]
+[[Quesiti/src_obm_2015_n1_f1#q15|src_obm_2015_n1_f1__Q15]]
 
 
 
@@ -715,7 +715,7 @@ level: OBM Nível 1
 > - **(D)** 570
 > - **(E)** 999
 
-[[src_obm_2015_n1_f1__Q16]]
+[[Quesiti/src_obm_2015_n1_f1#q16|src_obm_2015_n1_f1__Q16]]
 
 
 
@@ -734,7 +734,7 @@ level: OBM Nível 1
 > - **(D)** $105\,\text{cm}^3$
 > - **(E)** $220\,\text{cm}^3$
 
-![[src_obm_2015_n1_f1__Q17.png]]
+![[src_obm_2015_n1_f1__q17.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -759,10 +759,10 @@ level: OBM Nível 1
 > - **(D)** $105\,\text{cm}^3$
 > - **(E)** $220\,\text{cm}^3$
 
-![[src_obm_2015_n1_f1__Q17.png]]
+![[src_obm_2015_n1_f1__q17.png]]
 
 **Risposta:** D
-[[src_obm_2015_n1_f1__Q17]]
+[[Quesiti/src_obm_2015_n1_f1#q17|src_obm_2015_n1_f1__Q17]]
 
 
 
@@ -805,7 +805,7 @@ level: OBM Nível 1
 > - **(E)** 256
 
 **Risposta:** A
-[[src_obm_2015_n1_f1__Q18]]
+[[Quesiti/src_obm_2015_n1_f1#q18|src_obm_2015_n1_f1__Q18]]
 
 
 
@@ -824,7 +824,7 @@ level: OBM Nível 1
 > - **(D)** 140
 > - **(E)** 144
 
-![[src_obm_2015_n1_f1__Q19.png]]
+![[src_obm_2015_n1_f1__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -848,10 +848,10 @@ level: OBM Nível 1
 > - **(D)** 140
 > - **(E)** 144
 
-![[src_obm_2015_n1_f1__Q19.png]]
+![[src_obm_2015_n1_f1__q19.png]]
 
 **Risposta:** A
-[[src_obm_2015_n1_f1__Q19]]
+[[Quesiti/src_obm_2015_n1_f1#q19|src_obm_2015_n1_f1__Q19]]
 
 
 
@@ -904,4 +904,4 @@ level: OBM Nível 1
 > - **(D)** 16
 > - **(E)** 17
 
-[[src_obm_2015_n1_f1__Q20]]
+[[Quesiti/src_obm_2015_n1_f1#q20|src_obm_2015_n1_f1__Q20]]

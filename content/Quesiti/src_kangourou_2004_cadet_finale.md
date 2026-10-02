@@ -17,7 +17,7 @@ level: kangourou
 
 *Aumento superficie del solido scavato*
 
-![[src_kangourou_2004_cadet_finale__probC1.png]]
+![[src_kangourou_2004_cadet_finale__probc1.png]]
 
 > In un cubo di legno di 4 decimetri di lato si taglia un cubo di due decimetri di lato per fabbricare il solido raffigurato a destra nella figura. Rispetto alla superficie totale del cubo iniziale, di quanti decimetri quadrati è maggiore la superficie totale esterna del solido? (vedi figura)
 
@@ -33,12 +33,12 @@ level: kangourou
 
 *Increased surface area of the solid excavated*
 
-![[src_kangourou_2004_cadet_finale__probC1.png]]
+![[src_kangourou_2004_cadet_finale__probc1.png]]
 
 > In a wooden cube of 4 centimetres by side, a cube of 2 centimetres by side is cut to make the solid depicted on the right in the figure. Compared to the total surface area of the initial cube, how many square decimeters is the total outer surface area of the solid? (see figure)
 
 **Answer:** 16
-[[src_kangourou_2004_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2004_cadet_finale#qc1|src_kangourou_2004_cadet_finale__QC1]]
 
 
 
@@ -66,7 +66,7 @@ level: kangourou
 > The number $a$ is a positive integer such that the sum $a + 2a + 3a + 4a + \ldots + 9a$ is a number in which all the digits are equal. What is the minimum value of $a$?
 
 **Answer:** 12345679
-[[src_kangourou_2004_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2004_cadet_finale#qc2|src_kangourou_2004_cadet_finale__QC2]]
 
 
 
@@ -95,7 +95,7 @@ There's always a dominant team in the ring.
 > At the end of a volleyball tournament with only one round in Italian (where each team meets only once all the others), is there always at least one team $A$ that in the matches with each other $B$ or has won or defeated a team that has defeated $B$? Reason for the answer. (N.B. In volleyball, no match ends in a draw.
 
 **Answer:** si (punteggio max)
-[[src_kangourou_2004_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2004_cadet_finale#qc3|src_kangourou_2004_cadet_finale__QC3]]
 
 
 
@@ -124,7 +124,7 @@ There's always a dominant team in the ring.
 > I wrote as many positive integers on five sheets. Adding them to two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
 
 **Answer:** 3,11,14,17,25
-[[src_kangourou_2004_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2004_cadet_finale#qc4|src_kangourou_2004_cadet_finale__QC4]]
 
 
 
@@ -135,7 +135,7 @@ There's always a dominant team in the ring.
 
 *Gradi dell'angolo NBM (rotazione)*
 
-![[src_kangourou_2004_cadet_finale__probC5.png]]
+![[src_kangourou_2004_cadet_finale__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -173,7 +173,7 @@ There's always a dominant team in the ring.
 
 *NBM angle degrees (rotation) *
 
-![[src_kangourou_2004_cadet_finale__probC5.png]]
+![[src_kangourou_2004_cadet_finale__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -200,7 +200,7 @@ There's always a dominant team in the ring.
 > The side of the square $ABCD$ in the figure measuring $6$ cm and the segments $AN$ and $CM$ measuring $2$ cm and $3$ cm respectively. How many degrees does the angle $NBM$ measure? (see figure)
 
 **Answer:** 45
-[[src_kangourou_2004_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2004_cadet_finale#qc5|src_kangourou_2004_cadet_finale__QC5]]
 
 
 
@@ -211,7 +211,7 @@ There's always a dominant team in the ring.
 
 *Max tessere a croce sulla scacchiera 8x8*
 
-![[src_kangourou_2004_cadet_finale__probC6.png]]
+![[src_kangourou_2004_cadet_finale__probc6.png]]
 
 > Sistemiamo in una scacchiera quadrata $8 \times 8$ delle tessere a forma di croce simmetrica come quella in figura, formate dall'accostamento di 5 quadrati di dimensione identica alle celle della scacchiera, in modo che:
 > - ciascuna di esse vada a coprire esattamente (sovrapponendovisi) 5 delle 64 caselle della scacchiera;
@@ -232,11 +232,11 @@ There's always a dominant team in the ring.
 
 *Max cross-sectional tiles on the 8x8 chessboard *
 
-![[src_kangourou_2004_cadet_finale__probC6.png]]
+![[src_kangourou_2004_cadet_finale__probc6.png]]
 
 > We place in a square chessboard $8 \times 8$ symmetrical cross-shaped tiles such as the one in the figure, formed by the approximation of 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 chessboard boxes; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
 > 
 > How many cards can a chessboard hold? (see figure)
 
 **Answer:** 8
-[[src_kangourou_2004_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2004_cadet_finale#qc6|src_kangourou_2004_cadet_finale__QC6]]

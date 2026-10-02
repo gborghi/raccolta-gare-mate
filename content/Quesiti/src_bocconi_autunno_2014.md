@@ -35,7 +35,7 @@ level: Giochi d'Autunno
 > Consider the date of 31.12.2014: the sum of its figures is $14$ ($3+1+1+2+2+0+1+4=14$). What is the first subsequent date for which the sum of the digits is $20$?
 
 **Answer:** 29/1/2015
-[[src_bocconi_autunno_2014__Q01]]
+[[Quesiti/src_bocconi_autunno_2014#q01|src_bocconi_autunno_2014__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Giochi d'Autunno
 > Clear has bought a notebook that costs $2{,}70$ Euros. In his purse, he has $6$ pieces of $0{,}50$ Euro and $12$ pieces of $20$ cents. You have to be careful how you pay because the wallet has no money left to give you. How many different ways can you pay the exact amount of $2{,}70$ Euro?
 
 **Answer:** 3
-[[src_bocconi_autunno_2014__Q02]]
+[[Quesiti/src_bocconi_autunno_2014#q02|src_bocconi_autunno_2014__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: Giochi d'Autunno
 
 > Collocate nella parte ancora bianca della scacchiera i quattro pezzi attualmente alla sua destra, in modo da ricoprire completamente la scacchiera.
 
-![[src_bocconi_autunno_2014__Q03.png]]
+![[src_bocconi_autunno_2014__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -94,10 +94,10 @@ level: Giochi d'Autunno
 
 > Place in the still white part of the chessboard the four pieces currently on its right, so that it completely covers the chessboard.
 
-![[src_bocconi_autunno_2014__Q03.png]]
+![[src_bocconi_autunno_2014__q03.png]]
 
 **Answer:** (vedi figura nella soluzione)
-[[src_bocconi_autunno_2014__Q03]]
+[[Quesiti/src_bocconi_autunno_2014#q03|src_bocconi_autunno_2014__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: Giochi d'Autunno
 
 > Collocate tutti i numeri $2, 6, 7, 8, 9, 10, 12$ e $14$ nelle caselle ancora vuote del "$5$" della figura, in modo che i numeri scritti in ognuna delle tre righe (orizzontali) di quattro caselle e in ognuna delle due colonne (verticali) di tre caselle abbiano sempre per somma $27$.
 
-![[src_bocconi_autunno_2014__Q04.png]]
+![[src_bocconi_autunno_2014__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
@@ -127,10 +127,10 @@ level: Giochi d'Autunno
 
 > Place all the numbers $2, 6, 7, 8, 9, 10, 12$ and $14$ in the still empty boxes of the "$5$" of the figure, so that the numbers written in each of the three (horizontal) rows of four boxes and in each of the two (vertical) columns of three boxes always have the sum $27$.
 
-![[src_bocconi_autunno_2014__Q04.png]]
+![[src_bocconi_autunno_2014__q04.png]]
 
 **Answer:** (vedi figura nella soluzione)
-[[src_bocconi_autunno_2014__Q04]]
+[[Quesiti/src_bocconi_autunno_2014#q04|src_bocconi_autunno_2014__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: Giochi d'Autunno
 
 > Completate le caselle ancora vuote del triangolo della figura, sapendo che il numero di ogni casella (a partire dal piano più alto) deve essere la media aritmetica dei numeri delle due caselle sottostanti su cui si appoggia.
 
-![[src_bocconi_autunno_2014__Q05.png]]
+![[src_bocconi_autunno_2014__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -160,10 +160,10 @@ level: Giochi d'Autunno
 
 > Complete the still empty boxes of the triangle in the figure, knowing that the number of each box (from the upper plane) must be the arithmetic mean of the numbers of the two boxes below on which it rests.
 
-![[src_bocconi_autunno_2014__Q05.png]]
+![[src_bocconi_autunno_2014__q05.png]]
 
 **Answer:** (vedi figura: 18 in cima, 20 e 16 al secondo livello, 23, 17, 15 alla base)
-[[src_bocconi_autunno_2014__Q05]]
+[[Quesiti/src_bocconi_autunno_2014#q05|src_bocconi_autunno_2014__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: Giochi d'Autunno
 > To arrange for oranges to be displayed and sold, the fruit vendor Renato has available trays containing $12$ oranges or other larger trays containing $21$. Whether you always use the small containers, or you always use the big ones, filling them completely, you end up with an orange. The oranges Renato wants to sell are less than$100$, but how many are they exactly?
 
 **Answer:** 85
-[[src_bocconi_autunno_2014__Q06]]
+[[Quesiti/src_bocconi_autunno_2014#q06|src_bocconi_autunno_2014__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: Giochi d'Autunno
 
 > In figura vedete un solido che, quando è poggiato su un tavolo, ha tutte le sue facce (piane) orizzontali o verticali. Quante facce ha, al minimo, questo solido?
 
-![[src_bocconi_autunno_2014__Q07.png]]
+![[src_bocconi_autunno_2014__q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -222,10 +222,10 @@ level: Giochi d'Autunno
 
 > In the figure, you see a solid that, when resting on a table, has all its faces (flat) horizontal or vertical. How many faces does this solid have, at least?
 
-![[src_bocconi_autunno_2014__Q07.png]]
+![[src_bocconi_autunno_2014__q07.png]]
 
 **Answer:** 10
-[[src_bocconi_autunno_2014__Q07]]
+[[Quesiti/src_bocconi_autunno_2014#q07|src_bocconi_autunno_2014__Q07]]
 
 
 
@@ -238,7 +238,7 @@ level: Giochi d'Autunno
 
 > Per terra, nella sua camera, Jacob ha trovato il pezzo di un puzzle che vedete in figura. Qual è la sua area, sapendo che tutti gli archi di circonferenza sono delle semicirconferenze che hanno lo stesso raggio?
 
-![[src_bocconi_autunno_2014__Q08.png]]
+![[src_bocconi_autunno_2014__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -254,10 +254,10 @@ Area of Jacob's puzzle with radius of 8 cm
 
 > On the ground, in his room, Jacob found the piece of a puzzle you see in the figure. What's its area, knowing that all the arc radii are semicirculars that have the same radius?
 
-![[src_bocconi_autunno_2014__Q08.png]]
+![[src_bocconi_autunno_2014__q08.png]]
 
 **Answer:** $32 \text{ cm}^2$
-[[src_bocconi_autunno_2014__Q08]]
+[[Quesiti/src_bocconi_autunno_2014#q08|src_bocconi_autunno_2014__Q08]]
 
 
 
@@ -274,7 +274,7 @@ Area of Jacob's puzzle with radius of 8 cm
 > 3) Le aree di A e B sono uguali.
 > 4) Le informazioni date non ci permettono di dare una risposta (al confronto tra le aree di A e B).
 
-![[src_bocconi_autunno_2014__Q09.png]]
+![[src_bocconi_autunno_2014__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -290,10 +290,10 @@ Area of Jacob's puzzle with radius of 8 cm
 
 > Liliana drew an exotic fish by drawing, within a square, a quarter of a circumference whose radius is $10$ cm and two semicirculars which both have a radius of $5$ cm. Which of the following statements is true? 1) The area of Part A is larger than the area of Part B. 2) The area of Part A is less than the area of Part B. 3) Areas A and B are equal. 4) The information given does not allow us to give an answer (comparison between areas A and B).
 
-![[src_bocconi_autunno_2014__Q09.png]]
+![[src_bocconi_autunno_2014__q09.png]]
 
 **Answer:** L'affermazione vera è la 3
-[[src_bocconi_autunno_2014__Q09]]
+[[Quesiti/src_bocconi_autunno_2014#q09|src_bocconi_autunno_2014__Q09]]
 
 
 
@@ -325,7 +325,7 @@ Area of Jacob's puzzle with radius of 8 cm
 > Replace the letters of the digits so that the operation: $$\frac{\text{CINQUE} +}{\text{UE} =}$$ $$2015$$ is correct and the word CINQUE corresponds to the largest possible numerical value. (No number can begin with $0$ and, instead of different letters, different digits must be inserted.)
 
 **Answer:** CINQUE $= 198530$
-[[src_bocconi_autunno_2014__Q10]]
+[[Quesiti/src_bocconi_autunno_2014#q10|src_bocconi_autunno_2014__Q10]]
 
 
 
@@ -338,7 +338,7 @@ Area of Jacob's puzzle with radius of 8 cm
 
 > Mettete $5$ cinque gettoni in un ordine tale per cui compaia un numero di cinque cifre che sia multiplo di $2015$.
 
-![[src_bocconi_autunno_2014__Q11.png]]
+![[src_bocconi_autunno_2014__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -355,10 +355,10 @@ Next year's multiplier: sequence of five tokens
 
 > Put $5$ five tokens in such an order that a five-digit number is multiplied by $2015$.
 
-![[src_bocconi_autunno_2014__Q11.png]]
+![[src_bocconi_autunno_2014__q11.png]]
 
 **Answer:** 44330
-[[src_bocconi_autunno_2014__Q11]]
+[[Quesiti/src_bocconi_autunno_2014#q11|src_bocconi_autunno_2014__Q11]]
 
 
 
@@ -371,7 +371,7 @@ Next year's multiplier: sequence of five tokens
 
 > Per decorare la vetrina del suo negozio di articoli sportivi, Nando ha costruito la piramide che vedete e che è formata da $385$ palline da tennis. Ciascun livello della costruzione è un quadrato. Il livello più alto è formato da $1$ sola pallina. Quello sottostante da $4$ palline, quello ancora sottostante da $9$ ecc. Quanti piani ha la piramide?
 
-![[src_bocconi_autunno_2014__Q12.png]]
+![[src_bocconi_autunno_2014__q12.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -388,10 +388,10 @@ How many floors does the 385-ball tennis pyramid have?
 
 > To decorate the window of his sportswear store, Nando built the pyramid you see, which is made of tennis balls. Each level of the building is a square. The highest level consists of $1$ single ball. The one below from $4$ balls, the one still below from $9$ etc. How many floors does the pyramid have?
 
-![[src_bocconi_autunno_2014__Q12.png]]
+![[src_bocconi_autunno_2014__q12.png]]
 
 **Answer:** 10
-[[src_bocconi_autunno_2014__Q12]]
+[[Quesiti/src_bocconi_autunno_2014#q12|src_bocconi_autunno_2014__Q12]]
 
 
 
@@ -404,7 +404,7 @@ How many floors does the 385-ball tennis pyramid have?
 
 > Il quadrato grande ha un'area di $3045 \text{ cm}^2$. Guardate al suo interno la stella (più scura): è stata costruita congiungendo i vertici del quadrato grande con i centri dei quadrati più piccoli. Qual è l'area della stella?
 
-![[src_bocconi_autunno_2014__Q13.png]]
+![[src_bocconi_autunno_2014__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -420,10 +420,10 @@ How many floors does the 385-ball tennis pyramid have?
 
 > The large square has an area of $3045 \text{ cm}^2$. Look inside the star (darker): it was built by combining the vertices of the large square with the centers of the smaller squares. What's the area of the star?
 
-![[src_bocconi_autunno_2014__Q13.png]]
+![[src_bocconi_autunno_2014__q13.png]]
 
 **Answer:** $2030 \text{ cm}^2$
-[[src_bocconi_autunno_2014__Q13]]
+[[Quesiti/src_bocconi_autunno_2014#q13|src_bocconi_autunno_2014__Q13]]
 
 
 
@@ -452,7 +452,7 @@ How many floors does the 385-ball tennis pyramid have?
 > How many integers, including $1$ and $100.000$ (included), are written without using either the $5$ digit or the $7$ digit?
 
 **Answer:** 32768
-[[src_bocconi_autunno_2014__Q14]]
+[[Quesiti/src_bocconi_autunno_2014#q14|src_bocconi_autunno_2014__Q14]]
 
 
 
@@ -481,7 +481,7 @@ How many floors does the 385-ball tennis pyramid have?
 > The first three terms of the geometric progression written by Jacopo are: $a$, $a+6$, $a+30$. What will be the fourth term of Jacob's progression? (Remember that the terms $a_1, a_2, \ldots, a_n$ constitute a geometric progression when the ratio between each term and the previous one is always equal (constant).
 
 **Answer:** $a_4 = 128$, con $a = 126$
-[[src_bocconi_autunno_2014__Q15]]
+[[Quesiti/src_bocconi_autunno_2014#q15|src_bocconi_autunno_2014__Q15]]
 
 
 
@@ -510,7 +510,7 @@ How many floors does the 385-ball tennis pyramid have?
 > In the $\sqrt{a} + \sqrt{b} = \sqrt{2} + \sqrt{2}$ equation, the unknowns $a$ and $b$ are nonnegative integers. How many pairs of solutions does the equation have?
 
 **Answer:** 9 coppie
-[[src_bocconi_autunno_2014__Q16]]
+[[Quesiti/src_bocconi_autunno_2014#q16|src_bocconi_autunno_2014__Q16]]
 
 
 
@@ -539,7 +539,7 @@ How many floors does the 385-ball tennis pyramid have?
 > What is the smallest non-zero multiple of $2015$, whose digits are written in descending order (not necessarily in the strict sense) from left to right?
 
 **Answer:** 44330
-[[src_bocconi_autunno_2014__Q17]]
+[[Quesiti/src_bocconi_autunno_2014#q17|src_bocconi_autunno_2014__Q17]]
 
 
 
@@ -568,4 +568,4 @@ How many fingers does Carla have to show to win for sure?
 > In turn, Carla and Milena show some fingers of one hand (one or two or three or four or five fingers). The number of fingers indicated shall be added to the previous total but the new sum thus obtained shall be a prime number. For example, if Carla has pointed two fingers, Milena can answer with one finger or three fingers or even five fingers because $2+1=3$, $2+3=5$ and $2+5=7$ are prime numbers. The first (between Carla and Milena) who, with the number of her fingers added to the previous total, fails to get a first number loses. It is Milena who starts the game (at this time the total is $0$). How many fingers does she have to show to be sure of winning, if she plays her best, whatever Carla's next answers are?
 
 **Answer:** 5
-[[src_bocconi_autunno_2014__Q18]]
+[[Quesiti/src_bocconi_autunno_2014#q18|src_bocconi_autunno_2014__Q18]]

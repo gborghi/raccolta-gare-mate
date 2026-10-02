@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Il diametro $AB$ divide un cerchio in due semicerchi. I punti $P_1, P_2, \ldots, P_n$ sono indicati su uno dei semicircoli di questo ordine. Come si deve scegliere un punto $C$ sull'altro semicircolo per massimizzare la somma delle superfici dei triangoli $CP_1P_2, CP_2P_3, \ldots, CP_{n-1}P_n$?
 
-[[src_pol_1970_r3__Q01]]
+[[Quesiti/src_pol_1970_r3#q01|src_pol_1970_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Considerate tre sequenze $(a_1, a_2, \ldots)$, $(b_1, b_2, \ldots)$, $(c_1, c_2, \ldots)$, ognuna delle quali ha termini separati in coppia. Dimostrare che esistono due indici $k$ e $l$ quali $k < l$, $a_k < a_l$, $b_k < b_l$ e $c_k < c_l$.
 
-[[src_pol_1970_r3__Q02]]
+[[Quesiti/src_pol_1970_r3#q02|src_pol_1970_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che un intero $n > 1$ è un numero primo se e solo se, per ogni intero $k$ con $1 \le k \le n-1$, il coefficiente binomio $\binom{n}{k}$ è divisibile da $n$.
 
-[[src_pol_1970_r3__Q03]]
+[[Quesiti/src_pol_1970_r3#q03|src_pol_1970_r3__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 3
 
 > Nel piano sono indicate due linee reciprocamente perpendicolari e $n$ rettangoli con lati paralleli alle due linee. Mostrare che se ogni due rettangoli hanno un punto comune, allora tutti i rettangoli hanno un punto comune.
 
-[[src_pol_1970_r3__Q04]]
+[[Quesiti/src_pol_1970_r3#q04|src_pol_1970_r3__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 3
 
 > In quanti modi un insieme di elementi $12$ può essere suddiviso in sottoinsiemi di due elementi?
 
-[[src_pol_1970_r3__Q05]]
+[[Quesiti/src_pol_1970_r3#q05|src_pol_1970_r3__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: Olimpiade Polacca Round 3
 
 > Trova il numero reale più piccolo $A$ in modo tale che, per ogni polinomio quadratico $f(x)$ che soddisfa $|f(x)| \le 1$ per $0 \le x \le 1$, tenga $f'(0) \le A$.
 
-[[src_pol_1970_r3__Q06]]
+[[Quesiti/src_pol_1970_r3#q06|src_pol_1970_r3__Q06]]

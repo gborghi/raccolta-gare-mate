@@ -41,7 +41,7 @@ level: China Southeastern Mathematical Olympiad
 > 
 > (2) il valore di $a$ per un dato $b$. (Posizionato da Lu Xingjiang)
 
-[[src_cn_csmo_2011__Q01]]
+[[Quesiti/src_cn_csmo_2011#q01|src_cn_csmo_2011__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: China Southeastern Mathematical Olympiad
 > $a$, $b$ e $c$ siano integri positivi copriemi in modo che $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ e $c^2 \mid (a^3 + b^3)$ siano. Trova i valori di $a$, $b$ e $c$. (postato da Yang Xiaoming)
 
 **Risposta:** $(a,b,c)=(1,1,1),(1,2,3),(1,3,2),(2,1,3),(2,3,1),(3,1,2),(3,2,1)$
-[[src_cn_csmo_2011__Q02]]
+[[Quesiti/src_cn_csmo_2011#q02|src_cn_csmo_2011__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Indicare $M = \{1, 2, 3, \ldots, 50\}$. Trova tutti gli integri positivi $n$ in modo che ci siano almeno due elementi diversi $a$ e $b$ in qualsiasi sottoinsieme con 35 elementi di $M$, come $a + b = n$ o $a - b = n$. (Posizionato da Li Shenghong)
 
-[[src_cn_csmo_2011__Q03]]
+[[Quesiti/src_cn_csmo_2011#q03|src_cn_csmo_2011__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Suppose that a line passing through the circumcircle $O$ of $\triangle ABC$ intersects $AB$ and $AC$ at points $M$ and $N$, respectively, and $E$ and $F$ are the midpoints of $BN$ and $CM$, respectively. Prove that $\angle EOF = \angle A$. (posed by Tao Pingheng)
 
-![[src_cn_csmo_b11_w293__Q04.png]]
+![[src_cn_csmo_b11_w293__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -126,9 +126,9 @@ level: China Southeastern Mathematical Olympiad
 
 > Supponiamo che una linea che attraversa il circoncircolo $O$ di $\triangle ABC$ incroci $AB$ e $AC$ rispettivamente nei punti $M$ e $N$, e $E$ e $F$ siano i punti di mezzo di $BN$ e $CM$, rispettivamente. Prova che $\angle EOF = \angle A$. (Posizionato da Tao Pingheng)
 
-![[src_cn_csmo_b11_w293__Q04.png]]
+![[src_cn_csmo_b11_w293__q04.png]]
 
-[[src_cn_csmo_2011__Q04]]
+[[Quesiti/src_cn_csmo_2011#q04|src_cn_csmo_2011__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $AA_1$, $BB_1$, and $CC_1$ be angular bisectors of $\triangle ABC$. Let $A_2 \in BB_1$ and $A_3 \in CC_1$, where $A_2$ and $A_3$ lie on $AC$ and $AB$ respectively, and let line $A_2A_3$ intersect $BC$ at $A_3'$. Points $B_3'$ and $C_3'$ are obtained similarly. Prove that points $A_3'$, $B_3'$, $C_3'$ are collinear. (posed by Tao Pingsheng)
 
-![[src_cn_csmo_b11_w293__Q05.png]]
+![[src_cn_csmo_b11_w293__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -157,9 +157,9 @@ level: China Southeastern Mathematical Olympiad
 
 > I bisetti angolari di $\triangle ABC$ siano $AA_1$, $BB_1$ e $CC_1$. Lasciate che $A_2 \in BB_1$ e $A_3 \in CC_1$, dove $A_2$ e $A_3$ si trovano rispettivamente su $AC$ e $AB$, e lasciate che la linea $A_2A_3$ si intersechi $BC$ a $A_3'$. I punti $B_3'$ e $C_3'$ sono ottenuti in modo simile. Provare che i punti $A_3'$, $B_3'$, $C_3'$ sono collineari. (posta da Tao Pingsheng)
 
-![[src_cn_csmo_b11_w293__Q05.png]]
+![[src_cn_csmo_b11_w293__q05.png]]
 
-[[src_cn_csmo_2011__Q05]]
+[[Quesiti/src_cn_csmo_2011#q05|src_cn_csmo_2011__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Dato che i punti $n$ $P_1, P_2, \ldots, P_n$ su un piano, $M$ deve essere qualsiasi punto sul segmento $AB$ sul piano. Indicare con $|P_i M|$ la distanza tra $P_i$ e $M$, $i = 1, 2, 3, \ldots, n$. Prove che $$\sum_{i=1}^{n} |P_i M| \leq \max\!\left\{\sum_{i=1}^{n} |P_i A|,\; \sum_{i=1}^{n} |P_i B|\right\}.$$ (posato da Jin Mengwei)
 
-[[src_cn_csmo_2011__Q06]]
+[[Quesiti/src_cn_csmo_2011#q06|src_cn_csmo_2011__Q06]]
 
 
 
@@ -213,7 +213,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Supponiamo che la sequenza $\{a_n\}$ sia definita da $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ per $n \geq 3$. Prova che $a_n + 2a_{n+2}$ è un quadrato perfetto per qualsiasi intero positivo $n$. (posta da Tao Pingsheng)
 
-[[src_cn_csmo_2011__Q07]]
+[[Quesiti/src_cn_csmo_2011#q07|src_cn_csmo_2011__Q07]]
 
 
 
@@ -242,4 +242,4 @@ level: China Southeastern Mathematical Olympiad
 > Considerate 12 cifre sulla faccia dell'orologio come 12 punti. Colorateli in quattro colori: rosso, giallo, blu e verde. Ogni colore è usato per tre punti. Configurare i quadrilaterali convexi con vertici in questi punti in modo che ogni quadrilaterale abbia un vertice di ogni colore. Trova il numero più grande $n$ di tali quadrilaterali in modo tale che tra tutti e tre di questi quadrilaterali non ci sia vertice dello stesso colore nella stessa posizione. (posta da Tao Pingsheng)
 
 **Risposta:** 9
-[[src_cn_csmo_2011__Q08]]
+[[Quesiti/src_cn_csmo_2011#q08|src_cn_csmo_2011__Q08]]

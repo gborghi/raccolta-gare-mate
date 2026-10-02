@@ -40,7 +40,7 @@ level: OBM Nível 3
 > A) 55 \quad (B) 56 \quad (C) 60 \quad (D) 62 \quad (E) 108
 
 **Risposta:** D
-[[src_obm_2006_n3_f1__Q01]]
+[[Quesiti/src_obm_2006_n3_f1#q01|src_obm_2006_n3_f1__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: OBM Nível 3
 > (A) 2006 \quad (B) 2007 \quad (C) 4009 \quad (D) 4011 \quad (E) 4012
 
 **Risposta:** D
-[[src_obm_2006_n3_f1__Q02]]
+[[Quesiti/src_obm_2006_n3_f1#q02|src_obm_2006_n3_f1__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{1}{2^{2006}}$ \quad (B) $\dfrac{1}{2006}$ \quad (C) $\dfrac{1}{2007}$ \quad (D) $\dfrac{1}{2006 \cdot 2007}$ \quad (E) $\dfrac{2006}{2007}$
 
-[[src_obm_2006_n3_f1__Q03]]
+[[Quesiti/src_obm_2006_n3_f1#q03|src_obm_2006_n3_f1__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: OBM Nível 3
 > 
 > (A) $39^\circ$ \quad (B) $41^\circ$ \quad (C) $43^\circ$ \quad (D) $44^\circ$ \quad (E) $46^\circ$
 
-![[src_obm_2006_n3_f1__Q04.png]]
+![[src_obm_2006_n3_f1__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -142,9 +142,9 @@ level: OBM Nível 3
 > 
 > (A) $39^\circ$ \quad (B) $41^\circ$ \quad (C) $43^\circ$ \quad (D) $44^\circ$ \quad (E) $46^\circ$
 
-![[src_obm_2006_n3_f1__Q04.png]]
+![[src_obm_2006_n3_f1__q04.png]]
 
-[[src_obm_2006_n3_f1__Q04]]
+[[Quesiti/src_obm_2006_n3_f1#q04|src_obm_2006_n3_f1__Q04]]
 
 
 
@@ -177,7 +177,7 @@ level: OBM Nível 3
 > 
 > (A) $-2$ \quad (B) $-\dfrac{1}{2}$ \quad (C) $\dfrac{1}{3}$ \quad (D) $\dfrac{1}{2}$ \quad (E) $2$
 
-[[src_obm_2006_n3_f1__Q05]]
+[[Quesiti/src_obm_2006_n3_f1#q05|src_obm_2006_n3_f1__Q05]]
 
 
 
@@ -214,7 +214,7 @@ level: OBM Nível 3
 > 
 > (A) 100 \quad (B) 120 \quad (C) 240 \quad (D) 480 \quad (E) 720
 
-[[src_obm_2006_n3_f1__Q06]]
+[[Quesiti/src_obm_2006_n3_f1#q06|src_obm_2006_n3_f1__Q06]]
 
 
 
@@ -247,7 +247,7 @@ level: OBM Nível 3
 > 
 > (A) $ab^3$ \quad (B) $a^2b^3$ \quad (C) $a^cb^c$ \quad (D) $ab^2c^3$ \quad (E) $a^4b^c$
 
-[[src_obm_2006_n3_f1__Q07]]
+[[Quesiti/src_obm_2006_n3_f1#q07|src_obm_2006_n3_f1__Q07]]
 
 
 
@@ -280,7 +280,7 @@ level: OBM Nível 3
 > 
 > (A) 50 \quad (B) 37 \quad (C) 9 \quad (D) 5 \quad (E) 1
 
-[[src_obm_2006_n3_f1__Q08]]
+[[Quesiti/src_obm_2006_n3_f1#q08|src_obm_2006_n3_f1__Q08]]
 
 
 
@@ -323,7 +323,7 @@ level: OBM Nível 3
 > - **(E)** $a \ge \dfrac{1}{3}$ e $b \ge \dfrac{1}{3}$ e $c \ge \dfrac{1}{3}$
 
 **Risposta:** B
-[[src_obm_2006_n3_f1__Q09]]
+[[Quesiti/src_obm_2006_n3_f1#q09|src_obm_2006_n3_f1__Q09]]
 
 
 
@@ -356,7 +356,7 @@ level: OBM Nível 3
 > 
 > (A) $-8$ \quad (B) 0 \quad (C) 4 \quad (D) 14 \quad (E) 200
 
-[[src_obm_2006_n3_f1__Q10]]
+[[Quesiti/src_obm_2006_n3_f1#q10|src_obm_2006_n3_f1__Q10]]
 
 
 
@@ -392,7 +392,7 @@ level: OBM Nível 3
 > (A) Nessuna (B) 1 (C) 2 (D) 3 (E) 2006
 
 **Risposta:** C
-[[src_obm_2006_n3_f1__Q11]]
+[[Quesiti/src_obm_2006_n3_f1#q11|src_obm_2006_n3_f1__Q11]]
 
 
 
@@ -425,7 +425,7 @@ level: OBM Nível 3
 > 
 > (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
 
-[[src_obm_2006_n3_f1__Q12]]
+[[Quesiti/src_obm_2006_n3_f1#q12|src_obm_2006_n3_f1__Q12]]
 
 
 
@@ -465,7 +465,7 @@ level: OBM Nível 3
 > - **(D)** 6
 > - **(E)** Non si può determinare.
 
-[[src_obm_2006_n3_f1__Q13]]
+[[Quesiti/src_obm_2006_n3_f1#q13|src_obm_2006_n3_f1__Q13]]
 
 
 
@@ -498,7 +498,7 @@ level: OBM Nível 3
 > 
 > (A) 71 \quad (B) 76 \quad (C) 80 \quad (D) 82 \quad (E) 91
 
-[[src_obm_2006_n3_f1__Q14]]
+[[Quesiti/src_obm_2006_n3_f1#q14|src_obm_2006_n3_f1__Q14]]
 
 
 
@@ -513,7 +513,7 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{1}{2}$ \quad (B) $1$ \quad (C) $\dfrac{3}{2}$ \quad (D) $2$ \quad (E) Depends on the measures of the sides of $ABC$.
 
-![[src_obm_2006_n3_f1__Q15.png]]
+![[src_obm_2006_n3_f1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -534,10 +534,10 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{1}{2}$ \quad (B) $1$ \quad (C) $\dfrac{3}{2}$ \quad (D) $2$ \quad (E) Dipende dalle misure dei lati di $ABC$.
 
-![[src_obm_2006_n3_f1__Q15.png]]
+![[src_obm_2006_n3_f1__q15.png]]
 
 **Risposta:** D
-[[src_obm_2006_n3_f1__Q15]]
+[[Quesiti/src_obm_2006_n3_f1#q15|src_obm_2006_n3_f1__Q15]]
 
 
 
@@ -570,7 +570,7 @@ level: OBM Nível 3
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-[[src_obm_2006_n3_f1__Q16]]
+[[Quesiti/src_obm_2006_n3_f1#q16|src_obm_2006_n3_f1__Q16]]
 
 
 
@@ -585,7 +585,7 @@ level: OBM Nível 3
 > 
 > (A) $2\pi - 2$ \quad (B) $3\pi$ \quad (C) $\pi$ \quad (D) $4$ \quad (E) $2\pi - 4$
 
-![[src_obm_2006_n3_f1__Q17.png]]
+![[src_obm_2006_n3_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -604,9 +604,9 @@ level: OBM Nível 3
 > 
 > (A) $2\pi - 2$ \quad (B) $3\pi$ \quad (C) $\pi$ \quad (D) $4$ \quad (E) $2\pi - 4$
 
-![[src_obm_2006_n3_f1__Q17.png]]
+![[src_obm_2006_n3_f1__q17.png]]
 
-[[src_obm_2006_n3_f1__Q17]]
+[[Quesiti/src_obm_2006_n3_f1#q17|src_obm_2006_n3_f1__Q17]]
 
 
 
@@ -655,7 +655,7 @@ level: OBM Nível 3
 > - **(D)** Si possono ottenere solo le coppie 4 e 5.
 > - **(E)** Esistono più di due coppie che non si possono ottenere.
 
-[[src_obm_2006_n3_f1__Q18]]
+[[Quesiti/src_obm_2006_n3_f1#q18|src_obm_2006_n3_f1__Q18]]
 
 
 
@@ -688,7 +688,7 @@ level: OBM Nível 3
 > 
 > (A) 2 \quad (B) 3 \quad (C) 4 \quad (D) 5 \quad (E) 6
 
-[[src_obm_2006_n3_f1__Q19]]
+[[Quesiti/src_obm_2006_n3_f1#q19|src_obm_2006_n3_f1__Q19]]
 
 
 
@@ -703,7 +703,7 @@ level: OBM Nível 3
 > 
 > (A), (B), (C), (D), (E) — see figure.
 
-![[src_obm_2006_n3_f1__Q20.png]]
+![[src_obm_2006_n3_f1__q20.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -723,9 +723,9 @@ level: OBM Nível 3
 > 
 > (A), (B), (C), (D), (E)  vedere figura.
 
-![[src_obm_2006_n3_f1__Q20.png]]
+![[src_obm_2006_n3_f1__q20.png]]
 
-[[src_obm_2006_n3_f1__Q20]]
+[[Quesiti/src_obm_2006_n3_f1#q20|src_obm_2006_n3_f1__Q20]]
 
 
 
@@ -740,7 +740,7 @@ level: OBM Nível 3
 > 
 > (A) 27 \quad (B) 30 \quad (C) 34 \quad (D) 36 \quad (E) 52
 
-![[src_obm_2006_n3_f1__Q21.png]]
+![[src_obm_2006_n3_f1__q21.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -761,10 +761,10 @@ level: OBM Nível 3
 > 
 > (A) 27 \quad (B) 30 \quad (C) 34 \quad (D) 36 \quad (E) 52
 
-![[src_obm_2006_n3_f1__Q21.png]]
+![[src_obm_2006_n3_f1__q21.png]]
 
 **Risposta:** D
-[[src_obm_2006_n3_f1__Q21]]
+[[Quesiti/src_obm_2006_n3_f1#q21|src_obm_2006_n3_f1__Q21]]
 
 
 
@@ -799,7 +799,7 @@ level: OBM Nível 3
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** D
-[[src_obm_2006_n3_f1__Q22]]
+[[Quesiti/src_obm_2006_n3_f1#q22|src_obm_2006_n3_f1__Q22]]
 
 
 
@@ -832,7 +832,7 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > 
 > (A) 2 \quad (B) 3 \quad (C) 12 \quad (D) 13 \quad (E) 2161
 
-[[src_obm_2006_n3_f1__Q23]]
+[[Quesiti/src_obm_2006_n3_f1#q23|src_obm_2006_n3_f1__Q23]]
 
 
 
@@ -867,7 +867,7 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > (A) 7 \quad (B) 13 \quad (C) $4 + \sqrt{109}$ \quad (D) $3 + \sqrt{2} + \sqrt{90}$ \quad (E) $\sqrt{149}$
 
 **Risposta:** E
-[[src_obm_2006_n3_f1__Q24]]
+[[Quesiti/src_obm_2006_n3_f1#q24|src_obm_2006_n3_f1__Q24]]
 
 
 
@@ -882,7 +882,7 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > 
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{\sqrt{2}}{4}$ \quad (D) $\dfrac{3}{8}$ \quad (E) $\dfrac{1}{2}$
 
-![[src_obm_2006_n3_f1__Q25.png]]
+![[src_obm_2006_n3_f1__q25.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
@@ -901,6 +901,6 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > 
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{\sqrt{2}}{4}$ \quad (D) $\dfrac{3}{8}$ \quad (E) $\dfrac{1}{2}$
 
-![[src_obm_2006_n3_f1__Q25.png]]
+![[src_obm_2006_n3_f1__q25.png]]
 
-[[src_obm_2006_n3_f1__Q25]]
+[[Quesiti/src_obm_2006_n3_f1#q25|src_obm_2006_n3_f1__Q25]]

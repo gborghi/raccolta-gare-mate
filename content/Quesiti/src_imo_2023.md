@@ -33,7 +33,7 @@ level: IMO
 
 > Determine all $n > 1$ integers that satisfy the following property: if $d_1, d_2, \ldots, d_k$ are all positive divisors of $n$ with $1 = d_1 < d_2 < \cdots < d_k = n$, then $d_i$ divides $d_{i+1} + d_{i+2}$ by each $1 \leq i \leq k-2$.
 
-[[src_imo_2023__Q01]]
+[[Quesiti/src_imo_2023#q01|src_imo_2023__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: IMO
 > 
 > Demonstrate that the tangent to $\omega$ in $P$ meets the line $BS$ on the inner beam of $\angle BAC$.
 
-[[src_imo_2023__Q02]]
+[[Quesiti/src_imo_2023#q02|src_imo_2023__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: IMO
 
 > For each integer $k \geq 2$, determine all the infinite sequences of positive integers $a_1, a_2, \ldots$ for which there exists a $P$ polynomial of the form $$P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0,$$ where $c_0, c_1, \ldots, c_{k-1}$ are nonnegative integers, such that $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$ for each integer $n \geq 1$.
 
-[[src_imo_2023__Q03]]
+[[Quesiti/src_imo_2023#q03|src_imo_2023__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: IMO
 
 > $x_1, x_2, \ldots, x_{2023}$ are real positive numbers with two to two distinct ones such that $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$ is an integer for each $n = 1, 2, \ldots, 2023$. Show that $a_{2023} \geq 3034$.
 
-[[src_imo_2023__Q04]]
+[[Quesiti/src_imo_2023#q04|src_imo_2023__Q04]]
 
 
 
@@ -159,7 +159,7 @@ Japanese triangle, max k red circles on ninja path
 > 
 > For $n$, find the largest integer $k$ such that in every Japanese triangle there is a ninja path containing at least $k$ red circles.
 
-[[src_imo_2023__Q05]]
+[[Quesiti/src_imo_2023#q05|src_imo_2023__Q05]]
 
 
 
@@ -196,4 +196,4 @@ Japanese triangle, max k red circles on ninja path
 > 
 > *(Note: a scalene triangle is a triangle in which no side has the same length as the others.)*
 
-[[src_imo_2023__Q06]]
+[[Quesiti/src_imo_2023#q06|src_imo_2023__Q06]]

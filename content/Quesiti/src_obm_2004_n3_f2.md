@@ -35,7 +35,7 @@ level: OBM Nível 3
 
 > Ogni numero $x_1, x_2, \ldots, x_{2004}$ può essere uguale a $\sqrt{2}-1$ o $\sqrt{2}+1$. Quanti valori interi distinti può assumere la somma $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$?
 
-[[src_obm_2004_n3_f2__Q01]]
+[[Quesiti/src_obm_2004_n3_f2#q01|src_obm_2004_n3_f2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 3
 
 > Il $ABCD$ deve essere un trapezoide retto con basi $AB$ e $CD$, con angoli retto a $A$ e $D$. Poiché la diagonale più breve $BD$ è perpendicolare al lato $BC$, trovare il valore massimo possibile del rapporto $\dfrac{CD}{AD}$.
 
-[[src_obm_2004_n3_f2__Q02]]
+[[Quesiti/src_obm_2004_n3_f2#q02|src_obm_2004_n3_f2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível 3
 
 > I dodici studenti di una classe iniziarono a giocare a calcio ogni giorno dopo la scuola, formando due squadre di 6 giocatori ciascuno e giocando tra loro. Ogni giorno formavano squadre diverse da quelle dei due giorni precedenti. Alla fine dell'anno, hanno verificato che ogni 5 studenti avevano giocato insieme nella stessa squadra almeno una volta. Quante diverse squadre sono state formate nel corso dell'anno?
 
-[[src_obm_2004_n3_f2__Q03]]
+[[Quesiti/src_obm_2004_n3_f2#q03|src_obm_2004_n3_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 3
 
 > Determinare tutte le soluzioni dell'equazione $$n \cdot 2^{n+1} + 1 = m^2$$ con $n$ e $m$ numeri naturali.
 
-[[src_obm_2004_n3_f2__Q04]]
+[[Quesiti/src_obm_2004_n3_f2#q04|src_obm_2004_n3_f2__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 3
 
 > Diciamo che un intero positivo è *sinister* se la somma dei suoi fattori primi è uguale alla somma degli esponenti nella sua fattorizzazione primaria. Trova tutti i numeri sinistri a quattro cifre.
 
-[[src_obm_2004_n3_f2__Q05]]
+[[Quesiti/src_obm_2004_n3_f2#q05|src_obm_2004_n3_f2__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: OBM Nível 3
 
 > Che $H$, $I$ e $O$ siano rispettivamente l'ortocentro, l'incentro e il circoncentro del triangolo $ABC$. La linea $CI$ taglia il circoncircolo di $ABC$ al punto $L$, distinto da $C$. È dato che $AB = IL$ e $AH = OH$. Determinare gli angoli del triangolo $ABC$.
 
-[[src_obm_2004_n3_f2__Q06]]
+[[Quesiti/src_obm_2004_n3_f2#q06|src_obm_2004_n3_f2__Q06]]

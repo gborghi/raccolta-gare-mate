@@ -38,7 +38,7 @@ level: squadre
 > To celebrate the anniversary of its opening, a bakery today offers a 30% discount on all items sold. Moreover, on the most representative cake of its production, the bakery offers an additional 20% discount on the discounted price. For this cake, what's the discount rate on the starting price?
 
 **Answer:** 44
-[[src_kangourou_2014_squadre_a__Q01]]
+[[Quesiti/src_kangourou_2014_squadre_a#q01|src_kangourou_2014_squadre_a__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: squadre
 > Average grid In each of the boxes of a grid 100 × 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the top boxes. What number was entered in the fourth?
 
 **Answer:** 892
-[[src_kangourou_2014_squadre_a__Q02]]
+[[Quesiti/src_kangourou_2014_squadre_a#q02|src_kangourou_2014_squadre_a__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: squadre
 > 5 parallel lines and some parallel lines are drawn in the plane. Overall, n rectangles can be identified, each having sides on four of the lines drawn. We know that n is the number as close to 1000 as possible with these assumptions. How much is n?
 
 **Answer:** 1050
-[[src_kangourou_2014_squadre_a__Q03]]
+[[Quesiti/src_kangourou_2014_squadre_a#q03|src_kangourou_2014_squadre_a__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: squadre
 > Luisa's swimming pool In a park there's a perfectly circular pool. Luisa dives from a point on the edge, swims eastward, and after 24 meters touches the edge again. From this new point on the edge, he swims north and after seven metres touches the edge again. How many meters does the swimming pool diameter measure?
 
 **Answer:** 25
-[[src_kangourou_2014_squadre_a__Q04]]
+[[Quesiti/src_kangourou_2014_squadre_a#q04|src_kangourou_2014_squadre_a__Q04]]
 
 
 
@@ -171,7 +171,7 @@ level: squadre
 > Equation in integers For how many ordered pairs (x,y) of positive integers do you have that x + 3y = 2014?
 
 **Answer:** 671
-[[src_kangourou_2014_squadre_a__Q05]]
+[[Quesiti/src_kangourou_2014_squadre_a#q05|src_kangourou_2014_squadre_a__Q05]]
 
 
 
@@ -252,7 +252,7 @@ level: squadre
 > The parallelogram Note the figure: ABCD is a parallelogram, the area of the AED triangle is 360 m2, while the area of the ABE triangle is 540 m2. What is the area of the DEF triangle in m2?
 
 **Answer:** 240
-[[src_kangourou_2014_squadre_a__Q06]]
+[[Quesiti/src_kangourou_2014_squadre_a#q06|src_kangourou_2014_squadre_a__Q06]]
 
 
 
@@ -283,7 +283,7 @@ level: squadre
 > The sum is 1/5 How many pairs (a,b) of positive integers are such that 1/a + 1/b = 1/5? (If a ≠ b, the pair (a,b) shall be considered different from the pair (b,a).)
 
 **Answer:** 3
-[[src_kangourou_2014_squadre_a__Q07]]
+[[Quesiti/src_kangourou_2014_squadre_a#q07|src_kangourou_2014_squadre_a__Q07]]
 
 
 
@@ -315,7 +315,7 @@ level: squadre
 > How many digits of zero? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
 
 **Answer:** 16
-[[src_kangourou_2014_squadre_a__Q08]]
+[[Quesiti/src_kangourou_2014_squadre_a#q08|src_kangourou_2014_squadre_a__Q08]]
 
 
 
@@ -348,7 +348,7 @@ level: squadre
 > The rotation of the tyres A car assembles special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the timing of the replacement is the same for all four tyres, after how many kilometres will the four tyres have to be replaced from front to rear and vice versa?
 
 **Answer:** 1800
-[[src_kangourou_2014_squadre_a__Q09]]
+[[Quesiti/src_kangourou_2014_squadre_a#q09|src_kangourou_2014_squadre_a__Q09]]
 
 
 
@@ -378,7 +378,7 @@ level: squadre
 > What is the sum of the digits of the whole number 777.777.777.7772 - 222.222.222.2232 ?
 
 **Answer:** 74
-[[src_kangourou_2014_squadre_a__Q10]]
+[[Quesiti/src_kangourou_2014_squadre_a#q10|src_kangourou_2014_squadre_a__Q10]]
 
 
 
@@ -410,7 +410,7 @@ level: squadre
 > The fourth vertex In the plane referred to the usual system of orthogonal Cartesian axes the points (1,-1), (-1,0) and (0,1) are three of the vertices of a parallelogram. Consider all the points that can make up the fourth vertex and add up all their coordinates. What is the result?
 
 **Answer:** 0
-[[src_kangourou_2014_squadre_a__Q11]]
+[[Quesiti/src_kangourou_2014_squadre_a#q11|src_kangourou_2014_squadre_a__Q11]]
 
 
 
@@ -449,7 +449,7 @@ level: squadre
 > The figure sketches a portion of a rectangular floor. For tiles, square tiles of the same size were used, broken in half to make triangular tiles that were only used along the edges. Along each of the short edges are 20 triangular tiles, along each of the long ones are 86 tiles. How many square tiles of those used ones are left intact?
 
 **Answer:** 3334
-[[src_kangourou_2014_squadre_a__Q12]]
+[[Quesiti/src_kangourou_2014_squadre_a#q12|src_kangourou_2014_squadre_a__Q12]]
 
 
 
@@ -483,7 +483,7 @@ level: squadre
 > Miles signals Giulio is driving at a steady speed on a freeway. At some point, you notice that the two digits of the number on the kilometre signal you're passing are those of the signal you had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving you notice that the number present on the signal you are passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What's the number on the third mile?
 
 **Answer:** 106
-[[src_kangourou_2014_squadre_a__Q13]]
+[[Quesiti/src_kangourou_2014_squadre_a#q13|src_kangourou_2014_squadre_a__Q13]]
 
 
 
@@ -513,7 +513,7 @@ level: squadre
 > You know that a, b, and c are three numbers such that a + b + c = 300 and 3a + 2b + c = 600. How much is 3a + 4b + 5c ?
 
 **Answer:** 1200
-[[src_kangourou_2014_squadre_a__Q14]]
+[[Quesiti/src_kangourou_2014_squadre_a#q14|src_kangourou_2014_squadre_a__Q14]]
 
 
 
@@ -559,4 +559,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 98
-[[src_kangourou_2014_squadre_a__Q15]]
+[[Quesiti/src_kangourou_2014_squadre_a#q15|src_kangourou_2014_squadre_a__Q15]]

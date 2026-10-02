@@ -47,7 +47,7 @@ level: kangourou
 > - **(E)** There's not enough data to establish it.
 
 **Answer:** A
-[[src_kangourou_2017_ecolier_semifinale__Q01]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q01|src_kangourou_2017_ecolier_semifinale__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: kangourou
 > - **(E)** 9
 
 **Answer:** B
-[[src_kangourou_2017_ecolier_semifinale__Q02]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q02|src_kangourou_2017_ecolier_semifinale__Q02]]
 
 
 
@@ -131,7 +131,7 @@ French balloons of partial sums
 > - **(E)** 12
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_semifinale__Q03]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q03|src_kangourou_2017_ecolier_semifinale__Q03]]
 
 
 
@@ -233,7 +233,7 @@ French balloons of partial sums
 > - **(E)** 144
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_semifinale__Q04]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q04|src_kangourou_2017_ecolier_semifinale__Q04]]
 
 
 
@@ -266,7 +266,7 @@ French balloons of partial sums
 > Five girls play arrows: each arrows two arrows at the same target composed of ten regions of different values, from 1 to 10. Every shot hits the target and an arrow falls in every region. By the end of the game, Ada has a total of 11 points, Bea has 4, Camilla has 7, Doris has 16, and Eva has 17. Which of the five made the two shots with the most points difference? I 'm going to tell you something .
 
 **Answer:** D
-[[src_kangourou_2017_ecolier_semifinale__Q05]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q05|src_kangourou_2017_ecolier_semifinale__Q05]]
 
 
 
@@ -300,7 +300,7 @@ French balloons of partial sums
 > (Points 4) Using 12 canes all equal to each other, you can build three squares. If you overlap the three squares in part, how many squares can you see at most? (A) 3         (B) 5 (C) 7 (D) 9 (E) 11
 
 **Answer:** 8
-[[src_kangourou_2017_ecolier_semifinale__Q06]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q06|src_kangourou_2017_ecolier_semifinale__Q06]]
 
 
 
@@ -331,7 +331,7 @@ French balloons of partial sums
 > (Point 5) A father has five children: each of those born after the first was born exactly two years after the previous one. Today the age of the eldest son is twice that of the youngest. How old is the penultimate born today? (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_semifinale__Q07]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q07|src_kangourou_2017_ecolier_semifinale__Q07]]
 
 
 
@@ -373,7 +373,7 @@ French balloons of partial sums
 > - **(D)** 30
 > - **(E)** 50
 
-[[src_kangourou_2017_ecolier_semifinale__Q08]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q08|src_kangourou_2017_ecolier_semifinale__Q08]]
 
 
 
@@ -421,7 +421,7 @@ French balloons of partial sums
 > - **(C)** 2
 > - **(D)** 3 (E) 4 Open-ended questions
 
-[[src_kangourou_2017_ecolier_semifinale__Q09]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q09|src_kangourou_2017_ecolier_semifinale__Q09]]
 
 
 
@@ -451,7 +451,7 @@ French balloons of partial sums
 > (Four points) The sum of two numbers is 30 and their product is 56. How much are the two numbers worth? (In the answer, the smallest is first indicated; e.g. If the two numbers are 5 and 8, you should write 0508.
 
 **Answer:** 0228
-[[src_kangourou_2017_ecolier_semifinale__Q10]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q10|src_kangourou_2017_ecolier_semifinale__Q10]]
 
 
 
@@ -482,7 +482,7 @@ The number of the knight dancing with the lady 374
 > (Points 4) There are 500 ladies and 500 knights at a grand ball. The first ones on the guest list are numbered from 1 to 500, the second ones are numbered from 501 to 1000. The last knight on the list is asked to dance with the first lady, the penultimate to dance with the second lady and so on. What is the number of the knight who will dance with the lady number 374?
 
 **Answer:** 0627
-[[src_kangourou_2017_ecolier_semifinale__Q11]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q11|src_kangourou_2017_ecolier_semifinale__Q11]]
 
 
 
@@ -513,7 +513,7 @@ The number of the knight dancing with the lady 374
 > Four plants grow along one side of a road; the distances between one plant and the next are 7.5 m, 9 m and 21 m. What is the minimum number of plants that you need to add so that all the distances between two successive plants are equal?
 
 **Answer:** 0022
-[[src_kangourou_2017_ecolier_semifinale__Q12]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q12|src_kangourou_2017_ecolier_semifinale__Q12]]
 
 
 
@@ -557,7 +557,7 @@ The number of the knight dancing with the lady 374
 > (Points 6) You can buy short strips of cardboard like the ones you see in the first figure at the cartel. Some are made up of three squares lined up, others are made up of five; the squares are all identical. Each strip, regardless of its length, costs one euro. Using strips like these, Giuliana wants to cover the five strips you see in the second figure, made up of 10, 12, 16, 18, and 20 squares aligned with the previous ones. The short strips you use must overlap perfectly with the ones you cover, so they must not overlap, and they must not overlap. How much will Juliana have to spend to make her plan come true?
 
 **Answer:** 0018
-[[src_kangourou_2017_ecolier_semifinale__Q13]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q13|src_kangourou_2017_ecolier_semifinale__Q13]]
 
 
 
@@ -587,7 +587,7 @@ Minimum number of persons with 4 children and 2 fathers
 > (Points 8) In a room there are exactly four children, each with their own father, and exactly two fathers. What's the smallest number of people in the room that this could happen to?
 
 **Answer:** 0005
-[[src_kangourou_2017_ecolier_semifinale__Q14]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q14|src_kangourou_2017_ecolier_semifinale__Q14]]
 
 
 
@@ -677,4 +677,4 @@ Minimum number of persons with 4 children and 2 fathers
 > Question No. The answer to question 6 does not appear to be the correct answer which is 8. B
 
 **Answer:** 0070
-[[src_kangourou_2017_ecolier_semifinale__Q15]]
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q15|src_kangourou_2017_ecolier_semifinale__Q15]]

@@ -42,7 +42,7 @@ level: Classi Prime
 > What is the minimum common multiple of three numbers a = 69 · 103 · 153, b = 63 · 109 · 153, and c = 63 · 103 · 159? A 66 · 106 · 156 B 69 · 109 · 159 C 68 · 108 · 158 D 67 · 107 · 157 E 65 · 105 · 155 F 64 · 104 · 154
 
 **Answer:** A
-[[src_garaprime_2020__Q01]]
+[[Quesiti/src_garaprime_2020#q01|src_garaprime_2020__Q01]]
 
 
 
@@ -82,7 +82,7 @@ Minimum movements for rolling 11 coins in groups of 3
 > There are 11 identical coins (with Head on one face and Cross on the other) scattered on a table with the side Head facing up. We establish that making a move means choosing 3 distinct coins and flipping them, that is, turning them so that they lean on the table with the face that was facing up. How many moves do you need at the very least for all the coins to have the cross facing up? A 5 B 4 C 6 D 7 E 11 F is impossible
 
 **Answer:** A
-[[src_garaprime_2020__Q02]]
+[[Quesiti/src_garaprime_2020#q02|src_garaprime_2020__Q02]]
 
 
 
@@ -118,7 +118,7 @@ Minimum movements for rolling 11 coins in groups of 3
 > What's the smallest positive integer whose square is divisible by 504? A 84 B 504 C 42 D 126 E 252 F None of the other answers is correct
 
 **Answer:** A
-[[src_garaprime_2020__Q03]]
+[[Quesiti/src_garaprime_2020#q03|src_garaprime_2020__Q03]]
 
 
 
@@ -153,7 +153,7 @@ Minimum movements for rolling 11 coins in groups of 3
 > A regular dodecahedron is a solid with 12 faces, all equal to each other, shaped like a regular pentagon. How many peaks do you have? A 20 B 60 C 30 D 12 E 36 F 48
 
 **Answer:** A
-[[src_garaprime_2020__Q04]]
+[[Quesiti/src_garaprime_2020#q04|src_garaprime_2020__Q04]]
 
 
 
@@ -189,7 +189,7 @@ Minimum movements for rolling 11 coins in groups of 3
 > In the 12-hour time interval from 10:00:05 to 22:00:05 how many times does a clock's second and minute hands point in the same direction? A 708 B 720 C 719 D 660 E 600 F 590
 
 **Answer:** A
-[[src_garaprime_2020__Q05]]
+[[Quesiti/src_garaprime_2020#q05|src_garaprime_2020__Q05]]
 
 
 
@@ -243,7 +243,7 @@ Minimum movements for rolling 11 coins in groups of 3
 > The expression 1 52 + 1 5 + 1 + 5 + 52 1 53 + 1 52 + 2 5 + 2 + 2 · 5 + 52 + 53 is A 5 26 B 5 24 C 25 126 D 25 124 E 25 121 F 25 129
 
 **Answer:** A
-[[src_garaprime_2020__Q06]]
+[[Quesiti/src_garaprime_2020#q06|src_garaprime_2020__Q06]]
 
 
 
@@ -286,7 +286,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > From the list of 2020 numbers a1, a2, a3, . . . , by 2020, we know that the first two are a1 = 5 and a2 = 7. We also know that, from the third onwards, each term is obtained by making the ratio between the one preceding it by a position and the one preceding it by two positions, i.e.: a3 = a2/a1, a4 = a3/a2, a5 = a4/a3, etc. How much is 2020 worth? A 1 5 B 1 7 C 7 5 D 5 7 E 5 F 7
 
 **Answer:** A
-[[src_garaprime_2020__Q07]]
+[[Quesiti/src_garaprime_2020#q07|src_garaprime_2020__Q07]]
 
 
 
@@ -324,7 +324,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > There are 40 socks in a basket: 10 yellow, 10 red, 10 green and 10 blue. I take a number of them without looking, and I hope with them I can put together at least four pairs in which both socks are the same color. What's the minimum number of socks to take to make sure you can do it? A 11 B 8 C 12 D 15 E 10 F None of the other answers are correct
 
 **Answer:** A
-[[src_garaprime_2020__Q08]]
+[[Quesiti/src_garaprime_2020#q08|src_garaprime_2020__Q08]]
 
 
 
@@ -361,7 +361,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > If we write in descending order the list of all the positive divisors of 646400 we get: 646400, 323200, 161600, . . . , 5, 4, 2, 1 What is the eighth number on that list? A 32320 B 40400 C 2525 D 16160 E 25856 F 5050
 
 **Answer:** A
-[[src_garaprime_2020__Q09]]
+[[Quesiti/src_garaprime_2020#q09|src_garaprime_2020__Q09]]
 
 
 
@@ -403,7 +403,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > In Kenoncè, it was decided to halve the number of Members of Parliament. The new elections, however, lead to a parliament which, while half of the previous one, is not composed of new people but is a subset of the previous parliament. However, the proportions between the island's only two political parties change: only 18 of the Lasagna Party's MPs are confirmed in office, while the Pagnotta Party sees as many as 3 4 of its MPs confirmed. What is the percentage of seats in the new parliament for the Pagnotta Party? A 90% B 75% C 60% D 50% E 72% F cannot be determined by the data provided alone
 
 **Answer:** A
-[[src_garaprime_2020__Q10]]
+[[Quesiti/src_garaprime_2020#q10|src_garaprime_2020__Q10]]
 
 
 
@@ -467,7 +467,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > A rectangular sheet of cardboard is cut to produce exactly nine pieces, all square: one 64 cm2, two 16 cm2, and six 4 cm2. What was the perimeter of the rectangle? A 44 cm B 46 cm C 52 cm D 62 cm E 68 cm F not determined by the data provided alone
 
 **Answer:** A
-[[src_garaprime_2020__Q11]]
+[[Quesiti/src_garaprime_2020#q11|src_garaprime_2020__Q11]]
 
 
 
@@ -564,7 +564,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > The ABCDEFGH area is 1440. What is the area of the trapezoid ABCD? A 360 B 480 C 288 D 432 E 400 F 384
 
 **Answer:** A
-[[src_garaprime_2020__Q12]]
+[[Quesiti/src_garaprime_2020#q12|src_garaprime_2020__Q12]]
 
 
 
@@ -607,7 +607,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > Claudia and Luca play Dividi and Replace. At the beginning of the board is written a positive integer n. In turn, the two players divide the number written on the board by a power of a prime number so as to get a new positive integer m, smaller than n, which is written on the board instead of n. The first one to get 1 wins. At some point on the board, it says 320000 and it's Claudia's turn. What move does Claudia have to make to make sure she can force the win, anyway, you play Luca? A divided by 32 B divided by 625 C divided by 2 D divided by 25 E there's more than one move that allows Claudia to win F. Whatever Claudia moves, Luke wins.
 
 **Answer:** A
-[[src_garaprime_2020__Q13]]
+[[Quesiti/src_garaprime_2020#q13|src_garaprime_2020__Q13]]
 
 
 
@@ -644,7 +644,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > Of a positive integer n we know that it ends with 5 and that the number of tens of n3 is odd. What's the number of tens of n3? A 7 B 1 C 3 D 5 E 9 F not uniquely determined by the data provided
 
 **Answer:** A
-[[src_garaprime_2020__Q14]]
+[[Quesiti/src_garaprime_2020#q14|src_garaprime_2020__Q14]]
 
 
 
@@ -684,7 +684,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > An ABCD square has a side of 120 centimetres and γ is its circumscribed circle. Find the area (expressed in cm2) of the lunula which is obtained by taking at γ its intersection with the center circle A and radius AB. A 7200 B 2000π C 2400π D 8000 E 4800 F 1440π
 
 **Answer:** A
-[[src_garaprime_2020__Q15]]
+[[Quesiti/src_garaprime_2020#q15|src_garaprime_2020__Q15]]
 
 
 
@@ -723,7 +723,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > We know that m and n are two positive integers with 11 and 12 positive divisors respectively. Knowing also that the MCD(m, n) has 4 positive divisors, say how many positive divisors of the product mn. (Remember that 1 and the number itself must also be counted among the divisors of a number) A 42 B 33 C 36 D 52 E 143 F the data are insufficient to answer
 
 **Answer:** A
-[[src_garaprime_2020__Q16]]
+[[Quesiti/src_garaprime_2020#q16|src_garaprime_2020__Q16]]
 
 
 
@@ -763,7 +763,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > Given the regular octagon P of area 1440, consider the largest square containing P and the smallest square containing P. What's the difference between the areas of the two squares? A 720 B 840 C 576 D 480 E 600 F 640
 
 **Answer:** A
-[[src_garaprime_2020__Q17]]
+[[Quesiti/src_garaprime_2020#q17|src_garaprime_2020__Q17]]
 
 
 
@@ -813,4 +813,4 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 > Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
 
 **Answer:** A
-[[src_garaprime_2020__Q18]]
+[[Quesiti/src_garaprime_2020#q18|src_garaprime_2020__Q18]]

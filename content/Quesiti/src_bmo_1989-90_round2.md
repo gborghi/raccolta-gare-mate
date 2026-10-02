@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Prove che se $$p(x) = a_0 x^n + a_1 x^{n-1} + \cdots + a_n$$ i cui coefficienti sono interi, prende il valore 1990 per quattro valori interi distinti di $x$, allora non prende il valore 1991 per alcun valore interi di $x$.
 
-[[src_bmo_1989-90_round2__Q01]]
+[[Quesiti/src_bmo_1989-90_round2#q01|src_bmo_1989-90_round2__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: BMO Round 2
 > 
 > Ci sono soluzioni razionali?
 
-[[src_bmo_1989-90_round2__Q02]]
+[[Quesiti/src_bmo_1989-90_round2#q02|src_bmo_1989-90_round2__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: BMO Round 2
 > 
 > Prova che per i numeri reali positivi $a$, $b$, $c$ che sono i lati di un triangolo, $$\sqrt{a} + \sqrt{b} > \sqrt{c}.$$
 
-[[src_bmo_1989-90_round2__Q03]]
+[[Quesiti/src_bmo_1989-90_round2#q03|src_bmo_1989-90_round2__Q03]]
 
 
 
@@ -139,4 +139,4 @@ level: BMO Round 2
 > 
 > Provare che $$AI^2 = AB \cdot AC.$$
 
-[[src_bmo_1989-90_round2__Q04]]
+[[Quesiti/src_bmo_1989-90_round2#q04|src_bmo_1989-90_round2__Q04]]

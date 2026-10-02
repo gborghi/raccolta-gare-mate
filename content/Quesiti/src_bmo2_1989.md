@@ -39,7 +39,7 @@ level: BMO Round 2
 > 
 > Esistono numeri interi $b, c$ in modo che l'equazione $$ax^2 - bx + c = 0$$ abbia due radici distinte nell'intervallo $0 < x < 1$.
 
-[[src_bmo2_1989__Q01]]
+[[Quesiti/src_bmo2_1989#q01|src_bmo2_1989__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: BMO Round 2
 > 
 > Indicare se è possibile generare le lettere $n$ che appaiono ciascuna cinque volte.
 
-[[src_bmo2_1989__Q02]]
+[[Quesiti/src_bmo2_1989#q02|src_bmo2_1989__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: BMO Round 2
 
 > Che $f(x)$ sia un polinomio di grado $n$ tale che $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$ Trova $f(n+1)$, esprimendo il risultato il più semplicemente possibile.
 
-[[src_bmo2_1989__Q03]]
+[[Quesiti/src_bmo2_1989#q03|src_bmo2_1989__Q03]]
 
 
 
@@ -128,4 +128,4 @@ level: BMO Round 2
 
 > $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $ABM$, $BCM$ abbiano scritti cerchi. Trova la lunghezza di $IM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
 
-[[src_bmo2_1989__Q04]]
+[[Quesiti/src_bmo2_1989#q04|src_bmo2_1989__Q04]]

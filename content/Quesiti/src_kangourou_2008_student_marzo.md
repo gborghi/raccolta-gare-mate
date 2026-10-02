@@ -42,7 +42,7 @@ level: kangourou
 > In the cells of a 2 x 2 table, the numbers 3 and 4 and two unknown numbers are written (one per cell). You know the sum of the numbers in one row is 5, the sum of the numbers in the other row is 10, and the sum of the numbers in one column is 9. Which is the larger of the two unknown numbers? A) 5 B) 6 C) 7 D) 8 E) 3
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2008_student_marzo#q01|src_kangourou_2008_student_marzo__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: kangourou
 > If x + y = 0 and x ≠y, then = A) −1 B) 0 C) 1 D) 22008 E) x/y
 
 **Answer:** C
-[[src_kangourou_2008_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2008_student_marzo#q02|src_kangourou_2008_student_marzo__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: kangourou
 > In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is equal. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2008_student_marzo#q03|src_kangourou_2008_student_marzo__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: kangourou
 > How many prime numbers p have the property that p4+1 is also prime? (Remember that 1 is not a prime number.) A) None B) 1 C) 2 D) 3 E) Infinite
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2008_student_marzo#q04|src_kangourou_2008_student_marzo__Q04]]
 
 
 
@@ -208,7 +208,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 29 29 Kang 2008 Kang 2008 A) B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2008_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2008_student_marzo#q05|src_kangourou_2008_student_marzo__Q05]]
 
 
 
@@ -281,7 +281,7 @@ level: kangourou
 > A isosceles triangle ABC (CA = CB) is given. The D-point on side AB is such that AD = AC and DB = DC (see figure). So the measurement of the ACB angle is A) 98° B) 100° C) 104° D) 108° E) 110°
 
 **Answer:** D
-[[src_kangourou_2008_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2008_student_marzo#q06|src_kangourou_2008_student_marzo__Q06]]
 
 
 
@@ -319,7 +319,7 @@ level: kangourou
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2008_student_marzo#q07|src_kangourou_2008_student_marzo__Q07]]
 
 
 
@@ -384,7 +384,7 @@ level: kangourou
 > In the circle drawn in the figure, AB is a diameter. Determine the order d of point D. A) 3 B) C) 4 D) 5 E) 6
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2008_student_marzo#q08|src_kangourou_2008_student_marzo__Q08]]
 
 
 
@@ -417,7 +417,7 @@ level: kangourou
 > We know that x2yz3 is 73 and xy2 is 79. So xyz is equal to A) 74 B) 76 C) 78 D) 79 E) 710
 
 **Answer:** A
-[[src_kangourou_2008_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2008_student_marzo#q09|src_kangourou_2008_student_marzo__Q09]]
 
 
 
@@ -454,7 +454,7 @@ level: kangourou
 > You want to put a digit in every empty place of the 2_8 alignment so you get a four-digit number divisible by 3. How many choices do you have for the (ordered) pair of digits to enter? A) 29 B) 30 C) 19 D) 20 E) 33 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2008_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2008_student_marzo#q10|src_kangourou_2008_student_marzo__Q10]]
 
 
 
@@ -517,7 +517,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 30 30 Kang 2008 Kang
 
 **Answer:** E
-[[src_kangourou_2008_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2008_student_marzo#q11|src_kangourou_2008_student_marzo__Q11]]
 
 
 
@@ -556,7 +556,7 @@ level: kangourou
 > The length of the beam of each of the cubes in the figure is 1. What is the length of the AB segment? A) B) 7 C) D) E)
 
 **Answer:** A
-[[src_kangourou_2008_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2008_student_marzo#q12|src_kangourou_2008_student_marzo__Q12]]
 
 
 
@@ -595,7 +595,7 @@ level: kangourou
 > Five problems are proposed in a mathematical contest. The scores assigned to them are all different from each other and are all positive integers. Roberto solved all five problems correctly, scoring a total of 10 points for the two problems with the lowest scores and 18 points for the two problems with the highest scores. How many points did Roberto get in total for the five problems? A) 30 B) 32 C) 34 D) 35 E) 40
 
 **Answer:** D
-[[src_kangourou_2008_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2008_student_marzo#q13|src_kangourou_2008_student_marzo__Q13]]
 
 
 
@@ -631,7 +631,7 @@ level: kangourou
 > Matilde drew 36 kangaroos using three distinct colors. The white was used for 25 kangaroos, the red for 28 and the black for 20. Only five kangaroos were used in all three colors. How many of the designed kangaroos are of the same color? A) 0 B) 4 C) 12 D) 31 E) It is not possible to establish it.
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2008_student_marzo#q14|src_kangourou_2008_student_marzo__Q14]]
 
 
 
@@ -707,7 +707,7 @@ level: kangourou
 > Look at the figure. Three radius 1 circles are two to two tangents externally. How much is the shaded area worth? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2008_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2008_student_marzo#q15|src_kangourou_2008_student_marzo__Q15]]
 
 
 
@@ -741,7 +741,7 @@ level: kangourou
 > The lengths of the tips of a rectangular parallel-piped, measured in centimetres, are integers and form a geometric progression of the ratio q = 2. Which of the following measures, in cubic centimetres, can represent the volume of the solid? (a) 120 (b) 188 (c) 350 (d) 500 (e) None
 
 **Answer:** E
-[[src_kangourou_2008_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2008_student_marzo#q16|src_kangourou_2008_student_marzo__Q16]]
 
 
 
@@ -803,7 +803,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 31 31 Kang 2008 Kang
 
 **Answer:** C
-[[src_kangourou_2008_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2008_student_marzo#q17|src_kangourou_2008_student_marzo__Q17]]
 
 
 
@@ -840,7 +840,7 @@ level: kangourou
 > Five distinct points A1, A2, A3, A4 and A5 are arranged in a straight line. A point P on the same line is chosen so that the sum of the distances PA1 + PA2 + PA3 + PA4 + PA5 is minimal. It can be said that point P is A) Necessarily A1. B) A2 as necessary. C) A3 as necessary. D) Any point between A2 and A4. E) Any point between A1 and A5.
 
 **Answer:** C
-[[src_kangourou_2008_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2008_student_marzo#q18|src_kangourou_2008_student_marzo__Q18]]
 
 
 
@@ -903,7 +903,7 @@ level: kangourou
 > Three points are chosen at random from the grid to the side. What are the odds that they're hilly? A) B) C) D) E)
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2008_student_marzo#q19|src_kangourou_2008_student_marzo__Q19]]
 
 
 
@@ -946,7 +946,7 @@ level: kangourou
 > Four identical dice are drawn as shown in the figure. The faces of each dice are numbered from 1 to 6, but the dice are not standard, meaning the sum of the points of two opposite faces is not necessarily 7. What is the sum of the points of the six faces each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2008_student_marzo#q20|src_kangourou_2008_student_marzo__Q20]]
 
 
 
@@ -985,7 +985,7 @@ level: kangourou
 > A pedal placed at the center of a 5 x 5 square grid is moved with horizontal or vertical steps of width one, determined by the simultaneous throwing of a pair of dice, a red and a blue. The red dice move the foot of a step to the right if an even number comes out and to the left if an odd number comes out, the blue dice move the foot of a step up if an even number comes out and down if an odd number comes out. What are the chances that after two throws the pedal will be back to its starting point? A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2008_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2008_student_marzo#q21|src_kangourou_2008_student_marzo__Q21]]
 
 
 
@@ -1020,7 +1020,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > The number 332  1 has exactly two divisors (integers) both greater than 75 and less than 85. How much is the product of these two dividers? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2008_student_marzo#q22|src_kangourou_2008_student_marzo__Q22]]
 
 
 
@@ -1095,7 +1095,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > I'm going to pay. I'm going to pay. 32 32 Kang 2008 Kang
 
 **Answer:** A
-[[src_kangourou_2008_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2008_student_marzo#q23|src_kangourou_2008_student_marzo__Q23]]
 
 
 
@@ -1130,7 +1130,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > It's known that x + y + z = 1 e = 0 So the expression x2 + y2 + z2 A) is 0. B) is 1. C) is 2. D) is 3. E) has a value that cannot be determined without further information.
 
 **Answer:** B
-[[src_kangourou_2008_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2008_student_marzo#q24|src_kangourou_2008_student_marzo__Q24]]
 
 
 
@@ -1165,7 +1165,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > Let it be a succession. It is known that a1 = 0 and that, for n ≥ 0, we have an+1 = an + (-1)n. n. If ak = 2008, then the value of k is A) 2008 B) 2009 C) 4017 D) 4018 E) none of the four indicated.
 
 **Answer:** C
-[[src_kangourou_2008_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2008_student_marzo#q25|src_kangourou_2008_student_marzo__Q25]]
 
 
 
@@ -1252,7 +1252,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > Look at the figure. In the triangle ABC, a circle is inscribed. You know that AC is equal to 5, AB is equal to 6, BC is equal to 3, and that the ED segment is tangent to the circle. The perimeter of the ADE triangle is A) 7 B) 4 C) 9 D) 6 E) 8
 
 **Answer:** E
-[[src_kangourou_2008_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2008_student_marzo#q26|src_kangourou_2008_student_marzo__Q26]]
 
 
 
@@ -1338,7 +1338,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > The ABCD square has the length side 1 and M is the middle point of AB. The area of the shaded region is A) 1/14 B) 1/16 C) /18 D) 1/13 E) a different value from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2008_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2008_student_marzo#q27|src_kangourou_2008_student_marzo__Q27]]
 
 
 
@@ -1376,7 +1376,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > The two cubes in the figure have a face in common. What is the degree of the angle ABC? A) 90 B) 115 C) 120 D) 135 E) 150
 
 **Answer:** A
-[[src_kangourou_2008_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2008_student_marzo#q28|src_kangourou_2008_student_marzo__Q28]]
 
 
 
@@ -1415,7 +1415,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > Metal bars were used (without folding) to construct this decoration. We know that there are 61 octagons in the decoration. How many bars were used? A) 488 B) 400 C) 328 D) 244 E) 446
 
 **Answer:** E
-[[src_kangourou_2008_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2008_student_marzo#q29|src_kangourou_2008_student_marzo__Q29]]
 
 
 
@@ -1476,4 +1476,4 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > Questions from N.1 to N. 10 is worth 3 points each.
 
 **Answer:** D
-[[src_kangourou_2008_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2008_student_marzo#q30|src_kangourou_2008_student_marzo__Q30]]

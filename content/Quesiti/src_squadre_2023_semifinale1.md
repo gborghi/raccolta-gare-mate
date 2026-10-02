@@ -37,7 +37,7 @@ level: squadre
 > The coat of arms of the Arcsenio Lupin family/3 is the cradle of an illustrious family of mathematical thieves. As a child, Archenius enjoyed drawing and coloring the family coat of arms, which is in the shape of a pentagon. In how many ways can the sides of the coat of arms be colored using the colors yellow, blue, and red, so that successive sides have different colors?
 
 **Answer:** 0030
-[[src_squadre_2023_semifinale1__Q01]]
+[[Quesiti/src_squadre_2023_semifinale1#q01|src_squadre_2023_semifinale1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: squadre
 > The first to join Lupin's adventures was Jig, a skilled gunfighter and problem solver. For example, while recharging, he determined the maximum area that a triangle can have with the shortest side measuring 40 and the longest side measuring 101. What is it?
 
 **Answer:** 1980
-[[src_squadre_2023_semifinale1__Q02]]
+[[Quesiti/src_squadre_2023_semifinale1#q02|src_squadre_2023_semifinale1__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: squadre
 > To escape from Zenonigata Inspector Zenonigata voted his career to capture Lupin/3. Perhaps this time it did: the Lupin/3 raft (a square on side l) has one side glued to one side of the Zenonigata raft (a larger square, on side 1100). The only possibility for Lupin/3 to escape would be to calculate the length of l, knowing that the circumference circumscribed to the raft of Zenonigata also passes through the two vertices of the raft of Lupin/3 that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. How much is it worth?
 
 **Answer:** 0220
-[[src_squadre_2023_semifinale1__Q03]]
+[[Quesiti/src_squadre_2023_semifinale1#q03|src_squadre_2023_semifinale1__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: squadre
 > The bank security boxes that Lupin/3 is robbing are arranged like a chessboard 9 (×9) from which all the boxes have been removed tightly above the diagonal that goes from top left to bottom right. Lupin knows that each box contains an integer number of millions of dollars between 1 and 9, extremes included; furthermore, each number appears a different number of times and so that each box contains a number strictly greater than the box underneath (if there is a box) and greater or equal to the box to its left (if there is). How many ways can money be disposed of?
 
 **Answer:** 2880
-[[src_squadre_2023_semifinale1__Q04]]
+[[Quesiti/src_squadre_2023_semifinale1#q04|src_squadre_2023_semifinale1__Q04]]
 
 
 
@@ -168,7 +168,7 @@ level: squadre
 > Goemetrikon is a skilled samaterai who alternates the reliable katana to solving mathematical questions. The last thing he solved was this: whether a and b are positive integers such that 2069 is the largest number that cannot be written as the sum of a (non-negative) multiple of a and a (non-negative) multiple of b. How much is ab worth, at least? After seeing him at the opera, Lupin/3 wants him in his band.
 
 **Answer:** 2162
-[[src_squadre_2023_semifinale1__Q05]]
+[[Quesiti/src_squadre_2023_semifinale1#q05|src_squadre_2023_semifinale1__Q05]]
 
 
 
@@ -199,7 +199,7 @@ This is the total value of the securities held by the issuer of the securities.
 > Goemetrikon: I will join you if you show that you are not afraid to get your hands dirty. . . I'm not in the business of counting. Could you tell me how much is 20233 −3·20223 +3·20213 −20203?. Lupin/3: Give me a second. . . ». What is the answer to Goemetrikon's question?
 
 **Answer:** 0006
-[[src_squadre_2023_semifinale1__Q06]]
+[[Quesiti/src_squadre_2023_semifinale1#q06|src_squadre_2023_semifinale1__Q06]]
 
 
 
@@ -229,7 +229,7 @@ This is the total value of the securities held by the issuer of the securities.
 > Lupin/3 falls in love Lupin/3 is in love with the beautiful Fujit ̄o, a thief who has taken him by answering almost instantly to the following question: how much is the sum mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
 
 **Answer:** 9776
-[[src_squadre_2023_semifinale1__Q07]]
+[[Quesiti/src_squadre_2023_semifinale1#q07|src_squadre_2023_semifinale1__Q07]]
 
 
 
@@ -266,7 +266,7 @@ This is the total value of the securities held by the issuer of the securities.
 > Is it correlated? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 1366
-[[src_squadre_2023_semifinale1__Q08]]
+[[Quesiti/src_squadre_2023_semifinale1#q08|src_squadre_2023_semifinale1__Q08]]
 
 
 
@@ -299,7 +299,7 @@ This is the total value of the securities held by the issuer of the securities.
 > Six doors in a row Lupin 3 and his gang want to steal the prototype of a new quantum computer. They've got to go through six doors in a row. Each gate has as its access code an integer number between 0 and 18 extremes included. They found that the sum of the codes of two consecutive ports is a number that divided by 19 gives us 3. This property applies to the first and second door, to the second and third door, and so on but also to the sixth and first door. How many sequences of six codes meet these conditions?
 
 **Answer:** 0019
-[[src_squadre_2023_semifinale1__Q09]]
+[[Quesiti/src_squadre_2023_semifinale1#q09|src_squadre_2023_semifinale1__Q09]]
 
 
 
@@ -333,7 +333,7 @@ This is the total value of the securities held by the issuer of the securities.
 > Teamwork Lupin/3 has managed to get his hands on the Black Fox's shield where the precious Queen of Africa diamond is housed. The shield is an ABCD square. Jig∈N scrapes the sides of the square, one bullet for each side: A′ on the AB side such that 2AA′ = A′B and, cyclically also B′ on the BC side such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon performs four net cuts along DA′, AB′, BC′ and CD′ thus detaching the central diamond from the rest of the shield. What is the ratio between the diamond area and the initial shield area? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0007
-[[src_squadre_2023_semifinale1__Q10]]
+[[Quesiti/src_squadre_2023_semifinale1#q10|src_squadre_2023_semifinale1__Q10]]
 
 
 
@@ -375,7 +375,7 @@ This is the total value of the securities held by the issuer of the securities.
 > The discipline of samaterai [⋆] Goemetrikon became a samaterai thanks to iron discipline and questions of geometry. Years ago this was resolved: whether Γ is a circumference of center O, and whether r is a straight tangent to it at point T. A is a point of r distinct from T, and B and C are the intersections of the OA line with Γ such that AB<AC. M is a point on the segment OC and R at the intersection of the straight TM with Γ distinct from T. Finally, let S be a point on the TC-extreme not containing B such that! MAT = " RTS, F a point on the BS segment such that " ATS + " BFT = 180°, and Q the intersection of the BC and RS segments. Knowing that QR RM = 8 13, BS = 33 and TF = 18, determine the ratio of the areas of the BMF and BSQ triangles. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 3457
-[[src_squadre_2023_semifinale1__Q11]]
+[[Quesiti/src_squadre_2023_semifinale1#q11|src_squadre_2023_semifinale1__Q11]]
 
 
 
@@ -412,7 +412,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 > Did you read that in the cities of MathVillain and EastPonente this year, the syn(use) was stronger than usual? Goemetrikon: Yes, you are. The proportion of patients in MathVillain as a whole was 8%, while in EstPonente it was 10%. Jig∈N: In addition, the proportion of patients under 50 in MathVillain was twice as high as in EastPonente, and the same proportion was also found in the over-50 group. Goemetrikon: How is this possible? Is there a contradiction? Jig∈N: No. Knowing that both cities are young, i.e. the under-50s are at least as many as the over-50s, what is the minimum ratio between the under-50s and the total population of MathVillain? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0009
-[[src_squadre_2023_semifinale1__Q12]]
+[[Quesiti/src_squadre_2023_semifinale1#q12|src_squadre_2023_semifinale1__Q12]]
 
 
 
@@ -446,7 +446,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 > To design the perfect shot, you have to know the place perfectly. Lupin/3, Jig∈N and Goemetrikon study the map of the museum room from which they will make a famous statue disappear. The room is an ABC isosceles triangle of base AB. The three doors of the room are in M, the middle point of BC, in F, the foot of height relative to B and in E, point on AB such that EB ∼= BM. They also know that B,E,F,M passes a circumference. To avoid video surveillance, it is important to know the width of the ABC angles. How much it 's worth ! The ACB?
 
 **Answer:** 0036
-[[src_squadre_2023_semifinale1__Q13]]
+[[Quesiti/src_squadre_2023_semifinale1#q13|src_squadre_2023_semifinale1__Q13]]
 
 
 
@@ -477,7 +477,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 > The most common combination [⋆] Goemetrikon: Here's the safe! The code that opens it is the maximum common divisor of all numbers of the form 1n +2n +3n +··+999n where n is a positive integer. . . ». Jig∈N: Damn, we don't have time to calculate endless numbers! Lupin 3 is sleeping. What's the code?
 
 **Answer:** 0900
-[[src_squadre_2023_semifinale1__Q14]]
+[[Quesiti/src_squadre_2023_semifinale1#q14|src_squadre_2023_semifinale1__Q14]]
 
 
 
@@ -510,7 +510,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 > Inspector Zenonigata is convinced he can catch all three thieves. He's in the center of the GJL triangle formed by the three thieves. Goemetrikon and Jig are 79 metres apart, while Goemetrikon and Lupin/3 are 119 metres apart. Goemetrikon jumps like only samaterai can do and lands in the symmetrical, relative to Zenonigata, of its starting point. He realizes that he is (still) on the circumscribed circumference at GJL; he calculates the distance between Lupin and Jig and saves his friends. How many meters do you measure the distance between Lupin and Jig?
 
 **Answer:** 0101
-[[src_squadre_2023_semifinale1__Q15]]
+[[Quesiti/src_squadre_2023_semifinale1#q15|src_squadre_2023_semifinale1__Q15]]
 
 
 
@@ -555,4 +555,4 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 > Ministry of Education and Merit XXIV National Semifinal Team Competition 1  Friday 5 May 2023 Solutions Nr. The problem
 
 **Answer:** 1225
-[[src_squadre_2023_semifinale1__Q16]]
+[[Quesiti/src_squadre_2023_semifinale1#q16|src_squadre_2023_semifinale1__Q16]]

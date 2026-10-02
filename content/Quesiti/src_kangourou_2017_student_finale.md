@@ -35,7 +35,7 @@ level: kangourou
 > Write a positive integer of two distinct digits, write the number you get by inverting the digits (this second number can possibly be of a single digit, if the unit number of the first is $0$) and subtract the smallest from the largest of these two numbers. Repeat the procedure on the result you get until you get a single-digit number as a result. Does this one-digit number depend on the number you chose initially? Justify your answer.
 
 **Answer:** 9
-[[src_kangourou_2017_student_finale__QS1]]
+[[Quesiti/src_kangourou_2017_student_finale#qs1|src_kangourou_2017_student_finale__QS1]]
 
 
 
@@ -64,7 +64,7 @@ level: kangourou
 > Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each sequence number is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
 
 **Answer:** al massimo due
-[[src_kangourou_2017_student_finale__QS2]]
+[[Quesiti/src_kangourou_2017_student_finale#qs2|src_kangourou_2017_student_finale__QS2]]
 
 
 
@@ -94,7 +94,7 @@ level: kangourou
 > Whether $S$ is an arbitrary finite set of plan points (at least $2$): it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the demonstration of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diameter** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diameter pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
 
 **Answer:** No; Si
-[[src_kangourou_2017_student_finale__QS3]]
+[[Quesiti/src_kangourou_2017_student_finale#qs3|src_kangourou_2017_student_finale__QS3]]
 
 
 
@@ -123,7 +123,7 @@ level: kangourou
 > How many different cubes can be inscribed in (i.e. have the vertices in common with the vertices of) a regular dodecahedron?
 
 **Answer:** 5
-[[src_kangourou_2017_student_finale__QS4]]
+[[Quesiti/src_kangourou_2017_student_finale#qs4|src_kangourou_2017_student_finale__QS4]]
 
 
 
@@ -134,7 +134,7 @@ level: kangourou
 
 *Filo minimo per percorrere i lati di un reticolo 9x7*
 
-![[src_kangourou_2017_student_finale__probS5.png]]
+![[src_kangourou_2017_student_finale__probs5.png]]
 
 > Un rettangolo $9 \times 7$ è suddiviso in $63$ quadrati di lato $1$, ottenendo un reticolo. Immagina di piantare uno spillo in ciascuno dei vertici dei quadrati (un solo spillo in ogni vertice comune a più quadrati) e di voler passare un filo tendendolo tra uno spillo e l'altro, in modo da percorrere almeno una volta tutti e soli i lati dei quadrati (dunque non le diagonali), senza rompere il filo. Qual è la minima lunghezza sufficiente per il filo? (Trascura il fatto che occorre girare attorno ad alcuni spilli, cioè assumi che lo spessore degli spilli sia $0$).
 
@@ -151,12 +151,12 @@ level: kangourou
 
 *Minimum thread to run along the sides of a 9x7 lattice*
 
-![[src_kangourou_2017_student_finale__probS5.png]]
+![[src_kangourou_2017_student_finale__probs5.png]]
 
 > A rectangle $9 \times 7$ is divided into $63$ squares of sides $1$, obtaining a lattice. Imagine planting a spindle in each of the vertices of the squares (one spindle in each common multiple-square vertex) and wanting to pass a thread by stretching it between one spindle and the other, so as to walk at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of the wire? (It overlooks the fact that it is necessary to rotate around some spindles, i.e. assume that the spindles are $0$ thick).
 
 **Answer:** 155
-[[src_kangourou_2017_student_finale__QS5]]
+[[Quesiti/src_kangourou_2017_student_finale#qs5|src_kangourou_2017_student_finale__QS5]]
 
 
 
@@ -184,4 +184,4 @@ level: kangourou
 > Is there a $f$ function from the $[0,1]$ range itself such that the image through $f$ of each range in $[0,1]$ is all $[0,1]$? If your answer is no, explain why, if yes, indicate how an example can be obtained.
 
 **Answer:** Si
-[[src_kangourou_2017_student_finale__QS6]]
+[[Quesiti/src_kangourou_2017_student_finale#qs6|src_kangourou_2017_student_finale__QS6]]

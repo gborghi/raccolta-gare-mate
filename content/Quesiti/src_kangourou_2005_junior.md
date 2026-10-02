@@ -40,7 +40,7 @@ Total students with Elena 50ma from both sides
 > At Kangourou 2004, Elena in her school placed 50th. His place is 50th even from the bottom of the standings. How many students from that school took part in the competition? A) 99 B) 75 C) 103 D) 100 E) 101
 
 **Answer:** A
-[[src_kangourou_2005_junior__Q01]]
+[[Quesiti/src_kangourou_2005_junior#q01|src_kangourou_2005_junior__Q01]]
 
 
 
@@ -76,7 +76,7 @@ Total students with Elena 50ma from both sides
 > To perform a task, the 18 students in a class are divided into pairs and the pairs are numbered from 1 to 9. Couples marked with an equal number are made up of a male and a female, while couples marked with an odd number are made up only of males. How many males are in that class? A) 10 B) 11 C) 12 D) 14 E) 18
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q02]]
+[[Quesiti/src_kangourou_2005_junior#q02|src_kangourou_2005_junior__Q02]]
 
 
 
@@ -111,7 +111,7 @@ Total students with Elena 50ma from both sides
 > 10 euro coins are placed on the table. Taking one of these coins, how many coins are there at most that you can place around it so that they touch it, but there are no overlapping coins? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q03]]
+[[Quesiti/src_kangourou_2005_junior#q03|src_kangourou_2005_junior__Q03]]
 
 
 
@@ -162,7 +162,7 @@ Total students with Elena 50ma from both sides
 > I'm going to pay. I'm going to pay. 23 23 Kang 2005 Kang
 
 **Answer:** C
-[[src_kangourou_2005_junior__Q04]]
+[[Quesiti/src_kangourou_2005_junior#q04|src_kangourou_2005_junior__Q04]]
 
 
 
@@ -194,7 +194,7 @@ Total students with Elena 50ma from both sides
 > Angelo can inflate eight balloons every three minutes, but one out of every 10 blows up as soon as it's inflated. What's the maximum number of inflated balloons Angelo can deliver in two hours? A) 160            B) 216            C) 240 D) 288 E) 320
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q05]]
+[[Quesiti/src_kangourou_2005_junior#q05|src_kangourou_2005_junior__Q05]]
 
 
 
@@ -235,7 +235,7 @@ Total students with Elena 50ma from both sides
 > What number do you have to put in the box marked with x if you want to complete the table so that in each row, in each column and on the two diagonals the numbers are in arithmetic progression? (The numbers in a sequence form an arithmetic progression when the difference between each number and the previous one is constant.) A) 49 B) 42 C) 33 D) 28 E) 4
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q06]]
+[[Quesiti/src_kangourou_2005_junior#q06|src_kangourou_2005_junior__Q06]]
 
 
 
@@ -271,7 +271,7 @@ Total students with Elena 50ma from both sides
 > One firm has been commissioned to make rectangular parallel-piped bricks. The required dimensions were 10 cm × 12 cm × 14 cm, but by mistake the bricks produced were 12 cm × 14 cm × 16 cm. By what percentage is the volume of the brick manufactured greater than the volume of the brick ordered? A) 20% B) 30% C) 40% D) 50% E) 60%
 
 **Answer:** E
-[[src_kangourou_2005_junior__Q07]]
+[[Quesiti/src_kangourou_2005_junior#q07|src_kangourou_2005_junior__Q07]]
 
 
 
@@ -358,7 +358,7 @@ Total students with Elena 50ma from both sides
 > The figure shows three semicirculars with a radius of 2 cm; the centers E and F of the two lower semicirculars, which are tangent, are the orthogonal projections of the points A and B respectively at the intersection of the upper semicircular with the other two. What is the area of the shaded region in cm2? A) 2π B) 7    C) 2π+1 D) 8       E) 2π+2
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q08]]
+[[Quesiti/src_kangourou_2005_junior#q08|src_kangourou_2005_junior__Q08]]
 
 
 
@@ -391,7 +391,7 @@ Total students with Elena 50ma from both sides
 > What is the arithmetic mean of the periodic decimal numbers 2,00(4) and 2,00(5)? A) 2,0045 B) 2,00(45) C) 2,005      D) 2,0054 E) 2,00(54)
 
 **Answer:** C
-[[src_kangourou_2005_junior__Q09]]
+[[Quesiti/src_kangourou_2005_junior#q09|src_kangourou_2005_junior__Q09]]
 
 
 
@@ -444,7 +444,7 @@ Total students with Elena 50ma from both sides
 > I'm going to pay. I'm going to pay. 24 24 Kang 2005 Kang 2005 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q10]]
+[[Quesiti/src_kangourou_2005_junior#q10|src_kangourou_2005_junior__Q10]]
 
 
 
@@ -486,7 +486,7 @@ Total students with Elena 50ma from both sides
 > The sum of the points on the opposite sides of a dice is always 7. A dice rolls along the path shown in the figure. In the initial position (S) on the upper face of the dice, it reads 3. What do you read on the upper face when the dice are in the final position (F)? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** E
-[[src_kangourou_2005_junior__Q11]]
+[[Quesiti/src_kangourou_2005_junior#q11|src_kangourou_2005_junior__Q11]]
 
 
 
@@ -523,7 +523,7 @@ Total students with Elena 50ma from both sides
 > In a day there are 17 balls numbered 1 to 17. You have the option to extract a single number of balls of your choice. If you want to be sure that among the balls you extracted, there are at least two whose sum is 18, how many do you need to extract? A) 8 B) 10 C) 11 D) 12 E) 17
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q12]]
+[[Quesiti/src_kangourou_2005_junior#q12|src_kangourou_2005_junior__Q12]]
 
 
 
@@ -563,7 +563,7 @@ Total students with Elena 50ma from both sides
 > Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't have? A) The number of my friends is a prime number. B) My friends are as many as my friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my friends, three are older than me.
 
 **Answer:** C
-[[src_kangourou_2005_junior__Q13]]
+[[Quesiti/src_kangourou_2005_junior#q13|src_kangourou_2005_junior__Q13]]
 
 
 
@@ -630,7 +630,7 @@ Total students with Elena 50ma from both sides
 > A rectangle is divided into 4 smaller rectangles by two segments parallel to the sides. If, as shown in the figure, two rectangles have an area of 4 cm2 and 12 cm2 respectively, which of the following pairs of numbers can express the area in cm2 of the remaining two rectangles? A) 3 e 10 B) 5 e 15 C) 6 e 16 D) 3 e 16 E) 6 e 9
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q14]]
+[[Quesiti/src_kangourou_2005_junior#q14|src_kangourou_2005_junior__Q14]]
 
 
 
@@ -677,7 +677,7 @@ Total students with Elena 50ma from both sides
 > I'm going to pay. I'm going to pay. 25 25 Kang 2005 Kang
 
 **Answer:** E
-[[src_kangourou_2005_junior__Q15]]
+[[Quesiti/src_kangourou_2005_junior#q15|src_kangourou_2005_junior__Q15]]
 
 
 
@@ -717,7 +717,7 @@ Total students with Elena 50ma from both sides
 > Five different lines pass through the same point P and two points are fixed on each of them, different from P and opposite to P: the five triangles shown in the figure are obtained by joining the ten points in question together. How many degrees does the sum of the ten angles shown in the figure measure? A) 300 B) 450 C) 360 D) 600 E) 720
 
 **Answer:** E
-[[src_kangourou_2005_junior__Q16]]
+[[Quesiti/src_kangourou_2005_junior#q16|src_kangourou_2005_junior__Q16]]
 
 
 
@@ -757,7 +757,7 @@ Total students with Elena 50ma from both sides
 > Two pieces of iron wire are shown in the figure. Each is made up of segments each 10 cm long. One of the two pieces is partially superimposed on the other so that they have a feature in common. What is the maximum number of segments that make up this feature? A) 7 B) 5 C) 4 D) 3 E) 1
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q17]]
+[[Quesiti/src_kangourou_2005_junior#q17|src_kangourou_2005_junior__Q17]]
 
 
 
@@ -794,7 +794,7 @@ Maximum KANGOUROU number with bell code *
 > The 7 letter sequence AGONKRU is associated with a sequence of 7 digits all different from each other, arranged in ascending order up to the figure corresponding to the letter N and decreasing from there onwards. Each chosen sequence is a code respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 859763473 B) 987654354 C) 569784384 D) 859673473 E) 569783483
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q18]]
+[[Quesiti/src_kangourou_2005_junior#q18|src_kangourou_2005_junior__Q18]]
 
 
 
@@ -830,7 +830,7 @@ Maximum KANGOUROU number with bell code *
 > A rectangle 24 cm long and 1 cm wide is divided into rectangles 1 cm wide. Four of them are 4 cm long, two are 3 cm long and one is 2 cm long. These rectangles are aligned (without overlapping) to form another rectangle. Then the length in cm of the perimeter of the new rectangle is at least A) 28 B) 18 C) 22 D) 20 E) none of the previous
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q19]]
+[[Quesiti/src_kangourou_2005_junior#q19|src_kangourou_2005_junior__Q19]]
 
 
 
@@ -876,7 +876,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > I'm going to pay. I'm going to pay. 26 26 Kang 2005 Kang 2005 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2005_junior__Q20]]
+[[Quesiti/src_kangourou_2005_junior#q20|src_kangourou_2005_junior__Q20]]
 
 
 
@@ -913,7 +913,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > At a bus stop only bus A (usually every 3 minutes) and bus B (usually every 5 minutes) pass. If I'm at a stop exactly 19 minutes and count the total number of buses passing in the meantime, how many different results can I get? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
-[[src_kangourou_2005_junior__Q21]]
+[[Quesiti/src_kangourou_2005_junior#q21|src_kangourou_2005_junior__Q21]]
 
 
 
@@ -954,7 +954,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > 14 volume 1 cubes are stacked as shown in Figure 1. The resulting construction is enclosed in a pyramid, as shown in the figure. What's the volume of this pyramid? A) 64 B) 32 C) D) E)
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q22]]
+[[Quesiti/src_kangourou_2005_junior#q22|src_kangourou_2005_junior__Q22]]
 
 
 
@@ -984,7 +984,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 
 > Which of the following is not the development of an octahedron?
 
-[[src_kangourou_2005_junior__Q23]]
+[[Quesiti/src_kangourou_2005_junior#q23|src_kangourou_2005_junior__Q23]]
 
 
 
@@ -1050,7 +1050,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > The figure represents a square and two circles. The square is surrounded by the large circumference, which has a radius of 1 and is tangent externally to the small circumference, which is tangent to two sides of the square. What is the radius of the small circumference? A)                 B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2005_junior__Q24]]
+[[Quesiti/src_kangourou_2005_junior#q24|src_kangourou_2005_junior__Q24]]
 
 
 
@@ -1122,7 +1122,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > I'm going to pay. I'm going to pay. 27 27 Kang 2005 Kang
 
 **Answer:** E
-[[src_kangourou_2005_junior__Q25]]
+[[Quesiti/src_kangourou_2005_junior#q25|src_kangourou_2005_junior__Q25]]
 
 
 
@@ -1164,7 +1164,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > A rectangle is divided into two regions by the broken ABCD, as shown in the figure. The segments AB, BC and CD are parallel to the sides of the rectangle and their lengths in metres are respectively 30, 24 and 10. E is a point on the upper side of the rectangle such that the area of each of the trapezoids into which AE divides the rectangle coincides with that of the initial region containing the same vertices of the rectangle. How far is E to D in meters? A) 8 B) 12 C) 13 D) 14 E) 16
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q26]]
+[[Quesiti/src_kangourou_2005_junior#q26|src_kangourou_2005_junior__Q26]]
 
 
 
@@ -1198,7 +1198,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > How many 4-digit divisors (positive integers) does the number 1022 have? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
-[[src_kangourou_2005_junior__Q27]]
+[[Quesiti/src_kangourou_2005_junior#q27|src_kangourou_2005_junior__Q27]]
 
 
 
@@ -1238,7 +1238,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > 10 matches of equal length are arranged in such a way as to represent a fish, as shown in the figure. The area of the region occupied by the fish is 24. How much is the area of the shaded triangle, delimited using the segment drawn in the figure between two of the fish's "vertices"? A) 1 B) C) 2 D) E)
 
 **Answer:** C
-[[src_kangourou_2005_junior__Q28]]
+[[Quesiti/src_kangourou_2005_junior#q28|src_kangourou_2005_junior__Q28]]
 
 
 
@@ -1274,7 +1274,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > How many ways can you choose, on a traditional 8x8 chessboard, a pair of boxes, a white and a black, so that those boxes don't lie on the same line or on the same column? A) 56      B) 5040     C) 720 D) 672         E) 768
 
 **Answer:** E
-[[src_kangourou_2005_junior__Q29]]
+[[Quesiti/src_kangourou_2005_junior#q29|src_kangourou_2005_junior__Q29]]
 
 
 
@@ -1388,4 +1388,4 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 > Three squares are aligned as shown in the figure. The segments AE and CH intersect at point P. What's the size of the CPE angle? A) 30° B) 45° C) 60° D) 50° E) 40° A E C D B X X H G F E A D B C P ? The Commission has decided to extend the period of validity of this Regulation to the following areas:
 
 **Answer:** B
-[[src_kangourou_2005_junior__Q30]]
+[[Quesiti/src_kangourou_2005_junior#q30|src_kangourou_2005_junior__Q30]]

@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Due linee di intersezione $a$ e $b$ sono indicate in un piano. Considerare tutte le coppie di piani ortogonali $\alpha, \beta$ come $a \subset \alpha$ e $b \subset \beta$. Prove che esiste un cerchio tale che ogni suo punto si trova sulla linea $\alpha \cap \beta$ per alcuni $\alpha$ e $\beta$.
 
-[[src_pol_1981_r3__Q01]]
+[[Quesiti/src_pol_1981_r3#q01|src_pol_1981_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > In un triangolo $ABC$, i bisettori perpendicolari dei lati $AB$ e $AC$ si intersecano a $BC$ e $Y$. Prova che $BC = XY$ se e solo se $\tan B \tan C = 3$ o $\tan B \tan C = -1$.
 
-[[src_pol_1981_r3__Q02]]
+[[Quesiti/src_pol_1981_r3#q02|src_pol_1981_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che per qualsiasi numero naturale $n$ e numeri reali $\alpha$ e $x$ che soddisfi $\alpha^{n+1} \le x \le 1$ e $0 < \alpha < 1$ si ritiene che $$\prod_{k=1}^{n} \left| \frac{x - \alpha^k}{x + \alpha^k} \right| \le \prod_{k=1}^{n} \frac{1 - \alpha^k}{1 + \alpha^k}.$$
 
-[[src_pol_1981_r3__Q03]]
+[[Quesiti/src_pol_1981_r3#q03|src_pol_1981_r3__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 3
 
 > Su una tabella sono indicati i marcatori $n$, ognuno dei quali è indicato da un numero intero. In qualsiasi momento, se alcuni due marcatori sono indicati con lo stesso numero, diciamo $k$, possiamo rinominare uno di essi con $k + 1$ e l'altro con $k - 1$. Prova che dopo un numero finito di mosse tutti i marcatori saranno indicati con numeri diversi.
 
-[[src_pol_1981_r3__Q04]]
+[[Quesiti/src_pol_1981_r3#q04|src_pol_1981_r3__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: Olimpiade Polacca Round 3
 
 > Determinare tutte le coppie di integri $(x, y)$ che soddisfano l'equazione $$x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).$$
 
-[[src_pol_1981_r3__Q05]]
+[[Quesiti/src_pol_1981_r3#q05|src_pol_1981_r3__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 3
 
 > In un tetraedro di volume $V$ la somma dei quadrati delle lunghezze dei suoi bordi è uguale a $S$. Provare che $$V \le \frac{S\sqrt{S}}{72\sqrt{3}}.$$
 
-[[src_pol_1981_r3__Q06]]
+[[Quesiti/src_pol_1981_r3#q06|src_pol_1981_r3__Q06]]

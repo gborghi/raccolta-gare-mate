@@ -19,7 +19,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In un mazzo di 52 carte, le carte sono nere e rosse e le carte nere sono tante quante le rosse. Le 52 carte sono state divise in due mazzetti di 26 carte e in quello sopra ci sono 18 carte nere. Quante carte rosse ci sono nel mazzetto di sotto?
 
-![[src_bocconi_finalenaz_2011__Q01.png]]
+![[src_bocconi_finalenaz_2011__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -36,10 +36,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In a deck of 52 cards, the cards are black and red and the black cards are as many as the red ones. The 52 cards were divided into two sets of 26 cards and the one above is 18 black cards. How many red cards are in the drawer below?
 
-![[src_bocconi_finalenaz_2011__Q01.png]]
+![[src_bocconi_finalenaz_2011__q01.png]]
 
 **Answer:** 18
-[[src_bocconi_finalenaz_2011__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2011#q01|src_bocconi_finalenaz_2011__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Anzichè quattro caselle della mini-scacchiera della figura di destra dove collocate quattro regine in modo che nessuna di loro con una mossa possa spostarsi nella casella indicata con X.
 
-![[src_bocconi_finalenaz_2011__Q02.png]]
+![[src_bocconi_finalenaz_2011__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -73,10 +73,10 @@ Four queens who don't threaten each other in the mini chessboard.
 > 
 > Instead of four boxes of the mini-chessboard in the figure on the right where you place four queens so that none of them can move in the box marked with X with one move.
 
-![[src_bocconi_finalenaz_2011__Q02.png]]
+![[src_bocconi_finalenaz_2011__q02.png]]
 
 **Answer:** (vedi figura soluzione)
-[[src_bocconi_finalenaz_2011__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2011#q02|src_bocconi_finalenaz_2011__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Four queens who don't threaten each other in the mini chessboard.
 
 > Utilizzando gli otto gettoni della figura, scrivete un'addizione il cui risultato sia uguale a 2011. Elaborazione: però un gettone con il «6», girandolo, può diventare un gettone con il «9» e viceversa. Dovete usare tutti i gettoni e nessun numero può cominciare con 0.
 
-![[src_bocconi_finalenaz_2011__Q03.png]]
+![[src_bocconi_finalenaz_2011__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -106,10 +106,10 @@ Four queens who don't threaten each other in the mini chessboard.
 
 > Using the eight tokens in the figure, write an addition that is equal to 2011. Elaboration: however, a token with the 6, by rotating it, can become a token with the 9 and vice versa. You have to use all the tokens and no number can start with 0.
 
-![[src_bocconi_finalenaz_2011__Q03.png]]
+![[src_bocconi_finalenaz_2011__q03.png]]
 
 **Answer:** 1012+999 oppure 1092+919 oppure 1099+912 (ciascuna è una sola delle quattro soluzioni)
-[[src_bocconi_finalenaz_2011__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2011#q03|src_bocconi_finalenaz_2011__Q03]]
 
 
 
@@ -138,7 +138,7 @@ How many times does Jacob press the computer button?
 > Jacob's calculator has a strange key. When you squeeze it, the calculator shows the largest integer not exceeding half the previous number. For example, if this was 1000, it makes 500 appear; if the initial number was 333, pressing the button makes 156. Now the number on the calculator is 2011. How many times does Jacob have to push the button to get the number 9 on the computer screen?
 
 **Answer:** Jacob dovrà schiacciare il tasto 11 volte
-[[src_bocconi_finalenaz_2011__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2011#q04|src_bocconi_finalenaz_2011__Q04]]
 
 
 
@@ -151,7 +151,7 @@ How many times does Jacob press the computer button?
 
 > Con 111 cubetti uguali tra loro, Desiderio vuole realizzare una piramide a base quadrata dove ogni cubetto, a partire dal secondo livello dal basso, poggia su quattro cubetti del livello inferiore (come in figura). Quanti cubetti rimarranno inutilizzati?
 
-![[src_bocconi_finalenaz_2011__Q05.png]]
+![[src_bocconi_finalenaz_2011__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -168,10 +168,10 @@ How many times does Jacob press the computer button?
 
 > With 111 cubes equal to each other, Desiderio wants to create a square-based pyramid where each cubet, starting from the second level from the bottom, rests on four cubes of the lower level (as in the figure). How many buckets will be left unused?
 
-![[src_bocconi_finalenaz_2011__Q05.png]]
+![[src_bocconi_finalenaz_2011__q05.png]]
 
 **Answer:** Non verranno utilizzati 20 cubetti
-[[src_bocconi_finalenaz_2011__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2011#q05|src_bocconi_finalenaz_2011__Q05]]
 
 
 
@@ -184,7 +184,7 @@ How many times does Jacob press the computer button?
 
 > Dividete la figura in tre parti perfettamente sovrapponibili (per sovrapporle le parti della figura è possibile che qualcuna di loro vada ruotata).
 
-![[src_bocconi_finalenaz_2011__Q06.png]]
+![[src_bocconi_finalenaz_2011__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -201,10 +201,10 @@ How many times does Jacob press the computer button?
 
 > Divide the figure into three perfectly overlapping parts (by overlapping the parts of the figure it is possible for any of them to rotate).
 
-![[src_bocconi_finalenaz_2011__Q06.png]]
+![[src_bocconi_finalenaz_2011__q06.png]]
 
 **Answer:** (vedi figura soluzione)
-[[src_bocconi_finalenaz_2011__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2011#q06|src_bocconi_finalenaz_2011__Q06]]
 
 
 
@@ -217,7 +217,7 @@ How many times does Jacob press the computer button?
 
 > In questo gioco si può spostare nella casella vuota un quadratino situato al suo fianco. Per esempio, nella situazione rappresentata nella figura di sinistra, si può spostare nella casella vuota il quadratino «3» o il quadratino «2». In quante mosse, al minimo, si può passare dalla situazione della figura di sinistra a quella della figura di destra (che sia impossibile effettuare la trasformazione precedente)?
 
-![[src_bocconi_finalenaz_2011__Q07.png]]
+![[src_bocconi_finalenaz_2011__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
@@ -234,10 +234,10 @@ How many times does Jacob press the computer button?
 
 > In this game you can move a square located next to it into the empty box. For example, in the situation shown in the figure to the left, you can move the square 3 or square 2 into the empty box. In how many moves, at least, can you move from the position of the figure on the left to that of the figure on the right (which is impossible to make the previous transformation)?
 
-![[src_bocconi_finalenaz_2011__Q07.png]]
+![[src_bocconi_finalenaz_2011__q07.png]]
 
 **Answer:** Ci vorranno 10 mosse
-[[src_bocconi_finalenaz_2011__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2011#q07|src_bocconi_finalenaz_2011__Q07]]
 
 
 
@@ -270,7 +270,7 @@ How many times does Jacob press the computer button?
 > What were the two numbers Uncle picked?
 
 **Answer:** (vedi soluzioni)
-[[src_bocconi_finalenaz_2011__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2011#q08|src_bocconi_finalenaz_2011__Q08]]
 
 
 
@@ -303,7 +303,7 @@ How many times does Jacob press the computer button?
 > How many numbers did Deborah add?
 
 **Answer:** Debora ha addizionato 36 numeri
-[[src_bocconi_finalenaz_2011__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2011#q09|src_bocconi_finalenaz_2011__Q09]]
 
 
 
@@ -332,7 +332,7 @@ How many times does Jacob press the computer button?
 > Five cities are located on the same circular road and can be reached in one direction or another. Specifically, to go from one city to another in a clockwise or counterclockwise direction, you find each time different integers between them. Going from first to second, you walk 9 kilometers. From the third to the fourth, they travel 11 km clockwise and 7 km counterclockwise. Going from 5th to 4th clockwise, they travel 20 kilometers. How many miles are there to go clockwise from fifth city to first?
 
 **Answer:** Il numero richiesto è 44
-[[src_bocconi_finalenaz_2011__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2011#q10|src_bocconi_finalenaz_2011__Q10]]
 
 
 
@@ -361,7 +361,7 @@ How many times does Jacob press the computer button?
 > The sum of the first $n$ consecutive odd numbers starting with $1$ is $n^2$. A number of four digits all equal is of the type $\overline{aaaa}$. For what value of $n$ is a four-digit number all equal?
 
 **Answer:** Il numero richiesto è 41
-[[src_bocconi_finalenaz_2011__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2011#q11|src_bocconi_finalenaz_2011__Q11]]
 
 
 
@@ -390,7 +390,7 @@ How many times does Jacob press the computer button?
 > The two bases of a trapezoid measure, respectively, 1515 cm and 1213 cm. The angles adjacent to the main base are complementary (their sum is $90^\circ$). What is the distance between the middle points of the two bases?
 
 **Answer:** La distanza è 248 cm
-[[src_bocconi_finalenaz_2011__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2011#q12|src_bocconi_finalenaz_2011__Q12]]
 
 
 
@@ -419,7 +419,7 @@ How many times does Jacob press the computer button?
 > Write in increasing order two positive integers, each of three digits, whose product is $222.222$.
 
 **Answer:** $231 \times 962$, $273 \times 814$, $286 \times 777$, $\ldots$ (i fattori non possono essere invertiti)
-[[src_bocconi_finalenaz_2011__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2011#q13|src_bocconi_finalenaz_2011__Q13]]
 
 
 
@@ -448,7 +448,7 @@ How many times does Jacob press the computer button?
 > Two years are compatible when they are consecutive and the sum of the digits of the first divides the second. For example, 2011 and 2012 are compatible because 4 (sum of figures for 2011) divides 2012. Also 2015 and 2016 are compatible because 8 divides 2016. What will be the next two compatible years?
 
 **Answer:** I due anni compatibili sono 2045 e 2046
-[[src_bocconi_finalenaz_2011__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2011#q14|src_bocconi_finalenaz_2011__Q14]]
 
 
 
@@ -477,7 +477,7 @@ How many times does Jacob press the computer button?
 > In the $ABC$ triangle, the medians traced by $B$ and $C$ are equal, respectively. It also applies $AB^2 + AC^2 = 500$. Calculate the distance $BC$ in cm.
 
 **Answer:** La distanza $BC$ è 10 cm
-[[src_bocconi_finalenaz_2011__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2011#q15|src_bocconi_finalenaz_2011__Q15]]
 
 
 
@@ -514,7 +514,7 @@ Professor Renato's age from the Fibonacci sequence
 > How old is Professor Renato?
 
 **Answer:** Il prof. Renato ha 88 anni
-[[src_bocconi_finalenaz_2011__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2011#q16|src_bocconi_finalenaz_2011__Q16]]
 
 
 
@@ -527,7 +527,7 @@ Professor Renato's age from the Fibonacci sequence
 
 > Desiderio possiede un'isola perfettamente rotonda sulla quale ha collocato quattro barriere perfettamente rettilinee. L'obiettivo di queste barriere è di coprire il bordo dell'isola. Nella figura c'è anche uno stagno, anch'esso perfettamente rotondo, tangente alle quattro barriere. La situazione è illustrata dalla figura che però non rispetta le dimensioni; sono comunque indicate le lunghezze di due barriere (33 m e 77 m) con l'ampiezza dell'angolo da loro formato ($135^\circ$). Qual è la lunghezza della barriera $AB$?
 
-![[src_bocconi_finalenaz_2011__Q17.png]]
+![[src_bocconi_finalenaz_2011__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -544,7 +544,7 @@ Professor Renato's age from the Fibonacci sequence
 
 > Desiderio has a perfectly round island on which he has placed four perfectly straight barriers. The goal of these barriers is to cover the edge of the island. In the figure there is also a pond, also perfectly round, tangent to the four barriers. The situation is illustrated by the figure which does not respect the dimensions; however, the lengths of two barriers (33 m and 77 m) with the width of the angle formed by them ($135^\circ$) are indicated. What is the length of the $AB$ barrier?
 
-![[src_bocconi_finalenaz_2011__Q17.png]]
+![[src_bocconi_finalenaz_2011__q17.png]]
 
 **Answer:** La barriera $AB$ è lunga $55+33\sqrt{2}$ oppure $-22+\sqrt{8107+5082\sqrt{2}}$ m
-[[src_bocconi_finalenaz_2011__Q17]]
+[[Quesiti/src_bocconi_finalenaz_2011#q17|src_bocconi_finalenaz_2011__Q17]]

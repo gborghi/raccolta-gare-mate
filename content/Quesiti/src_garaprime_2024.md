@@ -47,7 +47,7 @@ level: Classi Prime
 > A slope triangle with an area other than zero has all the angles measuring a positive integer number of degrees. What is the difference in degrees between two angles, at most? A) 175 B) 179 C) 178 D) 177 E) 176 The correct answer is E Under the conditions described you cannot have a measuring angle 0°. Given α< β< γ the measurements in degrees of the three angles, the result is γ= 180 −α−β from which the difference between the major and the minor is equal to γ−α= 180 − 2α−β and therefore it is advisable to take α as small as possible (α= 1) and similarly β as small as possible (β= 2, since if β= 1 the triangle would be isosceles). Hence it follows that γ−α = 180 −2 −2 = 176.
 
 **Answer:** E
-[[src_garaprime_2024__Q01]]
+[[Quesiti/src_garaprime_2024#q01|src_garaprime_2024__Q01]]
 
 
 
@@ -95,7 +95,7 @@ level: Classi Prime
 > On the island of thieves (who always lie) and knights (who always tell the truth) live 10 people. Five of these are silent while each of the other five makes a statement: Here we are all cunning!; Here we are all knights!; At least 4 of us are cunning; Exactly 6 of us are cunning; No more than 5 of us are knights. How many knights are there on the island? A) 5 B) 4 C) 6 D) 8 E) 7 The correct answer is C We analyse each statement. The person who says Here we are all cunning cannot be a knight (otherwise he would tell the truth, and so the 10 people would all be cunning, against the assumption that he is a knight) and so he is a cunning. On the other hand, even the second person is a con man, because it is not true that they are all knights (we have just observed that the first person speaking is a con man). If the third person was a crook, the crooks would be at most 3, but then the next person should be a knight and tell the truth (there are exactly 6 crooks), whereas we just said that crooks are at most 3. So the third person has to be a knight: therefore, there are at least 4 thieves and, consequently, the number of knights is at most 6. The presence of 4 thieves and 6 knights is compatible with the last two statements: in particular, if the last two are thieves, there are exactly 4 thieves and 6 knights (the third person and all those who did not speak).
 
 **Answer:** C
-[[src_garaprime_2024__Q02]]
+[[Quesiti/src_garaprime_2024#q02|src_garaprime_2024__Q02]]
 
 
 
@@ -139,7 +139,7 @@ level: Classi Prime
 > Five consecutive positive integers, less than 100, are such that their mean is an even integer and their product is a multiple of both 11 and 13. How many fifty are possible? A) 4 B) 7 C) 5 D) 6 E) 8 The correct answer is E Let's show the five numbers with x−2, x−1, x, x+1, x+2, with x>2 and x<98. The mean is (x−2)+(x−1)+x+(x+1)+(x+2) 5 = 5x 5 = x, so x must be equal. It is easy to see that the only values that x can take and that allow for a multiple product of both 11 and 13 are x=12, 24, 54, 64, 66, 76, 78, 90, i.e. 8 values.
 
 **Answer:** E
-[[src_garaprime_2024__Q03]]
+[[Quesiti/src_garaprime_2024#q03|src_garaprime_2024__Q03]]
 
 
 
@@ -185,7 +185,7 @@ level: Classi Prime
 > Simone puts in increasing order the measurements of the inner angles of a convex polygon of n sides (with n> 2), and observes that each angle, starting from the second, measures 30° more than the previous one. What is the maximum value of n? A) 5 B) 3 C) 4 D) 6 E) 8 The correct answer is A Let's call with x> 0 the degree measurement of the smallest angle so that the other angles measure in order x+ 30°, x+ 60°, x+ 90°, x+ 120°, x+ 150°. Surely it is not possible to proceed because already x+ 180° > 180° and the polygon would no longer be convex. So for now we're going to exclude n>6. It is noted that with n=6 it is not possible to construct a polygon that also satisfies the condition of sum of the angles S= (6 −2) ∙ 180° = 720°. In fact x+ (x+ 30°) + (x+ 60°) + (x+ 90°) + (x+ 120°) + (x+ 150°) = 6x+ 450° = 720°, where x= 45°. This way, however, the last angle measures 45° + 150° = 195° > 180°, so n= 6 is not good. Trying with n=5 you get 5x+ 300° = 540°, where x= 48° and the largest angle is 48° + 120° = 168° < 180°, so n= 5 is fine and that's the solution.
 
 **Answer:** A
-[[src_garaprime_2024__Q04]]
+[[Quesiti/src_garaprime_2024#q04|src_garaprime_2024__Q04]]
 
 
 
@@ -231,7 +231,7 @@ level: Classi Prime
 > The rectangle in the figure is divided into three congruent rectangles, each 20 cm base and 25 cm high. Determine the size of HK in cm. A) 14 B) 12 C) 13 D) 10 E) 11 The correct answer is C The parallels to DQ and TB (from P to R) are drawn as shown in Figure 1. From the congruence between AP, PQ and QB follows the congruence between AS, SH and HK (for Talete). Similarly from the congruence of DT, TR and RC follows the congruence between HK, KU and UC. So it turns out that HK is equal to 15 AC. For Pythagoras AC= √602 + 252 = 65 cm, so HK= 13 cm.
 
 **Answer:** C
-[[src_garaprime_2024__Q05]]
+[[Quesiti/src_garaprime_2024#q05|src_garaprime_2024__Q05]]
 
 
 
@@ -321,7 +321,7 @@ level: Classi Prime
 > The correct answer is B. Consider the APC triangle. It is isosceles on the basis of AC as Â = 30° for assumptions, AP̂C= 180° −60° = 120° and therefore AĈP= 30°. The BPC triangle is the half of an equilateral triangle, with PC=30 cm and PB, being the opposite side to BĈP= 30°, is equal to half hypotenuse, i.e. 15 cm.
 
 **Answer:** B
-[[src_garaprime_2024__Q06]]
+[[Quesiti/src_garaprime_2024#q06|src_garaprime_2024__Q06]]
 
 
 
@@ -367,7 +367,7 @@ level: Classi Prime
 > The garden of Santina is in the shape of a rectangle and is divided into 7 zones as shown in the figure. All we know is that the ASD triangle has an area of 47 m2 and the SPQR quadrilateral has an area of 89 m2. What is the area of the BCQ triangle in m2? A) 46 B) 42 C) 40 D) the data are insufficient E) none of the above The correct answer is B Having the same base and the same height, APD and APR triangles have the same area, therefore, by difference (subtracting from both the APS area), ASD and SPR are equivalent; the same can be said of RPQ and BCQ triangles. Since the area of RPQ is 89 −47 = 42 m2, the area of BCQ will also be 42 m2.
 
 **Answer:** B
-[[src_garaprime_2024__Q07]]
+[[Quesiti/src_garaprime_2024#q07|src_garaprime_2024__Q07]]
 
 
 
@@ -404,7 +404,7 @@ level: Classi Prime
 > What is the sum of the digits of the units of the numbers 2024, 20242, 20243, ... , 20242024 ? A) 10120 B) 10000 C) 8096 D) 12144 E) 102024 The correct answer is A Be 1 ≤k≤1012. The unit figure of 20242k−1 is equal to 4, while that of 20242k is equal to 6. So the sum you're looking for is equal to 4 ∙1012 + 6 ∙1012 = 1012 ∙(4 + 6) = 1012 ∙10 = 10120.
 
 **Answer:** A
-[[src_garaprime_2024__Q08]]
+[[Quesiti/src_garaprime_2024#q08|src_garaprime_2024__Q08]]
 
 
 
@@ -454,7 +454,7 @@ level: Classi Prime
 > The hedge of the garden beneath Lorenzo's house has the shape of a regular hexagon and is bounded by a wall whose outer edge has a dodecagonal shape consisting of 6 rectangles, all equal to each other and each perimeter 20 m, and 6 triangles, as shown in the figure. What is the perimeter of the dodecahedron (in meters)? A) 60 B) 70 C) 48 D) 54 E) 115 2 ⁄ The correct answer is A Because the axis is regular, each inner angle is (6−2) ∙180° 6 = 120°. Consequently, each triangle has the angle corresponding to the shared summit with a summit of the hexagon of 360° −2 ∙90° −120° = 60°. Furthermore, since the rectangles are all equal to each other, triangles have sides that coincide with the sides of the same rectangles, and are therefore equilateral triangles. It follows that the perimeter of the dodecahedron, being formed by six long sides and six short sides of rectangles, is three times the perimeter of a rectangle, i.e. 20 ∙3 = 60 m.
 
 **Answer:** A
-[[src_garaprime_2024__Q09]]
+[[Quesiti/src_garaprime_2024#q09|src_garaprime_2024__Q09]]
 
 
 
@@ -502,7 +502,7 @@ level: Classi Prime
 > The correct answer is C In the first pocket you can not put coins, in the second pocket 1 coin, in the third pocket 2 coins, in the fourth pocket 3 coins and so on until you get to the 12th pocket where you can put 11 coins. It follows that the minimum number of coins owned must be equal to 1 + 2 + 3 +  + 11 = 11∙12 2 = 66.
 
 **Answer:** C
-[[src_garaprime_2024__Q10]]
+[[Quesiti/src_garaprime_2024#q10|src_garaprime_2024__Q10]]
 
 
 
@@ -561,7 +561,7 @@ level: Classi Prime
 > Consider the two figures (not in scale). Both are obtained by removing from a square of perimeter of 96 cm respectively 4 and 2 rectangles all equal to each other. In the first figure on the perimeter of the starting square there are the short sides of the distant rectangles while in the second figure there are the long sides. Knowing that the perimeter of the two figures is 160 cm for the first and 108 cm for the second, what is the area of the first figure in cm2? A) 480 B) 512 C) 524 D) 528 E) c) there is more than one solution The correct answer is A Siano a, b respectively the measurements in cm of the long and short sides of the rectangles subtracted from the square. The perimeter of the figure on the left is that of the square added to 8a, from which a=160−96 8 = 8. Similarly, the perimeter of the figure to the right is that of the sum of the squares 4b, from which b=108−96 4 = 3. Finally, the size of the required area is [(96 4 ) 2 −4 ∙3 ∙8] = 480 cm2.
 
 **Answer:** A
-[[src_garaprime_2024__Q11]]
+[[Quesiti/src_garaprime_2024#q11|src_garaprime_2024__Q11]]
 
 
 
@@ -595,7 +595,7 @@ level: Classi Prime
 > If the positive integer n is a perfect square, what is the next perfect square? A) n+ 1 B) n+ √n C) n+ √n+ 1 D) n+ 2√n E) n+ 2√n+ 1 The correct answer is E If n is a perfect square, then the base of that square is √n, its next is √n+ 1 where the perfect square following (√n) 2 = n is (√n+ 1) 2 = n+ 2√n+ 1.
 
 **Answer:** E
-[[src_garaprime_2024__Q12]]
+[[Quesiti/src_garaprime_2024#q12|src_garaprime_2024__Q12]]
 
 
 
@@ -641,7 +641,7 @@ level: Classi Prime
 > Emanuele calculates the product of all the divisors of a number (including the number itself) and writes the result on a sheet. Which of the following numbers can't he have written? A) 1 B) 100 C) 101 D) 512 E) 1024 The correct answer is D The number that Emmanuel cannot have written is 512. In fact if a number is divisible by 2n, then it is also divisible by 2n−1, 2n−2, ..., 22, 2, 1, whose product is equal to 2n∙2n−1 ∙... ∙22 ∙2 ∙1 = 2n+(n−1) ++2+1 = 2 n∙(n+1) 2 . So it's 512 = 29, and there's no natural n such that n∙(n+1) 2 = 9. All the other numbers are instead the product of the divisors of a number: 1 is the product of the divisors of 1, 100 of 10, 101 of 101 and 1024 of 16.
 
 **Answer:** D
-[[src_garaprime_2024__Q13]]
+[[Quesiti/src_garaprime_2024#q13|src_garaprime_2024__Q13]]
 
 
 
@@ -682,7 +682,7 @@ Any number between 2 and 900 has exactly 3 divisors.
 > A prime number has exactly two divisors: 1 and itself. But Michelangelo has to find all the numbers between 2 and 900 that have exactly 3 divisors. How many are there? A) 10 B) 0 C) 30 D) 29 E) 49 The correct answer is A The only numbers to have exactly 3 divisors are the squares of prime numbers. In fact, if p is a prime number, its square p2 is divisible only by 1, by p and by p2. On the other hand, a number that admits as divisors two distinct primes p and q, with p< q, then it is also divisible by 1 and pq, and therefore cannot have only 3 divisors. The perfect squares between 2 and 900 that verify the required condition are therefore squares of 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, i.e. 10 numbers.
 
 **Answer:** A
-[[src_garaprime_2024__Q14]]
+[[Quesiti/src_garaprime_2024#q14|src_garaprime_2024__Q14]]
 
 
 
@@ -723,7 +723,7 @@ How to divide 6 girls into 3 teams by 2
 > How many ways can Simona divide six girls into three two-person teams? Keep in mind that two subdivisions are identical if and only if each girl has the same teammate. A) 30 B) 60 C) 15 D) 20 E) 18 The correct answer is C The number of ways of dividing a set of 4 people into two teams of 2 is equal to the number of ways in which one of the four girls can choose the team mate from the remaining 3, i.e. 3 ways. If there are 6 people, let us distinguish 5 cases (the 5 ways in which one of the 6 girls is fixed, she can choose her partner) and in each of those cases the remaining 4 girls can be divided into 3 ways into teams of 2 as mentioned above. So the different subdivisions are 5 ∙3 = 15.
 
 **Answer:** C
-[[src_garaprime_2024__Q15]]
+[[Quesiti/src_garaprime_2024#q15|src_garaprime_2024__Q15]]
 
 
 
@@ -787,7 +787,7 @@ How to divide 6 girls into 3 teams by 2
 > The Winter Math Camp has 72 members, each of whom can play chess or both; in addition, 4 7⁄ of those who can play chess do not know how to play chess, and 3 5⁄ of those who can play chess also play chess. How many subscribers can play both games? A) 32 B) 30 C) 24 D) 28 E) 20 The correct answer is C. The number of people who can play chess and s the number of people who can play chess. The data shows that 37 d can play chess as well while 35 d can play ladies. But then 3 7 d is equal to 3 5 s where s is equal to 5 7 d. So, since 4 7 d + s = 72, you have 4 7 d + 5 7 d = 72, where d = 56 and then 3 7 d = 24.
 
 **Answer:** C
-[[src_garaprime_2024__Q16]]
+[[Quesiti/src_garaprime_2024#q16|src_garaprime_2024__Q16]]
 
 
 
@@ -829,7 +829,7 @@ How to divide 6 girls into 3 teams by 2
 > Claudia has 11 different balls all of which are colored as follows: 4 red, 2 green and 5 blue. In how many ways can a pair of balls of different colours be chosen? A) 3 B) 38 C) 40 D) 45 E) 76 The correct answer is B The valid pairs are: red-green, red-blue and green-blue. We don't even have to count the three green-red, blue-red and blue-green pairs because that would count the ordered pairs. Since the balls are all different, we can choose the red ball in four ways, the green ball in two and the blue ball in five. For the fundamental principle of combinatorial computation (or for the rule of the Cartesian product), the number of pairs is found by producing the cardinality of the starting sets, i.e. 4 ∙2 = 8, 4 ∙5 = 20 and 2 ∙5 = 10. These three quantities have to be added because the three situations are independent of each other and so the solution is 8 + 20 + 10 = 38.
 
 **Answer:** B
-[[src_garaprime_2024__Q17]]
+[[Quesiti/src_garaprime_2024#q17|src_garaprime_2024__Q17]]
 
 
 
@@ -870,4 +870,4 @@ How to divide 6 girls into 3 teams by 2
 > On a board are initially written three distinct positive integers. Alongside them, Charles writes the sum of all possible pairs (not ordered) between two of these numbers and then also writes the sum of the three initial numbers. Finally, you add up all the numbers on the board and you get 396. What is the maximum value of the largest of the first three numbers? A) 96 B) 58 C) 52 D) 100 E) 80 The correct answer is A Siano a< b< c the three values so that the final quantities written on the board will be: a, b, c, a+ b, a+ c, b+ c, a+ b+ c; the sum of these seven quantities is 4(a+ b+ c) = 396 and then a+ b+ c= 99. Taking the smallest possible distinct positive integers a and b, i.e. 1 and 2, we get the maximum value of c=96.
 
 **Answer:** A
-[[src_garaprime_2024__Q18]]
+[[Quesiti/src_garaprime_2024#q18|src_garaprime_2024__Q18]]

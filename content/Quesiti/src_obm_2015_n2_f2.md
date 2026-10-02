@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Qual è il numero intero positivo più piccolo che lascia cinque rimanenti diversi quando diviso da $2$, $3$, $4$, $5$ e $6$?
 
-[[src_obm_2015_n2_f2__Q01]]
+[[Quesiti/src_obm_2015_n2_f2#q01|src_obm_2015_n2_f2__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: OBM Nível 2
 
 > João cut the four corners of a rectangular sheet and obtained an equiangular octagon $ABCDEFGH$, as shown in the figure. Given that $AB = 2\sqrt{2}$, $BC = 7$, $CD = 3\sqrt{2}$, $DE = 3$, $EF = 4\sqrt{2}$, and $GH = 5\sqrt{2}$, determine the area of this octagon.
 
-![[src_obm_2015_n2_f2__Q02.png]]
+![[src_obm_2015_n2_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -62,9 +62,9 @@ level: OBM Nível 2
 
 > João tagliò i quattro angoli di un foglio rettangolare e ottenne un ottagono equiangolare $ABCDEFGH$, come mostrato nella figura. Dato che $AB = 2\sqrt{2}$, $BC = 7$, $CD = 3\sqrt{2}$, $DE = 3$, $EF = 4\sqrt{2}$ e $GH = 5\sqrt{2}$ determinano l'area di questo ottagone.
 
-![[src_obm_2015_n2_f2__Q02.png]]
+![[src_obm_2015_n2_f2__q02.png]]
 
-[[src_obm_2015_n2_f2__Q02]]
+[[Quesiti/src_obm_2015_n2_f2#q02|src_obm_2015_n2_f2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 2
 
 > Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono numeri reali. Esmeralda ha commesso un errore e ha risolto invece l'equazione $bx = a$, ottenendo una soluzione che è esattamente uguale alla soluzione corretta meno $60$. Se la soluzione corretta ha la forma $m + \sqrt{n}$ con $m$ e $n$ integri, qual è il valore di $m + n$?
 
-[[src_obm_2015_n2_f2__Q03]]
+[[Quesiti/src_obm_2015_n2_f2#q03|src_obm_2015_n2_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 2
 
 > Una fabbrica dispone di diverse scatole, ciascuna con una capacità di $31$ litri. Ha bottiglie d'acqua $2015$, ciascuna contenente $3$ litri, e cartoni di succo d'arancia $2015$, ciascuna contenente $5$ litri. Ogni scatola può contenere qualsiasi combinazione di bottiglie e cartoni, purché il loro volume totale non superi la capacità della scatola. Nessuna scatola può essere sovraempempiegata. Qual è il numero minimo di scatole di cui ha bisogno l'azienda per immagazzinare tutte le bottiglie e tutte le scatole che ha prodotto?
 
-[[src_obm_2015_n2_f2__Q04]]
+[[Quesiti/src_obm_2015_n2_f2#q04|src_obm_2015_n2_f2__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 2
 
 > I numeri reali $x$, $y$ e $z$ soddisfano il sistema $$\frac{x}{y} + \frac{y}{z} = 2015, \qquad \frac{y}{z} + \frac{z}{x} = 37.$$ Determinano il numero intero più vicino a $\dfrac{z}{y}$.
 
-[[src_obm_2015_n2_f2__Q05]]
+[[Quesiti/src_obm_2015_n2_f2#q05|src_obm_2015_n2_f2__Q05]]
 
 
 
@@ -174,7 +174,7 @@ level: OBM Nível 2
 
 > Due cerchi $C_1$ e $C_2$ si incrociano ai punti $A$ e $B$. La tangente di $C_1$ a $A$ incontra di nuovo $C_2$ a $P$; la tangente di $C_2$ a $A$ incontra di nuovo $C_1$ a $Q$. Dato che $PB = QB = 1000$, determinare la lunghezza del segmento $AB$.
 
-[[src_obm_2015_n2_f2__Q06]]
+[[Quesiti/src_obm_2015_n2_f2#q06|src_obm_2015_n2_f2__Q06]]
 
 
 
@@ -193,7 +193,7 @@ level: OBM Nível 2
 > 
 > (c) Maria swapped her $2 \times 5$ table for a $2 \times 2015$ table, as indicated in the figure below. Associated with each row and each column is a button that swaps the color of every square in that row or column, for a total of $2 + 2015 = 2017$ buttons. How many colorings of the $2 \times 2015$ table can be obtained by pressing some of these buttons?
 
-![[src_obm_2015_n2_f2__Q07.png]]
+![[src_obm_2015_n2_f2__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -215,9 +215,9 @@ level: OBM Nível 2
 > 
 > (c) Maria ha sostituito la sua tabella $2 \times 5$ con una tabella $2 \times 2015$, come indicato nella figura seguente. Con ogni riga e colonna è associato un pulsante che cambia il colore di ogni quadrato di quella riga o colonna, per un totale di pulsanti $2 + 2015 = 2017$. Quanti colori della tabella $2 \times 2015$ si possono ottenere premendo alcuni di questi pulsanti?
 
-![[src_obm_2015_n2_f2__Q07.png]]
+![[src_obm_2015_n2_f2__q07.png]]
 
-[[src_obm_2015_n2_f2__Q07]]
+[[Quesiti/src_obm_2015_n2_f2#q07|src_obm_2015_n2_f2__Q07]]
 
 
 
@@ -248,7 +248,7 @@ level: OBM Nível 2
 > 
 > Una frazione è chiamata irriducibile quando il più grande divisore comune (GCD) del suo numeratore e del suo denominatore è uguale a $1$.
 
-[[src_obm_2015_n2_f2__Q08]]
+[[Quesiti/src_obm_2015_n2_f2#q08|src_obm_2015_n2_f2__Q08]]
 
 
 
@@ -275,4 +275,4 @@ level: OBM Nível 2
 
 > In un triangolo rettangolo $ABC$, l'angolo di $A$ è $45^\circ$. Le altitudini $BE$ e $CF$ siano le altitudini da $B$ e $C$ ai lati $AC$ e $AB$ rispettivamente, $E$ su $AC$ e $F$ su $AB$, e $O$ sia il centro circostante del triangolo $ABC$ (cioè il centro del cerchio che attraversa $A$, $B$ e $C$). Calcolare la misura dell'angolo $EOF$.
 
-[[src_obm_2015_n2_f2__Q09]]
+[[Quesiti/src_obm_2015_n2_f2#q09|src_obm_2015_n2_f2__Q09]]

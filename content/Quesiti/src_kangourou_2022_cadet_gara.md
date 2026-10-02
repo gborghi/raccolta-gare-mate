@@ -51,7 +51,7 @@ level: kangourou
 > D) 24 E) 25
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q01]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q01|src_kangourou_2022_cadet_gara__Q01]]
 
 
 
@@ -104,7 +104,7 @@ level: kangourou
 > E) 86
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q02]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q02|src_kangourou_2022_cadet_gara__Q02]]
 
 
 
@@ -149,7 +149,7 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q03]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q03|src_kangourou_2022_cadet_gara__Q03]]
 
 
 
@@ -185,7 +185,7 @@ level: kangourou
 > In this expression there are five empty spaces. Sonia wants to fill four with a + and one with a  so that a correct equality is achieved. Where should you put the  sign ? A) Between 6 and 9. B) Between 9 and 12. C) Between 12 and 15. D) Between 15 and 18. E) Between 18 and 21.
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q04]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q04|src_kangourou_2022_cadet_gara__Q04]]
 
 
 
@@ -234,7 +234,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q05]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q05|src_kangourou_2022_cadet_gara__Q05]]
 
 
 
@@ -277,7 +277,7 @@ level: kangourou
 > D) 100 E) 150
 
 **Answer:** A
-[[src_kangourou_2022_cadet_gara__Q06]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q06|src_kangourou_2022_cadet_gara__Q06]]
 
 
 
@@ -329,7 +329,7 @@ level: kangourou
 > E) E
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q07]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q07|src_kangourou_2022_cadet_gara__Q07]]
 
 
 
@@ -381,7 +381,7 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q08]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q08|src_kangourou_2022_cadet_gara__Q08]]
 
 
 
@@ -431,7 +431,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2022_cadet_gara__Q09]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q09|src_kangourou_2022_cadet_gara__Q09]]
 
 
 
@@ -472,7 +472,7 @@ level: kangourou
 > (C) 3/2 D) 4/3 E) 7/6 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** A
-[[src_kangourou_2022_cadet_gara__Q10]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q10|src_kangourou_2022_cadet_gara__Q10]]
 
 
 
@@ -525,7 +525,7 @@ level: kangourou
 > E) 7
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q11]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q11|src_kangourou_2022_cadet_gara__Q11]]
 
 
 
@@ -585,7 +585,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q12]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q12|src_kangourou_2022_cadet_gara__Q12]]
 
 
 
@@ -633,7 +633,7 @@ Maximum number of odd sums in pairs of X,Y,Z,W*
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q13]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q13|src_kangourou_2022_cadet_gara__Q13]]
 
 
 
@@ -680,7 +680,7 @@ Maximum number of odd sums in pairs of X,Y,Z,W*
 > E) The data are insufficient to answer.
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q14]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q14|src_kangourou_2022_cadet_gara__Q14]]
 
 
 
@@ -731,7 +731,7 @@ Maximum number of odd sums in pairs of X,Y,Z,W*
 > E) 36
 
 **Answer:** A
-[[src_kangourou_2022_cadet_gara__Q15]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q15|src_kangourou_2022_cadet_gara__Q15]]
 
 
 
@@ -767,7 +767,7 @@ Maximum number of odd sums in pairs of X,Y,Z,W*
 > There are two digital clocks in my office that show the 24 hours. One goes one minute ahead every hour, the other loses two minutes every hour. Yesterday, at the same time, Sara and I both returned them at the right time but when I looked at them today, one pointed to 11:00, the other to 12:00. What time did we put them on the right time yesterday? A) 16:20 B) 16:00 C) 15:40 D) 15:20 E) 14:00
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q16]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q16|src_kangourou_2022_cadet_gara__Q16]]
 
 
 
@@ -814,7 +814,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 11
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q17]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q17|src_kangourou_2022_cadet_gara__Q17]]
 
 
 
@@ -868,7 +868,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q18]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q18|src_kangourou_2022_cadet_gara__Q18]]
 
 
 
@@ -915,7 +915,7 @@ How many numbers did Alberto write (replacement with 7-x)
 >
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q19]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q19|src_kangourou_2022_cadet_gara__Q19]]
 
 
 
@@ -958,7 +958,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > C) 1/4 D) 1/3 E) The problem admits more than one solution. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q20]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q20|src_kangourou_2022_cadet_gara__Q20]]
 
 
 
@@ -1011,7 +1011,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 19
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q21]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q21|src_kangourou_2022_cadet_gara__Q21]]
 
 
 
@@ -1089,7 +1089,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > C) 8/5 D) 12/7 E) 7/3
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q22]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q22|src_kangourou_2022_cadet_gara__Q22]]
 
 
 
@@ -1141,7 +1141,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > E) 60
 
 **Answer:** D
-[[src_kangourou_2022_cadet_gara__Q23]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q23|src_kangourou_2022_cadet_gara__Q23]]
 
 
 
@@ -1189,7 +1189,7 @@ How many numbers did Alberto write (replacement with 7-x)
 >
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q24]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q24|src_kangourou_2022_cadet_gara__Q24]]
 
 
 
@@ -1229,7 +1229,7 @@ How many numbers did Alberto write (replacement with 7-x)
 > C) 2/3 D) 3/5 E) 5/9
 
 **Answer:** A
-[[src_kangourou_2022_cadet_gara__Q25]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q25|src_kangourou_2022_cadet_gara__Q25]]
 
 
 
@@ -1298,7 +1298,7 @@ Minimum coloring boxes to cover each 1x4*
 > E) 9
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q26]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q26|src_kangourou_2022_cadet_gara__Q26]]
 
 
 
@@ -1339,7 +1339,7 @@ Minimum coloring boxes to cover each 1x4*
 > One square contains another, as the figure suggests. The grey region of the figure has an area of 43 cm2. If the sides of each of the two squares measure an integer of centimeters, what is the sum in square centimeters of the areas of the two squares? A) 882 B) 925 C) 968 D) 1011 E) 2022
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q27]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q27|src_kangourou_2022_cadet_gara__Q27]]
 
 
 
@@ -1387,7 +1387,7 @@ Minimum coloring boxes to cover each 1x4*
 > E) 25
 
 **Answer:** C
-[[src_kangourou_2022_cadet_gara__Q28]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q28|src_kangourou_2022_cadet_gara__Q28]]
 
 
 
@@ -1439,7 +1439,7 @@ Minimum coloring boxes to cover each 1x4*
 > E) 36
 
 **Answer:** E
-[[src_kangourou_2022_cadet_gara__Q29]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q29|src_kangourou_2022_cadet_gara__Q29]]
 
 
 
@@ -1484,4 +1484,4 @@ How many koalas live in the 7 parks
 >
 
 **Answer:** B
-[[src_kangourou_2022_cadet_gara__Q30]]
+[[Quesiti/src_kangourou_2022_cadet_gara#q30|src_kangourou_2022_cadet_gara__Q30]]

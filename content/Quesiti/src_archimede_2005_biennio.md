@@ -46,7 +46,7 @@ level: biennio
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[src_archimede_2005_biennio__Q01]]
+[[Quesiti/src_archimede_2005_biennio#q01|src_archimede_2005_biennio__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: biennio
 > - **(E)** None of the previous numbers.
 
 **Answer:** C
-[[src_archimede_2005_biennio__Q02]]
+[[Quesiti/src_archimede_2005_biennio#q02|src_archimede_2005_biennio__Q02]]
 
 
 
@@ -130,7 +130,7 @@ level: biennio
 > - **(E)** 100.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q03]]
+[[Quesiti/src_archimede_2005_biennio#q03|src_archimede_2005_biennio__Q03]]
 
 
 
@@ -174,7 +174,7 @@ Distribution of 120 cherries in proportion to age
 > - **(E)** 24.
 
 **Answer:** E
-[[src_archimede_2005_biennio__Q04]]
+[[Quesiti/src_archimede_2005_biennio#q04|src_archimede_2005_biennio__Q04]]
 
 
 
@@ -219,7 +219,7 @@ Distribution of 120 cherries in proportion to age
 > - **(E)** 2 √ 37 km.
 
 **Answer:** D
-[[src_archimede_2005_biennio__Q05]]
+[[Quesiti/src_archimede_2005_biennio#q05|src_archimede_2005_biennio__Q05]]
 
 
 
@@ -264,7 +264,7 @@ Distribution of 120 cherries in proportion to age
 > - **(E)** There is nothing to be said for certain about the claims made.
 
 **Answer:** D
-[[src_archimede_2005_biennio__Q06]]
+[[Quesiti/src_archimede_2005_biennio#q06|src_archimede_2005_biennio__Q06]]
 
 
 
@@ -311,7 +311,7 @@ Distribution of 120 cherries in proportion to age
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q07]]
+[[Quesiti/src_archimede_2005_biennio#q07|src_archimede_2005_biennio__Q07]]
 
 
 
@@ -396,7 +396,7 @@ Distribution of 120 cherries in proportion to age
 > - **(E)** None of the previous ones. A B’ B C’ C
 
 **Answer:** A
-[[src_archimede_2005_biennio__Q08]]
+[[Quesiti/src_archimede_2005_biennio#q08|src_archimede_2005_biennio__Q08]]
 
 
 
@@ -437,7 +437,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** 15.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q09]]
+[[Quesiti/src_archimede_2005_biennio#q09|src_archimede_2005_biennio__Q09]]
 
 
 
@@ -479,7 +479,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** More than four.
 
 **Answer:** C
-[[src_archimede_2005_biennio__Q10]]
+[[Quesiti/src_archimede_2005_biennio#q10|src_archimede_2005_biennio__Q10]]
 
 
 
@@ -524,7 +524,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** 69.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q11]]
+[[Quesiti/src_archimede_2005_biennio#q11|src_archimede_2005_biennio__Q11]]
 
 
 
@@ -566,7 +566,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** the triangle has an angle of 45°.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q12]]
+[[Quesiti/src_archimede_2005_biennio#q12|src_archimede_2005_biennio__Q12]]
 
 
 
@@ -608,7 +608,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** 4.
 
 **Answer:** C
-[[src_archimede_2005_biennio__Q13]]
+[[Quesiti/src_archimede_2005_biennio#q13|src_archimede_2005_biennio__Q13]]
 
 
 
@@ -649,7 +649,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** 12.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q14]]
+[[Quesiti/src_archimede_2005_biennio#q14|src_archimede_2005_biennio__Q14]]
 
 
 
@@ -692,7 +692,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** 4 √ 2 m.
 
 **Answer:** B
-[[src_archimede_2005_biennio__Q15]]
+[[Quesiti/src_archimede_2005_biennio#q15|src_archimede_2005_biennio__Q15]]
 
 
 
@@ -736,7 +736,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** 6923.
 
 **Answer:** D
-[[src_archimede_2005_biennio__Q16]]
+[[Quesiti/src_archimede_2005_biennio#q16|src_archimede_2005_biennio__Q16]]
 
 
 
@@ -785,7 +785,7 @@ This is the total number of units in the unit of measurement.
 > - **(E)** None of the previous ones. B A
 
 **Answer:** C
-[[src_archimede_2005_biennio__Q17]]
+[[Quesiti/src_archimede_2005_biennio#q17|src_archimede_2005_biennio__Q17]]
 
 
 
@@ -828,7 +828,7 @@ English and German bilingual employees
 > - **(E)** 18.
 
 **Answer:** D
-[[src_archimede_2005_biennio__Q18]]
+[[Quesiti/src_archimede_2005_biennio#q18|src_archimede_2005_biennio__Q18]]
 
 
 
@@ -873,7 +873,7 @@ English and German bilingual employees
 > - **(E)** It cannot be determined by the data provided alone. 20° 60° 50° 10° α
 
 **Answer:** C
-[[src_archimede_2005_biennio__Q19]]
+[[Quesiti/src_archimede_2005_biennio#q19|src_archimede_2005_biennio__Q19]]
 
 
 
@@ -912,4 +912,4 @@ English and German bilingual employees
 > - **(E)** 322 < 232 < 323 < 332 < 233.
 
 **Answer:** E
-[[src_archimede_2005_biennio__Q20]]
+[[Quesiti/src_archimede_2005_biennio#q20|src_archimede_2005_biennio__Q20]]

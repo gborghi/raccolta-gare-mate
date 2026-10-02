@@ -37,7 +37,7 @@ level: kangourou
 > AR BS CT DU
 
 **Answer:** 9
-[[src_kangourou_2014_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2014_ecolier_finale#q01|src_kangourou_2014_ecolier_finale__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: kangourou
 > AS BT CU DV
 
 **Answer:** 3 o 4
-[[src_kangourou_2014_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2014_ecolier_finale#q02|src_kangourou_2014_ecolier_finale__Q02]]
 
 
 
@@ -103,7 +103,7 @@ Minimum shifts for every boy to dance with every girl
 > AT BU CV DZ
 
 **Answer:** 6
-[[src_kangourou_2014_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2014_ecolier_finale#q03|src_kangourou_2014_ecolier_finale__Q03]]
 
 
 
@@ -132,7 +132,7 @@ Minimum shifts for every boy to dance with every girl
 
 > AU BV CZ DR
 
-[[src_kangourou_2014_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2014_ecolier_finale#q04|src_kangourou_2014_ecolier_finale__Q04]]
 
 
 
@@ -161,7 +161,7 @@ Minimum shifts for every boy to dance with every girl
 
 > AV BZ CR DS
 
-[[src_kangourou_2014_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2014_ecolier_finale#q05|src_kangourou_2014_ecolier_finale__Q05]]
 
 
 
@@ -204,4 +204,4 @@ Minimum shifts for every boy to dance with every girl
 >  
 > E4. (14 points) In a football match, the winning team receives 3 points and the losing team 0 points; if the match ends in a draw, both teams receive 1 point. Three teams play a mini-tournament on a neutral field: each plays each other once. We ask you to answer these two questions. - If, at the end of the tournament, all the teams have the same number of points, what can this number be? - Of the following scores 0, 1, 2, 3, 4, 5, 6, which cannot be achieved by any team at the end of the tournament?
 
-[[src_kangourou_2014_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2014_ecolier_finale#q06|src_kangourou_2014_ecolier_finale__Q06]]

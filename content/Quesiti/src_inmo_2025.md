@@ -35,7 +35,7 @@ level: INMO
 
 > Si consideri la sequenza definita da $u_1 = 2$, $u_2 = 3$ e $$u_{2k+1} = 2 + u_k + u_{k+1} \quad \text{and} \quad u_{2k+2} = 2 + 2u_k$$ per tutti gli integri $k \ge 1$. Determinare tutti gli integri positivi $n$ in modo tale che $\frac{u_n}{n}$ sia un intero.
 
-[[src_inmo_2025__Q01]]
+[[Quesiti/src_inmo_2025#q01|src_inmo_2025__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: INMO
 > 
 > **Nota.** Quando $n = 3$, Alice cambia $\{1, 2, 3\}$ a $\{2, 3\}$ e dopo questo Alice non può fare ulteriori mosse.
 
-[[src_inmo_2025__Q02]]
+[[Quesiti/src_inmo_2025#q02|src_inmo_2025__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: INMO
 > 
 > Supponiamo che Euclide abbia solo tre punti non collineari $A, B, C$ sul piano. Prova che Euclide può utilizzare la divisione più volte per disegnare il centro del cerchio che attraversa $A$, $B$ e $C$.
 
-[[src_inmo_2025__Q03]]
+[[Quesiti/src_inmo_2025#q03|src_inmo_2025__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: INMO
 
 > $n \ge 3$ sia un numero intero positivo. Trovare il più grande numero reale $t_n$, come funzione di $n$, in modo tale che l'ineguaglianza $$\max(|a_1 + a_2|, |a_2 + a_3|, \ldots, |a_{n-1} + a_n|, |a_n + a_1|) \ge t_n \cdot \max(|a_1|, |a_2|, \ldots, |a_n|)$$ sia valida per tutti i numeri reali $a_1, a_2, \ldots, a_n$.
 
-[[src_inmo_2025__Q04]]
+[[Quesiti/src_inmo_2025#q04|src_inmo_2025__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: INMO
 
 > Greedy Griphook ha un normale $2000$-gon, il cui vertice ha una singola moneta. In una mossa, sceglie un vertice, rimuove una moneta ciascuno dai due vertici adiacenti e aggiunge una moneta al vertice scelto, conservando la moneta rimanente per se stesso. Può fare tale mossa solo se entrambi i vertici adiacenti hanno almeno una moneta. Griphook si ferma solo quando non riesce a fare più movimenti. Qual e' il numero massimo e minimo di monete che Griphook avrebbe potuto raccogliere?
 
-[[src_inmo_2025__Q05]]
+[[Quesiti/src_inmo_2025#q05|src_inmo_2025__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: INMO
 
 > $b \ge 2$ sia un numero intero positivo. Anu ha una raccolta infinita di note con esattamente $b - 1$ copie di una nota con valore $b^k$ per ogni numero intero $k \ge 1$. Un intero positivo $n$ è chiamato pagabile se Anu può pagare esattamente $n^2 + 1$ rupie utilizzando una raccolta delle sue banconote. Prova che se c'è un numero da pagare, allora ci sono infiniti numeri da pagare.
 
-[[src_inmo_2025__Q06]]
+[[Quesiti/src_inmo_2025#q06|src_inmo_2025__Q06]]

@@ -95,7 +95,7 @@ level: kangourou
 > A)
 
 **Answer:** E
-[[src_kangourou_2022_student__Q01]]
+[[Quesiti/src_kangourou_2022_student#q01|src_kangourou_2022_student__Q01]]
 
 
 
@@ -126,7 +126,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2022_student__Q02]]
+[[Quesiti/src_kangourou_2022_student#q02|src_kangourou_2022_student__Q02]]
 
 
 
@@ -154,7 +154,7 @@ level: kangourou
 > 3. Isabella is older than Charles and younger than Liliana. Edward is older than Isabella. What couple can be made by people of the same age? A) Charles and Edward B) Edward and Liliana C) Liliana and Charles D) Isabella and Liliana E) Edward and Isabella
 
 **Answer:** B
-[[src_kangourou_2022_student__Q03]]
+[[Quesiti/src_kangourou_2022_student#q03|src_kangourou_2022_student__Q03]]
 
 
 
@@ -183,7 +183,7 @@ level: kangourou
 > 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
 
 **Answer:** D
-[[src_kangourou_2022_student__Q04]]
+[[Quesiti/src_kangourou_2022_student#q04|src_kangourou_2022_student__Q04]]
 
 
 
@@ -231,7 +231,7 @@ level: kangourou
 > 3p 2 C) ---   D) 2p E) p 2
 
 **Answer:** D
-[[src_kangourou_2022_student__Q05]]
+[[Quesiti/src_kangourou_2022_student#q05|src_kangourou_2022_student__Q05]]
 
 
 
@@ -267,7 +267,7 @@ level: kangourou
 > David wrote, in increasing order, all integers between 2 and 2022 whose decimal representation contains no digits other than 0 and 2. What's the number in the middle of the list? A) 200 B) 220 C) 222 D) 2000 E) 2002
 
 **Answer:** B
-[[src_kangourou_2022_student__Q06]]
+[[Quesiti/src_kangourou_2022_student#q06|src_kangourou_2022_student__Q06]]
 
 
 
@@ -312,7 +312,7 @@ level: kangourou
 > E) 4
 
 **Answer:** A
-[[src_kangourou_2022_student__Q07]]
+[[Quesiti/src_kangourou_2022_student#q07|src_kangourou_2022_student__Q07]]
 
 
 
@@ -365,7 +365,7 @@ level: kangourou
 > E) E
 
 **Answer:** D
-[[src_kangourou_2022_student__Q08]]
+[[Quesiti/src_kangourou_2022_student#q08|src_kangourou_2022_student__Q08]]
 
 
 
@@ -399,7 +399,7 @@ level: kangourou
 > Let a, b, c be numbers other than 0 such that the two numbers −2a4b c and 3a b c have the same sign. Which of the following is certainly true? A) ab > 0 B) b < 0 C) c > 0 D) bc > 0
 
 **Answer:** E
-[[src_kangourou_2022_student__Q09]]
+[[Quesiti/src_kangourou_2022_student#q09|src_kangourou_2022_student__Q09]]
 
 
 
@@ -483,7 +483,7 @@ level: kangourou
 > E) 9 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** A
-[[src_kangourou_2022_student__Q10]]
+[[Quesiti/src_kangourou_2022_student#q10|src_kangourou_2022_student__Q10]]
 
 
 
@@ -524,7 +524,7 @@ level: kangourou
 > By checking the water meter in her bathroom, Antonia sees the number in the figure and notices that it is made up of numbers all different from each other. How many cubic meters of water will be used (from now on) when, for the first time, the numbers on the meter will all be different again? A) 0,006 B) 0,034 C) 0,086 D) 0,137 E) 1,048
 
 **Answer:** D
-[[src_kangourou_2022_student__Q11]]
+[[Quesiti/src_kangourou_2022_student#q11|src_kangourou_2022_student__Q11]]
 
 
 
@@ -575,7 +575,7 @@ level: kangourou
 > E) There is insufficient data to answer.
 
 **Answer:** C
-[[src_kangourou_2022_student__Q12]]
+[[Quesiti/src_kangourou_2022_student#q12|src_kangourou_2022_student__Q12]]
 
 
 
@@ -623,7 +623,7 @@ This is the total value of the goods and services produced by the Union during t
 >
 
 **Answer:** E
-[[src_kangourou_2022_student__Q13]]
+[[Quesiti/src_kangourou_2022_student#q13|src_kangourou_2022_student__Q13]]
 
 
 
@@ -668,7 +668,7 @@ This is the total value of the goods and services produced by the Union during t
 > The following information is provided:
 
 **Answer:** B
-[[src_kangourou_2022_student__Q14]]
+[[Quesiti/src_kangourou_2022_student#q14|src_kangourou_2022_student__Q14]]
 
 
 
@@ -712,7 +712,7 @@ Question 15 Student 2022 (figure)
 > - **(E)** (see figure)
 
 **Answer:** A
-[[src_kangourou_2022_student__Q15]]
+[[Quesiti/src_kangourou_2022_student#q15|src_kangourou_2022_student__Q15]]
 
 
 
@@ -758,7 +758,7 @@ Question 15 Student 2022 (figure)
 > C) 3 S D) 4 S E) None of the other answers are correct.
 
 **Answer:** C
-[[src_kangourou_2022_student__Q16]]
+[[Quesiti/src_kangourou_2022_student#q16|src_kangourou_2022_student__Q16]]
 
 
 
@@ -806,7 +806,7 @@ Question 15 Student 2022 (figure)
 > A
 
 **Answer:** B
-[[src_kangourou_2022_student__Q17]]
+[[Quesiti/src_kangourou_2022_student#q17|src_kangourou_2022_student__Q17]]
 
 
 
@@ -860,7 +860,7 @@ Question 15 Student 2022 (figure)
 > 3 D) 16 E) None of the other answers is correct. 5
 
 **Answer:** B
-[[src_kangourou_2022_student__Q18]]
+[[Quesiti/src_kangourou_2022_student#q18|src_kangourou_2022_student__Q18]]
 
 
 
@@ -913,7 +913,7 @@ The following information shall be provided:
 > C) 27 D) 30
 
 **Answer:** A
-[[src_kangourou_2022_student__Q19]]
+[[Quesiti/src_kangourou_2022_student#q19|src_kangourou_2022_student__Q19]]
 
 
 
@@ -989,7 +989,7 @@ The following information shall be provided:
 > (C) 12 D) 16 E) 2 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2022_student__Q20]]
+[[Quesiti/src_kangourou_2022_student#q20|src_kangourou_2022_student__Q20]]
 
 
 
@@ -1038,7 +1038,7 @@ Try Martina not in the final
 > B)      2 C)       7 D)       7 E)      7
 
 **Answer:** D
-[[src_kangourou_2022_student__Q21]]
+[[Quesiti/src_kangourou_2022_student#q21|src_kangourou_2022_student__Q21]]
 
 
 
@@ -1085,7 +1085,7 @@ Try Martina not in the final
 > E) 5
 
 **Answer:** A
-[[src_kangourou_2022_student__Q22]]
+[[Quesiti/src_kangourou_2022_student#q22|src_kangourou_2022_student__Q22]]
 
 
 
@@ -1151,7 +1151,7 @@ Try Martina not in the final
 > Page 32
 
 **Answer:** E
-[[src_kangourou_2022_student__Q23]]
+[[Quesiti/src_kangourou_2022_student#q23|src_kangourou_2022_student__Q23]]
 
 
 
@@ -1197,7 +1197,7 @@ Try Martina not in the final
 > The drawing shows the position of a square in an orthogonal Cartesian system. Each point (x, y) of the square is sent to point ( , ). In which of the following figures is transformed x
 
 **Answer:** C
-[[src_kangourou_2022_student__Q24]]
+[[Quesiti/src_kangourou_2022_student#q24|src_kangourou_2022_student__Q24]]
 
 
 
@@ -1265,7 +1265,7 @@ Try Martina not in the final
 >
 
 **Answer:** B
-[[src_kangourou_2022_student__Q25]]
+[[Quesiti/src_kangourou_2022_student#q25|src_kangourou_2022_student__Q25]]
 
 
 
@@ -1313,7 +1313,7 @@ Try Martina not in the final
 > C) 16 D) 17 E) 18
 
 **Answer:** C
-[[src_kangourou_2022_student__Q26]]
+[[Quesiti/src_kangourou_2022_student#q26|src_kangourou_2022_student__Q26]]
 
 
 
@@ -1365,7 +1365,7 @@ Try Martina not in the final
 > C) 25 D) 27 E) 28
 
 **Answer:** C
-[[src_kangourou_2022_student__Q27]]
+[[Quesiti/src_kangourou_2022_student#q27|src_kangourou_2022_student__Q27]]
 
 
 
@@ -1405,7 +1405,7 @@ Try Martina not in the final
 > C) 3
 
 **Answer:** D
-[[src_kangourou_2022_student__Q28]]
+[[Quesiti/src_kangourou_2022_student#q28|src_kangourou_2022_student__Q28]]
 
 
 
@@ -1494,7 +1494,7 @@ Try Martina not in the final
 > A) 1 / 12 B) 1 / 6 C) 1 / 4√3 D) 1 / 6√2 E) 1 / 6√3
 
 **Answer:** A
-[[src_kangourou_2022_student__Q29]]
+[[Quesiti/src_kangourou_2022_student#q29|src_kangourou_2022_student__Q29]]
 
 
 
@@ -1576,4 +1576,4 @@ The following table shows the number of items in the table:
 > 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0
 
 **Answer:** B
-[[src_kangourou_2022_student__Q30]]
+[[Quesiti/src_kangourou_2022_student#q30|src_kangourou_2022_student__Q30]]

@@ -33,7 +33,7 @@ level: IMO
 
 > Triangle $BCF$ has a right angle at $B$. Let $A$ be the point on line $CF$ such that $FA = FB$ and $F$ lies between $A$ and $C$. Point $D$ is chosen such that $DA = DC$ and $AC$ is the bisector of $\angle DAB$. Point $E$ is chosen such that $EA = ED$ and $AD$ is the bisector of $\angle EAC$. Let $M$ be the midpoint of $CF$. Let $X$ be the point such that $AMXE$ is a parallelogram (where $AM \parallel EX$ and $AE \parallel MX$). Prove that lines $BD$, $FX$, and $ME$ are concurrent.
 
-[[src_imho_2016__Q01]]
+[[Quesiti/src_imho_2016#q01|src_imho_2016__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: IMO
 > 
 > \textbf{Note.} The rows and columns of an $n \times n$ table are labelled $1$ to $n$ in a natural order. Thus each cell corresponds to a pair of positive integers $(i,j)$ with $1 \le i, j \le n$. For $n > 1$, the table has $4n - 2$ diagonals of two types. A diagonal of the first type consists of all cells $(i,j)$ for which $i + j$ is a constant, and a diagonal of the second type consists of all cells $(i,j)$ for which $i - j$ is a constant.
 
-[[src_imho_2016__Q02]]
+[[Quesiti/src_imho_2016#q02|src_imho_2016__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: IMO
 
 > Let $P = A_1 A_2 \cdots A_k$ be a convex polygon in the plane. The vertices $A_1, A_2, \ldots, A_k$ have integral coordinates and lie on a circle. Let $S$ be the area of $P$. An odd positive integer $n$ is given such that the squares of the side lengths of $P$ are integers divisible by $n$. Prove that $25 S$ is an integer divisible by $n$.
 
-[[src_imho_2016__Q03]]
+[[Quesiti/src_imho_2016#q03|src_imho_2016__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: IMO
 
 > A set of positive integers is called \textit{fragrant} if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. Let $P(n) = n^2 + n + 1$. What is the least possible value of the positive integer $b$ such that there exists a non-negative integer $a$ for which the set $$\{P(a+1), P(a+2), \ldots, P(a+b)\}$$ is fragrant?
 
-[[src_imho_2016__Q04]]
+[[Quesiti/src_imho_2016#q04|src_imho_2016__Q04]]
 
 
 
@@ -153,7 +153,7 @@ Equation with 2016 linear factors on both sides, minimize k solutions
 
 > The equation $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$ is written on the board, with $2016$ linear factors on each side. What is the least possible value of $k$ for which it is possible to erase exactly $k$ of these $4032$ linear factors so that at least one factor remains on each side and the resulting equation has no real solutions?
 
-[[src_imho_2016__Q05]]
+[[Quesiti/src_imho_2016#q05|src_imho_2016__Q05]]
 
 
 
@@ -188,4 +188,4 @@ Equation with 2016 linear factors on both sides, minimize k solutions
 > 
 > (b) Prove that Geoff can never fulfill his wish if $n$ is even.
 
-[[src_imho_2016__Q06]]
+[[Quesiti/src_imho_2016#q06|src_imho_2016__Q06]]

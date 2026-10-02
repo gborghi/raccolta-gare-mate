@@ -35,7 +35,7 @@ level: kangourou
 > In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
 
 **Answer:** 2020
-[[src_kangourou_2020_junior_settembre__Q01]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q01|src_kangourou_2020_junior_settembre__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: kangourou
 > Be $n$ the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the unit number of $n$?
 
 **Answer:** 9
-[[src_kangourou_2020_junior_settembre__Q02]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q02|src_kangourou_2020_junior_settembre__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: kangourou
 > (c) for each method of filling the grid there is at most a special number.
 
 **Answer:** a)F b)V c)V
-[[src_kangourou_2020_junior_settembre__Q03]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q03|src_kangourou_2020_junior_settembre__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: kangourou
 > A circle shall be marked with $2020$ two-by-two distinct points. All possible convex polygons (i.e. unwoven polygons having all the interior angles of size less than $180°$) whose vertices are some of the marked points shall be considered. Whether $p$ any of the points marked. Are there more polygons containing $p$ or those not containing it, or are there the same number?
 
 **Answer:** contengono p
-[[src_kangourou_2020_junior_settembre__Q04]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q04|src_kangourou_2020_junior_settembre__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: kangourou
 > How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
 
 **Answer:** 6
-[[src_kangourou_2020_junior_settembre__Q05]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q05|src_kangourou_2020_junior_settembre__Q05]]
 
 
 
@@ -193,4 +193,4 @@ level: kangourou
 
 > A center circumference $I$ is inscribed in a triangle $ABC$: denotes with $D$ and $E$ its tangent points on the sides $BC$ and $AC$ respectively. Also denote with $M$ and $N$ the mean points of $BC$ and $AB$ respectively and with $P$ the intersection between the connecting line $A$ with $I$ and the connecting line $D$ with $E$. It shows that $M$, $N$ and $P$ are aligned.
 
-[[src_kangourou_2020_junior_settembre__Q06]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q06|src_kangourou_2020_junior_settembre__Q06]]

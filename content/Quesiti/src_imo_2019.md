@@ -33,7 +33,7 @@ level: IMO
 
 > It is $\mathbb{Z}$ the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
 
-[[src_imo_2019__Q01]]
+[[Quesiti/src_imo_2019#q01|src_imo_2019__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: IMO
 > 
 > To demonstrate that $P$, $Q$, $P_1$ and $Q_1$ are complicated.
 
-[[src_imo_2019__Q02]]
+[[Quesiti/src_imo_2019#q02|src_imo_2019__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: IMO
 > 
 > Initially, $1010$ users each have $1009$ friends and $1009$ users each have $1010$ friends. Demonstrate that there is a sequence of such events after which each user is friends with at most one other user.
 
-[[src_imo_2019__Q03]]
+[[Quesiti/src_imo_2019#q03|src_imo_2019__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: IMO
 
 > Find all positive integers $(k, n)$ pairs such as $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
 
-[[src_imo_2019__Q04]]
+[[Quesiti/src_imo_2019#q04|src_imo_2019__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: IMO
 > 
 > (b) For each initial configuration $C$, be $L(C)$ the number of operations before Harry stops. For example, $L(THT) = 3$ and $L(TTT) = 0$. Determine the mean value of $L(C)$ over all possible initial configurations $2^n$.
 
-[[src_imo_2019__Q05]]
+[[Quesiti/src_imo_2019#q05|src_imo_2019__Q05]]
 
 
 
@@ -193,4 +193,4 @@ level: IMO
 > 
 > Show that the lines $DI$ and $PQ$ meet on the straight line passing by $A$ perpendicular to $AI$.
 
-[[src_imo_2019__Q06]]
+[[Quesiti/src_imo_2019#q06|src_imo_2019__Q06]]

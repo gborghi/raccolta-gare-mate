@@ -27,7 +27,7 @@ level: Olympiades Première
 > 
 > **(b)** How should $n$ be chosen so that, this time, $1 + 12 = 2$? Draw a corresponding clock.
 
-![[src_oprem_2025__Q01.png]]
+![[src_oprem_2025__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -51,9 +51,9 @@ level: Olympiades Première
 > 
 > **(b) ** Come si deve scegliere $n$ in modo che, questa volta, $1 + 12 = 2$? Disegna un orologio corrispondente.
 
-![[src_oprem_2025__Q01.png]]
+![[src_oprem_2025__q01.png]]
 
-[[src_oprem_2025__Q01]]
+[[Quesiti/src_oprem_2025#q01|src_oprem_2025__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: Olympiades Première
 > 
 > **(b) ** "Il municipio respinge la richiesta di cancellazione presentata dall'associazione *Organisons le premier Championnat de vitesse d'escargots*, invocando il decreto municipale che proibisce tale rimozione" - sostituire queste due o tre frasi con frasi semplici e chiare che mostrino che avete capito.
 
-[[src_oprem_2025__Q02]]
+[[Quesiti/src_oprem_2025#q02|src_oprem_2025__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: Olympiades Première
 > 
 > **3. And to do mathematics is not what does us harm.** A champagne coupe has a conical shape. Several identical coupes are filled, each up to half of its height $h$. How many coupes can be filled in this way?
 
-![[src_oprem_2025__Q03.png]]
+![[src_oprem_2025__q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -123,9 +123,9 @@ level: Olympiades Première
 > 
 > **3. E fare matematica non è ciò che ci danneggia.** Una coppa di champagne ha una forma conica. Sono riempiti diversi cupetti identici, ognuno fino alla metà della sua altezza $h$. Quanti cuponi si possono riempire in questo modo?
 
-![[src_oprem_2025__Q03.png]]
+![[src_oprem_2025__q03.png]]
 
-[[src_oprem_2025__Q03]]
+[[Quesiti/src_oprem_2025#q03|src_oprem_2025__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: Olympiades Première
 > 
 > **4. Or rather, a little.** A glass is formed by a hemisphere (represented opposite in cross-section by a semicircle for the drawing). The glass is filled up to half of its height $h$. What is the maximum angle of inclination at which one can tilt the glass without spilling the liquid?
 
-![[src_oprem_2025__Q04.png]]
+![[src_oprem_2025__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -158,9 +158,9 @@ level: Olympiades Première
 > 
 > **4. O meglio, un po'.** Un vetro è formato da un emisfero (representato di fronte in sezione trasversale da un semicircolo per il disegno). Il vetro è riempito fino alla metà della sua altezza $h$. Qual è l'angolo massimo di inclinazione a cui si può inclinare il vetro senza versare il liquido?
 
-![[src_oprem_2025__Q04.png]]
+![[src_oprem_2025__q04.png]]
 
-[[src_oprem_2025__Q04]]
+[[Quesiti/src_oprem_2025#q04|src_oprem_2025__Q04]]
 
 
 
@@ -199,7 +199,7 @@ level: Olympiades Première
 > 
 > **(b) ** Il gruppo riceve un sussidio di Stato di 1000 euro. Quanto pagherà ciascuno quando verranno solo 90 persone? Quando verranno 120 persone? E quante persone devono venire esattamente per far sì che il prezzo pagato sia minimo?
 
-[[src_oprem_2025__Q05]]
+[[Quesiti/src_oprem_2025#q05|src_oprem_2025__Q05]]
 
 
 
@@ -214,7 +214,7 @@ level: Olympiades Première
 > 
 > **6. And to take a dessert.** Consider a portion of tart represented by an angular sector having the shape of a quarter of a disc (angular opening $\frac{\pi}{2}$). One wishes to divide it into two equal parts. But in an original way: by cutting it not along the angular bisector, but along the axis of symmetry, so that the area of the right piece would equal the area of the left piece. Where should the cut be made? (One will introduce all the variables necessary to solve the problem.)
 
-![[src_oprem_2025__Q06.png]]
+![[src_oprem_2025__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -232,9 +232,9 @@ level: Olympiades Première
 > 
 > **6. E per fare un dolce.** Si consideri una porzione di tart rappresentata da un settore angolare con forma di un quarto di disco (apertura angolare $\frac{\pi}{2}$). Uno desidera dividerla in due parti uguali. Ma in un modo originale: tagliando non lungo il bisettore angolare, ma lungo l'asse di simmetria, in modo che l'area del pezzo destro fosse uguale all'area del pezzo sinistro. Dove dovrebbe essere fatto il taglio? (Si introdurranno tutte le variabili necessarie per risolvere il problema.)
 
-![[src_oprem_2025__Q06.png]]
+![[src_oprem_2025__q06.png]]
 
-[[src_oprem_2025__Q06]]
+[[Quesiti/src_oprem_2025#q06|src_oprem_2025__Q06]]
 
 
 
@@ -249,7 +249,7 @@ level: Olympiades Première
 > 
 > **7. 3D Pythagoras (de Gua's theorem).** Show that, in a trirectangular tetrahedron (three right angles at one vertex), that is to say a corner of a rectangular parallelepiped, the square of the area of the oblique face equals the sum of the squares of the areas of the three other faces.
 
-![[src_oprem_2025__Q07.png]]
+![[src_oprem_2025__q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -267,9 +267,9 @@ level: Olympiades Première
 > 
 > **7. 3D Pitagora (teorema di de Gua).** Mostrare che, in un tetraedro tri rettangolare (tre angoli rettangolari ad un vertex), cioè un angolo di parallelepiped rectangulare, il quadrato dell'area della faccia obliqua è uguale alla somma dei quadrati delle aree delle altre tre facce.
 
-![[src_oprem_2025__Q07.png]]
+![[src_oprem_2025__q07.png]]
 
-[[src_oprem_2025__Q07]]
+[[Quesiti/src_oprem_2025#q07|src_oprem_2025__Q07]]
 
 
 
@@ -335,7 +335,7 @@ level: Olympiades Première
 > **(c) ** Mostra che 204 è un numero bilanciato di equilibrio 84.
 
 **Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
-[[src_oprem_2025__Q08]]
+[[Quesiti/src_oprem_2025#q08|src_oprem_2025__Q08]]
 
 
 
@@ -380,7 +380,7 @@ level: Olympiades Première
 > **(c) ** Concludi che $n$ è un numero equilibrato se e solo se $8n^2 + 1$ è un quadrato perfetto.
 
 **Risposta:** n is balanced iff 8n^2+1 is a perfect square
-[[src_oprem_2025__Q09]]
+[[Quesiti/src_oprem_2025#q09|src_oprem_2025__Q09]]
 
 
 
@@ -447,7 +447,7 @@ level: Olympiades Première
 > **(f) ** Calcolare $u_2$. Se si ammette che gli unici numeri bilanciati strettamente inferiori a 36 sono 6 e 35, si deduce che se $n > u_2$ allora esiste un intero $m \ge 2$ tale che $u_m < n < u_{m+1}$. Conclusione.
 
 **Risposta:** u_2=35
-[[src_oprem_2025__Q10]]
+[[Quesiti/src_oprem_2025#q10|src_oprem_2025__Q10]]
 
 
 
@@ -500,7 +500,7 @@ level: Olympiades Première
 > 
 > **(c) ** Scrivere una funzione `equilibrio(n) ` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo `True` se $n$ è un numero equilibrato e `False` altrimenti (si può usare l'approccio della domanda 4a o della domanda 4b, spiegando tuttavia quale metodo è ragionevolmente utilizzabile sul computer).
 
-[[src_oprem_2025__Q11]]
+[[Quesiti/src_oprem_2025#q11|src_oprem_2025__Q11]]
 
 
 
@@ -531,7 +531,7 @@ level: Olympiades Première
 > 
 > **5. Generare i numeri bilanciati nel linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo l'elenco dei numeri bilanciati inferiori o uguali a $n$. Ricorda che `[]` è la lista vuota e che, data una lista `L` e un numero intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L` inserendolo alla fine.
 
-[[src_oprem_2025__Q12]]
+[[Quesiti/src_oprem_2025#q12|src_oprem_2025__Q12]]
 
 
 
@@ -606,7 +606,7 @@ level: Olympiades Première
 > **(c) ** Mostra che 204 è un numero bilanciato di equilibrio 84.
 
 **Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
-[[src_oprem_2025__Q13]]
+[[Quesiti/src_oprem_2025#q13|src_oprem_2025__Q13]]
 
 
 
@@ -651,7 +651,7 @@ level: Olympiades Première
 > **(c) ** Concludi che $n$ è un numero equilibrato se e solo se $8n^2 + 1$ è un quadrato perfetto.
 
 **Risposta:** n is balanced iff 8n^2+1 is a perfect square
-[[src_oprem_2025__Q14]]
+[[Quesiti/src_oprem_2025#q14|src_oprem_2025__Q14]]
 
 
 
@@ -699,7 +699,7 @@ level: Olympiades Première
 > 
 > **(c) ** Mostra che $(u_k)_{k \ge 1}$ è una sequenza di numeri bilanciati in stretta crescita.
 
-[[src_oprem_2025__Q15]]
+[[Quesiti/src_oprem_2025#q15|src_oprem_2025__Q15]]
 
 
 
@@ -730,4 +730,4 @@ level: Olympiades Première
 > 
 > **6. Generare i numeri bilanciati nel linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo l'elenco dei numeri bilanciati inferiori o uguali a $n$. Ricorda che `[]` è la lista vuota e che, data una lista `L` e un numero intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L` inserendolo alla fine. Si utilizzerà l'istruzione `sqrt() ` per codificare la funzione di radice quadrata.
 
-[[src_oprem_2025__Q16]]
+[[Quesiti/src_oprem_2025#q16|src_oprem_2025__Q16]]

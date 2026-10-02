@@ -43,7 +43,7 @@ level: BMO Round 2
 > Trova $\dfrac{p}{q}$ in termini di $n$.
 
 **Risposta:** $2^n$
-[[src_bmo_2000-01_round2__Q01]]
+[[Quesiti/src_bmo_2000-01_round2#q01|src_bmo_2000-01_round2__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: BMO Round 2
 
 > Trova tutte le coppie di integri $(x, y)$ soddisfacenti $$1 + x^2 y = x^2 + 2xy + y.$$
 
-[[src_bmo_2000-01_round2__Q02]]
+[[Quesiti/src_bmo_2000-01_round2#q02|src_bmo_2000-01_round2__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: BMO Round 2
 > 
 > Mostra che $\angle BAD = \angle FDC$.
 
-[[src_bmo_2000-01_round2__Q03]]
+[[Quesiti/src_bmo_2000-01_round2#q03|src_bmo_2000-01_round2__Q03]]
 
 
 
@@ -137,4 +137,4 @@ level: BMO Round 2
 > 
 > Trova (con prova) i valori massimi e minimi possibili di $V$.
 
-[[src_bmo_2000-01_round2__Q04]]
+[[Quesiti/src_bmo_2000-01_round2#q04|src_bmo_2000-01_round2__Q04]]

@@ -37,7 +37,7 @@ level: kangourou
 
 > Look at the figure. Mara and Bruna are at the two ends of the indicated path: what distance must Mara travel to reach Bruna? A) 300 m B) 400 m C) 800 m D) 1 km	            E) 700 m
 
-[[src_kangourou_2013_benjamin__Q01]]
+[[Quesiti/src_kangourou_2013_benjamin#q01|src_kangourou_2013_benjamin__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: kangourou
 
 > Nicholas is learning to drive: for now he can bend to the right, but he is not yet able to bend to the left. Now, with his car, he's at point A on the map and he's going to get to point B in the direction and direction the arrow points. What is the minimum number of curves (all on the right) that will allow them to get to B? A) 3 B) 4 C) 6 D) 8 E) 10
 
-[[src_kangourou_2013_benjamin__Q02]]
+[[Quesiti/src_kangourou_2013_benjamin#q02|src_kangourou_2013_benjamin__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: kangourou
 >         	
 > D) 37 E) 40
 
-[[src_kangourou_2013_benjamin__Q03]]
+[[Quesiti/src_kangourou_2013_benjamin#q03|src_kangourou_2013_benjamin__Q03]]
 
 
 
@@ -159,7 +159,7 @@ level: kangourou
 >       	
 > E) 9
 
-[[src_kangourou_2013_benjamin__Q04]]
+[[Quesiti/src_kangourou_2013_benjamin#q04|src_kangourou_2013_benjamin__Q04]]
 
 
 
@@ -203,7 +203,7 @@ level: kangourou
 > (E) 8 Brown
 >
 
-[[src_kangourou_2013_benjamin__Q05]]
+[[Quesiti/src_kangourou_2013_benjamin#q05|src_kangourou_2013_benjamin__Q05]]
 
 
 
@@ -248,7 +248,7 @@ level: kangourou
 > (b) OKLMN C) OMLKN D) OMLNK E) OMKLN
 
 **Answer:** E
-[[src_kangourou_2013_benjamin__Q06]]
+[[Quesiti/src_kangourou_2013_benjamin#q06|src_kangourou_2013_benjamin__Q06]]
 
 
 
@@ -282,7 +282,7 @@ level: kangourou
 > To heal himself, Michele must take pills, each one (from the second to the next) a quarter of an hour away from the previous one. He took the first one at 11:05. What time did you get the fourth? A) 11:40 B) 11:50 C) 11:55 D) 12:00	            	 E) 12:05
 
 **Answer:** B
-[[src_kangourou_2013_benjamin__Q07]]
+[[Quesiti/src_kangourou_2013_benjamin#q07|src_kangourou_2013_benjamin__Q07]]
 
 
 
@@ -328,7 +328,7 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2013_benjamin__Q08]]
+[[Quesiti/src_kangourou_2013_benjamin#q08|src_kangourou_2013_benjamin__Q08]]
 
 
 
@@ -382,7 +382,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q09]]
+[[Quesiti/src_kangourou_2013_benjamin#q09|src_kangourou_2013_benjamin__Q09]]
 
 
 
@@ -421,7 +421,7 @@ level: kangourou
 > 
 > The questions from N. 11 al N. 20 is worth 4 points each.
 
-[[src_kangourou_2013_benjamin__Q10]]
+[[Quesiti/src_kangourou_2013_benjamin#q10|src_kangourou_2013_benjamin__Q10]]
 
 
 
@@ -501,7 +501,7 @@ level: kangourou
 > Notice the figure: By drawing two circles, Stephen delimits three different regions. What is the maximum number of different regions that you can delimit by drawing two squares? A) 3 B) 5 C) 7 D) 9	           E) 12
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q11]]
+[[Quesiti/src_kangourou_2013_benjamin#q11|src_kangourou_2013_benjamin__Q11]]
 
 
 
@@ -549,7 +549,7 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[src_kangourou_2013_benjamin__Q12]]
+[[Quesiti/src_kangourou_2013_benjamin#q12|src_kangourou_2013_benjamin__Q12]]
 
 
 
@@ -600,7 +600,7 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2013_benjamin__Q13]]
+[[Quesiti/src_kangourou_2013_benjamin#q13|src_kangourou_2013_benjamin__Q13]]
 
 
 
@@ -643,7 +643,7 @@ level: kangourou
 > E) 3
 
 **Answer:** B
-[[src_kangourou_2013_benjamin__Q14]]
+[[Quesiti/src_kangourou_2013_benjamin#q14|src_kangourou_2013_benjamin__Q14]]
 
 
 
@@ -691,7 +691,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q15]]
+[[Quesiti/src_kangourou_2013_benjamin#q15|src_kangourou_2013_benjamin__Q15]]
 
 
 
@@ -740,7 +740,7 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2013_benjamin__Q16]]
+[[Quesiti/src_kangourou_2013_benjamin#q16|src_kangourou_2013_benjamin__Q16]]
 
 
 
@@ -781,7 +781,7 @@ level: kangourou
 > D) 60 E) 10
 
 **Answer:** A
-[[src_kangourou_2013_benjamin__Q17]]
+[[Quesiti/src_kangourou_2013_benjamin#q17|src_kangourou_2013_benjamin__Q17]]
 
 
 
@@ -819,7 +819,7 @@ level: kangourou
 > In each cell of a grid 4 × 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ from 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers do you see in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
-[[src_kangourou_2013_benjamin__Q18]]
+[[Quesiti/src_kangourou_2013_benjamin#q18|src_kangourou_2013_benjamin__Q18]]
 
 
 
@@ -863,7 +863,7 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2013_benjamin__Q19]]
+[[Quesiti/src_kangourou_2013_benjamin#q19|src_kangourou_2013_benjamin__Q19]]
 
 
 
@@ -936,7 +936,7 @@ level: kangourou
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2013_benjamin__Q20]]
+[[Quesiti/src_kangourou_2013_benjamin#q20|src_kangourou_2013_benjamin__Q20]]
 
 
 
@@ -980,7 +980,7 @@ Logic with lies about the colours of the beans
 > C) Carlo's beak is red. D) Andrew's and Charles' balls are of a different colour. E) None of the above statements are true.
 
 **Answer:** A
-[[src_kangourou_2013_benjamin__Q21]]
+[[Quesiti/src_kangourou_2013_benjamin#q21|src_kangourou_2013_benjamin__Q21]]
 
 
 
@@ -1036,7 +1036,7 @@ Logic with lies about the colours of the beans
 > E) 16
 
 **Answer:** B
-[[src_kangourou_2013_benjamin__Q22]]
+[[Quesiti/src_kangourou_2013_benjamin#q22|src_kangourou_2013_benjamin__Q22]]
 
 
 
@@ -1076,7 +1076,7 @@ Logic with lies about the colours of the beans
 > D) 14.               	 E) 27.
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q23]]
+[[Quesiti/src_kangourou_2013_benjamin#q23|src_kangourou_2013_benjamin__Q23]]
 
 
 
@@ -1121,7 +1121,7 @@ Logic with lies about the colours of the beans
 > D) 4 E) 5
 
 **Answer:** B
-[[src_kangourou_2013_benjamin__Q24]]
+[[Quesiti/src_kangourou_2013_benjamin#q24|src_kangourou_2013_benjamin__Q24]]
 
 
 
@@ -1167,7 +1167,7 @@ Boys giving left hand to a girl in a circle
 >
 
 **Answer:** A
-[[src_kangourou_2013_benjamin__Q25]]
+[[Quesiti/src_kangourou_2013_benjamin#q25|src_kangourou_2013_benjamin__Q25]]
 
 
 
@@ -1222,7 +1222,7 @@ Boys giving left hand to a girl in a circle
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2013_benjamin__Q26]]
+[[Quesiti/src_kangourou_2013_benjamin#q26|src_kangourou_2013_benjamin__Q26]]
 
 
 
@@ -1273,7 +1273,7 @@ Boys giving left hand to a girl in a circle
 > E) 2013
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q27]]
+[[Quesiti/src_kangourou_2013_benjamin#q27|src_kangourou_2013_benjamin__Q27]]
 
 
 
@@ -1318,7 +1318,7 @@ Boys giving left hand to a girl in a circle
 > D) 60 E) 70
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q28]]
+[[Quesiti/src_kangourou_2013_benjamin#q28|src_kangourou_2013_benjamin__Q28]]
 
 
 
@@ -1361,7 +1361,7 @@ Boys giving left hand to a girl in a circle
 > Alice has four identical cubes, on each face of which a number is shown. A development of each of the cubes is shown in the upper left figure. Alice glues the four cubes to the solid 2×2×1 shown in the figure to the left below, warning that two faces can only match if the numbers shown on them are equal. Finally, Alice calculates the sum of the numbers on the visible faces of the solid. What's the highest amount you can get? A) 64 B) 56 C) 80 	            D) 70 E) 68
 
 **Answer:** E
-[[src_kangourou_2013_benjamin__Q29]]
+[[Quesiti/src_kangourou_2013_benjamin#q29|src_kangourou_2013_benjamin__Q29]]
 
 
 
@@ -1413,4 +1413,4 @@ Boys giving left hand to a girl in a circle
 > I'm not going to lie to you.
 
 **Answer:** D
-[[src_kangourou_2013_benjamin__Q30]]
+[[Quesiti/src_kangourou_2013_benjamin#q30|src_kangourou_2013_benjamin__Q30]]

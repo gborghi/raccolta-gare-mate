@@ -33,7 +33,7 @@ level: IMO
 
 > Let $\Gamma$ be the circumcircle of acute triangle $ABC$. Points $D$ and $E$ lie on segments $AB$ and $AC$ respectively such that $AD = AE$. The perpendicular bisectors of $BD$ and $CE$ intersect minor arcs $AB$ and $AC$ of $\Gamma$ at points $F$ and $G$ respectively. Prove that lines $DE$ and $FG$ are either parallel or they are the same line.
 
-[[src_imo_2018__Q01]]
+[[Quesiti/src_imo_2018#q01|src_imo_2018__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: IMO
 
 > Find all integers $n \geq 3$ for which there exist real numbers $a_1, a_2, \ldots, a_{n+2}$ satisfying $a_{n+1} = a_1$, $a_{n+2} = a_2$ and $$a_i a_{i+1} + 1 = a_{i+2}$$ for $i = 1, 2, \ldots, n$.
 
-[[src_imo_2018__Q02]]
+[[Quesiti/src_imo_2018#q02|src_imo_2018__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: IMO
 
 > An anti-Pascal triangle is an equilateral triangular array of numbers such that, except for the numbers in the bottom row, each number is the absolute value of the difference of the two numbers immediately below it. For example, the following is an anti-Pascal triangle with four rows which contains every integer from $1$ to $10$: $$4$$ $$2 \quad 6$$ $$5 \quad 7 \quad 1$$ $$8 \quad 3 \quad 10 \quad 9$$ Does there exist an anti-Pascal triangle with $2018$ rows which contains every integer from $1$ to $1 + 2 + \cdots + 2018$?
 
-[[src_imo_2018__Q03]]
+[[Quesiti/src_imo_2018#q03|src_imo_2018__Q03]]
 
 
 
@@ -121,7 +121,7 @@ Maximum K red stones of Amy (play)
 
 > A site is any point $(x, y)$ in the plane such that $x$ and $y$ are both positive integers less than or equal to $20$. Initially, each of the $400$ sites is unoccupied. Amy and Ben take turns placing stones with Amy going first. On each move, Amy places a new red stone on an unoccupied site such that the distance between any two sites occupied by red stones is not equal to $\sqrt{5}$. On each move, Ben places a new blue stone on any unoccupied site. They stop as soon as someone can't move. Find the greatest $K$ such that Amy can always place at least $K$ red stones, no matter how Ben plays.
 
-[[src_imo_2018__Q04]]
+[[Quesiti/src_imo_2018#q04|src_imo_2018__Q04]]
 
 
 
@@ -175,7 +175,7 @@ Maximum K red stones of Amy (play)
 
 > On his turn, Ben places a new blue stone on any unoccupied site. (A site occupied by a blue stone is allowed to be at any distance from any other occupied site.) Find the greatest K such that Amy can ensure that she places at least K red stones, no matter how Ben places his blue stones. Problem five. Let a1, a2, . . . be an infinite sequence of positive integers. Suppose that there is an integer N > 1 such that, for each n ≥N, the number a1 a2 + a2 a3 + · · + an−1 an + an a1 is an integer. Prove that there is a positive integer M such that am = am+1 for all m ≥M. Problem number six. A convex quadrilateral ABCD satisfies AB · CD = BC · DA. Point X lies inside ABCD so that XAB = XCD and XBC = XDA. Prove that BXA + DXC = 180°. Language: English Time: 4 hours and 30 minutes Each problem is worth 7 points English (eng), day 2
 
-[[src_imo_2018__Q05]]
+[[Quesiti/src_imo_2018#q05|src_imo_2018__Q05]]
 
 
 
@@ -204,4 +204,4 @@ Maximum K red stones of Amy (play)
 
 > A convex quadrilateral $ABCD$ satisfies $AB \cdot CD = BC \cdot DA$. Point $X$ lies inside $ABCD$ so that $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$ Prove that $\angle BXA + \angle DXC = 180°$.
 
-[[src_imo_2018__Q06]]
+[[Quesiti/src_imo_2018#q06|src_imo_2018__Q06]]

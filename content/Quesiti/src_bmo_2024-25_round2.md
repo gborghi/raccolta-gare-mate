@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > [Un *numero triangolare* è una delle forme $\frac{k(k+1)}{2}$ per un intero positivo $k$.]
 
-[[src_bmo_2024-25_round2__Q01]]
+[[Quesiti/src_bmo_2024-25_round2#q01|src_bmo_2024-25_round2__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 2
 > 
 > Provare che $D$ si trova sul cerchio $AQP$.
 
-[[src_bmo_2024-25_round2__Q02]]
+[[Quesiti/src_bmo_2024-25_round2#q02|src_bmo_2024-25_round2__Q02]]
 
 
 
@@ -99,7 +99,7 @@ I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
 > 
 > In termini di $n$, qual è il maggior numero di swap che Elijah potrebbe aver bisogno?
 
-[[src_bmo_2024-25_round2__Q03]]
+[[Quesiti/src_bmo_2024-25_round2#q03|src_bmo_2024-25_round2__Q03]]
 
 
 
@@ -128,4 +128,4 @@ I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
 
 > Quante diverse sequenze di integri positivi soddisfano $u_1 = 1$ e $$u_{n+1} = \frac{(u_n^2 + u_n + 1)^{2025}}{u_{n-1}}$$ per tutti $n \ge 2$?
 
-[[src_bmo_2024-25_round2__Q04]]
+[[Quesiti/src_bmo_2024-25_round2#q04|src_bmo_2024-25_round2__Q04]]

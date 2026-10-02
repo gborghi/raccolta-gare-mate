@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Ogni diagonale di un poligono regolare con lati $2014$ è colorata in uno dei colori $n$. Ogni volta che due diagonali si incrociano all'interno, sono di colori diversi. Qual è il valore minimo di $n$ per il quale questo è possibile?
 
-[[src_bmo_2013-14_round2__Q01]]
+[[Quesiti/src_bmo_2013-14_round2#q01|src_bmo_2013-14_round2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 2
 > 
 > Il perimetro di un cuboide è la somma delle lunghezze di tutti i suoi dodici bordi.
 
-[[src_bmo_2013-14_round2__Q02]]
+[[Quesiti/src_bmo_2013-14_round2#q02|src_bmo_2013-14_round2__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 2
 > 
 > b) dimostrare che ci sono infinitamente molti numeri primi che non dividono alcun termine della sequenza.
 
-[[src_bmo_2013-14_round2__Q03]]
+[[Quesiti/src_bmo_2013-14_round2#q03|src_bmo_2013-14_round2__Q03]]
 
 
 
@@ -138,4 +138,4 @@ level: BMO Round 2
 > 
 > Prove che le linee $O_A O_{A'}$, $O_B O_{B'}$ e $O_C O_{C'}$ sono simultanee.
 
-[[src_bmo_2013-14_round2__Q04]]
+[[Quesiti/src_bmo_2013-14_round2#q04|src_bmo_2013-14_round2__Q04]]

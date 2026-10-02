@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > (Parte A) Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono reali. Esmeralda commette un errore e risolve l'equazione $bx = a$, ottenendo una soluzione pari alla soluzione corretta meno $60$. Se la soluzione corretta è della forma $m + \sqrt{n}$ con $m$ e $n$ integri, qual è il valore di $m + n$?
 
-[[src_obm_2015_n3_f2__Q01]]
+[[Quesiti/src_obm_2015_n3_f2#q01|src_obm_2015_n3_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > (Parte A) Due cerchi $C_1$ e $C_2$ si intersecano ai punti $A$ e $B$. La tangente di $C_1$ a $A$ taglia di nuovo $C_2$ al punto $P$, e la tangente di $C_2$ a $A$ taglia di nuovo $C_1$ al punto $Q$. Sapendo che $PB \cdot QB = 640$ e $QB \cdot AB = 1000$, determinare la lunghezza del segmento $AB$.
 
-[[src_obm_2015_n3_f2__Q02]]
+[[Quesiti/src_obm_2015_n3_f2#q02|src_obm_2015_n3_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 3
 
 > (Parte A) Tre punti $A$, $B$ e $C$ sono contrassegnati sul confine di un cerchio in modo tale che $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ e $m(\widehat{ACB}) = 40^\circ$. Un punto $X$ viene scelto a caso all'interno del cerchio. La probabilità che, tra $A$, $B$ o $C$, il punto $X$ sia più vicino a $B$ è $\frac{p}{q}$, dove $p$ e $q$ sono integri coprimi. Quanto è $p \cdot q$?
 
-[[src_obm_2015_n3_f2__Q03]]
+[[Quesiti/src_obm_2015_n3_f2#q03|src_obm_2015_n3_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 3
 
 > (Parte A) Un sottogruppo di $5$ elementi dell'insieme $\{1, 2, 3, \ldots, 20\}$ è chiamato $largo$ (grande) se, quando scriviamo i suoi elementi in ordine crescente, hanno la proprietà che la differenza tra il secondo e il primo elemento è maggiore di $1$, la differenza tra il terzo e il secondo è maggiore di $2$, la differenza tra il quarto e il terzo è maggiore di $3$, e la differenza tra il quinto e il quarto è maggiore di $4$. Quanti grandi sottoinsiemi ci sono?
 
-[[src_obm_2015_n3_f2__Q04]]
+[[Quesiti/src_obm_2015_n3_f2#q04|src_obm_2015_n3_f2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível 3
 
 > (Parte A) Lasciate che $f$ e $g$ siano funzioni dai numeri interi non negativi ai numeri interi non negativi in modo tale che $f(0) = g(0) = 0$, e (equazioni funzionali relative a $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$, e $x$) siano valide per ogni numero intero non negativo $x$. Quanti valori di $n$ con $0 \le n \le 2015$ soddisfano $f(n) = 0$?
 
-[[src_obm_2015_n3_f2__Q05]]
+[[Quesiti/src_obm_2015_n3_f2#q05|src_obm_2015_n3_f2__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: OBM Nível 3
 
 > (Parte A) I numeri reali $a$, $b$ e $c$ soddisfano le equazioni $\frac{1}{ab} = b + 2c$, $\frac{1}{bc} = 2c + 3a$, $\frac{1}{ca} = 3a + b$. Abbiamo $(a + b + c)^3 = \frac{p}{q}$, con $p$ e $q$ integri copri e $q > 0$. Calcolare $p + q$.
 
-[[src_obm_2015_n3_f2__Q06]]
+[[Quesiti/src_obm_2015_n3_f2#q06|src_obm_2015_n3_f2__Q06]]
 
 
 
@@ -195,7 +195,7 @@ level: OBM Nível 3
 
 > (Parte B) Considerate una tabella $2015 \times 37$, dipinta come una scacchiera. Ogni riga e colonna hanno un pulsante che inverte il colore di ogni cella della riga o colonna corrispondente, per un totale di pulsanti $2015 + 37 = 2052$. Quanti colori diversi si possono ottenere sulla lavagna?
 
-[[src_obm_2015_n3_f2__Q07]]
+[[Quesiti/src_obm_2015_n3_f2#q07|src_obm_2015_n3_f2__Q07]]
 
 
 
@@ -222,7 +222,7 @@ level: OBM Nível 3
 
 > (Parte B) Che $ABCD$ sia un parallelo con $AB = 8$ e $BC = 4$. Il cerchio $\Gamma$ passa attraverso $A$, $C$ e attraverso il punto medio $M$ di $BC$, e taglia il lato $CD$ al punto $P \ne C$. È noto che $AD$ è tangente a $\Gamma$. Calcolare la misura del segmento $MP$.
 
-[[src_obm_2015_n3_f2__Q08]]
+[[Quesiti/src_obm_2015_n3_f2#q08|src_obm_2015_n3_f2__Q08]]
 
 
 
@@ -249,4 +249,4 @@ level: OBM Nível 3
 
 > (Parte B) Qual è il più piccolo intero $a > 1$ per il quale esiste un intero positivo $n$ tale che $a^{2^n} - 1$ sia un multiple di $2015$?
 
-[[src_obm_2015_n3_f2__Q09]]
+[[Quesiti/src_obm_2015_n3_f2#q09|src_obm_2015_n3_f2__Q09]]

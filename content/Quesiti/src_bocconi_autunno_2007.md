@@ -36,7 +36,7 @@ This is Jacob's birthday.
 > Next January Jacob will be able to say, "The day after tomorrow will be exactly one week after my birthday". On what day does Jacob turn 10?
 
 **Answer:** 28 dicembre
-[[src_bocconi_autunno_2007__Q01]]
+[[Quesiti/src_bocconi_autunno_2007#q01|src_bocconi_autunno_2007__Q01]]
 
 
 
@@ -50,7 +50,7 @@ This is Jacob's birthday.
 > Sara, che non sa usare ancora bene la sua nuova stilografica, ha purtroppo macchiato il quaderno di aritmetica. Le macchie sono però strane: anche se di forma diversa, nascondono sempre la stessa cifra. Quale?
 > $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
 
-![[src_bocconi_autunno_2007__Q02.png]]
+![[src_bocconi_autunno_2007__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -67,10 +67,10 @@ This is Jacob's birthday.
 
 > Sara, who still can't use her new stylography well, unfortunately stained the arithmetic book. But the spots are strange: although they are different in shape, they always hide the same figure. What kind? $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
 
-![[src_bocconi_autunno_2007__Q02.png]]
+![[src_bocconi_autunno_2007__q02.png]]
 
 **Answer:** 8
-[[src_bocconi_autunno_2007__Q02]]
+[[Quesiti/src_bocconi_autunno_2007#q02|src_bocconi_autunno_2007__Q02]]
 
 
 
@@ -83,7 +83,7 @@ This is Jacob's birthday.
 
 > Quanti cubetti sono occorsi per costruire la piramide del disegno? Tenete presente che ogni piano della piramide è un quadrato e che, in ogni piano, i cubetti sono disposti solo lungo i bordi (in mezzo c'è un «buco»).
 
-![[src_bocconi_autunno_2007__Q03.png]]
+![[src_bocconi_autunno_2007__q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -100,10 +100,10 @@ This is Jacob's birthday.
 
 > How many cubes did it take to build the drawing pyramid? Keep in mind that each plane of the pyramid is a square and that, in each plane, the cubes are arranged only along the edges (in the middle there is a buck).
 
-![[src_bocconi_autunno_2007__Q03.png]]
+![[src_bocconi_autunno_2007__q03.png]]
 
 **Answer:** 41
-[[src_bocconi_autunno_2007__Q03]]
+[[Quesiti/src_bocconi_autunno_2007#q03|src_bocconi_autunno_2007__Q03]]
 
 
 
@@ -116,7 +116,7 @@ This is Jacob's birthday.
 
 > Questo puzzle è formato da due soli pezzi sovrapponibili. Disegna il contorno di questi due pezzi, sapendo che uno potrebbe essere stato ribaltato. (Per aiutarti, un primo tratto del contorno di separazione tra i due pezzi è stato già tracciato.)
 
-![[src_bocconi_autunno_2007__Q04.png]]
+![[src_bocconi_autunno_2007__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -133,10 +133,10 @@ This is Jacob's birthday.
 
 > This puzzle is made up of only two pieces that can be overlaid. Draw the outline of these two pieces, knowing that one may have been overturned. (To help you, a first line of the boundary between the two pieces has already been drawn.)
 
-![[src_bocconi_autunno_2007__Q04.png]]
+![[src_bocconi_autunno_2007__q04.png]]
 
 **Answer:** La linea evidenziata nella soluzione mostra come deve essere suddivisa la figura
-[[src_bocconi_autunno_2007__Q04]]
+[[Quesiti/src_bocconi_autunno_2007#q04|src_bocconi_autunno_2007__Q04]]
 
 
 
@@ -166,7 +166,7 @@ This is Jacob's birthday.
 > Every morning, Luke wakes up at 6:48 a.m. and wakes up five minutes later. They then take a quarter of an hour to eat breakfast, 18 minutes to wash and dress, and 6 minutes to carefully check the contents of the folder. Then take one minute to greet your mother with affection and three minutes to get to the bus stop. Wait for him for two minutes. The bus leaves him outside the school a quarter of an hour later. At this point, he still has five minutes left to chat with his companions before the bell rings. What time exactly is the bell ringing at Luke's school?
 
 **Answer:** 7,58
-[[src_bocconi_autunno_2007__Q05]]
+[[Quesiti/src_bocconi_autunno_2007#q05|src_bocconi_autunno_2007__Q05]]
 
 
 
@@ -179,7 +179,7 @@ This is Jacob's birthday.
 
 > Quale numero dovete scrivere nella casella in alto a sinistra perché le quattro operazioni indicate (eseguite nell'ordine, a partire dalla freccia orizzontale in alto) siano giuste?
 
-![[src_bocconi_autunno_2007__Q06.png]]
+![[src_bocconi_autunno_2007__q06.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -196,10 +196,10 @@ This is Jacob's birthday.
 
 > What number do you have to write in the box at the top left so that the four operations indicated (executed in order, starting from the horizontal arrow at the top) are correct?
 
-![[src_bocconi_autunno_2007__Q06.png]]
+![[src_bocconi_autunno_2007__q06.png]]
 
 **Answer:** 441
-[[src_bocconi_autunno_2007__Q06]]
+[[Quesiti/src_bocconi_autunno_2007#q06|src_bocconi_autunno_2007__Q06]]
 
 
 
@@ -212,7 +212,7 @@ This is Jacob's birthday.
 
 > Quanti triangoli contiene la figura?
 
-![[src_bocconi_autunno_2007__Q07.png]]
+![[src_bocconi_autunno_2007__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -229,10 +229,10 @@ This is Jacob's birthday.
 
 > How many triangles does the figure contain?
 
-![[src_bocconi_autunno_2007__Q07.png]]
+![[src_bocconi_autunno_2007__q07.png]]
 
 **Answer:** 12
-[[src_bocconi_autunno_2007__Q07]]
+[[Quesiti/src_bocconi_autunno_2007#q07|src_bocconi_autunno_2007__Q07]]
 
 
 
@@ -262,7 +262,7 @@ This is Jacob's birthday.
 > Our four friends are Carla, Desiderio, Luca and Milena. Two of them wear glasses, two have a hat, and two are left-handed. The two friends, who use their right hand to write, have glasses and do not wear a hat. The leftists are a boy and a girl. Desire is left. What about Luke? Is that left? (Yes or no?) Does he wear the hat? Do you have glasses? (Yes or no?) Look for the right answers.
 
 **Answer:** Luca non è mancino, ha il cappellino, ha gli occhiali
-[[src_bocconi_autunno_2007__Q08]]
+[[Quesiti/src_bocconi_autunno_2007#q08|src_bocconi_autunno_2007__Q08]]
 
 
 
@@ -292,7 +292,7 @@ This is Jacob's birthday.
 > Nando loves playing with his friends. He won three on Monday. He won another MSK on Tuesday. On Wednesday, he won another$3 \times 3 \times 3$. And so on and so forth: every day of the week he wins more, three times as many as he had won the day before. So, on Saturday, he still wins $3 \times 3 \times 3 \times 3 \times 3$, coming up to 2008 figures. How many figures did he have on Monday before he won his first three figures?
 
 **Answer:** 916
-[[src_bocconi_autunno_2007__Q09]]
+[[Quesiti/src_bocconi_autunno_2007#q09|src_bocconi_autunno_2007__Q09]]
 
 
 
@@ -327,7 +327,7 @@ This is Jacob's birthday.
 > How many simultaneously true sentences are in the box? 1. The number of true sentences in this box is greater than 12. The number of true sentences contained in this box is greater than 2 3. The number of true sentences in this box is greater than 3 4. The number of true sentences in this box is greater than 4.5. The number of false sentences contained in this box is greater than 16. The number of false sentences contained in this box is greater than 0
 
 **Answer:** 5
-[[src_bocconi_autunno_2007__Q10]]
+[[Quesiti/src_bocconi_autunno_2007#q10|src_bocconi_autunno_2007__Q10]]
 
 
 
@@ -360,7 +360,7 @@ This is Jacob's birthday.
 > Quebec was founded in 1608 (in 2008 it will be exactly four hundred years). The square of 1608 is $2.585.664$. This number has considerable properties: it is a square; the sum of its digits is a square (36) and also the product of its digits is a square (5.760). Write a three-digit number greater than 200, with the same properties: • the square of an integer; • the sum of its digits is the square of an integer; • also the product of its digits is the square of a positive integer.
 
 **Answer:** uno tra 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
-[[src_bocconi_autunno_2007__Q11]]
+[[Quesiti/src_bocconi_autunno_2007#q11|src_bocconi_autunno_2007__Q11]]
 
 
 
@@ -392,7 +392,7 @@ This is Jacob's birthday.
 > We wrote the number formed by the alignment of all integers from 1 to 2008. In the line below, we've returned the number that we've got so, but we're writing the numbers in the reverse order. We then calculated the sum of these two numbers. $$1\,2\,3\,4\,5\,6\,7\,8\,9\,1\,0\,1\,1\,1\,2\,1\,3\,\ldots$$ $$8\,0\,0\,2\,7\,0\,0\,2\,6\,0\,0\,2\,5\,0\,0\,2\,4\,\ldots$$ What is the 200th digit and the 201th digit (left) of the sum?
 
 **Answer:** 2 e 1
-[[src_bocconi_autunno_2007__Q12]]
+[[Quesiti/src_bocconi_autunno_2007#q12|src_bocconi_autunno_2007__Q12]]
 
 
 
@@ -405,7 +405,7 @@ This is Jacob's birthday.
 
 > Quanti triangoli contiene la figura?
 
-![[src_bocconi_autunno_2007__Q13.png]]
+![[src_bocconi_autunno_2007__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -422,10 +422,10 @@ This is Jacob's birthday.
 
 > How many triangles does the figure contain?
 
-![[src_bocconi_autunno_2007__Q13.png]]
+![[src_bocconi_autunno_2007__q13.png]]
 
 **Answer:** 20
-[[src_bocconi_autunno_2007__Q13]]
+[[Quesiti/src_bocconi_autunno_2007#q13|src_bocconi_autunno_2007__Q13]]
 
 
 
@@ -439,7 +439,7 @@ This is Jacob's birthday.
 > Giochiamo su una scacchiera nelle cui caselle (vedi figura) sono scritti i prodotti delle moltiplicazioni: nella prima riga e la prima colonna i numeri da 1 a 9, e nella casella generica il prodotto $(r \times c)$ tra il suo numero di riga e quello di colonna. Si parte da $1$ ($1 \times 1$) e ci si sposta come un cavallo sulla scacchiera, alternando le due direzioni.
 > Quale numero corrisponde alla 49-esima casella visitata dal cavallo?
 
-![[src_bocconi_autunno_2007__Q14.png]]
+![[src_bocconi_autunno_2007__q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -456,10 +456,10 @@ This is Jacob's birthday.
 
 > We play on a chessboard in whose boxes (see figure) the product of multiplication is written: in the first row and first column the numbers from 1 to 9, and in the generic box the product $(r \times c)$ between its row number and that of the column. It starts at $1$ ($1 \times 1$) and moves like a horse on a chessboard, alternating the two directions. What number corresponds to the 49th box visited by the horse?
 
-![[src_bocconi_autunno_2007__Q14.png]]
+![[src_bocconi_autunno_2007__q14.png]]
 
 **Answer:** 7748
-[[src_bocconi_autunno_2007__Q14]]
+[[Quesiti/src_bocconi_autunno_2007#q14|src_bocconi_autunno_2007__Q14]]
 
 
 
@@ -489,7 +489,7 @@ This is Jacob's birthday.
 > The years 2007, 2008 and 2009 are three consecutive years squareddivisible: each of the three numbers is divisible by the square of an integer greater than 1 (2007 is divisible by 9, 2008 by 4 and 2009 by 49). What will be the next three consecutive years squared?
 
 **Answer:** 2023, 2024, 2025
-[[src_bocconi_autunno_2007__Q15]]
+[[Quesiti/src_bocconi_autunno_2007#q15|src_bocconi_autunno_2007__Q15]]
 
 
 
@@ -503,7 +503,7 @@ This is Jacob's birthday.
 > Sono su una spiaggia, a $2.269$ metri dal mare e $5$ metri sopra il livello del mare. La spiaggia scende verso il mare con pendenza costante. Io avanzo verso il mare alla velocità di $3,6$ km all'ora mentre il livello verticale del mare sale di 1 cm al secondo.
 > Quanti metri avrò percorso quando avrò raggiunto il mare? (Eventualmente, arrotondate al metro più vicino).
 
-![[src_bocconi_autunno_2007__Q16.png]]
+![[src_bocconi_autunno_2007__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -520,10 +520,10 @@ This is Jacob's birthday.
 
 > I'm on a beach, at $2.269$ meters from the sea and $5$ meters above sea level. The beach slopes down to the sea with a steady slope. I'm advancing towards the sea at $3,6$ km/h while the vertical sea level rises by 1 cm/s. How many meters will I have walked when I reach the sea? (If possible, round up to the nearest subway).
 
-![[src_bocconi_autunno_2007__Q16.png]]
+![[src_bocconi_autunno_2007__q16.png]]
 
 **Answer:** 2015 metri circa
-[[src_bocconi_autunno_2007__Q16]]
+[[Quesiti/src_bocconi_autunno_2007#q16|src_bocconi_autunno_2007__Q16]]
 
 
 
@@ -553,7 +553,7 @@ This is Jacob's birthday.
 > Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for hundreds, $d$ for tens and $u$ for units; the number of hundreds is nothing). Let's square this number and then divide it by 2. So we get a five-digit number that's written as$cdduc$. What was the starting number?
 
 **Answer:** 1552
-[[src_bocconi_autunno_2007__Q17]]
+[[Quesiti/src_bocconi_autunno_2007#q17|src_bocconi_autunno_2007__Q17]]
 
 
 
@@ -568,7 +568,7 @@ This is Jacob's birthday.
 > La figura non rispetta le proporzioni. Il triangolo isoscele $C_1F_1C_2$, i cui angoli uguali misurano $30^\circ$, è equilatero e la distanza di C dalla riva è $50+340-390$ m.
 > Che distanza separa i due fari?
 
-![[src_bocconi_autunno_2007__Q18.png]]
+![[src_bocconi_autunno_2007__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -585,7 +585,7 @@ This is Jacob's birthday.
 
 > Between two lighthouses on the coast, the shore is straight. A crab is 340 metres from the shore. Suddenly, it moves 100 meters perpendicular to the shore, then moves another 100 meters toward the first lighthouse and finally 100 meters toward the second. This is exactly where we start. The figure doesn't match the proportions. The isosceles triangle $C_1F_1C_2$, whose equal angles measure $30^\circ$, is equilateral and the distance of C from the shore is $50+340-390$ m. How far apart are the two lighthouses?
 
-![[src_bocconi_autunno_2007__Q18.png]]
+![[src_bocconi_autunno_2007__q18.png]]
 
 **Answer:** $390\sqrt{3}\times 2 \approx 1351$ m
-[[src_bocconi_autunno_2007__Q18]]
+[[Quesiti/src_bocconi_autunno_2007#q18|src_bocconi_autunno_2007__Q18]]

@@ -35,7 +35,7 @@ level: kangourou
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 77 handshakes were made. How many students (without discriminating between males and females) are in that class?
 
 **Answer:** 18
-[[src_kangourou_2007_cadet_maggio__QC1]]
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc1|src_kangourou_2007_cadet_maggio__QC1]]
 
 
 
@@ -46,7 +46,7 @@ level: kangourou
 
 *Area del quarto triangolo (diagonali del quadrilatero)*
 
-![[src_kangourou_2007_cadet_maggio__probC2.png]]
+![[src_kangourou_2007_cadet_maggio__probc2.png]]
 
 > Le diagonali dividono il quadrilatero in figura in quattro triangoli; di tre di essi sono indicate le aree (rispettivamente $2$, $3$ e $1$). Qual è l'area del quarto triangolo (rispetto alla stessa unità di misura)? (vedi figura)
 
@@ -62,12 +62,12 @@ level: kangourou
 
 *Area of the fourth triangle (quadrilateral diagonals) *
 
-![[src_kangourou_2007_cadet_maggio__probC2.png]]
+![[src_kangourou_2007_cadet_maggio__probc2.png]]
 
 > The diagonals divide the quadrilateral in the figure into four triangles, of which three indicate the areas ($2$, $3$ and $1$ respectively). What is the area of the fourth triangle (in relation to the same unit of measurement)? (see figure)
 
 **Answer:** 1,5
-[[src_kangourou_2007_cadet_maggio__QC2]]
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc2|src_kangourou_2007_cadet_maggio__QC2]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > Consider the integers from $1$ to $25$ included. You want to pick a few so that the sum of any two of those you choose is not a multiple of $3$. How many numbers can you pick?
 
 **Answer:** 10
-[[src_kangourou_2007_cadet_maggio__QC3]]
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc3|src_kangourou_2007_cadet_maggio__QC3]]
 
 
 
@@ -107,7 +107,7 @@ level: kangourou
 
 *Coprire scacchiera 8x8 con 21 piastrelle 1x3*
 
-![[src_kangourou_2007_cadet_maggio__probC4.png]]
+![[src_kangourou_2007_cadet_maggio__probc4.png]]
 
 > È possibile porre $21$ piastrelle rettangolari, i cui lati misurano $1$ cm e $3$ cm, sopra una scacchiera $8 \times 8$ formata da quadrati di lato $1$ cm in modo che non ci siano piastrelle sporgenti dalla griglia, né parzialmente sovrapposte? In caso di risposta affermativa mostra con un disegno come disporresti le piastrelle, in caso di risposta negativa spiega i motivi per cui non è possibile.
 
@@ -124,12 +124,12 @@ level: kangourou
 
 *Cover an 8x8 chessboard with 21 tiles 1x3*
 
-![[src_kangourou_2007_cadet_maggio__probC4.png]]
+![[src_kangourou_2007_cadet_maggio__probc4.png]]
 
 > Is it possible to place $21$ rectangular tiles, the sides of which measure $1$ cm and $3$ cm, on a chessboard $8 \times 8$ made up of side squares $1$ cm so that there are no tiles coming from the grid or partially overlapping? In the case of a yes answer, it shows with a drawing how you would arrange the tiles, in the case of a negative answer it explains why it is not possible.
 
 **Answer:** si
-[[src_kangourou_2007_cadet_maggio__QC4]]
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc4|src_kangourou_2007_cadet_maggio__QC4]]
 
 
 
@@ -158,7 +158,7 @@ level: kangourou
 > A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one side kilometer. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be gained, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
 
 **Answer:** 32 (e 30)
-[[src_kangourou_2007_cadet_maggio__QC5]]
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc5|src_kangourou_2007_cadet_maggio__QC5]]
 
 
 
@@ -187,4 +187,4 @@ Sum of the first six decimal places of 2^2007/7*
 > What is the sum of the first six digits after the comma of the division by $7$ of $2^{2007}$?
 
 **Answer:** 27
-[[src_kangourou_2007_cadet_maggio__QC6]]
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc6|src_kangourou_2007_cadet_maggio__QC6]]

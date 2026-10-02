@@ -44,7 +44,7 @@ level: triennio
 > - **(D)** 108
 > - **(E)** It's impossible to determine.
 
-[[src_archimede_2001_triennio__Q01]]
+[[Quesiti/src_archimede_2001_triennio#q01|src_archimede_2001_triennio__Q01]]
 
 
 
@@ -85,7 +85,7 @@ level: triennio
 > - **(D)** 8
 > - **(E)** It's going to be endless.
 
-[[src_archimede_2001_triennio__Q02]]
+[[Quesiti/src_archimede_2001_triennio#q02|src_archimede_2001_triennio__Q02]]
 
 
 
@@ -125,7 +125,7 @@ level: triennio
 > - **(D)** 20 students have contact lenses
 > - **(E)** None of the previous ones.
 
-[[src_archimede_2001_triennio__Q03]]
+[[Quesiti/src_archimede_2001_triennio#q03|src_archimede_2001_triennio__Q03]]
 
 
 
@@ -165,7 +165,7 @@ level: triennio
 > - **(D)** α = √ 3
 > - **(E)** α ̸= 0. ( x2 + y2 = α x = 3y
 
-[[src_archimede_2001_triennio__Q06]]
+[[Quesiti/src_archimede_2001_triennio#q06|src_archimede_2001_triennio__Q06]]
 
 
 
@@ -207,7 +207,7 @@ level: triennio
 > - **(D)** 1600
 > - **(E)** Only the girls get a purse.
 
-[[src_archimede_2001_triennio__Q07]]
+[[Quesiti/src_archimede_2001_triennio#q07|src_archimede_2001_triennio__Q07]]
 
 
 
@@ -248,7 +248,7 @@ Probability of partial sums of launches not divisible by 7
 > - **(D)** 3 4
 > - **(E)** 5 6.
 
-[[src_archimede_2001_triennio__Q08]]
+[[Quesiti/src_archimede_2001_triennio#q08|src_archimede_2001_triennio__Q08]]
 
 
 
@@ -292,7 +292,7 @@ Probability of partial sums of launches not divisible by 7
 > - **(D)** 58
 > - **(E)** √ 482 + 102.
 
-[[src_archimede_2001_triennio__Q09]]
+[[Quesiti/src_archimede_2001_triennio#q09|src_archimede_2001_triennio__Q09]]
 
 
 
@@ -343,7 +343,7 @@ Guilty and complicit in the theft
 > - **(D)** Aldo and Darius
 > - **(E)** There's no way to deduce that.
 
-[[src_archimede_2001_triennio__Q10]]
+[[Quesiti/src_archimede_2001_triennio#q10|src_archimede_2001_triennio__Q10]]
 
 
 
@@ -382,7 +382,7 @@ Guilty and complicit in the theft
 > - **(D)** P(4) may not be worth 20
 > - **(E)** P(5) cannot be worth 150.
 
-[[src_archimede_2001_triennio__Q11]]
+[[Quesiti/src_archimede_2001_triennio#q11|src_archimede_2001_triennio__Q11]]
 
 
 
@@ -421,7 +421,7 @@ Guilty and complicit in the theft
 > - **(D)** 4
 > - **(E)** infinite.
 
-[[src_archimede_2001_triennio__Q12]]
+[[Quesiti/src_archimede_2001_triennio#q12|src_archimede_2001_triennio__Q12]]
 
 
 
@@ -458,7 +458,7 @@ Guilty and complicit in the theft
 
 > In the figure below, calculate the CD knowing that OB = 1, $\widehat{ABC}$ = 45°, $\widehat{BCD}$ = 15°. A B C b O D
 
-[[src_archimede_2001_triennio__Q13]]
+[[Quesiti/src_archimede_2001_triennio#q13|src_archimede_2001_triennio__Q13]]
 
 
 
@@ -497,7 +497,7 @@ Guilty and complicit in the theft
 > - **(D)** 3025
 > - **(E)** 4525.
 
-[[src_archimede_2001_triennio__Q14]]
+[[Quesiti/src_archimede_2001_triennio#q14|src_archimede_2001_triennio__Q14]]
 
 
 
@@ -536,7 +536,7 @@ Guilty and complicit in the theft
 > - **(D)** x < 1 9
 > - **(E)** x < 9.
 
-[[src_archimede_2001_triennio__Q15]]
+[[Quesiti/src_archimede_2001_triennio#q15|src_archimede_2001_triennio__Q15]]
 
 
 
@@ -579,7 +579,7 @@ Guilty and complicit in the theft
 > - **(D)** 180°−2y
 > - **(E)** y.
 
-[[src_archimede_2001_triennio__Q16]]
+[[Quesiti/src_archimede_2001_triennio#q16|src_archimede_2001_triennio__Q16]]
 
 
 
@@ -621,7 +621,7 @@ Guilty and complicit in the theft
 > - **(D)** 90
 > - **(E)** 99.
 
-[[src_archimede_2001_triennio__Q18]]
+[[Quesiti/src_archimede_2001_triennio#q18|src_archimede_2001_triennio__Q18]]
 
 
 
@@ -706,7 +706,7 @@ Guilty and complicit in the theft
 > - **(D)** 6
 > - **(E)** 2 √ 3.
 
-[[src_archimede_2001_triennio__Q19]]
+[[Quesiti/src_archimede_2001_triennio#q19|src_archimede_2001_triennio__Q19]]
 
 
 
@@ -747,7 +747,7 @@ Guilty and complicit in the theft
 > - **(D)** 4
 > - **(E)** 5.
 
-[[src_archimede_2001_triennio__Q21]]
+[[Quesiti/src_archimede_2001_triennio#q21|src_archimede_2001_triennio__Q21]]
 
 
 
@@ -791,7 +791,7 @@ Guilty and complicit in the theft
 > - **(D)** 36
 > - **(E)** 50.
 
-[[src_archimede_2001_triennio__Q22]]
+[[Quesiti/src_archimede_2001_triennio#q22|src_archimede_2001_triennio__Q22]]
 
 
 
@@ -835,7 +835,7 @@ Guilty and complicit in the theft
 > - **(D)** q < p < r
 > - **(E)** q < r < p.
 
-[[src_archimede_2001_triennio__Q23]]
+[[Quesiti/src_archimede_2001_triennio#q23|src_archimede_2001_triennio__Q23]]
 
 
 
@@ -879,7 +879,7 @@ Guilty and complicit in the theft
 > - **(D)** 1 2
 > - **(E)** 2 3.
 
-[[src_archimede_2001_triennio__Q24]]
+[[Quesiti/src_archimede_2001_triennio#q24|src_archimede_2001_triennio__Q24]]
 
 
 
@@ -919,4 +919,4 @@ Guilty and complicit in the theft
 > - **(D)** 6
 > - **(E)** 8.
 
-[[src_archimede_2001_triennio__Q25]]
+[[Quesiti/src_archimede_2001_triennio#q25|src_archimede_2001_triennio__Q25]]

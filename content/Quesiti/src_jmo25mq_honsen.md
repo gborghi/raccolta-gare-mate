@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Trovare tutti gli integri positivi $n$ in modo che $\dfrac{10^n}{n^3 + n^2 + n + 1}$ sia un intero.
 
-[[src_jmo25mq_honsen__Q01]]
+[[Quesiti/src_jmo25mq_honsen#q01|src_jmo25mq_honsen__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: JMO Honsen
 
 > Let $n$ be a positive integer. A regular hexagon $ABCDEF$ with side length $n$ is divided into unit equilateral triangles by lines parallel to its sides. A checker is placed at a point $P$ strictly inside the hexagon (not on the boundary). The checker can jump to one of 4 (out of 6) vertices of the unit triangle that contains $P$. For each length-1 edge $PQ$ of the triangulation, the checker can move from $P$ to $Q$ but cannot move from $Q$ to $P$. (Here, $P$ can reach $Q$ in one move means $P$ is a vertex of some unit triangle and $Q$ is one of the 4 allowed vertices of that triangle.) No matter how the triangulation directions are assigned, there always exists a point $k$ on the triangulation grid from which any other grid point can be reached. Find the minimum value of such $k$.
 
-![[src_jmo25mq_honsen__Q02.png]]
+![[src_jmo25mq_honsen__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Grafi]], [[method_invarianti|Invarianti]]
@@ -62,9 +62,9 @@ level: JMO Honsen
 
 > $n$ sia un numero intero positivo. Un esagono regolare $ABCDEF$ con lunghezza laterale $n$ è diviso in triangoli equilaterali unitari con linee parallele ai suoi lati. Un controllore è posizionato in un punto $P$ rigorosamente all'interno dell'esagono (non sul confine). Il controllatore può saltare su uno dei 4 vertici del triangolo unitario che contiene $P$. Per ciascun bordo $PQ$ di lunghezza-1 della triangolazione, il controllore può passare da $P$ a $Q$, ma non può passare da $Q$ a $P$. (Qui, $P$ può raggiungere $Q$ in una mossa significa $P$ è un vertice di un triangolo unitario e $Q$ è uno dei 4 vertici consentiti di quel triangolo.) Indipendentemente da come le direzioni di triangolazione sono assegnate, esiste sempre un punto $k$ sulla griglia di triangolazione da cui si può raggiungere qualsiasi altro punto di griglia. Trova il valore minimo di tale $k$.
 
-![[src_jmo25mq_honsen__Q02.png]]
+![[src_jmo25mq_honsen__q02.png]]
 
-[[src_jmo25mq_honsen__Q02]]
+[[Quesiti/src_jmo25mq_honsen#q02|src_jmo25mq_honsen__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: JMO Honsen
 > 
 > (2) $p$ sia un primo pari. Indicare che esiste una sequenza ascendente $\{a_n\}$ che non contiene un multiple di $p$.
 
-[[src_jmo25mq_honsen__Q03]]
+[[Quesiti/src_jmo25mq_honsen#q03|src_jmo25mq_honsen__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: JMO Honsen
 
 > Il $ABC$ deve essere un triangolo scaleno (non isosceles), $\Gamma$ il suo circoncircolo e $I$ il suo incentro. Lascia che l'incircolo dei lati $\triangle ABC$ tocchi $AB$ e $AC$ rispettivamente a $D$ e $E$. Il $P$ deve essere la seconda intersezione (diversi da $B$) del circoncircolo di $\triangle BEI$ con $\Gamma$. Il $Q$ deve essere la seconda intersezione (diversi da $C$) del circoncircolo di $\triangle CDI$ con $\Gamma$. Provare che i quattro punti $D$, $E$, $P$, $Q$ sono conciclici.
 
-[[src_jmo25mq_honsen__Q04]]
+[[Quesiti/src_jmo25mq_honsen#q04|src_jmo25mq_honsen__Q04]]
 
 
 
@@ -162,4 +162,4 @@ level: JMO Honsen
 > 
 > (Qui, "rende per tutti $n$ sufficientemente grandi" significa che esiste un numero intero $N$ tale che l'indicazione rende per ogni $n \ge N$.)
 
-[[src_jmo25mq_honsen__Q05]]
+[[Quesiti/src_jmo25mq_honsen#q05|src_jmo25mq_honsen__Q05]]

@@ -100,7 +100,7 @@ level: Concours Général
 > 
 > 10. Determinare il limite di $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quando $n$ tende a $+\infty$.
 
-[[src_cgen_2024__Q01]]
+[[Quesiti/src_cgen_2024#q01|src_cgen_2024__Q01]]
 
 
 
@@ -227,7 +227,7 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 
 > 9. Per quali valori di $n \ge 3$ possono Sophie e Germain ideare una strategia comune che assicuri che Sophie trovi la scatola con il pacchetto?
 
-[[src_cgen_2024__Q02]]
+[[Quesiti/src_cgen_2024#q02|src_cgen_2024__Q02]]
 
 
 
@@ -425,4 +425,4 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 
 > 21. Esistono tre valori rigorosamente positivi $\alpha$, $\beta$ e $\gamma$ per i quali gli insiemi $\mathcal{E}(\alpha)$, $\mathcal{E}(\beta)$ e $\mathcal{E}(\gamma)$ sono disconnessi in coppia?
 
-[[src_cgen_2024__Q03]]
+[[Quesiti/src_cgen_2024#q03|src_cgen_2024__Q03]]

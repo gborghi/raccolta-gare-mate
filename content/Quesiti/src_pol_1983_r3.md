@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Sul piano sono indicati un convex $n$-gon $P_1P_2\ldots P_n$ e un punto $Q$ all'interno, non situato su nessuna delle sue diagonali. Prova che se $n$ è pari, il numero di triangoli $P_iP_jP_k$ contenenti il punto $Q$ è pari.
 
-[[src_pol_1983_r3__Q01]]
+[[Quesiti/src_pol_1983_r3#q01|src_pol_1983_r3__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 3
 
 > Si deve dare un numero irrazionale $a$ nell'intervallo $(0,1)$ e un intero positivo $N$. Prova che esistono integri positivi $p,q,r,s$ in modo tale che $$\frac{p}{q} < a < \frac{r}{s}, \quad \frac{r}{s} - \frac{p}{q} < \frac{1}{N}, \quad \text{and} \quad rq - ps = 1.$$
 
-[[src_pol_1983_r3__Q02]]
+[[Quesiti/src_pol_1983_r3#q02|src_pol_1983_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 3
 
 > Considerate il seguente gioco da giocatore su una scacchiera infinita. Se due quadrati orizzontalmente o verticalmente adiacenti sono occupati da un pedone ciascuno, e un quadrato sulla stessa linea adiacente a uno di essi è vuoto, allora è consentito rimuovere i due pedoni e posizionare un pedone sul terzo quadrato (vuoto). Prova che se nella posizione iniziale tutti i pedoni formavano un rettangolo con il numero di quadrati divisibili per 3, allora non è possibile terminare la partita con solo un pedone rimasto sulla tavola.
 
-[[src_pol_1983_r3__Q03]]
+[[Quesiti/src_pol_1983_r3#q03|src_pol_1983_r3__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che se i numeri naturali $a,b,c,d$ soddisfano l'uguaglianza $ab = cd$, allora $$\frac{\gcd(a,c)\,\gcd(a,d)}{\gcd(a,b,c,d)} = a.$$
 
-[[src_pol_1983_r3__Q04]]
+[[Quesiti/src_pol_1983_r3#q04|src_pol_1983_r3__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: Olimpiade Polacca Round 3
 
 > Sul piano sono dati i vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Mostra che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ in modo che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
 
-[[src_pol_1983_r3__Q05]]
+[[Quesiti/src_pol_1983_r3#q05|src_pol_1983_r3__Q05]]
 
 
 
@@ -170,4 +170,4 @@ Prove che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte 
 
 > Prova che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte le sue facce sono triangoli a angolo acuto.
 
-[[src_pol_1983_r3__Q06]]
+[[Quesiti/src_pol_1983_r3#q06|src_pol_1983_r3__Q06]]

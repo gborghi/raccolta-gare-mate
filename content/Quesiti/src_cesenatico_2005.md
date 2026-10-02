@@ -38,7 +38,7 @@ level: nazionale
 > Whether ABC is a right triangle, with hypotenuse AC, and whether H is the foot of the height from B to AC. Knowing that the lengths AB, BC and BH form the sides of a new rectangular triangle, determine the possible values of AH CH.
 
 **Answer:** (sqrt5-1)/2 oppure (sqrt5+1)/2
-[[src_cesenatico_2005__Q01]]
+[[Quesiti/src_cesenatico_2005#q01|src_cesenatico_2005__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: nazionale
 > Demonstrate that, however you take 18 consecutive positive integers less than or equal to 2005, there is at least one divisible by the sum of its digits.
 
 **Answer:** dimostrato
-[[src_cesenatico_2005__Q02]]
+[[Quesiti/src_cesenatico_2005#q02|src_cesenatico_2005__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: nazionale
 > In each of the boxes in a square table 4×4 the figure 1 or the figure 2 is written. We know that the sum of the 9 digits in each of the 4 squares 3 × 3 in the table is multiple of 4, while the sum of all 16 digits is not multiple of 4. Determine the maximum and minimum possible value for the sum of all 16 digits.
 
 **Answer:** massimo 30, minimo 19
-[[src_cesenatico_2005__Q03]]
+[[Quesiti/src_cesenatico_2005#q03|src_cesenatico_2005__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: nazionale
 > Determine for which n ≥3 it is possible to find n positive integers such that two to two have at least one common factor other than 1, but three to three are prime to each other. If we add the condition that all integers are less than 5000, what is the maximum value of n possible?
 
 **Answer:** per ogni n>=3; con limite <5000 il massimo n e 4
-[[src_cesenatico_2005__Q04]]
+[[Quesiti/src_cesenatico_2005#q04|src_cesenatico_2005__Q04]]
 
 
 
@@ -171,7 +171,7 @@ level: nazionale
 > Both h is a positive integer and an is the sequence defined for recurrence as follows: a0 = 1 an+1 = (an 2 if an is equal, an + h if an is odd. (For example, if h = 27 we have: a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...) For which values of h exists n > 0 for which an = 1?
 
 **Answer:** tutti gli interi positivi dispari
-[[src_cesenatico_2005__Q05]]
+[[Quesiti/src_cesenatico_2005#q05|src_cesenatico_2005__Q05]]
 
 
 
@@ -208,4 +208,4 @@ level: nazionale
 > In the plane two circumferences γ1 and γ2 of centers A and B are given, respectively, and intersected at two points C and D. Assume that the passing circumference for A, B and C further intersects γ1 and γ2 in E and F respectively, and that the non-C EF arc lies outside the two circles bounded by γ1 and γ2. Demonstrate that the non-C EF arc is bisected by the straight CD.
 
 **Answer:** dimostrato (D incentro di CEF)
-[[src_cesenatico_2005__Q06]]
+[[Quesiti/src_cesenatico_2005#q06|src_cesenatico_2005__Q06]]

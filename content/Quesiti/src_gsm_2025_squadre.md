@@ -49,7 +49,7 @@ level: squadre
 > In one room there are eight switches that control the same lamp. The lamp shall be switched on only if all eight switches are in the ON position. There's nothing written on the switches, so it's impossible to tell which are on and which are off. A person walks into the room and knows that four switches are on and four on, but they don't know what they are. To turn on the light the person proceeds in this way: he chooses four switches at random and changes their status. What's the probability that the light will turn on on the first attempt? [Give the answer the probability multiplied by 10000.] : 0007
 
 **Answer:** 0135
-[[src_gsm_2025_squadre__Q01]]
+[[Quesiti/src_gsm_2025_squadre#q01|src_gsm_2025_squadre__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: squadre
 > Schema Sandro Campigotto Write the odd numbers according to the following scheme: in the first line write the number 1; in the second line write the next two odd numbers 3 and 5; in the third the next three odd numbers 7, 9 and 11, and so on. What number do you write at the beginning of the 97th line? : 9313
 
 **Answer:** 0000
-[[src_gsm_2025_squadre__Q02]]
+[[Quesiti/src_gsm_2025_squadre#q02|src_gsm_2025_squadre__Q02]]
 
 
 
@@ -123,7 +123,7 @@ level: squadre
 > Possibility Benedetta Demoro A square-based parallel piped has all full-sized shoulders in cm; in particular its height has length (p2 + p+ 4) cm, with nonnegative integer p. The value of the volume of the parallelepiped in cm3 is equal to that of the area in cm2 of a square with sides of whole dimensions. What are the possible heights of the paralelepiped? [Give the sum of the values in cm of possible heights.]: 0084
 
 **Answer:** 0064
-[[src_gsm_2025_squadre__Q03]]
+[[Quesiti/src_gsm_2025_squadre#q03|src_gsm_2025_squadre__Q03]]
 
 
 
@@ -173,7 +173,7 @@ level: squadre
 > Triangles and rectangles Giuseppe Rosolini Taking a rectangle ABCD with a length of 30 cm and a length of 12 cm BC, he traces the two diagonal ACe Bde of the two segments connecting the middle points of opposite sides: the EFe segment connecting the middle point Edi ABe the middle point Fdi CD; the GHe segment connecting the middle point Gdi BCe the middle point Hdi DA. Then divide each side of the rectangle into six equal parts: mark on the side ABi segments AP1 = P1P2 = P2E = EP3 = P3P4 = P4B; do the same for the side by covering the points Q1, Q2, Q3 and Q4, as well as for the other two sides BCe DA, using the four points R1, R2, R3 and R4, and the four points S1, S2, S3 and S4 respectively. Finally, trace from each of these 16 points the segment perpendicular to the side on which it stands and which connects it to the nearest diagonal of the rectangle. How many triangles have you drawn? : 0016
 
 **Answer:** 0016
-[[src_gsm_2025_squadre__Q04]]
+[[Quesiti/src_gsm_2025_squadre#q04|src_gsm_2025_squadre__Q04]]
 
 
 
@@ -204,7 +204,7 @@ level: squadre
 > Quite briefly Carlo Cassola How many are the positive divisors of 246246? : 0048
 
 **Answer:** 0016
-[[src_gsm_2025_squadre__Q05]]
+[[Quesiti/src_gsm_2025_squadre#q05|src_gsm_2025_squadre__Q05]]
 
 
 
@@ -239,7 +239,7 @@ level: squadre
 > Periodic sums Lorenzo Mazza What is the maximum number of consecutive digits of the decimal place of 1 26 that all add up to the result 3000? : 0333
 
 **Answer:** 0335
-[[src_gsm_2025_squadre__Q06]]
+[[Quesiti/src_gsm_2025_squadre#q06|src_gsm_2025_squadre__Q06]]
 
 
 
@@ -273,7 +273,7 @@ level: squadre
 > There are 630 identical cubes. By using all of them, you can arrange them to form a parallel piped. How many different parallel pipes can you get? : 0048
 
 **Answer:** 0020
-[[src_gsm_2025_squadre__Q07]]
+[[Quesiti/src_gsm_2025_squadre#q07|src_gsm_2025_squadre__Q07]]
 
 
 
@@ -318,7 +318,7 @@ level: squadre
 > At the cinema Giuseppe Rosolini The cinema hall only with numbered chairs is almost complete, there are four free seats with the respective tickets still available. The movie's about to start. A spectator comes in and buys a ticket, walks into the room and sits in the first free chair he sees without checking which seat is on his ticket. One after another, three more spectators arrive, they know the room is almost full and the film is about to begin. Each, respecting the rules, therefore decides to sit in the seat indicated on his ticket as long as the seat is free. Otherwise, it'll fit into a random seat. What is the probability that the last spectator will sit in the seat indicated on his ticket? [Give the answer the probability multiplied by 10000.]: 9375
 
 **Answer:** 4375
-[[src_gsm_2025_squadre__Q08]]
+[[Quesiti/src_gsm_2025_squadre#q08|src_gsm_2025_squadre__Q08]]
 
 
 
@@ -382,7 +382,7 @@ level: squadre
 > Broken Rodolfo Asserto On a very large square sheet of paper, the side of each square is the length of u. Draw on the sheet two cartesian axes so that each axis is overlapping with the segments printed on the sheet and that, from the intersection of the axes which must therefore be the summit of a pre-printed square, there are at least 2025 squares towards each of the four edges of the sheet. The coordinates are calculated in relation to the unit of length u. You can draw segments with the pencil by joining one vertex of a square with another by following the sides of the pre-printed squares on the sheet and make segmented drawings by following these rules: if you finish on a point identified by a pair with first equal coordinate and the secondary, turned right in relation to the direction from which you came and continue the track on the 1 side; if you finish on a point identified by a pair with first equal coordinate, turn left in relation to the direction from which you came and continue the track on the 1 side; otherwise, continue the track on the 1 side in the direction from which you came. Choose at random the summit of a square within the radius of radius 3 u and the centre of origin of the axes (the summit must be internal, not the entire square) and plot a segment of length following at random one of the pre-printed segments, then proceed by following the three rules. What is the probability that the trace will pass through a finite number of traces and possibly out of the circumference, but not out of the sheet for the origin of the axes? [Give as an answer the probability multiplied by 10000.]: 0833 Mixed team competition 2025  Problem texts  Pag. 1 di 2
 
 **Answer:** 2367
-[[src_gsm_2025_squadre__Q09]]
+[[Quesiti/src_gsm_2025_squadre#q09|src_gsm_2025_squadre__Q09]]
 
 
 
@@ -416,7 +416,7 @@ level: squadre
 > Short Carlo Càssola How many integers between 1 and 2025 are divisible by 19, such as 38, or contain within them the digits 1 and 9 written below, such as in 1192? : 0114
 
 **Answer:** 0123
-[[src_gsm_2025_squadre__Q10]]
+[[Quesiti/src_gsm_2025_squadre#q10|src_gsm_2025_squadre__Q10]]
 
 
 
@@ -472,7 +472,7 @@ level: squadre
 > Separate Luca Renzi Consider the separation of two digits gives us a number: the absolute value of the difference between the exponents of the two powers of 10 whose two digits are the factors. In other words, the number of digits separating d increased by 1. Now take a number of eight digits in which at least three zeros appear, none of which (in the first or) in the last position, and draw on a sheet a parallelogram as follows: the separation between the first digit 0 and the second digit 0 is the centimetre measurement of two parallel sides of the parallelogram; the separation between the second digit 0 and the third digit 0 is the centimetre measurement of the other two parallel sides. For example, if we take the number 12300405, the separation between the first and second 0 is 1, so the first side will be 1 cm; the separation between the second and third 0 is 2, so the second side will be 2 cm long. To choose the angles of the parallelogram, the product of the numbers read before the first zero and after the third in the above example is p=123 ⋅5 = 615. The two degree amplitudes at the angles of the parallelogram must be positive integers that have produced p. How many eight-digit numbers can generate rectangles? : 0060
 
 **Answer:** 0052
-[[src_gsm_2025_squadre__Q11]]
+[[Quesiti/src_gsm_2025_squadre#q11|src_gsm_2025_squadre__Q11]]
 
 
 
@@ -507,7 +507,7 @@ level: squadre
 > Three dice Carlo Cassola What is the probability that, by drawing three unmade dice, the number of any one of the three dice is equal to the sum of the other two? [Give the answer the probability multiplied by 10000.]: 0693
 
 **Answer:** 1390
-[[src_gsm_2025_squadre__Q12]]
+[[Quesiti/src_gsm_2025_squadre#q12|src_gsm_2025_squadre__Q12]]
 
 
 
@@ -546,7 +546,7 @@ level: squadre
 > Succession, I Giuseppe Rosolini Consider a succession which verifies the following properties a1 = 1 a1 + 2a2 + ... + nan = n(n+ 1)anper n≥2 What is 1 a2025? : 0001
 
 **Answer:** 4049
-[[src_gsm_2025_squadre__Q13]]
+[[Quesiti/src_gsm_2025_squadre#q13|src_gsm_2025_squadre__Q13]]
 
 
 
@@ -595,7 +595,7 @@ level: squadre
 > Large Lorenzo Triangles A triangle is a subdivision of a flat figure into many triangles. Consider the following triangulation of the equilateral triangle ABC: it is divided into 999 triangles obtained as follows. A triangle has a vertex in B, another is the point P1 on the side BC, the third is the point P2 on the side AB; another triangle, with an area twice that of BP1P2, has a vertex in P1, another in P2, the third vertex is the point P3 on the side BC; another triangle, with an area triple that of BP1P2, has a vertex in P2, another in P3, the third is the point P4 on the side AB. And so we go on, until we get to the 999th triangle, with an area 999 times that of BP1P2, which has a vertex in P998 on the AB side, and the other two vertices are Ce A. The length of the segment BP1 is 20 m. What is the length of the AP998 segment in cm? : 0008
 
 **Answer:** 3988
-[[src_gsm_2025_squadre__Q14]]
+[[Quesiti/src_gsm_2025_squadre#q14|src_gsm_2025_squadre__Q14]]
 
 
 
@@ -628,7 +628,7 @@ level: squadre
 > How many natural numbers are less than 10000 where the sum of the digits is a multiple of 6? : 1666
 
 **Answer:** 0004
-[[src_gsm_2025_squadre__Q15]]
+[[Quesiti/src_gsm_2025_squadre#q15|src_gsm_2025_squadre__Q15]]
 
 
 
@@ -665,7 +665,7 @@ level: squadre
 > Succession, II Leonardo Cimino Consider the succession {a0 = 3 a1 = 1 an+2 = max(an+1, an) −2 min(an+1, an) What is the value of a100? : 0603
 
 **Answer:** 1616
-[[src_gsm_2025_squadre__Q16]]
+[[Quesiti/src_gsm_2025_squadre#q16|src_gsm_2025_squadre__Q16]]
 
 
 
@@ -705,7 +705,7 @@ level: squadre
 > In the triangle rectangle Carlo Càssola In the triangle ABC, rectangle in vertex A, the hypotenuse BC is 65 cm long, the catheter AC is 16 cm long. The square ANMB on the triangle is constructed externally and the square BQPC on the hypotenuse. What is the area of the quadrilateral AMQPin cm2? : 0256
 
 **Answer:** 6833
-[[src_gsm_2025_squadre__Q17]]
+[[Quesiti/src_gsm_2025_squadre#q17|src_gsm_2025_squadre__Q17]]
 
 
 
@@ -753,7 +753,7 @@ level: squadre
 > Simón Muselli operations To generate sequences, first a positive number is chosen randomly and then operations are applied in sequence, randomly chosen each time between the following three: add the addition 3; multiply by the factor 4; raise to the power 5. For example, we can generate the sequence 2 25 = 32 32⋅4 = 144 144 + 3 = 147 147 + 3 = 150 ... What is the probability that the number 2026 will occur in the sequence knowing that we have used the  operation multiply for the factor 4 no more than once? [Give the number of divisors of the denominator of the fraction reduced to the minimum terms as the answer.]: 0003
 
 **Answer:** 1351
-[[src_gsm_2025_squadre__Q18]]
+[[Quesiti/src_gsm_2025_squadre#q18|src_gsm_2025_squadre__Q18]]
 
 
 
@@ -792,7 +792,7 @@ level: squadre
 > In the triangle Carlo Càssola In the triangle ABC, the side AB is 17 m long, the side BC is 26 m long, and the side CA is 25 m long. Draw a circle with a center on the BC side, tangent to the other two sides. How much is its radius in mm? : 9999
 
 **Answer:** 0285
-[[src_gsm_2025_squadre__Q19]]
+[[Quesiti/src_gsm_2025_squadre#q19|src_gsm_2025_squadre__Q19]]
 
 
 
@@ -831,7 +831,7 @@ level: squadre
 > Six on the dice Sandro Campigotto Andrea throws a dice and gets a six, then walks away from the room. Barbara throws two more dice on the same table, fails to look at the result and leaves the room. Carlo walks into the room and covers a random dice. The two remaining dice on the table both show face 6. What's the probability that the covered dice has a value of 6? [Give the answer the probability multiplied by 10000.]: 0625
 
 **Answer:** 1682
-[[src_gsm_2025_squadre__Q20]]
+[[Quesiti/src_gsm_2025_squadre#q20|src_gsm_2025_squadre__Q20]]
 
 
 
@@ -875,4 +875,4 @@ level: squadre
 > Mixed team mathematics competition 2025 Solutions
 
 **Answer:** 0673
-[[src_gsm_2025_squadre__Q21]]
+[[Quesiti/src_gsm_2025_squadre#q21|src_gsm_2025_squadre__Q21]]

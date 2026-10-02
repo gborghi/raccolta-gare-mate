@@ -33,7 +33,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 
 > Attraverso un punto $P$ all'interno di un triangolo fisso $ABC$ le linee $PL$, $PM$, $PN$ sono disegnate parallele alle medie rispettivamente attraverso $A$, $B$, $C$ per raggiungere $BC$, $CA$, $AB$ rispettivamente a $L$, $M$ e $N$. La prova $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$ è costante (indipendente da $P$).
 
-[[src_bmo2_1976__Q01]]
+[[Quesiti/src_bmo2_1976#q01|src_bmo2_1976__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 
 > Il numero reale $t$ è una radice dell'equazione $$x^n + a_2 x^{n-2} + a_3 x^{n-3} + \ldots + a_n = 0, \quad (n \ge 2),$$ dove i coefficienti sono reali e soddisfano $-1 \le a_r \le 1$, $(2 \le r \le n)$. Provare che $$-\tfrac{1}{2}(1 + \sqrt{5}) \le t \le \tfrac{1}{2}(1 + \sqrt{5}).$$
 
-[[src_bmo2_1976__Q02]]
+[[Quesiti/src_bmo2_1976#q02|src_bmo2_1976__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 
 > Prova che l'equazione $x^3 - 3y^2 + 5z^2 - 7 = 0$ non ha soluzioni in numeri interi $x, y, z$. Prova che $x^3 - 3y^2 - 5z^2 + 7 = 0$ ha infinite soluzioni in numeri interi positivi $x, y, z$, in due dei quali il rapporto $x : y : z$ è lo stesso.
 
-[[src_bmo2_1976__Q03]]
+[[Quesiti/src_bmo2_1976#q03|src_bmo2_1976__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 
 > Prove che non è possibile trovare integri positivi $p$ e $q$ con la proprietà che $$\left| \sqrt{2} - \frac{p}{q} \right| < \frac{2}{11 q^2}.$$
 
-[[src_bmo2_1976__Q04]]
+[[Quesiti/src_bmo2_1976#q04|src_bmo2_1976__Q04]]
 
 
 
@@ -153,4 +153,4 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 > 
 > (c) Nessun esagono può essere ottenuto dall'altro con una singola traduzione, una singola rotazione o un singolo riflesso.
 
-[[src_bmo2_1976__Q05]]
+[[Quesiti/src_bmo2_1976#q05|src_bmo2_1976__Q05]]

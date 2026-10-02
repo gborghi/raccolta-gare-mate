@@ -42,7 +42,7 @@ level: kangourou
 > (Points 2) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled from summit A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
 
 **Answer:** D
-[[src_kangourou_2019_student_semifinale__Q01]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q01|src_kangourou_2019_student_semifinale__Q01]]
 
 
 
@@ -76,7 +76,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 > (Points 3) If you randomly pick a four-digit palindrome integer, what is the probability that it is divisible by 7? A) 1/9         	   B) 1/8 C) 1/7 D) 1/6 E) 1/5
 
 **Answer:** E
-[[src_kangourou_2019_student_semifinale__Q02]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q02|src_kangourou_2019_student_semifinale__Q02]]
 
 
 
@@ -112,7 +112,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 > Cutting a cube with a plane passing through two of its opposite vertices and the midpoints of two opposite vertices not containing these vertices gives a quadrilateral whose area, in square centimetres, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the cube's tips? (A) 1 B) √ 8 C) √ 12 D) √ 27 E) None
 
 **Answer:** E
-[[src_kangourou_2019_student_semifinale__Q03]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q03|src_kangourou_2019_student_semifinale__Q03]]
 
 
 
@@ -162,7 +162,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > C) C D) D E) E
 
 **Answer:** C
-[[src_kangourou_2019_student_semifinale__Q04]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q04|src_kangourou_2019_student_semifinale__Q04]]
 
 
 
@@ -204,7 +204,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > C) 14 D) 13 E) 12
 
 **Answer:** E
-[[src_kangourou_2019_student_semifinale__Q05]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q05|src_kangourou_2019_student_semifinale__Q05]]
 
 
 
@@ -252,7 +252,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > E) It cannot be established
 
 **Answer:** A
-[[src_kangourou_2019_student_semifinale__Q06]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q06|src_kangourou_2019_student_semifinale__Q06]]
 
 
 
@@ -288,7 +288,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > How many sums of all the different ones can be obtained by adding up at least two integers and at most nine integers, each of which is either 3 or 5, if you want there to be no more than six additions equal to 3 and no more than three additions equal to 5? A) 23 B) 25 C) 28 D) 26 E) 27
 
 **Answer:** A
-[[src_kangourou_2019_student_semifinale__Q07]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q07|src_kangourou_2019_student_semifinale__Q07]]
 
 
 
@@ -328,7 +328,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > (Points 5) For an integer that does not exceed 2019, what is the largest possible sum of digits if you write it in base six (i.e. using the digits from 0 to 5) and if that sum is also written in base six? A) 15 B) 20 C) 22 D) 24 E) 32 A B C D E
 
 **Answer:** E
-[[src_kangourou_2019_student_semifinale__Q08]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q08|src_kangourou_2019_student_semifinale__Q08]]
 
 
 
@@ -365,7 +365,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > (Points 6) How many different alignments of 16 two-letter lengths are possible if each alignment is to begin and end with the same letter, if the initial letter does not appear twice in a row and the other does not appear three times in a row? A) 28 B) 42 C) 44 D) 46 E) 56 Questions to be answered
 
 **Answer:** E
-[[src_kangourou_2019_student_semifinale__Q09]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q09|src_kangourou_2019_student_semifinale__Q09]]
 
 
 
@@ -396,7 +396,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > (Points 4) To the (decimal) notation of a positive integer N I added a figure outside: thus I obtained a number (with a figure more than N) which is k times N, with k integers. What 's the maximum value of k ?
 
 **Answer:** 19
-[[src_kangourou_2019_student_semifinale__Q10]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q10|src_kangourou_2019_student_semifinale__Q10]]
 
 
 
@@ -426,7 +426,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 > (Points 5) In each parallel-piped rectangle the centers of the six faces are the vertices of an octahedron. If the measures of the parallel-pipedal shoulders are each expressed in an integer number of centimetres and the volume of the octahedron is 150 cm3, what is the maximum value of the sum of the measures of the parallel-pipedal shoulders?
 
-[[src_kangourou_2019_student_semifinale__Q11]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q11|src_kangourou_2019_student_semifinale__Q11]]
 
 
 
@@ -458,7 +458,7 @@ How many voters lied in the two cities of the referendum
 
 > (Parliament adopted the legislative resolution) In two cities, A with 8,400 voters and B with 6,900 voters, immediately after the vote, each voter was asked how they voted: in both cities half of the responses received were SI and half were NO. However, it turned out that in A SI won with 70% of the vote while in B NO always won with 70% of the vote. If, consistent with the results obtained, in A as few voters as possible lied and in B as many as possible, how many voters lied overall in the two cities?
 
-[[src_kangourou_2019_student_semifinale__Q12]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q12|src_kangourou_2019_student_semifinale__Q12]]
 
 
 
@@ -509,7 +509,7 @@ How many voters lied in the two cities of the referendum
 > 	
 > (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to get the purpose?
 
-[[src_kangourou_2019_student_semifinale__Q13]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q13|src_kangourou_2019_student_semifinale__Q13]]
 
 
 
@@ -540,7 +540,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 
 > The Kangaroos and the Giraffes faced each other in a basketball game. The match lasted four times: at the end of the first the teams were tied, but in the end the Kangaroos won with a margin of victory. The Crab scores, individually considered in the four times, are in geometric progression, while those of the Giraffe are in arithmetic progression. What's the minimum score for the total score at the end of the Giraffe game?
 
-[[src_kangourou_2019_student_semifinale__Q14]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q14|src_kangourou_2019_student_semifinale__Q14]]
 
 
 
@@ -567,7 +567,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 
 > (Points 6) The catheters of a right triangle T are 30 and 40. The height relative to the hypotenuse divides T into two triangles P and Q. What is the sum of the radii of the circles inscribed in T, P and Q?
 
-[[src_kangourou_2019_student_semifinale__Q15]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q15|src_kangourou_2019_student_semifinale__Q15]]
 
 
 
@@ -597,7 +597,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 
 > (Points 7) Enrica had a reel with more than five tails, numbered in sequence: accidentally she broke it in two with the breaking point on horseback between the two tails. By chance, the sum of the numbers on both sides is the same. What is the minimum value of the sum of the numbers denoting the two horse-drawn ticks whose reel has been broken?
 
-[[src_kangourou_2019_student_semifinale__Q16]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q16|src_kangourou_2019_student_semifinale__Q16]]
 
 
 
@@ -625,7 +625,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 
 > (Points 7) What is the minimum number of elements that a set must have in order for there to be at least two different ways of choosing two non-empty sub-sets?
 
-[[src_kangourou_2019_student_semifinale__Q17]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q17|src_kangourou_2019_student_semifinale__Q17]]
 
 
 
@@ -666,4 +666,4 @@ Minimum score Giraffe (geometric vs arithmetic)
 > 
 > 0019 0902 7200 4040 0074 0024 0029 0008 0331
 
-[[src_kangourou_2019_student_semifinale__Q18]]
+[[Quesiti/src_kangourou_2019_student_semifinale#q18|src_kangourou_2019_student_semifinale__Q18]]

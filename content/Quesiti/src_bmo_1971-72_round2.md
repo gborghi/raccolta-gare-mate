@@ -37,7 +37,7 @@ level: BMO Round 2
 
 > Mostra come assegnare ai vertici di un poligono regolare con vertici $n^2$ numeri tali che: (i) vengono utilizzate solo le cifre $1$ e $2$; (ii) vengono utilizzate solo le cifre $n$; (iii) ogni vertice ha un numero diverso; e (iv) i vertici vicini hanno numeri diversi in un solo e solo luogo di una cifra.
 
-[[src_bmo_1971-72_round2__Q01]]
+[[Quesiti/src_bmo_1971-72_round2#q01|src_bmo_1971-72_round2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 
 > $a, b, c, d$ sono numeri positivi e $$S = \frac{ab}{c} + \frac{bc}{d} + \frac{cd}{a} + \frac{da}{b}.$$ Provare che $S$ non è inferiore a $4$ e ottenere le condizioni necessarie per $S = 4$.
 
-[[src_bmo_1971-72_round2__Q02]]
+[[Quesiti/src_bmo_1971-72_round2#q02|src_bmo_1971-72_round2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha due amici in comune. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
 
-[[src_bmo_1971-72_round2__Q03]]
+[[Quesiti/src_bmo_1971-72_round2#q03|src_bmo_1971-72_round2__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 
 > Quando $k = 1$, trovare tutti i polinomi $p$ in una variabile tale che $$a \cdot p(a^2) + b \cdot p(b^2) + c \cdot p(c^2) = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$. Prova il tuo risultato. Qual è l' effetto di alterare $k$?
 
-[[src_bmo_1971-72_round2__Q04]]
+[[Quesiti/src_bmo_1971-72_round2#q04|src_bmo_1971-72_round2__Q04]]

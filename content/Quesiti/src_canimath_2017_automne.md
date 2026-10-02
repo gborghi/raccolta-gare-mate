@@ -35,7 +35,7 @@ level: Coupe Animath Automne
 
 > Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di $5$ numeri interi consecutivi? b) Può essere scritta come la somma di $4$ numeri interi consecutivi?
 
-[[src_canimath_2017_automne__Q01]]
+[[Quesiti/src_canimath_2017_automne#q01|src_canimath_2017_automne__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Coupe Animath Automne
 
 > Per ogni intero rigorosamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali integri rigorosamente positivi $n$ soddisfano $a_n = 0$? b) Calcolare $a_1 + a_2 + \cdots + a_{2005}$.
 
-[[src_canimath_2017_automne__Q02]]
+[[Quesiti/src_canimath_2017_automne#q02|src_canimath_2017_automne__Q02]]
 
 
 
@@ -93,7 +93,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > Il calcio con tre persone viene giocato in fasi successive: un giocatore è il portiere mentre gli altri due, chiamati "giocatori di campo", cercano di segnare un gol. Appena un giocatore fa un gol, la fase termina e quel giocatore diventa il portiere per la fase successiva. Amandine, Bobby e Charles giocano a questo gioco. Quando la partita è finita, ricordano che Amandine era un giocatore di campo $12$ volte, Bobby $21$ volte, e Charles $8$ volte. a) Quante fasi ci sono state in totale? b) Chi ha segnato il sesto gol?
 
-[[src_canimath_2017_automne__Q03]]
+[[Quesiti/src_canimath_2017_automne#q03|src_canimath_2017_automne__Q03]]
 
 
 
@@ -121,7 +121,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > a) Trovare un intero rigorosamente positivo $n$ tale che, se si scrive $n^2$ e si toglie le sue ultime due cifre, il numero risultante sia ancora il quadrato di un intero. b) Trovare tutti i numeri interi rigorosamente positivi $n$ che non sono multipli di $10$ in modo tale che, scrivendo $n^2$ e eliminando le sue ultime due cifre, si ottiene nuovamente il quadrato di un numero intero (si considera che un numero con cifre zero è uguale a zero).
 
-[[src_canimath_2017_automne__Q04]]
+[[Quesiti/src_canimath_2017_automne#q04|src_canimath_2017_automne__Q04]]
 
 
 
@@ -148,7 +148,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > Si costruisce la seguente figura: disegna un triangolo $ABC$ a uguali dimensioni $A$, quindi la linea $(d)$ perpendicolare a $(BC)$ che passa attraverso $C$. Si sceglie un punto $D$ su $(d)$. Un posto $E$ in modo che $AEDB$ sia un parallelo. Infine, $M$ è il punto di intersezione di $(AE)$ e $(d)$. Prova che $M$ è il punto medio di $[AE]$.
 
-[[src_canimath_2017_automne__Q05]]
+[[Quesiti/src_canimath_2017_automne#q05|src_canimath_2017_automne__Q05]]
 
 
 
@@ -175,7 +175,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > I numeri interi rigorosamente positivi $x$, $y$ e $z$ soddisfano le due equazioni seguenti: $x + 2y = z$ e $x^2 - 4y^2 + z^2 = 310$. Trova tutti i valori che il prodotto $xyz$ può assumere.
 
-[[src_canimath_2017_automne__Q06]]
+[[Quesiti/src_canimath_2017_automne#q06|src_canimath_2017_automne__Q06]]
 
 
 
@@ -202,7 +202,7 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 
 > Su un cerchio si scrivono i numeri $2012$. Ciascuno di essi è uguale a $1$ o $-1$. La somma è $S$. Supponiamo che non esistano $10$ numeri consecutivi sul cerchio la cui somma è $0$. Quali valori $S$ può assumere in questa condizione?
 
-[[src_canimath_2017_automne__Q07]]
+[[Quesiti/src_canimath_2017_automne#q07|src_canimath_2017_automne__Q07]]
 
 
 
@@ -229,4 +229,4 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 
 > $ABCD$ sia un rettangolo tale che $AB > BC$. Il $E$ è la proiezione ortogonale di $B$ su $(AC)$ e $\Gamma$ il cerchio che attraversa $A$ e $E$ il cui centro si trova su $(AD)$. Il punto di intersezione di $\Gamma$ e $[CD]$ è $F$. Prove che $(BF)$ è il bisettore di $\widehat{AFC}$.
 
-[[src_canimath_2017_automne__Q08]]
+[[Quesiti/src_canimath_2017_automne#q08|src_canimath_2017_automne__Q08]]

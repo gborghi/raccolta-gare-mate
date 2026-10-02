@@ -55,7 +55,7 @@ Minimum squares to blacken in 7x7 squares because every 4x4 contains one
 > E) 3
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_semifinale__Q01]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q01|src_kangourou_2019_ecolier_semifinale__Q01]]
 
 
 
@@ -109,7 +109,7 @@ Minimum white cars to move to get the black car out
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_semifinale__Q02]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q02|src_kangourou_2019_ecolier_semifinale__Q02]]
 
 
 
@@ -152,7 +152,7 @@ Minimum white cars to move to get the black car out
 > E) 0
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_semifinale__Q03]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q03|src_kangourou_2019_ecolier_semifinale__Q03]]
 
 
 
@@ -192,7 +192,7 @@ Minimum white cars to move to get the black car out
 > (Doc. 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure the two sides were well matched. You got the triangle on the right. Which of the forms P, Q, R might have had the starting sheet? A) Only P B) Only Q C) Only R D) Only P and R E) All three
 
 **Answer:** E
-[[src_kangourou_2019_ecolier_semifinale__Q04]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q04|src_kangourou_2019_ecolier_semifinale__Q04]]
 
 
 
@@ -229,7 +229,7 @@ Minimum white cars to move to get the black car out
 > (Dots 4) Anna cuts a tape into four parts; she holds one part and gives the other three (one for each) to her friends Betta, Cinzia, and Donatella. The length of the part of Betta is one third of the length of that of Anna, the length of the part of Cinzia is one third of that of Betta and the length of the part of Donatella is one third of that of Cinzia. If the length of the piece of Cinderella is 3 meters, how many meters was the length of the tape before it was cut? A) 21 B) 30 C) 40 D) 54 E) 51
 
 **Answer:** C
-[[src_kangourou_2019_ecolier_semifinale__Q05]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q05|src_kangourou_2019_ecolier_semifinale__Q05]]
 
 
 
@@ -269,7 +269,7 @@ Minimum white cars to move to get the black car out
 > There Baba and his forty thieves steal 42 bags of gold coins: each bag contains the same number of coins and all the coins are identical. Then they divide the loot into equal parts. Each receives a complete bag and two gold coins. How many coins does each bag contain? A) 41 B) 42 C) 81 D) 82 E) 84 Exit P Q R
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_semifinale__Q06]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q06|src_kangourou_2019_ecolier_semifinale__Q06]]
 
 
 
@@ -321,7 +321,7 @@ Minimum white cars to move to get the black car out
 > E) h
 
 **Answer:** C
-[[src_kangourou_2019_ecolier_semifinale__Q07]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q07|src_kangourou_2019_ecolier_semifinale__Q07]]
 
 
 
@@ -355,7 +355,7 @@ Minimum white cars to move to get the black car out
 > In the subtraction you see in the figure, some digits have been replaced by letters (different letters for different digits). What 's the sum of a + b + c + d ? A) 22 B) 23 C) 24 D) 25 E) 27
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_semifinale__Q08]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q08|src_kangourou_2019_ecolier_semifinale__Q08]]
 
 
 
@@ -403,7 +403,7 @@ Minimum white cars to move to get the black car out
 > E) 8 Questions to be answered
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_semifinale__Q09]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q09|src_kangourou_2019_ecolier_semifinale__Q09]]
 
 
 
@@ -440,7 +440,7 @@ Minimum white cars to move to get the black car out
 > (Points 4) A table game is played on the grid you see in the figure. The pedina cannot go over the black cells and, in one move, can only pass from one cell to an adjacent one (i.e. it has a side in common with it) without ever returning to a previously occupied cell. How many different cells can reach the peduncle if you start from the position in the figure and make 5 moves?
 
 **Answer:** 5
-[[src_kangourou_2019_ecolier_semifinale__Q10]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q10|src_kangourou_2019_ecolier_semifinale__Q10]]
 
 
 
@@ -471,7 +471,7 @@ How many friends of Agnes dividing 121 salads
 > (Points 4) Agnese has 121 salads; she distributes them to her friends so that she and her friends have the same number of salads and more than one each. How many of Agnes' friends are there?
 
 **Answer:** 10
-[[src_kangourou_2019_ecolier_semifinale__Q11]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q11|src_kangourou_2019_ecolier_semifinale__Q11]]
 
 
 
@@ -505,7 +505,7 @@ How many friends of Agnes dividing 121 salads
 > (Points 6) Each square of this square sheet has an area of 2 cm2; how many square centimetres is the area of the figure we have drawn on the sheet?
 
 **Answer:** 24
-[[src_kangourou_2019_ecolier_semifinale__Q12]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q12|src_kangourou_2019_ecolier_semifinale__Q12]]
 
 
 
@@ -537,7 +537,7 @@ Maximum sum of the first two cards with total sum of 35
 > (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (not one of which is a jolly or a figure) and arranged them so that the score of each card did not exceed that of the next card. Putting all the scores together, he gets 35. What is the maximum value of the sum of the scores of the first two cards?
 
 **Answer:** 14
-[[src_kangourou_2019_ecolier_semifinale__Q13]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q13|src_kangourou_2019_ecolier_semifinale__Q13]]
 
 
 
@@ -567,7 +567,7 @@ Maximum sum of the first two cards with total sum of 35
 > At this moment one tank contains 100 litres of water and another tank contains 120 litres. From the first, water comes out at a rate of one litre per hour, while from the second, water comes out at a rate of three litres per hour. How many hours from now will the two tanks contain the same amount of water?
 
 **Answer:** 10
-[[src_kangourou_2019_ecolier_semifinale__Q14]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q14|src_kangourou_2019_ecolier_semifinale__Q14]]
 
 
 
@@ -629,4 +629,4 @@ Maximum sum of the first two cards with total sum of 35
 > 0005 0010 0024 0014 0010 0014
 
 **Answer:** 14
-[[src_kangourou_2019_ecolier_semifinale__Q15]]
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q15|src_kangourou_2019_ecolier_semifinale__Q15]]

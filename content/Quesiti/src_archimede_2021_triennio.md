@@ -46,7 +46,7 @@ level: triennio
 > - **(D)** 65
 > - **(E)** 54
 
-[[src_archimede_2021_triennio__Q01]]
+[[Quesiti/src_archimede_2021_triennio#q01|src_archimede_2021_triennio__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: triennio
 > - **(D)** 19/2
 > - **(E)** 47/7
 
-[[src_archimede_2021_triennio__Q02]]
+[[Quesiti/src_archimede_2021_triennio#q02|src_archimede_2021_triennio__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: triennio
 > - **(D)** It is not possible to establish
 > - **(E)** 42
 
-[[src_archimede_2021_triennio__Q03]]
+[[Quesiti/src_archimede_2021_triennio#q03|src_archimede_2021_triennio__Q03]]
 
 
 
@@ -167,7 +167,7 @@ level: triennio
 > - **(D)** 779 · 1416 · 2213
 > - **(E)** 779 · 1412 · 2216
 
-[[src_archimede_2021_triennio__Q04]]
+[[Quesiti/src_archimede_2021_triennio#q04|src_archimede_2021_triennio__Q04]]
 
 
 
@@ -207,7 +207,7 @@ level: triennio
 > - **(D)** 8/15
 > - **(E)** 5/8
 
-[[src_archimede_2021_triennio__Q05]]
+[[Quesiti/src_archimede_2021_triennio#q05|src_archimede_2021_triennio__Q05]]
 
 
 
@@ -247,7 +247,7 @@ level: triennio
 > - **(D)** 70
 > - **(E)** 81
 
-[[src_archimede_2021_triennio__Q06]]
+[[Quesiti/src_archimede_2021_triennio#q06|src_archimede_2021_triennio__Q06]]
 
 
 
@@ -286,7 +286,7 @@ level: triennio
 > - **(D)** 152 m
 > - **(E)** 154 m
 
-[[src_archimede_2021_triennio__Q07]]
+[[Quesiti/src_archimede_2021_triennio#q07|src_archimede_2021_triennio__Q07]]
 
 
 
@@ -383,7 +383,7 @@ level: triennio
 > - **(D)** 27 mm2
 > - **(E)** 32 mm2
 
-[[src_archimede_2021_triennio__Q08]]
+[[Quesiti/src_archimede_2021_triennio#q08|src_archimede_2021_triennio__Q08]]
 
 
 
@@ -423,7 +423,7 @@ level: triennio
 > - **(D)** 23/2
 > - **(E)** 19/4
 
-[[src_archimede_2021_triennio__Q09]]
+[[Quesiti/src_archimede_2021_triennio#q09|src_archimede_2021_triennio__Q09]]
 
 
 
@@ -464,7 +464,7 @@ level: triennio
 > - **(D)** Endless
 > - **(E)** 4
 
-[[src_archimede_2021_triennio__Q10]]
+[[Quesiti/src_archimede_2021_triennio#q10|src_archimede_2021_triennio__Q10]]
 
 
 
@@ -506,7 +506,7 @@ level: triennio
 > - **(D)** 36°
 > - **(E)** 33°
 
-[[src_archimede_2021_triennio__Q11]]
+[[Quesiti/src_archimede_2021_triennio#q11|src_archimede_2021_triennio__Q11]]
 
 
 
@@ -546,4 +546,4 @@ level: triennio
 > - **(D)** 9/2
 > - **(E)** 18/5 1302 Italian Mathematical Union Olympic Mathematics Project Ministry of Education The Archimedean Games - Triennial Competition 2 December 2021  The test consists of 12 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong.  Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded.  For each of the problems, the corresponding letter to the correct answer must be transcribed in the grid below. Cancellations or corrections on the grid are not permitted. No calculator or communication device shall be used during the test. The time you have is 60 minutes. Good work and good fun! COGNOME COGNOME CLASS date of birth: email address: RESPONSES TO PROBLEMS: 1 2 3 4 5 6 7 8 9 10 11 12 The games of Archimedes 2021 GARA TREENNIO   CODE PROVA: 1302
 
-[[src_archimede_2021_triennio__Q12]]
+[[Quesiti/src_archimede_2021_triennio#q12|src_archimede_2021_triennio__Q12]]

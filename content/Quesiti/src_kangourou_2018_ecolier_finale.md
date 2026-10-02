@@ -37,7 +37,7 @@ level: kangourou
 > Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many boys?
 
 **Answer:** 0028
-[[src_kangourou_2018_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q01|src_kangourou_2018_ecolier_finale__Q01]]
 
 
 
@@ -70,7 +70,7 @@ Time of departure of the last couple from the castle
 > The Ghost Castle One of the attractions of an amusement park is the Ghost Castle: to get around it you have to take a two-seater carriage; one passes every 2 minutes and the complete tour lasts 26 minutes. A group of 12 friends shows up at 11:40 p.m. and the first couple leaves immediately. If everyone gets on the wagons in pairs and doesn't lose a single wagon, what time does the last couple leave the castle? To give the answer, type in a row the hours and minutes; e.g. 11:40 is 1140.
 
 **Answer:** 1216
-[[src_kangourou_2018_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q02|src_kangourou_2018_ecolier_finale__Q02]]
 
 
 
@@ -151,7 +151,7 @@ Time of departure of the last couple from the castle
 > MATE I marked on a circumference 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels a point yes and a point no I do several complete turns, clockwise, around the circumference until I read the word MATE for 2018 times: here I stop. How many times have I done a full circle?
 
 **Answer:** 1345
-[[src_kangourou_2018_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q03|src_kangourou_2018_ecolier_finale__Q03]]
 
 
 
@@ -186,7 +186,7 @@ This is a list of the countries of the European Economic Area.
 > The sum of A, B, C and D are four different digits that make the addition correct: What number is C D B A?
 
 **Answer:** 1798
-[[src_kangourou_2018_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q04|src_kangourou_2018_ecolier_finale__Q04]]
 
 
 
@@ -217,7 +217,7 @@ This is a list of the countries of the European Economic Area.
 > From the bakery Three friends are from the bakery: Alda spends 18 euros for 10 pizzas, 4 cakes and an orange, Bianca spends 13.50 euros for 7 pizzas, 3 cakes and an orange. How many cents does Carla spend on a pizza, a cake and an orange?
 
 **Answer:** 0450
-[[src_kangourou_2018_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q05|src_kangourou_2018_ecolier_finale__Q05]]
 
 
 
@@ -269,7 +269,7 @@ This is a list of the countries of the European Economic Area.
 > 2
 
 **Answer:** 1408
-[[src_kangourou_2018_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q06|src_kangourou_2018_ecolier_finale__Q06]]
 
 
 
@@ -300,7 +300,7 @@ How many games have A and C played?
 > Basketball Three basketball teams have played some training matches. Team A played 11 games, team B played 9 games and team C played 12 games. How many times have teams A and C played together?
 
 **Answer:** 0007
-[[src_kangourou_2018_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q07|src_kangourou_2018_ecolier_finale__Q07]]
 
 
 
@@ -332,7 +332,7 @@ How many times did the fortune teller guess?
 > A fortune teller was called to court to make forecasts for the next day every night. The next morning, the king, if he guessed, gave him four gold coins, if he had mistaken the tax of three gold coins. The morning after the 35th prediction the king releases the fortune teller. Lndvino discovers that in this game of prizes and taxes he has neither lost nor gained us. How many times have you guessed?
 
 **Answer:** 0015
-[[src_kangourou_2018_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q08|src_kangourou_2018_ecolier_finale__Q08]]
 
 
 
@@ -363,7 +363,7 @@ How many times did the fortune teller guess?
 > Three-digit numbers Catherine writes the three-digit numbers that are multiples of either 3, 7, or 11, and then she adds them up. What's your number?
 
 **Answer:** 2310
-[[src_kangourou_2018_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q09|src_kangourou_2018_ecolier_finale__Q09]]
 
 
 
@@ -400,7 +400,7 @@ How many times did the fortune teller guess?
 > The garden A square garden contains five square floors (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flower are exactly on the horizontal and vertical lines). If the total area of the orchards is 25 square meters, how many meters does the perimeter of the garden measure?
 
 **Answer:** 0040
-[[src_kangourou_2018_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q10|src_kangourou_2018_ecolier_finale__Q10]]
 
 
 
@@ -432,7 +432,7 @@ How many times did the fortune teller guess?
 > The Clara Alice sequence has written the ABCAABBCCAAABBBCCC letter sequence. Biagio rewrote Alice's sequence by replacing each letter A with a pair of letters BB. Finally Clara rewrote Biagio's sequence replacing each letter B with the letter CCC. How many letters are in Clara's sequence?
 
 **Answer:** 0060
-[[src_kangourou_2018_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q11|src_kangourou_2018_ecolier_finale__Q11]]
 
 
 
@@ -463,7 +463,7 @@ How many times did the fortune teller guess?
 > Cube Let's say a natural number A other than zero is a cube if there's another natural number B such that A = B×B×B: for example 8 is a cube. What is the smallest number that is a cube and is the sum of three cubes?
 
 **Answer:** 0216
-[[src_kangourou_2018_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q12|src_kangourou_2018_ecolier_finale__Q12]]
 
 
 
@@ -496,7 +496,7 @@ How many times did the fortune teller guess?
 > Bice Bice numbers only love 4-digit numbers that satisfy both of these properties:  there are no numbers other than 1, 2 or 3 in the number  there are no two adjacent numbers equal How many 4-digit numbers does Bice love?
 
 **Answer:** 0024
-[[src_kangourou_2018_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q13|src_kangourou_2018_ecolier_finale__Q13]]
 
 
 
@@ -532,7 +532,7 @@ How many times did the fortune teller guess?
 > The rectangles Elena wants to draw three rectangles on a square sheet, each of which has sides on the lines that delimit the squares and none of which touches the edge of the sheet. What is the maximum number of parts that rectangles can divide the page into?
 
 **Answer:** 0014
-[[src_kangourou_2018_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q14|src_kangourou_2018_ecolier_finale__Q14]]
 
 
 
@@ -583,4 +583,4 @@ How many times did the fortune teller guess?
 > Questions and developments
 
 **Answer:** 0001
-[[src_kangourou_2018_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2018_ecolier_finale#q15|src_kangourou_2018_ecolier_finale__Q15]]

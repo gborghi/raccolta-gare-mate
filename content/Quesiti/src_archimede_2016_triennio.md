@@ -38,7 +38,7 @@ Minutes on the pitch per player, 16 out of 11
 > A team of 16 people takes part in a sporting tournament. The rules stipulate that 11 players per team are always present on the pitch and that, during each match (during 90 minutes), all 16 members of each team must play the same number of minutes. How many minutes will each player be on the field during the game? (A) less than 57 (B) between 57 and 60 (C) between 60 and 63 (D) between 63 and 66 (E) more than 66
 
 **Answer:** C
-[[src_archimede_2016_triennio__Q01]]
+[[Quesiti/src_archimede_2016_triennio#q01|src_archimede_2016_triennio__Q01]]
 
 
 
@@ -81,7 +81,7 @@ Minutes on the pitch per player, 16 out of 11
 > - **(E)** 8
 
 **Answer:** A
-[[src_archimede_2016_triennio__Q02]]
+[[Quesiti/src_archimede_2016_triennio#q02|src_archimede_2016_triennio__Q02]]
 
 
 
@@ -122,7 +122,7 @@ Minutes on the pitch per player, 16 out of 11
 > - **(E)** 600
 
 **Answer:** D
-[[src_archimede_2016_triennio__Q03]]
+[[Quesiti/src_archimede_2016_triennio#q03|src_archimede_2016_triennio__Q03]]
 
 
 
@@ -168,7 +168,7 @@ The winner of the contest
 > - **(E)** Barbara and Daria
 
 **Answer:** B
-[[src_archimede_2016_triennio__Q04]]
+[[Quesiti/src_archimede_2016_triennio#q04|src_archimede_2016_triennio__Q04]]
 
 
 
@@ -211,7 +211,7 @@ The winner of the contest
 > - **(E)** 15
 
 **Answer:** B
-[[src_archimede_2016_triennio__Q05]]
+[[Quesiti/src_archimede_2016_triennio#q05|src_archimede_2016_triennio__Q05]]
 
 
 
@@ -257,7 +257,7 @@ The winner of the contest
 > - **(E)** Which is odd.
 
 **Answer:** A
-[[src_archimede_2016_triennio__Q06]]
+[[Quesiti/src_archimede_2016_triennio#q06|src_archimede_2016_triennio__Q06]]
 
 
 
@@ -307,7 +307,7 @@ The winner of the contest
 > - **(E)** 3, 4, 4, 0
 
 **Answer:** E
-[[src_archimede_2016_triennio__Q07]]
+[[Quesiti/src_archimede_2016_triennio#q07|src_archimede_2016_triennio__Q07]]
 
 
 
@@ -353,7 +353,7 @@ The winner of the contest
 > - **(E)** 4 −π/2
 
 **Answer:** B
-[[src_archimede_2016_triennio__Q09]]
+[[Quesiti/src_archimede_2016_triennio#q09|src_archimede_2016_triennio__Q09]]
 
 
 
@@ -398,7 +398,7 @@ Common days off of Romeo and Juliet
 > - **(E)** 5
 
 **Answer:** A
-[[src_archimede_2016_triennio__Q10]]
+[[Quesiti/src_archimede_2016_triennio#q10|src_archimede_2016_triennio__Q10]]
 
 
 
@@ -438,7 +438,7 @@ Common days off of Romeo and Juliet
 > - **(E)** 949
 
 **Answer:** A
-[[src_archimede_2016_triennio__Q11]]
+[[Quesiti/src_archimede_2016_triennio#q11|src_archimede_2016_triennio__Q11]]
 
 
 
@@ -479,7 +479,7 @@ Common days off of Romeo and Juliet
 > - **(E)** 5/72
 
 **Answer:** E
-[[src_archimede_2016_triennio__Q12]]
+[[Quesiti/src_archimede_2016_triennio#q12|src_archimede_2016_triennio__Q12]]
 
 
 
@@ -520,7 +520,7 @@ Common days off of Romeo and Juliet
 > - **(E)** √ 2020 2019
 
 **Answer:** E
-[[src_archimede_2016_triennio__Q13]]
+[[Quesiti/src_archimede_2016_triennio#q13|src_archimede_2016_triennio__Q13]]
 
 
 
@@ -571,7 +571,7 @@ Common days off of Romeo and Juliet
 > - **(E)** 24° O A B 60° C D P
 
 **Answer:** C
-[[src_archimede_2016_triennio__Q14]]
+[[Quesiti/src_archimede_2016_triennio#q14|src_archimede_2016_triennio__Q14]]
 
 
 
@@ -614,7 +614,7 @@ Common days off of Romeo and Juliet
 > - **(E)** 149
 
 **Answer:** D
-[[src_archimede_2016_triennio__Q15]]
+[[Quesiti/src_archimede_2016_triennio#q15|src_archimede_2016_triennio__Q15]]
 
 
 
@@ -660,7 +660,7 @@ Common days off of Romeo and Juliet
 > - **(E)** 11/2
 
 **Answer:** B
-[[src_archimede_2016_triennio__Q16]]
+[[Quesiti/src_archimede_2016_triennio#q16|src_archimede_2016_triennio__Q16]]
 
 
 
@@ -703,7 +703,7 @@ Part of the perimeter closer to A than to C
 > - **(E)** 40/3
 
 **Answer:** E
-[[src_archimede_2016_triennio__Q17]]
+[[Quesiti/src_archimede_2016_triennio#q17|src_archimede_2016_triennio__Q17]]
 
 
 
@@ -747,7 +747,7 @@ Part of the perimeter closer to A than to C
 > - **(E)** a value between 40 and 50
 
 **Answer:** B
-[[src_archimede_2016_triennio__Q19]]
+[[Quesiti/src_archimede_2016_triennio#q19|src_archimede_2016_triennio__Q19]]
 
 
 
@@ -795,4 +795,4 @@ Part of the perimeter closer to A than to C
 > - **(E)** 69 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Archimedean Games - Triennio competition 23 November 2016 • The test consists of 20 problems. Each question shall be followed by five replies indicated by the letters (A), (B), (C), (D) and (E): one of these answers is correct and the other four are incorrect. • Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 
 **Answer:** C
-[[src_archimede_2016_triennio__Q20]]
+[[Quesiti/src_archimede_2016_triennio#q20|src_archimede_2016_triennio__Q20]]

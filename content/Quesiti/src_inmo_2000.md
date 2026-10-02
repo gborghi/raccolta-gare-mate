@@ -33,7 +33,7 @@ level: INMO
 
 > Il cerchio del triangolo $ABC$ tocca rispettivamente i lati $BC$, $CA$ e $AB$ di $K$, $L$ e $M$. La linea attraverso $A$ e parallela a $LK$ incontra $MK$ in $P$ e la linea attraverso $A$ e parallela a $MK$ incontra $LK$ in $Q$. Indicare che la linea $PQ$ divide i lati $AB$ e $AC$ del triangolo $ABC$.
 
-[[src_inmo_2000__Q01]]
+[[Quesiti/src_inmo_2000#q01|src_inmo_2000__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: INMO
 
 > Risolvere per i numeri interi $x, y, z$: $$x + y = 1 - z, \quad x^3 + y^3 = 1 - z^2.$$
 
-[[src_inmo_2000__Q02]]
+[[Quesiti/src_inmo_2000#q02|src_inmo_2000__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: INMO
 
 > Se $a, b, c$ sono numeri reali come $abc \neq 0$ e $$\frac{xb + (1-x)c}{a} = \frac{xc + (1-x)a}{b} = \frac{xa + (1-x)b}{c},$$, dimostrare che $a + b + c = 0$ o $a = b = c$.
 
-[[src_inmo_2000__Q03]]
+[[Quesiti/src_inmo_2000#q03|src_inmo_2000__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: INMO
 
 > In un quadrilaterale converso $PQRS$, $PQ = RS = (\sqrt{3}+1)QR = SP$ e $\angle RSP - \angle SPQ = 30^\circ$. Provare che $$\angle PQR - \angle QRS = 90^\circ.$$
 
-[[src_inmo_2000__Q04]]
+[[Quesiti/src_inmo_2000#q04|src_inmo_2000__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: INMO
 
 > $a, b, c$ siano tre numeri reali come $1 \le a \le b \le c \ge 0$. Prove che se $\lambda$ è una radice dell'equazione cubica $x^3 + ax^2 + bx + c = 0$ (reale o complessa), allora $|\lambda| \le 1$.
 
-[[src_inmo_2000__Q05]]
+[[Quesiti/src_inmo_2000#q05|src_inmo_2000__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: INMO
 
 > Per qualsiasi numero naturale $n$ ($n \ge 3$), $f(n)$ indichi il numero di triangoli a lato intero non congruenti con perimetro $n$ (ad esempio, $f(3) = 1$, $f(4) = 0$, $f(7) = 2$). Indicare che (a) $f(1999) > f(1996)$; (b) $f(2000) = f(1997)$.
 
-[[src_inmo_2000__Q06]]
+[[Quesiti/src_inmo_2000#q06|src_inmo_2000__Q06]]

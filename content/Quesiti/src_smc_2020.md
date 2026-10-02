@@ -46,7 +46,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $0.55$
 
 **Risposta:** C
-[[src_smc_2020__Q01]]
+[[Quesiti/src_smc_2020#q01|src_smc_2020__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $4$
 
 **Risposta:** C
-[[src_smc_2020__Q02]]
+[[Quesiti/src_smc_2020#q02|src_smc_2020__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $28$
 > - **(E)** $30$
 
-![[src_smc_2020__Q03.png]]
+![[src_smc_2020__q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -129,10 +129,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $28$
 > - **(E)** $30$
 
-![[src_smc_2020__Q03.png]]
+![[src_smc_2020__q03.png]]
 
 **Risposta:** A
-[[src_smc_2020__Q03]]
+[[Quesiti/src_smc_2020#q03|src_smc_2020__Q03]]
 
 
 
@@ -172,7 +172,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $34$
 
 **Risposta:** B
-[[src_smc_2020__Q04]]
+[[Quesiti/src_smc_2020#q04|src_smc_2020__Q04]]
 
 
 
@@ -212,7 +212,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $111$
 
 **Risposta:** C
-[[src_smc_2020__Q05]]
+[[Quesiti/src_smc_2020#q05|src_smc_2020__Q05]]
 
 
 
@@ -253,7 +253,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $7$
 
 **Risposta:** E
-[[src_smc_2020__Q06]]
+[[Quesiti/src_smc_2020#q06|src_smc_2020__Q06]]
 
 
 
@@ -293,7 +293,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $90$
 
 **Risposta:** D
-[[src_smc_2020__Q07]]
+[[Quesiti/src_smc_2020#q07|src_smc_2020__Q07]]
 
 
 
@@ -334,7 +334,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $17$
 
 **Risposta:** D
-[[src_smc_2020__Q08]]
+[[Quesiti/src_smc_2020#q08|src_smc_2020__Q08]]
 
 
 
@@ -374,7 +374,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $1$
 
 **Risposta:** B
-[[src_smc_2020__Q09]]
+[[Quesiti/src_smc_2020#q09|src_smc_2020__Q09]]
 
 
 
@@ -415,7 +415,7 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(E)** $0$
 
 **Risposta:** C
-[[src_smc_2020__Q10]]
+[[Quesiti/src_smc_2020#q10|src_smc_2020__Q10]]
 
 
 
@@ -434,7 +434,7 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(D)** $4 - 2\sqrt{2}$
 > - **(E)** $6$
 
-![[src_smc_2020__Q11.png]]
+![[src_smc_2020__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -456,10 +456,10 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(D)** $4 - 2\sqrt{2}$
 > - **(E)** $6$
 
-![[src_smc_2020__Q11.png]]
+![[src_smc_2020__q11.png]]
 
 **Risposta:** E
-[[src_smc_2020__Q11]]
+[[Quesiti/src_smc_2020#q11|src_smc_2020__Q11]]
 
 
 
@@ -499,7 +499,7 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(E)** ulteriori informazioni necessarie
 
 **Risposta:** B
-[[src_smc_2020__Q12]]
+[[Quesiti/src_smc_2020#q12|src_smc_2020__Q12]]
 
 
 
@@ -540,7 +540,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $17$
 
 **Risposta:** D
-[[src_smc_2020__Q13]]
+[[Quesiti/src_smc_2020#q13|src_smc_2020__Q13]]
 
 
 
@@ -559,7 +559,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $180$
 > - **(E)** $216$
 
-![[src_smc_2020__Q14.png]]
+![[src_smc_2020__q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -582,10 +582,10 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $180$
 > - **(E)** $216$
 
-![[src_smc_2020__Q14.png]]
+![[src_smc_2020__q14.png]]
 
 **Risposta:** B
-[[src_smc_2020__Q14]]
+[[Quesiti/src_smc_2020#q14|src_smc_2020__Q14]]
 
 
 
@@ -604,7 +604,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $9\pi + 4\sqrt{3}$
 > - **(E)** $6\pi + \frac{9}{2}$
 
-![[src_smc_2020__Q15.png]]
+![[src_smc_2020__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -626,10 +626,10 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $9\pi + 4\sqrt{3}$
 > - **(E)** $6\pi + \frac{9}{2}$
 
-![[src_smc_2020__Q15.png]]
+![[src_smc_2020__q15.png]]
 
 **Risposta:** A
-[[src_smc_2020__Q15]]
+[[Quesiti/src_smc_2020#q15|src_smc_2020__Q15]]
 
 
 
@@ -648,7 +648,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** graph D (circle or closed curve)
 > - **(E)** graph E (two straight lines crossing: $y = x+2$ and $y = -x$)
 
-![[src_smc_2020__Q16.png]]
+![[src_smc_2020__q16.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -671,10 +671,10 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** grafico D (circolo o curva chiusa)
 > - **(E)** grafico E (due linee rette che si incrociano: $y = x+2$ e $y = -x$)
 
-![[src_smc_2020__Q16.png]]
+![[src_smc_2020__q16.png]]
 
 **Risposta:** E
-[[src_smc_2020__Q16]]
+[[Quesiti/src_smc_2020#q16|src_smc_2020__Q16]]
 
 
 
@@ -715,7 +715,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $9$
 
 **Risposta:** A
-[[src_smc_2020__Q17]]
+[[Quesiti/src_smc_2020#q17|src_smc_2020__Q17]]
 
 
 
@@ -755,7 +755,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $10$
 
 **Risposta:** E
-[[src_smc_2020__Q18]]
+[[Quesiti/src_smc_2020#q18|src_smc_2020__Q18]]
 
 
 
@@ -796,7 +796,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $2$
 
 **Risposta:** A
-[[src_smc_2020__Q19]]
+[[Quesiti/src_smc_2020#q19|src_smc_2020__Q19]]
 
 
 
@@ -836,7 +836,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $\dfrac{1}{\sqrt{5}}$
 
 **Risposta:** E
-[[src_smc_2020__Q20]]
+[[Quesiti/src_smc_2020#q20|src_smc_2020__Q20]]
 
 
 
@@ -876,7 +876,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $4041$
 
 **Risposta:** C
-[[src_smc_2020__Q21]]
+[[Quesiti/src_smc_2020#q21|src_smc_2020__Q21]]
 
 
 
@@ -895,7 +895,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $4\sqrt{3}$
 > - **(E)** $3\sqrt{7}$
 
-![[src_smc_2020__Q22.png]]
+![[src_smc_2020__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -917,10 +917,10 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $4\sqrt{3}$
 > - **(E)** $3\sqrt{7}$
 
-![[src_smc_2020__Q22.png]]
+![[src_smc_2020__q22.png]]
 
 **Risposta:** A
-[[src_smc_2020__Q22]]
+[[Quesiti/src_smc_2020#q22|src_smc_2020__Q22]]
 
 
 
@@ -960,7 +960,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(E)** $2023$
 
 **Risposta:** D
-[[src_smc_2020__Q23]]
+[[Quesiti/src_smc_2020#q23|src_smc_2020__Q23]]
 
 
 
@@ -979,7 +979,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $4$
 > - **(E)** $5$
 
-![[src_smc_2020__Q24.png]]
+![[src_smc_2020__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -1002,10 +1002,10 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $4$
 > - **(E)** $5$
 
-![[src_smc_2020__Q24.png]]
+![[src_smc_2020__q24.png]]
 
 **Risposta:** B
-[[src_smc_2020__Q24]]
+[[Quesiti/src_smc_2020#q24|src_smc_2020__Q24]]
 
 
 
@@ -1024,7 +1024,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $50$
 > - **(E)** $100$
 
-![[src_smc_2020__Q25.png]]
+![[src_smc_2020__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -1047,7 +1047,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $50$
 > - **(E)** $100$
 
-![[src_smc_2020__Q25.png]]
+![[src_smc_2020__q25.png]]
 
 **Risposta:** C
-[[src_smc_2020__Q25]]
+[[Quesiti/src_smc_2020#q25|src_smc_2020__Q25]]

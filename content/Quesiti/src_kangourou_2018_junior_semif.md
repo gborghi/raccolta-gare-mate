@@ -53,7 +53,7 @@ level: kangourou
 > E) Infinite
 
 **Answer:** B
-[[src_kangourou_2018_junior_semif__Q01]]
+[[Quesiti/src_kangourou_2018_junior_semif#q01|src_kangourou_2018_junior_semif__Q01]]
 
 
 
@@ -119,7 +119,7 @@ level: kangourou
 > (Documents 3) The eye in the figure is made up of two quarters of the circumference of each of the lengths 1 and the circle C of the largest possible radius contained in the region bounded by them. How long is the circumference of C? A) 2 B) π - 1 C) 3√2 - 2 D) 4√2 - π E) A number different from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2018_junior_semif__Q02]]
+[[Quesiti/src_kangourou_2018_junior_semif#q02|src_kangourou_2018_junior_semif__Q02]]
 
 
 
@@ -195,7 +195,7 @@ level: kangourou
 > (Points 3) The four points A, B, C and D are marked on a square sheet of paper (see section below). Henry wants to identify a figure that is either an equilateral triangle, or a square, or a circle whose edge passes through all four points. So the figure can be A) either an equilateral triangle or a square, but not a circle. (b) a square, but not an equilateral triangle or a circle. (c) is a square or a circle, but not an equilateral triangle. (d) any of the following: (e) none of those listed.
 
 **Answer:** A
-[[src_kangourou_2018_junior_semif__Q03]]
+[[Quesiti/src_kangourou_2018_junior_semif#q03|src_kangourou_2018_junior_semif__Q03]]
 
 
 
@@ -231,7 +231,7 @@ The probability that Alice's number exceeds Barbara's
 > (Points 4) Alice and Barbara randomly and separately select an integer between 1 and 2018. The two numbers are then compared. What is the probability that the number Alice chose is greater than the number Barbara chose? This appropriation is intended to cover expenditure relating to the implementation of the programme.
 
 **Answer:** B
-[[src_kangourou_2018_junior_semif__Q04]]
+[[Quesiti/src_kangourou_2018_junior_semif#q04|src_kangourou_2018_junior_semif__Q04]]
 
 
 
@@ -271,7 +271,7 @@ The probability that Alice's number exceeds Barbara's
 > C) 4/3 D) 3/2 E) 5/3
 
 **Answer:** B
-[[src_kangourou_2018_junior_semif__Q05]]
+[[Quesiti/src_kangourou_2018_junior_semif#q05|src_kangourou_2018_junior_semif__Q05]]
 
 
 
@@ -314,7 +314,7 @@ The probability that Alice's number exceeds Barbara's
 > E) 9
 
 **Answer:** D
-[[src_kangourou_2018_junior_semif__Q06]]
+[[Quesiti/src_kangourou_2018_junior_semif#q06|src_kangourou_2018_junior_semif__Q06]]
 
 
 
@@ -360,7 +360,7 @@ The probability that Alice's number exceeds Barbara's
 > D) Exactly 4 E) More than 4
 
 **Answer:** E
-[[src_kangourou_2018_junior_semif__Q07]]
+[[Quesiti/src_kangourou_2018_junior_semif#q07|src_kangourou_2018_junior_semif__Q07]]
 
 
 
@@ -406,7 +406,7 @@ The probability that Alice's number exceeds Barbara's
 > E) Infinite
 
 **Answer:** D
-[[src_kangourou_2018_junior_semif__Q08]]
+[[Quesiti/src_kangourou_2018_junior_semif#q08|src_kangourou_2018_junior_semif__Q08]]
 
 
 
@@ -447,7 +447,7 @@ This is a list of the countries of the European Economic Area.
 > Open-ended questions
 
 **Answer:** D
-[[src_kangourou_2018_junior_semif__Q09]]
+[[Quesiti/src_kangourou_2018_junior_semif#q09|src_kangourou_2018_junior_semif__Q09]]
 
 
 
@@ -477,7 +477,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 4) The (real) solutions of the equation (97 - x) 1/4 + x 1/4 = 5 are integers. How much is their product worth?
 
 **Answer:** 1296
-[[src_kangourou_2018_junior_semif__Q10]]
+[[Quesiti/src_kangourou_2018_junior_semif#q10|src_kangourou_2018_junior_semif__Q10]]
 
 
 
@@ -507,7 +507,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 5) M is the sum of the odd positive integers less than 1000 and N is the sum of the positive integers strictly less than 1000. How much is M-N ?
 
 **Answer:** 500
-[[src_kangourou_2018_junior_semif__Q11]]
+[[Quesiti/src_kangourou_2018_junior_semif#q11|src_kangourou_2018_junior_semif__Q11]]
 
 
 
@@ -538,7 +538,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the relationship between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 
 **Answer:** 5
-[[src_kangourou_2018_junior_semif__Q12]]
+[[Quesiti/src_kangourou_2018_junior_semif#q12|src_kangourou_2018_junior_semif__Q12]]
 
 
 
@@ -569,7 +569,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > Mark must take three hard kicks. Knowing yourself, you know that the probability of scoring is the same in all three and that the probability of scoring in at least one of the three is 0.999. What's the likelihood that he'll score when he draws the first line? (Include decimal places after the comma up to the fourth: e.g. If the probability is 0.81, write the answer as 8100.)
 
 **Answer:** 9000
-[[src_kangourou_2018_junior_semif__Q13]]
+[[Quesiti/src_kangourou_2018_junior_semif#q13|src_kangourou_2018_junior_semif__Q13]]
 
 
 
@@ -599,7 +599,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 6) For how many different pairs (a, b) of relative integers between - 2018 and 2018, extremes included, is 2a + b + 6 = 0?
 
 **Answer:** 2019
-[[src_kangourou_2018_junior_semif__Q14]]
+[[Quesiti/src_kangourou_2018_junior_semif#q14|src_kangourou_2018_junior_semif__Q14]]
 
 
 
@@ -631,7 +631,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 6) Each point P of the whole-coordinate plane is assigned a nonnegative integer which is the average of the four numbers assigned to the four points 1 to P. The item (2018, 2018) is assigned the number 2018. What is the smallest of the values that appear among those assigned to the P variable?
 
 **Answer:** 2018
-[[src_kangourou_2018_junior_semif__Q15]]
+[[Quesiti/src_kangourou_2018_junior_semif#q15|src_kangourou_2018_junior_semif__Q15]]
 
 
 
@@ -661,7 +661,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 7) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
 
 **Answer:** 669
-[[src_kangourou_2018_junior_semif__Q16]]
+[[Quesiti/src_kangourou_2018_junior_semif#q16|src_kangourou_2018_junior_semif__Q16]]
 
 
 
@@ -694,7 +694,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > (Points 7) A railway company operates a line with m stations. He then builds other n's, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, how much are they worth, in order, m and n? (For example, if m = 25 and n = 4, write 2504.)
 
 **Answer:** 1102
-[[src_kangourou_2018_junior_semif__Q17]]
+[[Quesiti/src_kangourou_2018_junior_semif#q17|src_kangourou_2018_junior_semif__Q17]]
 
 
 
@@ -736,4 +736,4 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 > 1296 0500 0005 9000 2019 2018 0669 1102 3600
 
 **Answer:** 3600
-[[src_kangourou_2018_junior_semif__Q18]]
+[[Quesiti/src_kangourou_2018_junior_semif#q18|src_kangourou_2018_junior_semif__Q18]]

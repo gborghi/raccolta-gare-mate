@@ -41,7 +41,7 @@ level: OBM Nível 1
 > 
 > b) Tra i numeri rimanenti, quanti sono stati scritti utilizzando solo i numeri $0$ e $1$?
 
-[[src_obm_2011_n1_f3__Q01]]
+[[Quesiti/src_obm_2011_n1_f3#q01|src_obm_2011_n1_f3__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: OBM Nível 1
 
 > Abbiamo un cubo rosso con bordo $2$ cm. Qual è il numero minimo di piccoli cubetti uguali che dobbiamo unire a quello rosso per ottenere un cubo di volume $\left(\frac{12}{5}\right)^3$ cm$^3$?
 
-[[src_obm_2011_n1_f3__Q02]]
+[[Quesiti/src_obm_2011_n1_f3#q02|src_obm_2011_n1_f3__Q02]]
 
 
 
@@ -105,7 +105,7 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 > 
 > b) Esiste un numero intero positivo con cifre $2011$ che è un chapa? Giustifica la tua risposta.
 
-[[src_obm_2011_n1_f3__Q03]]
+[[Quesiti/src_obm_2011_n1_f3#q03|src_obm_2011_n1_f3__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 > 
 > b) Calculate the area of the quadrilateral $BCDE$.
 
-![[src_obm_2011_n1_f3__Q04.png]]
+![[src_obm_2011_n1_f3__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -142,9 +142,9 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 > 
 > b) Calcolare l'area del quadrilaterale $BCDE$.
 
-![[src_obm_2011_n1_f3__Q04.png]]
+![[src_obm_2011_n1_f3__q04.png]]
 
-[[src_obm_2011_n1_f3__Q04]]
+[[Quesiti/src_obm_2011_n1_f3#q04|src_obm_2011_n1_f3__Q04]]
 
 
 
@@ -179,4 +179,4 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 > 
 > b) È possibile che nessuna delle somme $8$ sia un multiple di $3$? Ricorda che devi giustificare la tua risposta.
 
-[[src_obm_2011_n1_f3__Q05]]
+[[Quesiti/src_obm_2011_n1_f3#q05|src_obm_2011_n1_f3__Q05]]

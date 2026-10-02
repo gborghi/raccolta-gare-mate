@@ -35,7 +35,7 @@ level: INMO
 
 > Prove che il polinomio $$f(x) = x^4 + 26x^3 + 52x^2 + 78x + 1989$$ è irriducibile su $\mathbb{Z}[x]$.
 
-[[src_inmo_1989__Q01]]
+[[Quesiti/src_inmo_1989#q01|src_inmo_1989__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: INMO
 
 > Lasciate che $a, b, c$ siano numeri reali, non tutti zero. Prova che le radici del polinomio $x^3 + ax^2 + bx + c = 0$ non possono essere tutte razionali.
 
-[[src_inmo_1989__Q02]]
+[[Quesiti/src_inmo_1989#q02|src_inmo_1989__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: INMO
 
 > $A$ sia un sottogruppo del set $\{1, 11, 21, 31, \ldots, 551\}$ il cui numero di elementi non si somma a $552$. Indicare che $A$ non ha più di $38$ elementi.
 
-[[src_inmo_1989__Q03]]
+[[Quesiti/src_inmo_1989#q03|src_inmo_1989__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: INMO
 
 > Trova tutti i numeri naturali $n$ in modo tale che (i) $n$ non sia un quadrato e (ii) $\lfloor \sqrt{n} \rfloor^2$ divida $n^2$.
 
-[[src_inmo_1989__Q04]]
+[[Quesiti/src_inmo_1989#q04|src_inmo_1989__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: INMO
 
 > Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può essere mantenuta a entrambi i limiti?
 
-[[src_inmo_1989__Q05]]
+[[Quesiti/src_inmo_1989#q05|src_inmo_1989__Q05]]
 
 
 
@@ -174,7 +174,7 @@ level: INMO
 
 > In un triangolo scalene $ABC$ l'angolo $A$ è obtuso. Determinare l'insieme di punti sul lato esteso $BC$ in modo tale che $AD = \sqrt{BD \cdot CD}$.
 
-[[src_inmo_1989__Q06]]
+[[Quesiti/src_inmo_1989#q06|src_inmo_1989__Q06]]
 
 
 
@@ -201,4 +201,4 @@ level: INMO
 
 > Un triangolo $ABC$ è angolato acuto. Per qualsiasi punto $P$ nel triangolo, $D$, $E$ e $F$ indicano rispettivamente le proiezioni di $P$ su $BC$, $CA$ e $AB$. Trovare il locus di $P$ per il quale il triangolo $DEF$ è uguale a quello di un anello. Quando $\triangle DEF$ è equilaterale?
 
-[[src_inmo_1989__Q07]]
+[[Quesiti/src_inmo_1989#q07|src_inmo_1989__Q07]]

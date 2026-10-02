@@ -36,7 +36,7 @@ level: BMO Round 2
 
 > VLMN e VABC sono tetraedri con $A$, $B$, $C$ su $VL$, $VM$, $VN$ prodotti, in modo che il centro del triangolo $LMN$ coincida con il centroide del triangolo $ABC$. (i) Determinare i rapporti $\frac{VA}{VL}$, $\frac{VB}{VM}$, $\frac{VC}{VN}$ in termini di lati del triangolo $LMN$ e $VL$, $VM$, $VN$. (ii) Determinare la condizione che i tetraedri abbiano volumi uguali. (iii) Se i tetraedri hanno volumi diseguali, determinare, con la prova, quale ha il volume maggiore.
 
-[[src_bmo2_1980__Q01]]
+[[Quesiti/src_bmo2_1980#q01|src_bmo2_1980__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 2
 
 > Determinare, con prova, i numeri primi nella sequenza $\{u_n\}$ di numeri interi definiti da $$u_0 = 2, \quad u_1 = 3,$$ $$u_{n+2} = u_{n+1} \cdot u_n + u_{n+1} - u_n + 2 \quad (n \geq 0).$$
 
-[[src_bmo2_1980__Q02]]
+[[Quesiti/src_bmo2_1980#q02|src_bmo2_1980__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: BMO Round 2
 
 > Se $a_0 = a_1 = 0$, $a_2, \ldots, a_n$ sono numeri reali, allora $$\sum_{i=1}^{n}(a_i - a_{i-1})^2 \geq \frac{1}{n}\left(\sum_{i=1}^{n}(a_i - a_{i-1})\right)^2,$$ tenuta di uguaglianza se e solo se $a_{i+1} - a_i = a_i - a_{i-1}$ ($0 \leq i \leq n$).
 
-[[src_bmo2_1980__Q03]]
+[[Quesiti/src_bmo2_1980#q03|src_bmo2_1980__Q03]]
 
 
 
@@ -123,4 +123,4 @@ level: BMO Round 2
 
 > Dato un insieme di persone $n$, è desiderabile organizzare una serie di giochi di bridge in modo tale che ogni due persone $n$ giocino come avversari esattamente una volta. Mostrare che questo può essere fatto se e solo se $n$ è di forma $n = 4m$, dove $m$ è un intero positivo. (Non vi è alcuna limitazione sul numero di volte, se del caso, in cui due persone giocano come partner.)
 
-[[src_bmo2_1980__Q04]]
+[[Quesiti/src_bmo2_1980#q04|src_bmo2_1980__Q04]]

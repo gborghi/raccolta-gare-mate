@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** 402
 
 **Answer:** B
-[[src_archimede_2018_2livello__Q01]]
+[[Quesiti/src_archimede_2018_2livello#q01|src_archimede_2018_2livello__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: 2 livello
 > - **(E)** 255
 
 **Answer:** D
-[[src_archimede_2018_2livello__Q02]]
+[[Quesiti/src_archimede_2018_2livello#q02|src_archimede_2018_2livello__Q02]]
 
 
 
@@ -133,7 +133,7 @@ level: 2 livello
 > - **(E)** It is not possible to determine this on the basis of the data provided.
 
 **Answer:** A
-[[src_archimede_2018_2livello__Q03]]
+[[Quesiti/src_archimede_2018_2livello#q03|src_archimede_2018_2livello__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: 2 livello
 > - **(E)** 2018
 
 **Answer:** B
-[[src_archimede_2018_2livello__Q04]]
+[[Quesiti/src_archimede_2018_2livello#q04|src_archimede_2018_2livello__Q04]]
 
 
 
@@ -220,7 +220,7 @@ level: 2 livello
 > - **(E)** 6
 
 **Answer:** C
-[[src_archimede_2018_2livello__Q05]]
+[[Quesiti/src_archimede_2018_2livello#q05|src_archimede_2018_2livello__Q05]]
 
 
 
@@ -267,7 +267,7 @@ level: 2 livello
 > - **(E)** 997
 
 **Answer:** E
-[[src_archimede_2018_2livello__Q06]]
+[[Quesiti/src_archimede_2018_2livello#q06|src_archimede_2018_2livello__Q06]]
 
 
 
@@ -315,7 +315,7 @@ level: 2 livello
 > - **(E)** 200 √ 5 A B C D D2 A1 C2 D1 B2 C1 A2 B1
 
 **Answer:** C
-[[src_archimede_2018_2livello__Q07]]
+[[Quesiti/src_archimede_2018_2livello#q07|src_archimede_2018_2livello__Q07]]
 
 
 
@@ -359,7 +359,7 @@ Three soccer friends who started at the door.
 > - **(E)** It could be any one of the three friends.
 
 **Answer:** A
-[[src_archimede_2018_2livello__Q08]]
+[[Quesiti/src_archimede_2018_2livello#q08|src_archimede_2018_2livello__Q08]]
 
 
 
@@ -403,7 +403,7 @@ Three soccer friends who started at the door.
 > - **(E)** There are infinite possible values.
 
 **Answer:** D
-[[src_archimede_2018_2livello__Q09]]
+[[Quesiti/src_archimede_2018_2livello#q09|src_archimede_2018_2livello__Q09]]
 
 
 
@@ -444,7 +444,7 @@ Three soccer friends who started at the door.
 > - **(E)** Infinite
 
 **Answer:** C
-[[src_archimede_2018_2livello__Q10]]
+[[Quesiti/src_archimede_2018_2livello#q10|src_archimede_2018_2livello__Q10]]
 
 
 
@@ -487,7 +487,7 @@ Three soccer friends who started at the door.
 > - **(E)** 6
 
 **Answer:** E
-[[src_archimede_2018_2livello__Q11]]
+[[Quesiti/src_archimede_2018_2livello#q11|src_archimede_2018_2livello__Q11]]
 
 
 
@@ -532,7 +532,7 @@ Three soccer friends who started at the door.
 > - **(E)** S > 0.51 Problems with a numerical answer  5 points
 
 **Answer:** C
-[[src_archimede_2018_2livello__Q12]]
+[[Quesiti/src_archimede_2018_2livello#q12|src_archimede_2018_2livello__Q12]]
 
 
 
@@ -566,7 +566,7 @@ Three soccer friends who started at the door.
 > Angela has the polynomials x −1, (x −1) x −2), (x −1) x −2) x −3), . . . up to (x −1)(x −2) · · (x −2017)(x −2018), and divides them into two groups. Having said that p(x) is the product of the polynomials of the first group and q(x) is that of the polynomials of the second group, Angela notices that the polynomial p(x) divides the polynomial q(x), and that the degree of the quotient q(x) p(x) is as small as possible: how much is that degree worth?
 
 **Answer:** 1009
-[[src_archimede_2018_2livello__Q13]]
+[[Quesiti/src_archimede_2018_2livello#q13|src_archimede_2018_2livello__Q13]]
 
 
 
@@ -597,7 +597,7 @@ Three soccer friends who started at the door.
 > Consider a digital clock and the four-digit numbers (hours and minutes): 10:45 will indicate the number 1045. What is the smallest positive integer that doesn't divide any of the numbers that appear between 11:00 and 12:59?
 
 **Answer:** 84
-[[src_archimede_2018_2livello__Q14]]
+[[Quesiti/src_archimede_2018_2livello#q14|src_archimede_2018_2livello__Q14]]
 
 
 
@@ -633,7 +633,7 @@ Three soccer friends who started at the door.
 
 > DEMOSTRATIVE EXERCISE (a) Find all positive integers n of two digits that have the following property: both integers obtained by deleting one of the two digits of the decimal representation of n are divisors (positive integers) of n. (b) Whether n > 10 is an integer written with k decimal digits, all other than zero. Suppose each of the integers obtained by deleting one of the k digits of the decimal representation of n is a divisor (positive integer) of n. To show that k is necessarily equal to 2. I'll give you an example. For n = 123, we have k = 3, and the integers obtained by deleting the digits of n are 23, 13, 12.
 
-[[src_archimede_2018_2livello__Q15]]
+[[Quesiti/src_archimede_2018_2livello#q15|src_archimede_2018_2livello__Q15]]
 
 
 
@@ -675,7 +675,7 @@ Playing cards on a grid 1x2018, winning strategy
 
 > Alice and Barbara invented the following game. They have a grid of 1 × 2018, with boxes numbered from 1 to 2018 from left to right, and 2018 cards numbered from 1 to 2018 too. The game begins with the empty grid, and the two players alternate in making moves; the turn player can choose between: • selecting a card not yet placed on the grid and placing it on a free box, provided that the numbers on the cards placed, if read from left to right, are in increasing order; • selecting a card already placed on the grid and moving it to an adjacent box so that the card approaches the box with the same number as the card, provided that the arrival box is free (example: if the card with number 7 is on box number 12, it can be moved to the left, but not to the right; instead, if a card with its number is already in the box itself, it can no longer be moved). (a) Demonstrate that at each turn, if the cards are not all on the grid, there is a lawful move. (b) If Alice starts and the winner is the one who plays the last card, who has a winning strategy?
 
-[[src_archimede_2018_2livello__Q16]]
+[[Quesiti/src_archimede_2018_2livello#q16|src_archimede_2018_2livello__Q16]]
 
 
 
@@ -713,4 +713,4 @@ Playing cards on a grid 1x2018, winning strategy
 > Let ABC be a triangle and P be its inner point. Both H the point on the side of BC such that the bisector of the angle \ AHP is perpendicular to the BC straight. Knowing that \ ABC = \ HPC and \ BPC = 130o, determine the measure of the angle \ BAC.
 
 **Answer:** 50°
-[[src_archimede_2018_2livello__Q17]]
+[[Quesiti/src_archimede_2018_2livello#q17|src_archimede_2018_2livello__Q17]]

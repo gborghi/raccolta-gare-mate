@@ -39,7 +39,7 @@ level: kangourou
 > How many integers are there between −20.16 and 3.17? A) 16 B) 17 C) 20 D) 23 E) 24
 
 **Answer:** E
-[[src_kangourou_2016_cadet_marzo__Q01]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q01|src_kangourou_2016_cadet_marzo__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: kangourou
 > Which of the following road signs has the most axes of symmetry? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2016_cadet_marzo__Q02]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q02|src_kangourou_2016_cadet_marzo__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: kangourou
 > Instead of adding 26 to a certain number, Rita subtracted it and got  14. What number would you get if you actually added up 26? A) 12 B) 14 C) 36 D) 38 E) 40
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q03]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q03|src_kangourou_2016_cadet_marzo__Q03]]
 
 
 
@@ -149,7 +149,7 @@ level: kangourou
 > Consider the two shaded corners in the figure. How many degrees does their sum measure? A) 150 B) 180 C) 270 D) 320 E) 360
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q04]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q04|src_kangourou_2016_cadet_marzo__Q04]]
 
 
 
@@ -184,7 +184,7 @@ level: kangourou
 > Kanga collected the candy contained in 555 packs of 9 candies each in a single heap and now packs bags of 15 candies each. How many bags will he have? A) 999 B) 925 C) 555 D) 333 E) 111
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q05]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q05|src_kangourou_2016_cadet_marzo__Q05]]
 
 
 
@@ -227,7 +227,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q06]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q06|src_kangourou_2016_cadet_marzo__Q06]]
 
 
 
@@ -274,7 +274,7 @@ level: kangourou
 > E) 12
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q07]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q07|src_kangourou_2016_cadet_marzo__Q07]]
 
 
 
@@ -320,7 +320,7 @@ level: kangourou
 > C) 100 D) 120 E) 150
 
 **Answer:** B
-[[src_kangourou_2016_cadet_marzo__Q08]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q08|src_kangourou_2016_cadet_marzo__Q08]]
 
 
 
@@ -368,7 +368,7 @@ level: kangourou
 > E) 15
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q09]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q09|src_kangourou_2016_cadet_marzo__Q09]]
 
 
 
@@ -420,7 +420,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 > E) 2 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2016_cadet_marzo__Q10]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q10|src_kangourou_2016_cadet_marzo__Q10]]
 
 
 
@@ -470,7 +470,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 > E) 32
 
 **Answer:** E
-[[src_kangourou_2016_cadet_marzo__Q11]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q11|src_kangourou_2016_cadet_marzo__Q11]]
 
 
 
@@ -515,7 +515,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 > E) 40
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q12]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q12|src_kangourou_2016_cadet_marzo__Q12]]
 
 
 
@@ -550,7 +550,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 >
 
 **Answer:** B
-[[src_kangourou_2016_cadet_marzo__Q13]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q13|src_kangourou_2016_cadet_marzo__Q13]]
 
 
 
@@ -586,7 +586,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 > Mauro transcribes the results of the quarter-finals, semi-finals and the final of a knockout tournament. The results, in an order that does not necessarily reflect that of the matches, are: Bruno beats Alex, Carlo beats Dino, Gianni beats Luigi, Gianni beats Carlo, Carlo beats Bruno, Enrico beats Franco and Gianni beats Enrico. Which pair of players played the final? A) Gianni and Luigi B) Gianni and Carlo C) Carlo and Bruno D) Gianni and Enrico E) Carlo and Dino
 
 **Answer:** B
-[[src_kangourou_2016_cadet_marzo__Q14]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q14|src_kangourou_2016_cadet_marzo__Q14]]
 
 
 
@@ -624,7 +624,7 @@ This is a list of the official languages of the European Union.
 > Anna glued some cubes together and obtained the solid shown in the figure. It rotates so you can see it from different angles. Which of the following images will you never see? A) B) C) E)
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q15]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q15|src_kangourou_2016_cadet_marzo__Q15]]
 
 
 
@@ -672,7 +672,7 @@ This is a list of the official languages of the European Union.
 > E) 92
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q16]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q16|src_kangourou_2016_cadet_marzo__Q16]]
 
 
 
@@ -723,7 +723,7 @@ This is a list of the official languages of the European Union.
 > E) 81
 
 **Answer:** B
-[[src_kangourou_2016_cadet_marzo__Q17]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q17|src_kangourou_2016_cadet_marzo__Q17]]
 
 
 
@@ -771,7 +771,7 @@ This is a list of the official languages of the European Union.
 > E) 14
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q18]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q18|src_kangourou_2016_cadet_marzo__Q18]]
 
 
 
@@ -824,7 +824,7 @@ This is a list of the official languages of the European Union.
 >
 
 **Answer:** B
-[[src_kangourou_2016_cadet_marzo__Q19]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q19|src_kangourou_2016_cadet_marzo__Q19]]
 
 
 
@@ -869,7 +869,7 @@ This is a list of the official languages of the European Union.
 > (D) 16 E) The situation described can never occur. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q20]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q20|src_kangourou_2016_cadet_marzo__Q20]]
 
 
 
@@ -920,7 +920,7 @@ This is a list of the official languages of the European Union.
 > E) 16
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q21]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q21|src_kangourou_2016_cadet_marzo__Q21]]
 
 
 
@@ -955,7 +955,7 @@ What does Paul think?
 > Peter's watch is 10 minutes behind, but he thinks it's 5 minutes ahead. Paul's watch is 5 minutes ahead, but he thinks it's 10 minutes behind. Both look at their watch at the same time: Peter thinks it's 12:00. What time do you think it's Paul? A) 11:30 B) 11:45 C) 12:00 D) 12:30 E) 12:45
 
 **Answer:** E
-[[src_kangourou_2016_cadet_marzo__Q22]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q22|src_kangourou_2016_cadet_marzo__Q22]]
 
 
 
@@ -1001,7 +1001,7 @@ What does Paul think?
 > E)  8
 
 **Answer:** D
-[[src_kangourou_2016_cadet_marzo__Q23]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q23|src_kangourou_2016_cadet_marzo__Q23]]
 
 
 
@@ -1051,7 +1051,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 9
 
 **Answer:** E
-[[src_kangourou_2016_cadet_marzo__Q24]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q24|src_kangourou_2016_cadet_marzo__Q24]]
 
 
 
@@ -1105,7 +1105,7 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q25]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q25|src_kangourou_2016_cadet_marzo__Q25]]
 
 
 
@@ -1152,7 +1152,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 > E) 243
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q26]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q26|src_kangourou_2016_cadet_marzo__Q26]]
 
 
 
@@ -1205,7 +1205,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 > E) E
 
 **Answer:** B
-[[src_kangourou_2016_cadet_marzo__Q27]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q27|src_kangourou_2016_cadet_marzo__Q27]]
 
 
 
@@ -1248,7 +1248,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 > On each of the 14 cubes of the pyramid in the figure Gaia wrote a different positive integer. The sum of the 9 integers written on the cubes at the base is 50. The whole written on every other cube is the sum of the whole written on the four cubes below it. What's the biggest whole Gaia could have written on the cube at the top? A) 120 B) 118 C) 110 D) 104 E) 102
 
 **Answer:** C
-[[src_kangourou_2016_cadet_marzo__Q28]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q28|src_kangourou_2016_cadet_marzo__Q28]]
 
 
 
@@ -1293,7 +1293,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 > D) 20 E) There is more than one possibility.
 
 **Answer:** A
-[[src_kangourou_2016_cadet_marzo__Q29]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q29|src_kangourou_2016_cadet_marzo__Q29]]
 
 
 
@@ -1337,4 +1337,4 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 > B) C) D) E)
 >
 
-[[src_kangourou_2016_cadet_marzo__Q30]]
+[[Quesiti/src_kangourou_2016_cadet_marzo#q30|src_kangourou_2016_cadet_marzo__Q30]]

@@ -44,7 +44,7 @@ level: kangourou
 > D) 4 E) 8
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q01]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q01|src_kangourou_2020_benjamin_marzo__Q01]]
 
 
 
@@ -94,7 +94,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q02]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q02|src_kangourou_2020_benjamin_marzo__Q02]]
 
 
 
@@ -142,7 +142,7 @@ level: kangourou
 > D) E)
 
 **Answer:** D
-[[src_kangourou_2020_benjamin_marzo__Q03]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q03|src_kangourou_2020_benjamin_marzo__Q03]]
 
 
 
@@ -188,7 +188,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q04]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q04|src_kangourou_2020_benjamin_marzo__Q04]]
 
 
 
@@ -251,7 +251,7 @@ level: kangourou
 >
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q05]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q05|src_kangourou_2020_benjamin_marzo__Q05]]
 
 
 
@@ -287,7 +287,7 @@ level: kangourou
 > Luigi has several chains, some made up of five rings, others of seven. By joining them together, but without breaking them, Louis can form chains with a greater number of rings, but he cannot form a chain with A) 10 rings. B) 12 rings. C) 13 rings. D) 14 rings. E) 15 rings.
 
 **Answer:** C
-[[src_kangourou_2020_benjamin_marzo__Q06]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q06|src_kangourou_2020_benjamin_marzo__Q06]]
 
 
 
@@ -334,7 +334,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 > E) 6
 
 **Answer:** A
-[[src_kangourou_2020_benjamin_marzo__Q07]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q07|src_kangourou_2020_benjamin_marzo__Q07]]
 
 
 
@@ -387,7 +387,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q08]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q08|src_kangourou_2020_benjamin_marzo__Q08]]
 
 
 
@@ -435,7 +435,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2020_benjamin_marzo__Q09]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q09|src_kangourou_2020_benjamin_marzo__Q09]]
 
 
 
@@ -476,7 +476,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 > A dog and cat move through the park following the path depicted in the picture by the thick black line. The dog starts from P, the cat from Q, and the dog's speed is three times that of the cat. Where will they meet? A) In A. B) In B. C) In C. D) In D. E) In E. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q10]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q10|src_kangourou_2020_benjamin_marzo__Q10]]
 
 
 
@@ -545,7 +545,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 >
 
 **Answer:** A
-[[src_kangourou_2020_benjamin_marzo__Q11]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q11|src_kangourou_2020_benjamin_marzo__Q11]]
 
 
 
@@ -581,7 +581,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 > In the cave of the Trello bat, there's a digital clock hanging properly. When Trello comes out of the cave , he sees the writing on the clock . Before dawn he comes home, hangs upside down and still sees writing on the clock. How long has Trello been out of the cave? A) 3 hours and 28 minutes. B) 3 hours and 40 minutes. C) 3 hours and 42 minutes. D) 4 hours and 18 minutes. E) 5 hours and 42 minutes.
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q12]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q12|src_kangourou_2020_benjamin_marzo__Q12]]
 
 
 
@@ -621,7 +621,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 > E) Only one of us is telling the truth.
 
 **Answer:** A
-[[src_kangourou_2020_benjamin_marzo__Q13]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q13|src_kangourou_2020_benjamin_marzo__Q13]]
 
 
 
@@ -671,7 +671,7 @@ What cube could Mary have built?
 > E) No one.
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q14]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q14|src_kangourou_2020_benjamin_marzo__Q14]]
 
 
 
@@ -709,7 +709,7 @@ What cube could Mary have built?
 > The figures show five routes from X to Y pointed out with a thick line: which is the shortest? A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2020_benjamin_marzo__Q15]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q15|src_kangourou_2020_benjamin_marzo__Q15]]
 
 
 
@@ -758,7 +758,7 @@ What cube could Mary have built?
 > E) 5
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q16]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q16|src_kangourou_2020_benjamin_marzo__Q16]]
 
 
 
@@ -821,7 +821,7 @@ What cube could Mary have built?
 >
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q17]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q17|src_kangourou_2020_benjamin_marzo__Q17]]
 
 
 
@@ -865,7 +865,7 @@ What cube could Mary have built?
 > C) 3,25 D) 3,5 E) 4
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q18]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q18|src_kangourou_2020_benjamin_marzo__Q18]]
 
 
 
@@ -919,7 +919,7 @@ What cube could Mary have built?
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q19]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q19|src_kangourou_2020_benjamin_marzo__Q19]]
 
 
 
@@ -979,7 +979,7 @@ What cube could Mary have built?
 > E) Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2020_benjamin_marzo__Q20]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q20|src_kangourou_2020_benjamin_marzo__Q20]]
 
 
 
@@ -1037,7 +1037,7 @@ What cube could Mary have built?
 >
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q21]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q21|src_kangourou_2020_benjamin_marzo__Q21]]
 
 
 
@@ -1085,7 +1085,7 @@ What cube could Mary have built?
 > D) 18,5 E) 19
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q22]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q22|src_kangourou_2020_benjamin_marzo__Q22]]
 
 
 
@@ -1133,7 +1133,7 @@ How many years since the kangaroos beat their father in the polls?
 > E) 14
 
 **Answer:** C
-[[src_kangourou_2020_benjamin_marzo__Q23]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q23|src_kangourou_2020_benjamin_marzo__Q23]]
 
 
 
@@ -1181,7 +1181,7 @@ How many years since the kangaroos beat their father in the polls?
 > E)
 
 **Answer:** C
-[[src_kangourou_2020_benjamin_marzo__Q24]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q24|src_kangourou_2020_benjamin_marzo__Q24]]
 
 
 
@@ -1224,7 +1224,7 @@ How many years since the kangaroos beat their father in the polls?
 > Ten boys order a ball of ice cream each. They order four vanilla balls, three chocolate balls, two lemon balls and a strawberry ball. On top of each ice cream is a decoration chosen from a box containing 4 umbrellas, 3 cherries, 2 wafers and 1 chocolate and the choice is made so that each ice cream, once decorated, can be distinguished from each other. Which of the following combinations is NOT possible? A) Chocolate ice cream with wafers. B) Lemon ice cream with umbrella. C) Vanilla ice cream with umbrella. D) Strawberry ice cream with cherry. E) Vanilla ice cream with chocolate.
 
 **Answer:** D
-[[src_kangourou_2020_benjamin_marzo__Q25]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q25|src_kangourou_2020_benjamin_marzo__Q25]]
 
 
 
@@ -1271,7 +1271,7 @@ How many years since the kangaroos beat their father in the polls?
 > E) 9
 
 **Answer:** D
-[[src_kangourou_2020_benjamin_marzo__Q26]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q26|src_kangourou_2020_benjamin_marzo__Q26]]
 
 
 
@@ -1324,7 +1324,7 @@ How many matches has Mauro to play (15 total)
 >
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q27]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q27|src_kangourou_2020_benjamin_marzo__Q27]]
 
 
 
@@ -1379,7 +1379,7 @@ How many matches has Mauro to play (15 total)
 > E) a = 6, b = 4, c = 7
 
 **Answer:** A
-[[src_kangourou_2020_benjamin_marzo__Q28]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q28|src_kangourou_2020_benjamin_marzo__Q28]]
 
 
 
@@ -1433,7 +1433,7 @@ How many matches has Mauro to play (15 total)
 > E) 36
 
 **Answer:** E
-[[src_kangourou_2020_benjamin_marzo__Q29]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q29|src_kangourou_2020_benjamin_marzo__Q29]]
 
 
 
@@ -1499,4 +1499,4 @@ How many matches has Mauro to play (15 total)
 > Answers
 
 **Answer:** B
-[[src_kangourou_2020_benjamin_marzo__Q30]]
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q30|src_kangourou_2020_benjamin_marzo__Q30]]

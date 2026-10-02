@@ -19,7 +19,7 @@ level: China Mathematical Competition
 
 > Let $P$ be a point on the image of $y = x + \dfrac{2}{x}$ ($x > 0$). Through $P$ draw lines perpendicular to $y = x$ and $y$-axis with foot points $A$, $B$, respectively. Then the value of $\overrightarrow{PA} \cdot \overrightarrow{PB}$ is \underline{\hspace{2cm}}.
 
-![[src_cn_cmc_b11_w42__Q01.png]]
+![[src_cn_cmc_b11_w42__q01.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: China Mathematical Competition
 
 > $P$ sia un punto sull'immagine di $y = x + \dfrac{2}{x}$ ($x > 0$). Attraverso $P$ tracciare linee perpendicolari agli assi $y = x$ e $y$ con punti di piede $A$ e $B$, rispettivamente. Quindi il valore di $\overrightarrow{PA} \cdot \overrightarrow{PB}$ è \underline{\hspace{2cm}}.
 
-![[src_cn_cmc_b11_w42__Q01.png]]
+![[src_cn_cmc_b11_w42__q01.png]]
 
 **Risposta:** $-1$
-[[src_cn_cmc_2012__Q01]]
+[[Quesiti/src_cn_cmc_2012#q01|src_cn_cmc_2012__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: China Mathematical Competition
 
 > Supponiamo che $\triangle ABC$ con gli angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a \cos B - b \cos A = \dfrac{3}{5}c$. Quindi il valore di $\dfrac{\tan A}{\tan B}$ è \underline{\hspace{2cm}}.
 
-[[src_cn_cmc_2012__Q02]]
+[[Quesiti/src_cn_cmc_2012#q02|src_cn_cmc_2012__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: China Mathematical Competition
 
 > (37 punti) È noto che ogni termine della sequenza $\{a_n\}$ è un numero reale non zero, e per qualsiasi intero positivo $n$ detiene l'equazione $$(a_1 + a_2 + \cdots + a_n)^2 = a_1^3 + a_2^3 + \cdots + a_n^3.$$ (1) Quando $n = 3$, trovare tutte le sequenze costituite da tre termini. (2) Esiste una sequenza infinita $\{a_n\}$ tale che $a_{2013} = -2012$? Se sì, indicate la formula del termine generale; se no, indicate la ragione.
 
-[[src_cn_cmc_2012__Q10]]
+[[Quesiti/src_cn_cmc_2012#q10|src_cn_cmc_2012__Q10]]
 
 
 
@@ -111,7 +111,7 @@ level: China Mathematical Competition
 > (1) Prove that $|OA| \cdot |OC|$ is a constant.
 > (2) When point $A$ is moving on the half circle $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), find the trace of $C$.
 
-![[src_cn_cmc_b11_w58__Q11.png]]
+![[src_cn_cmc_b11_w58__q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -127,9 +127,9 @@ level: China Mathematical Competition
 
 > (20 punti) Come illustrato nella figura. 11.1, nel sistema di coordinate rettangolare $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Provare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sul mezzo cerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), trova la traccia di $C$.
 
-![[src_cn_cmc_b11_w58__Q11.png]]
+![[src_cn_cmc_b11_w58__q11.png]]
 
-[[src_cn_cmc_2012__Q11]]
+[[Quesiti/src_cn_cmc_2012#q11|src_cn_cmc_2012__Q11]]
 
 
 
@@ -158,7 +158,7 @@ level: China Mathematical Competition
 > (20 punti) Se si considera che l'equazione di ellisse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piano $xOy$, $A_1$, $A_2$ siano i suoi punti di fine sinistra e destra, $F_1$, $F_2$ siano i suoi foci sinistra e destra e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Trova e prova la relazione tra la lunghezza del segmento $QR$ e $b$.
 
 **Risposta:** $QR = b$
-[[src_cn_cmc_2012__Q20]]
+[[Quesiti/src_cn_cmc_2012#q20|src_cn_cmc_2012__Q20]]
 
 
 
@@ -187,4 +187,4 @@ level: China Mathematical Competition
 > (20 punti) Trovare tutte le coppie di numeri reali $(a, b)$, in modo che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per qualsiasi numero reale $x$.
 
 **Risposta:** $\{(a,b) \mid 0 < b \le 1,\; 0 < a < 1,\; 2a + b \le 2\}$
-[[src_cn_cmc_2012__Q21]]
+[[Quesiti/src_cn_cmc_2012#q21|src_cn_cmc_2012__Q21]]

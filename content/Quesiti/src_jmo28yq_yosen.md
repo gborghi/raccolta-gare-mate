@@ -35,7 +35,7 @@ level: JMO Yosen
 > J ha scelto 5 numeri dalla tabella di moltiplicazione (numeri espressibili come il prodotto di due numeri interi ciascuno tra $1$ e $9$ inclusivo). Ha notato che tutti i 5 sono numeri a due cifre, e che attraverso le loro unità e decine di cifre ciascuno di $0, 1, 2, 3, 4, 5, 6, 7, 8, 9$ appare esattamente una volta. Tra i numeri scelti da J, indicare quello che ha una cifra di unità o una cifra di decine è $5$. (Un numero a due cifre la cui cifra decimale è $0$ non è considerato.)
 
 **Risposta:** 56
-[[src_jmo28yq_yosen__Q01]]
+[[Quesiti/src_jmo28yq_yosen#q01|src_jmo28yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Ci sono 9 carte, ciascuna etichettata con uno degli enti da $1$ a $9$, una carta per numero. Sono distribuite, 3 carte ciascuno, in 3 scatole indistinguibili. In quanti modi si può fare questo in modo che, per ogni scatola, i tre numeri sulle sue carte formino una progressione aritmetica quando sono disposti in ordine crescente? Qui, tre numeri $a, b, c$ formano una progressione aritmetica quando $b - a = c - b$ si mantiene.
 
 **Risposta:** 5 ways
-[[src_jmo28yq_yosen__Q02]]
+[[Quesiti/src_jmo28yq_yosen#q02|src_jmo28yq_yosen__Q02]]
 
 
 
@@ -77,7 +77,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 
 > In quadrilateral $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Find its area. Here $XY$ denotes the length of segment $XY$.
 
-![[src_jmo28yq_yosen__Q03.png]]
+![[src_jmo28yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -94,10 +94,10 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 
 > In quadrilaterali $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Trova la sua area. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jmo28yq_yosen__Q03.png]]
+![[src_jmo28yq_yosen__q03.png]]
 
 **Risposta:** 68
-[[src_jmo28yq_yosen__Q03]]
+[[Quesiti/src_jmo28yq_yosen#q03|src_jmo28yq_yosen__Q03]]
 
 
 
@@ -126,7 +126,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Trova il rimanente quando $1111^{2018}$ è diviso da $11111$.
 
 **Risposta:** 100
-[[src_jmo28yq_yosen__Q04]]
+[[Quesiti/src_jmo28yq_yosen#q04|src_jmo28yq_yosen__Q04]]
 
 
 
@@ -139,7 +139,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 
 > Eleven Othello stones are placed in a row as in arrangement (a). The following operation is performed some number of times: choose two stones of the same visible color that are not adjacent and such that all stones strictly between them show the other color; then flip all the stones between them simultaneously. How many distinct sequences of operations lead from arrangement (a) to arrangement (b)? Arrangement (a) is $\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet$ (alternating, starting and ending with black). Arrangement (b) is all eleven stones black: $\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet$. Each Othello stone is black ($\bullet$) on one face and white ($\circ$) on the other.
 
-![[src_jmo28yq_yosen__Q05.png]]
+![[src_jmo28yq_yosen__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
@@ -156,10 +156,10 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 
 > Undici pietre di Othello sono disposte in fila come indicato nell'ordine (a). L'operazione seguente viene eseguita un certo numero di volte: scegliere due pietre dello stesso colore visibile che non sono adiacenti e in modo tale che tutte le pietre strettamente tra di loro mostrino l'altro colore; quindi girare tutte le pietre tra di loro contemporaneamente. Quante sequenze di operazioni distinte portano dall'accordo (a) all'accordo (b)? L'accordo (a) è $\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet$ (alternativo, inizia e termina con nero). Arrangimento (b) tutti gli undici pietre nere: $\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet$. Ogni pietra Othello è nera ($\bullet$) su una faccia e bianca ($\circ$) sull'altra.
 
-![[src_jmo28yq_yosen__Q05.png]]
+![[src_jmo28yq_yosen__q05.png]]
 
 **Risposta:** 945 ways
-[[src_jmo28yq_yosen__Q05]]
+[[Quesiti/src_jmo28yq_yosen#q05|src_jmo28yq_yosen__Q05]]
 
 
 
@@ -188,7 +188,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Il triangolo $ABC$ è un triangolo a destra con $\angle A = 90^\circ$. All'interno di esso, sono scelti tre punti $X, Y, Z$ in modo che il triangolo $XYZ$ sia un triangolo a destra con $\angle X = 90^\circ$, e inoltre i punti $A, Y, X$ sono collineari in questo ordine, $B, Z, Y$ sono collineari in questo ordine e $C, X, Z$ sono collineari in questo ordine. Se si dà $AB = 1$ e $XY = \frac{1}{4}$, si trova la lunghezza del segmento $AX$. Qui $ST$ indica la lunghezza del segmento $ST$.
 
 **Risposta:** \frac{2+\sqrt{79}}{20}
-[[src_jmo28yq_yosen__Q06]]
+[[Quesiti/src_jmo28yq_yosen#q06|src_jmo28yq_yosen__Q06]]
 
 
 
@@ -217,7 +217,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Dividere gli entieri da $1$ a $12$ in coppie $6$, due interi per coppia. Quando $i$ e $j$ formano una coppia, il valore $|i - j|$ è il punteggio di tale coppia. In quanti modi può essere fatta la partizione in modo che il totale dei punteggi delle coppie $6$ sia uguale a $30$?
 
 **Risposta:** 1104 ways
-[[src_jmo28yq_yosen__Q07]]
+[[Quesiti/src_jmo28yq_yosen#q07|src_jmo28yq_yosen__Q07]]
 
 
 
@@ -246,7 +246,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Se $a_1, a_2, \ldots, a_6$ e $b_1, b_2, \ldots, b_6$ e $c_1, c_2, \ldots, c_6$ sono ciascuna una permutazione di $1, 2, 3, 4, 5, 6$. Trova il valore minimo possibile di $$a_1 b_1 + a_2 b_2 + \cdots + a_6 b_6 + b_1 c_1 + b_2 c_2 + \cdots + b_6 c_6 + c_1 a_1 + c_2 a_2 + \cdots + c_6 a_6.$$
 
 **Risposta:** 195
-[[src_jmo28yq_yosen__Q08]]
+[[Quesiti/src_jmo28yq_yosen#q08|src_jmo28yq_yosen__Q08]]
 
 
 
@@ -275,7 +275,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > L'incircolo del triangolo $ABC$ tocca rispettivamente i lati $BC, CA, AB$ nei punti $P, Q, R$ e l'escircolo in angolo $A$ tocca rispettivamente il lato $BC$, la linea $CA$, la linea $AB$ nei punti $S, T, U$. $I$ sia l'incentro del triangolo $ABC$. Il $D$ deve essere l'intersezione della linea $PQ$ e della linea $ST$, e il $E$ deve essere l'intersezione della linea $PR$ e della linea $SU$. Date $AI = 3$, $IP = 1$, $PS = 2$, si trova la lunghezza del segmento $DE$. Qui $XY$ indica la lunghezza del segmento $XY$, e l'escircolo in angolo $A$ del triangolo $ABC$ è il cerchio tangente al lato $BC$, all'estensione del lato $AB$ oltre $B$ e all'estensione del lato $AC$ oltre $C$.
 
 **Risposta:** \frac{4\sqrt{2}}{3}
-[[src_jmo28yq_yosen__Q09]]
+[[Quesiti/src_jmo28yq_yosen#q09|src_jmo28yq_yosen__Q09]]
 
 
 
@@ -304,7 +304,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > I giocatori di$2^3 = 8$ partecipano a un torneo di scacchi di eliminazione singola, in cui il campione è deciso come segue. Innanzitutto, tutti i giocatori sono in fila. Poi si ripete la seguente operazione $3$ volte: i giocatori della fila sono raggruppati in coppie, due alla volta da una estremità, e i due giocatori di ciascuna coppia giocano una partita; il vincitore rimane nella fila e il perdente scende. Il giocatore che rimane in fila alla fine è il campione. Prima del torneo si svolgeva un round-robin completo di partite di pratica, in cui non si verificavano sorte; cioè, per ogni coppia di giocatori si giocava una partita di pratica e si determinava il vincitore. Ora supponiamo che i risultati delle partite del torneo concordino con i risultati delle prove. A seconda della formazione iniziale dei giocatori, il numero di giocatori che potrebbero diventare campioni si è rivelato esattamente $2$. Quante possibili combinazioni dei risultati tra pratiche e partite ci sono (per cui esattamente $2$ i giocatori possono diventare campioni)?
 
 **Risposta:** 344064 ways
-[[src_jmo28yq_yosen__Q10]]
+[[Quesiti/src_jmo28yq_yosen#q10|src_jmo28yq_yosen__Q10]]
 
 
 
@@ -333,7 +333,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Quanti integri positivi $n$ soddisfano la seguente condizione? Condizione: Scrivere $n$ in base $7$ (con cifre di primo piano non zero) e lasciare $k$ essere il suo numero di cifre; richiedere $k \ge 2$. Dopo aver scritto $n$ nella base $7$, per ogni $i = 1, 2, \ldots, k-1$ togliere la $i$-esima cifra dalla destra (in basso), ottenendo un $(k-1)$-digito base-$7$ intero $n_i$. Poi $$\sum_{i=1}^{k-1} n_i = n.$$
 
 **Risposta:** 42
-[[src_jmo28yq_yosen__Q11]]
+[[Quesiti/src_jmo28yq_yosen#q11|src_jmo28yq_yosen__Q11]]
 
 
 
@@ -362,4 +362,4 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 > Una sequenza a valore intero $a_1, a_2, \ldots$ soddisfa, per tutti gli enti $m, n$: se $m, n \ge 30$ e $|m - n| \ge 2018$, allora $a_{m+n}$ è uguale a $a_m + n$ o $a_n + m$. Trova il più grande valore possibile di un intero positivo $N$ per il quale $a_{N+1} - a_N \ne 1$.
 
 **Risposta:** 4065
-[[src_jmo28yq_yosen__Q12]]
+[[Quesiti/src_jmo28yq_yosen#q12|src_jmo28yq_yosen__Q12]]

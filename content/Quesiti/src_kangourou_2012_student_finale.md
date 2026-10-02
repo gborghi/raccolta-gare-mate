@@ -32,7 +32,7 @@ level: kangourou
 
 > Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smaller be determined?
 
-[[src_kangourou_2012_student_finale__Q01]]
+[[Quesiti/src_kangourou_2012_student_finale#q01|src_kangourou_2012_student_finale__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: kangourou
 
 > Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. It joins two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
 
-[[src_kangourou_2012_student_finale__Q02]]
+[[Quesiti/src_kangourou_2012_student_finale#q02|src_kangourou_2012_student_finale__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: kangourou
 
 > Twenty cards are numbered with integers from $1$ to $20$. We want to colour each card of a single color, white or black, so that the following rule is observed: if two (different) cards of numbers $m$ and $n$ have the same color and $m + n < 21$, then the number card $m + n$ must also have that color. How many different ways can we assign colors?
 
-[[src_kangourou_2012_student_finale__Q03]]
+[[Quesiti/src_kangourou_2012_student_finale#q03|src_kangourou_2012_student_finale__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: kangourou
 
 > It shows that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of vertices. Are there any polyhedra that don't have three faces with the same number of beads?
 
-[[src_kangourou_2012_student_finale__Q04]]
+[[Quesiti/src_kangourou_2012_student_finale#q04|src_kangourou_2012_student_finale__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: kangourou
 
 > Demonstrate that, however positive integers are assigned $n \geq 1$, some of them can always be chosen so that their sum is a multiple of $n$.
 
-[[src_kangourou_2012_student_finale__Q05]]
+[[Quesiti/src_kangourou_2012_student_finale#q05|src_kangourou_2012_student_finale__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: kangourou
 
 > We denote the sum of positive integers with $\mathbb{N}$. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be biunivocal with $\mathbb{N}$, the elements of which are subsets of $\mathbb{N}$ two to two quasi-disjoint.
 
-[[src_kangourou_2012_student_finale__Q06]]
+[[Quesiti/src_kangourou_2012_student_finale#q06|src_kangourou_2012_student_finale__Q06]]

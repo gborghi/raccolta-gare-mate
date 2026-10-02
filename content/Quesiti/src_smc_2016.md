@@ -46,7 +46,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 9
 
 **Risposta:** B
-[[src_smc_2016__Q01]]
+[[Quesiti/src_smc_2016#q01|src_smc_2016__Q01]]
 
 
 
@@ -86,7 +86,7 @@ Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il ven
 > - **(E)** £4.00
 
 **Risposta:** D
-[[src_smc_2016__Q02]]
+[[Quesiti/src_smc_2016#q02|src_smc_2016__Q02]]
 
 
 
@@ -105,7 +105,7 @@ Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il ven
 > - **(D)** $20 - 2\pi$
 > - **(E)** 20
 
-![[src_smc_2016__Q03.png]]
+![[src_smc_2016__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -127,10 +127,10 @@ Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato 
 > - **(D)** $20 - 2\pi$
 > - **(E)** 20
 
-![[src_smc_2016__Q03.png]]
+![[src_smc_2016__q03.png]]
 
 **Risposta:** B
-[[src_smc_2016__Q03]]
+[[Quesiti/src_smc_2016#q03|src_smc_2016__Q03]]
 
 
 
@@ -171,7 +171,7 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(E)** $120^\circ$
 
 **Risposta:** C
-[[src_smc_2016__Q04]]
+[[Quesiti/src_smc_2016#q04|src_smc_2016__Q04]]
 
 
 
@@ -190,7 +190,7 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(D)** 5
 > - **(E)** 6
 
-![[src_smc_2016__Q05.png]]
+![[src_smc_2016__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -213,10 +213,10 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(D)** 5
 > - **(E)** 6
 
-![[src_smc_2016__Q05.png]]
+![[src_smc_2016__q05.png]]
 
 **Risposta:** A
-[[src_smc_2016__Q05]]
+[[Quesiti/src_smc_2016#q05|src_smc_2016__Q05]]
 
 
 
@@ -235,7 +235,7 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(D)** $5\tfrac{5}{8}$
 > - **(E)** $5\tfrac{1}{2}$
 
-![[src_smc_2016__Q06.png]]
+![[src_smc_2016__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -257,10 +257,10 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(D)** $5\tfrac{5}{8}$
 > - **(E)** $5\tfrac{1}{2}$
 
-![[src_smc_2016__Q06.png]]
+![[src_smc_2016__q06.png]]
 
 **Risposta:** D
-[[src_smc_2016__Q06]]
+[[Quesiti/src_smc_2016#q06|src_smc_2016__Q06]]
 
 
 
@@ -300,7 +300,7 @@ Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore pi�
 > - **(E)** $2016^{1}$
 
 **Risposta:** A
-[[src_smc_2016__Q07]]
+[[Quesiti/src_smc_2016#q07|src_smc_2016__Q07]]
 
 
 
@@ -319,7 +319,7 @@ Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore pi�
 > - **(D)** 840
 > - **(E)** 5040
 
-![[src_smc_2016__Q08.png]]
+![[src_smc_2016__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -342,10 +342,10 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(D)** 840
 > - **(E)** 5040
 
-![[src_smc_2016__Q08.png]]
+![[src_smc_2016__q08.png]]
 
 **Risposta:** B
-[[src_smc_2016__Q08]]
+[[Quesiti/src_smc_2016#q08|src_smc_2016__Q08]]
 
 
 
@@ -364,7 +364,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(D)** 4
 > - **(E)** 5
 
-![[src_smc_2016__Q09.png]]
+![[src_smc_2016__q09.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -387,10 +387,10 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(D)** 4
 > - **(E)** 5
 
-![[src_smc_2016__Q09.png]]
+![[src_smc_2016__q09.png]]
 
 **Risposta:** C
-[[src_smc_2016__Q09]]
+[[Quesiti/src_smc_2016#q09|src_smc_2016__Q09]]
 
 
 
@@ -409,7 +409,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(D)** 48
 > - **(E)** 140
 
-![[src_smc_2016__Q10.png]]
+![[src_smc_2016__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -432,10 +432,10 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(D)** 48
 > - **(E)** 140
 
-![[src_smc_2016__Q10.png]]
+![[src_smc_2016__q10.png]]
 
 **Risposta:** A
-[[src_smc_2016__Q10]]
+[[Quesiti/src_smc_2016#q10|src_smc_2016__Q10]]
 
 
 
@@ -475,7 +475,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(E)** 19
 
 **Risposta:** B
-[[src_smc_2016__Q11]]
+[[Quesiti/src_smc_2016#q11|src_smc_2016__Q11]]
 
 
 
@@ -516,7 +516,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(E)** $2016^2$
 
 **Risposta:** C
-[[src_smc_2016__Q12]]
+[[Quesiti/src_smc_2016#q12|src_smc_2016__Q12]]
 
 
 
@@ -535,7 +535,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** $7.5\pi$
 > - **(E)** $8\pi$
 
-![[src_smc_2016__Q13.png]]
+![[src_smc_2016__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -557,10 +557,10 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** $7.5\pi$
 > - **(E)** $8\pi$
 
-![[src_smc_2016__Q13.png]]
+![[src_smc_2016__q13.png]]
 
 **Risposta:** A
-[[src_smc_2016__Q13]]
+[[Quesiti/src_smc_2016#q13|src_smc_2016__Q13]]
 
 
 
@@ -601,7 +601,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(E)** 51
 
 **Risposta:** D
-[[src_smc_2016__Q14]]
+[[Quesiti/src_smc_2016#q14|src_smc_2016__Q14]]
 
 
 
@@ -620,7 +620,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** 225
 > - **(E)** 270
 
-![[src_smc_2016__Q15.png]]
+![[src_smc_2016__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -642,10 +642,10 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** 225
 > - **(E)** 270
 
-![[src_smc_2016__Q15.png]]
+![[src_smc_2016__q15.png]]
 
 **Risposta:** B
-[[src_smc_2016__Q15]]
+[[Quesiti/src_smc_2016#q15|src_smc_2016__Q15]]
 
 
 
@@ -686,7 +686,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(E)** $2$
 
 **Risposta:** D
-[[src_smc_2016__Q16]]
+[[Quesiti/src_smc_2016#q16|src_smc_2016__Q16]]
 
 
 
@@ -727,7 +727,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(E)** 9
 
 **Risposta:** D
-[[src_smc_2016__Q17]]
+[[Quesiti/src_smc_2016#q17|src_smc_2016__Q17]]
 
 
 
@@ -746,7 +746,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(D)** $\sqrt{\pi}$
 > - **(E)** 2
 
-![[src_smc_2016__Q18.png]]
+![[src_smc_2016__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -768,10 +768,10 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(D)** $\sqrt{\pi}$
 > - **(E)** 2
 
-![[src_smc_2016__Q18.png]]
+![[src_smc_2016__q18.png]]
 
 **Risposta:** E
-[[src_smc_2016__Q18]]
+[[Quesiti/src_smc_2016#q18|src_smc_2016__Q18]]
 
 
 
@@ -812,7 +812,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(E)** 12
 
 **Risposta:** D
-[[src_smc_2016__Q19]]
+[[Quesiti/src_smc_2016#q19|src_smc_2016__Q19]]
 
 
 
@@ -831,7 +831,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(D)** $9\text{ cm}^2$
 > - **(E)** $10\text{ cm}^2$
 
-![[src_smc_2016__Q20.png]]
+![[src_smc_2016__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -853,10 +853,10 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 > - **(D)** $9\text{ cm}^2$
 > - **(E)** $10\text{ cm}^2$
 
-![[src_smc_2016__Q20.png]]
+![[src_smc_2016__q20.png]]
 
 **Risposta:** E
-[[src_smc_2016__Q20]]
+[[Quesiti/src_smc_2016#q20|src_smc_2016__Q20]]
 
 
 
@@ -875,7 +875,7 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 > - **(D)** $\dfrac{1}{\cos 18^\circ}$
 > - **(E)** $\dfrac{1}{5}$
 
-![[src_smc_2016__Q21.png]]
+![[src_smc_2016__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -898,10 +898,10 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 > - **(D)** $\dfrac{1}{\cos 18^\circ}$
 > - **(E)** $\dfrac{1}{5}$
 
-![[src_smc_2016__Q21.png]]
+![[src_smc_2016__q21.png]]
 
 **Risposta:** C
-[[src_smc_2016__Q21]]
+[[Quesiti/src_smc_2016#q21|src_smc_2016__Q21]]
 
 
 
@@ -942,7 +942,7 @@ Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno d
 > - **(E)** Ognuno di Ben e Dan
 
 **Risposta:** B
-[[src_smc_2016__Q22]]
+[[Quesiti/src_smc_2016#q22|src_smc_2016__Q22]]
 
 
 
@@ -982,7 +982,7 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(E)** 14
 
 **Risposta:** E
-[[src_smc_2016__Q23]]
+[[Quesiti/src_smc_2016#q23|src_smc_2016__Q23]]
 
 
 
@@ -1001,7 +1001,7 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(D)** $7:6$
 > - **(E)** $9:8$
 
-![[src_smc_2016__Q24.png]]
+![[src_smc_2016__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -1023,10 +1023,10 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(D)** $7:6$
 > - **(E)** $9:8$
 
-![[src_smc_2016__Q24.png]]
+![[src_smc_2016__q24.png]]
 
 **Risposta:** B
-[[src_smc_2016__Q24]]
+[[Quesiti/src_smc_2016#q24|src_smc_2016__Q24]]
 
 
 
@@ -1066,4 +1066,4 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(E)** 8
 
 **Risposta:** D
-[[src_smc_2016__Q25]]
+[[Quesiti/src_smc_2016#q25|src_smc_2016__Q25]]

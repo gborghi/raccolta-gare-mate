@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. La linea $PN$ incontra nuovamente il cerchio $C_2$ a $R$. Provare che $MQ$ divide l'angolo $PMR$.
 
-[[src_bmo1_2000__Q01]]
+[[Quesiti/src_bmo1_2000#q01|src_bmo1_2000__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
 
-[[src_bmo1_2000__Q02]]
+[[Quesiti/src_bmo1_2000#q02|src_bmo1_2000__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Il triangolo $ABC$ ha un angolo retto a $A$. Tra tutti i punti $P$ sul perimetro del triangolo, trovare la posizione di $P$ tale da ridurre al minimo $$AP + BP + CP$$.
 
-[[src_bmo1_2000__Q03]]
+[[Quesiti/src_bmo1_2000#q03|src_bmo1_2000__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: BMO Round 1
 
 > Per ogni intero positivo $k > 1$, definire la sequenza $\{a_n\}$ da $$a_0 = 1 \quad \text{and} \quad a_n = kn + (-1)^n a_{n-1} \quad \text{for each } n \geq 1.$$ Determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza.
 
-[[src_bmo1_2000__Q04]]
+[[Quesiti/src_bmo1_2000#q04|src_bmo1_2000__Q04]]
 
 
 
@@ -151,4 +151,4 @@ level: BMO Round 1
 > 
 > Supponiamo che anche Bianco Neve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
 
-[[src_bmo1_2000__Q05]]
+[[Quesiti/src_bmo1_2000#q05|src_bmo1_2000__Q05]]

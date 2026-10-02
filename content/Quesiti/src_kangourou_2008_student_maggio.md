@@ -35,7 +35,7 @@ level: kangourou
 > *(5 points) * A set of $n$ objects ($n \geq 1$) is given. How many of its sub-sets are made up of an odd number of elements?
 
 **Answer:** 2^(n-1)
-[[src_kangourou_2008_student_maggio__QS1]]
+[[Quesiti/src_kangourou_2008_student_maggio#qs1|src_kangourou_2008_student_maggio__QS1]]
 
 
 
@@ -69,7 +69,7 @@ level: kangourou
 > Are there perfect sets? Justify the answer.
 
 **Answer:** si
-[[src_kangourou_2008_student_maggio__QS2]]
+[[Quesiti/src_kangourou_2008_student_maggio#qs2|src_kangourou_2008_student_maggio__QS2]]
 
 
 
@@ -97,7 +97,7 @@ level: kangourou
 > *(11 points) * Can we find, for each $n > 1$, $n$ non-zero natural integers for which the sum is equal to the product?
 
 **Answer:** si
-[[src_kangourou_2008_student_maggio__QS3]]
+[[Quesiti/src_kangourou_2008_student_maggio#qs3|src_kangourou_2008_student_maggio__QS3]]
 
 
 
@@ -125,7 +125,7 @@ level: kangourou
 > *(14 points) * In a plane some non-hill points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
 
 **Answer:** si
-[[src_kangourou_2008_student_maggio__QS4]]
+[[Quesiti/src_kangourou_2008_student_maggio#qs4|src_kangourou_2008_student_maggio__QS4]]
 
 
 
@@ -136,7 +136,7 @@ level: kangourou
 
 *Esiste retta che interseca tutti i poligoni*
 
-![[src_kangourou_2008_student_maggio__probS5.png]]
+![[src_kangourou_2008_student_maggio__probs5.png]]
 
 > *(18 punti)* Nel piano sono assegnati alcuni poligoni, non necessariamente convessi, in numero finito. Essi sono disposti in modo tale che due qualsiasi fra loro abbiano almeno un punto in comune. Dimostrare che esiste una retta che li interseca tutti.
 > 
@@ -154,14 +154,14 @@ level: kangourou
 
 There is a line that intersects all polygons
 
-![[src_kangourou_2008_student_maggio__probS5.png]]
+![[src_kangourou_2008_student_maggio__probs5.png]]
 
 > *(18 points) * In the plane are assigned some polygons, not necessarily convex, in finite number. They are arranged in such a way that any two of them have at least one thing in common. Demonstrate that there is a line that crosses them all.
 > 
 > Does the statement remain true if instead of polygons, they are considered generic sets of points?
 
 **Answer:** dimostrazione
-[[src_kangourou_2008_student_maggio__QS5]]
+[[Quesiti/src_kangourou_2008_student_maggio#qs5|src_kangourou_2008_student_maggio__QS5]]
 
 
 
@@ -194,4 +194,4 @@ There is a line that intersects all polygons
 > It is shown that there must be a person in that country who holds at least 85% of the total wealth of the country.
 
 **Answer:** dimostrazione
-[[src_kangourou_2008_student_maggio__QS6]]
+[[Quesiti/src_kangourou_2008_student_maggio#qs6|src_kangourou_2008_student_maggio__QS6]]

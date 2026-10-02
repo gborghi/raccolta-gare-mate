@@ -35,7 +35,7 @@ level: kangourou
 > There are 53 people at a party. Is it possible that each of them shake hands with exactly 11 other guests? Justify the answer.
 
 **Answer:** No
-[[src_kangourou_2003_student_finale__QS1]]
+[[Quesiti/src_kangourou_2003_student_finale#qs1|src_kangourou_2003_student_finale__QS1]]
 
 
 
@@ -46,7 +46,7 @@ level: kangourou
 
 *Quanti dispari consecutivi sommano a 1600*
 
-![[src_kangourou_2003_student_finale__probS2.png]]
+![[src_kangourou_2003_student_finale__probs2.png]]
 
 > Partendo da $1$, quanti numeri dispari consecutivi si devono sommare per ottenere $1600$?
 
@@ -62,12 +62,12 @@ level: kangourou
 
 *How many consecutive odds add up to 1600*
 
-![[src_kangourou_2003_student_finale__probS2.png]]
+![[src_kangourou_2003_student_finale__probs2.png]]
 
 > Starting from $1$, how many consecutive odd numbers must be added to get $1600$?
 
 **Answer:** 40
-[[src_kangourou_2003_student_finale__QS2]]
+[[Quesiti/src_kangourou_2003_student_finale#qs2|src_kangourou_2003_student_finale__QS2]]
 
 
 
@@ -78,7 +78,7 @@ level: kangourou
 
 *Ipotenusa da raggi cerchi inscritto/exscritto*
 
-![[src_kangourou_2003_student_finale__probS3.png]]
+![[src_kangourou_2003_student_finale__probs3.png]]
 
 > Determina la lunghezza dell'ipotenusa di un triangolo rettangolo $T$ conoscendo:
 > - il raggio $r$ della circonferenza inscritta in $T$;
@@ -96,12 +96,12 @@ level: kangourou
 
 *Inscribed/excribed circle beam hypotenuse*
 
-![[src_kangourou_2003_student_finale__probS3.png]]
+![[src_kangourou_2003_student_finale__probs3.png]]
 
 > Determine the length of the hypotenuse of a right triangle $T$ by: - the radius $r$ of the circumference inscribed in $T$; - the radius $R$ of the outer circumference at $T$, to which the hypotenuse of $T$ and the extensions of the two catets of $T$ are tangent.
 
 **Answer:** R-r
-[[src_kangourou_2003_student_finale__QS3]]
+[[Quesiti/src_kangourou_2003_student_finale#qs3|src_kangourou_2003_student_finale__QS3]]
 
 
 
@@ -130,7 +130,7 @@ level: kangourou
 > A small album contains four individual copies. By purchasing five at random, what is the probability (expressed by a number between $0$ and $1$) of completing the album?
 
 **Answer:** 15/64
-[[src_kangourou_2003_student_finale__QS4]]
+[[Quesiti/src_kangourou_2003_student_finale#qs4|src_kangourou_2003_student_finale__QS4]]
 
 
 
@@ -158,7 +158,7 @@ level: kangourou
 > The dial of a clock only returns the 12 numbers corresponding to the hours; its three hands (hour, first minute, second minute) move continuously. At this moment (we're in the morning) the second hand indicates exactly one of the 12 numbers and in less than half an hour, the hour hand and the first minute hand will overlap exactly. What time is it?
 
 **Answer:** 9h49'5"
-[[src_kangourou_2003_student_finale__QS5]]
+[[Quesiti/src_kangourou_2003_student_finale#qs5|src_kangourou_2003_student_finale__QS5]]
 
 
 
@@ -187,4 +187,4 @@ level: kangourou
 > An examination committee shall be composed of seven members. The evidence texts shall be kept in a safe which can be closed with two-to-two different locks. How many locks must be used and how many keys must be given to each Commissioner in total if each group of four Commissioners is to be able to open the safe, but no group of three is?
 
 **Answer:** 35 lucchetti 20 chiavi
-[[src_kangourou_2003_student_finale__QS6]]
+[[Quesiti/src_kangourou_2003_student_finale#qs6|src_kangourou_2003_student_finale__QS6]]

@@ -41,7 +41,7 @@ level: OBM Nível 2
 > 
 > b) È possibile che, dopo alcune trasformazioni, il tubo contenga $99$ amoebas blu e $314$ amoebas rosse?
 
-[[src_obm_2012_n2_f3__Q01]]
+[[Quesiti/src_obm_2012_n2_f3#q01|src_obm_2012_n2_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 2
 
 > Molte persone conoscono la sequenza di Fibonacci, ma non molte persone sanno che un matematico brasiliano della stessa epoca ha creato le sequenze Somos. Queste sequenze sono generate da tre termini iniziali interi positivi inferiori a $2012$. A differenza di ciò che accade nella sequenza di Fibonacci, ogni termine di una sequenza Somos è la somma di tutti i termini precedenti. Quante diverse sequenze Somos contengono il numero $\mathbf{2012}$ in qualche posizione?
 
-[[src_obm_2012_n2_f3__Q02]]
+[[Quesiti/src_obm_2012_n2_f3#q02|src_obm_2012_n2_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 2
 
 > Lasciate che $ABC$ sia un triangolo. $M$ sia il punto medio del lato $AC$ e $N$ sia il punto medio del lato $AB$. Definire $r$ e $z$ rispettivamente come riflessi delle linee $BM$ e $CN$ sulla linea $BC$. Definire inoltre $D$ e $E$ come intersezioni delle linee $r$ e $z$ con la linea $MN$, rispettivamente. Il $X$ e il $Y$ siano i punti di intersezione delle linee $r$ e $z$ con i circoncircoli dei triangoli $BDM$ e $CEN$, rispettivamente. Il $W$ deve essere l'incrocio delle linee $BE$ e $CD$. Provare che le linee $XY$, $WZ$ e $BC$ sono simultanee.
 
-[[src_obm_2012_n2_f3__Q03]]
+[[Quesiti/src_obm_2012_n2_f3#q03|src_obm_2012_n2_f3__Q03]]
 
 
 
@@ -108,7 +108,7 @@ level: OBM Nível 2
 
 > The figure below shows a regular pentagon $ABCDE$ inscribed in an equilateral triangle $MNP$. Determine the measure of angle $CMD$.
 
-![[src_obm_2012_n2_f3__Q04.png]]
+![[src_obm_2012_n2_f3__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -124,9 +124,9 @@ level: OBM Nível 2
 
 > La figura seguente mostra un pentagono regolare $ABCDE$ iscritto in un triangolo equilaterale $MNP$. Determinare la misura dell'angolo $CMD$.
 
-![[src_obm_2012_n2_f3__Q04.png]]
+![[src_obm_2012_n2_f3__q04.png]]
 
-[[src_obm_2012_n2_f3__Q04]]
+[[Quesiti/src_obm_2012_n2_f3#q04|src_obm_2012_n2_f3__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: OBM Nível 2
 
 > Considerare i numeri reali $a$ e $b$, come $(a + b)(a + 1)(b + 1) = 2$ e $a^2 + b^2 = 1$. Trova il valore di $a + b$.
 
-[[src_obm_2012_n2_f3__Q05]]
+[[Quesiti/src_obm_2012_n2_f3#q05|src_obm_2012_n2_f3__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: OBM Nível 2
 > 
 > *Note:* Example of marking with $d = 3$, using it once vertically and once horizontally.
 
-![[src_obm_2012_n2_f3__Q06.png]]
+![[src_obm_2012_n2_f3__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
@@ -190,6 +190,6 @@ level: OBM Nível 2
 > 
 > *Nota:* Esempio di marcatura con $d = 3$, utilizzandola una volta verticalmente e una volta orizzontalmente.
 
-![[src_obm_2012_n2_f3__Q06.png]]
+![[src_obm_2012_n2_f3__q06.png]]
 
-[[src_obm_2012_n2_f3__Q06]]
+[[Quesiti/src_obm_2012_n2_f3#q06|src_obm_2012_n2_f3__Q06]]

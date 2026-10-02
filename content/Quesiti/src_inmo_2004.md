@@ -24,7 +24,7 @@ level: INMO
 > 
 > Prove that $ABCD$ is a square.
 
-![[src_inmo_2004__Q01.png]]
+![[src_inmo_2004__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -42,9 +42,9 @@ level: INMO
 > 
 > Prova che $ABCD$ è un quadrato.
 
-![[src_inmo_2004__Q01.png]]
+![[src_inmo_2004__q01.png]]
 
-[[src_inmo_2004__Q01]]
+[[Quesiti/src_inmo_2004#q01|src_inmo_2004__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: INMO
 
 > Supponiamo che $p$ sia un primo maggiore di $3$. Trova tutte le coppie di integri $(a, b)$ che soddisfano l'equazione $$a^2 + 3ab + 2(a + b) + p^2 = 0.$$
 
-[[src_inmo_2004__Q02]]
+[[Quesiti/src_inmo_2004#q02|src_inmo_2004__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: INMO
 
 > Se $a$ è una radice reale dell'equazione $x^3 - x^2 + x - 2 = 0$, dimostrare che $\lfloor a^3 \rfloor = 3$. (Per qualsiasi numero reale $a$, indichiamo con $\lfloor a \rfloor$ il numero intero più grande non superiore a $a$.)
 
-[[src_inmo_2004__Q03]]
+[[Quesiti/src_inmo_2004#q03|src_inmo_2004__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: INMO
 
 > $R$ indichi il circondario di un triangolo $ABC$; $a$, $b$, $c$, i suoi lati $BC$, $CA$, $AB$; e $r_a$, $r_b$, $r_c$, rispettivamente, i suoi esradi opposti a $A$, $B$ e $C$. Se $2R \le r_a$, dimostrare che (i) $a > b$ e $a > c$; (ii) $2R > r_b$ e $2R > r_c$.
 
-[[src_inmo_2004__Q04]]
+[[Quesiti/src_inmo_2004#q04|src_inmo_2004__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: INMO
 
 > $S$ indichi l'insieme di tutti i 6 tupli $(a, b, c, d, e, f)$ di enti interi positivi come $a^2 + b^2 + c^2 + d^2 + e^2 = f^2$. Considera l'insieme $$T = \{ abcdef : (a, b, c, d, e, f) \in S \}.$$ Trova il più grande divisore comune di tutti i membri di $T$.
 
-[[src_inmo_2004__Q05]]
+[[Quesiti/src_inmo_2004#q05|src_inmo_2004__Q05]]
 
 
 
@@ -186,4 +186,4 @@ level: INMO
 
 > Prove che il numero di $5$-tupli di integri positivi $(a, b, c, d, e)$ che soddisfano l'equazione $$abcde = 5(bcde + acde + abde + abce + abcd)$$ è un intero **odd**.
 
-[[src_inmo_2004__Q06]]
+[[Quesiti/src_inmo_2004#q06|src_inmo_2004__Q06]]

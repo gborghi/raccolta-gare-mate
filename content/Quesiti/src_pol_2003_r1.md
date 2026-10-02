@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 1
 
 > Trovare tutte le coppie di integri positivi $x$, $y$ tali da $(x+y)^2-2(xy)^2=1$.
 
-[[src_pol_2003_r1__Q01]]
+[[Quesiti/src_pol_2003_r1#q01|src_pol_2003_r1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 1
 
 > Date un numero reale $a_1>1$, definire la sequenza $(a_n)$ da $a_{n+1}=a_n^2-a_n+1$ per $n\ge 1$. Prova che per ogni intero positivo $n$, $$\frac{1}{a_1}+\frac{1}{a_2}+\cdots+\frac{1}{a_n}<\frac{1}{a_1-1}.$$
 
-[[src_pol_2003_r1__Q02]]
+[[Quesiti/src_pol_2003_r1#q02|src_pol_2003_r1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 1
 
 > Su un cerchio $o$ sono indicati tre punti diversi $A$, $B$ e $C$. Le linee tangenti a $o$ a $A$ e a $B$ si incontrano a $P$, e la linea tangente a $o$ a $C$ interseca la linea $AB$ a $Q$. Prove che $PQ^2=PB^2+QC^2$.
 
-[[src_pol_2003_r1__Q03]]
+[[Quesiti/src_pol_2003_r1#q03|src_pol_2003_r1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 1
 
 > Considera l'insieme di tutte le sequenze di lunghezza $k$ con termini nell'insieme $\{1,2,\ldots,m\}$. Per ciascuna di queste sequenze è marcato il valore del termine più piccolo. Prova che la somma di tutti i numeri segnalati è uguale a $1^k+2^k+\cdots+m^k$.
 
-[[src_pol_2003_r1__Q04]]
+[[Quesiti/src_pol_2003_r1#q04|src_pol_2003_r1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 1
 
 > Un intero positivo $n_1$ contiene cifre decimali $333$ e tutte quelle cifre non sono zero. Per $i=1,2,\ldots,332$, impostare $n_{i+1}$ come il numero ottenuto da $n_i$ spostando l'ultima cifra di $n_i$ all'inizio. Provare che $333$ divide quattro o tutti i numeri $n_1,n_2,\ldots,n_{333}$.
 
-[[src_pol_2003_r1__Q05]]
+[[Quesiti/src_pol_2003_r1#q05|src_pol_2003_r1__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: Olimpiade Polacca Round 1
 
 > I punti $A$, $B$, $C$, $D$ si trovano in questo ordine su un cerchio $o$. Il $M$ deve essere il punto medio dell'arco $AB$ di $o$ non contenente $C$, $D$ e $N$ il punto medio dell'arco $CD$ di $o$ non contenente $A$, $B$. Provare che $$\frac{AN^2-BN^2}{AB}=\frac{DM^2-CM^2}{CD}.$$
 
-[[src_pol_2003_r1__Q06]]
+[[Quesiti/src_pol_2003_r1#q06|src_pol_2003_r1__Q06]]
 
 
 
@@ -195,7 +195,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 
 > In una riunione presso la zia Renia ha incontrato persone (tra cui la zia). Ognuno di loro ha dato almeno un regalo ad almeno un altro. Ogni persona tranne zia Renia ha dato tre volte più regali di quelli che ha ricevuto, ma zia Renia ha ricevuto sei volte più regali di quelli che ha dato. Trova il minor numero di regali che la zia Renia avrebbe potuto ottenere.
 
-[[src_pol_2003_r1__Q07]]
+[[Quesiti/src_pol_2003_r1#q07|src_pol_2003_r1__Q07]]
 
 
 
@@ -222,7 +222,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 
 > In un tetraedro $ABCD$, $M$ e $N$ sono rispettivamente i punti medi dei bordi $AB$ e $CD$. Supponiamo che un punto $P$ sul segmento $MN$ soddisfi $MP=CN$ e $NP=AC$. Che il $O$ sia il circondario del tetraedro. Indicare che se $O\ne P$, allora $OP\perp MN$.
 
-[[src_pol_2003_r1__Q08]]
+[[Quesiti/src_pol_2003_r1#q08|src_pol_2003_r1__Q08]]
 
 
 
@@ -248,7 +248,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 
 > Trova tutti i polinomi $W$ con coefficienti reali che hanno la seguente proprietà: se $x+y$ è un numero razionale, allora è $W(x)+W(y)$.
 
-[[src_pol_2003_r1__Q09]]
+[[Quesiti/src_pol_2003_r1#q09|src_pol_2003_r1__Q09]]
 
 
 
@@ -275,7 +275,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 
 > Nella tabella ci sono carte $52$ numerate con i numeri $1,2,\ldots,52$. Una permutazione $\pi$ dell'insieme $\{1,2,\ldots,52\}$ si chiama shuffle se c'è un numero $1\le m\le 51$ tale che $\pi(i)<\pi(i+1)$ per $i=1,2,\ldots,m-1,m+1,\ldots,51$. Prove o smentire che, a partire dalle carte in ordine arbitrario, possiamo organizzarle in qualsiasi altro ordine in un massimo di $5$ mescoli.
 
-[[src_pol_2003_r1__Q10]]
+[[Quesiti/src_pol_2003_r1#q10|src_pol_2003_r1__Q10]]
 
 
 
@@ -301,7 +301,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 
 > Si dà un quadrilaterale convex $ABCD$. I punti $P$ e $Q$ diversi dai suoi vertici si trovano rispettivamente sui segmenti $BC$ e $CD$ e soddisfano la condizione $\angle BAP=\angle DAQ$. Indicare che i triangoli $ABP$ e $ADQ$ hanno la stessa superficie se e solo se i loro ortocentri si trovano su una linea perpendicolare a $AC$.
 
-[[src_pol_2003_r1__Q11]]
+[[Quesiti/src_pol_2003_r1#q11|src_pol_2003_r1__Q11]]
 
 
 
@@ -329,4 +329,4 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 
 > Per i numeri reali positivi $a$, $b$, $c$, $d$, indicare $A=a^3+b^3+c^3+d^3$ e $B=bcd+cda+dab+abc$. Provare che $$(a+b+c+d)^3\le 4A+24B.$$
 
-[[src_pol_2003_r1__Q12]]
+[[Quesiti/src_pol_2003_r1#q12|src_pol_2003_r1__Q12]]

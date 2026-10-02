@@ -58,7 +58,7 @@ level: kangourou
 > E) E
 
 **Answer:** D
-[[src_kangourou_2023_ecolier__Q01]]
+[[Quesiti/src_kangourou_2023_ecolier#q01|src_kangourou_2023_ecolier__Q01]]
 
 
 
@@ -104,7 +104,7 @@ level: kangourou
 > E) 11
 
 **Answer:** C
-[[src_kangourou_2023_ecolier__Q02]]
+[[Quesiti/src_kangourou_2023_ecolier#q02|src_kangourou_2023_ecolier__Q02]]
 
 
 
@@ -145,7 +145,7 @@ level: kangourou
 > The figure shows the dial of a clock and what Sarah sees after she overlaps it with a dark circle with two holes. Now Sara rotates the circle around her center. Which of these number pairs can you possibly see in the holes after rotation? A) 4 e 9 B) 5 e 9 C) 5 e 10 D) 6 e 9 E) 7 e 12
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q03]]
+[[Quesiti/src_kangourou_2023_ecolier#q03|src_kangourou_2023_ecolier__Q03]]
 
 
 
@@ -184,7 +184,7 @@ level: kangourou
 > Alice has the four pieces of cardboard you see in the figure: with two of them she can form the square here on the side. What are they? A) 1 e 2 B) 1 e 3 C) 1 e 4 D) 3 e 4 E) 2 e 4
 
 **Answer:** C
-[[src_kangourou_2023_ecolier__Q04]]
+[[Quesiti/src_kangourou_2023_ecolier#q04|src_kangourou_2023_ecolier__Q04]]
 
 
 
@@ -254,7 +254,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2023_ecolier__Q05]]
+[[Quesiti/src_kangourou_2023_ecolier#q05|src_kangourou_2023_ecolier__Q05]]
 
 
 
@@ -308,7 +308,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E)
 
 **Answer:** E
-[[src_kangourou_2023_ecolier__Q06]]
+[[Quesiti/src_kangourou_2023_ecolier#q06|src_kangourou_2023_ecolier__Q06]]
 
 
 
@@ -361,7 +361,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2023_ecolier__Q07]]
+[[Quesiti/src_kangourou_2023_ecolier#q07|src_kangourou_2023_ecolier__Q07]]
 
 
 
@@ -414,7 +414,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E) Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2023_ecolier__Q08]]
+[[Quesiti/src_kangourou_2023_ecolier#q08|src_kangourou_2023_ecolier__Q08]]
 
 
 
@@ -456,7 +456,7 @@ The following information shall be provided for the purposes of this Regulation:
 > D) E)
 
 **Answer:** A
-[[src_kangourou_2023_ecolier__Q09]]
+[[Quesiti/src_kangourou_2023_ecolier#q09|src_kangourou_2023_ecolier__Q09]]
 
 
 
@@ -498,7 +498,7 @@ The following information shall be provided for the purposes of this Regulation:
 >
 
 **Answer:** A
-[[src_kangourou_2023_ecolier__Q10]]
+[[Quesiti/src_kangourou_2023_ecolier#q10|src_kangourou_2023_ecolier__Q10]]
 
 
 
@@ -547,7 +547,7 @@ The following information shall be provided for the purposes of this Regulation:
 > D) E)
 
 **Answer:** E
-[[src_kangourou_2023_ecolier__Q11]]
+[[Quesiti/src_kangourou_2023_ecolier#q11|src_kangourou_2023_ecolier__Q11]]
 
 
 
@@ -598,7 +598,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E) 8
 
 **Answer:** A
-[[src_kangourou_2023_ecolier__Q12]]
+[[Quesiti/src_kangourou_2023_ecolier#q12|src_kangourou_2023_ecolier__Q12]]
 
 
 
@@ -645,7 +645,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2023_ecolier__Q13]]
+[[Quesiti/src_kangourou_2023_ecolier#q13|src_kangourou_2023_ecolier__Q13]]
 
 
 
@@ -699,7 +699,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E) E
 
 **Answer:** D
-[[src_kangourou_2023_ecolier__Q14]]
+[[Quesiti/src_kangourou_2023_ecolier#q14|src_kangourou_2023_ecolier__Q14]]
 
 
 
@@ -751,7 +751,7 @@ The following information shall be provided for the purposes of this Regulation:
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q15]]
+[[Quesiti/src_kangourou_2023_ecolier#q15|src_kangourou_2023_ecolier__Q15]]
 
 
 
@@ -821,7 +821,7 @@ The following information shall be provided for the purposes of this Regulation:
 > The questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** A
-[[src_kangourou_2023_ecolier__Q16]]
+[[Quesiti/src_kangourou_2023_ecolier#q16|src_kangourou_2023_ecolier__Q16]]
 
 
 
@@ -874,7 +874,7 @@ The following table shows the number of species of kangaroos:
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q17]]
+[[Quesiti/src_kangourou_2023_ecolier#q17|src_kangourou_2023_ecolier__Q17]]
 
 
 
@@ -928,7 +928,7 @@ The following table shows the number of species of kangaroos:
 > E)
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q18]]
+[[Quesiti/src_kangourou_2023_ecolier#q18|src_kangourou_2023_ecolier__Q18]]
 
 
 
@@ -976,7 +976,7 @@ The following table shows the number of species of kangaroos:
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q19]]
+[[Quesiti/src_kangourou_2023_ecolier#q19|src_kangourou_2023_ecolier__Q19]]
 
 
 
@@ -1028,7 +1028,7 @@ The following table shows the number of species of kangaroos:
 > E) E
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q20]]
+[[Quesiti/src_kangourou_2023_ecolier#q20|src_kangourou_2023_ecolier__Q20]]
 
 
 
@@ -1068,7 +1068,7 @@ The following table shows the number of species of kangaroos:
 - E) 0
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q21]]
+[[Quesiti/src_kangourou_2023_ecolier#q21|src_kangourou_2023_ecolier__Q21]]
 
 
 
@@ -1111,7 +1111,7 @@ The following table shows the number of species of kangaroos:
 > Elsa has two cars. In each case, you can enter a square sheet of paper: from the machine R, the rotating sheet 90° comes out clockwise, as shown in the first figure; instead, the machine S prints this image on the sheet: (a) RRS B) RRS C) RRS D) RRS E) RRS
 
 **Answer:** B
-[[src_kangourou_2023_ecolier__Q22]]
+[[Quesiti/src_kangourou_2023_ecolier#q22|src_kangourou_2023_ecolier__Q22]]
 
 
 
@@ -1165,7 +1165,7 @@ The following table shows the number of species of kangaroos:
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2023_ecolier__Q23]]
+[[Quesiti/src_kangourou_2023_ecolier#q23|src_kangourou_2023_ecolier__Q23]]
 
 
 
@@ -1223,4 +1223,4 @@ The following table shows the number of species of kangaroos:
 >
 
 **Answer:** E
-[[src_kangourou_2023_ecolier__Q24]]
+[[Quesiti/src_kangourou_2023_ecolier#q24|src_kangourou_2023_ecolier__Q24]]

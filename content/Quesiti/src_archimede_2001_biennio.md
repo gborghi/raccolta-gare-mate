@@ -48,7 +48,7 @@ level: biennio
 > - **(D)** a > c > b
 > - **(E)** c > b > a.
 
-[[src_archimede_2001_biennio__Q01]]
+[[Quesiti/src_archimede_2001_biennio#q01|src_archimede_2001_biennio__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: biennio
 > - **(D)** 5
 > - **(E)** 14.
 
-[[src_archimede_2001_biennio__Q02]]
+[[Quesiti/src_archimede_2001_biennio#q02|src_archimede_2001_biennio__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: biennio
 > - **(D)** 15
 > - **(E)** 20. b b b b b b
 
-[[src_archimede_2001_biennio__Q03]]
+[[Quesiti/src_archimede_2001_biennio#q03|src_archimede_2001_biennio__Q03]]
 
 
 
@@ -172,7 +172,7 @@ level: biennio
 > - **(D)** 55
 > - **(E)** 77.
 
-[[src_archimede_2001_biennio__Q04]]
+[[Quesiti/src_archimede_2001_biennio#q04|src_archimede_2001_biennio__Q04]]
 
 
 
@@ -212,7 +212,7 @@ level: biennio
 > - **(D)** 667 a.C.
 > - **(E)** 285 a.C.
 
-[[src_archimede_2001_biennio__Q05]]
+[[Quesiti/src_archimede_2001_biennio#q05|src_archimede_2001_biennio__Q05]]
 
 
 
@@ -253,7 +253,7 @@ level: biennio
 > - **(D)** This appropriation is intended to cover expenditure relating to:
 > - **(E)** It's $13.90.
 
-[[src_archimede_2001_biennio__Q06]]
+[[Quesiti/src_archimede_2001_biennio#q06|src_archimede_2001_biennio__Q06]]
 
 
 
@@ -300,7 +300,7 @@ level: biennio
 > - **(D)**
 > - **(E)**
 
-[[src_archimede_2001_biennio__Q07]]
+[[Quesiti/src_archimede_2001_biennio#q07|src_archimede_2001_biennio__Q07]]
 
 
 
@@ -340,7 +340,7 @@ level: biennio
 > - **(D)** 440
 > - **(E)** 500.
 
-[[src_archimede_2001_biennio__Q08]]
+[[Quesiti/src_archimede_2001_biennio#q08|src_archimede_2001_biennio__Q08]]
 
 
 
@@ -388,7 +388,7 @@ level: biennio
 > - **(D)** 1
 > - **(E)** None of the previous ones.
 
-[[src_archimede_2001_biennio__Q09]]
+[[Quesiti/src_archimede_2001_biennio#q09|src_archimede_2001_biennio__Q09]]
 
 
 
@@ -434,7 +434,7 @@ level: biennio
 > - **(D)** 3
 > - **(E)** 4.
 
-[[src_archimede_2001_biennio__Q10]]
+[[Quesiti/src_archimede_2001_biennio#q10|src_archimede_2001_biennio__Q10]]
 
 
 
@@ -481,7 +481,7 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 64. b A b B
 
-[[src_archimede_2001_biennio__Q11]]
+[[Quesiti/src_archimede_2001_biennio#q11|src_archimede_2001_biennio__Q11]]
 
 
 
@@ -521,7 +521,7 @@ level: biennio
 > - **(D)** 11
 > - **(E)** 16.
 
-[[src_archimede_2001_biennio__Q12]]
+[[Quesiti/src_archimede_2001_biennio#q12|src_archimede_2001_biennio__Q12]]
 
 
 
@@ -564,7 +564,7 @@ level: biennio
 > - **(D)** 4
 > - **(E)** 5.
 
-[[src_archimede_2001_biennio__Q13]]
+[[Quesiti/src_archimede_2001_biennio#q13|src_archimede_2001_biennio__Q13]]
 
 
 
@@ -603,7 +603,7 @@ level: biennio
 > - **(D)** 3
 > - **(E)** 7.
 
-[[src_archimede_2001_biennio__Q14]]
+[[Quesiti/src_archimede_2001_biennio#q14|src_archimede_2001_biennio__Q14]]
 
 
 
@@ -643,7 +643,7 @@ level: biennio
 > - **(D)** 1 6
 > - **(E)** 13 72.
 
-[[src_archimede_2001_biennio__Q15]]
+[[Quesiti/src_archimede_2001_biennio#q15|src_archimede_2001_biennio__Q15]]
 
 
 
@@ -681,7 +681,7 @@ level: biennio
 > - **(D)** 11
 > - **(E)** 12.
 
-[[src_archimede_2001_biennio__Q16]]
+[[Quesiti/src_archimede_2001_biennio#q16|src_archimede_2001_biennio__Q16]]
 
 
 
@@ -721,7 +721,7 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 36.
 
-[[src_archimede_2001_biennio__Q17]]
+[[Quesiti/src_archimede_2001_biennio#q17|src_archimede_2001_biennio__Q17]]
 
 
 
@@ -765,7 +765,7 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 9.
 
-[[src_archimede_2001_biennio__Q18]]
+[[Quesiti/src_archimede_2001_biennio#q18|src_archimede_2001_biennio__Q18]]
 
 
 
@@ -808,7 +808,7 @@ level: biennio
 > - **(D)** 952
 > - **(E)** 1428.
 
-[[src_archimede_2001_biennio__Q19]]
+[[Quesiti/src_archimede_2001_biennio#q19|src_archimede_2001_biennio__Q19]]
 
 
 
@@ -850,4 +850,4 @@ level: biennio
 > - **(D)** 6
 > - **(E)** 8.
 
-[[src_archimede_2001_biennio__Q20]]
+[[Quesiti/src_archimede_2001_biennio#q20|src_archimede_2001_biennio__Q20]]

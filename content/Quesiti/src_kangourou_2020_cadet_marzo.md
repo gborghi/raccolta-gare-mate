@@ -51,7 +51,7 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2020_cadet_marzo__Q01]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q01|src_kangourou_2020_cadet_marzo__Q01]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > E)
 
 **Answer:** A
-[[src_kangourou_2020_cadet_marzo__Q02]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q02|src_kangourou_2020_cadet_marzo__Q02]]
 
 
 
@@ -137,7 +137,7 @@ level: kangourou
 > C) 4/9 D) 1/3 E) 1/2
 
 **Answer:** E
-[[src_kangourou_2020_cadet_marzo__Q03]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q03|src_kangourou_2020_cadet_marzo__Q03]]
 
 
 
@@ -211,7 +211,7 @@ level: kangourou
 > C) 2,5 D) 4,5 E) 3
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q04]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q04|src_kangourou_2020_cadet_marzo__Q04]]
 
 
 
@@ -261,7 +261,7 @@ level: kangourou
 > E) 8
 
 **Answer:** E
-[[src_kangourou_2020_cadet_marzo__Q05]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q05|src_kangourou_2020_cadet_marzo__Q05]]
 
 
 
@@ -313,7 +313,7 @@ level: kangourou
 > E) 24
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q06]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q06|src_kangourou_2020_cadet_marzo__Q06]]
 
 
 
@@ -371,7 +371,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2020_cadet_marzo__Q07]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q07|src_kangourou_2020_cadet_marzo__Q07]]
 
 
 
@@ -406,7 +406,7 @@ level: kangourou
 > B) We're both telling the truth. C) I always lie. D) I'm telling the truth. E) You're telling the truth.
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q08]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q08|src_kangourou_2020_cadet_marzo__Q08]]
 
 
 
@@ -456,7 +456,7 @@ level: kangourou
 > E) 5 and a half
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q09]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q09|src_kangourou_2020_cadet_marzo__Q09]]
 
 
 
@@ -510,7 +510,7 @@ level: kangourou
 > E) 47 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2020_cadet_marzo__Q10]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q10|src_kangourou_2020_cadet_marzo__Q10]]
 
 
 
@@ -550,7 +550,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 > The shortest route from Atown to Cetown is through Betown. Along the route are the two road signs shown in the figure. What distance was written on the broken sign? A) 1 km B) 3 km C) 4 km D) 5 km E) 9 km
 
 **Answer:** A
-[[src_kangourou_2020_cadet_marzo__Q11]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q11|src_kangourou_2020_cadet_marzo__Q11]]
 
 
 
@@ -592,7 +592,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 > D) 3,6 E) 3,1
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q12]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q12|src_kangourou_2020_cadet_marzo__Q12]]
 
 
 
@@ -651,7 +651,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 >
 
 **Answer:** B
-[[src_kangourou_2020_cadet_marzo__Q13]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q13|src_kangourou_2020_cadet_marzo__Q13]]
 
 
 
@@ -699,7 +699,7 @@ How many pupils (3/5 swimming, 3/5 dancing, 5 both)
 > E) 35
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q14]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q14|src_kangourou_2020_cadet_marzo__Q14]]
 
 
 
@@ -734,7 +734,7 @@ How many pupils (3/5 swimming, 3/5 dancing, 5 both)
 > Bruno's salary is 20% of that of the branch manager where he works. By what percentage should Bruno's salary increase to become equal to that of the director? A) 80% B) 120% C) 180% D) 400% E) 520%
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q15]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q15|src_kangourou_2020_cadet_marzo__Q15]]
 
 
 
@@ -781,7 +781,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q16]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q16|src_kangourou_2020_cadet_marzo__Q16]]
 
 
 
@@ -833,7 +833,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > E) 28
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q17]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q17|src_kangourou_2020_cadet_marzo__Q17]]
 
 
 
@@ -908,7 +908,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > E) 26
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q18]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q18|src_kangourou_2020_cadet_marzo__Q18]]
 
 
 
@@ -958,7 +958,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > E) None of the above
 
 **Answer:** B
-[[src_kangourou_2020_cadet_marzo__Q19]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q19|src_kangourou_2020_cadet_marzo__Q19]]
 
 
 
@@ -1021,7 +1021,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2020_cadet_marzo__Q20]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q20|src_kangourou_2020_cadet_marzo__Q20]]
 
 
 
@@ -1059,7 +1059,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > Twelve colored cubes are aligned. There are 3 blue cubes, 2 yellow cubes, 3 red cubes and 4 green cubes, but not in this order. There is a yellow cube at one end of the line and a red cube at the other end. The red cubes are all contiguous; even the green cubes are all contiguous. The tenth cube on the left is blue. What's the color of the cube that's in sixth place on the left? A) Of course it is blue. B) Certainly yellow. C) Certainly red. D) It is certainly green. E) Blue or red.
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q21]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q21|src_kangourou_2020_cadet_marzo__Q21]]
 
 
 
@@ -1098,7 +1098,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > Alice took a square sheet of paper and folded it so as to bring two of its sides to lie on a diagonal, as shown in the figure. What is the size of each of the two major angles of the quadrilateral thus obtained? A) 112°30’ B) 120° C) 127°30’ D) 135° E) 150°
 
 **Answer:** A
-[[src_kangourou_2020_cadet_marzo__Q22]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q22|src_kangourou_2020_cadet_marzo__Q22]]
 
 
 
@@ -1146,7 +1146,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > E) 11
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q23]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q23|src_kangourou_2020_cadet_marzo__Q23]]
 
 
 
@@ -1200,7 +1200,7 @@ How many points did Judge III give to Adam?
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2020_cadet_marzo__Q24]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q24|src_kangourou_2020_cadet_marzo__Q24]]
 
 
 
@@ -1249,7 +1249,7 @@ How many points did Judge III give to Adam?
 > E) 15
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q25]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q25|src_kangourou_2020_cadet_marzo__Q25]]
 
 
 
@@ -1314,7 +1314,7 @@ How many points did Judge III give to Adam?
 >
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q26]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q26|src_kangourou_2020_cadet_marzo__Q26]]
 
 
 
@@ -1368,7 +1368,7 @@ How many points did Judge III give to Adam?
 > E) 96
 
 **Answer:** E
-[[src_kangourou_2020_cadet_marzo__Q27]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q27|src_kangourou_2020_cadet_marzo__Q27]]
 
 
 
@@ -1418,7 +1418,7 @@ How many points did Judge III give to Adam?
 > E) 25
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q28]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q28|src_kangourou_2020_cadet_marzo__Q28]]
 
 
 
@@ -1454,7 +1454,7 @@ How many points did Judge III give to Adam?
 > Alberto, Bianca and Carlo are on a run. They start together and run at different but constant speeds. When Bianca finishes the race, Alberto must run another 15 m and Carlo another 35 m; when Alberto finishes the race, Carlo must still run 22 m. What distance are they running? A) 135 m B) 140 m C) 150 m D) 165 m E) 175 m
 
 **Answer:** D
-[[src_kangourou_2020_cadet_marzo__Q29]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q29|src_kangourou_2020_cadet_marzo__Q29]]
 
 
 
@@ -1510,4 +1510,4 @@ How many points did Judge III give to Adam?
 > Answers
 
 **Answer:** C
-[[src_kangourou_2020_cadet_marzo__Q30]]
+[[Quesiti/src_kangourou_2020_cadet_marzo#q30|src_kangourou_2020_cadet_marzo__Q30]]

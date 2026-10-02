@@ -37,7 +37,7 @@ level: JMO Honsen
 
 > Trova tutte le coppie di integri positivi $(m, n)$ in modo che sia $$\frac{n^2+1}{2m}$$ che $$\sqrt{2^{n-1}+m+4}$$ siano integri.
 
-[[src_jmo30hq_honsen__Q01]]
+[[Quesiti/src_jmo30hq_honsen#q01|src_jmo30hq_honsen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Honsen
 
 > Il $ABC$ deve essere un triangolo con $BC < AB$ e $BC < AC$. sui lati $AB$ e $AC$, prendere rispettivamente i punti $D$ e $E$ in modo tale che $BD = CE = BC$. La linea $P$ deve essere l'intersezione della linea $BE$ e della linea $CD$. $Q$ sia uno dei punti di intersezione del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ACD$ diversi da $A$. Provare che la linea $PQ$ e la linea $BC$ sono perpendicolari.
 
-[[src_jmo30hq_honsen__Q02]]
+[[Quesiti/src_jmo30hq_honsen#q02|src_jmo30hq_honsen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JMO Honsen
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per qualsiasi numero intero $m, n \ge 1$, $$m^2 + f(n)^2 + (m - f(n))^3 \ge f(m)^2 + n^2$$ sia contenuto.
 
-[[src_jmo30hq_honsen__Q03]]
+[[Quesiti/src_jmo30hq_honsen#q03|src_jmo30hq_honsen__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: JMO Honsen
 > 
 > Indipendentemente dal modo in cui il giocatore $B$ gioca, dimostrare che quando tutte le operazioni $n$ sono terminate, il giocatore $A$ può sempre fare in modo che il numero di segmenti che collegano un punto speciale con un pezzo su di esso a un punto speciale senza un pezzo su di esso sia almeno $\dfrac{n}{6}$.
 
-[[src_jmo30hq_honsen__Q04]]
+[[Quesiti/src_jmo30hq_honsen#q04|src_jmo30hq_honsen__Q04]]
 
 
 
@@ -161,4 +161,4 @@ level: JMO Honsen
 > 
 > Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
 
-[[src_jmo30hq_honsen__Q05]]
+[[Quesiti/src_jmo30hq_honsen#q05|src_jmo30hq_honsen__Q05]]

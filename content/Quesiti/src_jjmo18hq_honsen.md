@@ -21,7 +21,7 @@ level: JJMO Honsen
 > 
 > Here $L$ is an L-shaped tromino (three unit cells) and $S$ is an S-shaped tetromino (four unit cells).
 
-![[src_jjmo18hq_honsen__Q01.png]]
+![[src_jjmo18hq_honsen__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
@@ -39,9 +39,9 @@ level: JJMO Honsen
 > 
 > Qui $L$ è un tromino a forma di L (tre cellule di unità) e $S$ è un tetromino a forma di S (quattro cellule di unità).
 
-![[src_jjmo18hq_honsen__Q01.png]]
+![[src_jjmo18hq_honsen__q01.png]]
 
-[[src_jjmo18hq_honsen__Q01]]
+[[Quesiti/src_jjmo18hq_honsen#q01|src_jjmo18hq_honsen__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: JJMO Honsen
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jjmo18hq_honsen__Q02]]
+[[Quesiti/src_jjmo18hq_honsen#q02|src_jjmo18hq_honsen__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: JJMO Honsen
 
 > Trovare tutti i triples $(a,b,c)$ di numeri interi positivi in modo tale che il più piccolo multiplo comune di $a$, $b$, $c$ sia uguale a $\dfrac{ab+bc+ca}{4}$.
 
-[[src_jjmo18hq_honsen__Q03]]
+[[Quesiti/src_jjmo18hq_honsen#q03|src_jjmo18hq_honsen__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: JJMO Honsen
 > 
 > Qui, si dice che un pezzo della cella nella riga $a$-a dall'alto e nella colonna $b$-a da sinistra si trovi su una linea diagonale della cella nella riga $c$-a dall'alto e nella colonna $d$-a da sinistra quando $|a-c| = |b-d|$ si tiene.
 
-[[src_jjmo18hq_honsen__Q04]]
+[[Quesiti/src_jjmo18hq_honsen#q04|src_jjmo18hq_honsen__Q04]]
 
 
 
@@ -169,4 +169,4 @@ level: JJMO Honsen
 > 
 > Qui, vertice $2021$ e vertice $2022$ si riferiscono rispettivamente al vertice $1$ e al vertice $2$.
 
-[[src_jjmo18hq_honsen__Q05]]
+[[Quesiti/src_jjmo18hq_honsen#q05|src_jjmo18hq_honsen__Q05]]

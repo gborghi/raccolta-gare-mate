@@ -33,7 +33,7 @@ level: INMO
 
 > Che $ABC$ sia un triangolo e che $P$ sia un punto interno tale che $\angle BPC = 90^\circ$, $\angle BAP = \angle BCP$. $M$ e $N$ siano rispettivamente i punti di mezzo di $AC$ e $BC$. Supponiamo $BP = 2PM$. Prove che $A$, $P$, $N$ sono collineari.
 
-[[src_inmo_2009__Q01]]
+[[Quesiti/src_inmo_2009#q01|src_inmo_2009__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: INMO
 
 > Definire una sequenza $(a_n)_{n \ge 1}$ come segue: $$a_n = \begin{cases} 0, & \text{if the number of positive divisors of } n \text{ is odd,} \\ 1, & \text{if the number of positive divisors of } n \text{ is even.} \end{cases}$$ (I divisori positivi di $n$ includono $1$ e $n$.) $x = 0.a_1 a_2 a_3 \ldots$ sia il numero reale la cui espansione decimale contiene $a_n$ nel posto di $n$, $n \ge 1$. Determinare, con la prova, se $x$ è razionale o irrazionale.
 
-[[src_inmo_2009__Q02]]
+[[Quesiti/src_inmo_2009#q02|src_inmo_2009__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: INMO
 
 > Trova tutti i numeri reali $x$ in modo tale che $$[x^2 + 2x] = [x]^2 + 2[x].$$ (Qui $[x]$ indica il più grande numero intero non superiore a $x$.)
 
-[[src_inmo_2009__Q03]]
+[[Quesiti/src_inmo_2009#q03|src_inmo_2009__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: INMO
 
 > Tutti i punti del piano sono colorati con tre colori. Prova che esiste un triangolo con vertici dello stesso colore in modo tale che sia uguale o gli angoli siano in progressione geometrica.
 
-[[src_inmo_2009__Q04]]
+[[Quesiti/src_inmo_2009#q04|src_inmo_2009__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: INMO
 
 > Che $ABC$ sia un triangolo acuto e che $H$ sia il suo centro ortografico. $h_{\max}$ indichi l'altitudine più grande del triangolo $ABC$. Provare che $$AH + BH + CH \le 2h_{\max}.$$
 
-[[src_inmo_2009__Q05]]
+[[Quesiti/src_inmo_2009#q05|src_inmo_2009__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: INMO
 
 > $a$, $b$, $c$ siano numeri reali positivi tali da $a^3 + b^3 = c^3$. Provare che $$a^2 + b^2 - c^2 \ge 6(c - a)(c - b).$$
 
-[[src_inmo_2009__Q06]]
+[[Quesiti/src_inmo_2009#q06|src_inmo_2009__Q06]]

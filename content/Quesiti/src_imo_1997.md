@@ -47,7 +47,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 > In the plane the points with integers are the vertices of unit squares. The squares are alternately colored black and white (as on a chessboard). For any pair of positive integers m and n, consider a right-angled triangle whose vertices have integer coordinates and whose legs, of lengths m and n, lie along edges of the squares. Let S1 be the total area of the black part of the triangle and S2 be the total area of the white part. Let f, m, n = S1 − S2 be the same. (a) Calculate f ((m, n) for all positive integers m and n which are either even or both odd. (b) Prove that f (m, n) ≤1 2 max{m, n} for all m and n. (c) Show that there is no constant C such that f ((m, n) < C for all m and n.
 
-[[src_imo_1997__Q01]]
+[[Quesiti/src_imo_1997#q01|src_imo_1997__Q01]]
 
 
 
@@ -79,7 +79,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 > The angle at A is the smallest angle of triangle ABC. The points B and C divide the circumcircle of the triangle into two arcs. Let U be an interior point of the arc between B and C which does not contain A. The perpendicular bisectors of AB and AC meet the line AU at V and W, respectively. The lines BV and CW meet at T. Show that AU is TB + TC.
 
-[[src_imo_1997__Q02]]
+[[Quesiti/src_imo_1997#q02|src_imo_1997__Q02]]
 
 
 
@@ -133,7 +133,7 @@ Chessboard triangle black-white area difference function f(m,n)
 > Day II
 > July 25, 1997
 
-[[src_imo_1997__Q03]]
+[[Quesiti/src_imo_1997#q03|src_imo_1997__Q03]]
 
 
 
@@ -165,7 +165,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 > An n × n matrix whose entries come from the set S = {1, 2, . . . , 2n −1} is called a silver matrix if, for each i = 1, 2, . . . , n, the ith row and the ith column together contain all elements of S. Show that (a) there is no silver matrix for n = 1997; (b) silver matrices exist for infinitely many values of n.
 
-[[src_imo_1997__Q04]]
+[[Quesiti/src_imo_1997#q04|src_imo_1997__Q04]]
 
 
 
@@ -192,7 +192,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 > Find all pairs (a, b) of integers a, b ≥1 that satisfy the equation ab2 = ba.
 
-[[src_imo_1997__Q05]]
+[[Quesiti/src_imo_1997#q05|src_imo_1997__Q05]]
 
 
 
@@ -225,4 +225,4 @@ Chessboard triangle black-white area difference function f(m,n)
 
 > For each positive integer n , let f(n) denotes the number of ways of representing n as a sum of powers of 2 with nonnegative integer exponents. Representations which differ only in the ordering of their summands are considered to be the same. For example, f(4) = 4, because the number 4 can be represented in the following four ways: 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1. Prove that, for any integer n ≥3, 2n2/4 < f(2n) < 2n2/2.
 
-[[src_imo_1997__Q06]]
+[[Quesiti/src_imo_1997#q06|src_imo_1997__Q06]]

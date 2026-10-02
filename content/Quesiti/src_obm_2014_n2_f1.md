@@ -39,7 +39,7 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 > (A) 4 $\quad$ (B) 6 $\quad$ (C) 7 $\quad$ (D) 8 $\quad$ (E) 9
 
 **Risposta:** C
-[[src_obm_2014_n2_f1__Q01]]
+[[Quesiti/src_obm_2014_n2_f1#q01|src_obm_2014_n2_f1__Q01]]
 
 
 
@@ -80,7 +80,7 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 > - **(E)** Ci sono più carte nere a numeri odd che carte verdi a numeri odd.
 
 **Risposta:** E
-[[src_obm_2014_n2_f1__Q02]]
+[[Quesiti/src_obm_2014_n2_f1#q02|src_obm_2014_n2_f1__Q02]]
 
 
 
@@ -113,7 +113,7 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 > (A) 3 ore $\quad$ (B) 4 ore $\quad$ (C) 5 ore $\quad$ (D) 6 ore $\quad$ (E) 7 ore
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q03]]
+[[Quesiti/src_obm_2014_n2_f1#q03|src_obm_2014_n2_f1__Q03]]
 
 
 
@@ -149,7 +149,7 @@ Quale parola ha più lettere del numero che chiama?
 > (In portoghese: Um, Três, Quatro, Cinco, Seis.)
 
 **Risposta:** C
-[[src_obm_2014_n2_f1__Q04]]
+[[Quesiti/src_obm_2014_n2_f1#q04|src_obm_2014_n2_f1__Q04]]
 
 
 
@@ -164,7 +164,7 @@ Quale parola ha più lettere del numero che chiama?
 > 
 > (A) $1200\text{ cm}^2$ $\quad$ (B) $1300\text{ cm}^2$ $\quad$ (C) $1400\text{ cm}^2$ $\quad$ (D) $1500\text{ cm}^2$ $\quad$ (E) $1600\text{ cm}^2$
 
-![[src_obm_2014_n2_f1__Q05.png]]
+![[src_obm_2014_n2_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
@@ -183,10 +183,10 @@ Quale parola ha più lettere del numero che chiama?
 > 
 > (A) $1200\text{ cm}^2$ $\quad$ (B) $1300\text{ cm}^2$ $\quad$ (C) $1400\text{ cm}^2$ $\quad$ (D) $1500\text{ cm}^2$ $\quad$ (E) $1600\text{ cm}^2$
 
-![[src_obm_2014_n2_f1__Q05.png]]
+![[src_obm_2014_n2_f1__q05.png]]
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q05]]
+[[Quesiti/src_obm_2014_n2_f1#q05|src_obm_2014_n2_f1__Q05]]
 
 
 
@@ -219,7 +219,7 @@ Quale parola ha più lettere del numero che chiama?
 > (A) $2^{2^3 \cdot 19} \cdot 5^3$ $\quad$ (B) $2^{53} 3^{18} 5^2$ $\quad$ (C) $2^{52} 3^{18} 5$ $\quad$ (D) $2^{18} 5^3$ $\quad$ (E) $2^{27} 5^2$
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q06]]
+[[Quesiti/src_obm_2014_n2_f1#q06|src_obm_2014_n2_f1__Q06]]
 
 
 
@@ -263,7 +263,7 @@ Quale parola ha più lettere del numero che chiama?
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) Non esiste una porta che possa garantire la sicurezza.
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q07]]
+[[Quesiti/src_obm_2014_n2_f1#q07|src_obm_2014_n2_f1__Q07]]
 
 
 
@@ -296,7 +296,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > (A) 5 reais $\quad$ (B) 10 reais $\quad$ (C) 12 reais $\quad$ (D) 15 reais $\quad$ (E) 20 reais
 
 **Risposta:** C
-[[src_obm_2014_n2_f1__Q08]]
+[[Quesiti/src_obm_2014_n2_f1#q08|src_obm_2014_n2_f1__Q08]]
 
 
 
@@ -329,7 +329,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > (A) 2 $\quad$ (B) 4 $\quad$ (C) 6 $\quad$ (D) 8 $\quad$ (E) 10
 
 **Risposta:** C
-[[src_obm_2014_n2_f1__Q09]]
+[[Quesiti/src_obm_2014_n2_f1#q09|src_obm_2014_n2_f1__Q09]]
 
 
 
@@ -344,7 +344,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > 
 > (A) 4 reais $\quad$ (B) 5 reais $\quad$ (C) 6 reais $\quad$ (D) 9 reais $\quad$ (E) 11 reais
 
-![[src_obm_2014_n2_f1__Q10.png]]
+![[src_obm_2014_n2_f1__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -363,10 +363,10 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > 
 > A) 4 reais $\quad$ B) 5 reais $\quad$ C) 6 reais $\quad$ D) 9 reais $\quad$ E) 11 reais
 
-![[src_obm_2014_n2_f1__Q10.png]]
+![[src_obm_2014_n2_f1__q10.png]]
 
 **Risposta:** A
-[[src_obm_2014_n2_f1__Q10]]
+[[Quesiti/src_obm_2014_n2_f1#q10|src_obm_2014_n2_f1__Q10]]
 
 
 
@@ -381,7 +381,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > 
 > (A) $60\text{ m}^2$ $\quad$ (B) $80\text{ m}^2$ $\quad$ (C) $90\text{ m}^2$ $\quad$ (D) $100\text{ m}^2$ $\quad$ (E) Impossible to determine
 
-![[src_obm_2014_n2_f1__Q11.png]]
+![[src_obm_2014_n2_f1__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -399,10 +399,10 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > 
 > (A) $60\text{ m}^2$ $\quad$ (B) $80\text{ m}^2$ $\quad$ (C) $90\text{ m}^2$ $\quad$ (D) $100\text{ m}^2$ $\quad$ (E) Impossibile determinare
 
-![[src_obm_2014_n2_f1__Q11.png]]
+![[src_obm_2014_n2_f1__q11.png]]
 
 **Risposta:** D
-[[src_obm_2014_n2_f1__Q11]]
+[[Quesiti/src_obm_2014_n2_f1#q11|src_obm_2014_n2_f1__Q11]]
 
 
 
@@ -417,7 +417,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > 
 > (A) figure A $\quad$ (B) figure B $\quad$ (C) figure C $\quad$ (D) figure D $\quad$ (E) figure E
 
-![[src_obm_2014_n2_f1__Q12.png]]
+![[src_obm_2014_n2_f1__q12.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
@@ -435,10 +435,10 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 > 
 > (A) figura A $\quad$ (B) figura B $\quad$ (C) figura C $\quad$ (D) figura D $\quad$ (E) figura E
 
-![[src_obm_2014_n2_f1__Q12.png]]
+![[src_obm_2014_n2_f1__q12.png]]
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q12]]
+[[Quesiti/src_obm_2014_n2_f1#q12|src_obm_2014_n2_f1__Q12]]
 
 
 
@@ -471,7 +471,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > (A) 20 maggio 2014 $\quad$ (B) 21 maggio 2014 $\quad$ (C) 22 maggio 2014 $\quad$ (D) 16 giugno 2014 $\quad$ (E) 17 giugno 2014
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q13]]
+[[Quesiti/src_obm_2014_n2_f1#q13|src_obm_2014_n2_f1__Q13]]
 
 
 
@@ -504,7 +504,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > (A) 3 $\quad$ (B) 5 $\quad$ (C) 1 $\quad$ (D) 4 $\quad$ (E) 9
 
 **Risposta:** A
-[[src_obm_2014_n2_f1__Q14]]
+[[Quesiti/src_obm_2014_n2_f1#q14|src_obm_2014_n2_f1__Q14]]
 
 
 
@@ -519,7 +519,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > 
 > (A) 216 $\quad$ (B) 125 $\quad$ (C) 120 $\quad$ (D) 56 $\quad$ (E) 30
 
-![[src_obm_2014_n2_f1__Q15.png]]
+![[src_obm_2014_n2_f1__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -538,10 +538,10 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > 
 > (A) 216 $\quad$ (B) 125 $\quad$ (C) 120 $\quad$ (D) 56 $\quad$ (E) 30
 
-![[src_obm_2014_n2_f1__Q15.png]]
+![[src_obm_2014_n2_f1__q15.png]]
 
 **Risposta:** D
-[[src_obm_2014_n2_f1__Q15]]
+[[Quesiti/src_obm_2014_n2_f1#q15|src_obm_2014_n2_f1__Q15]]
 
 
 
@@ -560,7 +560,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > - **(D)** Use neither trail.\\
 > - **(E)** There is not enough information to determine.
 
-![[src_obm_2014_n2_f1__Q16.png]]
+![[src_obm_2014_n2_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -583,10 +583,10 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > - **(D)** Utilizzare nessuna traccia.
 > - **(E)** Non ci sono informazioni sufficienti per determinarlo.
 
-![[src_obm_2014_n2_f1__Q16.png]]
+![[src_obm_2014_n2_f1__q16.png]]
 
 **Risposta:** A
-[[src_obm_2014_n2_f1__Q16]]
+[[Quesiti/src_obm_2014_n2_f1#q16|src_obm_2014_n2_f1__Q16]]
 
 
 
@@ -601,7 +601,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > 
 > (A) $15^\circ$ $\quad$ (B) $20^\circ$ $\quad$ (C) $30^\circ$ $\quad$ (D) $40^\circ$ $\quad$ (E) $45^\circ$
 
-![[src_obm_2014_n2_f1__Q17.png]]
+![[src_obm_2014_n2_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -619,10 +619,10 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > 
 > (A) $15^\circ$ $\quad$ (B) $20^\circ$ $\quad$ (C) $30^\circ$ $\quad$ (D) $40^\circ$ $\quad$ (E) $45^\circ$
 
-![[src_obm_2014_n2_f1__Q17.png]]
+![[src_obm_2014_n2_f1__q17.png]]
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q17]]
+[[Quesiti/src_obm_2014_n2_f1#q17|src_obm_2014_n2_f1__Q17]]
 
 
 
@@ -655,7 +655,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 > (A) $-\sqrt{2}$ $\quad$ (B) $\sqrt{2}\,\sqrt{3}$ $\quad$ (C) $\sqrt{3}$ $\quad$ (D) $\sqrt{2}$ $\quad$ (E) $\sqrt{3}$
 
 **Risposta:** A
-[[src_obm_2014_n2_f1__Q18]]
+[[Quesiti/src_obm_2014_n2_f1#q18|src_obm_2014_n2_f1__Q18]]
 
 
 
@@ -688,7 +688,7 @@ Quale dei cinque numeri è il più grande?
 > (A) $2014^5$ $\quad$ (B) $3015^4$ $\quad$ (C) $4016^3$ $\quad$ (D) $5017^2$ $\quad$ (E) $6018^1$
 
 **Risposta:** B
-[[src_obm_2014_n2_f1__Q19]]
+[[Quesiti/src_obm_2014_n2_f1#q19|src_obm_2014_n2_f1__Q19]]
 
 
 
@@ -721,7 +721,7 @@ Quale dei cinque numeri è il più grande?
 > (A) $\frac{5}{4}$ $\quad$ (B) $\frac{9}{4}$ $\quad$ (C) $\frac{23}{4}$ $\quad$ (D) $\frac{25}{4}$ $\quad$ (E) $\frac{4}{5}$
 
 **Risposta:** D
-[[src_obm_2014_n2_f1__Q20]]
+[[Quesiti/src_obm_2014_n2_f1#q20|src_obm_2014_n2_f1__Q20]]
 
 
 
@@ -754,7 +754,7 @@ Quale dei cinque numeri è il più grande?
 > (A) 2 $\quad$ (B) $2\sqrt{3}$ $\quad$ (C) $2 + \sqrt{3}$ $\quad$ (D) 3 $\quad$ (E) 6
 
 **Risposta:** D
-[[src_obm_2014_n2_f1__Q21]]
+[[Quesiti/src_obm_2014_n2_f1#q21|src_obm_2014_n2_f1__Q21]]
 
 
 
@@ -787,7 +787,7 @@ Quale dei cinque numeri è il più grande?
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
 
 **Risposta:** D
-[[src_obm_2014_n2_f1__Q22]]
+[[Quesiti/src_obm_2014_n2_f1#q22|src_obm_2014_n2_f1__Q22]]
 
 
 
@@ -820,7 +820,7 @@ Quale dei cinque numeri è il più grande?
 > (A) $\dfrac{b^2 - a^2}{4}$ $\quad$ (B) $\dfrac{a^2}{b}$ $\quad$ (C) $\dfrac{b^2 + a^2}{4b}$ $\quad$ (D) $\dfrac{1}{b}$ $\quad$ (E) $a^2$
 
 **Risposta:** A
-[[src_obm_2014_n2_f1__Q23]]
+[[Quesiti/src_obm_2014_n2_f1#q23|src_obm_2014_n2_f1__Q23]]
 
 
 
@@ -835,7 +835,7 @@ Quale dei cinque numeri è il più grande?
 > 
 > (A) $3 \cdot 2^{2014}$ $\quad$ (B) $4 \cdot 2^{2013}$ $\quad$ (C) $4^{2014}$ $\quad$ (D) $2 \cdot 3^{2014}$ $\quad$ (E) $3 \cdot 4^{2014}$
 
-![[src_obm_2014_n2_f1__Q24.png]]
+![[src_obm_2014_n2_f1__q24.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -854,10 +854,10 @@ Quale dei cinque numeri è il più grande?
 > 
 > (A) $3 \cdot 2^{2014}$ $\quad$ (B) $4 \cdot 2^{2013}$ $\quad$ (C) $4^{2014}$ $\quad$ (D) $2 \cdot 3^{2014}$ $\quad$ (E) $3 \cdot 4^{2014}$
 
-![[src_obm_2014_n2_f1__Q24.png]]
+![[src_obm_2014_n2_f1__q24.png]]
 
 **Risposta:** A
-[[src_obm_2014_n2_f1__Q24]]
+[[Quesiti/src_obm_2014_n2_f1#q24|src_obm_2014_n2_f1__Q24]]
 
 
 
@@ -890,4 +890,4 @@ Quale dei cinque numeri è il più grande?
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 45 $\quad$ (D) 103 $\quad$ (E) 105
 
 **Risposta:** E
-[[src_obm_2014_n2_f1__Q25]]
+[[Quesiti/src_obm_2014_n2_f1#q25|src_obm_2014_n2_f1__Q25]]

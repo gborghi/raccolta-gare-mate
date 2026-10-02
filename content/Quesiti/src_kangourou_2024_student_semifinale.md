@@ -80,7 +80,7 @@ level: kangourou
 > I lied yesterday and I will lie tomorrow.
 
 **Answer:** C
-[[src_kangourou_2024_student_semifinale__Q01]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q01|src_kangourou_2024_student_semifinale__Q01]]
 
 
 
@@ -108,7 +108,7 @@ level: kangourou
 > Yesterday was Monday or Tuesday or Wednesday or Thursday.
 
 **Answer:** A
-[[src_kangourou_2024_student_semifinale__Q02]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q02|src_kangourou_2024_student_semifinale__Q02]]
 
 
 
@@ -147,7 +147,7 @@ Probability of diamonds in box 9 after opening
 > Tomorrow is Saturday or Sunday or Monday. On what day did Charles' fifteenth birthday fall? A. Certainly on Monday. B) Certainly on Thursday. C) Certainly on Friday. D) Thursday or Friday, both being possible. E) Monday or Friday, both being possible. Answer: E). The solution. 1) can be either true or false. If 1) is false they must also be false 2) and 3); if 2) is false the day can be Saturday, Sunday or Monday; if 3) is false the day can be Monday, Tuesday, Wednesday or Thursday: the intersection is Monday. If 1) is true they must also be true 2) and 3); if 2) is true the day may be Tuesday, Wednesday, Thursday or Friday; if 3) is true the day may be Friday, Saturday or Sunday: the intersection is Friday.
 
 **Answer:** C o E
-[[src_kangourou_2024_student_semifinale__Q03]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q03|src_kangourou_2024_student_semifinale__Q03]]
 
 
 
@@ -176,7 +176,7 @@ Probability of diamonds in box 9 after opening
 > 4. In the Cartesian plane, consider a square Q whose vertices have, each, both integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is a whole odd. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason.
 
 **Answer:** B
-[[src_kangourou_2024_student_semifinale__Q04]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q04|src_kangourou_2024_student_semifinale__Q04]]
 
 
 
@@ -205,7 +205,7 @@ Birthday with true/false statements
 > 5. On alternate days, Charles tells the truth or lies for the whole day. On the day of his fifteenth birthday, Charles made the three statements listed below.
 
 **Answer:** E
-[[src_kangourou_2024_student_semifinale__Q05]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q05|src_kangourou_2024_student_semifinale__Q05]]
 
 
 
@@ -240,7 +240,7 @@ Birthday with true/false statements
 > (Points 4) Multiplying between them three randomly chosen numbers in the {38, 55, 68, 104, 175, 375}, what is the probability out of 100 that the product ends with the maximum number of zeros possible? A) 10 B) 15 C) 20 D) 25 E) 30 Answer: E). The solution. The factors of the six numbers are, in the order, 2 × 19, 5 × 11, 22 × 17, 23 × 13, 52 × 7, 53 × 3. The number of zeros is given by the highest exponent to which a high 2 × 5 can appear in the product; this exponent is clearly 3, which can be obtained by the following different choices of the trane: {104, 375, any of the remaining 4}, {38, 68, 375}, {55, 104, 175}, for a total of 6 out of 20 trane.
 
 **Answer:** E
-[[src_kangourou_2024_student_semifinale__Q06]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q06|src_kangourou_2024_student_semifinale__Q06]]
 
 
 
@@ -293,7 +293,7 @@ Minimum number of students to cover all eight problems
 > In fact, it seems to me that in the latter case, there is a perfect symmetry that leads to having three students solve the problems that the student in question did not solve.
 
 **Answer:** A
-[[src_kangourou_2024_student_semifinale__Q07]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q07|src_kangourou_2024_student_semifinale__Q07]]
 
 
 
@@ -334,7 +334,7 @@ Minimum number of students to cover all eight problems
 > (Points 5) A strip consists of eight aligned squares, each of which may be white or gray. One move consists of changing the color from white to gray or vice versa for each of four consecutive squares. If you start from a strip where the squares are all white, how many of the following four strips can be obtained after an appropriate number of moves, even variable from strip to strip? A) 0 (no) B) 1 C) 2 D) 3 E) 4 (all) Answer A).
 
 **Answer:** A
-[[src_kangourou_2024_student_semifinale__Q08]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q08|src_kangourou_2024_student_semifinale__Q08]]
 
 
 
@@ -380,7 +380,7 @@ Maximum number of redundant cameras on the road 1000m
 > Open-ended questions
 
 **Answer:** E
-[[src_kangourou_2024_student_semifinale__Q09]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q09|src_kangourou_2024_student_semifinale__Q09]]
 
 
 
@@ -412,7 +412,7 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 4) Four real numbers a, b, c, d all other than 0 are such that their sum is 0, as well as the sum of their inverse with the inverse of their product. How much is (cd  ab) c + d)? The answer is: 0001. The solution. From the second condition we get cd(a + b) + ab(c + d) =  1. From the first, being a + b =  (c + d), you get then that the number you're looking for is 1.
 
 **Answer:** 1
-[[src_kangourou_2024_student_semifinale__Q10]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q10|src_kangourou_2024_student_semifinale__Q10]]
 
 
 
@@ -499,7 +499,7 @@ Maximum number of redundant cameras on the road 1000m
 > 4 + 4  4, or 15 = 44/4 + 4, or 160 = (44  4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
 **Answer:** 11
-[[src_kangourou_2024_student_semifinale__Q11]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q11|src_kangourou_2024_student_semifinale__Q11]]
 
 
 
@@ -532,7 +532,7 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 5) How many angles less than 170 degrees can a convex polygon have? The answer is 0035. The solution. The sum of the additions to 180 of the measurements in degrees of angles of a convex polygon shall be 360. On the other hand, on the basis of this consideration, it is clear that there is a polygon of 36 sides with 35 angles measuring less than 170 degrees.
 
 **Answer:** 35
-[[src_kangourou_2024_student_semifinale__Q12]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q12|src_kangourou_2024_student_semifinale__Q12]]
 
 
 
@@ -565,7 +565,7 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 6) Assigned to a polygon convex of n sides (n > 3), we use Sn to indicate the number of its diagonal. What is the smallest value of n such that Sn + Sn  1 > 2024? The answer is 0048. The solution. For every n > 3 we have Sn = n(n  3)/2, where Sn + Sn  1 = n2  4n + 2. In order to have n2  4n  2022 > 0 must be n > 2 + √2026. The first perfect square greater than 2026 is 2116 = 462.
 
 **Answer:** 48
-[[src_kangourou_2024_student_semifinale__Q13]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q13|src_kangourou_2024_student_semifinale__Q13]]
 
 
 
@@ -602,7 +602,7 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 6) A mathematical contest was presented with problems for 50 contestants. For each individual contestant, the correct answers given, the wrong ones and the ones not given were counted. There were no two competitors who provided both the same number of correct answers and the same number of incorrect answers. What's the smallest possible value for n? The answer is: 0009. The solution. In our assumptions, for 0 ≤ k ≤ n, the eligible data with exactly k correct answers are in the number of n  k + 1 (there may not be any unspecified answers). The sum of all these numbers in k is the sum of the integers from 1 to n + 1 included, i.e. $\frac{(n+1)(n+2)}{2}$ and this value must be at least 50. From $n^2 + 3n - 98 \ge 0$, with n integers, follows $n \ge 9$.
 
 **Answer:** 9
-[[src_kangourou_2024_student_semifinale__Q14]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q14|src_kangourou_2024_student_semifinale__Q14]]
 
 
 
@@ -689,7 +689,7 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 6) A triangle ABC, rectangular in A and whose angle in B measures 60 degrees is given; that triangle has area 2024. With the following procedure two sequences of points are identified: A1, A2, A3, ... on the AC side and B1, B2, B3, ... on the BC side: • A1 is on the ABC angle beam, segment A1B1 is perpendicular to the BC side; • B2 is on the B1A1C angle beam, segment B2A2 is perpendicular to the AC side; • A3 is on the A2B2C angle beam, segment A3B3 is perpendicular to the BC side and so on. What is the smallest integer n such that the area of the AnBnC triangle is less than 10? The answer is: 0005. The solution. The triangles ABA1, A1BB1 and A1B1C are congruent, so the area of A1B1C is 1/3 of that of ABC. Since all AhBhC triangles are similar to ABC, the situation is repeated for each AhBhC triangle with respect to Ah-1Bh-1C and for n = 5 larea 2024/35 = 2024/243 of AnBnC becomes for the first time less than 10.
 
 **Answer:** 5
-[[src_kangourou_2024_student_semifinale__Q15]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q15|src_kangourou_2024_student_semifinale__Q15]]
 
 
 
@@ -737,7 +737,7 @@ Maximum number of redundant cameras on the road 1000m
 > r = 3 involves A = 1 + 2B, so it leads to the integers 94, 73, 52, 31; r = 6 involves A = 2 + 2B, so it leads to the integers 83, 62 r = 9 involves A = 3 + 2B, so it leads to the whole 93 r = 12 and r = 15 do not leave any possibility.
 
 **Answer:** 11
-[[src_kangourou_2024_student_semifinale__Q16]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q16|src_kangourou_2024_student_semifinale__Q16]]
 
 
 
@@ -772,7 +772,7 @@ Maximum number of redundant cameras on the road 1000m
 > (Points 7) Adding the cubes of some consecutive integers gives us a result of 2024. How many of these integers can be at most? The answer is 0011. The solution. A well-known theorem states that for every positive integer n, the sum of the cubes of the first positive integers coincides with the square of the sum of these first n integers. The sum of the first n positive integers is n  n + 1)/2: quickly finds then that 452 = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers 2 through 9, but also the cubes of integers 1 through 9. It is easy to see that this sequence of consecutive integers cannot be extended.
 
 **Answer:** 11
-[[src_kangourou_2024_student_semifinale__Q17]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q17|src_kangourou_2024_student_semifinale__Q17]]
 
 
 
@@ -812,4 +812,4 @@ Maximum number of redundant cameras on the road 1000m
 > In a box there are 1,016 red and 1,008 green bubbles. Do you calculate the probability that, if you randomly extract one seed at a time, after each extraction, the number of red seed remaining in the box will always remain different from the number of green seed remaining in the box? Write the number 1/p or, if it is not an integer, the integer nearest it. The answer is 0253. The solution. Let's calculate the probability of the complementary event C, that is, after some extraction, the green balls left in the box are as many as the red ones. Let's imagine doing the reverse operation, which is filling the box by drawing the seeds from the outside, which is equivalent to our purpose. If the first card entered is green, which happens with probability of 1.008/2.024, C is certainly occurring. Now let's say that the first card you put in is red and that C happens again. Consider the first time C occurs: the last insert must have been a green leaf. Since we only have red or green balls, the probability a priori that this was a green ball is still 1,008/2,024. So you have p = 1  2 × 1.008/2.024 = 8/2.024 = 1/253.
 
 **Answer:** 253
-[[src_kangourou_2024_student_semifinale__Q18]]
+[[Quesiti/src_kangourou_2024_student_semifinale#q18|src_kangourou_2024_student_semifinale__Q18]]

@@ -17,7 +17,7 @@ level: kangourou
 
 *Area del triangolo ADE (parallelogramma)*
 
-![[src_kangourou_2007_benjamin_maggio__probB1.png]]
+![[src_kangourou_2007_benjamin_maggio__probb1.png]]
 
 ```tikz
 \begin{document}
@@ -53,7 +53,7 @@ level: kangourou
 
 *area of the ADE triangle (parallelogram) *
 
-![[src_kangourou_2007_benjamin_maggio__probB1.png]]
+![[src_kangourou_2007_benjamin_maggio__probb1.png]]
 
 ```tikz
 \begin{document}
@@ -78,7 +78,7 @@ level: kangourou
 > If the parallelogram $ABCD$ has an area $7 \ \text{cm}^2$, and the triangle $EBC$ has an area $2 \ \text{cm}^2$, what is the area of the triangle $ADE$ in the figure? (see figure)
 
 **Answer:** 1,5 cm^2
-[[src_kangourou_2007_benjamin_maggio__QB1]]
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb1|src_kangourou_2007_benjamin_maggio__QB1]]
 
 
 
@@ -89,7 +89,7 @@ level: kangourou
 
 *Minimo monete per triangolo e quadrato*
 
-![[src_kangourou_2007_benjamin_maggio__probB2.png]]
+![[src_kangourou_2007_benjamin_maggio__probb2.png]]
 
 > Puoi appoggiare 15 monete uguali su un tavolo in modo che «formino un triangolo equilatero» (vedi figura), ma non puoi farlo in modo che «formino un quadrato» (manca una moneta). Qual è il minimo numero di monete con cui puoi formare sia un triangolo sia un quadrato?
 
@@ -105,12 +105,12 @@ level: kangourou
 
 *Minimum coins for triangles and squares *
 
-![[src_kangourou_2007_benjamin_maggio__probB2.png]]
+![[src_kangourou_2007_benjamin_maggio__probb2.png]]
 
 > You can place 15 equal coins on a table so that they form an equilateral triangle (see figure), but you can't do that so that they form a square (one coin is missing). What's the minimum number of coins you can use to form a triangle or a square?
 
 **Answer:** 36
-[[src_kangourou_2007_benjamin_maggio__QB2]]
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb2|src_kangourou_2007_benjamin_maggio__QB2]]
 
 
 
@@ -139,7 +139,7 @@ level: kangourou
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 91 handshakes were made. If males are fewer than females, how many male students are in that class?
 
 **Answer:** 7
-[[src_kangourou_2007_benjamin_maggio__QB3]]
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb3|src_kangourou_2007_benjamin_maggio__QB3]]
 
 
 
@@ -183,7 +183,7 @@ level: kangourou
 > [Caution: if you are positive, you must show that no other result can be obtained; otherwise, you must indicate two procedures each of which allows one molecule to be produced and the two molecules produced are different].
 
 **Answer:** Anti-X
-[[src_kangourou_2007_benjamin_maggio__QB4]]
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb4|src_kangourou_2007_benjamin_maggio__QB4]]
 
 
 
@@ -218,7 +218,7 @@ level: kangourou
 > How many different triangles can his pupils give him, if you consider two triangles equal when for each side of one of the two there is a side of the other that has the same size?
 
 **Answer:** 12
-[[src_kangourou_2007_benjamin_maggio__QB5]]
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb5|src_kangourou_2007_benjamin_maggio__QB5]]
 
 
 
@@ -247,4 +247,4 @@ level: kangourou
 > I have all the different candy in my pocket, and the number of ways I can choose three is twice the number of ways I can choose two. How many candies do I have in my pocket?
 
 **Answer:** 8
-[[src_kangourou_2007_benjamin_maggio__QB6]]
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb6|src_kangourou_2007_benjamin_maggio__QB6]]

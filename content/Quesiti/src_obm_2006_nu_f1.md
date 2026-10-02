@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > Calcolo $$\int_2^{\infty} \frac{e^x - 1 - x}{(e^x - 1) \cdot x}\, dx.$$
 
-[[src_obm_2006_nu_f1__Q01]]
+[[Quesiti/src_obm_2006_nu_f1#q01|src_obm_2006_nu_f1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: OBM Nível Universitário
 
 > $N$ sia un numero intero positivo. Calcolare, come funzione di $N$, il volume del solido definito da $$x,\, y,\, z \in [0, +\infty), \quad \lfloor x \rfloor + \lfloor y \rfloor + \lfloor z \rfloor \le N.$$
 
-[[src_obm_2006_nu_f1__Q02]]
+[[Quesiti/src_obm_2006_nu_f1#q02|src_obm_2006_nu_f1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível Universitário
 
 > Dato che $f : \mathbb{R} \to [0, +\infty)$ è doppio differenziabile con $f(0) = 0$, $f'(0) = 1$ e $1 + f(x) = \dfrac{1}{f'(x)}$, indicare che per tutti $x \in [0, 1]$, $$f(x) < \frac{3}{2}.$$
 
-[[src_obm_2006_nu_f1__Q03]]
+[[Quesiti/src_obm_2006_nu_f1#q03|src_obm_2006_nu_f1__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível Universitário
 > 
 > **Nota: ** Una corda ** di un iperbola è un segmento i cui punti terminali appartengono entrambi all'iperbola.
 
-[[src_obm_2006_nu_f1__Q04]]
+[[Quesiti/src_obm_2006_nu_f1#q04|src_obm_2006_nu_f1__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível Universitário
 > 
 > Trova una funzione $y(t)$ tale da $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t), \quad y(0) = 0, \quad y'(0) = 0.$$
 
-[[src_obm_2006_nu_f1__Q05]]
+[[Quesiti/src_obm_2006_nu_f1#q05|src_obm_2006_nu_f1__Q05]]
 
 
 
@@ -182,4 +182,4 @@ level: OBM Nível Universitário
 
 > Scegliere tre punti $x_1, x_2, x_3$ a caso, indipendentemente e con distribuzione uniforme su $[0, 1]$. Determinare, in funzione del numero positivo $m$, la probabilità che $$\min\{\,|x_1 - x_2|,\; |x_1 - x_3|,\; |x_2 - x_3|\,\} > m.$$
 
-[[src_obm_2006_nu_f1__Q06]]
+[[Quesiti/src_obm_2006_nu_f1#q06|src_obm_2006_nu_f1__Q06]]

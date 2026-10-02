@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Un rettangolo che non è quadrato ha lati con lunghezze interi, misurate in centimetri. Se il suo perimetro è $c$ centimetri e la sua superficie è $c$ centimetri quadrati, determinare $n$ il numero di tali rettangoli.
 
-[[src_obm_2013_n3_f2__Q01]]
+[[Quesiti/src_obm_2013_n3_f2#q01|src_obm_2013_n3_f2__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: OBM Nível 3
 
 > A *bishop* is a chess piece that can move diagonally any number of squares in any direction. In the figure below, the possible directions of movement of the bishop from a given square of the board are indicated. We say that two bishops *attack* each other when one is on a square reachable by the other in a single move. What is the maximum number of bishops that can be placed on an $8 \times 8$ board such that no two bishops are attacking each other?
 
-![[src_obm_2013_n3_f2__Q02.png]]
+![[src_obm_2013_n3_f2__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
@@ -62,9 +62,9 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Un *bishop* è un pezzo di scacchi che può muovere diagonalmente qualsiasi numero di quadrati in qualsiasi direzione. Nella figura seguente sono indicate le possibili direzioni di movimento del vescovo da un determinato quadrato della lavagna. Diciamo che due vescovi si attaccano quando uno è su un quadrato raggiungibile dall'altro in una sola mossa. Qual è il numero massimo di vescovi che può essere posto su una lavagna in modo tale che non ci siano due vescovi che si attaccano a vicenda?
 
-![[src_obm_2013_n3_f2__Q02.png]]
+![[src_obm_2013_n3_f2__q02.png]]
 
-[[src_obm_2013_n3_f2__Q02]]
+[[Quesiti/src_obm_2013_n3_f2#q02|src_obm_2013_n3_f2__Q02]]
 
 
 
@@ -97,7 +97,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Si osserva che $$\frac{1}{n(n+1)} = \frac{1}{n} - \frac{1}{n+1}.$$ Così possiamo calcolare la serie $$\sum_{n=2}^{\infty} \frac{1}{n(n+1)} = \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} + \frac{1}{3 \cdot 4} + \cdots = \left(1 - \frac{1}{2}\right) + \left(\frac{1}{2} - \frac{1}{3}\right) + \left(\frac{1}{3} - \frac{1}{4}\right) + \cdots = 1.$$ Sapendo che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n^2} = 1 + \frac{1}{4} + \frac{1}{9} + \cdots = \frac{\pi^2}{6}$, il valore di $$\sum_{n=1}^{\infty} \frac{1}{n(n+1)^2} = \frac{1}{1 \cdot 2^2} + \frac{1}{2 \cdot 3^2} + \frac{1}{3 \cdot 4^2} + \cdots$$ è della forma $A - \dfrac{\pi^2}{B}$, dove $A$ e $B$ sono interi positivi. Determinare il valore di $A + B$.
 
-[[src_obm_2013_n3_f2__Q03]]
+[[Quesiti/src_obm_2013_n3_f2#q03|src_obm_2013_n3_f2__Q03]]
 
 
 
@@ -124,7 +124,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > $A = \{1, 2, 3, \ldots, 20\}$ sia l'insieme dei primi 20 integri positivi. Per ogni sottoinsieme $X$ di 15 elementi di $A$, calcoliamo il prodotto $p(X)$ dei suoi elementi. Per esempio, $p(\{1, 2, 3, \ldots, 15\}) = 1 \cdot 2 \cdot 3 \cdots 15 = 15!$. Qual è il più grande divisore comune a tutti i prodotti $p(X)$ ottenuti da tutti i $\binom{20}{15}$ sottoinsiemi di 15 elementi di $A$?
 
-[[src_obm_2013_n3_f2__Q04]]
+[[Quesiti/src_obm_2013_n3_f2#q04|src_obm_2013_n3_f2__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Si può dimostrare che per un triangolo acuto $ABC$, il triangolo $DEF$ con $D$, $E$, $F$ che sono rispettivamente i piedi delle altitudini dai lati $BC$, $CA$ e $AB$ riduce al minimo il perimetro tra tutti i triangoli iscritti in $ABC$. Il triangolo $DEF$ è chiamato il triangolo ortico ** di $ABC$. Se $AB = 13$, $BC = 14$ e $CA = 15$, il perimetro del triangolo ortico può essere scritto come $\dfrac{a}{b}$, dove $a$ e $b$ sono integri positivi copri. Determinare il valore di $a + b$.
 
-[[src_obm_2013_n3_f2__Q05]]
+[[Quesiti/src_obm_2013_n3_f2#q05|src_obm_2013_n3_f2__Q05]]
 
 
 
@@ -178,7 +178,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Il quadrato $ABCD$ è inserito in un cerchio di raggio $30$. L'accordo $AM$ taglia la diagonale $BD$ al punto $P$. Se $AM = 50$, trovare il valore di $AP$.
 
-[[src_obm_2013_n3_f2__Q06]]
+[[Quesiti/src_obm_2013_n3_f2#q06|src_obm_2013_n3_f2__Q06]]
 
 
 
@@ -205,7 +205,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Per coprire una lavagna di dimensioni $1 \times 112$, possiamo utilizzare heptomino gialle di dimensioni $1 \times 7$ e ottomino rosse di dimensioni $1 \times 8$. In quanti modi possiamo coprire completamente la lavagna?
 
-[[src_obm_2013_n3_f2__Q07]]
+[[Quesiti/src_obm_2013_n3_f2#q07|src_obm_2013_n3_f2__Q07]]
 
 
 
@@ -238,7 +238,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Determinare il numero di quadrupli ordinati $(x, y, z, w)$ di numeri reali tali che $$\begin{cases} -x^3 = y + z + w \\ -y^3 = z + w + x \\ -z^3 = w + x + y \\ -w^3 = x + y + z \end{cases}$$
 
-[[src_obm_2013_n3_f2__Q08]]
+[[Quesiti/src_obm_2013_n3_f2#q08|src_obm_2013_n3_f2__Q08]]
 
 
 
@@ -267,4 +267,4 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 > Scriviamo la somma delle reciprocità dei numeri interi da $1$ a $2013$ come la frazione irriducibile $\dfrac{A}{B}$, cioè $$1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{2013} = \frac{A}{B}, \qquad \gcd(A,B) = 1.$$ Qual è il numero intero più grande $n$ tale che $B$ sia divisibile da $3^n$?
 
-[[src_obm_2013_n3_f2__Q09]]
+[[Quesiti/src_obm_2013_n3_f2#q09|src_obm_2013_n3_f2__Q09]]

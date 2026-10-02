@@ -42,7 +42,7 @@ level: nazionale
 > The British Cantorax needs a large amount of magic potion to save his village from the Romans. Parabolix has prepared some of it on its own, and it has to be bottled. She has containers of varying sizes available, but she wants to put the potion in containers all equal to each other. Initially, he tries to use 25-litre containers, but he gets one-litre. Then he tries with the 15-liter containers, but this time they're 6 liters ahead. Finally, he decides to put the potion in 25-centimeter bottles and, of course, manages not to push the potion forward. Knowing that Parabolix produced less than 500 liters of potion and used more than 1,500 bottles, what is the exact number of bottles used?
 
 **Answer:** 1704
-[[src_cesenatico_2011_finale__Q01]]
+[[Quesiti/src_cesenatico_2011_finale#q01|src_cesenatico_2011_finale__Q01]]
 
 
 
@@ -75,7 +75,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > The bardo Assuranceturing has composed a new ballad to celebrate the departure for Britain. Since he loves to overdo it, instead of the classic stanza 44 Galli in line for 6 with the rest of 2 he decided to sing 1!+2!+3!+4!+··+2011! Britons in line for 576 with the rest of the k. Obviously, he's tied up and beaten up before he can finish, and Borelix wonders, who knows what the value of k would have been?
 
 **Answer:** 0153
-[[src_cesenatico_2011_finale__Q02]]
+[[Quesiti/src_cesenatico_2011_finale#q02|src_cesenatico_2011_finale__Q02]]
 
 
 
@@ -111,7 +111,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > On the boat to Britannia, when Abelix asks him for information about the type of coins used in his country, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. In addition, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 18 pieces of bronze, how many pieces of copper does it need to reach the value of an iron barrel?
 
 **Answer:** 0019
-[[src_cesenatico_2011_finale__Q03]]
+[[Quesiti/src_cesenatico_2011_finale#q03|src_cesenatico_2011_finale__Q03]]
 
 
 
@@ -146,7 +146,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > The Roman legion threatening the village of Cantorax is organized into many ranks of 10 legionaries each. In each row the legionaries are numbered from 0 to 9 and are one next to the other not necessarily in order. In fact, the centurion is superstitious, and he has demanded that each line be in a different order and that all have the property that by dividing the 10 legionaries of the line into 5 2-digit blocks each and lightening each 2-digit block as if it were a number (it is allowed to write 02, which simply means 2), you get 5 prime numbers. Determine how many legions the legion is made up of.
 
 **Answer:** 0960
-[[src_cesenatico_2011_finale__Q04]]
+[[Quesiti/src_cesenatico_2011_finale#q04|src_cesenatico_2011_finale__Q04]]
 
 
 
@@ -186,7 +186,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > 2/3 Team competition 2011  National final  Problems text
 
 **Answer:** 0900
-[[src_cesenatico_2011_finale__Q05]]
+[[Quesiti/src_cesenatico_2011_finale#q05|src_cesenatico_2011_finale__Q05]]
 
 
 
@@ -218,7 +218,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > In Britain, wild boars are scarce, and so Borelix had to go on a diet: he eats one boar a day more than two-thirds of the number of boars he had eaten the day before. Knowing that on the ninth day of his stay on the island he eats only 259 boars, how many had he eaten on the first day?
 
 **Answer:** 6564
-[[src_cesenatico_2011_finale__Q06]]
+[[Quesiti/src_cesenatico_2011_finale#q06|src_cesenatico_2011_finale__Q06]]
 
 
 
@@ -252,7 +252,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > The birthday of old Math-usa-lemmix The birthday of old Math-usa-lemmix, the most enviable man in the village (because of his wife), little Eallaix turns 7 years old. When the child asks the old man how old he is, he answers, "My age is a positive integer n, less than 300, whose digits are either zero or otherwise do not divide n and such that, if you subtract your age from it, it becomes a number that as prime divisors has only 7 and the first digit of n. What's the age of the old Math-use-lemmix?
 
 **Answer:** 0203
-[[src_cesenatico_2011_finale__Q07]]
+[[Quesiti/src_cesenatico_2011_finale#q07|src_cesenatico_2011_finale__Q07]]
 
 
 
@@ -285,7 +285,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > An assuranceturing bardo, because he can't sing in public without ending up tied up like a salami, locks himself in his cabin playing dice. If he throws 7 Roman dice (common dice with 6 faces numbered from 1 to 6), what is the probability that the sum of the outcome values is strictly greater than 24? As a response, provide the first four digits after the comma.
 
 **Answer:** 5000
-[[src_cesenatico_2011_finale__Q08]]
+[[Quesiti/src_cesenatico_2011_finale#q08|src_cesenatico_2011_finale__Q08]]
 
 
 
@@ -321,7 +321,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > The Roman camp The Roman legion camp in Britannia is a rectangle ABCD of sides BC = 100 cubits and CD = 400 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 10000 cubits2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
 
 **Answer:** 0400
-[[src_cesenatico_2011_finale__Q09]]
+[[Quesiti/src_cesenatico_2011_finale#q09|src_cesenatico_2011_finale__Q09]]
 
 
 
@@ -354,7 +354,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > In Britannia, a strange game played between two teams, using balls, clubs and small arrows, is fashionable. Tickets to the final between Londinium and Cambridge cost 2011 bars. How many different ways, using only pieces of bronze and pieces of copper, can Cantorax pay for a ticket without having to receive the rest?
 
 **Answer:** 4448
-[[src_cesenatico_2011_finale__Q10]]
+[[Quesiti/src_cesenatico_2011_finale#q10|src_cesenatico_2011_finale__Q10]]
 
 
 
@@ -390,7 +390,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > Meanwhile, in Armorica, the old Math-usa-lemmix tells the villagers the tale of Cappuccettix and the bad Roman: ...the mother had given her the basket to bring to the sick Grandmother Galla, full of so many delights: chocolateLatinix, Gallinix and Crostate to the MarmelLatinix. But age plays bad jokes and the watchman no longer remembers exactly how many of these gifts were! All you know is that they were 3 consecutive integers, of which 2 were prime numbers and 1 was a perfect square. Little Leibnix, very clever, suggests to him what all the possible threads of these numbers are. How much is the product of the main elements of all these terns worth?
 
 **Answer:** 0060
-[[src_cesenatico_2011_finale__Q11]]
+[[Quesiti/src_cesenatico_2011_finale#q11|src_cesenatico_2011_finale__Q11]]
 
 
 
@@ -431,7 +431,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > Team competition 2011  National final  Problem texts 3/3 A less difficult mission in Egypt
 
 **Answer:** 4000
-[[src_cesenatico_2011_finale__Q12]]
+[[Quesiti/src_cesenatico_2011_finale#q12|src_cesenatico_2011_finale__Q12]]
 
 
 
@@ -464,7 +464,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > A message from Egypt The code message Numerotris uses to ask friends from Wales to reach him in Egypt is a long sequence of 1000 digits between 0 and 8. To decode it, Parabolix notes that this number, read at base 10 is multiple of 3, read at base 9 is multiple of 4, and read at base 11 is multiple of 5. How much is the sum of the numbers on the paper worth at most?
 
 **Answer:** 7980
-[[src_cesenatico_2011_finale__Q13]]
+[[Quesiti/src_cesenatico_2011_finale#q13|src_cesenatico_2011_finale__Q13]]
 
 
 
@@ -497,7 +497,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > Abelix and Borelix invented a new game to pass the time before leaving for Egypt. Whenever they put out a patrol of Roman soldiers, they ask two of them to choose randomly, each independently, a divisor of 12!; if the two numbers have a maximum common divisor equal to 1, Borelix wins, otherwise Abelix wins. What are the odds of Abelix winning? As a response, provide the first four digits after the comma.
 
 **Answer:** 9834
-[[src_cesenatico_2011_finale__Q14]]
+[[Quesiti/src_cesenatico_2011_finale#q14|src_cesenatico_2011_finale__Q14]]
 
 
 
@@ -532,7 +532,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > Near the time of the pennyshell, pirates spotted a ship stationed in the middle of the Mediterranean, a mile away. Tosto, they're going to plunder her. However, in fear that (by chance) it will be populated by the usual Gauls, they proceed with extreme caution. Their approach route consists of two straight lines, orthogonal to each other, the first at 1/4 mile per hour, the second at 1/8 mile per hour. Moreover, of all the routes of this kind, they choose the slowest. How many minutes will it take the pirate ship to intercept each other (where, of course, the usual Gauls are crushing a little bit)?
 
 **Answer:** 0536
-[[src_cesenatico_2011_finale__Q15]]
+[[Quesiti/src_cesenatico_2011_finale#q15|src_cesenatico_2011_finale__Q15]]
 
 
 
@@ -568,7 +568,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > Galli, come from far away. . . ...to suffocate me with hatred, I will be able to show you how a queen dies. To me the serpent!, Cleopatra exclaims as Abelix and the others enter the throne room. However, the Aspide is not within reach: Cleopatra and the serpent are at the extremes of the lower base of an isosceles trapezius. Abelix and Borelix are at the extremes of the major base, which is also the diameter of the circumference into which the trapezoid is inscribed. Knowing that the distance between Abelix and Borelix is 400 cleopasses (a unit of measurement determined by the length of Cleopatra's legs), the distance between Abelix and Cleopatra is 100 cleopasses as that between Borelix and the snake, what is the distance between Cleopatra and the snake?
 
 **Answer:** 0350
-[[src_cesenatico_2011_finale__Q16]]
+[[Quesiti/src_cesenatico_2011_finale#q16|src_cesenatico_2011_finale__Q16]]
 
 
 
@@ -604,7 +604,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > Fatigue I, Velocipedos from Marathon Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she doesn't believe them and puts them under the terrible Fatiches. If they overcome them with the grace of the gods, they'll have the Queen's too. Fatica I is a 200-lap race on the track. Abelix, the Greek champion Velocipedos and the Roman champion Dopatus are taking part. On the way, they all start together from the same point on the track, running counter-clockwise at a constant speed. Abelix takes 120 seconds, Velocipedos 75 seconds and Dopatus (who secretly stole and drank some magic potion and will be disqualified after arrival) only 57 seconds. How many seconds from the start will all three athletes be back side by side for the first time?
 
 **Answer:** 3800
-[[src_cesenatico_2011_finale__Q17]]
+[[Quesiti/src_cesenatico_2011_finale#q17|src_cesenatico_2011_finale__Q17]]
 
 
 
@@ -638,7 +638,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > The first pyramid that Cleopatra felt the need for is in fact an immense treasure chest. The pyramid has a square side base of 120 cleopasses and a height of 120 cleopasses. Its summit is not equidistant from the vertices of the base square: in fact, it is located 131 and 143 cleopasses from two consecutive vertices. Within the volume of the pyramid, as many compartments as possible have been created, each of which is cubic in shape and has a side of 5 cleopasses. How many are in all the compartments of Cleopatra's vault?
 
 **Answer:** 4324
-[[src_cesenatico_2011_finale__Q18]]
+[[Quesiti/src_cesenatico_2011_finale#q18|src_cesenatico_2011_finale__Q18]]
 
 
 
@@ -678,7 +678,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 > 4/3 Team competition 2011  National final  Problem texts
 
 **Answer:** 0142
-[[src_cesenatico_2011_finale__Q19]]
+[[Quesiti/src_cesenatico_2011_finale#q19|src_cesenatico_2011_finale__Q19]]
 
 
 
@@ -717,7 +717,7 @@ It's likely to return to office 73 (shift)
 > La II Fatica, the house that drives Abelix crazy to overcome one of the Fatica imposed by Cleopatra, must get an A-38 passport issued from office 73, at the palace of the Roman prefect, where the mad bureaucracy forces him to turn from one to the other of the 100 offices there (numbered 1 to 100). In fact, the prefect had previously prepared a day with tickets numbered from 1 to 100 and had one drawn from each office. Whenever Abelix asks an office for a document, the employees explain that he needs another document first, to be obtained at another office whose number they read from the ticket. Abelix regularly starts from asking for the A-38 passport at the 73 office and for a while follows the instructions, but after 1000 times he is discouraged and decides to go to the tough manners with the employees of the office in front of him. What are the odds that I'll end up getting into trouble with the very employees of office 73? As a response, provide the first four digits after the comma.
 
 **Answer:** 1100
-[[src_cesenatico_2011_finale__Q20]]
+[[Quesiti/src_cesenatico_2011_finale#q20|src_cesenatico_2011_finale__Q20]]
 
 
 
@@ -758,7 +758,7 @@ It's likely to return to office 73 (shift)
 > Word of order! Like the other high-ranking Roman spies, the infidel Duetrecinquesette has a very powerful portable abacus at his disposal that allows him to make very difficult calculations in a short time. The Romans use it to increase the security of the secret services: before opening up to anyone, the sentry asks them to do very complicated operations to verify if they have the Abacus. Abelix put in two, but the baby's broken. The Rooster then experiments with an elisir of intelligence and tries to infiltrate. Who goes there? The sentry whispers. So Duetrecinquesettete answers Abelix with an unlikely Latin accent. Tell me then: if x is the only positive real solution of x2 −29x −10 = 0, what is x2011 worth? asks the sentinel. Abelix ready answers It's too big a number to say out loud and it's not even whole! The sentry doesn't surprise itself and says, "Then take the whole part and then tell me the last two digits of the number you get. It will be better for you not to be mistaken! What should Abelix answer the sentry?
 
 **Answer:** 0019
-[[src_cesenatico_2011_finale__Q21]]
+[[Quesiti/src_cesenatico_2011_finale#q21|src_cesenatico_2011_finale__Q21]]
 
 
 
@@ -800,7 +800,7 @@ It's likely to return to office 73 (shift)
 > Work on Cleopatra's monument has been accelerated and now there are the beauty of 11808 workers, many of whom are feared to have infiltrated Roman spies. When Abelix asks each of the sixteen workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the last worker speaks of Egyptians or n workers. Clearly the Egyptians will always tell him the truth while the Roman spies will always lie to him. How many Roman spies are infiltrated as workers? (It is understood that true Egyptians are never spies.)
 
 **Answer:** 4723
-[[src_cesenatico_2011_finale__Q22]]
+[[Quesiti/src_cesenatico_2011_finale#q22|src_cesenatico_2011_finale__Q22]]
 
 
 
@@ -835,7 +835,7 @@ It's likely to return to office 73 (shift)
 > Cleopatra's true pyramid Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of side 100 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 200 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
 
 **Answer:** 1047
-[[src_cesenatico_2011_finale__Q23]]
+[[Quesiti/src_cesenatico_2011_finale#q23|src_cesenatico_2011_finale__Q23]]
 
 
 
@@ -877,4 +877,4 @@ It's likely to return to office 73 (shift)
 > This year's event is the 12th National Final Team event. The problem
 
 **Answer:** 1024
-[[src_cesenatico_2011_finale__Q24]]
+[[Quesiti/src_cesenatico_2011_finale#q24|src_cesenatico_2011_finale__Q24]]

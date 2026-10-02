@@ -35,7 +35,7 @@ level: IMO
 
 > Let $p$ and $q$ be natural numbers such that $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$ Prove that $p$ is divisible by $1979$.
 
-[[src_imho_1979__Q01]]
+[[Quesiti/src_imho_1979#q01|src_imho_1979__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Two-colored pentagons on top and bottom faces of prism
 
 > A prism with pentagons $A_1A_2A_3A_4A_5$ and $B_1B_2B_3B_4B_5$ as top and bottom faces is given. Each of the two pentagons and each of the line segments $A_iB_i$ for all $i = 1, \ldots, 5$ is colored either red or green. Every triangle whose vertices are vertices of the prism and whose sides are all colored segments has all its sides the same color. Show that all 10 sides of the top and bottom faces are the same color.
 
-[[src_imho_1979__Q02]]
+[[Quesiti/src_imho_1979#q02|src_imho_1979__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Two-colored pentagons on top and bottom faces of prism
 
 > Two circles in a plane intersect. Let $A$ be one of the points of intersection. Starting simultaneously from $A$, two points move with constant speeds, each point traveling along its own circle in the same sense. The two points return to $A$ simultaneously after each has made exactly one full revolution. Prove that there is a fixed point $P$ in the plane such that, at any time, the distances from $P$ to the two moving points are equal.
 
-[[src_imho_1979__Q03]]
+[[Quesiti/src_imho_1979#q03|src_imho_1979__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Two-colored pentagons on top and bottom faces of prism
 
 > Given a plane $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$. Find all points $R$ in $\pi$ such that $\frac{QP + PR}{QR}$ is a maximum.
 
-[[src_imho_1979__Q04]]
+[[Quesiti/src_imho_1979#q04|src_imho_1979__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Two-colored pentagons on top and bottom faces of prism
 
 > Find all real numbers $x_1, x_2, x_3, x_4, x_5$ satisfying the relations $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3$$ for some real number $a$.
 
-[[src_imho_1979__Q05]]
+[[Quesiti/src_imho_1979#q05|src_imho_1979__Q05]]
 
 
 
@@ -183,4 +183,4 @@ Two-colored pentagons on top and bottom faces of prism
 > 
 > \textit{Note.} A path of $n$ jumps is a sequence of vertices $(P_0, P_1, \ldots, P_n)$ such that \begin{itemize} \item[(i)] $P_0 = A$, $P_n = E$; \item[(ii)] for every $i$, $0 \le i \le n-1$, $P_i$ is distinct from $E$; \item[(iii)] for every $i$, $0 \le i \le n-1$, $P_i$ and $P_{i+1}$ are adjacent. I'm going to tell you.
 
-[[src_imho_1979__Q06]]
+[[Quesiti/src_imho_1979#q06|src_imho_1979__Q06]]

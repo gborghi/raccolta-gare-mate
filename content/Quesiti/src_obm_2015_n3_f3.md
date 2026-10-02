@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Che $ABC$ sia un triangolo acuto scaleno e $N$ il centro del cerchio che attraversa i piedi delle tre altitudini del triangolo. $D$ è l'intersezione delle linee tangenti al circoncircolo di $ABC$ a $B$ e $C$. Provare che $A$, $D$ e $N$ sono collineari se e solo se $\angle BAC = 45^\circ$.
 
-[[src_obm_2015_n3_f3__Q01]]
+[[Quesiti/src_obm_2015_n3_f3#q01|src_obm_2015_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > Per esempio, $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Trovare il valore più grande di $k$ per il quale è corretto la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi ha almeno $k$ sottoinsiemi di due elementi $\{a, b\}$ con $a < b$ e $b$ un multiple di $a$.
 
-[[src_obm_2015_n3_f3__Q02]]
+[[Quesiti/src_obm_2015_n3_f3#q02|src_obm_2015_n3_f3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível 3
 
 > Dato un numero naturale $n > 1$ con fattorizzazione primaria $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, la sua \emph{false derivative} è definita da $$f(n) = \alpha_1 p_1^{\alpha_1 - 1} \alpha_2 p_2^{\alpha_2 - 1} \cdots \alpha_k p_k^{\alpha_k - 1}.$$ Prove che ci sono infinitamente molti numeri naturali $n$ tali che $f(n) = f(n-1) + 1$.
 
-[[src_obm_2015_n3_f3__Q03]]
+[[Quesiti/src_obm_2015_n3_f3#q03|src_obm_2015_n3_f3__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível 3
 > 
 > b) Determinare i tre integri positivi $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4.$$
 
-[[src_obm_2015_n3_f3__Q04]]
+[[Quesiti/src_obm_2015_n3_f3#q04|src_obm_2015_n3_f3__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível 3
 
 > È vero che per ogni polinomio $f(x)$ con coefficienti razionali, non tutti i coefficienti interi, di grado $n > 0$, e per ogni polinomio $g(x)$ con tutti i coefficienti interi, esiste un insieme $S$ con $n + 1$ interi tali che $g(t) = f(t)$ per tutti $t \in S$?
 
-[[src_obm_2015_n3_f3__Q05]]
+[[Quesiti/src_obm_2015_n3_f3#q05|src_obm_2015_n3_f3__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: OBM Nível 3
 
 > Il $ABC$ deve essere un triangolo di scalene e $X$, $Y$, $Z$ punti sulle linee $BC$, $CA$, $AB$, rispettivamente, in modo tale che $\angle AXB = \angle BYC = \angle CZA$. I circoncircoli di $BXZ$ e $CXY$ si intersecano in un punto $P \neq X$. Prova che $P$ si trova sul cerchio il cui diametro ha punti terminali all'ortocentro $H$ e al centroide $G$ di $ABC$.
 
-[[src_obm_2015_n3_f3__Q06]]
+[[Quesiti/src_obm_2015_n3_f3#q06|src_obm_2015_n3_f3__Q06]]

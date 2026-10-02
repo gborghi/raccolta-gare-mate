@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Prove o smentire che ogni numero razionale positivo può essere scritto nella forma $\frac{a^3+b^3}{c^3+d^3}$, dove $a,b,c,d$ sono interi positivi.
 
-[[src_pol_2000_r2__Q01]]
+[[Quesiti/src_pol_2000_r2#q01|src_pol_2000_r2__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: Olimpiade Polacca Round 2
 
 > Nel triangolo $ABC$ il bisettore dell'angolo $\angle BAC$ incontra il circoncircolo di $\triangle ABC$ al punto $D \neq A$. Se $K$ e $L$ sono rispettivamente le proiezioni di $B$ e $C$ sulla linea $AC$, indicare che $AD \ge BK + CL$.
 
-[[src_pol_2000_r2__Q02]]
+[[Quesiti/src_pol_2000_r2#q02|src_pol_2000_r2__Q02]]
 
 
 
@@ -86,7 +86,7 @@ level: Olimpiade Polacca Round 2
 
 > Le celle della tabella $n \times n$ sono scritte $n^2$ diversi interi positivi. In ogni colonna della scacchiera la cella con il maggior numero è di colore rosso. Un insieme $S$ di celle $n$ è chiamato \emph{admissible} se non ci sono due celle di $S$ nella stessa colonna o riga. Prove che l'insieme ammissibile di cellule con la maggior somma di numeri contiene almeno una cellula rossa.
 
-[[src_pol_2000_r2__Q03]]
+[[Quesiti/src_pol_2000_r2#q03|src_pol_2000_r2__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: Olimpiade Polacca Round 2
 
 > In un triangolo $ABC$ con $AB \neq AC$, $I$ è l'incentro e $D$ e $E$ i punti di intersezione di $BI$ e $CI$ con i lati opposti del triangolo, rispettivamente. Trova tutte le possibili misure di $\angle BAC$ per le quali può essere soddisfatta l'uguaglianza $DI = EI$.
 
-[[src_pol_2000_r2__Q04]]
+[[Quesiti/src_pol_2000_r2#q04|src_pol_2000_r2__Q04]]
 
 
 
@@ -140,7 +140,7 @@ level: Olimpiade Polacca Round 2
 
 > Prove o respingere l'esistenza di una funzione $f : \mathbb{N} \to \mathbb{N}$ tale che $$f(f(n)) = 2n \quad \text{for all } n \in \mathbb{N}.$$
 
-[[src_pol_2000_r2__Q05]]
+[[Quesiti/src_pol_2000_r2#q05|src_pol_2000_r2__Q05]]
 
 
 
@@ -167,4 +167,4 @@ level: Olimpiade Polacca Round 2
 
 > Che $w$ sia un polinomio quadratico con coefficienti interi. Supponiamo che per ogni numero intero $x$ il valore $w(x)$ sia un quadrato perfetto. Prova che $w$ è il quadrato di un polinomio.
 
-[[src_pol_2000_r2__Q06]]
+[[Quesiti/src_pol_2000_r2#q06|src_pol_2000_r2__Q06]]

@@ -33,7 +33,7 @@ level: OBM Nível 1
 
 > Quanti integri positivi inferiori a $1000$ hanno la somma delle loro cifre uguale a $7$?
 
-[[src_obm_2003_n1_f3__Q01]]
+[[Quesiti/src_obm_2003_n1_f3#q01|src_obm_2003_n1_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > 
 > **Nota: ** la sequenza più lunga è quella con il maggior numero di termini.
 
-[[src_obm_2003_n1_f3__Q02]]
+[[Quesiti/src_obm_2003_n1_f3#q02|src_obm_2003_n1_f3__Q02]]
 
 
 
@@ -103,7 +103,7 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 > 
 > Indicare un modo per eseguire la divisione e ottenere i quadrati $6364$ i cui lati sono potenze di $2$.
 
-[[src_obm_2003_n1_f3__Q03]]
+[[Quesiti/src_obm_2003_n1_f3#q03|src_obm_2003_n1_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 > 
 > b) In the following figure, the parallelogram has sides of measure $12$ cm and $4$ cm and area $40$ cm$^2$. Let $P$, $Q$, $R$ and $S$ be the centers of the squares constructed externally on the four sides of this parallelogram. Knowing that the quadrilateral $PQRS$ is a square, calculate its area.
 
-![[src_obm_2003_n1_f3__Q04.png]]
+![[src_obm_2003_n1_f3__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -140,9 +140,9 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 > 
 > b) Nella figura seguente, il parallelogramma ha lati di misura $12$ cm e $4$ cm e superficie $40$ cm$^2$. I quadrati $P$, $Q$, $R$ e $S$ siano i centri dei quadrati costruiti esternamente sui quattro lati di questo parallelo. Sapendo che il quadrilaterale $PQRS$ è un quadrato, calcola la sua superficie.
 
-![[src_obm_2003_n1_f3__Q04.png]]
+![[src_obm_2003_n1_f3__q04.png]]
 
-[[src_obm_2003_n1_f3__Q04]]
+[[Quesiti/src_obm_2003_n1_f3#q04|src_obm_2003_n1_f3__Q04]]
 
 
 
@@ -177,4 +177,4 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 > 
 > b) Mostrare che con due intervalli è sempre possibile costruire il rettangolo.
 
-[[src_obm_2003_n1_f3__Q05]]
+[[Quesiti/src_obm_2003_n1_f3#q05|src_obm_2003_n1_f3__Q05]]

@@ -21,7 +21,7 @@ level: RMO
 > $$\frac{CD}{CE} = \frac{CA}{CB},\quad \frac{AE}{AF} = \frac{AB}{AC},\quad \frac{BF}{BD} = \frac{BC}{BA}.$$
 > Prove that $AD$, $BE$, $CF$ are the altitudes of $ABC$.
 
-![[src_rmo_2002__Q01.png]]
+![[src_rmo_2002__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -36,9 +36,9 @@ level: RMO
 
 > In un triangolo acuto $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$ in modo tale che $$\frac{CD}{CE} = \frac{CA}{CB},\quad \frac{AE}{AF} = \frac{AB}{AC},\quad \frac{BF}{BD} = \frac{BC}{BA}.$$ dimostri che $AD$, $BE$, $CF$ sono le altitudini di $ABC$.
 
-![[src_rmo_2002__Q01.png]]
+![[src_rmo_2002__q01.png]]
 
-[[src_rmo_2002__Q01]]
+[[Quesiti/src_rmo_2002#q01|src_rmo_2002__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: RMO
 
 > Risolvere la seguente equazione per $x$ reale: $$(x^2 + x - 2)^4 + (2x^2 - x - 1)^4 = 27(x^2 - 1)^4.$$
 
-[[src_rmo_2002__Q02]]
+[[Quesiti/src_rmo_2002#q02|src_rmo_2002__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: RMO
 
 > $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^5$, $b$ divida $c^5$ e $c$ divida $a^5$. Provare che $abc$ divide $(a + b + c)^{31}$.
 
-[[src_rmo_2002__Q03]]
+[[Quesiti/src_rmo_2002#q03|src_rmo_2002__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: RMO
 > 
 > (ii) Indicare che $|a_1 - b_1| + |a_2 - b_2| + |a_3 - b_3| + |a_4 - b_4| + |a_5 - b_5| = 25$ per ciascuna di tali partizioni.
 
-[[src_rmo_2002__Q04]]
+[[Quesiti/src_rmo_2002#q04|src_rmo_2002__Q04]]
 
 
 
@@ -140,7 +140,7 @@ level: RMO
 
 > The circumference of a circle is divided into eight arcs by a convex quadrilateral $ABCD$, with four arcs lying inside the quadrilateral and the remaining four lying outside it. The lengths of the arcs lying inside the quadrilateral are denoted by $p, q, r, s$ in counter-clockwise direction starting from some arc. Suppose $p + r = q + s$. Prove that $ABCD$ is a cyclic quadrilateral.
 
-![[src_rmo_2002__Q05.png]]
+![[src_rmo_2002__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -156,9 +156,9 @@ level: RMO
 
 > La circonferenza di un cerchio è divisa in otto archi da un quadrilaterale convex $ABCD$, con quattro archi all'interno del quadrilaterale e i quattro rimanenti all'esterno. Le lunghezze degli archi all'interno del quadrilaterale sono indicate da $p, q, r, s$ in direzione contraria al senso dell'orologio partendo da un certo arco. Supponiamo $p + r = q + s$. Provare che $ABCD$ è un quadrilaterale ciclico.
 
-![[src_rmo_2002__Q05.png]]
+![[src_rmo_2002__q05.png]]
 
-[[src_rmo_2002__Q05]]
+[[Quesiti/src_rmo_2002#q05|src_rmo_2002__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: RMO
 
 > Per qualsiasi numero naturale $n > 1$, dimostrare la disuguaglianza: $$\frac{1}{2} < \frac{1}{n^2+1} + \frac{2}{n^2+2} + \frac{3}{n^2+3} + \cdots + \frac{n}{n^2+n} < \frac{1}{2} + \frac{1}{2n}.$$
 
-[[src_rmo_2002__Q06]]
+[[Quesiti/src_rmo_2002#q06|src_rmo_2002__Q06]]
 
 
 
@@ -215,4 +215,4 @@ level: RMO
 
 > Trova tutti gli enti $a, b, c, d$ che soddisfano le seguenti relazioni: (i) $1 \le a \le b \le c \le d$; (ii) $ab + cd = a + b + c + d + 3$.
 
-[[src_rmo_2002__Q07]]
+[[Quesiti/src_rmo_2002#q07|src_rmo_2002__Q07]]

@@ -34,7 +34,7 @@ level: OBM Nível Universitário
 
 > Che la funzione $f : \mathbb{R} \to \mathbb{R}$ sia integrabile e in aumento. Provare che $$\int_0^1 x\, f(x)\, dx \ge \frac{1}{2}\int_0^1 f(x)\, dx.$$
 
-[[src_obm_2006_nu_f2__Q01]]
+[[Quesiti/src_obm_2006_nu_f2#q01|src_obm_2006_nu_f2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível Universitário
 
 > Prova che, per ogni intero $n \ge 2$, il numero di matrici $2 \times 2$ con voci di numeri interi appartenenti al insieme $\{0, 1, 2, \ldots, n-1\}$ il cui determinante ha la forma $kn + 1$ per un certo intero $k$ è uguale a $$n^3 \cdot \prod_{\substack{p \text{ prime} \\ p \mid n}} \left(1 - \frac{1}{p^2}\right).$$
 
-[[src_obm_2006_nu_f2__Q02]]
+[[Quesiti/src_obm_2006_nu_f2#q02|src_obm_2006_nu_f2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível Universitário
 
 > Un tavolo da biliardo ha la forma di un'ellisse e non ha tasche. Quando una palla colpisce un punto $P$ sul bordo della tavola, segue una direzione simmetrica rispetto alla normale all'ellisse a $P$. Prova che se una palla parte da un punto $A$ sull'ellisse e, dopo essere rimbalzata ai punti $B$ e $C$, ritorna a $A$, rimbalzerà di nuovo a $B$.
 
-[[src_obm_2006_nu_f2__Q03]]
+[[Quesiti/src_obm_2006_nu_f2#q03|src_obm_2006_nu_f2__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: OBM Nível Universitário
 
 > Che $p$ sia un polinomio irriducibile in $\mathbb{Q}[x]$ con coefficienti razionali e grado superiore a $1$. Prova che se $p$ ha due radici $r$ e $s$ il cui prodotto è $1$ (cioè $rs = 1$), allora il grado di $p$ è pari.
 
-[[src_obm_2006_nu_f2__Q04]]
+[[Quesiti/src_obm_2006_nu_f2#q04|src_obm_2006_nu_f2__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: OBM Nível Universitário
 
 > Lasciate che $f : [0, +\infty) \to [0, +\infty)$ sia una funzione crescente e bijectiva. Prova che la serie $\displaystyle\sum_{n=1}^{\infty} \frac{1}{f(n)}$ converge se e solo se la serie $\displaystyle\sum_{n=1}^{\infty} \frac{f^{-1}(n)}{n^2}$ converge, dove $f^{-1}$ indica la funzione inversa di $f$.
 
-[[src_obm_2006_nu_f2__Q05]]
+[[Quesiti/src_obm_2006_nu_f2#q05|src_obm_2006_nu_f2__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: OBM Nível Universitário
 
 > Considera le matrici $$A = \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix} \quad \text{and} \quad B = \begin{pmatrix} 1 & 0 \\ 2 & 1 \end{pmatrix}.$$ Prove che, per $n > 1$, non esistono numeri interi $a_1, a_2, a_3, \ldots, a_n$ e $b_1, b_2, \ldots, b_{n-1}, b_n$ con $a_2, a_3, \ldots, a_n$ e $b_1, b_2, \ldots, b_{n-1}$ tutti non zero, in modo tale che $$A^{a_1} \cdot B^{b_1} \cdot A^{a_2} \cdot B^{b_2} \cdots A^{a_n} \cdot B^{b_n} = I,$$ dove $I$ è la matrice di identità $2 \times 2$.
 
-[[src_obm_2006_nu_f2__Q06]]
+[[Quesiti/src_obm_2006_nu_f2#q06|src_obm_2006_nu_f2__Q06]]

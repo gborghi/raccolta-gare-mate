@@ -40,7 +40,7 @@ level: IMO
 > 
 > (ii) $f(x) \to 0$ as $x \to \infty$.
 
-[[src_imo_1983__Q01]]
+[[Quesiti/src_imo_1983#q01|src_imo_1983__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: IMO
 
 > Let $A$ be one of the two distinct points of intersection of two unequal coplanar circles $C_1$ and $C_2$ with centers $O_1$ and $O_2$, respectively. One of the common tangents to the circles touches $C_1$ at $P_1$ and $C_2$ at $P_2$, while the other touches $C_1$ at $Q_1$ and $C_2$ at $Q_2$. Let $M_1$ be the midpoint of $P_1Q_1$ and $M_2$ be the midpoint of $P_2Q_2$. Prove that $\angle O_1AO_2 = \angle M_1AM_2$.
 
-[[src_imo_1983__Q02]]
+[[Quesiti/src_imo_1983#q02|src_imo_1983__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: IMO
 
 > Let $a, b, c$ be positive integers, no two of which have a common divisor greater than $1$. Show that $2abc - ab - bc - ca$ is the largest integer which cannot be expressed in the form $xbc + yca + zab$ where $x, y, z$ are non-negative integers.
 
-[[src_imo_1983__Q03]]
+[[Quesiti/src_imo_1983#q03|src_imo_1983__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: IMO
 
 > Let $ABC$ be an equilateral triangle and $\mathcal{E}$ the set of all points contained in the three segments $AB$, $BC$ and $CA$ (including $A$, $B$ and $C$). Determine whether, for every partition of $\mathcal{E}$ into two disjoint subsets, at least one of the two subsets contains the vertices of a right-angled triangle. Justify your answer.
 
-[[src_imo_1983__Q04]]
+[[Quesiti/src_imo_1983#q04|src_imo_1983__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Choose 1983 integers with no three-term arithmetic progression
 
 > Is it possible to choose $1983$ distinct positive integers, all less than or equal to $10^5$, no three of which are consecutive terms of an arithmetic progression? Justify your answer.
 
-[[src_imo_1983__Q05]]
+[[Quesiti/src_imo_1983#q05|src_imo_1983__Q05]]
 
 
 
@@ -180,4 +180,4 @@ Choose 1983 integers with no three-term arithmetic progression
 > 
 > Determine when equality occurs.
 
-[[src_imo_1983__Q06]]
+[[Quesiti/src_imo_1983#q06|src_imo_1983__Q06]]

@@ -17,7 +17,7 @@ level: kangourou
 
 *Disposizione 1-9 con somme ai vertici 20*
 
-![[src_kangourou_2003_cadet_finale__probC1.png]]
+![[src_kangourou_2003_cadet_finale__probc1.png]]
 
 > La figura rappresenta un quadrato ottenuto accostando 9 quadrati più piccoli. Devi inserire tutti i numeri da $1$ a $9$, uno per ogni quadrato, in modo che la somma dei quattro numeri che circondano ciascuno dei vertici interni, segnati con un pallino nero, valga $20$. I numeri $3$ e $5$ sono già stati posizionati: inserisci i rimanenti. (vedi figura)
 
@@ -34,12 +34,12 @@ level: kangourou
 
 *Disposition 1-9 with sums at vertices 20*
 
-![[src_kangourou_2003_cadet_finale__probC1.png]]
+![[src_kangourou_2003_cadet_finale__probc1.png]]
 
 > The figure represents a square obtained by approximating 9 smaller squares. You must enter all the numbers from $1$ to $9$, one per square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
 
 **Answer:** disposizione
-[[src_kangourou_2003_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2003_cadet_finale#qc1|src_kangourou_2003_cadet_finale__QC1]]
 
 
 
@@ -68,7 +68,7 @@ level: kangourou
 > A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be extracted to be sure that they have at least $15$ of the same colour?
 
 **Answer:** 75
-[[src_kangourou_2003_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2003_cadet_finale#qc2|src_kangourou_2003_cadet_finale__QC2]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills a wish of its owner. It is known that at first the height measured $27$ centimeters and that, when $3$ desires were fulfilled, the rectangle became a square. How long was the original length?
 
 **Answer:** 64
-[[src_kangourou_2003_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2003_cadet_finale#qc3|src_kangourou_2003_cadet_finale__QC3]]
 
 
 
@@ -107,7 +107,7 @@ level: kangourou
 
 *Somma lunghezze dei 7 segmenti paralleli*
 
-![[src_kangourou_2003_cadet_finale__probC4.png]]
+![[src_kangourou_2003_cadet_finale__probc4.png]]
 
 ```tikz
 \begin{document}
@@ -143,7 +143,7 @@ level: kangourou
 
 *Summary lengths of the 7 parallel segments*
 
-![[src_kangourou_2003_cadet_finale__probC4.png]]
+![[src_kangourou_2003_cadet_finale__probc4.png]]
 
 ```tikz
 \begin{document}
@@ -167,7 +167,7 @@ level: kangourou
 > The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the $BC$ catheter, each having one end on the $AB$ catheter and the other on the hypotenuse. The length of the $BC$ catheter is $10$ meters. What is the sum of the lengths of these $7$ segments?
 
 **Answer:** 35
-[[src_kangourou_2003_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2003_cadet_finale#qc4|src_kangourou_2003_cadet_finale__QC4]]
 
 
 
@@ -195,7 +195,7 @@ level: kangourou
 > The hour hand of a clock completes a complete turn in $12$ hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
 
 **Answer:** 1h5'27"3/11
-[[src_kangourou_2003_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2003_cadet_finale#qc5|src_kangourou_2003_cadet_finale__QC5]]
 
 
 
@@ -224,4 +224,4 @@ level: kangourou
 > What are the positive integers of $7$ digits divisible by $2003$?
 
 **Answer:** 4493
-[[src_kangourou_2003_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2003_cadet_finale#qc6|src_kangourou_2003_cadet_finale__QC6]]

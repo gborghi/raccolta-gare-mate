@@ -34,7 +34,7 @@ level: IMO
 
 > Determine the values $x$ in the interval $0 \le x \le 2\pi$ which satisfy the inequality $$2\cos x \le \sqrt{1+\sin 2x} - \sqrt{1-\sin 2x} \le \sqrt{2}.$$
 
-[[src_imho_1965__Q01]]
+[[Quesiti/src_imho_1965#q01|src_imho_1965__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: IMO
 
 > Consider the system of equations $$a_{11}x_1 + a_{12}x_2 + a_{13}x_3 = 0$$ $$a_{21}x_1 + a_{22}x_2 + a_{23}x_3 = 0$$ $$a_{31}x_1 + a_{32}x_2 + a_{33}x_3 = 0$$ with unknowns $x_1, x_2, x_3$. The coefficients satisfy the conditions: (a) $a_{11}, a_{22}, a_{33}$ are positive numbers; (b) the remaining coefficients are negative numbers; (c) in each equation, the sum of the coefficients is positive. Prove that the given system has only the solution $x_1 = x_2 = x_3 = 0$.
 
-[[src_imho_1965__Q02]]
+[[Quesiti/src_imho_1965#q02|src_imho_1965__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: IMO
 
 > Given the tetrahedron $ABCD$ whose edges $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the skew lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. Tetrahedron $ABCD$ is divided into two solids by plane $\varepsilon$, parallel to lines $AB$ and $CD$. The ratio of the distances of $\varepsilon$ from $AB$ and $CD$ is equal to $k$. Calculate the ratio of the volumes of the two solids obtained.
 
-[[src_imho_1965__Q03]]
+[[Quesiti/src_imho_1965#q03|src_imho_1965__Q03]]
 
 
 
@@ -123,7 +123,7 @@ Find all sets of four real numbers with pairwise-product sums equal to 2
 
 > Find all sets of four real numbers $x_1, x_2, x_3, x_4$ such that the sum of any one and the product of the other three is equal to $2$.
 
-[[src_imho_1965__Q04]]
+[[Quesiti/src_imho_1965#q04|src_imho_1965__Q04]]
 
 
 
@@ -150,7 +150,7 @@ Find all sets of four real numbers with pairwise-product sums equal to 2
 
 > Consider $\triangle OAB$ with acute angle $AOB$. Through a point $M \ne O$ perpendiculars are drawn to $OA$ and $OB$, the feet of which are $P$ and $Q$ respectively. The point of intersection of the altitudes of $\triangle OPQ$ is $H$. What is the locus of $H$ if $M$ is allowed to range over (a) the side $AB$, (b) the interior of $\triangle OAB$?
 
-[[src_imho_1965__Q05]]
+[[Quesiti/src_imho_1965#q05|src_imho_1965__Q05]]
 
 
 
@@ -177,4 +177,4 @@ Find all sets of four real numbers with pairwise-product sums equal to 2
 
 > In a plane a set of $n$ points ($n \ge 3$) is given. Each pair of points is connected by a segment. Let $d$ be the length of the longest of these segments. We define a diameter of the set to be any connecting segment of length $d$. Prove that the number of diameters of the given set is at most $n$.
 
-[[src_imho_1965__Q06]]
+[[Quesiti/src_imho_1965#q06|src_imho_1965__Q06]]

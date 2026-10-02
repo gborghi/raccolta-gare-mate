@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 3
 
 > Per un dato numero intero $n \geq 2$, trovare il numero di soluzioni reali non negative del sistema di sistemazione delle equazioni: $$\begin{cases} x_2 + x_1^2 = 4x_1 \\ x_3 + x_2^2 = 4x_2 \\ \cdots\cdots \\ x_1 + x_n^2 = 4x_n. \end{cases}$$
 
-[[src_pol_2000_r3__Q01]]
+[[Quesiti/src_pol_2000_r3#q01|src_pol_2000_r3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 > Il punto $P$ è preso all'interno di un triangolo $ABC$ con $AC = BC$ in modo tale che $\angle PAB = \angle PBC$. Il punto $M$ è il punto medio di $AB$. Provare che $$\angle APM + \angle BPC = 180^\circ.$$
 
-[[src_pol_2000_r3__Q02]]
+[[Quesiti/src_pol_2000_r3#q02|src_pol_2000_r3__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: Olimpiade Polacca Round 3
 > 
 > Provare che la sequenza $(p_n)$ è limitata.
 
-[[src_pol_2000_r3__Q03]]
+[[Quesiti/src_pol_2000_r3#q03|src_pol_2000_r3__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: Olimpiade Polacca Round 3
 
 > In una piramide regolare con vertice superiore $S$ e base $A_1 A_2 \ldots A_n$ ogni bordo laterale forma un angolo di $60^\circ$ con la base della piramide. Per ogni $n \geq 3$ si dimostra o si nega che esistono punti $B_2, B_3, \ldots, B_n$ che si trovano sui bordi $A_2 S, A_3 S, \ldots, A_n S$, rispettivamente, in modo tale che $$A_1 B_2 + B_2 B_3 + \cdots + B_{n-1} B_n + B_n A_1 < 2 A_1 S.$$
 
-[[src_pol_2000_r3__Q04]]
+[[Quesiti/src_pol_2000_r3#q04|src_pol_2000_r3__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: Olimpiade Polacca Round 3
 
 > Dato un numero intero $n \geq 2$, si trova il numero più piccolo $k$ con la seguente proprietà: Da ogni insieme di quadrati $k$ di una scacchiera $n \times n$ si può scegliere un sottoinsieme tale che ogni riga e colonna della scacchiera contengano un numero pari di quadrati di questo sottoinsieme.
 
-[[src_pol_2000_r3__Q05]]
+[[Quesiti/src_pol_2000_r3#q05|src_pol_2000_r3__Q05]]
 
 
 
@@ -185,4 +185,4 @@ level: Olimpiade Polacca Round 3
 
 > Supponiamo che $P(x)$ sia un polinomio di grado odd soddisfacente $$P(x^2 - 1) = P(x)^2 - 1 \quad \text{for all } x.$$ Prove che $P(x) = x$ per tutti $x$.
 
-[[src_pol_2000_r3__Q06]]
+[[Quesiti/src_pol_2000_r3#q06|src_pol_2000_r3__Q06]]

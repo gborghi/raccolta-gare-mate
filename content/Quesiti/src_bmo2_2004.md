@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo equilaterale e $D$ un punto interno del lato $BC$. Un cerchio, tangente a $BC$ a $D$, taglia $AB$ internamente a $M$ e $N$, e $AC$ internamente a $P$ e $Q$. Mostra che $BD + AM + AN = CD + AP + AQ$.
 
-[[src_bmo2_2004__Q01]]
+[[Quesiti/src_bmo2_2004#q01|src_bmo2_2004__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Indicare che esiste un intero $n$ con le seguenti proprietà: (i) l'espansione binaria di $n$ ha precisamente $2004$ $0$s e $2004$ $1$s; (ii) $2004$ divide $n$.
 
-[[src_bmo2_2004__Q02]]
+[[Quesiti/src_bmo2_2004#q02|src_bmo2_2004__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: BMO Round 2
 
 > (a) Con i numeri reali $a, b, c$, con $a + b + c = 0$, dimostrare che $$a^3 + b^3 + c^3 > 0 \quad \text{if and only if} \quad a^5 + b^5 + c^5 > 0.$$ (b) Con i numeri reali $a, b, c, d$, con $a + b + c + d = 0$, dimostrare che $$a^3 + b^3 + c^3 + d^3 > 0 \quad \text{if and only if} \quad a^5 + b^5 + c^5 + d^5 > 0.$$
 
-[[src_bmo2_2004__Q03]]
+[[Quesiti/src_bmo2_2004#q03|src_bmo2_2004__Q03]]
 
 
 
@@ -123,4 +123,4 @@ level: BMO Round 2
 
 > Il numero reale $x$ tra $0$ e $1$ ha la rappresentazione decimale $$0 \cdot a_1 a_2 a_3 a_4 \ldots$$ con la seguente proprietà: il numero di blocchi distinti della forma $$a_k a_{k+1} a_{k+2} \ldots a_{k+2003},$$ come $k$ si estende attraverso tutti i numeri interi positivi, è inferiore o uguale a $2004$. Provare che $x$ è razionale.
 
-[[src_bmo2_2004__Q04]]
+[[Quesiti/src_bmo2_2004#q04|src_bmo2_2004__Q04]]

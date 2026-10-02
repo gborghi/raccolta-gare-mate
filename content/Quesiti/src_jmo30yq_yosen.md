@@ -35,7 +35,7 @@ level: JMO Yosen
 > How many positive multiples of $7$ that do not exceed $10^9$ are of the form $4k^2$ for some positive integer $k$?
 
 **Risposta:** 14
-[[src_jmo30yq_yosen__Q01]]
+[[Quesiti/src_jmo30yq_yosen#q01|src_jmo30yq_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JMO Yosen
 
 > A regular hexagon $ABCDEF$ has side length $1$. Let $G$ be the midpoint of side $AB$. A point $H$ is taken inside the hexagon such that triangle $CGH$ is equilateral. Find the area of triangle $EFH$.
 
-![[src_jmo30yq_yosen__Q02.png]]
+![[src_jmo30yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -65,10 +65,10 @@ level: JMO Yosen
 
 > Un esagono regolare $ABCDEF$ ha una lunghezza laterale $1$. Il punto medio del lato $AB$ è $G$. Un punto $H$ è preso all'interno dell'esagono in modo che il triangolo $CGH$ sia equilaterale. Trova l'area del triangolo $EFH$.
 
-![[src_jmo30yq_yosen__Q02.png]]
+![[src_jmo30yq_yosen__q02.png]]
 
 **Risposta:** \frac{\sqrt{3}}{8}
-[[src_jmo30yq_yosen__Q02]]
+[[Quesiti/src_jmo30yq_yosen#q02|src_jmo30yq_yosen__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: JMO Yosen
 > Riempire ogni cella di una griglia $2 \times 3$ con i numeri interi $1, 2, 3, 4, 5, 6$ (ciascuno utilizzato esattamente una volta) in modo che due celle che condividono un bordo contengano numeri diversi. Quante sono queste disposizioni? Due accordi che coincidono dopo la rotazione o la riflessione sono ancora considerati come distinti.
 
 **Risposta:** 16
-[[src_jmo30yq_yosen__Q03]]
+[[Quesiti/src_jmo30yq_yosen#q03|src_jmo30yq_yosen__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: JMO Yosen
 > Trova il numero di interi positivi $n$ in modo tale che la somma digitali di $n^2$ e la somma digitali di $n^3$ si trovino ciascuna in $\{1, 2, 3, 4, 5, 6, 7, 8\}$ (cioè\ entrambe le somme digitali sono tra $1$ e $8$ incluse).
 
 **Risposta:** 24
-[[src_jmo30yq_yosen__Q04]]
+[[Quesiti/src_jmo30yq_yosen#q04|src_jmo30yq_yosen__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: JMO Yosen
 > Un intero positivo $n$ viene chiamato *scrivibile* se esistono interi $x_1, x_2, \ldots, x_{10}$ in modo tale che $$n = (x_1^2 - 1)(x_2^2 - 2)(x_3^2 - 3) \cdots (x_{10}^2 - 10).$$ Trova il più piccolo intero positivo scrivibile.
 
 **Risposta:** 84
-[[src_jmo30yq_yosen__Q05]]
+[[Quesiti/src_jmo30yq_yosen#q05|src_jmo30yq_yosen__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: JMO Yosen
 
 > There are three squares in the plane. As shown in the figure, two of the four vertices of the smallest square coincide with two vertices of the largest square, and the diagonal extensions of the smallest square pass through the bottom-left vertex of the largest square. The side length of the smallest square is $1$ and the side length of the largest square is $3$. Find the area of the shaded region.
 
-![[src_jmo30yq_yosen__Q06.png]]
+![[src_jmo30yq_yosen__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -187,10 +187,10 @@ level: JMO Yosen
 
 > Ci sono tre quadrati nell'aereo. Come mostrato nella figura, due dei quattro vertici del più piccolo quadrato coincidono con due vertici del più grande quadrato, e le estensioni diagonali del più piccolo quadrato passano attraverso il vertice inferiore a sinistra del più grande quadrato. La lunghezza laterale del più piccolo quadrato è $1$ e la lunghezza laterale del più grande quadrato è $3$. Trova l'area dell'ombra.
 
-![[src_jmo30yq_yosen__Q06.png]]
+![[src_jmo30yq_yosen__q06.png]]
 
 **Risposta:** \frac{\sqrt{17}-1}{4}
-[[src_jmo30yq_yosen__Q06]]
+[[Quesiti/src_jmo30yq_yosen#q06|src_jmo30yq_yosen__Q06]]
 
 
 
@@ -219,7 +219,7 @@ level: JMO Yosen
 > Riempire ciascuna cella di una griglia $2 \times 1010$ con un numero intero da $1$ a $5$ (repetimento consentito) in modo che due celle che condividono un bordo contengano numeri la cui differenza assoluta è $2$ o $3$. Quante sono queste disposizioni? Gli accordi che coincidono dopo la rotazione o la riflessione sono considerati distinti.
 
 **Risposta:** 10 \cdot 3^{1009}
-[[src_jmo30yq_yosen__Q07]]
+[[Quesiti/src_jmo30yq_yosen#q07|src_jmo30yq_yosen__Q07]]
 
 
 
@@ -253,7 +253,7 @@ level: JMO Yosen
 > Una sequenza $a_1, a_2, \ldots, a_{100}$ di numeri interi positivi soddisfa: \begin{itemize} \item[(i)] Per tutti $2 \le k \le 100$: $a_{k-1} < a_k$. \item[(ii) Per tutti $6 \le k \le 100$: $a_k$ è uguale a uno di $2a_1, 2a_2, \ldots, 2a_{k-1}$. \end{itemize} Trova il minimo possibile valore di $a_{100}$.
 
 **Risposta:** 2^{19} \cdot 9
-[[src_jmo30yq_yosen__Q08]]
+[[Quesiti/src_jmo30yq_yosen#q08|src_jmo30yq_yosen__Q08]]
 
 
 
@@ -288,7 +288,7 @@ level: JMO Yosen
 > *(Nota: l'espressione esatta nell'esponente/composto non è stata completamente leggibile nella scansione. In base al contesto e alla chiave di risposta, il problema chiede il valore minimo raggiunto da $f$ composto da sé su tutte le funzioni valide $f$, che equivale a $4$.) *
 
 **Risposta:** 4
-[[src_jmo30yq_yosen__Q09]]
+[[Quesiti/src_jmo30yq_yosen#q09|src_jmo30yq_yosen__Q09]]
 
 
 
@@ -303,7 +303,7 @@ level: JMO Yosen
 > 
 > Arrangements that coincide after rotation or reflection are still counted as distinct. How many such arrangements are there?
 
-![[src_jmo30yq_yosen__Q10.png]]
+![[src_jmo30yq_yosen__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -322,10 +322,10 @@ level: JMO Yosen
 > 
 > Gli accordi che coincidono dopo la rotazione o la riflessione sono ancora considerati come distinti. Quante sono queste disposizioni?
 
-![[src_jmo30yq_yosen__Q10.png]]
+![[src_jmo30yq_yosen__q10.png]]
 
 **Risposta:** 20736
-[[src_jmo30yq_yosen__Q10]]
+[[Quesiti/src_jmo30yq_yosen#q10|src_jmo30yq_yosen__Q10]]
 
 
 
@@ -354,7 +354,7 @@ level: JMO Yosen
 > Cinque punti $A, B, C, D, P$ si trovano su un cerchio $\Omega$ in questo ordine. Il cerchio che attraversa $P$ e tangente alla linea $AB$ a $A$, e il cerchio che attraversa $P$ e tangente alla linea $CD$ a $D$, si intersecano in un punto $K$ all'interno di $\Omega$. $M$ e $N$ siano rispettivamente i punti medi degli accordi $AB$ e $CD$. Si ritiene che i tre punti $A$, $K$, $N$ siano collineari e i tre punti $D$, $K$, $M$ siano collineari. Dato $AK = 5$, $DK = 3$, $KM = 7$, $Q$ deve essere l'intersezione della linea $PK$ con $\Omega$ diversa da $P$. Trova la lunghezza $CQ$, dove $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** 11
-[[src_jmo30yq_yosen__Q11]]
+[[Quesiti/src_jmo30yq_yosen#q11|src_jmo30yq_yosen__Q11]]
 
 
 
@@ -388,4 +388,4 @@ level: JMO Yosen
 > Per un intero positivo $k$, una sequenza di $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$ è chiamata *buona sequenza* se soddisfa entrambe le seguenti condizioni: \begin{itemize} item \Tutti i termini sono al massimo $30$. \item Per ogni $i = 1, 2, \ldots, k-1$: se $i$ è pari, allora $a_{i+1}$ è un multiple di $a_i$; se $i$ è pari, allora $a_{i+1}$ è un divisore di $a_i$. Trova la lunghezza massima possibile di una buona sequenza.
 
 **Risposta:** 23
-[[src_jmo30yq_yosen__Q12]]
+[[Quesiti/src_jmo30yq_yosen#q12|src_jmo30yq_yosen__Q12]]

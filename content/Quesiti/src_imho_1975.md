@@ -36,7 +36,7 @@ level: IMO
 
 > Let $x_1, x_2, \ldots, x_n$ and $y_1, y_2, \ldots, y_n$ be real numbers such that $$x_1 \ge x_2 \ge \cdots \ge x_n \quad \text{and} \quad y_1 \ge y_2 \ge \cdots \ge y_n.$$ Prove that if $z_1, z_2, \ldots, z_n$ is any permutation of $y_1, y_2, \ldots, y_n$, then $$\sum_{i=1}^{n}(x_i - y_i)^2 \le \sum_{i=1}^{n}(x_i - z_i)^2.$$
 
-[[src_imho_1975__Q01]]
+[[Quesiti/src_imho_1975#q01|src_imho_1975__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: IMO
 
 > Let $a_1, a_2, a_3, \ldots$ be an infinite increasing sequence of positive integers. Prove that for every $p \ge 1$ there are infinitely many $a_m$ which can be written in the form $$a_m = x \cdot a_p + y \cdot a_q$$ with $x, y$ positive integers and $q > p$.
 
-[[src_imho_1975__Q02]]
+[[Quesiti/src_imho_1975#q02|src_imho_1975__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: IMO
 
 > On the sides of an arbitrary triangle $ABC$, triangles $ABR$, $BCP$, $CAQ$ are constructed externally with $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$. Prove that $\angle QRP = 90^\circ$ and $QR = RP$.
 
-[[src_imho_1975__Q03]]
+[[Quesiti/src_imho_1975#q03|src_imho_1975__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: IMO
 
 > When $4444^{4444}$ is written in decimal notation, the sum of its digits is $A$. Let $B$ be the sum of the digits of $A$. Find the sum of the digits of $B$. ($A$ and $B$ are written in decimal notation.)
 
-[[src_imho_1975__Q04]]
+[[Quesiti/src_imho_1975#q04|src_imho_1975__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: IMO
 
 > Determine, with proof, whether or not one can find 1975 points on the circumference of a circle with unit radius such that the distance between any two of them is a rational number.
 
-[[src_imho_1975__Q05]]
+[[Quesiti/src_imho_1975#q05|src_imho_1975__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: IMO
 
 > Find all polynomials $P$ in two variables, with the following properties: (i) for a positive integer $n$ and all real $t, x, y$: $$P(tx, ty) = t^n P(x, y)$$ (that is, $P$ is homogeneous of degree $n$), (ii) for all real $a, b, c$: $$P(b+c, a) + P(c+a, b) + P(a+b, c) = 0,$$ (iii) $P(1, 0) = 1$.
 
-[[src_imho_1975__Q06]]
+[[Quesiti/src_imho_1975#q06|src_imho_1975__Q06]]

@@ -42,7 +42,7 @@ Count sunny lines through lattice points in the plane
 > 
 > - for all positive integers $a$ and $b$ with $a + b \le n + 1$, the point $(a, b)$ is on at least one of the lines; and - exactly $k$ of the $n$ lines are sunny.
 
-[[src_imho_2025__Q01]]
+[[Quesiti/src_imho_2025#q01|src_imho_2025__Q01]]
 
 
 
@@ -77,7 +77,7 @@ Count sunny lines through lattice points in the plane
 > 
 > (The *orthocentre* of a triangle is the point of intersection of its altitudes.)
 
-[[src_imho_2025__Q02]]
+[[Quesiti/src_imho_2025#q02|src_imho_2025__Q02]]
 
 
 
@@ -110,7 +110,7 @@ Find the smallest constant c for bonza functions on positive integers
 > 
 > Determine the smallest real constant $c$ such that $f(n) \le cn$ for all bonza functions $f$ and all positive integers $n$.
 
-[[src_imho_2025__Q03]]
+[[Quesiti/src_imho_2025#q03|src_imho_2025__Q03]]
 
 
 
@@ -145,7 +145,7 @@ Find first term of sequence defined by three largest proper divisors
 > 
 > Determine the possible values of $a_1$.
 
-[[src_imho_2025__Q04]]
+[[Quesiti/src_imho_2025#q04|src_imho_2025__Q04]]
 
 
 
@@ -187,7 +187,7 @@ Inkosulty game: find all the lambda for Alice winning strategy
 > 
 > Determine the values of $\lambda$ for which Alice has a winning strategy and all those for which Bazza has a winning strategy.
 
-[[src_imho_2025__Q05]]
+[[Quesiti/src_imho_2025#q05|src_imho_2025__Q05]]
 
 
 
@@ -218,4 +218,4 @@ Inkosulty game: find all the lambda for Alice winning strategy
 > 
 > Determine the minimum number of tiles Matilda needs to place such that for each row and each column of the grid there is exactly one unit square that is not covered by any tile.
 
-[[src_imho_2025__Q06]]
+[[Quesiti/src_imho_2025#q06|src_imho_2025__Q06]]

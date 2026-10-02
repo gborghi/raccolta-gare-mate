@@ -41,7 +41,7 @@ level: OBM Nível 2
 
 > Esmeralda ha organizzato tutti i numeri naturali dal 1 al 2006 nella seguente disposizione piramidale: $$\begin{array}{ccccccccc} & & & & 21 & & & & \\ & & & 20 & & 13 & & 22 & \\ & & 19 & & 12 & & 7 & & 14 & & 23 \\ & 18 & & 11 & & 6 & & 3 & & 8 & & 15 & & 24 \\ 17 & & 10 & & 5 & & 2 & & 1 & & 4 & & 9 & & 16 & & 25 \end{array}$$ In quale piano si trova il numero 2006? (Per esempio: il numero 1 è al primo piano, il 6 al secondo piano e il 23 al terzo piano.)
 
-[[src_obm_2006_n2_f2__Q01]]
+[[Quesiti/src_obm_2006_n2_f2#q01|src_obm_2006_n2_f2__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 2
 
 > La somma dei quadrati di tre numeri interi consecutivi è uguale a 302. Qual è la somma di questi numeri interi?
 
-[[src_obm_2006_n2_f2__Q02]]
+[[Quesiti/src_obm_2006_n2_f2#q02|src_obm_2006_n2_f2__Q02]]
 
 
 
@@ -81,7 +81,7 @@ level: OBM Nível 2
 
 > Let $ABC$ be a right triangle with the right angle at $A$. Consider $M$ and $N$ points on the hypotenuse $BC$ such that $CN = NM = MB$. The points $X$ and $Y$ are such that $XA = AM$ and $YA = AN$. Determine the area of quadrilateral $XYBC$, given that triangle $ABC$ has area $12\text{ cm}^2$.
 
-![[src_obm_2006_n2_f2__Q03.png]]
+![[src_obm_2006_n2_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -97,9 +97,9 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo rettangolo con angolo retto a $A$. Considerare i punti $M$ e $N$ sull'ipotenusa $BC$ in modo tale che $CN = NM = MB$. I punti $X$ e $Y$ sono tali da $XA = AM$ e $YA = AN$. Determinare la superficie del quadrilaterale $XYBC$, dato che il triangolo $ABC$ ha una superficie $12\text{ cm}^2$.
 
-![[src_obm_2006_n2_f2__Q03.png]]
+![[src_obm_2006_n2_f2__q03.png]]
 
-[[src_obm_2006_n2_f2__Q03]]
+[[Quesiti/src_obm_2006_n2_f2#q03|src_obm_2006_n2_f2__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: OBM Nível 2
 
 > Una scacchiera $8 \times 8$ si decompone in rettangoli che soddisfano tutte le seguenti proprietà contemporaneamente: (i) ogni rettangolo contiene un numero intero di quadrati; (ii) i vari rettangoli contengono numeri di quadrati separati in coppia; (iii) ogni rettangolo contiene lo stesso numero di quadrati bianchi e quadrati neri. Qual è il numero massimo di rettangoli in cui la tavola può essere decomposta?
 
-[[src_obm_2006_n2_f2__Q04]]
+[[Quesiti/src_obm_2006_n2_f2#q04|src_obm_2006_n2_f2__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: OBM Nível 2
 
 > Partendo da un triplo ordinato $(a, b, c)$, si ottiene una sequenza di triplice mediante successive trasformazioni del tipo: $$(a, b, c) \to (a^2 - b,\; a + b + c,\; b - c).$$ Ad esempio, partendo dal triplo $(1, 2, 3)$: $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$ Se iniziamo con $(1, 1, 1)$ come il primo triplo ordinato di una sequenza, quale sarà la somma dei tre termini del triplo che occupa la posizione 2006 in questa sequenza?
 
-[[src_obm_2006_n2_f2__Q05]]
+[[Quesiti/src_obm_2006_n2_f2#q05|src_obm_2006_n2_f2__Q05]]
 
 
 
@@ -191,7 +191,7 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 > Sulla strada Gengibre ci sono $n$ case numerate da 1 a $n$ ($n \in \mathbb{N}$). Le case a numero pari sono da un lato della strada, e le case a numero odd sono dall'altro lato. Il sindaco Ludmilson Amottarim decide di demolire alcune case in modo che la somma dei numeri delle case su ciascun lato diventi uguale alla somma dei numeri sull'altro lato. Per raggiungere il suo obiettivo, qual è il numero minimo di case che il sindaco deve demolire se: a) la strada ha $n = 15$ case? b) la strada ha case $n = 16$? c) la strada ha case $n = 2006$?
 
-[[src_obm_2006_n2_f2__Q06]]
+[[Quesiti/src_obm_2006_n2_f2#q06|src_obm_2006_n2_f2__Q06]]
 
 
 
@@ -204,7 +204,7 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 > In isosceles triangle $ABC$, $I$ is the intersection of the angle bisectors and $H$ is the intersection of the altitudes. It is known that $\angle IAH = \angle IHC = \alpha$. Determine the angle $\alpha$.
 
-![[src_obm_2006_n2_f2__Q07.png]]
+![[src_obm_2006_n2_f2__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_casework|Casework]]
@@ -220,9 +220,9 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 > Nel triangolo di pari dimensioni $ABC$, $I$ è l'intersezione dei bisettori angolari e $H$ è l'intersezione delle altitudini. È noto che $\angle IAH = \angle IHC = \alpha$. Determinare l'angolo $\alpha$.
 
-![[src_obm_2006_n2_f2__Q07.png]]
+![[src_obm_2006_n2_f2__q07.png]]
 
-[[src_obm_2006_n2_f2__Q07]]
+[[Quesiti/src_obm_2006_n2_f2#q07|src_obm_2006_n2_f2__Q07]]
 
 
 
@@ -251,7 +251,7 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 > $a$ e $b$ siano numeri reali distinti come $a^2 = 6b + 5ab$ e $b^2 = 6a + 5ab$. a) Determinare il valore di $a + b$. b) Determinare il valore di $ab$.
 
-[[src_obm_2006_n2_f2__Q08]]
+[[Quesiti/src_obm_2006_n2_f2#q08|src_obm_2006_n2_f2__Q08]]
 
 
 
@@ -278,4 +278,4 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 
 > Tutti i numeri interi dal 1 al 2006 sono scritti in una griglia. Quindi, ciascuno di questi numeri viene sostituito dalla somma delle sue cifre. Queste sostituzioni si ripetono fino a quando non abbiamo i numeri a singolo cifra del 2006. Dei numeri rimasti nella griglia, che appare più spesso: 1 o 2?
 
-[[src_obm_2006_n2_f2__Q09]]
+[[Quesiti/src_obm_2006_n2_f2#q09|src_obm_2006_n2_f2__Q09]]

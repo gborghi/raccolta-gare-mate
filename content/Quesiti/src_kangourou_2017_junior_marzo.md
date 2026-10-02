@@ -58,7 +58,7 @@ level: kangourou
 > E) 19
 
 **Answer:** B
-[[src_kangourou_2017_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q01|src_kangourou_2017_junior_marzo__Q01]]
 
 
 
@@ -110,7 +110,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q02|src_kangourou_2017_junior_marzo__Q02]]
 
 
 
@@ -155,7 +155,7 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q03|src_kangourou_2017_junior_marzo__Q03]]
 
 
 
@@ -195,7 +195,7 @@ The probability that only one person will not receive the gift
 > C) 1/4 D) 1/2 E) None of the above answers are correct.
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q04|src_kangourou_2017_junior_marzo__Q04]]
 
 
 
@@ -247,7 +247,7 @@ The probability that only one person will not receive the gift
 >
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q05|src_kangourou_2017_junior_marzo__Q05]]
 
 
 
@@ -282,7 +282,7 @@ The probability that only one person will not receive the gift
 > Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, from 1111. B) Bruno, from 1111. C) Anna, of 2222. D) Bruno, 2222. E) None of the above answers is correct.
 
 **Answer:** B
-[[src_kangourou_2017_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q06|src_kangourou_2017_junior_marzo__Q06]]
 
 
 
@@ -317,7 +317,7 @@ The probability that only one person will not receive the gift
 > Mauro plays chess. He's played 15 games this year, winning nine. Now he's got five more to play. If he won all of them, what would be his success rate this year? A) 60% B) 65% C) 70% D) 75% E) 80%
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q07|src_kangourou_2017_junior_marzo__Q07]]
 
 
 
@@ -365,7 +365,7 @@ The probability that only one person will not receive the gift
 > E) 203
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q08|src_kangourou_2017_junior_marzo__Q08]]
 
 
 
@@ -414,7 +414,7 @@ The probability that only one person will not receive the gift
 > E) 45
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q09|src_kangourou_2017_junior_marzo__Q09]]
 
 
 
@@ -470,7 +470,7 @@ The probability that only one person will not receive the gift
 > The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q10|src_kangourou_2017_junior_marzo__Q10]]
 
 
 
@@ -521,7 +521,7 @@ The probability that only one person will not receive the gift
 >
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q11|src_kangourou_2017_junior_marzo__Q11]]
 
 
 
@@ -566,7 +566,7 @@ The probability that only one person will not receive the gift
 > (C) 9.5 D) 10.5 E) None of the values indicated.
 
 **Answer:** A
-[[src_kangourou_2017_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q12|src_kangourou_2017_junior_marzo__Q12]]
 
 
 
@@ -658,7 +658,7 @@ The probability that only one person will not receive the gift
 > E) 45
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q13|src_kangourou_2017_junior_marzo__Q13]]
 
 
 
@@ -705,7 +705,7 @@ The probability that only one person will not receive the gift
 > E) 40
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q14|src_kangourou_2017_junior_marzo__Q14]]
 
 
 
@@ -747,7 +747,7 @@ The probability that only one person will not receive the gift
 > Look at the figure. From the middle point on each side of an equilateral triangle the two perpendiculars to the opposite sides are drawn, thus identifying a regular hexagon. What is the relationship between the area of the hexagon and the area of the equilateral triangle? A) 1 / 3 B) 2 / 5 C) 4 / 9 D) 1 / 2 E) 2 / 3
 
 **Answer:** D
-[[src_kangourou_2017_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q15|src_kangourou_2017_junior_marzo__Q15]]
 
 
 
@@ -793,7 +793,7 @@ The probability that only one person will not receive the gift
 > E) 19
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q16|src_kangourou_2017_junior_marzo__Q16]]
 
 
 
@@ -827,7 +827,7 @@ The probability that only one person will not receive the gift
 > A, B, C, D are four consecutive vertices of a regular octagon. What is the median of the ACD angle ? A) 22°30’ B) 45° C) 90° D) 112°30’ E) 135°
 
 **Answer:** D
-[[src_kangourou_2017_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q17|src_kangourou_2017_junior_marzo__Q17]]
 
 
 
@@ -887,7 +887,7 @@ The probability that only one person will not receive the gift
 >
 
 **Answer:** B
-[[src_kangourou_2017_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q18|src_kangourou_2017_junior_marzo__Q18]]
 
 
 
@@ -937,7 +937,7 @@ The probability that only one person will not receive the gift
 > E) 13
 
 **Answer:** A
-[[src_kangourou_2017_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q19|src_kangourou_2017_junior_marzo__Q19]]
 
 
 
@@ -974,7 +974,7 @@ Height of Peter among four brothers
 > Four brothers are of different heights. Tobias is lower than Victor than he is taller than Peter. Oscar is lower than Peter than Tobiah is lower than Victor. Tobias is 184 cm tall and the average height of the four brothers is 178 cm. How tall is Peter? A) 160 cm B) 166 cm C) 172 cm D) 184 cm E) 190 cm I Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q20|src_kangourou_2017_junior_marzo__Q20]]
 
 
 
@@ -1028,7 +1028,7 @@ Height of Peter among four brothers
 > E) 2
 
 **Answer:** D
-[[src_kangourou_2017_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q21|src_kangourou_2017_junior_marzo__Q21]]
 
 
 
@@ -1071,7 +1071,7 @@ Height of Peter among four brothers
 > D) 31
 
 **Answer:** D
-[[src_kangourou_2017_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q22|src_kangourou_2017_junior_marzo__Q22]]
 
 
 
@@ -1117,7 +1117,7 @@ Height of Peter among four brothers
 > E) Each of them.
 
 **Answer:** A
-[[src_kangourou_2017_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q23|src_kangourou_2017_junior_marzo__Q23]]
 
 
 
@@ -1153,7 +1153,7 @@ Height of Peter among four brothers
 > The numbers that appear on the faces of an unmade dice are: -3, -2, -1, 0, 1, 2. If we draw the dice twice, what is the probability that the product of the two numbers we get is negative? A) 1 / 2 B) 1 / 3 C) 11 / 36 D) 13 / 36 E) 1 / 4
 
 **Answer:** B
-[[src_kangourou_2017_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q24|src_kangourou_2017_junior_marzo__Q24]]
 
 
 
@@ -1201,7 +1201,7 @@ Height of Peter among four brothers
 >
 
 **Answer:** C
-[[src_kangourou_2017_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q25|src_kangourou_2017_junior_marzo__Q25]]
 
 
 
@@ -1252,7 +1252,7 @@ Height of Peter among four brothers
 > E) 13
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q26|src_kangourou_2017_junior_marzo__Q26]]
 
 
 
@@ -1307,7 +1307,7 @@ Height of Peter among four brothers
 > E) 17
 
 **Answer:** B
-[[src_kangourou_2017_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q27|src_kangourou_2017_junior_marzo__Q27]]
 
 
 
@@ -1348,7 +1348,7 @@ Height of Peter among four brothers
 > D) 127 E) 143
 
 **Answer:** E
-[[src_kangourou_2017_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q28|src_kangourou_2017_junior_marzo__Q28]]
 
 
 
@@ -1397,7 +1397,7 @@ How many dancers say hello after the turn
 > D) 15 E) You cannot answer without further information.
 
 **Answer:** A
-[[src_kangourou_2017_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q29|src_kangourou_2017_junior_marzo__Q29]]
 
 
 
@@ -1488,4 +1488,4 @@ How many dancers say hello after the turn
 >
 
 **Answer:** D
-[[src_kangourou_2017_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2017_junior_marzo#q30|src_kangourou_2017_junior_marzo__Q30]]

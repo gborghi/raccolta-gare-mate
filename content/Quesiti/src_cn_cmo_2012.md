@@ -19,7 +19,7 @@ level: China Mathematical Olympiad
 
 > As shown in Fig. 1.1, $\angle A$ is the biggest angle in triangle $ABC$. On the circumcircle of $\triangle ABC$, the points $D$ and $E$ are the midpoints of arc $ABC$ and arc $ACB$, respectively. Denote by $\odot O_1$ the circle passing through $A$ and $B$, and tangent to line $AC$; by $\odot O_2$ the circle passing through $A$ and $E$, and tangent to line $AD$. $\odot O_1$ intersects $\odot O_2$ at points $A$ and $P$. Prove that $AP$ is the bisector of $\angle BAC$.
 
-![[src_cn_cmo_b11_w101__Q01.png]]
+![[src_cn_cmo_b11_w101__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -37,9 +37,9 @@ level: China Mathematical Olympiad
 
 > Come mostrato nella figura. 1.1, $\angle A$ è l'angolo più grande del triangolo $ABC$. Sul circoncircolo di $\triangle ABC$, i punti $D$ e $E$ sono rispettivamente i punti di mezzo dell'arco $ABC$ e dell'arco $ACB$. Nota con $\odot O_1$ il cerchio che attraversa $A$ e $B$, e tangente alla linea $AC$; con $\odot O_2$ il cerchio che attraversa $A$ e $E$, e tangente alla linea $AD$. $\odot O_1$ interseca $\odot O_2$ ai punti $A$ e $P$. Provare che $AP$ è il bisector di $\angle BAC$.
 
-![[src_cn_cmo_b11_w101__Q01.png]]
+![[src_cn_cmo_b11_w101__q01.png]]
 
-[[src_cn_cmo_2012__Q01]]
+[[Quesiti/src_cn_cmo_2012#q01|src_cn_cmo_2012__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: China Mathematical Olympiad
 > Dato un numero primo $p$, $A$ sia una matrice $p \times p$ tale che le sue voci siano esattamente $1, 2, \ldots, p^2$ in un certo ordine. Per una matrice è consentita la seguente operazione: aggiungere uno a ciascun numero di una riga o di una colonna, o sottrarre uno da ciascun numero di una riga o di una colonna. La matrice $A$ viene chiamata "buona" se si può prendere una serie finita di tali operazioni che si traduce in una matrice con tutte le voci zero. Trova il numero di matrici buone $A$.
 
 **Risposta:** $2(p!)^2$
-[[src_cn_cmo_2012__Q02]]
+[[Quesiti/src_cn_cmo_2012#q02|src_cn_cmo_2012__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: China Mathematical Olympiad
 > Se $f(x) = (x+a)(x+b)$ viene dato un numero reale positivo $a, b$, $n \ge 2$ è un intero dato. Per i numeri reali non negativi $x_1, x_2, \ldots, x_n$ che soddisfano $x_1 + x_2 + \cdots + x_n = 1$, trovare il massimo di $F = \sum_{1 \le i < j \le n} \min\{f(x_i), f(x_j)\}$.
 
 **Risposta:** $\dfrac{n-1}{2}\left(\dfrac{1}{n}+a+b+nab\right)$
-[[src_cn_cmo_2012__Q04]]
+[[Quesiti/src_cn_cmo_2012#q04|src_cn_cmo_2012__Q04]]
 
 
 
@@ -130,4 +130,4 @@ level: China Mathematical Olympiad
 
 > Che $n$ sia un numero pari positivo senza quadrato, $k$ sia un numero intero, $p$ sia un numero primo, soddisfacendo $p < 2\sqrt{n}$, $p \nmid n$, $p \mid n + k^2$. Prova che $n$ può essere scritto come $n = ab + bc + ca$, dove $a$, $b$, $c$ sono numeri interi positivi distintivi.
 
-[[src_cn_cmo_2012__Q05]]
+[[Quesiti/src_cn_cmo_2012#q05|src_cn_cmo_2012__Q05]]

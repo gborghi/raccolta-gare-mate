@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Un numero naturale a tre cifre $A$ \textit{detona} un numero naturale a tre cifre $B$ se ogni cifra di $A$ è maggiore della cifra corrispondente di $B$. Ad esempio, $876$ detona $345$; tuttavia, $651$ non detona $542$ perché $1 < 2$. Quanti numeri a tre cifre esplodono? (A) $120$ (B) $240$ (C) $360$ (D) $480$ (E) $600$
 
-[[src_obm_2009_n3_f1__Q01]]
+[[Quesiti/src_obm_2009_n3_f1#q01|src_obm_2009_n3_f1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. Poi è possibile affermare, con certezza, che $mn$ è un multiple di: (A) $5$ (B) $10$ (C) $12$ (D) $15$ (E) $20$
 
-[[src_obm_2009_n3_f1__Q02]]
+[[Quesiti/src_obm_2009_n3_f1#q02|src_obm_2009_n3_f1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 3
 
 > Se $x^2 = x + 3$, allora $x^3$ è uguale a: (A) $x^2 + 3$ (B) $x + 4$ (C) $2x + 2$ (D) $4x + 3$ (E) $x^2 - 2$
 
-[[src_obm_2009_n3_f1__Q03]]
+[[Quesiti/src_obm_2009_n3_f1#q03|src_obm_2009_n3_f1__Q03]]
 
 
 
@@ -100,7 +100,7 @@ level: OBM Nível 3
 
 > In the figure, the square $A'B'C'D'$ was obtained from a clockwise rotation of the square $ABCD$ by $25$ degrees about the midpoint of $AB$. What is the acute angle, in degrees, between the lines $AC$ and $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
 
-![[src_obm_2009_n3_f1__Q04.png]]
+![[src_obm_2009_n3_f1__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -116,9 +116,9 @@ level: OBM Nível 3
 
 > Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto da una rotazione in senso orario del quadrato $ABCD$ di $25$ gradi circa il punto medio di $AB$. Qual è l'angolo acuto, in gradi, tra le linee $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
 
-![[src_obm_2009_n3_f1__Q04.png]]
+![[src_obm_2009_n3_f1__q04.png]]
 
-[[src_obm_2009_n3_f1__Q04]]
+[[Quesiti/src_obm_2009_n3_f1#q04|src_obm_2009_n3_f1__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 3
 
 > Uno dei seguenti cinque numeri è un divisore della somma degli altri quattro. Qual e' quel numero? (A) $20$ (B) $24$ (C) $28$ (D) $38$ (E) $42$
 
-[[src_obm_2009_n3_f1__Q05]]
+[[Quesiti/src_obm_2009_n3_f1#q05|src_obm_2009_n3_f1__Q05]]
 
 
 
@@ -171,7 +171,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 
 > Ogni volta che Agilulfo torna a casa dalla scuola con un avvertimento, se sua madre è a casa, lo mette sotto punizione. Sapendo che ieri pomeriggio Agilulfo non è stato punito, quale delle seguenti affermazioni è certamente vera? A) Agilulfo ha ricevuto un avvertimento ieri. B) Agilulfo non ha ricevuto un avvertimento ieri. (C) Ieri pomeriggio sua madre era a casa. (D) Ieri pomeriggio sua madre non era a casa. (E) Nessuna delle affermazioni di cui sopra è certamente vera.
 
-[[src_obm_2009_n3_f1__Q06]]
+[[Quesiti/src_obm_2009_n3_f1#q06|src_obm_2009_n3_f1__Q06]]
 
 
 
@@ -184,7 +184,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 
 > What is the smallest value of $n > 1$ for which it is possible to place $n$ pieces on an $n \times n$ board so that no two pieces are in the same row, the same column, or the same diagonal? The figures show pairs of pieces in the same row, in the same column, and on the same diagonal, on several boards. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-![[src_obm_2009_n3_f1__Q07.png]]
+![[src_obm_2009_n3_f1__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -200,9 +200,9 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 
 > Qual è il valore più piccolo di $n > 1$ per il quale è possibile posizionare pezzi $n$ su una tavola $n \times n$ in modo che non ci siano due pezzi nella stessa riga, nella stessa colonna o nella stessa diagonale? Le figure mostrano coppie di pezzi nella stessa riga, nella stessa colonna e sulla stessa diagonale, su diverse tavole. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-![[src_obm_2009_n3_f1__Q07.png]]
+![[src_obm_2009_n3_f1__q07.png]]
 
-[[src_obm_2009_n3_f1__Q07]]
+[[Quesiti/src_obm_2009_n3_f1#q07|src_obm_2009_n3_f1__Q07]]
 
 
 
@@ -215,7 +215,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 
 > In the figure, $ABCD$ is a square of side $4$, $K$ belongs to side $AD$, $L$ belongs to side $AB$, $M$ belongs to side $BC$, and $KLM$ is an isosceles right triangle with the right angle at $L$. Then the area of the quadrilateral $CDKM$ is equal to: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
 
-![[src_obm_2009_n3_f1__Q08.png]]
+![[src_obm_2009_n3_f1__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -231,9 +231,9 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 
 > Nella figura, $ABCD$ è un quadrato di lato $4$, $K$ appartiene al lato $AD$, $L$ appartiene al lato $AB$, $M$ appartiene al lato $BC$, e $KLM$ è un triangolo rettangolare di uguali braccia con angolo retto a $L$. Poi la superficie del quadrilaterale $CDKM$ è uguale a: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
 
-![[src_obm_2009_n3_f1__Q08.png]]
+![[src_obm_2009_n3_f1__q08.png]]
 
-[[src_obm_2009_n3_f1__Q08]]
+[[Quesiti/src_obm_2009_n3_f1#q08|src_obm_2009_n3_f1__Q08]]
 
 
 
@@ -246,7 +246,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 
 > The figure beside is the map of a neighborhood: the points $A$, $B$, $C$ and $D$ are houses and the segments are streets. From how many houses is it possible to make a route that passes exactly once through each of the streets? It is allowed to pass more than once through the same house. (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $4$
 
-![[src_obm_2009_n3_f1__Q09.png]]
+![[src_obm_2009_n3_f1__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -262,9 +262,9 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 
 > La figura accanto è la mappa di un quartiere: i punti $A$, $B$, $C$ e $D$ sono case e i segmenti sono strade. Da quante case è possibile fare un percorso che attraversa esattamente una volta ogni strada? È consentito passare più di una volta attraverso la stessa casa. (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $4$
 
-![[src_obm_2009_n3_f1__Q09.png]]
+![[src_obm_2009_n3_f1__q09.png]]
 
-[[src_obm_2009_n3_f1__Q09]]
+[[Quesiti/src_obm_2009_n3_f1#q09|src_obm_2009_n3_f1__Q09]]
 
 
 
@@ -277,7 +277,7 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 
 > The wall clock initially indicates noon. The hour and minute hands will form an angle of $145$ degrees for the first time: (A) between 12h and 12h10min. (B) between 12h10min and 12h15min. (C) between 12h15min and 12h20min. (D) between 12h20min and 12h25min. (E) after 12h25min.
 
-![[src_obm_2009_n3_f1__Q10.png]]
+![[src_obm_2009_n3_f1__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -292,9 +292,9 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 
 > L'orologio della parete indica inizialmente mezzogiorno. Le mani dell'ora e del minuto formeranno per la prima volta un angolo di $145$ gradi: (A) tra le 12h e le 12h10min. (B) tra le 12.10 e le 12.15 min. (C) tra le 12.15 e le 12.20 min. D) tra le 12h20 e le 12h25. (E) dopo le 12h25min.
 
-![[src_obm_2009_n3_f1__Q10.png]]
+![[src_obm_2009_n3_f1__q10.png]]
 
-[[src_obm_2009_n3_f1__Q10]]
+[[Quesiti/src_obm_2009_n3_f1#q10|src_obm_2009_n3_f1__Q10]]
 
 
 
@@ -321,7 +321,7 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 
 > Considera il numero intero positivo $n$ tale che il numero di divisori positivi del doppio di $n$ sia uguale al doppio del numero di divisori positivi di $n$. Possiamo concludere che $n$ è (A) un numero primo (B) un numero pari (C) un numero odd (D) un quadrato perfetto (E) una potenza interiore di $2$
 
-[[src_obm_2009_n3_f1__Q11]]
+[[Quesiti/src_obm_2009_n3_f1#q11|src_obm_2009_n3_f1__Q11]]
 
 
 
@@ -348,7 +348,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 
 > Esmeralda ha cinque libri sull'eraldia su uno scaffale. Il fine settimana, pulì lo scaffale e, dopo aver sostituito i libri, ne mise due nel posto in cui erano prima e gli altri in luoghi diversi da dove erano. In quanti modi avrebbe potuto farlo? (A) $20$ (B) $25$ (C) $30$ (D) $34$ (E) $45$
 
-[[src_obm_2009_n3_f1__Q12]]
+[[Quesiti/src_obm_2009_n3_f1#q12|src_obm_2009_n3_f1__Q12]]
 
 
 
@@ -375,7 +375,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 
 > Il professor Piraldo ha applicato un test di domande $6$ agli studenti $18$. Ogni domanda vale $0$ o $1$ punti; non ci sono punteggi parziali. Dopo il test, Piraldo ha creato una tabella come quella di seguito per organizzare i voti, in cui ogni riga rappresenta uno studente e ogni colonna rappresenta una domanda. Piraldo ha scoperto che ogni studente ha ottenuto esattamente le domande corrette e che ogni domanda ha avuto lo stesso numero di risposte corrette. Qual è il valore di $m$? (A) $8$ (B) $9$ (C) $10$ (D) $12$ (E) $14$
 
-[[src_obm_2009_n3_f1__Q13]]
+[[Quesiti/src_obm_2009_n3_f1#q13|src_obm_2009_n3_f1__Q13]]
 
 
 
@@ -402,7 +402,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 
 > $f : \mathbb{Z} \to \mathbb{Z}$ deve essere una funzione tale che $f(0) = 0$, $f(1) = 1$, $f(2) = 2$ e $f(x+12) = f(x+21) = f(x)$ per ogni $x \in \mathbb{Z}$. Poi $f(2009)$ è: (A) $0$ (B) $1$ (C) $2$ (D) $3$
 
-[[src_obm_2009_n3_f1__Q14]]
+[[Quesiti/src_obm_2009_n3_f1#q14|src_obm_2009_n3_f1__Q14]]
 
 
 
@@ -415,7 +415,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 
 > In the figure, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ is the diameter and $O$ is the center of the semicircle. Determine the measure of the angle $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
 
-![[src_obm_2009_n3_f1__Q15.png]]
+![[src_obm_2009_n3_f1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -431,9 +431,9 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 
 > Nella figura, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ è il diametro e $O$ è il centro del semicircolo. Determinare la misura dell'angolo $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
 
-![[src_obm_2009_n3_f1__Q15.png]]
+![[src_obm_2009_n3_f1__q15.png]]
 
-[[src_obm_2009_n3_f1__Q15]]
+[[Quesiti/src_obm_2009_n3_f1#q15|src_obm_2009_n3_f1__Q15]]
 
 
 
@@ -460,7 +460,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 
 > È noto che $2x^2 - 12xy + ky^2 \ge 0$ per tutti i $x$ reali, $y$. Il valore reale più piccolo di $k$ è (A) $9$ (B) $16$ (C) $18$ (D) $27$ (E) $36$
 
-[[src_obm_2009_n3_f1__Q16]]
+[[Quesiti/src_obm_2009_n3_f1#q16|src_obm_2009_n3_f1__Q16]]
 
 
 
@@ -487,7 +487,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > La famosa Conjectura di Goldbach dice che ogni numero intero pari maggiore di $2$ può essere scritto come la somma di due numeri primi. Ad esempio, $18$ può essere rappresentato come $5 + 13$ o, anche, come $7 + 11$. Considerando tutte le possibili rappresentazioni di $126$ come somma di due numeri primi, qual è la più grande differenza tra i due numeri primi che lo formano? (A) $112$ (B) $100$ (C) $92$ (D) $88$ (E) $80$
 
-[[src_obm_2009_n3_f1__Q17]]
+[[Quesiti/src_obm_2009_n3_f1#q17|src_obm_2009_n3_f1__Q17]]
 
 
 
@@ -514,7 +514,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Un sottoinsieme di $\{1, 2, 3, \dots, 20\}$ è \textit{superpar} quando due dei suoi elementi hanno un prodotto pari. Il maggior numero di elementi di un sottoinsieme superpar è: (A) $3$ (B) $4$ (C) $6$ (D) $7$ (E) $11$
 
-[[src_obm_2009_n3_f1__Q18]]
+[[Quesiti/src_obm_2009_n3_f1#q18|src_obm_2009_n3_f1__Q18]]
 
 
 
@@ -541,7 +541,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è $S_1 + S_2 + S_3 + \cdots + S_{10}$? (A) $2925$ (B) $3025$ (C) $3125$ (D) $3225$ (E) $3325$
 
-[[src_obm_2009_n3_f1__Q19]]
+[[Quesiti/src_obm_2009_n3_f1#q19|src_obm_2009_n3_f1__Q19]]
 
 
 
@@ -554,7 +554,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > The circles $C_1$ and $C_2$, of radii $3$ and $4$ respectively, are tangent externally at $T$. The common external tangents touch $C_1$ at $P$ and $Q$ and $C_2$ at $R$ and $S$. The common internal tangent at $T$ cuts the external tangents at the points $M$ and $N$, as the figure shows. The ratio between the areas of the quadrilaterals $MNPQ$ and $MNRS$ is (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
 
-![[src_obm_2009_n3_f1__Q20.png]]
+![[src_obm_2009_n3_f1__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -570,9 +570,9 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > I cerchi $C_1$ e $C_2$, rispettivamente di raggio $3$ e $4$, sono tangenti esternamente a $T$. Le tangenti esterne comuni toccano $C_1$ a $P$ e $Q$ e $C_2$ a $R$ e $S$. La tangente interna comune a $T$ taglia le tangenti esterne ai punti $M$ e $N$, come mostra la figura. Il rapporto tra le superfici dei quadrilaterali $MNPQ$ e $MNRS$ è (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
 
-![[src_obm_2009_n3_f1__Q20.png]]
+![[src_obm_2009_n3_f1__q20.png]]
 
-[[src_obm_2009_n3_f1__Q20]]
+[[Quesiti/src_obm_2009_n3_f1#q20|src_obm_2009_n3_f1__Q20]]
 
 
 
@@ -598,7 +598,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Due auto lasciano contemporaneamente le città $A$ e $B$, partendo da una città all'altra, con velocità costanti, in direzioni opposte. Le due città sono collegate da una strada dritta. Quando l'auto più veloce raggiunge il punto medio $M$ di $AB$, la distanza tra le due auto è $96$ km. Quando l'auto più lenta raggiunge il punto $M$, le auto sono a $160$ km di distanza. Qual è la distanza, in km, tra le due città? (A) $320$ (B) $420$ (C) $480$ (D) $520$ (E) $560$
 
-[[src_obm_2009_n3_f1__Q21]]
+[[Quesiti/src_obm_2009_n3_f1#q21|src_obm_2009_n3_f1__Q21]]
 
 
 
@@ -625,7 +625,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Let $N = 8^{8^{\cdot^{\cdot^{8}}}}$, in cui figurano $2009$ numeri $8$ (una torre di $2009$ otto). Agilulfo, sotto punizione, deve scrivere la somma delle cifre di $N$, ottenendo un numero $M$; quindi deve calcolare la somma delle cifre di $M$; e deve ripetere la procedura fino a ottenere un numero con una singola cifra. Aiutiamo Agilulfo: quella cifra è (A) $1$ (B) $2$ (C) $3$ (D) $7$ (E) $8$
 
-[[src_obm_2009_n3_f1__Q22]]
+[[Quesiti/src_obm_2009_n3_f1#q22|src_obm_2009_n3_f1__Q22]]
 
 
 
@@ -638,7 +638,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Some cubes were stacked forming a block. The figures beside represent the view from the left and the view from the front of this block. Looking at the block from above, which of the figures below can \textbf{not} be seen? (Each option shows a configuration labeled with 'left' (esquerda) and 'front' (frente) directions.)
 
-![[src_obm_2009_n3_f1__Q23.png]]
+![[src_obm_2009_n3_f1__q23.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -654,9 +654,9 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Alcuni cubetti erano impilati formando un blocco. Le figure di fianco rappresentano la vista da sinistra e la vista dalla parte anteriore di questo blocco. Guardando il blocco dall'alto, quale delle figure di sotto può essere visto? (Ogni opzione mostra una configurazione etichettata con le direzioni "sinistra" (esquerda) e "front" (frente).
 
-![[src_obm_2009_n3_f1__Q23.png]]
+![[src_obm_2009_n3_f1__q23.png]]
 
-[[src_obm_2009_n3_f1__Q23]]
+[[Quesiti/src_obm_2009_n3_f1#q23|src_obm_2009_n3_f1__Q23]]
 
 
 
@@ -683,7 +683,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > Un foglio del quaderno di Carlos è un rettangolo con due lati gialli (frontieri) di $24$ cm e due lati rossi (frontieri) di $36$ cm. Carlos dipinge ogni punto del rettangolo nello stesso colore del lato più vicino a quel punto. Qual è l'area della regione dipinta di giallo? (A) $144$ cm$^2$ (B) $288$ cm$^2$ (C) $364$ cm$^2$ (D) $442$ cm$^2$ (E) $524$ cm$^2$
 
-[[src_obm_2009_n3_f1__Q24]]
+[[Quesiti/src_obm_2009_n3_f1#q24|src_obm_2009_n3_f1__Q24]]
 
 
 
@@ -710,4 +710,4 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 > I lati di un triangolo formano una progressione aritmetica con differenza comune (ratio) $t$. Quindi la distanza tra l'incentro e il baricentro (centroid) di questo triangolo è: (A) $t$ (B) $\frac{t}{2}$ (C) $\frac{t}{3}$ (D) $\frac{2t}{3}$ (E) i dati non sono sufficienti
 
-[[src_obm_2009_n3_f1__Q25]]
+[[Quesiti/src_obm_2009_n3_f1#q25|src_obm_2009_n3_f1__Q25]]

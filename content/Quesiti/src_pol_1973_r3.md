@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che ogni polinomio è una differenza di due polinomi in aumento.
 
-[[src_pol_1973_r3__Q01]]
+[[Quesiti/src_pol_1973_r3#q01|src_pol_1973_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > $p_n$ indichi la probabilità che, in $n$ lanci, una moneta giusta mostri la testa in su 100 volte consecutive. Prove che la sequenza $\{p_n\}$ converge e determina il suo limite.
 
-[[src_pol_1973_r3__Q02]]
+[[Quesiti/src_pol_1973_r3#q02|src_pol_1973_r3__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: Olimpiade Polacca Round 3
 > 
 > Provare che $W$ è un parallelepiped.
 
-[[src_pol_1973_r3__Q03]]
+[[Quesiti/src_pol_1973_r3#q03|src_pol_1973_r3__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: Olimpiade Polacca Round 3
 
 > Un insieme di segmenti con una lunghezza totale inferiore a 1 è indicato su una linea. Prova che ogni insieme di punti della linea può essere tradotto da un vettore di lunghezza non superiore a $\pi/2$, in modo che tutti i punti ottenuti siano lontani dai segmenti dati.
 
-[[src_pol_1973_r3__Q04]]
+[[Quesiti/src_pol_1973_r3#q04|src_pol_1973_r3__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che ogni numero razionale positivo $m/s$ può essere rappresentato come somma di reciprocità di diversi interi positivi.
 
-[[src_pol_1973_r3__Q05]]
+[[Quesiti/src_pol_1973_r3#q05|src_pol_1973_r3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: Olimpiade Polacca Round 3
 
 > Prove che per ogni poligono centralmente simmetrico c'è al massimo un'ellisse contenente il poligono e con la superficie minima.
 
-[[src_pol_1973_r3__Q06]]
+[[Quesiti/src_pol_1973_r3#q06|src_pol_1973_r3__Q06]]

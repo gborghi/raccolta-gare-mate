@@ -46,7 +46,7 @@ level: kangourou
 > There are 5 frames (numbered 1 to 5), each containing some vowels as shown in the figure. By appropriately removing some vowels from some frames, it is possible to make sure that each frame contains only one voice, and that different frames contain different vowels. What's the vocal left in box number two? A) A B) E C) I D) O E) U
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q01|src_kangourou_2008_junior_marzo__Q01]]
 
 
 
@@ -83,7 +83,7 @@ level: kangourou
 > The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded because of a defect to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q02|src_kangourou_2008_junior_marzo__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: kangourou
 > To celebrate the arrival of the New Year, Alfredo wore a T-shirt with the writing on the front. He then sat down in front of a mirror, his hands upside down and his feet up. His friend Nicholas stands beside him, standing (on his feet) and looking in the mirror. What writing does Nicholas see in the mirror?
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q03|src_kangourou_2008_junior_marzo__Q03]]
 
 
 
@@ -185,7 +185,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 23 23 Kang 2008 Kang 2008
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q04|src_kangourou_2008_junior_marzo__Q04]]
 
 
 
@@ -252,7 +252,7 @@ level: kangourou
 > The four squares in the figure all have side 1. What 's the length of the AB segment ? (a) 5 (b) (c) (d) (e) None of the above.
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q05|src_kangourou_2008_junior_marzo__Q05]]
 
 
 
@@ -285,7 +285,7 @@ level: kangourou
 > What is the minimum number of letters in the word KANGOUROU, eliminating the remaining letters in alphabetical order? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q06|src_kangourou_2008_junior_marzo__Q06]]
 
 
 
@@ -326,7 +326,7 @@ level: kangourou
 > In the box, each letter is represented by one and only one digit and vice versa, each digit in play is represented by one and only one letter. What is the number corresponding to the letter K? A) 0 B) 1 C) 2 D) 8 E) 9
 
 **Answer:** E
-[[src_kangourou_2008_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q07|src_kangourou_2008_junior_marzo__Q07]]
 
 
 
@@ -361,7 +361,7 @@ level: kangourou
 > Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each with a perimeter of 40 cm, Jerry gets two rectangles each with a perimeter of 50 cm. What was the perimeter of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm         E) 100 cm
 
 **Answer:** C
-[[src_kangourou_2008_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q08|src_kangourou_2008_junior_marzo__Q08]]
 
 
 
@@ -398,7 +398,7 @@ level: kangourou
 > A face of a cube is cut along its two diagonals. Which of the following is not a development plan of such a cube? A) 1 e 3 B) 1 e 5 C) 3 e 4 D) 3 e 5         E) 2 e 4
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q09|src_kangourou_2008_junior_marzo__Q09]]
 
 
 
@@ -457,7 +457,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 24 24 Kang 2008 Kang 2008 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q10|src_kangourou_2008_junior_marzo__Q10]]
 
 
 
@@ -491,7 +491,7 @@ Sum of age of three older cousins
 > Seven cousins were born on the same day, but in seven years. Adding the ages of the three youngest today, we get 42. What is the sum of the present ages of the three oldest? A) 51 B) 54 C) 57 D) 60 E) 63
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q11|src_kangourou_2008_junior_marzo__Q11]]
 
 
 
@@ -530,7 +530,7 @@ Sum of age of three older cousins
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q12|src_kangourou_2008_junior_marzo__Q12]]
 
 
 
@@ -565,7 +565,7 @@ Sum of age of three older cousins
 > You only have the numbers 3, 8, 13, 18, 23, 28, 33, 48, 53, 68. What is the minimum number of them whose sum is exactly 100? A) 5 B) 3 C) 4 D) 6 E) It is impossible to obtain 100
 
 **Answer:** A
-[[src_kangourou_2008_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q13|src_kangourou_2008_junior_marzo__Q13]]
 
 
 
@@ -599,7 +599,7 @@ Sum of age of three older cousins
 > Whether n is the whole number 999...999, where only the figure 9 appears for 2008 times. How often does 9 appear in product 99 n? A) 2007 B) 2006 C) 2008 D) 2 E) 1
 
 **Answer:** A
-[[src_kangourou_2008_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q14|src_kangourou_2008_junior_marzo__Q14]]
 
 
 
@@ -639,7 +639,7 @@ Sum of age of three older cousins
 > Look at the figure. The ABCD rectangle intersects the circumference at points E, F, G, H. In meters, AE's length is 4, EF's length is 5, and DH's length is 3. How much is the length of HG in meters? A) 6 B) 22/3 C) 20/3 D) 8 E) A value different from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2008_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q15|src_kangourou_2008_junior_marzo__Q15]]
 
 
 
@@ -673,7 +673,7 @@ Sum of age of three older cousins
 > For every two-digit number, we subtract the unit number from the decimal number. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q16|src_kangourou_2008_junior_marzo__Q16]]
 
 
 
@@ -738,7 +738,7 @@ Sum of age of three older cousins
 > I'm going to pay. I'm going to pay. 25 25 Kang 2008 Kang
 
 **Answer:** A
-[[src_kangourou_2008_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q17|src_kangourou_2008_junior_marzo__Q17]]
 
 
 
@@ -773,7 +773,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > The number 20082008...2008 is 1000 digits. I want to delete some of them, so that the sum of the remaining numbers is 2008. How many can I erase? A) 260 B) 564 C) 500 D)601 E) 746
 
 **Answer:** E
-[[src_kangourou_2008_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q18|src_kangourou_2008_junior_marzo__Q18]]
 
 
 
@@ -811,7 +811,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > Look at the figure. We know that AB = AC, that PQ is perpendicular to AB, that the BPC angle measures 120 degrees and the ABP angle measures 50 degrees. What is the degree of PBC angle? A) 5 B) 10 C) 15 D) 20 E) 25
 
 **Answer:** A
-[[src_kangourou_2008_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q19|src_kangourou_2008_junior_marzo__Q19]]
 
 
 
@@ -847,7 +847,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > How many pairs of real numbers are equal to each other, the sum of the two numbers, the product of the two numbers, and the ratio between the first and second numbers? A) 0 B) 1 C) 2 D) 4 E) 8 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q20|src_kangourou_2008_junior_marzo__Q20]]
 
 
 
@@ -883,7 +883,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > For an integer of 6 significant digits (in decimal representation), consider the following property: each digit from the third to the next is the sum of the two digits that precede it (count the digits from left to right). How many numbers have this property? A) 3 B) 1 C) 2 D) 4 E) 6
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q21|src_kangourou_2008_junior_marzo__Q21]]
 
 
 
@@ -918,7 +918,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > One large cube, built by adjoining 27 small cubes, has three faces painted red and the other three painted blue. How many small cubes have at least two differently painted faces? (A) 13 B) 12 C) 14 D) 16 E) Depends on how the faces of the large cube have been assigned colours.
 
 **Answer:** E
-[[src_kangourou_2008_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q22|src_kangourou_2008_junior_marzo__Q22]]
 
 
 
@@ -969,7 +969,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > I'm going to pay. I'm going to pay. 26 26 Kang 2008 Kang 2008
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q23|src_kangourou_2008_junior_marzo__Q23]]
 
 
 
@@ -1010,7 +1010,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > In the figure three outer two-to-two tangent circles are represented; the beams are as indicated. What is the length of the radius of circumference 1 detected in the graph? A) B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2008_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q24|src_kangourou_2008_junior_marzo__Q24]]
 
 
 
@@ -1054,7 +1054,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 > The eight equilateral triangles adjacent to each other as shown in the figure form a flat development of a regular octahedron. Each triangle is distinguished by a number or a letter. Each of the five letters indicates one and only one between the numbers 2, 4, 6, 7 and 8 and different letters indicate different numbers, so that the resulting octahedron has this property: when the vertices vary, the sum of the numbers on the four faces that compete in a vertex is always the same. How much is the sum of B+D? A) 6 B) 7 C) 8 D) 9 E) 10
 
 **Answer:** A
-[[src_kangourou_2008_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q25|src_kangourou_2008_junior_marzo__Q25]]
 
 
 
@@ -1089,7 +1089,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > The number 332  1 has exactly two divisors (integers) both greater than 75 and less than 85. How much is the product of these two dividers? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q26|src_kangourou_2008_junior_marzo__Q26]]
 
 
 
@@ -1162,7 +1162,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > I'm going to pay. I'm going to pay. 27 27 Kang 2008 Kang 2008
 
 **Answer:** B
-[[src_kangourou_2008_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q27|src_kangourou_2008_junior_marzo__Q27]]
 
 
 
@@ -1217,7 +1217,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > Look at the figure. A square 4x4 is broken down into 16 squares 1x1. What is the maximum number of diagonals of the individual 1x1 squares that can be plotted, if you want different diagonals to have no points in common (not even the points at the ends)? A) 8 B) 9 C) 10 D) 11 E) 12
 
 **Answer:** C
-[[src_kangourou_2008_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q28|src_kangourou_2008_junior_marzo__Q28]]
 
 
 
@@ -1255,7 +1255,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > Kangaroos can only move by jumping and can only jump from a meter or three meters. Kang wants to move ten meters straight. How many possible jump sequences do you have? (Consider two different sequences in different order, such as {1,3,3,3} and {3,3,3,1}). A) 28 B) 26 C) 35 D) 55 E) 56
 
 **Answer:** A
-[[src_kangourou_2008_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q29|src_kangourou_2008_junior_marzo__Q29]]
 
 
 
@@ -1317,4 +1317,4 @@ Product of the two divisions of 3^32-1 between 75 and 85
 > 1 Kangourou of Mathematics 2008 Junior category For secondary or tertiary secondary school students
 
 **Answer:** E
-[[src_kangourou_2008_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2008_junior_marzo#q30|src_kangourou_2008_junior_marzo__Q30]]

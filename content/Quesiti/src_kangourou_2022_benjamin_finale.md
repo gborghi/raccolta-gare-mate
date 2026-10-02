@@ -34,7 +34,7 @@ level: kangourou
 > A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stephen enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
 
 **Answer:** 2 minuti
-[[src_kangourou_2022_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb1|src_kangourou_2022_benjamin_finale__QB1]]
 
 
 
@@ -45,7 +45,7 @@ level: kangourou
 
 *Misura dell'angolo evidenziato con tre quadrati accostati*
 
-![[src_kangourou_2022_benjamin_finale__probB2.png]]
+![[src_kangourou_2022_benjamin_finale__probb2.png]]
 
 > In figura appaiono accostati tre quadrati. Quanti gradi misura l'angolo evidenziato? (vedi figura)
 
@@ -61,12 +61,12 @@ level: kangourou
 
 *Measure of the highlighted angle with three adjacent squares*
 
-![[src_kangourou_2022_benjamin_finale__probB2.png]]
+![[src_kangourou_2022_benjamin_finale__probb2.png]]
 
 > In the figure, three squares appear to be next to each other. How many degrees does the highlighted angle measure? (see figure)
 
 **Answer:** 90
-[[src_kangourou_2022_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb2|src_kangourou_2022_benjamin_finale__QB2]]
 
 
 
@@ -94,7 +94,7 @@ The position of the Blue team with all the wrong forecasts
 > Claudio tried to guess the complete final standings of an eight-team tournament. Once the tournament was over, he discovered that he had miscalculated the forecast for each of the 8 positions in the rankings: except for the Azzurra team, which he had predicted would come last, to each of the others he assigned a better position than the team later obtained. Where's the Blue team at?
 
 **Answer:** primo
-[[src_kangourou_2022_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb3|src_kangourou_2022_benjamin_finale__QB3]]
 
 
 
@@ -123,7 +123,7 @@ How many cyclists have at least lied if sum and 36
 > $10$ cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, of course with a number between $1$ and $10$. The journalist sums up the answers he provides and gets $36$. He concludes that some certainly lied - how many, at least?
 
 **Answer:** 3
-[[src_kangourou_2022_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb4|src_kangourou_2022_benjamin_finale__QB4]]
 
 
 
@@ -152,7 +152,7 @@ How many cyclists have at least lied if sum and 36
 > Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
 
 **Answer:** 8
-[[src_kangourou_2022_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb5|src_kangourou_2022_benjamin_finale__QB5]]
 
 
 
@@ -181,4 +181,4 @@ How many cyclists have at least lied if sum and 36
 > To train, the $12$ players of a basketball team each day are divided into two teams, each of $6$ players, who play a match against each other. What is the minimum number of matches that allows each player to play at least one match in the same team with each other?
 
 **Answer:** 3
-[[src_kangourou_2022_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb6|src_kangourou_2022_benjamin_finale__QB6]]

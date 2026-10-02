@@ -84,7 +84,7 @@ level: squadre
 > The palace of Herrovaccio, king of Franquvia, has a square plan covering an area of 1600 square miles. Four sentinels each guard one side of the palace, arranged as in the figure (the sentinels form four equilateral triangles with the sides of the palace). What is the area (in square miles) of the quadrilateral topped by the four sentinels?
 
 **Answer:** 5971
-[[src_cesenatico_2004_squadre__Q01]]
+[[Quesiti/src_cesenatico_2004_squadre#q01|src_cesenatico_2004_squadre__Q01]]
 
 
 
@@ -117,7 +117,7 @@ level: squadre
 > On the occasion of the 1000th anniversary of the founding of the kingdom of Franquie, the royal mint decided to coin three coins, of 20, 30 and 40 mm radius respectively. The coins are sold in an elegant triangle-shaped trick. What is the minimum length, in millimetres, of the side of this triangle, so that it is possible to place the three coins in the stucco without overlapping them?
 
 **Answer:** 0190
-[[src_cesenatico_2004_squadre__Q02]]
+[[Quesiti/src_cesenatico_2004_squadre#q02|src_cesenatico_2004_squadre__Q02]]
 
 
 
@@ -150,7 +150,7 @@ level: squadre
 > Ladies Elissa, Fiammetta and Neifile have bought a box of typical Franquvian cookies. Madame Elissa equally distributes the cookies of her packaging to her 3 children, Madame Fiammetta eats two and then divides in equal parts the remaining cookies of her packaging to her 5 children, finally Madame Neifile eats two and equally distributes her remaining cookies to her 7 children. How many cookies does a package contain, at least?
 
 **Answer:** 0072
-[[src_cesenatico_2004_squadre__Q03]]
+[[Quesiti/src_cesenatico_2004_squadre#q03|src_cesenatico_2004_squadre__Q03]]
 
 
 
@@ -185,7 +185,7 @@ level: squadre
 > The vice of gambling in the most sordid neighborhoods of the capital of the kingdom of Franquie, is used to bet on dice. What's the probability that by throwing two dice you get two numbers whose maximum common divisor is 1? Express the probability as an irreducible fraction m n, write the sum m + n in the answer. Team competition 2004  National stage  Problem texts  Pag. 1 di 4
 
 **Answer:** 0059
-[[src_cesenatico_2004_squadre__Q04]]
+[[Quesiti/src_cesenatico_2004_squadre#q04|src_cesenatico_2004_squadre__Q04]]
 
 
 
@@ -218,7 +218,7 @@ level: squadre
 > On the occasion of the Queen's funeral, King Herovaccio wishes to perform an act of magnanimity. Since in the secrets of the palace of Franquie each cell is numbered with a number of exactly three digits, he decrees that every prisoner locked in a cell whose number has the sum of the digits divisible by 11 be pardoned. How many prisoners will be pardoned at most?
 
 **Answer:** 0082
-[[src_cesenatico_2004_squadre__Q05]]
+[[Quesiti/src_cesenatico_2004_squadre#q05|src_cesenatico_2004_squadre__Q05]]
 
 
 
@@ -252,7 +252,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The 9999 soldiers of the Royal Guards of Franquie are assigned an identification number, from 1 to 9999. The commander wants to select a volunteer and proceeds as follows: he places the soldiers, in order of number, on a single line, and brings out of the ranks all the soldiers who occupy an equal place. Once the ranks are closed, repeat the same procedure until there are only three soldiers left. Of these, the middle soldier is the volunteer. Which number does the volunteer match?
 
 **Answer:** 4097
-[[src_cesenatico_2004_squadre__Q06]]
+[[Quesiti/src_cesenatico_2004_squadre#q06|src_cesenatico_2004_squadre__Q06]]
 
 
 
@@ -286,7 +286,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > Dynasties According to ancient tradition, all kings of Franquie bear the name of Herrovaccio and are distinguished by a number. The first king carried the number a1 = 1, and then, by way, to each subsequent king was assigned a number, obtained from the previous one, according to the rule an+1 = 7an + 1. Who was the first king of the dynasty to bring a number divisible by 30?
 
 **Answer:** 0012
-[[src_cesenatico_2004_squadre__Q07]]
+[[Quesiti/src_cesenatico_2004_squadre#q07|src_cesenatico_2004_squadre__Q07]]
 
 
 
@@ -317,7 +317,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The garden of the castle of the cadet prince of Franquie is obtained from the union of 6 circles of a radius of 10 m, the diameters of which are sides of a regular hexagon. What's the area of the garden?
 
 **Answer:** 1776
-[[src_cesenatico_2004_squadre__Q08]]
+[[Quesiti/src_cesenatico_2004_squadre#q08|src_cesenatico_2004_squadre__Q08]]
 
 
 
@@ -349,7 +349,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The torture chamber Each secret cell of the palace is numbered with a number of exactly three digits. The royal carpenter notices that the torture cell has the smallest of the three-digit numbers all distinct, which is equal to the arithmetic mean of the six numbers obtained by exchanging their numbers. What's this number?
 
 **Answer:** 0370
-[[src_cesenatico_2004_squadre__Q09]]
+[[Quesiti/src_cesenatico_2004_squadre#q09|src_cesenatico_2004_squadre__Q09]]
 
 
 
@@ -386,7 +386,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > Judgment Solomon The king of Franconia adopts unique methods of administering justice. In a bankruptcy proceedings he revealed to the parties that he had in mind three real numbers x, y, z for which x −7y + 8z = 4 and 8x + 4y −z = 7. The first person to reveal the value of x2 −y2 + z2 is awarded the cause. While the debtor's lawyer protested that there were not enough conditions to answer, the creditors shouted a number, winning the case. What number did they yell at?
 
 **Answer:** 0001
-[[src_cesenatico_2004_squadre__Q10]]
+[[Quesiti/src_cesenatico_2004_squadre#q10|src_cesenatico_2004_squadre__Q10]]
 
 
 
@@ -425,7 +425,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > A court is open war between the clergyman Didymus and the enchantress Dianora. The reason for the dispute is the realization of a mystical quadrilateral. Didimo proposes to construct it according to alchemical rules: consider two radii 4 and 16 tangent circumferences externally, and a straight tangent to both circles at two distinct points. The mystic quadrilateral shall be the trapezoid of vertices the two centers of the circumferences and the two points of tangency with the straight. Dianora, on the other hand, prefers magic: she considers the same circumferences and the same straight, but the mystical quadrilateral must be the trapezoid of vertices the two centers of the circumferences and the two points of intersection of the straight with the perpendiculars, led by the two centers, to the connecting centers. Hoping to appease the altercation, the king proposes that the mystical quadrilateral be the common part of the two quadrilaterals proposed by Didymus and Dianora. What is the area of this common part? Team competition 2004  National stage  Problem texts  Pag. 2 di 4
 
 **Answer:** 0154
-[[src_cesenatico_2004_squadre__Q11]]
+[[Quesiti/src_cesenatico_2004_squadre#q11|src_cesenatico_2004_squadre__Q11]]
 
 
 
@@ -456,7 +456,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The 9999 soldiers of the Royal Guard must agree on who will play the next watch at the palace. Didimo, the clergyman of the court, passing by, hears their conversation and proposes
 
 **Answer:** 1277
-[[src_cesenatico_2004_squadre__Q12]]
+[[Quesiti/src_cesenatico_2004_squadre#q12|src_cesenatico_2004_squadre__Q12]]
 
 
 
@@ -489,7 +489,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > Market Square The market square of Franquie is in the shape of a triangle with sides measuring 2, 5 and 6 Franquie miles. The merchant guild wants to divide the square by a segment whose ends are on two sides of the triangle, so that the segment is 1 mile long and the smallest portion has an area equal to a quarter of the total area. How many of these segments can be traced?
 
 **Answer:** 0002
-[[src_cesenatico_2004_squadre__Q13]]
+[[Quesiti/src_cesenatico_2004_squadre#q13|src_cesenatico_2004_squadre__Q13]]
 
 
 
@@ -521,7 +521,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > Carovita Messer Guiglielmo Guardastagno, a Frankish merchant, set the prices of his goods so that they are all positive integers that are divisible by 30 and have exactly 30 divisors. If S is the sum of all positive integers of this kind, what are the last four digits of S?
 
 **Answer:** 6340
-[[src_cesenatico_2004_squadre__Q14]]
+[[Quesiti/src_cesenatico_2004_squadre#q14|src_cesenatico_2004_squadre__Q14]]
 
 
 
@@ -558,7 +558,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > French numismatic The national currency of France is the franc. However, there are no coins worth one franc: the smallest coin is 11 francs, and all coins have a palindrome number of francs as their value. Messer Guiglielmo Guardastagno and the merchant guild complained that with these coin cuts it is not possible to compose exactly any whole quantity of Franqi (for example, 37 Franqi cannot be composed with the available coins). What is the largest number that can certainly not be expressed in Franquvian coins? A palindrome number is a number that remains unchanged if its digits (based 10) are read from right or left: for example, palindromes 11, 10001, 949.
 
 **Answer:** 0201
-[[src_cesenatico_2004_squadre__Q15]]
+[[Quesiti/src_cesenatico_2004_squadre#q15|src_cesenatico_2004_squadre__Q15]]
 
 
 
@@ -591,7 +591,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > A singular trial The King of Franquie is distinguished by his extravagance. In another case, it asked the parties concerned to determine the number of positive integer solutions of the equation 4x + 12y + 3z2 = 2004. How many are there?
 
 **Answer:** 1342
-[[src_cesenatico_2004_squadre__Q16]]
+[[Quesiti/src_cesenatico_2004_squadre#q16|src_cesenatico_2004_squadre__Q16]]
 
 
 
@@ -624,7 +624,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The clergyman Didymus, an expert in numerology and magical manipulation of symbols, discovered a spell. To activate it, you must write the magic number 2004 in all possible ways using only the symbol 1 and the sum operation. How many of these ways are possible? Watch your step! For the purpose of counting, two sums which differ only in order of additions shall be counted only once.
 
 **Answer:** 2118
-[[src_cesenatico_2004_squadre__Q17]]
+[[Quesiti/src_cesenatico_2004_squadre#q17|src_cesenatico_2004_squadre__Q17]]
 
 
 
@@ -684,7 +684,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > are divisible by n. If the numbers 5 and 37 were extracted this week, what number did you have to bet on to win the Franquvia lottery? Remember that the binomial coefficient is the positive integer given by n k = n! k!(n−k)!.
 
 **Answer:** 0020
-[[src_cesenatico_2004_squadre__Q18]]
+[[Quesiti/src_cesenatico_2004_squadre#q18|src_cesenatico_2004_squadre__Q18]]
 
 
 
@@ -718,7 +718,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The throne room The throne room of Franquie is illuminated by 6 large windows. The windows can be completely darkened from the inside with a tent, or from the outside with a wooden panel. The Queen's maid of honor counted all the different ways of opening or closing, regardless, curtains and panels, so that light would enter through an equal number of windows. The king's shield, on the other hand, counted all the different ways of opening or closing the curtains and panels, for which the windows illuminating the hall are in odd number. What's the difference between these two numbers?
 
 **Answer:** 0064
-[[src_cesenatico_2004_squadre__Q19]]
+[[Quesiti/src_cesenatico_2004_squadre#q19|src_cesenatico_2004_squadre__Q19]]
 
 
 
@@ -750,7 +750,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > Imperialism The prince of Franquie decides to enlarge his dominions by founding 25 cities on an uninhabited archipelago of 13 islands so that on each island there is at least one city. However, he wants every pair of cities on different islands to be connected by vessels. Determine the minimum number of such connections.
 
 **Answer:** 0222
-[[src_cesenatico_2004_squadre__Q20]]
+[[Quesiti/src_cesenatico_2004_squadre#q20|src_cesenatico_2004_squadre__Q20]]
 
 
 
@@ -785,7 +785,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > At the inn Agilulfo, Barnabas, Clara, Dioneo and Elisa used to meet at the Inn Alla Brocca. One night they share a vineyard. After filling their glasses, they decide to redistribute the wine. Agylulph divides the entire contents of his glass into equal parts among the other four friends, so does Barnabas and so on. After Elissa finally divided the entire contents of her glass into equal parts in the glasses of the other four young men, the five find that they have exactly the same amount of wine in the glasses as they had at the beginning. Knowing the barley contained 750ml of wine, how much wine did Chiara have in the glass?
 
 **Answer:** 0150
-[[src_cesenatico_2004_squadre__Q21]]
+[[Quesiti/src_cesenatico_2004_squadre#q21|src_cesenatico_2004_squadre__Q21]]
 
 
 
@@ -820,7 +820,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 > The crown The crown for the prince of Franquie is of circular leaf, with a frontal diadem. There are also eight precious stones arranged at regular intervals around the crown. To decorate the crown, the goldsmith has stones of four different types: diamonds, rubies, amethyst and emeralds. How many different ways can he decorate the crown, so that two any stones framed consecutively are of different types? It also means the stones separated by the diadem.
 
 **Answer:** 6564
-[[src_cesenatico_2004_squadre__Q22]]
+[[Quesiti/src_cesenatico_2004_squadre#q22|src_cesenatico_2004_squadre__Q22]]
 
 
 
@@ -854,7 +854,7 @@ After which move Chiara will have more Franqi (iterized process)
 > Again at the inn, Agylus, Barnabas, Clare, Dionysius and Elisabeth have their own hobby. Each one brings to the inn a bag of Frankies: they count them and, if they all have them in different quantities, then the one who has the most of them all, from one of his Frankies to each of the others. As soon as more than one person has the same number of Franqi, the game is over. At the beginning, Agilulfo has 101 Franqi, Bernabéu 70, Clara 17, Dioneo has 104 and Elissa 113. After what move will Chiara have more Frankies than anyone?
 
 **Answer:** 0066
-[[src_cesenatico_2004_squadre__Q23]]
+[[Quesiti/src_cesenatico_2004_squadre#q23|src_cesenatico_2004_squadre__Q23]]
 
 
 
@@ -889,4 +889,4 @@ After which move Chiara will have more Franqi (iterized process)
 > The colonisation of the archipelago has cost an unprecedented amount. The real cash deficit K is the product of the following 20 factors: K = 1! · 2! · 3! · · · 19! · 20!. What is the minimum value of the product of the numbers, chosen from 1, 2, . . . , 20, such that, by eliminating the factorial correspondence from K, the number K becomes a perfect square? Team competition 2004  National stage  Problem texts  Pag. 4 di 4
 
 **Answer:** 0010
-[[src_cesenatico_2004_squadre__Q24]]
+[[Quesiti/src_cesenatico_2004_squadre#q24|src_cesenatico_2004_squadre__Q24]]

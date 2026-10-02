@@ -40,7 +40,7 @@ level: nazionale
 > N < 40 people take part in a math test. Sufficiency is set at 65. The results of the test are as follows: the average of all participants is 66, that of the promoted 71 and that of the rejected 56. However, due to an error in the formulation of a question, all scores are increased by 5. At this point, the average of the promoted becomes 75 and the average of the unpromoted becomes 59. (a) Find all possible values of N. (b) Find all possible values of N if, after the increase, the average of the promoted had become 79 and that of the non-promoted 47.
 
 **Answer:** (a) 12,24,36; (b) nessun N
-[[src_cesenatico_2010__Q01]]
+[[Quesiti/src_cesenatico_2010#q01|src_cesenatico_2010__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: nazionale
 > Each natural number, zero included, is coloured in white or red, so that: • there is at least one white number and at least one red number; • the sum between a white number and a red number is white; • the product between a white number and a red number is red. Demonstrate that the product of two red numbers is always a red number and that the sum of two red numbers is always a red number.
 
 **Answer:** dimostrato (rossi = multipli di k)
-[[src_cesenatico_2010__Q02]]
+[[Quesiti/src_cesenatico_2010#q02|src_cesenatico_2010__Q02]]
 
 
 
@@ -113,7 +113,7 @@ This is the total amount of the loan.
 > Whether ABCD is a convex quadrilateral such that \ CAB = \ CDA and \ BCA = \ ACD. That M the mean of AB shows that \ BCM = \ DBA.
 
 **Answer:** dimostrato
-[[src_cesenatico_2010__Q03]]
+[[Quesiti/src_cesenatico_2010#q03|src_cesenatico_2010__Q03]]
 
 
 
@@ -149,7 +149,7 @@ This is the total amount of the loan.
 > In the ABCD trapezoid the sides AB and CD are parallel, the angles \ ABC and \ BAD are sharp. Demonstrate that you can divide the ABC triangle into 4 segments of X1, . . . , X4 and the ABD triangle in 4 Y1 disjoint triangles. . . , Y4 such that the Xi and Yi triangles are congruent for each i.
 
 **Answer:** dimostrato
-[[src_cesenatico_2010__Q04]]
+[[Quesiti/src_cesenatico_2010#q04|src_cesenatico_2010__Q04]]
 
 
 
@@ -190,7 +190,7 @@ This is the total amount of the loan.
 > (iii) if within the string is substring 01, this substring may be replaced by 100. Movements (i), (ii) and (iii) must be made one at a time and in succession. You win if you can reduce the string to a two-digit format or less. (For example, starting from 0101 you can win by first using the move (iii) on the final two digits, getting 01100, then playing the move (i) on two of these, and finally the move (ii) on the remaining three zeros: so you get the empty string.)
 
 **Answer:** 1 (la stringa 1111100000)
-[[src_cesenatico_2010__Q05]]
+[[Quesiti/src_cesenatico_2010#q05|src_cesenatico_2010__Q05]]
 
 
 
@@ -219,4 +219,4 @@ This is the total amount of the loan.
 > Demonstrate that there are infinite prime numbers that divide at least one integer of the form 2n3+1 −3n2+1 + 5n+1 with positive integer n.
 
 **Answer:** dimostrato
-[[src_cesenatico_2010__Q06]]
+[[Quesiti/src_cesenatico_2010#q06|src_cesenatico_2010__Q06]]

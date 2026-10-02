@@ -44,7 +44,7 @@ level: kangourou
 > Which of the following six words $$\text{ese} \quad \text{ete} \quad \text{exe} \quad \text{ets} \quad \text{exs} \quad \text{ext}$$ can correspond to three consecutive integers?
 
 **Answer:** ete, exs
-[[src_kangourou_2003_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2003_junior_finale#qj1|src_kangourou_2003_junior_finale__QJ1]]
 
 
 
@@ -72,7 +72,7 @@ level: kangourou
 > Cristina and Roberta start counting at the same instant and with the same frequency. Cristina has two in two growing from 110 (110, 112, 114, $\ldots$), while Roberta has five in five growing from 953 (953, 948, 943, $\ldots$). How different will the two closest numbers they will utter at the same time be?
 
 **Answer:** 3
-[[src_kangourou_2003_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2003_junior_finale#qj2|src_kangourou_2003_junior_finale__QJ2]]
 
 
 
@@ -83,7 +83,7 @@ level: kangourou
 
 *Area del max cerchio inscritto nel triangolo mistilineo*
 
-![[src_kangourou_2003_junior_finale__probJ3.png]]
+![[src_kangourou_2003_junior_finale__probj3.png]]
 
 ```tikz
 \begin{document}
@@ -115,7 +115,7 @@ level: kangourou
 
 *Area of the max circle inscribed in the mythological triangle*
 
-![[src_kangourou_2003_junior_finale__probJ3.png]]
+![[src_kangourou_2003_junior_finale__probj3.png]]
 
 ```tikz
 \begin{document}
@@ -136,7 +136,7 @@ level: kangourou
 > The figure represents a mystilinear triangle $PQR$. Its outline consists of a segment $PR$ of length 2 and two arcs of circumference $PQ$ and $QR$ of centers $R$ and $P$ respectively. How much is the area of the largest circle that can be inscribed in a triangle? (see figure)
 
 **Answer:** 9pi/16
-[[src_kangourou_2003_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2003_junior_finale#qj3|src_kangourou_2003_junior_finale__QJ3]]
 
 
 
@@ -164,7 +164,7 @@ level: kangourou
 > Two cyclists run on a circular track each at a constant speed. If they run in the same direction, every ten minutes the fastest rider reaches the other; if they run in opposite directions, they meet every two minutes. What is the relationship between the speed of the fastest rider and the speed of the slowest rider?
 
 **Answer:** 3/2
-[[src_kangourou_2003_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2003_junior_finale#qj4|src_kangourou_2003_junior_finale__QJ4]]
 
 
 
@@ -192,7 +192,7 @@ level: kangourou
 > For a point fixed internally to a rectangular triangle the parallels to the sides are drawn. These are $a$, $b$ and $c$ the areas of the three rectangular triangles that are thus identified. How much is the area of the starting triangle?
 
 **Answer:** (a+b+c)^2
-[[src_kangourou_2003_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2003_junior_finale#qj5|src_kangourou_2003_junior_finale__QJ5]]
 
 
 
@@ -221,4 +221,4 @@ level: kangourou
 > A single positive integer of ten digits (significant) has a decimal representation such that its first digit (left) corresponds to the number of its digits that are equal to zero, its second digit corresponds to the number of its digits that are equal to one, its third digit corresponds to the number of its digits that are equal to two and so on until its tenth digit corresponds to the number of its digits equal to nine. Find that number.
 
 **Answer:** 6210001000
-[[src_kangourou_2003_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2003_junior_finale#qj6|src_kangourou_2003_junior_finale__QJ6]]

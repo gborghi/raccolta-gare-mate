@@ -23,7 +23,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > **Che ore sono in questo momento?**
 
-![[src_bocconi_finalenaz_2010__Q01.png]]
+![[src_bocconi_finalenaz_2010__q01.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -44,10 +44,10 @@ Four watches: what time is it now?
 > 
 > What time is it right now?
 
-![[src_bocconi_finalenaz_2010__Q01.png]]
+![[src_bocconi_finalenaz_2010__q01.png]]
 
 **Answer:** 14 h 30 m (anche 2:30 del pomeriggio)
-[[src_bocconi_finalenaz_2010__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2010#q01|src_bocconi_finalenaz_2010__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Four watches: what time is it now?
 > 
 > **Quanti fiammiferi deve levare, al minimo, perché non ne rimanga nessuno?**
 
-![[src_bocconi_finalenaz_2010__Q02.png]]
+![[src_bocconi_finalenaz_2010__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -81,10 +81,10 @@ Four watches: what time is it now?
 > 
 > How many matches must he take, at least, because there is none left?
 
-![[src_bocconi_finalenaz_2010__Q02.png]]
+![[src_bocconi_finalenaz_2010__q02.png]]
 
 **Answer:** 3
-[[src_bocconi_finalenaz_2010__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2010#q02|src_bocconi_finalenaz_2010__Q02]]
 
 
 
@@ -117,7 +117,7 @@ Four watches: what time is it now?
 > Following the same rules, how many odd numbers can you read?
 
 **Answer:** 16
-[[src_bocconi_finalenaz_2010__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2010#q03|src_bocconi_finalenaz_2010__Q03]]
 
 
 
@@ -132,7 +132,7 @@ Four watches: what time is it now?
 > 
 > (Due parti sono considerate uguali se si possono sovrapporre, eventualmente ruotandole o ribaltandole.)
 
-![[src_bocconi_finalenaz_2010__Q04.png]]
+![[src_bocconi_finalenaz_2010__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -150,9 +150,9 @@ Four watches: what time is it now?
 > 
 > (Two parts are considered equal if they can be overlapped, possibly by rotating or flipping them.)
 
-![[src_bocconi_finalenaz_2010__Q04.png]]
+![[src_bocconi_finalenaz_2010__q04.png]]
 
-[[src_bocconi_finalenaz_2010__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2010#q04|src_bocconi_finalenaz_2010__Q04]]
 
 
 
@@ -185,7 +185,7 @@ One step towards culture: how many books does the library of Calde have?
 > How many books exactly does Calde's library own?
 
 **Answer:** 2013
-[[src_bocconi_finalenaz_2010__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2010#q05|src_bocconi_finalenaz_2010__Q05]]
 
 
 
@@ -202,7 +202,7 @@ One step towards culture: how many books does the library of Calde have?
 > 
 > Nota: un numero di 2, 3 o 4 cifre non può cominciare con 0.
 
-![[src_bocconi_finalenaz_2010__Q06.png]]
+![[src_bocconi_finalenaz_2010__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -223,10 +223,10 @@ One step towards culture: how many books does the library of Calde have?
 > 
 > Note: A number of 2, 3 or 4 digits cannot start with 0.
 
-![[src_bocconi_finalenaz_2010__Q06.png]]
+![[src_bocconi_finalenaz_2010__q06.png]]
 
 **Answer:** 15
-[[src_bocconi_finalenaz_2010__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2010#q06|src_bocconi_finalenaz_2010__Q06]]
 
 
 
@@ -239,7 +239,7 @@ One step towards culture: how many books does the library of Calde have?
 
 > **Collocate i numeri interi da 2 a 8 (considerati una e una sola volta) in modo che sempre la somma di tutti i numeri che stanno su uno stesso segmento sia uguale a 12.**
 
-![[src_bocconi_finalenaz_2010__Q07.png]]
+![[src_bocconi_finalenaz_2010__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -255,9 +255,9 @@ One step towards culture: how many books does the library of Calde have?
 
 > **Switch the integers from 2 to 8 (consider once and only once) so that the sum of all the numbers on the same segment is always equal to 12. **
 
-![[src_bocconi_finalenaz_2010__Q07.png]]
+![[src_bocconi_finalenaz_2010__q07.png]]
 
-[[src_bocconi_finalenaz_2010__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2010#q07|src_bocconi_finalenaz_2010__Q07]]
 
 
 
@@ -290,7 +290,7 @@ One step towards culture: how many books does the library of Calde have?
 > **In the figure, how many parallelograms at most do you see? **
 
 **Answer:** 27
-[[src_bocconi_finalenaz_2010__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2010#q08|src_bocconi_finalenaz_2010__Q08]]
 
 
 
@@ -323,7 +323,7 @@ One step towards culture: how many books does the library of Calde have?
 > Who is it?
 
 **Answer:** 198
-[[src_bocconi_finalenaz_2010__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2010#q09|src_bocconi_finalenaz_2010__Q09]]
 
 
 
@@ -340,7 +340,7 @@ One step towards culture: how many books does the library of Calde have?
 > 
 > Nell'addizione, i due "?" al secondo membro saranno letti come un numero di due cifre; per esempio $? = 3$ e $? = 2$ risulta verificata perché $1 \times 5 = 1 \times 2 \cdot ? + ? = 3 \cdot 2 + 1$.
 
-![[src_bocconi_finalenaz_2010__Q10.png]]
+![[src_bocconi_finalenaz_2010__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -361,10 +361,10 @@ One step towards culture: how many books does the library of Calde have?
 > 
 > In the addition, the two "?" to the second member will be read as a two-digit number; for example $? = 3$ and $? = 2$ is verified because $1 \times 5 = 1 \times 2 \cdot ? + ? = 3 \cdot 2 + 1$.
 
-![[src_bocconi_finalenaz_2010__Q10.png]]
+![[src_bocconi_finalenaz_2010__q10.png]]
 
 **Answer:** 7+7=14 oppure 4+8=12
-[[src_bocconi_finalenaz_2010__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2010#q10|src_bocconi_finalenaz_2010__Q10]]
 
 
 
@@ -397,7 +397,7 @@ One step towards culture: how many books does the library of Calde have?
 > What is the maximum number of kilometres you could have walked?
 
 **Answer:** 48
-[[src_bocconi_finalenaz_2010__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2010#q11|src_bocconi_finalenaz_2010__Q11]]
 
 
 
@@ -430,7 +430,7 @@ One step towards culture: how many books does the library of Calde have?
 > **If you get 450, what are these two numbers (in ascending order)?**
 
 **Answer:** (2, 100) oppure (4, 72) oppure (14, 28)
-[[src_bocconi_finalenaz_2010__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2010#q12|src_bocconi_finalenaz_2010__Q12]]
 
 
 
@@ -463,7 +463,7 @@ One step towards culture: how many books does the library of Calde have?
 > What should be the first number Laura writes if she wants to be sure to take at least 15 euros from the table, no matter how Matteo plays?
 
 **Answer:** 2
-[[src_bocconi_finalenaz_2010__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2010#q13|src_bocconi_finalenaz_2010__Q13]]
 
 
 
@@ -496,7 +496,7 @@ One step towards culture: how many books does the library of Calde have?
 > **How many of these results are divisible by 3? **
 
 **Answer:** 43
-[[src_bocconi_finalenaz_2010__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2010#q14|src_bocconi_finalenaz_2010__Q14]]
 
 
 
@@ -529,7 +529,7 @@ One step towards culture: how many books does the library of Calde have?
 > **In increasing order, the quantities of Euro contained in the various Salvadanian currency units.**
 
 **Answer:** 13, 27, 35, 65, 65
-[[src_bocconi_finalenaz_2010__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2010#q15|src_bocconi_finalenaz_2010__Q15]]
 
 
 
@@ -562,4 +562,4 @@ One step towards culture: how many books does the library of Calde have?
 > What is the minimum perimeter of Rosi's garden?
 
 **Answer:** 77
-[[src_bocconi_finalenaz_2010__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2010#q16|src_bocconi_finalenaz_2010__Q16]]

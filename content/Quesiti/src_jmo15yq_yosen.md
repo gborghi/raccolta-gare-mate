@@ -35,7 +35,7 @@ level: JMO Yosen
 > Quanti numeri interi positivi a due cifre lasciano un residuo di $2$ diviso per $3$ e un residuo di $3$ diviso per $5$?
 
 **Risposta:** 6
-[[src_jmo15yq_yosen__Q01]]
+[[Quesiti/src_jmo15yq_yosen#q01|src_jmo15yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Considera la riga $4x + 3y = 1$. Tra tutte le distanze possibili da un punto su questa linea a un punto della rete (un punto con entrambe le coordinate integri) che non si trova sulla linea, trova il valore minimo. Qui un punto reticolo è un punto le cui coordinate $x$- e $y$ sono entrambe enti.
 
 **Risposta:** \frac{1}{5}
-[[src_jmo15yq_yosen__Q02]]
+[[Quesiti/src_jmo15yq_yosen#q02|src_jmo15yq_yosen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JMO Yosen
 > Lasciamo $OA = 2$ e $\angle AOP = 90^\circ$, quindi il triangolo $AOP$ è un triangolo rettangolo con l'angolo giusto a $O$. Il punto medio del lato $OA$ è $B$. Let $OP = a$. Trova il valore di $a$ che massimizza $\angle APB$.
 
 **Risposta:** \sqrt{2}
-[[src_jmo15yq_yosen__Q03]]
+[[Quesiti/src_jmo15yq_yosen#q03|src_jmo15yq_yosen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JMO Yosen
 > Un dado equo (con facce numerate da $1$ a $6$) viene laminato ripetutamente. Qual è la probabilità che, ad un certo punto fino al 6° rollo e incluso, il totale di tutti i risultati corrispondenti sia esattamente $6$?
 
 **Risposta:** \frac{1}{3}
-[[src_jmo15yq_yosen__Q04]]
+[[Quesiti/src_jmo15yq_yosen#q04|src_jmo15yq_yosen__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: JMO Yosen
 > Quanti triples non ordinati di integri positivi reciprocamente distinti $\{a, b, c\}$ soddisfano $abc = 12(a + b + c)$? Qui, i triples che differiscono solo nell'ordine (come $\{3, 6, 18\}$ e $\{6, 3, 18\}$) vengono contati come lo stesso triplo.
 
 **Risposta:** 4
-[[src_jmo15yq_yosen__Q05]]
+[[Quesiti/src_jmo15yq_yosen#q05|src_jmo15yq_yosen__Q05]]
 
 
 
@@ -180,7 +180,7 @@ level: JMO Yosen
 > Per i numeri reali $a, b$ che soddisfano $a + b = 17$, trovare il valore minimo di $2^a + 4^b$.
 
 **Risposta:** 2^{35/3}
-[[src_jmo15yq_yosen__Q06]]
+[[Quesiti/src_jmo15yq_yosen#q06|src_jmo15yq_yosen__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: JMO Yosen
 > Quanti integri positivi $n$ inferiori a $50$ soddisfano la seguente condizione: esistono integri $a \ge 1$ e $b \ge 1$ tali da $a^2 - b^2 = n$?
 
 **Risposta:** 33
-[[src_jmo15yq_yosen__Q07]]
+[[Quesiti/src_jmo15yq_yosen#q07|src_jmo15yq_yosen__Q07]]
 
 
 
@@ -236,7 +236,7 @@ level: JMO Yosen
 
 > Le persone $7$ sono sedute una per sedia a un tavolo circolare con sedie $7$. Ogni persona ha la propria sedia assegnata. Tuttavia, mentre ci sono ancora sedie non occupate, nessuna persona può sedersi in una sedia adiacente alla sedia di un'altra persona. (Le persone che non sono state ancora sedute possono sedersi solo se non è occupata una sedia adiacente.)
 
-[[src_jmo15yq_yosen__Q08]]
+[[Quesiti/src_jmo15yq_yosen#q08|src_jmo15yq_yosen__Q08]]
 
 
 
@@ -265,7 +265,7 @@ level: JMO Yosen
 > $P$ deve essere un punto all'interno di un pentagono regolare $ABCDE$ tale che $\angle ABP = 6^\circ$ e $\angle AEP = 12^\circ$. Trova la misura di $\angle PAC$.
 
 **Risposta:** 24^\circ
-[[src_jmo15yq_yosen__Q09]]
+[[Quesiti/src_jmo15yq_yosen#q09|src_jmo15yq_yosen__Q09]]
 
 
 
@@ -292,7 +292,7 @@ level: JMO Yosen
 
 > Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Ad esempio, $S(611) = 6 + 1 + 1 = 8$. $a, b, c$ siano numeri interi positivi a tre cifre che soddisfino $a + b + c = 2005$. $M$ è il valore massimo possibile di $S(a) + S(b) + S(c)$. Quanti triples $(a, b, c)$ ordinati raggiungono $S(a) + S(b) + S(c) = M$? (I triples che differiscono nell'ordine di $a, b, c$ sono contati come distinti.)
 
-[[src_jmo15yq_yosen__Q10]]
+[[Quesiti/src_jmo15yq_yosen#q10|src_jmo15yq_yosen__Q10]]
 
 
 
@@ -319,7 +319,7 @@ level: JMO Yosen
 
 > In triangle $ABC$ with $BC = 12$, $CA = 11$, $AB = 5$, let $k$ be a real number with $0 < k < 1$. Define the following six points:\n\n- On side $BC$: let $P_1$ be the point dividing $BC$ in the ratio $k : (1-k)$ from $B$, and $P_2$ the point dividing $BC$ in the ratio $(1-k) : k$ from $B$.\n- On side $CA$: let $Q_1$ be the point dividing $CA$ in the ratio $6 : 1$ from $C$, and $Q_2$ the point dividing $CA$ in the ratio $1 : 6$ from $C$.\n- On side $AB$: let $R_1$ be the point dividing $AB$ in the ratio $2 : 5$ from $A$, and $R_2$ the point dividing $AB$ in the ratio $5 : 2$ from $A$.\n\nWhen there exists a triangle $PQR$ with $Q = Q_1$, $R = R_1$, $P = P_2$; $QR = Q_1 R_0$, $RP = R_1 P_2$, $PQ = P_1 Q_2$ (i.e., the side lengths of triangle $PQR$ equal $|Q_1 R_0|$, $|R_1 P_2|$, $|P_1 Q_2|$ for varying $k$), find the minimum value of $\cos \angle QPR$.
 
-[[src_jmo15yq_yosen__Q11]]
+[[Quesiti/src_jmo15yq_yosen#q11|src_jmo15yq_yosen__Q11]]
 
 
 
@@ -348,4 +348,4 @@ Il numero massimo di modi per distruggere ponti in modo che tutte le isole abbia
 > Ci sono isole $80$ e ponti $2005$. Ogni coppia di isole è collegata da un ponte al massimo, e alcune coppie potrebbero non avere un ponte. Da qualsiasi isola, è possibile raggiungere qualsiasi altra isola attraversando una sequenza di ponti (cioè il grafico è collegato). Desideriamo distruggere alcuni dei ponti$2005$così che dopo la distruzione, ogni isola abbia un numero pari di ponti rimasti. (La distruzione di ponti $0$ è consentita; dopo la distruzione il grafico non deve rimanere connesso; e dopo la distruzione, è anche accettabile se un'isola diventa irraggiungibile da un'altra). Su tutti i grafici collegati su vertici $80$ con bordi $2005$, trovare il numero massimo di modi per scegliere quali ponti distruggere.
 
 **Risposta:** 2^{1926}
-[[src_jmo15yq_yosen__Q12]]
+[[Quesiti/src_jmo15yq_yosen#q12|src_jmo15yq_yosen__Q12]]

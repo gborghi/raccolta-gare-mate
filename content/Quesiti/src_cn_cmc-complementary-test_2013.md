@@ -20,7 +20,7 @@ level: China Mathematical Competition (Complementary Test)
 > (40 marks) As seen in Fig. 1.1, $AB$ is a chord of circle $\omega$, $P$ is a point on arc $AB$, and $E$, $F$ are 2 points on $AB$ satisfying $AE = EF = FB$. Connect $PE$, $PF$ and extend them to intersect with $\omega$ at $C$, $D$, respectively. Prove
 > $$EF \cdot CD = AC \cdot BD.$$
 
-![[src_cn_cmc-complementary-test_b11_w85__Q01.png]]
+![[src_cn_cmc-complementary-test_b11_w85__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -35,9 +35,9 @@ level: China Mathematical Competition (Complementary Test)
 
 > 40 punti) Come illustrato nella figura. 1.1, $AB$ è un'accorda del cerchio $\omega$, $P$ è un punto su un arco $AB$, e $E$, $F$ sono 2 punti su $AB$ che soddisfano $AE = EF = FB$. Connettere $PE$, $PF$ e estendereli per incrociarli con $\omega$ rispettivamente a $C$ e $D$. Prova $$EF \cdot CD = AC \cdot BD.$$
 
-![[src_cn_cmc-complementary-test_b11_w85__Q01.png]]
+![[src_cn_cmc-complementary-test_b11_w85__q01.png]]
 
-[[src_cn_cmc-complementary-test_2013__Q01]]
+[[Quesiti/src_cn_cmc-complementary-test_2013#q01|src_cn_cmc-complementary-test_2013__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (40 marchi) Per i numeri interi positivi $u$, $v$, la sequenza $\{a_n\}$ è definita come: $a_1 = u + v$, e per $m \ge 1$, $$\begin{cases} a_{2m} = a_m + u, \\ a_{2m+1} = a_m + v. \end{cases}$$ Denoto $S_m = a_1 + a_2 + \cdots + a_m$ ($m = 1, 2, \ldots$). Prova che ci sono termini infiniti nella sequenza $\{S_n\}$ che sono numeri quadrati.
 
-[[src_cn_cmc-complementary-test_2013__Q02]]
+[[Quesiti/src_cn_cmc-complementary-test_2013#q02|src_cn_cmc-complementary-test_2013__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: China Mathematical Competition (Complementary Test)
 > (50 punti) Supponiamo che ci siano domande $m$ in un esame frequentato da studenti $n$, in cui $m$, $n \ge 7$ ricevono numeri naturali. La regola di punteggio per ciascuna domanda è la seguente: se ci sono esattamente $x$ studenti che non rispondono correttamente alla domanda, allora ognuno di loro otterrà $0$ voti, e quelli che rispondono correttamente otterranno $x$ voti. I voti complessivi di uno studente sono la somma dei voti ottenuti dalle domande $m$. Ora classificare i voti totali degli studenti $n$ come $p_1 \ge p_2 \ge \cdots \ge p_n$. Trova il valore massimo possibile di $p_1 + p_n$.
 
 **Risposta:** $m(n-1)$
-[[src_cn_cmc-complementary-test_2013__Q03]]
+[[Quesiti/src_cn_cmc-complementary-test_2013#q03|src_cn_cmc-complementary-test_2013__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 marchi) $s$, $t$ sono numeri interi superiori a $1$ e soddisfano $s < 2^t$. Prova che ci sono $2t$ enti non divisibili da $s$, in modo tale che se li dividiamo in due gruppi, allora deve esistere un gruppo in cui la somma di alcuni enti può essere divisa da $s$.
 
-[[src_cn_cmc-complementary-test_2013__Q04]]
+[[Quesiti/src_cn_cmc-complementary-test_2013#q04|src_cn_cmc-complementary-test_2013__Q04]]

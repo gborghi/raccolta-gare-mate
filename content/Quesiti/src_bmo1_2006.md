@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > $n$ sia un numero intero tale che $n - 1$ e $n + 1$ siano entrambi numeri primi. Indicare che $n^2(n^2 + 16)$ è divisibile per 720. È vero il contrario?
 
-[[src_bmo1_2006__Q01]]
+[[Quesiti/src_bmo1_2006#q01|src_bmo1_2006__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 1
 > 
 > (ii) In quanti modi può dividerli in due squadre di quattro persone?
 
-[[src_bmo1_2006__Q02]]
+[[Quesiti/src_bmo1_2006#q02|src_bmo1_2006__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 
 > Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE \parallel AB$.
 
-[[src_bmo1_2006__Q03]]
+[[Quesiti/src_bmo1_2006#q03|src_bmo1_2006__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: BMO Round 1
 
 > Il triangolo equilaterale $ABC$ ha lunghezza laterale integrale $N$. Il triangolo è completamente diviso (disegnando linee parallele ai lati del triangolo) in celle triangolari equilaterali di lunghezza laterale 1. Si sceglie un percorso continuo, che inizia all'interno della cella con vertice $A$, e che passa sempre da una cella all'altra su un bordo condiviso dalle due celle. Nessuna cellula viene visitata più di una volta. Trova, con la prova, il maggior numero di celle che possono essere visitate.
 
-[[src_bmo1_2006__Q04]]
+[[Quesiti/src_bmo1_2006#q04|src_bmo1_2006__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: BMO Round 1
 
 > Che $G$ sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
 
-[[src_bmo1_2006__Q05]]
+[[Quesiti/src_bmo1_2006#q05|src_bmo1_2006__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: BMO Round 1
 
 > Il $T$ deve essere un insieme di punti coplanari del 2005 senza tre punti collineari. Mostrare che, per uno qualsiasi dei punti del 2005, il numero di triangoli formati dai restanti punti del 2004 all'interno dei quali si trova strettamente quel punto è pari.
 
-[[src_bmo1_2006__Q06]]
+[[Quesiti/src_bmo1_2006#q06|src_bmo1_2006__Q06]]

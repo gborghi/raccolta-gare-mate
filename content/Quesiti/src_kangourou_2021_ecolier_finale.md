@@ -47,7 +47,7 @@ level: kangourou
 > - **(E)** 7 (see figure)
 
 **Answer:** 0045
-[[src_kangourou_2021_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q01|src_kangourou_2021_ecolier_finale__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: kangourou
 > - **(E)** 18
 
 **Answer:** 0104
-[[src_kangourou_2021_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q02|src_kangourou_2021_ecolier_finale__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: kangourou
 > - **(E)** 14 (see figure)
 
 **Answer:** 189
-[[src_kangourou_2021_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q03|src_kangourou_2021_ecolier_finale__Q03]]
 
 
 
@@ -168,7 +168,7 @@ level: kangourou
 > - **(E)** 10
 
 **Answer:** 34x3=102
-[[src_kangourou_2021_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q04|src_kangourou_2021_ecolier_finale__Q04]]
 
 
 
@@ -209,7 +209,7 @@ level: kangourou
 > - **(E)** 17
 
 **Answer:** 12
-[[src_kangourou_2021_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q05|src_kangourou_2021_ecolier_finale__Q05]]
 
 
 
@@ -280,7 +280,7 @@ level: kangourou
 > - **(D)** 15
 > - **(E)** The information is insufficient.
 
-[[src_kangourou_2021_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q06|src_kangourou_2021_ecolier_finale__Q06]]
 
 
 
@@ -320,7 +320,7 @@ level: kangourou
 > - **(E)** 12
 
 **Answer:** 0111
-[[src_kangourou_2021_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q07|src_kangourou_2021_ecolier_finale__Q07]]
 
 
 
@@ -361,7 +361,7 @@ level: kangourou
 > - **(E)** 15
 
 **Answer:** 0110
-[[src_kangourou_2021_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q08|src_kangourou_2021_ecolier_finale__Q08]]
 
 
 
@@ -411,7 +411,7 @@ level: kangourou
 > - **(E)** The statement c) is true.
 
 **Answer:** 0002
-[[src_kangourou_2021_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q09|src_kangourou_2021_ecolier_finale__Q09]]
 
 
 
@@ -439,7 +439,7 @@ level: kangourou
 > The sum of the 2021 figures is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
 
 **Answer:** 0406
-[[src_kangourou_2021_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q10|src_kangourou_2021_ecolier_finale__Q10]]
 
 
 
@@ -467,7 +467,7 @@ level: kangourou
 > A watermelon weighs three pounds less than three watermelons. All anguries have the same weight. Which is it, in eights?
 
 **Answer:** 0350
-[[src_kangourou_2021_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q11|src_kangourou_2021_ecolier_finale__Q11]]
 
 
 
@@ -495,7 +495,7 @@ level: kangourou
 > Edward, Susanna and Teresa are playing cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
 
 **Answer:** 0006
-[[src_kangourou_2021_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q12|src_kangourou_2021_ecolier_finale__Q12]]
 
 
 
@@ -524,7 +524,7 @@ level: kangourou
 > Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
 
 **Answer:** 0037
-[[src_kangourou_2021_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q13|src_kangourou_2021_ecolier_finale__Q13]]
 
 
 
@@ -552,7 +552,7 @@ How old is Anna (50 years 50 months ...)
 > The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since this last happened?
 
 **Answer:** 0056
-[[src_kangourou_2021_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q14|src_kangourou_2021_ecolier_finale__Q14]]
 
 
 
@@ -581,4 +581,4 @@ How old is Anna (50 years 50 months ...)
 > Returning from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a stack is needed for crossing, but they only have one that can fit two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together, they do it at the slowest speed?
 
 **Answer:** 0005
-[[src_kangourou_2021_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q15|src_kangourou_2021_ecolier_finale__Q15]]

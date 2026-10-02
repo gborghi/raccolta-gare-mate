@@ -39,7 +39,7 @@ level: OBM Nível 3
 > 
 > Trova tutte le coppie di integri positivi $(m, n)$ in modo tale che $$\underbrace{11\!1\ldots1}_{m\text{ ones}}\cdot\underbrace{11\!1\ldots1}_{n\text{ ones}}$$ sia un palindromo.
 
-[[src_obm_2005_n3_f3__Q01]]
+[[Quesiti/src_obm_2005_n3_f3#q01|src_obm_2005_n3_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 3
 
 > Trova il numero reale più piccolo $C$ per il quale l'ineguaglianza $$C\!\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$ si applica a tutti i numeri reali positivi $x_1, x_2, x_3, x_4, x_5$.
 
-[[src_obm_2005_n3_f3__Q02]]
+[[Quesiti/src_obm_2005_n3_f3#q02|src_obm_2005_n3_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 3
 
 > Diciamo che un quadrato è contenuto in un cubo se tutti i suoi punti si trovano sulle facce o all'interno del cubo. Trova il valore più grande $\ell > 0$ tale che esista un quadrato di lato $\ell$ contenuto in un cubo di lunghezza di bordo $1$.
 
-[[src_obm_2005_n3_f3__Q03]]
+[[Quesiti/src_obm_2005_n3_f3#q03|src_obm_2005_n3_f3__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: OBM Nível 3
 
 > Abbiamo quattro batterie cariche, quattro non cariche e una radio che richiede due batterie cariche per funzionare. Supponiamo di non sapere quali batterie sono cariche e quali non. Trovare il numero minimo di prove sufficiente a garantire il funzionamento della radio, in cui una prova consiste nel posizionare due batterie nella radio e verificare se funziona.
 
-[[src_obm_2005_n3_f3__Q04]]
+[[Quesiti/src_obm_2005_n3_f3#q04|src_obm_2005_n3_f3__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível 3
 
 > Che $ABC$ sia un triangolo acuto e $F$ il suo punto Fermat, cioè il punto interno del triangolo $ABC$ in modo tale che i tre angoli $\widehat{AFB}$, $\widehat{BFC}$ e $\widehat{CFA}$ misurino $120^\circ$. Per ciascuno dei triangoli $ABF$, $ACF$ e $BCF$, tracciare la sua linea di Euler (la linea che unisce il suo circoncentro e il suo centroide). Prove che queste tre linee sono contemporanee.
 
-[[src_obm_2005_n3_f3__Q05]]
+[[Quesiti/src_obm_2005_n3_f3#q05|src_obm_2005_n3_f3__Q05]]
 
 
 
@@ -178,4 +178,4 @@ level: OBM Nível 3
 
 > Dato un intero positivo $a$ e $c$ e un intero $b$, dimostrare che esiste un intero positivo $x$ tale che $$a^x + x \equiv b \pmod{c},$$, cioè esiste un intero positivo $x$ tale che $c$ divide $a^x + x - b$.
 
-[[src_obm_2005_n3_f3__Q06]]
+[[Quesiti/src_obm_2005_n3_f3#q06|src_obm_2005_n3_f3__Q06]]

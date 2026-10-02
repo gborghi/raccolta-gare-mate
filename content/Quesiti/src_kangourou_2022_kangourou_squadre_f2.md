@@ -37,7 +37,7 @@ level: squadre
 > The expression Write the sum of the digits of the result of the following expression: (123.456.789) 2  123.455.789 × 123.456.789.
 
 **Answer:** 0045
-[[src_kangourou_2022_kangourou_squadre_f2__Q01]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q01|src_kangourou_2022_kangourou_squadre_f2__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: squadre
 > The vertical side of a rectangle houses eight circular disks all of the same radius. Some discs are tangent to each other and/or tangent to the sides of the rectangle as shown in the figure. The upper side of the rectangle is 30√3.1 cm long. How many centimeters is each vertical side?
 
 **Answer:** 0020
-[[src_kangourou_2022_kangourou_squadre_f2__Q02]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q02|src_kangourou_2022_kangourou_squadre_f2__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: squadre
 > The strongest Between 2022 tennis players whose skills are not known a priori, one wants to identify the strongest by playing only single matches. What's the minimum number of meetings that allows you to do that? (It is assumed that, in every single encounter, the strongest always wins and that, if A is stronger than B and B is stronger than C, then A is stronger than C.)
 
 **Answer:** 2021
-[[src_kangourou_2022_kangourou_squadre_f2__Q03]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q03|src_kangourou_2022_kangourou_squadre_f2__Q03]]
 
 
 
@@ -137,7 +137,7 @@ level: squadre
 > What's the smallest positive integer that divided by 3 gives rest 1, divided by 4 gives rest 2, divided by 5 gives rest 3, divided by 6 gives rest 4 and divided by 7 gives rest 5?
 
 **Answer:** 0418
-[[src_kangourou_2022_kangourou_squadre_f2__Q04]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q04|src_kangourou_2022_kangourou_squadre_f2__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: squadre
 > The plane Knowing that the plane carrying a life-saving medicine will land at a certain time, a medical car leaves the hospital to reach the airport at exactly that time. The plane arrives early: then a person leaving the airport with the medicine and goes to meet the medical car; after travelling 45 minutes, he delivers the medicine to the medical car which manages to deliver the medicine to the hospital 20 minutes earlier than originally planned. How many minutes in advance did the plane arrive? (Consider the speed of the car constantly and negligible times for the hand-stepping of the medicine.)
 
 **Answer:** 0055
-[[src_kangourou_2022_kangourou_squadre_f2__Q05]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q05|src_kangourou_2022_kangourou_squadre_f2__Q05]]
 
 
 
@@ -203,7 +203,7 @@ level: squadre
 > Two digits The two digits A and B are such that [3(2022 + A)]2 = 36.94B.084. Write down the number 00AB.
 
 **Answer:** 0042
-[[src_kangourou_2022_kangourou_squadre_f2__Q06]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q06|src_kangourou_2022_kangourou_squadre_f2__Q06]]
 
 
 
@@ -242,7 +242,7 @@ level: squadre
 > 2
 
 **Answer:** 4608
-[[src_kangourou_2022_kangourou_squadre_f2__Q07]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q07|src_kangourou_2022_kangourou_squadre_f2__Q07]]
 
 
 
@@ -277,7 +277,7 @@ level: squadre
 > Candidates A test consists of 10 questions numbered 1 to 10. A candidate receives a positive or negative score that matches the order number of the question, depending on whether he or she answers correctly or incorrectly, respectively. (For example, by correctly answering question n. 5 points will be earned, 5 points will be lost if the answer is incorrect or no answer is given.) To be sure that there are at least two candidates scoring the same score, how many candidates must be at least?
 
 **Answer:** 0057
-[[src_kangourou_2022_kangourou_squadre_f2__Q08]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q08|src_kangourou_2022_kangourou_squadre_f2__Q08]]
 
 
 
@@ -313,7 +313,7 @@ level: squadre
 > The ELLE In the figure you can see the pattern of a region a L (with two parallel sides and straight convex inner angles): the segments AB, BC, CD and FA are 96, 72, 36 and 24 metres long respectively. What is the measurement in meters of the GH segment?
 
 **Answer:** 0035
-[[src_kangourou_2022_kangourou_squadre_f2__Q09]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q09|src_kangourou_2022_kangourou_squadre_f2__Q09]]
 
 
 
@@ -344,7 +344,7 @@ level: squadre
 > Perfect square What is the largest four-digit number that, multiplied by 17, results in a perfect square?
 
 **Answer:** 9792
-[[src_kangourou_2022_kangourou_squadre_f2__Q10]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q10|src_kangourou_2022_kangourou_squadre_f2__Q10]]
 
 
 
@@ -376,7 +376,7 @@ level: squadre
 > Squares in pairs For some values of n, but not all, the sum of the first n positive integers can be ordered so that the sum of two integers that, in this new order, come to be adjacent is always a perfect square. Which is the smallest of the n values for which this happens?
 
 **Answer:** 0015
-[[src_kangourou_2022_kangourou_squadre_f2__Q11]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q11|src_kangourou_2022_kangourou_squadre_f2__Q11]]
 
 
 
@@ -408,7 +408,7 @@ level: squadre
 > The average of the others Consider all integers from 1 to 100, 1 and 100 inclusive. Let's say that one of these integers is special if, by eliminating that number and no other, the mean of the remaining ones is an integer. How much is the sum of the special numbers?
 
 **Answer:** 0101
-[[src_kangourou_2022_kangourou_squadre_f2__Q12]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q12|src_kangourou_2022_kangourou_squadre_f2__Q12]]
 
 
 
@@ -447,7 +447,7 @@ level: squadre
 > The side See the figure: the middle points of the sides of a square have been joined to the same point inside the square. Each number in one of the four quadrilaterals in which the square is divided represents the measurement in square metres of the area of that quadrilateral. How long is the side of the square? Answer 0000 if you think there's more than one possible correct answer.
 
 **Answer:** 0148
-[[src_kangourou_2022_kangourou_squadre_f2__Q13]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q13|src_kangourou_2022_kangourou_squadre_f2__Q13]]
 
 
 
@@ -485,7 +485,7 @@ level: squadre
 > The number 2022 The positive integers are inserted, one per box, in an unlimited imaginary grid to the right and down, according to the diagram illustrated in the figure. In which box is the number 2022 entered? (Write the row and column that determine the box in the order, for example if they were the eighth row and the twentieth column you should write 0820.)
 
 **Answer:** 0659
-[[src_kangourou_2022_kangourou_squadre_f2__Q14]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q14|src_kangourou_2022_kangourou_squadre_f2__Q14]]
 
 
 
@@ -587,4 +587,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 0711
-[[src_kangourou_2022_kangourou_squadre_f2__Q15]]
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q15|src_kangourou_2022_kangourou_squadre_f2__Q15]]

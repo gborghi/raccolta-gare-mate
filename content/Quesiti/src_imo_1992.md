@@ -34,7 +34,7 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 
 > Find all integers a, b, c with 1 < a < b < c such that (a −1)(b −1)(c −1) is a divisor of abc −1.
 
-[[src_imo_1992__Q01]]
+[[Quesiti/src_imo_1992#q01|src_imo_1992__Q01]]
 
 
 
@@ -67,7 +67,7 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 
 > Let R denotes the set of all real numbers. Find all functions f: R →R such that f 3 x2 + f(y) ' = y + (f(x))2 for all x, y ∈R.
 
-[[src_imo_1992__Q02]]
+[[Quesiti/src_imo_1992#q02|src_imo_1992__Q02]]
 
 
 
@@ -102,7 +102,7 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 
 > Consider nine points in space, no four of which are coplanar. Each pair of points is joined by an edge (that is, a line segment) and each edge is either colored blue or red or left uncolored. Find the smallest value of n such that whenever exactly n edges are colored, the set of colored edges necessarily contains a triangle all of whose edges have the same color. 33rd International Mathematical Olympiad Second Day - Moscow - July 15, 1992 Time limit: 41 2 hours
 
-[[src_imo_1992__Q03]]
+[[Quesiti/src_imo_1992#q03|src_imo_1992__Q03]]
 
 
 
@@ -129,7 +129,7 @@ Find the locus of P with incircle tangent and midpoint condition
 
 > In the plane $C$ a circle, $l$ a straight tangent to the circle $C$, and $M$ a point on $l$. Find the geometric location of all $P$ points with the following property: there are two points $Q$, $R$ on $l$ such that $M$ is the middle point of $QR$ and $C$ is the circle inscribed in the $PQR$ triangle.
 
-[[src_imo_1992__Q04]]
+[[Quesiti/src_imo_1992#q04|src_imo_1992__Q04]]
 
 
 
@@ -157,7 +157,7 @@ Bound point-set size by product of projection sizes
 
 > Whether $S$ a finite set of points in three-dimensional space. The sets consisting of the orthogonal projections of the points of $S$ on the plane $yz$, $xz$ and $xy$ are $S_x$, $S_y$, $S_z$ respectively. Show that $$|S|^2 \le |S_x| \cdot |S_y| \cdot |S_z|$$ where $|A|$ denotes the number of elements of the finite set $A$.
 
-[[src_imo_1992__Q05]]
+[[Quesiti/src_imo_1992#q05|src_imo_1992__Q05]]
 
 
 
@@ -191,4 +191,4 @@ Bound point-set size by product of projection sizes
 > 
 > (b) Find a specific value of $n$ for which $S(n) = n^2 - 14$.
 
-[[src_imo_1992__Q06]]
+[[Quesiti/src_imo_1992#q06|src_imo_1992__Q06]]

@@ -17,7 +17,7 @@ level: kangourou
 
 *Giri di B perche le tre tacche tornino allineate*
 
-![[src_kangourou_2018_cadet_finale__probC1.png]]
+![[src_kangourou_2018_cadet_finale__probc1.png]]
 
 > Un ingranaggio è composto da tre ruote dentate $A$, $B$ e $C$. $A$ ha 16 denti, $B$ ne ha 20 e $C$ ne ha 30. Come suggerisce la figura, $B$ è a contatto sia con $A$ sia con $C$ (cioè i denti di $B$ agganciano sia quelli di $A$ sia quelli di $C$), ma $A$ non è a contatto con $C$. Ogni ruota ha una tacca. In questo istante l'ingranaggio si mette in moto: quanti giri dovrà fare la ruota $B$ prima che tutte e tre le tacche ritornino contemporaneamente, per la prima volta, nella posizione attuale? (vedi figura)
 
@@ -34,12 +34,12 @@ level: kangourou
 
 *B rounds so that the three tiles are back in line*
 
-![[src_kangourou_2018_cadet_finale__probC1.png]]
+![[src_kangourou_2018_cadet_finale__probc1.png]]
 
 > A gear shall consist of three geared $A$, $B$ and $C$ wheels. $A$ has 16 teeth, $B$ has 20 and $C$ has 30. As the figure suggests, $B$ is in contact with both $A$ and $C$ (i.e. the $B$ teeth attach both $A$ and $C$), but $A$ is not in contact with $C$. Every wheel has a heel. At this moment the gear is set in motion: how many turns does the $B$ wheel have to make before all three gears return to their current position simultaneously for the first time? (see figure)
 
 **Answer:** 12
-[[src_kangourou_2018_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2018_cadet_finale#qc1|src_kangourou_2018_cadet_finale__QC1]]
 
 
 
@@ -67,7 +67,7 @@ Maximum cassette that Eugenio holds with 7 vans
 > Eugenio is the warehouse manager. He knows that tomorrow some growers will each bring him the same number of apple cider cassettes and that he will have to divide the cassettes into seven vans so that all the vans travel with the same number of cassettes. The number of farmers will match the number of boxes each farmer will bring. Eugenio knows that if, after he has distributed as many tapes as possible on the seven vans, he will move some tapes forward, he can keep them for himself. How many tapes could he possibly keep for himself, at most?
 
 **Answer:** 4
-[[src_kangourou_2018_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2018_cadet_finale#qc2|src_kangourou_2018_cadet_finale__QC2]]
 
 
 
@@ -96,7 +96,7 @@ Maximum cassette that Eugenio holds with 7 vans
 > There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the plate numbers are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
 
 **Answer:** 56
-[[src_kangourou_2018_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2018_cadet_finale#qc3|src_kangourou_2018_cadet_finale__QC3]]
 
 
 
@@ -125,7 +125,7 @@ Maximum cassette that Eugenio holds with 7 vans
 > Antonia and Luca play each other's heads or tails the eight-euro coin, throwing an unmade coin. They decide that the number will be stolen by the first of them who has six throws in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
 
 **Answer:** 7 e 1
-[[src_kangourou_2018_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2018_cadet_finale#qc4|src_kangourou_2018_cadet_finale__QC4]]
 
 
 
@@ -153,7 +153,7 @@ Maximum cassette that Eugenio holds with 7 vans
 > From a standard 52-card deck, Chiara discarded some cards, making sure all four axes remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four axes is $\dfrac{1}{1001}$, how many cards did you throw away?
 
 **Answer:** 38
-[[src_kangourou_2018_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2018_cadet_finale#qc5|src_kangourou_2018_cadet_finale__QC5]]
 
 
 
@@ -164,7 +164,7 @@ Maximum cassette that Eugenio holds with 7 vans
 
 *Area B in funzione di A nel pentagono regolare*
 
-![[src_kangourou_2018_cadet_finale__probC6.png]]
+![[src_kangourou_2018_cadet_finale__probc6.png]]
 
 ```tikz
 \begin{document}
@@ -208,7 +208,7 @@ Maximum cassette that Eugenio holds with 7 vans
 
 *Area B as a function of A in the regular pentagon*
 
-![[src_kangourou_2018_cadet_finale__probC6.png]]
+![[src_kangourou_2018_cadet_finale__probc6.png]]
 
 ```tikz
 \begin{document}
@@ -240,4 +240,4 @@ Maximum cassette that Eugenio holds with 7 vans
 > In the figure you can see a regular pentagon of which four diagonal lines have been drawn which identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
 
 **Answer:** doppio di A
-[[src_kangourou_2018_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2018_cadet_finale#qc6|src_kangourou_2018_cadet_finale__QC6]]

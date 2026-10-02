@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Il $ABC$ deve essere un triangolo, $P$ il piede del bisettore dell'angolo interno da $B$ a lato $AC$, e $I$ l'incentro di $ABC$. Se $AP + AB = CB$, dimostrare che $API$ è un triangolo di uguali dimensioni.
 
-[[src_obm_2006_n3_f3__Q01]]
+[[Quesiti/src_obm_2006_n3_f3#q01|src_obm_2006_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > $n$ sia un numero intero, $n \ge 3$. Definire $f(n)$ come il numero massimo di triangoli di isosceles le cui vertici appartengono a un insieme di punti $n$ nel piano senza tre punti collineari. Prova che esistono costanti positive $a$ e $b$ tali da $an^2 < f(n) < bn^2$ per ogni numero intero $n \ge 3$.
 
-[[src_obm_2006_n3_f3__Q02]]
+[[Quesiti/src_obm_2006_n3_f3#q02|src_obm_2006_n3_f3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 3
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ per tutte le $x, y$ reali.
 
-[[src_obm_2006_n3_f3__Q03]]
+[[Quesiti/src_obm_2006_n3_f3#q03|src_obm_2006_n3_f3__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 3
 
 > Un intero positivo si chiama \emph{thrown} (arrojado) quando ha 8 divisori positivi la cui somma è 3240. Ad esempio, il 2006 viene gettato perché i suoi 8 divisori positivi sono $1, 2, 17, 34, 59, 118, 1003, 2006$, e la loro somma è 3240. Trova il più piccolo intero positivo gettato.
 
-[[src_obm_2006_n3_f3__Q04]]
+[[Quesiti/src_obm_2006_n3_f3#q04|src_obm_2006_n3_f3__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível 3
 
 > Che $P$ sia un poligono converso con lati 2006. Le diagonali 1003 che collegano vertici opposti e i segmenti 1003 che collegano i punti medi di lati opposti sono tutti simultanei, cioè tutti i segmenti del 2006 condividono un punto comune. Prova che i lati opposti di $P$ sono paralleli e congruenti.
 
-[[src_obm_2006_n3_f3__Q05]]
+[[Quesiti/src_obm_2006_n3_f3#q05|src_obm_2006_n3_f3__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: OBM Nível 3
 > 
 > Dato $\phi = \dfrac{1+\sqrt{5}}{2}$, dimostrare che un gioco con punteggio $m$ a $n$, $m \ge n$, è equilibrato se e solo se $m \le \phi n$, e squilibrato se e solo se $m \ge \phi n + 1$.
 
-[[src_obm_2006_n3_f3__Q06]]
+[[Quesiti/src_obm_2006_n3_f3#q06|src_obm_2006_n3_f3__Q06]]

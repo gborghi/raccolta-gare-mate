@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Natasha è superstiziosa e, quando numerò le 200 pagine del suo diario a partire da 1, ha saltato tutti i numeri di pagina contenenti i numeri 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non appaiono, ma 103 appaiono. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
 
-[[src_obm_2005_n2_f2__Q01]]
+[[Quesiti/src_obm_2005_n2_f2#q01|src_obm_2005_n2_f2__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: OBM Nível 2
 
 > Four equal pieces, each in the shape of a triangle, were arranged in two different ways, as shown in the figures below. The squares $ABCD$ and $EFGH$ have sides equal to $3\,\text{cm}$ and $9\,\text{cm}$, respectively. Determine the side length of square $IJKL$.
 
-![[src_obm_2005_n2_f2__Q02.png]]
+![[src_obm_2005_n2_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -62,9 +62,9 @@ level: OBM Nível 2
 
 > Quattro pezzi uguali, ognuno a forma di triangolo, erano disposti in due modi diversi, come mostrato nelle figure di seguito. I quadrati $ABCD$ e $EFGH$ hanno lati uguali rispettivamente a $3\,\text{cm}$ e $9\,\text{cm}$. Determinare la lunghezza laterale del quadrato $IJKL$.
 
-![[src_obm_2005_n2_f2__Q02.png]]
+![[src_obm_2005_n2_f2__q02.png]]
 
-[[src_obm_2005_n2_f2__Q02]]
+[[Quesiti/src_obm_2005_n2_f2#q02|src_obm_2005_n2_f2__Q02]]
 
 
 
@@ -79,7 +79,7 @@ level: OBM Nível 2
 > 
 > (The figure shows the staircase arrangement: column $1$ has $1$ square, column $2$ has $2$ squares, column $3$ has $3$ squares, and so on, with the squares numbered $1, 2, 3, \ldots$ from top to bottom within each column and columns ordered left to right.)
 
-![[src_obm_2005_n2_f2__Q03.png]]
+![[src_obm_2005_n2_f2__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -97,9 +97,9 @@ level: OBM Nível 2
 > 
 > (La figura mostra la disposizione delle scale: la colonna $1$ ha $1$ quadrato, la colonna $2$ ha $2$ quadrati, la colonna $3$ ha $3$ quadrati e così via, con i quadrati numerati $1, 2, 3, \ldots$ dall'alto in basso all'interno di ciascuna colonna e colonne ordinate da sinistra a destra.)
 
-![[src_obm_2005_n2_f2__Q03.png]]
+![[src_obm_2005_n2_f2__q03.png]]
 
-[[src_obm_2005_n2_f2__Q03]]
+[[Quesiti/src_obm_2005_n2_f2#q03|src_obm_2005_n2_f2__Q03]]
 
 
 
@@ -112,7 +112,7 @@ level: OBM Nível 2
 
 > A quadrilateral plot of land was divided into four smaller lots by two straight lines connecting the midpoints of opposite sides. The areas of three of the four lots are indicated in the map below (in square meters): $200$, $210$, and $250$. What is the area of the fourth lot (represented by the dark region on the map)?
 
-![[src_obm_2005_n2_f2__Q04.png]]
+![[src_obm_2005_n2_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -128,9 +128,9 @@ level: OBM Nível 2
 
 > Un terreno quadrilaterale era diviso in quattro lotti più piccoli da due linee rette che collegavano i punti di mezzo di lati opposti. Le aree di tre dei quattro lotti sono indicate nella mappa di seguito (in metri quadrati): $200$, $210$ e $250$. Qual è l'area del quarto lotto (representato dalla regione oscura sulla mappa)?
 
-![[src_obm_2005_n2_f2__Q04.png]]
+![[src_obm_2005_n2_f2__q04.png]]
 
-[[src_obm_2005_n2_f2__Q04]]
+[[Quesiti/src_obm_2005_n2_f2#q04|src_obm_2005_n2_f2__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 2
 
 > Che $a$ sia un intero positivo tale che $a + 1$ sia un multiple di $5$, $a + 2$ sia un multiple di $7$, $a + 3$ sia un multiple di $9$, e $a + 3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
 
-[[src_obm_2005_n2_f2__Q05]]
+[[Quesiti/src_obm_2005_n2_f2#q05|src_obm_2005_n2_f2__Q05]]
 
 
 
@@ -188,7 +188,7 @@ level: OBM Nível 2
 > 
 > (Nota: questo è Parte B, Problema 1, vale 10 punti ciascuno.)
 
-[[src_obm_2005_n2_f2__Q06]]
+[[Quesiti/src_obm_2005_n2_f2#q06|src_obm_2005_n2_f2__Q06]]
 
 
 
@@ -201,7 +201,7 @@ level: OBM Nível 2
 
 > A right triangle is cut from a square piece of cardboard. The sum of the lengths of the two legs of the cut triangle equals the side length of the square. Find the value of the sum of the angles $\alpha + \beta$ marked in the figure, where the triangle has a $27^\circ$ angle and $\alpha$, $\beta$ are angles formed between the sides of the triangle and the sides of the remaining cardboard.
 
-![[src_obm_2005_n2_f2__Q07.png]]
+![[src_obm_2005_n2_f2__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -217,9 +217,9 @@ level: OBM Nível 2
 
 > Un triangolo rettangolo viene tagliato da un pezzo quadrato di cartone. La somma delle lunghezze delle due gambe del triangolo tagliato è uguale alla lunghezza laterale del quadrato. Trova il valore della somma degli angoli $\alpha + \beta$ indicati nella figura, dove il triangolo ha un angolo $27^\circ$ e $\alpha$, $\beta$ sono angoli formati tra i lati del triangolo e i lati del resto della cartone.
 
-![[src_obm_2005_n2_f2__Q07.png]]
+![[src_obm_2005_n2_f2__q07.png]]
 
-[[src_obm_2005_n2_f2__Q07]]
+[[Quesiti/src_obm_2005_n2_f2#q07|src_obm_2005_n2_f2__Q07]]
 
 
 
@@ -250,7 +250,7 @@ level: OBM Nível 2
 > 
 > b) Determinare tutte le coppie di integri $(x, y)$ tali da $9xy - x^2 - 8y^2 = 2005$.
 
-[[src_obm_2005_n2_f2__Q08]]
+[[Quesiti/src_obm_2005_n2_f2#q08|src_obm_2005_n2_f2__Q08]]
 
 
 
@@ -267,7 +267,7 @@ level: OBM Nível 2
 > 
 > (b) Explain why it is not possible to do the same with all $10$ pieces formed using only the numbers $1$, $2$, $3$, and $4$.
 
-![[src_obm_2005_n2_f2__Q09.png]]
+![[src_obm_2005_n2_f2__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -287,6 +287,6 @@ Sequenze di domino con case 1-3: ordini di conteggio, spiegazione dell'impossibi
 > 
 > b) Spiega perché non sia possibile fare lo stesso con tutti i pezzi $10$ formati utilizzando solo i numeri $1$, $2$, $3$ e $4$.
 
-![[src_obm_2005_n2_f2__Q09.png]]
+![[src_obm_2005_n2_f2__q09.png]]
 
-[[src_obm_2005_n2_f2__Q09]]
+[[Quesiti/src_obm_2005_n2_f2#q09|src_obm_2005_n2_f2__Q09]]

@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > In un triangolo a angolo acuto $ABC$, $CD$ è l'altitudine. Una linea attraverso il punto medio $M$ del lato $AB$ incontra i raggi $CA$ e $CB$ rispettivamente a $K$ e $L$ in modo tale che $CK = CL$. Il punto $S$ è il centro circundante del triangolo $CKL$. Prova che $SD = SM$.
 
-[[src_pol_2003_r3__Q01]]
+[[Quesiti/src_pol_2003_r3#q01|src_pol_2003_r3__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 3
 
 > $0 < a < 1$ sia un numero reale. Prove che per tutte le sequenze finite, in aumento rigoroso $k_1, k_2, \ldots, k_n$ di enti interi non negativi si verifica la seguente disuguaglianza: $$\left(\sum_{i=1}^{n} a^{k_i}\right)^2 < \frac{1+a}{1-a}\sum_{i=1}^{n} a^{2k_i}.$$
 
-[[src_pol_2003_r3__Q02]]
+[[Quesiti/src_pol_2003_r3#q02|src_pol_2003_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutti i polinomi $W$ con i coefficienti interi che soddisfano la seguente condizione: per ogni numero naturale $n$, $2^n - 1$ è divisibile da $W(n)$.
 
-[[src_pol_2003_r3__Q03]]
+[[Quesiti/src_pol_2003_r3#q03|src_pol_2003_r3__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 3
 
 > Sono indicati un numero primo $p$ e un numero intero $x, y, z$ con $0 < x < y < z < p$. Indicare che se i numeri $x^3, y^3, z^3$ danno lo stesso residuo diviso per $p$, allora $x^2 + y^2 + z^2$ è divisibile per $x + y + z$.
 
-[[src_pol_2003_r3__Q04]]
+[[Quesiti/src_pol_2003_r3#q04|src_pol_2003_r3__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: Olimpiade Polacca Round 3
 
 > La sfera scritta in un tetraedro $ABCD$ tocca la faccia $ABC$ al punto $H$. Un'altra sfera tocca la faccia $ABC$ a $O$ e i piani che contengono le altre tre facce si trovano nei punti esterni alle facce. Dimostra che se $O$ è il circoncentro del triangolo $ABC$, allora $H$ è l'ortocentro di quel triangolo.
 
-[[src_pol_2003_r3__Q05]]
+[[Quesiti/src_pol_2003_r3#q05|src_pol_2003_r3__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 3
 
 > Lasciate che $n$ sia un numero intero positivo pari. Indicare che esiste una permutazione $(x_1, x_2, \ldots, x_n)$ del set $\{1, 2, \ldots, n\}$, tale che per ogni $i \in \{1, 2, \ldots, n\}$, $$x_{i+1} \text{ is one of the numbers } 2x_i,\ 2x_i - 1,\ 2x_i - n,\ 2x_i - n - 1,$$ dove $x_{n+1} = x_1$.
 
-[[src_pol_2003_r3__Q06]]
+[[Quesiti/src_pol_2003_r3#q06|src_pol_2003_r3__Q06]]

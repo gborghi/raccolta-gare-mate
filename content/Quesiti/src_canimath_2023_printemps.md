@@ -39,7 +39,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 16
-[[src_canimath_2023_printemps__Q01]]
+[[Quesiti/src_canimath_2023_printemps#q01|src_canimath_2023_printemps__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
 
-[[src_canimath_2023_printemps__Q02]]
+[[Quesiti/src_canimath_2023_printemps#q02|src_canimath_2023_printemps__Q02]]
 
 
 
@@ -80,7 +80,7 @@ level: Coupe Animath Printemps
 > 
 > *(Below, on the left a $5 \times 5$ grid where a $2 \times 3$ rectangle is hatched, on the right a $5 \times 5$ grid where a $3 \times 2$ rectangle is hatched.)*
 
-![[src_canimath_2023_printemps__Q03.png]]
+![[src_canimath_2023_printemps__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -98,9 +98,9 @@ level: Coupe Animath Printemps
 > 
 > Sotto, a sinistra, una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $2 \times 3$, a destra una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $3 \times 2$.)
 
-![[src_canimath_2023_printemps__Q03.png]]
+![[src_canimath_2023_printemps__q03.png]]
 
-[[src_canimath_2023_printemps__Q03]]
+[[Quesiti/src_canimath_2023_printemps#q03|src_canimath_2023_printemps__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: Coupe Animath Printemps
 
 > Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
 
-[[src_canimath_2023_printemps__Q04]]
+[[Quesiti/src_canimath_2023_printemps#q04|src_canimath_2023_printemps__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: Coupe Animath Printemps
 
 > Theo ha ricevuto i suoi voti per il trimestre, che sono tutti numeri interi tra $1$ e $5$ (inclusivo). Egli osserva che la media dei suoi voti è inferiore o uguale a $3$. Per non essere privato di dessert per una settimana, intende quindi sostituire, nella sua relazione, tutti i suoi voti pari a $1$ con tanti voti pari a $3$. Mostrare che dopo questa trasformazione, la media delle classi rimane inferiore o uguale a $4$.
 
-[[src_canimath_2023_printemps__Q05]]
+[[Quesiti/src_canimath_2023_printemps#q05|src_canimath_2023_printemps__Q05]]
 
 
 
@@ -193,7 +193,7 @@ level: Coupe Animath Printemps
 > 
 > b) Esiste un numero intero $n \geqslant 2$ tale da $s(n) = 2023$?
 
-[[src_canimath_2023_printemps__Q06]]
+[[Quesiti/src_canimath_2023_printemps#q06|src_canimath_2023_printemps__Q06]]
 
 
 
@@ -224,7 +224,7 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di cellule che Martin può colorare?
 
-[[src_canimath_2023_printemps__Q07]]
+[[Quesiti/src_canimath_2023_printemps#q07|src_canimath_2023_printemps__Q07]]
 
 
 
@@ -257,7 +257,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 111
-[[src_canimath_2023_printemps__Q08]]
+[[Quesiti/src_canimath_2023_printemps#q08|src_canimath_2023_printemps__Q08]]
 
 
 
@@ -283,7 +283,7 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
 
-[[src_canimath_2023_printemps__Q09]]
+[[Quesiti/src_canimath_2023_printemps#q09|src_canimath_2023_printemps__Q09]]
 
 
 
@@ -315,7 +315,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > 
 > Antoine vuole avere il maggior numero possibile di frazioni con valori interi tra le frazioni che scrive: nell'esempio sopra, si può vedere che ha scritto tre frazioni con valori interi, vale a dire $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ e $\frac{20}{1} = 20$. Qual è il numero massimo di frazioni che possono avere valori interi?
 
-[[src_canimath_2023_printemps__Q10]]
+[[Quesiti/src_canimath_2023_printemps#q10|src_canimath_2023_printemps__Q10]]
 
 
 
@@ -342,7 +342,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 > $a_1, \ldots, a_{100}$ siano $100$ numeri interi distinti come $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$. Per ogni numero intero $i$ tale da $1 \leqslant i \leqslant 99$, impostare $d_i = a_{i+1} - a_i$. Mostrare che almeno $15$ dei numeri tra $d_1, d_2, \ldots, d_{99}$ sono uguali l'uno all'altro.
 
-[[src_canimath_2023_printemps__Q11]]
+[[Quesiti/src_canimath_2023_printemps#q11|src_canimath_2023_printemps__Q11]]
 
 
 
@@ -369,7 +369,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 > Che $ABCD$ sia un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle linee $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di $\dfrac{EK}{EA}$?
 
-[[src_canimath_2023_printemps__Q12]]
+[[Quesiti/src_canimath_2023_printemps#q12|src_canimath_2023_printemps__Q12]]
 
 
 
@@ -400,7 +400,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > 
 > Qual è il numero massimo di cellule che Martin può colorare?
 
-[[src_canimath_2023_printemps__Q13]]
+[[Quesiti/src_canimath_2023_printemps#q13|src_canimath_2023_printemps__Q13]]
 
 
 
@@ -439,7 +439,7 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 > 
 > Per quali valori di $n$ Aline può realizzare il suo desiderio?
 
-[[src_canimath_2023_printemps__Q14]]
+[[Quesiti/src_canimath_2023_printemps#q14|src_canimath_2023_printemps__Q14]]
 
 
 
@@ -477,4 +477,4 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 > 
 > b) Trova tutti i numeri speciali.
 
-[[src_canimath_2023_printemps__Q15]]
+[[Quesiti/src_canimath_2023_printemps#q15|src_canimath_2023_printemps__Q15]]

@@ -19,7 +19,7 @@ level: OBM Nível 2
 
 > Numbers are written at the vertices of a tetrahedron. It is given that on certain edges/faces appear the numbers $2$ and $7$ (as shown in the figure), and that the faces containing the number $2$ satisfy $2+x+7=2+7+y=x+2+7$, which forces $x=y=7$, so the sum of the numbers at the vertices of each face equals $2+7+7=16$, and the number at the lower vertex is found to be $2$. What is the sum of the numbers written at all the vertices of the tetrahedron? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__Q01.png]]
+![[src_obm_2016_n2_f1__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -38,10 +38,10 @@ level: OBM Nível 2
 
 > I numeri sono scritti ai vertici di un tetraedro. Si ritiene che su alcuni bordi/facce appaiano i numeri $2$ e $7$ (come mostrato nella figura), e che i volti contenenti il numero $2$ soddisfino $2+x+7=2+7+y=x+2+7$, il che costringe $x=y=7$, quindi la somma dei numeri alle vertici di ciascuna faccia è uguale $2+7+7=16$, e il numero al vertice inferiore è $2$. Qual è la somma dei numeri scritti a tutti i vertici del tetraedro? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__Q01.png]]
+![[src_obm_2016_n2_f1__q01.png]]
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q01]]
+[[Quesiti/src_obm_2016_n2_f1#q01|src_obm_2016_n2_f1__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: OBM Nível 2
 > Lasciate che la posizione di Josias in una riga sia $x$. Poi arrivarono persone prima di lui e persone dopo. Determinare $x$. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q02]]
+[[Quesiti/src_obm_2016_n2_f1#q02|src_obm_2016_n2_f1__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: OBM Nível 2
 > Ci sono $5$ numeri unici: $1$, $3$, $5$, $7$, $9$. Pertanto ci sono $5\cdot 5=25$ numeri a due cifre che utilizzano solo queste cifre. Di conseguenza, la maggior parte delle famiglie $25-18=7$ non ha ricevuto il giornale. Quante famiglie non hanno ricevuto il giornale? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q03]]
+[[Quesiti/src_obm_2016_n2_f1#q03|src_obm_2016_n2_f1__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: OBM Nível 2
 
 > The grid is filled with the letters O, B, M (as shown). The following examples show that any one of the letters can occupy the grey cell. Which letter can be placed in the grey cell? (Note: original multiple-choice options are not reproduced in the source gabarito; the answer key indicates all three letters O, B and M are possible.)
 
-![[src_obm_2016_n2_f1__Q04.png]]
+![[src_obm_2016_n2_f1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -134,10 +134,10 @@ level: OBM Nível 2
 
 > La griglia è riempita dalle lettere O, B, M (come mostrato). Gli esempi che seguono mostrano che una delle lettere può occupare la cella grigia. Quale lettera può essere inserita nella cella grigia? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente; la chiave di risposta indica che sono possibili tutte e tre le lettere O, B e M.)
 
-![[src_obm_2016_n2_f1__Q04.png]]
+![[src_obm_2016_n2_f1__q04.png]]
 
 **Risposta:** E
-[[src_obm_2016_n2_f1__Q04]]
+[[Quesiti/src_obm_2016_n2_f1#q04|src_obm_2016_n2_f1__Q04]]
 
 
 
@@ -168,7 +168,7 @@ level: OBM Nível 2
 > Poiché le caramelle sono uguali e possono essere suddivise in gruppi di persone $2$, $3$ o $4$, il numero di caramelle deve essere un multiple del più piccolo comune di $2$, $3$ e $4$, vale a dire $12$. Tra le opzioni solo una è un multiple di $12$ (con $30$ pezzi è verificata la possibilità di tale divisione). Quante caramelle ci sono? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q05]]
+[[Quesiti/src_obm_2016_n2_f1#q05|src_obm_2016_n2_f1__Q05]]
 
 
 
@@ -199,7 +199,7 @@ level: OBM Nível 2
 > Let $x=2015$. L'espressione data può essere riscritta come $$\frac{x^3-1^3}{1^2+x^2+(x+1)^2}=\frac{(x-1)(x^2+x+1)}{2(x^2+x+1)}=\frac{x-1}{2}.$$ Quindi il valore ricercato è $\frac{2015-1}{2}=1007$. Qual è il valore dell'espressione? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** B
-[[src_obm_2016_n2_f1__Q06]]
+[[Quesiti/src_obm_2016_n2_f1#q06|src_obm_2016_n2_f1__Q06]]
 
 
 
@@ -230,7 +230,7 @@ level: OBM Nível 2
 > Per la disuguaglianza del triangolo applicata ai triangoli $ABC$ e $ABD$, rispettivamente $x<4+3=7$ e $8+x>10$, si intende $2<x<7$. In linea di principio i valori possibili di $x$ sono $3$, $4$, $5$ o $6$. Con l'inverso della disuguaglianza del triangolo, tre numeri positivi sono lunghezze laterali di un triangolo solo se il più grande è inferiore alla somma degli altri due; i quattro valori trovati soddisfano le condizioni. Quale valore di $x$ non è ammissibile? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q07]]
+[[Quesiti/src_obm_2016_n2_f1#q07|src_obm_2016_n2_f1__Q07]]
 
 
 
@@ -261,7 +261,7 @@ level: OBM Nível 2
 > La tabella mostra la somma dei voti degli studenti delle classi A e B per i test di matematica e di portoghese: classe A matematica $6\cdot 20=120$, classe B matematica $9\cdot 30=270$, classe A portoghese $8\cdot 20=160$, classe B portoghese $5\cdot 30=150$. L'analisi dei dati mostra che i punti a) e b) sono falsi; la media matematica comune delle due classi è $\frac{120+270}{50}$, quindi (c) è falsa; le medie dei due test sono $280/40=7$ e $420/60=7$, rendendo (d) falsa; e (e) è vera poiché la media complessiva è $$\frac{120+160+270+150}{20+20+30+30}=7.$$ Quale affermazione è corretta? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** E
-[[src_obm_2016_n2_f1__Q08]]
+[[Quesiti/src_obm_2016_n2_f1#q08|src_obm_2016_n2_f1__Q08]]
 
 
 
@@ -291,7 +291,7 @@ level: OBM Nível 2
 > Poiché le misure $CA$ $44^\circ$ e $CD$ e $AB$ sono parallele, le misure $DB$, $CE$ e $FD$ sono congruenti e misurano anche $44^\circ$. Poiché $CB$ è un diametro, l'arco $EF$ misura $180^\circ-44^\circ-44^\circ=48^\circ$. Infine $\angle ECF$ è l'angolo inserito determinato da arco $EF$, quindi il suo valore è $48^\circ/2=24^\circ$. Qual è il valore di $\angle ECF$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q09]]
+[[Quesiti/src_obm_2016_n2_f1#q09|src_obm_2016_n2_f1__Q09]]
 
 
 
@@ -322,7 +322,7 @@ level: OBM Nível 2
 > Factoring $2016$ in numeri primi dà $2016=2^5\cdot 3^2\cdot 7$. Pertanto $n!$ deve contenere almeno queste potenze prime come divisori. Per far apparire il fattore $7$ abbiamo bisogno di $n\ge 7$; da $7!=5040$ il candidato successivo è $8!=40320=20\cdot 2016$. Pertanto il valore più piccolo è $n=8$. Qual è la minima $n$ tale che $n!$ sia un multiple di $2016$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** B
-[[src_obm_2016_n2_f1__Q10]]
+[[Quesiti/src_obm_2016_n2_f1#q10|src_obm_2016_n2_f1__Q10]]
 
 
 
@@ -335,7 +335,7 @@ level: OBM Nível 2
 
 > Divide the video-game screen into four equal rectangles $A$, $B$, $C$, $D$, and consider the rectangle $R$ formed by the centres of these four rectangles. The video-game distance is always less than or equal to the usual Euclidean distance on the screen, and swapping the positions of two of these rectangles sharing a common side does not change the video-game distance between the others (a rotated figure keeps its Euclidean distance). One can suppose there are two points whose distance equals the diagonal of a video-game rectangle. Since the largest distance in $R$ is its diagonal, measuring $\frac{\sqrt{2^2+4^2}}{2}=2.5$, no minimal video-game distance exceeds $2.5$; moreover the video-game distance between the centre of the screen and any corner is $2.5$. What is this distance? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__Q11.png]]
+![[src_obm_2016_n2_f1__q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -354,10 +354,10 @@ level: OBM Nível 2
 
 > Dividere lo schermo del videogioco in quattro rettangoli uguali $A$, $B$, $C$, $D$, e considerare il rettangolo $R$ formato dai centri di questi quattro rettangoli. La distanza tra videogiochi è sempre inferiore o uguale alla distanza euclidica usuale sullo schermo, e lo scambio delle posizioni di due di questi rettangoli che condividono un lato comune non cambia la distanza tra gli altri (una figura rotata mantiene la sua distanza euclidica). Si può supporre che ci siano due punti la cui distanza è uguale alla diagonale di un rettangolo di videogioco. Poiché la distanza più grande in $R$ è la sua diagonale, misurando $\frac{\sqrt{2^2+4^2}}{2}=2.5$, nessuna distanza minima del videogioco supera $2.5$; inoltre la distanza del videogioco tra il centro dello schermo e qualsiasi angolo è $2.5$. Qual e' questa distanza? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__Q11.png]]
+![[src_obm_2016_n2_f1__q11.png]]
 
 **Risposta:** B
-[[src_obm_2016_n2_f1__Q11]]
+[[Quesiti/src_obm_2016_n2_f1#q11|src_obm_2016_n2_f1__Q11]]
 
 
 
@@ -388,7 +388,7 @@ level: OBM Nível 2
 > Per il criterio di divisibilità per $11$, per $\overline{ab2016}$ di essere divisibile da $11$ abbiamo bisogno di $11\mid (a+2+1)-(b+0+6)=a-b-3$. Inoltre, poiché il numero ha molte cifre, $9\mid a+b+2+0+1+6=a+b+9$. Come $a+b\le 18$, le possibilità sono $a+b=9$ o $a+b=18$, portando a $a-b=3$. Determinare le cifre $a$ e $b$. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente; la chiave di risposta dà $(a,b)=(6,3)$.)
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q12]]
+[[Quesiti/src_obm_2016_n2_f1#q12|src_obm_2016_n2_f1__Q12]]
 
 
 
@@ -418,7 +418,7 @@ level: OBM Nível 2
 > Le misure $p$ e $q$ siano rispettivamente le misure degli angoli $\angle BAD$ e $\angle EAC$. Da $BA=DE$, $\angle ABE=\angle BAE=p$; analogamente da $AC=DC$, $\angle DAC=\angle ADC=x+q$. Con il contrario del teorema di Pitagore, dal momento che $BC^2=AB^2+AC^2$, si ottiene $p+q+x=90^\circ$. Analizzare la somma angolare del triangolo $DAE$, $180^\circ=(p+x)+(q+x)=90^\circ+2x$, quindi $x=45^\circ$. Qual è il valore di $x$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q13]]
+[[Quesiti/src_obm_2016_n2_f1#q13|src_obm_2016_n2_f1__Q13]]
 
 
 
@@ -449,7 +449,7 @@ Numero di bugiardi tra le persone del 2016 che parlano ciascuna della successiva
 > La prima persona a rispondere non può dire la verità, poiché allora il prossimo dietro sarebbe anche dire la verità, e così via, rendendo tutti veritieri, una contraddizione. Una persona sincera fa mentire l'altra, e un bugiardo fa essere sincera l'altra, quindi le persone oneste e mentite si alternano. Quindi ci sono mentitori. Quante persone mentono? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** E
-[[src_obm_2016_n2_f1__Q14]]
+[[Quesiti/src_obm_2016_n2_f1#q14|src_obm_2016_n2_f1__Q14]]
 
 
 
@@ -480,7 +480,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > Il punto in cui le mani di un orologio si incontrano ruota più velocemente della mano dell'ora. Per l'orologio di Esmeralda, dove la mano oraria fa una rotazione completa più veloce, gli incontri si verificano in momenti corrispondenti a spostamenti orari di dimensioni $\tfrac{l}{13},\tfrac{2l}{13},\dots,\tfrac{12l}{13}$. Per un orologio normale il prossimo incontro si verifica quando $12k-k=l$, cioè $k=\tfrac{l}{11}$, che indica incontri a $\tfrac{l}{11},\tfrac{2l}{11},\dots,\tfrac{10l}{11}$. Pertanto, nelle ore $12$ si verificano $2$ più incontri nell'orologio di Esmeralda di quello normale, e su un'intera giornata $y=x+4$. Determinare la relazione tra il numero di incontri. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q15]]
+[[Quesiti/src_obm_2016_n2_f1#q15|src_obm_2016_n2_f1__Q15]]
 
 
 
@@ -510,7 +510,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > L'angolo interno di qualsiasi poligono regolare con lati $n$ è $\frac{180^\circ(n-2)}{n}$. Di conseguenza $\angle ABL=90^\circ$, $\angle LBC=135^\circ$, $\angle ABC=135^\circ$, $\angle CBI=27^\circ$. Poiché $LB=BC=BI$, i triangoli $LBC$ e $CBI$ sono uguali a base $LC$ e $CI$. Quindi $$x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ.$$ Qual è il valore di $x$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q16]]
+[[Quesiti/src_obm_2016_n2_f1#q16|src_obm_2016_n2_f1__Q16]]
 
 
 
@@ -541,7 +541,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > La somma totale delle pietre è $1+2+3+\dots+9+11=56$. Per che le pile abbiano un valore comune $k$, questo deve dividere $56$; e poiché alcune pile hanno già pietre $11$, ogni pile finale ha almeno $11$, quindi i valori possibili sono $14$, $28$ o $56$. Per ottenere pile di $28$ occorrono due operazioni, pile di $56$ meno e pile di $14$ occorrono $6$ operazioni, che possono essere eseguite come $$(11+3),(9+5),(8+6),(7+4+2+1).$$ Qual è il numero minimo di operazioni? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q17]]
+[[Quesiti/src_obm_2016_n2_f1#q17|src_obm_2016_n2_f1__Q17]]
 
 
 
@@ -572,7 +572,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > $x$ e $y$ siano le dimensioni del rettangolo e $n$ il lato del quadrato. Da $2x+2y=58$, $x+y=29$. Supponendo $x\le y$, le dimensioni possibili sono $(x,y)\in\{(1,28),(2,27),(3,26),\dots,(14,15)\}$. Di questi, solo $(4,25)$ ha prodotto un quadrato perfetto, quindi $n=\sqrt{4\cdot 25}=10$. Qual è il valore di $n$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q18]]
+[[Quesiti/src_obm_2016_n2_f1#q18|src_obm_2016_n2_f1__Q18]]
 
 
 
@@ -585,7 +585,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 
 > Let $I$ be the intersection of $AD$ and $BF$ and $O$ the centre of the circle. Since $FA=AB=AY=AX$, $FB$ is parallel to $XY$, so triangles $RSA$ and $XYA$ are similar and $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ since $\angle ABI=30^\circ$ and $AB=AO=OB$. Thus $SR=1$. What is the value of $SR$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__Q19.png]]
+![[src_obm_2016_n2_f1__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -604,10 +604,10 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 
 > Il $I$ è l'intersezione tra $AD$ e $BF$ e $O$ del centro del cerchio. Poiché $FA=AB=AY=AX$, $FB$ è parallelo a $XY$, quindi i triangoli $RSA$ e $XYA$ sono simili e $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ dal momento che $\angle ABI=30^\circ$ e $AB=AO=OB$. Quindi $SR=1$. Qual è il valore di $SR$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__Q19.png]]
+![[src_obm_2016_n2_f1__q19.png]]
 
 **Risposta:** A
-[[src_obm_2016_n2_f1__Q19]]
+[[Quesiti/src_obm_2016_n2_f1#q19|src_obm_2016_n2_f1__Q19]]
 
 
 
@@ -638,7 +638,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > In un insieme con elementi $n$ il numero di sottoinsiemi di due elementi è $\frac{n(n-1)}{2}$. $x$ e $y$ siano le quantità di numeri pari e impar nella lista di Janaina, con $x+y=10$. La condizione indicata dà $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy$. Rimpiazzando $y=10-x$ il rendimento $x^2-9x+10=0$, con soluzioni $x=1$ o $x=9$. Poiché $(x,y)=(9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$. Qual è il valore massimo di $x$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** E
-[[src_obm_2016_n2_f1__Q20]]
+[[Quesiti/src_obm_2016_n2_f1#q20|src_obm_2016_n2_f1__Q20]]
 
 
 
@@ -668,7 +668,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > Con lato quadrato $6$, $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$, dando $CH=2$ e $HB=CB-CH=4$. L'area $[CHAM]=[ACH]+[ACM]=\frac{3\cdot 6}{2}+\frac{2\cdot 6}{2}=15$. Per il teorema di Pitagore in triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Di conseguenza $\frac{[CHAM]}{[AEFG]}=\frac{15}{117}=\frac{5}{39}$. Qual è questo rapporto? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** A
-[[src_obm_2016_n2_f1__Q21]]
+[[Quesiti/src_obm_2016_n2_f1#q21|src_obm_2016_n2_f1__Q21]]
 
 
 
@@ -681,7 +681,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 
 > Since all the digits are nonzero, the repeated terms can be cancelled. In the first case $I^2=4$ so $I=2$, with possibilities $(S,I)=(1,2),(1,3),(2,1)$. Since $E$ differs from $I$ and $S$, there are $7$ choices for it. Building the table of resulting products $P$ and values $Z$ and excluding combinations where $Z$ equals an already chosen letter, there are $12$ distinct values for $P$: $6,10,12,14,15,16,18,20,21,24,28,36$. How many distinct values are there? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__Q22.png]]
+![[src_obm_2016_n2_f1__q22.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
@@ -700,10 +700,10 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 
 > Poiché tutte le cifre non sono zero, i termini ripetuti possono essere annullati. Nel primo caso $I^2=4$ quindi $I=2$, con possibilità $(S,I)=(1,2),(1,3),(2,1)$. Poiché $E$ differisce da $I$ e $S$, vi sono $7$ opzioni per esso. All'interno della tabella dei prodotti $P$ e dei valori $Z$ e escludendo le combinazioni in cui $Z$ è uguale a una lettera già scelta, ci sono $12$ valori distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28,36$. Quanti sono i valori distinti? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__Q22.png]]
+![[src_obm_2016_n2_f1__q22.png]]
 
 **Risposta:** A
-[[src_obm_2016_n2_f1__Q22]]
+[[Quesiti/src_obm_2016_n2_f1#q22|src_obm_2016_n2_f1__Q22]]
 
 
 
@@ -734,7 +734,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > Si noti che un mese ha $4$ o $5$ sabati e $365=7\cdot 52+1$, quindi un anno ha $52$ settimane complete più $1$ o $2$ giorni extra, a seconda se si tratta di un anno bisuale. Chiamare $x$ una variabile di conteggio, $5x+4(12-x)=52\Rightarrow x=4$ e $5x+4(12-x)=53\Rightarrow x=5$. Un anno ha $53$ sabati quando $1$ gennaio è sabato, o quando $2$ gennaio è sabato e l'anno è un anno bisuale (come in $2016$). Tabellare $1$ gennaio degli anni successivi: 2016 Sabato, 2017 Domenica, 2018 Lunedì, 2019 Martedì, 2020 Mercoledì, 2021 Venerdì, 2022 Sabato. Pertanto l'anno successivo con $53$ sabato è $2022$. Qual è il prossimo anno con $53$ sabato? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** E
-[[src_obm_2016_n2_f1__Q23]]
+[[Quesiti/src_obm_2016_n2_f1#q23|src_obm_2016_n2_f1__Q23]]
 
 
 
@@ -765,7 +765,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > Considerare un numero di almeno quattro cifre $\overline{abcd}$ e la differenza $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Analizzando le possibili scelte digitali e contando quelle per le quali la differenza è lo stesso valore modulo la condizione richiesta, si scopre che ci sono esattamente $100$ tali numeri. Quanti sono questi numeri? (Nota: il testo della soluzione sorgente di questa voce è parzialmente distorto; dichiarazione ricostruita dal contesto. Le opzioni multiple di scelta originali non sono riprodotte; la chiave di risposta dà $100$.)
 
 **Risposta:** C
-[[src_obm_2016_n2_f1__Q24]]
+[[Quesiti/src_obm_2016_n2_f1#q24|src_obm_2016_n2_f1__Q24]]
 
 
 
@@ -796,4 +796,4 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > La sequenza $BBBPBPPP$ non ha due subsequenze equivalenti. Considerare qualsiasi sequenza di perle $9$ (ogni perla è nera $B$ o bianca $P$). Caso 1: se non ci sono tre perle consecutive dello stesso colore, o le perle si alternano strettamente (e ogni blocco di perle consecutive $5$ contiene due sequenze equivalenti), o ci sono due perle equivalenti adiacenti e un blocco vicino di $5$ contiene una sequenza di tipo $PBBP$, dando due sequenze equivalenti. Caso 2: se ci sono tre perle consecutive $BBB$ e una continuazione ad un estremo non è del colore opposto, immediatamente appaiono due sequenze equivalenti; se entrambe le continuità sono del colore opposto e non ad un estremo, il blocco $PBBBP$ contiene due sequenze equivalenti; se $BBB$ si trova ad un estremo (diciamo a sinistra) senza tre lettere uguali al di fuori degli estremi, le possibili continuazioni $BBBPPB$, $BBBPBB$ danno tre sequenze equivalenti, mentre l'unica continuazione che evita due sequenze equivalenti è $BBBPBPPP$, dopo di che qualsiasi perla aggiunta all'estremo destro genera due sequenze equivalenti. Pertanto ogni sequenza di perle $9$ possiede due sequenze equivalenti. Prove questo. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
 
 **Risposta:** D
-[[src_obm_2016_n2_f1__Q25]]
+[[Quesiti/src_obm_2016_n2_f1#q25|src_obm_2016_n2_f1__Q25]]

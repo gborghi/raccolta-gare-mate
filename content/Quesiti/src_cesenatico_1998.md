@@ -37,7 +37,7 @@ level: nazionale
 
 > If $x$ is a positive real number, $[x]$ denotes the whole part of $x$, i.e. the maximum integer $n \leq x$. Calculate the sum $$\sum_{n=1}^{1\,000\,000} \left[\sqrt{n}\right] = \left[\sqrt{1}\right] + \left[\sqrt{2}\right] + \cdots + \left[\sqrt{999\,999}\right] + \left[\sqrt{1\,000\,000}\right].$$ [The student may use, if he believes so, the following formula: $$\sum_{i=1}^{k} i^2 = \frac{k(k+1)(2k+1)}{6},$$ for which proof is not required.]
 
-[[src_cesenatico_1998__Q01]]
+[[Quesiti/src_cesenatico_1998#q01|src_cesenatico_1998__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: nazionale
 
 > It turns out that in every convex polyhedron there are at least two faces with the same number of sides.
 
-[[src_cesenatico_1998__Q02]]
+[[Quesiti/src_cesenatico_1998#q02|src_cesenatico_1998__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Chances are you'll be playing poker tonight.
 
 > Alberto wants to organize a poker game for tonight. He knows that Bruno and Barbara go to the gym together one in three evenings, and that Carla, Corrado, Dario and David are engaged one in two evenings (but not necessarily on the same days). Moreover, he knows that Darius does not want to play with David because he has taken the girl away from him. Since it takes at least four people (including Alberto) to play poker, what is the probability that it will be played tonight?
 
-[[src_cesenatico_1998__Q03]]
+[[Quesiti/src_cesenatico_1998#q03|src_cesenatico_1998__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Chances are you'll be playing poker tonight.
 
 > Whether $ABCD$ a trapezoid with a greater base $AB$ such that the diagonal $AC$ and $BD$ are perpendicular. either $O$ the center of circumference surrounding the $ABC$ triangle and $E$ the intersection point between the $OB$ straight line and the $CD$ straight line. Show that $$BC^2 = CD \cdot CE.$$
 
-[[src_cesenatico_1998__Q04]]
+[[Quesiti/src_cesenatico_1998#q04|src_cesenatico_1998__Q04]]
 
 
 
@@ -155,7 +155,7 @@ Chances are you'll be playing poker tonight.
 > 
 > (ii) Is there a polynomial $P(x)$ that satisfies the condition $(\star)$ and an integer $n$ such that $P(n) = 1998$?
 
-[[src_cesenatico_1998__Q05]]
+[[Quesiti/src_cesenatico_1998#q05|src_cesenatico_1998__Q05]]
 
 
 
@@ -197,4 +197,4 @@ Chances are you'll be playing poker tonight.
 > 
 > (iii) Does the statement (ii) remain true if the adverb * is completely removed *?
 
-[[src_cesenatico_1998__Q06]]
+[[Quesiti/src_cesenatico_1998#q06|src_cesenatico_1998__Q06]]

@@ -21,7 +21,7 @@ level: OBM Nível 3
 > 
 > (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
 
-![[src_obm_2007_n3_f1__Q01.png]]
+![[src_obm_2007_n3_f1__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -40,10 +40,10 @@ level: OBM Nível 3
 > 
 > (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
 
-![[src_obm_2007_n3_f1__Q01.png]]
+![[src_obm_2007_n3_f1__q01.png]]
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q01]]
+[[Quesiti/src_obm_2007_n3_f1#q01|src_obm_2007_n3_f1__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: OBM Nível 3
 > (A) $8999$ \quad (B) $8874$ \quad (C) $7875$ \quad (D) $8000$ \quad (E) $7750$
 
 **Risposta:** C
-[[src_obm_2007_n3_f1__Q02]]
+[[Quesiti/src_obm_2007_n3_f1#q02|src_obm_2007_n3_f1__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 3
 > (A) $180$ \quad (B) $150$ \quad (C) $120$ \quad (D) $182$ \quad (E) $75$
 
 **Risposta:** A
-[[src_obm_2007_n3_f1__Q03]]
+[[Quesiti/src_obm_2007_n3_f1#q03|src_obm_2007_n3_f1__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: OBM Nível 3
 > 
 > (A) West \quad (B) East \quad (C) North \quad (D) South \quad (E) Up
 
-![[src_obm_2007_n3_f1__Q04.png]]
+![[src_obm_2007_n3_f1__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -143,10 +143,10 @@ level: OBM Nível 3
 > 
 > (A) Quadrata ovest (B) Quadrata est (C) Quadrata nord (D) Quadrata sud (E) Su
 
-![[src_obm_2007_n3_f1__Q04.png]]
+![[src_obm_2007_n3_f1__q04.png]]
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q04]]
+[[Quesiti/src_obm_2007_n3_f1#q04|src_obm_2007_n3_f1__Q04]]
 
 
 
@@ -179,7 +179,7 @@ level: OBM Nível 3
 > (A) $36$ \quad (B) $45$ \quad (C) $24$ \quad (D) $15$ \quad (E) $72$
 
 **Risposta:** A
-[[src_obm_2007_n3_f1__Q05]]
+[[Quesiti/src_obm_2007_n3_f1#q05|src_obm_2007_n3_f1__Q05]]
 
 
 
@@ -211,7 +211,7 @@ level: OBM Nível 3
 > (A) $9.7$ \quad (B) $90.3$ \quad (C) $99.7$ \quad (D) $99.9$ \quad (E) $970$
 
 **Risposta:** C
-[[src_obm_2007_n3_f1__Q06]]
+[[Quesiti/src_obm_2007_n3_f1#q06|src_obm_2007_n3_f1__Q06]]
 
 
 
@@ -246,7 +246,7 @@ level: OBM Nível 3
 > (A) $200.007$ \quad (B) $20.000.007$ \quad (C) $2.000.000.007$ \quad (D) $200.000.000.007$ \quad (E) $20.000.000.000.007$
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q07]]
+[[Quesiti/src_obm_2007_n3_f1#q07|src_obm_2007_n3_f1__Q07]]
 
 
 
@@ -280,7 +280,7 @@ level: OBM Nível 3
 > (A) $2007$ \quad (B) $309$ \quad (C) $155$ \quad (D) $25$ \quad (E) $5$
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q08]]
+[[Quesiti/src_obm_2007_n3_f1#q08|src_obm_2007_n3_f1__Q08]]
 
 
 
@@ -295,7 +295,7 @@ level: OBM Nível 3
 > 
 > (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
 
-![[src_obm_2007_n3_f1__Q09.png]]
+![[src_obm_2007_n3_f1__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -314,10 +314,10 @@ level: OBM Nível 3
 > 
 > (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
 
-![[src_obm_2007_n3_f1__Q09.png]]
+![[src_obm_2007_n3_f1__q09.png]]
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q09]]
+[[Quesiti/src_obm_2007_n3_f1#q09|src_obm_2007_n3_f1__Q09]]
 
 
 
@@ -358,7 +358,7 @@ level: OBM Nível 3
 > (A) $18$ \quad (B) $41$ \quad (C) $45$ \quad (D) $50$ \quad (E) $65$
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q10]]
+[[Quesiti/src_obm_2007_n3_f1#q10|src_obm_2007_n3_f1__Q10]]
 
 
 
@@ -395,7 +395,7 @@ level: OBM Nível 3
 > (A) $48$ \quad (B) $60$ \quad (C) $72$ \quad (D) $96$ \quad (E) $120$
 
 **Risposta:** B
-[[src_obm_2007_n3_f1__Q11]]
+[[Quesiti/src_obm_2007_n3_f1#q11|src_obm_2007_n3_f1__Q11]]
 
 
 
@@ -432,7 +432,7 @@ level: OBM Nível 3
 > (A) $0<\tan\alpha<\dfrac{1}{6}$ \quad (B) $\dfrac{1}{6}<\tan\alpha<\dfrac{1}{5}$ \quad (C) $\dfrac{1}{5}<\tan\alpha<\dfrac{1}{4}$ \quad (D) $\dfrac{1}{4}<\tan\alpha<\dfrac{1}{3}$ \quad (E) $\dfrac{1}{3}<\tan\alpha<1$
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q12]]
+[[Quesiti/src_obm_2007_n3_f1#q12|src_obm_2007_n3_f1__Q12]]
 
 
 
@@ -468,7 +468,7 @@ level: OBM Nível 3
 > (A) $-1$ \quad (B) $-0.5$ \quad (C) $0$ \quad (D) $0.5$ \quad (E) $2$
 
 **Risposta:** B
-[[src_obm_2007_n3_f1__Q13]]
+[[Quesiti/src_obm_2007_n3_f1#q13|src_obm_2007_n3_f1__Q13]]
 
 
 
@@ -505,7 +505,7 @@ level: OBM Nível 3
 > (A) $-2$ \quad (B) $-1$ \quad (C) $0$ \quad (D) $1$ \quad (E) $2$
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q14]]
+[[Quesiti/src_obm_2007_n3_f1#q14|src_obm_2007_n3_f1__Q14]]
 
 
 
@@ -537,7 +537,7 @@ level: OBM Nível 3
 > (A) $[-1,+\infty[$ \quad (B) $]-\infty,1]$ \quad (C) $[-3,2]$ \quad (D) $[-2,3]$ \quad (E) $\mathbb{Z}$
 
 **Risposta:** A
-[[src_obm_2007_n3_f1__Q15]]
+[[Quesiti/src_obm_2007_n3_f1#q15|src_obm_2007_n3_f1__Q15]]
 
 
 
@@ -570,7 +570,7 @@ level: OBM Nível 3
 > (A) $\dfrac{3\sqrt{3}}{8}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\sqrt{2}}{3}$ \quad (D) $\dfrac{\sqrt{2}}{2}$ \quad (E) $\dfrac{1}{2}$
 
 **Risposta:** A
-[[src_obm_2007_n3_f1__Q16]]
+[[Quesiti/src_obm_2007_n3_f1#q16|src_obm_2007_n3_f1__Q16]]
 
 
 
@@ -605,7 +605,7 @@ level: OBM Nível 3
 > (A) $40$ \quad (B) $41$ \quad (C) $42$ \quad (D) $43$ \quad (E) $44$
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q17]]
+[[Quesiti/src_obm_2007_n3_f1#q17|src_obm_2007_n3_f1__Q17]]
 
 
 
@@ -640,7 +640,7 @@ level: OBM Nível 3
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $-1$ \quad (E) $-3$
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q18]]
+[[Quesiti/src_obm_2007_n3_f1#q18|src_obm_2007_n3_f1__Q18]]
 
 
 
@@ -681,7 +681,7 @@ level: OBM Nível 3
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
 **Risposta:** B
-[[src_obm_2007_n3_f1__Q19]]
+[[Quesiti/src_obm_2007_n3_f1#q19|src_obm_2007_n3_f1__Q19]]
 
 
 
@@ -714,7 +714,7 @@ level: OBM Nível 3
 > (A) $8$ \quad (B) $9$ \quad (C) $10$ \quad (D) $11$ \quad (E) $12$
 
 **Risposta:** B
-[[src_obm_2007_n3_f1__Q20]]
+[[Quesiti/src_obm_2007_n3_f1#q20|src_obm_2007_n3_f1__Q20]]
 
 
 
@@ -746,7 +746,7 @@ level: OBM Nível 3
 > (A) $02\mathrm{h}30$ \quad (B) $06\mathrm{h}20$ \quad (C) $05\mathrm{h}40$ \quad (D) $08\mathrm{h}50$ \quad (E) $09\mathrm{h}55$
 
 **Risposta:** E
-[[src_obm_2007_n3_f1__Q21]]
+[[Quesiti/src_obm_2007_n3_f1#q21|src_obm_2007_n3_f1__Q21]]
 
 
 
@@ -779,7 +779,7 @@ Il più grande divisore comune di 1221,2332,3443,...,8998
 > (A) $3$ \quad (B) $33$ \quad (C) $37$ \quad (D) $11$ \quad (E) $101$
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q22]]
+[[Quesiti/src_obm_2007_n3_f1#q22|src_obm_2007_n3_f1__Q22]]
 
 
 
@@ -796,7 +796,7 @@ Il più grande divisore comune di 1221,2332,3443,...,8998
 > 
 > (A) $1$ \quad (B) $\dfrac{6}{7}$ \quad (C) $\dfrac{3}{4}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{3}{5}$
 
-![[src_obm_2007_n3_f1__Q23.png]]
+![[src_obm_2007_n3_f1__q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -817,10 +817,10 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 > 
 > (A) $1$ \quad (B) $\dfrac{6}{7}$ \quad (C) $\dfrac{3}{4}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{3}{5}$
 
-![[src_obm_2007_n3_f1__Q23.png]]
+![[src_obm_2007_n3_f1__q23.png]]
 
 **Risposta:** B
-[[src_obm_2007_n3_f1__Q23]]
+[[Quesiti/src_obm_2007_n3_f1#q23|src_obm_2007_n3_f1__Q23]]
 
 
 
@@ -853,7 +853,7 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 > (A) Multiplice di $3$ \quad (B) Prime \quad (C) Con ultima cifra uguale a $7$ \quad (D) La cui somma di cifre è $10$ \quad (E) Multiplice di $7$
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q24]]
+[[Quesiti/src_obm_2007_n3_f1#q24|src_obm_2007_n3_f1__Q24]]
 
 
 
@@ -890,4 +890,4 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 > (A) $44$ \quad (B) $54$ \quad (C) $64$ \quad (D) $75$ \quad (E) $84$
 
 **Risposta:** D
-[[src_obm_2007_n3_f1__Q25]]
+[[Quesiti/src_obm_2007_n3_f1#q25|src_obm_2007_n3_f1__Q25]]

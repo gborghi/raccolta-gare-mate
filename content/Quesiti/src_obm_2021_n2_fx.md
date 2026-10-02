@@ -45,7 +45,7 @@ level: OBM Nível 2
 > 
 > b) Qual è la maggiore lonjura possibile tra i numeri da $3$ a $1000$?
 
-[[src_obm_2021_n2_fx__Q01]]
+[[Quesiti/src_obm_2021_n2_fx#q01|src_obm_2021_n2_fx__Q01]]
 
 
 
@@ -80,7 +80,7 @@ level: OBM Nível 2
 > 
 > b) Indicare che le righe $A_2A_3$, $B_2B_3$ e $C_2C_3$ sono simultanee.
 
-[[src_obm_2021_n2_fx__Q02]]
+[[Quesiti/src_obm_2021_n2_fx#q02|src_obm_2021_n2_fx__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: OBM Nível 2
 
 > In un campionato di calcio con squadre $2021$, le squadre giocano l'una contro l'altra, tutte giocando esattamente una volta contro ciascuna delle altre. Alla fine di ogni partita, in caso di pareggio, ogni squadra guadagna $1$ punti; altrimenti, il vincitore della partita guadagna $3$ punti e il perdente $0$ punti. Alla fine del campionato, le due squadre con i punteggi più alti disputano la finale. In caso di parità di punti, il risultato della prima partita giocata tra loro decide chi ha il vantaggio; cioè, in qualsiasi parità di punti finali il vincitore testa a testa ha il vantaggio. Il club di calcio OBM ha vinto la sua prima partita, ed è noto che, essendo il campione della precedente edizione, si avvale di qualsiasi pareggio nei punti finali. Qual è il punteggio finale minimo per far sì che l'OBM Football Club abbia qualche possibilità di raggiungere la finale?
 
-[[src_obm_2021_n2_fx__Q03]]
+[[Quesiti/src_obm_2021_n2_fx#q03|src_obm_2021_n2_fx__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: OBM Nível 2
 > 
 > Determine the ratio $\dfrac{a}{c}$.
 
-![[src_obm_2021_n2_fx__Q04.png]]
+![[src_obm_2021_n2_fx__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -140,9 +140,9 @@ level: OBM Nível 2
 > 
 > Determinare il rapporto $\dfrac{a}{c}$.
 
-![[src_obm_2021_n2_fx__Q04.png]]
+![[src_obm_2021_n2_fx__q04.png]]
 
-[[src_obm_2021_n2_fx__Q04]]
+[[Quesiti/src_obm_2021_n2_fx#q04|src_obm_2021_n2_fx__Q04]]
 
 
 
@@ -185,7 +185,7 @@ level: OBM Nível 2
 > 
 > Determina tutti i triplici miranaha.
 
-[[src_obm_2021_n2_fx__Q05]]
+[[Quesiti/src_obm_2021_n2_fx#q05|src_obm_2021_n2_fx__Q05]]
 
 
 
@@ -221,4 +221,4 @@ level: OBM Nível 2
 > 
 > *Osservazione: * il simbolo $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio, se $\alpha=\sqrt{3}$, da $\sqrt{3}=1{,}73\ldots$ abbiamo $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ e così via. In questo caso $A(\alpha)=\{1,3,5,6,\ldots\}$.
 
-[[src_obm_2021_n2_fx__Q06]]
+[[Quesiti/src_obm_2021_n2_fx#q06|src_obm_2021_n2_fx__Q06]]

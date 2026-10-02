@@ -41,7 +41,7 @@ level: kangourou
 > The numbers 1, 2, 3 and 4 are written one for each cell in a 2x2 table. If the sums of the numbers written in each row and those of the numbers written in each column are calculated, two of the values obtained are 4 and 5. What are the other two? A) 6 e 6 B) 3 e 5 C) 4 e 5 D) 4 e 6 E) 5 e 6
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2019_student_marzo#q01|src_kangourou_2019_student_marzo__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2019_student_marzo#q02|src_kangourou_2019_student_marzo__Q02]]
 
 
 
@@ -139,7 +139,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2019_student_marzo#q03|src_kangourou_2019_student_marzo__Q03]]
 
 
 
@@ -183,7 +183,7 @@ How many beads has a pyramid with 23 triangular faces
 >
 
 **Answer:** C
-[[src_kangourou_2019_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2019_student_marzo#q04|src_kangourou_2019_student_marzo__Q04]]
 
 
 
@@ -224,7 +224,7 @@ How many beads has a pyramid with 23 triangular faces
 > Three four-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlaid. We know that the sum of the three numbers is 11126. What are the hidden numbers? A) 1, 4 e 7. B) 3, 3 e 3. C) 4, 5 e 6. D) 4, 5 e 7. (e) None of the preceding three.
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2019_student_marzo#q05|src_kangourou_2019_student_marzo__Q05]]
 
 
 
@@ -271,7 +271,7 @@ How many beads has a pyramid with 23 triangular faces
 > E) 31
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2019_student_marzo#q06|src_kangourou_2019_student_marzo__Q06]]
 
 
 
@@ -318,7 +318,7 @@ How many beads has a pyramid with 23 triangular faces
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2019_student_marzo#q07|src_kangourou_2019_student_marzo__Q07]]
 
 
 
@@ -369,7 +369,7 @@ How many beads has a pyramid with 23 triangular faces
 > E)
 
 **Answer:** C
-[[src_kangourou_2019_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2019_student_marzo#q08|src_kangourou_2019_student_marzo__Q08]]
 
 
 
@@ -404,7 +404,7 @@ How many beads has a pyramid with 23 triangular faces
 > Michele wants to define a new operation on real numbers by putting x * y = y  x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equality must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2019_student_marzo#q09|src_kangourou_2019_student_marzo__Q09]]
 
 
 
@@ -451,7 +451,7 @@ How many beads has a pyramid with 23 triangular faces
 > (E) 16 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2019_student_marzo#q10|src_kangourou_2019_student_marzo__Q10]]
 
 
 
@@ -494,7 +494,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 > E) a power of 3 greater than 36.
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2019_student_marzo#q11|src_kangourou_2019_student_marzo__Q11]]
 
 
 
@@ -544,7 +544,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 >
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2019_student_marzo#q12|src_kangourou_2019_student_marzo__Q12]]
 
 
 
@@ -590,7 +590,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 > A tank with the shape of a rectangular parallel piped contains 120 m3 of water, which only partially fills it. Depending on the face of the ground-based paralelepiped, the height of the water here is 2, 3 or 5 metres, as shown in the figures, which are not in scale. How many cubic meters is the volume of the tank? A) 160 B) 180 C) 200 D) 220 E) 240
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2019_student_marzo#q13|src_kangourou_2019_student_marzo__Q13]]
 
 
 
@@ -658,7 +658,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 > E) The man is 1.75 or 1.70.
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2019_student_marzo#q14|src_kangourou_2019_student_marzo__Q14]]
 
 
 
@@ -712,7 +712,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 > E) 24/5
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2019_student_marzo#q15|src_kangourou_2019_student_marzo__Q15]]
 
 
 
@@ -766,7 +766,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 >
 
 **Answer:** C
-[[src_kangourou_2019_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2019_student_marzo#q16|src_kangourou_2019_student_marzo__Q16]]
 
 
 
@@ -805,7 +805,7 @@ The probability that Mary will win by fishing for the fruit candy
 > C) 1/2 D) 5/6 E) 1/3
 
 **Answer:** A
-[[src_kangourou_2019_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2019_student_marzo#q17|src_kangourou_2019_student_marzo__Q17]]
 
 
 
@@ -847,7 +847,7 @@ The probability that Mary will win by fishing for the fruit candy
 > Two squares of sides respectively a and b (with a < b) lie on the same plane and have only one vertex in common with the points of one of the sides of the minor square that emerges from it, as shown in the figure. What is the area of the shaded triangle in the figure? A) √ab B) a2/2 C) b2/2 D) (a2 + b2)/4 E) (a2 + b2)/2
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2019_student_marzo#q18|src_kangourou_2019_student_marzo__Q18]]
 
 
 
@@ -890,7 +890,7 @@ The probability that Mary will win by fishing for the fruit candy
 > D) 20. E) 25
 
 **Answer:** A
-[[src_kangourou_2019_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2019_student_marzo#q19|src_kangourou_2019_student_marzo__Q19]]
 
 
 
@@ -943,7 +943,7 @@ The probability that Mary will win by fishing for the fruit candy
 > E) 5 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2019_student_marzo#q20|src_kangourou_2019_student_marzo__Q20]]
 
 
 
@@ -980,7 +980,7 @@ The probability that Mary will win by fishing for the fruit candy
 > E) a5 + 1= b.
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2019_student_marzo#q21|src_kangourou_2019_student_marzo__Q21]]
 
 
 
@@ -1028,7 +1028,7 @@ The probability that Mary will win by fishing for the fruit candy
 >
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2019_student_marzo#q22|src_kangourou_2019_student_marzo__Q22]]
 
 
 
@@ -1110,7 +1110,7 @@ The probability that Mary will win by fishing for the fruit candy
 > E) 22
 
 **Answer:** C
-[[src_kangourou_2019_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2019_student_marzo#q23|src_kangourou_2019_student_marzo__Q23]]
 
 
 
@@ -1156,7 +1156,7 @@ The probability that Mary will win by fishing for the fruit candy
 > E) 20
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2019_student_marzo#q24|src_kangourou_2019_student_marzo__Q24]]
 
 
 
@@ -1195,7 +1195,7 @@ The probability that Mary will win by fishing for the fruit candy
 > E) It can take on several distinct values.
 
 **Answer:** A
-[[src_kangourou_2019_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2019_student_marzo#q25|src_kangourou_2019_student_marzo__Q25]]
 
 
 
@@ -1241,7 +1241,7 @@ How many integers z with z^2z-3 is the first
 > E) Infinite
 
 **Answer:** D
-[[src_kangourou_2019_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2019_student_marzo#q26|src_kangourou_2019_student_marzo__Q26]]
 
 
 
@@ -1321,7 +1321,7 @@ How many integers z with z^2z-3 is the first
 > In the square ABCD a DEFB polygon with DE and FB perpendicular to FE has been drawn, as shown in the figure. If the segments DE, EF and FB are 5, 1 and 2 respectively, what is the length of the side of the square? (A) 3√2 B) 7√2/2 C) 11/2 D) 5√2 E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2019_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2019_student_marzo#q27|src_kangourou_2019_student_marzo__Q27]]
 
 
 
@@ -1364,7 +1364,7 @@ How many integers z with z^2z-3 is the first
 > D) 400 E) 49
 
 **Answer:** C
-[[src_kangourou_2019_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2019_student_marzo#q28|src_kangourou_2019_student_marzo__Q28]]
 
 
 
@@ -1413,7 +1413,7 @@ How many integers z with z^2z-3 is the first
 >
 
 **Answer:** B
-[[src_kangourou_2019_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2019_student_marzo#q29|src_kangourou_2019_student_marzo__Q29]]
 
 
 
@@ -1474,4 +1474,4 @@ How many integers z with z^2z-3 is the first
 >
 
 **Answer:** C
-[[src_kangourou_2019_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2019_student_marzo#q30|src_kangourou_2019_student_marzo__Q30]]

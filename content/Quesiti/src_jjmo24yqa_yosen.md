@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > Triangle $ABC$ and rectangle $DFGE$ are positioned as shown in the figure, with $BC = 8$ and $FG = 4$. Segment $DE$ intersects segments $AF$ and $AG$ at points $P$ and $Q$ respectively. The areas of triangles $DFP$ and $EGQ$ are $1$ and $2$, respectively. Find the area of triangle $ABC$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo24yqa_yosen__Q01.png]]
+![[src_jjmo24yqa_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: JJMO Yosen
 
 > Il triangolo $ABC$ e il rettangolo $DFGE$ sono posizionati come mostrato nella figura, con $BC = 8$ e $FG = 4$. Il segmento $DE$ interseca i segmenti $AF$ e $AG$ rispettivamente ai punti $P$ e $Q$. Le superfici dei triangoli $DFP$ e $EGQ$ sono rispettivamente $1$ e $2$. Trova l'area del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo24yqa_yosen__Q01.png]]
+![[src_jjmo24yqa_yosen__q01.png]]
 
 **Risposta:** 24
-[[src_jjmo24yqa_yosen__Q01]]
+[[Quesiti/src_jjmo24yqa_yosen#q01|src_jjmo24yqa_yosen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JJMO Yosen
 > $a, b, c, d$ siano integri separati in coppia, ciascuno da $1$ a $4$. Per un numero intero positivo $n$ $P = n(a+b)(a+b+c)(a+b+c+d)$. Dato che $P$ è un quadrato perfetto, trovare il valore massimo possibile di $P$.
 
 **Risposta:** 1600
-[[src_jjmo24yqa_yosen__Q02]]
+[[Quesiti/src_jjmo24yqa_yosen#q02|src_jjmo24yqa_yosen__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: JJMO Yosen
 > - Se $i$ è pari: la cifra in posizione $i+1$ (dal basso) è una delle cifre tra $1, 2, 3$ che appare più frequentemente tra le prime cifre $i$ (dal basso). - Se $i$ è odd: la cifra in posizione $i+1$ (dal basso) è una delle cifre tra $1, 2, 3$ che appare meno frequentemente tra le prime cifre $i$ (dal basso).
 
 **Risposta:** 3 \cdot 2^{508}
-[[src_jjmo24yqa_yosen__Q03]]
+[[Quesiti/src_jjmo24yqa_yosen#q03|src_jjmo24yqa_yosen__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: JJMO Yosen
 > Un intero positivo è chiamato **semi-integer** se la sua media digitali (la somma delle sue cifre divisa per il numero di cifre) non è un intero. Ad esempio, $2026$ è un seminteger perché $\frac{2+0+2+6}{4} = \frac{10}{4}$ non è un intero. Trovare il più piccolo intero positivo $n$ in modo tale che ognuno di $n, n+1, n+2, \ldots, n+7$ sia un semi-integer.
 
 **Risposta:** 10046
-[[src_jjmo24yqa_yosen__Q04]]
+[[Quesiti/src_jjmo24yqa_yosen#q04|src_jjmo24yqa_yosen__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: JJMO Yosen
 > 
 > Assignments that coincide under rotation or reflection are still counted as distinct.
 
-![[src_jjmo24yqa_yosen__Q05.png]]
+![[src_jjmo24yqa_yosen__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -170,10 +170,10 @@ level: JJMO Yosen
 > 
 > Le assegnazioni che coincidono sotto rotazione o riflessione sono ancora considerate come distinte.
 
-![[src_jjmo24yqa_yosen__Q05.png]]
+![[src_jjmo24yqa_yosen__q05.png]]
 
 **Risposta:** 6300
-[[src_jjmo24yqa_yosen__Q05]]
+[[Quesiti/src_jjmo24yqa_yosen#q05|src_jjmo24yqa_yosen__Q05]]
 
 
 
@@ -202,7 +202,7 @@ level: JJMO Yosen
 > Sul lato $BC$ del triangolo $ABC$ (esclusi i punti finali), ci sono due punti distinti $D$ e $E$ che soddisfano $BD = DE = EC$. I punti $P$ sul lato $AB$ e $Q$ sul lato $AC$ (entrambi esclusi i punti finali) sono scelti in modo che le linee $DP$ e $EQ$ siano entrambe parallele. Inoltre, $\angle BPD = \angle EQC$. Dato che $AP = 5$ e $PB = 14$, trovare la lunghezza di $AC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 23
-[[src_jjmo24yqa_yosen__Q06]]
+[[Quesiti/src_jjmo24yqa_yosen#q06|src_jjmo24yqa_yosen__Q06]]
 
 
 
@@ -215,7 +215,7 @@ level: JJMO Yosen
 
 > In the $xy$-plane, consider the $37$ lattice points (points whose coordinates are both integers) at distance at most $\sqrt{10}$ from the origin; call these **good points**. An arrangement places coins on one or more good points. A good point $(a,b)$ is called **well-covered** if there exists a good point $(c,d)$ bearing a coin such that $|a-c| = |b-d|$. A **safe arrangement** is an arrangement in which every good point is well-covered. Let $n$ be the minimum number of coins used in any safe arrangement. How many safe arrangements use exactly $n$ coins?
 
-![[src_jjmo24yqa_yosen__Q07.png]]
+![[src_jjmo24yqa_yosen__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -232,10 +232,10 @@ level: JJMO Yosen
 
 > Nel piano $xy$, considerate i punti reticolari $37$ (punti le cui coordinate sono entrambe enti) a distanza massima $\sqrt{10}$ dall'origine; chiamate questi **buoni punti**. Un accordo mette le monete su uno o più punti positivi. Un buon punto $(a,b)$ è chiamato ** ben coperto** se esiste un buon punto $(c,d)$ con una moneta del tipo $|a-c| = |b-d|$. Un sistema di sicurezza **** è un sistema in cui ogni punto positivo è ben coperto. $n$ deve essere il numero minimo di monete utilizzate in qualsiasi sistema di sicurezza. Quanti dispositivi di sicurezza utilizzano esattamente le monete $n$?
 
-![[src_jjmo24yqa_yosen__Q07.png]]
+![[src_jjmo24yqa_yosen__q07.png]]
 
 **Risposta:** 2928
-[[src_jjmo24yqa_yosen__Q07]]
+[[Quesiti/src_jjmo24yqa_yosen#q07|src_jjmo24yqa_yosen__Q07]]
 
 
 
@@ -266,7 +266,7 @@ level: JJMO Yosen
 > Nel triangolo $ABC$, $P$, $Q$, $R$ siano rispettivamente punti sui lati $BC$, $CA$, $AB$ (esclusi i punti finali), con $$BP : PC = 6 : 1, \quad CQ : QA = 5 : 2, \quad AR : RB = 4 : 3.$$ Supponiamo che il circoncircolo di ciascuno dei triangoli $ARQ$, $BPR$ e $CQP$ passi attraverso l'incentro del triangolo $PQR$. Trova il valore di $\dfrac{AB}{AC}$.
 
 **Risposta:** \frac{44}{31}
-[[src_jjmo24yqa_yosen__Q08]]
+[[Quesiti/src_jjmo24yqa_yosen#q08|src_jjmo24yqa_yosen__Q08]]
 
 
 
@@ -299,7 +299,7 @@ level: JJMO Yosen
 > Per ogni intero $i$ con $1 \le i \le 30$, esistono almeno $2$ interi $j$ con $1 \le j \le 30$ tali che $(i - j)(a_i - a_j) < 0$.
 
 **Risposta:** 113
-[[src_jjmo24yqa_yosen__Q09]]
+[[Quesiti/src_jjmo24yqa_yosen#q09|src_jjmo24yqa_yosen__Q09]]
 
 
 
@@ -336,7 +336,7 @@ level: JJMO Yosen
 > Quali sono i possibili valori di $\gcd$ dei due numeri rimasti sulla lavagna dopo tutte le operazioni $999$?
 
 **Risposta:** 1182
-[[src_jjmo24yqa_yosen__Q10]]
+[[Quesiti/src_jjmo24yqa_yosen#q10|src_jjmo24yqa_yosen__Q10]]
 
 
 
@@ -366,7 +366,7 @@ level: JJMO Yosen
 > Quanti array di integri $(a_1, a_2, \ldots, a_{56})$ soddisfano: per tutti gli integri $i, j$ con $1 \le i \le j \le 56$, $$-5 \le a_i + a_{i+1} + \cdots + a_j \le 6\,?$$
 
 **Risposta:** 57 \cdot 6^{56}
-[[src_jjmo24yqa_yosen__Q11]]
+[[Quesiti/src_jjmo24yqa_yosen#q11|src_jjmo24yqa_yosen__Q11]]
 
 
 
@@ -395,4 +395,4 @@ level: JJMO Yosen
 > Il quadrato $ABCD$ con lunghezza laterale $AB = 4$ è inciso in un cerchio. La linea attraverso $B$ parallela alla diagonale $AD$ incontra il segmento $AC$ al punto $E$, con $BE = 5$. La linea attraverso $C$ parallela alla diagonale $AD$ incontra le linee $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$, con $BP = BQ = 6$. Trova la lunghezza del segmento $EQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{22}{5}
-[[src_jjmo24yqa_yosen__Q12]]
+[[Quesiti/src_jjmo24yqa_yosen#q12|src_jjmo24yqa_yosen__Q12]]

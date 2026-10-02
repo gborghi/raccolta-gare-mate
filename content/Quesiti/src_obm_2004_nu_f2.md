@@ -45,7 +45,7 @@ level: OBM Nível Universitário
 > 
 > Calcolare $f(3)$.
 
-[[src_obm_2004_nu_f2__Q01]]
+[[Quesiti/src_obm_2004_nu_f2#q01|src_obm_2004_nu_f2__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: OBM Nível Universitário
 > 
 > *Rimarca: * Un insieme $E$ si chiama *numerable* se $E=\emptyset$ o se esiste una funzione surgettiva $f:\mathbb{N}\to E$.
 
-[[src_obm_2004_nu_f2__Q02]]
+[[Quesiti/src_obm_2004_nu_f2#q02|src_obm_2004_nu_f2__Q02]]
 
 
 
@@ -116,7 +116,7 @@ level: OBM Nível Universitário
 > 
 > Prova che, per due matrici invertibili reali $A$ e $B$, $$d(AB)\le\frac{\|AB\|}{\|A\|\cdot\|B\|}\,d(A)\cdot d(B).$$
 
-[[src_obm_2004_nu_f2__Q03]]
+[[Quesiti/src_obm_2004_nu_f2#q03|src_obm_2004_nu_f2__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível Universitário
 > 
 > Prova che esiste un polinomio $f(x_1,\ldots,x_k)$ con coefficienti interi come $f(P_j)=0$ per tutti $j$, $1\le j\le k$ e $\dfrac{f(Q)}{p}\notin\mathbb{Z}$.
 
-[[src_obm_2004_nu_f2__Q04]]
+[[Quesiti/src_obm_2004_nu_f2#q04|src_obm_2004_nu_f2__Q04]]
 
 
 
@@ -183,7 +183,7 @@ level: OBM Nível Universitário
 > 
 > Calcolare $\displaystyle\lim_{n\to\infty}\frac{|A_m|}{|B_m|}$ come funzione di $m$.
 
-[[src_obm_2004_nu_f2__Q05]]
+[[Quesiti/src_obm_2004_nu_f2#q05|src_obm_2004_nu_f2__Q05]]
 
 
 
@@ -216,4 +216,4 @@ level: OBM Nível Universitário
 > 
 > Prove che esiste $0\le t_0<t_1<2\pi$ tale che $$|\gamma(t_1)-\gamma(t_0)|\le\frac{1}{\pi}\min\{t_1-t_0,\,2\pi+t_0-t_1\}.$$
 
-[[src_obm_2004_nu_f2__Q06]]
+[[Quesiti/src_obm_2004_nu_f2#q06|src_obm_2004_nu_f2__Q06]]

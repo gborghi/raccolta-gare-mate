@@ -53,7 +53,7 @@ level: OBM Nível 1
 > 
 > c) La sequenza $S_3$ termina quando si ripete il primo termine. Quanti termini $S_3$ ha?
 
-[[src_obm_2006_n1_f3__Q01]]
+[[Quesiti/src_obm_2006_n1_f3#q01|src_obm_2006_n1_f3__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: OBM Nível 1
 > 
 > Determinare il valore di ciascun simbolo; cioè trovare questi valori e dimostrare che non esistono altre possibilità.
 
-[[src_obm_2006_n1_f3__Q02]]
+[[Quesiti/src_obm_2006_n1_f3#q02|src_obm_2006_n1_f3__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: OBM Nível 1
 > 
 > (b) In another competition, each participant shoots $3$ arrows. Curiously, there were no ties and all possible scores were achieved. How many participants were there in this competition?
 
-![[src_obm_2006_n1_f3__Q03.png]]
+![[src_obm_2006_n1_f3__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -129,9 +129,9 @@ level: OBM Nível 1
 > 
 > b) In un'altra gara, ogni partecipante sparerà frecce $3$. Curiosamente, non ci sono stati rapporti e tutti i punteggi possibili sono stati raggiunti. Quanti partecipanti c'erano in questa competizione?
 
-![[src_obm_2006_n1_f3__Q03.png]]
+![[src_obm_2006_n1_f3__q03.png]]
 
-[[src_obm_2006_n1_f3__Q03]]
+[[Quesiti/src_obm_2006_n1_f3#q03|src_obm_2006_n1_f3__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível 1
 > 
 > \textbf{Note:} besides drawing a $12$-gon with the maximum number of collinear vertices, remember to show that no other $12$-gon can have more collinear vertices than this one.
 
-![[src_obm_2006_n1_f3__Q04.png]]
+![[src_obm_2006_n1_f3__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -168,9 +168,9 @@ level: OBM Nível 1
 > 
 > \textbf{Nota:} oltre a disegnare un $12$-gon con il numero massimo di vertici collineari, ricorda di mostrare che nessun altro $12$-gon può avere più vertici collineari di questo.
 
-![[src_obm_2006_n1_f3__Q04.png]]
+![[src_obm_2006_n1_f3__q04.png]]
 
-[[src_obm_2006_n1_f3__Q04]]
+[[Quesiti/src_obm_2006_n1_f3#q04|src_obm_2006_n1_f3__Q04]]
 
 
 
@@ -192,7 +192,7 @@ level: OBM Nível 1
 > 
 > Determine the minimum total number of moves needed to finish the game. Show, step by step, how to move the pieces with this number of moves, and prove that it is not possible to finish the game with fewer moves.
 
-![[src_obm_2006_n1_f3__Q05.png]]
+![[src_obm_2006_n1_f3__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
@@ -212,6 +212,6 @@ level: OBM Nível 1
 > 
 > Determinare il numero minimo di mosse necessarie per finire la partita. Mostrate, passo dopo passo, come spostare i pezzi con questo numero di mosse, e dimostrate che non è possibile finire la partita con meno mosse.
 
-![[src_obm_2006_n1_f3__Q05.png]]
+![[src_obm_2006_n1_f3__q05.png]]
 
-[[src_obm_2006_n1_f3__Q05]]
+[[Quesiti/src_obm_2006_n1_f3#q05|src_obm_2006_n1_f3__Q05]]

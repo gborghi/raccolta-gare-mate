@@ -35,7 +35,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > The sum of this year The sum of 1  3 + 5  7 + 9  ... is 2013. How many addons are there?
 
 **Answer:** 2013
-[[src_kangourou_2013_squadre_f__Q01]]
+[[Quesiti/src_kangourou_2013_squadre_f#q01|src_kangourou_2013_squadre_f__Q01]]
 
 
 
@@ -77,7 +77,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > The numbered triangle A table of numbers looks like a triangle: in the figure you see a part of it. The last row is made up of integers from 1 to 10 inclusive; each number that appears in each row, up to the last row, is the sum of the two numbers that, in the next row, are one immediately to its left and the other immediately to its right. What is the only number that makes up the first line?
 
 **Answer:** 2816
-[[src_kangourou_2013_squadre_f__Q02]]
+[[Quesiti/src_kangourou_2013_squadre_f#q02|src_kangourou_2013_squadre_f__Q02]]
 
 
 
@@ -108,7 +108,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > A triangle ABC is inscribed in a centre circumference O such that the quadrilateral ABCO (its vertices are listed here in the anti-clockwise direction) is a triangle. How many degrees does the angle ABC measure?
 
 **Answer:** 120
-[[src_kangourou_2013_squadre_f__Q03]]
+[[Quesiti/src_kangourou_2013_squadre_f#q03|src_kangourou_2013_squadre_f__Q03]]
 
 
 
@@ -139,7 +139,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > Sequence 2, 3, 5, 6, 7, 10, ... contains all positive integers that are neither perfect squares nor perfect cubes. What number is 2013th in this sequence?
 
 **Answer:** 2067
-[[src_kangourou_2013_squadre_f__Q04]]
+[[Quesiti/src_kangourou_2013_squadre_f#q04|src_kangourou_2013_squadre_f__Q04]]
 
 
 
@@ -242,7 +242,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > A rectangle and a triangle. Watch the figure. KLM is a rectangle, each of the points P, Q, R and S is the middle point of the side of the rectangle on which it lies and T is the middle point of RS. If the area of the KLM rectangle is 70 square centimetres, how many square centimetres is the area of the PQT triangle?
 
 **Answer:** 1750
-[[src_kangourou_2013_squadre_f__Q05]]
+[[Quesiti/src_kangourou_2013_squadre_f#q05|src_kangourou_2013_squadre_f__Q05]]
 
 
 
@@ -273,7 +273,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > Read on the contrary What is the number of four significant digits ABCD (therefore with the number A of thousands other than 0) such that 4 × ABCD = DCBA?
 
 **Answer:** 2178
-[[src_kangourou_2013_squadre_f__Q06]]
+[[Quesiti/src_kangourou_2013_squadre_f#q06|src_kangourou_2013_squadre_f__Q06]]
 
 
 
@@ -304,7 +304,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 > Figure divides figure How many are the (positive) numbers of three digits (significant) abc such that a is divisible by b and b is divisible by c?
 
 **Answer:** 44
-[[src_kangourou_2013_squadre_f__Q07]]
+[[Quesiti/src_kangourou_2013_squadre_f#q07|src_kangourou_2013_squadre_f__Q07]]
 
 
 
@@ -342,7 +342,7 @@ How many minutes has Emma walked (solar time)
 > There's only one road from Louis' house to Emma's. Every morning Luigi leaves his home by car and arrives at Emma's house at 9:00 a.m. On the morning of 28 October, Emma forgot that during the night the transition from legal time to solar time had taken place: she presented herself at 8.00 at the door of the house and, not seeing Luigi coming, she walked along the road going to meet Luigi's car. After a while she met the car that was going to pick her up: immediately Luigi stopped and reversed the march, Emma got on and the two arrived at Luigi's house 12 minutes early than usual. Louis drives at constant speed and no time was lost in the operation of reversing the march and taking Emma aboard. How many minutes did Emma walk?
 
 **Answer:** 54
-[[src_kangourou_2013_squadre_f__Q08]]
+[[Quesiti/src_kangourou_2013_squadre_f#q08|src_kangourou_2013_squadre_f__Q08]]
 
 
 
@@ -423,7 +423,7 @@ How many minutes has Emma walked (solar time)
 > The angle In the triangle ABC shown in the figure, the points M and on the side AB are determined so that the segment A is as long as the segment AC and the segment BM is as long as the segment BC. The MC angle is 41 degrees. How many degrees does the ACB angle measure?
 
 **Answer:** 98
-[[src_kangourou_2013_squadre_f__Q09]]
+[[Quesiti/src_kangourou_2013_squadre_f#q09|src_kangourou_2013_squadre_f__Q09]]
 
 
 
@@ -454,7 +454,7 @@ How many minutes has Emma walked (solar time)
 > The coefficient by rotating the product (1  x) 1  2x) 1  3x) ... (1  10x) and collecting similar terms you get an expression of the type A + Bx + Cx2 + Dx3 +... + Mx10. How much is C?
 
 **Answer:** 1320
-[[src_kangourou_2013_squadre_f__Q10]]
+[[Quesiti/src_kangourou_2013_squadre_f#q10|src_kangourou_2013_squadre_f__Q10]]
 
 
 
@@ -488,7 +488,7 @@ How many minutes has Emma walked (solar time)
 > White cubes and black cubes We have a lot of white and black cubes, all of the same size, and we want to make a parallel piped formed from 2013 cubes so that, in each of the three directions, each parallel to a spike, there's more than one cubes and alternate white cubes and black cubes. If we start by placing a black cube on one of the eight vertices of the parallelepiped, how many of the black cubes will be visible on the outer surface of the parallelepiped?
 
 **Answer:** 742
-[[src_kangourou_2013_squadre_f__Q11]]
+[[Quesiti/src_kangourou_2013_squadre_f#q11|src_kangourou_2013_squadre_f__Q11]]
 
 
 
@@ -519,7 +519,7 @@ How many minutes has Emma walked (solar time)
 > You know that x is equal to 12/1 + 22/3 + 32/5 + ... + 102/19 and y is equal to 12/3 + 22/5 + 32/7 + ... + 102/21. What's the nearest integer to 1000(x  y) ?
 
 **Answer:** 5238
-[[src_kangourou_2013_squadre_f__Q12]]
+[[Quesiti/src_kangourou_2013_squadre_f#q12|src_kangourou_2013_squadre_f__Q12]]
 
 
 
@@ -549,7 +549,7 @@ How many minutes has Emma walked (solar time)
 > This year on the square How many distinct divisors, including 1 and itself, has the number 20132 ?
 
 **Answer:** 27
-[[src_kangourou_2013_squadre_f__Q13]]
+[[Quesiti/src_kangourou_2013_squadre_f#q13|src_kangourou_2013_squadre_f__Q13]]
 
 
 
@@ -584,7 +584,7 @@ How many minutes has Emma walked (solar time)
 > Two zeros at the end How many are such numbers that: - their writing ends exactly with two zeros (i.e. the last two digits are zero, but not the thirdlast); - are they expressible as the product of seven consecutive positive integers all less than 26?
 
 **Answer:** 6
-[[src_kangourou_2013_squadre_f__Q14]]
+[[Quesiti/src_kangourou_2013_squadre_f#q14|src_kangourou_2013_squadre_f__Q14]]
 
 
 
@@ -623,4 +623,4 @@ How many minutes has Emma walked (solar time)
 > Questions and solutions
 
 **Answer:** 108
-[[src_kangourou_2013_squadre_f__Q15]]
+[[Quesiti/src_kangourou_2013_squadre_f#q15|src_kangourou_2013_squadre_f__Q15]]

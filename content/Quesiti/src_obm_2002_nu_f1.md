@@ -32,7 +32,7 @@ level: OBM Nível Universitário
 
 > La funzione $f:(-1,+\infty)\to\mathbb{R}$ è continua e differenziabile. È noto che $f(0)=0$, $f'(0)=a$ e $f(x+1)=e^{f(x)}$ per tutti $x>-1$. Calcolare $f'(13)$.
 
-[[src_obm_2002_nu_f1__Q01]]
+[[Quesiti/src_obm_2002_nu_f1#q01|src_obm_2002_nu_f1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 
 > Che $A$ sia la matrice $n\times n$ $$A=\begin{pmatrix} x+y & x & \cdots & x \\ x & x+y & \cdots & x \\ \vdots & \vdots & \ddots & \vdots \\ x & x & \cdots & x+y \end{pmatrix}.$$ Per quali valori di $x$ e $y$ è invertibile la matrice $A$? Calcolare $A^{-1}$.
 
-[[src_obm_2002_nu_f1__Q02]]
+[[Quesiti/src_obm_2002_nu_f1#q02|src_obm_2002_nu_f1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível Universitário
 
 > Calcolo $$\int_1^3 \frac{\sqrt{x^2+1}+x-1}{\sqrt{x^2+1}+x+1}\,dx.$$
 
-[[src_obm_2002_nu_f1__Q03]]
+[[Quesiti/src_obm_2002_nu_f1#q03|src_obm_2002_nu_f1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível Universitário
 
 > Determinare tutti gli integri positivi $m$ per i quali il polinomio $(x+1)^m + x^m + 1$ è divisibile da $(x^2+x+1)^2$.
 
-[[src_obm_2002_nu_f1__Q04]]
+[[Quesiti/src_obm_2002_nu_f1#q04|src_obm_2002_nu_f1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível Universitário
 
 > Rogliamo 10 dadi standard (ciascuno con 6 volti numerati da 1 a 6, tutti uguali probabilità). Calcola la probabilità che la somma dei 10 risultati sia uguale a 20.
 
-[[src_obm_2002_nu_f1__Q05]]
+[[Quesiti/src_obm_2002_nu_f1#q05|src_obm_2002_nu_f1__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: OBM Nível Universitário
 > 
 > b) Let $P_0=(3,8)$. Per ogni numero intero non negativo $n$, definire $P_{n+1}=P_n'$, il punto di intersezione di $C$ con la tangente di $C$ a $P_n$. Determinare $P_{2002}$.
 
-[[src_obm_2002_nu_f1__Q06]]
+[[Quesiti/src_obm_2002_nu_f1#q06|src_obm_2002_nu_f1__Q06]]

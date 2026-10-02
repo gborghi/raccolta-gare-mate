@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano di nuovo il cerchio $ABC$ rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ tra $X$ e $P$. Supponiamo che le linee attraverso $U$ parallele a $AB$ e $CA$ incontrino $XQ$ e $XR$ rispettivamente nei punti $V$ e $W$. Provare che $R$, $V$, $W$ e $Q$ si trovano su un cerchio.
 
-[[src_bmo2_2011__Q01]]
+[[Quesiti/src_bmo2_2011#q01|src_bmo2_2011__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Trova tutti gli integri positivi $x$ e $y$ in modo tale che $x + y + 1$ divida $2xy$ e $x + y - 1$ divida $2xy - 1$.
 
-[[src_bmo2_2011__Q02]]
+[[Quesiti/src_bmo2_2011#q02|src_bmo2_2011__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > La funzione $f$ è definita sui numeri interi positivi come segue: $$f(1) = 1,$$ $$f(2n) = 2f(n) \text{ if } n \text{ is even},$$ $$f(2n) = 2f(n) \text{ if } n \text{ is odd},$$ $$f(2n+1) = 2f(n) \text{ if } n \text{ is even},$$ $$f(2n+1) = 2f(n)+1 \text{ if } n \text{ is odd}.$$ Trova il numero di numeri interi positivi $v$ che sono inferiori a $2011$ e hanno la proprietà di $f(v) = f(2011)$.
 
-[[src_bmo2_2011__Q03]]
+[[Quesiti/src_bmo2_2011#q03|src_bmo2_2011__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Il $G$ deve essere l'insieme dei punti $(x, y)$ nel piano in modo tale che $x$ e $y$ siano integri nell'intervallo $1 \le x, y \le 2011$. Un sottogruppo $S$ di $G$ è considerato privo di parallelogrammi se non esiste un parallelo corretto il cui vertice sono tutti in $S$. Si noti che un parallelo corretto è quello in cui nessun vertice si trova sulla stessa linea. Trova la dimensione più grande possibile di un sottoinsieme senza parallelogrammi di $G$.
 
-[[src_bmo2_2011__Q04]]
+[[Quesiti/src_bmo2_2011#q04|src_bmo2_2011__Q04]]

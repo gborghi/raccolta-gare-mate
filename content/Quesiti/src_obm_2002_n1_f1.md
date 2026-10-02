@@ -41,7 +41,7 @@ level: OBM Nível 1
 > (A) $\dfrac{1}{4}$ (B) $\dfrac{1}{2}$ (C) $1$ (D) $2$ (E) $8$
 
 **Risposta:** C
-[[src_obm_2002_n1_f1__Q01]]
+[[Quesiti/src_obm_2002_n1_f1#q01|src_obm_2002_n1_f1__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: OBM Nível 1
 > 
 > (A) $300$ kg (B) $325$ kg (C) $350$ kg (D) $375$ kg (E) $400$ kg
 
-![[src_obm_2002_n1_f1__Q02.png]]
+![[src_obm_2002_n1_f1__q02.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -77,10 +77,10 @@ level: OBM Nível 1
 > 
 > (A) $300$ kg (B) $325$ kg (C) $350$ kg (D) $375$ kg (E) $400$ kg
 
-![[src_obm_2002_n1_f1__Q02.png]]
+![[src_obm_2002_n1_f1__q02.png]]
 
 **Risposta:** C
-[[src_obm_2002_n1_f1__Q02]]
+[[Quesiti/src_obm_2002_n1_f1#q02|src_obm_2002_n1_f1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 1
 > 
 > (A) $1$ (B) $2$ (C) $3$ (D) $5$ (E) $6$
 
-![[src_obm_2002_n1_f1__Q03.png]]
+![[src_obm_2002_n1_f1__q03.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -116,10 +116,10 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $1$ (B) $2$ (C) $3$ (D) $5$ (E) $6$
 
-![[src_obm_2002_n1_f1__Q03.png]]
+![[src_obm_2002_n1_f1__q03.png]]
 
 **Risposta:** B
-[[src_obm_2002_n1_f1__Q03]]
+[[Quesiti/src_obm_2002_n1_f1#q03|src_obm_2002_n1_f1__Q03]]
 
 
 
@@ -134,7 +134,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $23$ (B) $22$ (C) $21$ (D) $20$ (E) $19$
 
-![[src_obm_2002_n1_f1__Q04.png]]
+![[src_obm_2002_n1_f1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -155,10 +155,10 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $23$ (B) $22$ (C) $21$ (D) $20$ (E) $19$
 
-![[src_obm_2002_n1_f1__Q04.png]]
+![[src_obm_2002_n1_f1__q04.png]]
 
 **Risposta:** B
-[[src_obm_2002_n1_f1__Q04]]
+[[Quesiti/src_obm_2002_n1_f1#q04|src_obm_2002_n1_f1__Q04]]
 
 
 
@@ -193,7 +193,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) Quarantotto. (B) Quarantove nove. (C) Cinquanta. (D) Cinquanta e uno. (E) Cinquantaquattro.
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q05]]
+[[Quesiti/src_obm_2002_n1_f1#q05|src_obm_2002_n1_f1__Q05]]
 
 
 
@@ -227,7 +227,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) $4166$ lattine (B) $10000$ lattine (C) $20000$ lattine (D) $25000$ lattine (E) $30000$
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q06]]
+[[Quesiti/src_obm_2002_n1_f1#q06|src_obm_2002_n1_f1__Q06]]
 
 
 
@@ -244,7 +244,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $\dfrac{1}{2}$ (B) $\dfrac{9}{16}$ (C) $\dfrac{16}{25}$ (D) $\dfrac{3}{4}$ (E) $1$
 
-![[src_obm_2002_n1_f1__Q07.png]]
+![[src_obm_2002_n1_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -266,10 +266,10 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $\dfrac{1}{2}$ (B) $\dfrac{9}{16}$ (C) $\dfrac{16}{25}$ (D) $\dfrac{3}{4}$ (E) $1$
 
-![[src_obm_2002_n1_f1__Q07.png]]
+![[src_obm_2002_n1_f1__q07.png]]
 
 **Risposta:** B
-[[src_obm_2002_n1_f1__Q07]]
+[[Quesiti/src_obm_2002_n1_f1#q07|src_obm_2002_n1_f1__Q07]]
 
 
 
@@ -284,7 +284,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $31$ (B) $88$ (C) $90$ (D) $97$ (E) $105$
 
-![[src_obm_2002_n1_f1__Q08.png]]
+![[src_obm_2002_n1_f1__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -305,10 +305,10 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > 
 > (A) $31$ (B) $88$ (C) $90$ (D) $97$ (E) $105$
 
-![[src_obm_2002_n1_f1__Q08.png]]
+![[src_obm_2002_n1_f1__q08.png]]
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q08]]
+[[Quesiti/src_obm_2002_n1_f1#q08|src_obm_2002_n1_f1__Q08]]
 
 
 
@@ -343,7 +343,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) un numero primo. (B) un multiple di $3$. C) pari alla somma di questi numeri. (D) un numero strano. (E) un quadrato perfetto.
 
 **Risposta:** C
-[[src_obm_2002_n1_f1__Q09]]
+[[Quesiti/src_obm_2002_n1_f1#q09|src_obm_2002_n1_f1__Q09]]
 
 
 
@@ -377,7 +377,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
 
 **Risposta:** B
-[[src_obm_2002_n1_f1__Q10]]
+[[Quesiti/src_obm_2002_n1_f1#q10|src_obm_2002_n1_f1__Q10]]
 
 
 
@@ -398,7 +398,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > - **(D)** in no semester was the total revenue of A greater than that of B.
 > - **(E)** in only one semester did the total revenues of the semester exceed $20$ million reais.
 
-![[src_obm_2002_n1_f1__Q11.png]]
+![[src_obm_2002_n1_f1__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -425,10 +425,10 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > - **(D)** In nessun semestre il fatturato totale di A è stato superiore a quello di B.
 > - **(E)** In un solo semestre i ricavi totali del semestre hanno superato $20$ milioni di reais.
 
-![[src_obm_2002_n1_f1__Q11.png]]
+![[src_obm_2002_n1_f1__q11.png]]
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q11]]
+[[Quesiti/src_obm_2002_n1_f1#q11|src_obm_2002_n1_f1__Q11]]
 
 
 
@@ -470,7 +470,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > - **(E)** Spendere R\$$14{,}00$ di più.
 
 **Risposta:** C
-[[src_obm_2002_n1_f1__Q12]]
+[[Quesiti/src_obm_2002_n1_f1#q12|src_obm_2002_n1_f1__Q12]]
 
 
 
@@ -505,7 +505,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $28$ (B) $31$ (C) $32$ (D) $33$ (E) $36$
 
 **Risposta:** B
-[[src_obm_2002_n1_f1__Q13]]
+[[Quesiti/src_obm_2002_n1_f1#q13|src_obm_2002_n1_f1__Q13]]
 
 
 
@@ -540,7 +540,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $1\,000\,000$ (B) $1\,250\,002$ (C) $1\,501\,999$ (D) $1\,999\,999$ (E) $13\,999\,432$
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q14]]
+[[Quesiti/src_obm_2002_n1_f1#q14|src_obm_2002_n1_f1__Q14]]
 
 
 
@@ -575,7 +575,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $10$ volte (B) $12$ volte (C) $13$ volte (D) $14$ volte (E) $15$ volte
 
 **Risposta:** A
-[[src_obm_2002_n1_f1__Q15]]
+[[Quesiti/src_obm_2002_n1_f1#q15|src_obm_2002_n1_f1__Q15]]
 
 
 
@@ -594,7 +594,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > - **(D)** four sixths of the area of the larger circle.
 > - **(E)** three eighths of the area of the larger circle.
 
-![[src_obm_2002_n1_f1__Q16.png]]
+![[src_obm_2002_n1_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -619,10 +619,10 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > - **(D)** quattro sesti della superficie del cerchio più grande.
 > - **(E)** tre ottavi della superficie del cerchio più grande.
 
-![[src_obm_2002_n1_f1__Q16.png]]
+![[src_obm_2002_n1_f1__q16.png]]
 
 **Risposta:** C
-[[src_obm_2002_n1_f1__Q16]]
+[[Quesiti/src_obm_2002_n1_f1#q16|src_obm_2002_n1_f1__Q16]]
 
 
 
@@ -637,7 +637,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > 
 > (A) $2001$ (B) $4004$ (C) $12006$ (D) $10007$ (E) $10010$
 
-![[src_obm_2002_n1_f1__Q17.png]]
+![[src_obm_2002_n1_f1__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -658,10 +658,10 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > 
 > (A) $2001$ (B) $4004$ (C) $12006$ (D) $10007$ (E) $10010$
 
-![[src_obm_2002_n1_f1__Q17.png]]
+![[src_obm_2002_n1_f1__q17.png]]
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q17]]
+[[Quesiti/src_obm_2002_n1_f1#q17|src_obm_2002_n1_f1__Q17]]
 
 
 
@@ -679,7 +679,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > 
 > (A) $1000$ (B) $1050$ (C) $1100$ (D) $1150$ (E) $1200$
 
-![[src_obm_2002_n1_f1__Q18.png]]
+![[src_obm_2002_n1_f1__q18.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
@@ -701,10 +701,10 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > 
 > (A) $1000$ (B) $1050$ (C) $1100$ (D) $1150$ (E) $1200$
 
-![[src_obm_2002_n1_f1__Q18.png]]
+![[src_obm_2002_n1_f1__q18.png]]
 
 **Risposta:** B
-[[src_obm_2002_n1_f1__Q18]]
+[[Quesiti/src_obm_2002_n1_f1#q18|src_obm_2002_n1_f1__Q18]]
 
 
 
@@ -739,7 +739,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $250$ (B) $270$ (C) $271$ (D) $280$ (E) $292$
 
 **Risposta:** D
-[[src_obm_2002_n1_f1__Q19]]
+[[Quesiti/src_obm_2002_n1_f1#q19|src_obm_2002_n1_f1__Q19]]
 
 
 
@@ -773,4 +773,4 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > (A) $500$ litri (B) $600$ litri (C) $700$ litri (D) $800$ litri (E) $900$ litri
 
 **Risposta:** A
-[[src_obm_2002_n1_f1__Q20]]
+[[Quesiti/src_obm_2002_n1_f1#q20|src_obm_2002_n1_f1__Q20]]

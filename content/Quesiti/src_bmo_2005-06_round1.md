@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Se $n$ è un numero intero maggiore di $6$. Prova che se $n-1$ e $n+1$ sono entrambi primi, allora $n^2(n^2+16)$ è divisibile da $720$. È vero il contrario?
 
-[[src_bmo_2005-06_round1__Q01]]
+[[Quesiti/src_bmo_2005-06_round1#q01|src_bmo_2005-06_round1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 1
 > 
 > ii) In quanti modi può dividerli in tre squadre di quattro?
 
-[[src_bmo_2005-06_round1__Q02]]
+[[Quesiti/src_bmo_2005-06_round1#q02|src_bmo_2005-06_round1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 
 > Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE = AB$.
 
-[[src_bmo_2005-06_round1__Q03]]
+[[Quesiti/src_bmo_2005-06_round1#q03|src_bmo_2005-06_round1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 > 
 > Si sceglie un percorso continuo, che inizia all'interno della cella con vertice $A$ e attraversa sempre da una cella all'altra attraverso un bordo condiviso dalle due celle. Nessuna cellula viene visitata più di una volta. Trova, con la prova, il maggior numero di celle che possono essere visitate.
 
-[[src_bmo_2005-06_round1__Q04]]
+[[Quesiti/src_bmo_2005-06_round1#q04|src_bmo_2005-06_round1__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: BMO Round 1
 
 > Che $G$ sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
 
-[[src_bmo_2005-06_round1__Q05]]
+[[Quesiti/src_bmo_2005-06_round1#q05|src_bmo_2005-06_round1__Q05]]
 
 
 
@@ -180,4 +180,4 @@ level: BMO Round 1
 
 > $T$ sia un insieme di punti coplanari $2005$ senza tre punti collineari. Mostrare che, per uno qualsiasi dei punti $2005$, il numero dei triangoli che si trova strettamente all'interno, le cui vertici sono punti in $T$, è pari.
 
-[[src_bmo_2005-06_round1__Q06]]
+[[Quesiti/src_bmo_2005-06_round1#q06|src_bmo_2005-06_round1__Q06]]

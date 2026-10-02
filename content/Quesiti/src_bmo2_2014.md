@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Ogni diagonale di un poligono regolare con lati $2014$ è colorata in uno dei colori $n$. Ogni volta che due diagonali si incrociano all'interno sono di colori diversi. Qual è il valore minimo di $n$ per il quale questo è possibile?
 
-[[src_bmo2_2014__Q01]]
+[[Quesiti/src_bmo2_2014#q01|src_bmo2_2014__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Prove che è impossibile avere un cuboide per il quale il volume, la superficie e il perimetro sono numericamente uguali. Il perimetro di un cuboide è la somma delle lunghezze di tutti i suoi dodici bordi.
 
-[[src_bmo2_2014__Q02]]
+[[Quesiti/src_bmo2_2014#q02|src_bmo2_2014__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 2
 > 
 > b) Ci sono infinitamente molti numeri primi che sono fattori senza termine nella sequenza?
 
-[[src_bmo2_2014__Q03]]
+[[Quesiti/src_bmo2_2014#q03|src_bmo2_2014__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo e $P$ un punto nel suo interno. Lasciate che $AP$ rientri nel circoncircolo di $ABC$ a $A'$. I punti $B'$ e $C'$ sono definiti in modo simile. Se $O_A$ è il circoncentro di $BPC'$, e $O_B$, $O_C$ sono definiti in modo simile. Se $O_A'$ è il circoncentro di $B'PC'$, e $O_B'$, $O_C'$ sono definiti in modo simile. Prove che le linee $O_A O_A'$, $O_B O_B'$, $O_C O_C'$ sono simultanee.
 
-[[src_bmo2_2014__Q04]]
+[[Quesiti/src_bmo2_2014#q04|src_bmo2_2014__Q04]]

@@ -36,7 +36,7 @@ level: kangourou
 > 3x2005 = 2004 + 2006 + … . Which of the following numbers do you need to replace in the dots to make the equality? A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
 
 **Answer:** A
-[[src_kangourou_2006_benjamin__Q01]]
+[[Quesiti/src_kangourou_2006_benjamin#q01|src_kangourou_2006_benjamin__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: kangourou
 > Look at the figure: six numbers are written on as many sheets. By holding all six sheets together, you can form ten-digit numbers. Which one's the biggest? A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241 D) 7 568 413 092          E) 7 685 413 092
 
 **Answer:** E
-[[src_kangourou_2006_benjamin__Q02]]
+[[Quesiti/src_kangourou_2006_benjamin#q02|src_kangourou_2006_benjamin__Q02]]
 
 
 
@@ -111,7 +111,7 @@ How many houses along the avenue with civic numbers
 > As we walk down Kangtown's main avenue, we notice that each house is assigned a (and only one) civic number, odd to those on the left, equal to those on the right. On the left side, the numbers go from 1 to 39; on the right side, they go from 2 to 34. How many houses are down the alley? A) 8 B) 36 C) 37 D) 38 E) 73
 
 **Answer:** C
-[[src_kangourou_2006_benjamin__Q03]]
+[[Quesiti/src_kangourou_2006_benjamin#q03|src_kangourou_2006_benjamin__Q03]]
 
 
 
@@ -151,7 +151,7 @@ How many houses along the avenue with civic numbers
 > At a sportswear store in Stockholm, the combinations of items shown have these prices. You can also buy each item individually. How many crowns does one of those footballs cost? A) 100 B) 200 C) 300 D) 400 E) 500
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q04]]
+[[Quesiti/src_kangourou_2006_benjamin#q04|src_kangourou_2006_benjamin__Q04]]
 
 
 
@@ -201,7 +201,7 @@ How many houses along the avenue with civic numbers
 > I'm going to pay. I'm going to pay. 11 11 Kang 2006 Kang
 
 **Answer:** C
-[[src_kangourou_2006_benjamin__Q05]]
+[[Quesiti/src_kangourou_2006_benjamin#q05|src_kangourou_2006_benjamin__Q05]]
 
 
 
@@ -234,7 +234,7 @@ How many houses along the avenue with civic numbers
 > Choose the figure in which the smaller of the two angles formed by the two hands of the clock measures 150°.
 
 **Answer:** E
-[[src_kangourou_2006_benjamin__Q06]]
+[[Quesiti/src_kangourou_2006_benjamin#q06|src_kangourou_2006_benjamin__Q06]]
 
 
 
@@ -265,7 +265,7 @@ How many houses along the avenue with civic numbers
 > Each time the symbol  appears in the expression 42−13, a figure must be inserted (not necessarily always the same); depending on the figures inserted, the resulting difference can take on different values. What 's the smallest of these values ? A) 3629        B) 3530     C) 2720           D) 2621          E) 2603
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q07]]
+[[Quesiti/src_kangourou_2006_benjamin#q07|src_kangourou_2006_benjamin__Q07]]
 
 
 
@@ -299,7 +299,7 @@ How many houses along the avenue with civic numbers
 > Look at the figure. How many ways can we write the 2006 number by following the arrows? A) 5           B) 6           C) 7           D) 8           E) 9
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q08]]
+[[Quesiti/src_kangourou_2006_benjamin#q08|src_kangourou_2006_benjamin__Q08]]
 
 
 
@@ -373,7 +373,7 @@ How many houses along the avenue with civic numbers
 > The figure shows a sheet of paper shaped like a regular hexagon. It is folded so that the three vertices indicated with a ball go exactly to the center of the hexagon and the others remain standing. What figure do you get? A) a six-pointed star B) a dodecahedron C) a hexagon D) a square E) a triangle
 
 **Answer:** E
-[[src_kangourou_2006_benjamin__Q09]]
+[[Quesiti/src_kangourou_2006_benjamin#q09|src_kangourou_2006_benjamin__Q09]]
 
 
 
@@ -429,7 +429,7 @@ How many houses along the avenue with civic numbers
 > I'm going to pay. I'm going to pay. 12 12 Kang 2006 Kang 2006 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q10]]
+[[Quesiti/src_kangourou_2006_benjamin#q10|src_kangourou_2006_benjamin__Q10]]
 
 
 
@@ -472,7 +472,7 @@ How many houses along the avenue with civic numbers
 > The "star" in the figure features four circles, a square, and four triangles. The triangles are equilateral; the circles are equal, they touch each other without overlapping and they touch the sides of the square. If the radius of each circle is five centimeters, how much in centimeters does the perimeter of the "star" measure? A) 40 B) 80 C) 120 D) 160 E) 240
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q11]]
+[[Quesiti/src_kangourou_2006_benjamin#q11|src_kangourou_2006_benjamin__Q11]]
 
 
 
@@ -502,7 +502,7 @@ How many houses along the avenue with civic numbers
 > Consider only integers greater than 0. What is the difference between the sum of the first 1000 even numbers and the sum of the first 1000 odd numbers? A) 1                B) 200             C) 500           D) 1000           E) 2000
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q12]]
+[[Quesiti/src_kangourou_2006_benjamin#q12|src_kangourou_2006_benjamin__Q12]]
 
 
 
@@ -542,7 +542,7 @@ How many houses along the avenue with civic numbers
 > A die is in the position indicated in the figure. How many complete turns of the track will it take for the dice, rotating each time with one face, to return to the exact starting position? (a) 1 (b) 2 (c) 3 (d) 4 (e) cannot be determined
 
 **Answer:** A
-[[src_kangourou_2006_benjamin__Q13]]
+[[Quesiti/src_kangourou_2006_benjamin#q13|src_kangourou_2006_benjamin__Q13]]
 
 
 
@@ -582,7 +582,7 @@ How many houses along the avenue with civic numbers
 > The square in the figure is divided into 10 x 10 squares. We color each of them by assigning the same color to all the squares that are on the same line parallel to the highlighted diagonal; we use the five colors available in the following order: red, yellow, blue, green, black, red, yellow, blue, ... and so on (see figure). What color will be assigned to the square in the lower right corner? A) red B) yellow C) blue D) green E) black
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q14]]
+[[Quesiti/src_kangourou_2006_benjamin#q14|src_kangourou_2006_benjamin__Q14]]
 
 
 
@@ -645,7 +645,7 @@ Time for two trains to come back 140 km away
 > I'm going to pay. I'm going to pay. 13 13 Kang 2006 Kang 2006 constant speed of 60 km/h. Right now they're 140 kilometers away. In how long, after crossing, will their distance return to 140 km, if they continue to travel at the same speed? A) 1 hour B) 2 hours C) 1 hour and a half D) 2 hours and a half E) half an hour
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q15]]
+[[Quesiti/src_kangourou_2006_benjamin#q15|src_kangourou_2006_benjamin__Q15]]
 
 
 
@@ -680,7 +680,7 @@ Time for two trains to come back 140 km away
 > What is the result of the sequence of operations shown in the box? A) 111111111 B) 1010101010 C) 100000000 D) 999999999 E) 0
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q16]]
+[[Quesiti/src_kangourou_2006_benjamin#q16|src_kangourou_2006_benjamin__Q16]]
 
 
 
@@ -716,7 +716,7 @@ Time for two trains to come back 140 km away
 > You have a cube and you want to color three faces blue and three faces red. How many different ways can you do that? (Two cubes are differently coloured if, however one is turned, the other cannot be obtained.) A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q17]]
+[[Quesiti/src_kangourou_2006_benjamin#q17|src_kangourou_2006_benjamin__Q17]]
 
 
 
@@ -756,7 +756,7 @@ Time for two trains to come back 140 km away
 > The diameter AB of the circle in the figure is 10 cm. What is the perimeter of the region highlighted if the smaller rectangles in the figure are all the same? A) 8 cm B) 16 cm C) 20 cm D) 25 cm E) 30 cm
 
 **Answer:** C
-[[src_kangourou_2006_benjamin__Q18]]
+[[Quesiti/src_kangourou_2006_benjamin#q18|src_kangourou_2006_benjamin__Q18]]
 
 
 
@@ -794,7 +794,7 @@ Time for two trains to come back 140 km away
 > I had a 15-meter long rope. By cutting it properly, I obtained pieces that were a whole number of feet in length. The number of pieces is as large as possible, consistent with the fact that there are not two of the same length. How many cuts did I make? A) 3 B) 4 C) 5 D) 6 E) 15.
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q19]]
+[[Quesiti/src_kangourou_2006_benjamin#q19|src_kangourou_2006_benjamin__Q19]]
 
 
 
@@ -850,7 +850,7 @@ Time for two trains to come back 140 km away
 > I'm going to pay. I'm going to pay. 14 14 Kang 2006 Kang 2006 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2006_benjamin__Q20]]
+[[Quesiti/src_kangourou_2006_benjamin#q20|src_kangourou_2006_benjamin__Q20]]
 
 
 
@@ -895,7 +895,7 @@ Time for two trains to come back 140 km away
 > In Figures 1 and 2 two quadrilaterals are represented, each constructed by approaching the same two equal isosceles triangles: the first is a parallelogram, the second a rombo. The perimeter of the parallelogram is 3 centimeters longer than the perimeter of each triangle; instead, the perimeter of the rim is 7 centimeters longer than that of each triangle. So the perimeter of each triangle is in centimeters, A) 3 B) 7 C) 11 D) 13 E) 16
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q21]]
+[[Quesiti/src_kangourou_2006_benjamin#q21|src_kangourou_2006_benjamin__Q21]]
 
 
 
@@ -938,7 +938,7 @@ Time for two trains to come back 140 km away
 > A river runs through a city and there are two islets; there are also six bridges as shown in the figure next to it. How many different routes allow you to go from point A to point B by crossing each bridge once and only once? A) 0 B) 2 C) 4 D) 6 E) more than 6
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q22]]
+[[Quesiti/src_kangourou_2006_benjamin#q22|src_kangourou_2006_benjamin__Q22]]
 
 
 
@@ -972,7 +972,7 @@ Time for two trains to come back 140 km away
 > Consider a semicircle with origin O and a point A above it: if the distance in centimetres of A from O is to, we'll say that a represents point A. Which of the following sets of three numbers represents three points of the semicircle one of which is the same distance from each of the other two? (a) 1/3; 1/4; 1/5 B) 12; 21; 32 C) 0,3; 0,7; 1,3 D) 1/8; 9/80; 1/10 E) None of the above
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q23]]
+[[Quesiti/src_kangourou_2006_benjamin#q23|src_kangourou_2006_benjamin__Q23]]
 
 
 
@@ -1036,7 +1036,7 @@ Time for two trains to come back 140 km away
 > I'm going to pay. I'm going to pay. 15 15 Kang 2006 Kang
 
 **Answer:** E
-[[src_kangourou_2006_benjamin__Q24]]
+[[Quesiti/src_kangourou_2006_benjamin#q24|src_kangourou_2006_benjamin__Q24]]
 
 
 
@@ -1074,7 +1074,7 @@ Time for two trains to come back 140 km away
 > Bianca builds toaster grids by expanding the existing grids each time by adding new toaster grids, according to the pattern shown in the figure. How many hot dogs does Bianca have to add to the 30th grid to get the 31st? A) 124            B) 148             C) 61               D) 254            E) 120
 
 **Answer:** A
-[[src_kangourou_2006_benjamin__Q25]]
+[[Quesiti/src_kangourou_2006_benjamin#q25|src_kangourou_2006_benjamin__Q25]]
 
 
 
@@ -1148,7 +1148,7 @@ Time for two trains to come back 140 km away
 > What is the smallest number of points that you can subtract from the figure shown next to you so that there are not three left that are the vertices of any equilateral triangle? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
-[[src_kangourou_2006_benjamin__Q26]]
+[[Quesiti/src_kangourou_2006_benjamin#q26|src_kangourou_2006_benjamin__Q26]]
 
 
 
@@ -1184,7 +1184,7 @@ Time for two trains to come back 140 km away
 > At one camp, Aldo and Bruno set a fire to cook their food, using 15 pieces of the same wood: 8 were brought by Aldo and 7 by Bruno. Carlo asks if he can use the same fire to cook and rewards his friends with 30 coins, all of the same value. The fair way to divide coins between Aldo and Bruno is: A) 22 to Aldo and 8 to Bruno. B) 20 to Aldo and 10 to Bruno. C) 15 to Aldo and 15 to Bruno. D) 16 to Aldo and 14 to Bruno. E) 18 to Aldo and 12 to Bruno.
 
 **Answer:** E
-[[src_kangourou_2006_benjamin__Q27]]
+[[Quesiti/src_kangourou_2006_benjamin#q27|src_kangourou_2006_benjamin__Q27]]
 
 
 
@@ -1232,7 +1232,7 @@ Time for two trains to come back 140 km away
 > I'm going to pay. I'm going to pay. 16 16 Kang 2006 Kang
 
 **Answer:** B
-[[src_kangourou_2006_benjamin__Q28]]
+[[Quesiti/src_kangourou_2006_benjamin#q28|src_kangourou_2006_benjamin__Q28]]
 
 
 
@@ -1270,7 +1270,7 @@ Time for two trains to come back 140 km away
 > Six letters are written on the faces of a cube. The figure shows two possible plane developments of that cube, the second of which omits some letters. What letter should be written in place of the question mark? A) A) B) B) C) C) D) E) It is not possible to say with certainty.
 
 **Answer:** D
-[[src_kangourou_2006_benjamin__Q29]]
+[[Quesiti/src_kangourou_2006_benjamin#q29|src_kangourou_2006_benjamin__Q29]]
 
 
 
@@ -1316,4 +1316,4 @@ Time for two trains to come back 140 km away
 > 1 Category Benjamin For first or secondary school students
 
 **Answer:** C
-[[src_kangourou_2006_benjamin__Q30]]
+[[Quesiti/src_kangourou_2006_benjamin#q30|src_kangourou_2006_benjamin__Q30]]

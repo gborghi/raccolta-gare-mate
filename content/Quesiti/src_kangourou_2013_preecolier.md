@@ -43,7 +43,7 @@ level: kangourou
 > What numbers have been forgotten? A) 3 e 5 B) 4 e 8 C) 2 e 0 D) 6 e 9 E) 7 e 1
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q01]]
+[[Quesiti/src_kangourou_2013_preecolier#q01|src_kangourou_2013_preecolier__Q01]]
 
 
 
@@ -89,7 +89,7 @@ level: kangourou
 > E) 0
 
 **Answer:** B
-[[src_kangourou_2013_preecolier__Q02]]
+[[Quesiti/src_kangourou_2013_preecolier#q02|src_kangourou_2013_preecolier__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: kangourou
 > E)
 
 **Answer:** A
-[[src_kangourou_2013_preecolier__Q03]]
+[[Quesiti/src_kangourou_2013_preecolier#q03|src_kangourou_2013_preecolier__Q03]]
 
 
 
@@ -181,7 +181,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q04]]
+[[Quesiti/src_kangourou_2013_preecolier#q04|src_kangourou_2013_preecolier__Q04]]
 
 
 
@@ -217,7 +217,7 @@ level: kangourou
 > The wall on the left is made up of four rows of bricks. With the same criterion, the wall on the right was built with 5 rows of bricks. How many bricks will you have to add to the wall on the right to get a wall made of six rows of bricks? A) 4            B) 5             C) 6            D) 7            E) 10
 
 **Answer:** C
-[[src_kangourou_2013_preecolier__Q05]]
+[[Quesiti/src_kangourou_2013_preecolier#q05|src_kangourou_2013_preecolier__Q05]]
 
 
 
@@ -252,7 +252,7 @@ level: kangourou
 > The flooring in the figure was made with square tiles. The work must be completed by ticking the white part (inner cross) with tiles of the same type. How many tiles do you need to use? A) 5          B) 6          C) 7          D) 8          E) 9
 
 **Answer:** E
-[[src_kangourou_2013_preecolier__Q06]]
+[[Quesiti/src_kangourou_2013_preecolier#q06|src_kangourou_2013_preecolier__Q06]]
 
 
 
@@ -293,7 +293,7 @@ level: kangourou
 > C) D) E)
 
 **Answer:** C
-[[src_kangourou_2013_preecolier__Q07]]
+[[Quesiti/src_kangourou_2013_preecolier#q07|src_kangourou_2013_preecolier__Q07]]
 
 
 
@@ -352,7 +352,7 @@ Who is Barbara from the codes?
 > Problems from N. 9 al N. 16 is worth 4 points.
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q08]]
+[[Quesiti/src_kangourou_2013_preecolier#q08|src_kangourou_2013_preecolier__Q08]]
 
 
 
@@ -397,7 +397,7 @@ More than Michele has now after exchanges
 > E) 9
 
 **Answer:** E
-[[src_kangourou_2013_preecolier__Q09]]
+[[Quesiti/src_kangourou_2013_preecolier#q09|src_kangourou_2013_preecolier__Q09]]
 
 
 
@@ -434,7 +434,7 @@ Weight of a cat if George weighs 30 kg
 > Look at the figure. George has two cats of the same weight. What's the weight of a cat if we know George weighs 30 pounds? A) 1 kg B) 2 kg C) 3 kg D) 4 kg E) 5 kg
 
 **Answer:** C
-[[src_kangourou_2013_preecolier__Q10]]
+[[Quesiti/src_kangourou_2013_preecolier#q10|src_kangourou_2013_preecolier__Q10]]
 
 
 
@@ -470,7 +470,7 @@ Weight of a cat if George weighs 30 kg
 > In the strip, which square appears more often than all the others? A) B) C) D) E) They all appear the same number of times.
 
 **Answer:** A
-[[src_kangourou_2013_preecolier__Q11]]
+[[Quesiti/src_kangourou_2013_preecolier#q11|src_kangourou_2013_preecolier__Q11]]
 
 
 
@@ -520,7 +520,7 @@ Weight of a cat if George weighs 30 kg
 > E) 16
 
 **Answer:** B
-[[src_kangourou_2013_preecolier__Q12]]
+[[Quesiti/src_kangourou_2013_preecolier#q12|src_kangourou_2013_preecolier__Q12]]
 
 
 
@@ -573,7 +573,7 @@ Weight of a cat if George weighs 30 kg
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q13]]
+[[Quesiti/src_kangourou_2013_preecolier#q13|src_kangourou_2013_preecolier__Q13]]
 
 
 
@@ -619,7 +619,7 @@ How many cubes did Peter use for the podium?
 > D) 22 E) 24
 
 **Answer:** E
-[[src_kangourou_2013_preecolier__Q14]]
+[[Quesiti/src_kangourou_2013_preecolier#q14|src_kangourou_2013_preecolier__Q14]]
 
 
 
@@ -665,7 +665,7 @@ Who is the eldest of five children?
 > (e) Edward
 
 **Answer:** C
-[[src_kangourou_2013_preecolier__Q15]]
+[[Quesiti/src_kangourou_2013_preecolier#q15|src_kangourou_2013_preecolier__Q15]]
 
 
 
@@ -718,7 +718,7 @@ Who is the eldest of five children?
 > Problems from N. 17 al N. Twenty-four is worth five points.
 
 **Answer:** A
-[[src_kangourou_2013_preecolier__Q16]]
+[[Quesiti/src_kangourou_2013_preecolier#q16|src_kangourou_2013_preecolier__Q16]]
 
 
 
@@ -751,7 +751,7 @@ The brothers and sisters of Matthew
 > Isabella has three brothers and three sisters. How many brothers and sisters does your brother Matthew have? A) Three brothers and three sisters. B) Three brothers and four sisters. C) Two brothers and three sisters. D) Three brothers and two sisters. E) Two brothers and four sisters.
 
 **Answer:** E
-[[src_kangourou_2013_preecolier__Q17]]
+[[Quesiti/src_kangourou_2013_preecolier#q17|src_kangourou_2013_preecolier__Q17]]
 
 
 
@@ -796,7 +796,7 @@ The brothers and sisters of Matthew
 > D) 24 E) 6
 
 **Answer:** C
-[[src_kangourou_2013_preecolier__Q18]]
+[[Quesiti/src_kangourou_2013_preecolier#q18|src_kangourou_2013_preecolier__Q18]]
 
 
 
@@ -835,7 +835,7 @@ The brothers and sisters of Matthew
 > Anna has a square sheet of paper as follows. From it he carves some pieces like the one shown in the second figure. How many pieces can he get ? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
-[[src_kangourou_2013_preecolier__Q19]]
+[[Quesiti/src_kangourou_2013_preecolier#q19|src_kangourou_2013_preecolier__Q19]]
 
 
 
@@ -885,7 +885,7 @@ The brothers and sisters of Matthew
 > E) 62
 
 **Answer:** B
-[[src_kangourou_2013_preecolier__Q20]]
+[[Quesiti/src_kangourou_2013_preecolier#q20|src_kangourou_2013_preecolier__Q20]]
 
 
 
@@ -940,7 +940,7 @@ The brothers and sisters of Matthew
 > 	
 > E) You can use all three
 
-[[src_kangourou_2013_preecolier__Q21]]
+[[Quesiti/src_kangourou_2013_preecolier#q21|src_kangourou_2013_preecolier__Q21]]
 
 
 
@@ -989,7 +989,7 @@ The brothers and sisters of Matthew
 > E) 20
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q22]]
+[[Quesiti/src_kangourou_2013_preecolier#q22|src_kangourou_2013_preecolier__Q22]]
 
 
 
@@ -1050,7 +1050,7 @@ How many stamps can Angela make
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q23]]
+[[Quesiti/src_kangourou_2013_preecolier#q23|src_kangourou_2013_preecolier__Q23]]
 
 
 
@@ -1100,4 +1100,4 @@ How many stamps can Angela make
 > STRINGA PRE-ECOLIER 2013 Question 21 pre-ecolier has been cancelled because it lacks the correct answer, for a press error for which we apologize.
 
 **Answer:** D
-[[src_kangourou_2013_preecolier__Q24]]
+[[Quesiti/src_kangourou_2013_preecolier#q24|src_kangourou_2013_preecolier__Q24]]

@@ -70,7 +70,7 @@ level: Concours Général
 > 
 > \textbf{c.} Mostra che esiste una sequenza geometrica unica $(y_n)$ tale che, per ogni numero naturale $n$, $$|y_n - x_n| \le \frac{\varepsilon}{q-1}.$$
 
-[[src_cgen_2014__Q01]]
+[[Quesiti/src_cgen_2014#q01|src_cgen_2014__Q01]]
 
 
 
@@ -121,7 +121,7 @@ level: Concours Général
 > 
 > Determinare il numero atteso di vincitori, quindi il limite di questa aspettativa come $n$ tende all'infinito.
 
-[[src_cgen_2014__Q02]]
+[[Quesiti/src_cgen_2014#q02|src_cgen_2014__Q02]]
 
 
 
@@ -230,4 +230,4 @@ level: Concours Général
 > 
 > \textit{Per informazioni, si può dimostrare che ci sono esattamente $22$ buoni numeri. Questi sono i divisori positivi dei numeri $18$, $24$, $45$, $50$, $60$, $80$.}
 
-[[src_cgen_2014__Q03]]
+[[Quesiti/src_cgen_2014#q03|src_cgen_2014__Q03]]

@@ -46,7 +46,7 @@ level: biennio
 > - **(E)** 1004
 
 **Answer:** B
-[[src_archimede_2016_biennio__Q01]]
+[[Quesiti/src_archimede_2016_biennio#q01|src_archimede_2016_biennio__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: biennio
 > - **(E)** 750
 
 **Answer:** E
-[[src_archimede_2016_biennio__Q02]]
+[[Quesiti/src_archimede_2016_biennio#q02|src_archimede_2016_biennio__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: biennio
 > - **(E)** 225
 
 **Answer:** C
-[[src_archimede_2016_biennio__Q03]]
+[[Quesiti/src_archimede_2016_biennio#q03|src_archimede_2016_biennio__Q03]]
 
 
 
@@ -175,7 +175,7 @@ level: biennio
 > - **(E)** 10
 
 **Answer:** B
-[[src_archimede_2016_biennio__Q04]]
+[[Quesiti/src_archimede_2016_biennio#q04|src_archimede_2016_biennio__Q04]]
 
 
 
@@ -219,7 +219,7 @@ level: biennio
 > - **(E)** 118
 
 **Answer:** E
-[[src_archimede_2016_biennio__Q05]]
+[[Quesiti/src_archimede_2016_biennio#q05|src_archimede_2016_biennio__Q05]]
 
 
 
@@ -269,7 +269,7 @@ level: biennio
 > - **(E)** 3, 1, 4, 2
 
 **Answer:** A
-[[src_archimede_2016_biennio__Q06]]
+[[Quesiti/src_archimede_2016_biennio#q06|src_archimede_2016_biennio__Q06]]
 
 
 
@@ -313,7 +313,7 @@ level: biennio
 > - **(E)** 15
 
 **Answer:** C
-[[src_archimede_2016_biennio__Q07]]
+[[Quesiti/src_archimede_2016_biennio#q07|src_archimede_2016_biennio__Q07]]
 
 
 
@@ -354,7 +354,7 @@ level: biennio
 > - **(E)** 140
 
 **Answer:** B
-[[src_archimede_2016_biennio__Q08]]
+[[Quesiti/src_archimede_2016_biennio#q08|src_archimede_2016_biennio__Q08]]
 
 
 
@@ -387,7 +387,7 @@ level: biennio
 > An eight-person team participates in a sports tournament. The rules stipulate that there are always 5 players per team on the pitch and that, during each match (during 60 minutes), the 8 members of each team must all play the same number of minutes. How many minutes will each player be on the field during the game? (A) less than 30 (B) between 30 and 33 (C) between 33 and 36 (D) between 36 and 39 (E) more than 39
 
 **Answer:** D
-[[src_archimede_2016_biennio__Q09]]
+[[Quesiti/src_archimede_2016_biennio#q09|src_archimede_2016_biennio__Q09]]
 
 
 
@@ -432,7 +432,7 @@ Common days off of Juliet and Romeo
 > - **(E)** 4
 
 **Answer:** B
-[[src_archimede_2016_biennio__Q10]]
+[[Quesiti/src_archimede_2016_biennio#q10|src_archimede_2016_biennio__Q10]]
 
 
 
@@ -533,7 +533,7 @@ Common days off of Juliet and Romeo
 > - **(E)** 72° O A B C D P
 
 **Answer:** B
-[[src_archimede_2016_biennio__Q11]]
+[[Quesiti/src_archimede_2016_biennio#q11|src_archimede_2016_biennio__Q11]]
 
 
 
@@ -577,7 +577,7 @@ Common days off of Juliet and Romeo
 > - **(E)** More than 60
 
 **Answer:** C
-[[src_archimede_2016_biennio__Q12]]
+[[Quesiti/src_archimede_2016_biennio#q12|src_archimede_2016_biennio__Q12]]
 
 
 
@@ -623,7 +623,7 @@ Common days off of Juliet and Romeo
 > - **(E)** It will never happen again.
 
 **Answer:** D
-[[src_archimede_2016_biennio__Q13]]
+[[Quesiti/src_archimede_2016_biennio#q13|src_archimede_2016_biennio__Q13]]
 
 
 
@@ -669,7 +669,7 @@ Common days off of Juliet and Romeo
 > - **(E)** 4 + 2π
 
 **Answer:** E
-[[src_archimede_2016_biennio__Q14]]
+[[Quesiti/src_archimede_2016_biennio#q14|src_archimede_2016_biennio__Q14]]
 
 
 
@@ -711,7 +711,7 @@ Common days off of Juliet and Romeo
 > - **(E)** 162
 
 **Answer:** C
-[[src_archimede_2016_biennio__Q15]]
+[[Quesiti/src_archimede_2016_biennio#q15|src_archimede_2016_biennio__Q15]]
 
 
 
@@ -759,4 +759,4 @@ Common days off of Juliet and Romeo
 > - **(E)** T2 Italian Mathematical Union Olympic Mathematics Project Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Race Biennio 23 November 2016 • The test consists of 16 problems. Each question shall be followed by five replies indicated by the letters (A), (B), (C), (D) and (E): one of these answers is correct and the other four are incorrect. • Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 **Answer:** A
-[[src_archimede_2016_biennio__Q16]]
+[[Quesiti/src_archimede_2016_biennio#q16|src_archimede_2016_biennio__Q16]]

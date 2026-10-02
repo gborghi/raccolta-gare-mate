@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere la seguente equazione in numeri reali: $$\frac{(x^2-1)(|x|+1)}{x+\operatorname{sgn} x}=[x+1].$$
 
-[[src_pol_1993_r1__Q01]]
+[[Quesiti/src_pol_1993_r1#q01|src_pol_1993_r1__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 1
 
 > $n\ge 3$ sia un numero intero. Risolvere il sistema di equazioni: $$\begin{aligned}\tan x_1+3\cot x_1&=2\tan x_2,\\\tan x_2+3\cot x_2&=2\tan x_3,\\&\;\;\vdots\\\tan x_n+3\cot x_n&=2\tan x_1.\end{aligned}$$
 
-[[src_pol_1993_r1__Q02]]
+[[Quesiti/src_pol_1993_r1#q02|src_pol_1993_r1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 1
 
 > Che il $ABCDEF$ sia un esagono centralmente simmetrico. Le linee $AB$ e $EF$ si incontrano a $A'$, le linee $BC$ e $AF$ si incontrano a $B'$, e le linee $AB$ e $CD$ si incontrano a $C'$. Provare che $$AB\cdot BC\cdot CD=AA'\cdot BB'\cdot CC'.$$
 
-[[src_pol_1993_r1__Q03]]
+[[Quesiti/src_pol_1993_r1#q03|src_pol_1993_r1__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo che per tutte le $x,y$ reali, $$f(x+y)-f(x-y)=f(x)f(y).$$
 
-[[src_pol_1993_r1__Q04]]
+[[Quesiti/src_pol_1993_r1#q04|src_pol_1993_r1__Q04]]
 
 
 
@@ -144,7 +144,7 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 
 > Si deve considerare che $A$ e $C$ siano punti distinti nel piano. Per ogni punto $B$ si costruiscono quadrati $ABKL$ e $BCMN$ al di fuori del triangolo $ABC$. Prove che le linee $LM$ passano attraverso un punto fisso in quanto $B$ varia nello stesso semiplano determinato da $AC$.
 
-[[src_pol_1993_r1__Q05]]
+[[Quesiti/src_pol_1993_r1#q05|src_pol_1993_r1__Q05]]
 
 
 
@@ -173,7 +173,7 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 
 > La sequenza $(x_n)$ è definita da $x_0=1992$ e $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$ per ciascuna $n\ge 1$. Calcolare $\displaystyle\sum_{n=0}^{1992}2^n x_n$.
 
-[[src_pol_1993_r1__Q06]]
+[[Quesiti/src_pol_1993_r1#q06|src_pol_1993_r1__Q06]]
 
 
 
@@ -200,7 +200,7 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 
 > Considerare i punti $A_0(0,0,0)$, $A_1(1,0,0)$, $A_2(0,1,0)$ e $A_3(0,0,1)$ nello spazio. Il punto $P_{ij}$ ($i,j=0,1,2,3$) deve essere definito da $\overrightarrow{A_0 P_{ij}}=\overrightarrow{A_i A_j}$. Trovare il volume della cassa convexa dei punti $P_{ij}$.
 
-[[src_pol_1993_r1__Q07]]
+[[Quesiti/src_pol_1993_r1#q07|src_pol_1993_r1__Q07]]
 
 
 
@@ -228,7 +228,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Date un numero intero positivo $n$, determinare il valore massimo possibile della somma dei numeri naturali $k_1,k_2,\ldots,k_9$ che soddisfano $$k_1^5+k_2^5+\cdots+k_9^5\le 7n.$$
 
-[[src_pol_1993_r1__Q08]]
+[[Quesiti/src_pol_1993_r1#q08|src_pol_1993_r1__Q08]]
 
 
 
@@ -256,7 +256,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Lasciate che $a,b,c$ siano numeri reali. Provare la disuguaglianza $$(a^2+b^2-c^2)(b^2+c^2-a^2)(c^2+a^2-b^2)\le(a+b-c)^2(b+c-a)^2(c+a-b)^2.$$
 
-[[src_pol_1993_r1__Q09]]
+[[Quesiti/src_pol_1993_r1#q09|src_pol_1993_r1__Q09]]
 
 
 
@@ -283,7 +283,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Che $\mathscr{C}$ sia un cubo e che $f:\mathscr{C}\to\mathscr{C}$ sia una suriezione tale che $|PQ|\ge|f(P)f(Q)|$ per tutti $P,Q\in\mathscr{C}$. Provare che $f$ è un'isometria.
 
-[[src_pol_1993_r1__Q10]]
+[[Quesiti/src_pol_1993_r1#q10|src_pol_1993_r1__Q10]]
 
 
 
@@ -310,7 +310,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. La probabilità che almeno due dei pedoni si trovino nella stessa riga o colonna è $p_n$. Trova $\displaystyle\lim_{n\to\infty} n p_n$.
 
-[[src_pol_1993_r1__Q11]]
+[[Quesiti/src_pol_1993_r1#q11|src_pol_1993_r1__Q11]]
 
 
 
@@ -337,4 +337,4 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 
 > Prove che il polinomio $x^n+4$ è espressibile come il prodotto di due polinomi non costanti con coefficienti interi se e solo se $4\mid n$.
 
-[[src_pol_1993_r1__Q12]]
+[[Quesiti/src_pol_1993_r1#q12|src_pol_1993_r1__Q12]]

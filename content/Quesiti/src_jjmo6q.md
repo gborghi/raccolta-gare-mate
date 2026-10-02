@@ -34,7 +34,7 @@ level: JJMO
 
 > Calcolare la seguente espressione: $$877 \times 879 - 121 \times 123.$$
 
-[[src_jjmo6q__Q01]]
+[[Quesiti/src_jjmo6q#q01|src_jjmo6q__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: JJMO
 
 > Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (cioè trovare il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
 
-[[src_jjmo6q__Q02]]
+[[Quesiti/src_jjmo6q#q02|src_jjmo6q__Q02]]
 
 
 
@@ -74,7 +74,7 @@ level: JJMO
 
 > Six points $A, B, C, D, E, F$ lie on a circle in this order such that arc $AB$, arc $BC$, arc $CD$, arc $DE$, arc $EF$, and arc $FA$ are all equal in length. Given that $\angle ACE = 68^\circ$, find $\angle BFD$.
 
-![[src_jjmo6q__Q03.png]]
+![[src_jjmo6q__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -90,9 +90,9 @@ level: JJMO
 
 > Sei punti $A, B, C, D, E, F$ si trovano su un cerchio in questo ordine in modo che l'arco $AB$, l'arco $BC$, l'arco $CD$, l'arco $DE$, l'arco $EF$ e l'arco $FA$ siano tutti uguali di lunghezza. Dato che $\angle ACE = 68^\circ$, trovare $\angle BFD$.
 
-![[src_jjmo6q__Q03.png]]
+![[src_jjmo6q__q03.png]]
 
-[[src_jjmo6q__Q03]]
+[[Quesiti/src_jjmo6q#q03|src_jjmo6q__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: JJMO
 > 
 > La condizione è che il pagamento di Taro non abbia alcun importo in comune (come monete/monete) con il cambio che riceve; tra tutti i metodi di pagamento che soddisfano questa condizione, sceglie uno che riduca al minimo il numero di monete/monete che detiene dopo la transazione (cioè riduce al minimo il numero totale delle sue monete/monete rimanenti dopo aver ricevuto il cambio). Inoltre, il cambio viene sempre dato con il numero minimo di monete/monete, ed è anche possibile che il cambio sia di 0 yen.
 
-[[src_jjmo6q__Q04]]
+[[Quesiti/src_jjmo6q#q04|src_jjmo6q__Q04]]
 
 
 
@@ -136,7 +136,7 @@ level: JJMO
 
 > Let $ABCD$ be a unit square (side length $1$). Let $O$ be the centre of the circle with diameter $AD$, and let $E$ be a point on side $AB$. The line $CE$ is tangent to the circle with centre $O$. Find the area of triangle $CBE$.
 
-![[src_jjmo6q__Q05.png]]
+![[src_jjmo6q__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -152,9 +152,9 @@ level: JJMO
 
 > Il $ABCD$ deve essere un quadrato unitario (lenghezza laterale $1$). Il $O$ deve essere il centro del cerchio con diametro $AD$ e il $E$ deve essere un punto laterale $AB$. La linea $CE$ è tangente al cerchio con il centro $O$. Trova l'area del triangolo $CBE$.
 
-![[src_jjmo6q__Q05.png]]
+![[src_jjmo6q__q05.png]]
 
-[[src_jjmo6q__Q05]]
+[[Quesiti/src_jjmo6q#q05|src_jjmo6q__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: JJMO
 > 
 > (Le gare non si verificano; i disegni non sono possibili.)
 
-[[src_jjmo6q__Q06]]
+[[Quesiti/src_jjmo6q#q06|src_jjmo6q__Q06]]
 
 
 
@@ -212,7 +212,7 @@ level: JJMO
 
 > Quanti triples ordinati di integri positivi $(a, b, c)$ esistono in modo tale che il più piccolo multiplo comune di $a$, $b$ e $c$ sia $720$, e i tre numeri $a$, $b$, $c$ siano parimenti distinti (nessuno di due è uguale)? (I triples che differiscono solo nell'ordine sono contati separatamente.)
 
-[[src_jjmo6q__Q07]]
+[[Quesiti/src_jjmo6q#q07|src_jjmo6q__Q07]]
 
 
 
@@ -243,7 +243,7 @@ level: JJMO
 > 
 > Trovare tutte le possibili combinazioni del numero di studenti in ciascuno dei gradi 1, 2 e 3 (cioè anni di scuola media 1, 2, 3).
 
-[[src_jjmo6q__Q08]]
+[[Quesiti/src_jjmo6q#q08|src_jjmo6q__Q08]]
 
 
 
@@ -278,7 +278,7 @@ level: JJMO
 > 
 > (Questo è un problema di prova; anche se la risposta è dichiarata, deve essere dimostrata corretta.)
 
-[[src_jjmo6q__Q09]]
+[[Quesiti/src_jjmo6q#q09|src_jjmo6q__Q09]]
 
 
 
@@ -311,7 +311,7 @@ level: JJMO
 > 
 > (Questo è un problema di prova.)
 
-[[src_jjmo6q__Q10]]
+[[Quesiti/src_jjmo6q#q10|src_jjmo6q__Q10]]
 
 
 
@@ -364,4 +364,4 @@ level: JJMO
 > 
 > (Questo è un problema di prova per la parte (2).)
 
-[[src_jjmo6q__Q11]]
+[[Quesiti/src_jjmo6q#q11|src_jjmo6q__Q11]]

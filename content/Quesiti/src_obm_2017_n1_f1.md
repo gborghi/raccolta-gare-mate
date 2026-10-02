@@ -33,7 +33,7 @@ level: OBM Nível 1
 
 > Determinare il più piccolo intero positivo $A$ in modo tale che, dati due quadrati le cui aree sommano a $2017$, sia sempre possibile inserire questi due quadrati, senza sovrapposizione, all'interno di un rettangolo di superficie $A$, con i lati dei quadrati paralleli ai lati del rettangolo.
 
-[[src_obm_2017_n1_f1__Q01]]
+[[Quesiti/src_obm_2017_n1_f1#q01|src_obm_2017_n1_f1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > 
 > b) Determinare $\lim_{n \to \infty} \left(\frac{2^n(2 - a_n)}{n+1}\right)^{n+1}$.
 
-[[src_obm_2017_n1_f1__Q02]]
+[[Quesiti/src_obm_2017_n1_f1#q02|src_obm_2017_n1_f1__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: OBM Nível 1
 > 
 > **Obs.:** L'envelope di una famiglia di curve è una curva chiusa che è tangente a ogni curva della famiglia.
 
-[[src_obm_2017_n1_f1__Q03]]
+[[Quesiti/src_obm_2017_n1_f1#q03|src_obm_2017_n1_f1__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: OBM Nível 1
 
 > Definire $f : (0, \infty) \to \mathbb{R}$ con $$f(x) = \sum_{k \geq 0} \frac{1}{(x+k)^2} = \frac{1}{x^2} + \frac{1}{(x+1)^2} + \frac{1}{(x+2)^2} + \cdots$$ Trovare costanti $a \neq 0$, $b$, $c$ tali da $$f(x) = x^{-2}\bigl(a + b x^{-1} + r(x)\bigr),$$ con $\lim_{x \to \infty} x \cdot r(x) = 0$.
 
-[[src_obm_2017_n1_f1__Q04]]
+[[Quesiti/src_obm_2017_n1_f1#q04|src_obm_2017_n1_f1__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: OBM Nível 1
 
 > Determinare il numero intero più piccolo $n$ in modo tale che per qualsiasi scelta di numeri interi $m$ da $[-2017, 2017]$, tre di essi siano sempre sommati a zero.
 
-[[src_obm_2017_n1_f1__Q05]]
+[[Quesiti/src_obm_2017_n1_f1#q05|src_obm_2017_n1_f1__Q05]]
 
 
 
@@ -194,4 +194,4 @@ level: OBM Nível 1
 
 > Lasciate che $k_1, k_2, \ldots, k_n$ siano integri non negativi. Provare che esistono costanti $C$ e $r$ tali da $\det(M) = C t^r$. Trovare formule semplici per $C$ e $r$.
 
-[[src_obm_2017_n1_f1__Q06]]
+[[Quesiti/src_obm_2017_n1_f1#q06|src_obm_2017_n1_f1__Q06]]

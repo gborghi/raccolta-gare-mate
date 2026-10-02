@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** 5/2
 
 **Answer:** A
-[[src_archimede_2026_triennio__Q01]]
+[[Quesiti/src_archimede_2026_triennio#q01|src_archimede_2026_triennio__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: triennio
 > - **(E)** 11
 
 **Answer:** B
-[[src_archimede_2026_triennio__Q02]]
+[[Quesiti/src_archimede_2026_triennio#q02|src_archimede_2026_triennio__Q02]]
 
 
 
@@ -129,7 +129,7 @@ level: triennio
 > - **(E)** 75
 
 **Answer:** D
-[[src_archimede_2026_triennio__Q03]]
+[[Quesiti/src_archimede_2026_triennio#q03|src_archimede_2026_triennio__Q03]]
 
 
 
@@ -174,7 +174,7 @@ level: triennio
 > - **(E)** 35
 
 **Answer:** B
-[[src_archimede_2026_triennio__Q04]]
+[[Quesiti/src_archimede_2026_triennio#q04|src_archimede_2026_triennio__Q04]]
 
 
 
@@ -219,7 +219,7 @@ level: triennio
 > - **(E)** 23
 
 **Answer:** D
-[[src_archimede_2026_triennio__Q05]]
+[[Quesiti/src_archimede_2026_triennio#q05|src_archimede_2026_triennio__Q05]]
 
 
 
@@ -265,7 +265,7 @@ level: triennio
 > - **(E)** 11
 
 **Answer:** E
-[[src_archimede_2026_triennio__Q06]]
+[[Quesiti/src_archimede_2026_triennio#q06|src_archimede_2026_triennio__Q06]]
 
 
 
@@ -315,7 +315,7 @@ level: triennio
 > - **(E)** 6 √ 2
 
 **Answer:** C
-[[src_archimede_2026_triennio__Q07]]
+[[Quesiti/src_archimede_2026_triennio#q07|src_archimede_2026_triennio__Q07]]
 
 
 
@@ -357,7 +357,7 @@ level: triennio
 > - **(E)** la 336a
 
 **Answer:** B
-[[src_archimede_2026_triennio__Q08]]
+[[Quesiti/src_archimede_2026_triennio#q08|src_archimede_2026_triennio__Q08]]
 
 
 
@@ -398,7 +398,7 @@ level: triennio
 > - **(E)** k3 < 1 k < k2 < 1 k2
 
 **Answer:** C
-[[src_archimede_2026_triennio__Q09]]
+[[Quesiti/src_archimede_2026_triennio#q09|src_archimede_2026_triennio__Q09]]
 
 
 
@@ -451,7 +451,7 @@ level: triennio
 > - **(E)** 81/4
 
 **Answer:** B
-[[src_archimede_2026_triennio__Q10]]
+[[Quesiti/src_archimede_2026_triennio#q10|src_archimede_2026_triennio__Q10]]
 
 
 
@@ -493,7 +493,7 @@ level: triennio
 > - **(E)** 77
 
 **Answer:** B
-[[src_archimede_2026_triennio__Q11]]
+[[Quesiti/src_archimede_2026_triennio#q11|src_archimede_2026_triennio__Q11]]
 
 
 
@@ -536,7 +536,7 @@ level: triennio
 > - **(E)** 1/15
 
 **Answer:** E
-[[src_archimede_2026_triennio__Q12]]
+[[Quesiti/src_archimede_2026_triennio#q12|src_archimede_2026_triennio__Q12]]
 
 
 
@@ -580,7 +580,7 @@ level: triennio
 > - **(E)** 512
 
 **Answer:** 50
-[[src_archimede_2026_triennio__Q13]]
+[[Quesiti/src_archimede_2026_triennio#q13|src_archimede_2026_triennio__Q13]]
 
 
 
@@ -627,7 +627,7 @@ level: triennio
 > - **(E)** 10/9
 
 **Answer:** 298
-[[src_archimede_2026_triennio__Q14]]
+[[Quesiti/src_archimede_2026_triennio#q14|src_archimede_2026_triennio__Q14]]
 
 
 
@@ -673,7 +673,7 @@ level: triennio
 > - **(D)** 1050
 > - **(E)** 210
 
-[[src_archimede_2026_triennio__Q15]]
+[[Quesiti/src_archimede_2026_triennio#q15|src_archimede_2026_triennio__Q15]]
 
 
 
@@ -713,7 +713,7 @@ level: triennio
 > - **(D)** 5/4
 > - **(E)** 8/5 311
 
-[[src_archimede_2026_triennio__Q16]]
+[[Quesiti/src_archimede_2026_triennio#q16|src_archimede_2026_triennio__Q16]]
 
 
 
@@ -740,4 +740,4 @@ level: triennio
 
 > **[No problem present]** The Archimedes 2026 Triennial Race (27 November 2025) trial consists of only 16 problems. Problem 17 does not exist in this document.
 
-[[src_archimede_2026_triennio__Q17]]
+[[Quesiti/src_archimede_2026_triennio#q17|src_archimede_2026_triennio__Q17]]

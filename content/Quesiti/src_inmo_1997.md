@@ -34,7 +34,7 @@ level: INMO
 
 > Una linea attraverso la vertica $C$ di un parallelo $ABCD$ risponde alle estensioni dei lati $AB$ e $AD$ rispettivamente a $E$ e $F$. Provare che $$AC^2 + CE \cdot CF = AB \cdot AE + AD \cdot AF.$$
 
-[[src_inmo_1997__Q01]]
+[[Quesiti/src_inmo_1997#q01|src_inmo_1997__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: INMO
 
 > Mostrare che non esistono numeri interi positivi $m$ e $n$ in modo tale che $$\frac{m}{n} + \frac{n+1}{m} = 4.$$
 
-[[src_inmo_1997__Q02]]
+[[Quesiti/src_inmo_1997#q02|src_inmo_1997__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: INMO
 
 > Supponiamo che $a, b, c$ siano numeri reali distinti e $t$ un numero reale tale che $a + \frac{1}{b} = b + \frac{1}{c} = c + \frac{1}{a} = t$. Mostra che $abc + t = 0$.
 
-[[src_inmo_1997__Q03]]
+[[Quesiti/src_inmo_1997#q03|src_inmo_1997__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: INMO
 
 > Un centinaio di raggi che emanano dal centro di un quadrato dividono il quadrato in parti $100$, tutte uguali di perimetro $p$. Mostra che $1.4 < p < 1.5$.
 
-[[src_inmo_1997__Q04]]
+[[Quesiti/src_inmo_1997#q04|src_inmo_1997__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: INMO
 
 > Trovare il numero di matrici $4 \times 4$ le cui voci provengono dal set $\{0, 1, 2, 3\}$ in modo tale che la somma dei numeri in ciascuna delle quattro righe e in ciascuna delle quattro colonne sia divisibile da $4$.
 
-[[src_inmo_1997__Q05]]
+[[Quesiti/src_inmo_1997#q05|src_inmo_1997__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: INMO
 
 > $a$ e $b$ siano numeri positivi per i quali l'equazione cubica $x^3 - ax + b = 0$ ha tre radici reali (non necessariamente distinte). Se $\alpha$ è quello con valore assoluto minimo, dimostrare che $$\frac{b}{a} < \alpha < \frac{3b}{2a}.$$
 
-[[src_inmo_1997__Q06]]
+[[Quesiti/src_inmo_1997#q06|src_inmo_1997__Q06]]

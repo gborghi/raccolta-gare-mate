@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Un numero viene rimosso dall'insieme di numeri interi da $1$ a $n$. La media dei restanti numeri è $\dfrac{163}{4}$. Determinare tutti i valori possibili del numero rimosso.
 
-[[src_bmo_2010-11_round1__Q01]]
+[[Quesiti/src_bmo_2010-11_round1#q01|src_bmo_2010-11_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Se $a$ è un numero intero maggiore di $1$. Un cubo di lato solido $a$ ha un buco quadrato di lato $s$ perforato direttamente da una faccia alla faccia opposta (in questo modo il foraggio rimuove un cuboide). Il volume del solido rimanente è numericamente uguale alla superficie totale del solido rimanente. Determinare tutti i possibili valori di $a$.
 
-[[src_bmo_2010-11_round1__Q02]]
+[[Quesiti/src_bmo_2010-11_round1#q02|src_bmo_2010-11_round1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Che $ABC$ sia un triangolo con $\angle CAB = 2\angle CBA$. $N$ è il punto in cui la linea $CA$ incontra il bisettore perpendicolare di $BC$. $M$ sia il punto medio di $BC$. Dimostra che $AB = AC + CM$.
 
-[[src_bmo_2010-11_round1__Q03]]
+[[Quesiti/src_bmo_2010-11_round1#q03|src_bmo_2010-11_round1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: BMO Round 1
 
 > Isaac ha una grande quantità di monete, e ne mette una su ogni quadrato di una scacchiera $8 \times 8$. Ogni moneta è rossa, bianca o blu. Un colore è chiamato un arredamento se, in ogni riga e colonna, ci sono un numero impar di monete rosse. Trova il numero di tali accordi.
 
-[[src_bmo_2010-11_round1__Q04]]
+[[Quesiti/src_bmo_2010-11_round1#q04|src_bmo_2010-11_round1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: BMO Round 1
 
 > I cerchi $S_1$ e $S_2$ si incontrano a $L$ e $M$. Let $P$ essere un punto su $S_2$. Lasciate che $PL$ e $PM$ rientrino in $S_1$ rispettivamente a $Q$ e $R$. Indicare che, poiché $P$ varia su $S_2$, la linea $QR$ passa attraverso un punto fisso.
 
-[[src_bmo_2010-11_round1__Q05]]
+[[Quesiti/src_bmo_2010-11_round1#q05|src_bmo_2010-11_round1__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: BMO Round 1
 
 > $a$ e $b$ siano numeri interi positivi e $c$ un numero intero positivo inferiore a $a + b$. Supponiamo che $a^2 + b^2 - c^2 = ab - bc - ca$. Indicare che $a$, $b$, $c$ sono i lati di un triangolo che contiene un angolo di $60^\circ$.
 
-[[src_bmo_2010-11_round1__Q06]]
+[[Quesiti/src_bmo_2010-11_round1#q06|src_bmo_2010-11_round1__Q06]]

@@ -46,7 +46,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $0.\overline{10}$
 
 **Risposta:** E
-[[src_smc_2024__Q01]]
+[[Quesiti/src_smc_2024#q01|src_smc_2024__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $27\,000$
 
 **Risposta:** A
-[[src_smc_2024__Q02]]
+[[Quesiti/src_smc_2024#q02|src_smc_2024__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $6$
 
 **Risposta:** B
-[[src_smc_2024__Q03]]
+[[Quesiti/src_smc_2024#q03|src_smc_2024__Q03]]
 
 
 
@@ -168,7 +168,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $121^\circ$
 
 **Risposta:** C
-[[src_smc_2024__Q04]]
+[[Quesiti/src_smc_2024#q04|src_smc_2024__Q04]]
 
 
 
@@ -208,7 +208,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $20$
 
 **Risposta:** B
-[[src_smc_2024__Q05]]
+[[Quesiti/src_smc_2024#q05|src_smc_2024__Q05]]
 
 
 
@@ -227,7 +227,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $16$
 > - **(E)** $24$
 
-![[src_smc_2024__Q06.png]]
+![[src_smc_2024__q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -250,10 +250,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $16$
 > - **(E)** $24$
 
-![[src_smc_2024__Q06.png]]
+![[src_smc_2024__q06.png]]
 
 **Risposta:** D
-[[src_smc_2024__Q06]]
+[[Quesiti/src_smc_2024#q06|src_smc_2024__Q06]]
 
 
 
@@ -294,7 +294,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $23$
 
 **Risposta:** A
-[[src_smc_2024__Q07]]
+[[Quesiti/src_smc_2024#q07|src_smc_2024__Q07]]
 
 
 
@@ -334,7 +334,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $20x$
 
 **Risposta:** D
-[[src_smc_2024__Q08]]
+[[Quesiti/src_smc_2024#q08|src_smc_2024__Q08]]
 
 
 
@@ -375,7 +375,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $1$
 
 **Risposta:** E
-[[src_smc_2024__Q09]]
+[[Quesiti/src_smc_2024#q09|src_smc_2024__Q09]]
 
 
 
@@ -416,7 +416,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** D
-[[src_smc_2024__Q10]]
+[[Quesiti/src_smc_2024#q10|src_smc_2024__Q10]]
 
 
 
@@ -457,7 +457,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $n(n+1)(2n+3(n+4)+1)$
 
 **Risposta:** D
-[[src_smc_2024__Q11]]
+[[Quesiti/src_smc_2024#q11|src_smc_2024__Q11]]
 
 
 
@@ -498,7 +498,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** ulteriori informazioni necessarie
 
 **Risposta:** A
-[[src_smc_2024__Q12]]
+[[Quesiti/src_smc_2024#q12|src_smc_2024__Q12]]
 
 
 
@@ -517,7 +517,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $716$
 > - **(E)** $761$
 
-![[src_smc_2024__Q13.png]]
+![[src_smc_2024__q13.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -539,10 +539,10 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $716$
 > - **(E)** $761$
 
-![[src_smc_2024__Q13.png]]
+![[src_smc_2024__q13.png]]
 
 **Risposta:** C
-[[src_smc_2024__Q13]]
+[[Quesiti/src_smc_2024#q13|src_smc_2024__Q13]]
 
 
 
@@ -583,7 +583,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $5$
 
 **Risposta:** B
-[[src_smc_2024__Q14]]
+[[Quesiti/src_smc_2024#q14|src_smc_2024__Q14]]
 
 
 
@@ -602,7 +602,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $\sqrt{22}$
 > - **(E)** $5$
 
-![[src_smc_2024__Q15.png]]
+![[src_smc_2024__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -624,10 +624,10 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $\sqrt{22}$
 > - **(E)** $5$
 
-![[src_smc_2024__Q15.png]]
+![[src_smc_2024__q15.png]]
 
 **Risposta:** C
-[[src_smc_2024__Q15]]
+[[Quesiti/src_smc_2024#q15|src_smc_2024__Q15]]
 
 
 
@@ -646,7 +646,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $40$
 > - **(E)** $56$
 
-![[src_smc_2024__Q16.png]]
+![[src_smc_2024__q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -669,10 +669,10 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $40$
 > - **(E)** $56$
 
-![[src_smc_2024__Q16.png]]
+![[src_smc_2024__q16.png]]
 
 **Risposta:** B
-[[src_smc_2024__Q16]]
+[[Quesiti/src_smc_2024#q16|src_smc_2024__Q16]]
 
 
 
@@ -713,7 +713,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $0$
 
 **Risposta:** E
-[[src_smc_2024__Q17]]
+[[Quesiti/src_smc_2024#q17|src_smc_2024__Q17]]
 
 
 
@@ -732,7 +732,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $\frac{\sqrt{14}}{2} - 2$
 > - **(E)** $\frac{\sqrt{14} - 1}{2}$
 
-![[src_smc_2024__Q18.png]]
+![[src_smc_2024__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -754,10 +754,10 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $\frac{\sqrt{14}}{2} - 2$
 > - **(E)** $\frac{\sqrt{14} - 1}{2}$
 
-![[src_smc_2024__Q18.png]]
+![[src_smc_2024__q18.png]]
 
 **Risposta:** C
-[[src_smc_2024__Q18]]
+[[Quesiti/src_smc_2024#q18|src_smc_2024__Q18]]
 
 
 
@@ -798,7 +798,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** Stephen ha la carta 7
 
 **Risposta:** C
-[[src_smc_2024__Q19]]
+[[Quesiti/src_smc_2024#q19|src_smc_2024__Q19]]
 
 
 
@@ -839,7 +839,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $480$
 
 **Risposta:** D
-[[src_smc_2024__Q20]]
+[[Quesiti/src_smc_2024#q20|src_smc_2024__Q20]]
 
 
 
@@ -880,7 +880,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $2$
 
 **Risposta:** B
-[[src_smc_2024__Q21]]
+[[Quesiti/src_smc_2024#q21|src_smc_2024__Q21]]
 
 
 
@@ -899,7 +899,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $7$
 > - **(E)** $8$
 
-![[src_smc_2024__Q22.png]]
+![[src_smc_2024__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -921,10 +921,10 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $7$
 > - **(E)** $8$
 
-![[src_smc_2024__Q22.png]]
+![[src_smc_2024__q22.png]]
 
 **Risposta:** A
-[[src_smc_2024__Q22]]
+[[Quesiti/src_smc_2024#q22|src_smc_2024__Q22]]
 
 
 
@@ -943,7 +943,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $6 + 8\sqrt{3}$
 > - **(E)** $8 + 6\sqrt{3}$
 
-![[src_smc_2024__Q23.png]]
+![[src_smc_2024__q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -965,10 +965,10 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $6 + 8\sqrt{3}$
 > - **(E)** $8 + 6\sqrt{3}$
 
-![[src_smc_2024__Q23.png]]
+![[src_smc_2024__q23.png]]
 
 **Risposta:** E
-[[src_smc_2024__Q23]]
+[[Quesiti/src_smc_2024#q23|src_smc_2024__Q23]]
 
 
 
@@ -1009,7 +1009,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(E)** $50$
 
 **Risposta:** E
-[[src_smc_2024__Q24]]
+[[Quesiti/src_smc_2024#q24|src_smc_2024__Q24]]
 
 
 
@@ -1028,7 +1028,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $18$
 > - **(E)** $8\sqrt{3}$
 
-![[src_smc_2024__Q25.png]]
+![[src_smc_2024__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -1051,7 +1051,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $18$
 > - **(E)** $8\sqrt{3}$
 
-![[src_smc_2024__Q25.png]]
+![[src_smc_2024__q25.png]]
 
 **Risposta:** E
-[[src_smc_2024__Q25]]
+[[Quesiti/src_smc_2024#q25|src_smc_2024__Q25]]

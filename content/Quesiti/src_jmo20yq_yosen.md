@@ -35,7 +35,7 @@ level: JMO Yosen
 > Trova il numero di 6 tupli $(a,b,c,d,e,f)$ di numeri interi positivi soddisfaci $a > b > c > d > e > f$ e $a + f = b + e = c + d = 22$.
 
 **Risposta:** 4
-[[src_jmo20yq_yosen__Q01]]
+[[Quesiti/src_jmo20yq_yosen#q01|src_jmo20yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Trova la media di tutti gli enti tra $0$ e $10000$ (inclusi) la cui rappresentazione decimale non contiene la cifra $1$.
 
 **Risposta:** 2469
-[[src_jmo20yq_yosen__Q02]]
+[[Quesiti/src_jmo20yq_yosen#q02|src_jmo20yq_yosen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JMO Yosen
 > Che $n$ sia un intero positivo a 3 cifre, tutti i cui numeri sono distinti e non zero. Che $g$ sia il più grande divisore comune di tutti e sei i numeri a 3 cifre ottenuti permutando i numeri di $n$. Trova il valore massimo possibile di $g$.
 
 **Risposta:** 18
-[[src_jmo20yq_yosen__Q03]]
+[[Quesiti/src_jmo20yq_yosen#q03|src_jmo20yq_yosen__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: JMO Yosen
 
 > Il quadrilaterale $ABCD$ è inserito in un cerchio di raggio $1$ e l'angolo tra le due diagonali è $60^\circ$. Il punto di intersezione di $P$ è il punto di intersezione dei diagonali $AC$ e $BD$. Date $AP = \dfrac{1}{2}$ e $CP = \dfrac{3}{2}$, trovare tutti i possibili valori di $|BP - DP|$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo20yq_yosen__Q04]]
+[[Quesiti/src_jmo20yq_yosen#q04|src_jmo20yq_yosen__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: JMO Yosen
 
 > Trova il numero di triangoli $ABC$ i cui tre angoli interni sono tutti multipli interi di $1^\circ$. Due triangoli che differiscono solo per una permutazione delle etichette $A$, $B$, $C$ (cioè che hanno lo stesso multiset di angoli) vengono contati come uguali.
 
-[[src_jmo20yq_yosen__Q05]]
+[[Quesiti/src_jmo20yq_yosen#q05|src_jmo20yq_yosen__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: JMO Yosen
 > Ci sono $3$ uccelli rossi, $3$ uccelli blu e $3$ uccelli gialli, ciascuno sulla propria isola (il che dà $9$ isole in totale). I ponti tra le isole devono essere costruiti soddisfacendo le seguenti due condizioni: tra le due isole c'è al massimo un ponte; per ogni ponte, i due uccelli nei suoi punti di fine sono di colori diversi. Per due uccelli dello stesso colore, le loro isole non sono collegate da alcun percorso di ponti (cioè, sono in componenti collegati diversi). (La configurazione senza ponti conta come $1$.)
 
 **Risposta:** 54
-[[src_jmo20yq_yosen__Q06]]
+[[Quesiti/src_jmo20yq_yosen#q06|src_jmo20yq_yosen__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: JMO Yosen
 
 > Una sequenza infinita di interi positivi $a_0, a_1, a_2, \ldots$ soddisfa le seguenti due condizioni per ogni intero non negativo $n$:\n\n$\bullet$ $a_0$ divide $a_n$.\n\n$\bullet$ $|a_n - a_{n+1}| \le 5$.\n\nRicerca il valore massimo possibile di $a_0$.
 
-[[src_jmo20yq_yosen__Q07]]
+[[Quesiti/src_jmo20yq_yosen#q07|src_jmo20yq_yosen__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: JMO Yosen
 
 > C'è un punto $P$ all'interno del triangolo $ABC$. Poiché $AP = \sqrt{3}$, $BP = 5$, $CP = 2$, $AB : AC = 2 : 1$ e $\angle BAC = 60^\circ$, si trova l'area del triangolo $ABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo20yq_yosen__Q08]]
+[[Quesiti/src_jmo20yq_yosen#q08|src_jmo20yq_yosen__Q08]]
 
 
 
@@ -257,7 +257,7 @@ level: JMO Yosen
 
 > In quanti modi le pietre bianche $2010$ e le pietre nere $2010$ possono essere disposte in una singola riga in modo tale che la seguente condizione sia valida?\n\nCondizione: Il numero di coppie adiacenti (posizioni consecutive) in cui la pietra bianca è immediatamente a sinistra della pietra nera è strano.
 
-[[src_jmo20yq_yosen__Q09]]
+[[Quesiti/src_jmo20yq_yosen#q09|src_jmo20yq_yosen__Q09]]
 
 
 
@@ -284,7 +284,7 @@ level: JMO Yosen
 
 > Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$ nella base $10$. Dato che $S(n) = 5$, trovare il valore massimo possibile di $S(n^2)$.
 
-[[src_jmo20yq_yosen__Q10]]
+[[Quesiti/src_jmo20yq_yosen#q10|src_jmo20yq_yosen__Q10]]
 
 
 
@@ -311,7 +311,7 @@ level: JMO Yosen
 
 > In quadrilaterali $ABCD$, $\angle DAB = 110^\circ$, $\angle ABC = 50^\circ$, $\angle BCD = 70^\circ$. $M$ e $N$ siano rispettivamente i punti intermedi di $AB$ e $CD$. Prendere un punto $P$ sul segmento $MN$ in modo tale che $AM : CN = MP : NP$ e $AP = CP$. Trova la misura di $\angle APC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo20yq_yosen__Q11]]
+[[Quesiti/src_jmo20yq_yosen#q11|src_jmo20yq_yosen__Q11]]
 
 
 
@@ -338,4 +338,4 @@ level: JMO Yosen
 
 > Ci sono aeroporti $2010$. Alcune coppie di aeroporti sono collegate da voli diretti bidirezionali, che soddisfano le seguenti due condizioni: 1) Per due aeroporti $A$ e $B$, si può viaggiare da $A$ a $B$ utilizzando uno o più voli diretti. Le nuove rotte dirette (che differiscono da quelle chiuse, e ciascuna è un volo bidirezionale) vengono quindi aperte una per una in modo da soddisfare di nuovo le condizioni (1) e (2). Trovare il numero massimo possibile di nuove rotte da aprire.\n\nNota: Un volo diretto da aeroporto $X$ a aeroporto $Y$ serve anche come volo diretto da $Y$ a $X$.
 
-[[src_jmo20yq_yosen__Q12]]
+[[Quesiti/src_jmo20yq_yosen#q12|src_jmo20yq_yosen__Q12]]

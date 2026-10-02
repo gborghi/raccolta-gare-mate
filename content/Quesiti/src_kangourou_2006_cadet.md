@@ -39,7 +39,7 @@ The value of the sub-unit shall be the sum of the sub-unit values of the sub-uni
 > 20x (0+6)-(20x 0)+ 6 = A) 0 B) 106 C) 114 D) 126 E) 12
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q01]]
+[[Quesiti/src_kangourou_2006_cadet#q01|src_kangourou_2006_cadet__Q01]]
 
 
 
@@ -73,7 +73,7 @@ The most likely event in the rolling of a dice
 > Let's throw a dice with faces numbered 1 to 6. Which of the following is most likely? The output of a number A) less than 5 B) odd C) divisible by 3 D) greater than 3 E) equal
 
 **Answer:** A
-[[src_kangourou_2006_cadet__Q02]]
+[[Quesiti/src_kangourou_2006_cadet#q02|src_kangourou_2006_cadet__Q02]]
 
 
 
@@ -110,7 +110,7 @@ The most likely event in the rolling of a dice
 > The O-point is the center of the regular pentagon in the figure. What percentage of the pentagon is shaded? A) il 10% B) il 20% C) il 25% D) il 30% E) il 40%
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q03]]
+[[Quesiti/src_kangourou_2006_cadet#q03|src_kangourou_2006_cadet__Q03]]
 
 
 
@@ -145,7 +145,7 @@ The most likely event in the rolling of a dice
 > One grandmother tells her grandchildren, "If I made two cakes for each of you, I would have enough pasta left to make exactly three more cakes. But I can't make three cakes for each of you, because I wouldn't have pasta for the last two cakes". How many grandchildren does that grandmother have? A) 6 B) 5 C) 4 D) 3 E) 2
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q04]]
+[[Quesiti/src_kangourou_2006_cadet#q04|src_kangourou_2006_cadet__Q04]]
 
 
 
@@ -180,7 +180,7 @@ The most likely event in the rolling of a dice
 > The figure represents a square sheet on which a triangle is drawn. If the side of each square is 1 centimetre, the area of the triangle is (in square centimetres) A) 25.5 B) 25.75 C) 26.25 D) 28 E) 24.7
 
 **Answer:** A
-[[src_kangourou_2006_cadet__Q05]]
+[[Quesiti/src_kangourou_2006_cadet#q05|src_kangourou_2006_cadet__Q05]]
 
 
 
@@ -227,7 +227,7 @@ The most likely event in the rolling of a dice
 > I'm going to pay. I'm going to pay. 18 18 Kang 2006 Kang
 
 **Answer:** C
-[[src_kangourou_2006_cadet__Q06]]
+[[Quesiti/src_kangourou_2006_cadet#q06|src_kangourou_2006_cadet__Q06]]
 
 
 
@@ -264,7 +264,7 @@ The most likely event in the rolling of a dice
 > A survey of 2006 students in Milan highlighted that last year 1500 of them participated in the mathematics competition "Kangourou" and 1200 in the literary competition "Young Writers". If only 6 of the students interviewed did not participate in any competition, how many did they participate in both competitions? A) 300 B) 500 C) 600 D) 700 E) 1000
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q07]]
+[[Quesiti/src_kangourou_2006_cadet#q07|src_kangourou_2006_cadet__Q07]]
 
 
 
@@ -298,7 +298,7 @@ The most likely event in the rolling of a dice
 > The solid in the figure consists of two cubes. The smallest, whose side is 1 centimeter long, is entirely resting on the upper face of the larger cube whose side measures 3 centimeters. What is the total surface area of the solid measured in square centimetres? A) 56 B) 58 C) 60 D) 62 E) 64
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q08]]
+[[Quesiti/src_kangourou_2006_cadet#q08|src_kangourou_2006_cadet__Q08]]
 
 
 
@@ -332,7 +332,7 @@ The most likely event in the rolling of a dice
 > Two sides of a triangle (not degenerate) measure 7 centimeters each. The length of the third side is an integer of centimeters. How many centimeters can the perimeter of the triangle be measured at most? A) 14 B) 15 C) 21 D) 27 E) 28
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q09]]
+[[Quesiti/src_kangourou_2006_cadet#q09|src_kangourou_2006_cadet__Q09]]
 
 
 
@@ -368,7 +368,7 @@ Maximum number of girls with distinct friendships
 > There are 21 students in a class and there are no two girls who are friends with the same number of boys in the class. How many girls can be in that class at most? A) 13 B) 10 C) 9 D) 12 E) 11 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2006_cadet__Q10]]
+[[Quesiti/src_kangourou_2006_cadet#q10|src_kangourou_2006_cadet__Q10]]
 
 
 
@@ -401,7 +401,7 @@ Maximum number of girls with distinct friendships
 > My trick is one color: if it's blue, it's round; if it's square, it's red; if it's blue or yellow; if it's yellow, it's square; it's square or round. How's my trick? A) red and square B) red and round C) square and blue D) blue and round E) yellow and round
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q11]]
+[[Quesiti/src_kangourou_2006_cadet#q11|src_kangourou_2006_cadet__Q11]]
 
 
 
@@ -437,7 +437,7 @@ Maximum number of girls with distinct friendships
 > Andrea, Bruno, and Carlo combined their savings to buy a tent for camping. Carlo contributed 60% of the price, Andrea contributed 40% of the remaining share. Bruno added the missing 30 euros. What was the price in euros for the tent? A) 50 B) 60 C) 125 D) 150 E) 200
 
 **Answer:** C
-[[src_kangourou_2006_cadet__Q12]]
+[[Quesiti/src_kangourou_2006_cadet#q12|src_kangourou_2006_cadet__Q12]]
 
 
 
@@ -484,7 +484,7 @@ Maximum number of girls with distinct friendships
 > I'm going to pay. I'm going to pay. 19 19 Kang 2006 Kang 2006 on a dual-track line, the first at 100 km/h and the second at 120 km/h. When they cross, from a window of the second train, a passenger observes that it takes exactly six seconds for the first train to completely slide in front of them. In how many seconds does a passenger on the first train see the second train parade in front of him? A) 5 B) 6 C) between 6 and 7 D) 7 E) more than 7
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q13]]
+[[Quesiti/src_kangourou_2006_cadet#q13|src_kangourou_2006_cadet__Q13]]
 
 
 
@@ -519,7 +519,7 @@ Maximum number of girls with distinct friendships
 > An alien convoy crosses space aboard the starship STAR 1. They're three different colors: green, purple and blue. The greens have two tentacles, the lilies have three, and the blues have five. The greens are as many as the lilies and the blues are 10 more than the greens. Together they have 250 tentacles. How many blue aliens travel on STAR 1? A) 15 B) 20 C) 25 D) 30 E) 40
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q14]]
+[[Quesiti/src_kangourou_2006_cadet#q14|src_kangourou_2006_cadet__Q14]]
 
 
 
@@ -556,7 +556,7 @@ Maximum number of girls with distinct friendships
 > When the Kangaroo Jumpy pushes with his left leg, he jumps 2 meters; when he pushes with his right, he jumps 4 meters; finally, when he pushes with both legs, he jumps 7 meters. What's the minimum number of jumps on Jumpy to cover an exact distance of 997 meters? A) 146 B) 145 C) 144 D) 143 E) 142
 
 **Answer:** C
-[[src_kangourou_2006_cadet__Q15]]
+[[Quesiti/src_kangourou_2006_cadet#q15|src_kangourou_2006_cadet__Q15]]
 
 
 
@@ -588,7 +588,7 @@ Maximum number of girls with distinct friendships
 > A rectangle is divided into 7 squares. The side of the uncolonned gray squares on the right measures 8. How big is the side of the great white square? A) 15 B) 18        C) 20 D) 24           E) 30
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q16]]
+[[Quesiti/src_kangourou_2006_cadet#q16|src_kangourou_2006_cadet__Q16]]
 
 
 
@@ -621,7 +621,7 @@ Maximum number of girls with distinct friendships
 > What number increases 500% when you square it? A) 6 B) 10 C) 7 D) 8 E) 5
 
 **Answer:** A
-[[src_kangourou_2006_cadet__Q17]]
+[[Quesiti/src_kangourou_2006_cadet#q17|src_kangourou_2006_cadet__Q17]]
 
 
 
@@ -652,7 +652,7 @@ Maximum number of girls with distinct friendships
 > How many isosceles (two to two non-congruent triangles) of area 1 have a long side 2? A) 0                B) 1                C) 2                D) 3                E) 4
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q18]]
+[[Quesiti/src_kangourou_2006_cadet#q18|src_kangourou_2006_cadet__Q18]]
 
 
 
@@ -703,7 +703,7 @@ Maximum number of girls with distinct friendships
 > I'm going to pay. I'm going to pay. 20 20 Kang 2006 Kang
 
 **Answer:** E
-[[src_kangourou_2006_cadet__Q19]]
+[[Quesiti/src_kangourou_2006_cadet#q19|src_kangourou_2006_cadet__Q19]]
 
 
 
@@ -741,7 +741,7 @@ Maximum number of girls with distinct friendships
 > The figure shows a square divided into 25 squares, each of which is marked with the centre; 3 obstacles are most often marked. We want to go from A to B by going from one center to another only by vertical and/or horizontal lines, avoiding obstacles and the shortest path. How many routes from A to B meet all these conditions? A) 6 B) 8 C) 9 D) 11 E) 12 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2006_cadet__Q20]]
+[[Quesiti/src_kangourou_2006_cadet#q20|src_kangourou_2006_cadet__Q20]]
 
 
 
@@ -774,7 +774,7 @@ Maximum number of girls with distinct friendships
 > If the product of two integers is 25.32.5.73, then their sum A) could be divisible by 3 B) could be divisible by 5 C) could be divisible by 49 D) could be divisible by 8 E) can never be divisible by 8, nor by 5, nor by 49, nor by 3.
 
 **Answer:** A
-[[src_kangourou_2006_cadet__Q21]]
+[[Quesiti/src_kangourou_2006_cadet#q21|src_kangourou_2006_cadet__Q21]]
 
 
 
@@ -808,7 +808,7 @@ Maximum number of girls with distinct friendships
 > If a and b are two positive integers such that a 2b +ab 2=30 then a +b +ab is A) 13 B) 10 C) 17 D) 31 E) 11
 
 **Answer:** E
-[[src_kangourou_2006_cadet__Q22]]
+[[Quesiti/src_kangourou_2006_cadet#q22|src_kangourou_2006_cadet__Q22]]
 
 
 
@@ -840,7 +840,7 @@ Maximum number of girls with distinct friendships
 > On the first strip you see 11 cards, each with two letters. On the second you see the same cards arranged differently. Which of the following may appear in the second line of the second deck of cards? (a) the number of children in the family (b) the number of children in the family (c) the number of children in the family (d) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q23]]
+[[Quesiti/src_kangourou_2006_cadet#q23|src_kangourou_2006_cadet__Q23]]
 
 
 
@@ -951,7 +951,7 @@ Maximum number of girls with distinct friendships
 > I'm going to pay. I'm going to pay. 21 21 Kang 2006 Kang
 
 **Answer:** E
-[[src_kangourou_2006_cadet__Q24]]
+[[Quesiti/src_kangourou_2006_cadet#q24|src_kangourou_2006_cadet__Q24]]
 
 
 
@@ -986,7 +986,7 @@ Maximum number of girls with distinct friendships
 > Mother washed Gianni's socks - five pairs of black, 10 pairs of brown, and 15 pairs of gray - and asked him to put them away after pairing them for color. But Gianni put them all mixed up in a box. Now Gianni has to go on a seven-day camping trip: what is the minimum number of socks he can get out of the box, even in the dark, to make sure he has at least seven pairs of socks well matched? A) 16 B) 14 C) 35 D) 37 E) 18
 
 **Answer:** A
-[[src_kangourou_2006_cadet__Q25]]
+[[Quesiti/src_kangourou_2006_cadet#q25|src_kangourou_2006_cadet__Q25]]
 
 
 
@@ -1028,7 +1028,7 @@ Maximum number of girls with distinct friendships
 > Denotes with E(n) the sum of the odd digits of the number n. For example E(7)=7, E(2)=0 and E(3245)=8. How much is E(1)+E(2)+E(3)+...+E(99)? A) 300 B) 400 C) 450 D) 500 E) 550
 
 **Answer:** D
-[[src_kangourou_2006_cadet__Q26]]
+[[Quesiti/src_kangourou_2006_cadet#q26|src_kangourou_2006_cadet__Q26]]
 
 
 
@@ -1063,7 +1063,7 @@ How many times faster by increasing by 6 m/s
 > Piero cycles from a point P to a point Q at a constant speed. If it increased its speed by 3 meters per second, it would reach Q three times faster (that is, taking a third of the time). How many times faster would you get to Q if it increased its speed by 20 feet per second? A) 4 B) 5 C) 6 D) 4,5 E) 8
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q27]]
+[[Quesiti/src_kangourou_2006_cadet#q27|src_kangourou_2006_cadet__Q27]]
 
 
 
@@ -1099,7 +1099,7 @@ How many times faster by increasing by 6 m/s
 > A locomotive pulls a train of five cars, S, T, U, V and W. In how many ways can the wagons be approached if the locomotive is to be closer to the S-wagon than the T-wagon? A) 120 B) 60 C) 48 D) 30 E) 10
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q28]]
+[[Quesiti/src_kangourou_2006_cadet#q28|src_kangourou_2006_cadet__Q28]]
 
 
 
@@ -1139,7 +1139,7 @@ How many times faster by increasing by 6 m/s
 > In the figure a regular pentagon OABCD is represented and the pentagons obtained from it are obtained by first making a centre O rotation leading to the OD side overlapping to the OA side (and OA to OA'), then a centre O rotation leading to the OA side overlapping to the OD' side (and OD' to OA'). Continuing this way, what is the minimum number of rotations sufficient to bring the pentagon back to its original position? A) 6 B) 10 C) 12 D) 15 E) 20
 
 **Answer:** B
-[[src_kangourou_2006_cadet__Q29]]
+[[Quesiti/src_kangourou_2006_cadet#q29|src_kangourou_2006_cadet__Q29]]
 
 
 
@@ -1188,4 +1188,4 @@ How many times faster by increasing by 6 m/s
 > 1 Cadet category For third or upper secondary students
 
 **Answer:** C
-[[src_kangourou_2006_cadet__Q30]]
+[[Quesiti/src_kangourou_2006_cadet#q30|src_kangourou_2006_cadet__Q30]]

@@ -39,7 +39,7 @@ level: kangourou
 > There are 29 students in a class, girls are three more than boys. How many girls are there? A) 6 B) 13 C) 16 D) 19 E) 29
 
 **Answer:** C
-[[src_kangourou_2000_studenti__Q01]]
+[[Quesiti/src_kangourou_2000_studenti#q01|src_kangourou_2000_studenti__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: kangourou
 > In a giant's jacket there are 585 pockets, in each pocket live 3 mice, and each mouse is accompanied by 5 little mice. How many mice live in that giant's jacket? A) (585:3):5      B) (585×3):5     C) (585×5):3    D) 585×3×5      E) 585×(5+3)
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q02]]
+[[Quesiti/src_kangourou_2000_studenti#q02|src_kangourou_2000_studenti__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 > The sum of five consecutive numbers is 2000. The largest of these numbers is: A) 490 B) 475 C) 471 D) 423 E) 402
 
 **Answer:** E
-[[src_kangourou_2000_studenti__Q03]]
+[[Quesiti/src_kangourou_2000_studenti#q03|src_kangourou_2000_studenti__Q03]]
 
 
 
@@ -137,7 +137,7 @@ level: kangourou
 > In a mirror, you see a clock, that figure, what time is it? A) 15.15 B) 10.15  C) 10.45  D) 8.45   E) 9.45
 
 **Answer:** E
-[[src_kangourou_2000_studenti__Q04]]
+[[Quesiti/src_kangourou_2000_studenti#q04|src_kangourou_2000_studenti__Q04]]
 
 
 
@@ -169,7 +169,7 @@ level: kangourou
 > The year 2000: the number 2000 is obtained by multiplying only two and five. How many of each type are needed? (a) two two and five five B) three two and three five C) three two and four five D) four two and three five E) four two and four five
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q05]]
+[[Quesiti/src_kangourou_2000_studenti#q05|src_kangourou_2000_studenti__Q05]]
 
 
 
@@ -205,7 +205,7 @@ level: kangourou
 > On a strip of paper 1 m long, we draw vertical lines that divide the strip into 4 equal parts and also draw the lines, always vertical, that divide the same strip into 3 equal parts. After that, we cut the strip according to the lines we've drawn. How many different lengths will these pieces have ? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** B
-[[src_kangourou_2000_studenti__Q06]]
+[[Quesiti/src_kangourou_2000_studenti#q06|src_kangourou_2000_studenti__Q06]]
 
 
 
@@ -238,7 +238,7 @@ level: kangourou
 > The sum of seven consecutive odd numbers is 119. The smallest of these numbers is A) 11 B) 13 C) 15 D) 17 E) 19
 
 **Answer:** A
-[[src_kangourou_2000_studenti__Q07]]
+[[Quesiti/src_kangourou_2000_studenti#q07|src_kangourou_2000_studenti__Q07]]
 
 
 
@@ -276,7 +276,7 @@ level: kangourou
 > The birthday gift box for Baby Roo, the son of Kanga Roo, is 10 cm × 10 cm × 30 cm and has been bound with a golden fetus as shown. What's the length of the fetus? The length of the fetus for the knot may be considered negligible. A) 2 m    B) 2 m 40 cm    C) 2 m 60 cm    D) 3 m     E) 2 m 50 cm
 
 **Answer:** B
-[[src_kangourou_2000_studenti__Q08]]
+[[Quesiti/src_kangourou_2000_studenti#q08|src_kangourou_2000_studenti__Q08]]
 
 
 
@@ -309,7 +309,7 @@ level: kangourou
 > Charlie rents his flaming bicycle to his friends in the following way: for two tablespoons of chocolate four hours and for 12 candy bars three hours. Mike gives Charlie one tablespoon of chocolate and four candy bars. How long can you ride Charlie's bike? A) an hour and a half B) 1 hour C) 2 hours D) 3 hours E) 4 hours
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q09]]
+[[Quesiti/src_kangourou_2000_studenti#q09|src_kangourou_2000_studenti__Q09]]
 
 
 
@@ -343,7 +343,7 @@ level: kangourou
 > What are the four digits that must be removed from the number 4921508 without changing the order, to get the smallest three-digit number possible? A) 4,9,2,1 B) 4,2,1,0 C) 1,5,0,8 D) 4,9,2,5 E) 4,9,5,8)
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q10]]
+[[Quesiti/src_kangourou_2000_studenti#q10|src_kangourou_2000_studenti__Q10]]
 
 
 
@@ -377,7 +377,7 @@ level: kangourou
 > How many two-digit numbers are divisible simultaneously by 2 and by 7? A) 8 B) 7 C) 6 D) 5 E) 4
 
 **Answer:** B
-[[src_kangourou_2000_studenti__Q11]]
+[[Quesiti/src_kangourou_2000_studenti#q11|src_kangourou_2000_studenti__Q11]]
 
 
 
@@ -410,7 +410,7 @@ level: kangourou
 > If A + 1 = B + 2 = C  3 = D + 4 = E  5 what is the greatest? A) A B) B C) C D) D E) E
 
 **Answer:** E
-[[src_kangourou_2000_studenti__Q12]]
+[[Quesiti/src_kangourou_2000_studenti#q12|src_kangourou_2000_studenti__Q12]]
 
 
 
@@ -508,7 +508,7 @@ level: kangourou
 > How many squares will form a figure similar to the one on the side but with 10 steps? A) 25 B) 30 C) 40 D) 55 E) 100
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q13]]
+[[Quesiti/src_kangourou_2000_studenti#q13|src_kangourou_2000_studenti__Q13]]
 
 
 
@@ -547,7 +547,7 @@ The longest gap between five gardens
 > Five neighbors have identical rectangular terrain. Each of them planted a hedge (shown in the figure with a continuous stretch) on its soil to protect the flowering part of the garden. Who used a longer hedge? A) Mr. Al B) Mr. Ben C) Mr. (c) Mr. Mr E. Other
 
 **Answer:** C
-[[src_kangourou_2000_studenti__Q14]]
+[[Quesiti/src_kangourou_2000_studenti#q14|src_kangourou_2000_studenti__Q14]]
 
 
 
@@ -585,7 +585,7 @@ When they all get back together at the club
 > Alberto comes to the club every day, Bob every two days, Cloe every three days, Dan every four days, Enrico every five days, Franco every six days and Gabriele every seven days. They're all here today, how many days from now will they all be together again? A) 27 B) 28 C) 210 D) 420 E) 5040 Time worked: ............. minutes (to be completed under the supervision of the supervisory instructor)
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q15]]
+[[Quesiti/src_kangourou_2000_studenti#q15|src_kangourou_2000_studenti__Q15]]
 
 
 
@@ -620,7 +620,7 @@ When they all get back together at the club
 > Kang Circus elephant trainer takes 40 minutes to wash an elephant. Your young son takes two hours to do the same job. How long will it take the trainer and his son to wash three elephants if they work together? (A) 30 minutes. (b) 45 minutes. (c) 60 minutes. (d) 90 minutes. E) 100 minutes.
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q16]]
+[[Quesiti/src_kangourou_2000_studenti#q16|src_kangourou_2000_studenti__Q16]]
 
 
 
@@ -691,7 +691,7 @@ When they all get back together at the club
 > The sum of the areas of all triangles that can be seen in the figure is: A) 3 B) 4 C) 7 D) 8 E) 10
 
 **Answer:** E
-[[src_kangourou_2000_studenti__Q17]]
+[[Quesiti/src_kangourou_2000_studenti#q17|src_kangourou_2000_studenti__Q17]]
 
 
 
@@ -727,7 +727,7 @@ Waiting for mother kangaroo at the tree
 > Each jump of a kangaroo mother is 3 meters long and lasts 1 second; each jump of her young child is 1 meter long and lasts half a second. Both kangaroos jump simultaneously from the same place to a eucalyptus tree. The distance between the starting point and the tree is 180 metres. How many seconds will Kangaroo Mom have to wait at the tree for her baby boy to arrive? A) 30 B) 60 C) 10 D) 120 E) 35
 
 **Answer:** A
-[[src_kangourou_2000_studenti__Q18]]
+[[Quesiti/src_kangourou_2000_studenti#q18|src_kangourou_2000_studenti__Q18]]
 
 
 
@@ -763,7 +763,7 @@ Waiting for mother kangaroo at the tree
 > 96 children at a summer camp were divided into groups, so that each group was made up of the same number of children. How many different ways can this division be achieved if each group must contain more than 5 and less than 20 children? A) 10 B) 8 C) 5 D) 4 E) 2
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q19]]
+[[Quesiti/src_kangourou_2000_studenti#q19|src_kangourou_2000_studenti__Q19]]
 
 
 
@@ -796,7 +796,7 @@ Waiting for mother kangaroo at the tree
 > What is the angle at the center of a sector whose area is 15% of the area of the entire circle? A) 15° B) 36° C) 54° D) 90° E) 150°
 
 **Answer:** C
-[[src_kangourou_2000_studenti__Q20]]
+[[Quesiti/src_kangourou_2000_studenti#q20|src_kangourou_2000_studenti__Q20]]
 
 
 
@@ -830,7 +830,7 @@ Waiting for mother kangaroo at the tree
 > 800 doubles are worth 100 dukes. 100 doubles are equal to 250 tallies. How many duchies have the same value as 100 tallies? A) 2 B) 5 C) 10 D) 25 E) 50
 
 **Answer:** B
-[[src_kangourou_2000_studenti__Q21]]
+[[Quesiti/src_kangourou_2000_studenti#q21|src_kangourou_2000_studenti__Q21]]
 
 
 
@@ -865,7 +865,7 @@ Waiting for mother kangaroo at the tree
 > Mama Clara buys a box of sugar in the pots. Cristina eats the surface layer, i.e. 77 pollen; of what remains she eats the lateral layer, which consists of 55 pollen; finally Cristina eats the frontal layer. How many tiles are left in the box? A) 203 B) 256 C) 295 D) 300 E) 3
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q22]]
+[[Quesiti/src_kangourou_2000_studenti#q22|src_kangourou_2000_studenti__Q22]]
 
 
 
@@ -900,7 +900,7 @@ Waiting for mother kangaroo at the tree
 > In a dance competition, all the judges cast their vote for the candidates with full votes. The average of all scores for a candidate was 5,625. What is the minimum number of judges for this to be possible? A) 2 B) 6 C) 8 D) 10 E) 12
 
 **Answer:** C
-[[src_kangourou_2000_studenti__Q23]]
+[[Quesiti/src_kangourou_2000_studenti#q23|src_kangourou_2000_studenti__Q23]]
 
 
 
@@ -937,7 +937,7 @@ Waiting for mother kangaroo at the tree
 > The figure represents a long strip of paper divided into 2000 triangles, with the lines drawn. Suppose that the strip can be folded along the lines drawn, in the order indicated by the numbers, so that the right side of the strip always retains its horizontal position and that the folded portion from the left overlaps the triangle immediately adjacent to the right. What position will the A, B and C vertices be in after 1999 folding?
 
 **Answer:** E
-[[src_kangourou_2000_studenti__Q24]]
+[[Quesiti/src_kangourou_2000_studenti#q24|src_kangourou_2000_studenti__Q24]]
 
 
 
@@ -972,7 +972,7 @@ Waiting for mother kangaroo at the tree
 > There are three boxes and three objects: a coin, a shell, and a penis. Each box contains one and only one object: the green box is to the left of the blue box; the coin is to the left of the peel; the red box is to the right of the shell; the peel is to the right of the red box; in which box is the coin? A) in the red box B) in the green box C) in the blue box D) we cannot know E) the conditions are impossible to verify
 
 **Answer:** A
-[[src_kangourou_2000_studenti__Q25]]
+[[Quesiti/src_kangourou_2000_studenti#q25|src_kangourou_2000_studenti__Q25]]
 
 
 
@@ -1009,7 +1009,7 @@ Waiting for mother kangaroo at the tree
 > If each letter corresponds to a different number, then KANGAROO + 10000 × AROO  10000 × KANG ("×" indicates the ordinary multiplication) is A) AROOAROO B) AROOKANG C) KANGKANG D) KANGAROO E) KAGANROO
 
 **Answer:** A
-[[src_kangourou_2000_studenti__Q26]]
+[[Quesiti/src_kangourou_2000_studenti#q26|src_kangourou_2000_studenti__Q26]]
 
 
 
@@ -1094,7 +1094,7 @@ Waiting for mother kangaroo at the tree
 > In the figure, the angle BÂC is measured: A) 15° B) 12° C) 30° D) 20° E) Other
 
 **Answer:** A
-[[src_kangourou_2000_studenti__Q27]]
+[[Quesiti/src_kangourou_2000_studenti#q27|src_kangourou_2000_studenti__Q27]]
 
 
 
@@ -1128,7 +1128,7 @@ Waiting for mother kangaroo at the tree
 > How many whole numbers between 100 and 999 have all the different digits? A) 864 B) 684 C) 648 D) 486 E) 468
 
 **Answer:** C
-[[src_kangourou_2000_studenti__Q28]]
+[[Quesiti/src_kangourou_2000_studenti#q28|src_kangourou_2000_studenti__Q28]]
 
 
 
@@ -1163,7 +1163,7 @@ Waiting for mother kangaroo at the tree
 > Let's take a regular hexagon and draw all its diagonals. How many angles of 30° do we see? A) 4 B) 6 C)12 D) 24 E) 36
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q29]]
+[[Quesiti/src_kangourou_2000_studenti#q29|src_kangourou_2000_studenti__Q29]]
 
 
 
@@ -1207,4 +1207,4 @@ Waiting for mother kangaroo at the tree
 > The Commission has already adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the protection of the environment.
 
 **Answer:** D
-[[src_kangourou_2000_studenti__Q30]]
+[[Quesiti/src_kangourou_2000_studenti#q30|src_kangourou_2000_studenti__Q30]]

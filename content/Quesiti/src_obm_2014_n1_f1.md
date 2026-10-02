@@ -21,7 +21,7 @@ level: OBM Nível 1
 > 
 > (A) $40$ \quad (B) $44$ \quad (C) $45$ \quad (D) $46$ \quad (E) $47$
 
-![[src_obm_2014_n1_f1__Q01.png]]
+![[src_obm_2014_n1_f1__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -41,9 +41,9 @@ level: OBM Nível 1
 > 
 > (A) $40$ \quad (B) $44$ \quad (C) $45$ \quad (D) $46$ \quad (E) $47$
 
-![[src_obm_2014_n1_f1__Q01.png]]
+![[src_obm_2014_n1_f1__q01.png]]
 
-[[src_obm_2014_n1_f1__Q01]]
+[[Quesiti/src_obm_2014_n1_f1#q01|src_obm_2014_n1_f1__Q01]]
 
 
 
@@ -58,7 +58,7 @@ level: OBM Nível 1
 > 
 > (A) $1{:}1$ \quad (B) $4{:}5$ \quad (C) $2{:}3$ \quad (D) $3{:}4$ \quad (E) $1{:}2$
 
-![[src_obm_2014_n1_f1__Q02.png]]
+![[src_obm_2014_n1_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -77,9 +77,9 @@ level: OBM Nível 1
 > 
 > (A) $1{:}1$ \quad (B) $4{:}5$ \quad (C) $2{:}3$ \quad (D) $3{:}4$ \quad (E) $1{:}2$
 
-![[src_obm_2014_n1_f1__Q02.png]]
+![[src_obm_2014_n1_f1__q02.png]]
 
-[[src_obm_2014_n1_f1__Q02]]
+[[Quesiti/src_obm_2014_n1_f1#q02|src_obm_2014_n1_f1__Q02]]
 
 
 
@@ -112,7 +112,7 @@ level: OBM Nível 1
 > 
 > (A) $13$ \quad (B) $19$ \quad (C) $29$ \quad (D) $29$ \quad (E) $36$
 
-[[src_obm_2014_n1_f1__Q03]]
+[[Quesiti/src_obm_2014_n1_f1#q03|src_obm_2014_n1_f1__Q03]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 1
 > 
 > (A) $23$ \quad (B) $13{:}34$ \quad (C) $3{:}5$ \quad (D) $3{:}8$ \quad (E) $1{:}2$
 
-[[src_obm_2014_n1_f1__Q04]]
+[[Quesiti/src_obm_2014_n1_f1#q04|src_obm_2014_n1_f1__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: OBM Nível 1
 > 
 > (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
 
-![[src_obm_2014_n1_f1__Q05.png]]
+![[src_obm_2014_n1_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -180,9 +180,9 @@ level: OBM Nível 1
 > 
 > (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
 
-![[src_obm_2014_n1_f1__Q05.png]]
+![[src_obm_2014_n1_f1__q05.png]]
 
-[[src_obm_2014_n1_f1__Q05]]
+[[Quesiti/src_obm_2014_n1_f1#q05|src_obm_2014_n1_f1__Q05]]
 
 
 
@@ -225,7 +225,7 @@ level: OBM Nível 1
 > 
 > (A) Solo I \quad (B) Solo II \quad (C) Solo III \quad (D) Solo I e II \quad (E) Solo II e III
 
-[[src_obm_2014_n1_f1__Q06]]
+[[Quesiti/src_obm_2014_n1_f1#q06|src_obm_2014_n1_f1__Q06]]
 
 
 
@@ -261,7 +261,7 @@ level: OBM Nível 1
 > 
 > (D) $5x+10(15-x)=54$ \quad (E) $5x+2(15-x)=135$
 
-[[src_obm_2014_n1_f1__Q07]]
+[[Quesiti/src_obm_2014_n1_f1#q07|src_obm_2014_n1_f1__Q07]]
 
 
 
@@ -294,7 +294,7 @@ level: OBM Nível 1
 > 
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $12$
 
-[[src_obm_2014_n1_f1__Q08]]
+[[Quesiti/src_obm_2014_n1_f1#q08|src_obm_2014_n1_f1__Q08]]
 
 
 
@@ -335,7 +335,7 @@ level: OBM Nível 1
 > 
 > (A) $4$ reais \quad (B) $5$ reais \quad (C) $6$ reais \quad (D) $9$ reais \quad (E) $11$ reais
 
-[[src_obm_2014_n1_f1__Q09]]
+[[Quesiti/src_obm_2014_n1_f1#q09|src_obm_2014_n1_f1__Q09]]
 
 
 
@@ -368,7 +368,7 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 > 
 > (A) nulla (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
 
-[[src_obm_2014_n1_f1__Q10]]
+[[Quesiti/src_obm_2014_n1_f1#q10|src_obm_2014_n1_f1__Q10]]
 
 
 
@@ -383,7 +383,7 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 > 
 > (A) $40\text{ m}^2$ \quad (B) $65\text{ m}^2$ \quad (C) $75\text{ m}^2$ \quad (D) $80\text{ m}^2$ \quad (E) $100\text{ m}^2$
 
-![[src_obm_2014_n1_f1__Q11.png]]
+![[src_obm_2014_n1_f1__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -402,9 +402,9 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 > 
 > (A) $40\text{ m}^2$ \quad (B) $65\text{ m}^2$ \quad (C) $75\text{ m}^2$ \quad (D) $80\text{ m}^2$ \quad (E) $100\text{ m}^2$
 
-![[src_obm_2014_n1_f1__Q11.png]]
+![[src_obm_2014_n1_f1__q11.png]]
 
-[[src_obm_2014_n1_f1__Q11]]
+[[Quesiti/src_obm_2014_n1_f1#q11|src_obm_2014_n1_f1__Q11]]
 
 
 
@@ -436,7 +436,7 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 > 
 > (A) $3$ ore \quad (B) $4$ ore \quad (C) $5$ ore \quad (D) $6$ ore \quad (E) $7$ ore
 
-[[src_obm_2014_n1_f1__Q12]]
+[[Quesiti/src_obm_2014_n1_f1#q12|src_obm_2014_n1_f1__Q12]]
 
 
 
@@ -469,7 +469,7 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 > 
 > (A) $12$ \quad (B) $16$ \quad (C) $18$ \quad (D) $20$ \quad (E) $23$
 
-[[src_obm_2014_n1_f1__Q13]]
+[[Quesiti/src_obm_2014_n1_f1#q13|src_obm_2014_n1_f1__Q13]]
 
 
 
@@ -502,7 +502,7 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 > 
 > (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
 
-[[src_obm_2014_n1_f1__Q14]]
+[[Quesiti/src_obm_2014_n1_f1#q14|src_obm_2014_n1_f1__Q14]]
 
 
 
@@ -517,7 +517,7 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 > 
 > (A) $A$ and $B$ \quad (B) $A$ and $C$ \quad (C) $A$ and $D$ \quad (D) $B$ and $C$ \quad (E) $B$ and $D$
 
-![[src_obm_2014_n1_f1__Q15.png]]
+![[src_obm_2014_n1_f1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -536,9 +536,9 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 > 
 > (A) $A$ e $B$ \quad (B) $A$ e $C$ \quad (C) $A$ e $D$ \quad (D) $B$ e $C$ \quad (E) $B$ e $D$
 
-![[src_obm_2014_n1_f1__Q15.png]]
+![[src_obm_2014_n1_f1__q15.png]]
 
-[[src_obm_2014_n1_f1__Q15]]
+[[Quesiti/src_obm_2014_n1_f1#q15|src_obm_2014_n1_f1__Q15]]
 
 
 
@@ -571,7 +571,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) $11$ \quad (B) $13$ \quad (C) $19$ \quad (D) $29$ \quad (E) $33$
 
-[[src_obm_2014_n1_f1__Q16]]
+[[Quesiti/src_obm_2014_n1_f1#q16|src_obm_2014_n1_f1__Q16]]
 
 
 
@@ -604,7 +604,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
 
-[[src_obm_2014_n1_f1__Q17]]
+[[Quesiti/src_obm_2014_n1_f1#q17|src_obm_2014_n1_f1__Q17]]
 
 
 
@@ -619,7 +619,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) $6\text{ cm}^2$ \quad (B) $6{,}5\text{ cm}^2$ \quad (C) $7\text{ cm}^2$ \quad (D) $7{,}5\text{ cm}^2$ \quad (E) $8\text{ cm}^2$
 
-![[src_obm_2014_n1_f1__Q18.png]]
+![[src_obm_2014_n1_f1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -638,9 +638,9 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) $6\text{ cm}^2$ \quad (B) $6{,}5\text{ cm}^2$ \quad (C) $7\text{ cm}^2$ \quad (D) $7{,}5\text{ cm}^2$ \quad (E) $8\text{ cm}^2$
 
-![[src_obm_2014_n1_f1__Q18.png]]
+![[src_obm_2014_n1_f1__q18.png]]
 
-[[src_obm_2014_n1_f1__Q18]]
+[[Quesiti/src_obm_2014_n1_f1#q18|src_obm_2014_n1_f1__Q18]]
 
 
 
@@ -673,7 +673,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) $25$ \quad (B) $36$ \quad (C) $47$ \quad (D) $103$ \quad (E) $105$
 
-[[src_obm_2014_n1_f1__Q19]]
+[[Quesiti/src_obm_2014_n1_f1#q19|src_obm_2014_n1_f1__Q19]]
 
 
 
@@ -688,7 +688,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > (A) \quad (B) \quad (C) \quad (D) \quad (E)
 
-![[src_obm_2014_n1_f1__Q20.png]]
+![[src_obm_2014_n1_f1__q20.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -708,6 +708,6 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > 
 > A) Quad (B) Quad (C) Quad (D) Quad (E)
 
-![[src_obm_2014_n1_f1__Q20.png]]
+![[src_obm_2014_n1_f1__q20.png]]
 
-[[src_obm_2014_n1_f1__Q20]]
+[[Quesiti/src_obm_2014_n1_f1#q20|src_obm_2014_n1_f1__Q20]]

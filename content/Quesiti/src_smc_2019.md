@@ -47,7 +47,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 15658
 
 **Risposta:** D
-[[src_smc_2019__Q01]]
+[[Quesiti/src_smc_2019#q01|src_smc_2019__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $-4020$
 
 **Risposta:** B
-[[src_smc_2019__Q02]]
+[[Quesiti/src_smc_2019#q02|src_smc_2019__Q02]]
 
 
 
@@ -131,7 +131,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** $40\,\text{mm}$
 
 **Risposta:** A
-[[src_smc_2019__Q03]]
+[[Quesiti/src_smc_2019#q03|src_smc_2019__Q03]]
 
 
 
@@ -172,7 +172,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** più di 3
 
 **Risposta:** B
-[[src_smc_2019__Q04]]
+[[Quesiti/src_smc_2019#q04|src_smc_2019__Q04]]
 
 
 
@@ -193,7 +193,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 4
 > - **(E)** 5
 
-![[src_smc_2019__Q05.png]]
+![[src_smc_2019__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]]
@@ -218,10 +218,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 4
 > - **(E)** 5
 
-![[src_smc_2019__Q05.png]]
+![[src_smc_2019__q05.png]]
 
 **Risposta:** B
-[[src_smc_2019__Q05]]
+[[Quesiti/src_smc_2019#q05|src_smc_2019__Q05]]
 
 
 
@@ -242,7 +242,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 20
 > - **(E)** 25
 
-![[src_smc_2019__Q06.png]]
+![[src_smc_2019__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -267,10 +267,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 20
 > - **(E)** 25
 
-![[src_smc_2019__Q06.png]]
+![[src_smc_2019__q06.png]]
 
 **Risposta:** D
-[[src_smc_2019__Q06]]
+[[Quesiti/src_smc_2019#q06|src_smc_2019__Q06]]
 
 
 
@@ -315,7 +315,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** $\frac{11}{12}$
 
 **Risposta:** D
-[[src_smc_2019__Q07]]
+[[Quesiti/src_smc_2019#q07|src_smc_2019__Q07]]
 
 
 
@@ -360,7 +360,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** $4 < x < 5$
 
 **Risposta:** B
-[[src_smc_2019__Q08]]
+[[Quesiti/src_smc_2019#q08|src_smc_2019__Q08]]
 
 
 
@@ -381,7 +381,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** D
 > - **(E)** E
 
-![[src_smc_2019__Q09.png]]
+![[src_smc_2019__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -406,10 +406,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** D
 > - **(E)** E
 
-![[src_smc_2019__Q09.png]]
+![[src_smc_2019__q09.png]]
 
 **Risposta:** D
-[[src_smc_2019__Q09]]
+[[Quesiti/src_smc_2019#q09|src_smc_2019__Q09]]
 
 
 
@@ -454,7 +454,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** 30
 
 **Risposta:** C
-[[src_smc_2019__Q10]]
+[[Quesiti/src_smc_2019#q10|src_smc_2019__Q10]]
 
 
 
@@ -495,7 +495,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** 20
 
 **Risposta:** C
-[[src_smc_2019__Q11]]
+[[Quesiti/src_smc_2019#q11|src_smc_2019__Q11]]
 
 
 
@@ -516,7 +516,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $3\sqrt{3}$
 > - **(E)** $\frac{8\sqrt{3}}{3}$
 
-![[src_smc_2019__Q12.png]]
+![[src_smc_2019__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -541,10 +541,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $3\sqrt{3}$
 > - **(E)** $\frac{8\sqrt{3}}{3}$
 
-![[src_smc_2019__Q12.png]]
+![[src_smc_2019__q12.png]]
 
 **Risposta:** E
-[[src_smc_2019__Q12]]
+[[Quesiti/src_smc_2019#q12|src_smc_2019__Q12]]
 
 
 
@@ -589,7 +589,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** 2019
 
 **Risposta:** D
-[[src_smc_2019__Q13]]
+[[Quesiti/src_smc_2019#q13|src_smc_2019__Q13]]
 
 
 
@@ -634,7 +634,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** $(8!)^2$
 
 **Risposta:** C
-[[src_smc_2019__Q14]]
+[[Quesiti/src_smc_2019#q14|src_smc_2019__Q14]]
 
 
 
@@ -679,7 +679,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** 10
 
 **Risposta:** B
-[[src_smc_2019__Q15]]
+[[Quesiti/src_smc_2019#q15|src_smc_2019__Q15]]
 
 
 
@@ -723,7 +723,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** 14
 
 **Risposta:** A
-[[src_smc_2019__Q16]]
+[[Quesiti/src_smc_2019#q16|src_smc_2019__Q16]]
 
 
 
@@ -768,7 +768,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** $0$
 
 **Risposta:** E
-[[src_smc_2019__Q17]]
+[[Quesiti/src_smc_2019#q17|src_smc_2019__Q17]]
 
 
 
@@ -789,7 +789,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 70
 > - **(E)** 75
 
-![[src_smc_2019__Q18.png]]
+![[src_smc_2019__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -814,10 +814,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 70
 > - **(E)** 75
 
-![[src_smc_2019__Q18.png]]
+![[src_smc_2019__q18.png]]
 
 **Risposta:** E
-[[src_smc_2019__Q18]]
+[[Quesiti/src_smc_2019#q18|src_smc_2019__Q18]]
 
 
 
@@ -836,7 +836,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** D
 > - **(E)** E
 
-![[src_smc_2019__Q19.png]]
+![[src_smc_2019__q19.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_casework|Casework]]
@@ -859,10 +859,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** D
 > - **(E)** E
 
-![[src_smc_2019__Q19.png]]
+![[src_smc_2019__q19.png]]
 
 **Risposta:** A
-[[src_smc_2019__Q19]]
+[[Quesiti/src_smc_2019#q19|src_smc_2019__Q19]]
 
 
 
@@ -883,7 +883,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $40^\circ$
 > - **(E)** $45^\circ$
 
-![[src_smc_2019__Q20.png]]
+![[src_smc_2019__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -908,10 +908,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $40^\circ$
 > - **(E)** $45^\circ$
 
-![[src_smc_2019__Q20.png]]
+![[src_smc_2019__q20.png]]
 
 **Risposta:** A
-[[src_smc_2019__Q20]]
+[[Quesiti/src_smc_2019#q20|src_smc_2019__Q20]]
 
 
 
@@ -932,7 +932,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 8
 > - **(E)** 10
 
-![[src_smc_2019__Q21.png]]
+![[src_smc_2019__q21.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -957,10 +957,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 8
 > - **(E)** 10
 
-![[src_smc_2019__Q21.png]]
+![[src_smc_2019__q21.png]]
 
 **Risposta:** D
-[[src_smc_2019__Q21]]
+[[Quesiti/src_smc_2019#q21|src_smc_2019__Q21]]
 
 
 
@@ -1005,7 +1005,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** $2019 \times 2020$
 
 **Risposta:** C
-[[src_smc_2019__Q22]]
+[[Quesiti/src_smc_2019#q22|src_smc_2019__Q22]]
 
 
 
@@ -1026,7 +1026,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $6\sqrt{2}$
 > - **(E)** $8$
 
-![[src_smc_2019__Q23.png]]
+![[src_smc_2019__q23.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -1051,10 +1051,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $6\sqrt{2}$
 > - **(E)** $8$
 
-![[src_smc_2019__Q23.png]]
+![[src_smc_2019__q23.png]]
 
 **Risposta:** B
-[[src_smc_2019__Q23]]
+[[Quesiti/src_smc_2019#q23|src_smc_2019__Q23]]
 
 
 
@@ -1099,7 +1099,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(E)** 12
 
 **Risposta:** E
-[[src_smc_2019__Q24]]
+[[Quesiti/src_smc_2019#q24|src_smc_2019__Q24]]
 
 
 
@@ -1120,7 +1120,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $6\sqrt{2} - 8$
 > - **(E)** $\frac{\sqrt{5}}{5}$
 
-![[src_smc_2019__Q25.png]]
+![[src_smc_2019__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -1145,7 +1145,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $6\sqrt{2} - 8$
 > - **(E)** $\frac{\sqrt{5}}{5}$
 
-![[src_smc_2019__Q25.png]]
+![[src_smc_2019__q25.png]]
 
 **Risposta:** A
-[[src_smc_2019__Q25]]
+[[Quesiti/src_smc_2019#q25|src_smc_2019__Q25]]

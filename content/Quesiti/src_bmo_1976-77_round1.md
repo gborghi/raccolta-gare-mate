@@ -37,7 +37,7 @@ level: BMO Round 1
 
 > Un intero non negativo $f(n)$ è assegnato a ogni intero positivo $n$ in modo tale che siano soddisfatte le seguenti condizioni: (i) $f(mn) = f(m) + f(n)$ per tutti gli integri positivi $m, n$; (ii) $f(n) = 0$ quando la cifra decimale finale (a destra) di $n$ è $3$; e (iii) $f(10) = 0$. Prove che $f(n) = 0$ per tutti i numeri interi positivi $n$.
 
-[[src_bmo_1976-77_round1__Q01]]
+[[Quesiti/src_bmo_1976-77_round1#q01|src_bmo_1976-77_round1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > I lati $BC$, $CA$ e $AB$ di un triangolo toccano un cerchio rispettivamente a $X$, $Y$ e $Z$. Prova che il centro del cerchio si trova sulla linea retta attraverso i punti di mezzo di $BC$ e di $AX$.
 
-[[src_bmo_1976-77_round1__Q02]]
+[[Quesiti/src_bmo_1976-77_round1#q02|src_bmo_1976-77_round1__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: BMO Round 1
 
 > (i) Dimostra che se $x$, $y$, $z$ sono numeri reali non negativi, allora $$x(x-y)(x-z) + y(y-z)(y-x) + z(z-x)(z-y) \ge 0.$$ (ii) Dimostra quindi o altrimenti che per tutti i numeri reali $a$, $b$, $c$ $$a^6 + b^6 + c^6 + 3a^2 b^2 c^2 \ge 2(b^3 c^3 + c^3 a^3 + a^3 b^3).$$
 
-[[src_bmo_1976-77_round1__Q03]]
+[[Quesiti/src_bmo_1976-77_round1#q03|src_bmo_1976-77_round1__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: BMO Round 1
 
 > L'equazione $x^3 + qx + r = 0$, dove $r \ne 0$, ha radici $u, v, w$. Esprimere le radici di $$r^2 x^3 + q^3 x + q^3 = 0 \qquad \ldots\ldots(1)$$ in termini di $u, v, w$ e mostrare che se $u, v, w$ sono reali allora $(1)$ non ha radice nell'intervallo $-1 < x < 3$.
 
-[[src_bmo_1976-77_round1__Q04]]
+[[Quesiti/src_bmo_1976-77_round1#q04|src_bmo_1976-77_round1__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: BMO Round 1
 
 > $A_1 A_2 A_3 A_4 A_5$ è un pentagono regolare i cui lati sono di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è la sfera con centro $A_i$ e raggio $a$. Le sfere $K_1, K_2, \ldots, K_5$ sono tutte toccate esternamente da ciascuna delle due sfere $P_1$ e $P_2$ anche di raggio $a$. Determinare con la prova e senza tabelle se $P_1$ e $P_2$ hanno o non hanno un punto comune.
 
-[[src_bmo_1976-77_round1__Q05]]
+[[Quesiti/src_bmo_1976-77_round1#q05|src_bmo_1976-77_round1__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: BMO Round 1
 
 > Il polinomio $26(x + x^2 + x^3 + \cdots + x^n)$, dove $n > 1$, deve essere decomposto in una somma di polinomi, non necessariamente tutti diversi. Ciascuno di questi polinomi deve avere la forma $a_1 x + a_2 x^2 + a_3 x^3 + \cdots + a_n x^n$ dove ogni $a_i$ è uno dei numeri $1, 2, 3, \ldots, n$ e non sono uguali due $a_i$. Trova tutti i valori di $n$ per i quali è possibile questa decomposizione.
 
-[[src_bmo_1976-77_round1__Q06]]
+[[Quesiti/src_bmo_1976-77_round1#q06|src_bmo_1976-77_round1__Q06]]

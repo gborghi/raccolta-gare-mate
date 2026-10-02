@@ -34,7 +34,7 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 > The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get 1 kang by paying 1.20 euros, you get 1 euro by paying 1 kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy an ice cream that costs 2 kang with just 2 euros? If yes, what is the minimum number of exchanges that I can make?
 
 **Answer:** si, 40
-[[src_kangourou_2016_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2016_junior_finale#qj1|src_kangourou_2016_junior_finale__QJ1]]
 
 
 
@@ -71,7 +71,7 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 > Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
 
 **Answer:** la busta B
-[[src_kangourou_2016_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2016_junior_finale#qj2|src_kangourou_2016_junior_finale__QJ2]]
 
 
 
@@ -82,7 +82,7 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 
 *Diametro moneta B che rotola due giri attorno ad A*
 
-![[src_kangourou_2016_junior_finale__probJ3.png]]
+![[src_kangourou_2016_junior_finale__probj3.png]]
 
 ```tikz
 \begin{document}
@@ -109,7 +109,7 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 
 *Diameter coin B rolling two rounds around A*
 
-![[src_kangourou_2016_junior_finale__probJ3.png]]
+![[src_kangourou_2016_junior_finale__probj3.png]]
 
 ```tikz
 \begin{document}
@@ -125,7 +125,7 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 > In the figure, two circular coins are outlined on the edge of each of which there is a tack; the two coins touch each other correspondingly with the tacks. The diameter of coin A, the largest, is 18 mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins are touched again in a tie). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
 
 **Answer:** 4 o 12 mm
-[[src_kangourou_2016_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2016_junior_finale#qj3|src_kangourou_2016_junior_finale__QJ3]]
 
 
 
@@ -153,7 +153,7 @@ Additional holidays by adding bridges, year 3000 days
 > In the strange republic of Kang, years last 3,000 days, numbered from 1 to 3,000. Holidays are those whose number is divisible by 6 or is a prime number; the others are working days. If the holidays were to be added to each day of ponte, that is, the working day preceding and followed by a holidays, how many more holidays would there be in each year?
 
 **Answer:** 2
-[[src_kangourou_2016_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2016_junior_finale#qj4|src_kangourou_2016_junior_finale__QJ4]]
 
 
 
@@ -182,7 +182,7 @@ Additional holidays by adding bridges, year 3000 days
 > Compared to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4, 0, 3)$, $(6, 4, 1)$ and $(2, 8, 5)$. Determine, as quickly as you can, the coordinates (as compared to the same system) of one of the remaining vertices of the cube.
 
 **Answer:** (0,4,7)
-[[src_kangourou_2016_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2016_junior_finale#qj5|src_kangourou_2016_junior_finale__QJ5]]
 
 
 
@@ -193,7 +193,7 @@ Additional holidays by adding bridges, year 3000 days
 
 *Massimo rapporto area parallelogramma su esagono regolare*
 
-![[src_kangourou_2016_junior_finale__probJ6.png]]
+![[src_kangourou_2016_junior_finale__probj6.png]]
 
 ```tikz
 \begin{document}
@@ -232,7 +232,7 @@ Additional holidays by adding bridges, year 3000 days
 
 *Most parallelogram area ratio over regular hexagon*
 
-![[src_kangourou_2016_junior_finale__probJ6.png]]
+![[src_kangourou_2016_junior_finale__probj6.png]]
 
 ```tikz
 \begin{document}
@@ -259,4 +259,4 @@ Additional holidays by adding bridges, year 3000 days
 > A parallelogram is inscribed in a regular hexagon (i.e. its vertices are points on some side of the hexagon) and the centers (of symmetry) of the two polygons coincide. What is the maximum value of the ratio between the area of the parallelogram and the area of the hexagon?
 
 **Answer:** 2/3
-[[src_kangourou_2016_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2016_junior_finale#qj6|src_kangourou_2016_junior_finale__QJ6]]

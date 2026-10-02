@@ -42,7 +42,7 @@ level: OBM Nível 3
 > 
 > Per ottenere punteggi completi, devi giustificare il motivo per cui la tua sequenza ha entrambe le proprietà sopra.
 
-[[src_obm_2024_n3_fx__Q01]]
+[[Quesiti/src_obm_2024_n3_fx#q01|src_obm_2024_n3_fx__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: OBM Nível 3
 
 > Che $ABC$ sia un triangolo rettangolo a $B$, con altitudine $BT$ sull'ipotenusa $AC$. Costruire i triangoli equilaterali $BTX$ e $BTY$ in modo tale che $X$ sia situato sullo stesso lato di $BT$ rispetto a $A$ e $Y$ sia situato sullo stesso lato di $BT$ rispetto a $C$. Il $P$ deve essere l'intersezione di $AY$ e $CX$. Provare che $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
 
-[[src_obm_2024_n3_fx__Q02]]
+[[Quesiti/src_obm_2024_n3_fx#q02|src_obm_2024_n3_fx__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 3
 > 
 > Per mantenere l'organizzazione della missione, una missione non può comportare due colonie con la stessa popolazione e il numero totale delle colonie deve essere massimo $n$. La prima agenzia che non riesca a svolgere una missione fallirà. Determinare, in funzione di $n$, quale agenzia può garantire che non fallisca prima.
 
-[[src_obm_2024_n3_fx__Q03]]
+[[Quesiti/src_obm_2024_n3_fx#q03|src_obm_2024_n3_fx__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: OBM Nível 3
 
 > Che $x, y, z$ siano tre numeri reali distinti in modo tale che $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$ dimostri che $-1 < x, y, z < 1$.
 
-[[src_obm_2024_n3_fx__Q04]]
+[[Quesiti/src_obm_2024_n3_fx#q04|src_obm_2024_n3_fx__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: OBM Nível 3
 
 > $m$ sia un intero positivo con $m \leq 2024$. Ana e Banana giocano un gioco alternativamente su una tavola $1 \times 2024$, con quadrati inizialmente dipinti in bianco. Ana e' la prima. Ogni mossa di Ana consiste nel scegliere quadrati bianchi sulla lavagna e dipingere tutti in verde. Ogni mossa di Banana consiste nel scegliere una sequenza di quadrati verdi consecutivi e dipingere tutti bianchi. Qual è il minimo valore di $m$ per il quale Ana può garantire che, dopo alcune sue mosse, la lavagna sarà completamente dipinta di verde?
 
-[[src_obm_2024_n3_fx__Q05]]
+[[Quesiti/src_obm_2024_n3_fx#q05|src_obm_2024_n3_fx__Q05]]
 
 
 
@@ -201,4 +201,4 @@ level: OBM Nível 3
 > 
 > Prova che ogni intero positivo appare come termine della sequenza; cioè, per ogni intero positivo $m$ esiste $i$ tale che $a_i = m$.
 
-[[src_obm_2024_n3_fx__Q06]]
+[[Quesiti/src_obm_2024_n3_fx#q06|src_obm_2024_n3_fx__Q06]]

@@ -21,7 +21,7 @@ level: JMO Honsen
 > 
 > (Tiles may be rotated and reflected.)
 
-![[src_jmo33hq_honsen__Q01.png]]
+![[src_jmo33hq_honsen__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -39,9 +39,9 @@ level: JMO Honsen
 > 
 > (Le piastrelle possono essere rotate e riflesse.)
 
-![[src_jmo33hq_honsen__Q01.png]]
+![[src_jmo33hq_honsen__q01.png]]
 
-[[src_jmo33hq_honsen__Q01]]
+[[Quesiti/src_jmo33hq_honsen#q01|src_jmo33hq_honsen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JMO Honsen
 
 > Il $ABC$ deve essere un triangolo acuto con $D$, $E$, $F$ i punti medi dei lati $BC$, $CA$ e $AB$ rispettivamente. I piedi $X$ e $Y$ siano i piedi delle perpendicolari da $D$ alle linee $AB$ e $AC$ rispettivamente. La linea attraverso $F$ parallela alla linea $XY$ incontra la linea $DY$ in un punto $P$. Provare che le linee $AD$ e $EP$ sono perpendicolari.
 
-[[src_jmo33hq_honsen__Q02]]
+[[Quesiti/src_jmo33hq_honsen#q02|src_jmo33hq_honsen__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: JMO Honsen
 > 
 > (Quindi, quando $n = 0$ il conteggio è $0$, quindi la condizione è soddisfatta a vuoto per $n = 0$.)
 
-[[src_jmo33hq_honsen__Q03]]
+[[Quesiti/src_jmo33hq_honsen#q03|src_jmo33hq_honsen__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: JMO Honsen
 
 > Trovare tutti gli integri positivi $n$ in modo che $$\frac{\varphi(n)^{\varphi(n)} - 1}{d(n)}$$ non sia un intero. Qui $\varphi(n)$ indica il numero di integri da $1$ a $n$ che sono copriemi a $n$ (funzione totiente di Euler), e $d(n)$ indica il numero di divisori positivi di $n$.
 
-[[src_jmo33hq_honsen__Q04]]
+[[Quesiti/src_jmo33hq_honsen#q04|src_jmo33hq_honsen__Q04]]
 
 
 
@@ -166,4 +166,4 @@ level: JMO Honsen
 > 
 > Qui, una bijezione da $S$ a $S$ è una funzione $f : S \to S$ tale che per ogni elemento $y \in S$ esiste esattamente un elemento $x \in S$ con $f(x) = y$. Per i numeri interi positivi $x_1, x_2, x_3, x_4$, $\max\{x_1, x_2, x_3, x_4\}$ e $\min\{x_1, x_2, x_3, x_4\}$ indicano rispettivamente il loro massimo e il loro minimo.
 
-[[src_jmo33hq_honsen__Q05]]
+[[Quesiti/src_jmo33hq_honsen#q05|src_jmo33hq_honsen__Q05]]

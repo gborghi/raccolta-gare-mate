@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Mostra che esiste una linea più breve (non retta) che divide l'area del triangolo dato.
 
-[[src_bmo1_1976__Q01]]
+[[Quesiti/src_bmo1_1976#q01|src_bmo1_1976__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 1
 
 > Dimostra che se $x, y, z$ sono numeri reali positivi allora $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
 
-[[src_bmo1_1976__Q02]]
+[[Quesiti/src_bmo1_1976#q02|src_bmo1_1976__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: BMO Round 1
 > 
 > Mostra che è possibile trovare un sottoinsieme $F$ di $E$, contenente non più di $5$ elementi, in modo tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
 
-[[src_bmo1_1976__Q03]]
+[[Quesiti/src_bmo1_1976#q03|src_bmo1_1976__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: BMO Round 1
 
 > Prova che se $n$ è un intero non negativo, allora $19 \cdot 8^n + 17$ non è un numero primo.
 
-[[src_bmo1_1976__Q04]]
+[[Quesiti/src_bmo1_1976#q04|src_bmo1_1976__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: BMO Round 1
 > 
 > $\left[\binom{s}{k}\right]$ indica il coefficiente $x^k$ nell'espansione $(1+x)^s$.
 
-[[src_bmo1_1976__Q05]]
+[[Quesiti/src_bmo1_1976#q05|src_bmo1_1976__Q05]]
 
 
 
@@ -197,4 +197,4 @@ level: BMO Round 1
 > 
 > [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\frac{\sin a}{\sin A} = \frac{\sin b}{\sin B} = \frac{\sin c}{\sin C},$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A$$.]
 
-[[src_bmo1_1976__Q06]]
+[[Quesiti/src_bmo1_1976#q06|src_bmo1_1976__Q06]]

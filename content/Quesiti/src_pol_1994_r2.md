@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Trovare tutti i polinomi reali $P(x)$ di grado 5 come $(x-1)^3 \mid P(x)+1$ e $(x+1)^3 \mid P(x)-1$.
 
-[[src_pol_1994_r2__Q01]]
+[[Quesiti/src_pol_1994_r2#q01|src_pol_1994_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > Lasciate che $a_1, \ldots, a_n$ siano numeri reali positivi come $\sum_{i=1}^{n} a_i = \prod_{i=1}^{n} a_i$, e lasciate che $b_1, \ldots, b_n$ siano numeri reali positivi come $a_i \le b_i$ per tutti $i$. Prove che $\sum_{i=1}^{n} b_i \le \prod_{i=1}^{n} b_i$.
 
-[[src_pol_1994_r2__Q02]]
+[[Quesiti/src_pol_1994_r2#q02|src_pol_1994_r2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 2
 
 > Un piano che attraversa il centro di un cubo incrocia il cubo in un esagono ciclico. Mostrate che questo esagono è regolare.
 
-[[src_pol_1994_r2__Q03]]
+[[Quesiti/src_pol_1994_r2#q03|src_pol_1994_r2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 2
 
 > Ogni vertice di un cubo è assegnato $1$ o $-1$. A ciascuna faccia viene assegnato il prodotto dei quattro numeri al suo vertice. Determinare tutti i valori possibili che possono essere ottenuti come somma di tutti i numeri assegnati $14$.
 
-[[src_pol_1994_r2__Q04]]
+[[Quesiti/src_pol_1994_r2#q04|src_pol_1994_r2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 2
 
 > L'incircolo $o$ di un triangolo $ABC$ è tangente ai lati $AB$ e $BC$ rispettivamente a $P$ e $Q$. Il bisettore angolare a $A$ incontra $PQ$ al punto $S$. Provare $\angle ASC = 90^\circ$.
 
-[[src_pol_1994_r2__Q05]]
+[[Quesiti/src_pol_1994_r2#q05|src_pol_1994_r2__Q05]]
 
 
 
@@ -168,4 +168,4 @@ Per un primo p, provare p divide alcuni n^2-n+3 se p divide alcuni m^2-m+25.
 
 > $p$ sia un numero primo. Dimostrare l'esistenza di $n \in \mathbb{Z}$ tale da $p \mid n^2 - n + 3$ se e solo se esiste $m \in \mathbb{Z}$ tale da $p \mid m^2 - m + 25$.
 
-[[src_pol_1994_r2__Q06]]
+[[Quesiti/src_pol_1994_r2#q06|src_pol_1994_r2__Q06]]

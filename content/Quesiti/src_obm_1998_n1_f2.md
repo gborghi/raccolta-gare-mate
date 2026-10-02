@@ -37,7 +37,7 @@ level: OBM Nível 1
 > 
 > Nota: ogni foglia ha due pagine. Il primo foglio ha pagine 1 e 2, il secondo ha pagine 3 e 4, e così via.
 
-[[src_obm_1998_n1_f2__Q01]]
+[[Quesiti/src_obm_1998_n1_f2#q01|src_obm_1998_n1_f2__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > Quali frazioni devono essere rimosse dalla somma $$\frac{1}{2}+\frac{1}{4}+\frac{1}{6}+\frac{1}{8}+\frac{1}{10}+\frac{1}{12}$$ in modo che la somma delle frazioni rimanenti sia uguale a $1$?
 
 **Risposta:** $\frac{1}{8}$ and $\frac{1}{10}$
-[[src_obm_1998_n1_f2__Q02]]
+[[Quesiti/src_obm_1998_n1_f2#q02|src_obm_1998_n1_f2__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: OBM Nível 1
 > Trova due numeri a tre cifre, ognuno utilizzando ciascuno dei numeri $1, 2, 3, 4, 5, 6$ esattamente una volta (una cifra per numero per posizione, sei cifre totali su entrambi i numeri), in modo che la loro differenza sia il più piccola possibile (il più grande meno il più piccolo). Qual è la differenza minima?
 
 **Risposta:** 47
-[[src_obm_1998_n1_f2__Q03]]
+[[Quesiti/src_obm_1998_n1_f2#q03|src_obm_1998_n1_f2__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: OBM Nível 1
 > Ci sono case attorno alla piazza della città. João e Pedro camminano un giro intorno alla piazza, camminando nella stessa direzione e contando le case. Cominciano a contare dalla loro casa. La 5a casa di João è la 30a casa di Pedro, e la 5a casa di Pedro è la 30a casa di João. Quante case ci sono in totale intorno alla piazza?
 
 **Risposta:** 35
-[[src_obm_1998_n1_f2__Q04]]
+[[Quesiti/src_obm_1998_n1_f2#q04|src_obm_1998_n1_f2__Q04]]
 
 
 
@@ -155,7 +155,7 @@ Gioco con 20 palle sul tavolo: quale giocatore vince?
 > Ci sono 20 palle su un tavolo e due bambini si alternano a mangiarle, un bambino alla volta. In ogni turno, un bambino deve mangiare almeno una palla ma è vietato mangiare più della metà delle palle attualmente sul tavolo. In questo gioco, il bambino che è costretto a mangiare l'ultima palla perde. Determinare quale bambino vinca il primo o il secondo e descrivere una strategia vincente.
 
 **Risposta:** The first player wins.
-[[src_obm_1998_n1_f2__Q05]]
+[[Quesiti/src_obm_1998_n1_f2#q05|src_obm_1998_n1_f2__Q05]]
 
 
 
@@ -188,4 +188,4 @@ Cubo di legno di 10 cm dipinto, tagliato in cubetti di 1 cm3: contato per le fac
 > Le facce di un cubo di legno che misura 10 centimetri sono dipinte in nero. Il cubo viene poi diviso in 1000 piccoli cubetti, ognuno con bordi di 1 centimetro. Determinare: a) il numero di piccoli cubetti che non hanno faccia dipinta; b) il numero di piccoli cubetti che hanno esattamente una faccia dipinta; c) il numero di piccoli cubetti che hanno esattamente due facce dipinte; d) il numero di piccoli cubetti che hanno esattamente tre facce dipinte.
 
 **Risposta:** a) $512$; b) $384$; c) $96$; d) $8$
-[[src_obm_1998_n1_f2__Q06]]
+[[Quesiti/src_obm_1998_n1_f2#q06|src_obm_1998_n1_f2__Q06]]

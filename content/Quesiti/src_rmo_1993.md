@@ -33,7 +33,7 @@ level: RMO
 
 > Il $ABC$ è un triangolo acuto e $CD$ è l'altitudine attraverso $C$. Se $AB = 8$ e $CD = 6$, trovare la distanza tra i punti di mezzo di $AD$ e $BC$.
 
-[[src_rmo_1993__Q01]]
+[[Quesiti/src_rmo_1993#q01|src_rmo_1993__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Prove che la cifra di dieci di qualsiasi potenza di $3$ è pari. [e.g. la cifra decimale di $3^8 = 729$ è $2$].
 
-[[src_rmo_1993__Q02]]
+[[Quesiti/src_rmo_1993#q02|src_rmo_1993__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Supponiamo che $A_1 A_2 \ldots A_{20}$ sia un poligono regolare laterale $20$. Quanti triangoli non isoscelli (scaleni) possono essere formati le cui vertici sono tra le vertici del poligono?
 
-[[src_rmo_1993__Q03]]
+[[Quesiti/src_rmo_1993#q03|src_rmo_1993__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: RMO
 
 > Il $ABCD$ deve essere un rettangolo con $AB = a$ e $BC = b$. Supponiamo che $r_1$ sia il raggio del cerchio che attraversa $A$ e $B$ e tocca $CD$; e allo stesso modo $r_2$ è il raggio del cerchio che attraversa $B$ e $C$ e tocca $AD$. Indicare che $$r_1 + r_2 \ge \frac{5}{8}(a + b).$$
 
-[[src_rmo_1993__Q04]]
+[[Quesiti/src_rmo_1993#q04|src_rmo_1993__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: RMO
 
 > Indicare che $19^{93} - 13^{93}$ è un intero positivo divisibile da $162$.
 
-[[src_rmo_1993__Q05]]
+[[Quesiti/src_rmo_1993#q05|src_rmo_1993__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: RMO
 
 > Se $a$, $b$, $c$, $d$ sono quattro numeri reali positivi come $abcd = 1$, dimostrare che $$(1 + a)(1 + b)(1 + c)(1 + d) \ge 16.$$
 
-[[src_rmo_1993__Q06]]
+[[Quesiti/src_rmo_1993#q06|src_rmo_1993__Q06]]
 
 
 
@@ -197,7 +197,7 @@ level: RMO
 
 > In un gruppo di dieci persone, ogni persona viene invitata a scrivere la somma delle età di tutte le altre persone $9$. Se tutte le dieci somme formano l'insieme $9$-elemento $\{82, 83, 84, 85, 87, 89, 90, 91, 92\}$ si trovano le singole età delle persone (assumendo che siano numeri interi di anni).
 
-[[src_rmo_1993__Q07]]
+[[Quesiti/src_rmo_1993#q07|src_rmo_1993__Q07]]
 
 
 
@@ -224,4 +224,4 @@ level: RMO
 
 > Ho 6 amici e durante le vacanze li ho incontrati durante diverse cene. Ho scoperto che ho cenato con tutti i 6 esattamente il giorno $1$; con ogni $5$ di loro nei giorni $2$; con ogni $4$ di loro nei giorni $3$; con ogni $3$ di loro nei giorni $4$; con ogni $2$ di loro nei giorni $5$. Inoltre, ogni amico era presente alle cene $7$ e ogni amico era assente alle cene $7$. Quante cene ho fatto da sola?
 
-[[src_rmo_1993__Q08]]
+[[Quesiti/src_rmo_1993#q08|src_rmo_1993__Q08]]

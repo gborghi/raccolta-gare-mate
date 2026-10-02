@@ -43,7 +43,7 @@ level: kangourou
 > (Points 2) Drawing in a plane 5 semicircles all originating in the same point O, we split the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by approximating (with vertices at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plan be divided? A) 12 B) 15 C) 18 D) 20 E) 24
 
 **Answer:** D
-[[src_kangourou_2019_cadet_semif__Q01]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q01|src_kangourou_2019_cadet_semif__Q01]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > E) None of the above answers is correct
 
 **Answer:** E
-[[src_kangourou_2019_cadet_semif__Q02]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q02|src_kangourou_2019_cadet_semif__Q02]]
 
 
 
@@ -140,7 +140,7 @@ level: kangourou
 > D) 10 E) 12
 
 **Answer:** A
-[[src_kangourou_2019_cadet_semif__Q03]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q03|src_kangourou_2019_cadet_semif__Q03]]
 
 
 
@@ -180,7 +180,7 @@ level: kangourou
 > B) 10 C) 11 D) 12 E) 20
 
 **Answer:** D
-[[src_kangourou_2019_cadet_semif__Q04]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q04|src_kangourou_2019_cadet_semif__Q04]]
 
 
 
@@ -212,7 +212,7 @@ level: kangourou
 > (Points 4) If a = 1024 and b is the product of all positive integers of a, which of the following equations is true? A) b = a4 B) b2 = a11        	 C) b = a5           	D) b3 = a10       	 E) b = a6
 
 **Answer:** B
-[[src_kangourou_2019_cadet_semif__Q05]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q05|src_kangourou_2019_cadet_semif__Q05]]
 
 
 
@@ -255,7 +255,7 @@ level: kangourou
 > E) 1
 
 **Answer:** E
-[[src_kangourou_2019_cadet_semif__Q06]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q06|src_kangourou_2019_cadet_semif__Q06]]
 
 
 
@@ -346,7 +346,7 @@ level: kangourou
 > E) 2
 
 **Answer:** B
-[[src_kangourou_2019_cadet_semif__Q07]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q07|src_kangourou_2019_cadet_semif__Q07]]
 
 
 
@@ -386,7 +386,7 @@ level: kangourou
 > E) 20182019  - 1.
 
 **Answer:** A
-[[src_kangourou_2019_cadet_semif__Q08]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q08|src_kangourou_2019_cadet_semif__Q08]]
 
 
 
@@ -438,7 +438,7 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** A
-[[src_kangourou_2019_cadet_semif__Q09]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q09|src_kangourou_2019_cadet_semif__Q09]]
 
 
 
@@ -468,7 +468,7 @@ level: kangourou
 > David wrote a two-digit positive integer M (significant). He noted that, when many people ask for another positive integer less than M, he gets the number 2331. How much is M?
 
 **Answer:** 63
-[[src_kangourou_2019_cadet_semif__Q10]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q10|src_kangourou_2019_cadet_semif__Q10]]
 
 
 
@@ -499,7 +499,7 @@ level: kangourou
 > (Points 5) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and enough) are needed to fill the tank?
 
 **Answer:** 48
-[[src_kangourou_2019_cadet_semif__Q11]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q11|src_kangourou_2019_cadet_semif__Q11]]
 
 
 
@@ -532,7 +532,7 @@ level: kangourou
 > (Points 5) From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What paper hasn't been caught? Give 9999 as an answer if you think it's impossible to establish for sure.
 
 **Answer:** 4
-[[src_kangourou_2019_cadet_semif__Q12]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q12|src_kangourou_2019_cadet_semif__Q12]]
 
 
 
@@ -562,7 +562,7 @@ level: kangourou
 > (Points 6) A rectangle R is divided by two lines into 4 rectangles. It is known that three of the perimeter of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
 
 **Answer:** 30
-[[src_kangourou_2019_cadet_semif__Q13]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q13|src_kangourou_2019_cadet_semif__Q13]]
 
 
 
@@ -696,7 +696,7 @@ level: kangourou
 > (Points 6) In the figure you see a regular polygon of 21 sides. Andrea has a lot of pedals that she wants to place on the vertices of this polygon so that, for each pair of pedal-covered vertices, the distances between the vertices are all different. How many pedals can he place?
 
 **Answer:** 5
-[[src_kangourou_2019_cadet_semif__Q14]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q14|src_kangourou_2019_cadet_semif__Q14]]
 
 
 
@@ -727,7 +727,7 @@ level: kangourou
 > (Points 6) Clear wants to colour each square of a grid 6×10 in red or blue. It requires that both colours are present and that the percentage of the surface which will be red after colouring is n%, with n being an integer. How many different ways can you choose n ?
 
 **Answer:** 19
-[[src_kangourou_2019_cadet_semif__Q15]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q15|src_kangourou_2019_cadet_semif__Q15]]
 
 
 
@@ -757,7 +757,7 @@ level: kangourou
 > Today is the birthday of Mara and her mother: her mother's age is five times that of Mara and some years ago she was seven times her age. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
 
 **Answer:** 4
-[[src_kangourou_2019_cadet_semif__Q16]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q16|src_kangourou_2019_cadet_semif__Q16]]
 
 
 
@@ -787,7 +787,7 @@ level: kangourou
 > (Points 7) A teacher is in a classroom with some of his pupils. The average age of the teacher is 24 years above the average age of his pupils and 20 years above the average age of all present, teachers and pupils. How many students are there?
 
 **Answer:** 5
-[[src_kangourou_2019_cadet_semif__Q17]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q17|src_kangourou_2019_cadet_semif__Q17]]
 
 
 
@@ -828,4 +828,4 @@ level: kangourou
 > 0063 0048 0004 0030 0005 0019 0004 0005 0008
 
 **Answer:** 8
-[[src_kangourou_2019_cadet_semif__Q18]]
+[[Quesiti/src_kangourou_2019_cadet_semif#q18|src_kangourou_2019_cadet_semif__Q18]]

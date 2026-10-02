@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Un polinomio $P(x)$ ha coefficienti interi. Prova che se i polinomi $P(x)$ e $P(P(x))$ hanno uno zero comune, allora hanno anche uno zero intero comune.
 
-[[src_pol_2007_r2__Q01]]
+[[Quesiti/src_pol_2007_r2#q01|src_pol_2007_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > Considera un pentagono convex $ABCDE$ con $BC=CD$, $DE=EA$ e $\angle BCD=\angle DEA=90^\circ$. Prova che $AC,CE$ e $EB$ sono lati di un triangolo e trova gli angoli di questo triangolo, sapendo che $\angle ACE=\alpha$ e $\angle BEC=\beta$.
 
-[[src_pol_2007_r2__Q02]]
+[[Quesiti/src_pol_2007_r2#q02|src_pol_2007_r2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 2
 
 > Un triangolo equilaterale di lato $n$ è composto da piastrelle triangolari equilaterali di lato $n^2$. Ogni piastrella ha un lato bianco e l'altro nero. Una mossa consentita è la seguente: scegliere una piastrella $P$ che abbia un lato comune con almeno altre due piastrelle la cui faccia superiore è di colore diverso da quello di $P$; poi girare $P$. Per ciascuna $n\ge 2$ determinare se esiste una posizione iniziale che consente infinite mosse di questo tipo.
 
-[[src_pol_2007_r2__Q03]]
+[[Quesiti/src_pol_2007_r2#q03|src_pol_2007_r2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 2
 
 > Prova che se $a,b,c,d$ sono numeri interi positivi che soddisfano $ad=b^2+bc+c^2$, il numero $a^2+b^2+c^2+d^2$ è composto.
 
-[[src_pol_2007_r2__Q04]]
+[[Quesiti/src_pol_2007_r2#q04|src_pol_2007_r2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 2
 
 > Un quadrilaterale convex $ABCD$ con $AB\ne CD$ è inserito in un cerchio. Le $AKDL$ e $CMBN$ siano rombole con lunghezza laterale $a$. Prova che i punti $K,L,M,N$ si trovano su un cerchio.
 
-[[src_pol_2007_r2__Q05]]
+[[Quesiti/src_pol_2007_r2#q05|src_pol_2007_r2__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: Olimpiade Polacca Round 2
 
 > I numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Provare che $$\sqrt[3]{\frac{a^3+b^3}{2}}+\sqrt[3]{\frac{b^3+c^3}{2}}+\sqrt[3]{\frac{c^3+d^3}{2}}+\sqrt[3]{\frac{d^3+a^3}{2}}\le 2(a+b+c+d)-4.$$
 
-[[src_pol_2007_r2__Q06]]
+[[Quesiti/src_pol_2007_r2#q06|src_pol_2007_r2__Q06]]

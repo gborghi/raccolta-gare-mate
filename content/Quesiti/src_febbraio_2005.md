@@ -39,7 +39,7 @@ Question with multiple replies from February 2005 No.1
 > 
 > **(A)** Less than three hours **(B)** more than three hours, but less than six **(C)** more than six hours, but less than nine **(D)** more than nine hours **(E)** cannot be determined.
 
-[[src_febbraio_2005__Q01]]
+[[Quesiti/src_febbraio_2005#q01|src_febbraio_2005__Q01]]
 
 
 
@@ -84,7 +84,7 @@ Question with multiple answers February 2005 No.2
 > 
 > **(E) ** none of the above.
 
-[[src_febbraio_2005__Q02]]
+[[Quesiti/src_febbraio_2005#q02|src_febbraio_2005__Q02]]
 
 
 
@@ -126,7 +126,7 @@ Question with multiple answers February 2005 No.2
 > 
 > **(A) ** Exactly 1 is telling the truth. **(B) ** Exactly 2 are telling the truth. Exactly 3 are telling the truth. Exactly four are telling the truth. **(E) ** It is not possible to determine the number of people who are telling the truth.
 
-[[src_febbraio_2005__Q03]]
+[[Quesiti/src_febbraio_2005#q03|src_febbraio_2005__Q03]]
 
 
 
@@ -156,7 +156,7 @@ Question with multiple answers February 2005 No.2
 > 
 > **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** a finite number greater than 3 **(E) ** infinite.
 
-[[src_febbraio_2005__Q04]]
+[[Quesiti/src_febbraio_2005#q04|src_febbraio_2005__Q04]]
 
 
 
@@ -185,7 +185,7 @@ Question with multiple answers February 2005 No.2
 > 
 > **(A)** $8 - \dfrac{4}{3}\sqrt{3}$ **(B)** $16 - \dfrac{8}{3}\sqrt{3}$ **(C)** $16 - \dfrac{4}{3}\sqrt{3} + \pi$ **(D)** $16 - \dfrac{8}{3}\sqrt{3} + 2\pi$ **(E)** $8 + 2\pi$.
 
-[[src_febbraio_2005__Q05]]
+[[Quesiti/src_febbraio_2005#q05|src_febbraio_2005__Q05]]
 
 
 
@@ -215,7 +215,7 @@ Party with three girls and three boys around a round table
 > 
 > **(A)** $\dfrac{1}{6}$ **(B)** $\dfrac{1}{10}$ **(C)** $\dfrac{3}{20}$ **(D)** $\dfrac{1}{12}$ **(E)** $\dfrac{11}{36}$.
 
-[[src_febbraio_2005__Q06]]
+[[Quesiti/src_febbraio_2005#q06|src_febbraio_2005__Q06]]
 
 
 
@@ -245,7 +245,7 @@ Party with three girls and three boys around a round table
 > 
 > **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** 4 **(E) ** may have an infinite number of them.
 
-[[src_febbraio_2005__Q07]]
+[[Quesiti/src_febbraio_2005#q07|src_febbraio_2005__Q07]]
 
 
 
@@ -336,7 +336,7 @@ Party with three girls and three boys around a round table
 > 
 > (see figure)
 
-[[src_febbraio_2005__Q08]]
+[[Quesiti/src_febbraio_2005#q08|src_febbraio_2005__Q08]]
 
 
 
@@ -366,7 +366,7 @@ Party with three girls and three boys around a round table
 > 
 > **(A)** $\dfrac{3}{25}$ **(B)** $\dfrac{1}{6}$ **(C)** $\dfrac{1}{5}$ **(D)** $\dfrac{6}{25}$ **(E)** $\dfrac{1}{4}$.
 
-[[src_febbraio_2005__Q09]]
+[[Quesiti/src_febbraio_2005#q09|src_febbraio_2005__Q09]]
 
 
 
@@ -396,7 +396,7 @@ It's a game of chips, a winning strategy.
 > 
 > **(A) ** 3 **(B) ** 4 **(C) ** 16 **(D) ** 32 **(E) ** may be large as desired.
 
-[[src_febbraio_2005__Q10]]
+[[Quesiti/src_febbraio_2005#q10|src_febbraio_2005__Q10]]
 
 
 
@@ -422,7 +422,7 @@ It's a game of chips, a winning strategy.
 
 > How many integers between 1 and 2005 (included) have an odd number of even digits?
 
-[[src_febbraio_2005__Q11]]
+[[Quesiti/src_febbraio_2005#q11|src_febbraio_2005__Q11]]
 
 
 
@@ -447,7 +447,7 @@ It's a game of chips, a winning strategy.
 
 > $ABC$ is a triangle with $AC = BC$ and $\widehat{ACB} < 60°$. Two points on the sides of $A'$ and $B'$ and $AC$ are $AA' = BB' = AB$ respectively. Whether $C'$ the intersection of $\overline{AA'}$ with $\overline{BB'}$. Knowing that $AC' = AB'$ and $BC' = BA'$, how much is the angle width in degrees $\widehat{ACB}$?
 
-[[src_febbraio_2005__Q12]]
+[[Quesiti/src_febbraio_2005#q12|src_febbraio_2005__Q12]]
 
 
 
@@ -472,7 +472,7 @@ It's a game of chips, a winning strategy.
 
 > On a chessboard $75 \times 75$ the rows and columns are numbered from 1 to 75. Clear wants to put a pad in every box that has an equal coordinate and the other multiple of 3. How many pawns will he have on the chessboard?
 
-[[src_febbraio_2005__Q13]]
+[[Quesiti/src_febbraio_2005#q13|src_febbraio_2005__Q13]]
 
 
 
@@ -497,7 +497,7 @@ It's a game of chips, a winning strategy.
 
 > Two $C_1$ and $C_2$ centers $A$ and $B$ are tangent externally in $T$. either $BD$ a tangent segment to $C_1$ in $D$ and $TC$ the tangent segment to both in $T$ with $C \in BD$. If $AT$ is 80 and $BT$ is 90 length, what is the length of $CD$?
 
-[[src_febbraio_2005__Q14]]
+[[Quesiti/src_febbraio_2005#q14|src_febbraio_2005__Q14]]
 
 
 
@@ -523,7 +523,7 @@ It's a game of chips, a winning strategy.
 
 > How many ordered pairs of positive integers $(x,\, y)$ and $y$ satisfy the $xy + 5(x + y) = 2005$ relationship?
 
-[[src_febbraio_2005__Q15]]
+[[Quesiti/src_febbraio_2005#q15|src_febbraio_2005__Q15]]
 
 
 
@@ -548,7 +548,7 @@ Question No 16 of the Committee on Budgets
 
 > Either $ABC$ a rectangular triangle in $A$, with $AB > AC$; or $AH$ the height relative to the hypotenuse. On the $BC$ straight $D$ shall be taken such that $H$ is the mean point of $BD$; and then $E$ the foot of the perpendicular led from $C$ to $AD$. Show that $EH = AH$.
 
-[[src_febbraio_2005__Q16]]
+[[Quesiti/src_febbraio_2005#q16|src_febbraio_2005__Q16]]
 
 
 
@@ -581,7 +581,7 @@ Question No 17 of the Council in February 2005
 > 
 > It's a whole number.
 
-[[src_febbraio_2005__Q17]]
+[[Quesiti/src_febbraio_2005#q17|src_febbraio_2005__Q17]]
 
 
 
@@ -607,7 +607,7 @@ Question No 17 of the Council in February 2005
 
 > [problem not present in the document]
 
-[[src_febbraio_2005__Q18]]
+[[Quesiti/src_febbraio_2005#q18|src_febbraio_2005__Q18]]
 
 
 
@@ -632,7 +632,7 @@ Question No 19 of the Committee on Budgets
 
 > [problem not present in the document]
 
-[[src_febbraio_2005__Q19]]
+[[Quesiti/src_febbraio_2005#q19|src_febbraio_2005__Q19]]
 
 
 
@@ -657,7 +657,7 @@ Question No 19 of the Committee on Budgets
 
 > [problem not present in the document]
 
-[[src_febbraio_2005__Q20]]
+[[Quesiti/src_febbraio_2005#q20|src_febbraio_2005__Q20]]
 
 
 
@@ -682,7 +682,7 @@ Question No 21 of February 2005
 
 > [problem not present in the document]
 
-[[src_febbraio_2005__Q21]]
+[[Quesiti/src_febbraio_2005#q21|src_febbraio_2005__Q21]]
 
 
 
@@ -708,7 +708,7 @@ Question No 21 of February 2005
 
 > [problem not present in the document]
 
-[[src_febbraio_2005__Q22]]
+[[Quesiti/src_febbraio_2005#q22|src_febbraio_2005__Q22]]
 
 
 
@@ -735,4 +735,4 @@ Question No 21 of February 2005
 > [problem not present in the document]
 
 **Answer:** 36/350 (cioe 36 al numeratore della frazione ridotta)
-[[src_febbraio_2005__Q23]]
+[[Quesiti/src_febbraio_2005#q23|src_febbraio_2005__Q23]]

@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** 6.
 
 **Answer:** E
-[[src_archimede_2007_2livello__Q01]]
+[[Quesiti/src_archimede_2007_2livello#q01|src_archimede_2007_2livello__Q01]]
 
 
 
@@ -94,7 +94,7 @@ level: 2 livello
 > - **(E)** 31.
 
 **Answer:** D
-[[src_archimede_2007_2livello__Q02]]
+[[Quesiti/src_archimede_2007_2livello#q02|src_archimede_2007_2livello__Q02]]
 
 
 
@@ -135,7 +135,7 @@ level: 2 livello
 > - **(E)** 6.
 
 **Answer:** D
-[[src_archimede_2007_2livello__Q03]]
+[[Quesiti/src_archimede_2007_2livello#q03|src_archimede_2007_2livello__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: 2 livello
 > - **(E)** 22.
 
 **Answer:** C
-[[src_archimede_2007_2livello__Q04]]
+[[Quesiti/src_archimede_2007_2livello#q04|src_archimede_2007_2livello__Q04]]
 
 
 
@@ -219,7 +219,7 @@ level: 2 livello
 > - **(E)** None of the above answers are correct.
 
 **Answer:** B
-[[src_archimede_2007_2livello__Q05]]
+[[Quesiti/src_archimede_2007_2livello#q05|src_archimede_2007_2livello__Q05]]
 
 
 
@@ -262,7 +262,7 @@ level: 2 livello
 > - **(E)** 6.
 
 **Answer:** E
-[[src_archimede_2007_2livello__Q06]]
+[[Quesiti/src_archimede_2007_2livello#q06|src_archimede_2007_2livello__Q06]]
 
 
 
@@ -309,7 +309,7 @@ level: 2 livello
 > - **(E)** the data provided alone cannot be determined.
 
 **Answer:** B
-[[src_archimede_2007_2livello__Q07]]
+[[Quesiti/src_archimede_2007_2livello#q07|src_archimede_2007_2livello__Q07]]
 
 
 
@@ -354,7 +354,7 @@ level: 2 livello
 > - **(E)** π 4 + 1  r2
 
 **Answer:** A
-[[src_archimede_2007_2livello__Q08]]
+[[Quesiti/src_archimede_2007_2livello#q08|src_archimede_2007_2livello__Q08]]
 
 
 
@@ -398,7 +398,7 @@ The probability that Barbara did not peak Alberto
 > - **(E)** 30! 10! 40!
 
 **Answer:** D
-[[src_archimede_2007_2livello__Q09]]
+[[Quesiti/src_archimede_2007_2livello#q09|src_archimede_2007_2livello__Q09]]
 
 
 
@@ -442,7 +442,7 @@ The probability that Barbara did not peak Alberto
 > - **(E)** 7 + 3 √ 5 2 .
 
 **Answer:** E
-[[src_archimede_2007_2livello__Q10]]
+[[Quesiti/src_archimede_2007_2livello#q10|src_archimede_2007_2livello__Q10]]
 
 
 
@@ -487,7 +487,7 @@ The probability that Barbara did not peak Alberto
 > - **(E)** About 0.004%.
 
 **Answer:** C
-[[src_archimede_2007_2livello__Q11]]
+[[Quesiti/src_archimede_2007_2livello#q11|src_archimede_2007_2livello__Q11]]
 
 
 
@@ -529,7 +529,7 @@ The probability that Barbara did not peak Alberto
 > - **(E)** 8. Problems with a numerical answer  8 points
 
 **Answer:** C
-[[src_archimede_2007_2livello__Q12]]
+[[Quesiti/src_archimede_2007_2livello#q12|src_archimede_2007_2livello__Q12]]
 
 
 
@@ -559,7 +559,7 @@ The probability that Barbara did not peak Alberto
 > So p(x) = x20 + a19x19 + a18x18 + . . . + a1x + a0 a polynomial, with the integers a. We know that for all integers k between 1 and 20, p (k) = 2k. What are the last three digits of p?
 
 **Answer:** 042
-[[src_archimede_2007_2livello__Q13]]
+[[Quesiti/src_archimede_2007_2livello#q13|src_archimede_2007_2livello__Q13]]
 
 
 
@@ -592,7 +592,7 @@ The probability that Barbara did not peak Alberto
 > If a is a positive integer less than 100, for how many values of a system x2 = y + a y2 = x + a does it have whole solutions?
 
 **Answer:** 19
-[[src_archimede_2007_2livello__Q14]]
+[[Quesiti/src_archimede_2007_2livello#q14|src_archimede_2007_2livello__Q14]]
 
 
 
@@ -626,7 +626,7 @@ The probability that Barbara did not peak Alberto
 > Lorenza is located on a track shaped like a regular polygon with 2007 sides, the vertices of which are numbered from 1 to 2007 clockwise. Lorenza, starting from peak 6, jumps 4 vertices each time and falls on the fifth further forward (e.g., from 20 to 25), but jumps back 2 vertices when it falls on a peak identified by a power of 2 (e.g., after a possible jump from 27 to 32, it must jump back to 30). After how many jumps will Lorenza have crossed summit 1 for the first time?
 
 **Answer:** 405
-[[src_archimede_2007_2livello__Q15]]
+[[Quesiti/src_archimede_2007_2livello#q15|src_archimede_2007_2livello__Q15]]
 
 
 
@@ -669,7 +669,7 @@ The probability that Barbara did not peak Alberto
 > A flea moves by jumping back and forth along a straight line. The flea's lair is a point of rectitude. • if the flea is less than or equal to one metre away from the pit, after the next jump it will be twice as far away from the pit. • if the flea is more than a metre away from the pit, after the next jump it will be 1 metre away from the pit but on the opposite side from where it is currently. If after 5 jumps the fleas are within 50 inches of the hole in a certain direction, how many distinct jump sequences can it have reached that position?
 
 **Answer:** 6
-[[src_archimede_2007_2livello__Q16]]
+[[Quesiti/src_archimede_2007_2livello#q16|src_archimede_2007_2livello__Q16]]
 
 
 
@@ -703,7 +703,7 @@ The probability that Barbara did not peak Alberto
 > A positive integer is said to be triangular if it can be written in the form n(n + 1) 2 for some positive integer n. How many pairs (a, b) of triangular numbers such that b −a = 2007? (Remember that 223 is a prime number.)
 
 **Answer:** 6
-[[src_archimede_2007_2livello__Q17]]
+[[Quesiti/src_archimede_2007_2livello#q17|src_archimede_2007_2livello__Q17]]
 
 
 
@@ -736,4 +736,4 @@ The probability that Barbara did not peak Alberto
 > DEMOSTRATIVE EXERCISE A circumference of diameter AB and centre O is given. Whether C is a point on the circumference (different from A and B), and the line r parallel to AC is plotted for O. Either D the intersection of r with the circumference of the opposite side of C to AB. (i) Demonstrate that the DO is $\widehat{CDB}$. (ii) Demonstrate that the CDB triangle is similar to the AOD triangle.
 
 **Answer:** dimostrazione
-[[src_archimede_2007_2livello__Q18]]
+[[Quesiti/src_archimede_2007_2livello#q18|src_archimede_2007_2livello__Q18]]

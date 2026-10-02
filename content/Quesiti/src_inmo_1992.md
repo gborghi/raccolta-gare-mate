@@ -33,7 +33,7 @@ level: INMO
 
 > In un triangolo $ABC$, $\angle A = 2\angle B$. Prove che $a^2 = b(b + c)$.
 
-[[src_inmo_1992__Q01]]
+[[Quesiti/src_inmo_1992#q01|src_inmo_1992__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: INMO
 
 > Se i numeri reali $x, y, z$ soddisfano $x + y + z = 4$ e $x^2 + y^2 + z^2 = 6$, indicare che ciascuno di $x, y, z$ si trova nel segmento $\left[\tfrac{1}{2}, 2\right]$. Può $x$ raggiungere uno dei punti finali del segmento?
 
-[[src_inmo_1992__Q02]]
+[[Quesiti/src_inmo_1992#q02|src_inmo_1992__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: INMO
 
 > Determinare il residuo di $19^{92}$ diviso per $92$.
 
-[[src_inmo_1992__Q03]]
+[[Quesiti/src_inmo_1992#q03|src_inmo_1992__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: INMO
 
 > Trova il numero di permutazioni $(p_1, p_2, \ldots, p_6)$ di $1, 2, \ldots, 6$ in modo tale che per qualsiasi $k$, $1 \le k \le 5$, $(p_1, p_2, \ldots, p_k)$ non costituisca una permutazione di $1, 2, \ldots, k$.
 
-[[src_inmo_1992__Q04]]
+[[Quesiti/src_inmo_1992#q04|src_inmo_1992__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: INMO
 
 > Due cerchi $C_1$ e $C_2$ nel piano si intersecano a due punti $P$ e $Q$. Una linea attraverso $P$ incontra $C_1$ a $A$ e $C_2$ a $B$. Il $Y$ deve essere il punto medio di $AB$ e $QY$ deve incontrare di nuovo i cerchi $C_1$ e $C_2$ rispettivamente a $X$ e $Z$. Indicare che $Y$ è il punto medio di $XZ$.
 
-[[src_inmo_1992__Q05]]
+[[Quesiti/src_inmo_1992#q05|src_inmo_1992__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: INMO
 
 > $f(x)$ sia un polinomio con coefficienti interi in modo che esistano diversi interi $a_1, a_2, \ldots, a_n$ in cui $f$ prende il valore $2$. Indicare che non esiste un numero intero $b$ con $f(b) = 9$.
 
-[[src_inmo_1992__Q06]]
+[[Quesiti/src_inmo_1992#q06|src_inmo_1992__Q06]]
 
 
 
@@ -195,7 +195,7 @@ level: INMO
 
 > Per ogni numero intero $n \ge 3$, trovare il numero di modi in cui si possono posizionare i numeri $1, 2, \ldots, n^2$ nei quadrati di una scacchiera $n \times n$ (uno in ogni quadrato) in modo che i numeri in ogni riga e in ogni colonna formino una progressione aritmetica.
 
-[[src_inmo_1992__Q07]]
+[[Quesiti/src_inmo_1992#q07|src_inmo_1992__Q07]]
 
 
 
@@ -222,7 +222,7 @@ level: INMO
 
 > Trova tutte le coppie $(m, n)$ di interi positivi per le quali $2^m + 3^n$ è un quadrato perfetto.
 
-[[src_inmo_1992__Q08]]
+[[Quesiti/src_inmo_1992#q08|src_inmo_1992__Q08]]
 
 
 
@@ -250,7 +250,7 @@ level: INMO
 
 > Trova $n$ in modo che in un normale $n$-gon $A_1 A_2 \ldots A_n$ abbiamo $$\frac{1}{A_1 A_2} = \frac{1}{A_1 A_3} + \frac{1}{A_1 A_4}.$$
 
-[[src_inmo_1992__Q09]]
+[[Quesiti/src_inmo_1992#q09|src_inmo_1992__Q09]]
 
 
 
@@ -278,4 +278,4 @@ level: INMO
 
 > Determinare tutte le funzioni $f : \mathbb{R} \setminus \{0, 1\} \to \mathbb{R}$ in modo che per tutte $x$, $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{2(1-2x)}{x(1-x)}.$$
 
-[[src_inmo_1992__Q10]]
+[[Quesiti/src_inmo_1992#q10|src_inmo_1992__Q10]]

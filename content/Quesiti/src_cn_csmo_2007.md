@@ -35,7 +35,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Quanti integri $a$ soddisfano la condizione: per ogni $a$, l'equazione $x^2 = ax + a + 1$ rispetto a $x$ ha radici pari e $|x| < 1000$?
 
-[[src_cn_csmo_2007__Q03]]
+[[Quesiti/src_cn_csmo_2007#q03|src_cn_csmo_2007__Q03]]
 
 
 
@@ -64,7 +64,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella figura, i punti $C$ e $D$ sono sul semicircolo con $O$ come centro e $AB$ come diametro. La linea tangente al semicircolo al punto $B$ incontra la linea $CD$ al punto $P$. La linea $PO$ incrocia rispettivamente $CA$ e $AD$ nei punti $E$ e $F$. Provare $OE = OF$.
 
-[[src_cn_csmo_2007__Q04]]
+[[Quesiti/src_cn_csmo_2007#q04|src_cn_csmo_2007__Q04]]
 
 
 
@@ -95,7 +95,7 @@ level: China Southeastern Mathematical Olympiad
 > Supponiamo $a_n = \min\left\{k + \frac{n+1}{k} \mid k \in \mathbb{N}^*\right\}$, troviamo il valore di $S_{n^2} = [a_1] + [a_2] + \cdots + [a_{n^2}]$, dove $n \ge 2$, e $[x]$ denota il numero intero più grande inferiore o uguale a $x$.
 
 **Risposta:** $S_{n^2} = 4m^2 + 3m + 1$
-[[src_cn_csmo_2007__Q05]]
+[[Quesiti/src_cn_csmo_2007#q05|src_cn_csmo_2007__Q05]]
 
 
 
@@ -124,7 +124,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Trovare il numero intero positivo più piccolo $n$ in modo tale che qualsiasi sequenza di numeri interi positivi $a_1, a_2, \cdots, a_n$ soddisfa $\sum_{i=1}^{n} a_i = 2007$ deve avere diversi termini consecutivi la cui somma è $30$.
 
-[[src_cn_csmo_2007__Q06]]
+[[Quesiti/src_cn_csmo_2007#q06|src_cn_csmo_2007__Q06]]
 
 
 
@@ -159,7 +159,7 @@ level: China Southeastern Mathematical Olympiad
 > 
 > (2) $a + 1$, $b + 1$, $c + 1$ costituiscono la progressione geometrica.
 
-[[src_cn_csmo_2007__Q07]]
+[[Quesiti/src_cn_csmo_2007#q07|src_cn_csmo_2007__Q07]]
 
 
 
@@ -187,4 +187,4 @@ level: China Southeastern Mathematical Olympiad
 
 > Date i numeri reali $a$, $b$, $c$ tali che $abc = 1$, dimostrino che per tutti gli integri $k \geqslant 2$, $$\frac{a^k}{a+b} + \frac{b^k}{b+c} + \frac{c^k}{c+a} \geqslant \frac{3}{2}.$$
 
-[[src_cn_csmo_2007__Q08]]
+[[Quesiti/src_cn_csmo_2007#q08|src_cn_csmo_2007__Q08]]

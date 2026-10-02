@@ -37,7 +37,7 @@ level: BMO Round 1
 
 > $PQRS$ è un quadrilaterale di superficie $A$. $O$ è un punto all'interno di esso. Prova che se $$2A = OP^2 + OQ^2 + OR^2 + OS^2$$ $PQRS$ è un quadrato e $O$ è il suo centro.
 
-[[src_bmo_1981-82_round1__Q01]]
+[[Quesiti/src_bmo_1981-82_round1#q01|src_bmo_1981-82_round1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 
 > Un multiple di $3$ quando scritto nella scala di $2$ contiene esattamente tre cifre $1$. Prove che contiene almeno sei cifre quando viene scritta nella scala di $4$, e che se contiene esattamente sette cifre in questa scala, allora è pari.
 
-[[src_bmo_1981-82_round1__Q02]]
+[[Quesiti/src_bmo_1981-82_round1#q02|src_bmo_1981-82_round1__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 1
 
 > Se $s_n = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{n}$ per $n > 2$, dimostrare che $$n(s_n)^x = n + (n-1)s_1 + (n-2)s_2 + \cdots + 2s_{n-2} + s_{n-1},$$ dove $x$ e $b$ sono dati in termini di $n$ da $a = s_n - 1$, $b(s_n - 1) = -1$.
 
-[[src_bmo_1981-82_round1__Q03]]
+[[Quesiti/src_bmo_1981-82_round1#q03|src_bmo_1981-82_round1__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: BMO Round 1
 
 > Una sequenza di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e la relazione di ricorrenza $$\frac{1}{u_{n+1}} - u_n = \frac{13}{6n}, \quad n \ge 2.$$ Considerando la curva $x^2 + y = \frac{13}{6n}$, o altrimenti descrivendo con prova il comportamento di $u_n$ come $n$ tende all'infinito.
 
-[[src_bmo_1981-82_round1__Q04]]
+[[Quesiti/src_bmo_1981-82_round1#q04|src_bmo_1981-82_round1__Q04]]
 
 
 
@@ -158,7 +158,7 @@ level: BMO Round 1
 
 > Un cono circolare destro si trova su una base orizzontale, di raggio $r$. Il suo vertice $V$ è a una distanza $l$ da ogni punto sul perimetro della base. Una sezione piana del cono è un'ellisse il cui punto inferiore è $L$ e il cui punto più alto è $H$. Sulla superficie curva del cono, da un lato del piano $VLH$, sono segnate due percorsi da $L$ a $H$, $R_1$ lungo il semiperimetro dell'ellisse e $R_2$ il percorso di lunghezza più breve. Trova la condizione che $R_1$ e $R_2$ si incrociano tra $L$ e $H$.
 
-[[src_bmo_1981-82_round1__Q05]]
+[[Quesiti/src_bmo_1981-82_round1#q05|src_bmo_1981-82_round1__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: BMO Round 1
 
 > Prove che il numero di sequenze $a_1 a_2 \ldots a_n$ con ciascuna delle loro $n$ termini $a_i = 0$ o $1$ e contenente esattamente $m$ eventi di $01$ è $\dbinom{n+1}{2m+1}$.
 
-[[src_bmo_1981-82_round1__Q06]]
+[[Quesiti/src_bmo_1981-82_round1#q06|src_bmo_1981-82_round1__Q06]]

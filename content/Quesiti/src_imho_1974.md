@@ -37,7 +37,7 @@ Card game: who received r counters in last round?
 > 
 > This process (shuffling, dealing, giving out counters) takes place for at least two rounds. After the last round $A$ has 20 counters in all, $B$ has 10 and $C$ has 9. At the last round $B$ received $r$ counters. Who received $r$ counters on the first round?
 
-[[src_imho_1974__Q01]]
+[[Quesiti/src_imho_1974#q01|src_imho_1974__Q01]]
 
 
 
@@ -65,7 +65,7 @@ Card game: who received r counters in last round?
 
 > In the $ABC$ triangle, prove that there is a point $D$ on side $AB$ such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
 
-[[src_imho_1974__Q02]]
+[[Quesiti/src_imho_1974#q02|src_imho_1974__Q02]]
 
 
 
@@ -92,7 +92,7 @@ Sum involving binomial coefficients not divisible by 5
 
 > Prove that the number $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ is not divisible by 5 for any integer $n \ge 0$.
 
-[[src_imho_1974__Q03]]
+[[Quesiti/src_imho_1974#q03|src_imho_1974__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Chessboard decomposition into rectangles, maximum white squares
 
 > Consider decompositions of an $8 \times 8$ chessboard into $p$ non-overlapping rectangles subject to the following conditions: (i) Each rectangle has as many white squares as black squares. If $a_i$ is the number of white squares in the $i$-th rectangle, then $a_1 < a_2 < \cdots < a_p$. Find the maximum value of $p$ for which such a decomposition is possible. For this value of $p$, determine all possible sequences $a_1, a_2, \ldots, a_p$.
 
-[[src_imho_1974__Q04]]
+[[Quesiti/src_imho_1974#q04|src_imho_1974__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Find all possible values of a cyclic sum of four fractions
 
 > Determine all possible values of $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$ where $a, b, c, d$ are arbitrary positive numbers.
 
-[[src_imho_1974__Q05]]
+[[Quesiti/src_imho_1974#q05|src_imho_1974__Q05]]
 
 
 
@@ -178,4 +178,4 @@ Find all possible values of a cyclic sum of four fractions
 
 > Let $P$ be a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such that $(P(k))^2 = 1$, prove that $n(P) - \deg(P) \le 2$, where $\deg(P)$ denotes the degree of the polynomial $P$.
 
-[[src_imho_1974__Q06]]
+[[Quesiti/src_imho_1974#q06|src_imho_1974__Q06]]

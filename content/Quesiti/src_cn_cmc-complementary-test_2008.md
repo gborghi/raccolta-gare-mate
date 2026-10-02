@@ -24,7 +24,7 @@ level: China Mathematical Competition (Complementary Test)
 > $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$
 > furthermore, $DA$, $DC$ are tangent to $\odot O$, $AC = \sqrt{2}$. Find the minimum of $f(P)$.
 
-![[src_cn_cmc-complementary-test_2008__Q01.png]]
+![[src_cn_cmc-complementary-test_2008__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -43,10 +43,10 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 marchi) Come mostrato alla figura. 1, $ABCD$ è un quadrilaterale convex con $\angle B + \angle D < 180^\circ$, e $P$ è un punto in movimento sul piano. Indicare che $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$ (1) Provare che $P$, $A$, $B$, $C$ sono conciclici quando $f(P)$ raggiunge il minimo. (2) Supponiamo che il punto $E$ si trovi sull'arco $\overset{\frown}{AB}$ del cerchio circoscritto $O$ di $\triangle ABC$, soddisfacendo $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$, inoltre $DA$, $DC$ sono tangenti a $\odot O$, $AC = \sqrt{2}$. Trova il minimo di $f(P)$.
 
-![[src_cn_cmc-complementary-test_2008__Q01.png]]
+![[src_cn_cmc-complementary-test_2008__q01.png]]
 
 **Risposta:** $f(P)_{\min} = \sqrt{10}$
-[[src_cn_cmc-complementary-test_2008__Q01]]
+[[Quesiti/src_cn_cmc-complementary-test_2008#q01|src_cn_cmc-complementary-test_2008__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 punti) $f(x)$ deve essere una funzione periodica con periodi $T$ e $1$, soddisfacente $0 < T < 1$. Prova che: (1) Se $T$ è un numero razionale, esiste un primo $p$ tale che $\frac{1}{p}$ è anche un periodo di $f(x)$. (2) Se $T$ è irrazionale, esiste una sequenza di numeri irrazionali $\{a_n\}$ che soddisfa $1 > a_n > a_{n+1} > 0$ $(n = 1, 2, \ldots)$ e ogni $a_n$ è un periodo di $f(x)$.
 
-[[src_cn_cmc-complementary-test_2008__Q02]]
+[[Quesiti/src_cn_cmc-complementary-test_2008#q02|src_cn_cmc-complementary-test_2008__Q02]]
 
 
 
@@ -109,4 +109,4 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 punti) Supponiamo che $a_k \ge 0$, $k = 1, 2, \ldots, 2008$. Prove che se e solo se $\sum_{k=1}^{2008} a_k > 1$ esiste una sequenza $\{x_n\}$ soddisfacente (1) $0 = x_0 < x_1 < x_2 < \cdots < x_n < \cdots$, $n = 1, 2, 3, \ldots$; (2) $\lim_{n \to \infty} x_n$; (3) $x_n - x_{n-1} = \sum_{k=1}^{2008} a_k(x_{n+k} - x_{n+k-1})$, $n = 1, 2, 3, \ldots$
 
-[[src_cn_cmc-complementary-test_2008__Q03]]
+[[Quesiti/src_cn_cmc-complementary-test_2008#q03|src_cn_cmc-complementary-test_2008__Q03]]

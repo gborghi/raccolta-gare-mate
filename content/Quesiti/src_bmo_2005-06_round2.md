@@ -36,7 +36,7 @@ level: BMO Round 2
 > Trova il valore minimo possibile di $x^2 + y^2$ dato che $x$ e $y$ sono numeri reali che soddisfano $$xy(x^2 - y^2) = x^2 + y^2 \text{ and } x \neq 0.$$
 
 **Risposta:** 4
-[[src_bmo_2005-06_round2__Q01]]
+[[Quesiti/src_bmo_2005-06_round2#q01|src_bmo_2005-06_round2__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 2
 
 > Lasciate che $x$ e $y$ siano numeri interi positivi senza fattori primi superiori a 5. Trova tutti i $x$ e $y$ che soddisfano $$x^2 - y^2 = 2^k$$ per un intero non negativo $k$.
 
-[[src_bmo_2005-06_round2__Q02]]
+[[Quesiti/src_bmo_2005-06_round2#q02|src_bmo_2005-06_round2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > $ABC$ sia un triangolo con $AC > AB$. Il punto $X$ si trova sul lato $BA$ esteso attraverso $A$, e il punto $Y$ si trova sul lato $CA$ in modo tale che $BX = CA$ e $CY = BA$. La linea $XY$ incontra il bisettore perpendicolare del lato $BC$ a $P$. Indicare che $$\angle BPC + \angle BAC = 180^\circ.$$
 
-[[src_bmo_2005-06_round2__Q03]]
+[[Quesiti/src_bmo_2005-06_round2#q03|src_bmo_2005-06_round2__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 > Un esame composto da sei domande è presentato da bambini del 2006. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Che $N$ sia il numero totale di risposte giuste ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino 1 $+$ il totale risolto dal bambino 2 $+ \cdots +$ il totale risolto dal bambino 2006). Trova il minimo valore possibile di $N$.
 
 **Risposta:** 3346
-[[src_bmo_2005-06_round2__Q04]]
+[[Quesiti/src_bmo_2005-06_round2#q04|src_bmo_2005-06_round2__Q04]]

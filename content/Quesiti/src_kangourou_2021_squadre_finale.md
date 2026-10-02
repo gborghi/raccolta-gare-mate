@@ -33,7 +33,7 @@ level: squadre
 
 > First number What is the first number between 112 and 122 that is the sum of two squares?
 
-[[src_kangourou_2021_squadre_finale__Q01]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q01|src_kangourou_2021_squadre_finale__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: squadre
 
 > Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families travel. Every family is exactly made up of father, mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travelers, including driver, you get 2021. How many families are there?
 
-[[src_kangourou_2021_squadre_finale__Q02]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q02|src_kangourou_2021_squadre_finale__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: squadre
 
 > Product sum Any term in a sequence of 2021 integers is 1 or 0 or −1. For each unordered pair of terms in the sequence, the product of the terms that make up the sequence is executed; all the products obtained are added. When we vary all the possible sequences of this kind, what is the maximum value we can get for the opposite of this sum?
 
-[[src_kangourou_2021_squadre_finale__Q03]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q03|src_kangourou_2021_squadre_finale__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: squadre
 
 > The angle In the figure you see a square, a regular octagon and a regular hexagon, having one side in common. You can also see two triangles made by joining some of the vertices of the other figures. How many degrees does the angle φ measure, the sum of two consecutive angles of the two triangles shown in the figure?
 
-[[src_kangourou_2021_squadre_finale__Q04]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q04|src_kangourou_2021_squadre_finale__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: squadre
 
 > We call the weight of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the weight of 5142 is 4. Consider all the positive five-digit integers that you can write using for each of them all the digits 1, 2, 3, 4, 5 and add up their weights: what number do you get?
 
-[[src_kangourou_2021_squadre_finale__Q05]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q05|src_kangourou_2021_squadre_finale__Q05]]
 
 
 
@@ -190,7 +190,7 @@ level: squadre
 
 > The triangle The side of an ABCD square measures 19 cm. On the CD side a G-point is located and, externally to the ABCD square, the 14 cm side GCEF square is constructed. What is the area in square centimetres of the AEG triangle?
 
-[[src_kangourou_2021_squadre_finale__Q06]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q06|src_kangourou_2021_squadre_finale__Q06]]
 
 
 
@@ -225,7 +225,7 @@ level: squadre
 >  
 > ϕ
 
-[[src_kangourou_2021_squadre_finale__Q07]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q07|src_kangourou_2021_squadre_finale__Q07]]
 
 
 
@@ -258,7 +258,7 @@ How much does Francesco have (residues and liabilities)
 
 > Coin When he emptied his saviour to count his savings, Francis discovered that it contained only one euro coins. He arranged them in stacks of three coins each and got a euro in advance. Then he arranged them in stacks of four coins each and got another euro. The same thing happened when he arranged them in piles of five euros each. With these savings, Francesco could buy a 65-euro book, but not a 150-euro ticket. How many euros does Francesco have?
 
-[[src_kangourou_2021_squadre_finale__Q08]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q08|src_kangourou_2021_squadre_finale__Q08]]
 
 
 
@@ -286,7 +286,7 @@ How much does Francesco have (residues and liabilities)
 
 > How many peaks? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
 
-[[src_kangourou_2021_squadre_finale__Q09]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q09|src_kangourou_2021_squadre_finale__Q09]]
 
 
 
@@ -315,7 +315,7 @@ How much does Francesco have (residues and liabilities)
 
 > Without six John writes all integers from 1 to 2021 except those containing the number 6. How many numbers does he write?
 
-[[src_kangourou_2021_squadre_finale__Q10]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q10|src_kangourou_2021_squadre_finale__Q10]]
 
 
 
@@ -345,7 +345,7 @@ How much does Francesco have (residues and liabilities)
 
 > The letters Mauro must replace with a digit each letter appearing in the 135X6Y alignment so that the resulting number is divisible by 12. How many solutions (X,Y) does this problem admit? (It is not excluded that X may coincide with Y).
 
-[[src_kangourou_2021_squadre_finale__Q11]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q11|src_kangourou_2021_squadre_finale__Q11]]
 
 
 
@@ -376,7 +376,7 @@ How much does Francesco have (residues and liabilities)
 
 > Numbers  strong Let's say a number is  strong if every pair of its consecutive digits is a number that is power, at least second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the number of thousands, the number of hundreds, etc. in the order.
 
-[[src_kangourou_2021_squadre_finale__Q12]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q12|src_kangourou_2021_squadre_finale__Q12]]
 
 
 
@@ -406,7 +406,7 @@ How much does Francesco have (residues and liabilities)
 
 > Alice's birthday present is at a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each child. How many cents is the quotient of the division M: F ?
 
-[[src_kangourou_2021_squadre_finale__Q13]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q13|src_kangourou_2021_squadre_finale__Q13]]
 
 
 
@@ -461,7 +461,7 @@ How much does Francesco have (residues and liabilities)
 
 > Black rectangle The black rectangle in the figure has dimensions of 8 × 4. It is located in the intersection between the edge of a square and the inscribed circumference, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
 
-[[src_kangourou_2021_squadre_finale__Q14]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q14|src_kangourou_2021_squadre_finale__Q14]]
 
 
 
@@ -493,4 +493,4 @@ How much does Francesco have (residues and liabilities)
 
 > If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called advance. What's the smallest four-digit advance number?
 
-[[src_kangourou_2021_squadre_finale__Q15]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q15|src_kangourou_2021_squadre_finale__Q15]]

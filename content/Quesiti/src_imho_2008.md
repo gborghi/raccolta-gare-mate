@@ -33,7 +33,7 @@ level: IMO
 
 > An acute-angled triangle $ABC$ has orthocentre $H$. The circle passing through $H$ with centre the midpoint of $BC$ intersects the line $BC$ at $A_1$ and $A_2$. Similarly, the circle passing through $H$ with centre the midpoint of $CA$ intersects the line $CA$ at $B_1$ and $B_2$, and the circle passing through $H$ with centre the midpoint of $AB$ intersects the line $AB$ at $C_1$ and $C_2$. Show that $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ lie on a circle.
 
-[[src_imho_2008__Q01]]
+[[Quesiti/src_imho_2008#q01|src_imho_2008__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: IMO
 > 
 > (b) Prove that equality holds above for infinitely many triples of rational numbers $x$, $y$, $z$, each different from $1$, and satisfying $xyz = 1$.
 
-[[src_imho_2008__Q02]]
+[[Quesiti/src_imho_2008#q02|src_imho_2008__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: IMO
 
 > Prove that there exist infinitely many positive integers $n$ such that $n^2 + 1$ has a prime divisor which is greater than $2n + \sqrt{2n}$.
 
-[[src_imho_2008__Q03]]
+[[Quesiti/src_imho_2008#q03|src_imho_2008__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Functional equation on positive reals with condition wx=yz*
 
 > Find all functions $f : (0, \infty) \to (0, \infty)$ (so $f$ is a function from the positive real numbers to the positive real numbers) such that $$\frac{\left(f(w)\right)^2 + \left(f(x)\right)^2}{f(y^2) + f(z^2)} = \frac{w^2 + x^2}{y^2 + z^2}$$ for all positive real numbers $w$, $x$, $y$, $z$, satisfying $wx = yz$.
 
-[[src_imho_2008__Q04]]
+[[Quesiti/src_imho_2008#q04|src_imho_2008__Q04]]
 
 
 
@@ -161,7 +161,7 @@ Functional equation on positive reals with condition wx=yz*
 > 
 > Determine the ratio $N/M$.
 
-[[src_imho_2008__Q05]]
+[[Quesiti/src_imho_2008#q05|src_imho_2008__Q05]]
 
 
 
@@ -188,4 +188,4 @@ Functional equation on positive reals with condition wx=yz*
 
 > Let $ABCD$ be a convex quadrilateral with $|BA| \ne |BC|$. Denote the incircles of triangles $ABC$ and $ADC$ by $\omega_1$ and $\omega_2$ respectively. Suppose that there exists a circle $\omega$ tangent to the ray $BA$ beyond $A$ and to the ray $BC$ beyond $C$, which is also tangent to the lines $AD$ and $CD$. Prove that the common external tangents of $\omega_1$ and $\omega_2$ intersect on $\omega$.
 
-[[src_imho_2008__Q06]]
+[[Quesiti/src_imho_2008#q06|src_imho_2008__Q06]]

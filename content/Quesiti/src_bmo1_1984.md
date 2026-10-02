@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
 
-[[src_bmo1_1984__Q01]]
+[[Quesiti/src_bmo1_1984#q01|src_bmo1_1984__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Che $a_n$ sia il numero dei coefficienti binomiali $\binom{r}{n}$ ($0 \le r \le n$) che lasciano il rimanente $1$ sulla divisione da $3$ e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
 
-[[src_bmo1_1984__Q02]]
+[[Quesiti/src_bmo1_1984#q02|src_bmo1_1984__Q02]]
 
 
 
@@ -93,7 +93,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 > 
 > (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^a \cdot \left(\frac{b}{c}\right)^b \cdot \left(\frac{c}{d}\right)^c \cdot \left(\frac{d}{e}\right)^d \cdot \left(\frac{e}{a}\right)^e \ge \frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{e} + \frac{e}{a}.$$
 
-[[src_bmo1_1984__Q03]]
+[[Quesiti/src_bmo1_1984#q03|src_bmo1_1984__Q03]]
 
 
 
@@ -126,7 +126,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 > 
 > (Per un numero reale $x$ la "parte integrale" $[x]$ è il numero intero più grande che è $\le x$.)
 
-[[src_bmo1_1984__Q04]]
+[[Quesiti/src_bmo1_1984#q04|src_bmo1_1984__Q04]]
 
 
 
@@ -153,7 +153,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 
 > Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$. $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{VC} \cdot \text{(area of } E\text{)}.$$
 
-[[src_bmo1_1984__Q05]]
+[[Quesiti/src_bmo1_1984#q05|src_bmo1_1984__Q05]]
 
 
 
@@ -180,7 +180,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 
 > Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $x^2 - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2 - y$ che $y^2 - a$ siano divisibili da $m$.
 
-[[src_bmo1_1984__Q06]]
+[[Quesiti/src_bmo1_1984#q06|src_bmo1_1984__Q06]]
 
 
 
@@ -210,4 +210,4 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 
 > $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = P_A \sin DAB + P_B \sin ABC$$ dove $P_A$, $P_B$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
 
-[[src_bmo1_1984__Q07]]
+[[Quesiti/src_bmo1_1984#q07|src_bmo1_1984__Q07]]

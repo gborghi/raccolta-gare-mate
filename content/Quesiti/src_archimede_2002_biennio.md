@@ -48,7 +48,7 @@ level: biennio
 > - **(E)** 750.
 
 **Answer:** D
-[[src_archimede_2002_biennio__Q01]]
+[[Quesiti/src_archimede_2002_biennio#q01|src_archimede_2002_biennio__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: biennio
 > - **(E)** It depends on the numbers of the number given.
 
 **Answer:** D
-[[src_archimede_2002_biennio__Q02]]
+[[Quesiti/src_archimede_2002_biennio#q02|src_archimede_2002_biennio__Q02]]
 
 
 
@@ -132,7 +132,7 @@ Minimum calendar sheets for the third millennium
 > - **(D)** 30
 > - **(E)** 32.
 
-[[src_archimede_2002_biennio__Q03]]
+[[Quesiti/src_archimede_2002_biennio#q03|src_archimede_2002_biennio__Q03]]
 
 
 
@@ -203,7 +203,7 @@ Minimum calendar sheets for the third millennium
 > - **(D)** è 1 2
 > - **(E)** cannot be determined by the information given.
 
-[[src_archimede_2002_biennio__Q04]]
+[[Quesiti/src_archimede_2002_biennio#q04|src_archimede_2002_biennio__Q04]]
 
 
 
@@ -244,7 +244,7 @@ Minimum calendar sheets for the third millennium
 > - **(D)** 50 cm
 > - **(E)** depends on the distance between the wheels.
 
-[[src_archimede_2002_biennio__Q05]]
+[[Quesiti/src_archimede_2002_biennio#q05|src_archimede_2002_biennio__Q05]]
 
 
 
@@ -290,7 +290,7 @@ Minimum calendar sheets for the third millennium
 > - **(D)** π 6
 > - **(E)** Depends on the side of the cube. b A
 
-[[src_archimede_2002_biennio__Q06]]
+[[Quesiti/src_archimede_2002_biennio#q06|src_archimede_2002_biennio__Q06]]
 
 
 
@@ -330,7 +330,7 @@ Minimum calendar sheets for the third millennium
 > - **(D)** If a person has a luxury car, then he is a teacher and he has a rich spouse.
 > - **(E)** If a person has a rich spouse, then he is a teacher and owns a luxury car.
 
-[[src_archimede_2002_biennio__Q07]]
+[[Quesiti/src_archimede_2002_biennio#q07|src_archimede_2002_biennio__Q07]]
 
 
 
@@ -372,7 +372,7 @@ After how many Sundays the three friends run together
 > - **(D)** 70
 > - **(E)** I never did.
 
-[[src_archimede_2002_biennio__Q08]]
+[[Quesiti/src_archimede_2002_biennio#q08|src_archimede_2002_biennio__Q08]]
 
 
 
@@ -412,7 +412,7 @@ After how many Sundays the three friends run together
 > - **(D)** 32 years
 > - **(E)** Thirty-three years.
 
-[[src_archimede_2002_biennio__Q09]]
+[[Quesiti/src_archimede_2002_biennio#q09|src_archimede_2002_biennio__Q09]]
 
 
 
@@ -455,7 +455,7 @@ After how many Sundays the three friends run together
 > - **(D)** 356400
 > - **(E)** 360000.
 
-[[src_archimede_2002_biennio__Q10]]
+[[Quesiti/src_archimede_2002_biennio#q10|src_archimede_2002_biennio__Q10]]
 
 
 
@@ -501,7 +501,7 @@ After how many Sundays the three friends run together
 > - **(D)** depends on the angle $\widehat{AOB}$
 > - **(E)** You can't build it.
 
-[[src_archimede_2002_biennio__Q11]]
+[[Quesiti/src_archimede_2002_biennio#q11|src_archimede_2002_biennio__Q11]]
 
 
 
@@ -543,7 +543,7 @@ After how many Sundays the three friends run together
 > - **(D)** (ii) and (iii)
 > - **(E)** All three of them.
 
-[[src_archimede_2002_biennio__Q12]]
+[[Quesiti/src_archimede_2002_biennio#q12|src_archimede_2002_biennio__Q12]]
 
 
 
@@ -582,7 +582,7 @@ After how many Sundays the three friends run together
 > - **(D)** 40 cm
 > - **(E)** 50 cm.
 
-[[src_archimede_2002_biennio__Q13]]
+[[Quesiti/src_archimede_2002_biennio#q13|src_archimede_2002_biennio__Q13]]
 
 
 
@@ -622,7 +622,7 @@ After how many Sundays the three friends run together
 > - **(D)** 32 cents
 > - **(E)** There are arbitrarily large figures that are not exactly payable.
 
-[[src_archimede_2002_biennio__Q14]]
+[[Quesiti/src_archimede_2002_biennio#q14|src_archimede_2002_biennio__Q14]]
 
 
 
@@ -663,7 +663,7 @@ After how many Sundays the three friends run together
 > - **(D)** 27
 > - **(E)** 32.
 
-[[src_archimede_2002_biennio__Q15]]
+[[Quesiti/src_archimede_2002_biennio#q15|src_archimede_2002_biennio__Q15]]
 
 
 
@@ -706,7 +706,7 @@ After how many Sundays the three friends run together
 > - **(D)** The figure is impossible.
 > - **(E)** There is no conclusion to be drawn. A B
 
-[[src_archimede_2002_biennio__Q16]]
+[[Quesiti/src_archimede_2002_biennio#q16|src_archimede_2002_biennio__Q16]]
 
 
 
@@ -747,7 +747,7 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(D)** 9
 > - **(E)** 16.
 
-[[src_archimede_2002_biennio__Q17]]
+[[Quesiti/src_archimede_2002_biennio#q17|src_archimede_2002_biennio__Q17]]
 
 
 
@@ -790,7 +790,7 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(D)** il 203°
 > - **(E)** The kangaroo will fall anyway.
 
-[[src_archimede_2002_biennio__Q18]]
+[[Quesiti/src_archimede_2002_biennio#q18|src_archimede_2002_biennio__Q18]]
 
 
 
@@ -833,7 +833,7 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(D)** 4
 > - **(E)** 5.
 
-[[src_archimede_2002_biennio__Q19]]
+[[Quesiti/src_archimede_2002_biennio#q19|src_archimede_2002_biennio__Q19]]
 
 
 
@@ -874,4 +874,4 @@ Ways to balance 16 g with weights of 1, 3, 9*
 > - **(D)** 10
 > - **(E)** It's impossible to determine.
 
-[[src_archimede_2002_biennio__Q20]]
+[[Quesiti/src_archimede_2002_biennio#q20|src_archimede_2002_biennio__Q20]]

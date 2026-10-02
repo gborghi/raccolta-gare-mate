@@ -35,7 +35,7 @@ level: kangourou
 > A positive integer, written in decimal notation, has the digits two to two different from each other and is divisible by each of its digits. How many digits can he have at most?
 
 **Answer:** 7
-[[src_kangourou_2011_student_finale__QS1]]
+[[Quesiti/src_kangourou_2011_student_finale#qs1|src_kangourou_2011_student_finale__QS1]]
 
 
 
@@ -63,7 +63,7 @@ Who skips a circuit with a ditch without falling and why
 > Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them always jumps the same length; the lengths are 70, 80, 85, 90 and 95 cm respectively. They all follow, starting at the same point and moving in the same direction, a 400-meter-long circular circuit, which is traversed by a 73-cm-wide moat. It happens that only one of them can make six complete laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on ropes.)
 
 **Answer:** Bruna
-[[src_kangourou_2011_student_finale__QS2]]
+[[Quesiti/src_kangourou_2011_student_finale#qs2|src_kangourou_2011_student_finale__QS2]]
 
 
 
@@ -74,7 +74,7 @@ Who skips a circuit with a ditch without falling and why
 
 *numero di C sempre uguale*
 
-![[src_kangourou_2011_student_finale__probS3.png]]
+![[src_kangourou_2011_student_finale__probs3.png]]
 
 > Hai una griglia $7 \times 7$. Vuoi inserire in ogni casella una e una sola delle lettere A, B, C in modo che:
 > - in ogni riga il numero delle caselle con la lettera A sia non minore del numero delle caselle con la lettera B e del numero delle caselle con la lettera C;
@@ -95,14 +95,14 @@ Who skips a circuit with a ditch without falling and why
 
 *number of C always equal*
 
-![[src_kangourou_2011_student_finale__probS3.png]]
+![[src_kangourou_2011_student_finale__probs3.png]]
 
 > You have a grid. You want to insert in each box one and only one of the letters A, B, C so that: - in each row the number of boxes with the letter A is not less than the number of boxes with the letter B and the number of boxes with the letter C; - in each column the number of boxes with the letter B is not less than the number of boxes with the letter A and the number of boxes with the letter C.
 > 
 > It shows that you can achieve your goal in different ways, but that the number of boxes with the letter C is always the same. What is it? Why? Why?
 
 **Answer:** 7
-[[src_kangourou_2011_student_finale__QS3]]
+[[Quesiti/src_kangourou_2011_student_finale#qs3|src_kangourou_2011_student_finale__QS3]]
 
 
 
@@ -131,7 +131,7 @@ Who skips a circuit with a ditch without falling and why
 > There are several ways to divide a square of side 1 into 4 triangles each of area $\frac{1}{4}$ (to divide  is to decompose without overlapping if not, possibly, sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
 
 **Answer:** 5
-[[src_kangourou_2011_student_finale__QS4]]
+[[Quesiti/src_kangourou_2011_student_finale#qs4|src_kangourou_2011_student_finale__QS4]]
 
 
 
@@ -160,7 +160,7 @@ Who skips a circuit with a ditch without falling and why
 > An ant is trapped in a box whose floor is a square tiled with $m^2$ square tiles all on the same side and where the exit routes are only at the four vertices. The ant is located at the top of the bottom left and it can only move along the interceptacles of the tiles going right of one and up of one, then right of two and up of two, then right again of three and up of three and so on. When it encounters a wall, regardless of whether it has completed a straight line or not, it stops, turns 180 degrees into the inside of the box and starts moving again as described (i.e. moving from one tile to the right, then one to the top, then two to the right, and so on). Are there values of $m$ for which the ant will be able to get out of the box? If so, what are they?
 
 **Answer:** m=1+k(k+1)/2
-[[src_kangourou_2011_student_finale__QS5]]
+[[Quesiti/src_kangourou_2011_student_finale#qs5|src_kangourou_2011_student_finale__QS5]]
 
 
 
@@ -189,4 +189,4 @@ Who skips a circuit with a ditch without falling and why
 > Andrea constructs a set of 24 elements selected from the natural integers such that, whenever there are two numbers in$S$, there are also all natural numbers between$n$and$m$. In the construction of $S$ some numbers can be repeated. Bruno chooses a subset $A$ of $S$ with the property that, however two elements of $A$ are chosen, their ratio does not exceed 2. Andrea wants to build $S$ so as to minimize the number of elements of the $A$ set that Bruno can choose. What's this number? Appropriately justify the answer.
 
 **Answer:** 8
-[[src_kangourou_2011_student_finale__QS6]]
+[[Quesiti/src_kangourou_2011_student_finale#qs6|src_kangourou_2011_student_finale__QS6]]

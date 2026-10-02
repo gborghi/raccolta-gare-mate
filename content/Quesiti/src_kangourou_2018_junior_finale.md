@@ -35,7 +35,7 @@ level: kangourou
 > Antonia and Luca play each other's heads or tails the eight-euro coin, throwing an unmade coin. They decide that the number will be stolen by the first of them who has six throws in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
 
 **Answer:** 0041
-[[src_kangourou_2018_junior_finale__Q01]]
+[[Quesiti/src_kangourou_2018_junior_finale#q01|src_kangourou_2018_junior_finale__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: kangourou
 > The sides of a quadrilateral measure 1, 4, 7, 8. What's your maximum area?
 
 **Answer:** 0002
-[[src_kangourou_2018_junior_finale__Q02]]
+[[Quesiti/src_kangourou_2018_junior_finale#q02|src_kangourou_2018_junior_finale__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: kangourou
 > From a standard 52-card deck, Chiara discarded some cards, making sure all four axes remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four axes is $\dfrac{1}{1001}$, how many cards did you throw away?
 
 **Answer:** 2018
-[[src_kangourou_2018_junior_finale__Q03]]
+[[Quesiti/src_kangourou_2018_junior_finale#q03|src_kangourou_2018_junior_finale__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: kangourou
 > In the figure you can see a regular pentagon of which four diagonal lines have been drawn that identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
 
 **Answer:** 0610
-[[src_kangourou_2018_junior_finale__Q04]]
+[[Quesiti/src_kangourou_2018_junior_finale#q04|src_kangourou_2018_junior_finale__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Show that the solution of x^5+x=10 is irrational
 > It already considers that the $x^5 + x = 10$ equation admits only one solution (real positive). It shows that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
 
 **Answer:** irrazionale (dim.)
-[[src_kangourou_2018_junior_finale__Q05]]
+[[Quesiti/src_kangourou_2018_junior_finale#q05|src_kangourou_2018_junior_finale__Q05]]
 
 
 
@@ -180,7 +180,7 @@ Show that the solution of x^5+x=10 is irrational
 > Imagine the plane as a sheet of squares (all on the same side) boundless in every direction and call a node every vertex of every square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
 
 **Answer:** 0315
-[[src_kangourou_2018_junior_finale__Q06]]
+[[Quesiti/src_kangourou_2018_junior_finale#q06|src_kangourou_2018_junior_finale__Q06]]
 
 
 
@@ -220,7 +220,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $5045$
 
 **Answer:** 3250
-[[src_kangourou_2018_junior_finale__Q07]]
+[[Quesiti/src_kangourou_2018_junior_finale#q07|src_kangourou_2018_junior_finale__Q07]]
 
 
 
@@ -261,7 +261,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $8$
 
 **Answer:** 0036
-[[src_kangourou_2018_junior_finale__Q08]]
+[[Quesiti/src_kangourou_2018_junior_finale#q08|src_kangourou_2018_junior_finale__Q08]]
 
 
 
@@ -301,7 +301,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $d > 1$
 
 **Answer:** 0126
-[[src_kangourou_2018_junior_finale__Q09]]
+[[Quesiti/src_kangourou_2018_junior_finale#q09|src_kangourou_2018_junior_finale__Q09]]
 
 
 
@@ -342,7 +342,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $7$ and $8$ have the same probability.
 
 **Answer:** 0977
-[[src_kangourou_2018_junior_finale__Q10]]
+[[Quesiti/src_kangourou_2018_junior_finale#q10|src_kangourou_2018_junior_finale__Q10]]
 
 
 
@@ -383,7 +383,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** Anywhere between the two buildings.
 
 **Answer:** 8228
-[[src_kangourou_2018_junior_finale__Q11]]
+[[Quesiti/src_kangourou_2018_junior_finale#q11|src_kangourou_2018_junior_finale__Q11]]
 
 
 
@@ -423,7 +423,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $45$
 
 **Answer:** 0022
-[[src_kangourou_2018_junior_finale__Q12]]
+[[Quesiti/src_kangourou_2018_junior_finale#q12|src_kangourou_2018_junior_finale__Q12]]
 
 
 
@@ -464,7 +464,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $12$
 
 **Answer:** 3341
-[[src_kangourou_2018_junior_finale__Q13]]
+[[Quesiti/src_kangourou_2018_junior_finale#q13|src_kangourou_2018_junior_finale__Q13]]
 
 
 
@@ -516,7 +516,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $40$
 
 **Answer:** 7301
-[[src_kangourou_2018_junior_finale__Q14]]
+[[Quesiti/src_kangourou_2018_junior_finale#q14|src_kangourou_2018_junior_finale__Q14]]
 
 
 
@@ -557,4 +557,4 @@ Show that the solution of x^5+x=10 is irrational
 > - **(E)** $65\%$
 
 **Answer:** 0169
-[[src_kangourou_2018_junior_finale__Q15]]
+[[Quesiti/src_kangourou_2018_junior_finale#q15|src_kangourou_2018_junior_finale__Q15]]

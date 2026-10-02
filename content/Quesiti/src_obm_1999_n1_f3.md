@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > Explain how to divide a cube into $1999$ small cubes. The figure shows one way to divide a cube into $15$ small cubes.
 
-![[src_obm_1999_n1_f3__Q01.png]]
+![[src_obm_1999_n1_f3__q01.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -35,9 +35,9 @@ Dividere un cubo in piccoli cubetti del 1999
 
 > Spiega come dividere un cubo in piccoli cubetti $1999$. La figura mostra un modo per dividere un cubo in $15$ piccoli cubetti.
 
-![[src_obm_1999_n1_f3__Q01.png]]
+![[src_obm_1999_n1_f3__q01.png]]
 
-[[src_obm_1999_n1_f3__Q01]]
+[[Quesiti/src_obm_1999_n1_f3#q01|src_obm_1999_n1_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ Dividere un cubo in piccoli cubetti del 1999
 > 
 > b) Determinare il numero totale di punti per il primo, il secondo e il terzo posto.
 
-[[src_obm_1999_n1_f3__Q02]]
+[[Quesiti/src_obm_1999_n1_f3#q02|src_obm_1999_n1_f3__Q02]]
 
 
 
@@ -107,7 +107,7 @@ Dividere un cubo in piccoli cubetti del 1999
 > 
 > Se continua a essere esiliato in questo modo, è possibile che ritorni in città?
 
-[[src_obm_1999_n1_f3__Q03]]
+[[Quesiti/src_obm_1999_n1_f3#q03|src_obm_1999_n1_f3__Q03]]
 
 
 
@@ -134,4 +134,4 @@ Dividere un cubo in piccoli cubetti del 1999
 
 > Adriano, Bruno e Carlos hanno giocato una serie di partite di tennis da tavolo. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita fu disputata da Adriano e Bruno. È noto che Adriano ha vinto $12$ e Bruno ha vinto $21$. Quante volte Adriano e Bruno si sono affrontati?
 
-[[src_obm_1999_n1_f3__Q04]]
+[[Quesiti/src_obm_1999_n1_f3#q04|src_obm_1999_n1_f3__Q04]]

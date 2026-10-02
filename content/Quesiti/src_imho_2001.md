@@ -41,7 +41,7 @@ level: IMO
 > 
 > Prove that $\angle CAB + \angle COP < 90^\circ$.
 
-[[src_imho_2001__Q01]]
+[[Quesiti/src_imho_2001#q01|src_imho_2001__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: IMO
 
 > Prove that $$\frac{a}{\sqrt{a^2+8bc}}+\frac{b}{\sqrt{b^2+8ca}}+\frac{c}{\sqrt{c^2+8ab}}\ge 1$$ for all positive real numbers $a$, $b$ and $c$.
 
-[[src_imho_2001__Q02]]
+[[Quesiti/src_imho_2001#q02|src_imho_2001__Q02]]
 
 
 
@@ -106,7 +106,7 @@ Twenty-one girls and boys; pigeonhole gives a problem solved by 3 of each
 > 
 > Prove that there was a problem that was solved by at least three girls and at least three boys.
 
-[[src_imho_2001__Q03]]
+[[Quesiti/src_imho_2001#q03|src_imho_2001__Q03]]
 
 
 
@@ -135,7 +135,7 @@ Permutations of 1..n with weighted sums; n divides difference of two sums*
 
 > Let $n$ be an odd integer greater than $1$, and let $k_1, k_2, \ldots, k_n$ be given integers. For each of the $n!$ permutations $a = (a_1, a_2, \ldots, a_n)$ of $1, 2, \ldots, n$, let $$S(a) = \sum_{i=1}^{n} k_i\, a_i.$$ Prove that there are two permutations $b$ and $c$, $b \ne c$, such that $n!$ is a divisor of $S(b) - S(c)$.
 
-[[src_imho_2001__Q04]]
+[[Quesiti/src_imho_2001#q04|src_imho_2001__Q04]]
 
 
 
@@ -170,7 +170,7 @@ Triangle with two angle bisectors and a length condition; find all possible angl
 > 
 > What are the possible angles of triangle $ABC$?
 
-[[src_imho_2001__Q05]]
+[[Quesiti/src_imho_2001#q05|src_imho_2001__Q05]]
 
 
 
@@ -199,4 +199,4 @@ Triangle with two angle bisectors and a length condition; find all possible angl
 
 > Let $a$, $b$, $c$, $d$ be integers with $a > b > c > d > 0$. Suppose that $$ac + bd = (b + d + a - c)(b + d - a + c).$$ Prove that $ab + cd$ is not prime.
 
-[[src_imho_2001__Q06]]
+[[Quesiti/src_imho_2001#q06|src_imho_2001__Q06]]

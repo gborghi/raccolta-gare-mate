@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ che sia tra $X$ e $P$. La linea attraverso $B$ e $U$ incontra $XC$ a $V$ e la linea attraverso $C$ e $U$ incontra $XB$ a $W$. Mostra che $\angle WXP = \angle VXP$.
 
-[[src_bmo_2010-11_round2__Q01]]
+[[Quesiti/src_bmo_2010-11_round2#q01|src_bmo_2010-11_round2__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 2
 
 > La funzione $f$ è definita sui numeri interi positivi come segue: $$f(2n) = n \quad \text{if } n \text{ is even,}$$ $$f(2n) = 2n \quad \text{if } n \text{ is odd,}$$ $$f(2n+1) = f(n) \quad \text{if } n \text{ is even,}$$ $$f(2n+1) = f(n)+1 \quad \text{if } n \text{ is odd.}$$ Trova il numero di numeri interi positivi $n$ che sono inferiori al 2011 e hanno la proprietà di $f(n) = f(2011)$.
 
-[[src_bmo_2010-11_round2__Q02]]
+[[Quesiti/src_bmo_2010-11_round2#q02|src_bmo_2010-11_round2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > Trova tutti gli integri $x$ e $y$ in modo tale che $$x + y \mid 2(x^2 + y^2) - xy.$$
 
-[[src_bmo_2010-11_round2__Q03]]
+[[Quesiti/src_bmo_2010-11_round2#q03|src_bmo_2010-11_round2__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Il $G$ deve essere l'insieme dei punti $(x, y)$ nel piano in modo tale che $x$ e $y$ siano integri nell'intervallo $1 \le x, y \le 2011$. Un sottogruppo $S$ di $G$ è considerato privo di parallelogrammi se non esiste un parallelo corretto con tutti i suoi vertici in $S$. Determinare il più grande sottoinsieme senza parallelogrammi di $G$. Nota: un parallelo corretto è quello in cui non tutti i vertici si trovano sulla stessa linea.
 
-[[src_bmo_2010-11_round2__Q04]]
+[[Quesiti/src_bmo_2010-11_round2#q04|src_bmo_2010-11_round2__Q04]]

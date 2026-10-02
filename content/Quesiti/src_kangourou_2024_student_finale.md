@@ -17,7 +17,7 @@ level: kangourou
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti?*
 
-![[src_kangourou_2024_student_finale__probS1.png]]
+![[src_kangourou_2024_student_finale__probs1.png]]
 
 ```tikz
 \begin{document}
@@ -51,7 +51,7 @@ level: kangourou
 
 *Two triangles with two sides of equal height are congruent?*
 
-![[src_kangourou_2024_student_finale__probS1.png]]
+![[src_kangourou_2024_student_finale__probs1.png]]
 
 ```tikz
 \begin{document}
@@ -74,7 +74,7 @@ level: kangourou
 > Two triangles are given. The lengths of two sides of the one coincide with the lengths of two sides of the other and the height relative to the third side of one coincides with that relative to the third side of the other. Are the two triangles necessarily congruent?
 
 **Answer:** no
-[[src_kangourou_2024_student_finale__QS1]]
+[[Quesiti/src_kangourou_2024_student_finale#qs1|src_kangourou_2024_student_finale__QS1]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 > I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which he operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
 
 **Answer:** si, Cagliari
-[[src_kangourou_2024_student_finale__QS2]]
+[[Quesiti/src_kangourou_2024_student_finale#qs2|src_kangourou_2024_student_finale__QS2]]
 
 
 
@@ -113,7 +113,7 @@ level: kangourou
 
 *Minimo N(P) intersezioni diagonali in un pentagono*
 
-![[src_kangourou_2024_student_finale__probS3.png]]
+![[src_kangourou_2024_student_finale__probs3.png]]
 
 > Per un poligono (piano) $P$, non necessariamente convesso, indichiamo con $N(P)$ il numero di punti che sono intersezioni di diagonali e non sono vertici. Se $P$ è un quadrilatero, $N(P)$ può essere solo $1$ oppure $0$. Se $P$ è un pentagono, il massimo valore possibile per $N(P)$ è $5$ (ad esempio se $P$ è regolare); qual è invece il minimo valore possibile? (In un qualunque poligono, per diagonale si intende un segmento che congiunge due vertici non adiacenti.)
 
@@ -130,12 +130,12 @@ level: kangourou
 
 *Minimum N(P) diagonal intersections in a pentagon*
 
-![[src_kangourou_2024_student_finale__probS3.png]]
+![[src_kangourou_2024_student_finale__probs3.png]]
 
 > For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not verticals. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); instead, what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
 
 **Answer:** 0
-[[src_kangourou_2024_student_finale__QS3]]
+[[Quesiti/src_kangourou_2024_student_finale#qs3|src_kangourou_2024_student_finale__QS3]]
 
 
 
@@ -164,7 +164,7 @@ Are there any perfectly square ABBA palindromes?
 > Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
 
 **Answer:** No
-[[src_kangourou_2024_student_finale__QS4]]
+[[Quesiti/src_kangourou_2024_student_finale#qs4|src_kangourou_2024_student_finale__QS4]]
 
 
 
@@ -175,7 +175,7 @@ Are there any perfectly square ABBA palindromes?
 
 *Lunghezza XE con incerchio raggio 4 e YD=3*
 
-![[src_kangourou_2024_student_finale__probS5.png]]
+![[src_kangourou_2024_student_finale__probs5.png]]
 
 > Sia $ABC$ un triangolo e sia $O$ il centro della sua circonferenza inscritta $\gamma$. Il simbolo $|FG|$ denoti la lunghezza del segmento di estremi $F$ e $G$. Siano:
 > - $D$ il punto medio del lato $BC$,
@@ -197,14 +197,14 @@ Are there any perfectly square ABBA palindromes?
 
 *Length XE with uncertainty of radius 4 and YD=3*
 
-![[src_kangourou_2024_student_finale__probS5.png]]
+![[src_kangourou_2024_student_finale__probs5.png]]
 
 > either $ABC$ a triangle and $O$ the center of its inscribed circumference $\gamma$. The $|FG|$ symbol shall indicate the length of the $F$ and $G$ end segments. They shall be: - $D$ the middle point of the $BC$ side, - $Y$ the point of contact between $\gamma$ and $BC$ side, - $E$ the point of the $BC$ side such that $|AB| + |BE| = |AC| + |CE|$, - $X$ the point of intersection of the $AE$ segment with $\gamma$ nearest to $A$.
 > 
 > If the radius of $\gamma$ is $4$ and $|YD| = 3$, how much is $|XE|$?
 
 **Answer:** 10
-[[src_kangourou_2024_student_finale__QS5]]
+[[Quesiti/src_kangourou_2024_student_finale#qs5|src_kangourou_2024_student_finale__QS5]]
 
 
 
@@ -232,4 +232,4 @@ Are there any perfectly square ABBA palindromes?
 > There are no fixed holidays in the Kanglandia calendar, but under a trade union agreement, a company is obliged to declare a "holiday for all" every day that is a birthday for at least one employee. The date of birth of an employee shall not be taken into account when he is hired. Suppose that the years are all $365$ days and that the Kangland births are evenly distributed throughout the year. A company wants to maximize the total number of working days of its employees over the course of a year, but it must determine in advance the number of employees to be hired. How many employees should you hire? (Note: the annual total working days with $1$ employee would be $364$, with $2$ would be $2 \times 363$ if birthdays fell on different days, $2 \times 364$ if they fell on the same day.)
 
 **Answer:** 364 o 365
-[[src_kangourou_2024_student_finale__QS6]]
+[[Quesiti/src_kangourou_2024_student_finale#qs6|src_kangourou_2024_student_finale__QS6]]

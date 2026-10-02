@@ -37,7 +37,7 @@ level: kangourou
 > Does the difference between the two numbers $$A = 201920192019 \times 20202020 \quad \text{e} \quad B = 202020202020 \times 20192019.$$ $A - B$ be positive, zero or negative?
 
 **Answer:** nulla
-[[src_kangourou_2019_cadet_finale__Q01]]
+[[Quesiti/src_kangourou_2019_cadet_finale#q01|src_kangourou_2019_cadet_finale__Q01]]
 
 
 
@@ -121,7 +121,7 @@ level: kangourou
 > Look at the figure. $IBLEC$ is a regular pentagon and the triangle $CER$ is equilateral. $T$ is the intersection point between $CE$ and $IR$ segments. How many degrees does the angle $ITE$ measure? (see figure)
 
 **Answer:** 114
-[[src_kangourou_2019_cadet_finale__Q02]]
+[[Quesiti/src_kangourou_2019_cadet_finale#q02|src_kangourou_2019_cadet_finale__Q02]]
 
 
 
@@ -150,7 +150,7 @@ Because Elvira wants to start playing the 66-figure game.
 > Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why? Why?
 
 **Answer:** strategia vincente
-[[src_kangourou_2019_cadet_finale__Q03]]
+[[Quesiti/src_kangourou_2019_cadet_finale#q03|src_kangourou_2019_cadet_finale__Q03]]
 
 
 
@@ -179,7 +179,7 @@ In a few years the full moon will return to February.
 > Last August 15th, a full moon day in February. Assuming that the lunar cycle is exactly 28 days long, how many years from now will there be a full moon again in February? (If, for example, it happens next year, you should answer: in 1 year.)
 
 **Answer:** 22
-[[src_kangourou_2019_cadet_finale__Q04]]
+[[Quesiti/src_kangourou_2019_cadet_finale#q04|src_kangourou_2019_cadet_finale__Q04]]
 
 
 
@@ -208,7 +208,7 @@ In a few years the full moon will return to February.
 > Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
 
 **Answer:** 35
-[[src_kangourou_2019_cadet_finale__Q05]]
+[[Quesiti/src_kangourou_2019_cadet_finale#q05|src_kangourou_2019_cadet_finale__Q05]]
 
 
 
@@ -242,4 +242,4 @@ In a few years the full moon will return to February.
 > A rectangular-based pyramid is known for the lengths of three of the four oblique vertices connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$ Can the length of the vertex $VD$ be determined? If yes, it determines that length; if not, it identifies the measurements of two pyramids that meet the problem data where the length of the $VD$ beam is different.
 
 **Answer:** 60
-[[src_kangourou_2019_cadet_finale__Q06]]
+[[Quesiti/src_kangourou_2019_cadet_finale#q06|src_kangourou_2019_cadet_finale__Q06]]

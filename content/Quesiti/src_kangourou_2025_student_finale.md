@@ -38,7 +38,7 @@ level: kangourou
 > 'If $\{A_n\} = \{R[a_n; b_n]\}$ ($n = 1, 2, \ldots$) is a sequence of closed, rational and boxed intervals (i.e. $A_{n+1} \subseteq A_n$ for each $n$), then the intersection of $A_n$ cannot be empty.'
 
 **Answer:** Falso
-[[src_kangourou_2025_student_finale__QS1]]
+[[Quesiti/src_kangourou_2025_student_finale#qs1|src_kangourou_2025_student_finale__QS1]]
 
 
 
@@ -67,7 +67,7 @@ level: kangourou
 > How many different ways can $270$ be obtained by adding consecutive positive integers?
 
 **Answer:** 7
-[[src_kangourou_2025_student_finale__QS2]]
+[[Quesiti/src_kangourou_2025_student_finale#qs2|src_kangourou_2025_student_finale__QS2]]
 
 
 
@@ -78,7 +78,7 @@ level: kangourou
 
 *piu lungo del diametro?*
 
-![[src_kangourou_2025_student_finale__probS3.png]]
+![[src_kangourou_2025_student_finale__probs3.png]]
 
 > Due punti sulla circonferenza di un cerchio $\Gamma$ sono estremi di un arco $\delta$ di un'altra circonferenza. L'arco $\delta$ ripartisce il cerchio $\Gamma$ in due regioni di uguale area. È necessariamente vero che $\delta$ è più lungo del diametro di $\Gamma$?
 
@@ -94,12 +94,12 @@ level: kangourou
 
 *longer than the diameter?*
 
-![[src_kangourou_2025_student_finale__probS3.png]]
+![[src_kangourou_2025_student_finale__probs3.png]]
 
 > Two points on the circumference of a circle $\Gamma$ are extremes of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
 **Answer:** Si
-[[src_kangourou_2025_student_finale__QS3]]
+[[Quesiti/src_kangourou_2025_student_finale#qs3|src_kangourou_2025_student_finale__QS3]]
 
 
 
@@ -135,7 +135,7 @@ level: kangourou
 > (b) If we can both choose the deck to play with (and the choice must be made before playing), should I be the first or the second to choose?
 
 **Answer:** a)terzo b)secondo
-[[src_kangourou_2025_student_finale__QS4]]
+[[Quesiti/src_kangourou_2025_student_finale#qs4|src_kangourou_2025_student_finale__QS4]]
 
 
 
@@ -168,7 +168,7 @@ level: kangourou
 > 'For each $n \geq 3$ there are $n$ integers all different from each other such that each of them divides the sum of the remaining $n - 1$.'
 
 **Answer:** vera
-[[src_kangourou_2025_student_finale__QS5]]
+[[Quesiti/src_kangourou_2025_student_finale#qs5|src_kangourou_2025_student_finale__QS5]]
 
 
 
@@ -197,4 +197,4 @@ level: kangourou
 > Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers and be $n$ large enough to achieve the following. You want to select an ordered subset of $S$ (i.e. you inherit the order from $S$) of $10$ such elements that the second gives at least $1$ from the first, the third gives at least $2$ from the second, the fourth gives at least $3$ from the third and so on until the tenth gives at least $9$ from the ninth. Note: the distance between a number chosen and the previous number chosen is not required to increase as the number chosen increases; for example, the second could deviate $5$ from the first and the third could deviate $2$ from the second. If $n$ is eligible, how many different choices are possible?
 
 **Answer:** (n-36)!/((n-46)!10!)
-[[src_kangourou_2025_student_finale__QS6]]
+[[Quesiti/src_kangourou_2025_student_finale#qs6|src_kangourou_2025_student_finale__QS6]]

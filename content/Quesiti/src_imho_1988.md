@@ -41,7 +41,7 @@ level: IMO
 > 
 > (ii) Find the locus of the midpoint of $BC$.
 
-[[src_imho_1988__Q01]]
+[[Quesiti/src_imho_1988#q01|src_imho_1988__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: IMO
 > 
 > For which values of $n$ can one assign to every element of $B$ one of the numbers $0$ and $1$ in such a way that $A_i$ has $0$ assigned to exactly $n$ of its elements?
 
-[[src_imho_1988__Q02]]
+[[Quesiti/src_imho_1988#q02|src_imho_1988__Q02]]
 
 
 
@@ -120,7 +120,7 @@ Functional equations on positive integers, count fixed points
 > 
 > Determine the number of positive integers $n$, less than or equal to $1988$, for which $f(n) = n$.
 
-[[src_imho_1988__Q03]]
+[[Quesiti/src_imho_1988#q03|src_imho_1988__Q03]]
 
 
 
@@ -149,7 +149,7 @@ Sum inequality yields union of intervals of total length 1988
 
 > Show that the set of real numbers $x$ which satisfy the inequality $$\sum_{k=1}^{70} \frac{k}{x-k} \ge \frac{5}{4}$$ is a union of disjoint intervals, the sum of whose lengths is $1988$.
 
-[[src_imho_1988__Q04]]
+[[Quesiti/src_imho_1988#q04|src_imho_1988__Q04]]
 
 
 
@@ -176,7 +176,7 @@ Sum inequality yields union of intervals of total length 1988
 
 > $ABC$ is a right-angled triangle at $A$, and $D$ is the foot of the altitude from $A$. The straight line joining the incenters of the triangles $ABD$, $ACD$ intersects the sides $AB$, $AC$ at the points $K$, $L$ respectively. $S$ and $T$ denote the areas of the triangles $ABC$ and $AKL$ respectively. Show that$S \ge 2T$.
 
-[[src_imho_1988__Q05]]
+[[Quesiti/src_imho_1988#q05|src_imho_1988__Q05]]
 
 
 
@@ -205,4 +205,4 @@ Sum inequality yields union of intervals of total length 1988
 
 > Let $a$ and $b$ be positive integers such that $ab + 1$ divides $a^2 + b^2$. Show that $$\frac{a^2 + b^2}{ab + 1}$$ is the square of an integer.
 
-[[src_imho_1988__Q06]]
+[[Quesiti/src_imho_1988#q06|src_imho_1988__Q06]]

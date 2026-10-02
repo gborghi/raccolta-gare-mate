@@ -38,7 +38,7 @@ level: kangourou
 
 > Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an equal number. Marta wants to check if Aldo's telling the truth, but she wants to roll as few cards as possible. How many cards will he have to roll at most? A) 1           B) 2             C) 3            D) 4            E) 5
 
-[[src_kangourou_2023_cadet_semifinale__Q01]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q01|src_kangourou_2023_cadet_semifinale__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: kangourou
 
 > There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you feel a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 noon onwards, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 
-[[src_kangourou_2023_cadet_semifinale__Q02]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q02|src_kangourou_2023_cadet_semifinale__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 
 > (Points 3) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the number of hundreds and that of units are exchanged between them, while that of tens is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378             B) 295            C) 196                D) 495             E) 504
 
-[[src_kangourou_2023_cadet_semifinale__Q03]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q03|src_kangourou_2023_cadet_semifinale__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: kangourou
 
 > (Points 4) In which of the following hours and minutes do the two hands of a clock (with a 12-hour dial) form the minor acute angle? A) 02:11             B) 04:22               C) 06:33            D) 08:44              E) 10:55
 
-[[src_kangourou_2023_cadet_semifinale__Q04]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q04|src_kangourou_2023_cadet_semifinale__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: kangourou
 
 > (Picture 4) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π  3)/4 C) 1  π/4 D) (3π/4)  1 E) (4  π)/2
 
-[[src_kangourou_2023_cadet_semifinale__Q05]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q05|src_kangourou_2023_cadet_semifinale__Q05]]
 
 
 
@@ -195,7 +195,7 @@ level: kangourou
 
 > (Points 4) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
 
-[[src_kangourou_2023_cadet_semifinale__Q06]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q06|src_kangourou_2023_cadet_semifinale__Q06]]
 
 
 
@@ -225,7 +225,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > (Points 5) The code of a safe deposit box is a four digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With only this information, how many attempts will it take, at most, to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
 
-[[src_kangourou_2023_cadet_semifinale__Q07]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q07|src_kangourou_2023_cadet_semifinale__Q07]]
 
 
 
@@ -254,7 +254,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > (Points 5) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters of different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
 
-[[src_kangourou_2023_cadet_semifinale__Q08]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q08|src_kangourou_2023_cadet_semifinale__Q08]]
 
 
 
@@ -288,7 +288,7 @@ This is the main reason why the Commission is not able to take any further actio
 > 
 > Open-ended questions
 
-[[src_kangourou_2023_cadet_semifinale__Q09]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q09|src_kangourou_2023_cadet_semifinale__Q09]]
 
 
 
@@ -364,7 +364,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > (Points 4) In the triangle ABC shown in the figure, the EC height conducted by C meets the BAC angle's AD beam at the point O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
 
-[[src_kangourou_2023_cadet_semifinale__Q10]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q10|src_kangourou_2023_cadet_semifinale__Q10]]
 
 
 
@@ -395,7 +395,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
 
-[[src_kangourou_2023_cadet_semifinale__Q11]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q11|src_kangourou_2023_cadet_semifinale__Q11]]
 
 
 
@@ -422,7 +422,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > (Points 5) How many positive integers are n such that the rest of division 2023: n is 23?
 
-[[src_kangourou_2023_cadet_semifinale__Q12]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q12|src_kangourou_2023_cadet_semifinale__Q12]]
 
 
 
@@ -451,7 +451,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > (Points 6) Some numbers, all different from each other, are written at different points in a conference so that each number is the product of the two numbers written next to it. How many numbers are written?
 
-[[src_kangourou_2023_cadet_semifinale__Q13]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q13|src_kangourou_2023_cadet_semifinale__Q13]]
 
 
 
@@ -517,7 +517,7 @@ This is the main reason why the Commission is not able to take any further actio
 
 > (Points 6) In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) should be inserted so that the letters A and B are not in adjacent sectors. How many different ways can inclusion be made?
 
-[[src_kangourou_2023_cadet_semifinale__Q14]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q14|src_kangourou_2023_cadet_semifinale__Q14]]
 
 
 
@@ -545,7 +545,7 @@ Find n *
 
 > Gaia plays like that. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
 
-[[src_kangourou_2023_cadet_semifinale__Q15]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q15|src_kangourou_2023_cadet_semifinale__Q15]]
 
 
 
@@ -575,7 +575,7 @@ Find n *
 
 > (Points 7) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
 
-[[src_kangourou_2023_cadet_semifinale__Q16]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q16|src_kangourou_2023_cadet_semifinale__Q16]]
 
 
 
@@ -602,7 +602,7 @@ Find n *
 
 > (Points 7) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect square?
 
-[[src_kangourou_2023_cadet_semifinale__Q17]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q17|src_kangourou_2023_cadet_semifinale__Q17]]
 
 
 
@@ -636,4 +636,4 @@ Find n *
 
 > (Points 8) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B? 1 5 2 3 4
 
-[[src_kangourou_2023_cadet_semifinale__Q18]]
+[[Quesiti/src_kangourou_2023_cadet_semifinale#q18|src_kangourou_2023_cadet_semifinale__Q18]]

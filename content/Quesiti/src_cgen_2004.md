@@ -39,7 +39,7 @@ level: Concours Général
 >    b. Show that, in order for $L(n,k)$ to be rational, it is necessary and sufficient that the following condition be satisfied:
 >    $(C_1)$: there exists $a \in \mathbb{N}$ such that $n(n-1) - k(k-1) = 4a^2$.
 
-![[src_cgen_2004__Q01.png]]
+![[src_cgen_2004__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -73,9 +73,9 @@ level: Concours Général
 > 
 > b. Mostrare che, per rendere razionale il $L(n,k)$, è necessario e sufficiente soddisfare la seguente condizione: $(C_1)$: esiste un $a \in \mathbb{N}$ tale che $n(n-1) - k(k-1) = 4a^2$.
 
-![[src_cgen_2004__Q01.png]]
+![[src_cgen_2004__q01.png]]
 
-[[src_cgen_2004__Q01]]
+[[Quesiti/src_cgen_2004#q01|src_cgen_2004__Q01]]
 
 
 
@@ -99,7 +99,7 @@ level: Concours Général
 > 
 > 4. Let $n$ be an integer strictly greater than $2$ and $k$ an integer such that $1 \le k \le n-1$. Show that $L(n,k)$ is rational if, and only if, the points of $\Sigma$ of abscissa $n$ and ordinate $k$ have an integer cote.
 
-![[src_cgen_2004__Q02.png]]
+![[src_cgen_2004__q02.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -125,9 +125,9 @@ level: Concours Général
 > 
 > 4. Se $n$ è un numero intero strettamente superiore a $2$ e $k$ è un numero intero tale che $1 \le k \le n-1$. Indicare che $L(n,k)$ è razionale se, e solo se, i punti di $\Sigma$ dell'abcissa $n$ e ordinate $k$ hanno un numero intero.
 
-![[src_cgen_2004__Q02.png]]
+![[src_cgen_2004__q02.png]]
 
-[[src_cgen_2004__Q02]]
+[[Quesiti/src_cgen_2004#q02|src_cgen_2004__Q02]]
 
 
 
@@ -178,7 +178,7 @@ level: Concours Général
 > 
 > 3. Dimostrare, a partire dai risultati delle domande 1 e 2, che la sequenza $(\lambda_n)$ è convergente e calcolare il suo limite.
 
-[[src_cgen_2004__Q03]]
+[[Quesiti/src_cgen_2004#q03|src_cgen_2004__Q03]]
 
 
 
@@ -222,7 +222,7 @@ level: Concours Général
 > 
 > 3. Consideriamo un paio di $(p,q)$ di integri naturali dispari, coprimo, come $q < p$ e verificando la condizione $(C_2)$. Mostrare che esistono due integri naturali $u$ e $v$ di parità diverse come $p = u^2 + v^2$ e $q = u^2 - v^2$. Calcolare quindi, come funzione di $u$ e $v$, il valore dell'intero numero $a$ che interviene nella condizione $(C_2)$.
 
-[[src_cgen_2004__Q04]]
+[[Quesiti/src_cgen_2004#q04|src_cgen_2004__Q04]]
 
 
 
@@ -304,7 +304,7 @@ level: Concours Général
 > 
 > 5. a. Deduci dalle domande precedenti un algoritmo che consente di decomporre $p$ come somma di due quadrati. b. Date il numero primo più piccolo superiore a $40$ che è la somma di due quadrati e, con l'aiuto di questo algoritmo, specificate una sua decomposizione (indicheremo i triplici calcolati ai diversi passaggi dell'iterazione).
 
-[[src_cgen_2004__Q05]]
+[[Quesiti/src_cgen_2004#q05|src_cgen_2004__Q05]]
 
 
 
@@ -360,4 +360,4 @@ level: Concours Général
 > 
 > 4. a. Mostrare che esiste un'infinità di coppie di integri $(n,k)$ con $1 \le k < n$ tale che $L(n,k)$ sia razionale. b. Determinare un numero intero $n$ in modo tale che esistano diversi valori di $k$ per i quali $L(n,k)$ è razionale.
 
-[[src_cgen_2004__Q06]]
+[[Quesiti/src_cgen_2004#q06|src_cgen_2004__Q06]]

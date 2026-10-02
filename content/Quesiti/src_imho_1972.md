@@ -33,7 +33,7 @@ level: IMO
 
 > Prove that from a set of ten distinct two-digit numbers (in the decimal system), it is possible to select two disjoint subsets whose members have the same sum.
 
-[[src_imho_1972__Q01]]
+[[Quesiti/src_imho_1972#q01|src_imho_1972__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: IMO
 
 > Prove that if $n \ge 4$, every quadrilateral that can be inscribed in a circle can be dissected into $n$ quadrilaterals each of which is inscribable in a circle.
 
-[[src_imho_1972__Q02]]
+[[Quesiti/src_imho_1972#q02|src_imho_1972__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: IMO
 
 > Let $m$ and $n$ be arbitrary non-negative integers. Prove that $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$ is an integer. ($0! = 1$.)
 
-[[src_imho_1972__Q03]]
+[[Quesiti/src_imho_1972#q03|src_imho_1972__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: IMO
 
 > Find all solutions $(x_1, x_2, x_3, x_4)$ of the system of inequalities $$\begin{aligned} (x_1^2 - x_3 x_1)(x_2^2 - x_3 x_2) &\le 0 \\ (x_2^2 - x_4 x_2)(x_3^2 - x_4 x_3) &\le 0 \\ (x_3^2 - x_1 x_3)(x_4^2 - x_1 x_4) &\le 0 \\ (x_4^2 - x_2 x_4)(x_1^2 - x_2 x_1) &\le 0 \end{aligned}$$ where $x_1, x_2, x_3, x_4$ are positive real numbers.
 
-[[src_imho_1972__Q04]]
+[[Quesiti/src_imho_1972#q04|src_imho_1972__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: IMO
 
 > Let $f$ and $g$ be real-valued functions defined for all real values of $x$ and $y$, and satisfying the equation $$f(x + y) + f(x - y) = 2f(x)g(y)$$ for all $x, y$. Prove that if $f(x)$ is not identically zero, and if $|f(x)| \le 1$ for all $x$, then $|g(y)| \le 1$ for all $y$.
 
-[[src_imho_1972__Q05]]
+[[Quesiti/src_imho_1972#q05|src_imho_1972__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: IMO
 
 > Given four distinct parallel planes, prove that there exists a regular tetrahedron with a vertex on each plane.
 
-[[src_imho_1972__Q06]]
+[[Quesiti/src_imho_1972#q06|src_imho_1972__Q06]]

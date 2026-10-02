@@ -33,7 +33,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > Distribuiamo i pezzi $2018$ in scatole $b$, e poi distribuiamo queste scatole $b$ in case $n$, in modo tale che ogni casa riceva strettamente meno di scatole $b$. È possibile che ciascuna scatola contenga almeno $n$ pezzi?
 
-[[src_canimath_2018_automne__Q01]]
+[[Quesiti/src_canimath_2018_automne#q01|src_canimath_2018_automne__Q01]]
 
 
 
@@ -63,7 +63,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 > Che $ABC$ sia un triangolo e $O$ un punto all'interno di questo triangolo. La linea parallela a $(BC)$ che attraversa $O$ incontra $(CA)$ a $D$ e $(AB)$ a $E$. La linea parallela a $(CA)$ che attraversa $O$ incontra $(BC)$ a $F$. Qual è il valore della somma seguente? $$\frac{BF}{BC} + \frac{AE}{AB} + \frac{CD}{AC}$$
 
 **Risposta:** 1
-[[src_canimath_2018_automne__Q02]]
+[[Quesiti/src_canimath_2018_automne#q02|src_canimath_2018_automne__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > Considerare il numero $N$ scritto come $\overline{30x070y03}$, dove $x$ e $y$ sono numeri da $0$ a $9$. Per quali valori di $(x, y)$ è $N$ divisibile da $37$?
 
-[[src_canimath_2018_automne__Q03]]
+[[Quesiti/src_canimath_2018_automne#q03|src_canimath_2018_automne__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > I conigli grigi, bianchi e marroni sono seduti in cerchio. Alice chiede a tutti i conigli bianchi che hanno almeno un vicino marrone di dare i baffi $20$ a ciascuno dei loro vicini marroni; chiede a tutti i conigli grigi che hanno almeno un vicino bianco di dare i baffi $25$ a ciascuno dei loro vicini bianchi. Mostrate che uno dei conigli che ha spostato i baffi ha in realtà due vicini marroni.
 
-[[src_canimath_2018_automne__Q04]]
+[[Quesiti/src_canimath_2018_automne#q04|src_canimath_2018_automne__Q04]]
 
 
 
@@ -144,7 +144,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > Il $ABCD$ deve essere un quadrilaterale convesso con $\widehat{ABC} = 90^\circ$, $\widehat{BAD} = \widehat{ADC} = 80^\circ$. Il punto $M$ e il punto $N$ devono essere punti su $[AD]$ e $[BC]$ rispettivamente in modo tale che $\widehat{CDN} = \widehat{ABM} = 20^\circ$. Supponiamo inoltre che $MD = NB$. Che cos'è $\widehat{MNB}$?
 
-[[src_canimath_2018_automne__Q05]]
+[[Quesiti/src_canimath_2018_automne#q05|src_canimath_2018_automne__Q05]]
 
 
 
@@ -173,7 +173,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > $n$ sia un numero intero rigorosamente positivo. $p$ sia un numero primo tale che $$p \mid (1^3 + 1)(2^3 + 1)(3^3 + 1)\cdots((n-1)^3 + 1)(n^3 + 1).$$ Mostri che $p \le n + 1$.
 
-[[src_canimath_2018_automne__Q06]]
+[[Quesiti/src_canimath_2018_automne#q06|src_canimath_2018_automne__Q06]]
 
 
 
@@ -208,7 +208,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 > 
 > (b) Se si sostituisce la griglia $2018 \times 2018$ con una griglia $2018 \times 2018 \times 2018$ (cellule adiacenti quando si condivide una faccia), cosa cambia?
 
-[[src_canimath_2018_automne__Q07]]
+[[Quesiti/src_canimath_2018_automne#q07|src_canimath_2018_automne__Q07]]
 
 
 
@@ -236,4 +236,4 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > Let $a \in \mathbb{R}$. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
 
-[[src_canimath_2018_automne__Q08]]
+[[Quesiti/src_canimath_2018_automne#q08|src_canimath_2018_automne__Q08]]

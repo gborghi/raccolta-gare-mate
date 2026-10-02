@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Trovare tutti i triangoli $ABC$ per i quali $$AB + AC = 2 \text{ cm} \quad \text{and} \quad AD = \sqrt{AB \cdot AC} \text{ cm},$$ dove $AD$ è l'altitudine da $A$, incontrando $BC$ ad angoli retti in $D$.
 
-[[src_bmo_1978-79_round1__Q01]]
+[[Quesiti/src_bmo_1978-79_round1#q01|src_bmo_1978-79_round1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 > 
 > Prove che, per qualsiasi $2n > 0$, esistono punti $X$, $Y$, $Z$ su $OA$, $OB$, $OC$ rispettivamente in modo tale che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2n$, ed esprimere semplicemente $OX$ in termini di $n$, $\alpha$, $\beta$ e $\gamma$.
 
-[[src_bmo_1978-79_round1__Q02]]
+[[Quesiti/src_bmo_1978-79_round1#q02|src_bmo_1978-79_round1__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 1
 > 
 > Provare che $$\sum_{i=1}^{n} a_i \ge \tfrac{1}{3}n(n^2 + 2).$$
 
-[[src_bmo_1978-79_round1__Q03]]
+[[Quesiti/src_bmo_1978-79_round1#q03|src_bmo_1978-79_round1__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: BMO Round 1
 > 
 > Provare che $f$ è costante.
 
-[[src_bmo_1978-79_round1__Q04]]
+[[Quesiti/src_bmo_1978-79_round1#q04|src_bmo_1978-79_round1__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: BMO Round 1
 > 
 > Prova che per $n > 1$, $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
 
-[[src_bmo_1978-79_round1__Q05]]
+[[Quesiti/src_bmo_1978-79_round1#q05|src_bmo_1978-79_round1__Q05]]
 
 
 
@@ -196,4 +196,4 @@ Sequenza infinita 1001,100010001,...; dimostrare che non esiste una prima che di
 > 
 > Prove che non esiste un numero primo che divida tutti i numeri interi della sequenza.
 
-[[src_bmo_1978-79_round1__Q06]]
+[[Quesiti/src_bmo_1978-79_round1#q06|src_bmo_1978-79_round1__Q06]]

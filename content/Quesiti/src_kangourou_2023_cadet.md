@@ -57,7 +57,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q01]]
+[[Quesiti/src_kangourou_2023_cadet#q01|src_kangourou_2023_cadet__Q01]]
 
 
 
@@ -107,7 +107,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q02]]
+[[Quesiti/src_kangourou_2023_cadet#q02|src_kangourou_2023_cadet__Q02]]
 
 
 
@@ -141,7 +141,7 @@ level: kangourou
 > What is the sum of the largest three-digit integer that is multiple of 4 and the smallest positive four-digit integer that is multiple of 3? A) 1996 B) 1997 C) 1998 D) 1999 E) 2000
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q03]]
+[[Quesiti/src_kangourou_2023_cadet#q03|src_kangourou_2023_cadet__Q03]]
 
 
 
@@ -194,7 +194,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q04]]
+[[Quesiti/src_kangourou_2023_cadet#q04|src_kangourou_2023_cadet__Q04]]
 
 
 
@@ -238,7 +238,7 @@ level: kangourou
 > E) m + n
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q05]]
+[[Quesiti/src_kangourou_2023_cadet#q05|src_kangourou_2023_cadet__Q05]]
 
 
 
@@ -329,7 +329,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2023_cadet__Q06]]
+[[Quesiti/src_kangourou_2023_cadet#q06|src_kangourou_2023_cadet__Q06]]
 
 
 
@@ -367,7 +367,7 @@ level: kangourou
 > C) 20 D) 25 E) 30
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q07]]
+[[Quesiti/src_kangourou_2023_cadet#q07|src_kangourou_2023_cadet__Q07]]
 
 
 
@@ -409,7 +409,7 @@ level: kangourou
 > At the edges of a track there are four A, B, C, D self-driving cars traveling on straight paths. The drawing shows for each of them the starting position, the direction of march and how much road it takes in 5 seconds. Which cars will collide? A) A e B B) A e C C) A e D D) B e C E) C e D
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q08]]
+[[Quesiti/src_kangourou_2023_cadet#q08|src_kangourou_2023_cadet__Q08]]
 
 
 
@@ -457,7 +457,7 @@ level: kangourou
 > E) 15
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q09]]
+[[Quesiti/src_kangourou_2023_cadet#q09|src_kangourou_2023_cadet__Q09]]
 
 
 
@@ -511,7 +511,7 @@ level: kangourou
 > E) 7 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q10]]
+[[Quesiti/src_kangourou_2023_cadet#q10|src_kangourou_2023_cadet__Q10]]
 
 
 
@@ -546,7 +546,7 @@ level: kangourou
 > Francesca wrote three consecutive whole numbers of three digits in their natural order, but instead of the digits she used symbols: here, there, there. Which of the following is the next number? A) §§ì B) à§à C) §òì D) §ìà E) §ò§
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q11]]
+[[Quesiti/src_kangourou_2023_cadet#q11|src_kangourou_2023_cadet__Q11]]
 
 
 
@@ -595,7 +595,7 @@ level: kangourou
 > E) 36
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q12]]
+[[Quesiti/src_kangourou_2023_cadet#q12|src_kangourou_2023_cadet__Q12]]
 
 
 
@@ -657,7 +657,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2023_cadet__Q13]]
+[[Quesiti/src_kangourou_2023_cadet#q13|src_kangourou_2023_cadet__Q13]]
 
 
 
@@ -709,7 +709,7 @@ level: kangourou
 > E) 9
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q14]]
+[[Quesiti/src_kangourou_2023_cadet#q14|src_kangourou_2023_cadet__Q14]]
 
 
 
@@ -755,7 +755,7 @@ level: kangourou
 > E) 12
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q15]]
+[[Quesiti/src_kangourou_2023_cadet#q15|src_kangourou_2023_cadet__Q15]]
 
 
 
@@ -794,7 +794,7 @@ level: kangourou
 > The ABC triangle shown in the figure isosceles and its angle at the apex of the ABC measures 40°. The EAB and DCA angles have the same size. How many degrees does the CFE angle measure ? A) 55 B) 60 C) 65 D) 70 E) 75
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q16]]
+[[Quesiti/src_kangourou_2023_cadet#q16|src_kangourou_2023_cadet__Q16]]
 
 
 
@@ -838,7 +838,7 @@ level: kangourou
 > C) 39 D) 40 E) 41
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q17]]
+[[Quesiti/src_kangourou_2023_cadet#q17|src_kangourou_2023_cadet__Q17]]
 
 
 
@@ -880,7 +880,7 @@ level: kangourou
 > The figure shows a rectangle consisting of three gray squares, each 25 cm2 in area; its vertices are on the sides of a larger rectangle: in particular the vertices on the two smaller sides are the midpoints of those sides. How many square centimetres is the area of the large rectangle? A) 125 B) 136 C) 149 D) 150 E) 172
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q18]]
+[[Quesiti/src_kangourou_2023_cadet#q18|src_kangourou_2023_cadet__Q18]]
 
 
 
@@ -931,7 +931,7 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2023_cadet__Q19]]
+[[Quesiti/src_kangourou_2023_cadet#q19|src_kangourou_2023_cadet__Q19]]
 
 
 
@@ -993,7 +993,7 @@ level: kangourou
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2023_cadet__Q20]]
+[[Quesiti/src_kangourou_2023_cadet#q20|src_kangourou_2023_cadet__Q20]]
 
 
 
@@ -1041,7 +1041,7 @@ level: kangourou
 > E) 8
 
 **Answer:** B
-[[src_kangourou_2023_cadet__Q21]]
+[[Quesiti/src_kangourou_2023_cadet#q21|src_kangourou_2023_cadet__Q21]]
 
 
 
@@ -1083,7 +1083,7 @@ level: kangourou
 > An ant travels along the three sides of an equilateral triangle at different but constant speeds on each side: at 5 cm/min on one side, at 15 cm/min on the next, at 20 cm/min on the rest, as shown in the figure. Then it stops. What is the average speed of the ant along the entire route in cm/min? A) 10 B) 80/11 C)180/19 D) 15 E) 40/3
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q22]]
+[[Quesiti/src_kangourou_2023_cadet#q22|src_kangourou_2023_cadet__Q22]]
 
 
 
@@ -1132,7 +1132,7 @@ level: kangourou
 > E) 5
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q23]]
+[[Quesiti/src_kangourou_2023_cadet#q23|src_kangourou_2023_cadet__Q23]]
 
 
 
@@ -1179,7 +1179,7 @@ level: kangourou
 > C) 32 D) 24 E) 16
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q24]]
+[[Quesiti/src_kangourou_2023_cadet#q24|src_kangourou_2023_cadet__Q24]]
 
 
 
@@ -1219,7 +1219,7 @@ This item is intended to record the information provided by the manufacturer.
 > C) 16 D) 17 E) 18
 
 **Answer:** D
-[[src_kangourou_2023_cadet__Q25]]
+[[Quesiti/src_kangourou_2023_cadet#q25|src_kangourou_2023_cadet__Q25]]
 
 
 
@@ -1282,7 +1282,7 @@ This item is intended to record the information provided by the manufacturer.
 >
 
 **Answer:** A
-[[src_kangourou_2023_cadet__Q26]]
+[[Quesiti/src_kangourou_2023_cadet#q26|src_kangourou_2023_cadet__Q26]]
 
 
 
@@ -1332,7 +1332,7 @@ This item is intended to record the information provided by the manufacturer.
 > E) 6
 
 **Answer:** E
-[[src_kangourou_2023_cadet__Q27]]
+[[Quesiti/src_kangourou_2023_cadet#q27|src_kangourou_2023_cadet__Q27]]
 
 
 
@@ -1377,7 +1377,7 @@ This item is intended to record the information provided by the manufacturer.
 > C) 2/3 D) 3/4 E) 3/5
 
 **Answer:** A
-[[src_kangourou_2023_cadet__Q28]]
+[[Quesiti/src_kangourou_2023_cadet#q28|src_kangourou_2023_cadet__Q28]]
 
 
 
@@ -1423,7 +1423,7 @@ This item is intended to record the information provided by the manufacturer.
 > C) 23 D) 24 E) 30
 
 **Answer:** A
-[[src_kangourou_2023_cadet__Q29]]
+[[Quesiti/src_kangourou_2023_cadet#q29|src_kangourou_2023_cadet__Q29]]
 
 
 
@@ -1476,4 +1476,4 @@ This item is intended to record the information provided by the manufacturer.
 >
 
 **Answer:** C
-[[src_kangourou_2023_cadet__Q30]]
+[[Quesiti/src_kangourou_2023_cadet#q30|src_kangourou_2023_cadet__Q30]]

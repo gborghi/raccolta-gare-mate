@@ -33,7 +33,7 @@ level: RMO
 
 > Il punto $AOB$ deve essere un angolo determinato inferiore a $180^\circ$ e il punto $P$ deve essere un punto interno della regione angolare determinata da $\angle AOB$. Mostra, con la prova, come costruire, utilizzando solo la regola e le buste, un segmento di linea $CD$ che passa attraverso $P$ in modo tale che $C$ si trova sul raggio $OA$ e $D$ si trova sul raggio $OB$, e $CP : PD = 1 : 2$.
 
-[[src_rmo_2017__Q01]]
+[[Quesiti/src_rmo_2017#q01|src_rmo_2017__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Mostrare che $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ non ha soluzioni nei numeri interi $a$, $b$.
 
-[[src_rmo_2017__Q02]]
+[[Quesiti/src_rmo_2017#q02|src_rmo_2017__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Che $P(x) = x^2 + \frac{1}{2}x + b$ e $Q(x) = x^2 + cx + d$ siano due polinomi con coefficienti reali tali che $P(x)Q(x) = Q(P(x))$ per tutti i $x$ reali. Trova tutte le radici reali di $P(Q(x)) = 0$.
 
-[[src_rmo_2017__Q03]]
+[[Quesiti/src_rmo_2017#q03|src_rmo_2017__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: RMO
 
 > Considerare i quadrati di unità $n^2$ nel piano $xy$ centrato al punto $(i, j)$ con coordinate interi, $1 \le i \le n$, $1 \le j \le n$. È necessario colorare ogni quadrato unitario utilizzando uno dei colori $k$ in modo che due quadrati con centri a distanza pari a $\sqrt{5}$ l'uno dall'altro abbiano colori distinti. Qual è il minimo $k$ possibile?
 
-[[src_rmo_2017__Q04]]
+[[Quesiti/src_rmo_2017#q04|src_rmo_2017__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: RMO
 
 > Si deve $\Omega$ essere un cerchio con un accordo $AB$ che non è diametro. Il $\Gamma_1$ deve essere un cerchio su un lato di $AB$ tale da essere tangente a $AB$ a $C$ e tangente internamente a $\Omega$ a $D$. Allo stesso modo, $\Gamma_2$ sia un cerchio dall'altro lato di $AB$ tale da essere tangente a $AB$ a $E$ e internamente tangente a $\Omega$ a $F$. Supponiamo che la linea $DC$ si incroci $\Omega$ in un punto $X \ne D$ e la linea $FE$ si incroci $\Omega$ in un punto $Y \ne F$. Provare che $XY$ ha un diametro di $\Omega$.
 
-[[src_rmo_2017__Q05]]
+[[Quesiti/src_rmo_2017#q05|src_rmo_2017__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: RMO
 
 > $x, y, z$ siano numeri reali, ognuno più grande di $1$. Provare che $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
 
-[[src_rmo_2017__Q06]]
+[[Quesiti/src_rmo_2017#q06|src_rmo_2017__Q06]]

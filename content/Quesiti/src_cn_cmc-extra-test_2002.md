@@ -19,7 +19,7 @@ level: China Mathematical Competition (Extra Test)
 
 > As shown in the diagram, in $\triangle ABC$, $\angle A = 60^\circ$, $AB > AC$, point $O$ is a circumcenter and $H$ is the intersection point of two altitudes $BE$ and $CF$. Points $M$ and $N$ are on the line segments $BH$ and $HF$ respectively, and satisfy $BM = CN$. Determine the value of $\dfrac{MH + NH}{OH}$.
 
-![[src_cn_cmc-extra-test_2002__Q01.png]]
+![[src_cn_cmc-extra-test_2002__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: China Mathematical Competition (Extra Test)
 
 > Come mostrato nel diagramma, in $\triangle ABC$, $\angle A = 60^\circ$, $AB > AC$, il punto $O$ è un circumcentro e $H$ è il punto di intersezione di due altitudini $BE$ e $CF$. I punti $M$ e $N$ si trovano rispettivamente nei segmenti di linea $BH$ e $HF$ e soddisfano $BM = CN$. Determinare il valore di $\dfrac{MH + NH}{OH}$.
 
-![[src_cn_cmc-extra-test_2002__Q01.png]]
+![[src_cn_cmc-extra-test_2002__q01.png]]
 
 **Risposta:** 1
-[[src_cn_cmc-extra-test_2002__Q01]]
+[[Quesiti/src_cn_cmc-extra-test_2002#q01|src_cn_cmc-extra-test_2002__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: China Mathematical Competition (Extra Test)
 > Trova il valore massimo di $\dfrac{2a^3 + 27c - 9ab}{\lambda^3}$.
 
 **Risposta:** \frac{3}{2}\sqrt{3}
-[[src_cn_cmc-extra-test_2002__Q02]]
+[[Quesiti/src_cn_cmc-extra-test_2002#q02|src_cn_cmc-extra-test_2002__Q02]]
 
 
 
@@ -101,4 +101,4 @@ level: China Mathematical Competition (Extra Test)
 
 > Prima del torneo della Coppa del Mondo, l'allenatore di calcio del paese $F$ permetterà a sette giocatori $A_1$, $A_2$, $\ldots$, $A_7$ di partecipare a tre lezioni di allenamento (90 minuti ciascuno) per valutarli. Supponiamo che, in qualsiasi momento durante una partita, uno e solo uno di loro entri sul campo; e il tempo totale (misurato in minuti) sul campo per ciascuno di $A_1$, $A_2$, $A_3$ e $A_4$ sia divisibile per 7 e il tempo totale per ciascuno di $A_5$, $A_6$ e $A_7$ sia divisibile per 13. Se non vi è alcuna restrizione sul numero di volte di sostituzione di giocatori durante ogni partita, allora quanti possibili casi ci sono all'interno del tempo totale per ogni giocatore sul campo?
 
-[[src_cn_cmc-extra-test_2002__Q03]]
+[[Quesiti/src_cn_cmc-extra-test_2002#q03|src_cn_cmc-extra-test_2002__Q03]]

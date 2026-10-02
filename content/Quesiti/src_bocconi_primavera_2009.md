@@ -34,7 +34,7 @@ level: Semifinale di Primavera
 > If it takes one and a half minutes to cut a tree (a trunk of constant diameter) into two parts, how many minutes does it take to cut the same tree into five parts?
 
 **Answer:** 6 minuti
-[[src_bocconi_primavera_2009__Q01]]
+[[Quesiti/src_bocconi_primavera_2009#q01|src_bocconi_primavera_2009__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: Semifinale di Primavera
 > 
 > **Come fare?** (Un piccolo aiuto vi avete già ricevuto: tre piccoli triangoli sono stati già colorati ...)
 
-![[src_bocconi_primavera_2009__Q02.png]]
+![[src_bocconi_primavera_2009__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -70,10 +70,10 @@ level: Semifinale di Primavera
 > 
 > **How to do it?** (A little help you've already received: three small triangles have already been colored ...)
 
-![[src_bocconi_primavera_2009__Q02.png]]
+![[src_bocconi_primavera_2009__q02.png]]
 
 **Answer:** Pur con 'l'aiuto', il quesito ammette diverse soluzioni; una di queste prevede una 'V' nel livello intermedio e (nel livello inferiore, da sinistra a destra): B – V – R – V – B.
-[[src_bocconi_primavera_2009__Q02]]
+[[Quesiti/src_bocconi_primavera_2009#q02|src_bocconi_primavera_2009__Q02]]
 
 
 
@@ -106,7 +106,7 @@ Minimum minutes in Chiara for pre-dinner chores
 > **How many minutes do you need at least? **
 
 **Answer:** A Chiara, come minimo, servono 100 minuti.
-[[src_bocconi_primavera_2009__Q03]]
+[[Quesiti/src_bocconi_primavera_2009#q03|src_bocconi_primavera_2009__Q03]]
 
 
 
@@ -138,7 +138,7 @@ Minimum minutes in Chiara for pre-dinner chores
 > **How many cubes will you use to build it? **
 
 **Answer:** Luca utilizzerà 216 cubetti.
-[[src_bocconi_primavera_2009__Q04]]
+[[Quesiti/src_bocconi_primavera_2009#q04|src_bocconi_primavera_2009__Q04]]
 
 
 
@@ -153,7 +153,7 @@ Minimum minutes in Chiara for pre-dinner chores
 > 
 > **Quale è il numero positivo da inserire nel mattone mediano del livello più basso?**
 
-![[src_bocconi_primavera_2009__Q05.png]]
+![[src_bocconi_primavera_2009__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -172,10 +172,10 @@ Minimum minutes in Chiara for pre-dinner chores
 > 
 > **What is the positive number to be inserted into the middle brick of the lowest level? **
 
-![[src_bocconi_primavera_2009__Q05.png]]
+![[src_bocconi_primavera_2009__q05.png]]
 
 **Answer:** Il numero richiesto è 2.
-[[src_bocconi_primavera_2009__Q05]]
+[[Quesiti/src_bocconi_primavera_2009#q05|src_bocconi_primavera_2009__Q05]]
 
 
 
@@ -203,7 +203,7 @@ Minimum minutes in Chiara for pre-dinner chores
 > An athlete runs 70 meters in 8.4 seconds. In what time will it run 100 meters if it keeps the same average speed over this length?
 
 **Answer:** Il tempo è di 12 secondi.
-[[src_bocconi_primavera_2009__Q06]]
+[[Quesiti/src_bocconi_primavera_2009#q06|src_bocconi_primavera_2009__Q06]]
 
 
 
@@ -236,7 +236,7 @@ Chocolates purchased yesterday by Desiderio
 > How many chocolates did you buy yesterday?
 
 **Answer:** Desiderio aveva comprato 6 cioccolatini.
-[[src_bocconi_primavera_2009__Q07]]
+[[Quesiti/src_bocconi_primavera_2009#q07|src_bocconi_primavera_2009__Q07]]
 
 
 
@@ -269,7 +269,7 @@ Chocolates purchased yesterday by Desiderio
 > Knowing that Jacob had only 1 euro coins in his pocket since this morning, how many euros did he receive at the end of the day?
 
 **Answer:** Alla fine della giornata, a Jacob è avanzato 1 solo euro.
-[[src_bocconi_primavera_2009__Q08]]
+[[Quesiti/src_bocconi_primavera_2009#q08|src_bocconi_primavera_2009__Q08]]
 
 
 
@@ -302,7 +302,7 @@ Games won by Milena in the card tournament
 > How many games has Milena won?
 
 **Answer:** Milena ha vinto 3 partite.
-[[src_bocconi_primavera_2009__Q09]]
+[[Quesiti/src_bocconi_primavera_2009#q09|src_bocconi_primavera_2009__Q09]]
 
 
 
@@ -315,7 +315,7 @@ Games won by Milena in the card tournament
 
 > **Quanti triangoli vedi in figura?**
 
-![[src_bocconi_primavera_2009__Q10.png]]
+![[src_bocconi_primavera_2009__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -332,10 +332,10 @@ Games won by Milena in the card tournament
 
 > **How many triangles do you see in the figure? **
 
-![[src_bocconi_primavera_2009__Q10.png]]
+![[src_bocconi_primavera_2009__q10.png]]
 
 **Answer:** In figura si vedono 40 triangoli.
-[[src_bocconi_primavera_2009__Q10]]
+[[Quesiti/src_bocconi_primavera_2009#q10|src_bocconi_primavera_2009__Q10]]
 
 
 
@@ -364,7 +364,7 @@ Games won by Milena in the card tournament
 > Using the addition, subtraction, multiplication, division and power operations (all or only some), ** write the number 2000 with the digits 1, 2, 3, 4, 5** (which must appear only once).
 
 **Answer:** Il numero 2000 si può scrivere come $1 \times 4^2 \times 5^3$ oppure anche come $1 \times 2^4 \times 5^3$. L'ordine dei fattori non ha ovviamente importanza.
-[[src_bocconi_primavera_2009__Q11]]
+[[Quesiti/src_bocconi_primavera_2009#q11|src_bocconi_primavera_2009__Q11]]
 
 
 
@@ -396,7 +396,7 @@ What time is it now (clock problem)
 > What time is it now?
 
 **Answer:** Adesso sono le 21.
-[[src_bocconi_primavera_2009__Q12]]
+[[Quesiti/src_bocconi_primavera_2009#q12|src_bocconi_primavera_2009__Q12]]
 
 
 
@@ -429,7 +429,7 @@ What time is it now (clock problem)
 > Can you do the same with the numbers 987654321?
 
 **Answer:** Il quesito ammette diverse risposte. Ad esempio: $98 - 76 + 54 + 3 + 21$ ma anche (sempre ad esempio) $9 + 8 + 76 + 5 - 4 + 3 + 2 + 1$.
-[[src_bocconi_primavera_2009__Q13]]
+[[Quesiti/src_bocconi_primavera_2009#q13|src_bocconi_primavera_2009__Q13]]
 
 
 
@@ -462,7 +462,7 @@ What time is it now (clock problem)
 > $$\begin{array}{c} 1\ .\ 0\ .\ 7\ 3\ + \\ 1\ 6\ .\ 5\ .\ 4\ = \\ \hline 2\ .\ 3\ .\ 7\ 7 \end{array}$$
 
 **Answer:** L'addizione è: $120473 + 163504 = 283977$.
-[[src_bocconi_primavera_2009__Q14]]
+[[Quesiti/src_bocconi_primavera_2009#q14|src_bocconi_primavera_2009__Q14]]
 
 
 
@@ -495,7 +495,7 @@ What time is it now (clock problem)
 > $$\begin{array}{c} a\ b\ d\ e\ + \\ a\ c\ c\ 5\ = \\ \hline b\ 5\ b\ 5 \end{array}$$
 
 **Answer:** L'addizione è: $2430 + 2115 = 4545$.
-[[src_bocconi_primavera_2009__Q15]]
+[[Quesiti/src_bocconi_primavera_2009#q15|src_bocconi_primavera_2009__Q15]]
 
 
 
@@ -510,7 +510,7 @@ What time is it now (clock problem)
 > 
 > **Quali carte Sara deve assolutamente girare per essere sicura che l'affermazione di Sergio sia vera?**
 
-![[src_bocconi_primavera_2009__Q16.png]]
+![[src_bocconi_primavera_2009__q16.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
@@ -529,10 +529,10 @@ What time is it now (clock problem)
 > 
 > What cards does Sara have to turn to be sure Sergio's claim is true?
 
-![[src_bocconi_primavera_2009__Q16.png]]
+![[src_bocconi_primavera_2009__q16.png]]
 
 **Answer:** Sara girerà le carte 1 – Z.
-[[src_bocconi_primavera_2009__Q16]]
+[[Quesiti/src_bocconi_primavera_2009#q16|src_bocconi_primavera_2009__Q16]]
 
 
 
@@ -547,7 +547,7 @@ What time is it now (clock problem)
 > 
 > **Quali carte Sara deve assolutamente girare per essere sicura che l'affermazione di Sergio sia vera?**
 
-![[src_bocconi_primavera_2009__Q17.png]]
+![[src_bocconi_primavera_2009__q17.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
@@ -566,10 +566,10 @@ What time is it now (clock problem)
 > 
 > What cards does Sara have to turn to be sure Sergio's claim is true?
 
-![[src_bocconi_primavera_2009__Q17.png]]
+![[src_bocconi_primavera_2009__q17.png]]
 
 **Answer:** Sara dovrà girare tutte le carte.
-[[src_bocconi_primavera_2009__Q17]]
+[[Quesiti/src_bocconi_primavera_2009#q17|src_bocconi_primavera_2009__Q17]]
 
 
 
@@ -601,7 +601,7 @@ What time is it now (clock problem)
 > What was the initial length of the side of Peter's land?
 
 **Answer:** La lunghezza iniziale del lato del terreno di Pietro era di 13 m.
-[[src_bocconi_primavera_2009__Q18]]
+[[Quesiti/src_bocconi_primavera_2009#q18|src_bocconi_primavera_2009__Q18]]
 
 
 
@@ -641,7 +641,7 @@ Who wrote on the board (three truths, one lie)
 > Who wrote on the board "Down with the professors"?
 
 **Answer:** È Rosi che aveva scritto sulla lavagna.
-[[src_bocconi_primavera_2009__Q19]]
+[[Quesiti/src_bocconi_primavera_2009#q19|src_bocconi_primavera_2009__Q19]]
 
 
 
@@ -674,4 +674,4 @@ Who wrote on the board (three truths, one lie)
 > **How many experts were present at the meeting?**
 
 **Answer:** Gli esperti di giochi matematici presenti alla riunione erano 8.
-[[src_bocconi_primavera_2009__Q20]]
+[[Quesiti/src_bocconi_primavera_2009#q20|src_bocconi_primavera_2009__Q20]]

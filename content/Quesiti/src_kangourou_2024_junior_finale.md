@@ -33,7 +33,7 @@ level: kangourou
 
 > Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 included. Are these more reducing fractions or irreducible fractions?
 
-[[src_kangourou_2024_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2024_junior_finale#qj1|src_kangourou_2024_junior_finale__QJ1]]
 
 
 
@@ -44,7 +44,7 @@ level: kangourou
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti*
 
-![[src_kangourou_2024_junior_finale__probJ2.png]]
+![[src_kangourou_2024_junior_finale__probj2.png]]
 
 ```tikz
 \begin{document}
@@ -77,7 +77,7 @@ level: kangourou
 
 *Two triangles with two sides and equal height are congruent*
 
-![[src_kangourou_2024_junior_finale__probJ2.png]]
+![[src_kangourou_2024_junior_finale__probj2.png]]
 
 ```tikz
 \begin{document}
@@ -99,7 +99,7 @@ level: kangourou
 
 > Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent?
 
-[[src_kangourou_2024_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2024_junior_finale#qj2|src_kangourou_2024_junior_finale__QJ2]]
 
 
 
@@ -126,7 +126,7 @@ level: kangourou
 
 > I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which he operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
 
-[[src_kangourou_2024_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2024_junior_finale#qj3|src_kangourou_2024_junior_finale__QJ3]]
 
 
 
@@ -137,7 +137,7 @@ level: kangourou
 
 *Minimo valore di N(P) per un pentagono*
 
-![[src_kangourou_2024_junior_finale__probJ4.png]]
+![[src_kangourou_2024_junior_finale__probj4.png]]
 
 > Per un poligono (piano) $P$, non necessariamente convesso, indichiamo con $N(P)$ il numero di punti che sono intersezioni di diagonali e non sono vertici. Se $P$ è un quadrilatero, $N(P)$ può essere solo $1$ oppure $0$. Se $P$ è un pentagono, il massimo valore possibile per $N(P)$ è $5$ (ad esempio se $P$ è regolare); qual è invece il minimo valore possibile? (In un qualunque poligono, per diagonale si intende un segmento che congiunge due vertici non adiacenti.)
 
@@ -153,11 +153,11 @@ level: kangourou
 
 *Minimum value of N(P) for a pentagon*
 
-![[src_kangourou_2024_junior_finale__probJ4.png]]
+![[src_kangourou_2024_junior_finale__probj4.png]]
 
 > For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not verticals. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); but what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
 
-[[src_kangourou_2024_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2024_junior_finale#qj4|src_kangourou_2024_junior_finale__QJ4]]
 
 
 
@@ -184,7 +184,7 @@ level: kangourou
 
 > On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
 
-[[src_kangourou_2024_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2024_junior_finale#qj5|src_kangourou_2024_junior_finale__QJ5]]
 
 
 
@@ -211,4 +211,4 @@ There are four perfect square ABBA palindromes.
 
 > Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
 
-[[src_kangourou_2024_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2024_junior_finale#qj6|src_kangourou_2024_junior_finale__QJ6]]

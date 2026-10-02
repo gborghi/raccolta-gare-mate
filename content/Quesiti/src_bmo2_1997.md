@@ -41,7 +41,7 @@ level: BMO Round 2
 > 
 > Trova un intero $d > 9$ tale che il risultato sopra riportato in merito alla divisibilità per $7$ rimanga vero quando $M$ e $N$ sono due interi positivi a 4 cifre $d$.
 
-[[src_bmo2_1997__Q01]]
+[[Quesiti/src_bmo2_1997#q01|src_bmo2_1997__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 2
 
 > Nel triangolo a angolo acuto $ABC$, $CF$ è un'altitudine, con $F$ su $AB$, e $BM$ è una media, con $M$ su $CA$. Dato che $BM = CF$ e $\angle MBC = \angle FCA$ dimostrano che il triangolo $ABC$ è equilaterale.
 
-[[src_bmo2_1997__Q02]]
+[[Quesiti/src_bmo2_1997#q02|src_bmo2_1997__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 2
 
 > Trova il numero di polinomi di grado $5$ con coefficienti distinti dall'insieme $\{1, 2, 3, 4, 5, 6, 7, 8\}$ divisibili da $x^2 - x + 1$.
 
-[[src_bmo2_1997__Q03]]
+[[Quesiti/src_bmo2_1997#q03|src_bmo2_1997__Q03]]
 
 
 
@@ -130,4 +130,4 @@ level: BMO Round 2
 > 
 > (ii) C'è una progressione massima in $S$ di lunghezza $1997$?
 
-[[src_bmo2_1997__Q04]]
+[[Quesiti/src_bmo2_1997#q04|src_bmo2_1997__Q04]]

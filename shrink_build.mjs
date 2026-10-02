@@ -19,6 +19,7 @@ async function shrinkIndex() {
     idx = JSON.parse(raw)
   } catch (e) { console.log("contentIndex: skip -", e.message); return }
   for (const k of Object.keys(idx)) {
+    if (k.includes("#")) continue
     const e = idx[k]
     if (e && typeof e === "object") {
       if (typeof e.content === "string" && e.content.length > SNIPPET) {
@@ -47,7 +48,38 @@ async function stubFolderPage(rel, redirectTo, label) {
   console.log(`${rel}: ${(sz / 1e6).toFixed(1)}MB -> stub redirect (${redirectTo})`)
 }
 
+async function writeMobileIndex() {
+  const p = `${PUB}/static/contentIndex.json`
+  let idx
+  try { idx = JSON.parse(await fs.readFile(p, "utf8")) } catch (e) {
+    console.log("contentIndexMobile: skip -", e.message); return
+  }
+  const mobile = {}
+  for (const [k, e] of Object.entries(idx)) {
+    if (!e || typeof e !== "object") continue
+    mobile[k] = {
+      slug: e.slug ?? k,
+      title: e.title,
+      tags: e.tags || [],
+      content: typeof e.content === "string" ? e.content.slice(0, 120) : "",
+    }
+  }
+  const out = JSON.stringify(mobile)
+  await fs.writeFile(`${PUB}/static/contentIndexMobile.json`, out)
+  console.log(`contentIndexMobile.json: ${(out.length / 1e6).toFixed(1)}MB (${Object.keys(mobile).length} entries)`)
+}
+
 await shrinkIndex()
-// from /Quesiti/index.html, "../cerca/" is the faceted search page (best browse entry)
+await writeMobileIndex()
+// from /Quesiti/index.html, "../cerca/" is the faceted search page
 await stubFolderPage("Quesiti/index.html", "../cerca/", "Cerca quesiti")
+// --- single published output (GitHub Pages = reference, Cloudflare = byte-exact mirror) ---
+// Everything that used to run only in the Cloudflare job now runs here, so both hosts
+// serve the same files. These steps are idempotent (the CF job may run them again
+// before mirroring; its own build output is then discarded).
+await import("./scripts/inject-quesito-search.mjs")   // per-quesito search atoms
+await import("./scripts/fix-404.mjs")                 // 404.html works under /<repo>/ and /
+await fs.writeFile(`${PUB}/robots.txt`, "User-agent: *\nAllow: /\n\nSitemap: https://raccolta-gare-mate.pages.dev/sitemap.xml\n")
+await fs.writeFile(`${PUB}/.nojekyll`, "")
+await import("./scripts/write-mirror-manifest.mjs")   // LAST: hashes of every published file
 console.log("shrink_build done")

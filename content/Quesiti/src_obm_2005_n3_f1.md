@@ -36,7 +36,7 @@ level: OBM Nível 3
 
 > Quanti numeri tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di questi numeri, ma $7890$ non lo è. (A) $10$ (B) $13$ (C) $18$ (D) $22$ (E) $25$
 
-[[src_obm_2005_n3_f1__Q01]]
+[[Quesiti/src_obm_2005_n3_f1#q01|src_obm_2005_n3_f1__Q01]]
 
 
 
@@ -50,7 +50,7 @@ level: OBM Nível 3
 > $L$, $M$ and $N$ are midpoints of edges of the cube, as the figure shows. What is the measure of the angle $L\hat{M}N$?
 > (A) $90^\circ$ (B) $105^\circ$ (C) $120^\circ$ (D) $135^\circ$ (E) $150^\circ$
 
-![[src_obm_2005_n3_f1__Q02.png]]
+![[src_obm_2005_n3_f1__q02.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -68,9 +68,9 @@ level: OBM Nível 3
 
 > $L$, $M$ e $N$ sono i punti di mezzo dei bordi del cubo, come mostra la figura. Qual è la misura dell'angolo $L\hat{M}N$? (A) $90^\circ$ (B) $105^\circ$ (C) $120^\circ$ (D) $135^\circ$ (E) $150^\circ$
 
-![[src_obm_2005_n3_f1__Q02.png]]
+![[src_obm_2005_n3_f1__q02.png]]
 
-[[src_obm_2005_n3_f1__Q02]]
+[[Quesiti/src_obm_2005_n3_f1#q02|src_obm_2005_n3_f1__Q02]]
 
 
 
@@ -84,7 +84,7 @@ level: OBM Nível 3
 > In the figure, the line $PQ$ touches at $N$ the circle that passes through $L$, $M$ and $N$. The line $LM$ cuts the line $PQ$ at $R$. If $LM = LN$ and the measure of the angle $P\hat{N}L$ is $\alpha$, with $\alpha < 60^\circ$, what is the measure of the angle $L\hat{R}P$?
 > (A) $3\alpha - 180^\circ$ (B) $180^\circ - 2\alpha$ (C) $180^\circ - \alpha$ (D) $90^\circ - \dfrac{\alpha}{2}$ (E) $\alpha$
 
-![[src_obm_2005_n3_f1__Q03.png]]
+![[src_obm_2005_n3_f1__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -101,9 +101,9 @@ level: OBM Nível 3
 
 > Nella figura, la linea $PQ$ tocca a $N$ il cerchio che attraversa $L$, $M$ e $N$. La linea $LM$ taglia la linea $PQ$ a $R$. Se $LM = LN$ e la misura dell'angolo $P\hat{N}L$ è $\alpha$, con $\alpha < 60^\circ$, qual è la misura dell'angolo $L\hat{R}P$? (A) $3\alpha - 180^\circ$ (B) $180^\circ - 2\alpha$ (C) $180^\circ - \alpha$ (D) $90^\circ - \dfrac{\alpha}{2}$ (E) $\alpha$
 
-![[src_obm_2005_n3_f1__Q03.png]]
+![[src_obm_2005_n3_f1__q03.png]]
 
-[[src_obm_2005_n3_f1__Q03]]
+[[Quesiti/src_obm_2005_n3_f1#q03|src_obm_2005_n3_f1__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: OBM Nível 3
 
 > Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O \times B \times M = 240$, $O \times B + M = 46$ e $O + B \times M = 64$, allora $O + B + M$ è uguale a: (A) $19$ (B) $20$ (C) $21$ (D) $24$ (E) $36$
 
-[[src_obm_2005_n3_f1__Q04]]
+[[Quesiti/src_obm_2005_n3_f1#q04|src_obm_2005_n3_f1__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: OBM Nível 3
 
 > Esmeralda ha digitato correttamente un multiple di $7$ superiore a un miliardo, con cifre $4010$. Alla sua sinistra ha scritto il numero $2004$ e alla sua destra, $1$, ottenendo nuovi numeri $2004\ldots1$ con una cifra $n$ e $2005$. Qual è il valore di $n$? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-[[src_obm_2005_n3_f1__Q05]]
+[[Quesiti/src_obm_2005_n3_f1#q05|src_obm_2005_n3_f1__Q05]]
 
 
 
@@ -195,7 +195,7 @@ level: OBM Nível 3
 
 > I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x + \tfrac{1}{2}\sqrt{y}} - \sqrt{x - \tfrac{1}{2}\sqrt{y}} = 1.$$ Quale delle alternative presenta un possibile valore di $y$? (A) $5$ (B) $6$ (C) $7$ (D) $8$ (E) $9$
 
-[[src_obm_2005_n3_f1__Q06]]
+[[Quesiti/src_obm_2005_n3_f1#q06|src_obm_2005_n3_f1__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: OBM Nível 3
 > A block of dimensions $1 \times 2 \times 3$ is placed on an $8 \times 8$ board, as the figure shows, with one of its faces in contact with the lower left corner of the board. We roll the block, turning it over its edges around the board until it returns to the position it started from. In this way the block, rolling over its faces $X$, $Y$ and $Z$, occupies several squares of the board. How many different squares of the board were in contact with the block?
 > (A) $18$ (B) $19$ (C) $20$ (D) $21$ (E) $22$
 
-![[src_obm_2005_n3_f1__Q07.png]]
+![[src_obm_2005_n3_f1__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -227,9 +227,9 @@ level: OBM Nível 3
 
 > Un blocco di dimensioni $1 \times 2 \times 3$ è posizionato su una lavagna $8 \times 8$, come mostra la figura, con una delle sue facce in contatto con l'angolo inferiore sinistro della lavagna. Rotoliamo il blocco, girandolo intorno ai bordi della lavagna finché non ritorna alla posizione da cui ha iniziato. In questo modo il blocco, che ruota sulle sue facce $X$, $Y$ e $Z$, occupa diversi quadrati della lavagna. Quanti quadrati della lavagna erano in contatto con il blocco? (A) $18$ (B) $19$ (C) $20$ (D) $21$ (E) $22$
 
-![[src_obm_2005_n3_f1__Q07.png]]
+![[src_obm_2005_n3_f1__q07.png]]
 
-[[src_obm_2005_n3_f1__Q07]]
+[[Quesiti/src_obm_2005_n3_f1#q07|src_obm_2005_n3_f1__Q07]]
 
 
 
@@ -258,7 +258,7 @@ level: OBM Nível 3
 
 > Un negozio di saponi fa una promozione con l'annuncio: "Acquistate uno e prendete un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare per offrire lo stesso sconto percentuale è: (A) "Prenditi due e paga uno" (B) "Prenditi tre e paga uno" (C) "Prenditi tre e paga due" (D) "Prenditi quattro e paga tre" (E) "Prenditi cinque e paga quattro"
 
-[[src_obm_2005_n3_f1__Q08]]
+[[Quesiti/src_obm_2005_n3_f1#q08|src_obm_2005_n3_f1__Q08]]
 
 
 
@@ -287,7 +287,7 @@ level: OBM Nível 3
 
 > Il platino è un metallo molto raro, più raro e costoso dell'oro. La densità è $21.45\ \text{g/cm}^3$. Supponiamo che la produzione mondiale di platino negli ultimi anni fosse di circa $110$ tonnellate all'anno, e che prima fosse trascurabile. Indicare l'alternativa il cui volume è più vicino al volume di platino prodotto nella storia umana: (A) una scatola da scarpe (B) una piscina (C) un edificio di dieci piani (D) il Monte Pascoal (E) la Luna
 
-[[src_obm_2005_n3_f1__Q09]]
+[[Quesiti/src_obm_2005_n3_f1#q09|src_obm_2005_n3_f1__Q09]]
 
 
 
@@ -301,7 +301,7 @@ level: OBM Nível 3
 > The figure shows a cube of edge $1$ in which all twelve face diagonals were drawn. With this, a network with $14$ vertices ($8$ vertices of the cube and $6$ centers of faces) and $36$ edges (the $12$ edges of the cube and $4$ on each face, totalling $24$ on the $6$ faces) was created. What is the length of the shortest path, formed by edges of the network, that passes through all $14$ vertices?
 > (A) $1 + 6\sqrt{2}$ (B) $4 + 2\sqrt{2}$ (C) $6$ (D) $8 + 6\sqrt{2}$ (E) $12 + 12\sqrt{2}$
 
-![[src_obm_2005_n3_f1__Q10.png]]
+![[src_obm_2005_n3_f1__q10.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -319,9 +319,9 @@ level: OBM Nível 3
 
 > La figura mostra un cubo di bordo $1$ in cui sono stati disegnati tutti i dodici diagonali di faccia. Con questo, è stata creata una rete con vertici $14$ (vertici $8$ del cubo e $6$ centri di facce) e bordi $36$ (le bordi $12$ del cubo e $4$ su ciascuna faccia, il totale $24$ sulle facce $6$). Qual è la lunghezza del percorso più corto, formato dai bordi della rete, che attraversa tutti i vertici $14$? (A) $1 + 6\sqrt{2}$ (B) $4 + 2\sqrt{2}$ (C) $6$ (D) $8 + 6\sqrt{2}$ (E) $12 + 12\sqrt{2}$
 
-![[src_obm_2005_n3_f1__Q10.png]]
+![[src_obm_2005_n3_f1__q10.png]]
 
-[[src_obm_2005_n3_f1__Q10]]
+[[Quesiti/src_obm_2005_n3_f1#q10|src_obm_2005_n3_f1__Q10]]
 
 
 
@@ -351,7 +351,7 @@ level: OBM Nível 3
 
 > Una delle facce di un poliedro è un esagono regolare. Qual è la quantità minima di bordi che questo poliedro può avere? (A) $7$ (B) $9$ (C) $12$ (D) $15$ (E) $18$
 
-[[src_obm_2005_n3_f1__Q11]]
+[[Quesiti/src_obm_2005_n3_f1#q11|src_obm_2005_n3_f1__Q11]]
 
 
 
@@ -381,7 +381,7 @@ level: OBM Nível 3
 
 > In un anno, quante mesi hanno cinque domeniche al massimo? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-[[src_obm_2005_n3_f1__Q12]]
+[[Quesiti/src_obm_2005_n3_f1#q12|src_obm_2005_n3_f1__Q12]]
 
 
 
@@ -410,7 +410,7 @@ level: OBM Nível 3
 
 > $D$ è un punto appartenente al lato $BC$ del triangolo $ABC$. Sapendo che $AB = AD = 2$, $BD = 1$ e gli angoli $B\hat{A}D$ e $C\hat{A}D$ sono congruenti, la misura del segmento $CD$ è: (A) $\dfrac{3}{2}$ (B) $\dfrac{4}{3}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{6}{5}$ (E) $\dfrac{7}{6}$
 
-[[src_obm_2005_n3_f1__Q13]]
+[[Quesiti/src_obm_2005_n3_f1#q13|src_obm_2005_n3_f1__Q13]]
 
 
 
@@ -440,7 +440,7 @@ level: OBM Nível 3
 
 > Esmeralda adora i numeri triangolari (cioè i numeri $1$, $3$, $6$, $10$, $15$, $21$, $28$, ...), tanto che ha deciso di posizionare i numeri $1$, $2$, $3$, ..., $12$ attorno a un cerchio in modo tale che la somma di ogni coppia di numeri vicini sia un numero triangolare. All'inizio ha lasciato $12$ fuori. Il numero opposto a $12$ nella sua disposizione (il numero originale) è: (A) $1$ (B) $4$ (C) $3$ (D) $6$ (E) $10$
 
-[[src_obm_2005_n3_f1__Q14]]
+[[Quesiti/src_obm_2005_n3_f1#q14|src_obm_2005_n3_f1__Q14]]
 
 
 
@@ -472,7 +472,7 @@ level: OBM Nível 3
 
 > I termini $a_n$ di una sequenza di numeri interi positivi soddisfano la relazione $$a_{n+1} = a_{n+2}(a_{n+1} + a_n)\quad\text{for } n = 1, 2, 3, \ldots$$ Se $a_5 = 35$, cosa è $a_4$? (A) $1$ (B) $3$ (C) $5$ (D) $7$ (E) $9$
 
-[[src_obm_2005_n3_f1__Q15]]
+[[Quesiti/src_obm_2005_n3_f1#q15|src_obm_2005_n3_f1__Q15]]
 
 
 
@@ -502,7 +502,7 @@ level: OBM Nível 3
 
 > $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione sull'addizione, è vero che $a \times (b + c) = (a \times b) + (a \times c)$. La distributività dell'addizione sulla moltiplicazione, cioè $a + (b \times c) = (a + b) \times (a + c)$, non è sempre vera, ma si verifica, cioè si verifica, se e solo se: (A) $a = b = c$ o $a + \tfrac{1}{3} = 0$ (B) $a = b = c$ (C) l'uguaglianza non si verifica mai (D) $a + b + c = 1$ o $a = 0$ (E) $a = b = c = 0$
 
-[[src_obm_2005_n3_f1__Q16]]
+[[Quesiti/src_obm_2005_n3_f1#q16|src_obm_2005_n3_f1__Q16]]
 
 
 
@@ -516,7 +516,7 @@ level: OBM Nível 3
 > In the figure, the circles have the same radius $r$ and their centers are vertices of a square. The circles touch a circle of larger radius whose center is at the center of the square, which has vertices at... Let $a$ and $b$ be the gray areas indicated in the figure. Then the ratio $\dfrac{a}{b}$ is equal to:
 > (A) $\dfrac{1}{2}$ (B) $\dfrac{2}{3}$ (C) $1$ (D) $\dfrac{3}{2}$ (E) $2$
 
-![[src_obm_2005_n3_f1__Q17.png]]
+![[src_obm_2005_n3_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -533,9 +533,9 @@ level: OBM Nível 3
 
 > Nella figura, i cerchi hanno lo stesso raggio $r$ e i loro centri sono vertici di un quadrato. I cerchi toccano un cerchio di raggio maggiore il cui centro è al centro del quadrato, che ha vertici a... Le aree grigie indicate nella figura sono $a$ e $b$. Il rapporto $\dfrac{a}{b}$ è quindi uguale a: (A) $\dfrac{1}{2}$ (B) $\dfrac{2}{3}$ (C) $1$ (D) $\dfrac{3}{2}$ (E) $2$
 
-![[src_obm_2005_n3_f1__Q17.png]]
+![[src_obm_2005_n3_f1__q17.png]]
 
-[[src_obm_2005_n3_f1__Q17]]
+[[Quesiti/src_obm_2005_n3_f1#q17|src_obm_2005_n3_f1__Q17]]
 
 
 
@@ -565,7 +565,7 @@ level: OBM Nível 3
 
 > Tra i tredici numeri reali non zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13 \times 12}{2} = 78$ di coppie di 13 numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? (A) $2$ (B) $7$ (C) $8$ (D) $9$ (E) $10$
 
-[[src_obm_2005_n3_f1__Q18]]
+[[Quesiti/src_obm_2005_n3_f1#q18|src_obm_2005_n3_f1__Q18]]
 
 
 
@@ -594,7 +594,7 @@ level: OBM Nível 3
 
 > Tracciando quattro linee perpendicolari ai lati di un parallelo, otteniamo una regione delimitata da queste quattro linee che è anche un parallelo. Possiamo affermare che uno degli angoli del parallelogramma originale, in modo che i due parallelogrammi abbiano angoli uguali, è: (A) $30^\circ$ (B) $45^\circ$ (C) $60^\circ$ (D) $75^\circ$ (E) $90^\circ$
 
-[[src_obm_2005_n3_f1__Q19]]
+[[Quesiti/src_obm_2005_n3_f1#q19|src_obm_2005_n3_f1__Q19]]
 
 
 
@@ -624,7 +624,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Il numero $(2 + \sqrt{2})^3(3 - \sqrt{2})^4 + (2 - \sqrt{2})^3(3 + \sqrt{2})^4$ è: (A) un numero intero imparato (B) un numero intero pari (C) un non intero razionale (D) un positivo irrazionale (E) un negativo irrazionale
 
-[[src_obm_2005_n3_f1__Q20]]
+[[Quesiti/src_obm_2005_n3_f1#q20|src_obm_2005_n3_f1__Q20]]
 
 
 
@@ -654,7 +654,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Per esempio, $A = 10^{(16/2005)^2}$, $B = 2005^2$ e $C = 2^{\sqrt{2005}}$. Poi: (A) $A < B < C$ (B) $A < C < B$ (C) $B < A < C$ (D) $B < C < A$ (E) $C < A < B$
 
-[[src_obm_2005_n3_f1__Q21]]
+[[Quesiti/src_obm_2005_n3_f1#q21|src_obm_2005_n3_f1__Q21]]
 
 
 
@@ -684,7 +684,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Un pilota copre tre segmenti di strada, rispettivamente $240$ km, $300$ km e $400$ km. Le velocità medie su questi tre segmenti sono comprese tra $40$ km/h, $75$ km/h e $80$ km/h. Possiamo garantire che il tempo totale, in ore, trascorso dal pilota sui tre segmenti sia: (A) almeno $13$ ore (B) almeno $13$ ore e al massimo $18$ ore (C) almeno $14$ ore e al massimo $18$ ore (D) almeno $15$ ore e al massimo $18$ ore (E) almeno $18$ ore
 
-[[src_obm_2005_n3_f1__Q22]]
+[[Quesiti/src_obm_2005_n3_f1#q22|src_obm_2005_n3_f1__Q22]]
 
 
 
@@ -714,7 +714,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Due numeri interi sono chiamati $\textit{primanos}$ quando appartengono a una progressione aritmetica di tre termini primi. Ad esempio, i numeri $41$ e $59$ sono primani, perché appartengono alla progressione aritmetica $(41, 47, 53, 59)$ che contiene solo numeri primi. Tra le alternative di seguito, i due numeri che sono $\textbf{not}$ primanos sono: (A) $7$ e $11$ (B) $13$ e $53$ (C) $41$ e $131$ (D) $31$ e $43$ (E) $23$ e $41$
 
-[[src_obm_2005_n3_f1__Q23]]
+[[Quesiti/src_obm_2005_n3_f1#q23|src_obm_2005_n3_f1__Q23]]
 
 
 
@@ -744,7 +744,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Un orologio ha le mani per ore, minuti e secondi. Considerando i momenti tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi durante i quali alcune mani si sovrappongono, la risposta è: (A) $1430$ (B) $1438$ (C) $1440$ (D) $1446$ (E) $1452$
 
-[[src_obm_2005_n3_f1__Q24]]
+[[Quesiti/src_obm_2005_n3_f1#q24|src_obm_2005_n3_f1__Q24]]
 
 
 
@@ -774,4 +774,4 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 
 > Un insegnante di inglese dà una lezione privata a una classe di studenti $9$, di cui al massimo due hanno la stessa età. L'insegnante sa che tre studenti della stessa nazionalità e di diverse età possono formare un gruppo, e sceglie gli studenti in modo che al massimo tre di loro abbiano la stessa nazionalità. Quanti studenti brasiliani ci sono nella classe? (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
 
-[[src_obm_2005_n3_f1__Q25]]
+[[Quesiti/src_obm_2005_n3_f1#q25|src_obm_2005_n3_f1__Q25]]

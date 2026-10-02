@@ -33,7 +33,7 @@ level: JJMO
 
 > effettuare il seguente calcolo: $$6789 + 7896 + 8967 + 9678.$$
 
-[[src_jjmo3q__Q01]]
+[[Quesiti/src_jjmo3q#q01|src_jjmo3q__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO
 
 > Trova tutti i numeri interi positivi che lasciano un residuo di $11$ quando dividono $197$, e lasciano anche un residuo di $11$ quando dividono $290$.
 
-[[src_jjmo3q__Q02]]
+[[Quesiti/src_jjmo3q#q02|src_jjmo3q__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: JJMO
 \end{tikzpicture}
 ```
 
-[[src_jjmo3q__Q03]]
+[[Quesiti/src_jjmo3q#q03|src_jjmo3q__Q03]]
 
 
 
@@ -154,7 +154,7 @@ level: JJMO
 
 > Lasciate che i numeri reali $x, y, z$ soddisfino $2x + 3y - z = 9$ e $5x + 4y - 3z = 20$. Trova il valore di $9x - 4y - 7z$.
 
-[[src_jjmo3q__Q04]]
+[[Quesiti/src_jjmo3q#q04|src_jjmo3q__Q04]]
 
 
 
@@ -181,7 +181,7 @@ level: JJMO
 
 > Nella base dieci, $110$ è scritto come $420$ nella base cinque, che è anche un numero a cifre $3$. In questo modo, quanti numeri interi positivi in totale hanno lo stesso numero di cifre quando sono scritti in base dieci come quando sono scritti in base cinque?
 
-[[src_jjmo3q__Q05]]
+[[Quesiti/src_jjmo3q#q05|src_jjmo3q__Q05]]
 
 
 
@@ -194,7 +194,7 @@ level: JJMO
 
 > Consider $9$ points arranged as in the figure below, equally spaced both horizontally and vertically (a $3 \times 3$ array of points). Among these, how many triangles can be obtained by joining $3$ of the points? For example, as shown on the left below, choosing $3$ points and connecting them yields a triangle; however, as shown on the right below, choosing $3$ points that lie on a single straight line does not yield a triangle. Note that figures that coincide under translation or reflection are counted as distinct triangles.
 
-![[src_jjmo3q__Q06.png]]
+![[src_jjmo3q__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -210,9 +210,9 @@ level: JJMO
 
 > Considerare i punti $9$ disposti come nella figura seguente, spaziati ugualmente sia orizzontalmente che verticalmente (un array $3 \times 3$ di punti). Tra questi, quanti triangoli si possono ottenere unendo $3$ dei punti? Ad esempio, come mostrato in basso a sinistra, scegliere i punti $3$ e collegarli dà un triangolo; tuttavia, come mostrato in basso a destra, scegliere i punti $3$ che si trovano su una singola linea retta non dà un triangolo. Si noti che i numeri che coincidono sotto traduzione o riflessione sono contati come triangoli distinti.
 
-![[src_jjmo3q__Q06.png]]
+![[src_jjmo3q__q06.png]]
 
-[[src_jjmo3q__Q06]]
+[[Quesiti/src_jjmo3q#q06|src_jjmo3q__Q06]]
 
 
 
@@ -239,7 +239,7 @@ level: JJMO
 
 > Riempire ogni cella di una griglia $3 \times 3$ con un intero positivo in modo da soddisfare la seguente condizione: il prodotto dei tre numeri di ogni colonna è $2005$, e il prodotto dei tre numeri di ogni riga è anche $2005$. In quanti modi si può compiere un tale riempimento con integri positivi? Si noti che i riempimenti che coincidono sotto rotazione o riflessione sono ancora contati come distinti.
 
-[[src_jjmo3q__Q07]]
+[[Quesiti/src_jjmo3q#q07|src_jjmo3q__Q07]]
 
 
 
@@ -266,7 +266,7 @@ level: JJMO
 
 > In triangolo $ABC$, $\angle ABC = 70^\circ$ e $\angle ACB = 50^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ devono incontrare i lati $AC$ e $AB$ rispettivamente nei punti $D$ e $E$. Trova la misura di $\angle AED$.
 
-[[src_jjmo3q__Q08]]
+[[Quesiti/src_jjmo3q#q08|src_jjmo3q__Q08]]
 
 
 
@@ -293,7 +293,7 @@ level: JJMO
 
 > Tra i numeri naturali $4$ di cifre ognuno dei cui numeri è uno di $1, 2, 3, 4, 5, 6$, quanti sono i multipli di $7$?
 
-[[src_jjmo3q__Q09]]
+[[Quesiti/src_jjmo3q#q09|src_jjmo3q__Q09]]
 
 
 
@@ -320,7 +320,7 @@ level: JJMO
 
 > Il $P$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle APB = \angle APC = 130^\circ$ e $PB : PC = 2 : 3$. sui lati $AB$ e $AC$, rispettivamente, prendere i punti $Q$ e $R$ in modo tale che $\angle APQ = \angle APR = 80^\circ$. Dato che $AQ : QB = 4 : 3$, trovare $AR : RC$.
 
-[[src_jjmo3q__Q10]]
+[[Quesiti/src_jjmo3q#q10|src_jjmo3q__Q10]]
 
 
 
@@ -379,7 +379,7 @@ level: JJMO
 > 
 > Ad esempio, $439$ è dominato da $\boxed{\text{(d)}}$, e $143$ è dominato da $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(g)}}$. Ragionando allo stesso modo, si scopre che ogni numero $3$ è dominato da un certo numero $3$ di cui la somma digitale è $13$. D'altra parte, quando vengono sottratte due numeri distinti con la stessa somma $13$, si verifica necessariamente un prestito. Pertanto il valore minimo richiesto è $\boxed{\text{(h)}}$.
 
-[[src_jjmo3q__Q11]]
+[[Quesiti/src_jjmo3q#q11|src_jjmo3q__Q11]]
 
 
 
@@ -406,4 +406,4 @@ level: JJMO
 
 > Quante serie di tre diversi integri positivi hanno il prodotto pari a $12$ volte la loro somma? Qui, gli insiemi che differiscono solo nell'ordine dei numeri, come $\{3, 6, 18\}$ e $\{6, 3, 18\}$, sono considerati uguali e contati come uno.
 
-[[src_jjmo3q__Q12]]
+[[Quesiti/src_jjmo3q#q12|src_jjmo3q__Q12]]

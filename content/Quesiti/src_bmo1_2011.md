@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Un numero viene rimosso dall'insieme di numeri interi da $1$ a $n$. La media dei restanti numeri è $40\frac{3}{4}$. Quale numero intero è stato rimosso?
 
-[[src_bmo1_2011__Q01]]
+[[Quesiti/src_bmo1_2011#q01|src_bmo1_2011__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Se $s$ è un numero intero maggiore di $6$. Un cubo di lato solido $s$ ha un buco quadrato di lato $x < 6$ perforato direttamente da una faccia alla faccia opposta (in questo modo il foraggio rimuove un cuboide). Il volume del solido rimanente è numericamente uguale alla superficie totale del solido rimanente. Determinare tutti i possibili valori interi di $x$.
 
-[[src_bmo1_2011__Q02]]
+[[Quesiti/src_bmo1_2011#q02|src_bmo1_2011__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Che $ABC$ sia un triangolo con $\angle CAB$ un angolo rettangolo. Il punto $L$ si trova sul lato $BC$ tra $B$ e $C$. Il cerchio $ABL$ incontra di nuovo la linea $AC$ a $M$ e il cerchio $CAL$ incontra di nuovo la linea $AB$ a $N$. Prova che $L$, $M$ e $N$ si trovano su una linea retta.
 
-[[src_bmo1_2011__Q03]]
+[[Quesiti/src_bmo1_2011#q03|src_bmo1_2011__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: BMO Round 1
 
 > Isaac dispone di una grande quantità di contatori e ne colloca uno in ognuno dei quadrati $1 \times 1$ di una scacchiera $8 \times 8$. Ogni contatore è rosso, bianco o blu. Un particolare modello di contatori colorati è chiamato $\textit{arrangement}$. Determinare se esistono più sistemi che contengono un numero pari di contatori rossi o più sistemi che contengono un numero imparato di contatori rossi. $\textit{Note that }0\textit{ is an even number.}$
 
-[[src_bmo1_2011__Q04]]
+[[Quesiti/src_bmo1_2011#q04|src_bmo1_2011__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: BMO Round 1
 
 > I cerchi $S_1$ e $S_2$ si incontrano a $L$ e $M$. Let $P$ essere un punto su $S_2$. Lasciate che $PL$ e $PM$ rientrino in $S_1$ rispettivamente a $Q$ e $R$. Le linee $QM$ e $RL$ si incontrano a $K$. Mostrare che, poiché $P$ varia su $S_2$, $K$ si trova su un cerchio fisso.
 
-[[src_bmo1_2011__Q05]]
+[[Quesiti/src_bmo1_2011#q05|src_bmo1_2011__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: BMO Round 1
 
 > Le lunghezze dei lati di un triangolo sono $a$, $b$ e $c$. Supponiamo che $ab + bc + ca = 1$. Mostrare che $(a+1)(b+1)(c+1) < 4$.
 
-[[src_bmo1_2011__Q06]]
+[[Quesiti/src_bmo1_2011#q06|src_bmo1_2011__Q06]]

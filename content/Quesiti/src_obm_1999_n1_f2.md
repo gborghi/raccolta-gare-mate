@@ -35,7 +35,7 @@ level: OBM Nível 1
 > Rimuovere 10 cifre dal numero $12345123451234512345$ in modo che il numero rimanente sia il più grande possibile.
 
 **Risposta:** 5512345512345
-[[src_obm_1999_n1_f2__Q01]]
+[[Quesiti/src_obm_1999_n1_f2#q01|src_obm_1999_n1_f2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: OBM Nível 1
 > 
 > b) Può essere agosto, settembre e ottobre?
 
-[[src_obm_1999_n1_f2__Q02]]
+[[Quesiti/src_obm_1999_n1_f2#q02|src_obm_1999_n1_f2__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: OBM Nível 1
 > 
 > b) What fraction of the area of triangle $ABC$ does the shaded area represent?
 
-![[src_obm_1999_n1_f2__Q03.png]]
+![[src_obm_1999_n1_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -108,9 +108,9 @@ level: OBM Nível 1
 > 
 > b) Quale frazione dell'area del triangolo $ABC$ rappresenta l'area oscurata?
 
-![[src_obm_1999_n1_f2__Q03.png]]
+![[src_obm_1999_n1_f2__q03.png]]
 
-[[src_obm_1999_n1_f2__Q03]]
+[[Quesiti/src_obm_1999_n1_f2#q03|src_obm_1999_n1_f2__Q03]]
 
 
 
@@ -139,7 +139,7 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 > Pedro distribuì 127 monete di 1 rea in sette scatole e mise una etichetta su ciascuna di esse indicando il numero di monete in quella scatola. Questa distribuzione è stata effettuata in modo tale che qualsiasi importo da $\$1.00$ to $\$127.00$ possa essere versato tramite la consegna di alcune scatole (senza modifica). Come ha fatto Pedro?
 
 **Risposta:** 1, 2, 4, 8, 16, 32, 64
-[[src_obm_1999_n1_f2__Q04]]
+[[Quesiti/src_obm_1999_n1_f2#q04|src_obm_1999_n1_f2__Q04]]
 
 
 
@@ -182,7 +182,7 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 > 
 > b) Determinare il numero di piani in cui si fermano esattamente quattro ascensori.
 
-[[src_obm_1999_n1_f2__Q05]]
+[[Quesiti/src_obm_1999_n1_f2#q05|src_obm_1999_n1_f2__Q05]]
 
 
 
@@ -201,7 +201,7 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 > 
 > \textit{Note:} Tiling means completely covering, without overlapping pieces, so that no piece extends outside the table.
 
-![[src_obm_1999_n1_f2__Q06.png]]
+![[src_obm_1999_n1_f2__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -224,7 +224,7 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 > 
 > \textit{Note:} Tiling significa coprire completamente, senza pezzi sovrapposti, in modo che nessun pezzo si estenda al di fuori del tavolo.
 
-![[src_obm_1999_n1_f2__Q06.png]]
+![[src_obm_1999_n1_f2__q06.png]]
 
 **Risposta:** 10 \times 10
-[[src_obm_1999_n1_f2__Q06]]
+[[Quesiti/src_obm_1999_n1_f2#q06|src_obm_1999_n1_f2__Q06]]

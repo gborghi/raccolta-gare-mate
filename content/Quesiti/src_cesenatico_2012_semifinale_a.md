@@ -41,7 +41,7 @@ level: nazionale
 > The last stone The world has come to an end at other times in the past. Once in particular it was a certain Esmeralda Weatherwax to challenge Death to the game for everyone's salvation, but neither chess nor cards nor Monopoly were chosen. The two players sat down in front of a large pile of stones and began to play. He started Emerald, which took 30 stones. Death took 130 of them, then Emerald took 230. And they did so, according to the rules, which required each one to collect 100 more stones than the previous one. When the stones on the ground were no longer enough, the player would collect them all. The first one who couldn't pick up a stone would lose. As you can imagine, Esmeralda won after collecting 9,284 stones throughout the game. How many stones did Death collect?
 
 **Answer:** 8370
-[[src_cesenatico_2012_semifinale_a__Q01]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q01|src_cesenatico_2012_semifinale_a__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: nazionale
 > Commander Tarkin threatens to destroy the Earth with the Black Death, but he will give up if Princess Leila defeats him in the next game. Initially there is a heap of n stones; then players alternate starting with Leila. The only valid moves are to remove pile 1, 2, 4 or 16 stones. The winner is the one who can remove the last stone. Leila, reflecting a little, realizes that if Tarkin doesn't make mistakes, there will be no chance of victory for her. Then try to make the game last as long as possible, hoping that Tarkin will make a mistake sooner or later and also to delay the destruction of Earth. How much was it worth if the Earth was destroyed after a game of 594 moves?
 
 **Answer:** 0891
-[[src_cesenatico_2012_semifinale_a__Q02]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q02|src_cesenatico_2012_semifinale_a__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: nazionale
 > From a time capsule buried fifty years ago a prophecy is recovered: The world will end in a solar flare in year n, where n is the largest number of 4 digits dividing by. . . ”. Unfortunately, the number that was written in place of the dots is no longer legible, only understood to have at least seven digits. Knowing that the MIT glow will occur this year, what is the smallest possible value for the number that completed the prophecy?
 
 **Answer:** 3988
-[[src_cesenatico_2012_semifinale_a__Q03]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q03|src_cesenatico_2012_semifinale_a__Q03]]
 
 
 
@@ -143,7 +143,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
 
 **Answer:** 1824
-[[src_cesenatico_2012_semifinale_a__Q04]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q04|src_cesenatico_2012_semifinale_a__Q04]]
 
 
 
@@ -178,7 +178,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > Deep impact An asteroid is heading toward Earth. Its shape is that of a rotating solid, obtained by rotating around the straight axis of the side AB (which measures 3800 meters) the flat figure consisting of the square ABCD and the 4 circles with a radius of 1900 meters and centers at the vertices of the square. To destroy it, heroic miners are sent to the asteroid that can count on an infinite number of bombs, each of which disintegrates everything within a radius r from the point where it explodes. Our heroes cover the entire surface of the asteroid with bombs, only a few inches apart from each other and then detonate them simultaneously. How many meters must r be at least for the remainder of the asteroid to be split into at least two pieces?
 
 **Answer:** 1343
-[[src_cesenatico_2012_semifinale_a__Q05]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q05|src_cesenatico_2012_semifinale_a__Q05]]
 
 
 
@@ -213,7 +213,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > It's written as predicted in the terrible book Necronomicon by the mad Arab Abdul Alhazred, when for man the Last Day will come, he will rise from the bottom Bernardus, monster with n heads and m tails (both positive integers) such that 1 95 + 1 n = 1 m. What's the minimum number of heads Bernardus can have?
 
 **Answer:** 0266
-[[src_cesenatico_2012_semifinale_a__Q06]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q06|src_cesenatico_2012_semifinale_a__Q06]]
 
 
 
@@ -254,7 +254,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > 2/1 Team Race 2012  Semifinal A  Problem testing will only wipe it out, it will be annihilated and the Earth will be saved. The shield is placed a few metres from the ground, right in the centre of area K. What are the odds of Earth being saved? As a response, provide the first four digits after the comma.
 
 **Answer:** 1256
-[[src_cesenatico_2012_semifinale_a__Q07]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q07|src_cesenatico_2012_semifinale_a__Q07]]
 
 
 
@@ -288,7 +288,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > The followers of the Great Cthulhu to be ready for the Chaos of the Last Day completely changed the usual rules of calculation on natural numbers. The addition has been replaced by an operation denoted by tale which for each a,b ∈N, has ab = a+b+1, whereas, instead of multiplication, an operation has been adopted, denoted by •, such that 0•0 = 1, and that for each a,b,c ∈N, has a•b = b•a and also that a•bc) = (a•b)(a•c). According to the Necronomicon, only 12•7)17 days remain until Cthulhu wakes up: how many days would that be?
 
 **Answer:** 0225
-[[src_cesenatico_2012_semifinale_a__Q08]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q08|src_cesenatico_2012_semifinale_a__Q08]]
 
 
 
@@ -323,7 +323,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > The alien invaders Santovasku know that the only Earthling who can resist them is a scholar who keeps the secrets to defeat them on n voluminous books, arranged on a single shelf, from number 1 (left) all the way to number n (right). To destroy the books, an alien insect is sent out into the space between page 100 and page 101 of the first volume and begins to eat to the right, until the last volume, where it stops between page 10 and page 11. It is known that each volume has 38 more pages than the previous one and that the sum of the pages of the fourth and last volumes is equal to twice the pages of the seventh volume and three times the pages of the first volume. How many pages did the worm eat? Ignore the covers, but remember how the volumes are arranged on the shelf.
 
 **Answer:** 5904
-[[src_cesenatico_2012_semifinale_a__Q09]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q09|src_cesenatico_2012_semifinale_a__Q09]]
 
 
 
@@ -357,7 +357,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > No one remembers the command word to disable the robot Gort, which in nine days will ignite and destroy life on Earth. However, there is a second arrest procedure. In each of these days, the hero Ash Williams will throw a six-sided dice. If each launch is different from either the number released two days before or the number that will be released four days after, Gort will be deactivated. (If on one of the required days Ash did not draw the dice, e.g. two days before the first day, the resulting number is considered different.) What is the probability that the world will not end? As a response, provide the first four digits after the comma.
 
 **Answer:** 0914
-[[src_cesenatico_2012_semifinale_a__Q10]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q10|src_cesenatico_2012_semifinale_a__Q10]]
 
 
 
@@ -389,7 +389,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > The ferocious aliens of the Uru System are invading Earth! The world will end unless the Earth Champion defeats the alien chief's daughter in a desperate race. The race is held on a 500-meter track, on multiple laps. The alien surpasses the Champion every three minutes. If one of them were to run in the opposite direction, they would cross each other every 20 seconds. What is the speed of the alien in centimeters per second?
 
 **Answer:** 1388
-[[src_cesenatico_2012_semifinale_a__Q11]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q11|src_cesenatico_2012_semifinale_a__Q11]]
 
 
 
@@ -422,7 +422,7 @@ Sum of exponents of 2 in n! for n=1.63*
 > Another sign A space probe has recently discovered on the surface of Mars a mysterious monolith that may foretell the end of the world. One of its square faces ABCD, has an area of 2012 m2. That is, E is the middle point of AB and O is the intersection between AC and BD, it is noted that the intersection between the DCE triangle and the ABO triangle is red in colour. All the rest of the monolith is black. How many square meters is the red area?
 
 **Answer:** 0167
-[[src_cesenatico_2012_semifinale_a__Q12]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q12|src_cesenatico_2012_semifinale_a__Q12]]
 
 
 
@@ -455,7 +455,7 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 > Knights of other shores The alien invasion of the Uru System is complete! At the peace conference, called in a hurry, around the round table sit 8595 creatures, who may be aliens or terrestrials (the former always tell the truth, the latter always lie to save themselves). We know that the aliens at the conference are more than 2012 and less than 8,000, and that each creature claims that between the two creatures on its left there are as many aliens as between the two creatures on its right. How many aliens are out there?
 
 **Answer:** 5157
-[[src_cesenatico_2012_semifinale_a__Q13]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q13|src_cesenatico_2012_semifinale_a__Q13]]
 
 
 
@@ -490,7 +490,7 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 > A new hope The End of the World Order has been activated and life on Earth will be extinct within a few months. Il Dr. Strangely, it suggests preserving the human race in underground shelters. The shelters constructed have the form described here. The habitable area is an equilateral QPR triangle of 112 m side. It is served by three PQDC, QRIH and RPNM square hydroponic tanks and by three regular hexagonal water tanks ABCPNO, FGHQDE and KLMRIJ. The actual residential area is a polygon with 6 STUVWX sides such that S = AI ∩RP, T = KC ∩RP, U = FN ∩PQ, V = AH ∩PQ, W = KD ∩QR and X = FM ∩QR. Knowing that 3.5 square meters of living space is needed per person, how many people can live at most in one of these shelters?
 
 **Answer:** 1034
-[[src_cesenatico_2012_semifinale_a__Q14]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q14|src_cesenatico_2012_semifinale_a__Q14]]
 
 
 
@@ -524,7 +524,7 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 > In an ancient Egyptian temple, a regular hexagon-shaped stone slab was found that was used to count years. For every year from an uncertain date between 700 BC and 800 BC until their demise, the Egyptians engraved a circle of 16 mm radius on the slab. The circles were engraved so as not to overlap, and it was calculated that, even by optimizing space, the plate was only placed for the years up to 2012 DC. Apparently, then it would be the Absolute Evil that would end civilization. How many millimetres does the side of the hexagon measure at least?
 
 **Answer:** 0978
-[[src_cesenatico_2012_semifinale_a__Q15]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q15|src_cesenatico_2012_semifinale_a__Q15]]
 
 
 
@@ -603,4 +603,4 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 > Cesenatico 2012 XIII GARA NAZIONALE A SemiFINAL SQUADRE B  4 May 2012 General Instructions Please note that for each problem you must indicate an integer between 0000 and 9999 on the answer card. If the quantity required is not an integer, unless otherwise stated, the whole part shall be indicated. If the quantity requested is a negative number, or if the problem is unsolved, indicate 0000. If the quantity required is an integer greater than 9999, indicate the last four digits. The following approximate values may be useful to take into account when performing the calculations: √ 2 = 1,4142 √ 3 = 1,7321 √ 5 = 2,2361 √ 7 = 2,6458 π = 3,1416. Important deadlines 10 minutes from the start: final deadline for selecting the Jolly problem (after which the first problem will be deleted). 30 minutes from the start: deadline for questions on the text. 90 minutes from the start: end of the race.
 
 **Answer:** 0022
-[[src_cesenatico_2012_semifinale_a__Q16]]
+[[Quesiti/src_cesenatico_2012_semifinale_a#q16|src_cesenatico_2012_semifinale_a__Q16]]

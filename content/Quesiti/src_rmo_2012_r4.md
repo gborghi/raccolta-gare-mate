@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a unit square. Draw a quadrant of a circle with $A$ as centre and $B$, $D$ as end points of the arc. Similarly, draw a quadrant of a circle with $B$ as centre and $A$, $C$ as end points of the arc. Inscribe a circle $\Gamma$ touching the arc $AC$ externally, the arc $BD$ internally and also touching the side $AD$. Find the radius of the circle $\Gamma$.
 
-![[src_rmo_2012_r4__Q01.png]]
+![[src_rmo_2012_r4__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Scrivere un cerchio $\Gamma$ che tocchi l'arco $AC$ esternamente, l'arco $BD$ internamente e anche il lato $AD$. Trova il raggio del cerchio $\Gamma$.
 
-![[src_rmo_2012_r4__Q01.png]]
+![[src_rmo_2012_r4__q01.png]]
 
-[[src_rmo_2012_r4__Q01]]
+[[Quesiti/src_rmo_2012_r4#q01|src_rmo_2012_r4__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^7$.
 
-[[src_rmo_2012_r4__Q02]]
+[[Quesiti/src_rmo_2012_r4#q02|src_rmo_2012_r4__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: RMO
 
 > Let $X = \{1, 2, 3, \ldots, 11\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{4, 5, 7, 8, 9, 10\}$.
 
-[[src_rmo_2012_r4__Q04]]
+[[Quesiti/src_rmo_2012_r4#q04|src_rmo_2012_r4__Q04]]
 
 
 
@@ -104,7 +104,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $E$ be a point on the segment $BC$ such that $BE = 2EC$. Let $F$ be the mid-point of $AC$. Let $BF$ intersect $AE$ in $Q$. Determine $BQ/QF$.
 
-![[src_rmo_2012_r4__Q05.png]]
+![[src_rmo_2012_r4__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -120,9 +120,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo. Il punto $E$ deve essere un punto del segmento $BC$ tale da $BE = 2EC$. $F$ sia il punto medio di $AC$. In $Q$ si interseca $BF$. Determinare $BQ/QF$.
 
-![[src_rmo_2012_r4__Q05.png]]
+![[src_rmo_2012_r4__q05.png]]
 
-[[src_rmo_2012_r4__Q05]]
+[[Quesiti/src_rmo_2012_r4#q05|src_rmo_2012_r4__Q05]]
 
 
 
@@ -150,4 +150,4 @@ level: RMO
 
 > Risolvere il sistema di equazioni per i numeri reali positivi: $$\frac{1}{xy} = \frac{x}{z} + 1, \quad \frac{1}{yz} = \frac{y}{x} + 1, \quad \frac{1}{zx} = \frac{z}{y} + 1.$$
 
-[[src_rmo_2012_r4__Q06]]
+[[Quesiti/src_rmo_2012_r4#q06|src_rmo_2012_r4__Q06]]

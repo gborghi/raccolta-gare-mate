@@ -35,7 +35,7 @@ level: BMO Round 2
 > O è un punto fuori da un cerchio. Due linee OAB, OCD e O si incontrano al cerchio a A, B, C, D con $A$, $C$, rispettivamente i punti di mezzo di $OB$ e $OD$. Inoltre l'angolo acuto $\theta$ tra le linee è uguale all'angolo acuto a cui ciascuna linea taglia il cerchio. Trova $\cos\theta$ e mostra che le tangenti di $A$, $B$ al cerchio si incontrano sulla linea $BC$.
 
 **Risposta:** \cos\theta = \frac{1}{\sqrt{3}}
-[[src_bmo_1984-85_round2__Q01]]
+[[Quesiti/src_bmo_1984-85_round2#q01|src_bmo_1984-85_round2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Un intero positivo è chiamato male se il numero di $1$s nella sua espansione binaria è pari. Per esempio $18 = (10010)_2$ è malefico. Trova la somma dei primi $1985$ numeri interi positivi cattivi.
 
-[[src_bmo_1984-85_round2__Q02]]
+[[Quesiti/src_bmo_1984-85_round2#q02|src_bmo_1984-85_round2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 2
 
 > Prova che il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto.
 
-[[src_bmo_1984-85_round2__Q03]]
+[[Quesiti/src_bmo_1984-85_round2#q03|src_bmo_1984-85_round2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: BMO Round 2
 > Delegazioni provenienti da 30 paesi hanno partecipato a una sessione della giuria delle Olimpiadi Matematiche Internazionali  i leader e i loro deputati, in totale 60 persone. Durante la sessione alcuni dei partecipanti si sono stretti la mano l'uno all'altro, ma nessun leader ha stretto la mano al suo vice e non due persone hanno stretto la mano più di una volta. Dopo la sessione il leader della squadra mongola chiese a tutti quante volte avevano stretto la mano. Tutti i partecipanti hanno risposto e i numeri che hanno dato erano tutti diversi. Quante volte il vice leader mongolo ha dato la mano?
 
 **Risposta:** 29
-[[src_bmo_1984-85_round2__Q04]]
+[[Quesiti/src_bmo_1984-85_round2#q04|src_bmo_1984-85_round2__Q04]]
 
 
 
@@ -149,4 +149,4 @@ level: BMO Round 2
 > 
 > Provare che $AB + CD = BC + AD = AC + BD$ e che $OH = OD'$.
 
-[[src_bmo_1984-85_round2__Q05]]
+[[Quesiti/src_bmo_1984-85_round2#q05|src_bmo_1984-85_round2__Q05]]

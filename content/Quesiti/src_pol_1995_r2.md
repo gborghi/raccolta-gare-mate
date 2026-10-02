@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Per un polinomio $P$ con coefficienti interi, $P(5)$ è divisibile per 2 e $P(2)$ è divisibile per 5. Provare che $P(7)$ è divisibile per 10.
 
-[[src_pol_1995_r2__Q01]]
+[[Quesiti/src_pol_1995_r2#q01|src_pol_1995_r2__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: Olimpiade Polacca Round 2
 
 > Il $ABCDEF$ deve essere un esagono converso con $AB = BC$, $CD = DE$ e $EF = FA$. Prove che le linee attraverso $C, E, A$ perpendicolari a $BD, DF, FB$ sono simultanee.
 
-[[src_pol_1995_r2__Q02]]
+[[Quesiti/src_pol_1995_r2#q02|src_pol_1995_r2__Q02]]
 
 
 
@@ -85,7 +85,7 @@ level: Olimpiade Polacca Round 2
 
 > $a, b, c, d$ siano numeri irrazionali positivi con $a + b = 1$. Indicare che $c + d = 1$ se e solo se $[na] + [nb] = [nc] + [nd]$ per tutti gli integri positivi $n$.
 
-[[src_pol_1995_r2__Q03]]
+[[Quesiti/src_pol_1995_r2#q03|src_pol_1995_r2__Q03]]
 
 
 
@@ -112,7 +112,7 @@ level: Olimpiade Polacca Round 2
 
 > I numeri reali positivi $x_1, x_2, \ldots, x_n$ soddisfano la condizione $\sum_{i=1}^{n} x_i \le \sum_{i=1}^{n} x_i^2$. Prove la disuguaglianza $\sum_{i=1}^{n} x_i^t \le \sum_{i=1}^{n} x_i^{t+1}$ per tutti i numeri reali $t > 1$.
 
-[[src_pol_1995_r2__Q04]]
+[[Quesiti/src_pol_1995_r2#q04|src_pol_1995_r2__Q04]]
 
 
 
@@ -138,7 +138,7 @@ level: Olimpiade Polacca Round 2
 
 > Le incircoli delle facce $ABC$ e $ABD$ di un tetraedro $ABCD$ sono tangenti al bordo $AB$ nello stesso punto. Provare che i punti di tangenza di questi incircoli ai bordi $AC, BC, AD, BD$ sono conciclici.
 
-[[src_pol_1995_r2__Q05]]
+[[Quesiti/src_pol_1995_r2#q05|src_pol_1995_r2__Q05]]
 
 
 
@@ -165,4 +165,4 @@ level: Olimpiade Polacca Round 2
 
 > Determinare tutti i numeri interi positivi $n$ per i quali il quadrato $n \times n$ può essere tagliato in quadrati $2 \times 2$ e $3 \times 3$ (con i lati paralleli ai lati del grande quadrato).
 
-[[src_pol_1995_r2__Q06]]
+[[Quesiti/src_pol_1995_r2#q06|src_pol_1995_r2__Q06]]

@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > $n \ge 2$ sia un numero intero. Trovare tutte le permutazioni $(a_1, a_2, \ldots, a_n)$ di $n$ numeri interi consecutivi in modo tale che $(a_1 - 2a_2,\; a_2 - 2a_3,\; \ldots,\; a_{n-1} - 2a_n,\; a_n - 2a_1)$ sia anche una permutazione di $(a_1, a_2, \ldots, a_n)$.
 
-[[src_jmo34hq_honsen__Q01]]
+[[Quesiti/src_jmo34hq_honsen#q01|src_jmo34hq_honsen__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: JMO Honsen
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che, per tutti i numeri interi positivi $m$ e $n$, $$\mathrm{lcm}(f(m + f(n)),\, f(m)) = \mathrm{lcm}(f(m),\, f(m + n)).$$ qui $\mathrm{lcm}(x, y)$ denota il più piccolo comune multiple di $x$ e $y$.
 
-[[src_jmo34hq_honsen__Q02]]
+[[Quesiti/src_jmo34hq_honsen#q02|src_jmo34hq_honsen__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: JMO Honsen
 > 
 > (Nota: il segmento $AB$, $BC$ o $CD$ comprende entrambi gli endpoint.)
 
-[[src_jmo34hq_honsen__Q03]]
+[[Quesiti/src_jmo34hq_honsen#q03|src_jmo34hq_honsen__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: JMO Honsen
 > 
 > (Più precisamente: $E$ sia il punto del segmento $AB$ con $CE = CM$. Il circoncircolo di $\triangle ABE$ incontra il circoncircolo di $\triangle ABC$ a $B$ e in un altro punto $X$. $U$, $V$ siano i due punti di intersezione della linea $AX$ con il circoncircolo di $\triangle ABC$. Provare che $UV$ è un diametro del circoncircolo di $\triangle ABC$ se e solo se $D$, $O$, $X$ sono collineari, dove $D$ è sul raggio da $A$ a $B$ oltre $B$ con $BD = BM$.)
 
-[[src_jmo34hq_honsen__Q04]]
+[[Quesiti/src_jmo34hq_honsen#q04|src_jmo34hq_honsen__Q04]]
 
 
 
@@ -164,4 +164,4 @@ level: JMO Honsen
 
 > Prova che non ci sono numeri interi positivi $(a, b, c, d, n)$ che soddisfano $$a^2 + b^2 + c^2 + d^2 - 4\sqrt{abcd} = 7 \cdot 2^{2n-1}.$$
 
-[[src_jmo34hq_honsen__Q05]]
+[[Quesiti/src_jmo34hq_honsen#q05|src_jmo34hq_honsen__Q05]]

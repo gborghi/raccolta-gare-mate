@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Considerate la coppia di numeri interi positivi a quattro cifre $$(M, N) = (3600, 2500).$$ Si noti che $M$ e $N$ sono entrambi quadrati perfetti, con cifre uguali in due posti e cifre diverse nelle altre due posizioni. Inoltre, quando le cifre differiscono, la cifra di $M$ è esattamente una maggiore della cifra corrispondente di $N$. Trova tutte le coppie di interi positivi a quattro cifre $(M, N)$ con queste proprietà.
 
-[[src_bmo_1995-96_round1__Q01]]
+[[Quesiti/src_bmo_1995-96_round1#q01|src_bmo_1995-96_round1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 
 > Una funzione $f$ è definita sull'insieme di tutti gli integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$ Calcola il valore esatto di $f(1996)$.
 
-[[src_bmo_1995-96_round1__Q02]]
+[[Quesiti/src_bmo_1995-96_round1#q02|src_bmo_1995-96_round1__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 1
 > 
 > (Dato qualsiasi triangolo $XYZ$, il suo circoncentro è il centro del cerchio che attraversa i tre vertici $X$, $Y$ e $Z$.)
 
-[[src_bmo_1995-96_round1__Q03]]
+[[Quesiti/src_bmo_1995-96_round1#q03|src_bmo_1995-96_round1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 
 > Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Definire la funzione $q$ sui numeri interi positivi con $$q(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor \quad \text{for } n = 1, 2, 3, \ldots$$ Determinare tutti i numeri interi positivi $n$ per i quali $q(n) > q(n+1)$.
 
-[[src_bmo_1995-96_round1__Q04]]
+[[Quesiti/src_bmo_1995-96_round1#q04|src_bmo_1995-96_round1__Q04]]
 
 
 
@@ -155,4 +155,4 @@ level: BMO Round 1
 
 > $a$, $b$ e $c$ siano numeri reali positivi. (i) Prove che $4(a^3 + b^3) \ge (a + b)^3$. (ii) Prove che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
 
-[[src_bmo_1995-96_round1__Q05]]
+[[Quesiti/src_bmo_1995-96_round1#q05|src_bmo_1995-96_round1__Q05]]

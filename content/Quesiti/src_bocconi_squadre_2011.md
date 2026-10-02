@@ -19,7 +19,7 @@ level: Gara a Squadre
 
 > Il pentagono della figura, di area uguale a $S$, ha i suoi cinque lati uguali tra di loro e uguali a 1 cm. Calcolate (in funzione di $S$) il valore dell'espressione $MA+MB+MC+MD+ME$ che rappresenta la somma delle distanze del punto $M$ dai cinque lati del pentagono (o dai loro prolungamenti).
 
-![[src_bocconi_squadre_2011__Q01.png]]
+![[src_bocconi_squadre_2011__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -36,10 +36,10 @@ level: Gara a Squadre
 
 > The pentagon of the figure, of an area equal to $S$, has its five sides equal to each other and equal to 1 cm. Calculate (as a function of $S$) the value of the expression $MA+MB+MC+MD+ME$ which is the sum of the distances of the point $M$ from the five sides of the pentagon (or their extensions).
 
-![[src_bocconi_squadre_2011__Q01.png]]
+![[src_bocconi_squadre_2011__q01.png]]
 
 **Answer:** $2S$
-[[src_bocconi_squadre_2011__Q01]]
+[[Quesiti/src_bocconi_squadre_2011#q01|src_bocconi_squadre_2011__Q01]]
 
 
 
@@ -52,7 +52,7 @@ level: Gara a Squadre
 
 > Collocate i numeri naturali da 1 a 8 nelle caselle della figura in modo che due numeri consecutivi non siano mai posti in caselle che hanno un lato o un vertice in comune. Quante sono le possibili soluzioni?
 
-![[src_bocconi_squadre_2011__Q02.png]]
+![[src_bocconi_squadre_2011__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -69,10 +69,10 @@ level: Gara a Squadre
 
 > Place the natural numbers from 1 to 8 in the boxes in the figure so that two consecutive numbers are never placed in boxes that have a side or a vertex in common. How many possible solutions are there?
 
-![[src_bocconi_squadre_2011__Q02.png]]
+![[src_bocconi_squadre_2011__q02.png]]
 
 **Answer:** 4
-[[src_bocconi_squadre_2011__Q02]]
+[[Quesiti/src_bocconi_squadre_2011#q02|src_bocconi_squadre_2011__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: Gara a Squadre
 > Carla and Milena are having fun with twenty-five tokens on the table. The game consists of removing, with each move, 1 or 4 or 7 or 8 tokens (while it is forbidden to remove any other number of tokens from the table). The winner is the one who removes the last or last token on the table. It's Carla, now. How many tokens does she have to take away on her first move to be sure of winning, whatever strategy Milena then adopts? (Answer 0 if you think that, for any initial move by Carla, Milena has a chance to win the game.)
 
 **Answer:** 0
-[[src_bocconi_squadre_2011__Q03]]
+[[Quesiti/src_bocconi_squadre_2011#q03|src_bocconi_squadre_2011__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: Gara a Squadre
 > On the mirror: $$\text{ABC} + \text{CBA} +$$ $$\text{DE} + \text{ED} +$$ $$\text{FG} = \text{GF}$$ $$\text{HII} = \text{JJJ}$$ Replace the digits 0 to 9 with letters (different letters must be replaced with different numbers and letters equal the same number) so that both sums are verified. The one on the right gets the numbers from right to left from the first reading. Some numbers can start with 0 but $A$ is different from 0. Finally, for two-digit numbers, $DE$ is greater than $ED$ which is greater than $GF$ which is in turn greater than $FG$.
 
 **Answer:** A=4, B=8, C=0, D=9, E=7, F=3, G=5, H=6, I=1, J=2
-[[src_bocconi_squadre_2011__Q04]]
+[[Quesiti/src_bocconi_squadre_2011#q04|src_bocconi_squadre_2011__Q04]]
 
 
 
@@ -164,7 +164,7 @@ level: Gara a Squadre
 > The secret agent Nando, in order to contact his operational base, must first provide a secret code that he obtains with the square of a natural number $N$ (selected between 1 and 30) multiplied by the complement cube of $N$ to 30. (For example, for $N=5$, Nando will provide the number $5^2 \times 35^3 = 300\,625$). What's the biggest secret code Nando can provide?
 
 **Answer:** 839808
-[[src_bocconi_squadre_2011__Q05]]
+[[Quesiti/src_bocconi_squadre_2011#q05|src_bocconi_squadre_2011__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: Gara a Squadre
 
 > La fontana della figura è costruita su sei livelli. Ad ogni livello, ciascuna vasca versa metà della sua acqua in ciascuna delle due vasche situate sotto di lei. Quanti litri d'acqua sono stati versati inizialmente nell'unica vasca del primo livello (quello superiore) sapendo che la vasca bianca (la seconda da sinistra del livello inferiore) ha raccolto un litro d'acqua?
 
-![[src_bocconi_squadre_2011__Q06.png]]
+![[src_bocconi_squadre_2011__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Backward]]
@@ -194,10 +194,10 @@ level: Gara a Squadre
 
 > The fountain in the figure is built on six levels. At each level, each basin pours half its water into each of the two basins below it. How many liters of water were initially poured into the one tank on the first level (the upper one) knowing that the white tank (the second one on the left of the lower level) collected one litre of water?
 
-![[src_bocconi_squadre_2011__Q06.png]]
+![[src_bocconi_squadre_2011__q06.png]]
 
 **Answer:** 6,4
-[[src_bocconi_squadre_2011__Q06]]
+[[Quesiti/src_bocconi_squadre_2011#q06|src_bocconi_squadre_2011__Q06]]
 
 
 
@@ -226,7 +226,7 @@ level: Gara a Squadre
 > Three travelers, fed, finally arrive at a restaurant and ask for a plate of potatoes. But when the host brings them, he finds them asleep. Then leave the plate on the table. One in three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point a second traveler wakes up, eats a third of the potatoes left in the plate, and then he falls asleep again. Shortly thereafter, the third traveler wakes up, unaware that his adventure companions have already served themselves, and eats a third of the potatoes left in the dish. When the host comes to pick up the plate, he finds there's eight more potatoes left. How many potatoes did he bring in first?
 
 **Answer:** 27
-[[src_bocconi_squadre_2011__Q07]]
+[[Quesiti/src_bocconi_squadre_2011#q07|src_bocconi_squadre_2011__Q07]]
 
 
 
@@ -239,7 +239,7 @@ level: Gara a Squadre
 
 > Considerate tutti i triangoli rettangoli i cui cateti prolungano i lati del quadrato $ASOT$ e in cui l'ipotenusa passa per $O$. Sapendo che $c = 1$ cm, qual è il valore minimo dell'area di questi triangoli?
 
-![[src_bocconi_squadre_2011__Q08.png]]
+![[src_bocconi_squadre_2011__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
@@ -256,10 +256,10 @@ level: Gara a Squadre
 
 > Consider all rectangular triangles whose cathetes extend the sides of the $ASOT$ square and in which the hypotenuse passes through $O$. Knowing that $c = 1$ cm, what is the minimum value of the area of these triangles?
 
-![[src_bocconi_squadre_2011__Q08.png]]
+![[src_bocconi_squadre_2011__q08.png]]
 
 **Answer:** 2
-[[src_bocconi_squadre_2011__Q08]]
+[[Quesiti/src_bocconi_squadre_2011#q08|src_bocconi_squadre_2011__Q08]]
 
 
 
@@ -288,7 +288,7 @@ level: Gara a Squadre
 > Increasing the smallest size of a rectangular parallelepiped by 3 cm and decreasing the largest by 5 cm gives a cube with the same volume as the initial parallelepiped. What's the size of the side of the cube?
 
 **Answer:** 7,5
-[[src_bocconi_squadre_2011__Q09]]
+[[Quesiti/src_bocconi_squadre_2011#q09|src_bocconi_squadre_2011__Q09]]
 
 
 
@@ -317,7 +317,7 @@ level: Gara a Squadre
 > What is the length of the segment of the rectangular vertex (top to hypotenuse) of a right triangle whose sides measure 3 cm, 4 cm, 5 cm?
 
 **Answer:** $\frac{12}{7}\sqrt{2}$
-[[src_bocconi_squadre_2011__Q10]]
+[[Quesiti/src_bocconi_squadre_2011#q10|src_bocconi_squadre_2011__Q10]]
 
 
 
@@ -346,7 +346,7 @@ level: Gara a Squadre
 > But look at that combination! Between three digits, choosing between those ranging from 1 to 9 (included), you can write six two-digit numbers. Adding these six numbers together, you get a number made up of the same three numbers. What is the maximum value of this sum?
 
 **Answer:** 396
-[[src_bocconi_squadre_2011__Q11]]
+[[Quesiti/src_bocconi_squadre_2011#q11|src_bocconi_squadre_2011__Q11]]
 
 
 
@@ -359,7 +359,7 @@ level: Gara a Squadre
 
 > Guardate la figura, composta da quattro triangoli equilateri che hanno il lato di 1 m. Calcolate la lunghezza della diagonale $AC$.
 
-![[src_bocconi_squadre_2011__Q12.png]]
+![[src_bocconi_squadre_2011__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -376,10 +376,10 @@ level: Gara a Squadre
 
 > Look at the figure, it's made up of four equilateral triangles that have sides of 1 m. Calculate the length of the diagonal $AC$.
 
-![[src_bocconi_squadre_2011__Q12.png]]
+![[src_bocconi_squadre_2011__q12.png]]
 
 **Answer:** $\sqrt{3}$
-[[src_bocconi_squadre_2011__Q12]]
+[[Quesiti/src_bocconi_squadre_2011#q12|src_bocconi_squadre_2011__Q12]]
 
 
 
@@ -408,7 +408,7 @@ level: Gara a Squadre
 > Asked about his postal code, Desiderio is very reluctant to communicate it and merely provides some information. It says it's made up of five digits, that the sum of the first and the second is equal to 17, that the sum of the second and the third is equal to 15, that the sum of the third and the fourth is still equal to 15, and that the sum of the last two digits is equal to 9. Finally, however, it states that the sum of the first and last digits is equal to 8 and that the last digit is 9. What is the postal code of the city where Desiderio lives?
 
 **Answer:** 89690
-[[src_bocconi_squadre_2011__Q13]]
+[[Quesiti/src_bocconi_squadre_2011#q13|src_bocconi_squadre_2011__Q13]]
 
 
 
@@ -436,7 +436,7 @@ The time of Deborah's arrival at Calde
 > Debora leaves from Milan Central Station at 9.00. Its train travels 27 km, to Gallarate, at an average speed of 96 km/h. Then it stops for three minutes. Then, again, from Gallarate to Caldè (on Lake Maggiore), its train keeps the average of 96 km/h for the remaining 29 km. What time will Deborah arrive at Calde's station?
 
 **Answer:** 9.38
-[[src_bocconi_squadre_2011__Q14]]
+[[Quesiti/src_bocconi_squadre_2011#q14|src_bocconi_squadre_2011__Q14]]
 
 
 
@@ -465,7 +465,7 @@ The time of Deborah's arrival at Calde
 > You have a natural number greater than 1. The product of all its divisors (including 1 and the number itself) is equal to the fifth power of this number. How many divisors does this number have?
 
 **Answer:** 10
-[[src_bocconi_squadre_2011__Q15]]
+[[Quesiti/src_bocconi_squadre_2011#q15|src_bocconi_squadre_2011__Q15]]
 
 
 
@@ -494,7 +494,7 @@ The time of Deborah's arrival at Calde
 > In a banquet, all the seats on the round table are occupied: 7 ladies have another lady on their right; 12 ladies instead have a man on their right; in turn, exactly 75% of the men present have a lady on their right. How many people are sitting around the table overall?
 
 **Answer:** 35
-[[src_bocconi_squadre_2011__Q16]]
+[[Quesiti/src_bocconi_squadre_2011#q16|src_bocconi_squadre_2011__Q16]]
 
 
 
@@ -523,7 +523,7 @@ The time of Deborah's arrival at Calde
 > Consider a rectangle whose sides measure 10 cm and 15 cm. Its four corners, intersecting, form a quadrilateral. Calculate the ratio of the area of the quadrilateral to that of the initial rectangle.
 
 **Answer:** $\frac{1}{12}$
-[[src_bocconi_squadre_2011__Q17]]
+[[Quesiti/src_bocconi_squadre_2011#q17|src_bocconi_squadre_2011__Q17]]
 
 
 
@@ -536,7 +536,7 @@ The time of Deborah's arrival at Calde
 
 > Dividete un quadrato in otto triangoli rettangoli, diversi ma simili tra di loro e in cui la lunghezza del cateto maggiore è uguale al doppio di quello del cateto minore. In figura (che pure non rispetta le proporzioni) vedete il risultato ottenuto. Ricordate che tutte le superfici dei triangoli (espresse in $\text{cm}^2$) sono dei numeri interi. Quanto vale al minimo l'area del quadrato?
 
-![[src_bocconi_squadre_2011__Q18.png]]
+![[src_bocconi_squadre_2011__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -553,10 +553,10 @@ The time of Deborah's arrival at Calde
 
 > Divide a square into eight rectangular triangles, different but similar to each other and where the length of the major square is twice that of the minor square. In the figure (which does not respect the proportions) you can see the result. Remember that all the surfaces of triangles (expressed in $\text{cm}^2$) are integers. How much is the minimum area of the square worth?
 
-![[src_bocconi_squadre_2011__Q18.png]]
+![[src_bocconi_squadre_2011__q18.png]]
 
 **Answer:** 500
-[[src_bocconi_squadre_2011__Q18]]
+[[Quesiti/src_bocconi_squadre_2011#q18|src_bocconi_squadre_2011__Q18]]
 
 
 
@@ -585,7 +585,7 @@ The time of Deborah's arrival at Calde
 > The insect population we're studying had an impressive growth rate in 2010. As of January 1, it had 2010 units. By 2 January the number had risen to 4021 (double +1). On 3 January it was 12064 (three times the previous number +1). In January, the insect population grew according to the law: the number of individuals the day before, multiplied by the number of days, and increased by 1. The same law was also maintained in February (with an increase of 2). The population on 1 February was increased by 2 on 31 January; the population on 2 February was double the previous one (the one on 1 February) increased by 2, and so on. The law describing insect population growth remains the same even in the following months, with the difference that in March, every day, it is increased by 3 and not one as in January and not even by 2 as in February; in April it is increased by 4; in May it is increased by 5 and so on until December when it is increased by 12. Our insect population, in addition to growing so swiftly, has another feature. Insects are in the habit of flying in formations of 13 units; when their number is not a multiple of 13, they are arranged in such a way that the number of isolated insects (which are not in a 13-unit formation) is as small as possible. How many insects will be isolated on the evening of December 31?
 
 **Answer:** 12
-[[src_bocconi_squadre_2011__Q19]]
+[[Quesiti/src_bocconi_squadre_2011#q19|src_bocconi_squadre_2011__Q19]]
 
 
 
@@ -614,4 +614,4 @@ The time of Deborah's arrival at Calde
 > Luke has a really weird way of calculating fractions. He is used to replacing the fractional line with a comma and, when it comes to multiplying, instead divides. So for example, to multiply 12 by 6/25, divide 12 by 6.25. But Luke is also a lucky calculator: today, by proceeding normally in multiplying a number (different from 0) by an irreducible fraction, he has incredibly achieved the exact result. What is the fraction by which Luke multiplied the number?
 
 **Answer:** $\frac{2}{5}$
-[[src_bocconi_squadre_2011__Q20]]
+[[Quesiti/src_bocconi_squadre_2011#q20|src_bocconi_squadre_2011__Q20]]

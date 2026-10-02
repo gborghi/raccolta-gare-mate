@@ -86,7 +86,7 @@ level: Concours Général
 > 
 > 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
 
-[[src_cgen_2015__Q01]]
+[[Quesiti/src_cgen_2015#q01|src_cgen_2015__Q01]]
 
 
 
@@ -145,7 +145,7 @@ level: Concours Général
 > 
 > 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le linee $\Delta_1, \ldots, \Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
 
-[[src_cgen_2015__Q02]]
+[[Quesiti/src_cgen_2015#q02|src_cgen_2015__Q02]]
 
 
 
@@ -204,4 +204,4 @@ level: Concours Général
 > 
 > 5. Esiste una sequenza limitata non costante del tipo $\mathcal{A}$?
 
-[[src_cgen_2015__Q03]]
+[[Quesiti/src_cgen_2015#q03|src_cgen_2015__Q03]]

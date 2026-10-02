@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$(x - y)f(x + y) - (x + y)f(x - y) = 4xy(x^2 - y^2).$$
 
-[[src_pol_1990_r3__Q01]]
+[[Quesiti/src_pol_1990_r3#q01|src_pol_1990_r3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 > Lasciate che $x_1, x_2, \ldots, x_n$ siano numeri positivi. Provare che $$\frac{x_1^2}{x_1^2 + x_2 x_3} + \frac{x_2^2}{x_2^2 + x_3 x_4} + \cdots + \frac{x_{n-1}^2}{x_{n-1}^2 + x_n x_1} + \frac{x_n^2}{x_n^2 + x_1 x_2} \le n - 1.$$
 
-[[src_pol_1990_r3__Q02]]
+[[Quesiti/src_pol_1990_r3#q02|src_pol_1990_r3__Q02]]
 
 
 
@@ -97,7 +97,7 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 > 
 > (ii) organizzare tutti i giocatori in una catena $x_1, x_2, \ldots, x_n, x_1$ in modo tale che ciascuno dei giocatori sconfigga il suo successore.
 
-[[src_pol_1990_r3__Q03]]
+[[Quesiti/src_pol_1990_r3#q03|src_pol_1990_r3__Q03]]
 
 
 
@@ -124,7 +124,7 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 
 > Un triangolo il cui lunghezza non è inferiore a 1 è inciso in un quadrato di lunghezza laterale 1. Prova che il centro del quadrato si trova all'interno del triangolo o al suo confine.
 
-[[src_pol_1990_r3__Q04]]
+[[Quesiti/src_pol_1990_r3#q04|src_pol_1990_r3__Q04]]
 
 
 
@@ -151,7 +151,7 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 
 > Supponiamo che $(a_n)$ sia una sequenza di integri positivi come $\lim_{n \to \infty} \frac{n}{a_n} = 0$. Dimostrare l'esistenza di $k$ in modo tale che ci siano almeno 1990 quadrati perfetti tra $a_1 + a_2 + \cdots + a_k$ e $a_1 + a_2 + \cdots + a_{k+1}$.
 
-[[src_pol_1990_r3__Q05]]
+[[Quesiti/src_pol_1990_r3#q05|src_pol_1990_r3__Q05]]
 
 
 
@@ -178,4 +178,4 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 
 > Prova che per tutti gli integri $n > 2$, $\sum_{k=0}^{\lfloor n/3 \rfloor} (-1)^k \binom{n}{3k}$ è divisibile per 3.
 
-[[src_pol_1990_r3__Q06]]
+[[Quesiti/src_pol_1990_r3#q06|src_pol_1990_r3__Q06]]

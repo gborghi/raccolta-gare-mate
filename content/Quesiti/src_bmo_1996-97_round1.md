@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Determinare tutti i numeri interi $N$ per i quali $B(N) = 4N + 3$.
 
-[[src_bmo_1996-97_round1__Q01]]
+[[Quesiti/src_bmo_1996-97_round1#q01|src_bmo_1996-97_round1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 
 > Per i numeri interi positivi $n \geq 1$, definire la sequenza $a_1, a_2, a_3, \ldots$ da $$a_1 = 1, \quad a_{n+1} = a_n + \frac{n+1}{\text{largest prime factor of }(n+1)}, \quad n \geq 1.$$ Determinare il valore di $a_{1997}$.
 
-[[src_bmo_1996-97_round1__Q02]]
+[[Quesiti/src_bmo_1996-97_round1#q02|src_bmo_1996-97_round1__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 1
 > 
 > In quanti modi è possibile per un Nano pagare, in moneta esatta, una bolletta di Pippin del 1997?
 
-[[src_bmo_1996-97_round1__Q03]]
+[[Quesiti/src_bmo_1996-97_round1#q03|src_bmo_1996-97_round1__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: BMO Round 1
 
 > Che il $ABCD$ sia un quadrilaterale convexo che abbia un cerchio inciso (cioè un cerchio che tocca tutti e quattro i lati). I punti intermedi di $AB$, $BC$, $CD$, $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Prove che l'area del quadrilaterale $PQRS$ è la metà dell'area di $ABCD$.
 
-[[src_bmo_1996-97_round1__Q04]]
+[[Quesiti/src_bmo_1996-97_round1#q04|src_bmo_1996-97_round1__Q04]]
 
 
 
@@ -159,4 +159,4 @@ level: BMO Round 1
 > 
 > b) Se $x + y \geq 2$, è necessariamente vero che $\dfrac{1}{x^2} + \dfrac{1}{y^2} \geq 2$?
 
-[[src_bmo_1996-97_round1__Q05]]
+[[Quesiti/src_bmo_1996-97_round1#q05|src_bmo_1996-97_round1__Q05]]

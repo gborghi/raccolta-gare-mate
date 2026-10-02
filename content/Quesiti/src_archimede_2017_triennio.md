@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** 4
 
 **Answer:** B
-[[src_archimede_2017_triennio__Q01]]
+[[Quesiti/src_archimede_2017_triennio#q01|src_archimede_2017_triennio__Q01]]
 
 
 
@@ -89,7 +89,7 @@ level: triennio
 > - **(E)** 12
 
 **Answer:** E
-[[src_archimede_2017_triennio__Q02]]
+[[Quesiti/src_archimede_2017_triennio#q02|src_archimede_2017_triennio__Q02]]
 
 
 
@@ -131,7 +131,7 @@ level: triennio
 > - **(E)** 6
 
 **Answer:** C
-[[src_archimede_2017_triennio__Q03]]
+[[Quesiti/src_archimede_2017_triennio#q03|src_archimede_2017_triennio__Q03]]
 
 
 
@@ -176,7 +176,7 @@ level: triennio
 > - **(E)** the information provided is insufficient to establish it;
 
 **Answer:** A
-[[src_archimede_2017_triennio__Q04]]
+[[Quesiti/src_archimede_2017_triennio#q04|src_archimede_2017_triennio__Q04]]
 
 
 
@@ -274,7 +274,7 @@ level: triennio
 > - **(E)** 1 2
 
 **Answer:** C
-[[src_archimede_2017_triennio__Q05]]
+[[Quesiti/src_archimede_2017_triennio#q05|src_archimede_2017_triennio__Q05]]
 
 
 
@@ -318,7 +318,7 @@ level: triennio
 > - **(E)** 11
 
 **Answer:** E
-[[src_archimede_2017_triennio__Q06]]
+[[Quesiti/src_archimede_2017_triennio#q06|src_archimede_2017_triennio__Q06]]
 
 
 
@@ -366,7 +366,7 @@ level: triennio
 > - **(E)** MP · NP = LP 2
 
 **Answer:** B
-[[src_archimede_2017_triennio__Q09]]
+[[Quesiti/src_archimede_2017_triennio#q09|src_archimede_2017_triennio__Q09]]
 
 
 
@@ -407,7 +407,7 @@ level: triennio
 > - **(E)** about 34
 
 **Answer:** D
-[[src_archimede_2017_triennio__Q10]]
+[[Quesiti/src_archimede_2017_triennio#q10|src_archimede_2017_triennio__Q10]]
 
 
 
@@ -450,7 +450,7 @@ The odds of Silvia winning after 5 to 4-1
 > - **(E)** 15/16
 
 **Answer:** E
-[[src_archimede_2017_triennio__Q11]]
+[[Quesiti/src_archimede_2017_triennio#q11|src_archimede_2017_triennio__Q11]]
 
 
 
@@ -502,7 +502,7 @@ The odds of Silvia winning after 5 to 4-1
 > - **(E)** can be found in any position from 34a to 49a (included)
 
 **Answer:** E
-[[src_archimede_2017_triennio__Q13]]
+[[Quesiti/src_archimede_2017_triennio#q13|src_archimede_2017_triennio__Q13]]
 
 
 
@@ -550,7 +550,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(E)** 1/4
 
 **Answer:** D
-[[src_archimede_2017_triennio__Q14]]
+[[Quesiti/src_archimede_2017_triennio#q14|src_archimede_2017_triennio__Q14]]
 
 
 
@@ -593,7 +593,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(E)** 3
 
 **Answer:** A
-[[src_archimede_2017_triennio__Q15]]
+[[Quesiti/src_archimede_2017_triennio#q15|src_archimede_2017_triennio__Q15]]
 
 
 
@@ -641,7 +641,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(E)** 28
 
 **Answer:** C
-[[src_archimede_2017_triennio__Q16]]
+[[Quesiti/src_archimede_2017_triennio#q16|src_archimede_2017_triennio__Q16]]
 
 
 
@@ -683,7 +683,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(E)** 1
 
 **Answer:** E
-[[src_archimede_2017_triennio__Q17]]
+[[Quesiti/src_archimede_2017_triennio#q17|src_archimede_2017_triennio__Q17]]
 
 
 
@@ -726,7 +726,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(E)** 196
 
 **Answer:** D
-[[src_archimede_2017_triennio__Q18]]
+[[Quesiti/src_archimede_2017_triennio#q18|src_archimede_2017_triennio__Q18]]
 
 
 
@@ -773,4 +773,4 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(E)** 160 cm2 T2 Italian Mathematical Union PROJECT OLIMPIAD OF MATHEMATICS Ministry of Education, University and Research The Archimedes Games - Triennial competition 23 November 2017 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: e-mail (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 
 **Answer:** B
-[[src_archimede_2017_triennio__Q20]]
+[[Quesiti/src_archimede_2017_triennio#q20|src_archimede_2017_triennio__Q20]]

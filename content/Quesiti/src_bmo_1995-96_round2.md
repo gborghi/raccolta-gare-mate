@@ -34,7 +34,7 @@ level: BMO Round 2
 
 > Determinare tutti gli insiemi di integri non negativi $x$, $y$ e $z$ che soddisfano l'equazione $$2^x + 3^y = z^2.$$
 
-[[src_bmo_1995-96_round2__Q01]]
+[[Quesiti/src_bmo_1995-96_round2#q01|src_bmo_1995-96_round2__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 2
 
 > I lati $a, b, c$ e $u, v, w$ di due triangoli $ABC$ e $UVW$ sono correlati dalle equazioni $$u(v+w-u) = a^2,$$ $$v(w+u-v) = b^2,$$ $$w(u+v-w) = c^2.$$ Prove che il triangolo $ABC$ sia angolato acuto ed esprime gli angoli $U$, $V$, $W$ in termini di $A$, $B$, $C$.
 
-[[src_bmo_1995-96_round2__Q02]]
+[[Quesiti/src_bmo_1995-96_round2#q02|src_bmo_1995-96_round2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 2
 
 > Due cerchi $S_1$ e $S_2$ si toccano all'esterno a $A$; toccano anche un cerchio $S$ all'interno rispettivamente a $B_1$ e $B_2$. $P$ è il punto in cui la tangente interna comune di $S_1$ e $S_2$ incontra l'arco $B_1B_2$ di $S$ che non contiene il punto diametralmente opposto a $A$ di $S$. La linea $PA$ incontra di nuovo $S_1$ a $Q_1$ e incontra di nuovo $S_2$ a $Q_2$. Provare che $B_1B_2$ è una tangente comune di $S_1$ e $S_2$.
 
-[[src_bmo_1995-96_round2__Q03]]
+[[Quesiti/src_bmo_1995-96_round2#q03|src_bmo_1995-96_round2__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 
 > Che $a, b, c, d$ siano numeri reali positivi in modo tale che $$a + b + c + d = ab + bc + cd + da$$ e $$abcd = 27.$$ Trovino tutti i possibili valori di $a$, $b$, $c$, $d$.
 
-[[src_bmo_1995-96_round2__Q04]]
+[[Quesiti/src_bmo_1995-96_round2#q04|src_bmo_1995-96_round2__Q04]]

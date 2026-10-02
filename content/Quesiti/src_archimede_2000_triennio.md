@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** (2 − √ 3)2− √
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q02]]
+[[Quesiti/src_archimede_2000_triennio#q02|src_archimede_2000_triennio__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** I never did.
 
 **Answer:** D
-[[src_archimede_2000_triennio__Q04]]
+[[Quesiti/src_archimede_2000_triennio#q04|src_archimede_2000_triennio__Q04]]
 
 
 
@@ -128,7 +128,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 130°.
 
 **Answer:** B
-[[src_archimede_2000_triennio__Q05]]
+[[Quesiti/src_archimede_2000_triennio#q05|src_archimede_2000_triennio__Q05]]
 
 
 
@@ -171,7 +171,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** more than 10.
 
 **Answer:** A
-[[src_archimede_2000_triennio__Q06]]
+[[Quesiti/src_archimede_2000_triennio#q06|src_archimede_2000_triennio__Q06]]
 
 
 
@@ -213,7 +213,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** √ 41.
 
 **Answer:** E
-[[src_archimede_2000_triennio__Q07]]
+[[Quesiti/src_archimede_2000_triennio#q07|src_archimede_2000_triennio__Q07]]
 
 
 
@@ -257,7 +257,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 210 cm.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q08]]
+[[Quesiti/src_archimede_2000_triennio#q08|src_archimede_2000_triennio__Q08]]
 
 
 
@@ -302,7 +302,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 5 4.
 
 **Answer:** B
-[[src_archimede_2000_triennio__Q10]]
+[[Quesiti/src_archimede_2000_triennio#q10|src_archimede_2000_triennio__Q10]]
 
 
 
@@ -348,7 +348,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** The data is insufficient.
 
 **Answer:** D
-[[src_archimede_2000_triennio__Q11]]
+[[Quesiti/src_archimede_2000_triennio#q11|src_archimede_2000_triennio__Q11]]
 
 
 
@@ -395,7 +395,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** more than EUR 4.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q12]]
+[[Quesiti/src_archimede_2000_triennio#q12|src_archimede_2000_triennio__Q12]]
 
 
 
@@ -442,7 +442,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 5 4.
 
 **Answer:** B
-[[src_archimede_2000_triennio__Q13]]
+[[Quesiti/src_archimede_2000_triennio#q13|src_archimede_2000_triennio__Q13]]
 
 
 
@@ -486,7 +486,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 13:18.
 
 **Answer:** B
-[[src_archimede_2000_triennio__Q14]]
+[[Quesiti/src_archimede_2000_triennio#q14|src_archimede_2000_triennio__Q14]]
 
 
 
@@ -527,7 +527,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 1.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q15]]
+[[Quesiti/src_archimede_2000_triennio#q15|src_archimede_2000_triennio__Q15]]
 
 
 
@@ -583,7 +583,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** d+ 1 2 q d2 + a2 4 .
 
 **Answer:** D
-[[src_archimede_2000_triennio__Q16]]
+[[Quesiti/src_archimede_2000_triennio#q16|src_archimede_2000_triennio__Q16]]
 
 
 
@@ -625,7 +625,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 63 e 69.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q17]]
+[[Quesiti/src_archimede_2000_triennio#q17|src_archimede_2000_triennio__Q17]]
 
 
 
@@ -667,7 +667,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** It's impossible to determine.
 
 **Answer:** A
-[[src_archimede_2000_triennio__Q18]]
+[[Quesiti/src_archimede_2000_triennio#q18|src_archimede_2000_triennio__Q18]]
 
 
 
@@ -708,7 +708,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** √ 3 3 .
 
 **Answer:** B
-[[src_archimede_2000_triennio__Q19]]
+[[Quesiti/src_archimede_2000_triennio#q19|src_archimede_2000_triennio__Q19]]
 
 
 
@@ -750,7 +750,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 48.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q20]]
+[[Quesiti/src_archimede_2000_triennio#q20|src_archimede_2000_triennio__Q20]]
 
 
 
@@ -793,7 +793,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 6.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q21]]
+[[Quesiti/src_archimede_2000_triennio#q21|src_archimede_2000_triennio__Q21]]
 
 
 
@@ -836,7 +836,7 @@ Between the ages of the father and the sum of the children
 > - **(E)** 1 72.
 
 **Answer:** B
-[[src_archimede_2000_triennio__Q22]]
+[[Quesiti/src_archimede_2000_triennio#q22|src_archimede_2000_triennio__Q22]]
 
 
 
@@ -881,4 +881,4 @@ Between the ages of the father and the sum of the children
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[src_archimede_2000_triennio__Q24]]
+[[Quesiti/src_archimede_2000_triennio#q24|src_archimede_2000_triennio__Q24]]

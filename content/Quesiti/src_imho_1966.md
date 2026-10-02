@@ -33,7 +33,7 @@ level: IMO
 
 > In a mathematical contest, three problems, $A$, $B$, $C$ were posed. Among the participants there were 25 students who solved at least one problem each. Of all the contestants who did not solve problem $A$, the number who solved $B$ was twice the number who solved $C$. The number of students who solved only problem was one more than the number of students who solved problem and at least one other problem. Of all the students who solved just one problem, half didn't solve problem. How many students solved only problem?
 
-[[src_imho_1966__Q01]]
+[[Quesiti/src_imho_1966#q01|src_imho_1966__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: IMO
 
 > Let $a$, $b$, $c$ be the lengths of the sides of a triangle, and $\alpha$, $\beta$, $\gamma$, respectively, the angles opposite these sides. Prove that if the triangle is isosceles.
 
-[[src_imho_1966__Q02]]
+[[Quesiti/src_imho_1966#q02|src_imho_1966__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Distance from tetrahedron vertices to circumsphere center inequality
 
 > Prove that the sum of the distances of the vertices of a regular tetrahedron from the center of its circumscribed sphere is less than the sum of the distances of these vertices from any other point in space.
 
-[[src_imho_1966__Q03]]
+[[Quesiti/src_imho_1966#q03|src_imho_1966__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Distance from tetrahedron vertices to circumsphere center inequality
 
 > Prove that for every natural number $n$, and for every real number $x \neq \frac{k\pi}{2^t}$
 
-[[src_imho_1966__Q04]]
+[[Quesiti/src_imho_1966#q04|src_imho_1966__Q04]]
 
 
 
@@ -149,7 +149,7 @@ Distance from tetrahedron vertices to circumsphere center inequality
 
 > Solve the system of equations $$|a_2 - a_1|\, x_1 + |a_3 - a_1|\, x_2 + |a_4 - a_1|\, x_3 = 1$$ $$|a_1 - a_2|\, x_1 + |a_3 - a_2|\, x_2 + |a_4 - a_2|\, x_3 = 1$$ $$|a_1 - a_3|\, x_1 + |a_2 - a_3|\, x_2 + |a_4 - a_3|\, x_3 = 1$$ $$|a_1 - a_4|\, x_1 + |a_2 - a_4|\, x_2 + |a_3 - a_4|\, x_3 = 1$$ where $a_1, a_2, a_3, a_4$ are four different real numbers.
 
-[[src_imho_1966__Q05]]
+[[Quesiti/src_imho_1966#q05|src_imho_1966__Q05]]
 
 
 
@@ -176,4 +176,4 @@ Distance from tetrahedron vertices to circumsphere center inequality
 
 > In the interior of sides $BC$, $CA$, $AB$ of triangle $ABC$, any points $K$, $L$, $M$, respectively, are selected. Prove that the area of at least one of the $AML$, $BKM$, $CLK$ is less than or equal to one quarter of the area of the triangle $ABC$.
 
-[[src_imho_1966__Q06]]
+[[Quesiti/src_imho_1966#q06|src_imho_1966__Q06]]

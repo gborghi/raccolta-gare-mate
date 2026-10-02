@@ -21,7 +21,7 @@ level: JMO Yosen
 > 
 > (Here, $XY$ denotes the length of segment $XY$.)
 
-![[src_jmo22yq_yosen__Q01.png]]
+![[src_jmo22yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -40,10 +40,10 @@ level: JMO Yosen
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo22yq_yosen__Q01.png]]
+![[src_jmo22yq_yosen__q01.png]]
 
 **Risposta:** 10
-[[src_jmo22yq_yosen__Q01]]
+[[Quesiti/src_jmo22yq_yosen#q01|src_jmo22yq_yosen__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: JMO Yosen
 
 > Points $A$, $B$, $C$, $D$ lie on a circle in this order. The angle between the tangent to the circle at $B$ and chord $AB$ is $30^\circ$, and the angle between the tangent at $C$ and chord $CD$ is $10^\circ$. Lines $AB$ and $DC$ are parallel, and $B$ and $C$ lie on opposite sides of the centre with respect to the chord $AD$. Find $\angle BDC$.
 
-![[src_jmo22yq_yosen__Q02.png]]
+![[src_jmo22yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -73,10 +73,10 @@ level: JMO Yosen
 
 > I punti $A$, $B$, $C$, $D$ si trovano su un cerchio in questo ordine. L'angolo tra la tangente al cerchio a $B$ e l'accord $AB$ è $30^\circ$, e l'angolo tra la tangente a $C$ e l'accord $CD$ è $10^\circ$. Le linee $AB$ e $DC$ sono parallele, e $B$ e $C$ si trovano su lati opposti del centro rispetto all'accordo $AD$. Trova $\angle BDC$.
 
-![[src_jmo22yq_yosen__Q02.png]]
+![[src_jmo22yq_yosen__q02.png]]
 
 **Risposta:** 70
-[[src_jmo22yq_yosen__Q02]]
+[[Quesiti/src_jmo22yq_yosen#q02|src_jmo22yq_yosen__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: JMO Yosen
 > $a, b, c, d, e, f, g, h, i$ sono integri reciprocamente distinti, ognuno scelto da $1$ a $9$. Il valore massimo $N$ deve essere $a \times b \times c + d \times e \times f + g \times h \times i$ per tutte le assegnazioni. Trova il valore minimo di $N$.
 
 **Risposta:** 72
-[[src_jmo22yq_yosen__Q03]]
+[[Quesiti/src_jmo22yq_yosen#q03|src_jmo22yq_yosen__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: JMO Yosen
 > $A$ sia un intero positivo che sia un multiple di $3$ ma non un multiple di $9$. Quando ogni cifra di $A$ viene aggiunta a $A$, il risultato è un multiple di $9$. Trova il valore minimo possibile di $A$.
 
 **Risposta:** 138
-[[src_jmo22yq_yosen__Q04]]
+[[Quesiti/src_jmo22yq_yosen#q04|src_jmo22yq_yosen__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: JMO Yosen
 > Trova tutti gli integri positivi il cui prodotto di tutti i divisori positivi è uguale a $2^{240}$.
 
 **Risposta:** $2^{15} \cdot 3^5$
-[[src_jmo22yq_yosen__Q05]]
+[[Quesiti/src_jmo22yq_yosen#q05|src_jmo22yq_yosen__Q05]]
 
 
 
@@ -201,7 +201,7 @@ level: JMO Yosen
 > Trova il numero di tali coloranti.
 
 **Risposta:** 39800
-[[src_jmo22yq_yosen__Q06]]
+[[Quesiti/src_jmo22yq_yosen#q06|src_jmo22yq_yosen__Q06]]
 
 
 
@@ -234,7 +234,7 @@ level: JMO Yosen
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{4\sqrt{21}}{7}
-[[src_jmo22yq_yosen__Q07]]
+[[Quesiti/src_jmo22yq_yosen#q07|src_jmo22yq_yosen__Q07]]
 
 
 
@@ -267,7 +267,7 @@ level: JMO Yosen
 > Condizione: il primo numero scritto è $2012$ e l'ultimo numero scritto è $1$. Dopo aver scritto un numero $n$, il numero successivo scritto è un intero positivo inferiore a $\sqrt{n}$.
 
 **Risposta:** 201
-[[src_jmo22yq_yosen__Q08]]
+[[Quesiti/src_jmo22yq_yosen#q08|src_jmo22yq_yosen__Q08]]
 
 
 
@@ -296,7 +296,7 @@ level: JMO Yosen
 > I giocatori A e B scrivono ciascuno due numeri interi su una lavagna. Il prodotto dei due numeri di A è il doppio della somma dei due numeri di B, e la somma dei due numeri di A è almeno grande come il prodotto dei due numeri di B. Trova tutti i valori possibili della somma dei due numeri di B. (I quattro numeri scritti non sono necessariamente distinti.)
 
 **Risposta:** 8, 9, 10, 13, 17, 19, 27
-[[src_jmo22yq_yosen__Q09]]
+[[Quesiti/src_jmo22yq_yosen#q09|src_jmo22yq_yosen__Q09]]
 
 
 
@@ -327,7 +327,7 @@ level: JMO Yosen
 > Quanti integri positivi $n$ soddisfano $$\left\lfloor \frac{1000000}{n} \right\rfloor - \left\lfloor \frac{1000000}{n+1} \right\rfloor = 1?$$ (Qui $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$.)
 
 **Risposta:** 1172
-[[src_jmo22yq_yosen__Q10]]
+[[Quesiti/src_jmo22yq_yosen#q10|src_jmo22yq_yosen__Q10]]
 
 
 
@@ -364,7 +364,7 @@ level: JMO Yosen
 > Trova il numero di tali coloranti. (Le colorazioni legate alla rotazione o alla riflessione sono conteggiate come diverse.)
 
 **Risposta:** \binom{2n}{n}^2
-[[src_jmo22yq_yosen__Q11]]
+[[Quesiti/src_jmo22yq_yosen#q11|src_jmo22yq_yosen__Q11]]
 
 
 
@@ -382,7 +382,7 @@ level: JMO Yosen
 > 
 > (Here, $XY$ denotes the length of segment $XY$.)
 
-![[src_jmo22yq_yosen__Q12.png]]
+![[src_jmo22yq_yosen__q12.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -403,7 +403,7 @@ level: JMO Yosen
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo22yq_yosen__Q12.png]]
+![[src_jmo22yq_yosen__q12.png]]
 
 **Risposta:** 4\sqrt{61}
-[[src_jmo22yq_yosen__Q12]]
+[[Quesiti/src_jmo22yq_yosen#q12|src_jmo22yq_yosen__Q12]]

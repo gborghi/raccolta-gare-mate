@@ -41,7 +41,7 @@ level: OBM Nível 3
 > 
 > b) dimostrare che esiste un $s = 0{,}s_1 s_2 s_3 \ldots$ razionale e un $\beta = 0{,}b_1 b_2 b_3 \ldots$ irrazionale tale che per tutti $N \ge 2017$ il numero degli indici $1 \le i \le N$ per i quali $s_i \ne b_i$ è inferiore o uguale a $\frac{N}{2017}$.
 
-[[src_obm_2017_n3_f3__Q01]]
+[[Quesiti/src_obm_2017_n3_f3#q01|src_obm_2017_n3_f3__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: OBM Nível 3
 
 > $n \ge 3$ sia un numero intero. Prova che per ogni intero $k$ con $1 \le k \le \binom{n}{2}$ esiste un insieme $A$ di $n$ diversi interi positivi in modo tale che l'insieme $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$ (ottenuto dai più grandi divisori comuni di tutte le coppie di elementi distinti di $A$) contiene esattamente $k$ elementi distinti.
 
-[[src_obm_2017_n3_f3__Q02]]
+[[Quesiti/src_obm_2017_n3_f3#q02|src_obm_2017_n3_f3__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: OBM Nível 3
 
 > Un quadrilaterale $ABCD$ ha un cerchio inciso $\omega$ ed è tale che i raggi $AB$ e $DC$ si incontrino in un punto $P$ e i raggi $AD$ e $BC$ si incontrino in un punto $Q$. Le linee $AC$ e $PQ$ si incontrano in un punto $R$. $T$ deve essere il punto di $\omega$ più vicino alla linea $PQ$. Prova che la linea $RT$ passa attraverso l'incentro del triangolo $PQC$.
 
-[[src_obm_2017_n3_f3__Q03]]
+[[Quesiti/src_obm_2017_n3_f3#q03|src_obm_2017_n3_f3__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: OBM Nível 3
 > 
 > Determine the smallest $n$ ($n \ge 4$) such that, given any subset of $n$ digits from $1$ to $9$, it is possible to elaborate a password that involves exactly those digits in some order.
 
-![[src_obm_2017_n3_f3__Q04.png]]
+![[src_obm_2017_n3_f3__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
@@ -150,9 +150,9 @@ level: OBM Nível 3
 > 
 > Determinare la minima $n$ ($n \ge 4$) in modo tale che, data qualsiasi sottoinsieme di cifre $n$ da $1$ a $9$, sia possibile elaborare una password che coinvolga esattamente quelle cifre in un certo ordine.
 
-![[src_obm_2017_n3_f3__Q04.png]]
+![[src_obm_2017_n3_f3__q04.png]]
 
-[[src_obm_2017_n3_f3__Q04]]
+[[Quesiti/src_obm_2017_n3_f3#q04|src_obm_2017_n3_f3__Q04]]
 
 
 
@@ -179,7 +179,7 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, $r_A$ sia la linea che attraversa il punto medio di $BC$ e che sia perpendicolare al bisettore interno di $\angle BAC$. Definire $r_B$ e $r_C$ nello stesso modo. Che $H$ e $I$ siano rispettivamente l'ortocentro e l'incentro di $ABC$. Supponiamo che le tre linee $r_A$, $r_B$, $r_C$ definiscano un triangolo. Prova che il centro circoncentrale di questo triangolo è il punto medio di $HI$.
 
-[[src_obm_2017_n3_f3__Q05]]
+[[Quesiti/src_obm_2017_n3_f3#q05|src_obm_2017_n3_f3__Q05]]
 
 
 
@@ -206,4 +206,4 @@ level: OBM Nível 3
 
 > Che $a$ sia un intero positivo e $p$ un primo divisore di $a^3 - 3a + 1$ con $p \ne 3$. Provare che $p$ è di forma $9k + 1$ o $9k - 1$, con $k$ un numero intero.
 
-[[src_obm_2017_n3_f3__Q06]]
+[[Quesiti/src_obm_2017_n3_f3#q06|src_obm_2017_n3_f3__Q06]]

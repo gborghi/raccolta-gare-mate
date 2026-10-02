@@ -21,7 +21,7 @@ level: BMO Round 2
 > 
 > Find the smallest possible value of $a + b + c$ for which such an angle unit can be chosen, and mark the corresponding values of the angles $a, \ldots, k$ in the diagram.
 
-![[src_bmo2_1993__Q01.png]]
+![[src_bmo2_1993__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -39,9 +39,9 @@ level: BMO Round 2
 > 
 > Trova il minimo valore possibile di $a + b + c$ per il quale si può scegliere un'unità di angolo e segna i valori corrispondenti degli angoli $a, \ldots, k$ nel diagramma.
 
-![[src_bmo2_1993__Q01.png]]
+![[src_bmo2_1993__q01.png]]
 
-[[src_bmo2_1993__Q01]]
+[[Quesiti/src_bmo2_1993#q01|src_bmo2_1993__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 2
 
 > Let $m = 2^p - 1$, dove $p$ è un numero primo superiore a $3$. Prove che $2^{m-1}$ ha un residuo $1$ diviso per $m$.
 
-[[src_bmo2_1993__Q02]]
+[[Quesiti/src_bmo2_1993#q02|src_bmo2_1993__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: BMO Round 2
 
 > Che $P$ sia un punto interno del triangolo $ABC$ e che $\alpha$, $\beta$, $\gamma$ siano definiti da $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$ Provi che $$PA \cdot \sin \alpha = PB \cdot \sin \beta = PC \cdot \sin \gamma.$$
 
-[[src_bmo2_1993__Q03]]
+[[Quesiti/src_bmo2_1993#q03|src_bmo2_1993__Q03]]
 
 
 
@@ -125,4 +125,4 @@ level: BMO Round 2
 
 > Indichiamo $Z(m, n)$ l'insieme di tutti gli integri positivi a $m$-cifre (in base $10$) che hanno precisamente $a$, $b$ due, $c$ tre, $\ldots$, $n$ nove (in modo che $a + b + \cdots + n \le m$, con le cifre rimanenti siano zeri). Per ogni $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti di tutte le differenze in coppia dei numeri consecutivi di $N$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
 
-[[src_bmo2_1993__Q04]]
+[[Quesiti/src_bmo2_1993#q04|src_bmo2_1993__Q04]]

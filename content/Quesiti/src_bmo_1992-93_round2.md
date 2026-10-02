@@ -23,7 +23,7 @@ level: BMO Round 2
 > 
 > Find the smallest possible value of $a + b + c$ for which such an angle unit can be chosen, and mark the corresponding values of the angles $a$ to $\ell$ in the diagram.
 
-![[src_bmo_1992-93_round2__Q01.png]]
+![[src_bmo_1992-93_round2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -43,9 +43,9 @@ level: BMO Round 2
 > 
 > Trova il minimo valore possibile di $a + b + c$ per il quale si può scegliere un'unità di angolo e segna i valori corrispondenti degli angoli $a$ a $\ell$ nel diagramma.
 
-![[src_bmo_1992-93_round2__Q01.png]]
+![[src_bmo_1992-93_round2__q01.png]]
 
-[[src_bmo_1992-93_round2__Q01]]
+[[Quesiti/src_bmo_1992-93_round2#q01|src_bmo_1992-93_round2__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: BMO Round 2
 
 > Let $m = (4^p - 1)/3$, dove $p$ è un numero primo superiore a $3$. Prove che $2^{m-1}$ ha un residuo $1$ diviso per $m$.
 
-[[src_bmo_1992-93_round2__Q02]]
+[[Quesiti/src_bmo_1992-93_round2#q02|src_bmo_1992-93_round2__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: BMO Round 2
 
 > Che $P$ sia un punto interno del triangolo $ABC$ e che $\alpha, \beta, \gamma$ sia definito da $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$ Provi che $$PA \frac{\sin \angle BAC}{\sin \alpha} = PB \frac{\sin \angle CBA}{\sin \beta} = PC \frac{\sin \angle ACB}{\sin \gamma}.$$
 
-[[src_bmo_1992-93_round2__Q03]]
+[[Quesiti/src_bmo_1992-93_round2#q03|src_bmo_1992-93_round2__Q03]]
 
 
 
@@ -129,4 +129,4 @@ level: BMO Round 2
 
 > L'insieme $Z(m, n)$ è composto da tutti gli enti $N$ con cifre $mn$ che hanno precisamente $n$ uno, $n$ due, $n$ tre, $\ldots$, $n$ $m$s. Per ogni numero intero $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti delle differenze di tutte le coppie di cifre consecutive. Ad esempio, $122313 \in Z(3, 2)$ con $d(122313) = 1 + 0 + 1 + 2 + 2 = 6$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
 
-[[src_bmo_1992-93_round2__Q04]]
+[[Quesiti/src_bmo_1992-93_round2#q04|src_bmo_1992-93_round2__Q04]]

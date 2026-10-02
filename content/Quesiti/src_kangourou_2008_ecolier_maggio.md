@@ -34,7 +34,7 @@ level: kangourou
 > There's always four digits on my digital watch. It's now 8:08. How long ago did the same four digits last appear before now on my watch (not necessarily in the same order)?
 
 **Answer:** 11h48m
-[[src_kangourou_2008_ecolier_maggio__QE1]]
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe1|src_kangourou_2008_ecolier_maggio__QE1]]
 
 
 
@@ -45,7 +45,7 @@ level: kangourou
 
 *Eliminare due caselle per uguaglianza vera*
 
-![[src_kangourou_2008_ecolier_maggio__probE2.png]]
+![[src_kangourou_2008_ecolier_maggio__probe2.png]]
 
 > Nella griglia sottostante non si può eliminare il simbolo $=$, ma si possono eliminare due caselle, in modo che l'uguaglianza che ne risulta sia verificata. Scrivi tale uguaglianza.
 > 
@@ -63,14 +63,14 @@ level: kangourou
 
 *Remove two boxes for true equality*
 
-![[src_kangourou_2008_ecolier_maggio__probE2.png]]
+![[src_kangourou_2008_ecolier_maggio__probe2.png]]
 
 > In the underlying grid the $=$ symbol cannot be removed, but two boxes can be removed so that the resulting equality is verified. Write that equation.
 > 
 > The grid shall contain the following sequence boxes: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
 
 **Answer:** uguaglianza
-[[src_kangourou_2008_ecolier_maggio__QE2]]
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe2|src_kangourou_2008_ecolier_maggio__QE2]]
 
 
 
@@ -105,7 +105,7 @@ level: kangourou
 > What is the maximum number of colors that can be present in the bags?
 
 **Answer:** 9
-[[src_kangourou_2008_ecolier_maggio__QE3]]
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe3|src_kangourou_2008_ecolier_maggio__QE3]]
 
 
 
@@ -133,7 +133,7 @@ level: kangourou
 > Anna is playing like this: she picks an integer greater than $2008$, multiplies it for herself and sums all the numbers of the result she found. What's the lowest amount you could get?
 
 **Answer:** 1
-[[src_kangourou_2008_ecolier_maggio__QE4]]
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe4|src_kangourou_2008_ecolier_maggio__QE4]]
 
 
 
@@ -144,7 +144,7 @@ level: kangourou
 
 *Dopo quanti secondi Pimpy di nuovo accanto ad Arturo*
 
-![[src_kangourou_2008_ecolier_maggio__probE5.png]]
+![[src_kangourou_2008_ecolier_maggio__probe5.png]]
 
 > Arturo il canguro e la sua sorellina Pimpy stanno giocando a correre sul contorno di un'aiuola a forma di triangolo equilatero. Entrambi fanno un salto ogni secondo, ma Arturo copre la distanza di un lato con 10 salti mentre Pimpy ha bisogno di 15 salti. Se partono insieme e continuano entrambi a correre nello stesso verso, dopo quanti secondi Pimpy si trova per la prima volta di nuovo di fianco ad Arturo?
 
@@ -161,12 +161,12 @@ level: kangourou
 
 After all those seconds, Pimpy's back next to Arturo.
 
-![[src_kangourou_2008_ecolier_maggio__probE5.png]]
+![[src_kangourou_2008_ecolier_maggio__probe5.png]]
 
 > Arthur the Kangaroo and his little sister Pimpy are playing a run on the outline of an equilateral triangle-shaped owl. They both make one jump every second, but Arturo covers the distance on one side with 10 jumps while Pimpy needs 15 jumps. If they start together and they both continue to run in the same direction, after how many seconds does Pimpy find himself next to Arthur again for the first time?
 
 **Answer:** 90
-[[src_kangourou_2008_ecolier_maggio__QE5]]
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe5|src_kangourou_2008_ecolier_maggio__QE5]]
 
 
 
@@ -177,7 +177,7 @@ After all those seconds, Pimpy's back next to Arturo.
 
 *Tagliare e ricomporre la torta (due tagli)*
 
-![[src_kangourou_2008_ecolier_maggio__probE6.png]]
+![[src_kangourou_2008_ecolier_maggio__probe6.png]]
 
 > Al pasticcere Claudio è stata commissionata una grande torta avente la forma del triangolo disegnato sul foglio quadrettato a destra (il lato di ogni quadretto rappresenta 5 centimetri). Dopo averla farcita di crema Claudio si accorge di averla fatta delle dimensioni giuste, ma della forma disegnata a sinistra. Naturalmente la torta non può essere capovolta! Il suo aiutante gli suggerisce che per soddisfare il cliente basta che, prima di coprirla con la glassa, tagli due grosse fette e le accosti diversamente a quel che resta della torta. Al posto di Claudio come faresti? (vedi figura)
 
@@ -193,9 +193,9 @@ After all those seconds, Pimpy's back next to Arturo.
 
 *Cutting and reconstituting the cake (two cuts) *
 
-![[src_kangourou_2008_ecolier_maggio__probE6.png]]
+![[src_kangourou_2008_ecolier_maggio__probe6.png]]
 
 > Claudio was commissioned to make a large cake in the shape of a triangle drawn on the square sheet on the right (the side of each square is 5 centimeters). After filling it with cream, Claudio realizes that it is the right size, but the shape drawn on the left. Of course the cake can't be turned upside down! His assistant suggests that in order to satisfy the customer, he should cut two large slices and approach the cake differently from what is left of the cake. If you were Claudio, what would you do? (see figure)
 
 **Answer:** costruzione
-[[src_kangourou_2008_ecolier_maggio__QE6]]
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe6|src_kangourou_2008_ecolier_maggio__QE6]]

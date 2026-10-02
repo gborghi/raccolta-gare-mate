@@ -33,7 +33,7 @@ level: Coupe Animath Automne
 
 > Fred e Sarah sono i figli maggiori della stessa famiglia numerosa. Fred ha la metà dei fratelli rispetto alle sorelle, mentre Sarah ha le sorelle uguali ai fratelli. Quanti bambini ci sono in questa famiglia?
 
-[[src_canimath_2012_automne__Q01]]
+[[Quesiti/src_canimath_2012_automne#q01|src_canimath_2012_automne__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Coupe Animath Automne
 > 
 > (Ovviamente non abbiamo bisogno di contare il tempo perso durante le manipolazioni.)
 
-[[src_canimath_2012_automne__Q02]]
+[[Quesiti/src_canimath_2012_automne#q02|src_canimath_2012_automne__Q02]]
 
 
 
@@ -85,7 +85,7 @@ level: Coupe Animath Automne
 
 > On a rectangular box of dimensions $6\,\text{cm} \times 4\,\text{cm}$, a ribbon has been placed diagonally as shown in the figure below (the ribbon is represented in grey in the figure). It has been measured that $AB = 1\,\text{cm}$ and $BC = 5\,\text{cm}$. Compute the width of the ribbon.
 
-![[src_canimath_2012_automne__Q03.png]]
+![[src_canimath_2012_automne__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -101,9 +101,9 @@ level: Coupe Animath Automne
 
 > Su una scatola rettangolare di dimensioni $6\,\text{cm} \times 4\,\text{cm}$, un nastro è stato posizionato diagonalmente come mostrato nella figura di seguito (il nastro è rappresentato in grigio nella figura). È stato misurato che $AB = 1\,\text{cm}$ e $BC = 5\,\text{cm}$. Calcola la larghezza del nastro.
 
-![[src_canimath_2012_automne__Q03.png]]
+![[src_canimath_2012_automne__q03.png]]
 
-[[src_canimath_2012_automne__Q03]]
+[[Quesiti/src_canimath_2012_automne#q03|src_canimath_2012_automne__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: Coupe Animath Automne
 
 > Circa lo stesso tavolo si siedono persone di altezza diversa. Diciamo che una persona è *grande* (alta) se è più alta dei suoi due vicini, e *petite* (quota) se è più bassa dei suoi due vicini. Prova che il numero di persone alte intorno al tavolo è uguale al numero di persone basse.
 
-[[src_canimath_2012_automne__Q04]]
+[[Quesiti/src_canimath_2012_automne#q04|src_canimath_2012_automne__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: Coupe Animath Automne
 
 > Provare che il numero $10^{2011} + 10^{2012} + 10^{2013}$ è divisibile da $37$.
 
-[[src_canimath_2012_automne__Q05]]
+[[Quesiti/src_canimath_2012_automne#q05|src_canimath_2012_automne__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: Coupe Animath Automne
 
 > Consider a regular five-pointed star (see figure). Determine the angle $x$ indicated in the figure.
 
-![[src_canimath_2012_automne__Q06.png]]
+![[src_canimath_2012_automne__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -186,10 +186,10 @@ level: Coupe Animath Automne
 
 > Considerate una stella a cinque punte (vedi figura). Determinare l'angolo $x$ indicato nella figura.
 
-![[src_canimath_2012_automne__Q06.png]]
+![[src_canimath_2012_automne__q06.png]]
 
 **Risposta:** 36^\circ
-[[src_canimath_2012_automne__Q06]]
+[[Quesiti/src_canimath_2012_automne#q06|src_canimath_2012_automne__Q06]]
 
 
 
@@ -216,7 +216,7 @@ level: Coupe Animath Automne
 
 > Provare che il numero $10^{2011} + 10^{2012} + 10^{2013}$ è divisibile da $37$.
 
-[[src_canimath_2012_automne__Q07]]
+[[Quesiti/src_canimath_2012_automne#q07|src_canimath_2012_automne__Q07]]
 
 
 
@@ -229,7 +229,7 @@ level: Coupe Animath Automne
 
 > Consider a regular five-pointed star (see figure). Determine the angle $x$ indicated in the figure.
 
-![[src_canimath_2012_automne__Q08.png]]
+![[src_canimath_2012_automne__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -245,10 +245,10 @@ level: Coupe Animath Automne
 
 > Considerate una stella a cinque punte (vedi figura). Determinare l'angolo $x$ indicato nella figura.
 
-![[src_canimath_2012_automne__Q08.png]]
+![[src_canimath_2012_automne__q08.png]]
 
 **Risposta:** 36^\circ
-[[src_canimath_2012_automne__Q08]]
+[[Quesiti/src_canimath_2012_automne#q08|src_canimath_2012_automne__Q08]]
 
 
 
@@ -279,7 +279,7 @@ level: Coupe Animath Automne
 > 
 > (*Ricordiamo che un numero primo è un numero intero maggiore o uguale a $2$ che è divisibile solo da $1$ e da sé stesso.*)
 
-[[src_canimath_2012_automne__Q09]]
+[[Quesiti/src_canimath_2012_automne#q09|src_canimath_2012_automne__Q09]]
 
 
 
@@ -306,7 +306,7 @@ level: Coupe Animath Automne
 
 > Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di $\widehat{ABC}$?
 
-[[src_canimath_2012_automne__Q10]]
+[[Quesiti/src_canimath_2012_automne#q10|src_canimath_2012_automne__Q10]]
 
 
 
@@ -341,7 +341,7 @@ level: Coupe Animath Automne
 > 
 > b) Quali sono i numeri interi $n$ per i quali si può trovare una disposizione delle persone contenente esattamente $n$ persone alte?
 
-[[src_canimath_2012_automne__Q11]]
+[[Quesiti/src_canimath_2012_automne#q11|src_canimath_2012_automne__Q11]]
 
 
 
@@ -370,4 +370,4 @@ level: Coupe Animath Automne
 
 > Prova che, per tutti i valori reali $x$ e $y$, $$5x^2 + y^2 + 4 \ge 4x + 4xy.$$ Per quali valori di $x$ e $y$ vale l'uguaglianza?
 
-[[src_canimath_2012_automne__Q12]]
+[[Quesiti/src_canimath_2012_automne#q12|src_canimath_2012_automne__Q12]]

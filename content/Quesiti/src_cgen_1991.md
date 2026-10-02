@@ -47,7 +47,7 @@ level: Concours Général
 > 
 > Determinare i numeri naturali non zero $p$ in modo tale che, per ogni numero naturale non zero $n$, $S_{n,p}$ sia un quadrato perfetto.
 
-[[src_cgen_1991__Q01]]
+[[Quesiti/src_cgen_1991#q01|src_cgen_1991__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: Concours Général
 > 
 > **2.** Determina il limite della sequenza con termine generale $f_n(n)$.
 
-[[src_cgen_1991__Q02]]
+[[Quesiti/src_cgen_1991#q02|src_cgen_1991__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: Concours Général
 > 
 > Prova che: $$R^2 = OH^2 + 2SI^2,$$ dove $I$ indica un punto che appare nella configurazione. *(Avvertimento: l'ultimo termine $2SI^2$ può comportare un punto $I$ non specificamente nominato nella parte leggibile dell'immagine; potrebbe essere $2SH^2$ o $2\,\Omega I^2$. Vedi avvertenze.)*
 
-[[src_cgen_1991__Q03]]
+[[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
 
 
 
@@ -157,7 +157,7 @@ level: Concours Général
 
 > $p$ sia un dato numero naturale e $n = 2^p$. Si considerano i sottoinsiemi $A$ di $E = \{1, 2, \ldots, n\}$ che possiedono la seguente proprietà: $$\text{if } x \in A, \text{ then } 2x \notin A.$$ Determinare il numero massimo di elementi di tale sottoinsieme $A$.
 
-[[src_cgen_1991__Q04]]
+[[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
 
 
 
@@ -199,4 +199,4 @@ level: Concours Général
 > 
 > Prova che esiste un vertice $S$ del pentagono tale che: $$SA_1 \cdot SA_2 \cdot SA_3 \cdot SA_4 \cdot SA_5 \ge R^5.$$
 
-[[src_cgen_1991__Q05]]
+[[Quesiti/src_cgen_1991#q05|src_cgen_1991__Q05]]

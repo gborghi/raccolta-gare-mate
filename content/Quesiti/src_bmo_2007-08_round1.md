@@ -36,7 +36,7 @@ level: BMO Round 1
 
 > Trova il valore di $$\frac{1^4 + 2007^4 + 2008^4}{1^2 + 2007^2 + 2008^2}.$$
 
-[[src_bmo_2007-08_round1__Q01]]
+[[Quesiti/src_bmo_2007-08_round1#q01|src_bmo_2007-08_round1__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: BMO Round 1
 
 > Trova tutte le soluzioni in numeri interi positivi $x$, $y$, $z$ alle equazioni simultanee $$x + y - z = 12,$$ $$x^2 + y^2 - z^2 = 12.$$
 
-[[src_bmo_2007-08_round1__Q02]]
+[[Quesiti/src_bmo_2007-08_round1#q02|src_bmo_2007-08_round1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 
 > $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$ o $C$) sul cerchio attraverso $A$, $B$ e $C$, sullo stesso lato dell'accordo $BC$ come $A$, e il $P$ deve essere l'altra estremità del diametro attraverso $Q$. Le perpendicolari da $Q$ a $CA$ e $AB$ soddisfano rispettivamente la linea $PA$ a $S$ e $T$. Il piede della perpendicolare da $P$ alla linea $BC$ è $L$. Mostra che $LS = LT$.
 
-[[src_bmo_2007-08_round1__Q03]]
+[[Quesiti/src_bmo_2007-08_round1#q03|src_bmo_2007-08_round1__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: BMO Round 1
 
 > $n$ sia un numero intero. Mostrare che, se $2 + 2\sqrt{1 + 12n^2}$ è un intero, allora è un quadrato perfetto.
 
-[[src_bmo_2007-08_round1__Q04]]
+[[Quesiti/src_bmo_2007-08_round1#q04|src_bmo_2007-08_round1__Q04]]
 
 
 
@@ -158,7 +158,7 @@ level: BMO Round 1
 
 > $P$ sia un punto interno del triangolo $ABC$ e $\alpha$, $\beta$, $\gamma$ siano definiti da $$\alpha = \angle BPC - \angle BAC,$$ $$\beta = \angle CPA - \angle CBA,$$ $$\gamma = \angle APB - \angle ACB.$$ Dimostra che $$PA \cdot \frac{\sin \angle BAC}{\sin \alpha} = PB \cdot \frac{\sin \angle CBA}{\sin \beta} = PC \cdot \frac{\sin \angle ACB}{\sin \gamma}.$$
 
-[[src_bmo_2007-08_round1__Q05]]
+[[Quesiti/src_bmo_2007-08_round1#q05|src_bmo_2007-08_round1__Q05]]
 
 
 
@@ -194,4 +194,4 @@ level: BMO Round 1
 > 
 > (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi $2007$ è $f(n) = 2n$?
 
-[[src_bmo_2007-08_round1__Q06]]
+[[Quesiti/src_bmo_2007-08_round1#q06|src_bmo_2007-08_round1__Q06]]

@@ -34,7 +34,7 @@ level: JJMO
 
 > Trova il valore di $$103 \times 103 - 97 \times 97.$$
 
-[[src_jjmo2q__Q01]]
+[[Quesiti/src_jjmo2q#q01|src_jjmo2q__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO
 
 > C'è un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Quando $\angle B$ è $48^\circ$ maggiore di $\angle C$, trovare $\angle B$.
 
-[[src_jjmo2q__Q02]]
+[[Quesiti/src_jjmo2q#q02|src_jjmo2q__Q02]]
 
 
 
@@ -86,7 +86,7 @@ level: JJMO
 
 > Nel piano c'è un esagono regolare con lunghezza laterale $1$. Considera la regione costituita da tutti i punti la cui distanza da almeno una delle vertici dell'esagono regolare è massima $1$. $S$ sia l'area della parte di questa regione che si trova al di fuori dell'esagono regolare. Se $T$ è l'area di un esagono regolare con lunghezza laterale $1$, si trova $S - T$. Qui, prendere il rapporto della circonferenza di un cerchio al suo diametro a $\pi$.
 
-[[src_jjmo2q__Q03]]
+[[Quesiti/src_jjmo2q#q03|src_jjmo2q__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: JJMO
 
 > $m, n$ sono numeri interi positivi che soddisfano le seguenti condizioni: $$\begin{cases} 3m - 1 = n \\ (n - 7)m = 16 \end{cases}$$ Trova $n$.
 
-[[src_jjmo2q__Q04]]
+[[Quesiti/src_jjmo2q#q04|src_jjmo2q__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: JJMO
 
 > Risolvi il seguente criptaritmo e scrivi il numero corrispondente a $\mathrm{IMO}$. L'aggiunta viene effettuata colonnalmente come mostrato (le cifre di ciascuna riga sono allineate a destra): $$\begin{array}{cccc} & I & M & O \\ & & & \& \\ & J & M & O \\ & & & \& \\ + & & & \& \\ \hline J & J & M & O \end{array}$$ Qui, risolvere un criptaritmo significa determinare la corrispondenza tra lettere e cifre, secondo le condizioni di seguito, in modo che l'uguaglianza di cui sopra sia valida. - ciascuna delle $I, M, O, \&$ corrisponde a una delle cifre $0, 1, 2, \ldots, 9$. La stessa lettera corrisponde alla stessa cifra, e lettere diverse corrisponde a cifre diverse. Pertanto $\mathrm{IMO}$ indica il numero $3$ di cifre formato scrivendo la cifra corrispondente a $I$, la cifra corrispondente a $M$ e la cifra corrispondente a $O$, in tale ordine. - Le prime lettere $I, \&, J$ non corrispondono a $0$. - La cifra corrispondente a $I$ non è necessariamente $1$, e la cifra corrispondente a $O$ non è necessariamente $0$.
 
-[[src_jjmo2q__Q05]]
+[[Quesiti/src_jjmo2q#q05|src_jjmo2q__Q05]]
 
 
 
@@ -174,7 +174,7 @@ level: JJMO
 
 > Un mago può usare due incantesimi, l'incantesimo A e l'incantesimo B. Quando viene utilizzato il carattere A, in quel momento ogni fragola si trasforma contemporaneamente in fragola $1$ e banana $1$, e ogni banana si trasforma contemporaneamente in fragola $1$ e banana $1$. Quando si utilizza l'Espressione B, ogni fragola si trasforma in $1$ banana, e ogni banana si trasforma in $1$ fragola e $1$ banana. Partendo da uno stato con fragole $1$ e banane $1$, utilizzando gli incantesimi A e B un certo numero di volte, il mago vuole raggiungere uno stato con fragole $15$ e banane $877$. Qual è il numero minimo totale di volte che devono essere usate le incantesime?
 
-[[src_jjmo2q__Q06]]
+[[Quesiti/src_jjmo2q#q06|src_jjmo2q__Q06]]
 
 
 
@@ -201,7 +201,7 @@ level: JJMO
 
 > Tra i modi per organizzare un totale di sfere $8$ dei tre colori rosso, blu e giallo di fila, quante ci sono in cui il numero di sfere rosse utilizzate è strano? Supponiamo che ci siano sufficienti palline di ogni colore, e che ci siano colori che non vengono utilizzati affatto.
 
-[[src_jjmo2q__Q07]]
+[[Quesiti/src_jjmo2q#q07|src_jjmo2q__Q07]]
 
 
 
@@ -228,7 +228,7 @@ level: JJMO
 
 > C'è un triangolo $ABC$ con $BC = 3$, $CA = 2$, $AB = 4$. Prendi due punti $D, E$ sul lato $AB$, come $AD = 1$ e $\angle ACD = \angle BCE$. Trova la lunghezza del segmento $BE$.
 
-[[src_jjmo2q__Q08]]
+[[Quesiti/src_jjmo2q#q08|src_jjmo2q__Q08]]
 
 
 
@@ -255,7 +255,7 @@ level: JJMO
 
 > Ci sono politici $7$, e ci sono diverse fazioni. Una fazione è un gruppo al quale appartiene almeno un politico. Per quanto riguarda due fazioni, essa sostiene che, se esiste un politico appartenente a entrambe, allora necessariamente una delle due fazioni contiene l'altra. Trova il massimo valore possibile del numero di fazioni. Qui, un gruppo composto solo da persone $1$, e il gruppo composto da tutte le persone $7$, sono considerati anche faczioni.
 
-[[src_jjmo2q__Q09]]
+[[Quesiti/src_jjmo2q#q09|src_jjmo2q__Q09]]
 
 
 
@@ -283,7 +283,7 @@ level: JJMO
 
 > Nel quadrilaterale $ABCD$, lasciare che i segmenti $AC$ e $BD$ si incrociano al punto $P$. Inoltre, $$AB = BP = AD, \qquad \angle ABC = \angle BDC, \qquad \angle BCD = \angle CAD$$ attenuare. Trova $\angle BCD$.
 
-[[src_jjmo2q__Q10]]
+[[Quesiti/src_jjmo2q#q10|src_jjmo2q__Q10]]
 
 
 
@@ -334,7 +334,7 @@ level: JJMO
 > 
 > Allievo A: "Per esempio, da $(2,3,5)$ possiamo fare $(6,5,0)$. " Insegnante: "Allora, possiamo fare $(3,4,2)$?" Allievo B: "Può essere fatto da $\boxed{\text{(a)}}$ o $\boxed{\text{(b)}}$". Insegnante: "E che mi dici di $(4,3,7)$?" Allievo B: "Hmm... Ah, capisco! Se $(4,3,7)$ può essere fatto da $(a,b,c)$, allora $a*b$ è un multiple di $\boxed{\text{(c)}}$, quindi $(a*b)\cdot(b*c)\cdot(c*a)$ sarebbe un multiple di $\boxed{\text{(c)}}$. "Studente A: "Ma $3$ e $7$ non sono multipli di $\boxed{\text{(c)}}$, quindi non può essere fatto. "Studente B: "Pensando allo stesso modo, in generale un triplo in cui esattamente $\boxed{\text{(d)}}$ delle tre voci è un multiple di $\boxed{\text{(c)}}$ non può essere fatto". Se $(4,3,4)$ può essere fatto da $(a,b,c)$, allora il rimanente di $a^2 b^2 c^2$ dopo la divisione da $5$ è $\boxed{\text{(f)}}$, vero? Ma non c'è un intero il cui quadrato ha un residuo $\boxed{\text{(f)}}$ quando viene diviso da $5$". Studente A: "Poiché gli unici residui possibili quando un intero è quadrato e diviso da $5$ sono $\boxed{\text{(g)}}$, vediamo che ci sono ancora altri triples che non possono essere fatti". Infatti, ogni triplo diverso da quelli che sono stati dimostrati impossibili dalla discussione finora può essere fatto. Allievo A, per favore, verificate questo". Allievo A: (30 minuti dopo) "Fatto!" Allievo B: "In altre parole, il numero totale di triples che può essere prodotto da questa operazione è $\boxed{\text{(h)}}$".
 
-[[src_jjmo2q__Q11]]
+[[Quesiti/src_jjmo2q#q11|src_jjmo2q__Q11]]
 
 
 
@@ -361,4 +361,4 @@ level: JJMO
 
 > Dividere $2^{2004}$ per ciascuno di $1, 2, 3, \ldots, 2^{2004}$ e trovare il quotiente e il rimanente in ogni caso. Quanti numeri interi distinti appaiono come quotienti?
 
-[[src_jjmo2q__Q12]]
+[[Quesiti/src_jjmo2q#q12|src_jjmo2q__Q12]]

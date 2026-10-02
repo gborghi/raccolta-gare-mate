@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Let $f(x) = x^2 + 2007x + 1$. Prova che per ogni intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ha almeno una soluzione reale.
 
-[[src_obm_2007_n3_f3__Q01]]
+[[Quesiti/src_obm_2007_n3_f3#q01|src_obm_2007_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > Per quanti integri $c$, con $-2007 \le c \le 2007$, esiste un intero $x$ tale che $x^2 + c$ sia un multiple di $2^{2007}$?
 
-[[src_obm_2007_n3_f3__Q02]]
+[[Quesiti/src_obm_2007_n3_f3#q02|src_obm_2007_n3_f3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 3
 > 
 > *Rimarca: * $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
 
-[[src_obm_2007_n3_f3__Q03]]
+[[Quesiti/src_obm_2007_n3_f3#q03|src_obm_2007_n3_f3__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 
 > $2007^2$ piccoli quadrati uguali sono disposti formando una tavola $2007 \times 2007$. Arnaldo e Bernaldo giocano il seguente gioco: ciascuna delle mosse di Arnaldo consiste nel rimuovere 4 piccoli quadrati che formano un quadrato $2 \times 2$. Ogni mossa di Bernaldo consiste nel rimuovere solo un piccolo quadrato. I giocatori giocano alternativamente, con Arnaldo come primo a giocare. Quando Arnaldo non riesce più a fare la sua mossa, Bernaldo prende per sé tutti i piccoli quadrati rimasti sulla lavagna alla fine. Colui che ha più piccoli quadrati vince. E' possibile che Bernaldo vinca, non importa come giochi?
 
-[[src_obm_2007_n3_f3__Q04]]
+[[Quesiti/src_obm_2007_n3_f3#q04|src_obm_2007_n3_f3__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 
 > Il $ABCD$ deve essere un quadrilaterale convex, $P$ l'intersezione delle linee $AB$ e $CD$, $Q$ l'intersezione delle linee $AD$ e $BC$, e $O$ l'intersezione delle diagonali $AC$ e $BD$. Prove che se $\angle POQ$ è un angolo retto, allora $PO$ è il bisector di $\angle AOD$ e $QO$ è il bisector di $\angle AOB$.
 
-[[src_obm_2007_n3_f3__Q05]]
+[[Quesiti/src_obm_2007_n3_f3#q05|src_obm_2007_n3_f3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 > 
 > *Ricordo: * nel caso non vi ricordate, nell'esame di ieri $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
 
-[[src_obm_2007_n3_f3__Q06]]
+[[Quesiti/src_obm_2007_n3_f3#q06|src_obm_2007_n3_f3__Q06]]

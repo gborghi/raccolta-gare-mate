@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 2
 
 > Let $A_n = \{1, 2, \ldots, n\}$. Prova o smentire: per tutti gli integri $n \ge 2$ esistono funzioni $f, g : A_n \to A_n$ che soddisfano $$f(f(k)) = g(g(k)) = k \quad \text{for } 1 \le k \le n, \quad \text{and}$$ $$g(f(k)) = k + 1 \quad \text{for } 1 \le k \le n - 1.$$
 
-[[src_pol_1998_r2__Q01]]
+[[Quesiti/src_pol_1998_r2#q01|src_pol_1998_r2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 2
 
 > Il $ABC$ deve essere un triangolo con un angolo obtuso $\angle C$ e $\angle A = 2\angle B$. La linea attraverso $B$ perpendicolare a $BC$ interseca la linea $AC$ a $D$. Se $M$ è il punto medio di $AB$, provare che $\angle AMC = \angle BMD$.
 
-[[src_pol_1998_r2__Q02]]
+[[Quesiti/src_pol_1998_r2#q02|src_pol_1998_r2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: Olimpiade Polacca Round 2
 
 > (a) Se $a, b, c, d, e, f$ sono numeri positivi con la somma 1 e $ace + bdf \ge \dfrac{1}{108}$, mostrare che $$abc + bcd + cde + def + efa + fab \le \dfrac{1}{36}.$$ (b) Esistono diversi numeri positivi $a, b, c, d, e, f$ con la somma 1 per i quali le due disuguaglianze di cui sopra diventano uguaglianze?
 
-[[src_pol_1998_r2__Q03]]
+[[Quesiti/src_pol_1998_r2#q03|src_pol_1998_r2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutte le coppie di integri $(x, y)$ che soddisfano $x^2 + 3y^2 = 1998x$.
 
-[[src_pol_1998_r2__Q04]]
+[[Quesiti/src_pol_1998_r2#q04|src_pol_1998_r2__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: Olimpiade Polacca Round 2
 
 > Supponiamo che $a_1, \ldots, a_7, b_1, \ldots, b_7$ siano numeri reali non negativi come $a_i + b_i \le 2$ per tutti $i$. Prova che esistono due indici $k, m$ diversi in modo tale che $$|a_k - a_m| + |b_k - b_m| \le 1.$$
 
-[[src_pol_1998_r2__Q05]]
+[[Quesiti/src_pol_1998_r2#q05|src_pol_1998_r2__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 2
 
 > Dimostrare che i bordi $AB$ e $CD$ di un tetraedro $ABCD$ sono perpendicolari se e solo se esiste un parallelo $CDPQ$ tale che $PA = PB = PD$ e $QA = QB = QC$.
 
-[[src_pol_1998_r2__Q06]]
+[[Quesiti/src_pol_1998_r2#q06|src_pol_1998_r2__Q06]]

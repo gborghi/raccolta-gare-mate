@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Risolvere le equazioni simultanee $$ab + c + d = 3, \quad bc + d + a = 5, \quad cd + a + b = 2, \quad da + b + c = 6,$$ dove $a, b, c, d$ sono numeri reali.
 
-[[src_bmo1_2004__Q01]]
+[[Quesiti/src_bmo1_2004#q01|src_bmo1_2004__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > $ABCD$ è un rettangolo. $P$ è il punto medio di $AB$ e $Q$ è il punto su $PD$ in modo tale che $CQ$ sia perpendicolare a $PD$. Prova che il triangolo $BQC$ è uguale.
 
-[[src_bmo1_2004__Q02]]
+[[Quesiti/src_bmo1_2004#q02|src_bmo1_2004__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 
 > Alice e Barbara giocano a un gioco con un pacchetto di carte $2n$, su ciascuna delle quali è scritto un intero positivo. Il pacchetto viene mescolato e le carte disposte in fila, con le ragazze che si alternano per rimuovere una carta da entrambe le estremità della fila, con Alice che raccoglie l'ultima carta. Il punteggio di ogni ragazza è la somma dei numeri sulle carte che ha in mano alla fine della partita. Dimostra che Alice può sempre ottenere un punteggio almeno grande come Barbara.
 
-[[src_bmo1_2004__Q03]]
+[[Quesiti/src_bmo1_2004#q03|src_bmo1_2004__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 
 > Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi. Contiamo l'insieme vuoto, che non contiene elementi affatto, come un insieme malvagio. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
 
-[[src_bmo1_2004__Q04]]
+[[Quesiti/src_bmo1_2004#q04|src_bmo1_2004__Q04]]
 
 
 
@@ -143,4 +143,4 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 
 > $p$ e $q$ siano numeri primi. È dato che $p$ divide $q + 1$ e $q$ divide $p + 1$. Determinare tutti i possibili valori di $pq$.
 
-[[src_bmo1_2004__Q05]]
+[[Quesiti/src_bmo1_2004#q05|src_bmo1_2004__Q05]]

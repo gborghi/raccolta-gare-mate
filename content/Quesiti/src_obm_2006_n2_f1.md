@@ -41,7 +41,7 @@ level: OBM Nível 2
 > **A) ** 4 \quad **B) ** 5 \quad **C) ** 6 \quad **D) ** 7 \quad **E) ** 8
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q01]]
+[[Quesiti/src_obm_2006_n2_f1#q01|src_obm_2006_n2_f1__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: OBM Nível 2
 > 
 > **A)** 50 \quad **B)** 60 \quad **C)** 80 \quad **D)** 100 \quad **E)** 120
 
-![[src_obm_2006_n2_f1__Q02.png]]
+![[src_obm_2006_n2_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -75,10 +75,10 @@ level: OBM Nível 2
 > 
 > **A) ** 50 \quad **B) ** 60 \quad **C) ** 80 \quad **D) ** 100 \quad **E) ** 120
 
-![[src_obm_2006_n2_f1__Q02.png]]
+![[src_obm_2006_n2_f1__q02.png]]
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q02]]
+[[Quesiti/src_obm_2006_n2_f1#q02|src_obm_2006_n2_f1__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: OBM Nível 2
 > **A) ** 3 \quad **B) ** 5 \quad **C) ** 6 \quad **D) ** 4 \quad **E) ** 7
 
 **Risposta:** A
-[[src_obm_2006_n2_f1__Q03]]
+[[Quesiti/src_obm_2006_n2_f1#q03|src_obm_2006_n2_f1__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: OBM Nível 2
 > **A) ** none \quad **B) ** 10 min \quad **C) ** 12 min \quad **D) ** 15 min \quad **E) ** 18 min
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q04]]
+[[Quesiti/src_obm_2006_n2_f1#q04|src_obm_2006_n2_f1__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: OBM Nível 2
 > 
 > **A)** $10^\circ$ \quad **B)** $20^\circ$ \quad **C)** $15^\circ$ \quad **D)** $30^\circ$ \quad **E)** $5^\circ$
 
-![[src_obm_2006_n2_f1__Q05.png]]
+![[src_obm_2006_n2_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -178,10 +178,10 @@ level: OBM Nível 2
 > 
 > **A) ** $10^\circ$ \quad **B) ** $20^\circ$ \quad **C) ** $15^\circ$ \quad **D) ** $30^\circ$ \quad **E) ** $5^\circ$
 
-![[src_obm_2006_n2_f1__Q05.png]]
+![[src_obm_2006_n2_f1__q05.png]]
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q05]]
+[[Quesiti/src_obm_2006_n2_f1#q05|src_obm_2006_n2_f1__Q05]]
 
 
 
@@ -214,7 +214,7 @@ level: OBM Nível 2
 > **A) ** 14 \quad **B) ** 15 \quad **C) ** 18 \quad **D) ** 24 \quad **E) ** 36
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q06]]
+[[Quesiti/src_obm_2006_n2_f1#q06|src_obm_2006_n2_f1__Q06]]
 
 
 
@@ -246,7 +246,7 @@ level: OBM Nível 2
 > **A) ** 55 anni \quad **B) ** 56 anni \quad **C) ** 60 anni \quad **D) ** 62 anni \quad **E) ** 105 anni
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q07]]
+[[Quesiti/src_obm_2006_n2_f1#q07|src_obm_2006_n2_f1__Q07]]
 
 
 
@@ -261,7 +261,7 @@ level: OBM Nível 2
 > 
 > **A)** $39^\circ$ \quad **B)** $41^\circ$ \quad **C)** $43^\circ$ \quad **D)** $44^\circ$ \quad **E)** $46^\circ$
 
-![[src_obm_2006_n2_f1__Q08.png]]
+![[src_obm_2006_n2_f1__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -279,10 +279,10 @@ level: OBM Nível 2
 > 
 > **A) ** $39^\circ$ \quad **B) ** $41^\circ$ \quad **C) ** $43^\circ$ \quad **D) ** $44^\circ$ \quad **E) ** $46^\circ$
 
-![[src_obm_2006_n2_f1__Q08.png]]
+![[src_obm_2006_n2_f1__q08.png]]
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q08]]
+[[Quesiti/src_obm_2006_n2_f1#q08|src_obm_2006_n2_f1__Q08]]
 
 
 
@@ -315,7 +315,7 @@ level: OBM Nível 2
 > **A) ** $ab^3$ \quad **B) ** $a^3b$ \quad **C) ** $a^4b^3$ \quad **D) ** $ab^2c^3$ \quad **E) ** $a^4b^3c^4$
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q09]]
+[[Quesiti/src_obm_2006_n2_f1#q09|src_obm_2006_n2_f1__Q09]]
 
 
 
@@ -330,7 +330,7 @@ level: OBM Nível 2
 > 
 > **A)** 18 \quad **B)** 14 \quad **C)** 9 \quad **D)** 20 \quad **E)** 10
 
-![[src_obm_2006_n2_f1__Q10.png]]
+![[src_obm_2006_n2_f1__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -349,10 +349,10 @@ level: OBM Nível 2
 > 
 > **A) ** 18 \quad **B) ** 14 \quad **C) ** 9 \quad **D) ** 20 \quad **E) ** 10
 
-![[src_obm_2006_n2_f1__Q10.png]]
+![[src_obm_2006_n2_f1__q10.png]]
 
 **Risposta:** A
-[[src_obm_2006_n2_f1__Q10]]
+[[Quesiti/src_obm_2006_n2_f1#q10|src_obm_2006_n2_f1__Q10]]
 
 
 
@@ -389,7 +389,7 @@ level: OBM Nível 2
 > Bento viaggia in macchina e Carlos viaggia in aereo. Dário e Carlos viaggiano in auto. **C) ** Tomás viaggia in aereo e André viaggia in aereo. **D) ** Alexandre viaggia in treno e Tomás in auto. André viaggia in treno e Alexandre in auto.
 
 **Risposta:** D
-[[src_obm_2006_n2_f1__Q11]]
+[[Quesiti/src_obm_2006_n2_f1#q11|src_obm_2006_n2_f1__Q11]]
 
 
 
@@ -421,7 +421,7 @@ level: OBM Nível 2
 > **A) ** $\dfrac{1}{2}$ \quad **B) ** $1$ \quad **C) ** $\dfrac{2}{3}$ \quad **D) ** $\dfrac{3}{2}$ \quad **E) ** $\dfrac{1}{3}$
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q12]]
+[[Quesiti/src_obm_2006_n2_f1#q12|src_obm_2006_n2_f1__Q12]]
 
 
 
@@ -454,7 +454,7 @@ level: OBM Nível 2
 > **A) ** 2 \quad **B) ** 3 \quad **C) ** 4 \quad **D) ** 5 \quad **E) ** 6
 
 **Risposta:** A
-[[src_obm_2006_n2_f1__Q13]]
+[[Quesiti/src_obm_2006_n2_f1#q13|src_obm_2006_n2_f1__Q13]]
 
 
 
@@ -486,7 +486,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 10 \quad **B) ** 13 \quad **C) ** 16 \quad **D) ** 17 \quad **E) ** 20
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q14]]
+[[Quesiti/src_obm_2006_n2_f1#q14|src_obm_2006_n2_f1__Q14]]
 
 
 
@@ -501,7 +501,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > 
 > **A)** 7.6 \quad **B)** 8 \quad **C)** 10.6 \quad **D)** 12 \quad **E)** 21.3
 
-![[src_obm_2006_n2_f1__Q15.png]]
+![[src_obm_2006_n2_f1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -520,10 +520,10 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > 
 > **A) ** 7.6 \quad **B) ** 8 \quad **C) ** 10.6 \quad **D) ** 12 \quad **E) ** 21.3
 
-![[src_obm_2006_n2_f1__Q15.png]]
+![[src_obm_2006_n2_f1__q15.png]]
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q15]]
+[[Quesiti/src_obm_2006_n2_f1#q15|src_obm_2006_n2_f1__Q15]]
 
 
 
@@ -556,7 +556,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 2314 \quad **B) ** 3000 \quad **C) ** 1401 \quad **D) ** 2316 \quad **E) ** 1716
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q16]]
+[[Quesiti/src_obm_2006_n2_f1#q16|src_obm_2006_n2_f1__Q16]]
 
 
 
@@ -605,7 +605,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **E)** $a \ge \frac{1}{3}$, $b \ge \frac{1}{3}$, $c \ge \frac{1}{3}$
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q17]]
+[[Quesiti/src_obm_2006_n2_f1#q17|src_obm_2006_n2_f1__Q17]]
 
 
 
@@ -640,7 +640,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 45 \quad **B) ** 23 \quad **C) ** 24 \quad **D) ** 25 \quad **E) ** 72
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q18]]
+[[Quesiti/src_obm_2006_n2_f1#q18|src_obm_2006_n2_f1__Q18]]
 
 
 
@@ -673,7 +673,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 72 \quad **B) ** 36 \quad **C) ** 35 \quad **D) ** 64 \quad **E) ** 56
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q19]]
+[[Quesiti/src_obm_2006_n2_f1#q19|src_obm_2006_n2_f1__Q19]]
 
 
 
@@ -706,7 +706,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 71 \quad **B) ** 76 \quad **C) ** 80 \quad **D) ** 82 \quad **E) ** 91
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q20]]
+[[Quesiti/src_obm_2006_n2_f1#q20|src_obm_2006_n2_f1__Q20]]
 
 
 
@@ -741,7 +741,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** $\sqrt{2}$ \quad **B) ** $\sqrt{3}$ \quad **C) ** $1$ \quad **D) ** $2+\sqrt{2}$ \quad **E) ** $2+\sqrt{3}$
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q21]]
+[[Quesiti/src_obm_2006_n2_f1#q21|src_obm_2006_n2_f1__Q21]]
 
 
 
@@ -774,7 +774,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 1701 \quad **B) ** 702 \quad **C) ** 703 \quad **D) ** 704 \quad **E) ** 705
 
 **Risposta:** C
-[[src_obm_2006_n2_f1__Q22]]
+[[Quesiti/src_obm_2006_n2_f1#q22|src_obm_2006_n2_f1__Q22]]
 
 
 
@@ -809,7 +809,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 0 \quad **B) ** 1 \quad **C) ** 2 \quad **D) ** 3 \quad **E) ** 4
 
 **Risposta:** D
-[[src_obm_2006_n2_f1__Q23]]
+[[Quesiti/src_obm_2006_n2_f1#q23|src_obm_2006_n2_f1__Q23]]
 
 
 
@@ -842,7 +842,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > **A) ** 60 \quad **B) ** 105 \quad **C) ** 180 \quad **D) ** 240 \quad **E) ** 56
 
 **Risposta:** B
-[[src_obm_2006_n2_f1__Q24]]
+[[Quesiti/src_obm_2006_n2_f1#q24|src_obm_2006_n2_f1__Q24]]
 
 
 
@@ -857,7 +857,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > 
 > **A)** $\dfrac{1}{2}$ \quad **B)** $1$ \quad **C)** $\dfrac{3}{2}$ \quad **D)** $2$ \quad **E)** Depends on the side lengths of $ABC$.
 
-![[src_obm_2006_n2_f1__Q25.png]]
+![[src_obm_2006_n2_f1__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -876,7 +876,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 > 
 > **A) ** $\dfrac{1}{2}$ \quad **B) ** $1$ \quad **C) ** $\dfrac{3}{2}$ \quad **D) ** $2$ \quad **E) ** Dipende dalle lunghezze laterali di $ABC$.
 
-![[src_obm_2006_n2_f1__Q25.png]]
+![[src_obm_2006_n2_f1__q25.png]]
 
 **Risposta:** D
-[[src_obm_2006_n2_f1__Q25]]
+[[Quesiti/src_obm_2006_n2_f1#q25|src_obm_2006_n2_f1__Q25]]

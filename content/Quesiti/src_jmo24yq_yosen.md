@@ -19,7 +19,7 @@ level: JMO Yosen
 
 > Circle $C_1$ contains circle $C_2$ internally, with the two circles internally tangent. Let $O$ be the centre of $C_2$. Let $A$ be the point of internal tangency of $C_1$ and $C_2$. Let $P$ be a point on $C_1$. The ray from $O$ through $P$ meets $C_2$ at point $Q$ (so $Q$ lies between $O$ and $P$). The tangent to $C_1$ at $A$ meets the line $OP$ extended beyond $P$ at point $R$. Given that $PQ = QR$ and that the radius of $C_2$ is $9$, find the length of segment $PQ$. (Here $\overline{XY}$ denotes the length of segment $XY$.)
 
-![[src_jmo24yq_yosen__Q01.png]]
+![[src_jmo24yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: JMO Yosen
 
 > Circolo $C_1$ contiene circolo $C_2$ internamente, con i due cerchi tangenti internamente. Il $O$ deve essere il centro di $C_2$. Il punto di tangenza interna di $C_1$ e $C_2$ è $A$. Il punto $P$ deve essere un punto su $C_1$. Il raggio da $O$ a $P$ incontra $C_2$ al punto $Q$ (così $Q$ si trova tra $O$ e $P$). La tangente di $C_1$ a $A$ risponde alla linea $OP$ estesa oltre $P$ al punto $R$. Dato che $PQ = QR$ e che il raggio di $C_2$ è $9$, si trova la lunghezza del segmento $PQ$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo24yq_yosen__Q01.png]]
+![[src_jmo24yq_yosen__q01.png]]
 
 **Risposta:** 3
-[[src_jmo24yq_yosen__Q01]]
+[[Quesiti/src_jmo24yq_yosen#q01|src_jmo24yq_yosen__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: JMO Yosen
 > Un ottagono regolare ha i suoi vertici $8$ ognuno etichettato con un numero intero distinto scelto da $1$ a $8$ (ogni numero intero usato esattamente una volta). Contare il numero di tali etichette che soddisfano entrambe le seguenti condizioni. (Le etichette che differiscono solo per rotazione o riflessione sono ancora contate come distinte.) \begin{itemize} \item I numeri interi scritti in due vertici adiacenti (connessi da un lato) non sono mai numeri interi consecutivi. \item I numeri interi scritti in due vertici collegati da una diagonale breve non sono mai numeri interi consecutivi. # Finire #
 
 **Risposta:** 576
-[[src_jmo24yq_yosen__Q02]]
+[[Quesiti/src_jmo24yq_yosen#q02|src_jmo24yq_yosen__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: JMO Yosen
 > Calcolare la somma $$\sum_{d \mid 10} \frac{1}{d + \sqrt{10}}$$ in cui la somma corre su tutti i divisori positivi $d$ di $10$.
 
 **Risposta:** \dfrac{3}{16\sqrt{7}}
-[[src_jmo24yq_yosen__Q03]]
+[[Quesiti/src_jmo24yq_yosen#q03|src_jmo24yq_yosen__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: JMO Yosen
 > Sei punti $A, B, C, D, E, F$ si trovano su un cerchio in questo ordine ciclico. I diagonali $AD$, $BE$, $CF$ passano tutti attraverso un unico punto interno comune. Se si dà $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$, $EF = 5$, si trova la lunghezza $FA$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{15}{8}
-[[src_jmo24yq_yosen__Q04]]
+[[Quesiti/src_jmo24yq_yosen#q04|src_jmo24yq_yosen__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: JMO Yosen
 > Per tutti i triples $(a, b, c)$ di numeri interi non negativi che soddisfano $a + b + c = 5$, calcolare $$\sum_{\substack{a,b,c \ge 0 \\ a+b+c=5}} \binom{5}{a}\binom{5}{b}\binom{5}{c}.$$ La risposta deve essere espressa come valore numerico senza calcolatore.
 
 **Risposta:** 2349060
-[[src_jmo24yq_yosen__Q05]]
+[[Quesiti/src_jmo24yq_yosen#q05|src_jmo24yq_yosen__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: JMO Yosen
 > Il cartone $A$ e il cartone $B$ contengono ciascuno dei numeri interi distinti scelti tra $\{2, 3, \ldots, 20\}$. È dato che non importa come si tenta di abbinare ogni numero intero a bordo $A$ con un numero intero distinto a bordo $B$ in modo tale che i due numeri interi abbinati differiscano di almeno $1$, questa abbinamento è sempre possibile (cioè\ un abbinamento perfetto esiste sempre sotto la restrizione di differenza-al-massimo-$1$). In questa condizione, trovare il valore massimo possibile del prodotto $|A| \times |B|$, dove $|A|$ e $|B|$ indicano rispettivamente il numero di integri sulle tavole $A$ e $B$.
 
 **Risposta:** 65
-[[src_jmo24yq_yosen__Q06]]
+[[Quesiti/src_jmo24yq_yosen#q06|src_jmo24yq_yosen__Q06]]
 
 
 
@@ -221,7 +221,7 @@ level: JMO Yosen
 > Un comitato studentesco ha membri $4$ e posizioni (rolle) $4$. Ogni membro del comitato è assegnato esattamente $2$ delle posizioni $4$. A diversi membri devono essere assegnate diverse coppie di posizioni (nessun membro detiene la stessa serie di due posizioni). Ogni membro è felice di ricevere una coppia di posizioni. In quanti modi tutte le posizioni $4$ possono essere distribuite tra i membri $4$ in modo tale che ogni membro riceva esattamente le posizioni $2$ e nessun membro riceva la stessa coppia?
 
 **Risposta:** 936
-[[src_jmo24yq_yosen__Q07]]
+[[Quesiti/src_jmo24yq_yosen#q07|src_jmo24yq_yosen__Q07]]
 
 
 
@@ -250,7 +250,7 @@ level: JMO Yosen
 > Per gli integri positivi $m$ e $n$, $\left\lfloor \dfrac{m}{n} \right\rfloor$ indica il piano di $\dfrac{m}{n}$. Per un intero positivo fisso $n \le 1000$, $f(n)$ è il numero di interi positivi $m \le 1000$ per i quali $\left\lfloor \dfrac{m}{n} \right\rfloor$ è pari. Trova il valore massimo di $f(n)$ su tutti gli integri positivi $n \le 1000$.
 
 **Risposta:** 939
-[[src_jmo24yq_yosen__Q08]]
+[[Quesiti/src_jmo24yq_yosen#q08|src_jmo24yq_yosen__Q08]]
 
 
 
@@ -279,7 +279,7 @@ level: JMO Yosen
 > Il quadrato $ABCD$ ha diagonali che si incontrano a $O$. I punti $P, Q, R, S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$. È dato che $OP = 3$ e $OQ = OR = 4$. La linea attraverso $C$ e $D$ incontra la linea attraverso $Q$ e $R$ in un punto; la linea attraverso $B$ e $C$ incontra la linea attraverso $R$ e $S$ in un altro punto; questi due punti di intersezione sono rispettivamente $X$ e $Y$. Trova la lunghezza del segmento $XY$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{60}{23}
-[[src_jmo24yq_yosen__Q09]]
+[[Quesiti/src_jmo24yq_yosen#q09|src_jmo24yq_yosen__Q09]]
 
 
 
@@ -313,7 +313,7 @@ level: JMO Yosen
 > Considera una griglia di celle $55 \times 55$. L'operazione \emph{} consiste nel: scegliere una sottogriglia rettangolare (una o più righe e colonne complete), poi dipingere ogni cella in quel rettangolo in un unico colore (intero nero o tutto bianco). Partendo dallo stato in cui tutte le celle sono bianche, trovare il numero minimo di operazioni necessarie per raggiungere una configurazione in cui tutte le seguenti tre condizioni sono valide: \begin{itemize} \item Tutte le celle nella colonna più sinistra sono nere. \item Ogni riga che contiene almeno una cellula bianca contiene anche una cellula nera adiacente (con un lato condiviso) a qualche cellula bianca. Ogni cellula bianca è adiacente ad almeno una cellula nera. # Finire #
 
 **Risposta:** 784
-[[src_jmo24yq_yosen__Q10]]
+[[Quesiti/src_jmo24yq_yosen#q10|src_jmo24yq_yosen__Q10]]
 
 
 
@@ -346,7 +346,7 @@ level: JMO Yosen
 > Scrivere un numero intero da $1$ a $6$ in ogni cella di un array $6 \times 6$ $(a_{i,j})$ (dove $1 \le i, j \le 6$), con la ripetizione consentita. Per ogni riga $i$, definire la funzione $f_i : \{1,\ldots,6\} \to \{1,\ldots,6\}$ con $f_i(j) = a_{i,j}$. Conteggi il numero di modi per riempire la matrice in modo che entrambe le seguenti condizioni si applichino a tutti gli indici validi: \begin{itemize} \item Per ogni $i$ con $1 \le i \le 6$: $f_i(f_i(j)) = i$ per tutti $j$ con $1 \le j \le 6$. \item Per ogni $i, k$ con $1 \le i, k \le 6$: $f_{f_i(k)}(j) = f_i(f_k(j))$ per tutti $j$ con $1 \le j \le 6$. # Finire #
 
 **Risposta:** 122
-[[src_jmo24yq_yosen__Q11]]
+[[Quesiti/src_jmo24yq_yosen#q11|src_jmo24yq_yosen__Q11]]
 
 
 
@@ -376,4 +376,4 @@ level: JMO Yosen
 > Trova il più grande intero positivo $m$ che soddisfi la seguente condizione: esistono $2m$ enti $i_1, \ldots, i_m$ e $j_1, \ldots, j_m$ (non necessariamente distinti), ciascuno tra $1$ e $1000$ inclusi, in modo che per ogni sequenza di numeri reali non negativi $a_1, \ldots, a_{1000}$ con $a_1 + a_2 + \cdots + a_{1000} = 1$, $$a_{i_1}a_{j_1} + a_{i_2}a_{j_2} + \cdots + a_{i_m}a_{j_m} \le \frac{1}{2.014}.$$
 
 **Risposta:** 496503
-[[src_jmo24yq_yosen__Q12]]
+[[Quesiti/src_jmo24yq_yosen#q12|src_jmo24yq_yosen__Q12]]

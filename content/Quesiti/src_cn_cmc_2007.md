@@ -21,7 +21,7 @@ level: China Mathematical Competition
 > 
 > (A) $-\dfrac{1}{2}$ $\quad$ (B) $-\dfrac{1}{3}$ $\quad$ (C) $\dfrac{1}{3}$ $\quad$ (D) $\dfrac{1}{2}$
 
-![[src_cn_b07_w38__Q01.png]]
+![[src_cn_b07_w38__q01.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -40,10 +40,10 @@ level: China Mathematical Competition
 > 
 > (A) $-\dfrac{1}{2}$ $\quad$ (B) $-\dfrac{1}{3}$ $\quad$ (C) $\dfrac{1}{3}$ $\quad$ (D) $\dfrac{1}{2}$
 
-![[src_cn_b07_w38__Q01.png]]
+![[src_cn_b07_w38__q01.png]]
 
 **Risposta:** B
-[[src_cn_cmc_2007__Q01]]
+[[Quesiti/src_cn_cmc_2007#q01|src_cn_cmc_2007__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: China Mathematical Competition
 > (A) $\left[-\dfrac{1}{3},\, \dfrac{1}{3}\right]$ $\quad$ (B) $\left[-\dfrac{1}{4},\, \dfrac{1}{3}\right]$ $\quad$ (C) $[-3,\, 3]$ $\quad$ (D) $\left(-\dfrac{1}{3},\, \dfrac{1}{3}\right)$
 
 **Risposta:** A
-[[src_cn_cmc_2007__Q02]]
+[[Quesiti/src_cn_cmc_2007#q02|src_cn_cmc_2007__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: China Mathematical Competition
 > (A) $\dfrac{52}{81}$ $\quad$ (B) $\dfrac{59}{81}$ $\quad$ (C) $\dfrac{60}{81}$ $\quad$ (D) $\dfrac{61}{81}$
 
 **Risposta:** D
-[[src_cn_cmc_2007__Q03]]
+[[Quesiti/src_cn_cmc_2007#q03|src_cn_cmc_2007__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: China Mathematical Competition
 > (A) $-\dfrac{1}{2}$ $\quad$ (B) $\dfrac{1}{2}$ $\quad$ (C) $-1$ $\quad$ (D) $1$
 
 **Risposta:** C
-[[src_cn_cmc_2007__Q04]]
+[[Quesiti/src_cn_cmc_2007#q04|src_cn_cmc_2007__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: China Mathematical Competition
 > 
 > (A), (B), (C), (D) are four curves shown in the figure.
 
-![[src_cn_b07_w38__Q05.png]]
+![[src_cn_b07_w38__q05.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -176,10 +176,10 @@ level: China Mathematical Competition
 > 
 > (A), (B), (C), (D) sono quattro curve mostrate nella figura.
 
-![[src_cn_b07_w38__Q05.png]]
+![[src_cn_b07_w38__q05.png]]
 
 **Risposta:** A
-[[src_cn_cmc_2007__Q05]]
+[[Quesiti/src_cn_cmc_2007#q05|src_cn_cmc_2007__Q05]]
 
 
 
@@ -212,7 +212,7 @@ level: China Mathematical Competition
 > (A) $62$ $\quad$ (B) $66$ $\quad$ (C) $68$ $\quad$ (D) $74$
 
 **Risposta:** B
-[[src_cn_cmc_2007__Q06]]
+[[Quesiti/src_cn_cmc_2007#q06|src_cn_cmc_2007__Q06]]
 
 
 
@@ -241,7 +241,7 @@ level: China Mathematical Competition
 > Se si considerano quattro punti fissi $A(-3,\, 0)$, $B(1,\, -1)$, $C(0,\, 3)$, $D(-1,\, 3)$ e un punto variabile $P$ in un sistema di coordinate rettangolari piani, il minimo di $|PA| + |PB| + |PC| + |PD|$ è $\underline{\qquad}$.
 
 **Risposta:** $3\sqrt{2}+2\sqrt{5}$
-[[src_cn_cmc_2007__Q07]]
+[[Quesiti/src_cn_cmc_2007#q07|src_cn_cmc_2007__Q07]]
 
 
 
@@ -270,4 +270,4 @@ level: China Mathematical Competition
 > Date $\triangle ABC$ e $\triangle AEF$ in modo tale che $B$ sia il punto medio di $EF$, $AE = AC$, $AB = \sqrt{6}$, $CA = \sqrt{3}$ e $\overrightarrow{AB} \cdot \overrightarrow{AC} = 2$. Il cosino dell'angolo tra $\overrightarrow{EF}$ e $\overrightarrow{AC}$ è $\underline{\qquad}$.
 
 **Risposta:** $-\dfrac{1}{3}$
-[[src_cn_cmc_2007__Q08]]
+[[Quesiti/src_cn_cmc_2007#q08|src_cn_cmc_2007__Q08]]

@@ -35,7 +35,7 @@ level: JMO Yosen
 > Trova il numero di quadrupli $(a, b, c, d)$ di numeri interi da 1 a 9 soddisfacendo $0 < b - a < c - b < d - c$.
 
 **Risposta:** 7
-[[src_jmo21yq_yosen__Q01]]
+[[Quesiti/src_jmo21yq_yosen#q01|src_jmo21yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Che $A$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 1 quando diviso per 3, e che $B$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 2 quando diviso per 3. Trova $A - B$.
 
 **Risposta:** 1341
-[[src_jmo21yq_yosen__Q02]]
+[[Quesiti/src_jmo21yq_yosen#q02|src_jmo21yq_yosen__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: JMO Yosen
 
 > Trova tutti i numeri primi che possono essere espressi come $a \times b \times c \times d + e \times f \times g$ utilizzando diversi interi positivi $a, b, c, d, e, f, g$, ciascuno al massimo 7.
 
-[[src_jmo21yq_yosen__Q03]]
+[[Quesiti/src_jmo21yq_yosen#q03|src_jmo21yq_yosen__Q03]]
 
 
 
@@ -104,7 +104,7 @@ level: JMO Yosen
 
 > In the figure below, $O$ is the center (apex) of sector $OAB$. We have $AQ = 5$, $BQ = 6$, $OQ = PQ$. Find the length of the radius of the sector. Here, $XY$ denotes the length of segment $XY$.
 
-![[src_jmo21yq_yosen__Q04.png]]
+![[src_jmo21yq_yosen__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -120,9 +120,9 @@ level: JMO Yosen
 
 > Nella figura seguente, $O$ è il centro (apex) del settore $OAB$. Abbiamo $AQ = 5$, $BQ = 6$, $OQ = PQ$. Trova la lunghezza del raggio del settore. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jmo21yq_yosen__Q04.png]]
+![[src_jmo21yq_yosen__q04.png]]
 
-[[src_jmo21yq_yosen__Q04]]
+[[Quesiti/src_jmo21yq_yosen#q04|src_jmo21yq_yosen__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: JMO Yosen
 
 > Il $X$ deve essere il prodotto di tutti i numeri interi positivi non superiori al 2011 il cui numero unitario è 3 o 7. Trova la decina di $X$.
 
-[[src_jmo21yq_yosen__Q05]]
+[[Quesiti/src_jmo21yq_yosen#q05|src_jmo21yq_yosen__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: JMO Yosen
 
 > Nel triangolo $ABC$ con $\angle ABC = 90^\circ$, i punti $P, Q, R$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, con $AQ : QC = 2 : 1$, $AR = AQ$, $QP = QR$ e $\angle PQR = 90^\circ$. Con $CP = 1$, trovare $AR$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo21yq_yosen__Q06]]
+[[Quesiti/src_jmo21yq_yosen#q06|src_jmo21yq_yosen__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: JMO Yosen
 
 > Una griglia $3 \times 3$ è riempita con i numeri interi da 1 a 9, ognuno apparendo esattamente una volta (uno per cella). Per ciascuna colonna, è indicato il secondo più grande dei 3 numeri scritti in quella colonna. Si è scoperto che il secondo più grande dei tre numeri segnati era 5. In questo caso, quante disposizioni dei 9 numeri interi sono possibili?
 
-[[src_jmo21yq_yosen__Q07]]
+[[Quesiti/src_jmo21yq_yosen#q07|src_jmo21yq_yosen__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: JMO Yosen
 
 > Ci sono due numeri interi positivi a 2 cifre $x$ e $y$ in modo tale che la decina di $x$ equivale alla cifra di unità di $y$, e la decina di $y$ equivale alla cifra di unità di $x$. Il numero $P$ è il prodotto di $x$ e $y$; quindi $P$ è un numero a 4 cifre, e il numero formato dalle due cifre inferiori di $P$ (considerato un intero a 2 cifre) è 23 più grande del numero formato dalle due cifre superiori di $P$ (considerato un intero a 2 cifre). Trova il valore di $P$.
 
-[[src_jmo21yq_yosen__Q08]]
+[[Quesiti/src_jmo21yq_yosen#q08|src_jmo21yq_yosen__Q08]]
 
 
 
@@ -261,7 +261,7 @@ level: JMO Yosen
 > 
 > **Condizione: ** Per ogni marmo di un dato colore, esiste un marmo dello stesso colore adiacente.
 
-[[src_jmo21yq_yosen__Q09]]
+[[Quesiti/src_jmo21yq_yosen#q09|src_jmo21yq_yosen__Q09]]
 
 
 
@@ -290,7 +290,7 @@ level: JMO Yosen
 
 > Considera le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per tutti i numeri interi positivi $x, y$, $$(x + y) f(x) \le x^2 + f(xy) + 110$$ si mantenga. Trova i valori minimi e massimi possibili di $f(23) + f(2011)$.
 
-[[src_jmo21yq_yosen__Q10]]
+[[Quesiti/src_jmo21yq_yosen#q10|src_jmo21yq_yosen__Q10]]
 
 
 
@@ -317,7 +317,7 @@ level: JMO Yosen
 
 > Il quadrilaterale $ABCD$ è circoscritto intorno a un cerchio centrato a $O$ (il cerchio è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Il segmento $M$ deve essere il punto medio del segmento $AC$ e il segmento $N$ deve essere il punto medio del segmento $BD$. Trova $OM : ON$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo21yq_yosen__Q11]]
+[[Quesiti/src_jmo21yq_yosen#q11|src_jmo21yq_yosen__Q11]]
 
 
 
@@ -345,4 +345,4 @@ level: JMO Yosen
 
 > $n \ge 2$ sia un numero intero positivo. Per i valori reali non negativi $a_1, \ldots, a_n$ che soddisfano $a_1 + \cdots + a_n = 1$, trovare il valore massimo possibile di $$\left(\sum_{i=1}^{n} i a_i\right)\left(\sum_{i=1}^{n} \frac{a_i}{i}\right)^2.$$
 
-[[src_jmo21yq_yosen__Q12]]
+[[Quesiti/src_jmo21yq_yosen#q12|src_jmo21yq_yosen__Q12]]

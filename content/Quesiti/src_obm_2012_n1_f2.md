@@ -33,7 +33,7 @@ level: OBM Nível 1
 
 > Un motociclista viaggia a velocità costante lungo la rotta dell'autobus che collega il terminal A al terminal B, seguendo la linea di autobus regolare che collega i due terminal. Lasciò il terminal A e si diresse verso l'altro, e notò che ogni 3 minuti passava davanti ad una fermata di autobus. Le ci sono voluti 45 minuti per raggiungere il terminal B. Lei sa che la distanza tra il terminal e la fermata più vicina, e tra due fermate consecutive, è di 2 km. Qual è la distanza tra i due terminali?
 
-[[src_obm_2012_n1_f2__Q01]]
+[[Quesiti/src_obm_2012_n1_f2#q01|src_obm_2012_n1_f2__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: OBM Nível 1
 
 > In aggiunta a tre numeri a 4 cifre di seguito, lettere diverse rappresentano cifre diverse. Qual è il numero $\overline{ZYX}$? $$\begin{array}{r} XXXX \\ +\; YYYY \\ \hline ZZZZ \\ \hline YXXZ \end{array}$$
 
-[[src_obm_2012_n1_f2__Q02]]
+[[Quesiti/src_obm_2012_n1_f2#q02|src_obm_2012_n1_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 1
 
 > Un triangolo equilaterale ha lo stesso perimetro di un esagono regolare la cui superficie è $240 \text{ cm}^2$. Qual è l'area del triangolo, in $\text{cm}^2$?
 
-[[src_obm_2012_n1_f2__Q03]]
+[[Quesiti/src_obm_2012_n1_f2#q03|src_obm_2012_n1_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 1
 
 > Jade vuole tagliare un foglio rettangolare di carta di $24 \text{ cm}$ di $13 \text{ cm}$ in quadrati più piccoli, non necessariamente della stessa dimensione. Qual è il numero minimo di quadrati che otterrà?
 
-[[src_obm_2012_n1_f2__Q04]]
+[[Quesiti/src_obm_2012_n1_f2#q04|src_obm_2012_n1_f2__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: OBM Nível 1
 
 > Utilizzando solo le parentesi quante siano necessarie, ma utilizzando solo le addizioni e le sottrazioni già indicate, possiamo rendere l'espressione $$1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 - 10$$ il numero più grande possibile. Che numero è questo?
 
-[[src_obm_2012_n1_f2__Q05]]
+[[Quesiti/src_obm_2012_n1_f2#q05|src_obm_2012_n1_f2__Q05]]
 
 
 
@@ -169,7 +169,7 @@ level: OBM Nível 1
 
 > Nella scuola di Esmeralda, quest'anno il numero di ragazzi è aumentato di $10\%$ e il numero di ragazze è aumentato di $20\%$ rispetto all'anno scorso. Attualmente ci sono studenti $230$, esattamente $30$ in più rispetto all'anno scorso. Quante ragazze ci sono a scuola?
 
-[[src_obm_2012_n1_f2__Q06]]
+[[Quesiti/src_obm_2012_n1_f2#q06|src_obm_2012_n1_f2__Q06]]
 
 
 
@@ -224,7 +224,7 @@ level: OBM Nível 1
 > 
 > $$\text{Ana's score:} \quad \text{Beto's score:} \quad \text{Carlos's score:}$$
 
-[[src_obm_2012_n1_f2__Q07]]
+[[Quesiti/src_obm_2012_n1_f2#q07|src_obm_2012_n1_f2__Q07]]
 
 
 
@@ -241,7 +241,7 @@ level: OBM Nível 1
 > 
 > b) What is the perimeter of Figure 10?
 
-![[src_obm_2012_n1_f2__Q08.png]]
+![[src_obm_2012_n1_f2__q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -261,9 +261,9 @@ level: OBM Nível 1
 > 
 > b) Qual è il perimetro della figura 10?
 
-![[src_obm_2012_n1_f2__Q08.png]]
+![[src_obm_2012_n1_f2__q08.png]]
 
-[[src_obm_2012_n1_f2__Q08]]
+[[Quesiti/src_obm_2012_n1_f2#q08|src_obm_2012_n1_f2__Q08]]
 
 
 
@@ -302,4 +302,4 @@ level: OBM Nível 1
 > 
 > c) Diamantino ha scritto tutti i numeri inferiori a $2012$, con due o più cifre, che possono essere trasformati in $9$. Quanti numeri ha scritto?
 
-[[src_obm_2012_n1_f2__Q09]]
+[[Quesiti/src_obm_2012_n1_f2#q09|src_obm_2012_n1_f2__Q09]]

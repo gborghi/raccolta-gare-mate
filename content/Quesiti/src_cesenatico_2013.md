@@ -42,7 +42,7 @@ level: nazionale
 > An automobile model is tested on some 600-meter-long closed circuits, consisting of up- and down-level tracks. All up and down tracts have the same slope. The tests highlight some curious facts: (a) the speed of the model depends only on the fact that the machine is going up, down or down; calling respectively vs, vp and vd these three speeds, we have vs < vp < vd; (b) vs, vp and vd, expressed in meters per second, are integers; (c) however the circuit is composed (with more or less up and down) the travel time is always 50 seconds. Find all possible values of vs, vp and vd.
 
 **Answer:** (10,12,15),(9,12,18),(8,12,24),(7,12,42)
-[[src_cesenatico_2013__Q01]]
+[[Quesiti/src_cesenatico_2013#q01|src_cesenatico_2013__Q01]]
 
 
 
@@ -131,7 +131,7 @@ level: nazionale
 
 > In the triangle ABC, let's say we have a > b, where a = BC and b = AC. Both M the median point of AB and α and β are the circumferences inscribed respectively on the ACM and BCM triangles. The tangent points of α and β with CM are then A′ and B′. Show that A′B′ = a −b 2 .
 
-[[src_cesenatico_2013__Q02]]
+[[Quesiti/src_cesenatico_2013#q02|src_cesenatico_2013__Q02]]
 
 
 
@@ -161,7 +161,7 @@ level: nazionale
 
 > Each whole number is colored with one of two colors, red or blue. We know that for every finite set A of consecutive integers, the absolute value of the difference between the number of red integers and the number of blue integers in the set A is at most 1000. Demonstrate that there is a set of 2000 consecutive integers among which there are exactly 1000 red numbers and 1000 blue numbers.
 
-[[src_cesenatico_2013__Q03]]
+[[Quesiti/src_cesenatico_2013#q03|src_cesenatico_2013__Q03]]
 
 
 
@@ -190,7 +190,7 @@ level: nazionale
 > In which bases b > 6 does the writing 5654 represent a power of a prime number?
 
 **Answer:** base 7 (2048=2^11)
-[[src_cesenatico_2013__Q04]]
+[[Quesiti/src_cesenatico_2013#q04|src_cesenatico_2013__Q04]]
 
 
 
@@ -230,7 +230,7 @@ level: nazionale
 
 > Given an isosceles triangle ABC with AB = AC and \ BAC < 60o, both D the point on AC such that \ DBC = \ BAC, both E the intersection of the BD axis with the straight line parallel to BC passing through A, and F the point on the straight AC, from the side of A with respect to C, such that the length of FA is twice the length of AC. Finally, be r the perpendicular to AB led by F, s the perpendicular to AC led by E, and t the straight BD. Demonstrate that: (a) the EB and AC directions are parallel; (b) the r, s and t directions compete.
 
-[[src_cesenatico_2013__Q05]]
+[[Quesiti/src_cesenatico_2013#q05|src_cesenatico_2013__Q05]]
 
 
 
@@ -267,4 +267,4 @@ level: nazionale
 > Two magicians perform in the following issue. At first, the first magician locks the second magician in a cabin where he can't see or hear anything. To start the game, the first magician invites Daniel, a member of the audience, to put on each box of a chessboard a white or black board at his discretion. Then he asks Daniel to point him to a box C of his choice. At this point, the first magician chooses a box D (not necessarily different from C) and replaces the pedina on D with one of the other color (white with black or black with white). Then the cabin where the second magician was locked is opened. Looking at the chessboard, the second magician can guess what box C is. Which of the two magicians can implement a strategy that their numbers always succeed?
 
 **Answer:** n potenza di due
-[[src_cesenatico_2013__Q06]]
+[[Quesiti/src_cesenatico_2013#q06|src_cesenatico_2013__Q06]]

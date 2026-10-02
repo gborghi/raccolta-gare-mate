@@ -35,7 +35,7 @@ level: China Mathematical Competition
 > Let $A = \{a_1, a_2, a_3, a_4\}$. Supponiamo che l'insieme delle somme di tutti gli elementi di ogni sottoinsieme ternario di $A$ sia $B = \{-1, 3, 5, 8\}$. Poi $A =$ ________.
 
 **Risposta:** {-3, 0, 2, 6}
-[[src_cn_cmc_2011__Q01]]
+[[Quesiti/src_cn_cmc_2011#q01|src_cn_cmc_2011__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: China Mathematical Competition
 > Supponiamo che $\triangle ABC$ con angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a\cos B - b\cos A = \frac{3}{5}c$. Il valore di $\frac{\tan A}{\tan B}$ è quindi __________.
 
 **Risposta:** 4
-[[src_cn_cmc_2011__Q02]]
+[[Quesiti/src_cn_cmc_2011#q02|src_cn_cmc_2011__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: China Mathematical Competition
 > Supponiamo che $a$ e $b$ siano numeri reali positivi che soddisfano $\dfrac{1}{a} + \dfrac{1}{b} \leq 2\sqrt{2}$ e $(a-b)^2 = 4(ab)^3$. Poi $\log_a b =$ ________.
 
 **Risposta:** -1
-[[src_cn_cmc_2011__Q03]]
+[[Quesiti/src_cn_cmc_2011#q03|src_cn_cmc_2011__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: China Mathematical Competition
 > Il punto di mira e la direzione della parabola $y^2 = 2px$ ($p > 0$) siano rispettivamente $F$ e $l$. $A$ e $B$ sono punti in movimento della parabola che soddisfano $\angle AFB = \frac{\pi}{3}$. La proiezione di $M$ il punto medio del segmento $AB$ su $l$ deve essere $N$. Il valore massimo di $\frac{|MN|}{|AB|}$ è quindi __________.
 
 **Risposta:** 1
-[[src_cn_cmc_2011__Q04]]
+[[Quesiti/src_cn_cmc_2011#q04|src_cn_cmc_2011__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: China Mathematical Competition
 > Sette studenti sono organizzati per partecipare a cinque eventi sportivi. È necessario che gli studenti $A$ e $B$ non possano partecipare allo stesso evento, ogni evento è partecipato da almeno uno studente e ogni studente deve partecipare a uno solo evento. Poi il numero dei piani di disposizione che soddisfano la condizione richiesta è ________ (la risposta deve essere data in valore numerico).
 
 **Risposta:** 15000
-[[src_cn_cmc_2011__Q05]]
+[[Quesiti/src_cn_cmc_2011#q05|src_cn_cmc_2011__Q05]]
 
 
 
@@ -180,7 +180,7 @@ level: China Mathematical Competition
 > $f$ sia una funzione odd su $\mathbf{R}$, e $f(x) = x^2$ per $x > 0$. Supponiamo che per qualsiasi $x \in [a, a + 2]$, $f(x + a) \ge 2f(x)$. Quindi l'intervallo del numero reale $a$ è __________.
 
 **Risposta:** [\sqrt{2}, +\infty)
-[[src_cn_cmc_2011__Q06]]
+[[Quesiti/src_cn_cmc_2011#q06|src_cn_cmc_2011__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: China Mathematical Competition
 > La somma di tutti gli integri positivi $n$ che soddisfano $\frac{1}{4} < \sin \frac{\pi}{n} < \frac{1}{3}$ è __________.
 
 **Risposta:** 33
-[[src_cn_cmc_2011__Q07]]
+[[Quesiti/src_cn_cmc_2011#q07|src_cn_cmc_2011__Q07]]
 
 
 
@@ -238,7 +238,7 @@ level: China Mathematical Competition
 > Una stazione di informazione utilizza quattro codici diversi, $A$, $B$, $C$ e $D$, per la comunicazione, ma ogni settimana ne utilizza solo uno. Il codice utilizzato in una settimana determinata viene selezionato in modo casuale con pari probabilità tra i tre che non sono stati utilizzati nell'ultima settimana. Supponiamo che il codice utilizzato nella prima settimana sia $A$. La probabilità che $A$ venga utilizzato anche nella settima settimana è quindi __________ (espressa come frazione irriducibile).
 
 **Risposta:** \frac{61}{243}
-[[src_cn_cmc_2011__Q08]]
+[[Quesiti/src_cn_cmc_2011#q08|src_cn_cmc_2011__Q08]]
 
 
 
@@ -267,7 +267,7 @@ level: China Mathematical Competition
 > Supponiamo che $f(x) = |\lg(x + 1)|$ e i numeri reali $a$, $b$ ($a < b$) soddisfino $f(a) = f\!\left(-\dfrac{b+1}{b+2}\right)$, $f(10a + 6b + 21) = 4\lg 2$. Trova i valori di $a$, $b$.
 
 **Risposta:** $a = -\dfrac{2}{5}$, $b = -\dfrac{1}{3}$
-[[src_cn_cmc_2011__Q09]]
+[[Quesiti/src_cn_cmc_2011#q09|src_cn_cmc_2011__Q09]]
 
 
 
@@ -297,7 +297,7 @@ level: China Mathematical Competition
 
 > Supponiamo che la sequenza $\{a_n\}$ soddisfi $a_1 = 2t - 3$ ($t \in \mathbf{R}$ e $t \neq \pm 1$), $$a_{n+1} = \frac{(2t^{n+1} - 3)a_n + 2(t - 1)t^n - 1}{a_n + 2t^n - 1} \quad (n \in \mathbf{N}^*).$$ (1) Trova la formula del termine generale circa $\{a_n\}$. (2) Se $t > 0$, scopri quale sia più grande tra $a_{n+1}$ e $a_n$.
 
-[[src_cn_cmc_2011__Q10]]
+[[Quesiti/src_cn_cmc_2011#q10|src_cn_cmc_2011__Q10]]
 
 
 
@@ -312,7 +312,7 @@ level: China Mathematical Competition
 > (1) Prove that the center of the inscribed circle of $\triangle PAB$ is on a given line.
 > (2) When $\angle APB = 60^\circ$, find the area of $\triangle PAB$.
 
-![[src_cn_cmc_b11_w42__Q11.png]]
+![[src_cn_cmc_b11_w42__q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -329,7 +329,7 @@ level: China Mathematical Competition
 
 > La linea retta $l$ con pendenza $\dfrac{1}{3}$ intercetta l'ellisse $C\colon \dfrac{x^2}{36} + \dfrac{y^2}{4} = 1$ nei punti $A$, $B$, e il punto $P(3\sqrt{2},\, \sqrt{2})$ si trova nella parte superiore sinistra di $l$ (come mostrato alla figura. 11.1). (1) Provare che il centro del cerchio di $\triangle PAB$ è su una linea data. (2) Quando $\angle APB = 60^\circ$, trovare la superficie di $\triangle PAB$.
 
-![[src_cn_cmc_b11_w42__Q11.png]]
+![[src_cn_cmc_b11_w42__q11.png]]
 
 **Risposta:** $\dfrac{117\sqrt{3}}{49}$
-[[src_cn_cmc_2011__Q11]]
+[[Quesiti/src_cn_cmc_2011#q11|src_cn_cmc_2011__Q11]]

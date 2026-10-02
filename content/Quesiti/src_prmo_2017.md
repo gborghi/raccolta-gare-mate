@@ -33,7 +33,7 @@ level: PRMO
 
 > Quanti numeri interi positivi inferiori a 1000 hanno la proprietà che la somma delle cifre di ciascun tale numero è divisibile per 7 e il numero stesso è divisibile per 3?
 
-[[src_prmo_2017__Q01]]
+[[Quesiti/src_prmo_2017#q01|src_prmo_2017__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: PRMO
 
 > Supponiamo che $a, b$ siano numeri reali positivi come $a\sqrt{a} + b\sqrt{b} = 183$, $a\sqrt{b} + b\sqrt{a} = 182$. Trova $\lfloor(a + b)\rfloor$.
 
-[[src_prmo_2017__Q02]]
+[[Quesiti/src_prmo_2017#q02|src_prmo_2017__Q02]]
 
 
 
@@ -86,7 +86,7 @@ level: PRMO
 
 > Un appaltatore ha due squadre di lavoratori: team $A$ e team $B$. Il team $A$ può completare un lavoro in 12 giorni e il team $B$ può svolgere lo stesso lavoro in 36 giorni. Il team $A$ inizia a lavorare sul lavoro e il team $B$ si unisce al team $A$ dopo quattro giorni. Il team $A$ si ritira dopo altri due giorni. Per quante altre giornate il team $B$ deve lavorare per completare il lavoro?
 
-[[src_prmo_2017__Q03]]
+[[Quesiti/src_prmo_2017#q03|src_prmo_2017__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: PRMO
 
 > Lasciate che $a, b$ siano integri in modo tale che tutte le radici dell'equazione $(x^2 + ax + 20)(x^2 + 17x + b) = 0$ siano integri negativi. Qual è il minimo valore possibile di $a + b$?
 
-[[src_prmo_2017__Q04]]
+[[Quesiti/src_prmo_2017#q04|src_prmo_2017__Q04]]
 
 
 
@@ -139,7 +139,7 @@ level: PRMO
 
 > $u, v, w$ siano numeri reali in progressione geometrica in modo tale che $u > v > w$. Supponiamo $u^{40} = v^n = w^{60}$. Trova il valore di $n$.
 
-[[src_prmo_2017__Q05]]
+[[Quesiti/src_prmo_2017#q05|src_prmo_2017__Q05]]
 
 
 
@@ -166,7 +166,7 @@ level: PRMO
 
 > Se la somma $\sum_{i=1}^{10} \frac{1}{i(i+1)(i+2)}$ è scritta in termini più bassi come $\frac{p}{q}$, si trova il valore di $q - p$.
 
-[[src_prmo_2017__Q06]]
+[[Quesiti/src_prmo_2017#q06|src_prmo_2017__Q06]]
 
 
 
@@ -192,7 +192,7 @@ level: PRMO
 
 > Trova il numero intero positivo più piccolo $n$ tale che $\sqrt{n} - \sqrt{n-1} < \frac{1}{\sqrt{n+1}+1}$.
 
-[[src_prmo_2017__Q07]]
+[[Quesiti/src_prmo_2017#q07|src_prmo_2017__Q07]]
 
 
 
@@ -219,7 +219,7 @@ level: PRMO
 
 > Una penna costa $\text{Rs.}\,11$ e un notebook $\text{Rs.}\,13$. Trova il numero di modi in cui una persona può spendere esattamente $\text{Rs.}\,1000$ per acquistare penne e notebook.
 
-[[src_prmo_2017__Q08]]
+[[Quesiti/src_prmo_2017#q08|src_prmo_2017__Q08]]
 
 
 
@@ -246,7 +246,7 @@ level: PRMO
 
 > Ci sono cinque città su una determinata isola. Ogni città è collegata a tutte le altre città da una strada. In quanti modi una persona che parte dalla città $A$ può tornare a $A$ dopo aver visitato alcune città senza visitare una città più di una volta e senza prendere la stessa strada più di una volta? (Il ordine in cui visita le città è importante anche: ad esempio, le rotte $A \to B \to C \to A$ e $A \to C \to B \to A$ sono diverse.)
 
-[[src_prmo_2017__Q09]]
+[[Quesiti/src_prmo_2017#q09|src_prmo_2017__Q09]]
 
 
 
@@ -273,7 +273,7 @@ level: PRMO
 
 > Nel primo piano dell'hotel ci sono otto camere, con quattro camere a ciascun lato del corridoio, situate simmetricamente (cioè ciascuna stanza è esattamente opposta ad un'altra). Quattro ospiti devono essere ospitati in quattro delle otto camere (cioè una in ciascuna) in modo tale che non ci siano due ospiti nelle camere adiacenti o opposte. In quanti modi si possono ospitare gli ospiti?
 
-[[src_prmo_2017__Q10]]
+[[Quesiti/src_prmo_2017#q10|src_prmo_2017__Q10]]
 
 
 
@@ -299,7 +299,7 @@ level: PRMO
 
 > Let $f(x) = \sin\frac{x}{3} + \cos\frac{3x}{10}$ per tutti i $x$ reali. Trova il numero naturale minimo $n$ tale da $f(n\pi + x) = f(x)$ per tutti i $x$ reali.
 
-[[src_prmo_2017__Q11]]
+[[Quesiti/src_prmo_2017#q11|src_prmo_2017__Q11]]
 
 
 
@@ -325,7 +325,7 @@ level: PRMO
 
 > In una classe, il numero totale di ragazzi e ragazze è nel rapporto $1:3$. Un giorno si scoprì che 8 ragazzi e 14 ragazze erano assenti dalla classe, e che il numero di ragazzi era il quadrato del numero di ragazze. Qual è il numero totale degli studenti della classe?
 
-[[src_prmo_2017__Q12]]
+[[Quesiti/src_prmo_2017#q12|src_prmo_2017__Q12]]
 
 
 
@@ -352,7 +352,7 @@ level: PRMO
 
 > In un rettangolo $ABCD$, $E$ è il punto medio di $AB$; $F$ è un punto su $AC$ tale che $BF$ sia perpendicolare a $AC$; e $FE$ sia perpendicolare a $BD$. Supponiamo $BC = 8\sqrt{3}$. Trova $AB$.
 
-[[src_prmo_2017__Q13]]
+[[Quesiti/src_prmo_2017#q13|src_prmo_2017__Q13]]
 
 
 
@@ -378,7 +378,7 @@ level: PRMO
 
 > Supponiamo che $x$ sia un numero reale positivo tale che $\{x\}$, $\lfloor x \rfloor$ e $x$ siano in progressione geometrica. Trova il numero intero meno positivo $n$ tale da $x^n > 100$. (Qui $\lfloor x \rfloor$ indica la parte integrale di $x$ e $\{x\} = x - \lfloor x \rfloor$.)
 
-[[src_prmo_2017__Q14]]
+[[Quesiti/src_prmo_2017#q14|src_prmo_2017__Q14]]
 
 
 
@@ -405,7 +405,7 @@ level: PRMO
 
 > Gli integri $1, 2, 3, \ldots, n$, dove $n > 2$, sono scritti su una lavagna. Due numeri $m, k$ in modo tale che $1 < m < n, 1 < k < n$ siano rimossi e la media dei numeri rimanenti si ritenga a 17. Qual è la somma massima dei due numeri rimossi?
 
-[[src_prmo_2017__Q15]]
+[[Quesiti/src_prmo_2017#q15|src_prmo_2017__Q15]]
 
 
 
@@ -431,7 +431,7 @@ level: PRMO
 
 > Cinque numeri a due cifre distinte sono in una progressione geometrica. Trova il termine medio.
 
-[[src_prmo_2017__Q16]]
+[[Quesiti/src_prmo_2017#q16|src_prmo_2017__Q16]]
 
 
 
@@ -457,7 +457,7 @@ level: PRMO
 
 > Supponiamo che le altitudini di un triangolo siano 10, 12 e 15. Qual è il suo semiperimetro?
 
-[[src_prmo_2017__Q17]]
+[[Quesiti/src_prmo_2017#q17|src_prmo_2017__Q17]]
 
 
 
@@ -484,7 +484,7 @@ level: PRMO
 
 > Se i numeri reali $x, y, z$ sono tali che $x^2 + 4y^2 + 16z^2 = 48$ e $xy + 4yz + 2zx = 24$, qual è il valore di $x^2 + y^2 + z^2$?
 
-[[src_prmo_2017__Q18]]
+[[Quesiti/src_prmo_2017#q18|src_prmo_2017__Q18]]
 
 
 
@@ -511,7 +511,7 @@ level: PRMO
 
 > Supponiamo che $1, 2, 3$ siano le radici dell'equazione $x^4 + ax^2 + bx = c$. Trova il valore di $c$.
 
-[[src_prmo_2017__Q19]]
+[[Quesiti/src_prmo_2017#q19|src_prmo_2017__Q19]]
 
 
 
@@ -538,7 +538,7 @@ level: PRMO
 
 > Qual è il numero di triples $(a, b, c)$ di numeri interi positivi in modo che (i) $a < b < c < 10$ e (ii) $a, b, c$ siano in progressione aritmetica e $b - a$ divida $c$?
 
-[[src_prmo_2017__Q20]]
+[[Quesiti/src_prmo_2017#q20|src_prmo_2017__Q20]]
 
 
 
@@ -565,7 +565,7 @@ level: PRMO
 
 > Trova il numero di triples ordinati $(a, b, c)$ di enti interi positivi come $abc = 108$.
 
-[[src_prmo_2017__Q21]]
+[[Quesiti/src_prmo_2017#q21|src_prmo_2017__Q21]]
 
 
 
@@ -592,7 +592,7 @@ level: PRMO
 
 > Supponiamo che nel piano 10 linee non parallele in coppia si incrociano tra loro. Qual è il numero massimo possibile di poligoni con superficie finita che 10 linee possono formare?
 
-[[src_prmo_2017__Q22]]
+[[Quesiti/src_prmo_2017#q22|src_prmo_2017__Q22]]
 
 
 
@@ -619,7 +619,7 @@ level: PRMO
 
 > Supponiamo che un intero $x$, un numero naturale $n$ e un numero primo $p$ soddisfino l'equazione $7x^2 - 44x + 12 = p$. Trova il valore più grande di $p$.
 
-[[src_prmo_2017__Q23]]
+[[Quesiti/src_prmo_2017#q23|src_prmo_2017__Q23]]
 
 
 
@@ -646,7 +646,7 @@ level: PRMO
 
 > $P$ sia un punto interno del triangolo $ABC$ le cui lunghezze laterali sono 26, 65, 78. La linea attraverso $P$ parallela a $BC$ incontra $AB$ in $K$ e $AC$ in $L$. La linea attraverso $P$ parallela a $AB$ incontra $CA$ in $S$ e $CB$ in $T$. La linea attraverso $P$ parallela a $CA$ incontra $BC$ in $M$ e $BA$ in $N$. Se $KL = MN = ST$, trovare $KL$.
 
-[[src_prmo_2017__Q24]]
+[[Quesiti/src_prmo_2017#q24|src_prmo_2017__Q24]]
 
 
 
@@ -673,7 +673,7 @@ level: PRMO
 
 > Che $ABCD$ sia un rettangolo e che $E$ e $F$ siano punti rispettivamente su $CD$ e $BC$ in modo tale che $\text{area}(AEF) = 9$, $\text{area}(CEF) = 9$ e $\text{area}(ABF) = 25$. Qual è l'area del triangolo $AEF$?
 
-[[src_prmo_2017__Q25]]
+[[Quesiti/src_prmo_2017#q25|src_prmo_2017__Q25]]
 
 
 
@@ -700,7 +700,7 @@ level: PRMO
 
 > Lasciate che $AB$ e $CD$ siano due accordi paralleli in un cerchio con raggio 5 in modo tale che il centro $O$ sia tra questi accordi. Supponiamo $AB = 6$, $CD = 8$. Supponiamo inoltre che l'area della parte del cerchio che si trova tra gli accordi $AB$ e $CD$ sia $\frac{m\pi + n}{k}$, dove $m, n, k$ sono interi positivi con $\gcd(m, n, k) = 1$. Qual è il valore di $m + n + k$?
 
-[[src_prmo_2017__Q26]]
+[[Quesiti/src_prmo_2017#q26|src_prmo_2017__Q26]]
 
 
 
@@ -727,7 +727,7 @@ level: PRMO
 
 > Il $\Omega_1$ deve essere un cerchio con centro $O$ e il $AB$ deve avere un diametro di $\Omega_1$. Il punto $P$ deve essere un punto del segmento $OB$ diverso da $O$. Un cerchio $\Omega_2$ con centro $P$ passa attraverso $O$. Le tangenti da $A$ a $\Omega_2$ lo toccano rispettivamente nei punti $A_1$ e $B_1$. Supponiamo che $A_1B_1 = 5$, $AB = 10$ e $OP = 10$, trovino i raggi di $\Omega_1$.
 
-[[src_prmo_2017__Q27]]
+[[Quesiti/src_prmo_2017#q27|src_prmo_2017__Q27]]
 
 
 
@@ -754,7 +754,7 @@ level: PRMO
 
 > $p, q$ siano numeri primi in modo tale che $n^{3pq} - n$ sia un multiple di $3pq$ per tutti gli integri positivi $n$. Trova il minimo valore possibile di $p + q$.
 
-[[src_prmo_2017__Q28]]
+[[Quesiti/src_prmo_2017#q28|src_prmo_2017__Q28]]
 
 
 
@@ -781,7 +781,7 @@ level: PRMO
 
 > Per ogni intero positivo $n$, si considera il più alto fattore comune $h_n$ dei due numeri $n! + 1$ e $(n+1)!$. Per $n < 100$, trovare il valore più grande di $h_n$.
 
-[[src_prmo_2017__Q29]]
+[[Quesiti/src_prmo_2017#q29|src_prmo_2017__Q29]]
 
 
 
@@ -808,4 +808,4 @@ level: PRMO
 
 > I quattro triangoli ottenuti disegnando le diagonali $AC$ e $BD$ di un trapezio $ABCD$. Si calcola il prodotto delle aree di questi triangoli, presi due alla volta. Se tra i sei prodotti due sono 1296 e 576, determinare la radice quadrata dell'area massima possibile del trapezio al numero intero più vicino.
 
-[[src_prmo_2017__Q30]]
+[[Quesiti/src_prmo_2017#q30|src_prmo_2017__Q30]]

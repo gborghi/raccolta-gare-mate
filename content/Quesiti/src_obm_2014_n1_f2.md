@@ -33,7 +33,7 @@ level: OBM Nível 1
 
 > Carolina scrive una sequenza di numeri interi positivi in cui: se un numero è pari, il numero successivo è la metà di esso; se è strano, il numero successivo è sette unità più grande. Il primo numero della sequenza è 10, quindi i primi tre numeri di questa sequenza sono 10, 5, 12, $\ldots$
 
-[[src_obm_2014_n1_f2__Q01]]
+[[Quesiti/src_obm_2014_n1_f2#q01|src_obm_2014_n1_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 1
 
 > Dieci bambini formano una linea dalla più corta alla più alta. È noto che in questa linea non ci sono due bambini della stessa altezza. Con qualche movimento, il bambino più alto si muove nella posizione del più corto, usando solo scambi tra bambini vicini. Qual è il numero minimo di scambi di posizioni da effettuare?
 
-[[src_obm_2014_n1_f2__Q02]]
+[[Quesiti/src_obm_2014_n1_f2#q02|src_obm_2014_n1_f2__Q02]]
 
 
 
@@ -73,7 +73,7 @@ level: OBM Nível 1
 
 > Fill in the table with different positive integers, all greater than zero, so that for each of the five grey squares, the sum of the two numbers in its row is equal to the sum of the two numbers in its column. Note that the sum of a row does not need to equal the sum of another row. Find the smallest possible sum of the numbers that can be written in the three grey small squares.
 
-![[src_obm_2014_n1_f2__Q03.png]]
+![[src_obm_2014_n1_f2__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -89,9 +89,9 @@ level: OBM Nível 1
 
 > Riempire la tabella con diversi numeri interi positivi, tutti più grandi di zero, in modo che per ciascuno dei cinque quadrati grigi, la somma dei due numeri nella sua riga è uguale alla somma dei due numeri nella sua colonna. Si noti che la somma di una riga non deve essere uguale alla somma di un'altra riga. Trova la somma più piccola possibile dei numeri che possono essere scritti nei tre piccoli quadrati grigi.
 
-![[src_obm_2014_n1_f2__Q03.png]]
+![[src_obm_2014_n1_f2__q03.png]]
 
-[[src_obm_2014_n1_f2__Q03]]
+[[Quesiti/src_obm_2014_n1_f2#q03|src_obm_2014_n1_f2__Q03]]
 
 
 
@@ -104,7 +104,7 @@ level: OBM Nível 1
 
 > Carla makes a cut $MN$ parallel to side $AD$ in rectangle $ABCD$. She then rotates rectangle $AMND$ to obtain rectangle $MBCN$, since it is possible to make sides $CN$ and $AD$ coincide, as shown in the figure. If rectangle $AMND$ has $AD = 8$ cm and $AM = 4$ cm, what is the area of rectangle $ABCD$, in $\mathrm{cm}^2$?
 
-![[src_obm_2014_n1_f2__Q04.png]]
+![[src_obm_2014_n1_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -120,9 +120,9 @@ level: OBM Nível 1
 
 > Carla fa un taglio $MN$ parallelo al lato $AD$ nel rettangolo $ABCD$. Poi ruota il rettangolo $AMND$ per ottenere il rettangolo $MBCN$, poiché è possibile far coincidere i lati $CN$ e $AD$, come mostrato nella figura. Se il rettangolo $AMND$ ha $AD = 8$ cm e $AM = 4$ cm, qual è la superficie del rettangolo $ABCD$, in $\mathrm{cm}^2$?
 
-![[src_obm_2014_n1_f2__Q04.png]]
+![[src_obm_2014_n1_f2__q04.png]]
 
-[[src_obm_2014_n1_f2__Q04]]
+[[Quesiti/src_obm_2014_n1_f2#q04|src_obm_2014_n1_f2__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: OBM Nível 1
 > 
 > *Nota: le serie $\{18, 54\}$ e $\{54, 18\}$ sono uguali.*
 
-[[src_obm_2014_n1_f2__Q05]]
+[[Quesiti/src_obm_2014_n1_f2#q05|src_obm_2014_n1_f2__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: OBM Nível 1
 > 
 > What is the sum of the numbers written in the border cells of the board, represented by the grey cells in the figure?
 
-![[src_obm_2014_n1_f2__Q06.png]]
+![[src_obm_2014_n1_f2__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -186,9 +186,9 @@ level: OBM Nível 1
 > 
 > Qual è la somma dei numeri scritti nelle celle di confine della lavagna, rappresentate dalle celle grigie della figura?
 
-![[src_obm_2014_n1_f2__Q06.png]]
+![[src_obm_2014_n1_f2__q06.png]]
 
-[[src_obm_2014_n1_f2__Q06]]
+[[Quesiti/src_obm_2014_n1_f2#q06|src_obm_2014_n1_f2__Q06]]
 
 
 
@@ -217,7 +217,7 @@ level: OBM Nível 1
 
 > Il numero 2014 è pari, non ha cifre ripetute nella sua rappresentazione, e la somma delle sue cifre è un numero primo. a) Qual è il numero intero positivo più piccolo con queste tre proprietà? b) Qual è il numero intero positivo più grande con queste tre proprietà?
 
-[[src_obm_2014_n1_f2__Q07]]
+[[Quesiti/src_obm_2014_n1_f2#q07|src_obm_2014_n1_f2__Q07]]
 
 
 
@@ -234,7 +234,7 @@ level: OBM Nível 1
 > b) What is the area of square $EFGH$?
 > c) What is the area of the grey square in the interior of square $EFGH$?
 
-![[src_obm_2014_n1_f2__Q08.png]]
+![[src_obm_2014_n1_f2__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -252,9 +252,9 @@ level: OBM Nível 1
 > 
 > a) Qual è la superficie del quadrato $ABCD$? b) Qual è la superficie del quadrato $EFGH$? c) Qual è la superficie del quadrato grigio all'interno del quadrato $EFGH$?
 
-![[src_obm_2014_n1_f2__Q08.png]]
+![[src_obm_2014_n1_f2__q08.png]]
 
-[[src_obm_2014_n1_f2__Q08]]
+[[Quesiti/src_obm_2014_n1_f2#q08|src_obm_2014_n1_f2__Q08]]
 
 
 
@@ -291,4 +291,4 @@ level: OBM Nível 1
 > 
 > a) Quale di questi risultati non è un numero intero? b) In quanti modi possiamo mettere i segni tra i numeri? c) Quanti risultati diversi sono possibili?
 
-[[src_obm_2014_n1_f2__Q09]]
+[[Quesiti/src_obm_2014_n1_f2#q09|src_obm_2014_n1_f2__Q09]]

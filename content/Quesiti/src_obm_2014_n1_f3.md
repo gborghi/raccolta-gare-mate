@@ -25,7 +25,7 @@ level: OBM Nível 1
 > 
 > b) If it exists, which figure has exactly 100 more white squares than gray squares?
 
-![[src_obm_2014_n1_f3__Q01.png]]
+![[src_obm_2014_n1_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -47,9 +47,9 @@ level: OBM Nível 1
 > 
 > b) Se esiste, quale figura ha esattamente 100 quadrati bianchi in più dei quadrati grigri?
 
-![[src_obm_2014_n1_f3__Q01.png]]
+![[src_obm_2014_n1_f3__q01.png]]
 
-[[src_obm_2014_n1_f3__Q01]]
+[[Quesiti/src_obm_2014_n1_f3#q01|src_obm_2014_n1_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > 
 > c) She wants to assemble a square with area $3600\,\text{cm}^2$, using the smallest possible number of cards, equal or not. How many cards are these?
 
-![[src_obm_2014_n1_f3__Q02.png]]
+![[src_obm_2014_n1_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -90,9 +90,9 @@ level: OBM Nível 1
 > 
 > c) Desidera assemblare un quadrato con superficie $3600\,\text{cm}^2$, utilizzando il minor numero possibile di carte, uguali o meno. Quante carte sono queste?
 
-![[src_obm_2014_n1_f3__Q02.png]]
+![[src_obm_2014_n1_f3__q02.png]]
 
-[[src_obm_2014_n1_f3__Q02]]
+[[Quesiti/src_obm_2014_n1_f3#q02|src_obm_2014_n1_f3__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 1
 > 
 > b) Geraldo wants to glue some faces of the dice together, forming a rigid cube. The faces in contact must have equal numbers of dots, and the sum of dots on all six faces of the cube must be $116$. Explain how Geraldo should glue these faces.
 
-![[src_obm_2014_n1_f3__Q03.png]]
+![[src_obm_2014_n1_f3__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -129,9 +129,9 @@ level: OBM Nível 1
 > 
 > b) Geraldo vuole incollare alcune facce dei dadi, formando un cubo rigido. Le facce in contatto devono avere uguali numeri di punti, e la somma dei punti su tutte e sei le facce del cubo deve essere $116$. Spiega come Geraldo dovrebbe incollare queste facce.
 
-![[src_obm_2014_n1_f3__Q03.png]]
+![[src_obm_2014_n1_f3__q03.png]]
 
-[[src_obm_2014_n1_f3__Q03]]
+[[Quesiti/src_obm_2014_n1_f3#q03|src_obm_2014_n1_f3__Q03]]
 
 
 
@@ -170,7 +170,7 @@ level: OBM Nível 1
 > 
 > b) Quali sono tutti i valori del numero OBM in modo che nell'addizione di cui sopra, X sia anche un numero (cioè il risultato OOOX è un numero a quattro cifre)?
 
-[[src_obm_2014_n1_f3__Q04]]
+[[Quesiti/src_obm_2014_n1_f3#q04|src_obm_2014_n1_f3__Q04]]
 
 
 
@@ -217,4 +217,4 @@ level: OBM Nível 1
 > 
 > b) Ora supponiamo che mettano monete $15$ sul tavolo. Mostrare che il primo giocatore può sempre vincere (indipendentemente dalle mosse del secondo giocatore).
 
-[[src_obm_2014_n1_f3__Q05]]
+[[Quesiti/src_obm_2014_n1_f3#q05|src_obm_2014_n1_f3__Q05]]

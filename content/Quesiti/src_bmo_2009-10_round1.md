@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri $x$, $y$ e $z$ in modo tale che $x^2 + y^2 + z^2 = x + y + z + 2$.
 
-[[src_bmo_2009-10_round1__Q01]]
+[[Quesiti/src_bmo_2009-10_round1#q01|src_bmo_2009-10_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > I punti $A$, $B$, $C$, $D$ e $E$ si trovano, in tale ordine, su un cerchio e le linee $AB$ e $DC$ si incontrano a $F$. La linea attraverso $A$ che è perpendicolare a $AB$, la linea attraverso $D$ che è perpendicolare a $DC$ e il bisettore perpendicolare di $BC$ sono simultanei. Prova che $\angle ABC = 90^\circ$ se e solo se $AD = CE$.
 
-[[src_bmo_2009-10_round1__Q02]]
+[[Quesiti/src_bmo_2009-10_round1#q02|src_bmo_2009-10_round1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Isaac prova tutte e sei le domande su un articolo di Olimpiade. Non punta mai più in una domanda successiva che in una domanda precedente. Ogni domanda ottiene un punteggio intero da $0$ a $10$. Il suo punteggio è di almeno $1$ sulla domanda 1. Quante diverse sequenze possibili di sei segni può ottenere?
 
-[[src_bmo_2009-10_round1__Q03]]
+[[Quesiti/src_bmo_2009-10_round1#q03|src_bmo_2009-10_round1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: BMO Round 1
 
 > Due cerchi di radii diversi si toccano internamente a $A$. Un tangente comune, non attraverso $A$, tocca il cerchio interno a $C$ e passa attraverso un punto $B$ sul cerchio esterno. La linea $CA$ è prodotta per incontrare il cerchio esterno a $D$. Provare che $BD$ è un diametro del cerchio esterno.
 
-[[src_bmo_2009-10_round1__Q04]]
+[[Quesiti/src_bmo_2009-10_round1#q04|src_bmo_2009-10_round1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: BMO Round 1
 
 > Trova tutte le funzioni $f$ definite sui numeri reali e prendi valori reali che soddisfano l'equazione $f(f(x) + y) = f(x + y) + x f(y)$ per tutti i numeri reali $x$ e $y$.
 
-[[src_bmo_2009-10_round1__Q05]]
+[[Quesiti/src_bmo_2009-10_round1#q05|src_bmo_2009-10_round1__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: BMO Round 1
 
 > Long John Silverman ha una mappa sulla quale il punto $P$ ha coordinate interi $(x, y)$ con $x > 0$, $y > 0$ e $x + y = p^2$ per alcuni primi $p$. Il punto $(x, y)$ sulla mappa è mappato al punto $(x^2 + y,\, x - y)$, dove $x > y > 0$. Ha indicato sulla mappa che i tre numeri $x + y$, $x^2 + y$ e $x - y$ sono tutti distinti. Scopri quanti posti diversi il tesoro potrebbe essere nascosto.
 
-[[src_bmo_2009-10_round1__Q06]]
+[[Quesiti/src_bmo_2009-10_round1#q06|src_bmo_2009-10_round1__Q06]]

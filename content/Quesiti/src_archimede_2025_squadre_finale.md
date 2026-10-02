@@ -43,7 +43,7 @@ level: squadre
 > A little more than three days of racing and beach, and then school starts again. It would seem like a really big loss, wasting your time flying... We could go up to the skyscraper, swim, play beach volleyball, take a nap, or ask ourselves, how many three-digit numbers are equal to the property that the number of hundreds is narrowly greater than the sum of the numbers of the tens and the units? Stay here with φ-neas and Ferbmat, their show begins! [Mom, φ-NEAS and Ferbmat have made the initial problem! ]
 
 **Answer:** 0095
-[[src_archimede_2025_squadre_finale__Q01]]
+[[Quesiti/src_archimede_2025_squadre_finale#q01|src_archimede_2025_squadre_finale__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: squadre
 > Russian mountains φ-neas: Hey Ferbmat, I know what we're going to do today: we're going to build Russian mountains! (Ferbmat approves silently). φ-neas: The tracks are placed on the stalks of an icosahedron. The car will start from a summit and must follow a route that never crosses the same ridge twice, reaching a summit that is not necessarily the one from which it started. How many people, at most, can you get through the car?
 
 **Answer:** 0025
-[[src_archimede_2025_squadre_finale__Q02]]
+[[Quesiti/src_archimede_2025_squadre_finale#q02|src_archimede_2025_squadre_finale__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: squadre
 > While φ-neas and Ferbmat build the Russian mountains, tan(dace) is on the phone with Stauchy, who tries to convince her to write a romantic message for Jermain. tan(dace) then decides to write all integers from 1 to a certain integer n. To make the whole thing even more special, he wants to have exactly 2025 digits in total used at the end of the writing of number n. How much is the sum of the digits of n?
 
 **Answer:** 2043
-[[src_archimede_2025_squadre_finale__Q03]]
+[[Quesiti/src_archimede_2025_squadre_finale#q03|src_archimede_2025_squadre_finale__Q03]]
 
 
 
@@ -147,7 +147,7 @@ level: squadre
 > C.E.S.E.N.A.T.I.C.O. φ-neas: Hey, where's Periodic?. Perryodico, or rather Agentπ, is engaged in his daily mission against Dr. DoofenSchwartz, who managed to catch him! Dr. DoofenSchwartz: I've got you, you little orchid. Look at my latest invention: it's called Placing Effectively On Non-Aligned Elements Towers in Homologous Colors, in short, C.E.S.E.N.A.T.I.C.O.! It allows 8 towers of chess to be placed on a classic chessboard 8×8, so that they are all on boxes of the same color, without any pair of towers being on the same row or column. Not even time to finish the sentence, which Perryodico manages to get rid of. "Fate to you, Perryodic the Ornithorn!" cries DoofenSchwartz. In how many ways can placement be made? 2025 Team Competition  National Final  Problem Tests  1/4
 
 **Answer:** 1152
-[[src_archimede_2025_squadre_finale__Q04]]
+[[Quesiti/src_archimede_2025_squadre_finale#q04|src_archimede_2025_squadre_finale__Q04]]
 
 
 
@@ -232,7 +232,7 @@ level: squadre
 > After building the Russian Mountains, φ-neas and Ferbmat put themselves to the test by creating a portal that allows time travel! They drew up the design of their latest creation on a sheet of paper. On the sheet is drawn the portal, which is a convex hexagon ABCDEF, with the following annotations: The vertices of the hexagon are in points of full coordinates (in meters). The sides of the hexagon have entire lengths (in meters), all different from each other. The opposite sides of the hexagon are parallel. The angle A is straight. Three consecutive sides of the axis measure, in this order, 3m, 8m and 5m. In order to avoid time paradoxes, the portal must be in the form of a minimum area hexagon that satisfies all these conditions. How many m2 is the area of the portal?
 
 **Answer:** 0078
-[[src_archimede_2025_squadre_finale__Q05]]
+[[Quesiti/src_archimede_2025_squadre_finale#q05|src_archimede_2025_squadre_finale__Q05]]
 
 
 
@@ -265,7 +265,7 @@ level: squadre
 > Normal Normal is the humanoid robot built by Dr. DoofenSchwartz to be his personal assistant. My name is Norma. The natural enemies of the scorpion are man... and prime numbers that can be expressed as n4 −2023n2 +1, with n integer states Normal with robotic voice. How much is the sum of the prime numbers of the enemies of the ornithorhinks? Or some ornithorins? Or the little ornaments. I mean, you got it. How much is it worth?
 
 **Answer:** 4051
-[[src_archimede_2025_squadre_finale__Q06]]
+[[Quesiti/src_archimede_2025_squadre_finale#q06|src_archimede_2025_squadre_finale__Q06]]
 
 
 
@@ -300,7 +300,7 @@ level: squadre
 > Unexpected gifts from Dr. DoofenSchwartz decides to surprise his daughter. Vanasse DoofenSchwartz: "Daddy, what are you doing here?" Dr. DoofenSchwartz: I have a surprise for you. It's something you've always wanted and asked a thousand times. I have the key to your... I'm going to go with you. Doofen Schwartz: of my new car? Dr. DoofenSchwartz: No, of your happiness! You said if I bought you a polynomial, I'd be a great father. (Il Dr. DoofenSchwartz has in fact acquired a polynomial p(x) with real coefficients such that p(p(x)) = p(x) +x4 +x2 +1). How much is it worth?
 
 **Answer:** 0626
-[[src_archimede_2025_squadre_finale__Q07]]
+[[Quesiti/src_archimede_2025_squadre_finale#q07|src_archimede_2025_squadre_finale__Q07]]
 
 
 
@@ -335,7 +335,7 @@ level: squadre
 > Mathside Girls The Mathside Girls are a group of brilliant female students who love solving math problems in company and collecting badges by doing all kinds of activities. She wants to be one of them by tomorrow, and to do that, she has to earn 50 medals in one day! The 50th and last badge is the cake delivery badge. To obtain this, you must deliver n cakes, where n is the largest positive integer of 5 digits, with all the digits distinct from each other and no zero digits, such that it is divisible by each of its digits. How many cakes are there?
 
 **Answer:** 8136
-[[src_archimede_2025_squadre_finale__Q08]]
+[[Quesiti/src_archimede_2025_squadre_finale#q08|src_archimede_2025_squadre_finale__Q08]]
 
 
 
@@ -371,7 +371,7 @@ level: squadre
 > Invert-coin-inator Tired of his failures, Dr. DoofenSchwartz is creating the powerful inverse-coin-inator! He heads into his secret laboratory where he finds a grid of 2025×2025 coins, each of which shows T or C with equal probability, regardless of the others. If there are only C coins (T) between two T coins (C respectively) in the same row or column, the inverter-currency-inator can reverse all C (T respectively). For example, if a row contains the TTCCCTTCT sequence, you can make the move T(TCCCT) TTT →T(TTTTT) TTTT. What is the probability that DoofenSchwartz can make all currencies show the same face, by appropriately triggering the inverter-currency-inator a finite number of times? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0009
-[[src_archimede_2025_squadre_finale__Q09]]
+[[Quesiti/src_archimede_2025_squadre_finale#q09|src_archimede_2025_squadre_finale__Q09]]
 
 
 
@@ -413,7 +413,7 @@ level: squadre
 > O.W.C.A. Major MonoGraham: Curl! There is no moment of peace... Il Dr. DoofenSchwartz built a triangle-rectangle-inator, which generates rectangular triangles. Contact all O.W.C.A. agents immediately! Curl:  Done! The agent π is not contactable. However, agent δ discovered that the last ABC triangle created by DoofenSchwartz is a rectangle in B, and that the tangents at the circumference of diameter AC in B and C meet in X. Instead, agent α discovered that the circumcenter of the triangle BCX lies on the circumference of diameter AC. Major MonoGraham: To disable the machinery, all we have to do is understand how much the sides AB and AC measure.... Curl: Agent γ just told me that the AB side is 202 feet, sir. How many feet does AC measure? 2025 Team Competition  National Final  Problem Tests  2/4
 
 **Answer:** 4050
-[[src_archimede_2025_squadre_finale__Q10]]
+[[Quesiti/src_archimede_2025_squadre_finale#q10|src_archimede_2025_squadre_finale__Q10]]
 
 
 
@@ -455,7 +455,7 @@ level: squadre
 > Belljeet's favorite problem The time machine builders, φ-neas and Ferbmat don't realize Belljeet's stuck in a tree, but luckily there's someone ready to help him! Hey, look at this! I have a calculator and your favorite math problem! Do you remember that? It speaks of a real number such that a2 +1 23 = (a+1)2 11 . I'm sure you will. He asked to find the value of a3 +1 (a+1)3. What's the answer to Belljeet's favorite problem? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 0040
-[[src_archimede_2025_squadre_finale__Q11]]
+[[Quesiti/src_archimede_2025_squadre_finale#q11|src_archimede_2025_squadre_finale__Q11]]
 
 
 
@@ -493,7 +493,7 @@ level: squadre
 > Time-traveling fools, φ-neas and Ferbmat decide to build an entire beach... In the garden! And with a beach available, what's better than a surfing race? The φ-neas surfing test is evaluated by 10,000 judges, each of whom expresses a vote that is a positive integer. The arithmetic mean of the grades obtained is M = 2025,abcd where a, b, c, d are, in this order, the only decimal digits of M after the comma. φ-neas observes that if the judges had been fewer than 10000, the average could not have been equal to M. Both S the sum of all possible values of M and φ-neas could have obtained. How much is S worth? Part two: Oh, there you are, Perryodic!
 
 **Answer:** 2000
-[[src_archimede_2025_squadre_finale__Q12]]
+[[Quesiti/src_archimede_2025_squadre_finale#q12|src_archimede_2025_squadre_finale__Q12]]
 
 
 
@@ -525,7 +525,7 @@ The last four digits of 1^7+2^7+...+2025^7*
 > Good morning officer, you're finally here! We have a special assignment for you today. Il Dr. DoofenSchwartz has built the last machine! Fortunately, the device can be disabled by entering the last four digits of 17 +27 +...+20257 as code. This is the total amount of the contribution from the Union to the programme. What code will the agent π have to enter to disable the device?
 
 **Answer:** 5625
-[[src_archimede_2025_squadre_finale__Q13]]
+[[Quesiti/src_archimede_2025_squadre_finale#q13|src_archimede_2025_squadre_finale__Q13]]
 
 
 
@@ -565,7 +565,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > How does the perryodic ornitorrinc cope with so many missions in such a short time? To move quickly between φ-neas' house and Ferbmat (point A), headquarters (point B) and DoofenSchwartz's lab (point C), Perryodico uses an elaborate system of secret pipes. The three key points A, B, C form an acute triangle. To further speed up the movements, Perryodico also considers three intermediate stations M, D, and E, which are respectively the middle point of BC, the foot of the beetle coming out of A and the foot of the height coming out of A. Knowing that AE = 960m, AD = 1200m and DM = 1600m, how many meters away are DoofenSchwartz's headquarters and lab?
 
 **Answer:** 4800
-[[src_archimede_2025_squadre_finale__Q14]]
+[[Quesiti/src_archimede_2025_squadre_finale#q14|src_archimede_2025_squadre_finale__Q14]]
 
 
 
@@ -605,7 +605,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > Thanks to the piping system, the orchid arrives at Dr. DoofenSchwartz, who has already created a new inversion, the inverter-inator: when it is pointed at a triangle, it creates the triangle symmetrical to the starting triangle relative to its center. DoofenSchwartz wants to use it on the town of Danville, which has the shape of an ABC triangle of 13, 14 and 15km long sides, to create a new town, Ellivnad (a triangle A′B′C′), perfectly symmetrical to Danville compared to the center of Danville. To unravel the plan, the agent π must calculate the difference, in km2, between the area of the convex polygon AC′BA′CB′ and the area of the intersection between Ellivnad and Danville. What value must the agent π find to defeat the plan?
 
 **Answer:** 0112
-[[src_archimede_2025_squadre_finale__Q15]]
+[[Quesiti/src_archimede_2025_squadre_finale#q15|src_archimede_2025_squadre_finale__Q15]]
 
 
 
@@ -644,7 +644,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > The perfect f-neas and Ferbmat want to build a triangular f-neas to put sand in. φ-neas takes a first 15cm stick, Ferbmat one 13cm and IsAbel a third 14cm stick. Even if the triangle thus obtained has the right area to put the sand they have at their disposal, φ-neas is not satisfied. He then asks for a fourth rod that forms a new triangle with the last two, different from the previous one, but having the same area. As a result of word-of-mouth, one after another 2025 sticks are added to the initial three: each time the newcomer is paired with the last two, while the older stick is discarded. The 2026 triangles thus tested are all different, but equivalent: the last finally satisfies φ-neas. Given the length of the last rod that satisfies φ-neas and b the length of the penultimate discarded, how much is 1000· a b? 2025 Team Competition  National Final  Problem Tests  3/4
 
 **Answer:** 6854
-[[src_archimede_2025_squadre_finale__Q16]]
+[[Quesiti/src_archimede_2025_squadre_finale#q16|src_archimede_2025_squadre_finale__Q16]]
 
 
 
@@ -679,7 +679,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > The world's largest compass IsAbel returns to visit φ-neas and Ferbmat. - Hey, you guys. What are you doing? φ-neas: We're building the world's largest compass! (Ferbmat draws an infinite grid on the ground with square boxes of side 1m and then φ-neas places the fixed tip of the compass on a top of the grid). φ-neas: Now I draw a radius circumference of 2025m and those in red the boxes that have at least one point in common with the circumference drawn by the compass (even only on the edge of the box). How many boxes did you dye red with φ-neas?
 
 **Answer:** 6220
-[[src_archimede_2025_squadre_finale__Q17]]
+[[Quesiti/src_archimede_2025_squadre_finale#q17|src_archimede_2025_squadre_finale__Q17]]
 
 
 
@@ -712,7 +712,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > After Belljeet managed to get off the tree, φ-neas and Ferbmat propose a challenge to him and BuFourier. φ-neas: You must each choose an integer whose absolute value is less than or equal to 40. You'll win if the two numbers you choose, which we'll call x and y, meet the condition written on the board. (Meanwhile, Ferbmat wrote on the board x2 +3xy +5y2 = 3149). Belljeet: I've already calculated how much it'll be worth in case we win! What number did Belljeet calculate?
 
 **Answer:** 0007
-[[src_archimede_2025_squadre_finale__Q18]]
+[[Quesiti/src_archimede_2025_squadre_finale#q18|src_archimede_2025_squadre_finale__Q18]]
 
 
 
@@ -747,7 +747,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > C.E.S.E.N.A.T.I.C.N.O. Because the C.E.S.E.N.A.T.I.C.O. It turned out to be a failure. DoofenSchwartz decided to perfect it to launch a final challenge to Perryodic the Ornithorynco. This gives rise to C.E.S.E.N.A.T.I.C.N.O., which is to effectively place on non-aligned elements towers in non-homologous colors. Unlike the previous version, this new invention allows 8 chess towers to be placed on a classic 8×8 chessboard, so that 4 are on white boxes and 4 on black boxes, without any pair of towers on the same row or column. How many ways can this be done?
 
 **Answer:** 0736
-[[src_archimede_2025_squadre_finale__Q19]]
+[[Quesiti/src_archimede_2025_squadre_finale#q19|src_archimede_2025_squadre_finale__Q19]]
 
 
 
@@ -782,7 +782,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 > Summer is coming to an end and φ-neas and Ferbmat have just built a machine capable of calculating the product of the real roots of a polynomial. To test it, they decide to insert the polynomial p(x) = 16x4 −16x3 −4x+1. While the machine is processing the result, BuFourier exclaims: Real radicals? So they must have a crown or something, right? (Suddenly, from a corner of the garden appears the Periodic ornitorinic). Oh, there you are, perryodic! Given the result calculated by the machine, what is the value of 10000?
 
 **Answer:** 2500
-[[src_archimede_2025_squadre_finale__Q20]]
+[[Quesiti/src_archimede_2025_squadre_finale#q20|src_archimede_2025_squadre_finale__Q20]]
 
 
 
@@ -833,4 +833,4 @@ Distance BC from AE, AD, DM (median, biset, height)
 > XXVI National Final Team Competition  Saturday 10 May 2025 Ministry of Education and Merit Solutions Nr. The problem
 
 **Answer:** 4050
-[[src_archimede_2025_squadre_finale__Q21]]
+[[Quesiti/src_archimede_2025_squadre_finale#q21|src_archimede_2025_squadre_finale__Q21]]

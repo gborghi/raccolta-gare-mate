@@ -40,7 +40,7 @@ Find values of BC2+CA2+AB2 and locus of BC midpoint
 
 > Consider two coplanar circles of radii R and r (R > r) with the same center. Let P be a fixed point on the smaller circle and B a variable point on the larger circle. The line BP meets the larger circle again at C. The perpendicular l to BP at P meets the smaller circle again at A. (If l is tangent to the circle at P then A = P.) (i) Find the set of values of BC2 + CA2 + AB2. (ii) Find the locus of the midpoint of BC.
 
-[[src_imo_1988__Q01]]
+[[Quesiti/src_imo_1988#q01|src_imo_1988__Q01]]
 
 
 
@@ -75,7 +75,7 @@ Find values of BC2+CA2+AB2 and locus of BC midpoint
 
 > Let n be a positive integer and let A1, A2, . . . , A2n+1 be subsets of a set B. Suppose that (a) Each Ai has exactly 2n elements, (b) Each Ai ∩Aj (1 ≤i < j ≤2n + 1) contains exactly one element, and (c) Every element of B belongs to at least two of the Ai. For which values of n can one assign to every element of B one of the numbers 0 and 1 in such a way that Ai has 0 assigned to exactly n of its elements?
 
-[[src_imo_1988__Q02]]
+[[Quesiti/src_imo_1988#q02|src_imo_1988__Q02]]
 
 
 
@@ -124,7 +124,7 @@ Find values of BC2+CA2+AB2 and locus of BC midpoint
 > 
 > 29th International Mathematical Olympiad Canberra, Australia Day II
 
-[[src_imo_1988__Q03]]
+[[Quesiti/src_imo_1988#q03|src_imo_1988__Q03]]
 
 
 
@@ -158,7 +158,7 @@ Find values of BC2+CA2+AB2 and locus of BC midpoint
 
 > Show that set of real numbers x which satisfy the inequality 70 X k=1 k x −k ≥5 4 is a union of disjoint intervals, the sum of whose lengths is 1988.
 
-[[src_imo_1988__Q04]]
+[[Quesiti/src_imo_1988#q04|src_imo_1988__Q04]]
 
 
 
@@ -188,7 +188,7 @@ Find values of BC2+CA2+AB2 and locus of BC midpoint
 
 > ABC is a right-angled triangle at A, and D is the foot of the altitude from A. The straight line joining the incenters of the triangles ABD, ACD intersects the sides AB, AC at the points K, L respectively. S and T denote the areas of the triangles ABC and AKL respectively. Show that S ≥2T.
 
-[[src_imo_1988__Q05]]
+[[Quesiti/src_imo_1988#q05|src_imo_1988__Q05]]
 
 
 
@@ -217,4 +217,4 @@ Find values of BC2+CA2+AB2 and locus of BC midpoint
 
 > Let a and b be positive integers such that ab + 1 divides a2 + b2. Show that a2 + b2 ab + 1 is the square of an integer.
 
-[[src_imo_1988__Q06]]
+[[Quesiti/src_imo_1988#q06|src_imo_1988__Q06]]

@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > In the figure below, triangles $OAB$, $OBC$, $OCD$ are right isosceles triangles with right angles at $\angle OAB$, $\angle OBC$, $\angle OCD$ respectively. When the area of triangle $OCD$ is $12$, find the area of triangle $OAB$.
 
-![[src_jjmo7yq_yosen__Q01.png]]
+![[src_jjmo7yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -36,10 +36,10 @@ level: JJMO Yosen
 
 > Nella figura seguente, i triangoli $OAB$, $OBC$, $OCD$ sono triangoli a piega retta con angolazioni rette rispettivamente $\angle OAB$, $\angle OBC$ e $\angle OCD$. Quando l'area del triangolo $OCD$ è $12$, trovare l'area del triangolo $OAB$.
 
-![[src_jjmo7yq_yosen__Q01.png]]
+![[src_jjmo7yq_yosen__q01.png]]
 
 **Risposta:** 3
-[[src_jjmo7yq_yosen__Q01]]
+[[Quesiti/src_jjmo7yq_yosen#q01|src_jjmo7yq_yosen__Q01]]
 
 
 
@@ -52,7 +52,7 @@ level: JJMO Yosen
 
 > There is a grid of $3$ rows and $5$ columns of unit squares (15 squares in total). Let $A$ be the top-right vertex and $B$ be the bottom-left vertex. In each square, a diagonal is drawn from the top-right vertex to the bottom-left vertex (as shown in the figure). Among all paths from $A$ to $B$ that travel only along these diagonals and along the sides of the squares, find the number of paths whose total length is minimum.
 
-![[src_jjmo7yq_yosen__Q02.png]]
+![[src_jjmo7yq_yosen__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -68,9 +68,9 @@ level: JJMO Yosen
 
 > C'è una griglia di righe $3$ e colonne $5$ di quadrati unitari (15 quadrati in totale). $A$ sia il vertice superiore a destra e $B$ sia il vertice inferiore a sinistra. In ogni quadrato, una diagonale viene tracciata dal vertice superiore a destra al vertice inferiore a sinistra (come mostrato nella figura). Tra tutti i percorsi da $A$ a $B$ che viaggiano solo lungo queste diagonali e lungo i lati dei quadrati, si trova il numero di percorsi la cui lunghezza totale è minima.
 
-![[src_jjmo7yq_yosen__Q02.png]]
+![[src_jjmo7yq_yosen__q02.png]]
 
-[[src_jjmo7yq_yosen__Q02]]
+[[Quesiti/src_jjmo7yq_yosen#q02|src_jjmo7yq_yosen__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: JJMO Yosen
 > Trovare la parte integrale (cioè arrotondata verso il basso al numero intero più vicino) della seguente espressione: $$\frac{9 + 98 + 987 + 9876 + 98765 + 987654 + 9876543 + 98765432}{12345678 + 1234567 + 123456 + 12345 + 1234 + 123 + 12 + 1}.$$
 
 **Risposta:** 8
-[[src_jjmo7yq_yosen__Q03]]
+[[Quesiti/src_jjmo7yq_yosen#q03|src_jjmo7yq_yosen__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: JJMO Yosen
 > Ci sono due integri positivi $3$-cifre, entrambi finiti nella cifra $9$. Trova tutti i valori possibili della cifra unità del prodotto di questi due numeri.
 
 **Risposta:** 1
-[[src_jjmo7yq_yosen__Q04]]
+[[Quesiti/src_jjmo7yq_yosen#q04|src_jjmo7yq_yosen__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: JJMO Yosen
 
 > Un pentagono converso ha tutti i lati di lunghezza $1$, e esistono due diagonali del pentagono che sono perpendicolari l'uno all'altro (formando un angolo $90^\circ$). Trova la superficie massima possibile di un tale pentagono. (Un pentagono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
 
-[[src_jjmo7yq_yosen__Q05]]
+[[Quesiti/src_jjmo7yq_yosen#q05|src_jjmo7yq_yosen__Q05]]
 
 
 
@@ -183,7 +183,7 @@ level: JJMO Yosen
 
 > Trova il più piccolo intero positivo $n$ in modo che $14n$, $16n$, $18n$ e $20n$ abbiano tutti lo stesso numero di divisori positivi.
 
-[[src_jjmo7yq_yosen__Q06]]
+[[Quesiti/src_jjmo7yq_yosen#q06|src_jjmo7yq_yosen__Q06]]
 
 
 
@@ -196,7 +196,7 @@ level: JJMO Yosen
 
 > There are $8$ unit cubes (each with side length $1$). These are stacked together as shown in the figure to form a larger $2 \times 2 \times 2$ cube of side length $2$. How many lines in space pass through at least $2$ vertices of the original unit cubes (vertices of the small cubes)?
 
-![[src_jjmo7yq_yosen__Q07.png]]
+![[src_jjmo7yq_yosen__q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -212,9 +212,9 @@ level: JJMO Yosen
 
 > Esistono cubetti unitari $8$ (ciascuno con lunghezza laterale $1$). Questi sono impilati insieme come mostrato nella figura per formare un cubo più grande $2 \times 2 \times 2$ di lunghezza laterale $2$. Quante linee nello spazio attraversano almeno $2$ vertici dei cubetti unitari originali (vertici dei piccoli cubetti)?
 
-![[src_jjmo7yq_yosen__Q07.png]]
+![[src_jjmo7yq_yosen__q07.png]]
 
-[[src_jjmo7yq_yosen__Q07]]
+[[Quesiti/src_jjmo7yq_yosen#q07|src_jjmo7yq_yosen__Q07]]
 
 
 
@@ -241,7 +241,7 @@ level: JJMO Yosen
 
 > Trova le ultime cifre $3$ del prodotto di tutti i numeri dispari da $1$ a $100$ (inclusi), vale a dire trova $1 \times 3 \times 5 \times \cdots \times 99 \pmod{1000}$.
 
-[[src_jjmo7yq_yosen__Q08]]
+[[Quesiti/src_jjmo7yq_yosen#q08|src_jjmo7yq_yosen__Q08]]
 
 
 
@@ -268,7 +268,7 @@ level: JJMO Yosen
 
 > Nel tetraedro $O$-$ABC$, $X$ deve essere un punto nella faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Trova il volume del tetraedro $O$- $ABC$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
 
-[[src_jjmo7yq_yosen__Q09]]
+[[Quesiti/src_jjmo7yq_yosen#q09|src_jjmo7yq_yosen__Q09]]
 
 
 
@@ -297,7 +297,7 @@ level: JJMO Yosen
 
 > Numeri reali $a, b, c, d, e, f$ soddisfano: $$\begin{cases}(a+1999)(b-1999)(c+1999)(d-1999)(e+1999)(f-1999) = 1,\\ (a+2000)(b-2000)(c+2000)(d-2000)(e+2000)(f-2000) = 10,\\ (a+2001)(b-2001)(c+2001)(d-2001)(e+2001)(f-2001) = 100.\end{cases}$$ Trova il valore di $(a+2009)(b-2009)(c+2009)(d-2009)(e+2009)(f-2009)$.
 
-[[src_jjmo7yq_yosen__Q10]]
+[[Quesiti/src_jjmo7yq_yosen#q10|src_jjmo7yq_yosen__Q10]]
 
 
 
@@ -324,7 +324,7 @@ level: JJMO Yosen
 
 > Ci sono sfere $9$, etichettate con i numeri interi $1$ fino a $9$ (un intero per sfera). Scegli un po' di queste palle. La regola è: inserire le palle scelte in una scatola rossa e le palle rimanenti in una scatola blu, in modo che per due palle nella stessa scatola la differenza assoluta delle etichette sia almeno $3$. Trova il numero di modi per scegliere le palle che soddisfano questa condizione. (La scelta di nessuna palla conta come modo $1$.)
 
-[[src_jjmo7yq_yosen__Q11]]
+[[Quesiti/src_jjmo7yq_yosen#q11|src_jjmo7yq_yosen__Q11]]
 
 
 
@@ -351,4 +351,4 @@ level: JJMO Yosen
 
 > Utilizzando gli integri $a$ e $b$, considera tutti gli integri positivi che possono essere espressi nella forma $a^{2009} + b^{2009}$. Tra questi, trovare il numero di tali integri positivi che sono al massimo $2009$.
 
-[[src_jjmo7yq_yosen__Q12]]
+[[Quesiti/src_jjmo7yq_yosen#q12|src_jjmo7yq_yosen__Q12]]

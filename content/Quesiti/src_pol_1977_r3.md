@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Il $ABCD$ deve essere un quadrilaterale con $\angle BAD = 60^\circ$, $\angle BAC = 40^\circ$, $\angle ABD = 80^\circ$, $\angle ABC = 70^\circ$. Prove che le linee $AB$ e $CD$ sono perpendicolari.
 
-[[src_pol_1977_r3__Q01]]
+[[Quesiti/src_pol_1977_r3#q01|src_pol_1977_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > $n \ge 3$ sia un dato numero intero. Una sequenza $K_0, K_1, K_2, \ldots$ di cerchi e una sequenza $W_1, W_2, \ldots$ di convexe $n$-goni soddisfano $$K_0 \supset W_1 \supset K_1 \supset W_2 \supset K_2 \supset \cdots$$ per tutti $i = 1, 2, \ldots$. Prova che la sequenza dei radii dei cerchi $K_n$ converge a zero.
 
-[[src_pol_1977_r3__Q02]]
+[[Quesiti/src_pol_1977_r3#q02|src_pol_1977_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 3
 
 > Considerate l'insieme $A = \{0, 1, 2, \ldots, 2^n - 1\}$. Una funzione $f: A \to A$ viene data da $$f(x_0 + 2x_1 + 2^2 x_2 + \cdots + 2^{n-1} x_{n-1}) = (1 - x_0) + 2(1 - x_1) + 2^2(1 - x_2) + \cdots + 2^{n-1}(1 - x_{n-1})$$ per ogni sequenza $0$-$1$ $(x_0, x_1, \ldots, x_{n-1})$. Mostrare che se $a_1, a_2, \ldots, a_m$ sono termini consecutivi di una progressione aritmetica, la sequenza $f(a_1), f(a_2), \ldots, f(a_m)$ non aumenta.
 
-[[src_pol_1977_r3__Q03]]
+[[Quesiti/src_pol_1977_r3#q03|src_pol_1977_r3__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: Olimpiade Polacca Round 3
 
 > Una funzione $h: \mathbb{R} \to \mathbb{R}$ è differenziabile e soddisfa $h(a + x) = h(a) \cdot h(x)$ per tutte le $x$, dove $a$ e $b$ sono dati numeri reali positivi e $b \ne 1$. Supponiamo che $h'(0) > 0$ e la funzione $h'$ sia continua a $x = 0$. Prova che $a = b$ e che esiste un numero reale $c$ tale da $h(x) = c^x$ per tutti $x$.
 
-[[src_pol_1977_r3__Q04]]
+[[Quesiti/src_pol_1977_r3#q04|src_pol_1977_r3__Q04]]
 
 
 
@@ -140,7 +140,7 @@ level: Olimpiade Polacca Round 3
 
 > Mostrare che per ogni poligono convex c'è un cerchio che attraversa tre vertici consecutivi del poligono e contiene l'intero poligono.
 
-[[src_pol_1977_r3__Q05]]
+[[Quesiti/src_pol_1977_r3#q05|src_pol_1977_r3__Q05]]
 
 
 
@@ -167,4 +167,4 @@ level: Olimpiade Polacca Round 3
 
 > Considera il polinomio $W(x) = (x - a)^k Q(x)$, dove $a \ne 0$, $Q(x)$ è un polinomio non zero e $k$ è un numero naturale. Prova che $W$ ha almeno $k + 1$ coefficienti non zero.
 
-[[src_pol_1977_r3__Q06]]
+[[Quesiti/src_pol_1977_r3#q06|src_pol_1977_r3__Q06]]

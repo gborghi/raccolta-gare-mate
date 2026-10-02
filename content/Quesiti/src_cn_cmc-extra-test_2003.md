@@ -19,7 +19,7 @@ level: China Mathematical Competition (Extra Test)
 
 > From point $P$, outside a circle, draw two tangents to the circle touching at points $A$ and $B$. Draw a secant line intersecting the circle at points $C$ and $D$, with $C$ between $P$ and $D$. Choose point $Q$ on the chord $CD$ such that $\angle DAQ = \angle PBC$. Prove that $\angle DBQ = \angle PAC$.
 
-![[src_cn_cmc-extra-test_2003__Q01.png]]
+![[src_cn_cmc-extra-test_2003__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -34,9 +34,9 @@ level: China Mathematical Competition (Extra Test)
 
 > Dal punto $P$, al di fuori di un cerchio, tracciare due tangenti al cerchio che si toccano ai punti $A$ e $B$. Tracciare una linea secante che incrocia il cerchio nei punti $C$ e $D$, con $C$ tra $P$ e $D$. Selezionare il punto $Q$ sull'accordo $CD$ in modo tale che $\angle DAQ = \angle PBC$. Prova che $\angle DBQ = \angle PAC$.
 
-![[src_cn_cmc-extra-test_2003__Q01.png]]
+![[src_cn_cmc-extra-test_2003__q01.png]]
 
-[[src_cn_cmc-extra-test_2003__Q01]]
+[[Quesiti/src_cn_cmc-extra-test_2003#q01|src_cn_cmc-extra-test_2003__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: China Mathematical Competition (Extra Test)
 > I tre lati di un triangolo sono numeri interi $l$, $m$, $n$, rispettivamente, soddisfacendo $l > m \ge n$ e $\left\{\frac{3^l}{10^4}\right\} = \left\{\frac{3^m}{10^4}\right\} = \left\{\frac{3^n}{10^4}\right\}$, dove $\{x\} = x - [x]$ e $[x]$ denotano la parte integrale di $x$. Trova il perimetro minimo di un triangolo.
 
 **Risposta:** 3003
-[[src_cn_cmc-extra-test_2003__Q02]]
+[[Quesiti/src_cn_cmc-extra-test_2003#q02|src_cn_cmc-extra-test_2003__Q02]]
 
 
 
@@ -92,4 +92,4 @@ level: China Mathematical Competition (Extra Test)
 
 > La figura spaziale è composta da vertici $n$ e linee $l$ che collegano tali vertici, con $n = q^2 + q + 1$, $l \ge \frac{1}{2}(q+1)^2 + 1$, $q \ge 2$, $q \in \mathbb{N}$. Supponiamo che la figura soddisfi le seguenti condizioni: ogni quattro vertici non sono coplanari, ogni vertici è collegato da almeno una linea e c'è un vertici che è collegato da almeno $q + 2$ linee. Prove che esiste un quadrilaterale spaziale nella figura.
 
-[[src_cn_cmc-extra-test_2003__Q03]]
+[[Quesiti/src_cn_cmc-extra-test_2003#q03|src_cn_cmc-extra-test_2003__Q03]]

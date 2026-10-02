@@ -21,7 +21,7 @@ level: China Mathematical Olympiad
 > (1) Prove that if $A$, $B$, $C$, $D$ are concyclic, then $EM \times FN = EN \times FM$.
 > (2) Are the four points $A$, $B$, $C$, $D$ always concyclic if $EM \times FN = EN \times FM$? Prove your answer.
 
-![[src_cn_cmo_2009__Q01.png]]
+![[src_cn_cmo_2009__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -37,9 +37,9 @@ level: China Mathematical Olympiad
 
 > In caso di triangolo acuto $PBC$, $PB \neq PC$. I punti $A$ e $D$ devono essere rispettivamente sui lati $PB$ e $PC$. $M$, $N$ siano rispettivamente i punti intermedi dei segmenti $BC$ e $AD$. Le linee $AC$ e $BD$ si incrociano al punto $O$. Disegnare $OE \perp AB$ al punto $E$ e $OF \perp CD$ al punto $F$. (1) Dimostra che se $A$, $B$, $C$, $D$ sono conciclici, allora $EM \times FN = EN \times FM$. (2) I quattro punti $A$, $B$, $C$, $D$ sono sempre conciclici se $EM \times FN = EN \times FM$? Prova la tua risposta.
 
-![[src_cn_cmo_2009__Q01.png]]
+![[src_cn_cmo_2009__q01.png]]
 
-[[src_cn_cmo_2009__Q01]]
+[[Quesiti/src_cn_cmo_2009#q01|src_cn_cmo_2009__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: China Mathematical Olympiad
 
 > Trova tutte le coppie $(p, q)$ di numeri primi come $pq \mid 5^p + 5^q$. (Posato da Fu Yunhao)
 
-[[src_cn_cmo_2009__Q02]]
+[[Quesiti/src_cn_cmo_2009#q02|src_cn_cmo_2009__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: China Mathematical Olympiad
 
 > Che $m$, $s$ siano integri con $4 < m < s$, e $A_0$, $A_1$, $A_2$, $\ldots$, $A_{2s}$ siano i vertici di un normale $(2s+1)$-gon. Inoltre, $P = \{A_1, A_2, \ldots, A_{2s}\}$. Trova il numero di convex $m$ con esattamente due angoli interni acuti le cui vertici sono tutte in $P$. (Posato da Leng Gangsong)
 
-[[src_cn_cmo_2009__Q03]]
+[[Quesiti/src_cn_cmo_2009#q03|src_cn_cmo_2009__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: China Mathematical Olympiad
 
 > $n \geq 3$ sia un dato numero intero e $a_1, a_2, \ldots, a_n$ sia un numero reale soddisfacente $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Trova il valore minimo di $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Posato da Zhu Huawei)
 
-[[src_cn_cmo_2009__Q04]]
+[[Quesiti/src_cn_cmo_2009#q04|src_cn_cmo_2009__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: China Mathematical Olympiad
 > Trovare tutti gli enti $n$ in modo tale da poter colorare tutti i bordi e le diagonali di un poligono convexo $n$ con $n$ dati colori che soddisfano le seguenti condizioni: (1) Ciascuno dei bordi o dei diagonali è colorato solo da un colore; (2) Per qualsiasi tre colori distinti, esiste un triangolo le cui vertici sono vertici del poligono $n$ e tre bordi sono colorati da questi tre colori. (Possibile da Su Chan)
 
 **Risposta:** Any odd number $n \geq 1$
-[[src_cn_cmo_2009__Q05]]
+[[Quesiti/src_cn_cmo_2009#q05|src_cn_cmo_2009__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: China Mathematical Olympiad
 
 > Date un numero intero $n \geq 3$, dimostrare che esiste un insieme $S$ di $n$ diversi interi positivi in modo tale che per due sudinsiemi non vuoti $A$ e $B$ di $S$, i numeri $\dfrac{\displaystyle\sum_{x \in A} x}{|A|}$ e $\dfrac{\displaystyle\sum_{x \in B} x}{|B|}$ sono due interi composti copriemi, dove $\displaystyle\sum_{x \in X} x$ indica la somma di tutti gli elementi di un insieme finito $X$, e $|X|$ indica la cardinalità di $X$.
 
-[[src_cn_cmo_2009__Q06]]
+[[Quesiti/src_cn_cmo_2009#q06|src_cn_cmo_2009__Q06]]

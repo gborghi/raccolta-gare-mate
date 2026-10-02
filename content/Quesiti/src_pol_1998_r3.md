@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutti gli integri positivi $a, b, c, x, y, z$ con $a \ge 2$, $b \ge 2$, $c \ge 2$, $x \ge y \ge z$ che soddisfano $$a + b + c = xyz, \quad x + y + z = abc.$$
 
-[[src_pol_1998_r3__Q01]]
+[[Quesiti/src_pol_1998_r3#q01|src_pol_1998_r3__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Olimpiade Polacca Round 3
 
 > La sequenza di Fibonacci $(F_n)$ è data da $F_0 = F_1 = 1$ e $F_{n+2} = F_{n+1} + F_n$ per $n \ge 0$. Per un numero intero $n \ge 4$, considera la sequenza definita da $$a_0 = \frac{F_0}{F_n}, \quad a_{k+1} = \begin{cases} \dfrac{2a_k}{1 - a_k} & \text{for } a_k \ne 1, \\ a_k & \text{for } a_k = 1, \end{cases} \quad k = 0, 1, 2, \ldots$$ Trova tutti i numeri interi $n \ge 4$ per i quali il numero $1$ è un membro della sequenza $(a_k)$.
 
-[[src_pol_1998_r3__Q02]]
+[[Quesiti/src_pol_1998_r3#q02|src_pol_1998_r3__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 3
 
 > Un pentagono converso $ABCDE$ è la base di una piramide $ABCDES$. Un piano che non attraversa nessuna vertica della piramide incontra i bordi $SA$, $SB$, $SC$, $SD$, $SE$ rispettivamente nei punti $A'$, $B'$, $C'$, $D'$ e $E'$. Prova che i punti di intersezione dei diagonali dei quadrilaterali $ABB'A'$, $BCC'B'$, $CDD'C'$, $DEE'D'$, $EAA'E'$ sono coplanari.
 
-[[src_pol_1998_r3__Q03]]
+[[Quesiti/src_pol_1998_r3#q03|src_pol_1998_r3__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 3
 
 > Mostra che la sequenza $(a_n)$ definita da $a_0 = a_1$ e $a_n = a_{n-1} + a_{n-2}$ per $n \ge 2$ contiene infiniti termini divisibili da $7$.
 
-[[src_pol_1998_r3__Q04]]
+[[Quesiti/src_pol_1998_r3#q04|src_pol_1998_r3__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: Olimpiade Polacca Round 3
 
 > I punti $D$ e $E$ si trovano sul lato $AB$ di un triangolo $ABC$ e soddisfano $$\frac{AD}{DB} = \frac{AE}{EB} = \frac{AC^2}{CB^2}.$$ Prove che $\angle ACD = \angle BCE$.
 
-[[src_pol_1998_r3__Q05]]
+[[Quesiti/src_pol_1998_r3#q05|src_pol_1998_r3__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 3
 
 > Considerate i quadrati di unità nel piano le cui vertici hanno coordinate interi. Che $S$ sia la scacchiera costituita da tutti i quadrati unitari che si trovano interamente all'interno del cerchio $x^2 + y^2 \le 1998^2$. In ogni quadrato della scacchiera $S$ è scritto un numero. In ogni mossa, possiamo cambiare il segno di tutti i numeri in una riga, colonna o diagonale di $S$ (una diagonale è costituita da tutti i quadrati unitari che si trovano su una linea che forma un angolo di $45^\circ$ con gli assi). È possibile avere $-1$ in esattamente un'unità quadrata di $S$ dopo infinite mosse?
 
-[[src_pol_1998_r3__Q06]]
+[[Quesiti/src_pol_1998_r3#q06|src_pol_1998_r3__Q06]]

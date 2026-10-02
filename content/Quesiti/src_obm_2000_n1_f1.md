@@ -43,7 +43,7 @@ level: OBM Nível 1
 > (A) $29$ \quad (B) $99$ \quad (C) $72$ \quad (D) $41$ \quad (E) $81$
 
 **Risposta:** E
-[[src_obm_2000_n1_f1__Q01]]
+[[Quesiti/src_obm_2000_n1_f1#q01|src_obm_2000_n1_f1__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: OBM Nível 1
 > (A) $200$ reais \quad (B) $150$ reais \quad (C) $225$ reais \quad (D) $175$ reais \quad (E) $180$ reais
 
 **Risposta:** C
-[[src_obm_2000_n1_f1__Q02]]
+[[Quesiti/src_obm_2000_n1_f1#q02|src_obm_2000_n1_f1__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 1
 > (A) $10$ \quad (B) $3$ \quad (C) $6$ \quad (D) $7$ \quad (E) $9$
 
 **Risposta:** B
-[[src_obm_2000_n1_f1__Q03]]
+[[Quesiti/src_obm_2000_n1_f1#q03|src_obm_2000_n1_f1__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: OBM Nível 1
 > (A) $11$ \quad (B) $12$ \quad (C) $13$ \quad (D) $14$ \quad (E) $15$
 
 **Risposta:** D
-[[src_obm_2000_n1_f1__Q04]]
+[[Quesiti/src_obm_2000_n1_f1#q04|src_obm_2000_n1_f1__Q04]]
 
 
 
@@ -175,7 +175,7 @@ level: OBM Nível 1
 > A) Sono tutti dello stesso colore. Quad (B) Sono rossi. \quad (C) Uno è rosso e gli altri due sono bianchi. \quad (D) Uno è bianco e gli altri due sono rossi. Quad (E) almeno uno è rosso.
 
 **Risposta:** A
-[[src_obm_2000_n1_f1__Q05]]
+[[Quesiti/src_obm_2000_n1_f1#q05|src_obm_2000_n1_f1__Q05]]
 
 
 
@@ -190,7 +190,7 @@ level: OBM Nível 1
 > 
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $8$
 
-![[src_obm_2000_n1_f1__Q06.png]]
+![[src_obm_2000_n1_f1__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -209,10 +209,10 @@ level: OBM Nível 1
 > 
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $8$
 
-![[src_obm_2000_n1_f1__Q06.png]]
+![[src_obm_2000_n1_f1__q06.png]]
 
 **Risposta:** D
-[[src_obm_2000_n1_f1__Q06]]
+[[Quesiti/src_obm_2000_n1_f1#q06|src_obm_2000_n1_f1__Q06]]
 
 
 
@@ -245,7 +245,7 @@ level: OBM Nível 1
 > (A) $4$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) none
 
 **Risposta:** B
-[[src_obm_2000_n1_f1__Q07]]
+[[Quesiti/src_obm_2000_n1_f1#q07|src_obm_2000_n1_f1__Q07]]
 
 
 
@@ -277,7 +277,7 @@ level: OBM Nível 1
 > (A) $54$ \quad (B) $72$ \quad (C) $50$ \quad (D) $52$ \quad (E) $45$
 
 **Risposta:** B
-[[src_obm_2000_n1_f1__Q08]]
+[[Quesiti/src_obm_2000_n1_f1#q08|src_obm_2000_n1_f1__Q08]]
 
 
 
@@ -310,7 +310,7 @@ level: OBM Nível 1
 > (A) $7$ \quad (B) $10$ \quad (C) $13$ \quad (D) $9$ \quad (E) $11$
 
 **Risposta:** E
-[[src_obm_2000_n1_f1__Q09]]
+[[Quesiti/src_obm_2000_n1_f1#q09|src_obm_2000_n1_f1__Q09]]
 
 
 
@@ -327,7 +327,7 @@ level: OBM Nível 1
 > 
 > (A) [image A] \quad (B) [image B] \quad (C) [image C] \quad (D) [image D] \quad (E) [image E]
 
-![[src_obm_2000_n1_f1__Q10.png]]
+![[src_obm_2000_n1_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -348,10 +348,10 @@ level: OBM Nível 1
 > 
 > (A) [immagine A] \quad (B) [immagine B] \quad (C) [immagine C] \quad (D) [immagine D] \quad (E) [immagine E]
 
-![[src_obm_2000_n1_f1__Q10.png]]
+![[src_obm_2000_n1_f1__q10.png]]
 
 **Risposta:** B
-[[src_obm_2000_n1_f1__Q10]]
+[[Quesiti/src_obm_2000_n1_f1#q10|src_obm_2000_n1_f1__Q10]]
 
 
 
@@ -384,7 +384,7 @@ Scatole di palme di cuore impilate in scatole: numero totale
 > (A) $576$ \quad (B) $4\,608$ \quad (C) $2\,304$ \quad (D) $720$ \quad (E) $144$
 
 **Risposta:** E
-[[src_obm_2000_n1_f1__Q11]]
+[[Quesiti/src_obm_2000_n1_f1#q11|src_obm_2000_n1_f1__Q11]]
 
 
 
@@ -417,7 +417,7 @@ Scatole di palme di cuore impilate in scatole: numero totale
 > (A) anni $72$ e anni $36$ e anni $18$. Quad (B) $36$ anni e $18$ anni e $18$ anni. Quad (C) $40$ anni e $20$ anni. Quad (D) $50$ anni e $25$ anni. \quad (E) $38$ anni e $19$ anni.
 
 **Risposta:** E
-[[src_obm_2000_n1_f1__Q12]]
+[[Quesiti/src_obm_2000_n1_f1#q12|src_obm_2000_n1_f1__Q12]]
 
 
 
@@ -465,7 +465,7 @@ Scatole di palme di cuore impilate in scatole: numero totale
 > (A) $F$ \quad (B) $B$ \quad (C) $C$ \quad (D) $I$ \quad (E) $A$
 
 **Risposta:** C
-[[src_obm_2000_n1_f1__Q13]]
+[[Quesiti/src_obm_2000_n1_f1#q13|src_obm_2000_n1_f1__Q13]]
 
 
 
@@ -498,7 +498,7 @@ I figli di Emir Abdel Azir: problema di logica multipla
 > (A) $111$ \quad (B) $48$ \quad (C) $51$ \quad (D) $78$ \quad (E) $75$
 
 **Risposta:** C
-[[src_obm_2000_n1_f1__Q14]]
+[[Quesiti/src_obm_2000_n1_f1#q14|src_obm_2000_n1_f1__Q14]]
 
 
 
@@ -540,7 +540,7 @@ Il puzzle logico: chi ha pagato l'ingresso al museo
 > (A) Mário \quad (B) Pedro \quad (C) Benjamim \quad (D) Carlos \quad (E) dati insufficienti
 
 **Risposta:** A
-[[src_obm_2000_n1_f1__Q15]]
+[[Quesiti/src_obm_2000_n1_f1#q15|src_obm_2000_n1_f1__Q15]]
 
 
 
@@ -573,7 +573,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** D
-[[src_obm_2000_n1_f1__Q16]]
+[[Quesiti/src_obm_2000_n1_f1#q16|src_obm_2000_n1_f1__Q16]]
 
 
 
@@ -606,7 +606,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 > (A) $1\,000$ \quad (B) $10\,000$ \quad (C) $50\,000$ \quad (D) $100\,000$ \quad (E) $500\,000$
 
 **Risposta:** B
-[[src_obm_2000_n1_f1__Q17]]
+[[Quesiti/src_obm_2000_n1_f1#q17|src_obm_2000_n1_f1__Q17]]
 
 
 
@@ -639,7 +639,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 > (A) La media del gruppo $A$ è migliorata, ma quella del gruppo $B$ è peggiorata. \quad (B) La media del gruppo $A$ è peggiorata, ma quella del gruppo $B$ è migliorata. \quad (C) Le medie di entrambi i gruppi sono migliorate. \quad (D) Le medie di entrambi i gruppi sono peggiorate. \quad (E) Le medie di entrambi i gruppi possono migliorare o peggiorare, a seconda dei voti dei candidati.
 
 **Risposta:** C
-[[src_obm_2000_n1_f1__Q18]]
+[[Quesiti/src_obm_2000_n1_f1#q18|src_obm_2000_n1_f1__Q18]]
 
 
 
@@ -672,7 +672,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 > (A) $406$ \quad (B) $376$ \quad (C) $392$ \quad (D) $384$ \quad (E) $400$
 
 **Risposta:** E
-[[src_obm_2000_n1_f1__Q19]]
+[[Quesiti/src_obm_2000_n1_f1#q19|src_obm_2000_n1_f1__Q19]]
 
 
 
@@ -689,7 +689,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 > 
 > (A) [image A] \quad (B) [image B] \quad (C) [image C] \quad (D) [image D] \quad (E) [image E]
 
-![[src_obm_2000_n1_f1__Q20.png]]
+![[src_obm_2000_n1_f1__q20.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -710,7 +710,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 > 
 > (A) [immagine A] \quad (B) [immagine B] \quad (C) [immagine C] \quad (D) [immagine D] \quad (E) [immagine E]
 
-![[src_obm_2000_n1_f1__Q20.png]]
+![[src_obm_2000_n1_f1__q20.png]]
 
 **Risposta:** B
-[[src_obm_2000_n1_f1__Q20]]
+[[Quesiti/src_obm_2000_n1_f1#q20|src_obm_2000_n1_f1__Q20]]

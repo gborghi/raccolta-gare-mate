@@ -39,7 +39,7 @@ level: TFJM²
 > 
 > 6. Propose and study other directions of research.
 
-![[src_tfjm_2018__Q01.png]]
+![[src_tfjm_2018__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -71,9 +71,9 @@ level: TFJM²
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2018__Q01.png]]
+![[src_tfjm_2018__q01.png]]
 
-[[src_tfjm_2018__Q01]]
+[[Quesiti/src_tfjm_2018#q01|src_tfjm_2018__Q01]]
 
 
 
@@ -119,7 +119,7 @@ level: TFJM²
 > 
 > 9. Propose and study other directions of research.
 
-![[src_tfjm_2018__Q02.png]]
+![[src_tfjm_2018__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -165,9 +165,9 @@ level: TFJM²
 > 
 > 9. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2018__Q02.png]]
+![[src_tfjm_2018__q02.png]]
 
-[[src_tfjm_2018__Q02]]
+[[Quesiti/src_tfjm_2018#q02|src_tfjm_2018__Q02]]
 
 
 
@@ -200,7 +200,7 @@ level: TFJM²
 > 
 > 5. Propose and study other directions of research.
 
-![[src_tfjm_2018__Q03.png]]
+![[src_tfjm_2018__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_backward|Backward]]
@@ -230,9 +230,9 @@ level: TFJM²
 > 
 > 5. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2018__Q03.png]]
+![[src_tfjm_2018__q03.png]]
 
-[[src_tfjm_2018__Q03]]
+[[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
 
 
 
@@ -267,7 +267,7 @@ level: TFJM²
 > 
 > 6. Propose and study other directions of research.
 
-![[src_tfjm_2018__Q04.png]]
+![[src_tfjm_2018__q04.png]]
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -299,9 +299,9 @@ level: TFJM²
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2018__Q04.png]]
+![[src_tfjm_2018__q04.png]]
 
-[[src_tfjm_2018__Q04]]
+[[Quesiti/src_tfjm_2018#q04|src_tfjm_2018__Q04]]
 
 
 
@@ -333,7 +333,7 @@ level: TFJM²
 > 
 > 6. Propose and study other directions of research.
 
-![[src_tfjm_2018__Q05.png]]
+![[src_tfjm_2018__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -365,9 +365,9 @@ level: TFJM²
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2018__Q05.png]]
+![[src_tfjm_2018__q05.png]]
 
-[[src_tfjm_2018__Q05]]
+[[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
 
 
 
@@ -418,7 +418,7 @@ level: TFJM²
 > 
 > 4. Proporre e studiare altre direzioni di ricerca.
 
-[[src_tfjm_2018__Q06]]
+[[Quesiti/src_tfjm_2018#q06|src_tfjm_2018__Q06]]
 
 
 
@@ -477,7 +477,7 @@ level: TFJM²
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-[[src_tfjm_2018__Q07]]
+[[Quesiti/src_tfjm_2018#q07|src_tfjm_2018__Q07]]
 
 
 
@@ -542,7 +542,7 @@ level: TFJM²
 > 
 > 7. Proporre e studiare altre direzioni di ricerca, ad esempio considerando la possibilità di disegnare corrispondenze che guadagnino $a$ punti con $0\le a\le 1$.
 
-[[src_tfjm_2018__Q08]]
+[[Quesiti/src_tfjm_2018#q08|src_tfjm_2018__Q08]]
 
 
 
@@ -595,4 +595,4 @@ level: TFJM²
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-[[src_tfjm_2018__Q09]]
+[[Quesiti/src_tfjm_2018#q09|src_tfjm_2018__Q09]]

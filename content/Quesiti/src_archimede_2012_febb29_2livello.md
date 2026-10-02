@@ -47,7 +47,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** None of the previous ones.
 
 **Answer:** E
-[[src_archimede_2012_febb29_2livello__Q01]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q01|src_archimede_2012_febb29_2livello__Q01]]
 
 
 
@@ -94,7 +94,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** 48 goals.
 
 **Answer:** D
-[[src_archimede_2012_febb29_2livello__Q02]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q02|src_archimede_2012_febb29_2livello__Q02]]
 
 
 
@@ -137,7 +137,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** 3 m.
 
 **Answer:** D
-[[src_archimede_2012_febb29_2livello__Q03]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q03|src_archimede_2012_febb29_2livello__Q03]]
 
 
 
@@ -179,7 +179,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** 2 + √
 
 **Answer:** A
-[[src_archimede_2012_febb29_2livello__Q04]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q04|src_archimede_2012_febb29_2livello__Q04]]
 
 
 
@@ -220,7 +220,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** Three of the foregoing are true.
 
 **Answer:** B
-[[src_archimede_2012_febb29_2livello__Q05]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q05|src_archimede_2012_febb29_2livello__Q05]]
 
 
 
@@ -269,7 +269,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** It is not uniquely determined.
 
 **Answer:** B
-[[src_archimede_2012_febb29_2livello__Q06]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q06|src_archimede_2012_febb29_2livello__Q06]]
 
 
 
@@ -313,7 +313,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** 9.
 
 **Answer:** E
-[[src_archimede_2012_febb29_2livello__Q07]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q07|src_archimede_2012_febb29_2livello__Q07]]
 
 
 
@@ -355,7 +355,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** 560.
 
 **Answer:** E
-[[src_archimede_2012_febb29_2livello__Q08]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q08|src_archimede_2012_febb29_2livello__Q08]]
 
 
 
@@ -395,7 +395,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(D)** the data are insufficient (E) none of the above.
 
 **Answer:** A
-[[src_archimede_2012_febb29_2livello__Q09]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q09|src_archimede_2012_febb29_2livello__Q09]]
 
 
 
@@ -439,7 +439,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** I'm not going to end it.
 
 **Answer:** C
-[[src_archimede_2012_febb29_2livello__Q10]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q10|src_archimede_2012_febb29_2livello__Q10]]
 
 
 
@@ -487,7 +487,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(E)** 12.
 
 **Answer:** B
-[[src_archimede_2012_febb29_2livello__Q11]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q11|src_archimede_2012_febb29_2livello__Q11]]
 
 
 
@@ -532,7 +532,7 @@ Blue coin revolving around three reds, number of turns*
 > - **(E)** 9 2. Problems with numerical answer  5 points
 
 **Answer:** A
-[[src_archimede_2012_febb29_2livello__Q12]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q12|src_archimede_2012_febb29_2livello__Q12]]
 
 
 
@@ -562,7 +562,7 @@ Blue coin revolving around three reds, number of turns*
 > The difference of two positive integers a and b is a prime number p and their product is a perfect square not exceeding 10,000. What is the maximum value that p can assume?
 
 **Answer:** 19
-[[src_archimede_2012_febb29_2livello__Q13]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q13|src_archimede_2012_febb29_2livello__Q13]]
 
 
 
@@ -594,7 +594,7 @@ Blue coin revolving around three reds, number of turns*
 > ABC is an acute triangle and H is the foot of height relative to the vertex A. Let's color every point P inside the triangle this way: red if the nearest vertex to P is A; green if the nearest vertex to P is B; blue if the nearest vertex to P is C. Knowing that AH = 35, BH = 21 and CH = 15, what is the size of the area formed by the red dots?
 
 **Answer:** 198
-[[src_archimede_2012_febb29_2livello__Q14]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q14|src_archimede_2012_febb29_2livello__Q14]]
 
 
 
@@ -632,7 +632,7 @@ Martino roulette strategy, minimum play and final capital
 
 > MARTINO thinks he has discovered a method to win at roulette, or at least not to lose too much money. Always point at the red. He starts by betting 1 euro; every time he loses, he doubles the previous bet, while every time he wins the next bet, he points 1 euro. One day he's got 31 euros and he's going to gamble and decide that he's going to leave just about, or he's going to lose five times in a row, or he's going to win five times in a row, or he's going to run out of money before one of these two possibilities happens. (a) What will be the minimum number of bets you will have to make before you finish playing with €31 if you lose 5 games? (b) What will be the minimum number of bets you will have to make before you finish playing with €31 if you win 5? (c) If he comes out with five wins, what will be his final capital at least?
 
-[[src_archimede_2012_febb29_2livello__Q15]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q15|src_archimede_2012_febb29_2livello__Q15]]
 
 
 
@@ -670,7 +670,7 @@ Martino roulette strategy, minimum play and final capital
 
 > One sequence of n is 0, 1, 2, . . . } of real numbers is defined, when the real parameter a varies, as follows: (x0 = a, xn+1 = 2 −x2 n for n ≥1. (a) Find all the values of a for which xn is constant (i.e. xn = a for all n). (b) Demonstrate that for one of the values found in point (a) (which we will call y) we have that, if \a \a \a \y \y \y \y \x \y \y \y\y for all n (c) Demonstrate, if ∈ R > ∈ R, that xn is strictly decreasing.
 
-[[src_archimede_2012_febb29_2livello__Q16]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q16|src_archimede_2012_febb29_2livello__Q16]]
 
 
 
@@ -708,4 +708,4 @@ Martino roulette strategy, minimum play and final capital
 
 > In a triangle with an ABC angle with AB < AC, the bisector starting from A intersects the BC side at the point P. The parallel to the side AB passing through P intersects the side AC at the point Q; on this line R is the point lying on the semicircle out of Q that does not contain P and such that QR = QA. We then call S the orthogonal projection of R over BC and T the intersection between AC and the straight line passing through P and perpendicular to AP. (a) Demonstrate that the circus of APR is Q; (b) Demonstrate that STC is similar to APC.
 
-[[src_archimede_2012_febb29_2livello__Q17]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q17|src_archimede_2012_febb29_2livello__Q17]]

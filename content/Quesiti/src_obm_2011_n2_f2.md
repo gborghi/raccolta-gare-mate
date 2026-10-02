@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Lasciate che $a$ e $b$ siano numeri reali non zero in modo tale che l'equazione $x^2 + ax + b = 0$ abbia $a$ e $b$ come soluzioni. Determinare $a - b$.
 
-[[src_obm_2011_n2_f2__Q01]]
+[[Quesiti/src_obm_2011_n2_f2#q01|src_obm_2011_n2_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 2
 
 > Quanti numeri compositi a due cifre possono essere formati utilizzando cifre distinte scelte da $\{2, 3, 4, 5, 6\}$?
 
-[[src_obm_2011_n2_f2__Q02]]
+[[Quesiti/src_obm_2011_n2_f2#q02|src_obm_2011_n2_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 2
 
 > Il triangolo $ABC$ è angolato a destra a $B$. I bisettori interni ed esterni dell'angolo $\hat{BAC}$ incontrano la linea $BC$ rispettivamente nei punti $D$ e $E$. Dato che $AD = 360$ e $AE = 480$, determinare la lunghezza del lato $AB$.
 
-[[src_obm_2011_n2_f2__Q03]]
+[[Quesiti/src_obm_2011_n2_f2#q03|src_obm_2011_n2_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 2
 
 > Il numero $7$, sollevato alla quarta potenza, termina in $01$: $7^4 = 2401$. Quanti numeri a due cifre, sollevati alla quarta potenza, finiscono in $01$?
 
-[[src_obm_2011_n2_f2__Q04]]
+[[Quesiti/src_obm_2011_n2_f2#q04|src_obm_2011_n2_f2__Q04]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível 2
 
 > In the figure below, triangle $ABC$ is equilateral, angle $\widehat{BDC} = 30^\circ$, and angle $\widehat{ACD} = 70^\circ$. Determine, in degrees, the measure of angle $\widehat{BAD}$.
 
-![[src_obm_2011_n2_f2__Q05.png]]
+![[src_obm_2011_n2_f2__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -143,9 +143,9 @@ level: OBM Nível 2
 
 > Nella figura seguente, il triangolo $ABC$ è equilaterale, l'angolo $\widehat{BDC} = 30^\circ$ e l'angolo $\widehat{ACD} = 70^\circ$. Determinare, in gradi, la misura dell'angolo $\widehat{BAD}$.
 
-![[src_obm_2011_n2_f2__Q05.png]]
+![[src_obm_2011_n2_f2__q05.png]]
 
-[[src_obm_2011_n2_f2__Q05]]
+[[Quesiti/src_obm_2011_n2_f2#q05|src_obm_2011_n2_f2__Q05]]
 
 
 
@@ -180,7 +180,7 @@ level: OBM Nível 2
 > 
 > b) È possibile ottenere il numero $2011$? Non dimenticate di giustificare la vostra risposta.
 
-[[src_obm_2011_n2_f2__Q06]]
+[[Quesiti/src_obm_2011_n2_f2#q06|src_obm_2011_n2_f2__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: OBM Nível 2
 
 > $a$, $b$, $c$ siano numeri reali positivi tali che $$a(b + c) = 152, \quad b(c + a) = 162, \quad c(a + b) = 170.$$ determinino il valore di $abc$.
 
-[[src_obm_2011_n2_f2__Q07]]
+[[Quesiti/src_obm_2011_n2_f2#q07|src_obm_2011_n2_f2__Q07]]
 
 
 
@@ -237,7 +237,7 @@ level: OBM Nível 2
 
 > Quante coppie ordinate $(a, b)$, con $a$ e $b$ integri positivi, soddisfano $$a + b + \gcd(a, b) = 33?$$
 
-[[src_obm_2011_n2_f2__Q08]]
+[[Quesiti/src_obm_2011_n2_f2#q08|src_obm_2011_n2_f2__Q08]]
 
 
 
@@ -250,7 +250,7 @@ level: OBM Nível 2
 
 > In a convex quadrilateral $ABCD$, the points $X$ and $Y$ divide side $AB$ into three equal segments, while the points $Z$ and $T$ divide side $DC$ into three equal segments (see figure below). If the area of quadrilateral $ABCD$ is $60$, show that the area of quadrilateral $XYZT$ does not depend on the shape of quadrilateral $ABCD$, and calculate that area.
 
-![[src_obm_2011_n2_f2__Q09.png]]
+![[src_obm_2011_n2_f2__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -266,6 +266,6 @@ level: OBM Nível 2
 
 > In un quadrilaterale convex $ABCD$, i punti $X$ e $Y$ dividono il lato $AB$ in tre segmenti uguali, mentre i punti $Z$ e $T$ dividono il lato $DC$ in tre segmenti uguali (vedi figura seguente). Se l'area del quadrilaterale $ABCD$ è $60$, indicare che l'area del quadrilaterale $XYZT$ non dipende dalla forma del quadrilaterale $ABCD$ e calcolare tale area.
 
-![[src_obm_2011_n2_f2__Q09.png]]
+![[src_obm_2011_n2_f2__q09.png]]
 
-[[src_obm_2011_n2_f2__Q09]]
+[[Quesiti/src_obm_2011_n2_f2#q09|src_obm_2011_n2_f2__Q09]]

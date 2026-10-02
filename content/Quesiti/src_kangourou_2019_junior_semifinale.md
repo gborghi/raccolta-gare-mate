@@ -46,7 +46,7 @@ level: kangourou
 > D) 14 E) 49
 
 **Answer:** E
-[[src_kangourou_2019_junior_semifinale__Q01]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q01|src_kangourou_2019_junior_semifinale__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: kangourou
 > (Points 3) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled from summit A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
 
 **Answer:** D
-[[src_kangourou_2019_junior_semifinale__Q02]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q02|src_kangourou_2019_junior_semifinale__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: kangourou
 > (E) All
 
 **Answer:** E
-[[src_kangourou_2019_junior_semifinale__Q03]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q03|src_kangourou_2019_junior_semifinale__Q03]]
 
 
 
@@ -162,7 +162,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 > (Points 4) If you randomly pick a four-digit palindrome integer, what is the probability that it is divisible by 7? A) 1/9 B) 1/8 C) 1/7 D) 1/6 E) 1/5
 
 **Answer:** E
-[[src_kangourou_2019_junior_semifinale__Q04]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q04|src_kangourou_2019_junior_semifinale__Q04]]
 
 
 
@@ -198,7 +198,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 > Cutting a cube with a plane that passes through two of its opposite vertices and the midpoints of two opposite vertices that do not contain those vertices gives a quadrilateral whose area, in square centimeters, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the cube's tips? (A) 1 B) √ 8 C) √ 12 D) √ 27 E) None
 
 **Answer:** E
-[[src_kangourou_2019_junior_semifinale__Q05]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q05|src_kangourou_2019_junior_semifinale__Q05]]
 
 
 
@@ -288,7 +288,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > C) C D) D E) E
 
 **Answer:** C
-[[src_kangourou_2019_junior_semifinale__Q06]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q06|src_kangourou_2019_junior_semifinale__Q06]]
 
 
 
@@ -336,7 +336,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > E) It cannot be established
 
 **Answer:** A
-[[src_kangourou_2019_junior_semifinale__Q07]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q07|src_kangourou_2019_junior_semifinale__Q07]]
 
 
 
@@ -382,7 +382,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > C) 14 D) 13 E) 12 (72019)2 - (72017)2 ----------------------------- (72018)2 - (72016)2 A B C D E
 
 **Answer:** E
-[[src_kangourou_2019_junior_semifinale__Q08]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q08|src_kangourou_2019_junior_semifinale__Q08]]
 
 
 
@@ -419,7 +419,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > (Points 6) How many sums of all the different ones can be obtained by adding up at least two integers and at most nine integers, each of which is either 3 or 5, if you want there to be no more than six additions equal to 3 and no more than three additions equal to 5? A) 23 B) 25 C) 28 D) 26 E) 27 Questions to be answered
 
 **Answer:** A
-[[src_kangourou_2019_junior_semifinale__Q09]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q09|src_kangourou_2019_junior_semifinale__Q09]]
 
 
 
@@ -447,7 +447,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 > (Points 4) How many positive integers are n of three significant digits such that the decimal number of n is half that of the units and the prime factors of n are all equal?
 
-[[src_kangourou_2019_junior_semifinale__Q10]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q10|src_kangourou_2019_junior_semifinale__Q10]]
 
 
 
@@ -478,7 +478,7 @@ Where the ball folds the left edge of the grid 4x2019*
 > (Points 5) To the (decimal) notation of a positive integer N I added a figure outside: thus I obtained a number (with a figure more than N) that is k times N, with k integers. What 's the maximum value of k ?
 
 **Answer:** 19
-[[src_kangourou_2019_junior_semifinale__Q11]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q11|src_kangourou_2019_junior_semifinale__Q11]]
 
 
 
@@ -507,7 +507,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 > (Points 5) A sequence of 6 integers begins with 6 and ends with 192 and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. How much is number four?
 
-[[src_kangourou_2019_junior_semifinale__Q12]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q12|src_kangourou_2019_junior_semifinale__Q12]]
 
 
 
@@ -537,7 +537,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 > (Points 6) In each parallel-piped rectangle the centers of the six faces are the vertices of an octahedron. If the measures of the parallel-pipedal shoulders are each expressed in an integer number of centimetres and the volume of the octahedron is 150 cm3, what is the maximum value of the sum of the measures of the parallel-pipedal shoulders?
 
-[[src_kangourou_2019_junior_semifinale__Q13]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q13|src_kangourou_2019_junior_semifinale__Q13]]
 
 
 
@@ -569,7 +569,7 @@ How many voters lied in the two cities of the referendum
 
 > (Parliament adopted the legislative resolution) In two cities, A with 8,400 voters and B with 6,900 voters, immediately after the vote, each voter was asked how they voted: in both cities half of the responses received were Yes and half were NO. However, it turned out that in A SI won with 70% of the vote while in B NO always won with 70% of the vote. If, consistent with the results obtained, in A as few voters as possible lied and in B as many as possible, how many voters have lied overall in the two cities?
 
-[[src_kangourou_2019_junior_semifinale__Q14]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q14|src_kangourou_2019_junior_semifinale__Q14]]
 
 
 
@@ -599,7 +599,7 @@ How many voters lied in the two cities of the referendum
 
 > (Points 6) There are two token-changers: one provides three red tokens for one white, the other five white tokens for one red. I am starting with only 4 white tokens: what is the smallest number of exchanges that allows me to get twice as many red tokens as white tokens?
 
-[[src_kangourou_2019_junior_semifinale__Q15]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q15|src_kangourou_2019_junior_semifinale__Q15]]
 
 
 
@@ -630,7 +630,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 
 > (Points 7) The Kangaroos and the Giraffes faced each other in a basketball game. The match lasted four times: at the end of the first the teams were tied, but in the end the Kangaroos won with a margin of victory. The Crab scores, individually considered in the four times, are in geometric progression, while those of the Giraffe are in arithmetic progression. What's the minimum score for the total score at the end of the Giraffe game?
 
-[[src_kangourou_2019_junior_semifinale__Q16]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q16|src_kangourou_2019_junior_semifinale__Q16]]
 
 
 
@@ -681,7 +681,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 > 	
 > (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to get the purpose?
 
-[[src_kangourou_2019_junior_semifinale__Q17]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q17|src_kangourou_2019_junior_semifinale__Q17]]
 
 
 
@@ -723,4 +723,4 @@ Minimum score Giraffe (geometric vs arithmetic)
 > 
 > 0001 0019 0048 0902 7200 0008 0074 4040 0029
 
-[[src_kangourou_2019_junior_semifinale__Q18]]
+[[Quesiti/src_kangourou_2019_junior_semifinale#q18|src_kangourou_2019_junior_semifinale__Q18]]

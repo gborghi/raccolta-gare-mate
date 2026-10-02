@@ -35,7 +35,7 @@ level: Coupe Animath Automne
 > Qual è il numero di integri tra $1$ e $10000$ divisibili da $7$ ma non divisibili da $5$?
 
 **Risposta:** 1143
-[[src_canimath_2013_automne__Q01]]
+[[Quesiti/src_canimath_2013_automne#q01|src_canimath_2013_automne__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: Coupe Animath Automne
 > Quante sonnelline di pomeriggio ha piovuto? (cioè, quante pomeriggi piovosi c'erano?)
 
 **Risposta:** 7
-[[src_canimath_2013_automne__Q02]]
+[[Quesiti/src_canimath_2013_automne#q02|src_canimath_2013_automne__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: Coupe Animath Automne
 > 
 > Quante lampadine sono ancora accese?
 
-[[src_canimath_2013_automne__Q03]]
+[[Quesiti/src_canimath_2013_automne#q03|src_canimath_2013_automne__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: Coupe Animath Automne
 > Quattro cerchi $C_1, C_2, C_3, C_4$ con raggi identici $r$ sono inseriti ciascuno all'interno di un cerchio di raggio $R$. Abbiamo impostato $C_5 = C_1$. Supponiamo che per ogni $i = 1, 2, 3, 4$, i cerchi $C_i$ e $C_{i+1}$ siano tangenti tra loro. Determinare il valore del rapporto $r/R$.
 
 **Risposta:** \frac{\sqrt{2}}{2+\sqrt{2}}
-[[src_canimath_2013_automne__Q04]]
+[[Quesiti/src_canimath_2013_automne#q04|src_canimath_2013_automne__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: Coupe Animath Automne
 > 
 > 2) Quanti membri può contenere un club che soddisfa questa condizione?
 
-[[src_canimath_2013_automne__Q05]]
+[[Quesiti/src_canimath_2013_automne#q05|src_canimath_2013_automne__Q05]]
 
 
 
@@ -204,7 +204,7 @@ level: Coupe Animath Automne
 > 
 > Provare che $A$, $B$, $C$, $D$ sono collineari o che si trovano tutti su un cerchio comune.
 
-[[src_canimath_2013_automne__Q06]]
+[[Quesiti/src_canimath_2013_automne#q06|src_canimath_2013_automne__Q06]]
 
 
 
@@ -234,7 +234,7 @@ level: Coupe Animath Automne
 > Determinare il numero reale più grande $a$ e il numero reale più piccolo $b$ in modo tale che per tutti $x, y, z$ positivo o zero: $$a(x+y+z)^2 \le x^2 + y^2 + z^2 + yz \le b(x+y+z)^2.$$
 
 **Risposta:** a=\frac{1}{3},\; b=1
-[[src_canimath_2013_automne__Q07]]
+[[Quesiti/src_canimath_2013_automne#q07|src_canimath_2013_automne__Q07]]
 
 
 
@@ -265,4 +265,4 @@ level: Coupe Animath Automne
 > 
 > Quanti divisori positivi può $a$ avere?
 
-[[src_canimath_2013_automne__Q08]]
+[[Quesiti/src_canimath_2013_automne#q08|src_canimath_2013_automne__Q08]]

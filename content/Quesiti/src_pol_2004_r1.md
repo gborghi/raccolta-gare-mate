@@ -33,7 +33,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Si deve dare un poligono con lunghezze laterali razionali e tutti gli angoli uguali a $90^\circ$ o $270^\circ$. Un raggio di luce inizia ad uno dei vertici del poligono e va nella direzione del bisettore dell'angolo interno di quel vertice. Il raggio riflette secondo la legge del riflesso. Prove che il raggio finirà per entrare in qualche vertice del poligono.
 
-[[src_pol_2004_r1__Q01]]
+[[Quesiti/src_pol_2004_r1#q01|src_pol_2004_r1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Decidere se esiste un primo $p$ e un intero non negativo $x,y,z$ tale che $(12x+5)(12y+7)=p^z$.
 
-[[src_pol_2004_r1__Q02]]
+[[Quesiti/src_pol_2004_r1#q02|src_pol_2004_r1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Trova tutte le funzioni $f \colon \mathbb{Q} \to \mathbb{Q}$ in modo tale che per tutte le funzioni razionali $x,y$ $$f(x^2+y)=xf(x)+f(y).$$
 
-[[src_pol_2004_r1__Q03]]
+[[Quesiti/src_pol_2004_r1#q03|src_pol_2004_r1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Si dà un triangolo a angolo acuto $ABC$. Considerare tutti i triangoli equilaterali $XYZ$ in questo piano in modo che i punti $A,B,C$ si trovino sui segmenti $YZ,ZX,XY$, rispettivamente. Prova che i centri dei triangoli $XYZ$ si trovano su un singolo cerchio.
 
-[[src_pol_2004_r1__Q04]]
+[[Quesiti/src_pol_2004_r1#q04|src_pol_2004_r1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Per i numeri interi positivi $m$ e $n$, $N(m,n)$ indica il numero di sequenze non in diminuzione dei termini $m$ provenienti da $\{1,2,\dots,n\}$. Mostra che $N(m,n+1)=N(n,m+1)$.
 
-[[src_pol_2004_r1__Q05]]
+[[Quesiti/src_pol_2004_r1#q05|src_pol_2004_r1__Q05]]
 
 
 
@@ -169,7 +169,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Supponiamo che $c$ sia un numero reale tale che il polinomio $P(x)=x^5-5x^3+4x-c$ abbia cinque zeri reali $x_1,x_2,x_3,x_4,x_5$. Calcolare in $c$ la somma dei valori assoluti dei coefficienti del polinomio $$Q(x)=(x-x_1^2)(x-x_2^2)(x-x_3^2)(x-x_4^2)(x-x_5^2).$$
 
-[[src_pol_2004_r1__Q06]]
+[[Quesiti/src_pol_2004_r1#q06|src_pol_2004_r1__Q06]]
 
 
 
@@ -196,7 +196,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Trova tutte le soluzioni di numeri interi positivi dell'equazione $a^2+b^2=c^2$ in modo tale che $a$ e $c$ siano prime e $b$ sia un prodotto di un massimo di tre numeri primi.
 
-[[src_pol_2004_r1__Q07]]
+[[Quesiti/src_pol_2004_r1#q07|src_pol_2004_r1__Q07]]
 
 
 
@@ -224,7 +224,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Il punto $P$ si trova all'interno di un tetraedro $ABCD$. Provare che $$\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ.$$
 
-[[src_pol_2004_r1__Q08]]
+[[Quesiti/src_pol_2004_r1#q08|src_pol_2004_r1__Q08]]
 
 
 
@@ -251,7 +251,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Si devono dare polinomi non costanti $W_1(x),W_2(x),\dots,W_n(x)$ con coefficienti interi. Prova che esiste un numero intero $a$ tale che i numeri $W_1(a),W_2(a),\dots,W_n(a)$ siano tutti composti.
 
-[[src_pol_2004_r1__Q09]]
+[[Quesiti/src_pol_2004_r1#q09|src_pol_2004_r1__Q09]]
 
 
 
@@ -278,7 +278,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Un poligono converso ha un numero pari di lati. La lunghezza di ciascun lato è $2$ o $3$ e il numero di lati di ciascuna lunghezza è pari. Mostrare che esistono due vertici del poligono che dividono il suo perimetro.
 
-[[src_pol_2004_r1__Q10]]
+[[Quesiti/src_pol_2004_r1#q10|src_pol_2004_r1__Q10]]
 
 
 
@@ -305,7 +305,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > Il $O$ deve essere il centro circundante di un trapezoide $ABCD$ con le basi $AB$ e $CD$. I punti $K,L,M,N$ si trovano rispettivamente sui lati $AB,BC,CD,DA$ in modo che $KLMN$ sia un rombo. Prova che $O$ si trova sulla linea $KM$.
 
-[[src_pol_2004_r1__Q11]]
+[[Quesiti/src_pol_2004_r1#q11|src_pol_2004_r1__Q11]]
 
 
 
@@ -334,4 +334,4 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 
 > $n\ge 5$ sia un numero intero. Trova il numero di soluzioni in numeri reali $x_1,\dots,x_n$ del sistema $$x_{i-2}^3+x_{i-1}^3+x_i^3=x_i^4+x_{i+1}^3+x_{i+2}^2\quad\text{for }i=1,2,\dots,n,$$ dove $x_{-1}=x_{n-1}$, $x_0=x_n$, $x_1=x_{n+1}$, $x_2=x_{n+2}$.
 
-[[src_pol_2004_r1__Q12]]
+[[Quesiti/src_pol_2004_r1#q12|src_pol_2004_r1__Q12]]

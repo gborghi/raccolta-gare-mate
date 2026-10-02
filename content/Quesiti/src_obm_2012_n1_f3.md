@@ -43,7 +43,7 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 > 
 > b) Se la somma di questi numeri è la più piccola possibile, qual è la più piccola differenza possibile tra loro?
 
-[[src_obm_2012_n1_f3__Q01]]
+[[Quesiti/src_obm_2012_n1_f3#q01|src_obm_2012_n1_f3__Q01]]
 
 
 
@@ -80,7 +80,7 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 > 
 > b) Se $PQ = 3$, $QR = 4$, $RS = 5$ e $TU = 1$, qual è il valore di $ST + PU$?
 
-[[src_obm_2012_n1_f3__Q02]]
+[[Quesiti/src_obm_2012_n1_f3#q02|src_obm_2012_n1_f3__Q02]]
 
 
 
@@ -117,7 +117,7 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > 
 > b) Nella seconda occasione, Doroti ha scelto le sue carte in modo tale che, tra i due numeri (le carte di Doroti e quelle di Cristina), uno dei numeri sia divisibile dall'altro, anche se nessuno di essi è pari. Quali sono i due numeri? E qual è il più grande di questi numeri?
 
-[[src_obm_2012_n1_f3__Q03]]
+[[Quesiti/src_obm_2012_n1_f3#q03|src_obm_2012_n1_f3__Q03]]
 
 
 
@@ -134,7 +134,7 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > 
 > b) What is the total surface area of the fourth rectangular block?
 
-![[src_obm_2012_n1_f3__Q04.png]]
+![[src_obm_2012_n1_f3__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -156,9 +156,9 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > 
 > b) Qual è la superficie totale del quarto blocco rettangolare?
 
-![[src_obm_2012_n1_f3__Q04.png]]
+![[src_obm_2012_n1_f3__q04.png]]
 
-[[src_obm_2012_n1_f3__Q04]]
+[[Quesiti/src_obm_2012_n1_f3#q04|src_obm_2012_n1_f3__Q04]]
 
 
 
@@ -195,4 +195,4 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > 
 > b) A partire dalla situazione iniziale, se in un istante ci sono $100$ amoebas, quante saranno blu?
 
-[[src_obm_2012_n1_f3__Q05]]
+[[Quesiti/src_obm_2012_n1_f3#q05|src_obm_2012_n1_f3__Q05]]

@@ -19,7 +19,7 @@ level: OBM Nível 2
 
 > In the drawing alongside, square $ABCD$ has area $30\,\text{cm}^2$ and square $FHIJ$ has area $20\,\text{cm}^2$. The vertices $A$, $D$, $E$, $H$ and $I$ of the two squares lie on a same straight line. Calculate the area of square $BEFG$.
 
-![[src_obm_2003_n2_f2__Q01.png]]
+![[src_obm_2003_n2_f2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -37,9 +37,9 @@ level: OBM Nível 2
 
 > Nel disegno accanto, il quadrato $ABCD$ ha superficie $30\,\text{cm}^2$ e il quadrato $FHIJ$ ha superficie $20\,\text{cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ dei due quadrati si trovano sulla stessa linea retta. Calcolare la superficie del quadrato $BEFG$.
 
-![[src_obm_2003_n2_f2__Q01.png]]
+![[src_obm_2003_n2_f2__q01.png]]
 
-[[src_obm_2003_n2_f2__Q01]]
+[[Quesiti/src_obm_2003_n2_f2#q01|src_obm_2003_n2_f2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: OBM Nível 2
 
 > Tra i numeri interi da $1$ a $26$, scegli $13$ in modo tale che: 1) il numero $4$ sia tra i numeri scelti; 2) nessun numero scelto sia un divisore di un altro numero scelto.
 
-[[src_obm_2003_n2_f2__Q02]]
+[[Quesiti/src_obm_2003_n2_f2#q02|src_obm_2003_n2_f2__Q02]]
 
 
 
@@ -83,7 +83,7 @@ level: OBM Nível 2
 
 > A rectangular sheet $ABCD$ of area $300\,\text{cm}^2$ was folded in half and then unfolded (segment $MN$); it was folded again and unfolded (segment $MC$) and finally folded and unfolded along the diagonal $BD$. Calculate the area of the piece of paper bounded by the dotted lines (the dark region in the figure).
 
-![[src_obm_2003_n2_f2__Q03.png]]
+![[src_obm_2003_n2_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -101,9 +101,9 @@ level: OBM Nível 2
 
 > Un foglio rettangolare $ABCD$ di superficie $300\,\text{cm}^2$ è stato ripiegato a metà e poi svolto (segmento $MN$); è stato ripiegato e svolto (segmento $MC$) e infine ripiegato e svolto lungo la diagonale $BD$. Calcolare l'area del pezzo di carta delimitata dalle linee puntate (la regione scura nella figura).
 
-![[src_obm_2003_n2_f2__Q03.png]]
+![[src_obm_2003_n2_f2__q03.png]]
 
-[[src_obm_2003_n2_f2__Q03]]
+[[Quesiti/src_obm_2003_n2_f2#q03|src_obm_2003_n2_f2__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: OBM Nível 2
 
 > Considera il prodotto di tutti i divisori positivi di un intero positivo, diverso da questo numero stesso. Diciamo che un numero è $\textit{powerful}$ se è uguale a quel prodotto. Ad esempio, il numero $12$ è potente, poiché i suoi divisori positivi sono $1$, $2$, $3$, $4$, $6$ e $1\cdot 2\cdot 3\cdot 4\cdot 6 = 144 = 12^2$. Presenta tutti i numeri potenti inferiori a $100$.
 
-[[src_obm_2003_n2_f2__Q04]]
+[[Quesiti/src_obm_2003_n2_f2#q04|src_obm_2003_n2_f2__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 2
 
 > $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ deve essere una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per qualsiasi $x$ e $y$. (a) Calcolare $f(1)$. b) Trova una formula per $f(x)$.
 
-[[src_obm_2003_n2_f2__Q05]]
+[[Quesiti/src_obm_2003_n2_f2#q05|src_obm_2003_n2_f2__Q05]]
 
 
 
@@ -195,4 +195,4 @@ level: OBM Nível 2
 > 
 > Nota: ricordate che un numero a quattro cifre non può iniziare con lo zero.
 
-[[src_obm_2003_n2_f2__Q06]]
+[[Quesiti/src_obm_2003_n2_f2#q06|src_obm_2003_n2_f2__Q06]]

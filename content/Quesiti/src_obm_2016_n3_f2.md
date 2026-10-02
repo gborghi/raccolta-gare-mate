@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Considerate la sequenza di numeri $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in cui scriviamo i numeri da $1$ a $2^1$, poi da $1$ a $2^2$, poi da $1$ a $2^3$, e così via. Si noti che ogni posizione in questa sequenza è occupata da esattamente un numero. Ad esempio, il numero $5$ appare per la prima volta nella posizione $8$. Determinare quale numero occupa la posizione $10000$.
 
-[[src_obm_2016_n3_f2__Q01]]
+[[Quesiti/src_obm_2016_n3_f2#q01|src_obm_2016_n3_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > $r$ sia la radice dell'equazione $x^2 - 12x - 12 = 0$. Sappiamo che $r$ è anche una radice dell'equazione $x^4 - ax^2 - b = 0$, dove $a$ e $b$ sono numeri reali. Trova $a + b$.
 
-[[src_obm_2016_n3_f2__Q02]]
+[[Quesiti/src_obm_2016_n3_f2#q02|src_obm_2016_n3_f2__Q02]]
 
 
 
@@ -73,7 +73,7 @@ level: OBM Nível 3
 
 > In the figure below, $AB = 4$, $BD = 8$, $CB = BE = 2$, and $AGD$ is a semicircle of diameter $AD$. Given that $AG/GD = p/q$, where $p$ and $q$ are positive integers that are mutually prime, find $p^q$.
 
-![[src_obm_2016_n3_f2__Q03.png]]
+![[src_obm_2016_n3_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -89,9 +89,9 @@ level: OBM Nível 3
 
 > Nella figura seguente $AB = 4$, $BD = 8$, $CB = BE = 2$ e $AGD$ è un semicircolo di diametro $AD$. Dato che $AG/GD = p/q$, dove $p$ e $q$ sono integri positivi che sono reciprocamente primi, trovare $p^q$.
 
-![[src_obm_2016_n3_f2__Q03.png]]
+![[src_obm_2016_n3_f2__q03.png]]
 
-[[src_obm_2016_n3_f2__Q03]]
+[[Quesiti/src_obm_2016_n3_f2#q03|src_obm_2016_n3_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 3
 
 > Determinare il numero intero positivo più piccolo $n$ in modo tale che esistano due triangoli rettangolari non congruenti con lunghezze laterali interi e perimetro $n$.
 
-[[src_obm_2016_n3_f2__Q04]]
+[[Quesiti/src_obm_2016_n3_f2#q04|src_obm_2016_n3_f2__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 3
 
 > Le radici di un polinomio $P$ di grado $10$, con coefficienti interi, sono tutti interi e distinti. Determinare il numero minimo di divisori positivi che ogni valore non zero $P(n)$, per $n$ un numero intero, deve avere.
 
-[[src_obm_2016_n3_f2__Q05]]
+[[Quesiti/src_obm_2016_n3_f2#q05|src_obm_2016_n3_f2__Q05]]
 
 
 
@@ -158,7 +158,7 @@ level: OBM Nível 3
 
 > The figure below shows two types of pieces: Type 1, with $4$ squares, and Type 2, with $3$ squares. A board with $m$ rows and $n$ columns is tiled, without overlapping, by pieces of Type 1 with the exception of $3$ squares. The same board is also tiled, without overlapping, by pieces of Type 2 with the exception of $2$ squares. The pieces may be rotated but cannot extend outside the board. What is the smallest possible value of the product $m \times n$?
 
-![[src_obm_2016_n3_f2__Q06.png]]
+![[src_obm_2016_n3_f2__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -174,9 +174,9 @@ level: OBM Nível 3
 
 > La figura seguente mostra due tipi di pezzi: tipo 1, con $4$ quadrati, e tipo 2, con $3$ quadrati. Una tabella con righe $m$ e colonne $n$ è cartigliata, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione dei quadrati $3$. La stessa lavagna è inoltre incollata, senza sovrapposizioni, con pezzi di tipo 2, ad eccezione dei quadrati $2$. I pezzi possono essere rotati ma non possono estendersi al di fuori della lavagna. Qual è il minimo valore possibile del prodotto $m \times n$?
 
-![[src_obm_2016_n3_f2__Q06.png]]
+![[src_obm_2016_n3_f2__q06.png]]
 
-[[src_obm_2016_n3_f2__Q06]]
+[[Quesiti/src_obm_2016_n3_f2#q06|src_obm_2016_n3_f2__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: OBM Nível 3
 
 > Janaína vuole dipingere le cellule di un pannello $7 \times 7$ in rosso, blu o marrone nel modo seguente: in ogni riga, il numero di cellule rosse non può essere inferiore al numero di cellule di ciascuno degli altri colori; in ogni colonna, il numero di cellule blu non può essere inferiore al numero di cellule di ciascuno degli altri colori. Quante cellule saranno dipinte di marrone?
 
-[[src_obm_2016_n3_f2__Q07]]
+[[Quesiti/src_obm_2016_n3_f2#q07|src_obm_2016_n3_f2__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: OBM Nível 3
 
 > Due cerchi $\Gamma$ e $\Omega$ si incrociano ai punti $A$ e $G$. Una linea $t$ è tangente a $\Gamma$ a $B$ e a $\Omega$ a $C$. La linea $AG$ estesa incontra $t$ a $E$, con $C$ tra $B$ e $E$. $G$ è il centroide del triangolo $ABC$. Qual è il valore massimo possibile dell'angolo $\widehat{BAC}$?
 
-[[src_obm_2016_n3_f2__Q08]]
+[[Quesiti/src_obm_2016_n3_f2#q08|src_obm_2016_n3_f2__Q08]]
 
 
 
@@ -257,4 +257,4 @@ level: OBM Nível 3
 
 > In combinatorica, esistono $q$-analoghi di conti combinatori; fondamentalmente, sostituisco $n$ con $[n]_q$, dove $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. Il $q$-fattoriale è $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Dato che $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, con quanti zeri termina il $q$-binomio $\dbinom{2016}{38}_q$ (come polinomio in $q$)?
 
-[[src_obm_2016_n3_f2__Q09]]
+[[Quesiti/src_obm_2016_n3_f2#q09|src_obm_2016_n3_f2__Q09]]

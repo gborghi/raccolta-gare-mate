@@ -37,7 +37,7 @@ Minimum shifts for every boy to dance with every girl
 > AR BS CT DU
 
 **Answer:** 6
-[[src_kangourou_2014_benjamin_finale__Q01]]
+[[Quesiti/src_kangourou_2014_benjamin_finale#q01|src_kangourou_2014_benjamin_finale__Q01]]
 
 
 
@@ -66,7 +66,7 @@ Minimum shifts for every boy to dance with every girl
 
 > AS BT CU DV
 
-[[src_kangourou_2014_benjamin_finale__Q02]]
+[[Quesiti/src_kangourou_2014_benjamin_finale#q02|src_kangourou_2014_benjamin_finale__Q02]]
 
 
 
@@ -127,7 +127,7 @@ Minimum shifts for every boy to dance with every girl
 > AT BU CV DZ
 
 **Answer:** 4
-[[src_kangourou_2014_benjamin_finale__Q03]]
+[[Quesiti/src_kangourou_2014_benjamin_finale#q03|src_kangourou_2014_benjamin_finale__Q03]]
 
 
 
@@ -156,7 +156,7 @@ Minimum shifts for every boy to dance with every girl
 
 > AU BV CZ DR
 
-[[src_kangourou_2014_benjamin_finale__Q04]]
+[[Quesiti/src_kangourou_2014_benjamin_finale#q04|src_kangourou_2014_benjamin_finale__Q04]]
 
 
 
@@ -185,7 +185,7 @@ Minimum shifts for every boy to dance with every girl
 
 > AV BZ CR DS
 
-[[src_kangourou_2014_benjamin_finale__Q05]]
+[[Quesiti/src_kangourou_2014_benjamin_finale#q05|src_kangourou_2014_benjamin_finale__Q05]]
 
 
 
@@ -226,4 +226,4 @@ Minimum shifts for every boy to dance with every girl
 >  
 > B2. (7 points) You have n objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: {A,B}, {A,C} and {B,C}). Whatever the number of n objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first n - 1 positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
 
-[[src_kangourou_2014_benjamin_finale__Q06]]
+[[Quesiti/src_kangourou_2014_benjamin_finale#q06|src_kangourou_2014_benjamin_finale__Q06]]

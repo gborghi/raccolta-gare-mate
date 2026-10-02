@@ -19,7 +19,7 @@ level: RMO
 
 > Consider in the plane a circle $\Gamma$ with center $O$ and a line $l$ not intersecting circle $\Gamma$. Prove that there is a unique point $Q$ on the perpendicular drawn from $O$ to the line $l$, such that for any point $P$ on the line $l$, $PQ$ represents the length of the tangent from $P$ to the circle $\Gamma$.
 
-![[src_rmo_2004__Q01.png]]
+![[src_rmo_2004__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Considera nel piano un cerchio $\Gamma$ con centro $O$ e una linea $l$ che non interseca il cerchio $\Gamma$. Dimostrare che il punto $Q$ sulla perpendicolare tratto da $O$ alla linea $l$ è unico, in modo tale che per qualsiasi punto $P$ sulla linea $l$, $PQ$ rappresenti la lunghezza della tangente da $P$ al cerchio $\Gamma$.
 
-![[src_rmo_2004__Q01.png]]
+![[src_rmo_2004__q01.png]]
 
-[[src_rmo_2004__Q01]]
+[[Quesiti/src_rmo_2004#q01|src_rmo_2004__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: RMO
 
 > I numeri interi positivi sono scritti su tutte le facce di un cubo, uno su ciascuno. A ciascun angolo (vertice) del cubo è scritto il prodotto dei numeri sulle facce che si incontrano all'angolo. La somma dei numeri scritti in tutti gli angoli è il 2004. Se $T$ indica la somma dei numeri su tutte le facce, trovare tutti i possibili valori di $T$.
 
-[[src_rmo_2004__Q02]]
+[[Quesiti/src_rmo_2004#q02|src_rmo_2004__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: RMO
 > 
 > (b) $\gcd(\lambda_n, \lambda_{n+1}) = 1$.
 
-[[src_rmo_2004__Q03]]
+[[Quesiti/src_rmo_2004#q03|src_rmo_2004__Q03]]
 
 
 
@@ -111,7 +111,7 @@ level: RMO
 
 > Prove that the number of triples $(A, B, C)$ where $A$, $B$, $C$ are subsets of $\{1, 2, \cdots, n\}$ such that $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ is $7^n - 6^n + 5^n$.
 
-![[src_rmo_2004__Q04.png]]
+![[src_rmo_2004__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -127,9 +127,9 @@ level: RMO
 
 > Prova che il numero di triples $(A, B, C)$ dove $A$, $B$, $C$ sono sottoinsiemi di $\{1, 2, \cdots, n\}$ in modo tale che $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ siano $7^n - 6^n + 5^n$.
 
-![[src_rmo_2004__Q04.png]]
+![[src_rmo_2004__q04.png]]
 
-[[src_rmo_2004__Q04]]
+[[Quesiti/src_rmo_2004#q04|src_rmo_2004__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: RMO
 > 
 > (b) the areas of the quadrilaterals $APOS$, $BQOP$, $CROQ$, $DSOR$ are all equal.
 
-![[src_rmo_2004__Q05.png]]
+![[src_rmo_2004__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -166,9 +166,9 @@ level: RMO
 > 
 > b) le superfici dei quadrilaterali $APOS$, $BQOP$, $CROQ$, $DSOR$ sono tutte uguali.
 
-![[src_rmo_2004__Q05.png]]
+![[src_rmo_2004__q05.png]]
 
-[[src_rmo_2004__Q05]]
+[[Quesiti/src_rmo_2004#q05|src_rmo_2004__Q05]]
 
 
 
@@ -195,7 +195,7 @@ level: RMO
 
 > Che $(p_1, p_2, p_3, \cdots)$ sia una sequenza di numeri primi definita da $p_1 = 2$ e per $n \ge 1$, $p_{n+1}$ è il più grande fattore primo di $p_1 p_2 p_3 \cdots p_n + 1$. Prove che $p_n \ne 5$ per qualsiasi $n$.
 
-[[src_rmo_2004__Q06]]
+[[Quesiti/src_rmo_2004#q06|src_rmo_2004__Q06]]
 
 
 
@@ -230,4 +230,4 @@ level: RMO
 > 
 > (b) $x^2 + y^2 < 1$.
 
-[[src_rmo_2004__Q07]]
+[[Quesiti/src_rmo_2004#q07|src_rmo_2004__Q07]]

@@ -35,7 +35,7 @@ level: China Mathematical Competition (First Round)
 > (Pagina A, Parte I Q1) Se si considera la sequenza geometrica $\{a_n\}$, $a_8 = 13$, $a_{12} = 1$, il valore di $\log_{a_{13}} 13$ è $\underline{\qquad}$.
 
 **Risposta:** -4
-[[src_cn_cmc-first-round_2020__Q01]]
+[[Quesiti/src_cn_cmc-first-round_2020#q01|src_cn_cmc-first-round_2020__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: China Mathematical Competition (First Round)
 > (Paper A, parte I Q2) Nell'ellisse $\Gamma$, $A$ è un punto di fine dell'asse maggiore, $B$ è un punto di fine dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, il valore di $\dfrac{|AB|}{|F_1F_2|}$ è $\underline{\qquad}$.
 
 **Risposta:** \frac{\sqrt{2}}{2}
-[[src_cn_cmc-first-round_2020__Q02]]
+[[Quesiti/src_cn_cmc-first-round_2020#q02|src_cn_cmc-first-round_2020__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: China Mathematical Competition (First Round)
 > (Paper B, parte I Q3) Supponiamo $X = \{1, 2, \ldots, 20\}$. $A$ è un sottoinsieme di $X$. Il numero di elementi di $A$ è almeno $2$ e tutti gli elementi di $A$ possono essere organizzati come integri positivi consecutivi. Poi il numero di tali set $A$ è $\underline{\qquad}$.
 
 **Risposta:** 190
-[[src_cn_cmc-first-round_2020__Q03]]
+[[Quesiti/src_cn_cmc-first-round_2020#q03|src_cn_cmc-first-round_2020__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: China Mathematical Competition (First Round)
 > (Paper A, parte I Q4) Il $z$ deve essere un numero complesso. Se $\dfrac{z - 2}{z - \mathrm{i}}$ è un numero reale ($\mathrm{i}$ è l'unità immaginaria), allora il minimo di $|z + 3|$ è $\underline{\qquad}$.
 
 **Risposta:** \sqrt{5}
-[[src_cn_cmc-first-round_2020__Q04]]
+[[Quesiti/src_cn_cmc-first-round_2020#q04|src_cn_cmc-first-round_2020__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: China Mathematical Competition (First Round)
 > (Paper B, Parte I Q5) Lasciate che l'elemento $9$ sia composto da $X = \{a + b\mathrm{i} \mid a, b \in \{1, 2, 3\}\}$, con $\mathrm{i}$ l'unità immaginaria. $\pi = (z_1, z_2, \ldots, z_9)$ è una permutazione di tutti gli elementi di $X$, che soddisfa $|z_1| \le |z_2| \le \cdots \le |z_9|$. Il numero di tali permutazioni $\pi$ è $\underline{\qquad}$.
 
 **Risposta:** 8
-[[src_cn_cmc-first-round_2020__Q05]]
+[[Quesiti/src_cn_cmc-first-round_2020#q05|src_cn_cmc-first-round_2020__Q05]]
 
 
 
@@ -179,7 +179,7 @@ level: China Mathematical Competition (First Round)
 > (Paper A, parte I Q6) Supponiamo che tutti i bordi della piramide triangolare regolare $P$-$ABC$ abbiano lunghezza $1$ e $L$, $M$, $N$ siano i punti medi dei bordi $PA$, $PB$ e $PC$, rispettivamente. L'area della sezione trasversale della sfera circoscritta di questa piramide triangolare regolare intercettata dal piano $LMN$ è $\underline{\qquad}$.
 
 **Risposta:** \frac{\pi}{3}
-[[src_cn_cmc-first-round_2020__Q06]]
+[[Quesiti/src_cn_cmc-first-round_2020#q06|src_cn_cmc-first-round_2020__Q06]]
 
 
 
@@ -208,7 +208,7 @@ level: China Mathematical Competition (First Round)
 > (Paper B, parte I Q7) In quadrilaterale convex $ABCD$, $\overrightarrow{BC} = 2\overrightarrow{AD}$. Il punto $P$ si trova sul piano quadrilaterale $ABCD$, soddisfacendo $\overrightarrow{PA} + 2020\overrightarrow{PB} + \overrightarrow{PC} + 2020\overrightarrow{PD} = \overrightarrow{0}$. Le aree $s$ e $t$ siano rispettivamente quadrilaterali $ABCD$ e $\triangle PAB$. Il valore di $\dfrac{t}{s}$ è $\underline{\qquad}$.
 
 **Risposta:** \frac{1}{2021}
-[[src_cn_cmc-first-round_2020__Q07]]
+[[Quesiti/src_cn_cmc-first-round_2020#q07|src_cn_cmc-first-round_2020__Q07]]
 
 
 
@@ -237,7 +237,7 @@ level: China Mathematical Competition (First Round)
 > (Paper A, Parte I Q8) Ci sono carte $10$, ognuna delle quali ha due numeri, numerati $1$, $2$, $3$, $4$, $5$, scritte su di essa, e i numeri su due carte non sono esattamente identici. Le schede contengono tutte quelle etichettate $1$, $2$, $3$, $4$, $5$, e una scheda con $i$ e $j$ scritte su di essa può essere inserita solo nella casella $i$ o nella casella $j$. Un posizionamento è chiamato "buono" se nella casella $1$ ci sono più carte di ciascuna delle altre caselle. Il numero totale dei posti di lavoro "buoni" è $\underline{\qquad}$.
 
 **Risposta:** 56
-[[src_cn_cmc-first-round_2020__Q08]]
+[[Quesiti/src_cn_cmc-first-round_2020#q08|src_cn_cmc-first-round_2020__Q08]]
 
 
 
@@ -266,7 +266,7 @@ level: China Mathematical Competition (First Round)
 > (Paper B, Parte II Q9, 16 marchi) Nell'ellisse $\Gamma$, $A$ è un punto terminale dell'asse maggiore, $B$ è un punto terminale dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, trovare il valore di $\tan \angle ABF_1 \cdot \tan \angle ABF_2$.
 
 **Risposta:** -\frac{1}{5}
-[[src_cn_cmc-first-round_2020__Q09]]
+[[Quesiti/src_cn_cmc-first-round_2020#q09|src_cn_cmc-first-round_2020__Q09]]
 
 
 
@@ -295,7 +295,7 @@ level: China Mathematical Competition (First Round)
 > (Paper B, parte II Q10, 20 punti) Supponiamo che i numeri reali positivi $a$, $b$ e $c$ soddisfino $a^2 + 4b^2 + 9c^2 = 4b + 12c - 2$. Trova il minimo di $\dfrac{1}{a} + \dfrac{2}{b} + \dfrac{3}{c}$.
 
 **Risposta:** 6
-[[src_cn_cmc-first-round_2020__Q10]]
+[[Quesiti/src_cn_cmc-first-round_2020#q10|src_cn_cmc-first-round_2020__Q10]]
 
 
 
@@ -324,4 +324,4 @@ level: China Mathematical Competition (First Round)
 > (Pagina A, Parte II Q11, 20 punti) In un sistema di coordinate rettangolare piano $xOy$, i punti $A$, $B$ e $C$ sono sull'iperbola $xy = 1$ che soddisfa $\triangle ABC$ è un triangolo rettangolare a pari pietra. Trova il minimo della superficie di $\triangle ABC$.
 
 **Risposta:** 3\sqrt{3}
-[[src_cn_cmc-first-round_2020__Q11]]
+[[Quesiti/src_cn_cmc-first-round_2020#q11|src_cn_cmc-first-round_2020__Q11]]

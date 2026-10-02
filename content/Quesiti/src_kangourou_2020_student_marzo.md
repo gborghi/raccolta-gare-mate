@@ -52,7 +52,7 @@ level: kangourou
 > E) 16
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2020_student_marzo#q01|src_kangourou_2020_student_marzo__Q01]]
 
 
 
@@ -100,7 +100,7 @@ level: kangourou
 > (C) 5 + 4√2 D) 9 - 2√2 E) length depends on the angle formed by the obstacles along the initial path.
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2020_student_marzo#q02|src_kangourou_2020_student_marzo__Q02]]
 
 
 
@@ -146,7 +146,7 @@ level: kangourou
 > E) t
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2020_student_marzo#q03|src_kangourou_2020_student_marzo__Q03]]
 
 
 
@@ -206,7 +206,7 @@ level: kangourou
 >
 
 **Answer:** A
-[[src_kangourou_2020_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2020_student_marzo#q04|src_kangourou_2020_student_marzo__Q04]]
 
 
 
@@ -253,7 +253,7 @@ level: kangourou
 > E) 44
 
 **Answer:** C
-[[src_kangourou_2020_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2020_student_marzo#q05|src_kangourou_2020_student_marzo__Q05]]
 
 
 
@@ -286,7 +286,7 @@ This is the total value of the assets of the institution.
 > What 's the value of ? A) 2020 B) 3030 C) 4040 D) 6060 E) 7070
 
 **Answer:** E
-[[src_kangourou_2020_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2020_student_marzo#q06|src_kangourou_2020_student_marzo__Q06]]
 
 
 
@@ -321,7 +321,7 @@ This is the total value of the assets of the institution.
 > If a, b and c are integers such that 1 ≤ a ≤ b ≤ c and abc = 1,000,000, what is the maximum value that b can assume? A) 100 B) 250 C) 500 D) 1000 E) 2000
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2020_student_marzo#q07|src_kangourou_2020_student_marzo__Q07]]
 
 
 
@@ -364,7 +364,7 @@ This is the total value of the assets of the institution.
 > E)
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2020_student_marzo#q08|src_kangourou_2020_student_marzo__Q08]]
 
 
 
@@ -402,7 +402,7 @@ This is the total value of the assets of the institution.
 > C) 1/6 D) 2/9 E) 1/3
 
 **Answer:** E
-[[src_kangourou_2020_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2020_student_marzo#q09|src_kangourou_2020_student_marzo__Q09]]
 
 
 
@@ -440,7 +440,7 @@ This is the total value of the assets of the institution.
 > C) n (n + 1) D) 6n  1 E) n3  2 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2020_student_marzo#q10|src_kangourou_2020_student_marzo__Q10]]
 
 
 
@@ -509,7 +509,7 @@ This is the total value of the assets of the institution.
 >
 
 **Answer:** E
-[[src_kangourou_2020_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2020_student_marzo#q11|src_kangourou_2020_student_marzo__Q11]]
 
 
 
@@ -554,7 +554,7 @@ This is the total value of the assets of the institution.
 > D) 5 E) You can't get all the coins with the cross side up.
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2020_student_marzo#q12|src_kangourou_2020_student_marzo__Q12]]
 
 
 
@@ -597,7 +597,7 @@ This is the total value of the assets of the institution.
 > C) 3,25 D) 3,5 E) 4
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2020_student_marzo#q13|src_kangourou_2020_student_marzo__Q13]]
 
 
 
@@ -644,7 +644,7 @@ This is the total value of the assets of the institution.
 > E) 8
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2020_student_marzo#q14|src_kangourou_2020_student_marzo__Q14]]
 
 
 
@@ -683,7 +683,7 @@ This is the total value of the assets of the institution.
 > If the first two digits of a 100-digit integer are, in the order, 2 and 9, how many digits does it have squared? A) 101 B) 199 C) 200 D) 201 E) It is not possible to establish it.
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2020_student_marzo#q15|src_kangourou_2020_student_marzo__Q15]]
 
 
 
@@ -739,7 +739,7 @@ This is the total value of the assets of the institution.
 > E) 4
 
 **Answer:** A
-[[src_kangourou_2020_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2020_student_marzo#q16|src_kangourou_2020_student_marzo__Q16]]
 
 
 
@@ -798,7 +798,7 @@ This is the total value of the assets of the institution.
 >
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2020_student_marzo#q17|src_kangourou_2020_student_marzo__Q17]]
 
 
 
@@ -833,7 +833,7 @@ This is the total value of the assets of the institution.
 > The sequence fn is defined as follows: f1 = 1, f2 = 3 and fn + 2 = fn + fn + 1 for n ≥ 1. Of the first 2020 items in the succession, how many are equal? A) 673 B) 674 C) 1010 D) 1011 E) 1347
 
 **Answer:** A
-[[src_kangourou_2020_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2020_student_marzo#q18|src_kangourou_2020_student_marzo__Q18]]
 
 
 
@@ -904,7 +904,7 @@ This is the total value of the assets of the institution.
 > E) None of the values indicated.
 
 **Answer:** C
-[[src_kangourou_2020_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2020_student_marzo#q19|src_kangourou_2020_student_marzo__Q19]]
 
 
 
@@ -958,7 +958,7 @@ This is the total value of the assets of the institution.
 > E) There is insufficient data to determine it. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2020_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2020_student_marzo#q20|src_kangourou_2020_student_marzo__Q20]]
 
 
 
@@ -1005,7 +1005,7 @@ This is the total value of the assets of the institution.
 > E) ab
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2020_student_marzo#q21|src_kangourou_2020_student_marzo__Q21]]
 
 
 
@@ -1045,7 +1045,7 @@ This is the total value of the assets of the institution.
 > A young kangaroo draws on a square grid a segment that passes through the node P in the lower left corner of the grid, and then colors three triangles as shown in the figure. Which of the following terns can represent the relationships between the areas of the three triangles? (a) 1 : 2: 3 B) 1: 2: 4 C) 1: 3: 9 D) 1: 4: 8 E) None of the following:
 
 **Answer:** E
-[[src_kangourou_2020_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2020_student_marzo#q22|src_kangourou_2020_student_marzo__Q22]]
 
 
 
@@ -1088,7 +1088,7 @@ This is the total value of the assets of the institution.
 >
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2020_student_marzo#q23|src_kangourou_2020_student_marzo__Q23]]
 
 
 
@@ -1142,7 +1142,7 @@ This is the total value of the assets of the institution.
 > E) 80
 
 **Answer:** D
-[[src_kangourou_2020_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2020_student_marzo#q24|src_kangourou_2020_student_marzo__Q24]]
 
 
 
@@ -1191,7 +1191,7 @@ This is the total value of the assets of the institution.
 > E) 6
 
 **Answer:** E
-[[src_kangourou_2020_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2020_student_marzo#q25|src_kangourou_2020_student_marzo__Q25]]
 
 
 
@@ -1241,7 +1241,7 @@ This is the total value of the assets of the institution.
 > E) 11
 
 **Answer:** C
-[[src_kangourou_2020_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2020_student_marzo#q26|src_kangourou_2020_student_marzo__Q26]]
 
 
 
@@ -1287,7 +1287,7 @@ This is the total value of the assets of the institution.
 > E)
 
 **Answer:** A
-[[src_kangourou_2020_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2020_student_marzo#q27|src_kangourou_2020_student_marzo__Q27]]
 
 
 
@@ -1335,7 +1335,7 @@ This is the total value of the assets of the institution.
 >
 
 **Answer:** A
-[[src_kangourou_2020_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2020_student_marzo#q28|src_kangourou_2020_student_marzo__Q28]]
 
 
 
@@ -1395,7 +1395,7 @@ This is the total value of the assets of the institution.
 > E) 36
 
 **Answer:** C
-[[src_kangourou_2020_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2020_student_marzo#q29|src_kangourou_2020_student_marzo__Q29]]
 
 
 
@@ -1464,4 +1464,4 @@ This is the total value of the assets of the institution.
 > Answers
 
 **Answer:** C
-[[src_kangourou_2020_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2020_student_marzo#q30|src_kangourou_2020_student_marzo__Q30]]

@@ -46,7 +46,7 @@ level: kangourou
 > - **(E)** (Figure E) (see figure)
 
 **Answer:** 0092
-[[src_kangourou_2020_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q01|src_kangourou_2020_ecolier_finale__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: kangourou
 > - **(E)** (Figure E) (see figure)
 
 **Answer:** 0039
-[[src_kangourou_2020_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q02|src_kangourou_2020_ecolier_finale__Q02]]
 
 
 
@@ -131,7 +131,7 @@ level: kangourou
 > - **(E)** (form E) (see figure)
 
 **Answer:** 0034
-[[src_kangourou_2020_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q03|src_kangourou_2020_ecolier_finale__Q03]]
 
 
 
@@ -172,7 +172,7 @@ level: kangourou
 > - **(E)** (Figure E) (see figure)
 
 **Answer:** 0341
-[[src_kangourou_2020_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q04|src_kangourou_2020_ecolier_finale__Q04]]
 
 
 
@@ -213,7 +213,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0030
-[[src_kangourou_2020_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q05|src_kangourou_2020_ecolier_finale__Q05]]
 
 
 
@@ -253,7 +253,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** (Figure E) (see figure)
 
 **Answer:** 0036
-[[src_kangourou_2020_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q06|src_kangourou_2020_ecolier_finale__Q06]]
 
 
 
@@ -294,7 +294,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** (Figure E) (see figure)
 
 **Answer:** 0405
-[[src_kangourou_2020_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q07|src_kangourou_2020_ecolier_finale__Q07]]
 
 
 
@@ -335,7 +335,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 8880
-[[src_kangourou_2020_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q08|src_kangourou_2020_ecolier_finale__Q08]]
 
 
 
@@ -376,7 +376,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0012
-[[src_kangourou_2020_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q09|src_kangourou_2020_ecolier_finale__Q09]]
 
 
 
@@ -416,7 +416,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** (Figure E) (see figure)
 
 **Answer:** 0480
-[[src_kangourou_2020_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q10|src_kangourou_2020_ecolier_finale__Q10]]
 
 
 
@@ -456,7 +456,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0021
-[[src_kangourou_2020_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q11|src_kangourou_2020_ecolier_finale__Q11]]
 
 
 
@@ -497,7 +497,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0037
-[[src_kangourou_2020_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q12|src_kangourou_2020_ecolier_finale__Q12]]
 
 
 
@@ -537,7 +537,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0048
-[[src_kangourou_2020_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q13|src_kangourou_2020_ecolier_finale__Q13]]
 
 
 
@@ -578,7 +578,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** $23$
 
 **Answer:** 0101
-[[src_kangourou_2020_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q14|src_kangourou_2020_ecolier_finale__Q14]]
 
 
 
@@ -619,7 +619,7 @@ How to write 546 as the sum of multiples of 3*
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0042
-[[src_kangourou_2020_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#q15|src_kangourou_2020_ecolier_finale__Q15]]
 
 
 
@@ -630,7 +630,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Quante mosse complete con 1000 spilli (gioco a tre per spillo)*
 
-![[src_kangourou_2020_ecolier_finale__probE1.png]]
+![[src_kangourou_2020_ecolier_finale__probe1.png]]
 
 > Faccio il seguente gioco con gli spilli. Metto sul tavolo uno spillo; poi, a ogni mossa successiva, accosto alla capocchia di ciascuno degli spilli deposti nella mossa precedente le punte di altri tre spilli, come suggerito dalla figura. Se ho una scatola contenente $1000$ spilli, quante mosse complete posso fare, compresa quella con cui ho deposto il primo spillo?
 > 
@@ -648,14 +648,14 @@ How to write 546 as the sum of multiples of 3*
 
 *How many complete moves with 1000 spins (playing three per spine) *
 
-![[src_kangourou_2020_ecolier_finale__probE1.png]]
+![[src_kangourou_2020_ecolier_finale__probe1.png]]
 
 > I'll play the following game with the spikes. I place a spike on the table; then, with each subsequent move, I attach the tips of three more spikes to the head of each of the spikes laid in the previous move, as suggested by the figure. If I have a box containing pins, how many complete moves can I make, including the one I put the first pin with?
 > 
 > (see figure)
 
 **Answer:** 6
-[[src_kangourou_2020_ecolier_finale__QE1]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe1|src_kangourou_2020_ecolier_finale__QE1]]
 
 
 
@@ -684,7 +684,7 @@ How to write 546 as the sum of multiples of 3*
 > Luisa has many pens: $29$ red, $13$ blue and $20$ black. He wants to pack bags containing $4$ pens, so that no bag contains more than two pens of the same color. How many bags can you pack?
 
 **Answer:** 15
-[[src_kangourou_2020_ecolier_finale__QE2]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe2|src_kangourou_2020_ecolier_finale__QE2]]
 
 
 
@@ -712,7 +712,7 @@ How to write 546 as the sum of multiples of 3*
 > Many books of different thicknesses are lined up on a shelf. To the left of the book most often there are $20$ books, to the right of the thinner one there are $22$. Between the thickest book and the thinnest one is the oldest book, different from both. What is the minimum number of books that can be lined up on the shelf?
 
 **Answer:** 23
-[[src_kangourou_2020_ecolier_finale__QE3]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe3|src_kangourou_2020_ecolier_finale__QE3]]
 
 
 
@@ -723,7 +723,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Somma dei quattro numeri di Giulia (somme uguali sulle diagonali)*
 
-![[src_kangourou_2020_ecolier_finale__probE4.png]]
+![[src_kangourou_2020_ecolier_finale__probe4.png]]
 
 ```tikz
 \begin{document}
@@ -762,7 +762,7 @@ How to write 546 as the sum of multiples of 3*
 
 *sum of the four Julian numbers (equal sums on the diagonals) *
 
-![[src_kangourou_2020_ecolier_finale__probE4.png]]
+![[src_kangourou_2020_ecolier_finale__probe4.png]]
 
 ```tikz
 \begin{document}
@@ -790,7 +790,7 @@ How to write 546 as the sum of multiples of 3*
 > (see figure)
 
 **Answer:** 22
-[[src_kangourou_2020_ecolier_finale__QE4]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe4|src_kangourou_2020_ecolier_finale__QE4]]
 
 
 
@@ -801,7 +801,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Riempire griglia 6x6 con/senza numero in posizione speciale*
 
-![[src_kangourou_2020_ecolier_finale__probE5.png]]
+![[src_kangourou_2020_ecolier_finale__probe5.png]]
 
 ```tikz
 \begin{document}
@@ -832,7 +832,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Fill the 6x6 grid with/without special position number*
 
-![[src_kangourou_2020_ecolier_finale__probE5.png]]
+![[src_kangourou_2020_ecolier_finale__probe5.png]]
 
 ```tikz
 \begin{document}
@@ -851,7 +851,7 @@ How to write 546 as the sum of multiples of 3*
 > 
 > (see figure)
 
-[[src_kangourou_2020_ecolier_finale__QE5]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe5|src_kangourou_2020_ecolier_finale__QE5]]
 
 
 
@@ -862,7 +862,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Somma dei numeri delle candeline per porzione (due tagli)*
 
-![[src_kangourou_2020_ecolier_finale__probE6.png]]
+![[src_kangourou_2020_ecolier_finale__probe6.png]]
 
 ```tikz
 \begin{document}
@@ -900,7 +900,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Summary of the number of candlesticks per serving (two cuts) *
 
-![[src_kangourou_2020_ecolier_finale__probE6.png]]
+![[src_kangourou_2020_ecolier_finale__probe6.png]]
 
 ```tikz
 \begin{document}
@@ -927,4 +927,4 @@ How to write 546 as the sum of multiples of 3*
 > (see figure)
 
 **Answer:** 26
-[[src_kangourou_2020_ecolier_finale__QE6]]
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe6|src_kangourou_2020_ecolier_finale__QE6]]

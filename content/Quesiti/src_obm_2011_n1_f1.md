@@ -40,7 +40,7 @@ level: OBM Nível 1
 > (A) R\$74.36 \quad (B) R\$74.46 \quad (C) R\$84.36 \quad (D) R\$89.86 \quad (E) R\$104.26
 
 **Risposta:** A
-[[src_obm_2011_n1_f1__Q01]]
+[[Quesiti/src_obm_2011_n1_f1#q01|src_obm_2011_n1_f1__Q01]]
 
 
 
@@ -83,7 +83,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
 
 **Risposta:** D
-[[src_obm_2011_n1_f1__Q02]]
+[[Quesiti/src_obm_2011_n1_f1#q02|src_obm_2011_n1_f1__Q02]]
 
 
 
@@ -102,7 +102,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > - **(D)** no two products ever had the same price
 > - **(E)** the product with the smallest price variation was beans
 
-![[src_obm_2011_n1_f1__Q03.png]]
+![[src_obm_2011_n1_f1__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -126,10 +126,10 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > - **(D)** Nessun prodotto ha mai avuto lo stesso prezzo.
 > - **(E)** il prodotto con la minore variazione dei prezzi è stato il fagiolo
 
-![[src_obm_2011_n1_f1__Q03.png]]
+![[src_obm_2011_n1_f1__q03.png]]
 
 **Risposta:** A
-[[src_obm_2011_n1_f1__Q03]]
+[[Quesiti/src_obm_2011_n1_f1#q03|src_obm_2011_n1_f1__Q03]]
 
 
 
@@ -164,7 +164,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 396 \quad (B) 398 \quad (C) 400 \quad (D) 402 \quad (E) 404
 
 **Risposta:** D
-[[src_obm_2011_n1_f1__Q04]]
+[[Quesiti/src_obm_2011_n1_f1#q04|src_obm_2011_n1_f1__Q04]]
 
 
 
@@ -179,7 +179,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 14 \quad (B) 16 \quad (C) 17 \quad (D) 18 \quad (E) 25
 
-![[src_obm_2011_n1_f1__Q05.png]]
+![[src_obm_2011_n1_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -200,10 +200,10 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 14 \quad (B) 16 \quad (C) 17 \quad (D) 18 \quad (E) 25
 
-![[src_obm_2011_n1_f1__Q05.png]]
+![[src_obm_2011_n1_f1__q05.png]]
 
 **Risposta:** C
-[[src_obm_2011_n1_f1__Q05]]
+[[Quesiti/src_obm_2011_n1_f1#q05|src_obm_2011_n1_f1__Q05]]
 
 
 
@@ -237,7 +237,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 28\% \quad (B) 30\% \quad (C) 35\% \quad (D) 38\% \quad (E) 70\%
 
 **Risposta:** A
-[[src_obm_2011_n1_f1__Q06]]
+[[Quesiti/src_obm_2011_n1_f1#q06|src_obm_2011_n1_f1__Q06]]
 
 
 
@@ -272,7 +272,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 15 \quad (B) 23 \quad (C) 27 \quad (D) 39 \quad (E) 107
 
 **Risposta:** E
-[[src_obm_2011_n1_f1__Q07]]
+[[Quesiti/src_obm_2011_n1_f1#q07|src_obm_2011_n1_f1__Q07]]
 
 
 
@@ -287,7 +287,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 180 \quad (B) 240 \quad (C) 300 \quad (D) 360 \quad (E) 450
 
-![[src_obm_2011_n1_f1__Q08.png]]
+![[src_obm_2011_n1_f1__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -308,10 +308,10 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 180 \quad (B) 240 \quad (C) 300 \quad (D) 360 \quad (E) 450
 
-![[src_obm_2011_n1_f1__Q08.png]]
+![[src_obm_2011_n1_f1__q08.png]]
 
 **Risposta:** C
-[[src_obm_2011_n1_f1__Q08]]
+[[Quesiti/src_obm_2011_n1_f1#q08|src_obm_2011_n1_f1__Q08]]
 
 
 
@@ -346,7 +346,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
 
 **Risposta:** C
-[[src_obm_2011_n1_f1__Q09]]
+[[Quesiti/src_obm_2011_n1_f1#q09|src_obm_2011_n1_f1__Q09]]
 
 
 
@@ -380,7 +380,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > (A) 30 \quad (B) 31 \quad (C) 32 \quad (D) 33 \quad (E) 66
 
 **Risposta:** D
-[[src_obm_2011_n1_f1__Q10]]
+[[Quesiti/src_obm_2011_n1_f1#q10|src_obm_2011_n1_f1__Q10]]
 
 
 
@@ -413,7 +413,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 10 \quad (B) 12 \quad (C) 15 \quad (D) 24 \quad (E) 30
 
-[[src_obm_2011_n1_f1__Q11]]
+[[Quesiti/src_obm_2011_n1_f1#q11|src_obm_2011_n1_f1__Q11]]
 
 
 
@@ -428,7 +428,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 12 cm \quad (B) 16 cm \quad (C) 18 cm \quad (D) 24 cm \quad (E) 36 cm
 
-![[src_obm_2011_n1_f1__Q12.png]]
+![[src_obm_2011_n1_f1__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -449,10 +449,10 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > 
 > (A) 12 cm \quad (B) 16 cm \quad (C) 18 cm \quad (D) 24 cm \quad (E) 36 cm
 
-![[src_obm_2011_n1_f1__Q12.png]]
+![[src_obm_2011_n1_f1__q12.png]]
 
 **Risposta:** D
-[[src_obm_2011_n1_f1__Q12]]
+[[Quesiti/src_obm_2011_n1_f1#q12|src_obm_2011_n1_f1__Q12]]
 
 
 
@@ -486,7 +486,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > (A) $20^\circ$ \quad (B) $42^\circ$ \quad (C) $105^\circ$ \quad (D) $403^\circ$ \quad (E) $1005^\circ$
 
 **Risposta:** D
-[[src_obm_2011_n1_f1__Q13]]
+[[Quesiti/src_obm_2011_n1_f1#q13|src_obm_2011_n1_f1__Q13]]
 
 
 
@@ -519,7 +519,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > 
 > (A) 9 \quad (B) 10 \quad (C) 11 \quad (D) 12 \quad (E) 13
 
-[[src_obm_2011_n1_f1__Q14]]
+[[Quesiti/src_obm_2011_n1_f1#q14|src_obm_2011_n1_f1__Q14]]
 
 
 
@@ -534,7 +534,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > 
 > (A) 1:2 \quad (B) 1:1 \quad (C) 2:1 \quad (D) 1:3 \quad (E) 2:3
 
-![[src_obm_2011_n1_f1__Q15.png]]
+![[src_obm_2011_n1_f1__q15.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -555,10 +555,10 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > 
 > (A) 1:2 \quad B) 1:1 \quad C) 2:1 \quad D) 1:3 \quad E 2:3
 
-![[src_obm_2011_n1_f1__Q15.png]]
+![[src_obm_2011_n1_f1__q15.png]]
 
 **Risposta:** A
-[[src_obm_2011_n1_f1__Q15]]
+[[Quesiti/src_obm_2011_n1_f1#q15|src_obm_2011_n1_f1__Q15]]
 
 
 
@@ -593,7 +593,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > (A) 15 \quad (B) 18 \quad (C) 24 \quad (D) 26 \quad (E) 28
 
 **Risposta:** E
-[[src_obm_2011_n1_f1__Q16]]
+[[Quesiti/src_obm_2011_n1_f1#q16|src_obm_2011_n1_f1__Q16]]
 
 
 
@@ -626,7 +626,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > 
 > (A) nessuno (B) 11 (C) 2010 (D) 2011 (E) 4022
 
-[[src_obm_2011_n1_f1__Q17]]
+[[Quesiti/src_obm_2011_n1_f1#q17|src_obm_2011_n1_f1__Q17]]
 
 
 
@@ -641,7 +641,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > 
 > (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 12
 
-![[src_obm_2011_n1_f1__Q18.png]]
+![[src_obm_2011_n1_f1__q18.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -662,10 +662,10 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > 
 > (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 12
 
-![[src_obm_2011_n1_f1__Q18.png]]
+![[src_obm_2011_n1_f1__q18.png]]
 
 **Risposta:** C
-[[src_obm_2011_n1_f1__Q18]]
+[[Quesiti/src_obm_2011_n1_f1#q18|src_obm_2011_n1_f1__Q18]]
 
 
 
@@ -700,7 +700,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > (A) 1 \quad (B) 3 \quad (C) 4 \quad (D) 7 \quad (E) 9
 
 **Risposta:** B
-[[src_obm_2011_n1_f1__Q19]]
+[[Quesiti/src_obm_2011_n1_f1#q19|src_obm_2011_n1_f1__Q19]]
 
 
 
@@ -733,4 +733,4 @@ Meno numero di biglietti che cambiano di mano in modo che tre ragazze abbiano qu
 > 
 > (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
 
-[[src_obm_2011_n1_f1__Q20]]
+[[Quesiti/src_obm_2011_n1_f1#q20|src_obm_2011_n1_f1__Q20]]

@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Qual è il numero intero positivo più piccolo che è sia il doppio di un cubo perfetto che il quintuplico di un quadrato perfetto?
 
-[[src_obm_2000_n2_f2__Q01]]
+[[Quesiti/src_obm_2000_n2_f2#q01|src_obm_2000_n2_f2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 2
 > 
 > **Nota:** Le scatole di dimensioni $2 \times 3 \times 36$ e $2 \times 36 \times 3$ devono essere considerate uguali.
 
-[[src_obm_2000_n2_f2__Q02]]
+[[Quesiti/src_obm_2000_n2_f2#q02|src_obm_2000_n2_f2__Q02]]
 
 
 
@@ -79,7 +79,7 @@ level: OBM Nível 2
 > 
 > The angle $\widehat{FAE}$ measures $20^\circ$. Find the angle $\widehat{EGB}$.
 
-![[src_obm_2000_n2_f2__Q03.png]]
+![[src_obm_2000_n2_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -97,9 +97,9 @@ level: OBM Nível 2
 > 
 > L'angolo $\widehat{FAE}$ misura $20^\circ$. Trova l'angolo $\widehat{EGB}$.
 
-![[src_obm_2000_n2_f2__Q03.png]]
+![[src_obm_2000_n2_f2__q03.png]]
 
-[[src_obm_2000_n2_f2__Q03]]
+[[Quesiti/src_obm_2000_n2_f2#q03|src_obm_2000_n2_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 2
 > 
 > Find the side length of square $I$.
 
-![[src_obm_2000_n2_f2__Q04.png]]
+![[src_obm_2000_n2_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -132,9 +132,9 @@ level: OBM Nível 2
 > 
 > Trova la lunghezza laterale del quadrato $I$.
 
-![[src_obm_2000_n2_f2__Q04.png]]
+![[src_obm_2000_n2_f2__q04.png]]
 
-[[src_obm_2000_n2_f2__Q04]]
+[[Quesiti/src_obm_2000_n2_f2#q04|src_obm_2000_n2_f2__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: OBM Nível 2
 
 > Elencare i numeri interi da $1$ a $n$. Da questo elenco cancellati il numero intero $m$. La media dei restanti numeri $n - 1$ è uguale a $\dfrac{134}{11}$. Trova $n$ e $m$.
 
-[[src_obm_2000_n2_f2__Q05]]
+[[Quesiti/src_obm_2000_n2_f2#q05|src_obm_2000_n2_f2__Q05]]
 
 
 
@@ -196,4 +196,4 @@ level: OBM Nível 2
 > 
 > b) Trovare il minimo $n$ in modo tale che, se $Vulcano$ $FC$ ottiene ** almeno ** $n$ punti nel secondo round (indipendentemente da chi sono gli avversari e chi altro ottiene almeno $n$ punti), sia garantito il raggiungimento della finale (indipendentemente da chi ottiene almeno $n$ punti tra gli avversari).
 
-[[src_obm_2000_n2_f2__Q06]]
+[[Quesiti/src_obm_2000_n2_f2#q06|src_obm_2000_n2_f2__Q06]]

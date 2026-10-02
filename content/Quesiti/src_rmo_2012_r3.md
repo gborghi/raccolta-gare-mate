@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a unit square. Draw a quadrant of a circle with $A$ as centre and $B$, $D$ as end points of the arc. Similarly, draw a quadrant of a circle with $B$ as centre and $A$, $C$ as end points of the arc. Inscribe a circle $\Gamma$ touching the arcs $AC$ and $BD$ both externally and also touching the side $CD$. Find the radius of the circle $\Gamma$.
 
-![[src_rmo_2012_r3__Q01.png]]
+![[src_rmo_2012_r3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi gli archi $AC$ e $BD$ sia esternamente che sul lato $CD$. Trova il raggio del cerchio $\Gamma$.
 
-![[src_rmo_2012_r3__Q01.png]]
+![[src_rmo_2012_r3__q01.png]]
 
-[[src_rmo_2012_r3__Q01]]
+[[Quesiti/src_rmo_2012_r3#q01|src_rmo_2012_r3__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: RMO
 
 > Lasciate che $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^{31}$.
 
-[[src_rmo_2012_r3__Q02]]
+[[Quesiti/src_rmo_2012_r3#q02|src_rmo_2012_r3__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: RMO
 
 > $a$ e $b$ siano numeri reali positivi come $a + b = 1$. Prove che $a^a b^b + b^a a^b \le 1$.
 
-[[src_rmo_2012_r3__Q03]]
+[[Quesiti/src_rmo_2012_r3#q03|src_rmo_2012_r3__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: RMO
 
 > Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{5, 7, 8\}$.
 
-[[src_rmo_2012_r3__Q04]]
+[[Quesiti/src_rmo_2012_r3#q04|src_rmo_2012_r3__Q04]]
 
 
 
@@ -130,7 +130,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $D$, $E$ be points on the segment $BC$ such that $BD = DE = EC$. Let $F$ be the midpoint of $AC$. Let $BF$ intersect $AD$ in $P$ and $AE$ in $Q$ respectively. Determine the ratio of the area of the triangle $APQ$ to that of the quadrilateral $PDEQ$.
 
-![[src_rmo_2012_r3__Q05.png]]
+![[src_rmo_2012_r3__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -146,9 +146,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. $F$ sia il punto medio di $AC$. In $P$ $BF$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare il rapporto tra la superficie del triangolo $APQ$ e quella del quadrilaterale $PDEQ$.
 
-![[src_rmo_2012_r3__Q05.png]]
+![[src_rmo_2012_r3__q05.png]]
 
-[[src_rmo_2012_r3__Q05]]
+[[Quesiti/src_rmo_2012_r3#q05|src_rmo_2012_r3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: RMO
 
 > Trovare tutti gli integri positivi $n$ in modo che $3^{2n} + 3n^2 + 7$ sia un quadrato perfetto.
 
-[[src_rmo_2012_r3__Q06]]
+[[Quesiti/src_rmo_2012_r3#q06|src_rmo_2012_r3__Q06]]

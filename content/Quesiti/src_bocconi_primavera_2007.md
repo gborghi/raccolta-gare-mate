@@ -39,7 +39,7 @@ Figures: How many boys have each won?
 > How many cards did each boy win?
 
 **Answer:** Anna 2, Jacob 6, Luca 12
-[[src_bocconi_primavera_2007__Q01]]
+[[Quesiti/src_bocconi_primavera_2007#q01|src_bocconi_primavera_2007__Q01]]
 
 
 
@@ -72,7 +72,7 @@ Figures: How many boys have each won?
 > **What are the numbers greater than $1720$, but less than $2300$, that Angelo can form?**
 
 **Answer:** 2134 e 2143
-[[src_bocconi_primavera_2007__Q02]]
+[[Quesiti/src_bocconi_primavera_2007#q02|src_bocconi_primavera_2007__Q02]]
 
 
 
@@ -109,7 +109,7 @@ Figures: How many boys have each won?
 > How are Desiderio machines placed?
 
 **Answer:** Nell'ordine: nera – rossa – blu – verde – azzurra
-[[src_bocconi_primavera_2007__Q03]]
+[[Quesiti/src_bocconi_primavera_2007#q03|src_bocconi_primavera_2007__Q03]]
 
 
 
@@ -142,7 +142,7 @@ How many yellow packs does Marco put in the car?
 > How many yellow packs will Marco put in the car?
 
 **Answer:** 4 pacchi gialli
-[[src_bocconi_primavera_2007__Q04]]
+[[Quesiti/src_bocconi_primavera_2007#q04|src_bocconi_primavera_2007__Q04]]
 
 
 
@@ -175,7 +175,7 @@ How many yellow packs does Marco put in the car?
 > **How many types of juices can you make using only two of the four ingredients? **
 
 **Answer:** 6 tipi di succhi
-[[src_bocconi_primavera_2007__Q05]]
+[[Quesiti/src_bocconi_primavera_2007#q05|src_bocconi_primavera_2007__Q05]]
 
 
 
@@ -208,7 +208,7 @@ Type of juice using one, two, three or four fruits*
 > **How many types of juices can you make?**
 
 **Answer:** 15 tipi di succhi
-[[src_bocconi_primavera_2007__Q06]]
+[[Quesiti/src_bocconi_primavera_2007#q06|src_bocconi_primavera_2007__Q06]]
 
 
 
@@ -240,7 +240,7 @@ Type of juice using one, two, three or four fruits*
 > What was the initial area of the forest (in sqm)?
 
 **Answer:** $12.000$ m$^2$
-[[src_bocconi_primavera_2007__Q07]]
+[[Quesiti/src_bocconi_primavera_2007#q07|src_bocconi_primavera_2007__Q07]]
 
 
 
@@ -272,7 +272,7 @@ Type of juice using one, two, three or four fruits*
 > **What is the total weight of the three bags? **
 
 **Answer:** 96 Kg
-[[src_bocconi_primavera_2007__Q08]]
+[[Quesiti/src_bocconi_primavera_2007#q08|src_bocconi_primavera_2007__Q08]]
 
 
 
@@ -304,7 +304,7 @@ Type of juice using one, two, three or four fruits*
 > **How many votes did the mayor's list get? **
 
 **Answer:** 167 voti
-[[src_bocconi_primavera_2007__Q09]]
+[[Quesiti/src_bocconi_primavera_2007#q09|src_bocconi_primavera_2007__Q09]]
 
 
 
@@ -336,7 +336,7 @@ Type of juice using one, two, three or four fruits*
 > **How many tonnes does the whale weigh? **
 
 **Answer:** 15 tonnellate
-[[src_bocconi_primavera_2007__Q10]]
+[[Quesiti/src_bocconi_primavera_2007#q10|src_bocconi_primavera_2007__Q10]]
 
 
 
@@ -365,7 +365,7 @@ Type of juice using one, two, three or four fruits*
 > **How many distinct three-digit numbers, multiples of $5$, can be formed with the digits $1$, $2$, $3$, $5$, $7$?**
 
 **Answer:** 12 numeri
-[[src_bocconi_primavera_2007__Q11]]
+[[Quesiti/src_bocconi_primavera_2007#q11|src_bocconi_primavera_2007__Q11]]
 
 
 
@@ -394,7 +394,7 @@ Type of juice using one, two, three or four fruits*
 > **How many numbers of three distinct, equal digits can be formed with the digits $1$, $2$, $3$, $5$, $7$?**
 
 **Answer:** 12 numeri
-[[src_bocconi_primavera_2007__Q12]]
+[[Quesiti/src_bocconi_primavera_2007#q12|src_bocconi_primavera_2007__Q12]]
 
 
 
@@ -426,7 +426,7 @@ How many oyster eggs do you need for 60 people?
 > **How many oysters do you need for $60$ people? **
 
 **Answer:** 3 uova di struzzo
-[[src_bocconi_primavera_2007__Q13]]
+[[Quesiti/src_bocconi_primavera_2007#q13|src_bocconi_primavera_2007__Q13]]
 
 
 
@@ -458,7 +458,7 @@ How many years have Erica and I been together?
 > How many years have we been together?
 
 **Answer:** 84 anni
-[[src_bocconi_primavera_2007__Q14]]
+[[Quesiti/src_bocconi_primavera_2007#q14|src_bocconi_primavera_2007__Q14]]
 
 
 
@@ -491,7 +491,7 @@ How many years have Erica and I been together?
 > What is this number?
 
 **Answer:** 48
-[[src_bocconi_primavera_2007__Q15]]
+[[Quesiti/src_bocconi_primavera_2007#q15|src_bocconi_primavera_2007__Q15]]
 
 
 
@@ -504,7 +504,7 @@ How many years have Erica and I been together?
 
 > Completa il quadrato della figura in cui compaiono già alcuni numeri, in modo che in ogni riga e in ogni colonna la somma dei numeri sia sempre uguale a $30$. Puoi utilizzare i numeri $1$, $2$, $3$, $4$, $5$, $6$, $10$, $11$, $12$, $13$, $14$.
 
-![[src_bocconi_primavera_2007__Q16.png]]
+![[src_bocconi_primavera_2007__q16.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -521,10 +521,10 @@ How many years have Erica and I been together?
 
 > Complete the square of the figure in which some numbers already appear, so that in each row and column the sum of the numbers is always $30$. You can use the numbers $1$, $2$, $3$, $4$, $5$, $6$, $10$, $11$, $12$, $13$, $14$.
 
-![[src_bocconi_primavera_2007__Q16.png]]
+![[src_bocconi_primavera_2007__q16.png]]
 
 **Answer:** Quadrato completato: riga 1: $12,3,1,14$; riga 2: $6,8,12,4$; riga 3: $11,5,4,10$; riga 4: $1,14,13,2$
-[[src_bocconi_primavera_2007__Q16]]
+[[Quesiti/src_bocconi_primavera_2007#q16|src_bocconi_primavera_2007__Q16]]
 
 
 
@@ -539,7 +539,7 @@ How many years have Erica and I been together?
 > 
 > **Che ore sono?**
 
-![[src_bocconi_primavera_2007__Q17.png]]
+![[src_bocconi_primavera_2007__q17.png]]
 
 **Topic:** [[topic_logica|Logica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -557,10 +557,10 @@ How many years have Erica and I been together?
 > 
 > What time is it?
 
-![[src_bocconi_primavera_2007__Q17.png]]
+![[src_bocconi_primavera_2007__q17.png]]
 
 **Answer:** Le 9 e 45 minuti
-[[src_bocconi_primavera_2007__Q17]]
+[[Quesiti/src_bocconi_primavera_2007#q17|src_bocconi_primavera_2007__Q17]]
 
 
 
@@ -573,7 +573,7 @@ How many years have Erica and I been together?
 
 > **Qual è l'area della parte tratteggiata in figura?**
 
-![[src_bocconi_primavera_2007__Q18.png]]
+![[src_bocconi_primavera_2007__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -589,10 +589,10 @@ How many years have Erica and I been together?
 
 > **What is the area of the part shown in Figure 1?**
 
-![[src_bocconi_primavera_2007__Q18.png]]
+![[src_bocconi_primavera_2007__q18.png]]
 
 **Answer:** $16$ m$^2$
-[[src_bocconi_primavera_2007__Q18]]
+[[Quesiti/src_bocconi_primavera_2007#q18|src_bocconi_primavera_2007__Q18]]
 
 
 
@@ -605,7 +605,7 @@ How many years have Erica and I been together?
 
 > **Qual è il numero che si trova all'interno di tutti i cerchi?**
 
-![[src_bocconi_primavera_2007__Q19.png]]
+![[src_bocconi_primavera_2007__q19.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -621,7 +621,7 @@ How many years have Erica and I been together?
 
 > **What is the number inside all circles? **
 
-![[src_bocconi_primavera_2007__Q19.png]]
+![[src_bocconi_primavera_2007__q19.png]]
 
 **Answer:** 2
-[[src_bocconi_primavera_2007__Q19]]
+[[Quesiti/src_bocconi_primavera_2007#q19|src_bocconi_primavera_2007__Q19]]

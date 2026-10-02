@@ -43,7 +43,7 @@ level: OBM Nível Universitário
 > 
 > b) Ci sono solo finitamente molte matrici della forma di cui sopra con tutti i numeri interi $a, b, c$.
 
-[[src_obm_2021_nu_fx__Q01]]
+[[Quesiti/src_obm_2021_nu_fx#q01|src_obm_2021_nu_fx__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível Universitário
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ della classe $C^2$ (cioè $f$ è doppio differenziabile con la seconda derivata continua) in modo tale che $$f(t)^2 = f(t\sqrt{2})$$ per ogni reale $t$.
 
-[[src_obm_2021_nu_fx__Q02]]
+[[Quesiti/src_obm_2021_nu_fx#q02|src_obm_2021_nu_fx__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível Universitário
 
 > Trova tutti i numeri interi positivi $k$ per i quali esiste un numero irrazionale $\alpha > 1$ e un intero positivo $N$ tale che $\lfloor \alpha^n \rfloor$ sia di forma $m^2 - k$ per un certo numero intero $m$, per ogni numero intero $n > N$.
 
-[[src_obm_2021_nu_fx__Q03]]
+[[Quesiti/src_obm_2021_nu_fx#q03|src_obm_2021_nu_fx__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível Universitário
 
 > Per ogni intero $n > 1$, $k(n)$ sia il più grande intero positivo $k$ tale che $n = m^k$ per un intero positivo $m$. Determinazione $$\lim_{n \to \infty} \frac{1}{n} \sum_{j=2}^{n} k(j).$$
 
-[[src_obm_2021_nu_fx__Q04]]
+[[Quesiti/src_obm_2021_nu_fx#q04|src_obm_2021_nu_fx__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível Universitário
 
 > Determinare tutti i tripli $(\lambda_1, \lambda_2, \lambda_3) \in \mathbb{R}^3$ in modo tale che esista una matrice $3 \times 3$ $A_{3 \times 3}$ con entrate reali non negative i cui valori propri sono $\lambda_1, \lambda_2, \lambda_3$.
 
-[[src_obm_2021_nu_fx__Q05]]
+[[Quesiti/src_obm_2021_nu_fx#q05|src_obm_2021_nu_fx__Q05]]
 
 
 
@@ -193,4 +193,4 @@ level: OBM Nível Universitário
 > 
 > *Ricordo: * Siamo d'accordo che la parola vuota (con lettere $0$) è un palindromo. Se le parole $u = a_1 a_2 \ldots a_i$ e $v = b_1 b_2 \ldots b_j$ sono indicate, il simbolo $uv$ indica la loro concatenamento $a_1 a_2 \ldots a_i b_1 b_2 \ldots b_j$.
 
-[[src_obm_2021_nu_fx__Q06]]
+[[Quesiti/src_obm_2021_nu_fx#q06|src_obm_2021_nu_fx__Q06]]

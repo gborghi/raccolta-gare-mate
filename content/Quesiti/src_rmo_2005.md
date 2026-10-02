@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a convex quadrilateral; $P$, $Q$, $R$, $S$ be the midpoints of $AB$, $BC$, $CD$, $DA$ respectively such that triangles $AQR$ and $CSP$ are equilateral. Prove that $ABCD$ is a rhombus. Determine its angles.
 
-![[src_rmo_2005__Q01.png]]
+![[src_rmo_2005__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Che $ABCD$ sia un quadrilaterale convexo; $P$, $Q$, $R$, $S$ siano i punti di mezzo rispettivamente di $AB$, $BC$, $CD$, $DA$ in modo tale che i triangoli $AQR$ e $CSP$ siano equilaterali. Provare che $ABCD$ è un rombo. Determina le sue angolazioni.
 
-![[src_rmo_2005__Q01.png]]
+![[src_rmo_2005__q01.png]]
 
-[[src_rmo_2005__Q01]]
+[[Quesiti/src_rmo_2005#q01|src_rmo_2005__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Se $x$, $y$ sono numeri interi e 17 divide sia $x^2 - 3xy + 2y^2 + x - y$ che $x^2 - 3xy + 2y^2 - 5x + 7y$, dimostri che 17 divide $xy - 12x + 15y$.
 
-[[src_rmo_2005__Q02]]
+[[Quesiti/src_rmo_2005#q02|src_rmo_2005__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: RMO
 
 > Se $a$, $b$, $c$ sono tre numeri reali come $|a - b| \ge |c|$, $|b - c| \ge |a|$, $|c - a| \ge |b|$, dimostrate che uno di $a$, $b$, $c$ è la somma degli altri due.
 
-[[src_rmo_2005__Q03]]
+[[Quesiti/src_rmo_2005#q03|src_rmo_2005__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: RMO
 
 > Trova il numero di tutti i numeri a 5 cifre (in base 10) ognuno dei quali contiene il blocco 15 e è divisibile per 15. (Per esempio, 34545 e 34155 sono due tali numeri.)
 
-[[src_rmo_2005__Q04]]
+[[Quesiti/src_rmo_2005#q04|src_rmo_2005__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: RMO
 
 > In triangle $ABC$, let $D$ be the midpoint of $BC$. If $\angle ACD = 45^\circ$ and $\angle ADC = 30^\circ$, determine $\angle BAD$.
 
-![[src_rmo_2005__Q05.png]]
+![[src_rmo_2005__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -147,9 +147,9 @@ level: RMO
 
 > Nel triangolo $ABC$, $D$ sia il punto medio di $BC$. Se $\angle ACD = 45^\circ$ e $\angle ADC = 30^\circ$, determinare $\angle BAD$.
 
-![[src_rmo_2005__Q05.png]]
+![[src_rmo_2005__q05.png]]
 
-[[src_rmo_2005__Q05]]
+[[Quesiti/src_rmo_2005#q05|src_rmo_2005__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: RMO
 
 > Determinare tutti i triples $(a, b, c)$ di numeri interi positivi quali $a \le b \le c$ e $$a + b + c + ab + bc + ca = abc + 1.$$
 
-[[src_rmo_2005__Q06]]
+[[Quesiti/src_rmo_2005#q06|src_rmo_2005__Q06]]
 
 
 
@@ -206,4 +206,4 @@ level: RMO
 
 > $a$, $b$, $c$ siano tre numeri reali positivi come $a + b + c = 1$. Provare che le radici dell'equazione $x^2 + x + 4\lambda = 0$ sono reali.
 
-[[src_rmo_2005__Q07]]
+[[Quesiti/src_rmo_2005#q07|src_rmo_2005__Q07]]

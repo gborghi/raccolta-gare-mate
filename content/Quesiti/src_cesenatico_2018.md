@@ -38,7 +38,7 @@ level: nazionale
 > A cone-shaped bottle rests on its base. It is filled with water until the level of the liquid reaches 8 centimetres measured vertically below the top of the cone. Now, if you turn the bottle around, without changing the amount of water inside, the space left empty at the top of the reversed cone is 2 centimeters high. How high is the bottle?
 
 **Answer:** 1+sqrt(85)
-[[src_cesenatico_2018__Q01]]
+[[Quesiti/src_cesenatico_2018#q01|src_cesenatico_2018__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: nazionale
 
 > Whether ABC is an acutangol triangle, with AB =AC and with barycenter G. Given M the mean point of BC, let's consider the circumference Γ of the center G and the GM radius and denote with N the intersection of Γ with BC other than M. Whether now S is the symmetrical point of A with respect to N, i.e. the point on the AN line such that AN = NS (A  = S). Prove that GS is perpendicular to BC.
 
-[[src_cesenatico_2018__Q02]]
+[[Quesiti/src_cesenatico_2018#q02|src_cesenatico_2018__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: nazionale
 
 > They're x1, x2, . . . , xn positive integers. Let's assume that, in their decimal writing, none of xi is an extension of another xj. For example, 123 is an extension of 12, and 459 is an extension of 4, but 134 is not an extension of 123. Prove that 1 x1 + · · + 1 xn < 3.
 
-[[src_cesenatico_2018__Q03]]
+[[Quesiti/src_cesenatico_2018#q03|src_cesenatico_2018__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: nazionale
 
 > Let N be an integer greater than 1. We call x the smallest positive integer with the following property: there is a positive integer y narrowly less than x −1 such that x divides N + y. Prove that x is the double of a prime number or a power of a prime number. Note: remember that x is a power of a prime number if there exists a prime p and a positive integer n ≥1 such that x = pn.
 
-[[src_cesenatico_2018__Q04]]
+[[Quesiti/src_cesenatico_2018#q04|src_cesenatico_2018__Q04]]
 
 
 
@@ -168,7 +168,7 @@ level: nazionale
 > Given a real number x between 0 and 1, let 's consider its decimal writing 0, c1c2c3 . . . Let 's call B  x) the sum of the different subsequences of six consecutive digits that appear in the sequence c1c2c3 . . . For example, B(1/22) = {045454, 454545, 545454}. Determine the minimum number of elements of B(x) by varying x between the irrational numbers between 0 and 1 (i.e. those whose decimal development is not finite, n is periodic from a certain point onwards.)
 
 **Answer:** 7
-[[src_cesenatico_2018__Q05]]
+[[Quesiti/src_cesenatico_2018#q05|src_cesenatico_2018__Q05]]
 
 
 
@@ -200,4 +200,4 @@ level: nazionale
 
 > So ABC is a triangle such that AB is AC and I is its center. Whether Γ the circumference circumscribed at ABC. The lines BI and CI intersect Γ in two new points, marked M and N respectively. Whether D is another point of Γ, lying on the arc BC that does not contain A, and whether E, F, respectively, are the intersections of AD with BI and CI. Finally, P and Q are the intersections of DM with CI and DN with BI, respectively. (i) Demonstrate that points D, I, P and Q lie on the same circumference Ω. (ii) Demonstrate that the EC and BF lines intersect on Ω.
 
-[[src_cesenatico_2018__Q06]]
+[[Quesiti/src_cesenatico_2018#q06|src_cesenatico_2018__Q06]]

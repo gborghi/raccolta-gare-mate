@@ -38,7 +38,7 @@ level: OBM Nível 2
 > **(A)** $\frac{1}{8}$ $\quad$ **(B)** $\frac{1}{5}$ $\quad$ **(C)** $1$ $\quad$ **(D)** $\frac{8}{5}$ $\quad$ **(E)** $2$
 
 **Risposta:** E
-[[src_obm_2009_n2_f1__Q01]]
+[[Quesiti/src_obm_2009_n2_f1#q01|src_obm_2009_n2_f1__Q01]]
 
 
 
@@ -53,7 +53,7 @@ level: OBM Nível 2
 > 
 > **(A)** $12$ $\quad$ **(B)** $24$ $\quad$ **(C)** $30$ $\quad$ **(D)** $36$ $\quad$ **(E)** $48$
 
-![[src_obm_2009_n2_f1__Q02.png]]
+![[src_obm_2009_n2_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -72,10 +72,10 @@ level: OBM Nível 2
 > 
 > **(A)** $12$ $\quad$ **(B)** $24$ $\quad$ **(C)** $30$ $\quad$ **(D)** $36$ $\quad$ **(E)** $48$
 
-![[src_obm_2009_n2_f1__Q02.png]]
+![[src_obm_2009_n2_f1__q02.png]]
 
 **Risposta:** D
-[[src_obm_2009_n2_f1__Q02]]
+[[Quesiti/src_obm_2009_n2_f1#q02|src_obm_2009_n2_f1__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: OBM Nível 2
 > **(A)** $2$ $\quad$ **(B)** $4$ $\quad$ **(C)** $8$ $\quad$ **(D)** $12$ $\quad$ **(E)** $24$
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q03]]
+[[Quesiti/src_obm_2009_n2_f1#q03|src_obm_2009_n2_f1__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: OBM Nível 2
 > **(A)** $\dfrac{1}{4}$ $\quad$ **(B)** $\dfrac{3}{4}$ $\quad$ **(C)** $\dfrac{3}{4}$ $\quad$ **(D)** $\dfrac{4}{5}$ $\quad$ **(E)** $1$
 
 **Risposta:** D
-[[src_obm_2009_n2_f1__Q04]]
+[[Quesiti/src_obm_2009_n2_f1#q04|src_obm_2009_n2_f1__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: OBM Nível 2
 > 
 > **(A)** $0$ $\quad$ **(B)** $1$ $\quad$ **(C)** $2$ $\quad$ **(D)** $3$ $\quad$ **(E)** $4$
 
-![[src_obm_2009_n2_f1__Q05.png]]
+![[src_obm_2009_n2_f1__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -174,10 +174,10 @@ level: OBM Nível 2
 > 
 > **(A)** $0$ $\quad$ **(B)** $1$ $\quad$ **(C)** $2$ $\quad$ **(D)** $3$ $\quad$ **(E)** $4$
 
-![[src_obm_2009_n2_f1__Q05.png]]
+![[src_obm_2009_n2_f1__q05.png]]
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q05]]
+[[Quesiti/src_obm_2009_n2_f1#q05|src_obm_2009_n2_f1__Q05]]
 
 
 
@@ -210,7 +210,7 @@ level: OBM Nível 2
 > **(A)** $5$ $\quad$ **(B)** $10$ $\quad$ **(C)** $12$ $\quad$ **(D)** $15$ $\quad$ **(E)** $20$
 
 **Risposta:** E
-[[src_obm_2009_n2_f1__Q06]]
+[[Quesiti/src_obm_2009_n2_f1#q06|src_obm_2009_n2_f1__Q06]]
 
 
 
@@ -243,7 +243,7 @@ level: OBM Nível 2
 > **(A)** $120$ $\quad$ **(B)** $240$ $\quad$ **(C)** $360$ $\quad$ **(D)** $480$ $\quad$ **(E)** $600$
 
 **Risposta:** D
-[[src_obm_2009_n2_f1__Q07]]
+[[Quesiti/src_obm_2009_n2_f1#q07|src_obm_2009_n2_f1__Q07]]
 
 
 
@@ -275,7 +275,7 @@ level: OBM Nível 2
 > **(A)** $160$ $\quad$ **(B)** $200$ $\quad$ **(C)** $240$ $\quad$ **(D)** $280$ $\quad$ **(E)** $400$
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q08]]
+[[Quesiti/src_obm_2009_n2_f1#q08|src_obm_2009_n2_f1__Q08]]
 
 
 
@@ -308,7 +308,7 @@ level: OBM Nível 2
 > **(A)** $5$ $\quad$ **(B)** $6$ $\quad$ **(C)** $7$ $\quad$ **(D)** $8$ $\quad$ **(E)** $9$
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q09]]
+[[Quesiti/src_obm_2009_n2_f1#q09|src_obm_2009_n2_f1__Q09]]
 
 
 
@@ -323,7 +323,7 @@ level: OBM Nível 2
 > 
 > **(A)** $18^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $15^{\circ}$ $\quad$ **(D)** $20^{\circ}$ $\quad$ **(E)** $30^{\circ}$
 
-![[src_obm_2009_n2_f1__Q10.png]]
+![[src_obm_2009_n2_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -341,10 +341,10 @@ level: OBM Nível 2
 > 
 > **(A)** $18^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $15^{\circ}$ $\quad$ **(D)** $20^{\circ}$ $\quad$ **(E)** $30^{\circ}$
 
-![[src_obm_2009_n2_f1__Q10.png]]
+![[src_obm_2009_n2_f1__q10.png]]
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q10]]
+[[Quesiti/src_obm_2009_n2_f1#q10|src_obm_2009_n2_f1__Q10]]
 
 
 
@@ -359,7 +359,7 @@ level: OBM Nível 2
 > 
 > **(A)** $2$ $\quad$ **(B)** $3$ $\quad$ **(C)** $4$ $\quad$ **(D)** $5$ $\quad$ **(E)** It is not possible to achieve this configuration.
 
-![[src_obm_2009_n2_f1__Q11.png]]
+![[src_obm_2009_n2_f1__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -378,10 +378,10 @@ level: OBM Nível 2
 > 
 > **(A) ** $2$ $\quad$ **(B) ** $3$ $\quad$ **(C) ** $4$ $\quad$ **(D) ** $5$ $\quad$ **(E) ** Non è possibile ottenere questa configurazione.
 
-![[src_obm_2009_n2_f1__Q11.png]]
+![[src_obm_2009_n2_f1__q11.png]]
 
 **Risposta:** E
-[[src_obm_2009_n2_f1__Q11]]
+[[Quesiti/src_obm_2009_n2_f1#q11|src_obm_2009_n2_f1__Q11]]
 
 
 
@@ -396,7 +396,7 @@ level: OBM Nível 2
 > 
 > **(A)** $30^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $39^{\circ}$ $\quad$ **(D)** $45^{\circ}$ $\quad$ **(E)** $60^{\circ}$
 
-![[src_obm_2009_n2_f1__Q12.png]]
+![[src_obm_2009_n2_f1__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -414,10 +414,10 @@ level: OBM Nível 2
 > 
 > **(A)** $30^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $39^{\circ}$ $\quad$ **(D)** $45^{\circ}$ $\quad$ **(E)** $60^{\circ}$
 
-![[src_obm_2009_n2_f1__Q12.png]]
+![[src_obm_2009_n2_f1__q12.png]]
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q12]]
+[[Quesiti/src_obm_2009_n2_f1#q12|src_obm_2009_n2_f1__Q12]]
 
 
 
@@ -454,7 +454,7 @@ level: OBM Nível 2
 > **(A) ** Tale coda non esiste. Un fan di Grêmio è alla fine della coda. Un fan di Grêmio è un vicino di un fan di Flamengo. Un fan di Flamengo è un vicino di un fan di Grêmio. Un fan di Grêmio è un vicino di due fan di Corinthians.
 
 **Risposta:** E
-[[src_obm_2009_n2_f1__Q13]]
+[[Quesiti/src_obm_2009_n2_f1#q13|src_obm_2009_n2_f1__Q13]]
 
 
 
@@ -471,7 +471,7 @@ level: OBM Nível 2
 > 
 > **(A)** $1$ cm $\quad$ **(B)** $2$ cm $\quad$ **(C)** $3$ cm $\quad$ **(D)** $4$ cm $\quad$ **(E)** $5$ cm
 
-![[src_obm_2009_n2_f1__Q14.png]]
+![[src_obm_2009_n2_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -492,10 +492,10 @@ level: OBM Nível 2
 > 
 > **(A)** $1$ cm $\quad$ **(B)** $2$ cm $\quad$ **(C)** $3$ cm $\quad$ **(D)** $4$ cm $\quad$ **(E)** $5$ cm
 
-![[src_obm_2009_n2_f1__Q14.png]]
+![[src_obm_2009_n2_f1__q14.png]]
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q14]]
+[[Quesiti/src_obm_2009_n2_f1#q14|src_obm_2009_n2_f1__Q14]]
 
 
 
@@ -528,7 +528,7 @@ level: OBM Nível 2
 > **(A)** $112$ $\quad$ **(B)** $100$ $\quad$ **(C)** $84$ $\quad$ **(D)** $88$ $\quad$ **(E)** $80$
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q15]]
+[[Quesiti/src_obm_2009_n2_f1#q15|src_obm_2009_n2_f1__Q15]]
 
 
 
@@ -543,7 +543,7 @@ level: OBM Nível 2
 > 
 > **(A)** $168$ $\quad$ **(B)** $189$ $\quad$ **(C)** $200$ $\quad$ **(D)** $210$ $\quad$ **(E)** $220$
 
-![[src_obm_2009_n2_f1__Q16.png]]
+![[src_obm_2009_n2_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -562,10 +562,10 @@ level: OBM Nível 2
 > 
 > **(A)** $168$ $\quad$ **(B)** $189$ $\quad$ **(C)** $200$ $\quad$ **(D)** $210$ $\quad$ **(E)** $220$
 
-![[src_obm_2009_n2_f1__Q16.png]]
+![[src_obm_2009_n2_f1__q16.png]]
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q16]]
+[[Quesiti/src_obm_2009_n2_f1#q16|src_obm_2009_n2_f1__Q16]]
 
 
 
@@ -598,7 +598,7 @@ level: OBM Nível 2
 > **(A) ** $0$ $\quad$ **(B) ** $1$ $\quad$ **(C) ** $2$ $\quad$ **(D) ** $3$ $\quad$ **
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q17]]
+[[Quesiti/src_obm_2009_n2_f1#q17|src_obm_2009_n2_f1__Q17]]
 
 
 
@@ -643,7 +643,7 @@ level: OBM Nível 2
 > **(A)** $8$ $\quad$ **(B)** $9$ $\quad$ **(C)** $10$ $\quad$ **(D)** $12$ $\quad$ **(E)** $14$
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q18]]
+[[Quesiti/src_obm_2009_n2_f1#q18|src_obm_2009_n2_f1__Q18]]
 
 
 
@@ -675,7 +675,7 @@ level: OBM Nível 2
 > **(A)** $1945$ $\quad$ **(B)** $1946$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $1948$ $\quad$ **(E)** $1949$
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q19]]
+[[Quesiti/src_obm_2009_n2_f1#q19|src_obm_2009_n2_f1__Q19]]
 
 
 
@@ -707,7 +707,7 @@ level: OBM Nível 2
 > **(A)** $2925$ $\quad$ **(B)** $3025$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $3225$ $\quad$ **(E)** $3325$
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q20]]
+[[Quesiti/src_obm_2009_n2_f1#q20|src_obm_2009_n2_f1__Q20]]
 
 
 
@@ -722,7 +722,7 @@ level: OBM Nível 2
 > 
 > **(A)** $3$ cm $\quad$ **(B)** $\sqrt{10}$ cm $\quad$ **(C)** $(\sqrt{10} + 3)$ cm $\quad$ **(D)** $(\sqrt{10} - 2)$ cm $\quad$ **(E)** $(\sqrt{10} - 3)$ cm
 
-![[src_obm_2009_n2_f1__Q21.png]]
+![[src_obm_2009_n2_f1__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -741,10 +741,10 @@ level: OBM Nível 2
 > 
 > **(A)** $3$ cm $\quad$ **(B)** $\sqrt{10}$ cm $\quad$ **(C)** $(\sqrt{10} + 3)$ cm $\quad$ **(D)** $(\sqrt{10} - 2)$ cm $\quad$ **(E)** $(\sqrt{10} - 3)$ cm
 
-![[src_obm_2009_n2_f1__Q21.png]]
+![[src_obm_2009_n2_f1__q21.png]]
 
 **Risposta:** E
-[[src_obm_2009_n2_f1__Q21]]
+[[Quesiti/src_obm_2009_n2_f1#q21|src_obm_2009_n2_f1__Q21]]
 
 
 
@@ -777,7 +777,7 @@ level: OBM Nível 2
 > **(A)** $10$ $\quad$ **(B)** $12$ $\quad$ **(C)** $14$ $\quad$ **(D)** $16$ $\quad$ **(E)** $18$
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q22]]
+[[Quesiti/src_obm_2009_n2_f1#q22|src_obm_2009_n2_f1__Q22]]
 
 
 
@@ -810,7 +810,7 @@ level: OBM Nível 2
 > **(A)** $144\text{ cm}^2$ $\quad$ **(B)** $288\text{ cm}^2$ $\quad$ **(C)** $364\text{ cm}^2$ $\quad$ **(D)** $442\text{ cm}^2$ $\quad$ **(E)** $841\text{ cm}^2$
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q23]]
+[[Quesiti/src_obm_2009_n2_f1#q23|src_obm_2009_n2_f1__Q23]]
 
 
 
@@ -843,7 +843,7 @@ level: OBM Nível 2
 > **(A)** $45$ $\quad$ **(B)** $54$ $\quad$ **(C)** $63$ $\quad$ **(D)** $72$ $\quad$ **(E)** $81$
 
 **Risposta:** C
-[[src_obm_2009_n2_f1__Q24]]
+[[Quesiti/src_obm_2009_n2_f1#q24|src_obm_2009_n2_f1__Q24]]
 
 
 
@@ -858,7 +858,7 @@ level: OBM Nível 2
 > 
 > **(A)** Figure A $\quad$ **(B)** Figure B $\quad$ **(C)** Figure C $\quad$ **(D)** Figure D $\quad$ **(E)** Figure E
 
-![[src_obm_2009_n2_f1__Q25.png]]
+![[src_obm_2009_n2_f1__q25.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -877,7 +877,7 @@ level: OBM Nível 2
 > 
 > **(A) ** Figura A $\quad$ **(B) ** Figura B $\quad$ **(C) ** Figura C $\quad$ **(D) ** Figura D $\quad$ **(E) ** Figura E
 
-![[src_obm_2009_n2_f1__Q25.png]]
+![[src_obm_2009_n2_f1__q25.png]]
 
 **Risposta:** B
-[[src_obm_2009_n2_f1__Q25]]
+[[Quesiti/src_obm_2009_n2_f1#q25|src_obm_2009_n2_f1__Q25]]

@@ -47,7 +47,7 @@ level: biennio
 > - **(E)** 92
 
 **Answer:** E
-[[src_archimede_2013_biennio__Q01]]
+[[Quesiti/src_archimede_2013_biennio#q01|src_archimede_2013_biennio__Q01]]
 
 
 
@@ -92,7 +92,7 @@ Day of conversation between two lying mathematicians
 > - **(E)** It is not possible to determine the day uniquely.
 
 **Answer:** B
-[[src_archimede_2013_biennio__Q02]]
+[[Quesiti/src_archimede_2013_biennio#q02|src_archimede_2013_biennio__Q02]]
 
 
 
@@ -134,7 +134,7 @@ Day of conversation between two lying mathematicians
 > - **(E)** 1 2
 
 **Answer:** E
-[[src_archimede_2013_biennio__Q03]]
+[[Quesiti/src_archimede_2013_biennio#q03|src_archimede_2013_biennio__Q03]]
 
 
 
@@ -178,7 +178,7 @@ Day of conversation between two lying mathematicians
 > - **(E)** None of the above statements are true
 
 **Answer:** E
-[[src_archimede_2013_biennio__Q04]]
+[[Quesiti/src_archimede_2013_biennio#q04|src_archimede_2013_biennio__Q04]]
 
 
 
@@ -232,7 +232,7 @@ Day of conversation between two lying mathematicians
 > - **(E)** It depends on how large the initial population was.
 
 **Answer:** B
-[[src_archimede_2013_biennio__Q05]]
+[[Quesiti/src_archimede_2013_biennio#q05|src_archimede_2013_biennio__Q05]]
 
 
 
@@ -275,7 +275,7 @@ Day of conversation between two lying mathematicians
 > - **(E)** 18
 
 **Answer:** E
-[[src_archimede_2013_biennio__Q06]]
+[[Quesiti/src_archimede_2013_biennio#q06|src_archimede_2013_biennio__Q06]]
 
 
 
@@ -320,7 +320,7 @@ Day of conversation between two lying mathematicians
 > - **(E)** 6
 
 **Answer:** C
-[[src_archimede_2013_biennio__Q07]]
+[[Quesiti/src_archimede_2013_biennio#q07|src_archimede_2013_biennio__Q07]]
 
 
 
@@ -365,7 +365,7 @@ Chilies eaten by Alberto, split and returned
 > - **(E)** 270
 
 **Answer:** B
-[[src_archimede_2013_biennio__Q08]]
+[[Quesiti/src_archimede_2013_biennio#q08|src_archimede_2013_biennio__Q08]]
 
 
 
@@ -407,7 +407,7 @@ Chilies eaten by Alberto, split and returned
 > - **(E)** The answer depends on n
 
 **Answer:** E
-[[src_archimede_2013_biennio__Q09]]
+[[Quesiti/src_archimede_2013_biennio#q09|src_archimede_2013_biennio__Q09]]
 
 
 
@@ -499,7 +499,7 @@ Chilies eaten by Alberto, split and returned
 > - **(E)** cannot be determined by the data provided
 
 **Answer:** C
-[[src_archimede_2013_biennio__Q10]]
+[[Quesiti/src_archimede_2013_biennio#q10|src_archimede_2013_biennio__Q10]]
 
 
 
@@ -541,7 +541,7 @@ Chilies eaten by Alberto, split and returned
 > - **(E)** 8 m
 
 **Answer:** B
-[[src_archimede_2013_biennio__Q11]]
+[[Quesiti/src_archimede_2013_biennio#q11|src_archimede_2013_biennio__Q11]]
 
 
 
@@ -613,7 +613,7 @@ Chilies eaten by Alberto, split and returned
 > - **(E)** 3 2π m2
 
 **Answer:** C
-[[src_archimede_2013_biennio__Q12]]
+[[Quesiti/src_archimede_2013_biennio#q12|src_archimede_2013_biennio__Q12]]
 
 
 
@@ -655,7 +655,7 @@ The probability of two balls of the same color
 > - **(E)** None of the preceding
 
 **Answer:** C
-[[src_archimede_2013_biennio__Q13]]
+[[Quesiti/src_archimede_2013_biennio#q13|src_archimede_2013_biennio__Q13]]
 
 
 
@@ -705,7 +705,7 @@ The probability of two balls of the same color
 > - **(E)** depends on the slope α of the wall P1 P2 S M d _
 
 **Answer:** B
-[[src_archimede_2013_biennio__Q14]]
+[[Quesiti/src_archimede_2013_biennio#q14|src_archimede_2013_biennio__Q14]]
 
 
 
@@ -745,7 +745,7 @@ The probability of two balls of the same color
 > - **(E)** 992
 
 **Answer:** A
-[[src_archimede_2013_biennio__Q15]]
+[[Quesiti/src_archimede_2013_biennio#q15|src_archimede_2013_biennio__Q15]]
 
 
 
@@ -791,4 +791,4 @@ The probability of two balls of the same color
 > - **(E)** 2 √ 2 m2
 
 **Answer:** A
-[[src_archimede_2013_biennio__Q16]]
+[[Quesiti/src_archimede_2013_biennio#q16|src_archimede_2013_biennio__Q16]]

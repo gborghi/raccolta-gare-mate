@@ -35,7 +35,7 @@ level: China National Team Selection Test
 
 > Date un numero intero $n \ge 3$, trovare il numero reale massimo $M$, in modo tale che per tutti i numeri positivi $x_1, x_2, \ldots, x_n$, esista una permutazione $y_1, y_2, \ldots, y_n$ di $x_1, x_2, \ldots, x_n$ che soddisfa $$\sum_{i=1}^{n} \frac{y_i^2}{y_{i+1}^2 - y_{i+1} y_{i+2} + y_{i+2}^2} \ge M,$$ dove $y_{n+1} = y_1$, $y_{n+2} = y_2$. (Posizionato da Qu Zhenhua)
 
-[[src_cn_ctst_2011__Q01]]
+[[Quesiti/src_cn_ctst_2011#q01|src_cn_ctst_2011__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: China National Team Selection Test
 
 > Che $n > 1$ sia un numero intero, $k$ sia il numero di fattori primi distinti di $n$. Prova che esiste un numero intero $a$, $1 \le a \le \dfrac{n}{k} + 1$, tale che $n \mid a(a-1)$. (Possibile da Yu Hongbing)
 
-[[src_cn_ctst_2011__Q02]]
+[[Quesiti/src_cn_ctst_2011#q02|src_cn_ctst_2011__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: China National Team Selection Test
 > 
 > **Remark.** Un percorso tra due vertici distinti $a$ e $b$ con lunghezza $k$ è una sequenza di vertici $a = v_0, v_1, \ldots, v_k = b$ in cui $v_i$ e $v_{i+1}$ ($i = 0, 1, \ldots, k-1$) sono adiacenti. (Possibile da Leng Gangsong)
 
-[[src_cn_ctst_2011__Q03]]
+[[Quesiti/src_cn_ctst_2011#q03|src_cn_ctst_2011__Q03]]
 
 
 
@@ -106,7 +106,7 @@ level: China National Team Selection Test
 
 > Let $H$ be the orthocenter of acute-angled $\triangle ABC$. Let $P$ be a point on arc $\widehat{BC}$ of the circumcircle of $\triangle ABC$ (not containing $A$). $PH$ intersects arc $\widehat{AC}$ at $M$. There exists a point $K$ on $AB$ such that the line $KM$ is parallel to the Simson line of $P$ with respect to $\triangle ABC$. Let $Q$ be the point on the circumcircle such that $QP \perp BC$; the chord $KQ$ intersects $BC$ at point $J$. Prove that $\triangle JKM$ is isosceles. (posed by Xiong Bin)
 
-![[src_cn_ctst_b11_w134__Q04.png]]
+![[src_cn_ctst_b11_w134__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -122,9 +122,9 @@ level: China National Team Selection Test
 
 > Che $H$ sia l'ortocentro di $\triangle ABC$ angolato acuto. Il $P$ deve essere un punto sull'arco $\widehat{BC}$ del circoncircolo di $\triangle ABC$ (non contenente $A$). $PH$ interseca l'arco $\widehat{AC}$ a $M$. Esiste un punto $K$ su $AB$ tale che la riga $KM$ sia parallela alla riga Simson di $P$ rispetto a $\triangle ABC$. Il punto $Q$ deve essere il punto del circoncircolo in modo tale che $QP \perp BC$; l'accordo $KQ$ incroci $BC$ al punto $J$. Provare che $\triangle JKM$ è uguale. (Posizionato da Xiong Bin)
 
-![[src_cn_ctst_b11_w134__Q04.png]]
+![[src_cn_ctst_b11_w134__q04.png]]
 
-[[src_cn_ctst_2011__Q04]]
+[[Quesiti/src_cn_ctst_2011#q04|src_cn_ctst_2011__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: China National Team Selection Test
 
 > Lasciate che $a_1, a_2, \ldots$ sia una permutazione di tutti gli integri positivi. Prove che esistono infinitamente molti interi positivi $i$, come $(a_i, a_{i+1}) \le \dfrac{3}{4}i$. (Possibile da Chen Yonggao)
 
-[[src_cn_ctst_2011__Q05]]
+[[Quesiti/src_cn_ctst_2011#q05|src_cn_ctst_2011__Q05]]
 
 
 
@@ -182,4 +182,4 @@ level: China National Team Selection Test
 > 
 > Per una sequenza di punti $(A_1, \ldots, A_n)$, inserendo un punto $A$ adiacente a due punti $A_i, A_{i+1}$ soddisfacendo $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, possiamo ottenere una nuova sequenza di punti $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Lasciate che $(A_1, \ldots, A_n)$ e $(B_1, \ldots, B_m)$ siano due sequenze di punti interessanti. Prova che se $A_1 = B_1$ e $A_n = B_m$, si possono espandere entrambe le sequenze di punti a una sequenza di punti comune $(C_1, C_2, \ldots, C_s)$. (Posizionato da Qu Zhenhua)
 
-[[src_cn_ctst_2011__Q06]]
+[[Quesiti/src_cn_ctst_2011#q06|src_cn_ctst_2011__Q06]]

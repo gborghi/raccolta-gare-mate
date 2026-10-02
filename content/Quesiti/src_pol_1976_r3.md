@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Il numero $\sin\frac{\pi}{18}\sin\frac{3\pi}{18}\sin\frac{5\pi}{18}\sin\frac{7\pi}{18}\sin\frac{9\pi}{18}$ è razionale?
 
-[[src_pol_1976_r3__Q01]]
+[[Quesiti/src_pol_1976_r3#q01|src_pol_1976_r3__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Olimpiade Polacca Round 3
 
 > Quattro sequenze di numeri reali $(a_n)$, $(b_n)$, $(c_n)$, $(d_n)$ soddisfano per tutti $n$, $$a_{n+1}=a_n+b_n,\quad b_{n+1}=b_n+c_n,$$ $$c_{n+1}=c_n+d_n,\quad d_{n+1}=d_n+a_n.$$ Prove che se $a_{k+m}=a_m$, $b_{k+m}=b_m$, $c_{k+m}=c_m$, $d_{k+m}=d_m$ per alcuni $k\ge 1$, $n\ge 1$, allora $a_2=b_2=c_2=d_2=0$.
 
-[[src_pol_1976_r3__Q02]]
+[[Quesiti/src_pol_1976_r3#q02|src_pol_1976_r3__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che per ogni tetraedro, i tre prodotti di coppie di bordi opposti sono lati di un triangolo.
 
-[[src_pol_1976_r3__Q03]]
+[[Quesiti/src_pol_1976_r3#q03|src_pol_1976_r3__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 3
 
 > I diagonali di alcuni quadrilaterali con lati $a,b,c,d$ sono perpendicolari. Prova che anche le diagonali di qualsiasi altro quadrilaterale con lati $a,b,c,d$ sono perpendicolari.
 
-[[src_pol_1976_r3__Q04]]
+[[Quesiti/src_pol_1976_r3#q04|src_pol_1976_r3__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 3
 
 > Un pescatore sta per pescare nelle acque territoriali di un paese vicino, per ciò che non ha una patente. Ogni volta che lancia la rete, la guardia costiera può fermarlo con la probabilità $1/k$, dove $k$ è un intero positivo fisso. Ogni lancio gli porta un pesce che sbarca con un peso fisso. Tuttavia, se la guardia costiera lo ferma, confisceranno tutto il suo sbarco di pesce e gli chiederanno di lasciare il paese. Il peschereccio di peschereccio prevede di lanciare la rete $n$ volte prima di tornare nelle acque territoriali del suo paese. Trova $n$ per il quale il profitto previsto è massimo.
 
-[[src_pol_1976_r3__Q05]]
+[[Quesiti/src_pol_1976_r3#q05|src_pol_1976_r3__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 3
 
 > Una funzione in aumento $f:\mathbb{N}\to\mathbb{R}$ soddisfa $$f(kl)=f(k)+f(l)\quad\text{for all }k,l\in\mathbb{N}.$$ Mostra che esiste un numero reale $p>1$ tale che $f(n)=\log_p n$ per tutti $n$.
 
-[[src_pol_1976_r3__Q06]]
+[[Quesiti/src_pol_1976_r3#q06|src_pol_1976_r3__Q06]]

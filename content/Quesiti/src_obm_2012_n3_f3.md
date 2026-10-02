@@ -37,7 +37,7 @@ level: OBM Nível 3
 > 
 > Determinare, in funzione di $a$ e $v$, tutte le possibili quantità di amoeba nel tubo di prova e il numero di amoeba di ogni colore per ciascuna di tali quantità.
 
-[[src_obm_2012_n3_f3__Q01]]
+[[Quesiti/src_obm_2012_n3_f3#q01|src_obm_2012_n3_f3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 3
 
 > Dato un triangolo $ABC$, $A$ deve essere il circoncentro relativo alla vertica $A$ e $O$ deve essere il punto di intersezione dei bisettori esterni di $\angle B$ e $\angle C$. Che $I_A$, $I_B$, $I_C$ siano gli eccentri del triangolo scaleno $ABC$ rispetto rispettivamente a $A$, $B$, $C$, e che $X$, $Y$, $Z$ siano i punti medi di $I_A I_B$, $I_A I_C$, $I_B I_C$, rispettivamente. L'incircolo del triangolo $ABC$ tocca rispettivamente i lati $BC$, $CA$, $AB$ nei punti $D$, $E$ e $F$. Prova che le linee $DX$, $EY$ e $FZ$ si incontrano in un punto comune appartenente al triangolo $ABC$.
 
-[[src_obm_2012_n3_f3__Q02]]
+[[Quesiti/src_obm_2012_n3_f3#q02|src_obm_2012_n3_f3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 3
 
 > Qual è il numero naturale $n$ più piccolo per il quale esiste un numero naturale $k$ tale che gli ultimi numeri $2012$ di $n^k$ nella rappresentazione decimale siano tutti uguali a $1$?
 
-[[src_obm_2012_n3_f3__Q03]]
+[[Quesiti/src_obm_2012_n3_f3#q03|src_obm_2012_n3_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 3
 
 > Determinare se esistono integri positivi $n$, $a_1$, $a_2$, $\ldots$, $a_{2012}$, tutti più grandi o uguali a $2$, in modo tale che $$n^2 = a_1^2 + a_2^3 + a_3^5 + \cdots + a_i^{p_i} + \cdots + a_{2012}^{p_{2012}},$$ in cui $p_i$ è il primo primo di $i$ (cioè $p_1 = 2$, $p_2 = 3$, $p_3 = 5$, $\ldots$).
 
-[[src_obm_2012_n3_f3__Q04]]
+[[Quesiti/src_obm_2012_n3_f3#q04|src_obm_2012_n3_f3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 3
 
 > In quanti modi le celle di una scheda $n \times n$ possono essere colorate con colori $4$ in modo tale che nessuna delle due celle che condividono un lato abbia lo stesso colore, e in ogni quadrato $2 \times 2$ formato da quattro celle in righe e colonne consecutive appaiono tutti e quattro i colori?
 
-[[src_obm_2012_n3_f3__Q05]]
+[[Quesiti/src_obm_2012_n3_f3#q05|src_obm_2012_n3_f3__Q05]]
 
 
 
@@ -180,4 +180,4 @@ level: OBM Nível 3
 > 
 > (*Nota:* Una funzione $f$ da $A$ a $B$ è *sorgettivo* se l'immagine di $f$ è tutta $B$, cioè per ogni $y \in B$ esiste $x \in A$ tale che $f(x) = y$.)
 
-[[src_obm_2012_n3_f3__Q06]]
+[[Quesiti/src_obm_2012_n3_f3#q06|src_obm_2012_n3_f3__Q06]]

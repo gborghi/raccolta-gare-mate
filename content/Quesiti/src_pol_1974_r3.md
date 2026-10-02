@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > In un tetraedro $ABCD$ i bordi $AB$ e $CD$ sono perpendicolari e $\angle ACB = \angle ADB$. Provare che il piano attraverso $AB$ e il punto medio del bordo $CD$, è perpendicolare a $CD$.
 
-[[src_pol_1974_r3__Q01]]
+[[Quesiti/src_pol_1974_r3#q01|src_pol_1974_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Un salmone in un fiume di montagna deve superare due cascate. Ogni minuto, la probabilità del salmone di superare la prima cascata è $p > 0$, e la probabilità di superare la seconda cascata è $q > 0$. Si presume che questi due eventi siano indipendenti. Calcolare la probabilità che il salmone non abbia superato la prima cascata in $n$ minuti, supponendo che non abbia superato entrambe le cascate in quel periodo.
 
-[[src_pol_1974_r3__Q02]]
+[[Quesiti/src_pol_1974_r3#q02|src_pol_1974_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 3
 
 > $r$ sia un numero naturale. Prova che il trinomio quadratico $x^2 - rx - 1$ non divide alcun polinomio non zero i cui coefficienti sono numeri interi con valori assoluti inferiori a $r$.
 
-[[src_pol_1974_r3__Q03]]
+[[Quesiti/src_pol_1974_r3#q03|src_pol_1974_r3__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che per ogni numero naturale $n$ e una sequenza di numeri reali $a_1, a_2, \ldots, a_n$ esiste un numero naturale $k$ che soddisfa $$\left| \sum_{i=1}^{k} a_i - \sum_{i=k+1}^{n} a_i \right| \le \max_{1 \le i \le n} |a_i|.$$
 
-[[src_pol_1974_r3__Q04]]
+[[Quesiti/src_pol_1974_r3#q04|src_pol_1974_r3__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che per qualsiasi numero naturale $n, r$ con $r + 3 \le n$ i coefficienti binomiali $\binom{n}{r}$, $\binom{n}{r+1}$, $\binom{n}{r+2}$, $\binom{n}{r+3}$ non possono essere termini successivi di una progressione aritmetica.
 
-[[src_pol_1974_r3__Q05]]
+[[Quesiti/src_pol_1974_r3#q05|src_pol_1974_r3__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: Olimpiade Polacca Round 3
 
 > Sono disegnati diversi diagonali in un convex $n$-gon in modo da dividere il $n$-gon in triangoli e: (i) il numero di diagonali disegnati ad ogni vertice è pari; (ii) nessuno dei due diagonali ha un punto interno comune. Prova che $n$ è divisibile per $3$.
 
-[[src_pol_1974_r3__Q06]]
+[[Quesiti/src_pol_1974_r3#q06|src_pol_1974_r3__Q06]]

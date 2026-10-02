@@ -39,7 +39,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 > How much is 0 plus 1 plus 2 plus 3 plus4-3-2-1-0 equal ? A) 0 B) 2 C) 4 D) 10 E)16
 
 **Answer:** C
-[[src_kangourou_2003_ecolier__Q01]]
+[[Quesiti/src_kangourou_2003_ecolier#q01|src_kangourou_2003_ecolier__Q01]]
 
 
 
@@ -76,7 +76,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 > Which number will continue the sequence? A) 7 B) 17 C) 6 D) 10 E) 8
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q02]]
+[[Quesiti/src_kangourou_2003_ecolier#q02|src_kangourou_2003_ecolier__Q02]]
 
 
 
@@ -111,7 +111,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 > Sofia draws kangaroos, coloring them in this order: one blue, then one green, then one red, then one black, then one yellow, then again one blue, one green, one red, one black and so on... What color will the 27th kangaroo be? A) blue B) yellow C) red D) black E) green
 
 **Answer:** E
-[[src_kangourou_2003_ecolier__Q03]]
+[[Quesiti/src_kangourou_2003_ecolier#q03|src_kangourou_2003_ecolier__Q03]]
 
 
 
@@ -149,7 +149,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 > In just one of the following images exactly three quarters of all objects are hearts. What image are we talking about ? A) B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q04]]
+[[Quesiti/src_kangourou_2003_ecolier#q04|src_kangourou_2003_ecolier__Q04]]
 
 
 
@@ -183,7 +183,7 @@ Hours and minutes of sleep by Martino
 > Anna falls asleep at 9:30 p.m. and wakes up at 6:45. His brother Martino slept an hour and 50 minutes more. How many hours and minutes did Martino sleep? (A) 30 h 5 min B) 11 h 35 min C) 11 h 5 min D) 9 h 5 min E) 8 h 35 min
 
 **Answer:** C
-[[src_kangourou_2003_ecolier__Q05]]
+[[Quesiti/src_kangourou_2003_ecolier#q05|src_kangourou_2003_ecolier__Q05]]
 
 
 
@@ -257,7 +257,7 @@ Hours and minutes of sleep by Martino
 > I'm going to pay. I'm going to pay. 6 Kang 2003 Kang
 
 **Answer:** C
-[[src_kangourou_2003_ecolier__Q06]]
+[[Quesiti/src_kangourou_2003_ecolier#q06|src_kangourou_2003_ecolier__Q06]]
 
 
 
@@ -292,7 +292,7 @@ How many apples did Mark pick?
 > Mark the hedgehog complained to his friends: "If I had picked twice as many apples as I did, I would now have 24 more apples than I have now". How many apples did Mark pick? A)  48 B)  24 C)  42 D)  12 E)  36
 
 **Answer:** B
-[[src_kangourou_2003_ecolier__Q07]]
+[[Quesiti/src_kangourou_2003_ecolier#q07|src_kangourou_2003_ecolier__Q07]]
 
 
 
@@ -335,7 +335,7 @@ How many apples did Mark pick?
 > The table below shows the proportions between the quantities of different types of flowers that are present in the botanical garden. Stephen asked the gardener and found that there were 35 azaleas, 50 irises, and 85 roses in the garden. What is the number of herbs grown in the garden? A) 95 B) 100 C) 105 D) 110 E) 115 Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q08]]
+[[Quesiti/src_kangourou_2003_ecolier#q08|src_kangourou_2003_ecolier__Q08]]
 
 
 
@@ -376,7 +376,7 @@ How many apples did Mark pick?
 > Cristina constructed the "cotton" of the figure using cubes of the same size, each colored entirely red or entirely blue. The outer surface of the "cotton" is completely red, but all the cubes used for the interior are blue. How many blue cubes did Cristina use ? A)  12 B)  24 C)  36 D)  40 E)  48
 
 **Answer:** A
-[[src_kangourou_2003_ecolier__Q09]]
+[[Quesiti/src_kangourou_2003_ecolier#q09|src_kangourou_2003_ecolier__Q09]]
 
 
 
@@ -409,7 +409,7 @@ How many apples did Mark pick?
 > I have a number in mind: I subtract from it 203, then I add to the result 2003 and I get 20003. What number did I start from? A)  23 B)  17797 C)  18203 D)  21803 E)  22209
 
 **Answer:** C
-[[src_kangourou_2003_ecolier__Q10]]
+[[Quesiti/src_kangourou_2003_ecolier#q10|src_kangourou_2003_ecolier__Q10]]
 
 
 
@@ -455,7 +455,7 @@ How many apples did Mark pick?
 > I'm going to pay. I'm going to pay. 7 Kang 2003 Kang
 
 **Answer:** B
-[[src_kangourou_2003_ecolier__Q11]]
+[[Quesiti/src_kangourou_2003_ecolier#q11|src_kangourou_2003_ecolier__Q11]]
 
 
 
@@ -495,7 +495,7 @@ How many apples did Mark pick?
 > Fiorella constructed a parallel-piped rectangle using 3 irregular-shaped "mattons", each shaped by approaching 4 equal cubes (see figure). Two of these "mattons" can be seen in the figure. What is the shape of the third "cotton" (indicated by a stroke)? A) B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q12]]
+[[Quesiti/src_kangourou_2003_ecolier#q12|src_kangourou_2003_ecolier__Q12]]
 
 
 
@@ -534,7 +534,7 @@ How many apples did Mark pick?
 > Since the sides of each square are 1 cm long, what is the area of the surface covered by the letter N in the figure? A) 14 cm2 B) 15 cm2 C) 16 cm2 D) 17 cm2 E) 18 cm2
 
 **Answer:** E
-[[src_kangourou_2003_ecolier__Q13]]
+[[Quesiti/src_kangourou_2003_ecolier#q13|src_kangourou_2003_ecolier__Q13]]
 
 
 
@@ -570,7 +570,7 @@ How many apples did Mark pick?
 > Matthew enjoys calculating the sum of the digits he reads on his digital clock (for example, if the clock shows 21:17, then Matthew finds 11). What's the maximum amount you can find? A) 24 B) 36 C) 19 D) 25 E) 23
 
 **Answer:** A
-[[src_kangourou_2003_ecolier__Q14]]
+[[Quesiti/src_kangourou_2003_ecolier#q14|src_kangourou_2003_ecolier__Q14]]
 
 
 
@@ -606,7 +606,7 @@ How many apples did Mark pick?
 > There are 29 students in a class. Students who have at least one sister are 12, those who have at least one brother are 18. Tina, Roberto, and Anna are the only children. How many students in that class have both a brother and a sister? (A) None (B) 1 (C) 3 (D) 4 (E) 6
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q15]]
+[[Quesiti/src_kangourou_2003_ecolier#q15|src_kangourou_2003_ecolier__Q15]]
 
 
 
@@ -670,7 +670,7 @@ How many apples did Mark pick?
 > I'm going to pay. I'm going to pay. 8 Kang 2003 Kang 2003 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** B
-[[src_kangourou_2003_ecolier__Q16]]
+[[Quesiti/src_kangourou_2003_ecolier#q16|src_kangourou_2003_ecolier__Q16]]
 
 
 
@@ -705,7 +705,7 @@ How many apples did Mark pick?
 > A small book is such that to number all its pages, you must use a total of 35 digits. How many pages does it have? A) 12 B) 15 C)  22 D)  28 E)  35
 
 **Answer:** C
-[[src_kangourou_2003_ecolier__Q17]]
+[[Quesiti/src_kangourou_2003_ecolier#q17|src_kangourou_2003_ecolier__Q17]]
 
 
 
@@ -740,7 +740,7 @@ How many apples did Mark pick?
 > In a toy store, the price for one puppy and three cubs is the same as for three cubs and two cubs. All puppies are the same price and all bears are the same price. So: a) a puppy is twice as expensive as a teddy bear b) a teddy bear is twice as expensive as a puppy c) puppies and teddy bears have the same price d) a teddy bear is three times more expensive than a teddy bear e) none of the above claims are correct
 
 **Answer:** B
-[[src_kangourou_2003_ecolier__Q18]]
+[[Quesiti/src_kangourou_2003_ecolier#q18|src_kangourou_2003_ecolier__Q18]]
 
 
 
@@ -780,7 +780,7 @@ How many apples did Mark pick?
 > The figure on the side was drawn on a single façade of a non-transparent sheet of paper and then cut to make a house. Which of the boxes below is the one so obtained? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2003_ecolier__Q19]]
+[[Quesiti/src_kangourou_2003_ecolier#q19|src_kangourou_2003_ecolier__Q19]]
 
 
 
@@ -822,7 +822,7 @@ How many apples did Mark pick?
 > I'm going to pay. I'm going to pay. 9 Kang 2003 Kang
 
 **Answer:** C
-[[src_kangourou_2003_ecolier__Q20]]
+[[Quesiti/src_kangourou_2003_ecolier#q20|src_kangourou_2003_ecolier__Q20]]
 
 
 
@@ -862,7 +862,7 @@ How many apples did Mark pick?
 > A barcode consists of 17 black and white bars (of course alternating: the first bar and the last bar are necessarily black). Black bars are of two types: wide or thin. The number of white bars is greater than 3 than the number of wide black bars. So the number of thin black bars is A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** ANNULLATO
-[[src_kangourou_2003_ecolier__Q21]]
+[[Quesiti/src_kangourou_2003_ecolier#q21|src_kangourou_2003_ecolier__Q21]]
 
 
 
@@ -901,7 +901,7 @@ How many apples did Mark pick?
 > The shaded part of the drawing was made using two objects between those below. What are the two objects? A) 1+3 B) 2+4 C) 2+3 D) 1+4 E) 3+4
 
 **Answer:** A
-[[src_kangourou_2003_ecolier__Q22]]
+[[Quesiti/src_kangourou_2003_ecolier#q22|src_kangourou_2003_ecolier__Q22]]
 
 
 
@@ -938,7 +938,7 @@ How many apples did Mark pick?
 > In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following four different answers: 1, 2, 3, 4. How many really lie in that group of people? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q23]]
+[[Quesiti/src_kangourou_2003_ecolier#q23|src_kangourou_2003_ecolier__Q23]]
 
 
 
@@ -980,4 +980,4 @@ Product number of A (2003 units) for 2003
 > Answers commented at elementary Ecolier level IV and V
 
 **Answer:** D
-[[src_kangourou_2003_ecolier__Q24]]
+[[Quesiti/src_kangourou_2003_ecolier#q24|src_kangourou_2003_ecolier__Q24]]

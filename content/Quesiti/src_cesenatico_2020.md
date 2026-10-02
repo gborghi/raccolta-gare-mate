@@ -38,7 +38,7 @@ level: nazionale
 
 > On a circumference we consider in the order five points A, B, C, D, E. Suppose that the lines BC and DE intersect at a point F, that F and A are on opposite sides to the BE line, and that the circumference circumscribed to the BFE triangle is tangent (in E) to the AE line. (a) Demonstrate that the AC and DE lines are parallel. (b) Demonstrate that AE = CD.
 
-[[src_cesenatico_2020__Q01]]
+[[Quesiti/src_cesenatico_2020#q01|src_cesenatico_2020__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: nazionale
 
 > Determine all pairs (a, b) of positive integers that satisfy the following three conditions: • b > a and b −a is a prime number, • the unit number of a + b is 3, • ab is the square of an integer.
 
-[[src_cesenatico_2020__Q02]]
+[[Quesiti/src_cesenatico_2020#q02|src_cesenatico_2020__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: nazionale
 
 > They're a1, a2. . . , a2020 e b1, b2, . . . , b2020 of real numbers, not necessarily distinct. Suppose that the positive integers n for which the equation a1dix −b1dix + a2dix −b2dix + · · · + a2020dix −b2020 = n (1) has exactly two real solutions are finite. Demonstrate that the positive integers n for which equation (1) has at least one real solution are finite.
 
-[[src_cesenatico_2020__Q03]]
+[[Quesiti/src_cesenatico_2020#q03|src_cesenatico_2020__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: nazionale
 
 > So ABC is an acute triangle with AB = AC. Both D is the foot of the height exiting C, and M is the midpoint of AC, and E is the second intersection between the BC side and the circumference circumscribed at the CDM triangle. Demonstrate that AE, BM and CD lines pass through the same point if and only if CE = CM.
 
-[[src_cesenatico_2020__Q04]]
+[[Quesiti/src_cesenatico_2020#q04|src_cesenatico_2020__Q04]]
 
 
 
@@ -167,7 +167,7 @@ level: nazionale
 
 > Either S is the sum of integers greater than or equal to 2. A function f: S →S is said to be primordial if it has the following properties: • it is surjective (i.e. for every s ∈S there is at least one n ∈S such that f(n) = s), • it is increasing on primes (i.e. if p1 < p2 are prime numbers, then f(p1) < f(p2)), • for every n ∈S, the value of f(n) is the product of f(p) when f ((p) varies between all primes dividing n (so, for example, f((360) = f(23 · 32 · 5) = f2) · f3) · f5)). Determine the maximum and minimum possible value for f(2020), as f varies between all primordial functions.
 
-[[src_cesenatico_2020__Q05]]
+[[Quesiti/src_cesenatico_2020#q05|src_cesenatico_2020__Q05]]
 
 
 
@@ -198,4 +198,4 @@ level: nazionale
 
 > In each box of a table 8 × 8 there is a knight or a cunning man. As is customary, knights always tell the truth, while crooks always lie. All the people in the table say that  the number of thieves in my column is more (strictly) than the number of thieves in my row. Determine how many possible configurations are compatible with this statement.
 
-[[src_cesenatico_2020__Q06]]
+[[Quesiti/src_cesenatico_2020#q06|src_cesenatico_2020__Q06]]

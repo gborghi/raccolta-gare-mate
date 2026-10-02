@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale converso nel piano e che $O_1, O_2, O_3, O_4$ siano rispettivamente i circoncenti dei triangoli $BCD$, $CDA$, $DAB$ e $ABC$. Supponiamo che questi quattro circoncentri siano separati in coppia. Prove che questi quattro punti si trovano su un cerchio comune.
 
-[[src_obm_2021_n3_fx__Q01]]
+[[Quesiti/src_obm_2021_n3_fx#q01|src_obm_2021_n3_fx__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 3
 > 
 > (b) Per questo massimo, in quanti modi possiamo contrassegnare le cellule? Le configurazioni distinte che possono essere ottenute l'una dall'altra mediante rotazione o riflessione sono considerate le stesse.
 
-[[src_obm_2021_n3_fx__Q02]]
+[[Quesiti/src_obm_2021_n3_fx#q02|src_obm_2021_n3_fx__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 3
 > 
 > *Osservazione: * $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
 
-[[src_obm_2021_n3_fx__Q03]]
+[[Quesiti/src_obm_2021_n3_fx#q03|src_obm_2021_n3_fx__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: OBM Nível 3
 > 
 > Qual è il numero reale più piccolo che appartiene a ogni insieme framed?
 
-[[src_obm_2021_n3_fx__Q04]]
+[[Quesiti/src_obm_2021_n3_fx#q04|src_obm_2021_n3_fx__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 3
 
 > Determinare tutti i triples di integri non negativi $(a, b, c)$ in modo tale che $$a^2 + b^2 + c^2 = abc + 1.$$
 
-[[src_obm_2021_n3_fx__Q05]]
+[[Quesiti/src_obm_2021_n3_fx#q05|src_obm_2021_n3_fx__Q05]]
 
 
 
@@ -189,4 +189,4 @@ level: OBM Nível 3
 
 > $n \ge 5$ sia un numero intero. Il poligono $P = A_1 A_2 \cdots A_n$ è *bicentrico*, cioè ha sia un cerchio inciso che un cerchio circonscritto. Definire $A_{i+n} = A_i$ per tutti $i$ (tutti gli indici sono presi modulo $n$). Supponiamo che per ogni $i$, $1 \le i \le n$, i semicircoli sui segmenti $A_{i-1}A_i$ e $A_i A_{i+1}$ (come diametri, disegnati sullo stesso lato) si incontrino al punto $B_i$. $\omega_i$ sia il circoncircolo del triangolo $B_i A_i A_{i+1}$. Prova che esiste un cerchio tangente contemporaneamente a tutti i cerchi $n$ $\omega_i$, $1 \le i \le n$.
 
-[[src_obm_2021_n3_fx__Q06]]
+[[Quesiti/src_obm_2021_n3_fx#q06|src_obm_2021_n3_fx__Q06]]

@@ -46,7 +46,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $21$
 
 **Risposta:** C
-[[src_smc_2023__Q01]]
+[[Quesiti/src_smc_2023#q01|src_smc_2023__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $\dfrac{1}{30000}$
 
 **Risposta:** C
-[[src_smc_2023__Q02]]
+[[Quesiti/src_smc_2023#q02|src_smc_2023__Q02]]
 
 
 
@@ -126,7 +126,7 @@ level: Senior Mathematical Challenge
 > - **(E)** Aumenta di $5\%$
 
 **Risposta:** D
-[[src_smc_2023__Q03]]
+[[Quesiti/src_smc_2023#q03|src_smc_2023__Q03]]
 
 
 
@@ -167,7 +167,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $25$
 
 **Risposta:** C
-[[src_smc_2023__Q04]]
+[[Quesiti/src_smc_2023#q04|src_smc_2023__Q04]]
 
 
 
@@ -186,7 +186,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $16$
 > - **(E)** $18$
 
-![[src_smc_2023__Q05.png]]
+![[src_smc_2023__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -208,10 +208,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $16$
 > - **(E)** $18$
 
-![[src_smc_2023__Q05.png]]
+![[src_smc_2023__q05.png]]
 
 **Risposta:** B
-[[src_smc_2023__Q05]]
+[[Quesiti/src_smc_2023#q05|src_smc_2023__Q05]]
 
 
 
@@ -230,7 +230,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $12$
 > - **(E)** $6$
 
-![[src_smc_2023__Q06.png]]
+![[src_smc_2023__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -253,10 +253,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $12$
 > - **(E)** $6$
 
-![[src_smc_2023__Q06.png]]
+![[src_smc_2023__q06.png]]
 
 **Risposta:** B
-[[src_smc_2023__Q06]]
+[[Quesiti/src_smc_2023#q06|src_smc_2023__Q06]]
 
 
 
@@ -297,7 +297,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $2006$
 
 **Risposta:** D
-[[src_smc_2023__Q07]]
+[[Quesiti/src_smc_2023#q07|src_smc_2023__Q07]]
 
 
 
@@ -337,7 +337,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $1$
 
 **Risposta:** A
-[[src_smc_2023__Q08]]
+[[Quesiti/src_smc_2023#q08|src_smc_2023__Q08]]
 
 
 
@@ -356,7 +356,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $4$
 > - **(E)** $6$
 
-![[src_smc_2023__Q09.png]]
+![[src_smc_2023__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -379,10 +379,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $4$
 > - **(E)** $6$
 
-![[src_smc_2023__Q09.png]]
+![[src_smc_2023__q09.png]]
 
 **Risposta:** D
-[[src_smc_2023__Q09]]
+[[Quesiti/src_smc_2023#q09|src_smc_2023__Q09]]
 
 
 
@@ -423,7 +423,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $5$
 
 **Risposta:** B
-[[src_smc_2023__Q10]]
+[[Quesiti/src_smc_2023#q10|src_smc_2023__Q10]]
 
 
 
@@ -464,7 +464,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $3$
 
 **Risposta:** B
-[[src_smc_2023__Q11]]
+[[Quesiti/src_smc_2023#q11|src_smc_2023__Q11]]
 
 
 
@@ -505,7 +505,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** E
-[[src_smc_2023__Q12]]
+[[Quesiti/src_smc_2023#q12|src_smc_2023__Q12]]
 
 
 
@@ -524,7 +524,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $1:4:8$
 > - **(E)** $1:3:5$
 
-![[src_smc_2023__Q13.png]]
+![[src_smc_2023__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -546,10 +546,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $1:4:8$
 > - **(E)** $1:3:5$
 
-![[src_smc_2023__Q13.png]]
+![[src_smc_2023__q13.png]]
 
 **Risposta:** A
-[[src_smc_2023__Q13]]
+[[Quesiti/src_smc_2023#q13|src_smc_2023__Q13]]
 
 
 
@@ -590,7 +590,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $16$
 
 **Risposta:** E
-[[src_smc_2023__Q14]]
+[[Quesiti/src_smc_2023#q14|src_smc_2023__Q14]]
 
 
 
@@ -631,7 +631,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $0$
 
 **Risposta:** D
-[[src_smc_2023__Q15]]
+[[Quesiti/src_smc_2023#q15|src_smc_2023__Q15]]
 
 
 
@@ -672,7 +672,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $0$
 
 **Risposta:** D
-[[src_smc_2023__Q15(1zz9)]]
+[[Quesiti/src_smc_2023#q15(1zz9)|src_smc_2023__Q15(1zz9)]]
 
 
 
@@ -713,7 +713,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $0$
 
 **Risposta:** D
-[[src_smc_2023__Q15(leHr)]]
+[[Quesiti/src_smc_2023#q15(lehr)|src_smc_2023__Q15(leHr)]]
 
 
 
@@ -732,7 +732,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $4\sqrt{3}$
 > - **(E)** $4\sqrt{2}$
 
-![[src_smc_2023__Q16.png]]
+![[src_smc_2023__q16.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -754,10 +754,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $4\sqrt{3}$
 > - **(E)** $4\sqrt{2}$
 
-![[src_smc_2023__Q16.png]]
+![[src_smc_2023__q16.png]]
 
 **Risposta:** A
-[[src_smc_2023__Q16]]
+[[Quesiti/src_smc_2023#q16|src_smc_2023__Q16]]
 
 
 
@@ -798,7 +798,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $3$ e $5$
 
 **Risposta:** E
-[[src_smc_2023__Q17]]
+[[Quesiti/src_smc_2023#q17|src_smc_2023__Q17]]
 
 
 
@@ -839,7 +839,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $8$
 
 **Risposta:** C
-[[src_smc_2023__Q18]]
+[[Quesiti/src_smc_2023#q18|src_smc_2023__Q18]]
 
 
 
@@ -880,7 +880,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $14$
 
 **Risposta:** E
-[[src_smc_2023__Q19]]
+[[Quesiti/src_smc_2023#q19|src_smc_2023__Q19]]
 
 
 
@@ -899,7 +899,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{p}{2}$
 > - **(E)** $1$
 
-![[src_smc_2023__Q20.png]]
+![[src_smc_2023__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -921,10 +921,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{p}{2}$
 > - **(E)** $1$
 
-![[src_smc_2023__Q20.png]]
+![[src_smc_2023__q20.png]]
 
 **Risposta:** C
-[[src_smc_2023__Q20]]
+[[Quesiti/src_smc_2023#q20|src_smc_2023__Q20]]
 
 
 
@@ -943,7 +943,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $1+\sqrt{3}$
 > - **(E)** $2\sqrt{3}$
 
-![[src_smc_2023__Q21.png]]
+![[src_smc_2023__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -965,10 +965,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $1+\sqrt{3}$
 > - **(E)** $2\sqrt{3}$
 
-![[src_smc_2023__Q21.png]]
+![[src_smc_2023__q21.png]]
 
 **Risposta:** D
-[[src_smc_2023__Q21]]
+[[Quesiti/src_smc_2023#q21|src_smc_2023__Q21]]
 
 
 
@@ -987,7 +987,7 @@ level: Senior Mathematical Challenge
 > - **(D)** graph D
 > - **(E)** graph E
 
-![[src_smc_2023__Q22.png]]
+![[src_smc_2023__q22.png]]
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -1009,10 +1009,10 @@ level: Senior Mathematical Challenge
 > - **(D)** grafico D
 > - **(E)** grafico E
 
-![[src_smc_2023__Q22.png]]
+![[src_smc_2023__q22.png]]
 
 **Risposta:** C
-[[src_smc_2023__Q22]]
+[[Quesiti/src_smc_2023#q22|src_smc_2023__Q22]]
 
 
 
@@ -1053,7 +1053,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $\dfrac{14}{19}$
 
 **Risposta:** D
-[[src_smc_2023__Q23]]
+[[Quesiti/src_smc_2023#q23|src_smc_2023__Q23]]
 
 
 
@@ -1072,7 +1072,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\sqrt{2}$
 > - **(E)** $\dfrac{3}{2}$
 
-![[src_smc_2023__Q24.png]]
+![[src_smc_2023__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -1095,10 +1095,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\sqrt{2}$
 > - **(E)** $\dfrac{3}{2}$
 
-![[src_smc_2023__Q24.png]]
+![[src_smc_2023__q24.png]]
 
 **Risposta:** B
-[[src_smc_2023__Q24]]
+[[Quesiti/src_smc_2023#q24|src_smc_2023__Q24]]
 
 
 
@@ -1139,4 +1139,4 @@ level: Senior Mathematical Challenge
 > - **(E)** $4$
 
 **Risposta:** A
-[[src_smc_2023__Q25]]
+[[Quesiti/src_smc_2023#q25|src_smc_2023__Q25]]

@@ -36,7 +36,7 @@ level: JMO Yosen
 > Il seguente valore è razionale. Esprimere come frazione ridotta: $$\sqrt{\dfrac{123! - 122!}{122! - 121!}}$$
 
 **Risposta:** \frac{122}{11}
-[[src_jmo34yqa_yosen__Q01]]
+[[Quesiti/src_jmo34yqa_yosen#q01|src_jmo34yqa_yosen__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: JMO Yosen
 > Chiamate un intero positivo **numero a prime cifre** (nellezza numero) se ogni cifra che appare in esso è una cifra primaria. Trova tutti i numeri interi positivi a 3 cifre $n$ in modo che sia $n + 2024$ che $n - 34$ siano numeri a prime cifre. (Ci sono esattamente due di questi $n$; trovateli tutti.)
 
 **Risposta:** 309, 311
-[[src_jmo34yqa_yosen__Q02]]
+[[Quesiti/src_jmo34yqa_yosen#q02|src_jmo34yqa_yosen__Q02]]
 
 
 
@@ -78,7 +78,7 @@ level: JMO Yosen
 
 > Let $ABC$ be an equilateral triangle with side length $10$. A circle passing through $A$ is tangent to side $BC$ (excluding endpoints) at point $X$, and meets sides $AB$ and $AC$ again at points $D$ and $E$ (other than $A$) respectively. Given that $BX > CX$ and $AD + AE = 13$, find the length $BX$. (Here $PQ$ denotes the length of segment $PQ$.)
 
-![[src_jmo34yqa_yosen__Q03.png]]
+![[src_jmo34yqa_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -95,10 +95,10 @@ level: JMO Yosen
 
 > Il $ABC$ deve essere un triangolo equilaterale con lunghezza laterale $10$. Un cerchio che attraversa $A$ è tangente ai lati $BC$ (esclusi i punti finali) al punto $X$ e incontra i lati $AB$ e $AC$ di nuovo rispettivamente ai punti $D$ e $E$ (diversi da $A$). Dato che $BX > CX$ e $AD + AE = 13$, trovare la lunghezza $BX$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
 
-![[src_jmo34yqa_yosen__Q03.png]]
+![[src_jmo34yqa_yosen__q03.png]]
 
 **Risposta:** 5 + \sqrt{10}
-[[src_jmo34yqa_yosen__Q03]]
+[[Quesiti/src_jmo34yqa_yosen#q03|src_jmo34yqa_yosen__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: JMO Yosen
 > Trova il valore minimo di $n$ in modo tale che, indipendentemente dalla disposizione iniziale, la sola pietra rimanente sia sempre nera.
 
 **Risposta:** 2883
-[[src_jmo34yqa_yosen__Q04]]
+[[Quesiti/src_jmo34yqa_yosen#q04|src_jmo34yqa_yosen__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: JMO Yosen
 > Trova il numero intero più piccolo $n \ge 10$ soddisfacente $$\left\lfloor \frac{n}{1} \right\rfloor \left\lfloor \frac{n}{2} \right\rfloor \cdots \left\lfloor \frac{n}{10} \right\rfloor = \binom{n}{10}.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$ (cioè $[3.14] = 3$, $[5] = 5$).
 
 **Risposta:** 2519
-[[src_jmo34yqa_yosen__Q05]]
+[[Quesiti/src_jmo34yqa_yosen#q05|src_jmo34yqa_yosen__Q05]]
 
 
 
@@ -195,7 +195,7 @@ level: JMO Yosen
 > Nel triangolo di uguali dimensioni $ABC$ con $AB = AC = 5$, $D$ deve essere il punto laterale $AB$ con $AD = 3$, e $E$ deve essere un punto laterale $BC$ (esclusi i punti finali). Che $\omega$ sia il cerchio che attraversa $E$ e che sia tangente alla linea $AB$ al punto $B$; supponiamo che $\omega$ sia anche tangente al circoncircolo del triangolo $ADE$. Il $F$ deve essere l'intersezione di $\omega$ e della riga $AE$ diversa da $E$. Se $CF = 10$, trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{14\sqrt{65}}{13}
-[[src_jmo34yqa_yosen__Q06]]
+[[Quesiti/src_jmo34yqa_yosen#q06|src_jmo34yqa_yosen__Q06]]
 
 
 
@@ -224,7 +224,7 @@ level: JMO Yosen
 > Trova il numero di coppie $(p, a)$ dove $p$ è un primo con $p \ge 3$ e $a$ è un intero con $1 \le a \le 2024$, soddisfa $a < p^4$ e $ap^4 + 2p^3 + 2p^2 + 1$ è un quadrato perfetto.
 
 **Risposta:** 16
-[[src_jmo34yqa_yosen__Q07]]
+[[Quesiti/src_jmo34yqa_yosen#q07|src_jmo34yqa_yosen__Q07]]
 
 
 
@@ -255,7 +255,7 @@ level: JMO Yosen
 > Una funzione $f$ definita sui numeri interi non negativi prende valori di numeri interi non negativi e soddisfa, per tutti i numeri interi non negativi $m, n$: $$f(m+n)^2 = f(m \cdot f(n)) + f(n^2).$$ Quanti tupli $(f(0), f(1), \ldots, f(2024))$ sono possibili?
 
 **Risposta:** 2^{990} + 1
-[[src_jmo34yqa_yosen__Q08]]
+[[Quesiti/src_jmo34yqa_yosen#q08|src_jmo34yqa_yosen__Q08]]
 
 
 
@@ -284,7 +284,7 @@ level: JMO Yosen
 > Il quadrilaterale ciclico $ABCD$ soddisfa $AB = 7$ e $BC = 18$. Il bisettore angolare di $\angle CDA$ incontra il lato $BC$ al punto $E$, e un punto $F$ sul segmento $DE$ soddisfa $\angle AED = \angle FCD$. Con $BE = 5$ e $EF = 3$, si trova la lunghezza $DF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{17}{3}
-[[src_jmo34yqa_yosen__Q09]]
+[[Quesiti/src_jmo34yqa_yosen#q09|src_jmo34yqa_yosen__Q09]]
 
 
 
@@ -326,7 +326,7 @@ level: JMO Yosen
 > I riempimenti che coincidono dopo la rotazione o la riflessione sono contati come distinti.
 
 **Risposta:** \binom{198}{100} \cdot 3 \cdot 2^{100}
-[[src_jmo34yqa_yosen__Q10]]
+[[Quesiti/src_jmo34yqa_yosen#q10|src_jmo34yqa_yosen__Q10]]
 
 
 
@@ -355,7 +355,7 @@ level: JMO Yosen
 > Una funzione $f$ definita sui numeri interi positivi assume valori interi positivi, soddisfa $f(34) = 2024$, e ha la proprietà che per tutti i numeri interi positivi $a, b, c$, esiste un triangolo con lunghezze laterali $a + f(b)$, $b + f(c)$, $c + f(a)$ (dove tre punti collineari non formano un triangolo). Trova il valore minimo possibile di $f(100) + f(101) + \cdots + f(199)$.
 
 **Risposta:** 102050
-[[src_jmo34yqa_yosen__Q11]]
+[[Quesiti/src_jmo34yqa_yosen#q11|src_jmo34yqa_yosen__Q11]]
 
 
 
@@ -386,4 +386,4 @@ level: JMO Yosen
 > Trovare il numero di tuppi $(a_1, a_2, \ldots, a_{2100})$ di enti interi con $0 \le a_i \le 2099$ per tutti $i$, in modo che esista un tuple di enti $(b_1, b_2, \ldots, b_{2100})$ per il quale, per ogni intero $i$ con $1 \le i \le 2100$, $$a_i \equiv \sum_{\substack{\gcd(j-i,\,2100)=1 \\ 1 \le j \le 2100}} b_j \pmod{2100}.$$ Qui il lato destro è la somma di $b_j$ su tutti gli enti $j$ con $1 \le j \le 2100$ in modo che nessun intero $\ge 2$ divide sia $j - i$ che $2100$.
 
 **Risposta:** \frac{2100^{210}}{2^{164} \cdot 3^{30}}
-[[src_jmo34yqa_yosen__Q12]]
+[[Quesiti/src_jmo34yqa_yosen#q12|src_jmo34yqa_yosen__Q12]]

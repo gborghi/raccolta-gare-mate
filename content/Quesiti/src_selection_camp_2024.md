@@ -37,7 +37,7 @@ level: CAMP Selection Camp
 
 > Lasciate che $a_1, a_2, \ldots$ siano numeri interi positivi. Supponiamo che esista un intero $c \ge 2$ tale che, per ogni intero positivo $n$, $$a_{n+c} = 2a_{n+1} - a_n$$ sia valido. Trovare tutte queste sequenze (determinare tutte le sequenze per le quali esiste un $c$ adatto).
 
-[[src_selection_camp_2024__Q01]]
+[[Quesiti/src_selection_camp_2024#q01|src_selection_camp_2024__Q01]]
 
 
 
@@ -50,7 +50,7 @@ level: CAMP Selection Camp
 
 > Let $ABC$ be an isosceles triangle with $AB = AC$. Let $D$ be the intersection of the bisector of $\angle BAC$ with side $BC$, and let $E$ be the reflection of $D$ across side $BC$. Let $F$ be a point on segment $AC$. The line through $A$ parallel to $BC$ meets line $DF$ at a point $G$. Let $P$ be the intersection of line $AB$ with line $FG$, and let $Q$ be the intersection of line $EP$ with line $FQ$ (as constructed in the figure). Lines $EP$ and $FQ$ determine points $K$, $R$, $S$, and the circumcircle of triangle $KRS$ meets a further point $X$ (with $X \neq K$). Prove that $\angle BXP = \angle CXQ$.
 
-![[src_selection_camp_2024__Q02.png]]
+![[src_selection_camp_2024__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -68,9 +68,9 @@ level: CAMP Selection Camp
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e il $E$ deve essere il riflesso di $D$ attraverso il lato $BC$. $F$ sia un punto sul segmento $AC$. La linea attraverso $A$ parallela a $BC$ incontra la linea $DF$ in un punto $G$. Il $P$ è l'intersezione della linea $AB$ con la linea $FG$, e il $Q$ è l'intersezione della linea $EP$ con la linea $FQ$ (come illustrato nella figura). Le linee $EP$ e $FQ$ determinano i punti $K$, $R$, $S$ e il circoncircolo del triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Provare che $\angle BXP = \angle CXQ$.
 
-![[src_selection_camp_2024__Q02.png]]
+![[src_selection_camp_2024__q02.png]]
 
-[[src_selection_camp_2024__Q02]]
+[[Quesiti/src_selection_camp_2024#q02|src_selection_camp_2024__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero con $n \ge 2$. Ci sono $n$ isole $I_1, I_2, \ldots, I_n$, e per ogni coppia di isole distinte esiste esattamente un ponte (strada) che le collega, utilizzabile in entrambe le direzioni. Ciascuna strada è gestita da esattamente una delle più compagnie stradali. Le strade sono gestite in modo che si possa viaggiare tra due isole utilizzando solo le strade di una singola società. Supponiamo che, per qualsiasi società stradale, vi sia una permutazione $p(1), p(2), \ldots, p(n)$ di $1, 2, \ldots, n$ tale che tale società gestisca esattamente le strade che uniscono $I_{p(i)}$ e $I_{p(i+1)}$ per $i = 1, 2, \ldots, n-1$ (cioè: le strade di ciascuna società costituiscono un percorso hamiltoniano sulle isole $n$). Determinare il numero massimo possibile di compagnie stradali. Qui una permutazione $p(1), p(2), \ldots, p(n)$ di $1, 2, \ldots, n$ significa che ogni intero da $1$ a $n$ appare esattamente una volta.
 
-[[src_selection_camp_2024__Q03]]
+[[Quesiti/src_selection_camp_2024#q03|src_selection_camp_2024__Q03]]
 
 
 
@@ -112,7 +112,7 @@ level: CAMP Selection Camp
 
 > Let $ABC$ be a triangle with $AB < AC$, with circumcircle $\Omega$, and let $\Gamma$ be a circle of radius $r$. Let $P$ be the point with $AB = AP$ on the appropriate side, and let $D$ be the second intersection of line $PB$ with $\Omega$ (other than $B$). From $P$ drop the perpendicular to line $BC$ with foot $H$. Let $Q$ be the point on line $HP$ with $QH = r$, so that $H$, $P$, $Q$ lie on line $HP$ in this order. Let $X$ and $Y$ be the resulting intersection points (as constructed in the figure), with the feet of perpendiculars to lines $DQ$ and $AQ$. Prove the stated concurrency/coincidence and find the length of segment $XY$.
 
-![[src_selection_camp_2024__Q04.png]]
+![[src_selection_camp_2024__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -130,9 +130,9 @@ level: CAMP Selection Camp
 
 > $ABC$ sia un triangolo con $AB < AC$, con circoncircolo $\Omega$, e $\Gamma$ sia un cerchio di raggio $r$. Il punto $P$ è il punto con $AB = AP$ sul lato appropriato e il punto $D$ è la seconda intersezione della linea $PB$ con $\Omega$ (diversi da $B$). Da $P$ scaricare la perpendicolare alla riga $BC$ con piede $H$. Il punto $Q$ deve essere il punto della linea $HP$ con $QH = r$, in modo che $H$, $P$, $Q$ si trovino nella linea $HP$ in questo ordine. I punti di intersezione $X$ e $Y$ risultano (come illustrato nella figura), con i piedi perpendicolari alle linee $DQ$ e $AQ$. Provare la simultanea/coincidenza dichiarata e trovare la lunghezza del segmento $XY$.
 
-![[src_selection_camp_2024__Q04.png]]
+![[src_selection_camp_2024__q04.png]]
 
-[[src_selection_camp_2024__Q04]]
+[[Quesiti/src_selection_camp_2024#q04|src_selection_camp_2024__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi e prendi valori di numeri interi positivi in modo tale che, per tutti i numeri interi positivi $a, b$, $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$ si mantenga, dove $f^{k}(n)$ indica l'iterata moltiplicata $k$ $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$ ($f$ applicata $k$ volte).
 
-[[src_selection_camp_2024__Q05]]
+[[Quesiti/src_selection_camp_2024#q05|src_selection_camp_2024__Q05]]
 
 
 
@@ -193,7 +193,7 @@ level: CAMP Selection Camp
 
 > Trova tutti i quadrupli $(a, b, c, d)$ di numeri interi positivi che soddisfano $$2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c.$$
 
-[[src_selection_camp_2024__Q06]]
+[[Quesiti/src_selection_camp_2024#q06|src_selection_camp_2024__Q06]]
 
 
 
@@ -227,7 +227,7 @@ level: CAMP Selection Camp
 
 > Trova il più grande intero positivo $N$ in modo che esista una sequenza $a_1, a_2, \ldots, a_N$ che soddisfa entrambi i seguenti elementi: \begin{itemize} \item Per ogni intero $i$ con $1 \le i \le N$, $a_i$ è un intero con $1 \le a_i \le 2^{2023}$. \item Per tutti gli integri $i, j$ con $1 \le i \le j \le N$ e ogni scelta di $s_i, s_{i+1}, \ldots, s_j$ ognuno uguale a $1$ o $-1$, $$s_i a_i + s_{i+1} a_{i+1} + \cdots + s_j a_j \neq 0.$$ \end{itemize}
 
-[[src_selection_camp_2024__Q07]]
+[[Quesiti/src_selection_camp_2024#q07|src_selection_camp_2024__Q07]]
 
 
 
@@ -258,7 +258,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite su coppie ordinate di integri positivi e prendi valori di integri positivi in modo tale che, per tutti gli integri positivi $x, y, z$, $$f(x, y)^2 + f(y^4, z) + 2x y^4 z$$ sia un quadrato perfetto.
 
-[[src_selection_camp_2024__Q08]]
+[[Quesiti/src_selection_camp_2024#q08|src_selection_camp_2024__Q08]]
 
 
 
@@ -289,7 +289,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero positivo. Prova che esistono permutazioni $(a_1, a_2, \ldots, a_n)$, $(b_1, b_2, \ldots, b_n)$, $(c_1, c_2, \ldots, c_n)$ di $(1, 2, \ldots, n)$ in modo tale che per ogni intero $k$ con $1 \le k \le n$, $$\left| \sqrt{a_k} + \sqrt{b_k} + \sqrt{c_k} - 2\sqrt{n} \right| < 2023.$$ qui $(x_1, x_2, \ldots, x_n)$ è una permutazione di $(1, 2, \ldots, n)$ se ogni intero da $1$ a $n$ appare esattamente una volta tra $x_1, x_2, \ldots, x_n$.
 
-[[src_selection_camp_2024__Q09]]
+[[Quesiti/src_selection_camp_2024#q09|src_selection_camp_2024__Q09]]
 
 
 
@@ -323,7 +323,7 @@ level: CAMP Selection Camp
 
 > Lasciate che $a_1, a_2, \ldots$ siano numeri interi positivi. Determinare se esiste una sequenza che soddisfa entrambe le seguenti condizioni: \begin{itemize} \item Per ogni intero positivo $k$, $a_k < a_{k+1}$, e $a_{k+1}$ divide $2(a_1 + a_2 + \cdots + a_k)$. \item Esiste un primo $p$ tale che infinitamente molti dei termini $a_1, a_2, \ldots$ sono divisibili da $p$. \end{itemize} Determinare l'esistenza di tale sequenza $a_1, a_2, \ldots$.
 
-[[src_selection_camp_2024__Q10]]
+[[Quesiti/src_selection_camp_2024#q10|src_selection_camp_2024__Q10]]
 
 
 
@@ -354,7 +354,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero con $n \ge 2$. Ogni cella di una griglia $n \times n$ è riempita di uno dei numeri interi distinti da $1$ a $n^2$, ciascuna utilizzata esattamente una volta. $a_{i,j}$ sia il numero intero scritto nella cella della prima riga $i$ dall'alto e della seconda colonna $j$ dalla sinistra. Supponiamo le seguenti sostanze: $$\text{for all integers } i, j \text{ with } 1 \le i \le n,\ 1 \le j \le n, \quad n \mid a_{i,j} - (i + j - 1).$$ Determinare il numero massimo possibile di coppie $(i, j)$, con $1 \le i \le n$ e $1 \le j \le n-1$, in modo tale che $a_{i,j+1} = a_{i,j} + 1$.
 
-[[src_selection_camp_2024__Q11]]
+[[Quesiti/src_selection_camp_2024#q11|src_selection_camp_2024__Q11]]
 
 
 
@@ -383,4 +383,4 @@ level: CAMP Selection Camp
 
 > Lasciate che $ABC$ sia un triangolo acuto con $AB < AC$, e lasciate che $H$ sia il suo centro orto. Il $D$ deve essere un punto sul lato $BC$ (esclusi i suoi punti di fine) con $AB = AD$, e il $P$ deve essere un punto sul segmento $BD$ (esclusi i suoi punti di fine). La linea $BH$ incontra nuovamente il circoncircolo del triangolo $ABC$ in un punto $E$ (con $E \neq B$). Il $Q$ è la seconda intersezione (diversi da $D$) del circoncircolo del triangolo $ABD$ e del circoncircolo del triangolo $DHP$, e il $Q'$ è il riflesso di $Q$ attraverso la linea $AB$. Prova che i quattro punti $B$, $E$, $P$, $Q'$ si trovano su un cerchio comune (sono conciclici). Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_selection_camp_2024__Q12]]
+[[Quesiti/src_selection_camp_2024#q12|src_selection_camp_2024__Q12]]

@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > $\pi(x)$ indica il numero di numeri primi positivi inferiori o uguali a $x$, per $x \in \mathbb{R}$. Indicare che non esiste una funzione continua $f : [0, +\infty) \to \mathbb{R}$ che soddisfi $\lim_{t \to \infty}(f(x) - \pi(x)) = 0$.
 
-[[src_obm_2025_nu_fx__Q01]]
+[[Quesiti/src_obm_2025_nu_fx#q01|src_obm_2025_nu_fx__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: OBM Nível Universitário
 > 
 > (ii) Esistono infinitamente molti numeri naturali $M$ talmente che $$\left|\frac{a_M}{\beta_M}\right| > 2^{2025}.$$
 
-[[src_obm_2025_nu_fx__Q02]]
+[[Quesiti/src_obm_2025_nu_fx#q02|src_obm_2025_nu_fx__Q02]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível Universitário
 > 
 > b) Che $B : \mathbb{R}^2 \to \mathbb{R}^2$ sia una trasformazione lineare invertibile, e che $$\Gamma = B(\mathbb{Z}^3) = \{B(x,y,z) \mid x, y, z \in \mathbb{Z}\}.$$ Supponga che $u$ abbia un modulo minimo in $\Gamma \setminus \{(0,0)\}$, $v$ abbia un modulo minimo in $\Gamma \setminus \{tu \mid t \in \mathbb{R}\}$ e $w$ abbia un modulo minimo in $\Gamma \setminus \{tu + sv \mid t, s \in \mathbb{R}\}$. Prove che $\Gamma = \{ku + mv + nw \mid k, m, n \in \mathbb{Z}\}$.
 
-[[src_obm_2025_nu_fx__Q03]]
+[[Quesiti/src_obm_2025_nu_fx#q03|src_obm_2025_nu_fx__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível Universitário
 
 > Lasciate che $A, B \in M(n, \mathbb{C})$, cioè $A, B$ siano matrici $n \times n$ con voci in $\mathbb{C}$, e lasciate che $P \in \mathbb{C}[X]$ sia un polinomio non costante tale che $P(0) \ne 0$ e $AB = P(A)$. Prova che la matrice $A$ è invertibile e che $A$ e $B$ viaggiano (cioè $AB = BA$).
 
-[[src_obm_2025_nu_fx__Q04]]
+[[Quesiti/src_obm_2025_nu_fx#q04|src_obm_2025_nu_fx__Q04]]
 
 
 
@@ -172,7 +172,7 @@ level: OBM Nível Universitário
 > 
 > b) Che il $(a_n)_{n \ge 1}$ sia una sequenza di termini positivi tale che la serie $\sum_{n=1}^{\infty} \frac{a_n}{n}$ converga. Prove che esiste una sequenza crescente $(n_k)_{k \ge 1}$ di integri positivi con $\lim_{k \to \infty} \frac{n_{k+1}}{n_k} = 1$ tale da far convergere la serie $\sum_{k=1}^{\infty} a_{n_k}$.
 
-[[src_obm_2025_nu_fx__Q05]]
+[[Quesiti/src_obm_2025_nu_fx#q05|src_obm_2025_nu_fx__Q05]]
 
 
 
@@ -207,4 +207,4 @@ level: OBM Nível Universitário
 > 
 > b) Determinare il minimo $\lambda = \lambda(r)$ possibile nella parte (a).
 
-[[src_obm_2025_nu_fx__Q06]]
+[[Quesiti/src_obm_2025_nu_fx#q06|src_obm_2025_nu_fx__Q06]]

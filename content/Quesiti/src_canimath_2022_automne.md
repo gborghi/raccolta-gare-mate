@@ -37,7 +37,7 @@ level: Coupe Animath Automne
 > Calcolo: $$\frac{1 \times 2 \times 4 + 2 \times 4 \times 8 + 3 \times 6 \times 12 + 4 \times 8 \times 16}{1 \times 3 \times 9 + 2 \times 6 \times 18 + 3 \times 9 \times 27 + 4 \times 12 \times 36}$$ Si prevede una sola risposta numerica. La risposta deve essere data in una frazione irriducibile, cioè: come $\frac{a}{b}$ in cui $a$ e $b$ sono integri positivi senza divisore comune.
 
 **Risposta:** 2/9
-[[src_canimath_2022_automne__Q01]]
+[[Quesiti/src_canimath_2022_automne#q01|src_canimath_2022_automne__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Coupe Animath Automne
 
 > $ABC$ sia un triangolo di uguali dimensioni a $A$ tale che $AB < BC$. Il punto $P$ deve essere il punto della linea $(BC)$ situato al di fuori del segmento $[BC]$ in modo tale che $BP = BA$. Il punto della riga $(AP)$ deve essere $Q$ diverso da $A$ in modo tale che $CQ = CA$. Se $\widehat{QPC} = x$, determinare la misura dell'angolo $\widehat{PCQ}$ come funzione di $x$.
 
-[[src_canimath_2022_automne__Q02]]
+[[Quesiti/src_canimath_2022_automne#q02|src_canimath_2022_automne__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Coupe Animath Automne
 
 > Aline ha scritto cinque numeri interi distinti su una lavagna con la seguente proprietà: qualunque sia la scelta di tre numeri interi distinti tra quelli scritti, il prodotto dei tre numeri scelti è divisibile per 10. Mostrare che uno dei cinque numeri interi scritti sulla tavola è divisibile per 10.
 
-[[src_canimath_2022_automne__Q03]]
+[[Quesiti/src_canimath_2022_automne#q03|src_canimath_2022_automne__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Coupe Animath Automne
 
 > Lasciate che $ABCD$ sia un rettangolo. Il segmento $M$ è il punto medio del segmento $[BC]$ e il segmento $N$ è il punto medio del segmento $[CD]$. Il punto di intersezione delle linee $(BN)$ e $(DM)$ è $P$. Mostra che $\widehat{MAN} = \widehat{BPN}$.
 
-[[src_canimath_2022_automne__Q04]]
+[[Quesiti/src_canimath_2022_automne#q04|src_canimath_2022_automne__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Coupe Animath Automne
 
 > Che $n$ sia un intero positivo parziale e $k$ un intero rigorosamente positivo. Supponiamo che il numero di divisori positivi di $2n$ che sono inferiori o uguali a $k$ sia impar. Mostrare che esiste un divisore $d$ di $2n$ tale che $k < d \le 2k$ e $d$ siano pari.
 
-[[src_canimath_2022_automne__Q05]]
+[[Quesiti/src_canimath_2022_automne#q05|src_canimath_2022_automne__Q05]]
 
 
 
@@ -171,7 +171,7 @@ level: Coupe Animath Automne
 
 > $n$ sia un intero positivo non zero. Supponiamo che ci sia un insieme di $n$ linee distinte nel piano in modo tale che ciascuna di esse incrociate esattamente altre dieci. Quali sono i valori possibili di $n$?
 
-[[src_canimath_2022_automne__Q06]]
+[[Quesiti/src_canimath_2022_automne#q06|src_canimath_2022_automne__Q06]]
 
 
 
@@ -199,7 +199,7 @@ level: Coupe Animath Automne
 
 > $n \ge 3$ sia un numero intero rigorosamente positivo. Mostrare che per tutti i valori rigorosamente positivi $x_1, x_2, \ldots, x_n$, si ha la disuguaglianza: $$1 < \frac{x_1}{x_1 + x_2} + \frac{x_2}{x_2 + x_3} + \cdots + \frac{x_{n-1}}{x_{n-1} + x_n} + \frac{x_n}{x_n + x_1} < n - 1$$
 
-[[src_canimath_2022_automne__Q07]]
+[[Quesiti/src_canimath_2022_automne#q07|src_canimath_2022_automne__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: Coupe Animath Automne
 > Calcolo: $$\sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{3 + \sqrt{1}}}}}}}}}$$ Si prevede una sola risposta numerica.
 
 **Risposta:** 3
-[[src_canimath_2022_automne__Q08]]
+[[Quesiti/src_canimath_2022_automne#q08|src_canimath_2022_automne__Q08]]
 
 
 
@@ -256,7 +256,7 @@ level: Coupe Animath Automne
 
 > $ABC$ sia un triangolo di uguali dimensioni a $A$ tale che $AB < BC$. Il punto $P$ deve essere il punto della linea $(BC)$ situato al di fuori del segmento $[BC]$ in modo tale che $BP = BA$. Il punto della riga $(AP)$ deve essere $Q$ diverso da $A$ in modo tale che $CQ = CA$. Se $\widehat{QPC} = x$, determinare la misura dell'angolo $\widehat{PCQ}$ come funzione di $x$.
 
-[[src_canimath_2022_automne__Q09]]
+[[Quesiti/src_canimath_2022_automne#q09|src_canimath_2022_automne__Q09]]
 
 
 
@@ -283,7 +283,7 @@ level: Coupe Animath Automne
 
 > Su una lavagna, Aline ha scritto dieci numeri interi distinti che verificano la seguente proprietà: qualunque sia la scelta di tre numeri interi distinti tra quelli scritti, il prodotto dei tre numeri scelti è divisibile per 10. Mostrare che uno dei dieci numeri interi scritti sulla tavola è divisibile per 10.
 
-[[src_canimath_2022_automne__Q10]]
+[[Quesiti/src_canimath_2022_automne#q10|src_canimath_2022_automne__Q10]]
 
 
 
@@ -313,7 +313,7 @@ level: Coupe Animath Automne
 
 > I numeri interi $1, 2, \ldots, 31$ sono disposti attorno a un cerchio in un certo ordine. Per ciascuno dei 31 numeri interi $k$, Matthieu conta: - $a$: il numero di numeri interi tra i 9 che seguono $k$ in senso orario e sono inferiori a $k$; - $b$: il numero di numeri interi tra i 9 che seguono $k$ in senso controorario e sono inferiori a $k$; e calcola $A(k)$ e $B(k)$. Matthieu osserva che $A(k) = B(k)$ per tutti $k$. Qual è il numero diametralmente opposto a 11 sul cerchio?
 
-[[src_canimath_2022_automne__Q11]]
+[[Quesiti/src_canimath_2022_automne#q11|src_canimath_2022_automne__Q11]]
 
 
 
@@ -340,7 +340,7 @@ level: Coupe Animath Automne
 
 > Che $n$ sia un intero positivo parziale e $k$ un intero rigorosamente positivo. Supponiamo che il numero di divisori positivi di $2n$ che sono inferiori o uguali a $k$ sia impar. Mostrare che esiste un divisore $d$ di $2n$ tale che $k < d \le 2k$ e $d$ siano pari.
 
-[[src_canimath_2022_automne__Q12]]
+[[Quesiti/src_canimath_2022_automne#q12|src_canimath_2022_automne__Q12]]
 
 
 
@@ -375,7 +375,7 @@ level: Coupe Animath Automne
 > 
 > 2) Set $CD = b$ e $AB = a$. Calcolare il rapporto $\dfrac{EG}{CF}$ come funzione di $a$ e $b$.
 
-[[src_canimath_2022_automne__Q13]]
+[[Quesiti/src_canimath_2022_automne#q13|src_canimath_2022_automne__Q13]]
 
 
 
@@ -407,7 +407,7 @@ level: Coupe Animath Automne
 > 
 > Per i numeri reali $a_1, a_2, \ldots, a_n$, $\displaystyle\min_u a_u$ indica il numero più piccolo dei numeri $n$ $a_1, a_2, \ldots, a_n$.
 
-[[src_canimath_2022_automne__Q14]]
+[[Quesiti/src_canimath_2022_automne#q14|src_canimath_2022_automne__Q14]]
 
 
 
@@ -446,4 +446,4 @@ level: Coupe Animath Automne
 > 
 > Un numero irrazionale è un numero reale che non può essere scritto nella forma $\frac{p}{q}$, dove $p$ e $q$ sono interi e $q \ne 0$.
 
-[[src_canimath_2022_automne__Q15]]
+[[Quesiti/src_canimath_2022_automne#q15|src_canimath_2022_automne__Q15]]

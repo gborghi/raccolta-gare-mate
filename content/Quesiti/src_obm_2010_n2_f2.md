@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > $N$ sia il numero intero positivo più piccolo in modo tale che $N \times 33$ produca un numero i cui numeri sono tutti uguali a $7$. Trova la somma delle cifre di $N$.
 
-[[src_obm_2010_n2_f2__Q01]]
+[[Quesiti/src_obm_2010_n2_f2#q01|src_obm_2010_n2_f2__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: OBM Nível 2
 
 > In the figure, triangles $ABC$ and $ABD$ are right-angled at $C$ and $D$, respectively. Given that $AC = 15$ cm, $AB = 16$ cm, and $BD = 12$ cm, find the area, in $\text{cm}^2$, of triangle $ABE$, where $E$ is the intersection point of $AD$ and $BC$.
 
-![[src_obm_2010_n2_f2__Q02.png]]
+![[src_obm_2010_n2_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -62,9 +62,9 @@ level: OBM Nível 2
 
 > Nella figura, i triangoli $ABC$ e $ABD$ sono rettangolari rispettivamente a $C$ e $D$. Dato che $AC = 15$ cm, $AB = 16$ cm e $BD = 12$ cm, si trova l'area, in $\text{cm}^2$, del triangolo $ABE$, dove $E$ è il punto di intersezione di $AD$ e $BC$.
 
-![[src_obm_2010_n2_f2__Q02.png]]
+![[src_obm_2010_n2_f2__q02.png]]
 
-[[src_obm_2010_n2_f2__Q02]]
+[[Quesiti/src_obm_2010_n2_f2#q02|src_obm_2010_n2_f2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 2
 
 > $p, q$ siano numeri reali che soddisfano le relazioni $2p^2 - 3p - 1 = 0$, $q^2 + 3q - 2 = 0$ e $pq \neq 1$. Trova il valore di $\dfrac{pq + p + 1}{q}$.
 
-[[src_obm_2010_n2_f2__Q03]]
+[[Quesiti/src_obm_2010_n2_f2#q03|src_obm_2010_n2_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 2
 
 > In una città, il sindaco ha organizzato una lotteria con biglietti numerati da $100$ a $999$. Il premio per ciascun biglietto è determinato dalla somma dei numeri del numero del biglietto. Per garantire che nessuno riceva più di tre premi, è stato stabilito che chi prende tre biglietti con pari importi ha diritto a un super premio. Qual è il numero minimo di biglietti che un cittadino deve acquistare per essere sicuro di ricevere un super premio?
 
-[[src_obm_2010_n2_f2__Q04]]
+[[Quesiti/src_obm_2010_n2_f2#q04|src_obm_2010_n2_f2__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 2
 
 > $r$ e $s$ siano numeri interi. È noto che l'equazione quadratica $$x^2 - (r + s)x + rs + 2010 = 0$$ ha due soluzioni integrali. Quanti sono i valori possibili di $|r - s|$?
 
-[[src_obm_2010_n2_f2__Q05]]
+[[Quesiti/src_obm_2010_n2_f2#q05|src_obm_2010_n2_f2__Q05]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 2
 > 
 > (An L-tromino consists of three unit squares forming an L-shape, as illustrated.)
 
-![[src_obm_2010_n2_f2__Q06.png]]
+![[src_obm_2010_n2_f2__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
@@ -180,9 +180,9 @@ level: OBM Nível 2
 > 
 > (Un L-tromino è costituito da tre quadrati unitari che formano una forma L, come illustrato).
 
-![[src_obm_2010_n2_f2__Q06.png]]
+![[src_obm_2010_n2_f2__q06.png]]
 
-[[src_obm_2010_n2_f2__Q06]]
+[[Quesiti/src_obm_2010_n2_f2#q06|src_obm_2010_n2_f2__Q06]]
 
 
 
@@ -211,7 +211,7 @@ level: OBM Nível 2
 
 > Trova tutti i numeri primi $m$ e $n$ in modo tale che $0 < m < n$ e i tre numeri $$2m + n, \quad m + 2n, \quad m + n - 18$$ siano anche primi.
 
-[[src_obm_2010_n2_f2__Q07]]
+[[Quesiti/src_obm_2010_n2_f2#q07|src_obm_2010_n2_f2__Q07]]
 
 
 
@@ -238,7 +238,7 @@ level: OBM Nível 2
 
 > Chiamiamo l'immagine di un numero naturale a due cifre il numero ottenuto invertendo l'ordine delle sue cifre. Ad esempio, l'immagine di $34$ è $43$. Quali numeri a due cifre, aggiunti alla loro immagine, danno un quadrato perfetto?
 
-[[src_obm_2010_n2_f2__Q08]]
+[[Quesiti/src_obm_2010_n2_f2#q08|src_obm_2010_n2_f2__Q08]]
 
 
 
@@ -265,4 +265,4 @@ level: OBM Nível 2
 
 > I bisettori interni degli angoli $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano al punto $I$. È noto che $AI = BC$ e $m(\hat{ICA}) = 2\,m(\hat{IAC})$. Trova la misura dell'angolo $\hat{ABC}$.
 
-[[src_obm_2010_n2_f2__Q09]]
+[[Quesiti/src_obm_2010_n2_f2#q09|src_obm_2010_n2_f2__Q09]]

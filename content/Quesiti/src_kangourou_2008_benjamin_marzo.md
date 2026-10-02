@@ -38,7 +38,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > (2008 – 200 – 8) + 2008 = ? A) 3008 B) 3888 C) 3800 D) 3808         E) 2808
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q01]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q01|src_kangourou_2008_benjamin_marzo__Q01]]
 
 
 
@@ -74,7 +74,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > Carolina has 2 identical equilateral triangle-shaped cards as shown in the figure. He draws them together or overlaps them partially on a sheet, then traces the outline of the resulting figure on the sheet. Only one of the shapes you see below cannot be obtained with this procedure. What kind?
 
 **Answer:** E
-[[src_kangourou_2008_benjamin_marzo__Q02]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q02|src_kangourou_2008_benjamin_marzo__Q02]]
 
 
 
@@ -111,7 +111,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > Iole, Lidia, Nadia and Pina are playing numbers. Lidia said 3 and the others each intervened once and only once and the last one said 14. You know Iole multiplied by 3, Nadia subtracted 1 and Pina added 2. In what order did the three girls after Lydia intervene? (a) IPN (b) PIN (c) INP (d) NIP (e) PNI
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q03]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q03|src_kangourou_2008_benjamin_marzo__Q03]]
 
 
 
@@ -164,7 +164,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > I'm going to pay. I'm going to pay. 11 11 Kang 2008 Kang
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q04]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q04|src_kangourou_2008_benjamin_marzo__Q04]]
 
 
 
@@ -204,7 +204,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > Anna wants to place 12 coins on the figure so that there are exactly 3 coins on each circumference and exactly 3 coins on each of the four diameters. He's already put in 11 coins. Where will you put the rest of it? A) B B) J C) L D) D E) F
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q05]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q05|src_kangourou_2008_benjamin_marzo__Q05]]
 
 
 
@@ -244,7 +244,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > What you see in the first figure is a multiplication table. The second figure is also a multiplication table where, unfortunately, some numbers have been deleted. What is the number to be found in the box with a question mark ? A) 54 B) 56 C) 65 D) 36 E) 42
 
 **Answer:** A
-[[src_kangourou_2008_benjamin_marzo__Q06]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q06|src_kangourou_2008_benjamin_marzo__Q06]]
 
 
 
@@ -278,7 +278,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > 'The sum of the digits of an integer represented in decimal form is 3': how many three-digit numbers verify this condition? A) 3 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q07]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q07|src_kangourou_2008_benjamin_marzo__Q07]]
 
 
 
@@ -315,7 +315,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > The triangle and the square in the figure have the same perimeter. What is the perimeter of the whole figure (i.e. the pentagon)? A) 12 cm B) 24 cm C) 28 cm D) 32 cm E) Depends on the angles of the triangle.
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q08]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q08|src_kangourou_2008_benjamin_marzo__Q08]]
 
 
 
@@ -354,7 +354,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > What you see in the figure is a frieze, made up of white or grey square bricks, all of which are the same size. What percentage of the grain is gray? A) 50% B) 60% C) 62,5% D) 66,6 % E) 75%
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q09]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q09|src_kangourou_2008_benjamin_marzo__Q09]]
 
 
 
@@ -448,7 +448,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > I'm going to pay. I'm going to pay. 12 12 Kang 2008 Kang 2008 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q10]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q10|src_kangourou_2008_benjamin_marzo__Q10]]
 
 
 
@@ -482,7 +482,7 @@ With so many matches, it's impossible to make a triangle.
 > I have matches that are all the same between them that I have to build a triangle with: I can align them, but I can't overlay or break them and I have to use them all. With what number of matches, of the following, is this impossible? A) 7 B) 6 C) 5 D) 4 E) 3
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q11]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q11|src_kangourou_2008_benjamin_marzo__Q11]]
 
 
 
@@ -521,7 +521,7 @@ With so many matches, it's impossible to make a triangle.
 > Look at the figure below: a channel has its origin in A and shortly afterwards forks; the right branch receives 1/3 of the water, the left one the rest. Later the second branch divides into two sub-branches, of which the one on the right receives 3/4 of the water flowing into the branch and the one on the left the rest. What fraction of the water that starts from A gets to point B? (A) B) C) D) E) The data are insufficient.
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q12]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q12|src_kangourou_2008_benjamin_marzo__Q12]]
 
 
 
@@ -560,7 +560,7 @@ With so many matches, it's impossible to make a triangle.
 > The five different symbols used below each represent a different number and the operations indicated are all correct. @ + @ + @ =  # + # + # = & + & = £ How much is £? A) 0 B) 2 C) 6 D) 8 E) 9
 
 **Answer:** E
-[[src_kangourou_2008_benjamin_marzo__Q13]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q13|src_kangourou_2008_benjamin_marzo__Q13]]
 
 
 
@@ -596,7 +596,7 @@ With so many matches, it's impossible to make a triangle.
 > 60 chairs are arranged around a round table. A certain number, let's call it n, of people are sitting at this table so that anyone who wants to join them should necessarily sit in a chair next to someone already occupied. The smallest value of n that makes the situation possible is A) 15 B) 20 C) 30 D) 40 E) 58
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q14]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q14|src_kangourou_2008_benjamin_marzo__Q14]]
 
 
 
@@ -633,7 +633,7 @@ With so many matches, it's impossible to make a triangle.
 > As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are sitting at this table so that each person is sitting next to the other. The smallest value of N that makes the situation possible is A) 40 B) 30 C) 20 D) 10 E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2008_benjamin_marzo__Q15]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q15|src_kangourou_2008_benjamin_marzo__Q15]]
 
 
 
@@ -691,7 +691,7 @@ With so many matches, it's impossible to make a triangle.
 > I'm going to pay. I'm going to pay. 13 13 Kang 2008 Kang
 
 **Answer:** E
-[[src_kangourou_2008_benjamin_marzo__Q16]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q16|src_kangourou_2008_benjamin_marzo__Q16]]
 
 
 
@@ -731,7 +731,7 @@ With so many matches, it's impossible to make a triangle.
 > Joan throws two arrows at the target. The resulting score is the sum of the scores achieved with the individual arrows (0 if the arrow does not hit the target): for example, in the figure we see a situation in which the resulting score is 5. How many different scores can Giovanna get? A) 4 B) 6 C) 8 D) 9 E) 10
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q17]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q17|src_kangourou_2008_benjamin_marzo__Q17]]
 
 
 
@@ -766,7 +766,7 @@ With so many matches, it's impossible to make a triangle.
 > Ada and Ivo are coming of age today. In two years Ivo will be twice as old as he was two years ago, while in three years Ada will be three times as old as she was three years ago. Which of the following is correct? A) Ivo is one year older than Ada B) Ada is one year older than Ivo C) Ada and Ivo are the same age D) Ivo is two years older than Ada E) Ada is two years older than Ivo
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q18]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q18|src_kangourou_2008_benjamin_marzo__Q18]]
 
 
 
@@ -799,7 +799,7 @@ With so many matches, it's impossible to make a triangle.
 > The construction you see on the right is done using 5 equal cubes. You can move only one, put it in the position you want. Which of the underlying constructions (which are seen from different angles) can you not make ?
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q19]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q19|src_kangourou_2008_benjamin_marzo__Q19]]
 
 
 
@@ -834,7 +834,7 @@ With so many matches, it's impossible to make a triangle.
 > How many squares of 4 boxes are there in an 8 x 8 box chessboard? A) 64 B) 49 C) 48 D) 36 E) 16 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q20]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q20|src_kangourou_2008_benjamin_marzo__Q20]]
 
 
 
@@ -869,7 +869,7 @@ With so many matches, it's impossible to make a triangle.
 > The old TV display had sides that were in the 4:3 aspect ratio, while the new displays have sides that are in the 16:9 aspect ratio. We want to see a DVD that fills exactly the entire screen of the old TV on a new 16:9 screen. If the height of the footage exactly matches the height of the screen, then the percentage of unused area of the new screen is A) 15 % B) 20 % C) 25 % D) 30 % E) depending on the screen dimensions.
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q21]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q21|src_kangourou_2008_benjamin_marzo__Q21]]
 
 
 
@@ -929,7 +929,7 @@ With so many matches, it's impossible to make a triangle.
 > I'm going to pay. I'm going to pay. 14 14 Kang 2008 Kang 2008 A) George, Mark, Nicholas B) Nicholas, George, Mark C) Marcus, George, Nicholas D) Marcus, Nicholas, George E) George, Nicholas, Mark 23.Here next to you is a chessboard: you must visit each box without ever going back from a previously visited one, but you can only move horizontally or vertically, not diagonally. Where can you start? A) Only from the central box. B) Only from a box to the top. C) From a white box. D) From any grey box. E) From any box.
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q22]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q22|src_kangourou_2008_benjamin_marzo__Q22]]
 
 
 
@@ -962,7 +962,7 @@ With so many matches, it's impossible to make a triangle.
 > 23. Answer D) We see that, as you can only move horizontally or vertically, when you move from one box to the next, the color of the box changes. So I can't cover the whole path if I start from a white box, because the white boxes are less than grey. Starting instead from a grey box you can complete the path as required: if it is dangle I can complete horizontally the line to which it belongs, move vertically to the adjacent line, complete this horizontally, go vertically to the last line and complete this; from the central grey box you can cover all the boxes only once if you move into a box
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q23]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q23|src_kangourou_2008_benjamin_marzo__Q23]]
 
 
 
@@ -1056,7 +1056,7 @@ With so many matches, it's impossible to make a triangle.
 > The drawing shows the transportation map of a city. There are 4 buses that follow a circular route: - the route of the first, C-D-E-F-G-H-C, is 17 km long; - the route of the second, A-B-C-F-G-H-A, is 12 km long; - the route of the third, A-B-C-D-E-F-G-H-A, is 20 km long. How many miles is the C-F-G-H-C path of the fourth? A) 5 B) 8 C) 9 D) 12 E) 15
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q24]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q24|src_kangourou_2008_benjamin_marzo__Q24]]
 
 
 
@@ -1095,7 +1095,7 @@ With so many matches, it's impossible to make a triangle.
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he has caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q25]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q25|src_kangourou_2008_benjamin_marzo__Q25]]
 
 
 
@@ -1130,7 +1130,7 @@ With so many matches, it's impossible to make a triangle.
 > A, B, C and D shall be drawn on a straight line in an unspecified order. You know AB is long 13, BC is long 11, CD is long 14 and DA is long 12. What's the distance between the two most distant points? A) 14 B) 38 C) 50 D) 25 E) None of the above.
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q26]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q26|src_kangourou_2008_benjamin_marzo__Q26]]
 
 
 
@@ -1190,7 +1190,7 @@ With so many matches, it's impossible to make a triangle.
 > I'm going to pay. I'm going to pay. 15 15 Kang 2008 Kang 2008
 
 **Answer:** C
-[[src_kangourou_2008_benjamin_marzo__Q27]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q27|src_kangourou_2008_benjamin_marzo__Q27]]
 
 
 
@@ -1226,7 +1226,7 @@ This is the total value of the input data.
 > In the KAN + GA = ROO equality, each letter represents one of the ten digits and different letters represent different digits. So the difference RN  KG is A) 10 B) 11 C) 12 D) 21 E) 22
 
 **Answer:** B
-[[src_kangourou_2008_benjamin_marzo__Q28]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q28|src_kangourou_2008_benjamin_marzo__Q28]]
 
 
 
@@ -1315,7 +1315,7 @@ This is the total value of the input data.
 > The area of the largest equilateral triangle in the drawing is 16. So the sum of the areas of the 27 equilateral triangles that you can find in the diagram is A) 56 B) 61 C) 83 D) 87 E) 88
 
 **Answer:** D
-[[src_kangourou_2008_benjamin_marzo__Q29]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q29|src_kangourou_2008_benjamin_marzo__Q29]]
 
 
 
@@ -1362,4 +1362,4 @@ The number of boys sharing apples
 > Questions from N.1 to N. 10 is worth 3 points each.
 
 **Answer:** A
-[[src_kangourou_2008_benjamin_marzo__Q30]]
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q30|src_kangourou_2008_benjamin_marzo__Q30]]

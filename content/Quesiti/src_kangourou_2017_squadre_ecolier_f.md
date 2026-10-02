@@ -36,7 +36,7 @@ level: squadre
 > Anna Anna's book noted that the sum of the numbers on two consecutive pages of a book is 37. What is the product of these two numbers?
 
 **Answer:** 342
-[[src_kangourou_2017_squadre_ecolier_f__Q01]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q01|src_kangourou_2017_squadre_ecolier_f__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 > Sweet numbers Call each number of three digits dolce (therefore with the first digit different from 0) such that the first digit is the sum of the other two: for example 431 is sweet because 4=3+1, while 412 is not. What's the difference between the largest and smallest of the sweet numbers?
 
 **Answer:** 889
-[[src_kangourou_2017_squadre_ecolier_f__Q02]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q02|src_kangourou_2017_squadre_ecolier_f__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: squadre
 > Anna's wristwatch is traditional, so the hands move on a 12-hour dial. However, the hands are moving against the clock: for example, if it were now 8.35, in one hour it would be 7.35. Last Saturday at 6:17 p.m. his watch was at 7:17 p.m. - what time will it be today, Monday, at 2:17 p.m.? (Write in the order of time and minute, e.g. to indicate 8.35 write 0835.)
 
 **Answer:** 1117
-[[src_kangourou_2017_squadre_ecolier_f__Q03]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q03|src_kangourou_2017_squadre_ecolier_f__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: squadre
 > Apples Ada and Gino bought many apples at the market, and on their way home they each ate one. If they bought twice as many, they'd have 25 more at home than they have. How many apples did Ada and Gino have left?
 
 **Answer:** 23
-[[src_kangourou_2017_squadre_ecolier_f__Q04]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q04|src_kangourou_2017_squadre_ecolier_f__Q04]]
 
 
 
@@ -171,7 +171,7 @@ level: squadre
 > The multiplication table In the figure you see the top left of a multiplication table made up of 100 rows and 100 columns. Pippo cut a 22 piece of the table (not the part you see) and then covered the numbers that appeared in the boxes of the cut piece with the letters A, B, C, and D, arranged as in the figure to the right. You know that B gets from A summing up 78 and C gets from A summing up 45. How much is D?
 
 **Answer:** 3634
-[[src_kangourou_2017_squadre_ecolier_f__Q05]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q05|src_kangourou_2017_squadre_ecolier_f__Q05]]
 
 
 
@@ -201,7 +201,7 @@ level: squadre
 > Daniela's age At 16, Daniela will be five times as old as she was four years ago. How many years from now will Daniela be 16?
 
 **Answer:** 7
-[[src_kangourou_2017_squadre_ecolier_f__Q06]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q06|src_kangourou_2017_squadre_ecolier_f__Q06]]
 
 
 
@@ -266,7 +266,7 @@ level: squadre
 > 1 2 3 4 5 2 2 4 6 8 10 3 3 6 9 12 15 4 4 8 12 16 20 5 5 10 15 20 25 3
 
 **Answer:** 2330
-[[src_kangourou_2017_squadre_ecolier_f__Q07]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q07|src_kangourou_2017_squadre_ecolier_f__Q07]]
 
 
 
@@ -306,7 +306,7 @@ level: squadre
 > The coins After breaking the salvadanaio, Renato disposes the 1 euro coins following the pattern illustrated by the drawing, that is, so as to draw a square with a coin in the center. If he still has exactly enough coins to complete the next three figures, how many 1 euro coins are in Renato's savings bank?
 
 **Answer:** 119
-[[src_kangourou_2017_squadre_ecolier_f__Q08]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q08|src_kangourou_2017_squadre_ecolier_f__Q08]]
 
 
 
@@ -338,7 +338,7 @@ Holidays in 2017 (4 months, first minor)
 > Long holidays in Madagascar start at 1° of a certain month and last for 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many are the holiday days in 2017?
 
 **Answer:** 120
-[[src_kangourou_2017_squadre_ecolier_f__Q09]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q09|src_kangourou_2017_squadre_ecolier_f__Q09]]
 
 
 
@@ -372,7 +372,7 @@ Holidays in 2017 (4 months, first minor)
 > Martina Martina's tickets put eight tickets in a bag on each of which she wrote one of the numbers 40, 80, 100, 101, 190, 200, 260 and 292 without repeating numbers already written. Then he pulled four tickets out of his bag and observed that the sum of the numbers on the remaining tickets is exactly twice the sum of the numbers on the tickets he caught. What's the biggest number Martina caught?
 
 **Answer:** 200
-[[src_kangourou_2017_squadre_ecolier_f__Q10]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q10|src_kangourou_2017_squadre_ecolier_f__Q10]]
 
 
 
@@ -402,7 +402,7 @@ Holidays in 2017 (4 months, first minor)
 > The numbers of Roberto Roberto wrote the numbers 4, 5, 1, 5, 2, 3, 5, 4, 5, 5, 2, 3, 1, 5, 4, 2. What number corresponds to how many times Roberto wrote it?
 
 **Answer:** 3
-[[src_kangourou_2017_squadre_ecolier_f__Q11]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q11|src_kangourou_2017_squadre_ecolier_f__Q11]]
 
 
 
@@ -435,7 +435,7 @@ Holidays in 2017 (4 months, first minor)
 > The digital clock A digital clock displays high day and month (e.g. 12:08 means 12 August) and in low hours and minutes (e.g. 13:15 means 1 p.m. and 15 minutes, or 1 1/4 of an afternoon). Every now and then, the writing at the top coincides with the one at the bottom: how many times does it happen in a year? (Remember that in digital clocks hours and minutes vary from 00:00 to 23:59.)
 
 **Answer:** 276
-[[src_kangourou_2017_squadre_ecolier_f__Q12]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q12|src_kangourou_2017_squadre_ecolier_f__Q12]]
 
 
 
@@ -471,7 +471,7 @@ Holidays in 2017 (4 months, first minor)
 > The cube Using white cubes and colored cubes, Luigi built the large cube you see in the figure. He put the white cubes along the ends of the big cube, but he didn't put them inside. How many white cubes did you use?
 
 **Answer:** 32
-[[src_kangourou_2017_squadre_ecolier_f__Q13]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q13|src_kangourou_2017_squadre_ecolier_f__Q13]]
 
 
 
@@ -505,7 +505,7 @@ Holidays in 2017 (4 months, first minor)
 > Park party After a big folk party, you have to clean a park. Yesterday three people worked for this, yesterday four people and today eight people work for this. A quarter of the park will be cleaned tonight, but starting tomorrow, only one person a day will be allowed to work. If all the people took the same time to clean portions of the park with the same area and worked all day, and the people who will work from tomorrow will do the same, how many more working days will it take for the park to be completely cleaned?
 
 **Answer:** 5
-[[src_kangourou_2017_squadre_ecolier_f__Q14]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q14|src_kangourou_2017_squadre_ecolier_f__Q14]]
 
 
 
@@ -551,4 +551,4 @@ This is the total value of all the non-performing loans of the financial instrum
 > Questions and developments
 
 **Answer:** 4035
-[[src_kangourou_2017_squadre_ecolier_f__Q15]]
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q15|src_kangourou_2017_squadre_ecolier_f__Q15]]

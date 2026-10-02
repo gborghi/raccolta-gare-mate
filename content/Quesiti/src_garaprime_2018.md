@@ -44,7 +44,7 @@ level: Classi Prime
 > The expression √ 4201 −2401 −2400 is: A 2200 B 220 C 2100 D 4200 E 4101 F None of the other answers is accurate
 
 **Answer:** A
-[[src_garaprime_2018__Q01]]
+[[Quesiti/src_garaprime_2018#q01|src_garaprime_2018__Q01]]
 
 
 
@@ -81,7 +81,7 @@ level: Classi Prime
 > The Martian alphabet consists of only 3 letters and the words are up to 5 letters long (which can also be all the same). How many Martian words are there at most? A 363 B 125 C 150 D 151 E 315 F 381
 
 **Answer:** A
-[[src_garaprime_2018__Q02]]
+[[Quesiti/src_garaprime_2018#q02|src_garaprime_2018__Q02]]
 
 
 
@@ -119,7 +119,7 @@ Degree of (p(x))^2 - p(x^2)*
 > It is given a polynomial p(x) of the type: p(x) = x10 + x9 + lower-grade terms. What is the degree of (p(x))2 −p(x2)? A 19 B 20 C 18 D 40 E cannot be determined without knowing even the lower degree terms F None of the other answers is accurate
 
 **Answer:** A
-[[src_garaprime_2018__Q03]]
+[[Quesiti/src_garaprime_2018#q03|src_garaprime_2018__Q03]]
 
 
 
@@ -157,7 +157,7 @@ Degree of (p(x))^2 - p(x^2)*
 > Starting from a T0 triangle, I build the T1 triangle that has the midpoints of the sides of T0 as vertices. So I'm building T2 from T1. I kept going the same way until I got to T6. If T6 has an area of 1 cm2 and we indicate with s the area of T0 expressed in cm2, then: A 1000 < s ≤5000 B s ≤40 C 40 < s ≤200 D 200 < s ≤1000 E s > 5000 F cannot be determined solely by the data provided, as it depends on the shape of the triangle
 
 **Answer:** A
-[[src_garaprime_2018__Q04]]
+[[Quesiti/src_garaprime_2018#q04|src_garaprime_2018__Q04]]
 
 
 
@@ -195,7 +195,7 @@ Degree of (p(x))^2 - p(x^2)*
 > Given the 3 numbers a = √ 8, b = 3 √ 26 and c = 2, 9 then we have: A a < c < b B a < b < c C b < a < c D b < c < a E c < a < b F c < b < a
 
 **Answer:** A
-[[src_garaprime_2018__Q05]]
+[[Quesiti/src_garaprime_2018#q05|src_garaprime_2018__Q05]]
 
 
 
@@ -232,7 +232,7 @@ Degree of (p(x))^2 - p(x^2)*
 > On the island of Kenonce, an influenza epidemic is spreading rapidly: every 24 days the number of sick people is doubling. If on February 6, 2018, there were 200,000 patients, on what date were 100,000? 29 January B 31 January C 2 February D 25 January E 27 January F 17 January
 
 **Answer:** A
-[[src_garaprime_2018__Q06]]
+[[Quesiti/src_garaprime_2018#q06|src_garaprime_2018__Q06]]
 
 
 
@@ -274,7 +274,7 @@ Degree of (p(x))^2 - p(x^2)*
 > For the school trip, class 2aD rents a bus. The total price of the bus is fixed and does not depend on the number of participants. The kids decide to divide the expenses equally among all the students in the class. However, at the time of joining, two young people retire and this raises the price per capita by 8%, compared to what it would have been if they had all gone. How many are there in all of the 2nd graders? A 27 B 26 C 25 D more than 27 E less than 24 F 24
 
 **Answer:** A
-[[src_garaprime_2018__Q07]]
+[[Quesiti/src_garaprime_2018#q07|src_garaprime_2018__Q07]]
 
 
 
@@ -311,7 +311,7 @@ Degree of (p(x))^2 - p(x^2)*
 > They are p(x) = x20+x19+. . .+x2+x+1 e q(x) = x10+x9+. . .+x2+x+1. What is the term of degree 6 of p(x) · q(x) after adding together all similar terms? A 7x6 B 2x6 C 36x6 D 3x6 E 49x6 F 37x6
 
 **Answer:** A
-[[src_garaprime_2018__Q08]]
+[[Quesiti/src_garaprime_2018#q08|src_garaprime_2018__Q08]]
 
 
 
@@ -402,7 +402,7 @@ Degree of (p(x))^2 - p(x^2)*
 > A straight cut an R rectangle into two rectangular parts of area 40 and 60. By further cutting R along its diagonal we get a total of 4 parts. What is the area of the smallest part? A 8 B 10 C 12 D 4 E 20 F the data are insufficient because the answer depends on the shape of the rectangle
 
 **Answer:** A
-[[src_garaprime_2018__Q09]]
+[[Quesiti/src_garaprime_2018#q09|src_garaprime_2018__Q09]]
 
 
 
@@ -438,7 +438,7 @@ Degree of (p(x))^2 - p(x^2)*
 > From the polynomial p(x) we know that (x6 −3x −1) · p(x) = x17 −x11 −6x7 −4x6 −9x2 + 1. What is the sum of the coefficients of p(x)? A 6 B −6 C 3 D −3 E 2 F −2
 
 **Answer:** A
-[[src_garaprime_2018__Q10]]
+[[Quesiti/src_garaprime_2018#q10|src_garaprime_2018__Q10]]
 
 
 
@@ -476,7 +476,7 @@ Degree of (p(x))^2 - p(x^2)*
 > Out of all the possible lists of 10 numbers that I can get by writing, in any order, all the numbers from 1 to 10, how many are the ones where the sum of the numbers that occupy the equal positions is equal to the sum of the numbers that occupy the odd positions? A 0 B 10 C 2 D 28800 E 120 F 14400
 
 **Answer:** A
-[[src_garaprime_2018__Q11]]
+[[Quesiti/src_garaprime_2018#q11|src_garaprime_2018__Q11]]
 
 
 
@@ -515,7 +515,7 @@ Degree of (p(x))^2 - p(x^2)*
 > Given an ABCD square of area 1600, the passing circumference for points C and D and tangent to the side AB shall be considered. What's its diameter? A 50 B 48 C 44 D 49 E 42 F 60
 
 **Answer:** A
-[[src_garaprime_2018__Q12]]
+[[Quesiti/src_garaprime_2018#q12|src_garaprime_2018__Q12]]
 
 
 
@@ -550,7 +550,7 @@ Degree of (p(x))^2 - p(x^2)*
 > How many positive divisors of 999 are perfect squares or perfect cubes? A 70 B 55 C 90 D 99 E 36 F 120
 
 **Answer:** A
-[[src_garaprime_2018__Q13]]
+[[Quesiti/src_garaprime_2018#q13|src_garaprime_2018__Q13]]
 
 
 
@@ -593,7 +593,7 @@ Degree of (p(x))^2 - p(x^2)*
 > A small planet has the shape of a regular octahedron with a side of 720 kilometers. The only inhabitant of the planet is in the middle of one of the spines and wants to go to the middle of the spine diametrically opposite to the one on which he is walking on the surface of the planet. What's the minimum number of miles he has to travel? A 1080 B 1440 C 900 D 720 E 960 F 1200
 
 **Answer:** A
-[[src_garaprime_2018__Q14]]
+[[Quesiti/src_garaprime_2018#q14|src_garaprime_2018__Q14]]
 
 
 
@@ -635,7 +635,7 @@ Degree of (p(x))^2 - p(x^2)*
 > Luca and Claudia have to share a rectangular chocolate table made up of seven rows of 12 squares each. In turn each of the two breaks what is left of the table into two parts, with a horizontal or vertical cut that leaves each individual square intact, eats one of the two parts and returns the other to the opponent. He who receives from the opponent a piece of a single square loses. If Claudia starts, how many squares does she have to eat on the first move to be sure that, whatever Luca says, she will win? And whatever Claudia does, it's going to be Luke winning.
 
 **Answer:** A
-[[src_garaprime_2018__Q15]]
+[[Quesiti/src_garaprime_2018#q15|src_garaprime_2018__Q15]]
 
 
 
@@ -679,7 +679,7 @@ Degree of (p(x))^2 - p(x^2)*
 > A small worm enters a large spherical apple with a radius of 10 cm and leaves after having traveled within it a path (not necessarily straight) of length d. Find the maximum lattice length that, whatever the shape of the worm's path, if d < s still manage to cut the apple (with a flat cut) into two equal parts, one of which is completely healthy. A ℓ= 20 cm B ℓ= 10 cm C ℓ= 10π cm D ℓ= 5π cm E ℓ= 10π 3 cm F ℓ= 20π 3 cm
 
 **Answer:** A
-[[src_garaprime_2018__Q16]]
+[[Quesiti/src_garaprime_2018#q16|src_garaprime_2018__Q16]]
 
 
 
@@ -716,7 +716,7 @@ Degree of (p(x))^2 - p(x^2)*
 > Consider the number 201820172016 . . . 10987654321 obtained by disposing of all integers from 2018 to 1 next to each other, in descending order. What's the remainder you get by dividing that number by 6? A 3 B 0 C 1 D 2 E 4 F 5
 
 **Answer:** A
-[[src_garaprime_2018__Q17]]
+[[Quesiti/src_garaprime_2018#q17|src_garaprime_2018__Q17]]
 
 
 
@@ -767,4 +767,4 @@ Degree of (p(x))^2 - p(x^2)*
 > Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
 
 **Answer:** A
-[[src_garaprime_2018__Q18]]
+[[Quesiti/src_garaprime_2018#q18|src_garaprime_2018__Q18]]

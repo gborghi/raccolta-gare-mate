@@ -38,7 +38,7 @@ level: kangourou
 > (Point 2) In the plan are mapped 2024 circumferences all distinct from each other. How many common points could all the circumferences have at most? A) 0 B) 1 C) 2 D) 3 E) 1012 Answer: C). The solution. For two points infinite planar circumferences pass (each point on the axis of the segment that has them as extremes is the center of one of them), for three points only one passes.
 
 **Answer:** C
-[[src_kangourou_2024_cadet_semifinale__Q01]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q01|src_kangourou_2024_cadet_semifinale__Q01]]
 
 
 
@@ -120,7 +120,7 @@ level: kangourou
 > (Points 3) The ABC triangle in the figure is equilateral, with the side 12 cm long. The MN segment is parallel to the AB side, while the AM segment is 10 cm long. How many square centimetres is the area of the ANC triangle? (A) 36 (B) 30 (√ 3 C) 10 (√ 3 D) 6 (√ 3 E) 10 Answer: D). I'm not alone. The height of the triangle ABC is 12 × √3 2 cm and coincides with that of the triangle ANC with respect to the base CN, which is 2 cm long.
 
 **Answer:** D
-[[src_kangourou_2024_cadet_semifinale__Q02]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q02|src_kangourou_2024_cadet_semifinale__Q02]]
 
 
 
@@ -169,7 +169,7 @@ level: kangourou
 > C) B = (A + C) / 2 D) B = 2 (A + C) / 3 E) B = 3 (A + C) / 5 Answer B). I'm not alone. The areas for which no letters are indicated must be B + D = A + E + C = B + E (each kangaroo has half of the park available). From the second equation it follows that it is still true B). It is trivial to find examples in which A) is false.
 
 **Answer:** B
-[[src_kangourou_2024_cadet_semifinale__Q03]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q03|src_kangourou_2024_cadet_semifinale__Q03]]
 
 
 
@@ -203,7 +203,7 @@ level: kangourou
 > Sofia has in mind two positive integers less than 20 that differ by more than 2. Multiply one by 5, add the other to the product obtained and double the result, thus getting 212. What was the sum of the two numbers he had in mind? A) 26 B) 27 C) 28 D) 29 E) 30 Answer: E). I'm not alone. If x and y are the two numbers, it's got to be 5x + y = 106. Let's see that x and y cannot exceed 19. If x = 19, then y = 11 is acceptable; instead x = 18 would result in y = 16, not acceptable. Obviously if x  17 the value of y becomes not less than 21 and therefore the result is unacceptable.
 
 **Answer:** E
-[[src_kangourou_2024_cadet_semifinale__Q04]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q04|src_kangourou_2024_cadet_semifinale__Q04]]
 
 
 
@@ -248,7 +248,7 @@ level: kangourou
 > Answer D. The solution. The criterion of divisibility by 11 requires that the difference between the sum of the even and odd place numbers is divisible by 11. So we have K + N + A + O  (A + G + R + O) is divisible by 11, so also K + N  (G + R) is divisible by 11. So it's RKGN, whereas the numbers represented by the other words might not be.
 
 **Answer:** D
-[[src_kangourou_2024_cadet_semifinale__Q05]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q05|src_kangourou_2024_cadet_semifinale__Q05]]
 
 
 
@@ -281,7 +281,7 @@ level: kangourou
 > (Points 4) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). The solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
 
 **Answer:** D
-[[src_kangourou_2024_cadet_semifinale__Q06]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q06|src_kangourou_2024_cadet_semifinale__Q06]]
 
 
 
@@ -323,7 +323,7 @@ level: kangourou
 > (Points 5) Consider the alignment of figures 202420242024...20242024 where the fourth order 2024 appears 1,012 times. Each block that is made up of any number of consecutive digits in this alignment and does not start with 0 identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth and so on, identifies the number 4.202.420). How many integers, all different from each other, determined by eligible blocks, are divisible by 4? The Commission has not yet decided whether to proceed with a decision on the application of this Regulation. The solution. All the numbers that matter to us cannot end in 2 (in fact, no number of at least three digits that you end in 02 or 42 is divisible by 4), but they can end in 0 (that is, for us, with 20) or with 4. Each acceptable block that terminates with 0 must start with 20 or 2420 or 420 and may be followed by a sequence of 2420s ranging from 0 to 1,011 for 20 and from 0 to 1,010 for 2420 and 420, for a total of 3,034 possibilities. Each acceptable block that ends with 4 must start with 2024 or 24 or 4 and the odds are 1,012 in each case, for a total of 3,036.
 
 **Answer:** E
-[[src_kangourou_2024_cadet_semifinale__Q07]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q07|src_kangourou_2024_cadet_semifinale__Q07]]
 
 
 
@@ -361,7 +361,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Point 5) At a party at the Italian Embassy a number of Spaniards and some Frenchmen were invited, more than one for each nationality and even more than one Italianman was present. Every Italian welcomes every foreign guest once and only once with a handshake and there are no other handshakes: in the end, the handshakes total 143. How many Spaniards could there be at most? A) 7 B) 8 C) 9 D) 10 E) 11 Answer: E). The solution. The number of handshakes is the product of the number of Italians with the sum of the number of Spaniards and the number of Frenchmen. If we want to express 143 as the product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first is to be ruled out as a hypothesis. So the foreigners could be a maximum of 13 and then the Spanish a maximum of 13  2 = 11.
 
 **Answer:** E
-[[src_kangourou_2024_cadet_semifinale__Q08]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q08|src_kangourou_2024_cadet_semifinale__Q08]]
 
 
 
@@ -405,7 +405,7 @@ Maximum number of Spaniards with 143 handshakes
 > Open-ended questions
 
 **Answer:** B
-[[src_kangourou_2024_cadet_semifinale__Q09]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q09|src_kangourou_2024_cadet_semifinale__Q09]]
 
 
 
@@ -443,7 +443,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 4) An n-antiprism is a solid like the one suggested in the figure. It has a lower base and an upper base which are regular polygons congruent on n sides and a lateral surface consisting of triangles obtained by joining each pair of adjacent vertices of each base with one of the vertices of the other, as also suggested by the figure. How many faces, including the basics, does a 2024-antiprism have? The answer is 4050. The solution. Each side of each base generates one and only one face of the side surface.
 
 **Answer:** 4050
-[[src_kangourou_2024_cadet_semifinale__Q10]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q10|src_kangourou_2024_cadet_semifinale__Q10]]
 
 
 
@@ -520,7 +520,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 5) On each side of a cube is written a positive integer, and all six numbers are different from each other. You know, however you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have a joint. The answer is 0022. The solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
 
 **Answer:** 0022
-[[src_kangourou_2024_cadet_semifinale__Q11]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q11|src_kangourou_2024_cadet_semifinale__Q11]]
 
 
 
@@ -554,7 +554,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 5) I wrote all the integers from 2 to 60 on a sheet. I then gave the sheet to a friend with the following instruction: every time I say a number, you have to delete that number and all its multiples from the sheet. I want all the numbers written on the paper to be deleted. How many numbers, at least, do I say? The answer is 0017. The solution. I have to ask him to delete all prime numbers less than 60, that is, those that have no divisors other than 1 and themselves.
 
 **Answer:** 0017
-[[src_kangourou_2024_cadet_semifinale__Q12]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q12|src_kangourou_2024_cadet_semifinale__Q12]]
 
 
 
@@ -589,7 +589,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 6) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? The answer is: 0001. The solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are mandatory: (18, 7), (17, 8), (16, 9); furthermore, since 9  2 = 7, coupling (2, 14) is also mandatory. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
 
 **Answer:** 0001
-[[src_kangourou_2024_cadet_semifinale__Q13]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q13|src_kangourou_2024_cadet_semifinale__Q13]]
 
 
 
@@ -622,7 +622,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Points 6) In the figure you can see an isolated L-shaped brick made from a 1 cm side cube by removing a parallel piped in centimetres, 1⁄2, 1⁄2 and
 
 **Answer:** 0042
-[[src_kangourou_2024_cadet_semifinale__Q14]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q14|src_kangourou_2024_cadet_semifinale__Q14]]
 
 
 
@@ -651,7 +651,7 @@ Maximum number of Spaniards with 143 handshakes
 > 15. (Points 6) Four real numbers a, b, c, d all other than 0 are such that their sum is 0, as well as the sum of their inverse with the inverse of their product. How much is (cd  ab) c + d)? The answer is: 0001. The solution. From the second condition we get cd(a + b) + ab(c + d) =  1. From the first, being a + b =  (c + d), we get then that the number sought is 1.
 
 **Answer:** 0001
-[[src_kangourou_2024_cadet_semifinale__Q15]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q15|src_kangourou_2024_cadet_semifinale__Q15]]
 
 
 
@@ -679,7 +679,7 @@ For how many seconds Aldo is waiting for Bernardo
 > 16. The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. How many seconds will you have to wait for him? The answer is 0225. The solution. The ratio of the lengths of the beams (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
 
 **Answer:** 0225
-[[src_kangourou_2024_cadet_semifinale__Q16]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q16|src_kangourou_2024_cadet_semifinale__Q16]]
 
 
 
@@ -707,7 +707,7 @@ For how many seconds Aldo is waiting for Bernardo
 > 17. (Points 7) I want to express as many integers as possible using just the number 4 and exactly four times. I can approach the number 4 several times, use the four arithmetic operations and arrange brackets in the ways I think are appropriate. For example, I can write 0 = 4  4 + 4  4, or 15 = 44/4 + 4, or 160 = (44  4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
 **Answer:** 0011
-[[src_kangourou_2024_cadet_semifinale__Q17]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q17|src_kangourou_2024_cadet_semifinale__Q17]]
 
 
 
@@ -736,4 +736,4 @@ Maximum number of consecutive integers with sum of cubes = 2024
 > 18. (Points 8) Adding the cubes of some consecutive integers gives us a result of 2024. How many of these integers can be at most? It may be useful to remember that for every positive integer n, the sum of the cubes of the first positive integers coincides with the square of the sum of these first n integers. The answer is 0011. The solution. The sum of the first n positive integers is n(n + 1)/2: quickly finds that $45^{2}$ = 2025 is the sum of the cubic integers from 1 to 9. So 2024 is the sum of the cubes of integers from 2 to 9, but also the cubes of integers from -1 to 9. It is easy to see that this sequence of consecutive integers cannot be extended.
 
 **Answer:** 0011
-[[src_kangourou_2024_cadet_semifinale__Q18]]
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q18|src_kangourou_2024_cadet_semifinale__Q18]]

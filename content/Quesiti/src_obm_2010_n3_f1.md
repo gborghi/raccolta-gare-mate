@@ -48,7 +48,7 @@ level: OBM Nível 3
 > - **(E)** $4^{52}$
 
 **Risposta:** E
-[[src_obm_2010_n3_f1__Q01]]
+[[Quesiti/src_obm_2010_n3_f1#q01|src_obm_2010_n3_f1__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 3
 > - **(E)** $105$
 
 **Risposta:** B
-[[src_obm_2010_n3_f1__Q02]]
+[[Quesiti/src_obm_2010_n3_f1#q02|src_obm_2010_n3_f1__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: OBM Nível 3
 > - **(D)** $18$
 > - **(E)** $19$
 
-![[src_obm_2010_n3_f1__Q03.png]]
+![[src_obm_2010_n3_f1__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -134,9 +134,9 @@ level: OBM Nível 3
 > - **(D)** $18$
 > - **(E)** $19$
 
-![[src_obm_2010_n3_f1__Q03.png]]
+![[src_obm_2010_n3_f1__q03.png]]
 
-[[src_obm_2010_n3_f1__Q03]]
+[[Quesiti/src_obm_2010_n3_f1#q03|src_obm_2010_n3_f1__Q03]]
 
 
 
@@ -176,7 +176,7 @@ level: OBM Nível 3
 > - **(D)** $\frac{5}{12}$
 > - **(E)** $\frac{2}{3}$
 
-[[src_obm_2010_n3_f1__Q04]]
+[[Quesiti/src_obm_2010_n3_f1#q04|src_obm_2010_n3_f1__Q04]]
 
 
 
@@ -195,7 +195,7 @@ level: OBM Nível 3
 > - **(D)** $\frac{x}{2\sqrt{2}}$
 > - **(E)** $\frac{x}{4}$
 
-![[src_obm_2010_n3_f1__Q05.png]]
+![[src_obm_2010_n3_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -219,9 +219,9 @@ level: OBM Nível 3
 > - **(D)** $\frac{x}{2\sqrt{2}}$
 > - **(E)** $\frac{x}{4}$
 
-![[src_obm_2010_n3_f1__Q05.png]]
+![[src_obm_2010_n3_f1__q05.png]]
 
-[[src_obm_2010_n3_f1__Q05]]
+[[Quesiti/src_obm_2010_n3_f1#q05|src_obm_2010_n3_f1__Q05]]
 
 
 
@@ -264,7 +264,7 @@ level: OBM Nível 3
 > - **(E)** è necessario avere maggiori dati
 
 **Risposta:** C
-[[src_obm_2010_n3_f1__Q06]]
+[[Quesiti/src_obm_2010_n3_f1#q06|src_obm_2010_n3_f1__Q06]]
 
 
 
@@ -305,7 +305,7 @@ level: OBM Nível 3
 > - **(D)** $15$
 > - **(E)** $20$
 
-[[src_obm_2010_n3_f1__Q07]]
+[[Quesiti/src_obm_2010_n3_f1#q07|src_obm_2010_n3_f1__Q07]]
 
 
 
@@ -348,7 +348,7 @@ level: OBM Nível 3
 > - **(E)** $105$
 
 **Risposta:** B
-[[src_obm_2010_n3_f1__Q08]]
+[[Quesiti/src_obm_2010_n3_f1#q08|src_obm_2010_n3_f1__Q08]]
 
 
 
@@ -367,7 +367,7 @@ level: OBM Nível 3
 > - **(D)** $27$
 > - **(E)** $40$
 
-![[src_obm_2010_n3_f1__Q09.png]]
+![[src_obm_2010_n3_f1__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -390,9 +390,9 @@ level: OBM Nível 3
 > - **(D)** $27$
 > - **(E)** $40$
 
-![[src_obm_2010_n3_f1__Q09.png]]
+![[src_obm_2010_n3_f1__q09.png]]
 
-[[src_obm_2010_n3_f1__Q09]]
+[[Quesiti/src_obm_2010_n3_f1#q09|src_obm_2010_n3_f1__Q09]]
 
 
 
@@ -444,7 +444,7 @@ level: OBM Nível 3
 > - **(D)** Dernaldo
 > - **(E)** Non è possibile determinarlo.
 
-[[src_obm_2010_n3_f1__Q10]]
+[[Quesiti/src_obm_2010_n3_f1#q10|src_obm_2010_n3_f1__Q10]]
 
 
 
@@ -459,7 +459,7 @@ level: OBM Nível 3
 > 
 > (A), (B), (C), (D), (E): five candidate coordinate-plane sketches (see figure).
 
-![[src_obm_2010_n3_f1__Q11.png]]
+![[src_obm_2010_n3_f1__q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -479,9 +479,9 @@ level: OBM Nível 3
 > 
 > (A), (B), (C), (D), (E): cinque schizzi di piano di coordinate candidati (cfr. figura).
 
-![[src_obm_2010_n3_f1__Q11.png]]
+![[src_obm_2010_n3_f1__q11.png]]
 
-[[src_obm_2010_n3_f1__Q11]]
+[[Quesiti/src_obm_2010_n3_f1#q11|src_obm_2010_n3_f1__Q11]]
 
 
 
@@ -523,7 +523,7 @@ level: OBM Nível 3
 > - **(E)** $\frac{18}{7}$
 
 **Risposta:** E
-[[src_obm_2010_n3_f1__Q12]]
+[[Quesiti/src_obm_2010_n3_f1#q12|src_obm_2010_n3_f1__Q12]]
 
 
 
@@ -542,7 +542,7 @@ level: OBM Nível 3
 > - **(D)** $90^\circ$
 > - **(E)** $100^\circ$
 
-![[src_obm_2010_n3_f1__Q13.png]]
+![[src_obm_2010_n3_f1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -565,9 +565,9 @@ level: OBM Nível 3
 > - **(D)** $90^\circ$
 > - **(E)** $100^\circ$
 
-![[src_obm_2010_n3_f1__Q13.png]]
+![[src_obm_2010_n3_f1__q13.png]]
 
-[[src_obm_2010_n3_f1__Q13]]
+[[Quesiti/src_obm_2010_n3_f1#q13|src_obm_2010_n3_f1__Q13]]
 
 
 
@@ -586,7 +586,7 @@ level: OBM Nível 3
 > - **(D)** $108$
 > - **(E)** $27$
 
-![[src_obm_2010_n3_f1__Q14.png]]
+![[src_obm_2010_n3_f1__q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]]
@@ -610,9 +610,9 @@ level: OBM Nível 3
 > - **(D)** $108$
 > - **(E)** $27$
 
-![[src_obm_2010_n3_f1__Q14.png]]
+![[src_obm_2010_n3_f1__q14.png]]
 
-[[src_obm_2010_n3_f1__Q14]]
+[[Quesiti/src_obm_2010_n3_f1#q14|src_obm_2010_n3_f1__Q14]]
 
 
 
@@ -631,7 +631,7 @@ level: OBM Nível 3
 > - **(D)** $4$
 > - **(E)** $5$
 
-![[src_obm_2010_n3_f1__Q15.png]]
+![[src_obm_2010_n3_f1__q15.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -655,9 +655,9 @@ level: OBM Nível 3
 > - **(D)** $4$
 > - **(E)** $5$
 
-![[src_obm_2010_n3_f1__Q15.png]]
+![[src_obm_2010_n3_f1__q15.png]]
 
-[[src_obm_2010_n3_f1__Q15]]
+[[Quesiti/src_obm_2010_n3_f1#q15|src_obm_2010_n3_f1__Q15]]
 
 
 
@@ -700,7 +700,7 @@ level: OBM Nível 3
 > - **(E)** $1<a<b$
 
 **Risposta:** D
-[[src_obm_2010_n3_f1__Q16]]
+[[Quesiti/src_obm_2010_n3_f1#q16|src_obm_2010_n3_f1__Q16]]
 
 
 
@@ -741,7 +741,7 @@ level: OBM Nível 3
 > - **(D)** $1003$
 > - **(E)** $1004$
 
-[[src_obm_2010_n3_f1__Q17]]
+[[Quesiti/src_obm_2010_n3_f1#q17|src_obm_2010_n3_f1__Q17]]
 
 
 
@@ -760,7 +760,7 @@ level: OBM Nível 3
 > - **(D)** Choose the last two rows from the bottom.
 > - **(E)** Any cut, since Fábio will inevitably end up with the peanut.
 
-![[src_obm_2010_n3_f1__Q18.png]]
+![[src_obm_2010_n3_f1__q18.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -784,9 +784,9 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** Scegli le ultime due righe dal basso.
 > - **(E)** Qualsiasi taglio, visto che Fábio finirà inevitabilmente con la arachidica.
 
-![[src_obm_2010_n3_f1__Q18.png]]
+![[src_obm_2010_n3_f1__q18.png]]
 
-[[src_obm_2010_n3_f1__Q18]]
+[[Quesiti/src_obm_2010_n3_f1#q18|src_obm_2010_n3_f1__Q18]]
 
 
 
@@ -805,7 +805,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $\frac{1}{3}$
 > - **(E)** $\frac{1}{4}$
 
-![[src_obm_2010_n3_f1__Q19.png]]
+![[src_obm_2010_n3_f1__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -829,9 +829,9 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $\frac{1}{3}$
 > - **(E)** $\frac{1}{4}$
 
-![[src_obm_2010_n3_f1__Q19.png]]
+![[src_obm_2010_n3_f1__q19.png]]
 
-[[src_obm_2010_n3_f1__Q19]]
+[[Quesiti/src_obm_2010_n3_f1#q19|src_obm_2010_n3_f1__Q19]]
 
 
 
@@ -874,7 +874,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(E)** $11^{11!}$
 
 **Risposta:** B
-[[src_obm_2010_n3_f1__Q20]]
+[[Quesiti/src_obm_2010_n3_f1#q20|src_obm_2010_n3_f1__Q20]]
 
 
 
@@ -915,7 +915,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $(\log n)^n<n!<n^{\log n}$
 > - **(E)** $n^{\log n}<(\log n)^n<n!$
 
-[[src_obm_2010_n3_f1__Q21]]
+[[Quesiti/src_obm_2010_n3_f1#q21|src_obm_2010_n3_f1__Q21]]
 
 
 
@@ -956,7 +956,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $30$
 > - **(E)** $105$
 
-[[src_obm_2010_n3_f1__Q22]]
+[[Quesiti/src_obm_2010_n3_f1#q22|src_obm_2010_n3_f1__Q22]]
 
 
 
@@ -997,7 +997,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $6$
 > - **(E)** $7$
 
-[[src_obm_2010_n3_f1__Q23]]
+[[Quesiti/src_obm_2010_n3_f1#q23|src_obm_2010_n3_f1__Q23]]
 
 
 
@@ -1016,7 +1016,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $\frac{\pi}{4}$
 > - **(E)** $1-\frac{\pi}{8}$
 
-![[src_obm_2010_n3_f1__Q24.png]]
+![[src_obm_2010_n3_f1__q24.png]]
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -1041,10 +1041,10 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $\frac{\pi}{4}$
 > - **(E)** $1-\frac{\pi}{8}$
 
-![[src_obm_2010_n3_f1__Q24.png]]
+![[src_obm_2010_n3_f1__q24.png]]
 
 **Risposta:** E
-[[src_obm_2010_n3_f1__Q24]]
+[[Quesiti/src_obm_2010_n3_f1#q24|src_obm_2010_n3_f1__Q24]]
 
 
 
@@ -1085,4 +1085,4 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $5$
 > - **(E)** $7$
 
-[[src_obm_2010_n3_f1__Q25]]
+[[Quesiti/src_obm_2010_n3_f1#q25|src_obm_2010_n3_f1__Q25]]

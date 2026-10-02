@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** 27.
 
 **Answer:** A
-[[src_archimede_2012_febb_2livello__Q01]]
+[[Quesiti/src_archimede_2012_febb_2livello#q01|src_archimede_2012_febb_2livello__Q01]]
 
 
 
@@ -95,7 +95,7 @@ level: 2 livello
 > - **(E)** 12 hours.
 
 **Answer:** D
-[[src_archimede_2012_febb_2livello__Q02]]
+[[Quesiti/src_archimede_2012_febb_2livello#q02|src_archimede_2012_febb_2livello__Q02]]
 
 
 
@@ -138,7 +138,7 @@ level: 2 livello
 > - **(E)** √ 3.
 
 **Answer:** E
-[[src_archimede_2012_febb_2livello__Q03]]
+[[Quesiti/src_archimede_2012_febb_2livello#q03|src_archimede_2012_febb_2livello__Q03]]
 
 
 
@@ -179,7 +179,7 @@ level: 2 livello
 > - **(E)** 20.
 
 **Answer:** D
-[[src_archimede_2012_febb_2livello__Q04]]
+[[Quesiti/src_archimede_2012_febb_2livello#q04|src_archimede_2012_febb_2livello__Q04]]
 
 
 
@@ -224,7 +224,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** It can assume arbitrarily large values.
 
 **Answer:** C
-[[src_archimede_2012_febb_2livello__Q05]]
+[[Quesiti/src_archimede_2012_febb_2livello#q05|src_archimede_2012_febb_2livello__Q05]]
 
 
 
@@ -274,7 +274,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** There's no way to tell.
 
 **Answer:** A
-[[src_archimede_2012_febb_2livello__Q06]]
+[[Quesiti/src_archimede_2012_febb_2livello#q06|src_archimede_2012_febb_2livello__Q06]]
 
 
 
@@ -316,7 +316,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** 3.
 
 **Answer:** D
-[[src_archimede_2012_febb_2livello__Q07]]
+[[Quesiti/src_archimede_2012_febb_2livello#q07|src_archimede_2012_febb_2livello__Q07]]
 
 
 
@@ -359,7 +359,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** I never did.
 
 **Answer:** E
-[[src_archimede_2012_febb_2livello__Q08]]
+[[Quesiti/src_archimede_2012_febb_2livello#q08|src_archimede_2012_febb_2livello__Q08]]
 
 
 
@@ -403,7 +403,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** 29.
 
 **Answer:** C
-[[src_archimede_2012_febb_2livello__Q09]]
+[[Quesiti/src_archimede_2012_febb_2livello#q09|src_archimede_2012_febb_2livello__Q09]]
 
 
 
@@ -449,7 +449,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** There's no way to tell.
 
 **Answer:** D
-[[src_archimede_2012_febb_2livello__Q10]]
+[[Quesiti/src_archimede_2012_febb_2livello#q10|src_archimede_2012_febb_2livello__Q10]]
 
 
 
@@ -494,7 +494,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** 360.
 
 **Answer:** A
-[[src_archimede_2012_febb_2livello__Q11]]
+[[Quesiti/src_archimede_2012_febb_2livello#q11|src_archimede_2012_febb_2livello__Q11]]
 
 
 
@@ -541,7 +541,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(E)** 22. Problems with numerical answer  5 points
 
 **Answer:** B
-[[src_archimede_2012_febb_2livello__Q12]]
+[[Quesiti/src_archimede_2012_febb_2livello#q12|src_archimede_2012_febb_2livello__Q12]]
 
 
 
@@ -633,7 +633,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > Whether Γ0 be a radius circumference of 22012, and whether A0B0C0 be an equilateral triangle inscribed in Γ0. Whether Γ1 the circumference of the smallest radius tangent to A0B0 at its midpoint H0, or Γ0. The circumferences are constructed C2. . . , Γn in the same way, such that Γn is one of the smallest radius circumferences tangent to Γn−1 and to one side of an equilateral triangle inscribed in Γn−1 at its midpoint. What is the smallest value of n for which the area of the circle enclosed by Γn is less than 1?
 
 **Answer:** 1007
-[[src_archimede_2012_febb_2livello__Q13]]
+[[Quesiti/src_archimede_2012_febb_2livello#q13|src_archimede_2012_febb_2livello__Q13]]
 
 
 
@@ -665,7 +665,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > They are p(x) and q(x) two distinct polynomials of degree less than or equal to 3, with integer coefficients such that p(1) = q(1), p(2) = q(2), p(3) = q(3), p(−1) = −q(−1), p(−2) = −q(−2), p(−3) = −q(−3). What is the minimum value that can be assumed by [p(0)]2 + [q(0)]2?
 
 **Answer:** 36
-[[src_archimede_2012_febb_2livello__Q14]]
+[[Quesiti/src_archimede_2012_febb_2livello#q14|src_archimede_2012_febb_2livello__Q14]]
 
 
 
@@ -696,7 +696,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 
 > Given any positive integer n, we call cyclostilate of n the number that is obtained by concatenating 2012 letters of n (based on 10). For example , the cyclostilate of 314 is 314314314 . . . 314, where the numbers 314 are repeated 2012 times. (a) Determine all positive integers m such that the cyclostilate of m is a multiple of 9. (b) Determine all positive integers m such that the cyclostilate of m is multiple 11.
 
-[[src_archimede_2012_febb_2livello__Q15]]
+[[Quesiti/src_archimede_2012_febb_2livello#q15|src_archimede_2012_febb_2livello__Q15]]
 
 
 
@@ -737,7 +737,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > Demonstrative Exercise Normally David needs at least eight hours of sleep a night. If one night he sleeps less than he needs to, he finds himself needing more than k hours for the next k nights. Each night, however, he sleeps an entire number of hours less or equal to his needs. For example, if you need eight hours on Monday night, but you sleep seven, you'll need nine on Tuesday. If on Wednesday you need 8 hours, but on Thursday and Friday you need at least 10 hours of sleep; if on Thursday you only need 9 hours, on Friday you will feel the need for 11 hours (8, plus 2 for the hours lost on Wednesday, plus 1 for the one not sleeping on Thursday). On a certain Monday night David would need eight hours of sleep; the same is true on the Monday night of the following week. During the week there were 7 hours in which he needed to sleep but did not: How many hours did David sleep at least in the seven nights from Monday to Sunday?
 
 **Answer:** 58
-[[src_archimede_2012_febb_2livello__Q16]]
+[[Quesiti/src_archimede_2012_febb_2livello#q16|src_archimede_2012_febb_2livello__Q16]]
 
 
 
@@ -775,4 +775,4 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 
 > Demonstrative Exercise Whether ABC is an acute triangle; whether O is its circumcenter and whether P, Q are the points (other than A) where, respectively, the height exiting from vertex A and the extension of AO meet the circumference prescribed at ABC. (a) The angles $\widehat{BAP}$ and $\widehat{QAC}$ are shown to be congruent; (b) The triangles BCP and CBQ are shown to be congruent; (c) The area of the quadrilateral ABPC is shown to be four times the area of the quadrilateral AMON, given the mean points of AB and AC at M and N.
 
-[[src_archimede_2012_febb_2livello__Q17]]
+[[Quesiti/src_archimede_2012_febb_2livello#q17|src_archimede_2012_febb_2livello__Q17]]

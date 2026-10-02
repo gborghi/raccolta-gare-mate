@@ -40,7 +40,7 @@ level: kangourou
 > What's the minimum number of ties that Silvia could have bought? Reason for the answer.
 
 **Answer:** 5
-[[src_kangourou_2005_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2005_junior_finale#qj1|src_kangourou_2005_junior_finale__QJ1]]
 
 
 
@@ -73,7 +73,7 @@ level: kangourou
 > $$UN \times 6 = BIO$$
 
 **Answer:** 16
-[[src_kangourou_2005_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2005_junior_finale#qj2|src_kangourou_2005_junior_finale__QJ2]]
 
 
 
@@ -84,7 +84,7 @@ level: kangourou
 
 *Suddividere esagono regolare in 8 parti uguali*
 
-![[src_kangourou_2005_junior_finale__probJ3.png]]
+![[src_kangourou_2005_junior_finale__probj3.png]]
 
 ```tikz
 \begin{document}
@@ -108,7 +108,7 @@ level: kangourou
 
 *To divide the regular exaggeration into 8 equal parts*
 
-![[src_kangourou_2005_junior_finale__probJ3.png]]
+![[src_kangourou_2005_junior_finale__probj3.png]]
 
 ```tikz
 \begin{document}
@@ -121,7 +121,7 @@ level: kangourou
 > In the figure you see a regular hexagon. Can you divide it into parts of equal shape and size? In the case of a negative answer, you must give reasons; in the case of an affirmative answer, explain directly on the figure the subdivision you propose, together with any clarifications you deem appropriate. (see figure)
 
 **Answer:** Si
-[[src_kangourou_2005_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2005_junior_finale#qj3|src_kangourou_2005_junior_finale__QJ3]]
 
 
 
@@ -149,7 +149,7 @@ level: kangourou
 > What is the algebraic sum of all the coefficients (each with its own sign) of $(2x - y + z)^8$ development?
 
 **Answer:** 256
-[[src_kangourou_2005_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2005_junior_finale#qj4|src_kangourou_2005_junior_finale__QJ4]]
 
 
 
@@ -180,7 +180,7 @@ level: kangourou
 > For each positive integer $n$, "factor of $n$"  is said and the symbol $n!$  indicates the product of all integers from $1$ to $n$ included, each considered once and only once (so you have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). It shows that the $$1! \times 2! \times \cdots \times 99! \times 100!$$ product of the factors of the first positive $100$ integers is not a perfect square, but its quotient with $50!$ is.
 
 **Answer:** dimostrazione
-[[src_kangourou_2005_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2005_junior_finale#qj5|src_kangourou_2005_junior_finale__QJ5]]
 
 
 
@@ -191,7 +191,7 @@ level: kangourou
 
 *Croce greca su scacchiera 7x7 senza angoli*
 
-![[src_kangourou_2005_junior_finale__probJ6.png]]
+![[src_kangourou_2005_junior_finale__probj6.png]]
 
 ```tikz
 \begin{document}
@@ -229,7 +229,7 @@ level: kangourou
 
 *Greek cross on a 7x7 chessboard without corners*
 
-![[src_kangourou_2005_junior_finale__probJ6.png]]
+![[src_kangourou_2005_junior_finale__probj6.png]]
 
 ```tikz
 \begin{document}
@@ -255,4 +255,4 @@ level: kangourou
 > (Suggest: identify a conveniently small $S$ set of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
 
 **Answer:** dimostrazione
-[[src_kangourou_2005_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2005_junior_finale#qj6|src_kangourou_2005_junior_finale__QJ6]]

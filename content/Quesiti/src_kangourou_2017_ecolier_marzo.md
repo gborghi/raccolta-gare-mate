@@ -62,7 +62,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_marzo__Q01]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q01|src_kangourou_2017_ecolier_marzo__Q01]]
 
 
 
@@ -101,7 +101,7 @@ How many kangaroos are in the park, Gianni sees.
 > Gianni looks out the window (see the figure!) and sees half the kangaroos living in the park. How many kangaroos live in the park? A) 3 B) 10 C) 12 D) 15 E) 18
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_marzo__Q02]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q02|src_kangourou_2017_ecolier_marzo__Q02]]
 
 
 
@@ -157,7 +157,7 @@ How many kangaroos are in the park, Gianni sees.
 > E) 5
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_marzo__Q03]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q03|src_kangourou_2017_ecolier_marzo__Q03]]
 
 
 
@@ -219,7 +219,7 @@ How many kangaroos are in the park, Gianni sees.
 >
 
 **Answer:** A
-[[src_kangourou_2017_ecolier_marzo__Q04]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q04|src_kangourou_2017_ecolier_marzo__Q04]]
 
 
 
@@ -269,7 +269,7 @@ How many kangaroos are in the park, Gianni sees.
 > E) 36
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_marzo__Q05]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q05|src_kangourou_2017_ecolier_marzo__Q05]]
 
 
 
@@ -325,7 +325,7 @@ How many mirror pieces have exactly four sides?
 > E) 3
 
 **Answer:** B
-[[src_kangourou_2017_ecolier_marzo__Q06]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q06|src_kangourou_2017_ecolier_marzo__Q06]]
 
 
 
@@ -384,7 +384,7 @@ The picture of the back of Anna's house
 > E)
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_marzo__Q07]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q07|src_kangourou_2017_ecolier_marzo__Q07]]
 
 
 
@@ -440,7 +440,7 @@ The picture of the back of Anna's house
 > The questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_marzo__Q08]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q08|src_kangourou_2017_ecolier_marzo__Q08]]
 
 
 
@@ -491,7 +491,7 @@ The picture of the back of Anna's house
 > E)
 
 **Answer:** A
-[[src_kangourou_2017_ecolier_marzo__Q09]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q09|src_kangourou_2017_ecolier_marzo__Q09]]
 
 
 
@@ -538,7 +538,7 @@ The picture of the back of Anna's house
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2017_ecolier_marzo__Q10]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q10|src_kangourou_2017_ecolier_marzo__Q10]]
 
 
 
@@ -590,7 +590,7 @@ How Roby had folded the sheet given the hole.
 > E)
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_marzo__Q11]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q11|src_kangourou_2017_ecolier_marzo__Q11]]
 
 
 
@@ -639,7 +639,7 @@ How Roby had folded the sheet given the hole.
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2017_ecolier_marzo__Q12]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q12|src_kangourou_2017_ecolier_marzo__Q12]]
 
 
 
@@ -740,7 +740,7 @@ How Roby had folded the sheet given the hole.
 > E) 15
 
 **Answer:** D
-[[src_kangourou_2017_ecolier_marzo__Q13]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q13|src_kangourou_2017_ecolier_marzo__Q13]]
 
 
 
@@ -792,7 +792,7 @@ How Roby had folded the sheet given the hole.
 >
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_marzo__Q14]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q14|src_kangourou_2017_ecolier_marzo__Q14]]
 
 
 
@@ -843,7 +843,7 @@ How Roby had folded the sheet given the hole.
 > E) 14
 
 **Answer:** D
-[[src_kangourou_2017_ecolier_marzo__Q15]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q15|src_kangourou_2017_ecolier_marzo__Q15]]
 
 
 
@@ -899,7 +899,7 @@ How Roby had folded the sheet given the hole.
 > E) 7 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** A
-[[src_kangourou_2017_ecolier_marzo__Q16]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q16|src_kangourou_2017_ecolier_marzo__Q16]]
 
 
 
@@ -972,7 +972,7 @@ How Roby had folded the sheet given the hole.
 > E) 20
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_marzo__Q17]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q17|src_kangourou_2017_ecolier_marzo__Q17]]
 
 
 
@@ -1012,7 +1012,7 @@ How Roby had folded the sheet given the hole.
 > B) 115 C) 170 D) 220 E) 230
 
 **Answer:** B
-[[src_kangourou_2017_ecolier_marzo__Q18]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q18|src_kangourou_2017_ecolier_marzo__Q18]]
 
 
 
@@ -1077,7 +1077,7 @@ Time limit to leave home and arrive at the choir on time
 >
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_marzo__Q19]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q19|src_kangourou_2017_ecolier_marzo__Q19]]
 
 
 
@@ -1125,7 +1125,7 @@ Time limit to leave home and arrive at the choir on time
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2017_ecolier_marzo__Q20]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q20|src_kangourou_2017_ecolier_marzo__Q20]]
 
 
 
@@ -1174,7 +1174,7 @@ The guy who ate the most pizza.
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2017_ecolier_marzo__Q21]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q21|src_kangourou_2017_ecolier_marzo__Q21]]
 
 
 
@@ -1268,7 +1268,7 @@ How many faces did Lilli (neighbouring cells) hide?
 > E) 11
 
 **Answer:** B
-[[src_kangourou_2017_ecolier_marzo__Q22]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q22|src_kangourou_2017_ecolier_marzo__Q22]]
 
 
 
@@ -1316,7 +1316,7 @@ How many faces did Lilli (neighbouring cells) hide?
 > E) 19
 
 **Answer:** E
-[[src_kangourou_2017_ecolier_marzo__Q23]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q23|src_kangourou_2017_ecolier_marzo__Q23]]
 
 
 
@@ -1368,4 +1368,4 @@ How many faces did Lilli (neighbouring cells) hide?
 >
 
 **Answer:** D
-[[src_kangourou_2017_ecolier_marzo__Q24]]
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q24|src_kangourou_2017_ecolier_marzo__Q24]]

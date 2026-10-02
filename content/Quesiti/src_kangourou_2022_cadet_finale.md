@@ -17,7 +17,7 @@ level: kangourou
 
 *Misura dell'angolo evidenziato con tre quadrati accostati*
 
-![[src_kangourou_2022_cadet_finale__probC1.png]]
+![[src_kangourou_2022_cadet_finale__probc1.png]]
 
 ```tikz
 \begin{document}
@@ -50,7 +50,7 @@ level: kangourou
 
 *Measure of the highlighted angle with three adjacent squares*
 
-![[src_kangourou_2022_cadet_finale__probC1.png]]
+![[src_kangourou_2022_cadet_finale__probc1.png]]
 
 ```tikz
 \begin{document}
@@ -72,7 +72,7 @@ level: kangourou
 > In the figure, three squares appear to be next to each other. How many degrees does the highlighted angle measure? (see figure)
 
 **Answer:** 90
-[[src_kangourou_2022_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc1|src_kangourou_2022_cadet_finale__QC1]]
 
 
 
@@ -101,7 +101,7 @@ How many cyclists have at least lied if sum and 36
 > Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell them their order of arrival in that race, of course with a number between 1 and 10. The reporter sums up the answers you give him and gets 36. He concludes that some certainly lied - how many, at least?
 
 **Answer:** 3
-[[src_kangourou_2022_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc2|src_kangourou_2022_cadet_finale__QC2]]
 
 
 
@@ -130,7 +130,7 @@ How many cyclists have at least lied if sum and 36
 > Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
 
 **Answer:** 8
-[[src_kangourou_2022_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc3|src_kangourou_2022_cadet_finale__QC3]]
 
 
 
@@ -157,7 +157,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 > Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$ and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (so $1007$, $10017$, $100117$, $1001117$, $\ldots$). It shows that each whole of the sequence is divisible by $53$.
 
-[[src_kangourou_2022_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc4|src_kangourou_2022_cadet_finale__QC4]]
 
 
 
@@ -186,7 +186,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 > To train, the 12 players of a basketball team each day are divided into two teams, each of six players, who play a game against each other. What is the minimum number of matches that allows each player to play at least one match in the same team with each other?
 
 **Answer:** 3
-[[src_kangourou_2022_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc5|src_kangourou_2022_cadet_finale__QC5]]
 
 
 
@@ -215,4 +215,4 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 > For how many ordered pairs of positive integers do you have$\dfrac{1}{m} + \dfrac{1}{n} = \dfrac{1}{2022}$?
 
 **Answer:** 27
-[[src_kangourou_2022_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc6|src_kangourou_2022_cadet_finale__QC6]]

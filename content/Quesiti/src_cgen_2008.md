@@ -64,7 +64,7 @@ level: Concours Général
 > 
 > 5. a. Il valore $a$ deve essere $\mathbb{R}$. Indichiamo con $D(a)$ la tangente a $M(a)$ a $S$. Indicare un'equazione di $D(a)$. b. Indichiamo di nuovo con $U$ il punto di $\mathscr{P}$ con le coordinate $(u,v)$. Discutere, come funzione di $u$ e $v$, il numero di soluzioni $a$ dell'equazione $U\in D(a)$. c. Supponiamo che l'equazione $U\in D(a)$ ammetta due soluzioni distinte $a_1$ e $a_2$. Indicare che se $UM(a_1)=UM(a_2)$, allora $u=0$. d. Supponiamo $U\in\mathscr{P}$. Ora supponiamo che esista un cerchio con il centro $U$ tangente a $S$ a due punti distinti $M$ e $N$ di $S$. Mostrare che le tangenti di $S$ a $M$ e $N$ sono simultanee, e che se indichiamo con $V$ il loro punto di intersezione allora $VM=VN$. e. Determinare l'insieme di punti $U$ non appartenenti a $S$ per i quali esiste un cerchio con centro $U$ tangente a $S$ in due punti distinti di $S$.
 
-[[src_cgen_2008__Q01]]
+[[Quesiti/src_cgen_2008#q01|src_cgen_2008__Q01]]
 
 
 
@@ -96,7 +96,7 @@ level: Concours Général
 > 
 > 2. Indicare che esiste una linea $\mathscr{D}$ per la quale la somma $s_1$ delle distanze da $A$, $B$ e $C$ a $\mathscr{D}$ è minima. Indicare che questa riga è unica se $ABC$ non è uguale e caratterizzarla.
 
-[[src_cgen_2008__Q02]]
+[[Quesiti/src_cgen_2008#q02|src_cgen_2008__Q02]]
 
 
 
@@ -138,4 +138,4 @@ level: Concours Général
 > 
 > 2. Perché i dati relativi a tutti i ricevute del giorno non permettono in nessun caso di determinare il prezzo esatto di ciascuno dei prodotti venduti?
 
-[[src_cgen_2008__Q03]]
+[[Quesiti/src_cgen_2008#q03|src_cgen_2008__Q03]]

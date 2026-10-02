@@ -38,7 +38,7 @@ level: IMO
 
 > Let A, B, C, D be four distinct points on a line, in that order. The circles with diameters AC and BD intersect at X and Y . The line XY meets BC at Z. Let P be a point on the line XY other than Z. The line CP intersects the circle with diameter AC at C and M, and the line BP intersects the circle with diameter BD at B and N. Prove that the lines AM, DN, XY are concurrent.
 
-[[src_imo_1995__Q01]]
+[[Quesiti/src_imo_1995#q01|src_imo_1995__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: IMO
 
 > Let a, b, c be positive real numbers such that abc = 1. Prove that 1 a3(b + c) + 1 b3(c + a) + 1 c3(a + b) ≥3 2.
 
-[[src_imo_1995__Q02]]
+[[Quesiti/src_imo_1995#q02|src_imo_1995__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: IMO
 
 > Determine all integers n > 3 for which there exist n points A1, . . . , An in the plane, no three collinear, and real numbers r1, . . . , rn such that for 1 ≤i < j < k ≤n, the area of △AiAjAk is ri + rj + rk. 36th International Mathematical Olympiad Second Day - Toronto - July 20, 1995 Time limit: 41 2 hours
 
-[[src_imo_1995__Q03]]
+[[Quesiti/src_imo_1995#q03|src_imo_1995__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: IMO
 
 > Find the maximum value of $x_0$ for which there exists a sequence $x_0, x_1, \ldots, x_{1995}$ of positive real numbers with $x_0 = x_{1995}$, such that for $i = 1, \ldots, 1995$: $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
 
-[[src_imo_1995__Q04]]
+[[Quesiti/src_imo_1995#q04|src_imo_1995__Q04]]
 
 
 
@@ -158,7 +158,7 @@ In the case of the equation, the following equation is used: *Hexagon inequality
 
 > Whether $ABCDEF$ is a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such as $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points within the hexagon such as $\angle AGB = \angle DHE = 2\pi/3$. Show that $$AG + GB + GH + DH + HE \geq CF.$$
 
-[[src_imo_1995__Q05]]
+[[Quesiti/src_imo_1995#q05|src_imo_1995__Q05]]
 
 
 
@@ -184,4 +184,4 @@ In the case of the equation, the following equation is used: *Hexagon inequality
 
 > Whether $p$ is an odd prime number. How many $A$ subsets of $p$ elements of $\{1, 2, \ldots, 2p\}$ exist that the sum of the elements of $A$ is divisible by $p$?
 
-[[src_imo_1995__Q06]]
+[[Quesiti/src_imo_1995#q06|src_imo_1995__Q06]]

@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere la seguente equazione nei numeri reali $$|x| + |x+2| + |x+4| + |x+6| + \cdots + |x+998| =$$ $$= |x+1| + |x+3| + |x+5| + \cdots + |x+7| + \cdots + |x+999|.$$
 
-[[src_pol_2002_r1__Q01]]
+[[Quesiti/src_pol_2002_r1#q01|src_pol_2002_r1__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 1
 
 > $ABC$ è un triangolo dato. $ABDE$ e $ACFG$ sono i quadrati disegnati fuori dal triangolo. I punti $M$ e $N$ sono rispettivamente i punti intermedi di $DG$ e $EF$. Trova tutti i valori della razione $MN : BC$.
 
-[[src_pol_2002_r1__Q02]]
+[[Quesiti/src_pol_2002_r1#q02|src_pol_2002_r1__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: Olimpiade Polacca Round 1
 
 > Provare che il numero $$\sum_{n=0}^{10^{10}} \binom{2 \cdot 10^{10}}{2n} 5^n$$ è divisibile da $2^{10^{10}-1}$.
 
-[[src_pol_2002_r1__Q03]]
+[[Quesiti/src_pol_2002_r1#q03|src_pol_2002_r1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che il grafico del polinomio $W(x)$ con $\deg W > 1$ possiede un asse di simmetria se e solo se esistono polinomi $F(x), G(x)$ come $W(x) = F(G(x))$ e $\deg G = 2$.
 
-[[src_pol_2002_r1__Q04]]
+[[Quesiti/src_pol_2002_r1#q04|src_pol_2002_r1__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che per ogni intero positivo $k$ esiste un intero positivo $m$ tale che per i numeri $m, 2m, 3m, \ldots, m!$ ci siano esattamente $k$ cifre non zero nell'espansione binomial.
 
-[[src_pol_2002_r1__Q05]]
+[[Quesiti/src_pol_2002_r1#q05|src_pol_2002_r1__Q05]]
 
 
 
@@ -171,7 +171,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > Un cerchio divide tutti i lati di un rombo in tre pezzi. Partendo da un vertex del rombo e andando in una direzione fissa lungo il confine del rombo i 12 segmenti sono colorati rosso, verde e bianco successivamente. Prove che la somma delle lunghezze dei segmenti rossi è uguale alla somma delle lunghezze dei segmenti bianchi.
 
-[[src_pol_2002_r1__Q06]]
+[[Quesiti/src_pol_2002_r1#q06|src_pol_2002_r1__Q06]]
 
 
 
@@ -202,7 +202,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 > 
 > \textit{Remark.} Supponiamo che nessuno si inserisca nel gruppo dei suoi conoscenti e che $A$ conosca $B$ se e solo se $B$ conosce $A$.
 
-[[src_pol_2002_r1__Q07]]
+[[Quesiti/src_pol_2002_r1#q07|src_pol_2002_r1__Q07]]
 
 
 
@@ -229,7 +229,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > $S(n)$ indichi la somma dei numeri $n$. Prova che per ogni intero positivo $n$ il numero $S(2n^2 + 3)$ non è il quadrato di un intero.
 
-[[src_pol_2002_r1__Q08]]
+[[Quesiti/src_pol_2002_r1#q08|src_pol_2002_r1__Q08]]
 
 
 
@@ -256,7 +256,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > Una piana interseca i bordi laterali di un prisma con una base esagonale nei punti $D_1, D_2, \ldots, D_6$. L'insieme di intersezioni $D_1 D_2 D_3 D_4 D_5 D_6$ è un esagono converso. Indicare per $d_i$ la distanza del punto $D_i$ dalla pianura che contiene una base fissa del prisma. Prove che $d_1^2 + d_3^2 + d_5^2 = d_2^2 + d_4^2 + d_6^2$.
 
-[[src_pol_2002_r1__Q09]]
+[[Quesiti/src_pol_2002_r1#q09|src_pol_2002_r1__Q09]]
 
 
 
@@ -283,7 +283,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > Su ogni campo di una scacchiera $2000 \times 2000$ si trova una pietra. Le pietre possono essere spostate nel modo seguente: Colmare tre campi successivi in fila o in colonna. Se sul primo e sul terzo campo si trova una pietra, allora queste due pietre possono essere spostate sul secondo campo. (Nota che un movimento può essere eseguito indipendentemente dal numero di pietre che si trovano sul mezzo archivato.) Prova o smentire: Esiste una sequenza di movimenti tale che alla fine tutte le pietre si trovano su un campo della scacchiera.
 
-[[src_pol_2002_r1__Q10]]
+[[Quesiti/src_pol_2002_r1#q10|src_pol_2002_r1__Q10]]
 
 
 
@@ -311,7 +311,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > Nel triangolo $ABC$ si trova $\angle B > \angle C$. Il punto $D$ si trova sul lato $BC$ e soddisfa l'uguaglianza $\angle DAC = (1/2)(\angle B - \angle C)$. Il cerchio tangente alla linea $AC$ nel punto $A$ e contenente il punto $D$ interseca la linea $AB$ nel punto $P \ne A$. Provare che $$\frac{BP}{AC} = \frac{BD}{DC}.$$
 
-[[src_pol_2002_r1__Q11]]
+[[Quesiti/src_pol_2002_r1#q11|src_pol_2002_r1__Q11]]
 
 
 
@@ -339,4 +339,4 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 
 > In una sequenza non diminuente $a_1, a_2, a_3, \ldots$ tutti i valori sono interi positivi e esattamente $k$ i valori sono uguali a $k$. Trova tutti i numeri primi del modulo $$a_1 + a_2 + \cdots + a_n.$$
 
-[[src_pol_2002_r1__Q12]]
+[[Quesiti/src_pol_2002_r1#q12|src_pol_2002_r1__Q12]]

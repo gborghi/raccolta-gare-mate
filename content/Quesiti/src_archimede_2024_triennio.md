@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** 84°
 
 **Answer:** B
-[[src_archimede_2024_triennio__Q01]]
+[[Quesiti/src_archimede_2024_triennio#q01|src_archimede_2024_triennio__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: triennio
 > - **(E)** 27
 
 **Answer:** C
-[[src_archimede_2024_triennio__Q02]]
+[[Quesiti/src_archimede_2024_triennio#q02|src_archimede_2024_triennio__Q02]]
 
 
 
@@ -133,7 +133,7 @@ level: triennio
 > - **(E)** 901
 
 **Answer:** B
-[[src_archimede_2024_triennio__Q03]]
+[[Quesiti/src_archimede_2024_triennio#q03|src_archimede_2024_triennio__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: triennio
 > - **(E)** 130°
 
 **Answer:** C
-[[src_archimede_2024_triennio__Q04]]
+[[Quesiti/src_archimede_2024_triennio#q04|src_archimede_2024_triennio__Q04]]
 
 
 
@@ -220,7 +220,7 @@ level: triennio
 > - **(E)** 8
 
 **Answer:** C
-[[src_archimede_2024_triennio__Q05]]
+[[Quesiti/src_archimede_2024_triennio#q05|src_archimede_2024_triennio__Q05]]
 
 
 
@@ -266,7 +266,7 @@ level: triennio
 > - **(E)** −1 2
 
 **Answer:** D
-[[src_archimede_2024_triennio__Q06]]
+[[Quesiti/src_archimede_2024_triennio#q06|src_archimede_2024_triennio__Q06]]
 
 
 
@@ -314,7 +314,7 @@ level: triennio
 > - **(E)** 52
 
 **Answer:** C
-[[src_archimede_2024_triennio__Q07]]
+[[Quesiti/src_archimede_2024_triennio#q07|src_archimede_2024_triennio__Q07]]
 
 
 
@@ -356,7 +356,7 @@ level: triennio
 > - **(E)** 19
 
 **Answer:** C
-[[src_archimede_2024_triennio__Q08]]
+[[Quesiti/src_archimede_2024_triennio#q08|src_archimede_2024_triennio__Q08]]
 
 
 
@@ -399,7 +399,7 @@ level: triennio
 > - **(E)** 44
 
 **Answer:** A
-[[src_archimede_2024_triennio__Q09]]
+[[Quesiti/src_archimede_2024_triennio#q09|src_archimede_2024_triennio__Q09]]
 
 
 
@@ -443,7 +443,7 @@ level: triennio
 > - **(E)** 720
 
 **Answer:** D
-[[src_archimede_2024_triennio__Q10]]
+[[Quesiti/src_archimede_2024_triennio#q10|src_archimede_2024_triennio__Q10]]
 
 
 
@@ -503,7 +503,7 @@ level: triennio
 > - **(E)** 10
 
 **Answer:** D
-[[src_archimede_2024_triennio__Q11]]
+[[Quesiti/src_archimede_2024_triennio#q11|src_archimede_2024_triennio__Q11]]
 
 
 
@@ -548,7 +548,7 @@ level: triennio
 > - **(E)** 5
 
 **Answer:** E
-[[src_archimede_2024_triennio__Q12]]
+[[Quesiti/src_archimede_2024_triennio#q12|src_archimede_2024_triennio__Q12]]
 
 
 
@@ -598,7 +598,7 @@ level: triennio
 > - **(E)** 81
 
 **Answer:** 29
-[[src_archimede_2024_triennio__Q13]]
+[[Quesiti/src_archimede_2024_triennio#q13|src_archimede_2024_triennio__Q13]]
 
 
 
@@ -645,7 +645,7 @@ level: triennio
 > - **(E)** 3/8
 
 **Answer:** 26880
-[[src_archimede_2024_triennio__Q14]]
+[[Quesiti/src_archimede_2024_triennio#q14|src_archimede_2024_triennio__Q14]]
 
 
 
@@ -688,7 +688,7 @@ level: triennio
 > - **(D)** 3003
 > - **(E)** 7117
 
-[[src_archimede_2024_triennio__Q15]]
+[[Quesiti/src_archimede_2024_triennio#q15|src_archimede_2024_triennio__Q15]]
 
 
 
@@ -737,7 +737,7 @@ level: triennio
 > - **(D)** 36
 > - **(E)** 27 311
 
-[[src_archimede_2024_triennio__Q16]]
+[[Quesiti/src_archimede_2024_triennio#q16|src_archimede_2024_triennio__Q16]]
 
 
 
@@ -788,4 +788,4 @@ level: triennio
 > 
 > (b) either $l \geq 4$ as a whole. Demonstrate that the number of strings of digits 0 and 1 of length $l$ for which Giacomo **not** can perform a subdivision as above is $2^{l-3}$.
 
-[[src_archimede_2024_triennio__Q17]]
+[[Quesiti/src_archimede_2024_triennio#q17|src_archimede_2024_triennio__Q17]]

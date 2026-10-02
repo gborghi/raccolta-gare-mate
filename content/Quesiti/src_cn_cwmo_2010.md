@@ -41,7 +41,7 @@ level: China Western Mathematical Olympiad
 > 
 > b) $2^{m+1} p^k$ è il numero intero positivo più piccolo $n$ che soddisfa l'equazione di congruenza $2^n \equiv 1 \pmod{p^{k+1}}$.
 
-[[src_cn_cwmo_2010__Q01]]
+[[Quesiti/src_cn_cwmo_2010#q01|src_cn_cwmo_2010__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in Fig. 2.1, $AB$ is a diameter of a circle with center $O$. Let $C$ and $D$ be two different points on the circle on the same side of $AB$, and the lines tangent to the circle at points $C$ and $D$ meet at $F$. Lines $EF$ and $AB$ meet at $M$. Prove that $E$, $C$, $M$ and $D$ are concyclic.
 
-![[src_cn_cwmo_b11_w236__Q02.png]]
+![[src_cn_cwmo_b11_w236__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -70,9 +70,9 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella figura. 2.1, $AB$ è il diametro di un cerchio con centro $O$. Le linee tangenti al cerchio nei punti $C$ e $D$ si incontrano a $F$. Le linee $EF$ e $AB$ si incontrano a $M$. Prova che $E$, $C$, $M$ e $D$ sono conciclici.
 
-![[src_cn_cwmo_b11_w236__Q02.png]]
+![[src_cn_cwmo_b11_w236__q02.png]]
 
-[[src_cn_cwmo_2010__Q02]]
+[[Quesiti/src_cn_cwmo_2010#q02|src_cn_cwmo_2010__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: China Western Mathematical Olympiad
 
 > Determinare tutti i possibili valori del numero intero positivo $n$ in modo che ci siano $n$ diversi $k$-sottotitoli $A_1, A_2, \ldots, A_n$ dell'insieme $\{1, 2, \ldots, n\}$ con $|A_i \cap A_j| = 1$ per tutti $1 \le i < j \le n$ e $2 \le k \le 3$.
 
-[[src_cn_cwmo_2010__Q03]]
+[[Quesiti/src_cn_cwmo_2010#q03|src_cn_cwmo_2010__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: China Western Mathematical Olympiad
 > 
 > Prove che $\max_{1 \le k \le n} a_k b_k \le \dfrac{10}{n^2}$.
 
-[[src_cn_cwmo_2010__Q04]]
+[[Quesiti/src_cn_cwmo_2010#q04|src_cn_cwmo_2010__Q04]]
 
 
 
@@ -171,7 +171,7 @@ level: China Western Mathematical Olympiad
 > $k$ sia un numero intero e $k > 1$. Definire una sequenza $\{a_n\}$ come segue: $a_1 = 0$, $a_2 = 1$ e $a_{n+1} = ka_n + a_{n-1}$ per $n = 1, 2, \ldots$ Determinare, con la prova, tutti i possibili $k$ in modo che esistano integri non negativi $\ell, m$ ($\ell \ne m$) e integri positivi $p, q$ in modo che $a_\ell + ka_p = a_m + ka_q$.
 
 **Risposta:** k=2
-[[src_cn_cwmo_2010__Q05]]
+[[Quesiti/src_cn_cwmo_2010#q05|src_cn_cwmo_2010__Q05]]
 
 
 
@@ -184,7 +184,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in Fig. 6.1, $\triangle ABC$ is a right-angled triangle, $\angle C = 90^\circ$. Draw a circle centered at $B$ with radius $BC$. Let $D$ be a point on the side $AC$, and $DE$ be tangent to the circle at $E$. The line through $C$ perpendicular to $AB$ meets line $DE$ extended at point $F$. Line $AF$ meets $DE$ at point $G$. The line through $A$ parallel to $BG$ meets $DE$ (extended) at $H$. Prove that $GE = GH$.
 
-![[src_cn_cwmo_b11_w236__Q06.png]]
+![[src_cn_cwmo_b11_w236__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -200,9 +200,9 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella figura. 6.1, $\triangle ABC$ è un triangolo rettangolare, $\angle C = 90^\circ$. Disegnare un cerchio centrato a $B$ con raggio $BC$. Il $D$ deve essere un punto sul lato $AC$ e $DE$ deve essere tangente al cerchio a $E$. La linea attraverso $C$ perpendicolare a $AB$ incontra la linea $DE$ estesa al punto $F$. La linea $AF$ incontra $DE$ al punto $G$. La linea attraverso $A$ parallela a $BG$ incontra $DE$ (estesa) a $H$. Provare che $GE = GH$.
 
-![[src_cn_cwmo_b11_w236__Q06.png]]
+![[src_cn_cwmo_b11_w236__q06.png]]
 
-[[src_cn_cwmo_2010__Q06]]
+[[Quesiti/src_cn_cwmo_2010#q06|src_cn_cwmo_2010__Q06]]
 
 
 
@@ -229,4 +229,4 @@ level: China Western Mathematical Olympiad
 
 > Ci sono giocatori $n$ ($n \ge 3$) in un torneo di tennis da tavolo, in cui due giocatori hanno una partita. Il giocatore $A$ è chiamato non superato dal giocatore $B$, se almeno uno dei perdenti del giocatore $A$ non è un perdente di $B$. Determinare, con la prova, tutti i valori di $n$ in modo tale che possa verificarsi il seguente caso: dopo aver terminato tutte le partite, ogni giocatore non è superato da nessun altro giocatore.
 
-[[src_cn_cwmo_2010__Q07]]
+[[Quesiti/src_cn_cwmo_2010#q07|src_cn_cwmo_2010__Q07]]

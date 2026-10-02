@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > $p$ sia un numero primo. Per ogni numero intero $k$ con $1 \le k \le p-1$, $a_k$ è il numero di divisori di $kp+1$ che sono superiori o uguali a $k$ e inferiori a $p$. Trova il valore di $a_1 + a_2 + \cdots + a_{p-1}$.
 
-[[src_jmo26mq_honsen__Q01]]
+[[Quesiti/src_jmo26mq_honsen#q01|src_jmo26mq_honsen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Honsen
 > 
 > (Qui $UV$ indica la lunghezza del segmento $UV$.)
 
-[[src_jmo26mq_honsen__Q02]]
+[[Quesiti/src_jmo26mq_honsen#q02|src_jmo26mq_honsen__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: JMO Honsen
 > 
 > Si dice che la micro-tassazione possa continuare a tempo indeterminato nel Regno dell'OMM. Trova il valore minimo di $S$ per il quale questo è raggiungibile.
 
-[[src_jmo26mq_honsen__Q03]]
+[[Quesiti/src_jmo26mq_honsen#q03|src_jmo26mq_honsen__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: JMO Honsen
 
 > Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite su tutti i numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(yf(x) - x) = f(x)f(y) + 2x$$ si mantenga.
 
-[[src_jmo26mq_honsen__Q04]]
+[[Quesiti/src_jmo26mq_honsen#q04|src_jmo26mq_honsen__Q04]]
 
 
 
@@ -169,4 +169,4 @@ level: JMO Honsen
 > 
 > - Ogni gruppo contiene almeno una città. - Per ogni città, il numero di incidenti sulle autostrade in quella città è massimo $1$.
 
-[[src_jmo26mq_honsen__Q05]]
+[[Quesiti/src_jmo26mq_honsen#q05|src_jmo26mq_honsen__Q05]]

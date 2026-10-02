@@ -35,7 +35,7 @@ level: kangourou
 > How many minutes is half a third of a quarter of a day? A) 20         B) 30        C) 60           D) 120           E) 150
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q01]]
+[[Quesiti/src_kangourou_2005_cadet#q01|src_kangourou_2005_cadet__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: kangourou
 > The figure shows a cube with a beam of 12 cm. An ant moves on the surface of the cube from tip A to tip B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q02]]
+[[Quesiti/src_kangourou_2005_cadet#q02|src_kangourou_2005_cadet__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: kangourou
 > Anna cuts a sheet of paper into 10 pieces. Then he takes one of these pieces and cuts it back into 10 pieces and goes on like this three more times (that's a total of 5 times). How many pieces of paper do you end up with? A) 40 B) 45 C) 46 D) 47 E) 50
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q03]]
+[[Quesiti/src_kangourou_2005_cadet#q03|src_kangourou_2005_cadet__Q03]]
 
 
 
@@ -139,7 +139,7 @@ Percentage of students with bicycles and rollerblades
 > 50% of students at the Sobieski School have a bicycle. 30% of them have rollerblades. What percentage of students at the Sobieski School have both bicycles and rollerblades? A) 80% B) 40% C) 25%       D) 20%       E) 15%
 
 **Answer:** E
-[[src_kangourou_2005_cadet__Q04]]
+[[Quesiti/src_kangourou_2005_cadet#q04|src_kangourou_2005_cadet__Q04]]
 
 
 
@@ -175,7 +175,7 @@ Percentage of students with bicycles and rollerblades
 > There are eight kangaroos in the drawing boxes on the right. Find the minimum number of kangaroos that you can change the box if you want every row and column in the table to contain exactly 2 kangaroos. A) 0            B) 1           C)  2         D) 3        E) 4
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q05]]
+[[Quesiti/src_kangourou_2005_cadet#q05|src_kangourou_2005_cadet__Q05]]
 
 
 
@@ -215,7 +215,7 @@ Percentage of students with bicycles and rollerblades
 > I'm going to pay. I'm going to pay. 17 17 Kang 2005 Kang
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q06]]
+[[Quesiti/src_kangourou_2005_cadet#q06|src_kangourou_2005_cadet__Q06]]
 
 
 
@@ -251,7 +251,7 @@ Ice cream servings with three girls and two boys
 > Two girls and three boys ate a total of 16 servings of ice cream. Every boy ate twice as much as every girl. How many servings of ice cream would three girls and two boys have eaten with the same passion for ice cream? A) 12 B) 13 C) 14 D) 16 E) 17
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q07]]
+[[Quesiti/src_kangourou_2005_cadet#q07|src_kangourou_2005_cadet__Q07]]
 
 
 
@@ -291,7 +291,7 @@ Ice cream servings with three girls and two boys
 > The drawing represents the floor of a room. Adjacent walls are perpendicular to each other. The letters a and b represent the length of the walls to which they are attached. What's the floor area of the room? A) 8a + 2b B) b2 - a2 C) 3ab - a2 D) 3ab + a2 E) 3ab
 
 **Answer:** E
-[[src_kangourou_2005_cadet__Q08]]
+[[Quesiti/src_kangourou_2005_cadet#q08|src_kangourou_2005_cadet__Q08]]
 
 
 
@@ -327,7 +327,7 @@ Ice cream servings with three girls and two boys
 > The ravens that live in my garden all rose up in flight; then each ravens leaned on a different pole, except one that unfortunately found no free poles. After a while, they moved and now they're backed up on the pair of poles and one pole is free. How many poles are in my garden? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** B
-[[src_kangourou_2005_cadet__Q09]]
+[[Quesiti/src_kangourou_2005_cadet#q09|src_kangourou_2005_cadet__Q09]]
 
 
 
@@ -364,7 +364,7 @@ Maximum KANGOUROU number with increasing code *
 > The sequence of 7 letters AGKNORU (in alphabetical order) is associated with a sequence of 7 digits all different from each other, arranged in increasing order. Each chosen sequence is a code, respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? (a) 987654321 B) 987654354 C) 536478679 D) 536479879 E) 536454859 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q10]]
+[[Quesiti/src_kangourou_2005_cadet#q10|src_kangourou_2005_cadet__Q10]]
 
 
 
@@ -458,7 +458,7 @@ Maximum KANGOUROU number with increasing code *
 > I'm going to pay. I'm going to pay. 18 18 Kang 2005 Kang
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q11]]
+[[Quesiti/src_kangourou_2005_cadet#q11|src_kangourou_2005_cadet__Q11]]
 
 
 
@@ -493,7 +493,7 @@ Maximum KANGOUROU number with increasing code *
 > A group of classmates are planning a trip. If each contributed EUR 14 to travel expenses, they would receive EUR 4 less than necessary; if each contributed EUR 16, they would receive EUR 6. What must each person contribute to collect exactly the amount needed for the trip? This appropriation is intended to cover expenditure relating to:
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q12]]
+[[Quesiti/src_kangourou_2005_cadet#q12|src_kangourou_2005_cadet__Q12]]
 
 
 
@@ -562,7 +562,7 @@ Maximum KANGOUROU number with increasing code *
 > On a grid of square mesh such as the one shown in the figure, two strands are drawn connecting node A with node C and the other with node B. If AC is 3 meters long, how many meters is AB? A) 5 B) C) 13/3 D) E) another number
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q13]]
+[[Quesiti/src_kangourou_2005_cadet#q13|src_kangourou_2005_cadet__Q13]]
 
 
 
@@ -599,7 +599,7 @@ Maximum KANGOUROU number with increasing code *
 > A guard works four days straight and rests the fifth. Today is a day of rest and it is Sunday: what is the number of working days (for the keeper) that run from today to the first Sunday which will again be a day of rest for the keeper? A) 35 B) 30 C) 28 D) 24 E) 7
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q14]]
+[[Quesiti/src_kangourou_2005_cadet#q14|src_kangourou_2005_cadet__Q14]]
 
 
 
@@ -631,7 +631,7 @@ Maximum KANGOUROU number with increasing code *
 > Which of the following is not the plane development of a cube?
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q15]]
+[[Quesiti/src_kangourou_2005_cadet#q15|src_kangourou_2005_cadet__Q15]]
 
 
 
@@ -685,7 +685,7 @@ Maximum KANGOUROU number with increasing code *
 > I'm going to pay. I'm going to pay. 19 19 Kang 2005 Kang
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q16]]
+[[Quesiti/src_kangourou_2005_cadet#q16|src_kangourou_2005_cadet__Q16]]
 
 
 
@@ -726,7 +726,7 @@ Maximum KANGOUROU number with increasing code *
 > An equilateral triangle and a regular pentagon, partially overlapping, are shown in the figure; in particular, one of the sides of the triangle lies on the same straight line as one of the sides of the pentagon. What is the degree of the angle marked with x? A) 136 B) 132 C) 128 D) 124 E) more information is needed
 
 **Answer:** B
-[[src_kangourou_2005_cadet__Q17]]
+[[Quesiti/src_kangourou_2005_cadet#q17|src_kangourou_2005_cadet__Q17]]
 
 
 
@@ -761,7 +761,7 @@ Maximum KANGOUROU number with increasing code *
 > Clemente chose two integers, one three-digit and one two-digit. Their difference is 987. Which of the following numbers can be their sum? A) 1005          B) 1008 C) 1009 D) 1010 E) 1013
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q18]]
+[[Quesiti/src_kangourou_2005_cadet#q18|src_kangourou_2005_cadet__Q18]]
 
 
 
@@ -807,7 +807,7 @@ Maximum KANGOUROU number with increasing code *
 > In the figure we have a number of equal circumferences: their centers are aligned and they are two to two tangents (externally). Starting from the first circle to the left, we alternate the upper and lower semicircles with the pen until we reach the rightmost point in the last circle. What is the length of the pen track, if the number of circumferences is n and the distance between the outermost points of the first and last is d? A) dn B) πdn C) 2πdn D) πd /2 E) πd
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q19]]
+[[Quesiti/src_kangourou_2005_cadet#q19|src_kangourou_2005_cadet__Q19]]
 
 
 
@@ -846,7 +846,7 @@ Maximum KANGOUROU number with increasing code *
 > Let n be a natural number greater than 1: we call length of n the number of factors that appear in the decomposition of n as a product of prime numbers. For example, the length of the number 90=2x3x3x5 is 4. How many odd positive numbers less than 100 have length 3? A) 3 B) 4 C) 5 D) 7 E) other answer to questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q20]]
+[[Quesiti/src_kangourou_2005_cadet#q20|src_kangourou_2005_cadet__Q20]]
 
 
 
@@ -933,7 +933,7 @@ Maximum KANGOUROU number with increasing code *
 > I'm going to pay. I'm going to pay. 20 20 Kang 2005 Kang
 
 **Answer:** B
-[[src_kangourou_2005_cadet__Q21]]
+[[Quesiti/src_kangourou_2005_cadet#q21|src_kangourou_2005_cadet__Q21]]
 
 
 
@@ -968,7 +968,7 @@ Maximum KANGOUROU number with increasing code *
 > The arithmetic mean of 10 different positive integers is 10. What is the maximum value of the largest of these 10 numbers? A) 10 B) 45 C) 50 D) 55 E) 91
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q22]]
+[[Quesiti/src_kangourou_2005_cadet#q22|src_kangourou_2005_cadet__Q22]]
 
 
 
@@ -1005,7 +1005,7 @@ Maximum KANGOUROU number with increasing code *
 > There's 64 liters of wine in a barrel. Let's replace 16 liters of wine with 16 liters of water: let's say the two substances mix evenly and the volume of the mixture is the sum of the two volumes. Now we replace 16 liters of the mixture with 16 liters of water: we wait for the two substances to mix and then we repeat the operation again. In the end, how many liters of wine (obviously mixed with water) are left in the barrel? A) 30 B) 24 C) 16 D) 27 E) 48
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q23]]
+[[Quesiti/src_kangourou_2005_cadet#q23|src_kangourou_2005_cadet__Q23]]
 
 
 
@@ -1047,7 +1047,7 @@ Maximum KANGOUROU number with increasing code *
 > Five different lines pass through the same point P and two points are fixed on each of them, different from P and opposite to P: the five triangles shown in the figure are obtained by conveniently joining the ten points in question. How many degrees does the sum of the ten angles shown in the figure measure? A) 300 B) 450 C) 360 D) 600 E) 720
 
 **Answer:** E
-[[src_kangourou_2005_cadet__Q24]]
+[[Quesiti/src_kangourou_2005_cadet#q24|src_kangourou_2005_cadet__Q24]]
 
 
 
@@ -1088,7 +1088,7 @@ Maximum KANGOUROU number with increasing code *
 > Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't have? A) The number of my friends is a prime number. B) My friends are as many as my friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my friends, three are older than me.
 
 **Answer:** C
-[[src_kangourou_2005_cadet__Q25]]
+[[Quesiti/src_kangourou_2005_cadet#q25|src_kangourou_2005_cadet__Q25]]
 
 
 
@@ -1133,7 +1133,7 @@ Maximum KANGOUROU number with increasing code *
 > I'm going to pay. I'm going to pay. 21 21 Kang 2005 Kang
 
 **Answer:** A
-[[src_kangourou_2005_cadet__Q26]]
+[[Quesiti/src_kangourou_2005_cadet#q26|src_kangourou_2005_cadet__Q26]]
 
 
 
@@ -1171,7 +1171,7 @@ Maximum KANGOUROU number with increasing code *
 > The figure represents a regular hexagon on side 2 and two arcs of radius 2 with each centered on a vertex of the hexagon. What is the size (in square units) of the shaded region? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2005_cadet__Q27]]
+[[Quesiti/src_kangourou_2005_cadet#q27|src_kangourou_2005_cadet__Q27]]
 
 
 
@@ -1219,7 +1219,7 @@ Maximum KANGOUROU number with increasing code *
 > A particle moves in the quadrant illustrated in the figure with the following law. In the first minute it goes from the origin to the coordinate point (1,0). Then it continues to follow the path indicated in the figure by the arrows (forward and backward from the x-axis to the y-axis and vice versa), moving, parallel to the axes, always at the same speed: every minute it travels a unit of movement. What are the coordinates of the point reached by the particle after exactly two hours? A) (10,0) B) (1,11) C) (10,11) D) (2,10) E) (11,11)
 
 **Answer:** A
-[[src_kangourou_2005_cadet__Q28]]
+[[Quesiti/src_kangourou_2005_cadet#q28|src_kangourou_2005_cadet__Q28]]
 
 
 
@@ -1254,7 +1254,7 @@ Maximum KANGOUROU number with increasing code *
 > One of the following numbers is the result of operation 333 x 743 x 710 x 352 x 745 x 298. What kind? A) 13727978688124880 B) 13727978688124800 C) 12727978688123000 D) 12727978688124800 E) 14727978688124836
 
 **Answer:** B
-[[src_kangourou_2005_cadet__Q29]]
+[[Quesiti/src_kangourou_2005_cadet#q29|src_kangourou_2005_cadet__Q29]]
 
 
 
@@ -1321,4 +1321,4 @@ Maximum attempts for combination lock
 > Piero has a three-digit combination lock. He forgot the code, but he knows that the three digits are all different from each other and that the first is the square of the ratio of the second and third digits. How many attempts will Piero have to make to open the lock? A) 1 B) 2 C) 3 D) 4 E) 8 π −2 3 4 π + 2 3 4 π + 3 2 π − 3 2 π − 3 4 0 1 2 3 x 1 2 3 y Cadet_05_D.qxp 21/02/2005 16.10
 
 **Answer:** D
-[[src_kangourou_2005_cadet__Q30]]
+[[Quesiti/src_kangourou_2005_cadet#q30|src_kangourou_2005_cadet__Q30]]

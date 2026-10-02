@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Le monete, ciascuna con una testa (front) e una coda (back) distinguibili, sono disposte in una matrice quadrata $17 \times 17$, tutte posizionate a testa in su. In un'operazione, si lanciano contemporaneamente monete consecutive $5$ in una colonna, monete consecutive $5$ in una riga o monete consecutive $5$ lungo una diagonale. Ripetendo questa operazione un certo numero di volte, è possibile raggiungere lo stato in cui tutte le monete sono in coda?
 
-[[src_jmo15mq_honsen__Q01]]
+[[Quesiti/src_jmo15mq_honsen#q01|src_jmo15mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JMO Honsen
 
 > Lasciate che $P(x,y)$ e $Q(x,y)$ siano polinomi a due variabili con coefficienti interi, e lasciate che $a_0, b_0$ siano interi. Definire le sequenze $a_n, b_n$ da $$a_{n+1}=P(a_n,b_n), \qquad b_{n+1}=Q(a_n,b_n) \qquad (n=0,1,2,\ldots).$$ Supponiamo che $(a_1,b_1)\neq(a_0,b_0)$ ma esiste un intero positivo $k$ con $(a_k,b_k)=(a_0,b_0)$. Dimostrare che il numero di punti del piano che si trovano sul segmento i cui punti terminali sono $(a_n,b_n)$ e $(a_{n+1},b_{n+1})$ e che hanno entrambi i numeri interi $x$ e $y$ non dipende da $n$.
 
-[[src_jmo15mq_honsen__Q02]]
+[[Quesiti/src_jmo15mq_honsen#q02|src_jmo15mq_honsen__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JMO Honsen
 
 > $a,b,c$ siano numeri reali positivi che soddisfino $a+b+c=1$. Provare che $$a\sqrt[3]{1+b-c}+b\sqrt[3]{1+c-a}+c\sqrt[3]{1+a-b}\le 1.$$
 
-[[src_jmo15mq_honsen__Q03]]
+[[Quesiti/src_jmo15mq_honsen#q03|src_jmo15mq_honsen__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: JMO Honsen
 
 > $A,B$ siano due punti su un cerchio $\Gamma$. La tangente di $\Gamma$ a $A$ e la tangente di $\Gamma$ a $B$ si incontrano a un punto $X$. $C,D$ siano due punti su $\Gamma$ in modo tale che $C,D,X$ si trovi su una linea in questo ordine. Supponiamo che la linea $CA$ e la linea $BD$ si incontrino perpendicolare a un punto $F$. Il $G$ è l'intersezione di $CD$ e $AB$, e $H$ è l'intersezione del bisettore perpendicolare di $GX$ con $BD$. Provare che i quattro punti $X,F,G,H$ si trovano su un cerchio.
 
-[[src_jmo15mq_honsen__Q04]]
+[[Quesiti/src_jmo15mq_honsen#q04|src_jmo15mq_honsen__Q04]]
 
 
 
@@ -140,4 +140,4 @@ level: JMO Honsen
 
 > Ci sono $10$ subordinati e $10$ posti di lavoro. Per ogni subordinato e per ogni lavoro, due numeri reali, chiamati entusiasmo e capacità di quel subordinato per quel lavoro, sono fissati. Come capo di sezione, lei vuole assegnare esattamente un lavoro a ogni subordinato. Supponiamo che il subordinato $A$ abbia un maggiore entusiasmo per il lavoro $v$ rispetto al lavoro $u$, e inoltre $A$ abbia una maggiore capacità per il lavoro $v$ rispetto al subordinato $B$; quindi, se assegnate $u$ a $A$ e $v$ a $B$, il subordinato $A$ diventa insoddisfatto. Inoltre, se utilizzando un incarico diverso dal tuo è possibile fare in modo che ogni lavoro venga dato a una persona con una maggiore capacità per esso (come nel tuo incarico), allora sei rimproverato dal presidente dell'azienda. Dimostrare che esiste un incarico in cui nessun subordinato è insoddisfatto e che il presidente non ti rimprovera.
 
-[[src_jmo15mq_honsen__Q05]]
+[[Quesiti/src_jmo15mq_honsen#q05|src_jmo15mq_honsen__Q05]]

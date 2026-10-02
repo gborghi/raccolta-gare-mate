@@ -37,7 +37,7 @@ level: kangourou
 
 > Students themselves fill out their own answer cards: in this case, teachers may allow them to fill in the part on the identification data requested in advance.
 
-[[src_kangourou_2019_koala_preecolier__Q01]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q01|src_kangourou_2019_koala_preecolier__Q01]]
 
 
 
@@ -5767,7 +5767,7 @@ level: kangourou
 >  
 > Peter carved out a square of four cells, summed up the four numbers that appear in these four cells, and told you that he got a number greater than 63. Then he told you that at least one of the following five numbers appears in the square that he carved and asked you to guess. Which of these five numbers do you have to indicate if you want to make sure you're not wrong? 10 14 15 8 18 From the numbered grid you see below the questions from N. 17 al N. Twenty-four is worth five points.
 
-[[src_kangourou_2019_koala_preecolier__Q02]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q02|src_kangourou_2019_koala_preecolier__Q02]]
 
 
 
@@ -5817,7 +5817,7 @@ level: kangourou
 > - **(D)** Star and rope
 > - **(E)** square and circle
 
-[[src_kangourou_2019_koala_preecolier__Q03]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q03|src_kangourou_2019_koala_preecolier__Q03]]
 
 
 
@@ -5863,7 +5863,7 @@ level: kangourou
 > - **(D)** 4
 > - **(E)** 3
 
-[[src_kangourou_2019_koala_preecolier__Q04]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q04|src_kangourou_2019_koala_preecolier__Q04]]
 
 
 
@@ -5909,7 +5909,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 4
 
-[[src_kangourou_2019_koala_preecolier__Q05]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q05|src_kangourou_2019_koala_preecolier__Q05]]
 
 
 
@@ -5955,7 +5955,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 14
 > - **(E)** 13
 
-[[src_kangourou_2019_koala_preecolier__Q06]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q06|src_kangourou_2019_koala_preecolier__Q06]]
 
 
 
@@ -6001,7 +6001,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 8
 > - **(E)** 9
 
-[[src_kangourou_2019_koala_preecolier__Q07]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q07|src_kangourou_2019_koala_preecolier__Q07]]
 
 
 
@@ -6051,7 +6051,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** (Figure D)
 > - **(E)** [Figure E]
 
-[[src_kangourou_2019_koala_preecolier__Q08]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q08|src_kangourou_2019_koala_preecolier__Q08]]
 
 
 
@@ -6097,7 +6097,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 4 e 5
 > - **(E)** 3 e 5
 
-[[src_kangourou_2019_koala_preecolier__Q09]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q09|src_kangourou_2019_koala_preecolier__Q09]]
 
 
 
@@ -6143,7 +6143,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 6
 
-[[src_kangourou_2019_koala_preecolier__Q10]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q10|src_kangourou_2019_koala_preecolier__Q10]]
 
 
 
@@ -6189,7 +6189,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 5-3-2-1-4
 > - **(E)** 5-2-3-1-4
 
-[[src_kangourou_2019_koala_preecolier__Q11]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q11|src_kangourou_2019_koala_preecolier__Q11]]
 
 
 
@@ -6236,7 +6236,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 6
 
-[[src_kangourou_2019_koala_preecolier__Q12]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q12|src_kangourou_2019_koala_preecolier__Q12]]
 
 
 
@@ -6270,7 +6270,7 @@ How many floppy disks did Anna take away from the house?
 > 
 > (see figure)
 
-[[src_kangourou_2019_koala_preecolier__Q13]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q13|src_kangourou_2019_koala_preecolier__Q13]]
 
 
 
@@ -6304,7 +6304,7 @@ How many floppy disks did Anna take away from the house?
 > 
 > (see figure)
 
-[[src_kangourou_2019_koala_preecolier__Q14]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q14|src_kangourou_2019_koala_preecolier__Q14]]
 
 
 
@@ -6350,7 +6350,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 11
 > - **(E)** 12
 
-[[src_kangourou_2019_koala_preecolier__Q15]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q15|src_kangourou_2019_koala_preecolier__Q15]]
 
 
 
@@ -6396,7 +6396,7 @@ How many floppy disks did Anna take away from the house?
 > - **(D)** 5
 > - **(E)** 6
 
-[[src_kangourou_2019_koala_preecolier__Q16]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q16|src_kangourou_2019_koala_preecolier__Q16]]
 
 
 
@@ -6438,7 +6438,7 @@ Total number of animals (cow and sheep, 8 sheep remaining)
 > - **(D)** 24
 > - **(E)** 28
 
-[[src_kangourou_2019_koala_preecolier__Q17]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q17|src_kangourou_2019_koala_preecolier__Q17]]
 
 
 
@@ -6488,7 +6488,7 @@ What figure did Mauro cut into three pieces?
 > - **(D)** Rectangular
 > - **(E)** heart
 
-[[src_kangourou_2019_koala_preecolier__Q18]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q18|src_kangourou_2019_koala_preecolier__Q18]]
 
 
 
@@ -6530,7 +6530,7 @@ What figure did Mauro cut into three pieces?
 > - **(D)** 6
 > - **(E)** 7
 
-[[src_kangourou_2019_koala_preecolier__Q19]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q19|src_kangourou_2019_koala_preecolier__Q19]]
 
 
 
@@ -6572,7 +6572,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(D)** 5
 > - **(E)** 6
 
-[[src_kangourou_2019_koala_preecolier__Q20]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q20|src_kangourou_2019_koala_preecolier__Q20]]
 
 
 
@@ -6618,7 +6618,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(D)** 55 cm
 > - **(E)** 60 cm
 
-[[src_kangourou_2019_koala_preecolier__Q21]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q21|src_kangourou_2019_koala_preecolier__Q21]]
 
 
 
@@ -6660,7 +6660,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > 
 > (see figure)
 
-[[src_kangourou_2019_koala_preecolier__Q22]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q22|src_kangourou_2019_koala_preecolier__Q22]]
 
 
 
@@ -6711,7 +6711,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(D)** 15
 > - **(E)** 18
 
-[[src_kangourou_2019_koala_preecolier__Q23]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q23|src_kangourou_2019_koala_preecolier__Q23]]
 
 
 
@@ -6762,4 +6762,4 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(D)** 5
 > - **(E)** 9
 
-[[src_kangourou_2019_koala_preecolier__Q24]]
+[[Quesiti/src_kangourou_2019_koala_preecolier#q24|src_kangourou_2019_koala_preecolier__Q24]]

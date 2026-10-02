@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Prova che i cerchi $EPS$ e $EQR$ hanno lo stesso raggio.
 
-[[src_bmo2_2012__Q01]]
+[[Quesiti/src_bmo2_2012#q01|src_bmo2_2012__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > [Questi sono alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2012}{1000} \right\rfloor = 2$.]
 
-[[src_bmo2_2012__Q02]]
+[[Quesiti/src_bmo2_2012#q02|src_bmo2_2012__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > L'insieme dei numeri reali è diviso in due sottinsiemi che non si intersecano. Prove che per ogni coppia $(m, n)$ di integri positivi, ci sono numeri reali $x < y < z$ tutti nello stesso sottoinsieme in modo tale che $m(z-y) = n(y-x)$.
 
-[[src_bmo2_2012__Q03]]
+[[Quesiti/src_bmo2_2012#q03|src_bmo2_2012__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 
 > Mostrare che esiste un intero positivo $k$ con la seguente proprietà: se $a, b, c, d, e$ e $f$ sono interi e $m$ è un divisore di $$a^n + b^n + c^n - d^n - e^n - f^n$$ per tutti gli interi $n$ nell'intervallo $1 \le n \le k$, allora $m$ è un divisore di $a^n + b^n + c^n - d^n - e^n - f^n$ per tutti gli interi positivi $n$.
 
-[[src_bmo2_2012__Q04]]
+[[Quesiti/src_bmo2_2012#q04|src_bmo2_2012__Q04]]

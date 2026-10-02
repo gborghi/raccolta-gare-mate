@@ -43,7 +43,7 @@ level: kangourou
 > B) 20 C) 24 D) 28 E) 32
 
 **Answer:** C
-[[src_kangourou_2022_ecolier_semifinale__Q01]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q01|src_kangourou_2022_ecolier_semifinale__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: kangourou
 > E) 19:50
 
 **Answer:** D
-[[src_kangourou_2022_ecolier_semifinale__Q02]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q02|src_kangourou_2022_ecolier_semifinale__Q02]]
 
 
 
@@ -129,7 +129,7 @@ level: kangourou
 > B) 6 C) 7 D) 8 E) 9
 
 **Answer:** D
-[[src_kangourou_2022_ecolier_semifinale__Q03]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q03|src_kangourou_2022_ecolier_semifinale__Q03]]
 
 
 
@@ -171,7 +171,7 @@ level: kangourou
 > B) 36 C) 48 D) 66 E) 82
 
 **Answer:** D
-[[src_kangourou_2022_ecolier_semifinale__Q04]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q04|src_kangourou_2022_ecolier_semifinale__Q04]]
 
 
 
@@ -210,7 +210,7 @@ level: kangourou
 > (4 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
 
 **Answer:** D
-[[src_kangourou_2022_ecolier_semifinale__Q05]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q05|src_kangourou_2022_ecolier_semifinale__Q05]]
 
 
 
@@ -253,7 +253,7 @@ level: kangourou
 > E) The one with the 13 bucks.
 
 **Answer:** D
-[[src_kangourou_2022_ecolier_semifinale__Q06]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q06|src_kangourou_2022_ecolier_semifinale__Q06]]
 
 
 
@@ -298,7 +298,7 @@ level: kangourou
 > E) 5
 
 **Answer:** B
-[[src_kangourou_2022_ecolier_semifinale__Q07]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q07|src_kangourou_2022_ecolier_semifinale__Q07]]
 
 
 
@@ -336,7 +336,7 @@ level: kangourou
 > B) 20 C) 22 D) 60 E) 72
 
 **Answer:** C
-[[src_kangourou_2022_ecolier_semifinale__Q08]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q08|src_kangourou_2022_ecolier_semifinale__Q08]]
 
 
 
@@ -394,7 +394,7 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** A
-[[src_kangourou_2022_ecolier_semifinale__Q09]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q09|src_kangourou_2022_ecolier_semifinale__Q09]]
 
 
 
@@ -469,7 +469,7 @@ level: kangourou
 > (4 points) The figure shows the sign displayed by a beekeeper outside his shop. The sign is in the shape of a regular hexagon in which six equal cells in the shape of a regular hexagon are drawn, each of which shares 4 of its sides or with other cells or with the edges of the hexagon. If the area of each cell is 36 square centimetres, how many square centimetres is the area of the sign?
 
 **Answer:** 324
-[[src_kangourou_2022_ecolier_semifinale__Q10]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q10|src_kangourou_2022_ecolier_semifinale__Q10]]
 
 
 
@@ -499,7 +499,7 @@ level: kangourou
 > (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
 
 **Answer:** 2
-[[src_kangourou_2022_ecolier_semifinale__Q11]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q11|src_kangourou_2022_ecolier_semifinale__Q11]]
 
 
 
@@ -531,7 +531,7 @@ level: kangourou
 > (6 points) In the desert, two oases A and B are at the ends of a long straight track. A camel starts from A to B at the same time as another camel starts from B to A; the two camels travel along the track at a constant speed: one travels 4 km per hour, the other travels 2 km per hour. After an hour of meeting, the fastest camel reaches its destination. How many miles apart are the two oases?
 
 **Answer:** 12
-[[src_kangourou_2022_ecolier_semifinale__Q12]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q12|src_kangourou_2022_ecolier_semifinale__Q12]]
 
 
 
@@ -567,7 +567,7 @@ level: kangourou
 > (6 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many miles can the car go?
 
 **Answer:** 250
-[[src_kangourou_2022_ecolier_semifinale__Q13]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q13|src_kangourou_2022_ecolier_semifinale__Q13]]
 
 
 
@@ -598,7 +598,7 @@ level: kangourou
 > (8 points) Luigi used the four digits 1, 2, 3, 4 (each once) to write two two-digit numbers so that the product of those numbers is as high as possible. What number did you get as a product?
 
 **Answer:** 1312
-[[src_kangourou_2022_ecolier_semifinale__Q14]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q14|src_kangourou_2022_ecolier_semifinale__Q14]]
 
 
 
@@ -650,4 +650,4 @@ level: kangourou
 > V P
 
 **Answer:** 13
-[[src_kangourou_2022_ecolier_semifinale__Q15]]
+[[Quesiti/src_kangourou_2022_ecolier_semifinale#q15|src_kangourou_2022_ecolier_semifinale__Q15]]

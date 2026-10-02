@@ -35,7 +35,7 @@ level: kangourou
 > Consider the integers from $1$ to $25$ included. You want to pick a few so that the sum of any two of those you choose is not a multiple of $3$. How many numbers can you pick?
 
 **Answer:** 10
-[[src_kangourou_2007_junior_maggio__QJ1]]
+[[Quesiti/src_kangourou_2007_junior_maggio#qj1|src_kangourou_2007_junior_maggio__QJ1]]
 
 
 
@@ -46,7 +46,7 @@ level: kangourou
 
 *Percorso piu breve sulla superficie del cono*
 
-![[src_kangourou_2007_junior_maggio__probJ2.png]]
+![[src_kangourou_2007_junior_maggio__probj2.png]]
 
 > In un cono circolare retto il raggio del cerchio di base misura $3$ cm e la generatrice $6$ cm. Una formica vuole arrampicarsi sulla superficie laterale del cono dal punto $A$ sul cerchio di base al punto medio della generatrice opposta $BC$ (vedi figura). Quanto misura il percorso più breve che può fare la formica?
 
@@ -62,12 +62,12 @@ level: kangourou
 
 *Shorter route on the cone surface*
 
-![[src_kangourou_2007_junior_maggio__probJ2.png]]
+![[src_kangourou_2007_junior_maggio__probj2.png]]
 
 > In a straight circular cone the radius of the base circle is $3$ cm and the generator $6$ cm. An ant wants to climb the lateral surface of the cone from the $A$ point on the base circle to the middle point of the opposite generator $BC$ (see figure). What is the shortest route an ant can take?
 
 **Answer:** 3*sqrt5 cm
-[[src_kangourou_2007_junior_maggio__QJ2]]
+[[Quesiti/src_kangourou_2007_junior_maggio#qj2|src_kangourou_2007_junior_maggio__QJ2]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > The square of a 2-digit number $\overline{ab}$ ends with the same digits $\overline{ab}$. How many and what numbers have this property?
 
 **Answer:** due: 25 e 76
-[[src_kangourou_2007_junior_maggio__QJ3]]
+[[Quesiti/src_kangourou_2007_junior_maggio#qj3|src_kangourou_2007_junior_maggio__QJ3]]
 
 
 
@@ -125,7 +125,7 @@ Winning strategy in the 52 card game
 > I have $52$ cards on each of which a positive integer is indicated and the sum of all the numbers is an odd number. I play with a friend like this: after you put all the cards in a row on the table, you remove a card at one end of the row and then you move the hand to the other one who does the same thing; you iterate until there are no more cards on the table. In the end, each player adds the numbers written on the cards he has chosen; the winner is the one with the most cards. Is there a winning strategy for whoever starts the game? If yes, indicate one, if not, provide a reason.
 
 **Answer:** si
-[[src_kangourou_2007_junior_maggio__QJ4]]
+[[Quesiti/src_kangourou_2007_junior_maggio#qj4|src_kangourou_2007_junior_maggio__QJ4]]
 
 
 
@@ -136,7 +136,7 @@ Winning strategy in the 52 card game
 
 *Raggio della terza di 7 circonferenze (prog. geometrica)*
 
-![[src_kangourou_2007_junior_maggio__probJ5.png]]
+![[src_kangourou_2007_junior_maggio__probj5.png]]
 
 > Sette circonferenze poste in sequenza sono tangenti a due rette non parallele e sono tangenti esternamente la prima alla seconda, la seconda alla terza e così via. Se il raggio della più piccola è $r$ e quello della più grande è $R$, quanto vale il raggio della terza?
 
@@ -152,12 +152,12 @@ Winning strategy in the 52 card game
 
 The radius of the third of 7 radii (pro. The following table shows the results of the calculations:
 
-![[src_kangourou_2007_junior_maggio__probJ5.png]]
+![[src_kangourou_2007_junior_maggio__probj5.png]]
 
 > Seven circles arranged in sequence are tangent to two non-parallel lines and are externally tangent the first to the second, the second to the third, and so on. If the radius of the smallest is $r$ and that of the largest is $R$, what is the radius of the third?
 
 **Answer:** (R/r)^(1/3) r
-[[src_kangourou_2007_junior_maggio__QJ5]]
+[[Quesiti/src_kangourou_2007_junior_maggio#qj5|src_kangourou_2007_junior_maggio__QJ5]]
 
 
 
@@ -186,4 +186,4 @@ The radius of the third of 7 radii (pro. The following table shows the results o
 > A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets of the $\{1, 2, 3, \ldots, 10\}$ set are there?
 
 **Answer:** 504
-[[src_kangourou_2007_junior_maggio__QJ6]]
+[[Quesiti/src_kangourou_2007_junior_maggio#qj6|src_kangourou_2007_junior_maggio__QJ6]]

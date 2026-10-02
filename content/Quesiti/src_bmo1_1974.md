@@ -19,7 +19,7 @@ level: BMO Round 1
 
 > The curves $A$, $B$ and $C$ are related in such a way that $B$ "bisects" the area between $A$ and $C$, that is, the area of the region between $B$ and $C$ is equal to the area of the region $Y$ at all points to the left of the curve $B$. Find the equation of the curve $B$ given that the equation of curve $A$ is $y = \frac{4}{3}x^2$ and that the equation of curve $C$ is $y = \frac{4}{3}x^{\frac{1}{2}}$.
 
-![[src_bmo1_1974__Q01.png]]
+![[src_bmo1_1974__q01.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: BMO Round 1
 
 > Le curve $A$, $B$ e $C$ sono correlate in modo tale che $B$ "bisetti" l'area tra $A$ e $C$, cioè l'area della regione tra $B$ e $C$ è uguale all'area della regione $Y$ in tutti i punti a sinistra della curva $B$. Trova l'equazione della curva $B$ dato che l'equazione della curva $A$ è $y = \frac{4}{3}x^2$ e che l'equazione della curva $C$ è $y = \frac{4}{3}x^{\frac{1}{2}}$.
 
-![[src_bmo1_1974__Q01.png]]
+![[src_bmo1_1974__q01.png]]
 
-[[src_bmo1_1974__Q01]]
+[[Quesiti/src_bmo1_1974#q01|src_bmo1_1974__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > Un domino può essere rappresentato da una coppia di integri non ordinati. Pertanto $\begin{bmatrix} 1 \\ 3 \end{bmatrix}$ può essere rappresentato come $(1,3)$ o $(3,1)$ e il doppio $\begin{bmatrix} 2 \\ 2 \end{bmatrix}$ come $(2,2)$. L'insieme di tutti i 15 domino contenenti due enti da $1, 2, 3, 4, 5$ è diviso in tre sottinsiemi di cinque domino. I dominosi di ciascun sottoinsieme formano una catena chiusa, cioè $(a,b)(b,c)(c,d)(d,e)(e,a)$ dove $a,b,c,d,e$ non devono essere tutti diversi. Quante partizioni distinte ci sono? (L'ordine dei tre sottogruppi della partizione è irrilevante.)
 
-[[src_bmo1_1974__Q02]]
+[[Quesiti/src_bmo1_1974#q02|src_bmo1_1974__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Dimostra che è impossibile che tutti i volti di un poliedro converso siano esagoni.
 
-[[src_bmo1_1974__Q03]]
+[[Quesiti/src_bmo1_1974#q03|src_bmo1_1974__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: BMO Round 1
 
 > $M$ è una matrice $16 \times 16$. Ogni elemento nella diagonale principale e ogni elemento nella riga inferiore (cioè la sesta riga) è $1$. Ogni altro elemento della matrice è $\frac{1}{2}$. Trova l'inverso di $M$.
 
-[[src_bmo1_1974__Q04]]
+[[Quesiti/src_bmo1_1974#q04|src_bmo1_1974__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: BMO Round 1
 
 > Un accordo di bridge è definito come la distribuzione di 52 carte di gioco ordinarie tra quattro giocatori in modo che ciascuno abbia 13 carte. In un accordo di bridge, qual è la probabilità che solo un giocatore abbia un completo? (Lascia la tua risposta nei fattoriali.)
 
-[[src_bmo1_1974__Q05]]
+[[Quesiti/src_bmo1_1974#q05|src_bmo1_1974__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: BMO Round 1
 
 > $X$ e $Y$ sono i piedi delle perpendicolari da $P$ a $CA$ e $CB$ rispettivamente, dove $P$ si trova nel piano del triangolo $ABC$. $PX = PY$. La linea retta attraverso $P$, perpendicolare a $AB$, taglia $XY$ a $Z$. Provare che $CZ$ divide $AB$.
 
-[[src_bmo1_1974__Q06]]
+[[Quesiti/src_bmo1_1974#q06|src_bmo1_1974__Q06]]
 
 
 
@@ -201,7 +201,7 @@ level: BMO Round 1
 
 > Le radici dell'equazione $x^3 + bx + c = 0$ ($bc \ne 0$, $b$ e $c$ reale) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in termini di $b$ e $c$ in modo tale che $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$ e indicare una condizione che garantisca che $p$, $q$ e $r$ siano reali.
 
-[[src_bmo1_1974__Q07]]
+[[Quesiti/src_bmo1_1974#q07|src_bmo1_1974__Q07]]
 
 
 
@@ -260,7 +260,7 @@ level: BMO Round 1
 > $$(ii) \quad n \mid x^{n-1} - 1.$$
 > ($p \mid q$ means $p$ divides $q$ leaving no remainder.)
 
-[[src_bmo1_1974__Q08]]
+[[Quesiti/src_bmo1_1974#q08|src_bmo1_1974__Q08]]
 
 
 
@@ -290,7 +290,7 @@ level: BMO Round 1
 > 
 > [Puoi citare il risultato $\int (\operatorname{cosec}\, x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo desideri.]
 
-[[src_bmo1_1974__Q09]]
+[[Quesiti/src_bmo1_1974#q09|src_bmo1_1974__Q09]]
 
 
 
@@ -322,4 +322,4 @@ level: BMO Round 1
 > 
 > Poiché l'attrazione gravitazionale che un punto di massa $m$ a $P$ esercita su massa unità a $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che la magnitudine dell'attrazione gravitazionale di questo solido su massa unità a $V$ è $$\tfrac{3}{2}GM(1 + \cos\alpha) \,/\, (a^2 + ab + b^2).$$
 
-[[src_bmo1_1974__Q10]]
+[[Quesiti/src_bmo1_1974#q10|src_bmo1_1974__Q10]]

@@ -35,7 +35,7 @@ level: IMO
 
 > The Bank of Oslo issues two types of coin: aluminium (denoted A) and bronze (denoted B). Marianne has $n$ aluminium coins and $n$ bronze coins, arranged in a row in some arbitrary initial order. A **chain** is any subsequence of consecutive coins of the same type. Given a fixed positive integer $k \leqslant 2n$, Marianne repeatedly performs the following operation: she identifies the longest chain containing the $k$-th coin from the left, and moves all coins in that chain to the left end of the row. For example, if $n = 4$ and $k = 4$, the process starting from the ordering AABBBABA would be $$\text{AABBBABA} \to \text{BBBAAABA} \to \text{AAABBBBA} \to \text{BBBBAAAA} \to \text{BBBBAAAA} \to \cdots$$ Find all pairs $(n, k)$ with $1 \leqslant k \leqslant 2n$ such that for every initial ordering, at some point during the process, the leftmost $n$ coins will all be of the same type.
 
-[[src_imo_2022__Q01]]
+[[Quesiti/src_imo_2022#q01|src_imo_2022__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: IMO
 
 > Let $\mathbb{R}^+$ denotes the set of positive real numbers. Find all functions $f : \mathbb{R}^+ \to \mathbb{R}^+$ such that for each $x \in \mathbb{R}^+$, there is exactly one $y \in \mathbb{R}^+$ satisfying $$xf(y) + yf(x) \leqslant 2.$$
 
-[[src_imo_2022__Q02]]
+[[Quesiti/src_imo_2022#q02|src_imo_2022__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: IMO
 
 > Let $k$ be a positive integer and let $S$ be a finite set of odd prime numbers. Prove that there is at most one way (up to rotation and reflection) to place the elements of $S$ around a circle such that the product of any two neighbors is of the form $x^2 + x + k$ for some positive integer $x$.
 
-[[src_imo_2022__Q03]]
+[[Quesiti/src_imo_2022#q03|src_imo_2022__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: IMO
 
 > Let $ABCDE$ be a convex pentagon such that $BC = DE$. Assume that there is a point $T$ inside $ABCDE$ with $TB = TD$, $TC = TE$ and $\angle ABT = \angle TEA$. Let line $AB$ intersect lines $CD$ and $CT$ at points $P$ and $Q$, respectively. Assumes that the points $P, B, A, Q$ occur on their line in that order. Let line $AE$ intersect lines $CD$ and $DT$ at points $R$ and $S$, respectively. Assumes that the points $R, E, A, S$ occur on their line in that order. Prove that the points lie on a circle.
 
-[[src_imo_2022__Q04]]
+[[Quesiti/src_imo_2022#q04|src_imo_2022__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: IMO
 
 > Find all triples $(a, b, p)$ of positive integers with $p$ prime and $$a^p = b! + p.$$
 
-[[src_imo_2022__Q05]]
+[[Quesiti/src_imo_2022#q05|src_imo_2022__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: IMO
 > 
 > Find, as a function of $n$, the smallest possible total number of uphill paths in a Nordic square.
 
-[[src_imo_2022__Q06]]
+[[Quesiti/src_imo_2022#q06|src_imo_2022__Q06]]

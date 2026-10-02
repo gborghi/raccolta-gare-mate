@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > In the figure, $ABCDE$ is a regular pentagon and $AEF$ is an equilateral triangle. Let $P$ be a point on segment $BF$, in the interior of $ABCDE$, such that the angle $\widehat{PEA}$ measures $12^\circ$, as shown in the figure below. Find the measure, in degrees, of angle $\widehat{PAC}$.
 
-![[src_obm_2005_n3_f2__Q01.png]]
+![[src_obm_2005_n3_f2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -35,9 +35,9 @@ level: OBM Nível 3
 
 > Nella figura, $ABCDE$ è un pentagono regolare e $AEF$ è un triangolo equilaterale. Il segmento $P$ deve essere un punto sul segmento $BF$, all'interno di $ABCDE$, in modo tale che l'angolo $\widehat{PEA}$ misura $12^\circ$, come mostrato nella figura seguente. Trova la misura, in gradi, dell'angolo $\widehat{PAC}$.
 
-![[src_obm_2005_n3_f2__Q01.png]]
+![[src_obm_2005_n3_f2__q01.png]]
 
-[[src_obm_2005_n3_f2__Q01]]
+[[Quesiti/src_obm_2005_n3_f2#q01|src_obm_2005_n3_f2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 3
 
 > Che $a$ sia un intero positivo tale che $a$ sia un multiple di $5$, $a+1$ sia un multiple di $7$, $a+2$ sia un multiple di $9$, e $a+3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
 
-[[src_obm_2005_n3_f2__Q02]]
+[[Quesiti/src_obm_2005_n3_f2#q02|src_obm_2005_n3_f2__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: OBM Nível 3
 
 > A quadrangular plot of land was divided into four smaller lots by two straight lines joining the midpoints of opposite sides of the plot. The areas of three of the lots are indicated in the figure (in square meters on the map): $250$, $200$, and $210$. What is the area of the fourth lot, represented by the shaded region in the figure?
 
-![[src_obm_2005_n3_f2__Q03.png]]
+![[src_obm_2005_n3_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -93,9 +93,9 @@ level: OBM Nível 3
 
 > Un terreno quadrangolare fu diviso in quattro lotti più piccoli da due linee rette che univano i punti di mezzo di lati opposti del terreno. Le aree di tre dei lotti sono indicate nella figura (in metri quadrati sulla mappa): $250$, $200$ e $210$. Qual è l'area del quarto lotto, rappresentato dalla regione ombrata nella figura?
 
-![[src_obm_2005_n3_f2__Q03.png]]
+![[src_obm_2005_n3_f2__q03.png]]
 
-[[src_obm_2005_n3_f2__Q03]]
+[[Quesiti/src_obm_2005_n3_f2#q03|src_obm_2005_n3_f2__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: OBM Nível 3
 
 > Una funzione $f:\mathbb{R}\to\mathbb{R}$ soddisfa $f(x+f(y))=x+f(f(y))$ per tutti i numeri reali $x$ e $y$. Poiché $f(2)=8$, trovare il valore numerico di $f(2005)$.
 
-[[src_obm_2005_n3_f2__Q04]]
+[[Quesiti/src_obm_2005_n3_f2#q04|src_obm_2005_n3_f2__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível 3
 
 > Si desidera determinare un polinomio $p(x)$ con coefficienti interi positivi facendo domande della forma "Qual è il valore numerico di $p(k)$?", dove $k$ è un intero di vostra scelta. Qual è il numero minimo di domande sufficiente a garantire che il polinomio sia determinato?
 
-[[src_obm_2005_n3_f2__Q05]]
+[[Quesiti/src_obm_2005_n3_f2#q05|src_obm_2005_n3_f2__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: OBM Nível 3
 
 > Determinare tutte le coppie di integri $(x,\,y)$ in modo tale che $9xy - x^2 - 8y^2 = 2005$.
 
-[[src_obm_2005_n3_f2__Q06]]
+[[Quesiti/src_obm_2005_n3_f2#q06|src_obm_2005_n3_f2__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: OBM Nível 3
 
 > Un prisma è retto e ha un triangolo equilaterale come base. Un piano taglia il prisma ma non taglia nessuna delle sue basi, determinando una sezione trasversale triangolare con lati $a$, $b$ e $c$. Trova il lato della base del prisma come funzione di $a$, $b$ e $c$.
 
-[[src_obm_2005_n3_f2__Q07]]
+[[Quesiti/src_obm_2005_n3_f2#q07|src_obm_2005_n3_f2__Q07]]
 
 
 
@@ -230,7 +230,7 @@ Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
 
 > In un campionato di calcio, ogni vittoria vale tre punti, ogni pareggio vale un punto e ogni sconfitta vale zero punti. È noto che il Flamengo non ha subito alcuna sconfitta e ha finito con $20$ punti, ma il numero di partite giocate è sconosciuto. Rappresentando una vittoria da $V$, un pareggio da $E$ e una sconfitta da $D$, due possibilità sono $(V,\,E,\,V,\,E,\,V)$ e $(E,\,V,\,V,\,V,\,E,\,V)$. Quante sequenze ordinate di risultati ha ottenuto Flamengo?
 
-[[src_obm_2005_n3_f2__Q08]]
+[[Quesiti/src_obm_2005_n3_f2#q08|src_obm_2005_n3_f2__Q08]]
 
 
 
@@ -261,4 +261,4 @@ Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
 > 
 > In passato, gli ex olimpici Terence Tao (Australia, oro all'IMO 1988) e Ben Green (Regno Unito, argento all'IMO 1994) hanno dimostrato che esistono progressioni aritmetiche arbitrariamente lunghe con tutti i termini prim. Questa domanda risale al diciottesimo secolo e appare nella ricerca di Lagrange e Waring.
 
-[[src_obm_2005_n3_f2__Q09]]
+[[Quesiti/src_obm_2005_n3_f2#q09|src_obm_2005_n3_f2__Q09]]

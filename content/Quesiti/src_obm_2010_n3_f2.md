@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Che $N$ sia il numero intero positivo più piccolo in modo tale che moltiplicando $N$ per $3$ si ottiene un numero il cui numero è uguale a $7$. Determinare la somma delle cifre di $N$.
 
-[[src_obm_2010_n3_f2__Q01]]
+[[Quesiti/src_obm_2010_n3_f2#q01|src_obm_2010_n3_f2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 3
 
 > $r$ e $s$ siano numeri interi. Supponiamo che l'equazione del secondo grado $$x^2 - (r+s)x + rs + 2010 = 0$$ abbia due soluzioni integrali. Quanti valori possibili ha $|r - s|$?
 
-[[src_obm_2010_n3_f2__Q02]]
+[[Quesiti/src_obm_2010_n3_f2#q02|src_obm_2010_n3_f2__Q02]]
 
 
 
@@ -75,7 +75,7 @@ level: OBM Nível 3
 
 > In the figure below, three circles drawn in continuous trace are all tangent to both lines $r$ and $s$ passing through points $A$, $B$, $C$, $D$. Moreover, the smaller circle is also tangent to $AD$, the larger circle is also tangent to $BC$, and the inscribed circle in the quadrilateral $ABCD$ is also tangent to $AD$. The radii of the two external circles tangent to the quadrilateral $ABCD$ are $8$ and $18$. Calculate the radius $R$ of the circle inscribed in $ABCD$.
 
-![[src_obm_2010_n3_f2__Q03.png]]
+![[src_obm_2010_n3_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -91,9 +91,9 @@ level: OBM Nível 3
 
 > Nella figura seguente, tre cerchi tracciati in traccia continua sono tutti tangenti alle due linee $r$ e $s$ che attraversano i punti $A$, $B$, $C$, $D$. Inoltre, il cerchio più piccolo è anche tangente a $AD$, il cerchio più grande è anche tangente a $BC$, e il cerchio inserito nel quadrilaterale $ABCD$ è anche tangente a $AD$. I radii dei due cerchi esterni tangenti al quadrilaterale $ABCD$ sono $8$ e $18$. Calcolare il raggio $R$ del cerchio inserito in $ABCD$.
 
-![[src_obm_2010_n3_f2__Q03.png]]
+![[src_obm_2010_n3_f2__q03.png]]
 
-[[src_obm_2010_n3_f2__Q03]]
+[[Quesiti/src_obm_2010_n3_f2#q03|src_obm_2010_n3_f2__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 3
 
 > Ciascuna delle otto celle di un rettangolo di colonna $2$ riga, $4$ è dipinta con uno dei tre colori. Una colonna si chiama \emph{cut} se le sue due celle sono dello stesso colore. In quanti modi è possibile dipingere il rettangolo in modo che ci sia esattamente un solo taglio?
 
-[[src_obm_2010_n3_f2__Q04]]
+[[Quesiti/src_obm_2010_n3_f2#q04|src_obm_2010_n3_f2__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível 3
 
 > Calcolo $$\frac{(2^4+2^2+1)(4^4+4^2+1)(6^4+6^2+1)\cdots(32^4+32^2+1)}{(1^4+1^2+1)(3^4+3^2+1)(5^4+5^2+1)\cdots(31^4+31^2+1)}.$$
 
-[[src_obm_2010_n3_f2__Q05]]
+[[Quesiti/src_obm_2010_n3_f2#q05|src_obm_2010_n3_f2__Q05]]
 
 
 
@@ -175,7 +175,7 @@ level: OBM Nível 3
 
 > I bisettori di angolo interno $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano al punto $I$. Supponiamo che $AI = BC$ e $m(\angle ICA) = 2\,m(\angle IAC)$. Determinare la misura dell'angolo $\angle ABC$.
 
-[[src_obm_2010_n3_f2__Q06]]
+[[Quesiti/src_obm_2010_n3_f2#q06|src_obm_2010_n3_f2__Q06]]
 
 
 
@@ -202,7 +202,7 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 
 > A Diamantino piace giocare a calcio, ma se gioca due giorni di fila, gli fanno male i muscoli. In quanti modi può Diamantino scegliere quale di dieci giorni giocherà a calcio in modo che dopo aver giocato non abbia dolore muscolare? (Un modo è non giocare a calcio in nessuno dei giorni.)
 
-[[src_obm_2010_n3_f2__Q07]]
+[[Quesiti/src_obm_2010_n3_f2#q07|src_obm_2010_n3_f2__Q07]]
 
 
 
@@ -231,7 +231,7 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 
 > Risolvere il sistema $$\begin{cases} x + y + z = 77 \\ xy + yz + 2x + xyz = 946 \end{cases}$$ dove $x \le y \le z$ sono integri non negativi.
 
-[[src_obm_2010_n3_f2__Q08]]
+[[Quesiti/src_obm_2010_n3_f2#q08|src_obm_2010_n3_f2__Q08]]
 
 
 
@@ -248,7 +248,7 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 > 
 > \emph{Observation}: When hitting the sides, the ball undergoes a perfect reflection, that is, the angle of incidence equals the angle of reflection. Also assume that the ball is a point.
 
-![[src_obm_2010_n3_f2__Q09.png]]
+![[src_obm_2010_n3_f2__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
@@ -268,6 +268,6 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 > 
 > \emph{Osservazione}: Quando la palla colpisce i lati, subisce una perfetta riflessione, cioè l'angolo di incidenza è uguale all'angolo di riflessione. Supponiamo anche che la palla sia un punto.
 
-![[src_obm_2010_n3_f2__Q09.png]]
+![[src_obm_2010_n3_f2__q09.png]]
 
-[[src_obm_2010_n3_f2__Q09]]
+[[Quesiti/src_obm_2010_n3_f2#q09|src_obm_2010_n3_f2__Q09]]

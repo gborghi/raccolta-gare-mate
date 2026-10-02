@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > $p$ è la funzione *potenza* di interi positivi, definita da $p(1)=1$ e $p(n+1)=p(n)$ se $n+1$ è una potenza perfetta, e $p(n+1)=(n+1)\cdot p(n)$ altrimenti. Un intero positivo $n$ è un *potenza perfetta* se esistono integri $a,b\ge 2$ tali da $n=a^b$. Esiste un intero positivo $N$ tale da $p(n)>2^n$ per tutti $n>N$? Prova la tua risposta.
 
-[[src_obm_2023_nu_fx__Q01]]
+[[Quesiti/src_obm_2023_nu_fx#q01|src_obm_2023_nu_fx__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível Universitário
 > 
 > b) Prove che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n\binom{2n}{n}} = \frac{1}{3} + \frac{2\pi\sqrt{3}}{27}$.
 
-[[src_obm_2023_nu_fx__Q02]]
+[[Quesiti/src_obm_2023_nu_fx#q02|src_obm_2023_nu_fx__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: OBM Nível Universitário
 
 > Prove che esiste una costante $C>0$ tale che, per qualsiasi numero intero $m,n$ con $n\ge 2m>1$ e qualsiasi numero reale $x>1$, $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(\frac{m^2 - \sqrt[m]{x}}{\log x} + n\right).$$
 
-[[src_obm_2023_nu_fx__Q03]]
+[[Quesiti/src_obm_2023_nu_fx#q03|src_obm_2023_nu_fx__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: OBM Nível Universitário
 
 > $M_2(\mathbb{Z})$ sia l'insieme di matrici $2\times 2$ con voci interi. Il $A\in M_2(\mathbb{Z})$ deve essere tale che $$A^2+5I=0,$$, dove $I\in M_2(\mathbb{Z})$ e $0\in M_2(\mathbb{Z})$ indichino rispettivamente le matrici di identità e zero. Prova che esiste una matrice invertibile $C\in M_2(\mathbb{Z})$ con $C^{-1}\in M_2(\mathbb{Z})$ tale che $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
 
-[[src_obm_2023_nu_fx__Q04]]
+[[Quesiti/src_obm_2023_nu_fx#q04|src_obm_2023_nu_fx__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: OBM Nível Universitário
 
 > Un cavaliere ubriaco si muove su una tavola infinita i cui quadrati sono etichettati con coppie $(a,b)\in\mathbb{Z}^2$. A ciascuna mossa, le 8 possibilità $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$ sono ugualmente probabili. Sapendo che il cavaliere inizia a $(0,0)$, calcola la probabilità che dopo $2023$ si muova sia a un quadrato $(a,b)$ con $a\equiv 4\pmod{8}$ e $b\equiv 5\pmod{8}$.
 
-[[src_obm_2023_nu_fx__Q05]]
+[[Quesiti/src_obm_2023_nu_fx#q05|src_obm_2023_nu_fx__Q05]]
 
 
 
@@ -183,4 +183,4 @@ level: OBM Nível Universitário
 
 > Determinare tutte le coppie $(c,d)\in\mathbb{R}^2$ di costanti reali in modo tale che esista una sequenza $(a_n)_{n\ge 1}$ di numeri reali positivi che soddisfi, per tutte $n\ge 1$, $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
 
-[[src_obm_2023_nu_fx__Q06]]
+[[Quesiti/src_obm_2023_nu_fx#q06|src_obm_2023_nu_fx__Q06]]

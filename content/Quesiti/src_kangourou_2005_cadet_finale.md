@@ -34,7 +34,7 @@ level: kangourou
 > Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of two sheets per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
 
 **Answer:** 120
-[[src_kangourou_2005_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2005_cadet_finale#qc1|src_kangourou_2005_cadet_finale__QC1]]
 
 
 
@@ -63,7 +63,7 @@ Greek cross on chessboard 7x7 negative total sum*
 > Consider a chessboard $7 \times 7$ and call a Greek cross each configuration of 5 of its cross-arranged boxes so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). You can have 49 integers, not necessarily all of them equal to each other, on the 49 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive?
 
 **Answer:** Si
-[[src_kangourou_2005_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2005_cadet_finale#qc2|src_kangourou_2005_cadet_finale__QC2]]
 
 
 
@@ -74,7 +74,7 @@ Greek cross on chessboard 7x7 negative total sum*
 
 *Area rettangolo ombreggiato in triangolo rettangolo*
 
-![[src_kangourou_2005_cadet_finale__probC3.png]]
+![[src_kangourou_2005_cadet_finale__probc3.png]]
 
 ```tikz
 \begin{document}
@@ -105,7 +105,7 @@ Greek cross on chessboard 7x7 negative total sum*
 
 *Shaded rectangular area in rectangular triangle*
 
-![[src_kangourou_2005_cadet_finale__probC3.png]]
+![[src_kangourou_2005_cadet_finale__probc3.png]]
 
 ```tikz
 \begin{document}
@@ -125,7 +125,7 @@ Greek cross on chessboard 7x7 negative total sum*
 > Look at the figure. The $ABC$ triangle is rectangular and the point $P$ is $1$ cm away from both the $AB$ catheter, which is $8$ cm long, and the $BC$ hypotenuse, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
 
 **Answer:** 5 cm2
-[[src_kangourou_2005_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2005_cadet_finale#qc3|src_kangourou_2005_cadet_finale__QC3]]
 
 
 
@@ -136,7 +136,7 @@ Greek cross on chessboard 7x7 negative total sum*
 
 *Prossima eclissi di due pianeti in rotazione*
 
-![[src_kangourou_2005_cadet_finale__probC4.png]]
+![[src_kangourou_2005_cadet_finale__probc4.png]]
 
 > Kang è una stella immaginaria che possiede due pianeti: Enigma e Math. Essi si muovono in uno stesso piano, descrivendo ciascuno un'orbita circolare centrata in Kang con velocità angolare costante, ma diversa l'uno dall'altro. Infatti Enigma, il più lontano, ruota attorno a Kang in senso orario in 7 giorni, mentre Math impiega 5 giorni, ruotando in senso antiorario. In questo istante si può osservare un'eclissi di Enigma da parte di Math (osserva la figura). Tra quanto tempo si verificherà la prossima eclissi? (vedi figura)
 
@@ -153,12 +153,12 @@ Greek cross on chessboard 7x7 negative total sum*
 
 Next eclipse of two rotating planets
 
-![[src_kangourou_2005_cadet_finale__probC4.png]]
+![[src_kangourou_2005_cadet_finale__probc4.png]]
 
 > Kang is an imaginary star that owns two planets: Enigma and Math. They move in the same plane, each describing a circular orbit centered in Kang with constant angular velocity, but different from each other. In fact, Enigma, the furthest, rotates around Kang clockwise in 7 days, while Math takes 5 days, rotating counterclockwise. At this moment an eclipse of Enigma by Math can be observed (see figure). How long before the next eclipse occurs? (see figure)
 
 **Answer:** 3 giorni meno 2 ore
-[[src_kangourou_2005_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2005_cadet_finale#qc4|src_kangourou_2005_cadet_finale__QC4]]
 
 
 
@@ -189,7 +189,7 @@ Next eclipse of two rotating planets
 > If $x$ and $y$ are two strictly positive integers such that $$x + y + xy = 90,$$ is obtained, what are the possible values of the sum $x + y$?
 
 **Answer:** uno, 18
-[[src_kangourou_2005_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2005_cadet_finale#qc5|src_kangourou_2005_cadet_finale__QC5]]
 
 
 
@@ -224,4 +224,4 @@ Next eclipse of two rotating planets
 > It determines, through these indications, how many finalists predict the fortune teller for that memorable edition of Kangourou.
 
 **Answer:** 3435
-[[src_kangourou_2005_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2005_cadet_finale#qc6|src_kangourou_2005_cadet_finale__QC6]]

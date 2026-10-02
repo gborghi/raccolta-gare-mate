@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Il primo termine $x_1$ di una sequenza è $2014$. Ogni termine successivo della sequenza è definito in termini di termine precedente. La formula iterativa è $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$ Trova il $2015$th termine $x_{2015}$.
 
-[[src_bmo_2014-15_round2__Q01]]
+[[Quesiti/src_bmo_2014-15_round2#q01|src_bmo_2014-15_round2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 2
 > 
 > b) Esistono un numero strano di classi che contengono più ragazzi che ragazze.
 
-[[src_bmo_2014-15_round2__Q02]]
+[[Quesiti/src_bmo_2014-15_round2#q02|src_bmo_2014-15_round2__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: BMO Round 2
 > 
 > L'incentro di un triangolo è il centro del cerchio unico che si trova all'interno del triangolo e tocca tutti e tre i lati. Un locus è la raccolta di tutti i punti che soddisfano una determinata condizione.
 
-[[src_bmo_2014-15_round2__Q03]]
+[[Quesiti/src_bmo_2014-15_round2#q03|src_bmo_2014-15_round2__Q03]]
 
 
 
@@ -144,4 +144,4 @@ level: BMO Round 2
 > 
 > Esiste un ciclo $100$?
 
-[[src_bmo_2014-15_round2__Q04]]
+[[Quesiti/src_bmo_2014-15_round2#q04|src_bmo_2014-15_round2__Q04]]

@@ -34,7 +34,7 @@ level: JJMO
 
 > Calcolare quanto segue: $$39 \times 37 + 41 \times 82 + 43 \times 80 + 45 \times 39$$
 
-[[src_jjmo4q__Q01]]
+[[Quesiti/src_jjmo4q#q01|src_jjmo4q__Q01]]
 
 
 
@@ -47,7 +47,7 @@ level: JJMO
 
 > In the figure below, $ABCD$ is a rectangle with $AB = 4$ and $BC = 5$, and points are marked at equal spacing on each side. Find the area of quadrilateral $PQRS$.
 
-![[src_jjmo4q__Q02.png]]
+![[src_jjmo4q__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -63,9 +63,9 @@ level: JJMO
 
 > Nella figura seguente, $ABCD$ è un rettangolo con $AB = 4$ e $BC = 5$, e i punti sono contrassegnati a pari distanza su ciascun lato. Trova l'area del quadrilaterale $PQRS$.
 
-![[src_jjmo4q__Q02.png]]
+![[src_jjmo4q__q02.png]]
 
-[[src_jjmo4q__Q02]]
+[[Quesiti/src_jjmo4q#q02|src_jjmo4q__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: JJMO
 
 > Tra le frazioni il cui numeratore e il cui denominatore sono entrambi numeri interi e la cui somma è $109$, $$\frac{108}{1},\ \frac{107}{2},\ \frac{106}{3},\ \ldots,\ \frac{3}{106},\ \frac{2}{107},\ \frac{1}{108}$$ trova quella che è più vicina a $1$. Qui, "più vicino a $1$" significa quello la cui differenza assoluta da $1$ è minore.
 
-[[src_jjmo4q__Q03]]
+[[Quesiti/src_jjmo4q#q03|src_jjmo4q__Q03]]
 
 
 
@@ -107,7 +107,7 @@ level: JJMO
 
 > Points $D$, $E$, $F$ are the points where the incircle of triangle $ABC$ touches the sides $AB$, $BC$, $CA$ respectively. Given that $\angle BAC = 70^\circ$, find $\angle DEF$.
 
-![[src_jjmo4q__Q04.png]]
+![[src_jjmo4q__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -123,9 +123,9 @@ level: JJMO
 
 > I punti $D$, $E$ e $F$ sono i punti in cui l'incircolo del triangolo $ABC$ tocca rispettivamente i lati $AB$, $BC$ e $CA$. Dato che $\angle BAC = 70^\circ$, trovare $\angle DEF$.
 
-![[src_jjmo4q__Q04.png]]
+![[src_jjmo4q__q04.png]]
 
-[[src_jjmo4q__Q04]]
+[[Quesiti/src_jjmo4q#q04|src_jjmo4q__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: JJMO
 
 > C'è una griglia $8 \times 8$. Su alcune celle, le monete sono posizionate sia a faccia alta che a faccia bassa, soddisfacendo le seguenti condizioni: \begin{itemize} \item Se una cella contiene una moneta a faccia alta, allora nessuna altra cella nella stessa riga contiene una moneta a faccia alta. \item Se una cella contiene una moneta rivolta verso il basso, allora nessuna altra cella nella stessa colonna contiene una moneta rivolta verso il basso. Qual è il numero massimo di monete che si possono mettere sulla griglia?
 
-[[src_jjmo4q__Q05]]
+[[Quesiti/src_jjmo4q#q05|src_jjmo4q__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: JJMO
 > 
 > Now, when the centroids of adjacent faces of a regular octahedron are connected by edges, a cube is formed. Find the volume of this cube as a fraction of the volume of the original regular octahedron.
 
-![[src_jjmo4q__Q06.png]]
+![[src_jjmo4q__q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -190,9 +190,9 @@ level: JJMO
 > 
 > Ora, quando i centroidi delle facce adiacenti di un ottaedro regolare sono collegati da bordi, si forma un cubo. Trova il volume di questo cubo come una frazione del volume dell'ottoedro regolare originale.
 
-![[src_jjmo4q__Q06.png]]
+![[src_jjmo4q__q06.png]]
 
-[[src_jjmo4q__Q06]]
+[[Quesiti/src_jjmo4q#q06|src_jjmo4q__Q06]]
 
 
 
@@ -219,7 +219,7 @@ level: JJMO
 
 > Ci sono carte $20$ numerate $1, 2, \ldots, 10$, ciascuna delle quali appare esattamente su carte $2$ (tutte le carte sono blu). Da queste carte $20$ vengono scelte le carte $3$. Trova il numero di modi per scegliere le carte $3$ in modo tale che la somma dei numeri scritti su di esse sia uguale a $16$. Nota: le carte con lo stesso numero sono considerate distinguibili (cioè le due carte con lo stesso numero sono considerate diverse).
 
-[[src_jjmo4q__Q07]]
+[[Quesiti/src_jjmo4q#q07|src_jjmo4q__Q07]]
 
 
 
@@ -246,7 +246,7 @@ level: JJMO
 
 > Tra i set di tre integri positivi reciprocamente coprimi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali set con la somma più piccola possibile dei tre numeri. Qui, le serie $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerate uguali, mentre $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono anche uguali.
 
-[[src_jjmo4q__Q08]]
+[[Quesiti/src_jjmo4q#q08|src_jjmo4q__Q08]]
 
 
 
@@ -273,7 +273,7 @@ level: JJMO
 
 > Se i numeri $x$, $y$, $z$ sono interamente integri positivi coprimi di due cifre ciascuno. La decima cifra di $x \cdot z$ equivale alla decima cifra di $x$, e la decima cifra di $y \cdot z$ equivale alla decima cifra di $y$, e la decima cifra di $x \cdot z$ equivale alla decima cifra di $y \cdot z$. Quanti sono tali tripli $(x, y, z)$?
 
-[[src_jjmo4q__Q09]]
+[[Quesiti/src_jjmo4q#q09|src_jjmo4q__Q09]]
 
 
 
@@ -306,7 +306,7 @@ level: JJMO
 > 
 > (2) Trova tutte le coppie di integri $(x, y)$ che soddisfano $(*)$.
 
-[[src_jjmo4q__Q10]]
+[[Quesiti/src_jjmo4q#q10|src_jjmo4q__Q10]]
 
 
 
@@ -337,7 +337,7 @@ level: JJMO
 > 
 > (2) Nella situazione di (1), se i tre colori sono blu, giallo, rosso e verde (quattro colori in totale), quanti colori ci sono?
 
-[[src_jjmo4q__Q11]]
+[[Quesiti/src_jjmo4q#q11|src_jjmo4q__Q11]]
 
 
 
@@ -362,7 +362,7 @@ level: JJMO
 > 
 > (2) For good pairs $(m, n)$ with $m, n \le 10$, find the number of such pairs. Note that $(9, 6)$ and $(6, 9)$ are counted as different pairs.
 
-![[src_jjmo4q__Q12.png]]
+![[src_jjmo4q__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
@@ -390,6 +390,6 @@ level: JJMO
 > 
 > (2) Per le buone coppie $(m, n)$ con $m, n \le 10$, indicare il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
 
-![[src_jjmo4q__Q12.png]]
+![[src_jjmo4q__q12.png]]
 
-[[src_jjmo4q__Q12]]
+[[Quesiti/src_jjmo4q#q12|src_jjmo4q__Q12]]

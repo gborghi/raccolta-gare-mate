@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Determinare tutti i triples $(x, y, z)$ dei numeri razionali positivi in modo tale che $x + y + z$, $\frac{1}{x} + \frac{1}{y} + \frac{1}{z}$ e $xyz$ siano tutti integrali.
 
-[[src_pol_1994_r3__Q01]]
+[[Quesiti/src_pol_1994_r3#q01|src_pol_1994_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Si devono indicare due linee parallele $k$ e $l$ e un cerchio non incrociato $k$. Due tangenti da un punto variabile $A \in k$ al cerchio intersecano la linea $l$ a $B$ e $C$. $m$ è la linea che attraversa $A$ e il punto medio di $BC$. Prova che tutte le linee $m$ (come $A$ varia) hanno un punto comune.
 
-[[src_pol_1994_r3__Q02]]
+[[Quesiti/src_pol_1994_r3#q02|src_pol_1994_r3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 3
 
 > Data un numero intero fisso $c \ge 1$, $a(n)$ è il numero di mappamenti $w$ dai sottogruppi di $\{1, 2, \ldots, n\}$ ai numeri interi $1, 2, \ldots, c$ in modo tale che $$w(A \cap B) = \min\{w(A), w(B)\} \quad \text{for any two subsets } A, B \text{ of } \{1, \ldots, n\}.$$ Computa $\lim_{n \to \infty} \sqrt[n]{a(n)}$.
 
-[[src_pol_1994_r3__Q03]]
+[[Quesiti/src_pol_1994_r3#q03|src_pol_1994_r3__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: Olimpiade Polacca Round 3
 
 > Ci sono stati dati tre recipienti senza scala: due di essi di capacità $m$ e $n$ litri sono vuoti, e il terzo di capacità $m + n$ litri è pieno di acqua, dove $m$ e $n$ sono integri positivi copriemi. Prove che per qualsiasi $k = 1, 2, \ldots, m + n - 1$, che scorre da un recipiente all'altro, possiamo ottenere esattamente $k$ litri di acqua nel terzo recipiente.
 
-[[src_pol_1994_r3__Q04]]
+[[Quesiti/src_pol_1994_r3#q04|src_pol_1994_r3__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 3
 
 > Si deve $O$ essere il centro di un parallelo $A_1 A_2 \cdots A_8$. Provare che $$4 \sum_{i=1}^{8} OA_i^2 \le \left( \sum_{i=1}^{8} OA_i \right)^2.$$
 
-[[src_pol_1994_r3__Q05]]
+[[Quesiti/src_pol_1994_r3#q05|src_pol_1994_r3__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: Olimpiade Polacca Round 3
 
 > $x_1, x_2, \ldots, x_n$ ($n \ge 4$) siano diversi numeri reali che soddisfano le condizioni $\sum_{i=1}^{n} x_i = 0$ e $\sum_{i=1}^{n} x_i^2 = 1$. Mostrare che esistono quattro di questi numeri, diciamo $a, b, c, d$, in modo che $$a + b + c + nabc \le \sum_{i=1}^{n} x_i^3 \le a + b + d + nabd.$$
 
-[[src_pol_1994_r3__Q06]]
+[[Quesiti/src_pol_1994_r3#q06|src_pol_1994_r3__Q06]]

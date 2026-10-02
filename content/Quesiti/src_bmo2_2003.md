@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Per ogni numero intero $n > 1$, $p(n)$ indica il più grande fattore primo di $n$. Determinare che tutti i triples $x, y, z$ di numeri interi positivi distinti che soddisfano i) $x, y, z$ sono in progressione aritmetica e ii) $p(xyz) \le 3$.
 
-[[src_bmo2_2003__Q01]]
+[[Quesiti/src_bmo2_2003#q01|src_bmo2_2003__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Che $ABC$ sia un triangolo e che $D$ sia un punto su $AB$ tale che $4AD = AB$. La semillinea $\ell$ è disegnata sullo stesso lato di $AB$ come di $C$, partendo da $D$, formando un angolo $\theta$ con $DA$ dove $\theta = \angle ACB$. Se la circoncirca di $ABC$ incontra la metà della linea $\ell$ a $P$, indicare che $PB = 2PD$.
 
-[[src_bmo2_2003__Q02]]
+[[Quesiti/src_bmo2_2003#q02|src_bmo2_2003__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 2
 
 > Che $f : \mathbb{N} \to \mathbb{N}$ sia una bijezione dall'insieme di integri positivi $\mathbb{N}$ a se stesso. (i) Mostra che esiste una progressione aritmetica di enti interi positivi $a, a+d, a+2d, \ldots$ ($d > 0$) tale che $f(a), f(a+d), f(a+2d), \ldots$ sia anche una progressione aritmetica. (ii) Esiste una bijezione $f$ che mappa ogni progressione aritmetica a una progressione aritmetica? Quante funzioni $f$ esistono?
 
-[[src_bmo2_2003__Q03]]
+[[Quesiti/src_bmo2_2003#q03|src_bmo2_2003__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Lasciate che $f$ sia una funzione dall'insieme di integri non negativi a se stessa. (i) $\bigl(f\bigl(\tfrac{1}{2}(f(n)+1)\bigr) - 1\bigr)^2 = \bigl(f(n)\bigr)^2$ per tutti i $n \ge 0$ e $f(0) = 0$, $f(1) = 1$. (ii) Quante funzioni di questo tipo esistono?
 
-[[src_bmo2_2003__Q04]]
+[[Quesiti/src_bmo2_2003#q04|src_bmo2_2003__Q04]]

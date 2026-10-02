@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > I numeri interi positivi $x_1, x_2, \ldots, x_7$ soddisfano $x_{n+3} = x_{n+2}(x_{n+1} + x_n)$ per $n = 1, 2, 3, 4$. Se $x_6 = 144$, trovare $x_7$.
 
-[[src_pol_1997_r3__Q01]]
+[[Quesiti/src_pol_1997_r3#q01|src_pol_1997_r3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano $$3(x^2 + y^2 + z^2) = 1,$$ $$x^2 y^2 + y^2 z^2 + z^2 x^2 = xyz(x + y + z)^3.$$
 
-[[src_pol_1997_r3__Q02]]
+[[Quesiti/src_pol_1997_r3#q02|src_pol_1997_r3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 3
 
 > I media delle facce $ABD, ACD, BCD$ di un tetraedro $ABCD$ prelevati da $D$ fanno angoli uguali ai bordi a cui sono stati portati. Prova che la superficie di ciascuna faccia $ABD, ACD, BCD$ è inferiore alla somma delle aree delle altre due.
 
-[[src_pol_1997_r3__Q03]]
+[[Quesiti/src_pol_1997_r3#q03|src_pol_1997_r3__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: Olimpiade Polacca Round 3
 
 > Considera la sequenza data da $a_1 = 0$ e $a_n = a_{\lfloor n/2 \rfloor} + (-1)^{\frac{n(n+1)}{2}}$ per $n > 1$. Per ogni numero intero $k \geq 0$, trovare il numero di indici $n$ con $2^k \leq n < 2^{k+1}$ tale che $a_n = 0$.
 
-[[src_pol_1997_r3__Q04]]
+[[Quesiti/src_pol_1997_r3#q04|src_pol_1997_r3__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 3
 
 > Si dà un pentagono convexo $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Il segmento $AB$ deve contenere un punto $F$ in modo tale che $AF : BF = AE : BC$. Provare che $$\angle FCE = \angle ADE \quad \text{and} \quad \angle FEC = \angle BDC.$$
 
-[[src_pol_1997_r3__Q05]]
+[[Quesiti/src_pol_1997_r3#q05|src_pol_1997_r3__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 3
 
 > Si devono dare $n$ punti distinti su un cerchio di raggio $1$. Il $q$ è il numero dei segmenti con punti terminali nei punti dati la cui lunghezza è superiore a $\sqrt{2}$. Prove che $3q \leq n^2$.
 
-[[src_pol_1997_r3__Q06]]
+[[Quesiti/src_pol_1997_r3#q06|src_pol_1997_r3__Q06]]

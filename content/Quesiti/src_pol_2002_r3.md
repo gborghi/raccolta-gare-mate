@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 3
 
 > Determinare tutti gli integri positivi $a, b$ in modo tale che i numeri $a^2 + 1$ e $b^2 + 1$ siano primi e la seguente uguaglianza $$(a^2 + 1)(b^2 + 1) = (a^2 - 1)(b^2 - 1) + r^2 + 1$$ sia valida.
 
-[[src_pol_2002_r3__Q01]]
+[[Quesiti/src_pol_2002_r3#q01|src_pol_2002_r3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 > All'esterno di un triangolo $ABC$ sono costruiti due rettangoli $ACPQ$ e $BKLC$. Supponendo che le superfici di questi rettangoli siano uguali, dimostrare che il punto medio del segmento $PL$, il punto $C$ e il centro circundante del triangolo $ABC$ sono collineari.
 
-[[src_pol_2002_r3__Q02]]
+[[Quesiti/src_pol_2002_r3#q02|src_pol_2002_r3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 3
 
 > Su una lavagna sono scritte tre numeri interi non negativi. Di questi numeri due $k, m$ sono scelti e sostituiti dai numeri $k + m$ e $|k - m|$. Il terzo numero rimane invariato. Con questi tre nuovi numeri procedono in modo simile. L'obiettivo è quello di ottenere almeno due numeri uguali a $0$. Scopri se è possibile.
 
-[[src_pol_2002_r3__Q03]]
+[[Quesiti/src_pol_2002_r3#q03|src_pol_2002_r3__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: Olimpiade Polacca Round 3
 
 > Prove che per tutti i numeri interi positivi $n \ge 3$ e per tutti i numeri reali positivi $r_1, r_2, \ldots, r_n$ si trova la seguente catena di disuguaglianze $$\sum_{k=1}^{n} \frac{1}{r_{k+1} + r_{k+2}} \ge \frac{n}{\displaystyle\sum_{k=1}^{n} r_k}$$ (dove $r_{n+1} = r_1,\ r_{n+2} = r_2,\ r_{n+3} = r_3,\ r_{n+4} = r_4$).
 
-[[src_pol_2002_r3__Q04]]
+[[Quesiti/src_pol_2002_r3#q04|src_pol_2002_r3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: Olimpiade Polacca Round 3
 
 > Sono indicate una sfera $s$ e un piano $\pi$. Sul piano $\pi$ sono indicati tre punti non collineari $A, B, C$. Attraverso ciascuno di questi punti viene costruita una linea tangente a $s$. I punti di contatto di queste linee con $s$ sono indicati rispettivamente da $K, L, M$. Un punto $P$ si trova su $s$ e soddisfa $$\frac{AK}{AP} = \frac{BL}{BP} = \frac{CM}{CP}.$$ Prove che la circosfera della piramide $ABCP$ è tangente a $s$.
 
-[[src_pol_2002_r3__Q05]]
+[[Quesiti/src_pol_2002_r3#q05|src_pol_2002_r3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: Olimpiade Polacca Round 3
 
 > Si dà un intero positivo $k$. La sequenza $(a_n)$ è definita da $$a_1 = k + 1, \quad a_{n+1} = a_n^2 - 4a_n + 1 \quad \text{for } n \ge 1.$$ Mostra che per $m \ne n$ i numeri $a_m, a_n$ sono relativamente primi.
 
-[[src_pol_2002_r3__Q06]]
+[[Quesiti/src_pol_2002_r3#q06|src_pol_2002_r3__Q06]]

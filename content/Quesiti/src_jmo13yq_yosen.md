@@ -35,7 +35,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 > Utilizzando le monete di 1 yen, 5 yen, 10 yen, 50 yen, 100 yen e 500 yen, pagate esattamente $777$ yen in modo che il numero totale di monete pagate sia il più piccolo possibile. Trova questo numero totale minimo di monete. È possibile utilizzare qualsiasi numero di monete di ciascuna denominazione; non è necessario utilizzare tutte le monete. Potete anche ricevere cambiamenti (cioè potete pagare in eccesso e ricevere la differenza).
 
 **Risposta:** 6
-[[src_jmo13yq_yosen__Q01]]
+[[Quesiti/src_jmo13yq_yosen#q01|src_jmo13yq_yosen__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Trova il numero intero positivo più piccolo $n$ in modo tale che le ultime tre cifre di $2003n$ (cioè il rimanente quando $2003n$ è diviso da $1000$) siano uguali $113$.
 
-[[src_jmo13yq_yosen__Q02]]
+[[Quesiti/src_jmo13yq_yosen#q02|src_jmo13yq_yosen__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Che $p$ sia un primo e $m$ un intero positivo. Supponiamo che le cifre $m$ $a_{m-1}, a_{m-2}, \ldots, a_0$ nella base $p$ ( ciascuna soddisfa $0 \le a_i \le p - 1$) soddisfino $$\begin{cases} a_{m-1}\,p^{m-1} + a_{m-2}\,p^{m-2} + \cdots + a_0 = 2003, \\ a_{m-1} + a_{m-2} + \cdots + a_0 = 15. \end{cases}$$ Trovare tutte le prime $p$ per le quali tali cifre esistono.
 
-[[src_jmo13yq_yosen__Q03]]
+[[Quesiti/src_jmo13yq_yosen#q03|src_jmo13yq_yosen__Q03]]
 
 
 
@@ -120,7 +120,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Tre numeri reali $x, y, z$ soddisfano $$\begin{cases} x + y + z = 0, \\ x^2 + y^2 + z^2 = 3, \\ x^5 + y^5 + z^5 = 15. \end{cases}$$ Trova il valore di $x^3 + y^3 + z^3$.
 
-[[src_jmo13yq_yosen__Q04]]
+[[Quesiti/src_jmo13yq_yosen#q04|src_jmo13yq_yosen__Q04]]
 
 
 
@@ -147,7 +147,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Nel parallelo $ABCD$, $BC = 7$, $CA = 8$, $AB = 5$. $E$ deve essere il punto in cui il bisettore angolare di $\angle BAC$ incontra il lato $BC$. La condizione $BE + BC = BD$ è valida. Trova il valore di $\dfrac{BD}{BC}$. (Per i punti $X, Y$, la notazione $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jmo13yq_yosen__Q05]]
+[[Quesiti/src_jmo13yq_yosen#q05|src_jmo13yq_yosen__Q05]]
 
 
 
@@ -174,7 +174,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Trova il numero intero più piccolo $n \ge 2$ in modo che gli enti $1, 2, \ldots, n$ possano essere disposti in una riga in modo che il prodotto di ogni coppia di numeri interi adiacenti sia un quadrato perfetto.
 
-[[src_jmo13yq_yosen__Q06]]
+[[Quesiti/src_jmo13yq_yosen#q06|src_jmo13yq_yosen__Q06]]
 
 
 
@@ -201,7 +201,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Sono presenti $9$ colligatori: $3$ rosso, $3$ blu e $3$ giallo. Conteggi il numero di modi per posizionare le prese $9$ in posizioni spaziate ugualmente intorno a una tavola circolare. Due dispositivi sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione. Tuttavia, una disposizione e la sua immagine speculare (cioè la disposizione vista dopo aver invertito la direzione di rotazione) sono considerati come due disposizioni distinte.
 
-[[src_jmo13yq_yosen__Q07]]
+[[Quesiti/src_jmo13yq_yosen#q07|src_jmo13yq_yosen__Q07]]
 
 
 
@@ -228,7 +228,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Per un intero positivo $n$, definire la seguente operazione: se $n$ è pari, sostituire $n$ con $n + 1$; se $n$ è pari, sostituire $n$ con $n/2$. A partire da un numero intero $m \ge 2$, applicare questa operazione ripetutamente fino a quando il valore diventa prima $1$; $k$ indichi il numero di operazioni richieste. Per esempio, a partire da $m = 10$: $10 \to 5 \to 6 \to 3 \to 4 \to 2 \to 1$, quindi $k = 6$. Tra tutti gli integri $m$ con $2 \le m \le 2003$, trovare tutti i valori di $m$ per i quali $k$ è più grande.
 
-[[src_jmo13yq_yosen__Q08]]
+[[Quesiti/src_jmo13yq_yosen#q08|src_jmo13yq_yosen__Q08]]
 
 
 
@@ -255,7 +255,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Nel triangolo $ABC$ con $BC = 7$, $CA = 8$, $AB = 5$, $P$, $Q$, $R$ siano punti sui segmenti $BC$, $CA$ e $AB$ rispettivamente, nessuno in un vertice, con $\angle QPR = 60^\circ$. Poiché $Q$ e $R$ variano in base a queste condizioni, trovare il valore minimo di $QR$. (Per i punti $X, Y$, la notazione $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jmo13yq_yosen__Q09]]
+[[Quesiti/src_jmo13yq_yosen#q09|src_jmo13yq_yosen__Q09]]
 
 
 
@@ -282,7 +282,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Ci sono persone $8$. Tra le $3$, almeno $2$ hanno una buona relazione tra loro. Tra i $4$ di essi, almeno $2$ hanno una cattiva relazione tra loro. Trova tutti i valori possibili per il numero di coppie di persone che hanno una cattiva relazione.
 
-[[src_jmo13yq_yosen__Q10]]
+[[Quesiti/src_jmo13yq_yosen#q10|src_jmo13yq_yosen__Q10]]
 
 
 
@@ -309,7 +309,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Tra tutti i piani che passano almeno $3$ delle vertici $12$ di un icosahedro regolare, quanti passano esattamente $3$ vertici (cioè non contengono $4$ o più vertici)?
 
-[[src_jmo13yq_yosen__Q11]]
+[[Quesiti/src_jmo13yq_yosen#q11|src_jmo13yq_yosen__Q11]]
 
 
 
@@ -338,4 +338,4 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 
 > Un polinomio $f(x)$ con coefficienti interi ha grado almeno $1$. Esistono anche polinomi a coefficiente intero $g(x)$ e $h(x)$, ciascuno di grado almeno $1$, in modo tale che $$\bigl(f(x)\bigr)^3 - 2 = g(x)\,h(x).$$ tra tutti tali polinomi $f(x)$, trovi quello di grado più piccolo.
 
-[[src_jmo13yq_yosen__Q12]]
+[[Quesiti/src_jmo13yq_yosen#q12|src_jmo13yq_yosen__Q12]]

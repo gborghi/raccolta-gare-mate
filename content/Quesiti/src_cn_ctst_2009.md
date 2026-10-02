@@ -19,7 +19,7 @@ level: China National Team Selection Test
 
 > Let $D$ be a point on side $BC$ of triangle $ABC$ such that $\angle CAD = \angle CBA$. A circle with center $O$ passes through $B$, $D$, and meets segments $AB$, $AD$ at $E$, $F$, respectively. Lines $BF$ and $DE$ meet at point $G$. $M$ is the midpoint of $AG$. Prove that $CM \perp AO$.
 
-![[src_cn_ctst_2009__Q01.png]]
+![[src_cn_ctst_2009__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -35,9 +35,9 @@ level: China National Team Selection Test
 
 > Il punto $D$ deve essere un punto sul lato $BC$ del triangolo $ABC$ tale che $\angle CAD = \angle CBA$. Un cerchio con centro $O$ passa attraverso $B$, $D$ e incontra segmenti $AB$, $AD$ rispettivamente a $E$ e $F$. Le linee $BF$ e $DE$ si incontrano al punto $G$. $M$ è il punto medio di $AG$. Prova che $CM \perp AO$.
 
-![[src_cn_ctst_2009__Q01.png]]
+![[src_cn_ctst_2009__q01.png]]
 
-[[src_cn_ctst_2009__Q01]]
+[[Quesiti/src_cn_ctst_2009#q01|src_cn_ctst_2009__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: China National Team Selection Test
 > Con un numero intero $n \geq 2$, trovare il più grande $\lambda(n)$ con la seguente proprietà: se una sequenza di numeri reali $a_0, a_1, a_2, \ldots, a_n$ soddisfa $$0 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n,$$ $$a_i \geq \frac{1}{2}(a_{i+1} + a_{i-1}), \quad i = 1, 2, \ldots, n-1,$$, allora $$\left(\sum_{i=1}^{n} a_i\right)^2 \geq \lambda(n) \sum_{i=1}^{n} a_i^2.$$
 
 **Risposta:** \frac{n(n+1)^2}{4}
-[[src_cn_ctst_2009__Q02]]
+[[Quesiti/src_cn_ctst_2009#q02|src_cn_ctst_2009__Q02]]
 
 
 
@@ -97,7 +97,7 @@ Numero di n con p n! - 1 by cp^(2/3)*
 
 > Prova che per qualsiasi numero primo impar $p$, il numero di integri positivi $n$ soddisfa $p \mid n! - 1$ non è superiore a $cp^{\frac{2}{3}}$, dove $c$ è una costante indipendente da $p$. (Posato da Yu Hongbing)
 
-[[src_cn_ctst_2009__Q03]]
+[[Quesiti/src_cn_ctst_2009#q03|src_cn_ctst_2009__Q03]]
 
 
 
@@ -124,7 +124,7 @@ Numero di n con p n! - 1 by cp^(2/3)*
 
 > $a$, $b$ siano numeri reali positivi con $b - a \geq 2$. Prove che per due interi distinti $m$, $n$ nell'intervallo $(a, b)$, esiste un insieme non vuoto $S$ costituito da alcuni interi nell'intervallo $[ab, (a+1)(b+1)]$, e che $\frac{\prod_{s \in S} s}{mn(m+n+1)^2}$ è un quadrato di un numero razionale. (Posato da Yu Hongbing)
 
-[[src_cn_ctst_2009__Q04]]
+[[Quesiti/src_cn_ctst_2009#q04|src_cn_ctst_2009__Q04]]
 
 
 
@@ -159,7 +159,7 @@ Numero di n con p n! - 1 by cp^(2/3)*
 > Trova il valore minimo possibile di $M = \max_{j} \sum_{i=1}^{m} a_{ij}$.
 
 **Risposta:** $(2l+1)m - l^2$ where $l = \lfloor (n-1)/2 \rfloor$
-[[src_cn_ctst_2009__Q05]]
+[[Quesiti/src_cn_ctst_2009#q05|src_cn_ctst_2009__Q05]]
 
 
 
@@ -186,4 +186,4 @@ Numero di n con p n! - 1 by cp^(2/3)*
 
 > Prove che in una progressione aritmetica composta da $40$ diversi interi positivi, almeno uno dei numeri non può essere scritto come $2^k + 3^l$, dove $k$, $l$ sono interi non negativi. (Posato da Chen Yonggao)
 
-[[src_cn_ctst_2009__Q06]]
+[[Quesiti/src_cn_ctst_2009#q06|src_cn_ctst_2009__Q06]]

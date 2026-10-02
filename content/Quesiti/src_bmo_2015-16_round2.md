@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > I cerchi di raggio $r_1$, $r_2$ e $r_3$ si toccano esternamente e hanno anche una tangente comune rispettivamente nei punti $A$, $B$ e $C$, dove $B$ si trova tra $A$ e $C$. Prove che $16r_1r_3(r_1+r_2+r_3) \ge 9r_2(r_1+r_3)^2$.
 
-[[src_bmo_2015-16_round2__Q01]]
+[[Quesiti/src_bmo_2015-16_round2#q01|src_bmo_2015-16_round2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 
 > Alison ha una borsa di 20 squadre di hockey, ordinate per quanto le pare buone. Sceglierà tre squadre da elencare, e poi sceglierà di dirgli quale pensa di essere la squadra più forte delle tre, o quale pensa di essere la squadra più debole delle tre. Benjamin può farlo quante volte vuole. Determinare il più grande $N$ in modo che Benjamin possa sempre trovare una sequenza $T_1, T_2, \ldots, T_N$ di squadre con la proprietà che sa che $T_1$ è migliore di $T_2$, $T_2$ è migliore di $T_3$, $\ldots$, e $T_{N-1}$ è migliore di $T_N$, per ogni $1 \le i < N$.
 
-[[src_bmo_2015-16_round2__Q02]]
+[[Quesiti/src_bmo_2015-16_round2#q02|src_bmo_2015-16_round2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 
 > Che il $ABCD$ sia un quadrilaterale ciclico. Le diagonali $AC$ e $BD$ si incontrano a $Q$. Le linee $AB$ e $CD$ prodotte si incontrano a $P$. Prove che se $PQ$ è perpendicolare a $AC$, allora $PQ$ è perpendicolare a $BD$.
 
-[[src_bmo_2015-16_round2__Q03]]
+[[Quesiti/src_bmo_2015-16_round2#q03|src_bmo_2015-16_round2__Q03]]
 
 
 
@@ -114,4 +114,4 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 
 > Supponiamo che $p$ sia un numero primo e che ci siano interi positivi $a$ e $b$ tali che $p^2 = a^3 + b^2$. Dimostrare che esistono integri positivi $u$ e $v$ come $p = u^2 + v^3$ e $a = u^2$, $b = v^3$.
 
-[[src_bmo_2015-16_round2__Q04]]
+[[Quesiti/src_bmo_2015-16_round2#q04|src_bmo_2015-16_round2__Q04]]

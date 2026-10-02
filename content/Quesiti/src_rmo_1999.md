@@ -33,7 +33,7 @@ level: RMO
 
 > Prove che l'inradio di un triangolo rettangolo con lati interi è un intero.
 
-[[src_rmo_1999__Q01]]
+[[Quesiti/src_rmo_1999#q01|src_rmo_1999__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Trova il numero di interi positivi che dividono $10^{999}$ ma non $10^{998}$.
 
-[[src_rmo_1999__Q02]]
+[[Quesiti/src_rmo_1999#q02|src_rmo_1999__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Il $ABCD$ deve essere quadrato e $M, N$ punti sui lati $AB, BC$, rispettivamente, in modo tale che $\angle MDN = 45^\circ$. Se $R$ è il punto medio di $MN$, indicare che $RP = RQ$ dove $P, Q$ sono i punti di intersezione di $AC$ con le linee $MD, ND$.
 
-[[src_rmo_1999__Q03]]
+[[Quesiti/src_rmo_1999#q03|src_rmo_1999__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: RMO
 
 > Se $p, q, r$ sono le radici dell'equazione cubica $x^3 - 3px^2 + 3q^2x - r^3 = 0$, indicare che $p = q = r$.
 
-[[src_rmo_1999__Q04]]
+[[Quesiti/src_rmo_1999#q04|src_rmo_1999__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: RMO
 
 > Se $a, b, c$ sono i lati di un triangolo dimostrano la seguente disuguaglianza: $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
 
-[[src_rmo_1999__Q05]]
+[[Quesiti/src_rmo_1999#q05|src_rmo_1999__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: RMO
 
 > Trova tutte le soluzioni in numeri interi $m, n$ dell'equazione $$(m-n)^2 = \frac{4mn}{m+n-1}.$$
 
-[[src_rmo_1999__Q06]]
+[[Quesiti/src_rmo_1999#q06|src_rmo_1999__Q06]]
 
 
 
@@ -200,4 +200,4 @@ level: RMO
 
 > Trova il numero di polinomi quadratici, $ax^2 + bx + c$, che soddisfano le seguenti condizioni: (a) $a, b, c$ sono distinti; (b) $a, b, c \in \{1, 2, 3, \ldots 1999\}$ e (c) $x + 1$ dividono $ax^2 + bx + c$.
 
-[[src_rmo_1999__Q07]]
+[[Quesiti/src_rmo_1999#q07|src_rmo_1999__Q07]]

@@ -33,7 +33,7 @@ level: JMO Yosen
 
 > Ci sono quattro diversi numeri interi positivi a una cifra. Trova il valore più grande che può essere preso dal loro più piccolo comune multiple.
 
-[[src_jmo18yq_yosen__Q01]]
+[[Quesiti/src_jmo18yq_yosen#q01|src_jmo18yq_yosen__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: JMO Yosen
 \end{tikzpicture}
 ```
 
-[[src_jmo18yq_yosen__Q02]]
+[[Quesiti/src_jmo18yq_yosen#q02|src_jmo18yq_yosen__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: JMO Yosen
 
 > Taro va a fare acquisti con una banconota $1000$-yen, una moneta $100$-yen, una moneta $10$-yen e una moneta $1$-yen (una di ciascuna), e le usa tutte e quattro per effettuare il pagamento per un singolo articolo. Quanti valori possibili può assumere il prezzo dell'oggetto? Qui si suppone che, tra i modi di pagamento con cui Taro consegna i soldi e il cambio che riceve non abbiano alcuna denominazione in comune, egli ne scelga una in modo che il numero di monete che detiene dopo aver ricevuto il cambio sia il più piccolo possibile. Inoltre, la variazione viene data utilizzando il minor numero possibile di pezzi, e la variazione può essere $0$ yen.
 
-[[src_jmo18yq_yosen__Q03]]
+[[Quesiti/src_jmo18yq_yosen#q03|src_jmo18yq_yosen__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: JMO Yosen
 
 > Trova tutti gli enti positivi in modo tale che la somma di quelli dei loro divisori positivi il cui rimanente dopo la divisione per $4$ non è $2$ è uguale a $1000$.
 
-[[src_jmo18yq_yosen__Q04]]
+[[Quesiti/src_jmo18yq_yosen#q04|src_jmo18yq_yosen__Q04]]
 
 
 
@@ -171,7 +171,7 @@ level: JMO Yosen
 
 > Cinque carte con i numeri $2, 3, 4, 5, 6$ (un numero per carta, cinque carte in totale) sono disposte in fila a caso. Trova la probabilità che, per ogni $i = 1, 2, 3, 4, 5$, il numero scritto sulla carta $i$-da sinistra sia almeno $i$.
 
-[[src_jmo18yq_yosen__Q05]]
+[[Quesiti/src_jmo18yq_yosen#q05|src_jmo18yq_yosen__Q05]]
 
 
 
@@ -204,7 +204,7 @@ level: JMO Yosen
 
 > Per un intero positivo $n$, scrivere la sua rappresentazione decimale come $n_{(10)}$. I numeri interi positivi $a, b, c$ separati in coppia soddisfano tutte le seguenti condizioni: \begin{itemize} \item $c_{(10)}$ coincide con il numero ottenuto da $a_{(10)}$ eliminando una cifra $6$. Il punto $c_{(10)}$ coincide con il numero ottenuto da $b_{(10)}$ eliminando una cifra $6$. \item $a$ e $b$ hanno lo stesso numero di cifre, e $a$ è un multiple di $b$. \end{itemize} Trova il minimo possibile valore di $c$.
 
-[[src_jmo18yq_yosen__Q06]]
+[[Quesiti/src_jmo18yq_yosen#q06|src_jmo18yq_yosen__Q06]]
 
 
 
@@ -231,7 +231,7 @@ level: JMO Yosen
 
 > Quanti valori sono possibili complessivamente per le prime tre cifre (il primo blocco a tre cifre) di un quadrato perfetto a sei cifre?
 
-[[src_jmo18yq_yosen__Q07]]
+[[Quesiti/src_jmo18yq_yosen#q07|src_jmo18yq_yosen__Q07]]
 
 
 
@@ -260,7 +260,7 @@ level: JMO Yosen
 
 > Otto monete sono disposte in fila, tutte rivolte a testa in su. Noi facciamo ripetutamente quanto segue: scegliamo uniformemente una moneta a caso tra quelle che soddisfano la condizione di seguito, e la voltiamo. Condizione: la moneta scelta non ha monete a destra, o non ha monete a sinistra. Continueremo questa operazione finché non ci sarà una moneta che soddisfi la condizione. Trova il numero atteso di monete che sono rivolte verso l'alto in quel momento.
 
-[[src_jmo18yq_yosen__Q08]]
+[[Quesiti/src_jmo18yq_yosen#q08|src_jmo18yq_yosen__Q08]]
 
 
 
@@ -287,7 +287,7 @@ level: JMO Yosen
 
 > Ci sono $2008$ numeri reali $x_1, x_2, \ldots, x_{2008}$ con $|x_1| = 999$, e per ogni numero intero $n$ con $2 \le n \le 2008$ la relazione $|x_n| = |x_{n-1} + 1|$ mantiene. Trova il minimo valore possibile di $x_1 + x_2 + \cdots + x_{2008}$.
 
-[[src_jmo18yq_yosen__Q09]]
+[[Quesiti/src_jmo18yq_yosen#q09|src_jmo18yq_yosen__Q09]]
 
 
 
@@ -314,7 +314,7 @@ level: JMO Yosen
 
 > I ragazzi e le ragazze si riuniscono per fare uno scambio presente. Ogni ragazzo prepara un bouquet e ogni ragazza prepara un cioccolato come regalo, e tutti si siedono su sedie disposte in cerchio, tutte rivolte verso l'interno. Ripetono poi l'azione "ogni persona trasmette contemporaneamente il regalo che tiene alla persona di sua destra immediata" un certo numero di volte, dopo di che succede che ogni ragazzo tiene un cioccolato e ogni ragazza tiene un bouquet. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
 
-[[src_jmo18yq_yosen__Q10]]
+[[Quesiti/src_jmo18yq_yosen#q10|src_jmo18yq_yosen__Q10]]
 
 
 
@@ -341,7 +341,7 @@ level: JMO Yosen
 
 > Un quadrilaterale converso $ABCD$ soddisfa $AB = BC = 2$, $CD = 2\sqrt{3}$, $DA = 2\sqrt{5}$. Inoltre, lasciando che $M$ e $N$ siano i punti medi di $AC$ e $BD$ rispettivamente, abbiamo $MN = \sqrt{2}$. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo18yq_yosen__Q11]]
+[[Quesiti/src_jmo18yq_yosen#q11|src_jmo18yq_yosen__Q11]]
 
 
 
@@ -368,4 +368,4 @@ level: JMO Yosen
 
 > Un tuple di integri positivi $(n, a_1, a_2, \ldots, a_n)$ soddisfa $a_1 + a_2 + \cdots + a_n = 2008$. Impostando $A_k = a_1 a_2 \cdots a_k$, si trova il valore più grande possibile di $A_1 + A_2 + \cdots + A_n$.
 
-[[src_jmo18yq_yosen__Q12]]
+[[Quesiti/src_jmo18yq_yosen#q12|src_jmo18yq_yosen__Q12]]

@@ -36,7 +36,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri $x$, $y$ e $z$ in modo tale che $$x^2 + y^2 + z^2 = x + y + 1$$ e $$x + y + z = 4018.$$
 
-[[src_bmo1_2010__Q01]]
+[[Quesiti/src_bmo1_2010#q01|src_bmo1_2010__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: BMO Round 1
 
 > I punti $A$, $B$, $C$, $D$ e $E$ si trovano, in tale ordine, su un cerchio e le linee $AB$ e $ED$ sono parallele. La linea attraverso $D$ parallela a $AC$ incontra $BE$ a $F$. Prova che $BC = DF$.
 
-[[src_bmo1_2010__Q02]]
+[[Quesiti/src_bmo1_2010#q02|src_bmo1_2010__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 1
 
 > Isaac prova tutte e sei le domande su un articolo di Olimpiade in ordine. Ogni domanda è contrassegnata su una scala da $0$ a $10$. In una domanda successiva non ottiene mai più punteggi che in una domanda precedente. Quante diverse possibili sequenze di sei segni ci sono?
 
-[[src_bmo1_2010__Q03]]
+[[Quesiti/src_bmo1_2010#q03|src_bmo1_2010__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: BMO Round 1
 
 > Due cerchi, di radii diversi, con centri a $B$ e $C$, che si toccano esternamente a $A$. Un tangente comune, non attraverso $A$, tocca il primo cerchio a $D$ e il secondo a $E$. La linea che attraversa $A$ perpendicolare a $DE$ incontra $BC$ a $F$. Prova che $BC = 2AF$.
 
-[[src_bmo1_2010__Q04]]
+[[Quesiti/src_bmo1_2010#q04|src_bmo1_2010__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: BMO Round 1
 
 > Trovare tutte le funzioni $f$, definite sui numeri reali e assumendo valori reali, che soddisfano $f(x)f(y) = f(x+y) + f(x-y)$ per tutti i numeri reali $x$ e $y$.
 
-[[src_bmo1_2010__Q05]]
+[[Quesiti/src_bmo1_2010#q05|src_bmo1_2010__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: BMO Round 1
 
 > Il lunghissimo John Silverman ha catturato una mappa del tesoro di Adam McBones. Adamo ha sepolto il tesoro al punto $(x, y)$ con coordinate interi (non necessariamente positive). Ha indicato sulla mappa i valori di $x^2 + y$ e $x + y^2$, e questi valori sono entrambi numeri interi. Dimostra che Long John deve scavare in un solo posto per trovare il tesoro.
 
-[[src_bmo1_2010__Q06]]
+[[Quesiti/src_bmo1_2010#q06|src_bmo1_2010__Q06]]

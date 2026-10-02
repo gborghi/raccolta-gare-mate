@@ -34,7 +34,7 @@ level: kangourou
 > year N: in the following 4 years, days are added according to the scheme: 1+1+1+2,
 
 **Answer:** 0317
-[[src_kangourou_2019_junior_finale__Q01]]
+[[Quesiti/src_kangourou_2019_junior_finale#q01|src_kangourou_2019_junior_finale__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: kangourou
 > year N + 1: in the following 4 years days are added according to the scheme: 2+1+1+1,
 
 **Answer:** 0076
-[[src_kangourou_2019_junior_finale__Q02]]
+[[Quesiti/src_kangourou_2019_junior_finale#q02|src_kangourou_2019_junior_finale__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: kangourou
 > year N + 2: in the following 4 years days are added according to the scheme: 1+2+1+1,
 
 **Answer:** 9376
-[[src_kangourou_2019_junior_finale__Q03]]
+[[Quesiti/src_kangourou_2019_junior_finale#q03|src_kangourou_2019_junior_finale__Q03]]
 
 
 
@@ -155,7 +155,7 @@ The probability that Giulio will total the first two wins.
 > Answer: For all of us.
 
 **Answer:** 2027
-[[src_kangourou_2019_junior_finale__Q04]]
+[[Quesiti/src_kangourou_2019_junior_finale#q04|src_kangourou_2019_junior_finale__Q04]]
 
 
 
@@ -196,7 +196,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** 10
 
 **Answer:** 9990
-[[src_kangourou_2019_junior_finale__Q05]]
+[[Quesiti/src_kangourou_2019_junior_finale#q05|src_kangourou_2019_junior_finale__Q05]]
 
 
 
@@ -237,7 +237,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** 33
 
 **Answer:** 0056
-[[src_kangourou_2019_junior_finale__Q06]]
+[[Quesiti/src_kangourou_2019_junior_finale#q06|src_kangourou_2019_junior_finale__Q06]]
 
 
 
@@ -277,7 +277,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** - None of them. (see figure)
 
 **Answer:** 0010
-[[src_kangourou_2019_junior_finale__Q07]]
+[[Quesiti/src_kangourou_2019_junior_finale#q07|src_kangourou_2019_junior_finale__Q07]]
 
 
 
@@ -318,7 +318,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** (see Figure E) (see Figure)
 
 **Answer:** 4035
-[[src_kangourou_2019_junior_finale__Q08]]
+[[Quesiti/src_kangourou_2019_junior_finale#q08|src_kangourou_2019_junior_finale__Q08]]
 
 
 
@@ -358,7 +358,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** $1$
 
 **Answer:** 1622
-[[src_kangourou_2019_junior_finale__Q09]]
+[[Quesiti/src_kangourou_2019_junior_finale#q09|src_kangourou_2019_junior_finale__Q09]]
 
 
 
@@ -399,7 +399,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** None of the previous ones. (see figure)
 
 **Answer:** 0050
-[[src_kangourou_2019_junior_finale__Q10]]
+[[Quesiti/src_kangourou_2019_junior_finale#q10|src_kangourou_2019_junior_finale__Q10]]
 
 
 
@@ -439,7 +439,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** 150
 
 **Answer:** 0119
-[[src_kangourou_2019_junior_finale__Q11]]
+[[Quesiti/src_kangourou_2019_junior_finale#q11|src_kangourou_2019_junior_finale__Q11]]
 
 
 
@@ -480,7 +480,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** $\dfrac{25}{72}$
 
 **Answer:** 9999
-[[src_kangourou_2019_junior_finale__Q12]]
+[[Quesiti/src_kangourou_2019_junior_finale#q12|src_kangourou_2019_junior_finale__Q12]]
 
 
 
@@ -521,7 +521,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** 60
 
 **Answer:** 2664
-[[src_kangourou_2019_junior_finale__Q14]]
+[[Quesiti/src_kangourou_2019_junior_finale#q14|src_kangourou_2019_junior_finale__Q14]]
 
 
 
@@ -562,7 +562,7 @@ The probability that Giulio will total the first two wins.
 > - **(E)** 48 (see figure)
 
 **Answer:** 2880
-[[src_kangourou_2019_junior_finale__Q15]]
+[[Quesiti/src_kangourou_2019_junior_finale#q15|src_kangourou_2019_junior_finale__Q15]]
 
 
 
@@ -591,7 +591,7 @@ The probability that Giulio will total the first two wins.
 > Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why? Why?
 
 **Answer:** 35
-[[src_kangourou_2019_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2019_junior_finale#qj1|src_kangourou_2019_junior_finale__QJ1]]
 
 
 
@@ -620,7 +620,7 @@ The probability that Giulio will total the first two wins.
 > Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
 
 **Answer:** 35
-[[src_kangourou_2019_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2019_junior_finale#qj2|src_kangourou_2019_junior_finale__QJ2]]
 
 
 
@@ -646,7 +646,7 @@ The probability that Giulio will total the first two wins.
 
 > Bruno and Carlo practice three sports: soccer, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also provides for the reduction of rest days to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
 
-[[src_kangourou_2019_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2019_junior_finale#qj3|src_kangourou_2019_junior_finale__QJ3]]
 
 
 
@@ -675,7 +675,7 @@ The probability that Giulio will total the first two wins.
 > 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but split (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period for which it is represented
 
 **Answer:** 248
-[[src_kangourou_2019_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2019_junior_finale#qj4|src_kangourou_2019_junior_finale__QJ4]]
 
 
 
@@ -704,7 +704,7 @@ The probability that Giulio will total the first two wins.
 > For which non-negative integers $n$, the number $5^{5n+1} + 4^{5n+2} + 3^{5n}$ is divisible by 11?
 
 **Answer:** tutti
-[[src_kangourou_2019_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2019_junior_finale#qj5|src_kangourou_2019_junior_finale__QJ5]]
 
 
 
@@ -715,7 +715,7 @@ The probability that Giulio will total the first two wins.
 
 *Circocentro di AEF giace sulla semiretta AB (triangolo acutangolo ortocentro)*
 
-![[src_kangourou_2019_junior_finale__probJ6.png]]
+![[src_kangourou_2019_junior_finale__probj6.png]]
 
 > $ABC$ è un triangolo acutangolo di ortocentro $H$, con il lato $AB$ più lungo del lato $AC$; denota con $E$ il punto simmetrico di $C$ rispetto all'altezza condotta da $A$ e con $F$ l'intersezione della retta passante per $E$ e $H$ con la retta passante per $A$ e $C$. Dimostra che il circocentro del triangolo $AEF$ giace sulla semiretta uscente da $A$ e passante per $B$.
 
@@ -731,8 +731,8 @@ The probability that Giulio will total the first two wins.
 
 *AEF circle lies on the semicircle AB (acute triangle orthocentric) *
 
-![[src_kangourou_2019_junior_finale__probJ6.png]]
+![[src_kangourou_2019_junior_finale__probj6.png]]
 
 > $ABC$ is an orthocentric triangle $H$, with the side $AB$ longer than the side $AC$; denotes with $E$ the symmetrical point of $C$ with respect to the height of $A$ and with $F$ the intersection of the passing line for $E$ and $H$ with the passing line for $A$ and $C$. It shows that the circumcenter of the $AEF$ triangle lies on the semicircle exiting $A$ and passing through $B$.
 
-[[src_kangourou_2019_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2019_junior_finale#qj6|src_kangourou_2019_junior_finale__QJ6]]

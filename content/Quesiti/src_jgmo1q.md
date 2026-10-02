@@ -33,7 +33,7 @@ level: JEGMO
 
 > In una griglia $100 \times 100$ di quadrati unitari, 2500 celle sono dipinte in nero. Nessuna delle due cellule nere condivide un bordo o un angolo (cioè ogni due cellule nere distinte non sono adiacenti, anche diagonalmente). Tra tutte le cellule nere, contate quelle che si trovano nella prima riga, nella 100a riga, nella 1a colonna o nella 100a colonna. Trova tutti i valori possibili di questo conteggio.
 
-[[src_jgmo1q__Q01]]
+[[Quesiti/src_jgmo1q#q01|src_jgmo1q__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: JEGMO
 
 > Che $a_1, a_2, \ldots$ sia una sequenza di integri positivi. Per ogni intero positivo $n$, definire $$b_n = \frac{a_1 + a_2 + \cdots + a_n}{n}.$$ Supponiamo che $b_1, b_2, \ldots$ siano tutti interi positivi, e che $b_1, b_2, \ldots$ sia una permutazione degli interi positivi (cioè, ogni intero positivo appare esattamente una volta). Trova tutte le sequenze $a_1, a_2, \ldots$ che hanno questa proprietà.
 
-[[src_jgmo1q__Q02]]
+[[Quesiti/src_jgmo1q#q02|src_jgmo1q__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: JEGMO
 
 > Trova tutte le coppie $(m, n)$ di numeri interi positivi che soddisfano $$2^m = 8n^4 + n^2 - 1.$$
 
-[[src_jgmo1q__Q03]]
+[[Quesiti/src_jgmo1q#q03|src_jgmo1q__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: JEGMO
 
 > Per ogni coppia di integri $(i, j)$ con $1 \le i < j \le 100$, è scritta su una lavagna esattamente una delle due affermazioni "$x_i = x_j$" o "$x_i \neq x_j$". Si desidera assegnare a ciascuno di $x_1, x_2, \ldots, x_{100}$ un valore di $0$ o $1$ in modo che tutte le indicazioni sulla lavagna siano soddisfatte contemporaneamente. Trovare il numero intero massimo non negativo $n$ in modo tale che, indipendentemente dalle dichiarazioni scritte (una per ogni coppia), si possa sempre trovare una assegnazione di $0$s e $1$s a $x_1, \ldots, x_{100}$ che soddisfi tutte di esse.
 
-[[src_jgmo1q__Q04]]
+[[Quesiti/src_jgmo1q#q04|src_jgmo1q__Q04]]
 
 
 
@@ -156,4 +156,4 @@ level: JEGMO
 > 
 > **Nota:**Sulla base della fonte giapponese scansionata, la dichiarazione completa è: $ABC$ sia un triangolo acuto con $AB < AC$. Lasciate che $O$ sia il circondario. Il segmento $XY$ deve comprendere la lunghezza di $XY$. Il punto $J$ deve essere il punto sulla linea $AO$ del triangolo esterno $ABC$ (sul lato lontano da $A$). Il punto $P$ deve essere il punto del segmento $BC$ in cui la riga $AO$ incontra $BC$. Nel segmento $BP$, $Q$ sia il punto con $AQ = AB$; nel segmento $CP$, $R$ sia il punto con $AR = AC$. Prove che il centro circundante di $\triangle ABC$ e il centro circundante di $\triangle PQR$ sono lo stesso punto. Inoltre, l'incircolo di $\triangle ABC$ è tangente a $BC$, a mezza linea $AB$ e a mezza linea $AC$; tra i cerchi tangenti a queste tre linee, quelli che non sono l'incircolo hanno i loro centri dimostrati di coincidere con il circumcenter di $\triangle PQR$.
 
-[[src_jgmo1q__Q05]]
+[[Quesiti/src_jgmo1q#q05|src_jgmo1q__Q05]]

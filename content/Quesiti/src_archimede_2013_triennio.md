@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** (f(x))3+f(x)
 
 **Answer:** E
-[[src_archimede_2013_triennio__Q03]]
+[[Quesiti/src_archimede_2013_triennio#q03|src_archimede_2013_triennio__Q03]]
 
 
 
@@ -86,7 +86,7 @@ level: triennio
 > - **(E)** None of the preceding
 
 **Answer:** D
-[[src_archimede_2013_triennio__Q04]]
+[[Quesiti/src_archimede_2013_triennio#q04|src_archimede_2013_triennio__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: triennio
 > - **(E)** 11.
 
 **Answer:** C
-[[src_archimede_2013_triennio__Q09]]
+[[Quesiti/src_archimede_2013_triennio#q09|src_archimede_2013_triennio__Q09]]
 
 
 
@@ -172,7 +172,7 @@ level: triennio
 > - **(E)** π cm2
 
 **Answer:** C
-[[src_archimede_2013_triennio__Q10]]
+[[Quesiti/src_archimede_2013_triennio#q10|src_archimede_2013_triennio__Q10]]
 
 
 
@@ -213,7 +213,7 @@ level: triennio
 > - **(E)** depends on k
 
 **Answer:** B
-[[src_archimede_2013_triennio__Q11]]
+[[Quesiti/src_archimede_2013_triennio#q11|src_archimede_2013_triennio__Q11]]
 
 
 
@@ -294,7 +294,7 @@ level: triennio
 > - **(E)** cannot be determined from the data provided
 
 **Answer:** C
-[[src_archimede_2013_triennio__Q12]]
+[[Quesiti/src_archimede_2013_triennio#q12|src_archimede_2013_triennio__Q12]]
 
 
 
@@ -336,7 +336,7 @@ level: triennio
 > - **(E)** 56
 
 **Answer:** E
-[[src_archimede_2013_triennio__Q14]]
+[[Quesiti/src_archimede_2013_triennio#q14|src_archimede_2013_triennio__Q14]]
 
 
 
@@ -382,7 +382,7 @@ level: triennio
 > - **(E)** None of the preceding
 
 **Answer:** D
-[[src_archimede_2013_triennio__Q15]]
+[[Quesiti/src_archimede_2013_triennio#q15|src_archimede_2013_triennio__Q15]]
 
 
 
@@ -424,7 +424,7 @@ The difference is zero in 2000! in base 10 and base 5*
 > - **(E)** 2014
 
 **Answer:** B
-[[src_archimede_2013_triennio__Q16]]
+[[Quesiti/src_archimede_2013_triennio#q16|src_archimede_2013_triennio__Q16]]
 
 
 
@@ -464,7 +464,7 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(E)** 525 < 430 < 333
 
 **Answer:** B
-[[src_archimede_2013_triennio__Q17]]
+[[Quesiti/src_archimede_2013_triennio#q17|src_archimede_2013_triennio__Q17]]
 
 
 
@@ -506,7 +506,7 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(E)** None of the preceding
 
 **Answer:** B
-[[src_archimede_2013_triennio__Q18]]
+[[Quesiti/src_archimede_2013_triennio#q18|src_archimede_2013_triennio__Q18]]
 
 
 
@@ -549,7 +549,7 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(E)** 5
 
 **Answer:** B
-[[src_archimede_2013_triennio__Q19]]
+[[Quesiti/src_archimede_2013_triennio#q19|src_archimede_2013_triennio__Q19]]
 
 
 
@@ -602,4 +602,4 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(E)** 10
 
 **Answer:** D
-[[src_archimede_2013_triennio__Q20]]
+[[Quesiti/src_archimede_2013_triennio#q20|src_archimede_2013_triennio__Q20]]

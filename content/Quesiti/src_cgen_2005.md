@@ -131,7 +131,7 @@ level: Concours Général
 > 
 > **3.** Disegna, poi cerca di essere estremamente preciso, l'insieme dei punti $M$ in modo tale che il triangolo $M_2M_3M_4$ definito nella parte 2 abbia un cerchio circonscritto di raggio $1$.
 
-[[src_cgen_2005__Q01]]
+[[Quesiti/src_cgen_2005#q01|src_cgen_2005__Q01]]
 
 
 
@@ -168,7 +168,7 @@ level: Concours Général
 > 
 > **2.** Date un esempio di una funzione $f$ che verifica le ipotesi; possiamo accontentarci di una rappresentazione grafica chiara.
 
-[[src_cgen_2005__Q02]]
+[[Quesiti/src_cgen_2005#q02|src_cgen_2005__Q02]]
 
 
 
@@ -205,7 +205,7 @@ level: Concours Général
 > 
 > **2.** Che cosa succede al risultato precedente se, ad ogni passo, per $i=0,1,2,\ldots$, prendiamo $A_{i+1}$ per essere l'ortocentro del triangolo $A_iBC$ invece del centro del cerchio inciso?
 
-[[src_cgen_2005__Q03]]
+[[Quesiti/src_cgen_2005#q03|src_cgen_2005__Q03]]
 
 
 
@@ -331,4 +331,4 @@ level: Concours Général
 > 
 > Ritorniamo al caso generale. **a.** Qual è il numero di integri di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
 
-[[src_cgen_2005__Q04]]
+[[Quesiti/src_cgen_2005#q04|src_cgen_2005__Q04]]

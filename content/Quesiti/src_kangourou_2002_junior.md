@@ -45,7 +45,7 @@ level: kangourou
 > A. 1      B. 1 / 2   C. 1 / ð   D. 1 / 4 E. cannot be answered without further information
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q01]]
+[[Quesiti/src_kangourou_2002_junior#q01|src_kangourou_2002_junior__Q01]]
 
 
 
@@ -110,7 +110,7 @@ level: kangourou
 > Junior year 2002. This item is not intended to be used. 2
 
 **Answer:** D
-[[src_kangourou_2002_junior__Q02]]
+[[Quesiti/src_kangourou_2002_junior#q02|src_kangourou_2002_junior__Q02]]
 
 
 
@@ -154,7 +154,7 @@ The meeting point of Jack and Susanna.
 > A. A B. B C. C D. D E. E
 
 **Answer:** E
-[[src_kangourou_2002_junior__Q03]]
+[[Quesiti/src_kangourou_2002_junior#q03|src_kangourou_2002_junior__Q03]]
 
 
 
@@ -194,7 +194,7 @@ The meeting point of Jack and Susanna.
 > A. 3 B. 4 C. 5 D. 6 E. 7
 
 **Answer:** D
-[[src_kangourou_2002_junior__Q04]]
+[[Quesiti/src_kangourou_2002_junior#q04|src_kangourou_2002_junior__Q04]]
 
 
 
@@ -231,7 +231,7 @@ The meeting point of Jack and Susanna.
 > A. 4        B. 3            C. 5,4      D. 5,8         E. 6,8
 
 **Answer:** D
-[[src_kangourou_2002_junior__Q05]]
+[[Quesiti/src_kangourou_2002_junior#q05|src_kangourou_2002_junior__Q05]]
 
 
 
@@ -268,7 +268,7 @@ The meeting point of Jack and Susanna.
 > A. 899 B. 885 C. 800 D. 100 E. None of the above values
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q06]]
+[[Quesiti/src_kangourou_2002_junior#q06|src_kangourou_2002_junior__Q06]]
 
 
 
@@ -303,7 +303,7 @@ The meeting point of Jack and Susanna.
 > A. 5     B. 6 C. 7      D. 8 E. 10
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q07]]
+[[Quesiti/src_kangourou_2002_junior#q07|src_kangourou_2002_junior__Q07]]
 
 
 
@@ -342,7 +342,7 @@ The meeting point of Jack and Susanna.
 > A. 0 B. 1 C. 10 D. 20 E. 100
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q08]]
+[[Quesiti/src_kangourou_2002_junior#q08|src_kangourou_2002_junior__Q08]]
 
 
 
@@ -386,7 +386,7 @@ The meeting point of Jack and Susanna.
 > Junior year 2002. This item is not intended to be used. 3 1/5 of the part still healthy at the beginning of the day. At this point, what fraction of the hard drive is still intact? A. 1/5 B. 1/6 C. 1/10 D. 1/12 E. 1/24
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q09]]
+[[Quesiti/src_kangourou_2002_junior#q09|src_kangourou_2002_junior__Q09]]
 
 
 
@@ -432,7 +432,7 @@ The meeting point of Jack and Susanna.
 > The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q10]]
+[[Quesiti/src_kangourou_2002_junior#q10|src_kangourou_2002_junior__Q10]]
 
 
 
@@ -497,7 +497,7 @@ The meeting point of Jack and Susanna.
 > D. 1 E. 2 7 1 −
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q11]]
+[[Quesiti/src_kangourou_2002_junior#q11|src_kangourou_2002_junior__Q11]]
 
 
 
@@ -560,7 +560,7 @@ The meeting point of Jack and Susanna.
 > E. 3 / 4
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q12]]
+[[Quesiti/src_kangourou_2002_junior#q12|src_kangourou_2002_junior__Q12]]
 
 
 
@@ -604,7 +604,7 @@ The meeting point of Jack and Susanna.
 > Junior year 2002. This item is not intended to be used. 4
 
 **Answer:** E
-[[src_kangourou_2002_junior__Q13]]
+[[Quesiti/src_kangourou_2002_junior#q13|src_kangourou_2002_junior__Q13]]
 
 
 
@@ -647,7 +647,7 @@ The meeting point of Jack and Susanna.
 > A. 1 B. 2 C. 3 D. 4 E. 5
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q14]]
+[[Quesiti/src_kangourou_2002_junior#q14|src_kangourou_2002_junior__Q14]]
 
 
 
@@ -730,7 +730,7 @@ The meeting point of Jack and Susanna.
 > A. 22,5° B. 25° C. 30° D. 27,5° E. 32,5°
 
 **Answer:** C
-[[src_kangourou_2002_junior__Q15]]
+[[Quesiti/src_kangourou_2002_junior#q15|src_kangourou_2002_junior__Q15]]
 
 
 
@@ -769,7 +769,7 @@ The meeting point of Jack and Susanna.
 > A. 20 B. 25 C. 35 D. 40 E. 75
 
 **Answer:** D
-[[src_kangourou_2002_junior__Q16]]
+[[Quesiti/src_kangourou_2002_junior#q16|src_kangourou_2002_junior__Q16]]
 
 
 
@@ -811,7 +811,7 @@ The meeting point of Jack and Susanna.
 > A. 185 B. 180 C. 176 D. 190 E. 188
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q17]]
+[[Quesiti/src_kangourou_2002_junior#q17|src_kangourou_2002_junior__Q17]]
 
 
 
@@ -837,7 +837,7 @@ The meeting point of Jack and Susanna.
 
 > Exercise discontinued
 
-[[src_kangourou_2002_junior__Q18]]
+[[Quesiti/src_kangourou_2002_junior#q18|src_kangourou_2002_junior__Q18]]
 
 
 
@@ -889,7 +889,7 @@ The meeting point of Jack and Susanna.
 > E. y  10.000
 
 **Answer:** E
-[[src_kangourou_2002_junior__Q19]]
+[[Quesiti/src_kangourou_2002_junior#q19|src_kangourou_2002_junior__Q19]]
 
 
 
@@ -930,7 +930,7 @@ The meeting point of Jack and Susanna.
 > A. 36 B. 75 C. 45 D. 30 E. 50 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q20]]
+[[Quesiti/src_kangourou_2002_junior#q20|src_kangourou_2002_junior__Q20]]
 
 
 
@@ -968,7 +968,7 @@ The meeting point of Jack and Susanna.
 > A. 24 B. 48 C. 76 D. 192 E. 384
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q21]]
+[[Quesiti/src_kangourou_2002_junior#q21|src_kangourou_2002_junior__Q21]]
 
 
 
@@ -1008,7 +1008,7 @@ The meeting point of Jack and Susanna.
 > A. 9 B. 10 C. 8 D. 7 E. 6
 
 **Answer:** C
-[[src_kangourou_2002_junior__Q22]]
+[[Quesiti/src_kangourou_2002_junior#q22|src_kangourou_2002_junior__Q22]]
 
 
 
@@ -1077,7 +1077,7 @@ The meeting point of Jack and Susanna.
 > E. Yes, whatever the ABC triangle is.
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q23]]
+[[Quesiti/src_kangourou_2002_junior#q23|src_kangourou_2002_junior__Q23]]
 
 
 
@@ -1122,7 +1122,7 @@ The meeting point of Jack and Susanna.
 > B. 50 % C. 46 % D. 80 % E. 48 %
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q24]]
+[[Quesiti/src_kangourou_2002_junior#q24|src_kangourou_2002_junior__Q24]]
 
 
 
@@ -1162,7 +1162,7 @@ The meeting point of Jack and Susanna.
 > A. 70° B. 75° C. 80° D. 85° E. 90°
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q25]]
+[[Quesiti/src_kangourou_2002_junior#q25|src_kangourou_2002_junior__Q25]]
 
 
 
@@ -1201,7 +1201,7 @@ The meeting point of Jack and Susanna.
 > A. 0 B. 1 C. 2 D. 3 E. 4
 
 **Answer:** B
-[[src_kangourou_2002_junior__Q26]]
+[[Quesiti/src_kangourou_2002_junior#q26|src_kangourou_2002_junior__Q26]]
 
 
 
@@ -1248,7 +1248,7 @@ The meeting point of Jack and Susanna.
 > A. 9 / 10 B. 15 / 16 C. 8 / 9              D. 11 / 12 E. 14 / 15
 
 **Answer:** D
-[[src_kangourou_2002_junior__Q27]]
+[[Quesiti/src_kangourou_2002_junior#q27|src_kangourou_2002_junior__Q27]]
 
 
 
@@ -1325,7 +1325,7 @@ The meeting point of Jack and Susanna.
 > A. 6 B. 18 C. 20 D. 30 E. 36
 
 **Answer:** E
-[[src_kangourou_2002_junior__Q28]]
+[[Quesiti/src_kangourou_2002_junior#q28|src_kangourou_2002_junior__Q28]]
 
 
 
@@ -1359,7 +1359,7 @@ The meeting point of Jack and Susanna.
 > A. 9 · 211 B. 10 · 211        C. 11 · 210    D. 11 · 222            E. 10 · 212
 
 **Answer:** A
-[[src_kangourou_2002_junior__Q29]]
+[[Quesiti/src_kangourou_2002_junior#q29|src_kangourou_2002_junior__Q29]]
 
 
 
@@ -1415,4 +1415,4 @@ The meeting point of Jack and Susanna.
 > The correct answer is indicated in square brackets after the question number.
 
 **Answer:** D
-[[src_kangourou_2002_junior__Q30]]
+[[Quesiti/src_kangourou_2002_junior#q30|src_kangourou_2002_junior__Q30]]

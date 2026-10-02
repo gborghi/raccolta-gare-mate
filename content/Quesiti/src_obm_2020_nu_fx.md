@@ -34,7 +34,7 @@ level: OBM Nível Universitário
 
 > Per $R > 0$ un numero intero, $n(R)$ indica il numero di triples $(x, y, z) \in \mathbb{Z}^3$ tale che $2x^2 + 3y^2 + 5z^2 = R$. Trova il valore di $$\lim_{R \to +\infty} \frac{n(1) + n(2) + \cdots + n(R)}{R^{1/2}}.$$
 
-[[src_obm_2020_nu_fx__Q01]]
+[[Quesiti/src_obm_2020_nu_fx#q01|src_obm_2020_nu_fx__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: OBM Nível Universitário
 
 > Per $a$ un intero positivo, definire $F_1^{(a)} = 1$, $F_2^{(a)} = a$, e per $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. Un intero positivo è chiamato *fibonatico* se equivale a $F_n^{(a)}$ per un intero positivo $a$ e per un certo $n > 3$. Prove che esistono infinitamente molti interi positivi che non sono fibonatici.
 
-[[src_obm_2020_nu_fx__Q02]]
+[[Quesiti/src_obm_2020_nu_fx#q02|src_obm_2020_nu_fx__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: OBM Nível Universitário
 
 > $\mathbb{F}_{13} = \{\bar{0}, \bar{1}, \ldots, \overline{12}\}$ sia il campo finito con 13 elementi (con modulo di somma e moltiplicazione 13). Determinare il numero di matrici $5 \times 5$ $A$ con voci in $\mathbb{F}_{13}$ in modo tale che $$A^5 = I,$$ in cui $I$ denota la matrice di identità $5 \times 5$.
 
-[[src_obm_2020_nu_fx__Q03]]
+[[Quesiti/src_obm_2020_nu_fx#q03|src_obm_2020_nu_fx__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: OBM Nível Universitário
 > 
 > b) (5 punti) Ogni matrice $3 \times 3$ reale può essere scritta come la somma dei quadrati di due matrici $3 \times 3$ reali.
 
-[[src_obm_2020_nu_fx__Q04]]
+[[Quesiti/src_obm_2020_nu_fx#q04|src_obm_2020_nu_fx__Q04]]
 
 
 
@@ -152,7 +152,7 @@ Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppi
 
 > $n$ sia un numero intero positivo. Su una nave spaziale ci sono $2n$ persone, e qualsiasi due di loro sono amici o nemici (la relazione è simmetrica). Due alieni giocano il seguente gioco: alternativamente, ogni giocatore sceglie una persona per turno, in modo che la persona scelta ogni turno è un amico della persona scelta sulla volta immediatamente precedente (nel primo turno, il primo giocatore può scegliere chiunque). Chi non può giocare perde (una persona può essere scelto solo una volta). Prove che il secondo giocatore ha una strategia vincente se e solo se le persone $2n$ possono essere suddivise in coppie $n$ in modo tale che entrambi i membri di ciascuna coppia siano amici.
 
-[[src_obm_2020_nu_fx__Q05]]
+[[Quesiti/src_obm_2020_nu_fx#q05|src_obm_2020_nu_fx__Q05]]
 
 
 
@@ -187,4 +187,4 @@ Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppi
 > 
 > b) (8 punti) Determinare, per ogni numero intero $n \geq 0$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
 
-[[src_obm_2020_nu_fx__Q06]]
+[[Quesiti/src_obm_2020_nu_fx#q06|src_obm_2020_nu_fx__Q06]]

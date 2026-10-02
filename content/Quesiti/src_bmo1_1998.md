@@ -41,7 +41,7 @@ level: BMO Round 1
 > 
 > Qual è il punteggio più alto possibile?
 
-[[src_bmo1_1998__Q01]]
+[[Quesiti/src_bmo1_1998#q01|src_bmo1_1998__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 1
 
 > Il valore di $a_0 = 19$, $a_1 = 98$. Per $n \ge 1$, definire $a_{n+1}$ come il rimanente di $a_n + a_{n-1}$ diviso per 100. Qual è il rimanente quando $$a_0^2 + a_1^2 + a_2^2 + \cdots + a_{1998}^2$$ è diviso per 8?
 
-[[src_bmo1_1998__Q02]]
+[[Quesiti/src_bmo1_1998#q02|src_bmo1_1998__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 1
 
 > $ABP$ è un triangolo di uguali braccia con $AB = AP$ e $\angle PAB$ acuta. $PC$ è il piede della perpendicolare da $P$ a $AB$, e $C$ è un punto sulla linea $BP$ sul lato $AB$. (Si può supporre che $C$ non sia sulla linea $AB$.) $D$ completa il parallelo $ABCD$. Indicare che $\angle APC = \angle ABC$ e che $M$ è il punto medio di $DA$.
 
-[[src_bmo1_1998__Q03]]
+[[Quesiti/src_bmo1_1998#q03|src_bmo1_1998__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 
 > Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_{n+2} = a_n^2 + a_{n+1} \quad \text{for } n = 1, 2, 3, \ldots$$ e che $a_{1998}$ è divisibile da $87$.
 
-[[src_bmo1_1998__Q04]]
+[[Quesiti/src_bmo1_1998#q04|src_bmo1_1998__Q04]]
 
 
 
@@ -153,4 +153,4 @@ level: BMO Round 1
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $BC$ e $E$ è il punto più vicino a $AB$. Dato che $\angle ADC = \angle BAC$, trovare $\angle BAC$.
 
-[[src_bmo1_1998__Q05]]
+[[Quesiti/src_bmo1_1998#q05|src_bmo1_1998__Q05]]

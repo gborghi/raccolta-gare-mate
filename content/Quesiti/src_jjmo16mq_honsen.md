@@ -41,7 +41,7 @@ level: JJMO Honsen
 > 
 > Il punteggio è basato sulle facce del normale $k$-gon: se esistono tre vertici del $k$-gon che formano un triangolo di uguale occhio in modo che tutte e tre le facce corrispondenti abbiano lo stesso valore scritto da $B$, allora $B$ vince; altrimenti $A$ vince. Trova tutti i valori di $k$ in modo che, indipendentemente dalle scelte di $A$, $B$ possa sempre garantire una vittoria.
 
-[[src_jjmo16mq_honsen__Q01]]
+[[Quesiti/src_jjmo16mq_honsen#q01|src_jjmo16mq_honsen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JJMO Honsen
 
 > Ci sono persone $5$. Le età di ciascuna coppia di persone $2$ sono state calcolate; tutte le somme in coppia $\binom{5}{2} = 10$ si sono rivelate essere numeri interi positivi distinti. Trova il valore minimo possibile della differenza di età tra la persona più anziana e la persona più giovane.
 
-[[src_jjmo16mq_honsen__Q02]]
+[[Quesiti/src_jjmo16mq_honsen#q02|src_jjmo16mq_honsen__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: JJMO Honsen
 
 > Che $\triangle ABC$ sia un triangolo con $AB \ne AC$. I punti $D$ e $E$ siano punti rispettivamente sui lati $AB$ e $AC$ (esclusi i punti finali) in modo tale che i quattro punti $B$, $C$, $D$ e $E$ si trovino su un cerchio comune. La linea $F$ deve essere l'intersezione della linea $DE$ e della linea $BC$. Il $G$ deve essere l'intersezione della linea $AF$ con il circoncircolo di $\triangle ABC$ diverso da $A$. $H$ sia un punto del segmento $DE$ e $I$ sia l'intersezione della linea $AH$ con il circoncircolo di $\triangle ABC$ diverso da $A$. Provare che i quattro punti $F$, $G$, $H$, $I$ sono conciclici. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jjmo16mq_honsen__Q03]]
+[[Quesiti/src_jjmo16mq_honsen#q03|src_jjmo16mq_honsen__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: JJMO Honsen
 > 
 > Prova che, compreso il numero iniziale, $I$ appare sulla lavagna almeno due volte.
 
-[[src_jjmo16mq_honsen__Q04]]
+[[Quesiti/src_jjmo16mq_honsen#q04|src_jjmo16mq_honsen__Q04]]
 
 
 
@@ -157,4 +157,4 @@ level: JJMO Honsen
 
 > Il $\omega$ è l'incircolo di $\triangle ABC$ e $A'$, $B'$, $C'$ sono i punti in cui $\omega$ è tangente ai lati $BC$, $CA$ e $AB$ rispettivamente. Le linee $B_1$ e $C_1$ siano punti ai lati $CA$ e $AB$ (o le loro estensioni) in modo tale che le linee $B'C_1$, $C'A_1$, $A'B_1$ soddisfino determinate condizioni di parallele. Più precisamente: i punti $6$ $B_1$, $C_1$, $A_1$ siano definiti sui lati $BC$, $CA$, $AB$ rispettivamente in modo che tutte le linee $B_1C_1$, $C_1A_1$, $A_1B_1$ siano parallele rispettivamente a $BC$, $CA$ e $AB$. Linea $B'C'$ incontra la linea $AB$ a $X$; linea $C'A'$ incontra la linea $BC$ a $Y$; linea $A'B'$ incontra la linea $CA$ a $Z$. Prove che le tre linee $AX$, $BY$ e $CZ$ sono simultanee.
 
-[[src_jjmo16mq_honsen__Q05]]
+[[Quesiti/src_jjmo16mq_honsen#q05|src_jjmo16mq_honsen__Q05]]

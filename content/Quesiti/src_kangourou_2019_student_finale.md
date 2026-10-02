@@ -32,7 +32,7 @@ level: kangourou
 
 > Bruno and Carlo practice three sports: soccer, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also provides for the reduction of rest days to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
 
-[[src_kangourou_2019_student_finale__QS1]]
+[[Quesiti/src_kangourou_2019_student_finale#qs1|src_kangourou_2019_student_finale__QS1]]
 
 
 
@@ -43,7 +43,7 @@ level: kangourou
 
 *Determinare lo spigolo VD della piramide a base rettangolare*
 
-![[src_kangourou_2019_student_finale__probS2.png]]
+![[src_kangourou_2019_student_finale__probs2.png]]
 
 > Di una piramide a base rettangolare sono note le lunghezze di tre dei quattro spigoli obliqui che ne congiungono il vertice $V$ con i vertici $A$, $B$, $C$, $D$ della base: $VA = 90\text{ m}$; $VB = 70\text{ m}$; $VC = 20\text{ m}$. È possibile determinare la lunghezza dello spigolo $VD$? In caso affermativo determina tale lunghezza, in caso negativo individua le misure di due piramidi che rispettino i dati del problema in cui la lunghezza dello spigolo $VD$ sia diversa.
 
@@ -59,12 +59,12 @@ level: kangourou
 
 * Determine the VD slope of the rectangular base pyramid*
 
-![[src_kangourou_2019_student_finale__probS2.png]]
+![[src_kangourou_2019_student_finale__probs2.png]]
 
 > A rectangular-based pyramid is known for the lengths of three of the four oblique vertices connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $VA = 90\text{ m}$; $VB = 70\text{ m}$; $VC = 20\text{ m}$. Is it possible to determine the length of the $VD$ beam? If yes, it determines that length; if not, it identifies the measurements of two pyramids that meet the problem data where the length of the $VD$ beam is different.
 
 **Answer:** 60 m
-[[src_kangourou_2019_student_finale__QS2]]
+[[Quesiti/src_kangourou_2019_student_finale#qs2|src_kangourou_2019_student_finale__QS2]]
 
 
 
@@ -92,7 +92,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 > On a certain day in a certain month in one of the next 10 years, there will be a full moon. If the lunar cycle was exactly 28 days long, after how many years at most would there again be a full moon for the first time on the same day of the same month? (If, for example, it happens the following year, you should answer: after 1 year.)
 
 **Answer:** 248
-[[src_kangourou_2019_student_finale__QS3]]
+[[Quesiti/src_kangourou_2019_student_finale#qs3|src_kangourou_2019_student_finale__QS3]]
 
 
 
@@ -119,7 +119,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 
 > Indicate a quick, pen-and-paper determination criterion when the number $5^a + 4^b + 3^c$, when $a$, $b$ and $c$ are non-negative integers, is divisible by 11.
 
-[[src_kangourou_2019_student_finale__QS4]]
+[[Quesiti/src_kangourou_2019_student_finale#qs4|src_kangourou_2019_student_finale__QS4]]
 
 
 
@@ -130,7 +130,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 
 *Localizzazione del circocentro di AEF (triangolo acutangolo)*
 
-![[src_kangourou_2019_student_finale__probS5.png]]
+![[src_kangourou_2019_student_finale__probs5.png]]
 
 > $ABC$ è un triangolo acutangolo di ortocentro $H$, con il lato $AB$ più lungo del lato $AC$; denota con $E$ il punto simmetrico di $C$ rispetto all'altezza condotta da $A$ e con $F$ l'intersezione della retta passante per $E$ e $H$ con la retta passante per $A$ e $C$. Sulla base di questi soli dati fornisci una localizzazione (rispetto agli elementi dati dal problema) del circocentro del triangolo $AEF$.
 
@@ -145,11 +145,11 @@ After how many years the full moon returns on the same day (cycle 28g)
 
 *Location of the AEF circus (acute triangle) *
 
-![[src_kangourou_2019_student_finale__probS5.png]]
+![[src_kangourou_2019_student_finale__probs5.png]]
 
 > $ABC$ is an orthocentric triangle $H$, with the side $AB$ longer than the side $AC$; denotes with $E$ the symmetrical point of $C$ with respect to the height of $A$ and with $F$ the intersection of the passing line for $E$ and $H$ with the passing line for $A$ and $C$. On the basis of these data alone, you provide a location (relative to the elements given by the problem) of the circumcenter of the $AEF$ triangle.
 
-[[src_kangourou_2019_student_finale__QS5]]
+[[Quesiti/src_kangourou_2019_student_finale#qs5|src_kangourou_2019_student_finale__QS5]]
 
 
 
@@ -160,7 +160,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 
 *Critica della dimostrazione su pavimentazione con ettagoni*
 
-![[src_kangourou_2019_student_finale__probS6.png]]
+![[src_kangourou_2019_student_finale__probs6.png]]
 
 > Considera la seguente affermazione con successiva dimostrazione. Il tutto ti convince? Giustifica la tua risposta.
 > 
@@ -179,7 +179,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 
 *Demonstration of ethogonal flooring criticism*
 
-![[src_kangourou_2019_student_finale__probS6.png]]
+![[src_kangourou_2019_student_finale__probs6.png]]
 
 > Consider the following statement with further demonstration. Does everything convince you? Justify your answer.
 > 
@@ -187,4 +187,4 @@ After how many years the full moon returns on the same day (cycle 28g)
 > 
 > *Demonstration.* Suppose absurdly that it is (theoretically) possible. The internal angles of each hexagon would average $\dfrac{5 \times 180}{7}$ degrees; on the other hand, three hexagons would converge at each vertex, so the average angle measurement in a vertex would be $\dfrac{2 \times 180}{3} \neq \dfrac{5 \times 180}{7}$.
 
-[[src_kangourou_2019_student_finale__QS6]]
+[[Quesiti/src_kangourou_2019_student_finale#qs6|src_kangourou_2019_student_finale__QS6]]

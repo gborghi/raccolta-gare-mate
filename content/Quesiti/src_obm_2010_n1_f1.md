@@ -39,7 +39,7 @@ level: OBM Nível 1
 > (A) $135$ \quad (B) $315$ \quad (C) $555$ \quad (D) $785$ \quad (E) $915$
 
 **Risposta:** D
-[[src_obm_2010_n1_f1__Q01]]
+[[Quesiti/src_obm_2010_n1_f1#q01|src_obm_2010_n1_f1__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: OBM Nível 1
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $12$ \quad (E) $14$
 
 **Risposta:** E
-[[src_obm_2010_n1_f1__Q02]]
+[[Quesiti/src_obm_2010_n1_f1#q02|src_obm_2010_n1_f1__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: OBM Nível 1
 > (A) $43$ \quad (B) $53$ \quad (C) $97$ \quad (D) $101$ \quad (E) $115$
 
 **Risposta:** D
-[[src_obm_2010_n1_f1__Q03]]
+[[Quesiti/src_obm_2010_n1_f1#q03|src_obm_2010_n1_f1__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: OBM Nível 1
 > (A) $3$ \quad (B) $9$ \quad (C) $12$ \quad (D) $15$ \quad (E) $24$
 
 **Risposta:** B
-[[src_obm_2010_n1_f1__Q04]]
+[[Quesiti/src_obm_2010_n1_f1#q04|src_obm_2010_n1_f1__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: OBM Nível 1
 > 
 > (A) $7$ \quad (B) $7.5$ \quad (C) $8$ \quad (D) $8.5$ \quad (E) $9$
 
-![[src_obm_2010_n1_f1__Q05.png]]
+![[src_obm_2010_n1_f1__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
@@ -169,10 +169,10 @@ level: OBM Nível 1
 > 
 > (A) $7$ \quad (B) $7.5$ \quad (C) $8$ \quad (D) $8.5$ \quad (E) $9$
 
-![[src_obm_2010_n1_f1__Q05.png]]
+![[src_obm_2010_n1_f1__q05.png]]
 
 **Risposta:** D
-[[src_obm_2010_n1_f1__Q05]]
+[[Quesiti/src_obm_2010_n1_f1#q05|src_obm_2010_n1_f1__Q05]]
 
 
 
@@ -205,7 +205,7 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 > (A) $42$ \quad (B) $45$ \quad (C) $52$ \quad (D) $85$ \quad (E) $105$
 
 **Risposta:** B
-[[src_obm_2010_n1_f1__Q06]]
+[[Quesiti/src_obm_2010_n1_f1#q06|src_obm_2010_n1_f1__Q06]]
 
 
 
@@ -237,7 +237,7 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 > (A) $2$ \quad (B) $4^1$ \quad (C) $4^4$ \quad (D) $4^{4^3}$ \quad (E) $4^{4^4 - 4}$
 
 **Risposta:** E
-[[src_obm_2010_n1_f1__Q07]]
+[[Quesiti/src_obm_2010_n1_f1#q07|src_obm_2010_n1_f1__Q07]]
 
 
 
@@ -252,7 +252,7 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 > 
 > (A) $12$ \quad (B) $14$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
 
-![[src_obm_2010_n1_f1__Q08.png]]
+![[src_obm_2010_n1_f1__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -271,10 +271,10 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $12$ \quad (B) $14$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
 
-![[src_obm_2010_n1_f1__Q08.png]]
+![[src_obm_2010_n1_f1__q08.png]]
 
 **Risposta:** C
-[[src_obm_2010_n1_f1__Q08]]
+[[Quesiti/src_obm_2010_n1_f1#q08|src_obm_2010_n1_f1__Q08]]
 
 
 
@@ -307,7 +307,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $8$ \quad (E) $12$
 
 **Risposta:** C
-[[src_obm_2010_n1_f1__Q09]]
+[[Quesiti/src_obm_2010_n1_f1#q09|src_obm_2010_n1_f1__Q09]]
 
 
 
@@ -322,7 +322,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $31$ \quad (B) $34$ \quad (C) $36$ \quad (D) $38$ \quad (E) $41$
 
-![[src_obm_2010_n1_f1__Q10.png]]
+![[src_obm_2010_n1_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -340,10 +340,10 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $31$ \quad (B) $34$ \quad (C) $36$ \quad (D) $38$ \quad (E) $41$
 
-![[src_obm_2010_n1_f1__Q10.png]]
+![[src_obm_2010_n1_f1__q10.png]]
 
 **Risposta:** C
-[[src_obm_2010_n1_f1__Q10]]
+[[Quesiti/src_obm_2010_n1_f1#q10|src_obm_2010_n1_f1__Q10]]
 
 
 
@@ -358,7 +358,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $12$
 
-![[src_obm_2010_n1_f1__Q11.png]]
+![[src_obm_2010_n1_f1__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -376,10 +376,10 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $12$
 
-![[src_obm_2010_n1_f1__Q11.png]]
+![[src_obm_2010_n1_f1__q11.png]]
 
 **Risposta:** D
-[[src_obm_2010_n1_f1__Q11]]
+[[Quesiti/src_obm_2010_n1_f1#q11|src_obm_2010_n1_f1__Q11]]
 
 
 
@@ -394,7 +394,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $7$ \quad (B) $8$ \quad (C) $8.5$ \quad (D) $9$ \quad (E) $9.5$
 
-![[src_obm_2010_n1_f1__Q12.png]]
+![[src_obm_2010_n1_f1__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -413,10 +413,10 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > 
 > (A) $7$ \quad (B) $8$ \quad (C) $8.5$ \quad (D) $9$ \quad (E) $9.5$
 
-![[src_obm_2010_n1_f1__Q12.png]]
+![[src_obm_2010_n1_f1__q12.png]]
 
 **Risposta:** D
-[[src_obm_2010_n1_f1__Q12]]
+[[Quesiti/src_obm_2010_n1_f1#q12|src_obm_2010_n1_f1__Q12]]
 
 
 
@@ -457,7 +457,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
 **Risposta:** E
-[[src_obm_2010_n1_f1__Q13]]
+[[Quesiti/src_obm_2010_n1_f1#q13|src_obm_2010_n1_f1__Q13]]
 
 
 
@@ -489,7 +489,7 @@ Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{1}{12}$ \quad (D) $\dfrac{5}{12}$ \quad (E) $\dfrac{2}{3}$
 
 **Risposta:** C
-[[src_obm_2010_n1_f1__Q14]]
+[[Quesiti/src_obm_2010_n1_f1#q14|src_obm_2010_n1_f1__Q14]]
 
 
 
@@ -522,7 +522,7 @@ Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $8$ \quad (E) $16$
 
 **Risposta:** A
-[[src_obm_2010_n1_f1__Q15]]
+[[Quesiti/src_obm_2010_n1_f1#q15|src_obm_2010_n1_f1__Q15]]
 
 
 
@@ -555,7 +555,7 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 > (A) $8$ \quad (B) $13$ \quad (C) $24$ \quad (D) $26$
 
 **Risposta:** B
-[[src_obm_2010_n1_f1__Q16]]
+[[Quesiti/src_obm_2010_n1_f1#q16|src_obm_2010_n1_f1__Q16]]
 
 
 
@@ -570,7 +570,7 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 > 
 > (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
 
-![[src_obm_2010_n1_f1__Q17.png]]
+![[src_obm_2010_n1_f1__q17.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -589,10 +589,10 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 > 
 > (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
 
-![[src_obm_2010_n1_f1__Q17.png]]
+![[src_obm_2010_n1_f1__q17.png]]
 
 **Risposta:** B
-[[src_obm_2010_n1_f1__Q17]]
+[[Quesiti/src_obm_2010_n1_f1#q17|src_obm_2010_n1_f1__Q17]]
 
 
 
@@ -611,7 +611,7 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 > - **(D)** Choose the last two lines from the bottom, counting upward.
 > - **(E)** Any break, since F\'{a}bio will forcibly end up with the almond square.
 
-![[src_obm_2010_n1_f1__Q18.png]]
+![[src_obm_2010_n1_f1__q18.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]]
@@ -634,10 +634,10 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 > - **(D)** Scegli le ultime due righe dal basso, contando verso l'alto.
 > - **(E)** Qualsiasi interruzione, dal momento che F'a Bio finira' con la forza con il quadrato delle mandorle.
 
-![[src_obm_2010_n1_f1__Q18.png]]
+![[src_obm_2010_n1_f1__q18.png]]
 
 **Risposta:** E
-[[src_obm_2010_n1_f1__Q18]]
+[[Quesiti/src_obm_2010_n1_f1#q18|src_obm_2010_n1_f1__Q18]]
 
 
 
@@ -681,7 +681,7 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 > (A) Arnaldo \quad (B) Bernaldo \quad (C) Cernaldo \quad (D) Dernaldo \quad (E) Non è possibile determinare.
 
 **Risposta:** B
-[[src_obm_2010_n1_f1__Q19]]
+[[Quesiti/src_obm_2010_n1_f1#q19|src_obm_2010_n1_f1__Q19]]
 
 
 
@@ -696,7 +696,7 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-![[src_obm_2010_n1_f1__Q20.png]]
+![[src_obm_2010_n1_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -715,7 +715,7 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-![[src_obm_2010_n1_f1__Q20.png]]
+![[src_obm_2010_n1_f1__q20.png]]
 
 **Risposta:** D
-[[src_obm_2010_n1_f1__Q20]]
+[[Quesiti/src_obm_2010_n1_f1#q20|src_obm_2010_n1_f1__Q20]]

@@ -39,7 +39,7 @@ level: kangourou
 > 20 x 19 + 20 + 19 = A) 389 B) 399 C) 409 D) 419 E) 429
 
 **Answer:** D
-[[src_kangourou_2019_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q01|src_kangourou_2019_junior_marzo__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2019_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q02|src_kangourou_2019_junior_marzo__Q02]]
 
 
 
@@ -138,7 +138,7 @@ level: kangourou
 > E) 18
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q03|src_kangourou_2019_junior_marzo__Q03]]
 
 
 
@@ -171,7 +171,7 @@ level: kangourou
 > Which of the following results is the smallest? A)       x B)       : C)√     x D)      + E)       -
 
 **Answer:** A
-[[src_kangourou_2019_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q04|src_kangourou_2019_junior_marzo__Q04]]
 
 
 
@@ -218,7 +218,7 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2019_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q05|src_kangourou_2019_junior_marzo__Q05]]
 
 
 
@@ -263,7 +263,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 > E) 33
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q06|src_kangourou_2019_junior_marzo__Q06]]
 
 
 
@@ -365,7 +365,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 >
 
 **Answer:** E
-[[src_kangourou_2019_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q07|src_kangourou_2019_junior_marzo__Q07]]
 
 
 
@@ -415,7 +415,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 > E)
 
 **Answer:** A
-[[src_kangourou_2019_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q08|src_kangourou_2019_junior_marzo__Q08]]
 
 
 
@@ -453,7 +453,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 > C) 2/7 D) 4/7 E) 1
 
 **Answer:** B
-[[src_kangourou_2019_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q09|src_kangourou_2019_junior_marzo__Q09]]
 
 
 
@@ -495,7 +495,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 > Three five-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlapped. You know the sum of the three numbers is 57263. What are the hidden numbers? A) 0, 2 e 2. B) 2, 4 e 9. C) 2, 7 and 8. D) 5, 7 e 8. (e) None of the preceding three. The questions from N. 10 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2019_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q10|src_kangourou_2019_junior_marzo__Q10]]
 
 
 
@@ -536,7 +536,7 @@ Measurement of CBE square angle and equilateral triangle
 > C) 135 D) 145 E) 150
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q11|src_kangourou_2019_junior_marzo__Q11]]
 
 
 
@@ -571,7 +571,7 @@ Measurement of CBE square angle and equilateral triangle
 > The numbers a, b, c and d are four different integers between 1 and 10, extremes included. What is the smallest possible value for the expression (a/b) + (c/d)? A) 2/10 B) 3/19 C) 14/45 D) 29/90 E) 25/72
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q12|src_kangourou_2019_junior_marzo__Q12]]
 
 
 
@@ -611,7 +611,7 @@ Measurement of CBE square angle and equilateral triangle
 > The flag of Kanglandia is rectangular, its sides are in a ratio of 3:5, and it is divided into four rectangles of equal area, as shown in the figure. What is the ratio of the sides of a white rectangle? A) 1 : 3 B) 1 : 4 C) 2 : 7 D) 3 : 10 E) 4 : 15
 
 **Answer:** E
-[[src_kangourou_2019_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q13|src_kangourou_2019_junior_marzo__Q13]]
 
 
 
@@ -665,7 +665,7 @@ Measurement of CBE square angle and equilateral triangle
 >
 
 **Answer:** D
-[[src_kangourou_2019_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q14|src_kangourou_2019_junior_marzo__Q14]]
 
 
 
@@ -718,7 +718,7 @@ Measurement of CBE square angle and equilateral triangle
 > E) 48
 
 **Answer:** B
-[[src_kangourou_2019_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q15|src_kangourou_2019_junior_marzo__Q15]]
 
 
 
@@ -763,7 +763,7 @@ Measurement of CBE square angle and equilateral triangle
 > D) 33.6 E) There is not enough data to answer.
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q16|src_kangourou_2019_junior_marzo__Q16]]
 
 
 
@@ -809,7 +809,7 @@ Measurement of CBE square angle and equilateral triangle
 > E) 12
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q17|src_kangourou_2019_junior_marzo__Q17]]
 
 
 
@@ -876,7 +876,7 @@ Measurement of CBE square angle and equilateral triangle
 > The figure we're showing you is made by partially overlapping three circles all within a centimeter radius. Their three centers are aligned and the circumference of the median passes through the centers of the other two. How many centimetres does the contour line of the figure measure? A) 10π / 3 B) 5π / 3 C) 2π / √3 D) 2π√3 E) 4π
 
 **Answer:** A
-[[src_kangourou_2019_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q18|src_kangourou_2019_junior_marzo__Q18]]
 
 
 
@@ -925,7 +925,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2019_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q19|src_kangourou_2019_junior_marzo__Q19]]
 
 
 
@@ -990,7 +990,7 @@ Maximum number of boxes with identical apples and separate pears
 > The questions from N. 20 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2019_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q20|src_kangourou_2019_junior_marzo__Q20]]
 
 
 
@@ -1047,7 +1047,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) 5
 
 **Answer:** E
-[[src_kangourou_2019_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q21|src_kangourou_2019_junior_marzo__Q21]]
 
 
 
@@ -1094,7 +1094,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) 5
 
 **Answer:** E
-[[src_kangourou_2019_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q22|src_kangourou_2019_junior_marzo__Q22]]
 
 
 
@@ -1132,7 +1132,7 @@ Maximum number of boxes with identical apples and separate pears
 > The integers 1 to 99 are written one after the other in increasing order, leaving no spaces between them. The sequence thus obtained is sequenced every three digits, thus obtaining a sequence of terne ordered by digits, as suggested below: 123456789101112...979899! (123) (456) (789) (101) (112) … (979) (899). Which of the following does not appear in the sequence of the terns? A) (222) B) (444) C) (464) D) (646) E) (888)
 
 **Answer:** B
-[[src_kangourou_2019_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q23|src_kangourou_2019_junior_marzo__Q23]]
 
 
 
@@ -1178,7 +1178,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2019_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q24|src_kangourou_2019_junior_marzo__Q24]]
 
 
 
@@ -1227,7 +1227,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) None of them.
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q25|src_kangourou_2019_junior_marzo__Q25]]
 
 
 
@@ -1289,7 +1289,7 @@ Maximum number of boxes with identical apples and separate pears
 >
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q26|src_kangourou_2019_junior_marzo__Q26]]
 
 
 
@@ -1342,7 +1342,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) 60
 
 **Answer:** D
-[[src_kangourou_2019_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q27|src_kangourou_2019_junior_marzo__Q27]]
 
 
 
@@ -1391,7 +1391,7 @@ Maximum number of boxes with identical apples and separate pears
 > E) 5
 
 **Answer:** B
-[[src_kangourou_2019_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q28|src_kangourou_2019_junior_marzo__Q28]]
 
 
 
@@ -1445,7 +1445,7 @@ Maximum number of boxes with identical apples and separate pears
 > D) S/2 E) 0 (i.e. P, Q, R are aligned).
 
 **Answer:** A
-[[src_kangourou_2019_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q29|src_kangourou_2019_junior_marzo__Q29]]
 
 
 
@@ -1501,4 +1501,4 @@ Maximum number of boxes with identical apples and separate pears
 >
 
 **Answer:** C
-[[src_kangourou_2019_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2019_junior_marzo#q30|src_kangourou_2019_junior_marzo__Q30]]

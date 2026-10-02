@@ -52,7 +52,7 @@ level: kangourou
 > C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
 
 **Answer:** C
-[[src_kangourou_2021_student_semifinale__Q01]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q01|src_kangourou_2021_student_semifinale__Q01]]
 
 
 
@@ -99,7 +99,7 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2021_student_semifinale__Q02]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q02|src_kangourou_2021_student_semifinale__Q02]]
 
 
 
@@ -147,7 +147,7 @@ level: kangourou
 > E) 4
 
 **Answer:** D
-[[src_kangourou_2021_student_semifinale__Q03]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q03|src_kangourou_2021_student_semifinale__Q03]]
 
 
 
@@ -199,7 +199,7 @@ level: kangourou
 > E) 0
 
 **Answer:** E
-[[src_kangourou_2021_student_semifinale__Q04]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q04|src_kangourou_2021_student_semifinale__Q04]]
 
 
 
@@ -250,7 +250,7 @@ The following table shows the results of the calculations:
 > E) 1100
 
 **Answer:** D
-[[src_kangourou_2021_student_semifinale__Q05]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q05|src_kangourou_2021_student_semifinale__Q05]]
 
 
 
@@ -300,7 +300,7 @@ The following table shows the results of the calculations:
 > E) 3
 
 **Answer:** E
-[[src_kangourou_2021_student_semifinale__Q06]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q06|src_kangourou_2021_student_semifinale__Q06]]
 
 
 
@@ -351,7 +351,7 @@ The following table shows the results of the calculations:
 > D) La k). E) None of them.
 
 **Answer:** E
-[[src_kangourou_2021_student_semifinale__Q07]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q07|src_kangourou_2021_student_semifinale__Q07]]
 
 
 
@@ -401,7 +401,7 @@ The following table shows the results of the calculations:
 > D) 6π E) Depends on how the circumferences are arranged.
 
 **Answer:** C
-[[src_kangourou_2021_student_semifinale__Q08]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q08|src_kangourou_2021_student_semifinale__Q08]]
 
 
 
@@ -445,7 +445,7 @@ The following table shows the results of the calculations:
 > Open-ended questions
 
 **Answer:** E
-[[src_kangourou_2021_student_semifinale__Q09]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q09|src_kangourou_2021_student_semifinale__Q09]]
 
 
 
@@ -483,7 +483,7 @@ The following table shows the results of the calculations:
 > (4 points) The figure sketches the rim of a half-circle whose wheels have a radius of 1/π meters with a distance from the centers of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
 
 **Answer:** 0040
-[[src_kangourou_2021_student_semifinale__Q10]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q10|src_kangourou_2021_student_semifinale__Q10]]
 
 
 
@@ -520,7 +520,7 @@ The following table shows the results of the calculations:
 > P K
 
 **Answer:** 0038
-[[src_kangourou_2021_student_semifinale__Q11]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q11|src_kangourou_2021_student_semifinale__Q11]]
 
 
 
@@ -559,7 +559,7 @@ The following table shows the results of the calculations:
 > (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Please dial 9999 if you believe they are not uniquely determined.
 
 **Answer:** 1001
-[[src_kangourou_2021_student_semifinale__Q12]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q12|src_kangourou_2021_student_semifinale__Q12]]
 
 
 
@@ -589,7 +589,7 @@ The following table shows the results of the calculations:
 > (6 points) If you multiply all the positive integers of 5 digits that are not divisible by 5 and divide by 5 the result, what do you get?
 
 **Answer:** 0001
-[[src_kangourou_2021_student_semifinale__Q13]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q13|src_kangourou_2021_student_semifinale__Q13]]
 
 
 
@@ -628,7 +628,7 @@ The following table shows the results of the calculations:
 > (6 points) We have two accuracy balances that give the weight in grams of the objects placed on the respective plates: we are going to zero them. We align 2021 objects in order of non-increasing weight and place one object at a time, starting from the first, on one of the two balances in accordance with the following rules: • one must never remove from either of the two balances an object previously placed; • at each step, if the weight indicated by the two balances is the same one can place the turn object on either of the two, otherwise it must be placed on the balance indicating the lesser weight. If each object weighs an integer (positive) of grams and their total weight is 4040 grams, when we have placed all 2021 objects, what is the biggest difference that could arise between the two indicated weights?
 
 **Answer:** 0000
-[[src_kangourou_2021_student_semifinale__Q14]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q14|src_kangourou_2021_student_semifinale__Q14]]
 
 
 
@@ -667,7 +667,7 @@ The following table shows the results of the calculations:
 > where m and n are positive integers? (Write 9999 if you believe they are infinite).
 
 **Answer:** 9999
-[[src_kangourou_2021_student_semifinale__Q15]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q15|src_kangourou_2021_student_semifinale__Q15]]
 
 
 
@@ -743,7 +743,7 @@ The following table shows the results of the calculations:
 > (7 points) An equilateral triangle on side n is divided into equilateral triangles on side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By selecting appropriately the room from which to depart, the maximum number of rooms that can be visited by passing once from each room visited is as close as possible to 2021. How much is n?
 
 **Answer:** 0045
-[[src_kangourou_2021_student_semifinale__Q16]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q16|src_kangourou_2021_student_semifinale__Q16]]
 
 
 
@@ -783,7 +783,7 @@ The following table shows the results of the calculations:
 > (7 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the semicircles delimiting the angle: M and N are the two tangent points to the horizontal semicircle. The lines for A and B are parallel and tangent to the small and the large circumference respectively. The radius of the small circumference is √12. If AM is 3 how long is AB?
 
 **Answer:** 0027
-[[src_kangourou_2021_student_semifinale__Q17]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q17|src_kangourou_2021_student_semifinale__Q17]]
 
 
 
@@ -831,4 +831,4 @@ The following table shows the results of the calculations:
 > M N B O A
 
 **Answer:** 0098
-[[src_kangourou_2021_student_semifinale__Q18]]
+[[Quesiti/src_kangourou_2021_student_semifinale#q18|src_kangourou_2021_student_semifinale__Q18]]

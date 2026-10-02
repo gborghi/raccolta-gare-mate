@@ -34,7 +34,7 @@ level: IMO
 
 > If $p$ and $q$ are natural numbers such that $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$ Show that $p$ is divisible by $1979$.
 
-[[src_imo_1979_all__Q01]]
+[[Quesiti/src_imo_1979_all#q01|src_imo_1979_all__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: IMO
 
 > Notes. A path of n jumps is a sequence of vertices (P0, ..., Pn) such that (i) P0 = A, Pn = E; (ii) for every i, 0 ≤i ≤n −1, Pi is distinct from E; (iii) for every i, 0 ≤i ≤n −1, Pi and Pi+1 are adjacent.
 
-[[src_imo_1979_all__Q02]]
+[[Quesiti/src_imo_1979_all#q02|src_imo_1979_all__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: IMO
 
 > Two circles in a plane intersect. Be $A$ one of the intersection points. Starting simultaneously from $A$, two points move at constant speed, each along its circumference in the same direction. The two points return to $A$ simultaneously after a full lap. Demonstrate that there is a fixed point $P$ in the plane such that, at any moment, the distances from $P$ to the two moving points are equal.
 
-[[src_imo_1979_all__Q03]]
+[[Quesiti/src_imo_1979_all#q03|src_imo_1979_all__Q03]]
 
 
 
@@ -115,7 +115,7 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 
 > Given a straight (plane) $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$, find all points $R$ in $\pi$ such that the ratio $\dfrac{QP + PA}{QR}$ is maximum.
 
-[[src_imo_1979_all__Q04]]
+[[Quesiti/src_imo_1979_all#q04|src_imo_1979_all__Q04]]
 
 
 
@@ -142,7 +142,7 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 
 > Find all real numbers $a$ for which there are non-negative real numbers $x_1, x_2, x_3, x_4, x_5$ that satisfy the $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3.$$ relationships
 
-[[src_imo_1979_all__Q05]]
+[[Quesiti/src_imo_1979_all#q05|src_imo_1979_all__Q05]]
 
 
 
@@ -177,4 +177,4 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 > 
 > *Note.* A $n$ jump path is a sequence of vertices $(P_0, \ldots, P_n)$ such that: (i) $P_0 = A$, $P_n = E$; (ii) for each $i$, $0 \leq i \leq n-1$, $P_i$ is distinct from $E$; (iii) for each $i$, $0 \leq i \leq n-1$, $P_i$ and $P_{i+1}$ are adjacent.
 
-[[src_imo_1979_all__Q06]]
+[[Quesiti/src_imo_1979_all#q06|src_imo_1979_all__Q06]]

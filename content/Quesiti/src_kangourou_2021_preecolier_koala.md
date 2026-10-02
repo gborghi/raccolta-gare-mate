@@ -38,7 +38,7 @@ level: kangourou
 > John rested on a table three equal black sticks. Without breaking them or bending them, he made one of the figures you see. What kind? (see figure)
 
 **Answer:** E
-[[src_kangourou_2021_preecolier_koala__Q01]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q01|src_kangourou_2021_preecolier_koala__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: kangourou
 > - **(E)** 17 (see figure)
 
 **Answer:** B
-[[src_kangourou_2021_preecolier_koala__Q02]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q02|src_kangourou_2021_preecolier_koala__Q02]]
 
 
 
@@ -114,7 +114,7 @@ The longest of the five paths shown
 > Which is the longest of the five routes shown in Figure 5? (see figure)
 
 **Answer:** E
-[[src_kangourou_2021_preecolier_koala__Q03]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q03|src_kangourou_2021_preecolier_koala__Q03]]
 
 
 
@@ -146,7 +146,7 @@ The longest of the five paths shown
 > Four squares of identical paper are positioned as shown. Michele wants to practice a hole that crosses all four squares, but he can only do so at one of the five points indicated. In which of them should Michael practice the drill? (see figure)
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q04]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q04|src_kangourou_2021_preecolier_koala__Q04]]
 
 
 
@@ -178,7 +178,7 @@ The longest of the five paths shown
 > Isabella wears this shirt and stands in front of a mirror. Which of these images do you see in the mirror? (see figure)
 
 **Answer:** A
-[[src_kangourou_2021_preecolier_koala__Q05]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q05|src_kangourou_2021_preecolier_koala__Q05]]
 
 
 
@@ -222,7 +222,7 @@ The tallest of the five colorful towers.
 > - **(E)** It's impossible to decide.
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q06]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q06|src_kangourou_2021_preecolier_koala__Q06]]
 
 
 
@@ -266,7 +266,7 @@ The tallest of the five colorful towers.
 > - **(E)** 6 (see figure)
 
 **Answer:** E
-[[src_kangourou_2021_preecolier_koala__Q07]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q07|src_kangourou_2021_preecolier_koala__Q07]]
 
 
 
@@ -298,7 +298,7 @@ Kangourou constellation with 20 stars in total
 > In these constellations each star is denoted by a number instead of a name. The numbers that denote the stars in the constellation Kangourou are all greater than 3 and their sum is 20. What is the constellation Kangourou? (see figure)
 
 **Answer:** B
-[[src_kangourou_2021_preecolier_koala__Q08]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q08|src_kangourou_2021_preecolier_koala__Q08]]
 
 
 
@@ -342,7 +342,7 @@ Kangourou constellation with 20 stars in total
 > - **(E)** 13 (see figure)
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q09]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q09|src_kangourou_2021_preecolier_koala__Q09]]
 
 
 
@@ -386,7 +386,7 @@ Kangourou constellation with 20 stars in total
 > - **(E)** In E (see figure)
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q10]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q10|src_kangourou_2021_preecolier_koala__Q10]]
 
 
 
@@ -430,7 +430,7 @@ Minimum number of flowers purchased to match the vessels
 > - **(E)** 10 (see figure)
 
 **Answer:** C
-[[src_kangourou_2021_preecolier_koala__Q11]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q11|src_kangourou_2021_preecolier_koala__Q11]]
 
 
 
@@ -474,7 +474,7 @@ Hiding word from code 3B 1D 4D 2B
 > - **(E)** MELA (see figure)
 
 **Answer:** E
-[[src_kangourou_2021_preecolier_koala__Q12]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q12|src_kangourou_2021_preecolier_koala__Q12]]
 
 
 
@@ -506,7 +506,7 @@ Hiding word from code 3B 1D 4D 2B
 > Which of the five figures can you get by approaching these two shapes? (see figure)
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q13]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q13|src_kangourou_2021_preecolier_koala__Q13]]
 
 
 
@@ -546,7 +546,7 @@ How many points less than Angela has Chiara totalled
 > - **(E)** 12
 
 **Answer:** C
-[[src_kangourou_2021_preecolier_koala__Q14]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q14|src_kangourou_2021_preecolier_koala__Q14]]
 
 
 
@@ -578,7 +578,7 @@ Which one and Eva's house on the map
 > The picture shows the five homes of five friends and their school. The school is the biggest building in the photo. To go to school, Doris and Ali pass by Leo's house. Eva is passing by Chloe's house. What's Eva's house? (see figure)
 
 **Answer:** B
-[[src_kangourou_2021_preecolier_koala__Q15]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q15|src_kangourou_2021_preecolier_koala__Q15]]
 
 
 
@@ -618,7 +618,7 @@ Which one and Eva's house on the map
 > - **(E)** 10
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q16]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q16|src_kangourou_2021_preecolier_koala__Q16]]
 
 
 
@@ -650,7 +650,7 @@ Which one and Eva's house on the map
 > Mara built the figure side by side using four of the following five shapes. What form did Mara not use? (see figure)
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q17]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q17|src_kangourou_2021_preecolier_koala__Q17]]
 
 
 
@@ -682,7 +682,7 @@ Which one and Eva's house on the map
 > A maggot enjoys turning fruit. Every time he has three apples, he turns them into one banana. Every time he has three bananas, he turns them into an apple. If you start with 4 apples and 5 bananas, what will you have left when you can no longer transform? (see figure)
 
 **Answer:** A
-[[src_kangourou_2021_preecolier_koala__Q18]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q18|src_kangourou_2021_preecolier_koala__Q18]]
 
 
 
@@ -726,7 +726,7 @@ Which one and Eva's house on the map
 > - **(E)** It is impossible to determine (see figure)
 
 **Answer:** C
-[[src_kangourou_2021_preecolier_koala__Q19]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q19|src_kangourou_2021_preecolier_koala__Q19]]
 
 
 
@@ -758,7 +758,7 @@ Which one and Eva's house on the map
 > The image shows a gear consisting of two toothed wheels, each with one and only one black tooth. In what positions will the two black teeth be found after the small toothed wheel has completed a complete turn? (see figure)
 
 **Answer:** C
-[[src_kangourou_2021_preecolier_koala__Q20]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q20|src_kangourou_2021_preecolier_koala__Q20]]
 
 
 
@@ -798,7 +798,7 @@ Which one and Eva's house on the map
 > - **(E)** 10
 
 **Answer:** D
-[[src_kangourou_2021_preecolier_koala__Q21]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q21|src_kangourou_2021_preecolier_koala__Q21]]
 
 
 
@@ -842,7 +842,7 @@ Which one and Eva's house on the map
 > - **(E)** 4 (see figure)
 
 **Answer:** C
-[[src_kangourou_2021_preecolier_koala__Q22]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q22|src_kangourou_2021_preecolier_koala__Q22]]
 
 
 
@@ -882,7 +882,7 @@ Which one and Eva's house on the map
 > - **(E)** 24
 
 **Answer:** E
-[[src_kangourou_2021_preecolier_koala__Q23]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q23|src_kangourou_2021_preecolier_koala__Q23]]
 
 
 
@@ -926,4 +926,4 @@ It's a shelf that the puzzle can't fit on.
 > - **(E)** 5
 
 **Answer:** C
-[[src_kangourou_2021_preecolier_koala__Q24]]
+[[Quesiti/src_kangourou_2021_preecolier_koala#q24|src_kangourou_2021_preecolier_koala__Q24]]

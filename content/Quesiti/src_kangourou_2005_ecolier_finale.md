@@ -34,7 +34,7 @@ level: kangourou
 > On the street where I live, the houses are numbered on one side with consecutive odd numbers, starting with 1, and on the other side with even numbers (each number denotes only one house). My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are there all over the same side of mine?
 
 **Answer:** 111
-[[src_kangourou_2005_ecolier_finale__QE1]]
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe1|src_kangourou_2005_ecolier_finale__QE1]]
 
 
 
@@ -70,7 +70,7 @@ level: kangourou
 > (b) what weight can I no longer be above?
 
 **Answer:** 86 kg, 92 kg
-[[src_kangourou_2005_ecolier_finale__QE2]]
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe2|src_kangourou_2005_ecolier_finale__QE2]]
 
 
 
@@ -98,7 +98,7 @@ level: kangourou
 > What is the smallest positive integer of 4 digits, all different from each other (and different from zero), that is divisible (without remainder!) by each of its 4 digits?
 
 **Answer:** 1236
-[[src_kangourou_2005_ecolier_finale__QE3]]
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe3|src_kangourou_2005_ecolier_finale__QE3]]
 
 
 
@@ -109,7 +109,7 @@ level: kangourou
 
 *Minimo pallini da cancellare per invertire la freccia*
 
-![[src_kangourou_2005_ecolier_finale__probE4.png]]
+![[src_kangourou_2005_ecolier_finale__probe4.png]]
 
 > La maestra ti ha chiesto di disegnare su una pagina del tuo quaderno 10 pallini in modo da rappresentare una freccia da sinistra verso destra, come nella figura A. Tu, per errore, li hai disposti in modo da ottenere una freccia da destra verso sinistra, come nella figura B. Naturalmente non puoi capovolgere il quaderno, ma puoi cancellare dei pallini e ridisegnarli. Qual è il minimo numero di pallini che ti basta cancellare, e dove devi posizionare altrettanti nuovi pallini, per ottenere quanto ti ha chiesto la maestra? (Se vuoi, puoi tracciare una croce sui pallini da cancellare e segnare la posizione in cui collocare i nuovi utilizzando direttamente la figura B, spiegando come meglio credi il motivo per cui non puoi cancellarne di meno.) (vedi figura)
 
@@ -125,12 +125,12 @@ level: kangourou
 
 *Minimum balls to be erased to reverse the arrow*
 
-![[src_kangourou_2005_ecolier_finale__probE4.png]]
+![[src_kangourou_2005_ecolier_finale__probe4.png]]
 
 > The teacher asked you to draw on a page of your notebook 10 balls so that you represent an arrow from left to right, as in Figure A. You, by mistake, arranged them so that you get an arrow from right to left, as in Figure B. Of course, you can't reverse the notebook, but you can erase balls and redesign them. What's the minimum number of balls you can wipe, and where do you have to place as many new balls to get what your teacher asked you to? (If you want, you can draw a cross on the deleting balls and mark the position where to place the new ones using directly Figure B, explaining how much better you think the reason why you can't delete less.) (see Figure)
 
 **Answer:** 3
-[[src_kangourou_2005_ecolier_finale__QE4]]
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe4|src_kangourou_2005_ecolier_finale__QE4]]
 
 
 
@@ -159,7 +159,7 @@ level: kangourou
 > You and a friend play the next game. You have an initial stack of 5 coins: take one, two, or three coins from the stack of your choice in turn, respecting the rule that each player, when it's his turn, must take at least one coin and, if there is more than one coin in the stack, he cannot take the same number of coins that the opponent took on the previous move. Whoever collects the last or last available coins loses. If you want to win and both of you play without making mistakes, is it best to be first or second hand? You answer by motivating the answer.
 
 **Answer:** secondo
-[[src_kangourou_2005_ecolier_finale__QE5]]
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe5|src_kangourou_2005_ecolier_finale__QE5]]
 
 
 
@@ -170,7 +170,7 @@ level: kangourou
 
 *Massimo amici con rettangoli diversi di 10 tessere*
 
-![[src_kangourou_2005_ecolier_finale__probE6.png]]
+![[src_kangourou_2005_ecolier_finale__probe6.png]]
 
 > Harry Potter si lamenta con tutti i suoi amici: "Ho perso il mio rettangolo magico. Come farò a partecipare a Kangourou?". Gli amici gli chiedono come fosse fatto il rettangolo magico: "Di pergamena, ottenuto accostando (ma non sovrapponendo!) 10 rettangoli più piccoli, ciascuno dei quali ha i lati che misurano l'uno 2 pollici e l'altro 3 pollici". Dopo una breve ricerca gli amici tornano ciascuno con un rettangolo di pergamena di forma diversa, ma con i requisiti indicati: Harry però asserisce che nessuno è il suo. Quanti amici può avere al massimo Harry?
 
@@ -187,9 +187,9 @@ level: kangourou
 
 Maximum friends with different rectangles of 10 cards
 
-![[src_kangourou_2005_ecolier_finale__probE6.png]]
+![[src_kangourou_2005_ecolier_finale__probe6.png]]
 
 > Harry Potter complains to all his friends, "I lost my magic rectangle. How will I participate in Kangourou?" Friends ask him how the magic rectangle was made: "Peg, obtained by approaching (but not overlapping!) 10 smaller rectangles, each with sides measuring one 2 inches and the other 3 inches". After a brief search, the friends return each with a different-shaped rectangle of parchment, but with the specified requirements: Harry, however, claims that none is his. How many friends can Harry have at most?
 
 **Answer:** 4
-[[src_kangourou_2005_ecolier_finale__QE6]]
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe6|src_kangourou_2005_ecolier_finale__QE6]]

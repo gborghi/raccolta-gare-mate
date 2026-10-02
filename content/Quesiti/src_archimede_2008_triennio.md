@@ -50,7 +50,7 @@ level: triennio
 > - **(E)** You are.
 
 **Answer:** D
-[[src_archimede_2008_triennio__Q06]]
+[[Quesiti/src_archimede_2008_triennio#q06|src_archimede_2008_triennio__Q06]]
 
 
 
@@ -98,7 +98,7 @@ level: triennio
 > - **(E)** ( √ 10 −3) cm.
 
 **Answer:** E
-[[src_archimede_2008_triennio__Q07]]
+[[Quesiti/src_archimede_2008_triennio#q07|src_archimede_2008_triennio__Q07]]
 
 
 
@@ -141,7 +141,7 @@ level: triennio
 > - **(E)** 3325.
 
 **Answer:** B
-[[src_archimede_2008_triennio__Q08]]
+[[Quesiti/src_archimede_2008_triennio#q08|src_archimede_2008_triennio__Q08]]
 
 
 
@@ -183,7 +183,7 @@ level: triennio
 > - **(E)** 8 cm.
 
 **Answer:** B
-[[src_archimede_2008_triennio__Q09]]
+[[Quesiti/src_archimede_2008_triennio#q09|src_archimede_2008_triennio__Q09]]
 
 
 
@@ -227,7 +227,7 @@ level: triennio
 > - **(E)** 4096.
 
 **Answer:** E
-[[src_archimede_2008_triennio__Q10]]
+[[Quesiti/src_archimede_2008_triennio#q10|src_archimede_2008_triennio__Q10]]
 
 
 
@@ -275,7 +275,7 @@ level: triennio
 > - **(E)** 7.
 
 **Answer:** B
-[[src_archimede_2008_triennio__Q11]]
+[[Quesiti/src_archimede_2008_triennio#q11|src_archimede_2008_triennio__Q11]]
 
 
 
@@ -316,7 +316,7 @@ level: triennio
 > - **(E)** 2004.
 
 **Answer:** A
-[[src_archimede_2008_triennio__Q12]]
+[[Quesiti/src_archimede_2008_triennio#q12|src_archimede_2008_triennio__Q12]]
 
 
 
@@ -361,7 +361,7 @@ level: triennio
 > - **(E)** 10.
 
 **Answer:** D
-[[src_archimede_2008_triennio__Q13]]
+[[Quesiti/src_archimede_2008_triennio#q13|src_archimede_2008_triennio__Q13]]
 
 
 
@@ -402,7 +402,7 @@ level: triennio
 > - **(E)** 4410.
 
 **Answer:** E
-[[src_archimede_2008_triennio__Q18]]
+[[Quesiti/src_archimede_2008_triennio#q18|src_archimede_2008_triennio__Q18]]
 
 
 
@@ -444,7 +444,7 @@ level: triennio
 > - **(E)** None of the above claims is certainly true.
 
 **Answer:** E
-[[src_archimede_2008_triennio__Q21]]
+[[Quesiti/src_archimede_2008_triennio#q21|src_archimede_2008_triennio__Q21]]
 
 
 
@@ -487,7 +487,7 @@ level: triennio
 > - **(E)** 524 cm2.
 
 **Answer:** B
-[[src_archimede_2008_triennio__Q23]]
+[[Quesiti/src_archimede_2008_triennio#q23|src_archimede_2008_triennio__Q23]]
 
 
 
@@ -531,7 +531,7 @@ level: triennio
 > - **(E)** 50 √ 2 %.
 
 **Answer:** C
-[[src_archimede_2008_triennio__Q24]]
+[[Quesiti/src_archimede_2008_triennio#q24|src_archimede_2008_triennio__Q24]]
 
 
 
@@ -574,4 +574,4 @@ level: triennio
 > - **(E)** 4.
 
 **Answer:** A
-[[src_archimede_2008_triennio__Q25]]
+[[Quesiti/src_archimede_2008_triennio#q25|src_archimede_2008_triennio__Q25]]

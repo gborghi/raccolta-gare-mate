@@ -27,7 +27,7 @@ level: OBM Nível 1
 > 
 > c) What is the area of the yellow rectangle?
 
-![[src_obm_2020_n1_fx__Q01.png]]
+![[src_obm_2020_n1_fx__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -50,9 +50,9 @@ level: OBM Nível 1
 > 
 > c) Qual è l'area del rettangolo giallo?
 
-![[src_obm_2020_n1_fx__Q01.png]]
+![[src_obm_2020_n1_fx__q01.png]]
 
-[[src_obm_2020_n1_fx__Q01]]
+[[Quesiti/src_obm_2020_n1_fx#q01|src_obm_2020_n1_fx__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: OBM Nível 1
 > 
 > b) Considering the die when it reaches the central cell $H$, that is, from the same viewpoint as Figure 2, what are the numbers on the other two visible faces? Justify your answer.
 
-![[src_obm_2020_n1_fx__Q02.png]]
+![[src_obm_2020_n1_fx__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -93,9 +93,9 @@ level: OBM Nível 1
 > 
 > b) Considerando il dado quando raggiunge la cella centrale $H$, cioè dallo stesso punto di vista della figura 2, quali sono i numeri sulle altre due facce visibili? Giustifica la tua risposta.
 
-![[src_obm_2020_n1_fx__Q02.png]]
+![[src_obm_2020_n1_fx__q02.png]]
 
-[[src_obm_2020_n1_fx__Q02]]
+[[Quesiti/src_obm_2020_n1_fx#q02|src_obm_2020_n1_fx__Q02]]
 
 
 
@@ -134,7 +134,7 @@ level: OBM Nível 1
 > 
 > c) Juca ha osservato la rappresentazione decimale di $11/41$. Quante decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
 
-[[src_obm_2020_n1_fx__Q03]]
+[[Quesiti/src_obm_2020_n1_fx#q03|src_obm_2020_n1_fx__Q03]]
 
 
 
@@ -178,7 +178,7 @@ level: OBM Nível 1
 > 
 > c) Trova il numero primo primato più grande.
 
-[[src_obm_2020_n1_fx__Q04]]
+[[Quesiti/src_obm_2020_n1_fx#q04|src_obm_2020_n1_fx__Q04]]
 
 
 
@@ -199,7 +199,7 @@ level: OBM Nível 1
 > 
 > d) Make a sketch of a simple polygon with $21$ sides and $10$ lines such that these lines do not pass through any vertex and the numbers of sides cut by these lines are all distinct.
 
-![[src_obm_2020_n1_fx__Q05.png]]
+![[src_obm_2020_n1_fx__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -223,6 +223,6 @@ level: OBM Nível 1
 > 
 > d) Rendere uno sketch di un poligono semplice con lati $21$ e linee $10$ in modo tale che queste linee non passino attraverso nessun vertice e il numero di lati tagliati da queste linee sia distinto.
 
-![[src_obm_2020_n1_fx__Q05.png]]
+![[src_obm_2020_n1_fx__q05.png]]
 
-[[src_obm_2020_n1_fx__Q05]]
+[[Quesiti/src_obm_2020_n1_fx#q05|src_obm_2020_n1_fx__Q05]]

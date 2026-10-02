@@ -32,7 +32,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo a angolo acuto; $AD$ sia il bisettore di $\angle BAC$ con $D$ su $BC$; e $BE$ sia l'altitudine da $B$ su $AC$. Mostra che $\angle CED > 45^\circ$.
 
-[[src_rmo_2007__Q01]]
+[[Quesiti/src_rmo_2007#q01|src_rmo_2007__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: RMO
 
 > $a, b, c$ siano tre numeri naturali quali $a < b < c$ e $\gcd(c - a, c - b) = 1$. Supponiamo che esista un intero $d$ tale che $a + d$, $b + d$, $c + d$ formino i lati di un triangolo rettangolare. Prove che esistono integri $l, m$ che $c + d = l^2 + m^2$.
 
-[[src_rmo_2007__Q02]]
+[[Quesiti/src_rmo_2007#q02|src_rmo_2007__Q02]]
 
 
 
@@ -86,7 +86,7 @@ level: RMO
 
 > Trova tutte le coppie $(a, b)$ di numeri reali in modo tale che ogni volta che $a$ è una radice di $x^2 + ax + b = 0$, $a^2 - 2$ è anche una radice dell'equazione.
 
-[[src_rmo_2007__Q03]]
+[[Quesiti/src_rmo_2007#q03|src_rmo_2007__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: RMO
 > 
 > (Esempio: $225252$ è un numero ammissibile, mentre $222133$ non lo è.)
 
-[[src_rmo_2007__Q04]]
+[[Quesiti/src_rmo_2007#q04|src_rmo_2007__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: RMO
 
 > Un trapezio $ABCD$, in cui $AB$ è parallelo a $CD$, è inserito in un cerchio con il centro $O$. Supponiamo che le diagonali $AC$ e $BD$ del trapezio si intersecano a $M$ e $OM = 2$. (a) Se $\angle AMB = 60^\circ$, determinare, con la prova, la differenza tra le lunghezze dei lati paralleli. b) Se $\angle AMD = 60^\circ$, trovare la differenza tra le lunghezze dei lati paralleli.
 
-[[src_rmo_2007__Q05]]
+[[Quesiti/src_rmo_2007#q05|src_rmo_2007__Q05]]
 
 
 
@@ -178,4 +178,4 @@ level: RMO
 
 > Prova che: a) $5 < \sqrt[3]{5} + \sqrt[4]{5} + \sqrt[5]{5}$; b) $8 > \sqrt{8} + \sqrt[3]{8} + \sqrt[4]{8}$; c) $n > \sqrt{n} + \sqrt[3]{n} + \sqrt[4]{n}$ per tutti gli enti $n \ge 9$.
 
-[[src_rmo_2007__Q06]]
+[[Quesiti/src_rmo_2007#q06|src_rmo_2007__Q06]]

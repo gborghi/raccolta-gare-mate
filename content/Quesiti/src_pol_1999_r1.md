@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che tra i numeri $50^n + (50n+1)^{50}$, dove $n \in \mathbb{N}$, ci sono infinitamente molti numeri composti.
 
-[[src_pol_1999_r1__Q01]]
+[[Quesiti/src_pol_1999_r1#q01|src_pol_1999_r1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 1
 
 > Se $a, b, c, d$ sono numeri reali, dimostrare la disuguaglianza $$(a + b + c + d)^2 \le 3(a^2 + b^2 + c^2 + d^2) + 6ab.$$
 
-[[src_pol_1999_r1__Q02]]
+[[Quesiti/src_pol_1999_r1#q02|src_pol_1999_r1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 1
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $\angle A = 90^\circ$. Il punto $D$ è preso sul lato $BC$ in modo tale che $BD = 2CD$, e $E$ è la proiezione di $B$ sulla linea $AD$. Calcolo $\angle CED$.
 
-[[src_pol_1999_r1__Q03]]
+[[Quesiti/src_pol_1999_r1#q03|src_pol_1999_r1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 1
 
 > Supponiamo che $x, y$ siano numeri reali in modo che $x + y$, $x^2 + y^2$, $x^3 + y^3$ e $x^4 + y^4$ siano interi. Provare che $x^n + y^n$ è un numero intero per tutti $n \in \mathbb{N}$.
 
-[[src_pol_1999_r1__Q04]]
+[[Quesiti/src_pol_1999_r1#q04|src_pol_1999_r1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 1
 
 > Determinare tutti gli integri positivi $x, y$ soddisfaci $y^x = x^{50}$.
 
-[[src_pol_1999_r1__Q05]]
+[[Quesiti/src_pol_1999_r1#q05|src_pol_1999_r1__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: Olimpiade Polacca Round 1
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale converso $ABCD$ si incontrano a $P$. La linea $MP$ deve incontrare $CD$ al punto medio di $AB$. Prova che il rapporto tra le superfici dei triangoli $BCP$ e $ADP$ è uguale a $CQ : DQ$.
 
-[[src_pol_1999_r1__Q06]]
+[[Quesiti/src_pol_1999_r1#q06|src_pol_1999_r1__Q06]]
 
 
 
@@ -195,7 +195,7 @@ level: Olimpiade Polacca Round 1
 
 > $n \ge 2$ sia un numero intero. Trova tutti i polinomi $P(x) = a_0 + a_1 x + \cdots + a_n x^n$ con radici reali $n$ non superiori a $-1$ e soddisfacente $$a_0^2 + a_1 a_n = a_n^2 + a_0 a_{n-1}.$$
 
-[[src_pol_1999_r1__Q07]]
+[[Quesiti/src_pol_1999_r1#q07|src_pol_1999_r1__Q07]]
 
 
 
@@ -222,7 +222,7 @@ level: Olimpiade Polacca Round 1
 
 > Si deve $S$ essere un insieme di elementi $n \ge 2$. Trova la $k$ più piccola per la quale esistono sottoinsiemi $A_1, A_2, \ldots, A_k$ di $S$ con la seguente proprietà: Per due elementi $a, b \in S$ esiste $j \in \{1, 2, \ldots, k\}$ tale che $A_j$ contiene esattamente uno degli elementi $a, b$.
 
-[[src_pol_1999_r1__Q08]]
+[[Quesiti/src_pol_1999_r1#q08|src_pol_1999_r1__Q08]]
 
 
 
@@ -249,7 +249,7 @@ level: Olimpiade Polacca Round 1
 
 > Supponiamo che $D, E, F$ siano punti sui lati $BC, CA, AB$ di un triangolo $ABC$ rispettivamente in modo tale che gli incircoli dei triangoli $AEF$, $BFD$, $CDE$ siano tangenti al circolo del triangolo $DEF$. Indicare che le righe $AD$, $BE$, $CF$ sono simultanee.
 
-[[src_pol_1999_r1__Q09]]
+[[Quesiti/src_pol_1999_r1#q09|src_pol_1999_r1__Q09]]
 
 
 
@@ -276,7 +276,7 @@ level: Olimpiade Polacca Round 1
 
 > Date $x_1 > 0$, la sequenza $(x_n)$ è definita da $$x_{n+1} = x_n + \frac{1}{x_n^2} \quad \text{for } n \ge 1.$$ Prove che il limite $\displaystyle \lim_{n \to \infty} \frac{x_n}{\sqrt[3]{n}}$ esiste e trova.
 
-[[src_pol_1999_r1__Q10]]
+[[Quesiti/src_pol_1999_r1#q10|src_pol_1999_r1__Q10]]
 
 
 
@@ -303,7 +303,7 @@ level: Olimpiade Polacca Round 1
 
 > C'è una palla bianca e una palla nera in un'urna. Inoltre, ci sono state date 50 palle bianche e 50 nere. Ripetiamo la seguente procedura 50 volte: scegliamo casualmente una palla dall'urna e la restituiamo all'urna insieme ad un'altra palla dello stesso colore. Qual e' il numero piu' probabile di sfere bianche nell'urna?
 
-[[src_pol_1999_r1__Q11]]
+[[Quesiti/src_pol_1999_r1#q11|src_pol_1999_r1__Q11]]
 
 
 
@@ -330,4 +330,4 @@ level: Olimpiade Polacca Round 1
 
 > Tutti i vertici di un cubo di bordo $a$ si trovano sulla superficie di un tetraedro regolare di bordo $1$. Trova tutti i valori possibili di $a$.
 
-[[src_pol_1999_r1__Q12]]
+[[Quesiti/src_pol_1999_r1#q12|src_pol_1999_r1__Q12]]

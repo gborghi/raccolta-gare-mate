@@ -39,7 +39,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Julien divided his deck of $32$ cards into two unequal packs of $19$ cards (left) and $13$ cards (right). The left packet contains $13$ black cards. How many red cards does the right pack contain? Note: a deck of $32$ cards contains as many red cards as black cards.
 
 **Answer:** 10 carte rosse
-[[src_bocconi_finaleint_2008_g1__Q01]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q01|src_bocconi_finaleint_2008_g1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > On the planet Sram there are three types of people: the truthful, who always tell the truth; the liars, who always lie; and the alternatives, who alternately tell the truth, lie, tell the truth, lie, ... You meet a man from the planet Sram and ask him two questions: ?». It's you. ?». The answers to these two questions help you to know what kind of inhabitants you are dealing with. What word is missing in each of the two questions?
 
 **Answer:** Alternativo, Alternativo
-[[src_bocconi_finaleint_2008_g1__Q02]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q02|src_bocconi_finaleint_2008_g1__Q02]]
 
 
 
@@ -97,7 +97,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > A cube of $3$ cm on the side was manufactured by gluing together $27$ cubes of $1$ cm on the side. What is the largest number of cubes visible from a single point of view?
 
 **Answer:** 19 cubetti
-[[src_bocconi_finaleint_2008_g1__Q03]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q03|src_bocconi_finaleint_2008_g1__Q03]]
 
 
 
@@ -125,7 +125,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Four buses run a circular route. The interval between them is $24$ minutes. If you want to reduce this interval to $16$ minutes, how many buses do you need to add on the route?
 
 **Answer:** 2 bus
-[[src_bocconi_finaleint_2008_g1__Q04]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q04|src_bocconi_finaleint_2008_g1__Q04]]
 
 
 
@@ -154,7 +154,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > In a digital display, each digit is represented by two to seven bright segments (see drawing here). How many light segments must be switched off, at a minimum, to make the equation on the right $00+00=100$ true?
 
 **Answer:** 2 segmenti
-[[src_bocconi_finaleint_2008_g1__Q05]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q05|src_bocconi_finaleint_2008_g1__Q05]]
 
 
 
@@ -182,7 +182,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > William has twice as many brothers as he has sisters. Her sister Florence has three times as many brothers as sisters. How many children is this family made up of?
 
 **Answer:** 13 figli
-[[src_bocconi_finaleint_2008_g1__Q06]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q06|src_bocconi_finaleint_2008_g1__Q06]]
 
 
 
@@ -195,7 +195,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Julie ha fabbricato questo solido con l'aiuto di due piramidi a base triangolare intrecciate. Da quanti triangolini è composta la sua superficie?
 
-![[src_bocconi_finaleint_2008_g1__Q07.png]]
+![[src_bocconi_finaleint_2008_g1__q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -212,10 +212,10 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Julie made this solid with the help of two interwoven triangular-based pyramids. How many triangles is its surface composed of?
 
-![[src_bocconi_finaleint_2008_g1__Q07.png]]
+![[src_bocconi_finaleint_2008_g1__q07.png]]
 
 **Answer:** 24 triangolini
-[[src_bocconi_finaleint_2008_g1__Q07]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q07|src_bocconi_finaleint_2008_g1__Q07]]
 
 
 
@@ -244,7 +244,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > An urn contains nine cards. Each of the numbers from $1$ to $9$ is written on a piece of paper (one number per piece of paper). Quentin randomly picks up four cards in the oven. Then Typhaine takes three, leaving one in the oven. Quentin looks at his cards and, confidently, says to Tiphaine: "I'm sure the sum of the numbers written on your cards is a odd number". What's the sum of the numbers written on the cards Quentin took?
 
 **Answer:** 20
-[[src_bocconi_finaleint_2008_g1__Q08]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q08|src_bocconi_finaleint_2008_g1__Q08]]
 
 
 
@@ -273,7 +273,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Six points $A$, $B$, $C$, $D$, $E$ and $F$ are marked on a straight line, not necessarily in this order. It is known that $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm and $FA = 9$ cm. What is the distance in cm between the two most distant points?
 
 **Answer:** 2 soluzioni: 17 cm; 15 cm
-[[src_bocconi_finaleint_2008_g1__Q09]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q09|src_bocconi_finaleint_2008_g1__Q09]]
 
 
 
@@ -286,7 +286,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Tracciando un triangolo equilatero e un quadrato, si crea al massimo $7$ regioni chiuse nel piano. Mathias disegna un pentagono regolare non incrociato (figura a $5$ lati) e un esagono regolare (figura a $6$ lati). Quante regioni chiuse del piano otterrà, al massimo?
 
-![[src_bocconi_finaleint_2008_g1__Q10.png]]
+![[src_bocconi_finaleint_2008_g1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
@@ -303,10 +303,10 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > By drawing an equilateral triangle and a square, a maximum of $7$ closed regions in the plane are created. Mathias draws an uncrossed regular pentagon (figure at $5$ sides) and a regular hexagon (figure at $6$ sides). How many closed regions of the plan will you get, at most?
 
-![[src_bocconi_finaleint_2008_g1__Q10.png]]
+![[src_bocconi_finaleint_2008_g1__q10.png]]
 
 **Answer:** 11 regioni chiuse
-[[src_bocconi_finaleint_2008_g1__Q10]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q10|src_bocconi_finaleint_2008_g1__Q10]]
 
 
 
@@ -319,7 +319,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Completate questo pentagono con l'aiuto di numeri interi strettamente positivi in modo tale che: $\bullet$ i numeri siano tutti differenti; $\bullet$ la somma di tre numeri posti su uno stesso segmento sia sempre la stessa; $\bullet$ il numero più grande sia il più piccolo possibile.
 
-![[src_bocconi_finaleint_2008_g1__Q11.png]]
+![[src_bocconi_finaleint_2008_g1__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -336,10 +336,10 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Complete this pentagon with the help of strictly positive integers so that: $\bullet$ the numbers are all different; $\bullet$ the sum of three numbers placed on the same segment is always the same; $\bullet$ the largest number is the smallest possible.
 
-![[src_bocconi_finaleint_2008_g1__Q11.png]]
+![[src_bocconi_finaleint_2008_g1__q11.png]]
 
 **Answer:** 1 soluzione
-[[src_bocconi_finaleint_2008_g1__Q11]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q11|src_bocconi_finaleint_2008_g1__Q11]]
 
 
 
@@ -352,7 +352,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > La figura rappresenta una carta $6 \times 5$ del porto militare di Maths-Pays e tre delle sue foto aeree prese nello stesso momento. Le caselle occupate da due navi differenti non possono toccarsi, nemmeno in diagonale. Le navi sono tutte di larghezza $1$. C'è una portaerei di lunghezza $3$, due controtorpediniere di lunghezza $2$ e tre scorte di lunghezza $1$. Completate la carta, sapendo che non c'è alcuna foto la cui orientazione sia corretta (ciascuna ha subito una rotazione).
 
-![[src_bocconi_finaleint_2008_g1__Q12.png]]
+![[src_bocconi_finaleint_2008_g1__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -369,10 +369,10 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > The figure represents a map of the military port of Maths-Pays and three of its aerial photographs taken at the same time. Boxes occupied by two different ships cannot touch each other, not even diagonally. All ships are $1$ wide. There is one aircraft carrier of length $3$, two anti-shippers of length $2$ and three stockpiles of length $1$. Complete the paper, knowing that there are no photos that have the correct orientation (each rotated).
 
-![[src_bocconi_finaleint_2008_g1__Q12.png]]
+![[src_bocconi_finaleint_2008_g1__q12.png]]
 
 **Answer:** 1 soluzione
-[[src_bocconi_finaleint_2008_g1__Q12]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q12|src_bocconi_finaleint_2008_g1__Q12]]
 
 
 
@@ -401,7 +401,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > A camel shed is located at the entrance of the desert and must supply water to a field located $16$ km from there. It has a water reserve of $100$ L and two camels moving at $4$ km/h. When moving, a camel can carry up to $50$ L of water and consume $4$ L of water per hour while, when standing, it consumes only $1$ L per hour. The camel rider, for his part, consumes $2$ L of water per hour walking and $1$ L of water per hour standing. A camel that is not led by its camel keeper can no longer navigate the desert. The camel keeper can tie a camel to a picket and leave it alone. How much water can the camelman deliver to the camp, knowing that he must be able to get out of the wilderness (at the same point of entry) with his two camels?
 
 **Answer:** 30 litri
-[[src_bocconi_finaleint_2008_g1__Q13]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q13|src_bocconi_finaleint_2008_g1__Q13]]
 
 
 
@@ -414,7 +414,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Ogni casella contiene una cifra e una sola. Ogni riga e ogni colonna contiene tutte le cifre da $1$ a $5$. I numeri di cinque cifre ottenuti leggendo le righe da sinistra a destra e le colonne dall'alto verso il basso sono tutti differenti. I loro ranghi sono indicati nell'ordine crescente all'esterno della griglia. Riempite la griglia.
 
-![[src_bocconi_finaleint_2008_g1__Q14.png]]
+![[src_bocconi_finaleint_2008_g1__q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -431,10 +431,10 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Each box contains a number and a single number. Each row and column contains all the digits from $1$ to $5$. The five-digit numbers obtained by reading the rows from left to right and the columns from top to bottom are all different. Their ranks are given in increasing order outside the grid. Fill the grid.
 
-![[src_bocconi_finaleint_2008_g1__Q14.png]]
+![[src_bocconi_finaleint_2008_g1__q14.png]]
 
 **Answer:** 2 soluzioni
-[[src_bocconi_finaleint_2008_g1__Q14]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q14|src_bocconi_finaleint_2008_g1__Q14]]
 
 
 
@@ -463,7 +463,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Aline has $2010$ breasts: two numbered $0$ and the others numbered $1$ to $2008$. $2009$ people are in a room and Aline puts one of her breasts on each one without her seeing it. The last chest is hidden. Each person knows the number of breasts of all the others. These people then line up randomly in an order unknown to all. The first of the line tells the second (in such a way that no one else understands) whether or not she has guessed her number (she will tell anyone). Similarly, the second person tells the third person's ear whether or not she guessed her number and so on until the end... (These people all reason perfectly). For the record, I learned that the fifth person in the line had guessed his number. How many people could guess their number?
 
 **Answer:** 6 soluzioni: 1; 2005; 2006; 2007; 2008; 2009
-[[src_bocconi_finaleint_2008_g1__Q15]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q15|src_bocconi_finaleint_2008_g1__Q15]]
 
 
 
@@ -492,7 +492,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Chloé has regular paper tetrahedra (triangular-based pyramids whose faces are all equilateral triangles). Each face of these tetrahedra is divided into four equilateral triangles, and Chloé colors each triangle of his tetrahedra in orange, green, blue, or yellow. Chloé finds a beautiful coloration if for each triangle, he and his three neighbors use exactly once each of the four colors (a triangle can have a neighbor on one face). How many different beautiful colors can you get, at most? (Two colors are different if you can't switch from one to the other by spinning the tetrahedron in space.)
 
 **Answer:** 20 colorazioni
-[[src_bocconi_finaleint_2008_g1__Q16]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q16|src_bocconi_finaleint_2008_g1__Q16]]
 
 
 
@@ -505,7 +505,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Ogni casella della griglia contiene la cifra $1$, $2$ o $3$. Nella riga in basso, le cifre sono in ordine crescente in senso largo (due cifre vicine possono essere uguali) da sinistra a destra. Nella colonna di sinistra, le cifre sono in ordine crescente in senso largo dal basso verso l'alto. Completate la griglia in modo che, in ogni «rettangolo» o «quadrato» di quattro caselle all'intersezione di due righe e di due colonne, le due somme di due cifre in diagonale siano differenti. Così, sulla figura, la somma di $a$ e di $b$ deve essere differente da $3$.
 
-![[src_bocconi_finaleint_2008_g1__Q17.png]]
+![[src_bocconi_finaleint_2008_g1__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -522,10 +522,10 @@ On the planet Sram, identify the type of inhabitant with two questions.
 
 > Each grid box contains the figure $1$, $2$ or $3$. In the lower row, the figures are in increasing order in the broad sense (two nearby figures can be equal) from left to right. In the left column, the figures are in increasing order in a broad sense from bottom to top. Complete the grid so that, in any rectangle or quadrat of four boxes at the intersection of two rows and two columns, the two sums of two digits in diagonal are different. Thus, on the figure, the sum of $a$ and $b$ must be different from $3$.
 
-![[src_bocconi_finaleint_2008_g1__Q17.png]]
+![[src_bocconi_finaleint_2008_g1__q17.png]]
 
 **Answer:** 1 soluzione
-[[src_bocconi_finaleint_2008_g1__Q17]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q17|src_bocconi_finaleint_2008_g1__Q17]]
 
 
 
@@ -554,4 +554,4 @@ On the planet Sram, identify the type of inhabitant with two questions.
 > Picsou owns four types of gold bullion, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$ and $D$ of the same density, the dimensions in centimetres being: $\bullet$ $3$, $4$ and $7$ respectively for $A$; $\bullet$ $3$, $4$ and $11$ for $B$; $\bullet$ $3$, $7$ and $11$ for $C$; $\bullet$ $4$, $7$ and $11$ for $D$. With four $A$ bars, one $B$ bar, four $C$ bars and two $D$ bars, Picsou obtains an exact amount of gold equal to $2008$ cm$^3$. What is the maximum amount of gold in cm$^3$ that you cannot get exactly?
 
 **Answer:** 2017
-[[src_bocconi_finaleint_2008_g1__Q18]]
+[[Quesiti/src_bocconi_finaleint_2008_g1#q18|src_bocconi_finaleint_2008_g1__Q18]]

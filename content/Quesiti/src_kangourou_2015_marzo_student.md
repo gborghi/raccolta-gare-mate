@@ -43,7 +43,7 @@ Angela's age in the months following Carlotta's birth
 > B) between 47 and 61. (c) between 35 and 49. D) greater than 48. (e) between 36 and 60.
 
 **Answer:** E
-[[src_kangourou_2015_marzo_student__Q01]]
+[[Quesiti/src_kangourou_2015_marzo_student#q01|src_kangourou_2015_marzo_student__Q01]]
 
 
 
@@ -87,7 +87,7 @@ Angela's age in the months following Carlotta's birth
 > E) 3 × 1013
 
 **Answer:** E
-[[src_kangourou_2015_marzo_student__Q02]]
+[[Quesiti/src_kangourou_2015_marzo_student#q02|src_kangourou_2015_marzo_student__Q02]]
 
 
 
@@ -129,7 +129,7 @@ Angela's age in the months following Carlotta's birth
 > E) 3
 
 **Answer:** A
-[[src_kangourou_2015_marzo_student__Q03]]
+[[Quesiti/src_kangourou_2015_marzo_student#q03|src_kangourou_2015_marzo_student__Q03]]
 
 
 
@@ -172,7 +172,7 @@ Angela's age in the months following Carlotta's birth
 > Diana drew the column graph in the figure to represent the quantity of each of the 4 species of trees her class catalogued during a botanical excursion. James thinks, instead, that the relationship between the different species is best seen with a pie chart. Of the following pie charts, which one should James draw? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2015_marzo_student__Q04]]
+[[Quesiti/src_kangourou_2015_marzo_student#q04|src_kangourou_2015_marzo_student__Q04]]
 
 
 
@@ -208,7 +208,7 @@ Total sum 2001-2031 divided by 31
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q05]]
+[[Quesiti/src_kangourou_2015_marzo_student#q05|src_kangourou_2015_marzo_student__Q05]]
 
 
 
@@ -260,7 +260,7 @@ Total sum 2001-2031 divided by 31
 > E) 4
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q06]]
+[[Quesiti/src_kangourou_2015_marzo_student#q06|src_kangourou_2015_marzo_student__Q06]]
 
 
 
@@ -315,7 +315,7 @@ Total sum 2001-2031 divided by 31
 > E) 9
 
 **Answer:** B
-[[src_kangourou_2015_marzo_student__Q07]]
+[[Quesiti/src_kangourou_2015_marzo_student#q07|src_kangourou_2015_marzo_student__Q07]]
 
 
 
@@ -357,7 +357,7 @@ Total sum 2001-2031 divided by 31
 > A glass is shaped like a cone trunk (see figure). We want to cut out colored paper to cover the side surface of the glass. What shape, among those shown in the following figures, must the paper have if we want it to cover the entire surface without overlapping and without any areas where the paper overlaps itself? A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q08]]
+[[Quesiti/src_kangourou_2015_marzo_student#q08|src_kangourou_2015_marzo_student__Q08]]
 
 
 
@@ -410,7 +410,7 @@ This is the total amount of the loan.
 >
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q09]]
+[[Quesiti/src_kangourou_2015_marzo_student#q09|src_kangourou_2015_marzo_student__Q09]]
 
 
 
@@ -458,7 +458,7 @@ This is the total amount of the loan.
 > E) 1, 2, 3. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2015_marzo_student__Q10]]
+[[Quesiti/src_kangourou_2015_marzo_student#q10|src_kangourou_2015_marzo_student__Q10]]
 
 
 
@@ -491,7 +491,7 @@ This is the total value of the underlying asset.
 > What is the value of √ (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015) ? A) √ 2015 B) 2015 C) 2016 D) 2017 E) 4030
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q11]]
+[[Quesiti/src_kangourou_2015_marzo_student#q11|src_kangourou_2015_marzo_student__Q11]]
 
 
 
@@ -539,7 +539,7 @@ This is the total value of the underlying asset.
 > E) 11
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q12]]
+[[Quesiti/src_kangourou_2015_marzo_student#q12|src_kangourou_2015_marzo_student__Q12]]
 
 
 
@@ -585,7 +585,7 @@ This is the total value of the underlying asset.
 > E) He can 't do it
 
 **Answer:** E
-[[src_kangourou_2015_marzo_student__Q13]]
+[[Quesiti/src_kangourou_2015_marzo_student#q13|src_kangourou_2015_marzo_student__Q13]]
 
 
 
@@ -632,7 +632,7 @@ This is the total value of the underlying asset.
 > E) e
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q14]]
+[[Quesiti/src_kangourou_2015_marzo_student#q14|src_kangourou_2015_marzo_student__Q14]]
 
 
 
@@ -673,7 +673,7 @@ This is the total value of the underlying asset.
 > C) 15/2 D) 15/6 E) 36
 
 **Answer:** B
-[[src_kangourou_2015_marzo_student__Q15]]
+[[Quesiti/src_kangourou_2015_marzo_student#q15|src_kangourou_2015_marzo_student__Q15]]
 
 
 
@@ -718,7 +718,7 @@ This is the total value of the underlying asset.
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q16]]
+[[Quesiti/src_kangourou_2015_marzo_student#q16|src_kangourou_2015_marzo_student__Q16]]
 
 
 
@@ -755,7 +755,7 @@ This is the total value of the underlying asset.
 > A car salesman bought and sold two cars. Compared to the purchase prices, it resold the first one at a price above 40% and the second one at a price above 60%. The total revenue for the two cars was 54% more than the sum of the purchase prices. What is the ratio of the prices paid by the dealer for the first and second cars? (A) 2:3 B) 20:27 C) 3:7 D) 7:12 E) The information is not sufficient to answer.
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q17]]
+[[Quesiti/src_kangourou_2015_marzo_student#q17|src_kangourou_2015_marzo_student__Q17]]
 
 
 
@@ -839,7 +839,7 @@ This is the total value of the underlying asset.
 > C) D) 2√2 E) 6
 
 **Answer:** A
-[[src_kangourou_2015_marzo_student__Q18]]
+[[Quesiti/src_kangourou_2015_marzo_student#q18|src_kangourou_2015_marzo_student__Q18]]
 
 
 
@@ -888,7 +888,7 @@ This is the total value of the underlying asset.
 > E) 2015
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q19]]
+[[Quesiti/src_kangourou_2015_marzo_student#q19|src_kangourou_2015_marzo_student__Q19]]
 
 
 
@@ -940,7 +940,7 @@ This is the total value of the underlying asset.
 > E) 2, 3 o 5. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2015_marzo_student__Q20]]
+[[Quesiti/src_kangourou_2015_marzo_student#q20|src_kangourou_2015_marzo_student__Q20]]
 
 
 
@@ -1011,7 +1011,7 @@ This is the total value of the underlying asset.
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q21]]
+[[Quesiti/src_kangourou_2015_marzo_student#q21|src_kangourou_2015_marzo_student__Q21]]
 
 
 
@@ -1064,7 +1064,7 @@ This is the total value of the underlying asset.
 > E) None of the above.
 
 **Answer:** A
-[[src_kangourou_2015_marzo_student__Q22]]
+[[Quesiti/src_kangourou_2015_marzo_student#q22|src_kangourou_2015_marzo_student__Q22]]
 
 
 
@@ -1103,7 +1103,7 @@ This is the total value of the underlying asset.
 > Bea has a classic dice, with the numbers 1, 2, 3, 4, 5 and 6 on the six faces. Lia, on the other hand, has a special dice that returns two out of three faces and five on the other three. Both dice are equal, which means that the probability of a face coming out is the same for all faces. The game states that, when Bea and Lia throw their dice, the one with the highest score wins, while if the scores are equal, there is a tie. At each throw, what's the probability that Lia wins? A) 1/3 B) 7/18 C) 7/12 D) 1/2 E) A different value from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2015_marzo_student__Q23]]
+[[Quesiti/src_kangourou_2015_marzo_student#q23|src_kangourou_2015_marzo_student__Q23]]
 
 
 
@@ -1150,7 +1150,7 @@ This is the total value of the underlying asset.
 > E) 60
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q24]]
+[[Quesiti/src_kangourou_2015_marzo_student#q24|src_kangourou_2015_marzo_student__Q24]]
 
 
 
@@ -1197,7 +1197,7 @@ This is the total value of the underlying asset.
 > E) 5
 
 **Answer:** E
-[[src_kangourou_2015_marzo_student__Q25]]
+[[Quesiti/src_kangourou_2015_marzo_student#q25|src_kangourou_2015_marzo_student__Q25]]
 
 
 
@@ -1245,7 +1245,7 @@ This is the total value of the underlying asset.
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q26]]
+[[Quesiti/src_kangourou_2015_marzo_student#q26|src_kangourou_2015_marzo_student__Q26]]
 
 
 
@@ -1354,7 +1354,7 @@ This is the total value of the underlying asset.
 >
 
 **Answer:** C
-[[src_kangourou_2015_marzo_student__Q27]]
+[[Quesiti/src_kangourou_2015_marzo_student#q27|src_kangourou_2015_marzo_student__Q27]]
 
 
 
@@ -1402,7 +1402,7 @@ This is the total value of the underlying asset.
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2015_marzo_student__Q28]]
+[[Quesiti/src_kangourou_2015_marzo_student#q28|src_kangourou_2015_marzo_student__Q28]]
 
 
 
@@ -1453,7 +1453,7 @@ This is the total value of the underlying asset.
 > E) 95
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q29]]
+[[Quesiti/src_kangourou_2015_marzo_student#q29|src_kangourou_2015_marzo_student__Q29]]
 
 
 
@@ -1519,4 +1519,4 @@ This is the total number of units of measurement.
 > Stringing Student 2015
 
 **Answer:** D
-[[src_kangourou_2015_marzo_student__Q30]]
+[[Quesiti/src_kangourou_2015_marzo_student#q30|src_kangourou_2015_marzo_student__Q30]]

@@ -34,7 +34,7 @@ level: IMO
 
 > Let $M$ be a point on the side $AB$ of $\triangle ABC$. Let $r_1$, $r_2$, $r$ be the radii of the inscribed circles of triangles $AMC$, $BMC$ and $ABC$. Let $q_1$, $q_2$, $q$ be the radii of the inscribed circles of the same triangles that lie in the angle $ACB$. Prove that $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
 
-[[src_imho_1970__Q01]]
+[[Quesiti/src_imho_1970#q01|src_imho_1970__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: IMO
 
 > Let $a$, $b$ be integers greater than 1, and let $a$ and $b$ be the bases of two number systems. $A_{n-1}$ and $A_n$ are numbers in the system with base $a$; $B_{n-1}$ and $B_n$ are the numbers in the system with base $b$; these are related as follows: $$A_n = x_n x_{n-1} \cdots x_1 x_0, \quad A_{n-1} = x_{n-1} x_{n-2} \cdots x_1 x_0,$$ $$B_n = x_n x_{n-1} \cdots x_1 x_0, \quad B_{n-1} = x_{n-1} x_{n-2} \cdots x_1 x_0,$$ $$x_n \neq 0, \quad x_{n-1} \neq 0.$$ Prove that $$\frac{A_{n-1}}{A_n} < \frac{B_{n-1}}{B_n} \text{ if and only if } a > b.$$
 
-[[src_imho_1970__Q02]]
+[[Quesiti/src_imho_1970#q02|src_imho_1970__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: IMO
 > 
 > (b) Given $c$ with $0 \le c < 2$, prove that there exist numbers $a_0, a_1, a_2, \ldots$ with the above properties such that $b_n > c$ for large enough $n$.
 
-[[src_imho_1970__Q03]]
+[[Quesiti/src_imho_1970#q03|src_imho_1970__Q03]]
 
 
 
@@ -128,7 +128,7 @@ Partition of positive integers into two sets with equal products
 
 > Find the set of all positive integers $n$ with the property that the set $\{n, n+1, n+2, n+3, n+4, n+5\}$ can be partitioned into two sets such that the product of the numbers in one set equals the product of the numbers in the other set.
 
-[[src_imho_1970__Q04]]
+[[Quesiti/src_imho_1970#q04|src_imho_1970__Q04]]
 
 
 
@@ -157,7 +157,7 @@ Partition of positive integers into two sets with equal products
 
 > In the tetrahedron $ABCD$, angle $BDC$ is a right angle. Suppose that the foot $H$ of the perpendicular from $D$ to the plane $ABC$ is the intersection of the altitudes of $\triangle ABC$. Prove that for what tetrahedra does equality hold?
 
-[[src_imho_1970__Q05]]
+[[Quesiti/src_imho_1970#q05|src_imho_1970__Q05]]
 
 
 
@@ -184,4 +184,4 @@ Partition of positive integers into two sets with equal products
 
 > In a plane there are 100 points, no three of which are collinear. Consider all possible triangles having these points as vertices. Prove that no more than $70\%$ of these triangles are acute-angled.
 
-[[src_imho_1970__Q06]]
+[[Quesiti/src_imho_1970#q06|src_imho_1970__Q06]]
