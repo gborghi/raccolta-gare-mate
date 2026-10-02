@@ -74,12 +74,17 @@ function parseFrontmatter(raw) {
   return { data, content: m[2] }
 }
 
+// PREPROCESS_VAULT / PREPROCESS_OUT override the vault and the output root (content/ +
+// quartz/static/*.json) -- used by test/preprocess-siblings.test.mjs to run against a
+// tiny synthetic vault in a temp dir without touching the committed content/.
 const VAULT =
+  process.env.PREPROCESS_VAULT ||
   "E:/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiMatematica/raccoltaGareMate/Knowledge Graph"
 const ROOT = path.resolve(".")
-const CONTENT = path.join(ROOT, "content")
-const STATIC_JSON = path.join(ROOT, "quartz", "static", "quesiti.json")
-const KW_JSON = path.join(ROOT, "quartz", "static", "quesiti_kw.json")
+const OUT = process.env.PREPROCESS_OUT ? path.resolve(process.env.PREPROCESS_OUT) : ROOT
+const CONTENT = path.join(OUT, "content")
+const STATIC_JSON = path.join(OUT, "quartz", "static", "quesiti.json")
+const KW_JSON = path.join(OUT, "quartz", "static", "quesiti_kw.json")
 
 // Re-stamp content/ as Dropbox-ignored (NTFS com.dropbox.ignored alternate data stream)
 // after each regen — main() recreates the dir, which drops any prior flag. content/ stays
@@ -253,6 +258,37 @@ function transform(content) {
   return content
 }
 
+// Bilingual: merge hidden translation siblings into a quesito body (same shape as
+// site-fisica's mergeSiblings). Emits one <div class="qlang-switch" data-default="<orig>">
+// then the original-language body, then per sibling language a
+// <div class="qlang-split" data-lang="<l>"> + its body. qlang.inline.ts partitions on
+// these markers and toggles by flag. Order is deterministic: it, en, then the others
+// alphabetically. A sibling whose lang equals the original language is skipped.
+// Returns { body, langs } (langs = sibling languages actually merged).
+const LANG_RANK = { it: 0, en: 1 }
+const langCmp = (a, b) => (LANG_RANK[a] ?? 2) - (LANG_RANK[b] ?? 2) || a.localeCompare(b)
+function mergeSiblings(key, body, origin, siblings, stats) {
+  const byLang = siblings.get(key)
+  if (!byLang) return { body, langs: [] }
+  const orig = String(origin || "it").trim().toLowerCase()
+  const langs = []
+  for (const lang of [...byLang.keys()].sort(langCmp)) {
+    if (lang === orig) {
+      if (stats) {
+        stats.sameLang++
+        console.warn(`WARN: sibling ${byLang.get(lang).rel} has lang=${lang} = original language of ${key}; skipped`)
+      }
+      continue
+    }
+    langs.push(lang)
+  }
+  if (!langs.length) return { body, langs }
+  let merged = `<div class="qlang-switch" data-default="${orig}"></div>\n\n` + body
+  for (const lang of langs)
+    merged += `\n\n<div class="qlang-split" data-lang="${lang}"></div>\n\n` + byLang.get(lang).body
+  return { body: merged, langs }
+}
+
 async function walk(dir, base = dir, out = []) {
   for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
     const full = path.join(dir, ent.name)
@@ -286,20 +322,44 @@ async function main() {
   const kwIndex = {}
   let written = 0
   let decorated = 0
-  let merged = 0
+  let merged = 0 // quesiti that received at least one translation block
+  let mergedBlocks = 0 // total qlang-split blocks emitted (one per sibling language)
+  const sibStats = { sameLang: 0, dupes: 0, noLang: 0 }
 
   // Bilingual pass 1: collect hidden translation siblings, keyed by the default
-  // slug they translate. Siblings are NEVER written or indexed (skipped in the
-  // main loop); their body is merged into the default page below.
+  // basename they translate: key -> Map(lang -> {lang, body, mtime, rel}). A quesito can
+  // have several siblings (e.g. __en.md AND __it.md); all are kept, one per language.
+  // Two siblings with the same lang for the same quesito: keep the newest (mtime) and
+  // warn. Siblings are NEVER written or indexed (skipped in the main loop); their body
+  // is merged into the default page below.
   const siblings = new Map()
   for (const rel of files) {
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
     const { data, content } = parseFrontmatter(raw)
     if (String(data.secondary) === "true" && data.translation_of) {
-      siblings.set(String(data.translation_of).toLowerCase(), {
-        lang: data.lang,
-        body: transform(content),
-      })
+      const key = String(data.translation_of).toLowerCase()
+      const lang = String(data.lang || "").trim().toLowerCase()
+      if (!lang) {
+        sibStats.noLang++
+        console.warn(`WARN: sibling ${rel} has no lang; skipped`)
+        continue
+      }
+      const { mtimeMs: mtime } = await fs.stat(path.join(VAULT, rel))
+      if (!siblings.has(key)) siblings.set(key, new Map())
+      const byLang = siblings.get(key)
+      const prev = byLang.get(lang)
+      const cur = { lang, body: transform(content), mtime, rel }
+      if (prev) {
+        sibStats.dupes++
+        // newest wins; equal mtime -> lexicographically last path (deterministic)
+        const keepCur = cur.mtime > prev.mtime || (cur.mtime === prev.mtime && rel > prev.rel)
+        const [kept, dropped] = keepCur ? [cur, prev] : [prev, cur]
+        console.warn(
+          `WARN: duplicate ${lang} sibling for ${key}: kept ${kept.rel} (newest), dropped ${dropped.rel}`,
+        )
+        if (!keepCur) continue
+      }
+      byLang.set(lang, cur)
     }
   }
 
@@ -360,19 +420,21 @@ async function main() {
         decorated++
       }
     }
-    // Bilingual merge: append the translated sibling body after a split marker, so
+    // Bilingual merge: append one qlang-split block per translated sibling language, so
     // qlang.inline.ts can partition the article DOM and toggle language. Only for
     // quesito pages that actually have a translation.
     if (data.tipo === "quesito") {
-      const sib = siblings.get(path.basename(rel, ".md").toLowerCase())
-      if (sib) {
-        const origin = data.lang || "it"
-        newContent =
-          `<div class="qlang-switch" data-default="${origin}"></div>\n\n` +
-          newContent +
-          `\n\n<span class="qlang-split" data-lang="${sib.lang}"></span>\n\n` +
-          sib.body
+      const m = mergeSiblings(
+        path.basename(rel, ".md").toLowerCase(),
+        newContent,
+        data.lang,
+        siblings,
+        sibStats,
+      )
+      if (m.langs.length) {
+        newContent = m.body
         merged++
+        mergedBlocks += m.langs.length
       }
     }
     if (!skipQuesitoPage) {
@@ -419,17 +481,14 @@ async function main() {
       const { data: adata, content: acontent } = parseFrontmatter(
         await fs.readFile(path.join(VAULT, a.rel), "utf8"),
       )
-      let body = transform(acontent)
-      // bilingual merge: identical shape to the main-loop block above
-      const sib = siblings.get(path.basename(a.rel, ".md").toLowerCase())
-      if (sib) {
-        const origin = adata.lang || "it"
-        body =
-          `<div class="qlang-switch" data-default="${origin}"></div>\n\n` +
-          body +
-          `\n\n<span class="qlang-split" data-lang="${sib.lang}"></span>\n\n` +
-          sib.body
-      }
+      // bilingual merge: identical shape to the main-loop block above (counted there)
+      const body = mergeSiblings(
+        path.basename(a.rel, ".md").toLowerCase(),
+        transform(acontent),
+        adata.lang,
+        siblings,
+        null,
+      ).body
       const atomTitle = adata.quesito ? `Quesito ${adata.quesito}` : a.atomId.toUpperCase()
       const atags = [].concat(adata.topics || [], adata.methods || [], adata.skills || [])
       blocks.push(
@@ -633,12 +692,18 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti. Usa l'interru
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
   console.log(
-    `copied ${written} notes, indexed ${quesiti.length} quesiti, merged ${merged} bilingual siblings`,
+    `copied ${written} notes, indexed ${quesiti.length} quesiti, merged ${mergedBlocks} translation siblings into ${merged} quesiti` +
+      ` (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`,
   )
   // link/image repairs shared with the committed content (scripts/fix-content-links.mjs):
   // atom links -> gara#qNN, lower-case figure names, PDF -> Drive, dangling concepts.
   await new Promise((res, rej) =>
-    execFile(process.execPath, ["scripts/fix-content-links.mjs"], (e, out) => (e ? rej(e) : (console.log(out.trim()), res()))),
+    execFile(
+      process.execPath,
+      [path.join(ROOT, "scripts", "fix-content-links.mjs")],
+      { env: { ...process.env, GM_CONTENT: CONTENT } },
+      (e, out) => (e ? rej(e) : (console.log(out.trim()), res())),
+    ),
   )
   if (missingPdf.size) {
     console.log(`WARN: ${missingPdf.size} PDF links had no Drive mapping (kept as plain text):`)

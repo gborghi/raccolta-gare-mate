@@ -15,7 +15,7 @@ import { readdirSync, readFileSync, writeFileSync, renameSync, existsSync, statS
 import path from "node:path"
 
 const ROOT = process.env.GM_ROOT || "."
-const CONTENT = path.join(ROOT, "content")
+const CONTENT = process.env.GM_CONTENT || path.join(ROOT, "content") // preprocess passes its output dir
 const ATT = path.join(CONTENT, "_attachments")
 const DRIVE = JSON.parse(readFileSync(path.join(ROOT, "pdf_drive_map.json"), "utf8").replace(/^\uFEFF/, ""))
 const stats = {}
