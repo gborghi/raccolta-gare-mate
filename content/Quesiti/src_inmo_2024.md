@@ -32,7 +32,7 @@ level: INMO
 
 > Nel triangolo $ABC$ con $CA = CB$, il punto $E$ si trova sul circoncircolo di $ABC$ in modo tale che $\angle ECB = 90^\circ$. La linea attraverso $E$ parallela a $CB$ si interseca tra $CA$ in $F$ e $AB$ in $G$. Prove che il centro del circoncircolo del triangolo $EGB$ si trova sul circoncircolo del triangolo $ECF$.
 
-[[src_inmo_2024__Q01]]
+[[Quesiti/src_inmo_2024#q01|src_inmo_2024__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: INMO
 
 > Tutti i quadrati di una scheda $2024 \times 2024$ sono di colore bianco. In una mossa, Mohit può selezionare una riga o una colonna di cui ogni quadrato è bianco, scegliere esattamente 1000 quadrati in questa riga o colonna, e colorarli tutti rossi. Trova il numero massimo di quadrati che Mohit può colorare rosso in un numero finito di mosse.
 
-[[src_inmo_2024__Q02]]
+[[Quesiti/src_inmo_2024#q02|src_inmo_2024__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: INMO
 
 > Che $p$ sia un numero primo impar e $a, b, c$ un numero intero in modo che tutti i numeri interi $$a^{2021} + b^{2023},\quad a^{2023} + c^{2021},\quad a^{2025} + c^{2025}$$ siano divisibili da $p$. Provare che $p$ divide ciascuno di $a, b, c$.
 
-[[src_inmo_2024__Q03]]
+[[Quesiti/src_inmo_2024#q03|src_inmo_2024__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: INMO
 > 
 > \textit{Nota.} Ad esempio, $\{1, 3, 5\}$ è un insieme cardinale perché ha 3 elementi distinti, e l'insieme contiene 3.
 
-[[src_inmo_2024__Q04]]
+[[Quesiti/src_inmo_2024#q04|src_inmo_2024__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: INMO
 > 
 > Prove che il raggio del circoncircolo di $\triangle P_1 P_2 P_3$ è al massimo quello di $\Gamma$.
 
-[[src_inmo_2024__Q05]]
+[[Quesiti/src_inmo_2024#q05|src_inmo_2024__Q05]]
 
 
 
@@ -184,4 +184,4 @@ level: INMO
 > 
 > Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande $N$ tale che $N \le x$.
 
-[[src_inmo_2024__Q06]]
+[[Quesiti/src_inmo_2024#q06|src_inmo_2024__Q06]]

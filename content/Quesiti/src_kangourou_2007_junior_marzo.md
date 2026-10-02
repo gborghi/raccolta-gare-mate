@@ -39,7 +39,7 @@ level: kangourou
 > He throws a traditional dice: what is the probability that the product of the numbers that appear on the five faces that remain visible is divisible by 6? A) 1/3 B) 1/2 C) 2/3 D) 5/6 E) 1
 
 **Answer:** E
-[[src_kangourou_2007_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q01|src_kangourou_2007_junior_marzo__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: kangourou
 > In a lottery, only those ticket holders whose number is at least five digits are awarded prizes, three of which are higher than two. Of the following ticket holders, 1022, 22222, 102334, 213343, 3042531, how many are awarded? A) 1 B) 2                  C) 3 D) 4                      E) 5
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q02|src_kangourou_2007_junior_marzo__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: kangourou
 > A balloon is stationary at 1,200 meters above the ground. The crew on board has a receiver capable of operating within 1300 metres. What is the maximum distance in metres for two people on the ground to communicate with the crew on board, equipped with similar transmitters? A) 500 B) 800 C) 1000 D) 1200 E) 1300
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q03|src_kangourou_2007_junior_marzo__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: kangourou
 > Let ABC be a triangle of area 96. So D is the midpoint of the AB side, and DB is the midpoint of the segment, and F is the midpoint of the BC side. How much is the area of the AEF triangle ? A) 16 B) 24 C) 32 D) 36 E) 48
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q04|src_kangourou_2007_junior_marzo__Q04]]
 
 
 
@@ -188,7 +188,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 23 23 Kang 2007 Kang 2007
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q05|src_kangourou_2007_junior_marzo__Q05]]
 
 
 
@@ -249,7 +249,7 @@ level: kangourou
 > Look at the grid in the figure. A move consists exclusively of moving (horizontal, vertical or diagonal) a foot from one box to another adjacent one. You want to move a pedal from one of the two boxes marked with the triangle on the other, using as few moves as possible. How many different routes do you have available? A) 2 B) 4 C) 7 D) 20 E) 35
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q06|src_kangourou_2007_junior_marzo__Q06]]
 
 
 
@@ -318,7 +318,7 @@ level: kangourou
 > In each grid cell in the figure, the digit 0 or the digit 1 must be inserted, so that in each row and column the sum of the digits that appear there is 2. What digits should be substituted for X and Y? A) X = 1, Y = 1 B) X = 1, Y = 0 C) X = 0, Y = 1 D) X = 0, Y = 0 E) The configuration cannot be made.
 
 **Answer:** A
-[[src_kangourou_2007_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q07|src_kangourou_2007_junior_marzo__Q07]]
 
 
 
@@ -353,7 +353,7 @@ level: kangourou
 > Find the maximum value that the expression KAN + GA + ROO can assume when each letter is assigned a digit, so that different letters have different digits. A) 1906 B) 1897 C) 1905 D) 1895           E) 2007
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q08|src_kangourou_2007_junior_marzo__Q08]]
 
 
 
@@ -432,7 +432,7 @@ level: kangourou
 > In the figure you see an ABC triangle where two different segments start from the A vertex with a second end on the opposite side, and the same happens from the B vertex. The four segments thus charted divide the triangle into 9 regions (except for the edges). If from each of the two vertices A and B four distinct segments, instead of two, are plotted until they meet the opposite side, what is the number of regions (disjoint except for the edges) in which the triangle is distributed? A) 16 B) 25 C) 36 D) 42 E) 49
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q09|src_kangourou_2007_junior_marzo__Q09]]
 
 
 
@@ -486,7 +486,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 24 24 Kang 2007 Kang 2007 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q10|src_kangourou_2007_junior_marzo__Q10]]
 
 
 
@@ -520,7 +520,7 @@ level: kangourou
 > The inhabitants of an island are divided into liars (people who always lie) or truthful (people who always tell the truth). One day, 12 residents, both honest and lying, gather together and make some statements. Two of them say:  Exactly two of us 12 are liars The other four say, "Exactly four of us 12 are liars". The remaining six say, "Exactly six of us 12 are liars". How many liars are there among those 12? A) 2                 B) 4                  C) 6                D) 8                 E) 10
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q11|src_kangourou_2007_junior_marzo__Q11]]
 
 
 
@@ -550,7 +550,7 @@ level: kangourou
 > What power do we have to raise 44 to get 88 ? A) 2                 B) 3                  C) 4                D) 8                 E) 16
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q12|src_kangourou_2007_junior_marzo__Q12]]
 
 
 
@@ -594,7 +594,7 @@ level: kangourou
 > Of the four walls that delimit a cone, the two sides (opposite) are vertical while the floor and ceiling are parallel to each other, but not perpendicular to the side walls: consequently the vertical section is not a rectangle, but a parallelogram which, observed from the entrance, presents the lowest part on the right. In the middle of the cone, a barrier door is to be constructed which consists of two sections, upper and lower, open one independently of the other. Looking at the entrance, how are the two sections to be anchored? A) Both on the left side. B) Both on the right side. C) The upper one on the left side and the lower one on the right side. D) The upper one on the right side and the lower one on the left side. E) The project is not feasible.
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q13|src_kangourou_2007_junior_marzo__Q13]]
 
 
 
@@ -643,7 +643,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 25 25 Kang 2007 Kang
 
 **Answer:** E
-[[src_kangourou_2007_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q14|src_kangourou_2007_junior_marzo__Q14]]
 
 
 
@@ -684,7 +684,7 @@ level: kangourou
 > Look at the figure. One of the two ends of a 10-metre long rope is attached to a corner of a 4-metre by 6-metre rectangular planted shed, while the other end is tied to a dog (which obviously cannot enter the shed). What is the perimeter of the region within which the dog can move? A) 20 π B) 22 π C) 40 π D) 88 π E) 100 π
 
 **Answer:** A
-[[src_kangourou_2007_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q15|src_kangourou_2007_junior_marzo__Q15]]
 
 
 
@@ -721,7 +721,7 @@ level: kangourou
 > It's 9:00, and I'm driving at 100 miles an hour. At this speed with the gas I have left I can only run 80 kilometers, but the nearest distributor is 100 kilometers away. The amount of gasoline my car consumes is directly proportional to the speed of the car and I want to waste as little time as possible. What time do I get to the distributor? A) 22:12 B) 22:15 C) 22:20 D) 22:25           E) 22:30
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q16|src_kangourou_2007_junior_marzo__Q16]]
 
 
 
@@ -756,7 +756,7 @@ level: kangourou
 > A trapezoid is constructed from an equilateral triangle sequencing an angle (i.e. removing from it a suitable smaller triangle having a vertex in common with it). Two copies of this trapezoid are joined together to form a parallelogram whose perimeter is 10 centimeters longer than that of the original triangle. How many centimeters does the perimeter of the original triangle measure? A) 10 B) 30 C) 40 D) 60 E) The data are insufficient.
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q17|src_kangourou_2007_junior_marzo__Q17]]
 
 
 
@@ -809,7 +809,7 @@ When the clock signs 5 more minutes
 > I'm going to pay. I'm going to pay. 26 26 Kang 2007 Kang 2007
 
 **Answer:** E
-[[src_kangourou_2007_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q18|src_kangourou_2007_junior_marzo__Q18]]
 
 
 
@@ -843,7 +843,7 @@ When the clock signs 5 more minutes
 > Two schools challenge each other in tennis only in doubles. Each school is represented by five pupils: all possible pairs of pupils from the same school are formed and each pair from each school faces each other once. How many games does each student have to play? A) 10                B) 20                 C) 30                  D) 40                   E) 50
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q19|src_kangourou_2007_junior_marzo__Q19]]
 
 
 
@@ -905,7 +905,7 @@ When the clock signs 5 more minutes
 > Look at the figure: two circumferences have the center on the same diagonal as a square, they are tangent to each other and tangent to the square internally. The side of the square is 1 meter long. What is the sum of the lengths, in meters, of the radii of the two circumferences? A) B) C) D) E) The information is not sufficient. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q20|src_kangourou_2007_junior_marzo__Q20]]
 
 
 
@@ -939,7 +939,7 @@ When the clock signs 5 more minutes
 > Call a and b the solutions of the equation x2 - 3x + 1 = 0. How much is a3 + b3 ? A) 12 B) 14 C) 16 D) 18 E) 24
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q21|src_kangourou_2007_junior_marzo__Q21]]
 
 
 
@@ -973,7 +973,7 @@ When the clock signs 5 more minutes
 > The product of all (internal) dividers in 2007 is A) 20072 B) 20073 C) 20074 D) 20075 E) 20076
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q22|src_kangourou_2007_junior_marzo__Q22]]
 
 
 
@@ -1009,7 +1009,7 @@ When the clock signs 5 more minutes
 > The sequence of letters KANGAROOKANGAROO. . .KANGAROO is constructed by typing the word KANGAROO 20 times in succession. First, remove all the letters that occupy an odd place in the sequence; then put back the remaining letters and delete all the letters that occupy an odd place in the new sequence; repeat the procedure until there is only one letter left. What letter is that? A) K B) A C) N D) G E) O
 
 **Answer:** E
-[[src_kangourou_2007_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q23|src_kangourou_2007_junior_marzo__Q23]]
 
 
 
@@ -1062,7 +1062,7 @@ When the clock signs 5 more minutes
 > I'm going to pay. I'm going to pay. 27 27 Kang 2007 Kang
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q24|src_kangourou_2007_junior_marzo__Q24]]
 
 
 
@@ -1128,7 +1128,7 @@ When the clock signs 5 more minutes
 > Look at the figure. An equilateral triangle of area t and a regular hexagon of area E are inscribed in a circumference, which in turn is inscribed in another equilateral triangle of area T. Which of the following equations is true? A) B) E = (t + T)/2              C) T = t + E D) E) T = E + 3t
 
 **Answer:** A
-[[src_kangourou_2007_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q25|src_kangourou_2007_junior_marzo__Q25]]
 
 
 
@@ -1158,7 +1158,7 @@ When the clock signs 5 more minutes
 > k is the smallest positive integer with this property: 10k is a perfect square and 6k is a perfect cube. How many positive divisors does the number k have ? A) 30                B) 40                C) 54                D) 72                E) 96
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q26|src_kangourou_2007_junior_marzo__Q26]]
 
 
 
@@ -1196,7 +1196,7 @@ When the clock signs 5 more minutes
 > Some diamond necklaces were stolen from a safe, all with the same number of diamonds (at least 2 per necklace). All of the diamonds that made up them are found: their total number is between 200 and 300. The investigator who investigates the theft, simply by counting the diamonds found, can trace the number of necklaces stolen with certainty. How many necklaces were stolen from the safe? A) 16 B) 17 C) 19 D) 25 E) a number different from the previous one
 
 **Answer:** B
-[[src_kangourou_2007_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q27|src_kangourou_2007_junior_marzo__Q27]]
 
 
 
@@ -1231,7 +1231,7 @@ The most likely event (extraction of 3 cards)
 > For each of four different colors, there are three cards numbered 1 to 3 in a day. You've randomly drawn three cards from the hour. Which of the following is most likely? A) The three extracted cards are of the same colour. B) The three extracted cards, regardless of their colour, bear the numbers 1, 2 and 3. (c) The three extracts are of three different colours. D) The three extracted cards have the same number. E) None: the previous four events all have the same probability of occurring.
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q28|src_kangourou_2007_junior_marzo__Q28]]
 
 
 
@@ -1267,7 +1267,7 @@ How to exchange gifts without one's own (5 friends)
 > At a party, five friends exchange gifts so that each one makes and receives exactly one gift (and, of course, no one receives their own gift). How many different ways can they do this? A) 5 B) 10 C) 44 D) 50 E) 120
 
 **Answer:** C
-[[src_kangourou_2007_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q29|src_kangourou_2007_junior_marzo__Q29]]
 
 
 
@@ -1311,4 +1311,4 @@ How to exchange gifts without one's own (5 friends)
 > 1 Kangourou of Mathematics 2007 Junior category For secondary or tertiary secondary school students
 
 **Answer:** D
-[[src_kangourou_2007_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2007_junior_marzo#q30|src_kangourou_2007_junior_marzo__Q30]]

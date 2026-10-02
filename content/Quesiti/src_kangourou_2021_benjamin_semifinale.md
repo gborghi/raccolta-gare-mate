@@ -53,7 +53,7 @@ level: kangourou
 > A) 9 B) 10 C) 11          D) 12 E) 13
 
 **Answer:** E
-[[src_kangourou_2021_benjamin_semifinale__Q01]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q01|src_kangourou_2021_benjamin_semifinale__Q01]]
 
 
 
@@ -103,7 +103,7 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2021_benjamin_semifinale__Q02]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q02|src_kangourou_2021_benjamin_semifinale__Q02]]
 
 
 
@@ -140,7 +140,7 @@ How many rabbits eat carrots today?
 > A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
 
 **Answer:** B
-[[src_kangourou_2021_benjamin_semifinale__Q03]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q03|src_kangourou_2021_benjamin_semifinale__Q03]]
 
 
 
@@ -189,7 +189,7 @@ How many rabbits eat carrots today?
 > D) 10 E) 12
 
 **Answer:** A
-[[src_kangourou_2021_benjamin_semifinale__Q04]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q04|src_kangourou_2021_benjamin_semifinale__Q04]]
 
 
 
@@ -241,7 +241,7 @@ How many rabbits eat carrots today?
 > E) 15
 
 **Answer:** D
-[[src_kangourou_2021_benjamin_semifinale__Q05]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q05|src_kangourou_2021_benjamin_semifinale__Q05]]
 
 
 
@@ -290,7 +290,7 @@ How many rabbits eat carrots today?
 > C) 28 D) 29 E) 32
 
 **Answer:** C
-[[src_kangourou_2021_benjamin_semifinale__Q06]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q06|src_kangourou_2021_benjamin_semifinale__Q06]]
 
 
 
@@ -340,7 +340,7 @@ How many rabbits eat carrots today?
 > (D) Claim (c) is false. E) The statement c) is true.
 
 **Answer:** C
-[[src_kangourou_2021_benjamin_semifinale__Q07]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q07|src_kangourou_2021_benjamin_semifinale__Q07]]
 
 
 
@@ -382,7 +382,7 @@ How many rabbits eat carrots today?
 > B) 2 C) 4 D) 6 E) 8
 
 **Answer:** D
-[[src_kangourou_2021_benjamin_semifinale__Q08]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q08|src_kangourou_2021_benjamin_semifinale__Q08]]
 
 
 
@@ -435,7 +435,7 @@ How many rabbits eat carrots today?
 > Open-ended questions
 
 **Answer:** A
-[[src_kangourou_2021_benjamin_semifinale__Q09]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q09|src_kangourou_2021_benjamin_semifinale__Q09]]
 
 
 
@@ -467,7 +467,7 @@ How many rabbits eat carrots today?
 > Edward, Susanna and Teresa are playing cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
 
 **Answer:** 13
-[[src_kangourou_2021_benjamin_semifinale__Q10]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q10|src_kangourou_2021_benjamin_semifinale__Q10]]
 
 
 
@@ -497,7 +497,7 @@ Max tosses to make sure a number goes out 3 times
 > (5 points) How many times at most might it be necessary to roll a dice to make sure that at least one number comes out 3 times?
 
 **Answer:** 13
-[[src_kangourou_2021_benjamin_semifinale__Q11]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q11|src_kangourou_2021_benjamin_semifinale__Q11]]
 
 
 
@@ -530,7 +530,7 @@ Max tosses to make sure a number goes out 3 times
 > (5 points) A pirate has 4 couriers in each of which there is the same number of gold coins. You know that • in all, the four forcers contain less than 270 coins; • 3 of them, however you choose them, contain more than 200 coins. How many coins each forzer contains?
 
 **Answer:** 67
-[[src_kangourou_2021_benjamin_semifinale__Q12]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q12|src_kangourou_2021_benjamin_semifinale__Q12]]
 
 
 
@@ -559,7 +559,7 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
 **Answer:** 101
-[[src_kangourou_2021_benjamin_semifinale__Q13]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q13|src_kangourou_2021_benjamin_semifinale__Q13]]
 
 
 
@@ -589,7 +589,7 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) What is the greatest number of 4 digits divisible by 6 whose digits are in (strictly) increasing order from left to right?
 
 **Answer:** 4578
-[[src_kangourou_2021_benjamin_semifinale__Q14]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q14|src_kangourou_2021_benjamin_semifinale__Q14]]
 
 
 
@@ -624,7 +624,7 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) A new virus has spread on Kangaroo Island, which is home to a thousand kangaroos. Every infected kangaroo has a cold for exactly 5 days after the day it contracted the infection and is contagious only during those five days. Every day during this period the kangaroo infects exactly another kangaroo. The virus was carried by a single kangaroo who caught a cold (and then became contagious) exactly on the day he arrived on the island. Considering that day as the first, how many contagious kangaroos will there be on day six?
 
 **Answer:** 31
-[[src_kangourou_2021_benjamin_semifinale__Q15]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q15|src_kangourou_2021_benjamin_semifinale__Q15]]
 
 
 
@@ -655,7 +655,7 @@ Max tosses to make sure a number goes out 3 times
 > (7 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest amount you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 
 **Answer:** 356
-[[src_kangourou_2021_benjamin_semifinale__Q16]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q16|src_kangourou_2021_benjamin_semifinale__Q16]]
 
 
 
@@ -685,7 +685,7 @@ How many slices of pizza did Marco eat?
 > (7 points) A pizza was cut into less than 10 slices all of the same size. Mark ate some of them: more but less than the whole pizza. How many slices did you eat?
 
 **Answer:** 5
-[[src_kangourou_2021_benjamin_semifinale__Q17]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q17|src_kangourou_2021_benjamin_semifinale__Q17]]
 
 
 
@@ -721,4 +721,4 @@ The value of N in (N-1) +...+(N-2021) = 1+..+2021*
 > This appropriation is intended to cover expenditure on research and technological development in the Member States.
 
 **Answer:** 2022
-[[src_kangourou_2021_benjamin_semifinale__Q18]]
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q18|src_kangourou_2021_benjamin_semifinale__Q18]]

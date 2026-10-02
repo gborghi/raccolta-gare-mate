@@ -35,7 +35,7 @@ level: IMO
 
 > Find all integers $a, b, c$ with $1 < a < b < c$ such that $$(a-1)(b-1)(c-1)$$ is a divisor of $abc - 1$.
 
-[[src_imho_1992__Q01]]
+[[Quesiti/src_imho_1992#q01|src_imho_1992__Q01]]
 
 
 
@@ -63,7 +63,7 @@ Find all functions satisfying a functional equation
 
 > Let $\mathbf{R}$ denotes the set of all real numbers. Find all functions $f : \mathbf{R} \to \mathbf{R}$ such that $$f\left(x^2 + f(y)\right) = y + \left(f(x)\right)^2 \quad \text{for all } x, y \in \mathbf{R}.$$
 
-[[src_imho_1992__Q02]]
+[[Quesiti/src_imho_1992#q02|src_imho_1992__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Find all functions satisfying a functional equation
 
 > Consider nine points in space, no four of which are coplanar. Each pair of points is joined by a line segment which is colored either blue or red or left uncolored. Find the smallest value of $n$ such that whenever exactly $n$ edges are colored, the set of colored edges necessarily contains a triangle all of whose edges have the same color.
 
-[[src_imho_1992__Q03]]
+[[Quesiti/src_imho_1992#q03|src_imho_1992__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Find all functions satisfying a functional equation
 
 > In the plane let $C$ be a circle, $L$ a line tangent to the circle $C$, and $M$ a point on $L$. Find the locus of all points $P$ with the following property: there exist two points $Q, R$ on $L$ such that $M$ is the midpoint of $QR$ and $C$ is the inscribed circle of triangle $PQR$.
 
-[[src_imho_1992__Q04]]
+[[Quesiti/src_imho_1992#q04|src_imho_1992__Q04]]
 
 
 
@@ -146,7 +146,7 @@ Find all functions satisfying a functional equation
 
 > Let $S$ be a finite set of points in three-dimensional space. Let $S_x$, $S_y$, $S_z$ be the sets consisting of the orthogonal projections of the points of $S$ onto the $yz$-plane, $zx$-plane, $xy$-plane, respectively. Prove that $$|S|^2 \leq |S_x| \cdot |S_y| \cdot |S_z|,$$ where $|A|$ denotes the number of elements in the finite set $|A|$. (Note: The orthogonal projection of a point onto a plane is the foot of the perpendicular from that point to the plane.)
 
-[[src_imho_1992__Q05]]
+[[Quesiti/src_imho_1992#q05|src_imho_1992__Q05]]
 
 
 
@@ -185,4 +185,4 @@ Find all functions satisfying a functional equation
 > 
 > Prove that there are infinitely many integers such that $S(n) = n^2 - 14$.
 
-[[src_imho_1992__Q06]]
+[[Quesiti/src_imho_1992#q06|src_imho_1992__Q06]]

@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Un punto $D$ è preso sul lato $AB$ di un triangolo $ABC$. Due cerchi che attraversano $D$ e toccano $AC$ e $BC$ rispettivamente a $A$ e $B$ si incrociano di nuovo a $E$. Il punto $F$ deve essere simmetrico a $C$ rispetto al bisettore perpendicolare di $AB$. Dimostrare che i punti $D$, $E$, $F$ si trovano su una linea.
 
-[[src_pol_2004_r3__Q01]]
+[[Quesiti/src_pol_2004_r3#q01|src_pol_2004_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Che $W$ sia un polinomio con coefficienti interi in modo che esistano interi a cui $W$ prende valori copriemi. Mostrare che esiste un insieme infinito $S$ di integri in cui i valori $W$ sono copriemi in coprieme.
 
-[[src_pol_2004_r3__Q02]]
+[[Quesiti/src_pol_2004_r3#q02|src_pol_2004_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 3
 
 > In un torneo con partecipanti $n \ge 3$, ogni due partecipanti hanno giocato esattamente una partita e non ci sono stati tassi. Un insieme di partecipanti a tre elementi è chiamato un triplo di pareggio se può essere enumerato in modo che il primo sconfigga il secondo, il secondo sconfigga il terzo e il terzo sconfigga il primo. Trova il maggior numero possibile di tripli di sorte in un tale torneo.
 
-[[src_pol_2004_r3__Q03]]
+[[Quesiti/src_pol_2004_r3#q03|src_pol_2004_r3__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 3
 
 > Se $a, b, c$ sono numeri reali, dimostrare che $$\sqrt{2(a^2+b^2)} + \sqrt{2(b^2+c^2)} + \sqrt{2(c^2+a^2)} \ge \sqrt{3(a+b)^2 + 5(b+c)^2 + 3(c+a)^2}.$$
 
-[[src_pol_2004_r3__Q04]]
+[[Quesiti/src_pol_2004_r3#q04|src_pol_2004_r3__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova il maggior numero possibile di linee che attraversano un singolo punto nello spazio in modo tale che l'angolo tra due di esse sia lo stesso.
 
-[[src_pol_2004_r3__Q05]]
+[[Quesiti/src_pol_2004_r3#q05|src_pol_2004_r3__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 3
 
 > Si dà un numero intero $m > 1$. La sequenza infinita $x_1, x_2, x_3, \ldots$ è definita da $$x_i = \begin{cases} 2^i & \text{for } i < m, \\ x_{i-1} + x_{i-2} + \cdots + x_{i-m+1} & \text{for } i \ge m. \end{cases}$$ Trova il numero naturale più grande $k$ in modo tale che esistano $k$ termini successivi di questa sequenza che sono divisibili da $m$.
 
-[[src_pol_2004_r3__Q06]]
+[[Quesiti/src_pol_2004_r3#q06|src_pol_2004_r3__Q06]]

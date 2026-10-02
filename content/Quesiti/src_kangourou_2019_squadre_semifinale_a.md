@@ -37,7 +37,7 @@ This is the total value of the own funds of the institution.
 > Substitution If you substitute the numbers N = 1, 2, 3, ... in the expression N 2  2019N + 2019 you get a sequence of integers. What's the difference between the number on the 2019th place and the number on the 2018th?
 
 **Answer:** 2018
-[[src_kangourou_2019_squadre_semifinale_a__Q01]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q01|src_kangourou_2019_squadre_semifinale_a__Q01]]
 
 
 
@@ -70,7 +70,7 @@ This is the total value of the own funds of the institution.
 > The boat A boat travels at a constant speed of 4 kilometers per hour. When it is two kilometers from the coast, it begins to boil water: 32 liters per minute. It can carry up to 150 litres of water without sinking. A pump shall be put into operation immediately to empty at least part of the water on board. If the pump is running constantly, how many litres of water at least must it be able to discharge every minute if the boat is to reach shore before sinking?
 
 **Answer:** 0027
-[[src_kangourou_2019_squadre_semifinale_a__Q02]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q02|src_kangourou_2019_squadre_semifinale_a__Q02]]
 
 
 
@@ -100,7 +100,7 @@ This is the total value of the own funds of the institution.
 > Plus 100 What is the largest positive integer n such that n2 + 100 is divisible by n  5?
 
 **Answer:** 0130
-[[src_kangourou_2019_squadre_semifinale_a__Q03]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q03|src_kangourou_2019_squadre_semifinale_a__Q03]]
 
 
 
@@ -140,7 +140,7 @@ This is the total value of the own funds of the institution.
 > The room The figure shows you any one of the four corners of the floor of a square room all floored the same way. The tiles are rectangular triangles, isosceles or squares, all of the same size. The sides of the angular tiles measure 25 cm. Counting the sides of all tiles, including those at the floor edge, but counting the common sides of two tiles only once, you get 3028. How many centimeters does the side of the room measure?
 
 **Answer:** 1350
-[[src_kangourou_2019_squadre_semifinale_a__Q04]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q04|src_kangourou_2019_squadre_semifinale_a__Q04]]
 
 
 
@@ -171,7 +171,7 @@ This is the total value of the own funds of the institution.
 > At least one inner point In a grid of 25 square cells, how many sides of cells have at least one inner point in the grid?
 
 **Answer:** 1445
-[[src_kangourou_2019_squadre_semifinale_a__Q05]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q05|src_kangourou_2019_squadre_semifinale_a__Q05]]
 
 
 
@@ -207,7 +207,7 @@ This is the total value of the own funds of the institution.
 > The tiled wall A wall is tiled with square tiles of 30 cm side, which have such a decoration that, when 9 of them are approached, two similar (non-regular) octagons are seen. How many square centimeters does the region between the two octagons measure?
 
 **Answer:** 5600
-[[src_kangourou_2019_squadre_semifinale_a__Q06]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q06|src_kangourou_2019_squadre_semifinale_a__Q06]]
 
 
 
@@ -238,7 +238,7 @@ This is the total value of the own funds of the institution.
 > A rope was stretched horizontally between two poles. A rope began to walk over us, and now it is in the center of the rope: the rope has stretched evenly by 20 centimeters and its middle point has dropped by 90 centimeters. How many inches did the rope originally measure?
 
 **Answer:** 0800
-[[src_kangourou_2019_squadre_semifinale_a__Q07]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q07|src_kangourou_2019_squadre_semifinale_a__Q07]]
 
 
 
@@ -278,7 +278,7 @@ This is the total value of the own funds of the institution.
 > Four triangles The figure shows a sheet showing a region consisting of the approximation of 4 isosceles rectangles. The hypotenuse of the smallest is a catheter of the second, the hypotenuse of the second is a catheter of the third and the hypotenuse of the third is a catheter of the fourth. Some measurements in decimeter are given, including the distances of the region from the edges of the sheet. What is the area of the sheet of paper?
 
 **Answer:** 0028
-[[src_kangourou_2019_squadre_semifinale_a__Q08]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q08|src_kangourou_2019_squadre_semifinale_a__Q08]]
 
 
 
@@ -309,7 +309,7 @@ This is the total value of the own funds of the institution.
 > Convex polygon Choosing at random two vertices of a convex polygon, the probability that they are vertices of a diagonal is 0.8. How many sides does the polygon have?
 
 **Answer:** 0011
-[[src_kangourou_2019_squadre_semifinale_a__Q09]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q09|src_kangourou_2019_squadre_semifinale_a__Q09]]
 
 
 
@@ -340,7 +340,7 @@ This is the total value of the own funds of the institution.
 > Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as a unit number?
 
 **Answer:** 0019
-[[src_kangourou_2019_squadre_semifinale_a__Q10]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q10|src_kangourou_2019_squadre_semifinale_a__Q10]]
 
 
 
@@ -438,7 +438,7 @@ This is the total value of the own funds of the institution.
 > The four points K, L, M, N that you see in the drawing marked on the AB side of the ABC triangle are such that the AK segment is congruent to NB and the KL segment is congruent to MN. From each of the four points a parallel segment to AC with the second extreme on the BC side was drawn. What is the sum of the lengths of these four segments, if AC is 8?
 
 **Answer:** 0016
-[[src_kangourou_2019_squadre_semifinale_a__Q11]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q11|src_kangourou_2019_squadre_semifinale_a__Q11]]
 
 
 
@@ -471,7 +471,7 @@ This is the total value of the own funds of the institution.
 > Flea A square grid is obtained by approximating 100×100 identical square cells. A flea is located at the point in the center of the grid (top of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting top. After 30 jumps, how many different spots could you be in?
 
 **Answer:** 0120
-[[src_kangourou_2019_squadre_semifinale_a__Q12]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q12|src_kangourou_2019_squadre_semifinale_a__Q12]]
 
 
 
@@ -502,7 +502,7 @@ This is the total value of the own funds of the institution.
 > In a right-angled parallel-piped the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
 
 **Answer:** 0450
-[[src_kangourou_2019_squadre_semifinale_a__Q13]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q13|src_kangourou_2019_squadre_semifinale_a__Q13]]
 
 
 
@@ -533,7 +533,7 @@ This is the total value of the own funds of the institution.
 > In the Cartesian plane, the segment of extremes (0, 0) and (4200, 3000) are considered. How many of your coordinate points are both integers, excluding the extremes?
 
 **Answer:** 0599
-[[src_kangourou_2019_squadre_semifinale_a__Q14]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q14|src_kangourou_2019_squadre_semifinale_a__Q14]]
 
 
 
@@ -589,4 +589,4 @@ This is the total value of the own funds of the institution.
 > Questions and developments
 
 **Answer:** 8635
-[[src_kangourou_2019_squadre_semifinale_a__Q15]]
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q15|src_kangourou_2019_squadre_semifinale_a__Q15]]

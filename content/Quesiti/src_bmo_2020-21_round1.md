@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Alice e Bob lo fanno a turno per scrivere numeri su una lavagna. Alice inizia scrivendo un numero intero $a$ tra $-100$ e $100$ inclusivo sulla lavagna. A ogni turno di Bob scrive il doppio del numero che Alice ha scritto l'ultima volta. Su ogni turno successivo di Alice scrive il numero $45$ inferiore al numero che Bob ha scritto l'ultimo. A un certo punto, il numero $a$ viene scritto sulla lavagna per la seconda volta. Trova i valori possibili di $a$.
 
-[[src_bmo_2020-21_round1__Q01]]
+[[Quesiti/src_bmo_2020-21_round1#q01|src_bmo_2020-21_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Un triangolo ha lunghezze laterali $a$, $a$ e $b$. Il suo perimetro $P$ e superficie $A$. Dato che $b$ e $P$ sono numeri interi e che $P$ è numericamente uguale a $A^2$, trovare tutte le possibili coppie $(a, b)$.
 
-[[src_bmo_2020-21_round1__Q02]]
+[[Quesiti/src_bmo_2020-21_round1#q02|src_bmo_2020-21_round1__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Un pezzo di carta quadrato è piegato a metà lungo una linea di simmetria. La forma risultante viene poi piegata a metà lungo una linea di simmetria della nuova forma. Questo processo viene ripetuto fino a quando non sono state fatte pieghe $n$, dando una sequenza di forme $n+1$. Se non si fa distinzione tra forme congruenti, si trova il numero di sequenze possibili quando: a) $n = 3$; b) $n = 6$; c) $n = 9$. (Quando $n = 1$ ci sono due possibili sequenze.)
 
-[[src_bmo_2020-21_round1__Q03]]
+[[Quesiti/src_bmo_2020-21_round1#q03|src_bmo_2020-21_round1__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: BMO Round 1
 
 > Nell'equazione $$A^{AA} + AA = \text{B,BBC,DED,BEE,BBB,BBE}$$ le lettere A, B, C, D ed E rappresentano differenti cifre base-10 (il lato destro è quindi un numero di sedici cifre e $AA$ è un numero di due cifre). Dato che $C = 9$, trovare A, B, D ed E.
 
-[[src_bmo_2020-21_round1__Q04]]
+[[Quesiti/src_bmo_2020-21_round1#q04|src_bmo_2020-21_round1__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: BMO Round 1
 
 > I punti $A$, $B$ e $C$ si trovano su un cerchio $\Gamma$. Il circolo $A$ è tangente a $AC$ a $A$. Si riunisce a $\Gamma$ a $D$ e alla riga $AB$ a $P$. Il punto $P$ si trova tra $B$ e $D$. Prova che se $AD = DP$, allora $BP = AC$.
 
-[[src_bmo_2020-21_round1__Q05]]
+[[Quesiti/src_bmo_2020-21_round1#q05|src_bmo_2020-21_round1__Q05]]
 
 
 
@@ -178,7 +178,7 @@ level: BMO Round 1
 > 
 > (Un primo di Mersenne è un numero primo che è uno meno di una potenza di due.)
 
-[[src_bmo_2020-21_round1__Q06]]
+[[Quesiti/src_bmo_2020-21_round1#q06|src_bmo_2020-21_round1__Q06]]
 
 
 
@@ -211,4 +211,4 @@ Gioco di pizzico sulla linea dei numeri: scopri quando Evie garantisce la vittor
 > 
 > Odette vince se la loro somma è strana; Evie vince se la loro somma è pari. Per quanti valori di $n$ può Evie garantire la vittoria se: (a) Odette viene prima; (b) Evie viene prima?
 
-[[src_bmo_2020-21_round1__Q07]]
+[[Quesiti/src_bmo_2020-21_round1#q07|src_bmo_2020-21_round1__Q07]]

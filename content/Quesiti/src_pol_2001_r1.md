@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere in numeri interi l'equazione $x^{2000} + 2000^{1999} = x^{1999} + 2000^{2000}$.
 
-[[src_pol_2001_r1__Q01]]
+[[Quesiti/src_pol_2001_r1#q01|src_pol_2001_r1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 1
 
 > I punti $D$ e $E$ si trovano rispettivamente sui lati $BC$ e $AC$ del triangolo $ABC$. Le linee $AD$ e $BE$ si incontrano a $P$. I punti $K$ e $L$ sono presi rispettivamente su $BC$ e $AC$ in modo che $CLPK$ sia un parallelo. Prove che $\frac{AE}{EL} = \frac{BD}{DK}$.
 
-[[src_pol_2001_r1__Q02]]
+[[Quesiti/src_pol_2001_r1#q02|src_pol_2001_r1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 1
 
 > Trovare tutti i numeri interi $n \ge 2$ in modo tale che la disuguaglianza $$x_1 x_2 + x_2 x_3 + \cdots + x_{n-1} x_n \le \frac{n-1}{n}\left(x_1^2 + x_2^2 + \cdots + x_n^2\right)$$ sia soddisfatta per tutti i numeri positivi $x_1, x_2, \ldots, x_n$.
 
-[[src_pol_2001_r1__Q03]]
+[[Quesiti/src_pol_2001_r1#q03|src_pol_2001_r1__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: Olimpiade Polacca Round 1
 
 > Provare o respingere: si possono collocare sfere $65$ di diametro $1$ all'interno di un cubo di bordo $4$.
 
-[[src_pol_2001_r1__Q04]]
+[[Quesiti/src_pol_2001_r1#q04|src_pol_2001_r1__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che per tutti i numeri interi $n \ge 2$ e i numeri primi $p$ il numero $n^{p^p} + p^p$ è composto.
 
-[[src_pol_2001_r1__Q05]]
+[[Quesiti/src_pol_2001_r1#q05|src_pol_2001_r1__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: Olimpiade Polacca Round 1
 
 > I numeri interi $a, b, x, y$ soddisfano l'uguaglianza $$a + b\sqrt{2001} = \left(x + y\sqrt{2001}\right)^{2000}.$$ Prove che $a \ge 44b$.
 
-[[src_pol_2001_r1__Q06]]
+[[Quesiti/src_pol_2001_r1#q06|src_pol_2001_r1__Q06]]
 
 
 
@@ -199,7 +199,7 @@ level: Olimpiade Polacca Round 1
 
 > I punti $D$ e $E$ si trovano sull'ipotenusa $BC$ di un triangolo rettangolo $ABC$ di uguale taglia in modo tale che $\angle DAE = 45^\circ$. Il circoncircolo del triangolo $ADE$ incontra i lati $AB$ e $AC$ di nuovo rispettivamente a $P$ e $Q$. Prova che $BP + CQ = PQ$.
 
-[[src_pol_2001_r1__Q07]]
+[[Quesiti/src_pol_2001_r1#q07|src_pol_2001_r1__Q07]]
 
 
 
@@ -212,7 +212,7 @@ level: Olimpiade Polacca Round 1
 
 > For which positive integers $m, n$ can the $m \times n$ rectangle be cut into pieces congruent to the piece shown in the figure?
 
-![[src_pol_2001_r1__Q08.png]]
+![[src_pol_2001_r1__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -228,9 +228,9 @@ level: Olimpiade Polacca Round 1
 
 > Per quali integri positivi $m, n$ il rettangolo $m \times n$ può essere tagliato in pezzi congruenti al pezzo mostrato nella figura?
 
-![[src_pol_2001_r1__Q08.png]]
+![[src_pol_2001_r1__q08.png]]
 
-[[src_pol_2001_r1__Q08]]
+[[Quesiti/src_pol_2001_r1#q08|src_pol_2001_r1__Q08]]
 
 
 
@@ -257,7 +257,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che tra tutti i numeri interi $12$ consecutivi c'è uno che non può essere scritto come la somma di dieci potenze quattordici.
 
-[[src_pol_2001_r1__Q09]]
+[[Quesiti/src_pol_2001_r1#q09|src_pol_2001_r1__Q09]]
 
 
 
@@ -284,7 +284,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che ogni triangolo $ABC$ contiene un punto interno $P$ con la seguente proprietà: ogni linea che attraversa $P$ divide il perimetro e l'area del triangolo $ABC$ nello stesso rapporto.
 
-[[src_pol_2001_r1__Q10]]
+[[Quesiti/src_pol_2001_r1#q10|src_pol_2001_r1__Q10]]
 
 
 
@@ -313,7 +313,7 @@ level: Olimpiade Polacca Round 1
 
 > Un $n$-tuple $(c_1, c_2, \ldots, c_n)$ di numeri interi positivi è ammissibile se ogni intero positivo $k$ non superiore a $2(c_1 + c_2 + \cdots + c_n)$ può essere rappresentato nella forma $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$ Per ogni $n$ si trova il valore massimo possibile di $c_1 + \cdots + c_n$ se $(c_1, \ldots, c_n)$ è ammissibile.
 
-[[src_pol_2001_r1__Q11]]
+[[Quesiti/src_pol_2001_r1#q11|src_pol_2001_r1__Q11]]
 
 
 
@@ -342,4 +342,4 @@ level: Olimpiade Polacca Round 1
 
 > Considerare tutte le sequenze $x_0, x_1, \ldots, x_{2000}$ di numeri interi che soddisfano $$x_0 = 0 \quad \text{and} \quad |x_n| = |x_{n-1} + 1| \text{ for } n = 1, 2, \ldots, 2000.$$ Trovare il valore minimo dell'espressione $|x_1 + x_2 + \cdots + x_{2000}|$.
 
-[[src_pol_2001_r1__Q12]]
+[[Quesiti/src_pol_2001_r1#q12|src_pol_2001_r1__Q12]]

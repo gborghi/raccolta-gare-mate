@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { pathToRoot } from "../util/path"
 
 // Full-width masthead navbar, rendered at <body> level by renderPage.tsx (mirrors the
 // maturità/physics site): a viewport-spanning bar with a centered max-width inner grid —
@@ -25,8 +26,10 @@ function basePathOf(baseUrl?: string): string {
   return ("/" + baseUrl.slice(i + 1)).replace(/\/+$/, "")
 }
 
-const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
-  const bp = basePathOf(cfg?.baseUrl)
+const Navbar: QuartzComponent = ({ cfg, displayClass, fileData }: QuartzComponentProps) => {
+  // RELATIVE to the page (pathToRoot): the same HTML is served by GitHub Pages under
+  // /<repo>/ and by the Cloudflare mirror at /, so no absolute base path can be baked in.
+  const bp = fileData?.slug ? pathToRoot(fileData.slug) : "."
   return (
     <nav class={classNames(displayClass, "navbar")}>
       <div class="navbar-inner">

@@ -46,7 +46,7 @@ level: 2 livello
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[src_archimede_1999_2livello__Q01]]
+[[Quesiti/src_archimede_1999_2livello#q01|src_archimede_1999_2livello__Q01]]
 
 
 
@@ -86,7 +86,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** I'm not going to end it.
 
 **Answer:** B
-[[src_archimede_1999_2livello__Q02]]
+[[Quesiti/src_archimede_1999_2livello#q02|src_archimede_1999_2livello__Q02]]
 
 
 
@@ -128,7 +128,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[src_archimede_1999_2livello__Q03]]
+[[Quesiti/src_archimede_1999_2livello#q03|src_archimede_1999_2livello__Q03]]
 
 
 
@@ -168,7 +168,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** It's always less than the ratio of their volumes.
 
 **Answer:** E
-[[src_archimede_1999_2livello__Q04]]
+[[Quesiti/src_archimede_1999_2livello#q04|src_archimede_1999_2livello__Q04]]
 
 
 
@@ -208,7 +208,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** His father-in-law.
 
 **Answer:** A
-[[src_archimede_1999_2livello__Q05]]
+[[Quesiti/src_archimede_1999_2livello#q05|src_archimede_1999_2livello__Q05]]
 
 
 
@@ -252,7 +252,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** $(\sqrt{2} + \pi)(1 + 2\sqrt{2})$.
 
 **Answer:** D
-[[src_archimede_1999_2livello__Q06]]
+[[Quesiti/src_archimede_1999_2livello#q06|src_archimede_1999_2livello__Q06]]
 
 
 
@@ -292,7 +292,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** None of the above statements are correct.
 
 **Answer:** B
-[[src_archimede_1999_2livello__Q07]]
+[[Quesiti/src_archimede_1999_2livello#q07|src_archimede_1999_2livello__Q07]]
 
 
 
@@ -332,7 +332,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** 2020.
 
 **Answer:** C
-[[src_archimede_1999_2livello__Q08]]
+[[Quesiti/src_archimede_1999_2livello#q08|src_archimede_1999_2livello__Q08]]
 
 
 
@@ -372,7 +372,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** I'm not going to end it.
 
 **Answer:** B
-[[src_archimede_1999_2livello__Q09]]
+[[Quesiti/src_archimede_1999_2livello#q09|src_archimede_1999_2livello__Q09]]
 
 
 
@@ -413,7 +413,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[src_archimede_1999_2livello__Q10]]
+[[Quesiti/src_archimede_1999_2livello#q10|src_archimede_1999_2livello__Q10]]
 
 
 
@@ -452,7 +452,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** They're all equivalent.
 
 **Answer:** D
-[[src_archimede_1999_2livello__Q11]]
+[[Quesiti/src_archimede_1999_2livello#q11|src_archimede_1999_2livello__Q11]]
 
 
 
@@ -492,7 +492,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(E)** 8.
 
 **Answer:** B
-[[src_archimede_1999_2livello__Q12]]
+[[Quesiti/src_archimede_1999_2livello#q12|src_archimede_1999_2livello__Q12]]
 
 
 
@@ -521,7 +521,7 @@ Places in the sprint that make Cipollini win
 > Nine competitors take part in a points race on the track. For each intermediate goal, 9 points are awarded to the first, 8 to the second, 7 to the third and so on until 1 point is awarded to the last. Prior to the last sprint (in which the awarded score is double) the ranking saw Abdujaparov in command with 7 points lead over Boardman and 9 over Cipollini. The other competitors have such a set of points that they can no longer win the competition. How many different possible placements of the three runners in the last sprint allow Cipollini to win the race?
 
 **Answer:** 30
-[[src_archimede_1999_2livello__Q13]]
+[[Quesiti/src_archimede_1999_2livello#q13|src_archimede_1999_2livello__Q13]]
 
 
 
@@ -549,7 +549,7 @@ Places in the sprint that make Cipollini win
 > How many natural numbers are on base 10 written with three digits and on base 2 written with seven digits?
 
 **Answer:** 28
-[[src_archimede_1999_2livello__Q14]]
+[[Quesiti/src_archimede_1999_2livello#q14|src_archimede_1999_2livello__Q14]]
 
 
 
@@ -581,7 +581,7 @@ Places in the sprint that make Cipollini win
 > Four wheels $a$, $b$, $c$, $d$ connected by a belt and having beams 14, 15, 16 and 18 respectively shall be arranged as shown in the figure so that the system is free to rotate without the belt slipping. After how many turns of the $a$ wheel does the system return to its initial position for the first time? (see figure)
 
 **Answer:** 360
-[[src_archimede_1999_2livello__Q15]]
+[[Quesiti/src_archimede_1999_2livello#q15|src_archimede_1999_2livello__Q15]]
 
 
 
@@ -613,7 +613,7 @@ Places in the sprint that make Cipollini win
 > Andrea comes back from fishing with a bag full of fish. When he gets home, he gives the biggest of his two cats the three biggest fishes, thus reducing the weight of the bag by 38 percent. At this point he gives the other cat the three smaller fishes: thus the weight of the bag is reduced again by 38% (compared to the weight after the first cat's nutrition). How many fish did Andrea catch? (The weight of the bag is neglected compared to that of the fish).
 
 **Answer:** 10
-[[src_archimede_1999_2livello__Q16]]
+[[Quesiti/src_archimede_1999_2livello#q16|src_archimede_1999_2livello__Q16]]
 
 
 
@@ -644,4 +644,4 @@ Places in the sprint that make Cipollini win
 > 
 > To demonstrate that a pentagon is inscribed in a circumference such that each of its diagonal is parallel to one side, is necessarily regular.
 
-[[src_archimede_1999_2livello__Q17]]
+[[Quesiti/src_archimede_1999_2livello#q17|src_archimede_1999_2livello__Q17]]

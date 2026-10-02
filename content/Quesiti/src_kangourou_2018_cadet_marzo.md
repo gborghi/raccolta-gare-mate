@@ -52,7 +52,7 @@ level: kangourou
 > E) 19
 
 **Answer:** E
-[[src_kangourou_2018_cadet_marzo__Q01]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q01|src_kangourou_2018_cadet_marzo__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: kangourou
 > If the word MAMMA is written vertically, as shown in the figure, you can see that the word feels a symmetry with respect to a vertical line. Which of the following words, written vertically, has the same kind of symmetry? (A) Box B) Grandfather C) Mother D) Milk E) Emptiness
 
 **Answer:** E
-[[src_kangourou_2018_cadet_marzo__Q02]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q02|src_kangourou_2018_cadet_marzo__Q02]]
 
 
 
@@ -130,7 +130,7 @@ level: kangourou
 > E) 15
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q03]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q03|src_kangourou_2018_cadet_marzo__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: kangourou
 > E) 7.
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q04]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q04|src_kangourou_2018_cadet_marzo__Q04]]
 
 
 
@@ -229,7 +229,7 @@ level: kangourou
 > D) 5 E) 6
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q05]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q05|src_kangourou_2018_cadet_marzo__Q05]]
 
 
 
@@ -283,7 +283,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q06]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q06|src_kangourou_2018_cadet_marzo__Q06]]
 
 
 
@@ -318,7 +318,7 @@ In what month could you have that thought?
 > I remember thinking, exactly a month ago, it was the same day of the week as two days ago. In which of the following months may I have had this thought? (a) January (b) February (c) March (d) April (e) May
 
 **Answer:** E
-[[src_kangourou_2018_cadet_marzo__Q07]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q07|src_kangourou_2018_cadet_marzo__Q07]]
 
 
 
@@ -387,7 +387,7 @@ In what month could you have that thought?
 > D) 4 E) 5
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q08]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q08|src_kangourou_2018_cadet_marzo__Q08]]
 
 
 
@@ -431,7 +431,7 @@ In what month could you have that thought?
 > E) 395
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q09]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q09|src_kangourou_2018_cadet_marzo__Q09]]
 
 
 
@@ -528,7 +528,7 @@ In what month could you have that thought?
 > E) 2.5 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q10]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q10|src_kangourou_2018_cadet_marzo__Q10]]
 
 
 
@@ -580,7 +580,7 @@ In what month could you have that thought?
 > E) 14
 
 **Answer:** B
-[[src_kangourou_2018_cadet_marzo__Q11]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q11|src_kangourou_2018_cadet_marzo__Q11]]
 
 
 
@@ -628,7 +628,7 @@ In what month could you have that thought?
 > E) 36
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q12]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q12|src_kangourou_2018_cadet_marzo__Q12]]
 
 
 
@@ -679,7 +679,7 @@ In what month could you have that thought?
 >
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q13]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q13|src_kangourou_2018_cadet_marzo__Q13]]
 
 
 
@@ -722,7 +722,7 @@ Behind which leads the lion with only one true sign
 > C) The third. D) The data on the problem are contradictory. E) There is not enough information to answer.
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q14]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q14|src_kangourou_2018_cadet_marzo__Q14]]
 
 
 
@@ -775,7 +775,7 @@ Behind which leads the lion with only one true sign
 > E) 33
 
 **Answer:** A
-[[src_kangourou_2018_cadet_marzo__Q15]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q15|src_kangourou_2018_cadet_marzo__Q15]]
 
 
 
@@ -823,7 +823,7 @@ Behind which leads the lion with only one true sign
 > E) 53
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q16]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q16|src_kangourou_2018_cadet_marzo__Q16]]
 
 
 
@@ -871,7 +871,7 @@ Behind which leads the lion with only one true sign
 > E) 35
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q17]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q17|src_kangourou_2018_cadet_marzo__Q17]]
 
 
 
@@ -921,7 +921,7 @@ Behind which leads the lion with only one true sign
 > D) 24 E) Depends on the position of A and B on r
 
 **Answer:** B
-[[src_kangourou_2018_cadet_marzo__Q18]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q18|src_kangourou_2018_cadet_marzo__Q18]]
 
 
 
@@ -969,7 +969,7 @@ Behind which leads the lion with only one true sign
 > E) 13
 
 **Answer:** A
-[[src_kangourou_2018_cadet_marzo__Q19]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q19|src_kangourou_2018_cadet_marzo__Q19]]
 
 
 
@@ -1029,7 +1029,7 @@ Behind which leads the lion with only one true sign
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2018_cadet_marzo__Q20]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q20|src_kangourou_2018_cadet_marzo__Q20]]
 
 
 
@@ -1077,7 +1077,7 @@ Behind which leads the lion with only one true sign
 > E) 17
 
 **Answer:** E
-[[src_kangourou_2018_cadet_marzo__Q21]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q21|src_kangourou_2018_cadet_marzo__Q21]]
 
 
 
@@ -1127,7 +1127,7 @@ Behind which leads the lion with only one true sign
 > E) 1820
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q22]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q22|src_kangourou_2018_cadet_marzo__Q22]]
 
 
 
@@ -1178,7 +1178,7 @@ Behind which leads the lion with only one true sign
 > D) – 13 E) – 3
 
 **Answer:** B
-[[src_kangourou_2018_cadet_marzo__Q23]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q23|src_kangourou_2018_cadet_marzo__Q23]]
 
 
 
@@ -1232,7 +1232,7 @@ Behind which leads the lion with only one true sign
 > E) 45
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q24]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q24|src_kangourou_2018_cadet_marzo__Q24]]
 
 
 
@@ -1279,7 +1279,7 @@ How much did Adele spend?
 > E) 32
 
 **Answer:** E
-[[src_kangourou_2018_cadet_marzo__Q25]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q25|src_kangourou_2018_cadet_marzo__Q25]]
 
 
 
@@ -1329,7 +1329,7 @@ How much did Adele spend?
 >
 
 **Answer:** D
-[[src_kangourou_2018_cadet_marzo__Q26]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q26|src_kangourou_2018_cadet_marzo__Q26]]
 
 
 
@@ -1364,7 +1364,7 @@ How much did Adele spend?
 > Viola is training for the long jump. Today, the average length of jumps made so far is 3.80 meters. With a new jump of 3.99 m, his average jump has risen to 3.81 m. How long should his next jump be to bring his current average to 3.82 meters? A) 3,97 B) 4,00 C) 4,01 D) 4,03 E) 4,04
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q27]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q27|src_kangourou_2018_cadet_marzo__Q27]]
 
 
 
@@ -1468,7 +1468,7 @@ How much did Adele spend?
 > E) 18
 
 **Answer:** B
-[[src_kangourou_2018_cadet_marzo__Q28]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q28|src_kangourou_2018_cadet_marzo__Q28]]
 
 
 
@@ -1526,7 +1526,7 @@ How much did Adele spend?
 > (e) No sequence of moves allows the six cards to be properly joined.
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q29]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q29|src_kangourou_2018_cadet_marzo__Q29]]
 
 
 
@@ -1636,4 +1636,4 @@ How much did Adele spend?
 > E E D D C C E D C
 
 **Answer:** C
-[[src_kangourou_2018_cadet_marzo__Q30]]
+[[Quesiti/src_kangourou_2018_cadet_marzo#q30|src_kangourou_2018_cadet_marzo__Q30]]

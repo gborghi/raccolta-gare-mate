@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Si dice che un pentagono converso piano $ABCDE$ abbia la "proprietà del triangolo unitario" se l'area di ciascuno dei triangoli $ABC$, $BCD$, $CDE$, $DEA$, $EAB$ è unità. Mostrare che tutti i pentagoni convexi a piano con la proprietà del triangolo unitario hanno la stessa area e che ci sono un numero infinito di questi pentagoni, di cui non due sono congruenti.
 
-[[src_bmo_1977-78_round2__Q01]]
+[[Quesiti/src_bmo_1977-78_round2#q01|src_bmo_1977-78_round2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Dato qualsiasi numero intero $m > 1$ dimostrare che esiste un'infinità di numeri interi positivi $n$ tale che le ultime cifre decimali $m$ di $3^n$ formino una sequenza in cui ogni cifra tranne l'ultima è in parità opposta al suo successore, cioè Se uno è strano, il prossimo è pari e viceversa.
 
-[[src_bmo_1977-78_round2__Q02]]
+[[Quesiti/src_bmo_1977-78_round2#q02|src_bmo_1977-78_round2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 2
 
 > Determinare con prova tutte le radici dell'equazione $$\sum_{r=1}^{m} (-1)^{r-1} \frac{n(n-1)\cdots(n-r+1)}{r!} = \frac{1}{2}$$ dove $m$ è un dato intero positivo.
 
-[[src_bmo_1977-78_round2__Q03]]
+[[Quesiti/src_bmo_1977-78_round2#q03|src_bmo_1977-78_round2__Q03]]
 
 
 
@@ -133,4 +133,4 @@ level: BMO Round 2
 > 
 > Indicare che il numero di modi in cui la distribuzione può essere effettuata è $$\tfrac{1}{2}\bigl(5^{n-1} - 3 \cdot 2^{n-1} + 3(2^{n-1}-1)\bigr).$$
 
-[[src_bmo_1977-78_round2__Q04]]
+[[Quesiti/src_bmo_1977-78_round2#q04|src_bmo_1977-78_round2__Q04]]

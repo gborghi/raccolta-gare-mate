@@ -37,7 +37,7 @@ level: OBM Nível 1
 > 
 > **Rimarca.** La dichiarazione del problema è errata. Mancava l'ipotesi che il coefficiente di riferimento di $f$ non fosse zero (cioè $f$ non fosse zero). In alternativa, la conclusione che $f(x)$ è positiva è falsa come indicato, poiché $f(x) = cx$ con $c$ un intero positivo è un controesempio. Gli studenti che rispondono correttando il problema aggiungendo un'ipotesi come $f(1) = cx$ con $c$ un numero intero positivo, così come quelli che correttano il problema aggiungendo un'ipotesi come sopra menzionato e poi risolvendo il problema, riceveranno voti completi insieme ad una scusa dalla giuria.
 
-[[src_obm_2017_n1_f2__Q01]]
+[[Quesiti/src_obm_2017_n1_f2#q01|src_obm_2017_n1_f2__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: OBM Nível 1
 
 > Fissare i numeri interi positivi $a$ e $b$. Trova l'insieme di tutti i divisori primi che sono comuni a tutti i termini della sequenza $$a_n = a \cdot 2017^n + b \cdot 2016^n.$$
 
-[[src_obm_2017_n1_f2__Q02]]
+[[Quesiti/src_obm_2017_n1_f2#q02|src_obm_2017_n1_f2__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: OBM Nível 1
 > 
 > b) Determinare tutti i sottogruppi $\{P_1, P_2, \ldots, P_n\} \subset X$ in modo tale che per qualsiasi permutazione $\sigma : \{1, 2, \ldots, n\} \to \{1, 2, \ldots, n\}$, $$\sum_{i=1}^{n} |P_{\sigma(i+1)} - P_{\sigma(i)}|^2 \ge 8$$ (dove $\sigma(n+1) = \sigma(1)$).
 
-[[src_obm_2017_n1_f2__Q03]]
+[[Quesiti/src_obm_2017_n1_f2#q03|src_obm_2017_n1_f2__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: OBM Nível 1
 
 > Che $(a_n)_{n \ge 1}$ sia una sequenza di termini strettamente positivi con $\lim_{n \to \infty} a_n = 0$, in modo tale che per una costante $c > 0$ e per tutte le $n \ge 1$, $$|a_{n+1} - a_n| \le c \cdot a_n^2.$$ dimostri l'esistenza di $d > 0$ in modo tale che $a_n \ge \dfrac{d}{n}$ per tutte le $n \ge 1$.
 
-[[src_obm_2017_n1_f2__Q04]]
+[[Quesiti/src_obm_2017_n1_f2#q04|src_obm_2017_n1_f2__Q04]]
 
 
 
@@ -169,7 +169,7 @@ level: OBM Nível 1
 > 
 > **Remark.** $|\cdot|$ indica la norma euclidiana; $A^T$ è la trasposizione di $A$; $d(r(i), r(j))$, $1 \le j \le d$, $j \ne i$, indica la distanza di $r(i)$ da $r(j)$.
 
-[[src_obm_2017_n1_f2__Q05]]
+[[Quesiti/src_obm_2017_n1_f2#q05|src_obm_2017_n1_f2__Q05]]
 
 
 
@@ -208,4 +208,4 @@ level: OBM Nível 1
 > 
 > b) dimostrare che se $2m > l$, allora due parole distinte $x$ e $y$ di lunghezza $l$ non possono essere $m$-equivalenti.
 
-[[src_obm_2017_n1_f2__Q06]]
+[[Quesiti/src_obm_2017_n1_f2#q06|src_obm_2017_n1_f2__Q06]]

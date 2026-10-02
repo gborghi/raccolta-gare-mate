@@ -43,7 +43,7 @@ level: OBM Nível 1
 > 
 > b) Quanti anni interi esistono tra $1900$ e $1999$? Giustifica la tua risposta.
 
-[[src_obm_2025_n1_fx__Q01]]
+[[Quesiti/src_obm_2025_n1_fx#q01|src_obm_2025_n1_fx__Q01]]
 
 
 
@@ -58,7 +58,7 @@ level: OBM Nível 1
 > 
 > (b) The figure below shows a regular octagon $ABCDEFGH$ of side $2$ cm. Each of the interior angles of a regular octagon measures $135^\circ$. In the interior of the octagon, the squares $ABIJ$ and $EFKL$ were built over the sides $AB$ and $EF$, respectively. What is the area of the quadrilateral $IJKL$?
 
-![[src_obm_2025_n1_fx__Q02.png]]
+![[src_obm_2025_n1_fx__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -78,9 +78,9 @@ level: OBM Nível 1
 > 
 > b) La figura seguente mostra un ottagono regolare $ABCDEFGH$ di lato $2$ cm. Ogni angolo interno di un ottagono regolare misura $135^\circ$. Nell'interno dell'ottangolo, i quadrati $ABIJ$ e $EFKL$ sono stati costruiti sui lati $AB$ e $EF$, rispettivamente. Qual è la superficie del quadrilaterale $IJKL$?
 
-![[src_obm_2025_n1_fx__Q02.png]]
+![[src_obm_2025_n1_fx__q02.png]]
 
-[[src_obm_2025_n1_fx__Q02]]
+[[Quesiti/src_obm_2025_n1_fx#q02|src_obm_2025_n1_fx__Q02]]
 
 
 
@@ -117,7 +117,7 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > 
 > b) Considerando il gioco dal suo stato iniziale, in cui nessun numero è ancora stato eliminato e Ana farà la prima mossa, quale dei giocatori ha una strategia vincente, cioè può giocare in modo da vincere sempre, indipendentemente dalle mosse compiute dall'avversario? Ricordate di spiegare come il giocatore che ha una strategia vincente deve giocare per garantire la vittoria.
 
-[[src_obm_2025_n1_fx__Q03]]
+[[Quesiti/src_obm_2025_n1_fx#q03|src_obm_2025_n1_fx__Q03]]
 
 
 
@@ -158,7 +158,7 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > 
 > (c) Qual è il più piccolo intero positivo $N$ tale che $S(N)$ sia un multiple di $2025$?
 
-[[src_obm_2025_n1_fx__Q04]]
+[[Quesiti/src_obm_2025_n1_fx#q04|src_obm_2025_n1_fx__Q04]]
 
 
 
@@ -182,7 +182,7 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > 
 > (b) What is the number of $2\times 2025$ cards of this game?
 
-![[src_obm_2025_n1_fx__Q05.png]]
+![[src_obm_2025_n1_fx__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -210,6 +210,6 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > 
 > b) Qual è il numero delle carte $2\times 2025$ di questo gioco?
 
-![[src_obm_2025_n1_fx__Q05.png]]
+![[src_obm_2025_n1_fx__q05.png]]
 
-[[src_obm_2025_n1_fx__Q05]]
+[[Quesiti/src_obm_2025_n1_fx#q05|src_obm_2025_n1_fx__Q05]]

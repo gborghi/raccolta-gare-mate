@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti gli integri positivi $n$ per i quali $n^n + 1$ e $(2n)^{2n} + 1$ sono numeri primi.
 
-[[src_pol_2005_r2__Q01]]
+[[Quesiti/src_pol_2005_r2#q01|src_pol_2005_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > In un quadrilaterale converso $ABCD$, il punto $M$ è il punto medio della diagonale $AC$. Prova che se $\angle BAD = \angle BMC = \angle CMD$, allora un cerchio può essere inserito in quadrilaterale $ABCD$.
 
-[[src_pol_2005_r2__Q02]]
+[[Quesiti/src_pol_2005_r2#q02|src_pol_2005_r2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 2
 
 > In spazio sono dati $n \ge 2$ punti, di cui non quattro sono coplanari. Alcuni di questi punti sono collegati da segmenti. $K$ è il numero di segmenti ($K > 1$) e $T$ è il numero di triangoli formati. Prove che $9T^2 < 2K^3$.
 
-[[src_pol_2005_r2__Q03]]
+[[Quesiti/src_pol_2005_r2#q03|src_pol_2005_r2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 2
 
 > Il polinomio $W(x) = x^2 + ax + b$ con coefficienti interi ha la seguente proprietà: per ogni numero primo $p$ c'è un intero $k$ tale che sia $W(k)$ che $W(k+1)$ siano divisibili da $p$. Indicare che esiste un numero intero $m$ tale che $W(m) = W(m+1) = 0$.
 
-[[src_pol_2005_r2__Q04]]
+[[Quesiti/src_pol_2005_r2#q04|src_pol_2005_r2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 2
 
 > Si indica un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali da $\angle ECF = \angle ABD$. Le linee $CE$ e $CF$ riscontrano rispettivamente le linee $BD$ a $P$ e $Q$. Prove che $\frac{PQ}{EF} = \frac{AB}{BD}$.
 
-[[src_pol_2005_r2__Q05]]
+[[Quesiti/src_pol_2005_r2#q05|src_pol_2005_r2__Q05]]
 
 
 
@@ -169,4 +169,4 @@ level: Olimpiade Polacca Round 2
 
 > Prova che se i numeri reali $a, b, c$ si trovano nell'intervallo $[0,1]$, allora $$\frac{a}{bc+1} + \frac{b}{ca+1} + \frac{c}{ab+1} \le 2.$$
 
-[[src_pol_2005_r2__Q06]]
+[[Quesiti/src_pol_2005_r2#q06|src_pol_2005_r2__Q06]]

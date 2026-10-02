@@ -36,7 +36,7 @@ level: BMO Round 1
 > 
 > Prove che $A'Q_1 = A'Q_2 = B'R_1 = B'R_2 = C'S_1 = C'S_2$.
 
-[[src_bmo_1980-81_round1__Q01]]
+[[Quesiti/src_bmo_1980-81_round1#q01|src_bmo_1980-81_round1__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: BMO Round 1
 > 
 > Provare che $S_n$ è divisibile da $m!$, ma non necessariamente da $(m+1)!$.
 
-[[src_bmo_1980-81_round1__Q02]]
+[[Quesiti/src_bmo_1980-81_round1#q02|src_bmo_1980-81_round1__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: BMO Round 1
 > 
 > Prova che non può tagliare più di $\dfrac{n^2(n-2)^2}{64}$ del tetraede (con vertici tra i punti $n$) in quadrilaterali.
 
-[[src_bmo_1980-81_round1__Q03]]
+[[Quesiti/src_bmo_1980-81_round1#q03|src_bmo_1980-81_round1__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: BMO Round 1
 
 > Trova, con prova, il minimo possibile valore positivo di $|128^m - 9^n|$, dove $m$ e $n$ sono interi positivi.
 
-[[src_bmo_1980-81_round1__Q04]]
+[[Quesiti/src_bmo_1980-81_round1#q04|src_bmo_1980-81_round1__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: BMO Round 1
 > 
 > Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
 
-[[src_bmo_1980-81_round1__Q05]]
+[[Quesiti/src_bmo_1980-81_round1#q05|src_bmo_1980-81_round1__Q05]]
 
 
 
@@ -195,4 +195,4 @@ level: BMO Round 1
 > 
 > Provare che $$\sum_{i=1}^{n} \frac{1}{P_i}$$ è un numero intero.
 
-[[src_bmo_1980-81_round1__Q06]]
+[[Quesiti/src_bmo_1980-81_round1#q06|src_bmo_1980-81_round1__Q06]]

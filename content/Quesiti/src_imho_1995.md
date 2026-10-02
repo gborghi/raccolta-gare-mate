@@ -33,7 +33,7 @@ level: IMO
 
 > Let $A$, $B$, $C$, $D$ be four distinct points on a line, in that order. The circles with diameters $AC$ and $BD$ intersect at $X$ and $Y$. Let $P$ be a point on the line $XY$ other than $Z$. The line $CP$ intersects the circle with diameter $AC$ at $C$ and $M$, and the line $BP$ intersects the circle with diameter $BD$ at $B$ and $N$. Prove that $AM$, $DN$, $XY$ are concurrent.
 
-[[src_imho_1995__Q01]]
+[[Quesiti/src_imho_1995#q01|src_imho_1995__Q01]]
 
 
 
@@ -61,7 +61,7 @@ Inequality for positive reals with abc=1*
 
 > Let $a$, $b$, $c$ be positive real numbers such that $abc = 1$. Prove that $$\frac{1}{a^3(b+c)} + \frac{1}{b^3(c+a)} + \frac{1}{c^3(a+b)} \ge \frac{3}{2}.$$
 
-[[src_imho_1995__Q02]]
+[[Quesiti/src_imho_1995#q02|src_imho_1995__Q02]]
 
 
 
@@ -88,7 +88,7 @@ Inequality for positive reals with abc=1*
 
 > Determine all integers $n > 3$ for which there exist $n$ points $A_1, \ldots, A_n$ in the plane, no three collinear, and real numbers $r_1, \ldots, r_n$ such that for $1 \le i < j < k \le n$, the area of $\triangle A_i A_j A_k$ is $r_i + r_j + r_k$.
 
-[[src_imho_1995__Q03]]
+[[Quesiti/src_imho_1995#q03|src_imho_1995__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Inequality for positive reals with abc=1*
 
 > Find the maximum value of $x_0$ for which there exists a sequence $x_0, x_1, \ldots, x_{1995}$ of positive reals with $x_0 = x_{1995}$, such that for $i = 1, \ldots, 1995$, $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
 
-[[src_imho_1995__Q04]]
+[[Quesiti/src_imho_1995#q04|src_imho_1995__Q04]]
 
 
 
@@ -143,7 +143,7 @@ Inequality for positive reals with abc=1*
 
 > Let $ABCDEF$ be a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such that $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points in the interior of the hexagon such that $\angle AGB = \angle DHE = 2\pi/3$. Prove that $AG + GB + GH + DH + HE \ge CF$.
 
-[[src_imho_1995__Q05]]
+[[Quesiti/src_imho_1995#q05|src_imho_1995__Q05]]
 
 
 
@@ -170,4 +170,4 @@ Inequality for positive reals with abc=1*
 
 > Let$p$be an odd prime number. How many $p$-element subsets $A$ of $\{1, 2, \ldots, 2p\}$ are there, the sum of whose elements is divisible by $p$?
 
-[[src_imho_1995__Q06]]
+[[Quesiti/src_imho_1995#q06|src_imho_1995__Q06]]

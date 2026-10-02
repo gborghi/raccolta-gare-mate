@@ -47,7 +47,7 @@ level: TFJM²
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q01.png]]
+![[src_tfjm_2024__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
@@ -91,9 +91,9 @@ level: TFJM²
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q01.png]]
+![[src_tfjm_2024__q01.png]]
 
-[[src_tfjm_2024__Q01]]
+[[Quesiti/src_tfjm_2024#q01|src_tfjm_2024__Q01]]
 
 
 
@@ -132,7 +132,7 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q02.png]]
+![[src_tfjm_2024__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
@@ -168,9 +168,9 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q02.png]]
+![[src_tfjm_2024__q02.png]]
 
-[[src_tfjm_2024__Q02]]
+[[Quesiti/src_tfjm_2024#q02|src_tfjm_2024__Q02]]
 
 
 
@@ -206,7 +206,7 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q03.png]]
+![[src_tfjm_2024__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -242,9 +242,9 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q03.png]]
+![[src_tfjm_2024__q03.png]]
 
-[[src_tfjm_2024__Q03]]
+[[Quesiti/src_tfjm_2024#q03|src_tfjm_2024__Q03]]
 
 
 
@@ -302,7 +302,7 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q04.png]]
+![[src_tfjm_2024__q04.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_induzione|Induzione]]
@@ -344,9 +344,9 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q04.png]]
+![[src_tfjm_2024__q04.png]]
 
-[[src_tfjm_2024__Q04]]
+[[Quesiti/src_tfjm_2024#q04|src_tfjm_2024__Q04]]
 
 
 
@@ -391,7 +391,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q05.png]]
+![[src_tfjm_2024__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -437,9 +437,9 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q05.png]]
+![[src_tfjm_2024__q05.png]]
 
-[[src_tfjm_2024__Q05]]
+[[Quesiti/src_tfjm_2024#q05|src_tfjm_2024__Q05]]
 
 
 
@@ -484,7 +484,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q06.png]]
+![[src_tfjm_2024__q06.png]]
 
 **Topic:** [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -524,9 +524,9 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q06.png]]
+![[src_tfjm_2024__q06.png]]
 
-[[src_tfjm_2024__Q06]]
+[[Quesiti/src_tfjm_2024#q06|src_tfjm_2024__Q06]]
 
 
 
@@ -579,7 +579,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{8.}$ Propose and explore other avenues of research, for example in dimension $3$.
 
-![[src_tfjm_2024__Q07.png]]
+![[src_tfjm_2024__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -629,9 +629,9 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{8.}$ Proporre e esplorare altre vie di ricerca, ad esempio nella dimensione $3$.
 
-![[src_tfjm_2024__Q07.png]]
+![[src_tfjm_2024__q07.png]]
 
-[[src_tfjm_2024__Q07]]
+[[Quesiti/src_tfjm_2024#q07|src_tfjm_2024__Q07]]
 
 
 
@@ -669,7 +669,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__Q08.png]]
+![[src_tfjm_2024__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -707,6 +707,6 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__Q08.png]]
+![[src_tfjm_2024__q08.png]]
 
-[[src_tfjm_2024__Q08]]
+[[Quesiti/src_tfjm_2024#q08|src_tfjm_2024__Q08]]

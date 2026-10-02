@@ -35,7 +35,7 @@ level: IMO
 
 > Consider the convex quadrilateral $ABCD$. The point $P$ is in the interior of $ABCD$. The following ratio equalities hold: $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$ Prove that the following three lines meet in a point: the internal bisectors of angles $\angle ADP$ and $\angle PCB$ and the perpendicular bisector of segment $AB$.
 
-[[src_imho_2020__Q01]]
+[[Quesiti/src_imho_2020#q01|src_imho_2020__Q01]]
 
 
 
@@ -63,7 +63,7 @@ Inequality for reals summing to 1 with a≥b≥c≥d≥0*
 
 > The real numbers $a, b, c, d$ are such that $a \ge b \ge c \ge d > 0$ and $a + b + c + d = 1$. Prove that $$(a + 2b + 3c + 4d) a^a b^b c^c d^d < 1.$$
 
-[[src_imho_2020__Q02]]
+[[Quesiti/src_imho_2020#q02|src_imho_2020__Q02]]
 
 
 
@@ -94,7 +94,7 @@ Inequality for reals summing to 1 with a≥b≥c≥d≥0*
 
 > There are $4n$ pebbles of weights $1, 2, 3, \ldots, 4n$. Each pebble is colored in one of $n$ colors and there are four pebbles of each color. Show that we can arrange the pebbles into two piles so that the following two conditions are both satisfied: \begin{itemize} \item Each pile contains two pebbles of each color. I'm going to tell you.
 
-[[src_imho_2020__Q03]]
+[[Quesiti/src_imho_2020#q03|src_imho_2020__Q03]]
 
 
 
@@ -125,7 +125,7 @@ Cable cars on a mountain; find n know all cards equal
 > 
 > Determine the smallest positive integer $k$ for which one can guarantee that there are two stations that are linked by both companies.
 
-[[src_imho_2020__Q04]]
+[[Quesiti/src_imho_2020#q04|src_imho_2020__Q04]]
 
 
 
@@ -156,7 +156,7 @@ Deck of cards: arithmetic mean equals geometric mean on pairs
 > 
 > For which $n$ does it follow that the numbers on the cards are all equal?
 
-[[src_imho_2020__Q05]]
+[[Quesiti/src_imho_2020#q05|src_imho_2020__Q05]]
 
 
 
@@ -195,4 +195,4 @@ Deck of cards: arithmetic mean equals geometric mean on pairs
 > 
 > \textit{Note.} Weaker results with $cn^{-1/3}$ replaced by $cn^{-\alpha}$ may be awarded points depending on the value of the constant $\alpha > 1/3$.
 
-[[src_imho_2020__Q06]]
+[[Quesiti/src_imho_2020#q06|src_imho_2020__Q06]]

@@ -35,7 +35,7 @@ level: China Girls' Mathematical Olympiad
 > Diciamo che un intero positivo $n$ è "buono" se c'è una permutazione $(a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$ tale che $a_k + k$ è un quadrato perfetto per tutti $1 \le k \le n$. Determinare tutti i numeri buoni del set $\{11, 13, 15, 17, 19\}$.
 
 **Risposta:** 13, 15, 17, 19
-[[src_cn_cgmo_2004__Q01]]
+[[Quesiti/src_cn_cgmo_2004#q01|src_cn_cgmo_2004__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: China Girls' Mathematical Olympiad
 > $a$, $b$ e $c$ siano numeri reali positivi. Determinare il valore minimo di $$\frac{a+3c}{a+2b+c} + \frac{4b}{a+b+2c} - \frac{8c}{a+b+3c}.$$
 
 **Risposta:** -17+12\sqrt{2}
-[[src_cn_cgmo_2004__Q02]]
+[[Quesiti/src_cn_cgmo_2004#q02|src_cn_cgmo_2004__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: China Girls' Mathematical Olympiad
 
 > Che $ABC$ sia un triangolo obtusso inserito in un cerchio di raggio 1. Prove che il triangolo $ABC$ può essere coperto da un triangolo rettangolare con ipotenusa $\sqrt{2}+1$.
 
-[[src_cn_cgmo_2004__Q03]]
+[[Quesiti/src_cn_cgmo_2004#q03|src_cn_cgmo_2004__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: China Girls' Mathematical Olympiad
 > Un mazzo di 32 carte ha 2 giocatori diversi ognuno dei quali è numerato 0. Ci sono 10 carte rosse numerate da 1 a 10 e allo stesso modo per le carte blu e verdi. Uno sceglie una serie di carte dal mazzo. Se si sceglie una carta numerata $k$, il valore della carta è $2^k$ e il valore della mano è la somma dei valori delle carte in mano. Determinare il numero di mani con il valore 2004.
 
 **Risposta:** 1006009
-[[src_cn_cgmo_2004__Q04]]
+[[Quesiti/src_cn_cgmo_2004#q04|src_cn_cgmo_2004__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: China Girls' Mathematical Olympiad
 > Determinare il valore massimo della costante $\lambda$ in modo tale che $u + v + w \ge \lambda$, dove $u$, $v$ e $w$ sono numeri reali positivi che soddisfano $u\sqrt{vw} + v\sqrt{wu} + w\sqrt{uv} \ge 1$.
 
 **Risposta:** \sqrt{3}
-[[src_cn_cgmo_2004__Q05]]
+[[Quesiti/src_cn_cgmo_2004#q05|src_cn_cgmo_2004__Q05]]
 
 
 
@@ -163,7 +163,7 @@ level: China Girls' Mathematical Olympiad
 
 > Given an acute triangle $ABC$ with $O$ as its circumcenter. Line $AO$ and side $BC$ meet at $D$. Points $E$ and $F$ are on sides $AB$ and $AC$ respectively, such that points $A$, $E$, $D$ and $F$ are on a circle. Prove that the length of the projection of line segment $EF$ on side $BC$ does not depend on the positions of $E$ and $F$.
 
-![[src_cn_cgmo_2004__Q06.png]]
+![[src_cn_cgmo_2004__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -179,9 +179,9 @@ level: China Girls' Mathematical Olympiad
 
 > Date un triangolo acuto $ABC$ con $O$ come suo centro circundante. Linea $AO$ e lato $BC$ si incontrano a $D$. I punti $E$ e $F$ si trovano rispettivamente sui lati $AB$ e $AC$, in modo tale che i punti $A$, $E$, $D$ e $F$ si trovino su un cerchio. Prove che la lunghezza della proiezione del segmento di linea $EF$ sul lato $BC$ non dipende dalle posizioni di $E$ e $F$.
 
-![[src_cn_cgmo_2004__Q06.png]]
+![[src_cn_cgmo_2004__q06.png]]
 
-[[src_cn_cgmo_2004__Q06]]
+[[Quesiti/src_cn_cgmo_2004#q06|src_cn_cgmo_2004__Q06]]
 
 
 
@@ -208,7 +208,7 @@ level: China Girls' Mathematical Olympiad
 
 > Lasciate che $p$, $q$ siano due integri positivi coprimi, e lasciate che $n$ sia un intero non negativo. Determinare il numero di integri che possono essere scritti nella forma $ip + jq$, dove $i$ e $j$ sono integri non negativi con $i + j \le n$.
 
-[[src_cn_cgmo_2004__Q07]]
+[[Quesiti/src_cn_cgmo_2004#q07|src_cn_cgmo_2004__Q07]]
 
 
 
@@ -237,4 +237,4 @@ level: China Girls' Mathematical Olympiad
 > Quando i quadrati di unità nei quattro angoli vengono rimossi da un quadrato di tre per tre, la forma rimanente viene chiamata croce. Qual è il numero massimo di croci non sovrapposti posizionati all'interno del confine di una scacchiera $10 \times 11$? (Ogni croce copre esattamente cinque unità quadrate sulla tabella.)
 
 **Risposta:** 15
-[[src_cn_cgmo_2004__Q08]]
+[[Quesiti/src_cn_cgmo_2004#q08|src_cn_cgmo_2004__Q08]]

@@ -38,7 +38,7 @@ level: IMO
 > 
 > If $a_1, a_2, \ldots, a_n$ are arbitrary real numbers, then $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \ge 0$$
 
-[[src_imho_1971__Q01]]
+[[Quesiti/src_imho_1971#q01|src_imho_1971__Q01]]
 
 
 
@@ -65,7 +65,7 @@ The value of the underlying assets shall be the sum of the assets of the underly
 
 > Consider a convex polyhedron $P_1$ with nine vertices $A_1, A_2, \ldots, A_9$; let $P_i$ be the polyhedron obtained from $P_1$ by a translation that moves vertex $A_1$ to $A_i$ $(i = 2, 3, \ldots, 9)$. Prove that at least two of the polyhedra $P_1, P_2, \ldots, P_9$ have an interior point in common.
 
-[[src_imho_1971__Q02]]
+[[Quesiti/src_imho_1971#q02|src_imho_1971__Q02]]
 
 
 
@@ -92,7 +92,7 @@ The value of the underlying assets shall be the sum of the assets of the underly
 
 > Prove that the set of integers of the form $2^k - 3$ $(k = 2, 3, \ldots)$ contains an infinite subset in which every two members are relatively prime.
 
-[[src_imho_1971__Q03]]
+[[Quesiti/src_imho_1971#q03|src_imho_1971__Q03]]
 
 
 
@@ -127,7 +127,7 @@ The value of the underlying assets shall be the sum of the assets of the underly
 > 
 > (b) If $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, then there are infinitely many shortest polygonal paths, their common length being $2AC \sin(\alpha/2)$, where $\alpha = \angle BAC + \angle CAD + \angle DAB$.
 
-[[src_imho_1971__Q04]]
+[[Quesiti/src_imho_1971#q04|src_imho_1971__Q04]]
 
 
 
@@ -154,7 +154,7 @@ Finite set S in plane with exactly n points at unit distance from each point
 
 > Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: for every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
 
-[[src_imho_1971__Q05]]
+[[Quesiti/src_imho_1971#q05|src_imho_1971__Q05]]
 
 
 
@@ -181,4 +181,4 @@ Finite set S in plane with exactly n points at unit distance from each point
 
 > Let $A = (a_{ij})$ $(i, j = 1, 2, \ldots, n)$ be a square matrix whose elements are non-negative integers. Suppose that whenever an element $a_{ij} = 0$, the sum of the elements in the $i$th row and the $j$th column is $\ge n$. Prove that the sum of all the elements of the matrix is $\ge n^2/2$.
 
-[[src_imho_1971__Q06]]
+[[Quesiti/src_imho_1971#q06|src_imho_1971__Q06]]

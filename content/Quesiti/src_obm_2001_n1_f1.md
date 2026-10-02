@@ -39,7 +39,7 @@ level: OBM Nível 1
 > (A) $111$ \quad (B) $49$ \quad (C) $29$ \quad (D) $69$ \quad (E) $5$
 
 **Risposta:** E
-[[src_obm_2001_n1_f1__Q01]]
+[[Quesiti/src_obm_2001_n1_f1#q01|src_obm_2001_n1_f1__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: OBM Nível 1
 > 
 > (A) $4$ \quad (B) $14$ \quad (C) $60$ \quad (D) $120$ \quad (E) $24$
 
-![[src_obm_2001_n1_f1__Q02.png]]
+![[src_obm_2001_n1_f1__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -73,10 +73,10 @@ level: OBM Nível 1
 > 
 > (A) $4$ \quad (B) $14$ \quad (C) $60$ \quad (D) $120$ \quad (E) $24$
 
-![[src_obm_2001_n1_f1__Q02.png]]
+![[src_obm_2001_n1_f1__q02.png]]
 
 **Risposta:** D
-[[src_obm_2001_n1_f1__Q02]]
+[[Quesiti/src_obm_2001_n1_f1#q02|src_obm_2001_n1_f1__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 1
 > (A) $100$ \quad (B) $104$ \quad (C) $101$ \quad (D) $103$ \quad (E) $102$
 
 **Risposta:** C
-[[src_obm_2001_n1_f1__Q03]]
+[[Quesiti/src_obm_2001_n1_f1#q03|src_obm_2001_n1_f1__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: OBM Nível 1
 > (A) $1$ \quad (B) $3$ \quad (C) $2$ \quad (D) $4$ \quad (E) più di $4$
 
 **Risposta:** B
-[[src_obm_2001_n1_f1__Q04]]
+[[Quesiti/src_obm_2001_n1_f1#q04|src_obm_2001_n1_f1__Q04]]
 
 
 
@@ -175,7 +175,7 @@ level: OBM Nível 1
 > (A) è uguale a $11$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
 
 **Risposta:** D
-[[src_obm_2001_n1_f1__Q05]]
+[[Quesiti/src_obm_2001_n1_f1#q05|src_obm_2001_n1_f1__Q05]]
 
 
 
@@ -208,7 +208,7 @@ level: OBM Nível 1
 > (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
 
 **Risposta:** C
-[[src_obm_2001_n1_f1__Q06]]
+[[Quesiti/src_obm_2001_n1_f1#q06|src_obm_2001_n1_f1__Q06]]
 
 
 
@@ -223,7 +223,7 @@ level: OBM Nível 1
 > 
 > (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) It is impossible to form an equilateral triangle with this number of triangles $T$
 
-![[src_obm_2001_n1_f1__Q07.png]]
+![[src_obm_2001_n1_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -241,10 +241,10 @@ level: OBM Nível 1
 > 
 > (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) È impossibile formare un triangolo equilaterale con questo numero di triangoli $T$
 
-![[src_obm_2001_n1_f1__Q07.png]]
+![[src_obm_2001_n1_f1__q07.png]]
 
 **Risposta:** A
-[[src_obm_2001_n1_f1__Q07]]
+[[Quesiti/src_obm_2001_n1_f1#q07|src_obm_2001_n1_f1__Q07]]
 
 
 
@@ -277,7 +277,7 @@ level: OBM Nível 1
 > (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
 
 **Risposta:** B
-[[src_obm_2001_n1_f1__Q08]]
+[[Quesiti/src_obm_2001_n1_f1#q08|src_obm_2001_n1_f1__Q08]]
 
 
 
@@ -292,7 +292,7 @@ level: OBM Nível 1
 > 
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 
-![[src_obm_2001_n1_f1__Q09.png]]
+![[src_obm_2001_n1_f1__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -311,10 +311,10 @@ level: OBM Nível 1
 > 
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 
-![[src_obm_2001_n1_f1__Q09.png]]
+![[src_obm_2001_n1_f1__q09.png]]
 
 **Risposta:** B
-[[src_obm_2001_n1_f1__Q09]]
+[[Quesiti/src_obm_2001_n1_f1#q09|src_obm_2001_n1_f1__Q09]]
 
 
 
@@ -329,7 +329,7 @@ level: OBM Nível 1
 > 
 > (A), (B), (C), (D), (E) — see the figures in the original (each shows the numbers $2001$ and $2000$ with a bracket).
 
-![[src_obm_2001_n1_f1__Q10.png]]
+![[src_obm_2001_n1_f1__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -348,10 +348,10 @@ level: OBM Nível 1
 > 
 > (A), (B), (C), (D), (E)  vedere le cifre dell'originale (ciascuno mostra i numeri $2001$ e $2000$ con un supporto).
 
-![[src_obm_2001_n1_f1__Q10.png]]
+![[src_obm_2001_n1_f1__q10.png]]
 
 **Risposta:** D
-[[src_obm_2001_n1_f1__Q10]]
+[[Quesiti/src_obm_2001_n1_f1#q10|src_obm_2001_n1_f1__Q10]]
 
 
 
@@ -383,7 +383,7 @@ level: OBM Nível 1
 > (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
 
 **Risposta:** A
-[[src_obm_2001_n1_f1__Q11]]
+[[Quesiti/src_obm_2001_n1_f1#q11|src_obm_2001_n1_f1__Q11]]
 
 
 
@@ -416,7 +416,7 @@ level: OBM Nível 1
 > (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
 
 **Risposta:** B
-[[src_obm_2001_n1_f1__Q12]]
+[[Quesiti/src_obm_2001_n1_f1#q12|src_obm_2001_n1_f1__Q12]]
 
 
 
@@ -448,7 +448,7 @@ level: OBM Nível 1
 > (A) $15$ grammi \quad (B) $10$ grammi \quad (C) $12$ grammi \quad (D) $20$ grammi \quad (E) $22$ grammi
 
 **Risposta:** B
-[[src_obm_2001_n1_f1__Q13]]
+[[Quesiti/src_obm_2001_n1_f1#q13|src_obm_2001_n1_f1__Q13]]
 
 
 
@@ -481,7 +481,7 @@ level: OBM Nível 1
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
 **Risposta:** A
-[[src_obm_2001_n1_f1__Q14]]
+[[Quesiti/src_obm_2001_n1_f1#q14|src_obm_2001_n1_f1__Q14]]
 
 
 
@@ -514,7 +514,7 @@ level: OBM Nível 1
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
 **Risposta:** C
-[[src_obm_2001_n1_f1__Q15]]
+[[Quesiti/src_obm_2001_n1_f1#q15|src_obm_2001_n1_f1__Q15]]
 
 
 
@@ -547,7 +547,7 @@ level: OBM Nível 1
 > (A) Tutte le colonne hanno almeno $3$ quadrati occupati. \quad (B) Nessuna colonna ha più di $3$ quadrati occupati. \quad (C) Una colonna non ha quadrati occupati. \quad (D) Qualche riga ha almeno $6$ quadrati occupati. \quad (E) Tutte le righe hanno almeno $4$ quadrati occupati.
 
 **Risposta:** D
-[[src_obm_2001_n1_f1__Q16]]
+[[Quesiti/src_obm_2001_n1_f1#q16|src_obm_2001_n1_f1__Q16]]
 
 
 
@@ -580,7 +580,7 @@ level: OBM Nível 1
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
 **Risposta:** E
-[[src_obm_2001_n1_f1__Q17]]
+[[Quesiti/src_obm_2001_n1_f1#q17|src_obm_2001_n1_f1__Q17]]
 
 
 
@@ -613,7 +613,7 @@ level: OBM Nível 1
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
 **Risposta:** A
-[[src_obm_2001_n1_f1__Q18]]
+[[Quesiti/src_obm_2001_n1_f1#q18|src_obm_2001_n1_f1__Q18]]
 
 
 
@@ -646,7 +646,7 @@ level: OBM Nível 1
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** D
-[[src_obm_2001_n1_f1__Q19]]
+[[Quesiti/src_obm_2001_n1_f1#q19|src_obm_2001_n1_f1__Q19]]
 
 
 
@@ -661,7 +661,7 @@ level: OBM Nível 1
 > 
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
 
-![[src_obm_2001_n1_f1__Q20.png]]
+![[src_obm_2001_n1_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -680,7 +680,7 @@ level: OBM Nível 1
 > 
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
 
-![[src_obm_2001_n1_f1__Q20.png]]
+![[src_obm_2001_n1_f1__q20.png]]
 
 **Risposta:** A
-[[src_obm_2001_n1_f1__Q20]]
+[[Quesiti/src_obm_2001_n1_f1#q20|src_obm_2001_n1_f1__Q20]]

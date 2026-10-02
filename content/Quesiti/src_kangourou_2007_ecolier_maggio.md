@@ -34,7 +34,7 @@ Minimize the time for the four digits to appear again
 > 1) Can you stay with 5 squares? How (or, if not, why not)?
 
 **Answer:** 4 ore e 20 minuti
-[[src_kangourou_2007_ecolier_maggio__QE1]]
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe1|src_kangourou_2007_ecolier_maggio__QE1]]
 
 
 
@@ -45,7 +45,7 @@ Minimize the time for the four digits to appear again
 
 *Area del tappeto quadrato di sbieco*
 
-![[src_kangourou_2007_ecolier_maggio__probE2.png]]
+![[src_kangourou_2007_ecolier_maggio__probe2.png]]
 
 > 2) Puoi rimanere con un solo gettone? In che modo (o, in caso negativo, perché no)?
 
@@ -62,12 +62,12 @@ Minimize the time for the four digits to appear again
 
 *Square carpet area of the slurry*
 
-![[src_kangourou_2007_ecolier_maggio__probE2.png]]
+![[src_kangourou_2007_ecolier_maggio__probe2.png]]
 
 > 2) Can you stay with just one token? How (or, if not, why not)?
 
 **Answer:** 5
-[[src_kangourou_2007_ecolier_maggio__QE2]]
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe2|src_kangourou_2007_ecolier_maggio__QE2]]
 
 
 
@@ -78,7 +78,7 @@ Minimize the time for the four digits to appear again
 
 *Modi di scegliere tre pezzi per quadrato 3x3*
 
-![[src_kangourou_2007_ecolier_maggio__probE3.png]]
+![[src_kangourou_2007_ecolier_maggio__probe3.png]]
 
 > 3) Puoi eliminare tutti i gettoni? In che modo (o, in caso negativo, perché no)? E6. (22 punti ) Alcuni fra i numeri interi che hanno 6 come cifra delle unità hanno anche questa proprietà: se sposti la cifra 6 delle unità davanti alla prima cifra del numero, ottieni un nuovo numero che è il prodotto del numero di partenza per 4. Trova il più piccolo numero intero con questa proprietà. • Trovane poi altri. •
 
@@ -95,12 +95,12 @@ Minimize the time for the four digits to appear again
 
 *How to choose three pieces per square 3x3*
 
-![[src_kangourou_2007_ecolier_maggio__probE3.png]]
+![[src_kangourou_2007_ecolier_maggio__probe3.png]]
 
 > 3) Can you remove all the tokens? How (or, if not, why not)? E6. (22 points) Some of the integers that have 6 as a unit number also have this property: if you move the unit number 6 before the first digit of the number, you get a new number that is the product of the starting number by 4. Find the smallest integer with this property. • Find others. •
 
 **Answer:** 7
-[[src_kangourou_2007_ecolier_maggio__QE3]]
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe3|src_kangourou_2007_ecolier_maggio__QE3]]
 
 
 
@@ -129,7 +129,7 @@ Minimize the time for the four digits to appear again
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 65 handshakes were made. How many students (without discriminating between males and females) are in that class?
 
 **Answer:** 18
-[[src_kangourou_2007_ecolier_maggio__QE4]]
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe4|src_kangourou_2007_ecolier_maggio__QE4]]
 
 
 
@@ -172,7 +172,7 @@ Minimize the time for the four digits to appear again
 > Answer the following questions. 1) Can you stay with 5 squares? How (or, if not, why not)? 2) Can you stay with just one token? How (or, if not, why not)? 3) Can you remove all the tokens? How (or, if not, why not)?
 
 **Answer:** si/si/no
-[[src_kangourou_2007_ecolier_maggio__QE5]]
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe5|src_kangourou_2007_ecolier_maggio__QE5]]
 
 
 
@@ -206,4 +206,4 @@ Minimize the time for the four digits to appear again
 > Find the smallest integer with this property. - Then he found others.
 
 **Answer:** 153846
-[[src_kangourou_2007_ecolier_maggio__QE6]]
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe6|src_kangourou_2007_ecolier_maggio__QE6]]

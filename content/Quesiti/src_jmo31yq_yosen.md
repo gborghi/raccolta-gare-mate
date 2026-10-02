@@ -35,7 +35,7 @@ level: JMO Yosen
 > Che $m$ e $n$ siano interamente integri positivi coprimari che soddisfano $m+n=90$. Trova il valore massimo possibile del prodotto $mn$.
 
 **Risposta:** 2021
-[[src_jmo31yq_yosen__Q01]]
+[[Quesiti/src_jmo31yq_yosen#q01|src_jmo31yq_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JMO Yosen
 
 > There is a regular decagon (regular $10$-sided polygon) as shown in the figure below. If the total area of the decagon is $1$, find the area of the shaded region.
 
-![[src_jmo31yq_yosen__Q02.png]]
+![[src_jmo31yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -65,10 +65,10 @@ level: JMO Yosen
 
 > C'è un decagono regolare (poligono laterale regolare $10$) come mostrato nella figura seguente. Se la superficie totale del decagone è $1$, si trova la superficie della regione ombrata.
 
-![[src_jmo31yq_yosen__Q02.png]]
+![[src_jmo31yq_yosen__q02.png]]
 
 **Risposta:** \frac{2}{5}
-[[src_jmo31yq_yosen__Q02]]
+[[Quesiti/src_jmo31yq_yosen#q02|src_jmo31yq_yosen__Q02]]
 
 
 
@@ -81,7 +81,7 @@ level: JMO Yosen
 
 > Let $ABC$ be an isosceles triangle with $AB=AC$, and let $P$ be a point inside it. Let $D$, $E$, $F$ be the feet of the perpendiculars dropped from $P$ to the sides $BC$, $CA$, $AB$ respectively. Suppose $BD=9$, $CD=5$, $PE=2$, $PF=5$. Find the length of side $AB$. Here $XY$ denotes the length of segment $XY$.
 
-![[src_jmo31yq_yosen__Q03.png]]
+![[src_jmo31yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -98,10 +98,10 @@ level: JMO Yosen
 
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB=AC$, e lasciate che $P$ sia un punto all'interno di esso. I piedi $D$, $E$ e $F$ siano i piedi delle perpendicolari abbassate rispettivamente da $P$ ai lati $BC$, $CA$ e $AB$. Supponiamo $BD=9$, $CD=5$, $PE=2$, $PF=5$. Trova la lunghezza del lato $AB$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jmo31yq_yosen__Q03.png]]
+![[src_jmo31yq_yosen__q03.png]]
 
 **Risposta:** 4\sqrt{7}
-[[src_jmo31yq_yosen__Q03]]
+[[Quesiti/src_jmo31yq_yosen#q03|src_jmo31yq_yosen__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: JMO Yosen
 > Tre numeri interi positivi distinti sono scritti su una lavagna nera. Quando i numeri reali $a$, $b$, $c$ sono scritti sulla lavagna, si considera l'operazione che li riscrive contemporaneamente come $\dfrac{b+c}{2}$, $\dfrac{c+a}{2}$, $\dfrac{a+b}{2}$. Dopo che questa operazione è stata eseguita $2021$ volte, i tre numeri sulla lavagna si sono rivelati tutti numeri interi positivi. Trova il valore massimo possibile della somma dei tre numeri interi positivi che sono stati scritti all'inizio.
 
 **Risposta:** 3\cdot 2^{2021}+3
-[[src_jmo31yq_yosen__Q04]]
+[[Quesiti/src_jmo31yq_yosen#q04|src_jmo31yq_yosen__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: JMO Yosen
 
 > As shown in the figure below, there are $4$ kinds of blocks, each formed from $4$ unit cubes of edge length $1$. How many ways are there to place $4$ such blocks into a $2\times 2\times 4$ rectangular box so that nothing protrudes? Blocks of the same kind may be used several times, and blocks may be inserted after rotation. Placements that coincide under a rotation of the entire box are counted as distinct.
 
-![[src_jmo31yq_yosen__Q05.png]]
+![[src_jmo31yq_yosen__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -160,10 +160,10 @@ level: JMO Yosen
 
 > Come mostrato nella figura di seguito, ci sono tipi di blocchi $4$, ognuno formato da cubetti unitari $4$ di lunghezza di bordo $1$. Quanti modi ci sono per inserire $4$ tali blocchi in una scatola rettangolare $2\times 2\times 4$ in modo che nulla salga fuori? Blocchi dello stesso tipo possono essere utilizzati più volte e blocchi possono essere inseriti dopo la rotazione. I posizionamenti che coincidono sotto una rotazione dell'intera scatola sono contati come distinti.
 
-![[src_jmo31yq_yosen__Q05.png]]
+![[src_jmo31yq_yosen__q05.png]]
 
 **Risposta:** 379
-[[src_jmo31yq_yosen__Q05]]
+[[Quesiti/src_jmo31yq_yosen#q05|src_jmo31yq_yosen__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: JMO Yosen
 > Per un intero positivo $n$, $f(n)$ indichi il numero di interi positivi $m$ in modo tale che $m$ e $n$ siano reciprocamente copriemi e $m+1$ e $n+1$ siano reciprocamente copriemi, dove $m$ va oltre $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti numeri interi positivi distinti appaiono?
 
 **Risposta:** 11
-[[src_jmo31yq_yosen__Q06]]
+[[Quesiti/src_jmo31yq_yosen#q06|src_jmo31yq_yosen__Q06]]
 
 
 
@@ -221,7 +221,7 @@ level: JMO Yosen
 > Sul lato $BC$ del triangolo $ABC$, si prendono i punti $P$ e $Q$ e il centroide del triangolo $ACP$ coincide con il centroide del triangolo $ABQ$. Dato $AB=10$, $AC=11$, $BP=5$, $CQ=6$, si trova la lunghezza del lato $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \sqrt{231}
-[[src_jmo31yq_yosen__Q07]]
+[[Quesiti/src_jmo31yq_yosen#q07|src_jmo31yq_yosen__Q07]]
 
 
 
@@ -252,7 +252,7 @@ level: JMO Yosen
 > Trova il numero di tuppi $(a_1,a_2,\dots,a_{17})$ di numeri interi, ciascuno almeno $2$ e al massimo $20$, in modo tale che $$a_1^{a_2^{\cdot^{\cdot^{a_{17}}}}}\equiv a_2^{a_3^{\cdot^{\cdot^{a_{17}}}}}\equiv 1\pmod{17}.$$ Qui ogni esponente è la torre di potenza formata dai due (e ulteriori) numeri scritti in alto a destra.
 
 **Risposta:** 2042\cdot 19^{14}
-[[src_jmo31yq_yosen__Q08]]
+[[Quesiti/src_jmo31yq_yosen#q08|src_jmo31yq_yosen__Q08]]
 
 
 
@@ -281,7 +281,7 @@ level: JMO Yosen
 > Considerare i modi per scrivere uno dei numeri $1$, $2$, $3$ in ogni cella di una griglia $2021\times 2021$ in modo tale che, per ogni blocco di celle $2\times 2$, la somma dei quattro numeri scritti in esso sia uguale a $8$. Supponiamo che ci siano $A$ tali riempimenti in totale. Trova il rimanente quando $A$ è diviso da $100$. I riempimenti che coincidono sotto una rotazione o una riflessione sono contati come distinti.
 
 **Risposta:** 3
-[[src_jmo31yq_yosen__Q09]]
+[[Quesiti/src_jmo31yq_yosen#q09|src_jmo31yq_yosen__Q09]]
 
 
 
@@ -310,7 +310,7 @@ level: JMO Yosen
 > Nei lati $AB$ e $AC$ del triangolo $ABC$ ci sono i punti $D$ e $E$ rispettivamente, e i quattro punti $D$, $B$, $C$ e $E$ si trovano su un cerchio. Inoltre, $P$ è un punto all'interno del quadrilaterale $DBCE$ che soddisfa $\angle BDP=\angle BPC=\angle PEC$. Date $AB=9$, $AC=11$, $DP=1$, $EP=3$, si trova il valore di $\dfrac{BP}{CP}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{\sqrt{33}}{11}
-[[src_jmo31yq_yosen__Q10]]
+[[Quesiti/src_jmo31yq_yosen#q10|src_jmo31yq_yosen__Q10]]
 
 
 
@@ -339,7 +339,7 @@ level: JMO Yosen
 > Su tutti i tuppi $(x,y,z,w)$ di numeri interi ognuno almeno $1$ e al massimo $1000$, $M$ sia la somma dei valori massimi di $xy+zw$, $zx+yw$, $xw+yz$ (cioè per ogni tuple sommare il più grande di questi tre quantitativi). Allo stesso modo, su tutti tali tupli $(x,y,z,w)$, $m$ sia la somma dei valori minimi di $xy+zw$, $zx+yw$, $xw+yz$. Trova il numero dei divisori positivi di $M-m$.
 
 **Risposta:** 20412
-[[src_jmo31yq_yosen__Q11]]
+[[Quesiti/src_jmo31yq_yosen#q11|src_jmo31yq_yosen__Q11]]
 
 
 
@@ -357,7 +357,7 @@ level: JMO Yosen
 > (d) Remove a coin from $X$ and place one coin on each of the cell $1$ left and $1$ below $X$ and the cell $1$ right and $1$ below $X$; however, if only one of these two cells exists, place a coin only on that one cell.
 > If one tries to place a coin on a cell that already has a coin, no coin is placed there. After performing such operations any number of times, find the maximum possible number of coins that can be on the cells.
 
-![[src_jmo31yq_yosen__Q12.png]]
+![[src_jmo31yq_yosen__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -374,7 +374,7 @@ level: JMO Yosen
 
 > C'è un array di celle $7\times 7$. Una moneta viene posta sulla cella nella riga $1$st dall'alto e nella colonna $4$th dalla sinistra. Diciamo che la cellula $Y$ è a basso a sinistra della cellula $X$ se, per qualche intero positivo $k$, $Y$ è $k$ cellule a sinistra e $k$ cellule al di sotto $X$; allo stesso modo, $Y$ è a basso a destra di $X$ se, per qualche intero positivo $k$, $Y$ è $k$ cellule a destra e $k$ cellule al di sotto $X$. Per una cella $X$ che non è nella riga inferiore che ha una moneta sopra, si può eseguire esattamente una delle seguenti quattro operazioni: (a) Rimuovere una moneta da $X$ e inserire una moneta nella cella $1$ sotto $X$. b) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle situate in basso a sinistra di $X$. (c) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle in basso a destra di $X$. (d) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle $1$ a sinistra e $1$ sotto $X$ e la cella $1$ a destra e $1$ sotto $X$; tuttavia, se esiste solo una di queste due celle, posizionare una moneta solo su quella cella. Se si cerca di mettere una moneta su una cella che già ha una moneta, non viene messa lì. Dopo aver eseguito tali operazioni un certo numero di volte, trova il numero massimo possibile di monete che possono essere sulle celle.
 
-![[src_jmo31yq_yosen__Q12.png]]
+![[src_jmo31yq_yosen__q12.png]]
 
 **Risposta:** 19
-[[src_jmo31yq_yosen__Q12]]
+[[Quesiti/src_jmo31yq_yosen#q12|src_jmo31yq_yosen__Q12]]

@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 2
 
 > Provare che tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ che soddisfano $$\forall x\in\mathbb{R}\ \ f(x)=f(2x)=f(1-x)$$ sono periodiche.
 
-[[src_pol_2002_r2__Q01]]
+[[Quesiti/src_pol_2002_r2#q01|src_pol_2002_r2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Olimpiade Polacca Round 2
 
 > In un quadrilaterale converso $ABCD$ le seguenti equazioni $$\angle ADB = 2\angle ACB \quad \text{and} \quad \angle BDC = 2\angle BAC$$ si trovano. Prove che $AD=CD$.
 
-[[src_pol_2002_r2__Q02]]
+[[Quesiti/src_pol_2002_r2#q02|src_pol_2002_r2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 
 > Si dà un intero positivo $n$. In un'associazione composta da membri $n$ si svolgono 6 commissioni. Ogni commissione contiene almeno $n/4$ persone. Dimostrare che esistono due commissioni che contengono almeno $n/30$ persone in comune.
 
-[[src_pol_2002_r2__Q03]]
+[[Quesiti/src_pol_2002_r2#q03|src_pol_2002_r2__Q03]]
 
 
 
@@ -120,7 +120,7 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 
 > Trova tutti i numeri $p \le q \le r$ in modo tale che tutti i numeri $$pq+r,\ pq+r^2,\ qr+p,\ qr+p^2,\ rp+q,\ rp+q^2$$ siano primi.
 
-[[src_pol_2002_r2__Q04]]
+[[Quesiti/src_pol_2002_r2#q04|src_pol_2002_r2__Q04]]
 
 
 
@@ -149,7 +149,7 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 
 > Il triangolo $ABC$ con $\angle BAC = 90^\circ$ è la base della piramide $ABCD$. Inoltre contiene $$AD=BD \quad \text{and} \quad AB=CD.$$ Prove che $\angle ACD \ge 30^\circ$.
 
-[[src_pol_2002_r2__Q05]]
+[[Quesiti/src_pol_2002_r2#q05|src_pol_2002_r2__Q05]]
 
 
 
@@ -178,4 +178,4 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 
 > Trovare tutti gli integri positivi $n$ in modo tale che per tutti i numeri reali $x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n$ si verifichi la seguente disuguaglianza $$x_1x_2\ldots x_n + y_1y_2\ldots y_n \le \sqrt{x_1^2+y_1^2}\cdot\sqrt{x_2^2+y_2^2}\cdot\ldots\cdot\sqrt{x_n^2+y_n^2}$$.
 
-[[src_pol_2002_r2__Q06]]
+[[Quesiti/src_pol_2002_r2#q06|src_pol_2002_r2__Q06]]

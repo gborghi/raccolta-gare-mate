@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Il $ABC$ deve essere un triangolo con un angolo obtuso a $A$ e incentro $I$. I cerchi $ABI$ e $ACI$ si incrociano di nuovo a $BC$ rispettivamente a $X$ e $Y$. Le linee $AX$ e $BI$ si incontrano a $P$, e le linee $AY$ e $CI$ si incontrano a $Q$. Provare che $BCQP$ è ciclico.
 
-[[src_bmo2_2023__Q01]]
+[[Quesiti/src_bmo2_2023#q01|src_bmo2_2023__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: BMO Round 2
 > 
 > Trova tutte le $n$ in modo tale che l'elenco iniziale possa essere trasformato in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
 
-[[src_bmo2_2023__Q02]]
+[[Quesiti/src_bmo2_2023#q02|src_bmo2_2023__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: BMO Round 2
 > 
 > Trova il numero delle liste $n$ ideali.
 
-[[src_bmo2_2023__Q03]]
+[[Quesiti/src_bmo2_2023#q03|src_bmo2_2023__Q03]]
 
 
 
@@ -136,4 +136,4 @@ level: BMO Round 2
 
 > Le lunghezze laterali $a, b, c$ di un triangolo $ABC$ sono numeri interi positivi in modo che il fattore comune più alto di $a$, $b$ e $c$ sia 1. Dato che $\angle A = 3\angle B$, dimostrare che almeno uno di $a$, $b$ e $c$ è un cubo.
 
-[[src_bmo2_2023__Q04]]
+[[Quesiti/src_bmo2_2023#q04|src_bmo2_2023__Q04]]

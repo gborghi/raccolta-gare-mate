@@ -35,7 +35,7 @@ level: JMO Yosen
 > Tra i numeri espressi come $n^2+4n$ per un intero positivo $n$, trova quello la cui differenza assoluta da $10000$ è più piccola.
 
 **Risposta:** 9996
-[[src_jmo19yq_yosen__Q01]]
+[[Quesiti/src_jmo19yq_yosen#q01|src_jmo19yq_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JMO Yosen
 
 > A circle $O_1$ of radius $2$ and a circle $O_2$ of radius $4$ are externally tangent at the point $P$. Points $A,B$ different from $P$ are taken on the circumferences of $O_1$ and $O_2$ respectively, and it happens that $A,P,B$ lie on a single straight line. If the length of segment $AB$ is $4$, find the length of segment $PB$.
 
-![[src_jmo19yq_yosen__Q02.png]]
+![[src_jmo19yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -65,10 +65,10 @@ level: JMO Yosen
 
 > Un cerchio $O_1$ di raggio $2$ e un cerchio $O_2$ di raggio $4$ sono tangenti esternamente al punto $P$. I punti $A,B$ diversi da $P$ vengono presi rispettivamente sulle circonferenze di $O_1$ e $O_2$, e accade che $A,P,B$ si trova su una singola linea retta. Se la lunghezza del segmento $AB$ è $4$, trovare la lunghezza del segmento $PB$.
 
-![[src_jmo19yq_yosen__Q02.png]]
+![[src_jmo19yq_yosen__q02.png]]
 
 **Risposta:** 8/3
-[[src_jmo19yq_yosen__Q02]]
+[[Quesiti/src_jmo19yq_yosen#q02|src_jmo19yq_yosen__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: JMO Yosen
 
 > Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $$\begin{cases} ab+c=13 \\ a+bc=23 \end{cases}$$ Qui i triples che differiscono solo nell'ordine dei tre numeri sono considerati distinti.
 
-[[src_jmo19yq_yosen__Q03]]
+[[Quesiti/src_jmo19yq_yosen#q03|src_jmo19yq_yosen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JMO Yosen
 
 > Nel triangolo $ABC$, $M$ sia il punto medio del lato $BC$, con $AB=4$ e $AM=1$. Trova il minimo valore possibile dell'angolo $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo19yq_yosen__Q04]]
+[[Quesiti/src_jmo19yq_yosen#q04|src_jmo19yq_yosen__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: JMO Yosen
 
 > Sei palle rosse, tre palle blu e tre palle gialle sono disposte in fila. In quanti modi possono essere disposte in modo che due palle adiacenti abbiano colori diversi? Qui non si distinguono le palle dello stesso colore.
 
-[[src_jmo19yq_yosen__Q05]]
+[[Quesiti/src_jmo19yq_yosen#q05|src_jmo19yq_yosen__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: JMO Yosen
 
 > Il tetraedro $OABC$ soddisfa $OA=3$, $OB=4$, $OC=5$ e $\angle AOB=\angle AOC=45^\circ$, $\angle BOC=60^\circ$. Trova il volume del tetraedro $OABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo19yq_yosen__Q06]]
+[[Quesiti/src_jmo19yq_yosen#q06|src_jmo19yq_yosen__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: JMO Yosen
 
 > I numeri reali $x_1,x_2,x_3,x_4,x_5$ soddisfano le seguenti cinque equazioni: $$\begin{cases} x_1x_2+x_1x_3+x_1x_4+x_1x_5=-1 \\ x_2x_1+x_2x_3+x_2x_4+x_2x_5=-1 \\ x_3x_1+x_3x_2+x_3x_4+x_3x_5=-1 \\ x_4x_1+x_4x_2+x_4x_3+x_4x_5=-1 \\ x_5x_1+x_5x_2+x_5x_3+x_5x_4=-1 \end{cases}$$ Trova tutti i valori possibili di $x_1$.
 
-[[src_jmo19yq_yosen__Q07]]
+[[Quesiti/src_jmo19yq_yosen#q07|src_jmo19yq_yosen__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: JMO Yosen
 
 > Che $f(x)$ e $g(x)$ siano entrambi polinomi non zero con coefficienti reali soddisfacenti $$f(x^3)+g(x)=f(x)+x^5 g(x).$$ Tra i polinomi $f(x)$ che possono verificarsi in questo modo, trova uno del grado più piccolo.
 
-[[src_jmo19yq_yosen__Q08]]
+[[Quesiti/src_jmo19yq_yosen#q08|src_jmo19yq_yosen__Q08]]
 
 
 
@@ -257,7 +257,7 @@ level: JMO Yosen
 
 > Dieci interpreti sono invitati a una conferenza internazionale di matematica. Ogni interprete può parlare esattamente due delle cinque seguenti lingue: greco, sloveno, vietnamita, spagnolo e tedesco. Inoltre, non ci sono due interpreti che abbiano la stessa combinazione di lingue. Tali interpreti devono essere alloggiati due a stanza in cinque stanze, in modo che i due interpreti in ciascuna stanza possano parlare una lingua comune. In quanti modi si può farlo? Qui, due assegnazioni di stanza che danno esattamente gli stessi gruppi di persone sono contate come le stesse (solo scambiando quale stanza una coppia occupa non crea un'assegnazione diversa).
 
-[[src_jmo19yq_yosen__Q09]]
+[[Quesiti/src_jmo19yq_yosen#q09|src_jmo19yq_yosen__Q09]]
 
 
 
@@ -284,7 +284,7 @@ level: JMO Yosen
 
 > Calcolare $$\frac{\sqrt{10+\sqrt{1}}+\sqrt{10+\sqrt{2}}+\cdots+\sqrt{10+\sqrt{99}}}{\sqrt{10-\sqrt{1}}+\sqrt{10-\sqrt{2}}+\cdots+\sqrt{10-\sqrt{99}}}.$$ Qui il denominatore è la somma di $\sqrt{10-\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$, e il numeratore è la somma di $\sqrt{10+\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$.
 
-[[src_jmo19yq_yosen__Q10]]
+[[Quesiti/src_jmo19yq_yosen#q10|src_jmo19yq_yosen__Q10]]
 
 
 
@@ -311,7 +311,7 @@ level: JMO Yosen
 
 > Trova la somma di tutte le soluzioni della seguente equazione nella variabile reale $x$: $$[x]+[2x]+[3x]+[4x]+[5x]+[6x]+[7x]+[8x]+[9x]=44x.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$.
 
-[[src_jmo19yq_yosen__Q11]]
+[[Quesiti/src_jmo19yq_yosen#q11|src_jmo19yq_yosen__Q11]]
 
 
 
@@ -338,4 +338,4 @@ level: JMO Yosen
 
 > Un piano nello spazio divide lo spazio in due parti; una di queste parti (senza includere il piano stesso) è chiamata mezzo spazio. Che $S$ sia un insieme di punti $10$ nello spazio in modo tale che nessuno di loro sia coplanare. Trovare il numero di sottoinsiemi di $S$ che si formano come intersezione di $S$ con qualche mezzo spazio.
 
-[[src_jmo19yq_yosen__Q12]]
+[[Quesiti/src_jmo19yq_yosen#q12|src_jmo19yq_yosen__Q12]]

@@ -37,7 +37,7 @@ level: OBM Nível 3
 > 
 > **A) ** Sei $\quad$ **B) ** Cinque $\quad$ **C) ** Quattro $\quad$ **D) ** Tre $\quad$ **E) ** Due
 
-[[src_obm_2012_n3_f1__Q01]]
+[[Quesiti/src_obm_2012_n3_f1#q01|src_obm_2012_n3_f1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 3
 > 
 > **A)** 38 $\quad$ **B)** 96 $\quad$ **C)** 108 $\quad$ **D)** 576 $\quad$ **E)** 648
 
-[[src_obm_2012_n3_f1__Q02]]
+[[Quesiti/src_obm_2012_n3_f1#q02|src_obm_2012_n3_f1__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 3
 > 
 > **A)** 16 $\quad$ **B)** 17 $\quad$ **C)** 9 $\quad$ **D)** 5 $\quad$ **E)** 33
 
-[[src_obm_2012_n3_f1__Q03]]
+[[Quesiti/src_obm_2012_n3_f1#q03|src_obm_2012_n3_f1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 3
 > 
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 7 $\quad$ **E)** 12
 
-![[src_obm_2012_n3_f1__Q04.png]]
+![[src_obm_2012_n3_f1__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -132,9 +132,9 @@ level: OBM Nível 3
 > 
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 7 $\quad$ **E)** 12
 
-![[src_obm_2012_n3_f1__Q04.png]]
+![[src_obm_2012_n3_f1__q04.png]]
 
-[[src_obm_2012_n3_f1__Q04]]
+[[Quesiti/src_obm_2012_n3_f1#q04|src_obm_2012_n3_f1__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: OBM Nível 3
 > 
 > **A)** 12 $\quad$ **B)** 28 $\quad$ **C)** 38 $\quad$ **D)** 1978 $\quad$ **E)** 2012
 
-[[src_obm_2012_n3_f1__Q05]]
+[[Quesiti/src_obm_2012_n3_f1#q05|src_obm_2012_n3_f1__Q05]]
 
 
 
@@ -196,7 +196,7 @@ level: OBM Nível 3
 > 
 > **A) ** 6 $\quad$ **B) ** 8 $\quad$ **C) ** 9 $\quad$ **D) ** 15 $\quad$ **E) ** nessuno
 
-[[src_obm_2012_n3_f1__Q06]]
+[[Quesiti/src_obm_2012_n3_f1#q06|src_obm_2012_n3_f1__Q06]]
 
 
 
@@ -211,7 +211,7 @@ level: OBM Nível 3
 > 
 > **A)** 2 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 5 $\quad$ **E)** 6
 
-![[src_obm_2012_n3_f1__Q07.png]]
+![[src_obm_2012_n3_f1__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -229,9 +229,9 @@ level: OBM Nível 3
 > 
 > **A)** 2 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 5 $\quad$ **E)** 6
 
-![[src_obm_2012_n3_f1__Q07.png]]
+![[src_obm_2012_n3_f1__q07.png]]
 
-[[src_obm_2012_n3_f1__Q07]]
+[[Quesiti/src_obm_2012_n3_f1#q07|src_obm_2012_n3_f1__Q07]]
 
 
 
@@ -262,7 +262,7 @@ level: OBM Nível 3
 > 
 > **A)** $x + 2$ $\quad$ **B)** $x - 3$ $\quad$ **C)** $x - 1$ $\quad$ **D)** $2x + 5$ $\quad$ **E)** $3x + 5$
 
-[[src_obm_2012_n3_f1__Q08]]
+[[Quesiti/src_obm_2012_n3_f1#q08|src_obm_2012_n3_f1__Q08]]
 
 
 
@@ -293,7 +293,7 @@ level: OBM Nível 3
 > 
 > **A)** 20 $\quad$ **B)** 21 $\quad$ **C)** 22 $\quad$ **D)** 23 $\quad$ **E)** 24
 
-[[src_obm_2012_n3_f1__Q09]]
+[[Quesiti/src_obm_2012_n3_f1#q09|src_obm_2012_n3_f1__Q09]]
 
 
 
@@ -324,7 +324,7 @@ level: OBM Nível 3
 > 
 > **A)** 52 kg $\quad$ **B)** 51 kg $\quad$ **C)** 49 kg $\quad$ **D)** 48 kg $\quad$ **E)** 46 kg
 
-[[src_obm_2012_n3_f1__Q10]]
+[[Quesiti/src_obm_2012_n3_f1#q10|src_obm_2012_n3_f1__Q10]]
 
 
 
@@ -371,7 +371,7 @@ level: OBM Nível 3
 > 
 > **A)** 101 $\quad$ **B)** 102 $\quad$ **C)** 103 $\quad$ **D)** 104 $\quad$ **E)** 105
 
-[[src_obm_2012_n3_f1__Q11]]
+[[Quesiti/src_obm_2012_n3_f1#q11|src_obm_2012_n3_f1__Q11]]
 
 
 
@@ -388,7 +388,7 @@ level: OBM Nível 3
 > 
 > **A)** 110 $\quad$ **B)** 120 $\quad$ **C)** 130 $\quad$ **D)** 140 $\quad$ **E)** 160
 
-![[src_obm_2012_n3_f1__Q12.png]]
+![[src_obm_2012_n3_f1__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -407,9 +407,9 @@ level: OBM Nível 3
 > 
 > **A)** 110 $\quad$ **B)** 120 $\quad$ **C)** 130 $\quad$ **D)** 140 $\quad$ **E)** 160
 
-![[src_obm_2012_n3_f1__Q12.png]]
+![[src_obm_2012_n3_f1__q12.png]]
 
-[[src_obm_2012_n3_f1__Q12]]
+[[Quesiti/src_obm_2012_n3_f1#q12|src_obm_2012_n3_f1__Q12]]
 
 
 
@@ -440,7 +440,7 @@ level: OBM Nível 3
 > 
 > **A)** 1972 $\quad$ **B)** 1976 $\quad$ **C)** 1980 $\quad$ **D)** 1984 $\quad$ **E)** 1988
 
-[[src_obm_2012_n3_f1__Q13]]
+[[Quesiti/src_obm_2012_n3_f1#q13|src_obm_2012_n3_f1__Q13]]
 
 
 
@@ -455,7 +455,7 @@ level: OBM Nível 3
 > 
 > **A)** $1 : (\sqrt{2} + 1)$ $\quad$ **B)** $1 : 3$ $\quad$ **C)** $1 : 2$ $\quad$ **D)** $1 : \sqrt{2}$ $\quad$ **E)** $1 : (2\sqrt{2} + 3)$
 
-![[src_obm_2012_n3_f1__Q14.png]]
+![[src_obm_2012_n3_f1__q14.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -472,9 +472,9 @@ level: OBM Nível 3
 > 
 > **A)** $1 : (\sqrt{2} + 1)$ $\quad$ **B)** $1 : 3$ $\quad$ **C)** $1 : 2$ $\quad$ **D)** $1 : \sqrt{2}$ $\quad$ **E)** $1 : (2\sqrt{2} + 3)$
 
-![[src_obm_2012_n3_f1__Q14.png]]
+![[src_obm_2012_n3_f1__q14.png]]
 
-[[src_obm_2012_n3_f1__Q14]]
+[[Quesiti/src_obm_2012_n3_f1#q14|src_obm_2012_n3_f1__Q14]]
 
 
 
@@ -505,7 +505,7 @@ level: OBM Nível 3
 > 
 > **A)** $(2^{10} - 1)^4$ $\quad$ **B)** $(2^4 - 1)^{10}$ $\quad$ **C)** $2^{10} - 1$ $\quad$ **D)** $2^4 - 1$ $\quad$ **E)** $2^{10} - 2^4$
 
-[[src_obm_2012_n3_f1__Q15]]
+[[Quesiti/src_obm_2012_n3_f1#q15|src_obm_2012_n3_f1__Q15]]
 
 
 
@@ -536,7 +536,7 @@ level: OBM Nível 3
 > 
 > **A)** $1006^2$ $\quad$ **B)** $1005^2$ $\quad$ **C)** $1005 \cdot 1007$ $\quad$ **D)** $1005 \cdot 1006$ $\quad$ **E)** $1006 \cdot 1007$
 
-[[src_obm_2012_n3_f1__Q16]]
+[[Quesiti/src_obm_2012_n3_f1#q16|src_obm_2012_n3_f1__Q16]]
 
 
 
@@ -567,7 +567,7 @@ level: OBM Nível 3
 > 
 > **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$ $\quad$ **D)** $p_A < p_B = p_C$ $\quad$ **E)** $p_A = p_B = p_C$
 
-[[src_obm_2012_n3_f1__Q17]]
+[[Quesiti/src_obm_2012_n3_f1#q17|src_obm_2012_n3_f1__Q17]]
 
 
 
@@ -614,7 +614,7 @@ level: OBM Nível 3
 > 
 > **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
 
-[[src_obm_2012_n3_f1__Q18]]
+[[Quesiti/src_obm_2012_n3_f1#q18|src_obm_2012_n3_f1__Q18]]
 
 
 
@@ -645,7 +645,7 @@ level: OBM Nível 3
 > 
 > **A)** 15 $\quad$ **B)** 16 $\quad$ **C)** 17 $\quad$ **D)** 18 $\quad$ **E)** 19
 
-[[src_obm_2012_n3_f1__Q19]]
+[[Quesiti/src_obm_2012_n3_f1#q19|src_obm_2012_n3_f1__Q19]]
 
 
 
@@ -684,7 +684,7 @@ level: OBM Nível 3
 > 
 > **A)** $2e$ $\quad$ **B)** $4e$ $\quad$ **C)** $5e$ $\quad$ **D)** $5e^2$ $\quad$ **E)** $(e + 1)^2$
 
-[[src_obm_2012_n3_f1__Q20]]
+[[Quesiti/src_obm_2012_n3_f1#q20|src_obm_2012_n3_f1__Q20]]
 
 
 
@@ -715,7 +715,7 @@ level: OBM Nível 3
 > 
 > **A)** 2 $\quad$ **B)** 4 $\quad$ **C)** 8 $\quad$ **D)** 16 $\quad$ **E)** 32
 
-[[src_obm_2012_n3_f1__Q21]]
+[[Quesiti/src_obm_2012_n3_f1#q21|src_obm_2012_n3_f1__Q21]]
 
 
 
@@ -732,7 +732,7 @@ level: OBM Nível 3
 > 
 > **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$ $\quad$ **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
 
-![[src_obm_2012_n3_f1__Q22.png]]
+![[src_obm_2012_n3_f1__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -752,9 +752,9 @@ level: OBM Nível 3
 > 
 > **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$ $\quad$ **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
 
-![[src_obm_2012_n3_f1__Q22.png]]
+![[src_obm_2012_n3_f1__q22.png]]
 
-[[src_obm_2012_n3_f1__Q22]]
+[[Quesiti/src_obm_2012_n3_f1#q22|src_obm_2012_n3_f1__Q22]]
 
 
 
@@ -785,7 +785,7 @@ level: OBM Nível 3
 > 
 > **A)** 68 $\quad$ **B)** 70 $\quad$ **C)** 71 $\quad$ **D)** 99 $\quad$ **E)** 2011
 
-[[src_obm_2012_n3_f1__Q23]]
+[[Quesiti/src_obm_2012_n3_f1#q23|src_obm_2012_n3_f1__Q23]]
 
 
 
@@ -817,7 +817,7 @@ level: OBM Nível 3
 > 
 > **A) ** 0 $\quad$ **B) ** 1 $\quad$ **C) ** 2 $\quad$ **D) ** 3 $\quad$ **E) ** infinitamente molti
 
-[[src_obm_2012_n3_f1__Q24]]
+[[Quesiti/src_obm_2012_n3_f1#q24|src_obm_2012_n3_f1__Q24]]
 
 
 
@@ -848,4 +848,4 @@ level: OBM Nível 3
 > 
 > **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{99}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{99}$
 
-[[src_obm_2012_n3_f1__Q25]]
+[[Quesiti/src_obm_2012_n3_f1#q25|src_obm_2012_n3_f1__Q25]]

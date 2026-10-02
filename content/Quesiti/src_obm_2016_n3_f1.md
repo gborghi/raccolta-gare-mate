@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > In a $3\times 3$ grid one fills the cells with the letters O, B, M (subject to the rules of the problem). The examples below show that any one of the letters may appear in the highlighted (gray) cell. Which letters can occupy that cell? [Reconstructed from the answer key; the original option list is not reproduced in the source. Answer key indicates: O, B and M.]
 
-![[src_obm_2016_n3_f1__Q01.png]]
+![[src_obm_2016_n3_f1__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -36,10 +36,10 @@ level: OBM Nível 3
 
 > In una griglia $3\times 3$ si riempiono le celle con le lettere O, B, M (soggetto alle regole del problema). Gli esempi di seguito mostrano che una delle lettere può apparire nella cella evidenziata (grigio). Quali lettere possono occupare quella cella? [Ricostruito a partire dalla chiave di risposta; l'elenco originale delle opzioni non è riprodotto nella fonte. Le chiavi di risposta indicano: O, B e M.]
 
-![[src_obm_2016_n3_f1__Q01.png]]
+![[src_obm_2016_n3_f1__q01.png]]
 
 **Risposta:** E
-[[src_obm_2016_n3_f1__Q01]]
+[[Quesiti/src_obm_2016_n3_f1#q01|src_obm_2016_n3_f1__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: OBM Nível 3
 > Josias sta in fila. Lasciate che la sua posizione sia $x$, così $x-1$ persone sono arrivate prima di lui e le persone che sono arrivate dopo di lui numero $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias $x$ nella riga? [Valore della chiave di risposta: $x=404$.]
 
 **Risposta:** A
-[[src_obm_2016_n3_f1__Q02]]
+[[Quesiti/src_obm_2016_n3_f1#q02|src_obm_2016_n3_f1__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: OBM Nível 3
 > $x$ e $y$ siano le dimensioni interi di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le possibili coppie sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Esattamente una di queste coppie ha il prodotto $x\cdot y$ pari a un quadrato perfetto, vale a dire $4\cdot 25=100$. Trova il lato $n$ di un quadrato con la stessa area di quel rettangolo, ovvero $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore della chiave di risposta: $n=10$.]
 
 **Risposta:** C
-[[src_obm_2016_n3_f1__Q03]]
+[[Quesiti/src_obm_2016_n3_f1#q03|src_obm_2016_n3_f1__Q03]]
 
 
 
@@ -125,7 +125,7 @@ Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congrue
 > Lasciate che $A_1A_2\dots A_{2016}$ sia un poligono regolare che forma la base di una piramide, e lasciate che l'apice sia sulla linea perpendicolare alla base attraverso la diagonale $A_1A_{1009}$, così posizionata che la proiezione ortogonale dell'apice sul piano base sia distinta dal centro del poligono. La piramide ha facce laterali congruenti o non triangolari $2016$; si chiede se sia possibile scegliere facce laterali $1008$ congruenti in coppia e non condividendo un bordo comune in coppia. La soluzione dimostra che ci sono al massimo $1008$ classi di facce congruenti, e secondo il principio del buco di piccione la configurazione che costringe la proiezione dell'apice ad essere il circoncentro è assurda, poiché la piramide non è regolare. È possibile una tale scelta di facce laterali congruenti $1008$? [La chiave di risposta indica la conclusione (opzione B).]
 
 **Risposta:** B
-[[src_obm_2016_n3_f1__Q04]]
+[[Quesiti/src_obm_2016_n3_f1#q04|src_obm_2016_n3_f1__Q04]]
 
 
 
@@ -154,7 +154,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Ci sono gente che sta in fila, ognuna di loro fa una dichiarazione. La prima persona dice la verità; la seconda mente; l'analisi mostra che le affermazioni si alternano vero/falso lungo la linea, con $2016$ persone in totale. I veritieri e i bugiardi si alternano. Quante persone mentono? La soluzione conclude che ci sono mentitori $2016/2=1008$. [Valore della chiave di risposta: $1008$.]
 
 **Risposta:** C
-[[src_obm_2016_n3_f1__Q05]]
+[[Quesiti/src_obm_2016_n3_f1#q05|src_obm_2016_n3_f1__Q05]]
 
 
 
@@ -183,7 +183,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Janaina ha un elenco di numeri $10$; lasciamo $x$ e $y$ essere, rispettivamente, quanti sono pari e quanti sono pari, quindi $x+y=10$. Il numero di coppie non ordinate con parità uguale è $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ e il numero di coppie la cui somma è pari è impostato uguale a $4xy$, dando $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (il lato sinistro conta coppie di parità uguale e il lato destro conta coppie dando una somma pari, entrambe aventi la stessa parità). Substituendo $y=10-x$ si ottiene nell'analisi l'equazione $x^2-x+9=0$, le cui soluzioni pertinenti sono $x=1$ o $x=9$; poiché $(x,y)=(9,1)$ soddisfa la condizione $(\ast)$, si cerca il valore massimo di $x+9$. [Il valore della chiave di risposta corrisponde all'opzione E.]
 
 **Risposta:** E
-[[src_obm_2016_n3_f1__Q06]]
+[[Quesiti/src_obm_2016_n3_f1#q06|src_obm_2016_n3_f1__Q06]]
 
 
 
@@ -211,7 +211,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Un costo totale di $6000$ reais deve essere ripartito in modo uguale tra i partecipanti, ognuno pagando $\frac{6000}{x}$ reais. Poi le persone $3$ abbandonano e il resto di ciascuna retribuzione $100$ è maggiore, cioè $\frac{6000}{x-3}$ reais. Quindi $\frac{6000}{x}+100=\frac{6000}{x-3}$, che si semplifica a $60x(x-3)=60\cdot 6000$ dando $x^2-3x-180=0$. Trova il numero originale $x$ di persone. [Il valore della chiave di risposta corrisponde all'opzione B.]
 
 **Risposta:** B
-[[src_obm_2016_n3_f1__Q07]]
+[[Quesiti/src_obm_2016_n3_f1#q07|src_obm_2016_n3_f1__Q07]]
 
 
 
@@ -240,7 +240,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > L'angolo interno di un poligono regolare con lati $n$ è $\frac{180^\circ(n-2)}{n}$. Nella configurazione uno ha $\angle ABL=90^\circ$, $\angle ABI=108^\circ$ e $\angle ABC=135^\circ$ (angoli di un quadrato, un pentagono regolare e un ottagono regolare), quindi $\angle CBI=27^\circ$ e $\angle LBC=360^\circ-90^\circ-135^\circ=135^\circ$. Poiché $LB=BC=BI$, i triangoli $LBC$ e $CBI$ sono uguali a base $LC$ e $CI$, dando $x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ$. Trova $x$. [Valore della chiave di risposta: $x=99^\circ$.]
 
 **Risposta:** D
-[[src_obm_2016_n3_f1__Q08]]
+[[Quesiti/src_obm_2016_n3_f1#q08|src_obm_2016_n3_f1__Q08]]
 
 
 
@@ -269,7 +269,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Considerate le stringhe di perle di due colori B e P, con una relazione di equivalenza tra le stringhe. La stringa $BBBPBPPP$ ha otto perle e nessuna sequenza equivalente. Il problema analizza le stringhe di perle $9$: per casi (esistono o meno tre perle consecutive dello stesso colore), viene dimostrato che qualsiasi sequenza di perle $9$ ha esattamente due sequenze equivalenti, l'unica sequenza che ammette un'estensione mantenendo un singolo equivalente è $BBBPBPPP$. Determinare il numero pertinente per le sequenze di perle $9$. [Il valore della chiave di risposta corrisponde all'opzione D.]
 
 **Risposta:** D
-[[src_obm_2016_n3_f1__Q09]]
+[[Quesiti/src_obm_2016_n3_f1#q09|src_obm_2016_n3_f1__Q09]]
 
 
 
@@ -282,7 +282,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 
 > Points lie on a circle with center $O$. Let $I$ be the intersection of $AD$ and $BF$. Since $FA=AB$ and $AY=AX$, the arcs $FX$ and $BX$ are equal, so $FB\parallel XY$. Then triangles $RSA$ and $XYA$ are similar, and $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, since $\angle ABI=30^\circ$ and $AB=AO=OB$. Hence $SR=1$. Find $SR$. [Answer key value: $SR=1$.]
 
-![[src_obm_2016_n3_f1__Q10.png]]
+![[src_obm_2016_n3_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -299,10 +299,10 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 
 > I punti si trovano su un cerchio con il centro $O$. Il $I$ è l'intersezione di $AD$ e $BF$. Dal momento che $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Quindi i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Di conseguenza $SR=1$. Trova $SR$. [Valore della chiave di risposta: $SR=1$.]
 
-![[src_obm_2016_n3_f1__Q10.png]]
+![[src_obm_2016_n3_f1__q10.png]]
 
 **Risposta:** A
-[[src_obm_2016_n3_f1__Q10]]
+[[Quesiti/src_obm_2016_n3_f1#q10|src_obm_2016_n3_f1__Q10]]
 
 
 
@@ -315,7 +315,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 
 > In the figure $XAYD$ is a square, so $m(\widehat{TAU})=90^\circ$. Also $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ and $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, so $ABDY$ is cyclic. $AB$ is the side of a regular hexagon inscribed in the circle of radius $1$, hence $AB=1$. In right triangle $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, and in right triangle $TAU$, $\frac{AU}{TU}=\cos15^\circ$, so $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, using $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Find $TU$. [Answer key value: $TU=4$.]
 
-![[src_obm_2016_n3_f1__Q11.png]]
+![[src_obm_2016_n3_f1__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -332,10 +332,10 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 
 > Nella figura $XAYD$ è un quadrato, quindi $m(\widehat{TAU})=90^\circ$. Anche $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ e $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, quindi $ABDY$ è ciclico. $AB$ è il lato di un esagono regolare inserito nel cerchio del raggio $1$, quindi $AB=1$. Nel triangolo rettangolo $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, e nel triangolo rettangolo $TAU$, $\frac{AU}{TU}=\cos15^\circ$, quindi $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, utilizzando $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Trova $TU$. [Valore della chiave di risposta: $TU=4$.]
 
-![[src_obm_2016_n3_f1__Q11.png]]
+![[src_obm_2016_n3_f1__q11.png]]
 
 **Risposta:** E
-[[src_obm_2016_n3_f1__Q11]]
+[[Quesiti/src_obm_2016_n3_f1#q11|src_obm_2016_n3_f1__Q11]]
 
 
 
@@ -364,7 +364,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Riscrivere l'equazione data come $\lfloor x\rfloor=\frac{\lfloor x\rfloor-38}{2016}$ (la fonte scrive $\{x\}=\frac{\lfloor x\rfloor-38}{2016}$). Dato che $0\le\{x\}<1$, abbiamo bisogno di $0\le\frac{\lfloor x\rfloor-38}{2016}<1$, cioè $38\le\lfloor x\rfloor\le 2054$, so $1<\lfloor x\rfloor\le\dots\le 2054$. Poiché $\lfloor x\rfloor$ è un numero intero che va oltre $38,\dots,2053$, un totale di valori $2016$, e per ogni valore c'è esattamente un $x$; quindi ci sono $2016$ soluzioni. Quante soluzioni ha l'equazione? [Valore della chiave di risposta: $2016$.]
 
 **Risposta:** D
-[[src_obm_2016_n3_f1__Q12]]
+[[Quesiti/src_obm_2016_n3_f1#q12|src_obm_2016_n3_f1__Q12]]
 
 
 
@@ -393,7 +393,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Si sceglie, il primo giorno, due delle persone $n$ in $\binom{n}{2}$ modi; nei giorni successivi le persone $n-2$ rimanenti possono essere scelte in $(n-2)$ modi ciascuno (soggetto alle restrizioni imposte), e il numero finale di modi per formare i comitati è $(n-2)(n-3)$ (come indicato nella soluzione). Determinare il numero di modi di scegliere i comitati. [Il valore della chiave di risposta corrisponde all'opzione A.]
 
 **Risposta:** A
-[[src_obm_2016_n3_f1__Q13]]
+[[Quesiti/src_obm_2016_n3_f1#q13|src_obm_2016_n3_f1__Q13]]
 
 
 
@@ -422,7 +422,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà $Z=S^3\times I^2$. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere $P$? [Valore della chiave di risposta: $12$.]
 
 **Risposta:** A
-[[src_obm_2016_n3_f1__Q14]]
+[[Quesiti/src_obm_2016_n3_f1#q14|src_obm_2016_n3_f1__Q14]]
 
 
 
@@ -451,7 +451,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 > $p_1=\frac{2}{6}=\frac13$ sia la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Per due dadi (risultati $6^2=36$), i risultati favorevoli sono somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Per tre dadi (risultati $6^3=216$), il conteggio delle somme $15,16,17,18$ dà $20$ risultati favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Di conseguenza $p_3<p_2<p_1$. Ordini $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
 
 **Risposta:** E
-[[src_obm_2016_n3_f1__Q15]]
+[[Quesiti/src_obm_2016_n3_f1#q15|src_obm_2016_n3_f1__Q15]]
 
 
 
@@ -464,7 +464,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 
 > The video-game screen is divided by the perpendicular bisectors of its sides into four equal rectangles $A,B,C,D$. Consider the rectangle $R$ formed by the centers of these four rectangles. The 'video-game distance' between two points is always less than or equal to the usual Euclidean distance on the screen; whatever positions inside the rectangles are chosen, the maximal video-game distance equals the diagonal of $R$, which measures $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Conclude that no video-game distance between two points is greater than $2.5$, and the largest possible video-game distance is $2.5$. What is the largest possible video-game distance? [Answer key value: $2.5$.]
 
-![[src_obm_2016_n3_f1__Q16.png]]
+![[src_obm_2016_n3_f1__q16.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
@@ -481,10 +481,10 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 
 > Lo schermo del videogioco è diviso dai bisettori perpendicolari dei suoi lati in quattro rettangoli uguali $A,B,C,D$. Considerate il rettangolo $R$ formato dai centri di questi quattro rettangoli. La "distanza videogioco" tra due punti è sempre inferiore o uguale alla distanza euclidiana abituale sullo schermo; qualunque sia la posizione all'interno dei rettangoli scelti, la distanza massima videogioco è uguale alla diagonale di $R$, che misura $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Concludere che nessuna distanza di gioco video tra due punti è superiore a $2.5$ e la distanza di gioco video più grande possibile è $2.5$. Qual è la più grande distanza possibile per i videogiochi? [Valore della chiave di risposta: $2.5$.]
 
-![[src_obm_2016_n3_f1__Q16.png]]
+![[src_obm_2016_n3_f1__q16.png]]
 
 **Risposta:** B
-[[src_obm_2016_n3_f1__Q16]]
+[[Quesiti/src_obm_2016_n3_f1#q16|src_obm_2016_n3_f1__Q16]]
 
 
 
@@ -513,7 +513,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Il sistema può essere riscritto come $abc=b^2+c^2=c^2+a^2=a^2+b^2$, con $a,b,c$ non-zero. Questo forza $a^2=b^2=c^2$. Supponendo $a=b=c$ si ottiene $a=b=c=2$, la soluzione $(2,2,2)$. Se $a=b=-c$, allora $a=b=-c=2$, dando $(2,2,-2)$; permutando questo triplo, si ottiene anche $(-2,2,-2)$ e $(2,-2,-2)$, per un totale di soluzioni $4$. Quante soluzioni ha il sistema? [Valore della chiave di risposta: $4$.]
 
 **Risposta:** D
-[[src_obm_2016_n3_f1__Q17]]
+[[Quesiti/src_obm_2016_n3_f1#q17|src_obm_2016_n3_f1__Q17]]
 
 
 
@@ -542,7 +542,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Si noti che ogni mese ha $4$ o $5$ sabati e che $365=7\cdot 52+1$. In un anno bisesuale sono $52$ settimane complete e $1$ giorno extra, mentre in un anno bisesuale sono $52$ settimane e $2$ giorni extra. Se si considera che $x$ sia il numero di anni biscotti, l'analisi utilizza $5x+4(12-x)=52\Rightarrow x=8$ e $5x+4(12-x)=53\Rightarrow x=5$. Il 1° gennaio è stato un sabato in $2016$ (aspettate: la tabella inizia con la setta per il 2016); la tabella della giornata di lavoro del 1° gennaio dice: 2016 setta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 setta, 2022 sabato. L'anno successivo in cui la data è nuovamente sabato è $2022$. In quale anno il prossimo è di nuovo sabato? [Valore della chiave di risposta: $2022$.]
 
 **Risposta:** E
-[[src_obm_2016_n3_f1__Q18]]
+[[Quesiti/src_obm_2016_n3_f1#q18|src_obm_2016_n3_f1__Q18]]
 
 
 
@@ -571,7 +571,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > L'insieme $\{1,2,3,5,29,869\}$ ha la proprietà descritta nella dichiarazione (ha elementi $6$). Una prova che $X$ contiene al massimo $7$ elementi. Supponiamo con contraddizione $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ con $a_1<a_2<\dots$. Uno mostra $\gcd(a_i,a_j)=1$ per $i\neq j$: se un primo $p\mid a_i$ e $p\mid a_j$ con $i<j$ allora $a_i\mid a_j+1$ forza $p\nmid a_j$, una contraddizione. Quindi $a_2$ è un multiple del prodotto $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, quindi $a_2\geq 2309$, assurdo dal momento che $a_2\leq 2016$. Trova il numero massimo di elementi di tale insieme. [Il valore della chiave di risposta corrisponde all'opzione D.]
 
 **Risposta:** D
-[[src_obm_2016_n3_f1__Q19]]
+[[Quesiti/src_obm_2016_n3_f1#q19|src_obm_2016_n3_f1__Q19]]
 
 
 
@@ -600,7 +600,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Considerare un numero fino a quattro cifre $\overline{abcd}$ e nota $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Se $a\geq 1$ il risultato è almeno $1000$, e qualsiasi numero con $5$ o più cifre dà una differenza almeno $1000$. Quindi un numero di "sagaz" deve soddisfare $a=0$, dando $10$ opzioni per $b$ ecc.; l'analisi mostra che il termine più piccolo è $b=c=0$ con il prodotto inferiore a $1000$, e contando attentamente ci sono $99+1=100$ numeri di sagaz inferiori a $1000$. Quanti numeri di sagaz ci sono? [Valore della chiave di risposta: $100$.]
 
 **Risposta:** B
-[[src_obm_2016_n3_f1__Q20]]
+[[Quesiti/src_obm_2016_n3_f1#q20|src_obm_2016_n3_f1__Q20]]
 
 
 
@@ -629,7 +629,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Esistono pile di pietre contenenti $1,2,3,\dots,9$ e $11$ pietre (nessuna pila di $10$), con totale $1+2+3+\dots+9+11=56$. Per che tutte le pile abbiano la stessa quantità $k$, $k$ deve essere un divisore di $56$. Analizzando i divisori, le possibilità sono $14,28$ o $56$ pietre per pile. Ogni fusione di pile è un'operazione; per creare pile di $28$ occorrono più operazioni, e per ottenere pile $4$ di $14$ occorrono operazioni $6$, realizzate esplicitamente come $(11+3),(9+5),(8+6),(7+4+2+1)$. Qual è il numero minimo di operazioni? [Il valore della chiave di risposta corrisponde all'opzione D.]
 
 **Risposta:** D
-[[src_obm_2016_n3_f1__Q21]]
+[[Quesiti/src_obm_2016_n3_f1#q21|src_obm_2016_n3_f1__Q21]]
 
 
 
@@ -642,7 +642,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 
 > In a square of side $6$ one has $DM=MC=CE=3$. The triangles $CEH$ and $DEA$ are similar, so $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Hence $CH=6/3=2$ and $HB=CB-CH=4$. The area of quadrilateral $CHAM$ is $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. By the Pythagorean theorem in triangle $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Therefore $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Find the ratio $\frac{[CHAM]}{[AEFG]}$. [Answer key value: $\frac{5}{39}$.]
 
-![[src_obm_2016_n3_f1__Q22.png]]
+![[src_obm_2016_n3_f1__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -659,10 +659,10 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 
 > In un quadrato di lato $6$ si ha $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Di conseguenza $CH=6/3=2$ e $HB=CB-CH=4$. L'area del quadrilaterale $CHAM$ è $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. Per il teorema di Pitagore nel triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Pertanto $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Trova il rapporto $\frac{[CHAM]}{[AEFG]}$. [Valore della chiave di risposta: $\frac{5}{39}$.]
 
-![[src_obm_2016_n3_f1__Q22.png]]
+![[src_obm_2016_n3_f1__q22.png]]
 
 **Risposta:** A
-[[src_obm_2016_n3_f1__Q22]]
+[[Quesiti/src_obm_2016_n3_f1#q22|src_obm_2016_n3_f1__Q22]]
 
 
 
@@ -691,7 +691,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Considera la funzione $f$ in modo tale che se $n=p_1^{a_1}\cdots p_k^{a_k}$ è la fattorizzazione primaria di $n$, allora $f(n)=a_1+\dots+a_k$, con la convenzione utilizzata nella prova. La funzione soddisfa: per $m>n$ con $m$ un multiple di $n$, $f(m)>f(n)$. Per induzione, se $\frac{n}{p}$ ha $t$ fattori primari $f(\frac{n}{p})\geq t$ e $f(n)>f(\frac{n}{p})\geq t$, quindi $f(n)\geq t+1$. Con questo calcolo $f(2016)=f(2^5\cdot 3^2\cdot 7)=5+2+1+1=9$. Determinare il valore richiesto (es. $f(2016)$ o il limite correlato). [Valore della chiave di risposta: $9$.]
 
 **Risposta:** C
-[[src_obm_2016_n3_f1__Q23]]
+[[Quesiti/src_obm_2016_n3_f1#q23|src_obm_2016_n3_f1__Q23]]
 
 
 
@@ -720,7 +720,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 > Considerare $2016$ integri positivi con $n=p_1^{a_1}\cdots p_k^{a_k}$ (il quadro di fattorizzazione). Una costruzione con i numeri $2006$ uguali a $1$ e dieci numeri uguali a $2$ dà la somma $2006+10\cdot 2=2026$ e il prodotto $2^{10}=1024$, quindi la somma supera il prodotto. Si prova che ci devono essere almeno $2006$ numeri uguali a $1$: ordinando $x_1\le x_2\le\dots\le x_{2016}$, se meno di $2006$ erano uguali a $1$ si ottiene $k+(2016-k)x_{2016}\ge 2^{2016-k}x_{2016}$, portando a $2^{2015-k}+k-2016>0$ e poi $2^{2016-k}+k\le 4032$; per $k\le 2004$, $2^{2016-k}\ge 2^{12}=4096$ è assurdo, e per $k=2005$, $2^{11}=2048$ dà anche una contraddizione ($4043\le 4032$ falso). Quindi ci sono almeno $2006$ numeri uguali a $1$. Determina la risposta. [Il valore della chiave di risposta corrisponde all'opzione C.]
 
 **Risposta:** C
-[[src_obm_2016_n3_f1__Q24]]
+[[Quesiti/src_obm_2016_n3_f1#q24|src_obm_2016_n3_f1__Q24]]
 
 
 
@@ -733,7 +733,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 
 > $O$ is the circumcenter of triangle $ABD$, with a right angle marked at $B$ and a $60^\circ$ angle at $C$ (figure). Since $O$ is the circumcenter of triangle $ABD$, $m(\widehat{BOD})=120^\circ$, so quadrilateral $BCDO$ is cyclic. Then $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ and $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. In right triangle $DOC$, the required ratio is $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Find $\frac{CO}{CD}$. [Answer key value: $\frac{\sqrt3}{2}$.]
 
-![[src_obm_2016_n3_f1__Q25.png]]
+![[src_obm_2016_n3_f1__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -750,7 +750,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 
 > $O$ è il centro circundante del triangolo $ABD$, con un angolo retto segnato a $B$ e un angolo $60^\circ$ a $C$ (figura). Dal momento che $O$ è il circoncentro del triangolo $ABD$, $m(\widehat{BOD})=120^\circ$, quindi il quadrilaterale $BCDO$ è ciclico. Poi $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ e $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. Nel triangolo rettangolo $DOC$, il rapporto richiesto è $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Trova $\frac{CO}{CD}$. [Valore della chiave di risposta: $\frac{\sqrt3}{2}$.]
 
-![[src_obm_2016_n3_f1__Q25.png]]
+![[src_obm_2016_n3_f1__q25.png]]
 
 **Risposta:** E
-[[src_obm_2016_n3_f1__Q25]]
+[[Quesiti/src_obm_2016_n3_f1#q25|src_obm_2016_n3_f1__Q25]]

@@ -38,7 +38,7 @@ level: OBM Nível Universitário
 > 
 > **b) ** Dimostra che per ogni intero positivo $k$, se $x = \dfrac{2\pi r}{2^k - 1}$ con $r \in \mathbb{Z}$, allora $$\prod_{j=0}^{k-1} |\sin(2^j x)| = |\sin(x) \cdot \sin(2x) \cdots \sin(2^{k-1} x)| \le \left(\frac{\sqrt{3}}{2}\right)^k.$$
 
-[[src_obm_2012_nu_f1__Q01]]
+[[Quesiti/src_obm_2012_nu_f1#q01|src_obm_2012_nu_f1__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: OBM Nível Universitário
 > 
 > **b) ** $V(y)$ deve essere definito da $V(y) = x$ se e solo se $f(x) = y$. Dato $0 < a < b < c$, numeri reali, si considera l'equazione $a^b + b^a = c^c$. Esprimere $x$ in termini di $a$, $b$ e $c$ usando funzioni elementari e $V$.
 
-[[src_obm_2012_nu_f1__Q02]]
+[[Quesiti/src_obm_2012_nu_f1#q02|src_obm_2012_nu_f1__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: OBM Nível Universitário
 
 > Lasciate che $f(x)$ e $g(x) \in \mathbb{R}[x]$ siano polinomi non costanti e $m$, $n$ interi positivi. Indicare che $y^n - f(x)$ divide $y^n - g(x)$ in $\mathbb{R}[x, y]$ se e solo se $m$ divide $n$ e $g(x) = f(x)^{n/m}$.
 
-[[src_obm_2012_nu_f1__Q03]]
+[[Quesiti/src_obm_2012_nu_f1#q03|src_obm_2012_nu_f1__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível Universitário
 
 > Le sequenze $(x_n)$ e $(y_n)$ siano due sequenze definite da $x_1 = 2$, $y_1 = 2012$, $x_{n+1} = (x_n)!$ e $y_{n+1} = (y_n)!$ per tutte le $n \ge 1$. Determinare il numero intero positivo più piccolo $k$ tale che $x_k > y_{2012}$.
 
-[[src_obm_2012_nu_f1__Q04]]
+[[Quesiti/src_obm_2012_nu_f1#q04|src_obm_2012_nu_f1__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível Universitário
 
 > In questo caso, si deve indicare il valore di $M_1 = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}$, $M_2 = \begin{pmatrix} 2 & 1 \\ 0 & 2 \end{pmatrix}$, $M_3 = \begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$. Per ciascuna delle matrici $M_i$ ($i = 1, 2, 3$), determinare quante matrici $A$ esistono in modo tale che $A^4 = M_i$.
 
-[[src_obm_2012_nu_f1__Q05]]
+[[Quesiti/src_obm_2012_nu_f1#q05|src_obm_2012_nu_f1__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: OBM Nível Universitário
 
 > Considera la parabola formata dai punti $(x, x^2)$, $x \in \mathbb{R}$ e la sequenza $(x_n)_{n \ge 0}$ data da $x_n = n^\alpha$, dove $\alpha > 0$ è una costante reale fissa. Si consideri la regione formata dai punti che si trovano a destra dell'asse verticale ($x = 0$), sotto la parabola e sopra le linee tangenti alla parabola nei punti $(x_n, x_n^2)$, $n \ge 0$. Per quali valori di $\alpha$ questa regione ha una superficie infinita?
 
-[[src_obm_2012_nu_f1__Q06]]
+[[Quesiti/src_obm_2012_nu_f1#q06|src_obm_2012_nu_f1__Q06]]

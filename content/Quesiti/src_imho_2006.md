@@ -35,7 +35,7 @@ level: IMO
 
 > Let $ABC$ be a triangle with incentre $I$. A point $P$ in the interior of the triangle satisfies $$\angle PBA + \angle PCA = \angle PBC + \angle PCB.$$ Show that $AP \ge AI$, and that equality holds if and only if $P = I$.
 
-[[src_imho_2006__Q01]]
+[[Quesiti/src_imho_2006#q01|src_imho_2006__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: IMO
 > 
 > Suppose $P$ has been dissected into triangles by 2003 diagonals, no two of which have a common point in the interior of $P$. Find the maximum number of isosceles triangles having two good sides that could appear in such a configuration.
 
-[[src_imho_2006__Q02]]
+[[Quesiti/src_imho_2006#q02|src_imho_2006__Q02]]
 
 
 
@@ -95,7 +95,7 @@ Find the least real M for an algebraic inequality in a, b, c
 
 > Determine the least real number $M$ such that the inequality $$\left|ab(a^2 - b^2) + bc(b^2 - c^2) + ca(c^2 - a^2)\right| \le M(a^2 + b^2 + c^2)^2$$ holds for all real numbers $a$, $b$ and $c$.
 
-[[src_imho_2006__Q03]]
+[[Quesiti/src_imho_2006#q03|src_imho_2006__Q03]]
 
 
 
@@ -123,7 +123,7 @@ Find the integer pairs satisfying an exponential Diophantine equation
 
 > Determine to pairs $(x, y)$ of integers such that $$1 + 2^x + 2^{2x+1} = y^2.$$
 
-[[src_imho_2006__Q04]]
+[[Quesiti/src_imho_2006#q04|src_imho_2006__Q04]]
 
 
 
@@ -150,7 +150,7 @@ Find the integer pairs satisfying an exponential Diophantine equation
 
 > Let $P(x)$ be a polynomial of degree $n > 1$ with integer coefficients and let $k$ be a positive integer. Consider the polynomial $Q(x) = P(P(\ldots P(P(x)) \ldots))$, where $P$ occurs $k$ times. Prove that there are at most $n$ integers $t$ such that $Q(t) = t$.
 
-[[src_imho_2006__Q05]]
+[[Quesiti/src_imho_2006#q05|src_imho_2006__Q05]]
 
 
 
@@ -177,4 +177,4 @@ Find the integer pairs satisfying an exponential Diophantine equation
 
 > Assign to each side $b$ of a convex polygon $P$ the maximum area of a triangle that has $b$ as a side and is contained in $P$. Show that the sum of the areas assigned to the sides of $P$ is at least twice the area of $P$.
 
-[[src_imho_2006__Q06]]
+[[Quesiti/src_imho_2006#q06|src_imho_2006__Q06]]

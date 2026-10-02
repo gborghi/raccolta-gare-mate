@@ -22,7 +22,7 @@ level: OBM Nível 1
 > a) Show that the highlighted quadrilateral is a square.
 > b) Calculate the area of the highlighted square.
 
-![[src_obm_2008_n1_f3__Q01.png]]
+![[src_obm_2008_n1_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,9 +40,9 @@ level: OBM Nível 1
 > 
 > a) Indicare che il quadrilatero evidenziato è quadrato. b) Calcolare l'area del quadrato sottolineato.
 
-![[src_obm_2008_n1_f3__Q01.png]]
+![[src_obm_2008_n1_f3__q01.png]]
 
-[[src_obm_2008_n1_f3__Q01]]
+[[Quesiti/src_obm_2008_n1_f3#q01|src_obm_2008_n1_f3__Q01]]
 
 
 
@@ -79,7 +79,7 @@ level: OBM Nível 1
 > 
 > a) Scrivi la sequenza dei numeri quando il primo numero è 2008. b) dimostrare che, indipendentemente dal numero iniziale, dopo un numero finito di applicazioni dell'operazione di Esmeralda, essa ottiene 0.
 
-[[src_obm_2008_n1_f3__Q02]]
+[[Quesiti/src_obm_2008_n1_f3#q02|src_obm_2008_n1_f3__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: OBM Nível 1
 > a) Determine in how many ways Jade can make a covering for $n = 1, 2, 3, 4, 5, 6, 7$.
 > b) In how many ways can Jade cover the board for $n = 15$?
 
-![[src_obm_2008_n1_f3__Q03.png]]
+![[src_obm_2008_n1_f3__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -117,9 +117,9 @@ level: OBM Nível 1
 > 
 > a) Determinare in quanti modi il giardo può produrre un rivestimento per $n = 1, 2, 3, 4, 5, 6, 7$. b) In quanti modi il giardo può coprire la lavagna per $n = 15$?
 
-![[src_obm_2008_n1_f3__Q03.png]]
+![[src_obm_2008_n1_f3__q03.png]]
 
-[[src_obm_2008_n1_f3__Q03]]
+[[Quesiti/src_obm_2008_n1_f3#q03|src_obm_2008_n1_f3__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: OBM Nível 1
 > 
 > b) Let $ABCDE$ be a pentagon with all sides equal and such that the measure of the interior angle at vertices $A$ and $B$ is $m(\hat{A}) = 100^\circ$ and $m(\hat{B}) = 80^\circ$. Show that it is possible to tile the plane with copies of this pentagon, without overlaps.
 
-![[src_obm_2008_n1_f3__Q04.png]]
+![[src_obm_2008_n1_f3__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -172,9 +172,9 @@ level: OBM Nível 1
 > 
 > b) Il $ABCDE$ deve essere un pentagono con tutti i lati uguali e tale che la misura dell'angolo interno alle vertici $A$ e $B$ sia $m(\hat{A}) = 100^\circ$ e $m(\hat{B}) = 80^\circ$. Mostrare che è possibile tessere il piano con copie di questo pentagono, senza sovrapposizioni.
 
-![[src_obm_2008_n1_f3__Q04.png]]
+![[src_obm_2008_n1_f3__q04.png]]
 
-[[src_obm_2008_n1_f3__Q04]]
+[[Quesiti/src_obm_2008_n1_f3#q04|src_obm_2008_n1_f3__Q04]]
 
 
 
@@ -206,4 +206,4 @@ level: OBM Nível 1
 > 
 > a) Mostrare che il 17 e' un'imbarazzo. b) Mostrare che ogni numero intero positivo è un'imbarazzo.
 
-[[src_obm_2008_n1_f3__Q05]]
+[[Quesiti/src_obm_2008_n1_f3#q05|src_obm_2008_n1_f3__Q05]]

@@ -45,7 +45,7 @@ level: OBM Nível 3
 > 
 > La partita finisce quando non si può fare nessuna mossa. Mostrare che il numero di pile con esattamente una pietra alla fine del gioco è sempre lo stesso, indipendentemente dal modo in cui le mosse sono fatte.
 
-[[src_obm_2022_n3_fx__Q01]]
+[[Quesiti/src_obm_2022_n3_fx#q01|src_obm_2022_n3_fx__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 3
 
 > $ABC$ sia un triangolo acuto con $AB < AC$. Il punto $K$ deve essere il punto medio dell'arco $BC$ del cerchio circoscritto di $ABC$ che non contiene $A$ e il punto medio del lato $BC$ deve essere $P$. I punti $I_B$ e $I_C$ sono gli eccentri relativi ai vertici $B$ e $C$, rispettivamente. Il $Q$ deve essere il riflesso di $K$ attraverso il punto $A$. Indicare che $P$, $Q$, $I_B$ e $I_C$ si trovano sullo stesso cerchio.
 
-[[src_obm_2022_n3_fx__Q02]]
+[[Quesiti/src_obm_2022_n3_fx#q02|src_obm_2022_n3_fx__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: OBM Nível 3
 > 
 > Una sequenza è chiamata $M$-auto-referenziale se esistono interi positivi $k$ e $\ell$ in modo tale che $a_{n+k} = \Delta^M a_n$ per ogni intero non negativo $n$. Determinare, con la prova, se esiste una sequenza tale che il valore più piccolo di $M$ per la quale la sequenza è $M$-auto-referenziale è $2022$.
 
-[[src_obm_2022_n3_fx__Q03]]
+[[Quesiti/src_obm_2022_n3_fx#q03|src_obm_2022_n3_fx__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: OBM Nível 3
 
 > Inizialmente sulla lavagna viene scritto un numero. Quindi, ogni minuto, Esmeralda sceglie un divisore $d > 1$ del numero $n$ scritto sulla lavagna, cancella $n$ e scrive $n + d$. Se il numero iniziale è $2022$, qual è il numero composto più grande che Esmeralda non può mai scrivere sulla lavagna?
 
-[[src_obm_2022_n3_fx__Q04]]
+[[Quesiti/src_obm_2022_n3_fx#q04|src_obm_2022_n3_fx__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 3
 
 > $n$ sia un numero intero positivo. Definire $S(n)$ come il numero intero positivo più piccolo in modo che $S(n)$ e $n$ abbiano la stessa parità e non esistano **** interi positivi $k, x_1, x_2, \ldots, x_k$ in modo che $x_1 + x_2 + \cdots + x_k = n$ e $x_1^2 + x_2^2 + \cdots + x_k^2 = S(n)$. Prova che esiste una costante reale $c > 0$ e un intero positivo $n_0$ tale che $S(n) \ge cn^{3/2}$ per ogni $n \ge n_0$.
 
-[[src_obm_2022_n3_fx__Q05]]
+[[Quesiti/src_obm_2022_n3_fx#q05|src_obm_2022_n3_fx__Q05]]
 
 
 
@@ -184,4 +184,4 @@ level: OBM Nível 3
 
 > Alcune celle di una tabella $10 \times 10$ sono dipinte in rosso. Un insieme di sei celle è chiamato **special** se le sei celle sono l'intersezione di tre righe e due colonne, o due righe e tre colonne, e tutte e sei sono dipinte di rosso. Trova il valore più grande di $n$ per il quale è possibile dipingere le celle $n$ della tabella rossa in modo che non venga visualizzato alcun insieme speciale.
 
-[[src_obm_2022_n3_fx__Q06]]
+[[Quesiti/src_obm_2022_n3_fx#q06|src_obm_2022_n3_fx__Q06]]

@@ -39,7 +39,7 @@ level: China National Team Selection Test
 > (Posizionato da Zhang Sihui)
 
 **Risposta:** $(n-1)^n$
-[[src_cn_ctst_2013__Q01]]
+[[Quesiti/src_cn_ctst_2013#q01|src_cn_ctst_2013__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: China National Team Selection Test
 > Supponiamo che ci siano 101 persone sedute attorno a un tavolo rotondo. Ogni persona possiede $k$ pezzi di carte, $k = 1, 2, \ldots, 101$. Chiamiamo transizione quando una persona trasmette una delle sue carte a una delle persone adiacenti. Trova il numero positivo minimo $r$ in modo tale che non ci sia modo di effettuare più di $r$ transizioni in modo che ogni persona posseda 51 carte. (Posizionato da Qu Zhenhua)
 
 **Risposta:** 42925
-[[src_cn_ctst_2013__Q02]]
+[[Quesiti/src_cn_ctst_2013#q02|src_cn_ctst_2013__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: China National Team Selection Test
 
 > Lasciate che $p$ sia un primo, $a$ e $b$ siano interi positivi che soddisfano $p^{2^a - 1} < 2p^b$. Prove che per ogni intero non negativo $k$ esiste un intero positivo $n < p^{a+b}$ tale che $n \equiv k \pmod{p^a}$ e $\binom{n}{k} \equiv k \pmod{p^b}$. (Possibile da Yu Hongbing)
 
-[[src_cn_ctst_2013__Q04]]
+[[Quesiti/src_cn_ctst_2013#q04|src_cn_ctst_2013__Q04]]
 
 
 
@@ -124,4 +124,4 @@ level: China National Team Selection Test
 
 > Lasciate che $n \ge 2$ e $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ siano integri non negativi. Prove che $$\left(\frac{n}{n-1}\right)^{n-1}\left(\frac{1}{n}\sum_{i=1}^{n} a_i^2\right) + \left(\frac{1}{n}\sum_{i=1}^{n} b_i\right)^2 \ge \prod_{i=1}^{n}(a_i^2 + b_i^2)^{\frac{1}{n}}.$$ (posato da Leng Gangsong)
 
-[[src_cn_ctst_2013__Q05]]
+[[Quesiti/src_cn_ctst_2013#q05|src_cn_ctst_2013__Q05]]

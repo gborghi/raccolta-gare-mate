@@ -48,7 +48,7 @@ level: kangourou
 > In the image on the left, the dial of a clock is outlined. In the one on the right, the dial is covered by a concentric opaque disc, of the same radius, which has two circular windows. If the opaque disk is rotated so that in one of the two windows the number 10 appears, what numbers can appear in the second window? A) 2 e 6 B) 3 e 7 C) 3 e 6 D) 1 e 9 E) 2 e 7
 
 **Answer:** A
-[[src_kangourou_2023_junior__Q01]]
+[[Quesiti/src_kangourou_2023_junior#q01|src_kangourou_2023_junior__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: kangourou
 > Today is Thursday. What day will it be in 2023 days? A) Tuesday. (b) Wednesday. (c) Thursday. D) Friday. E) Saturday.
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q02]]
+[[Quesiti/src_kangourou_2023_junior#q02|src_kangourou_2023_junior__Q02]]
 
 
 
@@ -134,7 +134,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q03]]
+[[Quesiti/src_kangourou_2023_junior#q03|src_kangourou_2023_junior__Q03]]
 
 
 
@@ -182,7 +182,7 @@ level: kangourou
 > E) 99
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q04]]
+[[Quesiti/src_kangourou_2023_junior#q04|src_kangourou_2023_junior__Q04]]
 
 
 
@@ -248,7 +248,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q05]]
+[[Quesiti/src_kangourou_2023_junior#q05|src_kangourou_2023_junior__Q05]]
 
 
 
@@ -296,7 +296,7 @@ level: kangourou
 > E) 10
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q06]]
+[[Quesiti/src_kangourou_2023_junior#q06|src_kangourou_2023_junior__Q06]]
 
 
 
@@ -343,7 +343,7 @@ That's what I'm talking about.
 > E) 52
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q07]]
+[[Quesiti/src_kangourou_2023_junior#q07|src_kangourou_2023_junior__Q07]]
 
 
 
@@ -435,7 +435,7 @@ That's what I'm talking about.
 > E) 22
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q08]]
+[[Quesiti/src_kangourou_2023_junior#q08|src_kangourou_2023_junior__Q08]]
 
 
 
@@ -481,7 +481,7 @@ That's what I'm talking about.
 > E) 4
 
 **Answer:** E
-[[src_kangourou_2023_junior__Q09]]
+[[Quesiti/src_kangourou_2023_junior#q09|src_kangourou_2023_junior__Q09]]
 
 
 
@@ -528,7 +528,7 @@ That's what I'm talking about.
 > E) 102 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q10]]
+[[Quesiti/src_kangourou_2023_junior#q10|src_kangourou_2023_junior__Q10]]
 
 
 
@@ -575,7 +575,7 @@ That's what I'm talking about.
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q11]]
+[[Quesiti/src_kangourou_2023_junior#q11|src_kangourou_2023_junior__Q11]]
 
 
 
@@ -613,7 +613,7 @@ That's what I'm talking about.
 > C) 5/8 D) 5/12 E) 7/16
 
 **Answer:** E
-[[src_kangourou_2023_junior__Q12]]
+[[Quesiti/src_kangourou_2023_junior#q12|src_kangourou_2023_junior__Q12]]
 
 
 
@@ -669,7 +669,7 @@ That's what I'm talking about.
 >
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q13]]
+[[Quesiti/src_kangourou_2023_junior#q13|src_kangourou_2023_junior__Q13]]
 
 
 
@@ -716,7 +716,7 @@ That's what I'm talking about.
 > E) 48
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q14]]
+[[Quesiti/src_kangourou_2023_junior#q14|src_kangourou_2023_junior__Q14]]
 
 
 
@@ -763,7 +763,7 @@ That's what I'm talking about.
 > C) 3/2 D) 4/3 E) 5/2
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q15]]
+[[Quesiti/src_kangourou_2023_junior#q15|src_kangourou_2023_junior__Q15]]
 
 
 
@@ -802,7 +802,7 @@ That's what I'm talking about.
 > One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. How many black steps did you put your right foot on? (A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q16]]
+[[Quesiti/src_kangourou_2023_junior#q16|src_kangourou_2023_junior__Q16]]
 
 
 
@@ -851,7 +851,7 @@ That's what I'm talking about.
 > E)13
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q17]]
+[[Quesiti/src_kangourou_2023_junior#q17|src_kangourou_2023_junior__Q17]]
 
 
 
@@ -893,7 +893,7 @@ That's what I'm talking about.
 > The figure shows a large square divided into 9 identical squares containing three circles. The side of the square is about 30 cm; the radii of the three circles are 4 cm (circle up to left), 3 cm (circle up to right), 5 cm (circle down to right). How many square centimetres is the area of the shaded part of the large square? A) 400 B) 500 C) 400 + 50π D) 500 – 25π E) 500 + 25π
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q18]]
+[[Quesiti/src_kangourou_2023_junior#q18|src_kangourou_2023_junior__Q18]]
 
 
 
@@ -942,7 +942,7 @@ That's what I'm talking about.
 >
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q19]]
+[[Quesiti/src_kangourou_2023_junior#q19|src_kangourou_2023_junior__Q19]]
 
 
 
@@ -1000,7 +1000,7 @@ That's what I'm talking about.
 > E) 0 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2023_junior__Q20]]
+[[Quesiti/src_kangourou_2023_junior#q20|src_kangourou_2023_junior__Q20]]
 
 
 
@@ -1048,7 +1048,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q21]]
+[[Quesiti/src_kangourou_2023_junior#q21|src_kangourou_2023_junior__Q21]]
 
 
 
@@ -1098,7 +1098,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 5 + 2√3
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q22]]
+[[Quesiti/src_kangourou_2023_junior#q22|src_kangourou_2023_junior__Q22]]
 
 
 
@@ -1193,7 +1193,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 8
 
 **Answer:** A
-[[src_kangourou_2023_junior__Q23]]
+[[Quesiti/src_kangourou_2023_junior#q23|src_kangourou_2023_junior__Q23]]
 
 
 
@@ -1254,7 +1254,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q24]]
+[[Quesiti/src_kangourou_2023_junior#q24|src_kangourou_2023_junior__Q24]]
 
 
 
@@ -1305,7 +1305,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 18
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q25]]
+[[Quesiti/src_kangourou_2023_junior#q25|src_kangourou_2023_junior__Q25]]
 
 
 
@@ -1355,7 +1355,7 @@ This appropriation is intended to cover expenditure relating to:
 > E)
 
 **Answer:** C
-[[src_kangourou_2023_junior__Q26]]
+[[Quesiti/src_kangourou_2023_junior#q26|src_kangourou_2023_junior__Q26]]
 
 
 
@@ -1403,7 +1403,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 30
 
 **Answer:** D
-[[src_kangourou_2023_junior__Q27]]
+[[Quesiti/src_kangourou_2023_junior#q27|src_kangourou_2023_junior__Q27]]
 
 
 
@@ -1450,7 +1450,7 @@ This appropriation is intended to cover expenditure relating to:
 > D) 8 E) A number different from the previous one
 
 **Answer:** E
-[[src_kangourou_2023_junior__Q28]]
+[[Quesiti/src_kangourou_2023_junior#q28|src_kangourou_2023_junior__Q28]]
 
 
 
@@ -1502,7 +1502,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 34
 
 **Answer:** B
-[[src_kangourou_2023_junior__Q29]]
+[[Quesiti/src_kangourou_2023_junior#q29|src_kangourou_2023_junior__Q29]]
 
 
 
@@ -1558,4 +1558,4 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** A
-[[src_kangourou_2023_junior__Q30]]
+[[Quesiti/src_kangourou_2023_junior#q30|src_kangourou_2023_junior__Q30]]

@@ -35,7 +35,7 @@ level: China Girls' Mathematical Olympiad
 
 > Mostrare che ci sono solo infinitamente molti triples $(a, b, c)$ di numeri interi positivi che soddisfano l'equazione $abc = 2009(a + b + c)$. (Posato da Ieng Tak Leong)
 
-[[src_cn_cgmo_2009__Q01]]
+[[Quesiti/src_cn_cgmo_2009#q01|src_cn_cgmo_2009__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Girls' Mathematical Olympiad
 
 > A right triangle $ABC$, with $\angle BAC = 90^\circ$, is inscribed in the circle $\Gamma$. The point $E$ lies in the interior of the arc $\overarc{BC}$ (not containing $A$), with $EA > EC$. The point $F$ lies on the ray $EC$ with $\angle EAC = \angle CAF$. The segment $BF$ meets $\Gamma$ again at $D$ (other than $B$). Let $O$ denote the circumcenter of the triangle $DEF$. Prove that the points $A$, $C$, $O$ are collinear. (Posed by Bian Hongping)
 
-![[src_cn_cgmo_2009__Q02.png]]
+![[src_cn_cgmo_2009__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -66,9 +66,9 @@ level: China Girls' Mathematical Olympiad
 
 > Un triangolo rettangolo $ABC$, con $\angle BAC = 90^\circ$, è inserito nel cerchio $\Gamma$. Il punto $E$ si trova all'interno dell'arco $\overarc{BC}$ (non contenente $A$), con $EA > EC$. Il punto $F$ si trova sul raggio $EC$ con $\angle EAC = \angle CAF$. Il segmento $BF$ incontra di nuovo $\Gamma$ a $D$ (diverso da $B$). $O$ indichi il centro circondario del triangolo $DEF$. Provare che i punti $A$, $C$, $O$ sono collineari. (Possibile da Bian Hongping)
 
-![[src_cn_cgmo_2009__Q02.png]]
+![[src_cn_cgmo_2009__q02.png]]
 
-[[src_cn_cgmo_2009__Q02]]
+[[Quesiti/src_cn_cgmo_2009#q02|src_cn_cgmo_2009__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: China Girls' Mathematical Olympiad
 
 > $n$ sia un dato intero positivo. Nel piano delle coordinate, considera l'insieme dei punti $$\{P_0, P_1, \ldots, P_n\} = \{(x, y) \mid x \text{ and } y \text{ are integers with } xy = 0, |x| \le n, |y| \le n\}.$$ Determina il valore minimo di $$(P_0 P_1)^2 + (P_1 P_2)^2 + \cdots + (P_{n-1} P_n)^2 + (P_n P_0)^2.$$ (Posizionato da Wang Xinmiao)
 
-[[src_cn_cgmo_2009__Q03]]
+[[Quesiti/src_cn_cgmo_2009#q03|src_cn_cgmo_2009__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: China Girls' Mathematical Olympiad
 > $n$ sia un numero intero superiore a 3. I punti $V_1, V_2, \ldots, V_n$, senza tre collineari, si trovano sul piano. Alcuni segmenti $V_i V_j$ con $1 \le i < j \le n$ sono costruiti. I punti $V_i$ e $V_j$ sono vicini se $V_i V_j$ è costruito. Inizialmente, i pezzi d' scacchi $C_1, C_2, \ldots, C_n$ sono posizionati nei punti $V_1, V_2, \ldots, V_n$ (non necessariamente in tale ordine), con esattamente un pezzo ad ogni punto. In una mossa, si possono scegliere alcuni dei pezzi di scacchi e trasferire simultaneamente ciascuno di essi in una delle sue posizioni vicine in modo tale che dopo la mossa, esattamente un pezzo di scacchi è in ogni punto e nessuna due pezzi di scacchi hanno scambiato le loro posizioni. Un insieme di segmenti costruiti è chiamato armonico se per qualsiasi posizione iniziale dei pezzi d' scacchi ogni pezzo d' scacchi $C_i$ $(1 \le i \le n)$ si trova al punto $V_i$ dopo un numero finito di mosse. Determinare il numero minimo di segmenti in un insieme armonico. (Posato da Fu Yunhao)
 
 **Risposta:** The answer is $n - 1$.
-[[src_cn_cgmo_2009__Q04]]
+[[Quesiti/src_cn_cgmo_2009#q04|src_cn_cgmo_2009__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: China Girls' Mathematical Olympiad
 
 > I numeri $x$, $y$, $z$ siano numeri reali superiori o uguali a $1$. Prove che $$(x^2 - 2x + 2)(y^2 - 2y + 2)(z^2 - 2z + 2) \le (xyz)^2 - 2xyz + 2.$$ (Posato da Xiong Bin)
 
-[[src_cn_cgmo_2009__Q05]]
+[[Quesiti/src_cn_cgmo_2009#q05|src_cn_cgmo_2009__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: China Girls' Mathematical Olympiad
 
 > The circle $\Gamma_1$, with radius $r_1$, is internally tangent to the circle $\Gamma_2$ at $S$. The chord $AB$ of $\Gamma_2$ is tangent to $\Gamma_1$ at $C$. Let $M$ be the midpoint of the arc $\overarc{AB}$ (not containing $S$), and let $N$ be the foot of the perpendicular from $M$ to the line $AB$. Prove that $AC \cdot CB = 2 r_1 \cdot MN$. (Posed by Ye Zhonghao)
 
-![[src_cn_cgmo_2009__Q06.png]]
+![[src_cn_cgmo_2009__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -194,9 +194,9 @@ level: China Girls' Mathematical Olympiad
 
 > Il cerchio $\Gamma_1$, con raggio $r_1$, è tangente internamente al cerchio $\Gamma_2$ a $S$. L'accordo $AB$ di $\Gamma_2$ è tangente a $\Gamma_1$ a $C$. Il $M$ deve essere il punto medio dell'arco $\overarc{AB}$ (non contenente $S$), e il $N$ deve essere il piede della perpendicolare da $M$ alla linea $AB$. Prove che $AC \cdot CB = 2 r_1 \cdot MN$. (Posato da Ye Zhonghao)
 
-![[src_cn_cgmo_2009__Q06.png]]
+![[src_cn_cgmo_2009__q06.png]]
 
-[[src_cn_cgmo_2009__Q06]]
+[[Quesiti/src_cn_cgmo_2009#q06|src_cn_cgmo_2009__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: China Girls' Mathematical Olympiad
 
 > On a $10 \times 10$ chessboard, some $4n$ unit square fields are chosen to form a region $R$. This region $R$ can be tiled by $n$ $1 \times 4$ pieces and also by $n$ $2 \times 2$ pieces. If $R$ can also be tiled by a combination of $n$ pieces of the following types of shapes (with rotations allowed), determine the minimum value of $n$. (Posed by Zhu Huawei)
 
-![[src_cn_cgmo_2009__Q07.png]]
+![[src_cn_cgmo_2009__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -228,10 +228,10 @@ level: China Girls' Mathematical Olympiad
 
 > Su una scacchiera $10 \times 10$, alcuni campi quadrati unitari $4n$ vengono scelti per formare una regione $R$. Questa regione $R$ può essere contrassegnata da $n$ $1 \times 4$ pezzi e anche da $n$ $2 \times 2$ pezzi. Se $R$ può essere incollato anche con una combinazione di pezzi $n$ dei seguenti tipi di forme (con rotazioni consentite), determinare il valore minimo di $n$. (Posato da Zhu Huawei)
 
-![[src_cn_cgmo_2009__Q07.png]]
+![[src_cn_cgmo_2009__q07.png]]
 
 **Risposta:** The answer is $n = 4$.
-[[src_cn_cgmo_2009__Q07]]
+[[Quesiti/src_cn_cgmo_2009#q07|src_cn_cgmo_2009__Q07]]
 
 
 
@@ -262,4 +262,4 @@ level: China Girls' Mathematical Olympiad
 > Per un intero positivo $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Calcolare il valore massimo e il valore minimo di $a_1, a_2, \ldots, a_{2009}$. (Per il numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.) (Posizionato da Wang Zhixiong)
 
 **Risposta:** $a_{1292}$ attains the maximum and $a_{1597}$ the minimum.
-[[src_cn_cgmo_2009__Q08]]
+[[Quesiti/src_cn_cgmo_2009#q08|src_cn_cgmo_2009__Q08]]

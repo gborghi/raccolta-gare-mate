@@ -49,7 +49,7 @@ level: OBM Nível 3
 > - **(E)** $\dfrac{x^3+y^3}{x+y}$
 
 **Risposta:** C
-[[src_obm_2000_n3_f1__Q01]]
+[[Quesiti/src_obm_2000_n3_f1#q01|src_obm_2000_n3_f1__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 3
 > - **(E)** $21^\circ$
 
 **Risposta:** C
-[[src_obm_2000_n3_f1__Q02]]
+[[Quesiti/src_obm_2000_n3_f1#q02|src_obm_2000_n3_f1__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: OBM Nível 3
 > - **(D)** $\dfrac{11}{12}$
 > - **(E)** $\dfrac{14}{15}$
 
-![[src_obm_2000_n3_f1__Q03.png]]
+![[src_obm_2000_n3_f1__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -135,10 +135,10 @@ level: OBM Nível 3
 > - **(D)** $\dfrac{11}{12}$
 > - **(E)** $\dfrac{14}{15}$
 
-![[src_obm_2000_n3_f1__Q03.png]]
+![[src_obm_2000_n3_f1__q03.png]]
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q03]]
+[[Quesiti/src_obm_2000_n3_f1#q03|src_obm_2000_n3_f1__Q03]]
 
 
 
@@ -181,7 +181,7 @@ level: OBM Nível 3
 > - **(E)** 21
 
 **Risposta:** C
-[[src_obm_2000_n3_f1__Q04]]
+[[Quesiti/src_obm_2000_n3_f1#q04|src_obm_2000_n3_f1__Q04]]
 
 
 
@@ -224,7 +224,7 @@ level: OBM Nível 3
 > - **(E)** può essere maggiore di 1.
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q05]]
+[[Quesiti/src_obm_2000_n3_f1#q05|src_obm_2000_n3_f1__Q05]]
 
 
 
@@ -269,7 +269,7 @@ level: OBM Nível 3
 > - **(E)** 2002
 
 **Risposta:** E
-[[src_obm_2000_n3_f1__Q06]]
+[[Quesiti/src_obm_2000_n3_f1#q06|src_obm_2000_n3_f1__Q06]]
 
 
 
@@ -316,7 +316,7 @@ level: OBM Nível 3
 > - **(E)** Non ci sono informazioni sufficienti per determinare il numero.
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q07]]
+[[Quesiti/src_obm_2000_n3_f1#q07|src_obm_2000_n3_f1__Q07]]
 
 
 
@@ -359,7 +359,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** 5
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q08]]
+[[Quesiti/src_obm_2000_n3_f1#q08|src_obm_2000_n3_f1__Q08]]
 
 
 
@@ -402,7 +402,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** 55
 
 **Risposta:** E
-[[src_obm_2000_n3_f1__Q09]]
+[[Quesiti/src_obm_2000_n3_f1#q09|src_obm_2000_n3_f1__Q09]]
 
 
 
@@ -445,7 +445,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** 15
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q10]]
+[[Quesiti/src_obm_2000_n3_f1#q10|src_obm_2000_n3_f1__Q10]]
 
 
 
@@ -464,7 +464,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** 3937
 > - **(E)** 3939
 
-![[src_obm_2000_n3_f1__Q11.png]]
+![[src_obm_2000_n3_f1__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -489,10 +489,10 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** 3937
 > - **(E)** 3939
 
-![[src_obm_2000_n3_f1__Q11.png]]
+![[src_obm_2000_n3_f1__q11.png]]
 
 **Risposta:** C
-[[src_obm_2000_n3_f1__Q11]]
+[[Quesiti/src_obm_2000_n3_f1#q11|src_obm_2000_n3_f1__Q11]]
 
 
 
@@ -535,7 +535,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(E)** Le medie delle due classi possono peggiorare o migliorare, a seconda dei voti dei candidati.
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q12]]
+[[Quesiti/src_obm_2000_n3_f1#q12|src_obm_2000_n3_f1__Q12]]
 
 
 
@@ -554,7 +554,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** $3\sqrt{2}$
 > - **(E)** $\sqrt{2}+1$
 
-![[src_obm_2000_n3_f1__Q13.png]]
+![[src_obm_2000_n3_f1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -579,10 +579,10 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** $3\sqrt{2}$
 > - **(E)** $\sqrt{2}+1$
 
-![[src_obm_2000_n3_f1__Q13.png]]
+![[src_obm_2000_n3_f1__q13.png]]
 
 **Risposta:** A
-[[src_obm_2000_n3_f1__Q13]]
+[[Quesiti/src_obm_2000_n3_f1#q13|src_obm_2000_n3_f1__Q13]]
 
 
 
@@ -624,7 +624,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** non può essere determinato
 
 **Risposta:** A
-[[src_obm_2000_n3_f1__Q14]]
+[[Quesiti/src_obm_2000_n3_f1#q14|src_obm_2000_n3_f1__Q14]]
 
 
 
@@ -667,7 +667,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 4
 
 **Risposta:** B
-[[src_obm_2000_n3_f1__Q15]]
+[[Quesiti/src_obm_2000_n3_f1#q15|src_obm_2000_n3_f1__Q15]]
 
 
 
@@ -710,7 +710,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 20
 
 **Risposta:** E
-[[src_obm_2000_n3_f1__Q16]]
+[[Quesiti/src_obm_2000_n3_f1#q16|src_obm_2000_n3_f1__Q16]]
 
 
 
@@ -753,7 +753,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 334
 
 **Risposta:** A
-[[src_obm_2000_n3_f1__Q17]]
+[[Quesiti/src_obm_2000_n3_f1#q17|src_obm_2000_n3_f1__Q17]]
 
 
 
@@ -796,7 +796,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 500.000
 
 **Risposta:** D
-[[src_obm_2000_n3_f1__Q18]]
+[[Quesiti/src_obm_2000_n3_f1#q18|src_obm_2000_n3_f1__Q18]]
 
 
 
@@ -815,7 +815,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 2
 > - **(E)** 5
 
-![[src_obm_2000_n3_f1__Q19.png]]
+![[src_obm_2000_n3_f1__q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -840,10 +840,10 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 2
 > - **(E)** 5
 
-![[src_obm_2000_n3_f1__Q19.png]]
+![[src_obm_2000_n3_f1__q19.png]]
 
 **Risposta:** E
-[[src_obm_2000_n3_f1__Q19]]
+[[Quesiti/src_obm_2000_n3_f1#q19|src_obm_2000_n3_f1__Q19]]
 
 
 
@@ -857,7 +857,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > Juliano glued a grey little flag onto each gear, as shown in the figure below. The gears are all equal and, when the gear on the left turned a little, its little flag occupied the position indicated by the white dotted little flag. In this situation, we can affirm that the position of the little flag on the gear on the right is:
 > (A) (B) (C) (D) (E)
 
-![[src_obm_2000_n3_f1__Q20.png]]
+![[src_obm_2000_n3_f1__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -876,10 +876,10 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 
 > Juliano incollava una piccola bandiera grigia su ciascun equipaggiamento, come mostra la figura seguente. Le engranaggi sono tutte uguali e, quando il cambio sulla sinistra girò un po', la sua piccola bandiera occupava la posizione indicata dalla piccola bandiera puntata in bianco. In questa situazione, possiamo affermare che la posizione della piccola bandiera sull'attrezzatura a destra è:
 
-![[src_obm_2000_n3_f1__Q20.png]]
+![[src_obm_2000_n3_f1__q20.png]]
 
 **Risposta:** A
-[[src_obm_2000_n3_f1__Q20]]
+[[Quesiti/src_obm_2000_n3_f1#q20|src_obm_2000_n3_f1__Q20]]
 
 
 
@@ -898,7 +898,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** $\dfrac{\sqrt{2}}{2}$
 > - **(E)** $\dfrac{\sqrt{3}}{2}$
 
-![[src_obm_2000_n3_f1__Q21.png]]
+![[src_obm_2000_n3_f1__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -923,10 +923,10 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** $\dfrac{\sqrt{2}}{2}$
 > - **(E)** $\dfrac{\sqrt{3}}{2}$
 
-![[src_obm_2000_n3_f1__Q21.png]]
+![[src_obm_2000_n3_f1__q21.png]]
 
 **Risposta:** B
-[[src_obm_2000_n3_f1__Q21]]
+[[Quesiti/src_obm_2000_n3_f1#q21|src_obm_2000_n3_f1__Q21]]
 
 
 
@@ -969,7 +969,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 111
 
 **Risposta:** B
-[[src_obm_2000_n3_f1__Q22]]
+[[Quesiti/src_obm_2000_n3_f1#q22|src_obm_2000_n3_f1__Q22]]
 
 
 
@@ -1011,7 +1011,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 11h01min
 
 **Risposta:** A
-[[src_obm_2000_n3_f1__Q23]]
+[[Quesiti/src_obm_2000_n3_f1#q23|src_obm_2000_n3_f1__Q23]]
 
 
 
@@ -1054,7 +1054,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** $P(-1)\cdot P(1)$
 
 **Risposta:** B
-[[src_obm_2000_n3_f1__Q24]]
+[[Quesiti/src_obm_2000_n3_f1#q24|src_obm_2000_n3_f1__Q24]]
 
 
 
@@ -1097,4 +1097,4 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(E)** 105
 
 **Risposta:** A
-[[src_obm_2000_n3_f1__Q25]]
+[[Quesiti/src_obm_2000_n3_f1#q25|src_obm_2000_n3_f1__Q25]]

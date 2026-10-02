@@ -47,4 +47,4 @@ level: China Mathematical Competition (Complementary Test)
 > Trovare il valore massimo di $m$ in modo tale che esista $t \in \mathbf{R}$ per il quale $f(x + t) \le x$ è valido per tutti $x \in [1, m]$.
 
 **Risposta:** 9
-[[src_cn_cmc-complementary-test_2002__Q16]]
+[[Quesiti/src_cn_cmc-complementary-test_2002#q16|src_cn_cmc-complementary-test_2002__Q16]]

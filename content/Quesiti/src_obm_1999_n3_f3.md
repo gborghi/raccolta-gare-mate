@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > Let $ABCDE$ be a regular pentagon such that the star $ACEBD$ has area $1$. Let $P$ be the intersection of $AC$ and $BE$, and $Q$ the intersection of $BD$ and $CE$. Determine the area of $APQD$.
 
-![[src_obm_1999_n3_f3__Q01.png]]
+![[src_obm_1999_n3_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -36,10 +36,10 @@ level: OBM Nível 3
 
 > Che $ABCDE$ sia un pentagono regolare in modo tale che la stella $ACEBD$ abbia una superficie $1$. $P$ sia l'intersezione di $AC$ e $BE$, e $Q$ l'intersezione di $BD$ e $CE$. Determinare la superficie di $APQD$.
 
-![[src_obm_1999_n3_f3__Q01.png]]
+![[src_obm_1999_n3_f3__q01.png]]
 
 **Risposta:** \frac{1}{2}
-[[src_obm_1999_n3_f3__Q01]]
+[[Quesiti/src_obm_1999_n3_f3#q01|src_obm_1999_n3_f3__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: OBM Nível 3
 
 > Prove che esiste almeno una cifra decimale diversa da zero tra le cifre di $\sqrt{2}$ tra la $1{,}000{,}000$th e la $3{,}000{,}000$th decimale dopo il punto decimale.
 
-[[src_obm_1999_n3_f3__Q02]]
+[[Quesiti/src_obm_1999_n3_f3#q02|src_obm_1999_n3_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 3
 > Abbiamo una tabella quadrata. Desideriamo posizionare pezzi $n$ sulle celle della lavagna in modo tale che nessun pezzo $4$ costituisca le vertici di un rettangolo con lati paralleli ai lati della lavagna. Determinare il valore massimo di $n$ per il quale tale costruzione è possibile.
 
 **Risposta:** 34
-[[src_obm_1999_n3_f3__Q03]]
+[[Quesiti/src_obm_1999_n3_f3#q03|src_obm_1999_n3_f3__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: OBM Nível 3
 > 
 > Più precisamente: dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce al massimo di $100$ $\textit{Urghs}$.
 
-[[src_obm_1999_n3_f3__Q04]]
+[[Quesiti/src_obm_1999_n3_f3#q04|src_obm_1999_n3_f3__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: OBM Nível 3
 > In $\textit{Tumbolia}$ ci sono $n$ squadre di calcio. Si organizzerà un campionato round-robin in modo che ciascuna squadra giochi esattamente una volta contro l'altra. Tutte le partite si svolgono la domenica e una squadra non può giocare più di una volta la stessa domenica. Determinare il numero intero positivo minimo $n$ per il quale è possibile tenere un tale campionato nelle domenica $n$.
 
 **Risposta:** n = 2k-1 \text{ if } n=2k, \text{ and } n \text{ if } n \text{ is odd}
-[[src_obm_1999_n3_f3__Q05]]
+[[Quesiti/src_obm_1999_n3_f3#q05|src_obm_1999_n3_f3__Q05]]
 
 
 
@@ -173,7 +173,7 @@ level: OBM Nível 3
 > Given triangle $ABC$, show how to construct with straightedge and compass a triangle $A'B'C'$ of minimum area such that $C' \in AC$, $A' \in AB$, $B' \in BC$, and
 > $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
 
-![[src_obm_1999_n3_f3__Q06.png]]
+![[src_obm_1999_n3_f3__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
@@ -189,6 +189,6 @@ level: OBM Nível 3
 
 > Se il triangolo $ABC$ è considerato, mostrare come costruire con il bordo stretto e la bussola un triangolo $A'B'C'$ di superficie minima come $C' \in AC$, $A' \in AB$, $B' \in BC$ e $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
 
-![[src_obm_1999_n3_f3__Q06.png]]
+![[src_obm_1999_n3_f3__q06.png]]
 
-[[src_obm_1999_n3_f3__Q06]]
+[[Quesiti/src_obm_1999_n3_f3#q06|src_obm_1999_n3_f3__Q06]]

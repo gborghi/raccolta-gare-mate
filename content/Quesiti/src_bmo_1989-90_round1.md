@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova un intero positivo la cui prima cifra è $1$ e che ha la proprietà che, se questa cifra viene trasferita alla fine del numero, il numero è triplicato.
 
-[[src_bmo_1989-90_round1__Q01]]
+[[Quesiti/src_bmo_1989-90_round1#q01|src_bmo_1989-90_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > $ABCD$ è un quadrato e $P$ è un punto sulla linea $AB$. Trova i valori massimi e minimi del rapporto $PC/PD$, mostrando che si verificano per i punti $P$ dati da $AP \times BP = AB^2$.
 
-[[src_bmo_1989-90_round1__Q02]]
+[[Quesiti/src_bmo_1989-90_round1#q02|src_bmo_1989-90_round1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 1
 
 > Gli angoli $A$, $B$, $C$, $D$ di un quadrilaterale convexo soddisfano la relazione $$\cos A + \cos B + \cos C + \cos D = 0.$$ Prove che $ABCD$ sia un trapezio o ciclico.
 
-[[src_bmo_1989-90_round1__Q03]]
+[[Quesiti/src_bmo_1989-90_round1#q03|src_bmo_1989-90_round1__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: BMO Round 1
 
 > Una moneta è biased in modo che la probabilità di ottenere una testa è $p$, $0 < p < 1$. Due giocatori $A$ e $B$ lanciano la moneta a turno fino a quando non si verifica una delle sequenze $HHH$ o $HTH$. Se la sequenza $HHH$ si verifica prima, allora $A$ vince. Se $HTH$ si verifica per primo, allora $B$ vince. Per quale valore di $p$ è il fair game (cioè in modo tale che $A$ e $B$ abbiano uguali possibilità di vincere)?
 
-[[src_bmo_1989-90_round1__Q04]]
+[[Quesiti/src_bmo_1989-90_round1#q04|src_bmo_1989-90_round1__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: BMO Round 1
 > 
 > [Il centroide è l'intersezione delle linee da ogni vertice al punto medio del lato opposto; l'ortocentro è l'intersezione delle altitudini.]
 
-[[src_bmo_1989-90_round1__Q05]]
+[[Quesiti/src_bmo_1989-90_round1#q05|src_bmo_1989-90_round1__Q05]]
 
 
 
@@ -180,4 +180,4 @@ level: BMO Round 1
 
 > Dimostra che se $x$, $y$ sono numeri razionali che soddisfano l'equazione $$x^4 + y^4 = 2(xy)^3,$$ allora $1 - xy$ è il quadrato di un numero razionale.
 
-[[src_bmo_1989-90_round1__Q06]]
+[[Quesiti/src_bmo_1989-90_round1#q06|src_bmo_1989-90_round1__Q06]]

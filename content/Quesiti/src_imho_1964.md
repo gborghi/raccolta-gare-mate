@@ -37,7 +37,7 @@ level: IMO
 > 
 > (b) Demonstrate that there is no positive integer $n$ for which $2^n + 1$ is divisible by $7$.
 
-[[src_imho_1964__Q01]]
+[[Quesiti/src_imho_1964#q01|src_imho_1964__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: IMO
 > 
 > $$a^2(b+c-a) + b^2(c+a-b) + c^2(a+b-c) \leq 3abc.$$
 
-[[src_imho_1964__Q02]]
+[[Quesiti/src_imho_1964#q02|src_imho_1964__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: IMO
 
 > A circumference is inscribed in the $ABC$ triangle of sides $a, b, c$. The tangents are constructed parallel to the circumference on the sides of the triangle. Each of these tangents separates a triangle from $\triangle ABC$. Each of these triangles has a circumference. Find the sum of the areas of all four inscribed circumferences (in terms of $a, b, c$).
 
-[[src_imho_1964__Q03]]
+[[Quesiti/src_imho_1964#q03|src_imho_1964__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: IMO
 
 > Seventeen people correspond by mail with each other. Their letters only discuss three different topics. Each pair of correspondents deals with only one subject. Demonstrate that there are at least three people who write all three on the same subject.
 
-[[src_imho_1964__Q04]]
+[[Quesiti/src_imho_1964#q04|src_imho_1964__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: IMO
 
 > Suppose that five points in the plane are arranged so that none of the lines connecting them are parallel, perpendicular or coincident with each other. From each point the perpendiculars to all the lines connecting the other four points are drawn. Determine the maximum number of intersections these perpendiculars can have.
 
-[[src_imho_1964__Q05]]
+[[Quesiti/src_imho_1964#q05|src_imho_1964__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: IMO
 
 > In the tetrahedron $ABCD$, the vertex $D$ is connected to $D_0$, the barycenter of $\triangle ABC$. Through $A$, $B$ and $C$ lines parallel to $DD_0$ are drawn. These lines intersect $BCD$, $CAD$ and $ABD$ respectively in $A_1$, $B_1$ and $C_1$. Demonstrate that the volume of $ABCD$ is one third of the volume of $A_1 B_1 C_1 D_0$. The result is also valid if the $D_0$ point is chosen at any point within $\triangle ABC$?
 
-[[src_imho_1964__Q06]]
+[[Quesiti/src_imho_1964#q06|src_imho_1964__Q06]]

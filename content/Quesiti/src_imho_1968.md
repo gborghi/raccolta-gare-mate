@@ -33,7 +33,7 @@ Unique triangle with consecutive integer sides, one angle double another
 
 > Prove that there is one and only one triangle whose side lengths are consecutive integers, and one of whose angles is twice as large as another.
 
-[[src_imho_1968__Q01]]
+[[Quesiti/src_imho_1968#q01|src_imho_1968__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 > Find all natural numbers $x$ such that the product of their digits (in decimal notation) is equal to $x^2 - 10x - 22$.
 
-[[src_imho_1968__Q02]]
+[[Quesiti/src_imho_1968#q02|src_imho_1968__Q02]]
 
 
 
@@ -99,7 +99,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 > 
 > (a) If $\Delta < 0$, there is no solution. (b) If $\Delta = 0$, there is exactly one solution. (c) If $\Delta > 0$, there is more than one solution.
 
-[[src_imho_1968__Q03]]
+[[Quesiti/src_imho_1968#q03|src_imho_1968__Q03]]
 
 
 
@@ -126,7 +126,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 > Prove that in every tetrahedron there is a vertex such that the three edges meeting there have lengths which are the sides of a triangle.
 
-[[src_imho_1968__Q04]]
+[[Quesiti/src_imho_1968#q04|src_imho_1968__Q04]]
 
 
 
@@ -160,7 +160,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 > 
 > (a) Prove that the function $f$ is periodic (i.e., there exists a positive number $b$ such that $f(x + b) = f(x)$ for all $x$). For $a = 1$, give an example of a non-constant function with the required properties.
 
-[[src_imho_1968__Q05]]
+[[Quesiti/src_imho_1968#q05|src_imho_1968__Q05]]
 
 
 
@@ -189,4 +189,4 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 > For every natural number $n$, evaluate the sum $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$ (The symbol $[x]$ denotes the greatest integer not exceeding $x$.)
 
-[[src_imho_1968__Q06]]
+[[Quesiti/src_imho_1968#q06|src_imho_1968__Q06]]

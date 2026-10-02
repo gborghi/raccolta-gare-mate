@@ -33,7 +33,7 @@ level: JJMO
 
 > Calcolare quanto segue: $$\frac{7}{12}+\frac{5}{12}\times\frac{7}{15}\times\frac{4}{11}\times\frac{7}{10}\times\frac{4}{12}\times\frac{5}{11}\times\frac{4}{10}\times\frac{3}{9}\times\frac{7}{9}$$
 
-[[src_jjmo5q__Q01]]
+[[Quesiti/src_jjmo5q#q01|src_jjmo5q__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO
 
 > Nel quadrilaterale $ABCD$, abbiamo $AB = 5$, $BC = 7$, $CD = 6$, e le diagonali $AC$ e $BD$ si incrociano perpendicolare all'interno del quadrilaterale. Trova $DA$.
 
-[[src_jjmo5q__Q02]]
+[[Quesiti/src_jjmo5q#q02|src_jjmo5q__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JJMO
 
 > Trova tutti i numeri razionali che possono essere scritti come $\frac{m}{n}$, dove $m$ e $n$ sono interi positivi che non superano ognuno $20$, e che sono superiori a $\frac{5}{4}$ e inferiori a $\frac{4}{3}$.
 
-[[src_jjmo5q__Q03]]
+[[Quesiti/src_jjmo5q#q03|src_jjmo5q__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: JJMO
 
 > Trova tutti i polinomi $f(x, y, z)$ con coefficienti reali, di grado $3$ in tre variabili $x$, $y$, $z$, soddisfacendo tutte le seguenti condizioni: \begin{itemize} \item $f(x, y, z) + z$ è divisibile da $x + y + z$, \item $f(x, y, z) + y$ è divisibile da $x + y + z$, \item $f(x, y, z) + z$ è divisibile da $x + y + z$. \end{itemize} Qui, si dice che un polinomio $P(x,y,z)$ sia divisibile da $Q(x,y,z)$ se esiste un polinomio $R(x,y,z)$ tale che $P(x,y,z) = Q(x,y,z)\,R(x,y,z)$.
 
-[[src_jjmo5q__Q04]]
+[[Quesiti/src_jjmo5q#q04|src_jjmo5q__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: JJMO
 > 
 > Trova il numero intero più piccolo $m$ che soddisfa questa condizione.
 
-[[src_jjmo5q__Q05]]
+[[Quesiti/src_jjmo5q#q05|src_jjmo5q__Q05]]
 
 
 
@@ -182,7 +182,7 @@ level: JJMO
 
 > Nel triangolo $ABC$, $D$, $E$, $F$ siano rispettivamente i punti medi di $BC$, $CA$ e $AB$. Dato che $AD = 3$, $BE = 3$, $CF = 5$, si trova l'area del triangolo $ABC$.
 
-[[src_jjmo5q__Q06]]
+[[Quesiti/src_jjmo5q#q06|src_jjmo5q__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: JJMO
 
 > In quadrilaterale $ABCD$, le diagonali $AC$ e $BD$ si intersecano in un punto interno $P$. Date $AC = 2$, $BD = 3$ e $\angle APB = 60^\circ$, si trova il valore minimo di $AB + BC + CD + DA$.
 
-[[src_jjmo5q__Q07]]
+[[Quesiti/src_jjmo5q#q07|src_jjmo5q__Q07]]
 
 
 
@@ -236,7 +236,7 @@ level: JJMO
 
 > Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Scrivi $n$ in decimale; lasciamo che $a$ sia il numero intero a 2 cifre formato dalla cifra di centinaia e migliaia di cifre di $n$ (le due cifre superiori), e lasciamo che $b$ sia il numero intero a 2 cifre formato dalla cifra di decina e dalla cifra di unità di $n$ (le due cifre inferiori). Se il prodotto $a \times b$ è un divisore di $n$, trovare tutti tali $n$.
 
-[[src_jjmo5q__Q08]]
+[[Quesiti/src_jjmo5q#q08|src_jjmo5q__Q08]]
 
 
 
@@ -267,4 +267,4 @@ level: JJMO
 > 
 > \textbf{Condition:} Non importa quali $9$ unità quadrati vengono rimossi dalla griglia, la regione rimanente può sempre essere suddivisa in almeno $n$ buoni rettangoli.
 
-[[src_jjmo5q__Q09]]
+[[Quesiti/src_jjmo5q#q09|src_jjmo5q__Q09]]

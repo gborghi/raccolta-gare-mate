@@ -39,7 +39,7 @@ level: kangourou
 
 > In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
 
-[[src_kangourou_2011_student__Q01]]
+[[Quesiti/src_kangourou_2011_student#q01|src_kangourou_2011_student__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: kangourou
 
 > Let's say we write in decreasing order all positive integers of 4 significant digits whose sum of digits is 4. What position does the 2011 issue occupy on this list? A) The sixth B) The seventh C) The eighth D) The ninth E) The tenth
 
-[[src_kangourou_2011_student__Q02]]
+[[Quesiti/src_kangourou_2011_student#q02|src_kangourou_2011_student__Q02]]
 
 
 
@@ -101,7 +101,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > If 2x = 15 and 15y = 32, xy is equal to A) 5 B) log2 15 + log15 32 C) log2 47 D) 7 E)
 
-[[src_kangourou_2011_student__Q03]]
+[[Quesiti/src_kangourou_2011_student#q03|src_kangourou_2011_student__Q03]]
 
 
 
@@ -143,7 +143,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > During a road trip by car on a rough road, Michela drew the sketch you see in the picture: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, the streets of Arccia, Righello and Chiodo are all straight. Fourth Avenue is Curva Street. Which one of the four friends lives on Curva Street? A) Angela B) White C) Clear D) Donated E) Can not be deduced from the sketch available
 
-[[src_kangourou_2011_student__Q04]]
+[[Quesiti/src_kangourou_2011_student#q04|src_kangourou_2011_student__Q04]]
 
 
 
@@ -191,7 +191,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > 
 > I'm going to pay. I'm going to pay. 28 28 Kang 201 Kang 2011
 
-[[src_kangourou_2011_student__Q05]]
+[[Quesiti/src_kangourou_2011_student#q05|src_kangourou_2011_student__Q05]]
 
 
 
@@ -229,7 +229,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > The region in the figure can be broken down, as indicated, into a regular hexagon on side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
 
-[[src_kangourou_2011_student__Q06]]
+[[Quesiti/src_kangourou_2011_student#q06|src_kangourou_2011_student__Q06]]
 
 
 
@@ -263,7 +263,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > A rectangular sheet of paper is wrapped around a cylinder so as to cover it without overlap with itself; if the cylinder is cut with a passing plane for the points A and B in the figure, and the bottom of the sheet is then stretched on a plane, which of the following figures can be the image?
 
-[[src_kangourou_2011_student__Q07]]
+[[Quesiti/src_kangourou_2011_student#q07|src_kangourou_2011_student__Q07]]
 
 
 
@@ -300,7 +300,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > What is the area of the ABCD quadrilateral in the figure, if AB is as long as BC, BE is long as 5 and the angles ABC, ADC and BED are straight? A) 20 B) 22,5 C) 25 D) 27,5 E) 30
 
-[[src_kangourou_2011_student__Q08]]
+[[Quesiti/src_kangourou_2011_student#q08|src_kangourou_2011_student__Q08]]
 
 
 
@@ -334,7 +334,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > Andrea wrote all odd numbers from 1 to 2011 on a board and then Roberto deleted all but the multiples of 3. How many numbers are left written on the board? A) 335 B) 336 C) 671 D) 1005 E) 1006
 
-[[src_kangourou_2011_student__Q09]]
+[[Quesiti/src_kangourou_2011_student#q09|src_kangourou_2011_student__Q09]]
 
 
 
@@ -365,7 +365,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > A rectangle is divided into 3 rectangles, one of which has sides of length 7 and 11 and another has sides of length 4 and 8. The third rectangle has, among the eligible ones, the maximum area: what are the dimensions of its sides? (a) 1 and 11 (b) 3 and 4 (c) 3 and 8 (d) 7 and 8 (e) 8 and 11 11 al N. 20 is worth 4 points each.
 
-[[src_kangourou_2011_student__Q10]]
+[[Quesiti/src_kangourou_2011_student#q10|src_kangourou_2011_student__Q10]]
 
 
 
@@ -425,7 +425,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > 
 > I'm going to pay. I'm going to pay. 29 29 Kang 201 Kang 2011
 
-[[src_kangourou_2011_student__Q11]]
+[[Quesiti/src_kangourou_2011_student#q11|src_kangourou_2011_student__Q11]]
 
 
 
@@ -460,7 +460,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > Andrea and Bruno answer the truth to anyone who asks how many members their Chess Club has. Andrea says all the members of the Club except 5, are male. Bruno says: In each group of 6 members of the Club there are at least 4 women. How many members of the Club? A) 6 B) 7 C) 8 D) 12 E) 18
 
-[[src_kangourou_2011_student__Q12]]
+[[Quesiti/src_kangourou_2011_student#q12|src_kangourou_2011_student__Q12]]
 
 
 
@@ -496,7 +496,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > Forty-eight boys are taking part in a ski trip. Some of them are together with brothers (or sisters): precisely 6 participate with exactly 1 brother, 9 with exactly 2 and 4 with exactly 3 brothers. All the others have no brothers (or sisters) taking part in the trip. How many families have children taking part in the trip? A) 19 B) 25 C) 31 D) 36 E) 48
 
-[[src_kangourou_2011_student__Q13]]
+[[Quesiti/src_kangourou_2011_student#q13|src_kangourou_2011_student__Q13]]
 
 
 
@@ -541,7 +541,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > How many of the following functions y = x2 ; y = −x2 ; y = ; y = − ; y = ; y = − ; y = − ; y = ; y = − have the graph included in the figure? A) 0 B) 2 C) 4 D) 6 E) 8
 
-[[src_kangourou_2011_student__Q14]]
+[[Quesiti/src_kangourou_2011_student#q14|src_kangourou_2011_student__Q14]]
 
 
 
@@ -613,7 +613,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > 
 > I'm going to pay. I'm going to pay. 30 30 Kang 201 Kang 2011
 
-[[src_kangourou_2011_student__Q15]]
+[[Quesiti/src_kangourou_2011_student#q15|src_kangourou_2011_student__Q15]]
 
 
 
@@ -657,7 +657,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > In the figure there are 3 horizontal lines and 3 lines tilted parallel to each other; both circles are tangent to 4 of the lines. A, B and C are the areas of the shaded figures, as indicated, and D is the area of the PQRS parallelogram. To calculate the area of the parallelogram indicated by X, what is the minimum number of areas that is sufficient to know between A, B, C and D? A) 1 B) 2 C) 3 D) 4 E) It is not enough to know A, B, C and D
 
 **Answer:** A
-[[src_kangourou_2011_student__Q16]]
+[[Quesiti/src_kangourou_2011_student#q16|src_kangourou_2011_student__Q16]]
 
 
 
@@ -697,7 +697,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > In the plane with the usual orthogonal cartesian reference system Oxy, the point A(1, -10 was marked on the equation parabola y = ax2 + bx + c; the axes and much of the graph of the parabola were then deleted, and what remains is seen in the figure. Which of the following claims may be false? A) a > 0 B) b < 0 C) a+b+c < 0 D) b2 > 4ac E) c < 0
 
 **Answer:** E
-[[src_kangourou_2011_student__Q17]]
+[[Quesiti/src_kangourou_2011_student#q17|src_kangourou_2011_student__Q17]]
 
 
 
@@ -733,7 +733,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > In the expression, each letter represents a number different from zero; equal letters represent equal numbers and different letters represent different numbers. What is the smallest integer value that this expression can assume? (A) 1 B) 2 C) 3 D) 5 E) 7
 
 **Answer:** B
-[[src_kangourou_2011_student__Q18]]
+[[Quesiti/src_kangourou_2011_student#q18|src_kangourou_2011_student__Q18]]
 
 
 
@@ -768,7 +768,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > Each ball in a lottery day has a positive integer. On exactly 30 balls, there's a number divisible by 6, on exactly 20 a number divisible by 7 and on exactly 10 a number divisible by 42. How many balls should there be in the urna at least? A) 30 B) 40 C) 53 D) 54 E) 60
 
 **Answer:** B
-[[src_kangourou_2011_student__Q19]]
+[[Quesiti/src_kangourou_2011_student#q19|src_kangourou_2011_student__Q19]]
 
 
 
@@ -855,7 +855,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > 
 > I'm going to pay. I'm going to pay. 31 31 Kang 201 Kang 2011 Questions from N. 21 al N. 30 is worth 5 points each.
 
-[[src_kangourou_2011_student__Q20]]
+[[Quesiti/src_kangourou_2011_student#q20|src_kangourou_2011_student__Q20]]
 
 
 
@@ -890,7 +890,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > What is the sum of all positive integers n less than 100 such that n2 - 81 is a multiple of 100? (0 must be considered as a multiple of 100) A) 200 B) 100 C) 90 D) 81 E) 50
 
 **Answer:** A
-[[src_kangourou_2011_student__Q21]]
+[[Quesiti/src_kangourou_2011_student#q21|src_kangourou_2011_student__Q21]]
 
 
 
@@ -926,7 +926,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > Consider the two arithmetic progressions 5, 20, 35, and 35, 61, 87, ... How many different arithmetic progressions of positive integers do both contain? A) 0 B) 3 C) 5 D) 26 E) Infinite
 
 **Answer:** C
-[[src_kangourou_2011_student__Q22]]
+[[Quesiti/src_kangourou_2011_student#q22|src_kangourou_2011_student__Q22]]
 
 
 
@@ -964,7 +964,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > The sequence of numerical functions f1(x), f2(x), ... satisfies the following two conditions: (1) f1(x) = x (2) fn +1(x) = (1 −fn (x))-1 for each positive integer n. What is the value of f2011(2011) ? A) 2011 B) − C) D) 1 E) −2011
 
 **Answer:** A
-[[src_kangourou_2011_student__Q23]]
+[[Quesiti/src_kangourou_2011_student#q23|src_kangourou_2011_student__Q23]]
 
 
 
@@ -998,7 +998,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > In a box, some red balls and some green balls were placed. If we randomly extract 2 balls from the box, the probability that they're the same color is 1/2. Which of the following can be the total number of balls in the box? A) 81 B) 101 C) 1000 D) 2011           E) 10001
 
 **Answer:** A
-[[src_kangourou_2011_student__Q24]]
+[[Quesiti/src_kangourou_2011_student#q24|src_kangourou_2011_student__Q24]]
 
 
 
@@ -1048,7 +1048,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > I'm going to pay. I'm going to pay. 32 32 Kang 201 Kang 2011
 
 **Answer:** D
-[[src_kangourou_2011_student__Q25]]
+[[Quesiti/src_kangourou_2011_student#q25|src_kangourou_2011_student__Q25]]
 
 
 
@@ -1083,7 +1083,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > The sides AB, BC, CD, DE, EF, FA of a hexagon are all tangent to the same circle. The lengths of the sides AB, BC, CD, DE and EF are 4, 5, 6, 7 and 8 respectively. What's the length of the FA side? A) 9 B) 8 C) 7 D) 6 E) The information is not sufficient to answer
 
 **Answer:** D
-[[src_kangourou_2011_student__Q26]]
+[[Quesiti/src_kangourou_2011_student#q26|src_kangourou_2011_student__Q26]]
 
 
 
@@ -1155,7 +1155,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > Robin Hood threw three arrows at a target and, of course, always centered it, earning points each time according to the pattern illustrated in the figure. How many different overall scores could he have scored? A) 13 B) 17 C) 19 D) 20 E) 21
 
 **Answer:** C
-[[src_kangourou_2011_student__Q27]]
+[[Quesiti/src_kangourou_2011_student#q27|src_kangourou_2011_student__Q27]]
 
 
 
@@ -1190,7 +1190,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > The positive integers a, b, and c are such that a2 = 2b3 = 3c5. What is the minimum number of possible divisors of the number a ? b . c , including 1 and a . b . What about you? A) 30 B) 49 C) 60 D) 77 E) 1596
 
 **Answer:** D
-[[src_kangourou_2011_student__Q28]]
+[[Quesiti/src_kangourou_2011_student#q28|src_kangourou_2011_student__Q28]]
 
 
 
@@ -1220,7 +1220,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 > In each cell of a 4x5 grid a positive integer has been inserted. The numbers entered are two to two different from each other. Each pair of adjacent numbers (i.e. in cells having a common side) has a common divisor greater than
 
 **Answer:** C
-[[src_kangourou_2011_student__Q29]]
+[[Quesiti/src_kangourou_2011_student#q29|src_kangourou_2011_student__Q29]]
 
 
 
@@ -1249,4 +1249,4 @@ Calculation of xy with 2^x=15 and 15^y=32
 > 30. A 3x3x3 cube is obtained by bringing 27 identical cubes together. Let's consider a plane perpendicular to one of the diagonal sides of the cube and it goes through the center of the cube. How many of the cubes are intersected by the floor? The Commission has therefore considered that the Commission's decision to grant the aid is compatible with the internal market in accordance with Article 107 (1) TFEU. 32 32 Kang 201
 
 **Answer:** C
-[[src_kangourou_2011_student__Q30]]
+[[Quesiti/src_kangourou_2011_student#q30|src_kangourou_2011_student__Q30]]

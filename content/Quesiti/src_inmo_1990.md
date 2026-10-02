@@ -45,7 +45,7 @@ level: INMO
 > 
 > con uguaglianza in ogni caso se e solo se le quattro radici sono uguali.
 
-[[src_inmo_1990__Q01]]
+[[Quesiti/src_inmo_1990#q01|src_inmo_1990__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: INMO
 
 > Trova tutte le coppie di integri non negativi $(x, y)$ soddisfacenti $(xy - 7)^2 = x^2 + y^2$.
 
-[[src_inmo_1990__Q02]]
+[[Quesiti/src_inmo_1990#q02|src_inmo_1990__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: INMO
 > 
 > Trova tutti i valori possibili che $f(1990)$ può assumere.
 
-[[src_inmo_1990__Q03]]
+[[Quesiti/src_inmo_1990#q03|src_inmo_1990__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: INMO
 
 > Determinare il numero di sottoinsiemi di tre elementi di $\{1, 2, 3, \ldots, 300\}$ per i quali la somma degli elementi è un multiple di 3.
 
-[[src_inmo_1990__Q04]]
+[[Quesiti/src_inmo_1990#q04|src_inmo_1990__Q04]]
 
 
 
@@ -167,7 +167,7 @@ level: INMO
 
 > Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può mantenere entrambi i limiti?
 
-[[src_inmo_1990__Q05]]
+[[Quesiti/src_inmo_1990#q05|src_inmo_1990__Q05]]
 
 
 
@@ -194,7 +194,7 @@ level: INMO
 
 > In un triangolo scaleno $ABC$ l'angolo a $A$ è obtuso. Determinare l'insieme dei punti $D$ situati sulla linea estesa $BC$ per i quali $AD = \sqrt{BD \cdot CD}$.
 
-[[src_inmo_1990__Q06]]
+[[Quesiti/src_inmo_1990#q06|src_inmo_1990__Q06]]
 
 
 
@@ -221,4 +221,4 @@ level: INMO
 
 > Per qualsiasi punto $P$ situato all'interno di un determinato triangolo acuto $ABC$, $D, E, F$ indichi i piedi delle perpendicolari da $P$ a $AB$, $BC$ e $CA$ rispettivamente. Trova l'insieme di tutte le posizioni di $P$ per le quali il triangolo $DEF$ è uguale. Per quale posizione di $P$ è equilaterale il triangolo $DEF$?
 
-[[src_inmo_1990__Q07]]
+[[Quesiti/src_inmo_1990#q07|src_inmo_1990__Q07]]

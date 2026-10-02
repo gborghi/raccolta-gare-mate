@@ -19,7 +19,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (40 marks) As seen in Fig. 1.1, points $P$, $Q$ are, respectively, the midpoints of $AC$, $BD$ — the two diagonals of cyclic quadrilateral $ABCD$. Let $\angle BPA = \angle DPA$. Prove $\angle AQB = \angle CQD$.
 
-![[src_cn_cmc-complementary-test_b11_w69__Q01.png]]
+![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: China Mathematical Competition (Complementary Test)
 
 > 40 punti) Come illustrato nella figura. 1.1, i punti $P$, $Q$ sono, rispettivamente, i punti medi di $AC$, $BD$  le due diagonali del quadrilaterale ciclico $ABCD$. Let $\angle BPA = \angle DPA$. Provare $\angle AQB = \angle CQD$.
 
-![[src_cn_cmc-complementary-test_b11_w69__Q01.png]]
+![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
 
-[[src_cn_cmc-complementary-test_2011__Q01]]
+[[Quesiti/src_cn_cmc-complementary-test_2011#q01|src_cn_cmc-complementary-test_2011__Q01]]
 
 
 
@@ -55,7 +55,7 @@ level: China Mathematical Competition (Complementary Test)
 > (2) For any positive integer $a$ and arbitrary $b$ ($b \ge 2$) positive integers $r_1, r_2, \ldots, r_b$ that are different from each other, we have
 > $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
 
-![[src_cn_cmc-complementary-test_b11_w69__Q02.png]]
+![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
@@ -71,9 +71,9 @@ level: China Mathematical Competition (Complementary Test)
 
 > (60 marchi) Prova per qualsiasi intero $n > 1$, esiste un polinomio di grado $n$, $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$ con le seguenti proprietà: (1) $a_0, a_1, \ldots, a_{n-1}$ sono tutti interi positivi; (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \ge 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
 
-![[src_cn_cmc-complementary-test_b11_w69__Q02.png]]
+![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
 
-[[src_cn_cmc-complementary-test_2011__Q02]]
+[[Quesiti/src_cn_cmc-complementary-test_2011#q02|src_cn_cmc-complementary-test_2011__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \geq 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \neq f(r_1)f(r_2)\cdots f(r_b) + 2.$$
 
-[[src_cn_cmc-complementary-test_2011__Q03]]
+[[Quesiti/src_cn_cmc-complementary-test_2011#q03|src_cn_cmc-complementary-test_2011__Q03]]
 
 
 
@@ -140,4 +140,4 @@ level: China Mathematical Competition (Complementary Test)
 > (20 punti) Dato un array $3 \times 9$ $A$ con ogni cella contenente un intero positivo, diciamo che un $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) subarray di $A$ è un "buono rettangolo" se ogni numero nelle sue celle è un multiple di $10$. Una cellula di $A$ è "cattiva" se non è contenuta in alcun "buono rettangolo". Trova il numero massimo di "celle cattive" in $A$.
 
 **Risposta:** 25
-[[src_cn_cmc-complementary-test_2011__Q05]]
+[[Quesiti/src_cn_cmc-complementary-test_2011#q05|src_cn_cmc-complementary-test_2011__Q05]]

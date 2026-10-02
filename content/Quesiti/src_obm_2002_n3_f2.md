@@ -43,7 +43,7 @@ level: OBM Nível 3
 > 
 > Qual e' il numero che Arnaldo ha pensato?
 
-[[src_obm_2002_n3_f2__Q01]]
+[[Quesiti/src_obm_2002_n3_f2#q01|src_obm_2002_n3_f2__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 3
 
 > $a$, $b$, $c$ siano numeri reali tali che $$ab(a+b+c) = 1001, \quad bc(a+b+c) = 2002, \quad ca(a+b+c) = 3003.$$ Trova $a$, $b$ e $c$.
 
-[[src_obm_2002_n3_f2__Q02]]
+[[Quesiti/src_obm_2002_n3_f2#q02|src_obm_2002_n3_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 3
 > 
 > It is known that the lower edges of the strip (segments $FC'$ and $GD'$ in the figure) meet at the midpoint $M$ of side $AB$, the side $AB$ has length $1$, and the side $AB$ is the median $AD$ of the strip. Find $a + b$, where $a$ and $b$ are positive numbers defined as shown in the figure.
 
-![[src_obm_2002_n3_f2__Q03.png]]
+![[src_obm_2002_n3_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -105,9 +105,9 @@ level: OBM Nível 3
 > 
 > È noto che i bordi inferiori della striscia (segmenti $FC'$ e $GD'$ nella figura) si incontrano al punto medio $M$ del lato $AB$, il lato $AB$ ha lunghezza $1$ e il lato $AB$ è la media $AD$ della striscia. Trova $a + b$, dove $a$ e $b$ sono numeri positivi definiti come mostrato nella figura.
 
-![[src_obm_2002_n3_f2__Q03.png]]
+![[src_obm_2002_n3_f2__q03.png]]
 
-[[src_obm_2002_n3_f2__Q03]]
+[[Quesiti/src_obm_2002_n3_f2#q03|src_obm_2002_n3_f2__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: OBM Nível 3
 
 > I due numeri primi più piccoli del formulario $n^2 + 5$ sono $6^2 + 5 = 41$ e $12^2 + 5 = 149$. Qual è il terzo primo più piccolo di questa forma?
 
-[[src_obm_2002_n3_f2__Q04]]
+[[Quesiti/src_obm_2002_n3_f2#q04|src_obm_2002_n3_f2__Q04]]
 
 
 
@@ -169,7 +169,7 @@ level: OBM Nível 3
 > 
 > **Nota:** Un quadrilaterale è ciclico se e solo se esiste un cerchio che attraversa le sue quattro vertici.
 
-[[src_obm_2002_n3_f2__Q05]]
+[[Quesiti/src_obm_2002_n3_f2#q05|src_obm_2002_n3_f2__Q05]]
 
 
 
@@ -196,7 +196,7 @@ level: OBM Nível 3
 
 > Si consideri l'equazione $ax^2 + bx + c = 0$, dove $a$, $b$, $c$ sono reali e $a > 0$. Supponiamo che questa equazione abbia due radici reali $r$ e $s$ tali che $0 < r < 1$ e $0 < s < 1$. Prove che $b < 0$.
 
-[[src_obm_2002_n3_f2__Q06]]
+[[Quesiti/src_obm_2002_n3_f2#q06|src_obm_2002_n3_f2__Q06]]
 
 
 
@@ -225,7 +225,7 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, $AD$ deve essere l'altitudine relativa a $BC$. Quanti triangoli non congruenti soddisfano $$\frac{1}{AB^2} + \frac{1}{AC^2} = \frac{1}{AD^2}$$ con $AD = 2012$ e $BD$ e $CD$ entrambi gli integri? Si noti che $AB$ e $AC$ non devono essere numeri interi.
 
-[[src_obm_2002_n3_f2__Q07]]
+[[Quesiti/src_obm_2002_n3_f2#q07|src_obm_2002_n3_f2__Q07]]
 
 
 
@@ -252,7 +252,7 @@ level: OBM Nível 3
 
 > $ABCD$ sia quadrato, $E$ il punto medio del lato $BC$, $F$ il punto medio del lato $CD$. I triangoli equilaterali $ABG$ e $BEH$ sono costruiti in modo che $G$ si trovi all'interno del quadrato e $H$ si trovi al di fuori del quadrato. Determinare l'angolo acuto tra le linee $BF$ e $GH$.
 
-[[src_obm_2002_n3_f2__Q08]]
+[[Quesiti/src_obm_2002_n3_f2#q08|src_obm_2002_n3_f2__Q08]]
 
 
 
@@ -283,4 +283,4 @@ Esmeralda vince Destroy the Triangles sul campo
 > 
 > Esmeralda va prima. Quale delle due segretarie ha una strategia vincente indipendentemente dal modo in cui l'avversario gioca? Giustifica la tua risposta mostrando una strategia che funziona sempre.
 
-[[src_obm_2002_n3_f2__Q09]]
+[[Quesiti/src_obm_2002_n3_f2#q09|src_obm_2002_n3_f2__Q09]]

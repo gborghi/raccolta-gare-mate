@@ -35,7 +35,7 @@ level: IMO
 
 > Let $p_n(k)$ be the number of permutations of the set $\{1, \ldots, n\}$, $n \ge 1$, which have exactly $k$ fixed points. Prove that $$\sum_{k=0}^{n} k \cdot p_n(k) = n!.$$ (Remark: A permutation $f$ of a set $S$ is a one-to-one mapping of $S$ onto itself. An element $i$ in $S$ is called a fixed point of the permutation $f$ if $f(i) = i$.)
 
-[[src_imho_1987__Q01]]
+[[Quesiti/src_imho_1987#q01|src_imho_1987__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 > In an acute-angled triangle $ABC$ the interior bisector of the angle $A$ intersects $BC$ at $L$ and intersects the circumcircle of $ABC$ again at $N$. From point $L$ perpendiculars are drawn to $AB$ and $AC$, the feet of these perpendiculars being $K$ and $M$ respectively. Prove that the quadrilateral $AKNM$ and the triangle $ABC$ have equal areas.
 
-[[src_imho_1987__Q02]]
+[[Quesiti/src_imho_1987#q02|src_imho_1987__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 > Let $x_1, x_2, \ldots, x_n$ be real numbers satisfying $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Prove that for every integer $k \ge 2$ there are integers $a_1, a_2, \ldots, a_n$, not all $0$, such that $|a_i| \le k-1$ for all $i$ and $$|a_1 x_1 + a_2 x_2 + \cdots + a_n x_n| \le \frac{(k-1)\sqrt{n}}{k^n - 1}.$$
 
-[[src_imho_1987__Q03]]
+[[Quesiti/src_imho_1987#q03|src_imho_1987__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 > Prove that there is no function $f$ from the set of non-negative integers into itself such that $f(f(n)) = n + 1987$ for every $n$.
 
-[[src_imho_1987__Q04]]
+[[Quesiti/src_imho_1987#q04|src_imho_1987__Q04]]
 
 
 
@@ -144,7 +144,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 > Let $n$ be an integer greater than or equal to $3$. Prove that there is a set of $n$ points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.
 
-[[src_imho_1987__Q05]]
+[[Quesiti/src_imho_1987#q05|src_imho_1987__Q05]]
 
 
 
@@ -171,4 +171,4 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 > Let $n$ be an integer greater than or equal to $2$. Prove that if $k^2 + k + n$ is prime for all integers $k$ such that $0 \le k \le \sqrt{n/3}$, then $k^2 + k + n$ is prime for all integers $k$ such that $0 \le k \le n - 2$.
 
-[[src_imho_1987__Q06]]
+[[Quesiti/src_imho_1987#q06|src_imho_1987__Q06]]

@@ -39,7 +39,7 @@ level: OBM Nível 1
 > **Nota:** Blocchi di dimensioni $2 \times 3 \times 4$ e $2 \times 4 \times 3$ sono considerati uguali.
 
 **Risposta:** 6
-[[src_obm_2000_n1_f2__Q01]]
+[[Quesiti/src_obm_2000_n1_f2#q01|src_obm_2000_n1_f2__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: OBM Nível 1
 > 
 > What is the side length of square $I$?
 
-![[src_obm_2000_n1_f2__Q02.png]]
+![[src_obm_2000_n1_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -72,10 +72,10 @@ level: OBM Nível 1
 > 
 > Qual è la lunghezza laterale del quadrato $I$?
 
-![[src_obm_2000_n1_f2__Q02.png]]
+![[src_obm_2000_n1_f2__q02.png]]
 
 **Risposta:** 18
-[[src_obm_2000_n1_f2__Q02]]
+[[Quesiti/src_obm_2000_n1_f2#q02|src_obm_2000_n1_f2__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: OBM Nível 1
 > È possibile determinare a partire da questi dati il colore del punto sul lato destro? In tal caso, di che colore è il punto?
 
 **Risposta:** red
-[[src_obm_2000_n1_f2__Q03]]
+[[Quesiti/src_obm_2000_n1_f2#q03|src_obm_2000_n1_f2__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível 1
 > 
 > c) Which numbers can appear in the other five (inner) positions?
 
-![[src_obm_2000_n1_f2__Q04.png]]
+![[src_obm_2000_n1_f2__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -149,9 +149,9 @@ level: OBM Nível 1
 > 
 > c) Quali numeri possono apparire nelle altre cinque posizioni?
 
-![[src_obm_2000_n1_f2__Q04.png]]
+![[src_obm_2000_n1_f2__q04.png]]
 
-[[src_obm_2000_n1_f2__Q04]]
+[[Quesiti/src_obm_2000_n1_f2#q04|src_obm_2000_n1_f2__Q04]]
 
 
 
@@ -180,7 +180,7 @@ level: OBM Nível 1
 > Qual è il numero intero positivo più piccolo che è sia il doppio di un cubo perfetto che il quintuplico (cinque volte) di un quadrato perfetto?
 
 **Risposta:** 2000
-[[src_obm_2000_n1_f2__Q05]]
+[[Quesiti/src_obm_2000_n1_f2#q05|src_obm_2000_n1_f2__Q05]]
 
 
 
@@ -209,4 +209,4 @@ level: OBM Nível 1
 > Qual è il più grande intero positivo $n$ in modo che i rimanenti quando $154$, $238$ e $334$ sono entrambi divisi da $n$ siano tutti uguali?
 
 **Risposta:** 12
-[[src_obm_2000_n1_f2__Q06]]
+[[Quesiti/src_obm_2000_n1_f2#q06|src_obm_2000_n1_f2__Q06]]

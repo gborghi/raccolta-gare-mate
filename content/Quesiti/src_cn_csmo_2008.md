@@ -35,7 +35,7 @@ level: China Southeastern Mathematical Olympiad
 > È dato il set $S = \{1, 2, 3, \cdots, 3n\}$ dove $n$ è un intero positivo. $T$ è un sottoinsieme di $S$ tale che, per qualsiasi $x, y, z \in T$ (dove $x$, $y$, $z$ possono essere uguali), $x + y \neq z$. Trova il valore massimo del numero di elementi in tale insieme.
 
 **Risposta:** 2n
-[[src_cn_csmo_2008__Q01]]
+[[Quesiti/src_cn_csmo_2008#q01|src_cn_csmo_2008__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: China Southeastern Mathematical Olympiad
 
 > È data la sequenza $\{a_n\}$: $a_1 = 1$, $$a_{n+1} = 2a_n + n \cdot (1 + 2^n), \quad n = 1, 2, 3, \cdots.$$ Trova il termine generale $a_n$.
 
-[[src_cn_csmo_2008__Q02]]
+[[Quesiti/src_cn_csmo_2008#q02|src_cn_csmo_2008__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: China Southeastern Mathematical Olympiad
 
 > In $\triangle ABC$, $BC > AB$, $BD$ bisects $\angle ABC$ and intersects $AC$ at $D$. As shown in the figure, $CP \perp BD$ with $P$ as the foot of perpendicular and $AQ \perp BP$ with $Q$ as the foot of perpendicular. Points $M$ and $E$ are the midpoints of $AC$ and $BC$ respectively. The circumscribed circle $O$ of $\triangle PQM$ intersects $AC$ at the point $H$. Prove that $O$, $H$, $E$, $M$ are concyclic.
 
-![[src_cn_b07_w182__Q03.png]]
+![[src_cn_b07_w182__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -93,9 +93,9 @@ level: China Southeastern Mathematical Olympiad
 
 > In $\triangle ABC$, $BC > AB$, $BD$ divide $\angle ABC$ e incrocia $AC$ a $D$. Come mostrato nella figura, $CP \perp BD$ con $P$ come piede perpendicolare e $AQ \perp BP$ con $Q$ come piede perpendicolare. I punti $M$ e $E$ sono rispettivamente i punti intermedi di $AC$ e $BC$. Il cerchio circoscritto $O$ di $\triangle PQM$ interseca $AC$ al punto $H$. Provare che $O$, $H$, $E$, $M$ sono conciclici.
 
-![[src_cn_b07_w182__Q03.png]]
+![[src_cn_b07_w182__q03.png]]
 
-[[src_cn_csmo_2008__Q03]]
+[[Quesiti/src_cn_csmo_2008#q03|src_cn_csmo_2008__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: China Southeastern Mathematical Olympiad
 > (2) il residuo di $f(2008)$ diviso per $13$.
 
 **Risposta:** f(10) = 8008; f(2008) \equiv 10 \pmod{13}
-[[src_cn_csmo_2008__Q04]]
+[[Quesiti/src_cn_csmo_2008#q04|src_cn_csmo_2008__Q04]]
 
 
 
@@ -177,7 +177,7 @@ level: China Southeastern Mathematical Olympiad
 > where $x^2 + y^2 + z^2 = 1$.
 
 **Risposta:** 2
-[[src_cn_csmo_2008__Q05]]
+[[Quesiti/src_cn_csmo_2008#q05|src_cn_csmo_2008__Q05]]
 
 
 
@@ -190,7 +190,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As shown in the figure, $BC$ and $AC$ are tangent to the inscribed circle $I$ of $\triangle ABC$ at $M$ and $N$ respectively. $E$ and $F$ are the midpoints of $AB$ and $AC$ respectively. $EF$ intersects $BI$ at point $D$. Prove that $M$, $N$, $D$ are collinear.
 
-![[src_cn_b07_w182__Q06.png]]
+![[src_cn_b07_w182__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -206,9 +206,9 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella figura, $BC$ e $AC$ sono tangenti al cerchio inscritto $I$ di $\triangle ABC$ rispettivamente a $M$ e $N$. $E$ e $F$ sono rispettivamente i punti intermedi di $AB$ e $AC$. $EF$ si interseca con $BI$ al punto $D$. Provare che $M$, $N$, $D$ sono collineari.
 
-![[src_cn_b07_w182__Q06.png]]
+![[src_cn_b07_w182__q06.png]]
 
-[[src_cn_csmo_2008__Q06]]
+[[Quesiti/src_cn_csmo_2008#q06|src_cn_csmo_2008__Q06]]
 
 
 
@@ -221,7 +221,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Captain Jack and his pirates robbed 6 boxes of gold coins $A_1$, $A_2$, $A_3$, $A_4$, $A_5$, $A_6$. There are $a_i$ coins in box $A_i$ ($i = 1, 2, 3, 4, 5, 6$) and $a_i \neq a_j$ ($i \neq j$). They laid the boxes as shown in the figure. Captain Jack would take turns with a nominated pirate to choose a box. The rule was: Each person could only choose a box which was adjacent to at most one box. If Captain Jack got more gold coins than the pirates, the Captain won the game. If Captain Jack went first, what should be his strategy to win the game?
 
-![[src_cn_b07_w182__Q07.png]]
+![[src_cn_b07_w182__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -237,6 +237,6 @@ La strategia vincente del capitano Jack nel gioco di selezione della scatola d'o
 
 > Il capitano Jack e i suoi pirati hanno derubato 6 scatole di monete d'oro. Nella casella $A_i$ ($i = 1, 2, 3, 4, 5, 6$) e $a_i \neq a_j$ ($i \neq j$) ci sono monete $a_i$. Hanno posto le scatole come mostrato nella figura. Il capitano Jack si alternerebbe con un pirata nominato per scegliere una scatola. La regola era: ogni persona poteva scegliere solo una scatola adiacente ad un massimo di scatola. Se il capitano Jack avesse più monete d'oro dei pirati, il capitano avrebbe vinto. Se il capitano Jack fu il primo, quale dovrebbe essere la sua strategia per vincere la partita?
 
-![[src_cn_b07_w182__Q07.png]]
+![[src_cn_b07_w182__q07.png]]
 
-[[src_cn_csmo_2008__Q07]]
+[[Quesiti/src_cn_csmo_2008#q07|src_cn_csmo_2008__Q07]]

@@ -36,7 +36,7 @@ level: BMO Round 2
 
 > Per ogni numero intero positivo $n$, $S_n$ indichi l'insieme composto dai primi $n$ numeri naturali, cioè $$S_n = \{1, 2, 3, 4, \ldots, n-1, n\}.$$ (i) Per quali valori di $n$ è possibile esprimere $S_n$ come l'unione di due sottinsiemi disgiunti non vuoti in modo che gli elementi dei due sottinsiemi abbiano somme uguali? (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di tre sottoinsiemi non vuoti dissociati in modo che gli elementi dei tre sottoinsiemi abbiano somme uguali?
 
-[[src_bmo_1998-99_round2__Q01]]
+[[Quesiti/src_bmo_1998-99_round2#q01|src_bmo_1998-99_round2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 2
 
 > Il $ABCDEF$ deve essere un esagono (che può non essere regolare), che ha $AB$ parallelo a $ED$, $BC$ parallelo a $FE$ e $CD$ parallelo a $AF$. Provare che $$AD \cdot BC \cdot CE = CA \cdot EF \cdot FD.$$
 
-[[src_bmo_1998-99_round2__Q02]]
+[[Quesiti/src_bmo_1998-99_round2#q02|src_bmo_1998-99_round2__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: BMO Round 2
 
 > I numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che $$7(pq + qr + rp) \le 2 + 9pqr.$$
 
-[[src_bmo_1998-99_round2__Q03]]
+[[Quesiti/src_bmo_1998-99_round2#q03|src_bmo_1998-99_round2__Q03]]
 
 
 
@@ -121,4 +121,4 @@ level: BMO Round 2
 
 > Considerate tutti i numeri del modulo $3n^2 + n + 1$, dove $n$ è un intero positivo. (i) Quanto può essere piccola la somma delle cifre (in base 10) di un tale numero? (ii) Un tale numero può avere la somma delle sue cifre (in base 10) pari al 1999?
 
-[[src_bmo_1998-99_round2__Q04]]
+[[Quesiti/src_bmo_1998-99_round2#q04|src_bmo_1998-99_round2__Q04]]

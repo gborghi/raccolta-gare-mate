@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Per due numeri interi positivi $m$ e $n$, definiamo $l(m,n)$ come il loro più piccolo comune multiplo e $h(m,n)$ come il loro più alto fattore comune. Data una prima $p > 3$, $k$ indichi il numero di coppie ordinate di integri positivi $(m, n)$ che soddisfano l'equazione $$l(m, n) + h(m, n) = p^k.$$ Determinare il valore più piccolo di $k$ su tutte le scelte della prima $p > 3$.
 
-[[src_bmo_2025-26_round2__Q01]]
+[[Quesiti/src_bmo_2025-26_round2#q01|src_bmo_2025-26_round2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > Provare che $AC = BD$ se e solo se $XY$ divide $\angle DXC$.
 
-[[src_bmo_2025-26_round2__Q02]]
+[[Quesiti/src_bmo_2025-26_round2#q02|src_bmo_2025-26_round2__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 2
 > 
 > È possibile che le somme delle righe e delle colonne $60$ siano tutte diverse?
 
-[[src_bmo_2025-26_round2__Q03]]
+[[Quesiti/src_bmo_2025-26_round2#q03|src_bmo_2025-26_round2__Q03]]
 
 
 
@@ -130,4 +130,4 @@ Sequenza infinita da somme parziali: finitamente molti termini positivi o finita
 > 
 > Mostrare che ci sono finitamente molti termini strettamente positivi o finitamente molti termini strettamente negativi nella sequenza infinita $(x_n)$.
 
-[[src_bmo_2025-26_round2__Q04]]
+[[Quesiti/src_bmo_2025-26_round2#q04|src_bmo_2025-26_round2__Q04]]

@@ -33,7 +33,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. La circoscrizione di $\Gamma$ sia la sua circonferenza e la circoscrizione di $O$ sia il centro di $\Gamma$. In $D$ $CO$ si deve incontrare $\Gamma$. Tracciare una linea parallela a $AC$ attraverso $D$. Lasciate che $AB$ si intersechi a $E$. $AE : EB = 2 : 1$. Prova che $ABC$ è un triangolo equilaterale.
 
-[[src_rmo_2016_r4__Q01]]
+[[Quesiti/src_rmo_2016_r4#q01|src_rmo_2016_r4__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Che $a, b, c$ siano numeri reali positivi tali che $$\frac{ab}{1+bc} + \frac{bc}{1+ca} + \frac{ca}{1+ab} = 1.$$ dimostri che $$\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2} \ge 6\sqrt{2}.$$
 
-[[src_rmo_2016_r4__Q02]]
+[[Quesiti/src_rmo_2016_r4#q02|src_rmo_2016_r4__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Le età attuali in anni di due fratelli $A$ e $B$, e il loro padre $C$ sono rispettivamente tre numeri interi positivi distinti $a$, $b$ e $c$. Supponiamo che $\dfrac{a-1}{a+1}$ e $\dfrac{b+1}{b-1}$ siano due numeri interi consecutivi e $\dfrac{c-1}{b-1}$ e $\dfrac{c+1}{b+1}$ sono due numeri interi consecutivi. Se $a + b + c \le 150$ determina $a$, $b$, $c$.
 
-[[src_rmo_2016_r4__Q03]]
+[[Quesiti/src_rmo_2016_r4#q03|src_rmo_2016_r4__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: RMO
 
 > Una scatola contiene 4032 scritture di risposta, di cui esattamente la metà ha un numero imparato di segni. Scegliamo due script a caso e, se i punteggi su entrambi sono strani, rimettiamo una scrittura nella scatola e teniamo l'altra scrittura fuori. Se entrambe le sceneggiature hanno punteggi pari, rimettiamo una di loro e teniamo l'altra sceneggiatura fuori. Se c'è una sceneggiatura con punteggio pari e l'altra con punteggio impar, rimettiamo la sceneggiatura con punteggio impar e teniamo l'altra sceneggiatura fuori. Dopo aver seguito questa procedura un certo numero di volte, sono rimaste 3 scritture tra le quali c'è almeno una scrittura ciascuno con punteggi odd e even. Trova, con la prova, il numero di scritture con punteggi odd tra i tre a sinistra.
 
-[[src_rmo_2016_r4__Q04]]
+[[Quesiti/src_rmo_2016_r4#q04|src_rmo_2016_r4__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo, $AD$ un'altitudine e $AE$ una media. Supponiamo che $B$, $D$, $E$, $C$ si trovino in tale ordine sulla linea $BC$. Supponiamo che l'incentro di $\triangle ADC$ si trovi su $AE$. Trovare, con prova, gli angoli di $\triangle ABC$.
 
-[[src_rmo_2016_r4__Q05]]
+[[Quesiti/src_rmo_2016_r4#q05|src_rmo_2016_r4__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: RMO
 > 
 > (ii) Trovare, con giustificazione, una sequenza infinita di numeri interi positivi rigorosamente in aumento nella progressione aritmetica che non ha alcun cubo.
 
-[[src_rmo_2016_r4__Q06]]
+[[Quesiti/src_rmo_2016_r4#q06|src_rmo_2016_r4__Q06]]

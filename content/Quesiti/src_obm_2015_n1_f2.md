@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > In a square of perimeter $48$ cm, $M$ and $N$ are midpoints of two adjacent sides. $O$ is the center and $A$ is a vertex. By cutting the square along the dashed lines and rearranging the three pieces, a rectangle is formed with the same area as the original square but a different perimeter. What is this perimeter?
 
-![[src_obm_2015_n1_f2__Q01.png]]
+![[src_obm_2015_n1_f2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -35,9 +35,9 @@ level: OBM Nível 1
 
 > In un quadrato di perimetro $48$ cm, $M$ e $N$ sono i punti di mezzo di due lati adiacenti. $O$ è il centro e $A$ è un vertice. Tagliando il quadrato lungo le linee tracciate e riordinando i tre pezzi, si forma un rettangolo con la stessa area del quadrato originale ma un perimetro diverso. Qual e' questo perimetro?
 
-![[src_obm_2015_n1_f2__Q01.png]]
+![[src_obm_2015_n1_f2__q01.png]]
 
-[[src_obm_2015_n1_f2__Q01]]
+[[Quesiti/src_obm_2015_n1_f2#q01|src_obm_2015_n1_f2__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: OBM Nível 1
 
 > Júlia ha comprato magliette $3$ uguali e pagato con uno sconto $10\%$, mentre suo fratello ha comprato magliette $2$ dello stesso tipo e pagato con uno sconto $5\%$. Il fratello di Júlia ha pagato $12$ reais più di Júlia. Qual è il prezzo, in reais, di ogni T-shirt al prezzo scontato di Júlia?
 
-[[src_obm_2015_n1_f2__Q02]]
+[[Quesiti/src_obm_2015_n1_f2#q02|src_obm_2015_n1_f2__Q02]]
 
 
 
@@ -78,7 +78,7 @@ level: OBM Nível 1
 > 
 > (The strip shows alternating black-and-white rectangular pieces arranged in a row of total length $100$ cm.)
 
-![[src_obm_2015_n1_f2__Q03.png]]
+![[src_obm_2015_n1_f2__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -96,9 +96,9 @@ level: OBM Nível 1
 > 
 > (La striscia mostra pezzi rettangolari in bianco e nero alternati disposti in una fila di lunghezza totale $100$ cm.)
 
-![[src_obm_2015_n1_f2__Q03.png]]
+![[src_obm_2015_n1_f2__q03.png]]
 
-[[src_obm_2015_n1_f2__Q03]]
+[[Quesiti/src_obm_2015_n1_f2#q03|src_obm_2015_n1_f2__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: OBM Nível 1
 
 > Ci sono persone $2015$ sedute attorno a un tavolo circolare. Ognuno di loro è onesto o disonesto. Ognuno dice: "Uno dei miei due vicini (il di sinistra o quello di destra) è onesto, e l'altro è disonesto".
 
-[[src_obm_2015_n1_f2__Q04]]
+[[Quesiti/src_obm_2015_n1_f2#q04|src_obm_2015_n1_f2__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: OBM Nível 1
 > 
 > In Figure $30$, how many more gray squares are there than white squares?
 
-![[src_obm_2015_n1_f2__Q05.png]]
+![[src_obm_2015_n1_f2__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -162,9 +162,9 @@ level: OBM Nível 1
 > 
 > Nella figura $30$, quanti quadrati grigie ci sono di più rispetto ai quadrati bianchi?
 
-![[src_obm_2015_n1_f2__Q05.png]]
+![[src_obm_2015_n1_f2__q05.png]]
 
-[[src_obm_2015_n1_f2__Q05]]
+[[Quesiti/src_obm_2015_n1_f2#q05|src_obm_2015_n1_f2__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: OBM Nível 1
 
 > In the figure there are $12$ squares. Matilu wants to paint the vertices of these $12$ squares using three colors — green, yellow, and blue — so that each square has exactly $2$ green vertices and $2$ yellow vertices. In how many different ways can these vertices be painted?
 
-![[src_obm_2015_n1_f2__Q06.png]]
+![[src_obm_2015_n1_f2__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -193,9 +193,9 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 
 > Nella figura ci sono quadrati $12$. Matilu vuole dipingere i vertici di questi quadrati $12$ utilizzando tre colori  verde, giallo e blu  in modo che ogni quadrato abbia esattamente $2$ vertici verdi e $2$ vertici gialli. In quanti modi diversi si possono dipingere questi vertici?
 
-![[src_obm_2015_n1_f2__Q06.png]]
+![[src_obm_2015_n1_f2__q06.png]]
 
-[[src_obm_2015_n1_f2__Q06]]
+[[Quesiti/src_obm_2015_n1_f2#q06|src_obm_2015_n1_f2__Q06]]
 
 
 
@@ -242,7 +242,7 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > 
 > c) Quali cifre possono apparire come ultima (decima) cifra?
 
-[[src_obm_2015_n1_f2__Q07]]
+[[Quesiti/src_obm_2015_n1_f2#q07|src_obm_2015_n1_f2__Q07]]
 
 
 
@@ -263,7 +263,7 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > 
 > d) What is the area, in $\text{cm}^2$, of the triangle whose vertices are the midpoints of sides $AB$, $CD$, and $EF$?
 
-![[src_obm_2015_n1_f2__Q08.png]]
+![[src_obm_2015_n1_f2__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -287,9 +287,9 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > 
 > d) Qual è l'area, in $\text{cm}^2$, del triangolo le cui vertici sono i punti medi dei lati $AB$, $CD$ e $EF$?
 
-![[src_obm_2015_n1_f2__Q08.png]]
+![[src_obm_2015_n1_f2__q08.png]]
 
-[[src_obm_2015_n1_f2__Q08]]
+[[Quesiti/src_obm_2015_n1_f2#q08|src_obm_2015_n1_f2__Q08]]
 
 
 
@@ -324,4 +324,4 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 > 
 > b) Dopo aver assemblato un grande cubo di $9$ piccoli cubetti, Esmeralda dipinse $3$ le facce del grande cubo verde e $1$ la faccia gialla. Al massimo, quanti piccoli cubetti avrebbero potuto avere esattamente $2$ volti verdi e $1$ volti gialli?
 
-[[src_obm_2015_n1_f2__Q09]]
+[[Quesiti/src_obm_2015_n1_f2#q09|src_obm_2015_n1_f2__Q09]]

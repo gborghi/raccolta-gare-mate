@@ -41,7 +41,7 @@ level: squadre
 > The Scumm BarTM [20] At dawn on May 8, 1726, Jack Disparrow, Bourbakossa and Elizabeth Somm sit drunk at a bar table, when a naive young man shows up who says he knows that in order to become a π-rat he must turn to the three π-rates in that bar. Between the serious and the factual, the three friends ask him a question: How many years from now to 2726 are multiple of the answer to this question?
 
 **Answer:** 0032
-[[src_gas_2010_pubblico__Q01]]
+[[Quesiti/src_gas_2010_pubblico#q01|src_gas_2010_pubblico__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: squadre
 > Eight men and a box of rum [40] At the end of a tasty dinner, 8 π-rates decide to split the bill like this: they take a box of cubic rum and each one chooses one of the 8 vertices and glues the box of his meal to it. Then they randomly pick one of the 24 rotations of the box, and each pirate pays the counter that is on its top after the rotation. What are the odds that at least two pirates will pay for the food they ate themselves? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
 
 **Answer:** 0024
-[[src_gas_2010_pubblico__Q02]]
+[[Quesiti/src_gas_2010_pubblico#q02|src_gas_2010_pubblico__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: squadre
 > Cannibal Island [30] Will met a small group of 9 savages in Tortuga. The archipelago from which they come is made up of 3 islands for a total of 10000 inhabitants, including themselves. It is known that the inhabitants of Isla Cruces are always sincere (but also cannibals), the inhabitants of Isla de Muerta always lie, and the inhabitants of Isla de Mono can be sincere or lie. The nine stand in line, and in turn, the ninth member of the line says: It is also known that there are 3 people in the line from each island and that at least one of the Isles of Mone has told the truth. What is the maximum difference between the inhabitants of Isla Cruces and those of Isla de Muerta?
 
 **Answer:** 8994
-[[src_gas_2010_pubblico__Q03]]
+[[Quesiti/src_gas_2010_pubblico#q03|src_gas_2010_pubblico__Q03]]
 
 
 
@@ -153,7 +153,7 @@ level: squadre
 > 2/3 Team competition 2010  Public competition  Problem texts
 
 **Answer:** 6770
-[[src_gas_2010_pubblico__Q04]]
+[[Quesiti/src_gas_2010_pubblico#q04|src_gas_2010_pubblico__Q04]]
 
 
 
@@ -188,7 +188,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > The Survivors [25] After the battle Jack asks Master Gibbs, "How many men are left, apart from us two?" The answer is true π-rate: The number, Captain Disparrow, is the maximum cardinality of a finite subset A of positive integers, such that if m and n are in A, then m+n MCD(m,n) is in A. Jack rejoices, but how many would be?
 
 **Answer:** 0001
-[[src_gas_2010_pubblico__Q05]]
+[[Quesiti/src_gas_2010_pubblico#q05|src_gas_2010_pubblico__Q05]]
 
 
 
@@ -223,7 +223,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Corsair direction [35] Jack Disparrow's compass almost never points north. At midnight on a certain day, the compass points north and starts moving according to this algorithm: every 15 minutes the ago suddenly moves forward by 90 degrees and then returns just as instantly back by a number of degrees equal to 6 times the number of minutes passed until then starting to count from midnight. For how many minutes over the course of a week does the compass point exactly north?
 
 **Answer:** 2520
-[[src_gas_2010_pubblico__Q06]]
+[[Quesiti/src_gas_2010_pubblico#q06|src_gas_2010_pubblico__Q06]]
 
 
 
@@ -254,7 +254,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Half-triangle [60] The dorsal fin of the hammerfish in Davy Jensen's clutch is a large triangle with medians of 25, 153, and 160 cm. How many square feet does it cover?
 
 **Answer:** 2496
-[[src_gas_2010_pubblico__Q07]]
+[[Quesiti/src_gas_2010_pubblico#q07|src_gas_2010_pubblico__Q07]]
 
 
 
@@ -294,7 +294,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Who's looking for favors from Davy Jensen? [65] The π-cursed Davy Jensen rat has a purse containing 90 white tiles of the tomb (numbered 1 to 90), plus 1 single red card of blood. Whoever asks him for his favors, to know how many years he can enjoy them, submits to the following game: he draws the cards randomly one at a time, until the red card comes out. Players will have the advantage for many years as are white cards with a prime number that came out before the red one. Bill Turing, who observes from a different angle, wonders how many years you've been doing this on average. Jack doesn't understand exactly what his colleague π-rate means, but his son Will, who studied, explains that among the many ways to define the average number of years won (all leading to the same result) the most common is the sum of the numbers k · pk where, for every natural number k = 0.1,2,..., pk is the probability that the years won are k. What's the average number of years won? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
 
 **Answer:** 0012
-[[src_gas_2010_pubblico__Q08]]
+[[Quesiti/src_gas_2010_pubblico#q08|src_gas_2010_pubblico__Q08]]
 
 
 
@@ -328,7 +328,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Territorial dominion [50] Jack and Elizabeth, shipwrecked on the island, each appropriate a square plot of land. The two squares have an integer of meters on each side, but to hear Jack, his is bigger: Aah! The surface of my territory, in m2 has the same numbers as yours, but all increased by 1. Knowing that the side of Jack's land does not reach 300 meters, how much can he measure, at most?
 
 **Answer:** 0156
-[[src_gas_2010_pubblico__Q09]]
+[[Quesiti/src_gas_2010_pubblico#q09|src_gas_2010_pubblico__Q09]]
 
 
 
@@ -364,7 +364,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > A system of protection [50] Jack is increasingly terrified of Cramer, who feels his presence everywhere and searches relentlessly for his ship. The voodoo lady Tria Geome, using her Geomystic powers, will help him build a talisman that can keep the creature away. He explains that he will have to make a ball of clay on whose surface he will have to draw two mystical circles. These circumferences shall have diameters of 50 and 72 cm, shall lie on orthogonal planes, and shall be touched at two points 40 cm apart. How many millimeters will you have to measure the diameter of the clay sphere?
 
 **Answer:** 0780
-[[src_gas_2010_pubblico__Q10]]
+[[Quesiti/src_gas_2010_pubblico#q10|src_gas_2010_pubblico__Q10]]
 
 
 
@@ -404,7 +404,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Team competition 2010  Public competition  Problem texts 3/3
 
 **Answer:** 0513
-[[src_gas_2010_pubblico__Q11]]
+[[Quesiti/src_gas_2010_pubblico#q11|src_gas_2010_pubblico__Q11]]
 
 
 
@@ -440,7 +440,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > The Pearl Jam [50] The Pearl Jam is divided into two factions: those loyal to Jack, who always tell the truth, and those loyal to Bourbakossa, who always tell the lie. Everyone stands on the bridge in a rectangle 1726 × 11 and everyone says out loud to each of those next to him: He serves Jack or He serves Bourbakossa indicating him (those at the top will say 2 phrases, those on the sides will say 3 and those inside will say 4). Knowing that every person says exactly once, "He needs Jack", how many people are loyal to Jack at most?
 
 **Answer:** 9494
-[[src_gas_2010_pubblico__Q12]]
+[[Quesiti/src_gas_2010_pubblico#q12|src_gas_2010_pubblico__Q12]]
 
 
 
@@ -476,7 +476,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Filibunacci's staffs Will, Elizabeth, Captain Disparrow and Captain Bourbakossa are unable to agree on the route to be followed and decide to entrust the choice to the lot. The young Filibunacci makes 7 sticks 1, 2, 3, 5, 8, 13 and 21 cm long. Captain Disparrow wins if he extracts the shortest stick of all the extracts or if the sum between the length of his stick and Elizabeth's is greater than the sum of the other two extracted sticks. What are the odds of Captain Disparrow winning? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
 
 **Answer:** 0006
-[[src_gas_2010_pubblico__Q13]]
+[[Quesiti/src_gas_2010_pubblico#q13|src_gas_2010_pubblico__Q13]]
 
 
 
@@ -511,7 +511,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Seven years of duels [65] Will Turing never sent down his defeat in a duel with Jack Disparrow, when they met. Every month, for seven years, they meet and fight, both bet the same amount of money, and in the end one of the two wins and takes the whole plate. The first month the bet is a1 = 1726 doubles, then the following months bet a sum of money given by the formula an+1 = 2an +2n−1, for n = 1,2,... . At the end of this great seven-year challenge, Will is the one who has won the most doubles, but Jack is still happy because he lost the least possible. How many doubles has Will won?
 
 **Answer:** 8615
-[[src_gas_2010_pubblico__Q14]]
+[[Quesiti/src_gas_2010_pubblico#q14|src_gas_2010_pubblico__Q14]]
 
 
 
@@ -547,7 +547,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > Ragetti's skepticism [70] Ragetti, the guy with the wooden eye, is very skeptical of the π-race lot. He noted that it happens unusually often that two numbers near are extracted, that is, that they have a difference less than or equal to 2 (e.g. 17 and 19, or 27 and 28, but not 46 and 49). Well aware of the tricks of the filibusta, he thinks this is an indication that the game is rigged. Knowing that in theπ-ratico lot you extract 6 numbers between 1 and 90, would you know how many extractions out of 10,000 we should expect to get at least two nearby numbers (if the game is not rigged)?
 
 **Answer:** 5173
-[[src_gas_2010_pubblico__Q15]]
+[[Quesiti/src_gas_2010_pubblico#q15|src_gas_2010_pubblico__Q15]]
 
 
 
@@ -587,4 +587,4 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 > The Secret of Monkey IslandTM [80] All π-rats with a few years on their backs have heard of the fabulous treasure hidden in the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the altitude is at least 4 meters. Tria Geome possesses perhaps the only map of the island, from which it is inferred that: the plant is a circumscribed pentagon (i.e. it admits an inscribed circumference, tangent on all sides); the depth of the sea around the island is √π times the minimum distance from the coast measured on the map, while the altitude of each point on the surface of the island is √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the area roughly on the map from points that are 14 metres deep is 10456 m2 while that from points that are 127 metres deep is 127362 m2. How many square meters on the map is the part of the island where, according to legend, the treasure can be found?
 
 **Answer:** 6156
-[[src_gas_2010_pubblico__Q16]]
+[[Quesiti/src_gas_2010_pubblico#q16|src_gas_2010_pubblico__Q16]]

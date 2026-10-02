@@ -25,7 +25,7 @@ level: OBM Nível 2
 > - **(D)** $B - M - V - A$
 > - **(E)** $B - A - M - V$
 
-![[src_obm_2015_n2_f1__Q01.png]]
+![[src_obm_2015_n2_f1__q01.png]]
 
 **Topic:** [[topic_logica|Logica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
@@ -48,9 +48,9 @@ level: OBM Nível 2
 > - **(D)** $B - M - V - A$
 > - **(E)** $B - A - M - V$
 
-![[src_obm_2015_n2_f1__Q01.png]]
+![[src_obm_2015_n2_f1__q01.png]]
 
-[[src_obm_2015_n2_f1__Q01]]
+[[Quesiti/src_obm_2015_n2_f1#q01|src_obm_2015_n2_f1__Q01]]
 
 
 
@@ -83,7 +83,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 3 (B) 5 (C) 6 (D) 7 (E) 9
 
-[[src_obm_2015_n2_f1__Q02]]
+[[Quesiti/src_obm_2015_n2_f1#q02|src_obm_2015_n2_f1__Q02]]
 
 
 
@@ -98,7 +98,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $15^\circ$ (B) $30^\circ$ (C) $45^\circ$ (D) $60^\circ$ (E) $75^\circ$
 
-![[src_obm_2015_n2_f1__Q03.png]]
+![[src_obm_2015_n2_f1__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -117,9 +117,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $15^\circ$ (B) $30^\circ$ (C) $45^\circ$ (D) $60^\circ$ (E) $75^\circ$
 
-![[src_obm_2015_n2_f1__Q03.png]]
+![[src_obm_2015_n2_f1__q03.png]]
 
-[[src_obm_2015_n2_f1__Q03]]
+[[Quesiti/src_obm_2015_n2_f1#q03|src_obm_2015_n2_f1__Q03]]
 
 
 
@@ -152,7 +152,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 04 maggio (B) 05 maggio (C) 06 maggio (D) 07 maggio (E) 08 maggio
 
-[[src_obm_2015_n2_f1__Q04]]
+[[Quesiti/src_obm_2015_n2_f1#q04|src_obm_2015_n2_f1__Q04]]
 
 
 
@@ -167,7 +167,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
 
-![[src_obm_2015_n2_f1__Q05.png]]
+![[src_obm_2015_n2_f1__q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]]
@@ -187,9 +187,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
 
-![[src_obm_2015_n2_f1__Q05.png]]
+![[src_obm_2015_n2_f1__q05.png]]
 
-[[src_obm_2015_n2_f1__Q05]]
+[[Quesiti/src_obm_2015_n2_f1#q05|src_obm_2015_n2_f1__Q05]]
 
 
 
@@ -222,7 +222,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $\{a+b\}$ (B) $\{a-b\}$ (C) $\{a+b,a-b\}$ (D) $\{-a+b,a+b\}$ (E) $\{a+b,-a-b\}$
 
-[[src_obm_2015_n2_f1__Q06]]
+[[Quesiti/src_obm_2015_n2_f1#q06|src_obm_2015_n2_f1__Q06]]
 
 
 
@@ -273,7 +273,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > - **(D)** BB con più del 47% dei voti.
 > - **(E)** Nessuna delle dichiarazioni precedenti deriva dalle informazioni fornite.
 
-[[src_obm_2015_n2_f1__Q07]]
+[[Quesiti/src_obm_2015_n2_f1#q07|src_obm_2015_n2_f1__Q07]]
 
 
 
@@ -306,7 +306,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) Venti-sei (B) Settanta-tre (C) Ottantacinque (D) Novanta-sei (E) cento sedici
 
-[[src_obm_2015_n2_f1__Q08]]
+[[Quesiti/src_obm_2015_n2_f1#q08|src_obm_2015_n2_f1__Q08]]
 
 
 
@@ -321,7 +321,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 4 (B) 3 (C) 8 (D) 5 (E) 2
 
-![[src_obm_2015_n2_f1__Q09.png]]
+![[src_obm_2015_n2_f1__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -340,9 +340,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 4 (B) 3 (C) 8 (D) 5 (E) 2
 
-![[src_obm_2015_n2_f1__Q09.png]]
+![[src_obm_2015_n2_f1__q09.png]]
 
-[[src_obm_2015_n2_f1__Q09]]
+[[Quesiti/src_obm_2015_n2_f1#q09|src_obm_2015_n2_f1__Q09]]
 
 
 
@@ -375,7 +375,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 2021 (B) 2022 (C) 2023 (D) 2025 (E) 2026
 
-[[src_obm_2015_n2_f1__Q10]]
+[[Quesiti/src_obm_2015_n2_f1#q10|src_obm_2015_n2_f1__Q10]]
 
 
 
@@ -408,7 +408,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 72 (B) 98 (C) 144 (D) 216 (E) 256
 
-[[src_obm_2015_n2_f1__Q11]]
+[[Quesiti/src_obm_2015_n2_f1#q11|src_obm_2015_n2_f1__Q11]]
 
 
 
@@ -423,7 +423,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 15 (B) 16 (C) 22 (D) 29 (E) 30
 
-![[src_obm_2015_n2_f1__Q12.png]]
+![[src_obm_2015_n2_f1__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -443,9 +443,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 15 (B) 16 (C) 22 (D) 29 (E) 30
 
-![[src_obm_2015_n2_f1__Q12.png]]
+![[src_obm_2015_n2_f1__q12.png]]
 
-[[src_obm_2015_n2_f1__Q12]]
+[[Quesiti/src_obm_2015_n2_f1#q12|src_obm_2015_n2_f1__Q12]]
 
 
 
@@ -477,7 +477,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) R\$ 10.00 (B) R\$ 12.00 (C) R\$ 15.00 (D) R\$ 18.00 (E) R\$ 20.00
 
-[[src_obm_2015_n2_f1__Q13]]
+[[Quesiti/src_obm_2015_n2_f1#q13|src_obm_2015_n2_f1__Q13]]
 
 
 
@@ -492,7 +492,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 10 (B) 14 (C) 18 (D) 20 (E) 24
 
-![[src_obm_2015_n2_f1__Q14.png]]
+![[src_obm_2015_n2_f1__q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -512,9 +512,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 10 (B) 14 (C) 18 (D) 20 (E) 24
 
-![[src_obm_2015_n2_f1__Q14.png]]
+![[src_obm_2015_n2_f1__q14.png]]
 
-[[src_obm_2015_n2_f1__Q14]]
+[[Quesiti/src_obm_2015_n2_f1#q14|src_obm_2015_n2_f1__Q14]]
 
 
 
@@ -547,7 +547,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 39 (B) 51 (C) 52 (D) 54 (E) 55
 
-[[src_obm_2015_n2_f1__Q15]]
+[[Quesiti/src_obm_2015_n2_f1#q15|src_obm_2015_n2_f1__Q15]]
 
 
 
@@ -562,7 +562,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $\frac{2}{5}$ (B) $\frac{18}{25}$ (C) 1 (D) $\frac{26}{25}$ (E) $\frac{3}{2}$
 
-![[src_obm_2015_n2_f1__Q16.png]]
+![[src_obm_2015_n2_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -582,9 +582,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $\frac{2}{5}$ (B) $\frac{18}{25}$ (C) 1 (D) $\frac{26}{25}$ (E) $\frac{3}{2}$
 
-![[src_obm_2015_n2_f1__Q16.png]]
+![[src_obm_2015_n2_f1__q16.png]]
 
-[[src_obm_2015_n2_f1__Q16]]
+[[Quesiti/src_obm_2015_n2_f1#q16|src_obm_2015_n2_f1__Q16]]
 
 
 
@@ -617,7 +617,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 2 e 2014 (B) 3 e 2013 (C) 1006 e 1010 (D) 1007 e 1009
 
-[[src_obm_2015_n2_f1__Q17]]
+[[Quesiti/src_obm_2015_n2_f1#q17|src_obm_2015_n2_f1__Q17]]
 
 
 
@@ -650,7 +650,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180^\circ$ (D) $\alpha+\beta=90^\circ$ (E) $\alpha+\beta=45^\circ$
 
-[[src_obm_2015_n2_f1__Q18]]
+[[Quesiti/src_obm_2015_n2_f1#q18|src_obm_2015_n2_f1__Q18]]
 
 
 
@@ -683,7 +683,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 5 (B) 3 (C) 6 (D) 100 (E) 50
 
-[[src_obm_2015_n2_f1__Q19]]
+[[Quesiti/src_obm_2015_n2_f1#q19|src_obm_2015_n2_f1__Q19]]
 
 
 
@@ -716,7 +716,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 8 (B) 7 (C) 6 (D) 5 (E) 4
 
-[[src_obm_2015_n2_f1__Q20]]
+[[Quesiti/src_obm_2015_n2_f1#q20|src_obm_2015_n2_f1__Q20]]
 
 
 
@@ -749,7 +749,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 365 (B) 455 (C) 465 (D) 629 (E) 699
 
-[[src_obm_2015_n2_f1__Q21]]
+[[Quesiti/src_obm_2015_n2_f1#q21|src_obm_2015_n2_f1__Q21]]
 
 
 
@@ -764,7 +764,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $9/4$ (B) 3 (C) 4 (D) $5/4$ (E) 5
 
-![[src_obm_2015_n2_f1__Q22.png]]
+![[src_obm_2015_n2_f1__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -784,9 +784,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) $9/4$ (B) 3 (C) 4 (D) $5/4$ (E) 5
 
-![[src_obm_2015_n2_f1__Q22.png]]
+![[src_obm_2015_n2_f1__q22.png]]
 
-[[src_obm_2015_n2_f1__Q22]]
+[[Quesiti/src_obm_2015_n2_f1#q22|src_obm_2015_n2_f1__Q22]]
 
 
 
@@ -801,7 +801,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 
-![[src_obm_2015_n2_f1__Q23.png]]
+![[src_obm_2015_n2_f1__q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -821,9 +821,9 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 
-![[src_obm_2015_n2_f1__Q23.png]]
+![[src_obm_2015_n2_f1__q23.png]]
 
-[[src_obm_2015_n2_f1__Q23]]
+[[Quesiti/src_obm_2015_n2_f1#q23|src_obm_2015_n2_f1__Q23]]
 
 
 
@@ -855,7 +855,7 @@ Giada che Jade cammini dal segretariato al giardino botanico
 > 
 > A) 30 minuti B) 35 minuti C) 40 minuti D) 45 minuti E) 50 minuti
 
-[[src_obm_2015_n2_f1__Q24]]
+[[Quesiti/src_obm_2015_n2_f1#q24|src_obm_2015_n2_f1__Q24]]
 
 
 
@@ -888,4 +888,4 @@ Giada che Jade cammini dal segretariato al giardino botanico
 > 
 > (A) 50 (B) 100 (C) 450 (D) 858 (E) 907
 
-[[src_obm_2015_n2_f1__Q25]]
+[[Quesiti/src_obm_2015_n2_f1#q25|src_obm_2015_n2_f1__Q25]]

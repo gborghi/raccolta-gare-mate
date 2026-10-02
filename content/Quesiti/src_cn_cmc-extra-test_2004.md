@@ -19,7 +19,7 @@ level: China Mathematical Competition (Extra Test)
 
 > In an acute triangle $ABC$, point $H$ is the intersection point of altitude $CE$ to $AB$ and altitude $BD$ to $AC$. A circle with $DE$ as its diameter intersects $AB$ and $AC$ at points $F$ and $G$, respectively. $FG$ and $AH$ intersect at point $K$. If $BC = 25$, $BD = 20$, $BE = 7$, find the length of $AK$.
 
-![[src_cn_cmc-extra-test_2004__Q01.png]]
+![[src_cn_cmc-extra-test_2004__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: China Mathematical Competition (Extra Test)
 
 > In un triangolo acuto $ABC$, il punto $H$ è il punto di intersezione dell'altitudine $CE$ a $AB$ e dell'altitudine $BD$ a $AC$. Un cerchio con $DE$ come diametro che incrocia $AB$ e $AC$ rispettivamente nei punti $F$ e $G$. $FG$ e $AH$ si incrociano al punto $K$. Se $BC = 25$, $BD = 20$, $BE = 7$, si trova la lunghezza di $AK$.
 
-![[src_cn_cmc-extra-test_2004__Q01.png]]
+![[src_cn_cmc-extra-test_2004__q01.png]]
 
 **Risposta:** 8.64
-[[src_cn_cmc-extra-test_2004__Q01]]
+[[Quesiti/src_cn_cmc-extra-test_2004#q01|src_cn_cmc-extra-test_2004__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: China Mathematical Competition (Extra Test)
 > 
 > (2) C'è un $n_0 \in \mathbb{N}$ tale che per qualsiasi $n > n_0$, $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$ dove $b_n$ è la coordinata $y$ di $B_n$, cioè $B_n = (b_n,\, \sqrt{2b_n})$ con $b_n > 0$.
 
-[[src_cn_cmc-extra-test_2004__Q02]]
+[[Quesiti/src_cn_cmc-extra-test_2004#q02|src_cn_cmc-extra-test_2004__Q02]]
 
 
 
@@ -103,4 +103,4 @@ level: China Mathematical Competition (Extra Test)
 
 > Per il numero intero $n \ge 4$, trovare il numero intero minimo $f(n)$, in modo che per qualsiasi sottoinsieme con $f(n)$ elementi del set $\{m, m+1, \ldots, m+n-1\}$ ($m \in \mathbb{N}$), ci siano almeno 3 elementi reciprocamente primi.
 
-[[src_cn_cmc-extra-test_2004__Q03]]
+[[Quesiti/src_cn_cmc-extra-test_2004#q03|src_cn_cmc-extra-test_2004__Q03]]

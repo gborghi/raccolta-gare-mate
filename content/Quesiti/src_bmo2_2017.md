@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Questo problema riguarda i triangoli che hanno vertici con coordinate interi nel solito piano di coordinate $x,y$. Per quanti numeri interi positivi $n<2017$ è possibile disegnare un triangolo a rettangolo di isosceles in modo tale che esattamente $n$ punti sul suo perimetro, compresi tutti e tre i suoi vertici, abbiano coordinate interi?
 
-[[src_bmo2_2017__Q01]]
+[[Quesiti/src_bmo2_2017#q01|src_bmo2_2017__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > [Questi sono alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2017}{1000} \right\rfloor = 2$.]
 
-[[src_bmo2_2017__Q02]]
+[[Quesiti/src_bmo2_2017#q02|src_bmo2_2017__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > Considerate un quadrilaterale ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano a $P$, e i raggi $AD$ e $BC$ si incontrano a $Q$. Il bisettore di angolo interno $\angle BQA$ incontra $AC$ a $R$ e il bisettore di angolo interno $\angle APD$ incontra $AD$ a $S$. Provare che $RS$ è parallelo a $CD$.
 
-[[src_bmo2_2017__Q03]]
+[[Quesiti/src_bmo2_2017#q03|src_bmo2_2017__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > La cassaforte incastrata di Bobby richiede un codice a 3 cifre per sbloccarla. Alex ha una sonda che puo' testare le combinazioni senza scriverle sulla cassaforte. La sonda risponde $\textit{Fail}$ se nessuna cifra individuale è corretta. Altrimenti risponde $\textit{Close}$, anche quando tutti i numeri sono corretti. Ad esempio, se il codice corretto è 014, allora le risposte a 099 e 014 sono entrambe Close, ma la risposta a 140 è Fail. Se Alex sta seguendo una strategia ottimale, qual è il minor numero di tentativi necessari per garantire che conosca il codice corretto, qualunque sia?
 
-[[src_bmo2_2017__Q04]]
+[[Quesiti/src_bmo2_2017#q04|src_bmo2_2017__Q04]]

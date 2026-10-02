@@ -34,7 +34,7 @@ level: BMO Round 1
 
 > Calcolare il valore di $$\frac{2014^2 + 4 \times 2013^2}{2013^2 + 4027^2} + \frac{2012^2 + 4 \times 2013^2}{2013^2 + 4 \times 2013^2}.$$
 
-[[src_bmo1_2014__Q01]]
+[[Quesiti/src_bmo1_2014#q01|src_bmo1_2014__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Nel triangolo a angolo acuto $ABC$, il piede della perpendicolare da $A$ a $BC$ è $E$. Il $G$ deve essere il piede della perpendicolare da $E$ a $AB$. Il piede della perpendicolare da $C$ a $AB$ è $F$. Prova che la perpendicolare da $E$ a $CF$ è parallela a $AB$.
 
-[[src_bmo1_2014__Q02]]
+[[Quesiti/src_bmo1_2014#q02|src_bmo1_2014__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 1
 
 > Un numero scritto nella base 10 è una catena di $3^{2013}$ cifre $3$s. Nessun altro numero appare. Trova la potenza più alta di $3$ che divide questo numero.
 
-[[src_bmo1_2014__Q03]]
+[[Quesiti/src_bmo1_2014#q03|src_bmo1_2014__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: BMO Round 1
 
 > Isaac sta pianificando una vacanza di nove giorni. Ogni giorno andrà a fare surf, a sciare in acqua o a riposare. In ogni giorno fa solo una di queste tre cose. Non fa mai sport acquatici diversi nei giorni successivi. Quanti programmi sono possibili per le vacanze?
 
-[[src_bmo1_2014__Q04]]
+[[Quesiti/src_bmo1_2014#q04|src_bmo1_2014__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: BMO Round 1
 
 > Lasciate che $ABC$ sia un triangolo e lasciate che $P$ sia un punto all'interno del triangolo. I piedi delle perpendicolari $D$, $E$ e $F$ siano i piedi delle perpendicolari $P$ ai lati $BC$, $CA$ e $AB$ rispettivamente. Prova che: a) $AF + BD + CE = AE + BF + CD$; b) $[BPF] + [CPD] + [APE] = [APF] + [BPD] + [CPE]$, dove $[XYZ]$ indica l'area del triangolo $XYZ$.
 
-[[src_bmo1_2014__Q05]]
+[[Quesiti/src_bmo1_2014#q05|src_bmo1_2014__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: BMO Round 1
 
 > Gli angoli $A$, $B$ e $C$ di un triangolo sono misurati in gradi e le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Provare che $$60 \le \frac{aA + bB + cC}{a + b + c} < 90.$$
 
-[[src_bmo1_2014__Q06]]
+[[Quesiti/src_bmo1_2014#q06|src_bmo1_2014__Q06]]

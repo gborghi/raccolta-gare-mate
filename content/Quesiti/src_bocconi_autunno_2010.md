@@ -21,7 +21,7 @@ level: Giochi d'Autunno
 > Francesco vuole andare dal punto A al punto B del labirinto del disegno seguendo il percorso più corto possibile e potendosi muovere solo in orizzontale o in verticale. Non può naturalmente attraversare i muri (segnati con una linea più grossa nel disegno) e dei muri devono restare al di fuori.
 > Quanti quadratini dovrà allora attraversare (senza contare quelli di A e di B)?
 
-![[src_bocconi_autunno_2010__Q01.png]]
+![[src_bocconi_autunno_2010__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -38,10 +38,10 @@ level: Giochi d'Autunno
 
 > THE LABIRINT OF 2011 Francis wants to go from point A to point B of the drawing maze by following the shortest path possible and being able to move only horizontally or vertically. It cannot naturally cross the walls (marked with a larger line in the drawing) and the walls must remain outside. How many squares will he have to go through (not counting those of A and B)?
 
-![[src_bocconi_autunno_2010__Q01.png]]
+![[src_bocconi_autunno_2010__q01.png]]
 
 **Answer:** 18
-[[src_bocconi_autunno_2010__Q01]]
+[[Quesiti/src_bocconi_autunno_2010#q01|src_bocconi_autunno_2010__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Giochi d'Autunno
 > Chiara has two younger brothers. The product of the ages of the three children is 35, their sum is 13. What is Chiara's age?
 
 **Answer:** 7
-[[src_bocconi_autunno_2010__Q02]]
+[[Quesiti/src_bocconi_autunno_2010#q02|src_bocconi_autunno_2010__Q02]]
 
 
 
@@ -106,7 +106,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 > The LIGHT SIGHT works perfectly, except for the fact that a figure never lights up. That night, Luke woke up one first time and on the alarm clock read the following time: $\boxed{0}$ h $\boxed{4}$ $\boxed{5}$ min Then he woke up a second time - more than 1 hour but less than 2 hours after the first time - and saw the time $\boxed{0}$ h $\boxed{5}$ $\boxed{8}$ min What time was it when Luke woke up the first time?
 
 **Answer:** 4 h 45 min
-[[src_bocconi_autunno_2010__Q03]]
+[[Quesiti/src_bocconi_autunno_2010#q03|src_bocconi_autunno_2010__Q03]]
 
 
 
@@ -121,7 +121,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 > Debora si è appassionata ad un gioco con i fiammiferi in cui segue meticolosamente alcune regole. Alla prima mossa mette un fiammifero sul tavolo. Nella seconda, alle sue estremità appoggia due nuovi fiammiferi (sul loro punto di mezzo). Con la terza mossa, appoggia (sempre nel loro punto medio) 4 nuovi fiammiferi alle 4 estremità libere. Quando due estremità risultano molto vicine, come per esempio nelle situazioni indicate sulla figura con delle frecce, queste non possono quindi "ospitare" nuovi fiammiferi. Nella quarta mossa continua il gioco con 4 nuovi fiammiferi.
 > Quanti fiammiferi ci saranno sul tavolo dopo la sesta mossa?
 
-![[src_bocconi_autunno_2010__Q04.png]]
+![[src_bocconi_autunno_2010__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -138,10 +138,10 @@ Time of Luke's first awakening with a switch off on the alarm clock
 
 > With the matches, Deborah has become passionate about a game of matches in which she follows some rules meticulously. On the first move, put a match on the table. In the second, it supports two new matches (in their middle) at its ends. With the third move, support (always in their midpoint) 4 new matches at the 4 free ends. When two ends are very close together, such as in the situations indicated on the figure with arrows, these cannot therefore "host" new matches. In the fourth move, the game continues with four new matches. How many matches will be on the table after the sixth move?
 
-![[src_bocconi_autunno_2010__Q04.png]]
+![[src_bocconi_autunno_2010__q04.png]]
 
 **Answer:** 23
-[[src_bocconi_autunno_2010__Q04]]
+[[Quesiti/src_bocconi_autunno_2010#q04|src_bocconi_autunno_2010__Q04]]
 
 
 
@@ -158,7 +158,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 > • la somma dei quattro numeri di ogni riga sia sempre la stessa;
 > • i numeri della riga superiore siano ordinati dal minore al maggiore (da sinistra a destra).
 
-![[src_bocconi_autunno_2010__Q05.png]]
+![[src_bocconi_autunno_2010__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -175,10 +175,10 @@ Time of Luke's first awakening with a switch off on the alarm clock
 
 > A MAGICAL RETANGLE Write all integers from 1 to 8 in the rectangular boxes so that: • the sum of the two numbers in each column is always the same; • the sum of the four numbers in each row is always the same; • the numbers in the upper row are ordered from minor to major (from left to right).
 
-![[src_bocconi_autunno_2010__Q05.png]]
+![[src_bocconi_autunno_2010__q05.png]]
 
 **Answer:** riga superiore 1 4 6 7; riga inferiore 8 5 3 2
-[[src_bocconi_autunno_2010__Q05]]
+[[Quesiti/src_bocconi_autunno_2010#q05|src_bocconi_autunno_2010__Q05]]
 
 
 
@@ -210,7 +210,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 > DUE EQUAL SUMMARY $103 + \_\ \_ = \_\ 2 + \_\ \_ + 4$ Place all digits 5 to 9 in the two members of the equality instead of the strings so that equality is satisfied. What's the number you add to 103? (The question admits more than one solution; only one must be indicated.)
 
 **Answer:** 59 o 68
-[[src_bocconi_autunno_2010__Q06]]
+[[Quesiti/src_bocconi_autunno_2010#q06|src_bocconi_autunno_2010__Q06]]
 
 
 
@@ -246,7 +246,7 @@ Selecting the youngest of four friends with only one mind
 > THE FOUR FRIENDS Here are the statements made by four friends: Anna: "I am the oldest". Carla: "I am neither the oldest nor the youngest". Liliana: "I am not the youngest". Milena: "I am the youngest". Who, of the four friends, is actually the youngest?
 
 **Answer:** Milena
-[[src_bocconi_autunno_2010__Q07]]
+[[Quesiti/src_bocconi_autunno_2010#q07|src_bocconi_autunno_2010__Q07]]
 
 
 
@@ -276,7 +276,7 @@ Selecting the youngest of four friends with only one mind
 > Today, Angelo is a quarter of his mother's age. When he turns 18, his mother will be three times his age. How old is Angelo now?
 
 **Answer:** 12
-[[src_bocconi_autunno_2010__Q08]]
+[[Quesiti/src_bocconi_autunno_2010#q08|src_bocconi_autunno_2010__Q08]]
 
 
 
@@ -290,7 +290,7 @@ Selecting the youngest of four friends with only one mind
 > IL DÉCOUPAGE DELL'AUTUNNO 2010
 > Forza! Dividete la figura in tre parti della stessa forma e di uguale dimensione (le tre parti devono cioè essere completamente sovrapponibili, anche eventualmente mediante qualche rotazione o ribaltamento).
 
-![[src_bocconi_autunno_2010__Q09.png]]
+![[src_bocconi_autunno_2010__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -306,9 +306,9 @@ Selecting the youngest of four friends with only one mind
 
 > The Declaration of Autumn 2010 Force! Divide the figure into three parts of the same shape and size (i.e. the three parts must be completely overlapping, even if by some rotation or overturning).
 
-![[src_bocconi_autunno_2010__Q09.png]]
+![[src_bocconi_autunno_2010__q09.png]]
 
-[[src_bocconi_autunno_2010__Q09]]
+[[Quesiti/src_bocconi_autunno_2010#q09|src_bocconi_autunno_2010__Q09]]
 
 
 
@@ -338,7 +338,7 @@ Selecting the youngest of four friends with only one mind
 > 2011 is NOT divisible by 7 Find the smallest positive integer whose writing ends with 2011 and is divisible by 7.
 
 **Answer:** 32011
-[[src_bocconi_autunno_2010__Q10]]
+[[Quesiti/src_bocconi_autunno_2010#q10|src_bocconi_autunno_2010__Q10]]
 
 
 
@@ -368,7 +368,7 @@ Selecting the youngest of four friends with only one mind
 > Two clocks were charged and started at the same time today. But the first goes on for eight minutes every hour, the second for six. What time is it exactly when, still today, the first clock indicates 7:09 p.m. and the second 6:53 p.m.?
 
 **Answer:** 18 h 05 min
-[[src_bocconi_autunno_2010__Q11]]
+[[Quesiti/src_bocconi_autunno_2010#q11|src_bocconi_autunno_2010__Q11]]
 
 
 
@@ -399,7 +399,7 @@ Selecting the youngest of four friends with only one mind
 > IN A parallel-piped room (6 m wide, 8 m long, and 4 m high) a spider has placed itself comfortably on one of the vertices. The other seven peaks have as many flies, trying to stay still (one for each summit). The spider then decides to eat them, one by one, before returning to the starting point, so as to cover the shortest possible distance. What is the minimum distance?
 
 **Answer:** 44 m
-[[src_bocconi_autunno_2010__Q12]]
+[[Quesiti/src_bocconi_autunno_2010#q12|src_bocconi_autunno_2010__Q12]]
 
 
 
@@ -414,7 +414,7 @@ Selecting the youngest of four friends with only one mind
 > Partendo da A, tracciate come in figura un segmento di 5 cm. Poi, rispetto a questa direzione, "girate" in senso orario di x gradi sessagesimali (con x numero intero positivo). Tracciate un altro segmento di 5 cm e ripetete, come in figura, l'operazione di "girare" in senso orario di x gradi. Continuate così fino a ritornare al punto A.
 > Quanto vale, al massimo, x ?
 
-![[src_bocconi_autunno_2010__Q13.png]]
+![[src_bocconi_autunno_2010__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -431,10 +431,10 @@ Selecting the youngest of four friends with only one mind
 
 > POLIGONAL TRACES Starting from A, trace a segment of 5 cm as shown in Figure 1. Then, in relation to this direction, "turn" clockwise of x sexagesimal degrees (with x positive integer). Draw another 5 cm segment and repeat, as shown in the figure, the operation of "rotating" clockwise by x degrees. Continue like this until you get back to point A. What's the maximum value of x?
 
-![[src_bocconi_autunno_2010__Q13.png]]
+![[src_bocconi_autunno_2010__q13.png]]
 
 **Answer:** 179
-[[src_bocconi_autunno_2010__Q13]]
+[[Quesiti/src_bocconi_autunno_2010#q13|src_bocconi_autunno_2010__Q13]]
 
 
 
@@ -463,7 +463,7 @@ Selecting the youngest of four friends with only one mind
 > What is the angle, less than a flat angle, formed by the hands of the clock at 2:45 p.m.? (The two handles are assimilated to semirettes and are assumed to move continuously).
 
 **Answer:** 172^\circ 30'
-[[src_bocconi_autunno_2010__Q14]]
+[[Quesiti/src_bocconi_autunno_2010#q14|src_bocconi_autunno_2010__Q14]]
 
 
 
@@ -494,7 +494,7 @@ Selecting the youngest of four friends with only one mind
 > RENATO has 1,000 tokens at his disposal on which he can read all the numbers from 1 to 1,000. How many tokens must you minimize to make sure that none of the remaining tokens have the same number as the product of the numbers of the other two (remaining) tokens?
 
 **Answer:** 30
-[[src_bocconi_autunno_2010__Q15]]
+[[Quesiti/src_bocconi_autunno_2010#q15|src_bocconi_autunno_2010__Q15]]
 
 
 
@@ -511,7 +511,7 @@ Selecting the youngest of four friends with only one mind
 > • la somma dei cinque numeri di ogni riga sia sempre la stessa;
 > • la somma dei due numeri disposti simmetricamente rispetto alla casella centrale sia sempre la stessa.
 
-![[src_bocconi_autunno_2010__Q16.png]]
+![[src_bocconi_autunno_2010__q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -528,10 +528,10 @@ Selecting the youngest of four friends with only one mind
 
 > MAGICAL RETANGLE Write all integers from 1 to 15 (except the two that have already been inserted) in the boxes of the rectangle so that: • the sum of the three numbers in each column is always the same; • the sum of the five numbers in each row is always the same; • the sum of the two numbers arranged symmetrically with respect to the center box is always the same.
 
-![[src_bocconi_autunno_2010__Q16.png]]
+![[src_bocconi_autunno_2010__q16.png]]
 
 **Answer:** riga sup. 5 14 4 7 10; riga centr. 13 1 8 15 3; riga inf. 6 9 12 2 11
-[[src_bocconi_autunno_2010__Q16]]
+[[Quesiti/src_bocconi_autunno_2010#q16|src_bocconi_autunno_2010__Q16]]
 
 
 
@@ -562,7 +562,7 @@ Selecting the youngest of four friends with only one mind
 > The Desiderio Triangle is intersected by a triangle whose sides measure 8 cm; 25.6 cm; 30.4 cm respectively . What is the size (in degrees) of the largest of the angles of the triangle?
 
 **Answer:** 120^\circ
-[[src_bocconi_autunno_2010__Q17]]
+[[Quesiti/src_bocconi_autunno_2010#q17|src_bocconi_autunno_2010__Q17]]
 
 
 
@@ -593,4 +593,4 @@ Selecting the youngest of four friends with only one mind
 > But Amerigo is struggling with a calculation. Help him calculate the value of this expression: $1 \times 3 - 5 \times 7 + 9 \times 11 - 13 \times 15 + \ldots - 2005 \times 2007 + 2009 \times 2011$
 
 **Answer:** 2 024 067
-[[src_bocconi_autunno_2010__Q18]]
+[[Quesiti/src_bocconi_autunno_2010#q18|src_bocconi_autunno_2010__Q18]]

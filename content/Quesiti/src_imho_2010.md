@@ -35,7 +35,7 @@ level: IMO
 
 > Determine all functions $f\colon \mathbb{R} \to \mathbb{R}$ such that the equality $$f(\lfloor x \rfloor y) = f(x)f(y)$$ holds for all $x, y \in \mathbb{R}$. (Here $\lfloor z \rfloor$ denotes the greatest integer less than or equal to $z$.)
 
-[[src_imho_2010__Q01]]
+[[Quesiti/src_imho_2010#q01|src_imho_2010__Q01]]
 
 
 
@@ -64,7 +64,7 @@ In the case of the 'C' range, the 'C' range shall be defined as the 'C' range, t
 
 > Let $I$ be the incenter of triangle $ABC$ and let $\Gamma$ be its circumcircle. Let the line $AI$ intersect $\Gamma$ again at $D$. Let $E$ be a point on the arc $\widehat{BDC}$ and $F$ a point on the side $BC$ such that $$\angle BAF = \angle CAE < \tfrac{1}{2}\angle BAC.$$ Finally, let $G$ be the midpoint of the segment $IF$. Prove that the lines $DG$ and $EI$ intersect on $\Gamma$.
 
-[[src_imho_2010__Q02]]
+[[Quesiti/src_imho_2010#q02|src_imho_2010__Q02]]
 
 
 
@@ -93,7 +93,7 @@ In the case of the 'C' range, the 'C' range shall be defined as the 'C' range, t
 
 > Let $\mathbb{N}$ be the set of positive integers. Determine all functions $g\colon \mathbb{N} \to \mathbb{N}$ such that $$(g(m) + n)(m + g(n))$$ is a perfect square for all $m, n \in \mathbb{N}$.
 
-[[src_imho_2010__Q03]]
+[[Quesiti/src_imho_2010#q03|src_imho_2010__Q03]]
 
 
 
@@ -120,7 +120,7 @@ In the case of the 'C' range, the 'C' range shall be defined as the 'C' range, t
 
 > Let $P$ be a point inside the triangle $ABC$. The lines $AP$, $BP$ and $CP$ intersect the circumcircle $\Gamma$ of triangle $ABC$ again at the points $K$, $L$ and $M$ respectively. The tangent to $\Gamma$ at $C$ intersects the line $AB$ at $S$. Suppose that $SC = SP$. Prove that $MK = ML$.
 
-[[src_imho_2010__Q04]]
+[[Quesiti/src_imho_2010#q04|src_imho_2010__Q04]]
 
 
 
@@ -159,7 +159,7 @@ In the case of the 'C' range, the 'C' range shall be defined as the 'C' range, t
 > 
 > Determine whether there is a finite sequence of such operations that results in boxes $B_1, B_2, B_3, B_4, B_5$ being empty and box $B_6$ containing exactly $2010^{2010^{2010}}$ coins. (Note that $a^{b^c} = a^{(b^c)}$.)
 
-[[src_imho_2010__Q05]]
+[[Quesiti/src_imho_2010#q05|src_imho_2010__Q05]]
 
 
 
@@ -188,4 +188,4 @@ In the case of the 'C' range, the 'C' range shall be defined as the 'C' range, t
 
 > Let $a_1, a_2, a_3, \ldots$ be a sequence of positive real numbers. Suppose that for some positive integer $s$, we have $$a_n = \max\{a_k + a_{n-k} \mid 1 \le k \le n-1\}$$ for all $n > s$. Prove that there exist positive integers $\ell$ and $N$, with $\ell \le s$ and such that $a_n = a_{\ell} + a_{n-\ell}$ for all $n \ge N$.
 
-[[src_imho_2010__Q06]]
+[[Quesiti/src_imho_2010#q06|src_imho_2010__Q06]]

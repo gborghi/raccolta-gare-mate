@@ -32,7 +32,7 @@ level: IMO
 
 > Prove that there is one and only one triangle whose side lengths are consecutive integers, and one of whose angles is twice as large as another.
 
-[[src_imo_1968_all__Q01]]
+[[Quesiti/src_imo_1968_all#q01|src_imo_1968_all__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: IMO
 
 > Find all natural numbers $x$ such that the product of their digits (in decimal notation) is equal to $x^2 - 10x - 22$.
 
-[[src_imo_1968_all__Q02]]
+[[Quesiti/src_imo_1968_all#q02|src_imo_1968_all__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: IMO
 > 
 > (c) if $\Delta > 0$, there is more than one solution.
 
-[[src_imo_1968_all__Q03]]
+[[Quesiti/src_imo_1968_all#q03|src_imo_1968_all__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: IMO
 
 > Prove that in every tetrahedron there is a vertex such that the three edges meeting there have lengths which are the sides of a triangle.
 
-[[src_imo_1968_all__Q04]]
+[[Quesiti/src_imo_1968_all#q04|src_imo_1968_all__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: IMO
 > 
 > For $a = 1$, give an example of a non-constant function with the required properties.
 
-[[src_imo_1968_all__Q05]]
+[[Quesiti/src_imo_1968_all#q05|src_imo_1968_all__Q05]]
 
 
 
@@ -194,4 +194,4 @@ level: IMO
 
 > For every natural number $n$, evaluate the sum $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$ (The symbol $\lfloor x \rfloor$ denotes the greatest integer not exceeding $x$.)
 
-[[src_imo_1968_all__Q06]]
+[[Quesiti/src_imo_1968_all#q06|src_imo_1968_all__Q06]]

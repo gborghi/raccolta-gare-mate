@@ -50,7 +50,7 @@ level: triennio
 > - **(E)** 21.
 
 **Answer:** C
-[[src_archimede_2011_triennio__Q03]]
+[[Quesiti/src_archimede_2011_triennio#q03|src_archimede_2011_triennio__Q03]]
 
 
 
@@ -92,7 +92,7 @@ level: triennio
 > - **(E)** 2012.
 
 **Answer:** B
-[[src_archimede_2011_triennio__Q04]]
+[[Quesiti/src_archimede_2011_triennio#q04|src_archimede_2011_triennio__Q04]]
 
 
 
@@ -133,7 +133,7 @@ level: triennio
 > - **(E)** 80.
 
 **Answer:** D
-[[src_archimede_2011_triennio__Q09]]
+[[Quesiti/src_archimede_2011_triennio#q09|src_archimede_2011_triennio__Q09]]
 
 
 
@@ -175,7 +175,7 @@ level: triennio
 > - **(E)** At least five.
 
 **Answer:** A
-[[src_archimede_2011_triennio__Q10]]
+[[Quesiti/src_archimede_2011_triennio#q10|src_archimede_2011_triennio__Q10]]
 
 
 
@@ -225,7 +225,7 @@ level: triennio
 > - **(E)** 4.
 
 **Answer:** B
-[[src_archimede_2011_triennio__Q11]]
+[[Quesiti/src_archimede_2011_triennio#q11|src_archimede_2011_triennio__Q11]]
 
 
 
@@ -268,7 +268,7 @@ level: triennio
 > - **(E)** More than eight.
 
 **Answer:** E
-[[src_archimede_2011_triennio__Q12]]
+[[Quesiti/src_archimede_2011_triennio#q12|src_archimede_2011_triennio__Q12]]
 
 
 
@@ -313,7 +313,7 @@ Most liars among four friends with statements
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[src_archimede_2011_triennio__Q15]]
+[[Quesiti/src_archimede_2011_triennio#q15|src_archimede_2011_triennio__Q15]]
 
 
 
@@ -355,7 +355,7 @@ Most liars among four friends with statements
 > - **(E)** 9 4.
 
 **Answer:** D
-[[src_archimede_2011_triennio__Q16]]
+[[Quesiti/src_archimede_2011_triennio#q16|src_archimede_2011_triennio__Q16]]
 
 
 
@@ -397,7 +397,7 @@ Most liars among four friends with statements
 > - **(E)** b < 2 e c < a.
 
 **Answer:** A
-[[src_archimede_2011_triennio__Q17]]
+[[Quesiti/src_archimede_2011_triennio#q17|src_archimede_2011_triennio__Q17]]
 
 
 
@@ -442,7 +442,7 @@ Most liars among four friends with statements
 > - **(E)** 46.
 
 **Answer:** C
-[[src_archimede_2011_triennio__Q18]]
+[[Quesiti/src_archimede_2011_triennio#q18|src_archimede_2011_triennio__Q18]]
 
 
 
@@ -484,7 +484,7 @@ Most liars among four friends with statements
 > - **(E)** 16.
 
 **Answer:** C
-[[src_archimede_2011_triennio__Q19]]
+[[Quesiti/src_archimede_2011_triennio#q19|src_archimede_2011_triennio__Q19]]
 
 
 
@@ -526,7 +526,7 @@ Most liars among four friends with statements
 > - **(E)** 12 cm.
 
 **Answer:** E
-[[src_archimede_2011_triennio__Q20]]
+[[Quesiti/src_archimede_2011_triennio#q20|src_archimede_2011_triennio__Q20]]
 
 
 
@@ -570,7 +570,7 @@ Most liars among four friends with statements
 > - **(E)** There's not enough data.
 
 **Answer:** B
-[[src_archimede_2011_triennio__Q21]]
+[[Quesiti/src_archimede_2011_triennio#q21|src_archimede_2011_triennio__Q21]]
 
 
 
@@ -614,7 +614,7 @@ Most liars among four friends with statements
 > - **(E)** √ 5/2.
 
 **Answer:** C
-[[src_archimede_2011_triennio__Q22]]
+[[Quesiti/src_archimede_2011_triennio#q22|src_archimede_2011_triennio__Q22]]
 
 
 
@@ -659,7 +659,7 @@ Most liars among four friends with statements
 > - **(E)** It's impossible to determine.
 
 **Answer:** C
-[[src_archimede_2011_triennio__Q23]]
+[[Quesiti/src_archimede_2011_triennio#q23|src_archimede_2011_triennio__Q23]]
 
 
 
@@ -702,7 +702,7 @@ Most liars among four friends with statements
 > - **(E)** 6034.
 
 **Answer:** A
-[[src_archimede_2011_triennio__Q24]]
+[[Quesiti/src_archimede_2011_triennio#q24|src_archimede_2011_triennio__Q24]]
 
 
 
@@ -746,4 +746,4 @@ Most liars among four friends with statements
 > - **(E)** 168.
 
 **Answer:** E
-[[src_archimede_2011_triennio__Q25]]
+[[Quesiti/src_archimede_2011_triennio#q25|src_archimede_2011_triennio__Q25]]

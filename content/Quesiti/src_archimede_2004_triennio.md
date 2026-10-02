@@ -37,7 +37,7 @@ level: triennio
 > 
 > (a) 25 November, (b) 26 November, (c) 27 November, (d) 28 November and (e) 29 November.
 
-[[src_archimede_2004_triennio__Q02]]
+[[Quesiti/src_archimede_2004_triennio#q02|src_archimede_2004_triennio__Q02]]
 
 
 
@@ -67,7 +67,7 @@ level: triennio
 > 
 > (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
 
-[[src_archimede_2004_triennio__Q03]]
+[[Quesiti/src_archimede_2004_triennio#q03|src_archimede_2004_triennio__Q03]]
 
 
 
@@ -97,7 +97,7 @@ level: triennio
 > 
 > (A) $a^2 + b^2 + c^2$ is divisible by 18, (B) $a + b + c$ is divisible by 9, (C) $a + b + c$ is divisible by 9, (D) $(a+b+c)^2$ is divisible by 9, (E) $a^2 + b^2 + c^2$ is divisible.
 
-[[src_archimede_2004_triennio__Q04]]
+[[Quesiti/src_archimede_2004_triennio#q04|src_archimede_2004_triennio__Q04]]
 
 
 
@@ -129,7 +129,7 @@ level: triennio
 > 
 > (A) $2\sqrt{2} + 2$, (B) $2\sqrt{2} - 2$, (C) $3\sqrt{2} + 3$, (D) $3\sqrt{2} - 3$, (E) $2\sqrt{2} + 3$.
 
-[[src_archimede_2004_triennio__Q05]]
+[[Quesiti/src_archimede_2004_triennio#q05|src_archimede_2004_triennio__Q05]]
 
 
 
@@ -165,7 +165,7 @@ level: triennio
 > (see figure)
 
 **Answer:** Ö/65
-[[src_archimede_2004_triennio__Q06]]
+[[Quesiti/src_archimede_2004_triennio#q06|src_archimede_2004_triennio__Q06]]
 
 
 
@@ -195,7 +195,7 @@ level: triennio
 > 
 > (A) 180, (B) 216, (C) 360, (D) 396, (E) 1080.
 
-[[src_archimede_2004_triennio__Q07]]
+[[Quesiti/src_archimede_2004_triennio#q07|src_archimede_2004_triennio__Q07]]
 
 
 
@@ -225,7 +225,7 @@ level: triennio
 > 
 > (A) less than in 2002, (B) equal to that of 2002, (C) greater than that of 2002, but less than four times the expenditure of 2002, (D) equal to four times the expenditure of 2002, (E) equal to twice the expenditure of 2002.
 
-[[src_archimede_2004_triennio__Q08]]
+[[Quesiti/src_archimede_2004_triennio#q08|src_archimede_2004_triennio__Q08]]
 
 
 
@@ -254,7 +254,7 @@ This is the difference between the two.
 > 
 > (A) $61200\ \text{cm}^3$, (B) $63920\ \text{cm}^3$, (C) $68040\ \text{cm}^3$, (D) $75240\ \text{cm}^3$, (E) $75854\ \text{cm}^3$.
 
-[[src_archimede_2004_triennio__Q10]]
+[[Quesiti/src_archimede_2004_triennio#q10|src_archimede_2004_triennio__Q10]]
 
 
 
@@ -284,7 +284,7 @@ This is the difference between the two.
 > 
 > (A) 1, (B) 2, (C) 3, (D) the data are inconsistent, (E) the data is missing to answer.
 
-[[src_archimede_2004_triennio__Q11]]
+[[Quesiti/src_archimede_2004_triennio#q11|src_archimede_2004_triennio__Q11]]
 
 
 
@@ -315,7 +315,7 @@ This is the difference between the two.
 > 
 > (A) 220 cm, (B) 410 cm, (C) 490 cm, (D) 581 cm, (E) there are no data to answer.
 
-[[src_archimede_2004_triennio__Q12]]
+[[Quesiti/src_archimede_2004_triennio#q12|src_archimede_2004_triennio__Q12]]
 
 
 
@@ -350,7 +350,7 @@ This is the difference between the two.
 > 
 > (see figure)
 
-[[src_archimede_2004_triennio__Q13]]
+[[Quesiti/src_archimede_2004_triennio#q13|src_archimede_2004_triennio__Q13]]
 
 
 
@@ -380,7 +380,7 @@ This is the difference between the two.
 > 
 > (A) None, (B) 1, (C) 2, (D) 3, (E) more than 3.
 
-[[src_archimede_2004_triennio__Q14]]
+[[Quesiti/src_archimede_2004_triennio#q14|src_archimede_2004_triennio__Q14]]
 
 
 
@@ -410,4 +410,4 @@ This is the difference between the two.
 > 
 > (A) $\dfrac{1}{2^{2004}}$, (B) $\dfrac{1}{2004}$, (C) $\dfrac{2}{2005}$, (D) $\dfrac{1}{2004 \cdot 2005}$, (E) $\dfrac{2004}{2005}$.
 
-[[src_archimede_2004_triennio__Q15]]
+[[Quesiti/src_archimede_2004_triennio#q15|src_archimede_2004_triennio__Q15]]

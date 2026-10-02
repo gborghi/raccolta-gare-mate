@@ -35,7 +35,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 > For which pairs of $(x, y)$ relative integers is $|x^2 - 3y^2 + 2xy| = 1$ true?
 
 **Answer:** (1,0),(-1,0)
-[[src_kangourou_2004_student_finale__QS1]]
+[[Quesiti/src_kangourou_2004_student_finale#qs1|src_kangourou_2004_student_finale__QS1]]
 
 
 
@@ -46,7 +46,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 
 *Area regione interna a beta esterna a gamma*
 
-![[src_kangourou_2004_student_finale__probS2.png]]
+![[src_kangourou_2004_student_finale__probs2.png]]
 
 ```tikz
 \begin{document}
@@ -85,7 +85,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 
 *Area internal region with external beta range*
 
-![[src_kangourou_2004_student_finale__probS2.png]]
+![[src_kangourou_2004_student_finale__probs2.png]]
 
 ```tikz
 \begin{document}
@@ -113,7 +113,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 > A circumference $\beta$ with a radius of $\sqrt{2}$ centimetres and a circumference $\gamma$ with a radius of $2$ centimetres and a centre $C$ belonging to $\beta$ are given in the plane. Calculate the area of the internal region at $\beta$ and the external region at $\gamma$.
 
 **Answer:** 2
-[[src_kangourou_2004_student_finale__QS2]]
+[[Quesiti/src_kangourou_2004_student_finale#qs2|src_kangourou_2004_student_finale__QS2]]
 
 
 
@@ -124,7 +124,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 
 *Max tessere a croce sulla scacchiera 8x8*
 
-![[src_kangourou_2004_student_finale__probS3.png]]
+![[src_kangourou_2004_student_finale__probs3.png]]
 
 > Sistemiamo in una scacchiera quadrata $8 \times 8$ delle tessere a forma di croce simmetrica come quella in figura, formate dall'accostamento di 5 quadrati di dimensione identica alle celle della scacchiera, in modo che:
 > - ciascuna di esse vada a coprire esattamente (sovrapponendovisi) 5 delle 64 caselle della scacchiera;
@@ -145,14 +145,14 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 
 *Max cross-sectional tiles on the 8x8 chessboard *
 
-![[src_kangourou_2004_student_finale__probS3.png]]
+![[src_kangourou_2004_student_finale__probs3.png]]
 
 > We place in a square chessboard $8 \times 8$ symmetrical cross-shaped tiles such as the one in the figure, formed by the approximation of 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 chessboard boxes; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
 > 
 > How many cards can a chessboard hold? (see figure)
 
 **Answer:** 8
-[[src_kangourou_2004_student_finale__QS3]]
+[[Quesiti/src_kangourou_2004_student_finale#qs3|src_kangourou_2004_student_finale__QS3]]
 
 
 
@@ -181,7 +181,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 > A calculator executes the following instructions: (1) initiate $X$ to $3$ and $S$ to $0$, (2) increase the value of $X$ to $2$, (3) increase the value of $S$ to $X$, (4) if $S$ has at least $5$ digits go to the instruction (5) otherwise go to the instruction (2) and start from that position, (5) print the value of $X$ and finish. What will be the value of $X$ to be printed in step (5)?
 
 **Answer:** 10200
-[[src_kangourou_2004_student_finale__QS4]]
+[[Quesiti/src_kangourou_2004_student_finale#qs4|src_kangourou_2004_student_finale__QS4]]
 
 
 
@@ -210,7 +210,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 > Suppose you know that (for $n = 1, 2, \ldots$) $a_n$ is the square of a nonzero integer and the difference $a_{n+1} - a_n$ is a prime (positive) or the square of a prime. It shows that all possible sequences $\{a_n\}$ that meet these requirements are finite and determines the longest.
 
 **Answer:** lunghezza 7
-[[src_kangourou_2004_student_finale__QS5]]
+[[Quesiti/src_kangourou_2004_student_finale#qs5|src_kangourou_2004_student_finale__QS5]]
 
 
 
@@ -239,4 +239,4 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 > Consider a point $P$ within a regular side tetrahedron $1$. It shows that the sum of the distances of $P$ from the six vertebrae of the tetrahedron is not less than $\dfrac{2\sqrt{2}}{3}$ and identifies any $P$ points for which that sum is exactly $\dfrac{2\sqrt{2}}{3}$.
 
 **Answer:** 3sqrt2/2 baricentro
-[[src_kangourou_2004_student_finale__QS6]]
+[[Quesiti/src_kangourou_2004_student_finale#qs6|src_kangourou_2004_student_finale__QS6]]

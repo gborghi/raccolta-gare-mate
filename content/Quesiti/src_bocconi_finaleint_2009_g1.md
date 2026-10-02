@@ -24,7 +24,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 1 - I QUADRAMINI (coefficiente 1)
 > Mathias dispone di una scacchiera rettangolare di $6 \times 5$ caselle e di un gioco di pezzi identici aventi la forma rappresentata in grigio nella figura (un tetramino a L). Quanti pezzi può al massimo collocare Mathias, senza sovrapposizioni, all'interno della scacchiera? Nota: si possono ruotare i pezzi.
 
-![[src_bocconi_finaleint_2009_g1__Q01.png]]
+![[src_bocconi_finaleint_2009_g1__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -41,10 +41,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > 1 - QUADRAMINIES (coefficient 1) Mathias has a rectangular chessboard of $6 \times 5$ boxes and a set of identical pieces with the shape represented in gray in the figure (a tetrammaton in L). How many pieces can Mathias put inside the chessboard without overlapping? Note: You can rotate the pieces.
 
-![[src_bocconi_finaleint_2009_g1__Q01.png]]
+![[src_bocconi_finaleint_2009_g1__q01.png]]
 
 **Answer:** 6
-[[src_bocconi_finaleint_2009_g1__Q01]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q01|src_bocconi_finaleint_2009_g1__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Mathias had more than 20 but less than 30. He gives a number to Mathilde and says, "I'll add three times the number of balls I just gave you and half the number of balls I have left. The result is exactly the same as the number of balls I had before I gave it to him. How many balls did Mathias have before I gave it to him?
 
 **Answer:** 25
-[[src_bocconi_finaleint_2009_g1__Q02]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q02|src_bocconi_finaleint_2009_g1__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 3 - MATHILDE's ETA (coefficient 3) Mathilde is 11 years old today, her younger brother is 7 and her mother 37. Mathilde writes her age: 11. Add the digits to this number, then multiply the result by 7 and write the result of the multiplication: 14. Then it starts again from the last number written: add the digits of this number, then multiply the result by 7 and write the result of the multiplication: 35. The first three numbers written are 11, 14, and 35. What number would Mathilde write?
 
 **Answer:** 119
-[[src_bocconi_finaleint_2009_g1__Q03]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q03|src_bocconi_finaleint_2009_g1__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 4 - SEARCH THE SQUARE (coefficient 4) Two rectangles of size $5\text{ cm} \times 6\text{ cm}$ and $3\text{ cm} \times 4\text{ cm}$ are arranged within a square, without overlapping. What is the minimum size of the side of the square?
 
 **Answer:** 8 cm
-[[src_bocconi_finaleint_2009_g1__Q04]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q04|src_bocconi_finaleint_2009_g1__Q04]]
 
 
 
@@ -167,7 +167,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 5 - AUTHORREFERENCE (coefficient 5) Complete the sentence in the box with the help of digits to make it true: $$1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18$$ In this box, the number of digits \ldots\ and 3 times the number of digits \ldots
 
 **Answer:** 1 e 3
-[[src_bocconi_finaleint_2009_g1__Q05]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q05|src_bocconi_finaleint_2009_g1__Q05]]
 
 
 
@@ -181,7 +181,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 6 - LA STELLA (coefficiente 6)
 > Collocate i numeri 5, 6, 7 e 9 sui quattro vertici della stella diversi da quello dove e gia collocato il 3 (vedi figura). Per ciascuno dei cinque segmenti, si calcola la somma dei due numeri alle sue estremita. I cinque numeri cosi ottenuti devono essere cinque numeri consecutivi.
 
-![[src_bocconi_finaleint_2009_g1__Q06.png]]
+![[src_bocconi_finaleint_2009_g1__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -198,10 +198,10 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 
 > 6 - THE STAR (coefficient 6) Place the numbers 5, 6, 7 and 9 on the four vertices of the star other than the one where the 3 is already placed (see figure). For each of the five segments, the sum of the two numbers at its ends is calculated. The five numbers thus obtained must be five consecutive numbers.
 
-![[src_bocconi_finaleint_2009_g1__Q06.png]]
+![[src_bocconi_finaleint_2009_g1__q06.png]]
 
 **Answer:** 2 soluzioni (es. con 3 in alto: 5 e 6 in alto ai lati, 7 e 9 in basso); le cinque somme sono cinque numeri consecutivi
-[[src_bocconi_finaleint_2009_g1__Q06]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q06|src_bocconi_finaleint_2009_g1__Q06]]
 
 
 
@@ -231,7 +231,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 7 - CON 4 E 6 (coefficient 7) What is the smallest number that is written solely with 4 and 6 digits (at least one of each), and such that divisions of this number by 4 and 6 give both integers?
 
 **Answer:** 4464
-[[src_bocconi_finaleint_2009_g1__Q07]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q07|src_bocconi_finaleint_2009_g1__Q07]]
 
 
 
@@ -245,7 +245,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 8 - SENZA TRIANGOLO EQUILATERO (coefficiente 8)
 > Su ciascuno dei 9 vertici del reticolo si puo collocare o un pione bianco o un pione nero, oppure lasciare il posto vuoto. Non si devono mai collocare tre pioni dello stesso colore ai vertici di uno stesso triangolo equilatero, qualunque siano la sua dimensione e il suo orientamento. Un pione bianco e gia stato collocato (vedi figura). Collocate il piu grande numero possibile di pioni.
 
-![[src_bocconi_finaleint_2009_g1__Q08.png]]
+![[src_bocconi_finaleint_2009_g1__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -262,10 +262,10 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 
 > 8 - NO Equivalent Triangle (coefficient 8) On each of the 9 vertices of the grid, either a white or a black pivot can be placed or the space can be left empty. Never place three same-colored poles at the vertices of the same equilateral triangle, whatever its size and orientation. A white stone and has already been placed (see figure). Place as many pawns as possible.
 
-![[src_bocconi_finaleint_2009_g1__Q08.png]]
+![[src_bocconi_finaleint_2009_g1__q08.png]]
 
 **Answer:** configurazione mostrata in figura (numero massimo di pioni)
-[[src_bocconi_finaleint_2009_g1__Q08]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q08|src_bocconi_finaleint_2009_g1__Q08]]
 
 
 
@@ -295,7 +295,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 9 - The DADI Cube (coefficient 9) A cube $3 \times 3 \times 3$ is formed by assembling 27 identical dice. The faces of a dice carry all the digits from 1 to 6, and the sum of the points on two opposite faces is always 7. What is the minimum sum of all points visible on the surface of the cube?
 
 **Answer:** 90
-[[src_bocconi_finaleint_2009_g1__Q09]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q09|src_bocconi_finaleint_2009_g1__Q09]]
 
 
 
@@ -325,7 +325,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 10 - The BICKING GAME (coefficient 10) There are nine glasses on a table. One and drunk, eight are down. One move consists of turning seven glasses (any glass can be turned backwards or backwards). At least, how many moves do you have to play to get all the glasses drunk?
 
 **Answer:** 4
-[[src_bocconi_finaleint_2009_g1__Q10]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q10|src_bocconi_finaleint_2009_g1__Q10]]
 
 
 
@@ -339,7 +339,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 11 - DAL RETTANGOLO AL QUADRATO (coefficiente 11)
 > Si ritaglia il rettangolo lungo i sette tratti puntinati. Tutti i segmenti del taglio hanno per lunghezza dei numeri interi di centimetri. Facendo scivolare i due pezzi cosi ottenuti, senza capovolgerli, si puo ricostituire, senza buchi ne sovrapposizioni, un quadrato il cui lato misura un numero intero di centimetri. Qual e, al minimo, in cm, la lunghezza totale del taglio? Nota: la figura non rispetta le proporzioni.
 
-![[src_bocconi_finaleint_2009_g1__Q11.png]]
+![[src_bocconi_finaleint_2009_g1__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -356,10 +356,10 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 
 > 11 - FROM RETHANGEL TO SQUADER (coefficient 11) Cut the rectangle along the seven points. All segments of the cut have length integers of centimeters. By sliding the two pieces thus obtained, without flipping them over, one can reconstruct, without holes or overlapping, a square whose side measures an integer of centimeters. What is the total length of the cut, at least in cm? Note: the figure does not respect the proportions.
 
-![[src_bocconi_finaleint_2009_g1__Q11.png]]
+![[src_bocconi_finaleint_2009_g1__q11.png]]
 
 **Answer:** 31 cm
-[[src_bocconi_finaleint_2009_g1__Q11]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q11|src_bocconi_finaleint_2009_g1__Q11]]
 
 
 
@@ -389,7 +389,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 12 - The dog (coefficient 12) The base of Julien's dog's dog and a regular hexagon whose side measures 1 meter. The cat is closed and the dog is tied to the outside of the cat to a figure top with a 3-meter long rope. What, in square metres, is the area of the region that the dog can reach outside its litter? The exact answer is given using $\pi$ if necessary.
 
 **Answer:** $3\pi$ m$^2$
-[[src_bocconi_finaleint_2009_g1__Q12]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q12|src_bocconi_finaleint_2009_g1__Q12]]
 
 
 
@@ -419,7 +419,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 13 - DOUBLE COVER (coefficient 13) By placing a square of 4 cm on a triangle, up to two thirds of the triangle surface can be covered. By placing the triangle on the square, you can cover up to three quarters of the square's surface. What is the area of the triangle, in cm$^2$?
 
 **Answer:** 18 cm$^2$
-[[src_bocconi_finaleint_2009_g1__Q13]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q13|src_bocconi_finaleint_2009_g1__Q13]]
 
 
 
@@ -449,7 +449,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 14 - Simplified fractions (coefficient 14) Mathias has just invented a new method for simplifying fractions. To simplify the $\frac{49}{98}$ fraction, you simply delete the figure that appears on the numerator and denominator, i.e. 9: you get $\frac{4}{8}$, which is exactly equal to $\frac{49}{98}$. What other fractions of the form $\frac{a}{b}$ (where $a$ and $b$ are two-digit numbers, with a numerical value of nothing in common, and $a < b$) can Mathias correctly simplify with his method?
 
 **Answer:** $\frac{16}{64}$, $\frac{19}{95}$, $\frac{26}{65}$ (3 soluzioni)
-[[src_bocconi_finaleint_2009_g1__Q14]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q14|src_bocconi_finaleint_2009_g1__Q14]]
 
 
 
@@ -479,7 +479,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 > 15 - CUBI (coefficient 15) Mathias has a large number of identical white cubes. On each face of each of them draw a diagonal. How many different cubes do you get?
 
 **Answer:** 8
-[[src_bocconi_finaleint_2009_g1__Q15]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q15|src_bocconi_finaleint_2009_g1__Q15]]
 
 
 
@@ -509,7 +509,7 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 > 16 - The shape in the cube (coefficient 16) An ant starts from a vertex of a cube. Each shift consists of moving from one vertex to another along a cube's axis. At each vertex, for the next move, the ant chooses one of three possible spikes at random. The subsequent choices are independent of each other. Immediately after the seventh shift, what is the probability that the ant has passed through the eight vertices of the cube (counting the start)? It will respond in the form of an irreducible fraction.
 
 **Answer:** $\frac{2}{243}$
-[[src_bocconi_finaleint_2009_g1__Q16]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q16|src_bocconi_finaleint_2009_g1__Q16]]
 
 
 
@@ -523,7 +523,7 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 > 17 - IL BLASONE (coefficiente 17)
 > Il blasone di Maths-Chateau possiede un asse di simmetria verticale. I quattro archi di cerchio hanno lo stesso raggio. Messi uno di seguito all'altro, un arco piccolo e un arco grande formano esattamente un quarto di cerchio. La tangente all'arco grande e perpendicolare al segmento orizzontale e l'arco piccolo e tangente a ciascuna estremita di questo segmento. Tutti i punti di tangenza e di contatto sono perfetti. I raggi dei due cerchi misurano un numero intero di millimetri. Qual e il rapporto fra il piu grande e il piu piccolo? Si rispondera sotto forma di frazione irriducibile.
 
-![[src_bocconi_finaleint_2009_g1__Q17.png]]
+![[src_bocconi_finaleint_2009_g1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -540,10 +540,10 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 
 > 17 - BLASON (coefficient 17) The Maths-Chateau blade has an axis of vertical symmetry. The four circle arcs have the same radius. Set one after the other, a small bow and a large bow form exactly a quarter of a circle. The tangent to the large arc perpendicular to the horizontal segment and the small arc tangent to each end of this segment. All tangent and contact points are perfect. The radii of the two circles measure an integer number of millimeters. What's the relationship between the largest and the smallest? It will respond in the form of an irreducible fraction.
 
-![[src_bocconi_finaleint_2009_g1__Q17.png]]
+![[src_bocconi_finaleint_2009_g1__q17.png]]
 
 **Answer:** $\frac{39}{20}$
-[[src_bocconi_finaleint_2009_g1__Q17]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q17|src_bocconi_finaleint_2009_g1__Q17]]
 
 
 
@@ -557,7 +557,7 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 > 18 - DA 2 A 16 (coefficiente 18)
 > Collocate tutti i numeri da 2 a 16, in ragione di uno solo per disco. La somma dei numeri su ciascuna delle 9 linee tracciate deve essere sempre la stessa. Ai vertici del triangolo, i numeri devono essere collocati in modo che $a < b < c$.
 
-![[src_bocconi_finaleint_2009_g1__Q18.png]]
+![[src_bocconi_finaleint_2009_g1__q18.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
@@ -574,7 +574,7 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 
 > 18 - DA 2 A 16 (coefficient 18) Place all the numbers from 2 to 16, because only one per disk. The sum of the numbers on each of the nine lines drawn must always be the same. At the vertices of the triangle, the numbers must be placed so that $a < b < c$.
 
-![[src_bocconi_finaleint_2009_g1__Q18.png]]
+![[src_bocconi_finaleint_2009_g1__q18.png]]
 
 **Answer:** 2 soluzioni
-[[src_bocconi_finaleint_2009_g1__Q18]]
+[[Quesiti/src_bocconi_finaleint_2009_g1#q18|src_bocconi_finaleint_2009_g1__Q18]]

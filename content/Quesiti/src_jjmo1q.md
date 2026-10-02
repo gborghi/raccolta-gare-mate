@@ -33,7 +33,7 @@ level: JJMO
 
 > Calcolare la seguente espressione: $$18.6 \div 31 - 2.604 \div 3.1 - 0.8556 \div 0.31$$
 
-[[src_jjmo1q__Q01]]
+[[Quesiti/src_jjmo1q#q01|src_jjmo1q__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO
 
 > Trova tutti i numeri reali $x, y, z$ che soddisfano contemporaneamente tutte e tre le seguenti equazioni: $$\begin{cases} y + z = 3 \\ x + z = 5 \\ x + y = 4 \end{cases}$$
 
-[[src_jjmo1q__Q02]]
+[[Quesiti/src_jjmo1q#q02|src_jjmo1q__Q02]]
 
 
 
@@ -75,7 +75,7 @@ level: JJMO
 > $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$
 > Let $R$ be the intersection of line $AP$ with line $CD$, and let $S$ be the intersection of line $AQ$ with line $CD$. Find the value of $\dfrac{DS}{SR}$.
 
-![[src_jjmo1q__Q03.png]]
+![[src_jjmo1q__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -91,9 +91,9 @@ level: JJMO
 
 > Nel parallelo $ABCD$, due punti $P$ e $Q$ sono posizionati sul lato $BC$ in modo tale che $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$ $R$ sia l'intersezione della linea $AP$ con la linea $CD$, e $S$ sia l'intersezione della linea $AQ$ con la linea $CD$. Trova il valore di $\dfrac{DS}{SR}$.
 
-![[src_jjmo1q__Q03.png]]
+![[src_jjmo1q__q03.png]]
 
-[[src_jjmo1q__Q03]]
+[[Quesiti/src_jjmo1q#q03|src_jjmo1q__Q03]]
 
 
 
@@ -106,7 +106,7 @@ level: JJMO
 
 > In a regular tetrahedron $ABCD$, starting from vertex $A$, we traverse edges one at a time, each time moving to one of the other three vertices. We wish to return to $A$ after visiting the remaining three vertices $B$, $C$, $D$ each exactly once (so the path has exactly $4$ moves). How many such paths are there?
 
-![[src_jjmo1q__Q04.png]]
+![[src_jjmo1q__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -122,9 +122,9 @@ level: JJMO
 
 > In un tetraedro regolare $ABCD$, partendo dal vertice $A$, attraversiamo i bordi uno alla volta, ogni volta che ci muoviamo verso uno degli altri tre vertici. Vogliamo tornare a $A$ dopo aver visitato le tre vertici rimanenti $B$, $C$, $D$ ciascuna esattamente una volta (per cui il percorso ha esattamente $4$ movimenti). Quanti sono questi sentieri?
 
-![[src_jjmo1q__Q04.png]]
+![[src_jjmo1q__q04.png]]
 
-[[src_jjmo1q__Q04]]
+[[Quesiti/src_jjmo1q#q04|src_jjmo1q__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: JJMO
 
 > Tra gli integri da $1$ a $2003$, quanti hanno un numero pari di divisori positivi? Ad esempio, $6$ ha divisori positivi $1, 2, 3, 6$ (quattro in totale), quindi $6$ soddisfa questa condizione.
 
-[[src_jjmo1q__Q05]]
+[[Quesiti/src_jjmo1q#q05|src_jjmo1q__Q05]]
 
 
 
@@ -178,7 +178,7 @@ level: JJMO
 
 > Il triangolo $ABC$ deve soddisfare $AB = AC = 5$ e $BC = 6$. All'interno del triangolo, prendere un punto $D$ sul circolo del triangolo $ABC$. Il segmento $AD$ deve incontrare lato $AB$ a $E$ e lato $AC$ a $F$ (così $E$ si trova su $AB$ e $F$ si trova su $AC$, con $D$ tra $E$ e $F$). Date $DE = 1$ e $DF = 2$, si trova l'area del triangolo $DBC$.
 
-[[src_jjmo1q__Q06]]
+[[Quesiti/src_jjmo1q#q06|src_jjmo1q__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: JJMO
 
 > Considera un poligono convex le cui lunghezze laterali sono tutti integri positivi, e in cui un lato ha lunghezza $18$. Trova tutti i valori che possono verificarsi come lunghezza laterale di un tale poligono (cioè, trova tutti gli enti positivi che possono essere la lunghezza di qualche lato).
 
-[[src_jjmo1q__Q07]]
+[[Quesiti/src_jjmo1q#q07|src_jjmo1q__Q07]]
 
 
 
@@ -232,7 +232,7 @@ level: JJMO
 
 > Il quadrilaterale $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 6$, $DA = 6$. Le diagonali $AC$ e $BD$ si intersecano ad un angolo di $45^\circ$. Trova l'area di questo quadrilaterale.
 
-[[src_jjmo1q__Q08]]
+[[Quesiti/src_jjmo1q#q08|src_jjmo1q__Q08]]
 
 
 
@@ -260,7 +260,7 @@ level: JJMO
 
 > Trova il numero di 4 tupli $(a, b, c, d)$ di numeri interi positivi che soddisfano il sistema: $$\begin{cases} a + b = cd \\ c + d = ab \end{cases}$$
 
-[[src_jjmo1q__Q09]]
+[[Quesiti/src_jjmo1q#q09|src_jjmo1q__Q09]]
 
 
 
@@ -293,7 +293,7 @@ level: JJMO
 
 > Un cubo $ABCD$-$EFGH$ di lunghezza laterale $1$ ha il centro $O$ (l'intersezione delle sue quattro diagonali spaziali). Il cubo viene tagliato dai seguenti tre piani, ciascuno attraversando $O$: \begin{itemize} \item Il piano attraversando i bordi $BC$ e $AD$ (due bordi opposte di una faccia) attraversando $O$. \item Il piano attraverso i bordi $CA$ e $BD$ che attraversa $O$. \item Il piano attraverso i bordi $AB$ e $CD$ che attraversa $O$. Il cubo è quindi diviso in diversi solidi. Trova il volume del solido contenente il vertice $A$.
 
-[[src_jjmo1q__Q10]]
+[[Quesiti/src_jjmo1q#q10|src_jjmo1q__Q10]]
 
 
 
@@ -350,7 +350,7 @@ level: JJMO
 > 
 > 1. L'applicazione di (A) non modifica $xy$; dopo una sola applicazione di (B) il prodotto aumenta. Se prima di applicare (B) la coppia ha prodotto $xy = k^2$, il nuovo prodotto è al massimo $\boxed{\phantom{XX}}$ e almeno $\boxed{\phantom{XX}}$. 2. Per $k \ge 1$, il numero di coppie $(x, y)$ con $xy = k^2$ raggiungibili da $(1,1)$ è massimo $\boxed{\phantom{XX}}$. 3. Quando (B) viene applicato esattamente $\mathbf{3}$ volte, il prodotto massimo $xy$ (che deve essere un quadrato perfetto) è $\boxed{\phantom{XX}}$ se il massimo viene preso in tutte queste sequenze. Le due coppie che raggiungono i due prodotti a quadrato perfetto più grandi sono $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$ e $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$, e questi non possono essere raggiunti con meno di $3$ applicazioni di (B).
 
-[[src_jjmo1q__Q11]]
+[[Quesiti/src_jjmo1q#q11|src_jjmo1q__Q11]]
 
 
 
@@ -377,4 +377,4 @@ level: JJMO
 
 > In un torneo di scacchi, i giocatori $15$ giocano ciascuno contro ogni altro giocatore esattamente una volta. In ogni partita, il risultato è una vittoria per un giocatore (e una sconfitta per l'altro) o un pareggio per entrambi. Si è rivelato che nessun giocatore finisce con esattamente lo stesso record (cioè, tutti i giocatori hanno triplicato distintamente (numero di vittorie, numero di perdite, numero di pareggio)). Trova il numero massimo possibile di giochi sorte nel torneo.
 
-[[src_jjmo1q__Q12]]
+[[Quesiti/src_jjmo1q#q12|src_jjmo1q__Q12]]

@@ -22,7 +22,7 @@ level: China Girls' Mathematical Olympiad
 > and
 > $$\sqrt{S_{\triangle ABE}} + \sqrt{S_{\triangle ADF}} \le \sqrt{S_{\triangle ABC}}.$$
 
-![[src_cn_cgmo_2003__Q01.png]]
+![[src_cn_cgmo_2003__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
@@ -38,9 +38,9 @@ level: China Girls' Mathematical Olympiad
 
 > Lasciate che $ABC$ sia un triangolo. I punti $D$ e $E$ sono rispettivamente sui lati $AB$ e $AC$, mentre il punto $F$ è sul segmento di linea $DE$. Let $\frac{AD}{AC} = \frac{DF}{DE} = x$. Provare che $$S_{\triangle CEF} = x(1-x)S_{\triangle ABC}$$ e $$\sqrt{S_{\triangle ABE}} + \sqrt{S_{\triangle ADF}} \le \sqrt{S_{\triangle ABC}}.$$
 
-![[src_cn_cgmo_2003__Q01.png]]
+![[src_cn_cgmo_2003__q01.png]]
 
-[[src_cn_cgmo_2003__Q01]]
+[[Quesiti/src_cn_cgmo_2003#q01|src_cn_cgmo_2003__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: China Girls' Mathematical Olympiad
 
 > Ci sono 47 studenti in una classe con sedi disposti in 6 righe $\times$ 8 colonne, e il posto nella riga $i$-th e $j$-th colonna è indicato da $(i, j)$. Ora, viene fatto un aggiustamento per i posti degli studenti nel nuovo semestre scolastico. Per uno studente con il sedile originale $(i, j)$, se il suo nuovo sedile è $(m, n)$, diciamo che lo studente è spostato da $[m, n] - [i, j] = m - i + n - j$ e definiamo il valore della posizione dello studente come $|m - i + n - j|$. $S$ indichi la somma dei valori di posizione di tutti gli studenti. Determinare la differenza tra i valori più grandi e più piccoli possibili di $S$.
 
-[[src_cn_cgmo_2003__Q02]]
+[[Quesiti/src_cn_cgmo_2003#q02|src_cn_cgmo_2003__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: China Girls' Mathematical Olympiad
 > 
 > (Posizionato da Qian Zhanwang)
 
-[[src_cn_cgmo_2003__Q03]]
+[[Quesiti/src_cn_cgmo_2003#q03|src_cn_cgmo_2003__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: China Girls' Mathematical Olympiad
 
 > $\{a_n\}_{n=1}^{\infty}$ sia una sequenza di numeri reali come $a_1 = 2$, $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots$. Dimostrare che $$\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_{2003}} < 1.$$ (posato da Li Shenghong)
 
-[[src_cn_cgmo_2003__Q04]]
+[[Quesiti/src_cn_cgmo_2003#q04|src_cn_cgmo_2003__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: China Girls' Mathematical Olympiad
 > (2) $\angle BAC > 90^\circ$.
 > (posed by Xiong Bin)
 
-![[src_cn_cgmo_2003__Q05.png]]
+![[src_cn_cgmo_2003__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -163,9 +163,9 @@ level: China Girls' Mathematical Olympiad
 
 > Lasciate che i lati di un triangolo scaleno $\triangle ABC$ soddisfino $AB \ne AC$. I punti $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$, in modo che $AD$, $BE$, $CF$ siano bisettiori angolari del triangolo. Supponiamo che $DE = DF$. Let $b = CA$, $c = AB$, $s = \frac{a+b+c}{2}$. Prove che: (1) $\dfrac{b}{c} = \dfrac{s-b}{s-c}$; (2) $\angle BAC > 90^\circ$. (Posizionato da Xiong Bin)
 
-![[src_cn_cgmo_2003__Q05.png]]
+![[src_cn_cgmo_2003__q05.png]]
 
-[[src_cn_cgmo_2003__Q05]]
+[[Quesiti/src_cn_cgmo_2003#q05|src_cn_cgmo_2003__Q05]]
 
 
 
@@ -192,4 +192,4 @@ level: China Girls' Mathematical Olympiad
 
 > Che $n \ge 2$ sia un intero positivo, e che $S_n$ sia l'insieme di tutti i divisori interi positivi di $n$ (esclusi $1$ e $n$ stesso). Prova che almeno la metà degli elementi di $S_n$ ha le ultime cifre uguali a $5$. (Possibile da Feng Zanting)
 
-[[src_cn_cgmo_2003__Q06]]
+[[Quesiti/src_cn_cgmo_2003#q06|src_cn_cgmo_2003__Q06]]

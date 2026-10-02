@@ -47,7 +47,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(E)** R$\$18{,}000.00$ and R$\$9{,}000.00$
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q01]]
+[[Quesiti/src_obm_2002_n2_f1#q01|src_obm_2002_n2_f1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(D)** $16$ times
 > - **(E)** $15$ times
 
-![[src_obm_2002_n2_f1__Q02.png]]
+![[src_obm_2002_n2_f1__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -89,10 +89,10 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(D)** $16$ volte
 > - **(E)** $15$ volte
 
-![[src_obm_2002_n2_f1__Q02.png]]
+![[src_obm_2002_n2_f1__q02.png]]
 
 **Risposta:** A
-[[src_obm_2002_n2_f1__Q02]]
+[[Quesiti/src_obm_2002_n2_f1#q02|src_obm_2002_n2_f1__Q02]]
 
 
 
@@ -132,7 +132,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(E)** $30$
 
 **Risposta:** A
-[[src_obm_2002_n2_f1__Q03]]
+[[Quesiti/src_obm_2002_n2_f1#q03|src_obm_2002_n2_f1__Q03]]
 
 
 
@@ -173,7 +173,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(E)** $875$ litri
 
 **Risposta:** A
-[[src_obm_2002_n2_f1__Q04]]
+[[Quesiti/src_obm_2002_n2_f1#q04|src_obm_2002_n2_f1__Q04]]
 
 
 
@@ -213,7 +213,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(E)** passi $200$
 
 **Risposta:** E
-[[src_obm_2002_n2_f1__Q05]]
+[[Quesiti/src_obm_2002_n2_f1#q05|src_obm_2002_n2_f1__Q05]]
 
 
 
@@ -254,7 +254,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(E)** un quadrato perfetto.
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q06]]
+[[Quesiti/src_obm_2002_n2_f1#q06|src_obm_2002_n2_f1__Q06]]
 
 
 
@@ -294,7 +294,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(E)** $\dfrac{9}{10}$
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q07]]
+[[Quesiti/src_obm_2002_n2_f1#q07|src_obm_2002_n2_f1__Q07]]
 
 
 
@@ -313,7 +313,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** $20$
 > - **(E)** $19$
 
-![[src_obm_2002_n2_f1__Q08.png]]
+![[src_obm_2002_n2_f1__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -336,10 +336,10 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** $20$
 > - **(E)** $19$
 
-![[src_obm_2002_n2_f1__Q08.png]]
+![[src_obm_2002_n2_f1__q08.png]]
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q08]]
+[[Quesiti/src_obm_2002_n2_f1#q08|src_obm_2002_n2_f1__Q08]]
 
 
 
@@ -379,7 +379,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(E)** risparmiare R$\$ 14,00$.
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q09]]
+[[Quesiti/src_obm_2002_n2_f1#q09|src_obm_2002_n2_f1__Q09]]
 
 
 
@@ -398,7 +398,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** $\dfrac{1}{3}$
 > - **(E)** $\dfrac{3}{8}$
 
-![[src_obm_2002_n2_f1__Q10.png]]
+![[src_obm_2002_n2_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -421,10 +421,10 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** $\dfrac{1}{3}$
 > - **(E)** $\dfrac{3}{8}$
 
-![[src_obm_2002_n2_f1__Q10.png]]
+![[src_obm_2002_n2_f1__q10.png]]
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q10]]
+[[Quesiti/src_obm_2002_n2_f1#q10|src_obm_2002_n2_f1__Q10]]
 
 
 
@@ -445,7 +445,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** In the semester, the total revenue of $A$ was greater than that of $B$.
 > - **(E)** The difference between the total semester revenues did not exceed $20$ million reais.
 
-![[src_obm_2002_n2_f1__Q11.png]]
+![[src_obm_2002_n2_f1__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
@@ -469,10 +469,10 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** Nel semestre, il fatturato totale di $A$ è stato superiore a quello di $B$.
 > - **(E)** La differenza tra le entrate totali del semestre non ha superato $20$ milioni di reais.
 
-![[src_obm_2002_n2_f1__Q11.png]]
+![[src_obm_2002_n2_f1__q11.png]]
 
 **Risposta:** D
-[[src_obm_2002_n2_f1__Q11]]
+[[Quesiti/src_obm_2002_n2_f1#q11|src_obm_2002_n2_f1__Q11]]
 
 
 
@@ -513,7 +513,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(E)** $13{,}999{,}432$
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q12]]
+[[Quesiti/src_obm_2002_n2_f1#q12|src_obm_2002_n2_f1__Q12]]
 
 
 
@@ -554,7 +554,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $30$
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q13]]
+[[Quesiti/src_obm_2002_n2_f1#q13|src_obm_2002_n2_f1__Q13]]
 
 
 
@@ -573,7 +573,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $\dfrac{3}{4}$
 > - **(E)** $1$
 
-![[src_obm_2002_n2_f1__Q14.png]]
+![[src_obm_2002_n2_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -596,10 +596,10 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $\dfrac{3}{4}$
 > - **(E)** $1$
 
-![[src_obm_2002_n2_f1__Q14.png]]
+![[src_obm_2002_n2_f1__q14.png]]
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q14]]
+[[Quesiti/src_obm_2002_n2_f1#q14|src_obm_2002_n2_f1__Q14]]
 
 
 
@@ -640,7 +640,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $14$
 
 **Risposta:** D
-[[src_obm_2002_n2_f1__Q15]]
+[[Quesiti/src_obm_2002_n2_f1#q15|src_obm_2002_n2_f1__Q15]]
 
 
 
@@ -680,7 +680,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $110^\circ$
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q16]]
+[[Quesiti/src_obm_2002_n2_f1#q16|src_obm_2002_n2_f1__Q16]]
 
 
 
@@ -699,7 +699,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $50\,\text{cm}^2$
 > - **(E)** $25\,\text{cm}^2$
 
-![[src_obm_2002_n2_f1__Q17.png]]
+![[src_obm_2002_n2_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -722,10 +722,10 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $50\,\text{cm}^2$
 > - **(E)** $25\,\text{cm}^2$
 
-![[src_obm_2002_n2_f1__Q17.png]]
+![[src_obm_2002_n2_f1__q17.png]]
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q17]]
+[[Quesiti/src_obm_2002_n2_f1#q17|src_obm_2002_n2_f1__Q17]]
 
 
 
@@ -744,7 +744,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $97$
 > - **(E)** $105$
 
-![[src_obm_2002_n2_f1__Q18.png]]
+![[src_obm_2002_n2_f1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -767,10 +767,10 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $97$
 > - **(E)** $105$
 
-![[src_obm_2002_n2_f1__Q18.png]]
+![[src_obm_2002_n2_f1__q18.png]]
 
 **Risposta:** D
-[[src_obm_2002_n2_f1__Q18]]
+[[Quesiti/src_obm_2002_n2_f1#q18|src_obm_2002_n2_f1__Q18]]
 
 
 
@@ -811,7 +811,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $292$
 
 **Risposta:** D
-[[src_obm_2002_n2_f1__Q19]]
+[[Quesiti/src_obm_2002_n2_f1#q19|src_obm_2002_n2_f1__Q19]]
 
 
 
@@ -852,7 +852,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $1$
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q20]]
+[[Quesiti/src_obm_2002_n2_f1#q20|src_obm_2002_n2_f1__Q20]]
 
 
 
@@ -893,7 +893,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $36$
 
 **Risposta:** B
-[[src_obm_2002_n2_f1__Q21]]
+[[Quesiti/src_obm_2002_n2_f1#q21|src_obm_2002_n2_f1__Q21]]
 
 
 
@@ -933,7 +933,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** era più alto di $5\%$.
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q22]]
+[[Quesiti/src_obm_2002_n2_f1#q22|src_obm_2002_n2_f1__Q22]]
 
 
 
@@ -992,7 +992,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** In fase 6.
 
 **Risposta:** C
-[[src_obm_2002_n2_f1__Q23]]
+[[Quesiti/src_obm_2002_n2_f1#q23|src_obm_2002_n2_f1__Q23]]
 
 
 
@@ -1033,7 +1033,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** Cinquantaquattro.
 
 **Risposta:** D
-[[src_obm_2002_n2_f1__Q24]]
+[[Quesiti/src_obm_2002_n2_f1#q24|src_obm_2002_n2_f1__Q24]]
 
 
 
@@ -1074,4 +1074,4 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(E)** $8$
 
 **Risposta:** D
-[[src_obm_2002_n2_f1__Q25]]
+[[Quesiti/src_obm_2002_n2_f1#q25|src_obm_2002_n2_f1__Q25]]

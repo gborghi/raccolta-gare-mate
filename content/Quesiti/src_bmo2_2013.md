@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che entrambi $m$ dividono $n^2 + 1$ e $n$ dividono $m^2 + 1$?
 
-[[src_bmo2_2013__Q01]]
+[[Quesiti/src_bmo2_2013#q01|src_bmo2_2013__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Il punto $P$ si trova all'interno del triangolo $ABC$ in modo tale che $\angle ABP = \angle PCA$. Il punto $Q$ è tale che $PBQC$ sia un parallelo. Prove che $\angle QAB = \angle CAP$.
 
-[[src_bmo2_2013__Q02]]
+[[Quesiti/src_bmo2_2013#q02|src_bmo2_2013__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 2
 
 > Considerate l'insieme di numeri interi positivi che, quando sono scritti in binario, hanno esattamente 2013 cifre e più 0 che 1s. $s$ sia il numero di tali integri e $n$ sia la loro somma. Prova che, quando scritto in binario, $n + s$ ha più 1s che 0s.
 
-[[src_bmo2_2013__Q03]]
+[[Quesiti/src_bmo2_2013#q03|src_bmo2_2013__Q03]]
 
 
 
@@ -114,4 +114,4 @@ level: BMO Round 2
 
 > Supponiamo che $ABCD$ sia un quadrato e che $P$ sia un punto che si trova sul circolo. Determinare se è possibile che $PA$, $PB$, $PC$, $PD$ e $AB$ siano tutti numeri interi.
 
-[[src_bmo2_2013__Q04]]
+[[Quesiti/src_bmo2_2013#q04|src_bmo2_2013__Q04]]

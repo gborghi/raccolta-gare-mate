@@ -41,7 +41,7 @@ level: OBM Nível 2
 > 
 > È possibile che nessuna delle somme $8$ sia un multiple di $3$? Ricorda di giustificare la tua risposta.
 
-[[src_obm_2011_n2_f3__Q01]]
+[[Quesiti/src_obm_2011_n2_f3#q01|src_obm_2011_n2_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 2
 
 > Il $ABCD$ deve essere un quadrilaterale convex tale che $AD = DC$, $AC = AB$ e $\angle ADC = \angle CAB$. $M$ e $N$ siano rispettivamente i punti intermedi di $\overline{AD}$ e $\overline{AB}$. Prova che il triangolo $MNC$ è uguale.
 
-[[src_obm_2011_n2_f3__Q02]]
+[[Quesiti/src_obm_2011_n2_f3#q02|src_obm_2011_n2_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 
 > Esmeralda e Jade giocano a un gioco. Esmeralda fa un elenco di numeri interi positivi $2011$, ma non lo mostra a Jade. Jade può porre a Esmeralda qualsiasi domanda del modulo: "Qual è il GCD o l'LCM di qualsiasi sottoinsieme dei numeri dell'elenco con più di un elemento?" (ad esempio, "Qual è il GCD dei numeri $1$st, $2$nd, e $2000$th dell'elenco?", o "Qual è il LCM di tutti i numeri $2011$ dell'elenco?"). Jade può porre quante domande vuole, ottenendo risposte corrette da Esmeralda (Esmeralda è generosa e dice anche a Jade l'LCM di ogni sottoinsieme dei suoi numeri). Jade può quindi applicare una qualsiasi delle quattro operazioni aritmetiche di base (addizione, sottrazione, moltiplicazione, divisione) ai numeri ottenuti da Esmeralda. Jade può sempre trovare una strategia per determinare il prodotto di tutti i numeri $2011$ della lista di Esmeralda? Giustifica la tua risposta.
 
-[[src_obm_2011_n2_f3__Q03]]
+[[Quesiti/src_obm_2011_n2_f3#q03|src_obm_2011_n2_f3__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 
 > Esmeralda scrisse una lista di numeri interi positivi su un foglio di carta. Renan notò che tutti i numeri dell'elenco, e tutte le somme di qualsiasi quantità di numeri distinti dall'elenco, non sono divisibili da alcun quadrato perfetto diverso da $1$. Qual e' il numero massimo della lista di Esmeralda?
 
-[[src_obm_2011_n2_f3__Q04]]
+[[Quesiti/src_obm_2011_n2_f3#q04|src_obm_2011_n2_f3__Q04]]
 
 
 
@@ -149,7 +149,7 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 
 > All'interno di un quadrato laterale $16$ sono posizionati punti $1000$. Mostrare che è possibile posizionare un triangolo equilaterale di lato $2\sqrt{3}$ nel piano in modo che copra almeno $16$ di questi punti.
 
-[[src_obm_2011_n2_f3__Q05]]
+[[Quesiti/src_obm_2011_n2_f3#q05|src_obm_2011_n2_f3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 
 > Per qualsiasi numero naturale $N$ con cifre $2k$, definire $I(N)$ come il numero $k$ di cifre ottenuto scrivendo le cifre di $N$ di ordine odd da sinistra a destra e $P(N)$ come il numero $k$ di cifre ottenuto scrivendo le cifre di $N$ di ordine pari da sinistra a destra. Ad esempio, $I(249035) = 405$ e $P(249035) = 293$. Prove che non è possibile trovare un numero naturale $N$ di cifre $2k$ come $N = I(N) \cdot P(N)$.
 
-[[src_obm_2011_n2_f3__Q06]]
+[[Quesiti/src_obm_2011_n2_f3#q06|src_obm_2011_n2_f3__Q06]]

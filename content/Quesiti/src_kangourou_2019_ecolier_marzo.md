@@ -43,7 +43,7 @@ level: kangourou
 > In the figures you see, each ball is worth 1 and each bar is worth 5, so, for example, the figure on the side is worth 8. Which of the following figures is 17? A)                        B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_marzo__Q01]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q01|src_kangourou_2019_ecolier_marzo__Q01]]
 
 
 
@@ -91,7 +91,7 @@ In what order did the three people pass?
 > E)
 
 **Answer:** A
-[[src_kangourou_2019_ecolier_marzo__Q02]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q02|src_kangourou_2019_ecolier_marzo__Q02]]
 
 
 
@@ -143,7 +143,7 @@ In what order did the three people pass?
 > E)
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_marzo__Q03]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q03|src_kangourou_2019_ecolier_marzo__Q03]]
 
 
 
@@ -196,7 +196,7 @@ In what order did the three people pass?
 >
 
 **Answer:** A
-[[src_kangourou_2019_ecolier_marzo__Q04]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q04|src_kangourou_2019_ecolier_marzo__Q04]]
 
 
 
@@ -250,7 +250,7 @@ In what order did the three people pass?
 > E) 20
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_marzo__Q05]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q05|src_kangourou_2019_ecolier_marzo__Q05]]
 
 
 
@@ -296,7 +296,7 @@ How many students if girls are doubles and +8*
 > E) 28
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_marzo__Q06]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q06|src_kangourou_2019_ecolier_marzo__Q06]]
 
 
 
@@ -348,7 +348,7 @@ How many students if girls are doubles and +8*
 > E) 26
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_marzo__Q07]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q07|src_kangourou_2019_ecolier_marzo__Q07]]
 
 
 
@@ -402,7 +402,7 @@ How many students if girls are doubles and +8*
 > E) 5 Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2019_ecolier_marzo__Q08]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q08|src_kangourou_2019_ecolier_marzo__Q08]]
 
 
 
@@ -477,7 +477,7 @@ How many students if girls are doubles and +8*
 >
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_marzo__Q09]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q09|src_kangourou_2019_ecolier_marzo__Q09]]
 
 
 
@@ -530,7 +530,7 @@ What the driver sees from the opposite side of the glass
 > E)
 
 **Answer:** C
-[[src_kangourou_2019_ecolier_marzo__Q10]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q10|src_kangourou_2019_ecolier_marzo__Q10]]
 
 
 
@@ -584,7 +584,7 @@ What the driver sees from the opposite side of the glass
 > E) 11
 
 **Answer:** E
-[[src_kangourou_2019_ecolier_marzo__Q11]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q11|src_kangourou_2019_ecolier_marzo__Q11]]
 
 
 
@@ -632,7 +632,7 @@ Maximum number of green bulbs from 16 blue bulbs
 > E) 20
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_marzo__Q12]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q12|src_kangourou_2019_ecolier_marzo__Q12]]
 
 
 
@@ -680,7 +680,7 @@ Number in the box? for a maximum of 2,0,1,9*
 > C) Necessarily 0. D) Necessarily 1. E) Necessarily 2.
 
 **Answer:** A
-[[src_kangourou_2019_ecolier_marzo__Q13]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q13|src_kangourou_2019_ecolier_marzo__Q13]]
 
 
 
@@ -729,7 +729,7 @@ Number in the box? for a maximum of 2,0,1,9*
 >
 
 **Answer:** E
-[[src_kangourou_2019_ecolier_marzo__Q14]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q14|src_kangourou_2019_ecolier_marzo__Q14]]
 
 
 
@@ -776,7 +776,7 @@ Number in the box? for a maximum of 2,0,1,9*
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_marzo__Q15]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q15|src_kangourou_2019_ecolier_marzo__Q15]]
 
 
 
@@ -828,7 +828,7 @@ Number in the box? for a maximum of 2,0,1,9*
 > E) 9 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** C
-[[src_kangourou_2019_ecolier_marzo__Q16]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q16|src_kangourou_2019_ecolier_marzo__Q16]]
 
 
 
@@ -879,7 +879,7 @@ Number in the box? for a maximum of 2,0,1,9*
 > E) 6
 
 **Answer:** E
-[[src_kangourou_2019_ecolier_marzo__Q17]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q17|src_kangourou_2019_ecolier_marzo__Q17]]
 
 
 
@@ -932,7 +932,7 @@ Number in the box? for a maximum of 2,0,1,9*
 > E) 52
 
 **Answer:** C
-[[src_kangourou_2019_ecolier_marzo__Q18]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q18|src_kangourou_2019_ecolier_marzo__Q18]]
 
 
 
@@ -980,7 +980,7 @@ Maximum number of pages if the figure 5 appears 16 times
 > E) 80
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_marzo__Q19]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q19|src_kangourou_2019_ecolier_marzo__Q19]]
 
 
 
@@ -1036,7 +1036,7 @@ Maximum number of pages if the figure 5 appears 16 times
 >
 
 **Answer:** E
-[[src_kangourou_2019_ecolier_marzo__Q20]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q20|src_kangourou_2019_ecolier_marzo__Q20]]
 
 
 
@@ -1083,7 +1083,7 @@ Maximum number of pages if the figure 5 appears 16 times
 > E) 18
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_marzo__Q21]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q21|src_kangourou_2019_ecolier_marzo__Q21]]
 
 
 
@@ -1134,7 +1134,7 @@ Maximum number of pages if the figure 5 appears 16 times
 > C) 1 and 3 are both red. D) 5 is red and 2 is yellow. E) 1 and 3 are both yellow.
 
 **Answer:** E
-[[src_kangourou_2019_ecolier_marzo__Q22]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q22|src_kangourou_2019_ecolier_marzo__Q22]]
 
 
 
@@ -1175,7 +1175,7 @@ Who ate the cookie (one mind only)
 > Aldo, Bruno, Charles, Darius and Henry are five friends: one of them ate a cookie. Aldo says, "I didn't eat the cookie". Bruno says, "I ate the cookie". Charles says, "Henry didn't eat the cookie". Darius says, "I didn't eat the cookie". Henry says, "It was Aldo who ate the cookie". Only one of them isn't telling the truth. Who ate the cookie? (A) Aldo B) Bruno C) Charles D) Darius E) Henry
 
 **Answer:** B
-[[src_kangourou_2019_ecolier_marzo__Q23]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q23|src_kangourou_2019_ecolier_marzo__Q23]]
 
 
 
@@ -1245,4 +1245,4 @@ Who ate the cookie (one mind only)
 >
 
 **Answer:** D
-[[src_kangourou_2019_ecolier_marzo__Q24]]
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q24|src_kangourou_2019_ecolier_marzo__Q24]]

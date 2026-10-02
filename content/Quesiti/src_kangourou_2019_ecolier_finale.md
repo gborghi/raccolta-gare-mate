@@ -34,7 +34,7 @@ level: kangourou
 > In the drawing you see two squares, each side $3$ cm, joined together for the $C$ vertex. An ant starts from the $A$ point and follows the $ABCDEFCGA$ path along the edge of the figure. The ant repeats the route several times. After travelling a distance of $2019$ cm, the ant gets tired and stops at the top where it is at that moment. What letter denotes it? (see figure)
 
 **Answer:** 0000
-[[src_kangourou_2019_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q01|src_kangourou_2019_ecolier_finale__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: kangourou
 > - **(E)** (see figure)
 
 **Answer:** 0008
-[[src_kangourou_2019_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q02|src_kangourou_2019_ecolier_finale__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: kangourou
 > - **(E)** (see figure)
 
 **Answer:** 1011
-[[src_kangourou_2019_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q03|src_kangourou_2019_ecolier_finale__Q03]]
 
 
 
@@ -156,7 +156,7 @@ level: kangourou
 > - **(E)** (see figure)
 
 **Answer:** 0012
-[[src_kangourou_2019_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q04|src_kangourou_2019_ecolier_finale__Q04]]
 
 
 
@@ -196,7 +196,7 @@ level: kangourou
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0150
-[[src_kangourou_2019_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q05|src_kangourou_2019_ecolier_finale__Q05]]
 
 
 
@@ -237,7 +237,7 @@ level: kangourou
 > - **(E)** $28$
 
 **Answer:** 0164
-[[src_kangourou_2019_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q06|src_kangourou_2019_ecolier_finale__Q06]]
 
 
 
@@ -278,7 +278,7 @@ level: kangourou
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 1235
-[[src_kangourou_2019_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q07|src_kangourou_2019_ecolier_finale__Q07]]
 
 
 
@@ -318,7 +318,7 @@ level: kangourou
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 0060
-[[src_kangourou_2019_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q08|src_kangourou_2019_ecolier_finale__Q08]]
 
 
 
@@ -358,7 +358,7 @@ level: kangourou
 > - **(E)** He can't avoid all the wells. (see figure)
 
 **Answer:** 0080
-[[src_kangourou_2019_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q09|src_kangourou_2019_ecolier_finale__Q09]]
 
 
 
@@ -399,7 +399,7 @@ How many wonderful years in the 21st century
 > - **(E)** (see figure)
 
 **Answer:** 0006
-[[src_kangourou_2019_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q10|src_kangourou_2019_ecolier_finale__Q10]]
 
 
 
@@ -440,7 +440,7 @@ How many wonderful years in the 21st century
 > - **(E)** The following table shows the results of the evaluation:
 
 **Answer:** 9864
-[[src_kangourou_2019_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q11|src_kangourou_2019_ecolier_finale__Q11]]
 
 
 
@@ -481,7 +481,7 @@ How many wonderful years in the 21st century
 > - **(E)** $20$
 
 **Answer:** 0009
-[[src_kangourou_2019_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q12|src_kangourou_2019_ecolier_finale__Q12]]
 
 
 
@@ -521,7 +521,7 @@ How many wonderful years in the 21st century
 > - **(E)** If necessary $2$. (see figure)
 
 **Answer:** 0058
-[[src_kangourou_2019_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q13|src_kangourou_2019_ecolier_finale__Q13]]
 
 
 
@@ -562,7 +562,7 @@ How many wonderful years in the 21st century
 > - **(E)** A different number from the previous ones (see figure)
 
 **Answer:** 0098
-[[src_kangourou_2019_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q14|src_kangourou_2019_ecolier_finale__Q14]]
 
 
 
@@ -602,4 +602,4 @@ How many wonderful years in the 21st century
 > - **(E)** $12$
 
 **Answer:** 0006
-[[src_kangourou_2019_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2019_ecolier_finale#q15|src_kangourou_2019_ecolier_finale__Q15]]

@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > Prove che $AP + BQ + CR > AB + BC + CA$.
 
-[[src_bmo_1981-82_round2__Q01]]
+[[Quesiti/src_bmo_1981-82_round2#q01|src_bmo_1981-82_round2__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: BMO Round 2
 > 
 > Provare che $5$ non è un membro di questa sequenza.
 
-[[src_bmo_1981-82_round2__Q02]]
+[[Quesiti/src_bmo_1981-82_round2#q02|src_bmo_1981-82_round2__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: BMO Round 2
 
 > Trova il più grande intero positivo $n$ per il quale l'equazione $$ax + (a+1)y + (a+2)z = n$$ non è risolvibile in numeri interi positivi $x, y, z$, dove $a$ è un dato intero positivo parente.
 
-[[src_bmo_1981-82_round2__Q03]]
+[[Quesiti/src_bmo_1981-82_round2#q03|src_bmo_1981-82_round2__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: BMO Round 2
 
 > $P_1(x_1, y_1)$, $P_2(x_2, y_2)$ sono due punti della curva $x^n - ay^n = b$ per i quali $x > 0$, $y > 0$. Qui $a$ e $b$ sono costanti positive e $n$ è un intero $> 1$. Prova che se $y_1 < y_2$ e $\Delta$ sono l'area del triangolo $OP_1P_2$, allora $$by_2 > 2ny_1^{n-1} a^{1-\frac{1}{n}} \Delta.$$
 
-[[src_bmo_1981-82_round2__Q04]]
+[[Quesiti/src_bmo_1981-82_round2#q04|src_bmo_1981-82_round2__Q04]]
 
 
 
@@ -160,4 +160,4 @@ level: BMO Round 2
 
 > Dato che $k$ è un numero intero fisso non negativo e che il polinomio $P(x)$ soddisfa la relazione $$P(2x) = 2^{k-1}(P(x) + P(x+1)),$$ dimostra che $$P(3x) = 3^{k-1}\left(P(x) + P\left(x+\tfrac{1}{3}\right) + P\left(x+\tfrac{2}{3}\right)\right).$$
 
-[[src_bmo_1981-82_round2__Q05]]
+[[Quesiti/src_bmo_1981-82_round2#q05|src_bmo_1981-82_round2__Q05]]

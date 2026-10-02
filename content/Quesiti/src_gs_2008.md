@@ -41,7 +41,7 @@ Cost of the most expensive meal with fractional gifts
 
 > The Four Horsemen of the Apocalypse, Famine, War, Death and Pollution (Peste resigned in 1936 after the invention of penicillin), are about to eat together when Death realizes he has no money. The others decide to give him the same amount of money each. So famine gives Death a fifth of the money he has in his pocket, war gives him a quarter of the money he has in his pocket, and pollution gives him a third of what he has. After paying for their own meal, they realize they've been lucky because they've all run out of money: the one who paid the least out of the four paid $6.80. How much, in cents, did the most expensive meal cost?
 
-[[src_gs_2008__Q01]]
+[[Quesiti/src_gs_2008#q01|src_gs_2008__Q01]]
 
 
 
@@ -72,7 +72,7 @@ Cost of the most expensive meal with fractional gifts
 
 > The two choirs (point 20) 30% of the members of the Tibetan choir also belong to the Atlantic choir, 80% of the members of the Atlantic choir also belong to the Tibetan choir. Those who are members of at least one of the two choirs are 7869. How many members of the Atlantic Choir?
 
-[[src_gs_2008__Q02]]
+[[Quesiti/src_gs_2008#q02|src_gs_2008__Q02]]
 
 
 
@@ -105,7 +105,7 @@ Cost of the most expensive meal with fractional gifts
 
 > The numbers of the Apocalypse (points 20) The Metatron had announced the two numbers of the Apocalypse; Aziraphale, the angel of the hunt, had written them on a sheet, but Crowley, the devil of the apple, had made them immediately disappear. When the two realize that it is best to know them to prevent the Apocalypse from happening, Aziraphale realizes that he can recover them because the Metatron, in one of his usual logorroic excesses, had explained to him that they were two four-digit numbers, each written once using the numbers 2, 4, 5 and 7 and that one was a multiple of the other. Which is the larger of the two?
 
-[[src_gs_2008__Q03]]
+[[Quesiti/src_gs_2008#q03|src_gs_2008__Q03]]
 
 
 
@@ -138,7 +138,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > The stones of the Inferno (point 25) Ligur, the head of the underground quarry, has to carry 100 tonnes of stones, each weighing less than 1 tonne, from the quarry to a deposit. Only one truck with a maximum capacity of 1 tonne is available. The truck always travels without further loading, in the sense that, for each trip, no stone can be added without exceeding the maximum range. What is the maximum number of trips from the quarry to the warehouse that the truck will have to make to transport all the stones?
 
-[[src_gs_2008__Q04]]
+[[Quesiti/src_gs_2008#q04|src_gs_2008__Q04]]
 
 
 
@@ -172,7 +172,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > The recipe for the cocktail that Crowley is about to drink involves the use of 2 parts superalcohol at 45 degrees, 1 part liquor at 40 degrees, and 1 part juice at 0 degrees. What's the alcohol content of the cocktail? The solution is given by writing the alcoholic strength by 10. [N.B. It is recalled that the alcohol grading is the ratio, multiplied by 100, between the volume of pure alcohol and the total volume of liquid.] Team competition  Problem texts  Pag. 1 di 5
 
-[[src_gs_2008__Q05]]
+[[Quesiti/src_gs_2008#q05|src_gs_2008__Q05]]
 
 
 
@@ -211,7 +211,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > At Tadfield Zoo, I (points 25) In Tadfield Zoo, the laughable town where the Apocalypse will begin, there are five monkeys named Albert, Berto, Sure, Derto and Erto. Sylvier, the zoo curator, taught the monkeys to wear t-shirts. Monkeys love to show off their new skills, but none of them would ever wear a shirt of a color they hate: Albert hates red and blue, Berto hates green; Certainly he hates red and green, Derto hates red and Erto hates blue and green. Sylvier doesn't know their color aversions: he bought yellow, blue, green and red shirts and left them in their playroom hoping that each of them would go out with a shirt on, as it actually happens. The monkeys have leaped on a branch in order of name: two wear a red shirt, and the blue-shirted monkey is next to one in a green shirt. Determine which colors wear Berto, Certo, Derto and Erto, writing in order the codes of the colors worn, using the following code: 1 = yellow, 2 = blue, 3 = green, 4 = red.
 
-[[src_gs_2008__Q06]]
+[[Quesiti/src_gs_2008#q06|src_gs_2008__Q06]]
 
 
 
@@ -243,7 +243,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > The Divine Quad (points 30) In Tadfield, the Divine Quad is a square in the shape of a rectangular trapezoid with parallel sides 66 m and 84 m long and the perpendicular side to these 135 m long. On the floor of the square are drawn the diagonal of the trapezoid. The four segments from the meeting point of the diagonals towards each corner of the square are called ecstasy paths. What is the length in centimetres of the path of the longest ecstasy?
 
-[[src_gs_2008__Q07]]
+[[Quesiti/src_gs_2008#q07|src_gs_2008__Q07]]
 
 
 
@@ -279,7 +279,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > In front of the Ell laboratory, I (points 30) In front of the Ell wood artists' laboratory, a letter structure is erected, obtained with a cut and a gluing: a 6 m high wooden cylinder with a base diameter of 2 m is taken, it is cut into two equal parts by sewing it with a single cut, inclined by 45° relative to the cylinder's axis; then the two sections are joined making them perfectly coincide to form the cylinder. The front of the lab is completely painted with phosphorescent paint. What is the area covered by the paint in dm2, including the bases?
 
-[[src_gs_2008__Q08]]
+[[Quesiti/src_gs_2008#q08|src_gs_2008__Q08]]
 
 
 
@@ -310,7 +310,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > Adam's star (points 35) Adam draws a five-pointed star, joining five points with five segments. Four angles at the ends are given the same width; the width of the angle at the other ends is 12°. What is the width in degrees of one of the four angles of equal length?
 
-[[src_gs_2008__Q09]]
+[[Quesiti/src_gs_2008#q09|src_gs_2008__Q09]]
 
 
 
@@ -345,7 +345,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > Pepper's leaf (points 35) Pepper takes a leaf, folds it in half on the long side and cuts it along the fold. Take one of the two sides, fold it in two on the long side and cut it along the fold. Repeat the same procedure three more times (five cuts in total), and you get a sheet of 62 mm × 88 mm. How much could he measure the long side of the sheet from which he had begun? How much could he at least measure? Give the difference between the two measurements in millimetres as an answer. Team competition  Problem texts  Pag. 2 di 5
 
-[[src_gs_2008__Q10]]
+[[Quesiti/src_gs_2008#q10|src_gs_2008__Q10]]
 
 
 
@@ -379,7 +379,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 
 > Wensleydale's initial (points 40) Wensleydale took a 12 cm × 8 cm sheet and folded it in half on the long side. He marked three points on the folded sheet: the X point halfway on the fold, and the two points A and B two centimeters from the fold on each of the folded sides. He then made two cuts: one along the XA segment, the other from B, parallel to the first cut, so as to reach the top. When he unfolded the sheet, he realized he had a V. He made another equal and overlaid them on an isosceles triangle where the side different from the other two is 4 cm to get a W. What is the area of W in cm2?
 
-[[src_gs_2008__Q11]]
+[[Quesiti/src_gs_2008#q11|src_gs_2008__Q11]]
 
 
 
@@ -409,7 +409,7 @@ Maximum n with 2^2008+2^3599+2^n perfect square
 
 > Brian's hobby (points 40) Brian is looking for some integer n such that the sum of 22008 + 23599 + 2n is a perfect square. What's the largest integer n that Brian can find?
 
-[[src_gs_2008__Q12]]
+[[Quesiti/src_gs_2008#q12|src_gs_2008__Q12]]
 
 
 
@@ -440,7 +440,7 @@ The probability that four birthdays fall on different days
 
 > Their birthdays (points 40) What is the probability that Adam, Pepper, Wensleydale and Brian's birthdays fall on 4 different days of the week? The sum of the numerator and denominator of the fraction obtained after simplifying all the common factors shall be given as the answer.
 
-[[src_gs_2008__Q13]]
+[[Quesiti/src_gs_2008#q13|src_gs_2008__Q13]]
 
 
 
@@ -471,7 +471,7 @@ The probability that four birthdays fall on different days
 
 > The witch's box (points 45) Newton Pulsifer tries to determine a four digit combination to open the lock of a box. After torturing the witch, who owned the coffin, Newton discovered that the combination is a perfect square with the penultimate digit 5. What's the largest four-digit number that could be the combination Newton was looking for?
 
-[[src_gs_2008__Q14]]
+[[Quesiti/src_gs_2008#q14|src_gs_2008__Q14]]
 
 
 
@@ -503,7 +503,7 @@ The probability that four birthdays fall on different days
 
 > Aziraphale's research (points 45) The Metatron explained to Aziraphale that it must look for the predestined newborn in those hospital rooms whose 4-digit numbers have the property that, by substituting any way for up to 3 digits, you never get a positive multiple of 1792. Write the difference between the smallest and the largest of the numbers of rooms where Aziraphale must search for the predestinate.
 
-[[src_gs_2008__Q15]]
+[[Quesiti/src_gs_2008#q15|src_gs_2008__Q15]]
 
 
 
@@ -536,7 +536,7 @@ The probability that four birthdays fall on different days
 
 > Tadfield garden (points 50) The public garden of Tadfield is bounded by two alleys that move away from the entrance forming an angle of 60°. Within the garden there are 3 circular ponds, one of which is tangential to the other two; each avenue passes tangentially to each pond. The first pond covers an area of 85 m2. What is the area occupied by the three ponds in m2?
 
-[[src_gs_2008__Q16]]
+[[Quesiti/src_gs_2008#q16|src_gs_2008__Q16]]
 
 
 
@@ -568,7 +568,7 @@ The probability that four birthdays fall on different days
 
 > At Tadfield Zoo, II (50 points) Sylvier had actually bought 1 yellow, 2 blue, 2 green and 3 red T-shirt, leaving them in the five monkeys' room. In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts, given their color aversions? Team competition  Problem texts  Pag. 3 di 5
 
-[[src_gs_2008__Q17]]
+[[Quesiti/src_gs_2008#q17|src_gs_2008__Q17]]
 
 
 
@@ -601,7 +601,7 @@ Shortest path between two ants on a 3D letter
 
 > In front of laboratory Ell, II (points 50) An ant is in the center of the circle at the top of the front of laboratory Ell. Another one is in the center of the other circle on the . How long in millimeters is the shortest path that allows one ant to reach the other?
 
-[[src_gs_2008__Q18]]
+[[Quesiti/src_gs_2008#q18|src_gs_2008__Q18]]
 
 
 
@@ -631,7 +631,7 @@ Shortest path between two ants on a 3D letter
 
 > Warlock's hobby (60 points) To pass the time, Warlock calculates the fourteenth power of a positive integer and gets 114197726928752863294965276721. What's the positive integer that Warlock raised to the 14th power?
 
-[[src_gs_2008__Q19]]
+[[Quesiti/src_gs_2008#q19|src_gs_2008__Q19]]
 
 
 
@@ -671,7 +671,7 @@ Maximum number of prismatic megaliths in a strip
 
 > The megaliths of the Apocalypse (points 60) In the great plain south of Tadfield, two parallel white lines are drawn in chalk, at a distance of 240 cm, forming a strip of land 20 km long. Within the strip are laid megaliths (large stones) all of which are equal and are said to have been left by the Knights of the Apocalypse as a warning. All the megaliths have the same shape of a rectangular prism, each 3 m high. Each base is in the shape of a rectangular trapezoid: the parallel sides are 58 cm and 128 cm, the perpendicular side to these is 240 cm. The megaliths are laid so that the main bases of the trapezium are all aligned on one of the two white lines and the oblique sides of the trapezium are parallel to each other. A megalite fell, spinning on the oblique side of the base and now, on the ground, the nearby megalite barely slips. In fact, there is always enough distance between two megaliths so that if a megalith falls spinning on the oblique side, it does not touch the nearby megalith. What is the maximum possible number of megaliths on the strip in the great plain?
 
-[[src_gs_2008__Q20]]
+[[Quesiti/src_gs_2008#q20|src_gs_2008__Q20]]
 
 
 
@@ -706,7 +706,7 @@ Maximum number of prismatic megaliths in a strip
 
 > The ineffable poker (points 70) 10 supernatural entities, tired of playing dice with the universe, decide to play poker. Sitting around a round table, they agree that, at midnight, they will all rise to sit down following this rule: each entity will be able to sit back in its previous seat or in one of the two adjacent seats. How many possible configurations of the game table, other than the initial one, after all entities have risen and resettled? [N.B. Two configurations which differ only in one rotation shall be considered the same for the purposes of counting.]
 
-[[src_gs_2008__Q21]]
+[[Quesiti/src_gs_2008#q21|src_gs_2008__Q21]]
 
 
 
@@ -743,7 +743,7 @@ Maximum number of prismatic megaliths in a strip
 
 > The triangular pool (points 70) Crowley and Aziraphale play pool on a triangular pool with the three banks of the same length of 2 m and a hole in each corner. They play with a ball and the rules are as follows: you place the ball in front of a hole and you hit it so that it bounces as many times as you want, but at least twice against one of the shores, and you end it in the hole in front of which the ball was placed. What is the length in centimetres of the minimum path that can be used to send the ball properly into the hole? [N.B. Consider balls and puncture holes, the ball on the same point of the hole and players as powerful as they can serve.] Team competition  Problem texts  Pag. 4 di 5
 
-[[src_gs_2008__Q22]]
+[[Quesiti/src_gs_2008#q22|src_gs_2008__Q22]]
 
 
 
@@ -773,7 +773,7 @@ How to wear T-shirts without colour aversions
 
 > At Tadfield Zoo, III (points 80) In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts that Sylvier had bought if they had no aversion to any color?
 
-[[src_gs_2008__Q23]]
+[[Quesiti/src_gs_2008#q23|src_gs_2008__Q23]]
 
 
 
@@ -804,4 +804,4 @@ How to wear T-shirts without colour aversions
 
 > The prophecy of Agnes Nutter (points 80) The prophecy of Agnes Nutter made it possible to determine precisely what the year would be in A.D. of the events of the Apocalypse. In the prophecy, Agnes stated that the Apocalypse would occur before 10,000 C.E. and that the following indications were definitely false or true:
 
-[[src_gs_2008__Q24]]
+[[Quesiti/src_gs_2008#q24|src_gs_2008__Q24]]

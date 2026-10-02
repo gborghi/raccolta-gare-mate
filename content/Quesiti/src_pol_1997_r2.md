@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 2
 
 > Per qualsiasi numero reale $a$ si trova il numero di triples ordinati $(x, y, z)$ di numeri reali che soddisfano $$x + y^2 + z^2 = a, \quad x^2 + y + z^2 = a, \quad x^2 + y^2 + z = a.$$
 
-[[src_pol_1997_r2__Q01]]
+[[Quesiti/src_pol_1997_r2#q01|src_pol_1997_r2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 2
 
 > $P$ sia il punto all'interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Provare che $$\frac{AC}{AB + PC} = \frac{AB}{AC + PB}.$$
 
-[[src_pol_1997_r2__Q02]]
+[[Quesiti/src_pol_1997_r2#q02|src_pol_1997_r2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 2
 
 > Si devono indicare i punti $n$, di cui non ci sono tre su una linea. Tutti i segmenti con punti di fine in questi punti sono colorati in modo che due segmenti con un punto di fine comune siano di colori diversi. Determinare il minor numero di colori per i quali questo è possibile.
 
-[[src_pol_1997_r2__Q03]]
+[[Quesiti/src_pol_1997_r2#q03|src_pol_1997_r2__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti i trippi di numeri interi positivi con la proprietà che il prodotto di due di loro dà il rimanente 1 dopo la divisione del terzo numero.
 
-[[src_pol_1997_r2__Q04]]
+[[Quesiti/src_pol_1997_r2#q04|src_pol_1997_r2__Q04]]
 
 
 
@@ -143,7 +143,7 @@ La probabilità che la somma dei dadi bianchi mod 7 sia uguale alla somma dei da
 
 > Abbiamo gettato i dadi bianchi e i dadi neri. Trova la probabilità che il restante modulo 7 della somma dei numeri sui dadi bianchi sia uguale al restante modulo 7 della somma dei numeri sui dadi neri.
 
-[[src_pol_1997_r2__Q05]]
+[[Quesiti/src_pol_1997_r2#q05|src_pol_1997_r2__Q05]]
 
 
 
@@ -170,4 +170,4 @@ La probabilità che la somma dei dadi bianchi mod 7 sia uguale alla somma dei da
 
 > Lasciate dare otto punti in un cubo unitario. Prove che due di questi punti sono a distanza non superiore a 1.
 
-[[src_pol_1997_r2__Q06]]
+[[Quesiti/src_pol_1997_r2#q06|src_pol_1997_r2__Q06]]

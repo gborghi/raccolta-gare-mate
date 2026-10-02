@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e $A$ è amico di $B$ se e solo se $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ogni bambino sia vicino a un massimo di due bambini tra qualsiasi coppia di amici. E' sempre possibile farlo?
 
-[[src_bmo_2009-10_round2__Q01]]
+[[Quesiti/src_bmo_2009-10_round2#q01|src_bmo_2009-10_round2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 2
 
 > Nel triangolo $ABC$, il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prova che $\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$.
 
-[[src_bmo_2009-10_round2__Q02]]
+[[Quesiti/src_bmo_2009-10_round2#q02|src_bmo_2009-10_round2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > Trova tutti gli enti $n$ in modo tale che $n^2 + 4$ divida $n^3 + n$, e prova che la tua risposta è completa.
 
-[[src_bmo_2009-10_round2__Q03]]
+[[Quesiti/src_bmo_2009-10_round2#q03|src_bmo_2009-10_round2__Q03]]
 
 
 
@@ -123,4 +123,4 @@ level: BMO Round 2
 
 > Prove che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$\left(\frac{x+y}{z}\right)^2 + \left(\frac{y+z}{x}\right)^2 + \left(\frac{z+x}{y}\right)^2 \ge 3(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right) - 9.$$
 
-[[src_bmo_2009-10_round2__Q04]]
+[[Quesiti/src_bmo_2009-10_round2#q04|src_bmo_2009-10_round2__Q04]]

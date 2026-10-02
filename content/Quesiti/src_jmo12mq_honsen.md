@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > La circonferenza di un cerchio $C_0$ comprende tre punti distinti $A$, $M$, $B$ e $AM = MB$. Per l'arco $AB$ situato sul lato opposto della linea $AB$ da $M$, prendere un punto $P$. Il $C_1$ è il cerchio che è tangente internamente a $C_0$ a $P$ e tangente all'accordo $AB$, e il $Q$ è il punto di tangenza di $C_1$ con l'accordo $AB$. Indicare che, indipendentemente dalla scelta del punto $P$, il prodotto $MP \cdot MQ$ di $MP$ e $MQ$ è costante. (Qui, per due punti $X$, $Y$, la lunghezza del segmento $XY$ è indicata da $XY$.)
 
-[[src_jmo12mq_honsen__Q01]]
+[[Quesiti/src_jmo12mq_honsen#q01|src_jmo12mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JMO Honsen
 
 > $n$ sia un numero naturale con $n \ge 3$. Ci sono monete $n$, ognuna distinguibile come testa o coda, disposte attorno a un cerchio. Considerate l'"operazione" di lanciare contemporaneamente tutte le monete che soddisfano la seguente condizione. Condizione: tra le tre monete costituite da quella moneta insieme alle due monete su entrambi i lati, il numero di monete con teste è strano. Inizialmente, esattamente una delle monete mostra teste. A partire da questo stato, l'operazione di cui sopra viene ripetuta più volte. Rispondete alle seguenti domande. 1) Indicare che se $n$ è impar, è impossibile che tutte le monete diventino coda (faccia in basso). (2) Determinare per quale $n$ è possibile, dopo aver eseguito l'operazione un certo numero di volte, che tutte le monete siano rivolte verso il basso. Inoltre, in tali casi, esprimere in termini di $n$ dopo quante operazioni tutte le monete diventano prima faccia a faccia.
 
-[[src_jmo12mq_honsen__Q02]]
+[[Quesiti/src_jmo12mq_honsen#q02|src_jmo12mq_honsen__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JMO Honsen
 
 > $S(n)$ indichi la somma delle cifre di un numero naturale $n$ quando è scritto in base dieci. Mostrare che esistono $2002$ numeri naturali separati in coppia $n_1, n_2, \ldots, n_{2002}$ in modo tale che $$n_1 + S(n_1) = n_2 + S(n_2) = \cdots = n_{2002} + S(n_{2002}).$$
 
-[[src_jmo12mq_honsen__Q03]]
+[[Quesiti/src_jmo12mq_honsen#q03|src_jmo12mq_honsen__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: JMO Honsen
 
 > $n$ sia un numero naturale con $n \ge 3$. Supponiamo che i numeri reali positivi $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfino $$a_1 + a_2 + \cdots + a_n = 1$$ $$b_1^2 + b_2^2 + \cdots + b_n^2 = 1.$$ Proviamo che la disuguaglianza $$a_1(b_1 + b_2) + a_2(b_2 + b_3) + \cdots + a_n(b_n + b_1) < 1$$ sia valida.
 
-[[src_jmo12mq_honsen__Q04]]
+[[Quesiti/src_jmo12mq_honsen#q04|src_jmo12mq_honsen__Q04]]
 
 
 
@@ -141,4 +141,4 @@ level: JMO Honsen
 
 > Sul piano $xy$, inserire un insieme $S$ composto da punti $2002$ in modo da soddisfare la seguente condizione. Condizione: tra i punti di $S$, ogni due punti distinti hanno coordinate $x$ distinte e anche coordinate $y$ distinte. Per due punti distinti $P$, $Q$ di $S$, considerare il rettangolo che ha il segmento $PQ$ come diagonale e con ogni lato parallelo all'asse $x$ o all'asse $y$, e $W_{PQ}$ essere il numero di punti di $S$ situati all'interno (i punti $P$, $Q$ non inclusi). Trova il numero naturale più grande $n$ in modo tale che, indipendentemente dal modo in cui il set $S$ è posizionato (soggetto alla condizione di cui sopra), esista sempre almeno una coppia di punti $P$, $Q$ di $S$ con $W_{PQ} \ge n$.
 
-[[src_jmo12mq_honsen__Q05]]
+[[Quesiti/src_jmo12mq_honsen#q05|src_jmo12mq_honsen__Q05]]

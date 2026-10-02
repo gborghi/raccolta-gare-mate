@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Si consideri una scacchiera standard $8 \times 8$ costituita da 64 piccoli quadrati colorati nel solito modello, quindi 32 in nero e 32 in bianco. Un percorso in zigzag attraverso il bordo è una raccolta di otto quadrati bianchi, uno in ogni riga, che si incontrano negli angoli. Quanti percorsi zigzag ci sono?
 
-[[src_bmo_2008-09_round1__Q01]]
+[[Quesiti/src_bmo_2008-09_round1#q01|src_bmo_2008-09_round1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Trova tutti i valori reali di $x$, $y$ e $z$ in modo tale che $$(x+1)yz = 12, \quad (y+1)zx = 4 \quad \text{and} \quad (z+1)xy = 4.$$
 
-[[src_bmo_2008-09_round1__Q02]]
+[[Quesiti/src_bmo_2008-09_round1#q02|src_bmo_2008-09_round1__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 1
 
 > Il $ABPC$ deve essere un parallelo tale che $ABC$ sia un triangolo acuto. Il circoncircolo del triangolo $ABC$ incontra di nuovo la linea $CP$ a $Q$. Prove che $PQ = AC$ se, e solo se, $\angle BAC = 60^\circ$. Il circoncircolo di un triangolo è il cerchio che passa attraverso le sue vertici.
 
-[[src_bmo_2008-09_round1__Q03]]
+[[Quesiti/src_bmo_2008-09_round1#q03|src_bmo_2008-09_round1__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri positivi $n$ in modo tale che entrambi $n + 2008$ dividano $n^2 + 2008$ e $n + 2009$ dividono $n^2 + 2009$.
 
-[[src_bmo_2008-09_round1__Q04]]
+[[Quesiti/src_bmo_2008-09_round1#q04|src_bmo_2008-09_round1__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: BMO Round 1
 
 > Determinare le sequenze $a_0, a_1, a_2, \ldots$ che soddisfano tutte le seguenti condizioni: a) $a_{n+1} = 2a_n^2 - 1$ per ogni numero intero $n \ge 0$, b) $a_0$ è un numero razionale e c) $a_i = a_j$ per alcuni $i, j$ con $i \neq j$.
 
-[[src_bmo_2008-09_round1__Q05]]
+[[Quesiti/src_bmo_2008-09_round1#q05|src_bmo_2008-09_round1__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: BMO Round 1
 
 > Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
 
-[[src_bmo_2008-09_round1__Q06]]
+[[Quesiti/src_bmo_2008-09_round1#q06|src_bmo_2008-09_round1__Q06]]

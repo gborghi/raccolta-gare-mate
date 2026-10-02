@@ -39,7 +39,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 > There are three types of coins denominated in Altair dollars (DA), with a value of 3 DA, 5 DA and 7 DA. Andromeda would like to buy a snack from one of those evil machines that don't give back. With the coins he owns, he could buy a 29 DA snack, but he pays 32 DA, and he can't do it with less. There's a 24-day snack. How much does Andromeda have to spend, at least, to get it?
 
 **Answer:** 25
-[[src_cesenatico_2026_nazionale__Q01]]
+[[Quesiti/src_cesenatico_2026_nazionale#q01|src_cesenatico_2026_nazionale__Q01]]
 
 
 
@@ -74,7 +74,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 
 > A straight cone and a crunching chalk cable is 10 cm high. A sphere of ice is inserted, centered at a point O of the cone axis and tangent to the lateral surface of the cone along the circumference of the base. Whether V is the top of the cone and K is the intersection point of the VO segment with the surface of the sphere. Show that the VK distance between the top of the cone and the sphere is greater than 5 cm.
 
-[[src_cesenatico_2026_nazionale__Q02]]
+[[Quesiti/src_cesenatico_2026_nazionale#q02|src_cesenatico_2026_nazionale__Q02]]
 
 
 
@@ -106,7 +106,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 
 > (a) Determine all pairs of positive integers n > m with the following property: there exists a positive integer such that the smallest prime dividing n + a coincides with the smallest prime dividing m + a. (b) Determine all pairs of positive integers n > m with the following property: there exists a positive integer such that the smallest prime dividing n + a coincides with the largest prime dividing m + a.
 
-[[src_cesenatico_2026_nazionale__Q03]]
+[[Quesiti/src_cesenatico_2026_nazionale#q03|src_cesenatico_2026_nazionale__Q03]]
 
 
 
@@ -142,7 +142,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 
 > Whether ABC is a triangle with AC > AB and D the middle point of the arc BC of the circumference circumscribed to ABC not containing A. The line perpendicular to AD passing through B intersects the line parallel to AD passing through C at point E. The line parallel to AB passing through E intersects AC at point F . Demonstrate that the angle \ AFD is straight.
 
-[[src_cesenatico_2026_nazionale__Q04]]
+[[Quesiti/src_cesenatico_2026_nazionale#q04|src_cesenatico_2026_nazionale__Q04]]
 
 
 
@@ -174,7 +174,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 > A set of positive integers S is said to be distant if it contains no pair of elements the difference of which is one of the numbers 5, 10, 12, 17. For example, {1, 2, 3, 10, 30} is distant, while {1, 2, 3, 11} is not (because 11 −1 = 10). How many elements can have, at most, a distant subset of {1, 2, 3, . . . , 2025, 2026}?
 
 **Answer:** 646
-[[src_cesenatico_2026_nazionale__Q05]]
+[[Quesiti/src_cesenatico_2026_nazionale#q05|src_cesenatico_2026_nazionale__Q05]]
 
 
 
@@ -215,4 +215,4 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 > Problem 1  Solution Andromeda must spend at least 25 DA.
 
 **Answer:** No, max 37m
-[[src_cesenatico_2026_nazionale__Q06]]
+[[Quesiti/src_cesenatico_2026_nazionale#q06|src_cesenatico_2026_nazionale__Q06]]

@@ -34,7 +34,7 @@ level: kangourou
 > Elena has 20 balls, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many brown balls are there?
 
 **Answer:** 4
-[[src_kangourou_2012_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2012_cadet_finale#qc1|src_kangourou_2012_cadet_finale__QC1]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
 
 **Answer:** 5
-[[src_kangourou_2012_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2012_cadet_finale#qc2|src_kangourou_2012_cadet_finale__QC2]]
 
 
 
@@ -91,7 +91,7 @@ level: kangourou
 > Assigned three non-aligned points in space, how many spheres pass through these three points? If you have more than one, how can you determine the radius of the one with the least radius?
 
 **Answer:** infinite
-[[src_kangourou_2012_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2012_cadet_finale#qc3|src_kangourou_2012_cadet_finale__QC3]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 
 *Si puo ottenere somma 2012 sulle facce esposte dei dadi*
 
-![[src_kangourou_2012_cadet_finale__probC4.png]]
+![[src_kangourou_2012_cadet_finale__probc4.png]]
 
 > Pietro vuole mettere in fila un certo numero di dadi tradizionali (la somma dei punti su facce opposte è sempre 7), come ti mostra la figura. Incolla due facce insieme solo se il numero di punti sulle due facce è uguale, e vuole ottenere una fila in modo che la somma dei punti su tutte le facce esposte sia 2012. Può riuscirci e, in caso affermativo, quanti dadi deve usare? (vedi figura)
 
@@ -119,12 +119,12 @@ level: kangourou
 
 *You can get sum 2012 on the exposed faces of the dice*
 
-![[src_kangourou_2012_cadet_finale__probC4.png]]
+![[src_kangourou_2012_cadet_finale__probc4.png]]
 
 > Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. He joins two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is 2012. Can he do it, and if so, how many dice does he have to use? (see figure)
 
 **Answer:** no
-[[src_kangourou_2012_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2012_cadet_finale#qc4|src_kangourou_2012_cadet_finale__QC4]]
 
 
 
@@ -152,7 +152,7 @@ level: kangourou
 > Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a button with keys from 0 to 99: pressing a button the elevator will reach the floor corresponding to the number shown on the key, but it will be occupied for a time that is not related in any way to the completed route. Considering that Maurizio can see through the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
 
 **Answer:** 6
-[[src_kangourou_2012_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2012_cadet_finale#qc5|src_kangourou_2012_cadet_finale__QC5]]
 
 
 
@@ -163,7 +163,7 @@ level: kangourou
 
 *Ogni poliedro ha due facce con stesso numero di spigoli*
 
-![[src_kangourou_2012_cadet_finale__probC6.png]]
+![[src_kangourou_2012_cadet_finale__probc6.png]]
 
 > Dimostra che ogni poliedro (solido la cui superficie è costituita da un numero finito di poligoni) ha almeno due facce che hanno lo stesso numero di spigoli. Esistono poliedri che non hanno (almeno) tre facce con lo stesso numero di spigoli?
 
@@ -180,9 +180,9 @@ level: kangourou
 
 *Each polyhedron has two faces with the same number of beads*
 
-![[src_kangourou_2012_cadet_finale__probC6.png]]
+![[src_kangourou_2012_cadet_finale__probc6.png]]
 
 > It shows that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of vertices. Are there polyhedra that do not have (at least) three faces with the same number of beads?
 
 **Answer:** si
-[[src_kangourou_2012_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2012_cadet_finale#qc6|src_kangourou_2012_cadet_finale__QC6]]

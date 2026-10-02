@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Il $\Gamma$ deve essere un cerchio e il $A$ un punto esterno a $\Gamma$. Le linee tangenti a $\Gamma$ che attraversano $A$ toccano $\Gamma$ a $B$ e $C$. $M$ sia il punto medio di $AB$. Il segmento $MC$ incontra di nuovo $\Gamma$ a $D$ e la riga $AD$ incontra di nuovo $\Gamma$ a $E$. Dato che $AB = a$ e $BC = b$, trovare $CE$ in termini di $a$ e $b$.
 
-[[src_obm_2013_n3_f3__Q01]]
+[[Quesiti/src_obm_2013_n3_f3#q01|src_obm_2013_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 
 > Arnaldo e Bernaldo giocano il seguente gioco: data una serie finita fissa $A$ di numeri interi positivi, Arnaldo sceglie un numero $a$ appartenente a $A$ (ma non dice a nessuno quale numero ha scelto). Quindi Bernaldo sceglie qualsiasi numero intero positivo $b$ (che può o non può appartenere a $A$). Arnaldo annuncia quindi solo il numero di divisori positivi del prodotto $ab$. Mostrare che Arnaldo può sempre scegliere $b$ in modo da poter scoprire il numero $a$ scelto da Arnaldo.
 
-[[src_obm_2013_n3_f3__Q02]]
+[[Quesiti/src_obm_2013_n3_f3#q02|src_obm_2013_n3_f3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 
 > Trovare tutte le funzioni iniettrici $f$ dai reali non-zero ai reali non-zero in modo tale che $$f(x+y) \cdot \bigl(f(x) + f(y)\bigr) = f(xy)$$ per tutte le $x, y$ reali e non-zero con $x + y \neq 0$.
 
-[[src_obm_2013_n3_f3__Q03]]
+[[Quesiti/src_obm_2013_n3_f3#q03|src_obm_2013_n3_f3__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 
 > Trova il valore più grande di $n$ per il quale esiste una sequenza $(a_1, a_2, \ldots, a_n)$ di cifre non zero (cioè $a_i \in \{1,2,3,4,5,6,7,8,9\}$) tale che per ogni $k$ con $1 \le k \le n$, il numero $k$ di cifre $(a_1 a_2 \cdots a_k)$ formato dai primi numeri $k$ divida il numero $(k+1)$ di cifre $(a_1 a_2 \cdots a_k a_{k+1})$. (Qui $(a_1 a_2 \cdots a_m)$ indica il numero $a_1 \cdot 10^{m-1} + a_2 \cdot 10^{m-2} + \cdots + a_m$.)
 
-[[src_obm_2013_n3_f3__Q04]]
+[[Quesiti/src_obm_2013_n3_f3#q04|src_obm_2013_n3_f3__Q04]]
 
 
 
@@ -143,7 +143,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 
 > Che $x$ sia un numero irrazionale con $0 < x < 1$, e che $x = 0.a_1 a_2 a_3 \cdots$ sia la sua espansione decimale. Per ogni $k \ge 1$, $p(k)$ indica il numero di sequenze distinte di $k$ cifre consecutive nell'espansione decimale di $x$. Prova che $p(k) \ge k+1$ per ogni intero positivo $k$.
 
-[[src_obm_2013_n3_f3__Q05]]
+[[Quesiti/src_obm_2013_n3_f3#q05|src_obm_2013_n3_f3__Q05]]
 
 
 
@@ -170,4 +170,4 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 
 > L'incircolo del triangolo $ABC$ tocca i lati $BC$, $CA$ e $AB$ rispettivamente nei punti $D$, $E$ e $F$. Il punto di intersezione delle linee $AD$ e $BE$ è $P$. I riflessi di $P$ rispetto alle linee $EF$, $FD$ e $DE$ sono rispettivamente $X$, $Y$ e $Z$. Prove che le linee $AX$, $BY$ e $CZ$ hanno un punto comune sulla linea $IO$, dove $I$ è il centro e $O$ è il centro circostante del triangolo $ABC$.
 
-[[src_obm_2013_n3_f3__Q06]]
+[[Quesiti/src_obm_2013_n3_f3#q06|src_obm_2013_n3_f3__Q06]]

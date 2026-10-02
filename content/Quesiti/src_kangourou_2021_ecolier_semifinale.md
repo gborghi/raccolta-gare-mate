@@ -127,7 +127,7 @@ level: kangourou
 > E) 7
 
 **Answer:** E
-[[src_kangourou_2021_ecolier_semifinale__Q01]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q01|src_kangourou_2021_ecolier_semifinale__Q01]]
 
 
 
@@ -165,7 +165,7 @@ level: kangourou
 > B) 12 C) 14 D) 16 E) 18
 
 **Answer:** D
-[[src_kangourou_2021_ecolier_semifinale__Q02]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q02|src_kangourou_2021_ecolier_semifinale__Q02]]
 
 
 
@@ -257,7 +257,7 @@ level: kangourou
 > B) 28 C) 22 D) 16 E) 14
 
 **Answer:** C
-[[src_kangourou_2021_ecolier_semifinale__Q03]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q03|src_kangourou_2021_ecolier_semifinale__Q03]]
 
 
 
@@ -304,7 +304,7 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2021_ecolier_semifinale__Q04]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q04|src_kangourou_2021_ecolier_semifinale__Q04]]
 
 
 
@@ -344,7 +344,7 @@ level: kangourou
 > B) 13 C) 14 D) 16 E) 17
 
 **Answer:** C
-[[src_kangourou_2021_ecolier_semifinale__Q05]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q05|src_kangourou_2021_ecolier_semifinale__Q05]]
 
 
 
@@ -390,7 +390,7 @@ How many rabbits eat carrots today?
 > 3 2 8
 
 **Answer:** B
-[[src_kangourou_2021_ecolier_semifinale__Q06]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q06|src_kangourou_2021_ecolier_semifinale__Q06]]
 
 
 
@@ -436,7 +436,7 @@ How many rabbits eat carrots today?
 > D)10 E) 12
 
 **Answer:** A
-[[src_kangourou_2021_ecolier_semifinale__Q07]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q07|src_kangourou_2021_ecolier_semifinale__Q07]]
 
 
 
@@ -476,7 +476,7 @@ How many rabbits eat carrots today?
 > B) 12 C) 13 D) 14 E) 15
 
 **Answer:** D
-[[src_kangourou_2021_ecolier_semifinale__Q08]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q08|src_kangourou_2021_ecolier_semifinale__Q08]]
 
 
 
@@ -524,7 +524,7 @@ How many rabbits eat carrots today?
 > Open-ended questions
 
 **Answer:** C
-[[src_kangourou_2021_ecolier_semifinale__Q09]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q09|src_kangourou_2021_ecolier_semifinale__Q09]]
 
 
 
@@ -554,7 +554,7 @@ How many rabbits eat carrots today?
 > (4 points) The sum of the 2021 figures is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
 
 **Answer:** 3
-[[src_kangourou_2021_ecolier_semifinale__Q10]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q10|src_kangourou_2021_ecolier_semifinale__Q10]]
 
 
 
@@ -583,7 +583,7 @@ How many rabbits eat carrots today?
 > (4 points) One anguria weighs 3 kg less than three anguries. All anguries have the same weight. Which is it, in eights?
 
 **Answer:** 15
-[[src_kangourou_2021_ecolier_semifinale__Q11]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q11|src_kangourou_2021_ecolier_semifinale__Q11]]
 
 
 
@@ -614,7 +614,7 @@ How many rabbits eat carrots today?
 > (6 points) Edward, Susanna and Teresa play cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
 
 **Answer:** 3
-[[src_kangourou_2021_ecolier_semifinale__Q12]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q12|src_kangourou_2021_ecolier_semifinale__Q12]]
 
 
 
@@ -645,7 +645,7 @@ How many rabbits eat carrots today?
 > (6 points) Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
 
 **Answer:** 25
-[[src_kangourou_2021_ecolier_semifinale__Q13]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q13|src_kangourou_2021_ecolier_semifinale__Q13]]
 
 
 
@@ -674,7 +674,7 @@ How many rabbits eat carrots today?
 > (8 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
 **Answer:** 101
-[[src_kangourou_2021_ecolier_semifinale__Q14]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q14|src_kangourou_2021_ecolier_semifinale__Q14]]
 
 
 
@@ -713,4 +713,4 @@ How many rabbits eat carrots today?
 > The Commission has already adopted a proposal for a regulation on the approximation of the laws of the Member States.
 
 **Answer:** 17
-[[src_kangourou_2021_ecolier_semifinale__Q15]]
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q15|src_kangourou_2021_ecolier_semifinale__Q15]]

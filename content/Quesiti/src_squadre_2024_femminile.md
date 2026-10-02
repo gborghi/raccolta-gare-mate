@@ -36,7 +36,7 @@ level: squadre
 
 > Party at SherLog Hodge Castle, the famous detective, covertly watches the 33 party participants. He knows that some are on his side, while others are loyal to his bitter enemy, Mongearty. Some participants shake hands, but only if they didn't know each other before. Knowing that members of the same faction already knew each other, how many handshakes did SherLog observe?
 
-[[src_squadre_2024_femminile__Q01]]
+[[Quesiti/src_squadre_2024_femminile#q01|src_squadre_2024_femminile__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 
 > Attempting to capture SherLog Hodge and trusted Wolfram build a trap to trap Mongearty. It is an ABCD rectangle with AB length 48dm and BC length 20dm. On the AC diagonal a rectangle is constructed such that AC is one side and the side opposite it passes through B. In the same way on BD you build a rectangle passing through A. If Mongearty enters the area formed by the union of the three rectangles, the trap will break out. Wolfram wonders if the area is enough. How much is the area in dm2?
 
-[[src_squadre_2024_femminile__Q02]]
+[[Quesiti/src_squadre_2024_femminile#q02|src_squadre_2024_femminile__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: squadre
 
 > Noted yellow book writer Jessica Fourier likes to put some math questions in her novels. In its last effort, it asks the reader how many pairs (x,y) of integers with \\\displaystyle \\\mathbb {≤4000} are so there exists a positive integer k that satisfies the relation x2 +y2 +22k−1 +2kx−2ky = 0. What's the answer?
 
-[[src_squadre_2024_femminile__Q03]]
+[[Quesiti/src_squadre_2024_femminile#q03|src_squadre_2024_femminile__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: squadre
 
 > The road to Inspector Gauget's shelter lies at the base of a 600 m long conical mountain with a base radius of 150 m. He must capture a fugitive, hidden in the shelter that is on the side of the mountain exactly 150 meters from him towards the top of the mountain. To reach the shelter, the inspector takes the shortest route, which also makes a complete tour around the mountain; note that, curiously, the route is firstly up and then down. How many meters is the climb?
 
-[[src_squadre_2024_femminile__Q04]]
+[[Quesiti/src_squadre_2024_femminile#q04|src_squadre_2024_femminile__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: squadre
 
 > Pizzini for MontyHallbano The boss of the Sin(agra) gives code orders using sequences of exactly three letters, all distinct, taken from an alphabet that has all n letters. Commissioner MontyHallbano cannot translate the orders written on the plates, but he knows that the total number of possible sequences is multiple of 11 and 19. How much is n worth, at least?
 
-[[src_squadre_2024_femminile__Q05]]
+[[Quesiti/src_squadre_2024_femminile#q05|src_squadre_2024_femminile__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: squadre
 
 > The generosity of Zenonigata Zenonigata is so obsessed with Lupin/3 that he has promised that when he captures him, he will give to his colleagues as many MathYen as the sum of the digits of the sum of the digits of the sum of the digits of 20232024. How many MathYen are there?
 
-[[src_squadre_2024_femminile__Q06]]
+[[Quesiti/src_squadre_2024_femminile#q06|src_squadre_2024_femminile__Q06]]
 
 
 
@@ -216,7 +216,7 @@ level: squadre
 
 > Jessica Fourier's challenge Jessica Fourier has the classic math writer's block. To distract himself, he challenges Dr. Seven: both have a sheet with an identical circumference drawn and have to cut a quadrilateral. Both quadrilaterals must have the same area. Il Dr. Seven cuts the square inscribed in the circumference. Jessica instead draws an AB rope 400 mm from center C and the tangents at points A and B to the circumference that intersect in P. So cut the CAPB quadrilateral. What is the radius of the two identical circumferences in mm?
 
-[[src_squadre_2024_femminile__Q07]]
+[[Quesiti/src_squadre_2024_femminile#q07|src_squadre_2024_femminile__Q07]]
 
 
 
@@ -253,7 +253,7 @@ level: squadre
 > 
 > People at my side hide at least two members of the Organization; all the others, on the other hand, declare: Detective Kolmogoro, behind coNaN's suggestion, concludes: Assuming that the members of the Organization always lie and that everyone else always tells the truth, it is possible that the number of members of the Organization is... With how many different numbers could Kolmogoro finish the sentence?
 
-[[src_squadre_2024_femminile__Q08]]
+[[Quesiti/src_squadre_2024_femminile#q08|src_squadre_2024_femminile__Q08]]
 
 
 
@@ -285,7 +285,7 @@ level: squadre
 
 > The design by Fuzzy [⋆] Inspector Giuseppe Fuzzy, MontyHallbano's collaborator, draws an isosceles ABC triangle in A. It then takes the D and E points respectively on the AC and AB sides such that DE is parallel to BC. The intersection between the BD and EC segments shows that \ BPC = 60°. It is also known that the circumferences in the quadrilateral ADPE and the triangle BPC have congruent radii and that the height of the triangle ABC relative to the vertex A is 1200. He then asks Commissioner MontyHallbano: How big is the AC side?
 
-[[src_squadre_2024_femminile__Q09]]
+[[Quesiti/src_squadre_2024_femminile#q09|src_squadre_2024_femminile__Q09]]
 
 
 
@@ -315,7 +315,7 @@ level: squadre
 
 > Lieutenant Coulomb has already figured out who the culprit is, so he's playing psychology to get him to confess. The question that Coulomb asks, and which brings down the suspect, is this: how many of the nonempty subsets of {1,2,...,12} does the product of the elements have zero as the number of units?
 
-[[src_squadre_2024_femminile__Q10]]
+[[Quesiti/src_squadre_2024_femminile#q10|src_squadre_2024_femminile__Q10]]
 
 
 
@@ -347,7 +347,7 @@ level: squadre
 
 > Perverse game [⋆] Mongearty captured poor Wolfram and placed him in the center of a regular polygon of 2024 peaks. To mock SherLog Hodge, Mongearty plays a perverse game: he randomly chooses a subset C of 100 vertices such that there are no two opposites to the center of the polygon. Then he builds all the possible triangles with vertices in C: if Wolfram is outside all these triangles he'll save his life. SherLog has already calculated the fraction f, reduced to the minimum, corresponding to the probability that Wolfram will survive. How much is the f-number?
 
-[[src_squadre_2024_femminile__Q11]]
+[[Quesiti/src_squadre_2024_femminile#q11|src_squadre_2024_femminile__Q11]]
 
 
 
@@ -417,4 +417,4 @@ level: squadre
 > 
 > XXV National Semifinal Team Competition 1  Friday 3 May 2024 Ministry of Education and Merit Solutions Nr. The problem
 
-[[src_squadre_2024_femminile__Q12]]
+[[Quesiti/src_squadre_2024_femminile#q12|src_squadre_2024_femminile__Q12]]

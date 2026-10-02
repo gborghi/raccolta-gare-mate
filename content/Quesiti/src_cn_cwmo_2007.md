@@ -35,7 +35,7 @@ level: China Western Mathematical Olympiad
 
 > $P$ sia un punto interno di un triangolo angolato acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Dato che $\triangle DEF \sim \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
 
-[[src_cn_cwmo_2007__Q01]]
+[[Quesiti/src_cn_cwmo_2007#q01|src_cn_cwmo_2007__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Western Mathematical Olympiad
 
 > Let $C$ and $D$ be two intersection points of circle $O_1$ and circle $O_2$. A line, passing through $D$, intersects circle $O_1$ at points $A$ and $B$ respectively. The points $P$ and $Q$ are on circle $O_2$ and circle $O_1$, respectively. The lines $PD$ and $AC$ intersect at $M$, and the lines $QD$ and $BC$ intersect at $N$. Suppose $O$ is the circumcenter of the triangle $ABC$, prove that $OD \perp MN$ if and only if $P$, $Q$, $M$, $N$ are concyclic.
 
-![[src_cn_b07_w158__Q02.png]]
+![[src_cn_b07_w158__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -64,9 +64,9 @@ level: China Western Mathematical Olympiad
 
 > I punti $C$ e $D$ siano due punti di intersezione del cerchio $O_1$ e del cerchio $O_2$. Una linea che attraversa $D$ incrocia il cerchio $O_1$ rispettivamente nei punti $A$ e $B$. I punti $P$ e $Q$ sono rispettivamente sul cerchio $O_2$ e sul cerchio $O_1$. Le linee $PD$ e $AC$ si incrociano a $M$, e le linee $QD$ e $BC$ si incrociano a $N$. Supponiamo che $O$ sia il centro circoncentrale del triangolo $ABC$, dimostriamo che $OD \perp MN$ se e solo se $P$, $Q$, $M$, $N$ sono conciclici.
 
-![[src_cn_b07_w158__Q02.png]]
+![[src_cn_b07_w158__q02.png]]
 
-[[src_cn_cwmo_2007__Q02]]
+[[Quesiti/src_cn_cwmo_2007#q02|src_cn_cwmo_2007__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Provare che $$\frac{1}{5a^2 - 4a + 11} + \frac{1}{5b^2 - 4b + 11} + \frac{1}{5c^2 - 4c + 11} \le \frac{1}{4}.$$
 
-[[src_cn_cwmo_2007__Q03]]
+[[Quesiti/src_cn_cwmo_2007#q03|src_cn_cwmo_2007__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: China Western Mathematical Olympiad
 
 > $O$ sia un punto interno del triangolo $ABC$. Prova che esistono integri positivi $p$, $q$ e $r$, in modo tale che $$\left| p \cdot \overrightarrow{OA} + q \cdot \overrightarrow{OB} + r \cdot \overrightarrow{OC} \right| < \frac{1}{2007}.$$
 
-[[src_cn_cwmo_2007__Q04]]
+[[Quesiti/src_cn_cwmo_2007#q04|src_cn_cwmo_2007__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: China Western Mathematical Olympiad
 > C'è un triangolo con lati di lunghezza integrale, in modo che la lunghezza del lato più corto sia $2007$ e l'angolo più grande sia il doppio più piccolo?
 
 **Risposta:** No
-[[src_cn_cwmo_2007__Q05]]
+[[Quesiti/src_cn_cwmo_2007#q05|src_cn_cwmo_2007__Q05]]
 
 
 
@@ -179,7 +179,7 @@ level: China Western Mathematical Olympiad
 
 > Trovare tutti i numeri interi positivi $x_1, x_2, \ldots, x_s, y$ che soddisfano le seguenti condizioni $$\begin{cases} \lfloor x_i + x_j \rfloor = 0, & 1 \le i < j \le s, \\ \lfloor x \rfloor + 1 = x_k y^s. \end{cases}$$
 
-[[src_cn_cwmo_2007__Q06]]
+[[Quesiti/src_cn_cwmo_2007#q06|src_cn_cwmo_2007__Q06]]
 
 
 
@@ -206,4 +206,4 @@ level: China Western Mathematical Olympiad
 
 > $P$ sia un punto interno del triangolo a angolo acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Con $\triangle DEF \cong \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
 
-[[src_cn_cwmo_2007__Q07]]
+[[Quesiti/src_cn_cwmo_2007#q07|src_cn_cwmo_2007__Q07]]

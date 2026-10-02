@@ -40,7 +40,7 @@ level: kangourou
 > On an island there are exactly 190 mice and 20 cats. After each cat has eaten five mice, how many live animals, mice and cats, remain on the island? A) 90 B) 100 C) 110 D) 95 E) 85
 
 **Answer:** C
-[[src_kangourou_2018_ecolier_semif__Q01]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q01|src_kangourou_2018_ecolier_semif__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: kangourou
 > E) 11
 
 **Answer:** A
-[[src_kangourou_2018_ecolier_semif__Q02]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q02|src_kangourou_2018_ecolier_semif__Q02]]
 
 
 
@@ -139,7 +139,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2018_ecolier_semif__Q03]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q03|src_kangourou_2018_ecolier_semif__Q03]]
 
 
 
@@ -186,7 +186,7 @@ level: kangourou
 > D) 18 E) 24
 
 **Answer:** E
-[[src_kangourou_2018_ecolier_semif__Q04]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q04|src_kangourou_2018_ecolier_semif__Q04]]
 
 
 
@@ -234,7 +234,7 @@ Price of the gift item given total expenditure of EUR 25
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2018_ecolier_semif__Q05]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q05|src_kangourou_2018_ecolier_semif__Q05]]
 
 
 
@@ -271,7 +271,7 @@ What six-digit number could Mary not have written?
 > Maria has six cards: three of them have the same number R, two of them have the same number S other than R and one of them has a number T different from R and S. By approaching them, Mary formed the largest six-digit number she could. You don't know the three digits, but you can be sure that one of the following numbers is not the one Mary wrote. What kind? (a) RRRSST (b) TRRRSSC) SSRRRT (d) RRRSST (e) RRRTSS
 
 **Answer:** D
-[[src_kangourou_2018_ecolier_semif__Q06]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q06|src_kangourou_2018_ecolier_semif__Q06]]
 
 
 
@@ -324,7 +324,7 @@ What six-digit number could Mary not have written?
 > (Points 5) In each cell of Table 4 × 4 in Figure 1 or 3 shall be inserted so that in each Table 2 × 2 contained in Table 4 × 4 there are three and no more than three equal numbers. What is the maximum value of the sum of all 16 numbers once entered? A) 42               B) 40            C) 36            D) 33              E) 30
 
 **Answer:** B
-[[src_kangourou_2018_ecolier_semif__Q07]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q07|src_kangourou_2018_ecolier_semif__Q07]]
 
 
 
@@ -364,7 +364,7 @@ Missing maps for castle of 11 floors having 10
 > (Points 5) Look at the three card castles in the figure. For the first one (which is one floor) two cards are needed, for the second one (which is two floors) seven cards are needed, for the third one (which is three floors) fifteen cards are needed. Giuliana found out that she has exactly as many cards as she needs to build a 10-story castle, but she would like to build an 11-story castle. A) 21          B) 23          C) 32           D) 35           E) 37
 
 **Answer:** C
-[[src_kangourou_2018_ecolier_semif__Q08]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q08|src_kangourou_2018_ecolier_semif__Q08]]
 
 
 
@@ -423,7 +423,7 @@ Missing maps for castle of 11 floors having 10
 > (e) Open-ended questions
 
 **Answer:** B
-[[src_kangourou_2018_ecolier_semif__Q09]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q09|src_kangourou_2018_ecolier_semif__Q09]]
 
 
 
@@ -463,7 +463,7 @@ Maximum number of polygons with 41 matches
 > The figure shows how, with all matches equal to each other, triangles, squares and pentagons can be constructed. You have 41 matches, all equal to one another. By using them all you want to build as many polygons as possible, but by making sure that each match is part of a single polygon and that there is at least one triangle, square and pentagon. How many polygons can you build, at most?
 
 **Answer:** 12
-[[src_kangourou_2018_ecolier_semif__Q10]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q10|src_kangourou_2018_ecolier_semif__Q10]]
 
 
 
@@ -494,7 +494,7 @@ Maximum number of polygons with 41 matches
 > By choosing a number 345 and a number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. How much is the new sum?
 
 **Answer:** 1293
-[[src_kangourou_2018_ecolier_semif__Q11]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q11|src_kangourou_2018_ecolier_semif__Q11]]
 
 
 
@@ -524,7 +524,7 @@ Maximum number of polygons with 41 matches
 > (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-duty one, would open to fill it in six hours?
 
 **Answer:** 3
-[[src_kangourou_2018_ecolier_semif__Q12]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q12|src_kangourou_2018_ecolier_semif__Q12]]
 
 
 
@@ -556,7 +556,7 @@ Maximum number of polygons with 41 matches
 > (Points 6) In each of the spaces (denoted by three dots) of the equation ... + ... + ... = ... + ... + ... ... enter one and only one of the seven numbers 1, 3, 4, 5, 7, 11, 15, so that all but one of them are used and the operation is correct. What number is ahead of you?
 
 **Answer:** 4
-[[src_kangourou_2018_ecolier_semif__Q13]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q13|src_kangourou_2018_ecolier_semif__Q13]]
 
 
 
@@ -587,7 +587,7 @@ Maximum number of polygons with 41 matches
 > (Documents 8) Approaching, without overlapping, 6,000 squares all equal to each other can yield a rectangle whose base consists of 100 squares. How many points of this rectangle are simultaneously vertices of 4 of the 6,000 squares that make up it?
 
 **Answer:** 5841
-[[src_kangourou_2018_ecolier_semif__Q14]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q14|src_kangourou_2018_ecolier_semif__Q14]]
 
 
 
@@ -629,4 +629,4 @@ Maximum number of polygons with 41 matches
 > 0012 1293 0003 0004 5841 0090
 
 **Answer:** 90
-[[src_kangourou_2018_ecolier_semif__Q15]]
+[[Quesiti/src_kangourou_2018_ecolier_semif#q15|src_kangourou_2018_ecolier_semif__Q15]]

@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere il sistema di equazioni $x|x| + y|y| = |x| + |y| = 1$.
 
-[[src_pol_1997_r1__Q01]]
+[[Quesiti/src_pol_1997_r1#q01|src_pol_1997_r1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 1
 
 > $P$ deve essere un punto all'interno di un parallelo $ABCD$ tale che $\angle ABP = \angle ADP$. Prove che $\angle PAB = \angle PCB$.
 
-[[src_pol_1997_r1__Q02]]
+[[Quesiti/src_pol_1997_r1#q02|src_pol_1997_r1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 1
 
 > $a, b \ge 1$, $c \ge 0$ siano numeri reali e $n \ge 1$ un numero intero. Provare che $$(ab + c)^n - c \le a^n \left( (b + c)^n - c \right).$$
 
-[[src_pol_1997_r1__Q03]]
+[[Quesiti/src_pol_1997_r1#q03|src_pol_1997_r1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che un intero $n \ge 2$ è composto se e solo se ci sono interi positivi $a, b, x, y$ con $a + b = n$ e $\frac{x}{a} + \frac{y}{b} = 1$.
 
-[[src_pol_1997_r1__Q04]]
+[[Quesiti/src_pol_1997_r1#q04|src_pol_1997_r1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 1
 
 > I bisettori angolari degli angoli $A$, $B$, $C$ di un triangolo $ABC$ incontrano i lati opposti rispettivamente a $D$, $E$, $F$ e il cerchio circoscritto di $\triangle ABC$ a $K$, $L$ e $M$. Provare che $$\frac{AD}{DK} + \frac{BE}{EL} + \frac{CF}{FM} \ge 1.$$
 
-[[src_pol_1997_r1__Q05]]
+[[Quesiti/src_pol_1997_r1#q05|src_pol_1997_r1__Q05]]
 
 
 
@@ -167,7 +167,7 @@ level: Olimpiade Polacca Round 1
 
 > Se $P(x)$ è un polinomio di grado $n$ tale che $P(k) = 1/k$ per $k = 1, 2, 4, 8, \ldots, 2^n$, determinare $P(0)$.
 
-[[src_pol_1997_r1__Q06]]
+[[Quesiti/src_pol_1997_r1#q06|src_pol_1997_r1__Q06]]
 
 
 
@@ -194,7 +194,7 @@ level: Olimpiade Polacca Round 1
 
 > Trova il massimo dei volumi di tetraedri contenuti in una palla di un determinato raggio, il cui bordo è il diametro della palla.
 
-[[src_pol_1997_r1__Q07]]
+[[Quesiti/src_pol_1997_r1#q07|src_pol_1997_r1__Q07]]
 
 
 
@@ -221,7 +221,7 @@ level: Olimpiade Polacca Round 1
 
 > $a_n$ indica il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 6n\}$ la cui somma di elementi dà il rimanente $5$ diviso per $7$. Inoltre, $b_n$ è il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 7n\}$ il cui prodotto degli elementi dà il rimanente $5$ diviso per $7$. Trova $a_n / b_n$.
 
-[[src_pol_1997_r1__Q08]]
+[[Quesiti/src_pol_1997_r1#q08|src_pol_1997_r1__Q08]]
 
 
 
@@ -248,7 +248,7 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutte le funzioni $f : [1, \infty) \to [1, \infty)$ che soddisfano: (i) $f(x + 1) = \frac{f(x)^2 - 1}{x}$ per tutte le $x \ge 1$; (ii) la funzione $g(x) = f(x)/x$ è limitata.
 
-[[src_pol_1997_r1__Q09]]
+[[Quesiti/src_pol_1997_r1#q09|src_pol_1997_r1__Q09]]
 
 
 
@@ -274,7 +274,7 @@ level: Olimpiade Polacca Round 1
 
 > Si deve $P, Q$ essere punti all'interno di un triangolo a angolo acuto $ABC$ in modo tale che $\angle ACP = \angle BCQ$ e $\angle CAP = \angle BAQ$. I piedi delle perpendicolari $D$, $E$ e $F$ siano rispettivamente $P$ a $BC$, $CA$ e $AB$. Prova che $\angle DEF = 90^\circ$ se e solo se $Q$ è l'ortocentro di $\triangle BDF$.
 
-[[src_pol_1997_r1__Q10]]
+[[Quesiti/src_pol_1997_r1#q10|src_pol_1997_r1__Q10]]
 
 
 
@@ -301,7 +301,7 @@ level: Olimpiade Polacca Round 1
 
 > Che $m$ sia un intero positivo e $P(x)$ un polinomio non costante con coefficienti interi. Prova che se $P(x)$ ha almeno tre radici di numeri interi distinte, allora $P(x) + 5^m$ ha al massimo una radice di numeri interi.
 
-[[src_pol_1997_r1__Q11]]
+[[Quesiti/src_pol_1997_r1#q11|src_pol_1997_r1__Q11]]
 
 
 
@@ -328,4 +328,4 @@ level: Olimpiade Polacca Round 1
 
 > Un gruppo di persone $n$ notò che, per un certo periodo di tempo, tre di loro potrebbero andare a cena insieme, ogni coppia si riunisce esattamente a una cena. Prova che $n \equiv 1$ o $n \equiv 3 \pmod{6}$.
 
-[[src_pol_1997_r1__Q12]]
+[[Quesiti/src_pol_1997_r1#q12|src_pol_1997_r1__Q12]]

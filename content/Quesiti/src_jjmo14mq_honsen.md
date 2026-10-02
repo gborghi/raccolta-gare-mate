@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Lasciate che $ABC$ sia un triangolo acuto. I gradi $D$, $E$, $F$ siano i piedi delle altitudini da $A$, $B$, $C$ ai lati $BC$, $CA$ e $AB$, rispettivamente. Il $G$ deve essere l'intersezione della linea $AD$ con la linea $EF$. Tra le intersezioni del circoncircolo del triangolo $DFG$ con il lato $AB$, $P$ deve essere quella che non è $F$. Tra le intersezioni del circoncircolo del triangolo $DEG$ con il lato $AC$, $Q$ sia quella che non è $E$. Prova che la riga $DG$ divide il segmento $PQ$.
 
-[[src_jjmo14mq_honsen__Q01]]
+[[Quesiti/src_jjmo14mq_honsen#q01|src_jjmo14mq_honsen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JJMO Honsen
 > 
 > (Nota: due cellule che condividono solo una vertica non sono considerate vicine.)
 
-[[src_jjmo14mq_honsen__Q02]]
+[[Quesiti/src_jjmo14mq_honsen#q02|src_jjmo14mq_honsen__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: JJMO Honsen
 
 > $a, b, c, d$ siano numeri reali che soddisfino $ab + bc + cd = 1$. Trova il valore minimo di $$(a^2 + ac + c^2)(b^2 + bd + d^2).$$
 
-[[src_jjmo14mq_honsen__Q03]]
+[[Quesiti/src_jjmo14mq_honsen#q03|src_jjmo14mq_honsen__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: JJMO Honsen
 
 > Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Lascia che la linea che attraversa $O$ parallela a $BC$ si riunisca rispettivamente alle linee $AB$ e $AC$ a $P$ e $Q$. Il $M$ deve essere il punto medio di $AH$. Prova che $\angle BMP = \angle CMQ$.
 
-[[src_jjmo14mq_honsen__Q04]]
+[[Quesiti/src_jjmo14mq_honsen#q04|src_jjmo14mq_honsen__Q04]]
 
 
 
@@ -159,4 +159,4 @@ level: JJMO Honsen
 > 
 > \textit{Condizione: un volo $X$ non viene mai immediatamente seguito da un volo $Y$.}
 
-[[src_jjmo14mq_honsen__Q05]]
+[[Quesiti/src_jjmo14mq_honsen#q05|src_jjmo14mq_honsen__Q05]]

@@ -37,7 +37,7 @@ level: squadre
 > The cuts From a semicircle of paper with a radius of 100√5 you want to cut the largest square possible. What is the overall length of the cuts to achieve the goal?
 
 **Answer:** 0600
-[[src_kangourou_2024_junior_squadre__Q01]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q01|src_kangourou_2024_junior_squadre__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: squadre
 > A polynomial A polynomial P is such that P(x + 2020) = 2024  2x + 2P(2024) for every real value of x. What's the sum of the coefficients of P?
 
 **Answer:** 2030
-[[src_kangourou_2024_junior_squadre__Q02]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q02|src_kangourou_2024_junior_squadre__Q02]]
 
 
 
@@ -144,7 +144,7 @@ level: squadre
 > The paths. Look at the figure. Starting from point A, you want to return to A by traveling only segments present in the figure, not necessarily all, but without traveling more than once any segment (although you can go more than once for some end of the segments). How many different routes are possible?
 
 **Answer:** 1458
-[[src_kangourou_2024_junior_squadre__Q03]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q03|src_kangourou_2024_junior_squadre__Q03]]
 
 
 
@@ -176,7 +176,7 @@ level: squadre
 > Two integers Two positive integers of three digits each are written consecutively to each other in a certain order: this gives a six-digit number that turns out to be 7 times the product of the two starting numbers. How much is the sum of these two numbers?
 
 **Answer:** 0286
-[[src_kangourou_2024_junior_squadre__Q04]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q04|src_kangourou_2024_junior_squadre__Q04]]
 
 
 
@@ -208,7 +208,7 @@ level: squadre
 > Rectangular triangles Consider all rectangular triangles whose smallest diameter is 18 cm and the other sides are an integer of centimetres. Consider the areas (in square centimeters) of these triangles: what is the difference, in square centimeters, between the largest and the smallest of them?
 
 **Answer:** 0504
-[[src_kangourou_2024_junior_squadre__Q05]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q05|src_kangourou_2024_junior_squadre__Q05]]
 
 
 
@@ -238,7 +238,7 @@ level: squadre
 > The whole square M is a perfect square and has four digits, all less than 7. Adding 3 to every digit of M gives you another perfect square N. What's the square root of N?
 
 **Answer:** 0067
-[[src_kangourou_2024_junior_squadre__Q06]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q06|src_kangourou_2024_junior_squadre__Q06]]
 
 
 
@@ -275,7 +275,7 @@ level: squadre
 > A
 
 **Answer:** 0033
-[[src_kangourou_2024_junior_squadre__Q07]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q07|src_kangourou_2024_junior_squadre__Q07]]
 
 
 
@@ -311,7 +311,7 @@ level: squadre
 > The hundreds Let's say a finite set S of positive integers is a hundred if  its elements are all distinct from each other,  it contains the number 2,024,  the average of its numbers is 100. For each of these sets of S, we denote with N(S) the largest number of S. When S varies between hundreds, which is the largest of the numbers N(S)? (If you think there are hundreds of sets of S with N(S) arbitrarily large, answer 9999.)
 
 **Answer:** 3126
-[[src_kangourou_2024_junior_squadre__Q08]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q08|src_kangourou_2024_junior_squadre__Q08]]
 
 
 
@@ -342,7 +342,7 @@ level: squadre
 > Only 1, 2, 3 What are the positive integers of 12 digits, whose digits are only 1 and/or 2 and/or 3 and such that two adjacent digits differ by 1 anyway?
 
 **Answer:** 0128
-[[src_kangourou_2024_junior_squadre__Q09]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q09|src_kangourou_2024_junior_squadre__Q09]]
 
 
 
@@ -373,7 +373,7 @@ level: squadre
 > Parallelpipedo A rectangular parallelpipedo was constructed by approaching 500 cubes on side 1, so that the area of its total surface is as small as possible. How much is this area worth?
 
 **Answer:** 0400
-[[src_kangourou_2024_junior_squadre__Q10]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q10|src_kangourou_2024_junior_squadre__Q10]]
 
 
 
@@ -405,7 +405,7 @@ level: squadre
 > Four real numbers With four distinct real numbers you can form six pairs of numbers. Knowing that, when these pairs vary, the sums of the two numbers that make them up are all different from each other and that the four smallest sums are 2, 4, 6, 8, we calculate the sum of all possible values of the greatest number.
 
 **Answer:** 0015
-[[src_kangourou_2024_junior_squadre__Q11]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q11|src_kangourou_2024_junior_squadre__Q11]]
 
 
 
@@ -439,7 +439,7 @@ The following table shows the results of the calculations:
 > Binary operation Of a * binary operation defined between real numbers it is known that x * x = 0 and x * (y * z) = (x * y) + z are however assigned three numbers x, y, z. What is the result of 2.024 * 24?
 
 **Answer:** 2000
-[[src_kangourou_2024_junior_squadre__Q12]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q12|src_kangourou_2024_junior_squadre__Q12]]
 
 
 
@@ -470,7 +470,7 @@ The following table shows the results of the calculations:
 > The sum of two nonnegative integers is 29 and the sum of their squares is the smallest possible. How much is this?
 
 **Answer:** 0421
-[[src_kangourou_2024_junior_squadre__Q13]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q13|src_kangourou_2024_junior_squadre__Q13]]
 
 
 
@@ -504,7 +504,7 @@ The following table shows the results of the calculations:
 > One bag contains 12 indistinguishable bags. Gaetano wants to take them all, not necessarily one at a time, but sometimes taking more than one at a time (e.g. he could take three together, then one, then again one, then seven, or even all twelve in a single shot). Taking into account the order in which Gaetano can incorporate the grains by extracting them, how many extractions are possible? Note: the order is important, e.g. (3, 1, 1, 7) is an extraction different from (1, 3, 1, 7).
 
 **Answer:** 2048
-[[src_kangourou_2024_junior_squadre__Q14]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q14|src_kangourou_2024_junior_squadre__Q14]]
 
 
 
@@ -547,4 +547,4 @@ The following table shows the results of the calculations:
 > Securities and replies
 
 **Answer:** 0781
-[[src_kangourou_2024_junior_squadre__Q15]]
+[[Quesiti/src_kangourou_2024_junior_squadre#q15|src_kangourou_2024_junior_squadre__Q15]]

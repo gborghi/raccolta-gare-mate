@@ -36,7 +36,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > DUE  ZERO  ZERO  SEVEN Jacob writes all four-digit numbers whose writing uses a 2, two 0, and a 7 (no number begins with a 0). Subtract the smallest number from the largest number of these numbers. What is the result?
 
 **Answer:** 5193
-[[src_bocconi_finalenaz_2007__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2007#q01|src_bocconi_finalenaz_2007__Q01]]
 
 
 
@@ -50,7 +50,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > DA 1 A 2007
 > Scrivete i numeri 2; 2002; 2003; 2004; 2005 e 2006 nelle caselle della figura in modo che ogni numero scritto in un rettangolo sia la somma dei due numeri con i quali è direttamente collegato.
 
-![[src_bocconi_finalenaz_2007__Q02.png]]
+![[src_bocconi_finalenaz_2007__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
@@ -67,10 +67,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > DA 1 A 2007 Write the numbers 2; 2002; 2003; 2004; 2005 and 2006 in the boxes in the figure so that each number written in a rectangle is the sum of the two numbers to which it is directly linked.
 
-![[src_bocconi_finalenaz_2007__Q02.png]]
+![[src_bocconi_finalenaz_2007__q02.png]]
 
 **Answer:** Schema completato (vedere figura della soluzione)
-[[src_bocconi_finalenaz_2007__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2007#q02|src_bocconi_finalenaz_2007__Q02]]
 
 
 
@@ -102,7 +102,7 @@ How many stars did Luke see after the fall?
 > As he was passing the new wheeled plates, Luke fell and got a nice kick! Unfortunately, he did see the stars. The French, in these cases, say they always see 36. Luke, on the other hand, kneeling, thinks, "If I subtract from the number of stars I've seen half of those that are missing to 36, I'll get 24". How many stars has Luca seen?
 
 **Answer:** 28 stelle
-[[src_bocconi_finalenaz_2007__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2007#q03|src_bocconi_finalenaz_2007__Q03]]
 
 
 
@@ -133,7 +133,7 @@ Weight of a brick weighing 1 kg plus one fifth of its weight
 > A brick weighs one pound plus a fifth of its weight. How much does the brick weigh?
 
 **Answer:** 1250 g
-[[src_bocconi_finalenaz_2007__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2007#q04|src_bocconi_finalenaz_2007__Q04]]
 
 
 
@@ -164,7 +164,7 @@ How many pens do Carla and Milena have together?
 > Carla says to Milena, "If you give me four pens, I'll have twice as many as you. But if you give me four, you'll have twice as much as I do. How many pens do Carla and Milena have together?
 
 **Answer:** 24 penne
-[[src_bocconi_finalenaz_2007__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2007#q05|src_bocconi_finalenaz_2007__Q05]]
 
 
 
@@ -181,7 +181,7 @@ How many pens do Carla and Milena have together?
 > - i numeri di ogni riga siano sistemati in ordine crescente da sinistra a destra;
 > - i numeri della colonna di sinistra siano sistemati in ordine crescente dall'alto verso il basso.
 
-![[src_bocconi_finalenaz_2007__Q06.png]]
+![[src_bocconi_finalenaz_2007__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -198,10 +198,10 @@ How many pens do Carla and Milena have together?
 
 > DA 1 A 9 Write all the numbers from 1 to 9 in the square boxes, so that: - the sum of the numbers in each row is always the same; - the numbers in each row are arranged in increasing order from left to right; - the numbers in the left column are arranged in increasing order from top to bottom.
 
-![[src_bocconi_finalenaz_2007__Q06.png]]
+![[src_bocconi_finalenaz_2007__q06.png]]
 
 **Answer:** Due soluzioni: righe (1,6,8),(2,4,9),(3,5,7) oppure (1,5,9),(2,6,7),(3,4,8)
-[[src_bocconi_finalenaz_2007__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2007#q06|src_bocconi_finalenaz_2007__Q06]]
 
 
 
@@ -232,7 +232,7 @@ How many pens do Carla and Milena have together?
 > A box contains yellow (lemon) and green (mint) candies. If we added a yellow candy, the yellow candy would represent a quarter of the contents of the box, whereas if we took one out, it would only be a fifth of the contents of the box. How many green candies does the box contain?
 
 **Answer:** 24 caramelle verdi
-[[src_bocconi_finalenaz_2007__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2007#q07|src_bocconi_finalenaz_2007__Q07]]
 
 
 
@@ -265,7 +265,7 @@ How many steps does Sara take before the orc?
 > In a stormy night, perhaps because of the sound of thunder, or perhaps because he had eaten too much!  Sergio dreams of an orc, of those who in fairy tales go hunting children. Both the orc and Sergio take 1 second to take 1 step but, to cover the distance covered by the orc in 5 steps, Sergio has to take 15 steps. Even his sister Sara takes 1 second to take 1 step but, to cover the distance covered by Sergio in 2 steps, Sara must take 3 steps. The orca is very fat and after eight steps, it has to stop to catch its breath. Sergio then follows the orc that chases his sister Sara who walks down the path, a little further. The orc takes 8 steps and then stops, exhausted, unable to reach Sara, just as Sergio wakes up. How many steps (of Sarah), at least, did Sarah initially precede the orc?
 
 **Answer:** 29
-[[src_bocconi_finalenaz_2007__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2007#q08|src_bocconi_finalenaz_2007__Q08]]
 
 
 
@@ -299,7 +299,7 @@ How many steps does Sara take before the orc?
 > IN THIS box, there are ...... numbers that are multiples of 3 In this box, there are ...... numbers that are multiples of 4 In this box, there are ...... numbers that are multiples of 5 Complete the sentences in the box with numbers (written in numbers) so that all the sentences in the box are simultaneously true.
 
 **Answer:** 6 numeri multipli di 3; 5 numeri multipli di 4; 4 numeri multipli di 5
-[[src_bocconi_finalenaz_2007__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2007#q09|src_bocconi_finalenaz_2007__Q09]]
 
 
 
@@ -329,7 +329,7 @@ How many steps does Sara take before the orc?
 > It's 2007 again! How many numbers, minus the sum of their numbers, are equal to 2007?
 
 **Answer:** 10
-[[src_bocconi_finalenaz_2007__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2007#q10|src_bocconi_finalenaz_2007__Q10]]
 
 
 
@@ -360,7 +360,7 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 > What a risk! Find the number that is a multiple of $2^{24} - 3^{12}$ but that is also prime, made up of two digits and less than 30. (Write 0 if you think there are no numbers with these characteristics.)
 
 **Answer:** 13
-[[src_bocconi_finalenaz_2007__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2007#q11|src_bocconi_finalenaz_2007__Q11]]
 
 
 
@@ -379,7 +379,7 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 > - un numero dello schema è dunque individuato da due «coordinate»: il numero della riga e quello della colonna in cui si trova. Ad esempio, 15 ha «coordinate» (10;9).
 > Trovate nello schema le coordinate dell'anno 2007.
 
-![[src_bocconi_finalenaz_2007__Q12.png]]
+![[src_bocconi_finalenaz_2007__q12.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -396,10 +396,10 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 
 > We have put all the numbers of the years of our era in a triangular scheme: $$\begin{array}{ccccccc} & & & 1 \\ & & 2 & 3 & 4 \\ & 5 & 6 & 7 & 8 & 9 \\ 10 & 11 & 12 & 13 & 14 & 15 & 16 \\ 17 & \cdots \end{array}$$ - a row is identified by the first number of the same line, starting from the left; - a column is identified by the first number of the same column, starting from the top; - a number of the scheme is therefore identified by two coordinates: the number of the row and that of the column in which it is located. For example, 15 has coordinates (10;9). Find the coordinates for the year 2007 in the chart.
 
-![[src_bocconi_finalenaz_2007__Q12.png]]
+![[src_bocconi_finalenaz_2007__q12.png]]
 
 **Answer:** Le coordinate del 2007 sono (1937; 729)
-[[src_bocconi_finalenaz_2007__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2007#q12|src_bocconi_finalenaz_2007__Q12]]
 
 
 
@@ -430,7 +430,7 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 > In the country of numbers, the birth of the first and only child of each couple is scheduled for the year whose number is equal to that of the year of marriage plus the sum of its digits. For example, a couple who got married in 2002 had a child in $2006 = 2002 + 2 + 0 + 0 + 2$. What will be the first year after 2007 in which there will be no births in Numbers Country?
 
 **Answer:** L'anno è 2022
-[[src_bocconi_finalenaz_2007__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2007#q13|src_bocconi_finalenaz_2007__Q13]]
 
 
 
@@ -463,7 +463,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 > Angelo and Desiderio have a game of cards that they much prefer to the others. They put the four assi, the four 2, the four 3 and the four 4 on the table (with their faces clearly visible) and, in turn, take a card. At each take, they make the sum of the values of the cards withdrawn from the table until that moment (the ass is worth 1 point, the 2 two points, the 3 three points and the 4 four points) both by Angelo and Desiderio: the first one who reaches exactly 21 points wins or who obliges his opponent to exceed this score. The first move is Angelo's: he can choose whether to start Desiderio or play first, taking a card. What is the best choice for Angelo, which will surely lead him to victory? (Write the value of the first card taken by Angelo or answer 0 if, for Angelo, it is better to start Desiderio).
 
 **Answer:** 3
-[[src_bocconi_finalenaz_2007__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2007#q14|src_bocconi_finalenaz_2007__Q14]]
 
 
 
@@ -478,7 +478,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 > Padre Nando possiede un terreno triangolare i cui lati misurano 65 m, 70 m e 75 m. Decide di dividere il terreno tra i suoi due figli, tracciando una perpendicolare al lato di 70 m, in modo che le due parti del terreno così ottenute abbiano la stessa area.
 > Quale è il quadrato della lunghezza del segmento AB?
 
-![[src_bocconi_finalenaz_2007__Q15.png]]
+![[src_bocconi_finalenaz_2007__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -494,10 +494,10 @@ Best first card for Angelo in a card game that definitely leads to victory
 
 > Father Nando owns a triangular plot whose sides measure 65 m, 70 m and 75 m. He decides to divide the land between his two sons, drawing a perpendicular to the side of 70 m, so that the two parts of the land thus obtained have the same area. What is the square of the length of the segment AB?
 
-![[src_bocconi_finalenaz_2007__Q15.png]]
+![[src_bocconi_finalenaz_2007__q15.png]]
 
 **Answer:** $2800\ \mathrm{m}^2$
-[[src_bocconi_finalenaz_2007__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2007#q15|src_bocconi_finalenaz_2007__Q15]]
 
 
 
@@ -512,7 +512,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 > La figura rappresenta due «ventagli» (con quattro stecche) che si sovrappongono come in figura. Considerate ora la stessa situazione, ma con due ventagli di 2007 stecche.
 > Quanti sono i triangoli che ora potreste «leggere» in figura?
 
-![[src_bocconi_finalenaz_2007__Q16.png]]
+![[src_bocconi_finalenaz_2007__q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -529,10 +529,10 @@ Best first card for Angelo in a card game that definitely leads to victory
 
 > The figure represents two vents (with four spikes) that overlap as shown in the figure. Consider the same situation now, but with two 2007 fans out. How many triangles can you now read in the figure?
 
-![[src_bocconi_finalenaz_2007__Q16.png]]
+![[src_bocconi_finalenaz_2007__q16.png]]
 
 **Answer:** 8.072.216.216 triangoli
-[[src_bocconi_finalenaz_2007__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2007#q16|src_bocconi_finalenaz_2007__Q16]]
 
 
 
@@ -548,7 +548,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 > Nel display della mia «modesta» calcolatrice, ci sono solo 4 «matrici» (e quindi possono comparire solo numeri di 4 cifre). Quanti di questi numeri, che non comincino con 0, presentano la proprietà di essere simmetrici rispetto a un punto dello schermo (centro di simmetria)?
 > Nota: La cifra 1 compare sempre a destra della «matrice». Nella simmetria, si prendono in considerazione ovviamente solo i cristalli illuminati.
 
-![[src_bocconi_finalenaz_2007__Q17.png]]
+![[src_bocconi_finalenaz_2007__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -565,10 +565,10 @@ Best first card for Angelo in a card game that definitely leads to victory
 
 > MODEL, MAY SIMMETRICAL In a liquid crystal calculator display, each of the digits from 0 to 9 appears by illuminating some crystals in a prefixed matrix of 7 liquid crystals, as can be seen in the figure. The matrix  of the pattern has a regular spacing. In the display of my modesta calculator, there are only 4 matrix (and so only 4 digit numbers can appear). How many of these numbers, which do not start with 0, have the property of being symmetrical to a point on the screen (center of symmetry)? Note: The number 1 always appears to the right of the matrix. In symmetry, of course, only illuminated crystals are taken into account.
 
-![[src_bocconi_finalenaz_2007__Q17.png]]
+![[src_bocconi_finalenaz_2007__q17.png]]
 
 **Answer:** 31
-[[src_bocconi_finalenaz_2007__Q17]]
+[[Quesiti/src_bocconi_finalenaz_2007#q17|src_bocconi_finalenaz_2007__Q17]]
 
 
 
@@ -599,4 +599,4 @@ Best first card for Angelo in a card game that definitely leads to victory
 > After the VIRGLE we calculate the sum of the series: $\frac{1}{10} + \frac{2}{100} + \frac{3}{1000} + \frac{4}{10000} + \ldots$, or $0{,}1 + 0{,}02 + 0{,}003 + 0{,}0004 + \ldots$ and write the result in the decimal system. That'll give us a number. What will be the 2007th digit in this number, after the comma?
 
 **Answer:** La 2007-esima cifra è 0
-[[src_bocconi_finalenaz_2007__Q18]]
+[[Quesiti/src_bocconi_finalenaz_2007#q18|src_bocconi_finalenaz_2007__Q18]]

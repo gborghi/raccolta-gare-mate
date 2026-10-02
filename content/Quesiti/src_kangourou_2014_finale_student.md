@@ -17,7 +17,7 @@ level: kangourou
 
 *misura angolo NMB*
 
-![[src_kangourou_2014_finale_student__probS1.png]]
+![[src_kangourou_2014_finale_student__probs1.png]]
 
 ```tikz
 \begin{document}
@@ -62,7 +62,7 @@ level: kangourou
 
 *angle measurement NMB*
 
-![[src_kangourou_2014_finale_student__probS1.png]]
+![[src_kangourou_2014_finale_student__probs1.png]]
 
 ```tikz
 \begin{document}
@@ -96,7 +96,7 @@ level: kangourou
 > The figure shows a circumference of which the segments $AB$, $BC$ and $CD$ are three strings. The $M$, $N$ and $K$ points are their respective mean points. The angle $CKN$ is $75°$. How many degrees does the angle $NMB$ measure? (see figure)
 
 **Answer:** 75
-[[src_kangourou_2014_finale_student__QS1]]
+[[Quesiti/src_kangourou_2014_finale_student#qs1|src_kangourou_2014_finale_student__QS1]]
 
 
 
@@ -125,7 +125,7 @@ level: kangourou
 > In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the axis of the axis. In the formula, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than $3$ from the point $(2, 1)$?
 
 **Answer:** quadrato+segmento
-[[src_kangourou_2014_finale_student__QS2]]
+[[Quesiti/src_kangourou_2014_finale_student#qs2|src_kangourou_2014_finale_student__QS2]]
 
 
 
@@ -154,7 +154,7 @@ This is the main reason why the Commission has decided to adopt a new strategy.
 > Consider the following game for two players playing in turns, drawing the first player. He leaves with two piles of coins. The player who is called to play discards one and breaks the remainder into two new piles (of at least one coin each). He loses who can't play anymore. Discuss the existence of winning strategies.
 
 **Answer:** strategia parita
-[[src_kangourou_2014_finale_student__QS3]]
+[[Quesiti/src_kangourou_2014_finale_student#qs3|src_kangourou_2014_finale_student__QS3]]
 
 
 
@@ -183,7 +183,7 @@ This is the main reason why the Commission has decided to adopt a new strategy.
 > A natural number $n$ is broken down into $2014$ prime factors (not necessarily all distinct from each other). Each prime factor is added to $1$ and the new $2014$ numbers obtained are multiplied by each other, resulting in a $m$ number. Is it possible that for some natural number $n$, $n$ divides the number $m$ thus obtained? If the answer is no, provide an appropriate justification. If yes, specify for how many natural numbers $n$ $n$ divides $m$.
 
 **Answer:** 336
-[[src_kangourou_2014_finale_student__QS4]]
+[[Quesiti/src_kangourou_2014_finale_student#qs4|src_kangourou_2014_finale_student__QS4]]
 
 
 
@@ -212,7 +212,7 @@ This is the main reason why the Commission has decided to adopt a new strategy.
 > $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
 
 **Answer:** 20
-[[src_kangourou_2014_finale_student__QS5]]
+[[Quesiti/src_kangourou_2014_finale_student#qs5|src_kangourou_2014_finale_student__QS5]]
 
 
 
@@ -243,4 +243,4 @@ This is the main reason why the Commission has decided to adopt a new strategy.
 > Consider a sequence of $\{a_n\}$, $n = 1, 2, \ldots$ integers such that $a_n = 1$ for infinite indexes $n$ and $a_n \neq 1$ for infinite indexes $n$ are obtained. Establish whether it is always possible to arrange (all and only) the terms of the $\{a_n\}$ succession into an "infinite matrix" $[a_{i,j}]$, $i = 1, 2, 3, \ldots$, $j = 1, 2, 3, \ldots$ so that: - for each $i$ $a_{i,j} = 1$ is obtained if and only if $j \geq i$; - for each $i$, $j$ and $k$ with $j < k$, even in the original succession the position occupied by the term $a_{i,j}$ precedes that occupied by the term $a_{i,k}$ (as is now the case in the $i$ row of the matrix).
 
 **Answer:** si possibile
-[[src_kangourou_2014_finale_student__QS6]]
+[[Quesiti/src_kangourou_2014_finale_student#qs6|src_kangourou_2014_finale_student__QS6]]

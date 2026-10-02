@@ -42,7 +42,7 @@ level: squadre
 > There are 200 tickets numbered from 1 to 200. James wants to match as many of these tickets as possible so that, for each pair of tickets he forms, the sum of the numbers shown on the tickets is 100. How many different couples can he form? Attention: pairs should not be considered ordered, for example pairs {1,99} and {99,1} should be considered as a single pair.
 
 **Answer:** 49
-[[src_kangourou_2016_squadre_a__Q01]]
+[[Quesiti/src_kangourou_2016_squadre_a#q01|src_kangourou_2016_squadre_a__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: squadre
 > School and sports In winter, of the 300 pupils in a school, 180 play football and the remaining 120 ski. In summer, all students either play tennis or swim, but no one does both. Fifty-six percent of those who play tennis in the summer play football in the winter; 30 percent of those who play football in the winter, swim in the summer. How many students are skiing and swimming?
 
 **Answer:** 21
-[[src_kangourou_2016_squadre_a__Q02]]
+[[Quesiti/src_kangourou_2016_squadre_a#q02|src_kangourou_2016_squadre_a__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: squadre
 > The central number The sum of 9 consecutive integers is 31000; the central number is 9x. How much is x ?
 
 **Answer:** 499
-[[src_kangourou_2016_squadre_a__Q03]]
+[[Quesiti/src_kangourou_2016_squadre_a#q03|src_kangourou_2016_squadre_a__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: squadre
 > Exactly 6 The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of five of these is 5000. Which of these five is missing?
 
 **Answer:** 25
-[[src_kangourou_2016_squadre_a__Q04]]
+[[Quesiti/src_kangourou_2016_squadre_a#q04|src_kangourou_2016_squadre_a__Q04]]
 
 
 
@@ -170,7 +170,7 @@ Minimum number of cubes for filling 160x140x100
 > A company produces only polystyrene cubes whose sides measure an integer number of centimetres, at the customer's choice (if reasonable). You have to fill exactly one box in the shape of a rectangular parallel-piped, whose dimensions in centimetres are 160 × 140 × 100, with polystyrene cubes, all equal between them. If you want to order as few cubes as possible, how many do you need to order?
 
 **Answer:** 280
-[[src_kangourou_2016_squadre_a__Q05]]
+[[Quesiti/src_kangourou_2016_squadre_a#q05|src_kangourou_2016_squadre_a__Q05]]
 
 
 
@@ -247,7 +247,7 @@ Minimum number of cubes for filling 160x140x100
 > D A B C F E
 
 **Answer:** 45
-[[src_kangourou_2016_squadre_a__Q06]]
+[[Quesiti/src_kangourou_2016_squadre_a#q06|src_kangourou_2016_squadre_a__Q06]]
 
 
 
@@ -279,7 +279,7 @@ Minimum number of cubes for filling 160x140x100
 > The two candles Two candles have the same length and, once lit, the consumption of each is directly proportional to the time. One of the two candles goes out in 10 hours, the other in eight hours. If they are switched on at the same time, after how many minutes will the length of the first be twice the length of the second?
 
 **Answer:** 400
-[[src_kangourou_2016_squadre_a__Q07]]
+[[Quesiti/src_kangourou_2016_squadre_a#q07|src_kangourou_2016_squadre_a__Q07]]
 
 
 
@@ -310,7 +310,7 @@ Minimum number of cubes for filling 160x140x100
 > The circular crown You have a circular crown whose outer and inner rays measure 12 and 2 cm respectively. You want to divide it into circular crowns, each with an area equal to that of the inner circle that was removed to form the initial crown. How many circles do you have to trace?
 
 **Answer:** 34
-[[src_kangourou_2016_squadre_a__Q08]]
+[[Quesiti/src_kangourou_2016_squadre_a#q08|src_kangourou_2016_squadre_a__Q08]]
 
 
 
@@ -342,7 +342,7 @@ Minimum number of cubes for filling 160x140x100
 > The train is at noon. From this moment on, for half an hour, a train will travel at 195 km/h; then, again for half an hour, it will travel at 190 km/h and so on, decreasing its speed by 5 km/h every half an hour until it stops. How many miles has he traveled from noon until he stops?
 
 **Answer:** 1950
-[[src_kangourou_2016_squadre_a__Q09]]
+[[Quesiti/src_kangourou_2016_squadre_a#q09|src_kangourou_2016_squadre_a__Q09]]
 
 
 
@@ -373,7 +373,7 @@ Minimum number of cubes for filling 160x140x100
 > A bracelet for Carla Carla has seven rings of different colors. By placing them one by one and connecting them, he wants to build a bracelet. How many different bracelets can it form?
 
 **Answer:** 360
-[[src_kangourou_2016_squadre_a__Q10]]
+[[Quesiti/src_kangourou_2016_squadre_a#q10|src_kangourou_2016_squadre_a__Q10]]
 
 
 
@@ -404,7 +404,7 @@ Minimum number of cubes for filling 160x140x100
 > Average speed A train has completed half of a journey at an average speed of 50 km/h. What was its average speed (in km/h) for the remainder of the route, if the average speed on the entire route was 75 km/h?
 
 **Answer:** 150
-[[src_kangourou_2016_squadre_a__Q11]]
+[[Quesiti/src_kangourou_2016_squadre_a#q11|src_kangourou_2016_squadre_a__Q11]]
 
 
 
@@ -434,7 +434,7 @@ Minimum number of cubes for filling 160x140x100
 > Divide a positive integer N divided by 23 gives 16. What's the rest of N2 divided by 23?
 
 **Answer:** 3
-[[src_kangourou_2016_squadre_a__Q12]]
+[[Quesiti/src_kangourou_2016_squadre_a#q12|src_kangourou_2016_squadre_a__Q12]]
 
 
 
@@ -465,7 +465,7 @@ Minimum number of cubes for filling 160x140x100
 > The arithmetic mean of 20 positive integers all different from each other is 101. What is the maximum value of the largest of these 20 numbers?
 
 **Answer:** 1830
-[[src_kangourou_2016_squadre_a__Q13]]
+[[Quesiti/src_kangourou_2016_squadre_a#q13|src_kangourou_2016_squadre_a__Q13]]
 
 
 
@@ -527,7 +527,7 @@ Minimum number of cubes for filling 160x140x100
 > The grid You want to insert the numbers 1, 2, 3, 4, 5, 6, 8, 9 into the still empty cells of the grid in the figure so that you always get the same number whether you add the numbers in a column or add those in a row. How much is the sum of the numbers in the shaded cells?
 
 **Answer:** 22
-[[src_kangourou_2016_squadre_a__Q14]]
+[[Quesiti/src_kangourou_2016_squadre_a#q14|src_kangourou_2016_squadre_a__Q14]]
 
 
 
@@ -585,4 +585,4 @@ Minimum number of cubes for filling 160x140x100
 > Questions and solutions
 
 **Answer:** 11
-[[src_kangourou_2016_squadre_a__Q15]]
+[[Quesiti/src_kangourou_2016_squadre_a#q15|src_kangourou_2016_squadre_a__Q15]]

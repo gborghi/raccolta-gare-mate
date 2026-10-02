@@ -34,7 +34,7 @@ level: IMO
 
 > Let f(x) = xn + 5xn−1 + 3, where n > 1 is an integer. Prove that f(x) cannot be expressed as the product of two nonconstant polynomials with integer coefficients.
 
-[[src_imo_1993__Q01]]
+[[Quesiti/src_imo_1993#q01|src_imo_1993__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: IMO
 
 > Let D be a point inside acute triangle ABC such that  ADB =  ACB + π/2 and AC · BD = AD · BC. (a) Calculate the ratio (AB · CD)/(AC · BD). (b) Prove that the tangents at C to the circumcircles of △ACD and △BCD are perpendicular.
 
-[[src_imo_1993__Q02]]
+[[Quesiti/src_imo_1993#q02|src_imo_1993__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: IMO
 
 > On an infinite chessboard, a game is played as follows. At the start, n2 pieces are arranged on the chessboard in an n by n block of adjoining squares, one piece in each square. A move in the game is a jump in a horizontal or vertical direction over an adjacent occupied square to an unoccupied square immediately beyond. The piece which has been jumped over is removed. Find those values of n for which the game can end with only one piece remaining on the board. Second Day July 19, 1993 Time limit: 41 2 hours
 
-[[src_imo_1993__Q03]]
+[[Quesiti/src_imo_1993#q03|src_imo_1993__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: IMO
 > 
 > Demonstrate that for $A$, $B$, $C$, $X$ points in the plane: $$m(ABC) \leq m(ABX) + m(AXC) + m(XBC).$$
 
-[[src_imo_1993__Q04]]
+[[Quesiti/src_imo_1993#q04|src_imo_1993__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: IMO
 
 > There is a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
 
-[[src_imo_1993__Q05]]
+[[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 
 
 
@@ -200,4 +200,4 @@ This is the total number of steps to be taken to achieve the desired results.
 > 
 > (c) If $n = 2^k + 1$, you may take $M(n) = n^2 - n + 1$.
 
-[[src_imo_1993__Q06]]
+[[Quesiti/src_imo_1993#q06|src_imo_1993__Q06]]

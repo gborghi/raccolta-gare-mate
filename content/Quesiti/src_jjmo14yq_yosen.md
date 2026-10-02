@@ -37,7 +37,7 @@ level: JJMO Yosen
 > Trova quante triples $(a,b,c)$ di numeri interi con $1 \le a,b,c \le 5$ sono tali che sia $a \times b$ che $b \times c$ siano pari.
 
 **Risposta:** 62
-[[src_jjmo14yq_yosen__Q01]]
+[[Quesiti/src_jjmo14yq_yosen#q01|src_jjmo14yq_yosen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JJMO Yosen
 > Nel piano c'è un segmento $AB$ di lunghezza $10$. Due punti $P,Q$ si muovono nel piano soggetto a $\angle APB = 60^\circ$ e $\angle AQB = 120^\circ$. Trova il valore massimo possibile della lunghezza del segmento $PQ$.
 
 **Risposta:** \dfrac{20\sqrt{3}}{3}
-[[src_jjmo14yq_yosen__Q02]]
+[[Quesiti/src_jjmo14yq_yosen#q02|src_jjmo14yq_yosen__Q02]]
 
 
 
@@ -81,7 +81,7 @@ level: JJMO Yosen
 
 > There is a $6 \times 6$ grid of cells, and some of these $36$ cells are painted black. A transparent board of the same size as the grid is prepared, and one obtains a copy of the painted grid onto this board. By placing this same-sized board on top of the grid in a suitable position (and orientation), it was possible to cover the whole figure so that the black-painted portions of board and grid coincide and the entire painted part is again covered in black. For how many ways of painting the original grid is this possible? Here, paintings that coincide under rotation or reflection are also counted as distinct.
 
-![[src_jjmo14yq_yosen__Q03.png]]
+![[src_jjmo14yq_yosen__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -100,10 +100,10 @@ level: JJMO Yosen
 
 > C'è una griglia di cellule $6 \times 6$, e alcune di queste cellule $36$ sono dipinte in nero. Si prepara una lavagna trasparente della stessa dimensione della griglia e si ottiene una copia della griglia dipinta su questa lavagna. Mettendo questa lavagna della stessa dimensione in una posizione (e orientamento) adatta alla griglia, è stato possibile coprire l'intera figura in modo che le parti dipinte in nero della lavagna e della griglia coincidano e l'intera parte dipinta sia nuovamente coperta di nero. Per quanti modi di dipingere la griglia originale è possibile? Qui, i dipinti che coincidono sotto rotazione o riflessione sono anche considerati come distinti.
 
-![[src_jjmo14yq_yosen__Q03.png]]
+![[src_jjmo14yq_yosen__q03.png]]
 
 **Risposta:** 32768
-[[src_jjmo14yq_yosen__Q03]]
+[[Quesiti/src_jjmo14yq_yosen#q03|src_jjmo14yq_yosen__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: JJMO Yosen
 > Ci sono mele $2016$ e arance $2016$ e queste sono distribuite tra le persone $2016$ alle seguenti condizioni: \begin{itemize} \item Ogni frutto deve essere distribuito. Nessuna persona riceve $0$ frutta. Nessuna persona può ricevere in totale più di $4$ pezzi di frutta (comprendendo entrambe le specie). In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno $1$ più mele che arancione?
 
 **Risposta:** 1612
-[[src_jjmo14yq_yosen__Q04]]
+[[Quesiti/src_jjmo14yq_yosen#q04|src_jjmo14yq_yosen__Q04]]
 
 
 
@@ -171,7 +171,7 @@ level: JJMO Yosen
 > Sul lato $BC$ del triangolo $ABC$ ci sono punti $D,E$, con $B,D,E,C$ in questo ordine, in modo che $\angle BAD = \angle DAE = \angle EAC = 45^\circ$. $F$ sia il punto di intersezione del circoncircolo del triangolo $ABE$ con la linea $AC$, diverso da $A$. Date $AC = 3$ e $AD = 1$, si trova la lunghezza del segmento $DF$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \dfrac{5}{4}
-[[src_jjmo14yq_yosen__Q05]]
+[[Quesiti/src_jjmo14yq_yosen#q05|src_jjmo14yq_yosen__Q05]]
 
 
 
@@ -204,7 +204,7 @@ level: JJMO Yosen
 > I numeri interi positivi $m,n$ soddisfano $$m(m+57) = n(n+57).$$ Tra tali coppie, trovare il valore massimo possibile di $m$.
 
 **Risposta:** 783
-[[src_jjmo14yq_yosen__Q06]]
+[[Quesiti/src_jjmo14yq_yosen#q06|src_jjmo14yq_yosen__Q06]]
 
 
 
@@ -235,7 +235,7 @@ level: JJMO Yosen
 > Nel triangolo $ABC$ con $AC = 28$, $M$ sia il punto medio del segmento $BD$, dove $D$ è un punto tale che la figura sia determinata come disegnata. È dato che $\angle AMB = \angle CMB$, $AM = 20$ e $CM = 16$. Trova il rapporto $BA : BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \sqrt{5} : 2
-[[src_jjmo14yq_yosen__Q07]]
+[[Quesiti/src_jjmo14yq_yosen#q07|src_jjmo14yq_yosen__Q07]]
 
 
 
@@ -266,7 +266,7 @@ level: JJMO Yosen
 > Tra i multipli di $37$ le cui cifre sono tutte distinte, trova il più grande.
 
 **Risposta:** 9876435012
-[[src_jjmo14yq_yosen__Q08]]
+[[Quesiti/src_jjmo14yq_yosen#q08|src_jjmo14yq_yosen__Q08]]
 
 
 
@@ -279,7 +279,7 @@ level: JJMO Yosen
 
 > Fifteen rectangles are arranged as shown in the figure (a pyramid with a bottom row of $5$ rectangles, then rows of $4$, $3$, $2$, $1$ above). Each of these rectangles is to be coloured either red or blue, subject to the following condition: whenever a rectangle that is not in the bottom row is coloured red, then the two rectangles immediately below it must also be coloured red. In how many ways can this colouring be done?
 
-![[src_jjmo14yq_yosen__Q09.png]]
+![[src_jjmo14yq_yosen__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
@@ -298,10 +298,10 @@ level: JJMO Yosen
 
 > Sono disposti quindici rettangoli come mostrato nella figura (una piramide con una riga inferiore di rettangoli $5$, quindi righe di $4$, $3$, $2$, $1$ sopra). Ciascuno di questi rettangoli deve essere colorato rosso o blu, a condizione che: ogni volta che un rettangolo che non si trova nella riga inferiore è di colore rosso, i due rettangoli immediatamente sotto di esso devono essere di colore rosso. In quanti modi si può fare questo colorazione?
 
-![[src_jjmo14yq_yosen__Q09.png]]
+![[src_jjmo14yq_yosen__q09.png]]
 
 **Risposta:** 365
-[[src_jjmo14yq_yosen__Q09]]
+[[Quesiti/src_jjmo14yq_yosen#q09|src_jjmo14yq_yosen__Q09]]
 
 
 
@@ -314,7 +314,7 @@ level: JJMO Yosen
 
 > There is a non-convex quadrilateral $ABCD$ whose interior angle at vertex $D$ is greater than $180^\circ$, with $AB : CD = \sqrt{2} : 1$, $AD = 2$, and $BC = 1$. Let $E$ be the intersection of line $BC$ with line $AD$, and let $F$ be the intersection of line $AB$ with line $CD$. Suppose $\angle CED = \angle AFD = 45^\circ$. Find the area of quadrilateral $ABCD$. Here $XY$ denotes the length of segment $XY$.
 
-![[src_jjmo14yq_yosen__Q10.png]]
+![[src_jjmo14yq_yosen__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -333,10 +333,10 @@ level: JJMO Yosen
 
 > C'è un quadrilaterale non converso $ABCD$ il cui angolo interno alla verticale $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. $E$ sia l'intersezione della linea $BC$ con la linea $AD$, e $F$ sia l'intersezione della linea $AB$ con la linea $CD$. Supponiamo $\angle CED = \angle AFD = 45^\circ$. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jjmo14yq_yosen__Q10.png]]
+![[src_jjmo14yq_yosen__q10.png]]
 
 **Risposta:** \dfrac{3-\sqrt{2}}{2}
-[[src_jjmo14yq_yosen__Q10]]
+[[Quesiti/src_jjmo14yq_yosen#q10|src_jjmo14yq_yosen__Q10]]
 
 
 
@@ -349,7 +349,7 @@ level: JJMO Yosen
 
 > Consider the figure obtained by stacking $2016$ rows in which the $k$-th row contains $k$ downward-pointing small equilateral triangles arranged in a line. Starting from the midpoint of the topmost side and drawing in one continuous stroke (without lifting the pen) so that every side of every downward-pointing small triangle is passed over exactly once, the path crosses over itself $T$ times in the course of the drawing. Find the minimum possible value of $T$.
 
-![[src_jjmo14yq_yosen__Q11.png]]
+![[src_jjmo14yq_yosen__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
@@ -368,10 +368,10 @@ level: JJMO Yosen
 
 > Si consideri la figura ottenuta accumulando le righe $2016$ in cui la riga $k$-th contiene $k$ piccoli triangoli equilaterali che puntano verso il basso disposti in una linea. Partendo dal punto medio del lato più alto e disegnando in un colpo continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo che punta verso il basso venga superato esattamente una volta, il percorso si attraversa $T$ volte nel corso del disegno. Trova il valore minimo possibile di $T$.
 
-![[src_jjmo14yq_yosen__Q11.png]]
+![[src_jjmo14yq_yosen__q11.png]]
 
 **Risposta:** 7559
-[[src_jjmo14yq_yosen__Q11]]
+[[Quesiti/src_jjmo14yq_yosen#q11|src_jjmo14yq_yosen__Q11]]
 
 
 
@@ -402,4 +402,4 @@ level: JJMO Yosen
 > Sul piano delle coordinate $xy$, da ogni punto della griglia $(x,y)$ viene tracciata una freccia che punta verso $(x+1,y)$ o $(x,y+1)$. Ora si consideri di posizionare $2016$ persone, una a ciascuno, su $2016$ punti di reticola distinte che soddisfano $x \ge 0$, $y \ge 0$, $x+y \le 62$. Per un modo fisso di disegnare le frecce, supponiamo che siano state provate diverse posizioni $N$, e che sia stata soddisfatta la seguente condizione: per ogni persona, il punto della griglia che la freccia porta dal punto di quella persona è, attraverso tutte le posizioni $N$, o occupata dalla stessa persona in tutte le $N$ di esse, o non occupata da nessuno in tutte le $N$ di esse. Trova il valore massimo possibile di $N$. Qui un punto reticolo è un punto il cui coordinato $x$ e $y$ sono entrambi numeri interi.
 
 **Risposta:** 32!\,16!\,8!\,4!\,2!\,1!
-[[src_jjmo14yq_yosen__Q12]]
+[[Quesiti/src_jjmo14yq_yosen#q12|src_jjmo14yq_yosen__Q12]]

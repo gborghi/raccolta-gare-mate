@@ -51,7 +51,7 @@ level: kangourou
 > B) C) D) E)
 
 **Answer:** B
-[[src_kangourou_2015_marzo_cadet__Q01]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q01|src_kangourou_2015_marzo_cadet__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: kangourou
 > Four identical rectangles, joined together as shown in the figure, form a large rectangle. If the smaller side of the large rectangle is 10 cm long, how long is its larger side? A) 10 cm B) 20 cm C) 30 cm D) 40 cm E) 50 cm
 
 **Answer:** B
-[[src_kangourou_2015_marzo_cadet__Q02]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q02|src_kangourou_2015_marzo_cadet__Q02]]
 
 
 
@@ -126,7 +126,7 @@ level: kangourou
 > C) 10 D) 100 E) 1000
 
 **Answer:** E
-[[src_kangourou_2015_marzo_cadet__Q03]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q03|src_kangourou_2015_marzo_cadet__Q03]]
 
 
 
@@ -212,7 +212,7 @@ level: kangourou
 > The figure shows the plane development of a cube with numbered faces. For each pair of opposite faces, Paul added the two numbers that appear on the faces. What are the three sums he got? A) 6, 7, 8 B) 6, 6, 9 C) 5, 6, 10 D) 4, 7, 10 E) 4, 6, 11
 
 **Answer:** E
-[[src_kangourou_2015_marzo_cadet__Q04]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q04|src_kangourou_2015_marzo_cadet__Q04]]
 
 
 
@@ -274,7 +274,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q05]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q05|src_kangourou_2015_marzo_cadet__Q05]]
 
 
 
@@ -317,7 +317,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q06]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q06|src_kangourou_2015_marzo_cadet__Q06]]
 
 
 
@@ -417,7 +417,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) QR E) RS
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q07]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q07|src_kangourou_2015_marzo_cadet__Q07]]
 
 
 
@@ -454,7 +454,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > Via del Salto is made up of 9 villas lined up in a row. At least one person lives in each of them, and the number of inhabitants of two neighbouring villas does not exceed 6. Then the number of people who can live on the Via del Salto is at most A) 23. B) 25. C) 27. D) 29. E) 31.
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q08]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q08|src_kangourou_2015_marzo_cadet__Q08]]
 
 
 
@@ -495,7 +495,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > When the Ciop squirrel descends to the ground, it never moves more than five meters from its tree trunk. In addition, it is always kept at a distance of at least five metres from the dog's cage. In the figures following the rectangle he represents the dog's cottage and the tree's curvilinear axis: in which of them does the shaded region plausibly describe the area of the ground where Ciop can move? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2015_marzo_cadet__Q09]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q09|src_kangourou_2015_marzo_cadet__Q09]]
 
 
 
@@ -536,7 +536,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > (c) 10 D) 20 E) 25 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q10]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q10|src_kangourou_2015_marzo_cadet__Q10]]
 
 
 
@@ -587,7 +587,7 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** B
-[[src_kangourou_2015_marzo_cadet__Q11]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q11|src_kangourou_2015_marzo_cadet__Q11]]
 
 
 
@@ -638,7 +638,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E)
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q12]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q12|src_kangourou_2015_marzo_cadet__Q12]]
 
 
 
@@ -687,7 +687,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 5
 
 **Answer:** B
-[[src_kangourou_2015_marzo_cadet__Q13]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q13|src_kangourou_2015_marzo_cadet__Q13]]
 
 
 
@@ -724,7 +724,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) 1.5 E) depends on the size of the pool
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q14]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q14|src_kangourou_2015_marzo_cadet__Q14]]
 
 
 
@@ -765,7 +765,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > (C) 37 D) 31 E) None of the numbers in A to D
 
 **Answer:** E
-[[src_kangourou_2015_marzo_cadet__Q15]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q15|src_kangourou_2015_marzo_cadet__Q15]]
 
 
 
@@ -812,7 +812,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 5
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q16]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q16|src_kangourou_2015_marzo_cadet__Q16]]
 
 
 
@@ -900,7 +900,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 32
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q17]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q17|src_kangourou_2015_marzo_cadet__Q17]]
 
 
 
@@ -957,7 +957,7 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** B
-[[src_kangourou_2015_marzo_cadet__Q18]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q18|src_kangourou_2015_marzo_cadet__Q18]]
 
 
 
@@ -1043,7 +1043,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > The figure shows how some of the unit segments that delimit the triangles of a drawing have been colored. Luigi wants to colour the remaining unit segments in red or green or blue. Each triangle must have a side of each color. How can you color the x-marked segment? A) Only green. B) Only red. C) Only blue. D) Whether red or blue. E) It cannot carry out the project.
 
 **Answer:** A
-[[src_kangourou_2015_marzo_cadet__Q19]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q19|src_kangourou_2015_marzo_cadet__Q19]]
 
 
 
@@ -1094,7 +1094,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 4 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2015_marzo_cadet__Q20]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q20|src_kangourou_2015_marzo_cadet__Q20]]
 
 
 
@@ -1185,7 +1185,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) - 4 E) 0
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q21]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q21|src_kangourou_2015_marzo_cadet__Q21]]
 
 
 
@@ -1225,7 +1225,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > C) 48 D) 53 E) 82
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q22]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q22|src_kangourou_2015_marzo_cadet__Q22]]
 
 
 
@@ -1286,7 +1286,7 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q23]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q23|src_kangourou_2015_marzo_cadet__Q23]]
 
 
 
@@ -1333,7 +1333,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 20
 
 **Answer:** A
-[[src_kangourou_2015_marzo_cadet__Q24]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q24|src_kangourou_2015_marzo_cadet__Q24]]
 
 
 
@@ -1368,7 +1368,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > Charles has seven pieces of iron wire each 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm and 7 cm long. He wants to use some of them to build, without cutting them or overlaying them (not even partially), a cubic lattice with long spines
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q25]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q25|src_kangourou_2015_marzo_cadet__Q25]]
 
 
 
@@ -1397,7 +1397,7 @@ This is the sum of the values of the values of the samples.
 > 26. In a PQRS trapezoid the sides PQ and SR are parallel and PQ is triple SR; furthermore SR ^ and SP are equal and the angle RSP measures 120° (120 degrees). What is the dimension of the angle ^ PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q26]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q26|src_kangourou_2015_marzo_cadet__Q26]]
 
 
 
@@ -1426,7 +1426,7 @@ This is the sum of the values of the values of the samples.
 > 27. Alberto drew five points on a straight line and now, for each pair of points, the distance between them. Of the ten different numbers you get, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
 
 **Answer:** E
-[[src_kangourou_2015_marzo_cadet__Q27]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q27|src_kangourou_2015_marzo_cadet__Q27]]
 
 
 
@@ -1455,7 +1455,7 @@ This is the sum of the values of the values of the samples.
 > 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luke telling me the number is seven digits. I don't know what number I forgot to write down, or what position it might be in. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q28]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q28|src_kangourou_2015_marzo_cadet__Q28]]
 
 
 
@@ -1484,7 +1484,7 @@ This is the sum of the values of the values of the samples.
 > 29. Maria divides 2015 subsequently by 1, 2, 3 and so on up to 1000 inclusive. He writes down the remains of each division. What's the largest remainder he finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
 
 **Answer:** C
-[[src_kangourou_2015_marzo_cadet__Q29]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q29|src_kangourou_2015_marzo_cadet__Q29]]
 
 
 
@@ -1513,4 +1513,4 @@ This is the sum of the values of the values of the samples.
 > 30. I mean, color each positive integer according to the following three rules: Each number is either red or blue. The sum of two different red numbers is always a red number. The sum of two different blue numbers is always a blue number. How many different ways can I make these colors? A) 0 B) 2 C) 4 D) 6
 
 **Answer:** D
-[[src_kangourou_2015_marzo_cadet__Q30]]
+[[Quesiti/src_kangourou_2015_marzo_cadet#q30|src_kangourou_2015_marzo_cadet__Q30]]

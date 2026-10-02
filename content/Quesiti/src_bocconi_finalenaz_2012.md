@@ -45,7 +45,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > In alphabetical order, which of these eleven numbers will occupy the third position?
 
 **Answer:** TRE
-[[src_bocconi_finalenaz_2012__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2012#q01|src_bocconi_finalenaz_2012__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Renato has long legs, and every two steps he advances by a foot and a half. When he goes from home to school, he's used to counting his steps; halfway through, he stops and thinks, "I've already taken 800 steps". What's the distance in meters between Renato's house and the school?
 
 **Answer:** 1200
-[[src_bocconi_finalenaz_2012__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2012#q02|src_bocconi_finalenaz_2012__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Carla has noted that six seconds pass from the first to the last stroke when the clock in her country's church strikes at 6 a.m. How many seconds pass (from the first to the last stroke) when the same clock, five hours later, strikes 11?
 
 **Answer:** 12
-[[src_bocconi_finalenaz_2012__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2012#q03|src_bocconi_finalenaz_2012__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > A week ago it was May 12, 2012, which you can write as May 12, 2012. If you rewrite these numbers, you get: $1+2+0+5+2+0+1+2=13$. What is the next date for which the sum of the digits (as done with 12 May 2012) is equal to 39?
 
 **Answer:** 29-09-2089
-[[src_bocconi_finalenaz_2012__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2012#q04|src_bocconi_finalenaz_2012__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Completate le caselle del diagramma con l'aiuto di tutti i numeri naturali da $1$ a $10$ (in modo che $5$ e $10$ siano già stati collocati in figura) in modo che gli allineamenti da tre caselle, i due allineamenti da tre caselle, e i sei caselli posti sulla circonferenza abbiano la stessa somma. Qual è questa somma?
 
-![[src_bocconi_finalenaz_2012__Q05.png]]
+![[src_bocconi_finalenaz_2012__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -168,10 +168,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Complete the boxes in the diagram with the help of all natural numbers from $1$ to $10$ (so that $5$ and $10$ have already been placed in the figure) so that the three-box alignments, the two three-box alignments, and the six boxes placed on the circumference have the same sum. What's that amount?
 
-![[src_bocconi_finalenaz_2012__Q05.png]]
+![[src_bocconi_finalenaz_2012__q05.png]]
 
 **Answer:** (due soluzioni mostrate in figura)
-[[src_bocconi_finalenaz_2012__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2012#q05|src_bocconi_finalenaz_2012__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Inserite dei segni "+" e "-" tra le cifre che vedete sopra (senza cambiare il loro ordine) in modo che le operazioni che diano come risultato 2012.
 > $$1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$$
 
-![[src_bocconi_finalenaz_2012__Q06.png]]
+![[src_bocconi_finalenaz_2012__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -204,10 +204,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Insert the "+" and "-" marks between the digits you see above (without changing their order) so that the operations that give the result are 2012. $$1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$$
 
-![[src_bocconi_finalenaz_2012__Q06.png]]
+![[src_bocconi_finalenaz_2012__q06.png]]
 
 **Answer:** $1234 - 5 - 6 + 789$
-[[src_bocconi_finalenaz_2012__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2012#q06|src_bocconi_finalenaz_2012__Q06]]
 
 
 
@@ -238,7 +238,7 @@ Maximum number of boys in the group with the same sum
 > In the group of friends who meet on the square every Saturday afternoon, each boy added the number of the day of his birthday (from 1 to 31) to that of the month in which he was born, from 1 to 12. None of the boys were born on the same day of the month but all found, as a result of the sum, the same number (greater than 34). How many boys, at most, was the group?
 
 **Answer:** 8
-[[src_bocconi_finalenaz_2012__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2012#q07|src_bocconi_finalenaz_2012__Q07]]
 
 
 
@@ -251,7 +251,7 @@ Maximum number of boys in the group with the same sum
 
 > (Problema con figura di grafo) Completate le caselle del diagramma in modo che ogni nodo sia connesso agli altri secondo le regole indicate in figura. Qual è la somma?
 
-![[src_bocconi_finalenaz_2012__Q08.png]]
+![[src_bocconi_finalenaz_2012__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -270,10 +270,10 @@ Maximum number of boys in the group with the same sum
 
 > (Graph problem) Complete the boxes on the diagram so that each node is connected to the others according to the rules shown in the figure. What's the sum?
 
-![[src_bocconi_finalenaz_2012__Q08.png]]
+![[src_bocconi_finalenaz_2012__q08.png]]
 
 **Answer:** (figura con grafo nella soluzione)
-[[src_bocconi_finalenaz_2012__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2012#q08|src_bocconi_finalenaz_2012__Q08]]
 
 
 
@@ -288,7 +288,7 @@ Maximum number of boys in the group with the same sum
 > $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$
 > Quale è il primo fattore?
 
-![[src_bocconi_finalenaz_2012__Q09.png]]
+![[src_bocconi_finalenaz_2012__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -307,10 +307,10 @@ Maximum number of boys in the group with the same sum
 
 > In this multiplication, each symbol always represents the same number and two different symbols are representing two different numbers. $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$ What is the first factor?
 
-![[src_bocconi_finalenaz_2012__Q09.png]]
+![[src_bocconi_finalenaz_2012__q09.png]]
 
 **Answer:** 1831
-[[src_bocconi_finalenaz_2012__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2012#q09|src_bocconi_finalenaz_2012__Q09]]
 
 
 
@@ -323,7 +323,7 @@ Maximum number of boys in the group with the same sum
 
 > Desiderate dividere la superficie che vedete in figura in due parti che abbiano la stessa area, completando con un segmento che non esca dalla superficie: due tra i punti della sua frontiera indicati in figura con un "pallino". Come fare? (Tracciare nel foglio risposta il segmento in questione)
 
-![[src_bocconi_finalenaz_2012__Q10.png]]
+![[src_bocconi_finalenaz_2012__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -342,10 +342,10 @@ Maximum number of boys in the group with the same sum
 
 > You want to divide the surface you see in the figure into two parts that have the same area, completing with a segment that does not leave the surface: two of the points on its border indicated in the figure with a "ball". How do you do that? (Pull the section in question in the reply sheet)
 
-![[src_bocconi_finalenaz_2012__Q10.png]]
+![[src_bocconi_finalenaz_2012__q10.png]]
 
 **Answer:** (figura con soluzione nella soluzione)
-[[src_bocconi_finalenaz_2012__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2012#q10|src_bocconi_finalenaz_2012__Q10]]
 
 
 
@@ -375,7 +375,7 @@ Maximum number of boys in the group with the same sum
 > The father says to his son, "In two years, when you are twice as old as you were 'in 20 years,' the father will be twice as old as you were". What is the child's current age?
 
 **Answer:** 4
-[[src_bocconi_finalenaz_2012__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2012#q11|src_bocconi_finalenaz_2012__Q11]]
 
 
 
@@ -408,7 +408,7 @@ Maximum number of boys in the group with the same sum
 > Liliana took with an integer that is written with three different non-zero digits: $\heartsuit$, $\diamondsuit$, $\clubsuit$, where $\heartsuit$ indicates the number of hundreds, $\diamondsuit$ that of tens and $\clubsuit$ that of units. The number $\heartsuit\diamondsuit\clubsuit$ is also the mean of the other two numbers $\heartsuit\clubsuit\diamondsuit$ and $\clubsuit\heartsuit\diamondsuit$, i.e.: $$\heartsuit\diamondsuit\clubsuit = \frac{\heartsuit\clubsuit\diamondsuit + \clubsuit\heartsuit\diamondsuit}{2}$$ What is the number of Liliana?
 
 **Answer:** 481 oppure 518 oppure 592 oppure 629
-[[src_bocconi_finalenaz_2012__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2012#q12|src_bocconi_finalenaz_2012__Q12]]
 
 
 
@@ -421,7 +421,7 @@ Maximum number of boys in the group with the same sum
 
 > Nel quadrato della figura sono stati tracciati dei segmenti che congiungono alcuni vertici opposti e il punto medio di un lato. Si è formata così la parte più scura della figura. Qual è la frazione di superficie più scura rispetto a quella di tutto il quadrato?
 
-![[src_bocconi_finalenaz_2012__Q13.png]]
+![[src_bocconi_finalenaz_2012__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -440,10 +440,10 @@ Maximum number of boys in the group with the same sum
 
 > In the square of the figure, segments have been drawn that connect some opposite vertices and the middle point of one side. The darkest part of the figure was thus formed. What's the darker fraction of the surface than the whole square?
 
-![[src_bocconi_finalenaz_2012__Q13.png]]
+![[src_bocconi_finalenaz_2012__q13.png]]
 
 **Answer:** $\frac{11}{20}$
-[[src_bocconi_finalenaz_2012__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2012#q13|src_bocconi_finalenaz_2012__Q13]]
 
 
 
@@ -473,7 +473,7 @@ Maximum number of boys in the group with the same sum
 > Two boatmen, each sailing at a constant speed, leave respectively the two opposite and parallel banks of a canal and meet for the first time $3{,}5$ km from the north shore. Then they continue their route, reach the opposite shore and, without delay, reach the opposite shore (always at the same constant speed) to meet again 2 km from the south shore. What is the width of the channel (in km)?
 
 **Answer:** 8,5
-[[src_bocconi_finalenaz_2012__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2012#q14|src_bocconi_finalenaz_2012__Q14]]
 
 
 
@@ -486,7 +486,7 @@ Maximum number of boys in the group with the same sum
 
 > Le città di Mathpolis, Analys, Geometry e Logix sono situate ai vertici di un quadrato il cui lato misura 60 km. Ci sono poi le città di Arithmeville e Algebra, allineate con Logix e Geometry. Sapendo che la distanza tra Mathpolis e Algebra è di 156 km, qual è quella tra Arithmeville e Geometry?
 
-![[src_bocconi_finalenaz_2012__Q15.png]]
+![[src_bocconi_finalenaz_2012__q15.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -505,10 +505,10 @@ Maximum number of boys in the group with the same sum
 
 > The cities of Mathpolis, Analys, Geometry and Logix are situated on the summits of a square whose side measures 60 km. Then there are the cities of Arithmeville and Algebra, aligned with Logix and Geometry. Now, knowing that the distance between Mathpolis and Algebra is 150 miles, what is the distance between Arithmeville and Geometry?
 
-![[src_bocconi_finalenaz_2012__Q15.png]]
+![[src_bocconi_finalenaz_2012__q15.png]]
 
 **Answer:** 35
-[[src_bocconi_finalenaz_2012__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2012#q15|src_bocconi_finalenaz_2012__Q15]]
 
 
 
@@ -521,7 +521,7 @@ Maximum number of boys in the group with the same sum
 
 > I tre cerchi della figura, tangenti a due a due, hanno lo stesso raggio. Il triangolo curvilineo, colorato in figura, ha il "lato" di $106$ cm. Qual è la sua area?
 
-![[src_bocconi_finalenaz_2012__Q16.png]]
+![[src_bocconi_finalenaz_2012__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -540,10 +540,10 @@ Maximum number of boys in the group with the same sum
 
 > The three circles of the figure, tangent two to two, have the same radius. The curved triangle, coloured in the figure, has a 'side' of $106$ cm. What's your area?
 
-![[src_bocconi_finalenaz_2012__Q16.png]]
+![[src_bocconi_finalenaz_2012__q16.png]]
 
 **Answer:** $144$ cm$^2$
-[[src_bocconi_finalenaz_2012__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2012#q16|src_bocconi_finalenaz_2012__Q16]]
 
 
 
@@ -556,7 +556,7 @@ Maximum number of boys in the group with the same sum
 
 > Scrivete un numero naturale (non nullo) in ciascuna delle caselle bianche in modo che la loro somma sia la più piccola possibile. Attenzione, però: alle seguenti regole: il numero della casella $b$ deve essere compreso tra quello della casella $a$ e quello della casella $c$; ciascuna casella colorata è immediatamente connessa da una circonferenza con due caselle bianche con le quali è immediatamente connessa e questa somma deve essere un quadrato perfetto.
 
-![[src_bocconi_finalenaz_2012__Q17.png]]
+![[src_bocconi_finalenaz_2012__q17.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -575,10 +575,10 @@ Maximum number of boys in the group with the same sum
 
 > Write a natural number (not zero) in each of the white boxes so that their sum is as small as possible. Note, however, to the following rules: the number of the box $b$ must be comprised between that of the box $a$ and that of the box $c$; each coloured box is immediately connected by a circumference with two white boxes to which it is immediately connected and this sum must be a perfect square.
 
-![[src_bocconi_finalenaz_2012__Q17.png]]
+![[src_bocconi_finalenaz_2012__q17.png]]
 
 **Answer:** a=6, b=19, c=30
-[[src_bocconi_finalenaz_2012__Q17]]
+[[Quesiti/src_bocconi_finalenaz_2012#q17|src_bocconi_finalenaz_2012__Q17]]
 
 
 
@@ -591,7 +591,7 @@ Maximum number of boys in the group with the same sum
 
 > A 1 anno, Nando aveva già piantato un albero nella sua foresta privata. A 2 anni, aveva piantato degli altri alberi in modo da formare un triangolo regolare, di lati con due alberi per lato e il primo albero situato in un vertice. A 3 anni, Nando pianta ancora altri alberi in modo da formare un nuovo poligono regolare (sempre di $n$ lati) con tre alberi per lato e due lati che prolungano quelli del poligono dell'anno precedente. E così via. La figura illustra i nei casi in cui $n$ vale $3, 4, 6$ le successive foreste, fino all'età di 4 anni. Oggi, nella foresta coinvolto nei successivi compleanno di Nando, ci sarebbero 969 alberi. Qual è l'età di Nando (ha più di 4 anni e meno di 100)?
 
-![[src_bocconi_finalenaz_2012__Q18.png]]
+![[src_bocconi_finalenaz_2012__q18.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -610,10 +610,10 @@ Maximum number of boys in the group with the same sum
 
 > By the age of 1, Nando had already planted a tree in his private forest. By the age of two, he had planted other trees to form a regular triangle, with sides with two trees on each side and the first tree located on a top. At 3 years old, Nando still plants other trees to form a new regular polygon (always $n$ sides) with three trees per side and two sides that extend those of the previous year's polygon. And so on and so forth. Figure illustrates the cases where $n$ is $3, 4, 6$ subsequent forests, up to the age of 4 years. Today, in the forest involved in Nando's next birthday, there would be 969 trees. What is Nando's age (more than 4 years and less than 100)?
 
-![[src_bocconi_finalenaz_2012__Q18.png]]
+![[src_bocconi_finalenaz_2012__q18.png]]
 
 **Answer:** 17
-[[src_bocconi_finalenaz_2012__Q18]]
+[[Quesiti/src_bocconi_finalenaz_2012#q18|src_bocconi_finalenaz_2012__Q18]]
 
 
 
@@ -644,7 +644,7 @@ Maximum number of boys in the group with the same sum
 > With 2012 stones, form two heaps and write the product of the number of stones contained in the first pile multiplied by the number of stones in the second pile. Then divide one of the two heaps into two new heaps and write the product of the number of stones contained in these new heaps respectively. Now divide one of the three heaps you get, write the product, etc. Until you have all the heaps made of one stone. How much is the sum of the 2011 products you wrote?
 
 **Answer:** 2 023 066
-[[src_bocconi_finalenaz_2012__Q19]]
+[[Quesiti/src_bocconi_finalenaz_2012#q19|src_bocconi_finalenaz_2012__Q19]]
 
 
 
@@ -657,7 +657,7 @@ Maximum number of boys in the group with the same sum
 
 > In un circuito naturale $a$, ci sono $b$ nodi, nelle $c$ celle della figura. Attenzione, però, ogni nodo deve essere collegato (dal più piccolo al più grande, dunque) una volta con un tratto o con una freccia) a ciascuno degli altri numeri. Inoltre, ogni freccia deve essere orientata verso il più grande dei due numeri che collega (dal più piccolo al più grande, dunque).
 
-![[src_bocconi_finalenaz_2012__Q20.png]]
+![[src_bocconi_finalenaz_2012__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -676,7 +676,7 @@ Maximum number of boys in the group with the same sum
 
 > In a natural circuit $a$, there are $b$ nodes in the $c$ cells in the figure. Attention, however, each node must be connected (from the smallest to the largest, therefore) once with a stroke or with an arrow) to each of the other numbers. In addition, each arrow must be oriented towards the larger of the two numbers it connects (from the smaller to the larger, therefore).
 
-![[src_bocconi_finalenaz_2012__Q20.png]]
+![[src_bocconi_finalenaz_2012__q20.png]]
 
 **Answer:** (tre configurazioni a croce nella soluzione)
-[[src_bocconi_finalenaz_2012__Q20]]
+[[Quesiti/src_bocconi_finalenaz_2012#q20|src_bocconi_finalenaz_2012__Q20]]

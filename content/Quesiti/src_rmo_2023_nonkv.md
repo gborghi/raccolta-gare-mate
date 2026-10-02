@@ -33,7 +33,7 @@ level: RMO
 
 > $\mathbb{N}$ sia l'insieme di tutti gli integri positivi e $S = \{(a, b, c, d) \in \mathbb{N}^4 : a^2 + b^2 + c^2 = d^2\}$. Trova il più grande intero positivo $m$ in modo che $m$ divida $abcd$ per tutti $(a, b, c, d) \in S$.
 
-[[src_rmo_2023_nonkv__Q01]]
+[[Quesiti/src_rmo_2023_nonkv#q01|src_rmo_2023_nonkv__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: RMO
 
 > Il $\omega$ deve essere un semicircolo con $AB$ come diametro di confine e il $CD$ deve essere un'accorda variabile del semicircolo di lunghezza costante tale che $C, D$ si trovi all'interno dell'arco $AB$. Il $E$ deve essere un punto del diametro $AB$ in modo tale che $CE$ e $DE$ siano ugualmente incline alla linea $AB$. Prova che a) la misura di $\angle CED$ è una costante; b) il circoncircolo del triangolo $CED$ passa attraverso un punto fisso.
 
-[[src_rmo_2023_nonkv__Q02]]
+[[Quesiti/src_rmo_2023_nonkv#q02|src_rmo_2023_nonkv__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: RMO
 
 > Per qualsiasi numero naturale $n$, scritto nella base 10, $s(n)$ indichi la somma di tutte le sue cifre. Trova tutti i numeri naturali $m$ e $n$ in modo tale che $m < n$ e $$(s(n))^2 = m \quad \text{and} \quad (s(m))^2 = n.$$
 
-[[src_rmo_2023_nonkv__Q03]]
+[[Quesiti/src_rmo_2023_nonkv#q03|src_rmo_2023_nonkv__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: RMO
 
 > Il $\Omega_1, \Omega_2$ deve essere costituito da due cerchi intersezionati con rispettivamente i centri $O_1, O_2$. La linea $l$ interseca $\Omega_1$ nei punti $A, C$ e $\Omega_2$ nei punti $B, D$ in modo tale che $A, B, C, D$ siano collineari in tale ordine. Il bisettore perpendicolare del segmento $AB$ interseca $\Omega_1$ nei punti $P, Q$ e il bisettore perpendicolare del segmento $CD$ interseca $\Omega_2$ nei punti $R, S$ in modo tale che $P, R$ sia sullo stesso lato di $l$. Provare che i punti di mezzo di $PR$, $QS$ e $O_1 O_2$ sono collineari.
 
-[[src_rmo_2023_nonkv__Q04]]
+[[Quesiti/src_rmo_2023_nonkv#q04|src_rmo_2023_nonkv__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: RMO
 
 > Lasciate che $n > k > 1$ siano numeri interi positivi. Determinare tutti i numeri reali positivi $a_1, a_2, \ldots, a_n$ che soddisfano $$\sum_{i=1}^{n} \sqrt{\frac{k a_i^k}{(k-1)a_i^k + 1}} = \sum_{i=1}^{n} a_i = n.$$
 
-[[src_rmo_2023_nonkv__Q05]]
+[[Quesiti/src_rmo_2023_nonkv#q05|src_rmo_2023_nonkv__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: RMO
 
 > Considera un insieme di 16 punti disposti in una formazione quadrata di griglia $4 \times 4$. Dimostra che se uno qualsiasi di questi 7 punti è di colore blu, allora esiste un triangolo rettangolare con uguali ocelli le cui vertici sono tutti blu.
 
-[[src_rmo_2023_nonkv__Q06]]
+[[Quesiti/src_rmo_2023_nonkv#q06|src_rmo_2023_nonkv__Q06]]

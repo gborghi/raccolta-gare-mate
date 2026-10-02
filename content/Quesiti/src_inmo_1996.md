@@ -37,7 +37,7 @@ level: INMO
 > 
 > b) Se per alcuni integri positivi $x$ e $y$, $x + j$ divide $y + j$ per tutti gli integri positivi $j$, indicare che $x = y$.
 
-[[src_inmo_1996__Q01]]
+[[Quesiti/src_inmo_1996#q01|src_inmo_1996__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: INMO
 
 > Si tratta di due cerchi concentrici nel piano con radii $R$ e $3R$ rispettivamente. Indicare che l'ortocentro di qualsiasi triangolo inserito in $C_1$ si trova all'interno di $C_2$. Al contrario, mostrare che ogni punto all'interno di $C_2$ è l'ortocentro di un triangolo inciso in $C_1$.
 
-[[src_inmo_1996__Q02]]
+[[Quesiti/src_inmo_1996#q02|src_inmo_1996__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: INMO
 
 > Risolvere in numeri reali $a, b, c, d, e$ il seguente sistema di equazioni: $$3a = (b + c + d)^3, \quad 3b = (c + d + e)^3, \quad 3c = (d + e + a)^3,$$ $$3d = (e + a + b)^3.$$
 
-[[src_inmo_1996__Q03]]
+[[Quesiti/src_inmo_1996#q03|src_inmo_1996__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: INMO
 
 > Trova il numero di triples ordinati $(A, B, C)$ di sottoinsiemi di un dato set $n$-elemento $X$ in modo tale che $A \subset B \subset C$.
 
-[[src_inmo_1996__Q04]]
+[[Quesiti/src_inmo_1996#q04|src_inmo_1996__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: INMO
 
 > La sequenza $(a_n)_{n \ge 1}$ è definita da $a_1 = 1$, $a_2 = 2$ e $$a_{n+2} = 2a_{n+1} - a_n + 2 \quad \text{for } n \ge 1.$$ Prove che per qualsiasi $m$, $a_{4m+2}$ è anche un termine della sequenza.
 
-[[src_inmo_1996__Q05]]
+[[Quesiti/src_inmo_1996#q05|src_inmo_1996__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: INMO
 
 > Data una serie di 0 e 1 $2n \times 2n$ contenenti esattamente 0 $5n$, mostrare che è possibile rimuovere tutti gli zero eliminando alcune righe $n$ e colonne $n$.
 
-[[src_inmo_1996__Q06]]
+[[Quesiti/src_inmo_1996#q06|src_inmo_1996__Q06]]

@@ -34,7 +34,7 @@ level: IMO
 
 > Whether $a_0 < a_1 < a_2 < \cdots$ is an infinite sequence of positive integers. Demonstrate that there is a single integer $n \geq 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \leq a_{n+1}.$$
 
-[[src_imo_2014__Q01]]
+[[Quesiti/src_imo_2014#q01|src_imo_2014__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: IMO
 
 > It is $n \geq 2$ a whole. A chessboard $n \times n$ composed of $n^2$ square units shall be considered. A configuration of $n$ towers on this chessboard is said to be **pacific** if each row and column contains exactly one tower. Find the largest positive integer $k$ such that, for each peaceful configuration of $n$ towers, there exists a square $k \times k$ that contains no tower on any of its $k^2$ unit squares.
 
-[[src_imo_2014__Q02]]
+[[Quesiti/src_imo_2014#q02|src_imo_2014__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: IMO
 
 > The convex quadrilateral $ABCD$ has $\angle ABC = \angle CDA = 90°$. The point $H$ is the foot of the perpendicular run from $A$ to $BD$. The points $S$ and $T$ lie on the sides $AB$ and $AD$ respectively, such that $H$ lies within the $SCT$ and $$\angle CHS - \angle CSB = 90°, \qquad \angle THC - \angle DTC = 90°.$$ triangle.
 
-[[src_imo_2014__Q03]]
+[[Quesiti/src_imo_2014#q03|src_imo_2014__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: IMO
 
 > The $P$ and $Q$ points lie on the $BC$ side of the $ABC$ acute triangle so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. The points $M$ and $N$ lie on the lines $AP$ and $AQ$ respectively, so that $P$ is the mean point of $AM$ and $Q$ is the mean point of $AN$. Demonstrate that the lines $BM$ and $CN$ intersect on the circumference circumscribed at the triangle $ABC$.
 
-[[src_imo_2014__Q04]]
+[[Quesiti/src_imo_2014#q04|src_imo_2014__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: IMO
 
 > For every positive $n$, the Cape Town Bank issues cut coins $\frac{1}{n}$. Given a finite collection of such coins (not necessarily in different cuts) with a total value of at most $99 + \frac{1}{2}$, demonstrate that the collection can be divided into 100 or fewer groups, so that each group has a total value of at most $1$.
 
-[[src_imo_2014__Q05]]
+[[Quesiti/src_imo_2014#q05|src_imo_2014__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: IMO
 > 
 > **Note:** Results in which $\sqrt{n}$ is replaced by $c\sqrt{n}$ will be evaluated on the basis of the value of the constant $c$.
 
-[[src_imo_2014__Q06]]
+[[Quesiti/src_imo_2014#q06|src_imo_2014__Q06]]

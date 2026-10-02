@@ -35,7 +35,7 @@ level: China Western Mathematical Olympiad
 
 > Una sequenza di numeri reali $a_1, a_2, \ldots$ è definita da $a_1 \neq 0, 1$, $a_2 = 1 - a_1$, $a_{n+1} = 1 - a_n(a_{n-1} \cdots a_1)$, $n = 1, 2, \ldots$. Prove che per qualsiasi numero intero positivo $n$, $a_1 a_2 \cdots a_n \left(\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_n}\right) = 1.$ (posato da Li Shenghong)
 
-[[src_cn_cwmo_2008__Q01]]
+[[Quesiti/src_cn_cwmo_2008#q01|src_cn_cwmo_2008__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: China Western Mathematical Olympiad
 > (2) $\frac{EM}{EN} = \frac{BD}{BP}$.
 > (Posed by Bian Hongping)
 
-![[src_cn_cwmo_2008__Q02.png]]
+![[src_cn_cwmo_2008__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -69,9 +69,9 @@ level: China Western Mathematical Olympiad
 
 > In $\triangle ABC$, $AB = AC$, il cerchio inciso $I$ tocca $BC$, $CA$ e $AB$ rispettivamente ai punti $D$, $E$ e $F$. $P$ è un punto di arco $\widehat{EF}$ (non contenente $D$). La linea $BP$ interseca il cerchio $I$ in un altro punto $Q$ e le linee $EP$, $EQ$ incontrano la linea $BC$ rispettivamente a $M$ e $N$. Prove che (1) $P$, $F$, $B$, $M$ sono conciclici. (2) $\frac{EM}{EN} = \frac{BD}{BP}$. (Possibile da Bian Hongping)
 
-![[src_cn_cwmo_2008__Q02.png]]
+![[src_cn_cwmo_2008__q02.png]]
 
-[[src_cn_cwmo_2008__Q02]]
+[[Quesiti/src_cn_cwmo_2008#q02|src_cn_cwmo_2008__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: China Western Mathematical Olympiad
 
 > Date un intero $m \geqslant 2$ e un intero positivo $m$ $a_1, a_2, \ldots, a_m$, dimostrate che esistono infinitamente molti interi positivi $n$ in modo tale che $a_1 \cdot 1^n + a_2 \cdot 2^n + \cdots + a_m \cdot m^n$ sia composto. (Posato da Chen Yonggao)
 
-[[src_cn_cwmo_2008__Q03]]
+[[Quesiti/src_cn_cwmo_2008#q03|src_cn_cwmo_2008__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: China Western Mathematical Olympiad
 
 > Data una cifra integrale $n \geqslant 2$ e due numeri reali $a$, $b$ con $a > 0$ e $b \neq 0$, la sequenza $\{x_n\}$ è tale che $x_1 = b$ e $x_{n+1} = ax_n^n + b$, $n = 1, 2, \ldots$. Prova che: (1) Quando $b < 0$ e $n$ sono pari, la sequenza $\{x_n\}$ è delimitata se e solo se $ab^{n-1} \geqslant 2$; (2) Quando $b < 0$ e $n$ sono pari, o quando $b > 0$, la sequenza $\{x_n\}$ è delimitata se e solo se $ab^{n-1} \leqslant \frac{(n-1)^{n-1}}{n^n}$. (Posato da Zhu Huawei e Fu Yunhao)
 
-[[src_cn_cwmo_2008__Q04]]
+[[Quesiti/src_cn_cwmo_2008#q04|src_cn_cwmo_2008__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: China Western Mathematical Olympiad
 
 > Quattro rane sono posizionate in quattro punti su una linea retta in modo che le distanze tra due rane vicine siano tutte uguali a un'unità di lunghezza. Una rana può saltare e raggiungere un nuovo punto che riflette la sua posizione originale, prendendo come punto di riferimento una delle altre tre rane. Prove che non esiste un caso in cui le distanze tra due punti vicini, dove rimangono le rane, siano uguali a $2008$ unità di lunghezza. (Posato da Liu Shixiong)
 
-[[src_cn_cwmo_2008__Q05]]
+[[Quesiti/src_cn_cwmo_2008#q05|src_cn_cwmo_2008__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: China Western Mathematical Olympiad
 > Se $x$, $y$, $z \in (0, 1)$ soddisfa $\sqrt{\frac{1-x}{yz}} + \sqrt{\frac{1-y}{zx}} + \sqrt{\frac{1-z}{xy}} = 2$, si trova il valore massimo di $xyz$. (Posato da Tang Lihua)
 
 **Risposta:** $\frac{27}{64}$
-[[src_cn_cwmo_2008__Q06]]
+[[Quesiti/src_cn_cwmo_2008#q06|src_cn_cwmo_2008__Q06]]
 
 
 
@@ -223,7 +223,7 @@ level: China Western Mathematical Olympiad
 > Per un dato intero positivo $n$, trovare il più grande intero positivo $k$, in modo tale che esistano tre set di $k$ diversi interi non negativi, $A = \{x_1, x_2, \ldots, x_k\}$, $B = \{y_1, y_2, \ldots, y_k\}$ e $C = \{z_1, z_2, \ldots, z_k\}$ con $x_i + y_i + z_i = n$ per qualsiasi $1 \leqslant i \leqslant k$. (Posato da Li Shenghong)
 
 **Risposta:** $k = \left\lfloor \frac{2n}{3} \right\rfloor + 1$
-[[src_cn_cwmo_2008__Q07]]
+[[Quesiti/src_cn_cwmo_2008#q07|src_cn_cwmo_2008__Q07]]
 
 
 
@@ -252,4 +252,4 @@ level: China Western Mathematical Olympiad
 
 > Se $P$ è un punto interno di un normale $n$-gon $A_1 A_2 \cdots A_n$, le linee $A_i P$ incontrano il normale $n$-gon $A_1 A_2 \cdots A_n$ in un altro punto $B_i$, dove $i = 1, 2, \ldots, n$. Prove che $\sum_{i=1}^{n} PA_i \geqslant \sum_{i=1}^{n} PB_i.$ (Posato da Feng Zhigang)
 
-[[src_cn_cwmo_2008__Q08]]
+[[Quesiti/src_cn_cwmo_2008#q08|src_cn_cwmo_2008__Q08]]

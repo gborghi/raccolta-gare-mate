@@ -38,7 +38,7 @@ level: squadre
 > IBERNOT Philip J. Frege, for friends Fry, is a guy who works as a pizza delivery boy in New York. On New Year's Eve 1999, he was ordered to deliver pizzas to the cryogenics lab. Arriving there, he finds no one, but he sees a note saying that Dr. Hercule Zoup's son in 2017 will celebrate a number of years that will coincide with the sum of the figures for his year of birth. Fry, curious, wonders how old Hercules' son will be, but falling into a capsule he stays hibernated for 1000 years before he can solve the mystery.
 
 **Answer:** 0023
-[[src_squadre_2018_femminile__Q01]]
+[[Quesiti/src_squadre_2018_femminile#q01|src_squadre_2018_femminile__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: squadre
 > FRY RIVAL wakes up in 2999. When he opens his eyes he realizes that he is in a lab with a strange being with only one eye who asks him a burning question: Consider the smallest number divisible by all natural numbers from 1 to 30. How many of his positive divisors are there?
 
 **Answer:** 7680
-[[src_squadre_2018_femminile__Q02]]
+[[Quesiti/src_squadre_2018_femminile#q02|src_squadre_2018_femminile__Q02]]
 
 
 
@@ -130,7 +130,7 @@ level: squadre
 > Not receiving any answer, Liela Turinga - so called the girl with only one eye - analyzing Fry, proposes to him the job of farmhand. Fry's not here and he's trying to escape from the cryogenics center. When you get to the back of the building, you find a locked door. Someone on the side wall has drawn an isosceles triangle of base 400 mm and side 290 mm and two equal circles tangent to each other and tangent, each at the base and one side of the triangle. On one of the circles is shown a diameter with an x above it. You want to see that the code is exactly the x in mm? With a memory effort, Fry remembers the geometry lessons taken at school and, though mistaken, after a while, manages to decipher the correct code. What is it?
 
 **Answer:** 0120
-[[src_squadre_2018_femminile__Q03]]
+[[Quesiti/src_squadre_2018_femminile#q03|src_squadre_2018_femminile__Q03]]
 
 
 
@@ -165,7 +165,7 @@ level: squadre
 > While on the run, Fry swaps a suicide booth for an old phone booth and gets in line, meeting Beuler, a robot who works as an employee. To pass the time, Beuler is solving a game reported on an advertising manifesto: given a 6 6  chessboard with a pedal placed on the bottom left box, how many paths exist that lead the pedal into the upper right corner and can only make moves that move the pedal from the box in which it is located to one of the three adjacent boxes with the one starting in its top up right?
 
 **Answer:** 1683
-[[src_squadre_2018_femminile__Q04]]
+[[Quesiti/src_squadre_2018_femminile#q04|src_squadre_2018_femminile__Q04]]
 
 
 
@@ -227,7 +227,7 @@ level: squadre
 > Beuler claims to hate humans, but Fry likes him and decides to help him by proposing to move in with him. Beuler's apartment is a rombohedron, i.e. a parallelepiped whose six faces are all rhombohedrons. To prevent law enforcement from detecting Fry (provided with the identification chip), Beuler must place a metal bar on all the diagonals of the faces of the rogues that form his apartment. If the spikes of your house measure 18 m, what is the sum of the squares of lengths in m of all the necessary metal bars?
 
 **Answer:** 7776
-[[src_squadre_2018_femminile__Q05]]
+[[Quesiti/src_squadre_2018_femminile#q05|src_squadre_2018_femminile__Q05]]
 
 
 
@@ -259,7 +259,7 @@ level: squadre
 > You see, Fry, Beuler, to live in the 31st century, you have to know a little math. Let's play a game. Look at that. I have four cards, two hearts and two spikes. Calculate the probability of catching two cards of the same seed. Now I'm adding a number of flower cards. If the probability of catching two cards from the same seed has not changed, how many cards have I added? Fry tries to answer when, without thinking about it, he takes a straw from the fridge and attaches it to Beuler's head... which goes tilted and starts singing Blowin in the Wind. What was the answer to Beuler's riddle?
 
 **Answer:** 0005
-[[src_squadre_2018_femminile__Q06]]
+[[Quesiti/src_squadre_2018_femminile#q06|src_squadre_2018_femminile__Q06]]
 
 
 
@@ -297,7 +297,7 @@ level: squadre
 > Liela can find Fry. She confides to him that she wants to quit her oppressive job and that her dream is to travel in space. They begin a search to see if there is a descendant of Fry in New York in the year 3000 who can help them and, in fact, it's the scientist Hubert Fredholm, a distant pro-pro-pro-pro-nephew of Fry. The only problem is that a scientist's civic number, in the 3000s, is always masked by a mathematical operation. On the Fredholm file is the series of numbers 16, 1156, 111556, ... obtained by inserting the number 15 among the digits of the previous number. If n is the number obtained after the 2018th entry and ( ) S m is the sum of the digits of the number m, then the citizen of Fredholm is ( ) S n.
 
 **Answer:** 6058
-[[src_squadre_2018_femminile__Q07]]
+[[Quesiti/src_squadre_2018_femminile#q07|src_squadre_2018_femminile__Q07]]
 
 
 
@@ -332,7 +332,7 @@ level: squadre
 > PLANAR EXPRESS Hubert Fredholm is a professor of "quantum neutron mathematics" at Martian University and a senior member of the Academy of Professors. He's a great inventor and he's the one who designed all the robots on Earth. Hubert is the owner of the intergalactic transportation agency Planar Express. Hubert proposes to Fry, Liela and Beuler to become his employees, but only if they can solve a problem. Hubert writes the numbers from 1 to 2018 leaving a space between them and writing a   at the bottom. Now it asks to fill the space between two numbers with a   or a   so as to get as the final result of  operation 1, but to do so with as many   as possible. Fry's desperate, and Liela's about to crack something. It's a good thing Beuler has the solution. What number of characters will make Fry a factor of 3000?
 
 **Answer:** 1425
-[[src_squadre_2018_femminile__Q08]]
+[[Quesiti/src_squadre_2018_femminile#q08|src_squadre_2018_femminile__Q08]]
 
 
 
@@ -377,7 +377,7 @@ level: squadre
 > 3
 
 **Answer:** 3011
-[[src_squadre_2018_femminile__Q09]]
+[[Quesiti/src_squadre_2018_femminile#q09|src_squadre_2018_femminile__Q09]]
 
 
 
@@ -427,7 +427,7 @@ level: squadre
 > Parsec from the earth, where a and b are the roots of the polynomial 2 5 x x   . How many parsecs will Fry, Liela and Beuler have to travel to recover Professor Fredholm and all the elderly confined to the hospice planet?
 
 **Answer:** 3791
-[[src_squadre_2018_femminile__Q10]]
+[[Quesiti/src_squadre_2018_femminile#q10|src_squadre_2018_femminile__Q10]]
 
 
 
@@ -528,7 +528,7 @@ level: squadre
 > The Planar Express team has been joined by John Zornberg, a longtime friend of Professor Fredholm. It's an alien from the planet Decapod 10, resembling a large lobster. Fry's hired him as medical director. His skills were crucial when, on arriving for a delivery on the third planet Cese-Na-Tic, an infection was discovered. Zornberg managed to map the disease's symptoms as follows: he introduced the notation P Q  to indicate that those with symptom P also have symptom Q. Then he determined all the symptoms of the disease and called them A, B, C, D, E, F, G, H, I, L, M and N. Finally, he determined the following fundamental links: A B  , B C  , C D  , D E  , E A  , C F  , F G  , G H  , H I  , I G  , L A  , L M  , L N  , N L  , M L  and noted that, knowing that P Q  and Q R  , he knows that P R  too. To rule out the terrible disease, it was necessary to calculate all ordered pairs of different symptoms P and Q among the 12 listed, such as P Q  . How many of these couples are ordered?
 
 **Answer:** 0082
-[[src_squadre_2018_femminile__Q11]]
+[[Quesiti/src_squadre_2018_femminile#q11|src_squadre_2018_femminile__Q11]]
 
 
 
@@ -582,7 +582,7 @@ level: squadre
 > Amy Weil is a student at Martian University who Professor Fredholm hired because she has her own blood type. She's a pretty weird girl and often a little shallow. Yesterday, while doing exercises in preparation for an exam, he considered the Fibonacci sequence (0 1 to , 1 1 to , 2 1 n n n n a a   ) and decided to write the first elements in order. Unfortunately, at some point, instead of typing the correct term, he incorrectly increased it by 1. Since then, he's done the math correctly and decided to stop once he wrote the number 1830. Conway, immediately aware of the error, immediately gave her the index of the wrongly calculated term. What clue did you give?
 
 **Answer:** 0004
-[[src_squadre_2018_femminile__Q12]]
+[[Quesiti/src_squadre_2018_femminile#q12|src_squadre_2018_femminile__Q12]]
 
 
 
@@ -620,7 +620,7 @@ level: squadre
 > The members of Planar Express visit Amy's parents, Leo and Inez, who want to build a New Mars Vegas. The idea is to take the rudder built on a sheltered ground, a structure in the shape of a paralelepiped, and to restructure it by increasing the three dimensions by 2 m, 3 m and 4 m so as to increase the volume of the structure by 3 3447 m and make it a cube. Liela, along with a group of eco-feminists, tries to resist and ends up saving a little bloodsucker on the brink of extinction. What you'll find is that the little leech is an alien who wants to destroy humanity. Fortunately, Fry's intervention settled things. Coming back from Mars, Beuler asks himself: What was the initial volume of the quarry before the restructuring in 3 m?
 
 **Answer:** 5814
-[[src_squadre_2018_femminile__Q13]]
+[[Quesiti/src_squadre_2018_femminile#q13|src_squadre_2018_femminile__Q13]]
 
 
 
@@ -656,7 +656,7 @@ level: squadre
 > The SMULLYAN Fry Planet and the Planar Express are about to make a delivery to the Smullyan Planet. Liela has already warned Fry about the inhabitants of the planet belonging to two religious factions: the erov who are always sincere and oslaf who are always lying. When the mayor arrives, he introduces himself and says, "I'm a ..." Unfortunately, a gust of wind prevented Fry from hearing his voice. At this point, various groups of inhabitants are present to collect the goods: the first group consists of two inhabitants, each declaring: lthe other is an oslaf. Next comes a delegation of three inhabitants who declare each other the other two belong to the erov group, then comes a group of four people who declare each other: the other three in the group are oslaf. And so on until the last delegation of 50 inhabitants. Each group made up of n inhabitants declared that the other n-1s are oslaf if n is equal, erov if n is odd. Beuler asks Fry if he knows how many erov, at most, he may have met.
 
 **Answer:** 0650
-[[src_squadre_2018_femminile__Q14]]
+[[Quesiti/src_squadre_2018_femminile#q14|src_squadre_2018_femminile__Q14]]
 
 
 
@@ -690,7 +690,7 @@ level: squadre
 > BEULERS GAME 2 Traveling on the Planar Express is boring and Beuler, having nothing else to do, sets out to invent games on the chessboard. The last solution was to place a pedal on the bottom left-hand box of a chessboard 8 8  and to calculate how many paths there are that lead the pedal into the bottom right-hand corner box, and to make only moves that move the pedal from one of the three boxes to the right-hand column and immediately upper row, or in the same row, or immediately lower row. What number did you find?
 
 **Answer:** 0127
-[[src_squadre_2018_femminile__Q15]]
+[[Quesiti/src_squadre_2018_femminile#q15|src_squadre_2018_femminile__Q15]]
 
 
 
@@ -747,7 +747,7 @@ level: squadre
 > 4
 
 **Answer:** 0336
-[[src_squadre_2018_femminile__Q16]]
+[[Quesiti/src_squadre_2018_femminile#q16|src_squadre_2018_femminile__Q16]]
 
 
 
@@ -782,7 +782,7 @@ level: squadre
 > Mordalia has become Liela's pet. It was saved on a near-extinction planet when it was discovered to devour anything by turning it into dark matter, used as fuel for spacecraft. Fry discovered that when Mordalia feeds on math books, the fuel lasts much longer. Now we need to refuel for the next trip. Fry approaches Mordalia and hands him a book from which he reads: How many are the ten-digit numbers all divisible by 11111? For all the answer, the little one devours the book producing a large amount of dark matter. What answer would Fry read to the problem if Mordalia hadn't swallowed the book?
 
 **Answer:** 3456
-[[src_squadre_2018_femminile__Q17]]
+[[Quesiti/src_squadre_2018_femminile#q17|src_squadre_2018_femminile__Q17]]
 
 
 
@@ -831,7 +831,7 @@ level: squadre
 > Ignoring Professor Fredholm's orders, Liela takes the Planar Express shuttle to a demolition derby to settle a score with a guy who offended her. But now he has to return to Earth and calculate the shortest trajectory. I'll show you the position on the screen. The on-board computer, perhaps due to a malfunction due to the shots received, draws an ABCD quadrilateral. Liela observes that there is a point P inside it where ADP and BCP are equilateral triangles. By constructing the equilateral triangles ABE and DCF externally to the quadrilateral , the onboard computer indicates that the Earth is at point F and the Planar Express is at point E . The computer reports only the data 20 AD  light years, 21 DC  light years and ˆ 90 FDP  . With this data, will Liela be able to calculate the length of EF (in light years) to get everyone home?
 
 **Answer:** 0058
-[[src_squadre_2018_femminile__Q18]]
+[[Quesiti/src_squadre_2018_femminile#q18|src_squadre_2018_femminile__Q18]]
 
 
 
@@ -865,7 +865,7 @@ level: squadre
 > Many characters have arrived in the future thanks to technology that separates the heads from the rest of the body and keeps them alive and active indefinitely in transparent cylindrical containers. Most of these containers are housed inside the Museum of Tests, where politicians, athletes, actors, UMI presidents and all kinds of famous figures of the twentieth century and beyond are to be found. The Museum is able to guarantee the survival of as many heads as the compositions of 14 in which the last term (the one on the right) is odd. A composition of an integer n is an ordered list of positive integers whose sum is n. For example , number 3 admits the following four compositions: (3) , (1;2) , (2;1) and (1;1;1) .
 
 **Answer:** 5461
-[[src_squadre_2018_femminile__Q19]]
+[[Quesiti/src_squadre_2018_femminile#q19|src_squadre_2018_femminile__Q19]]
 
 
 
@@ -899,7 +899,7 @@ level: squadre
 > Back from Mars, Beuler is devoting himself to his favorite pastime. Given a 6 6  chessboard with a pedal placed on the box at the bottom left, how many paths exist that lead the pedal into the box at the top right corner and can only make moves that move the pedal from a box to one of the three neighbours with it up, right or down, without being able to return to boxes already crossed? Now trained for these problems, Beuler solves the puzzle in seconds. What solution did you come up with?
 
 **Answer:** 7776
-[[src_squadre_2018_femminile__Q20]]
+[[Quesiti/src_squadre_2018_femminile#q20|src_squadre_2018_femminile__Q20]]
 
 
 
@@ -969,7 +969,7 @@ level: squadre
 > A musical motif resembling a call is storming the earth. No one knows what it is, but Fry has to find out. A terrible spaceship is crushing the planets in search of something. Beuler, using his positronic brain, manages to translate music into the polynomial 2 3 4 5 2 3 4 5 6 7 ( ) (1 ))  1 ) p                                                                                                  The music will stop if you can eliminate the terms degree 11 , 12 and 13 of ( ) p x . Beuler sets the calculation by writing 11 12 13 ( ) ( ) p x ax bx cx    , but how much are a , b and c ? (Give the answer to b c ).
 
 **Answer:** 0124
-[[src_squadre_2018_femminile__Q21]]
+[[Quesiti/src_squadre_2018_femminile#q21|src_squadre_2018_femminile__Q21]]
 
 
 
@@ -1006,7 +1006,7 @@ level: squadre
 > The container of a Decapod 10 food supply is shaped like a tetrahedron. To protect it from space travel, Amy made a triangle whose sides measure 60 m, 50 m and 50 m which is exactly the development of the total surface area of the container. What 's the volume in 3 meters ?
 
 **Answer:** 1984
-[[src_squadre_2018_femminile__Q22]]
+[[Quesiti/src_squadre_2018_femminile#q22|src_squadre_2018_femminile__Q22]]
 
 
 
@@ -1050,7 +1050,7 @@ level: squadre
 > A terrible alien monster has managed to sneak up on the Planar Express and is devouring all the members of the team. Fry realizes that in order to defeat the monster and bring his friends back to life, he will have to solve a very difficult problem. The alien will die only if hit with a power energy radius of 500 1 (2 ) 6 i P i  , where ( ) P n is the product of the non-zero digits of the natural number n. What power will the Planar Express crew save?
 
 **Answer:** 7406
-[[src_squadre_2018_femminile__Q23]]
+[[Quesiti/src_squadre_2018_femminile#q23|src_squadre_2018_femminile__Q23]]
 
 
 
@@ -1107,4 +1107,4 @@ level: squadre
 > GREAT solutions
 
 **Answer:** 2800
-[[src_squadre_2018_femminile__Q24]]
+[[Quesiti/src_squadre_2018_femminile#q24|src_squadre_2018_femminile__Q24]]

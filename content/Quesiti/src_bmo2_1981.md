@@ -36,7 +36,7 @@ level: BMO Round 2
 > 
 > Dato che tutti e quattro i triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'area del triangolo dato.
 
-[[src_bmo2_1981__Q01]]
+[[Quesiti/src_bmo2_1981#q01|src_bmo2_1981__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: BMO Round 2
 > 
 > (Non sono richieste prove formali. Ogni diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ 2 & 5 & 3 & 1 & 4 & 8 & 6 & 7 \end{pmatrix}$ che indica che i punti $1, 2, 3, \ldots 8$ si spostano rispettivamente verso i punti $2, 5, 3, \ldots, 7$.)
 
-[[src_bmo2_1981__Q02]]
+[[Quesiti/src_bmo2_1981#q02|src_bmo2_1981__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 2
 
 > Risolvere per $x, y, z$ le equazioni simultanee $$x^2 y^2 + x^2 z^2 = axyz, \quad y^2 z^2 + y^2 x^2 = bxyz, \quad z^2 x^2 + z^2 y^2 = cxyz$$ dove $a, b, c$ sono dati numeri.
 
-[[src_bmo2_1981__Q03]]
+[[Quesiti/src_bmo2_1981#q03|src_bmo2_1981__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: BMO Round 2
 
 > Trova il rimanente quando il polinomio $$x^{81} + x^{49} + x^{25} + x^9 + x$$ è diviso dal polinomio $x^3 - x$.
 
-[[src_bmo2_1981__Q04]]
+[[Quesiti/src_bmo2_1981#q04|src_bmo2_1981__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: BMO Round 2
 
 > La sequenza $\{u_n\}$ dei numeri reali è definita per $n \ge 0$ da $$u_0 = 2, \quad u_1 = 5$$ e $$u_{n+1} u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \ge 1.$$ Prova che ogni $u_n$ è un intero.
 
-[[src_bmo2_1981__Q05]]
+[[Quesiti/src_bmo2_1981#q05|src_bmo2_1981__Q05]]
 
 
 
@@ -187,7 +187,7 @@ level: BMO Round 2
 
 > Prova che se $c$ è un numero razionale, l'equazione $$x^3 - 3cx^2 - 3x + c = 0$$ ha almeno una radice razionale.
 
-[[src_bmo2_1981__Q06]]
+[[Quesiti/src_bmo2_1981#q06|src_bmo2_1981__Q06]]
 
 
 
@@ -215,4 +215,4 @@ level: BMO Round 2
 
 > Prova che se $x, y$ sono integri non negativi allora $5x \ge 7y$ se e solo se esistono integri non negativi $a, b, c, d$ in modo tale che $$x = a + 3b + 3c + 7d,$$ $$y = b + 2c + 5d.$$
 
-[[src_bmo2_1981__Q07]]
+[[Quesiti/src_bmo2_1981#q07|src_bmo2_1981__Q07]]

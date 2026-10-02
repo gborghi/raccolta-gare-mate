@@ -33,7 +33,7 @@ level: RMO
 
 > Due scatole contengono tra di loro 65 palle di diverse dimensioni. Ogni palla è bianca, nera, rossa o gialla. Se si prendono 5 palle dello stesso colore, almeno 2 di esse saranno sempre della stessa dimensione (radio). Prova che ci sono almeno 3 palle nella stessa scatola, dello stesso colore e della stessa dimensione (radio).
 
-[[src_rmo_1990__Q01]]
+[[Quesiti/src_rmo_1990#q01|src_rmo_1990__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: RMO
 
 > Per tutti i numeri reali positivi $a, b, c$ provare che $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b} \ge \frac{3}{2}.$$
 
-[[src_rmo_1990__Q02]]
+[[Quesiti/src_rmo_1990#q02|src_rmo_1990__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: RMO
 
 > Un foglio quadrato di carta $ABCD$ è piegato in modo tale che $B$ ricade sul punto medio $M$ di $CD$. Prove che la piega dividerà $BC$ nel rapporto $5:3$.
 
-[[src_rmo_1990__Q03]]
+[[Quesiti/src_rmo_1990#q03|src_rmo_1990__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: RMO
 
 > Trova il rimanente quando $2^{1990}$ è diviso da $1990$.
 
-[[src_rmo_1990__Q04]]
+[[Quesiti/src_rmo_1990#q04|src_rmo_1990__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: RMO
 
 > $P$ è qualsiasi punto all'interno di un triangolo $ABC$. Il perimetro del triangolo $AB + BC + CA = 2s$. Provare che $$s < AP + BP + CP < 2s.$$
 
-[[src_rmo_1990__Q05]]
+[[Quesiti/src_rmo_1990#q05|src_rmo_1990__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: RMO
 
 > $N$ è un numero di 50 cifre (scala decimale). Tutte le cifre tranne la 26a cifre (da sinistra) sono 1. Se $N$ è divisibile per 13, trova la 26a cifra.
 
-[[src_rmo_1990__Q06]]
+[[Quesiti/src_rmo_1990#q06|src_rmo_1990__Q06]]
 
 
 
@@ -197,7 +197,7 @@ level: RMO
 
 > Una censista in servizio ha visitato una casa che le donne detenute ha rifiutato di rivelare le loro singole età, ma ha detto  "non ci dispiace darvi la somma delle età di due donne che potete scegliere". La donna del censimento disse: "In tal caso, per favore, dammi la somma delle età di ogni possibile coppia". Ha dato le somme come segue: 30, 33, 41, 58, 66, 69. La donna censista prese queste cifre e se ne andò felice. Come ha calcolato le singole età delle donne a partire da queste cifre?
 
-[[src_rmo_1990__Q07]]
+[[Quesiti/src_rmo_1990#q07|src_rmo_1990__Q07]]
 
 
 
@@ -224,4 +224,4 @@ level: RMO
 
 > Se il centro circostante e il centroide di un triangolo coincidono, dimostrare che il triangolo deve essere equilaterale.
 
-[[src_rmo_1990__Q08]]
+[[Quesiti/src_rmo_1990#q08|src_rmo_1990__Q08]]

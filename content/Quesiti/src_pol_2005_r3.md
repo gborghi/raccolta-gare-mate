@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutti i triples $(x, y, n)$ di numeri interi positivi che soddisfano l'equazione $$(x - y)^n = xy.$$
 
-[[src_pol_2005_r3__Q01]]
+[[Quesiti/src_pol_2005_r3#q01|src_pol_2005_r3__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 3
 
 > Un quadrilaterale convex $ABCD$ è inserito in un cerchio $o$. Il punto $S$ all'interno del cerchio è tale che $\angle SAD = \angle SCB$ e $\angle SDA = \angle SBC$. Il bisettore di angolo $ASB$ interseca il cerchio $o$ nei punti $P$ e $Q$. Prove che $PS = QS$.
 
-[[src_pol_2005_r3__Q02]]
+[[Quesiti/src_pol_2005_r3#q02|src_pol_2005_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 3
 
 > In una tabella $2n \times 2n$ ($n \in \mathbb{N}$) sono scritti $4n^2$ numeri reali con la somma $0$ (un numero in ogni cella). Il valore assoluto di qualsiasi numero non supera $1$. Prova che il valore assoluto di tutti i numeri di una colonna o di una riga non supera $n$.
 
-[[src_pol_2005_r3__Q03]]
+[[Quesiti/src_pol_2005_r3#q03|src_pol_2005_r3__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 3
 
 > Si dà un numero reale $c > -2$. Prova che se i numeri positivi $x_1, x_2, \ldots, x_n$ soddisfano $$\sqrt{x_1^2 + cx_1 x_2 + x_2^2} + \sqrt{x_2^2 + cx_2 x_3 + x_3^2} + \cdots + \sqrt{x_n^2 + cx_n x_1 + x_1^2} = \sqrt{c+2}\,(x_1 + x_2 + \cdots + x_n),$$, $c = 2$ o $x_1 = x_2 = \cdots = x_n$.
 
-[[src_pol_2005_r3__Q04]]
+[[Quesiti/src_pol_2005_r3#q04|src_pol_2005_r3__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: Olimpiade Polacca Round 3
 
 > $k > 1$ sia un numero intero e $m = 4k^2 - 5$. Mostra che esistono integri positivi $a$ e $b$ in modo tale che la sequenza $(x_n)$ definita da $$x_0 = a, \quad x_1 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 0, 1, 2, \ldots$$ abbia tutti i suoi termini relativamente primi a $m$.
 
-[[src_pol_2005_r3__Q05]]
+[[Quesiti/src_pol_2005_r3#q05|src_pol_2005_r3__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 3
 
 > Indicare che ogni esagono convexo di superficie $1$ contiene un esagono convexo di superficie non inferiore a $\dfrac{3}{4}$.
 
-[[src_pol_2005_r3__Q06]]
+[[Quesiti/src_pol_2005_r3#q06|src_pol_2005_r3__Q06]]

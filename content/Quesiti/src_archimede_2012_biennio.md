@@ -61,7 +61,7 @@ level: biennio
 > - **(E)** 91
 
 **Answer:** E
-[[src_archimede_2012_biennio__Q01]]
+[[Quesiti/src_archimede_2012_biennio#q01|src_archimede_2012_biennio__Q01]]
 
 
 
@@ -102,7 +102,7 @@ level: biennio
 > - **(E)** 8 √ 2 m
 
 **Answer:** D
-[[src_archimede_2012_biennio__Q02]]
+[[Quesiti/src_archimede_2012_biennio#q02|src_archimede_2012_biennio__Q02]]
 
 
 
@@ -143,7 +143,7 @@ level: biennio
 > - **(E)** π 9 m2
 
 **Answer:** B
-[[src_archimede_2012_biennio__Q03]]
+[[Quesiti/src_archimede_2012_biennio#q03|src_archimede_2012_biennio__Q03]]
 
 
 
@@ -185,7 +185,7 @@ level: biennio
 > - **(E)** The data on the problem are not sufficient to determine it
 
 **Answer:** B
-[[src_archimede_2012_biennio__Q04]]
+[[Quesiti/src_archimede_2012_biennio#q04|src_archimede_2012_biennio__Q04]]
 
 
 
@@ -232,7 +232,7 @@ level: biennio
 > - **(E)** 2/5 a b
 
 **Answer:** A
-[[src_archimede_2012_biennio__Q05]]
+[[Quesiti/src_archimede_2012_biennio#q05|src_archimede_2012_biennio__Q05]]
 
 
 
@@ -274,7 +274,7 @@ level: biennio
 > - **(E)** 48
 
 **Answer:** A
-[[src_archimede_2012_biennio__Q06]]
+[[Quesiti/src_archimede_2012_biennio#q06|src_archimede_2012_biennio__Q06]]
 
 
 
@@ -318,7 +318,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** None of the above
 
 **Answer:** C
-[[src_archimede_2012_biennio__Q07]]
+[[Quesiti/src_archimede_2012_biennio#q07|src_archimede_2012_biennio__Q07]]
 
 
 
@@ -367,7 +367,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** infinitesimal
 
 **Answer:** D
-[[src_archimede_2012_biennio__Q08]]
+[[Quesiti/src_archimede_2012_biennio#q08|src_archimede_2012_biennio__Q08]]
 
 
 
@@ -411,7 +411,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** 50%
 
 **Answer:** D
-[[src_archimede_2012_biennio__Q09]]
+[[Quesiti/src_archimede_2012_biennio#q09|src_archimede_2012_biennio__Q09]]
 
 
 
@@ -454,7 +454,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** √ 3 2 m
 
 **Answer:** B
-[[src_archimede_2012_biennio__Q10]]
+[[Quesiti/src_archimede_2012_biennio#q10|src_archimede_2012_biennio__Q10]]
 
 
 
@@ -497,7 +497,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** 39
 
 **Answer:** B
-[[src_archimede_2012_biennio__Q11]]
+[[Quesiti/src_archimede_2012_biennio#q11|src_archimede_2012_biennio__Q11]]
 
 
 
@@ -541,7 +541,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** None of the preceding
 
 **Answer:** C
-[[src_archimede_2012_biennio__Q12]]
+[[Quesiti/src_archimede_2012_biennio#q12|src_archimede_2012_biennio__Q12]]
 
 
 
@@ -589,7 +589,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** 50 cm
 
 **Answer:** E
-[[src_archimede_2012_biennio__Q13]]
+[[Quesiti/src_archimede_2012_biennio#q13|src_archimede_2012_biennio__Q13]]
 
 
 
@@ -636,7 +636,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** None of the preceding
 
 **Answer:** D
-[[src_archimede_2012_biennio__Q14]]
+[[Quesiti/src_archimede_2012_biennio#q14|src_archimede_2012_biennio__Q14]]
 
 
 
@@ -678,7 +678,7 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** 1 40·39
 
 **Answer:** B
-[[src_archimede_2012_biennio__Q15]]
+[[Quesiti/src_archimede_2012_biennio#q15|src_archimede_2012_biennio__Q15]]
 
 
 
@@ -760,4 +760,4 @@ Maximum number of friends divided by 1260 figures
 > - **(E)** ABC is equal.
 
 **Answer:** B
-[[src_archimede_2012_biennio__Q16]]
+[[Quesiti/src_archimede_2012_biennio#q16|src_archimede_2012_biennio__Q16]]

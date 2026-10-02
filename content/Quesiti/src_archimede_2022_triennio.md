@@ -49,7 +49,7 @@ level: triennio
 > - **(E)** n2 + 9 4
 
 **Answer:** C
-[[src_archimede_2022_triennio__Q01]]
+[[Quesiti/src_archimede_2022_triennio#q01|src_archimede_2022_triennio__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: triennio
 > - **(E)** 30°
 
 **Answer:** D
-[[src_archimede_2022_triennio__Q02]]
+[[Quesiti/src_archimede_2022_triennio#q02|src_archimede_2022_triennio__Q02]]
 
 
 
@@ -134,7 +134,7 @@ level: triennio
 > - **(E)** 288
 
 **Answer:** A
-[[src_archimede_2022_triennio__Q03]]
+[[Quesiti/src_archimede_2022_triennio#q03|src_archimede_2022_triennio__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: triennio
 > - **(E)** 2/7
 
 **Answer:** B
-[[src_archimede_2022_triennio__Q04]]
+[[Quesiti/src_archimede_2022_triennio#q04|src_archimede_2022_triennio__Q04]]
 
 
 
@@ -220,7 +220,7 @@ level: triennio
 > - **(E)** 2/9
 
 **Answer:** E
-[[src_archimede_2022_triennio__Q05]]
+[[Quesiti/src_archimede_2022_triennio#q05|src_archimede_2022_triennio__Q05]]
 
 
 
@@ -344,7 +344,7 @@ level: triennio
 > - **(E)** 27
 
 **Answer:** A
-[[src_archimede_2022_triennio__Q06]]
+[[Quesiti/src_archimede_2022_triennio#q06|src_archimede_2022_triennio__Q06]]
 
 
 
@@ -386,7 +386,7 @@ level: triennio
 > - **(E)** 504
 
 **Answer:** D
-[[src_archimede_2022_triennio__Q07]]
+[[Quesiti/src_archimede_2022_triennio#q07|src_archimede_2022_triennio__Q07]]
 
 
 
@@ -427,7 +427,7 @@ level: triennio
 > - **(E)** the data provided are insufficient
 
 **Answer:** C
-[[src_archimede_2022_triennio__Q08]]
+[[Quesiti/src_archimede_2022_triennio#q08|src_archimede_2022_triennio__Q08]]
 
 
 
@@ -471,7 +471,7 @@ level: triennio
 > - **(E)** 4950
 
 **Answer:** E
-[[src_archimede_2022_triennio__Q09]]
+[[Quesiti/src_archimede_2022_triennio#q09|src_archimede_2022_triennio__Q09]]
 
 
 
@@ -525,7 +525,7 @@ level: triennio
 > - **(E)** 841
 
 **Answer:** A
-[[src_archimede_2022_triennio__Q10]]
+[[Quesiti/src_archimede_2022_triennio#q10|src_archimede_2022_triennio__Q10]]
 
 
 
@@ -570,7 +570,7 @@ level: triennio
 > - **(E)** 9/25
 
 **Answer:** B
-[[src_archimede_2022_triennio__Q11]]
+[[Quesiti/src_archimede_2022_triennio#q11|src_archimede_2022_triennio__Q11]]
 
 
 
@@ -612,7 +612,7 @@ level: triennio
 > - **(E)** 10
 
 **Answer:** C
-[[src_archimede_2022_triennio__Q12]]
+[[Quesiti/src_archimede_2022_triennio#q12|src_archimede_2022_triennio__Q12]]
 
 
 
@@ -658,7 +658,7 @@ level: triennio
 > - **(E)** One of the two (you can't predict who) has a candy, the other one has none.
 
 **Answer:** D
-[[src_archimede_2022_triennio__Q13]]
+[[Quesiti/src_archimede_2022_triennio#q13|src_archimede_2022_triennio__Q13]]
 
 
 
@@ -700,7 +700,7 @@ level: triennio
 > - **(E)** 995
 
 **Answer:** E
-[[src_archimede_2022_triennio__Q14]]
+[[Quesiti/src_archimede_2022_triennio#q14|src_archimede_2022_triennio__Q14]]
 
 
 
@@ -743,7 +743,7 @@ level: triennio
 > - **(E)** 1/36
 
 **Answer:** C
-[[src_archimede_2022_triennio__Q15]]
+[[Quesiti/src_archimede_2022_triennio#q15|src_archimede_2022_triennio__Q15]]
 
 
 
@@ -841,4 +841,4 @@ level: triennio
 > - **(E)** 126 311
 
 **Answer:** B
-[[src_archimede_2022_triennio__Q16]]
+[[Quesiti/src_archimede_2022_triennio#q16|src_archimede_2022_triennio__Q16]]

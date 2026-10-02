@@ -40,7 +40,7 @@ level: nazionale
 > During an adventure in Egypt, Borelix unwittingly breaks the nose of the famous Sphinx. The nose, now on the ground, is an irregular ABCD tetrahedron resting on the face of the ABC. Borelix, throwing a Roman, breaks the nose further along a plane parallel to ABD by dividing it into two pieces of which the one containing the C vertex has a volume that, once decreased by 27.2%, becomes equal to that of the other piece. Knowing that the height (relative to the ground) of the piece containing top C is 5.33m, how many millimetres did you measure the height of ABCD relative to ABC?
 
 **Answer:** 6396
-[[src_cesenatico_2011_semifinale_b__Q01]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q01|src_cesenatico_2011_semifinale_b__Q01]]
 
 
 
@@ -73,7 +73,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 > The Roman scientist Novotonus, who traveled with Julius Caesar's troops, wants to steal some cards with revolutionary mathematical ideas from his rival, Leibnix, who has put them in a safe deposit box. This is opened by inserting four positive integers a, b, c, d, such that a/b and c/d are two irreducible fractions with abcd = 40! e ab = n! where 15 < n < 25. Whether N is the number of four orders that satisfy the conditions, how much does N/1024 do?
 
 **Answer:** 7424
-[[src_cesenatico_2011_semifinale_b__Q02]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q02|src_cesenatico_2011_semifinale_b__Q02]]
 
 
 
@@ -106,7 +106,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 > Trivial jewellery Julius Caesar wishes to give a precious jewel to the furious Cleopatra to obtain her forgiveness. The monolith is made by taking the vertices of a regular 127-agon on a circumference and connecting with gold wires the vertices that are 61 vertices apart from each other (two adjacent vertices distant 1). Knowing that at every point within the circumference where these threads meet Julius Caesar wants to lay a precious stone, how many gems will he need?
 
 **Answer:** 7620
-[[src_cesenatico_2011_semifinale_b__Q03]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q03|src_cesenatico_2011_semifinale_b__Q03]]
 
 
 
@@ -145,7 +145,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 > A rigorous interrogation Gathered together a group of 5 self-styled druids, Arcidruid listens to them one by one to determine if there are impostors infiltrated by the Romans. All the suspects know who the druids are and who the impostors are. Druids always tell the truth, impostors always lie. The five suspects make the following statements: A: The number of impostors present is a multiple of 3. B: There's only one impostor among us. C: A and B are both druids. D: Me and A are not impostors. E: D is lying. In the answer, use the numbers from left to right to indicate what you can say about each of the first 4 individuals: 1 if it's a druid, 2 if it's an impostor, 0 if it can't be determined uniquely.
 
 **Answer:** 0220
-[[src_cesenatico_2011_semifinale_b__Q04]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q04|src_cesenatico_2011_semifinale_b__Q04]]
 
 
 
@@ -178,7 +178,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 > Great works The site for the construction of the monument to Cleopatra was until yesterday an ABC triangle in A with AB = 144 and AC = 221. Today the work area has been extended to a BCD triangle, with D on the AB extension such that CD = 256. Within the enlarged site, the monument will stand on the surface of the AEFG quadrilateral, with E, F, G mean points of DB, BC, CD. What is the area of this quadrilateral?
 
 **Answer:** 7956
-[[src_cesenatico_2011_semifinale_b__Q05]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q05|src_cesenatico_2011_semifinale_b__Q05]]
 
 
 
@@ -220,7 +220,7 @@ Line up 9 soldiers with close sums multiple of 3
 > 2/1 Team competition 2011  Semifinal B  Problem tests
 
 **Answer:** 2880
-[[src_cesenatico_2011_semifinale_b__Q06]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q06|src_cesenatico_2011_semifinale_b__Q06]]
 
 
 
@@ -253,7 +253,7 @@ The following information is provided by the manufacturer:
 > A safe haven At the suggestion of his druid-spy, Dimostropercertus orders the Romans to close all the gates. Abelix and his companions decide to go at random to find an uncontrolled harbor where to dock. They randomly choose a natural n between 0 and 2011, and call q the probability that 7 will be 10n +1 and the probability that 7 will be 10n −1. Indicate the first four decimal places of the q/r quotient as a result.
 
 **Answer:** 9970
-[[src_cesenatico_2011_semifinale_b__Q07]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q07|src_cesenatico_2011_semifinale_b__Q07]]
 
 
 
@@ -287,7 +287,7 @@ Who's telling the truth
 > The Emperor's Table is a huge round table, the largest in the world, with a beauty of 4605 seats. Only once did he happen to see him completely occupied: it is said that that day each of the diners made a comment on the two he had in front of him (the two sitting next to the point of the table diametrically opposite his). In particular, each said that of the two in front only one always told the truth, and the other always lied. Considering that at least one of them was sincere, how many of them were actually telling the truth?
 
 **Answer:** 3070
-[[src_cesenatico_2011_semifinale_b__Q08]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q08|src_cesenatico_2011_semifinale_b__Q08]]
 
 
 
@@ -322,7 +322,7 @@ Who's telling the truth
 > An order that cannot be disobeyed. Abelix and Borelix intercepted a message from Julius Caesar himself and intended for one of his lieutenants. The message reads: You must send DYYJY platoons of soldiers, each platoon must be formed by MYJW soldiers to be arranged in a square texture with WJJJ soldiers on the side. Furthermore, I need other NDEYMWJJ soldiers to make me a personal guard. Abelix scrutinizes the message and observes doubtful: The Romans usually use other funny letters instead of numbers, type XVIII, XLIV and stuff like that. That they changed letters? but then immediately exclaims:But of course! Julius Caesar used his usual method and changed the letters simply by moving a fixed number in alphabetical order! How many soldiers did Julius Caesar ask for?
 
 **Answer:** 9703
-[[src_cesenatico_2011_semifinale_b__Q09]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q09|src_cesenatico_2011_semifinale_b__Q09]]
 
 
 
@@ -355,7 +355,7 @@ Who's telling the truth
 > Romantic expedition Borelix wants to send a menhir d'amour to his beloved Alfablà, and must free him with 7050 Chickens of Bronze, the currency of their village. Unfortunately, he only has stamps from 255 and 210 Bronzo Chickens. How many stamps will you have to use Borelix? In the answer, use the two left digits for the number of stamps 255 and the two right digits for the number of stamps 210 corresponding to the minimum sum solution.
 
 **Answer:** 2602
-[[src_cesenatico_2011_semifinale_b__Q10]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q10|src_cesenatico_2011_semifinale_b__Q10]]
 
 
 
@@ -387,7 +387,7 @@ Who's telling the truth
 > To prepare a new potion, the druid Parabolix must mix with the other ingredients a number of grams of druid beard equal to the sum of all n integers between 2011 and 3011 so that the difference between the square of the next n and the square of n is a perfect square of a prime number. How many grams of beard does he have to add?
 
 **Answer:** 7428
-[[src_cesenatico_2011_semifinale_b__Q11]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q11|src_cesenatico_2011_semifinale_b__Q11]]
 
 
 
@@ -418,7 +418,7 @@ Who's telling the truth
 > A complex translation The Parabolix druid is one of the few able to read the language of the ancient Gauls. One day, while translating one of their scrolls, he noticed in the original text the number 111111111 (which consisted of nine digits); however, he knew that their numbering system was based on 9. When he completed the translation, what number did he write? (Include the last 4 digits)
 
 **Answer:** 7561
-[[src_cesenatico_2011_semifinale_b__Q12]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q12|src_cesenatico_2011_semifinale_b__Q12]]
 
 
 
@@ -453,7 +453,7 @@ Who's telling the truth
 > A rapture with multiple consequences Shortly before being kidnapped by the goats, Parabolix had stored potions received from the other druids in a locked box, the combination of which is a number between 0000 and 9999. Euleric, the most cunning of the Raptor Goths, discovered that this number can be obtained as follows: They are written on a line 4 integers greater than 1, different from each other. In the next row, the 3 products of the previous number pairs are written (the first with the second, the second with the third and the third with the fourth). In the next line, repeat the procedure, writing two products. Multiplying these two, you get the result. If you write in order from major to minor all the numbers of this kind, the fourth is the right combination.
 
 **Answer:** 9072
-[[src_cesenatico_2011_semifinale_b__Q13]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q13|src_cesenatico_2011_semifinale_b__Q13]]
 
 
 
@@ -484,7 +484,7 @@ Who's telling the truth
 > Banquet under the stars Another adventure is over, and the village is bound to gather for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions of the equation x x x x + 2 y = 4900. How many pigs were needed?
 
 **Answer:** 9800
-[[src_cesenatico_2011_semifinale_b__Q14]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q14|src_cesenatico_2011_semifinale_b__Q14]]
 
 
 
@@ -518,7 +518,7 @@ Who's telling the truth
 > A vain search by Julius Caesar searches the village of the Gauls and has narrowed his search area to a square of 35 miles on the side. His soldiers have been attacked every time in the midpoints of the sides of the square. Thanks to informant Ficcanasus, Julius Caesar was able to discover that the Gauls never moved more than 35 miles from the village when attacking. Then draw the area where the village can be found on the map and order his soldiers to look in the square that has as its vertices the vertices of the drawn area. How much is the area of the square in square miles?
 
 **Answer:** 0829
-[[src_cesenatico_2011_semifinale_b__Q15]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q15|src_cesenatico_2011_semifinale_b__Q15]]
 
 
 
@@ -559,4 +559,4 @@ Other, of a kind used in the manufacture of bicycles and bicycles
 > This year's event is the 12th National Team A Semifinal B. The problem
 
 **Answer:** 1152
-[[src_cesenatico_2011_semifinale_b__Q16]]
+[[Quesiti/src_cesenatico_2011_semifinale_b#q16|src_cesenatico_2011_semifinale_b__Q16]]

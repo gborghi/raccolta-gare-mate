@@ -36,7 +36,7 @@ level: Giochi di Rosi
 > Today Mark feels particularly rich and is ready to invest his savings. So he learned about the prices of some cars and learned that buying two luxury cars, one medium-cylinder and two vintage, costs 176,000 euros. On the other hand, if you buy three luxury cars, two medium-cylinder and one vintage, you would spend a total of 197,000 euros. How much will you spend if you're content with one luxury car and three vintage cars?
 
 **Answer:** 155.000 Euro
-[[src_bocconi_rosi_2011__Q01]]
+[[Quesiti/src_bocconi_rosi_2011#q01|src_bocconi_rosi_2011__Q01]]
 
 
 
@@ -49,7 +49,7 @@ level: Giochi di Rosi
 
 > **Quanti triangoli vedete in figura?**
 
-![[src_bocconi_rosi_2011__Q02.png]]
+![[src_bocconi_rosi_2011__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -66,10 +66,10 @@ level: Giochi di Rosi
 
 > **How many triangles do you see in the figure? **
 
-![[src_bocconi_rosi_2011__Q02.png]]
+![[src_bocconi_rosi_2011__q02.png]]
 
 **Answer:** 16
-[[src_bocconi_rosi_2011__Q02]]
+[[Quesiti/src_bocconi_rosi_2011#q02|src_bocconi_rosi_2011__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: Giochi di Rosi
 > **How many distinct three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
 
 **Answer:** 60
-[[src_bocconi_rosi_2011__Q03]]
+[[Quesiti/src_bocconi_rosi_2011#q03|src_bocconi_rosi_2011__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: Giochi di Rosi
 > **How many three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
 
 **Answer:** 125
-[[src_bocconi_rosi_2011__Q04]]
+[[Quesiti/src_bocconi_rosi_2011#q04|src_bocconi_rosi_2011__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: Giochi di Rosi
 > Three endless travelers finally arrive at a restaurant and ask for a plate of potatoes. When the host brings them, the first finds them already asleep. Then leave the plate on the table. One in three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point a second traveler wakes up, eats a third of the potatoes left in the plate, and then he falls asleep again. Shortly afterward the third traveler wakes up, unaware that his adventure companions have already served themselves, and he also eats a third of the potatoes left in the dish. When the host comes to pick up the dish, he finds it still contains eight potatoes. How many potatoes did you bring first?
 
 **Answer:** 27
-[[src_bocconi_rosi_2011__Q05]]
+[[Quesiti/src_bocconi_rosi_2011#q05|src_bocconi_rosi_2011__Q05]]
 
 
 
@@ -171,7 +171,7 @@ level: Giochi di Rosi
 > La figura è composta da quattro triangoli equilateri che hanno il lato di 1 m.
 > **Calcolate la lunghezza della diagonale $AC$.**
 
-![[src_bocconi_rosi_2011__Q06.png]]
+![[src_bocconi_rosi_2011__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -187,10 +187,10 @@ level: Giochi di Rosi
 
 > The figure consists of four equilateral triangles with sides of 1 m. **Calculate the length of the diagonal $AC$.**
 
-![[src_bocconi_rosi_2011__Q06.png]]
+![[src_bocconi_rosi_2011__q06.png]]
 
 **Answer:** $\sqrt{3} = 1{,}732$
-[[src_bocconi_rosi_2011__Q06]]
+[[Quesiti/src_bocconi_rosi_2011#q06|src_bocconi_rosi_2011__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: Giochi di Rosi
 
 > **Esprimete con una frazione il rapporto tra l'area del quadrato scuro e quella dell'intero quadrato.**
 
-![[src_bocconi_rosi_2011__Q07.png]]
+![[src_bocconi_rosi_2011__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -219,10 +219,10 @@ level: Giochi di Rosi
 
 > **Express with a fraction the ratio of the area of the dark square to that of the whole square.**
 
-![[src_bocconi_rosi_2011__Q07.png]]
+![[src_bocconi_rosi_2011__q07.png]]
 
 **Answer:** $\frac{5}{9}$
-[[src_bocconi_rosi_2011__Q07]]
+[[Quesiti/src_bocconi_rosi_2011#q07|src_bocconi_rosi_2011__Q07]]
 
 
 
@@ -236,7 +236,7 @@ level: Giochi di Rosi
 > Il cerchio intermedio che compare in figura ha un raggio doppio di quello del cerchio piccolo. Il cerchio più grande ha invece un raggio che è tre volte quello del cerchio piccolo.
 > Sapendo che il cerchio grande ha un'area uguale a $1.113 \text{ cm}^2$, qual è l'area della zona bianca?
 
-![[src_bocconi_rosi_2011__Q08.png]]
+![[src_bocconi_rosi_2011__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -252,10 +252,10 @@ level: Giochi di Rosi
 
 > The intermediate circle in the figure has a radius twice that of the small circle. Instead, the larger circle has a radius three times that of the smaller circle. Knowing that the large circle has an area equal to $1.113 \text{ cm}^2$, what is the area of the white area?
 
-![[src_bocconi_rosi_2011__Q08.png]]
+![[src_bocconi_rosi_2011__q08.png]]
 
 **Answer:** $371 \text{ cm}^2$
-[[src_bocconi_rosi_2011__Q08]]
+[[Quesiti/src_bocconi_rosi_2011#q08|src_bocconi_rosi_2011__Q08]]
 
 
 
@@ -284,7 +284,7 @@ level: Giochi di Rosi
 > Two (precious) barrels contain a total of 350 litres of Brunello di Montalcino. Taking 20 liters from the first bottle and 80 from the second, the wine left in the two bottles is the same (the same number of liters). How many liters were in the box that initially contained more?
 
 **Answer:** 205 litri
-[[src_bocconi_rosi_2011__Q09]]
+[[Quesiti/src_bocconi_rosi_2011#q09|src_bocconi_rosi_2011__Q09]]
 
 
 
@@ -313,7 +313,7 @@ level: Giochi di Rosi
 > Deborah, Jacob, and Luke have a combined age of 32. Jacob and Luke are twins, while Deborah was born 4 years after Luke. What is Deborah's age?
 
 **Answer:** 8 anni
-[[src_bocconi_rosi_2011__Q10]]
+[[Quesiti/src_bocconi_rosi_2011#q10|src_bocconi_rosi_2011__Q10]]
 
 
 
@@ -343,7 +343,7 @@ Chocolates received from Carla in the second distribution*
 > Deborah, Jacob, and Luke went to visit their cousins Carla and Milena. Uncle Desiderio, to celebrate the meeting, distributed some chocolates to everyone: Debora had 7, Jacob 3, Luke 2, Carla 8 and Milena 9. At this point, Desiderio had 21 chocolates left to distribute and he wants to do so so that after this second distribution, all cousins have the same number of chocolates. How many chocolates has Carla (in the second order) received?
 
 **Answer:** 2 cioccolatini
-[[src_bocconi_rosi_2011__Q11]]
+[[Quesiti/src_bocconi_rosi_2011#q11|src_bocconi_rosi_2011__Q11]]
 
 
 
@@ -372,7 +372,7 @@ Places in Liliana's favourite film
 > Liliana's favorite movie theater, when it's 40 percent empty, has 72 fewer viewers than when it's 80 percent full. How many seats does Liliana's favorite movie have?
 
 **Answer:** 360 posti
-[[src_bocconi_rosi_2011__Q12]]
+[[Quesiti/src_bocconi_rosi_2011#q12|src_bocconi_rosi_2011__Q12]]
 
 
 
@@ -401,7 +401,7 @@ The cost of the lost book in the classroom library
 > At the beginning of the year, the classroom library consisted of 20 books. Their average cost was 30 euros each. At the end of the year, unfortunately, one book was lost and now the average cost of each book has risen to 31 euros. How much did the lost book cost?
 
 **Answer:** 11 Euro
-[[src_bocconi_rosi_2011__Q13]]
+[[Quesiti/src_bocconi_rosi_2011#q13|src_bocconi_rosi_2011__Q13]]
 
 
 
@@ -431,7 +431,7 @@ The cost of the lost book in the classroom library
 > The appointment was for 3:00 p.m. but Peter's friends are all late. One with a delay of 47 minutes, another with a delay of half an hour, another with a delay of 35 minutes, another with a delay of 20 minutes, another with a delay of 25 minutes, another with an hour and 10 minutes, another with a delay of 53 minutes. Nando came in third. What time did Nando arrive yesterday?
 
 **Answer:** 15.30
-[[src_bocconi_rosi_2011__Q14]]
+[[Quesiti/src_bocconi_rosi_2011#q14|src_bocconi_rosi_2011__Q14]]
 
 
 
@@ -445,7 +445,7 @@ The cost of the lost book in the classroom library
 > Tre delle cinque superfici che compaiono in figura hanno la stessa area.
 > **Quali sono?**
 
-![[src_bocconi_rosi_2011__Q15.png]]
+![[src_bocconi_rosi_2011__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -461,10 +461,10 @@ The cost of the lost book in the classroom library
 
 > Three of the five surfaces in the figure have the same area. **What are they? **
 
-![[src_bocconi_rosi_2011__Q15.png]]
+![[src_bocconi_rosi_2011__q15.png]]
 
 **Answer:** $1 - 2 - 5$
-[[src_bocconi_rosi_2011__Q15]]
+[[Quesiti/src_bocconi_rosi_2011#q15|src_bocconi_rosi_2011__Q15]]
 
 
 
@@ -478,7 +478,7 @@ The cost of the lost book in the classroom library
 > Disponete nei cerchi attorno al 55 otto numeri naturali, diversi tra di loro e inferiori a 100, in modo tale che il prodotto di tre numeri allineati sia sempre uguale a 1980.
 > **Qual è la somma degli otto numeri che avete disposto attorno al 55?**
 
-![[src_bocconi_rosi_2011__Q16.png]]
+![[src_bocconi_rosi_2011__q16.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -495,10 +495,10 @@ The cost of the lost book in the classroom library
 
 > You have in the circles around 55 eight natural numbers, different from each other and less than 100, so that the product of three aligned numbers is always equal to 1980. What's the sum of the eight numbers that you put around 55?
 
-![[src_bocconi_rosi_2011__Q16.png]]
+![[src_bocconi_rosi_2011__q16.png]]
 
 **Answer:** 85
-[[src_bocconi_rosi_2011__Q16]]
+[[Quesiti/src_bocconi_rosi_2011#q16|src_bocconi_rosi_2011__Q16]]
 
 
 
@@ -527,7 +527,7 @@ The cost of the lost book in the classroom library
 > Descending down a river, Amerigo took two hours to travel 50 miles [60 km]. To get back to the starting point, going up the river, it took three. **What is the current velocity in km/h (assumed constant)?**
 
 **Answer:** 5 km/h
-[[src_bocconi_rosi_2011__Q17]]
+[[Quesiti/src_bocconi_rosi_2011#q17|src_bocconi_rosi_2011__Q17]]
 
 
 
@@ -557,7 +557,7 @@ The cost of the lost book in the classroom library
 > Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits of the minutes between them. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between$14\text{h}\,00$and$17\text{h}\,00$?
 
 **Answer:** 8
-[[src_bocconi_rosi_2011__Q18]]
+[[Quesiti/src_bocconi_rosi_2011#q18|src_bocconi_rosi_2011__Q18]]
 
 
 
@@ -571,7 +571,7 @@ The cost of the lost book in the classroom library
 > Nella piramide che vedete in figura, gli altri numeri (oltre a quelli già scritti) vengono collocati in modo che il numero in ogni mattoncino sia la somma dei numeri scritti nei due mattoncini che lo sostengono.
 > **Quale numero dovete scrivere nel mattoncino vuoto, in basso, in modo poi che nel mattoncino più in alto venga scritto effettivamente 396?**
 
-![[src_bocconi_rosi_2011__Q19.png]]
+![[src_bocconi_rosi_2011__q19.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -588,10 +588,10 @@ The cost of the lost book in the classroom library
 
 > In the pyramid you see in the figure, the other numbers (in addition to those already written) are placed so that the number in each brick is the sum of the numbers written in the two bricks that support it. **What number do you have to write on the empty tile at the bottom, so that the top tile actually writes 396? **
 
-![[src_bocconi_rosi_2011__Q19.png]]
+![[src_bocconi_rosi_2011__q19.png]]
 
 **Answer:** 42
-[[src_bocconi_rosi_2011__Q19]]
+[[Quesiti/src_bocconi_rosi_2011#q19|src_bocconi_rosi_2011__Q19]]
 
 
 
@@ -620,4 +620,4 @@ The time Renato had charged the pendulum yesterday.
 > Yesterday, Renato simultaneously charged his old pendulum and his old wake. This morning, waking up, he can't help but notice that the wake indicates 6:00 while the pendulum indicates 7:00. At this point it is remembered that the alarm goes back three minutes every hour while the pendulum goes forward (as opposed to the exact time) for two minutes every hour. What time did Renato load them yesterday?
 
 **Answer:** 18.36
-[[src_bocconi_rosi_2011__Q20]]
+[[Quesiti/src_bocconi_rosi_2011#q20|src_bocconi_rosi_2011__Q20]]

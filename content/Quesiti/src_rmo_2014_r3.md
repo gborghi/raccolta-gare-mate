@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be an acute-angled triangle and suppose $\angle ABC$ is the largest angle of the triangle. Let $R$ be its circumcentre. Suppose the circumcircle of triangle $ARB$ cuts $AC$ again in $X$. Prove that $RX$ is perpendicular to $BC$.
 
-![[src_rmo_2014_r3__Q01.png]]
+![[src_rmo_2014_r3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Che $ABC$ sia un triangolo a angolo acuto e supponiamo che $\angle ABC$ sia l'angolo più grande del triangolo. Che il $R$ sia il suo circoncentro. Supponiamo che il circoncircolo del triangolo $ARB$ tagli $AC$ di nuovo in $X$. Prova che $RX$ è perpendicolare a $BC$.
 
-![[src_rmo_2014_r3__Q01.png]]
+![[src_rmo_2014_r3__q01.png]]
 
-[[src_rmo_2014_r3__Q01]]
+[[Quesiti/src_rmo_2014_r3#q01|src_rmo_2014_r3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Trova tutti i numeri reali $x$ e $y$ in modo tale che $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
 
-[[src_rmo_2014_r3__Q02]]
+[[Quesiti/src_rmo_2014_r3#q02|src_rmo_2014_r3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 > Prova che non esiste un intero positivo $n < 2310$ tale che $n(2310 - n)$ sia un multiple di $2310$.
 
-[[src_rmo_2014_r3__Q03]]
+[[Quesiti/src_rmo_2014_r3#q03|src_rmo_2014_r3__Q03]]
 
 
 
@@ -119,7 +119,7 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 > Trova tutti i numeri reali positivi $x, y, z$ in modo tale che $$2x - 2y + \frac{1}{z} = \frac{1}{2014}, \quad 2y - 2z + \frac{1}{x} = \frac{1}{2014}, \quad 2z - 2x + \frac{1}{y} = \frac{1}{2014}.$$
 
-[[src_rmo_2014_r3__Q04]]
+[[Quesiti/src_rmo_2014_r3#q04|src_rmo_2014_r3__Q04]]
 
 
 
@@ -132,7 +132,7 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 > Let $ABC$ be a triangle. Let $X$ be on the segment $BC$ such that $AB = AX$. Let $AX$ meet the circumcircle $\Gamma$ of triangle $ABC$ again at $D$. Show that the circumcentre of $\triangle BDX$ lies on $\Gamma$.
 
-![[src_rmo_2014_r3__Q05.png]]
+![[src_rmo_2014_r3__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -147,9 +147,9 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 > Lasciate che $ABC$ sia un triangolo. Il segmento $X$ deve essere $BC$ in modo tale che $AB = AX$. Raggiungere il circolo $\Gamma$ del triangolo $ABC$ a $D$. Indicare che il circoncentro di $\triangle BDX$ si trova su $\Gamma$.
 
-![[src_rmo_2014_r3__Q05.png]]
+![[src_rmo_2014_r3__q05.png]]
 
-[[src_rmo_2014_r3__Q05]]
+[[Quesiti/src_rmo_2014_r3#q05|src_rmo_2014_r3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 
 > Per qualsiasi numero naturale $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di tutti i numeri a 3 cifre $n$ in modo tale che $S(S(n)) = 2$.
 
-[[src_rmo_2014_r3__Q06]]
+[[Quesiti/src_rmo_2014_r3#q06|src_rmo_2014_r3__Q06]]

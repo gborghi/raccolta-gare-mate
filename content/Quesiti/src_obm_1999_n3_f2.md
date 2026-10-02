@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Al diametro di un cerchio, scrivere il numero $1$ (primo passo). Successivamente, ogni semicircolo viene suddiviso e a ciascuno dei suoi due punti di mezzo si scrive la somma dei numeri alle due estremità del semicircolo (seconda tappa). Successivamente, ogni quartiere circolare viene suddiviso e a ciascuno dei suoi due punti di mezzo si scrive la somma dei numeri alle due estremità del quartiere circolo (terzo passo). Questo processo continua: ad ogni passo, ogni arco è diviso e al suo punto medio viene scritta la somma dei numeri ai suoi due punti finali. Determinare la somma di tutti i numeri scritti dopo i passi $1999$.
 
-[[src_obm_1999_n3_f2__Q01]]
+[[Quesiti/src_obm_1999_n3_f2#q01|src_obm_1999_n3_f2__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: OBM Nível 3
 
 > Let $ABCD$ be a square. Choose points $M$, $N$, $P$, $Q$ on $AB$, $BC$, $CD$, and $DA$, respectively, so that the circumscribed circles of triangles $MBN$ and $PDQ$ are tangent to each other externally. Prove that $MN + PQ \ge AC$.
 
-![[src_obm_1999_n3_f2__Q02.png]]
+![[src_obm_1999_n3_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
@@ -62,9 +62,9 @@ level: OBM Nível 3
 
 > Lasciate che $ABCD$ sia quadrato. Selezionare i punti $M$, $N$, $P$, $Q$ su $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo che i cerchi circondati dei triangoli $MBN$ e $PDQ$ siano tangenti l'uno all'altro esternamente. Prova che $MN + PQ \ge AC$.
 
-![[src_obm_1999_n3_f2__Q02.png]]
+![[src_obm_1999_n3_f2__q02.png]]
 
-[[src_obm_1999_n3_f2__Q02]]
+[[Quesiti/src_obm_1999_n3_f2#q02|src_obm_1999_n3_f2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: OBM Nível 3
 
 > Determinare il numero intero più grande $n$ per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ tale che $$\sqrt[4]{a\sqrt[3]{b\sqrt{c^{\,d}}}}$$ sia un numero intero. Giustifica la tua risposta.
 
-[[src_obm_1999_n3_f2__Q03]]
+[[Quesiti/src_obm_1999_n3_f2#q03|src_obm_1999_n3_f2__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 3
 
 > Determinare tutti i numeri interi positivi $n$ per i quali è possibile tessere un rettangolo $9 \times 10$ usando pezzi $1 \times n$.
 
-[[src_obm_1999_n3_f2__Q04]]
+[[Quesiti/src_obm_1999_n3_f2#q04|src_obm_1999_n3_f2__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 3
 
 > José ha tre coppie di occhiali: uno magenta, uno giallo e uno cian. Ogni mattina ne sceglie uno a caso, facendo attenzione a non usarne mai lo stesso del giorno precedente. Il 1° agosto indossava la magenta. Qual e' la probabilita' che il 31 agosto usi di nuovo la coppia di magenta?
 
-[[src_obm_1999_n3_f2__Q05]]
+[[Quesiti/src_obm_1999_n3_f2#q05|src_obm_1999_n3_f2__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: OBM Nível 3
 
 > Trovare tutte le soluzioni integrali di $x^3 - y^3 = 999$.
 
-[[src_obm_1999_n3_f2__Q06]]
+[[Quesiti/src_obm_1999_n3_f2#q06|src_obm_1999_n3_f2__Q06]]

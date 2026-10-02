@@ -35,7 +35,7 @@ level: Gara a Squadre
 
 > Place, instead of the asterisk, the appropriate operation marks (using them all at least once: sum, subtraction, multiplication, division) so that  without using the parentheses  resulting in: $$7 * 7 * 7 * 7 * 7 * 7 * 7 = 34$$ (Sufficient to provide a solution)
 
-[[src_bocconi_squadre_2007__Q01]]
+[[Quesiti/src_bocconi_squadre_2007#q01|src_bocconi_squadre_2007__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Gara a Squadre
 
 > How many different ways can one form 1 Euro with coins of 5, 10 and 20 cents?
 
-[[src_bocconi_squadre_2007__Q02]]
+[[Quesiti/src_bocconi_squadre_2007#q02|src_bocconi_squadre_2007__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: Gara a Squadre
 > 
 > What are the values of a red and green stamp?
 
-[[src_bocconi_squadre_2007__Q03]]
+[[Quesiti/src_bocconi_squadre_2007#q03|src_bocconi_squadre_2007__Q03]]
 
 
 
@@ -108,7 +108,7 @@ level: Gara a Squadre
 > 
 > Determinate il valore del rapporto $S/y$.
 
-![[src_bocconi_squadre_2007__Q04.png]]
+![[src_bocconi_squadre_2007__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -126,9 +126,9 @@ level: Gara a Squadre
 > 
 > Determine the value of the $S/y$ ratio.
 
-![[src_bocconi_squadre_2007__Q04.png]]
+![[src_bocconi_squadre_2007__q04.png]]
 
-[[src_bocconi_squadre_2007__Q04]]
+[[Quesiti/src_bocconi_squadre_2007#q04|src_bocconi_squadre_2007__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: Gara a Squadre
 > 
 > Quanto misura il lato del quadro di Amerigo? (Se nel corso dei calcoli incontrate $\sqrt{2}$, $\sqrt{3}$ o $\pi$, dovete approssimarli rispettivamente con 1,41, con 1,73, con 3,14 in modo da esprimere il risultato con un numero con due cifre decimali.)
 
-![[src_bocconi_squadre_2007__Q05.png]]
+![[src_bocconi_squadre_2007__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -160,9 +160,9 @@ level: Gara a Squadre
 > 
 > How big is the side of Amerigo's painting? (If in the calculations you encounter $\sqrt{2}$, $\sqrt{3}$ or $\pi$, you should approximate them to 1.41, 1.73, and 3.14, respectively, so that you can express the result with a two-digit decimal number.)
 
-![[src_bocconi_squadre_2007__Q05.png]]
+![[src_bocconi_squadre_2007__q05.png]]
 
-[[src_bocconi_squadre_2007__Q05]]
+[[Quesiti/src_bocconi_squadre_2007#q05|src_bocconi_squadre_2007__Q05]]
 
 
 
@@ -189,7 +189,7 @@ level: Gara a Squadre
 
 > Write (in increasing order) all positive three-digit integers whose square ends in 444. (Write 0 if you think there are no numbers with this characteristic.)
 
-[[src_bocconi_squadre_2007__Q06]]
+[[Quesiti/src_bocconi_squadre_2007#q06|src_bocconi_squadre_2007__Q06]]
 
 
 
@@ -216,7 +216,7 @@ level: Gara a Squadre
 
 > Write (in increasing order) all positive integers of three or four digits whose square ends in 4444. (Write 0 if you think there are no numbers with this characteristic.)
 
-[[src_bocconi_squadre_2007__Q07]]
+[[Quesiti/src_bocconi_squadre_2007#q07|src_bocconi_squadre_2007__Q07]]
 
 
 
@@ -247,7 +247,7 @@ level: Gara a Squadre
 > 
 > Write 0 if you think there are no tiles with the required feature.
 
-[[src_bocconi_squadre_2007__Q08]]
+[[Quesiti/src_bocconi_squadre_2007#q08|src_bocconi_squadre_2007__Q08]]
 
 
 
@@ -278,7 +278,7 @@ level: Gara a Squadre
 > 
 > How old is my son today?
 
-[[src_bocconi_squadre_2007__Q09]]
+[[Quesiti/src_bocconi_squadre_2007#q09|src_bocconi_squadre_2007__Q09]]
 
 
 
@@ -310,7 +310,7 @@ level: Gara a Squadre
 > 
 > What is the probability that there is a three-year-old child among them and that everyone else is not younger? (You have to indicate the probability of failure, with a two-digit decimal number.)
 
-[[src_bocconi_squadre_2007__Q10]]
+[[Quesiti/src_bocconi_squadre_2007#q10|src_bocconi_squadre_2007__Q10]]
 
 
 
@@ -339,7 +339,7 @@ level: Gara a Squadre
 
 > On an old sheet, which emerges from the memories of a cellar, is a product. However, time has rendered the second factor and 3 of the 11 digits of the result unreadable (where each of the 3 unreadable digits has now been replaced by a dots): $$792 \times \boxed{\phantom{00}} = 1989 \cdot 1990 \cdots$$ For what number was 792 multiplied?
 
-[[src_bocconi_squadre_2007__Q11]]
+[[Quesiti/src_bocconi_squadre_2007#q11|src_bocconi_squadre_2007__Q11]]
 
 
 
@@ -369,7 +369,7 @@ level: Gara a Squadre
 > 
 > In how many jumps will the dog reach the fox?
 
-[[src_bocconi_squadre_2007__Q12]]
+[[Quesiti/src_bocconi_squadre_2007#q12|src_bocconi_squadre_2007__Q12]]
 
 
 
@@ -382,7 +382,7 @@ level: Gara a Squadre
 
 > Quanto misura il percorso più breve per una formica che si trova in $A$ e vuole raggiungere il punto $B$, muovendosi lungo le facce del parallelepipedo in figura? (Dovete approssimare la soluzione per difetto, arrotondando alla prima cifra decimale.)
 
-![[src_bocconi_squadre_2007__Q13.png]]
+![[src_bocconi_squadre_2007__q13.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -397,9 +397,9 @@ level: Gara a Squadre
 
 > What is the shortest path for an ant in $A$ and wants to reach the point $B$, moving along the faces of the paralelepipedo in the figure? (You have to approximate the solution by default, rounding to the first decimal point.)
 
-![[src_bocconi_squadre_2007__Q13.png]]
+![[src_bocconi_squadre_2007__q13.png]]
 
-[[src_bocconi_squadre_2007__Q13]]
+[[Quesiti/src_bocconi_squadre_2007#q13|src_bocconi_squadre_2007__Q13]]
 
 
 
@@ -430,7 +430,7 @@ level: Gara a Squadre
 > 
 > How many girls were at the party?
 
-[[src_bocconi_squadre_2007__Q14]]
+[[Quesiti/src_bocconi_squadre_2007#q14|src_bocconi_squadre_2007__Q14]]
 
 
 
@@ -461,7 +461,7 @@ level: Gara a Squadre
 > 
 > How many other similar-perfect numbers are there between 1900 and 2000?
 
-[[src_bocconi_squadre_2007__Q15]]
+[[Quesiti/src_bocconi_squadre_2007#q15|src_bocconi_squadre_2007__Q15]]
 
 
 
@@ -492,7 +492,7 @@ level: Gara a Squadre
 > 
 > How many daughters are there in Anna and Luke's family?
 
-[[src_bocconi_squadre_2007__Q16]]
+[[Quesiti/src_bocconi_squadre_2007#q16|src_bocconi_squadre_2007__Q16]]
 
 
 
@@ -509,7 +509,7 @@ level: Gara a Squadre
 > 
 > Aiutatela a completare la figura in modo da trovare i numeri mancanti!
 
-![[src_bocconi_squadre_2007__Q17.png]]
+![[src_bocconi_squadre_2007__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -529,9 +529,9 @@ level: Gara a Squadre
 > 
 > Help her complete the figure so she can find the missing numbers!
 
-![[src_bocconi_squadre_2007__Q17.png]]
+![[src_bocconi_squadre_2007__q17.png]]
 
-[[src_bocconi_squadre_2007__Q17]]
+[[Quesiti/src_bocconi_squadre_2007#q17|src_bocconi_squadre_2007__Q17]]
 
 
 
@@ -546,7 +546,7 @@ level: Gara a Squadre
 > 
 > Quanto vale, al massimo, questo perimetro?
 
-![[src_bocconi_squadre_2007__Q18.png]]
+![[src_bocconi_squadre_2007__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -564,9 +564,9 @@ level: Gara a Squadre
 > 
 > How much is this perimeter worth at most?
 
-![[src_bocconi_squadre_2007__Q18.png]]
+![[src_bocconi_squadre_2007__q18.png]]
 
-[[src_bocconi_squadre_2007__Q18]]
+[[Quesiti/src_bocconi_squadre_2007#q18|src_bocconi_squadre_2007__Q18]]
 
 
 
@@ -581,7 +581,7 @@ level: Gara a Squadre
 > 
 > Quali sono le caselle da evitare? (Scrivetele in ordine crescente e scrivete 0 se pensate che non ci siano caselle da evitare.)
 
-![[src_bocconi_squadre_2007__Q19.png]]
+![[src_bocconi_squadre_2007__q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -599,9 +599,9 @@ level: Gara a Squadre
 > 
 > What are the boxes to avoid? (Write them in ascending order and write 0 if you think there are no boxes to avoid.)
 
-![[src_bocconi_squadre_2007__Q19.png]]
+![[src_bocconi_squadre_2007__q19.png]]
 
-[[src_bocconi_squadre_2007__Q19]]
+[[Quesiti/src_bocconi_squadre_2007#q19|src_bocconi_squadre_2007__Q19]]
 
 
 
@@ -635,4 +635,4 @@ level: Gara a Squadre
 > 
 > What is the (in cm) height difference between Desiderio and Nando?
 
-[[src_bocconi_squadre_2007__Q20]]
+[[Quesiti/src_bocconi_squadre_2007#q20|src_bocconi_squadre_2007__Q20]]

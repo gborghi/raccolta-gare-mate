@@ -39,7 +39,7 @@ Order of 7 overlapping cards
 > Matilde put seven cards on each other. In what order did you place them?
 
 **Answer:** GEFADCB
-[[src_bocconi_finaleint_2008_g2__Q01]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q01|src_bocconi_finaleint_2008_g2__Q01]]
 
 
 
@@ -68,7 +68,7 @@ Order of 7 overlapping cards
 > A herd consists of camels and dromedaries (at least one animal of each species). There are a total of 29 gobs. How many animals does the herd include at least? Remember, a camel has two hoofs and a dromedary has only one.
 
 **Answer:** 15 bestie
-[[src_bocconi_finaleint_2008_g2__Q02]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q02|src_bocconi_finaleint_2008_g2__Q02]]
 
 
 
@@ -99,7 +99,7 @@ Order of 7 overlapping cards
 > Divide a rectangle $3 \times 4$ into 12 small squares. What is the maximum number of small diagonals that can be drawn so that: $\bullet$ two diagonals cannot cross; $\bullet$ two diagonals cannot touch one end?
 
 **Answer:** 8 diagonali
-[[src_bocconi_finaleint_2008_g2__Q03]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q03|src_bocconi_finaleint_2008_g2__Q03]]
 
 
 
@@ -128,7 +128,7 @@ Order of 7 overlapping cards
 > Alice multiplies by 5, Beatrice adds 4, Camille subtracts 3 and Dorothée divides by 2. They start at 1. In what order do they have to operate to get to 11 operating once each? Each operation shall be indicated by the corresponding initial letter (A for Alice, B for Beatrice, C for Camille and D for Dorothée).
 
 **Answer:** B A C D
-[[src_bocconi_finaleint_2008_g2__Q04]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q04|src_bocconi_finaleint_2008_g2__Q04]]
 
 
 
@@ -164,7 +164,7 @@ Order of 7 overlapping cards
 > This box contains exactly one false phrase. This box contains exactly two false sentences. This box contains exactly three false sentences. This box contains exactly four true sentences. This box contains exactly five true sentences. This box contains exactly six true sentences. This box contains exactly seven false sentences. In the box above, how many sentences are true?
 
 **Answer:** 2 frasi vere
-[[src_bocconi_finaleint_2008_g2__Q05]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q05|src_bocconi_finaleint_2008_g2__Q05]]
 
 
 
@@ -193,7 +193,7 @@ Order of 7 overlapping cards
 > Jean-Louis is trying to remember Michel's cell phone number. He noted that the number, at 8 digits all different, starts with 06 and that two successive digits in the number differ by at least 2. After a few moments of reflection, it is also remembered that Michel's phone number is the largest possible (after 0) having this property. What's Michel's number?
 
 **Answer:** 06 97 58 31 42
-[[src_bocconi_finaleint_2008_g2__Q06]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q06|src_bocconi_finaleint_2008_g2__Q06]]
 
 
 
@@ -222,7 +222,7 @@ Order of 7 overlapping cards
 > Nicole Hatz plays this game. It starts with a non-zero number, which it writes. If this number is even, divide it by 2 and write the result. When the last written number is odd, multiply it by 3, add 1 to the result and write the resulting number. It stops when you write 1. For example, starting from 5, write the following list of numbers: $5\ ;\ 16\ ;\ 8\ ;\ 4\ ;\ 2\ ;\ 1$. How many numbers will it have on the longest list you can write starting with a number that's at most equal to 10?
 
 **Answer:** 20 numeri (partendo da 9)
-[[src_bocconi_finaleint_2008_g2__Q07]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q07|src_bocconi_finaleint_2008_g2__Q07]]
 
 
 
@@ -251,7 +251,7 @@ Order of 7 overlapping cards
 > A target has ten regions. Each of these points has a different number of points, chosen from the numbers: $2,\ 7,\ 12,\ 17,\ 22,\ 37,\ 42,\ 57,\ 62$ and $77$. How many arrows do you need to throw, at least, to get a total score of 100?
 
 **Answer:** 5 freccette
-[[src_bocconi_finaleint_2008_g2__Q08]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q08|src_bocconi_finaleint_2008_g2__Q08]]
 
 
 
@@ -264,7 +264,7 @@ Order of 7 overlapping cards
 
 > Il fattore Xavier raccoglie la corrispondenza dalle cassette delle lettere della città di Math-City. Parte dal deposito D e raccoglie la corrispondenza di ciascuna cassetta per terminare al deposito A, e deve poi rivenire direttamente a deporre la corrispondenza al deposito D. In quale ordine deve visitare le cassette da 1 a 15, sapendo che non deve mai passare due volte dalla stessa cassetta?
 
-![[src_bocconi_finaleint_2008_g2__Q09.png]]
+![[src_bocconi_finaleint_2008_g2__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -281,10 +281,10 @@ Order to visit 16 tapes without going through them twice.
 
 > The Xavier factor collects the correspondence from the mailboxes of the city of Math-City. It starts from Deposit D and collects the correspondence from each box to end at Deposit A, and must then return directly to deposit the correspondence at Deposit D. In what order should you visit the boxes 1 to 15, knowing that you never have to go through the same box twice?
 
-![[src_bocconi_finaleint_2008_g2__Q09.png]]
+![[src_bocconi_finaleint_2008_g2__q09.png]]
 
 **Answer:** 2 soluzioni: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 oppure 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
-[[src_bocconi_finaleint_2008_g2__Q09]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q09|src_bocconi_finaleint_2008_g2__Q09]]
 
 
 
@@ -297,7 +297,7 @@ Order to visit 16 tapes without going through them twice.
 
 > Luc considera un cubo. Enumera tutti i triangoli rettangoli che può formare scegliendo tre vertici del cubo. Quanti triangoli rettangoli ottiene?
 
-![[src_bocconi_finaleint_2008_g2__Q10.png]]
+![[src_bocconi_finaleint_2008_g2__q10.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -314,10 +314,10 @@ Order to visit 16 tapes without going through them twice.
 
 > Luke considers a cube. Count all the rectangular triangles you can form by choosing three vertices of the cube. How many right triangles do you get?
 
-![[src_bocconi_finaleint_2008_g2__Q10.png]]
+![[src_bocconi_finaleint_2008_g2__q10.png]]
 
 **Answer:** 48 triangoli rettangoli
-[[src_bocconi_finaleint_2008_g2__Q10]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q10|src_bocconi_finaleint_2008_g2__Q10]]
 
 
 
@@ -330,7 +330,7 @@ Order to visit 16 tapes without going through them twice.
 
 > Colora il più grande numero possibile di vertici di questa rete triangolare, in modo che non ci siano mai due vertici colorati su una stessa retta tracciata.
 
-![[src_bocconi_finaleint_2008_g2__Q11.png]]
+![[src_bocconi_finaleint_2008_g2__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -346,9 +346,9 @@ Order to visit 16 tapes without going through them twice.
 
 > Color as many vertices as possible of this triangular network, so that there are never two colored vertices on the same traced line.
 
-![[src_bocconi_finaleint_2008_g2__Q11.png]]
+![[src_bocconi_finaleint_2008_g2__q11.png]]
 
-[[src_bocconi_finaleint_2008_g2__Q11]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q11|src_bocconi_finaleint_2008_g2__Q11]]
 
 
 
@@ -363,7 +363,7 @@ Order to visit 16 tapes without going through them twice.
 > $\bullet$ ogni cifra sia utilizzata almeno una volta;
 > $\bullet$ ogni cifra sia uguale alla somma di tutte le cifre situate in una stessa direzione, verso la destra, in basso, a sinistra oppure in alto.
 
-![[src_bocconi_finaleint_2008_g2__Q12.png]]
+![[src_bocconi_finaleint_2008_g2__q12.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -380,10 +380,10 @@ Order to visit 16 tapes without going through them twice.
 
 > Write in each circle a digit from 1 to 9 so that: $\bullet$ each digit is used at least once; $\bullet$ each digit is equal to the sum of all the digits in the same direction, to the right, to the bottom, to the left or to the top.
 
-![[src_bocconi_finaleint_2008_g2__Q12.png]]
+![[src_bocconi_finaleint_2008_g2__q12.png]]
 
 **Answer:** 1 soluzione
-[[src_bocconi_finaleint_2008_g2__Q12]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q12|src_bocconi_finaleint_2008_g2__Q12]]
 
 
 
@@ -415,7 +415,7 @@ Order to visit 16 tapes without going through them twice.
 > Math-Pays Social Security wants to give Sissi a number. It is the largest possible number such that the numbers consisting of two consecutive digits: $\bullet$ are all different from each other; $\bullet$ never form prime numbers or squares. Remember the prime numbers and the two-digit squares: $11,\ 13,\ 16,\ 17,\ 19,\ 23,\ 25,\ 29,\ 31,\ 36,\ 37,\ 41,\ 43,\ 47,\ 49,\ 53,\ 59,\ 61,\ 64,\ 67,\ 71,\ 73,\ 79,\ 81,\ 83,\ 89$ and $97$. What's the number of digits in the number?
 
 **Answer:** 18 cifre
-[[src_bocconi_finaleint_2008_g2__Q13]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q13|src_bocconi_finaleint_2008_g2__Q13]]
 
 
 
@@ -428,7 +428,7 @@ Order to visit 16 tapes without going through them twice.
 
 > Ritaglia la griglia, secondo il quadrettato, in cinque pezzi di carta contenenti ciascuno la stessa area e lo stesso perimetro. Nota: l'unità di lunghezza è il lato di un piccolo quadretto del quadrettato, e l'unità d'area quella di un piccolo quadretto.
 
-![[src_bocconi_finaleint_2008_g2__Q14.png]]
+![[src_bocconi_finaleint_2008_g2__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -444,9 +444,9 @@ Order to visit 16 tapes without going through them twice.
 
 > Cut the grid into five square pieces of paper each containing the same area and perimeter. Note: the unit length is the side of a small square of the square, and the unit area is that of a small square.
 
-![[src_bocconi_finaleint_2008_g2__Q14.png]]
+![[src_bocconi_finaleint_2008_g2__q14.png]]
 
-[[src_bocconi_finaleint_2008_g2__Q14]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q14|src_bocconi_finaleint_2008_g2__Q14]]
 
 
 
@@ -459,7 +459,7 @@ Order to visit 16 tapes without going through them twice.
 
 > Dopo aver lanciato tre sassolini nell'acqua, l'uno vicino all'altro, si possono osservare figure diverse: i cerchi che si toccano restano distinti, si guarda unicamente il modo in cui i cerchi sono incastrati, senza occuparsi né dell'orientamento, né della dimensione. Allo stesso modo, ma con sei sassolini, quante figure diverse si possono osservare?
 
-![[src_bocconi_finaleint_2008_g2__Q15.png]]
+![[src_bocconi_finaleint_2008_g2__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -476,10 +476,10 @@ Order to visit 16 tapes without going through them twice.
 
 > After throwing three stones into the water, one next to the other, you can observe different shapes: the circles that touch each other remain distinct, you only look at how the circles are framed, without taking into account either the orientation or the size. Same thing, but with six stones, how many different figures can you observe?
 
-![[src_bocconi_finaleint_2008_g2__Q15.png]]
+![[src_bocconi_finaleint_2008_g2__q15.png]]
 
 **Answer:** 48 figure
-[[src_bocconi_finaleint_2008_g2__Q15]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q15|src_bocconi_finaleint_2008_g2__Q15]]
 
 
 
@@ -492,7 +492,7 @@ Order to visit 16 tapes without going through them twice.
 
 > In visualizzazione digitale, ciascuna cifra è rappresentata da due a sette segmenti luminosi (vedi il disegno). La moltiplicazione qui sotto è la combinazione, cifra per cifra, di due moltiplicazioni analoghe: due fattori di due cifre, due risultati intermedi di tre cifre e un risultato finale di quattro cifre. La combinazione di due cifre comporta un segmento luminoso se, e soltanto se, almeno una di esse comporta il segmento luminoso corrispondente. Quali sono le due moltiplicazioni combinate? Si risponda sotto la forma $(A \times B\ ;\ C \times D)$, ove A e C sono i fattori in alto, B e D quelli in basso, con $A \le C$.
 
-![[src_bocconi_finaleint_2008_g2__Q16.png]]
+![[src_bocconi_finaleint_2008_g2__q16.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -509,10 +509,10 @@ Order to visit 16 tapes without going through them twice.
 
 > In digital visualization, each figure is represented by two to seven light segments (see drawing). The multiplication below is the combination, figure by figure, of two similar multiplication: two two-digit factors, two three-digit intermediate results and a four-digit final result. The combination of two digits shall result in a light segment if, and only if, at least one of them contains the corresponding light segment. What are the two multiples combined? It is given as $(A \times B\ ;\ C \times D)$, where A and C are the factors above, B and D are the factors below, with $A \le C$.
 
-![[src_bocconi_finaleint_2008_g2__Q16.png]]
+![[src_bocconi_finaleint_2008_g2__q16.png]]
 
 **Answer:** 41 × 49 ; 59 × 34
-[[src_bocconi_finaleint_2008_g2__Q16]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q16|src_bocconi_finaleint_2008_g2__Q16]]
 
 
 
@@ -545,7 +545,7 @@ Order to visit 16 tapes without going through them twice.
 > Hector's computer password is a number of the form AB (the digits of the numbers A and B are written consecutively). Hector knows that even if he forgets it, he can find his password again, but he only knows that: $\bullet$ A and B are two four-digit numbers (not starting with zero); $\bullet$ A is greater than B; $\bullet$ A and B have no common divisor other than 1; $\bullet$ the number of four digits AB is a succession term whose first term is A, the second term is B and each subsequent term is the sum of the two terms that precede it. What's Hector's password?
 
 **Answer:** 6764 5819
-[[src_bocconi_finaleint_2008_g2__Q17]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q17|src_bocconi_finaleint_2008_g2__Q17]]
 
 
 
@@ -563,7 +563,7 @@ Order to visit 16 tapes without going through them twice.
 > $\bullet$ il valore della triangolazione di partenza deve essere inferiore a quello della triangolazione finale.
 > Nel corso della partita di Albert, tutti i valori possibili sono stati ottenuti. Dai questi valori nell'ordine (compreso quello di partenza).
 
-![[src_bocconi_finaleint_2008_g2__Q18.png]]
+![[src_bocconi_finaleint_2008_g2__q18.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -580,7 +580,7 @@ Order to visit 16 tapes without going through them twice.
 
 > It's called triangulation of a hexagon, a set of three non-intersecting diagonals that cut the hexagon into four triangles. Each triangle is associated with a 'value' equal to the sum of the numbers at the vertices of the hexagon that are not ends of a diagonal. So the triangle shown in the figure is 5. Albert plays as follows: $\bullet$ chooses a starting triangle; $\bullet$ then, a move consists of forming another triangle by replacing one of the drawn diagonals with another; $\bullet$ has no right to draw a triangle whose value has already been used during the match; $\bullet$ the value of the starting triangle must be less than that of the final triangle. During Albert's game, all possible values were obtained. Give these values in order (including the starting value).
 
-![[src_bocconi_finaleint_2008_g2__Q18.png]]
+![[src_bocconi_finaleint_2008_g2__q18.png]]
 
 **Answer:** 4 soluzioni: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7
-[[src_bocconi_finaleint_2008_g2__Q18]]
+[[Quesiti/src_bocconi_finaleint_2008_g2#q18|src_bocconi_finaleint_2008_g2__Q18]]

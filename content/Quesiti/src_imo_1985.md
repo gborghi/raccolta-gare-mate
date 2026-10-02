@@ -32,7 +32,7 @@ level: IMO
 
 > A circle has the centre on the $AB$ side of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Show that $AD + BC = AB$.
 
-[[src_imo_1985__Q01]]
+[[Quesiti/src_imo_1985#q01|src_imo_1985__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: IMO
 > 
 > Demonstrate that all numbers in $M$ must have the same color.
 
-[[src_imo_1985__Q02]]
+[[Quesiti/src_imo_1985#q02|src_imo_1985__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: IMO
 > 
 > $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \geq w(Q_{i_1}).$$
 
-[[src_imo_1985__Q03]]
+[[Quesiti/src_imo_1985#q03|src_imo_1985__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: IMO
 
 > Given a $M$ set of $1985$ distinct positive integers, none of which has a prime divisor greater than $26$. Show that $M$ contains at least one subset of four distinct elements whose product is the fourth power of an integer.
 
-[[src_imo_1985__Q04]]
+[[Quesiti/src_imo_1985#q04|src_imo_1985__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: IMO
 
 > A circle with a centre $O$ passes through the vertices $A$ and $C$ of the $ABC$ triangle and intersects the segments $AB$ and $BC$ again at distinct points $K$ and $N$, respectively. The circles surrounding the $ABC$ and $KBN$ triangles intersect at exactly two distinct points $B$ and $M$. Show that the $\angle OMB$ angle is a right angle.
 
-[[src_imo_1985__Q05]]
+[[Quesiti/src_imo_1985#q05|src_imo_1985__Q05]]
 
 
 
@@ -194,4 +194,4 @@ level: IMO
 > 
 > for each $n$.
 
-[[src_imo_1985__Q06]]
+[[Quesiti/src_imo_1985#q06|src_imo_1985__Q06]]

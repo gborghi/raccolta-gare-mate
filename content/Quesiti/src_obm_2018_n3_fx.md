@@ -27,7 +27,7 @@ level: OBM Nível 3
 > 
 > c) In the cube $n \times n \times n$ with $n = 2018$, what number appears most often in the numbering of the unit cubes? (If there is more than one number that appears the maximum number of times, list all of them.)
 
-![[src_obm_2018_n3_fx__Q01.png]]
+![[src_obm_2018_n3_fx__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -51,9 +51,9 @@ level: OBM Nível 3
 > 
 > c) Nel cubo $n \times n \times n$ con $n = 2018$, quale numero appare più spesso nella numerazione dei cubetti unitari? (Se c'è più di un numero che appare il numero massimo di volte, elenca tutti.)
 
-![[src_obm_2018_n3_fx__Q01.png]]
+![[src_obm_2018_n3_fx__q01.png]]
 
-[[src_obm_2018_n3_fx__Q01]]
+[[Quesiti/src_obm_2018_n3_fx#q01|src_obm_2018_n3_fx__Q01]]
 
 
 
@@ -100,7 +100,7 @@ level: OBM Nível 3
 > 
 > \textbf{Nota:} Utilizziamo una barra per indicare il numero formato dalla concatenatura dei numeri. Ad esempio, $\overline{ABC} = 126$ significa $A = 1$, $B = 2$, $C = 6$.
 
-[[src_obm_2018_n3_fx__Q02]]
+[[Quesiti/src_obm_2018_n3_fx#q02|src_obm_2018_n3_fx__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível 3
 
 > Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Il cerchio con centro $X_A$ passa attraverso i punti $A$ e $H$ ed è tangente al circoncircolo del triangolo $ABC$. Definire analogamente i punti $X_B$ e $X_C$. I riflessi $O_A$, $O_B$ e $O_C$ siano rispettivamente $O$ sui lati $BC$, $CA$ e $AB$. Prove che le linee $O_A X_A$, $O_B X_B$ e $O_C X_C$ sono simultanee.
 
-[[src_obm_2018_n3_fx__Q03]]
+[[Quesiti/src_obm_2018_n3_fx#q03|src_obm_2018_n3_fx__Q03]]
 
 
 
@@ -167,7 +167,7 @@ level: OBM Nível 3
 > 
 > c) Indicare che il quadrilaterale $IDJK$ è ciclico.
 
-[[src_obm_2018_n3_fx__Q04]]
+[[Quesiti/src_obm_2018_n3_fx#q04|src_obm_2018_n3_fx__Q04]]
 
 
 
@@ -204,7 +204,7 @@ level: OBM Nível 3
 > 
 > b) Determinare il valore massimo possibile di $x$.
 
-[[src_obm_2018_n3_fx__Q05]]
+[[Quesiti/src_obm_2018_n3_fx#q05|src_obm_2018_n3_fx__Q05]]
 
 
 
@@ -233,4 +233,4 @@ level: OBM Nível 3
 
 > Per ogni numero intero positivo $n$, definire $s(n)$ come la somma delle cifre di $n$. Determinare tutte le coppie $(a, b)$ di integri positivi per le quali $$s(an + b) - s(n)$$ assume solo valori finiti in quanto $n$ si estende su tutti gli integri positivi.
 
-[[src_obm_2018_n3_fx__Q06]]
+[[Quesiti/src_obm_2018_n3_fx#q06|src_obm_2018_n3_fx__Q06]]

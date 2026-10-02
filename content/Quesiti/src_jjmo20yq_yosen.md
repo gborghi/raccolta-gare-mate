@@ -35,7 +35,7 @@ level: JJMO Yosen
 > Ogni cella di una griglia $2 \times 2$ è riempita con esattamente una lettera scelta da $A$, $B$, $C$. Due celle che condividono un bordo devono contenere lettere diverse. Una cellula può ricevere una lettera anche se le cellule adiacenti usano la stessa lettera in altre posizioni; l'unico vincolo è che ogni coppia di cellule adiacenti ai bordi ha lettere diverse. Due riempimenti sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione o riflessione della griglia. Trova il numero di riempimenti distinti.
 
 **Risposta:** 18
-[[src_jjmo20yq_yosen__Q01]]
+[[Quesiti/src_jjmo20yq_yosen#q01|src_jjmo20yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JJMO Yosen
 > $(p, q)$ sia una coppia di numeri primi con $p \le q$ tale che $pq$ divida $15(p-1)(q-1)$. Trova il numero di tutte le coppie $(p, q)$.
 
 **Risposta:** 31
-[[src_jjmo20yq_yosen__Q02]]
+[[Quesiti/src_jjmo20yq_yosen#q02|src_jjmo20yq_yosen__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: JJMO Yosen
 
 > A pentagon $ABCDE$ is inscribed in a circle. The quadrilateral $BCDE$ is a rectangle satisfying $BC = DE - 1$, and $AB = EA = 6$. Find the radius of the circle. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo20yq_yosen__Q03.png]]
+![[src_jjmo20yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -94,10 +94,10 @@ level: JJMO Yosen
 
 > Un pentagono $ABCDE$ è inserito in un cerchio. Il quadrilaterale $BCDE$ è un rettangolo che soddisfa $BC = DE - 1$ e $AB = EA = 6$. Trova il raggio del cerchio. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo20yq_yosen__Q03.png]]
+![[src_jjmo20yq_yosen__q03.png]]
 
 **Risposta:** 9
-[[src_jjmo20yq_yosen__Q03]]
+[[Quesiti/src_jjmo20yq_yosen#q03|src_jjmo20yq_yosen__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: JJMO Yosen
 > Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, $D$, $E$, $F$ siano punti sui lati $BC$, $CA$ e $AB$ rispettivamente (non coincidendo con nessun vertice). Il quadrilaterale $ABDE$ ha un cerchio circoscritto e il quadrilaterale $BCEF$ ha anche un cerchio circoscritto. Il cerchio circonscritto del triangolo $BDF$ è tangente al segmento di linea $EF$. Trova la lunghezza $EF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{75}{37}
-[[src_jjmo20yq_yosen__Q04]]
+[[Quesiti/src_jjmo20yq_yosen#q04|src_jjmo20yq_yosen__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: JJMO Yosen
 > C'è una griglia $45 \times 45$ di quadrati unitari. Esattamente le cellule $2022$ devono essere colorate di nero. Trova il numero intero massimo $n$ in modo tale che, indipendentemente dal modo in cui le celle $2022$ sono scelte, esista sempre una sottogrida contiguale $n \times n$ (formata da righe consecutive $n$ e colonne consecutive $n$ della griglia originale) in cui ogni cella è colorata in nero.
 
 **Risposta:** 22
-[[src_jjmo20yq_yosen__Q05]]
+[[Quesiti/src_jjmo20yq_yosen#q05|src_jjmo20yq_yosen__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: JJMO Yosen
 
 > Right triangles $ABC$, $ADE$, $EFG$ have right angles at $C$, $E$, $G$ respectively, and are arranged so that they share vertices as shown in the figure below (the figure is a 3D-looking pyramid with $B$, $D$ and $F$, $G$ labeled). The pentagon $ABDGE$ has area $23$, and $AB = 8$. Given that $FD > DG$, find the length $FD$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo20yq_yosen__Q06.png]]
+![[src_jjmo20yq_yosen__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -185,10 +185,10 @@ level: JJMO Yosen
 
 > I triangoli rettangolari $ABC$, $ADE$, $EFG$ hanno angoli rettangolari rispettivamente $C$, $E$ e $G$, e sono disposti in modo da condividere vertici come mostrato nella figura seguente (la figura è una piramide in 3D con l'etichetta $B$, $D$ e $F$, $G$). Il pentagono $ABDGE$ ha superficie $23$ e $AB = 8$. Dato che $FD > DG$, trovare la lunghezza $FD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo20yq_yosen__Q06.png]]
+![[src_jjmo20yq_yosen__q06.png]]
 
 **Risposta:** 2+\sqrt{2}
-[[src_jjmo20yq_yosen__Q06]]
+[[Quesiti/src_jjmo20yq_yosen#q06|src_jjmo20yq_yosen__Q06]]
 
 
 
@@ -217,7 +217,7 @@ level: JJMO Yosen
 > Trova il numero di 5 tupli $(a, b, c, d, e)$ di enti interi non negativi che soddisfano $a + b + c + d + e = 2022$ in modo tale che nessuno di $a, b, c, d, e$ sia divisibile da $3$. (Il numero intero $0$ non è considerato divisibile da $3$ ai fini di questo problema.)
 
 **Risposta:** 500149500
-[[src_jjmo20yq_yosen__Q07]]
+[[Quesiti/src_jjmo20yq_yosen#q07|src_jjmo20yq_yosen__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: JJMO Yosen
 
 > Consider a solid made of $20$ unit cubes ($1 \times 1 \times 1$ blocks), obtained from a $3 \times 3 \times 3$ cube by removing the center block and all six blocks sharing a face with it (so $7$ blocks are removed). Assign one integer from $\{1, 2, 3, 4, 5, 6, 7, 8\}$ to each of the $20$ remaining blocks, using each integer exactly once. For each of the six outer faces of the solid, the $8$ blocks that are visible on that face must receive all $8$ different integers. Two assignments are considered different if they differ on at least one block. Find the number of valid assignments.
 
-![[src_jjmo20yq_yosen__Q08.png]]
+![[src_jjmo20yq_yosen__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -247,10 +247,10 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 
 > Considerate un solido costituito da cubi unitari $20$ (blocchi $1 \times 1 \times 1$), ottenuto da un cubo $3 \times 3 \times 3$ rimuovendo il blocco centrale e tutti e sei i blocchi che condividono una faccia con esso (così vengono rimossi i blocchi $7$). Assegna un numero intero da $\{1, 2, 3, 4, 5, 6, 7, 8\}$ a ciascuno dei blocchi $20$ rimanenti, utilizzando ogni numero intero esattamente una volta. Per ciascuna delle sei facce esterne del solido, i blocchi $8$ visibili su tale faccia devono ricevere tutti i diversi enti $8$. Due incarichi sono considerati diversi se differiscono in almeno un blocco. Trova il numero di incarichi validi.
 
-![[src_jjmo20yq_yosen__Q08.png]]
+![[src_jjmo20yq_yosen__q08.png]]
 
 **Risposta:** 80640
-[[src_jjmo20yq_yosen__Q08]]
+[[Quesiti/src_jjmo20yq_yosen#q08|src_jjmo20yq_yosen__Q08]]
 
 
 
@@ -279,7 +279,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 > Trova il numero di interi positivi $n \le 2022$ per i quali esiste un intero positivo divisibile da $n$, ha esattamente una cifra uguale a $0$ e tutte le altre cifre uguali a $2$.
 
 **Risposta:** 1700
-[[src_jjmo20yq_yosen__Q09]]
+[[Quesiti/src_jjmo20yq_yosen#q09|src_jjmo20yq_yosen__Q09]]
 
 
 
@@ -308,7 +308,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 > $a, b, c, d$ siano numeri interi che soddisfino $0 < a < b < c < d < 163$. Considerate i quadrati $103$ disposti in un anello (circolo), con un quadrato etichettato $S$ e il quadrato passo uno in senso contrario all'orologio da $S$ etichettato $G$. Un token inizia a $S$. I giocatori $A$ e $B$ si alternano, a partire da $A$:\n- Al turno di $A$: spostare il token in senso orario di $c$ o $d$ quadrati.\n- Al turno di $B$: spostare il token in senso orario di $a$ o $b$ quadrati.\nL'obiettivo del giocatore $B$ è quello di avere il token a terra su $G$ immediatamente dopo uno dei movimenti di $B$. Trova il numero di 4 doppi $(a, b, c, d)$ per i quali il giocatore $B$ può sempre raggiungere l'obiettivo in finite mosse, indipendentemente dalle scelte del giocatore $A$.
 
 **Risposta:** 515100
-[[src_jjmo20yq_yosen__Q10]]
+[[Quesiti/src_jjmo20yq_yosen#q10|src_jjmo20yq_yosen__Q10]]
 
 
 
@@ -337,7 +337,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto interno soddisfacente $\angle PAB = \angle PBC = \angle PCA$. Se le superfici dei triangoli $PAB$ e $PCA$ sono rispettivamente $4$ e $1$, si trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \sqrt{26}
-[[src_jjmo20yq_yosen__Q11]]
+[[Quesiti/src_jjmo20yq_yosen#q11|src_jjmo20yq_yosen__Q11]]
 
 
 
@@ -350,7 +350,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 
 > A building has $3$ floors, each containing $40$ rooms arranged along a corridor, as shown in the figure (the rooms are represented by dots $\bullet$ and the corridors connecting adjacent rooms by line segments). In each room, at most one robot may be placed. Each placed robot is assigned exactly one corridor (edge) connected to its room. All robots then simultaneously move along their assigned corridor to the room at the other end, and simultaneously stop. During this movement, no two robots may occupy the same position at the same time (i.e., they must not meet), and the rooms where the robots arrive must all be distinct. Let $N$ be the maximum number of robots that can be placed satisfying these conditions. When $N$ robots are placed, find the number of valid ways to place the $N$ robots and assign each one a corridor. (Robots are considered indistinguishable.)
 
-![[src_jjmo20yq_yosen__Q12.png]]
+![[src_jjmo20yq_yosen__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
@@ -367,7 +367,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 
 > Un edificio ha i piani $3$, ognuno dei quali contiene stanze $40$ disposte lungo un corridoio, come mostrato nella figura (le stanze sono rappresentate da punti $\bullet$ e dai corridoi che collegano le stanze adiacenti per segmenti di linea). In ogni stanza può essere posto al massimo un robot. A ogni robot inserito viene assegnato esattamente un corridoio (orlo) collegato alla sua stanza. Tutti i robot si muovono contemporaneamente lungo il corridoio assegnato alla stanza all'altra estremità e si fermano contemporaneamente. Durante questo movimento, nessun robot può occupare la stessa posizione contemporaneamente (cioè non devono incontrarsi), e le stanze in cui arrivano i robot devono essere tutte distinte. $N$ è il numero massimo di robot che possono essere posizionati in conformità di queste condizioni. Quando i robot $N$ sono posizionati, trovare il numero di modi validi per posizionare i robot $N$ e assegnare a ciascuno un corridoio. (I robot sono considerati indistinguibili.)
 
-![[src_jjmo20yq_yosen__Q12.png]]
+![[src_jjmo20yq_yosen__q12.png]]
 
 **Risposta:** 12544
-[[src_jjmo20yq_yosen__Q12]]
+[[Quesiti/src_jjmo20yq_yosen#q12|src_jjmo20yq_yosen__Q12]]

@@ -17,7 +17,7 @@ level: kangourou
 
 *misura angolo ABC*
 
-![[src_kangourou_2015_finale_student__probS1.png]]
+![[src_kangourou_2015_finale_student__probs1.png]]
 
 > La figura mostra due quadrati uguali che hanno in comune esattamente un vertice. È possibile precisare la misura dell'angolo $ABC$? (vedi figura)
 
@@ -33,12 +33,12 @@ level: kangourou
 
 The measurement shall be carried out in accordance with the methodology set out in Annex II.
 
-![[src_kangourou_2015_finale_student__probS1.png]]
+![[src_kangourou_2015_finale_student__probs1.png]]
 
 > The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
 
 **Answer:** 45 gradi
-[[src_kangourou_2015_finale_student__QS1]]
+[[Quesiti/src_kangourou_2015_finale_student#qs1|src_kangourou_2015_finale_student__QS1]]
 
 
 
@@ -67,7 +67,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > 2 . You want to draw on one of these sheets a grid of size (n + 1) × n and the one on the shorter side is made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of n? S3. (11 points) The currency in use in Khangland is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that for every positive integer N, the different possible ways to realize the sum of N + 1 kang are in the narrowest number.
 
 **Answer:** 1 e 2
-[[src_kangourou_2015_finale_student__QS2]]
+[[Quesiti/src_kangourou_2015_finale_student#qs2|src_kangourou_2015_finale_student__QS2]]
 
 
 
@@ -100,7 +100,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode (but not the $2+2$ mode).
 
 **Answer:** dimostrazione
-[[src_kangourou_2015_finale_student__QS3]]
+[[Quesiti/src_kangourou_2015_finale_student#qs3|src_kangourou_2015_finale_student__QS3]]
 
 
 
@@ -129,7 +129,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > $51$ crows are lined up on a branch of a large tree. Whenever one of them crawls, his right and his left, if they exist, are in flight. Every crow that takes flight flies for exactly one minute, then takes its place by immediately making a crackling sound. This morning the first to crawl was the raven at the end of the branch and then they continued, according to the rule described, for exactly one hour: at the end of the hour all the flying ravens returned to the branch making one last crawl sound. How many were there at that hour, from the first to the last moment included, the scratches made?
 
 **Answer:** 931
-[[src_kangourou_2015_finale_student__QS4]]
+[[Quesiti/src_kangourou_2015_finale_student#qs4|src_kangourou_2015_finale_student__QS4]]
 
 
 
@@ -158,7 +158,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly $100$ regions?
 
 **Answer:** 16
-[[src_kangourou_2015_finale_student__QS5]]
+[[Quesiti/src_kangourou_2015_finale_student#qs5|src_kangourou_2015_finale_student__QS5]]
 
 
 
@@ -186,4 +186,4 @@ The measurement shall be carried out in accordance with the methodology set out 
 > Three circles in space are two to two tangents and the three tangent points are all different from each other. Does it necessarily follow that the three circumferences are either planar or lie on the same sphere?
 
 **Answer:** e' vero
-[[src_kangourou_2015_finale_student__QS6]]
+[[Quesiti/src_kangourou_2015_finale_student#qs6|src_kangourou_2015_finale_student__QS6]]

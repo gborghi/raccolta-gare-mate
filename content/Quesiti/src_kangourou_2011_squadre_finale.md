@@ -36,7 +36,7 @@ level: squadre
 > Anna and her watch Anna enjoys calculating the sum of the digits that appear on her digital watch: for example, if the clock indicates 21:17, Anna gets 11. What is the highest amount Anna can get?
 
 **Answer:** 24
-[[src_kangourou_2011_squadre_finale__Q01]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q01|src_kangourou_2011_squadre_finale__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 > How many pairs of straight sghembe (i.e. not lying on the same plane) can be formed, choosing the straight lines from those on which the spikes of a cube lie?
 
 **Answer:** 24
-[[src_kangourou_2011_squadre_finale__Q02]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q02|src_kangourou_2011_squadre_finale__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: squadre
 > The sum encrypted In the sum encrypted A + AP + APP = PQA, the letters A, P and Q each indicate one digit; different letters indicate different digits. What's your dad's number?
 
 **Answer:** 5454
-[[src_kangourou_2011_squadre_finale__Q03]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q03|src_kangourou_2011_squadre_finale__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: squadre
 > The tennis tournament A tennis tournament proceeds by direct elimination. Two players face each other: the winner goes on, the loser is eliminated. At each stage the matches are decided by lottery: if, in any stage, the number of players is odd, the last remaining at the end of the lottery automatically proceeds to the next stage. In fact, to determine the winner, a total of 100 matches must be played. How many players are taking part in the tournament?
 
 **Answer:** 101
-[[src_kangourou_2011_squadre_finale__Q04]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q04|src_kangourou_2011_squadre_finale__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: squadre
 > &ient consecutive numbers Either A the sum of the first 11 positive integers, i.e. A = {1, 2, 3,..., 10, 11}. How many subsets of A, made up of at least two elements, do not contain two consecutive numbers?
 
 **Answer:** 221
-[[src_kangourou_2011_squadre_finale__Q05]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q05|src_kangourou_2011_squadre_finale__Q05]]
 
 
 
@@ -197,7 +197,7 @@ level: squadre
 > The perfect square A six-digit integer is a perfect square, it's a multiple of 27, its unit number is 0, and that of the hundreds is 5. How much is its square root worth?
 
 **Answer:** 450
-[[src_kangourou_2011_squadre_finale__Q06]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q06|src_kangourou_2011_squadre_finale__Q06]]
 
 
 
@@ -230,7 +230,7 @@ level: squadre
 > Mark's car The meter in Mark's car has six digits. Marco is driving and notices that at this time on his meter a number is only numbered 1 and 2 and that the number that will appear in 9 kilometres will still be numbered 1 and 2. How many numbers could show up within 9 kilometers?
 
 **Answer:** 16
-[[src_kangourou_2011_squadre_finale__Q07]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q07|src_kangourou_2011_squadre_finale__Q07]]
 
 
 
@@ -262,7 +262,7 @@ level: squadre
 > &numbers of 7 digits How many positive integers of 7 significant digits (i.e. the first digit of which is not 0) contain the 2011 block of digits as part of their decimal representation (it is understood that the block numbers must appear consecutively)?
 
 **Answer:** 3700
-[[src_kangourou_2011_squadre_finale__Q08]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q08|src_kangourou_2011_squadre_finale__Q08]]
 
 
 
@@ -295,7 +295,7 @@ level: squadre
 > The two runners Two runners, Marco and Felice, must make a common route: Marco from point A to point B, Felice from point B to point A. They start at the same moment and each keeps their speed constant. When Mark is halfway through, Felix has an hour and a half to get there; when Felix is halfway through, Mark has three-quarters of an hour to get there. How many more minutes does it take Felice than Marco to complete the journey?
 
 **Answer:** 30
-[[src_kangourou_2011_squadre_finale__Q09]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q09|src_kangourou_2011_squadre_finale__Q09]]
 
 
 
@@ -333,7 +333,7 @@ level: squadre
 > A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green plane is sure to be taken to the plane they want. The person entering the elevator in a red plane is taken to a plane of the same colour as the one he selected, but not necessarily in the selected plane; in any case, the elevator changes plane. From whatever floor you call, the elevator will arrive as soon as you're free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow you to reach your destination?
 
 **Answer:** 29
-[[src_kangourou_2011_squadre_finale__Q10]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q10|src_kangourou_2011_squadre_finale__Q10]]
 
 
 
@@ -364,7 +364,7 @@ level: squadre
 > The smallest number What is the smallest integer greater than 1 that cannot be written in the form a × b + c where a, b and c are all different digits from each other?
 
 **Answer:** 70
-[[src_kangourou_2011_squadre_finale__Q11]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q11|src_kangourou_2011_squadre_finale__Q11]]
 
 
 
@@ -396,7 +396,7 @@ level: squadre
 > Angelo Nonno Angelo, who is not yet centenarian, today says: My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5. How old is Grandpa Angelo today?
 
 **Answer:** 61
-[[src_kangourou_2011_squadre_finale__Q12]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q12|src_kangourou_2011_squadre_finale__Q12]]
 
 
 
@@ -425,7 +425,7 @@ level: squadre
 > A power of two. You know that 2n is equal to 134,217,728. How much is n ?
 
 **Answer:** 27
-[[src_kangourou_2011_squadre_finale__Q13]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q13|src_kangourou_2011_squadre_finale__Q13]]
 
 
 
@@ -458,7 +458,7 @@ level: squadre
 > Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the comma).
 
 **Answer:** 3877
-[[src_kangourou_2011_squadre_finale__Q14]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q14|src_kangourou_2011_squadre_finale__Q14]]
 
 
 
@@ -507,4 +507,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 60
-[[src_kangourou_2011_squadre_finale__Q15]]
+[[Quesiti/src_kangourou_2011_squadre_finale#q15|src_kangourou_2011_squadre_finale__Q15]]

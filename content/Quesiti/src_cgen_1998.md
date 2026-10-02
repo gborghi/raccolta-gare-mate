@@ -39,7 +39,7 @@ level: Concours Général
 > 
 > Determinare il valore minimo di $BC^6 + BD^6 - AC^6 - AD^6$.
 
-[[src_cgen_1998__Q01]]
+[[Quesiti/src_cgen_1998#q01|src_cgen_1998__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Concours Général
 > 
 > Mostra che esiste un numero intero non zero $p$ tale che la relazione $u_n = u_{n+p}$ si applique a ogni numero naturale $n$.
 
-[[src_cgen_1998__Q02]]
+[[Quesiti/src_cgen_1998#q02|src_cgen_1998__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: Concours Général
 > 
 > Determinare l'insieme dei valori presi dalla funzione $f$.
 
-[[src_cgen_1998__Q03]]
+[[Quesiti/src_cgen_1998#q03|src_cgen_1998__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: Concours Général
 > 
 > (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
 
-[[src_cgen_1998__Q04]]
+[[Quesiti/src_cgen_1998#q04|src_cgen_1998__Q04]]
 
 
 
@@ -172,4 +172,4 @@ level: Concours Général
 > 
 > Mostrare che nel piano esiste un insieme $S$ di punti $2n - 5$ in modo tale che per ogni triangolo le cui vertici sono punti $A$, esista almeno un punto $S$ che si trova rigorosamente all'interno.
 
-[[src_cgen_1998__Q05]]
+[[Quesiti/src_cgen_1998#q05|src_cgen_1998__Q05]]

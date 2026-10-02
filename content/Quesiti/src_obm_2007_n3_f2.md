@@ -37,7 +37,7 @@ level: OBM Nível 3
 > Considera il numero $123456$, la cui fattorizzazione è $123456 = 2^7 \cdot 3 \cdot 643$. $d$ sia un divisore di $123456$ inferiore a $2007$ (prendi il più grande di tale divisore). Determinare il numero totale di divisori di $d$ inferiori a $2007$.
 
 **Risposta:** 17
-[[src_obm_2007_n3_f2__Q01]]
+[[Quesiti/src_obm_2007_n3_f2#q01|src_obm_2007_n3_f2__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 3
 > Un punto $B = (x; y)$ viene scelto a caso sui punti del segmento $A$ che si trova sulla linea $x + y = 2$ con $0 \le x \le 2$ (così $A$ va da $(0,2)$ a $(2,0)$). La fonte è $P$. Determinare la probabilità $p$ che il punto scelto $B$ sia alla distanza massima $\frac{5}{3}$ dall'origine, cioè che $\sqrt{x^2 + y^2} \le \frac{5}{3}$. La probabilità è pari alla lunghezza del sottosegmento $\overline{P_1 P_2}$ di $A$ che soddisfa la condizione, divisa per la lunghezza di $A$, che è $\sqrt{(0-2)^2 + (2-0)^2} = 2\sqrt{2}$.
 
 **Risposta:** 3024
-[[src_obm_2007_n3_f2__Q02]]
+[[Quesiti/src_obm_2007_n3_f2#q02|src_obm_2007_n3_f2__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 3
 > Considerate il numero $\underbrace{11\ldots1}_{1000\ \text{ones}} = \dfrac{10^{1000} - 1}{9}$ costituito da mille cifre tutte uguali a $1$. Determinare la somma delle cifre del numero intero più vicino a $\sqrt{\underbrace{11\ldots1}_{1000\ \text{ones}}}$.
 
 **Risposta:** 1500
-[[src_obm_2007_n3_f2__Q03]]
+[[Quesiti/src_obm_2007_n3_f2#q03|src_obm_2007_n3_f2__Q03]]
 
 
 
@@ -112,7 +112,7 @@ level: OBM Nível 3
 
 > The triangle $ABC$ is right-angled at $B$. Let $I$ be the center of the circle inscribed in $ABC$ and let $O$ be the midpoint of the side $AC$. If $\angle AOI = 45^\circ$, how many degrees does the angle $\angle ACB$ measure?
 
-![[src_obm_2007_n3_f2__Q04.png]]
+![[src_obm_2007_n3_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -130,10 +130,10 @@ level: OBM Nível 3
 
 > Il triangolo $ABC$ è angolato a destra a $B$. Il centro del cerchio è $I$ e il punto medio del lato $AC$ è $O$. Se $\angle AOI = 45^\circ$, quanti gradi misura l'angolo $\angle ACB$?
 
-![[src_obm_2007_n3_f2__Q04.png]]
+![[src_obm_2007_n3_f2__q04.png]]
 
 **Risposta:** 30
-[[src_obm_2007_n3_f2__Q04]]
+[[Quesiti/src_obm_2007_n3_f2#q04|src_obm_2007_n3_f2__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 3
 
 > Each cell of a board is to be coloured using one of the two letters $V$ or $A$. A colouring of the first row is any assignment of one of these letters to each of its cells. Once the first row is coloured, every other cell of the board is forced according to the filling rule of the board, and a colouring is valid only if no two consecutive cells in the first row carry the same letter, with the analogous condition propagating through the rest of the board. For the board in question, determine the total number of valid colourings. In general, for an $n \times n$ board the number of such colourings is $2^{n+1} - 2$.
 
-![[src_obm_2007_n3_f2__Q05.png]]
+![[src_obm_2007_n3_f2__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -165,10 +165,10 @@ level: OBM Nível 3
 
 > Ogni cella di una lavagna deve essere colorata con una delle due lettere $V$ o $A$. Una colorazione della prima riga è l'assegnazione di una di queste lettere a ciascuna delle sue celle. Una volta colorata la prima riga, ogni altra cella della lavagna viene forzata secondo la regola di riempimento della lavagna, e una colorazione è valida solo se due celle consecutive della prima riga non contengono la stessa lettera, con la condizione analoga che si propaga attraverso il resto della lavagna. Per la lavagna in questione, determinare il numero totale di coloranti validi. In generale, per una lavagna $n \times n$ il numero di tali coloranti è $2^{n+1} - 2$.
 
-![[src_obm_2007_n3_f2__Q05.png]]
+![[src_obm_2007_n3_f2__q05.png]]
 
 **Risposta:** 62
-[[src_obm_2007_n3_f2__Q05]]
+[[Quesiti/src_obm_2007_n3_f2#q05|src_obm_2007_n3_f2__Q05]]
 
 
 
@@ -199,7 +199,7 @@ level: OBM Nível 3
 > Determinare tutte le coppie $(x, y)$ di integri positivi che soddisfano $x^2 + y^2 - xy - 2x - 2y = 0$, equivalentemente $x^2 - xy + y^2 = 2x + 2y$.
 
 **Risposta:** $(x,y) \in \{(2,4),(4,2),(4,4)\}$
-[[src_obm_2007_n3_f2__Q06]]
+[[Quesiti/src_obm_2007_n3_f2#q06|src_obm_2007_n3_f2__Q06]]
 
 
 
@@ -230,7 +230,7 @@ level: OBM Nível 3
 > Determinare tutti i numeri a sei cifre $n$ della forma $\overline{AABBB}$ (le prime due cifre sono entrambe uguali a $A$ e le ultime tre cifre sono entrambe uguali a $B$, con $A \neq B$) in modo tale che $n + 1$ sia un quadrato perfetto; vale a dire, trovare tutti $n = \overline{AABBB}$ per i quali esiste un intero positivo $k$ con $k^2 = n + 1$.
 
 **Risposta:** $111555$ and $444888$
-[[src_obm_2007_n3_f2__Q07]]
+[[Quesiti/src_obm_2007_n3_f2#q07|src_obm_2007_n3_f2__Q07]]
 
 
 
@@ -243,7 +243,7 @@ level: OBM Nível 3
 
 > In the given configuration, the points $A$, $B$, $C$, $D$, $E$, $F$ are associated with a circle, with $AD = BC$, $ED = EB$, and $\angle CDE = \angle FCE = \alpha$, so that $\angle ADE = \angle BCE = 180^\circ - \alpha$. The lines $AD$ and $BC$ are extended until they meet at the point $F$, and $\angle AFB = 60^\circ = \angle DEC$. Show that triangle $ADE$ is congruent to triangle $BCE$, hence $EA = EB$ and $\angle AEB = \angle DEC = 60^\circ$, so that triangle $ABE$ is equilateral with side $8$. Compute the area of triangle $ABE$.
 
-![[src_obm_2007_n3_f2__Q08.png]]
+![[src_obm_2007_n3_f2__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -262,10 +262,10 @@ level: OBM Nível 3
 
 > Nella configurazione data, i punti $A$, $B$, $C$, $D$, $E$, $F$ sono associati a un cerchio, con $AD = BC$, $ED = EB$ e $\angle CDE = \angle FCE = \alpha$, in modo che $\angle ADE = \angle BCE = 180^\circ - \alpha$. Le linee $AD$ e $BC$ sono estese fino a quando non si incontrano al punto $F$ e $\angle AFB = 60^\circ = \angle DEC$. Mostra che il triangolo $ADE$ è congruente al triangolo $BCE$, quindi $EA = EB$ e $\angle AEB = \angle DEC = 60^\circ$, in modo che il triangolo $ABE$ sia equilaterale con il lato $8$. Calcolare l'area del triangolo $ABE$.
 
-![[src_obm_2007_n3_f2__Q08.png]]
+![[src_obm_2007_n3_f2__q08.png]]
 
 **Risposta:** $16\sqrt{3}\ \text{cm}^2$
-[[src_obm_2007_n3_f2__Q08]]
+[[Quesiti/src_obm_2007_n3_f2#q08|src_obm_2007_n3_f2__Q08]]
 
 
 
@@ -296,4 +296,4 @@ level: OBM Nível 3
 > Selezionare $20$ città di un paese. Se si collegassero tutte e due con una strada si utilizzerebbero strade $\binom{20}{2} = 190$. Trovare il minor numero di strade che devono essere costruite in modo che, partendo da una città, si possa raggiungere un'altra città in auto (cioè la rete stradale sia collegata). Mostrare che le strade $190$ non devono essere sufficienti e dimostrare che con le strade $191$ è sempre possibile viaggiare in auto tra due città. (Insigno: se le città potessero essere suddivise in due gruppi $A$ e $B$ con rispettivamente $a$ e $b$ città, $a + b = 21$, senza strada che unisca i due gruppi, allora il numero di strade sarebbe al massimo $\binom{a}{2} + \binom{b}{2}$; derivere una contraddizione.)
 
 **Risposta:** $191$
-[[src_obm_2007_n3_f2__Q09]]
+[[Quesiti/src_obm_2007_n3_f2#q09|src_obm_2007_n3_f2__Q09]]

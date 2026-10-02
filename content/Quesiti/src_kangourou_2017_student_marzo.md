@@ -42,7 +42,7 @@ level: kangourou
 > C)  34 D) 201,7 E) 340
 
 **Answer:** C
-[[src_kangourou_2017_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2017_student_marzo#q01|src_kangourou_2017_student_marzo__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: kangourou
 > Luke likes to play with miniature trains, and he uses those on the H0 scale, that is, with a ratio of 1:87. Respecting the same ladder, he built a model, two centimeters tall, representing his brother. What's your brother's real height? A) 1,74 m B) 1,62 m C) 1,86 m D) 1,94 m E) 1,70 m
 
 **Answer:** A
-[[src_kangourou_2017_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2017_student_marzo#q02|src_kangourou_2017_student_marzo__Q02]]
 
 
 
@@ -130,7 +130,7 @@ level: kangourou
 > E) 5
 
 **Answer:** C
-[[src_kangourou_2017_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2017_student_marzo#q03|src_kangourou_2017_student_marzo__Q03]]
 
 
 
@@ -164,7 +164,7 @@ level: kangourou
 > The two positive numbers a and b are such that 75% of a is equal to 40% of b. This is equivalent to saying that A) 15a = 8b B) 7a = 8b C) 3a = 2b D) 5a = 12b E) 8a = 15b
 
 **Answer:** A
-[[src_kangourou_2017_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2017_student_marzo#q04|src_kangourou_2017_student_marzo__Q04]]
 
 
 
@@ -214,7 +214,7 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[src_kangourou_2017_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2017_student_marzo#q05|src_kangourou_2017_student_marzo__Q05]]
 
 
 
@@ -279,7 +279,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2017_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2017_student_marzo#q06|src_kangourou_2017_student_marzo__Q06]]
 
 
 
@@ -322,7 +322,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 > D) E)
 
 **Answer:** A
-[[src_kangourou_2017_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2017_student_marzo#q07|src_kangourou_2017_student_marzo__Q07]]
 
 
 
@@ -356,7 +356,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 > Is there a quadrant that doesn't contain points on the graph of the function f defined by f (x) = -3,5 x + 7 ? A) Sì, il I. B) Sì, il II. C) Yes, the third. D) Sì, il IV. E) No.
 
 **Answer:** C
-[[src_kangourou_2017_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2017_student_marzo#q08|src_kangourou_2017_student_marzo__Q08]]
 
 
 
@@ -396,7 +396,7 @@ Box with maximum probability of blue ball
 > Each of the boxes in the figure contains red balls and blue balls, in the number indicated on the side. Carlo must take a ball from one of the boxes without looking. What box does he have to fish the ball from to get the best chance of getting a blue ball? A) B) C) D) E)
 
 **Answer:** B
-[[src_kangourou_2017_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2017_student_marzo#q09|src_kangourou_2017_student_marzo__Q09]]
 
 
 
@@ -440,7 +440,7 @@ Box with maximum probability of blue ball
 > E) g5 (x) = - x The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2017_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2017_student_marzo#q10|src_kangourou_2017_student_marzo__Q10]]
 
 
 
@@ -519,7 +519,7 @@ Box with maximum probability of blue ball
 > E) 2√6
 
 **Answer:** A
-[[src_kangourou_2017_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2017_student_marzo#q11|src_kangourou_2017_student_marzo__Q11]]
 
 
 
@@ -567,7 +567,7 @@ Box with maximum probability of blue ball
 >
 
 **Answer:** B
-[[src_kangourou_2017_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2017_student_marzo#q12|src_kangourou_2017_student_marzo__Q12]]
 
 
 
@@ -602,7 +602,7 @@ Box with maximum probability of blue ball
 > The two cylinders A and B with a circular base have the same volume. If the radius of the base of B is greater than 10% of that of the base of A, by what percentage is the height of A greater than that of B? A) 5% B) 10% C) 11% D) 20% E) 21%
 
 **Answer:** E
-[[src_kangourou_2017_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2017_student_marzo#q13|src_kangourou_2017_student_marzo__Q13]]
 
 
 
@@ -655,7 +655,7 @@ Box with maximum probability of blue ball
 > E) 9
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2017_student_marzo#q14|src_kangourou_2017_student_marzo__Q14]]
 
 
 
@@ -692,7 +692,7 @@ Box with maximum probability of blue ball
 > We have four equal dice in the shape of a regular tetrahedron, perfectly balanced, that is, equal, having the numbers 0, 1, 2, 7 on all four faces. If we all throw the dice on a flat surface, what is the probability that we can compose the 2017 number using exactly one of the three faces visible for each dice? A) 1/256 B) 63/64 C) 81/256 D) 3/32 E) 29/32
 
 **Answer:** B
-[[src_kangourou_2017_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2017_student_marzo#q15|src_kangourou_2017_student_marzo__Q15]]
 
 
 
@@ -739,7 +739,7 @@ Box with maximum probability of blue ball
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2017_student_marzo#q16|src_kangourou_2017_student_marzo__Q16]]
 
 
 
@@ -786,7 +786,7 @@ Box with maximum probability of blue ball
 > B) 40 whites and 40 blacks C) 41 whites and 40 blacks D) 41 whites and 41 blacks E) 40 whites and 41 blacks
 
 **Answer:** E
-[[src_kangourou_2017_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2017_student_marzo#q17|src_kangourou_2017_student_marzo__Q17]]
 
 
 
@@ -836,7 +836,7 @@ Box with maximum probability of blue ball
 >
 
 **Answer:** C
-[[src_kangourou_2017_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2017_student_marzo#q18|src_kangourou_2017_student_marzo__Q18]]
 
 
 
@@ -868,7 +868,7 @@ Box with maximum probability of blue ball
 > The hexagon in the figure is regular and has side length
 
 **Answer:** E
-[[src_kangourou_2017_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2017_student_marzo#q19|src_kangourou_2017_student_marzo__Q19]]
 
 
 
@@ -897,7 +897,7 @@ Box with maximum probability of blue ball
 > 20. Tits would like to be a good kangaroo, but lying to him is too much fun: so he makes sure that, in every line of his claims, two are true and one is false. His friend Pietro wants to guess the two-digit number that Titti thought up. Titti made the following statements in order: One of the digits is a 2. E greater than 50. E equal. E less than 30. E divisible by 3.  One of the digits is 7. STUDENT What is the sum of the digits of the number Titti thought? A) 9 B) 12 C) 13 D) 15 E) 17 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2017_student_marzo#q20|src_kangourou_2017_student_marzo__Q20]]
 
 
 
@@ -926,7 +926,7 @@ Box with maximum probability of blue ball
 > 21. How many positive integers are such that the number obtained by eliminating the last digit is 1/14 of the original number? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** C
-[[src_kangourou_2017_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2017_student_marzo#q21|src_kangourou_2017_student_marzo__Q21]]
 
 
 
@@ -958,7 +958,7 @@ Box with maximum probability of blue ball
 > 22. In the convex quadrilateral ABCD in the figure (not in the scale), the diagonals are perpendicular. The three-sided tables are known: AB = 2017, BC = 2018 and CCD = 2019. C What is the length of AD? A) 2016 B) 2018 C) √$2020^{2}$ - 4 D) √$2018^{2}$+ 2 E) 2020 2018 B A 2017
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2017_student_marzo#q22|src_kangourou_2017_student_marzo__Q22]]
 
 
 
@@ -987,7 +987,7 @@ Box with maximum probability of blue ball
 > 23. Let's consider the an sequence defined by putting a1 = 2017 and, for each n, a(n + 1) = (an - 1) / year. This is the same as the previous year's report.
 
 **Answer:** E
-[[src_kangourou_2017_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2017_student_marzo#q23|src_kangourou_2017_student_marzo__Q23]]
 
 
 
@@ -1019,7 +1019,7 @@ Box with maximum probability of blue ball
 > 24. From a regular tetrahedron, a new solid is made by securing it with four planes, each passing through the midpoints of the three beams coming out of the same vertex, as shown in the figure. What is the ratio of the volume of the solvent thus obtained to that of the initial tetrahedron? A) 4/5 B) 3/4 C) 2/3 D) 1/2 E) 1/3
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2017_student_marzo#q24|src_kangourou_2017_student_marzo__Q24]]
 
 
 
@@ -1048,7 +1048,7 @@ Box with maximum probability of blue ball
 > 25. The sum of the lengths of the three sides of a right triangle is 18 and the sum of the squares of these lengths is 128. What is the area of the triangle? A) 18 B) 16 C) 12 D) 10 E) 9
 
 **Answer:** E
-[[src_kangourou_2017_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2017_student_marzo#q25|src_kangourou_2017_student_marzo__Q25]]
 
 
 
@@ -1077,7 +1077,7 @@ Box with maximum probability of blue ball
 > 26. You have to have five black balls and five white balls in five boxes with the only constraint that each box contains at least one ball. Your opponent must, without looking, STUDENT catch a ball from a box of his choice: if the ball is white he wins, if it is black you win. How do you distribute the balls in the boxes to get the best chance of winning? A) Put a white and a black ball in each box. B) Put all the black balls in three boxes and all the white balls in the other two. C) Put all the black balls in four boxes and all the white balls in the remaining box. D) Put a black ball in each box and add all the white balls in one of the boxes. E) Put a white ball in each box and add all the black balls in one of the boxes.
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2017_student_marzo#q26|src_kangourou_2017_student_marzo__Q26]]
 
 
 
@@ -1128,7 +1128,7 @@ Box with maximum probability of blue ball
 > 27. In each cell of a grid 3 × 3 an integer is written such that the sum of the nine numbers is 500 and that numbers located in adjacent cells (i.e. cells with a common side) differ by 1. What is the number in the middle cell? A) 50 B) 54 C) 55 D) 56 E) 57
 
 **Answer:** D
-[[src_kangourou_2017_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2017_student_marzo#q27|src_kangourou_2017_student_marzo__Q27]]
 
 
 
@@ -1157,7 +1157,7 @@ Box with maximum probability of blue ball
 > 28. If x is + x + y is equal to 5 and x + y is - y is equal to 10 what is x + y ? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
 
 **Answer:** A
-[[src_kangourou_2017_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2017_student_marzo#q28|src_kangourou_2017_student_marzo__Q28]]
 
 
 
@@ -1186,7 +1186,7 @@ Box with maximum probability of blue ball
 > 29. The inhabitants of one island are exactly 2017 and each of them is either a liar (always thinking) or a truthful (always telling the truth). On the island, a large lunch is organized for more than a thousand inhabitants, all seated around a single round table. Each of them says, "I am sitting between a liar and a liar". What is the maximum number of truthful people that can live on the island? A) 1683 B) 668 C) 670 D) 1344 E) 1343
 
 **Answer:** A
-[[src_kangourou_2017_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2017_student_marzo#q29|src_kangourou_2017_student_marzo__Q29]]
 
 
 
@@ -1215,4 +1215,4 @@ Box with maximum probability of blue ball
 > 30. How many positive integers of three digits ABC are such that (A + B) C is simultaneously a three-digit number and an integer power of 2? The Commission has therefore decided to take the necessary measures to ensure that the Community's financial resources are not used in the same way as those of the Member States.
 
 **Answer:** E
-[[src_kangourou_2017_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2017_student_marzo#q30|src_kangourou_2017_student_marzo__Q30]]

@@ -33,7 +33,7 @@ level: China Southeastern Mathematical Olympiad
 
 > In questo caso, si deve indicare il valore di $a$, $b$, $c \in \{0, 1, 2, \ldots, 9\}$. L'equazione quadrata $ax^2 + bx + c = 0$ ha una radice razionale. Prova che il numero a tre cifre $\overline{abc}$ non è un numero primo.
 
-[[src_cn_csmo_2010__Q01]]
+[[Quesiti/src_cn_csmo_2010#q01|src_cn_csmo_2010__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Per ogni sottoinsieme di 99 elementi $A = \{a_1, a_2, \ldots, a_{99}\}$ di $\{1, 2, \ldots, 2010\}$, indicare $P(A) = a_1 \cdot a_2 \cdots a_{99}$. $A_1, A_2, \ldots, A_n$ siano tutti i sottoinsiemi di 99 elementi di $\{1, 2, \ldots, 2010\}$, $n = \binom{2010}{99}$. Prove che $2011 \mid \sum_{i=1}^{n} P(A_i)$.
 
-[[src_cn_csmo_2010__Q02]]
+[[Quesiti/src_cn_csmo_2010#q02|src_cn_csmo_2010__Q02]]
 
 
 
@@ -73,7 +73,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As shown in Fig. 3.1. Let the inscribed circle $I$ of $\triangle ABC$ touch $BC$ and $AB$ at $D$ and $F$, respectively. Let $I$ intersect the segments $AD$ and $CF$ at $H$ and $K$, respectively. Prove that $$\frac{FD \times HK}{FH \times DK} = 3.$$
 
-![[src_cn_csmo_b11_w277__Q03.png]]
+![[src_cn_csmo_b11_w277__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -89,9 +89,9 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella figura. 3.1. Il cerchio $I$ di $\triangle ABC$ deve toccare $BC$ e $AB$ rispettivamente a $D$ e $F$. Il segmento $AD$ e il segmento $CF$ devono essere incrociati rispettivamente a $H$ e $K$. Provare che $$\frac{FD \times HK}{FH \times DK} = 3.$$
 
-![[src_cn_csmo_b11_w277__Q03.png]]
+![[src_cn_csmo_b11_w277__q03.png]]
 
-[[src_cn_csmo_2010__Q03]]
+[[Quesiti/src_cn_csmo_2010#q03|src_cn_csmo_2010__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: China Southeastern Mathematical Olympiad
 
 > $a$ e $b$ siano integri positivi come $1 \le a \le b \le 10$. Se esiste un intero positivo $k$ tale che $ab \mid (a^k - b^k)$, allora diciamo che la coppia $(a, b)$ è buona. Determina il numero di buone coppie.
 
-[[src_cn_csmo_2010__Q04]]
+[[Quesiti/src_cn_csmo_2010#q04|src_cn_csmo_2010__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As shown in Fig. 5.1. Let $C$ be the right angle of $\triangle ABC$. Let $M_1$ and $M_2$ be two arbitrary points inside $\triangle ABC$, and let $M$ be the midpoint of $M_1 M_2$. The extensions of $BM_1$, $BM_2$, and $BM$ intersect $AC$ at $N_1$, $N_2$, and $N$, respectively. Prove that $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
 
-![[src_cn_csmo_b11_w277__Q05.png]]
+![[src_cn_csmo_b11_w277__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
@@ -147,9 +147,9 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella figura. 5.1. Il $C$ deve essere l'angolo retto di $\triangle ABC$. Che $M_1$ e $M_2$ siano due punti arbitrari all'interno di $\triangle ABC$, e che $M$ sia il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ si incrociano rispettivamente a $N_1$, $N_2$ e $N$. Provare che $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
 
-![[src_cn_csmo_b11_w277__Q05.png]]
+![[src_cn_csmo_b11_w277__q05.png]]
 
-[[src_cn_csmo_2010__Q05]]
+[[Quesiti/src_cn_csmo_2010#q05|src_cn_csmo_2010__Q05]]
 
 
 
@@ -178,7 +178,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Che $\mathbf{N}^*$ sia l'insieme di integri positivi. Definire $a_1 = 2$ e per $n = 1, 2, \ldots,$ $$a_{n+1} = \min\left\{\lambda \,\middle|\, \frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} + \frac{1}{\lambda} < 1,\ \lambda \in \mathbf{N}^*\right\}.$$ Prove che $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots.$
 
-[[src_cn_csmo_2010__Q06]]
+[[Quesiti/src_cn_csmo_2010#q06|src_cn_csmo_2010__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: China Southeastern Mathematical Olympiad
 
 > $n$ sia un numero intero positivo. I numeri reali $a_1, a_2, \ldots, a_n$ e $r_1, r_2, \ldots, r_n$ sono tali che $a_1 \le a_2 \le \cdots \le a_n$ e $0 \le r_1 \le r_2 \le \cdots \le r_n$. Provare che $$\sum_{i=1}^{n} \sum_{j=1}^{n} a_i a_j \min(r_i, r_j) \ge 0.$$
 
-[[src_cn_csmo_2010__Q07]]
+[[Quesiti/src_cn_csmo_2010#q07|src_cn_csmo_2010__Q07]]
 
 
 
@@ -218,7 +218,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Given eight points $A_1, A_2, \ldots, A_8$ on a circle, determine the smallest positive integer $n$ such that among any $n$ triangles with vertices in these eight points, there are two which have a common side.
 
-![[src_cn_csmo_b11_w285__Q08.png]]
+![[src_cn_csmo_b11_w285__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
@@ -235,7 +235,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Dati otto punti $A_1, A_2, \ldots, A_8$ su un cerchio, determinare il numero intero positivo più piccolo $n$ in modo tale che tra tutti i triangoli $n$ con vertici in questi otto punti, ci sono due che hanno un lato comune.
 
-![[src_cn_csmo_b11_w285__Q08.png]]
+![[src_cn_csmo_b11_w285__q08.png]]
 
 **Risposta:** 9
-[[src_cn_csmo_2010__Q08]]
+[[Quesiti/src_cn_csmo_2010#q08|src_cn_csmo_2010__Q08]]

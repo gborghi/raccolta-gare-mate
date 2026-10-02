@@ -17,7 +17,7 @@ level: kangourou
 
 *lato del triangolo piu grande*
 
-![[src_kangourou_2016_finale_cadet__probC1.png]]
+![[src_kangourou_2016_finale_cadet__probc1.png]]
 
 ```tikz
 \begin{document}
@@ -48,7 +48,7 @@ level: kangourou
 
 *side of the largest triangle *
 
-![[src_kangourou_2016_finale_cadet__probC1.png]]
+![[src_kangourou_2016_finale_cadet__probc1.png]]
 
 ```tikz
 \begin{document}
@@ -68,7 +68,7 @@ level: kangourou
 > Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of the grey and black triangles that have common vertices are on the same straight. (see figure)
 
 **Answer:** 19
-[[src_kangourou_2016_finale_cadet__QC1]]
+[[Quesiti/src_kangourou_2016_finale_cadet#qc1|src_kangourou_2016_finale_cadet__QC1]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > The currency of Kangland is the kang. In Kangcity the euro-kang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 
 **Answer:** si, 40
-[[src_kangourou_2016_finale_cadet__QC2]]
+[[Quesiti/src_kangourou_2016_finale_cadet#qc2|src_kangourou_2016_finale_cadet__QC2]]
 
 
 
@@ -127,7 +127,7 @@ level: kangourou
 > The Fox student must, to be promoted, make a maximum of one mistake and take a closed-ended test. You can choose between two envelopes: - envelope A containing $7$ questions, each with $2$ answers, - envelope B containing $3$ questions, each with $6$ answers. Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
 
 **Answer:** busta B
-[[src_kangourou_2016_finale_cadet__QC3]]
+[[Quesiti/src_kangourou_2016_finale_cadet#qc3|src_kangourou_2016_finale_cadet__QC3]]
 
 
 
@@ -138,7 +138,7 @@ level: kangourou
 
 *diametro intero della moneta B*
 
-![[src_kangourou_2016_finale_cadet__probC4.png]]
+![[src_kangourou_2016_finale_cadet__probc4.png]]
 
 ```tikz
 \begin{document}
@@ -168,7 +168,7 @@ level: kangourou
 
 * full diameter of coin B*
 
-![[src_kangourou_2016_finale_cadet__probC4.png]]
+![[src_kangourou_2016_finale_cadet__probc4.png]]
 
 ```tikz
 \begin{document}
@@ -187,7 +187,7 @@ level: kangourou
 > In the figure, two circular coins are outlined on the edge of each of which there is a tack; the two coins touch each other correspondingly with the tacks. The diameter of coin A, the largest, is $18$ mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins are touched again in a tie). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
 
 **Answer:** 4 o 12
-[[src_kangourou_2016_finale_cadet__QC4]]
+[[Quesiti/src_kangourou_2016_finale_cadet#qc4|src_kangourou_2016_finale_cadet__QC4]]
 
 
 
@@ -198,7 +198,7 @@ level: kangourou
 
 *distanza CD*
 
-![[src_kangourou_2016_finale_cadet__probC5.png]]
+![[src_kangourou_2016_finale_cadet__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -229,7 +229,7 @@ level: kangourou
 
 This is the total number of units in the unit.
 
-![[src_kangourou_2016_finale_cadet__probC5.png]]
+![[src_kangourou_2016_finale_cadet__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -249,7 +249,7 @@ This is the total number of units in the unit.
 > In the figure you can see a semicircumference of $8$ diameter. The $A$ and $D$ points are the ends, the $B$ and $C$ points are two other points of the semicircle that are separated from $2$ by $A$ and $B$ respectively. What is the distance between $C$ and $D$? (see figure)
 
 **Answer:** 7
-[[src_kangourou_2016_finale_cadet__QC5]]
+[[Quesiti/src_kangourou_2016_finale_cadet#qc5|src_kangourou_2016_finale_cadet__QC5]]
 
 
 
@@ -277,4 +277,4 @@ This is the total number of units in the unit.
 > In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceding and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
 
 **Answer:** 2
-[[src_kangourou_2016_finale_cadet__QC6]]
+[[Quesiti/src_kangourou_2016_finale_cadet#qc6|src_kangourou_2016_finale_cadet__QC6]]

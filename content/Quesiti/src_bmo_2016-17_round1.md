@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti su una lavagna, ognuna apparendo esattamente una volta. Ciascuna delle cifre da $0$ a $9$ appare molte volte nell'elenco. Quante cifre della lista sono strane?
 
-[[src_bmo_2016-17_round1__Q01]]
+[[Quesiti/src_bmo_2016-17_round1#q01|src_bmo_2016-17_round1__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 1
 > 
 > Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$n \cdot f(m) = m \cdot f(n).$$
 
-[[src_bmo_2016-17_round1__Q02]]
+[[Quesiti/src_bmo_2016-17_round1#q02|src_bmo_2016-17_round1__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: BMO Round 1
 
 > Determinare tutte le coppie $(m, n)$ di integri positivi in modo tale che $m^2 - n$ e $n^2 - m$ siano entrambi quadrati perfetti.
 
-[[src_bmo_2016-17_round1__Q03]]
+[[Quesiti/src_bmo_2016-17_round1#q03|src_bmo_2016-17_round1__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: BMO Round 1
 > 
 > Prove che $\angle BDM = 90^\circ$.
 
-[[src_bmo_2016-17_round1__Q04]]
+[[Quesiti/src_bmo_2016-17_round1#q04|src_bmo_2016-17_round1__Q04]]
 
 
 
@@ -154,7 +154,7 @@ Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
 > 
 > Naomi sostiene di poter sempre vincere la partita qualunque sia la strategia che utilizza Tom. - Ha ragione? Giustifica la tua risposta.
 
-[[src_bmo_2016-17_round1__Q05]]
+[[Quesiti/src_bmo_2016-17_round1#q05|src_bmo_2016-17_round1__Q05]]
 
 
 
@@ -181,4 +181,4 @@ Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
 
 > I numeri interi positivi consecutivi $m, m+1, m+2, \ldots, m+n$ sono assegnati ai vertici di ungon regolare $(n+1)$, un intero per vertice. Per ogni lato e diagonale del poligono, calcoliamo la differenza assoluta dei numeri interi ai due punti finali. Che $S$ sia la somma di tutte queste differenze assolute. Determinare il minimo valore possibile di $S$ in termini di $n$.
 
-[[src_bmo_2016-17_round1__Q06]]
+[[Quesiti/src_bmo_2016-17_round1#q06|src_bmo_2016-17_round1__Q06]]

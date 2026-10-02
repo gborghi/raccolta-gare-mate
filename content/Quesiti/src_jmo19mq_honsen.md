@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Trova tutti gli integri positivi $n$ in modo tale che $2^n + n$ divida $8^n + n^n$.
 
-[[src_jmo19mq_honsen__Q01]]
+[[Quesiti/src_jmo19mq_honsen#q01|src_jmo19mq_honsen__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: JMO Honsen
 
 > $N$ sia un numero intero positivo. Su una lavagna, finitamente molti numeri interi sono scritti soddisfacendo le seguenti tre condizioni: \begin{itemize} \item Ogni numero scritto è almeno $1$ e al massimo $N$. \item Per ogni numero intero $m$ con $1 \le m \le N$, è scritta almeno una copia di $m$. \item La somma di tutti i numeri scritti è pari. \end{itemize} Prova che si può etichettare ogni numero scritto con $\bigcirc$ o $\times$ in modo che la somma dei numeri etichettati $\bigcirc$ sia uguale alla somma dei numeri etichettati $\times$.
 
-[[src_jmo19mq_honsen__Q02]]
+[[Quesiti/src_jmo19mq_honsen#q02|src_jmo19mq_honsen__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: JMO Honsen
 
 > Che $k \ge 2$ sia un intero, che $n_1, n_2, n_3$ sia un intero positivo e che $a_1, a_2, a_3$ sia un intero che soddisfa $1 \le a_i \le k-1$. Definire $$b_i = a_i \sum_{j=0}^{n_i} k^j \quad (i = 1, 2, 3).$$ Trovare tutti i triples $(n_1, n_2, n_3)$ in modo tale che $b_1 b_2 = b_3$.
 
-[[src_jmo19mq_honsen__Q03]]
+[[Quesiti/src_jmo19mq_honsen#q03|src_jmo19mq_honsen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JMO Honsen
 
 > $\Gamma$ sia il circoncircolo del triangolo $ABC$. Il $\omega$ deve essere un cerchio centrato a $O$ che sia tangente internamente a $\Gamma$ e tangente lateralmente a $BC$ al punto $P$. Il $Q$ deve essere il punto sull'arco $BC$ di $\Gamma$ non contenente $A$. Dato che $\angle BAO = \angle CAO$ (cioè $AO$ bisecta $\angle BAC$), dimostrare che $\angle PAO = \angle QAO$.
 
-[[src_jmo19mq_honsen__Q04]]
+[[Quesiti/src_jmo19mq_honsen#q04|src_jmo19mq_honsen__Q04]]
 
 
 
@@ -151,4 +151,4 @@ level: JMO Honsen
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali non negativi che assumono valori reali non negativi in modo tale che per tutti i numeri reali non negativi $x$ e $y$, $$f(x^2) + f(y) = f\!\left(x^2 + y + x f(4y)\right)$$ sia valido.
 
-[[src_jmo19mq_honsen__Q05]]
+[[Quesiti/src_jmo19mq_honsen#q05|src_jmo19mq_honsen__Q05]]

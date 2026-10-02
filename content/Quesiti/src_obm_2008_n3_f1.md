@@ -21,7 +21,7 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{3}{5}$ (B) $\dfrac{4}{5}$ (C) $1$ (D) $\dfrac{5}{4}$ (E) $\dfrac{5}{3}$
 
-![[src_obm_2008_n3_f1__Q01.png]]
+![[src_obm_2008_n3_f1__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -38,9 +38,9 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{3}{5}$ (B) $\dfrac{4}{5}$ (C) $1$ (D) $\dfrac{5}{4}$ (E) $\dfrac{5}{3}$
 
-![[src_obm_2008_n3_f1__Q01.png]]
+![[src_obm_2008_n3_f1__q01.png]]
 
-[[src_obm_2008_n3_f1__Q01]]
+[[Quesiti/src_obm_2008_n3_f1#q01|src_obm_2008_n3_f1__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 3
 > (A) $\dfrac{1}{x}$ (B) $\dfrac{1}{x(x+1)}$ (C) $\dfrac{1}{1+\dfrac{1}{1+\dfrac{1}{x}}}$ (D) $x$ (E) $\dfrac{x}{x+\dfrac{1}{x}}$
 
 **Risposta:** A
-[[src_obm_2008_n3_f1__Q02]]
+[[Quesiti/src_obm_2008_n3_f1#q02|src_obm_2008_n3_f1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{9}{81}$ (B) $\dfrac{9}{80}$ (C) $\dfrac{81}{9}$ (D) $\dfrac{82}{9}$ (E) $9$
 
-![[src_obm_2008_n3_f1__Q03.png]]
+![[src_obm_2008_n3_f1__q03.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -109,10 +109,10 @@ level: OBM Nível 3
 > 
 > (A) $\dfrac{9}{81}$ (B) $\dfrac{9}{80}$ (C) $\dfrac{81}{9}$ (D) $\dfrac{82}{9}$ (E) $9$
 
-![[src_obm_2008_n3_f1__Q03.png]]
+![[src_obm_2008_n3_f1__q03.png]]
 
 **Risposta:** D
-[[src_obm_2008_n3_f1__Q03]]
+[[Quesiti/src_obm_2008_n3_f1#q03|src_obm_2008_n3_f1__Q03]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 3
 > (A) $12$ (B) $14$ (C) $15$ (D) $16$ (E) $18$
 
 **Risposta:** A
-[[src_obm_2008_n3_f1__Q04]]
+[[Quesiti/src_obm_2008_n3_f1#q04|src_obm_2008_n3_f1__Q04]]
 
 
 
@@ -178,7 +178,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) Non è possibile ottenere $100$ con queste carte.
 
 **Risposta:** C
-[[src_obm_2008_n3_f1__Q05]]
+[[Quesiti/src_obm_2008_n3_f1#q05|src_obm_2008_n3_f1__Q05]]
 
 
 
@@ -209,7 +209,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $30$ (B) $60$ (C) $15$ (D) $10$ (E) $6$
 
-[[src_obm_2008_n3_f1__Q06]]
+[[Quesiti/src_obm_2008_n3_f1#q06|src_obm_2008_n3_f1__Q06]]
 
 
 
@@ -241,7 +241,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > (A) $500$ (B) $504$ (C) $112$ (D) $56$ (E) $70$
 
 **Risposta:** B
-[[src_obm_2008_n3_f1__Q07]]
+[[Quesiti/src_obm_2008_n3_f1#q07|src_obm_2008_n3_f1__Q07]]
 
 
 
@@ -272,7 +272,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $4$ (B) $5$ (C) $6$ (D) $7$ (E) $8$
 
-[[src_obm_2008_n3_f1__Q08]]
+[[Quesiti/src_obm_2008_n3_f1#q08|src_obm_2008_n3_f1__Q08]]
 
 
 
@@ -303,7 +303,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $15$ (B) $16$ (C) $17$ (D) $18$ (E) $19$
 
-[[src_obm_2008_n3_f1__Q09]]
+[[Quesiti/src_obm_2008_n3_f1#q09|src_obm_2008_n3_f1__Q09]]
 
 
 
@@ -334,7 +334,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $5$ (B) $7$ (C) $9$ (D) $11$ (E) $12$
 
-[[src_obm_2008_n3_f1__Q10]]
+[[Quesiti/src_obm_2008_n3_f1#q10|src_obm_2008_n3_f1__Q10]]
 
 
 
@@ -365,7 +365,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > A) uno B) due C) tre D) quattro E) cinque
 
-[[src_obm_2008_n3_f1__Q11]]
+[[Quesiti/src_obm_2008_n3_f1#q11|src_obm_2008_n3_f1__Q11]]
 
 
 
@@ -396,7 +396,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 > 
 > (A) $6$ (B) $12$ (C) $13$ (D) $14$ (E) $16$
 
-[[src_obm_2008_n3_f1__Q12]]
+[[Quesiti/src_obm_2008_n3_f1#q12|src_obm_2008_n3_f1__Q12]]
 
 
 
@@ -429,7 +429,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$ (E) $8$
 
-[[src_obm_2008_n3_f1__Q13]]
+[[Quesiti/src_obm_2008_n3_f1#q13|src_obm_2008_n3_f1__Q13]]
 
 
 
@@ -460,7 +460,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $\dfrac{39!}{26!\,52!}$ (B) $\dfrac{26!}{13!\,39!}$ (C) $\dfrac{39!\,39!}{26!\,52!}$ (D) $\dfrac{26!\,26!}{13!\,39!}$ (E) $\dfrac{39!\,13!}{52!}$
 
-[[src_obm_2008_n3_f1__Q14]]
+[[Quesiti/src_obm_2008_n3_f1#q14|src_obm_2008_n3_f1__Q14]]
 
 
 
@@ -475,7 +475,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $16$ (B) $25$ (C) $30$ (D) $60$ (E) $120$
 
-![[src_obm_2008_n3_f1__Q15.png]]
+![[src_obm_2008_n3_f1__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -493,9 +493,9 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $16$ (B) $25$ (C) $30$ (D) $60$ (E) $120$
 
-![[src_obm_2008_n3_f1__Q15.png]]
+![[src_obm_2008_n3_f1__q15.png]]
 
-[[src_obm_2008_n3_f1__Q15]]
+[[Quesiti/src_obm_2008_n3_f1#q15|src_obm_2008_n3_f1__Q15]]
 
 
 
@@ -525,7 +525,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $40^\circ$ (B) $45^\circ$ (C) $50^\circ$ (D) $55^\circ$ (E) $60^\circ$
 
-[[src_obm_2008_n3_f1__Q16]]
+[[Quesiti/src_obm_2008_n3_f1#q16|src_obm_2008_n3_f1__Q16]]
 
 
 
@@ -555,7 +555,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $\dfrac{16}{5}$ (B) $\dfrac{12}{5}$ (C) $\dfrac{8}{3}$ (D) $\dfrac{9}{2}$ (E) $\dfrac{9}{4}$
 
-[[src_obm_2008_n3_f1__Q17]]
+[[Quesiti/src_obm_2008_n3_f1#q17|src_obm_2008_n3_f1__Q17]]
 
 
 
@@ -585,7 +585,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{3}{2}$ (D) $\dfrac{8}{9}$ (E) $\dfrac{4}{5}$
 
-[[src_obm_2008_n3_f1__Q18]]
+[[Quesiti/src_obm_2008_n3_f1#q18|src_obm_2008_n3_f1__Q18]]
 
 
 
@@ -618,7 +618,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$
 
-[[src_obm_2008_n3_f1__Q19]]
+[[Quesiti/src_obm_2008_n3_f1#q19|src_obm_2008_n3_f1__Q19]]
 
 
 
@@ -649,7 +649,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $1284$ (B) $1024$ (C) $849$ (D) $1109$ (E) $729$
 
-[[src_obm_2008_n3_f1__Q20]]
+[[Quesiti/src_obm_2008_n3_f1#q20|src_obm_2008_n3_f1__Q20]]
 
 
 
@@ -680,7 +680,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$
 
-[[src_obm_2008_n3_f1__Q21]]
+[[Quesiti/src_obm_2008_n3_f1#q21|src_obm_2008_n3_f1__Q21]]
 
 
 
@@ -695,7 +695,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $1$ (B) $2$ (C) $5 - \sqrt[3]{98}$ (D) $\sqrt[3]{98}$ (E) $1 - \dfrac{\sqrt[3]{98}}{5}$
 
-![[src_obm_2008_n3_f1__Q22.png]]
+![[src_obm_2008_n3_f1__q22.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -712,9 +712,9 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $1$ (B) $2$ (C) $5 - \sqrt[3]{98}$ (D) $\sqrt[3]{98}$ (E) $1 - \dfrac{\sqrt[3]{98}}{5}$
 
-![[src_obm_2008_n3_f1__Q22.png]]
+![[src_obm_2008_n3_f1__q22.png]]
 
-[[src_obm_2008_n3_f1__Q22]]
+[[Quesiti/src_obm_2008_n3_f1#q22|src_obm_2008_n3_f1__Q22]]
 
 
 
@@ -729,7 +729,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
 
-![[src_obm_2008_n3_f1__Q23.png]]
+![[src_obm_2008_n3_f1__q23.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -747,9 +747,9 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
 
-![[src_obm_2008_n3_f1__Q23.png]]
+![[src_obm_2008_n3_f1__q23.png]]
 
-[[src_obm_2008_n3_f1__Q23]]
+[[Quesiti/src_obm_2008_n3_f1#q23|src_obm_2008_n3_f1__Q23]]
 
 
 
@@ -780,7 +780,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $256$ (B) $768$ (C) $1260$ (D) $512$ (E) $2560$
 
-[[src_obm_2008_n3_f1__Q24]]
+[[Quesiti/src_obm_2008_n3_f1#q24|src_obm_2008_n3_f1__Q24]]
 
 
 
@@ -817,4 +817,4 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 > 
 > (A) $9$ (B) $16$ (C) $25$ (D) $36$ (E) $49$
 
-[[src_obm_2008_n3_f1__Q25]]
+[[Quesiti/src_obm_2008_n3_f1#q25|src_obm_2008_n3_f1__Q25]]

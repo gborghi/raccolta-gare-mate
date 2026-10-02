@@ -44,7 +44,7 @@ level: OBM Nível 2
 > (A) 1001 $\quad$ (B) 2007 $\quad$ (C) 2009 $\quad$ (D) 4008 $\quad$ (E) 4014
 
 **Risposta:** E
-[[src_obm_2007_n2_f1__Q01]]
+[[Quesiti/src_obm_2007_n2_f1#q01|src_obm_2007_n2_f1__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: OBM Nível 2
 > 
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
-![[src_obm_2007_n2_f1__Q02.png]]
+![[src_obm_2007_n2_f1__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
@@ -77,10 +77,10 @@ level: OBM Nível 2
 > 
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
-![[src_obm_2007_n2_f1__Q02.png]]
+![[src_obm_2007_n2_f1__q02.png]]
 
 **Risposta:** E
-[[src_obm_2007_n2_f1__Q02]]
+[[Quesiti/src_obm_2007_n2_f1#q02|src_obm_2007_n2_f1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 2
 > 
 > (A) $80^\circ$ $\quad$ (B) $90^\circ$ $\quad$ (C) $100^\circ$ $\quad$ (D) $110^\circ$ $\quad$ (E) $120^\circ$
 
-![[src_obm_2007_n2_f1__Q03.png]]
+![[src_obm_2007_n2_f1__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -113,10 +113,10 @@ level: OBM Nível 2
 > 
 > (A) $80^\circ$ $\quad$ (B) $90^\circ$ $\quad$ (C) $100^\circ$ $\quad$ (D) $110^\circ$ $\quad$ (E) $120^\circ$
 
-![[src_obm_2007_n2_f1__Q03.png]]
+![[src_obm_2007_n2_f1__q03.png]]
 
 **Risposta:** D
-[[src_obm_2007_n2_f1__Q03]]
+[[Quesiti/src_obm_2007_n2_f1#q03|src_obm_2007_n2_f1__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível 2
 > (A) $5:1$ $\quad$ (B) $16:1$ $\quad$ (C) $12:1$ $\quad$ (D) $40:3$ $\quad$ (E) $13:1$
 
 **Risposta:** D
-[[src_obm_2007_n2_f1__Q04]]
+[[Quesiti/src_obm_2007_n2_f1#q04|src_obm_2007_n2_f1__Q04]]
 
 
 
@@ -180,7 +180,7 @@ level: OBM Nível 2
 > (A) 200 $\quad$ (B) 260 $\quad$ (C) 93 $\quad$ (D) 223 $\quad$ (E) 300
 
 **Risposta:** B
-[[src_obm_2007_n2_f1__Q05]]
+[[Quesiti/src_obm_2007_n2_f1#q05|src_obm_2007_n2_f1__Q05]]
 
 
 
@@ -213,7 +213,7 @@ level: OBM Nível 2
 > (A) 3 $\quad$ (B) 12 $\quad$ (C) 36 $\quad$ (D) 54 $\quad$ (E) 108
 
 **Risposta:** E
-[[src_obm_2007_n2_f1__Q06]]
+[[Quesiti/src_obm_2007_n2_f1#q06|src_obm_2007_n2_f1__Q06]]
 
 
 
@@ -228,7 +228,7 @@ level: OBM Nível 2
 > 
 > (A) 200 $\quad$ (B) $10\sqrt{5}$ $\quad$ (C) 100 $\quad$ (D) $\dfrac{500}{3}$ $\quad$ (E) $\dfrac{100}{3}$
 
-![[src_obm_2007_n2_f1__Q07.png]]
+![[src_obm_2007_n2_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -246,10 +246,10 @@ level: OBM Nível 2
 > 
 > (A) 200 $\quad$ (B) $10\sqrt{5}$ $\quad$ (C) 100 $\quad$ (D) $\dfrac{500}{3}$ $\quad$ (E) $\dfrac{100}{3}$
 
-![[src_obm_2007_n2_f1__Q07.png]]
+![[src_obm_2007_n2_f1__q07.png]]
 
 **Risposta:** D
-[[src_obm_2007_n2_f1__Q07]]
+[[Quesiti/src_obm_2007_n2_f1#q07|src_obm_2007_n2_f1__Q07]]
 
 
 
@@ -282,7 +282,7 @@ level: OBM Nível 2
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
 
 **Risposta:** C
-[[src_obm_2007_n2_f1__Q08]]
+[[Quesiti/src_obm_2007_n2_f1#q08|src_obm_2007_n2_f1__Q08]]
 
 
 
@@ -315,7 +315,7 @@ level: OBM Nível 2
 > (A) 4017 $\quad$ (B) 220 $\quad$ (C) 4095 $\quad$ (D) 66 $\quad$ (E) 3572
 
 **Risposta:** C
-[[src_obm_2007_n2_f1__Q09]]
+[[Quesiti/src_obm_2007_n2_f1#q09|src_obm_2007_n2_f1__Q09]]
 
 
 
@@ -348,7 +348,7 @@ level: OBM Nível 2
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
 **Risposta:** C
-[[src_obm_2007_n2_f1__Q10]]
+[[Quesiti/src_obm_2007_n2_f1#q10|src_obm_2007_n2_f1__Q10]]
 
 
 
@@ -381,7 +381,7 @@ level: OBM Nível 2
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2007 $\quad$ (D) 2008 $\quad$ (E) 2007
 
 **Risposta:** B
-[[src_obm_2007_n2_f1__Q11]]
+[[Quesiti/src_obm_2007_n2_f1#q11|src_obm_2007_n2_f1__Q11]]
 
 
 
@@ -414,7 +414,7 @@ level: OBM Nível 2
 > (A) 80 $\quad$ (B) 81 $\quad$ (C) 84 $\quad$ (D) 90 $\quad$ (E) 100
 
 **Risposta:** B
-[[src_obm_2007_n2_f1__Q12]]
+[[Quesiti/src_obm_2007_n2_f1#q12|src_obm_2007_n2_f1__Q12]]
 
 
 
@@ -447,7 +447,7 @@ level: OBM Nível 2
 > (A) 767 $\quad$ (B) 875 $\quad$ (C) 876 $\quad$ (D) 974 $\quad$ (E) 975
 
 **Risposta:** A
-[[src_obm_2007_n2_f1__Q13]]
+[[Quesiti/src_obm_2007_n2_f1#q13|src_obm_2007_n2_f1__Q13]]
 
 
 
@@ -462,7 +462,7 @@ level: OBM Nível 2
 > 
 > (A) $3\sqrt{2}$ $\quad$ (B) $4\sqrt{2}$ $\quad$ (C) 6 $\quad$ (D) $6\sqrt{2}$ $\quad$ (E) 8
 
-![[src_obm_2007_n2_f1__Q14.png]]
+![[src_obm_2007_n2_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -480,10 +480,10 @@ level: OBM Nível 2
 > 
 > (A) $3\sqrt{2}$ $\quad$ (B) $4\sqrt{2}$ $\quad$ (C) 6 $\quad$ (D) $6\sqrt{2}$ $\quad$ (E) 8
 
-![[src_obm_2007_n2_f1__Q14.png]]
+![[src_obm_2007_n2_f1__q14.png]]
 
 **Risposta:** D
-[[src_obm_2007_n2_f1__Q14]]
+[[Quesiti/src_obm_2007_n2_f1#q14|src_obm_2007_n2_f1__Q14]]
 
 
 
@@ -516,7 +516,7 @@ level: OBM Nível 2
 > (A) 180 $\quad$ (B) 150 $\quad$ (C) 120 $\quad$ (D) 182 $\quad$ (E) 75
 
 **Risposta:** A
-[[src_obm_2007_n2_f1__Q15]]
+[[Quesiti/src_obm_2007_n2_f1#q15|src_obm_2007_n2_f1__Q15]]
 
 
 
@@ -531,7 +531,7 @@ level: OBM Nível 2
 > 
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 49 $\quad$ (D) 64 $\quad$ (E) 81
 
-![[src_obm_2007_n2_f1__Q16.png]]
+![[src_obm_2007_n2_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -550,10 +550,10 @@ level: OBM Nível 2
 > 
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 49 $\quad$ (D) 64 $\quad$ (E) 81
 
-![[src_obm_2007_n2_f1__Q16.png]]
+![[src_obm_2007_n2_f1__q16.png]]
 
 **Risposta:** B
-[[src_obm_2007_n2_f1__Q16]]
+[[Quesiti/src_obm_2007_n2_f1#q16|src_obm_2007_n2_f1__Q16]]
 
 
 
@@ -588,7 +588,7 @@ level: OBM Nível 2
 > (A) 2 $\quad$ (B) 3 $\quad$ (C) 4 $\quad$ (D) 5 $\quad$ (E) 6
 
 **Risposta:** C
-[[src_obm_2007_n2_f1__Q17]]
+[[Quesiti/src_obm_2007_n2_f1#q17|src_obm_2007_n2_f1__Q17]]
 
 
 
@@ -604,7 +604,7 @@ level: OBM Nível 2
 > 
 > (A) West $\quad$ (B) East $\quad$ (C) North $\quad$ (D) South $\quad$ (E) Up
 
-![[src_obm_2007_n2_f1__Q18.png]]
+![[src_obm_2007_n2_f1__q18.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -622,9 +622,9 @@ level: OBM Nível 2
 > 
 > A) Occidente $\quad$ B) Est $\quad$ C) Nord $\quad$ D) Sud $\quad$ E) Su
 
-![[src_obm_2007_n2_f1__Q18.png]]
+![[src_obm_2007_n2_f1__q18.png]]
 
-[[src_obm_2007_n2_f1__Q18]]
+[[Quesiti/src_obm_2007_n2_f1#q18|src_obm_2007_n2_f1__Q18]]
 
 
 
@@ -665,7 +665,7 @@ level: OBM Nível 2
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
 **Risposta:** D
-[[src_obm_2007_n2_f1__Q19]]
+[[Quesiti/src_obm_2007_n2_f1#q19|src_obm_2007_n2_f1__Q19]]
 
 
 
@@ -698,7 +698,7 @@ level: OBM Nível 2
 > (A) 8 $\quad$ (B) 9 $\quad$ (C) 10 $\quad$ (D) 11 $\quad$ (E) 12
 
 **Risposta:** B
-[[src_obm_2007_n2_f1__Q20]]
+[[Quesiti/src_obm_2007_n2_f1#q20|src_obm_2007_n2_f1__Q20]]
 
 
 
@@ -731,7 +731,7 @@ level: OBM Nível 2
 > (A) 02h30 $\quad$ (B) 06h20 $\quad$ (C) 05h40 $\quad$ (D) 08h50 $\quad$ (E) 09h55
 
 **Risposta:** E
-[[src_obm_2007_n2_f1__Q21]]
+[[Quesiti/src_obm_2007_n2_f1#q21|src_obm_2007_n2_f1__Q21]]
 
 
 
@@ -764,7 +764,7 @@ level: OBM Nível 2
 > (A) 3 $\quad$ (B) 33 $\quad$ (C) 37 $\quad$ (D) 11 $\quad$ (E) 101
 
 **Risposta:** E
-[[src_obm_2007_n2_f1__Q22]]
+[[Quesiti/src_obm_2007_n2_f1#q22|src_obm_2007_n2_f1__Q22]]
 
 
 
@@ -779,7 +779,7 @@ level: OBM Nível 2
 > 
 > (A) 1 $\quad$ (B) $\dfrac{6}{7}$ $\quad$ (C) $\dfrac{3}{4}$ $\quad$ (D) $\dfrac{2}{3}$ $\quad$ (E) $\dfrac{3}{5}$
 
-![[src_obm_2007_n2_f1__Q23.png]]
+![[src_obm_2007_n2_f1__q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -797,9 +797,9 @@ level: OBM Nível 2
 > 
 > (A) 1 $\quad$ (B) $\dfrac{6}{7}$ $\quad$ (C) $\dfrac{3}{4}$ $\quad$ (D) $\dfrac{2}{3}$ $\quad$ (E) $\dfrac{3}{5}$
 
-![[src_obm_2007_n2_f1__Q23.png]]
+![[src_obm_2007_n2_f1__q23.png]]
 
-[[src_obm_2007_n2_f1__Q23]]
+[[Quesiti/src_obm_2007_n2_f1#q23|src_obm_2007_n2_f1__Q23]]
 
 
 
@@ -830,7 +830,7 @@ level: OBM Nível 2
 > 
 > (A) Moltiplo di 3 $\quad$ (B) Primo $\quad$ (C) Con ultima cifra uguale a 7 $\quad$ (D) La cui somma di cifre è 10 $\quad$ (E) Moltiplo di 7
 
-[[src_obm_2007_n2_f1__Q24]]
+[[Quesiti/src_obm_2007_n2_f1#q24|src_obm_2007_n2_f1__Q24]]
 
 
 
@@ -861,4 +861,4 @@ level: OBM Nível 2
 > 
 > (A) 44 $\quad$ (B) 54 $\quad$ (C) 64 $\quad$ (D) 77 $\quad$ (E) 84
 
-[[src_obm_2007_n2_f1__Q25]]
+[[Quesiti/src_obm_2007_n2_f1#q25|src_obm_2007_n2_f1__Q25]]

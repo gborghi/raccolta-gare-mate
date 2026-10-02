@@ -33,7 +33,7 @@ Convex quadrilateral diagonals and sides sum conditions
 
 > In a convex quadrilateral plane of area 32, the sum of the lengths of two opposite sides and one diagonal is 16. Determine all possible lengths of the other diagonal.
 
-[[src_imho_1976__Q01]]
+[[Quesiti/src_imho_1976#q01|src_imho_1976__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Convex quadrilateral diagonals and sides sum conditions
 
 > Let $P_1(x) = x^2 - 2$ and $P_j(x) = P_1(P_{j-1}(x))$ for $j = 2, 3, \ldots$ Show that, for any positive integer $n$, the roots of the equation $P_n(x) = x$ are real and distinct.
 
-[[src_imho_1976__Q02]]
+[[Quesiti/src_imho_1976#q02|src_imho_1976__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Convex quadrilateral diagonals and sides sum conditions
 
 > A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume 2, in the box, so that their edges are parallel to the edges of the box, one can fill exactly 40% of the box. Determine the possible dimensions of all such boxes.
 
-[[src_imho_1976__Q03]]
+[[Quesiti/src_imho_1976#q03|src_imho_1976__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Convex quadrilateral diagonals and sides sum conditions
 
 > Determine, with proof, the largest number which is the product of positive integers whose sum is 1976.
 
-[[src_imho_1976__Q04]]
+[[Quesiti/src_imho_1976#q04|src_imho_1976__Q04]]
 
 
 
@@ -149,7 +149,7 @@ Convex quadrilateral diagonals and sides sum conditions
 
 > Consider the system of $p$ equations in $q = 2p$ unknowns $x_1, x_2, \ldots, x_q$: $$a_{11}x_1 + a_{12}x_2 + \cdots + a_{1q}x_q = 0$$ $$a_{21}x_1 + a_{22}x_2 + \cdots + a_{2q}x_q = 0$$ $$\vdots$$ $$a_{p1}x_1 + a_{p2}x_2 + \cdots + a_{pq}x_q = 0$$ with every coefficient $a_{ij}$ member of the set $\{-1, 0, 1\}$. Prove that the system has a solution $(x_1, x_2, \ldots, x_q)$ such that (a) all $x_j$ ($j = 1, 2, \ldots, q$) are integers, (b) there is at least one value of $j$ for which $x_j \neq 0$, (c) $|x_j| \le q$ ($j = 1, 2, \ldots, q$).
 
-[[src_imho_1976__Q05]]
+[[Quesiti/src_imho_1976#q05|src_imho_1976__Q05]]
 
 
 
@@ -180,4 +180,4 @@ Convex quadrilateral diagonals and sides sum conditions
 
 > The sequence $\{u_n\}$ is defined by $$u_0 = 2,\quad u_1 = \tfrac{5}{2},\quad u_{n+1} = u_n(u_{n-1}^2 - 2) - u_1 \quad \text{for } n = 1, 2, \ldots$$ Prove that for positive integers $n$, $$[u_n] = 2^{[2^n - (-1)^n]/3}$$ where $[x]$ denotes the greatest integer $\le x$.
 
-[[src_imho_1976__Q06]]
+[[Quesiti/src_imho_1976#q06|src_imho_1976__Q06]]

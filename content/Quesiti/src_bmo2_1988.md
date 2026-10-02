@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > $ABC$ è un triangolo equilaterale. Il cerchio $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è il cerchio su $AB$ come diametro. Un cerchio con il centro $P$ su $AC$ tocca $\Gamma_1$ internamente a $C$ e $\Gamma_2$ esternamente a $Q$. Indicare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
 
-[[src_bmo2_1988__Q01]]
+[[Quesiti/src_bmo2_1988#q01|src_bmo2_1988__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > Un gruppo di persone $10$ costituito da coppie sposate $5$ è diviso in coppie $5$. Una coppia può essere composta da due uomini, due donne o da un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questo accordo se l'ordine, come sopra, è insignificante? Spiega attentamente il tuo ragionamento.
 
-[[src_bmo2_1988__Q02]]
+[[Quesiti/src_bmo2_1988#q02|src_bmo2_1988__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: BMO Round 2
 > 
 > Usando le prime due equazioni si esprime $z$ in termini di $a$, $b$, $x$, $y$. Prove che $$x^2(1 - b^2) = y^2(1 - a^2) = xy(ab - c)$$ e quindi trova il valore di $a^4 + b^4 + c^4 - 2abc$ (indipendentemente da $x$, $y$, $z$).
 
-[[src_bmo2_1988__Q03]]
+[[Quesiti/src_bmo2_1988#q03|src_bmo2_1988__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: BMO Round 2
 
 > Trova, con prova, tutte le soluzioni di $$\frac{1}{x} + \frac{2}{y} - \frac{3}{z} = 1$$ dove $x$, $y$, $z$ sono integri positivi.
 
-[[src_bmo2_1988__Q04]]
+[[Quesiti/src_bmo2_1988#q04|src_bmo2_1988__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: BMO Round 2
 
 > $L$ e $M$ sono due linee skew nello spazio, cioè non si incontrano né sono parallele. $A$, $B$ sono i punti di $L$ e $M$ rispettivamente in modo tale che $AB$ sia perpendicolare sia a $L$ che a $M$. I punti $P$ su $L$, $Q$ su $M$ variano in modo tale che $$P \neq A, \quad Q \neq B, \quad PQ \text{ is of constant length}.$$ Mostri che il centro della sfera attraverso $A$, $B$, $P$, $Q$ si trova su un cerchio fisso con il centro del punto medio di $AB$.
 
-[[src_bmo2_1988__Q05]]
+[[Quesiti/src_bmo2_1988#q05|src_bmo2_1988__Q05]]
 
 
 
@@ -190,4 +190,4 @@ level: BMO Round 2
 
 > Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1^2 + a_2^2}, \quad b = \sqrt{b_1^2 + b_2^2}, \quad c = \sqrt{c_1^2 + c_2^2}$$ sono anche le lunghezze dei lati di un triangolo.
 
-[[src_bmo2_1988__Q06]]
+[[Quesiti/src_bmo2_1988#q06|src_bmo2_1988__Q06]]

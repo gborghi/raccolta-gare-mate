@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Indicare che esiste un intero positivo $n > 2003$ per il quale la sequenza $a_k = \binom{n}{k}$, $k = 0, 1, \ldots, 2003$, ha la seguente proprietà: $a_k$ divide $a_m$ ogni volta che $0 \le k \le m \le 2003$.
 
-[[src_pol_2003_r2__Q01]]
+[[Quesiti/src_pol_2003_r2#q01|src_pol_2003_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > Un quadrilaterale $ABCD$ è inserito in un cerchio $o$. I bisettori degli angoli $DAB$ e $ABC$ si incontrano a $P$, e i bisettori degli angoli $BCD$ e $CDA$ si incontrano a $Q$. Il $M$ deve essere il punto medio dell'arco $BC$ di $o$ non contenente $D$ e $A$, e $N$ deve essere il punto medio dell'arco $DA$ di $o$ non contenente $B$ e $C$. Provare che la linea che attraversa $P$ e $Q$ è perpendicolare a $MN$.
 
-[[src_pol_2003_r2__Q02]]
+[[Quesiti/src_pol_2003_r2#q02|src_pol_2003_r2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 2
 
 > Considerate il polinomio $W(x) = x^4 - 3x^3 + 5x^2 - 9x$. Trova tutte le coppie di integri distinti $a, b$ che soddisfano $W(a) = W(b)$.
 
-[[src_pol_2003_r2__Q03]]
+[[Quesiti/src_pol_2003_r2#q03|src_pol_2003_r2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 2
 
 > Indicare che per ogni primo $p > 3$ esistono numeri interi $x, y, k$ con $0 < 2k < p$ tali che $kp + 3 = x^2 + y^2$.
 
-[[src_pol_2003_r2__Q04]]
+[[Quesiti/src_pol_2003_r2#q04|src_pol_2003_r2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 2
 
 > Da un punto $A$ esterno a un cerchio $o$ con centro $O$, sono tracciate due linee tangenti che toccano $o$ a $B$ e $C$. Un'altra linea tangente a $o$ incrocia i segmenti $AB$ e $AC$ rispettivamente ai punti $E$ e $F$. Le linee $OE$ e $OF$ soddisfano rispettivamente i segmenti $BC$ a $P$ e $Q$. Prova che i segmenti $BP$, $PQ$ e $QC$ sono lati di un triangolo simile a $\triangle AEF$.
 
-[[src_pol_2003_r2__Q05]]
+[[Quesiti/src_pol_2003_r2#q05|src_pol_2003_r2__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 2
 
 > Una funzione $f$ dalle coppie di integri non negativi ai numeri reali soddisfa le seguenti condizioni: $$f(0,0) = 0, \qquad f(2x,2y) = f(2x+1,2y+1) = f(x,y),$$ $$f(2x+1,2y) = f(2x,2y+1) = f(x,y) + 1$$ per tutti gli integri non negativi $x, y$. $n$ e $a, b$ siano integri non negativi come $f(a,b) = n$. Trova il numero di soluzioni integrali $x$ dell'equazione $f(a,x) + f(b,x) = n$.
 
-[[src_pol_2003_r2__Q06]]
+[[Quesiti/src_pol_2003_r2#q06|src_pol_2003_r2__Q06]]

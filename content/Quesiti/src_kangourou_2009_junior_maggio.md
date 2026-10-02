@@ -34,7 +34,7 @@ level: kangourou
 > *(5 points) * A 10 metre spear shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the target?
 
 **Answer:** 8
-[[src_kangourou_2009_junior_maggio__QJ1]]
+[[Quesiti/src_kangourou_2009_junior_maggio#qj1|src_kangourou_2009_junior_maggio__QJ1]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > *(7 points) * The number $29^n + 4$ is prime? Justify the answer.
 
 **Answer:** no
-[[src_kangourou_2009_junior_maggio__QJ2]]
+[[Quesiti/src_kangourou_2009_junior_maggio#qj2|src_kangourou_2009_junior_maggio__QJ2]]
 
 
 
@@ -92,7 +92,7 @@ level: kangourou
 > *(11 points) * It considers an ordered stack of 5998 sheets numbered from 1 (i.e. the first sheet at the top returns the number 1). Now build a new stack like this: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third, and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
 
 **Answer:** 2000
-[[src_kangourou_2009_junior_maggio__QJ3]]
+[[Quesiti/src_kangourou_2009_junior_maggio#qj3|src_kangourou_2009_junior_maggio__QJ3]]
 
 
 
@@ -103,7 +103,7 @@ level: kangourou
 
 *Cammino minimo della formica e punto piu lontano*
 
-![[src_kangourou_2009_junior_maggio__probJ4.png]]
+![[src_kangourou_2009_junior_maggio__probj4.png]]
 
 > *(14 punti)* Una formica è libera di muoversi sulla superficie di un parallelepipedo rettangolo di dimensioni $1 \times 1 \times 2$ metri, ma non di entrarne all'interno. Partendo da un vertice, vuole raggiungere il vertice antipodo (cioè quello di esso più lontano) muovendosi lungo il cammino più breve possibile: quanta strada deve percorrere? Il vertice opposto è il punto del parallelepipedo più lontano dal vertice di partenza (sempre se si è vincolati a muoversi sulla superficie)?
 
@@ -120,12 +120,12 @@ level: kangourou
 
 *Minimum path of the ant and farthest point *
 
-![[src_kangourou_2009_junior_maggio__probJ4.png]]
+![[src_kangourou_2009_junior_maggio__probj4.png]]
 
 > *(14 points) * An ant is free to move on the surface of a rectangular parallel-piped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a summit, it wants to reach the top of the antipod (i.e. the one farthest from it) by moving along the shortest path possible: how much path should it take? Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
 
 **Answer:** sqrt8
-[[src_kangourou_2009_junior_maggio__QJ4]]
+[[Quesiti/src_kangourou_2009_junior_maggio#qj4|src_kangourou_2009_junior_maggio__QJ4]]
 
 
 
@@ -154,7 +154,7 @@ level: kangourou
 > *(18 points) * Consider a regular polygon of 21 sides. You want to color some vertices red so that, however you choose two pairs of vertices both colored red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
 
 **Answer:** 5
-[[src_kangourou_2009_junior_maggio__QJ5]]
+[[Quesiti/src_kangourou_2009_junior_maggio#qj5|src_kangourou_2009_junior_maggio__QJ5]]
 
 
 
@@ -189,4 +189,4 @@ level: kangourou
 > It justifies both answers.
 
 **Answer:** si,no
-[[src_kangourou_2009_junior_maggio__QJ6]]
+[[Quesiti/src_kangourou_2009_junior_maggio#qj6|src_kangourou_2009_junior_maggio__QJ6]]

@@ -86,7 +86,7 @@ level: Concours Général
 > 
 > \textbf{5.} Ammettiamo la relazione, per ogni reale $x$, $$(2x+12)^3 + (2x+4)^3 + (2x+2)^3 - (2x+10)^3 - (2x+6)^3 - (2x)^3 = 288.$$
 
-[[src_cgen_2016__Q01]]
+[[Quesiti/src_cgen_2016#q01|src_cgen_2016__Q01]]
 
 
 
@@ -125,7 +125,7 @@ level: Concours Général
 > 
 > \textbf{6.} Conclude that if the observer sees the forest through the first row, then he sees out of the forest.
 
-![[src_cgen_2016__Q02.png]]
+![[src_cgen_2016__q02.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -169,9 +169,9 @@ level: Concours Général
 > 
 > Concludere che se l'osservatore vede la foresta attraverso la prima riga, allora vede fuori dalla foresta.
 
-![[src_cgen_2016__Q02.png]]
+![[src_cgen_2016__q02.png]]
 
-[[src_cgen_2016__Q02]]
+[[Quesiti/src_cgen_2016#q02|src_cgen_2016__Q02]]
 
 
 
@@ -305,4 +305,4 @@ level: Concours Général
 > 
 > Conclusione.
 
-[[src_cgen_2016__Q03]]
+[[Quesiti/src_cgen_2016#q03|src_cgen_2016__Q03]]

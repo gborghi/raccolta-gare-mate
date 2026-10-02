@@ -37,7 +37,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Some figures in this addendum have been deleted. You find them! Enter the full number of the first line.
 
 **Answer:** 1283
-[[src_bocconi_semifinale_2009__Q01]]
+[[Quesiti/src_bocconi_semifinale_2009#q01|src_bocconi_semifinale_2009__Q01]]
 
 
 
@@ -52,7 +52,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Disegnate il percorso di Francesco.
 
-![[src_bocconi_semifinale_2009__Q02.png]]
+![[src_bocconi_semifinale_2009__q02.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -71,10 +71,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Draw the route for Francis.
 
-![[src_bocconi_semifinale_2009__Q02.png]]
+![[src_bocconi_semifinale_2009__q02.png]]
 
 **Answer:** (percorso mostrato nella soluzione)
-[[src_bocconi_semifinale_2009__Q02]]
+[[Quesiti/src_bocconi_semifinale_2009#q02|src_bocconi_semifinale_2009__Q02]]
 
 
 
@@ -112,7 +112,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > What will be the day in March when the strange script used by Luke will be identical to the actual number of days?
 
 **Answer:** 22
-[[src_bocconi_semifinale_2009__Q03]]
+[[Quesiti/src_bocconi_semifinale_2009#q03|src_bocconi_semifinale_2009__Q03]]
 
 
 
@@ -152,7 +152,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Indicate a subdivision of the rectangle into four parts containing (each) the five letters A, B, C, D, E and having the same shape (whether rotated or reversed). $$\begin{array}{|c|c|c|c|c|} \hline A & B & C & A & E \\ \hline D & B & C & E & D \\ \hline B & A & E & D & C \\ \hline C & E & B & A & D \\ \hline \end{array}$$
 
 **Answer:** (suddivisione mostrata nella soluzione)
-[[src_bocconi_semifinale_2009__Q04]]
+[[Quesiti/src_bocconi_semifinale_2009#q04|src_bocconi_semifinale_2009__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Quali rombi (piccoli o grandi) si possono contare nel disegno?
 
-![[src_bocconi_semifinale_2009__Q05.png]]
+![[src_bocconi_semifinale_2009__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -182,10 +182,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > What (small or large) bumps can be counted in the drawing?
 
-![[src_bocconi_semifinale_2009__Q05.png]]
+![[src_bocconi_semifinale_2009__q05.png]]
 
 **Answer:** Nel disegno si contano 21 rombi
-[[src_bocconi_semifinale_2009__Q05]]
+[[Quesiti/src_bocconi_semifinale_2009#q05|src_bocconi_semifinale_2009__Q05]]
 
 
 
@@ -200,7 +200,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > In quanti modi Mimì può allora saltare da D a A?
 
-![[src_bocconi_semifinale_2009__Q06.png]]
+![[src_bocconi_semifinale_2009__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -219,10 +219,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > How many ways can Mimi jump from D to A?
 
-![[src_bocconi_semifinale_2009__Q06.png]]
+![[src_bocconi_semifinale_2009__q06.png]]
 
 **Answer:** 12
-[[src_bocconi_semifinale_2009__Q06]]
+[[Quesiti/src_bocconi_semifinale_2009#q06|src_bocconi_semifinale_2009__Q06]]
 
 
 
@@ -256,7 +256,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > What cards does Sara have to play to make sure Sergio's statement is true? $$\boxed{1} \quad A \quad 2 \quad Z$$
 
 **Answer:** Le carte che Sara deve assolutamente girare sono 1 e Z
-[[src_bocconi_semifinale_2009__Q07]]
+[[Quesiti/src_bocconi_semifinale_2009#q07|src_bocconi_semifinale_2009__Q07]]
 
 
 
@@ -269,7 +269,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Colorate nel disegno il maggior numero possibile di dischi in modo da non avere mai quattro dischi colorati ai vertici di un quadrato (con i lati orizzontali o verticali). Magari, c'è più di una soluzione; basta però indicarne una.
 
-![[src_bocconi_semifinale_2009__Q08.png]]
+![[src_bocconi_semifinale_2009__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -286,10 +286,10 @@ Maximum number of coloured discs in a square*
 
 > Color as many discs as possible in the drawing so that you never have four colored discs at the top of a square (with horizontal or vertical sides). There may be more than one solution, but you just have to point to one.
 
-![[src_bocconi_semifinale_2009__Q08.png]]
+![[src_bocconi_semifinale_2009__q08.png]]
 
 **Answer:** (soluzione mostrata nella figura della soluzione)
-[[src_bocconi_semifinale_2009__Q08]]
+[[Quesiti/src_bocconi_semifinale_2009#q08|src_bocconi_semifinale_2009__Q08]]
 
 
 
@@ -304,7 +304,7 @@ Maximum number of coloured discs in a square*
 > - i dieci numeri devono essere tutti diversi e minori di $20$;
 > - in ogni piccolo quadrato, i due "prodotti incrociati" devono essere uguali (per esempio a fianco, abbiano $7 \times 6 = 14 \times 3 = 42$).
 
-![[src_bocconi_semifinale_2009__Q09.png]]
+![[src_bocconi_semifinale_2009__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -321,10 +321,10 @@ Maximum number of coloured discs in a square*
 
 > Complete the diagram discs in such a way as to comply with the following constraints: - the ten numbers must all be different and less than $20$; - in each small square, the two "cross products" must be equal (e.g. side by side, have $7 \times 6 = 14 \times 3 = 42$).
 
-![[src_bocconi_semifinale_2009__Q09.png]]
+![[src_bocconi_semifinale_2009__q09.png]]
 
 **Answer:** (soluzione mostrata nella figura della soluzione)
-[[src_bocconi_semifinale_2009__Q09]]
+[[Quesiti/src_bocconi_semifinale_2009#q09|src_bocconi_semifinale_2009__Q09]]
 
 
 
@@ -353,7 +353,7 @@ Milena's result by exchanging numbers in Carla's numbers
 > Carla and Milena always have to do with numbers. Today, Carla writes three three-digit numbers, using only the digits from 1 to 9 once. Milena plays the same three numbers, but obtains the sum by making the sum by exchanging in each of Carla's numbers the number of units with that of the tens (three digits). If Carla's sum is $135$, what will Milena's result be?
 
 **Answer:** 1566
-[[src_bocconi_semifinale_2009__Q10]]
+[[Quesiti/src_bocconi_semifinale_2009#q10|src_bocconi_semifinale_2009__Q10]]
 
 
 
@@ -386,7 +386,7 @@ Milena's result by exchanging numbers in Carla's numbers
 > How many players took part in the tournament?
 
 **Answer:** 9
-[[src_bocconi_semifinale_2009__Q11]]
+[[Quesiti/src_bocconi_semifinale_2009#q11|src_bocconi_semifinale_2009__Q11]]
 
 
 
@@ -419,7 +419,7 @@ Milena's result by exchanging numbers in Carla's numbers
 > How many lines did Desiderio trace?
 
 **Answer:** 20 oppure 21 oppure 24 oppure 35
-[[src_bocconi_semifinale_2009__Q12]]
+[[Quesiti/src_bocconi_semifinale_2009#q12|src_bocconi_semifinale_2009__Q12]]
 
 
 
@@ -432,7 +432,7 @@ Milena's result by exchanging numbers in Carla's numbers
 
 > Debora ha colorato (in grigio) un disco e decide di colorare la parte colorata in grigio. I punti sulla circonferenza sono equidistanti tra loro. Calcolate l'area della parte colorata in grigio, sapendo che l'area totale del disco è $314 \ \text{cm}^2$ (Se occorre: prendete $3{,}14$ per $\pi$).
 
-![[src_bocconi_semifinale_2009__Q13.png]]
+![[src_bocconi_semifinale_2009__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -449,10 +449,10 @@ Milena's result by exchanging numbers in Carla's numbers
 
 > Deborah colored (in gray) a disc and decided to color the colored part in gray. The points on the circumference are equidistant from each other. Calculate the area of the gray part, knowing that the total area of the disk is $314 \ \text{cm}^2$ (If necessary: take $3{,}14$ for $\pi$).
 
-![[src_bocconi_semifinale_2009__Q13.png]]
+![[src_bocconi_semifinale_2009__q13.png]]
 
 **Answer:** $157 \ \text{cm}^2$
-[[src_bocconi_semifinale_2009__Q13]]
+[[Quesiti/src_bocconi_semifinale_2009#q13|src_bocconi_semifinale_2009__Q13]]
 
 
 
@@ -487,7 +487,7 @@ Box for Jacob's soldiers equal to *
 > How many boxes will Jacob use?
 
 **Answer:** 2 oppure 5 oppure 10
-[[src_bocconi_semifinale_2009__Q14]]
+[[Quesiti/src_bocconi_semifinale_2009#q14|src_bocconi_semifinale_2009__Q14]]
 
 
 
@@ -520,7 +520,7 @@ Box for Jacob's soldiers equal to *
 > What is the ratio of the weights of the two pieces obtained from the large diamond (specifically, the ratio of the weight of the smaller piece to that of the larger piece)? (To give the answer in the form of an irreducible fraction)
 
 **Answer:** $\frac{1}{3}$
-[[src_bocconi_semifinale_2009__Q15]]
+[[Quesiti/src_bocconi_semifinale_2009#q15|src_bocconi_semifinale_2009__Q15]]
 
 
 
@@ -537,7 +537,7 @@ Box for Jacob's soldiers equal to *
 > 
 > Quali sono le tre dimensioni del pacchetto, indicate in ordine crescente?
 
-![[src_bocconi_semifinale_2009__Q16.png]]
+![[src_bocconi_semifinale_2009__q16.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -558,10 +558,10 @@ Box for Jacob's soldiers equal to *
 > 
 > What are the three dimensions of the package, given in increasing order?
 
-![[src_bocconi_semifinale_2009__Q16.png]]
+![[src_bocconi_semifinale_2009__q16.png]]
 
 **Answer:** $(1,4,16)$; $(2,3,14)$; $(2,4,8)$; $(2,5,6)$; $(4,4,4)$
-[[src_bocconi_semifinale_2009__Q16]]
+[[Quesiti/src_bocconi_semifinale_2009#q16|src_bocconi_semifinale_2009__Q16]]
 
 
 
@@ -597,4 +597,4 @@ Box for Jacob's soldiers equal to *
 > What is the maximum area of the $ABC$ triangle?
 
 **Answer:** $33{,}94 \ \text{cm}^2$
-[[src_bocconi_semifinale_2009__Q17]]
+[[Quesiti/src_bocconi_semifinale_2009#q17|src_bocconi_semifinale_2009__Q17]]

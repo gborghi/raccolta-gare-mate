@@ -40,7 +40,7 @@ Maximum dog walk in a ball game
 
 > The walk (points 20) Frank takes the dog for a walk along the east wall of the prison, perfectly straight and 9 km long. They leave the prison gate, right at the beginning of the east wall, side by side, and they start a game: Frank throws the ball, the dog returns it to him, Frank picks it up immediately, and just as instantly the dog starts back behind the ball. For the duration of the game Frank walks at 6 km/h and the dog at 12 km/h. When they reach the end of the wall, they return and continue to play until the gate. How far can Frank get the dog to go by throwing the ball properly? Give the answer in hm.
 
-[[src_gs_2010__Q01]]
+[[Quesiti/src_gs_2010#q01|src_gs_2010__Q01]]
 
 
 
@@ -74,7 +74,7 @@ Maximum dog walk in a ball game
 
 > The queue (points 20) The machine that prints the tickets at the municipal offices in Chicago produces tickets numbered 1 to 99; the number is preceded by a letter of the alphabet, which changes in alphabetical order every 99 prints. To speed up the timing, it is established that each number called can bring as many people to the door as the value indicated on your ticket. For example, the person with the D7 ticket carries with him D8, D9, D10... up to D14. Jake picked up the Q3 ticket, and he just got a call from the person with the L75 ticket. How many people will go with Jake to the door, including him?
 
-[[src_gs_2010__Q02]]
+[[Quesiti/src_gs_2010#q02|src_gs_2010__Q02]]
 
 
 
@@ -117,7 +117,7 @@ Maximum dog walk in a ball game
 
 > The race, I (20 points) Alan, Bob, Claire, and Duncan make a race. Then they're interviewed and each says their own: Alan: Bob is not close to Duncan (in first position). Bob: Alan is not last. Claire: I'm not immediately after Bob (in second position). Duncan: N' and I and Bob have won. However, only one of them is a liar. Elwood knows who's lying and, listening to these phrases, thinks: I know with absolute certainty the order of arrival of the players. Write who's the liar and, next, the order of the players on the podium, using 1 to indicate Alan, 2 to indicate Bob, 3 to indicate Claire and 4 to indicate Duncan.
 
-[[src_gs_2010__Q03]]
+[[Quesiti/src_gs_2010#q03|src_gs_2010__Q03]]
 
 
 
@@ -153,7 +153,7 @@ Maximum dog walk in a ball game
 
 > Murph explains to the three Magic Tones how the money they owe for their performance will be divided, as provided for in the regulations of the Musicians' Union. Murph explains: Half of the money will be divided equally between you, the other half will be allocated to you in proportion to your age in years.Knowing that the older musician will receive, in fact, $40, and that his age is the sum of the ages of the other two, how much in cents of a dollar is the sum to be divided? Team competition  Problem texts  Pag. 1 di 6
 
-[[src_gs_2010__Q04]]
+[[Quesiti/src_gs_2010#q04|src_gs_2010__Q04]]
 
 
 
@@ -187,7 +187,7 @@ Maximum dog walk in a ball game
 
 > Grades (point 30) Very pleased with the results of her 11 pupils, Mother Superior, Director of the Institute of St. Helen of the Blessed Shroud assigns each of them a different number between 7 and 17 and tests them with a problem: she writes the number 360360 on the board. Then he explains: This is the product of the numbers for the students who took 10, everyone else took 8.What is the sum of the numbers assigned to the students who did not take 10?
 
-[[src_gs_2010__Q05]]
+[[Quesiti/src_gs_2010#q05|src_gs_2010__Q05]]
 
 
 
@@ -219,7 +219,7 @@ Maximum dog walk in a ball game
 
 > The lake in the park (point 30) A park comprises a square lake, each of which forms the base of an equilateral triangle-shaped lake. The four tops of the gulls that are not on the lake are joined by two to two straight fences. The land between the fences and the fences is left untouched. The area of the lake is 9747 square meters, how many square meters is the area of the uncultivated land?
 
-[[src_gs_2010__Q06]]
+[[Quesiti/src_gs_2010#q06|src_gs_2010__Q06]]
 
 
 
@@ -257,7 +257,7 @@ Maximum dog walk in a ball game
 
 > A game of chance, I (points 30) Jake and Sline play a game of chance: they divide a deck of 4020 poker cards, each carrying a red seed or a black seed. They each support their deck of 2010 cards covered on the table and start playing. They discover a card together: if the seeds of the two cards are of different color, Sline pays Jake a dollar, if the seeds of both cards are red nothing happens, if the seeds of both cards are black Jake pays Sline two dollars. For a coincidence in the mixing, Jake's cards are a sequence of a red seed card and a black seed card (i.e. red, black, red, black, red). . . ) while Sline's are a sequence of one black seed paper followed by two red seed (i.e. black, red, red, black, red, red, black,. . . ). Knowing that they start the game with 2010 bucks in their head, how much bucks does the winner have at the end?
 
-[[src_gs_2010__Q07]]
+[[Quesiti/src_gs_2010#q07|src_gs_2010__Q07]]
 
 
 
@@ -292,7 +292,7 @@ Maximum dog walk in a ball game
 
 > Chicken soup (points 30) Slim is very efficient in preparing chicken soup. He buys the chickens and then divides them into two plates, so that there's exactly the same number. He gives those who advance (and only those) to his parrot Fuzz. Then he divides all the chickens he's kept equally into six plates, and as before those who advance Fuzz eats them. At this point, repeat the same operation with 30 plates, then 210 plates, and then 2310 plates. Considering that today he wants to buy them so that the parrot can eat as many as possible, but not spending more than necessary, how many chicks does he have to buy?
 
-[[src_gs_2010__Q08]]
+[[Quesiti/src_gs_2010#q08|src_gs_2010__Q08]]
 
 
 
@@ -326,7 +326,7 @@ Turns so a player stays with half a penny
 
 > A game of chance, II (points 40) Jake and Sline had realized that the two decks had a strange sequence of seed colors when they first played. They decide to make a revenge using exactly the same sequence, but they will stop only when one of the two is left with half the money (obviously, if there are not enough cards, they take back those used by placing them in the exact sequence). As before, each one starts with $10. After how many turns does the game end? Team competition  Problem texts  Pag. 2 di 6
 
-[[src_gs_2010__Q09]]
+[[Quesiti/src_gs_2010#q09|src_gs_2010__Q09]]
 
 
 
@@ -359,7 +359,7 @@ Turns so a player stays with half a penny
 
 > The beans (point 40) Sam and Dave have a bag containing thousands of beans. The two play a game of picking, in turn, a number of beans between 1 and 8. Whoever extracts the last beans wins. Sam decides how many beans to put in the bag, and Dave starts fishing, and from now on, they fish alternately. What's the minimum amount of beans over 2010 that Sam will have to choose to secure victory?
 
-[[src_gs_2010__Q10]]
+[[Quesiti/src_gs_2010#q10|src_gs_2010__Q10]]
 
 
 
@@ -396,7 +396,7 @@ Turns so a player stays with half a penny
 
 > The jazz party (points 40) Matt and Lou host a jazz party together, renting a clubhouse that costs $8 per person present for every hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour one in nine of the remaining people leaves. After another 60 minutes, one-eighth of the rest leaves the party, and so on and so forth, until half of those still present leave. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
 
-[[src_gs_2010__Q11]]
+[[Quesiti/src_gs_2010#q11|src_gs_2010__Q11]]
 
 
 
@@ -434,7 +434,7 @@ Turns so a player stays with half a penny
 
 > The books (40 points) Alan, Bob, Claire and Duncan are schoolmates. They study three scientific subjects: Science, Physics, Geometry, and five humanities: Latin, Greek, Literature, History, and Philosophy. Since the folders are too heavy, they agree to bring each four books of four subjects with different initials, of which at least one is scientific, and so that in total they have two books for each subject. It is also known that: • Alan and Duncan have at least two subjects in common; • Bob brings Philosophy and Letters; • Claire has all scientific subjects; • Alan and Bob have only Greek in common; Write, in alphabetical order, the subjects Duncan brings, indicating the subjects, in alphabetical order, with the digits 1 to 8.
 
-[[src_gs_2010__Q12]]
+[[Quesiti/src_gs_2010#q12|src_gs_2010__Q12]]
 
 
 
@@ -469,7 +469,7 @@ Turns so a player stays with half a penny
 
 > The paper stars, I (points 50) Reverend Cleophus James prepares colored paper stars to decorate the Triple Rock Church. To draw a five-pointed star, mark five distinct points on a circumference and join them together with five segments without ever separating the pen from the sheet. That way, he can only draw one type of star. With 7 vertices, he can instead draw two different types, connecting the vertices by skipping one or two at a time, respectively. How many different types of stars can you draw if you mark 2011 vertices on the circumference? Team competition  Problem texts  Pag. 3 di 6
 
-[[src_gs_2010__Q13]]
+[[Quesiti/src_gs_2010#q13|src_gs_2010__Q13]]
 
 
 
@@ -500,7 +500,7 @@ Turns so a player stays with half a penny
 
 > Curled up and Dye, Carrie concentrates on calculating long sums in mind. The last thing he calculated is the sum of those odd positive integers less than 100 that can be written in at least two distinct ways as the difference of perfect squares. What number did you find?
 
-[[src_gs_2010__Q14]]
+[[Quesiti/src_gs_2010#q14|src_gs_2010__Q14]]
 
 
 
@@ -535,7 +535,7 @@ Turns so a player stays with half a penny
 
 > The polygons inscribed (points 50) In a circumference of 1 m radius, the first step is to trace the diameter. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps do you have to take at least because the side of the polygon you get is shorter than 122010 m?
 
-[[src_gs_2010__Q15]]
+[[Quesiti/src_gs_2010#q15|src_gs_2010__Q15]]
 
 
 
@@ -569,7 +569,7 @@ Turns so a player stays with half a penny
 
 > A card game (50 points) A gambling game is played with a bag containing 2010 cards, 2 reds, all other black ones. You win if you extract all the red seeds (no matter how many black seeds). A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a 50% chance of winning?
 
-[[src_gs_2010__Q16]]
+[[Quesiti/src_gs_2010#q16|src_gs_2010__Q16]]
 
 
 
@@ -611,7 +611,7 @@ Turns so a player stays with half a penny
 
 > The county vault (points 50) The combination of the Cook County vault is made up of five digits. Steven recalls that • The first digit is 1; • All the numbers formed by considering each pair of adjacent digits, taken in the same order as they appear in the combination, are divisible by 2; • All the numbers formed by considering each set of adjacent digits, taken in the same order as they appear in the combination, are divisible by 3; • All the numbers formed by considering each quartet of adjacent digits, taken in the same order as they appear in the combination, are divisible by 42; • the combination, read as a five-digit number, is divisible by 5. Write the last four digits of the combination in the order. Team competition  Problem texts  Pag. 4 di 6
 
-[[src_gs_2010__Q17]]
+[[Quesiti/src_gs_2010#q17|src_gs_2010__Q17]]
 
 
 
@@ -641,7 +641,7 @@ Turns so a player stays with half a penny
 
 > Maybe Elwood was wrong about the liar in the race between Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar, but the winner isn't lying, say:
 
-[[src_gs_2010__Q18]]
+[[Quesiti/src_gs_2010#q18|src_gs_2010__Q18]]
 
 
 
@@ -667,7 +667,7 @@ Turns so a player stays with half a penny
 
 > 19. The mausoleum (points 50) The commander of the Illinois Nazi group had himself built a mausoleum, built with cubic stone blocks, side 1 m. Formed by 10 steps, it looks like a ziqqurat: each step is a square-based parallel piped, and all the steps are resting on each other. The top of the mausoleum is a side step of 2 m and a height of 2520 m. But the main peculiarity of the mausoleum is that each step has the side of the lower base square exactly 2 meters from the one below and the lateral surfaces of each step are always the same. How high is the mausoleum?
 
-[[src_gs_2010__Q19]]
+[[Quesiti/src_gs_2010#q19|src_gs_2010__Q19]]
 
 
 
@@ -694,7 +694,7 @@ Turns so a player stays with half a penny
 
 > 20. The paper stars, II (points 60) Helping Reverend James, instead of scoring 2011 distinct points on the circumference, Jake scored 2010. How many different types of stars can you draw?
 
-[[src_gs_2010__Q20]]
+[[Quesiti/src_gs_2010#q20|src_gs_2010__Q20]]
 
 
 
@@ -720,7 +720,7 @@ Turns so a player stays with half a penny
 
 > 21. To track down the Blues Brothers, the Illinois Nazi commander wants three drops from a group of nine volunteers. Knowing their innate incapacity, the commander appoints three captains of drapel from among the nine volunteers: Al, Bruno and Cal. In addition, he wants at least one other component in each drapery, in addition to the captain. How many different drapes can the commander form? Team competition  Problem texts  Pag. 5 di 6
 
-[[src_gs_2010__Q21]]
+[[Quesiti/src_gs_2010#q21|src_gs_2010__Q21]]
 
 
 
@@ -746,7 +746,7 @@ Calculation of a recursive operation n star m (5 star 5)
 
 > 22. At the entrance to the motel, Twiggy found the following rules 0⋆ 0 = 1 0 ⋆ (m + 1) = 0 (n + 1) ⋆ 0 = (n + 1)× (n⋆ 0) ((n + 1)⋆ (m + 1)) = (n + 1)× [((n + 1)⋆m ) + (n⋆ (m + 1))). He understands that they allow you to calculate the value of the writing n⋆m for each pair of positive integers or zeros: Waiting for Elwood, Twiggy calculates what 5⋆ 5 1000 is worth. What number do you get?
 
-[[src_gs_2010__Q22]]
+[[Quesiti/src_gs_2010#q22|src_gs_2010__Q22]]
 
 
 
@@ -772,7 +772,7 @@ Calculation of a recursive operation n star m (5 star 5)
 
 > 23. Another card game (points 70) Another gambling game is always played with a bag containing 2010 cards, 7 reds and all the other black ones. The rules state that the seeds should be extracted one at a time until all the red seeds have come out, at which point the game is over. Elwood wonders on average how long the game takes. Jake doesn't understand exactly what his brother means, but Ray, who knows it well, explains to him that among the many ways to define the average number of extractions in the game (all leading to the same result) the most interesting is the sum of the probabilities pk where, for every natural number 0 ≤k ≤2010, pk is the probability that, after the k-eighth extraction, not all 7 red balls have come out. What is the average number of extractions?
 
-[[src_gs_2010__Q23]]
+[[Quesiti/src_gs_2010#q23|src_gs_2010__Q23]]
 
 
 
@@ -798,4 +798,4 @@ Calculation of a recursive operation n star m (5 star 5)
 
 > 24. Motel rules, II. Elwood is not coming. To pass the time, Twiggy looks for the smallest number n such that 3 ⋆n is a multiple of 73. What's the number n? Team competition  Problem texts  Pag. 6 di 6
 
-[[src_gs_2010__Q24]]
+[[Quesiti/src_gs_2010#q24|src_gs_2010__Q24]]

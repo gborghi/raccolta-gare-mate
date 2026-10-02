@@ -39,7 +39,7 @@ level: Concours Général
 > 
 > Indicare che i punti $D, E, F, G, H, I$ sono conciclici se e solo se almeno uno dei seguenti punti è valido: - il triangolo $ABC$ è equilaterale; - il triangolo $ABC$ è rettangolare e uguale.
 
-[[src_cgen_1996__Q01]]
+[[Quesiti/src_cgen_1996#q01|src_cgen_1996__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Concours Général
 > 
 > 1. Mostrare che si può trovare un intero positivo $n$ tale che $u_n \le a$. 2. Mostrare che la sequenza è alla fine periodica.
 
-[[src_cgen_1996__Q02]]
+[[Quesiti/src_cgen_1996#q02|src_cgen_1996__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: Concours Général
 > 
 > 3. Tra i tetraedri che hanno anche almeno due facce isosceles, trovate quelli le cui lunghezze facciali (come funzione della lunghezza laterale $a$ del bordo più piccolo) riducono al minimo il bordo più grande.
 
-[[src_cgen_1996__Q03]]
+[[Quesiti/src_cgen_1996#q03|src_cgen_1996__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: Concours Général
 > 
 > 2. Lasciate che $x$ e $y$ siano due valori rigorosamente positivi. Mostra che $x^y + y^x > 1$.
 
-[[src_cgen_1996__Q04]]
+[[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
 
 
 
@@ -173,4 +173,4 @@ level: Concours Général
 > 
 > 1. Indicare che se $k$ soddisfa la condizione $C_n$, allora $k \le \dfrac{2n-3}{5}$. 2. Indicare che $5$ soddisfa la condizione $C_{14}$. 3. Supponiamo che $\dfrac{2n-3}{5}$ sia un intero. Indicare che $\dfrac{2n-3}{5}$ soddisfa la condizione $C_n$.
 
-[[src_cgen_1996__Q05]]
+[[Quesiti/src_cgen_1996#q05|src_cgen_1996__Q05]]

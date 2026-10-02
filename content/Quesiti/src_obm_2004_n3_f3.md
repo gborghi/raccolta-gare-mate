@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale convex. Prova che gli incircoli dei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
 
-[[src_obm_2004_n3_f3__Q01]]
+[[Quesiti/src_obm_2004_n3_f3#q01|src_obm_2004_n3_f3__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: OBM Nível 3
 > 
 > We show such a division for $n = 7$: observe that in each of the six vertices exactly four segments are incident.
 
-![[src_obm_2004_n3_f3__Q02.png]]
+![[src_obm_2004_n3_f3__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
@@ -66,9 +66,9 @@ level: OBM Nível 3
 > 
 > Mostriamo una tale divisione per $n = 7$: osserviamo che in ciascuno dei sei vertici ci sono esattamente quattro segmenti incidenti.
 
-![[src_obm_2004_n3_f3__Q02.png]]
+![[src_obm_2004_n3_f3__q02.png]]
 
-[[src_obm_2004_n3_f3__Q02]]
+[[Quesiti/src_obm_2004_n3_f3#q02|src_obm_2004_n3_f3__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 3
 > 
 > È possibile che più della metà dei suoi termini siano negativi?
 
-[[src_obm_2004_n3_f3__Q03]]
+[[Quesiti/src_obm_2004_n3_f3#q03|src_obm_2004_n3_f3__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: OBM Nível 3
 > 
 > Trovare il più grande intero $n$ con la proprietà che, in ogni posizionamento, una riga o una colonna contiene almeno $n$ cifre distinte.
 
-[[src_obm_2004_n3_f3__Q04]]
+[[Quesiti/src_obm_2004_n3_f3#q04|src_obm_2004_n3_f3__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: OBM Nível 3
 
 > Considerate la sequenza $(a_n)_{n \ge 0}$ con $a_0 = a_1 = a_2 = a_3 = 1$ e $$a_n a_{n+4} = a_{n+1} a_{n+3} + a_{n+2}^2.$$ Mostra che tutti i termini di questa sequenza sono numeri interi.
 
-[[src_obm_2004_n3_f3__Q05]]
+[[Quesiti/src_obm_2004_n3_f3#q05|src_obm_2004_n3_f3__Q05]]
 
 
 
@@ -198,4 +198,4 @@ level: OBM Nível 3
 > 
 > Fissare un numero reale $b$. Provare che l'insieme $$A_b = \{\, a \in \mathbb{R} \mid \operatorname{per}(a, b) \neq \varnothing \,\}$$ ha un elemento minimo. Calcola questo elemento minimo.
 
-[[src_obm_2004_n3_f3__Q06]]
+[[Quesiti/src_obm_2004_n3_f3#q06|src_obm_2004_n3_f3__Q06]]

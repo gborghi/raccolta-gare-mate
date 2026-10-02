@@ -33,7 +33,7 @@ level: IMO
 
 > $S$ is the set of all $(h,k)$ with $h,k$ non-negative integers such that $h+k < n$. Each element of $S$ is colored red or blue, so that if $(h,k)$ is red and $h' \le h$, $k' \le k$, then $(h',k')$ is also red. A type 1 subset of $S$ has $n$ blue elements with different first members and a type 2 subset of $S$ has $n$ blue elements with different second members. Show that there are the same number of type 1 and type 2 subsets.
 
-[[src_imho_2002__Q01]]
+[[Quesiti/src_imho_2002#q01|src_imho_2002__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: IMO
 
 > $BC$ is a diameter of a circle center $O$. $A$ is any point on the circle with $\angle AOC > 60^\circ$. $EF$ is the chord which is the perpendicular bisector of $AO$. $D$ is the midpoint of the minor arc $AB$. The line through $OD$ meets $AC$ at $J$. Show that $J$ is the incenter of triangle $CEF$.
 
-[[src_imho_2002__Q02]]
+[[Quesiti/src_imho_2002#q02|src_imho_2002__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
 
 > Find all pairs of integers $m > 2$, $n > 2$ such that there are infinitely many positive integers $k$ for which $k^n - 1$ divides $k^m - 1$.
 
-[[src_imho_2002__Q03]]
+[[Quesiti/src_imho_2002#q03|src_imho_2002__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
 
 > The positive divisors of an integer $n > 1$ are $d_1 < d_2 < \cdots < d_k$, so that $d_1 = 1$, $d_k = n$. Let $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Show that $d < n^2$ and find the $n$ for which $d$ divides $n^2$.
 
-[[src_imho_2002__Q04]]
+[[Quesiti/src_imho_2002#q04|src_imho_2002__Q04]]
 
 
 
@@ -141,7 +141,7 @@ This is the total number of functions that are satisfying (f(x) +f(y))
 
 > Find all real-valued functions on the reals such that $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ for all $x, y, u, v$.
 
-[[src_imho_2002__Q05]]
+[[Quesiti/src_imho_2002#q05|src_imho_2002__Q05]]
 
 
 
@@ -168,4 +168,4 @@ This is the total number of functions that are satisfying (f(x) +f(y))
 
 > $n > 2$ circles of radius 1 are drawn in the plane so that no line meets more than two of the circles. Their centres are $O_1, O_2, \ldots, O_n$. Show that$\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
 
-[[src_imho_2002__Q06]]
+[[Quesiti/src_imho_2002#q06|src_imho_2002__Q06]]

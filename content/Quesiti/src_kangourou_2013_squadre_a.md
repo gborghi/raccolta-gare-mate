@@ -40,7 +40,7 @@ level: squadre
 > Increasing the hours of work of workers (and wages!), the owner of a television factory increased production by 25%. Subsequently, in the face of declining demand for the product, 39 workers were able to be transferred to a refrigerator factory and, after their transfer, while the working hours for the remaining workers remained increased, the production of the television factory returned to what it was before the increase in hours. How many workers worked in the television factory before the increase in working hours?
 
 **Answer:** 195
-[[src_kangourou_2013_squadre_a__Q01]]
+[[Quesiti/src_kangourou_2013_squadre_a#q01|src_kangourou_2013_squadre_a__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: squadre
 > The side of Marco's rectangle has drawn an ABCD square of 54 millimeters of side. On the AB side he then located the E point 3 millimeters away from A. Elena drew a KLM rectangle whose side KL is 5 millimeters long and observed that the size of the ACE and KML angles is the same. How many millimeters is the length of the LM side of the rectangle drawn by Elena?
 
 **Answer:** 175
-[[src_kangourou_2013_squadre_a__Q02]]
+[[Quesiti/src_kangourou_2013_squadre_a#q02|src_kangourou_2013_squadre_a__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: squadre
 > You are free to insert all the parentheses you want (even more types, one internally to the other) in the positions you want, as long as you do not get multiplication between the contents of two pairs of parentheses: for example you can write [1  (2 + 3  4)] + ..., but not (1  2 + 3)(  4 + 5  6) +... . In accordance with this rule, what is the highest number you can get as a result of the expression?
 
 **Answer:** 45
-[[src_kangourou_2013_squadre_a__Q03]]
+[[Quesiti/src_kangourou_2013_squadre_a#q03|src_kangourou_2013_squadre_a__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: squadre
 > How much water? The figure shows you a water wheel made using two identical cubes. The clessidra has water to run continuously for 4 minutes; when all the water is in one of the two cubes, that cube is exactly half full. If water falls for 20 seconds without interruption, the water level in the bottom cube rises exactly 1 centimeter. What is the volume of water in the hydraulic fluid in cubic centimetres?
 
 **Answer:** 6912
-[[src_kangourou_2013_squadre_a__Q04]]
+[[Quesiti/src_kangourou_2013_squadre_a#q04|src_kangourou_2013_squadre_a__Q04]]
 
 
 
@@ -181,7 +181,7 @@ level: squadre
 > Pyramid trunk You have a straight pyramid with a square base 66 centimeters high; you want to cut the pyramid with a plane parallel to its base by breaking it into a smaller pyramid and a pyramid trunk so that the volume of the pyramid trunk is 26 times that of the small pyramid. How far from the base, in centimeters, should the plane used for cutting be?
 
 **Answer:** 44
-[[src_kangourou_2013_squadre_a__Q05]]
+[[Quesiti/src_kangourou_2013_squadre_a#q05|src_kangourou_2013_squadre_a__Q05]]
 
 
 
@@ -215,7 +215,7 @@ level: squadre
 > Piles of pedals Marco has formed two piles of pedals on the table, the first of 75 and the second of 81, and wants to do the following solo. At each turn you can only do one of the following: (a) remove 4 pins from the first pile; (b) remove 5 pins from the second pile; (c) remove one pin from each of the two piles. What is the minimum number of moves by which Mark can remove all the pads from the table? Write [0000] if you feel that Marco cannot finish the game.
 
 **Answer:** 41
-[[src_kangourou_2013_squadre_a__Q06]]
+[[Quesiti/src_kangourou_2013_squadre_a#q06|src_kangourou_2013_squadre_a__Q06]]
 
 
 
@@ -247,7 +247,7 @@ level: squadre
 > The numbered cube A positive integer is written on each side of a cube; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers that are written on the faces?
 
 **Answer:** 31
-[[src_kangourou_2013_squadre_a__Q07]]
+[[Quesiti/src_kangourou_2013_squadre_a#q07|src_kangourou_2013_squadre_a__Q07]]
 
 
 
@@ -279,7 +279,7 @@ level: squadre
 > The sum In each box of a chessboard 8 × 8 is written an integer; the numbers written in two boxes that have a common side always differ by 1. On the chessboard, both number 3 and number 17 appear. What is the sum of all the numbers that appear on the chessboard?
 
 **Answer:** 640
-[[src_kangourou_2013_squadre_a__Q08]]
+[[Quesiti/src_kangourou_2013_squadre_a#q08|src_kangourou_2013_squadre_a__Q08]]
 
 
 
@@ -309,7 +309,7 @@ level: squadre
 > +on all How many three-digit (significant) ABC numbers are such that A + B is different from C?
 
 **Answer:** 855
-[[src_kangourou_2013_squadre_a__Q09]]
+[[Quesiti/src_kangourou_2013_squadre_a#q09|src_kangourou_2013_squadre_a__Q09]]
 
 
 
@@ -350,7 +350,7 @@ level: squadre
 > The figure suggests the pattern of a square park. On its sides are planted trees equidistant, the same number of trees on all sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small square, indicated in gray, whose area is 1/365 of the area of the square. How many trees are along the entire perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
 
 **Answer:** 56
-[[src_kangourou_2013_squadre_a__Q10]]
+[[Quesiti/src_kangourou_2013_squadre_a#q10|src_kangourou_2013_squadre_a__Q10]]
 
 
 
@@ -390,7 +390,7 @@ level: squadre
 > Now he wants to erase exactly 20 of the numbers written and get a new number by adding the remaining ones (without changing the order). What are the first four digits of the greatest number you can get?
 
 **Answer:** 9561
-[[src_kangourou_2013_squadre_a__Q11]]
+[[Quesiti/src_kangourou_2013_squadre_a#q11|src_kangourou_2013_squadre_a__Q11]]
 
 
 
@@ -421,7 +421,7 @@ level: squadre
 > The segmented triangle Marco is able to segment an isosceles triangle ABC (AB=AC) along the segment connecting the vertex A to a point D on the opposite side, so that the angle of the sides AC and AD is 33o and the triangle ABD is isosceles with AB = BD. What is the degree of the BAD angle?
 
 **Answer:** 71
-[[src_kangourou_2013_squadre_a__Q12]]
+[[Quesiti/src_kangourou_2013_squadre_a#q12|src_kangourou_2013_squadre_a__Q12]]
 
 
 
@@ -461,7 +461,7 @@ level: squadre
 > The magic discs. Look at the figure. Gianna wants to insert, one in each box, all the digits from 1 to 9 in the available boxes so that the sum of the digits inserted inside each of the disks is always the same and is the smallest possible, and that also the number obtained by approaching the 9 digits written is the smallest possible. What are the first four digits entered from the left?
 
 **Answer:** 8371
-[[src_kangourou_2013_squadre_a__Q13]]
+[[Quesiti/src_kangourou_2013_squadre_a#q13|src_kangourou_2013_squadre_a__Q13]]
 
 
 
@@ -493,7 +493,7 @@ level: squadre
 > Only even digits From sequence 1, 2, 3, 4, 5, 6, of positive integers, eliminate all and only those to write which need to use at least one odd digit. You have two, four, six, eight, twenty, twenty-two. Which number is 126th in this new sequence?
 
 **Answer:** 2002
-[[src_kangourou_2013_squadre_a__Q14]]
+[[Quesiti/src_kangourou_2013_squadre_a#q14|src_kangourou_2013_squadre_a__Q14]]
 
 
 
@@ -539,4 +539,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 396
-[[src_kangourou_2013_squadre_a__Q15]]
+[[Quesiti/src_kangourou_2013_squadre_a#q15|src_kangourou_2013_squadre_a__Q15]]

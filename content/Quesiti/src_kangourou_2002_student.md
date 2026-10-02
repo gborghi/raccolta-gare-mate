@@ -73,7 +73,7 @@ level: kangourou
 > A. 2 B. 4 C. 6 D. 8 E. 10
 
 **Answer:** E
-[[src_kangourou_2002_student__Q01]]
+[[Quesiti/src_kangourou_2002_student#q01|src_kangourou_2002_student__Q01]]
 
 
 
@@ -113,7 +113,7 @@ The final figure is 1! + 2! +... + 2002!
 > A. 0 B. 1 C. 2 D. 3 E. 5
 
 **Answer:** D
-[[src_kangourou_2002_student__Q02]]
+[[Quesiti/src_kangourou_2002_student#q02|src_kangourou_2002_student__Q02]]
 
 
 
@@ -151,7 +151,7 @@ The final figure is 1! + 2! +... + 2002!
 > A. 180 B. 252 C. 256 D. 280 E. 312
 
 **Answer:** B
-[[src_kangourou_2002_student__Q03]]
+[[Quesiti/src_kangourou_2002_student#q03|src_kangourou_2002_student__Q03]]
 
 
 
@@ -201,7 +201,7 @@ Product ab with MCD 3 and coefficient 4/10*
 > Student of the year 2002. This item is not intended to be used. 2
 
 **Answer:** E
-[[src_kangourou_2002_student__Q04]]
+[[Quesiti/src_kangourou_2002_student#q04|src_kangourou_2002_student__Q04]]
 
 
 
@@ -234,7 +234,7 @@ Product ab with MCD 3 and coefficient 4/10*
 > A. 3003 B. 1001     C. 2002      D. 4002       E. 2001
 
 **Answer:** A
-[[src_kangourou_2002_student__Q05]]
+[[Quesiti/src_kangourou_2002_student#q05|src_kangourou_2002_student__Q05]]
 
 
 
@@ -271,7 +271,7 @@ Product ab with MCD 3 and coefficient 4/10*
 > A. 1 / 11 B. 1 / 10 C. 1 / 12 D. 1 / 13 E. 1 / 14
 
 **Answer:** C
-[[src_kangourou_2002_student__Q06]]
+[[Quesiti/src_kangourou_2002_student#q06|src_kangourou_2002_student__Q06]]
 
 
 
@@ -315,7 +315,7 @@ Product ab with MCD 3 and coefficient 4/10*
 > E. 48 %
 
 **Answer:** C
-[[src_kangourou_2002_student__Q07]]
+[[Quesiti/src_kangourou_2002_student#q07|src_kangourou_2002_student__Q07]]
 
 
 
@@ -359,7 +359,7 @@ Percentage of glasses with water at 45°C
 > E. more than 34%
 
 **Answer:** B
-[[src_kangourou_2002_student__Q08]]
+[[Quesiti/src_kangourou_2002_student#q08|src_kangourou_2002_student__Q08]]
 
 
 
@@ -406,7 +406,7 @@ Percentage of glasses with water at 45°C
 > E. None of the above
 
 **Answer:** E
-[[src_kangourou_2002_student__Q09]]
+[[Quesiti/src_kangourou_2002_student#q09|src_kangourou_2002_student__Q09]]
 
 
 
@@ -464,7 +464,7 @@ Percentage of glasses with water at 45°C
 > Student of the year 2002. This item is not intended to be used. 3 Questions from N. 11 al N. Twenty is worth four points.
 
 **Answer:** A
-[[src_kangourou_2002_student__Q10]]
+[[Quesiti/src_kangourou_2002_student#q10|src_kangourou_2002_student__Q10]]
 
 
 
@@ -513,7 +513,7 @@ Percentage of glasses with water at 45°C
 > E. None of the above answers are correct.
 
 **Answer:** A
-[[src_kangourou_2002_student__Q11]]
+[[Quesiti/src_kangourou_2002_student#q11|src_kangourou_2002_student__Q11]]
 
 
 
@@ -562,7 +562,7 @@ Percentage of glasses with water at 45°C
 > E. Nothing can be said without further information.
 
 **Answer:** C
-[[src_kangourou_2002_student__Q12]]
+[[Quesiti/src_kangourou_2002_student#q12|src_kangourou_2002_student__Q12]]
 
 
 
@@ -605,7 +605,7 @@ Name of the son of John
 > D. I'm not sure. There's not enough information to answer.
 
 **Answer:** C
-[[src_kangourou_2002_student__Q13]]
+[[Quesiti/src_kangourou_2002_student#q13|src_kangourou_2002_student__Q13]]
 
 
 
@@ -646,7 +646,7 @@ Name of the son of John
 > A. 1 B. 2 C. 3 D. 4 E. 5
 
 **Answer:** E
-[[src_kangourou_2002_student__Q14]]
+[[Quesiti/src_kangourou_2002_student#q14|src_kangourou_2002_student__Q14]]
 
 
 
@@ -692,7 +692,7 @@ Name of the son of John
 > Student of the year 2002. This item is not intended to be used. 4
 
 **Answer:** B
-[[src_kangourou_2002_student__Q15]]
+[[Quesiti/src_kangourou_2002_student#q15|src_kangourou_2002_student__Q15]]
 
 
 
@@ -741,7 +741,7 @@ Name of the son of John
 > E. 135°
 
 **Answer:** D
-[[src_kangourou_2002_student__Q16]]
+[[Quesiti/src_kangourou_2002_student#q16|src_kangourou_2002_student__Q16]]
 
 
 
@@ -790,7 +790,7 @@ Name of the son of John
 > B. 3 C. 5 D. 6 E. 7
 
 **Answer:** C
-[[src_kangourou_2002_student__Q17]]
+[[Quesiti/src_kangourou_2002_student#q17|src_kangourou_2002_student__Q17]]
 
 
 
@@ -867,7 +867,7 @@ Name of the son of John
 > D. 1 / (2 + √ 3) E. other answer
 
 **Answer:** A
-[[src_kangourou_2002_student__Q18]]
+[[Quesiti/src_kangourou_2002_student#q18|src_kangourou_2002_student__Q18]]
 
 
 
@@ -914,7 +914,7 @@ Name of the son of John
 > D. 1 minute and 50 seconds E. 1 minute and 39 seconds
 
 **Answer:** A
-[[src_kangourou_2002_student__Q19]]
+[[Quesiti/src_kangourou_2002_student#q19|src_kangourou_2002_student__Q19]]
 
 
 
@@ -969,7 +969,7 @@ Name of the son of John
 > Student of the year 2002. This item is not intended to be used. 5 Questions from N. 21 al N. 30 is worth 5 points.
 
 **Answer:** B
-[[src_kangourou_2002_student__Q20]]
+[[Quesiti/src_kangourou_2002_student#q20|src_kangourou_2002_student__Q20]]
 
 
 
@@ -1008,7 +1008,7 @@ Name of the son of John
 > A. 20 B. 50 C. 70 D. 100 E. 110
 
 **Answer:** E
-[[src_kangourou_2002_student__Q21]]
+[[Quesiti/src_kangourou_2002_student#q21|src_kangourou_2002_student__Q21]]
 
 
 
@@ -1047,7 +1047,7 @@ Maximum k with 2001^k divided by 2002!
 > A. 101 B. 71 C. 69 D. 2 E. 1
 
 **Answer:** B
-[[src_kangourou_2002_student__Q22]]
+[[Quesiti/src_kangourou_2002_student#q22|src_kangourou_2002_student__Q22]]
 
 
 
@@ -1094,7 +1094,7 @@ Maximum k with 2001^k divided by 2002!
 >  
 > E. It is not possible to reply without further information.
 
-[[src_kangourou_2002_student__Q23]]
+[[Quesiti/src_kangourou_2002_student#q23|src_kangourou_2002_student__Q23]]
 
 
 
@@ -1133,7 +1133,7 @@ Maximum k with 2001^k divided by 2002!
 > A. 6 B. 7 C. 8 D. 9 E. None of the above answers are correct.
 
 **Answer:** C
-[[src_kangourou_2002_student__Q24]]
+[[Quesiti/src_kangourou_2002_student#q24|src_kangourou_2002_student__Q24]]
 
 
 
@@ -1203,7 +1203,7 @@ Maximum k with 2001^k divided by 2002!
 > Student of the year 2002. This item is not intended to be used. 6
 
 **Answer:** B
-[[src_kangourou_2002_student__Q25]]
+[[Quesiti/src_kangourou_2002_student#q25|src_kangourou_2002_student__Q25]]
 
 
 
@@ -1241,7 +1241,7 @@ Maximum k with 2001^k divided by 2002!
 > E. None of the above answers are correct.
 
 **Answer:** B
-[[src_kangourou_2002_student__Q26]]
+[[Quesiti/src_kangourou_2002_student#q26|src_kangourou_2002_student__Q26]]
 
 
 
@@ -1282,7 +1282,7 @@ Maximum k with 2001^k divided by 2002!
 > E. less than 2 seconds
 
 **Answer:** E
-[[src_kangourou_2002_student__Q27]]
+[[Quesiti/src_kangourou_2002_student#q27|src_kangourou_2002_student__Q27]]
 
 
 
@@ -1320,7 +1320,7 @@ Maximum k with 2001^k divided by 2002!
 > A. 3 B. 5 C. 7 D. 9 E. 11
 
 **Answer:** C
-[[src_kangourou_2002_student__Q28]]
+[[Quesiti/src_kangourou_2002_student#q28|src_kangourou_2002_student__Q28]]
 
 
 
@@ -1382,7 +1382,7 @@ Maximum k with 2001^k divided by 2002!
 > A. 19 / 10 B. 17 / 10 C. 9 / 7 D. 3 / 2 E. 10 / 7
 
 **Answer:** A
-[[src_kangourou_2002_student__Q29]]
+[[Quesiti/src_kangourou_2002_student#q29|src_kangourou_2002_student__Q29]]
 
 
 
@@ -1458,4 +1458,4 @@ Maximum k with 2001^k divided by 2002!
 > The correct answer is indicated in square brackets after the question number.
 
 **Answer:** B
-[[src_kangourou_2002_student__Q30]]
+[[Quesiti/src_kangourou_2002_student#q30|src_kangourou_2002_student__Q30]]

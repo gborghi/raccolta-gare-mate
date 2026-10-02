@@ -21,7 +21,7 @@ level: OBM Nível 1
 > 
 > (The figure shows the six boxes with only the first box containing $1$ and the last box containing $5$ visible; the four middle boxes are blotted out. One of the two non-blotted values written by Raquel was $7$.)
 
-![[src_obm_2013_n1_f2__Q01.png]]
+![[src_obm_2013_n1_f2__q01.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,10 +40,10 @@ level: OBM Nível 1
 > 
 > (La figura mostra le sei caselle con la prima casella contenente $1$ e l'ultima casella contenente $5$ visibili; le quattro caselle medie sono cancellate. Uno dei due valori non cancellati scritti da Raquel era $7$.)
 
-![[src_obm_2013_n1_f2__Q01.png]]
+![[src_obm_2013_n1_f2__q01.png]]
 
 **Risposta:** 35
-[[src_obm_2013_n1_f2__Q01]]
+[[Quesiti/src_obm_2013_n1_f2#q01|src_obm_2013_n1_f2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: OBM Nível 1
 
 > Un numero naturale è chiamato quadrato perfetto quando è il quadrato di un altro numero naturale. Ad esempio, $1$ e $25$ sono quadrati perfetti, dal momento che $1 = 1^2$ e $25 = 5^2$. Qual è il valore minimo di $a + b$, con $a$ e $b$ numeri naturali non zero, in modo che i numeri $28a^3b$ e $7a^4b^3$ siano entrambi quadrati perfetti?
 
-[[src_obm_2013_n1_f2__Q02]]
+[[Quesiti/src_obm_2013_n1_f2#q02|src_obm_2013_n1_f2__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: OBM Nível 1
 
 > Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui $3\,\text{cm} \times 4\,\text{cm}$. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
 
-[[src_obm_2013_n1_f2__Q03]]
+[[Quesiti/src_obm_2013_n1_f2#q03|src_obm_2013_n1_f2__Q03]]
 
 
 
@@ -112,7 +112,7 @@ level: OBM Nível 1
 > 
 > (The figure shows a vertical addition of two three-digit numbers whose sum is a three-digit or four-digit number, with each digit $0$–$7$ used exactly once across the two addends.)
 
-![[src_obm_2013_n1_f2__Q04.png]]
+![[src_obm_2013_n1_f2__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -130,9 +130,9 @@ level: OBM Nível 1
 > 
 > (La figura mostra un'addizione verticale di due numeri a tre cifre la cui somma è un numero a tre cifre o a quattro cifre, con ciascuna cifra $0$$7$ usata esattamente una volta attraverso le due addizioni.)
 
-![[src_obm_2013_n1_f2__Q04.png]]
+![[src_obm_2013_n1_f2__q04.png]]
 
-[[src_obm_2013_n1_f2__Q04]]
+[[Quesiti/src_obm_2013_n1_f2#q04|src_obm_2013_n1_f2__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: OBM Nível 1
 
 > In una prova a scelta multipla, Julia ha risposto correttamente alle domande $100$ di $128$. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
 
-[[src_obm_2013_n1_f2__Q05]]
+[[Quesiti/src_obm_2013_n1_f2#q05|src_obm_2013_n1_f2__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: OBM Nível 1
 
 > L'insegnante Maria scrisse sulla lavagna tutti gli enti da $1$ a $1000$. Ha chiamato uno studente e gli ha chiesto di cancellare i numeri a partire dal secondo, cancellare ogni altro numero (cioè, cancellare il 2 °, 4 °, 6 °, $\ldots$). Poi chiese al prossimo studente di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellare tutti gli altri), e così via. Quanti studenti sono andati alla lavagna?
 
-[[src_obm_2013_n1_f2__Q06]]
+[[Quesiti/src_obm_2013_n1_f2#q06|src_obm_2013_n1_f2__Q06]]
 
 
 
@@ -206,7 +206,7 @@ level: OBM Nível 1
 > 
 > b) What is the sum of the numbers that appear in row $2013$? You may express your answer using powers.
 
-![[src_obm_2013_n1_f2__Q07.png]]
+![[src_obm_2013_n1_f2__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -228,9 +228,9 @@ level: OBM Nível 1
 > 
 > b) Qual è la somma dei numeri apparsi nella riga $2013$? Puoi esprimere la tua risposta usando poteri.
 
-![[src_obm_2013_n1_f2__Q07.png]]
+![[src_obm_2013_n1_f2__q07.png]]
 
-[[src_obm_2013_n1_f2__Q07]]
+[[Quesiti/src_obm_2013_n1_f2#q07|src_obm_2013_n1_f2__Q07]]
 
 
 
@@ -243,7 +243,7 @@ level: OBM Nível 1
 
 > The goldsmith Carlos has a wooden cube with edges of $10\,\text{cm}$. He cuts cubes of edge $2\,\text{cm}$ from each vertex of the large cube and glues a thin gold foil over the entire surface of the resulting solid, at a price of $8$ reais per square centimetre. Without waste, what is the cost in reais of this covering?
 
-![[src_obm_2013_n1_f2__Q08.png]]
+![[src_obm_2013_n1_f2__q08.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -259,9 +259,9 @@ level: OBM Nível 1
 
 > Il fabbro d'oro Carlos ha un cubo di legno con bordi di $10\,\text{cm}$. Taglia cubetti di bordo $2\,\text{cm}$ da ogni vertice del grande cubo e incolla una sottile follia d'oro su tutta la superficie del solido risultante, a un prezzo di $8$ reais per centimetro quadrato. Senza sprechi, qual è il costo in reais di questa copertura?
 
-![[src_obm_2013_n1_f2__Q08.png]]
+![[src_obm_2013_n1_f2__q08.png]]
 
-[[src_obm_2013_n1_f2__Q08]]
+[[Quesiti/src_obm_2013_n1_f2#q08|src_obm_2013_n1_f2__Q08]]
 
 
 
@@ -278,7 +278,7 @@ level: OBM Nível 1
 > 
 > b) In the figure that follows, $BCFE$ is a rectangle, triangle $ABC$ has area $5\,\text{cm}^2$ and triangle $DEF$ has area $4\,\text{cm}^2$. Calculate the area of quadrilateral $AGDH$.
 
-![[src_obm_2013_n1_f2__Q09.png]]
+![[src_obm_2013_n1_f2__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -298,6 +298,6 @@ level: OBM Nível 1
 > 
 > b) Nella figura seguente, $BCFE$ è un rettangolo, il triangolo $ABC$ ha superficie $5\,\text{cm}^2$ e il triangolo $DEF$ ha superficie $4\,\text{cm}^2$. Calcolare l'area del quadrilaterale $AGDH$.
 
-![[src_obm_2013_n1_f2__Q09.png]]
+![[src_obm_2013_n1_f2__q09.png]]
 
-[[src_obm_2013_n1_f2__Q09]]
+[[Quesiti/src_obm_2013_n1_f2#q09|src_obm_2013_n1_f2__Q09]]

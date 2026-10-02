@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale convex e che $P$ sia l'intersezione delle diagonali $AC$ e $BD$. I radii degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Provare che $ABCD$ è un rombo.
 
-[[src_obm_2014_n3_f3__Q01]]
+[[Quesiti/src_obm_2014_n3_f3#q01|src_obm_2014_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > Trova tutti gli enti $n > 1$ con la seguente proprietà: per ogni $k$ con $0 \le k \le n$, esiste un multiple di $n$ la cui somma digitali, nella base dieci, lascia il rimanente $k$ quando diviso da $n$.
 
-[[src_obm_2014_n3_f3__Q02]]
+[[Quesiti/src_obm_2014_n3_f3#q02|src_obm_2014_n3_f3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 3
 > 
 > Per ogni valore di $N$, determinare quale giocatore è garantito una vittoria indipendentemente dal modo in cui gli altri giocano e spiegare quale sia la strategia vincente per ogni caso.
 
-[[src_obm_2014_n3_f3__Q03]]
+[[Quesiti/src_obm_2014_n3_f3#q03|src_obm_2014_n3_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 3
 
 > Una sequenza infinita di polinomi $P_0(x), P_1(x), P_2(x), \ldots, P_n(x), \ldots$ è definita da $$P_0(x) = x \quad \text{and} \quad P_n(x) = P_{n-1}(x-1) \cdot P_{n-1}(x+1), \text{ for all } n \ge 1.$$ Determina il numero intero più grande $k$ per il quale il polinomio $P_{2014}(x)$ è un multiple di $x^k$.
 
-[[src_obm_2014_n3_f3__Q04]]
+[[Quesiti/src_obm_2014_n3_f3#q04|src_obm_2014_n3_f3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 3
 
 > In ogni cella di una tabella $2m \times 2n$ viene scritto un numero intero. L'operazione consentita è quella di scegliere tre celle che formano un L-tromino (cioè una cellula $C$ e altre due celle che condividono un lato con $C$, una orizzontale e una verticale) e di aggiungere $1$ al numero intero di ciascuna delle tre celle scelte. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$, e dei numeri iniziali, per rendere possibili che tutti i numeri della tabella siano uguali.
 
-[[src_obm_2014_n3_f3__Q05]]
+[[Quesiti/src_obm_2014_n3_f3#q05|src_obm_2014_n3_f3__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: OBM Nível 3
 
 > Il $ABC$ deve essere un triangolo con incentro $I$ e incircolo $\omega$. Il cerchio $\omega_A$ è tangente esternamente a $\omega$ e tocca i lati $AB$ e $AC$ rispettivamente a $A_1$ e $A_2$. La linea $r_A$ deve essere $A_1 A_2$. Definire analogamente $r_B$ e $r_C$. Le linee $r_A$, $r_B$ e $r_C$ determinano un triangolo $XYZ$. Prova che l'incentro di $XYZ$, il circoncentro di $XYZ$ e $I$ sono collineari.
 
-[[src_obm_2014_n3_f3__Q06]]
+[[Quesiti/src_obm_2014_n3_f3#q06|src_obm_2014_n3_f3__Q06]]

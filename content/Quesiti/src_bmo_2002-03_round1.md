@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Dato che $$N = 2022327994814814600943000000,$$ determina le cifre contenute in $N$, cioè trovare quale dei numeri $0, 1, \ldots, 9$ appare nella rappresentazione decimale di $N$.
 
-[[src_bmo_2002-03_round1__Q01]]
+[[Quesiti/src_bmo_2002-03_round1#q01|src_bmo_2002-03_round1__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Il triangolo $ABC$, dove $AB < AC$, ha un incircolo che tocca $BC$ a $S$. La perpendicolare da $B$ a $AS$ incontra la linea $AS$ al punto $P$. $X$ sia il punto di $AC$ in modo tale che $PX \parallel BC$. Indicare che $BX$ è il diametro dell'incircolo.
 
-[[src_bmo_2002-03_round1__Q02]]
+[[Quesiti/src_bmo_2002-03_round1#q02|src_bmo_2002-03_round1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 1
 
 > $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 1$. Provare che $$x^2 y^2 + y^2 z^2 + z^2 x^2 \leq \frac{1}{3}.$$
 
-[[src_bmo_2002-03_round1__Q03]]
+[[Quesiti/src_bmo_2002-03_round1#q03|src_bmo_2002-03_round1__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: BMO Round 1
 > $n$ sia un numero intero superiore a 1. Considera una griglia rettangolare $n \times n$ di punti nel piano. Alcuni $k$ di questi punti sono colorati in rosso in modo tale che nessun punto rosso sia il vertice di un triangolo rettangolare i cui lati sono paralleli ai lati della griglia. Determinare il valore massimo di $k$.
 
 **Risposta:** 2n
-[[src_bmo_2002-03_round1__Q04]]
+[[Quesiti/src_bmo_2002-03_round1#q04|src_bmo_2002-03_round1__Q04]]
 
 
 
@@ -147,4 +147,4 @@ level: BMO Round 1
 
 > Trova tutte le soluzioni in numeri interi positivi $a, b$ all'equazione $$a! + b! = a^b + b^a.$$
 
-[[src_bmo_2002-03_round1__Q05]]
+[[Quesiti/src_bmo_2002-03_round1#q05|src_bmo_2002-03_round1__Q05]]

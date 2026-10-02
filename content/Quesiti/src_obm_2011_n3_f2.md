@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > L'equazione di secondo grado $x^2 - 5x + m = 2011$ ha almeno una soluzione di un intero. Qual è il valore intero positivo più piccolo di $m$?
 
-[[src_obm_2011_n3_f2__Q01]]
+[[Quesiti/src_obm_2011_n3_f2#q01|src_obm_2011_n3_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > Una sequenza di lettere, con o senza significato, viene chiamata $alternated$ quando è formata da consonanti e vocali alternati. Ad esempio, EZEQAF, MATEMATICA, LEGAL e ANIMADA sono parole alternate, mentre DSOIUF, OLIMPIADA e ORDINARIO non lo sono. Quanti anagrammi della parola FELICIDADE (compresa la parola FELICIDADE stessa) sono sequenze alternate?
 
-[[src_obm_2011_n3_f2__Q02]]
+[[Quesiti/src_obm_2011_n3_f2#q02|src_obm_2011_n3_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 3
 
 > L'angolo interno alla vertica $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altitudine relativa al vertice $A$ tocca il lato $BC$ al punto $D$. Le distanze da $D$ alla verticale $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimato al numero intero più vicino? Se necessario, utilizzare $\sqrt{3} \approx 1{,}732$.
 
-[[src_obm_2011_n3_f2__Q03]]
+[[Quesiti/src_obm_2011_n3_f2#q03|src_obm_2011_n3_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 3
 
 > Qual è il più grande valore possibile del più grande divisore comune di due numeri distinti appartenenti all'insieme $\{1, 2, 3, \ldots, 2011\}$?
 
-[[src_obm_2011_n3_f2__Q04]]
+[[Quesiti/src_obm_2011_n3_f2#q04|src_obm_2011_n3_f2__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 3
 
 > Che $f$ sia una funzione dai reali non-zero ai reali non-zero tale che \begin{itemize} \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ per tutti i reali non-zero $x, y, z$ tale che $x + y + z = 0$; \item $f(-x) = -f(x)$ per ogni reale non-zero $x$; \item $f(2011) = 1$. \end{itemize} Trova il numero intero più vicino a $f(33)$.
 
-[[src_obm_2011_n3_f2__Q05]]
+[[Quesiti/src_obm_2011_n3_f2#q05|src_obm_2011_n3_f2__Q05]]
 
 
 
@@ -173,7 +173,7 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, l'angolo $B\hat{A}C$ misura $45^\circ$. Il cerchio di diametro $BC$ taglia rispettivamente i lati $AB$ e $AC$ a $D$ e $E$. Dato che $DE = 10$, trovare la distanza dal punto medio $M$ di $BC$ alla linea $DE$.
 
-[[src_obm_2011_n3_f2__Q06]]
+[[Quesiti/src_obm_2011_n3_f2#q06|src_obm_2011_n3_f2__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: OBM Nível 3
 
 > Trova tutte le soluzioni reali $(x, y, z)$ del sistema \[ \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases} \]
 
-[[src_obm_2011_n3_f2__Q07]]
+[[Quesiti/src_obm_2011_n3_f2#q07|src_obm_2011_n3_f2__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: OBM Nível 3
 
 > Che $P(x)$ sia un polinomio con coefficienti interi. È noto che $P(x) = 2011$ ha almeno due radici di numeri interi distinte uguali a $1$ e $t$, e che $P(x) = 0$ ha almeno una radice di numeri interi. Determinare tutti i possibili valori di $t$.
 
-[[src_obm_2011_n3_f2__Q08]]
+[[Quesiti/src_obm_2011_n3_f2#q08|src_obm_2011_n3_f2__Q08]]
 
 
 
@@ -257,4 +257,4 @@ level: OBM Nível 3
 
 > Esmeralda ha un cerchio di cartone diviso in settori circolari $n$, numerati da $1$ a $n$, in ordine orario. In quanti modi Esmeralda può dipingere il cartone, dipingendo ogni settore con un unico colore, avendo $k$ colori disponibili, in modo che due settori circolari vicini (cioè settori che condividono un segmento in comune, un confine) abbiano colori diversi? Si noti che ciò implica che i settori numerati $1$ e $n$ devono avere colori diversi.
 
-[[src_obm_2011_n3_f2__Q09]]
+[[Quesiti/src_obm_2011_n3_f2#q09|src_obm_2011_n3_f2__Q09]]

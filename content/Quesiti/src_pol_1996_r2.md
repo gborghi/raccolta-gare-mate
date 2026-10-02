@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Ogni polinomio con coefficienti interi può essere espresso come una somma di cubetti di polinomi con coefficienti interi?
 
-[[src_pol_1996_r2__Q01]]
+[[Quesiti/src_pol_1996_r2#q01|src_pol_1996_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > Un cerchio con il centro $O$ è tangente ai lati $AB$, $BC$, $CD$, $DA$ di un quadrilaterale converso $ABCD$ a $K$, $L$, $M$, $N$. Le linee $KL$ e $MN$ si incrociano al punto $S$. Prove che $BD \perp OS$.
 
-[[src_pol_1996_r2__Q02]]
+[[Quesiti/src_pol_1996_r2#q02|src_pol_1996_r2__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 2
 
 > Prove che se $a, b, c > -\frac{1}{2}$ e $a + b + c = 1$, allora $$\frac{a}{a^2+1} + \frac{b}{b^2+1} + \frac{c}{c^2+1} \le \frac{9}{10}.$$
 
-[[src_pol_1996_r2__Q03]]
+[[Quesiti/src_pol_1996_r2#q03|src_pol_1996_r2__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 2
 
 > Se $a_1, a_2, \ldots$ è una sequenza di cifre dell'insieme $\{0, 1, \ldots, 9\}$ in modo tale che se $a_i = n$, $n \in \mathbb{N}$, $n \ge 10$, allora $a_{i+1} \ge 2$, e se $a_i = 3$, allora $a_{i+1} \ne 4$. Prove che esistono indici $i, j \in \{1, \ldots, 99\}$, $i \ne j$, quali $a_i = a_j$ e $a_{i+1} = a_{j+1}$.
 
-[[src_pol_1996_r2__Q04]]
+[[Quesiti/src_pol_1996_r2#q04|src_pol_1996_r2__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti gli integri $x$, $y$ tali da $x^2(y - 1) + y^2(x - 1) = 1$.
 
-[[src_pol_1996_r2__Q05]]
+[[Quesiti/src_pol_1996_r2#q05|src_pol_1996_r2__Q05]]
 
 
 
@@ -169,4 +169,4 @@ level: Olimpiade Polacca Round 2
 
 > Prova che ogni punto interno di un parallelepiped con bordi $a$, $b$, $c$ è a distanza massima $\frac{1}{2}\sqrt{a^2 + b^2 + c^2}$ da qualche vertice del parallelepiped.
 
-[[src_pol_1996_r2__Q06]]
+[[Quesiti/src_pol_1996_r2#q06|src_pol_1996_r2__Q06]]

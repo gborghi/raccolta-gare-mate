@@ -35,7 +35,7 @@ level: JJMO Yosen
 > Un intero positivo che ha esattamente $6$ divisori positivi e la cui somma digitali è uguale $7$ è chiamato "numero di quest'anno". Ad esempio, $2023$ è un numero di quest'anno. Trova il numero più piccolo di quest'anno.
 
 **Risposta:** 52
-[[src_jjmo21yqa_yosen__Q01]]
+[[Quesiti/src_jjmo21yqa_yosen#q01|src_jjmo21yqa_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JJMO Yosen
 
 > There is a trapezoid $ABCD$ with $AD \parallel BC$, $\angle A = \angle B = 90^\circ$, $AB = 8$, $BC = 11$, and $DA = 6$. Points $P, Q, R, S$ lie on sides $AB$, $BC$, $CD$, $DA$ respectively, and the quadrilateral $PQRS$ is a square. Find the value of $\dfrac{CR}{RD}$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo21yqa_yosen__Q02.png]]
+![[src_jjmo21yqa_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -65,10 +65,10 @@ level: JJMO Yosen
 
 > C'è un trapezoide $ABCD$ con $AD \parallel BC$, $\angle A = \angle B = 90^\circ$, $AB = 8$, $BC = 11$ e $DA = 6$. I punti $P, Q, R, S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$, e il quadrilaterale $PQRS$ è quadrato. Trova il valore di $\dfrac{CR}{RD}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo21yqa_yosen__Q02.png]]
+![[src_jjmo21yqa_yosen__q02.png]]
 
 **Risposta:** 3/2
-[[src_jjmo21yqa_yosen__Q02]]
+[[Quesiti/src_jjmo21yqa_yosen#q02|src_jjmo21yqa_yosen__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: JJMO Yosen
 > Considerate come scrivere una delle lettere A, B, C in ciascuna delle celle $7$ disposte in una singola riga. Quanti sono questi scritti in cui esistono due cellule adiacenti entrambe contenenti A, due cellule adiacenti entrambe contenenti B e due cellule adiacenti entrambe contenenti C? (Le scritture che coincidono sotto rotazione o riflessione sono ancora contate come distinte.)
 
 **Risposta:** 54
-[[src_jjmo21yqa_yosen__Q03]]
+[[Quesiti/src_jjmo21yqa_yosen#q03|src_jjmo21yqa_yosen__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: JJMO Yosen
 > Ci sono $5$ diversi integri positivi $a, b, c, d, e$. Tra le seguenti espressioni $10$ $$a+b,\ a+c,\ a+d,\ a+e,\ b+c,\ b+d,\ b+e,\ c+d,\ c+e,\ d+e,$$ trovi il numero massimo possibile il cui valore è un primo.
 
 **Risposta:** 6
-[[src_jjmo21yqa_yosen__Q04]]
+[[Quesiti/src_jjmo21yqa_yosen#q04|src_jjmo21yqa_yosen__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: JJMO Yosen
 > C'è un triangolo $ABC$ con $AB = 8$ e $AC = 9$. Una linea parallela alla linea $BC$ incontra il circoncircolo del triangolo $ABC$ in due punti distinti $P, Q$ e incontra i lati $AB$, $AC$ rispettivamente nei punti $D$ e $E$. I quattro punti $P, D, E, Q$ si trovano in questo ordine. Quando $PD = 2$ e $EQ = 3$, trovare la lunghezza del segmento $DE$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 17/5
-[[src_jjmo21yqa_yosen__Q05]]
+[[Quesiti/src_jjmo21yqa_yosen#q05|src_jjmo21yqa_yosen__Q05]]
 
 
 
@@ -184,7 +184,7 @@ level: JJMO Yosen
 > Quanti triples $(a, b, c)$ di numeri interi positivi con $a < b < c$ soddisfano $$a^2 - 20005a > b^2 - 20005b > c^2 - 20005c\,?$$
 
 **Risposta:** 333433340000
-[[src_jjmo21yqa_yosen__Q06]]
+[[Quesiti/src_jjmo21yqa_yosen#q06|src_jjmo21yqa_yosen__Q06]]
 
 
 
@@ -213,7 +213,7 @@ level: JJMO Yosen
 > In una competizione con i paesi $100$ compresi i paesi J, i giocatori $3$ di ciascun paese (un totale di giocatori $300$) fanno un test e tutti $300$ ottengono punteggi di numeri interi distinti non negativi. I tre giocatori di Country J ottengono i punteggi classificati $1$st, $10$th e $100$th più alti tra tutti i giocatori $300$. Trovare il numero massimo possibile di paesi, tra i restanti $99$, che soddisfino la seguente condizione: la somma dei punteggi dei tre giocatori di quel paese è superiore alla somma dei punteggi dei tre giocatori del paese J.
 
 **Risposta:** 33
-[[src_jjmo21yqa_yosen__Q07]]
+[[Quesiti/src_jjmo21yqa_yosen#q07|src_jjmo21yqa_yosen__Q07]]
 
 
 
@@ -242,7 +242,7 @@ level: JJMO Yosen
 > Un quadrilaterale ciclico $ABCD$ soddisfa $AB = 1$, $CD = 3$ e $AC : BD = 1 : 2$. Trovare la superficie massima possibile di tale quadrilaterale $ABCD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 8/3
-[[src_jjmo21yqa_yosen__Q08]]
+[[Quesiti/src_jjmo21yqa_yosen#q08|src_jjmo21yqa_yosen__Q08]]
 
 
 
@@ -259,7 +259,7 @@ level: JJMO Yosen
 > \item For every good edge, the two small triangles having it as a side are colored the same color.
 > \end{itemize}
 
-![[src_jjmo21yqa_yosen__Q09.png]]
+![[src_jjmo21yqa_yosen__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
@@ -276,10 +276,10 @@ level: JJMO Yosen
 
 > Considera una griglia di celle $7 \times 7$. Per due celle adiacenti, il bordo che condividono è chiamato "buono bordo". Quando ogni cella è divisa in quattro parti dai suoi due diagonali, l'intera figura è divisa in triangoli congruenti di uguali dimensioni a destra $196$; ciascun triangolo di questo tipo è chiamato "piccolo triangolo". In quanti modi ciascuno di questi piccoli triangoli $196$ può essere colorato in rosso o blu in modo che siano valide entrambe le seguenti condizioni? Per ogni cella, tra i quattro piccoli triangoli contenuti, il numero di colore rosso è esattamente $1$ o $3$. \item Per ogni buon bordo, i due piccoli triangoli che lo hanno come lato sono di colore lo stesso colore. # Finire #
 
-![[src_jjmo21yqa_yosen__Q09.png]]
+![[src_jjmo21yqa_yosen__q09.png]]
 
 **Risposta:** 2^{63}
-[[src_jjmo21yqa_yosen__Q09]]
+[[Quesiti/src_jjmo21yqa_yosen#q09|src_jjmo21yqa_yosen__Q09]]
 
 
 
@@ -308,7 +308,7 @@ level: JJMO Yosen
 > $n$ sia un numero intero con $3 \le n \le 2023$. I giocatori A e B giocano il seguente gioco. Prima A dice $n$, poi B e A eseguono alternativamente la seguente operazione: lasciando $x$ essere il numero che l'avversario ha appena detto, diciamo un intero positivo inferiore a $x$ che è coprime a $x$. Il gioco termina la prima volta che viene detto un divisore di $n$ che è inferiore a $n$; la persona che ha detto che perde e l'altro vince. Trova il numero di valori di $n$ per i quali A può sempre vincere indipendentemente dal modo in cui B gioca.
 
 **Risposta:** 173
-[[src_jjmo21yqa_yosen__Q10]]
+[[Quesiti/src_jjmo21yqa_yosen#q10|src_jjmo21yqa_yosen__Q10]]
 
 
 
@@ -337,7 +337,7 @@ level: JJMO Yosen
 > Ogni studente della JJMO Middle School vive esattamente in una delle due città, città A o città B, e ci sono $2023$ studenti in totale. Per due studenti distinti, o sono amici l'uno dell'altro o no (esattamente uno di questi si applica), e nessun studente è amico di se stesso. Inoltre, per ogni studente $S$ della JJMO Middle School vale quanto segue: se $d$ indica il numero di studenti che sono amici di $S$, allora esattamente $\left[\dfrac{d}{2}\right]$ di essi vivono nella stessa città di $S$. Trova il massimo numero possibile di coppie di studenti che sono amici l'uno dell'altro. (Due coppie che differiscono solo nell'ordine sono considerate uguali. Qui $[r]$ indica il numero intero più grande non superiore a $r$; ad esempio $[3.14] = 3$, $[5] = 5$.)
 
 **Risposta:** 2043736
-[[src_jjmo21yqa_yosen__Q11]]
+[[Quesiti/src_jjmo21yqa_yosen#q11|src_jjmo21yqa_yosen__Q11]]
 
 
 
@@ -366,4 +366,4 @@ level: JJMO Yosen
 > Nel triangolo $ABC$, i punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), mentre i quattro punti $D, B, C, E$ si trovano su un cerchio comune. Il $M$ deve essere il punto medio del lato $BC$ e il $P$ deve essere l'intersezione della linea $BE$ e della linea $CD$. Poiché $DE = 6$, $BC = 10$, $AP = 9$ e $PM = 4$, si trova la lunghezza del segmento $AM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \sqrt{137}
-[[src_jjmo21yqa_yosen__Q12]]
+[[Quesiti/src_jjmo21yqa_yosen#q12|src_jjmo21yqa_yosen__Q12]]

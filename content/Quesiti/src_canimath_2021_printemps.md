@@ -40,7 +40,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 25
-[[src_canimath_2021_printemps__Q01]]
+[[Quesiti/src_canimath_2021_printemps#q01|src_canimath_2021_printemps__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 12
-[[src_canimath_2021_printemps__Q02]]
+[[Quesiti/src_canimath_2021_printemps#q02|src_canimath_2021_printemps__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: Coupe Animath Printemps
 > Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
 **Risposta:** 150^\circ
-[[src_canimath_2021_printemps__Q03]]
+[[Quesiti/src_canimath_2021_printemps#q03|src_canimath_2021_printemps__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: Coupe Animath Printemps
 
 > Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
-[[src_canimath_2021_printemps__Q04]]
+[[Quesiti/src_canimath_2021_printemps#q04|src_canimath_2021_printemps__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: Coupe Animath Printemps
 > 
 > *Un quadrato perfetto è un intero che può essere scritto nella forma $n^2$, dove $n$ è un intero.*
 
-[[src_canimath_2021_printemps__Q05]]
+[[Quesiti/src_canimath_2021_printemps#q05|src_canimath_2021_printemps__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: Coupe Animath Printemps
 
 > Il $ABCD$ deve essere un quadrilaterale convesso in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$ e $AD < BC$. $M$ sia il punto medio del segmento $[BC]$ e $E$ sia il punto di intersezione delle linee $(MD)$ e $(AC)$. Prova che il perimetro del triangolo $AMC$ è maggiore o uguale al perimetro del quadrilaterale $ABME$.
 
-[[src_canimath_2021_printemps__Q06]]
+[[Quesiti/src_canimath_2021_printemps#q06|src_canimath_2021_printemps__Q06]]
 
 
 
@@ -213,7 +213,7 @@ level: Coupe Animath Printemps
 
 > Anna scrive una sequenza di $0$s e $1$s sulla lavagna. Anna osserva che in ogni blocco di cifre consecutive $200$ scritte sulla lavagna, ci sono uguali cifre $0$ che cifre $1$. Essa osserva inoltre che in ogni blocco di $202$ cifre consecutive scritte sulla lavagna, il numero di $0$ e il numero di $1$ non sono uguali. Qual è il numero massimo di cifre che Anna avrebbe potuto scrivere sulla lavagna?
 
-[[src_canimath_2021_printemps__Q07]]
+[[Quesiti/src_canimath_2021_printemps#q07|src_canimath_2021_printemps__Q07]]
 
 
 
@@ -245,7 +245,7 @@ level: Coupe Animath Printemps
 > 
 > 1. Supponiamo che $n = 13$. Prove che tra le formiche $13$ esistono due formiche a distanza inferiore o uguale a $1$. 2. Supponiamo che $n = 9$. Prove che tra le formiche $9$ esistono due formiche a distanza inferiore o pari a $1$.
 
-[[src_canimath_2021_printemps__Q08]]
+[[Quesiti/src_canimath_2021_printemps#q08|src_canimath_2021_printemps__Q08]]
 
 
 
@@ -277,7 +277,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 12
-[[src_canimath_2021_printemps__Q09]]
+[[Quesiti/src_canimath_2021_printemps#q09|src_canimath_2021_printemps__Q09]]
 
 
 
@@ -306,7 +306,7 @@ level: Coupe Animath Printemps
 > Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
 **Risposta:** 150^\circ
-[[src_canimath_2021_printemps__Q10]]
+[[Quesiti/src_canimath_2021_printemps#q10|src_canimath_2021_printemps__Q10]]
 
 
 
@@ -333,7 +333,7 @@ level: Coupe Animath Printemps
 
 > Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
-[[src_canimath_2021_printemps__Q11]]
+[[Quesiti/src_canimath_2021_printemps#q11|src_canimath_2021_printemps__Q11]]
 
 
 
@@ -362,7 +362,7 @@ level: Coupe Animath Printemps
 > In quanti modi si possono colorare gli integri da $1$ a $2021$ in modo che ogni numero intero sia colorato blu, verde o rosso, e in modo che due numeri interi consecutivi non siano mai dello stesso colore?
 
 **Risposta:** 3\times 2^{2020}
-[[src_canimath_2021_printemps__Q12]]
+[[Quesiti/src_canimath_2021_printemps#q12|src_canimath_2021_printemps__Q12]]
 
 
 
@@ -393,7 +393,7 @@ level: Coupe Animath Printemps
 > 
 > Dimostrare che esistono due integri $a$ e $b$ in modo tale che la differenza tra il numero di studenti che hanno ottenuto il grado $a$ e il numero di studenti che hanno ottenuto il grado $b$, prima delle modifiche effettuate da Vincent, sia almeno $100$.
 
-[[src_canimath_2021_printemps__Q13]]
+[[Quesiti/src_canimath_2021_printemps#q13|src_canimath_2021_printemps__Q13]]
 
 
 
@@ -426,7 +426,7 @@ level: Coupe Animath Printemps
 > 
 > 2. Il $ABCD$ deve essere un quadrilaterale convexo in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$, $AD < AB$ e $BC < AB$. Il punto $P$ deve essere situato all'interno del quadrilaterale $ABCD$. Provare che $$PA + PB + PC + PD < 4AB < 2(PA + PB + PC + PD).$$
 
-[[src_canimath_2021_printemps__Q14]]
+[[Quesiti/src_canimath_2021_printemps#q14|src_canimath_2021_printemps__Q14]]
 
 
 
@@ -453,7 +453,7 @@ level: Coupe Animath Printemps
 
 > Determinare il numero intero più piccolo $n$ in modo tale che esistano i valori $n$ $x_1, \ldots, x_n$ tutti appartenenti all'intervallo $\left]-1, 1\right[$ e per i quali $x_1 + \ldots + x_n = 0$ e $x_1^2 + \ldots + x_n^2 = 2020$.
 
-[[src_canimath_2021_printemps__Q15]]
+[[Quesiti/src_canimath_2021_printemps#q15|src_canimath_2021_printemps__Q15]]
 
 
 
@@ -484,7 +484,7 @@ level: Coupe Animath Printemps
 > 
 > È possibile dividere l'insieme $\{1, 2, \ldots, 2021^2\}$ in diversi insiemi bilanciati che sono disgiunti in coppia?
 
-[[src_canimath_2021_printemps__Q16]]
+[[Quesiti/src_canimath_2021_printemps#q16|src_canimath_2021_printemps__Q16]]
 
 
 
@@ -511,4 +511,4 @@ level: Coupe Animath Printemps
 
 > Le formiche $8$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, due formiche si dice siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo. Prove che esistono due formiche a distanza inferiore o pari a $1$.
 
-[[src_canimath_2021_printemps__Q17]]
+[[Quesiti/src_canimath_2021_printemps#q17|src_canimath_2021_printemps__Q17]]

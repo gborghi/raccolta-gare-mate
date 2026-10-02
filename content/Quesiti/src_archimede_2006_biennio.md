@@ -48,7 +48,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 2.
 
 **Answer:** D
-[[src_archimede_2006_biennio__Q01]]
+[[Quesiti/src_archimede_2006_biennio#q01|src_archimede_2006_biennio__Q01]]
 
 
 
@@ -91,7 +91,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** (6+10π) cm.
 
 **Answer:** C
-[[src_archimede_2006_biennio__Q02]]
+[[Quesiti/src_archimede_2006_biennio#q02|src_archimede_2006_biennio__Q02]]
 
 
 
@@ -132,7 +132,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 16.
 
 **Answer:** E
-[[src_archimede_2006_biennio__Q03]]
+[[Quesiti/src_archimede_2006_biennio#q03|src_archimede_2006_biennio__Q03]]
 
 
 
@@ -173,7 +173,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** more than EUR 128.
 
 **Answer:** C
-[[src_archimede_2006_biennio__Q04]]
+[[Quesiti/src_archimede_2006_biennio#q04|src_archimede_2006_biennio__Q04]]
 
 
 
@@ -217,7 +217,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 9.
 
 **Answer:** A
-[[src_archimede_2006_biennio__Q05]]
+[[Quesiti/src_archimede_2006_biennio#q05|src_archimede_2006_biennio__Q05]]
 
 
 
@@ -257,7 +257,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 70 m.
 
 **Answer:** A
-[[src_archimede_2006_biennio__Q06]]
+[[Quesiti/src_archimede_2006_biennio#q06|src_archimede_2006_biennio__Q06]]
 
 
 
@@ -299,7 +299,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 670.
 
 **Answer:** B
-[[src_archimede_2006_biennio__Q07]]
+[[Quesiti/src_archimede_2006_biennio#q07|src_archimede_2006_biennio__Q07]]
 
 
 
@@ -351,7 +351,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** √ 2 + √ 3 < √ 10 < 3.
 
 **Answer:** D
-[[src_archimede_2006_biennio__Q08]]
+[[Quesiti/src_archimede_2006_biennio#q08|src_archimede_2006_biennio__Q08]]
 
 
 
@@ -438,7 +438,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** √ 3 2 m.
 
 **Answer:** E
-[[src_archimede_2006_biennio__Q09]]
+[[Quesiti/src_archimede_2006_biennio#q09|src_archimede_2006_biennio__Q09]]
 
 
 
@@ -481,7 +481,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** It is not possible to estimate the number based on the problem data.
 
 **Answer:** C
-[[src_archimede_2006_biennio__Q10]]
+[[Quesiti/src_archimede_2006_biennio#q10|src_archimede_2006_biennio__Q10]]
 
 
 
@@ -525,7 +525,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 8.
 
 **Answer:** C
-[[src_archimede_2006_biennio__Q11]]
+[[Quesiti/src_archimede_2006_biennio#q11|src_archimede_2006_biennio__Q11]]
 
 
 
@@ -567,7 +567,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 24.
 
 **Answer:** D
-[[src_archimede_2006_biennio__Q12]]
+[[Quesiti/src_archimede_2006_biennio#q12|src_archimede_2006_biennio__Q12]]
 
 
 
@@ -609,7 +609,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 99.
 
 **Answer:** B
-[[src_archimede_2006_biennio__Q13]]
+[[Quesiti/src_archimede_2006_biennio#q13|src_archimede_2006_biennio__Q13]]
 
 
 
@@ -653,7 +653,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 1152.
 
 **Answer:** B
-[[src_archimede_2006_biennio__Q14]]
+[[Quesiti/src_archimede_2006_biennio#q14|src_archimede_2006_biennio__Q14]]
 
 
 
@@ -696,7 +696,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 1024 wonderful days.
 
 **Answer:** C
-[[src_archimede_2006_biennio__Q15]]
+[[Quesiti/src_archimede_2006_biennio#q15|src_archimede_2006_biennio__Q15]]
 
 
 
@@ -740,7 +740,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** It is not possible to estimate the number based on the problem data.
 
 **Answer:** E
-[[src_archimede_2006_biennio__Q16]]
+[[Quesiti/src_archimede_2006_biennio#q16|src_archimede_2006_biennio__Q16]]
 
 
 
@@ -832,7 +832,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** ( √ 3 −1) m.
 
 **Answer:** B
-[[src_archimede_2006_biennio__Q17]]
+[[Quesiti/src_archimede_2006_biennio#q17|src_archimede_2006_biennio__Q17]]
 
 
 
@@ -874,7 +874,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** 4.
 
 **Answer:** C
-[[src_archimede_2006_biennio__Q18]]
+[[Quesiti/src_archimede_2006_biennio#q18|src_archimede_2006_biennio__Q18]]
 
 
 
@@ -923,7 +923,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** x ≥3.
 
 **Answer:** B
-[[src_archimede_2006_biennio__Q19]]
+[[Quesiti/src_archimede_2006_biennio#q19|src_archimede_2006_biennio__Q19]]
 
 
 
@@ -964,4 +964,4 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(E)** half the volume of the cube.
 
 **Answer:** A
-[[src_archimede_2006_biennio__Q20]]
+[[Quesiti/src_archimede_2006_biennio#q20|src_archimede_2006_biennio__Q20]]

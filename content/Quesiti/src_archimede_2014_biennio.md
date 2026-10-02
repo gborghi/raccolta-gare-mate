@@ -38,7 +38,7 @@ level: biennio
 > In the village of Gnallucci circulate four coins: dobloni, zecchini, taleri and fufignezi. A double is worth as much as a duck plus a log and a ponytail. Two doubles are worth a duck plus three tallies and five sparrows. A guy like that walks into a store with a hammer and walks out with a dresser. How much did he pay? (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
 
 **Answer:** C
-[[src_archimede_2014_biennio__Q01]]
+[[Quesiti/src_archimede_2014_biennio#q01|src_archimede_2014_biennio__Q01]]
 
 
 
@@ -78,7 +78,7 @@ level: biennio
 > - **(E)** None of the above.
 
 **Answer:** C
-[[src_archimede_2014_biennio__Q02]]
+[[Quesiti/src_archimede_2014_biennio#q02|src_archimede_2014_biennio__Q02]]
 
 
 
@@ -110,7 +110,7 @@ Return time with time zone between two cities
 > Paperopolis is four hours' drive from Topolinia. Paperino leaves Paperopoli at 4 a.m., local time, and, due to the time zone, arrives in Topolinia at noon. What time does he get back to Paperopoli if he leaves two hours later? (A) 12 noon; (B) 2 pm; (C) 3 pm; (D) 4 pm; (E) depends on the time of lunch in Topolinia.
 
 **Answer:** B
-[[src_archimede_2014_biennio__Q03]]
+[[Quesiti/src_archimede_2014_biennio#q03|src_archimede_2014_biennio__Q03]]
 
 
 
@@ -191,7 +191,7 @@ Return time with time zone between two cities
 > A parallelogram is constructed by gluing four equilateral triangles of side 10 cm as shown in the figure. How many centimetres apart are the opposite vertices A and B? (A) 25, (B) √ 675, (C) √ 700, (D) √ 825, (E) 30. B A
 
 **Answer:** C
-[[src_archimede_2014_biennio__Q04]]
+[[Quesiti/src_archimede_2014_biennio#q04|src_archimede_2014_biennio__Q04]]
 
 
 
@@ -223,7 +223,7 @@ Return time with time zone between two cities
 > The numbers a, b, and c are relative integers. We know that a2bc is equal to 1. Which of the following is certainly true? (A) a = 1 e b = 1, (B) a = −1 e c = 1, (C) b2ac = 1, (D) a2b2 = 1, (E) a ̸= 1.
 
 **Answer:** D
-[[src_archimede_2014_biennio__Q05]]
+[[Quesiti/src_archimede_2014_biennio#q05|src_archimede_2014_biennio__Q05]]
 
 
 
@@ -255,7 +255,7 @@ You will be working as a manager with salary constraints
 > In a certain company each manager receives a salary four times that of each worker. The total cost of paying the salaries of all employees is equal to six times the total cost of the salaries of all managers. How many workers are there for each manager? (A) 5, (B) 6, (C) 20, (D) 24, (E) 30.
 
 **Answer:** C
-[[src_archimede_2014_biennio__Q06]]
+[[Quesiti/src_archimede_2014_biennio#q06|src_archimede_2014_biennio__Q06]]
 
 
 
@@ -288,7 +288,7 @@ You will be working as a manager with salary constraints
 > At Luna Park, there is a seed distributor with two buttons and a container: the first button puts 16 seed into the container, the second increases the number of seed in the container by 50%. By entering a coin, you can press any of the two buttons. If the container is initially empty, how many bags can you get into the container with 5 coins? (A) 70, (B) 80, (C) 88, (D) 96, (E) 108.
 
 **Answer:** E
-[[src_archimede_2014_biennio__Q07]]
+[[Quesiti/src_archimede_2014_biennio#q07|src_archimede_2014_biennio__Q07]]
 
 
 
@@ -332,7 +332,7 @@ The probability that three people will say the same word
 > Agata, Nina and Leo decide that at Via! each of them will say (accidentally) BIM, or BUM, or BAM. What's the probability that all three of them will say the same thing? (A) Less than 12, (B) between 12 and 10, (C) between 10 and 18, (D) between 18 and 16, (E) more than 16.
 
 **Answer:** C
-[[src_archimede_2014_biennio__Q08]]
+[[Quesiti/src_archimede_2014_biennio#q08|src_archimede_2014_biennio__Q08]]
 
 
 
@@ -362,7 +362,7 @@ The probability that three people will say the same word
 > A regular pentagon of 1 cm side is given; how many cm2 is the area of the set of points in the plane that are outside the pentagon and at most 1 cm away from it? (A) (5 + π), (B) (3/2 + 2π), (C) 7, (D) 8, (E) 3π.
 
 **Answer:** A
-[[src_archimede_2014_biennio__Q09]]
+[[Quesiti/src_archimede_2014_biennio#q09|src_archimede_2014_biennio__Q09]]
 
 
 
@@ -395,7 +395,7 @@ The probability that three people will say the same word
 > Eight players, four of whom are defenders and four are attackers, organize a pool tournament. Each possible attacking-defensive pair plays once and only once against every other possible attacking-defensive pair. How many meetings will they have in all? (A) 24, (B) 36, (C) 48, (D) 72, (E) 144.
 
 **Answer:** D
-[[src_archimede_2014_biennio__Q10]]
+[[Quesiti/src_archimede_2014_biennio#q10|src_archimede_2014_biennio__Q10]]
 
 
 
@@ -427,7 +427,7 @@ The probability that three people will say the same word
 > A prime number of three digits is given whose digits are, in the order: a, b, c. How many prime divisors has the six-digit number whose writing is abcabc? [Remember that 1 is not a prime number.] A, 1, B, 2, C, 3, D, 4, E, 5.
 
 **Answer:** D
-[[src_archimede_2014_biennio__Q11]]
+[[Quesiti/src_archimede_2014_biennio#q11|src_archimede_2014_biennio__Q11]]
 
 
 
@@ -494,7 +494,7 @@ The probability that three people will say the same word
 > The square in the figure is divided into 9 congruent squares. Knowing that the side of the large square measures L, calculate the area highlighted in gray. (A) 11 108L2, (B) 1 9L2, (C) 5 54L2, (D) 1 12L2, (E) 13 81L2.
 
 **Answer:** A
-[[src_archimede_2014_biennio__Q12]]
+[[Quesiti/src_archimede_2014_biennio#q12|src_archimede_2014_biennio__Q12]]
 
 
 
@@ -522,7 +522,7 @@ The probability that three people will say the same word
 > How many digits does the number 2010 have? (A) 10, (B) 11, (C) 13, (D) 14, (E) 15.
 
 **Answer:** D
-[[src_archimede_2014_biennio__Q13]]
+[[Quesiti/src_archimede_2014_biennio#q13|src_archimede_2014_biennio__Q13]]
 
 
 
@@ -586,7 +586,7 @@ The probability that three people will say the same word
 > Three circles are given, each 1 cm in radius and tangent two to two as shown in the figure. Calculate the area in cm2 of the part between the three circumferences, highlighted in gray in the figure. (A) ( √ 3 −π 2 ), (B) √ 3, (C) 3, (D) π 2 , (E) π.
 
 **Answer:** A
-[[src_archimede_2014_biennio__Q14]]
+[[Quesiti/src_archimede_2014_biennio#q14|src_archimede_2014_biennio__Q14]]
 
 
 
@@ -621,7 +621,7 @@ The probability that three people will say the same word
 > A traveling student wakes up in the morning and, from his seven-story hotel room (beyond the ground floor), takes the elevator to the ground floor and has breakfast. However, very sleepy, he repeatedly presses the wrong button and visits all the other floors (excluding his own) exactly once, before finally reaching the ground floor. Knowing your room isn't on the ground floor, how far down the elevator is it? (A) 29 floors, (B) 28 floors, (C) 27 floors, (D) 26 floors, (E) 25 floors.
 
 **Answer:** B
-[[src_archimede_2014_biennio__Q15]]
+[[Quesiti/src_archimede_2014_biennio#q15|src_archimede_2014_biennio__Q15]]
 
 
 
@@ -680,4 +680,4 @@ The probability that three people will say the same word
 > Francesco wants to sow an area of his house's garden, which has the shape shown in the figure (grey house and white garden all around). To do this, attach a 2 m rope to the A corner of the house, the curtain and, moving the end, draw the perimeter of the area to be sown. How many square meters will Francesco plant? (A) 2π + √ 3, (B) 15 4 π − √ 3 2 , (C) 31 12π + √ 3 2 , (D) 9 4π, (E) 4π − √ 3 2 −1. 1 m 1 m 2 m 3 m A
 
 **Answer:** C
-[[src_archimede_2014_biennio__Q16]]
+[[Quesiti/src_archimede_2014_biennio#q16|src_archimede_2014_biennio__Q16]]

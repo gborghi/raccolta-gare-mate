@@ -37,7 +37,7 @@ level: JEGMO
 
 > Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano le seguenti due condizioni: \begin{itemize} \item La media di $x$ e $y$ è un numero primo. \item $\dfrac{x! + y!}{x + y}$ è un numero intero. # Finire #
 
-[[src_jegmo13q__Q01]]
+[[Quesiti/src_jegmo13q#q01|src_jegmo13q__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: JEGMO
 > 
 > Nota: gli arrangiamenti che coincidono per rotazione o riflessione sono considerati come distinti.
 
-[[src_jegmo13q__Q02]]
+[[Quesiti/src_jegmo13q#q02|src_jegmo13q__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: JEGMO
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che per tutti i numeri reali $x, y$, $$f(f(x) + xy) = f(x)f(x + y).$$
 
-[[src_jegmo13q__Q03]]
+[[Quesiti/src_jegmo13q#q03|src_jegmo13q__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: JEGMO
 
 > Trova tutti gli integri $n \ge 2$ e tutti $n$-tupli di integri positivi $(a_1, a_2, \ldots, a_n)$ che soddisfano le seguenti tre condizioni: \begin{itemize} \item $a_1 < a_2 < \cdots < a_n$. \item $a_n$ è un numero primo. \item Per ogni numero intero $k$ con $1 \le k \le n$, $a_k$ divide $a_1 + a_2 + \cdots + a_n$. # Finire #
 
-[[src_jegmo13q__Q04]]
+[[Quesiti/src_jegmo13q#q04|src_jegmo13q__Q04]]
 
 
 
@@ -163,4 +163,4 @@ level: JEGMO
 
 > Let $G$ essere il centroide del triangolo $ABC$, e let $M$, $N$ essere i punti medi dei lati $AB$, $AC$, rispettivamente. Supponiamo che i quattro punti $A$, $G$, $M$, $N$ siano conciclici. Prova che la linea attraverso $A$ perpendicolare alla linea $AG$ e la linea attraverso $G$ perpendicolare alla linea $BC$ si incontrano sul circoncircolo del triangolo $ABC$.
 
-[[src_jegmo13q__Q05]]
+[[Quesiti/src_jegmo13q#q05|src_jegmo13q__Q05]]

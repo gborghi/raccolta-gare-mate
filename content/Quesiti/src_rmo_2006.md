@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be an acute-angled triangle and let $D$, $E$, $F$ be the feet of perpendiculars from $A$, $B$, $C$ respectively to $BC$, $CA$, $AB$. Let the perpendiculars from $F$ to $CB$, $CA$, $AD$, $BE$ meet them in $P$, $Q$, $M$, $N$ respectively. Prove that $P$, $Q$, $M$, $N$ are collinear.
 
-![[src_rmo_2006__Q01.png]]
+![[src_rmo_2006__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Il $ABC$ deve essere un triangolo acuto angolato e $D$, $E$, $F$ devono essere i piedi delle perpendicolari da $A$, $B$, $C$ rispettivamente a $BC$, $CA$, $AB$. Lasciate che le perpendicolari da $F$ a $CB$, $CA$, $AD$, $BE$ si incontrino rispettivamente in $P$, $Q$, $M$ e $N$. Provare che $P$, $Q$, $M$, $N$ sono collineari.
 
-![[src_rmo_2006__Q01.png]]
+![[src_rmo_2006__q01.png]]
 
-[[src_rmo_2006__Q01]]
+[[Quesiti/src_rmo_2006#q01|src_rmo_2006__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: RMO
 
 > Trovare il minimo valore possibile di $a + b$, dove $a$, $b$ sono integri positivi in modo tale che 11 divide $a + 13b$ e 13 divide $a + 11b$.
 
-[[src_rmo_2006__Q02]]
+[[Quesiti/src_rmo_2006#q02|src_rmo_2006__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: RMO
 
 > Se $a$, $b$, $c$ sono tre numeri reali positivi, dimostrare che $$\frac{a^2+1}{b+c} + \frac{b^2+1}{c+a} + \frac{c^2+1}{a+b} \ge 3.$$
 
-[[src_rmo_2006__Q03]]
+[[Quesiti/src_rmo_2006#q03|src_rmo_2006__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: RMO
 
 > Un quadrato $6 \times 6$ è dissezionato in 9 rettangoli con linee parallele ai suoi lati in modo che tutti questi rettangoli abbiano lati interi. Prova che ci sono sempre due rettangoli congruenti.
 
-[[src_rmo_2006__Q04]]
+[[Quesiti/src_rmo_2006#q04|src_rmo_2006__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: RMO
 
 > Let $ABCD$ be a quadrilateral in which $AB$ is parallel to $CD$ and perpendicular to $AD$; $AB = 3CD$; and the area of the quadrilateral is 4. If a circle can be drawn touching all the sides of the quadrilateral, find its radius.
 
-![[src_rmo_2006__Q05.png]]
+![[src_rmo_2006__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -147,9 +147,9 @@ level: RMO
 
 > Il $ABCD$ è un quadrilaterale in cui $AB$ è parallelo a $CD$ e perpendicolare a $AD$; $AB = 3CD$; e la superficie del quadrilaterale è 4. Se si può disegnare un cerchio che tocchi tutti i lati del quadrilaterale, trovare il suo raggio.
 
-![[src_rmo_2006__Q05.png]]
+![[src_rmo_2006__q05.png]]
 
-[[src_rmo_2006__Q05]]
+[[Quesiti/src_rmo_2006#q05|src_rmo_2006__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: RMO
 
 > Dimostra che ci sono infiniti interi positivi $n$ in modo tale che $n(n+1)$ possa essere espressa come la somma di due quadrati positivi in almeno due modi diversi. (Qui $a^2 + b^2$ e $b^2 + a^2$ sono considerati come la stessa rappresentazione.)
 
-[[src_rmo_2006__Q06]]
+[[Quesiti/src_rmo_2006#q06|src_rmo_2006__Q06]]
 
 
 
@@ -202,4 +202,4 @@ level: RMO
 
 > $X$ sia l'insieme di tutti gli integri positivi superiori o uguali a 8 e $f : X \to X$ sia una funzione tale che $f(x + y) = f(xy)$ per tutti $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determinare $f(9)$.
 
-[[src_rmo_2006__Q07]]
+[[Quesiti/src_rmo_2006#q07|src_rmo_2006__Q07]]

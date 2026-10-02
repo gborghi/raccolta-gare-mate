@@ -21,7 +21,7 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Ecolier-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
 <span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
@@ -35,7 +35,7 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Ecolier-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
 <span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,skill_casework_accurato"></span>
 
@@ -49,7 +49,7 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Ecolier-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
 <span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_geometria_solida,skill_modellizzazione"></span>
 
@@ -63,7 +63,7 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Risposta:** 30
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Ecolier-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
 <span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
 
@@ -77,7 +77,7 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18, 38, 58, 78, 98
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Ecolier-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
 <span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,skill_astrazione"></span>
 
@@ -91,5 +91,5 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** NO
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Ecolier-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 

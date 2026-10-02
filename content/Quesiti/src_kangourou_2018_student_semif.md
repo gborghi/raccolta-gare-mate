@@ -80,7 +80,7 @@ level: kangourou
 > D) 4√2 - π E) A number different from the previous one.
 
 **Answer:** E
-[[src_kangourou_2018_student_semif__Q01]]
+[[Quesiti/src_kangourou_2018_student_semif#q01|src_kangourou_2018_student_semif__Q01]]
 
 
 
@@ -113,7 +113,7 @@ The probability that Alice's number exceeds Barbara's
 > (Points 3) Alice and Barbara randomly and separately select an integer between 1 and 2018. The two numbers are then compared. What is the probability that the number Alice chose is greater than the number Barbara chose? This appropriation is intended to cover expenditure relating to the implementation of the programme.
 
 **Answer:** B
-[[src_kangourou_2018_student_semif__Q02]]
+[[Quesiti/src_kangourou_2018_student_semif#q02|src_kangourou_2018_student_semif__Q02]]
 
 
 
@@ -154,7 +154,7 @@ The probability that Alice's number exceeds Barbara's
 > C) 4/3 D) 3/2 E) 5/3
 
 **Answer:** B
-[[src_kangourou_2018_student_semif__Q03]]
+[[Quesiti/src_kangourou_2018_student_semif#q03|src_kangourou_2018_student_semif__Q03]]
 
 
 
@@ -187,7 +187,7 @@ The probability that Alice's number exceeds Barbara's
 > (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits r coincides with the sum of the digits p plus the sum of the digits q. How many possible prime r numbers are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
 
 **Answer:** E
-[[src_kangourou_2018_student_semif__Q04]]
+[[Quesiti/src_kangourou_2018_student_semif#q04|src_kangourou_2018_student_semif__Q04]]
 
 
 
@@ -217,7 +217,7 @@ The probability that Alice's number exceeds Barbara's
 > (Points 4) m and n are two positive integers such that 2m - 2n = 240. How much is m + n ? A) 10 B) 11 C) 15 D) 16 E) None of the above numbers are correct.
 
 **Answer:** E
-[[src_kangourou_2018_student_semif__Q05]]
+[[Quesiti/src_kangourou_2018_student_semif#q05|src_kangourou_2018_student_semif__Q05]]
 
 
 
@@ -247,7 +247,7 @@ The probability that Alice's number exceeds Barbara's
 > (Points 4) For how many integers n is the number n/(n - 10) an integer? (A) 4 (B) 5 (C) 7 (D) 8 (E) Infinite
 
 **Answer:** D
-[[src_kangourou_2018_student_semif__Q06]]
+[[Quesiti/src_kangourou_2018_student_semif#q06|src_kangourou_2018_student_semif__Q06]]
 
 
 
@@ -277,7 +277,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 5) The number 201920182 - 201820192 is not divisible by A) 99 B) 101 C) 121 D) 1001 10001
 
 **Answer:** D
-[[src_kangourou_2018_student_semif__Q07]]
+[[Quesiti/src_kangourou_2018_student_semif#q07|src_kangourou_2018_student_semif__Q07]]
 
 
 
@@ -309,7 +309,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 5) Imagine that in a bag there are all the integers between 1 and 107 (extremes included) and to extract one of these numbers at random. This p the probability that in its representation (decimal) the figure 1 will be A) p < 35% B) 35% ≤ p < 40% C) 40% ≤ p < 45% D) 45% ≤ p < 50% E) p ≥ 50%
 
 **Answer:** E
-[[src_kangourou_2018_student_semif__Q08]]
+[[Quesiti/src_kangourou_2018_student_semif#q08|src_kangourou_2018_student_semif__Q08]]
 
 
 
@@ -345,7 +345,7 @@ This is a list of the countries of the European Economic Area.
 > Open-ended questions
 
 **Answer:** D
-[[src_kangourou_2018_student_semif__Q09]]
+[[Quesiti/src_kangourou_2018_student_semif#q09|src_kangourou_2018_student_semif__Q09]]
 
 
 
@@ -376,7 +376,7 @@ This is a list of the countries of the European Economic Area.
 > (Dots 4) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the relationship between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 
 **Answer:** 5
-[[src_kangourou_2018_student_semif__Q10]]
+[[Quesiti/src_kangourou_2018_student_semif#q10|src_kangourou_2018_student_semif__Q10]]
 
 
 
@@ -407,7 +407,7 @@ This is a list of the countries of the European Economic Area.
 > Mark must throw three hard kicks. Knowing yourself, you know that the probability of scoring is the same in all three and that the probability of scoring in at least one of the three is 0.999. What's the likelihood that he'll score when he draws the first line? (Include decimal places after the comma up to the fourth: e.g. If the probability is 0.81, write the answer as 8100.)
 
 **Answer:** 9000
-[[src_kangourou_2018_student_semif__Q11]]
+[[Quesiti/src_kangourou_2018_student_semif#q11|src_kangourou_2018_student_semif__Q11]]
 
 
 
@@ -437,7 +437,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 5) Whether p (x) = x3 + bx2 + cx + 4, with b and c relative integers included between - 2018 and 2018, extremes included. For how many different polynomials p (x) do we have p (2) = 0 ?
 
 **Answer:** 2019
-[[src_kangourou_2018_student_semif__Q12]]
+[[Quesiti/src_kangourou_2018_student_semif#q12|src_kangourou_2018_student_semif__Q12]]
 
 
 
@@ -467,7 +467,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 6) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
 
 **Answer:** 669
-[[src_kangourou_2018_student_semif__Q13]]
+[[Quesiti/src_kangourou_2018_student_semif#q13|src_kangourou_2018_student_semif__Q13]]
 
 
 
@@ -500,7 +500,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 6) A railway company operates a line with m stations. He then builds other n's, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, how much are they worth, in order, m and n? (For example, if m = 25 and n = 4, write 2504.)
 
 **Answer:** 1102
-[[src_kangourou_2018_student_semif__Q14]]
+[[Quesiti/src_kangourou_2018_student_semif#q14|src_kangourou_2018_student_semif__Q14]]
 
 
 
@@ -531,7 +531,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 6) Two centers α and β of centers A and B have radii of 10 and 20 respectively and the two centers are 10√2. P is a point on β such that the α tangent semicircles from P are perpendicular to each other. How much is the area of the ABP triangle?
 
 **Answer:** 100
-[[src_kangourou_2018_student_semif__Q15]]
+[[Quesiti/src_kangourou_2018_student_semif#q15|src_kangourou_2018_student_semif__Q15]]
 
 
 
@@ -561,7 +561,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 7) For how many ordered ternes (a, b, c) of relative integers does a × b × c = 45,000?
 
 **Answer:** 3600
-[[src_kangourou_2018_student_semif__Q16]]
+[[Quesiti/src_kangourou_2018_student_semif#q16|src_kangourou_2018_student_semif__Q16]]
 
 
 
@@ -593,7 +593,7 @@ This is a list of the countries of the European Economic Area.
 > (Points 7) An ortho-polygon in the plane is an unwoven polygon such that each pair of consecutive sides consists of sides perpendicular to each other. A n-sided ortho-polygon is known that, by numbering its sides from 1 in one of the two possible vertices, the length of each side corresponds to the number assigned to the side itself; it is also known that n is the whole as close as possible to 2019. How much is n ?
 
 **Answer:** 2016
-[[src_kangourou_2018_student_semif__Q17]]
+[[Quesiti/src_kangourou_2018_student_semif#q17|src_kangourou_2018_student_semif__Q17]]
 
 
 
@@ -636,4 +636,4 @@ This is a list of the countries of the European Economic Area.
 > 0005 9000 2019 0669 1102 0100 3600 2016 0052
 
 **Answer:** 52
-[[src_kangourou_2018_student_semif__Q18]]
+[[Quesiti/src_kangourou_2018_student_semif#q18|src_kangourou_2018_student_semif__Q18]]

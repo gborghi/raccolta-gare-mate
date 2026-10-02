@@ -38,7 +38,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $0$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $4^2$ $\quad$ **E)** $4^4$
 
 **Risposta:** A
-[[src_obm_2004_n2_f1__Q01]]
+[[Quesiti/src_obm_2004_n2_f1#q01|src_obm_2004_n2_f1__Q01]]
 
 
 
@@ -74,7 +74,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $4$ $\quad$ **B)** $6$ $\quad$ **C)** $8$ $\quad$ **D)** $10$ $\quad$ **E)** $12$
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q02]]
+[[Quesiti/src_obm_2004_n2_f1#q02|src_obm_2004_n2_f1__Q02]]
 
 
 
@@ -108,7 +108,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $26.4$ km $\quad$ **B)** $264$ km $\quad$ **C)** $26400$ km $\quad$ **D)** $264000$ km $\quad$ **E)** $2640000$ km
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q03]]
+[[Quesiti/src_obm_2004_n2_f1#q03|src_obm_2004_n2_f1__Q03]]
 
 
 
@@ -123,7 +123,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $113$ $\quad$ **B)** $123$ $\quad$ **C)** $122$ $\quad$ **D)** $132$ $\quad$ **E)** $152$
 
-![[src_obm_2004_n2_f1__Q04.png]]
+![[src_obm_2004_n2_f1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -142,10 +142,10 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $113$ $\quad$ **B)** $123$ $\quad$ **C)** $122$ $\quad$ **D)** $132$ $\quad$ **E)** $152$
 
-![[src_obm_2004_n2_f1__Q04.png]]
+![[src_obm_2004_n2_f1__q04.png]]
 
 **Risposta:** D
-[[src_obm_2004_n2_f1__Q04]]
+[[Quesiti/src_obm_2004_n2_f1#q04|src_obm_2004_n2_f1__Q04]]
 
 
 
@@ -178,7 +178,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $1$ $\quad$ **B)** $3$ $\quad$ **C)** $5$ $\quad$ **D)** $7$ $\quad$ **E)** $9$
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q05]]
+[[Quesiti/src_obm_2004_n2_f1#q05|src_obm_2004_n2_f1__Q05]]
 
 
 
@@ -193,7 +193,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $\quad$ **B)** $\quad$ **C)** $\quad$ **D)** $\quad$ **E)** (the options show shaded regular pentagons in different orientations)
 
-![[src_obm_2004_n2_f1__Q06.png]]
+![[src_obm_2004_n2_f1__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -211,9 +211,9 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano pentagoni regolari ombrati in orientamenti diversi)
 
-![[src_obm_2004_n2_f1__Q06.png]]
+![[src_obm_2004_n2_f1__q06.png]]
 
-[[src_obm_2004_n2_f1__Q06]]
+[[Quesiti/src_obm_2004_n2_f1#q06|src_obm_2004_n2_f1__Q06]]
 
 
 
@@ -245,7 +245,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $0$ $\quad$ **B)** $\dfrac{1}{2004}$ $\quad$ **C)** $\dfrac{1}{2003}$ $\quad$ **D)** $\dfrac{2}{2003}$ $\quad$ **E)** $\dfrac{1}{1001}$
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q07]]
+[[Quesiti/src_obm_2004_n2_f1#q07|src_obm_2004_n2_f1__Q07]]
 
 
 
@@ -278,7 +278,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $625 - x^2$ $\quad$ **B)** $625 - \dfrac{x^2}{2}$ $\quad$ **C)** $1250 - \dfrac{x^2}{2}$ $\quad$ **D)** $250 - \dfrac{x^2}{2}$ $\quad$ **E)** $2500 - \dfrac{x^2}{2}$
 
 **Risposta:** B
-[[src_obm_2004_n2_f1__Q08]]
+[[Quesiti/src_obm_2004_n2_f1#q08|src_obm_2004_n2_f1__Q08]]
 
 
 
@@ -311,7 +311,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $5$ $\quad$ **B)** $4$ $\quad$ **C)** $3$ $\quad$ **D)** $2$ $\quad$ **E)** $9$
 
 **Risposta:** A
-[[src_obm_2004_n2_f1__Q09]]
+[[Quesiti/src_obm_2004_n2_f1#q09|src_obm_2004_n2_f1__Q09]]
 
 
 
@@ -344,7 +344,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** uno $\quad$ **B) ** due $\quad$ **C) ** tre $\quad$ **D) ** quattro $\quad$ **E) ** più di quattro
 
 **Risposta:** B
-[[src_obm_2004_n2_f1__Q10]]
+[[Quesiti/src_obm_2004_n2_f1#q10|src_obm_2004_n2_f1__Q10]]
 
 
 
@@ -377,7 +377,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $64$ $\quad$ **B)** $109$ $\quad$ **C)** $120$ $\quad$ **D)** $124$ $\quad$ **E)** $154$
 
 **Risposta:** D
-[[src_obm_2004_n2_f1__Q11]]
+[[Quesiti/src_obm_2004_n2_f1#q11|src_obm_2004_n2_f1__Q11]]
 
 
 
@@ -392,7 +392,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $2$ $\quad$ **B)** $2 + \sqrt{3}$ $\quad$ **C)** $1 + \sqrt{2} + \sqrt{3}$ $\quad$ **D)** $\sqrt{2}\,(1 + \sqrt{3})$ $\quad$ **E)** $5\sqrt{3}$
 
-![[src_obm_2004_n2_f1__Q12.png]]
+![[src_obm_2004_n2_f1__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -410,9 +410,9 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $2$ $\quad$ **B)** $2 + \sqrt{3}$ $\quad$ **C)** $1 + \sqrt{2} + \sqrt{3}$ $\quad$ **D)** $\sqrt{2}\,(1 + \sqrt{3})$ $\quad$ **E)** $5\sqrt{3}$
 
-![[src_obm_2004_n2_f1__Q12.png]]
+![[src_obm_2004_n2_f1__q12.png]]
 
-[[src_obm_2004_n2_f1__Q12]]
+[[Quesiti/src_obm_2004_n2_f1#q12|src_obm_2004_n2_f1__Q12]]
 
 
 
@@ -427,7 +427,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $6^\circ$ $\quad$ **B)** $12^\circ$ $\quad$ **C)** $18^\circ$ $\quad$ **D)** $20^\circ$ $\quad$ **E)** $24^\circ$
 
-![[src_obm_2004_n2_f1__Q13.png]]
+![[src_obm_2004_n2_f1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -445,9 +445,9 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $6^\circ$ $\quad$ **B)** $12^\circ$ $\quad$ **C)** $18^\circ$ $\quad$ **D)** $20^\circ$ $\quad$ **E)** $24^\circ$
 
-![[src_obm_2004_n2_f1__Q13.png]]
+![[src_obm_2004_n2_f1__q13.png]]
 
-[[src_obm_2004_n2_f1__Q13]]
+[[Quesiti/src_obm_2004_n2_f1#q13|src_obm_2004_n2_f1__Q13]]
 
 
 
@@ -480,7 +480,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $-2$ $\quad$ **B)** $-1$ $\quad$ **C)** $1$ $\quad$ **D)** $2$ $\quad$ **E)** $3$
 
 **Risposta:** E
-[[src_obm_2004_n2_f1__Q14]]
+[[Quesiti/src_obm_2004_n2_f1#q14|src_obm_2004_n2_f1__Q14]]
 
 
 
@@ -513,7 +513,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $7$ $\quad$ **B)** $8$ $\quad$ **C)** $9$ $\quad$ **D)** $10$ $\quad$ **E)** $11$
 
 **Risposta:** B
-[[src_obm_2004_n2_f1__Q15]]
+[[Quesiti/src_obm_2004_n2_f1#q15|src_obm_2004_n2_f1__Q15]]
 
 
 
@@ -528,7 +528,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $\quad$ **B)** $\quad$ **C)** $\quad$ **D)** $\quad$ **E)** (the options show a rectangular plot with various shaded rectangular regions and fence lines)
 
-![[src_obm_2004_n2_f1__Q16.png]]
+![[src_obm_2004_n2_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -546,9 +546,9 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano una trama rettangolare con varie regioni rettangolari ombreggiate e linee di recinzione)
 
-![[src_obm_2004_n2_f1__Q16.png]]
+![[src_obm_2004_n2_f1__q16.png]]
 
-[[src_obm_2004_n2_f1__Q16]]
+[[Quesiti/src_obm_2004_n2_f1#q16|src_obm_2004_n2_f1__Q16]]
 
 
 
@@ -581,7 +581,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $1$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $6$ $\quad$ **E)** $8$
 
 **Risposta:** E
-[[src_obm_2004_n2_f1__Q17]]
+[[Quesiti/src_obm_2004_n2_f1#q17|src_obm_2004_n2_f1__Q17]]
 
 
 
@@ -596,7 +596,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $\quad$ **B)** $\quad$ **C)** $\quad$ **D)** $\quad$ **E)** (the options show pairs of flat paper pieces)
 
-![[src_obm_2004_n2_f1__Q18.png]]
+![[src_obm_2004_n2_f1__q18.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -614,9 +614,9 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano coppie di pezzi di carta piatta)
 
-![[src_obm_2004_n2_f1__Q18.png]]
+![[src_obm_2004_n2_f1__q18.png]]
 
-[[src_obm_2004_n2_f1__Q18]]
+[[Quesiti/src_obm_2004_n2_f1#q18|src_obm_2004_n2_f1__Q18]]
 
 
 
@@ -648,7 +648,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $5$ $\quad$ **B)** $10$ $\quad$ **C)** $15$ $\quad$ **D)** $20$ $\quad$ **E)** $25$
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q19]]
+[[Quesiti/src_obm_2004_n2_f1#q19|src_obm_2004_n2_f1__Q19]]
 
 
 
@@ -689,7 +689,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** Nella scatola rossa. $\quad$ **B) ** Nella scatola verde. $\quad$ **C) ** Nella casella blu. $\quad$ **D) ** Le informazioni fornite non sono sufficienti per dare una risposta. $\quad$ **E) ** Le informazioni fornite sono contraddittorie.
 
 **Risposta:** B
-[[src_obm_2004_n2_f1__Q20]]
+[[Quesiti/src_obm_2004_n2_f1#q20|src_obm_2004_n2_f1__Q20]]
 
 
 
@@ -704,7 +704,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $2 \text{ cm}^2$ $\quad$ **B)** $1.5 \text{ cm}^2$ $\quad$ **C)** $3 \text{ cm}^2$ $\quad$ **D)** $4.5 \text{ cm}^2$ $\quad$ **E)** $2.5 \text{ cm}^2$
 
-![[src_obm_2004_n2_f1__Q21.png]]
+![[src_obm_2004_n2_f1__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -723,10 +723,10 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > 
 > **A)** $2 \text{ cm}^2$ $\quad$ **B)** $1.5 \text{ cm}^2$ $\quad$ **C)** $3 \text{ cm}^2$ $\quad$ **D)** $4.5 \text{ cm}^2$ $\quad$ **E)** $2.5 \text{ cm}^2$
 
-![[src_obm_2004_n2_f1__Q21.png]]
+![[src_obm_2004_n2_f1__q21.png]]
 
 **Risposta:** B
-[[src_obm_2004_n2_f1__Q21]]
+[[Quesiti/src_obm_2004_n2_f1#q21|src_obm_2004_n2_f1__Q21]]
 
 
 
@@ -759,7 +759,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $6$ cm $\quad$ **B)** $12$ cm $\quad$ **C)** $21$ cm $\quad$ **D)** $19$ cm $\quad$ **E)** $20$ cm
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q22]]
+[[Quesiti/src_obm_2004_n2_f1#q22|src_obm_2004_n2_f1__Q22]]
 
 
 
@@ -791,7 +791,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** $5\%$ meno $\quad$ ** B) ** $10\%$ meno $\quad$ **C) ** $19\%$ meno $\quad$ **D) ** $20\%$ meno $\quad$ **E) ** $25\%$ meno
 
 **Risposta:** C
-[[src_obm_2004_n2_f1__Q23]]
+[[Quesiti/src_obm_2004_n2_f1#q23|src_obm_2004_n2_f1__Q23]]
 
 
 
@@ -824,7 +824,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A) ** 12h $\quad$ **B) ** 12h30min $\quad$ **C) ** 13h $\quad$ **D) ** 13h30min $\quad$ **E) ** 14h30min
 
 **Risposta:** D
-[[src_obm_2004_n2_f1__Q24]]
+[[Quesiti/src_obm_2004_n2_f1#q24|src_obm_2004_n2_f1__Q24]]
 
 
 
@@ -857,4 +857,4 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 > **A)** $4$ $\quad$ **B)** $8$ $\quad$ **C)** $10$ $\quad$ **D)** $15$ $\quad$ **E)** $20$
 
 **Risposta:** D
-[[src_obm_2004_n2_f1__Q25]]
+[[Quesiti/src_obm_2004_n2_f1#q25|src_obm_2004_n2_f1__Q25]]

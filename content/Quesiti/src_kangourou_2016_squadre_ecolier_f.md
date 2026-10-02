@@ -35,7 +35,7 @@ level: squadre
 > Who are they? I'm triple my double. What number are they?
 
 **Answer:** 0
-[[src_kangourou_2016_squadre_ecolier_f__Q01]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q01|src_kangourou_2016_squadre_ecolier_f__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 > The numbering to the number 7 we add up 4, then again 4, then again 4 and so on until we first overcome the number 200: that's where we stop. Let's just consider the numbers we got by doing all these sums: how many of them are multiples of 3?
 
 **Answer:** 16
-[[src_kangourou_2016_squadre_ecolier_f__Q02]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q02|src_kangourou_2016_squadre_ecolier_f__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: squadre
 > It was still Friday. What will be the first year after 2016 in which 1° January will fall again on a Friday?
 
 **Answer:** 2021
-[[src_kangourou_2016_squadre_ecolier_f__Q03]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q03|src_kangourou_2016_squadre_ecolier_f__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: squadre
 > Cows On a farm, there are only cows and chickens. The total number of legs is equal to 300 plus twice the total number of heads. How many cows are there?
 
 **Answer:** 150
-[[src_kangourou_2016_squadre_ecolier_f__Q04]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q04|src_kangourou_2016_squadre_ecolier_f__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: squadre
 > Thirty-six squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm2, while all the others have an area of 1 cm2. How many centimeters does the side of the starting square measure?
 
 **Answer:** 18
-[[src_kangourou_2016_squadre_ecolier_f__Q05]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q05|src_kangourou_2016_squadre_ecolier_f__Q05]]
 
 
 
@@ -191,7 +191,7 @@ Minimum canisters for singing to win (96-83)
 > Canestri In a basketball game, Milan defeated Cantù by 96 to 83. Knowing that the baskets made can be worth 1 or 2 or 3 points, what is the minimum number of baskets Cantù would have had to make to win?
 
 **Answer:** 5
-[[src_kangourou_2016_squadre_ecolier_f__Q06]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q06|src_kangourou_2016_squadre_ecolier_f__Q06]]
 
 
 
@@ -222,7 +222,7 @@ Distance B-C between four cities on the road
 > The four cities Traveling on a state road meet in the order of four cities we will call A, B, C and D. If the distance between A and D is 250 km, that between C and A is 135 km and that between B and D is 165 km, how many kilometers is B from C?
 
 **Answer:** 50
-[[src_kangourou_2016_squadre_ecolier_f__Q07]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q07|src_kangourou_2016_squadre_ecolier_f__Q07]]
 
 
 
@@ -259,7 +259,7 @@ Distance B-C between four cities on the road
 > 2
 
 **Answer:** 836
-[[src_kangourou_2016_squadre_ecolier_f__Q08]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q08|src_kangourou_2016_squadre_ecolier_f__Q08]]
 
 
 
@@ -292,7 +292,7 @@ Distance B-C between four cities on the road
 > Apples In the dish there are apples. Anna took a few of them: they amounted to a third of the apples in the dish plus a third of the apples. Luigi took more: their quantity was equal to one third of the apples left in the dish plus one third of the apples. Now there's a whole number of apples left in the plate. What is the minimum number of apples that could be in the dish initially?
 
 **Answer:** 8
-[[src_kangourou_2016_squadre_ecolier_f__Q09]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q09|src_kangourou_2016_squadre_ecolier_f__Q09]]
 
 
 
@@ -321,7 +321,7 @@ Distance B-C between four cities on the road
 > Sum and product The sum of two consecutive odd integers is 196. What's their product?
 
 **Answer:** 9603
-[[src_kangourou_2016_squadre_ecolier_f__Q10]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q10|src_kangourou_2016_squadre_ecolier_f__Q10]]
 
 
 
@@ -352,7 +352,7 @@ Distance B-C between four cities on the road
 > I've listed all the seven-digit numbers (i.e. from 1,000,000 to 9,999 999 included) where there are exactly six 9. How many numbers are on my list?
 
 **Answer:** 62
-[[src_kangourou_2016_squadre_ecolier_f__Q11]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q11|src_kangourou_2016_squadre_ecolier_f__Q11]]
 
 
 
@@ -383,7 +383,7 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 > Lucia, Maria and Nina Lucia, Maria and Nina have a total of 31 euros. Lucia has less than Maria and Maria has less than Nina; but if Nina gives two euros to Lucia, Maria and Nina have the same number of euros and Lucia has more than each of them. How many euros does Maria have?
 
 **Answer:** 10
-[[src_kangourou_2016_squadre_ecolier_f__Q12]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q12|src_kangourou_2016_squadre_ecolier_f__Q12]]
 
 
 
@@ -416,7 +416,7 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 > In a concert hall there are 20 rows, each with 16 seats, numbered from left to right, for the viewer. The number of seats on my right is equal to the number of files in front of me and it's double the seats on my left. What row and where am I sitting? Write the result by first indicating the row number and then the seat number, in both cases using two digits (possibly 01 to indicate 1, etc.).
 
 **Answer:** 1106
-[[src_kangourou_2016_squadre_ecolier_f__Q13]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q13|src_kangourou_2016_squadre_ecolier_f__Q13]]
 
 
 
@@ -448,7 +448,7 @@ Minimum tents of 5 seats for 31 boys with no seats
 > In camp A group of 31 boys go camping with their tents: some are three-seaters, others are five-seaters. What is the minimum number of five-seat tents you can carry if everyone has a seat but there are no open spaces in any of the tents?
 
 **Answer:** 2
-[[src_kangourou_2016_squadre_ecolier_f__Q14]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q14|src_kangourou_2016_squadre_ecolier_f__Q14]]
 
 
 
@@ -508,4 +508,4 @@ Minimum tents of 5 seats for 31 boys with no seats
 > Questions and solutions
 
 **Answer:** 5
-[[src_kangourou_2016_squadre_ecolier_f__Q15]]
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q15|src_kangourou_2016_squadre_ecolier_f__Q15]]

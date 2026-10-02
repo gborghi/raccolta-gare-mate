@@ -36,7 +36,7 @@ level: squadre
 > Between 1 and 2018 How many integers between 1 and 2018 are multiples of both 20 and 14?
 
 **Answer:** 14
-[[src_kangourou_2018_squadre_a__Q01]]
+[[Quesiti/src_kangourou_2018_squadre_a#q01|src_kangourou_2018_squadre_a__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: squadre
 > A train traveling at constant speed, a train crosses two tunnels. The first is 980 meters long, and it takes 30 seconds from the train's head entering it to the tail leaving it. The second is 790 meters long, and it takes 25 seconds from when the train head enters to when the tail leaves. How long is the train?
 
 **Answer:** 160
-[[src_kangourou_2018_squadre_a__Q02]]
+[[Quesiti/src_kangourou_2018_squadre_a#q02|src_kangourou_2018_squadre_a__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: squadre
 > Laura's sequences Laura wants to write in sequence all integers from 1 to 14 inclusive so that, for each number in the sequence, it happens to be greater or less than all the numbers that follow it. How many possible alignments can you choose?
 
 **Answer:** 8192
-[[src_kangourou_2018_squadre_a__Q03]]
+[[Quesiti/src_kangourou_2018_squadre_a#q03|src_kangourou_2018_squadre_a__Q03]]
 
 
 
@@ -165,7 +165,7 @@ level: squadre
 > Three colors Cristina has three colors to color the six squares where the strip you see in the figure is divided. It is not obliged to use the same quantity or even to use all three, but it must ensure that adjacent squares receive different colors. How many different ways can you color the strip? Note: colours that can be obtained from each other by rotating the strip correspond to only one way.
 
 **Answer:** 48
-[[src_kangourou_2018_squadre_a__Q04]]
+[[Quesiti/src_kangourou_2018_squadre_a#q04|src_kangourou_2018_squadre_a__Q04]]
 
 
 
@@ -197,7 +197,7 @@ level: squadre
 > White and black I have a 12 MSK/> 12 chessboard, with white or black cells, alternating as in traditional chessboards. How many ways can I choose two cells, one white and one black, so that they're not on the same line or on the same column?
 
 **Answer:** 4320
-[[src_kangourou_2018_squadre_a__Q05]]
+[[Quesiti/src_kangourou_2018_squadre_a#q05|src_kangourou_2018_squadre_a__Q05]]
 
 
 
@@ -236,7 +236,7 @@ level: squadre
 > 2
 
 **Answer:** 50
-[[src_kangourou_2018_squadre_a__Q06]]
+[[Quesiti/src_kangourou_2018_squadre_a#q06|src_kangourou_2018_squadre_a__Q06]]
 
 
 
@@ -268,7 +268,7 @@ level: squadre
 > Evaporation A material evaporates at a constant rate i.e. at equal time, the percentage of the mass evaporating is the same. The mass halves in eight days. Suppose you have such a quantity of that material that the square of its mass is 1,479,200 g2. How many grams of that stuff will you find after 20 days?
 
 **Answer:** 215
-[[src_kangourou_2018_squadre_a__Q07]]
+[[Quesiti/src_kangourou_2018_squadre_a#q07|src_kangourou_2018_squadre_a__Q07]]
 
 
 
@@ -299,7 +299,7 @@ level: squadre
 > Common divisors How many common divisors can have at most two different three-digit positive integers? (Both 1 and the number itself must be included among the divisors of each number.)
 
 **Answer:** 24
-[[src_kangourou_2018_squadre_a__Q08]]
+[[Quesiti/src_kangourou_2018_squadre_a#q08|src_kangourou_2018_squadre_a__Q08]]
 
 
 
@@ -329,7 +329,7 @@ level: squadre
 > What a difference! What is the result of 20.182.017 × 20.182.019  20.182.015 × 20.182.021?
 
 **Answer:** 8
-[[src_kangourou_2018_squadre_a__Q09]]
+[[Quesiti/src_kangourou_2018_squadre_a#q09|src_kangourou_2018_squadre_a__Q09]]
 
 
 
@@ -362,7 +362,7 @@ Difference between max and min 5 digit palindromes divided by 45
 > Divisible by 45 A number is called a palindrome if it coincides with the number obtained by reading its digits from right to left (e.g. 42324 is palindrome, 42334 is not). Consider all the five-digit palindromic numbers (significant) divisible by 45. What is the difference between the largest and the smallest of them?
 
 **Answer:** 9090
-[[src_kangourou_2018_squadre_a__Q10]]
+[[Quesiti/src_kangourou_2018_squadre_a#q10|src_kangourou_2018_squadre_a__Q10]]
 
 
 
@@ -394,7 +394,7 @@ Difference between max and min 5 digit palindromes divided by 45
 > Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees wider than the average of the other two. How many degrees can the widest of the three angles be measured at most?
 
 **Answer:** 95
-[[src_kangourou_2018_squadre_a__Q11]]
+[[Quesiti/src_kangourou_2018_squadre_a#q11|src_kangourou_2018_squadre_a__Q11]]
 
 
 
@@ -426,7 +426,7 @@ Difference between max and min 5 digit palindromes divided by 45
 > The canvas A canvas is a rectangle of three meters by two. By folding it repeatedly a few times, always along the straight line passing through the center and parallel to the side that is shorter at the time of folding, a rectangle with an area of 7,500 cm2 is obtained. How many centimetres does the perimeter of this last rectangle measure?
 
 **Answer:** 350
-[[src_kangourou_2018_squadre_a__Q12]]
+[[Quesiti/src_kangourou_2018_squadre_a#q12|src_kangourou_2018_squadre_a__Q12]]
 
 
 
@@ -462,7 +462,7 @@ Difference between max and min 5 digit palindromes divided by 45
 > Three circles Look at the figure: the three circles are two to two tangents and the AB rope of the large circle is tangent to the two inner circles. If the area of the grey figure obtained by removing the two inner circles from the large circle is 18π cm2, how many centimetres is the length of the rope?
 
 **Answer:** 12
-[[src_kangourou_2018_squadre_a__Q13]]
+[[Quesiti/src_kangourou_2018_squadre_a#q13|src_kangourou_2018_squadre_a__Q13]]
 
 
 
@@ -492,7 +492,7 @@ Sum of the values 1 to 2 to 2 to 2 to 2 plus 4 to 2 plus... up to 100^2*
 > What is the sum of 12  22  32 + 42 + 52  62  72 + 82 + ... + 972  982  992 + 1002 ?
 
 **Answer:** 100
-[[src_kangourou_2018_squadre_a__Q14]]
+[[Quesiti/src_kangourou_2018_squadre_a#q14|src_kangourou_2018_squadre_a__Q14]]
 
 
 
@@ -541,4 +541,4 @@ Sum of the values 1 to 2 to 2 to 2 to 2 plus 4 to 2 plus... up to 100^2*
 > Questions and developments
 
 **Answer:** 88
-[[src_kangourou_2018_squadre_a__Q15]]
+[[Quesiti/src_kangourou_2018_squadre_a#q15|src_kangourou_2018_squadre_a__Q15]]

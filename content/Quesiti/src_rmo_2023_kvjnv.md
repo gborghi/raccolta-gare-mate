@@ -33,7 +33,7 @@ level: RMO
 
 > Date un triangolo $ABC$ con $\angle ACB = 120^\circ$. Il punto $L$ è segnato sul lato $\overline{AB}$ in modo che $CL$ sia il bisector di $\angle ACB$. I punti $N$ e $K$ sono segnati rispettivamente sui lati $AC$ e $BC$, in modo che $CN + CK = CL$. Prove che il triangolo $KLN$ è equilaterale.
 
-[[src_rmo_2023_kvjnv__Q01]]
+[[Quesiti/src_rmo_2023_kvjnv#q01|src_rmo_2023_kvjnv__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Dato un numero primo $p$ tale che il numero $2p$ sia uguale alla somma dei quadrati di circa quattro numeri interi positivi consecutivi. Prova che $p - 7$ è divisibile per $36$.
 
-[[src_rmo_2023_kvjnv__Q02]]
+[[Quesiti/src_rmo_2023_kvjnv#q02|src_rmo_2023_kvjnv__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: RMO
 
 > $f(x)$ sia un polinomio con coefficienti reali di grado 2. Supponiamo che per alcuni numeri reali separati in coppia $a, b, c$ abbiamo $$f(a) = bc; \quad f(b) = ca; \quad f(c) = ab.$$ Determina $f(a + b + c)$ in termini di $a, b, c$.
 
-[[src_rmo_2023_kvjnv__Q03]]
+[[Quesiti/src_rmo_2023_kvjnv#q03|src_rmo_2023_kvjnv__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: RMO
 > 
 > Determinare il minimo valore possibile di $N$.
 
-[[src_rmo_2023_kvjnv__Q04]]
+[[Quesiti/src_rmo_2023_kvjnv#q04|src_rmo_2023_kvjnv__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: RMO
 
 > Le lunghezze laterali $a$, $b$, $c$ di un triangolo $ABC$ sono interi positivi. $$T_n = (a + b + c)^{2n} - (a - b + c)^{2n} - (a + b - c)^{2n} + (a - b - c)^{2n}$$ per qualsiasi numero intero positivo $n$. Se $\dfrac{T_2}{2T_1} = 2023$ e $a > b > c$, determinare tutti i possibili perimetri del triangolo $ABC$.
 
-[[src_rmo_2023_kvjnv__Q05]]
+[[Quesiti/src_rmo_2023_kvjnv#q05|src_rmo_2023_kvjnv__Q05]]
 
 
 
@@ -180,4 +180,4 @@ level: RMO
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si incontrano a $P$. Il punto $Q$ è scelto sul segmento $BC$ in modo che $PQ$ sia perpendicolare a $AC$. Prova che la linea che unisce i centri dei circoncircoli dei triangoli $APD$ e $BQD$ è parallela a $AD$.
 
-[[src_rmo_2023_kvjnv__Q06]]
+[[Quesiti/src_rmo_2023_kvjnv#q06|src_rmo_2023_kvjnv__Q06]]

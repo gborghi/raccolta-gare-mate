@@ -37,7 +37,7 @@ level: kangourou
 
 > Adele wrote a number consisting of 3 odd numbers and some even numbers, while Marco wrote a number consisting of 2 odd numbers and some even numbers. Gianna added Adele's number to Marco's. How many odd numbers will Gianna get at least? A) 0 (i.e. it may not have) B) 1 C) 2 D) 3 E) 4
 
-[[src_kangourou_2023_benjamin_semifinale__Q01]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q01|src_kangourou_2023_benjamin_semifinale__Q01]]
 
 
 
@@ -113,7 +113,7 @@ Sum of Gabriele's triple renata, number discarded
 
 > (Points 3) See the grid on the right where the integers from 1 to 9 are shown. Gabriele picked four of these numbers, Renata picked four more. The sum of the numbers chosen by Renata is three times the sum of the numbers chosen by Gabriele. What's the number neither of you picked? A) 1           B) 5             C) 7             D) 8           E) 9
 
-[[src_kangourou_2023_benjamin_semifinale__Q02]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q02|src_kangourou_2023_benjamin_semifinale__Q02]]
 
 
 
@@ -145,7 +145,7 @@ Sum of Gabriele's triple renata, number discarded
 
 > (Points 3) Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an equal number. Marta wants to check if Aldo's telling the truth, but she wants to roll as few cards as possible. How many cards will he have to roll at most? A) 1           B) 2             C) 3            D) 4            E) 5
 
-[[src_kangourou_2023_benjamin_semifinale__Q03]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q03|src_kangourou_2023_benjamin_semifinale__Q03]]
 
 
 
@@ -179,7 +179,7 @@ This item is intended to record the information provided for in the Annex to thi
 
 > (Points 4) The integers 1 to 9,000 were placed in a huge 9-column table according to the criterion shown in the figure. In which column is the number 2.023 entered? A) A           B) D           C) F            D) H           E) I
 
-[[src_kangourou_2023_benjamin_semifinale__Q04]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q04|src_kangourou_2023_benjamin_semifinale__Q04]]
 
 
 
@@ -212,7 +212,7 @@ The time of the meeting shall be: *
 
 > There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you feel a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 noon onwards, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 
-[[src_kangourou_2023_benjamin_semifinale__Q05]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q05|src_kangourou_2023_benjamin_semifinale__Q05]]
 
 
 
@@ -243,7 +243,7 @@ The time of the meeting shall be: *
 
 > Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the number of hundreds and that of units are exchanged between them, while that of tens is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
 
-[[src_kangourou_2023_benjamin_semifinale__Q06]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q06|src_kangourou_2023_benjamin_semifinale__Q06]]
 
 
 
@@ -356,7 +356,7 @@ This is the first time I've seen this.
 
 > (Points 5) Numbered pitches are placed along a circular track, the distance between two adjacent pitches being always the same. Two kangaroos, Bill and Kan, jump from one slot to the next, Bill clockwise, Kan the other way, each at a steady but different speed: they left slot 1 at the same moment and crossed for the first time when they both arrived at slot 6. You know, sooner or later, they're both gonna cross paths on floor seven. When that happens for the first time, which track is Bill going to be doing? A) The first. (b) The second. (c) The third. D) The fourth. E) The fifth. A B C D E F G H I 1 2 3 4 5 9 8 7 6 10 11 12 13 14 18 17 16 15 19 20 ... ... ...
 
-[[src_kangourou_2023_benjamin_semifinale__Q07]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q07|src_kangourou_2023_benjamin_semifinale__Q07]]
 
 
 
@@ -384,7 +384,7 @@ This is the first time I've seen this.
 
 > (Points 5) In which of the following hours and minutes do the two hands of a clock (with a 12-hour dial) form the minor acute angle? A) 02:11             B) 04:22               C) 06:33            D) 08:44              E) 10:55
 
-[[src_kangourou_2023_benjamin_semifinale__Q08]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q08|src_kangourou_2023_benjamin_semifinale__Q08]]
 
 
 
@@ -415,7 +415,7 @@ This is the first time I've seen this.
 
 > (Points 6) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14 Open-ended questions
 
-[[src_kangourou_2023_benjamin_semifinale__Q09]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q09|src_kangourou_2023_benjamin_semifinale__Q09]]
 
 
 
@@ -442,7 +442,7 @@ This is the first time I've seen this.
 
 > I have as many brothers as I have sisters. For each of my brothers, it happens that the number of his sisters is twice the number of his brothers. With Mom and Dad, how many of us are in the family?
 
-[[src_kangourou_2023_benjamin_semifinale__Q10]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q10|src_kangourou_2023_benjamin_semifinale__Q10]]
 
 
 
@@ -474,7 +474,7 @@ This is the first time I've seen this.
 
 > (Points 5) In the ABC triangle shown in the figure, the EC height of C meets the AD biset of the BAC angle at O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
 
-[[src_kangourou_2023_benjamin_semifinale__Q11]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q11|src_kangourou_2023_benjamin_semifinale__Q11]]
 
 
 
@@ -532,7 +532,7 @@ This is the first time I've seen this.
 
 > With a black pencil, Lorenzo drew on a sheet of paper 10 squares of 1 cm side, 10 squares of 2 cm side and 10 squares of 3 cm side and then cut them (the edges remained clearly visible after cutting). Now you have to use some of them to get the same drawing that appears in the figure. In order to perform this task, they may be brought close together or partially overlapped. How many are enough for you?
 
-[[src_kangourou_2023_benjamin_semifinale__Q12]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q12|src_kangourou_2023_benjamin_semifinale__Q12]]
 
 
 
@@ -562,7 +562,7 @@ This is the first time I've seen this.
 
 > I had 10 apples of different weights between them and 10 pairs of different weights between them. Each pear weighed more than every apple, but less than any pair of apples. I was lucky enough to pack three mixed bags, each of which weighs as much as the whole of the apples. Certainly I could not have hoped to use more pears than I did. How many pears have I not used?
 
-[[src_kangourou_2023_benjamin_semifinale__Q13]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q13|src_kangourou_2023_benjamin_semifinale__Q13]]
 
 
 
@@ -593,7 +593,7 @@ This is the first time I've seen this.
 
 > (Points 6) Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
 
-[[src_kangourou_2023_benjamin_semifinale__Q14]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q14|src_kangourou_2023_benjamin_semifinale__Q14]]
 
 
 
@@ -620,7 +620,7 @@ This is the first time I've seen this.
 
 > (Points 6) How many positive integers are n such that the remainder of division 2023: n is 23?
 
-[[src_kangourou_2023_benjamin_semifinale__Q15]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q15|src_kangourou_2023_benjamin_semifinale__Q15]]
 
 
 
@@ -649,7 +649,7 @@ This is the first time I've seen this.
 
 > (Points 7) Some numbers, all different from each other, are written at different points in a conference so that each number is the product of the two numbers written next to it. How many numbers are written?
 
-[[src_kangourou_2023_benjamin_semifinale__Q16]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q16|src_kangourou_2023_benjamin_semifinale__Q16]]
 
 
 
@@ -677,7 +677,7 @@ Find n *
 
 > That's how Gaia plays. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
 
-[[src_kangourou_2023_benjamin_semifinale__Q17]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q17|src_kangourou_2023_benjamin_semifinale__Q17]]
 
 
 
@@ -707,4 +707,4 @@ Find n *
 
 > (Points 8) The number 7 2 3 1 1 2 3 7 2 1 3 7 2 1 3 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
 
-[[src_kangourou_2023_benjamin_semifinale__Q18]]
+[[Quesiti/src_kangourou_2023_benjamin_semifinale#q18|src_kangourou_2023_benjamin_semifinale__Q18]]

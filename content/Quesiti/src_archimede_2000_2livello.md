@@ -45,7 +45,7 @@ level: 2 livello
 > - **(E)** depends on the specific values of $a$, $b$, $c$.
 
 **Answer:** A
-[[src_archimede_2000_2livello__Q01]]
+[[Quesiti/src_archimede_2000_2livello#q01|src_archimede_2000_2livello__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: 2 livello
 > - **(E)** $A \geq 250$.
 
 **Answer:** C
-[[src_archimede_2000_2livello__Q02]]
+[[Quesiti/src_archimede_2000_2livello#q02|src_archimede_2000_2livello__Q02]]
 
 
 
@@ -126,7 +126,7 @@ level: 2 livello
 > - **(E)** None of the previous ones.
 
 **Answer:** E
-[[src_archimede_2000_2livello__Q03]]
+[[Quesiti/src_archimede_2000_2livello#q03|src_archimede_2000_2livello__Q03]]
 
 
 
@@ -166,7 +166,7 @@ level: 2 livello
 > - **(E)** 6.
 
 **Answer:** B
-[[src_archimede_2000_2livello__Q04]]
+[[Quesiti/src_archimede_2000_2livello#q04|src_archimede_2000_2livello__Q04]]
 
 
 
@@ -206,7 +206,7 @@ level: 2 livello
 > - **(E)** The order of $X$, $Y$, $Z$ depends on the values of $a$ and $b$.
 
 **Answer:** E
-[[src_archimede_2000_2livello__Q05]]
+[[Quesiti/src_archimede_2000_2livello#q05|src_archimede_2000_2livello__Q05]]
 
 
 
@@ -258,7 +258,7 @@ level: 2 livello
 > - **(E)** The first route is shorter anyway. (see figure)
 
 **Answer:** C
-[[src_archimede_2000_2livello__Q06]]
+[[Quesiti/src_archimede_2000_2livello#q06|src_archimede_2000_2livello__Q06]]
 
 
 
@@ -308,7 +308,7 @@ Who is guilty of the defendant's statements?
 > - **(E)** Mario accused Mario.
 
 **Answer:** D
-[[src_archimede_2000_2livello__Q07]]
+[[Quesiti/src_archimede_2000_2livello#q07|src_archimede_2000_2livello__Q07]]
 
 
 
@@ -349,7 +349,7 @@ Who is guilty of the defendant's statements?
 > - **(E)** There can be no such lottery.
 
 **Answer:** E
-[[src_archimede_2000_2livello__Q08]]
+[[Quesiti/src_archimede_2000_2livello#q08|src_archimede_2000_2livello__Q08]]
 
 
 
@@ -390,7 +390,7 @@ Who is guilty of the defendant's statements?
 > - **(E)** I'm not going to end it. Note: $(2, 3, 8)$ is different from $(3, 2, 8)$.
 
 **Answer:** C
-[[src_archimede_2000_2livello__Q09]]
+[[Quesiti/src_archimede_2000_2livello#q09|src_archimede_2000_2livello__Q09]]
 
 
 
@@ -433,7 +433,7 @@ Who is guilty of the defendant's statements?
 > - **(E)** None of the previous quantities are determined. (see figure)
 
 **Answer:** D
-[[src_archimede_2000_2livello__Q10]]
+[[Quesiti/src_archimede_2000_2livello#q10|src_archimede_2000_2livello__Q10]]
 
 
 
@@ -462,7 +462,7 @@ Who is guilty of the defendant's statements?
 > In a side cube 12, $P$ and $Q$ are the two-sided centers that have in common the slope $AB$. What is the volume of the tetrahedron with the points $A$, $B$, $P$, $Q$ as vertices?
 
 **Answer:** 72
-[[src_archimede_2000_2livello__Q11]]
+[[Quesiti/src_archimede_2000_2livello#q11|src_archimede_2000_2livello__Q11]]
 
 
 
@@ -490,7 +490,7 @@ Who is guilty of the defendant's statements?
 > The screen size of a television is $60\,\text{cm} \times 45\,\text{cm}$. A camera frames the entire TV, and it sends the image back to the TV itself, so inside this TV you see another one and so on. The largest TV you see inside the screen has an area equal to half the screen area. Assuming that a person watches the TV sitting at such a distance that he or she cannot distinguish images of less than $1\,\text{cm}^2$ area, how many TVs does he or she see inside the screen?
 
 **Answer:** 11
-[[src_archimede_2000_2livello__Q12]]
+[[Quesiti/src_archimede_2000_2livello#q12|src_archimede_2000_2livello__Q12]]
 
 
 
@@ -518,7 +518,7 @@ Who is guilty of the defendant's statements?
 > For each real number $x$, we indicate with $[x]$ the full part of $x$, defined as the largest integer $\leq x$. So for example we have that $[3/2] = 1$, $[\pi] = 3$, $[8] = 8$. Determine how many real positive solutions ($> 0$) of the equation $3^{2x} = 64^{[x]}$ are.
 
 **Answer:** 4
-[[src_archimede_2000_2livello__Q13]]
+[[Quesiti/src_archimede_2000_2livello#q13|src_archimede_2000_2livello__Q13]]
 
 
 
@@ -551,7 +551,7 @@ Who is guilty of the defendant's statements?
 > Note: let us remember that $a, b, c, d$ form an arithmetic progression if $b - a = c - b = d - c$.
 
 **Answer:** 1617
-[[src_archimede_2000_2livello__Q14]]
+[[Quesiti/src_archimede_2000_2livello#q14|src_archimede_2000_2livello__Q14]]
 
 
 
@@ -583,7 +583,7 @@ Who is guilty of the defendant's statements?
 > Note: positive integer divisors are the positive divisors, including 1 and the number itself. For example, the number 6 has exactly four divisors: 1, 2, 3, 6.
 
 **Answer:** 144
-[[src_archimede_2000_2livello__Q15]]
+[[Quesiti/src_archimede_2000_2livello#q15|src_archimede_2000_2livello__Q15]]
 
 
 
@@ -613,7 +613,7 @@ Who is guilty of the defendant's statements?
 > Determine all ordered pairs $(m, n)$ of positive integers satisfying the equation $$\frac{1}{m} + \frac{1}{n} - \frac{1}{mn} = \frac{2}{5}.$$
 
 **Answer:** (3,10),(4,5),(10,3),(5,4)
-[[src_archimede_2000_2livello__Q16]]
+[[Quesiti/src_archimede_2000_2livello#q16|src_archimede_2000_2livello__Q16]]
 
 
 
@@ -645,4 +645,4 @@ Who is guilty of the defendant's statements?
 > 
 > (i) it is shown that $HM$ is parallel to $AC$; (ii) it is shown that $AB = AC$; (iii) it is shown that $AB = BC$.
 
-[[src_archimede_2000_2livello__Q17]]
+[[Quesiti/src_archimede_2000_2livello#q17|src_archimede_2000_2livello__Q17]]

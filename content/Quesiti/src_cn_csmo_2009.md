@@ -33,7 +33,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Trovare le soluzioni interi dell'equazione $x^2 - 2xy + 126y^2 = 2009$. (Posato da Zhang Pengcheng)
 
-[[src_cn_csmo_2009__Q01]]
+[[Quesiti/src_cn_csmo_2009#q01|src_cn_csmo_2009__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Se $x$, $y$, $z$ sono numeri positivi, e $\sqrt{a} = x(y-z)^2$, $\sqrt{b} = y(z-x)^2$, $\sqrt{c} = z(x-y)^2$. Prove che $a^{\frac{1}{2}} + b^{\frac{1}{2}} + c^{\frac{1}{2}} \ge 2(ab + bc + ca)$. (Posato da Tang Lihua)
 
-[[src_cn_csmo_2009__Q03]]
+[[Quesiti/src_cn_csmo_2009#q03|src_cn_csmo_2009__Q03]]
 
 
 
@@ -89,7 +89,7 @@ level: China Southeastern Mathematical Olympiad
 > Ci sono 12 punti rossi su un cerchio. Trovare il minimo di $n$, in modo che esistano triangoli $n$, le cui vertici sono punti rossi, che soddisfano ogni corda con punti terminali rossi che sono un lato di un triangolo. (Posato da Tao Pingsheng)
 
 **Risposta:** 11
-[[src_cn_csmo_2009__Q04]]
+[[Quesiti/src_cn_csmo_2009#q04|src_cn_csmo_2009__Q04]]
 
 
 
@@ -118,7 +118,7 @@ level: China Southeastern Mathematical Olympiad
 > Impostare la permutazione $X = (x_1, x_2, \ldots, x_n)$ di $1, 2, \ldots, n$ in $A$. Per $\forall X \in A$, si lascia $f(X) = \sum_{k=1}^{n} k x_k$. Let $M = \{f(X) \mid X \in A\}$. Trova il valore di $|M|$. (Posato da Xiong Bin)
 
 **Risposta:** \frac{n(n^2-1)}{6}+1
-[[src_cn_csmo_2009__Q05]]
+[[Quesiti/src_cn_csmo_2009#q05|src_cn_csmo_2009__Q05]]
 
 
 
@@ -131,7 +131,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $O$, $I$ be the circumcenter and incenter of $\triangle ABC$. Prove that for an arbitrary point $D$ on the circle $O$, one can construct a triangle $DEF$, such that $O$, $I$ are the circumcenter and incenter of $\triangle DEF$. (Posed by Tao Pingsheng)
 
-![[src_cn_csmo_2009__Q06.png]]
+![[src_cn_csmo_2009__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -147,9 +147,9 @@ level: China Southeastern Mathematical Olympiad
 
 > Che $O$, $I$ siano il centro circostante e l'incentro di $\triangle ABC$. Prova che per un punto arbitrario $D$ sul cerchio $O$, si può costruire un triangolo $DEF$, in modo che $O$, $I$ siano il circondario e l'incentro di $\triangle DEF$. (Posato da Tao Pingsheng)
 
-![[src_cn_csmo_2009__Q06.png]]
+![[src_cn_csmo_2009__q06.png]]
 
-[[src_cn_csmo_2009__Q06]]
+[[Quesiti/src_cn_csmo_2009#q06|src_cn_csmo_2009__Q06]]
 
 
 
@@ -178,7 +178,7 @@ level: China Southeastern Mathematical Olympiad
 > Let $f(x, y, z) = \frac{x(2x - y)}{1 + x + 3y} + \frac{y(2y - z)}{1 - y + 3z} + \frac{z(2z - x)}{1 + z + 3x}$, dove $x, y, z \ge 0$ e $x + y + z = 1$. Trova il valore massimo e il valore minimo di $f(x, y, z)$. (Posato da Liu Shenglong)
 
 **Risposta:** f_{\min}=0,\; f_{\max}=\frac{1}{2}
-[[src_cn_csmo_2009__Q07]]
+[[Quesiti/src_cn_csmo_2009#q07|src_cn_csmo_2009__Q07]]
 
 
 
@@ -191,7 +191,7 @@ level: China Southeastern Mathematical Olympiad
 
 > On a piece of $8 \times 8$ graph paper, at least how many grids should be taken off, and we cannot cut out a 'T' which has five grids as shown in Fig. 1? (Posed by Sun Wen-Hsien)
 
-![[src_cn_csmo_2009__Q08.png]]
+![[src_cn_csmo_2009__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -208,7 +208,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Su un pezzo di carta grafica $8 \times 8$, almeno quante griglie devono essere tolte, e non possiamo tagliare una "T" che ha cinque griglie come mostrato nella figura. 1? (Posato da Sun Wen-Hsien)
 
-![[src_cn_csmo_2009__Q08.png]]
+![[src_cn_csmo_2009__q08.png]]
 
 **Risposta:** 14
-[[src_cn_csmo_2009__Q08]]
+[[Quesiti/src_cn_csmo_2009#q08|src_cn_csmo_2009__Q08]]

@@ -46,7 +46,7 @@ level: squadre
 > At the Vitrifrigo Arena Silvia Sconza Giacomo (Entering the Vitrifrigo Arena, to attend the concert together with Filippo) The palace has 10323 seats, numbered from 1. Filippo (Looking at his seat number written on the ticket) There are exactly 29 seats numbered multiple my seat number. James excluding yours? Philip No, including mine. And my seat number isn't even prime. What are the possible numbers of Philip's seat?
 
 **Answer:** 0008
-[[src_gsm_2021_squadre__Q01]]
+[[Quesiti/src_gsm_2021_squadre#q01|src_gsm_2021_squadre__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: squadre
 > This is Sandro Campigotto's house. House Scabarrozzi, known to us Turinese as Fetta di polenta. Its peculiarity and the origin of its nickname lie in its ochre yellow color, but above all in the singular trapezoidal plant and the very thin thickness of the building which make it similar to a slice of polenta. Richard Let's say its plant is an ABCD rectangular trapezoid with base AB major. Consider the point E on the AD height such that the angle \ CEB is straight. Knowing that the sum of the squares of the lengths of the segments AE and CD is 11,22 m2 and the sum of the squares of the lengths of the segments ED and AB is 14,79 m2, how many millimetres measure the oblique side BC? Alberto But how do you know those measurements of Polenta Fetta!
 
 **Answer:** 5100
-[[src_gsm_2021_squadre__Q02]]
+[[Quesiti/src_gsm_2021_squadre#q02|src_gsm_2021_squadre__Q02]]
 
 
 
@@ -136,7 +136,7 @@ level: squadre
 > In Carnia Sandro Campigotto Alessandro (Walking in front of the group, along a path that winds through the beautiful mountains of Carnia) Luigi, go ahead. At each turn, indicate the direction to take to reach the top of Col Quaternà. Luigi hastened his step, leaving the rest of the group behind. Luigi (arriving at the top of the Col Quaternà) Shit! The forks were 10, but I still have 3 indicator signals in my pocket. I'm going down. I knew I shouldn't be distracted by the view, but it's so beautiful! However, it's pretty obvious which side is the top. I'm really excited. I estimate that for every bifurcation without the signal, the group has a 20% chance of missing the path. What is the percentage probability that the group will reach the top based on Louis' assessment?
 
 **Answer:** 0051
-[[src_gsm_2021_squadre__Q03]]
+[[Quesiti/src_gsm_2021_squadre#q03|src_gsm_2021_squadre__Q03]]
 
 
 
@@ -179,7 +179,7 @@ level: squadre
 > At Potenza Sandro Campigotto Paolo has come to pick up his friend Andrea who is arriving at the Central Power Station. I'm going to be a little late. How many positive integer n numbers until 2021 are such that the numbers n2 and n3 are both sums of n consecutive positive integers? But is it ever possible that every time I come you have to ask me a question about the powers of numbers? Anyway, you mean 2021 included? Yes, you are! Paul, then I know the answer! (1) In each issue, the author's name appears next to the title.
 
 **Answer:** 1011
-[[src_gsm_2021_squadre__Q04]]
+[[Quesiti/src_gsm_2021_squadre#q04|src_gsm_2021_squadre__Q04]]
 
 
 
@@ -221,7 +221,7 @@ level: squadre
 > Villa Feltrinelli Lorenzo Mazza Carlo (Sitting by the lake in the garden of the villa) I propose a game while we wait for the ferry to Riva. Each of you is thinking of a positive integer. Emilia, tell me what number you thought of. (Emilia whispers to Carlo so that Silvio doesn't hear.) (Silvio plays Emilia) Now I write on this sheet the sum of the two numbers, on this other sheet the product of the two numbers. Then I pick one at random and show it to you. Who can tell me what numbers you've been thinking about? Silvio C is 4000. I don't know what number Emilia thought. Emilia I can't even tell what number Silvio thought. What number did Emilia think of?
 
 **Answer:** 2000
-[[src_gsm_2021_squadre__Q05]]
+[[Quesiti/src_gsm_2021_squadre#q05|src_gsm_2021_squadre__Q05]]
 
 
 
@@ -269,7 +269,7 @@ level: squadre
 > The Thuile Andrea Giusto Vlada is skiing in La Thuile. He descends from the saddle and heads towards the Berthod, Italy's steepest slope, but at the start of the same a ski master barrows the road. Master Ferma! Where would you like to go? I'm sorry, I just wanted to enjoy a ski trip. Master Ah, don't you know? Since this year, in order to preserve the snow on this track, we have decided to restrict the entrance: only those who can correctly answer a mathematical question can enter. Vlada (Curious about this situation) Come on then, I'm ready to answer! Master (Assumes a very serious unaria) Si (an) and (bn) are two successions defined by recurrence such that a0 = 5, an+1 = an · bn, b0 = 1 and bn+1 = bn + n + 1. What's the rest of a2021 in division by six? It's harder than I thought!
 
 **Answer:** 0002
-[[src_gsm_2021_squadre__Q06]]
+[[Quesiti/src_gsm_2021_squadre#q06|src_gsm_2021_squadre__Q06]]
 
 
 
@@ -321,7 +321,7 @@ level: squadre
 > In Bari Sandro Campigotto and Giuseppe Rosolini Alessandra enters a boutique in the center and asks the contractor to recommend a sandal for the beautiful season now at the doors. I would recommend this model: it has 3 soles on the right and 3 on the left and you can close it with this tie. Alexandra That's strange: the lace has a blue end and an orange end. They're a combination of colors. Alessandra, are there any instructions on how to fix the lock? Commissar must pass the loop through all the aisles. It can enter an asshole from above or below, and eventually the binding may not be symmetrical. But it must make sure that the two ends of the lattice exit from the higher suns and that the lattice passes directly from one lower sun to the lower sun. Alessandra, you mean without moving first to another asshole on a different level? I like them; I'll take them! How many ways can Alessandra tie one of the sandals according to the clerk's instructions?
 
 **Answer:** 1536
-[[src_gsm_2021_squadre__Q07]]
+[[Quesiti/src_gsm_2021_squadre#q07|src_gsm_2021_squadre__Q07]]
 
 
 
@@ -366,7 +366,7 @@ level: squadre
 > On the Straits Lorenzo Mazza Martina and Enrico have just bought a house in Reggio Calabria, overlooking the Straits. Martina We were lucky to find this house at such a good price! It's too bad the living room and kitchen floors have to be re-flattened. Martina Don't worry, I've already spoken to a voice-over artist who's the best in town. He said that for his rectangular tiles, however, he can only use cuts of whole (positive) centimetres. Henry would cut tiles even with negative or zero values. . . Knowing that the two rooms have dimensions of 2,61 m 2,64 m and 2,38 m 2,79 m, what is the perimeter of the bricks of maximum area that allow to cover the two floors without waste? Team competition 2021  Problem texts  Pag. 2 di 5
 
 **Answer:** 0022
-[[src_gsm_2021_squadre__Q08]]
+[[Quesiti/src_gsm_2021_squadre#q08|src_gsm_2021_squadre__Q08]]
 
 
 
@@ -411,7 +411,7 @@ level: squadre
 > In Bronte Silvia Sconza Paolo and Lorenzo, great lovers of pistachio, on holiday in Catania cannot afford not to visit Bronte to stock up on the renowned green pistachio cream of Bronte DOP. Lorenzo Have you noticed that 2021 is given by the juxtaposition of two numbers of two consecutive digits taken in increasing order, 20 and 21? What an interesting Paul! Let's play a game: I'll give you a bowl of pistachio cream if you can tell me what the numbers are, exactly six digits, not divisible by 2 or by 5 or by 11, which are given by the juxtaposition of three numbers, two digits each, consecutive and taken in increasing order. Lorenzo So 70809 can I consider it acceptable if I write it with a zero in front of it? Paolo No, the prime must be different from zero. Lorenzo But then it's even easier!
 
 **Answer:** 0032
-[[src_gsm_2021_squadre__Q09]]
+[[Quesiti/src_gsm_2021_squadre#q09|src_gsm_2021_squadre__Q09]]
 
 
 
@@ -450,7 +450,7 @@ level: squadre
 > Silvia Sconza Jacopo is in Fornelli to find Riccardo who is teaching him the original recipe of the gourds. I'm going to have to fill the dough. They told me that you're passionate about mathematical problems, so I suggest one: the amount, in grams, of chicks that we have to put is equal to a3 + b3 + c3 + d3 + e3 where a, b, c, d and e are the roots of the polynomial x5 −17x4 + 102x3 −260x2 + 264x −84. The funny guy! How many grams of chicken will they have to use?
 
 **Answer:** 0491
-[[src_gsm_2021_squadre__Q10]]
+[[Quesiti/src_gsm_2021_squadre#q10|src_gsm_2021_squadre__Q10]]
 
 
 
@@ -491,7 +491,7 @@ level: squadre
 > Lake Albano Lorenzo Mazza Vlada and Matteo are in Rome and decide to take advantage of the beautiful day to cycle around the perimeter of Lake Albano. Vlada (After a long pedal ride) I'm so tired, how many meters have we walked? Matthew We traveled as many meters as the greatest integer value of the number x2 + xy + y2 10 obtained using positive integers x and y, and that is less than or equal to 9999. What number is it?
 
 **Answer:** 9990
-[[src_gsm_2021_squadre__Q11]]
+[[Quesiti/src_gsm_2021_squadre#q11|src_gsm_2021_squadre__Q11]]
 
 
 
@@ -528,7 +528,7 @@ level: squadre
 > Lorenzo Mazza and Giuseppe Rosolini on the Blue Path, which connects Monterosso to Riomaggiore, Ludovica and Stefano, to avoid thinking about the difficulty of the trekking, put themselves together mathematical problems. Ludovica Among the lower positive k numbers of 9999, what is the largest such that the maximum common divisor between (k2021 −1) and (k2020 −1) is 2021? Stephen (Whispering sweat from his forehead) Certainly, it is. . .
 
 **Answer:** 2022
-[[src_gsm_2021_squadre__Q12]]
+[[Quesiti/src_gsm_2021_squadre#q12|src_gsm_2021_squadre__Q12]]
 
 
 
@@ -586,7 +586,7 @@ level: squadre
 > At Villasimius Andrea Giusto Simone (Walking on a long beach in Villasimius) Look at how many people. Mara is 2021. Simone, how do you know? Mara, can't you see? Each of them wrote a sentence on the shirt like n of 2021. They're part of a society where every member either always tells the truth or lies. They are divided into 4 groups: group A, where members with an equal number less than 1011 are located; group B, with members with an odd number less than 1010; group C, which consists of members with an equal number greater than 1011; and finally group D, with members with an odd number greater than 1010. Listen, they're about to talk. Members with a multiple of mine always lie. Members with a multiple of mine always tell the truth. Partnership with the 2020 of 2021 article Partners with an equal number always tell the truth. The partners who say the truth are more numerous than the partners who say the false. Simone Incredible: all the people in the same group made the same statement! What is the sum between the maximum possible number of partners telling the truth and the minimum possible? Team competition 2021  Problem texts  Pag. 3 di 5
 
 **Answer:** 2526
-[[src_gsm_2021_squadre__Q13]]
+[[Quesiti/src_gsm_2021_squadre#q13|src_gsm_2021_squadre__Q13]]
 
 
 
@@ -629,7 +629,7 @@ level: squadre
 > Cima Blockhaus Sandro Campigotto After climbing one of the most challenging mountains in Italy, Giuseppe and Giulio reached Cima Blockhaus, in the heart of the Abruzzo Apennines. Joseph, while riding, a problem of geometry came to mind. Do you want to hear it? JULIOS (Coming off the bike) Yes, I need to stop for a moment to rest my legs. Joseph A rectangular parallel piped with a side base of 50 cm is supported on an inclined plane of 30°. What is the maximum height in millimetres that it can have so as not to overturn, that is, so that the vertical perpendicular from the center of the beam is not external to the bottom base? Julius, is the paralelepedo made of homogeneous material? Joseph of course!
 
 **Answer:** 1224
-[[src_gsm_2021_squadre__Q14]]
+[[Quesiti/src_gsm_2021_squadre#q14|src_gsm_2021_squadre__Q14]]
 
 
 
@@ -673,7 +673,7 @@ level: squadre
 > On the lake of Braies, Francesco and Simone Campigotto decide to do what most other tourists do and hire a rowing boat to go around the lake. Simon (pointing to a writing inscribed in the boat) What is that? Francesco (He puts on his glasses) He seems to be a problem. Simone What do you say? Francesco C is written: How much is 4pa + 4p b where a and b are the two roots of the polynomial x2 −2207x + 1? Simone . .
 
 **Answer:** 0007
-[[src_gsm_2021_squadre__Q15]]
+[[Quesiti/src_gsm_2021_squadre#q15|src_gsm_2021_squadre__Q15]]
 
 
 
@@ -708,7 +708,7 @@ level: squadre
 > Porto Garibaldi Sandro Campigotto Corinna and Paola are relaxing on the beach in Porto Garibaldi. The deck I have in my hand contains a certain number of cards, let's say n. Each card is numbered with a number from 1 to n. Divide it into four lots according to these rules:
 
 **Answer:** 0032
-[[src_gsm_2021_squadre__Q16]]
+[[Quesiti/src_gsm_2021_squadre#q16|src_gsm_2021_squadre__Q16]]
 
 
 
@@ -736,7 +736,7 @@ level: squadre
 > 17. In Murano Matteo Di Domenico in a laboratory, a glass artist is at work. Starting from a glass cylinder still incandescent and malleable, it puts a bag, a very particular clamp, in the middle of the height and, rotating, starts to tighten by generating a circle parallel to the two bases of the initial cylinder and centered on the segment that connects the centers of the cylinder bases. Master Glassman, you see, I'm not going to extend it. I reduce the radius in the middle and increase the radius of the lower base to keep the height of the solid constant, as well as the volume. Alexander could make sure that the center radius at the end is two-thirds of that of the upper base, which will remain unchanged to understand us. Master Glassmaker You have clear ideas! If the gifts help me, the result is
 
 **Answer:** 1552
-[[src_gsm_2021_squadre__Q17]]
+[[Quesiti/src_gsm_2021_squadre#q17|src_gsm_2021_squadre__Q17]]
 
 
 
@@ -765,7 +765,7 @@ level: squadre
 > 18. At the San Carlo Elena Espa the Teatro San Carlo reopens its doors to the public with a special event. Only those who know the access code will be able to access the show! What does it consist of? The code is five digits, the product of which is 108. This information is not enough to determine the code. ♪ I'm not going to lie ♪
 
 **Answer:** 0300
-[[src_gsm_2021_squadre__Q18]]
+[[Quesiti/src_gsm_2021_squadre#q18|src_gsm_2021_squadre__Q18]]
 
 
 
@@ -793,7 +793,7 @@ level: squadre
 > 19. A walk by Giuseppe Rosolini Domenico LAdenovirus1554 (A1554) has a strange behavior: meeting an A1554 sick person is not a risk of infection; meeting a couple of A1554 sick people is a 50% risk of infection. Daniel I just arrived in Milan and took a stroll on the Naviles: I met exactly six couples of people. What's the probability that I got the A1554? Well, you take it pretty easily: here, 1 in 2 people is sick with A1554. Daniel, are you saying there's a 50% chance that you're sick? Dominic Yes! What are, in order, the first four digits after the comma of the probability that Daniel contracted adenovirus1554 while walking on the ships?
 
 **Answer:** 5512
-[[src_gsm_2021_squadre__Q19]]
+[[Quesiti/src_gsm_2021_squadre#q19|src_gsm_2021_squadre__Q19]]
 
 
 
@@ -822,7 +822,7 @@ level: squadre
 > 20. In Pienza Sandro Campigotto and Giuseppe Rosolini Carlo (In Piazza Pio II) Do we ask that lady to take a picture of our whole group? Silvan agrees with you. We're ten, we're all of different heights, we try to arrange ourselves so that we can all be seen. Carlo We put two rows of five: in each row we put the highest of the row in the center and the others to decrease towards the outside. Silvano, but we have to make sure that the front row doesn't cover the back row. Those in the same position on the two rows are in increasing order in front of the target: the one in the back row is higher than the one in the front row. Roberto, you mean, if, for example, you and I are in the fifth position of the two rows. You, who are lower than m
 
 **Answer:** 0056
-[[src_gsm_2021_squadre__Q20]]
+[[Quesiti/src_gsm_2021_squadre#q20|src_gsm_2021_squadre__Q20]]
 
 
 
@@ -850,4 +850,4 @@ level: squadre
 > 21. Eurochocolate Sandro Campigotto Sara and Matteo are at Eurochocolate in Perugia, the largest chocolate festival in Europe. Sara (Looking at a glass clessandra containing melted chocolate) That strange clessandra is made up of two cones of equal base and 15 cm high each. Matteo Ora is at rest: the lower cone is full up to the top. Sara: How high in centimetres will the chocolate be in the bottom cone when the two cones contain the same amount?
 
 **Answer:** 3094
-[[src_gsm_2021_squadre__Q21]]
+[[Quesiti/src_gsm_2021_squadre#q21|src_gsm_2021_squadre__Q21]]

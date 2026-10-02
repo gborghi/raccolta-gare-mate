@@ -36,7 +36,7 @@ level: JJMO Honsen
 
 > Ci sono quattro numeri reali positivi distinti $a, b, c, d$. Tra le seguenti 12 espressioni $$a+b,\ a+c,\ a+d,\ b+c,\ b+d,\ c+d,$$ $$ab,\ ac,\ ad,\ bc,\ bd,\ cd,$$ trovi il maggior numero possibile di esse il cui valore è uguale a $1$.
 
-[[src_jjmo11mq_honsen__Q01]]
+[[Quesiti/src_jjmo11mq_honsen#q01|src_jjmo11mq_honsen__Q01]]
 
 
 
@@ -76,7 +76,7 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 > 
 > L'obiettivo di B e' quello di rendere due tazze di tè buono allo stesso tempo. Indipendentemente dalle azioni di B, A può continuare a impedire a B di raggiungere questo obiettivo per sempre?
 
-[[src_jjmo11mq_honsen__Q02]]
+[[Quesiti/src_jjmo11mq_honsen#q02|src_jjmo11mq_honsen__Q02]]
 
 
 
@@ -104,7 +104,7 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 
 > Per gli integri positivi $x, y$, $\gcd(x, y)$ indichi il più grande divisore comune di $x$ e $y$. Trova tutti i triples di numeri interi positivi $(a, b, c)$ soddisfaci $$a = \gcd(b^2+1,\ c^2+1),\quad b = \gcd(c^2+1,\ a^2+1),\quad c = \gcd(a^2+1,\ b^2+1).$$
 
-[[src_jjmo11mq_honsen__Q03]]
+[[Quesiti/src_jjmo11mq_honsen#q03|src_jjmo11mq_honsen__Q03]]
 
 
 
@@ -131,7 +131,7 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 
 > C'è un triangolo acuto $ABC$ con $AB < AC$, il cui centro ortocentrico e incentrico sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimere $\angle HJK$ in termini di $\angle BCA$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jjmo11mq_honsen__Q04]]
+[[Quesiti/src_jjmo11mq_honsen#q04|src_jjmo11mq_honsen__Q04]]
 
 
 
@@ -168,4 +168,4 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 > 
 > Per tutti i cittadini è stato esaminato il numero di cittadini per ciascun sondaggio e questi numeri sono stati sommati, dando $K$. Inoltre, per ogni ribellione organizzata da cittadini di almeno 1 MSK, esiste sempre un modo per sopprimere tale ribellione. Trova il valore più piccolo possibile che $K$ può assumere. Si noti che anche se il cittadino $A$ sorveglia il cittadino $B$, non è necessariamente il caso che il cittadino $B$ sorvegli il cittadino $A$.
 
-[[src_jjmo11mq_honsen__Q05]]
+[[Quesiti/src_jjmo11mq_honsen#q05|src_jjmo11mq_honsen__Q05]]

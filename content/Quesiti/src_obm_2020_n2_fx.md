@@ -32,7 +32,7 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. Il bisettore di angolo $\angle DAC$ incontra il segmento $DC$ a $E$. $F$ sia il punto della linea $AE$ in modo tale che $BF \perp AE$. Dato che $\angle BAE = 45^\circ$, trovare la misura di $\angle BFC$.
 
-[[src_obm_2020_n2_fx__Q01]]
+[[Quesiti/src_obm_2020_n2_fx#q01|src_obm_2020_n2_fx__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: OBM Nível 2
 > 
 > Qui $\blacksquare$ rappresenta un certo numero di cifre che sono state cancellate dalla lavagna. Quali sono tutte le possibili equazioni che sono state originariamente scritte sulla lavagna?
 
-[[src_obm_2020_n2_fx__Q02]]
+[[Quesiti/src_obm_2020_n2_fx#q02|src_obm_2020_n2_fx__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: OBM Nível 2
 > 
 > Trova il minimo valore possibile di $x_1$ per il quale la sequenza contiene un termine pari a $2020$.
 
-[[src_obm_2020_n2_fx__Q03]]
+[[Quesiti/src_obm_2020_n2_fx#q03|src_obm_2020_n2_fx__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: OBM Nível 2
 > 
 > Quanti numeri $4$ sono supercilindrici?
 
-[[src_obm_2020_n2_fx__Q04]]
+[[Quesiti/src_obm_2020_n2_fx#q04|src_obm_2020_n2_fx__Q04]]
 
 
 
@@ -167,7 +167,7 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $M$ è il punto medio del $AB$ e $K \ne C$ il secondo punto di intersezione dei circoncircoli dei triangoli $ACK$ e $OMB$. Le linee $CK$ e $OM$ si incontrano a $P$. Prova che $\angle KAP = \angle MCB$.
 
-[[src_obm_2020_n2_fx__Q05]]
+[[Quesiti/src_obm_2020_n2_fx#q05|src_obm_2020_n2_fx__Q05]]
 
 
 
@@ -198,4 +198,4 @@ level: OBM Nível 2
 > 
 > Trova tutti i valori di $k$ per i quali Arnaldo ha una strategia vincente.
 
-[[src_obm_2020_n2_fx__Q06]]
+[[Quesiti/src_obm_2020_n2_fx#q06|src_obm_2020_n2_fx__Q06]]

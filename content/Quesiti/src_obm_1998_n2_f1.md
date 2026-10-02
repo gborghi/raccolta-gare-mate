@@ -43,7 +43,7 @@ level: OBM Nível 2
 > A) 13 B) 20 C) 38 D) 39 E) 40
 
 **Risposta:** D
-[[src_obm_1998_n2_f1__Q01]]
+[[Quesiti/src_obm_1998_n2_f1#q01|src_obm_1998_n2_f1__Q01]]
 
 
 
@@ -80,7 +80,7 @@ level: OBM Nível 2
 > A) lunedì B) sabato C) domenica D) giovedì E) mercoledì
 
 **Risposta:** C
-[[src_obm_1998_n2_f1__Q02]]
+[[Quesiti/src_obm_1998_n2_f1#q02|src_obm_1998_n2_f1__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: OBM Nível 2
 
 > (Annullato / Annullato  Annulada.)
 
-[[src_obm_1998_n2_f1__Q03]]
+[[Quesiti/src_obm_1998_n2_f1#q03|src_obm_1998_n2_f1__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: OBM Nível 2
 > A) 3 B) 7 C) 6 D) 9 E) 13
 
 **Risposta:** C
-[[src_obm_1998_n2_f1__Q04]]
+[[Quesiti/src_obm_1998_n2_f1#q04|src_obm_1998_n2_f1__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: OBM Nível 2
 > D) 3
 > E) 3.5
 
-![[src_obm_1998_n2_f1__Q05.png]]
+![[src_obm_1998_n2_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -179,10 +179,10 @@ level: OBM Nível 2
 > 
 > A) 2 B) 1.5 C) 2.5 D) 3 E) 3.5
 
-![[src_obm_1998_n2_f1__Q05.png]]
+![[src_obm_1998_n2_f1__q05.png]]
 
 **Risposta:** B
-[[src_obm_1998_n2_f1__Q05]]
+[[Quesiti/src_obm_1998_n2_f1#q05|src_obm_1998_n2_f1__Q05]]
 
 
 
@@ -219,7 +219,7 @@ level: OBM Nível 2
 > A) 1 B) 3 C) 5 D) 7 E) 9
 
 **Risposta:** E
-[[src_obm_1998_n2_f1__Q06]]
+[[Quesiti/src_obm_1998_n2_f1#q06|src_obm_1998_n2_f1__Q06]]
 
 
 
@@ -256,7 +256,7 @@ level: OBM Nível 2
 > A) 0 B) 2 C) 4 D) 6 E) 8
 
 **Risposta:** D
-[[src_obm_1998_n2_f1__Q07]]
+[[Quesiti/src_obm_1998_n2_f1#q07|src_obm_1998_n2_f1__Q07]]
 
 
 
@@ -293,7 +293,7 @@ level: OBM Nível 2
 > A) 0 B) 2 C) 5 D) 6 E) 8
 
 **Risposta:** D
-[[src_obm_1998_n2_f1__Q08]]
+[[Quesiti/src_obm_1998_n2_f1#q08|src_obm_1998_n2_f1__Q08]]
 
 
 
@@ -312,7 +312,7 @@ level: OBM Nível 2
 > D) 12.5
 > E) $5\sqrt{3}$
 
-![[src_obm_1998_n2_f1__Q09.png]]
+![[src_obm_1998_n2_f1__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -331,10 +331,10 @@ level: OBM Nível 2
 > 
 > A) 5 B) 7.5 C) 10 D) 12.5 E) $5\sqrt{3}$
 
-![[src_obm_1998_n2_f1__Q09.png]]
+![[src_obm_1998_n2_f1__q09.png]]
 
 **Risposta:** A
-[[src_obm_1998_n2_f1__Q09]]
+[[Quesiti/src_obm_1998_n2_f1#q09|src_obm_1998_n2_f1__Q09]]
 
 
 
@@ -375,7 +375,7 @@ level: OBM Nível 2
 > A) 30 B) 20 C) 35 D) 45 E) 40
 
 **Risposta:** B
-[[src_obm_1998_n2_f1__Q10]]
+[[Quesiti/src_obm_1998_n2_f1#q10|src_obm_1998_n2_f1__Q10]]
 
 
 
@@ -412,7 +412,7 @@ level: OBM Nível 2
 > A) 6 B) 9 C) 10 D) 12 E) 15
 
 **Risposta:** B
-[[src_obm_1998_n2_f1__Q11]]
+[[Quesiti/src_obm_1998_n2_f1#q11|src_obm_1998_n2_f1__Q11]]
 
 
 
@@ -431,7 +431,7 @@ level: OBM Nível 2
 > D) 56
 > E) 42
 
-![[src_obm_1998_n2_f1__Q12.png]]
+![[src_obm_1998_n2_f1__q12.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -449,10 +449,10 @@ level: OBM Nível 2
 > 
 > A) 39 B) 36 C) 48 D) 56 E) 42
 
-![[src_obm_1998_n2_f1__Q12.png]]
+![[src_obm_1998_n2_f1__q12.png]]
 
 **Risposta:** B
-[[src_obm_1998_n2_f1__Q12]]
+[[Quesiti/src_obm_1998_n2_f1#q12|src_obm_1998_n2_f1__Q12]]
 
 
 
@@ -488,7 +488,7 @@ level: OBM Nível 2
 > A) $(x+3)(y-2)$ B) $(x-3)y + 2$ C) $x(y-2) - 3$ D) $xy - 6$ E) $(x-3)(y+2)$
 
 **Risposta:** E
-[[src_obm_1998_n2_f1__Q13]]
+[[Quesiti/src_obm_1998_n2_f1#q13|src_obm_1998_n2_f1__Q13]]
 
 
 
@@ -524,7 +524,7 @@ level: OBM Nível 2
 > A) 30% B) 39% C) 21% D) 40% E) 31%
 
 **Risposta:** A
-[[src_obm_1998_n2_f1__Q14]]
+[[Quesiti/src_obm_1998_n2_f1#q14|src_obm_1998_n2_f1__Q14]]
 
 
 
@@ -561,7 +561,7 @@ level: OBM Nível 2
 > A) 14 B) 16 C) 15 D) 17 E) 11
 
 **Risposta:** D
-[[src_obm_1998_n2_f1__Q15]]
+[[Quesiti/src_obm_1998_n2_f1#q15|src_obm_1998_n2_f1__Q15]]
 
 
 
@@ -606,7 +606,7 @@ level: OBM Nível 2
 > A) 6 volte B) 5 volte C) 4 volte D) 3 volte E) 2 volte
 
 **Risposta:** B
-[[src_obm_1998_n2_f1__Q16]]
+[[Quesiti/src_obm_1998_n2_f1#q16|src_obm_1998_n2_f1__Q16]]
 
 
 
@@ -649,7 +649,7 @@ level: OBM Nível 2
 > A) 289 B) 121 C) 81 D) 144 E) 196
 
 **Risposta:** A
-[[src_obm_1998_n2_f1__Q17]]
+[[Quesiti/src_obm_1998_n2_f1#q17|src_obm_1998_n2_f1__Q17]]
 
 
 
@@ -670,7 +670,7 @@ level: OBM Nível 2
 > D) 20
 > E) 16
 
-![[src_obm_1998_n2_f1__Q18.png]]
+![[src_obm_1998_n2_f1__q18.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -691,10 +691,10 @@ level: OBM Nível 2
 > 
 > A) 12 B) 4 C) 18 D) 20 E) 16
 
-![[src_obm_1998_n2_f1__Q18.png]]
+![[src_obm_1998_n2_f1__q18.png]]
 
 **Risposta:** A
-[[src_obm_1998_n2_f1__Q18]]
+[[Quesiti/src_obm_1998_n2_f1#q18|src_obm_1998_n2_f1__Q18]]
 
 
 
@@ -739,7 +739,7 @@ Un puzzle logico: uno dei quattro sospettati dice la verità
 > A) André. B) Eduardo. C) Rafael. D) João. E) Non può essere determinato.
 
 **Risposta:** C
-[[src_obm_1998_n2_f1__Q19]]
+[[Quesiti/src_obm_1998_n2_f1#q19|src_obm_1998_n2_f1__Q19]]
 
 
 
@@ -765,4 +765,4 @@ Un puzzle logico: uno dei quattro sospettati dice la verità
 
 > (Annullato / Annullato  Annulada.)
 
-[[src_obm_1998_n2_f1__Q20]]
+[[Quesiti/src_obm_1998_n2_f1#q20|src_obm_1998_n2_f1__Q20]]

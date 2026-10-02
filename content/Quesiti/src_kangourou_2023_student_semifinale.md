@@ -36,7 +36,7 @@ level: kangourou
 
 > (Points 2) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
 
-[[src_kangourou_2023_student_semifinale__Q01]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q01|src_kangourou_2023_student_semifinale__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: kangourou
 
 > (Points 3) The code of a safe deposit box is a four-digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With this information alone, how many attempts will it take to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
 
-[[src_kangourou_2023_student_semifinale__Q02]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q02|src_kangourou_2023_student_semifinale__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 
 > The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the figures for this product? A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility
 
-[[src_kangourou_2023_student_semifinale__Q03]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q03|src_kangourou_2023_student_semifinale__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: kangourou
 
 > (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters are different digits. You know that TAP + BAT is CAD. What is the largest possible value for the CAD number? A) 782           B) 892           C) 893          D) 908           E) 987
 
-[[src_kangourou_2023_student_semifinale__Q04]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q04|src_kangourou_2023_student_semifinale__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: kangourou
 
 > (Points 4) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle on side 3. What is the greatest number of parts into which the three spheres complex can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            12) 12
 
-[[src_kangourou_2023_student_semifinale__Q05]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q05|src_kangourou_2023_student_semifinale__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: kangourou
 
 > (Points 4) It is known that the three numbers m, n and (8m × 102m) / (5  m  n × 203m) are all integers and not equal to zero. Which of the following statements is true? A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
 
-[[src_kangourou_2023_student_semifinale__Q06]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q06|src_kangourou_2023_student_semifinale__Q06]]
 
 
 
@@ -216,7 +216,7 @@ level: kangourou
 
 > (Points 5) Imagine repeating the ABBCCCDDE letter alignment indefinitely, thus obtaining the periodic ABBCCCDDEABBCCCDDEABBC... For how many of the following pairs (X, n) is the following statement false: The ninth letter of the periodic alignment is X? (A, 20 × 23) ii) (A, 2023) iii) (C, 2023) iv) (E, 3202) A) 0 (all are true) B) 1 C) 2 D) 3 E) 4 (all are false)
 
-[[src_kangourou_2023_student_semifinale__Q07]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q07|src_kangourou_2023_student_semifinale__Q07]]
 
 
 
@@ -258,7 +258,7 @@ Where lies live.
 
 > (Points 5) A village has 5 houses, each inhabitant lives in one of these 5 houses and in each one lives someone. All the inhabitants living in four of them always tell the truth, all the inhabitants living in the remaining house always lie. The following information was collected from house to house: House A: In this house live 3 people, In this village live more than 17 people. House B: In this house live 4 people, In this village live more than 21 people. House C: In this house live 5 people, The number of people living in this village is NOT 25. House D: In this house there are 6 people, In this village there are less than 29 people. House E: In this house live 7 people, In this village live less than 33 people. What house do liars live in? A) In house A. B) In house B. C) In house C. D) In house D. E) In house E.
 
-[[src_kangourou_2023_student_semifinale__Q08]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q08|src_kangourou_2023_student_semifinale__Q08]]
 
 
 
@@ -293,7 +293,7 @@ Where lies live.
 
 > (Points 6) Suppose that in the plane, equipped with a monometric orthogonal cartesian system, however considered two points, one can pass from one to the other only by moving parallel to the axes; in this case the length of the segment of extremes (x, y) and (a, b), i.e. the distance of the point (x, y) from the point (a, b), is x a + y b. If the terms radius and circumference of the centre of the given circle are defined in the usual way, but in relation to this new notion of distance and not to the Euclidean space, what is the relationship, in this new notion of distance, between the length of the circumference and the relative radius? A) 2 B) 2π C) 4 D) 4√ 2 E) 8 Open-ended questions
 
-[[src_kangourou_2023_student_semifinale__Q09]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q09|src_kangourou_2023_student_semifinale__Q09]]
 
 
 
@@ -322,7 +322,7 @@ Find n after random operations with result 78*
 
 > (Points 4) Gianna plays like that. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
 
-[[src_kangourou_2023_student_semifinale__Q10]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q10|src_kangourou_2023_student_semifinale__Q10]]
 
 
 
@@ -350,7 +350,7 @@ Find n after random operations with result 78*
 
 > (Points 5) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a square per square?
 
-[[src_kangourou_2023_student_semifinale__Q11]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q11|src_kangourou_2023_student_semifinale__Q11]]
 
 
 
@@ -379,7 +379,7 @@ Find n after random operations with result 78*
 
 > (Points 5) Both A and B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B?
 
-[[src_kangourou_2023_student_semifinale__Q12]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q12|src_kangourou_2023_student_semifinale__Q12]]
 
 
 
@@ -408,7 +408,7 @@ Find n after random operations with result 78*
 
 > (Points 6) What is the smallest real number k such that the inequality (x2 + y2 + z2) 2 ≤ k (x4 + y4 + z4) is worth for every prime of real numbers?
 
-[[src_kangourou_2023_student_semifinale__Q13]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q13|src_kangourou_2023_student_semifinale__Q13]]
 
 
 
@@ -437,7 +437,7 @@ Find n after random operations with result 78*
 
 > (Points 6) From the sum of integers 1 to 17, these included, two numbers can be taken so that their product matches the sum of the remaining ones and there is only one way to do so. How much is that product worth?
 
-[[src_kangourou_2023_student_semifinale__Q14]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q14|src_kangourou_2023_student_semifinale__Q14]]
 
 
 
@@ -467,7 +467,7 @@ Find n after random operations with result 78*
 
 > (Points 6) Let us denote with f a function defined on all real axes and real values; let us suppose that f satisfies, for every real value of x, the chain of inequalities f(x  5) + 2 ≤ x  2023 ≤ f(x + 4)  7. The function f is void for only one value of x: which?
 
-[[src_kangourou_2023_student_semifinale__Q15]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q15|src_kangourou_2023_student_semifinale__Q15]]
 
 
 
@@ -519,7 +519,7 @@ Find n after random operations with result 78*
 
 > (Points 7) The angles of a square are moved with circular arcs, all of the same radius, as shown in the figure; the straight side of the edge of the new region is as long as the curved side. The ratio of the perimeter of the new figure to the perimeter of the original square is p/100. What is the nearest integer to p?
 
-[[src_kangourou_2023_student_semifinale__Q16]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q16|src_kangourou_2023_student_semifinale__Q16]]
 
 
 
@@ -548,7 +548,7 @@ Find n after random operations with result 78*
 
 > Consider a triangle of perimeter 64 and the circumference inscribed therein. Between the networks perpendicular to this circumference, consider one parallel to one side of the triangle. What is the maximum length of a segment of such a straight line contained in the triangle?
 
-[[src_kangourou_2023_student_semifinale__Q17]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q17|src_kangourou_2023_student_semifinale__Q17]]
 
 
 
@@ -578,4 +578,4 @@ Find n after random operations with result 78*
 
 > (Points 8) In a group of 2023 people, everyone has a dislike of exactly one other person, but the relationship is not necessarily symmetrical. Without knowing the actual situation, it is desirable to ensure that no person can be selected by 2023 so that none of them dislikes any of the remaining selected persons. What's the greatest value of n?
 
-[[src_kangourou_2023_student_semifinale__Q18]]
+[[Quesiti/src_kangourou_2023_student_semifinale#q18|src_kangourou_2023_student_semifinale__Q18]]

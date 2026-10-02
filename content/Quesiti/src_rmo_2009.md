@@ -33,7 +33,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo nel quale $AB = AC$ e che $I$ sia il suo centro. Supponiamo $BC = AB + AI$. Trova $\angle BAC$.
 
-[[src_rmo_2009__Q01]]
+[[Quesiti/src_rmo_2009#q01|src_rmo_2009__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Indicare che non esiste un intero $a$ tale che $a^2 - 3a - 19$ sia divisibile da $289$.
 
-[[src_rmo_2009__Q02]]
+[[Quesiti/src_rmo_2009#q02|src_rmo_2009__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Mostrare che $3^{2008} + 4^{2009}$ può essere scritto come il prodotto di due numeri interi positivi ognuno dei quali è più grande di $2009^{182}$.
 
-[[src_rmo_2009__Q03]]
+[[Quesiti/src_rmo_2009#q03|src_rmo_2009__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: RMO
 
 > Trova la somma di tutti i numeri naturali a 3 cifre che contengono almeno una cifra strana e almeno una cifra pari.
 
-[[src_rmo_2009__Q04]]
+[[Quesiti/src_rmo_2009#q04|src_rmo_2009__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: RMO
 > 
 > (ii) If $X$ and $Y$ are two distinct points inside $\Gamma$, prove that there exists a point $Z$ on the boundary of $\Gamma$ such that $XZ + YZ \le 1$.
 
-![[src_rmo_2009__Q05.png]]
+![[src_rmo_2009__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
@@ -151,9 +151,9 @@ level: RMO
 > 
 > (ii) Se $X$ e $Y$ sono due punti distinti all'interno di $\Gamma$, dimostrare che esiste un punto $Z$ sul confine di $\Gamma$ tale che $XZ + YZ \le 1$.
 
-![[src_rmo_2009__Q05.png]]
+![[src_rmo_2009__q05.png]]
 
-[[src_rmo_2009__Q05]]
+[[Quesiti/src_rmo_2009#q05|src_rmo_2009__Q05]]
 
 
 
@@ -180,4 +180,4 @@ level: RMO
 
 > In un libro con pagine numerate da $1$ a $100$, alcune pagine vengono strappate. La somma dei numeri delle pagine restanti è $4949$. Quante pagine sono state strappate?
 
-[[src_rmo_2009__Q06]]
+[[Quesiti/src_rmo_2009#q06|src_rmo_2009__Q06]]

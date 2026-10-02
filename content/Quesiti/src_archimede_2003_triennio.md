@@ -47,7 +47,7 @@ level: triennio
 > - **(E)** 319/6.
 
 **Answer:** E
-[[src_archimede_2003_triennio__Q01]]
+[[Quesiti/src_archimede_2003_triennio#q01|src_archimede_2003_triennio__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: triennio
 > - **(E)** 4005.
 
 **Answer:** B
-[[src_archimede_2003_triennio__Q02]]
+[[Quesiti/src_archimede_2003_triennio#q02|src_archimede_2003_triennio__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: triennio
 > - **(E)** There are no such triangles.
 
 **Answer:** C
-[[src_archimede_2003_triennio__Q03]]
+[[Quesiti/src_archimede_2003_triennio#q03|src_archimede_2003_triennio__Q03]]
 
 
 
@@ -174,7 +174,7 @@ level: triennio
 > - **(E)** 3 14.
 
 **Answer:** B
-[[src_archimede_2003_triennio__Q04]]
+[[Quesiti/src_archimede_2003_triennio#q04|src_archimede_2003_triennio__Q04]]
 
 
 
@@ -217,7 +217,7 @@ level: triennio
 > - **(E)** Depends on the length of the road.
 
 **Answer:** E
-[[src_archimede_2003_triennio__Q05]]
+[[Quesiti/src_archimede_2003_triennio#q05|src_archimede_2003_triennio__Q05]]
 
 
 
@@ -255,7 +255,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 > - **(D)** only a)
 > - **(E)** only c). a) x2 + 1 x2 ≥2 b) x2 ≥2x −2 c) x4−2x3+x2 ≥0.
 
-[[src_archimede_2003_triennio__Q07]]
+[[Quesiti/src_archimede_2003_triennio#q07|src_archimede_2003_triennio__Q07]]
 
 
 
@@ -296,7 +296,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 > - **(D)** Michael and Juan Pablo
 > - **(E)** Michael and Kimi.
 
-[[src_archimede_2003_triennio__Q08]]
+[[Quesiti/src_archimede_2003_triennio#q08|src_archimede_2003_triennio__Q08]]
 
 
 
@@ -337,7 +337,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 > - **(D)** 5
 > - **(E)** infinite.
 
-[[src_archimede_2003_triennio__Q09]]
+[[Quesiti/src_archimede_2003_triennio#q09|src_archimede_2003_triennio__Q09]]
 
 
 
@@ -379,7 +379,7 @@ The report shall contain the following information:
 > - **(D)** 3 2 √ 2
 > - **(E)** None of the previous ones.
 
-[[src_archimede_2003_triennio__Q10]]
+[[Quesiti/src_archimede_2003_triennio#q10|src_archimede_2003_triennio__Q10]]
 
 
 
@@ -422,7 +422,7 @@ The report shall contain the following information:
 > - **(D)** 32
 > - **(E)** None of the previous ones.                          A B
 
-[[src_archimede_2003_triennio__Q11]]
+[[Quesiti/src_archimede_2003_triennio#q11|src_archimede_2003_triennio__Q11]]
 
 
 
@@ -465,7 +465,7 @@ The report shall contain the following information:
 > - **(D)** a finite number greater than 4
 > - **(E)** No number of detections is enough.
 
-[[src_archimede_2003_triennio__Q12]]
+[[Quesiti/src_archimede_2003_triennio#q12|src_archimede_2003_triennio__Q12]]
 
 
 
@@ -516,7 +516,7 @@ The report shall contain the following information:
 > - **(D)** For every real x, if (II) is true, so is (I)
 > - **(E)** For every real x, if (I) is true then (III) is false.
 
-[[src_archimede_2003_triennio__Q13]]
+[[Quesiti/src_archimede_2003_triennio#q13|src_archimede_2003_triennio__Q13]]
 
 
 
@@ -564,7 +564,7 @@ The report shall contain the following information:
 > - **(D)** 35
 > - **(E)** None of the above values.
 
-[[src_archimede_2003_triennio__Q15]]
+[[Quesiti/src_archimede_2003_triennio#q15|src_archimede_2003_triennio__Q15]]
 
 
 
@@ -604,7 +604,7 @@ The report shall contain the following information:
 > - **(D)** 5 4
 > - **(E)** The previous answers are wrong.
 
-[[src_archimede_2003_triennio__Q16]]
+[[Quesiti/src_archimede_2003_triennio#q16|src_archimede_2003_triennio__Q16]]
 
 
 
@@ -669,7 +669,7 @@ The report shall contain the following information:
 > - **(D)** 76
 > - **(E)** 84.       
 
-[[src_archimede_2003_triennio__Q17]]
+[[Quesiti/src_archimede_2003_triennio#q17|src_archimede_2003_triennio__Q17]]
 
 
 
@@ -711,7 +711,7 @@ The report shall contain the following information:
 > - **(D)** Between 70 and 79
 > - **(E)** It's impossible. They counted wrong.
 
-[[src_archimede_2003_triennio__Q19]]
+[[Quesiti/src_archimede_2003_triennio#q19|src_archimede_2003_triennio__Q19]]
 
 
 
@@ -755,7 +755,7 @@ The report shall contain the following information:
 > - **(D)** 2
 > - **(E)** None of the above values.
 
-[[src_archimede_2003_triennio__Q20]]
+[[Quesiti/src_archimede_2003_triennio#q20|src_archimede_2003_triennio__Q20]]
 
 
 
@@ -795,7 +795,7 @@ The report shall contain the following information:
 > - **(D)** 1002
 > - **(E)** 2003.
 
-[[src_archimede_2003_triennio__Q22]]
+[[Quesiti/src_archimede_2003_triennio#q22|src_archimede_2003_triennio__Q22]]
 
 
 
@@ -840,7 +840,7 @@ Size of region deleted 14 minutes ago from virus
 > - **(D)** 4 bytes
 > - **(E)** 16 bytes.
 
-[[src_archimede_2003_triennio__Q24]]
+[[Quesiti/src_archimede_2003_triennio#q24|src_archimede_2003_triennio__Q24]]
 
 
 
@@ -884,4 +884,4 @@ Size of region deleted 14 minutes ago from virus
 > - **(D)** 12
 > - **(E)** There's no such pyramid.
 
-[[src_archimede_2003_triennio__Q25]]
+[[Quesiti/src_archimede_2003_triennio#q25|src_archimede_2003_triennio__Q25]]

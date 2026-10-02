@@ -33,7 +33,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Trovare un triplo $(l, m, n)$ $(1 < l < m < n)$ di numeri interi positivi in modo che $\sum_{k=1}^{l} k$, $\sum_{k=l+1}^{m} k$, $\sum_{k=m+1}^{n} k$ formino una sequenza geometrica in ordine. (posta da Tao Pingsheng)
 
-[[src_cn_csmo_2012__Q01]]
+[[Quesiti/src_cn_csmo_2012#q01|src_cn_csmo_2012__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $\odot I$ be the incircle of $\triangle ABC$. The circle $\odot I$ intersects sides $AB$, $BC$ and $CA$ at points $D$, $E$ and $F$, respectively. Line $EF$ intersects lines $AB$, $BI$ and $DI$ at points $M$, $N$ and $K$ respectively. Prove that $DM \cdot KE = DN \cdot KF$. (posed by Zhang Pengcheng)
 
-![[src_cn_csmo_b11_w301__Q02.png]]
+![[src_cn_csmo_b11_w301__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -62,9 +62,9 @@ level: China Southeastern Mathematical Olympiad
 
 > $\odot I$ sia l'incircolo di $\triangle ABC$. Il cerchio $\odot I$ incrocia i lati $AB$, $BC$ e $CA$ rispettivamente nei punti $D$, $E$ e $F$. La linea $EF$ incrocia le linee $AB$, $BI$ e $DI$ rispettivamente ai punti $M$, $N$ e $K$. Prova che $DM \cdot KE = DN \cdot KF$. (Posizionato da Zhang Pengcheng)
 
-![[src_cn_csmo_b11_w301__Q02.png]]
+![[src_cn_csmo_b11_w301__q02.png]]
 
-[[src_cn_csmo_2012__Q02]]
+[[Quesiti/src_cn_csmo_2012#q02|src_cn_csmo_2012__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: China Southeastern Mathematical Olympiad
 > Per il numero composto positivo $n$, indicare rispettivamente con $f(n)$ e $g(n)$ i tre divisori positivi più piccoli di $n$ e i due divisori positivi più grandi di $n$. Trova tutti $n$ in modo tale che $g(n)$ sia uguale a $f(n)$ a qualche potenza di numeri interi positivi. (Possibile da He Yijie)
 
 **Risposta:** $n = 4 \times 6^l$ for $l \in \mathbf{N}^*$
-[[src_cn_csmo_2012__Q03]]
+[[Quesiti/src_cn_csmo_2012#q03|src_cn_csmo_2012__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: China Southeastern Mathematical Olympiad
 > Lasciate che i numeri reali $a$, $b$, $c$ e $d$ soddisfino $$f(x) = a\cos x + b\cos 2x + c\cos 3x + d\cos 4x \leq 1$$ per qualsiasi numero reale $x$. Trova i valori di $a$, $b$, $c$ e $d$ in modo tale che $a + b - c + d$ abbia il numero massimo. (Posizionato da Li Shenghong)
 
 **Risposta:** 3
-[[src_cn_csmo_2012__Q04]]
+[[Quesiti/src_cn_csmo_2012#q04|src_cn_csmo_2012__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: China Southeastern Mathematical Olympiad
 > Un numero non negativo $m$ è chiamato *six match number*. Se $m$ e la somma delle sue cifre sono entrambi multipli di $6$, trovare il numero dei sei numeri corrispondenti inferiore a $2012$. (posta da Tao Pingsheng)
 
 **Risposta:** 108
-[[src_cn_csmo_2012__Q05]]
+[[Quesiti/src_cn_csmo_2012#q05|src_cn_csmo_2012__Q05]]
 
 
 
@@ -184,7 +184,7 @@ level: China Southeastern Mathematical Olympiad
 > Trova il numero intero positivo minimo $n$ tale da $$\sqrt{\frac{n-2011}{n+2012}} < \sqrt{\frac{n-2012}{n+2013}}$$ (posato da Liu Guimei)
 
 **Risposta:** 4023
-[[src_cn_csmo_2012__Q06]]
+[[Quesiti/src_cn_csmo_2012#q06|src_cn_csmo_2012__Q06]]
 
 
 
@@ -197,7 +197,7 @@ level: China Southeastern Mathematical Olympiad
 
 > In $\triangle ABC$ with $AB = 1$, let $D$ be a point on $AC$ such that $\angle ABD = \angle C$ and let $E$ be a point on $AB$ such that $BE \perp DE$. Let $H$ be a point on $DE$ such that $AH \perp DE$ and $M$ be the midpoint of $CD$. Find the value of $\angle AME$. (posed by Xiong Bin)
 
-![[src_cn_csmo_b11_w301__Q07.png]]
+![[src_cn_csmo_b11_w301__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -214,7 +214,7 @@ level: China Southeastern Mathematical Olympiad
 
 > In $\triangle ABC$ con $AB = 1$, $D$ deve essere un punto su $AC$ tale che $\angle ABD = \angle C$ e $E$ deve essere un punto su $AB$ tale che $BE \perp DE$. Il $H$ deve essere un punto su $DE$ tale che $AH \perp DE$ e $M$ siano il punto medio di $CD$. Trova il valore di $\angle AME$. (Posizionato da Xiong Bin)
 
-![[src_cn_csmo_b11_w301__Q07.png]]
+![[src_cn_csmo_b11_w301__q07.png]]
 
 **Risposta:** $90^\circ$
-[[src_cn_csmo_2012__Q07]]
+[[Quesiti/src_cn_csmo_2012#q07|src_cn_csmo_2012__Q07]]

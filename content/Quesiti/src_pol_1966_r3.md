@@ -33,7 +33,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Prova che se due polinomi cubici con coefficienti interi hanno una radice irrazionale in comune, allora hanno un'altra radice irrazionale comune.
 
-[[src_pol_1966_r3__Q01]]
+[[Quesiti/src_pol_1966_r3#q01|src_pol_1966_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Risolvere in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
 
-[[src_pol_1966_r3__Q02]]
+[[Quesiti/src_pol_1966_r3#q02|src_pol_1966_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Se i numeri reali non negativi $x_1, x_2, \ldots, x_n$ soddisfano $x_1 + \cdots + x_n \le \frac{1}{2}$, dimostrare che $$( 1 - x_1)(1 - x_2) \cdots (1 - x_n) \ge \frac{1}{2}.$$
 
-[[src_pol_1966_r3__Q03]]
+[[Quesiti/src_pol_1966_r3#q03|src_pol_1966_r3__Q03]]
 
 
 
@@ -115,7 +115,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Prova che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepiped rettangolare su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepiped è un cubo.
 
-[[src_pol_1966_r3__Q04]]
+[[Quesiti/src_pol_1966_r3#q04|src_pol_1966_r3__Q04]]
 
 
 
@@ -142,7 +142,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Ogni diagonale $AD$, $BE$, $CF$ di un esagono converso $ABCDEF$ divide l'area dell'esagono. Prova che queste tre diagonali passano attraverso lo stesso punto.
 
-[[src_pol_1966_r3__Q05]]
+[[Quesiti/src_pol_1966_r3#q05|src_pol_1966_r3__Q05]]
 
 
 
@@ -169,4 +169,4 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 
 > Sul piano si scelgono sei punti. Prova che il rapporto tra la distanza più lunga tra due punti e la distanza più breve è almeno $\sqrt{3}$.
 
-[[src_pol_1966_r3__Q06]]
+[[Quesiti/src_pol_1966_r3#q06|src_pol_1966_r3__Q06]]

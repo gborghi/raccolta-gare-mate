@@ -37,7 +37,7 @@ level: IMO
 
 > Solve the system of equations: $$x + y + z = a$$ $$x^2 + y^2 + z^2 = b^2$$ $$xy = z^2$$ where $a$ and $b$ are constants. Give the conditions that $a$ and $b$ must satisfy so that $x, y, z$ (the solutions of the system) are distinct positive numbers.
 
-[[src_imho_1961__Q01]]
+[[Quesiti/src_imho_1961#q01|src_imho_1961__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: IMO
 
 > Let $a, b, c$ be the sides of a triangle, and $T$ its area. In what case does equality hold?
 
-[[src_imho_1961__Q02]]
+[[Quesiti/src_imho_1961#q02|src_imho_1961__Q02]]
 
 
 
@@ -93,7 +93,7 @@ Resolving cos^n x - sin^n x = 1
 
 > Solve the equation $\cos^n x - \sin^n x = 1$, where $n$ is a natural number.
 
-[[src_imho_1961__Q03]]
+[[Quesiti/src_imho_1961#q03|src_imho_1961__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Resolving cos^n x - sin^n x = 1
 
 > Consider triangle $P_1 P_2 P_3$ and a point $P$ within the triangle. Lines $P_1 P$, $P_2 P$, $P_3 P$ intersect the opposite sides in points $Q_1$, $Q_2$, $Q_3$ respectively. Prove that, of the numbers $$\frac{P_1 P}{PQ_1}, \quad \frac{P_2 P}{PQ_2}, \quad \frac{P_3 P}{PQ_3}$$ at least one is $\leq 2$ and at least one is $\geq 2$.
 
-[[src_imho_1961__Q04]]
+[[Quesiti/src_imho_1961#q04|src_imho_1961__Q04]]
 
 
 
@@ -150,7 +150,7 @@ Resolving cos^n x - sin^n x = 1
 
 > Construct triangle $ABC$ if $AC = b$, $AB = c$ and $\angle AMB = \omega$, where $M$ is the midpoint of segment $BC$ and $\omega < 90^\circ$. Prove that a solution exists if and only if $$b \tan\frac{\omega}{2} \leq c < b.$$ In what case does equality hold?
 
-[[src_imho_1961__Q05]]
+[[Quesiti/src_imho_1961#q05|src_imho_1961__Q05]]
 
 
 
@@ -177,4 +177,4 @@ Resolving cos^n x - sin^n x = 1
 
 > Consider a plane $\varepsilon$ and three non-collinear points $A$, $B$, $C$ on the same side of $\varepsilon$; assume the plane determined by these three points is not parallel to $\varepsilon$. In plane $\varepsilon$ take three arbitrary points $A'$, $B'$, $C'$. Let $L$, $M$, $N$ be the midpoints of segments $AA'$, $BB'$, $CC'$; let $G$ be the centroid of triangle $LMN$. (We will not consider positions of the points $A'$, $B'$, $C'$ such that the points $L$, $M$, $N$ do not form a triangle.)
 
-[[src_imho_1961__Q06]]
+[[Quesiti/src_imho_1961#q06|src_imho_1961__Q06]]

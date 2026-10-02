@@ -33,7 +33,7 @@ level: CAMP Selection Camp
 
 > Trovare tutte le coppie $(n, k)$ di integri positivi con $n \neq k$ che soddisfano la seguente condizione: esiste un intero positivo $s$ tale che il numero di divisori positivi di $sn$ sia uguale al numero di divisori positivi di $sk$.
 
-[[src_selection_camp_2019__Q01]]
+[[Quesiti/src_selection_camp_2019#q01|src_selection_camp_2019__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: CAMP Selection Camp
 
 > Che $a_0, a_1, a_2, \ldots$ sia una sequenza reale che soddisfi $a_0 = 0$ e $a_1 = 1$. Supponiamo che per ogni intero $n$ con $n \ge 2$ esista un intero $k$ con $1 \le k \le n$ tale che $$a_n = \frac{a_{n-1} + a_{n-2} + \cdots + a_{n-k}}{k}.$$ Trova il valore massimo possibile di $a_{2018} - a_{2017}$.
 
-[[src_selection_camp_2019__Q02]]
+[[Quesiti/src_selection_camp_2019#q02|src_selection_camp_2019__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: CAMP Selection Camp
 
 > Il $ABC$ deve essere un triangolo acuto con il centro circostante $O$ e il circoncircolo $\Omega$. Il $P$ deve essere un punto su $\Omega$ diverso da $A$, $B$, $C$ e diverso dai riflessi di $A$, $B$, $C$ in $O$. I circoncenti dei triangoli $AOP$, $BOP$ e $COP$ siano rispettivamente $O_A$, $O_B$ e $O_C$. Le linee $l_A$, $l_B$, $l_C$ siano le linee che attraversano $O_A$, $O_B$, $O_C$ e perpendicolari rispettivamente a $BC$, $CA$ e $AB$. Prova che il circoncircolo del triangolo formato dalle linee $l_A$, $l_B$, $l_C$ è tangente alla linea $OP$.
 
-[[src_selection_camp_2019__Q03]]
+[[Quesiti/src_selection_camp_2019#q03|src_selection_camp_2019__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite sui razionali positivi e prendi valori razionali positivi in modo tale che, per tutti i razionali positivi $x$ e $y$, $$f\big(x^2 f(y)^2\big) = f(x)^2 f(y).$$
 
-[[src_selection_camp_2019__Q04]]
+[[Quesiti/src_selection_camp_2019#q04|src_selection_camp_2019__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: CAMP Selection Camp
 > 
 > (2) Prove che esistono infiniti numeri buoni che non possono essere espressi come una somma di due o più numeri buoni distinti.
 
-[[src_selection_camp_2019__Q05]]
+[[Quesiti/src_selection_camp_2019#q05|src_selection_camp_2019__Q05]]
 
 
 
@@ -179,7 +179,7 @@ level: CAMP Selection Camp
 
 > $k$ sia un numero intero positivo. L'OIM organizza un torneo di scacchi con giocatori $2k$. Si gioca una partita al giorno, e durante tutto il torneo ogni coppia di giocatori gioca esattamente una partita. Ogni giocatore si trova presso la sede dell'IMO dal giorno della sua prima partita fino al giorno della sua ultima. Ogni giorno, la sede dell'IMO emette un numero di voucher per il pasto pari al numero di giocatori che soggiornano nella sede quel giorno. Trovare il valore minimo possibile del numero totale di buoni di pasto emessi dall'IMO.
 
-[[src_selection_camp_2019__Q06]]
+[[Quesiti/src_selection_camp_2019#q06|src_selection_camp_2019__Q06]]
 
 
 
@@ -208,7 +208,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero positivo. C'è una tabella di celle $n+1$ disposte in una singola riga, numerata $0, 1, \ldots, n$ da sinistra a destra. Inizialmente le pietre $n$ vengono posizionate sulla cella $0$, e le altre celle non hanno pietre. Considerate di ripetere la seguente operazione. Selezionare una cella contenente almeno una pietra e una pietra su di essa; lasciando $k$ il numero di pietre su quella cella, spostare quella pietra a destra almeno $1$ e al massimo $k$ cellule. Prova che, per raggiungere la posizione in cui le pietre $n$ sono collocate sulla cella $n$, l'operazione deve essere eseguita almeno $$\left\lceil \frac{n}{1} \right\rceil + \left\lceil \frac{n}{2} \right\rceil + \cdots + \left\lceil \frac{n}{n} \right\rceil$$ volte. (Qui $\lceil r \rceil$ indica il numero intero più piccolo non inferiore al numero reale $r$.)
 
-[[src_selection_camp_2019__Q07]]
+[[Quesiti/src_selection_camp_2019#q07|src_selection_camp_2019__Q07]]
 
 
 
@@ -235,7 +235,7 @@ level: CAMP Selection Camp
 
 > Che $O$ sia il centro circundante di un triangolo acuto $ABC$. Sul lato $AB$ e $AC$ (ponti finali esclusi) prendere i punti $D$ e $E$ rispettivamente, in modo che le linee $BC$ e $DE$ non siano parallele, e che $F$ sia l'intersezione delle linee $BC$ e $DE$. Il $K$ è l'intersezione del bisettore perpendicolare di $BD$ e del bisettore perpendicolare di $CE$, e il $L$ è l'intersezione della linea $KO$ con $BC$. $M$ sia l'intersezione delle linee $AO$ e $DE$. Prove che i quattro punti $F$, $M$, $L$, $O$ si trovano su un cerchio comune.
 
-[[src_selection_camp_2019__Q08]]
+[[Quesiti/src_selection_camp_2019#q08|src_selection_camp_2019__Q08]]
 
 
 
@@ -262,7 +262,7 @@ level: CAMP Selection Camp
 
 > Diciamo che $P(x)$ sia un polinomio con coefficienti razionali, e supponiamo che $P(P(x))$ e $P(P(P(x)))$ siano polinomi con coefficienti interi. Provare che $P(x)$ ha anche dei coefficienti interi.
 
-[[src_selection_camp_2019__Q09]]
+[[Quesiti/src_selection_camp_2019#q09|src_selection_camp_2019__Q09]]
 
 
 
@@ -289,7 +289,7 @@ level: CAMP Selection Camp
 
 > $ABC$ sia un triangolo con $AB = AC$, e $M$ sia il punto medio di $BC$. Prendiamo un punto $P$ tale che $PA$ sia parallelo a $BC$ e $PB < PC$. sulle linee $PB$ e $PC$ prendere i punti $X$ e $Y$ rispettivamente, in modo che $P$, $B$, $X$ si trovino in questo ordine e $P$, $C$, $Y$ si trovino in questo ordine. Supponiamo che $\angle PXM = \angle PYM$ sia valido. Provare che i quattro punti $A$, $P$, $X$, $Y$ si trovano su un cerchio comune.
 
-[[src_selection_camp_2019__Q10]]
+[[Quesiti/src_selection_camp_2019#q10|src_selection_camp_2019__Q10]]
 
 
 
@@ -329,7 +329,7 @@ level: CAMP Selection Camp
 > 
 > (2) Considerate la partita in cui due giocatori eseguono operazioni alternativamente e il giocatore che esegue l'ultima operazione perde. Trova tutti gli stati di partenza da cui il secondo giocatore può vincere indipendentemente dal modo in cui il primo giocatore gioca.
 
-[[src_selection_camp_2019__Q11]]
+[[Quesiti/src_selection_camp_2019#q11|src_selection_camp_2019__Q11]]
 
 
 
@@ -358,4 +358,4 @@ level: CAMP Selection Camp
 
 > Lasciate che $x$ e $y$ siano numeri reali. Prova che se $$x^3 + y, \qquad x^2 + y^2, \qquad x + y^3$$ sono tutti numeri interi, allora $x$ e $y$ sono anche numeri interi.
 
-[[src_selection_camp_2019__Q12]]
+[[Quesiti/src_selection_camp_2019#q12|src_selection_camp_2019__Q12]]

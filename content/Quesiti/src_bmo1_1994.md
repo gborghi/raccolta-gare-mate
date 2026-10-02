@@ -41,7 +41,7 @@ level: BMO Round 1
 > 
 > (ii) Trovare tutti e tre i numeri $n$ in modo tale che $n/f(n) = 1$.
 
-[[src_bmo1_1994__Q01]]
+[[Quesiti/src_bmo1_1994#q01|src_bmo1_1994__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: BMO Round 1
 > 
 > (ii) Supponiamo che $\angle BAC = 60^\circ$, che $AX$ divide l'angolo $BAC$ e che $BX = 1$. Che cosa si può dire (e dimostrare!) sulla somma $AB + AC$? Qual è il locus del punto $A$ in quanto $X$ varia lungo $BC$?
 
-[[src_bmo1_1994__Q02]]
+[[Quesiti/src_bmo1_1994#q02|src_bmo1_1994__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: BMO Round 1
 
 > La sequenza $u_1, u_2, u_3, \ldots$ soddisfa $u_1 = 1$ e $$u_{n+1} - u_n = k u_{n-1}, \quad \text{for each } n \ge 2,$$ dove $k$ è un numero intero fisso. Se $u_{2000} = 2000$, determinare tutti i possibili valori di $k$.
 
-[[src_bmo1_1994__Q03]]
+[[Quesiti/src_bmo1_1994#q03|src_bmo1_1994__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: BMO Round 1
 
 > I punti $Q$, $R$ si trovano sul cerchio $\gamma$, e $P$ è un punto tale che $PQ$, $PR$ sono tangenti di $\gamma$. $A$ è il punto medio di $PQ$ e $C$ è il circoncentro del triangolo $PQR$. Il cerchio $\gamma$ taglia di nuovo $AQ$ al punto $B$. Prove che $\angle PAR = \angle ABC$.
 
-[[src_bmo1_1994__Q04]]
+[[Quesiti/src_bmo1_1994#q04|src_bmo1_1994__Q04]]
 
 
 
@@ -159,4 +159,4 @@ level: BMO Round 1
 
 > Si dice che una sequenza crescente di numeri interi si alternasse se inizia con un termine impar, il secondo termine è pari, il terzo termine è impar, il quarto è pari, e così via. La sequenza vuota (senza termine) è considerata alternante. $A(n)$ indichi il numero di sequenze alternative che coinvolgono solo gli integri del set $\{1, 2, \ldots, n\}$. Indicare che $A(1) = 2$ e $A(2) = 3$. Trova una formula per $A(n+2)$ in termini di $A(n+1)$ e $A(n)$ e prova che la formula è corretta. Trova quindi il valore di $A(20)$ e prova che il valore è corretto.
 
-[[src_bmo1_1994__Q05]]
+[[Quesiti/src_bmo1_1994#q05|src_bmo1_1994__Q05]]

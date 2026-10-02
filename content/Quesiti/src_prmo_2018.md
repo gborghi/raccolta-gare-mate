@@ -35,7 +35,7 @@ level: PRMO
 > Un libro viene pubblicato in tre volumi, con le pagine numerate da 1 in poi. I numeri delle pagine sono proseguiti dal primo volume al secondo volume al terzo. Il numero di pagine del secondo volume è 50 volte superiore a quello del primo volume e il numero di pagine del terzo volume è uno e mezzo volte superiore al secondo. La somma dei numeri delle pagine delle prime pagine dei tre volumi è di 1709. Se $n$ è l'ultimo numero di pagina, qual è il più grande fattore primo di $n$?
 
 **Risposta:** 17
-[[src_prmo_2018__Q01]]
+[[Quesiti/src_prmo_2018#q01|src_prmo_2018__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: PRMO
 > In un quadrilaterale $ABCD$, è dato che $AB = AD = 13$, $BC = CD = 20$, $BD = 24$. Se $r$ è il raggio del cerchio iscrivibile nel quadrilaterale, qual è il numero intero più vicino a $r$?
 
 **Risposta:** 8
-[[src_prmo_2018__Q02]]
+[[Quesiti/src_prmo_2018#q02|src_prmo_2018__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: PRMO
 > Considerare tutti i numeri a 6 cifre del modulo $abccba$, dove $b$ è pari. Determinare il numero di tutti i numeri a 6 cifre divisibili per 7.
 
 **Risposta:** 70
-[[src_prmo_2018__Q03]]
+[[Quesiti/src_prmo_2018#q03|src_prmo_2018__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: PRMO
 > L'equazione $166 \times 56 = 8590$ è valida in alcune basi $b \ge 10$ (cioè $1, 6, 6, 5, 8, 9, 0$ sono i numeri di base $b$ nell'equazione di cui sopra). Trova la somma di tutti i valori possibili di $b \ge 10$ che soddisfano l'equazione.
 
 **Risposta:** 12
-[[src_prmo_2018__Q04]]
+[[Quesiti/src_prmo_2018#q04|src_prmo_2018__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: PRMO
 > Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AD \perp AB$. Supponiamo che $ABCD$ abbia un incircolo che tocchi $AB$ a $Q$ e $CD$ a $P$. Poiché $PC = 36$ e $QB = 49$, trovare $PQ$.
 
 **Risposta:** 84
-[[src_prmo_2018__Q05]]
+[[Quesiti/src_prmo_2018#q05|src_prmo_2018__Q05]]
 
 
 
@@ -179,7 +179,7 @@ level: PRMO
 > Gli integri $a, b, c$ soddisfano $a + b - c = 1$ e $a^2 + b^2 - c^2 = -1$. Qual è la somma di tutti i possibili valori di $a^2 + b^2 + c^2$?
 
 **Risposta:** 18
-[[src_prmo_2018__Q06]]
+[[Quesiti/src_prmo_2018#q06|src_prmo_2018__Q06]]
 
 
 
@@ -208,7 +208,7 @@ level: PRMO
 > Un punto $P$ all'interno di un esagono regolare si trova a distanze $8, 8, 16$ unità da tre vertici consecutivi dell'esagono, rispettivamente. Se $r$ è il raggio del cerchio circonscritto dell'esagono, quale è il numero intero più vicino a $r$?
 
 **Risposta:** 14
-[[src_prmo_2018__Q07]]
+[[Quesiti/src_prmo_2018#q07|src_prmo_2018__Q07]]
 
 
 
@@ -236,7 +236,7 @@ level: PRMO
 > Che $AB$ sia un'accordazione di un cerchio con centro $O$. Il $C$ deve essere un punto del cerchio tale che $\angle ABC = 30^\circ$ e $O$ si trovino all'interno del triangolo $ABC$. $D$ sia un punto su $AB$ tale che $\angle DCO = \angle OCB = 20^\circ$. Trova la misura di $\angle CDO$ in gradi.
 
 **Risposta:** 80
-[[src_prmo_2018__Q08]]
+[[Quesiti/src_prmo_2018#q08|src_prmo_2018__Q08]]
 
 
 
@@ -265,7 +265,7 @@ level: PRMO
 > Supponiamo che $a, b$ siano numeri interi e $a + b$ sia una radice di $x^2 + ax + b = 0$. Qual è il valore massimo possibile di $b^2$?
 
 **Risposta:** 16
-[[src_prmo_2018__Q09]]
+[[Quesiti/src_prmo_2018#q09|src_prmo_2018__Q09]]
 
 
 
@@ -294,7 +294,7 @@ level: PRMO
 > In un triangolo $ABC$, la media da $B$ a $CA$ è perpendicolare alla media da $C$ a $AB$. Se la media da $A$ a $BC$ è 30, determinare $(BC^2 + CA^2 + AB^2)/100$.
 
 **Risposta:** 24
-[[src_prmo_2018__Q10]]
+[[Quesiti/src_prmo_2018#q10|src_prmo_2018__Q10]]
 
 
 
@@ -323,7 +323,7 @@ level: PRMO
 > Ci sono diverse tazze di tè in cucina, alcune con maniglie e le altre senza maniglie. Il numero di modi per scegliere due tazze senza manipo e tre con manipo è esattamente 1200. Qual è il numero massimo possibile di tazze in cucina?
 
 **Risposta:** 29
-[[src_prmo_2018__Q11]]
+[[Quesiti/src_prmo_2018#q11|src_prmo_2018__Q11]]
 
 
 
@@ -354,7 +354,7 @@ level: PRMO
 > Determinare il numero di 8 doppi $(\epsilon_1, \epsilon_2, \cdots, \epsilon_8)$ in modo tale che $\epsilon_1, \epsilon_2, \cdots \epsilon_8 \in \{1, -1\}$ e $$\epsilon_1 + 2\epsilon_2 + 3\epsilon_3 + \cdots + 8\epsilon_8$$ siano multipli di 3.
 
 **Risposta:** 88
-[[src_prmo_2018__Q12]]
+[[Quesiti/src_prmo_2018#q12|src_prmo_2018__Q12]]
 
 
 
@@ -380,7 +380,7 @@ level: PRMO
 
 > In un triangolo $ABC$, angolato a destra a $A$, l'altitudine attraverso $A$ e il bisettore interno di $\angle A$ hanno lunghezze 3 e 4, rispettivamente. Trova la lunghezza della media attraverso $A$.
 
-[[src_prmo_2018__Q13]]
+[[Quesiti/src_prmo_2018#q13|src_prmo_2018__Q13]]
 
 
 
@@ -409,7 +409,7 @@ level: PRMO
 > Se $x = \cos 1^\circ \cos 2^\circ \cos 3^\circ \cdots \cos 89^\circ$ e $y = \cos 2^\circ \cos 6^\circ \cos 10^\circ \cdots \cos 86^\circ$, quale è il numero intero più vicino a $\frac{2}{7} \log_2(y/x)$?
 
 **Risposta:** 19
-[[src_prmo_2018__Q14]]
+[[Quesiti/src_prmo_2018#q14|src_prmo_2018__Q14]]
 
 
 
@@ -438,7 +438,7 @@ level: PRMO
 > Che $a$ e $b$ siano numeri naturali in modo tale che $2a - b$, $a - 2b$ e $a + b$ siano tutti quadrati distinti. Qual è il minimo valore possibile di $b$?
 
 **Risposta:** 20
-[[src_prmo_2018__Q15]]
+[[Quesiti/src_prmo_2018#q15|src_prmo_2018__Q15]]
 
 
 
@@ -468,7 +468,7 @@ level: PRMO
 > Qual è il valore di $$\sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{odd}}} (i+j) - \sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{even}}} (i+j)\,?$$
 
 **Risposta:** 55
-[[src_prmo_2018__Q16]]
+[[Quesiti/src_prmo_2018#q16|src_prmo_2018__Q16]]
 
 
 
@@ -496,7 +496,7 @@ level: PRMO
 > I triangoli $ABC$ e $DEF$ sono tali da $\angle A = \angle D$, $AB = DE = 17$, $BC = EF = 10$ e $AC - DF = 12$. Che cos' è $AC + DF$?
 
 **Risposta:** 30
-[[src_prmo_2018__Q17]]
+[[Quesiti/src_prmo_2018#q17|src_prmo_2018__Q17]]
 
 
 
@@ -525,7 +525,7 @@ level: PRMO
 > Se $a, b, c \ge 4$ sono numeri interi, non tutti uguali, e $4abc = (a+3)(b+3)(c+3)$, qual è il valore di $a + b + c$?
 
 **Risposta:** 16
-[[src_prmo_2018__Q18]]
+[[Quesiti/src_prmo_2018#q18|src_prmo_2018__Q18]]
 
 
 
@@ -554,7 +554,7 @@ level: PRMO
 > Lasciate $N = 6 + 66 + 666 + \cdots + 666\cdots 66$, dove ci sono centinaia di 6 nell'ultimo termine nella somma. Quante volte la cifra 7 si verifica nel numero $N$?
 
 **Risposta:** 99
-[[src_prmo_2018__Q19]]
+[[Quesiti/src_prmo_2018#q19|src_prmo_2018__Q19]]
 
 
 
@@ -583,7 +583,7 @@ level: PRMO
 > Determinare la somma di tutti i possibili integri positivi $n$, il prodotto dei quali è uguale a $n^2 - 15n - 27$.
 
 **Risposta:** 17
-[[src_prmo_2018__Q20]]
+[[Quesiti/src_prmo_2018#q20|src_prmo_2018__Q20]]
 
 
 
@@ -612,7 +612,7 @@ level: PRMO
 > Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo ortocentro. I centriodi dei triangoli $G_1$, $G_2$ e $G_3$ siano rispettivamente $HBC$, $HCA$ e $HAB$. Se l'area del triangolo $G_1 G_2 G_3$ è di 7 unità, qual è l'area del triangolo $ABC$?
 
 **Risposta:** 63
-[[src_prmo_2018__Q21]]
+[[Quesiti/src_prmo_2018#q21|src_prmo_2018__Q21]]
 
 
 
@@ -641,7 +641,7 @@ level: PRMO
 > Un intero positivo $k$ si dice essere \textit{good} se esiste una partizione di $\{1, 2, 3, \ldots, 20\}$ per disgiungere i propri sottoinsiemi in modo tale che la somma dei numeri in ogni sottoinsieme della partizione sia $k$. Quanti numeri ci sono?
 
 **Risposta:** 6
-[[src_prmo_2018__Q22]]
+[[Quesiti/src_prmo_2018#q22|src_prmo_2018__Q22]]
 
 
 
@@ -672,7 +672,7 @@ level: PRMO
 > Qual è il numero intero positivo più grande $n$ tale che $$\frac{a^2}{\dfrac{b}{29}+\dfrac{c}{31}} + \frac{b^2}{\dfrac{c}{29}+\dfrac{a}{31}} + \frac{c^2}{\dfrac{a}{29}+\dfrac{b}{31}} \ge n(a+b+c)$$ tenga per tutti i numeri reali positivi $a, b, c$?
 
 **Risposta:** 14
-[[src_prmo_2018__Q23]]
+[[Quesiti/src_prmo_2018#q23|src_prmo_2018__Q23]]
 
 
 
@@ -701,7 +701,7 @@ level: PRMO
 > Se $N$ è il numero di triangoli di forme diverse (cioè non simili) i cui angoli sono tutti enti (in gradi), qual è $N/100$?
 
 **Risposta:** 27
-[[src_prmo_2018__Q24]]
+[[Quesiti/src_prmo_2018#q24|src_prmo_2018__Q24]]
 
 
 
@@ -728,7 +728,7 @@ level: PRMO
 
 > $T$ sia il numero intero positivo più piccolo che, quando diviso da $11, 13, 15$ lascia i rimanenti rispettivamente nei set $\{7, 8, 9\}$, $\{1, 2, 3\}$ e $\{4, 5, 6\}$. Qual è la somma dei quadrati delle cifre di $T$?
 
-[[src_prmo_2018__Q25]]
+[[Quesiti/src_prmo_2018#q25|src_prmo_2018__Q25]]
 
 
 
@@ -755,7 +755,7 @@ level: PRMO
 
 > Qual è il numero di modi in cui si possono scegliere 60 quadrati di unità da una scacchiera $11 \times 11$ in modo tale che due quadrati scelti non abbiano un lato in comune?
 
-[[src_prmo_2018__Q26]]
+[[Quesiti/src_prmo_2018#q26|src_prmo_2018__Q26]]
 
 
 
@@ -784,7 +784,7 @@ level: PRMO
 > Qual è il numero di modi in cui si possono colorare i quadrati di un scacchi $4 \times 4$ con colori rosso e blu in modo tale che ogni riga e ogni colonna abbiano esattamente due quadrati rossi e due quadrati blu?
 
 **Risposta:** 90
-[[src_prmo_2018__Q27]]
+[[Quesiti/src_prmo_2018#q27|src_prmo_2018__Q27]]
 
 
 
@@ -813,7 +813,7 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 > Il numero di modi di distribuire 8 cioccolatini di diversi marchi tra 3 bambini è quello di $N$ in modo tale che ogni bambino riceva almeno un cioccolatino e che nessun bambino riceva lo stesso numero di cioccolatini. Trova la somma delle cifre di $N$.
 
 **Risposta:** 9
-[[src_prmo_2018__Q28]]
+[[Quesiti/src_prmo_2018#q28|src_prmo_2018__Q28]]
 
 
 
@@ -841,7 +841,7 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 > $D$ sia un punto interno del lato $BC$ di un triangolo $ABC$. Il punto di riferimento è il punto di riferimento di cui all'allegato I del presente regolamento. In $E$ e $F$, rispettivamente, $AI_1$ e $AI_2$ si incontrano $BC$. Se $\angle BI_1 E = 60^\circ$, qual è la misura di $\angle CI_2 F$ in gradi?
 
 **Risposta:** 60
-[[src_prmo_2018__Q29]]
+[[Quesiti/src_prmo_2018#q29|src_prmo_2018__Q29]]
 
 
 
@@ -870,4 +870,4 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 > $P(x) = a_0 + a_1 x + a_2 x^2 + \cdots + a_n x^n$ sia un polinomio in cui $a_i$ è un intero non negativo per ogni $i \in \{0, 1, 2, 3, \cdots, n\}$. Se $P(1) = 4$ e $P(5) = 136$, qual è il valore di $P(3)$?
 
 **Risposta:** 34
-[[src_prmo_2018__Q30]]
+[[Quesiti/src_prmo_2018#q30|src_prmo_2018__Q30]]

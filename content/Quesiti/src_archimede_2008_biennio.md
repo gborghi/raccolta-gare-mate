@@ -48,7 +48,7 @@ level: biennio
 > - **(E)** 100 000.
 
 **Answer:** C
-[[src_archimede_2008_biennio__Q01]]
+[[Quesiti/src_archimede_2008_biennio#q01|src_archimede_2008_biennio__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: biennio
 > - **(E)** 200 km/h.
 
 **Answer:** A
-[[src_archimede_2008_biennio__Q02]]
+[[Quesiti/src_archimede_2008_biennio#q02|src_archimede_2008_biennio__Q02]]
 
 
 
@@ -137,7 +137,7 @@ level: biennio
 > - **(E)** 1362.
 
 **Answer:** B
-[[src_archimede_2008_biennio__Q03]]
+[[Quesiti/src_archimede_2008_biennio#q03|src_archimede_2008_biennio__Q03]]
 
 
 
@@ -184,7 +184,7 @@ level: biennio
 > - **(E)** 16.
 
 **Answer:** A
-[[src_archimede_2008_biennio__Q04]]
+[[Quesiti/src_archimede_2008_biennio#q04|src_archimede_2008_biennio__Q04]]
 
 
 
@@ -226,7 +226,7 @@ level: biennio
 > - **(E)** It will increase by 7%.
 
 **Answer:** A
-[[src_archimede_2008_biennio__Q05]]
+[[Quesiti/src_archimede_2008_biennio#q05|src_archimede_2008_biennio__Q05]]
 
 
 
@@ -268,7 +268,7 @@ level: biennio
 > - **(E)** 412 25 cm.
 
 **Answer:** C
-[[src_archimede_2008_biennio__Q06]]
+[[Quesiti/src_archimede_2008_biennio#q06|src_archimede_2008_biennio__Q06]]
 
 
 
@@ -312,7 +312,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 3/4.
 
 **Answer:** D
-[[src_archimede_2008_biennio__Q07]]
+[[Quesiti/src_archimede_2008_biennio#q07|src_archimede_2008_biennio__Q07]]
 
 
 
@@ -359,7 +359,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 6( √ 2 + 1) cm.                                          
 
 **Answer:** A
-[[src_archimede_2008_biennio__Q08]]
+[[Quesiti/src_archimede_2008_biennio#q08|src_archimede_2008_biennio__Q08]]
 
 
 
@@ -401,7 +401,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 600.
 
 **Answer:** C
-[[src_archimede_2008_biennio__Q09]]
+[[Quesiti/src_archimede_2008_biennio#q09|src_archimede_2008_biennio__Q09]]
 
 
 
@@ -443,7 +443,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** √ 3 2 cm.
 
 **Answer:** B
-[[src_archimede_2008_biennio__Q10]]
+[[Quesiti/src_archimede_2008_biennio#q10|src_archimede_2008_biennio__Q10]]
 
 
 
@@ -487,7 +487,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** More than six.
 
 **Answer:** D
-[[src_archimede_2008_biennio__Q11]]
+[[Quesiti/src_archimede_2008_biennio#q11|src_archimede_2008_biennio__Q11]]
 
 
 
@@ -527,7 +527,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 1, 40.
 
 **Answer:** C
-[[src_archimede_2008_biennio__Q12]]
+[[Quesiti/src_archimede_2008_biennio#q12|src_archimede_2008_biennio__Q12]]
 
 
 
@@ -570,7 +570,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 382.
 
 **Answer:** C
-[[src_archimede_2008_biennio__Q13]]
+[[Quesiti/src_archimede_2008_biennio#q13|src_archimede_2008_biennio__Q13]]
 
 
 
@@ -615,7 +615,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** At least 18.
 
 **Answer:** E
-[[src_archimede_2008_biennio__Q14]]
+[[Quesiti/src_archimede_2008_biennio#q14|src_archimede_2008_biennio__Q14]]
 
 
 
@@ -665,7 +665,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 4.
 
 **Answer:** C
-[[src_archimede_2008_biennio__Q15]]
+[[Quesiti/src_archimede_2008_biennio#q15|src_archimede_2008_biennio__Q15]]
 
 
 
@@ -753,7 +753,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 25 2 ( π 3 + √ 3 2 ) cm2.
 
 **Answer:** A
-[[src_archimede_2008_biennio__Q16]]
+[[Quesiti/src_archimede_2008_biennio#q16|src_archimede_2008_biennio__Q16]]
 
 
 
@@ -801,7 +801,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 625. 1 2
 
 **Answer:** D
-[[src_archimede_2008_biennio__Q17]]
+[[Quesiti/src_archimede_2008_biennio#q17|src_archimede_2008_biennio__Q17]]
 
 
 
@@ -844,7 +844,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 6.
 
 **Answer:** B
-[[src_archimede_2008_biennio__Q18]]
+[[Quesiti/src_archimede_2008_biennio#q18|src_archimede_2008_biennio__Q18]]
 
 
 
@@ -886,7 +886,7 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** If everyone on Papilla is dirty, at least one of them is skinny.
 
 **Answer:** E
-[[src_archimede_2008_biennio__Q19]]
+[[Quesiti/src_archimede_2008_biennio#q19|src_archimede_2008_biennio__Q19]]
 
 
 
@@ -934,4 +934,4 @@ Fraction traveled by the mother to meet Pietro
 > - **(E)** 3375.
 
 **Answer:** D
-[[src_archimede_2008_biennio__Q20]]
+[[Quesiti/src_archimede_2008_biennio#q20|src_archimede_2008_biennio__Q20]]

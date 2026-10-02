@@ -56,7 +56,7 @@ The following information is provided by the manufacturer:
 > E) 15
 
 **Answer:** E
-[[src_kangourou_2015_marzo_ecolier__Q01]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q01|src_kangourou_2015_marzo_ecolier__Q01]]
 
 
 
@@ -93,7 +93,7 @@ The following information is provided by the manufacturer:
 > Henry has the 10 bars of metal all the same as you see in the figure. With screws, it joins them in pairs to form the 5 longest bars that are shown in the figures that make up the answers. Which one is the longest?
 
 **Answer:** A
-[[src_kangourou_2015_marzo_ecolier__Q02]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q02|src_kangourou_2015_marzo_ecolier__Q02]]
 
 
 
@@ -145,7 +145,7 @@ The following information is provided by the manufacturer:
 > E) 6
 
 **Answer:** E
-[[src_kangourou_2015_marzo_ecolier__Q03]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q03|src_kangourou_2015_marzo_ecolier__Q03]]
 
 
 
@@ -194,7 +194,7 @@ The following information is provided by the manufacturer:
 >
 
 **Answer:** B
-[[src_kangourou_2015_marzo_ecolier__Q04]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q04|src_kangourou_2015_marzo_ecolier__Q04]]
 
 
 
@@ -242,7 +242,7 @@ The following information is provided by the manufacturer:
 > A) B) C) D) E)
 
 **Answer:** B
-[[src_kangourou_2015_marzo_ecolier__Q05]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q05|src_kangourou_2015_marzo_ecolier__Q05]]
 
 
 
@@ -289,7 +289,7 @@ This is the total number of vehicles registered in the Union.
 > A) B) C) D) E)
 
 **Answer:** E
-[[src_kangourou_2015_marzo_ecolier__Q06]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q06|src_kangourou_2015_marzo_ecolier__Q06]]
 
 
 
@@ -323,7 +323,7 @@ This is the total number of vehicles registered in the Union.
 > The figure shows a very fractured island and 10 frogs. Some frogs are in the water. How many are on the island? A) 5              B) 6              C) 7              D) 8                 E) 9
 
 **Answer:** B
-[[src_kangourou_2015_marzo_ecolier__Q07]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q07|src_kangourou_2015_marzo_ecolier__Q07]]
 
 
 
@@ -374,7 +374,7 @@ This is the total number of vehicles registered in the Union.
 > The questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2015_marzo_ecolier__Q08]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q08|src_kangourou_2015_marzo_ecolier__Q08]]
 
 
 
@@ -409,7 +409,7 @@ This is the total number of vehicles registered in the Union.
 > Bruno wants to break down the region determined by the dark contour in Figure 1 into triangles all equal to the one shown in Figure 2. How many triangles will you get? A) 8               B) 12                 C) 14                  D) 15                  E) 16
 
 **Answer:** D
-[[src_kangourou_2015_marzo_ecolier__Q09]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q09|src_kangourou_2015_marzo_ecolier__Q09]]
 
 
 
@@ -456,7 +456,7 @@ This is the total number of vehicles registered in the Union.
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2015_marzo_ecolier__Q10]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q10|src_kangourou_2015_marzo_ecolier__Q10]]
 
 
 
@@ -493,7 +493,7 @@ This is the total number of vehicles registered in the Union.
 > Sarah had many grey cubes and many white cubes. He built the large cube you see in the figure so that two cubes of the same color never had any faces in common. How many white cubes did you use? A) 10           B) 12            C) 13            D) 14            E) 15
 
 **Answer:** C
-[[src_kangourou_2015_marzo_ecolier__Q11]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q11|src_kangourou_2015_marzo_ecolier__Q11]]
 
 
 
@@ -527,7 +527,7 @@ This item is intended to record the information provided by the manufacturer.
 > In a race involving 30 competitors, Gennaro outperformed himself by three more. How did Gennaro rank himself? A) 14-mo B) 13-mo C) 11-mo D) 12-mo E) 7-mo
 
 **Answer:** A
-[[src_kangourou_2015_marzo_ecolier__Q12]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q12|src_kangourou_2015_marzo_ecolier__Q12]]
 
 
 
@@ -575,7 +575,7 @@ This item is intended to record the information provided by the manufacturer.
 > E) 2
 
 **Answer:** B
-[[src_kangourou_2015_marzo_ecolier__Q13]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q13|src_kangourou_2015_marzo_ecolier__Q13]]
 
 
 
@@ -642,7 +642,7 @@ This item is intended to record the information provided by the manufacturer.
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_ecolier__Q14]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q14|src_kangourou_2015_marzo_ecolier__Q14]]
 
 
 
@@ -698,7 +698,7 @@ This is the total number of messages.
 > E) 9
 
 **Answer:** C
-[[src_kangourou_2015_marzo_ecolier__Q15]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q15|src_kangourou_2015_marzo_ecolier__Q15]]
 
 
 
@@ -737,7 +737,7 @@ This is the total number of messages.
 > The figure you're looking at is made by bringing together a few squares that are all the same. Mary managed to break it into three pieces, all of them equal, possibly after turning someone over. Which of the following is equal to the three pieces? (A) B) C) D) E) Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** A
-[[src_kangourou_2015_marzo_ecolier__Q16]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q16|src_kangourou_2015_marzo_ecolier__Q16]]
 
 
 
@@ -823,7 +823,7 @@ This is the total number of messages.
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2015_marzo_ecolier__Q17]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q17|src_kangourou_2015_marzo_ecolier__Q17]]
 
 
 
@@ -870,7 +870,7 @@ This is the total number of messages.
 >
 
 **Answer:** D
-[[src_kangourou_2015_marzo_ecolier__Q18]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q18|src_kangourou_2015_marzo_ecolier__Q18]]
 
 
 
@@ -961,7 +961,7 @@ This is the total number of messages.
 > C) Only red. D) Any color is fine. E) No color is right.
 
 **Answer:** C
-[[src_kangourou_2015_marzo_ecolier__Q19]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q19|src_kangourou_2015_marzo_ecolier__Q19]]
 
 
 
@@ -1016,7 +1016,7 @@ The sum of John's sum
 > E) 15
 
 **Answer:** E
-[[src_kangourou_2015_marzo_ecolier__Q20]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q20|src_kangourou_2015_marzo_ecolier__Q20]]
 
 
 
@@ -1060,7 +1060,7 @@ The sum of John's sum
 > A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2015_marzo_ecolier__Q21]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q21|src_kangourou_2015_marzo_ecolier__Q21]]
 
 
 
@@ -1125,7 +1125,7 @@ The sum of John's sum
 > The points you see marked in the figure are the 16 vertices of nine squares that, when approached, form a square. Dividing 4 of these 16 points from time to time can create different squares, even of different areas. What's the maximum number of squares you can get, that have all different areas? A) 2 B) 3 C) 4	               D) 5 E) 6
 
 **Answer:** D
-[[src_kangourou_2015_marzo_ecolier__Q22]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q22|src_kangourou_2015_marzo_ecolier__Q22]]
 
 
 
@@ -1167,7 +1167,7 @@ The sum of John's sum
 > D) 8 E) The information is not sufficient to answer
 
 **Answer:** E
-[[src_kangourou_2015_marzo_ecolier__Q23]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q23|src_kangourou_2015_marzo_ecolier__Q23]]
 
 
 
@@ -1213,4 +1213,4 @@ Who's next on Saturday?
 > This appropriation is intended to cover expenditure relating to the implementation of the programme.
 
 **Answer:** C
-[[src_kangourou_2015_marzo_ecolier__Q24]]
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q24|src_kangourou_2015_marzo_ecolier__Q24]]

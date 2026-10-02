@@ -47,7 +47,7 @@ level: OBM Nível 2
 > - **(E)** $105$
 
 **Risposta:** B
-[[src_obm_2010_n2_f1__Q01]]
+[[Quesiti/src_obm_2010_n2_f1#q01|src_obm_2010_n2_f1__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 2
 > - **(E)** $115$
 
 **Risposta:** D
-[[src_obm_2010_n2_f1__Q02]]
+[[Quesiti/src_obm_2010_n2_f1#q02|src_obm_2010_n2_f1__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: OBM Nível 2
 > - **(E)** $4^{12}$
 
 **Risposta:** E
-[[src_obm_2010_n2_f1__Q03]]
+[[Quesiti/src_obm_2010_n2_f1#q03|src_obm_2010_n2_f1__Q03]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 2
 > - **(D)** $6$
 > - **(E)** $7$
 
-![[src_obm_2010_n2_f1__Q04.png]]
+![[src_obm_2010_n2_f1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -168,9 +168,9 @@ level: OBM Nível 2
 > - **(D)** $6$
 > - **(E)** $7$
 
-![[src_obm_2010_n2_f1__Q04.png]]
+![[src_obm_2010_n2_f1__q04.png]]
 
-[[src_obm_2010_n2_f1__Q04]]
+[[Quesiti/src_obm_2010_n2_f1#q04|src_obm_2010_n2_f1__Q04]]
 
 
 
@@ -211,7 +211,7 @@ level: OBM Nível 2
 > - **(E)** Sono necessari ulteriori dati.
 
 **Risposta:** C
-[[src_obm_2010_n2_f1__Q05]]
+[[Quesiti/src_obm_2010_n2_f1#q05|src_obm_2010_n2_f1__Q05]]
 
 
 
@@ -251,7 +251,7 @@ level: OBM Nível 2
 > - **(E)** un numero superiore a $4$
 
 **Risposta:** B
-[[src_obm_2010_n2_f1__Q06]]
+[[Quesiti/src_obm_2010_n2_f1#q06|src_obm_2010_n2_f1__Q06]]
 
 
 
@@ -270,7 +270,7 @@ level: OBM Nível 2
 > - **(D)** $40$
 > - **(E)** $150$
 
-![[src_obm_2010_n2_f1__Q07.png]]
+![[src_obm_2010_n2_f1__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]]
@@ -293,10 +293,10 @@ level: OBM Nível 2
 > - **(D)** $40$
 > - **(E)** $150$
 
-![[src_obm_2010_n2_f1__Q07.png]]
+![[src_obm_2010_n2_f1__q07.png]]
 
 **Risposta:** C
-[[src_obm_2010_n2_f1__Q07]]
+[[Quesiti/src_obm_2010_n2_f1#q07|src_obm_2010_n2_f1__Q07]]
 
 
 
@@ -337,7 +337,7 @@ level: OBM Nível 2
 > - **(E)** $200$
 
 **Risposta:** C
-[[src_obm_2010_n2_f1__Q08]]
+[[Quesiti/src_obm_2010_n2_f1#q08|src_obm_2010_n2_f1__Q08]]
 
 
 
@@ -375,7 +375,7 @@ level: OBM Nível 2
 > - **(D)** $90^\circ$
 > - **(E)** $100^\circ$
 
-[[src_obm_2010_n2_f1__Q09]]
+[[Quesiti/src_obm_2010_n2_f1#q09|src_obm_2010_n2_f1__Q09]]
 
 
 
@@ -414,7 +414,7 @@ level: OBM Nível 2
 > - **(D)** $15$
 > - **(E)** $24$
 
-[[src_obm_2010_n2_f1__Q10]]
+[[Quesiti/src_obm_2010_n2_f1#q10|src_obm_2010_n2_f1__Q10]]
 
 
 
@@ -453,7 +453,7 @@ level: OBM Nível 2
 > - **(D)** $18$
 > - **(E)** $100$
 
-[[src_obm_2010_n2_f1__Q11]]
+[[Quesiti/src_obm_2010_n2_f1#q11|src_obm_2010_n2_f1__Q11]]
 
 
 
@@ -491,7 +491,7 @@ level: OBM Nível 2
 > - **(D)** $10$
 > - **(E)** $16$
 
-[[src_obm_2010_n2_f1__Q12]]
+[[Quesiti/src_obm_2010_n2_f1#q12|src_obm_2010_n2_f1__Q12]]
 
 
 
@@ -541,7 +541,7 @@ level: OBM Nível 2
 > - **(D)** Dernaldo
 > - **(E)** Non è possibile determinarlo.
 
-[[src_obm_2010_n2_f1__Q13]]
+[[Quesiti/src_obm_2010_n2_f1#q13|src_obm_2010_n2_f1__Q13]]
 
 
 
@@ -560,7 +560,7 @@ level: OBM Nível 2
 > - **(D)** $18$
 > - **(E)** $22$
 
-![[src_obm_2010_n2_f1__Q14.png]]
+![[src_obm_2010_n2_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -581,9 +581,9 @@ level: OBM Nível 2
 > - **(D)** $18$
 > - **(E)** $22$
 
-![[src_obm_2010_n2_f1__Q14.png]]
+![[src_obm_2010_n2_f1__q14.png]]
 
-[[src_obm_2010_n2_f1__Q14]]
+[[Quesiti/src_obm_2010_n2_f1#q14|src_obm_2010_n2_f1__Q14]]
 
 
 
@@ -622,7 +622,7 @@ level: OBM Nível 2
 > - **(D)** $8$
 > - **(E)** $16$
 
-[[src_obm_2010_n2_f1__Q15]]
+[[Quesiti/src_obm_2010_n2_f1#q15|src_obm_2010_n2_f1__Q15]]
 
 
 
@@ -641,7 +641,7 @@ level: OBM Nível 2
 > - **(D)** $108$
 > - **(E)** $27$
 
-![[src_obm_2010_n2_f1__Q16.png]]
+![[src_obm_2010_n2_f1__q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -663,9 +663,9 @@ level: OBM Nível 2
 > - **(D)** $108$
 > - **(E)** $27$
 
-![[src_obm_2010_n2_f1__Q16.png]]
+![[src_obm_2010_n2_f1__q16.png]]
 
-[[src_obm_2010_n2_f1__Q16]]
+[[Quesiti/src_obm_2010_n2_f1#q16|src_obm_2010_n2_f1__Q16]]
 
 
 
@@ -684,7 +684,7 @@ level: OBM Nível 2
 > - **(D)** $27$
 > - **(E)** $40$
 
-![[src_obm_2010_n2_f1__Q17.png]]
+![[src_obm_2010_n2_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -705,9 +705,9 @@ level: OBM Nível 2
 > - **(D)** $27$
 > - **(E)** $40$
 
-![[src_obm_2010_n2_f1__Q17.png]]
+![[src_obm_2010_n2_f1__q17.png]]
 
-[[src_obm_2010_n2_f1__Q17]]
+[[Quesiti/src_obm_2010_n2_f1#q17|src_obm_2010_n2_f1__Q17]]
 
 
 
@@ -726,7 +726,7 @@ level: OBM Nível 2
 > - **(D)** $4$
 > - **(E)** $5$
 
-![[src_obm_2010_n2_f1__Q18.png]]
+![[src_obm_2010_n2_f1__q18.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -748,9 +748,9 @@ level: OBM Nível 2
 > - **(D)** $4$
 > - **(E)** $5$
 
-![[src_obm_2010_n2_f1__Q18.png]]
+![[src_obm_2010_n2_f1__q18.png]]
 
-[[src_obm_2010_n2_f1__Q18]]
+[[Quesiti/src_obm_2010_n2_f1#q18|src_obm_2010_n2_f1__Q18]]
 
 
 
@@ -789,7 +789,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $17{:}00$
 > - **(E)** $21{:}00$
 
-[[src_obm_2010_n2_f1__Q19]]
+[[Quesiti/src_obm_2010_n2_f1#q19|src_obm_2010_n2_f1__Q19]]
 
 
 
@@ -808,7 +808,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $\dfrac{81}{8}$
 > - **(E)** $\dfrac{32}{3}$
 
-![[src_obm_2010_n2_f1__Q20.png]]
+![[src_obm_2010_n2_f1__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -830,9 +830,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $\dfrac{81}{8}$
 > - **(E)** $\dfrac{32}{3}$
 
-![[src_obm_2010_n2_f1__Q20.png]]
+![[src_obm_2010_n2_f1__q20.png]]
 
-[[src_obm_2010_n2_f1__Q20]]
+[[Quesiti/src_obm_2010_n2_f1#q20|src_obm_2010_n2_f1__Q20]]
 
 
 
@@ -871,7 +871,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $1003$
 > - **(E)** $1004$
 
-[[src_obm_2010_n2_f1__Q21]]
+[[Quesiti/src_obm_2010_n2_f1#q21|src_obm_2010_n2_f1__Q21]]
 
 
 
@@ -910,7 +910,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $30$
 > - **(E)** $105$
 
-[[src_obm_2010_n2_f1__Q22]]
+[[Quesiti/src_obm_2010_n2_f1#q22|src_obm_2010_n2_f1__Q22]]
 
 
 
@@ -929,7 +929,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $18$
 > - **(E)** $19$
 
-![[src_obm_2010_n2_f1__Q23.png]]
+![[src_obm_2010_n2_f1__q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -951,9 +951,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $18$
 > - **(E)** $19$
 
-![[src_obm_2010_n2_f1__Q23.png]]
+![[src_obm_2010_n2_f1__q23.png]]
 
-[[src_obm_2010_n2_f1__Q23]]
+[[Quesiti/src_obm_2010_n2_f1#q23|src_obm_2010_n2_f1__Q23]]
 
 
 
@@ -972,7 +972,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $20^\circ$
 > - **(E)** $25^\circ$
 
-![[src_obm_2010_n2_f1__Q24.png]]
+![[src_obm_2010_n2_f1__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -993,9 +993,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $20^\circ$
 > - **(E)** $25^\circ$
 
-![[src_obm_2010_n2_f1__Q24.png]]
+![[src_obm_2010_n2_f1__q24.png]]
 
-[[src_obm_2010_n2_f1__Q24]]
+[[Quesiti/src_obm_2010_n2_f1#q24|src_obm_2010_n2_f1__Q24]]
 
 
 
@@ -1036,4 +1036,4 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(E)** $1 < a < b$
 
 **Risposta:** D
-[[src_obm_2010_n2_f1__Q25]]
+[[Quesiti/src_obm_2010_n2_f1#q25|src_obm_2010_n2_f1__Q25]]

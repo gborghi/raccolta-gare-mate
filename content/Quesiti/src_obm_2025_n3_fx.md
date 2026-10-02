@@ -51,7 +51,7 @@ level: OBM Nível 3
 > 
 > Inoltre, trovare tutti $n$ con questa proprietà.
 
-[[src_obm_2025_n3_fx__Q01]]
+[[Quesiti/src_obm_2025_n3_fx#q01|src_obm_2025_n3_fx__Q01]]
 
 
 
@@ -78,7 +78,7 @@ level: OBM Nível 3
 
 > Che $ABC$ sia un triangolo acuto con $AB < AC$ e che $\Gamma$ sia il suo cerchio circoscritto. Definire $M$ come punto medio del lato $BC$ e $D$, $E$, $F$ come i piedi delle altitudini rispetto ai lati $BC$, $AC$ e $AB$, rispettivamente. Prendi $N$ come intersezione di $EF$ e $AM$. Il $R$, $S$ siano le intersezioni di $EF$ e $\Gamma$, in modo tale che $R$ sia situato sull'arco $AB$ senza $C$ e $S$ sia situato sull'arco $AC$ senza $B$. Inoltre, supponiamo che $BS$ e $CR$ si incontrino al punto $T$. Indicare che $DA$ divide l'angolo $\angle TDN$.
 
-[[src_obm_2025_n3_fx__Q02]]
+[[Quesiti/src_obm_2025_n3_fx#q02|src_obm_2025_n3_fx__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: OBM Nível 3
 > 
 > Prova che ogni intero positivo appare nella sequenza.
 
-[[src_obm_2025_n3_fx__Q03]]
+[[Quesiti/src_obm_2025_n3_fx#q03|src_obm_2025_n3_fx__Q03]]
 
 
 
@@ -153,7 +153,7 @@ level: OBM Nível 3
 > 
 > Determinare tutti gli integri positivi $k$ in modo tale che esista un intero positivo $n$ soddisfacente $f(n) = nk$.
 
-[[src_obm_2025_n3_fx__Q04]]
+[[Quesiti/src_obm_2025_n3_fx#q04|src_obm_2025_n3_fx__Q04]]
 
 
 
@@ -188,7 +188,7 @@ level: OBM Nível 3
 > 
 > Determinare, come funzione di $n$, il numero minimo possibile di elementi di un insieme ostruzionale.
 
-[[src_obm_2025_n3_fx__Q05]]
+[[Quesiti/src_obm_2025_n3_fx#q05|src_obm_2025_n3_fx__Q05]]
 
 
 
@@ -215,4 +215,4 @@ level: OBM Nível 3
 
 > Il $ABCD$ deve essere un quadrilaterale convesso che soddisfi $90^\circ > \angle ABC > \angle CDA > \angle DAB$. $\mathcal{R}$ sia l'insieme di tutte le linee $\ell$ in modo tale che esista un cerchio tangente alle quattro riflessioni di $\ell$ attraverso i quattro lati del quadrilaterale $ABCD$. Prova che $\mathcal{R}$ può essere suddiviso in gruppi $8$ in modo che le linee di ciascun gruppo siano tutte simultanee o tutte parallele.
 
-[[src_obm_2025_n3_fx__Q06]]
+[[Quesiti/src_obm_2025_n3_fx#q06|src_obm_2025_n3_fx__Q06]]

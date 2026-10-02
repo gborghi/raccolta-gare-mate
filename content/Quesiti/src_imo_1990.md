@@ -42,7 +42,7 @@ level: IMO
 
 > Chords AB and CD of a circle intersect at a point E inside the circle. Let M be an interior point of the EB segment. The tangent line at E to the circle through D, E, and M intersects the lines BC and AC at F and G, respectively. If AM AB = t, find EG EF in terms of t.
 
-[[src_imo_1990__Q01]]
+[[Quesiti/src_imo_1990#q01|src_imo_1990__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: IMO
 
 > Let n ≥3 and consider a set E of 2n −1 distinct points on a circle. Suppose that exactly k of these points are to be colored black. Such a coloring is good if there is at least one pair of black points such that the interior of one of the arcs between them contains exactly n points from E. Find the smallest value of k so that every such coloring of k points of E is good.
 
-[[src_imo_1990__Q02]]
+[[Quesiti/src_imo_1990#q02|src_imo_1990__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: IMO
 > 
 > 31st International Mathematical Olympiad Beijing, China Day II July 13, 1990
 
-[[src_imo_1990__Q03]]
+[[Quesiti/src_imo_1990#q03|src_imo_1990__Q03]]
 
 
 
@@ -138,7 +138,7 @@ Construct function on positive rationals with f(xf(y))=f(x)/y*
 
 > Let Q+ be the set of positive rational numbers. Construct a function f: Q+ → Q+ such that f(xf(y)) = f(x) y for all x, y in Q+.
 
-[[src_imo_1990__Q04]]
+[[Quesiti/src_imo_1990#q04|src_imo_1990__Q04]]
 
 
 
@@ -180,7 +180,7 @@ Construct function on positive rationals with f(xf(y))=f(x)/y*
 
 > Given an initial integer n0 > 1, two players, A and B, choose integers n1, n2, n3, . . . alternately according to the following rules: Knowing n2k, A chooses any integer n2k+1 such that n2k ≤n2k+1 ≤n2 2k. Knowing n2k+1, B chooses any integer n2k+2 such that n2k+1 n2k+2 is a prime raised to a positive integer power. Player A wins the game by choosing the number 1990; player B wins by choosing the number 1. For which n0 does: (a) A have a winning strategy? (b) B have a winning strategy? (c) Neither player has a winning strategy?
 
-[[src_imo_1990__Q05]]
+[[Quesiti/src_imo_1990#q05|src_imo_1990__Q05]]
 
 
 
@@ -211,4 +211,4 @@ Construct function on positive rationals with f(xf(y))=f(x)/y*
 
 > Prove that there exists a convex 1990-gon with the following two properties: (a) All angles are equal. (b) The lengths of the 1990 sides are the numbers 12, 22, 32. . . In some order.
 
-[[src_imo_1990__Q06]]
+[[Quesiti/src_imo_1990#q06|src_imo_1990__Q06]]

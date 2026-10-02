@@ -45,7 +45,7 @@ level: biennio
 > - **(D)** 147
 > - **(E)** 146
 
-[[src_archimede_2020_riserva_biennio__Q01]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q01|src_archimede_2020_riserva_biennio__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: biennio
 > - **(D)** 127
 > - **(E)** 126
 
-[[src_archimede_2020_riserva_biennio__Q02]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q02|src_archimede_2020_riserva_biennio__Q02]]
 
 
 
@@ -126,7 +126,7 @@ level: biennio
 > - **(D)** 29
 > - **(E)** 25
 
-[[src_archimede_2020_riserva_biennio__Q03]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q03|src_archimede_2020_riserva_biennio__Q03]]
 
 
 
@@ -163,7 +163,7 @@ level: biennio
 > - **(D)** 266
 > - **(E)** 268
 
-[[src_archimede_2020_riserva_biennio__Q04]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q04|src_archimede_2020_riserva_biennio__Q04]]
 
 
 
@@ -203,7 +203,7 @@ level: biennio
 > - **(D)** 6°
 > - **(E)** 8°
 
-[[src_archimede_2020_riserva_biennio__Q05]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q05|src_archimede_2020_riserva_biennio__Q05]]
 
 
 
@@ -242,7 +242,7 @@ level: biennio
 > - **(D)** 34
 > - **(E)** 32
 
-[[src_archimede_2020_riserva_biennio__Q06]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q06|src_archimede_2020_riserva_biennio__Q06]]
 
 
 
@@ -283,7 +283,7 @@ level: biennio
 > - **(D)** 108
 > - **(E)** 72
 
-[[src_archimede_2020_riserva_biennio__Q07]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q07|src_archimede_2020_riserva_biennio__Q07]]
 
 
 
@@ -323,7 +323,7 @@ level: biennio
 > - **(D)** 27
 > - **(E)** 36
 
-[[src_archimede_2020_riserva_biennio__Q08]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q08|src_archimede_2020_riserva_biennio__Q08]]
 
 
 
@@ -365,7 +365,7 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 51
 > - **(E)** 39
 
-[[src_archimede_2020_riserva_biennio__Q09]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q09|src_archimede_2020_riserva_biennio__Q09]]
 
 
 
@@ -404,7 +404,7 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 216
 > - **(E)** 273
 
-[[src_archimede_2020_riserva_biennio__Q10]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q10|src_archimede_2020_riserva_biennio__Q10]]
 
 
 
@@ -442,7 +442,7 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 64
 > - **(E)** 80
 
-[[src_archimede_2020_riserva_biennio__Q11]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q11|src_archimede_2020_riserva_biennio__Q11]]
 
 
 
@@ -480,4 +480,4 @@ Maximum number of knights at tables bounded by neighbours
 > - **(D)** 18
 > - **(E)** 24 The Archimedean Games 2020/2021 Good reserve competition   PROOF code: BB02
 
-[[src_archimede_2020_riserva_biennio__Q12]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q12|src_archimede_2020_riserva_biennio__Q12]]

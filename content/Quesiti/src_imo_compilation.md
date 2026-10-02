@@ -34,7 +34,7 @@ This is the case in the Member States.
 
 > Let d be any positive integer not equal to 2, 5, or 13. Show that one can find distinct a, b in the set {2, 5, 13, d} such that ab −1 is not a perfect square.
 
-[[src_imo_compilation__Q01]]
+[[Quesiti/src_imo_compilation#q01|src_imo_compilation__Q01]]
 
 
 
@@ -65,7 +65,7 @@ This is the case for the Commission.
 
 > A triangle A1A2A3 and a point P0 are given in the plane. We define As = As−3 for all s ≥4. We construct a set of points P1, P2, P3, . . . , such that Pk+1 is the image of Pk under a rotation with center Ak+1 through angle 120°clockwise (for k = 0, 1, 2, . . . ). Prove that if P1986 = P0, then the triangle A1A2A3 is equilateral.
 
-[[src_imo_compilation__Q02]]
+[[Quesiti/src_imo_compilation#q02|src_imo_compilation__Q02]]
 
 
 
@@ -105,7 +105,7 @@ This is the case for the European Union.
 > 
 > 27th International Mathematical Olympiad Warsaw, Poland Day II July 10, 1986
 
-[[src_imo_compilation__Q03]]
+[[Quesiti/src_imo_compilation#q03|src_imo_compilation__Q03]]
 
 
 
@@ -136,7 +136,7 @@ This is the case for the European Union.
 
 > Let A, B be adjacent vertices of a regular n-gon (n ≥5) in the plane having center at O. A triangle XY Z, which is congruent to and initially conincides with OAB, moves in the plane in such a way that Y and Z each trace out the entire boundary of the polygon, X remaining inside the polygon. Find the locus of X.
 
-[[src_imo_compilation__Q04]]
+[[Quesiti/src_imo_compilation#q04|src_imo_compilation__Q04]]
 
 
 
@@ -168,7 +168,7 @@ This is the case in the Member States.
 
 > Find all functions f, defined on the non-negative real numbers and taking non-negative real values, such that: (i) f(xf(y)) f(y) = f(x + y) for all x, y ≥0, (ii) f(2) = 0, (iii) f(x) = 0 for 0 ≤x < 2.
 
-[[src_imo_compilation__Q05]]
+[[Quesiti/src_imo_compilation#q05|src_imo_compilation__Q05]]
 
 
 
@@ -205,7 +205,7 @@ This is the case for the European Union.
 > 
 > 28th International Mathematical Olympiad Havana, Cuba Day I July 10, 1987
 
-[[src_imo_compilation__Q06]]
+[[Quesiti/src_imo_compilation#q06|src_imo_compilation__Q06]]
 
 
 
@@ -239,4 +239,4 @@ This is the case for the European Union.
 > 
 > (b) Prove conversely that for every regular tetrahedron five such spheres exist.
 
-[[src_imo_compilation__Q07]]
+[[Quesiti/src_imo_compilation#q07|src_imo_compilation__Q07]]

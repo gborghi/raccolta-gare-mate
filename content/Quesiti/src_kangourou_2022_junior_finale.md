@@ -33,7 +33,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 > Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (hence $1007, 10017, 100117, 1001117, \ldots$). It shows that each whole of the sequence is divisible by $53$.
 
-[[src_kangourou_2022_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj1|src_kangourou_2022_junior_finale__QJ1]]
 
 
 
@@ -44,7 +44,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *Raggio del cerchio interno alle tre circonferenze*
 
-![[src_kangourou_2022_junior_finale__probJ2.png]]
+![[src_kangourou_2022_junior_finale__probj2.png]]
 
 ```tikz
 \begin{document}
@@ -72,7 +72,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *Rage of the inner circle at three circumferences*
 
-![[src_kangourou_2022_junior_finale__probJ2.png]]
+![[src_kangourou_2022_junior_finale__probj2.png]]
 
 ```tikz
 \begin{document}
@@ -88,7 +88,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 > In the figure you can see three radius circles $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. How much is the radius of the latter? (see figure)
 
 **Answer:** 1 - 1/raddt3
-[[src_kangourou_2022_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj2|src_kangourou_2022_junior_finale__QJ2]]
 
 
 
@@ -99,7 +99,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *Massimo numero di tessere 2x1 nella regione di 36 quadratini*
 
-![[src_kangourou_2022_junior_finale__probJ3.png]]
+![[src_kangourou_2022_junior_finale__probj3.png]]
 
 > In figura vedi una regione di piano ottenuta accostando $36$ quadratini tutti uguali fra loro, e una tessera ottenuta accostando due quadratini identici a quelli della regione (tessera $2 \times 1$). Quante tessere di questo tipo puoi disporre al massimo nella regione in modo che ognuna copra esattamente due quadratini della regione e non si sovrappongano (neppure parzialmente)? Puoi utilizzare la figura per indicare come disporre le tessere, ma ricorda che devi anche giustificare il motivo per il quale non ne puoi collocare un numero maggiore. (vedi figura)
 
@@ -116,12 +116,12 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *Maximum number of 2x1 tiles in the 36-square region*
 
-![[src_kangourou_2022_junior_finale__probJ3.png]]
+![[src_kangourou_2022_junior_finale__probj3.png]]
 
 > In the figure you can see a region of the plane obtained by joining $36$ squares all equal to each other, and a card obtained by joining two squares identical to those of the region (the $2 \times 1$ table). How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the cards, but remember that you also have to justify why you can't place a larger number. (see figure)
 
 **Answer:** 15
-[[src_kangourou_2022_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj3|src_kangourou_2022_junior_finale__QJ3]]
 
 
 
@@ -151,7 +151,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 > For all ordered pairs $(m, n)$ of positive integers $$\frac{1}{m} + \frac{1}{n} = \frac{1}{2022}\,?$$
 
 **Answer:** 27
-[[src_kangourou_2022_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj4|src_kangourou_2022_junior_finale__QJ4]]
 
 
 
@@ -162,7 +162,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *Lati rossi e verdi dell'ottagono hanno somma uguale*
 
-![[src_kangourou_2022_junior_finale__probJ5.png]]
+![[src_kangourou_2022_junior_finale__probj5.png]]
 
 > Due quadrati congruenti, uno con bordo rosso e l'altro con bordo verde, sono disposti nel piano in modo tale che la loro intersezione sia un ottagono (i centri dei due quadrati possono non coincidere). Dimostra che la somma delle lunghezze dei lati rossi dell'ottagono coincide con la somma delle lunghezze dei lati verdi.
 
@@ -178,11 +178,11 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *The red and green sides of the octagon have the same sum*
 
-![[src_kangourou_2022_junior_finale__probJ5.png]]
+![[src_kangourou_2022_junior_finale__probj5.png]]
 
 > Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). It shows that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides.
 
-[[src_kangourou_2022_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj5|src_kangourou_2022_junior_finale__QJ5]]
 
 
 
@@ -209,4 +209,4 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 > Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the number of units) and add it to the number obtained by the remaining digits. Continue this way until you get a $10$ number. It shows that this number you got has at least two digits equal.
 
-[[src_kangourou_2022_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj6|src_kangourou_2022_junior_finale__QJ6]]

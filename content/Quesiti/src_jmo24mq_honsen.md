@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Che $O$ sia il centro circundante del triangolo $ABC$. Il $\ell$ deve essere la linea che attraversa il punto medio del lato $BC$ e perpendicolare al bisector di $\angle BAC$. Quando $\ell$ passa attraverso il punto medio del segmento $AO$, trova la misura di $\angle BAC$.
 
-[[src_jmo24mq_honsen__Q01]]
+[[Quesiti/src_jmo24mq_honsen#q01|src_jmo24mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JMO Honsen
 
 > Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $2^a + 3^b + 1 = 6^c$.
 
-[[src_jmo24mq_honsen__Q02]]
+[[Quesiti/src_jmo24mq_honsen#q02|src_jmo24mq_honsen__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: JMO Honsen
 
 > $n$ sia un numero intero positivo. Considerate una scuola in cui ogni due studenti sono o amici reciprocamente o non amici reciprocamente. Per una tale scuola, $N$ deve essere il minimo valore possibile della somma $a + b$ di enti interi positivi $a, b$ che soddisfi entrambe le seguenti condizioni: (1) Gli studenti possono essere suddivisi in squadre $a$ in modo che due studenti appartenenti allo stesso team siano reciprocamente amici. (2) Gli studenti possono essere suddivisi in squadre $b$ in modo che due studenti appartenenti allo stesso team non siano reciprocamente amici. Trovare il più grande valore possibile di $N$ su tutte le scuole il cui numero di studenti è $n$. Qui, quando si dividono gli studenti in squadre, ogni studente deve appartenere esattamente a una squadra.
 
-[[src_jmo24mq_honsen__Q03]]
+[[Quesiti/src_jmo24mq_honsen#q03|src_jmo24mq_honsen__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: JMO Honsen
 
 > La linea tangente di $\Gamma$ è la linea di circonferenza del triangolo $ABC$ e $\ell$ è la linea tangente di $\Gamma$ al punto $A$. I punti $D$ e $E$ devono essere punti sui lati $AB$ e $AC$, rispettivamente, separati dai punti finali, soddisfacendo $BD : DA = AE : EC$. $F$ e $G$ siano i due punti di intersezione della linea $DE$ con $\Gamma$. Il $H$ è l'intersezione di $\ell$ con la linea attraverso $D$ parallela a $AC$, e il $I$ è l'intersezione di $\ell$ con la linea attraverso $E$ parallela a $AB$. Prova che i quattro punti $F, G, H, I$ si trovano su un cerchio comune e che questo cerchio è tangente alla linea $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo24mq_honsen__Q04]]
+[[Quesiti/src_jmo24mq_honsen#q04|src_jmo24mq_honsen__Q04]]
 
 
 
@@ -144,4 +144,4 @@ level: JMO Honsen
 
 > Trovare il valore più grande del numero reale $k$ in modo tale che l'ineguaglianza $$\frac{a}{1+9bc+k(b-c)^2} + \frac{b}{1+9ca+k(c-a)^2} + \frac{c}{1+9ab+k(a-b)^2} \ge \frac{1}{2}$$ sia valida per tutti i numeri reali non negativi $a, b, c$ che soddisfano $a+b+c=1$.
 
-[[src_jmo24mq_honsen__Q05]]
+[[Quesiti/src_jmo24mq_honsen#q05|src_jmo24mq_honsen__Q05]]

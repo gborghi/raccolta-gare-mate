@@ -37,7 +37,7 @@ Incircle tangency and midpoint on triangle bisector
 > 
 > (The excircle of $ABC$ opposite the vertex $A$ is the circle that is tangent to the line segment $BC$, to the ray $AB$ beyond $B$, and to the ray $AC$ beyond $C$.)
 
-[[src_imho_2012__Q01]]
+[[Quesiti/src_imho_2012#q01|src_imho_2012__Q01]]
 
 
 
@@ -65,7 +65,7 @@ Inequality with positive reals summing to n minus 1
 
 > Let $n \ge 3$ be an integer, and let $a_2, a_3, \ldots, a_n$ be positive real numbers such that $a_2 a_3 \cdots a_n = 1$. Prove that $$(1 + a_2)^2 (1 + a_3)^3 \cdots (1 + a_n)^n > n^n.$$
 
-[[src_imho_2012__Q02]]
+[[Quesiti/src_imho_2012#q02|src_imho_2012__Q02]]
 
 
 
@@ -105,7 +105,7 @@ Guessing game: player A specifies positive integer set, B lies at most once
 > 
 > 1. If $n \ge 2^k$, then $B$ can guarantee a win. 2. For the sufficiently large $k$, there exists an integer $n \ge 1.99^k$ such that $B$ cannot guarantee a win.
 
-[[src_imho_2012__Q03]]
+[[Quesiti/src_imho_2012#q03|src_imho_2012__Q03]]
 
 
 
@@ -134,7 +134,7 @@ Guessing game: player A specifies positive integer set, B lies at most once
 
 > Find all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a, b, c$ that satisfy $a + b + c = 0$, the following equality holds:
 
-[[src_imho_2012__Q04]]
+[[Quesiti/src_imho_2012#q04|src_imho_2012__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Guessing game: player A specifies positive integer set, B lies at most once
 > 
 > Show that$MK = ML$.
 
-[[src_imho_2012__Q05]]
+[[Quesiti/src_imho_2012#q05|src_imho_2012__Q05]]
 
 
 
@@ -193,4 +193,4 @@ Guessing game: player A specifies positive integer set, B lies at most once
 
 > Find all positive integers $n$ for which there exist non-negative integers $a_1, a_2, \ldots, a_n$ such that $$\frac{1}{2^{a_1}} + \frac{1}{2^{a_2}} + \cdots + \frac{1}{2^{a_n}} = \frac{1}{3^{a_1}} + \frac{2}{3^{a_2}} + \cdots + \frac{n}{3^{a_n}} = 1.$$
 
-[[src_imho_2012__Q06]]
+[[Quesiti/src_imho_2012#q06|src_imho_2012__Q06]]

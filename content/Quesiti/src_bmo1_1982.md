@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Il PQRS è un quadrilaterale dell'area A. O è un punto dentro di esso. Prova che se $2A = OP^2 + OQ^2 + OR^2 + OS^2$, allora PQRS è un quadrato e O è il suo centro.
 
-[[src_bmo1_1982__Q01]]
+[[Quesiti/src_bmo1_1982#q01|src_bmo1_1982__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Se un numero M scritto sulla scala di 2 contiene esattamente tre cifre 1, e se contiene esattamente sei cifre 0, allora è pari.
 
-[[src_bmo1_1982__Q02]]
+[[Quesiti/src_bmo1_1982#q02|src_bmo1_1982__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Se $a_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$ e $n > 2$, dimostrare che $n(n!)^{1/n} < a_n < (n-1)n^b$ dove $a$ e $b$ sono dati in termini di $n$ da $(a-1)n = -1$.
 
-[[src_bmo1_1982__Q03]]
+[[Quesiti/src_bmo1_1982#q03|src_bmo1_1982__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: BMO Round 1
 
 > Una sequenza di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e la relazione di ricorrenza $u_n = u_{n-1} + \frac{15}{u_{n-1}},\quad n \ge 2$. Considerando la curva $x^2 = y + \frac{15}{y}$, o altrimenti, descrivi con prova il comportamento di $u_n$ come $n$ tende all'infinito.
 
-[[src_bmo1_1982__Q04]]
+[[Quesiti/src_bmo1_1982#q04|src_bmo1_1982__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: BMO Round 1
 
 > Un cono circolare destro si trova su una base orizzontale, di raggio $r$. Il suo vertice V è a una distanza di 1 da ogni punto sul perimetro della base. Una sezione piana del cono è un'ellisse il cui punto più basso è L e il cui punto più alto è H. Sulla superficie curva del cono, su un lato del piano VLH, sono segnate due rotte da L a H. $R_1$ è lungo il semiperimetro dell'ellisse e $R_2$ è il percorso di lunghezza più breve. Trova la condizione che $R_1$ e $R_2$ si intersecano tra L e H.
 
-[[src_bmo1_1982__Q05]]
+[[Quesiti/src_bmo1_1982#q05|src_bmo1_1982__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: BMO Round 1
 
 > Prove che il numero di sequenze $a_1, a_2, \ldots, a_n$ con ciascuna delle loro $n$ termini $a_k = 0$ o $1$ e contenente esattamente $m$ eventi di $0$ è $\binom{n}{m}$.
 
-[[src_bmo1_1982__Q06]]
+[[Quesiti/src_bmo1_1982#q06|src_bmo1_1982__Q06]]

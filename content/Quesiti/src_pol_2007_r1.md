@@ -36,7 +36,7 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutti i triples $(x,y,z)$ dei numeri reali che soddisfano le equazioni $$x^2+2yz+5x=2,$$ $$y^2+2zx+5y=2,$$ $$z^2+2xy+5z=2.$$
 
-[[src_pol_2007_r1__Q01]]
+[[Quesiti/src_pol_2007_r1#q01|src_pol_2007_r1__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutte le coppie $(k,m)$ di enti interi positivi per le quali $k^2+4m$ e $m^2+5k$ sono entrambi quadrati perfetti.
 
-[[src_pol_2007_r1__Q02]]
+[[Quesiti/src_pol_2007_r1#q02|src_pol_2007_r1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 1
 
 > $ABCD$ sia un quadrilaterale convex con $AB=CD$ che non è un parallelo. I punti $M$ e $N$ sono i punti medi delle diagonali $AC$ e $BD$ rispettivamente. Prova che le proiezioni ortogonali dei segmenti $AB$ e $CD$ sulla linea $MN$ hanno entrambe lunghezza pari a $MN$.
 
-[[src_pol_2007_r1__Q03]]
+[[Quesiti/src_pol_2007_r1#q03|src_pol_2007_r1__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 1
 
 > Per ogni numero intero $n\ge 3$ determinare il numero di sequenze $(c_1,c_2,\ldots,c_n)$ con termini in $S=\{0,1,2,\ldots,9\}$ che soddisfano la seguente condizione: per ogni tre termini consecutivi, almeno due di essi sono uguali.
 
-[[src_pol_2007_r1__Q04]]
+[[Quesiti/src_pol_2007_r1#q04|src_pol_2007_r1__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 1
 
 > In un triangolo acuto $ABC$ l'angolo a $C$ è uguale a $45^\circ$, $O$ è il circondario e $H$ l'ortocentro. La linea attraverso $O$ perpendicolare a $CO$ incontra rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prova che $OK+KH=OL+LH$.
 
-[[src_pol_2007_r1__Q05]]
+[[Quesiti/src_pol_2007_r1#q05|src_pol_2007_r1__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: Olimpiade Polacca Round 1
 
 > Lasciate che $a,b,c$ siano numeri positivi. Provare la disuguaglianza $$\frac{1}{a+ab+abc}+\frac{1}{b+bc+bca}+\frac{1}{c+ca+cab}\le \frac{1}{3\sqrt[3]{abc}}\left(\frac{1}{a}+\frac{1}{b}+\frac{1}{c}\right).$$
 
-[[src_pol_2007_r1__Q06]]
+[[Quesiti/src_pol_2007_r1#q06|src_pol_2007_r1__Q06]]
 
 
 
@@ -199,7 +199,7 @@ level: Olimpiade Polacca Round 1
 
 > In un tetraedro $ABCD$, $Q$ è il punto di intersezione del bisettore di $\angle ABC$ con $AC$, e $P$ è il punto simmetrico a $D$ rispetto a $Q$. Il punto $R$ sul segmento $AB$ è tale che $RR'=\tfrac{1}{2}BC$. Prova che esiste un triangolo con lunghezze laterali uguali a $BP$, $CD$ e $2QR$.
 
-[[src_pol_2007_r1__Q07]]
+[[Quesiti/src_pol_2007_r1#q07|src_pol_2007_r1__Q07]]
 
 
 
@@ -228,7 +228,7 @@ level: Olimpiade Polacca Round 1
 
 > $p$ sia un numero primo. Indicare che esiste una permutazione $(x_1,x_2,\ldots,x_{p-1})$ dei numeri $1,2,\ldots,p-1$ tale che i numeri $$x_1,\, x_1x_2,\, x_1x_2x_3,\ldots,\, x_1x_2\cdots x_{p-1}$$ siano modulo $p$ distinto.
 
-[[src_pol_2007_r1__Q08]]
+[[Quesiti/src_pol_2007_r1#q08|src_pol_2007_r1__Q08]]
 
 
 
@@ -255,7 +255,7 @@ level: Olimpiade Polacca Round 1
 
 > Per un numero naturale $k$, indicare con $F(k)$ il prodotto di tutti i divisori di $k$. Prova o nega che esistono due numeri diversi $m,n\in\mathbb{N}$ con $F(m)=F(n)$.
 
-[[src_pol_2007_r1__Q09]]
+[[Quesiti/src_pol_2007_r1#q09|src_pol_2007_r1__Q09]]
 
 
 
@@ -284,7 +284,7 @@ level: Olimpiade Polacca Round 1
 
 > Lasciate che $ABC$ sia un triangolo acuto. I punti $P$ e $U$ sono sul segmento $BC$, $Q$ e $S$ sul segmento $CA$, e $R$ e $T$ sul segmento $AB$, in modo tale che $$PR\perp BC,\quad QP\perp CA,\quad RQ\perp AB,\quad US\perp BC,\quad ST\perp CA,\quad TU\perp AB.$$ dimostri che i triangoli $PQR$ e $STU$ sono congruenti.
 
-[[src_pol_2007_r1__Q10]]
+[[Quesiti/src_pol_2007_r1#q10|src_pol_2007_r1__Q10]]
 
 
 
@@ -319,7 +319,7 @@ level: Olimpiade Polacca Round 1
 > 
 > (ii) Se $i-j=4n$, allora $x_i<x_j$.
 
-[[src_pol_2007_r1__Q11]]
+[[Quesiti/src_pol_2007_r1#q11|src_pol_2007_r1__Q11]]
 
 
 
@@ -347,4 +347,4 @@ level: Olimpiade Polacca Round 1
 
 > Un polinomio $W$ con coefficienti reali assume solo valori positivi sul segmento $[a,b]$ ($a<b$). Mostrare che esistono polinomi $P$ e $Q_1,Q_2,\ldots,Q_m$ in modo tale che $$W(x)=P(x)^2+(x-a)(b-x)\sum_{i=1}^{m}Q_i(x)^2 \quad\text{for all real }x.$$
 
-[[src_pol_2007_r1__Q12]]
+[[Quesiti/src_pol_2007_r1#q12|src_pol_2007_r1__Q12]]

@@ -32,7 +32,7 @@ level: IMO
 
 > Prove that $0 \leq yz + zx + xy - 2xyz \leq \dfrac{7}{27}$, where $x$, $y$ and $z$ are non-negative real numbers for which $x + y + z = 1$.
 
-[[src_imo_1984__Q01]]
+[[Quesiti/src_imo_1984#q01|src_imo_1984__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: IMO
 > 
 > Justify your answer.
 
-[[src_imo_1984__Q02]]
+[[Quesiti/src_imo_1984#q02|src_imo_1984__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: IMO
 
 > In the plane two different points $O$ and $A$ are given. For each point $X$ of the plane, other than $O$, denoted by $a(X)$ the measure of the angle between $OA$ and $OX$ in radians, counterclockwise from $OA$ ($0 \leq a(X) < 2\pi$). Let $C(X)$ be the circle with center $O$ and radius of length $OX + a(X)/OX$. Each point of the plane is colored by one of a finite number of colors. Prove that there exists a point $Y$ for which $a(Y) > 0$ such that its color appears on the circumference of the circle $C(Y)$.
 
-[[src_imo_1984__Q03]]
+[[Quesiti/src_imo_1984#q03|src_imo_1984__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: IMO
 
 > Let $ABCD$ be a convex quadrilateral such that the line $CD$ is a tangent to the circle on $AB$ as diameter. Prove that the line $AB$ is a tangent to the circle on $CD$ as diameter if and only if the lines $BC$ and $AD$ are parallel.
 
-[[src_imo_1984__Q04]]
+[[Quesiti/src_imo_1984#q04|src_imo_1984__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: IMO
 
 > Let $d$ be the sum of the lengths of all the diagonals of a plane convex polygon with $n$ vertices ($n > 3$), and let $p$ be its perimeter. Prove that $$n - 3 < \frac{2d}{p} < \left[\frac{n}{2}\right]\left[\frac{n+1}{2}\right] - 2,$$ where $[x]$ denotes the greatest integer not exceeding $x$.
 
-[[src_imo_1984__Q05]]
+[[Quesiti/src_imo_1984#q05|src_imo_1984__Q05]]
 
 
 
@@ -177,4 +177,4 @@ level: IMO
 
 > Let $a$, $b$, $c$ and $d$ be odd integers such that $0 < a < b < c < d$ and $ad = bc$. Prove that if $a + d = 2^k$ and $b + c = 2^m$ for some integers $k$ and $m$, then $a = 1$.
 
-[[src_imo_1984__Q06]]
+[[Quesiti/src_imo_1984#q06|src_imo_1984__Q06]]

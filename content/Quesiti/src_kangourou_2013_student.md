@@ -37,7 +37,7 @@ level: kangourou
 
 > Which of the following numbers is the largest? A) 2013 B) 20+13 C) 2013 D) 2013 E) 20 ∙ 13
 
-[[src_kangourou_2013_student__Q01]]
+[[Quesiti/src_kangourou_2013_student#q01|src_kangourou_2013_student__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: kangourou
 > 	
 > D) 2,5 E) 2
 
-[[src_kangourou_2013_student__Q02]]
+[[Quesiti/src_kangourou_2013_student#q02|src_kangourou_2013_student__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: kangourou
 
 > If a prism has, in total, 2013 faces, how many beads does it have? A) 2011 B) 2013 C) 4022 D) 4024 E) 6033
 
-[[src_kangourou_2013_student__Q03]]
+[[Quesiti/src_kangourou_2013_student#q03|src_kangourou_2013_student__Q03]]
 
 
 
@@ -156,7 +156,7 @@ level: kangourou
 > 	
 > E) (      )3
 
-[[src_kangourou_2013_student__Q04]]
+[[Quesiti/src_kangourou_2013_student#q04|src_kangourou_2013_student__Q04]]
 
 
 
@@ -188,7 +188,7 @@ level: kangourou
 
 > In 2013, it has the property that the number that identifies it is made up of four consecutive digits. How many years have passed since the last time a year enjoyed this same property? A) 467 B) 527 C) 581 D) 693 E) 990
 
-[[src_kangourou_2013_student__Q05]]
+[[Quesiti/src_kangourou_2013_student#q05|src_kangourou_2013_student__Q05]]
 
 
 
@@ -223,7 +223,7 @@ level: kangourou
 > 	
 > B) 100 C) 120 D) 150 E) 180
 
-[[src_kangourou_2013_student__Q06]]
+[[Quesiti/src_kangourou_2013_student#q06|src_kangourou_2013_student__Q06]]
 
 
 
@@ -273,7 +273,7 @@ level: kangourou
 > 	
 > E) 4
 
-[[src_kangourou_2013_student__Q07]]
+[[Quesiti/src_kangourou_2013_student#q07|src_kangourou_2013_student__Q07]]
 
 
 
@@ -326,7 +326,7 @@ level: kangourou
 > E) 3 (33) (33–1) (23) (32) 3 √
 >
 
-[[src_kangourou_2013_student__Q08]]
+[[Quesiti/src_kangourou_2013_student#q08|src_kangourou_2013_student__Q08]]
 
 
 
@@ -369,7 +369,7 @@ level: kangourou
 > B) C) D) E)
 
 **Answer:** E
-[[src_kangourou_2013_student__Q09]]
+[[Quesiti/src_kangourou_2013_student#q09|src_kangourou_2013_student__Q09]]
 
 
 
@@ -407,7 +407,7 @@ level: kangourou
 > (c) 1/12 D) 1/13 E) 13 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2013_student__Q10]]
+[[Quesiti/src_kangourou_2013_student#q10|src_kangourou_2013_student__Q10]]
 
 
 
@@ -457,7 +457,7 @@ level: kangourou
 > 	
 > E) 15
 
-[[src_kangourou_2013_student__Q11]]
+[[Quesiti/src_kangourou_2013_student#q11|src_kangourou_2013_student__Q11]]
 
 
 
@@ -499,7 +499,7 @@ level: kangourou
 > 	
 > D) 100 E) 300
 
-[[src_kangourou_2013_student__Q12]]
+[[Quesiti/src_kangourou_2013_student#q12|src_kangourou_2013_student__Q12]]
 
 
 
@@ -541,7 +541,7 @@ level: kangourou
 >     	
 > B) C) D) E)
 
-[[src_kangourou_2013_student__Q13]]
+[[Quesiti/src_kangourou_2013_student#q13|src_kangourou_2013_student__Q13]]
 
 
 
@@ -592,7 +592,7 @@ level: kangourou
 > 	
 > E) There is an odd number x such that f (x) is equal.
 
-[[src_kangourou_2013_student__Q14]]
+[[Quesiti/src_kangourou_2013_student#q14|src_kangourou_2013_student__Q14]]
 
 
 
@@ -638,7 +638,7 @@ level: kangourou
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2013_student__Q15]]
+[[Quesiti/src_kangourou_2013_student#q15|src_kangourou_2013_student__Q15]]
 
 
 
@@ -734,7 +734,7 @@ level: kangourou
 > E) 0
 
 **Answer:** A
-[[src_kangourou_2013_student__Q16]]
+[[Quesiti/src_kangourou_2013_student#q16|src_kangourou_2013_student__Q16]]
 
 
 
@@ -805,7 +805,7 @@ level: kangourou
 > In the triangle ABC the points M and N are fixed on the AB side so that AN = AC and BM = BC. Determine the width of the ACB angle by knowing that the MCN angle measures 43°. A) 86° B) 89° C) 90° D) 92° E) 94°
 
 **Answer:** E
-[[src_kangourou_2013_student__Q17]]
+[[Quesiti/src_kangourou_2013_student#q17|src_kangourou_2013_student__Q17]]
 
 
 
@@ -852,7 +852,7 @@ level: kangourou
 > E) A different number from the previous one
 
 **Answer:** E
-[[src_kangourou_2013_student__Q18]]
+[[Quesiti/src_kangourou_2013_student#q18|src_kangourou_2013_student__Q18]]
 
 
 
@@ -901,7 +901,7 @@ level: kangourou
 > E) 55
 
 **Answer:** C
-[[src_kangourou_2013_student__Q19]]
+[[Quesiti/src_kangourou_2013_student#q19|src_kangourou_2013_student__Q19]]
 
 
 
@@ -953,7 +953,7 @@ This is the total value of the own funds of the institution.
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** D
-[[src_kangourou_2013_student__Q20]]
+[[Quesiti/src_kangourou_2013_student#q20|src_kangourou_2013_student__Q20]]
 
 
 
@@ -1000,7 +1000,7 @@ This is the total value of the own funds of the institution.
 > E) 8
 
 **Answer:** A
-[[src_kangourou_2013_student__Q21]]
+[[Quesiti/src_kangourou_2013_student#q21|src_kangourou_2013_student__Q21]]
 
 
 
@@ -1051,7 +1051,7 @@ This is the total value of the own funds of the institution.
 > D) E) None of the above.
 
 **Answer:** A
-[[src_kangourou_2013_student__Q22]]
+[[Quesiti/src_kangourou_2013_student#q22|src_kangourou_2013_student__Q22]]
 
 
 
@@ -1100,7 +1100,7 @@ This is the total value of the own funds of the institution.
 > E) A different number from the previous one
 
 **Answer:** C
-[[src_kangourou_2013_student__Q23]]
+[[Quesiti/src_kangourou_2013_student#q23|src_kangourou_2013_student__Q23]]
 
 
 
@@ -1147,7 +1147,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > E) Infinite
 
 **Answer:** E
-[[src_kangourou_2013_student__Q24]]
+[[Quesiti/src_kangourou_2013_student#q24|src_kangourou_2013_student__Q24]]
 
 
 
@@ -1187,7 +1187,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > This is a list of the countries of the European Economic Area.
 
 **Answer:** D
-[[src_kangourou_2013_student__Q25]]
+[[Quesiti/src_kangourou_2013_student#q25|src_kangourou_2013_student__Q25]]
 
 
 
@@ -1234,7 +1234,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 >
 
 **Answer:** C
-[[src_kangourou_2013_student__Q26]]
+[[Quesiti/src_kangourou_2013_student#q26|src_kangourou_2013_student__Q26]]
 
 
 
@@ -1281,7 +1281,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > E) 18
 
 **Answer:** B
-[[src_kangourou_2013_student__Q27]]
+[[Quesiti/src_kangourou_2013_student#q27|src_kangourou_2013_student__Q27]]
 
 
 
@@ -1337,7 +1337,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > E) The information given is not sufficient to answer.
 
 **Answer:** D
-[[src_kangourou_2013_student__Q28]]
+[[Quesiti/src_kangourou_2013_student#q28|src_kangourou_2013_student__Q28]]
 
 
 
@@ -1373,7 +1373,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > Giuliana wrote an algorithm to generate a sequence of numbers: a1 = 1, am + n = am + an + mn, with m and n natural numbers. How much is a hundred ? A) 100 B) 1000 C) 2012 D) 4950 E) 5050
 
 **Answer:** E
-[[src_kangourou_2013_student__Q29]]
+[[Quesiti/src_kangourou_2013_student#q29|src_kangourou_2013_student__Q29]]
 
 
 
@@ -1443,4 +1443,4 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > I'm going to be a student.
 
 **Answer:** B
-[[src_kangourou_2013_student__Q30]]
+[[Quesiti/src_kangourou_2013_student#q30|src_kangourou_2013_student__Q30]]

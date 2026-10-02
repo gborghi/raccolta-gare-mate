@@ -35,7 +35,7 @@ level: kangourou
 > On one hand, Silvia counted as follows: 1 inch, 2 index, 3 middle, 4 ring, 5 thumb; then she turned back: 6 ring, 7 middle, 8 index, 9 inches. So it's divided up: 10 indices, 11 mean, and so on, until it gets to 999. What finger?
 
 **Answer:** medio
-[[src_kangourou_2025_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2025_cadet_finale#qc1|src_kangourou_2025_cadet_finale__QC1]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > A circular park is surrounded by a path lit by lightning. Simona and Tania counted the lights, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lights are there?
 
 **Answer:** 100
-[[src_kangourou_2025_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2025_cadet_finale#qc2|src_kangourou_2025_cadet_finale__QC2]]
 
 
 
@@ -92,7 +92,7 @@ level: kangourou
 > Two positive integers $a$ and $b$ are such that their sum is equal to the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
 
 **Answer:** tre coppie
-[[src_kangourou_2025_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2025_cadet_finale#qc3|src_kangourou_2025_cadet_finale__QC3]]
 
 
 
@@ -120,7 +120,7 @@ level: kangourou
 > A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Inside the garden the plots are separated by lattices; the overall length of the lattices is 1,172 metres. How many square plots are there?
 
 **Answer:** 312
-[[src_kangourou_2025_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2025_cadet_finale#qc4|src_kangourou_2025_cadet_finale__QC4]]
 
 
 
@@ -131,7 +131,7 @@ level: kangourou
 
 *Quante disposizioni cavalieri/furfanti su griglia 5x5*
 
-![[src_kangourou_2025_cadet_finale__probC5.png]]
+![[src_kangourou_2025_cadet_finale__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -170,7 +170,7 @@ level: kangourou
 
 *How many horses/hunters on a 5x5 grid*
 
-![[src_kangourou_2025_cadet_finale__probC5.png]]
+![[src_kangourou_2025_cadet_finale__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -197,7 +197,7 @@ level: kangourou
 > NOTE: Two bricks are adjacent if they have an entire side in common. Two provisions are different if, for at least one number, the corresponding brick is occupied in one provision by a Knight and in the other by a Sniper.
 
 **Answer:** 6
-[[src_kangourou_2025_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2025_cadet_finale#qc5|src_kangourou_2025_cadet_finale__QC5]]
 
 
 
@@ -208,7 +208,7 @@ level: kangourou
 
 *piu lungo del diametro?*
 
-![[src_kangourou_2025_cadet_finale__probC6.png]]
+![[src_kangourou_2025_cadet_finale__probc6.png]]
 
 > Due punti sulla circonferenza di un cerchio $\Gamma$ sono estremi di un arco $\delta$ di un'altra circonferenza. L'arco $\delta$ ripartisce il cerchio $\Gamma$ in due regioni di uguale area. È necessariamente vero che $\delta$ è più lungo del diametro di $\Gamma$?
 
@@ -224,9 +224,9 @@ level: kangourou
 
 *longer than the diameter?*
 
-![[src_kangourou_2025_cadet_finale__probC6.png]]
+![[src_kangourou_2025_cadet_finale__probc6.png]]
 
 > Two points on the circumference of a circle $\Gamma$ are extremes of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
 **Answer:** Si
-[[src_kangourou_2025_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2025_cadet_finale#qc6|src_kangourou_2025_cadet_finale__QC6]]

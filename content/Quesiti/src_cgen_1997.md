@@ -37,7 +37,7 @@ level: Concours Général
 > 
 > Si può scegliere il vertice di partenza per raccogliere tutti i token? Se sì, quante possibili scelte ci sono?
 
-[[src_cgen_1997__Q01]]
+[[Quesiti/src_cgen_1997#q01|src_cgen_1997__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: Concours Général
 > 
 > Qual è il volume massimo di un cilindro destro contenuto in questa capsula, il cilindro e la capsula avendo lo stesso asse di rotazione?
 
-[[src_cgen_1997__Q02]]
+[[Quesiti/src_cgen_1997#q02|src_cgen_1997__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: Concours Général
 
 > $C$ è un cubo di bordo $1$ e $p$ è la proiezione ortogonale su un piano. Qual è il valore massimo della superficie di $p(C)$?
 
-[[src_cgen_1997__Q03]]
+[[Quesiti/src_cgen_1997#q03|src_cgen_1997__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: Concours Général
 > 
 > Per ogni reale $\alpha$ rigorosamente positivo, il numero reale $\lambda(\alpha)$ è definito dalla relazione: $$a^{\alpha} + b^{\alpha} + c^{\alpha} = [\lambda(\alpha)]\,(m^{\alpha} + n^{\alpha} + p^{\alpha})$$ \textbf{1.} Calcola $\lambda(2)$. \textbf{2.} Calcolare il limite di $\lambda(\alpha)$ come $\alpha$ tende a $0$. In quale condizione su $a, b, c$ $\lambda(\alpha)$ è indipendente da $\alpha$?
 
-[[src_cgen_1997__Q04]]
+[[Quesiti/src_cgen_1997#q04|src_cgen_1997__Q04]]
 
 
 
@@ -162,4 +162,4 @@ level: Concours Général
 
 > Nel piano, $A$ e $B$ siano due punti distinti. Per ogni punto $C$ esterno alla linea $(AB)$, indicare con $G$ l'isobaricentro (centroid) del triangolo $ABC$ e con $I$ il centro del suo cerchio inciso. \textbf{1.} $\alpha$ sia un numero reale tale che $0 < \alpha < \pi$. Qual è l'insieme $\Gamma$ dei punti $C$ in modo che $$\left(\overrightarrow{CA},\ \overrightarrow{CB}\right) = \alpha + 2k\pi,$$ $k$ sia un numero intero? Quando $C$ descrive $\Gamma$, mostrare che $G$ e $I$ descrivono due archi di un cerchio, che si specificherà. \textbf{2.} Supponiamo ora che $\dfrac{\pi}{3} < \alpha < \pi$. Come si deve scegliere $C$ in $\Gamma$ in modo che la distanza $GI$ sia minima? \textbf{3.} Denotare con $f(\alpha)$ la distanza minima $GI$ della domanda precedente. Esprimere $f(\alpha)$ in termini di $a = AB$ e $\alpha$. Determinare il valore massimo di $f(\alpha)$ quando $\alpha$ descrive $\left]\dfrac{\pi}{3};\ \pi\right[$.
 
-[[src_cgen_1997__Q05]]
+[[Quesiti/src_cgen_1997#q05|src_cgen_1997__Q05]]

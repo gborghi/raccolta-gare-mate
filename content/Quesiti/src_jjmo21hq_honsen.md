@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Il $ABC$ deve essere un triangolo acuto con $AB < BC$ e $AC < BC$. Il $\Gamma$ deve essere il suo circoncircolo. Che $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ siano cerchi incentrati rispettivamente su $A$, $B$, $C$ con radii $AB$, $BC$ e $CA$. $D$, $E$, $F$ siano rispettivamente i punti di intersezione di $\Gamma_1 \cap \Gamma_2$, $\Gamma_2 \cap \Gamma_3$ e $\Gamma_3 \cap \Gamma_1$ che sono diversi da $A$. Prova che il triangolo $ABC$ e il triangolo $DEF$ sono simili. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jjmo21hq_honsen__Q01]]
+[[Quesiti/src_jjmo21hq_honsen#q01|src_jjmo21hq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Honsen
 
 > Su una lavagna sono scritti i numeri reali positivi del 2023. Per ogni coppia $x, y$ scelta da questi numeri, calcolare $\dfrac{xy}{(x+y)^2}$. Il numero di valori distinti ottenuti è esattamente $k$. Trova il valore massimo possibile di $k$.
 
-[[src_jjmo21hq_honsen__Q02]]
+[[Quesiti/src_jjmo21hq_honsen#q02|src_jjmo21hq_honsen__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JJMO Honsen
 
 > $n$ sia un numero intero positivo. In primo luogo, il lettore $A$ riempie ogni cella di una griglia $n \times n$ con numeri interi distinti da $1$ a $n^2$, uno per cella. Successivamente, il giocatore $B$ circonda alcune celle (possibilmente nessuna) in modo tale che non due celle circolate condividano un bordo. Per ciascuna cella circolare, $B$ scrive la somma di tutti gli enti nelle celle adiacenti (condividendo un bordo). Che $M$ sia il valore massimo in modo tale che, indipendentemente dal modo in cui $A$ riempie i numeri, il giocatore $B$ possa sempre fare la somma totale di tutti i valori scritti almeno $M$. Trova $M$.
 
-[[src_jjmo21hq_honsen__Q03]]
+[[Quesiti/src_jjmo21hq_honsen#q03|src_jjmo21hq_honsen__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: JJMO Honsen
 
 > Trova tutti i triples dei numeri razionali positivi $(a, b, c)$ in modo tale che $$a + \frac{c}{b}, \quad b + \frac{a}{c}, \quad c + \frac{b}{a}$$ siano tutti interi.
 
-[[src_jjmo21hq_honsen__Q04]]
+[[Quesiti/src_jjmo21hq_honsen#q04|src_jjmo21hq_honsen__Q04]]
 
 
 
@@ -143,4 +143,4 @@ level: JJMO Honsen
 
 > Nel triangolo $ABC$, $\Gamma$ sia il circoncircolo e $M$ il punto medio del lato $AC$. I punti $P$ e $Q$ siano due punti distinti del segmento $BC$ che siano simmetrici rispetto al punto medio di $BC$. $N$ sia il punto medio del segmento $PQ$ (così $N$ è il punto medio di $BC$). La linea $AN$ incontra di nuovo $\Gamma$ in un punto $R$ (diverso da $A$). Prova che il circoncircolo del triangolo $PRN$ è tangente alla linea $BC$.
 
-[[src_jjmo21hq_honsen__Q05]]
+[[Quesiti/src_jjmo21hq_honsen#q05|src_jjmo21hq_honsen__Q05]]

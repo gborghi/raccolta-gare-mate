@@ -42,7 +42,7 @@ level: Coupe Animath Automne
 > Qui si aspetta solo una risposta numerica.
 
 **Risposta:** 32
-[[src_canimath_2023_automne__Q01]]
+[[Quesiti/src_canimath_2023_automne#q01|src_canimath_2023_automne__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: Coupe Animath Automne
 > $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
 
 **Risposta:** 112.5
-[[src_canimath_2023_automne__Q02]]
+[[Quesiti/src_canimath_2023_automne#q02|src_canimath_2023_automne__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: Coupe Animath Automne
 
 > In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
-[[src_canimath_2023_automne__Q03]]
+[[Quesiti/src_canimath_2023_automne#q03|src_canimath_2023_automne__Q03]]
 
 
 
@@ -143,7 +143,7 @@ level: Coupe Animath Automne
 > 
 > Qual è la più grande differenza possibile tra la nana che ha trovato il maggior numero di nuggets e quella che ha trovato il minor numero di nuggets?
 
-[[src_canimath_2023_automne__Q04]]
+[[Quesiti/src_canimath_2023_automne#q04|src_canimath_2023_automne__Q04]]
 
 
 
@@ -172,7 +172,7 @@ level: Coupe Animath Automne
 
 > I punti $A$, $B$, $C$ e $O$ siano quattro punti distinti in modo tale che i triangoli $OAB$ e $OAC$ siano equilaterali con il lato $1$. I punti $D$ e $E$ siano due punti distinti e diversi da $A$, in modo che anche i triangoli $OBD$ e $OCE$ siano equilaterali. Il punto $P$ deve essere il punto del segmento $[AD]$ in modo tale che $DP = 1$. Il punto $Q$ deve essere il punto del segmento $[AE]$ in modo tale che $AQ = 1$. Indicare che i punti $B$, $P$ e $Q$ sono collineari.
 
-[[src_canimath_2023_automne__Q05]]
+[[Quesiti/src_canimath_2023_automne#q05|src_canimath_2023_automne__Q05]]
 
 
 
@@ -201,7 +201,7 @@ level: Coupe Animath Automne
 
 > Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
 
-[[src_canimath_2023_automne__Q06]]
+[[Quesiti/src_canimath_2023_automne#q06|src_canimath_2023_automne__Q06]]
 
 
 
@@ -238,7 +238,7 @@ level: Coupe Animath Automne
 > 
 > Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
 
-[[src_canimath_2023_automne__Q07]]
+[[Quesiti/src_canimath_2023_automne#q07|src_canimath_2023_automne__Q07]]
 
 
 
@@ -272,7 +272,7 @@ level: Coupe Animath Automne
 > Qui si aspetta solo una risposta numerica.
 
 **Risposta:** 36
-[[src_canimath_2023_automne__Q08]]
+[[Quesiti/src_canimath_2023_automne#q08|src_canimath_2023_automne__Q08]]
 
 
 
@@ -303,7 +303,7 @@ level: Coupe Animath Automne
 > $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
 
 **Risposta:** 112.5
-[[src_canimath_2023_automne__Q09]]
+[[Quesiti/src_canimath_2023_automne#q09|src_canimath_2023_automne__Q09]]
 
 
 
@@ -332,7 +332,7 @@ level: Coupe Animath Automne
 
 > In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
-[[src_canimath_2023_automne__Q10]]
+[[Quesiti/src_canimath_2023_automne#q10|src_canimath_2023_automne__Q10]]
 
 
 
@@ -373,7 +373,7 @@ level: Coupe Animath Automne
 > 
 > Qual è la più grande differenza possibile tra la nana che ha trovato il maggior numero di nuggets e quella che ha trovato il minor numero di nuggets?
 
-[[src_canimath_2023_automne__Q11]]
+[[Quesiti/src_canimath_2023_automne#q11|src_canimath_2023_automne__Q11]]
 
 
 
@@ -402,7 +402,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 
 > Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
 
-[[src_canimath_2023_automne__Q12]]
+[[Quesiti/src_canimath_2023_automne#q12|src_canimath_2023_automne__Q12]]
 
 
 
@@ -439,7 +439,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > 
 > Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
 
-[[src_canimath_2023_automne__Q13]]
+[[Quesiti/src_canimath_2023_automne#q13|src_canimath_2023_automne__Q13]]
 
 
 
@@ -468,7 +468,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 
 > $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una linea parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
 
-[[src_canimath_2023_automne__Q14]]
+[[Quesiti/src_canimath_2023_automne#q14|src_canimath_2023_automne__Q14]]
 
 
 
@@ -513,4 +513,4 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > 
 > Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un token.
 
-[[src_canimath_2023_automne__Q15]]
+[[Quesiti/src_canimath_2023_automne#q15|src_canimath_2023_automne__Q15]]

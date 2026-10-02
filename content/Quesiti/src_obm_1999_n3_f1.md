@@ -38,7 +38,7 @@ level: OBM Nível 3
 > A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
 
 **Risposta:** B
-[[src_obm_1999_n3_f1__Q01]]
+[[Quesiti/src_obm_1999_n3_f1#q01|src_obm_1999_n3_f1__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: OBM Nível 3
 > A) 10 \quad B) 20 \quad C) 30 \quad D) 40 \quad E) 50
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q02]]
+[[Quesiti/src_obm_1999_n3_f1#q02|src_obm_1999_n3_f1__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: OBM Nível 3
 > A) 16 \quad B) 18 \quad C) 24 \quad D) 36 \quad E) 48
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q03]]
+[[Quesiti/src_obm_1999_n3_f1#q03|src_obm_1999_n3_f1__Q03]]
 
 
 
@@ -137,7 +137,7 @@ level: OBM Nível 3
 > A) 0 \quad B) 1 \quad C) 2 \quad D) 3 \quad E) 4
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q04]]
+[[Quesiti/src_obm_1999_n3_f1#q04|src_obm_1999_n3_f1__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: OBM Nível 3
 > 
 > A) 80 \quad B) 84 \quad C) 86 \quad D) 88 \quad E) 91
 
-![[src_obm_1999_n3_f1__Q05.png]]
+![[src_obm_1999_n3_f1__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -170,10 +170,10 @@ level: OBM Nível 3
 > 
 > A) 80 \quad B) 84 \quad C) 86 \quad D) 88 \quad E) 91
 
-![[src_obm_1999_n3_f1__Q05.png]]
+![[src_obm_1999_n3_f1__q05.png]]
 
 **Risposta:** C
-[[src_obm_1999_n3_f1__Q05]]
+[[Quesiti/src_obm_1999_n3_f1#q05|src_obm_1999_n3_f1__Q05]]
 
 
 
@@ -206,7 +206,7 @@ level: OBM Nível 3
 > A) 60 \quad B) 64 \quad C) 90 \quad D) 120 \quad E) 180
 
 **Risposta:** B
-[[src_obm_1999_n3_f1__Q06]]
+[[Quesiti/src_obm_1999_n3_f1#q06|src_obm_1999_n3_f1__Q06]]
 
 
 
@@ -239,7 +239,7 @@ level: OBM Nível 3
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
 **Risposta:** A
-[[src_obm_1999_n3_f1__Q07]]
+[[Quesiti/src_obm_1999_n3_f1#q07|src_obm_1999_n3_f1__Q07]]
 
 
 
@@ -272,7 +272,7 @@ level: OBM Nível 3
 > A) 5 \quad B) 10 \quad C) 20 \quad D) 30 \quad E) 40
 
 **Risposta:** C
-[[src_obm_1999_n3_f1__Q08]]
+[[Quesiti/src_obm_1999_n3_f1#q08|src_obm_1999_n3_f1__Q08]]
 
 
 
@@ -304,7 +304,7 @@ level: OBM Nível 3
 > A) $0^\circ$ e $30^\circ$ \quad B) $30^\circ$ e $45^\circ$ \quad C) $45^\circ$ e $60^\circ$ \quad D) $60^\circ$ e $75^\circ$ \quad E) $75^\circ$ e $90^\circ$
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q09]]
+[[Quesiti/src_obm_1999_n3_f1#q09|src_obm_1999_n3_f1__Q09]]
 
 
 
@@ -337,7 +337,7 @@ level: OBM Nível 3
 > A) $\mathrm{R}\$\,220{,}00$ \quad B) $\mathrm{R}\$\,204{,}00$ \quad C) $\mathrm{R}\$\,196{,}00$ \quad D) $\mathrm{R}\$\,188{,}00$ \quad E) $\mathrm{R}\$\,180{,}00$
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q10]]
+[[Quesiti/src_obm_1999_n3_f1#q10|src_obm_1999_n3_f1__Q10]]
 
 
 
@@ -372,7 +372,7 @@ level: OBM Nível 3
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
 **Risposta:** C
-[[src_obm_1999_n3_f1__Q11]]
+[[Quesiti/src_obm_1999_n3_f1#q11|src_obm_1999_n3_f1__Q11]]
 
 
 
@@ -405,7 +405,7 @@ level: OBM Nível 3
 > A) 1 \quad B) 2 \quad C) 4 \quad D) 5 \quad E) 6
 
 **Risposta:** A
-[[src_obm_1999_n3_f1__Q12]]
+[[Quesiti/src_obm_1999_n3_f1#q12|src_obm_1999_n3_f1__Q12]]
 
 
 
@@ -438,7 +438,7 @@ level: OBM Nível 3
 > A) 20 cm \quad B) 22 cm \quad C) 24 cm \quad D) 25 cm \quad E) 28 cm
 
 **Risposta:** A
-[[src_obm_1999_n3_f1__Q13]]
+[[Quesiti/src_obm_1999_n3_f1#q13|src_obm_1999_n3_f1__Q13]]
 
 
 
@@ -471,7 +471,7 @@ level: OBM Nível 3
 > A) $7:4:1$ \quad B) $8:5:2$ \quad C) $7:3:2$ \quad D) $11:8:5$ \quad E) $9:5:1$
 
 **Risposta:** A
-[[src_obm_1999_n3_f1__Q14]]
+[[Quesiti/src_obm_1999_n3_f1#q14|src_obm_1999_n3_f1__Q14]]
 
 
 
@@ -504,7 +504,7 @@ level: OBM Nível 3
 > A) 9 \quad B) 10 \quad C) 12 \quad D) 16 \quad E) 18
 
 **Risposta:** A
-[[src_obm_1999_n3_f1__Q15]]
+[[Quesiti/src_obm_1999_n3_f1#q15|src_obm_1999_n3_f1__Q15]]
 
 
 
@@ -537,7 +537,7 @@ level: OBM Nível 3
 > A) $\pi/8$ \quad B) $\pi/9$ \quad C) $\pi/10$ \quad D) $\pi/12$ \quad E) $\pi/14$
 
 **Risposta:** B
-[[src_obm_1999_n3_f1__Q16]]
+[[Quesiti/src_obm_1999_n3_f1#q16|src_obm_1999_n3_f1__Q16]]
 
 
 
@@ -570,7 +570,7 @@ level: OBM Nível 3
 > A) $(1999, 858)$ \quad B) $(1999, 859)$ \quad C) $(1999, 860)$ \quad D) $(1999, 861)$ \quad E) $(1999, 862)$
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q17]]
+[[Quesiti/src_obm_1999_n3_f1#q17|src_obm_1999_n3_f1__Q17]]
 
 
 
@@ -603,7 +603,7 @@ level: OBM Nível 3
 > A) 13 \quad B) 14 \quad C) 15 \quad D) 16 \quad E) 17
 
 **Risposta:** E
-[[src_obm_1999_n3_f1__Q18]]
+[[Quesiti/src_obm_1999_n3_f1#q18|src_obm_1999_n3_f1__Q18]]
 
 
 
@@ -636,7 +636,7 @@ level: OBM Nível 3
 > A) 90 \quad B) 98 \quad C) 112 \quad D) 118 \quad E) 120
 
 **Risposta:** E
-[[src_obm_1999_n3_f1__Q19]]
+[[Quesiti/src_obm_1999_n3_f1#q19|src_obm_1999_n3_f1__Q19]]
 
 
 
@@ -668,7 +668,7 @@ level: OBM Nível 3
 > A) 15\% \quad B) 37\% \quad C) 50\% \quad D) 67\% \quad E) 84\%
 
 **Risposta:** D
-[[src_obm_1999_n3_f1__Q20]]
+[[Quesiti/src_obm_1999_n3_f1#q20|src_obm_1999_n3_f1__Q20]]
 
 
 
@@ -700,7 +700,7 @@ level: OBM Nível 3
 > A) 30 \quad B) 31 \quad C) 33 \quad D) 34 \quad E) 34
 
 **Risposta:** B
-[[src_obm_1999_n3_f1__Q21]]
+[[Quesiti/src_obm_1999_n3_f1#q21|src_obm_1999_n3_f1__Q21]]
 
 
 
@@ -733,7 +733,7 @@ level: OBM Nível 3
 > A) 28\% \quad B) 31\% \quad C) 34\% \quad D) 36\% \quad E) 39\%
 
 **Risposta:** C
-[[src_obm_1999_n3_f1__Q22]]
+[[Quesiti/src_obm_1999_n3_f1#q22|src_obm_1999_n3_f1__Q22]]
 
 
 
@@ -748,7 +748,7 @@ level: OBM Nível 3
 > 
 > A) 55 m \quad B) 57 m \quad C) 59 m \quad D) 61 m \quad E) 63 m
 
-![[src_obm_1999_n3_f1__Q23.png]]
+![[src_obm_1999_n3_f1__q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
@@ -766,10 +766,10 @@ level: OBM Nível 3
 > 
 > A) 55 m^quad B) 57 m^quad C) 59 m^quad D) 61 m^quad E) 63 m
 
-![[src_obm_1999_n3_f1__Q23.png]]
+![[src_obm_1999_n3_f1__q23.png]]
 
 **Risposta:** C
-[[src_obm_1999_n3_f1__Q23]]
+[[Quesiti/src_obm_1999_n3_f1#q23|src_obm_1999_n3_f1__Q23]]
 
 
 
@@ -801,7 +801,7 @@ level: OBM Nível 3
 > A) 1999 B) 2000 C) 2001 D) 3998 E) 3999
 
 **Risposta:** B
-[[src_obm_1999_n3_f1__Q24]]
+[[Quesiti/src_obm_1999_n3_f1#q24|src_obm_1999_n3_f1__Q24]]
 
 
 
@@ -834,4 +834,4 @@ level: OBM Nível 3
 > A) 31 Quad B) 33 Quad C) 35 Quad D) 37 Quad E) 38
 
 **Risposta:** E
-[[src_obm_1999_n3_f1__Q25]]
+[[Quesiti/src_obm_1999_n3_f1#q25|src_obm_1999_n3_f1__Q25]]

@@ -32,7 +32,7 @@ level: RMO
 
 > In un triangolo a angolo acuto $ABC$, $\angle ABC$ è l'angolo più grande. I bisettori perpendicolari di $BC$ e $BA$ si incrociano rispettivamente a $X$ e $Y$. Prova che il circoncentro del triangolo $ABC$ è il centro del triangolo $BXY$.
 
-[[src_rmo_2014_r2__Q01]]
+[[Quesiti/src_rmo_2014_r2#q01|src_rmo_2014_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Lasciate che $x, y, z$ siano numeri reali positivi. Provare che $$\frac{y^2 + z^2}{x} + \frac{z^2 + x^2}{y} + \frac{x^2 + y^2}{z} \ge 2(x + y + z).$$
 
-[[src_rmo_2014_r2__Q02]]
+[[Quesiti/src_rmo_2014_r2#q02|src_rmo_2014_r2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Trova tutte le coppie $(x, y)$ di integri positivi in modo tale che $2x + 7y$ divida $7x + 2y$.
 
-[[src_rmo_2014_r2__Q03]]
+[[Quesiti/src_rmo_2014_r2#q03|src_rmo_2014_r2__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: RMO
 
 > Per qualsiasi numero intero positivo $n > 1$, $P(n)$ indica il primo più grande non superiore a $n$. $N(n)$ indichi il primo successivo più grande di $P(n)$. (ad esempio $P(10) = 7$ e $N(10) = 11$, mentre $P(11) = 11$ e $N(11) = 13$.) Se $n + 1$ è un numero primo, dimostrare che il valore della somma $$\frac{1}{P(2)N(2)} + \frac{1}{P(3)N(3)} + \frac{1}{P(4)N(4)} + \cdots + \frac{1}{P(n)N(n)}$$ è uguale a $\dfrac{n-1}{2(n+2)}$.
 
-[[src_rmo_2014_r2__Q04]]
+[[Quesiti/src_rmo_2014_r2#q04|src_rmo_2014_r2__Q04]]
 
 
 
@@ -129,7 +129,7 @@ level: RMO
 
 > Let $ABC$ be a triangle with $AB > AC$. Let $P$ be a point on the line $AB$ beyond $A$ such that $AP + PC = AB$. Let $M$ be the mid-point of $BC$ and let $Q$ be the point on the side $AB$ such that $CM \perp QM$. Prove that $BQ = 2AP$.
 
-![[src_rmo_2014_r2__Q05.png]]
+![[src_rmo_2014_r2__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -144,9 +144,9 @@ level: RMO
 
 > Che $ABC$ sia un triangolo con $AB > AC$. Il $P$ deve essere un punto della linea $AB$ al di là di $A$ in modo tale che $AP + PC = AB$. Il $M$ deve essere il punto medio di $BC$ e il $Q$ deve essere il punto sul lato $AB$ in modo tale che $CM \perp QM$. Prova che $BQ = 2AP$.
 
-![[src_rmo_2014_r2__Q05.png]]
+![[src_rmo_2014_r2__q05.png]]
 
-[[src_rmo_2014_r2__Q05]]
+[[Quesiti/src_rmo_2014_r2#q05|src_rmo_2014_r2__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: RMO
 
 > Supponiamo che $n$ sia pari e ogni quadrato di una griglia $n \times n$ sia arbitrariamente riempito con $1$ o $-1$. $r_j$ e $c_k$ indichino il prodotto di tutti i numeri rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Provare che $$\sum_{j=1}^{n} r_j + \sum_{k=1}^{n} c_k \ne 0.$$
 
-[[src_rmo_2014_r2__Q06]]
+[[Quesiti/src_rmo_2014_r2#q06|src_rmo_2014_r2__Q06]]

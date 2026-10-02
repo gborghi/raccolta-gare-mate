@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > Che $y = P(x)$ sia un polinomio di grado 4. Mostrare che se esiste una linea (in $\mathbb{R}^2$) che interseca il grafico di $P$ a 4 punti, allora esiste una linea che interseca il grafico a 4 punti spaziati ugualmente.
 
-[[src_obm_2002_nu_f2__Q01]]
+[[Quesiti/src_obm_2002_nu_f2#q01|src_obm_2002_nu_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 
 > Che $A = (a_{ij})$ sia una matrice simmetrica reale $n \times n$ tale che $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ per tutti $i \in \{1, 2, \ldots, n\}$. Prove che $0 < \det A \le 1$.
 
-[[src_obm_2002_nu_f2__Q02]]
+[[Quesiti/src_obm_2002_nu_f2#q02|src_obm_2002_nu_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível Universitário
 
 > Si deve $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ essere impostato in modo tale che $|A_i| \ge \dfrac{n}{2}$ e $|A_i \cap A_j| \le \dfrac{n}{4}$ per tutti $i, j$ con $i \ne j$. Prove che $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
 
-[[src_obm_2002_nu_f2__Q03]]
+[[Quesiti/src_obm_2002_nu_f2#q03|src_obm_2002_nu_f2__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: OBM Nível Universitário
 
 > Trova tutte le soluzioni reali dell'equazione $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
 
-[[src_obm_2002_nu_f2__Q04]]
+[[Quesiti/src_obm_2002_nu_f2#q04|src_obm_2002_nu_f2__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível Universitário
 > 
 > Data una cifra integrale positiva $n$, definire $k(n)$ come la più grande $k$ tale che $\ln_k(n) \ge 1$, e definire $a_n$ come $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$ Determinare se la serie $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converge o diverge.
 
-[[src_obm_2002_nu_f2__Q05]]
+[[Quesiti/src_obm_2002_nu_f2#q05|src_obm_2002_nu_f2__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: OBM Nível Universitário
 
 > Considerate due ellissi nel piano $\mathbb{R}^2$ che si incrociano esattamente a 4 punti. A questi 4 punti, disegnare le linee tangenti a entrambe le ellissi, ottenendo 8 linee. Prove che esiste un'ellisse (o cerchio) tangente a tutte e 8 di queste linee.
 
-[[src_obm_2002_nu_f2__Q06]]
+[[Quesiti/src_obm_2002_nu_f2#q06|src_obm_2002_nu_f2__Q06]]

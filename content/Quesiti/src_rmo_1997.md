@@ -33,7 +33,7 @@ level: RMO
 
 > Il $P$ deve essere un punto interno di un triangolo $ABC$ e $BP$ e $CP$ devono incontrare $AC$ e $AB$ rispettivamente in $E$ e $F$. Se $[BPF] = 4$, $[BPC] = 8$ e $[CPE] = 13$, trovare $[AFPE]$. (Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilaterale, a seconda del caso).
 
-[[src_rmo_1997__Q01]]
+[[Quesiti/src_rmo_1997#q01|src_rmo_1997__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Per ogni intero positivo $n$, definire $a_n = 20 + n^2$ e $d_n = \gcd(a_n, a_{n+1})$. Trova l'insieme di tutti i valori presi da $d_n$ e mostra con esempi che ciascuno di questi valori è raggiunto.
 
-[[src_rmo_1997__Q02]]
+[[Quesiti/src_rmo_1997#q02|src_rmo_1997__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: RMO
 
 > Risolvere per $x$ reale: $$\frac{1}{[x]} + \frac{1}{[2x]} = \{x\} + \frac{1}{3},$$ dove $[x]$ è il numero intero più grande inferiore o uguale a $x$ e $\{x\} = x - [x]$. [e.g. $[3.4] = 3$ e $\{3.4\} = 0.4$.]
 
-[[src_rmo_1997__Q03]]
+[[Quesiti/src_rmo_1997#q03|src_rmo_1997__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: RMO
 > 
 > (b) $AD + BC \ge AB + CD$.
 
-[[src_rmo_1997__Q04]]
+[[Quesiti/src_rmo_1997#q04|src_rmo_1997__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: RMO
 
 > Lasciate che $x$, $y$ e $z$ siano tre numeri reali positivi distinti. Determinare con prova se i tre numeri reali $$\left|\frac{x}{y} - \frac{y}{x}\right|, \quad \left|\frac{y}{z} - \frac{z}{y}\right|, \quad \left|\frac{z}{x} - \frac{x}{z}\right|$$ possono essere o meno le lunghezze dei lati di un triangolo.
 
-[[src_rmo_1997__Q05]]
+[[Quesiti/src_rmo_1997#q05|src_rmo_1997__Q05]]
 
 
 
@@ -192,4 +192,4 @@ level: RMO
 > 
 > [ad esempio, se $X = \{a, b, c, d\}$, allora $\{\{a,b\}, \{b,c,d\}\}$, $\{\{a\}, \{a,b,c,d\}\}$, $\{\{a,b,c,d\}, \{b,c\}\}$, $\{\phi, \{a,b,c,d\}\}$ sono alcune delle coppie ammissibili.]
 
-[[src_rmo_1997__Q06]]
+[[Quesiti/src_rmo_1997#q06|src_rmo_1997__Q06]]

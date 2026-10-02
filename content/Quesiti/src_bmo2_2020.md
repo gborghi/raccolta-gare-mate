@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Una sequenza $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa: $$a_{n+1} = \frac{a_n(a_n - 1)}{2}$$ per tutti gli integri positivi $n$. Per quali valori di $a_1$ tutti i termini della sequenza sono numeri interi pari?
 
-[[src_bmo2_2020__Q01]]
+[[Quesiti/src_bmo2_2020#q01|src_bmo2_2020__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > *(Il radius circundiale di un triangolo è il radius del cerchio che attraversa tutte e tre le sue vertici.) *
 
-[[src_bmo2_2020__Q02]]
+[[Quesiti/src_bmo2_2020#q02|src_bmo2_2020__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 2
 > 
 > *(Due colorazioni sono diverse se in una di esse c'è almeno una cellula nera.) *
 
-[[src_bmo2_2020__Q03]]
+[[Quesiti/src_bmo2_2020#q03|src_bmo2_2020__Q03]]
 
 
 
@@ -130,4 +130,4 @@ level: BMO Round 2
 > 
 > Supponiamo che $b_1 = 1$ e $b_2 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare anche che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
 
-[[src_bmo2_2020__Q04]]
+[[Quesiti/src_bmo2_2020#q04|src_bmo2_2020__Q04]]

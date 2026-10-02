@@ -37,7 +37,7 @@ level: IMO
 > 
 > For any two distinct points $A$ and $B$ in $S$, the perpendicular bisector of the line segment $AB$ is an axis of symmetry for $S$.
 
-[[src_imho_1999__Q01]]
+[[Quesiti/src_imho_1999#q01|src_imho_1999__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: IMO
 > 
 > (b) For this constant $C$, determine when equality holds.
 
-[[src_imho_1999__Q02]]
+[[Quesiti/src_imho_1999#q02|src_imho_1999__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: IMO
 > 
 > Determine the smallest possible value of $N$.
 
-[[src_imho_1999__Q03]]
+[[Quesiti/src_imho_1999#q03|src_imho_1999__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: IMO
 > 
 > $p$ is a prime, $n$ not exceeded $2p$, and $(p-1)^n + 1$ is divisible by $n^{p-1}$.
 
-[[src_imho_1999__Q04]]
+[[Quesiti/src_imho_1999#q04|src_imho_1999__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: IMO
 > 
 > Prove that $CD$ is tangent to $G_2$.
 
-[[src_imho_1999__Q05]]
+[[Quesiti/src_imho_1999#q05|src_imho_1999__Q05]]
 
 
 
@@ -202,4 +202,4 @@ level: IMO
 
 > Determine all functions $f : \mathbf{R} \longrightarrow \mathbf{R}$ such that $$f(x - f(y)) = f(f(y)) + xf(y) + f(x) - 1$$ for all real numbers $x, y$.
 
-[[src_imho_1999__Q06]]
+[[Quesiti/src_imho_1999#q06|src_imho_1999__Q06]]

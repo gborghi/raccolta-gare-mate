@@ -1,9 +1,11 @@
 # Deploy runbook — raccolta-gare-mate
 
-Primary host: **Cloudflare Pages** → https://raccolta-gare-mate.pages.dev/ (project
-`raccolta-gare-mate`, wrangler **direct-upload**, NOT git-integrated).
-Mirror: **GitHub Pages** → `gborghi.github.io/raccolta-gare-mate` (auto-deployed by CI,
-`.github/workflows/deploy.yml`, on push to `main` — no manual step).
+Reference host: **GitHub Pages** → https://gborghi.github.io/raccolta-gare-mate/ (built by CI,
+`.github/workflows/deploy.yml`, on every push to `main` of this repo).
+Mirror: **Cloudflare Pages** → https://raccolta-gare-mate.pages.dev/ (project `raccolta-gare-mate`,
+wrangler direct-upload from the private repo `gborghi/garaMate-pages`). Cloudflare serves a
+byte-exact copy of the GitHub site: see "Mirror flow (GitHub = reference)" at the end. The local
+steps below remain valid for producing/publishing content; the Cloudflare upload now mirrors GitHub.
 
 `baseUrl` in `quartz.config.yaml` = `raccolta-gare-mate.pages.dev`. Build + deploy are **fully
 local** (the CF Pages build container can't do the 13 GB heap / 19k-source build). Auth:
@@ -70,3 +72,25 @@ build: it rebuilds `public/` from the committed `content/` and publishes to GitH
   the reason quesiti are collapsed into per-gara reader pages (see `../CLAUDE.md`).
 - The mirror serves via relative links; its homepage/hero buttons point at the CF domain
   (fine — the mirror is a fallback).
+
+## Mirror flow (GitHub = reference, Cloudflare = mirror) — since 2026-10-02
+
+1. Push to `main` of `gborghi/raccolta-gare-mate` → `deploy.yml` builds Quartz, runs
+   `concept_cooccurrence.mjs` and `shrink_build.mjs`. `shrink_build.mjs` ends with
+   `scripts/inject-quesito-search.mjs`, `scripts/fix-404.mjs` (base-path-independent 404),
+   `robots.txt`/`.nojekyll` and, LAST, `scripts/write-mirror-manifest.mjs` →
+   `public/mirror-manifest.json` (sha256 + size of every file, `source_sha` = commit built).
+2. Content link fixes are committed in `content/` (and re-applied by `preprocess.mjs`, which calls
+   `scripts/fix-content-links.mjs`): lower-case `_attachments` names, `[[src_X__Qnn]]` atom links →
+   `[[Quesiti/src_X#qnn|…]]`, unconverted PDFs → Google Drive (`pdf_drive_map.json`).
+3. Cloudflare job (`garaMate-pages`, `cf-deploy.yml`): its last post-build step
+   `node emit-cf-files.mjs` runs in mirror mode in CI (`CF_MIRROR=1` implied by `CI`):
+   `scripts/mirror-from-github.mjs` waits until GitHub Pages serves the manifest whose
+   `source_sha` is the latest `main` commit of this repo (max `MIRROR_WAIT_MIN`=45 min), downloads
+   every listed file, verifies each hash, and replaces `public/` with that copy; only `_headers` is
+   added. Any mismatch → the job fails instead of deploying a divergent site.
+   `CF_MIRROR=0 node emit-cf-files.mjs` restores the old "deploy the local build" behaviour.
+4. Navbar links, logo and `body[data-basepath]` are computed relative to the page (patched
+   `Navbar.tsx`, `renderPage.tsx`, `spa.inline.ts`), so the same bytes work under `/` (Cloudflare)
+   and `/raccolta-gare-mate/` (GitHub).
+5. Verify with `check.py` (gare-mirror): every reference file must be identical on both hosts.

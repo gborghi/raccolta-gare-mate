@@ -47,7 +47,7 @@ level: kangourou
 > From a circular cake a slice of the type indicated in the figure is cut (naturally the "top" of the slice is at the "center" of the cake). Knowing that the slice represents 15% of the entire cake, how many degrees is the angle indicated by the question mark? A) 30° B) 45° C) 54° D) 15° E) 20°
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q01]]
+[[Quesiti/src_kangourou_2003_junior#q01|src_kangourou_2003_junior__Q01]]
 
 
 
@@ -79,7 +79,7 @@ level: kangourou
 > A circular awning has a diameter of 1.2 m and nearby there is another circular awning whose area is 4 times the area of the first awning. What's the diameter of this second shell? A)  2,4 m B)  3,6 m C)  4,8 m D)  6,4 m       E)  9,6 m
 
 **Answer:** A
-[[src_kangourou_2003_junior__Q02]]
+[[Quesiti/src_kangourou_2003_junior#q02|src_kangourou_2003_junior__Q02]]
 
 
 
@@ -154,7 +154,7 @@ level: kangourou
 > In the figure three strips are indicated, all having the same horizontal width equal to a. The two lines r and s that delimit these strips are parallel. Which strip has larger area? A) The strips have the same area B) The strip 1 C) The strip 2 D) The strip 3 E) You cannot answer if you do not know a
 
 **Answer:** A
-[[src_kangourou_2003_junior__Q03]]
+[[Quesiti/src_kangourou_2003_junior#q03|src_kangourou_2003_junior__Q03]]
 
 
 
@@ -187,7 +187,7 @@ level: kangourou
 > Which of the following numbers is odd, whatever the integer n is? A) 2003n B) n2 + 2003 C)  n3 D) n + 2004      E) 2n2 + 2003
 
 **Answer:** E
-[[src_kangourou_2003_junior__Q04]]
+[[Quesiti/src_kangourou_2003_junior#q04|src_kangourou_2003_junior__Q04]]
 
 
 
@@ -235,7 +235,7 @@ Type of triangle with angles x,2x,3x*
 > I'm going to pay. I'm going to pay. 23 23 Kang 2003 Kang
 
 **Answer:** D
-[[src_kangourou_2003_junior__Q05]]
+[[Quesiti/src_kangourou_2003_junior#q05|src_kangourou_2003_junior__Q05]]
 
 
 
@@ -271,7 +271,7 @@ Type of triangle with angles x,2x,3x*
 > Three singers are to sing a canon made up of three lines of the same length and each one ends when they have sung the piece four times. The second singer begins when the first singer begins the second line and the third begins when the first begins the third line. How much of the total singing time is the time the three singers sing simultaneously? A) 3/5 B) 4/5 C) 4/7 D) 5/7 E) 7/11
 
 **Answer:** D
-[[src_kangourou_2003_junior__Q06]]
+[[Quesiti/src_kangourou_2003_junior#q06|src_kangourou_2003_junior__Q06]]
 
 
 
@@ -305,7 +305,7 @@ Type of triangle with angles x,2x,3x*
 > The first two terms of a sequence of numbers are 1 and 2 and each new term is obtained by dividing the term before the previous term by the previous term. What is the tenth term of succession? A) 2-10 B) 256 C) 2-13 D) 1024 E) 234
 
 **Answer:** E
-[[src_kangourou_2003_junior__Q07]]
+[[Quesiti/src_kangourou_2003_junior#q07|src_kangourou_2003_junior__Q07]]
 
 
 
@@ -342,7 +342,7 @@ Type of triangle with angles x,2x,3x*
 > The area of the square in Figure 1 is a; we call b the area of each of the circles in Figures 1 and 2. In Figure 2, the three aligned circles are enclosed by a rubber band. If the elastic is shortened so that it is in tension, without changing the position of the three circles, what is the area of the figure bounded by the elastic? A) 3b B) 2a+b C) a+2b D) 3a E) a+b
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q08]]
+[[Quesiti/src_kangourou_2003_junior#q08|src_kangourou_2003_junior__Q08]]
 
 
 
@@ -383,7 +383,7 @@ Type of triangle with angles x,2x,3x*
 > Using 4 modules, each made up of 4 cubes, a parallel piped was constructed as shown in the figure. Three of the four modules are clearly visible while only one face of the fourth (black). What's the fourth form? A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q09]]
+[[Quesiti/src_kangourou_2003_junior#q09|src_kangourou_2003_junior__Q09]]
 
 
 
@@ -433,7 +433,7 @@ Type of triangle with angles x,2x,3x*
 > I'm going to pay. I'm going to pay. 24 24 Kang 2003 Kang 2003 Questions from N. 11 al N. Twenty-one is worth four points each.
 
 **Answer:** D
-[[src_kangourou_2003_junior__Q10]]
+[[Quesiti/src_kangourou_2003_junior#q10|src_kangourou_2003_junior__Q10]]
 
 
 
@@ -549,7 +549,7 @@ Type of triangle with angles x,2x,3x*
 > In the rectangle ABCD, P, Q, R and S are the midpoints of the sides, as shown in the figure. If T is the midpoint of the RS segment, what fraction of the area of ABCD is occupied by the PQT triangle? A) 5/16 B) 1/4 C) 1/5 D) 1/6 E) 3/8
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q11]]
+[[Quesiti/src_kangourou_2003_junior#q11|src_kangourou_2003_junior__Q11]]
 
 
 
@@ -584,7 +584,7 @@ Type of triangle with angles x,2x,3x*
 > A kangaroo traveled, never stopping, a round trip in a total of 15 minutes. On the way, the speed was 5 m/s and on the way back, 4 m/s. The length of the one-way journey is A) 4.05 km B) 8.1 km C) 0.9 km D) 2 km E) impossible to determine with this information alone.
 
 **Answer:** D
-[[src_kangourou_2003_junior__Q12]]
+[[Quesiti/src_kangourou_2003_junior#q12|src_kangourou_2003_junior__Q12]]
 
 
 
@@ -618,7 +618,7 @@ Type of triangle with angles x,2x,3x*
 > When a tank is filled except that it contains 30% more liters than when it is filled only 30%. How many liters does the tank contain when it's full? A) 60 B) 75 C) 90 D) 100 E) 120
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q13]]
+[[Quesiti/src_kangourou_2003_junior#q13|src_kangourou_2003_junior__Q13]]
 
 
 
@@ -656,7 +656,7 @@ Type of triangle with angles x,2x,3x*
 > Anna and Barbara write the three-digit number 888, which is clearly a multiple of 8. Anna changes 2 of the three digits so that she gets the maximum possible number still multiple of 8 and Barbara instead changes two digits of 888 so that she gets the minimum possible number of three digits multiple of 8. What is the difference between the two results? A) 800 B) 840 C) 856 D) 864 E) 904
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q14]]
+[[Quesiti/src_kangourou_2003_junior#q14|src_kangourou_2003_junior__Q14]]
 
 
 
@@ -695,7 +695,7 @@ Type of triangle with angles x,2x,3x*
 > The figure shows four partially overlapping squares with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the grey area and the black area? A) 25 cm2 B) 36 cm2 C) 49 cm2 D) 64 cm2 E) 0 cm2
 
 **Answer:** D
-[[src_kangourou_2003_junior__Q15]]
+[[Quesiti/src_kangourou_2003_junior#q15|src_kangourou_2003_junior__Q15]]
 
 
 
@@ -766,7 +766,7 @@ Type of triangle with angles x,2x,3x*
 > I'm going to pay. I'm going to pay. 25 25 Kang 2003 Kang
 
 **Answer:** D
-[[src_kangourou_2003_junior__Q16]]
+[[Quesiti/src_kangourou_2003_junior#q16|src_kangourou_2003_junior__Q16]]
 
 
 
@@ -803,7 +803,7 @@ Type of triangle with angles x,2x,3x*
 > The drawing shows four semicircles with a radius of 1 cm. The centers of the semicircles coincide with the midpoints of the sides of the square. What is the radius of the circle tangent to the four semicircles? A) B) ? /2-1   C) D) E)
 
 **Answer:** A
-[[src_kangourou_2003_junior__Q17]]
+[[Quesiti/src_kangourou_2003_junior#q17|src_kangourou_2003_junior__Q17]]
 
 
 
@@ -836,7 +836,7 @@ Type of triangle with angles x,2x,3x*
 > Let's consider all the four-digit integers we can get by using each of the four digits of the 2003 number. Putting all these numbers together, what number do you get? A)   5005 B)  5555 C)  16665        D)  1110          E)  15555
 
 **Answer:** E
-[[src_kangourou_2003_junior__Q18]]
+[[Quesiti/src_kangourou_2003_junior#q18|src_kangourou_2003_junior__Q18]]
 
 
 
@@ -865,7 +865,7 @@ Type of triangle with angles x,2x,3x*
 > Let's use A to indicate the number 11111... 1111 formed from 2003 figures all equal to 1. What is the sum of the 2003 product figures for A ? A) 10000     B) 10015     C)  10020       D) 10030      E)  20032
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q19]]
+[[Quesiti/src_kangourou_2003_junior#q19|src_kangourou_2003_junior__Q19]]
 
 
 
@@ -902,7 +902,7 @@ Type of triangle with angles x,2x,3x*
 > A rectangular sheet of paper measuring 6 cm x 12 cm is folded along its diagonal. The two non-overlapping parts are cut off and the sheet is then reopened to form a roll. What is the length of the side of the rim? A) 3.5 cm B) 7.35 cm C) 7.5 cm D) 7.85 cm E) 8.1 cm I Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q20]]
+[[Quesiti/src_kangourou_2003_junior#q20|src_kangourou_2003_junior__Q20]]
 
 
 
@@ -940,7 +940,7 @@ Type of triangle with angles x,2x,3x*
 > What is the ratio of the areas of the ADE and ABC triangles shown in the figure? A) 9/4 B) 7/3 C) 4/5 D)15/10 E) 26/9
 
 **Answer:** A
-[[src_kangourou_2003_junior__Q21]]
+[[Quesiti/src_kangourou_2003_junior#q21|src_kangourou_2003_junior__Q21]]
 
 
 
@@ -1008,7 +1008,7 @@ Type of triangle with angles x,2x,3x*
 > I'm going to pay. I'm going to pay. 26 26 Kang 2003 Kang
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q22]]
+[[Quesiti/src_kangourou_2003_junior#q22|src_kangourou_2003_junior__Q22]]
 
 
 
@@ -1047,7 +1047,7 @@ How many kids are telling the truth?
 > There are four boys whose last names are White, Black, Red and Green. White says, "Red, Black and Green are girls". Red says, "White, Black and Green are boys". Black says, "White and Red are lying". Green says, "White, Red and Black are telling the truth". How many kids have told the truth? A) 0 B) 1 C) 2 D) 3 E) It cannot be determined.
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q23]]
+[[Quesiti/src_kangourou_2003_junior#q23|src_kangourou_2003_junior__Q23]]
 
 
 
@@ -1084,7 +1084,7 @@ How many kids are telling the truth?
 > In a box, 2003 tickets numbered from 1 to 2003 are placed. A ticket is drawn at random and then a second is drawn, without the first extract being reintroduced. At this point, the numbers of the extracted tickets are read in the order. So the probability that the second of the two numbers is greater than the first is A) more than 1/2 B) 1/2 C) between 1/3 and 1/2 D) 1/3 E) less than 1/3.
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q24]]
+[[Quesiti/src_kangourou_2003_junior#q24|src_kangourou_2003_junior__Q24]]
 
 
 
@@ -1119,7 +1119,7 @@ How many kids are telling the truth?
 > How many pairs (x,y) of real numbers satisfy the equation (x + y )2 = (x + 3) (y - 3) ? A) 0 B) 1 C) 2 D) 3 E) infinite
 
 **Answer:** B
-[[src_kangourou_2003_junior__Q25]]
+[[Quesiti/src_kangourou_2003_junior#q25|src_kangourou_2003_junior__Q25]]
 
 
 
@@ -1154,7 +1154,7 @@ How many kids are telling the truth?
 > What is the greatest number of consecutive integers greater than 0 such that for none of them the sum of the digits is divisible by 5 ? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** E
-[[src_kangourou_2003_junior__Q26]]
+[[Quesiti/src_kangourou_2003_junior#q26|src_kangourou_2003_junior__Q26]]
 
 
 
@@ -1191,7 +1191,7 @@ How many kids are telling the truth?
 > All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. (c) The number of physics books is not more than 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) I took nine books in a row, at least six of which are mathematical.
 
 **Answer:** A
-[[src_kangourou_2003_junior__Q27]]
+[[Quesiti/src_kangourou_2003_junior#q27|src_kangourou_2003_junior__Q27]]
 
 
 
@@ -1234,7 +1234,7 @@ How many kids are telling the truth?
 > I'm going to pay. I'm going to pay. 27 27 Kang 2003 Kang
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q28]]
+[[Quesiti/src_kangourou_2003_junior#q28|src_kangourou_2003_junior__Q28]]
 
 
 
@@ -1276,7 +1276,7 @@ How many kids are telling the truth?
 > The squares of a 2x3 chessboard are colored white or black as in Figure 1. Determine the minimum number of moves necessary to move from the configuration of Figure 1 to the configuration of Figure 2 if each move complies with the following rules: 1.- Only one and only one pair of adjacent boxes (i.e. two boxes having one side in common) must be changed in colour; 2.- black turns green, green turns white, white turns black. A) 3 B) 5 C) 6 D) 8 E) 9
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q29]]
+[[Quesiti/src_kangourou_2003_junior#q29|src_kangourou_2003_junior__Q29]]
 
 
 
@@ -1318,4 +1318,4 @@ How many kids are telling the truth?
 > Answers commented at JUNIOR level 2a and 3a above
 
 **Answer:** C
-[[src_kangourou_2003_junior__Q30]]
+[[Quesiti/src_kangourou_2003_junior#q30|src_kangourou_2003_junior__Q30]]

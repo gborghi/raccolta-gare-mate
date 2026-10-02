@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > Considera la matrice complessa $A = \begin{pmatrix} 1 & 0 & i \\ 0 & 0 & 0 \\ i & 0 & 1 \end{pmatrix}$. Calcolare $A^{2004}$.
 
-[[src_obm_2004_nu_f1__Q01]]
+[[Quesiti/src_obm_2004_nu_f1#q01|src_obm_2004_nu_f1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 
 > Valutare l'integrale $\displaystyle\int_{1}^{+\infty} \frac{x^{2004}}{1+x^{2004}}\,dx$.
 
-[[src_obm_2004_nu_f1__Q02]]
+[[Quesiti/src_obm_2004_nu_f1#q02|src_obm_2004_nu_f1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível Universitário
 
 > Determinare l'equazione della linea tangente alla curva $y = 3x^2 - 4x^3$ in due punti distinti.
 
-[[src_obm_2004_nu_f1__Q03]]
+[[Quesiti/src_obm_2004_nu_f1#q03|src_obm_2004_nu_f1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível Universitário
 
 > Quanti triplici ordinati $(A,\,B,\,C)$ di sottoinsiemi di $\{1,2,\ldots,n\}$ soddisfano $A \cap B \cap C = \varnothing$, $A \cap B \neq \varnothing$ e $A \cap C \neq \varnothing$?
 
-[[src_obm_2004_nu_f1__Q04]]
+[[Quesiti/src_obm_2004_nu_f1#q04|src_obm_2004_nu_f1__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível Universitário
 > 
 > b) Determinare il valore del limite di cui alla lettera a).
 
-[[src_obm_2004_nu_f1__Q05]]
+[[Quesiti/src_obm_2004_nu_f1#q05|src_obm_2004_nu_f1__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: OBM Nível Universitário
 
 > Calcolare $\displaystyle\sum_{k=1}^{\infty} \frac{1}{(3k+1)(3k+2)(3k+3)}$.
 
-[[src_obm_2004_nu_f1__Q06]]
+[[Quesiti/src_obm_2004_nu_f1#q06|src_obm_2004_nu_f1__Q06]]

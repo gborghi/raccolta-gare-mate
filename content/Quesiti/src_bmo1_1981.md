@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Prove che $AD_1 + AD_2 = BE_1 + BE_2 = CF_1 + CF_2$.
 
-[[src_bmo1_1981__Q01]]
+[[Quesiti/src_bmo1_1981#q01|src_bmo1_1981__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 1
 > 
 > Provare che $S_n$ è divisibile da $n!$, ma non necessariamente da $n!(n+1)$.
 
-[[src_bmo1_1981__Q02]]
+[[Quesiti/src_bmo1_1981#q02|src_bmo1_1981__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: BMO Round 1
 > 
 > (ii) $abc \ge (a+b-c)(b+c-a)(c+a-b)$.
 
-[[src_bmo1_1981__Q03]]
+[[Quesiti/src_bmo1_1981#q03|src_bmo1_1981__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: BMO Round 1
 > 
 > Prova che non può tagliare più di $\dfrac{n^2(n-2)}{4}$ del tetraedro di $S$ in sezioni incrociate quadrilaterali.
 
-[[src_bmo1_1981__Q04]]
+[[Quesiti/src_bmo1_1981#q04|src_bmo1_1981__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: BMO Round 1
 
 > Trova, con prova, il minimo valore possibile di $\left|12^m - 5^n\right|$, dove $m$ e $n$ sono interi positivi.
 
-[[src_bmo1_1981__Q05]]
+[[Quesiti/src_bmo1_1981#q05|src_bmo1_1981__Q05]]
 
 
 
@@ -198,4 +198,4 @@ level: BMO Round 1
 > 
 > Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
 
-[[src_bmo1_1981__Q06]]
+[[Quesiti/src_bmo1_1981#q06|src_bmo1_1981__Q06]]

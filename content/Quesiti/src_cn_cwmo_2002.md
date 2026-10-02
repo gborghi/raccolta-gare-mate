@@ -35,7 +35,7 @@ level: China Western Mathematical Olympiad
 
 > Trova tutti gli integri positivi $n$ in modo tale che $$n^4 - 4n^2 + 22n + 18$$ sia un quadrato perfetto. (Possibile da Pan Chengbiao)
 
-[[src_cn_cwmo_2002__Q01]]
+[[Quesiti/src_cn_cwmo_2002#q01|src_cn_cwmo_2002__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Western Mathematical Olympiad
 
 > Suppose $O$ is the circumcenter of an acute triangle $\triangle ABC$. $P$ is a point inside $\triangle AOB$, and $D$, $E$, $F$ are the projections of $P$ on three sides $BC$, $CA$, $AB$ of $\triangle ABC$ respectively. Prove that a parallelogram with $FE$ and $FD$ as adjacent sides lies inside $\triangle ABC$. (posed by Leng Ganpeng)
 
-![[src_cn_cwmo_2002__Q02.png]]
+![[src_cn_cwmo_2002__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -64,9 +64,9 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $O$ sia il centro circostante di un triangolo acuto $\triangle ABC$. $P$ è un punto all'interno di $\triangle AOB$, e $D$, $E$, $F$ sono le proiezioni di $P$ su tre lati $BC$, $CA$ e $AB$ di $\triangle ABC$ rispettivamente. Prova che un parallelo con $FE$ e $FD$ come lati adiacenti si trova all'interno di $\triangle ABC$. (Posizionato da Leng Ganpeng)
 
-![[src_cn_cwmo_2002__Q02.png]]
+![[src_cn_cwmo_2002__q02.png]]
 
-[[src_cn_cwmo_2002__Q02]]
+[[Quesiti/src_cn_cwmo_2002#q02|src_cn_cwmo_2002__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: China Western Mathematical Olympiad
 > Considerate un quadrato sul piano complesso. I numeri complessi corrispondenti ai suoi quattro vertici sono le quattro radici di qualche equazione del quarto grado con un coefficiente sconosciuto e interi $x^4 + px^3 + qx^2 + rx + s = 0$. Trova il valore minimo dell'area di tale quadrato. (Posizionato da Xiong Jin)
 
 **Risposta:** 2
-[[src_cn_cwmo_2002__Q03]]
+[[Quesiti/src_cn_cwmo_2002#q03|src_cn_cwmo_2002__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $n$ sia un intero positivo e $A_1, A_2, \ldots, A_{n+1}$ siano $n+1$ sottosette non vuote del set $\{1, 2, \ldots, n\}$. Prova che esistono due sottinsiemi dissociati e non vuoti $\{i_1, i_2, \ldots, i_k\}$ e $\{j_1, j_2, \ldots, j_m\}$ in modo tale che $$A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k} = A_{j_1} \cup A_{j_2} \cup \cdots \cup A_{j_m}.$$ (posato da Pan Chengbiao)
 
-[[src_cn_cwmo_2002__Q04]]
+[[Quesiti/src_cn_cwmo_2002#q04|src_cn_cwmo_2002__Q04]]
 
 
 
@@ -137,7 +137,7 @@ level: China Western Mathematical Olympiad
 
 > In a given trapezium $ABCD$, $AD \parallel BC$. Suppose $E$ is a variable point on $AB$. $O_1$ and $O_2$ are circumcenters of $\triangle AED$ and $\triangle BEC$ respectively. Prove that the length of $O_1O_2$ is a fixed value. (posed by Leng Ganpeng)
 
-![[src_cn_cwmo_2002__Q05.png]]
+![[src_cn_cwmo_2002__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -153,9 +153,9 @@ level: China Western Mathematical Olympiad
 
 > In un dato trapezio $ABCD$, $AD \parallel BC$. Supponiamo che $E$ sia un punto variabile su $AB$. $O_1$ e $O_2$ sono i circoncentri di $\triangle AED$ e $\triangle BEC$ rispettivamente. Provare che la lunghezza di $O_1O_2$ è un valore fisso. (Posizionato da Leng Ganpeng)
 
-![[src_cn_cwmo_2002__Q05.png]]
+![[src_cn_cwmo_2002__q05.png]]
 
-[[src_cn_cwmo_2002__Q05]]
+[[Quesiti/src_cn_cwmo_2002#q05|src_cn_cwmo_2002__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $n$ sia un dato numero intero positivo. Trova tutti i gruppi di numeri interi $(a_1, a_2, \ldots, a_n)$ che soddisfano le condizioni: (1) $a_1 + a_2 + \cdots + a_n \ge n^2$; (2) $a_1^2 + a_2^2 + \cdots + a_n^2 \le n^3 + 1$. (Possibile da Pan Chengbiao)
 
-[[src_cn_cwmo_2002__Q06]]
+[[Quesiti/src_cn_cwmo_2002#q06|src_cn_cwmo_2002__Q06]]
 
 
 
@@ -214,4 +214,4 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che $\alpha$, $\beta$ siano due radici dell'equazione $x^2 - x - 1 = 0$. Proviamo che per qualsiasi intero positivo $n$, abbiamo $a_{n+2} = a_{n+1} + a_n$. (2) Trovare tutti i numeri interi positivi $a$ e $b$, $a < b$, soddisfacendo che $b$ divide $a_n - 2a \cdot n^b$ per qualsiasi numero intero positivo $n$. (Posizionato da Li Shenghong)
 
-[[src_cn_cwmo_2002__Q07]]
+[[Quesiti/src_cn_cwmo_2002#q07|src_cn_cwmo_2002__Q07]]

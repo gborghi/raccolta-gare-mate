@@ -19,7 +19,7 @@ level: China National Team Selection Test
 
 > Let $O$ be the circumcenter of $\triangle ABC$ and $H_1$ be the projection of $A$ onto $BC$. The extension of $AO$ intersects the circumcircle of $\triangle BOC$ at $A'$. The projections of $A'$ onto $AB$ and $AC$ are $D$ and $E$, respectively. Let $O_1$ be the circumcenter of $\triangle DH_1E$. Define $H_2$, $O_2$, $H_3$ and $O_3$ similarly. Prove that $H_1$, $H_2$, $H_3$ and $O_1$, $O_2$, $O_3$ are concurrent.
 
-![[src_cn_ctst_b11_w166__Q01.png]]
+![[src_cn_ctst_b11_w166__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -35,9 +35,9 @@ level: China National Team Selection Test
 
 > Che $O$ sia il centro circundante di $\triangle ABC$ e $H_1$ sia la proiezione di $A$ su $BC$. L'estensione di $AO$ interseca il circoncircolo di $\triangle BOC$ a $A'$. Le proiezioni di $A'$ su $AB$ e $AC$ sono rispettivamente $D$ e $E$. Il $O_1$ deve essere il centro circostante di $\triangle DH_1E$. Definire $H_2$, $O_2$, $H_3$ e $O_3$ in modo simile. Provare che $H_1$, $H_2$, $H_3$ e $O_1$, $O_2$, $O_3$ sono simultanei.
 
-![[src_cn_ctst_b11_w166__Q01.png]]
+![[src_cn_ctst_b11_w166__q01.png]]
 
-[[src_cn_ctst_2014__Q01]]
+[[Quesiti/src_cn_ctst_2014#q01|src_cn_ctst_2014__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: China National Team Selection Test
 > 
 > (2) Trovare il numero di coloranti in modo tale da raggiungere il massimo $N$. (Due colorazioni sono diverse se qualche vertice è di colore diverso.)
 
-[[src_cn_ctst_2014__Q02]]
+[[Quesiti/src_cn_ctst_2014#q02|src_cn_ctst_2014__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: China National Team Selection Test
 
 > Mostrare che non ci sono $2$-tuples $(x, y)$ di numeri interi positivi che soddisfano l'equazione $$(x + 1)(y + 2)^{x-1}(y + 2014) = (y + 1)(x + 2)^{y-1}(x + 1023).$$ (posato da Li Weigu)
 
-[[src_cn_ctst_2014__Q03]]
+[[Quesiti/src_cn_ctst_2014#q03|src_cn_ctst_2014__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: China National Team Selection Test
 > 
 > (Proposto da Ya Hongbing)
 
-[[src_cn_ctst_2014__Q04]]
+[[Quesiti/src_cn_ctst_2014#q04|src_cn_ctst_2014__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: China National Team Selection Test
 > (Proposto da Leng Gangsong)
 
 **Risposta:** $\lambda_0(n) = \begin{cases} \dfrac{n}{4} & \text{if } n \text{ is even}, \\ \dfrac{n}{4\cos^2\!\left(\dfrac{\pi}{2n}\right)} & \text{if } n \text{ is odd}. \end{cases}$
-[[src_cn_ctst_2014__Q05]]
+[[Quesiti/src_cn_ctst_2014#q05|src_cn_ctst_2014__Q05]]
 
 
 
@@ -198,4 +198,4 @@ level: China National Team Selection Test
 > 
 > (Proposto da Ya Yijun)
 
-[[src_cn_ctst_2014__Q06]]
+[[Quesiti/src_cn_ctst_2014#q06|src_cn_ctst_2014__Q06]]

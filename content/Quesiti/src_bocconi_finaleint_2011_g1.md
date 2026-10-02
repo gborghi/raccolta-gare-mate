@@ -23,7 +23,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Per il suo compleanno, Salomone vuole tagliare la torta raffigurata a lato in quattro parti in modo che tutte le parti siano diverse, o per la dimensione o per forma. I tagli devono seguire le linee della quadrettatura. Salomone vuole che vi sia un uguale numero di ciliegie su ognuna delle parti. **Indicate il suo disegno come deve tagliare.**
 
-![[src_bocconi_finaleint_2011_g1__Q01.png]]
+![[src_bocconi_finaleint_2011_g1__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -39,9 +39,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > For his birthday, Solomon wants to cut the side-shaped cake into four pieces so that all the pieces are different, either in size or shape. The cuts must follow the lines of the square. Solomon wants an equal number of cherries on each side. **Make a drawing of how to cut it.**
 
-![[src_bocconi_finaleint_2011_g1__Q01.png]]
+![[src_bocconi_finaleint_2011_g1__q01.png]]
 
-[[src_bocconi_finaleint_2011_g1__Q01]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q01|src_bocconi_finaleint_2011_g1__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Bigio ha 4 biglie nere e 4 bianche. Ha anche 4 scatole. Mette due biglie in ogni scatola. Siccome è piuttosto dispettoso, il numero delle biglie nere (noires) che ha indicato su ogni scatola è falso. Sappiamo che vi sono più biglie bianche nell'ultima scatola a destra che nell'ultima a sinistra. **Dite quante biglie nere ha messo in ogni scatola.**
 
-![[src_bocconi_finaleint_2011_g1__Q02.png]]
+![[src_bocconi_finaleint_2011_g1__q02.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -71,10 +71,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Bigio has four black and four white balls. It also has four boxes. He puts two balls in each box. Since it's rather disgusting, the number of black beans (noires) that you've indicated on each box is false. We know there's more white balls in the last box on the right than in the last box on the left. Tell me how many black balls you put in each box.
 
-![[src_bocconi_finaleint_2011_g1__Q02.png]]
+![[src_bocconi_finaleint_2011_g1__q02.png]]
 
 **Answer:** 1120
-[[src_bocconi_finaleint_2011_g1__Q02]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q02|src_bocconi_finaleint_2011_g1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Padre Benedetto ha sistemato le sue chiavi in una scatola. Quando l'estremità di una chiave entra nella scanalaura di un'altra chiave, quest'ultima è bloccata e non può essere estratta dalla scatola. Per esempio, per estrarre la chiave 7, occorre prima estrarre la chiave 6 che la blocca. Invece la chiave 2 passa al di sopra della chiave 3 e non la blocca. Analogamente, la chiave 6 passa al di sopra della 8 e non la blocca. Se padre Benedetto vuole recuperare tutte le sue chiavi, **in quale ordine deve estrarle dalla scatola?**
 
-![[src_bocconi_finaleint_2011_g1__Q03.png]]
+![[src_bocconi_finaleint_2011_g1__q03.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -104,10 +104,10 @@ Order to extract keys from Father Benedict
 
 > Father Benedict put his keys in a box. When the end of a key enters the screwdriver of another key, the latter is locked and cannot be removed from the box. For example, to extract key 7, you need to first extract key 6 that blocks it. Instead, key 2 goes over key 3 and doesn't block it. Similarly, key 6 passes over key 8 and does not block it. If Father Benedict wants all his keys back, in what order should he take them out of the box?
 
-![[src_bocconi_finaleint_2011_g1__Q03.png]]
+![[src_bocconi_finaleint_2011_g1__q03.png]]
 
 **Answer:** 83142675
-[[src_bocconi_finaleint_2011_g1__Q03]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q03|src_bocconi_finaleint_2011_g1__Q03]]
 
 
 
@@ -120,7 +120,7 @@ Order to extract keys from Father Benedict
 
 > Le poste del Paese della Matematica emettono dei francobolli aventi quattro diversi valori. Non si devono mai incollare più di due esemplari dello stesso francobollo su di una busta. Tre dei valori dei francobolli emessi sono $1c$, $3c$ e $9c$. Il quarto valore permette di affrancare una busta per un qualsiasi valore totale intero minore o uguale a 80 centesimi. Per spedire in posta rapida una busta fino a 20 grammi occorre affrancarla per un valore di 58 centesimi. **Indicate il valore del quarto francobollo e scrivete sotto ogni francobollo quanti esemplari di tale francobollo devono essere incollati sulla busta per tale spedizione.**
 
-![[src_bocconi_finaleint_2011_g1__Q04.png]]
+![[src_bocconi_finaleint_2011_g1__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
@@ -137,10 +137,10 @@ Order to extract keys from Father Benedict
 
 > The Mathematics Country post offices issue stamps with four different values. No more than two copies of the same stamp shall ever be affixed to an envelope. Three of the stamp values issued are $1c$, $3c$ and $9c$. The fourth value allows you to free up an envelope for any integer total value less than or equal to 80 cents. To send a briefcase of up to 20 grams by fast mail, it must be redeemed at a value of 58 cents. Enter the value of the fourth stamp and write under each stamp how many copies of that stamp are to be affixed to the envelope for that shipment.
 
-![[src_bocconi_finaleint_2011_g1__Q04.png]]
+![[src_bocconi_finaleint_2011_g1__q04.png]]
 
 **Answer:** 27 centesimi; 1102 (2011 al contrario)
-[[src_bocconi_finaleint_2011_g1__Q04]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q04|src_bocconi_finaleint_2011_g1__Q04]]
 
 
 
@@ -169,7 +169,7 @@ Order to extract keys from Father Benedict
 > Caso plays with four chips whose faces are numbered from 1 to 8 (one digit per face). Throw the tokens out the first time and you get: $6$, $1$, $4$ and $3$ (the other faces are hidden). He throws them a second time and gets $1$, $3$, $5$ and $7$. Throw them out a third time and you get $3$, $7$, $2$ and $6$. The total of each launch is therefore $14$, $16$ and $18$ respectively. **If you throw them away a fourth time, what is the maximum total you will get? **
 
 **Answer:** 23
-[[src_bocconi_finaleint_2011_g1__Q05]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q05|src_bocconi_finaleint_2011_g1__Q05]]
 
 
 
@@ -182,7 +182,7 @@ Order to extract keys from Father Benedict
 
 > Toto aveva impostato quattro operazioni, ma ha macchiato con l'inchiostro il risultato dell'ultima. Le prime tre sono giuste. La quarta è tale che la divisione dà un risultato intero e il divisore è diverso da $1$. **Scrivete una cifra da 1 a 9 in ogni casella, utilizzando tutte le nove cifre. In ogni linea le cifre scritte in ogni casella devono essere ordinate da sinistra a destra in ordine decrescente.**
 
-![[src_bocconi_finaleint_2011_g1__Q06.png]]
+![[src_bocconi_finaleint_2011_g1__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -199,10 +199,10 @@ Order to extract keys from Father Benedict
 
 > Toto had set up four operations, but he stained the result with ink. The first three are right. The fourth is such that the division gives an integer result and the divisor is different from $1$. Enter a digit from 1 to 9 in each box using all nine digits. In each line the figures in each box must be ordered from left to right in descending order.**
 
-![[src_bocconi_finaleint_2011_g1__Q06.png]]
+![[src_bocconi_finaleint_2011_g1__q06.png]]
 
 **Answer:** 2
-[[src_bocconi_finaleint_2011_g1__Q06]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q06|src_bocconi_finaleint_2011_g1__Q06]]
 
 
 
@@ -215,7 +215,7 @@ Order to extract keys from Father Benedict
 
 > Il solido di Ottavio ha otto facce, ognuna delle quali è un triangolo. Si deve scrivere un numero da $1$ a $8$ su ogni faccia, utilizzandoli tutti. La somma dei numeri scritti su ognuno dei quadruple di triangoli con un vertice comune deve essere la stessa. **Scrivere i cinque numeri che mancano.**
 
-![[src_bocconi_finaleint_2011_g1__Q07.png]]
+![[src_bocconi_finaleint_2011_g1__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -231,9 +231,9 @@ Order to extract keys from Father Benedict
 
 > The Octavian solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each quadruple of triangles with a common vertex shall be the same. **Write out the five missing numbers.**
 
-![[src_bocconi_finaleint_2011_g1__Q07.png]]
+![[src_bocconi_finaleint_2011_g1__q07.png]]
 
-[[src_bocconi_finaleint_2011_g1__Q07]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q07|src_bocconi_finaleint_2011_g1__Q07]]
 
 
 
@@ -246,7 +246,7 @@ Order to extract keys from Father Benedict
 
 > Augusto ha una vecchia maglietta che ha disteso sul tavolo. Facendo due tagli rettilinei la ha tagliata in un certo numero di scampoli di tessuto. Per esempio, l'avesse tagliata come indicato nella figura avrebbe ottenuto 4 scampoli; la banda la maglietta fornisce due scampoli, in quanto passa per le aperture delle due maniche e quindi le due facce della maglietta formano due pezzi separati. **Supponendo che Augusto non sia autorizzato a spostare gli scampoli tagliati fra un taglio e un altro né a piegare la maglietta, quanti scampoli può ottenere al massimo con due tagli su tagli rettilinei? Disegnate questi tagli sulla figura.**
 
-![[src_bocconi_finaleint_2011_g1__Q08.png]]
+![[src_bocconi_finaleint_2011_g1__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -263,10 +263,10 @@ Order to extract keys from Father Benedict
 
 > Augustus has an old shirt that he laid on the table. By making two straight cuts, she cut it into a number of cloth sheets. For example, if he had cut it as shown in the figure he would have got 4 sleeves; the strip the shirt provides two sleeves, as it passes through the openings of the two sleeves and then the two faces of the shirt form two separate pieces. Assuming Augustus is not authorized to move the slices cut between one cut and another or to fold the shirt, how many slices can he get with two slices on straight cuts? Draw these cuts on the figure.**
 
-![[src_bocconi_finaleint_2011_g1__Q08.png]]
+![[src_bocconi_finaleint_2011_g1__q08.png]]
 
 **Answer:** 7
-[[src_bocconi_finaleint_2011_g1__Q08]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q08|src_bocconi_finaleint_2011_g1__Q08]]
 
 
 
@@ -279,7 +279,7 @@ Order to extract keys from Father Benedict
 
 > Clodovico aveva un bel vaso (vedi la figura), ma la ha per errore rotto in quattro pezzi. Questo vaso era formato da otto motivi, quattro quadrati e quattro rotondi. Ognuno dei quattro pezzi contiene un motivo quadrato e uno rotondo e le rotture si sono prodotte solo lungo le linee punteggiate. **Disegnate in tratti più spessi sulla figura le linee di rottura del vaso** (avanti: anteriore, arrière: posteriore, gauche: sinistra, droite: destra).
 
-![[src_bocconi_finaleint_2011_g1__Q09.png]]
+![[src_bocconi_finaleint_2011_g1__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -295,9 +295,9 @@ Order to extract keys from Father Benedict
 
 > Clovis had a beautiful vase (see figure), but he accidentally broke it into four pieces. This vessel was made up of eight motifs, four squares and four rounds. Each of the four pieces contains a square pattern and a round pattern, and the breaks occurred only along the dotted lines. **The lines of breakage of the vessel** are drawn in thicker strips on the figure (front: front, rear: back, left: left, droite: right).
 
-![[src_bocconi_finaleint_2011_g1__Q09.png]]
+![[src_bocconi_finaleint_2011_g1__q09.png]]
 
-[[src_bocconi_finaleint_2011_g1__Q09]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q09|src_bocconi_finaleint_2011_g1__Q09]]
 
 
 
@@ -326,7 +326,7 @@ Order to extract keys from Father Benedict
 > Apollonia is playing a math game. He writes a number, on the side of it he can read the same numbers in different possible order, and so on until he writes $'1'$. For example, it starts by writing $'323'$, then writes $'5'$ on the side, because in $'323'$ it reads the following different $4$ numbers: $2$, $30$, $32$ and $323$ (but not $33$, as it is necessary that the digits that make up the number read are placed next to each other). Then it starts again with $'5'$, in which it can read only the number $5$, then on the side of it it writes $'1'$, and stops. She then wrote three numbers below: $'323'$, $'5'$, $'1'$. Today, playing her game, Apollonia wrote $4$ numbers. **What is the smallest number from which it can be started? **
 
 **Answer:** 1230
-[[src_bocconi_finaleint_2011_g1__Q10]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q10|src_bocconi_finaleint_2011_g1__Q10]]
 
 
 
@@ -355,7 +355,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 > When a passenger flies with the airline AIR-MATHS, any kilogram of his personal luggage above a certain weight $P$ shall be taxed. The baggage of Mr and Mrs LEGGERI weighs in all $58$ kilos. LEGGERI baggage had to pay $11 €$ in full. The baggage of Mr and Mrs PESANTI also weighs a total of $58$ kg, but the baggage of Mr and Mrs PESANTI had to pay $20 €$. **What is the minimum weight of $P$ in kilograms? **
 
 **Answer:** 18 chilogrammi
-[[src_bocconi_finaleint_2011_g1__Q11]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q11|src_bocconi_finaleint_2011_g1__Q11]]
 
 
 
@@ -368,7 +368,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 
 > La figura rappresenta la sezione di un alveare. A ognuno dei $24$ vertici vi sono da $1$ a $6$ api. Le api ai $6$ vertici di ogni esagono devono essere in numero diverso. **Qual è al massimo il numero delle api nell'alveare?**
 
-![[src_bocconi_finaleint_2011_g1__Q12.png]]
+![[src_bocconi_finaleint_2011_g1__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -385,10 +385,10 @@ Minimum weight of luggage Mr and Mrs Leggeri
 
 > The figure represents the section of a hive. At each of the $24$ vertices there are from $1$ to $6$ bees. The bees at the $6$ vertices of each hexagon shall be in different numbers. **What is the maximum number of bees in the hive? **
 
-![[src_bocconi_finaleint_2011_g1__Q12.png]]
+![[src_bocconi_finaleint_2011_g1__q12.png]]
 
 **Answer:** 92
-[[src_bocconi_finaleint_2011_g1__Q12]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q12|src_bocconi_finaleint_2011_g1__Q12]]
 
 
 
@@ -401,7 +401,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 
 > Dividete questa figura in cinque parti sovrapponibili secondo le linee della quadrettatura. La sovrapposizione di due parti può richiedere che una delle due venga ribaltata.
 
-![[src_bocconi_finaleint_2011_g1__Q13.png]]
+![[src_bocconi_finaleint_2011_g1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -417,9 +417,9 @@ Minimum weight of luggage Mr and Mrs Leggeri
 
 > Divide this figure into five overlapping parts according to the lines of squaring. The overlap of two parts may require one of the two to be overturned.
 
-![[src_bocconi_finaleint_2011_g1__Q13.png]]
+![[src_bocconi_finaleint_2011_g1__q13.png]]
 
-[[src_bocconi_finaleint_2011_g1__Q13]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q13|src_bocconi_finaleint_2011_g1__Q13]]
 
 
 
@@ -448,7 +448,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 > In the game of chess, there's no more than one piece in every cell. At the end of a match the remaining pieces are arranged in such a way that there are exactly four pieces per square $3 \times 3$ on each side of the chessboard $8 \times 8$. **In total, how many pieces are left, at least? **
 
 **Answer:** 22
-[[src_bocconi_finaleint_2011_g1__Q14]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q14|src_bocconi_finaleint_2011_g1__Q14]]
 
 
 
@@ -461,7 +461,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 
 > La figura rappresenta le diverse aperture del dispositivo di una macchina fotografica. Abbiamo tracciato tutti i segmenti che congiungono due punti di una quadrettatura regolare separati fra loro da $7$ unità su un contorno di un quadrato o dei lati misurando $6$ unità. **Al centro, qual è la superficie che non è attraversata da alcun segmento?** Rispondete sotto forma di frazione irriducibile della superficie totale (quella del quadrato $6 \times 6$). Attenzione, l'occhio può ingannare.
 
-![[src_bocconi_finaleint_2011_g1__Q15.png]]
+![[src_bocconi_finaleint_2011_g1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -478,10 +478,10 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 
 > The figure represents the different apertures of a camera device. We traced all the segments that connect two points of a regular square separated from each other by $7$ units on a contour of a square or sides by measuring $6$ units. **At the centre, what is the area that is not crossed by any segment?** Answer in the form of an irreducible fraction of the total area (that of the $6 \times 6$ square). Careful, the eye can deceive.
 
-![[src_bocconi_finaleint_2011_g1__Q15.png]]
+![[src_bocconi_finaleint_2011_g1__q15.png]]
 
 **Answer:** $\frac{101}{315}$
-[[src_bocconi_finaleint_2011_g1__Q15]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q15|src_bocconi_finaleint_2011_g1__Q15]]
 
 
 
@@ -510,7 +510,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 > A $AB$ anti-segment is the part of the $AB$ straight (taken on its outer side) of the $[AB]$ segment (taken on that straight side) since that segment is of no length (except when an anti-segment is composed of two hill-shaped halves). If $3$ anti-segments are plotted on a plane, they can divide the plane, at most, into $4$ regions. **In how many regions, at most, can we divide a plan by tracing anti-segments on it $2011$**
 
 **Answer:** 2 021 056
-[[src_bocconi_finaleint_2011_g1__Q16]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q16|src_bocconi_finaleint_2011_g1__Q16]]
 
 
 
@@ -539,7 +539,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 > A large cube $2011 \times 2011 \times 2011$ is composed of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. **How many small cubes does it intersect? **
 
 **Answer:** 9 099 271
-[[src_bocconi_finaleint_2011_g1__Q17]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q17|src_bocconi_finaleint_2011_g1__Q17]]
 
 
 
@@ -552,7 +552,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 
 > La figura rappresenta una testa di gufo, i cui occhi sono simmetrici relativamente all'asse verticale. In ogni occhio: $i)$ ogni lato del quadrilatero è tangente al cerchio piccolo; $ii)$ ogni vertice del quadrilatero è situato sul cerchio grande; $iii)$ il raggio del cerchio grande è $7$ volte più grande della distanza fra i centri dei due cerchi (si noti che la figura non rispetta questa proporzione). **Qual è il rapporto fra il raggio del cerchio piccolo e la distanza fra i centri dei due cerchi, in ogni occhio?** Si risponda sotto forma di una frazione irriducibile.
 
-![[src_bocconi_finaleint_2011_g1__Q18.png]]
+![[src_bocconi_finaleint_2011_g1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -569,7 +569,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 
 > The figure represents an owl head, whose eyes are symmetrical relative to the vertical axis. In each eye: $i)$ each side of the quadrilateral is tangent to the small circle; $ii)$ each vertex of the quadrilateral is located on the large circle; $iii)$ the radius of the large circle is $7$ times greater than the distance between the centers of the two circles (note that the figure does not meet this ratio). What is the ratio of the radius of the small circle to the distance between the centers of the two circles in each eye?
 
-![[src_bocconi_finaleint_2011_g1__Q18.png]]
+![[src_bocconi_finaleint_2011_g1__q18.png]]
 
 **Answer:** $\frac{24}{5}$
-[[src_bocconi_finaleint_2011_g1__Q18]]
+[[Quesiti/src_bocconi_finaleint_2011_g1#q18|src_bocconi_finaleint_2011_g1__Q18]]

@@ -35,7 +35,7 @@ level: Coupe Animath Automne
 > Trova il numero di numeri interi dispari tra 1 e 2019 inclusi.
 
 **Risposta:** 1010
-[[src_canimath_2019_automne__Q01]]
+[[Quesiti/src_canimath_2019_automne#q01|src_canimath_2019_automne__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Coupe Animath Automne
 > Monsieur Deschamps possiede polli e mucche; le galline hanno due gambe e le mucche quattro. Per prepararsi all'inverno, deve fare pantofole per tutti. Ha 160 animali in totale e deve fare 400 pantofole. Quante mucche possiede?
 
 **Risposta:** 40
-[[src_canimath_2019_automne__Q02]]
+[[Quesiti/src_canimath_2019_automne#q02|src_canimath_2019_automne__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Coupe Animath Automne
 
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni in modo che $\widehat{ABC} = 60^\circ$; non sappiamo quale vertice è l'apice. Trova tutti i valori possibili di $\widehat{ACB}$.
 
-[[src_canimath_2019_automne__Q03]]
+[[Quesiti/src_canimath_2019_automne#q03|src_canimath_2019_automne__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Coupe Animath Automne
 
 > Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale $IXJY$?
 
-[[src_canimath_2019_automne__Q04]]
+[[Quesiti/src_canimath_2019_automne#q04|src_canimath_2019_automne__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: Coupe Animath Automne
 
 > Quanti numeri interi tra 100 e 999 (inclusi) sono tali che le loro cifre formino una progressione aritmetica quando vengono lette da sinistra a destra?
 
-[[src_canimath_2019_automne__Q05]]
+[[Quesiti/src_canimath_2019_automne#q05|src_canimath_2019_automne__Q05]]
 
 
 
@@ -184,7 +184,7 @@ level: Coupe Animath Automne
 > 
 > Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
 
-[[src_canimath_2019_automne__Q06]]
+[[Quesiti/src_canimath_2019_automne#q06|src_canimath_2019_automne__Q06]]
 
 
 
@@ -214,7 +214,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > E' vero che se $a_1$, $a_2$, $b_1$, $b_2$, $c_1$, $d_1$, $c_2$, $d_2$ sono integri rigorosamente positivi in modo che $$\frac{a_1}{b_1} < \frac{c_1}{d_1} \quad \text{and} \quad \frac{a_2}{b_2} < \frac{c_2}{d_2},$$ si abbia sempre $$\frac{a_1 + c_1}{b_1 + d_1} < \frac{a_2 + c_2}{b_2 + d_2}\,?$$
 
-[[src_canimath_2019_automne__Q07]]
+[[Quesiti/src_canimath_2019_automne#q07|src_canimath_2019_automne__Q07]]
 
 
 
@@ -242,7 +242,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > Esiste un numero intero la cui rappresentazione decimale contiene esattamente 300 cifre uguali a $1$, nessun numero uguale a $0$, e che è un quadrato perfetto? Ad esempio, $9 = 3 \times 3$ è un quadrato perfetto ma $2$ non lo è.
 
-[[src_canimath_2019_automne__Q08]]
+[[Quesiti/src_canimath_2019_automne#q08|src_canimath_2019_automne__Q08]]
 
 
 
@@ -270,7 +270,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 > Monsieur Deschamps possiede polli e mucche; le galline hanno due gambe e le mucche quattro. Per prepararsi all'inverno, deve fare pantofole per tutti. Ha 160 animali in totale e deve fare 400 pantofole. Quante mucche possiede?
 
 **Risposta:** 40
-[[src_canimath_2019_automne__Q09]]
+[[Quesiti/src_canimath_2019_automne#q09|src_canimath_2019_automne__Q09]]
 
 
 
@@ -297,7 +297,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > Ho calzini di due colori diversi: 6 calzini blu e 6 calzini rossi. Ho disegnato diversi calzini a caso dal cassetto. Quante calzini devo disegnare, come minimo, per essere sicuro di avere due calzini di colori diversi?
 
-[[src_canimath_2019_automne__Q10]]
+[[Quesiti/src_canimath_2019_automne#q10|src_canimath_2019_automne__Q10]]
 
 
 
@@ -324,7 +324,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale $IXJY$?
 
-[[src_canimath_2019_automne__Q11]]
+[[Quesiti/src_canimath_2019_automne#q11|src_canimath_2019_automne__Q11]]
 
 
 
@@ -363,7 +363,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 > 
 > Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
 
-[[src_canimath_2019_automne__Q12]]
+[[Quesiti/src_canimath_2019_automne#q12|src_canimath_2019_automne__Q12]]
 
 
 
@@ -391,7 +391,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
 > Esiste un numero intero la cui rappresentazione decimale contiene esattamente 300 cifre uguali a $1$, nessun numero uguale a $0$, e che è un quadrato perfetto? Ad esempio, $9 = 3 \times 3$ è un quadrato perfetto ma $2$ non lo è.
 
-[[src_canimath_2019_automne__Q13]]
+[[Quesiti/src_canimath_2019_automne#q13|src_canimath_2019_automne__Q13]]
 
 
 
@@ -426,7 +426,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 > 
 > b) Mostrare che se $N = 2020$, Paul non può vincere.
 
-[[src_canimath_2019_automne__Q14]]
+[[Quesiti/src_canimath_2019_automne#q14|src_canimath_2019_automne__Q14]]
 
 
 
@@ -452,7 +452,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 
 > Lasciate che $ABC$ sia un triangolo. Che $E$ sia il piede dell'altitudine da $B$ del triangolo $ABC$ e $F$ il piede dell'altitudine da $C$ del triangolo $ABC$. $H$ sia il punto di intersezione delle linee $(BE)$ e $(CF)$, e $O$ il centro del cerchio circoscritto di $ABC$. Si noti che $H$ è l'ortocentro del triangolo. Indicare che $AF = AE$ e che il quadrilaterale $AFHE$ è un parallelo.
 
-[[src_canimath_2019_automne__Q15]]
+[[Quesiti/src_canimath_2019_automne#q15|src_canimath_2019_automne__Q15]]
 
 
 
@@ -487,7 +487,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 > 
 > $\triangleright$ la somma dei valori di tutti gli accordi è uguale a $1010^2$.
 
-[[src_canimath_2019_automne__Q16]]
+[[Quesiti/src_canimath_2019_automne#q16|src_canimath_2019_automne__Q16]]
 
 
 
@@ -516,4 +516,4 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 
 > Esiste una sequenza di integri rigorosamente positivi $a_0, a_1, \ldots$ tale che $$a_{n+2} = a_{n+1} + \sqrt{a_n + a_{n+1}}$$ per tutti gli integri $n \ge 0$?
 
-[[src_canimath_2019_automne__Q17]]
+[[Quesiti/src_canimath_2019_automne#q17|src_canimath_2019_automne__Q17]]

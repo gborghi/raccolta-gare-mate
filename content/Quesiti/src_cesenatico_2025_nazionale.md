@@ -37,7 +37,7 @@ level: nazionale
 > For every positive integer n, we indicate with s(n) the sum of the digits of n in the normal representation in base 10. For example, s(7) = 7 and s(10654) = 16. (a) Determine the smallest positive integer n such that n = 225 · s(n). (b) Determine the smallest positive integer n such that n = 225 · s(n) 2.
 
 **Answer:** 2025 e 72900
-[[src_cesenatico_2025_nazionale__Q01]]
+[[Quesiti/src_cesenatico_2025_nazionale#q01|src_cesenatico_2025_nazionale__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: nazionale
 > Determine for which integer values of the set of integers x satisfying the inequality 10x2 + at ≤33x is exactly one element.
 
 **Answer:** 24,25,26
-[[src_cesenatico_2025_nazionale__Q02]]
+[[Quesiti/src_cesenatico_2025_nazionale#q02|src_cesenatico_2025_nazionale__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: nazionale
 
 > Given a positive integer n, be pn the number of distinct primes dividing n. For example, p ((12) = 2 and p ((120) = 3. An integer n is said to be balanced if p(n) is even, and imbalanced if p(n) is odd. Demonstrate that there are infinite pairs of consecutive positive integers that are both balanced or both unbalanced.
 
-[[src_cesenatico_2025_nazionale__Q03]]
+[[Quesiti/src_cesenatico_2025_nazionale#q03|src_cesenatico_2025_nazionale__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: nazionale
 > A set S is said to be annual if it is composed of positive real numbers (distinguished) by 2025. For each set of years S, we indicate with d(S) the number of powers of 2, with distinct positive integers, which can be written as the sum of two distinct elements of S. Determine the maximum of dS for the variation of S between all sets of years.
 
 **Answer:** 2024
-[[src_cesenatico_2025_nazionale__Q04]]
+[[Quesiti/src_cesenatico_2025_nazionale#q04|src_cesenatico_2025_nazionale__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: nazionale
 
 > Both ABC is a triangle and D is the foot of the beetle coming out of A. The axis of the AD segment intersects the circumference circumscribed at ABC in E and F, with E and B being opposite sides to the straight AD. Both G the intersection between BE and DF, and H the intersection between CF and DE. Demonstrate that the GH and BC directions are parallel.
 
-[[src_cesenatico_2025_nazionale__Q05]]
+[[Quesiti/src_cesenatico_2025_nazionale#q05|src_cesenatico_2025_nazionale__Q05]]
 
 
 
@@ -252,4 +252,4 @@ level: nazionale
 > 
 > Problem two  Solution. The only values of a for which the dissection has a single whole solution are 24, 25, 26. To prove this, we write the dissection in the form p(x) = x(33 −10x) ≥a. Now let's see that the polynomial p(x) takes negative or zero values when x ≤0 or x ≥4, and so, when x varies in integers, the largest values that the polynomial takes are p(1) = 23, p(2) = 26, and p(3) = 9. Consequently • if ≥27 does not have whole solutions, • if ≤23 has at least two whole solutions, i.e. x = 1 and x = 2, • if a = 24, 25, 26 the only whole solution is x = 2.
 
-[[src_cesenatico_2025_nazionale__Q06]]
+[[Quesiti/src_cesenatico_2025_nazionale#q06|src_cesenatico_2025_nazionale__Q06]]

@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Il triangolo $ABC$ soddisfa $AB = AC \neq BC$. Il punto $D$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle ABD = \angle ACD = 30^\circ$. Indicare che i bisettori angolari di $\angle ACB$ e $\angle ADB$ si intersecano in un punto laterale $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jjmo17mq_honsen__Q01]]
+[[Quesiti/src_jjmo17mq_honsen#q01|src_jjmo17mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Honsen
 
 > Ci sono scatole $n$, ciascuna contenente una palla dipinta in un colore. Le palle usano esattamente $10$ colori in totale, e le palle adiacenti (nelle scatole vicine) hanno colori diversi. Ogni palla ha un numero intero scritto su di essa. È noto che per ogni coppia di colori, la somma dei numeri interi su tutte le palle di quei due colori è uguale (cioè, la somma dei numeri interi su palle di ogni colore è la stessa per tutti i colori $10$). Trova il valore minimo possibile di $n$.
 
-[[src_jjmo17mq_honsen__Q02]]
+[[Quesiti/src_jjmo17mq_honsen#q02|src_jjmo17mq_honsen__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: JJMO Honsen
 > 
 > (2) Trovare tutte le coppie di integri positivi $(a, b)$ per le quali l'uguaglianza vale nell'ineguaglianza di cui sopra.
 
-[[src_jjmo17mq_honsen__Q03]]
+[[Quesiti/src_jjmo17mq_honsen#q03|src_jjmo17mq_honsen__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: JJMO Honsen
 > 
 > Quando tutti i quadrati $n^2$ sono stati visitati, trovare il numero minimo possibile di volte che il pezzo si è spostato orizzontalmente o verticalmente (cioè non diagonalmente) durante la partita.
 
-[[src_jjmo17mq_honsen__Q04]]
+[[Quesiti/src_jjmo17mq_honsen#q04|src_jjmo17mq_honsen__Q04]]
 
 
 
@@ -162,4 +162,4 @@ level: JJMO Honsen
 
 > Che $ABC$ sia un triangolo con $AB \neq AC$. $M$ sia il punto medio del lato $BC$ e $N$ sia il punto medio dell'arco $BC$ (l'arco contenente $A$) del circoncircolo del triangolo $ABC$. Il $H$ deve essere il piede della perpendicolare da $N$ alla linea $AC$. Il $K$ deve essere il punto di intersezione, diverso da $C$, del circoncircolo del triangolo $AMC$ e della linea $CN$. Prove che $\angle AKH = \angle CAM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jjmo17mq_honsen__Q05]]
+[[Quesiti/src_jjmo17mq_honsen#q05|src_jjmo17mq_honsen__Q05]]

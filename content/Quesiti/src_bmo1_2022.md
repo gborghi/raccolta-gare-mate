@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > (Due espressioni sono considerate diverse se contengono numeri diversi. L'ordine dei numeri che formano una somma è irrilevante.)
 
-[[src_bmo1_2022__Q01]]
+[[Quesiti/src_bmo1_2022#q01|src_bmo1_2022__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > One day Arun and Disha played several games of table tennis. At five points during the day, Arun calculated the percentage of the games played so far that he had won. The results of these calculations were exactly 30%, exactly 40%, exactly 50%, exactly 60% and exactly 70% in some order. What is the smallest possible number of games they played?
 
-[[src_bmo1_2022__Q02]]
+[[Quesiti/src_bmo1_2022#q02|src_bmo1_2022__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 > 
 > (Due pile sono diverse se contengono numeri diversi di pezzi d'oro di un certo peso. La disposizione dei pezzi nelle pile è irrilevante.)
 
-[[src_bmo1_2022__Q03]]
+[[Quesiti/src_bmo1_2022#q03|src_bmo1_2022__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 > 
 > (Un arco minore di un cerchio è il più breve dei due archi con determinati punti terminali.)
 
-[[src_bmo1_2022__Q04]]
+[[Quesiti/src_bmo1_2022#q04|src_bmo1_2022__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: BMO Round 1
 
 > Un insieme $N$ è un insieme di diversi integri positivi che comprende un dato intero positivo $N$. La media $m(N)$ deve essere la più piccola possibile di qualsiasi set $N$. Per quanti valori $N$ inferiori al 2021 $m(N)$ è un numero intero?
 
-[[src_bmo1_2022__Q05]]
+[[Quesiti/src_bmo1_2022#q05|src_bmo1_2022__Q05]]
 
 
 
@@ -196,4 +196,4 @@ level: BMO Round 1
 > 
 > Quando Marvin sarà finito, quante delle liste avranno una somma pari a 999.999?
 
-[[src_bmo1_2022__Q06]]
+[[Quesiti/src_bmo1_2022#q06|src_bmo1_2022__Q06]]

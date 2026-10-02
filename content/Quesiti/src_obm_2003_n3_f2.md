@@ -35,7 +35,7 @@ level: OBM Nível 3
 > Nel triangolo $ABC$, $M$ è il punto medio del lato $AC$, $D$ è un punto sul lato $BC$ in modo tale che $AD$ divisa l'angolo $\widehat{BAC}$, e $P$ è l'intersezione di $AD$ e $BM$. Poiché la superficie di $ABC$ è $100$, $AB = 10$ e $AC = 30$, si trova la superficie del triangolo $APB$.
 
 **Risposta:** 20
-[[src_obm_2003_n3_f2__Q01]]
+[[Quesiti/src_obm_2003_n3_f2#q01|src_obm_2003_n3_f2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 3
 
 > Diciamo che un numero a 4 cifre $N$ è un **biquadrato** se equivale alla somma dei quadrati di due numeri: uno formato dalle prime due cifre di $N$ e l'altro formato dalle ultime due cifre di $N$, nell'ordine in cui appaiono in $N$. Ad esempio, $1233$ è un biquadrato perché $1233 = 12^2 + 33^2$. **Nota:** Un numero a 4 cifre non può iniziare con lo zero. Trova tutti i numeri quadrati.
 
-[[src_obm_2003_n3_f2__Q02]]
+[[Quesiti/src_obm_2003_n3_f2#q02|src_obm_2003_n3_f2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível 3
 
 > Tra $15$ diversi numeri reali tutti più grandi di $1$, non possono essere tre le lunghezze laterali di un triangolo. Quali sono i valori possibili per il più grande dei numeri $15$?
 
-[[src_obm_2003_n3_f2__Q03]]
+[[Quesiti/src_obm_2003_n3_f2#q03|src_obm_2003_n3_f2__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: OBM Nível 3
 
 > Il triangolo $ABC$ è angolato a destra a $A$. Tra tutti i punti $P$ sul perimetro del triangolo, trova quello che riduce al minimo $AP + BP + CP$.
 
-[[src_obm_2003_n3_f2__Q04]]
+[[Quesiti/src_obm_2003_n3_f2#q04|src_obm_2003_n3_f2__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 3
 > Un quadrato di lato $3$ è diviso in quadrati di unità $9$ che formano una griglia $3 \times 3$. Ogni quadrato unitario è dipinto blu o rosso, ogni colore scelto con probabilità $\frac{1}{2}$, indipendentemente dagli altri. Qual è la probabilità che, dopo aver colorato tutti i quadrati unitari, almeno un quadrato $2 \times 2$ (allineato con la griglia) sia interamente di un colore?
 
 **Risposta:** \dfrac{95}{256}
-[[src_obm_2003_n3_f2__Q05]]
+[[Quesiti/src_obm_2003_n3_f2#q05|src_obm_2003_n3_f2__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: OBM Nível 3
 > Calcolare la somma $$\sum_{i=0}^{n} \frac{2^{i+1}}{3^{2^i}+1} = \frac{2}{3^1+1} + \frac{2^2}{3^2+1} + \frac{2^3}{3^{2^2}+1} + \cdots + \frac{2^{n+1}}{3^{2^n}+1}.$$
 
 **Risposta:** 1 - \dfrac{2^{n+1}}{3^{2^{n+1}}-1}
-[[src_obm_2003_n3_f2__Q06]]
+[[Quesiti/src_obm_2003_n3_f2#q06|src_obm_2003_n3_f2__Q06]]

@@ -81,7 +81,7 @@ level: Concours Général
 > 
 > 5. $E$ sia l'insieme di numeri interi $n \ge 2$ che hanno solo esponenti strettamente superiori a $1$ nella loro decomposizione in fattori primi. (a) Per ogni numero intero $a \ge 2$, indicare che esistono numeri interi naturali $\alpha$ e $\beta$ in modo tale che $a = 2\alpha + 3\beta.$ (b) dedurre da questo che se $n$ appartiene a $E$, allora esiste un elemento $m$ di $E$ in modo tale che $f(m) = n.$ (c) Indicare un elemento $m$ di $E$ in modo tale che $f(m) = 2012^{2012}.$ (d) Cosa si può dire dell'inverso di (b)?
 
-[[src_cgen_2012__Q01]]
+[[Quesiti/src_cgen_2012#q01|src_cgen_2012__Q01]]
 
 
 
@@ -112,7 +112,7 @@ level: Concours Général
 > 
 > Che $(u_n)_{n \ge 0}$ sia una sequenza di numeri reali rigorosamente positivi in modo tale che $u_0 = 1$ e, per ogni numero intero $n \ge 1$, almeno la metà dei termini $u_0, u_1, \ldots, u_{n-1}$ siano superiori o uguali a $2u_n$. Indicare che $u_n$ tende a $0.$
 
-[[src_cgen_2012__Q02]]
+[[Quesiti/src_cgen_2012#q02|src_cgen_2012__Q02]]
 
 
 
@@ -168,4 +168,4 @@ level: Concours Général
 > 
 > 1. Quanti viaggi ci sono? 2. a) Indicare che ogni viaggio ha una lunghezza superiore o pari a $2(n-1)$. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
 
-[[src_cgen_2012__Q03]]
+[[Quesiti/src_cgen_2012#q03|src_cgen_2012__Q03]]

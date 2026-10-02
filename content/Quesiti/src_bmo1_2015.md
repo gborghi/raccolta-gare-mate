@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > In ordine crescente di dimensioni, inserire i seguenti numeri e giustificare il proprio ragionamento: $$3^{3^4},\ 3^{4^3},\ 3^{4^4},\ 4^{3^3}\ \text{and}\ 4^{3^4}.$$ Nota che $a^{b^c}$ significa $a^{(b^c)}$.
 
-[[src_bmo1_2015__Q01]]
+[[Quesiti/src_bmo1_2015#q01|src_bmo1_2015__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Gli integri positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Prova che se $p$ è un primo superiore a 3, allora $a$ è un multiple di 12 e $2(p+a+1)$ è un quadrato perfetto.
 
-[[src_bmo1_2015__Q02]]
+[[Quesiti/src_bmo1_2015#q02|src_bmo1_2015__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 1
 
 > Un hotel ha dieci camere lungo ogni lato di un corridoio. Un capo di squadra olimpico desidera prenotare sette stanze sul corridoio in modo che non siano adiacenti due stanze riservate sullo stesso lato del corridoio. In quanti modi si può farlo?
 
-[[src_bmo1_2015__Q03]]
+[[Quesiti/src_bmo1_2015#q03|src_bmo1_2015__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: BMO Round 1
 
 > Che $x$ sia un numero reale tale che $t = x + x^{-1}$ sia un numero intero superiore a 2. Prove che $t_n = x^n + x^{-n}$ è un intero per tutti i numeri interi positivi $n$. Determinare i valori di $n$ per i quali $t$ divide $t_n$.
 
-[[src_bmo1_2015__Q04]]
+[[Quesiti/src_bmo1_2015#q04|src_bmo1_2015__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: BMO Round 1
 
 > Che il $ABCD$ sia un quadrilaterale ciclico. Il $F$ deve essere il punto medio dell'arco $AB$ del suo circoncircolo che non contiene $C$ o $D$. Lasciate che le linee $DF$ e $AC$ si incontrino a $P$ e le linee $CF$ e $BD$ si incontrino a $Q$. Prove che le linee $PQ$ e $AB$ sono parallele.
 
-[[src_bmo1_2015__Q05]]
+[[Quesiti/src_bmo1_2015#q05|src_bmo1_2015__Q05]]
 
 
 
@@ -170,4 +170,4 @@ level: BMO Round 1
 
 > Determinare tutte le funzioni $f(n)$ dai numeri interi positivi ai numeri interi positivi che soddisfano la seguente condizione: quando $a$, $b$ e $c$ sono numeri interi positivi come $1/a + 1/b = 1/c$, allora $$1/f(a) + 1/f(b) = 1/f(c).$$
 
-[[src_bmo1_2015__Q06]]
+[[Quesiti/src_bmo1_2015#q06|src_bmo1_2015__Q06]]

@@ -38,7 +38,7 @@ The value of the underlying asset shall be the value of the underlying asset.
 > The value of the expression (1 −2) −(3 −4) −(5 −6) −... −(99 −100) è A) 0 B) 49 C) − 48        D) 48         E) 50
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q01]]
+[[Quesiti/src_kangourou_2004_junior#q01|src_kangourou_2004_junior__Q01]]
 
 
 
@@ -69,7 +69,7 @@ The value of the underlying asset shall be the value of the underlying asset.
 > You have 2004 coriandals (each of one color). Half of them are blue, a quarter are red and a sixth are green. How many other colors are there? A) 167         B) 334        C) 501        D) 1002      E) 1837
 
 **Answer:** A
-[[src_kangourou_2004_junior__Q02]]
+[[Quesiti/src_kangourou_2004_junior#q02|src_kangourou_2004_junior__Q02]]
 
 
 
@@ -98,7 +98,7 @@ Mirrors of a pyramid with 7 faces
 > A pyramid has seven faces. How many branches do you have? A) 7            B) 8            C) 12          D) 14         E) 21
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q03]]
+[[Quesiti/src_kangourou_2004_junior#q03|src_kangourou_2004_junior__Q03]]
 
 
 
@@ -135,7 +135,7 @@ Mirrors of a pyramid with 7 faces
 > In an ABCD quadrilateral some angles are known (see Figure, where the measurements are given in degrees). We also know that the BC side is as long as the AD side. How many degrees does the angle A to C measure? A) 30          B) 50          C) 55          D) 65         E) 70
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q04]]
+[[Quesiti/src_kangourou_2004_junior#q04|src_kangourou_2004_junior__Q04]]
 
 
 
@@ -166,7 +166,7 @@ John's points in ping-pong (system)
 > Giovanni and Stefano are playing ping-pong. Right now, if John had five more points, he'd have doubled Stephen's, while if he had seven fewer points, he'd have half Stephen's. How many points does Giovanni have right now? A) 5            B) 7            C) 9           D) 11          E) 15
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q05]]
+[[Quesiti/src_kangourou_2004_junior#q05|src_kangourou_2004_junior__Q05]]
 
 
 
@@ -215,7 +215,7 @@ John's points in ping-pong (system)
 > I'm going to pay. I'm going to pay. 23 23 Kang 2004 Kang 2004
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q06]]
+[[Quesiti/src_kangourou_2004_junior#q06|src_kangourou_2004_junior__Q06]]
 
 
 
@@ -247,7 +247,7 @@ John's points in ping-pong (system)
 > The floor of a shed is rectangular in shape with sides of 40 meters and 60 meters. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimeters. What's the scale on the map? A) 1:50       B) 1:100       C) 1:150      D) 1:160     E) 1:200
 
 **Answer:** E
-[[src_kangourou_2004_junior__Q07]]
+[[Quesiti/src_kangourou_2004_junior#q07|src_kangourou_2004_junior__Q07]]
 
 
 
@@ -281,7 +281,7 @@ John's points in ping-pong (system)
 > In one tray, between cookies and chocolates, there are 30 candy bars in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q08]]
+[[Quesiti/src_kangourou_2004_junior#q08|src_kangourou_2004_junior__Q08]]
 
 
 
@@ -336,7 +336,7 @@ John's points in ping-pong (system)
 > The figure shows a target with three fields. The thickness of the two rings, black and white, is the same and is equal to the radius of the inner black circle. What's the ratio between the black ring area and the inner black circle area? A) 2            B) 3           C) 4            D) 5          E) 6
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q09]]
+[[Quesiti/src_kangourou_2004_junior#q09|src_kangourou_2004_junior__Q09]]
 
 
 
@@ -372,7 +372,7 @@ John's points in ping-pong (system)
 > The figure shows a section of a bench constructed using, as indicated, three half-circular trunks: two of a diameter of 2 decimeter each to be made from the base and one of a diameter of 4 decimeter to be made from the seats. How high is the bench? A) 3 B) C) 2,85 D) E) 2,5 I questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2004_junior__Q10]]
+[[Quesiti/src_kangourou_2004_junior#q10|src_kangourou_2004_junior__Q10]]
 
 
 
@@ -402,7 +402,7 @@ John's points in ping-pong (system)
 > Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied by them. Only one of the following numbers could be the product obtained: which? A) 100         B) 256        C) 768       D) 2048      E) 4096
 
 **Answer:** B
-[[src_kangourou_2004_junior__Q11]]
+[[Quesiti/src_kangourou_2004_junior#q11|src_kangourou_2004_junior__Q11]]
 
 
 
@@ -482,7 +482,7 @@ John's points in ping-pong (system)
 > I'm going to pay. I'm going to pay. 24 24 Kang 2004 Kang 2004
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q12]]
+[[Quesiti/src_kangourou_2004_junior#q12|src_kangourou_2004_junior__Q12]]
 
 
 
@@ -513,7 +513,7 @@ John's points in ping-pong (system)
 > How many numbers between 100 and 200 have their prime factors only the numbers 2 and/or 3? A) 2           B) 3            C) 4           D) 5           E) 6
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q13]]
+[[Quesiti/src_kangourou_2004_junior#q13|src_kangourou_2004_junior__Q13]]
 
 
 
@@ -554,7 +554,7 @@ John's points in ping-pong (system)
 > Look at the figure. In TANIC I, the base of which has an area of 2 square centimetres, the water reaches a height of 5 centimetres. The 7 cm high and 1 cm2 square of the base of the tank II is immersed, empty, in the bottom of the tank I until it is anchored. At this point a portion of the water flows into TANK II. How high does the water reach in TANK II? A) 1 cm B) 2 cm C) 3 cm D) 4 cm E) 5 cm
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q14]]
+[[Quesiti/src_kangourou_2004_junior#q14|src_kangourou_2004_junior__Q14]]
 
 
 
@@ -585,7 +585,7 @@ John's points in ping-pong (system)
 > A closed response test (such as Kangourou) consists of 20 questions. For each correct answer, 7 points are awarded, while for each wrong answer, 2 points are subtracted. Unsubmitted replies have no effect (0 points of charge). You passed the test and scored 87 points. How many questions have you not answered? A) 2           B) 3            C) 4           D) 5           E) 6
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q15]]
+[[Quesiti/src_kangourou_2004_junior#q15|src_kangourou_2004_junior__Q15]]
 
 
 
@@ -616,7 +616,7 @@ John's points in ping-pong (system)
 > A clock has a traditional dial (12 hours). The hour hand is 4 centimeters long, while the minute hand is 8 centimeters long. What is the relationship between the distances traveled from the ends of the two lances between noon and 3 p.m. on the same day? A) 1:2         B) 1:4         C) 1:6         D) 1:12        E) 1:24
 
 **Answer:** E
-[[src_kangourou_2004_junior__Q16]]
+[[Quesiti/src_kangourou_2004_junior#q16|src_kangourou_2004_junior__Q16]]
 
 
 
@@ -666,7 +666,7 @@ John's points in ping-pong (system)
 > I'm going to pay. I'm going to pay. 25 25 Kang 2004 Kang
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q17]]
+[[Quesiti/src_kangourou_2004_junior#q17|src_kangourou_2004_junior__Q17]]
 
 
 
@@ -701,7 +701,7 @@ John's points in ping-pong (system)
 > The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecahedron measures 36 centimetres. What's the square of the area in square centimeters worth? A) 48          B) 72          C) 108        D) 115,2      E) 144
 
 **Answer:** B
-[[src_kangourou_2004_junior__Q18]]
+[[Quesiti/src_kangourou_2004_junior#q18|src_kangourou_2004_junior__Q18]]
 
 
 
@@ -739,7 +739,7 @@ John's points in ping-pong (system)
 > Look at the figure. The circumference of centre C and centre D meet at points A and B. The angle A B measures 60 degrees, while the angle A B measures 90 degrees. What is the relationship between the greater and lesser of the two radii of the circumferences? A) 4:3         B) C) 3:2        D) E)2:1
 
 **Answer:** B
-[[src_kangourou_2004_junior__Q19]]
+[[Quesiti/src_kangourou_2004_junior#q19|src_kangourou_2004_junior__Q19]]
 
 
 
@@ -781,7 +781,7 @@ John's points in ping-pong (system)
 > A square 2003 side mosaic is obtained by attaching white tiles and gray tiles to side 1. The gray tiles are all only those centered on the diagonals (as in the figure, where the situation is represented by a side square 7). How many white tiles are there? A) 20022 B) 2002 x 2001 C) 20032 D) 2003 x 2004 E) 20042 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2004_junior__Q20]]
+[[Quesiti/src_kangourou_2004_junior#q20|src_kangourou_2004_junior__Q20]]
 
 
 
@@ -850,7 +850,7 @@ How many times did the climber go back?
 > I'm going to pay. I'm going to pay. 26 26 Kang 2004 Kang 2004 ra of Figure 1) and shows, instantly at a moment, the altitude at which the climber is located (in the instant 0 he starts from A while in the instant 1 he reaches B). How many times has the climber come back to look for something? A) 1             B) 2            C) 3           D) 4           E) 5
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q21]]
+[[Quesiti/src_kangourou_2004_junior#q21|src_kangourou_2004_junior__Q21]]
 
 
 
@@ -887,7 +887,7 @@ How many times did the climber go back?
 > The KLMN rim in the figure is obtained by folding two opposite vertices of an appropriate rectangle to match the midpoint of the diagonal. The shortest side of the rectangle measures . What's the size of the rim? A) 3             B)               C) 2           D) 4           E)3
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q22]]
+[[Quesiti/src_kangourou_2004_junior#q22|src_kangourou_2004_junior__Q22]]
 
 
 
@@ -922,7 +922,7 @@ How many times did the climber go back?
 > We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of equal place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the ninth step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find instead of 120? A) 16          B) 12          C) 8           D) 32          E) 24
 
 **Answer:** A
-[[src_kangourou_2004_junior__Q23]]
+[[Quesiti/src_kangourou_2004_junior#q23|src_kangourou_2004_junior__Q23]]
 
 
 
@@ -960,7 +960,7 @@ How many times did the climber go back?
 > Look at the figure. A rectangle is represented in which the diagonals are drawn and the segment joining a vertex to the middle of one of the sides that do not converge. What is the ratio between the length of the diagonal and the length of the PQ segment? (a) cannot be answered because it depends on the measures of the rectangle (b) 6 (c) 13/3 (d) 4 (e) 3
 
 **Answer:** B
-[[src_kangourou_2004_junior__Q24]]
+[[Quesiti/src_kangourou_2004_junior#q24|src_kangourou_2004_junior__Q24]]
 
 
 
@@ -1012,7 +1012,7 @@ How many times did the climber go back?
 > I'm going to pay. I'm going to pay. 27 27 Kang 2004 Kang
 
 **Answer:** D
-[[src_kangourou_2004_junior__Q25]]
+[[Quesiti/src_kangourou_2004_junior#q25|src_kangourou_2004_junior__Q25]]
 
 
 
@@ -1043,7 +1043,7 @@ How many times did the climber go back?
 > A rectangular pass is made with a 1 cm thick carpet that, rolled over itself for its entire length, provides a cylinder whose base is (approximately) a circle of 1 meter in diameter. Which of the following numbers is closest to the length of the pass in meters? A) 20         B) 50          C) 75         D) 150         E) 300
 
 **Answer:** C
-[[src_kangourou_2004_junior__Q26]]
+[[Quesiti/src_kangourou_2004_junior#q26|src_kangourou_2004_junior__Q26]]
 
 
 
@@ -1081,7 +1081,7 @@ How many times did the climber go back?
 > The figure shows two circles between them tangent to each other whose radii are in the ratio 1:2. The small circle continuously rolls, without creeping, within the large circle, along the edge of the latter which guides it. Which of the following is the trajectory from the small circle point P which, at the moment the figure refers to, is at the center of the large circle? A)              B)              C)               D) E)
 
 **Answer:** A
-[[src_kangourou_2004_junior__Q27]]
+[[Quesiti/src_kangourou_2004_junior#q27|src_kangourou_2004_junior__Q27]]
 
 
 
@@ -1112,7 +1112,7 @@ How many times did the climber go back?
 > How many integers n of exactly three digits (in decimal form), not more than 200, are such that the product (n + 1)(n + 2)(n + 3) is divisible by 7? A) 43         B) 31          C) 34          D) 24          E) 39
 
 **Answer:** A
-[[src_kangourou_2004_junior__Q28]]
+[[Quesiti/src_kangourou_2004_junior#q28|src_kangourou_2004_junior__Q28]]
 
 
 
@@ -1145,7 +1145,7 @@ How many times did the climber go back?
 > On the board were written, in increasing order, all integers from 1 to 10,000. Then all but those numbers that are not divisible by 5 or 11 were deleted, resulting in a new succession. Which of the remaining numbers comes in fourth place in this new sequence in 2004? A) 1000      B) 5000      C) 10000     D) 6545     E) 7348
 
 **Answer:** E
-[[src_kangourou_2004_junior__Q29]]
+[[Quesiti/src_kangourou_2004_junior#q29|src_kangourou_2004_junior__Q29]]
 
 
 
@@ -1183,4 +1183,4 @@ How many times did the climber go back?
 > The European Union has also adopted a number of amendments.
 
 **Answer:** B
-[[src_kangourou_2004_junior__Q30]]
+[[Quesiti/src_kangourou_2004_junior#q30|src_kangourou_2004_junior__Q30]]

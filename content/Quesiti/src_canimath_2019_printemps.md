@@ -37,7 +37,7 @@ level: Coupe Animath Printemps
 > 
 > Trova tutti i numeri reali $x$ in modo tale che $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
 
-[[src_canimath_2019_printemps__Q01]]
+[[Quesiti/src_canimath_2019_printemps#q01|src_canimath_2019_printemps__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Coupe Animath Printemps
 
 > Quanti sono i numeri a 8 cifre la cui espansione decimale ha la forma $\overline{ab2019cd}$ (dove $a$, $b$, $c$, $d$ sono cifre) e che sono divisibili da $360$?
 
-[[src_canimath_2019_printemps__Q02]]
+[[Quesiti/src_canimath_2019_printemps#q02|src_canimath_2019_printemps__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: Coupe Animath Printemps
 > 
 > Indicare che l'area del quadrilaterale $DXYZ$ soddisfa $a + b = c$.
 
-[[src_canimath_2019_printemps__Q03]]
+[[Quesiti/src_canimath_2019_printemps#q03|src_canimath_2019_printemps__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: Coupe Animath Printemps
 > 
 > Supponiamo che la somma dei numeri visibili a tutte e cinque le rane sia $10^1$ all'istante $1$, $10^2$ all'istante $2$, $10^3$ all'istante $3$, e in generale $10^k$ all'istante $k$. Qual è il valore più grande possibile di $k$ per il quale la somma può essere uguale a $10^k$?
 
-[[src_canimath_2019_printemps__Q04]]
+[[Quesiti/src_canimath_2019_printemps#q04|src_canimath_2019_printemps__Q04]]
 
 
 
@@ -157,7 +157,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Supponiamo che $x$ sia un numero reale positivo tale che $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Mostrare che $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$ e $\lfloor x^4 \rfloor$ sono tutti quadrati perfetti di numeri interi.
 
-[[src_canimath_2019_printemps__Q05]]
+[[Quesiti/src_canimath_2019_printemps#q05|src_canimath_2019_printemps__Q05]]
 
 
 
@@ -188,7 +188,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Indicare che le linee $(BP)$ e $(MN)$ sono perpendicolari.
 
-[[src_canimath_2019_printemps__Q06]]
+[[Quesiti/src_canimath_2019_printemps#q06|src_canimath_2019_printemps__Q06]]
 
 
 
@@ -219,7 +219,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Indicare che esiste $N$ in modo tale che per tutti $n > N$, il numero intero $u_n$ sia divisibile da $3^{2019}$.
 
-[[src_canimath_2019_printemps__Q07]]
+[[Quesiti/src_canimath_2019_printemps#q07|src_canimath_2019_printemps__Q07]]
 
 
 
@@ -250,4 +250,4 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Qual è il valore più grande possibile di $A + B$?
 
-[[src_canimath_2019_printemps__Q08]]
+[[Quesiti/src_canimath_2019_printemps#q08|src_canimath_2019_printemps__Q08]]

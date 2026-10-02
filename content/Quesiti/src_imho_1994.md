@@ -34,7 +34,7 @@ level: IMO
 
 > Let $m$ and $n$ be positive integers. Let $a_1, a_2, \ldots, a_m$ be distinct elements of $\{1, 2, \ldots, n\}$ such that whenever $a_i + a_j \le n$ for some $i, j$, $1 \le i \le j \le m$, there exists $k$, $1 \le k \le m$, with $a_k = a_i + a_j$. Prove that $$a_1 + a_2 + \cdots + a_m \ge \frac{n+1}{2}.$$
 
-[[src_imho_1994__Q01]]
+[[Quesiti/src_imho_1994#q01|src_imho_1994__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: IMO
 
 > $ABC$ is an isosceles triangle with $AB = AC$. Suppose that 1. $M$ is the midpoint of $BC$ and $O$ is the point on the line $AM$ such that $OB$ is perpendicular to $AB$; 2. $Q$ is an arbitrary point on the segment $BC$ different from $B$ and $C$; 3. $E$ lies on the line $AB$ and $F$ lies on the line $AC$ such that $E$, $Q$, $F$ are distinct and collinear. Prove that $OQ$ is perpendicular to $EF$ if and only if $QE = QF$.
 
-[[src_imho_1994__Q02]]
+[[Quesiti/src_imho_1994#q02|src_imho_1994__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: IMO
 
 > For any positive integer $k$, let $f(k)$ be the number of elements in the set $\{k+1, k+2, \ldots, 2k\}$ whose base $2$ representation has precisely three $1$s. (a) Prove that, for each positive integer $m$, there exists at least one positive integer $k$ such that $f(k) = m$. (b) Determine the positive integers $m$ for which there exists exactly one $k$ with $f(k) = m$.
 
-[[src_imho_1994__Q03]]
+[[Quesiti/src_imho_1994#q03|src_imho_1994__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: IMO
 
 > Determine to ordered pairs $(m, n)$ of positive integers such that $$\frac{n^3 + 1}{mn - 1}$$ is an integer.
 
-[[src_imho_1994__Q04]]
+[[Quesiti/src_imho_1994#q04|src_imho_1994__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: IMO
 
 > Let $S$ be the set of real numbers strictly greater than $-1$. Find all functions $f: S \to S$ satisfying the two conditions: 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ for all $x$ and $y$ in $S$; 2. $\dfrac{f(x)}{x}$ is strictly increasing on each of the intervals $-1 < x < 0$ and $0 < x$.
 
-[[src_imho_1994__Q05]]
+[[Quesiti/src_imho_1994#q05|src_imho_1994__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: IMO
 
 > Show that there exists a set $A$ of positive integers with the following property: for any infinite set $S$ of primes there exist two positive integers $m \in A$ and $n \notin A$ each of which is a product of $k$ distinct elements of $S$ for some $k \ge 2$.
 
-[[src_imho_1994__Q06]]
+[[Quesiti/src_imho_1994#q06|src_imho_1994__Q06]]

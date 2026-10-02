@@ -33,7 +33,7 @@ level: IOQM
 
 > Nel piano sono tracciate tre linee parallele $l_1, l_2, l_3$ in modo tale che la distanza perpendicolare tra $l_1$ e $l_2$ sia 3 e la distanza perpendicolare tra $l_2$ e $l_3$ sia anche 3. Un quadrato $ABCD$ è costruito in modo tale che $A$ si trova su $l_1$, $B$ si trova su $l_2$, $C$ si trova su $l_2$ e $D$ si trova su $l_3$. Trova l'area della piazza.
 
-[[src_ioqm_2021__Q01]]
+[[Quesiti/src_ioqm_2021#q01|src_ioqm_2021__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: IOQM
 
 > Ria scrive i numeri $1, 2, \ldots, 101$ in penne rosse e blu. Il numero blu più grande è pari al numero di numeri scritti in blu e il numero rosso più piccolo è pari alla metà del numero di numeri scritti in rosso. Quanti numeri ha scritto Ria con la penna rossa?
 
-[[src_ioqm_2021__Q02]]
+[[Quesiti/src_ioqm_2021#q02|src_ioqm_2021__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: IOQM
 
 > Considerate l'insieme $\mathcal{T}$ di tutti i triangoli i cui lati sono numeri primi distinti che sono anche in progressione aritmetica. $\triangle \in \mathcal{T}$ sia il triangolo con il minimo perimetro. Se $a^\circ$ è l'angolo più grande di $\triangle$ e $L$ è il suo perimetro, determinare il valore di $\dfrac{a}{L}$.
 
-[[src_ioqm_2021__Q03]]
+[[Quesiti/src_ioqm_2021#q03|src_ioqm_2021__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: IOQM
 
 > Considerate l'insieme di tutti i numeri a 6 cifre composti solo da 3 cifre, $a, b, c$ sono distinti. Supponiamo che la somma di tutti questi numeri sia 5939399406. Qual è il maggior residuo quando il numero a tre cifre $\overline{abc}$ è diviso da $100$?
 
-[[src_ioqm_2021__Q04]]
+[[Quesiti/src_ioqm_2021#q04|src_ioqm_2021__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: IOQM
 
 > Nel parallelo $ABCD$ il lato più lungo è il doppio del lato più breve. Il $XYZW$ è il quadrilaterale formato dai bisettori interni degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, si trova l'area di $ABCD$.
 
-[[src_ioqm_2021__Q05]]
+[[Quesiti/src_ioqm_2021#q05|src_ioqm_2021__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: IOQM
 
 > $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 49$, $xy + yz + zx = 36$ e $x^2 + \sqrt{3}xy + z^2 = 25$. Se il valore di $2xy + \sqrt{3}yz + sx$ può essere scritto come $p\sqrt{q}$ dove $p, q$ sono numeri interi e $q$ non è divisibile da un numero primo, trovare $p + q$.
 
-[[src_ioqm_2021__Q06]]
+[[Quesiti/src_ioqm_2021#q06|src_ioqm_2021__Q06]]
 
 
 
@@ -195,7 +195,7 @@ level: IOQM
 
 > Trova il numero di mappe $f : \{1, 2, 3\} \to \{1, 2, 3, 4, 5\}$ in modo tale che $f(i) \le f(j)$ ogni volta che $i < j$.
 
-[[src_ioqm_2021__Q07]]
+[[Quesiti/src_ioqm_2021#q07|src_ioqm_2021__Q07]]
 
 
 
@@ -224,7 +224,7 @@ level: IOQM
 
 > Per qualsiasi numero reale $t$, $[t]$ indichi il numero intero più grande $\le t$. Supponiamo che $N$ sia il numero intero più grande tale che $$\left[\sqrt{\left[\sqrt{N}\right]}\right] = 4$$ Trova la somma delle cifre di $N$.
 
-[[src_ioqm_2021__Q08]]
+[[Quesiti/src_ioqm_2021#q08|src_ioqm_2021__Q08]]
 
 
 
@@ -253,7 +253,7 @@ level: IOQM
 
 > Indicare $P_0 = (3, 1)$ e definire $P_{n+1} = (x_{n+1}, y_{n+1})$ per $n \ge 0$ con $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$ Indicare l'area del quadrilaterale formato dai punti $P_0, P_2, P_4, P_6, P_8$.
 
-[[src_ioqm_2021__Q09]]
+[[Quesiti/src_ioqm_2021#q09|src_ioqm_2021__Q09]]
 
 
 
@@ -282,7 +282,7 @@ level: IOQM
 
 > Supponiamo che $P$ sia il polinomio di grado minimo con coefficienti interi tali che $$P(\sqrt{7} + \sqrt{5}) = 2(\sqrt{7} - \sqrt{5})$$ Trova $P(2)$.
 
-[[src_ioqm_2021__Q10]]
+[[Quesiti/src_ioqm_2021#q10|src_ioqm_2021__Q10]]
 
 
 
@@ -309,7 +309,7 @@ level: IOQM
 
 > In quanti modi quattro coppie sposate possono sedersi in un giro con sedi identici in modo tale che uomini e donne occupino sedi alternativi e nessun marito si sedi accanto alla moglie?
 
-[[src_ioqm_2021__Q11]]
+[[Quesiti/src_ioqm_2021#q11|src_ioqm_2021__Q11]]
 
 
 
@@ -336,4 +336,4 @@ level: IOQM
 
 > Una tabella $12 \times 12$ è divisa in 144 quadrati unitari disegnando linee parallele ai lati. Si dice che due corve posizionate su due quadrati di unità non attaccano se non sono nella stessa colonna o nella stessa riga. Trovare il numero minimo $N$ in modo che se le corde $N$ sono posizionate sui quadrati di unità, una torre per quadrato, possiamo sempre trovare 7 corde in modo che non ci siano due che si attaccano.
 
-[[src_ioqm_2021__Q12]]
+[[Quesiti/src_ioqm_2021#q12|src_ioqm_2021__Q12]]

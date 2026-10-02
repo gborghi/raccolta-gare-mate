@@ -37,7 +37,7 @@ level: OBM Nível Universitário
 > Una moneta giusta viene lanciata ripetutamente: ogni testa aggiunge un punto e una coda ferma l'accumulo. Che $p_n$ sia la probabilità di avere, in un certo momento, esattamente $n$ punti. Certamente $p_0 = 1$ e $p_1 = \tfrac12$. L'unico modo per non raggiungere mai i punti $n$ è raggiungere i punti $n-1$ e poi ottenere le code, quindi $1 - p_n = \dfrac{p_{n-1}}{2}$. Determinare $p_n$ per ogni numero intero non negativo $n$. (Dichiarazione ricostruita dalla soluzione ufficiale; il modulo chiuso ottenuto è $p_n = \dfrac{2}{3} + \dfrac{1}{3}\left(-\dfrac12\right)^n$.)
 
 **Risposta:** p_n = 2/3 + (1/3)(-1/2)^n
-[[src_obm_2007_nu_f1__Q01]]
+[[Quesiti/src_obm_2007_nu_f1#q01|src_obm_2007_nu_f1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível Universitário
 > $f$ è la funzione $f(x) = \sum_{k=1}^{n}\left(\dfrac{a_k}{2}z^k + \dfrac{a_k}{2}z^{-k}\right)$ con $z = e^{ix}$. Determinare il periodo positivo più piccolo di $f$. (La soluzione ufficiale dimostra che $\dfrac{2\pi}{m}$ è un periodo ed è in effetti il più piccolo: scrivere $z = e^{ix}$ e $w = e^{ip}$, $f(x+p) = \sum_{k=1}^{n}\left(\dfrac{a_k w^k}{2}z^k + \dfrac{a_k w^{-k}}{2}z^{-k}\right)$; due funzioni razionali uguali per tutti i numeri complessi del modulo $1$ hanno coefficienti uguali, quindi $a_k w^k = a_k$ per $k=1,\ldots,n$; quindi ogni volta che $a_k \neq 0$ si necessita di $\dfrac{kp}{2\pi}\in\mathbb{Z}$, e $p$ deve essere un multiple di $\dfrac{2\pi}{m}$, dove $m = \gcd\{k : a_k \neq 0\}$.) Dichiarazione ricostruita dalla soluzione ufficiale.
 
 **Risposta:** 2*pi/m
-[[src_obm_2007_nu_f1__Q02]]
+[[Quesiti/src_obm_2007_nu_f1#q02|src_obm_2007_nu_f1__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: OBM Nível Universitário
 > La superficie dell'ellisse è $3x^2 + 2y^2 \le a$. I suoi semiacci sono $\sqrt{\dfrac{a}{3}}$ e $\sqrt{\dfrac{a}{2}}$, quindi $A(a) = \dfrac{\pi a}{\sqrt{6}}$. Il solido del problema può essere descritto come l'unione disgiunta di $$\{(x,y,z) : 3x^2 + 2y^2 \le z \le 0\}\ \text{ with }\ z \le b,\ b = \dfrac{\sqrt{21}-1}{10},$$ e $$\{(x,y,z) : 3x^2 + 2y^2 \le 1 - 5z^2\}\ \text{ with }\ z \le \dfrac{1}{\sqrt{5}}.$$ Calcolare il suo volume $$v = \int_{0}^{b} A(z)\,dz + \int_{b}^{1/\sqrt{5}} A(1 - 5z^2)\,dz = \int_{0}^{b}\dfrac{\pi z}{\sqrt{6}}\,dz + \int_{b}^{1/\sqrt{5}}\dfrac{\pi}{\sqrt{6}}(1 - 5z^2)\,dz.$$ (Dichiarazione ricostruita dalla soluzione ufficiale; alcuni dettagli che descrivono il solido sono parzialmente illeggibili nella fonte. Il valore ottenuto è $v = \dfrac{\pi}{\sqrt{6}}\left(\dfrac{31}{300} + \dfrac{2\sqrt{5}}{15} - \dfrac{7\sqrt{21}}{100}\right)$.)
 
 **Risposta:** v = (pi/sqrt(6))(31/300 + 2*sqrt(5)/15 - 7*sqrt(21)/100)
-[[src_obm_2007_nu_f1__Q03]]
+[[Quesiti/src_obm_2007_nu_f1#q03|src_obm_2007_nu_f1__Q03]]
 
 
 
@@ -134,7 +134,7 @@ Se 4a^2 è una potenza n-th perfetta allora <a-a> è una potenza n-th perfetta*
 
 > Supponiamo che $4a^2$ sia una potenza perfetta $n$-th. Prove che $|a|$ è anche una potenza perfetta $n$-th. (Segno ufficiale della soluzione: scrivere $|a| = 2^{c_1}\cdot 3^{c_2}\cdots p^{c_r}\cdots$ e dimostrare che ogni esponente $c_p$ è un multiple di $n$. Se $a = b\cdot p^c$ con $\gcd(b,p)=1$ allora $\gcd(b,p)=1$, e da $c^p\,p^{c}\equiv b\cdot p^{c}\pmod{p^{nd}}$ si ottiene $nd = c_p$, quindi $|a|$ è una potenza perfetta $n$-th. Resta da trattare il caso $n$ pari e $a > 0$: assumere per contraddizione $a < 0$ e scrivere $4a^2 = -2^{nd}\hat b$ con $\hat b < 0$; poiché $a^2$, $-2^{nd}$ sono quadrati modulo $4$, $\hat b$ dovrebbe anche essere uno, e $-\hat b$ essendo un quadrato perfetto dà $1 < \hat b$ con $\hat b \equiv -\hat b \pmod{2^{nd}}$, quindi $\hat b$ è un quadrato $\equiv$ valore impossibile modulo $4$  contraddizione.)
 
-[[src_obm_2007_nu_f1__Q04]]
+[[Quesiti/src_obm_2007_nu_f1#q04|src_obm_2007_nu_f1__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Se 4a^2 è una potenza n-th perfetta allora <a-a> è una potenza n-th perfetta*
 > Considera l'operatore lineare $M'$ che agisce su $A(a_0, a_1, \ldots, a_n) \in \mathbb{R}^{n+1}$. Mostrare che i suoi valori propri sono $n, n-2, n-4, \ldots, -n$, cioè $2k - n$ per $k = 0, 1, \ldots, n$, e mostrare i propri vettori. (Soluzione ufficiale: interpretare il vettore $(a_0, a_1, \ldots, a_n) \in \mathbb{R}^{n+1}$ come il polinomio $P = a_0 x^n + a_1 x^{n-1} y + \cdots + a_n y^n$. L'operatore $M'(a_0, \ldots, a_n)$ corrisponde a $x\,\dfrac{\partial P}{\partial x} + y\,\dfrac{\partial P}{\partial y}$. Con $u = x + y$, $v = x - y$ questo diventa $u\,\dfrac{\partial P}{\partial u} + v\,\dfrac{\partial P}{\partial v}$, e $\left(u\,\dfrac{\partial}{\partial u} - v\,\dfrac{\partial}{\partial v}\right)(u^k v^{n-k}) = (2k - n)\,u^k v^{n-k}$, quindi $2k - n$ è il valore proprio con vetore proprio $u^k v^{n-k}$.)
 
 **Risposta:** eigenvalues 2k-n, k=0,...,n
-[[src_obm_2007_nu_f1__Q05]]
+[[Quesiti/src_obm_2007_nu_f1#q05|src_obm_2007_nu_f1__Q05]]
 
 
 
@@ -198,4 +198,4 @@ Se 4a^2 è una potenza n-th perfetta allora <a-a> è una potenza n-th perfetta*
 > Lasciate che $y(t) = a_0 + a_1 t + a_2 t^2 + \cdots$ soddisfi il dato ODE e espandete le funzioni $y$, $e^{t} = 1 + t + \tfrac{t^2}{2} + \cdots$ e $2\sin t + \tan t = c_0 + c_1 t + c_2 t^2 + \cdots$ nelle serie di potenza. Substituendo la serie nell'ODE si ottiene la ricorrenza $$a_{n+2} = \dfrac{1}{(n+1)(n+2)}\big(c_n - b_0 a_n - 2b_1 a_{n-1} - \cdots - (n+1)b_0 a_{n+1} - 3a_{n+1}\big),$$ dove i dati iniziali sono $a_N \neq 0$ e $a_m = 0$ per $0 < m < N$. Trovare il più piccolo di tali $\widetilde{N}$ e il valore di $\displaystyle\lim_{t \to 0}\dfrac{t\,y'}{y - 1}$. (Soluzione ufficiale: utilizzando $2\sin t + \tan t = 3t + \dfrac{3t^3}{20} + \cdots$ si trova $\widetilde{N} = 5$, da cui $\displaystyle\lim_{t \to 0}\dfrac{t\,y'}{y - 1} = 7$.) Dichiarazione ricostruita dalla soluzione ufficiale; diversi termini intermedi sono parzialmente illeggibili nella fonte.
 
 **Risposta:** limit = 7 (with N = 5)
-[[src_obm_2007_nu_f1__Q06]]
+[[Quesiti/src_obm_2007_nu_f1#q06|src_obm_2007_nu_f1__Q06]]

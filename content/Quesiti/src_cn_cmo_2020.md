@@ -45,7 +45,7 @@ level: China Mathematical Olympiad
 > (2) Trovare il valore minimo possibile di $f_{2020} \cdot f_{2021}$.
 
 **Risposta:** f_{2020} minimum is 2; f_{2020} \cdot f_{2021} minimum is 2^{1011}.
-[[src_cn_cmo_2020__Q01]]
+[[Quesiti/src_cn_cmo_2020#q01|src_cn_cmo_2020__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: China Mathematical Olympiad
 > 
 > (2) $\displaystyle\sum_{i=1}^{n} a_i x_i \equiv \sum_{i=1}^{n} b_i x_i \equiv 0 \pmod{m}$.
 
-[[src_cn_cmo_2020__Q02]]
+[[Quesiti/src_cn_cmo_2020#q02|src_cn_cmo_2020__Q02]]
 
 
 
@@ -112,7 +112,7 @@ level: China Mathematical Olympiad
 
 > Supponiamo che un intero positivo $n$ possa essere divisibile esattamente $36$ diversi numeri primi. Per $k = 1, 2, \ldots, 5$, $c_k$ è il numero di integri sull'intervallo $\left[\frac{(k-1)n}{5}, \frac{kn}{5}\right]$ che sono copriemi con $n$. È noto che $c_1, c_2, \ldots, c_5$ non sono tutti uguali. Provare che $$\sum_{1 \le i < j \le 5} (c_i - c_j)^2 \ge 2^{36}.$$
 
-[[src_cn_cmo_2020__Q03]]
+[[Quesiti/src_cn_cmo_2020#q03|src_cn_cmo_2020__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: China Mathematical Olympiad
 > As shown in Fig. 4.1, let acute $\triangle ABC$ be inscribed to circle $\omega$, $AB > AC$. $M$ is the midpoint of minor arc $\widehat{BC}$ of circle $\omega$ and $K$ is the antipodal point of point $A$ on circle $\omega$. Construct a parallel line of $AM$ through the center $O$ of circle $\omega$, intersecting segment $AB$ at point $D$ and the extension of $CA$ at point $E$. Suppose that line $BM$ intersects $CK$ at point $P$ and line $CM$ intersects $BK$ at point $Q$. Prove that
 > $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
 
-![[src_cn_cmo_2020__Q04.png]]
+![[src_cn_cmo_2020__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -144,9 +144,9 @@ level: China Mathematical Olympiad
 
 > Come mostrato nella figura. 4.1, inserire il $\triangle ABC$ acuto al cerchio $\omega$, $AB > AC$. $M$ è il punto medio dell'arco minore $\widehat{BC}$ del cerchio $\omega$ e $K$ è il punto antipodal del punto $A$ sul cerchio $\omega$. Costruire una linea parallela di $AM$ attraverso il centro $O$ del cerchio $\omega$, il segmento intersezionante $AB$ al punto $D$ e l'estensione di $CA$ al punto $E$. Supponiamo che la linea $BM$ si intersechi $CK$ al punto $P$ e la linea $CM$ si intersechi $BK$ al punto $Q$. Provare che $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
 
-![[src_cn_cmo_2020__Q04.png]]
+![[src_cn_cmo_2020__q04.png]]
 
-[[src_cn_cmo_2020__Q04]]
+[[Quesiti/src_cn_cmo_2020#q04|src_cn_cmo_2020__Q04]]
 
 
 
@@ -183,7 +183,7 @@ level: China Mathematical Olympiad
 > 
 > Prove che durante il processo di arrampicamento sopra indicato, il numero di volte che la formica gira a sinistra è esattamente il numero di volte che gira a destra.
 
-[[src_cn_cmo_2020__Q05]]
+[[Quesiti/src_cn_cmo_2020#q05|src_cn_cmo_2020__Q05]]
 
 
 
@@ -213,4 +213,4 @@ level: China Mathematical Olympiad
 
 > $\mathbb{N}_+$ sia l'insieme di tutti gli integri positivi. Trovare tutte le funzioni $f: \mathbb{N}_+ \to \mathbb{N}_+$, soddisfacendo che per qualsiasi $x, y \in \mathbb{N}_+$, $$f(f(x) + y) \mid x + f(y).$$
 
-[[src_cn_cmo_2020__Q06]]
+[[Quesiti/src_cn_cmo_2020#q06|src_cn_cmo_2020__Q06]]

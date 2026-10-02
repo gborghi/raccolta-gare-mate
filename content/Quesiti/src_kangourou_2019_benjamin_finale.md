@@ -34,7 +34,7 @@ How many jam cookies did Ada have before the exchange?
 > Ada had 40 biscuits: some chocolate, others jam. She agreed with Cecilia this way: for 3 chocolate cookies given to Cecilia, she received 5 from Cecilia with marmalade. Now Ada has 52 cookies, all marmalade. How many jam cookies did you have before the exchange?
 
 **Answer:** 22
-[[src_kangourou_2019_benjamin_finale__Q01]]
+[[Quesiti/src_kangourou_2019_benjamin_finale#q01|src_kangourou_2019_benjamin_finale__Q01]]
 
 
 
@@ -62,7 +62,7 @@ How many jam cookies did Ada have before the exchange?
 > Last New Year I got a strange calculator as a gift: it can only add or subtract 2019 from the number written on the screen or it can multiply or divide it by 2019. Right now, the screen shows the number 0. By doing some of these operations in sequence, one at a time, can I get the 2021 number as a result? Motive your answer if it is negative; if yes, indicate the shortest sequence of operations that allows you to get the result.
 
 **Answer:** si (+,+,:,+)
-[[src_kangourou_2019_benjamin_finale__Q02]]
+[[Quesiti/src_kangourou_2019_benjamin_finale#q02|src_kangourou_2019_benjamin_finale__Q02]]
 
 
 
@@ -94,7 +94,7 @@ How many jam cookies did Ada have before the exchange?
 > Look at the figure. $IBLEC$ is a regular pentagon and the triangle $CER$ is equilateral. $T$ is the intersection point between $CE$ and $IR$ segments. How many degrees does the angle $ITE$ measure? (see figure)
 
 **Answer:** 114
-[[src_kangourou_2019_benjamin_finale__Q03]]
+[[Quesiti/src_kangourou_2019_benjamin_finale#q03|src_kangourou_2019_benjamin_finale__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Number written by Carla given difference 14789*
 > Carla wrote an integer greater than zero. Aldo rewrote Carla's number, making it preceded and followed by the digit 1 (for example, if Carla had written 27, Aldo would have written 1271). The difference between Aldo's number and Carla's is 14789. What number did Carla write?
 
 **Answer:** 532
-[[src_kangourou_2019_benjamin_finale__Q04]]
+[[Quesiti/src_kangourou_2019_benjamin_finale#q04|src_kangourou_2019_benjamin_finale__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Because Elvira wants to start playing the 66-figure game.
 > Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why? Why?
 
 **Answer:** strategia vincente
-[[src_kangourou_2019_benjamin_finale__Q05]]
+[[Quesiti/src_kangourou_2019_benjamin_finale#q05|src_kangourou_2019_benjamin_finale__Q05]]
 
 
 
@@ -180,4 +180,4 @@ In a few years the full moon will return to February.
 > Last August 15th, a full moon day in February. Assuming that the lunar cycle is exactly 28 days long, how many years from now will there be a full moon again in February? (If, for example, it happens next year, you should answer: in 1 year.)
 
 **Answer:** 22
-[[src_kangourou_2019_benjamin_finale__Q06]]
+[[Quesiti/src_kangourou_2019_benjamin_finale#q06|src_kangourou_2019_benjamin_finale__Q06]]

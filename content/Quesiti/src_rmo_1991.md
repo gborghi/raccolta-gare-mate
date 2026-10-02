@@ -34,7 +34,7 @@ level: RMO
 
 > Che $P$ sia un punto interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ incontrino rispettivamente i lati $BC$, $CA$, $AB$ in $D$, $E$ e $F$. Indicare che $$\frac{AP}{PD} = \frac{AF}{FB} + \frac{AE}{EC}.$$
 
-[[src_rmo_1991__Q01]]
+[[Quesiti/src_rmo_1991#q01|src_rmo_1991__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: RMO
 
 > Se $a$, $b$, $c$ e $d$ sono 4 numeri reali positivi, dimostrare che $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a} \ge 4.$$
 
-[[src_rmo_1991__Q02]]
+[[Quesiti/src_rmo_1991#q02|src_rmo_1991__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: RMO
 > 
 > Trova tutti quei numeri a quattro cifre.
 
-[[src_rmo_1991__Q03]]
+[[Quesiti/src_rmo_1991#q03|src_rmo_1991__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: RMO
 > 
 > Mostrate che dopo aver eseguito queste operazioni infinite volte, entrambe le urne possono essere svuotate.
 
-[[src_rmo_1991__Q04]]
+[[Quesiti/src_rmo_1991#q04|src_rmo_1991__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: RMO
 
 > Prendi qualsiasi punto $P_1$ sul lato $BC$ di un triangolo $ABC$ e disegni la seguente catena di linee: $P_1P_2$ parallelo a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallelo a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallelo a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallelo a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallelo a $BC$ ($P_6$ su $AC$). Qui $P_2$, $P_3$ si trovano su $AB$; $P_3$, $P_5$ si trovano su $CA$; $P_1$, $P_4$ si trovano su $BC$. Indicare che $P_6P_1$ è parallelo a $AB$.
 
-[[src_rmo_1991__Q05]]
+[[Quesiti/src_rmo_1991#q05|src_rmo_1991__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: RMO
 
 > Trova tutti i valori interi di $a$ in modo tale che l'espressione quadrata $$(x + a)(x + 1991) + 1$$ possa essere fatturata come prodotto $(x + b)(x + c)$ dove $b$ e $c$ sono interi.
 
-[[src_rmo_1991__Q06]]
+[[Quesiti/src_rmo_1991#q06|src_rmo_1991__Q06]]
 
 
 
@@ -212,7 +212,7 @@ level: RMO
 
 > Prova che $n^4 + 4^n$ è composto per tutti i valori interi di $n$ superiori a 1.
 
-[[src_rmo_1991__Q07]]
+[[Quesiti/src_rmo_1991#q07|src_rmo_1991__Q07]]
 
 
 
@@ -239,4 +239,4 @@ level: RMO
 
 > I 64 quadrati di una scacchiera $8 \times 8$ sono riempiti di numeri interi positivi in modo tale che ogni numero intero sia la media dei numeri interi sui quadrati vicini. (Due quadrati sono vicini se condividono un bordo comune o una vertex comune. Un quadrato può avere $8$, $5$ o $3$ vicini a seconda della sua posizione.) Mostrare che tutti i 64 numeri interi sono in realtà uguali.
 
-[[src_rmo_1991__Q08]]
+[[Quesiti/src_rmo_1991#q08|src_rmo_1991__Q08]]

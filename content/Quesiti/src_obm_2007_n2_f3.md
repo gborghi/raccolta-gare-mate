@@ -45,7 +45,7 @@ level: OBM Nível 2
 > 
 > **Nota.** Due celle sono vicine se condividono un lato.
 
-[[src_obm_2007_n2_f3__Q01]]
+[[Quesiti/src_obm_2007_n2_f3#q01|src_obm_2007_n2_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 
 > Che $P$ sia un pentagono convexo con tutti i lati uguali. Prova che se due degli angoli di $P$ sommano a $180^\circ$, allora è possibile tessere il piano con copie di $P$, senza sovrapposizioni.
 
-[[src_obm_2007_n2_f3__Q02]]
+[[Quesiti/src_obm_2007_n2_f3#q02|src_obm_2007_n2_f3__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: OBM Nível 2
 
 > Prova che esistono infinitamente molti interi positivi $n$ in modo tale che $$\frac{5^{n-2}-1}{n}$$ sia un intero.
 
-[[src_obm_2007_n2_f3__Q03]]
+[[Quesiti/src_obm_2007_n2_f3#q03|src_obm_2007_n2_f3__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: OBM Nível 2
 
 > Mostrare che se $p, q$ sono interi primi positivi in modo che $r = \dfrac{p^2 + q^2}{p + q}$ sia un intero, allora $r$ è primo.
 
-[[src_obm_2007_n2_f3__Q04]]
+[[Quesiti/src_obm_2007_n2_f3#q04|src_obm_2007_n2_f3__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 2
 
 > Che $ABC$ sia un triangolo acuto e che $O$, $H$ siano rispettivamente il suo circoncentro e l'ortocentro. Dato che $$\frac{AB}{\sqrt{2}} = BH = OB,$$ trova gli angoli del triangolo $ABC$.
 
-[[src_obm_2007_n2_f3__Q05]]
+[[Quesiti/src_obm_2007_n2_f3#q05|src_obm_2007_n2_f3__Q05]]
 
 
 
@@ -188,4 +188,4 @@ level: OBM Nível 2
 > 
 > Indicare che esiste un insieme finito $A$ tale che $S(A)$ abbia al massimo $10^{97}$ elementi e $D(A)$ abbia almeno $10^{100}$ elementi.
 
-[[src_obm_2007_n2_f3__Q06]]
+[[Quesiti/src_obm_2007_n2_f3#q06|src_obm_2007_n2_f3__Q06]]

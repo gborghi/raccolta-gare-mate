@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Un quadrato $5\times 5$ è diviso in quadrati unitari $25$. Uno dei numeri $1, 2, 3, 4, 5$ viene inserito in ciascun quadrato di unità in modo tale che ogni riga, ogni colonna e ciascuna delle due diagonali contenga ciascuno dei cinque numeri una volta e solo una volta. La somma dei numeri nei quattro quadrati immediatamente sotto la diagonale dall'alto a sinistra a basso a destra si chiama il \emph{score}. Mostrare che è impossibile che il punteggio sia $20$. Qual è il punteggio più alto possibile?
 
-[[src_bmo_1997-98_round1__Q01]]
+[[Quesiti/src_bmo_1997-98_round1#q01|src_bmo_1997-98_round1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > Il valore di $a_1 = 19$, $a_2 = 98$. Per $n \ge 1$, definire $a_{n+2}$ come il rimanente di $a_n + a_{n+1}$ quando diviso da $100$. Qual è il rimanente quando $$a_1^2 + a_2^2 + \cdots + a_{1998}^2$$ è diviso da $8$?
 
-[[src_bmo_1997-98_round1__Q02]]
+[[Quesiti/src_bmo_1997-98_round1#q02|src_bmo_1997-98_round1__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: BMO Round 1
 
 > $ABP$ è un triangolo di uguali braccia con $AB = AP$ e $\angle PAB$ acuta. $PC$ è la linea attraverso $P$ perpendicolare a $BP$, e $C$ è un punto su questa linea sullo stesso lato di $BP$ come $A$. (Si può presumere che $C$ non sia sulla linea $AB$.) $D$ completa il parallelo $ABCD$. $PC$ soddisfa $DA$ al $M$. Provare che $M$ è il punto medio di $DA$.
 
-[[src_bmo_1997-98_round1__Q03]]
+[[Quesiti/src_bmo_1997-98_round1#q03|src_bmo_1997-98_round1__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: BMO Round 1
 
 > Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_4 = 12,$$ $$a_{n+1}a_{n-1} = a_n^2 \pm 1 \quad \text{for} \quad n = 2, 3, 4, \ldots.$$
 
-[[src_bmo_1997-98_round1__Q04]]
+[[Quesiti/src_bmo_1997-98_round1#q04|src_bmo_1997-98_round1__Q04]]
 
 
 
@@ -148,4 +148,4 @@ level: BMO Round 1
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto di trisezione di $BC$ più vicino a $C$. Dato che $\angle ADC = \angle BAE$ trova $\angle BAC$.
 
-[[src_bmo_1997-98_round1__Q05]]
+[[Quesiti/src_bmo_1997-98_round1#q05|src_bmo_1997-98_round1__Q05]]

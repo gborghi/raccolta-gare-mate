@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Dato che $AB = CD$, determinare $AB$ e $BC$.
 
-[[src_bmo_2006-07_round2__Q01]]
+[[Quesiti/src_bmo_2006-07_round2#q01|src_bmo_2006-07_round2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Mostrare che ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che $$\frac{m+1}{n} + \frac{n+1}{m}$$ è un intero positivo.
 
-[[src_bmo_2006-07_round2__Q02]]
+[[Quesiti/src_bmo_2006-07_round2#q02|src_bmo_2006-07_round2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 > 
 > Nota: il circoncentro del triangolo $ABC$ è il centro del cerchio che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari da ogni vertice al lato opposto.
 
-[[src_bmo_2006-07_round2__Q03]]
+[[Quesiti/src_bmo_2006-07_round2#q03|src_bmo_2006-07_round2__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
 
-[[src_bmo_2006-07_round2__Q04]]
+[[Quesiti/src_bmo_2006-07_round2#q04|src_bmo_2006-07_round2__Q04]]

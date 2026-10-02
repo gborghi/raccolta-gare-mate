@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Lasciate che $a, b, c$ siano numeri interi positivi. Indicare che il più piccolo comune di $a$ e $b$ non è uguale al più piccolo comune di $a+c$ e $b+c$.
 
-[[src_jmo27mq_honsen__Q01]]
+[[Quesiti/src_jmo27mq_honsen#q01|src_jmo27mq_honsen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ La sequenza di raddoppiamento avida è infine costante.
 > 
 > Indicare che esiste un intero positivo $M$ tale che $a_n = a_M$ sia valido per tutti $n \ge M$.
 
-[[src_jmo27mq_honsen__Q02]]
+[[Quesiti/src_jmo27mq_honsen#q02|src_jmo27mq_honsen__Q02]]
 
 
 
@@ -95,7 +95,7 @@ La sequenza di raddoppiamento avida è infine costante.
 
 > $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $D$, $E$, $F$ sono i piedi delle perpendicolari abbassate rispettivamente da $A$, $B$, $C$ ai lati opposti e il $M$ è il punto medio del lato $BC$. Il $X$ deve essere l'intersezione della linea $AD$ e della linea $EF$, e il $Y$ deve essere l'intersezione della linea $AO$ e della linea $BC$. Il segmento $Z$ deve essere il punto medio di $XY$. Indicare che i tre punti $A$, $Z$ e $M$ sono collineari.
 
-[[src_jmo27mq_honsen__Q03]]
+[[Quesiti/src_jmo27mq_honsen#q03|src_jmo27mq_honsen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Incontri giornalieri, ogni coppia scuote una volta, dimensioni uguali
 
 > $n$ sia un numero intero con $n \ge 3$. Ci sono persone $n$ e ogni giorno si tiene un incontro a cui partecipano almeno $3$ di esse. A ogni riunione, tutti e due i partecipanti stringono la mano esattamente una volta. Dopo la fine della riunione del giorno 4, si scopre che ogni due persone hanno dato la mano esattamente una volta. Mostrate che a ogni riunione era presente lo stesso numero di persone.
 
-[[src_jmo27mq_honsen__Q04]]
+[[Quesiti/src_jmo27mq_honsen#q04|src_jmo27mq_honsen__Q04]]
 
 
 
@@ -149,4 +149,4 @@ Incontri giornalieri, ogni coppia scuote una volta, dimensioni uguali
 
 > Lasciate che $x_1, x_2, \ldots, x_{1000}$ siano integri in modo tale che per ogni intero positivo $k$ con $k \le 672$, la somma $\displaystyle\sum_{i=1}^{1000} x_i^k$ sia un multiple di $2017$. Mostrare che $x_1, x_2, \ldots, x_{1000}$ sono tutti multipli di $2017$. (Nota: $2017$ è primo.)
 
-[[src_jmo27mq_honsen__Q05]]
+[[Quesiti/src_jmo27mq_honsen#q05|src_jmo27mq_honsen__Q05]]

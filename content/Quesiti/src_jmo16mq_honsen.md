@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Lasciate che $O$ sia un cerchio, e lasciate che cinque punti $A, M, B, C, D$ si trovino su $O$ in questo ordine. Supponiamo che l'arco $MA$ e l'arco $MB$ siano divisi (cioè si prendono i loro punti medi). Il $P$ e il $Q$ siano rispettivamente le intersezioni della linea $AC$ con la linea $MD$ e della linea $BD$ con la linea $MC$, e il $X$ e il $Y$ siano i due punti di intersezione della linea $PQ$ con il cerchio $O$. Prove che $MX = MY$.
 
-[[src_jmo16mq_honsen__Q01]]
+[[Quesiti/src_jmo16mq_honsen#q01|src_jmo16mq_honsen__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: JMO Honsen
 
 > Trova tutti gli integri $k$ per i quali esistono infiniti triples di integri $(a, b, c)$ soddisfacendo $$(a^2 - k)(b^2 - k) = c^2 - k.$$
 
-[[src_jmo16mq_honsen__Q02]]
+[[Quesiti/src_jmo16mq_honsen#q02|src_jmo16mq_honsen__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: JMO Honsen
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite sui numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(x)^2 + 2y\,f(x) + f(y) = f\bigl(y + f(x)\bigr).$$
 
-[[src_jmo16mq_honsen__Q03]]
+[[Quesiti/src_jmo16mq_honsen#q03|src_jmo16mq_honsen__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: JMO Honsen
 
 > Lasciate che gli integri $m, n$ soddisfino $2 \le m \le n$. Considerate una griglia di strade $m \times n$: ci sono $m$ strade orizzontali che vanno da est a ovest e $n$ strade verticali che vanno da nord a sud. Un sentiero è un percorso che percorre solo l'est lungo strade orizzontali. La griglia ha una regione rettangolare. Diciamo che una coppia $(a, a')$ con $a \neq a'$ e una coppia $(b, b')$ con $b \neq b'$ soddisfano la condizione se: a partire dall'estremità occidentale della strada orizzontale $a$ (resp.\ $a'$), tra tutte le intersezioni nord/sud, i punti di attraversamento del percorso da strada $a$ e dal percorso da strada $a'$ con strade nord/sud $b$ e $b'$ (respectivamente) sono tali che, contando dall'inizio (compreso l'inizio) alla fine, ogni punto di attraversamento viene visitato esattamente una volta. Trova tutti i tuppi $(m, n, a, b, a', b')$ di numeri interi positivi che soddisfano questa condizione.
 
-[[src_jmo16mq_honsen__Q04]]
+[[Quesiti/src_jmo16mq_honsen#q04|src_jmo16mq_honsen__Q04]]
 
 
 
@@ -145,4 +145,4 @@ level: JMO Honsen
 
 > Per i numeri reali positivi $x_1, x_2, x_3, y_1, y_2, y_3, z_1, z_2, z_3$, trovare il valore massimo della costante $A$ in modo tale che l'ineguaglianza $$(x_1^2 + x_2^2 + x_3^2)(y_1^2 + y_2^2 + y_3^2)(z_1^2 + z_2^2 + z_3^2) \ge A(x_1 + y_1 + z_1)(x_2 + y_2 + z_2)(x_3 + y_3 + z_3)$$ sia valida per tutti tali numeri reali positivi. Trova anche tutte le condizioni in cui l'uguaglianza si verifica.
 
-[[src_jmo16mq_honsen__Q05]]
+[[Quesiti/src_jmo16mq_honsen#q05|src_jmo16mq_honsen__Q05]]

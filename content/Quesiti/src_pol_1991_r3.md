@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 3
 
 > dimostrare o respingere l'esistenza di due tetraedri $T_1$ e $T_2$ in modo tale che: (i) il volume di $T_1$ sia maggiore di quello di $T_2$, (ii) l'area di una faccia di $T_1$ non superi l'area di una faccia di $T_2$.
 
-[[src_pol_1991_r3__Q01]]
+[[Quesiti/src_pol_1991_r3#q01|src_pol_1991_r3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 > $X$ sia l'insieme di tutti i punti della griglia del piano (punti $(x, y)$ con $x, y \in \mathbb{Z}$). Un percorso $\{p_1, p_2, \ldots, p_k\}$ di punti di $X$ è una catena $(p_1, p_2, \ldots, p_k)$ tale da $|p_{i+1} - p_i| = 1$ per $i = 1, \ldots, k-1$. $F(n)$ è il numero di percorsi distinti dei passi $n$ che iniziano a un punto $P_0$ della linea $y = 0$ e terminano a un punto $P_n$ della linea $y = 0$. Prove che $F(n) = \binom{2n}{n}$.
 
-[[src_pol_1991_r3__Q02]]
+[[Quesiti/src_pol_1991_r3#q02|src_pol_1991_r3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: Olimpiade Polacca Round 3
 
 > Definire $$N = \sum_{k=1}^{n} a_k 6^k,$$ dove $a_k \in [-1, 1]$ per ogni $k$. Prova che $N$ non può essere la quinta potenza di un intero.
 
-[[src_pol_1991_r3__Q03]]
+[[Quesiti/src_pol_1991_r3#q03|src_pol_1991_r3__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: Olimpiade Polacca Round 3
 
 > Nel piano cartesiano si considera l'insieme $V$ di tutti i vettori con coordinate interi. Determinare tutte le funzioni $f : V \to \mathbb{R}$ che soddisfano le condizioni: (i) $f(v) = 1$ per ciascuno dei quattro vettori $v$ di lunghezza unitaria, (ii) $f(u + v) = f(u) + f(v)$ per ogni due vettori perpendicolari $u, v \in V$. (Nota che il vettore zero è perpendicolare a ogni vettore.)
 
-[[src_pol_1991_r3__Q04]]
+[[Quesiti/src_pol_1991_r3#q04|src_pol_1991_r3__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: Olimpiade Polacca Round 3
 
 > Due cerchi non congruenti $k_1$ e $k_2$ sono esterni l'uno all'altro. Le loro tangenti esterne comuni intersecano la linea attraverso i loro centri nei punti $A$ e $B$. Il punto $P$ deve essere qualsiasi punto di $k_1$. Prova che esiste un diametro di $k_1$ con un punto di fine sulla linea $PA$ e l'altro punto di fine sulla linea $PB$.
 
-[[src_pol_1991_r3__Q05]]
+[[Quesiti/src_pol_1991_r3#q05|src_pol_1991_r3__Q05]]
 
 
 
@@ -177,4 +177,4 @@ level: Olimpiade Polacca Round 3
 
 > Se $x, y, z$ sono numeri reali che soddisfano $x^2 + y^2 + z^2 = 2$, dimostrare la disuguaglianza $$x + y + z \le 2 + xyz,$$ e trovare le condizioni per la parità.
 
-[[src_pol_1991_r3__Q06]]
+[[Quesiti/src_pol_1991_r3#q06|src_pol_1991_r3__Q06]]

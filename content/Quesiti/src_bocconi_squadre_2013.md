@@ -39,7 +39,7 @@ Minimum time for three friends to meet
 > What is the minimum time, expressed in minutes, for which Anna, Chiara, and Milena arrive at their friends simultaneously?
 
 **Answer:** 270 minuti
-[[src_bocconi_squadre_2013__Q01]]
+[[Quesiti/src_bocconi_squadre_2013#q01|src_bocconi_squadre_2013__Q01]]
 
 
 
@@ -71,7 +71,7 @@ Minimum time for three friends to meet
 > What was the average for our plane in the remaining two-thirds of the flight time?
 
 **Answer:** 650 km/h
-[[src_bocconi_squadre_2013__Q02]]
+[[Quesiti/src_bocconi_squadre_2013#q02|src_bocconi_squadre_2013__Q02]]
 
 
 
@@ -84,7 +84,7 @@ Minimum time for three friends to meet
 
 > I moderni artisti si ispirano a forme geometriche. In questo quadro si vede un triangolo rettangolo la cui area vale $60 \text{ cm}^2$ e la misura dei cui lati è espressa da un numero intero di cm. Quanto vale la somma dei due diametri (quello del cerchio grande e quello del cerchio piccolo)?
 
-![[src_bocconi_squadre_2013__Q03.png]]
+![[src_bocconi_squadre_2013__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -101,10 +101,10 @@ Minimum time for three friends to meet
 
 > Modern artists are inspired by geometric shapes. In this table you can see a rectangular triangle whose area is $60 \text{ cm}^2$ and the size of its sides is expressed by an integer of cm. What is the sum of the two diameters (the larger circle and the smaller circle)?
 
-![[src_bocconi_squadre_2013__Q03.png]]
+![[src_bocconi_squadre_2013__q03.png]]
 
 **Answer:** 23 cm
-[[src_bocconi_squadre_2013__Q03]]
+[[Quesiti/src_bocconi_squadre_2013#q03|src_bocconi_squadre_2013__Q03]]
 
 
 
@@ -135,7 +135,7 @@ Minimum time for three friends to meet
 > Find three non-zero and distinct digits A, B, C so the following fractional equality is: $$\frac{\overline{ABBBBBBB}}{\overline{BBBBBBBC}} = \frac{A}{C}$$ There are more solutions: find them all!
 
 **Answer:** 1-6-4; 1-9-5; 2-6-5; 4-9-8
-[[src_bocconi_squadre_2013__Q04]]
+[[Quesiti/src_bocconi_squadre_2013#q04|src_bocconi_squadre_2013__Q04]]
 
 
 
@@ -167,7 +167,7 @@ The probability of a gold coin coming from the red sack
 > What is the probability that this gold coin came from the red sack?
 
 **Answer:** $\frac{5}{9}$
-[[src_bocconi_squadre_2013__Q05]]
+[[Quesiti/src_bocconi_squadre_2013#q05|src_bocconi_squadre_2013__Q05]]
 
 
 
@@ -199,7 +199,7 @@ How much would they have to pay per bar per person
 > What expense did they encounter (in addition to what they should have paid for themselves)?
 
 **Answer:** 1,10 euro; 1,10 euro
-[[src_bocconi_squadre_2013__Q06]]
+[[Quesiti/src_bocconi_squadre_2013#q06|src_bocconi_squadre_2013__Q06]]
 
 
 
@@ -228,7 +228,7 @@ How much would they have to pay per bar per person
 > Find the natural minimum number of three digits that is equal to the sum of its first digit (left) squared by the second and cube by the third.
 
 **Answer:** 598
-[[src_bocconi_squadre_2013__Q07]]
+[[Quesiti/src_bocconi_squadre_2013#q07|src_bocconi_squadre_2013__Q07]]
 
 
 
@@ -260,7 +260,7 @@ The distance travelled by Angelo in the last hour
 > How far has Angelo traveled in the last hour?
 
 **Answer:** 35 km
-[[src_bocconi_squadre_2013__Q08]]
+[[Quesiti/src_bocconi_squadre_2013#q08|src_bocconi_squadre_2013__Q08]]
 
 
 
@@ -275,7 +275,7 @@ The distance travelled by Angelo in the last hour
 > 
 > Qual è, al minimo, la lunghezza del perimetro della terza parte del giardino?
 
-![[src_bocconi_squadre_2013__Q09.png]]
+![[src_bocconi_squadre_2013__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -294,10 +294,10 @@ The distance travelled by Angelo in the last hour
 > 
 > What is the minimum length of the perimeter of the third part of the garden?
 
-![[src_bocconi_squadre_2013__Q09.png]]
+![[src_bocconi_squadre_2013__q09.png]]
 
 **Answer:** $6 + 2\pi$ m
-[[src_bocconi_squadre_2013__Q09]]
+[[Quesiti/src_bocconi_squadre_2013#q09|src_bocconi_squadre_2013__Q09]]
 
 
 
@@ -312,7 +312,7 @@ The distance travelled by Angelo in the last hour
 > 
 > Qual è il rapporto tra l'area della zona scura e quella del cerchio grande?
 
-![[src_bocconi_squadre_2013__Q10.png]]
+![[src_bocconi_squadre_2013__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -330,10 +330,10 @@ The distance travelled by Angelo in the last hour
 > 
 > What's the relationship between the area of the dark zone and that of the great circle?
 
-![[src_bocconi_squadre_2013__Q10.png]]
+![[src_bocconi_squadre_2013__q10.png]]
 
 **Answer:** $\frac{1}{3}$
-[[src_bocconi_squadre_2013__Q10]]
+[[Quesiti/src_bocconi_squadre_2013#q10|src_bocconi_squadre_2013__Q10]]
 
 
 
@@ -365,7 +365,7 @@ The distance travelled by Angelo in the last hour
 > How many hours did it take the chick to get down the canal?
 
 **Answer:** 96 ore
-[[src_bocconi_squadre_2013__Q11]]
+[[Quesiti/src_bocconi_squadre_2013#q11|src_bocconi_squadre_2013__Q11]]
 
 
 
@@ -397,7 +397,7 @@ How much is Mauro's in the pizza division?
 > If the division of these 20 euros between Mauro and Renato is fair, how much will Mauro get?
 
 **Answer:** 2,50 euro
-[[src_bocconi_squadre_2013__Q12]]
+[[Quesiti/src_bocconi_squadre_2013#q12|src_bocconi_squadre_2013__Q12]]
 
 
 
@@ -425,7 +425,7 @@ How much is Mauro's in the pizza division?
 > Find a three-digit number, all equal to each other, which is the sum of the first natural numbers (for a certain $n$).
 
 **Answer:** 666
-[[src_bocconi_squadre_2013__Q13]]
+[[Quesiti/src_bocconi_squadre_2013#q13|src_bocconi_squadre_2013__Q13]]
 
 
 
@@ -454,7 +454,7 @@ How much is Mauro's in the pizza division?
 > Find the largest odd natural number $n$ for which $n^4 + 4$ is a prime number.
 
 **Answer:** $n = 1$
-[[src_bocconi_squadre_2013__Q14]]
+[[Quesiti/src_bocconi_squadre_2013#q14|src_bocconi_squadre_2013__Q14]]
 
 
 
@@ -486,7 +486,7 @@ How much is Mauro's in the pizza division?
 > How many students are in the classroom, at least?
 
 **Answer:** 125 studenti
-[[src_bocconi_squadre_2013__Q15]]
+[[Quesiti/src_bocconi_squadre_2013#q15|src_bocconi_squadre_2013__Q15]]
 
 
 
@@ -501,7 +501,7 @@ How much is Mauro's in the pizza division?
 > 
 > Quante mosse, al minimo, bisogna effettuare perché la lunghezza del tragitto percorso da A nel piano superi i 1000 cm?
 
-![[src_bocconi_squadre_2013__Q16.png]]
+![[src_bocconi_squadre_2013__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -520,10 +520,10 @@ How much is Mauro's in the pizza division?
 > 
 > How many moves, at a minimum, must be made so that the length of the route from A to the plane exceeds 1000 cm?
 
-![[src_bocconi_squadre_2013__Q16.png]]
+![[src_bocconi_squadre_2013__q16.png]]
 
 **Answer:** 358 mosse
-[[src_bocconi_squadre_2013__Q16]]
+[[Quesiti/src_bocconi_squadre_2013#q16|src_bocconi_squadre_2013__Q16]]
 
 
 
@@ -556,7 +556,7 @@ How much is Mauro's in the pizza division?
 > So what is the minimum distance to go from A to D?
 
 **Answer:** $2 + 2\sqrt{3} + \frac{\pi}{3}$ km
-[[src_bocconi_squadre_2013__Q17]]
+[[Quesiti/src_bocconi_squadre_2013#q17|src_bocconi_squadre_2013__Q17]]
 
 
 
@@ -585,7 +585,7 @@ Natural number n such that 2n+3 divides 6n+43*
 > Find a natural number $n$ for which $2n+3$ is a divisor of $6n+43$.
 
 **Answer:** $n = 7$
-[[src_bocconi_squadre_2013__Q18]]
+[[Quesiti/src_bocconi_squadre_2013#q18|src_bocconi_squadre_2013__Q18]]
 
 
 
@@ -614,7 +614,7 @@ Natural number n such that 2n+3 divides 6n+43*
 > Find a three-digit natural number that has this property: it goes to the square, you divide this square into two consecutive three-digit tranches (the first three in the first tranche, the second three in the second tranche), you add the two tranches and you get 1000. (The question has more than one solution: you have to give it all!)
 
 **Answer:** 406; 593; 998
-[[src_bocconi_squadre_2013__Q19]]
+[[Quesiti/src_bocconi_squadre_2013#q19|src_bocconi_squadre_2013__Q19]]
 
 
 
@@ -629,7 +629,7 @@ Natural number n such that 2n+3 divides 6n+43*
 > 
 > Qual è il valore di d?
 
-![[src_bocconi_squadre_2013__Q20.png]]
+![[src_bocconi_squadre_2013__q20.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
@@ -647,7 +647,7 @@ Natural number n such that 2n+3 divides 6n+43*
 > 
 > What's the value of d?
 
-![[src_bocconi_squadre_2013__Q20.png]]
+![[src_bocconi_squadre_2013__q20.png]]
 
 **Answer:** 12 dm
-[[src_bocconi_squadre_2013__Q20]]
+[[Quesiti/src_bocconi_squadre_2013#q20|src_bocconi_squadre_2013__Q20]]

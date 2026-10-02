@@ -38,7 +38,7 @@ level: kangourou
 
 > Look at the figure next to me. Only one of the circles below is the enlargement of its central part. What kind?
 
-[[src_kangourou_2014_ecolier__Q01]]
+[[Quesiti/src_kangourou_2014_ecolier#q01|src_kangourou_2014_ecolier__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: kangourou
 
 > Giacomo wants to turn the number 2014 into a five-digit number by adding the number 3 to the already existing numbers. If you want to get the smallest number possible, where should you put the number 3? A) At the beginning B) Between 2 and 0 C) Between 0 and 1 D) Between 1 and 4 E) At the end
 
-[[src_kangourou_2014_ecolier__Q02]]
+[[Quesiti/src_kangourou_2014_ecolier#q02|src_kangourou_2014_ecolier__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: kangourou
 
 > Some rectangles, including a square, and some triangles, have been added or superimposed to form the five boxes you see. For which of them were identical pieces and in the same quantity used? A) 1 e  4	            B) 3 e 4 C) 1, 4 e 5	              D) 3, 4 e 5	        E) 1, 2, 4 e 5
 
-[[src_kangourou_2014_ecolier__Q03]]
+[[Quesiti/src_kangourou_2014_ecolier#q03|src_kangourou_2014_ecolier__Q03]]
 
 
 
@@ -143,7 +143,7 @@ level: kangourou
 
 > The result of the subtraction indicated next to each of the points here is the same. Starting from the point where the result 0 corresponds, Maria wants to link it to the point where the result 1 corresponds, then she wants to link the latter to the point where the result 2 corresponds, and so on until the result 5. Which of the following patterns indicates the connections that Mary wants to make?
 
-[[src_kangourou_2014_ecolier__Q04]]
+[[Quesiti/src_kangourou_2014_ecolier#q04|src_kangourou_2014_ecolier__Q04]]
 
 
 
@@ -194,7 +194,7 @@ level: kangourou
 > Adam has less candy than Martino, but more than Susanna. Lucia has more candy than both Adam and Martin. Diana has more candy than Adam, but less than Lucia. Which one of them has more candy than the others? (A) Martin B) Adam C) Susanna D) Diana E) Lucia A) B) C) D) E) 2  2 8  6 13  9 6  5 11  8 17  12 A) B) C) D) E)
 >
 
-[[src_kangourou_2014_ecolier__Q05]]
+[[Quesiti/src_kangourou_2014_ecolier#q05|src_kangourou_2014_ecolier__Q05]]
 
 
 
@@ -230,7 +230,7 @@ level: kangourou
 > Franca's got the four tails you see right next to her. Using these scales, he wants to form the shape that is shown in each of the answers. Where do you want to put the bag ?
 
 **Answer:** C
-[[src_kangourou_2014_ecolier__Q06]]
+[[Quesiti/src_kangourou_2014_ecolier#q06|src_kangourou_2014_ecolier__Q06]]
 
 
 
@@ -263,7 +263,7 @@ level: kangourou
 
 > A shopkeeper painted the flowers you see in the figure on the right on the outside of his shop window. The glass is transparent. What does the drawing look like from inside the store?
 
-[[src_kangourou_2014_ecolier__Q07]]
+[[Quesiti/src_kangourou_2014_ecolier#q07|src_kangourou_2014_ecolier__Q07]]
 
 
 
@@ -296,7 +296,7 @@ level: kangourou
 
 > Maria sits at the table with her mother Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest of the four? A) Enrica B) Maria C) Carlo D) Roberto E) It is not possible to reply without further information. Questions from n. 9 al n. 16 is worth 4 points each.
 
-[[src_kangourou_2014_ecolier__Q08]]
+[[Quesiti/src_kangourou_2014_ecolier#q08|src_kangourou_2014_ecolier__Q08]]
 
 
 
@@ -337,7 +337,7 @@ level: kangourou
 > 	
 > C) 32 D) 64 E) 88
 
-[[src_kangourou_2014_ecolier__Q09]]
+[[Quesiti/src_kangourou_2014_ecolier#q09|src_kangourou_2014_ecolier__Q09]]
 
 
 
@@ -383,7 +383,7 @@ level: kangourou
 > 	
 > E) 48
 
-[[src_kangourou_2014_ecolier__Q10]]
+[[Quesiti/src_kangourou_2014_ecolier#q10|src_kangourou_2014_ecolier__Q10]]
 
 
 
@@ -436,7 +436,7 @@ level: kangourou
 > Look at the figure next to me. Which of the following tiles should you replace the question mark if you want the black part to have the same area as the white part? A) B) C) D) E) A) B) C) D) E) 1 2 2 1 A) B) C) D) E)
 >
 
-[[src_kangourou_2014_ecolier__Q11]]
+[[Quesiti/src_kangourou_2014_ecolier#q11|src_kangourou_2014_ecolier__Q11]]
 
 
 
@@ -488,7 +488,7 @@ level: kangourou
 > E) 100
 
 **Answer:** D
-[[src_kangourou_2014_ecolier__Q12]]
+[[Quesiti/src_kangourou_2014_ecolier#q12|src_kangourou_2014_ecolier__Q12]]
 
 
 
@@ -535,7 +535,7 @@ level: kangourou
 > 	
 > E) 18
 
-[[src_kangourou_2014_ecolier__Q13]]
+[[Quesiti/src_kangourou_2014_ecolier#q13|src_kangourou_2014_ecolier__Q13]]
 
 
 
@@ -581,7 +581,7 @@ level: kangourou
 > 	
 > E) 10
 
-[[src_kangourou_2014_ecolier__Q14]]
+[[Quesiti/src_kangourou_2014_ecolier#q14|src_kangourou_2014_ecolier__Q14]]
 
 
 
@@ -614,7 +614,7 @@ level: kangourou
 
 > By joining eight equal cubes, Thomas obtained a construction and laid it on the floor as shown in the figure to the right. Looking at the construction from above, which of the following images can Thomas see?
 
-[[src_kangourou_2014_ecolier__Q15]]
+[[Quesiti/src_kangourou_2014_ecolier#q15|src_kangourou_2014_ecolier__Q15]]
 
 
 
@@ -674,7 +674,7 @@ level: kangourou
 > 
 > Questions from n. 17 al n. Twenty-four is worth five points each.
 
-[[src_kangourou_2014_ecolier__Q16]]
+[[Quesiti/src_kangourou_2014_ecolier#q16|src_kangourou_2014_ecolier__Q16]]
 
 
 
@@ -724,7 +724,7 @@ level: kangourou
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2014_ecolier__Q17]]
+[[Quesiti/src_kangourou_2014_ecolier#q17|src_kangourou_2014_ecolier__Q17]]
 
 
 
@@ -760,7 +760,7 @@ level: kangourou
 > Seven people, men and women, are sitting around a round table. There are no two men next to each other, and no woman sits between two other women. So the number of women sitting at table A is definitely 3. B) can be either 3 or 4. C) is definitely 4. D) can be either 4 or 5. E) is definitely 5.
 
 **Answer:** C
-[[src_kangourou_2014_ecolier__Q18]]
+[[Quesiti/src_kangourou_2014_ecolier#q18|src_kangourou_2014_ecolier__Q18]]
 
 
 
@@ -812,7 +812,7 @@ level: kangourou
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2014_ecolier__Q19]]
+[[Quesiti/src_kangourou_2014_ecolier#q19|src_kangourou_2014_ecolier__Q19]]
 
 
 
@@ -856,7 +856,7 @@ level: kangourou
 > 	
 > B) C) D) E)
 
-[[src_kangourou_2014_ecolier__Q20]]
+[[Quesiti/src_kangourou_2014_ecolier#q20|src_kangourou_2014_ecolier__Q20]]
 
 
 
@@ -918,7 +918,7 @@ What toys Heinzi brought home given the coins
 > D) The motorcycle and the tram. E) Buses, motorcycles and trams. T E N M O G S E
 >
 
-[[src_kangourou_2014_ecolier__Q21]]
+[[Quesiti/src_kangourou_2014_ecolier#q21|src_kangourou_2014_ecolier__Q21]]
 
 
 
@@ -1016,7 +1016,7 @@ What toys Heinzi brought home given the coins
 > E) 7
 
 **Answer:** A
-[[src_kangourou_2014_ecolier__Q22]]
+[[Quesiti/src_kangourou_2014_ecolier#q22|src_kangourou_2014_ecolier__Q22]]
 
 
 
@@ -1065,7 +1065,7 @@ What toys Heinzi brought home given the coins
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2014_ecolier__Q23]]
+[[Quesiti/src_kangourou_2014_ecolier#q23|src_kangourou_2014_ecolier__Q23]]
 
 
 
@@ -1126,4 +1126,4 @@ What toys Heinzi brought home given the coins
 > This appropriation is intended to cover expenditure on research and technological development in the Member States.
 
 **Answer:** D
-[[src_kangourou_2014_ecolier__Q24]]
+[[Quesiti/src_kangourou_2014_ecolier#q24|src_kangourou_2014_ecolier__Q24]]

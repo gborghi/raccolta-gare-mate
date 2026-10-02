@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Qual è il numero intero positivo più piccolo che è il doppio di un cubo perfetto e il quintuplico di un quadrato perfetto?
 
-[[src_obm_2001_n3_f2__Q01]]
+[[Quesiti/src_obm_2001_n3_f2#q01|src_obm_2001_n3_f2__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: OBM Nível 3
 
 > A rectangle is divided into 9 squares $A, B, C, D, E, F, G, H$ and $I$. Square $A$ has side length $1$. What is the side length of square $I$?
 
-![[src_obm_2001_n3_f2__Q02.png]]
+![[src_obm_2001_n3_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -62,9 +62,9 @@ level: OBM Nível 3
 
 > Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H$ e $I$. Il quadrato $A$ ha lunghezza laterale $1$. Qual è la lunghezza laterale del quadrato $I$?
 
-![[src_obm_2001_n3_f2__Q02.png]]
+![[src_obm_2001_n3_f2__q02.png]]
 
-[[src_obm_2001_n3_f2__Q02]]
+[[Quesiti/src_obm_2001_n3_f2#q02|src_obm_2001_n3_f2__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: OBM Nível 3
 
 > Trapezoid $ABCD$ has bases $AB \parallel CD$. Side $DA$ has length $x$ and side $BC$ has length $2x$. The sum of angles $\angle DAB + \angle ABC = 120^\circ$. Determine angle $\angle DAB$.
 
-![[src_obm_2001_n3_f2__Q03.png]]
+![[src_obm_2001_n3_f2__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -93,9 +93,9 @@ level: OBM Nível 3
 
 > Il trapezoide $ABCD$ ha basi $AB \parallel CD$. Il lato $DA$ è lungo $x$ e il lato $BC$ è lungo $2x$. La somma degli angoli $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
 
-![[src_obm_2001_n3_f2__Q03.png]]
+![[src_obm_2001_n3_f2__q03.png]]
 
-[[src_obm_2001_n3_f2__Q03]]
+[[Quesiti/src_obm_2001_n3_f2#q03|src_obm_2001_n3_f2__Q03]]
 
 
 
@@ -130,7 +130,7 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 > 
 > b) Determinare il minimo $n$ in modo tale che, se il Vulcano FC accumula $n$ punti al secondo turno, questo garantisca al Vulcano FC un posto nella finale (indipendentemente dal numero di punti accumulati dall'avversario e dai punteggi delle altre squadre).
 
-[[src_obm_2001_n3_f2__Q04]]
+[[Quesiti/src_obm_2001_n3_f2#q04|src_obm_2001_n3_f2__Q04]]
 
 
 
@@ -159,7 +159,7 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 
 > Il numero $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$ è razionale; si esprime nella forma $\dfrac{p}{q}$, dove $p$ e $q$ sono integri positivi.
 
-[[src_obm_2001_n3_f2__Q05]]
+[[Quesiti/src_obm_2001_n3_f2#q05|src_obm_2001_n3_f2__Q05]]
 
 
 
@@ -194,4 +194,4 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 > 
 > b) Se nel cerchio iniziale ci sono studenti $192$, qual è la posizione nel cerchio dello studente scelto?
 
-[[src_obm_2001_n3_f2__Q06]]
+[[Quesiti/src_obm_2001_n3_f2#q06|src_obm_2001_n3_f2__Q06]]

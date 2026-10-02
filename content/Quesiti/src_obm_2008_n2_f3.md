@@ -29,7 +29,7 @@ level: OBM Nível 2
 > 
 > (c) Determine the total number of precious sets.
 
-![[src_obm_2008_n2_f3__Q01.png]]
+![[src_obm_2008_n2_f3__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -55,9 +55,9 @@ level: OBM Nível 2
 > 
 > c) Determinare il numero totale di set preziosi.
 
-![[src_obm_2008_n2_f3__Q01.png]]
+![[src_obm_2008_n2_f3__q01.png]]
 
-[[src_obm_2008_n2_f3__Q01]]
+[[Quesiti/src_obm_2008_n2_f3#q01|src_obm_2008_n2_f3__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: OBM Nível 2
 
 > Che $A$ sia uno dei punti di intersezione di due cerchi con centri $X$ e $Y$. Le tangenti ai cerchi a $A$ si incrociano di nuovo ai cerchi a $B$ e $C$, rispettivamente. Che $P$ sia un punto del piano tale che $PXAY$ sia un parallelo. Prove che $P$ è il circoncentro del triangolo $ABC$.
 
-[[src_obm_2008_n2_f3__Q02]]
+[[Quesiti/src_obm_2008_n2_f3#q02|src_obm_2008_n2_f3__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: OBM Nível 2
 
 > Prova che non esistono numeri interi positivi $x$ e $y$ tali da $x^x + y^y = 2^{2009}$.
 
-[[src_obm_2008_n2_f3__Q03]]
+[[Quesiti/src_obm_2008_n2_f3#q03|src_obm_2008_n2_f3__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: OBM Nível 2
 
 > Risolvere, in numeri reali, il sistema $$x + \frac{1}{y} = y + \frac{1}{z} = z + \frac{1}{x}$$ $$xyz = 1.$$
 
-[[src_obm_2008_n2_f3__Q04]]
+[[Quesiti/src_obm_2008_n2_f3#q04|src_obm_2008_n2_f3__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: OBM Nível 2
 > (a) $2008$ steps?
 > (b) $2009$ steps?
 
-![[src_obm_2008_n2_f3__Q05.png]]
+![[src_obm_2008_n2_f3__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -171,9 +171,9 @@ level: OBM Nível 2
 
 > Una formica cammina nel piano in questo modo: inizialmente cammina $1\,\text{cm}$ in qualsiasi direzione. Dopo ogni passo, cambia la direzione della sua traiettoria di $60^\circ$ a sinistra o a destra e cammina $1\,\text{cm}$ in quella nuova direzione. È possibile che la formica ritorni al suo punto di partenza in (a) $2008$? b) le fasi $2009$?
 
-![[src_obm_2008_n2_f3__Q05.png]]
+![[src_obm_2008_n2_f3__q05.png]]
 
-[[src_obm_2008_n2_f3__Q05]]
+[[Quesiti/src_obm_2008_n2_f3#q05|src_obm_2008_n2_f3__Q05]]
 
 
 
@@ -200,4 +200,4 @@ level: OBM Nível 2
 
 > Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ rientrano nel circoncircolo di $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ rientrano nel circoncircolo di $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; le linee $CA$ e $CB$ rientrano nel circoncircolo di $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le righe $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
 
-[[src_obm_2008_n2_f3__Q06]]
+[[Quesiti/src_obm_2008_n2_f3#q06|src_obm_2008_n2_f3__Q06]]

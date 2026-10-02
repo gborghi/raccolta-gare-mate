@@ -39,7 +39,7 @@ level: Concours Général
 > 
 > 1. Qual è il volume massimo di tale cilindro? 2. Qual è il volume massimo di una sfera centrata su questo asse e all'interno del cono? 3. Confronta i due massimi trovati.
 
-[[src_cgen_1999__Q01]]
+[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: Concours Général
 
 > Risolvere in $\mathbb{N}$ l'equazione in $n$: $$( n+3)^{n} = \sum_{k=1}^{n+2} k^{n}$$
 
-[[src_cgen_1999__Q02]]
+[[Quesiti/src_cgen_1999#q02|src_cgen_1999__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: Concours Général
 
 > Per quali triangoli a angolo acuto il rapporto tra lato più corto e raggio del cerchio inciso è maggiore?
 
-[[src_cgen_1999__Q03]]
+[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: Concours Général
 > 
 > Mostrare che tutti i dolci saranno mangiati e determinare la probabilità che l'ultimo dolce mangiato sia rosso.
 
-[[src_cgen_1999__Q04]]
+[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
 
 
 
@@ -159,4 +159,4 @@ level: Concours Général
 
 > Mostrare che le simmetrie di ciascun vertice di un triangolo rispetto al lato opposto sono collineari se, e solo se, la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di quel cerchio.
 
-[[src_cgen_1999__Q05]]
+[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]

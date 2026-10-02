@@ -37,7 +37,7 @@ level: JJMO Honsen
 > 
 > \textit{Condition:} Per ogni divisore positivo $d$ di $n$ con $d \leq \sqrt{n}$, $d^2$ divide $n$.
 
-[[src_jjmo12mq_honsen__Q01]]
+[[Quesiti/src_jjmo12mq_honsen#q01|src_jjmo12mq_honsen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JJMO Honsen
 
 > $n$ sia un numero intero positivo. $a_1, a_2, \ldots, a_{2n}$ siano $2n$ numeri razionali positivi. Riordinarli in ordine non diminuente dà $b_1 \leq b_2 \leq \cdots \leq b_{2n}$. Definire $A$ come valore minimo tra $\dfrac{a_2}{a_1}, \dfrac{a_3}{a_2}, \ldots, \dfrac{a_{2n}}{a_{2n-1}}$ e $B$ come valore minimo tra $\dfrac{b_2}{b_1}, \dfrac{b_3}{b_2}, \ldots, \dfrac{b_{2n}}{b_{2n-1}}$. Prove che $A \leq B$.
 
-[[src_jjmo12mq_honsen__Q02]]
+[[Quesiti/src_jjmo12mq_honsen#q02|src_jjmo12mq_honsen__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: JJMO Honsen
 
 > Che $ABC$ sia un triangolo con $\angle BAC = 60^\circ$. Il $P$ è l'intersezione del bisettore angolare di $\angle ABC$ con il lato $AC$ e il $Q$ è l'intersezione del bisettore angolare di $\angle ACB$ con il lato $AB$. Prova che il riflesso di $A$ sulla linea $PQ$ si trova sulla linea $BC$.
 
-[[src_jjmo12mq_honsen__Q03]]
+[[Quesiti/src_jjmo12mq_honsen#q03|src_jjmo12mq_honsen__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: JJMO Honsen
 > 
 > (2) Prova che se $n$ è pari e ci sono più di $\dfrac{n^2}{4}$ ponti, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
 
-[[src_jjmo12mq_honsen__Q04]]
+[[Quesiti/src_jjmo12mq_honsen#q04|src_jjmo12mq_honsen__Q04]]
 
 
 
@@ -154,4 +154,4 @@ level: JJMO Honsen
 
 > Trova tutte le coppie di integri positivi $(n, k)$ soddisfacenti $$\frac{n^n + n + 2}{(n+1)^2} = 2^k.$$
 
-[[src_jjmo12mq_honsen__Q05]]
+[[Quesiti/src_jjmo12mq_honsen#q05|src_jjmo12mq_honsen__Q05]]

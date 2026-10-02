@@ -20,7 +20,7 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 280
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Junior-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
 <span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,skill_astrazione"></span>
 
@@ -34,7 +34,7 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 729
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Junior-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
 <span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
@@ -49,7 +49,7 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Junior-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
 <span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -63,7 +63,7 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 71,25
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Junior-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
 <span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,skill_astrazione"></span>
 
@@ -77,7 +77,7 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Junior-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
 <span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
 
@@ -91,5 +91,5 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Risposta:** $(1+\sqrt{5})/2$
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Junior-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 

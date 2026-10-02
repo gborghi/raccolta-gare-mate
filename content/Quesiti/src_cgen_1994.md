@@ -36,7 +36,7 @@ level: Concours Général
 
 > Per ogni integro naturale $n$, indicare con $I_n$ il numero di integri $p$ tale che $$50^p < 7^n < 50^{p+1}.$$ 1. Mostrare che per ogni numero intero $n$, $I_n$ è uguale a 2 o 3. 2. Mostrare che esistono infinitamente molti enti $n$ per i quali $I_n = 3$, e trovare il più piccolo.
 
-[[src_cgen_1994__Q01]]
+[[Quesiti/src_cgen_1994#q01|src_cgen_1994__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: Concours Général
 > 
 > Come si deve posizionare il piano $Q$ in modo che il cilindro con basi $C$ e $C'$ abbia un volume massimo?
 
-[[src_cgen_1994__Q02]]
+[[Quesiti/src_cgen_1994#q02|src_cgen_1994__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: Concours Général
 > 
 > 1. Mostrare che, per qualsiasi scelta di $p$, esiste un intero unico $v(p)$ tale che $u_{v(p)} = 0$. 2. **a.** Calcolare $v(1994)$. Qual è il numero intero più piccolo $p$ tale che $v(p) = 1994$? **b.** Dato un intero positivo $N$, determinare il numero intero più piccolo $p$ tale da $v(p) = N$.
 
-[[src_cgen_1994__Q03]]
+[[Quesiti/src_cgen_1994#q03|src_cgen_1994__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: Concours Général
 > 
 > Determinare il punto $P$ per il quale la quantità $$BL^2 + CM^2 + AN^2$$ è minima.
 
-[[src_cgen_1994__Q04]]
+[[Quesiti/src_cgen_1994#q04|src_cgen_1994__Q04]]
 
 
 
@@ -168,4 +168,4 @@ level: Concours Général
 > 
 > 1. Calcolare $f(k)$ per $0 \le k \le 12$. 2. Calcolare $f(n)$, dove $n$ è un intero arbitrario.
 
-[[src_cgen_1994__Q05]]
+[[Quesiti/src_cgen_1994#q05|src_cgen_1994__Q05]]

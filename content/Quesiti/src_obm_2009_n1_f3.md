@@ -25,7 +25,7 @@ level: OBM Nível 1
 > 
 > b) Using the same process, Esmeralda assembled the smallest possible square with an integer side length. Show, with the help of a figure, how Esmeralda can do this.
 
-![[src_obm_2009_n1_f3__Q01.png]]
+![[src_obm_2009_n1_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -47,9 +47,9 @@ level: OBM Nível 1
 > 
 > b) Usando lo stesso processo, Esmeralda ha assemblato il più piccolo quadrato possibile con una lunghezza laterale integrale. Mostrate, con l'aiuto di una figura, come Esmeralda può fare questo.
 
-![[src_obm_2009_n1_f3__Q01.png]]
+![[src_obm_2009_n1_f3__q01.png]]
 
-[[src_obm_2009_n1_f3__Q01]]
+[[Quesiti/src_obm_2009_n1_f3#q01|src_obm_2009_n1_f3__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: OBM Nível 1
 > 
 > c) È possibile ottenere $A = 4$ e $B = 3$? Non dimenticate di giustificare la vostra risposta.
 
-[[src_obm_2009_n1_f3__Q02]]
+[[Quesiti/src_obm_2009_n1_f3#q02|src_obm_2009_n1_f3__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: OBM Nível 1
 > 
 > Find the values of $a$, $b$, $c$, $d$, $e$, $f$, $x$ and $m$.
 
-![[src_obm_2009_n1_f3__Q03.png]]
+![[src_obm_2009_n1_f3__q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -129,9 +129,9 @@ level: OBM Nível 1
 > 
 > Trova i valori di $a$, $b$, $c$, $d$, $e$, $f$, $x$ e $m$.
 
-![[src_obm_2009_n1_f3__Q03.png]]
+![[src_obm_2009_n1_f3__q03.png]]
 
-[[src_obm_2009_n1_f3__Q03]]
+[[Quesiti/src_obm_2009_n1_f3#q03|src_obm_2009_n1_f3__Q03]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 1
 > 
 > Quanti numeri interi positivi con quattro cifre sono abuttati?
 
-[[src_obm_2009_n1_f3__Q04]]
+[[Quesiti/src_obm_2009_n1_f3#q04|src_obm_2009_n1_f3__Q04]]
 
 
 
@@ -193,4 +193,4 @@ level: OBM Nível 1
 > 
 > b) Esiste un numero intero positivo inferiore o uguale a $11000$ con almeno $200$ divisori positivi? Non dimenticate di giustificare la vostra risposta.
 
-[[src_obm_2009_n1_f3__Q05]]
+[[Quesiti/src_obm_2009_n1_f3#q05|src_obm_2009_n1_f3__Q05]]

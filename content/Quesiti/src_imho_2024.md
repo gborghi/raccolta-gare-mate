@@ -35,7 +35,7 @@ level: IMO
 
 > Determine to real numbers $\alpha$ such that, for every positive integer $n$, the integer $$\lfloor \alpha \rfloor + \lfloor 2\alpha \rfloor + \cdots + \lfloor n\alpha \rfloor$$ is a multiple of $n$. (Note that $\lfloor z \rfloor$ denotes the greatest integer less than or equal to $z$. For example, $\lfloor -\pi \rfloor = -4$ and $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
 
-[[src_imho_2024__Q01]]
+[[Quesiti/src_imho_2024#q01|src_imho_2024__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: IMO
 
 > Determine the pairs $(a, b)$ of positive integers for which there exist positive integers $y$ and $N$ such that $$\gcd(a^n + b,\, b^n + a) = y$$ holds for all integers $n \geq N$. (Note that $\gcd(x, y)$ denotes the greatest common divisor of integers $x$ and $y$.)
 
-[[src_imho_2024__Q02]]
+[[Quesiti/src_imho_2024#q02|src_imho_2024__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: IMO
 > 
 > (An infinite sequence $b_1, b_2, b_3, \ldots$ is eventually periodic if there exist positive integers $p$ and $M$ such that $b_{m+p} = b_m$ for all $m \geq M$.)
 
-[[src_imho_2024__Q03]]
+[[Quesiti/src_imho_2024#q03|src_imho_2024__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: IMO
 > 
 > Prove that $\angle KIL + \angle YPX = 180^\circ$.
 
-[[src_imho_2024__Q04]]
+[[Quesiti/src_imho_2024#q04|src_imho_2024__Q04]]
 
 
 
@@ -161,7 +161,7 @@ Monster game on 2024x2025 grid, minimum guaranteed attempts
 > 
 > Determine the minimum value of $n$ for which Turbo has a strategy that guarantees reaching the last row on the $n^{\mathrm{th}}$ attempt or earlier, regardless of the locations of the monsters.
 
-[[src_imho_2024__Q05]]
+[[Quesiti/src_imho_2024#q05|src_imho_2024__Q05]]
 
 
 
@@ -190,4 +190,4 @@ Monster game on 2024x2025 grid, minimum guaranteed attempts
 
 > Let $\mathbb{Q}$ be the set of rational numbers. A function $f : \mathbb{Q} \to \mathbb{Q}$ is called aquasiperiodic if the following property holds: for every $x, y \in \mathbb{Q}$, $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$ Show that there exists an integer $c$ such that for any aquasiperiodic function $f$ there are at most $c$ different rational numbers $r$ such that $f(r) = f(-r)$, and find the smallest possible value of $c$.
 
-[[src_imho_2024__Q06]]
+[[Quesiti/src_imho_2024#q06|src_imho_2024__Q06]]

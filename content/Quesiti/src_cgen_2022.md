@@ -78,7 +78,7 @@ level: Concours Général
 > 
 > 1.3 Unicità. $y$ sia un reale scintillante contenuto nell'intervallo $[k; k+1[$. Per ogni intero $n \ge 1$, impostare $r_n = \mathrm{E}\left(y^{(2^n)}\right) + 2$. 10. Indicare che $u_n = r_n$ per ogni numero intero $n \ge 1$. 11. Con le notazioni della parte 1.2, indicare che per ogni numero intero $n \ge 1$, $a_n \le y \le b_n$. 12.a. Che $x$ e $y$ siano due reali con $x \ge y \ge 1$. Indicare che, per ogni numero intero $n \ge 1$, $x^{(2^n)} - y^{(2^n)} \ge 2^n(x - y)$. b. Indicare che le sequenze $(a_n)_n$ e $(b_n)_{n \ge 1}$ convergono allo stesso limite $y$. 13. Indicare che $y$ è il reale spumante unico contenuto nell'intervallo $[k; k+1[$.
 
-[[src_cgen_2022__Q01]]
+[[Quesiti/src_cgen_2022#q01|src_cgen_2022__Q01]]
 
 
 
@@ -191,7 +191,7 @@ level: Concours Général
 > 
 > 2.7 verso l'infinito e oltre! 19. La sequenza $(M_k)_{k \ge 0}$ contiene necessariamente un infinito di punti allineati?
 
-[[src_cgen_2022__Q02]]
+[[Quesiti/src_cgen_2022#q02|src_cgen_2022__Q02]]
 
 
 
@@ -279,4 +279,4 @@ level: Concours Général
 > 
 > 3.4 Una generalizzazione. Abbiamo il torneo regolare descritto nella parte 3.3. Tuttavia, oltre alle partite del torneo, decidiamo di avere ogni membro della squadra $A$ giocare contro ogni membro della squadra $B$ che non ha incontrato durante il torneo, le partite supplementari sempre soddisfa proprietà $(\star)$. Questo dà un totale di corrispondenze $mn$. Codifichiamo i risultati di queste partite mediante un quadro rettangolare di righe $m$ e colonne $n$. Nella cella della riga $i$ e della colonna $j$, posizionamo un simbolo $A$ se $A_i$ ha vinto contro $B_j$, e un simbolo $B$ altrimenti. Nell'esempio del torneo presentato all'inizio della parte 3.3 con $m = n = 3$, si ottiene un quadro $3 \times 3$ le cui voci sono $A$ o $B$, dove ogni simbolo nasconde un $A$ o un $B$ a seconda del risultato della partita aggiunta al torneo. In generale, diciamo che il quadro è un risultato possibile per il team $A$. 7. In questa domanda, supponiamo $m = 2$. Indicare le possibili forme di tutte le tabelle vincenti e mostrare che, per ogni numero intero $n \ge 1$, ci sono esattamente $2^n + n\,2^{n-1}$ tabelle vincenti. 8. In questa domanda, supponiamo ancora $m = 2$. a. Indichiamo con $D$ il prodotto di tutti i termini $(a_i + b_j)$ in quanto $j$ va oltre $\{1, 2, \ldots, n\}$. Quindi $D = (a_1 + b_1)\cdots(a_1 + b_n) \times (a_2 + b_1)\cdots(a_2 + b_n)$. Si può scrivere $D = \prod_{j=1}^{n} (a_1 + b_j)(a_2 + b_j)$. Considerate un tabellone $T$, vincente o meno. Per questo quadro, indichiamo rispettivamente con $x_1$ e $x_2$ il numero di partite vinte da $A_1$ e da $A_2$, e per ogni $j$ con $y_j$ il numero di partite vinte da $B_j$. Infine, si organizza un torneo tra le squadre $A$ e $B$, e indichiamo con $\mathbb{P}_T$ la probabilità che questo tabellone sia il risultato del torneo. Esprimere $\mathbb{P}_T$ in funzione dei numeri $D, a_1, a_2, x_1, x_2, b_1, \ldots, b_n, y_1, y_2, \ldots, y_n$. b. Supponiamo che$T$ sia un tabellone vincente. Indichiamo con $k$ il numero di colonne $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ di $T$ e con $\ell$ il suo numero di colonne $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$. i. giustificare che $T$ non contiene colonna $\left[\begin{smallmatrix} B \\ B \end{smallmatrix}\right]$ e che nessuna colonna $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ è a destra di una colonna $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$. ii. Indichiamo con $T'$ la tabella ottenuta da $T$ nel seguente modo: conserviamo le colonne $\left[\begin{smallmatrix} A \\ A \end{smallmatrix}\right]$ e le lasciamo al loro posto; rimpiazziamo le colonne $k$ $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ e $\ell$ $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$ di $T$ con le colonne $\ell$ $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ seguite dalle colonne $k$ $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$. Mostrare che $T'$ è un quadro vincente. Che cosa si ottiene se si effettua la stessa trasformazione a partire da $T'$? c. Mostrare che la probabilità che la squadra $A$ vinca il torneo non dipende dall'ordine scelto per i giocatori della squadra $A$ per partecipare al torneo. 9. Torniamo al caso generale ($m$ arbitrario). Mostrare che la probabilità che la squadra $A$ vinca il torneo non dipende dall'ordine scelto per i giocatori per partecipare al torneo.
 
-[[src_cgen_2022__Q03]]
+[[Quesiti/src_cgen_2022#q03|src_cgen_2022__Q03]]

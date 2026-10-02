@@ -33,7 +33,7 @@ level: RMO
 
 > $\alpha$ sia lo zero comune dei tre polinomi $x^2 + ax + b$, $x^2 + x + ab$ e $ax^2 + x + b$. (In questo modo $\alpha^2 + a\alpha + b = 0$, $\alpha^2 + \alpha + ab = 0$ e $a\alpha^2 + \alpha + b = 0$.) Trova tutti questi polinomi, cioè\ trova tutti i valori di $a$ e $b$.
 
-[[src_rmo_2012_mumbai__Q01]]
+[[Quesiti/src_rmo_2012_mumbai#q01|src_rmo_2012_mumbai__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > $n$ sia un numero naturale. Prova che $169$ divide $21n^2 + 89n + 44$ se e solo se $13$ divide $n^2 + 3n + 51$.
 
-[[src_rmo_2012_mumbai__Q02]]
+[[Quesiti/src_rmo_2012_mumbai#q02|src_rmo_2012_mumbai__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: RMO
 > Risolvi l'equazione $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, dove $\lfloor x \rfloor$ indica la parte integrale di $x$ e $\{x\}$ indica la sua parte frazionaria.
 
 **Risposta:** $x = 14/5$
-[[src_rmo_2012_mumbai__Q03]]
+[[Quesiti/src_rmo_2012_mumbai#q03|src_rmo_2012_mumbai__Q03]]
 
 
 
@@ -102,7 +102,7 @@ level: RMO
 
 > Let $AEB$ be such that $\angle AEB = 90^\circ$ and let $ED$ be perpendicular to $AB$. Prove that $AD \cdot DB = HD \cdot CD$, i.e.\ that $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, where the points $C$, $E$, $H$, $D$ are as in the accompanying figure (with $\angle DAH = \angle BCD$ and $\angle DAH = \angle CDB$ so that triangles $ADH$ and $CDB$ are similar).
 
-![[src_rmo_2012_mumbai__Q04.png]]
+![[src_rmo_2012_mumbai__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -117,9 +117,9 @@ level: RMO
 
 > Il $AEB$ deve essere tale che $\angle AEB = 90^\circ$ e il $ED$ deve essere perpendicolare a $AB$. Prove che $AD \cdot DB = HD \cdot CD$, cioè che $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, dove i punti $C$, $E$, $H$, $D$ sono come nella figura di accompagnamento (con $\angle DAH = \angle BCD$ e $\angle DAH = \angle CDB$ in modo che i triangoli $ADH$ e $CDB$ siano simili).
 
-![[src_rmo_2012_mumbai__Q04.png]]
+![[src_rmo_2012_mumbai__q04.png]]
 
-[[src_rmo_2012_mumbai__Q04]]
+[[Quesiti/src_rmo_2012_mumbai#q04|src_rmo_2012_mumbai__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: RMO
 > Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo che $a$ sia un primo, $1 \le a \le b \le c$, e $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
 
 **Risposta:** $(a,b,c)\in\{(2,5,30),(2,6,18),(2,7,14),(2,8,12),(2,10,10),(3,4,18),(3,6,9)\}$
-[[src_rmo_2012_mumbai__Q05]]
+[[Quesiti/src_rmo_2012_mumbai#q05|src_rmo_2012_mumbai__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: RMO
 > Per un sottogruppo non vuoto $A$ di $S = \{1, 2, \ldots, 10\}$, definire $w(A)$ organizzando gli elementi di $A$ in ordine decrescente e quindi aggiungendo e sottrattandoli alternatamente, a partire dall'aggiunta (si aggiunge l'elemento più grande). $\mathrm{WSUM}$ sia la somma di $w(A)$ su tutti i sottoinsiemi non vuoti $A$ di $S$. Mostra che $\mathrm{WSUM} = 70656$.
 
 **Risposta:** $70656$
-[[src_rmo_2012_mumbai__Q06]]
+[[Quesiti/src_rmo_2012_mumbai#q06|src_rmo_2012_mumbai__Q06]]
 
 
 
@@ -190,7 +190,7 @@ level: RMO
 
 > In the given configuration, $O$, $E$, $X$ are collinear, $A$, $B$, $C$, $D$ lie on a circle, and triangles $OCX$ and $CEX$ are similar so that $XC/XO = XE/XC$, i.e.\ $XC^2 = XO\cdot XE$; also $XC^2 = XB\cdot XA$, hence $XB\cdot XA = XE\cdot XO$ and so $O$, $A$, $B$, $E$ are concyclic. Given $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, prove that $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
-![[src_rmo_2012_mumbai__Q07.png]]
+![[src_rmo_2012_mumbai__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -206,10 +206,10 @@ level: RMO
 
 > Nella configurazione data, $O$, $E$, $X$ sono collineari, $A$, $B$, $C$, $D$ si trovano su un cerchio, e i triangoli $OCX$ e $CEX$ sono simili in modo che $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; anche $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Date $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, dimostrare che $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
-![[src_rmo_2012_mumbai__Q07.png]]
+![[src_rmo_2012_mumbai__q07.png]]
 
 **Risposta:** $\angle AOB = 100^\circ$
-[[src_rmo_2012_mumbai__Q07]]
+[[Quesiti/src_rmo_2012_mumbai#q07|src_rmo_2012_mumbai__Q07]]
 
 
 
@@ -236,4 +236,4 @@ level: RMO
 
 > $x = 2a$, $y = 2b$, $z = 2c$ con $a, b, c > 1$ che soddisfi $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Provare che $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
 
-[[src_rmo_2012_mumbai__Q08]]
+[[Quesiti/src_rmo_2012_mumbai#q08|src_rmo_2012_mumbai__Q08]]

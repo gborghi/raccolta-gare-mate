@@ -43,7 +43,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > How many different arrival orders are possible?
 
 **Answer:** 24
-[[src_bocconi_finaleint_2007_g2__Q01]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q01|src_bocconi_finaleint_2007_g2__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > What is this number?
 
 **Answer:** 369
-[[src_bocconi_finaleint_2007_g2__Q02]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q02|src_bocconi_finaleint_2007_g2__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > How many buttons are missing on the command?
 
-[[src_bocconi_finaleint_2007_g2__Q03]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q03|src_bocconi_finaleint_2007_g2__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Using one or more of these four stamps, ** for how many of the following values can Timothée obtain exactly that value? ** $$0{,}40\,€\;;\;0{,}50\,€\;;\;0{,}80\,€\;;\;0{,}90\,€\;;\;1{,}00\,€\;;\;1{,}10\,€\;;\;1{,}20\,€\;;\;1{,}30\,€\;;\;1{,}40\,€\;;\;1{,}50\,€\;;\;1{,}60\,€$$
 
 **Answer:** 2
-[[src_bocconi_finaleint_2007_g2__Q04]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q04|src_bocconi_finaleint_2007_g2__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > **Quanti chili di vernice ci vogliono per dipingere interamente il secondo solido?**
 
-![[src_bocconi_finaleint_2007_g2__Q05.png]]
+![[src_bocconi_finaleint_2007_g2__q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -175,10 +175,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > How many pounds of paint do you need to paint the second solid?
 
-![[src_bocconi_finaleint_2007_g2__Q05.png]]
+![[src_bocconi_finaleint_2007_g2__q05.png]]
 
 **Answer:** 4 kg
-[[src_bocconi_finaleint_2007_g2__Q05]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q05|src_bocconi_finaleint_2007_g2__Q05]]
 
 
 
@@ -211,7 +211,7 @@ Aline's age derived from a mathematical magic game
 > What is the age of Aline?**
 
 **Answer:** 27 anni
-[[src_bocconi_finaleint_2007_g2__Q06]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q06|src_bocconi_finaleint_2007_g2__Q06]]
 
 
 
@@ -228,7 +228,7 @@ Aline's age derived from a mathematical magic game
 > 
 > I numeri $1$, $2$ e $10$ sono già piazzati. **A voi di piazzare gli altri.**
 
-![[src_bocconi_finaleint_2007_g2__Q07.png]]
+![[src_bocconi_finaleint_2007_g2__q07.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -247,10 +247,10 @@ Aline's age derived from a mathematical magic game
 > 
 > The numbers $1$, $2$ and $10$ are already placed. **It's up to you to place the others.**
 
-![[src_bocconi_finaleint_2007_g2__Q07.png]]
+![[src_bocconi_finaleint_2007_g2__q07.png]]
 
 **Answer:** (disposizione mostrata nella figura della soluzione)
-[[src_bocconi_finaleint_2007_g2__Q07]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q07|src_bocconi_finaleint_2007_g2__Q07]]
 
 
 
@@ -286,7 +286,7 @@ Aline's age derived from a mathematical magic game
 > **How many words does Ali Baba have to say, at least, including the beginning and the end? **
 
 **Answer:** 7
-[[src_bocconi_finaleint_2007_g2__Q08]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q08|src_bocconi_finaleint_2007_g2__Q08]]
 
 
 
@@ -301,7 +301,7 @@ Aline's age derived from a mathematical magic game
 > 
 > Fino a $2007$ incluso, **quanti nombrabars esistono il cui numero totale di barrette è uguale a $20$?**
 
-![[src_bocconi_finaleint_2007_g2__Q09.png]]
+![[src_bocconi_finaleint_2007_g2__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -320,10 +320,10 @@ Aline's age derived from a mathematical magic game
 > 
 > Up to $2007$ included, **how many number bars exist whose total number of bars is equal to $20$?**
 
-![[src_bocconi_finaleint_2007_g2__Q09.png]]
+![[src_bocconi_finaleint_2007_g2__q09.png]]
 
 **Answer:** 93
-[[src_bocconi_finaleint_2007_g2__Q09]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q09|src_bocconi_finaleint_2007_g2__Q09]]
 
 
 
@@ -356,7 +356,7 @@ Aline's age derived from a mathematical magic game
 > **What was this amount, expressed in euro and cents? **
 
 **Answer:** 1,03 €
-[[src_bocconi_finaleint_2007_g2__Q10]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q10|src_bocconi_finaleint_2007_g2__Q10]]
 
 
 
@@ -389,7 +389,7 @@ Aline's age derived from a mathematical magic game
 > **What is the larger of these two numbers? **
 
 **Answer:** 534 ; 546 ; 654
-[[src_bocconi_finaleint_2007_g2__Q11]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q11|src_bocconi_finaleint_2007_g2__Q11]]
 
 
 
@@ -422,7 +422,7 @@ Aline's age derived from a mathematical magic game
 > How many balls does Bill have to extract at least randomly to make sure he has balls of at least different colors?
 
 **Answer:** 67
-[[src_bocconi_finaleint_2007_g2__Q12]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q12|src_bocconi_finaleint_2007_g2__Q12]]
 
 
 
@@ -439,7 +439,7 @@ Aline's age derived from a mathematical magic game
 > 
 > **Completate il patron del cubo.** Nota: sul disegno, i colori sono rappresentati dalle cifre da $1$ a $4$. Due patron differenti di uno stesso cubo saranno considerati come una sola e medesima soluzione.
 
-![[src_bocconi_finaleint_2007_g2__Q13.png]]
+![[src_bocconi_finaleint_2007_g2__q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
@@ -458,10 +458,10 @@ Aline's age derived from a mathematical magic game
 > 
 > **Complete the cube pattern.** Note: In the drawing, the colors are represented by the digits from $1$ to $4$. Two different patrons of the same cube will be considered as one and the same solution.
 
-![[src_bocconi_finaleint_2007_g2__Q13.png]]
+![[src_bocconi_finaleint_2007_g2__q13.png]]
 
 **Answer:** 2 soluzioni
-[[src_bocconi_finaleint_2007_g2__Q13]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q13|src_bocconi_finaleint_2007_g2__Q13]]
 
 
 
@@ -474,7 +474,7 @@ Aline's age derived from a mathematical magic game
 
 > I due cerchi hanno lo stesso raggio. Nel cerchio di sinistra, ogni casella misura ... Quelle è l'area del grande quadrato grigio nel cerchio di destra?
 
-![[src_bocconi_finaleint_2007_g2__Q14.png]]
+![[src_bocconi_finaleint_2007_g2__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -491,10 +491,10 @@ Aline's age derived from a mathematical magic game
 
 > The two circles have the same radius. In the circle on the left, each box measures... That's the area of the great gray square in the circle to the right?
 
-![[src_bocconi_finaleint_2007_g2__Q14.png]]
+![[src_bocconi_finaleint_2007_g2__q14.png]]
 
 **Answer:** 75 cm²
-[[src_bocconi_finaleint_2007_g2__Q14]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q14|src_bocconi_finaleint_2007_g2__Q14]]
 
 
 
@@ -509,7 +509,7 @@ Aline's age derived from a mathematical magic game
 > 
 > **Qual è la somma delle ipotenuse dei due triangoli rettangoli, espressa in metri?**
 
-![[src_bocconi_finaleint_2007_g2__Q15.png]]
+![[src_bocconi_finaleint_2007_g2__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -528,10 +528,10 @@ Aline's age derived from a mathematical magic game
 > 
 > **What is the sum of the hypotenuses of the two rectangular triangles, expressed in meters? **
 
-![[src_bocconi_finaleint_2007_g2__Q15.png]]
+![[src_bocconi_finaleint_2007_g2__q15.png]]
 
 **Answer:** 350 m
-[[src_bocconi_finaleint_2007_g2__Q15]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q15|src_bocconi_finaleint_2007_g2__Q15]]
 
 
 
@@ -564,7 +564,7 @@ The size of the chocolate table to ensure Alice's victory
 > What size of board should Alice choose if she wants to be sure of winning, playing her best, knowing that a board has at least two squares and that each of its two sizes is up to ten squares?
 
 **Answer:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 soluzioni)
-[[src_bocconi_finaleint_2007_g2__Q16]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q16|src_bocconi_finaleint_2007_g2__Q16]]
 
 
 
@@ -593,7 +593,7 @@ The size of the chocolate table to ensure Alice's victory
 > It is recalled that a regular icosahedron is a polyhedron whose $20$ faces are identical equilateral triangles (with $12$ vertices and $30$ edges). Here, it's a lamp whose beams each measure $80$ cm in length. A beetle starts from the midpoint of a spike to follow a trajectory corresponding to a straight line on a flat, single-piece pattern of polyhedron. When touching a beam of a face already visited, ** what distance, expressed in mm, will it have traveled, at most?** A face is considered to be visited if the distance traveled on this face is nothing. You can take $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}645$ for $\sqrt{7}$; $3{,}606$ for $\sqrt{13}$; $4{,}123$ for $\sqrt{17}$ and $4{,}359$ for $\sqrt{19}$, and round the distance to the nearest millimeter.
 
 **Answer:** 528,5 cm
-[[src_bocconi_finaleint_2007_g2__Q17]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q17|src_bocconi_finaleint_2007_g2__Q17]]
 
 
 
@@ -626,4 +626,4 @@ The size of the chocolate table to ensure Alice's victory
 > In a tree, how many stems are there, at most?
 
 **Answer:** 188
-[[src_bocconi_finaleint_2007_g2__Q18]]
+[[Quesiti/src_bocconi_finaleint_2007_g2#q18|src_bocconi_finaleint_2007_g2__Q18]]

@@ -17,7 +17,7 @@ level: kangourou
 
 *Area della regione delimitata da quattro archi uguali*
 
-![[src_kangourou_2020_cadet_finale__probC1.png]]
+![[src_kangourou_2020_cadet_finale__probc1.png]]
 
 > I quattro archi che delimitano la regione ombreggiata hanno tutti la stessa lunghezza, uguale alla lunghezza dei due archi tratteggiati. Questa lunghezza è un quarto della lunghezza di una circonferenza di raggio 1 cm. Quanti centimetri quadrati misura l'area della regione ombreggiata? (vedi figura)
 
@@ -33,12 +33,12 @@ level: kangourou
 
 *Area of the region bounded by four equal arcs*
 
-![[src_kangourou_2020_cadet_finale__probC1.png]]
+![[src_kangourou_2020_cadet_finale__probc1.png]]
 
 > The four arches that delimit the shaded region are all the same length, equal to the length of the two stretched arches. This length is a quarter of the length of a radius of 1 cm. How many square inches is the area of the shaded region? (see figure)
 
 **Answer:** 2
-[[src_kangourou_2020_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2020_cadet_finale#qc1|src_kangourou_2020_cadet_finale__QC1]]
 
 
 
@@ -67,7 +67,7 @@ level: kangourou
 > In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
 
 **Answer:** 2020
-[[src_kangourou_2020_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2020_cadet_finale#qc2|src_kangourou_2020_cadet_finale__QC2]]
 
 
 
@@ -96,7 +96,7 @@ level: kangourou
 > If $n$ is the smallest positive integer such that the number $7 \cdot n$ has 2021 digits. What is the unit number of $n$?
 
 **Answer:** 9
-[[src_kangourou_2020_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2020_cadet_finale#qc3|src_kangourou_2020_cadet_finale__QC3]]
 
 
 
@@ -137,7 +137,7 @@ level: kangourou
 > (c) for each method of filling the grid there is at most a special number.
 
 **Answer:** aF bV cV
-[[src_kangourou_2020_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2020_cadet_finale#qc4|src_kangourou_2020_cadet_finale__QC4]]
 
 
 
@@ -148,7 +148,7 @@ level: kangourou
 
 *Piu poligoni convessi che contengono p o che non lo contengono*
 
-![[src_kangourou_2020_cadet_finale__probC5.png]]
+![[src_kangourou_2020_cadet_finale__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -176,7 +176,7 @@ level: kangourou
 
 *Pious convex polygons containing p or not containing p*
 
-![[src_kangourou_2020_cadet_finale__probC5.png]]
+![[src_kangourou_2020_cadet_finale__probc5.png]]
 
 ```tikz
 \begin{document}
@@ -193,7 +193,7 @@ level: kangourou
 > On a circumference, 10 points two to two apart are marked. All possible convex polygons (i.e. non-woven polygons having all the inner angles less than $180°$) whose vertices are some of the marked points shall be considered. Whether $p$ any of the points marked. Are there more polygons containing $p$ or those not containing it, or are they in the same number? (see figure)
 
 **Answer:** piu p
-[[src_kangourou_2020_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2020_cadet_finale#qc5|src_kangourou_2020_cadet_finale__QC5]]
 
 
 
@@ -222,4 +222,4 @@ level: kangourou
 > How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
 
 **Answer:** 6
-[[src_kangourou_2020_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2020_cadet_finale#qc6|src_kangourou_2020_cadet_finale__QC6]]

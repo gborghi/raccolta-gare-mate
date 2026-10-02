@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > In the figure, the vertices of rectangle $PQRS$ lie on the sides of rectangle $ABCD$. Given $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm, and $CR = 8$ cm, what is the area of rectangle $PQRS$, in cm$^2$?
 
-![[src_obm_2011_n1_f2__Q01.png]]
+![[src_obm_2011_n1_f2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: OBM Nível 1
 
 > Nella figura, i vertici del rettangolo $PQRS$ si trovano sui lati del rettangolo $ABCD$. Dato $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm e $CR = 8$ cm, qual è la superficie del rettangolo $PQRS$, in cm$^2$?
 
-![[src_obm_2011_n1_f2__Q01.png]]
+![[src_obm_2011_n1_f2__q01.png]]
 
-[[src_obm_2011_n1_f2__Q01]]
+[[Quesiti/src_obm_2011_n1_f2#q01|src_obm_2011_n1_f2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 1
 
 > A ogni vertice di un cubo, Esmeralda scrive un numero. Quindi calcola la somma dei quattro numeri alle vertici di ciascuna faccia. Trova che le sei somme facciali sono $8$, $10$, $11$, $12$, $13$ e $e$. La faccia con somma $x$ è opposta alla faccia con somma $8$. Qual è il valore di $x$?
 
-[[src_obm_2011_n1_f2__Q02]]
+[[Quesiti/src_obm_2011_n1_f2#q02|src_obm_2011_n1_f2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 
 > Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, le persone si sono radunate in un cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" Quante persone della tribù rossa (i bugiardi) potrebbero essere nel cerchio?
 
-[[src_obm_2011_n1_f2__Q03]]
+[[Quesiti/src_obm_2011_n1_f2#q03|src_obm_2011_n1_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 
 > Con piccoli cubetti della stessa dimensione, è stato costruito un grande cubo $4 \times 4 \times 4$. I piccoli cubetti sono fatti di materiali diversi: un piccolo cubetto che ha esattamente $3$ vicini facciali (cubi che condividono un volto con esso) pesa $10$ grammi; uno con $4$ vicini facciali pesa $8$ grammi; uno con $5$ vicini facciali pesa $6$ grammi; e uno con $6$ vicini facciali pesa $4$ grammi. Qual è la massa totale del grande cubo, in grammi?
 
-[[src_obm_2011_n1_f2__Q04]]
+[[Quesiti/src_obm_2011_n1_f2#q04|src_obm_2011_n1_f2__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 
 > Quanti numeri $3$ di cifre che non contengono cifre zero hanno almeno due cifre uguali?
 
-[[src_obm_2011_n1_f2__Q05]]
+[[Quesiti/src_obm_2011_n1_f2#q05|src_obm_2011_n1_f2__Q05]]
 
 
 
@@ -172,7 +172,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 
 > Diciamo che due o più numeri sono fratelli quando hanno esattamente gli stessi fattori primi. Ad esempio, $10 = 2 \times 5$ e $20 = 2^2 \times 5$ sono fratelli, poiché $2$ e $5$ sono i loro unici fattori primari. Il numero $60$ può avere fratelli inferiori a $1000$. Quanti fratelli hanno meno di $1000$ $60$?
 
-[[src_obm_2011_n1_f2__Q06]]
+[[Quesiti/src_obm_2011_n1_f2#q06|src_obm_2011_n1_f2__Q06]]
 
 
 
@@ -214,7 +214,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 > 
 > b) Qual è la cifra di unità di $1^2 + 2^2 + \cdots + 2011^2$?
 
-[[src_obm_2011_n1_f2__Q07]]
+[[Quesiti/src_obm_2011_n1_f2#q07|src_obm_2011_n1_f2__Q07]]
 
 
 
@@ -253,7 +253,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 > 
 > c) Esistono numeri il cui selo è $(6;\, m)$? Qual è il minimo valore possibile di $m$?
 
-[[src_obm_2011_n1_f2__Q08]]
+[[Quesiti/src_obm_2011_n1_f2#q08|src_obm_2011_n1_f2__Q08]]
 
 
 
@@ -270,7 +270,7 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 > 
 > b) Diamantino claims he can obtain $11$ squares on his own geoplane. Show that you can also obtain the same quantity on the $5 \times 5$ grid of nails shown below. Do not forget to mark the arrows on the drawing.
 
-![[src_obm_2011_n1_f2__Q09.png]]
+![[src_obm_2011_n1_f2__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -290,6 +290,6 @@ Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il
 > 
 > b) Diamantino sostiene di poter ottenere $11$ quadrati sul proprio geoplano. Mostrare che è possibile ottenere la stessa quantità anche sulla griglia $5 \times 5$ di unghie mostrata sotto. Non dimenticate di segnare le frecce sul disegno.
 
-![[src_obm_2011_n1_f2__Q09.png]]
+![[src_obm_2011_n1_f2__q09.png]]
 
-[[src_obm_2011_n1_f2__Q09]]
+[[Quesiti/src_obm_2011_n1_f2#q09|src_obm_2011_n1_f2__Q09]]

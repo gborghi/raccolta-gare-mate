@@ -46,7 +46,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 92
 
 **Risposta:** C
-[[src_smc_2025__Q01]]
+[[Quesiti/src_smc_2025#q01|src_smc_2025__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: Senior Mathematical Challenge
 > - **(D)** \frac{3}{9}
 > - **(E)** \frac{4}{9}
 
-![[src_smc_2025__Q02.png]]
+![[src_smc_2025__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -87,10 +87,10 @@ level: Senior Mathematical Challenge
 > - **(D)** - Sì, certo.
 > - **(E)** - Sì, certo.
 
-![[src_smc_2025__Q02.png]]
+![[src_smc_2025__q02.png]]
 
 **Risposta:** E
-[[src_smc_2025__Q02]]
+[[Quesiti/src_smc_2025#q02|src_smc_2025__Q02]]
 
 
 
@@ -131,7 +131,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 4
 
 **Risposta:** E
-[[src_smc_2025__Q03]]
+[[Quesiti/src_smc_2025#q03|src_smc_2025__Q03]]
 
 
 
@@ -172,7 +172,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 18
 
 **Risposta:** A
-[[src_smc_2025__Q04]]
+[[Quesiti/src_smc_2025#q04|src_smc_2025__Q04]]
 
 
 
@@ -191,7 +191,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 2:3
 > - **(E)** 4:9
 
-![[src_smc_2025__Q05.png]]
+![[src_smc_2025__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -213,10 +213,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 2:3
 > - **(E)** 4:9
 
-![[src_smc_2025__Q05.png]]
+![[src_smc_2025__q05.png]]
 
 **Risposta:** A
-[[src_smc_2025__Q05]]
+[[Quesiti/src_smc_2025#q05|src_smc_2025__Q05]]
 
 
 
@@ -257,7 +257,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 0
 
 **Risposta:** B
-[[src_smc_2025__Q06]]
+[[Quesiti/src_smc_2025#q06|src_smc_2025__Q06]]
 
 
 
@@ -298,7 +298,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 301
 
 **Risposta:** D
-[[src_smc_2025__Q07]]
+[[Quesiti/src_smc_2025#q07|src_smc_2025__Q07]]
 
 
 
@@ -317,7 +317,7 @@ level: Senior Mathematical Challenge
 > - **(D)** \frac{\sqrt{3}}{4}
 > - **(E)** \frac{\sqrt{2}\pi}{9}
 
-![[src_smc_2025__Q08.png]]
+![[src_smc_2025__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -339,10 +339,10 @@ level: Senior Mathematical Challenge
 > - **(D)** - Sì, certo.
 > - **(E)** - Sì, certo.
 
-![[src_smc_2025__Q08.png]]
+![[src_smc_2025__q08.png]]
 
 **Risposta:** B
-[[src_smc_2025__Q08]]
+[[Quesiti/src_smc_2025#q08|src_smc_2025__Q08]]
 
 
 
@@ -383,7 +383,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 15
 
 **Risposta:** C
-[[src_smc_2025__Q09]]
+[[Quesiti/src_smc_2025#q09|src_smc_2025__Q09]]
 
 
 
@@ -424,7 +424,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 6
 
 **Risposta:** E
-[[src_smc_2025__Q10]]
+[[Quesiti/src_smc_2025#q10|src_smc_2025__Q10]]
 
 
 
@@ -443,7 +443,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{17}{\sqrt{2}}$
 > - **(E)** $10\sqrt{2}$
 
-![[src_smc_2025__Q11.png]]
+![[src_smc_2025__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -465,10 +465,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{17}{\sqrt{2}}$
 > - **(E)** $10\sqrt{2}$
 
-![[src_smc_2025__Q11.png]]
+![[src_smc_2025__q11.png]]
 
 **Risposta:** B
-[[src_smc_2025__Q11]]
+[[Quesiti/src_smc_2025#q11|src_smc_2025__Q11]]
 
 
 
@@ -509,7 +509,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 18
 
 **Risposta:** D
-[[src_smc_2025__Q12]]
+[[Quesiti/src_smc_2025#q12|src_smc_2025__Q12]]
 
 
 
@@ -528,7 +528,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $8\pi a^2$
 > - **(E)** $10\pi a^2$
 
-![[src_smc_2025__Q13.png]]
+![[src_smc_2025__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -550,10 +550,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $8\pi a^2$
 > - **(E)** $10\pi a^2$
 
-![[src_smc_2025__Q13.png]]
+![[src_smc_2025__q13.png]]
 
 **Risposta:** D
-[[src_smc_2025__Q13]]
+[[Quesiti/src_smc_2025#q13|src_smc_2025__Q13]]
 
 
 
@@ -594,7 +594,7 @@ level: Senior Mathematical Challenge
 > - **(E)** - Sì, certo.
 
 **Risposta:** B
-[[src_smc_2025__Q14]]
+[[Quesiti/src_smc_2025#q14|src_smc_2025__Q14]]
 
 
 
@@ -635,7 +635,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 99
 
 **Risposta:** B
-[[src_smc_2025__Q15]]
+[[Quesiti/src_smc_2025#q15|src_smc_2025__Q15]]
 
 
 
@@ -654,7 +654,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $8 - 2\sqrt{2}$
 > - **(E)** $4 + 2\sqrt{3}$
 
-![[src_smc_2025__Q16.png]]
+![[src_smc_2025__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -676,10 +676,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $8 - 2\sqrt{2}$
 > - **(E)** $4 + 2\sqrt{3}$
 
-![[src_smc_2025__Q16.png]]
+![[src_smc_2025__q16.png]]
 
 **Risposta:** A
-[[src_smc_2025__Q16]]
+[[Quesiti/src_smc_2025#q16|src_smc_2025__Q16]]
 
 
 
@@ -698,7 +698,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 10
 > - **(E)** 11
 
-![[src_smc_2025__Q17.png]]
+![[src_smc_2025__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -721,10 +721,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 10
 > - **(E)** 11
 
-![[src_smc_2025__Q17.png]]
+![[src_smc_2025__q17.png]]
 
 **Risposta:** D
-[[src_smc_2025__Q17]]
+[[Quesiti/src_smc_2025#q17|src_smc_2025__Q17]]
 
 
 
@@ -765,7 +765,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 10
 
 **Risposta:** C
-[[src_smc_2025__Q18]]
+[[Quesiti/src_smc_2025#q18|src_smc_2025__Q18]]
 
 
 
@@ -805,7 +805,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 7
 
 **Risposta:** C
-[[src_smc_2025__Q19]]
+[[Quesiti/src_smc_2025#q19|src_smc_2025__Q19]]
 
 
 
@@ -846,7 +846,7 @@ level: Senior Mathematical Challenge
 > - **(E)** - Sì, certo.
 
 **Risposta:** E
-[[src_smc_2025__Q20]]
+[[Quesiti/src_smc_2025#q20|src_smc_2025__Q20]]
 
 
 
@@ -865,7 +865,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 300
 > - **(E)** 360
 
-![[src_smc_2025__Q21.png]]
+![[src_smc_2025__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -888,10 +888,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 300
 > - **(E)** 360
 
-![[src_smc_2025__Q21.png]]
+![[src_smc_2025__q21.png]]
 
 **Risposta:** D
-[[src_smc_2025__Q21]]
+[[Quesiti/src_smc_2025#q21|src_smc_2025__Q21]]
 
 
 
@@ -932,7 +932,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 79
 
 **Risposta:** B
-[[src_smc_2025__Q22]]
+[[Quesiti/src_smc_2025#q22|src_smc_2025__Q22]]
 
 
 
@@ -972,7 +972,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 10
 
 **Risposta:** C
-[[src_smc_2025__Q23]]
+[[Quesiti/src_smc_2025#q23|src_smc_2025__Q23]]
 
 
 
@@ -991,7 +991,7 @@ level: Senior Mathematical Challenge
 > - **(D)** Graph D
 > - **(E)** Graph E
 
-![[src_smc_2025__Q24.png]]
+![[src_smc_2025__q24.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
@@ -1014,10 +1014,10 @@ level: Senior Mathematical Challenge
 > - **(D)** Grafico D
 > - **(E)** Grafico E
 
-![[src_smc_2025__Q24.png]]
+![[src_smc_2025__q24.png]]
 
 **Risposta:** A
-[[src_smc_2025__Q24]]
+[[Quesiti/src_smc_2025#q24|src_smc_2025__Q24]]
 
 
 
@@ -1036,7 +1036,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 54
 > - **(E)** 60
 
-![[src_smc_2025__Q25.png]]
+![[src_smc_2025__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -1059,7 +1059,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 54
 > - **(E)** 60
 
-![[src_smc_2025__Q25.png]]
+![[src_smc_2025__q25.png]]
 
 **Risposta:** C
-[[src_smc_2025__Q25]]
+[[Quesiti/src_smc_2025#q25|src_smc_2025__Q25]]

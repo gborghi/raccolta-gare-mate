@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova il numero di sottoinsiemi di $\{1, 2, \ldots, 2n\}$ in cui l'equazione $x + y = 2z + 1$ non ha soluzioni.
 
-[[src_pol_1995_r3__Q01]]
+[[Quesiti/src_pol_1995_r3#q01|src_pol_1995_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Un poligono convexo è tagliato dalle sue diagonali in un pentagono e dieci triangoli. Qual è il maggior numero di triangoli ottenuti che possono avere la stessa area?
 
-[[src_pol_1995_r3__Q02]]
+[[Quesiti/src_pol_1995_r3#q02|src_pol_1995_r3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 3
 
 > Lasciate che $p > 3$ sia un primo e lasciate $q = p^2$. La sequenza $(a_n)$ è definita da $$a_n = \begin{cases} n & \text{for } n = 0, 1, 2, \ldots, p-1; \\ a_{n-1} + a_{n-p} & \text{for } n \ge p. \end{cases}$$ Determina il rimanente quando $a_q$ è diviso da $p$.
 
-[[src_pol_1995_r3__Q03]]
+[[Quesiti/src_pol_1995_r3#q03|src_pol_1995_r3__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 3
 
 > $x_1, x_2, \ldots, x_n$ siano numeri positivi con media armonica pari a $1$. Trova il minimo valore possibile di $$x_1 + \frac{x_2^2}{2} + \frac{x_3^3}{3} + \cdots + \frac{x_n^n}{n}.$$
 
-[[src_pol_1995_r3__Q04]]
+[[Quesiti/src_pol_1995_r3#q04|src_pol_1995_r3__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 3
 
 > Una urna contiene fogli di carta $n$ etichettati $1, 2, \ldots, n$. Tracciamo le foglie una per una senza rimetterle nell'urna fino a ottenere un foglio con un numero divisibile per $4$. Per un $n$ fisso, determinare tutti i valori di $k$ per i quali il valore atteso del numero di disegni è uguale a $k$.
 
-[[src_pol_1995_r3__Q05]]
+[[Quesiti/src_pol_1995_r3#q05|src_pol_1995_r3__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: Olimpiade Polacca Round 3
 
 > Sono indicati tre raggi $l$, $m$, $n$ nello spazio con un punto di fine comune $P$ e un punto $A$ su $l$. Prova che esiste esattamente un paio di punti $B \in m$ e $C \in n$ in modo tale che $$PA + AB = PC + CB \quad \text{and} \quad PB + BC = PA + AC.$$
 
-[[src_pol_1995_r3__Q06]]
+[[Quesiti/src_pol_1995_r3#q06|src_pol_1995_r3__Q06]]

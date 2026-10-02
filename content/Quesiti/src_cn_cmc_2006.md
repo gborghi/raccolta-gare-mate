@@ -39,7 +39,7 @@ level: China Mathematical Competition
 > (A) un triangolo acuto\quad (B) un triangolo obtuso\quad (C) un triangolo rettangolo\quad (D) sconosciuto
 
 **Risposta:** C
-[[src_cn_cmc_2006__Q01]]
+[[Quesiti/src_cn_cmc_2006#q01|src_cn_cmc_2006__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: China Mathematical Competition
 > (A) $\frac{1}{2} < x < 1$\quad (B) $x > \frac{1}{2}$ e $x \ne 1$\quad (C) $x > 1$\quad (D) $0 < x < 1$
 
 **Risposta:** B
-[[src_cn_cmc_2006__Q02]]
+[[Quesiti/src_cn_cmc_2006#q02|src_cn_cmc_2006__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: China Mathematical Competition
 > (A) 20\quad (B) 25\quad (C) 30\quad (D) 42
 
 **Risposta:** C
-[[src_cn_cmc_2006__Q03]]
+[[Quesiti/src_cn_cmc_2006#q03|src_cn_cmc_2006__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: China Mathematical Competition
 > (A) $\left[\frac{1}{2}, 1\right)$\quad (B) $\left[\frac{1}{2}, 2\right)$\quad (C) $\left(1, \sqrt{2}\right)$\quad (D) $\left[\frac{\sqrt{2}}{2}, \sqrt{2}\right)$
 
 **Risposta:** A
-[[src_cn_cmc_2006__Q04]]
+[[Quesiti/src_cn_cmc_2006#q04|src_cn_cmc_2006__Q04]]
 
 
 
@@ -170,7 +170,7 @@ level: China Mathematical Competition
 > (A) necessaria e sufficiente (B) non necessaria ma sufficiente (C) necessaria ma insufficiente (D) né necessaria né sufficiente
 
 **Risposta:** A
-[[src_cn_cmc_2006__Q05]]
+[[Quesiti/src_cn_cmc_2006#q05|src_cn_cmc_2006__Q05]]
 
 
 
@@ -209,7 +209,7 @@ level: China Mathematical Competition
 > - **(D)** $10^{2006} - 8^{2006}$
 
 **Risposta:** B
-[[src_cn_cmc_2006__Q06]]
+[[Quesiti/src_cn_cmc_2006#q06|src_cn_cmc_2006__Q06]]
 
 
 
@@ -237,7 +237,7 @@ level: China Mathematical Competition
 > Let $f(x) = \sin^4 x - \sin x \cos x + \cos^4 x$. L'intervallo di $f(x)$ è ________.
 
 **Risposta:** $\left[0,\, \dfrac{9}{8}\right]$
-[[src_cn_cmc_2006__Q07]]
+[[Quesiti/src_cn_cmc_2006#q07|src_cn_cmc_2006__Q07]]
 
 
 
@@ -266,7 +266,7 @@ level: China Mathematical Competition
 > Il numero complesso $z = (a + \cos\theta) + (2a - \sin\theta)\mathrm{i}$. Se $|z| \le 2$ per qualsiasi $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
 
 **Risposta:** $\left[-\dfrac{\sqrt{5}}{5},\, \dfrac{\sqrt{5}}{5}\right]$
-[[src_cn_cmc_2006__Q08]]
+[[Quesiti/src_cn_cmc_2006#q08|src_cn_cmc_2006__Q08]]
 
 
 
@@ -295,7 +295,7 @@ level: China Mathematical Competition
 > Supponiamo che i punti $F_1$, $F_2$ siano rispettivamente i foci sinistri e destri dell'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ (dove $a > b > 0$, $b = 2$) e $P$ sia un punto sulla linea $l_1$. Quando $\angle F_1 P F_2$ raggiunge il massimo, il valore del rapporto $\left|\dfrac{PF_1}{PF_2}\right|$ è ________.
 
 **Risposta:** $\sqrt{5} - 1$
-[[src_cn_cmc_2006__Q09]]
+[[Quesiti/src_cn_cmc_2006#q09|src_cn_cmc_2006__Q09]]
 
 
 
@@ -324,7 +324,7 @@ level: China Mathematical Competition
 > Che $\{a_n\}$ sia una progressione aritmetica con differenza comune $d$ ($d \neq 0$) e $\{b_n\}$ sia una progressione geometrica con rapporto comune $q$, dove $q$ è un numero razionale positivo inferiore a $1$. Se $a_1 = d$, $b_1 = d^2$ e $\frac{a_1^2 + a_2^2 + a_3^2}{b_1 + b_2 + b_3}$ sono un intero positivo, allora $q$ è uguale a $\underline{\hspace{2cm}}$.
 
 **Risposta:** $\frac{1}{2}$
-[[src_cn_cmc_2006__Q10]]
+[[Quesiti/src_cn_cmc_2006#q10|src_cn_cmc_2006__Q10]]
 
 
 
@@ -353,7 +353,7 @@ level: China Mathematical Competition
 > Dato $f(x) = \frac{\sin(\pi x) - \cos(\pi x) + 2}{\sqrt{x}}$ per $\frac{1}{4} \le x \le \frac{5}{4}$, il minimo di $f(x)$ è $\underline{\hspace{2cm}}$.
 
 **Risposta:** $\frac{4\sqrt{5}}{5}$
-[[src_cn_cmc_2006__Q11]]
+[[Quesiti/src_cn_cmc_2006#q11|src_cn_cmc_2006__Q11]]
 
 
 
@@ -366,7 +366,7 @@ level: China Mathematical Competition
 
 > Four letters, two $a$'s and two $b$'s, are filled into $16$ cells of a matrix as shown in the figure. It is required that each row contains at most one letter, and each row or column cannot contain the same letters. Then there are $\underline{\hspace{2cm}}$ different ways that the matrix can be filled. (A numerical answer is needed.)
 
-![[src_cn_b07_w46__Q12.png]]
+![[src_cn_b07_w46__q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casi_conteggio|Casi e conteggio]]
@@ -383,10 +383,10 @@ level: China Mathematical Competition
 
 > Quattro lettere, due $a$ e due $b$, sono riempite nelle celle $16$ di una matrice come mostrato nella figura. Occorre che ogni riga contenga al massimo una lettera e ogni riga o colonna non può contenere le stesse lettere. Poi ci sono $\underline{\hspace{2cm}}$ diversi modi in cui la matrice può essere riempita. (Si richiede una risposta numerica.)
 
-![[src_cn_b07_w46__Q12.png]]
+![[src_cn_b07_w46__q12.png]]
 
 **Risposta:** 3960
-[[src_cn_cmc_2006__Q12]]
+[[Quesiti/src_cn_cmc_2006#q12|src_cn_cmc_2006__Q12]]
 
 
 
@@ -413,7 +413,7 @@ level: China Mathematical Competition
 
 > Date un numero intero $n \ge 2$, definire $M_k(x_k, y_k)$ come punto di intersezione della parabola $y^2 = kx - 1$ e della linea $y = x$. Prova che per qualsiasi numero intero positivo $m$, $k_m = x_m + \dfrac{1}{x_m}$ è un numero intero positivo, dove $k_0 = n$ e $k_{m+1} = k_m^2 - k_{m-1}$ (con $k_1 = n^2 - 2$).
 
-[[src_cn_cmc_2006__Q13]]
+[[Quesiti/src_cn_cmc_2006#q13|src_cn_cmc_2006__Q13]]
 
 
 
@@ -442,7 +442,7 @@ level: China Mathematical Competition
 
 > Esprimere il 2006 come la somma di cinque integri positivi $x_1, x_2, x_3, x_4, x_5$ e $S = \displaystyle\sum_{1 \le i < j \le 5} x_i x_j$. Domanda: (1) Quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ il massimo? (2) Inoltre, se $|x_i - x_j| < 3$ per qualsiasi $1 \le i, j \le 5$, quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ il minimo? Per favore, rispondi.
 
-[[src_cn_cmc_2006__Q14]]
+[[Quesiti/src_cn_cmc_2006#q14|src_cn_cmc_2006__Q14]]
 
 
 
@@ -469,4 +469,4 @@ level: China Mathematical Competition
 
 > Supponiamo $f(x + 2\pi) = f(x)$ per qualsiasi $x \in \mathbb{R}$. Prova: ci sono $f_i(x)$ ($i = 1, 2, 3, 4$) tali che\n(1) $f_i(x)$ ($i = 1, 2, 3, 4$) è una funzione pari, e $f_i(x + \pi) = f_i(x)$ per qualsiasi $x \in \mathbb{R}$;\n(2) $f(x) = f_1(x) + f_2(x)\cos x + f_3(x)\sin x + f_4(x)\sin 2x$ per qualsiasi $x \in \mathbb{R}$.
 
-[[src_cn_cmc_2006__Q15]]
+[[Quesiti/src_cn_cmc_2006#q15|src_cn_cmc_2006__Q15]]

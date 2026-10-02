@@ -33,7 +33,7 @@ level: IMO
 
 > Equilateral triangles $ABK$, $BCL$, $CDM$, $DAN$ are constructed inside the square $ABCD$. Prove that the midpoints of the four segments $KL$, $LM$, $MN$, $NK$ and the midpoints of the eight segments $AB$, $BK$, $BL$, $CM$, $DM$, $DN$, $AN$ are the twelve vertices of a regular dodecagon.
 
-[[src_imho_1977__Q01]]
+[[Quesiti/src_imho_1977#q01|src_imho_1977__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Finite sequence: max terms negative with seven successive sum negative
 
 > In a finite sequence of real numbers the sum of any seven successive terms is negative, and the sum of any eleven successive terms is positive. Determine the maximum number of terms in the sequence.
 
-[[src_imho_1977__Q02]]
+[[Quesiti/src_imho_1977#q02|src_imho_1977__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Finite sequence: max terms negative with seven successive sum negative
 
 > Let $n$ be a given integer $> 2$, and let $V_k$ be the set of integers $1 + kn$, where $k = 1, 2, \ldots$ A number $m \in V_k$ is called $\textit{indecomposable}$ in $V_k$ if there do not exist numbers $p, q \in V_k$ such that $pq = m$. Prove that there exists a number $r \in V_k$ that can be expressed as the product of elements indecomposable in $V_k$ in more than one way. (Products which differ only in the order of their factors will be considered the same.)
 
-[[src_imho_1977__Q03]]
+[[Quesiti/src_imho_1977#q03|src_imho_1977__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Finite sequence: max terms negative with seven successive sum negative
 
 > Four real constants $a$, $b$, $A$, $B$ are given, and $$f(\theta) = 1 - a\cos\theta - b\sin\theta - A\cos 2\theta - B\sin 2\theta.$$ Prove that if $f(\theta) \ge 0$ for all real $\theta$, then $a^2 + b^2 \le 2$ and $A^2 + B^2 \le 1$.
 
-[[src_imho_1977__Q04]]
+[[Quesiti/src_imho_1977#q04|src_imho_1977__Q04]]
 
 
 
@@ -143,7 +143,7 @@ Parts $(a,b)$ with $a^2+b^2$ divisible by $a+b$; remainder $r=1977$*
 
 > Let $a$ and $b$ be positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the remainder is $r$. Prove that there are infinitely many pairs $(a, b)$ such that $q^2 + r = 1977$.
 
-[[src_imho_1977__Q05]]
+[[Quesiti/src_imho_1977#q05|src_imho_1977__Q05]]
 
 
 
@@ -174,4 +174,4 @@ Parts $(a,b)$ with $a^2+b^2$ divisible by $a+b$; remainder $r=1977$*
 
 > Let $f(n)$ be a function defined on the set of all positive integers and having all its values in the same set. Prove that if $$f(n+1) > f(f(n))$$ for each positive integer $n$, then $$f(n) = n$$ for each positive integer $n$.
 
-[[src_imho_1977__Q06]]
+[[Quesiti/src_imho_1977#q06|src_imho_1977__Q06]]

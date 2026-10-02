@@ -38,7 +38,7 @@ level: Olimpiade Polacca Round 2
 
 > I numeri positivi $a, b, c, d$ soddisfano le equazioni $$a^2 + b^2 + c^2 = a^4$$ $$b^2 + c^2 + d^2 = b^4$$ $$c^2 + d^2 + a^2 = c^4$$ $$d^2 + a^2 + b^2 = d^4.$$ Prove che $a = b = c = d$.
 
-[[src_pol_2004_r2__Q01]]
+[[Quesiti/src_pol_2004_r2#q01|src_pol_2004_r2__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: Olimpiade Polacca Round 2
 
 > In un esagono converso $ABCDEF$ tutti i lati hanno la stessa lunghezza e $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$ Prove che le diagonali $AD$, $BE$ e $CF$ sono simultanee.
 
-[[src_pol_2004_r2__Q02]]
+[[Quesiti/src_pol_2004_r2#q02|src_pol_2004_r2__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: Olimpiade Polacca Round 2
 
 > Determinare tutte le sequenze $a_1, a_2, a_3, \ldots$ di $1$ e $-1$ che soddisfano l'uguaglianza $$a_{mn} = a_m a_n$$ per tutte le $m, n$ e che hanno la proprietà: tra i tre termini successivi $a_n, a_{n+1}, a_{n+2}$, si verificano sia $1$ che $-1$.
 
-[[src_pol_2004_r2__Q03]]
+[[Quesiti/src_pol_2004_r2#q03|src_pol_2004_r2__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti i numeri interi positivi $n$ che hanno esattamente $\sqrt{n}$ divisori positivi.
 
-[[src_pol_2004_r2__Q04]]
+[[Quesiti/src_pol_2004_r2#q04|src_pol_2004_r2__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: Olimpiade Polacca Round 2
 
 > I punti $D$ e $E$ sono presi rispettivamente sui lati $BC$ e $CA$ di un triangolo $ABC$ in modo tale che $BD = AE$. I segmenti $AD$ e $BE$ si incontrano a $P$. Il bisettore di $\angle ACB$ interseca i segmenti $AD$ e $BE$ rispettivamente a $Q$ e $R$. Prove che $\frac{PQ}{AD} = \frac{PR}{BE}$.
 
-[[src_pol_2004_r2__Q05]]
+[[Quesiti/src_pol_2004_r2#q05|src_pol_2004_r2__Q05]]
 
 
 
@@ -177,4 +177,4 @@ level: Olimpiade Polacca Round 2
 
 > Ci sono persone $n \geq 5$ in una festa. Supponiamo che tra i tre ci siano due che si conoscono. Mostrare che si può selezionare almeno $n/2$ delle persone e organizzarle su una tavola rotonda in modo che ciascuna persona si sedi tra due delle sue conoscenze.
 
-[[src_pol_2004_r2__Q06]]
+[[Quesiti/src_pol_2004_r2#q06|src_pol_2004_r2__Q06]]

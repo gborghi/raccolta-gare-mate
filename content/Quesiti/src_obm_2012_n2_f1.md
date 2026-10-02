@@ -40,7 +40,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > A) 60 \quad B) 120 \quad C) 180 \quad D) 240 \quad E) 300
 
 **Risposta:** C
-[[src_obm_2012_n2_f1__Q01]]
+[[Quesiti/src_obm_2012_n2_f1#q01|src_obm_2012_n2_f1__Q01]]
 
 
 
@@ -72,7 +72,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) Seis \quad B) Cinco \quad C) Quatro \quad D) Tr\^{e}s \quad E) Due
 
-[[src_obm_2012_n2_f1__Q02]]
+[[Quesiti/src_obm_2012_n2_f1#q02|src_obm_2012_n2_f1__Q02]]
 
 
 
@@ -105,7 +105,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 61 Quad B) 62 Quad C) 60 Quad D) 66 Quad E) 33
 
-[[src_obm_2012_n2_f1__Q03]]
+[[Quesiti/src_obm_2012_n2_f1#q03|src_obm_2012_n2_f1__Q03]]
 
 
 
@@ -120,7 +120,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 5 \quad B) 8 \quad C) 10 \quad D) 12 \quad E) 20
 
-![[src_obm_2012_n2_f1__Q04.png]]
+![[src_obm_2012_n2_f1__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
@@ -139,9 +139,9 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 5 \quad B) 8 \quad C) 10 \quad D) 12 \quad E) 20
 
-![[src_obm_2012_n2_f1__Q04.png]]
+![[src_obm_2012_n2_f1__q04.png]]
 
-[[src_obm_2012_n2_f1__Q04]]
+[[Quesiti/src_obm_2012_n2_f1#q04|src_obm_2012_n2_f1__Q04]]
 
 
 
@@ -174,7 +174,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 38 \quad B) 96 \quad C) 159 \quad D) 358 \quad E) 648
 
-[[src_obm_2012_n2_f1__Q05]]
+[[Quesiti/src_obm_2012_n2_f1#q05|src_obm_2012_n2_f1__Q05]]
 
 
 
@@ -189,7 +189,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) $\dfrac{1}{8}$ \quad B) $\dfrac{1}{7}$ \quad C) $\dfrac{1}{6}$ \quad D) $\dfrac{1}{5}$ \quad E) $\dfrac{1}{4}$
 
-![[src_obm_2012_n2_f1__Q06.png]]
+![[src_obm_2012_n2_f1__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -209,9 +209,9 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) $\dfrac{1}{8}$ \quad B) $\dfrac{1}{7}$ \quad C) $\dfrac{1}{6}$ \quad D) $\dfrac{1}{5}$ \quad E) $\dfrac{1}{4}$
 
-![[src_obm_2012_n2_f1__Q06.png]]
+![[src_obm_2012_n2_f1__q06.png]]
 
-[[src_obm_2012_n2_f1__Q06]]
+[[Quesiti/src_obm_2012_n2_f1#q06|src_obm_2012_n2_f1__Q06]]
 
 
 
@@ -246,7 +246,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > A) 4 \quad B) 3 \quad C) 1 \quad D) 0 \quad E) $-1$
 
 **Risposta:** E
-[[src_obm_2012_n2_f1__Q07]]
+[[Quesiti/src_obm_2012_n2_f1#q07|src_obm_2012_n2_f1__Q07]]
 
 
 
@@ -283,7 +283,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > Osservazione: il mese di gennaio corrisponde al numero di mese $1$ e così via.
 
-[[src_obm_2012_n2_f1__Q08]]
+[[Quesiti/src_obm_2012_n2_f1#q08|src_obm_2012_n2_f1__Q08]]
 
 
 
@@ -316,7 +316,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 7 \quad B) 11 \quad C) 18 \quad D) 49 \quad E) 77
 
-[[src_obm_2012_n2_f1__Q09]]
+[[Quesiti/src_obm_2012_n2_f1#q09|src_obm_2012_n2_f1__Q09]]
 
 
 
@@ -331,7 +331,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
-![[src_obm_2012_n2_f1__Q10.png]]
+![[src_obm_2012_n2_f1__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -351,9 +351,9 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
-![[src_obm_2012_n2_f1__Q10.png]]
+![[src_obm_2012_n2_f1__q10.png]]
 
-[[src_obm_2012_n2_f1__Q10]]
+[[Quesiti/src_obm_2012_n2_f1#q10|src_obm_2012_n2_f1__Q10]]
 
 
 
@@ -388,7 +388,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > A) 1875 \quad B) 405 \quad C) 390 \quad D) 330 \quad E) 105
 
 **Risposta:** B
-[[src_obm_2012_n2_f1__Q11]]
+[[Quesiti/src_obm_2012_n2_f1#q11|src_obm_2012_n2_f1__Q11]]
 
 
 
@@ -421,7 +421,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 1 \quad B) 2 \quad C) 3 \quad D) 9 \quad E) infinitamente molti
 
-[[src_obm_2012_n2_f1__Q12]]
+[[Quesiti/src_obm_2012_n2_f1#q12|src_obm_2012_n2_f1__Q12]]
 
 
 
@@ -454,7 +454,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 52 kg \quad B) 51 kg \quad C) 49 kg \quad D) 48 kg \quad E) 46 kg
 
-[[src_obm_2012_n2_f1__Q13]]
+[[Quesiti/src_obm_2012_n2_f1#q13|src_obm_2012_n2_f1__Q13]]
 
 
 
@@ -486,7 +486,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 3 \quad B) 3.5 \quad C) 4 \quad D) 4.5 \quad E) 5
 
-[[src_obm_2012_n2_f1__Q14]]
+[[Quesiti/src_obm_2012_n2_f1#q14|src_obm_2012_n2_f1__Q14]]
 
 
 
@@ -501,7 +501,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 4 \quad B) 6 \quad C) 9 \quad D) 11 \quad E) 16
 
-![[src_obm_2012_n2_f1__Q15.png]]
+![[src_obm_2012_n2_f1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]]
@@ -522,10 +522,10 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 4 \quad B) 6 \quad C) 9 \quad D) 11 \quad E) 16
 
-![[src_obm_2012_n2_f1__Q15.png]]
+![[src_obm_2012_n2_f1__q15.png]]
 
 **Risposta:** C
-[[src_obm_2012_n2_f1__Q15]]
+[[Quesiti/src_obm_2012_n2_f1#q15|src_obm_2012_n2_f1__Q15]]
 
 
 
@@ -558,7 +558,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 24 \quad B) 10 \quad C) 8 \quad D) 7 \quad E) 6
 
-[[src_obm_2012_n2_f1__Q16]]
+[[Quesiti/src_obm_2012_n2_f1#q16|src_obm_2012_n2_f1__Q16]]
 
 
 
@@ -573,7 +573,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 1 \quad B) 3 \quad C) 4 \quad D) 7 \quad E) 12
 
-![[src_obm_2012_n2_f1__Q17.png]]
+![[src_obm_2012_n2_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -593,9 +593,9 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 1 \quad B) 3 \quad C) 4 \quad D) 7 \quad E) 12
 
-![[src_obm_2012_n2_f1__Q17.png]]
+![[src_obm_2012_n2_f1__q17.png]]
 
-[[src_obm_2012_n2_f1__Q17]]
+[[Quesiti/src_obm_2012_n2_f1#q17|src_obm_2012_n2_f1__Q17]]
 
 
 
@@ -628,7 +628,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 30180 \quad B) 32175 \quad C) 20110 \quad D) 25190 \quad E) 8048
 
-[[src_obm_2012_n2_f1__Q18]]
+[[Quesiti/src_obm_2012_n2_f1#q18|src_obm_2012_n2_f1__Q18]]
 
 
 
@@ -661,7 +661,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 2 \quad B) 12 \quad C) 7 \quad D) 10 \quad E) 8
 
-[[src_obm_2012_n2_f1__Q19]]
+[[Quesiti/src_obm_2012_n2_f1#q19|src_obm_2012_n2_f1__Q19]]
 
 
 
@@ -694,7 +694,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 128 \quad B) 256 \quad C) 512 \quad D) 1024 \quad E) 2048
 
-[[src_obm_2012_n2_f1__Q20]]
+[[Quesiti/src_obm_2012_n2_f1#q20|src_obm_2012_n2_f1__Q20]]
 
 
 
@@ -709,7 +709,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) $\dfrac{3}{2} + \sqrt{2}$ \quad B) $1 + 2\sqrt{2}$ \quad C) $5 + \dfrac{\sqrt{2}}{2}$ \quad D) $4$ \quad E) $\dfrac{2}{3} + \sqrt{2}$
 
-![[src_obm_2012_n2_f1__Q21.png]]
+![[src_obm_2012_n2_f1__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -729,9 +729,9 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) $\dfrac{3}{2} + \sqrt{2}$ \quad B) $1 + 2\sqrt{2}$ \quad C) $5 + \dfrac{\sqrt{2}}{2}$ \quad D) $4$ \quad E) $\dfrac{2}{3} + \sqrt{2}$
 
-![[src_obm_2012_n2_f1__Q21.png]]
+![[src_obm_2012_n2_f1__q21.png]]
 
-[[src_obm_2012_n2_f1__Q21]]
+[[Quesiti/src_obm_2012_n2_f1#q21|src_obm_2012_n2_f1__Q21]]
 
 
 
@@ -764,7 +764,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 2 \quad B) 4 \quad C) 8 \quad D) 16 \quad E) 32
 
-[[src_obm_2012_n2_f1__Q22]]
+[[Quesiti/src_obm_2012_n2_f1#q22|src_obm_2012_n2_f1__Q22]]
 
 
 
@@ -797,7 +797,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 12 \quad B) 28 \quad C) 38 \quad D) 1978 \quad E) 2012
 
-[[src_obm_2012_n2_f1__Q23]]
+[[Quesiti/src_obm_2012_n2_f1#q23|src_obm_2012_n2_f1__Q23]]
 
 
 
@@ -812,7 +812,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 110 \quad B) 120 \quad C) 130 \quad D) 140 \quad E) 160
 
-![[src_obm_2012_n2_f1__Q24.png]]
+![[src_obm_2012_n2_f1__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -832,9 +832,9 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 110 \quad B) 120 \quad C) 130 \quad D) 140 \quad E) 160
 
-![[src_obm_2012_n2_f1__Q24.png]]
+![[src_obm_2012_n2_f1__q24.png]]
 
-[[src_obm_2012_n2_f1__Q24]]
+[[Quesiti/src_obm_2012_n2_f1#q24|src_obm_2012_n2_f1__Q24]]
 
 
 
@@ -867,4 +867,4 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > 
 > A) 15 \quad B) 16 \quad C) 17 \quad D) 18 \quad E) 19
 
-[[src_obm_2012_n2_f1__Q25]]
+[[Quesiti/src_obm_2012_n2_f1#q25|src_obm_2012_n2_f1__Q25]]

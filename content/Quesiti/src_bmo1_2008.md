@@ -34,7 +34,7 @@ level: BMO Round 1
 
 > Trova il valore di $$\frac{1^8 + 2007^8 + 2008^8}{1^4 + 2007^4 + 2008^4}.$$
 
-[[src_bmo1_2008__Q01]]
+[[Quesiti/src_bmo1_2008#q01|src_bmo1_2008__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: BMO Round 1
 
 > Trova tutte le soluzioni in numeri interi positivi $x, y$ alle equazioni simultanee $$x + y - z = 12$$ $$x^2 + y^2 - z^2 = 12.$$
 
-[[src_bmo1_2008__Q02]]
+[[Quesiti/src_bmo1_2008#q02|src_bmo1_2008__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 1
 
 > $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$, $C$) sul circoncircolo del triangolo, sullo stesso arco di $A$. Il $P$ deve essere l'altra intersezione della linea $BQ$ con il cerchio attraverso $Q$, $A$ e il punto medio di $BC$. Il $N$ deve essere il piede della perpendicolare da $Q$ a $CA$ e il $M$ deve essere il piede della perpendicolare da $Q$ a $AB$. Indicare che i triangoli $ABC$ e $BCA$ sono simili. (Nota: il circoncircolo del triangolo $ABC$ è il cerchio che attraversa i vertici $A$, $B$, $C$.)
 
-[[src_bmo1_2008__Q03]]
+[[Quesiti/src_bmo1_2008#q03|src_bmo1_2008__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: BMO Round 1
 
 > $S$ sia un sottoinsieme del set $\{1, 2, 3, \ldots, 2008\}$ che è composto da 756 membri distinti. Indicare che ci sono due elementi distinti $a$ e $b$ in $S$ in modo tale che $a$ divida $b$.
 
-[[src_bmo1_2008__Q04]]
+[[Quesiti/src_bmo1_2008#q04|src_bmo1_2008__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: BMO Round 1
 
 > Il punto $P$ deve essere un punto interno del triangolo $ABC$. La linea attraverso $P$ parallela a $AB$ incontra $BC$ a $L$, la linea attraverso $P$ parallela a $BC$ incontra $CA$ a $M$, e la linea attraverso $P$ parallela a $CA$ incontra $AB$ a $N$. Prove che $$\frac{BL}{BC} \cdot \frac{CM}{CA} \cdot \frac{AN}{AB} \le \frac{1}{8},$$ e trova la posizione di $P$ nel triangolo $ABC$ quando l'uguaglianza è valida.
 
-[[src_bmo1_2008__Q05]]
+[[Quesiti/src_bmo1_2008#q05|src_bmo1_2008__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: BMO Round 1
 
 > La funzione $f$ è definita sui numeri interi positivi da $f(1) = 1$, $f(2n) = 2f(n)$ e $f(2n+1) = f(2n) + 1$ per tutti $n \ge 1$. (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi $n$ è $f(n) = 2007$? E per quanti numeri interi positivi $n \le 2007$ è $f(n) = 2n$?
 
-[[src_bmo1_2008__Q06]]
+[[Quesiti/src_bmo1_2008#q06|src_bmo1_2008__Q06]]

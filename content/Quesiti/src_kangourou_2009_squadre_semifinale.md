@@ -35,7 +35,7 @@ level: squadre
 > Each pedal is exactly in a few boxes and there is no more than one in each box;
 
 **Answer:** 42
-[[src_kangourou_2009_squadre_semifinale__Q01]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q01|src_kangourou_2009_squadre_semifinale__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: squadre
 > pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs
 
 **Answer:** 1
-[[src_kangourou_2009_squadre_semifinale__Q02]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q02|src_kangourou_2009_squadre_semifinale__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: squadre
 > From any free box you can reach any other free box only by going vertically or horizontally over other free boxes, without overstepping the pedals. What's the maximum number of pawns you can have on the chessboard?
 
 **Answer:** 27
-[[src_kangourou_2009_squadre_semifinale__Q03]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q03|src_kangourou_2009_squadre_semifinale__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: squadre
 > 4. The flag without the circle In the figure (which is not in scale) you see a colored rectangular flag of white and gray whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. A white cross with parallel side arms appears on the flag, the measurements of which are determined as shown in the figure (exactly as in the previous question, but the circle is no longer there). What is the value in square centimetres of the area of the
 
 **Answer:** 21570
-[[src_kangourou_2009_squadre_semifinale__Q04]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q04|src_kangourou_2009_squadre_semifinale__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: squadre
 > 5. The chessboard You have a chessboard 8 × 8 (such as that of a lady or a chess player) and 50 pawns. You want to put the pawns on the chessboard so that:
 
 **Answer:** 21
-[[src_kangourou_2009_squadre_semifinale__Q05]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q05|src_kangourou_2009_squadre_semifinale__Q05]]
 
 
 
@@ -191,7 +191,7 @@ Nights lived by her mother before Martina.
 > Before Martina Martina was born on 9 May last year at noon. His mother was born on May 9, 1983, always at noon. How many nights did Martina's mother live before Martina was born?
 
 **Answer:** 9132
-[[src_kangourou_2009_squadre_semifinale__Q06]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q06|src_kangourou_2009_squadre_semifinale__Q06]]
 
 
 
@@ -224,7 +224,7 @@ Nights lived by her mother before Martina.
 > Millimeter paper On a sheet of millimeter paper, where a square grid of one millimeter of side is present, a rectangle of 350 × 210 millimetres with sides parallel to the lines already on the sheet and vertices coinciding with vertices of the squares is shown. How many vertices of squares does each of the diagonals of this rectangle meet?
 
 **Answer:** 71
-[[src_kangourou_2009_squadre_semifinale__Q07]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q07|src_kangourou_2009_squadre_semifinale__Q07]]
 
 
 
@@ -256,7 +256,7 @@ Nights lived by her mother before Martina.
 > The sides of a triangle are 40, 50, and 60 centimeters long. By drawing a segment with one end at the vertex relative to the smaller angle and the other end on the opposite side, the triangle is divided into two triangles having the same perimeter. How many centimeters is the shorter of the two segments into which that side is divided?
 
 **Answer:** 15
-[[src_kangourou_2009_squadre_semifinale__Q08]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q08|src_kangourou_2009_squadre_semifinale__Q08]]
 
 
 
@@ -287,7 +287,7 @@ Nights lived by her mother before Martina.
 > Male and female In a room there are some people: if the number of males is divided by the number of females, you get exactly 0.24. It is known that the number of people present is the smallest that can determine that ratio. How many people are in that room?
 
 **Answer:** 31
-[[src_kangourou_2009_squadre_semifinale__Q09]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q09|src_kangourou_2009_squadre_semifinale__Q09]]
 
 
 
@@ -319,7 +319,7 @@ Nights lived by her mother before Martina.
 > Two identical dice (each with faces numbered 1 to 6, as duse) are tricked: by throwing any one of them, the face with the number 1 can never come out and the probability that one of the remaining faces will come out is proportional to the number shown on the face. So, if we're going to run them, how many chances out of 100 are there that one of the faces will return an even number and the other one will return an odd number?
 
 **Answer:** 48
-[[src_kangourou_2009_squadre_semifinale__Q10]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q10|src_kangourou_2009_squadre_semifinale__Q10]]
 
 
 
@@ -358,7 +358,7 @@ Nights lived by her mother before Martina.
 > How many of these chips host two and no more than two different digits?
 
 **Answer:** 40
-[[src_kangourou_2009_squadre_semifinale__Q11]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q11|src_kangourou_2009_squadre_semifinale__Q11]]
 
 
 
@@ -391,7 +391,7 @@ Nights lived by her mother before Martina.
 > A product of 98 factors Express the value of the following product (1  2/3) × (1  2/4) × (1  2/5) ×...× (1  2/99) × (1  2/100) by a fraction that is numerator and denominator of positive integers and is reduced to the minimum terms. Write the denominator of the fraction.
 
 **Answer:** 4950
-[[src_kangourou_2009_squadre_semifinale__Q12]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q12|src_kangourou_2009_squadre_semifinale__Q12]]
 
 
 
@@ -442,7 +442,7 @@ Number in the cell? of the arrow grille*
 > The grid shown in the figure is an irregular grid in some of the boxes of which numbers already appear. You must fill out the remaining boxes using only integers from 1 to 9 included (one per box) and complying with all the following rules: - the grey boxes must contain only odd numbers, the white boxes must contain only even numbers; - no number may appear more than once in the same row; - no number may appear more than once in the same column; - in each row and in each column in which the arrow appears, the sum of the numbers starting from the arrow box in the direction indicated by the arrow must be equal to the number indicated in the box before the arrow. What number must you enter in the box indicated by the question mark?
 
 **Answer:** 9
-[[src_kangourou_2009_squadre_semifinale__Q13]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q13|src_kangourou_2009_squadre_semifinale__Q13]]
 
 
 
@@ -479,7 +479,7 @@ Number in the cell? of the arrow grille*
 > An antiprism is a solid with the following properties: • it has two square bases lying on parallel planes; • the center of each base is on the perpendicular leading from the center of the other and each side of each base is parallel to a diagonal of the other; • the side faces are triangles obtained by joining each vertex of each base with the two vertices of the other closest to it. How many faces (including the bases) and how many shoulders does an antiprism have? Write in the order first the number of faces, then the number of beads (for example, if the faces are 6 and the beads 11, write 0611).
 
 **Answer:** 1016
-[[src_kangourou_2009_squadre_semifinale__Q14]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q14|src_kangourou_2009_squadre_semifinale__Q14]]
 
 
 
@@ -517,4 +517,4 @@ Number in the cell? of the arrow grille*
 > Kangourou of Mathematics 2009 Kangourou team cup - semi-final Mirabilandia, 9 May 2009
 
 **Answer:** 7
-[[src_kangourou_2009_squadre_semifinale__Q15]]
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q15|src_kangourou_2009_squadre_semifinale__Q15]]

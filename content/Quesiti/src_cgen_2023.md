@@ -64,7 +64,7 @@ level: Concours Général
 > 
 > 6. Mostrare che ogni numero razionale rigorosamente positivo è uguale a un termine unico $u_n$ della sequenza.
 
-[[src_cgen_2023__Q01]]
+[[Quesiti/src_cgen_2023#q01|src_cgen_2023__Q01]]
 
 
 
@@ -201,7 +201,7 @@ level: Concours Général
 > 
 > 14. Riprendi i risultati della prima parte.
 
-[[src_cgen_2023__Q02]]
+[[Quesiti/src_cgen_2023#q02|src_cgen_2023__Q02]]
 
 
 
@@ -321,4 +321,4 @@ level: Concours Général
 > 
 > 8. Considera la sequenza di polinomi definiti da $T_0 : x \mapsto 1$, $T_1 : x \mapsto x$ e $T_{n+2} : x \mapsto 2x\, T_{n+1}(x) - T_n(x)$ per ogni intero $n \ge 0$. a. Indicare che $T_n(\cos(\theta)) = \cos(n\theta)$ per ogni numero intero $n \ge 0$ e ogni reale $\theta$. b. Lasciate che $\theta$ sia reale, e lasciate che $\ell$ e $j$ siano due numeri interi. Mostra che $T_{\ell-1}\!\left(\cos\!\left(\theta + \frac{2j\pi}{\ell}\right)\right) = \cos(\ell\theta)\cos\!\left(\theta + \frac{2j\pi}{\ell}\right) + \sin(\ell\theta)\sin\!\left(\theta + \frac{2j\pi}{\ell}\right)$. [Nota: questa identità è parzialmente illeggibile nella fonte; la lettura è incerta.] c. Mostra che per ogni numero intero $d \ge k - 1$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
 
-[[src_cgen_2023__Q03]]
+[[Quesiti/src_cgen_2023#q03|src_cgen_2023__Q03]]

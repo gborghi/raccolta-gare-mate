@@ -35,7 +35,7 @@ level: nazionale
 > Legend has it that whoever finds the seven dragon spheres can summon the dragon Shannon, and have a wish granted. However, to avoid too much use, Maximus, the creator of the spheres, imposed the condition that this be possible only in the years of the dragon, that is, those whose sum of the digits is divisible by 7. How many years of the dragon are there from year one to year 7050?
 
 **Answer:** 1005
-[[src_cesenatico_2012_finale__Q01]]
+[[Quesiti/src_cesenatico_2012_finale#q01|src_cesenatico_2012_finale__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: nazionale
 > How many of these questions have a prime number?
 
 **Answer:** 4178
-[[src_cesenatico_2012_finale__Q02]]
+[[Quesiti/src_cesenatico_2012_finale#q02|src_cesenatico_2012_finale__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: nazionale
 > What's the distance between this question and the first question with answer 4?
 
 **Answer:** 2016
-[[src_cesenatico_2012_finale__Q03]]
+[[Quesiti/src_cesenatico_2012_finale#q03|src_cesenatico_2012_finale__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: nazionale
 > Answer to question 6 minus 2.
 
 **Answer:** 0961
-[[src_cesenatico_2012_finale__Q04]]
+[[Quesiti/src_cesenatico_2012_finale#q04|src_cesenatico_2012_finale__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Max score for Gonioku-Vietnam (sports)
 > Answer to question 2 minus answer to question 3.
 
 **Answer:** 0037
-[[src_cesenatico_2012_finale__Q05]]
+[[Quesiti/src_cesenatico_2012_finale#q05|src_cesenatico_2012_finale__Q05]]
 
 
 
@@ -180,7 +180,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 > Quantity of answers equal to less quantity of odd answers.
 
 **Answer:** 7310
-[[src_cesenatico_2012_finale__Q06]]
+[[Quesiti/src_cesenatico_2012_finale#q06|src_cesenatico_2012_finale__Q06]]
 
 
 
@@ -209,7 +209,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 > Double the sum of the answers to questions 5 and 3.
 
 **Answer:** 4425
-[[src_cesenatico_2012_finale__Q07]]
+[[Quesiti/src_cesenatico_2012_finale#q07|src_cesenatico_2012_finale__Q07]]
 
 
 
@@ -238,7 +238,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 > Square of the answer to question 2, decreased by 1.
 
 **Answer:** 5117
-[[src_cesenatico_2012_finale__Q08]]
+[[Quesiti/src_cesenatico_2012_finale#q08|src_cesenatico_2012_finale__Q08]]
 
 
 
@@ -267,7 +267,7 @@ Gonioku's odds against his three rivals.
 > How many different numbers do you see in the answers?
 
 **Answer:** 2285
-[[src_cesenatico_2012_finale__Q09]]
+[[Quesiti/src_cesenatico_2012_finale#q09|src_cesenatico_2012_finale__Q09]]
 
 
 
@@ -297,7 +297,7 @@ Gonioku's odds against his three rivals.
 > Number of numbers that appear at least twice as answers, decreased by 3. In the solution provide the answers to questions 2, 4, 9 and 10 in order
 
 **Answer:** 8112
-[[src_cesenatico_2012_finale__Q10]]
+[[Quesiti/src_cesenatico_2012_finale#q10|src_cesenatico_2012_finale__Q10]]
 
 
 
@@ -326,7 +326,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 > 11. A challenging tournament Before the XXII Tenkamatici tournament, when Gonioku was still inexperienced, Master Muten and the Gru Hermit organized a mini-tournament for all their students. Hermit of Gru's students were 9 more than Master Muten's, including Gonioku. At the end of the mini-tournament, in which all the couples faced each other once and there was no tie, the total number of victories achieved by the students of the Hermitage was exactly 9 times the number of victories of the students of Muten. How many fights could Gonioku have won, at most? (In the answer, use the first two digits to indicate the solution in case the participants in the tournament were the smallest possible number and the last two digits to indicate the solution in case
 
 **Answer:** 1109
-[[src_cesenatico_2012_finale__Q11]]
+[[Quesiti/src_cesenatico_2012_finale#q11|src_cesenatico_2012_finale__Q11]]
 
 
 
@@ -355,7 +355,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 > 12. The ten questions The tower of Kardanin holds a water that can increase the strength of those who drink it, but to have it you have to climb the tower, overcome Master Kardanin and above all find the answers to 10 questions, which are all numbers from 1 to 9. To complicate matters, the first question is written in an unfamiliar language.
 
 **Answer:** 3261
-[[src_cesenatico_2012_finale__Q12]]
+[[Quesiti/src_cesenatico_2012_finale#q12|src_cesenatico_2012_finale__Q12]]
 
 
 
@@ -393,7 +393,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 > The Maximus and Mr. Bobo Gonioku trains with King Kartesioh to face Vietnam; meanwhile, Maximus and Mr. Bobo, in the sanctuary, they deceive time with a game for only immortals. It's about finding who can find the most number of ordered pairs (a,b) of positive integers such as √a−1 + √ b−1 = √ ab−1. To prevent the game from going on too long, Mr. Bobo suggests limiting himself to,b ≤2012. How many couples can they find?
 
 **Answer:** 4026
-[[src_cesenatico_2012_finale__Q13]]
+[[Quesiti/src_cesenatico_2012_finale#q13|src_cesenatico_2012_finale__Q13]]
 
 
 
@@ -430,7 +430,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 > It's over nine thousand! King Kartesioh likes to see and review the recording of the fighting between Gonioku and Vietnam, when Gonioku resorted to Kartesioh-ken, the secret technique to increase the aura. It works this way: if Gonioku's aura is n, Gonioku considers the polynomial x2 −mx+n; takes its roots (which exist and are whole) a and b with a > b; corrects them in a−1 and b+1; considers finally the monic polynomial1 with these new values as roots. His aura is then worth the new term known. Gonioku can use this technique once a minute. After an hour of fierce fighting, Vietnam doesn't believe its scout: Gonioku's aura has just surpassed 9000. Knowing that m is the smallest positive integer so the aura exceeds 9000 without ever exactly matching it, how much was Gonioku's aura worth before he started using the Kartesioh-ken?
 
 **Answer:** 4150
-[[src_cesenatico_2012_finale__Q14]]
+[[Quesiti/src_cesenatico_2012_finale#q14|src_cesenatico_2012_finale__Q14]]
 
 
 
@@ -464,7 +464,7 @@ The following information is provided by the manufacturer:
 > After a period of peace, the intrepid Bourba travels to the planet Namecc in search of the original dragon's spheres. These are different from the terrestrial ones: they're still 7, but each one has a number from 0 to 3. We denote with A, B, C and D the amount of spheres with the numbers 0, 1, 2 and 3 respectively. Bourba notes that each of the two four-digit numbers ACBD and ACDB (read in base 10) has a representation with exactly 7 digits in base 4 (without zeros at the beginning) that can be written with Namecc spheres. What's the ABCD number?
 
 **Answer:** 4210
-[[src_cesenatico_2012_finale__Q15]]
+[[Quesiti/src_cesenatico_2012_finale#q15|src_cesenatico_2012_finale__Q15]]
 
 
 
@@ -500,7 +500,7 @@ The following information is provided by the manufacturer:
 > The defective scooter finally out of the resuscitation tank, Gonioku is ready to face Symmetrizer. These, unable to perceive the aura of enemies, rely on their malfunctioning scout. You can see that Gonioku's aura is a positive integer of 7 digits, that 4 of these are zeros (but not the first) and that this number is multiple 3 but not 4. Symmetrizer assumes for simplicity that Gonioku's aura can be with equal probability any of the numbers that satisfy the conditions. He also knows that his aura is 70,000,000. What is the probability that Gonioku's is greater? As a response, provide the first four digits after the comma.
 
 **Answer:** 3333
-[[src_cesenatico_2012_finale__Q16]]
+[[Quesiti/src_cesenatico_2012_finale#q16|src_cesenatico_2012_finale__Q16]]
 
 
 
@@ -539,7 +539,7 @@ The following information is provided by the manufacturer:
 > 4/4 Team competition 2012  National final  Problem texts
 
 **Answer:** 6099
-[[src_cesenatico_2012_finale__Q17]]
+[[Quesiti/src_cesenatico_2012_finale#q17|src_cesenatico_2012_finale__Q17]]
 
 
 
@@ -575,7 +575,7 @@ The following information is provided by the manufacturer:
 > The seven dragon spheres of planet Earth each have a different number from 1 to 7. After the dragon's last call, they've been scattered around the world in 10 districts, numbered 1 to 10. The dragon radar reveals that the spheres are arranged in a particular way: in each district there is at most one and for each of them, if you make the product between the number of the sphere and that of the district where it ends and then divide by 11, you always get the same remainder. We also know that the 3-star sphere is not in the first two districts, and that District 8 contains no sphere. With this little information, the brilliant Bourba reconstructed the position of all the spheres. Determine the products between the number of each sphere and that of the district in which it is located, and provide the sum.
 
 **Answer:** 0162
-[[src_cesenatico_2012_finale__Q18]]
+[[Quesiti/src_cesenatico_2012_finale#q18|src_cesenatico_2012_finale__Q18]]
 
 
 
@@ -609,7 +609,7 @@ The following information is provided by the manufacturer:
 > The manor of Mr. Satan Mr. Considered the world's greatest martial arts expert, Satan is building himself a home that shadows every neighbor's home. . . literally. Mr. Satan requested that the building be a rectangular parallel piped of 105 × 77 × 36 metres, but did not specify which of these three measures should be the height: he only wants it to be positioned so as to maximize the area of the shaded area on the ground when sunlight hits the ground from the south. (The ground beneath the building is not considered shaded.)
 
 **Answer:** 8925
-[[src_cesenatico_2012_finale__Q19]]
+[[Quesiti/src_cesenatico_2012_finale#q19|src_cesenatico_2012_finale__Q19]]
 
 
 
@@ -644,7 +644,7 @@ Minutes to destroy C-18 (graph islands)
 > The Pell archipelago is looking for C-18, which hides in an archipelago made up of 11 islands and 20 bridges (as shown in the figure), Pell has 3 possible moves:
 
 **Answer:** 0049
-[[src_cesenatico_2012_finale__Q20]]
+[[Quesiti/src_cesenatico_2012_finale#q20|src_cesenatico_2012_finale__Q20]]
 
 
 
@@ -673,7 +673,7 @@ Minutes to destroy C-18 (graph islands)
 > 21. Everyone fights and the search for the spheres is up to the brave Bourba, who is about to explore a block of six square-based pyramids, with the side faces of the triangles equilateral on side 15, arranged in a rectangle of 3×2 and adjacent to each other. Bourba is at a top of the base rectangle, but the dragon radar reveals that he must look for the sphere in the pyramid whose entrance is right at the opposite top of the base rectangle: he must have mistakenly consulted the map. How much road does he have to take at least, walking on the surface of the pyramids, to get to the entrance? The answer is the square of the minimum distance.
 
 **Answer:** 4275
-[[src_cesenatico_2012_finale__Q21]]
+[[Quesiti/src_cesenatico_2012_finale#q21|src_cesenatico_2012_finale__Q21]]
 
 
 
@@ -702,7 +702,7 @@ Minutes to destroy C-18 (graph islands)
 > 22. Fusion dance Gonioku first saw fusion dance by two inhabitants of the planet Metamor. Normally, it's necessary that the two warriors who join together have the same aura, but in that case, he succeeded even if he didn't. In particular, the aura of one of the two warriors was equal to the sum of all integers between 0 and 999 containing at least a digit 3, and that of the second was equal to the sum of all integers between 0 and 999 containing at least a digit 6. The warrior who emerged had an aura equal to the sum of the two. How much was this number worth?
 
 **Answer:** 0729
-[[src_cesenatico_2012_finale__Q22]]
+[[Quesiti/src_cesenatico_2012_finale#q22|src_cesenatico_2012_finale__Q22]]
 
 
 
@@ -731,7 +731,7 @@ Minutes to destroy C-18 (graph islands)
 > 23. The genkidama sphere Since no one is strong enough to defeat Margin Bu, Gonioku confronts him with the genkidama sphere, which takes energy from all living beings in the universe. In fact, if you associate living things with relative integers, you find that only those that prove to be amplified by at least one other living thing are useful. For how the technique works, given two integers x and y, we have that x is amplified by y if and only if x2y2− 192xy + 5776 = 16x2 + 25y2. How many living beings are useful to genkidama throughout the universe?
 
 **Answer:** 0040
-[[src_cesenatico_2012_finale__Q23]]
+[[Quesiti/src_cesenatico_2012_finale#q23|src_cesenatico_2012_finale__Q23]]
 
 
 
@@ -760,4 +760,4 @@ Minutes to destroy C-18 (graph islands)
 > 24. Last time our heroes collected the seven dragon spheres, but the ritual to evoke Shannon is more complicated than usual. The spheres are arranged on the vertices of a regular ABCDEFG hexagon of centre O and area 4095 $m^{2}$. The dragon will come out of a point P that must be inside the hexagon, be on the circumference passing through O, A and B and such that (PA−PB): AB = 2: 3. To summon the dragon, in addition to reciting the magic formula they will also have to say the area of PAB, in $m^{2}$. What number do they have to say?
 
 **Answer:** 0325
-[[src_cesenatico_2012_finale__Q24]]
+[[Quesiti/src_cesenatico_2012_finale#q24|src_cesenatico_2012_finale__Q24]]

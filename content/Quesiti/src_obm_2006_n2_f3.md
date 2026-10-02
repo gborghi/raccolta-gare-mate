@@ -47,7 +47,7 @@ level: OBM Nível 2
 > 
 > (b) $n = 2005$?
 
-[[src_obm_2006_n2_f3__Q01]]
+[[Quesiti/src_obm_2006_n2_f3#q01|src_obm_2006_n2_f3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 2
 > 
 > **Attention:** after drawing a 12-gon with the maximum number of collinear vertices, remember to show that no other 12-gon has more collinear vertices than yours.
 
-![[src_obm_2006_n2_f3__Q02.png]]
+![[src_obm_2006_n2_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -84,9 +84,9 @@ level: OBM Nível 2
 > 
 > **Attenzione:** dopo aver disegnato un 12-gon con il numero massimo di vertici collineari, ricorda di mostrare che nessun altro 12-gon ha più vertici collineari del tuo.
 
-![[src_obm_2006_n2_f3__Q02.png]]
+![[src_obm_2006_n2_f3__q02.png]]
 
-[[src_obm_2006_n2_f3__Q02]]
+[[Quesiti/src_obm_2006_n2_f3#q02|src_obm_2006_n2_f3__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: OBM Nível 2
 
 > Trova tutte le coppie ordinate $(x, y)$ di integri come $x^3 - y^3 = 3(x^2 - y^2)$.
 
-[[src_obm_2006_n2_f3__Q03]]
+[[Quesiti/src_obm_2006_n2_f3#q03|src_obm_2006_n2_f3__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: OBM Nível 2
 
 > Quanti sottoinsiemi di tre elementi $\{a, b, c\}$ di $\{1, 2, 3, \ldots, 100\}$ sono tali che $b$ sia la media aritmetica di $a$ e $c$ (con $a < b < c$)?
 
-[[src_obm_2006_n2_f3__Q04]]
+[[Quesiti/src_obm_2006_n2_f3#q04|src_obm_2006_n2_f3__Q04]]
 
 
 
@@ -167,7 +167,7 @@ level: OBM Nível 2
 
 > Che $ABC$ sia un triangolo acuto e $H$ il suo centro orto. $M$, $N$ e $R$ siano rispettivamente i punti intermedi di $AB$, $BC$ e $AH$. Trova la misura dell'angolo $M\hat{N}R$ se angolo $A\hat{B}C = 70^\circ$.
 
-[[src_obm_2006_n2_f3__Q05]]
+[[Quesiti/src_obm_2006_n2_f3#q05|src_obm_2006_n2_f3__Q05]]
 
 
 
@@ -198,4 +198,4 @@ Il torneo di prova senza k-cycle ha un vincitore e un perdente
 > 
 > Prove che esiste un giocatore che ha battuto tutti gli altri e esiste un giocatore che ha perso agli altri.
 
-[[src_obm_2006_n2_f3__Q06]]
+[[Quesiti/src_obm_2006_n2_f3#q06|src_obm_2006_n2_f3__Q06]]

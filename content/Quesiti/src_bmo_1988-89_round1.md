@@ -34,7 +34,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri $a, b, c$ per i quali $$(x-a)(x-10) + 1 = (x+b)(x+c) \quad \text{for all } x.$$
 
-[[src_bmo_1988-89_round1__Q01]]
+[[Quesiti/src_bmo_1988-89_round1#q01|src_bmo_1988-89_round1__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: BMO Round 1
 
 > I punti $P$, $Q$ si trovano rispettivamente sui lati $AB$, $AC$ del triangolo $ABC$ e sono tali che $AP = x$, $AQ = y$, rispettivamente, con la convenzione che $x > 0$ se $P$ è sullo stesso lato di $A$ come $B$, e $x < 0$ sul lato opposto; lo stesso vale per $y$. Indicare che $PQ$ passa attraverso il centroide del triangolo se e solo se $$3xy = bx + cy$$ dove $b = AC$, $c = AB$.
 
-[[src_bmo_1988-89_round1__Q02]]
+[[Quesiti/src_bmo_1988-89_round1#q02|src_bmo_1988-89_round1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 1
 
 > $OA$, $OB$, $OC$ sono linee reciprocamente perpendicolari. Esprimere l'area del triangolo $ABC$ in termini di aree dei triangoli $OBC$, $OCA$, $OAB$.
 
-[[src_bmo_1988-89_round1__Q03]]
+[[Quesiti/src_bmo_1988-89_round1#q03|src_bmo_1988-89_round1__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: BMO Round 1
 > 
 > Prova che, dalla terza riga in poi, ogni riga contiene almeno un numero pari.
 
-[[src_bmo_1988-89_round1__Q04]]
+[[Quesiti/src_bmo_1988-89_round1#q04|src_bmo_1988-89_round1__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: BMO Round 1
 
 > Nessun angolo di un triangolo $ABC$ supera $90^\circ$. Provare che $$\sin A + \sin B + \sin C > 2.$$
 
-[[src_bmo_1988-89_round1__Q05]]
+[[Quesiti/src_bmo_1988-89_round1#q05|src_bmo_1988-89_round1__Q05]]
 
 
 
@@ -188,4 +188,4 @@ level: BMO Round 1
 
 > La sequenza $\{a_n\}$ di numeri interi è definita da $$a_1 = 2, \quad a_2 = 7$$ e $$-\frac{1}{2} < a_{n+1} - \frac{a_n^2}{a_{n-1}} \le \frac{1}{2} \quad \text{for } n \ge 2.$$ Prove che $a_n$ è odd per tutti $n > 1$.
 
-[[src_bmo_1988-89_round1__Q06]]
+[[Quesiti/src_bmo_1988-89_round1#q06|src_bmo_1988-89_round1__Q06]]

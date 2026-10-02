@@ -37,7 +37,7 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[src_rmo_2014_mumbai__Q01]]
+[[Quesiti/src_rmo_2014_mumbai#q01|src_rmo_2014_mumbai__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: RMO
 
 > Le radici dell'equazione $$x^3 - 3ax^2 + 18c = 0$$ formano una progressione aritmetica non costante e le radici dell'equazione $$x^3 + bx^2 + x - c^3 = 0$$ formano una progressione geometrica non costante. Poiché $a, b, c$ sono numeri reali, trovare tutti i possibili valori integrali positivi $a$ e $b$.
 
-[[src_rmo_2014_mumbai__Q02]]
+[[Quesiti/src_rmo_2014_mumbai#q02|src_rmo_2014_mumbai__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: RMO
 
 > Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AB$ si incontrano rispettivamente a $AC$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ incontrano $AB$ e $BC$ rispettivamente a $D$ e $E$. Prova che $BO$ è perpendicolare a $AC$ se $DE$ è parallelo a $AC$.
 
-[[src_rmo_2014_mumbai__Q03]]
+[[Quesiti/src_rmo_2014_mumbai#q03|src_rmo_2014_mumbai__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: RMO
 
 > Una persona si muove nel piano $x$-$y$ che si muove solo in linea con le coordinate interi $x$ e $y$. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$; b) se $x + y$ è pari si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$. Quanti percorsi distinti può percorrere per passare da$(0, 0)$ a$(8, 8)$, dato che ha fatto esattamente tre passi a destra (cioè $(x, y)$ a$(x + 1, y)$)?
 
-[[src_rmo_2014_mumbai__Q04]]
+[[Quesiti/src_rmo_2014_mumbai#q04|src_rmo_2014_mumbai__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[src_rmo_2014_mumbai__Q05]]
+[[Quesiti/src_rmo_2014_mumbai#q05|src_rmo_2014_mumbai__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[src_rmo_2014_mumbai__Q06]]
+[[Quesiti/src_rmo_2014_mumbai#q06|src_rmo_2014_mumbai__Q06]]

@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$ a sua volta, scrivendo un elenco dei rimanenti $365$. Quindi Phil divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$ a sua volta, scrivendo un elenco dei rimanenti $366$. Di chi è la lista dei rimanenti che ha la somma maggiore e per quanto?
 
-[[src_bmo_2017-18_round1__Q01]]
+[[Quesiti/src_bmo_2017-18_round1#q01|src_bmo_2017-18_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > In un periodo di $100$ giorni, ciascuno dei sei amici va a nuotare esattamente $75$ giorni. Ci sono $n$ giorni in cui almeno cinque degli amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
 
-[[src_bmo_2017-18_round1__Q02]]
+[[Quesiti/src_bmo_2017-18_round1#q02|src_bmo_2017-18_round1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ è sul lato $BC$ e $BN = AB$. La linea perpendicolare a $AB$ che passa attraverso $N$ incontra $AB$ a $M$. Prova che la linea $MN$ divide sia l'area che il perimetro del triangolo $ABC$ in parti uguali.
 
-[[src_bmo_2017-18_round1__Q03]]
+[[Quesiti/src_bmo_2017-18_round1#q03|src_bmo_2017-18_round1__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: BMO Round 1
 
 > Considera le sequenze $a_1, a_2, a_3, \ldots$ di numeri reali positivi con $a_1 = 1$ e tali che $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$ per ogni intero positivo $n$. Quanti valori possibili può contenere $a_{2017}$?
 
-[[src_bmo_2017-18_round1__Q04]]
+[[Quesiti/src_bmo_2017-18_round1#q04|src_bmo_2017-18_round1__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: BMO Round 1
 
 > Se prendiamo una griglia $2 \times 100$ (o $100 \times 2$) di quadrati unitari, e rimuoviamo i quadrati alternativi da un lato lungo, i quadrati rimanenti $150$ formano un $100$-combo. Henry prende una griglia $200 \times 200$ di quadrati unità, e sceglie $k$ di questi quadrati e li colora in modo che James non sia in grado di scegliere $150$ quadrati incolori che formano un $100$-combo. Qual è il minimo valore possibile di $k$?
 
-[[src_bmo_2017-18_round1__Q05]]
+[[Quesiti/src_bmo_2017-18_round1#q05|src_bmo_2017-18_round1__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: BMO Round 1
 
 > Matthew ha un mazzo di carte $300$ numerate $1$ a $300$. Prende le carte dal mazzo una alla volta e posiziona le carte selezionate in una fila, con ogni nuova carta aggiunta all'estremità destra della fila. Matthew deve provvedere che, in ogni momento, la media dei numeri sulle carte della fila sia un numero intero. Se, a un certo punto, non rimane nessuna carta nel mazzo che permetta a Matthew di continuare, allora si ferma. Quando Matthew si è fermato, qual è il numero minimo possibile di carte che avrebbe potuto mettere in fila? Cita un esempio di una tale battaglia.
 
-[[src_bmo_2017-18_round1__Q06]]
+[[Quesiti/src_bmo_2017-18_round1#q06|src_bmo_2017-18_round1__Q06]]

@@ -38,7 +38,7 @@ level: squadre
 > The DOC telephone on the Matryx HOMFLY telephone directory has the number \ DOC: it is equal to (1)+(1+2)+··+(1+2+··+1918). How many digits do you have?
 
 **Answer:** 0010
-[[src_squadre_2018_semifinalea__Q01]]
+[[Quesiti/src_squadre_2018_semifinalea#q01|src_squadre_2018_semifinalea__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: squadre
 > He's running away from Matryx Square. He's got to run away on the skateboard from Biffe. Now it's in the center of Hill Valley Square, which is a square chessboard of 13 boxes per side, and it has to reach any box on the edge as quickly as possible, that is, at every step it has to move onto a box that is on a larger square crown (centered at the starting point). Also, not having its own flying skateboard, it can only move between boxes with at least one vertex in common. How many different routes can you take to get out of Biff?
 
 **Answer:** 2912
-[[src_squadre_2018_semifinalea__Q02]]
+[[Quesiti/src_squadre_2018_semifinalea#q02|src_squadre_2018_semifinalea__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: squadre
 > What a paradox! On the \ DOC board is written a set A of 100 distinct integers. Among his notes to build the time machine, he notes there are exactly N different integers that can be written as b+c, where b,c ∈A. Matryx, however, went back in time and changed some of these numbers, changing the space-time continuum. As a result, even the value of N has changed! If Nmax and Nmin are, respectively, the maximum and minimum values of N obtained in this way, how much is Nmax −2Nmin? Note: b and c can also be the same number.
 
 **Answer:** 4652
-[[src_squadre_2018_semifinalea__Q03]]
+[[Quesiti/src_squadre_2018_semifinalea#q03|src_squadre_2018_semifinalea__Q03]]
 
 
 
@@ -142,7 +142,7 @@ This is the total number of units of measurement for each unit of measurement.
 > Complicated dashboard On the dashboard of the DeuLerean there is a digital screen that is capable of depicting a sequence of non-negative integers. As soon as \DOC has finished its construction, a sequence consisting of only the number 100 appears. With each time travel, this sequence is replaced by a new one, according to this rule: for every k ≥0, the (k +1)-th term of the new sequence is equal to the number of times the number k appears in the old one. The new sequence is equal to the maximum number that appears in the old sequence, plus one. For example, if the old sequence was (10,2,0,2), the new sequence would be (1,0,2,0,0,0,0,0,0,0,0,0,0,0,1). After 2018 time travel, what is the value of the third number (left) of the sequence displayed?
 
 **Answer:** 0001
-[[src_squadre_2018_semifinalea__Q04]]
+[[Quesiti/src_squadre_2018_semifinalea#q04|src_squadre_2018_semifinalea__Q04]]
 
 
 
@@ -179,7 +179,7 @@ This is the total number of units of measurement for each unit of measurement.
 > It's a great Gauss! The rays in the flow geometry always create strange figures, Matryx! says DOC. Today they form two T1 and T2 triangles, with two parallel sides, partially overlapping so as to intersect in an ABCDEF hexagon, whose area is half that of T1, and also the 49 72 of T2. Also AB is 4DE. Now, Matryx, can you tell me how much AB ·CD ·EF BC ·DE ·FA? You write the result as a fraction reduced to the minimum terms, and you answer it by indicating the sum between numerator and denominator.
 
 **Answer:** 0103
-[[src_squadre_2018_semifinalea__Q05]]
+[[Quesiti/src_squadre_2018_semifinalea#q05|src_squadre_2018_semifinalea__Q05]]
 
 
 
@@ -216,7 +216,7 @@ Minimum number of girls dancing conditionally on the MCM
 > What's your number?
 
 **Answer:** 0012
-[[src_squadre_2018_semifinalea__Q06]]
+[[Quesiti/src_squadre_2018_semifinalea#q06|src_squadre_2018_semifinalea__Q06]]
 
 
 
@@ -249,7 +249,7 @@ Minimum number of girls dancing conditionally on the MCM
 > In 1955 Matryx receives a letter from the old West, which reads: "There are many mines, each indicated by a whole. The DeuLerean is found in the number of unordered pairs of polynomials p(x,q(x) with strictly positive integer coefficients, of degree 4, such that p(1)+q(1) = 26 and that the polynomial (p(x)q(x))7 has exactly an odd coefficient. What mine is this?
 
 **Answer:** 8975
-[[src_squadre_2018_semifinalea__Q07]]
+[[Quesiti/src_squadre_2018_semifinalea#q07|src_squadre_2018_semifinalea__Q07]]
 
 
 
@@ -291,7 +291,7 @@ Minimum number of girls dancing conditionally on the MCM
 > The theory of future astronauts [⋆⋆] Matryx and \ DOC ended up in ancient Egypt, where to hide the DeuLerean they built a huge straight pyramid based on an ABCD square and V vertex. On the sides V B and V D take two points P and Q respectively with BP PV = DQ QV such that the APQ plane divides the pyramid into two equal-volume rooms. How much is BP PV ? Answer by indicating a+b+2c, where a,b,c are integers such that BP PV = a+ √ b c , and b does not have perfect squares between its divisors.
 
 **Answer:** 0022
-[[src_squadre_2018_semifinalea__Q08]]
+[[Quesiti/src_squadre_2018_semifinalea#q08|src_squadre_2018_semifinalea__Q08]]
 
 
 
@@ -323,7 +323,7 @@ Minimum number of girls dancing conditionally on the MCM
 > ♪ Whiskey for my n men ♪ ♪ Bu4 Kampen in the saloon. "How many are there?" asks the bartender. I'll just tell you that n is a positive integer with exactly 12 positive divisors 1 = d1 < d2 < ·· < d12 = n, and that dd4−1 = d8(d1 + d2 + d4) . Not wanting to ask any more questions, the bartender prepares a tray of glasses for every opportunity. How many glasses do you fill?
 
 **Answer:** 1989
-[[src_squadre_2018_semifinalea__Q09]]
+[[Quesiti/src_squadre_2018_semifinalea#q09|src_squadre_2018_semifinalea__Q09]]
 
 
 
@@ -358,7 +358,7 @@ Minimum number of girls dancing conditionally on the MCM
 > In the wild West, the Indians pierced the DOC's cowboy hat with arrows. The arrows all have the same tip at the center of the hat, and they all have the shape of segments of the same length. Matryx notes that there are three arrows a,b,c such that the angle between a and b is 60°, that between b and c is 60°, that between c and a is 90°. Instead \ DOC, a more skilled mathematician, notes that for each pair of arrows s and t there is also an arrow that is the symmetry of t with respect to the plane perpendicular to s. How many arrows are in the hat, at least?
 
 **Answer:** 0012
-[[src_squadre_2018_semifinalea__Q10]]
+[[Quesiti/src_squadre_2018_semifinalea#q10|src_squadre_2018_semifinalea__Q10]]
 
 
 
@@ -390,7 +390,7 @@ Minimum number of girls dancing conditionally on the MCM
 > The Great Almanac of the Mathematical Olympics [⋆] At every edition of the Mathematical Olympics, starting with the number zero, BiffTauber bets on the winner thanks to the Great Almanac. The gain you get at edition n is an dollar, where a0 = 0, and for each integer n the relationships a3n = an, a3n+1 = an −1, and a3n+2 = an +2 are worth. The 2018 edition is over, Biffrealizza, which, since the beginning of betting, has won a mountain of dollars. How many, exactly?
 
 **Answer:** 4105
-[[src_squadre_2018_semifinalea__Q11]]
+[[Quesiti/src_squadre_2018_semifinalea#q11|src_squadre_2018_semifinalea__Q11]]
 
 
 
@@ -424,7 +424,7 @@ Minimum number of girls dancing conditionally on the MCM
 > Time circuits have been damaged by lightning: now the DeuLerean can only reach four-digit years such that the number of thousands is greater or equal to the sum of the other three. Little bad says \ DOC, and quickly calculates how many different years it can travel. What number do you get? It means that a four-digit number has the number of thousands, not nothing.
 
 **Answer:** 0714
-[[src_squadre_2018_semifinalea__Q12]]
+[[Quesiti/src_squadre_2018_semifinalea#q12|src_squadre_2018_semifinalea__Q12]]
 
 
 
@@ -458,7 +458,7 @@ Minimum number of girls dancing conditionally on the MCM
 > In 2018 the Hill Valley clock was finally rebuilt: it now consists of an isosceles triangle ABC rectangle in C. The points D and E, respectively on the AC and CB sides, are joined by a segment parallel to AB. There are now two circular clocks, one inscribed on the ADE triangle and one inscribed on the ABE, which touch at a point on the AE segment. How much is 2000· EC CB ?
 
 **Answer:** 0343
-[[src_squadre_2018_semifinalea__Q13]]
+[[Quesiti/src_squadre_2018_semifinalea#q13|src_squadre_2018_semifinalea__Q13]]
 
 
 
@@ -491,7 +491,7 @@ Minimum number of girls dancing conditionally on the MCM
 > To unlock the door of his future home, Jensenfer Paerther must find three natural a,b,c of three, two, and one digit, respectively, with b = a c. In addition, the digits of b are contained in those of a, which is the maximum possible. How much is it worth? The containment of figures is understood by multiplication, i.e. for example 32 is contained in 243 but 33 is not.
 
 **Answer:** 0819
-[[src_squadre_2018_semifinalea__Q14]]
+[[Quesiti/src_squadre_2018_semifinalea#q14|src_squadre_2018_semifinalea__Q14]]
 
 
 
@@ -526,7 +526,7 @@ Minimum number of girls dancing conditionally on the MCM
 > An animal physicist \ DOC left the loyal Eisenstein in an extra-temporal enclosure, which in spatial dimensions is an ABC triangle with angles in A,B,C of 50, 60, 70 degrees respectively. If H is the height foot coming out of B and K the point on AB with AH = AK, a straight fence perpendicular to AB joins K to the BH segment, which intersects in P. Eisenstein, endowed with great physical sense, immediately estimates the amplitude in degrees of \PAK: what value does he find?
 
 **Answer:** 0025
-[[src_squadre_2018_semifinalea__Q15]]
+[[Quesiti/src_squadre_2018_semifinalea#q15|src_squadre_2018_semifinalea__Q15]]
 
 
 
@@ -572,4 +572,4 @@ Minimum number of girls dancing conditionally on the MCM
 > U XIX National Team Semifinal Competition A  Solution  4 May 3018 olimpiadi.dm.unibo.it www.oliforum.it Nr. The problem
 
 **Answer:** 0248
-[[src_squadre_2018_semifinalea__Q16]]
+[[Quesiti/src_squadre_2018_semifinalea#q16|src_squadre_2018_semifinalea__Q16]]

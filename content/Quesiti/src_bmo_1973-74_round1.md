@@ -19,7 +19,7 @@ level: BMO Round 1
 
 > The curves $A$, $B$ and $C$ are related in such a way that $B$ "bisects" the area between $A$ and $C$, that is, the area of the region $V$ is equal to the area of the region $W$ at all points of the curve $B$. Find the equation of curve $C$ given that the equation of curve $A$ is $y = \frac{x}{x_0}$ and that the equation of curve $B$ is $y = \frac{x}{x_0^2}$.
 
-![[src_bmo_1973-74_round1__Q01.png]]
+![[src_bmo_1973-74_round1__q01.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: BMO Round 1
 
 > Le curve $A$, $B$ e $C$ sono correlate in modo tale che $B$ "bisetti" l'area tra $A$ e $C$, cioè l'area della regione $V$ è uguale all'area della regione $W$ in tutti i punti della curva $B$. Trova l'equazione della curva $C$ dato che l'equazione della curva $A$ è $y = \frac{x}{x_0}$ e che l'equazione della curva $B$ è $y = \frac{x}{x_0^2}$.
 
-![[src_bmo_1973-74_round1__Q01.png]]
+![[src_bmo_1973-74_round1__q01.png]]
 
-[[src_bmo_1973-74_round1__Q01]]
+[[Quesiti/src_bmo_1973-74_round1#q01|src_bmo_1973-74_round1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > Un domino è una coppia di numeri interi non ordinati. L'insieme di tutti i 15 domino contenenti due enti da $1, 2, 3, 4, 5$ è diviso in tre sottinsiemi di cinque domino. I domino di ciascun sottoinsieme formano una catena chiusa, cioè $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$, dove $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (e $a_i$, $b_i$ non devono essere tutti diversi). Quante partizioni di questo tipo ci sono? (L'ordine dei tre sottogruppi della partizione è irrilevante.)
 
-[[src_bmo_1973-74_round1__Q02]]
+[[Quesiti/src_bmo_1973-74_round1#q02|src_bmo_1973-74_round1__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Dimostra che è impossibile che tutti i volti di un poliedro converso siano esagoni.
 
-[[src_bmo_1973-74_round1__Q03]]
+[[Quesiti/src_bmo_1973-74_round1#q03|src_bmo_1973-74_round1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: BMO Round 1
 
 > $M$ è una matrice $16 \times 16$. Ogni elemento nella diagonale principale e ogni elemento nell'ultima riga (la sesta riga) è $1$. Ogni altro elemento della matrice è $0$. Trova l'inverso di $M$.
 
-[[src_bmo_1973-74_round1__Q04]]
+[[Quesiti/src_bmo_1973-74_round1#q04|src_bmo_1973-74_round1__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: BMO Round 1
 
 > Un accordo di bridge è definito come la distribuzione di 52 carte di gioco ordinarie tra quattro giocatori in modo che ciascuno abbia 13 carte. In un accordo di bridge, qual è la probabilità che solo un giocatore abbia un completo? (Lascia la tua risposta nei fattoriali.)
 
-[[src_bmo_1973-74_round1__Q05]]
+[[Quesiti/src_bmo_1973-74_round1#q05|src_bmo_1973-74_round1__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: BMO Round 1
 
 > $X$ e $Y$ sono i piedi delle perpendicolari da un punto $P$ a $CA$ e $CB$ rispettivamente, dove $P$ è un punto del triangolo $ABC$. La linea retta attraverso $P$, perpendicolare a $AB$, taglia $XY$ a $Z$. Provare che $CZ$ divide $AB$.
 
-[[src_bmo_1973-74_round1__Q06]]
+[[Quesiti/src_bmo_1973-74_round1#q06|src_bmo_1973-74_round1__Q06]]
 
 
 
@@ -201,7 +201,7 @@ level: BMO Round 1
 
 > Le radici dell'equazione $x^3 = bx + c$ ($bc \neq 0$, $b$ e $c$ reale) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in termini di $b$ e $c$ in modo tale che $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$ e indicare una condizione che garantisca che $p$, $q$ e $r$ siano reali.
 
-[[src_bmo_1973-74_round1__Q07]]
+[[Quesiti/src_bmo_1973-74_round1#q07|src_bmo_1973-74_round1__Q07]]
 
 
 
@@ -247,7 +247,7 @@ level: BMO Round 1
 
 > $n$ sia un numero primo impar. È necessario scrivere il prodotto $$\prod_{i=1}^{n-1}(x+i)$$ come polinomio $$\sum_{j=0}^{n-1} a_j x^j.$$ Considerando il prodotto $\prod_{i=1}^{n}(x+i)$ in due modi, stabilire le relazioni $$a_{n-1} = 1,$$ $$a_{n-2} = n(n-1)/2!,$$ $$2a_{n-3} = n(n-1)(n-2)/3! + a_{n-2}(n-1)(n-2)/2!,$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$(n-2)a_1 = n + a_{n-2}(n-1) + a_{n-3}(n-2) + \cdots + 3a_2,$$ $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$ Prove $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) e che $n \mid (a_0 + 1)$; e dimostrare anche che quando $x$ è un numero intero $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$ Da qui dedurre il teorema di Wilson e il teorema di Fermat, vale a dire che quando $n$ è primo e $x$ non è un multiple di $n$: \MSK{itemize} \itemii[((((((((( \end{itemize} ($p \mid q$ significa $p$ divide $q$ senza lasciare alcun rimanente.)
 
-[[src_bmo_1973-74_round1__Q08]]
+[[Quesiti/src_bmo_1973-74_round1#q08|src_bmo_1973-74_round1__Q08]]
 
 
 
@@ -277,7 +277,7 @@ level: BMO Round 1
 > 
 > [Puoi citare il risultato $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo desideri.]
 
-[[src_bmo_1973-74_round1__Q09]]
+[[Quesiti/src_bmo_1973-74_round1#q09|src_bmo_1973-74_round1__Q09]]
 
 
 
@@ -309,4 +309,4 @@ Attrazione gravitazionale di un cono troncato su una massa unitaria al vertice V
 > 
 > Poiché l'attrazione gravitazionale che un punto di massa $m$ a $P$ esercita su massa unità a $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che la magnitudine dell'attrazione gravitazionale di questo solido su massa unità a $V$ è $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
 
-[[src_bmo_1973-74_round1__Q10]]
+[[Quesiti/src_bmo_1973-74_round1#q10|src_bmo_1973-74_round1__Q10]]

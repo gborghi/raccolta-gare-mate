@@ -42,7 +42,7 @@ level: kangourou
 > 
 > Based on this experiment, what is a reliable number for the coriander in the bag?
 
-[[src_kangourou_2021_junior_finale__Q01]]
+[[Quesiti/src_kangourou_2021_junior_finale#q01|src_kangourou_2021_junior_finale__Q01]]
 
 
 
@@ -69,7 +69,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
 > When you observe two spheres of different rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
-[[src_kangourou_2021_junior_finale__Q02]]
+[[Quesiti/src_kangourou_2021_junior_finale#q02|src_kangourou_2021_junior_finale__Q02]]
 
 
 
@@ -112,7 +112,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > At the end of these operations, the initial amount of water in each container is to be restored, thus minimizing the number of transis. If we adopt a proper strategy, how many frames will be needed, at most?
 
 **Answer:** 9
-[[src_kangourou_2021_junior_finale__Q03]]
+[[Quesiti/src_kangourou_2021_junior_finale#q03|src_kangourou_2021_junior_finale__Q03]]
 
 
 
@@ -174,7 +174,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > In the figure you see a plane development of a cube, that is, a possible plane approach of the sides of the cube so that you can reconstruct the cube by folding the figure along the common sides of the two sides appropriately. How many different planes of development between them has a cube, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
 
 **Answer:** 11
-[[src_kangourou_2021_junior_finale__Q04]]
+[[Quesiti/src_kangourou_2021_junior_finale#q04|src_kangourou_2021_junior_finale__Q04]]
 
 
 
@@ -211,7 +211,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > b) $m = 2020$ e $n = 2021$?
 
 **Answer:** a)No b)Si
-[[src_kangourou_2021_junior_finale__Q05]]
+[[Quesiti/src_kangourou_2021_junior_finale#q05|src_kangourou_2021_junior_finale__Q05]]
 
 
 
@@ -239,7 +239,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
 > It shows that for any $n$-upple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
 
-[[src_kangourou_2021_junior_finale__Q06]]
+[[Quesiti/src_kangourou_2021_junior_finale#q06|src_kangourou_2021_junior_finale__Q06]]
 
 
 
@@ -273,7 +273,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > A) 20 B) 21 C) 22 D) 23 E) 24
 
-[[src_kangourou_2021_junior_finale__Q07]]
+[[Quesiti/src_kangourou_2021_junior_finale#q07|src_kangourou_2021_junior_finale__Q07]]
 
 
 
@@ -308,7 +308,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > A) 14 B) 16 C) 18 D) 21 E) 24
 
-[[src_kangourou_2021_junior_finale__Q08]]
+[[Quesiti/src_kangourou_2021_junior_finale#q08|src_kangourou_2021_junior_finale__Q08]]
 
 
 
@@ -343,7 +343,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > (see Figure A) (see Figure B) (see Figure C) (see Figure D) (see Figure D) (see Figure E) (see Figure E)
 
-[[src_kangourou_2021_junior_finale__Q09]]
+[[Quesiti/src_kangourou_2021_junior_finale#q09|src_kangourou_2021_junior_finale__Q09]]
 
 
 
@@ -378,7 +378,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > A) 3h and 10 min B) 3h and 2 min C) 3h D) 2h and 40 min E) 2h and 58 min
 
-[[src_kangourou_2021_junior_finale__Q10]]
+[[Quesiti/src_kangourou_2021_junior_finale#q10|src_kangourou_2021_junior_finale__Q10]]
 
 
 
@@ -413,7 +413,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > (a) certainly $A < B$. (b) certainly $A > B$. (c) certainly $A \times B > 0$. D) $A$ is certainly different from $B$, but it could be either $A < B$ or $A > B$. E) None of the above claims are correct.
 
-[[src_kangourou_2021_junior_finale__Q11]]
+[[Quesiti/src_kangourou_2021_junior_finale#q11|src_kangourou_2021_junior_finale__Q11]]
 
 
 
@@ -447,7 +447,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > A) 6 B) 7 C) 8 D) 9 E) 10
 
-[[src_kangourou_2021_junior_finale__Q12]]
+[[Quesiti/src_kangourou_2021_junior_finale#q12|src_kangourou_2021_junior_finale__Q12]]
 
 
 
@@ -481,7 +481,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > A) 1 B) 2 C) 3 D) 4 E) 5
 
-[[src_kangourou_2021_junior_finale__Q13]]
+[[Quesiti/src_kangourou_2021_junior_finale#q13|src_kangourou_2021_junior_finale__Q13]]
 
 
 
@@ -516,7 +516,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > (a) 4 (b) 3 (c) 2 (d) 1 (e) none
 
-[[src_kangourou_2021_junior_finale__Q14]]
+[[Quesiti/src_kangourou_2021_junior_finale#q14|src_kangourou_2021_junior_finale__Q14]]
 
 
 
@@ -551,4 +551,4 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 > 
 > A) 18 B) 11 C) 17,5 D) 9 E) 16
 
-[[src_kangourou_2021_junior_finale__Q15]]
+[[Quesiti/src_kangourou_2021_junior_finale#q15|src_kangourou_2021_junior_finale__Q15]]

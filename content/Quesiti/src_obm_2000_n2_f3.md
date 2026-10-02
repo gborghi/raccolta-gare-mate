@@ -19,7 +19,7 @@ level: OBM Nível 2
 
 > Paulo has three common identical dice, on which the sum of the numbers on two opposite faces is always equal to $7$. He glues the dice together so that each pair of glued faces shows the same number, and then places them on a non-transparent table, as the figure indicates. The sum of the numbers on all eleven visible faces is $36$. What is the sum of the numbers on the three faces that are in contact with the table?
 
-![[src_obm_2000_n2_f3__Q01.png]]
+![[src_obm_2000_n2_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -36,10 +36,10 @@ level: OBM Nível 2
 
 > Paulo ha tre dadi comuni identici, su cui la somma dei numeri su due facce opposte è sempre uguale a $7$. Colla i dadi insieme in modo che ogni coppia di volti collacciati mostri lo stesso numero, e poi li posiziona su un tavolo non trasparente, come indica la figura. La somma dei numeri su tutte le undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce che sono in contatto con la tavola?
 
-![[src_obm_2000_n2_f3__Q01.png]]
+![[src_obm_2000_n2_f3__q01.png]]
 
 **Risposta:** 13
-[[src_obm_2000_n2_f3__Q01]]
+[[Quesiti/src_obm_2000_n2_f3#q01|src_obm_2000_n2_f3__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: OBM Nível 2
 
 > Isabel ha due mazzi, ognuno con carte $50$. Su ciascun mazzo sono scritti i numeri da $1$ a $100$ (su ogni carta sono scritti due numeri, uno su ogni faccia della carta). A causa di un difetto di fabbricazione, la distribuzione dei numeri delle schede non è uguale nei due mazzi (ad esempio, in uno dei mazzi la $1$ appare sulla stessa scheda della $2$; nell'altro, la $1$ appare con la $76$). Indicare come Isabel deve procedere in modo che, quando si collocano le carte $100$ su un tavolo, le facce rivolte verso l'alto mostrino tutti i numeri da $1$ a $100$.
 
-[[src_obm_2000_n2_f3__Q02]]
+[[Quesiti/src_obm_2000_n2_f3#q02|src_obm_2000_n2_f3__Q02]]
 
 
 
@@ -83,7 +83,7 @@ level: OBM Nível 2
 > 
 > Show that the lines $AA'$ and $AB'$ divide the angle $\alpha$ into three equal parts.
 
-![[src_obm_2000_n2_f3__Q03.png]]
+![[src_obm_2000_n2_f3__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -101,9 +101,9 @@ level: OBM Nível 2
 > 
 > Indicare che le linee $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
 
-![[src_obm_2000_n2_f3__Q03.png]]
+![[src_obm_2000_n2_f3__q03.png]]
 
-[[src_obm_2000_n2_f3__Q03]]
+[[Quesiti/src_obm_2000_n2_f3#q03|src_obm_2000_n2_f3__Q03]]
 
 
 
@@ -132,4 +132,4 @@ level: OBM Nível 2
 > È possibile trovare due potenze di $2$, distinte e con lo stesso numero di cifre, in modo tale che una possa essere ottenuta mediante una riorganizzazione delle cifre dell'altra?
 
 **Risposta:** No, it is not possible.
-[[src_obm_2000_n2_f3__Q04]]
+[[Quesiti/src_obm_2000_n2_f3#q04|src_obm_2000_n2_f3__Q04]]

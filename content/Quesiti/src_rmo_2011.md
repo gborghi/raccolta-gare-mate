@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $D$, $E$, $F$ be points respectively on the segments $BC$, $CA$, $AB$ such that $AD$, $BE$, $CF$ concur at the point $K$. Suppose $BD/DC = BF/FA$ and $\angle ADB = \angle AFC$. Prove that $\angle ABE = \angle CAD$.
 
-![[src_rmo_2011__Q01.png]]
+![[src_rmo_2011__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo. I segmenti $D$, $E$, $F$ siano punti rispettivamente sui segmenti $BC$, $CA$, $AB$ in modo tale che $AD$, $BE$, $CF$ siano convergenti al punto $K$. Supponiamo $BD/DC = BF/FA$ e $\angle ADB = \angle AFC$. Prove che $\angle ABE = \angle CAD$.
 
-![[src_rmo_2011__Q01.png]]
+![[src_rmo_2011__q01.png]]
 
-[[src_rmo_2011__Q01]]
+[[Quesiti/src_rmo_2011#q01|src_rmo_2011__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: RMO
 
 > Let $(a_1, a_2, \ldots, a_{2011})$ essere una permutazione (cioè una riorganizzazione) dei numeri $1, 2, 3, \ldots, 2011$. Indicare che esistono due numeri $j, k$, quali $1 \le j < k \le 2011$ e $|a_j - j| = |a_k - k|$.
 
-[[src_rmo_2011__Q02]]
+[[Quesiti/src_rmo_2011#q02|src_rmo_2011__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: RMO
 
 > Un numero naturale $n$ è scelto rigorosamente tra due quadrati perfetti consecutivi. Il più piccolo di questi due quadrati si ottiene sottraendo $k$ da $n$ e il più grande si ottiene aggiungendo $l$ a $n$. Prova che $n - kl$ è un quadrato perfetto.
 
-[[src_rmo_2011__Q03]]
+[[Quesiti/src_rmo_2011#q03|src_rmo_2011__Q03]]
 
 
 
@@ -103,7 +103,7 @@ level: RMO
 
 > Consider a 20-sided convex polygon $K$, with vertices $A_1, A_2, \ldots, A_{20}$ in that order. Find the number of ways in which three sides of $K$ can be chosen so that every pair among them has at least two sides of $K$ between them. (For example $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ is an admissible triple while $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ is not.)
 
-![[src_rmo_2011__Q04.png]]
+![[src_rmo_2011__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -119,9 +119,9 @@ level: RMO
 
 > Considera un poligono convex a 20 lati $K$, con vertici $A_1, A_2, \ldots, A_{20}$ in tale ordine. Trovare il numero di modi in cui tre lati di $K$ possono essere scelti in modo che ogni coppia tra loro abbia almeno due lati di $K$ tra loro. (ad esempio $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ è un triplo ammissibile mentre $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ non lo è.)
 
-![[src_rmo_2011__Q04.png]]
+![[src_rmo_2011__q04.png]]
 
-[[src_rmo_2011__Q04]]
+[[Quesiti/src_rmo_2011#q04|src_rmo_2011__Q04]]
 
 
 
@@ -134,7 +134,7 @@ level: RMO
 
 > Let $ABC$ be a triangle and let $BB_1$, $CC_1$ be respectively the bisectors of $\angle B$, $\angle C$ with $B_1$ on $AC$ and $C_1$ on $AB$. Let $E$, $F$ be the feet of perpendiculars drawn from $A$ onto $BB_1$, $CC_1$ respectively. Suppose $D$ is the point at which the incircle of $ABC$ touches $AB$. Prove that $AD = FE$.
 
-![[src_rmo_2011__Q05.png]]
+![[src_rmo_2011__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -150,9 +150,9 @@ level: RMO
 
 > Che $ABC$ sia un triangolo e che $BB_1$, $CC_1$ siano rispettivamente i bisettori di $\angle B$, $\angle C$ con $B_1$ su $AC$ e $C_1$ su $AB$. I piedi perpendicolari $E$ e $F$ devono essere tracciati rispettivamente da $A$ a $BB_1$ e $CC_1$. Supponiamo che $D$ sia il punto in cui l'incircolo di $ABC$ tocca $AB$. Prova che $AD = FE$.
 
-![[src_rmo_2011__Q05.png]]
+![[src_rmo_2011__q05.png]]
 
-[[src_rmo_2011__Q05]]
+[[Quesiti/src_rmo_2011#q05|src_rmo_2011__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: RMO
 
 > Trovare tutte le coppie $(x, y)$ di numeri reali tali che $$16^{x^2+y} + 16^{x+y^2} = 1.$$
 
-[[src_rmo_2011__Q06]]
+[[Quesiti/src_rmo_2011#q06|src_rmo_2011__Q06]]

@@ -35,7 +35,7 @@ level: CAMP Selection Camp
 
 > Trovare tutti gli integri positivi $c$ con la seguente proprietà: per ogni insieme finito non vuoto $\mathcal{S}$ di integri positivi, esistono (non necessariamente distinti) elementi $a, b$ di $\mathcal{S}$ e un elemento $e$ di $\mathcal{S}$ tale che $a + b + 2c$ sia divisibile da $e$.
 
-[[src_selection_camp_2025__Q01]]
+[[Quesiti/src_selection_camp_2025#q01|src_selection_camp_2025__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: CAMP Selection Camp
 
 > $ABC$ sia un triangolo con incircolo $\omega$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), e $\omega$ è anche tangente alla linea $DE$, toccandola in un punto $P$. Il $M$ deve essere il punto medio dell'arco $BC$ del circoncircolo e il $Q$ deve essere il secondo incrocio della linea $MP$ con $\omega$. Se $B'$ è la seconda intersezione della linea $DM$ con $\omega$ e $C'$ è la seconda intersezione della linea $EM$ con $\omega$, con $B' \ne C'$, e supponiamo che $A$ e $Q$ si trovino sullo stesso lato della linea $BC$. Let $O$ essere il centro del triangolo $DEM$, e let $Q'$ essere il punto su $\omega$ con $B'Q' : C'Q' = BQ : CQ$. Prova che la riga $MO$ è parallela alla riga $QQ'$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_selection_camp_2025__Q02]]
+[[Quesiti/src_selection_camp_2025#q02|src_selection_camp_2025__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: CAMP Selection Camp
 
 > Lasciamo $n$ essere un intero con $n \ge 2$, e consideriamo una griglia di celle $n \times n$. Inizialmente esattamente una cellula nella riga superiore è di colore nero, e tutte le altre cellule sono bianche. Si può ripetere la seguente operazione: scegliere un blocco di celle $2 \times 2$ in cui esattamente una cellula è attualmente colorata in nero e colorare le cellule $3$ rimanenti di quel blocco in nero. Determinare tutte le $n$ per le quali è possibile, ripetendo questa operazione, raggiungere uno stato in cui ogni cella della griglia è nera.
 
-[[src_selection_camp_2025__Q03]]
+[[Quesiti/src_selection_camp_2025#q03|src_selection_camp_2025__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero positivo. Ciascuno degli studenti $n$ corre in gare $n$. In ciascuna gara a tutti gli studenti $n$ vengono assegnati ranghi distinti (non due studenti condividono un rank). Per una coppia di integri positivi $(a, b)$, si dice che uno studente abbia il titolo $(a, b)$ se lo studente finisce tra i migliori $b$ in esattamente $a$ delle gare $n$. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli studenti $n$.
 
-[[src_selection_camp_2025__Q04]]
+[[Quesiti/src_selection_camp_2025#q04|src_selection_camp_2025__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: CAMP Selection Camp
 
 > Determinare tutti i sottogruppi $\mathcal{S}$ di $\{2^0, 2^1, 2^2, \ldots\}$ con la seguente proprietà: esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che l'insieme di numeri interi della forma $f(a+b) - f(a) - f(b)$, come $a$ e $b$ si estende su tutti gli enti interi positivi, è uguale a $\mathcal{S}$.
 
-[[src_selection_camp_2025__Q05]]
+[[Quesiti/src_selection_camp_2025#q05|src_selection_camp_2025__Q05]]
 
 
 
@@ -164,7 +164,7 @@ level: CAMP Selection Camp
 
 > Let $ABC$ be a triangle with $AB < AC < BC$ and incenter $I$. Lines $AI$, $BI$, $CI$ meet the circumcircle of $ABC$ again (at the point other than $A$, $B$, $C$) at $M_A$, $M_B$, $M_C$ respectively. Using these points, an auxiliary point $X$ and further points $P$, $Q$ are constructed via additional lines and circles through $M_A$, $M_B$, $M_C$ (see figure). Prove the resulting tangency / collinearity stated in the figure. (Here $UV$ denotes the length of segment $UV$.)
 
-![[src_selection_camp_2025__Q06.png]]
+![[src_selection_camp_2025__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -182,9 +182,9 @@ level: CAMP Selection Camp
 
 > Il $ABC$ deve essere un triangolo con $AB < AC < BC$ e incentro $I$. Le linee $AI$, $BI$, $CI$ incontrano nuovamente il circoncircolo di $ABC$ (al punto diverso da $A$, $B$, $C$) rispettivamente a $M_A$, $M_B$ e $M_C$. Utilizzando questi punti, un punto ausiliario $X$ e ulteriori punti $P$, $Q$ sono costruiti attraverso linee e cerchi aggiuntivi attraverso $M_A$, $M_B$, $M_C$ (vedere figura). Provare la tangenza / collinearità risultante indicata nella figura. (Qui $UV$ indica la lunghezza del segmento $UV$.)
 
-![[src_selection_camp_2025__Q06.png]]
+![[src_selection_camp_2025__q06.png]]
 
-[[src_selection_camp_2025__Q06]]
+[[Quesiti/src_selection_camp_2025#q06|src_selection_camp_2025__Q06]]
 
 
 
@@ -213,7 +213,7 @@ level: CAMP Selection Camp
 
 > Una sequenza di integri positivi $a_1, a_2, \ldots$ soddisfa la seguente condizione per ogni numero intero $n$ con $n \ge 2024$: $a_{n+1}$ è uguale alla media di quegli termini tra $a_1, a_2, \ldots, a_n$ che sono superiori o uguali alla media $\dfrac{a_1 + a_2 + \cdots + a_n}{n}$. Prova che per ogni intero $n$ con $n > 2024$, abbiamo $a_n = a_{2025}$.
 
-[[src_selection_camp_2025__Q07]]
+[[Quesiti/src_selection_camp_2025#q07|src_selection_camp_2025__Q07]]
 
 
 
@@ -242,7 +242,7 @@ level: CAMP Selection Camp
 
 > Nel piano ci sono punti $1000$, non tre collineari, chiamati punti buoni. Un insieme si chiama bello se è costituito da un triangolo le cui tre vertici sono punti buoni insieme con esattamente un punto buono che si trova rigorosamente all'interno di quel triangolo. Supponiamo che si possa assegnare un numero reale a ciascun punto buono in modo che si applichino entrambe le seguenti due condizioni: (1) esistono due punti buoni i cui numeri assegnati differiscono (cioè l'assegnazione non è costante); (2) per ogni insieme bello, il numero assegnato al suo punto buono interno è uguale alla media dei numeri assegnati ai tre vertici del triangolo. Determina il massimo numero possibile di set belli.
 
-[[src_selection_camp_2025__Q08]]
+[[Quesiti/src_selection_camp_2025#q08|src_selection_camp_2025__Q08]]
 
 
 
@@ -271,7 +271,7 @@ level: CAMP Selection Camp
 
 > Considerare le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che per tutti i numeri interi positivi $m, n$, le seguenti due affermazioni siano equivalenti: $m$ e $n$ sono coprime, e $f(mn)^2 = f(m^2)\, f(n)\, f(n)$ (cioè, $f(mn)^2 = f(m^2)\, f(n)^2$). Per ogni intero positivo $n$, determinare tutti i valori possibili di $f(n)$.
 
-[[src_selection_camp_2025__Q09]]
+[[Quesiti/src_selection_camp_2025#q09|src_selection_camp_2025__Q09]]
 
 
 
@@ -300,7 +300,7 @@ level: CAMP Selection Camp
 
 > Un pentagono $A_1A_2A_3A_4A_5$ è inserito in un cerchio. Per ogni numero intero $i$ con $1 \le i \le 5$, $B_i$ deve essere il punto di intersezione della riga $A_{i+1}A_{i-1}$ e della riga $A_{i-1}A_{i-2}$, dove gli indici sono presi modulo $5$ in modo che $A_n = A_{n+5}$. Dal pentagono $B_1B_2B_3B_4B_5$ si ottengono altri cinque punti di intersezione $I_1, I_2, I_3, I_4, I_5$ dei suoi lati/diagonali. Provare che $I_1, I_2, I_3, I_4, I_5$ si trova su un cerchio comune. (L'indice soddisfa $A_n = A_{n+5}$.)
 
-[[src_selection_camp_2025__Q10]]
+[[Quesiti/src_selection_camp_2025#q10|src_selection_camp_2025__Q10]]
 
 
 
@@ -329,7 +329,7 @@ level: CAMP Selection Camp
 
 > Determinare tutti i numeri interi positivi $n$ con la seguente proprietà: per ogni polinomio di grado-$3$ $P$ con coeficienti interi, esiste un polinomio di grado-$2$ $Q$ con coeficienti interi in modo che per ogni intero $k$, il valore $Q(k)\bigl(P(k) + Q(k)\bigr)$ non sia divisibile da $n$.
 
-[[src_selection_camp_2025__Q11]]
+[[Quesiti/src_selection_camp_2025#q11|src_selection_camp_2025__Q11]]
 
 
 
@@ -358,4 +358,4 @@ level: CAMP Selection Camp
 
 > $p$ e $q$ siano numeri interi positivi reciprocamente coprimi. Determinare tutte le sequenze di interi positivi $a_1, a_2, \ldots$ che soddisfano entrambe le seguenti condizioni: (i) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+p}$ è uguale a $1$; (ii) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+q}$ è uguale a $1$.
 
-[[src_selection_camp_2025__Q12]]
+[[Quesiti/src_selection_camp_2025#q12|src_selection_camp_2025__Q12]]

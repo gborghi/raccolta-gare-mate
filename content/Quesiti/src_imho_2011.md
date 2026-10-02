@@ -33,7 +33,7 @@ level: IMO
 
 > Given any set $A = \{a_1, a_2, a_3, a_4\}$ of four distinct positive integers, we denote the sum $a_1 + a_2 + a_3 + a_4$ by $s_A$. Let $n_A$ denote the number of pairs $(i,j)$ with $1 \le i < j \le 4$ for which $a_i + a_j$ divides $s_A$. Find all sets $A$ of four distinct positive integers which achieve the largest possible value of $n_A$.
 
-[[src_imho_2011__Q01]]
+[[Quesiti/src_imho_2011#q01|src_imho_2011__Q01]]
 
 
 
@@ -60,7 +60,7 @@ The windmill process uses each point as pivot infinitely often
 
 > Let $\mathcal{S}$ be a finite set of at least two points in the plane. Assumes that no three points of $\mathcal{S}$ are collinear. A windmill is a process that starts with a line $\ell$ going through a single point $P \in \mathcal{S}$. The line rotates clockwise about the point $P$ until the first time that the line meets some other point belonging to $\mathcal{S}$. This point, $Q$, takes over as the new pivot, and the line now rotates clockwise about $Q$ until it next meets a point of $\mathcal{S}$. This process continues indefinitely. Show that we can choose a point $P$ in $\mathcal{S}$ and a line $\ell$ going through $P$ such that the resulting windmill uses each point of $\mathcal{S}$ as a pivot infinitely many times.
 
-[[src_imho_2011__Q02]]
+[[Quesiti/src_imho_2011#q02|src_imho_2011__Q02]]
 
 
 
@@ -89,7 +89,7 @@ The windmill process uses each point as pivot infinitely often
 
 > Let $f : \mathbb{R} \to \mathbb{R}$ be a real-valued function defined on the set of real numbers that satisfies $$f(x+y) \le yf(x) + f(f(x))$$ for all real numbers $x$ and $y$. Prove that $f(x) = 0$ for all $x \le 0$.
 
-[[src_imho_2011__Q03]]
+[[Quesiti/src_imho_2011#q03|src_imho_2011__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Count ways to place weights on balance without right pan heavier
 
 > Let $n > 0$ be an integer. We are given a balance and $n$ weights of weight $2^0, 2^1, \ldots, 2^{n-1}$. We are to place each of the weights on the balance, one after the other, in such a way that the right pan is never heavier than the left pan. At each step we choose one of the weights that has not yet been placed on the balance, and place it on either the left pan or the right pan, until all of the weights have been placed. Determine the number of ways this can be done.
 
-[[src_imho_2011__Q04]]
+[[Quesiti/src_imho_2011#q04|src_imho_2011__Q04]]
 
 
 
@@ -143,7 +143,7 @@ Count ways to place weights on balance without right pan heavier
 
 > Let $f$ be a function from the set of integers to the set of positive integers. Suppose that, for any two integers $m$ and $n$, the difference $f(m) - f(n)$ is divisible by $f(m-n)$. Prove that, for all integers $m$ and $n$ with $f(m) \le f(n)$, the number $f(n)$ is divisible by $f(m)$.
 
-[[src_imho_2011__Q05]]
+[[Quesiti/src_imho_2011#q05|src_imho_2011__Q05]]
 
 
 
@@ -170,4 +170,4 @@ Count ways to place weights on balance without right pan heavier
 
 > Let $ABC$ be an acute triangle with circumcircle $\Gamma$. Let $\ell$ be a tangent line to $\Gamma$, and let $\ell_a$, $\ell_b$, $\ell_c$ be the lines obtained by reflecting $\ell$ in the lines $BC$, $CA$, $AB$, respectively. Show that the circumcircle of the triangle determined by the lines $\ell_a$, $\ell_b$, $\ell_c$ is tangent to the circle $\Gamma$.
 
-[[src_imho_2011__Q06]]
+[[Quesiti/src_imho_2011#q06|src_imho_2011__Q06]]

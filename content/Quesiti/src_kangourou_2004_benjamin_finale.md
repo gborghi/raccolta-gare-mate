@@ -34,7 +34,7 @@ The family of the pirates ends Tuesday/Wednesday.
 > You are shipwrecked on the beach of Mirabilandia which is inhabited by two pirate families: that of the Sincere (who always tell the truth) and that of the Liars (who always lie). You meet two pirates by the name of Tuesday and Wednesday and you'd like to know for each of them which family they belong to. On Tuesday he says "we belong to two different families", but on Wednesday he says "it's not true!" What's your conclusion?
 
 **Answer:** Martedi sincero
-[[src_kangourou_2004_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2004_benjamin_finale#qb1|src_kangourou_2004_benjamin_finale__QB1]]
 
 
 
@@ -63,7 +63,7 @@ Who wins the rope-cutting game
 > Stephen and John have a red rope and a blue one (over 20 centimeters long). They intend to play as follows: in turn they will cut from one of the ends of one of the two strings a piece that must be $4$ centimeters long if the player chooses the red string or $5$ centimeters if the player chooses the blue string. He will lose the first of the two who will no longer be able to cut, that is, he will find himself with the red rope less than $4$ centimetres long and the blue rope less than $5$ centimetres long. He's going to start the game Stefano. How, by knowing the length of the two ropes, can we know from the beginning whether Stephen or John will win?
 
 **Answer:** parita tagli
-[[src_kangourou_2004_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2004_benjamin_finale#qb2|src_kangourou_2004_benjamin_finale__QB2]]
 
 
 
@@ -91,7 +91,7 @@ Who wins the rope-cutting game
 > Consider all the possible quadrilaterals in the plan. Name $A$ the set of all quadrilaterals having at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals having at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals having the four sides of the same length; $D$ the set of all quadrilaterals having at least one pair of parallel opposite sides of the same length. Some of these sets contain one or more of the others. For each set it specifies any other sets it contains.
 
 **Answer:** C in D,B; D in A
-[[src_kangourou_2004_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2004_benjamin_finale#qb3|src_kangourou_2004_benjamin_finale__QB3]]
 
 
 
@@ -102,7 +102,7 @@ Who wins the rope-cutting game
 
 *Lato min/max del quadrato Q piastrellato*
 
-![[src_kangourou_2004_benjamin_finale__probB4.png]]
+![[src_kangourou_2004_benjamin_finale__probb4.png]]
 
 > Un quadrato $Q$ è piastrellato da $34$ quadrati più piccoli, sui quali si sa solo che per $33$ di essi il lato misura $1$ cm. Quali sono il valore minimo e il valore massimo possibili per la lunghezza del lato del quadrato $Q$?
 
@@ -118,12 +118,12 @@ Who wins the rope-cutting game
 
 *Late min/max of the tiled Q square*
 
-![[src_kangourou_2004_benjamin_finale__probB4.png]]
+![[src_kangourou_2004_benjamin_finale__probb4.png]]
 
 > A square $Q$ is tiled by $34$ smaller squares, on which only $33$ is known to measure $1$ cm. What are the minimum and maximum possible values for the length of the side of the square $Q$?
 
 **Answer:** min 7 max 17
-[[src_kangourou_2004_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2004_benjamin_finale#qb4|src_kangourou_2004_benjamin_finale__QB4]]
 
 
 
@@ -158,7 +158,7 @@ Who wins the rope-cutting game
 > How many regular pairs (if I don't take into account the order in which I write the two numbers)?
 
 **Answer:** 9
-[[src_kangourou_2004_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2004_benjamin_finale#qb5|src_kangourou_2004_benjamin_finale__QB5]]
 
 
 
@@ -186,4 +186,4 @@ Who wins the rope-cutting game
 > I have €$8{,}22$ with which I want to buy two sweets for each of my friends: they can be ice cream or chocolate, but all my friends prefer to have an ice cream and a chocolate and I intend to satisfy as many of them as possible. Chocolates are all the same price as ice cream, and each chocolate costs more than a cent of an ice cream. How much should an ice cream cost at least, if I spend exactly the amount available?
 
 **Answer:** 43
-[[src_kangourou_2004_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2004_benjamin_finale#qb6|src_kangourou_2004_benjamin_finale__QB6]]

@@ -35,7 +35,7 @@ level: China Girls' Mathematical Olympiad
 
 > $a_1$, $a_2$, $\ldots$, $a_n$ siano $n$ numeri reali non negativi. Prove che $$\frac{1}{1+a_1} + \frac{a_1}{(1+a_1)(1+a_2)} + \cdots + \frac{a_1 a_2 \cdots a_{n-1}}{(1+a_1)(1+a_2)\cdots(1+a_n)} \le 1.$$ (posato da Ai Yinghua)
 
-[[src_cn_cgmo_2012__Q01]]
+[[Quesiti/src_cn_cgmo_2012#q01|src_cn_cgmo_2012__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: China Girls' Mathematical Olympiad
 > (2) $\angle ATP + \angle ETP = 180^\circ$.
 > (posed by Xiong Bin)
 
-![[src_cn_cgmo_b11_w209__Q02.png]]
+![[src_cn_cgmo_b11_w209__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -67,9 +67,9 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura, i cerchi $\Gamma_1$ e $\Gamma_2$ sono tangenti esternamente al punto $T$. I punti $A$ e $E$ sono sul cerchio $\Gamma_1$, le linee $AB$ e $DE$ sono tangenti al cerchio $\Gamma_2$ rispettivamente sui punti $B$ e $D$. Le linee $AE$ e $BD$ si incontrano al punto $P$. Provare che (1) $\dfrac{AB}{AT} = \dfrac{ED}{ET}$; (2) $\angle ATP + \angle ETP = 180^\circ$. (Posizionato da Xiong Bin)
 
-![[src_cn_cgmo_b11_w209__Q02.png]]
+![[src_cn_cgmo_b11_w209__q02.png]]
 
-[[src_cn_cgmo_2012__Q02]]
+[[Quesiti/src_cn_cgmo_2012#q02|src_cn_cgmo_2012__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: China Girls' Mathematical Olympiad
 
 > Trova tutte le coppie di integri $(a, b)$ che soddisfano la seguente condizione: esiste un intero $d \ge 2$ tale che $a^n + b^n + 1$ sia divisibile da $d$ per qualsiasi intero positivo $n$. (Possibile da Chen Yonggao)
 
-[[src_cn_cgmo_2012__Q03]]
+[[Quesiti/src_cn_cgmo_2012#q03|src_cn_cgmo_2012__Q03]]
 
 
 
@@ -109,7 +109,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 5-1, the inscribed circle $O$ of $\triangle ABC$ is tangent to the sides $AB$ and $AC$ at points $D$ and $E$, respectively. And $O$ is the circumcenter of $\triangle BCE$. Prove that $\angle ODB = \angle OEC$. (posed by Zhu Huawei)
 
-![[src_cn_cgmo_b11_w217__Q05.png]]
+![[src_cn_cgmo_b11_w217__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -125,9 +125,9 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura. 5-1, il cerchio inscritto $O$ di $\triangle ABC$ è tangente ai lati $AB$ e $AC$ rispettivamente ai punti $D$ e $E$. E $O$ è il centro circundante di $\triangle BCE$. Prove che $\angle ODB = \angle OEC$. (postato da Zhu Huawei)
 
-![[src_cn_cgmo_b11_w217__Q05.png]]
+![[src_cn_cgmo_b11_w217__q05.png]]
 
-[[src_cn_cgmo_2012__Q05]]
+[[Quesiti/src_cn_cgmo_2012#q05|src_cn_cgmo_2012__Q05]]
 
 
 
@@ -156,7 +156,7 @@ level: China Girls' Mathematical Olympiad
 > Ci sono città ($n \ge 2$) e due compagnie aeree in un paese. Tra due città, esiste esattamente un volo a due vie che li collega e che è gestito da una delle due compagnie. Una matematica femminile pianifica un percorso di viaggio, in modo che inizia e finisca nella stessa città, attraversa almeno altre due città e ogni città del percorso viene visitata una volta. Scopre che, ovunque inizi e qualunque sia la rotta che sceglie, deve prendere voli di entrambe le compagnie. Trova il valore massimo di $n$. (Posizionato da Liang Yingde)
 
 **Risposta:** 4
-[[src_cn_cgmo_2012__Q06]]
+[[Quesiti/src_cn_cgmo_2012#q06|src_cn_cgmo_2012__Q06]]
 
 
 
@@ -185,4 +185,4 @@ level: China Girls' Mathematical Olympiad
 > Trova il numero di integri $k$ nell'insieme $\{0, 1, 2, \ldots, 2012\}$ in modo tale che il numero di combinazione $\binom{2012}{k}$ sia un multiple di $2012$. (Posizionato da Wang Bin)
 
 **Risposta:** 1498
-[[src_cn_cgmo_2012__Q08]]
+[[Quesiti/src_cn_cgmo_2012#q08|src_cn_cgmo_2012__Q08]]

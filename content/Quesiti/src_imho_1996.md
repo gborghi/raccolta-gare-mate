@@ -45,7 +45,7 @@ level: IMO
 > 
 > (c) Can the task be done when $r = 97$?
 
-[[src_imho_1996__Q01]]
+[[Quesiti/src_imho_1996#q01|src_imho_1996__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: IMO
 
 > Let $P$ be a point inside triangle $ABC$ such that $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$ Let $D$, $E$ be the incenters of triangles $APB$, $APC$, respectively. Show that$AP$,$BD$,$CE$ meet at a point.
 
-[[src_imho_1996__Q02]]
+[[Quesiti/src_imho_1996#q02|src_imho_1996__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: IMO
 
 > Let $S$ denotes the set of nonnegative integers. Find all functions $f$ from $S$ to itself such that $$f(m + f(n)) = f(f(m)) + f(n) \quad \forall m, n \in S.$$
 
-[[src_imho_1996__Q03]]
+[[Quesiti/src_imho_1996#q03|src_imho_1996__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: IMO
 
 > The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What is the least possible value that can be taken on by the smaller of these two squares?
 
-[[src_imho_1996__Q04]]
+[[Quesiti/src_imho_1996#q04|src_imho_1996__Q04]]
 
 
 
@@ -157,7 +157,7 @@ Circumradii sum inequality for hexagon with parallel sides
 
 > Let $ABCDEF$ be a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. Let $R_A, R_C, R_E$ denote the circumradii of triangles $FAB$, $BCD$, $DEF$, respectively, and let $P$ denote the perimeter of the hexagon. Prove that $$R_A + R_C + R_E \ge \frac{P}{2}.$$
 
-[[src_imho_1996__Q05]]
+[[Quesiti/src_imho_1996#q05|src_imho_1996__Q05]]
 
 
 
@@ -196,4 +196,4 @@ Circumradii sum inequality for hexagon with parallel sides
 > 
 > Show that there exist indices $i < j$ with $(i, j) \ne (0, n)$, such that $x_i = x_j$.
 
-[[src_imho_1996__Q06]]
+[[Quesiti/src_imho_1996#q06|src_imho_1996__Q06]]

@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Prova che il numero $$3^n + 2 \times 17^n$$ dove $n$ è un intero non negativo, non è mai un quadrato perfetto.
 
-[[src_bmo_1990-91_round1__Q01]]
+[[Quesiti/src_bmo_1990-91_round1#q01|src_bmo_1990-91_round1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 > 
 > Per ciascuna di tali $k$ specificare gli integri $n$ in modo tale che $x^n + x + 1$ sia divisibile da $x^k + x + 1$.
 
-[[src_bmo_1990-91_round1__Q02]]
+[[Quesiti/src_bmo_1990-91_round1#q02|src_bmo_1990-91_round1__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: BMO Round 1
 > 
 > E' vero che se $(*)$ si tiene, allora $AC$ è perpendicolare a $BD$? Datemi una ragione per la vostra risposta.
 
-[[src_bmo_1990-91_round1__Q03]]
+[[Quesiti/src_bmo_1990-91_round1#q03|src_bmo_1990-91_round1__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: BMO Round 1
 > Trova, con prova, il valore minimo di $(x + y)(y + z)$ dove $x, y, z$ sono numeri reali positivi che soddisfano la condizione $$xyz(x + y + z) = 1.$$
 
 **Risposta:** 1
-[[src_bmo_1990-91_round1__Q04]]
+[[Quesiti/src_bmo_1990-91_round1#q04|src_bmo_1990-91_round1__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: BMO Round 1
 > 
 > Per nessun numero intero $n$, $1 \le n \le 5$, $p_1, p_2, \ldots, p_n$ costituisce una permutazione di $1, 2, \ldots, n$.
 
-[[src_bmo_1990-91_round1__Q05]]
+[[Quesiti/src_bmo_1990-91_round1#q05|src_bmo_1990-91_round1__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: BMO Round 1
 
 > Mostrare che se $x$ e $y$ sono numeri interi positivi in modo tale che $x^2 + y^2 - x$ sia divisibile da $2xy$ allora $x$ è un quadrato perfetto.
 
-[[src_bmo_1990-91_round1__Q06]]
+[[Quesiti/src_bmo_1990-91_round1#q06|src_bmo_1990-91_round1__Q06]]
 
 
 
@@ -219,4 +219,4 @@ level: BMO Round 1
 
 > Una scala di lunghezza $l$ si appoggia a una parete verticale. Supponiamo che sulla scala ci sia un gradino che abbia la stessa distanza $d$ sia dalla parete che dal terreno (orizzontale). Indicare esplicitamente, in termini di $l$ e $d$, l'altezza $h$ dal suolo che la scala raggiunge fino al muro.
 
-[[src_bmo_1990-91_round1__Q07]]
+[[Quesiti/src_bmo_1990-91_round1#q07|src_bmo_1990-91_round1__Q07]]

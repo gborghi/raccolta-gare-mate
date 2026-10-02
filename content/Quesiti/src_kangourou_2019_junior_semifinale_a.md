@@ -38,7 +38,7 @@ level: kangourou
 > Minimum terms Reduce to minimum terms the fraction (1 + 3 + 5 + ... + 51) / (4 + 6 + 8 + ... + 54) and report consecutively numerator and denominator (for example, if the fraction was 5/8 write [0508]).
 
 **Answer:** 2629
-[[src_kangourou_2019_junior_semifinale_a__Q01]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q01|src_kangourou_2019_junior_semifinale_a__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: kangourou
 > Three circles In an equilateral triangle of 40 metres side, three circles of equal radius are drawn, two to two tangents to each other, each tangent to two sides of the triangle. What is the largest integer that does not exceed the length in decimeter of the radius of the circles?
 
 **Answer:** 0073
-[[src_kangourou_2019_junior_semifinale_a__Q02]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q02|src_kangourou_2019_junior_semifinale_a__Q02]]
 
 
 
@@ -164,7 +164,7 @@ level: kangourou
 > Between 1 and 9 the vertices and the centre of the regular octagon in the figure have been given a name. In how many different ways can each of the points, vertices and center, be assigned an integer between 1 and 9 so that different points receive different numbers but, for each fixed assignment, the sum of the three numbers affecting the individual diagonal passing through the center is always the same when the diagonal varies?
 
 **Answer:** 1152
-[[src_kangourou_2019_junior_semifinale_a__Q03]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q03|src_kangourou_2019_junior_semifinale_a__Q03]]
 
 
 
@@ -197,7 +197,7 @@ level: kangourou
 > The maximum value In a plane is a set S of N points: there are no three hills and the possible quadrilaterals (not intertwined) with vertices in S are all convex. If T is the number of possible triangles with vertices in the given set and Q is the number of possible quadrilaterals convex with vertices in the same set, what is the maximum possible value for N + T + Q under the constraint T  Q = 5?
 
 **Answer:** 0041
-[[src_kangourou_2019_junior_semifinale_a__Q04]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q04|src_kangourou_2019_junior_semifinale_a__Q04]]
 
 
 
@@ -229,7 +229,7 @@ level: kangourou
 > 10 lines In the plane there are 10 lines: of these, there are no two parallels, there are no three accidents at the same point, there are no four tangents to the same circle. How many circles are tangent to exactly three of the ten directions?
 
 **Answer:** 0480
-[[src_kangourou_2019_junior_semifinale_a__Q05]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q05|src_kangourou_2019_junior_semifinale_a__Q05]]
 
 
 
@@ -260,7 +260,7 @@ level: kangourou
 > The rest are p and q two prime numbers both greater than 2019. What is the greatest remainder possible for division (p2 + q2): 30?
 
 **Answer:** 0020
-[[src_kangourou_2019_junior_semifinale_a__Q06]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q06|src_kangourou_2019_junior_semifinale_a__Q06]]
 
 
 
@@ -292,7 +292,7 @@ level: kangourou
 > The product For three positive integers A, B and C, A + 1/(B + (1/C)) = 881/97. How much is their product worth?
 
 **Answer:** 0864
-[[src_kangourou_2019_junior_semifinale_a__Q07]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q07|src_kangourou_2019_junior_semifinale_a__Q07]]
 
 
 
@@ -325,7 +325,7 @@ level: kangourou
 > Banknotes Kanglandia banknotes are rectangular, obtained by aligning three squares of the same size. For all the rear is gray, while on the other side each of the squares can be yellow, red, green or blue. Only the colours (and their positions) differentiate different banknotes. How many types of banknotes are there?
 
 **Answer:** 0040
-[[src_kangourou_2019_junior_semifinale_a__Q08]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q08|src_kangourou_2019_junior_semifinale_a__Q08]]
 
 
 
@@ -357,7 +357,7 @@ level: kangourou
 > For every positive integer n be f(n) = (n2  3n + 3)2  3(n2  3n + 3) + 3. What is the product of all (real) solutions to the equation f (n) = n ? (Answer [0000] if the equation has no solutions, [9999] if it has infinitesimal solutions.)
 
 **Answer:** 0003
-[[src_kangourou_2019_junior_semifinale_a__Q09]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q09|src_kangourou_2019_junior_semifinale_a__Q09]]
 
 
 
@@ -390,7 +390,7 @@ level: kangourou
 > In a single day there are 2019 cards, each of which has a different positive integer from 1 to 2019. We want to add a cardboard on which a positive integer n is written so that the arithmetic mean of the numbers written on the cards now in the cardboard is greater than n. How many different ways can we choose n?
 
 **Answer:** 1009
-[[src_kangourou_2019_junior_semifinale_a__Q10]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q10|src_kangourou_2019_junior_semifinale_a__Q10]]
 
 
 
@@ -423,7 +423,7 @@ The probability that ABC+AB+A is divisible by 3*
 > Divisable by 3 Choosing at random three positive integers (not necessarily distinct) A, B, C less than or equal to 2019, what is the probability that the number A × B × C + A × B + A is divisible by 3? (Write down below the numerator and denominator of the fraction reduced to minimum terms; for example, if the answer is 4/31, write [0431].)
 
 **Answer:** 1327
-[[src_kangourou_2019_junior_semifinale_a__Q11]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q11|src_kangourou_2019_junior_semifinale_a__Q11]]
 
 
 
@@ -454,7 +454,7 @@ The probability that ABC+AB+A is divisible by 3*
 > Birthdays Today is the birthday of Peter and John; the sum of their ages is 91 years and John's age is twice the age that Peter had when John was the same age as Peter now has. How old is Giovanni?
 
 **Answer:** 0052
-[[src_kangourou_2019_junior_semifinale_a__Q12]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q12|src_kangourou_2019_junior_semifinale_a__Q12]]
 
 
 
@@ -488,7 +488,7 @@ The probability that ABC+AB+A is divisible by 3*
 > 99 points In space 99 distinct points are assigned so that there are no four planners. Some points are connected by segments so that each of the 99 points is reachable (through the traced segments) from each of the others (i.e. if there is a connected graph), but the traced segments do not form any triangle. What is the maximum number of segments traced (i.e. the number of arcs in the graph)?
 
 **Answer:** 2450
-[[src_kangourou_2019_junior_semifinale_a__Q13]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q13|src_kangourou_2019_junior_semifinale_a__Q13]]
 
 
 
@@ -521,7 +521,7 @@ The probability that ABC+AB+A is divisible by 3*
 > Back-balanced numbers Let's say a positive integer N of five digits is back-balanced if, say, A of six digits that you get by putting 2 before the digits of N and B of six digits that you get by putting 2 back at the digits of N, you have B = 3A. What is the sum of the digits of all the back-balanced numbers? (Write [0000] if there are no back-balanced numbers.)
 
 **Answer:** 0025
-[[src_kangourou_2019_junior_semifinale_a__Q14]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q14|src_kangourou_2019_junior_semifinale_a__Q14]]
 
 
 
@@ -572,4 +572,4 @@ The probability that ABC+AB+A is divisible by 3*
 > Questions and solutions
 
 **Answer:** 0046
-[[src_kangourou_2019_junior_semifinale_a__Q15]]
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q15|src_kangourou_2019_junior_semifinale_a__Q15]]

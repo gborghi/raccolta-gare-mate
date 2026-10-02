@@ -40,7 +40,7 @@ level: nazionale
 > The Merchant Foundation uses prism-shaped ZFC-class droids with two regular pentagons ABCDE and A′B′C′D′E′ as bases (so that the pins are AA′, BB′, CC′, DD′ and EE′). Ambassador Qui-Gob Binn is attacked for treason by a droid patrol during a diplomatic mission aboard a Foundation ship. In the collision, one of the droids is cut in two by Qui-Gob Binn's laser line along a passing plane for A, B and D′. Determine the volume of the droid knowing that the volume of the smaller of these two parts is equal to 1000.
 
 **Answer:** 2236
-[[src_cesenatico_2016_finale__Q01]]
+[[Quesiti/src_cesenatico_2016_finale#q01|src_cesenatico_2016_finale__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: nazionale
 > To celebrate the victory over the Merchant's Foundation, there's a big party on Naboole. The banquet tables are in the shape of rectangular triangles with sides of full length. In addition, each table has at least one square whose length is a prime number less than 20. Queen Atiyala insisted that there should be no two tables with congruent shapes (on Naboole putting two tables equal is like putting none). What is the sum of the areas of the tables at the banquet? Two triangles are considered congruent if they can overlap with each other through rotations, translations and symmetries.
 
 **Answer:** 3930
-[[src_cesenatico_2016_finale__Q02]]
+[[Quesiti/src_cesenatico_2016_finale#q02|src_cesenatico_2016_finale__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: nazionale
 > The missing planet within the ABCD trapezoid, the planet you will find. Master Yoneda, speaking by inversion, points to Obi-Van Kampenobi the location of the planet Rudino. The trapezoid is isosceles. Bases AB and CD 32 and 18, respectively, are long. At a point P such that PAD = PBA and PDA = PCD, the planet is located.  Obi-Van discovers from his friend TEX that the area of the ABP triangle is 192. How much is the product of PA and PC lengths?
 
 **Answer:** 0300
-[[src_cesenatico_2016_finale__Q03]]
+[[Quesiti/src_cesenatico_2016_finale#q03|src_cesenatico_2016_finale__Q03]]
 
 
 
@@ -142,7 +142,7 @@ Total clones for the first 100 months (block recurrence)
 > The army of clones Master Sisifo-Denis commissioned Rudino's clone workers to create an army of the Republic. During the ninth month, xn clones are produced. The first month is used to analyze Rango Fett's DNA, so x1 = 0. From the following month, production follows the following rules: x4n = x4n−1 +2n−1; x4n+1 = x4n +2n+1; x4n+2 = x4n+1 +2n; x4n+3 = x4n+2 +2n+2 (with integer n). How many clones were produced in the first 100 months?
 
 **Answer:** 4525
-[[src_cesenatico_2016_finale__Q04]]
+[[Quesiti/src_cesenatico_2016_finale#q04|src_cesenatico_2016_finale__Q04]]
 
 
 
@@ -178,7 +178,7 @@ Total clones for the first 100 months (block recurrence)
 > Young Banachin, a student of Obi-Van, must hone several skills to become a differential geometer; one of them is to perceive the values of certain polynomials using Force. To train his student, one day Obi-Van thinks of a polynomial p(x) of grade 5 and asks Banachin to determine p(128). The young PDE-wan is not yet skilled enough to discover it directly, but he can sense that p(2k) = 1 1−2k for k = 1, 2, . . . , 6. What's the answer to Obi-Van's question?
 
 **Answer:** 6513
-[[src_cesenatico_2016_finale__Q05]]
+[[Quesiti/src_cesenatico_2016_finale#q05|src_cesenatico_2016_finale__Q05]]
 
 
 
@@ -217,7 +217,7 @@ Total clones for the first 100 months (block recurrence)
 > 2/5 Team competition 2016  National final  Problems
 
 **Answer:** 0008
-[[src_cesenatico_2016_finale__Q06]]
+[[Quesiti/src_cesenatico_2016_finale#q06|src_cesenatico_2016_finale__Q06]]
 
 
 
@@ -250,7 +250,7 @@ Total clones for the first 100 months (block recurrence)
 > The Council's headquarters The Tower of the High Council, on the planet Coruscantor, is built on six levels. The bottom one is shaped like a straight prism whose base is a regular octagon on side 10, and whose height is its length 10. The subsequent levels are also in the form of straight prisms, the bases of which are (in order) hexagonal, hexagonal, pentagonal, square and triangular. Compared to the previous one, each level has double height and half the base sides. Furthermore, the axes of the different prisms coincide. What is the visible surface of the tower?
 
 **Answer:** 3782
-[[src_cesenatico_2016_finale__Q07]]
+[[Quesiti/src_cesenatico_2016_finale#q07|src_cesenatico_2016_finale__Q07]]
 
 
 
@@ -287,7 +287,7 @@ Total clones for the first 100 months (block recurrence)
 > [⋆]The separatist Su Mustafausdorff mine, a volcanic planet where each pair of dots is separated by two craters, has an extensive mineral extraction activity. The droids used for processing are divided into two teams, each of which has assigned a protocol code consisting of a positive integer. The first team's eighth droid is assigned the code a, with a1 = a2 = 1 and an+1 = an +an−1 for n ≥2. The second team's eighth droid is assigned the code bi, with b1 = 1 and bn+1 = an+1 +bn for n ≥1. Due to some malfunctions, quality control is carried out on the droids. The 1792nd droid of the first team is asked to add the protocol codes of the first 1789 droids of his team, add their own code, and subtract from the result the sum of the codes of the first 1789 droids of the second team. What are the first four digits of the number thus obtained?
 
 **Answer:** 1791
-[[src_cesenatico_2016_finale__Q08]]
+[[Quesiti/src_cesenatico_2016_finale#q08|src_cesenatico_2016_finale__Q08]]
 
 
 
@@ -323,7 +323,7 @@ Total clones for the first 100 months (block recurrence)
 > Help me out, Obi-Van! Help me, Obi-Van Kampenobi, you are my only hope: solve this problem of geometry! The four-dimensional cylindrical droid R2 ×D2 continues Princess Liea's request for help by transmitting the problem data: If ABC is a triangle, with BAC = 40° and ABC = 100°. Whether D is any point on the beam coming out of A. So X, Y, the projections of D on AB, AC, respectively. Then E, F are the intersection points (different from B, C) of the circumference circumscribed at ABD and the circumference circumscribed at ADC with the BC straight respectively. For example, if the projection of E on the AC and Z on the F on the AB, calculate the product of the lengths of the XZ and Y W segments, knowing that the DF segment measures 114.
 
 **Answer:** 3249
-[[src_cesenatico_2016_finale__Q09]]
+[[Quesiti/src_cesenatico_2016_finale#q09|src_cesenatico_2016_finale__Q09]]
 
 
 
@@ -356,7 +356,7 @@ Total clones for the first 100 months (block recurrence)
 > Princess Liea, before being imprisoned, saved in the memory of droid R2 ×D2 all the data on the Black Death in 2016 several files. The droid numbered them on base 2 from 1 to 2016 and encrypted them. The access key is the number of digits 1 that appear in total in the file numbering. What number does the Rebel Alliance have to enter to access Black Death data?
 
 **Answer:** 0998
-[[src_cesenatico_2016_finale__Q10]]
+[[Quesiti/src_cesenatico_2016_finale#q10|src_cesenatico_2016_finale__Q10]]
 
 
 
@@ -390,7 +390,7 @@ Total clones for the first 100 months (block recurrence)
 > Black geometry Smuggler Han Singleton hides in his ship, the Millennium Problem, laser compass boxes to use during the team competition. Each box is labeled with a multiple of 3. The pilot notes that for each of these numbers there is a base b, with 2 ≤b ≤100, using which the number turns out to have all the digits from 1 to b−1 in increasing order from left to right. An example is box number 27, because 27 is written 123 in base 4. How many boxes are there?
 
 **Answer:** 0033
-[[src_cesenatico_2016_finale__Q11]]
+[[Quesiti/src_cesenatico_2016_finale#q11|src_cesenatico_2016_finale__Q11]]
 
 
 
@@ -427,7 +427,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > To spend time on the Millennium Problem, Han Singleton and his co-pilot Chewbashev often play Dejenerik. One day the holographic chessboard 3×3 is left on in the middle of a game, in a configuration where there are exactly four pieces arranged on the four corner boxes. Each minute each of the four pieces jumps randomly onto one of the adjacent boxes (horizontal or vertical, not diagonal); all the destination boxes allowed for a piece have the same probability of being selected. After 2016, jumping pieces stop. Knowing that no pair of pieces have ever met on the same box, determine the probability that eventually the pieces will still occupy the four corners of the chessboard (possibly in a different order from the original one). The sum of the numerator and denominator of the fraction reduced to the minimum terms is given.
 
 **Answer:** 0010
-[[src_cesenatico_2016_finale__Q12]]
+[[Quesiti/src_cesenatico_2016_finale#q12|src_cesenatico_2016_finale__Q12]]
 
 
 
@@ -463,7 +463,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Third degree The fearsome Mond Vander is questioning Princess Liea to obtain the coordinates of the secret rebel base. Finally, the crucial information is omitted: the number of the sector in which the base is located is given by the sum of the numerator and denominator of the fraction q(−4/3)/q(−2) (reduced to the minimum terms). Fortunately, the polynomial q(x) is complicated to construct, and Imperial officials are still trying to figure it out. To obtain it, we must start from the polynomial p(x) = x3 −6x2 +4x+12, call a, b and c its real roots, and consider as a polynomial q(x) that of the third degree having as roots ab + a + b, bc + b + c, ca + c + a and such that q(2015) = 20162017. What's the number the Empire is looking for?
 
 **Answer:** 0082
-[[src_cesenatico_2016_finale__Q13]]
+[[Quesiti/src_cesenatico_2016_finale#q13|src_cesenatico_2016_finale__Q13]]
 
 
 
@@ -501,7 +501,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Team competition 2016  National final  Problems 3/5
 
 **Answer:** 1200
-[[src_cesenatico_2016_finale__Q14]]
+[[Quesiti/src_cesenatico_2016_finale#q14|src_cesenatico_2016_finale__Q14]]
 
 
 
@@ -535,7 +535,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > A LTE fighter squadron is made up of a number of spacecraft (greater than 1), which can be arranged in different formations. An n-agon formation consists of a ship surrounded by a number of concentric n-agons. The innermost n-agon is formed by n vessels, the second by 2n, the third by 3n, and so on up to the outermost one. The squadron of which Mond Vander is a member can be deployed in pentagonal and hexagonal formation without ships advancing in either case. How many starships is it made up of, at least?
 
 **Answer:** 0331
-[[src_cesenatico_2016_finale__Q15]]
+[[Quesiti/src_cesenatico_2016_finale#q15|src_cesenatico_2016_finale__Q15]]
 
 
 
@@ -570,7 +570,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Destroy the Black Death! Luke Randomwalker, aboard his fighter, must be able to destroy the Black Death. It shall hit a lens located in the centre of an ABC acute triangle consisting of 3 turrets such that BAC = 60° and BC = 2016 √ 3 m. Luke is located on the same plane as the towers and the target, at a distance of 2016 m from both B and C and on the opposite side of A with respect to BC. How far in meters is Luke from his target?
 
 **Answer:** 2016
-[[src_cesenatico_2016_finale__Q16]]
+[[Quesiti/src_cesenatico_2016_finale#q16|src_cesenatico_2016_finale__Q16]]
 
 
 
@@ -602,7 +602,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Han Singleton and Chewbashev must make the jump in space to sow imperial hunting to the pursuit. To do so safely, however, they must complete a final calculation, which consists of finding the value of the sum 11 +22 +33 +...+20162016. What is the last digit of that number?
 
 **Answer:** 0004
-[[src_cesenatico_2016_finale__Q17]]
+[[Quesiti/src_cesenatico_2016_finale#q17|src_cesenatico_2016_finale__Q17]]
 
 
 
@@ -637,7 +637,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > The Millennium Problem hunter Bobo Fett is chasing Han Singleton's ambitious ship, the Millennium Problem, for which the Empire has pledged a million Galactic Credits. On the on-board computer screen, the location of the vessels is indicated from an ABCD quadrilateral inscribed in a circumference. The Millennium Problem is at point E, intersection of the AB and CD extensions, while Bobo's ship is at point F, intersection of the BC and AD extensions. The computer records the distances of the two ships from the meeting point P of the angles AEC and AFC: PF = 1612 and PE = 1209. What's the distance between the two ships?
 
 **Answer:** 2015
-[[src_cesenatico_2016_finale__Q18]]
+[[Quesiti/src_cesenatico_2016_finale#q18|src_cesenatico_2016_finale__Q18]]
 
 
 
@@ -670,7 +670,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Hard to see, the properties of n are on the swampy Dagoldbach planet, Master Yoneda is training Luke Randomwalker. To sharpen his mind, Yoneda questions Luke about the properties of a certain positive integer n. The learner notes that for any number of five digits abcde multiple of n (a, b, c, d, and represent the digits of the number and a is different from zero), also eabcd, deabc, cdeab and bcdea are multiples of n. What is the sum of all the n < 1000 that have this condition?
 
 **Answer:** 1630
-[[src_cesenatico_2016_finale__Q19]]
+[[Quesiti/src_cesenatico_2016_finale#q19|src_cesenatico_2016_finale__Q19]]
 
 
 
@@ -708,7 +708,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Interplanetary random walk Luke Randomwalker is looking for a safe place to hide, and to do so, he travels unknown aboard merchant ships. The ships Luke has chosen follow routes connecting planets. Among them are: Coruscantor, where Luke is at the beginning; Banahch-Torsk, a tiny double planet where Luke stops immediately (if he passes by); Taodana, the seat of Maz Karamata's lair, where there are so many spies from the First Order that it is certain that someone recognizes him and kills him. From each planet (excluding Taodana and Banahch-Torsk) one-way routes start to exactly two other planets, and from at most one of these two there is a sequence of routes that allows you to return to the planet you just left. Each time he leaves a planet, Luke chooses at random between the two possible routes (with equal probability) and stops only if he arrives on Banahch-Torsk or is killed on Taodana. Knowing that the probability of arriving safely at Banahch-Torsk is 1/2016, what's the minimum value of n?
 
 **Answer:** 0013
-[[src_cesenatico_2016_finale__Q20]]
+[[Quesiti/src_cesenatico_2016_finale#q20|src_cesenatico_2016_finale__Q20]]
 
 
 
@@ -749,7 +749,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > A very widespread droid loner works like this. First, you have to choose a number n, and save the following numbers in memory (in order): 1, 1 2, 1 3, . . . , 1 n. Then proceed in this way, until only one number remains: the first two numbers a and b in the list are deleted, and the new number ab (a+1) (b+1)−1 is saved in memory at the bottom of the list. In a moment of leisure the droid BB-∞ makes a solo match, getting 1 229 as the final number. How much is the number n chosen initially?
 
 **Answer:** 0020
-[[src_cesenatico_2016_finale__Q21]]
+[[Quesiti/src_cesenatico_2016_finale#q21|src_cesenatico_2016_finale__Q21]]
 
 
 
@@ -792,7 +792,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > 4/5 Team competition 2016  National final  Problem texts
 
 **Answer:** 0042
-[[src_cesenatico_2016_finale__Q22]]
+[[Quesiti/src_cesenatico_2016_finale#q22|src_cesenatico_2016_finale__Q22]]
 
 
 
@@ -829,7 +829,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 > Looking for Luke The GeDi knight Luke Randomwalker has begun traveling randomly from planet to planet, leaving very little information about his path. Fortunately, the planets on which it moves are all on the same plane. The young Ramsrey wants to track him down to return his laser line, and she manages to discover that Luke is currently inside an ABCD box of area 3222180 with BAC = 30°. She also finds a way to narrow the field: she takes the axes relative to the sides of the rim and calls A′, B′, C′, D′ the two-to-two intersections of the axes relative to the consecutive side pairs. This way you get a smaller quadrilateral. Ramsrey keeps repeating the procedure until he gets full-area quadrilaterals. You know for a fact that Luke is within the confines of the smallest of these. How big is the area Ramsrey has to explore?
 
 **Answer:** 4420
-[[src_cesenatico_2016_finale__Q23]]
+[[Quesiti/src_cesenatico_2016_finale#q23|src_cesenatico_2016_finale__Q23]]
 
 
 
@@ -872,4 +872,4 @@ Manufacture in which all the materials of Chapter 87 used are wholly obtained
 > U XVII National Competition to National Final Teams  Solution  7 May 2016 Nr. The problem
 
 **Answer:** 0960
-[[src_cesenatico_2016_finale__Q24]]
+[[Quesiti/src_cesenatico_2016_finale#q24|src_cesenatico_2016_finale__Q24]]

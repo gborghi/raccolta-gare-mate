@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Su una lavagna sono scritti i numeri interi da $1$ a $100$, ognuno esattamente una volta. Ripettivamente eseguiamo la seguente operazione: scegliamo due integri $a, b$ scritti sulla lavagna, li cancelliamo e scriviamo il più grande divisore comune di $a^2 b^2 + 3$ e $a^2 + b^2 + 2$. Mostrate che quando rimane solo un intero sulla lavagna, quel intero non è un quadrato perfetto.
 
-[[src_jmo28mq_honsen__Q01]]
+[[Quesiti/src_jmo28mq_honsen#q01|src_jmo28mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JMO Honsen
 
 > Che $ABC$ sia un triangolo con $AB < AC$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali) e soddisfano $CA = CD$ e $BA = BE$. $\omega$ sia il circoncircolo del triangolo $ADE$, e $P$ sia il riflesso di $A$ attraverso la linea $BC$. Il $X$ è l'intersezione della linea $PD$ con $\omega$ diversa da $D$ e il $Y$ è l'intersezione della linea $PE$ con $\omega$ diversa da $E$. Indicare che le linee $BX$ e $CY$ si incontrano in un punto di $\omega$. (Qui $ST$ indica la lunghezza del segmento $ST$.)
 
-[[src_jmo28mq_honsen__Q02]]
+[[Quesiti/src_jmo28mq_honsen#q02|src_jmo28mq_honsen__Q02]]
 
 
 
@@ -89,7 +89,7 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 
 > Let $S = \{1, 2, \ldots, 999\}$. $f$ deve essere una funzione definita su $S$, assumendo valori in $S$, in modo tale che per ogni elemento $n \in S$, $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$ sia valido. Indicare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione a moltiplicazione di $k$ di $f$.)
 
-[[src_jmo28mq_honsen__Q03]]
+[[Quesiti/src_jmo28mq_honsen#q03|src_jmo28mq_honsen__Q03]]
 
 
 
@@ -121,7 +121,7 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 
 > Lasciate che $n$ sia un intero pari positivo. Considerate una griglia infinita di cellule che si estendono senza limite in tutte le direzioni. Mostrare che è impossibile scrivere uno dei numeri $1, 2, 3$ in ogni cella in modo che tutte le seguenti condizioni siano soddisfatte: \begin{enumerate} \item[(a)) Nessuna delle due celle che condividono un bordo contiene lo stesso numero. \item[(b) In nessun blocco di tre celle consecutive in una riga o colonna (cioè un blocco di celle $3 \times 1$ o $1 \times 3$) i numeri si leggono $1, 2, 3$ in ordine, che si legga dall'alto, dal basso, dalla sinistra o dalla destra. \item[(c) La somma dei numeri scritti in un blocco di celle $n \times n$ è la stessa indipendentemente dalla posizione del blocco. \end{enumere}
 
-[[src_jmo28mq_honsen__Q04]]
+[[Quesiti/src_jmo28mq_honsen#q04|src_jmo28mq_honsen__Q04]]
 
 
 
@@ -152,4 +152,4 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 
 > $T$ sia un numero intero positivo. Trovare tutte le funzioni $f$, definite su coppie ordinate di integri positivi e assumendo valori di integri positivi, insieme ad integri $C_0, C_1, \ldots, C_T$, soddisfacendo entrambe le seguenti caratteristiche: \begin{itemize} \item Per ogni integro positivo $n$, ci sono esattamente $n$ coppie ordinate $(k, l)$ di integri positivi con $f(k, l) = n$. \item Per ogni $t = 0, 1, \ldots, T$ e ogni coppia ordinata $(k, l)$ di integri positivi, $f(k + t,\, l + T - t) - f(k, l) = C_t$. # Finire #
 
-[[src_jmo28mq_honsen__Q05]]
+[[Quesiti/src_jmo28mq_honsen#q05|src_jmo28mq_honsen__Q05]]

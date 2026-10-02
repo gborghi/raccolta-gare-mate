@@ -19,7 +19,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Luca ha disegnato per terra tre figure geometriche: una rettangolare, una triangolare e una ovale. Ha preso poi il suo sacchettino di biglie colorate e ne ha messe 33 nelle sue figure, come nel disegno. Quante biglie si possono contare che appartengono a due qualsiasi delle tre figure, ma non a tutte e tre?
 
-![[src_bocconi_finalenaz_2008__Q01.png]]
+![[src_bocconi_finalenaz_2008__q01.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
@@ -36,10 +36,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Luke drew on the ground three geometric figures: a rectangle, a triangle, and an oval. He then took his little bag of colored beans and put 33 of them in his figures, as in the drawing. How many balls can you count that belong to any two of the three figures, but not all three?
 
-![[src_bocconi_finalenaz_2008__Q01.png]]
+![[src_bocconi_finalenaz_2008__q01.png]]
 
 **Answer:** 10 biglie
-[[src_bocconi_finalenaz_2008__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2008#q01|src_bocconi_finalenaz_2008__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Sergio, a music and computer enthusiast, enjoys creating musical rhythms with the computer and programs the following sounds: a "clac", which regularly starts every 2 seconds; a "spring", which regularly starts every 3 seconds; a "toc", which regularly starts every 4 seconds. Sergio, starting the program, immediately and simultaneously hears the three sounds (he has really good ears!). After how many seconds, will Sergio hear the three sounds exactly together again?
 
 **Answer:** 12 secondi
-[[src_bocconi_finalenaz_2008__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2008#q02|src_bocconi_finalenaz_2008__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Jacob, on vacation at sea, devotes himself to his favorite hobby: fishing. On the first day one fish; on the second day two fish; on the third day three fish. In the following days he caught 4 fish a day (one day on his vacation, when Jacob caught only 3 fish. The penultimate day, two, the last day, only one. During the entire vacation, Jacob caught a total of 52 fish. How many days did Jacob's sea vacation last?
 
 **Answer:** 14 giorni
-[[src_bocconi_finalenaz_2008__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2008#q03|src_bocconi_finalenaz_2008__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Sara ha trovato nel solaio del nonno una piramide di legno regolare a base quadrata, riprodotta nella figura di sinistra : chissà a cosa sarà servita? Appassionata di bricolage, decide di "decapitare"tutti i vertici della piramide intervenendo ogni volta a una distanza dal vertice pari a $1/3$ della lunghezza degli spigoli originali (come nella figura di destra). Quanti spigoli avrà l'ex-piramide del nonno quando Sara sarà intervenuta su tutti i suoi vertici ?
 
-![[src_bocconi_finalenaz_2008__Q04.png]]
+![[src_bocconi_finalenaz_2008__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -127,10 +127,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Sara found a square-shaped regular wooden pyramid in her grandfather's attic, reproduced in the figure on the left: who knows what it will be used for? Passionate about DIY, she decides to "decapitate" all the peaks of the pyramid by intervening each time at a distance from the peak equal to $1/3$ of the length of the original beads (as in the figure to the right). How many beads will Grandpa's ex-pyramid have when Sara intervenes on all of its peaks?
 
-![[src_bocconi_finalenaz_2008__Q04.png]]
+![[src_bocconi_finalenaz_2008__q04.png]]
 
 **Answer:** 24 spigoli
-[[src_bocconi_finalenaz_2008__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2008#q04|src_bocconi_finalenaz_2008__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Matteo and Rossella are both greedy and argue over the chocolates they have. Matteo counts his people. "If I had three times as many, I would have more than 31", he tells Rossella, "but if I had twice as many, I would have less than 31!" Then he takes a chocolate from Rossella and confesses: "Even now, if I had twice as much, I would always have less than 31!" At this point, it's Rossella getting four chocolates from Matteo - she likes them too much! - and then he says, "Don't complain! Even now, if you had three times as many chocolates as you have, you would have more than 31!" How many chocolates did Matteo have before this heated argument?
 
 **Answer:** 14 cioccolatini
-[[src_bocconi_finalenaz_2008__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2008#q05|src_bocconi_finalenaz_2008__Q05]]
 
 
 
@@ -188,7 +188,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > For Angelo's birthday, Rosi made a huge cake that divides into 20 equal slices. Angelo came first and took a fifth of the cake plus a slice. If David repents, he takes a fifth of the cake and a slice of it. Now it's up to Carla to take a slice first and then add a fifth of what's left. Milena takes a quarter of the cake left over and a slice. Finally, Arianna takes a fifth of the cake and a slice of it. How many slices of cake do you have left for Rosi?
 
 **Answer:** 3 fette
-[[src_bocconi_finalenaz_2008__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2008#q06|src_bocconi_finalenaz_2008__Q06]]
 
 
 
@@ -217,7 +217,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Piercarlo, Piergiorgio, Pierluca, Piermarco and Pierpaolo each have 60 cents of Euro in their wallet, made up of six coins. To their surprise, they realize that the cents in their wallets are all different. They take a moment to think and find that there is no other way to get 60 cents with six coins. At this point, they put all their coins together. How many five-cent coins do they have all over our pier? Note: the euro coins in use (below 1 euro) are 1, 2, 5, 10, 20 and 50 cents.
 
 **Answer:** 7 monete da 5 centesimi
-[[src_bocconi_finalenaz_2008__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2008#q07|src_bocconi_finalenaz_2008__Q07]]
 
 
 
@@ -245,7 +245,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Renato wrote a two-digit number. He then writes a 2 to the right of the second digit, thus getting a three-digit number. The new number is 335 more than the original (2 digits) number. What was the two-digit number?
 
 **Answer:** 37
-[[src_bocconi_finalenaz_2008__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2008#q08|src_bocconi_finalenaz_2008__Q08]]
 
 
 
@@ -258,7 +258,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In questa addizione per scrivere i tre addendi di tre cifre, si possono utilizzare le cifre da 1 a 9, prese ciascuna una sola volta (7 e 9 sono state già impiegate). In ogni colonna le cifre degli addendi sono sistemate, dall'alto verso il basso, dalla più piccola alla più grande. Completate l'addizione, scrivendo in particolare il primo addendo.
 
-![[src_bocconi_finalenaz_2008__Q09.png]]
+![[src_bocconi_finalenaz_2008__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -275,10 +275,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In this addition, to write the three three-digit additions, the digits 1 to 9 can be used, taken only once each (7 and 9 have already been used). In each column the digits of the addens are arranged from top to bottom, from smallest to largest. Complete the addition, writing the first addition in particular.
 
-![[src_bocconi_finalenaz_2008__Q09.png]]
+![[src_bocconi_finalenaz_2008__q09.png]]
 
 **Answer:** primo addendo 135
-[[src_bocconi_finalenaz_2008__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2008#q09|src_bocconi_finalenaz_2008__Q09]]
 
 
 
@@ -291,7 +291,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Gli acini di un grappolo d'uva (rappresentati in figura, nel piano, da piccoli cerchi) possono essere di tre qualità : A, B o C. Quando tre cerchi si toccano a due a due, formano un piccolo triangolo (vedi i due esempi tratteggiati in figura). In ognuno di questi triangoli, le tre qualità di acini possono essere o identiche o tutte diverse. Completate la figura scrivendo in particolare (nell'ordine, da sinistra a destra) le lettere degli acini della riga superiore.
 
-![[src_bocconi_finalenaz_2008__Q10.png]]
+![[src_bocconi_finalenaz_2008__q10.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -308,10 +308,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The grapes of a grape cluster (represented in the figure, in the plan, in small circles) can be of three qualities: A, B or C. When three circles touch two by two, they form a small triangle (see the two examples shown in the figure). In each of these triangles, the three qualities of acin can be either identical or all different. Complete the figure by writing in particular (in order, from left to right) the letters of the upper-line ears.
 
-![[src_bocconi_finalenaz_2008__Q10.png]]
+![[src_bocconi_finalenaz_2008__q10.png]]
 
 **Answer:** CBACB
-[[src_bocconi_finalenaz_2008__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2008#q10|src_bocconi_finalenaz_2008__Q10]]
 
 
 
@@ -340,7 +340,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > The "par" of a minigolf hole is the average number of shots a good player takes to get the ball into that hole. Math City's mini-golf has 18 holes: nine have a "pair" of 2 and nine a "pair" of 3. Desiderio has just finished the 18-hole course. For none, the number of shots he fired was equal to the hole pair. He still made as many shots as a good player would make: 45. Only for one hole, Desiderio managed to make a single shot. How many holes did Desiderio have to shoot three times ?
 
 **Answer:** 6, 7 o 8
-[[src_bocconi_finalenaz_2008__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2008#q11|src_bocconi_finalenaz_2008__Q11]]
 
 
 
@@ -369,7 +369,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Amerigo plays pool on a rectangular pool of 2.06 m by 3.06 m. His ball (which is 6 cm in diameter) is placed in the middle of one of the two long sides of the pool and Amerigo makes it roll, without effects, at an angle of $45^\circ$ with respect to the pool side. Assuming Amerigo has pulled hard enough, how far from the starting point will the center of the ball be at the time of the$59^\circ$ bounce? Give the answer in meters, rounding to centimeters. It's closer. In the final expression of the result, $1{,}414$ for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$ and $4{,}123$ for $\sqrt{17}$ shall be taken if necessary.
 
 **Answer:** $1{,}5\sqrt{2}$ m, circa 2,12 m
-[[src_bocconi_finalenaz_2008__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2008#q12|src_bocconi_finalenaz_2008__Q12]]
 
 
 
@@ -398,7 +398,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > We've reduced the width and increased the length of a rectangle by the same percentage. After this deformation, the area of the rectangle decreased by a percentage between 2% and 3%. What percentage of the original width and length have been changed ?
 
 **Answer:** 15%, 16% e 17%
-[[src_bocconi_finalenaz_2008__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2008#q13|src_bocconi_finalenaz_2008__Q13]]
 
 
 
@@ -427,7 +427,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Multiply an integer by 4. Then multiply the same integer by 5. So you're going to find that the results of the two multiples, collectively, use every digit from 1 to 9 once and only once. What 's the whole number you started from ?
 
 **Answer:** 2469
-[[src_bocconi_finalenaz_2008__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2008#q14|src_bocconi_finalenaz_2008__Q14]]
 
 
 
@@ -456,7 +456,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Trapezio is a truly original gardener, by name and deed, and he created a garden... in his own image and likeness. He planted five trees A, B, C, D and E so that: the lines (AB) and (DE) are parallel; the lines (AE) and (BD) intersect in C. The areas of the ABC and CDE triangles shall be 32 and 50 cm$^2$ respectively. What is the area of the ABED trapezoid in cm$^2$?
 
 **Answer:** 162 cm$^2$
-[[src_bocconi_finalenaz_2008__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2008#q15|src_bocconi_finalenaz_2008__Q15]]
 
 
 
@@ -484,7 +484,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 > Nando lives in a fantastic country, where mountains and valleys are named after musical notes! When driving from DO to SI, it goes down from DO to MI at 72 Km/h; goes from MI to SOL at 63 Km/h and goes up from SOL to SI at 56 Km/h. It'll take four hours. On the return, when it goes from SI to DO, Nando goes down from SI to SOL at 72 Km/h, goes from SOL to MI at 63 Km/h and goes up from MI to DO at 56 Km/h. All in all, it takes 4 hours and 40 minutes to get back. What is the road distance in kilometres between DO and SI?
 
 **Answer:** 273 km
-[[src_bocconi_finalenaz_2008__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2008#q16|src_bocconi_finalenaz_2008__Q16]]
 
 
 
@@ -497,7 +497,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 
 > Il disegno rappresenta uno schema di pavimentazione composto da sedici grandi quadrati. Ognuno dei quadrati grandi è a sua volta diviso in quattro quadratini colorati di bianco e di grigio. I quadrati grandi, orientati, sono tutti diversi. Nel disegno sono stati già inseriti cinque quadratini grigi. I quadratini a contatto in due quadrati grandi devono essere identici. Inoltre, l'ultima riga (in basso) deve essere identica alla prima (in alto) e la prima colonna di quadratini (a sinistra) deve essere identica all'ultima (a destra). Terminare la colorazione dello schema.
 
-![[src_bocconi_finalenaz_2008__Q17.png]]
+![[src_bocconi_finalenaz_2008__q17.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
@@ -513,9 +513,9 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 
 > The drawing is a floor plan composed of sixteen large squares. Each of the large squares is in turn divided into four white and gray colored squares. The large, oriented squares are all different. Five gray squares have already been inserted into the drawing. The contact squares in two large squares must be identical. In addition, the last line (below) must be identical to the first (top) and the first square column (left) must be identical to the last (right). Finish the pattern coloring.
 
-![[src_bocconi_finalenaz_2008__Q17.png]]
+![[src_bocconi_finalenaz_2008__q17.png]]
 
-[[src_bocconi_finalenaz_2008__Q17]]
+[[Quesiti/src_bocconi_finalenaz_2008#q17|src_bocconi_finalenaz_2008__Q17]]
 
 
 
@@ -528,7 +528,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 
 > La rete della metropolitana di Math City conta nove stazioni (rappresentate dai punti disegnati sul piano). Su ognuno dei nove tratti rettilinei che collegano tre stazioni, il rapporto tra la distanza maggiore e quella minore è sempre lo stesso. L'area del triangolo equilatero più piccolo è di 1 Km$^2$. Qual è in Km$^2$ (arrotondata al Km$^2$ più vicino) l'area del triangolo equilatero più grande ? Si prenderà, se necessario, $1{,}414$ per $\sqrt{2}$ ; $1{,}732$ per $\sqrt{3}$ ; $2{,}236$ per $\sqrt{5}$ ; $2{,}646$ per $\sqrt{7}$.
 
-![[src_bocconi_finalenaz_2008__Q18.png]]
+![[src_bocconi_finalenaz_2008__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
@@ -545,7 +545,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 
 > The Math City subway network has nine stations (represented by the points drawn on the plane). On each of the nine straight lines connecting three stations, the ratio of the greater to the lesser distance is always the same. The area of the smallest equilateral triangle is 1 Km$^2$. In Km$^2$ (rounded to the nearest Km$^2$) what is the largest area of the equilateral triangle? If necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$ is to be taken.
 
-![[src_bocconi_finalenaz_2008__Q18.png]]
+![[src_bocconi_finalenaz_2008__q18.png]]
 
 **Answer:** 47
-[[src_bocconi_finalenaz_2008__Q18]]
+[[Quesiti/src_bocconi_finalenaz_2008#q18|src_bocconi_finalenaz_2008__Q18]]

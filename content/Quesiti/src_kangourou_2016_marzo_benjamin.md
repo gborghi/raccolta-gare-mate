@@ -49,7 +49,7 @@ level: kangourou
 > E) One twelfth
 
 **Answer:** E
-[[src_kangourou_2016_marzo_benjamin__Q01]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q01|src_kangourou_2016_marzo_benjamin__Q01]]
 
 
 
@@ -89,7 +89,7 @@ level: kangourou
 > A 10 cm long thread is folded into equal parts as shown in the figure. If the wire is cut where indicated by the lines drawn, how many centimeters are the resulting three pieces of wire? A) 2, 3, 5 B) 2, 2, 6 C) 1, 4, 5 D) 1, 3, 6 E) 3, 3, 4
 
 **Answer:** A
-[[src_kangourou_2016_marzo_benjamin__Q02]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q02|src_kangourou_2016_marzo_benjamin__Q02]]
 
 
 
@@ -141,7 +141,7 @@ level: kangourou
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q03]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q03|src_kangourou_2016_marzo_benjamin__Q03]]
 
 
 
@@ -178,7 +178,7 @@ level: kangourou
 > Which of the following road signs has the most axes of symmetry? A) B) C)	              D) E)
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q04]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q04|src_kangourou_2016_marzo_benjamin__Q04]]
 
 
 
@@ -250,7 +250,7 @@ level: kangourou
 > E) 50
 
 **Answer:** E
-[[src_kangourou_2016_marzo_benjamin__Q05]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q05|src_kangourou_2016_marzo_benjamin__Q05]]
 
 
 
@@ -298,7 +298,7 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q06]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q06|src_kangourou_2016_marzo_benjamin__Q06]]
 
 
 
@@ -350,7 +350,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2016_marzo_benjamin__Q07]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q07|src_kangourou_2016_marzo_benjamin__Q07]]
 
 
 
@@ -401,7 +401,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q08]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q08|src_kangourou_2016_marzo_benjamin__Q08]]
 
 
 
@@ -453,7 +453,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 4
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q09]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q09|src_kangourou_2016_marzo_benjamin__Q09]]
 
 
 
@@ -501,7 +501,7 @@ This appropriation is intended to cover expenditure relating to:
 > (E) 33 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2016_marzo_benjamin__Q10]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q10|src_kangourou_2016_marzo_benjamin__Q10]]
 
 
 
@@ -540,7 +540,7 @@ This appropriation is intended to cover expenditure relating to:
 > Which of the figures you see in the answers cannot be obtained by partially overlapping these two identical squares of paper? A) B) C) D) E)
 
 **Answer:** A
-[[src_kangourou_2016_marzo_benjamin__Q11]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q11|src_kangourou_2016_marzo_benjamin__Q11]]
 
 
 
@@ -590,7 +590,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q12]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q12|src_kangourou_2016_marzo_benjamin__Q12]]
 
 
 
@@ -643,7 +643,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) E
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q13]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q13|src_kangourou_2016_marzo_benjamin__Q13]]
 
 
 
@@ -689,7 +689,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q14]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q14|src_kangourou_2016_marzo_benjamin__Q14]]
 
 
 
@@ -725,7 +725,7 @@ This appropriation is intended to cover expenditure relating to:
 > A strip of paper has the number 2581953764. Gianni cuts the strip into two dots, getting three numbers, then adds those three numbers. What's the least amount you can get? A) 2675 B) 2975 C) 2978 D) 4217 E) 4298
 
 **Answer:** B
-[[src_kangourou_2016_marzo_benjamin__Q15]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q15|src_kangourou_2016_marzo_benjamin__Q15]]
 
 
 
@@ -763,7 +763,7 @@ This appropriation is intended to cover expenditure relating to:
 > Fulvio's from the hairdresser. Looking in the mirror you see the clock with the hands in this position. What position would you have been if you'd looked in the mirror 10 minutes ago? A) B) C) D) E)
 
 **Answer:** E
-[[src_kangourou_2016_marzo_benjamin__Q16]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q16|src_kangourou_2016_marzo_benjamin__Q16]]
 
 
 
@@ -811,7 +811,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 4
 
 **Answer:** A
-[[src_kangourou_2016_marzo_benjamin__Q17]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q17|src_kangourou_2016_marzo_benjamin__Q17]]
 
 
 
@@ -861,7 +861,7 @@ The following information shall be provided for the purposes of this Regulation:
 >
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q18]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q18|src_kangourou_2016_marzo_benjamin__Q18]]
 
 
 
@@ -909,7 +909,7 @@ This is the main reason why we have to make a decision.
 > E) 12
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q19]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q19|src_kangourou_2016_marzo_benjamin__Q19]]
 
 
 
@@ -963,7 +963,7 @@ This is the main reason why we have to make a decision.
 > E) It is impossible to establish. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2016_marzo_benjamin__Q20]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q20|src_kangourou_2016_marzo_benjamin__Q20]]
 
 
 
@@ -1008,7 +1008,7 @@ This is the main reason why we have to make a decision.
 > E)
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q21]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q21|src_kangourou_2016_marzo_benjamin__Q21]]
 
 
 
@@ -1056,7 +1056,7 @@ This is the main reason why we have to make a decision.
 > E) 8
 
 **Answer:** B
-[[src_kangourou_2016_marzo_benjamin__Q22]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q22|src_kangourou_2016_marzo_benjamin__Q22]]
 
 
 
@@ -1134,7 +1134,7 @@ This is the main reason why we have to make a decision.
 >
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q23]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q23|src_kangourou_2016_marzo_benjamin__Q23]]
 
 
 
@@ -1182,7 +1182,7 @@ This is the main reason why we have to make a decision.
 > E) 16
 
 **Answer:** B
-[[src_kangourou_2016_marzo_benjamin__Q24]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q24|src_kangourou_2016_marzo_benjamin__Q24]]
 
 
 
@@ -1235,7 +1235,7 @@ This is the main reason why we have to make a decision.
 > E) 18
 
 **Answer:** B
-[[src_kangourou_2016_marzo_benjamin__Q25]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q25|src_kangourou_2016_marzo_benjamin__Q25]]
 
 
 
@@ -1280,7 +1280,7 @@ This is the main reason why we have to make a decision.
 > C) D) E)
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q26]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q26|src_kangourou_2016_marzo_benjamin__Q26]]
 
 
 
@@ -1334,7 +1334,7 @@ This is the main reason why we have to make a decision.
 > E) 15
 
 **Answer:** D
-[[src_kangourou_2016_marzo_benjamin__Q27]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q27|src_kangourou_2016_marzo_benjamin__Q27]]
 
 
 
@@ -1383,7 +1383,7 @@ The following table shows the number of samples of the samples:
 >
 
 **Answer:** E
-[[src_kangourou_2016_marzo_benjamin__Q28]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q28|src_kangourou_2016_marzo_benjamin__Q28]]
 
 
 
@@ -1431,7 +1431,7 @@ The following table shows the number of samples of the samples:
 > E) 108
 
 **Answer:** C
-[[src_kangourou_2016_marzo_benjamin__Q29]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q29|src_kangourou_2016_marzo_benjamin__Q29]]
 
 
 
@@ -1479,4 +1479,4 @@ This is the total value of the own funds of the institution.
 > A category X X X X B
 
 **Answer:** E
-[[src_kangourou_2016_marzo_benjamin__Q30]]
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q30|src_kangourou_2016_marzo_benjamin__Q30]]

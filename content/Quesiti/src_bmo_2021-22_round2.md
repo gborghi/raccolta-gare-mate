@@ -45,7 +45,7 @@ level: BMO Round 2
 > 
 > Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
 
-[[src_bmo_2021-22_round2__Q01]]
+[[Quesiti/src_bmo_2021-22_round2#q01|src_bmo_2021-22_round2__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: BMO Round 2
 
 > Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y\, f(f(y) + x) = f(x+1)\, f(2y).$$
 
-[[src_bmo_2021-22_round2__Q02]]
+[[Quesiti/src_bmo_2021-22_round2#q02|src_bmo_2021-22_round2__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: BMO Round 2
 
 > Le carte provenienti da mazzi di carte identiche $s$ vengono messe in scatole. Ogni mazzo contiene 50 schede, etichettate da $1$ a $50$. Ogni scatola può contenere al massimo carte $2022$. Una pila di scatole è chiamata *regular* se quella pila contiene uguali numeri di carte con ogni etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
 
-[[src_bmo_2021-22_round2__Q03]]
+[[Quesiti/src_bmo_2021-22_round2#q03|src_bmo_2021-22_round2__Q03]]
 
 
 
@@ -135,4 +135,4 @@ level: BMO Round 2
 > 
 > Prova che $Q$ si trova su $BC$ e prova che la riga $AT$ passa attraverso $Q$.
 
-[[src_bmo_2021-22_round2__Q04]]
+[[Quesiti/src_bmo_2021-22_round2#q04|src_bmo_2021-22_round2__Q04]]

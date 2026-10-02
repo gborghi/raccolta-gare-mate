@@ -47,7 +47,7 @@ level: biennio
 > - **(E)** 9.
 
 **Answer:** C
-[[src_archimede_2010_biennio__Q01]]
+[[Quesiti/src_archimede_2010_biennio#q01|src_archimede_2010_biennio__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: biennio
 > - **(E)** 21.
 
 **Answer:** B
-[[src_archimede_2010_biennio__Q02]]
+[[Quesiti/src_archimede_2010_biennio#q02|src_archimede_2010_biennio__Q02]]
 
 
 
@@ -143,7 +143,7 @@ level: biennio
 > - **(E)** 200 √ 3 m.
 
 **Answer:** C
-[[src_archimede_2010_biennio__Q03]]
+[[Quesiti/src_archimede_2010_biennio#q03|src_archimede_2010_biennio__Q03]]
 
 
 
@@ -184,7 +184,7 @@ level: biennio
 > - **(E)** √ 5 + √ 3 < √ 10 < 2 √ 2.
 
 **Answer:** A
-[[src_archimede_2010_biennio__Q04]]
+[[Quesiti/src_archimede_2010_biennio#q04|src_archimede_2010_biennio__Q04]]
 
 
 
@@ -235,7 +235,7 @@ level: biennio
 > - **(E)** This arrangement is impossible: the last petal necessarily overlaps with the first.
 
 **Answer:** D
-[[src_archimede_2010_biennio__Q05]]
+[[Quesiti/src_archimede_2010_biennio#q05|src_archimede_2010_biennio__Q05]]
 
 
 
@@ -278,7 +278,7 @@ level: biennio
 > - **(E)** a + b + c ≥0.
 
 **Answer:** E
-[[src_archimede_2010_biennio__Q06]]
+[[Quesiti/src_archimede_2010_biennio#q06|src_archimede_2010_biennio__Q06]]
 
 
 
@@ -325,7 +325,7 @@ level: biennio
 > - **(E)** 6.
 
 **Answer:** E
-[[src_archimede_2010_biennio__Q07]]
+[[Quesiti/src_archimede_2010_biennio#q07|src_archimede_2010_biennio__Q07]]
 
 
 
@@ -370,7 +370,7 @@ level: biennio
 > - **(E)** It's impossible to determine.
 
 **Answer:** C
-[[src_archimede_2010_biennio__Q08]]
+[[Quesiti/src_archimede_2010_biennio#q08|src_archimede_2010_biennio__Q08]]
 
 
 
@@ -412,7 +412,7 @@ level: biennio
 > - **(E)** 1005.
 
 **Answer:** A
-[[src_archimede_2010_biennio__Q09]]
+[[Quesiti/src_archimede_2010_biennio#q09|src_archimede_2010_biennio__Q09]]
 
 
 
@@ -460,7 +460,7 @@ level: biennio
 > - **(E)** 60%.
 
 **Answer:** D
-[[src_archimede_2010_biennio__Q10]]
+[[Quesiti/src_archimede_2010_biennio#q10|src_archimede_2010_biennio__Q10]]
 
 
 
@@ -503,7 +503,7 @@ level: biennio
 > - **(E)** (2 + 3 √ 3) cm.
 
 **Answer:** C
-[[src_archimede_2010_biennio__Q11]]
+[[Quesiti/src_archimede_2010_biennio#q11|src_archimede_2010_biennio__Q11]]
 
 
 
@@ -544,7 +544,7 @@ This is the total amount of the sum of the sums of the following sums:
 > - **(E)** 1505.
 
 **Answer:** C
-[[src_archimede_2010_biennio__Q12]]
+[[Quesiti/src_archimede_2010_biennio#q12|src_archimede_2010_biennio__Q12]]
 
 
 
@@ -586,7 +586,7 @@ This is the total amount of the sum of the sums of the following sums:
 > - **(E)** 7253.
 
 **Answer:** D
-[[src_archimede_2010_biennio__Q13]]
+[[Quesiti/src_archimede_2010_biennio#q13|src_archimede_2010_biennio__Q13]]
 
 
 
@@ -674,7 +674,7 @@ This is the total amount of the sum of the sums of the following sums:
 > - **(E)** √ 3 4 cm2.
 
 **Answer:** B
-[[src_archimede_2010_biennio__Q14]]
+[[Quesiti/src_archimede_2010_biennio#q14|src_archimede_2010_biennio__Q14]]
 
 
 
@@ -714,7 +714,7 @@ The number of digits 112233445566778899 divided by 11*
 > - **(E)** 23.
 
 **Answer:** C
-[[src_archimede_2010_biennio__Q15]]
+[[Quesiti/src_archimede_2010_biennio#q15|src_archimede_2010_biennio__Q15]]
 
 
 
@@ -756,7 +756,7 @@ The number of digits 112233445566778899 divided by 11*
 > - **(E)** 900.
 
 **Answer:** B
-[[src_archimede_2010_biennio__Q16]]
+[[Quesiti/src_archimede_2010_biennio#q16|src_archimede_2010_biennio__Q16]]
 
 
 
@@ -804,7 +804,7 @@ The number of digits 112233445566778899 divided by 11*
 > - **(E)** 4 √ 3 3 m2.
 
 **Answer:** A
-[[src_archimede_2010_biennio__Q17]]
+[[Quesiti/src_archimede_2010_biennio#q17|src_archimede_2010_biennio__Q17]]
 
 
 
@@ -848,7 +848,7 @@ Guilty among five suspects with statements
 > - **(E)** I'm going to go.
 
 **Answer:** A
-[[src_archimede_2010_biennio__Q18]]
+[[Quesiti/src_archimede_2010_biennio#q18|src_archimede_2010_biennio__Q18]]
 
 
 
@@ -890,7 +890,7 @@ Guilty among five suspects with statements
 > - **(E)** More than four.
 
 **Answer:** E
-[[src_archimede_2010_biennio__Q19]]
+[[Quesiti/src_archimede_2010_biennio#q19|src_archimede_2010_biennio__Q19]]
 
 
 
@@ -932,4 +932,4 @@ Guilty among five suspects with statements
 > - **(E)** 10 √ 3 cm. I'm not going to say anything about it. Italian Mathematical Union Ministry of Public Instruction Higher Normal School The Games of Archimedes - Triennial Competition 17 November 2010
 
 **Answer:** B
-[[src_archimede_2010_biennio__Q20]]
+[[Quesiti/src_archimede_2010_biennio#q20|src_archimede_2010_biennio__Q20]]

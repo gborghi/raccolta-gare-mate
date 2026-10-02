@@ -19,7 +19,7 @@ level: RMO
 
 > Let $BE$ and $CF$ be the altitudes of an acute triangle $ABC$, with $E$ on $AC$ and $F$ on $AB$. Let $O$ be the point of intersection of $BE$ and $CF$. Take any line $KL$ through $O$ with $K$ on $AB$ and $L$ on $AC$. Suppose $M$ and $N$ are located on $BE$ and $CF$ respectively such that $KM$ is perpendicular to $BE$ and $LN$ is perpendicular to $CF$. Prove that $FM$ is parallel to $EN$.
 
-![[src_rmo_2001__Q01.png]]
+![[src_rmo_2001__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: RMO
 
 > $BE$ e $CF$ siano le altitudini di un triangolo acuto $ABC$, con $E$ su $AC$ e $F$ su $AB$. Il punto di intersezione di $BE$ e $CF$ è $O$. Prendi qualsiasi riga $KL$ passando da $O$ con $K$ su $AB$ e $L$ su $AC$. Supponiamo che $M$ e $N$ siano situate rispettivamente su $BE$ e $CF$ in modo tale che $KM$ sia perpendicolare a $BE$ e $LN$ sia perpendicolare a $CF$. Provare che $FM$ è parallelo a $EN$.
 
-![[src_rmo_2001__Q01.png]]
+![[src_rmo_2001__q01.png]]
 
-[[src_rmo_2001__Q01]]
+[[Quesiti/src_rmo_2001#q01|src_rmo_2001__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Trova tutti i numeri primi $p, q$ in modo tale che $p^2 + 7pq + q^2$ sia il quadrato di un intero.
 
-[[src_rmo_2001__Q02]]
+[[Quesiti/src_rmo_2001#q02|src_rmo_2001__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: RMO
 > 
 > (Qui $\lfloor z \rfloor$ indica, per qualsiasi $z$ reale, il più grande numero intero non superiore a $z$; ad esempio\ $\lfloor 7/6 \rfloor = 1$.)
 
-[[src_rmo_2001__Q03]]
+[[Quesiti/src_rmo_2001#q03|src_rmo_2001__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: RMO
 
 > Considera un array di numeri $n \times n$: $$\begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & & & \vdots \\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{pmatrix}$$ Supponiamo che ciascuno dei numeri $n$ $1, 2, \ldots, n$ si verifichi in un certo ordine, e $a_{ij} = a_{ji}$ per $i = 1, 2, \ldots, n$ e $j = 1, 2, \ldots, n$. Se $n$ è impar, dimostrare che i numeri $a_{11}, a_{22}, \ldots, a_{nn}$ sono $1, 2, 3, \ldots, n$ in un certo ordine.
 
-[[src_rmo_2001__Q04]]
+[[Quesiti/src_rmo_2001#q04|src_rmo_2001__Q04]]
 
 
 
@@ -137,7 +137,7 @@ level: RMO
 
 > In a triangle $ABC$, let $D$ be a point on $BC$ such that $AD$ is the internal bisector of $\angle A$. Suppose $\angle B = 2\angle C$ and $CD = AB$. Prove that $\angle A = 72^\circ$.
 
-![[src_rmo_2001__Q05.png]]
+![[src_rmo_2001__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -153,9 +153,9 @@ level: RMO
 
 > In un triangolo $ABC$, $D$ deve essere un punto su $BC$ tale che $AD$ sia il bisettore interno di $\angle A$. Supponiamo $\angle B = 2\angle C$ e $CD = AB$. Dimostra che $\angle A = 72^\circ$.
 
-![[src_rmo_2001__Q05.png]]
+![[src_rmo_2001__q05.png]]
 
-[[src_rmo_2001__Q05]]
+[[Quesiti/src_rmo_2001#q05|src_rmo_2001__Q05]]
 
 
 
@@ -183,7 +183,7 @@ level: RMO
 
 > Se $x, y, z$ sono i lati di un triangolo, dimostrare che $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
 
-[[src_rmo_2001__Q06]]
+[[Quesiti/src_rmo_2001#q06|src_rmo_2001__Q06]]
 
 
 
@@ -210,4 +210,4 @@ level: RMO
 
 > Prove che il prodotto dei primi $200$ pari interi positivi differisce dal prodotto dei primi $200$ integri unici positivi per un multiple di $401$.
 
-[[src_rmo_2001__Q07]]
+[[Quesiti/src_rmo_2001#q07|src_rmo_2001__Q07]]

@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Un intero positivo $n$ è chiamato *buono* se esiste un insieme di divisori di $n$ i cui membri sommano a $n$ e includono 1. Prove che ogni intero positivo ha un multiple che è buono.
 
-[[src_bmo2_2021__Q01]]
+[[Quesiti/src_bmo2_2021#q01|src_bmo2_2021__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Eliza ha una grande collezione di piastrelle $a \times a$ e $b \times b$ in cui $a$ e $b$ sono integri positivi. Lei organizza alcune di queste piastrelle, senza sovrapposizioni, per formare un quadrato di lunghezza laterale $n$. Provare che può coprire un altro quadrato di lunghezza laterale $n$ utilizzando solo uno dei suoi due tipi di piastrelle.
 
-[[src_bmo2_2021__Q02]]
+[[Quesiti/src_bmo2_2021#q02|src_bmo2_2021__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 2
 > 
 > Prove che $AI$ e $KD$ si incontrano su $\Gamma$.
 
-[[src_bmo2_2021__Q03]]
+[[Quesiti/src_bmo2_2021#q03|src_bmo2_2021__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 
 > Matteo scrive una sequenza $a_1, a_2, a_3, \ldots$ di numeri interi positivi. Ogni $a_n$ è il numero intero positivo più piccolo, diverso da tutti i termini precedenti della sequenza, in modo tale che la media dei termini $a_1, a_2, \ldots, a_n$ è un numero intero. Provare che la sequenza definita da $a_i - i$ per $i = 1, 2, 3, \ldots$ contiene ogni numero intero esattamente una volta.
 
-[[src_bmo2_2021__Q04]]
+[[Quesiti/src_bmo2_2021#q04|src_bmo2_2021__Q04]]

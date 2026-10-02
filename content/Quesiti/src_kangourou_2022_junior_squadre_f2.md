@@ -40,7 +40,7 @@ The probability of a match with a dice, num+den
 > With the dice Alice and Bice each have a traditional dice and play the following game. Everyone throws their own dice. If they get the same number, Alice wins; if they get different numbers, Alice throws her dice again: if now the two numbers coincide, Bice wins, if instead they are still different, the match ends in a draw. Express the probability that the match will end in a draw in the form of a fraction reduced to the minimum deadlines. What is the sum of the numerator and denominator of this fraction?
 
 **Answer:** 0061
-[[src_kangourou_2022_junior_squadre_f2__Q01]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q01|src_kangourou_2022_junior_squadre_f2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ The probability of a match with a dice, num+den
 > Equal factors How many divisors (positive integers) of the number 2022 are equal numbers?
 
 **Answer:** 1012
-[[src_kangourou_2022_junior_squadre_f2__Q02]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q02|src_kangourou_2022_junior_squadre_f2__Q02]]
 
 
 
@@ -106,7 +106,7 @@ The probability of a match with a dice, num+den
 > On the sides of the triangle shown in the figure are highlighted some points (vertical included). On each side, two adjacent points are 5 cm apart. How many square centimetres is the area of the shaded axis?
 
 **Answer:** 0120
-[[src_kangourou_2022_junior_squadre_f2__Q03]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q03|src_kangourou_2022_junior_squadre_f2__Q03]]
 
 
 
@@ -139,7 +139,7 @@ The probability of a match with a dice, num+den
 > Sara distributes 150 candies in 10 bags. Each bag (starting with the second) contains more candy than the previous one. Eventually, Sara realizes that the number of candy she put in the tenth bag is not more than double the number of candy she put in the first. How many candy did you put in the sixth bag? If the answer is not unambiguous, write 0000.
 
 **Answer:** 0016
-[[src_kangourou_2022_junior_squadre_f2__Q04]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q04|src_kangourou_2022_junior_squadre_f2__Q04]]
 
 
 
@@ -171,7 +171,7 @@ The probability of a match with a dice, num+den
 > 2023 Additional Consider the following sum 8 + 98 + 998 + 9.998 + ... + 9.999. ... .998 where the 2023 additions are obtained by pressing the digit 8 respectively 0, 1, 2, 3, ..., 2022 digits 9. How many digits of 1 appear in the result?
 
 **Answer:** 2019
-[[src_kangourou_2022_junior_squadre_f2__Q05]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q05|src_kangourou_2022_junior_squadre_f2__Q05]]
 
 
 
@@ -202,7 +202,7 @@ The probability of a match with a dice, num+den
 > The sum of the digits Assigned a positive integer n, we denote with s(n) the sum of its digits. How many digits has the smallest positive integer k such that s(s(s(k))) = 10?
 
 **Answer:** 0023
-[[src_kangourou_2022_junior_squadre_f2__Q06]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q06|src_kangourou_2022_junior_squadre_f2__Q06]]
 
 
 
@@ -242,7 +242,7 @@ The probability of a match with a dice, num+den
 > 2
 
 **Answer:** 0037
-[[src_kangourou_2022_junior_squadre_f2__Q07]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q07|src_kangourou_2022_junior_squadre_f2__Q07]]
 
 
 
@@ -281,7 +281,7 @@ The probability of a match with a dice, num+den
 > In the game of chess the king can move on the chessboard only one box at a time, horizontally, vertically or in one of the two diagonal directions. The King wants to go from b6 to e4 without ever going back (so, with reference to the figure, moving horizontally from left to right, vertically from top to bottom, diagonally from left to right from top to bottom). How many different ways can you do that?
 
 **Answer:** 0025
-[[src_kangourou_2022_junior_squadre_f2__Q08]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q08|src_kangourou_2022_junior_squadre_f2__Q08]]
 
 
 
@@ -314,7 +314,7 @@ The probability of a match with a dice, num+den
 > Embassies On a distant planet there are exactly 30 nations, rather contentious among themselves: in fact, there are no three nations that have diplomatic relations with each other (each with each of the other two). If A is related to B, then B is also related to A and in A there is an embassy of B and in B there is an embassy of A. How many embassies could there be on that planet?
 
 **Answer:** 0450
-[[src_kangourou_2022_junior_squadre_f2__Q09]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q09|src_kangourou_2022_junior_squadre_f2__Q09]]
 
 
 
@@ -344,7 +344,7 @@ The probability of a match with a dice, num+den
 > What are the last three digits (hundreds, tens, units) of the number 79999?
 
 **Answer:** 0143
-[[src_kangourou_2022_junior_squadre_f2__Q10]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q10|src_kangourou_2022_junior_squadre_f2__Q10]]
 
 
 
@@ -375,7 +375,7 @@ The probability of a match with a dice, num+den
 > Parallelpipeds Four non-planar points are assigned in space so that the maximum number of parallelpipeds, all different from each other, are at the summits of these four points. What's this number?
 
 **Answer:** 0029
-[[src_kangourou_2022_junior_squadre_f2__Q11]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q11|src_kangourou_2022_junior_squadre_f2__Q11]]
 
 
 
@@ -408,7 +408,7 @@ The probability of a match with a dice, num+den
 > Divisions by 7 Imagine that, dividing by 7 a positive integer, you get the remaining 1. If the quotient of this first division is not divisible by 7, imagine that the rest of the division by 7 of this quotient is still 1 and so on until, after a finite number of steps, the quotient is divisible by 7. What's the smallest positive four-digit integer you could have started from?
 
 **Answer:** 1030
-[[src_kangourou_2022_junior_squadre_f2__Q12]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q12|src_kangourou_2022_junior_squadre_f2__Q12]]
 
 
 
@@ -440,7 +440,7 @@ The probability of a match with a dice, num+den
 > Seven points on a circumference are marked and named seven distinct points. How many different ways can segments be plotted, each of which has two of these points for extremes, so that each of the seven points is an extreme of exactly two segments?
 
 **Answer:** 0465
-[[src_kangourou_2022_junior_squadre_f2__Q13]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q13|src_kangourou_2022_junior_squadre_f2__Q13]]
 
 
 
@@ -476,7 +476,7 @@ The probability of a match with a dice, num+den
 > In the square in the figure you see a square divided into four triangles. The grey one has an area of 432√5  720 cm2 and the three white triangles are equivalent to each other. How many centimeters is the side of the square?
 
 **Answer:** 0024
-[[src_kangourou_2022_junior_squadre_f2__Q14]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q14|src_kangourou_2022_junior_squadre_f2__Q14]]
 
 
 
@@ -585,4 +585,4 @@ The probability of a match with a dice, num+den
 > Questions and solutions
 
 **Answer:** 0017
-[[src_kangourou_2022_junior_squadre_f2__Q15]]
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q15|src_kangourou_2022_junior_squadre_f2__Q15]]

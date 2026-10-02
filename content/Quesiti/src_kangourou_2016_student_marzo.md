@@ -53,7 +53,7 @@ level: kangourou
 > E) 14
 
 **Answer:** D
-[[src_kangourou_2016_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2016_student_marzo#q01|src_kangourou_2016_student_marzo__Q01]]
 
 
 
@@ -86,7 +86,7 @@ The value of the sum shall be the sum of the following:
 > The sum + + is A) B) C) D) E)
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2016_student_marzo#q02|src_kangourou_2016_student_marzo__Q02]]
 
 
 
@@ -126,7 +126,7 @@ The value of the sum shall be the sum of the following:
 > Two friends want to build a bridge, as short as possible, over a stream and they realize that no matter how they choose a point on their shore from which to start the bridge, the length of the bridge remains the same. Which of the following cannot represent their stream? A) B) C) D) E)
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2016_student_marzo#q03|src_kangourou_2016_student_marzo__Q03]]
 
 
 
@@ -167,7 +167,7 @@ This appropriation is intended to cover expenditure relating to:
 > C) 2015 D) 2016 E) 2017
 
 **Answer:** A
-[[src_kangourou_2016_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2016_student_marzo#q04|src_kangourou_2016_student_marzo__Q04]]
 
 
 
@@ -235,7 +235,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** A
-[[src_kangourou_2016_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2016_student_marzo#q05|src_kangourou_2016_student_marzo__Q05]]
 
 
 
@@ -283,7 +283,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2016_student_marzo#q06|src_kangourou_2016_student_marzo__Q06]]
 
 
 
@@ -336,7 +336,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 8
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2016_student_marzo#q07|src_kangourou_2016_student_marzo__Q07]]
 
 
 
@@ -379,7 +379,7 @@ This appropriation is intended to cover expenditure relating to:
 > B) 3/2 C) 4/3 D) 7/4 E) 8/5
 
 **Answer:** E
-[[src_kangourou_2016_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2016_student_marzo#q08|src_kangourou_2016_student_marzo__Q08]]
 
 
 
@@ -425,7 +425,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 4
 
 **Answer:** E
-[[src_kangourou_2016_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2016_student_marzo#q09|src_kangourou_2016_student_marzo__Q09]]
 
 
 
@@ -477,7 +477,7 @@ This appropriation is intended to cover expenditure relating to:
 > (e) 10 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2016_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2016_student_marzo#q10|src_kangourou_2016_student_marzo__Q10]]
 
 
 
@@ -532,7 +532,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** D
-[[src_kangourou_2016_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2016_student_marzo#q11|src_kangourou_2016_student_marzo__Q11]]
 
 
 
@@ -614,7 +614,7 @@ This appropriation is intended to cover expenditure relating to:
 > D) 105 E) 220
 
 **Answer:** D
-[[src_kangourou_2016_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2016_student_marzo#q12|src_kangourou_2016_student_marzo__Q12]]
 
 
 
@@ -655,7 +655,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 2
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2016_student_marzo#q13|src_kangourou_2016_student_marzo__Q13]]
 
 
 
@@ -693,7 +693,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2016_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2016_student_marzo#q14|src_kangourou_2016_student_marzo__Q14]]
 
 
 
@@ -741,7 +741,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 0
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2016_student_marzo#q15|src_kangourou_2016_student_marzo__Q15]]
 
 
 
@@ -790,7 +790,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) The information is not sufficient to answer.
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2016_student_marzo#q16|src_kangourou_2016_student_marzo__Q16]]
 
 
 
@@ -826,7 +826,7 @@ This appropriation is intended to cover expenditure relating to:
 > The two equations x2 + ax + b = 0 and x2 + bx + a = 0 have both real roots. We know that the sum of the squares of the roots of the first equation is equal to the sum of the squares of the roots of the second and that a ≠ b. The value of a + b A) is 0. B) è  −2. C) è  4. D) è  −4. E) cannot be determined.
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2016_student_marzo#q17|src_kangourou_2016_student_marzo__Q17]]
 
 
 
@@ -901,7 +901,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2016_student_marzo#q18|src_kangourou_2016_student_marzo__Q18]]
 
 
 
@@ -949,7 +949,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 0 o 1 o 2.
 
 **Answer:** A
-[[src_kangourou_2016_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2016_student_marzo#q19|src_kangourou_2016_student_marzo__Q19]]
 
 
 
@@ -991,7 +991,7 @@ This appropriation is intended to cover expenditure relating to:
 > James scored 5 points A, B, C, D and E on a circumference and plotted the right tangent to the circumference in A, choosing the points so that all five angles marked in the figure with x are equal. What is the angle of ABD ? (a) 66° B) 70° 30 C) 72° D) 75° E) 77° 30 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2016_student_marzo#q20|src_kangourou_2016_student_marzo__Q20]]
 
 
 
@@ -1037,7 +1037,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) Infinite.
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2016_student_marzo#q21|src_kangourou_2016_student_marzo__Q21]]
 
 
 
@@ -1072,7 +1072,7 @@ This appropriation is intended to cover expenditure relating to:
 > A circle is inscribed in a quadrilateral (i.e. the four sides of the quadrilateral are tangent to its circumference). The ratio of the perimeter of the quadrilateral to the length of the circumference is 4: 3. What is the relationship between the area of the quadrilateral and that of the circle? A) 4 : π B) 3√2 : π C) 16 : 9 D) π : 3 E) 4 : 3
 
 **Answer:** E
-[[src_kangourou_2016_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2016_student_marzo#q22|src_kangourou_2016_student_marzo__Q22]]
 
 
 
@@ -1154,7 +1154,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 27
 
 **Answer:** D
-[[src_kangourou_2016_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2016_student_marzo#q23|src_kangourou_2016_student_marzo__Q23]]
 
 
 
@@ -1201,7 +1201,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** E
-[[src_kangourou_2016_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2016_student_marzo#q24|src_kangourou_2016_student_marzo__Q24]]
 
 
 
@@ -1236,7 +1236,7 @@ This appropriation is intended to cover expenditure relating to:
 > Using one and only one time all the digits from 1 to 9 were written three numbers of three digits each. Which of the following numbers cannot be the sum of the three numbers? A) 1500 B) 1503 C) 1512 D) 1521 E) 1575
 
 **Answer:** A
-[[src_kangourou_2016_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2016_student_marzo#q25|src_kangourou_2016_student_marzo__Q25]]
 
 
 
@@ -1283,7 +1283,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 12
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2016_student_marzo#q26|src_kangourou_2016_student_marzo__Q26]]
 
 
 
@@ -1332,7 +1332,7 @@ This appropriation is intended to cover expenditure relating to:
 > C) 62,5 D)100 E)125
 
 **Answer:** B
-[[src_kangourou_2016_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2016_student_marzo#q27|src_kangourou_2016_student_marzo__Q27]]
 
 
 
@@ -1368,7 +1368,7 @@ This appropriation is intended to cover expenditure relating to:
 > Anna chose a positive integer n and wrote the sum of all positive integers from 1 to n. A certain prime number p divides that sum, but does not divide any of the addends. Which of the following values can be n + p ? A) 217 B) 221 C) 229 D) 245 E) 269
 
 **Answer:** A
-[[src_kangourou_2016_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2016_student_marzo#q28|src_kangourou_2016_student_marzo__Q28]]
 
 
 
@@ -1491,7 +1491,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** A
-[[src_kangourou_2016_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2016_student_marzo#q29|src_kangourou_2016_student_marzo__Q29]]
 
 
 
@@ -1548,4 +1548,4 @@ This appropriation is intended to cover expenditure relating to:
 > A category
 
 **Answer:** C
-[[src_kangourou_2016_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2016_student_marzo#q30|src_kangourou_2016_student_marzo__Q30]]

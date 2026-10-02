@@ -43,7 +43,7 @@ level: Gara a Squadre
 > Write down all the possible numerical solutions for the word MILANO.
 
 **Answer:** 410256, 615384, 923076
-[[src_bocconi_squadre_2014__Q01]]
+[[Quesiti/src_bocconi_squadre_2014#q01|src_bocconi_squadre_2014__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Gara a Squadre
 > A number of two digits equal to each other is multiplied by $99$. What will be the result of multiplication, knowing that it is a four-digit number and that its third digit (from left) is $5$?
 
 **Answer:** 4356
-[[src_bocconi_squadre_2014__Q02]]
+[[Quesiti/src_bocconi_squadre_2014#q02|src_bocconi_squadre_2014__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: Gara a Squadre
 > How many matches, $5$ cm long, is the minimum required to cover a square floor ($1\text{ m} \times 1\text{ m}$) with a square lattice of $5$ cm on the side?
 
 **Answer:** 840
-[[src_bocconi_squadre_2014__Q03]]
+[[Quesiti/src_bocconi_squadre_2014#q03|src_bocconi_squadre_2014__Q03]]
 
 
 
@@ -132,7 +132,7 @@ The square root of the number 444...44111...11 - 555...55*
 > Calculate the square root of the number: $$\underbrace{444\,\ldots\,44}_{\text{2006 volte la cifra }4}\underbrace{111\,\ldots\,11}_{\text{2006 volte la cifra }1} - \underbrace{555\,\ldots\,55}_{\text{2006 volte la cifra }5}$$ (the first addition is $4$ repeated $2006$ times followed by the number $1$ repeated also $2006$ times; the second addition is $5$ repeated $2006$ times).
 
 **Answer:** $\underbrace{666\,\ldots\,6}_{2006\text{ volte la cifra }6}$ (2006 volte la cifra 6)
-[[src_bocconi_squadre_2014__Q04]]
+[[Quesiti/src_bocconi_squadre_2014#q04|src_bocconi_squadre_2014__Q04]]
 
 
 
@@ -145,7 +145,7 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Inscrivete in un cerchio che ha il diametro di $2$ cm un rettangolo qualsiasi e considerate i punti medi dei suoi lati. Qual è la lunghezza del segmento che congiunge due di questi punti medi consecutivi?
 
-![[src_bocconi_squadre_2014__Q05.png]]
+![[src_bocconi_squadre_2014__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -162,10 +162,10 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Write any rectangle into a circle with a diameter of $2$ cm and consider the midpoints of its sides. What is the length of the segment connecting two of these consecutive mean points?
 
-![[src_bocconi_squadre_2014__Q05.png]]
+![[src_bocconi_squadre_2014__q05.png]]
 
 **Answer:** $1$ cm
-[[src_bocconi_squadre_2014__Q05]]
+[[Quesiti/src_bocconi_squadre_2014#q05|src_bocconi_squadre_2014__Q05]]
 
 
 
@@ -178,7 +178,7 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Considerate un triangolo qualsiasi e, esternamente ad esso, i tre quadrati costruiti a partire dai suoi tre lati. Congiungete (in figura sono i segmenti tratteggiati) i vertici «liberi» di questi quadrati, ottenete tre nuovi triangoli. Scrivete il numero che dà il rapporto tra l'area di uno dei nuovi triangoli (quello di destra, ad esempio) e l'area del triangolo iniziale.
 
-![[src_bocconi_squadre_2014__Q06.png]]
+![[src_bocconi_squadre_2014__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -195,10 +195,10 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Consider any triangle and, externally to it, the three squares constructed from its three sides. Combine the vertices liberi of these squares, and you get three new triangles. Write the number that gives the ratio of the area of one of the new triangles (the one on the right, for example) to the area of the original triangle.
 
-![[src_bocconi_squadre_2014__Q06.png]]
+![[src_bocconi_squadre_2014__q06.png]]
 
 **Answer:** 1
-[[src_bocconi_squadre_2014__Q06]]
+[[Quesiti/src_bocconi_squadre_2014#q06|src_bocconi_squadre_2014__Q06]]
 
 
 
@@ -227,7 +227,7 @@ The square root of the number 444...44111...11 - 555...55*
 > Write all the $(x, y)$ pairs of integers that satisfy the $(x - y)^2 + 2y^2 \le 27$ equality.
 
 **Answer:** $(-6,-1)$, $(+6,+1)$, $(-4,+1)$, $(+4,-1)$, $(0,-3)$, $(0,+3)$, $(-6,-3)$, $(+6,+3)$
-[[src_bocconi_squadre_2014__Q07]]
+[[Quesiti/src_bocconi_squadre_2014#q07|src_bocconi_squadre_2014__Q07]]
 
 
 
@@ -256,7 +256,7 @@ The square root of the number 444...44111...11 - 555...55*
 > A floor of a square room of $23$ dm on the side is entirely covered by square tiles which may be $1$ dm on the side, or $2$ dm on the side, or $3$ dm on the side. How many $1$ dm tiles on the side will be needed to cover the entire floor?
 
 **Answer:** 1 piastrella
-[[src_bocconi_squadre_2014__Q08]]
+[[Quesiti/src_bocconi_squadre_2014#q08|src_bocconi_squadre_2014__Q08]]
 
 
 
@@ -286,7 +286,7 @@ The square root of the number 444...44111...11 - 555...55*
 > Find all the real solutions to the system consisting of the following three equations: $$(x + y)^3 = z, \quad (y + z)^3 = x, \quad (z + x)^3 = y$$
 
 **Answer:** $x = y = z = 0$ oppure $x = y = z = \pm\dfrac{\sqrt{2}}{4}$
-[[src_bocconi_squadre_2014__Q09]]
+[[Quesiti/src_bocconi_squadre_2014#q09|src_bocconi_squadre_2014__Q09]]
 
 
 
@@ -315,7 +315,7 @@ The square root of the number 444...44111...11 - 555...55*
 > Form a set by taking some of all the integers between $1$ and $99$. Each of these numbers must be considered only once, and the set you have formed must be such that it is impossible to consider any subset whose sum of elements is $100$. How many cards can your set contain?
 
 **Answer:** 50
-[[src_bocconi_squadre_2014__Q10]]
+[[Quesiti/src_bocconi_squadre_2014#q10|src_bocconi_squadre_2014__Q10]]
 
 
 
@@ -344,7 +344,7 @@ The square root of the number 444...44111...11 - 555...55*
 > In Nando's shop, after the Easter holidays, five chocolate eggs have come in. They are of two different types: some are empty and therefore lighter; others, when filled, are heavier. Nando referred to them as $A$, $B$, $C$, $D$, $E$. The eggs $A$ and $E$ together weigh $252$ g; the eggs $A$, $B$ and $C$ together weigh $420$ g; the eggs $B$, $C$, $D$ and $E$ together weigh $567$ g. What is the weight of each of the five eggs?
 
 **Answer:** $A = 126$ g; $B = 147$ g; $C = 147$ g; $D = 147$ g; $E = 126$ g
-[[src_bocconi_squadre_2014__Q11]]
+[[Quesiti/src_bocconi_squadre_2014#q11|src_bocconi_squadre_2014__Q11]]
 
 
 
@@ -374,7 +374,7 @@ The square root of the number 444...44111...11 - 555...55*
 > Find the greatest (real) value that can be assigned to $z$ so that the following system, consisting of two equations, admits real solutions: $$x + y + z = 10, \quad xy + yz + zx = 12$$
 
 **Answer:** $\dfrac{26}{3}$
-[[src_bocconi_squadre_2014__Q12]]
+[[Quesiti/src_bocconi_squadre_2014#q12|src_bocconi_squadre_2014__Q12]]
 
 
 
@@ -387,7 +387,7 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Prendete come unità di misura il lato della quadrettatura interna al quadrato grande e scrivete l'area della parte comune (in grigio nella figura) al triangolo e al quadrato interno al triangolo grande.
 
-![[src_bocconi_squadre_2014__Q13.png]]
+![[src_bocconi_squadre_2014__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -404,10 +404,10 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Take as a unit of measurement the side of the inner square to the large square and write the area of the common part (in gray in the figure) to the triangle and the inner square to the large triangle.
 
-![[src_bocconi_squadre_2014__Q13.png]]
+![[src_bocconi_squadre_2014__q13.png]]
 
 **Answer:** $\dfrac{11}{12}$
-[[src_bocconi_squadre_2014__Q13]]
+[[Quesiti/src_bocconi_squadre_2014#q13|src_bocconi_squadre_2014__Q13]]
 
 
 
@@ -420,7 +420,7 @@ The square root of the number 444...44111...11 - 555...55*
 
 > In figura vedete due rettangoli, parzialmente sovrapposti, che hanno le stesse dimensioni e un vertice in comune. Tenendo conto delle informazioni riportate in figura ($8$ cm, $2$ cm, e due segmenti indicati come uguali), calcolate l'area della parte più scura.
 
-![[src_bocconi_squadre_2014__Q14.png]]
+![[src_bocconi_squadre_2014__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -437,10 +437,10 @@ The square root of the number 444...44111...11 - 555...55*
 
 > In the figure, you see two rectangles, partially overlapping, that have the same size and a common vertex. Taking into account the information in the figure ($8$ cm, $2$ cm, and two segments indicated as equal), calculate the area of the darker part.
 
-![[src_bocconi_squadre_2014__Q14.png]]
+![[src_bocconi_squadre_2014__q14.png]]
 
 **Answer:** $70$ (in unità quadrate secondo la scala della figura)
-[[src_bocconi_squadre_2014__Q14]]
+[[Quesiti/src_bocconi_squadre_2014#q14|src_bocconi_squadre_2014__Q14]]
 
 
 
@@ -469,7 +469,7 @@ The square root of the number 444...44111...11 - 555...55*
 > In Clara's room, there are three trays containing the same number of chocolates. Carla takes one out of one of the three trays and puts it back in one of the other two. Milena, in turn, takes two chocolates from one of the three trays and (resisting the temptation to eat them) puts them back in one of the other two. It's Jacopo's turn. He takes four chocolates from one of the three trays and puts them back in one of the other two. At this point, one of the three trays contains twice the number of chocolates in a second tray and three times the number of chocolates in a third tray. How many chocolates did each tray initially contain?
 
 **Answer:** 11
-[[src_bocconi_squadre_2014__Q15]]
+[[Quesiti/src_bocconi_squadre_2014#q15|src_bocconi_squadre_2014__Q15]]
 
 
 
@@ -498,7 +498,7 @@ The square root of the number 444...44111...11 - 555...55*
 > A parallel-piped box may be filled completely with cubes of $1$ cm on the side. If the largest number of cubes of $4$ cm $^3$ volume (the sides of the cubes parallel to the sides of the box) are placed in the box, the maximum $40\%$ of the box is filled. Find the minimum volume of the box that meets all of the above conditions.
 
 **Answer:** 30
-[[src_bocconi_squadre_2014__Q16]]
+[[Quesiti/src_bocconi_squadre_2014#q16|src_bocconi_squadre_2014__Q16]]
 
 
 
@@ -511,7 +511,7 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Numerate le sette regioni della figura con i numeri interi da $1$ a $7$ (il $3$, a dire il vero, è già stato inserito) in modo tale che due regioni che «si toccano» non abbiano due cifre consecutive. Quale cifra va in $A$?
 
-![[src_bocconi_squadre_2014__Q17.png]]
+![[src_bocconi_squadre_2014__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
@@ -528,10 +528,10 @@ The square root of the number 444...44111...11 - 555...55*
 
 > Count the seven regions in the figure with the integers from $1$ to $7$ (the $3$, in fact, has already been entered) so that two regions that  touch each other do not have two consecutive digits. What number is in $A$?
 
-![[src_bocconi_squadre_2014__Q17.png]]
+![[src_bocconi_squadre_2014__q17.png]]
 
 **Answer:** 1
-[[src_bocconi_squadre_2014__Q17]]
+[[Quesiti/src_bocconi_squadre_2014#q17|src_bocconi_squadre_2014__Q17]]
 
 
 
@@ -560,7 +560,7 @@ The square root of the number 444...44111...11 - 555...55*
 > Dürer's magic square, contained in his famous Melancholia, has a peculiarity: the sum of two symmetrical numbers relative to the center of the square is always equal to half the magic sum (i.e. $17$). Find another magic square, with the numbers$15$and$14$written in this order in the middle of the fourth line, which has the same property.
 
 **Answer:** Quadrato magico: prima riga $[13,3,2,16]$, seconda riga $[8,10,11,5]$, terza riga $[12,6,7,9]$, quarta riga $[1,15,14,4]$ (e varianti per simmetria)
-[[src_bocconi_squadre_2014__Q18]]
+[[Quesiti/src_bocconi_squadre_2014#q18|src_bocconi_squadre_2014__Q18]]
 
 
 
@@ -589,7 +589,7 @@ The square root of the number 444...44111...11 - 555...55*
 > What is the smallest number of comparisons, two to two, with a two-plate balance, needed to find the two heaviest objects among the $128$ assigned, all of different weight?
 
 **Answer:** 133
-[[src_bocconi_squadre_2014__Q19]]
+[[Quesiti/src_bocconi_squadre_2014#q19|src_bocconi_squadre_2014__Q19]]
 
 
 
@@ -618,4 +618,4 @@ Maximum number of regions in which 10 lines divide the plan
 > A straight divides the plan into two regions. How many regions, at most, do$10$ lines divide a plan?
 
 **Answer:** 56
-[[src_bocconi_squadre_2014__Q20]]
+[[Quesiti/src_bocconi_squadre_2014#q20|src_bocconi_squadre_2014__Q20]]

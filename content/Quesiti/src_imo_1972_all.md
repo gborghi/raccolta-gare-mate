@@ -32,7 +32,7 @@ level: IMO
 
 > Prove that from a set of ten distinct two-digit numbers (in the decimal system), it is possible to select two disjoint subsets whose members have the same sum.
 
-[[src_imo_1972_all__Q01]]
+[[Quesiti/src_imo_1972_all#q01|src_imo_1972_all__Q01]]
 
 
 
@@ -58,7 +58,7 @@ level: IMO
 
 > Prove that if $n \geq 4$, every quadrilateral that can be inscribed in a circle can be dissected into $n$ quadrilaterals each of which is inscribable in a circle.
 
-[[src_imo_1972_all__Q02]]
+[[Quesiti/src_imo_1972_all#q02|src_imo_1972_all__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: IMO
 > 
 > is an integer. ($0! = 1$.)
 
-[[src_imo_1972_all__Q03]]
+[[Quesiti/src_imo_1972_all#q03|src_imo_1972_all__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: IMO
 > 
 > where $x_1, x_2, x_3, x_4, x_5$ are positive real numbers.
 
-[[src_imo_1972_all__Q04]]
+[[Quesiti/src_imo_1972_all#q04|src_imo_1972_all__Q04]]
 
 
 
@@ -165,7 +165,7 @@ So, what does this mean?
 > 
 > for all $x, y$. Prove that if $f(x)$ is not identically zero, and if $|f(x)| \leq 1$ for all $x$, then $|g(y)| \leq 1$ for all $y$.
 
-[[src_imo_1972_all__Q05]]
+[[Quesiti/src_imo_1972_all#q05|src_imo_1972_all__Q05]]
 
 
 
@@ -192,4 +192,4 @@ So, what does this mean?
 
 > Given four distinct parallel planes, prove that there exists a regular tetrahedron with a vertex on each plane.
 
-[[src_imo_1972_all__Q06]]
+[[Quesiti/src_imo_1972_all#q06|src_imo_1972_all__Q06]]

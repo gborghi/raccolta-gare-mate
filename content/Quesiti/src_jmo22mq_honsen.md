@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Lasciate che $ABC$ sia un triangolo. La linea tangente al circoncircolo di $\triangle ABC$ al vertice $A$ incontra la linea $BC$ al punto $P$. I piedi $Q$ e $R$ siano i piedi delle perpendicolari da $P$ alle linee $AB$ e $AC$, rispettivamente. Mostra che la riga $BC$ è perpendicolare alla riga $QR$.
 
-[[src_jmo22mq_honsen__Q01]]
+[[Quesiti/src_jmo22mq_honsen#q01|src_jmo22mq_honsen__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: JMO Honsen
 
 > Trovare tutte le funzioni $f$ definite su $\mathbb{R}$ e prendere valori reali in modo tale che $$f(f(x+y)f(x-y)) = x^2 - yf(y)$$ tenga per tutti i numeri reali $x, y$.
 
-[[src_jmo22mq_honsen__Q02]]
+[[Quesiti/src_jmo22mq_honsen#q02|src_jmo22mq_honsen__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: JMO Honsen
 > 
 > **Condition:** For every integer $x$, if $p$ divides $x^n - 1$ then $p^2$ also divides $x^n - 1$.
 
-[[src_jmo22mq_honsen__Q03]]
+[[Quesiti/src_jmo22mq_honsen#q03|src_jmo22mq_honsen__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: JMO Honsen
 
 > Nel piano, $PAB$ e $PCD$ siano triangoli con $PA = PB$ e $PC = PD$. Supponiamo che $P$, $A$, $C$ siano collineari (in tale ordine) e $B$, $P$, $D$ siano collineari (in tale ordine). $S_1$ sia il circoncircolo di $\triangle PAC$ (passando per $A$ e $C$) e $S_2$ sia il circoncircolo di $\triangle BPD$ (passando per $B$ e $D$), e supponiamo che $S_1$ e $S_2$ si incontrino in due punti distinti $X$ e $Y$. Il $Z$ deve essere il punto medio dell'arco di $S_1$ che non contiene l'altra intersezione, e il $W$ deve essere il punto medio dell'arco di $S_2$ che non contiene l'altra intersezione (cioè $Z$ e $W$ sono i punti medio di archi $XY$ su $S_1$ e $S_2$ rispettivamente, sui lati che non contengono $P$). Qui $ZW$ indica la lunghezza del segmento $ZW$. Mostra che il triangolo $PXY$ ha il suo circoncircolo centrato nel punto medio di $ZW$.
 
-[[src_jmo22mq_honsen__Q04]]
+[[Quesiti/src_jmo22mq_honsen#q04|src_jmo22mq_honsen__Q04]]
 
 
 
@@ -158,4 +158,4 @@ level: JMO Honsen
 > 
 > Se $B$ non è in grado di spostare il pezzo (tutti i punti della rete vicini raggiungibili da $B$ sono stampati o $B$ non ha mossa valida), allora $A$ vince. Trova tutti gli enti positivi $k$ per i quali $A$ può garantire una vittoria in un numero finito di giri.
 
-[[src_jmo22mq_honsen__Q05]]
+[[Quesiti/src_jmo22mq_honsen#q05|src_jmo22mq_honsen__Q05]]

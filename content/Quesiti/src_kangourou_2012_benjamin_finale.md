@@ -34,7 +34,7 @@ level: kangourou
 > In one photograph, four clocks appear: one marks 4:45, another 5:05, another at 5:25, and the last at 5:40. We know that when the photo was taken, two of them were still, while the other two were marking at the right speed, but one was 20 minutes ahead and the other was 20 minutes behind. What time was the photo taken?
 
 **Answer:** 5:05
-[[src_kangourou_2012_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb1|src_kangourou_2012_benjamin_finale__QB1]]
 
 
 
@@ -62,7 +62,7 @@ level: kangourou
 > Elena has 20 buds, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green; 5 are red; 12 are not blue. How many brown balls are there?
 
 **Answer:** 4
-[[src_kangourou_2012_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb2|src_kangourou_2012_benjamin_finale__QB2]]
 
 
 
@@ -91,7 +91,7 @@ level: kangourou
 > If all odd integers between $1$ and $2012$ are multiplied by each other, what number does the product end with?
 
 **Answer:** 5
-[[src_kangourou_2012_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb3|src_kangourou_2012_benjamin_finale__QB3]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 
 *Minimo numero di triangoli per ritagliare il canguro*
 
-![[src_kangourou_2012_benjamin_finale__probB4.png]]
+![[src_kangourou_2012_benjamin_finale__probb4.png]]
 
 > La figura, tracciata su un foglio a quadretti, rappresenta un canguro. Vuoi ritagliarla in modo da ottenere soltanto triangoli. Qual è il minimo numero di triangoli che puoi ottenere? (vedi figura)
 
@@ -118,12 +118,12 @@ level: kangourou
 
 *Minimum number of triangles to cut the kangaroo*
 
-![[src_kangourou_2012_benjamin_finale__probB4.png]]
+![[src_kangourou_2012_benjamin_finale__probb4.png]]
 
 > The figure, drawn on a square sheet, represents a kangaroo. You want to cut it so that you only get triangles. What's the minimum number of triangles you can get? (see figure)
 
 **Answer:** 6
-[[src_kangourou_2012_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb4|src_kangourou_2012_benjamin_finale__QB4]]
 
 
 
@@ -134,7 +134,7 @@ level: kangourou
 
 *Si puo ottenere somma 2012 sulle facce esposte dei dadi*
 
-![[src_kangourou_2012_benjamin_finale__probB5.png]]
+![[src_kangourou_2012_benjamin_finale__probb5.png]]
 
 > Pietro vuole mettere in fila un certo numero di dadi tradizionali (la somma dei punti su facce opposte è sempre 7), come ti mostra la figura. Incolla due facce insieme solo se il numero di punti sulle due facce è uguale, e vuole ottenere una fila in modo che la somma dei punti su tutte le facce esposte sia $2012$. Può riuscirci e, in caso affermativo, quanti dadi deve usare? (vedi figura)
 
@@ -151,12 +151,12 @@ level: kangourou
 
 *You can get sum 2012 on the exposed faces of the dice*
 
-![[src_kangourou_2012_benjamin_finale__probB5.png]]
+![[src_kangourou_2012_benjamin_finale__probb5.png]]
 
 > Peter wants to line up a number of traditional dice (the sum of the dots on opposite faces is always 7), as the figure shows you. It joins two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
 
 **Answer:** no
-[[src_kangourou_2012_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb5|src_kangourou_2012_benjamin_finale__QB5]]
 
 
 
@@ -184,4 +184,4 @@ level: kangourou
 > Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a button with keys from 0 to 99: by pressing a button the elevator reaches the floor corresponding to the number shown on the key, but it is occupied, whatever the floor, for the time it takes to travel 99 floors. Considering that Maurizio can see from the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
 
 **Answer:** 6
-[[src_kangourou_2012_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb6|src_kangourou_2012_benjamin_finale__QB6]]

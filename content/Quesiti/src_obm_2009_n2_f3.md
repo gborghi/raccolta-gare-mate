@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Diciamo che un intero positivo $n$ è *abestado* ("bestia") se leggendo i suoi numeri da destra a sinistra dà un numero maggiore di $n$. Ad esempio, $2009$ è abestado perché $9002 > 2009$; d'altra parte, $2010$ non è abestado perché la lettura $2010$ da destra a sinistra dà $0102$, che equivale a $102$, che è inferiore a $2010$; e $3443$ non è abestado perché la lettura da destra a sinistra dà $3443$, che è esattamente uguale all'originale. Quanti numeri interi positivi con esattamente quattro cifre sono abestado?
 
-[[src_obm_2009_n2_f3__Q01]]
+[[Quesiti/src_obm_2009_n2_f3#q01|src_obm_2009_n2_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 2
 
 > Si deve $ABCD$ essere un parallelo e $\Gamma$ il cerchio circonscritto del triangolo $ABD$. $E$ e $F$ siano rispettivamente le intersezioni di $\Gamma$ con le linee $BC$ e $CD$. Prove che il centro circoncentrale del triangolo $CEF$ si trova su $\Gamma$.
 
-[[src_obm_2009_n2_f3__Q02]]
+[[Quesiti/src_obm_2009_n2_f3#q02|src_obm_2009_n2_f3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 2
 > 
 > *Nota: * Ogni mossa di un cavaliere di scacchi consiste di due quadrati nella direzione verticale o orizzontale seguiti da un quadrato nella direzione perpendicolare.
 
-[[src_obm_2009_n2_f3__Q03]]
+[[Quesiti/src_obm_2009_n2_f3#q03|src_obm_2009_n2_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 2
 > $a$, $b$ e $c$ siano numeri reali come $a \ne b$ e $a^2(b+c) = b^2(c+a) = 2010$. Calcolare $c^2(a+b)$.
 
 **Risposta:** 2010
-[[src_obm_2009_n2_f3__Q04]]
+[[Quesiti/src_obm_2009_n2_f3#q04|src_obm_2009_n2_f3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 2
 
 > Le diagonali di un quadrilaterale ciclico $ABCD$ si incontrano a $O$. I cerchi circoscritti dei triangoli $AOB$ e $COD$ intersecano per la seconda volta le linee $BC$ e $AD$ ai punti $M$, $N$, $P$ e $Q$, rispettivamente. Prove che il quadrilaterale $MNPQ$ è inserito in un cerchio con il centro $O$.
 
-[[src_obm_2009_n2_f3__Q05]]
+[[Quesiti/src_obm_2009_n2_f3#q05|src_obm_2009_n2_f3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: OBM Nível 2
 > I tre lati e l'area di un triangolo sono tutti numeri interi. Qual è il valore minimo possibile dell'area di un triangolo?
 
 **Risposta:** 6
-[[src_obm_2009_n2_f3__Q06]]
+[[Quesiti/src_obm_2009_n2_f3#q06|src_obm_2009_n2_f3__Q06]]

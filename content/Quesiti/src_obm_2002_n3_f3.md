@@ -45,7 +45,7 @@ level: OBM Nível 3
 > 
 > **Obs:** Una potenza perfetta è un numero della forma $a^b$, dove $a$ e $b$ sono interi positivi e $b \ge 2$.
 
-[[src_obm_2002_n3_f3__Q01]]
+[[Quesiti/src_obm_2002_n3_f3#q01|src_obm_2002_n3_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 3
 
 > Il $ABCD$ è un quadrilaterale convex inserito in un cerchio, e il $M$ è un punto laterale $CD$, in modo che il triangolo $ADM$ e il quadrilaterale $ABCM$ abbiano la stessa superficie e lo stesso perimetro. Prove che $ABCD$ ha due lati uguali.
 
-[[src_obm_2002_n3_f3__Q02]]
+[[Quesiti/src_obm_2002_n3_f3#q02|src_obm_2002_n3_f3__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 3
 
 > Numeriamo le cellule di una scheda quadrillare di $m \times n$, dove $m, n \ge 2$, con i numeri interi $1, 2, 3, \ldots, mn$ in modo tale che, per ogni $t \le mn - 1$, le cellule $t$ e $t+1$ abbiano almeno un lato in comune. Indicare che esiste una $i \le mn - 3$ tale che le celle $i$ e $i + 3$ abbiano almeno un lato in comune.
 
-[[src_obm_2002_n3_f3__Q03]]
+[[Quesiti/src_obm_2002_n3_f3#q03|src_obm_2002_n3_f3__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: OBM Nível 3
 
 > Il diametro di un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$ viene definito come la differenza tra il suo elemento più grande e il suo elemento più piccolo (in valore assoluto). Calcolare la somma dei diametri di tutti i sottoinsiemi non vuoti di $\{1, 2, \ldots, n\}$.
 
-[[src_obm_2002_n3_f3__Q04]]
+[[Quesiti/src_obm_2002_n3_f3#q04|src_obm_2002_n3_f3__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 3
 > 
 > **Obs:** È consentito che i quadrati si sovrappongano e parti di essi possono estendersi oltre i confini del quadrato da coprire.
 
-[[src_obm_2002_n3_f3__Q05]]
+[[Quesiti/src_obm_2002_n3_f3#q05|src_obm_2002_n3_f3__Q05]]
 
 
 
@@ -188,4 +188,4 @@ level: OBM Nível 3
 > 
 > Prove che $N \le 4096$.
 
-[[src_obm_2002_n3_f3__Q06]]
+[[Quesiti/src_obm_2002_n3_f3#q06|src_obm_2002_n3_f3__Q06]]

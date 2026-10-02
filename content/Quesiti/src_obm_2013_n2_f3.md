@@ -23,7 +23,7 @@ level: OBM Nível 2
 > 
 > b) Determine the number of curious associations that exist.
 
-![[src_obm_2013_n2_f3__Q01.png]]
+![[src_obm_2013_n2_f3__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
@@ -43,9 +43,9 @@ level: OBM Nível 2
 > 
 > b) Determina il numero di associazioni curiose che esistono.
 
-![[src_obm_2013_n2_f3__Q01.png]]
+![[src_obm_2013_n2_f3__q01.png]]
 
-[[src_obm_2013_n2_f3__Q01]]
+[[Quesiti/src_obm_2013_n2_f3#q01|src_obm_2013_n2_f3__Q01]]
 
 
 
@@ -80,7 +80,7 @@ level: OBM Nível 2
 > 
 > (Per qualsiasi numero reale $x$, il numero $\lfloor x \rfloor$ è definito come il numero intero più grande inferiore o uguale a $x$.)
 
-[[src_obm_2013_n2_f3__Q02]]
+[[Quesiti/src_obm_2013_n2_f3#q02|src_obm_2013_n2_f3__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: OBM Nível 2
 > 
 > (Nota: supponiamo che il punto $N$ sia distinto dal punto $M$.)
 
-[[src_obm_2013_n2_f3__Q03]]
+[[Quesiti/src_obm_2013_n2_f3#q03|src_obm_2013_n2_f3__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: OBM Nível 2
 
 > Dato un numero a due cifre, lo chiamiamo *quadroid* il numero formato dalla concatenatura dei quadrati delle sue cifre nello stesso ordine. Ad esempio, i quadriidi di $19$, $72$, $65$ e $23$ sono $181$, $494$, $3625$ e $49$, rispettivamente. Trova tutti i numeri a due cifre i cui quadroid li divide.
 
-[[src_obm_2013_n2_f3__Q04]]
+[[Quesiti/src_obm_2013_n2_f3#q04|src_obm_2013_n2_f3__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: OBM Nível 2
 
 > Si deve $ABC$ essere un triangolo di scalene e $AM$ la media relativa al lato $BC$. Il cerchio di diametro $AM$ incrocia di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$, entrambi diversi da $A$. Supponiamo che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo $\angle BAC$.
 
-[[src_obm_2013_n2_f3__Q05]]
+[[Quesiti/src_obm_2013_n2_f3#q05|src_obm_2013_n2_f3__Q05]]
 
 
 
@@ -192,4 +192,4 @@ level: OBM Nível 2
 
 > Considera un intero positivo $n$ e due punti $A$ e $B$ in un piano. A partire dal punto $A$ vengono disegnati semiray $n$ e a partire dal punto $B$ vengono disegnati semiray $n$, in modo tale che tutti si trovino nel semiplano definito dalla linea $AB$ e che tutti gli angoli formati dai semiray $2n$ con segmento $AB$ siano acuti. Definire i cerchi che attraversano $A$, $B$ e attraverso ogni punto di intersezione tra un semiray da $A$ e un semiray da $B$. Qual è il numero minimo di **cerchi ** distinti che possono essere definiti con questa costruzione?
 
-[[src_obm_2013_n2_f3__Q06]]
+[[Quesiti/src_obm_2013_n2_f3#q06|src_obm_2013_n2_f3__Q06]]

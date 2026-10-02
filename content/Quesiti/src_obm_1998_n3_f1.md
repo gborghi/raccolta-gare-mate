@@ -34,7 +34,7 @@ level: OBM Nível 3
 > Vedi il problema 1 del livello 2.
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q01]]
+[[Quesiti/src_obm_1998_n3_f1#q01|src_obm_1998_n3_f1__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 3
 > Vedi il problema 2 del livello 2.
 
 **Risposta:** C
-[[src_obm_1998_n3_f1__Q02]]
+[[Quesiti/src_obm_1998_n3_f1#q02|src_obm_1998_n3_f1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: OBM Nível 3
 > Vedi il problema 5 del livello 2.
 
 **Risposta:** B
-[[src_obm_1998_n3_f1__Q03]]
+[[Quesiti/src_obm_1998_n3_f1#q03|src_obm_1998_n3_f1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 3
 > Cfr. il problema 6 del livello 2.
 
 **Risposta:** E
-[[src_obm_1998_n3_f1__Q04]]
+[[Quesiti/src_obm_1998_n3_f1#q04|src_obm_1998_n3_f1__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 3
 > Vedi il problema 15 del livello 2.
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q05]]
+[[Quesiti/src_obm_1998_n3_f1#q05|src_obm_1998_n3_f1__Q05]]
 
 
 
@@ -194,7 +194,7 @@ level: OBM Nível 3
 > E) $0{,}6666\ldots$
 
 **Risposta:** E
-[[src_obm_1998_n3_f1__Q06]]
+[[Quesiti/src_obm_1998_n3_f1#q06|src_obm_1998_n3_f1__Q06]]
 
 
 
@@ -222,7 +222,7 @@ level: OBM Nível 3
 > Cfr. il problema 8 del livello 2.
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q07]]
+[[Quesiti/src_obm_1998_n3_f1#q07|src_obm_1998_n3_f1__Q07]]
 
 
 
@@ -271,7 +271,7 @@ level: OBM Nível 3
 > E) 18
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q08]]
+[[Quesiti/src_obm_1998_n3_f1#q08|src_obm_1998_n3_f1__Q08]]
 
 
 
@@ -319,7 +319,7 @@ level: OBM Nível 3
 > E) 11
 
 **Risposta:** E
-[[src_obm_1998_n3_f1__Q09]]
+[[Quesiti/src_obm_1998_n3_f1#q09|src_obm_1998_n3_f1__Q09]]
 
 
 
@@ -347,7 +347,7 @@ level: OBM Nível 3
 > Vedi il problema 19 del livello 2.
 
 **Risposta:** C
-[[src_obm_1998_n3_f1__Q10]]
+[[Quesiti/src_obm_1998_n3_f1#q10|src_obm_1998_n3_f1__Q10]]
 
 
 
@@ -396,7 +396,7 @@ level: OBM Nível 3
 > E) $2^{501}$
 
 **Risposta:** A
-[[src_obm_1998_n3_f1__Q11]]
+[[Quesiti/src_obm_1998_n3_f1#q11|src_obm_1998_n3_f1__Q11]]
 
 
 
@@ -445,7 +445,7 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 > E) 102
 
 **Risposta:** C
-[[src_obm_1998_n3_f1__Q12]]
+[[Quesiti/src_obm_1998_n3_f1#q12|src_obm_1998_n3_f1__Q12]]
 
 
 
@@ -494,7 +494,7 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 > E) 8
 
 **Risposta:** C
-[[src_obm_1998_n3_f1__Q13]]
+[[Quesiti/src_obm_1998_n3_f1#q13|src_obm_1998_n3_f1__Q13]]
 
 
 
@@ -542,7 +542,7 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 > E) $\dfrac{y}{x}$
 
 **Risposta:** B
-[[src_obm_1998_n3_f1__Q14]]
+[[Quesiti/src_obm_1998_n3_f1#q14|src_obm_1998_n3_f1__Q14]]
 
 
 
@@ -590,7 +590,7 @@ Il prezzo della pizza è proporzionale all'area; una pizza di 20 cm di diametro 
 > E) R\$ $8{,}10$
 
 **Risposta:** E
-[[src_obm_1998_n3_f1__Q15]]
+[[Quesiti/src_obm_1998_n3_f1#q15|src_obm_1998_n3_f1__Q15]]
 
 
 
@@ -639,7 +639,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 > E) $\dfrac{19}{4}$
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q16]]
+[[Quesiti/src_obm_1998_n3_f1#q16|src_obm_1998_n3_f1__Q16]]
 
 
 
@@ -687,7 +687,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 > E) Ho perso $16\%$
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q17]]
+[[Quesiti/src_obm_1998_n3_f1#q17|src_obm_1998_n3_f1__Q17]]
 
 
 
@@ -747,7 +747,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 > E) $4$
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q18]]
+[[Quesiti/src_obm_1998_n3_f1#q18|src_obm_1998_n3_f1__Q18]]
 
 
 
@@ -796,7 +796,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 > E) $x \le 2$
 
 **Risposta:** B
-[[src_obm_1998_n3_f1__Q19]]
+[[Quesiti/src_obm_1998_n3_f1#q19|src_obm_1998_n3_f1__Q19]]
 
 
 
@@ -821,7 +821,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 > 
 > E) $64$
 
-![[src_obm_1998_n3_f1__Q20.png]]
+![[src_obm_1998_n3_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -850,10 +850,10 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 > 
 > E) $64$
 
-![[src_obm_1998_n3_f1__Q20.png]]
+![[src_obm_1998_n3_f1__q20.png]]
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q20]]
+[[Quesiti/src_obm_1998_n3_f1#q20|src_obm_1998_n3_f1__Q20]]
 
 
 
@@ -902,7 +902,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 > E) $90^\circ$
 
 **Risposta:** E
-[[src_obm_1998_n3_f1__Q21]]
+[[Quesiti/src_obm_1998_n3_f1#q21|src_obm_1998_n3_f1__Q21]]
 
 
 
@@ -950,7 +950,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 > E) 10 ore e 20 minuti
 
 **Risposta:** B
-[[src_obm_1998_n3_f1__Q22]]
+[[Quesiti/src_obm_1998_n3_f1#q22|src_obm_1998_n3_f1__Q22]]
 
 
 
@@ -978,7 +978,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 > Cfr. il problema 17 del livello 2.
 
 **Risposta:** A
-[[src_obm_1998_n3_f1__Q23]]
+[[Quesiti/src_obm_1998_n3_f1#q23|src_obm_1998_n3_f1__Q23]]
 
 
 
@@ -1027,7 +1027,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 > E) $3$
 
 **Risposta:** D
-[[src_obm_1998_n3_f1__Q24]]
+[[Quesiti/src_obm_1998_n3_f1#q24|src_obm_1998_n3_f1__Q24]]
 
 
 
@@ -1076,4 +1076,4 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 > E) $108$
 
 **Risposta:** A
-[[src_obm_1998_n3_f1__Q25]]
+[[Quesiti/src_obm_1998_n3_f1#q25|src_obm_1998_n3_f1__Q25]]

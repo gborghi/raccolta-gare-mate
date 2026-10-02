@@ -40,7 +40,7 @@ level: squadre
 > The most prestigious mathematical race for rat in the Caribbean is the Big Whoop Cup, which this year will be played on May 7, 1726. Captain Jack Disparrow, aided by his loyal friend Master Gibbs, approaches Turtle to recruit a new crew for his ship, the Pearl of Truth. To the next candidate π-rate who presents himself with the drunken air, Jack asks: If n is the answer to this question, how much does (n−1)(n−2)+2?. What will theπrate have to answer to be admitted into Jack's clutch?
 
 **Answer:** 0002
-[[src_gas_2010_semifinale_a__Q01]]
+[[Quesiti/src_gas_2010_semifinale_a#q01|src_gas_2010_semifinale_a__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: squadre
 > Mutiny The true pearl swarm is divided into two factions: the MSK rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plan to mutine. At the end of the final report, as early as 2010 members of the crew were arranged in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many mutineers will there be in total?
 
 **Answer:** 0670
-[[src_gas_2010_semifinale_a__Q02]]
+[[Quesiti/src_gas_2010_semifinale_a#q02|src_gas_2010_semifinale_a__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: squadre
 > The true pearl has got his hands on a fabulous prey of no more than 100,000 doubles. Jack realizes that he can exactly divide the spoil between theπ-rates of the swarm. But suddenly Master Gibbs comes and says, "Captain, we lost a man". Jack is only sad for a moment, but then he rolls his back, shakes his smiling hat, and informs theπ-rat of the swarm that the exact division of the loot is still possible, and each will thus have exactly 11 more doubles. How many doubles can be reached at eachπ rate at the most?
 
 **Answer:** 1045
-[[src_gas_2010_semifinale_a__Q03]]
+[[Quesiti/src_gas_2010_semifinale_a#q03|src_gas_2010_semifinale_a__Q03]]
 
 
 
@@ -151,7 +151,7 @@ level: squadre
 > 2/3 Team competition 2010  Semifinal A  Problem tests
 
 **Answer:** 6667
-[[src_gas_2010_semifinale_a__Q04]]
+[[Quesiti/src_gas_2010_semifinale_a#q04|src_gas_2010_semifinale_a__Q04]]
 
 
 
@@ -186,7 +186,7 @@ level: squadre
 > The Aztec gold fortress is empty and all the ancient coins must be recovered before the curse is lifted. The ghost pirate Bourbakossa has led his men to look everywhere, and in the meantime he tries to remember how many coins there were when the enforcer was found. The only clue is a note in Captain Jack Disparrow's boarding journal that says: ...the Aztec coins are in quantity equal to the smallest positive integer a = n3 +2n2, such that n is a natural number and a is the square of an odd integer. How many coins must the π-raties of Bourbakossa look for?
 
 **Answer:** 0441
-[[src_gas_2010_semifinale_a__Q05]]
+[[Quesiti/src_gas_2010_semifinale_a#q05|src_gas_2010_semifinale_a__Q05]]
 
 
 
@@ -217,7 +217,7 @@ level: squadre
 > Maximize it! When beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the maximiser to be spared, but finds with regret that to make it effective with real π-rates, she is asked to find the largest positive integer such that a2 +100a+1 is a perfect square. What's the answer?
 
 **Answer:** 1200
-[[src_gas_2010_semifinale_a__Q06]]
+[[Quesiti/src_gas_2010_semifinale_a#q06|src_gas_2010_semifinale_a__Q06]]
 
 
 
@@ -251,7 +251,7 @@ level: squadre
 > Jack Disparrow escapes from prison with Will's help. He escapes from his cell on the lower level of the prison tower and wants to climb to the top, where he hopes to escape. The prison consists of 200 floors, numbered from 1 to 200 and connected by a number of stair ramps. From the 1st to the 2nd floor there is only 1 staircase ramp with only 1 step. From floors 2 to 3 there are 2 ramps with 1 and 2 steps respectively; from floors 3 to 4, there are 3 ramps with 1, 2 and 3 steps; and so on. How many stairs are there, on average, between one floor and the other?
 
 **Answer:** 6700
-[[src_gas_2010_semifinale_a__Q07]]
+[[Quesiti/src_gas_2010_semifinale_a#q07|src_gas_2010_semifinale_a__Q07]]
 
 
 
@@ -291,7 +291,7 @@ level: squadre
 > Are you afraid of Davy Jensen's grave? The cursed Davy Jensen rat has a bag that contains 90 white tiles from the tomb, plus one single red card of blood. Each prisoner on his ship, the Dutchman Secante, undergoes the following game to know how many years he will have to serve on the ship: he extracts the cards randomly one at a time and arranges them in a triangle (1, then 2, then 3, . .. up to 13. The headless will have to serve as many years as the white papers on the red line. Bill Turing, who observes from a different angle, wonders on average how many years of service are affected in this way. Jack doesn't understand exactly what his colleague π-rate means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years of service (all leading to the same result) the most common is the sum of the numbers k · pk where, for every natural number 0 ≤k ≤12, pk is the probability that the years of service are k. What is the average number of years of service? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
 
 **Answer:** 0008
-[[src_gas_2010_semifinale_a__Q08]]
+[[Quesiti/src_gas_2010_semifinale_a#q08|src_gas_2010_semifinale_a__Q08]]
 
 
 
@@ -325,7 +325,7 @@ level: squadre
 > The Tom2 pirate's compass, besides always indicating the direction of the treasure, also provides the estimated time of arrival by assuming that the ship travels directly to the destination at a constant speed of 12 knots (a speed knot corresponds to 1 mile per hour). The Dutchman Secante, the vessel on which Tom2 is boarded, is heading straight for the treasure at its maximum speed. Knowing that the compass's estimated time of arrival drops by 1 minute every 7 miles traveled, at how many knots of speed does the ship go? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
 
 **Answer:** 3570
-[[src_gas_2010_semifinale_a__Q09]]
+[[Quesiti/src_gas_2010_semifinale_a#q09|src_gas_2010_semifinale_a__Q09]]
 
 
 
@@ -365,7 +365,7 @@ level: squadre
 > Team competition 2010  Semifinal A  Problem tests 3/3
 
 **Answer:** 5400
-[[src_gas_2010_semifinale_a__Q10]]
+[[Quesiti/src_gas_2010_semifinale_a#q10|src_gas_2010_semifinale_a__Q10]]
 
 
 
@@ -401,7 +401,7 @@ level: squadre
 > The True Pearl is caught by Cramer, the terrible sea monster set off by Davy Jensen, and is trying to reach land ahead of him. The nearest island is a point that lies exactly 10 miles north of the ship. Since the wind is not windward but slightly lateral, Captain Disparrow imposes a route that alternates continuously in two different directions: to the northeast (30 degrees relative to the north) the ship goes at 6 m/s, while to the northwest (60 degrees relative to the north) the ship goes at 4 m/s. The Cramer starts at a point 10 miles south of the ship and moves north at constant speed. What's the maximum speed of the Cramer that allows the Pearl to reach the island first? Answer in cm/s.
 
 **Answer:** 0742
-[[src_gas_2010_semifinale_a__Q11]]
+[[Quesiti/src_gas_2010_semifinale_a#q11|src_gas_2010_semifinale_a__Q11]]
 
 
 
@@ -434,7 +434,7 @@ level: squadre
 > The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is devoted to a year from 1600 to 1728 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a singleπ-rate was sunk, in 1601 (1),
 
 **Answer:** 2189
-[[src_gas_2010_semifinale_a__Q12]]
+[[Quesiti/src_gas_2010_semifinale_a#q12|src_gas_2010_semifinale_a__Q12]]
 
 
 
@@ -463,7 +463,7 @@ level: squadre
 > 13. Captain Disparrow's treasure map is studying a treasure map marked with three points A, B and C, which are vertices of an isosceles triangle. The base AB of the triangle measures 3.9 km and the angle at the top is 120 degrees. Captain Disparrow is at point B and knows that the treasure is at the intersection between the BC side and the angle's intersection in A. How many yards will it take to get to the treasure?
 
 **Answer:** 1427
-[[src_gas_2010_semifinale_a__Q13]]
+[[Quesiti/src_gas_2010_semifinale_a#q13|src_gas_2010_semifinale_a__Q13]]
 
 
 
@@ -492,7 +492,7 @@ level: squadre
 > 14. The fraternity of the π-rates is made up of 9 π-noble rats plus Teague Disparrow, Jack's father. Each member holds one of the cards in a deck of 10 magic tarot decks, numbered from 0 to 9. To free Cauchypso from his human form, the π-rates must arrange all the cards in such a way as to form with them 2 5-digit numbers (none of which start with zero) that are one double the other and so that they are the largest possible. What are the last four digits of the smaller of the two?
 
 **Answer:** 8651
-[[src_gas_2010_semifinale_a__Q14]]
+[[Quesiti/src_gas_2010_semifinale_a#q14|src_gas_2010_semifinale_a__Q14]]
 
 
 
@@ -521,7 +521,7 @@ level: squadre
 > 15. The real pearl is in danger of being swallowed up in a vortex! The latter has the shape of an OABC quadrilateral, all contained in a semicircle of centre O and diameter AD. The point B is on the semicircular and the BOA angle is 60 degrees. The Dutch Dryer gives battle from a point E of the semicircle such that EOD measures 30 degrees. The point C belongs to the DE segment or to the EB arc, but unfortunately the viewpoint is not certain. Knowing that AD measures 56 m, how many square meters can it measure, at most, the area of the vortex?
 
 **Answer:** 0731
-[[src_gas_2010_semifinale_a__Q15]]
+[[Quesiti/src_gas_2010_semifinale_a#q15|src_gas_2010_semifinale_a__Q15]]
 
 
 
@@ -550,4 +550,4 @@ level: squadre
 > 16. It's not easy to open the chest that holds Davy Jensen's heart: the prodigy Will Turing already has the key, but now he's in crisis, because he found that the chest has 4 locks (one on each side). Fortunately, the key in his possession is good for all locks, but to unlock the mechanism that opens the casket, you have to make 2 turns at each lock, in a precise order that Will doesn't know; he only knows that the first lock to be turned must be the same as the last one. How many times does Will have to try to unlock the mechanism to make sure he opens the safe?
 
 **Answer:** 0360
-[[src_gas_2010_semifinale_a__Q16]]
+[[Quesiti/src_gas_2010_semifinale_a#q16|src_gas_2010_semifinale_a__Q16]]

@@ -39,7 +39,7 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[src_rmo_2015_mumbai__Q01]]
+[[Quesiti/src_rmo_2015_mumbai#q01|src_rmo_2015_mumbai__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: RMO
 
 > Determinare il numero di numeri a 3 cifre nella base 10 che hanno almeno un 5 e un 3 al massimo.
 
-[[src_rmo_2015_mumbai__Q02]]
+[[Quesiti/src_rmo_2015_mumbai#q02|src_rmo_2015_mumbai__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: RMO
 
 > Che $P(x)$ sia un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n) - 2015)$ per ogni numero naturale positivo $n$, provare che $P(-2015) = 0$.
 
-[[src_rmo_2015_mumbai__Q03]]
+[[Quesiti/src_rmo_2015_mumbai#q03|src_rmo_2015_mumbai__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: RMO
 
 > Trova tutti i numeri naturali a tre cifre della forma $(abc)_{10}$ in modo tale che $(abc)_{10}$, $(bca)_{10}$ e $(cab)_{10}$ siano in progressione geometrica. (Qui $(abc)_{10}$ è la rappresentazione nella base 10.)
 
-[[src_rmo_2015_mumbai__Q04]]
+[[Quesiti/src_rmo_2015_mumbai#q04|src_rmo_2015_mumbai__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. Disegnare $DE \perp AB$ e $DF \perp BC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Prove che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
 
-[[src_rmo_2015_mumbai__Q05]]
+[[Quesiti/src_rmo_2015_mumbai#q05|src_rmo_2015_mumbai__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: RMO
 
 > $S = \{1, 2, \ldots, n\}$ e $T$ siano l'insieme di tutti i triples ordinati dei sottoinsiemi di $S$, ad esempio $(A_1, A_2, A_3)$, in modo tale che $A_1 \cup A_2 \cup A_3 = S$. Determinare, in termini di $n$, $$\sum_{(A_1,A_2,A_3)\in T} |A_1 \cap A_2 \cap A_3|$$ dove $|X|$ indica il numero di elementi nell'insieme $X$.
 
-[[src_rmo_2015_mumbai__Q06]]
+[[Quesiti/src_rmo_2015_mumbai#q06|src_rmo_2015_mumbai__Q06]]
 
 
 
@@ -208,7 +208,7 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[src_rmo_2015_mumbai__Q07]]
+[[Quesiti/src_rmo_2015_mumbai#q07|src_rmo_2015_mumbai__Q07]]
 
 
 
@@ -239,4 +239,4 @@ level: RMO
 
 *Apparizioni nelle regioni: Mumbai, Regione 5.*
 
-[[src_rmo_2015_mumbai__Q08]]
+[[Quesiti/src_rmo_2015_mumbai#q08|src_rmo_2015_mumbai__Q08]]

@@ -41,7 +41,7 @@ level: CAMP Selection Camp
 > 
 > Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
 
-[[src_selection_camp_2023__Q01]]
+[[Quesiti/src_selection_camp_2023#q01|src_selection_camp_2023__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: CAMP Selection Camp
 > 
 > Here, tiles may be rotated, but must not extend beyond the grid.
 
-![[src_selection_camp_2023__Q02.png]]
+![[src_selection_camp_2023__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -74,9 +74,9 @@ level: CAMP Selection Camp
 > 
 > Qui, le piastrelle possono essere ruotate, ma non devono estendersi oltre la griglia.
 
-![[src_selection_camp_2023__Q02.png]]
+![[src_selection_camp_2023__q02.png]]
 
-[[src_selection_camp_2023__Q02]]
+[[Quesiti/src_selection_camp_2023#q02|src_selection_camp_2023__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: CAMP Selection Camp
 > 
 > Per ogni intero $k$ con $1 \le k \le \dfrac{n(n-1)}{2}$, esistono interi $i, j$ con $1 \le i < j \le n$ tali che $a_j - a_i = r^k$.
 
-[[src_selection_camp_2023__Q03]]
+[[Quesiti/src_selection_camp_2023#q03|src_selection_camp_2023__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: CAMP Selection Camp
 > 
 > Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_selection_camp_2023__Q04]]
+[[Quesiti/src_selection_camp_2023#q04|src_selection_camp_2023__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: CAMP Selection Camp
 
 > Chiamare una funzione $f$ definita sui numeri reali e assumendo i valori reali una buona funzione se, per tutti i numeri reali $x, y$, $$f(x + f(y)) = f(x) + f(y).$$ Trovare tutti i numeri razionali $q$ che soddisfano la seguente condizione: esiste una buona funzione $f$ e un numero reale $z$ tale che $f(z) = qz$.
 
-[[src_selection_camp_2023__Q05]]
+[[Quesiti/src_selection_camp_2023#q05|src_selection_camp_2023__Q05]]
 
 
 
@@ -206,7 +206,7 @@ level: CAMP Selection Camp
 > 
 > - Esistono integri $i, j$ con $1 \le i, j \le 9$ tali da $d_i(T) \ne d_j(T)$. - Esistono due enti $x, y$ in modo che per ogni intero $i$ con $1 \le i \le 9$, sia $d_i(T) = x$ che $d_i(T) = y$.
 
-[[src_selection_camp_2023__Q06]]
+[[Quesiti/src_selection_camp_2023#q06|src_selection_camp_2023__Q06]]
 
 
 
@@ -237,7 +237,7 @@ level: CAMP Selection Camp
 > 
 > Esistono un intero $k \ge 2$ e un intero $t_1, t_2, \dots, t_k$ con $1 \le t_1 < t_2 < \cdots < t_k \le 2022$ in modo tale che $t_{i+1} - t_i \le 2$ per ogni intero $i$ con $1 \le i \le k-1$, e inoltre $\left| \sum_{i=1}^{k} a_{t_i} \right| \ge C$.
 
-[[src_selection_camp_2023__Q07]]
+[[Quesiti/src_selection_camp_2023#q07|src_selection_camp_2023__Q07]]
 
 
 
@@ -282,7 +282,7 @@ level: CAMP Selection Camp
 > 
 > Trova il più grande valore possibile di $x$ per il quale B può sempre impedire a A di raggiungere l'obiettivo, indipendentemente dalle azioni di A.
 
-[[src_selection_camp_2023__Q08]]
+[[Quesiti/src_selection_camp_2023#q08|src_selection_camp_2023__Q08]]
 
 
 
@@ -309,7 +309,7 @@ level: CAMP Selection Camp
 
 > Il $ABC$ è un triangolo acuto e il $H$ è il piede della perpendicolare da $A$ a lato $BC$. Selezionare un punto $P$ non sulla linea $BC$ in modo tale che il bisettore $k$ di $\angle PBC$ e il bisettore $l$ di $\angle PCB$ si incontrino sul segmento $AH$ (esclusi i suoi punti terminali). $E$ sia l'intersezione di $k$ con la linea $AC$, $F$ sia l'intersezione di $l$ con la linea $AB$ e $Q$ sia l'intersezione di $EF$ con la linea $AH$. Prove che esiste un punto $X$ tale che, indipendentemente dalla scelta di $P$, $X$ si trova sulla linea $PQ$.
 
-[[src_selection_camp_2023__Q09]]
+[[Quesiti/src_selection_camp_2023#q09|src_selection_camp_2023__Q09]]
 
 
 
@@ -344,7 +344,7 @@ level: CAMP Selection Camp
 > 
 > Trova il minimo valore possibile del numero di elementi di $S$.
 
-[[src_selection_camp_2023__Q10]]
+[[Quesiti/src_selection_camp_2023#q10|src_selection_camp_2023__Q10]]
 
 
 
@@ -371,7 +371,7 @@ level: CAMP Selection Camp
 
 > Il $P$ deve essere un punto all'interno (escluso il confine) di un triangolo acuto $ABC$ in modo tale che la linea $AP$ e la linea $BC$ non siano perpendicolari. $X, Y$ siano rispettivamente i riflessi di $P$ nelle linee $AB, AC$, e $\omega$ sia il circoncircolo del triangolo $AXY$. Supponiamo che un punto $Q$ all'interno (escluso il confine) del triangolo $ABC$ soddisfi $\angle QBC = \angle CAP$ e $\angle QCB = \angle BAP$, e supponiamo che le linee $AQ$ e $\omega$ si incontrino in un punto $R$ diverso da $A$ e $Q$. Prova che il circoncircolo del triangolo $ABC$, il circoncircolo del triangolo $PQR$ e $\omega$ condividono un punto comune.
 
-[[src_selection_camp_2023__Q11]]
+[[Quesiti/src_selection_camp_2023#q11|src_selection_camp_2023__Q11]]
 
 
 
@@ -410,4 +410,4 @@ level: CAMP Selection Camp
 > 
 > Trova il secondo valore possibile del numero di buone coppie di città. Qui $\{A, B\}$ e $\{B, A\}$ sono considerati come la stessa coppia.
 
-[[src_selection_camp_2023__Q12]]
+[[Quesiti/src_selection_camp_2023#q12|src_selection_camp_2023__Q12]]

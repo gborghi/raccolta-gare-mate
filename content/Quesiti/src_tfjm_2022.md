@@ -52,7 +52,7 @@ level: TFJM²
 > 
 > 8. Propose and study other avenues of research.
 
-![[src_tfjm_2022__Q01.png]]
+![[src_tfjm_2022__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -94,9 +94,9 @@ level: TFJM²
 > 
 > 8. Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2022__Q01.png]]
+![[src_tfjm_2022__q01.png]]
 
-[[src_tfjm_2022__Q01]]
+[[Quesiti/src_tfjm_2022#q01|src_tfjm_2022__Q01]]
 
 
 
@@ -133,7 +133,7 @@ level: TFJM²
 > 
 > 6. Propose and explore other avenues of research. One may, for example, change the species of several birds.
 
-![[src_tfjm_2022__Q02.png]]
+![[src_tfjm_2022__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -169,9 +169,9 @@ level: TFJM²
 > 
 > 6. Proporre e esplorare altre vie di ricerca. Si può, ad esempio, modificare le specie di diversi uccelli.
 
-![[src_tfjm_2022__Q02.png]]
+![[src_tfjm_2022__q02.png]]
 
-[[src_tfjm_2022__Q02]]
+[[Quesiti/src_tfjm_2022#q02|src_tfjm_2022__Q02]]
 
 
 
@@ -203,7 +203,7 @@ level: TFJM²
 > 
 > 5. Propose and study other avenues of research.
 
-![[src_tfjm_2022__Q03.png]]
+![[src_tfjm_2022__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_backward|Backward]]
@@ -233,9 +233,9 @@ Un professore confinato vuole sostituire Perrine per ricostruire l'arrangamento 
 > 
 > 5. Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2022__Q03.png]]
+![[src_tfjm_2022__q03.png]]
 
-[[src_tfjm_2022__Q03]]
+[[Quesiti/src_tfjm_2022#q03|src_tfjm_2022__Q03]]
 
 
 
@@ -276,7 +276,7 @@ Un professore confinato vuole sostituire Perrine per ricostruire l'arrangamento 
 > 
 > 6. Propose and study other directions of research.
 
-![[src_tfjm_2022__Q04.png]]
+![[src_tfjm_2022__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
@@ -312,9 +312,9 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2022__Q04.png]]
+![[src_tfjm_2022__q04.png]]
 
-[[src_tfjm_2022__Q04]]
+[[Quesiti/src_tfjm_2022#q04|src_tfjm_2022__Q04]]
 
 
 
@@ -354,7 +354,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Propose and study other avenues of research.
 
-![[src_tfjm_2022__Q05.png]]
+![[src_tfjm_2022__q05.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
@@ -392,9 +392,9 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2022__Q05.png]]
+![[src_tfjm_2022__q05.png]]
 
-[[src_tfjm_2022__Q05]]
+[[Quesiti/src_tfjm_2022#q05|src_tfjm_2022__Q05]]
 
 
 
@@ -431,7 +431,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Propose and study other directions of research.
 
-![[src_tfjm_2022__Q06.png]]
+![[src_tfjm_2022__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_bigezione|Biiezione]], [[method_casework|Casework]]
@@ -471,9 +471,9 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2022__Q06.png]]
+![[src_tfjm_2022__q06.png]]
 
-[[src_tfjm_2022__Q06]]
+[[Quesiti/src_tfjm_2022#q06|src_tfjm_2022__Q06]]
 
 
 
@@ -518,7 +518,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Propose and study other avenues of research.
 
-![[src_tfjm_2022__Q07.png]]
+![[src_tfjm_2022__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -558,9 +558,9 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 6. Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2022__Q07.png]]
+![[src_tfjm_2022__q07.png]]
 
-[[src_tfjm_2022__Q07]]
+[[Quesiti/src_tfjm_2022#q07|src_tfjm_2022__Q07]]
 
 
 
@@ -605,7 +605,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 7. Propose and study other directions of research.
 
-![[src_tfjm_2022__Q08.png]]
+![[src_tfjm_2022__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_logica|Logica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -651,6 +651,6 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 
 > 7. Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2022__Q08.png]]
+![[src_tfjm_2022__q08.png]]
 
-[[src_tfjm_2022__Q08]]
+[[Quesiti/src_tfjm_2022#q08|src_tfjm_2022__Q08]]

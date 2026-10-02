@@ -49,7 +49,7 @@ level: OBM Nível 3
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 
-[[src_obm_2004_n3_f1__Q01]]
+[[Quesiti/src_obm_2004_n3_f1#q01|src_obm_2004_n3_f1__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: OBM Nível 3
 > 
 > (A) 5 (B) $5\sqrt{2}$ (C) 7 (D) $7\sqrt{2}$ (E) 12
 
-[[src_obm_2004_n3_f1__Q02]]
+[[Quesiti/src_obm_2004_n3_f1#q02|src_obm_2004_n3_f1__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: OBM Nível 3
 > 
 > (A) $72^\circ$ (B) $75^\circ$ (C) $90^\circ$ (D) $108^\circ$ (E) $120^\circ$
 
-[[src_obm_2004_n3_f1__Q03]]
+[[Quesiti/src_obm_2004_n3_f1#q03|src_obm_2004_n3_f1__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível 3
 > 
 > (A) 4 (B) 6 (C) 10 (D) 15 (E) Più di quattro
 
-[[src_obm_2004_n3_f1__Q04]]
+[[Quesiti/src_obm_2004_n3_f1#q04|src_obm_2004_n3_f1__Q04]]
 
 
 
@@ -181,7 +181,7 @@ level: OBM Nível 3
 > 
 > (A) 4 (B) 8 (C) 18 (D) 54 (E) 192
 
-[[src_obm_2004_n3_f1__Q05]]
+[[Quesiti/src_obm_2004_n3_f1#q05|src_obm_2004_n3_f1__Q05]]
 
 
 
@@ -214,7 +214,7 @@ level: OBM Nível 3
 > 
 > (A) 2 (B) 8 (C) 12 (D) 13 (E) 15
 
-[[src_obm_2004_n3_f1__Q06]]
+[[Quesiti/src_obm_2004_n3_f1#q06|src_obm_2004_n3_f1__Q06]]
 
 
 
@@ -251,7 +251,7 @@ level: OBM Nível 3
 > 
 > (A) 500 (B) 501 (C) 999 (D) 1000 (E) 1001
 
-[[src_obm_2004_n3_f1__Q07]]
+[[Quesiti/src_obm_2004_n3_f1#q07|src_obm_2004_n3_f1__Q07]]
 
 
 
@@ -284,7 +284,7 @@ level: OBM Nível 3
 > 
 > (A) 30min (B) 10h (C) 1h03min26s (D) 1h31min12s (E) 1h34min30s
 
-[[src_obm_2004_n3_f1__Q08]]
+[[Quesiti/src_obm_2004_n3_f1#q08|src_obm_2004_n3_f1__Q08]]
 
 
 
@@ -316,7 +316,7 @@ level: OBM Nível 3
 > 
 > (A) $-17$ (B) 0 (C) 1 (D) 2 (E) 9
 
-[[src_obm_2004_n3_f1__Q09]]
+[[Quesiti/src_obm_2004_n3_f1#q09|src_obm_2004_n3_f1__Q09]]
 
 
 
@@ -349,7 +349,7 @@ level: OBM Nível 3
 > 
 > A) Uno B) Due C) Tre D) Quattro E) Più di quattro
 
-[[src_obm_2004_n3_f1__Q10]]
+[[Quesiti/src_obm_2004_n3_f1#q10|src_obm_2004_n3_f1__Q10]]
 
 
 
@@ -382,7 +382,7 @@ level: OBM Nível 3
 > 
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 
-[[src_obm_2004_n3_f1__Q11]]
+[[Quesiti/src_obm_2004_n3_f1#q11|src_obm_2004_n3_f1__Q11]]
 
 
 
@@ -417,7 +417,7 @@ level: OBM Nível 3
 > 
 > A) uno B) due C) tre D) quattro E) più di quattro
 
-[[src_obm_2004_n3_f1__Q12]]
+[[Quesiti/src_obm_2004_n3_f1#q12|src_obm_2004_n3_f1__Q12]]
 
 
 
@@ -432,7 +432,7 @@ level: OBM Nível 3
 > 
 > (A) 2 (B) $2+\sqrt{3}$ (C) $1+\sqrt{2}+\sqrt{3}$ (D) $\sqrt{2}\left(1+\sqrt{3}\right)$ (E) $5\sqrt{3}$
 
-![[src_obm_2004_n3_f1__Q13.png]]
+![[src_obm_2004_n3_f1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -452,9 +452,9 @@ level: OBM Nível 3
 > 
 > (A) 2 (B) $2+\sqrt{3}$ (C) $1+\sqrt{2}+\sqrt{3}$ (D) $\sqrt{2}\left(1+\sqrt{3}\right)$ (E) $5\sqrt{3}$
 
-![[src_obm_2004_n3_f1__Q13.png]]
+![[src_obm_2004_n3_f1__q13.png]]
 
-[[src_obm_2004_n3_f1__Q13]]
+[[Quesiti/src_obm_2004_n3_f1#q13|src_obm_2004_n3_f1__Q13]]
 
 
 
@@ -487,7 +487,7 @@ level: OBM Nível 3
 > 
 > (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
 
-[[src_obm_2004_n3_f1__Q14]]
+[[Quesiti/src_obm_2004_n3_f1#q14|src_obm_2004_n3_f1__Q14]]
 
 
 
@@ -519,7 +519,7 @@ level: OBM Nível 3
 > 
 > (A) $\frac{\pi}{7}$ (B) $\frac{3\pi}{14}$ (C) $\frac{\pi}{14}$ (D) $\frac{3\pi}{7}$ (E) $\frac{3\pi}{28}$
 
-[[src_obm_2004_n3_f1__Q15]]
+[[Quesiti/src_obm_2004_n3_f1#q15|src_obm_2004_n3_f1__Q15]]
 
 
 
@@ -552,7 +552,7 @@ level: OBM Nível 3
 > 
 > (A) $\{1\}$ (B) $[1, 2]$ (C) $[1, 2)$ (D) $]1, 2[$ (E) $\{2\}$
 
-[[src_obm_2004_n3_f1__Q16]]
+[[Quesiti/src_obm_2004_n3_f1#q16|src_obm_2004_n3_f1__Q16]]
 
 
 
@@ -567,7 +567,7 @@ level: OBM Nível 3
 > 
 > (A) 1 (B) $\frac{6}{5}$ (C) $\frac{7}{5}$ (D) $\frac{8}{5}$ (E) $\frac{9}{5}$
 
-![[src_obm_2004_n3_f1__Q17.png]]
+![[src_obm_2004_n3_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -587,9 +587,9 @@ level: OBM Nível 3
 > 
 > (A) 1 (B) $\frac{6}{5}$ (C) $\frac{7}{5}$ (D) $\frac{8}{5}$ (E) $\frac{9}{5}$
 
-![[src_obm_2004_n3_f1__Q17.png]]
+![[src_obm_2004_n3_f1__q17.png]]
 
-[[src_obm_2004_n3_f1__Q17]]
+[[Quesiti/src_obm_2004_n3_f1#q17|src_obm_2004_n3_f1__Q17]]
 
 
 
@@ -629,7 +629,7 @@ level: OBM Nível 3
 > 
 > (A) 26,4 km (B) 264 km (C) 2640 km (D) 26400 km (E) 264000 km
 
-[[src_obm_2004_n3_f1__Q18]]
+[[Quesiti/src_obm_2004_n3_f1#q18|src_obm_2004_n3_f1__Q18]]
 
 
 
@@ -646,7 +646,7 @@ level: OBM Nível 3
 > 
 > (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
 
-![[src_obm_2004_n3_f1__Q19.png]]
+![[src_obm_2004_n3_f1__q19.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -668,9 +668,9 @@ level: OBM Nível 3
 > 
 > (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
 
-![[src_obm_2004_n3_f1__Q19.png]]
+![[src_obm_2004_n3_f1__q19.png]]
 
-[[src_obm_2004_n3_f1__Q19]]
+[[Quesiti/src_obm_2004_n3_f1#q19|src_obm_2004_n3_f1__Q19]]
 
 
 
@@ -685,7 +685,7 @@ level: OBM Nível 3
 > 
 > (A) 113 (B) 123 (C) 122 (D) 132 (E) 152
 
-![[src_obm_2004_n3_f1__Q20.png]]
+![[src_obm_2004_n3_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -705,9 +705,9 @@ level: OBM Nível 3
 > 
 > (A) 113 (B) 123 (C) 122 (D) 132 (E) 152
 
-![[src_obm_2004_n3_f1__Q20.png]]
+![[src_obm_2004_n3_f1__q20.png]]
 
-[[src_obm_2004_n3_f1__Q20]]
+[[Quesiti/src_obm_2004_n3_f1#q20|src_obm_2004_n3_f1__Q20]]
 
 
 
@@ -740,7 +740,7 @@ level: OBM Nível 3
 > 
 > A) 6 e 7 B) 5 e 7 C) 4 e 6 D) 3 e 9 E) 4 e 8
 
-[[src_obm_2004_n3_f1__Q21]]
+[[Quesiti/src_obm_2004_n3_f1#q21|src_obm_2004_n3_f1__Q21]]
 
 
 
@@ -784,7 +784,7 @@ level: OBM Nível 3
 > 
 > (A) Nella scatola rossa. (B) Nella scatola verde. (C) Nella scatola blu. D) Le informazioni fornite sono insufficienti per dare una risposta. (E) Le informazioni fornite sono contraddittorie.
 
-[[src_obm_2004_n3_f1__Q22]]
+[[Quesiti/src_obm_2004_n3_f1#q22|src_obm_2004_n3_f1__Q22]]
 
 
 
@@ -817,7 +817,7 @@ level: OBM Nível 3
 > 
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
-[[src_obm_2004_n3_f1__Q23]]
+[[Quesiti/src_obm_2004_n3_f1#q23|src_obm_2004_n3_f1__Q23]]
 
 
 
@@ -852,7 +852,7 @@ level: OBM Nível 3
 > 
 > (A) 11 (B) 21 (C) 31 (D) 41 (E) 51
 
-[[src_obm_2004_n3_f1__Q24]]
+[[Quesiti/src_obm_2004_n3_f1#q24|src_obm_2004_n3_f1__Q24]]
 
 
 
@@ -885,4 +885,4 @@ level: OBM Nível 3
 > 
 > (A) 7 (B) 10 (C) 12 (D) 13 (E) 14
 
-[[src_obm_2004_n3_f1__Q25]]
+[[Quesiti/src_obm_2004_n3_f1#q25|src_obm_2004_n3_f1__Q25]]

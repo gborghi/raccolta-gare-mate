@@ -41,7 +41,7 @@ level: OBM Nível 1
 > 
 > b) Il palindromo più recente prima del 1991 è stato strano. Quando si verificherà il prossimo anno palindromo?
 
-[[src_obm_2002_n1_f2__Q01]]
+[[Quesiti/src_obm_2002_n1_f2#q01|src_obm_2002_n1_f2__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: OBM Nível 1
 > $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$
 > The youngest child received the land represented by the smallest triangle. How many alqueires does the original property have, given that the youngest child received 40 alqueires?
 
-![[src_obm_2002_n1_f2__Q02.png]]
+![[src_obm_2002_n1_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -72,9 +72,9 @@ level: OBM Nível 1
 
 > Un contadino decise di dividere la sua fattoria tra i suoi cinque figli. Il disegno (non in scala) rappresenta l'azienda agricola e i confini di divisione, che sono triangolari, in modo che $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$ il bambino più piccolo riceva il terreno rappresentato dal triangolo più piccolo. Quanti alquiri ha la proprietà originale, visto che il bambino più piccolo ha ricevuto 40 alquiri?
 
-![[src_obm_2002_n1_f2__Q02.png]]
+![[src_obm_2002_n1_f2__q02.png]]
 
-[[src_obm_2002_n1_f2__Q02]]
+[[Quesiti/src_obm_2002_n1_f2#q02|src_obm_2002_n1_f2__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: OBM Nível 1
 
 > Dato un numero, è possibile scrivere il suo doppio o rimuovere (supprimere) la sua cifra unità. Presenta una sequenza che inizia con il 2002 e termina con il 13, utilizzando solo queste due operazioni.
 
-[[src_obm_2002_n1_f2__Q03]]
+[[Quesiti/src_obm_2002_n1_f2#q03|src_obm_2002_n1_f2__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: OBM Nível 1
 
 > Tre amici andarono a una festa indossando abiti di blu, nero e bianco (un colore ciascuno), rispettivamente. I loro paia di scarpe venivano anche dei medesimi tre colori, ma ogni amica indossava scarpe di un colore diverso dal suo vestito. Ana indossava scarpe bianche. Né il vestito di J'ulia né le scarpe di J'ulia erano bianche. Marisa indossava scarpe blu. Determina il colore del vestito di ciascuna delle tre ragazze.
 
-[[src_obm_2002_n1_f2__Q04]]
+[[Quesiti/src_obm_2002_n1_f2#q04|src_obm_2002_n1_f2__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: OBM Nível 1
 
 > Nel gioco di pega-varetas, i bastoni verdi valgono 5 punti ciascuno, i bastoni blu valgono 10 punti, i bastoni gialli valgono 15 punti e i bastoni rossi valgono 20. Ci sono 5 bastoni di ogni colore. Carlinhos è riuscito a segnare 40 punti in un giro. Considerando solo il numero di bastoni di ogni colore, in quanti modi diversi avrebbe potuto ottenere questo punteggio, supponendo che fosse sempre possibile scegliere bastoni di qualsiasi colore?
 
-[[src_obm_2002_n1_f2__Q05]]
+[[Quesiti/src_obm_2002_n1_f2#q05|src_obm_2002_n1_f2__Q05]]
 
 
 
@@ -182,4 +182,4 @@ level: OBM Nível 1
 
 > Nelle cellule di una tabella $8 \times 8$ vengono scritti diversi interi positivi in modo tale che la differenza tra gli interi scritti nelle cellule vicine (cellule che condividono un lato) è sempre 1. In una cella è scritto il numero 17 e in un'altra è scritto il numero 3. Compila la tabella $8 \times 8$ seguendo queste regole e calcola la somma dei numeri scritti nelle due diagonali principali della tabella.
 
-[[src_obm_2002_n1_f2__Q06]]
+[[Quesiti/src_obm_2002_n1_f2#q06|src_obm_2002_n1_f2__Q06]]

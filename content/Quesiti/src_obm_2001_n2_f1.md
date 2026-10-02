@@ -41,7 +41,7 @@ level: OBM Nível 2
 > (A) $1$ \quad (B) $26$ \quad (C) $5$ \quad (D) $4$ \quad (E) più di $4$
 
 **Risposta:** B
-[[src_obm_2001_n2_f1__Q01]]
+[[Quesiti/src_obm_2001_n2_f1#q01|src_obm_2001_n2_f1__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: OBM Nível 2
 > 
 > (A) $75^\circ$ \quad (B) $65^\circ$ \quad (C) $70^\circ$ \quad (D) $45^\circ$ \quad (E) $55^\circ$
 
-![[src_obm_2001_n2_f1__Q02.png]]
+![[src_obm_2001_n2_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -77,10 +77,10 @@ level: OBM Nível 2
 > 
 > (A) $75^\circ$ \quad (B) $65^\circ$ \quad (C) $70^\circ$ \quad (D) $45^\circ$ \quad (E) $55^\circ$
 
-![[src_obm_2001_n2_f1__Q02.png]]
+![[src_obm_2001_n2_f1__q02.png]]
 
 **Risposta:** E
-[[src_obm_2001_n2_f1__Q02]]
+[[Quesiti/src_obm_2001_n2_f1#q02|src_obm_2001_n2_f1__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: OBM Nível 2
 > (A) è uguale a $1$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q03]]
+[[Quesiti/src_obm_2001_n2_f1#q03|src_obm_2001_n2_f1__Q03]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível 2
 > (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
 
 **Risposta:** C
-[[src_obm_2001_n2_f1__Q04]]
+[[Quesiti/src_obm_2001_n2_f1#q04|src_obm_2001_n2_f1__Q04]]
 
 
 
@@ -184,7 +184,7 @@ level: OBM Nível 2
 > (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
 
 **Risposta:** E
-[[src_obm_2001_n2_f1__Q05]]
+[[Quesiti/src_obm_2001_n2_f1#q05|src_obm_2001_n2_f1__Q05]]
 
 
 
@@ -199,7 +199,7 @@ level: OBM Nível 2
 > 
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 
-![[src_obm_2001_n2_f1__Q06.png]]
+![[src_obm_2001_n2_f1__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -220,10 +220,10 @@ level: OBM Nível 2
 > 
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 
-![[src_obm_2001_n2_f1__Q06.png]]
+![[src_obm_2001_n2_f1__q06.png]]
 
 **Risposta:** B
-[[src_obm_2001_n2_f1__Q06]]
+[[Quesiti/src_obm_2001_n2_f1#q06|src_obm_2001_n2_f1__Q06]]
 
 
 
@@ -257,7 +257,7 @@ level: OBM Nível 2
 > (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
 
 **Risposta:** A
-[[src_obm_2001_n2_f1__Q07]]
+[[Quesiti/src_obm_2001_n2_f1#q07|src_obm_2001_n2_f1__Q07]]
 
 
 
@@ -292,7 +292,7 @@ level: OBM Nível 2
 > (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q08]]
+[[Quesiti/src_obm_2001_n2_f1#q08|src_obm_2001_n2_f1__Q08]]
 
 
 
@@ -327,7 +327,7 @@ level: OBM Nível 2
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
 **Risposta:** Anulada
-[[src_obm_2001_n2_f1__Q09]]
+[[Quesiti/src_obm_2001_n2_f1#q09|src_obm_2001_n2_f1__Q09]]
 
 
 
@@ -362,7 +362,7 @@ level: OBM Nível 2
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
 **Risposta:** C
-[[src_obm_2001_n2_f1__Q10]]
+[[Quesiti/src_obm_2001_n2_f1#q10|src_obm_2001_n2_f1__Q10]]
 
 
 
@@ -397,7 +397,7 @@ level: OBM Nível 2
 > (A) $347$ \quad (B) $73$ \quad (C) $109$ \quad (D) $141$ \quad (E) $361$
 
 **Risposta:** B
-[[src_obm_2001_n2_f1__Q11]]
+[[Quesiti/src_obm_2001_n2_f1#q11|src_obm_2001_n2_f1__Q11]]
 
 
 
@@ -440,7 +440,7 @@ level: OBM Nível 2
 > - **(E)** Tutte le righe hanno cellule occupate $5$.
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q12]]
+[[Quesiti/src_obm_2001_n2_f1#q12|src_obm_2001_n2_f1__Q12]]
 
 
 
@@ -474,7 +474,7 @@ level: OBM Nível 2
 > (A) $38^\circ$ \quad (B) $40^\circ$ \quad (C) $42^\circ$ \quad (D) $44^\circ$ \quad (E) $46^\circ$
 
 **Risposta:** C
-[[src_obm_2001_n2_f1__Q13]]
+[[Quesiti/src_obm_2001_n2_f1#q13|src_obm_2001_n2_f1__Q13]]
 
 
 
@@ -509,7 +509,7 @@ level: OBM Nível 2
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
 **Risposta:** E
-[[src_obm_2001_n2_f1__Q14]]
+[[Quesiti/src_obm_2001_n2_f1#q14|src_obm_2001_n2_f1__Q14]]
 
 
 
@@ -544,7 +544,7 @@ level: OBM Nível 2
 > (A) $3n$ \quad (B) $3n+1$ \quad (C) $3n+2$ \quad (D) $3n+3$ \quad (E) $4n$
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q15]]
+[[Quesiti/src_obm_2001_n2_f1#q15|src_obm_2001_n2_f1__Q15]]
 
 
 
@@ -579,7 +579,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) R\$$7{,}00$ \quad (B) R\$$8{,}00$ \quad (C) R\$$9{,}00$ \quad (D) R\$$10{,}00$ \quad (E) R\$$11{,}00$
 
 **Risposta:** B
-[[src_obm_2001_n2_f1__Q16]]
+[[Quesiti/src_obm_2001_n2_f1#q16|src_obm_2001_n2_f1__Q16]]
 
 
 
@@ -613,7 +613,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) $50$ \quad (B) $60$ \quad (C) $70$ \quad (D) $80$ \quad (E) $90$
 
 **Risposta:** C
-[[src_obm_2001_n2_f1__Q17]]
+[[Quesiti/src_obm_2001_n2_f1#q17|src_obm_2001_n2_f1__Q17]]
 
 
 
@@ -648,7 +648,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
 **Risposta:** A
-[[src_obm_2001_n2_f1__Q18]]
+[[Quesiti/src_obm_2001_n2_f1#q18|src_obm_2001_n2_f1__Q18]]
 
 
 
@@ -663,7 +663,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > 
 > (A) $a + b$ \quad (B) $(a+b)\dfrac{\sqrt{2}}{2}$ \quad (C) $(a+b)\dfrac{\sqrt{2}}{4}$ \quad (D) $(2a+b)\dfrac{\sqrt{2}}{4}$ \quad (E) $(a+2b)\dfrac{\sqrt{2}}{4}$
 
-![[src_obm_2001_n2_f1__Q19.png]]
+![[src_obm_2001_n2_f1__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -684,10 +684,10 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > 
 > (A) $a + b$ \quad (B) $(a+b)\dfrac{\sqrt{2}}{2}$ \quad (C) $(a+b)\dfrac{\sqrt{2}}{4}$ \quad (D) $(2a+b)\dfrac{\sqrt{2}}{4}$ \quad (E) $(a+2b)\dfrac{\sqrt{2}}{4}$
 
-![[src_obm_2001_n2_f1__Q19.png]]
+![[src_obm_2001_n2_f1__q19.png]]
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q19]]
+[[Quesiti/src_obm_2001_n2_f1#q19|src_obm_2001_n2_f1__Q19]]
 
 
 
@@ -700,7 +700,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 
 > Only one of the following figures represents the net (planification) of a cube on which its intersection with a plane is highlighted. Which one?
 
-![[src_obm_2001_n2_f1__Q20.png]]
+![[src_obm_2001_n2_f1__q20.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -719,10 +719,10 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 
 > Solo una delle seguenti figure rappresenta la rete (pianificazione) di un cubo su cui è evidenziata la sua intersezione con un piano. - Quale?
 
-![[src_obm_2001_n2_f1__Q20.png]]
+![[src_obm_2001_n2_f1__q20.png]]
 
 **Risposta:** B
-[[src_obm_2001_n2_f1__Q20]]
+[[Quesiti/src_obm_2001_n2_f1#q20|src_obm_2001_n2_f1__Q20]]
 
 
 
@@ -757,7 +757,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > (A) $9$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q21]]
+[[Quesiti/src_obm_2001_n2_f1#q21|src_obm_2001_n2_f1__Q21]]
 
 
 
@@ -800,7 +800,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > - **(E)** Possono superare $20000$ km/h.
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q22]]
+[[Quesiti/src_obm_2001_n2_f1#q22|src_obm_2001_n2_f1__Q22]]
 
 
 
@@ -815,7 +815,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > 
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
 
-![[src_obm_2001_n2_f1__Q23.png]]
+![[src_obm_2001_n2_f1__q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -836,10 +836,10 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > 
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
 
-![[src_obm_2001_n2_f1__Q23.png]]
+![[src_obm_2001_n2_f1__q23.png]]
 
 **Risposta:** A
-[[src_obm_2001_n2_f1__Q23]]
+[[Quesiti/src_obm_2001_n2_f1#q23|src_obm_2001_n2_f1__Q23]]
 
 
 
@@ -874,7 +874,7 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** D
-[[src_obm_2001_n2_f1__Q24]]
+[[Quesiti/src_obm_2001_n2_f1#q24|src_obm_2001_n2_f1__Q24]]
 
 
 
@@ -889,7 +889,7 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 > 
 > (A) $1$ \quad (B) $3$ \quad (C) $15/8$ \quad (D) $6$ \quad (E) $9$
 
-![[src_obm_2001_n2_f1__Q25.png]]
+![[src_obm_2001_n2_f1__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -909,7 +909,7 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 > 
 > (A) $1$ \quad (B) $3$ \quad (C) $15/8$ \quad (D) $6$ \quad (E) $9$
 
-![[src_obm_2001_n2_f1__Q25.png]]
+![[src_obm_2001_n2_f1__q25.png]]
 
 **Risposta:** B
-[[src_obm_2001_n2_f1__Q25]]
+[[Quesiti/src_obm_2001_n2_f1#q25|src_obm_2001_n2_f1__Q25]]

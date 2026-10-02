@@ -39,7 +39,7 @@ level: JMO Honsen
 > 
 > (Qui, per due punti $X$ e $Y$, la lunghezza del segmento $XY$ è indicata da $XY$.)
 
-[[src_jmo13mq_honsen__Q01]]
+[[Quesiti/src_jmo13mq_honsen#q01|src_jmo13mq_honsen__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: JMO Honsen
 > 
 > Per esempio, quando $a = 1234$ e $b = 3412$, le condizioni (1) e (2) si appoggiano ma (3) non lo fanno.
 
-[[src_jmo13mq_honsen__Q02]]
+[[Quesiti/src_jmo13mq_honsen#q02|src_jmo13mq_honsen__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: JMO Honsen
 
 > Trova il numero reale più grande $k$ in modo tale che per ogni triplo dei numeri reali positivi $a, b, c$ soddisfa $a^2 > bc$, la disuguaglianza $$(a^2 - bc)^2 > k(b^2 - ca)(c^2 - ab)$$ sia valida.
 
-[[src_jmo13mq_honsen__Q03]]
+[[Quesiti/src_jmo13mq_honsen#q03|src_jmo13mq_honsen__Q03]]
 
 
 
@@ -156,7 +156,7 @@ level: JMO Honsen
 > 
 > Prova che la somma dei pesi di tutte le espansioni continuate delle frazioni di $\dfrac{p}{q}$ è uguale a $q$.
 
-[[src_jmo13mq_honsen__Q04]]
+[[Quesiti/src_jmo13mq_honsen#q04|src_jmo13mq_honsen__Q04]]
 
 
 
@@ -193,4 +193,4 @@ level: JMO Honsen
 > 
 > Trova il massimo valore possibile di $N$.
 
-[[src_jmo13mq_honsen__Q05]]
+[[Quesiti/src_jmo13mq_honsen#q05|src_jmo13mq_honsen__Q05]]

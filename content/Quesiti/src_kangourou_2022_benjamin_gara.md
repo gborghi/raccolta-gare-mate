@@ -34,7 +34,7 @@ level: kangourou
 > Six points are numbered as shown in the figure. Cristina obtains two triangles: one with vertices marked by even numbers, the other with vertices marked by odd numbers. Which of the five figures shows the two triangles obtained by Cristina? (see figure)
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q01]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q01|src_kangourou_2022_benjamin_gara__Q01]]
 
 
 
@@ -70,7 +70,7 @@ Question 2 (text not available in the sidecar)
 > A) 1 e 4 B) 2, 3 e 5 C) 2 e 3 D) 1, 4 e 5 E) 1 e 3
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q02]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q02|src_kangourou_2022_benjamin_gara__Q02]]
 
 
 
@@ -117,7 +117,7 @@ Question 2 (text not available in the sidecar)
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_gara__Q03]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q03|src_kangourou_2022_benjamin_gara__Q03]]
 
 
 
@@ -169,7 +169,7 @@ Minimum number of vehicles to move to get the black car out
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q04]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q04|src_kangourou_2022_benjamin_gara__Q04]]
 
 
 
@@ -214,7 +214,7 @@ Minimum number of vehicles to move to get the black car out
 > A) 699 B) 113 C) 551 D) 967 E) 459
 
 **Answer:** A
-[[src_kangourou_2022_benjamin_gara__Q05]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q05|src_kangourou_2022_benjamin_gara__Q05]]
 
 
 
@@ -260,7 +260,7 @@ Minimum number of vehicles to move to get the black car out
 > D) 4 E) 5
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q06]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q06|src_kangourou_2022_benjamin_gara__Q06]]
 
 
 
@@ -300,7 +300,7 @@ Minimum number of vehicles to move to get the black car out
 > One of the two white cabins currently located further down in the panoramic wheel is to be taken to the farthest position from the ground. To that end, which of the following fractions of a full lap is enough to make the wheel complete? A) 5/6 B) 1/2 C) 5/12 D) 1/6 E) 1/12
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q07]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q07|src_kangourou_2022_benjamin_gara__Q07]]
 
 
 
@@ -344,7 +344,7 @@ Minimum number of vehicles to move to get the black car out
 > C) 20 D) 23 E) 25
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q08]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q08|src_kangourou_2022_benjamin_gara__Q08]]
 
 
 
@@ -383,7 +383,7 @@ Minimum number of vehicles to move to get the black car out
 > The square in the figure has an area of 100 cm2. How many square centimeters does the area of the grey star measure? A) 20 B) 25 C) 30 D) 35 E) 40
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_gara__Q09]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q09|src_kangourou_2022_benjamin_gara__Q09]]
 
 
 
@@ -434,7 +434,7 @@ Minimum number of vehicles to move to get the black car out
 > E) 60 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q10]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q10|src_kangourou_2022_benjamin_gara__Q10]]
 
 
 
@@ -479,7 +479,7 @@ Minimum number of vehicles to move to get the black car out
 > And they come to the diversion, every one of them turning to the right or to the left, without a rule. Which of the following cannot be the case after everyone has crossed the divide? A)
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q11]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q11|src_kangourou_2022_benjamin_gara__Q11]]
 
 
 
@@ -528,7 +528,7 @@ Minimum number of vehicles to move to get the black car out
 > E) 48
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_gara__Q12]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q12|src_kangourou_2022_benjamin_gara__Q12]]
 
 
 
@@ -572,7 +572,7 @@ Minimum number of vehicles to move to get the black car out
 > The figure shows a water tank in the form of a straight parallel piped (i.e. box with all rectangular faces) in two different positions. Its dimensions are 1m×2m×4m and when placed on a face of 2m×4m the water in it reaches a height of 25 cm. What height does the parallelepiped reach when lying on a face measuring 1m×2m? A) 25 cm B) 50 cm C) 75 cm D) 1 m E) 1,25 m
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_gara__Q13]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q13|src_kangourou_2022_benjamin_gara__Q13]]
 
 
 
@@ -670,7 +670,7 @@ Minimum number of vehicles to move to get the black car out
 >
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q14]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q14|src_kangourou_2022_benjamin_gara__Q14]]
 
 
 
@@ -718,7 +718,7 @@ Minimum number of vehicles to move to get the black car out
 > D)
 
 **Answer:** A
-[[src_kangourou_2022_benjamin_gara__Q15]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q15|src_kangourou_2022_benjamin_gara__Q15]]
 
 
 
@@ -768,7 +768,7 @@ Minimum number of vehicles to move to get the black car out
 > D) D E) All solids require the same amount of paint.
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q16]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q16|src_kangourou_2022_benjamin_gara__Q16]]
 
 
 
@@ -815,7 +815,7 @@ Minimum number of vehicles to move to get the black car out
 > E) 134
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_gara__Q17]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q17|src_kangourou_2022_benjamin_gara__Q17]]
 
 
 
@@ -865,7 +865,7 @@ Minimum number of vehicles to move to get the black car out
 > D) 4 E) There is more than one possible answer.
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_gara__Q18]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q18|src_kangourou_2022_benjamin_gara__Q18]]
 
 
 
@@ -910,7 +910,7 @@ Minimum number of vehicles to move to get the black car out
 > D) 5
 
 **Answer:** A
-[[src_kangourou_2022_benjamin_gara__Q19]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q19|src_kangourou_2022_benjamin_gara__Q19]]
 
 
 
@@ -1005,7 +1005,7 @@ Minimum number of vehicles to move to get the black car out
 > (c) 22 D) 16 E) 20 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q20]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q20|src_kangourou_2022_benjamin_gara__Q20]]
 
 
 
@@ -1055,7 +1055,7 @@ How many players are definitely weaker than the loser of the final?
 > E) 3
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q21]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q21|src_kangourou_2022_benjamin_gara__Q21]]
 
 
 
@@ -1108,7 +1108,7 @@ How many players are definitely weaker than the loser of the final?
 > E) 26
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q22]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q22|src_kangourou_2022_benjamin_gara__Q22]]
 
 
 
@@ -1149,7 +1149,7 @@ How many players are definitely weaker than the loser of the final?
 > B) 082 C) 642 D) 042 E) 012
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_gara__Q23]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q23|src_kangourou_2022_benjamin_gara__Q23]]
 
 
 
@@ -1201,7 +1201,7 @@ Which solid represents Anna's from another perspective
 > C)
 
 **Answer:** C
-[[src_kangourou_2022_benjamin_gara__Q24]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q24|src_kangourou_2022_benjamin_gara__Q24]]
 
 
 
@@ -1247,7 +1247,7 @@ Which solid represents Anna's from another perspective
 > C) 3
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_gara__Q25]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q25|src_kangourou_2022_benjamin_gara__Q25]]
 
 
 
@@ -1354,7 +1354,7 @@ Which solid represents Anna's from another perspective
 > E) 18
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_gara__Q26]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q26|src_kangourou_2022_benjamin_gara__Q26]]
 
 
 
@@ -1420,7 +1420,7 @@ Which solid represents Anna's from another perspective
 >
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_gara__Q27]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q27|src_kangourou_2022_benjamin_gara__Q27]]
 
 
 
@@ -1468,7 +1468,7 @@ Where the school is located minimizing distances
 > E) In D.
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_gara__Q28]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q28|src_kangourou_2022_benjamin_gara__Q28]]
 
 
 
@@ -1515,7 +1515,7 @@ Where the school is located minimizing distances
 > C) 20 D) 21 E) 22
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_gara__Q29]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q29|src_kangourou_2022_benjamin_gara__Q29]]
 
 
 
@@ -1609,4 +1609,4 @@ Maximum number of people with table hat
 > From the top, from the front to the right.
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_gara__Q30]]
+[[Quesiti/src_kangourou_2022_benjamin_gara#q30|src_kangourou_2022_benjamin_gara__Q30]]

@@ -39,7 +39,7 @@ level: kangourou
 > 4 x 4 + 4 + 4 + 4 + 4 + 4 x 4=? A) 96 B) 48 C) 100 D) 32 E) 384
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q01]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q01|src_kangourou_2007_cadet_marzo__Q01]]
 
 
 
@@ -73,7 +73,7 @@ In how many years Billy will be 10 years old
 > Two years ago, Anna was eight times her brother Billy's age. Anna is 10 years old today. How many years from now will Billy be 10? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q02]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q02|src_kangourou_2007_cadet_marzo__Q02]]
 
 
 
@@ -110,7 +110,7 @@ In how many years Billy will be 10 years old
 > A billiard ball hits the edge of the table at an angle of 45°, as shown in the figure. Which hole will he fall into? (a) A (b) B (c) C (d) D (e) in any
 
 **Answer:** C
-[[src_kangourou_2007_cadet_marzo__Q03]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q03|src_kangourou_2007_cadet_marzo__Q03]]
 
 
 
@@ -148,7 +148,7 @@ In how many years Billy will be 10 years old
 > What is the sum of the dots on the faces of the two dice that are not visible in the figure? A) 15 B) 12 C) 7 D) 27 E) a number different from the previous one
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q04]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q04|src_kangourou_2007_cadet_marzo__Q04]]
 
 
 
@@ -182,7 +182,7 @@ In how many years Billy will be 10 years old
 > You want to grow a nymph in a pond. Every day the crop doubles in size, and if a single nymph is harvested, the pond is full after 12 days. After how many days will the pond be full if four nymphs are brought in? A) 3 B) 4 C) 8 D) 10 E) 6
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q05]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q05|src_kangourou_2007_cadet_marzo__Q05]]
 
 
 
@@ -229,7 +229,7 @@ In how many years Billy will be 10 years old
 > I'm going to pay. I'm going to pay. 17 17 Kang 2007 Kang
 
 **Answer:** E
-[[src_kangourou_2007_cadet_marzo__Q06]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q06|src_kangourou_2007_cadet_marzo__Q06]]
 
 
 
@@ -268,7 +268,7 @@ In how many years Billy will be 10 years old
 > The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken ABC...OP line. How long is the broken ABC...OP? A) 48 B) 56 C) 96 D) 106 E) a value different from the previous one
 
 **Answer:** E
-[[src_kangourou_2007_cadet_marzo__Q07]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q07|src_kangourou_2007_cadet_marzo__Q07]]
 
 
 
@@ -303,7 +303,7 @@ In how many years Billy will be 10 years old
 > A number is called a palindrome if its decimal representation can be read indifferently from right to left or from left to right, as happens for example with 13931. What's the difference between the largest palindrome number of six significant digits and the smallest of five significant digits? A) 989989 B) 989998 C) 998998 D) 999898 E) 999988
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q08]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q08|src_kangourou_2007_cadet_marzo__Q08]]
 
 
 
@@ -344,7 +344,7 @@ In how many years Billy will be 10 years old
 > Consider six circumferences of the same radius arranged within a large rectangle, tangent to each other and tangent to the sides of the rectangle, as shown in the figure. The vertices of the small rectangle are each located in the center of a circumference. The perimeter of the small rectangle measures 60 centimeters. How many centimeters is the perimeter of the big one? A) 160 B) 140 C) 120 D) 100 E) 80
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q09]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q09|src_kangourou_2007_cadet_marzo__Q09]]
 
 
 
@@ -384,7 +384,7 @@ In how many years Billy will be 10 years old
 > We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2007_cadet_marzo__Q10]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q10|src_kangourou_2007_cadet_marzo__Q10]]
 
 
 
@@ -418,7 +418,7 @@ In how many years Billy will be 10 years old
 > What is the smallest prime number that divides the sum of 311 plus 513 ? A) 2 B) 3 C) 5 D) 311 + 513 E) none of the above
 
 **Answer:** A
-[[src_kangourou_2007_cadet_marzo__Q11]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q11|src_kangourou_2007_cadet_marzo__Q11]]
 
 
 
@@ -478,7 +478,7 @@ In how many years Billy will be 10 years old
 > I'm going to pay. I'm going to pay. 18 18 Kang 2007 Kang 2007
 
 **Answer:** C
-[[src_kangourou_2007_cadet_marzo__Q12]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q12|src_kangourou_2007_cadet_marzo__Q12]]
 
 
 
@@ -517,7 +517,7 @@ In how many years Billy will be 10 years old
 > Six different points are located on two parallel lines: four on one and two on the other. How many triangles have the points in question for vertices? A) 18 B) 16 C) 12 D) 8 E) 6
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q13]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q13|src_kangourou_2007_cadet_marzo__Q13]]
 
 
 
@@ -560,7 +560,7 @@ In how many years Billy will be 10 years old
 > One survey revealed that two thirds of chocolate consumers in the country of Dolcezza buy brand A and one third buy brand B. A new survey, carried out after an advertising campaign for the B brand, found that 1/4 of consumers who previously preferred A now switched to B. The proportion of consumers now buying A is A) 5/12 B) 1/4 C) 7/12 D) 1/3 E) none of the above. 15.The ABC and CDE triangles in the figure are congruent and equilateral. If the ACE angle is 80 degrees, how many degrees does the ABE angle measure? A) 25 B) 30 C) 35 D) 40 E) 45
 
 **Answer:** E
-[[src_kangourou_2007_cadet_marzo__Q14]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q14|src_kangourou_2007_cadet_marzo__Q14]]
 
 
 
@@ -592,7 +592,7 @@ In how many years Billy will be 10 years old
 > 15. Answer D) The angle ECB measures 140 degrees and, since BC=CE, the angle EBC measures 20 degrees: by way of difference, ABE measures 40 degrees.
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q15]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q15|src_kangourou_2007_cadet_marzo__Q15]]
 
 
 
@@ -626,7 +626,7 @@ In how many years Billy will be 10 years old
 > Consider all integers from 1 to 10,000. What percentage of them is a perfect square? A) 1% B) 1,5% C) 2% D) 2,5% E) 5%
 
 **Answer:** A
-[[src_kangourou_2007_cadet_marzo__Q16]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q16|src_kangourou_2007_cadet_marzo__Q16]]
 
 
 
@@ -661,7 +661,7 @@ In how many years Billy will be 10 years old
 > 9 lines, of which 5 are drawn horizontally and 4 vertically, identify 12 rectangular cells; 6 horizontal lines and 3 verticals identify only 10 cells. How many cells can you get to the maximum by tracing 15 lines? A) 22 B) 30 C) 36 D) 40 E) 42
 
 **Answer:** E
-[[src_kangourou_2007_cadet_marzo__Q17]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q17|src_kangourou_2007_cadet_marzo__Q17]]
 
 
 
@@ -712,7 +712,7 @@ In how many years Billy will be 10 years old
 > I'm going to pay. I'm going to pay. 19 19 Kang 2007 Kang
 
 **Answer:** A
-[[src_kangourou_2007_cadet_marzo__Q18]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q18|src_kangourou_2007_cadet_marzo__Q18]]
 
 
 
@@ -753,7 +753,7 @@ In how many years Billy will be 10 years old
 > So we take three numbers off the grid right here on the side, so that after we take them off, no row and no column remains complete; then we add the numbers that are taken off. What's the biggest amount you can get? A) 12 B) 15 C) 18 D) 21 E) 24
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q19]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q19|src_kangourou_2007_cadet_marzo__Q19]]
 
 
 
@@ -797,7 +797,7 @@ In how many years Billy will be 10 years old
 > In the figure next to O is the centre of the KLMN square and the points on each side of the KLMN are chosen with the only constraint that the OA segment is perpendicular to the OD segment and the OB segment is perpendicular to the OC segment. If the side of the square is 2, what is the area of the shaded region? A) 1 B) 2 C) 2,5 D) 2,25 E) It is not possible to answer because it depends on the choice of points A and B. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q20]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q20|src_kangourou_2007_cadet_marzo__Q20]]
 
 
 
@@ -834,7 +834,7 @@ In how many years Billy will be 10 years old
 > A malfunctioning calculator never shows the number 1. For example, if you type 3131, only the number 33 appears, no spaces. Mark typed a 6-digit number, but only the number 2007 appeared: how many numbers do I have to list to be sure of saying the number that Mark typed? A) 12 B) 13 C) 14 D) 15 E) 16
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q21]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q21|src_kangourou_2007_cadet_marzo__Q21]]
 
 
 
@@ -868,7 +868,7 @@ In how many years Billy will be 10 years old
 > Alfredo goes for a walk: the first stretch of road is flat, the second up. It's back the same way and takes two hours overall. Its speed is 4 km/h on flat land, 3 km/h up and 6 km/h down. How many miles has Alfredo walked? A) You cannot answer, because it depends on the length of the road in the plane. B) 6 C) 7.5 D) 8 E) 10
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q22]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q22|src_kangourou_2007_cadet_marzo__Q22]]
 
 
 
@@ -922,7 +922,7 @@ In how many years Billy will be 10 years old
 > I'm going to pay. I'm going to pay. 20 20 Kang 2007 Kang
 
 **Answer:** A
-[[src_kangourou_2007_cadet_marzo__Q23]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q23|src_kangourou_2007_cadet_marzo__Q23]]
 
 
 
@@ -958,7 +958,7 @@ In how many years Billy will be 10 years old
 > The first digit of a four-digit number is equal to the number of digits 0 of that number, the second digit is equal to the number of digits 1, the third digit is equal to the number of digits 2, and the fourth digit is equal to the number of digits 3. How many numbers are with this property? A) 0 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q24]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q24|src_kangourou_2007_cadet_marzo__Q24]]
 
 
 
@@ -993,7 +993,7 @@ In how many years Billy will be 10 years old
 > Including between the divisors of a number the number itself and the unit, a positive integer n has two divisors while n + 1 has three. How many divisors of n + 2 are there? (a) 2 (b) 3 (c) 4 (d) 5 (e) depends on n
 
 **Answer:** A
-[[src_kangourou_2007_cadet_marzo__Q25]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q25|src_kangourou_2007_cadet_marzo__Q25]]
 
 
 
@@ -1033,7 +1033,7 @@ In how many years Billy will be 10 years old
 > On a table there are 9 cards, each of which has a number, as shown in the figure. Gigi and Piero each remove four cards: the sum of numbers written on the cards removed by Gigi is three times that of numbers written on the cards removed by Piero. What number is written on the paper that remains on the table? A) 4 B) 7 C) 14 D) 23 E) 24
 
 **Answer:** C
-[[src_kangourou_2007_cadet_marzo__Q26]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q26|src_kangourou_2007_cadet_marzo__Q26]]
 
 
 
@@ -1072,7 +1072,7 @@ In how many years Billy will be 10 years old
 > Five integers are written on a circumference so that no pair and no set of adjacent numbers gives a sum divisible by 3. How many of these numbers are divisible by 3? A) 0 B) 1 C) 2 D) 3 E) The data are insufficient to answer.
 
 **Answer:** C
-[[src_kangourou_2007_cadet_marzo__Q27]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q27|src_kangourou_2007_cadet_marzo__Q27]]
 
 
 
@@ -1129,7 +1129,7 @@ In how many years Billy will be 10 years old
 > I'm going to pay. I'm going to pay. 21 21 Kang 2007 Kang
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q28]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q28|src_kangourou_2007_cadet_marzo__Q28]]
 
 
 
@@ -1165,7 +1165,7 @@ In how many years Billy will be 10 years old
 > A three-digit integer is divided by 9: the sum of the digits of the quotient is less than 9 to the sum of the digits of the starting number. How many three-digit numbers have this property? A) 1 B) 2 C) 4 D) 5 E) 11
 
 **Answer:** D
-[[src_kangourou_2007_cadet_marzo__Q29]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q29|src_kangourou_2007_cadet_marzo__Q29]]
 
 
 
@@ -1212,4 +1212,4 @@ In how many years Billy will be 10 years old
 > 1 Cadet category For third-year students of primary secondary school or first-year students of secondary school
 
 **Answer:** B
-[[src_kangourou_2007_cadet_marzo__Q30]]
+[[Quesiti/src_kangourou_2007_cadet_marzo#q30|src_kangourou_2007_cadet_marzo__Q30]]

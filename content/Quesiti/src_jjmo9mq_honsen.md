@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Un esagono $ABCDEF$ è inserito in un cerchio. Supponiamo che $AB \parallel DE$, $BC \parallel EF$ e $CD \parallel FA$. Prove che $AB \parallel CD$.
 
-[[src_jjmo9mq_honsen__Q01]]
+[[Quesiti/src_jjmo9mq_honsen#q01|src_jjmo9mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Honsen
 
 > Lascia che $n$ sia un quadrato perfetto. Si consideri tutti gli enti che possono essere espressi come un prodotto $a \times b$ dove $a$ e $b$ sono enteri positivi ciascuno al massimo $n$ (non necessariamente distinti). Tra questi enti, elencare i più piccoli $n$ (in ordine crescente), esprimendoli in termini di $n$.
 
-[[src_jjmo9mq_honsen__Q02]]
+[[Quesiti/src_jjmo9mq_honsen#q02|src_jjmo9mq_honsen__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JJMO Honsen
 
 > Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e che $D$ sia l'intersezione delle linee $AH$ e $BC$. $E$ deve essere il punto (diversi da $A$ e $B$) in cui il circoncircolo del triangolo $ABD$ incontra la linea $CH$, dove $E$ si trova fuori dal triangolo $ABC$. Il punto $F$ deve essere il punto (diversi da $A$ e $C$) in cui il circoncircolo del triangolo $ACD$ incontra la linea $BH$, dove $F$ si trova fuori dal triangolo $ABC$. Provare che $AE = AF$.
 
-[[src_jjmo9mq_honsen__Q03]]
+[[Quesiti/src_jjmo9mq_honsen#q03|src_jjmo9mq_honsen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JJMO Honsen
 > 
 > Trova tutte le coppie $(p, q)$ di numeri interi positivi per le quali è possibile ripetere l'operazione a tempo indeterminato (per qualsiasi numero di passaggi, in qualsiasi ordine di scelte) senza mai scrivere un multiple di $p$ o un multiple di $q$ sulla scheda nera.
 
-[[src_jjmo9mq_honsen__Q04]]
+[[Quesiti/src_jjmo9mq_honsen#q04|src_jjmo9mq_honsen__Q04]]
 
 
 
@@ -153,4 +153,4 @@ level: JJMO Honsen
 > 
 > \textbf{Condition:} Per ogni intero $k$ con $1 \leq k \leq n^2 - 1$, il rimanente quando la somma dei primi termini $k$ è divisa da $n$ è \emph{differente} dal rimanente quando $k$ è divisa da $n$.
 
-[[src_jjmo9mq_honsen__Q05]]
+[[Quesiti/src_jjmo9mq_honsen#q05|src_jjmo9mq_honsen__Q05]]

@@ -36,7 +36,7 @@ level: squadre
 > How many positive integers n are such that both n  2012 and n + 2012 are four-digit numbers?
 
 **Answer:** 4976
-[[src_kangourou_2012_squadre_semifinale__Q01]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q01|src_kangourou_2012_squadre_semifinale__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 > The right triangle the ABC triangle is a right triangle in A. The circumference with center in A and passing through B intersects the hypotenuse BC at point D: the BD segment is 20 cm long and the DC segment is 16 cm long. How much is the square of the length of the AC catheter?
 
 **Answer:** 936
-[[src_kangourou_2012_squadre_semifinale__Q02]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q02|src_kangourou_2012_squadre_semifinale__Q02]]
 
 
 
@@ -140,7 +140,7 @@ level: squadre
 > The colored trapezoid In the figure you see a trapezoid, part of which has been colored gray. The main base of the trapezoid is 7 metres long, the minor base is 3 metres long. What percentage of the trapezoid's surface is left white?
 
 **Answer:** 42
-[[src_kangourou_2012_squadre_semifinale__Q03]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q03|src_kangourou_2012_squadre_semifinale__Q03]]
 
 
 
@@ -172,7 +172,7 @@ level: squadre
 > By adding two 1, Stephen wrote a number and then added a 1 before his digits and another 1 after his digits (for example, if he had written 17 the first time, he would have written 1171). If you make the difference between the number written the second time and the number written the first time, you get 14789. What number did you write the first time?
 
 **Answer:** 532
-[[src_kangourou_2012_squadre_semifinale__Q04]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q04|src_kangourou_2012_squadre_semifinale__Q04]]
 
 
 
@@ -203,7 +203,7 @@ level: squadre
 > A very long sum Sum all the four-digit numbers that can be formed using only the numbers 1, 2, 3 and 4, even repeated. What are the first four digits of the result you get?
 
 **Answer:** 7110
-[[src_kangourou_2012_squadre_semifinale__Q05]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q05|src_kangourou_2012_squadre_semifinale__Q05]]
 
 
 
@@ -235,7 +235,7 @@ level: squadre
 > Rectangles and squares A rectangle of 112 cm perimeter is cut into three parallel strips and each of these strips is cut into five parts: thus, without any excesses, fifteen squares are all equal between them. What are the dimensions (in centimeters) of the rectangle? (Write down below the major followed by the minor.)
 
 **Answer:** 3521
-[[src_kangourou_2012_squadre_semifinale__Q06]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q06|src_kangourou_2012_squadre_semifinale__Q06]]
 
 
 
@@ -267,7 +267,7 @@ level: squadre
 > The clock A traditional electric clock has a 12-hour dial and the hands, one for hours and the other for minutes, both move at a rate of one degree (degree 0 corresponds to the radius that connects the hands to the point marked with 12). Right now, the bidding was made at 8:00. In how many seconds for the first time the two lancetes will be overlapping?
 
 **Answer:** 2610
-[[src_kangourou_2012_squadre_semifinale__Q07]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q07|src_kangourou_2012_squadre_semifinale__Q07]]
 
 
 
@@ -300,7 +300,7 @@ level: squadre
 > Giulia wants to ride a bicycle from a friend who is 18 km away from her. They agreed on the time of the visit by telephone, assuming that Julia would take an hour to make the trip. The first 5 km of the road, however, are in a slight climb and, after having traveled them, Giulia realizes that she has pedalled at an average speed of only 10 km/h. If you do not want to be late and if you want to keep a constant speed for the remaining kilometres, how many kilometres per hour must this speed be?
 
 **Answer:** 26
-[[src_kangourou_2012_squadre_semifinale__Q08]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q08|src_kangourou_2012_squadre_semifinale__Q08]]
 
 
 
@@ -331,7 +331,7 @@ level: squadre
 > Cube and triangles Assigned a cube, how many different rectangular triangles can be identified that have as vertices three of the vertices of the cube?
 
 **Answer:** 48
-[[src_kangourou_2012_squadre_semifinale__Q09]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q09|src_kangourou_2012_squadre_semifinale__Q09]]
 
 
 
@@ -362,7 +362,7 @@ level: squadre
 > How many integers between 200 and 999 are such that, multiplying the number of units by the number of tens, we get the number of hundreds?
 
 **Answer:** 22
-[[src_kangourou_2012_squadre_semifinale__Q10]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q10|src_kangourou_2012_squadre_semifinale__Q10]]
 
 
 
@@ -393,7 +393,7 @@ How much did Carlo spend (average friends 82)
 > Shopping Carlo and eight of his friends bought some items. Charles' friends spent an average of 82 euros each; Charles spent an average of 64 euros more than Charles and his eight friends. How much did Carlo spend?
 
 **Answer:** 154
-[[src_kangourou_2012_squadre_semifinale__Q11]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q11|src_kangourou_2012_squadre_semifinale__Q11]]
 
 
 
@@ -425,7 +425,7 @@ How much did Carlo spend (average friends 82)
 > A very visited park At the entrance to a park there is a turntable that counts the entrances, since its foundation. After Paul's entrance, the turret marks 31879564, which is a number made up of numbers all different from each other: the next time the number of entrances will still be made up of numbers all different from each other, how many visitors will have entered after Paul?
 
 **Answer:** 38
-[[src_kangourou_2012_squadre_semifinale__Q12]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q12|src_kangourou_2012_squadre_semifinale__Q12]]
 
 
 
@@ -457,7 +457,7 @@ How much did Carlo spend (average friends 82)
 > Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the number of tens is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
 
 **Answer:** 531
-[[src_kangourou_2012_squadre_semifinale__Q13]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q13|src_kangourou_2012_squadre_semifinale__Q13]]
 
 
 
@@ -488,7 +488,7 @@ How much did Carlo spend (average friends 82)
 > If you divide 1059, 1417 and 2312 by a certain integer greater than 1, you always get the same remainder. What's the number n?
 
 **Answer:** 179
-[[src_kangourou_2012_squadre_semifinale__Q14]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q14|src_kangourou_2012_squadre_semifinale__Q14]]
 
 
 
@@ -534,4 +534,4 @@ How much did Carlo spend (average friends 82)
 > Questions and Answers
 
 **Answer:** 112
-[[src_kangourou_2012_squadre_semifinale__Q15]]
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q15|src_kangourou_2012_squadre_semifinale__Q15]]

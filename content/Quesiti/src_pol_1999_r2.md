@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > Che $f : (0,1) \to \mathbb{R}$ sia una funzione tale che $f(1/n) = (-1)^n$ per tutti $n \in \mathbb{N}$. Provare che non esistono funzioni in aumento $g, h : (0,1) \to \mathbb{R}$ tali da $f = g - h$.
 
-[[src_pol_1999_r2__Q01]]
+[[Quesiti/src_pol_1999_r2#q01|src_pol_1999_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > Un cubo di bordo $2$ con uno dei cubetti unitari di angolo rimosso si chiama pezzo. Prova che se un cubo $T$ di bordo $2^n$ è diviso in cubi unitari $2^{3n}$ e uno dei cubi unitari viene rimosso, il resto può essere tagliato in pezzi.
 
-[[src_pol_1999_r2__Q02]]
+[[Quesiti/src_pol_1999_r2#q02|src_pol_1999_r2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 2
 
 > Il $ABCD$ deve essere un quadrilaterale ciclico e $E$ e $F$ devono essere i punti sui lati $AB$ e $CD$ rispettivamente tali da $AE : EB = CF : FD$. Il punto $P$ del segmento $EF$ soddisfa $EP : PF = AB : CD$. Prove che il rapporto tra le superfici di $\triangle APD$ e $\triangle BPC$ non dipende dalla scelta di $E$ e $F$.
 
-[[src_pol_1999_r2__Q03]]
+[[Quesiti/src_pol_1999_r2#q03|src_pol_1999_r2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 2
 
 > $P$ deve essere un punto all'interno di un triangolo $ABC$ tale che $\angle PAB = \angle PCA$ e $\angle PAC = \angle PBA$. Se $O \neq P$ è il centro circundante di $\triangle ABC$, dimostrare che $\angle APO$ è corretto.
 
-[[src_pol_1999_r2__Q04]]
+[[Quesiti/src_pol_1999_r2#q04|src_pol_1999_r2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 2
 
 > Let $S = \{1, 2, 3, 4, 5\}$. Trova il numero di funzioni $f : S \to S$ tale da $f^{50}(x) = x$ per tutte le $x \in S$.
 
-[[src_pol_1999_r2__Q05]]
+[[Quesiti/src_pol_1999_r2#q05|src_pol_1999_r2__Q05]]
 
 
 
@@ -170,4 +170,4 @@ level: Olimpiade Polacca Round 2
 
 > Supponiamo che $a_1, a_2, \ldots, a_n$ siano numeri interi tali che $$a_1 + 2^i a_2 + 3^i a_3 + \cdots + n^i a_n = 0 \quad \text{for } i = 1, 2, \ldots, k-1,$$ dove $k \geq 2$ è un dato intero. Prova che $a_1 + 2^k a_2 + 3^k a_3 + \cdots + n^k a_n$ è divisibile per $k!$.
 
-[[src_pol_1999_r2__Q06]]
+[[Quesiti/src_pol_1999_r2#q06|src_pol_1999_r2__Q06]]

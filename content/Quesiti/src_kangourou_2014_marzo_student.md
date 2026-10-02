@@ -60,7 +60,7 @@ level: kangourou
 > E) 80
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q01]]
+[[Quesiti/src_kangourou_2014_marzo_student#q01|src_kangourou_2014_marzo_student__Q01]]
 
 
 
@@ -107,7 +107,7 @@ level: kangourou
 > E) 99
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q02]]
+[[Quesiti/src_kangourou_2014_marzo_student#q02|src_kangourou_2014_marzo_student__Q02]]
 
 
 
@@ -152,7 +152,7 @@ level: kangourou
 > E) 8
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q03]]
+[[Quesiti/src_kangourou_2014_marzo_student#q03|src_kangourou_2014_marzo_student__Q03]]
 
 
 
@@ -200,7 +200,7 @@ level: kangourou
 > E) 32
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q04]]
+[[Quesiti/src_kangourou_2014_marzo_student#q04|src_kangourou_2014_marzo_student__Q04]]
 
 
 
@@ -236,7 +236,7 @@ level: kangourou
 > E) 2
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q05]]
+[[Quesiti/src_kangourou_2014_marzo_student#q05|src_kangourou_2014_marzo_student__Q05]]
 
 
 
@@ -287,7 +287,7 @@ level: kangourou
 >
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q06]]
+[[Quesiti/src_kangourou_2014_marzo_student#q06|src_kangourou_2014_marzo_student__Q06]]
 
 
 
@@ -329,7 +329,7 @@ level: kangourou
 > D) 110 E) 111
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q07]]
+[[Quesiti/src_kangourou_2014_marzo_student#q07|src_kangourou_2014_marzo_student__Q07]]
 
 
 
@@ -379,7 +379,7 @@ level: kangourou
 > E) A single friend sent more than 2 messages.
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q08]]
+[[Quesiti/src_kangourou_2014_marzo_student#q08|src_kangourou_2014_marzo_student__Q08]]
 
 
 
@@ -431,7 +431,7 @@ level: kangourou
 > E) V  = 8 v
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q09]]
+[[Quesiti/src_kangourou_2014_marzo_student#q09|src_kangourou_2014_marzo_student__Q09]]
 
 
 
@@ -470,7 +470,7 @@ level: kangourou
 > B) 215 C) 395 D) 485 E) A number different from the previous one. Questions from n. 11 al n. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q10]]
+[[Quesiti/src_kangourou_2014_marzo_student#q10|src_kangourou_2014_marzo_student__Q10]]
 
 
 
@@ -520,7 +520,7 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2014_marzo_student__Q11]]
+[[Quesiti/src_kangourou_2014_marzo_student#q11|src_kangourou_2014_marzo_student__Q11]]
 
 
 
@@ -565,7 +565,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q12]]
+[[Quesiti/src_kangourou_2014_marzo_student#q12|src_kangourou_2014_marzo_student__Q12]]
 
 
 
@@ -658,7 +658,7 @@ level: kangourou
 > E) 26
 
 **Answer:** B
-[[src_kangourou_2014_marzo_student__Q13]]
+[[Quesiti/src_kangourou_2014_marzo_student#q13|src_kangourou_2014_marzo_student__Q13]]
 
 
 
@@ -705,7 +705,7 @@ level: kangourou
 > E) Infinite
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q14]]
+[[Quesiti/src_kangourou_2014_marzo_student#q14|src_kangourou_2014_marzo_student__Q14]]
 
 
 
@@ -740,7 +740,7 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 > So both n is a positive integer and a, b, c are numbers other than 0. It is known that the two numbers ( 2)2n + 3 a2n + 2 b2n  1 c3n + 2 and ( 3)2n + 2 a4n + 1 b2n + 5 c3n  4 have the same sign. Which of the following inequalities must be true? A) a > 0 B) b > 0 C) c > 0 D) a <  0 E) b < 0
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q15]]
+[[Quesiti/src_kangourou_2014_marzo_student#q15|src_kangourou_2014_marzo_student__Q15]]
 
 
 
@@ -786,7 +786,7 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q16]]
+[[Quesiti/src_kangourou_2014_marzo_student#q16|src_kangourou_2014_marzo_student__Q16]]
 
 
 
@@ -840,7 +840,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 > E) 8
 
 **Answer:** A
-[[src_kangourou_2014_marzo_student__Q17]]
+[[Quesiti/src_kangourou_2014_marzo_student#q17|src_kangourou_2014_marzo_student__Q17]]
 
 
 
@@ -891,7 +891,7 @@ The water content of the product shall not exceed the water content of the produ
 >
 
 **Answer:** B
-[[src_kangourou_2014_marzo_student__Q18]]
+[[Quesiti/src_kangourou_2014_marzo_student#q18|src_kangourou_2014_marzo_student__Q18]]
 
 
 
@@ -944,7 +944,7 @@ The following information shall be provided:
 > E) 4√3
 
 **Answer:** A
-[[src_kangourou_2014_marzo_student__Q19]]
+[[Quesiti/src_kangourou_2014_marzo_student#q19|src_kangourou_2014_marzo_student__Q19]]
 
 
 
@@ -991,7 +991,7 @@ The following information shall be provided:
 > (e) 5 Questions from n. 21 al n. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q20]]
+[[Quesiti/src_kangourou_2014_marzo_student#q20|src_kangourou_2014_marzo_student__Q20]]
 
 
 
@@ -1033,7 +1033,7 @@ The following information shall be provided:
 > D) 63 E) None of the values listed.
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q21]]
+[[Quesiti/src_kangourou_2014_marzo_student#q21|src_kangourou_2014_marzo_student__Q21]]
 
 
 
@@ -1123,7 +1123,7 @@ The following information is provided in the following table:
 > In the PQRS rectangle, we call T the middle point of the RS side. We know that QT is perpendicular to the PR diagonal. What 's the ratio between the length of PQ and the length of QR ? A) 2 : 1 B) √3 : 1 C) 3 : 2 D) √2 : 1 E) 5 : 4
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q22]]
+[[Quesiti/src_kangourou_2014_marzo_student#q22|src_kangourou_2014_marzo_student__Q22]]
 
 
 
@@ -1171,7 +1171,7 @@ The following information is provided in the following table:
 > E) 8
 
 **Answer:** E
-[[src_kangourou_2014_marzo_student__Q23]]
+[[Quesiti/src_kangourou_2014_marzo_student#q23|src_kangourou_2014_marzo_student__Q23]]
 
 
 
@@ -1244,7 +1244,7 @@ The manufacturer shall provide the manufacturer with the following information:
 >
 
 **Answer:** A
-[[src_kangourou_2014_marzo_student__Q24]]
+[[Quesiti/src_kangourou_2014_marzo_student#q24|src_kangourou_2014_marzo_student__Q24]]
 
 
 
@@ -1292,7 +1292,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 90
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q25]]
+[[Quesiti/src_kangourou_2014_marzo_student#q25|src_kangourou_2014_marzo_student__Q25]]
 
 
 
@@ -1341,7 +1341,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) 18
 
 **Answer:** A
-[[src_kangourou_2014_marzo_student__Q26]]
+[[Quesiti/src_kangourou_2014_marzo_student#q26|src_kangourou_2014_marzo_student__Q26]]
 
 
 
@@ -1385,7 +1385,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > E) Infinite
 
 **Answer:** C
-[[src_kangourou_2014_marzo_student__Q27]]
+[[Quesiti/src_kangourou_2014_marzo_student#q27|src_kangourou_2014_marzo_student__Q27]]
 
 
 
@@ -1429,7 +1429,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > The figure shows a polygonal fracture whose vertices are all the midpoints of the vertices of a cube. We define, as duse, an inner angle formed by two sides of a polygon, which meet in a vertex, as the angle of measurement not exceeding 180° formed by the two sides in the plane containing them. What is the sum of the measurements in degrees of all the interior angles of the polygonal fracture in the figure? A) 720 B) 1080 C) 1200 D) 1440 E) 1800
 
 **Answer:** B
-[[src_kangourou_2014_marzo_student__Q28]]
+[[Quesiti/src_kangourou_2014_marzo_student#q28|src_kangourou_2014_marzo_student__Q28]]
 
 
 
@@ -1468,7 +1468,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > D) 2013! E) 2014!
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q29]]
+[[Quesiti/src_kangourou_2014_marzo_student#q29|src_kangourou_2014_marzo_student__Q29]]
 
 
 
@@ -1525,4 +1525,4 @@ The manufacturer shall provide the manufacturer with the following information:
 > I'm going to be a student for 2014.
 
 **Answer:** D
-[[src_kangourou_2014_marzo_student__Q30]]
+[[Quesiti/src_kangourou_2014_marzo_student#q30|src_kangourou_2014_marzo_student__Q30]]

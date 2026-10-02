@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > $n$ sia un numero intero positivo. Due giocatori si alternano dicendo numeri interi tra $1$ e $n$ inclusivi (ogni numero intero può essere detto una volta al massimo). La partita finisce quando non restano numeri interi. Se la somma dei numeri interi indicati dal primo giocatore è divisibile per $3$, il primo giocatore vince; altrimenti il secondo giocatore vince. Trova tutte le $n$ per le quali il primo giocatore ha una strategia vincente.
 
-[[src_jmo17mq_honsen__Q01]]
+[[Quesiti/src_jmo17mq_honsen#q01|src_jmo17mq_honsen__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: JMO Honsen
 
 > Lasciate che $f$ sia una funzione definita sui valori reali positivi e che prenda valori reali positivi. Trovare tutti tali $f$ soddisfacenti: per ogni coppia di valori reali positivi $x, y$, $$f(x) + f(y) \le \frac{f(x+y)}{2} + \frac{f(x)}{x} + \frac{f(y)}{y} \ge \frac{f(x+y)}{x+y}.$$ (cioè contemporaneamente $f(x)+f(y) \le \dfrac{f(x+y)}{2} + \dfrac{f(x)}{x} + \dfrac{f(y)}{y}$ e $\dfrac{f(x)}{x} + \dfrac{f(y)}{y} \ge \dfrac{f(x+y)}{x+y}$.)
 
-[[src_jmo17mq_honsen__Q02]]
+[[Quesiti/src_jmo17mq_honsen#q02|src_jmo17mq_honsen__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: JMO Honsen
 
 > Lasciate che $\triangle ABC$ sia un triangolo. $\Gamma$ sia il suo circolo circonscritto (circolo circonscritto). Il $\Gamma_A$ deve essere il cerchio interno tangente a $\Gamma$ e tangente ai lati $AB$ e $AC$; $\Gamma_B$ deve essere il cerchio interno tangente a $\Gamma$ e tangente ai lati $AB$ e $BC$; $\Gamma_C$ deve essere il cerchio interno tangente a $\Gamma$ e tangente ai lati $AC$ e $BC$. Indicare rispettivamente i punti di tangenza di $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ con $\Gamma$ per $P$, $Q$ e $R$. Prove che le linee $AP$, $BQ$, $CR$ sono simultanee.
 
-[[src_jmo17mq_honsen__Q03]]
+[[Quesiti/src_jmo17mq_honsen#q03|src_jmo17mq_honsen__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: JMO Honsen
 
 > Nel piano, definire l'insieme di tutti i punti la cui distanza da una data linea è al massimo $\frac{d}{2}$ una "banda di larghezza $d$". Se i punti $A$, $B$, $C$, $D$ sono quattro punti del piano. Supponiamo che per qualsiasi scelta di tre di questi quattro punti, esista una fascia di larghezza $1$ che contiene tutti e tre. Prove che esiste una banda di larghezza $\sqrt{2}$ che contiene tutti e quattro i punti.
 
-[[src_jmo17mq_honsen__Q04]]
+[[Quesiti/src_jmo17mq_honsen#q04|src_jmo17mq_honsen__Q04]]
 
 
 
@@ -145,4 +145,4 @@ level: JMO Honsen
 
 > Per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$. Per un numero reale positivo $x$, definire l'insieme $$A(x) = \{\lfloor nx \rfloor \mid n \text{ is a positive integer}\}.$$ Trovare tutti i numeri irrazionali $\alpha > 1$ in modo tale che: ogni volta che $\beta$ è un vero positivo con $A(\alpha) \supset A(\beta)$, il rapporto $\dfrac{\beta}{\alpha}$ è un intero.
 
-[[src_jmo17mq_honsen__Q05]]
+[[Quesiti/src_jmo17mq_honsen#q05|src_jmo17mq_honsen__Q05]]

@@ -43,7 +43,7 @@ level: TFJM²
 > 
 > **(8)** Propose and explore other research directions.
 
-![[src_tfjm_2021__Q01.png]]
+![[src_tfjm_2021__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
@@ -85,9 +85,9 @@ level: TFJM²
 > 
 > **(8) ** Proporre e esplorare altre direzioni di ricerca.
 
-![[src_tfjm_2021__Q01.png]]
+![[src_tfjm_2021__q01.png]]
 
-[[src_tfjm_2021__Q01]]
+[[Quesiti/src_tfjm_2021#q01|src_tfjm_2021__Q01]]
 
 
 
@@ -122,7 +122,7 @@ level: TFJM²
 > 
 > **(6)** Propose and study other research directions.
 
-![[src_tfjm_2021__Q02.png]]
+![[src_tfjm_2021__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_ricorsione|Ricorsione]]
@@ -162,9 +162,9 @@ level: TFJM²
 > 
 > **(6) ** Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2021__Q02.png]]
+![[src_tfjm_2021__q02.png]]
 
-[[src_tfjm_2021__Q02]]
+[[Quesiti/src_tfjm_2021#q02|src_tfjm_2021__Q02]]
 
 
 
@@ -207,7 +207,7 @@ level: TFJM²
 > 
 > **(7)** Propose and explore other research directions.
 
-![[src_tfjm_2021__Q03.png]]
+![[src_tfjm_2021__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
@@ -245,9 +245,9 @@ level: TFJM²
 > 
 > **(7) ** Proporre e esplorare altre direzioni di ricerca.
 
-![[src_tfjm_2021__Q03.png]]
+![[src_tfjm_2021__q03.png]]
 
-[[src_tfjm_2021__Q03]]
+[[Quesiti/src_tfjm_2021#q03|src_tfjm_2021__Q03]]
 
 
 
@@ -282,7 +282,7 @@ level: TFJM²
 > 
 > **(7)** Revisit the problem in other cases. For example, one may suppose there exist two models of defective pieces, of respective masses $1+\varepsilon$ and $1-\varepsilon$ (where $\varepsilon>0$ is small enough to respect the constraint of question (1)). One may also be interested in the case where the pieces can have any mass (always respecting question (1)), or place oneself in the case where Marie does not know $k$.
 
-![[src_tfjm_2021__Q04.png]]
+![[src_tfjm_2021__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]]
@@ -322,9 +322,9 @@ level: TFJM²
 > 
 > **(7) ** Rivedi il problema in altri casi. Ad esempio, si può supporre che esistano due modelli di pezzi difettosi, rispettivamente $1+\varepsilon$ e $1-\varepsilon$ (dove $\varepsilon>0$ è abbastanza piccolo da rispettare la limitazione della domanda (1)). Si può anche interessare al caso in cui i pezzi possano avere qualsiasi massa (sempre rispettando la domanda (1)), o posizionarsi nel caso in cui Marie non conosca $k$.
 
-![[src_tfjm_2021__Q04.png]]
+![[src_tfjm_2021__q04.png]]
 
-[[src_tfjm_2021__Q04]]
+[[Quesiti/src_tfjm_2021#q04|src_tfjm_2021__Q04]]
 
 
 
@@ -369,7 +369,7 @@ level: TFJM²
 > 
 > **(8)** Propose and explore other research directions; it may be useful, for example, to continue studying these three kingdoms, or to determine whether there exist other kingdoms with interesting properties with respect to the previous questions.
 
-![[src_tfjm_2021__Q05.png]]
+![[src_tfjm_2021__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
@@ -419,9 +419,9 @@ level: TFJM²
 > 
 > **(8) ** Proporre e esplorare altre direzioni di ricerca; può essere utile, ad esempio, continuare a studiare questi tre regni, o determinare se esistono altri regni con proprietà interessanti rispetto alle domande precedenti.
 
-![[src_tfjm_2021__Q05.png]]
+![[src_tfjm_2021__q05.png]]
 
-[[src_tfjm_2021__Q05]]
+[[Quesiti/src_tfjm_2021#q05|src_tfjm_2021__Q05]]
 
 
 
@@ -474,7 +474,7 @@ level: TFJM²
 > 
 > **(7)** Propose and explore other research directions.
 
-![[src_tfjm_2021__Q06.png]]
+![[src_tfjm_2021__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -524,9 +524,9 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > **(7) ** Proporre e esplorare altre direzioni di ricerca.
 
-![[src_tfjm_2021__Q06.png]]
+![[src_tfjm_2021__q06.png]]
 
-[[src_tfjm_2021__Q06]]
+[[Quesiti/src_tfjm_2021#q06|src_tfjm_2021__Q06]]
 
 
 
@@ -569,7 +569,7 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > **(7)** Study other ponds and find criteria and general results to determine the person having the winning strategy.
 
-![[src_tfjm_2021__Q07.png]]
+![[src_tfjm_2021__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
@@ -615,9 +615,9 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > **(7) ** Studiare altri stagni e trovare criteri e risultati generali per determinare la persona che ha la strategia vincente.
 
-![[src_tfjm_2021__Q07.png]]
+![[src_tfjm_2021__q07.png]]
 
-[[src_tfjm_2021__Q07]]
+[[Quesiti/src_tfjm_2021#q07|src_tfjm_2021__Q07]]
 
 
 
@@ -662,7 +662,7 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > **(8)** Propose and study other research directions.
 
-![[src_tfjm_2021__Q08.png]]
+![[src_tfjm_2021__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
@@ -712,6 +712,6 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > 
 > **(8) ** Proporre e studiare altre direzioni di ricerca.
 
-![[src_tfjm_2021__Q08.png]]
+![[src_tfjm_2021__q08.png]]
 
-[[src_tfjm_2021__Q08]]
+[[Quesiti/src_tfjm_2021#q08|src_tfjm_2021__Q08]]

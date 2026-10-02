@@ -40,7 +40,7 @@ level: Coupe Animath Printemps
 > Qui si aspetta solo una risposta numerica.
 
 **Risposta:** 16
-[[src_canimath_2022_printemps__Q01]]
+[[Quesiti/src_canimath_2022_printemps#q01|src_canimath_2022_printemps__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: Coupe Animath Printemps
 
 > Il $AMC$ deve essere un triangolo a uguale scala a $M$ e tale che l'angolo $\widehat{AMC}$ sia acuto. $B$ sia simmetrica del punto $A$ rispetto al punto $M$, e $H$ sia il piede dell'altitudine dal vertice $C$ nel triangolo $ABC$. Supponiamo che $AH = HM$. Calcolare i valori dei tre angoli del triangolo $ABC$.
 
-[[src_canimath_2022_printemps__Q02]]
+[[Quesiti/src_canimath_2022_printemps#q02|src_canimath_2022_printemps__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare una configurazione di venti edifici per i quali ci sono esattamente sei edifici interessanti e per i quali la somma del numero di piani è esattamente $27$.
 
-[[src_canimath_2022_printemps__Q03]]
+[[Quesiti/src_canimath_2022_printemps#q03|src_canimath_2022_printemps__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: Coupe Animath Printemps
 
 > Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Indicare che $$\widehat{BAC} + 2\widehat{PAQ} = 180^\circ.$$
 
-[[src_canimath_2022_printemps__Q04]]
+[[Quesiti/src_canimath_2022_printemps#q04|src_canimath_2022_printemps__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: Coupe Animath Printemps
 > 
 > Un quadrato perfetto è un numero intero della forma $n^2$, dove $n$ è un numero naturale.
 
-[[src_canimath_2022_printemps__Q05]]
+[[Quesiti/src_canimath_2022_printemps#q05|src_canimath_2022_printemps__Q05]]
 
 
 
@@ -193,7 +193,7 @@ level: Coupe Animath Printemps
 
 > Determinare tutti i triples di numeri reali $(a, b, c)$ che soddisfano le tre equazioni $$a^2 + b = c^2, \quad b^2 + c = a^2, \quad c^2 + a = b^2.$$
 
-[[src_canimath_2022_printemps__Q06]]
+[[Quesiti/src_canimath_2022_printemps#q06|src_canimath_2022_printemps__Q06]]
 
 
 
@@ -220,7 +220,7 @@ level: Coupe Animath Printemps
 
 > Ogni punto del piano è colorato con uno dei tre colori blu, verde o rosso. Per ogni colore, supponiamo che ci sia almeno un punto del piano colorato con quel colore. Mostrare che esiste un triangolo rettangolo le cui tre vertici sono di coppie di colori diversi.
 
-[[src_canimath_2022_printemps__Q07]]
+[[Quesiti/src_canimath_2022_printemps#q07|src_canimath_2022_printemps__Q07]]
 
 
 
@@ -251,7 +251,7 @@ level: Coupe Animath Printemps
 > 
 > Qui si aspetta solo una risposta numerica.
 
-[[src_canimath_2022_printemps__Q08]]
+[[Quesiti/src_canimath_2022_printemps#q08|src_canimath_2022_printemps__Q08]]
 
 
 
@@ -278,7 +278,7 @@ level: Coupe Animath Printemps
 
 > Si deve $AMC$ essere un triangolo a uguale scala a $M$ e tale che l'angolo $\widehat{AMC}$ sia acuto. Il punto $B$ deve essere simmetrico del punto $A$ rispetto al punto $M$, e il punto $H$ deve essere il piede dell'altitudine dal vertice $C$ nel triangolo $ABC$. Supponiamo che $AH = HM$. Calcolare i valori dei tre angoli del triangolo $ABC$.
 
-[[src_canimath_2022_printemps__Q09]]
+[[Quesiti/src_canimath_2022_printemps#q09|src_canimath_2022_printemps__Q09]]
 
 
 
@@ -313,7 +313,7 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare una configurazione di venti edifici per i quali ci sono esattamente sei edifici interessanti e per i quali la somma del numero di piani è esattamente $27$.
 
-[[src_canimath_2022_printemps__Q10]]
+[[Quesiti/src_canimath_2022_printemps#q10|src_canimath_2022_printemps__Q10]]
 
 
 
@@ -348,7 +348,7 @@ level: Coupe Animath Printemps
 > 
 > Un quadrato perfetto è un numero intero della forma $n^2$, dove $n$ è un numero naturale.
 
-[[src_canimath_2022_printemps__Q11]]
+[[Quesiti/src_canimath_2022_printemps#q11|src_canimath_2022_printemps__Q11]]
 
 
 
@@ -375,7 +375,7 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettore dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che $\widehat{AFE} = \widehat{EFD}$.
 
-[[src_canimath_2022_printemps__Q12]]
+[[Quesiti/src_canimath_2022_printemps#q12|src_canimath_2022_printemps__Q12]]
 
 
 
@@ -402,7 +402,7 @@ level: Coupe Animath Printemps
 
 > Ogni punto del piano è colorato con uno dei tre colori blu, verde o rosso. Per ogni colore, supponiamo che ci sia almeno un punto del piano colorato con quel colore. Mostrare che esiste un triangolo rettangolo le cui tre vertici sono di coppie di colori diversi.
 
-[[src_canimath_2022_printemps__Q13]]
+[[Quesiti/src_canimath_2022_printemps#q13|src_canimath_2022_printemps__Q13]]
 
 
 
@@ -437,7 +437,7 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare che se $i$ e $j$ sono numeri interi che verificano $1 \le i < j \le n$, allora $i\,a_j \le j\,a_i$.
 
-[[src_canimath_2022_printemps__Q14]]
+[[Quesiti/src_canimath_2022_printemps#q14|src_canimath_2022_printemps__Q14]]
 
 
 
@@ -474,4 +474,4 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare che $$\left(x_{n+1}^p - (x_1^p + \ldots + x_n^p)\right)^q < \left(x_{n+1}^q - (x_1^q + \ldots + x_n^q)\right)^p.$$
 
-[[src_canimath_2022_printemps__Q15]]
+[[Quesiti/src_canimath_2022_printemps#q15|src_canimath_2022_printemps__Q15]]

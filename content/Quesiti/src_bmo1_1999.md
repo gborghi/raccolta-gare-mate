@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Decidere se queste informazioni sono sufficienti per determinare l'età in modo unico e trovare tutte le possibilità per la loro età.
 
-[[src_bmo1_1999__Q01]]
+[[Quesiti/src_bmo1_1999#q01|src_bmo1_1999__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 
 > Un cerchio ha un diametro $AB$ e $X$ è un punto fisso di $AB$ situato tra $A$ e $B$. Un punto $P$, distinto da $A$ e $B$, si trova sulla circonferenza del cerchio. Prove che $$\frac{\tan \angle APX}{\tan \angle PAX}$$ rimane costante mentre $P$ si muove intorno al cerchio.
 
-[[src_bmo1_1999__Q02]]
+[[Quesiti/src_bmo1_1999#q02|src_bmo1_1999__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 
 > Determinare una costante positiva $c$ tale che l'equazione $$xy^2 - y^2 - x + y = c$$ abbia precisamente tre soluzioni $(x, y)$ in numeri interi positivi.
 
-[[src_bmo1_1999__Q03]]
+[[Quesiti/src_bmo1_1999#q03|src_bmo1_1999__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: BMO Round 1
 > 
 > Indicare che esiste un intero positivo $N$ tale che $u_n = u_N$ per tutti $n \ge N$, e determinare tutti i valori possibili che $u_N$ può assumere. È sempre così che $u_N = 1$ o $u_N = 17$?
 
-[[src_bmo1_1999__Q04]]
+[[Quesiti/src_bmo1_1999#q04|src_bmo1_1999__Q04]]
 
 
 
@@ -163,4 +163,4 @@ level: BMO Round 1
 > 
 > Indicare che esiste un intero positivo $n$ tale che $f(n) = p$.
 
-[[src_bmo1_1999__Q05]]
+[[Quesiti/src_bmo1_1999#q05|src_bmo1_1999__Q05]]

@@ -41,7 +41,7 @@ level: Classi Prime
 > Whether n is the product of the first 10 powers of 8, i.e. n = 80 ·81 ·82 ·. . .·89. How many digits does the binary representation of n have? A 136 B 49 C 91 D 120 E 27 F 28
 
 **Answer:** A
-[[src_garaprime_2019__Q01]]
+[[Quesiti/src_garaprime_2019#q01|src_garaprime_2019__Q01]]
 
 
 
@@ -166,7 +166,7 @@ level: Classi Prime
 > The boxes in a table 9 × 9 are coloured in black and white (see figure). The central box is white, then the outer frames surrounding it are alternately black and white. Figure 1 Imagine doing the same thing with a table 81 × 81. What is the difference between the number of white boxes and the number of black boxes in this new table? A 161 B 321 C 81 D 167 E 319 F 1
 
 **Answer:** A
-[[src_garaprime_2019__Q02]]
+[[Quesiti/src_garaprime_2019#q02|src_garaprime_2019__Q02]]
 
 
 
@@ -202,7 +202,7 @@ level: Classi Prime
 > Which of the following words has the most anagrams? (Consider all the anagrams, even the nonsensical ones) A CANNE B CANNE C CENE D CANNE and NANNE F NANNA
 
 **Answer:** A
-[[src_garaprime_2019__Q03]]
+[[Quesiti/src_garaprime_2019#q03|src_garaprime_2019__Q03]]
 
 
 
@@ -241,7 +241,7 @@ level: Classi Prime
 > The distance between two anagrams of the same word is the minimum number of consecutive letter exchanges I have to make to turn one of the two into the other. For example, ACTA has distance 1 from ATCA and distance 2 from ATAC. What is the maximum distance that MAMMMMME can be from one of its anagrams? A 12 B 14 C 11 D 10 E 6 F 9
 
 **Answer:** A
-[[src_garaprime_2019__Q04]]
+[[Quesiti/src_garaprime_2019#q04|src_garaprime_2019__Q04]]
 
 
 
@@ -278,7 +278,7 @@ How to give €10 with 2.1,0.5 coins
 > Luca has only 2 Euro, 1 Euro and 50 cents coins, but he has a lot of them (more than 20) for each of the 3 types. How many different ways can you give 10 euros to Claudia? A 36 B 27 C 40 D 28 E 25 F 12
 
 **Answer:** A
-[[src_garaprime_2019__Q05]]
+[[Quesiti/src_garaprime_2019#q05|src_garaprime_2019__Q05]]
 
 
 
@@ -313,7 +313,7 @@ How to give €10 with 2.1,0.5 coins
 > How much is 8881115550002 −888111555004 · 888111554996? A 16 B 0 C −4 D 12 E 18 F None of the other answers are correct
 
 **Answer:** A
-[[src_garaprime_2019__Q06]]
+[[Quesiti/src_garaprime_2019#q06|src_garaprime_2019__Q06]]
 
 
 
@@ -367,7 +367,7 @@ How to give €10 with 2.1,0.5 coins
 > The 3D computer science teacher, in order to teach her 20 students the tricks of parallel computing, assigns them the task of adding 200 numbers. The boys organize themselves in such a way as to parallel the work. They write the 200 numbers on 200 sheets and put them in a basket, then set an alarm so that, starting at 10:00, you play every five minutes. At the first wake-up call, each of them takes two sheets from the basket, returns to his place, sums them up, writes the result on a new sheet, and runs back to put it back in the basket before it wakes up sounds again. They repeat this operation with each call until there is only one leaflet left in the basket, which then contains the required sum. Obviously, in shifts where the cards in the basket are less than 40, some kids have to stand still. What time is it when, for the first time, the alarm goes off and there's only one ticket in the basket? A 11:10 B 10:55 C 11:00 D 11:05 E 11:15 F 10:50
 
 **Answer:** A
-[[src_garaprime_2019__Q07]]
+[[Quesiti/src_garaprime_2019#q07|src_garaprime_2019__Q07]]
 
 
 
@@ -403,7 +403,7 @@ How to give €10 with 2.1,0.5 coins
 > The numbers a = 132132, b = 913 −324 and c = 998800 are given. Which of these are perfect cubes? A only b b only a and b c only a and c d only b and c and all f none
 
 **Answer:** A
-[[src_garaprime_2019__Q08]]
+[[Quesiti/src_garaprime_2019#q08|src_garaprime_2019__Q08]]
 
 
 
@@ -441,7 +441,7 @@ How to give €10 with 2.1,0.5 coins
 > For measuring the lengths, Kenoncè Island uses 4 different units of measurement: the Pollice, the Mignolo, the Index and the Spanna. We know that 7 Indices are as long as 5 Spanne, 21 Minnoli as long as 20 Inches and 2 Indices as long as 3 Minnoli. How many Spanne is 140 inches? A 70 B 105 C 630 D 42 E 450 F 12
 
 **Answer:** A
-[[src_garaprime_2019__Q09]]
+[[Quesiti/src_garaprime_2019#q09|src_garaprime_2019__Q09]]
 
 
 
@@ -476,7 +476,7 @@ How to give €10 with 2.1,0.5 coins
 > How many odd positive divisors of 8100 are multiples of 5? A 10 B 15 C 9 D 30 E 12 F 18
 
 **Answer:** A
-[[src_garaprime_2019__Q10]]
+[[Quesiti/src_garaprime_2019#q10|src_garaprime_2019__Q10]]
 
 
 
@@ -514,7 +514,7 @@ How to give €10 with 2.1,0.5 coins
 > The entire 5aM class (consisting of 10 males and 8 females) passed the maturity test: each grade was between 60 and 100. The average male vote was 76 and the total was 80. How many girls took 100 at most? A 5 B 1 C 2 D 3 E 4 F 6
 
 **Answer:** A
-[[src_garaprime_2019__Q11]]
+[[Quesiti/src_garaprime_2019#q11|src_garaprime_2019__Q11]]
 
 
 
@@ -551,7 +551,7 @@ How to give €10 with 2.1,0.5 coins
 > For every positive integer k, we use nk to indicate that positive integer whose binary representation has exactly k digits and they're all equal to 1. What 's n1 + n2 + n3 + ? . . + n10? A 2036 B 2048 C 1048 D 1536 E 2064 F 1792
 
 **Answer:** A
-[[src_garaprime_2019__Q12]]
+[[Quesiti/src_garaprime_2019#q12|src_garaprime_2019__Q12]]
 
 
 
@@ -612,7 +612,7 @@ How to give €10 with 2.1,0.5 coins
 > Find out how many different ways it is possible to completely cover the following grid 4 × 4 with a grid of 1 × 2, with the restriction that the grid cannot be placed on the horizontal segment marked in bold. Figure 2 The bearings may be rotated but not overlapped. A 26 B 12 C 32 D 45 E 30 F 36
 
 **Answer:** A
-[[src_garaprime_2019__Q13]]
+[[Quesiti/src_garaprime_2019#q13|src_garaprime_2019__Q13]]
 
 
 
@@ -648,7 +648,7 @@ How to give €10 with 2.1,0.5 coins
 > How many ways can I choose the pair of integers (a, b), with a < b, so that a and b are both divisors of 60060, but what MCD(a, b) = 6? A 121 B 128 C 364 D 60 E 32 F 81
 
 **Answer:** A
-[[src_garaprime_2019__Q14]]
+[[Quesiti/src_garaprime_2019#q14|src_garaprime_2019__Q14]]
 
 
 
@@ -686,7 +686,7 @@ How to give €10 with 2.1,0.5 coins
 > Given the polynomial p(x, y) = x5 +x4y +x3y2 +x2y3 +xy4 +y5, both n = p(19, 18), i.e. n is the number that is obtained by replacing the values x = 19 and y = 18 in the polynomial. How many different prime numbers do you have in the factorization of n? A 4 B 3 C 5 D 6 E 7 F more than 7
 
 **Answer:** A
-[[src_garaprime_2019__Q15]]
+[[Quesiti/src_garaprime_2019#q15|src_garaprime_2019__Q15]]
 
 
 
@@ -723,7 +723,7 @@ How to give €10 with 2.1,0.5 coins
 > Little Luca has 60 wooden cubes, all with a 1 cm spike. Using them all, he builds a parallel piped with a total area of 104 cm2. How much is the sum of the lengths of all the tips of the paralelepiped, expressed in centimeters? A 52 B 36 C 56 D 64 E 72 F 80
 
 **Answer:** A
-[[src_garaprime_2019__Q16]]
+[[Quesiti/src_garaprime_2019#q16|src_garaprime_2019__Q16]]
 
 
 
@@ -759,7 +759,7 @@ How to give €10 with 2.1,0.5 coins
 > Of positive integer n we know that 30n has 45 positive divisors (also counting 1 and 30n). How many positive divisors of n? A 16 B 42 C 36 D 12 E 24 F 32
 
 **Answer:** A
-[[src_garaprime_2019__Q17]]
+[[Quesiti/src_garaprime_2019#q17|src_garaprime_2019__Q17]]
 
 
 
@@ -808,4 +808,4 @@ How to give €10 with 2.1,0.5 coins
 > Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
 
 **Answer:** A
-[[src_garaprime_2019__Q18]]
+[[Quesiti/src_garaprime_2019#q18|src_garaprime_2019__Q18]]

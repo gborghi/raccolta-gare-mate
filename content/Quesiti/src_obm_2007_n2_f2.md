@@ -35,7 +35,7 @@ level: OBM Nível 2
 > Lasciate che $x$ sia l'età di Ludmilson. È noto che $(x-55)(x+55)=p^3$, dove $p$ è un numero primo. Determina l'età di Ludmilson. [Fonte: scheda ufficiale delle soluzioni (gabarito); dichiarazione ricostruita dalla soluzione. I fattori della soluzione sono i casi $\{x-55=1,\ x+55=p^3\}$ e $\{x-55=p,\ x+55=p^2\}$, dando $p^2-p=110$, $p=11$, $x=66$.]
 
 **Risposta:** 66
-[[src_obm_2007_n2_f2__Q01]]
+[[Quesiti/src_obm_2007_n2_f2#q01|src_obm_2007_n2_f2__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: OBM Nível 2
 > [Problema di valutazione numerica. La fonte è un foglio di soluzioni e la dichiarazione originale NON è presente; la soluzione stampata è una catena di calcoli con OCR di forma $(100\cdot10^{6}+3-100\cdot10^{3}\cdot3)/(10^{6}\cdot10^{3})\cdots\,100\cdot(-1)-3 = 100+97 = 197$, da cui non è possibile ricostruire fedelmente la dichiarazione esatta. Risposta per il gabarito: 197.]
 
 **Risposta:** 197
-[[src_obm_2007_n2_f2__Q02]]
+[[Quesiti/src_obm_2007_n2_f2#q02|src_obm_2007_n2_f2__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: OBM Nível 2
 > In una configurazione costruita a partire dai triangoli $PTA$, $ABD$, $BCE$ e $PQC$, con determinati angoli, determinare l'angolo richiesto. [Fonte: foglio delle soluzioni; la dichiarazione completa e la figura NON sono presenti. La soluzione calcola: $\angle STP=108^\circ$, $\angle TPA=\angle PAT=72^\circ$, quindi $\angle TPA=36^\circ$, $\angle BAD=\angle BDA=18^\circ$, $\angle ABD=144^\circ$, $\angle EBC=66^\circ$, $\angle QPC=126^\circ$, $\angle QCP=27^\circ$, $\angle ECB=57^\circ$, e una risposta finale di $174^\circ$.]
 
 **Risposta:** 174
-[[src_obm_2007_n2_f2__Q03]]
+[[Quesiti/src_obm_2007_n2_f2#q03|src_obm_2007_n2_f2__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 2
 > [I numeri $1,2,3,\ldots$ sono coinvolti; la soluzione afferma che per $n=5$, $K$ ha i numeri $5$, con $K=2608.5=13040$, e che la somma dei numeri di $K$ è $8$. La fonte è un foglio di soluzioni e la dichiarazione originale NON è recuperabile da questo testo confuso. Risposta per il gabarito: 8.]
 
 **Risposta:** 8
-[[src_obm_2007_n2_f2__Q04]]
+[[Quesiti/src_obm_2007_n2_f2#q04|src_obm_2007_n2_f2__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível 2
 > Considerate il processo iterativo applicato a un numero a quattro cifre (la routine di Kaprekar). Determinare il valore al quale la sequenza risultante diventa alla fine costante. [Fonte è la scheda delle soluzioni; l'unico testo stampato è "Dal settimo termine in poi, tutti sono uguali a 6174". L'esatta dichiarazione originale NON è presente. Risposta per il gabarito: 6174.]
 
 **Risposta:** 6174
-[[src_obm_2007_n2_f2__Q05]]
+[[Quesiti/src_obm_2007_n2_f2#q05|src_obm_2007_n2_f2__Q05]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 2
 
 > (Part B, Problem 1.) Let $ABC$ be a right triangle, and let $O$ be a point with $AO=BO=CO$ (so $O$ is the midpoint of the hypotenuse / circumcenter). A point $I$ satisfies $\angle BAI=\angle OAI=45^\circ$. Since triangle $ABC$ is right-angled, one has $AO=BO=CO$, and from $\angle BAI=\angle OAI=45^\circ$ together with the common side $AI$ the triangles $ABI$ and $AOI$ are congruent (ASA), giving $AB=BO$; with $AB=BO=AO$ the triangle $ABO$ is equilateral. Conclude the measure of $\angle ACB$. [Source is the solutions sheet; statement reconstructed from the solution, which concludes $\angle ACB=30^\circ$.]
 
-![[src_obm_2007_n2_f2__Q06.png]]
+![[src_obm_2007_n2_f2__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -179,10 +179,10 @@ level: OBM Nível 2
 
 > (Parte B, Problema 1.) Lasciate che $ABC$ sia un triangolo rettangolo, e lasciate che $O$ sia un punto con $AO=BO=CO$ (così $O$ è il punto medio dell'ipotenusa / circumcentro). Un punto $I$ soddisfa $\angle BAI=\angle OAI=45^\circ$. Poiché il triangolo $ABC$ è rettangolare, si ha $AO=BO=CO$, e da $\angle BAI=\angle OAI=45^\circ$ insieme al lato comune $AI$ i triangoli $ABI$ e $AOI$ sono congruenti (ASA), dando $AB=BO$; con $AB=BO=AO$ il triangolo $ABO$ è equilaterale. Concludere la misura di $\angle ACB$. [Fonte: foglio delle soluzioni; dichiarazione ricostruita dalla soluzione, che conclude $\angle ACB=30^\circ$.]
 
-![[src_obm_2007_n2_f2__Q06.png]]
+![[src_obm_2007_n2_f2__q06.png]]
 
 **Risposta:** 30
-[[src_obm_2007_n2_f2__Q06]]
+[[Quesiti/src_obm_2007_n2_f2#q06|src_obm_2007_n2_f2__Q06]]
 
 
 
@@ -211,7 +211,7 @@ level: OBM Nível 2
 > (Parte B, problema 2.) Una ha l'identità $(x-2)(x-3)+(x-3)(x+1)+(x+1)(x-2)=3(x-\alpha)(x-\beta)$, dove $\alpha,\beta$ sono le sue radici. Substituendo $x=-1,2,3$ si ottiene $(\alpha+1)(\beta+1)=4$, $(\alpha-2)(\beta-2)=-1$ e $(\alpha-3)(\beta-3)=\dfrac{4}{3}$. Calcolare $\dfrac{1}{(\alpha+1)(\beta+1)}+\dfrac{1}{(\alpha-2)(\beta-2)}+\dfrac{1}{(\alpha-3)(\beta-3)}$. [Fonte: foglio delle soluzioni; dichiarazione ricostruita dalla soluzione, che dà $\frac{1}{4}-1+\frac{3}{4}=0$.]
 
 **Risposta:** 0
-[[src_obm_2007_n2_f2__Q07]]
+[[Quesiti/src_obm_2007_n2_f2#q07|src_obm_2007_n2_f2__Q07]]
 
 
 
@@ -240,7 +240,7 @@ level: OBM Nível 2
 > (Parte B, problema 3.) a) Let $N=23^5-23=23\cdot(23^4-1)=23\cdot(23^2+1)(23^2-1)=23\cdot(23^2+1)(23+1)(23-1)=23\cdot530\cdot24\cdot22=2^5\cdot3\cdot5\cdot11\cdot23\cdot53$. Determinare il numero di divisori positivi di $N$ (che è $6\times2\times2\times2\times2=192$). b) Let $N=n^3-n=n(n-1)(n+1)$. Mostra che $N$ è sempre un multiple di $30$. (Tra i tre numeri interi consecutivi $n-1,n,n+1$ uno è pari e uno è un multiple di $3$; se nessuno è un multiple di $5$ allora $n\equiv2$ o $3\pmod5$, e $n^2+1$ è un multiple di $5$, quindi $n^3-n$ è un multiple di $5$. Quindi $N$ è un multiple di $2\cdot3\cdot5=30$.) [Fonte è la scheda delle soluzioni; dichiarazione ricostruita dalla soluzione. Parte-a OCR ha perso un fattore primo; il numero di divisori 192 implica $N=2^5\cdot3\cdot5\cdot11\cdot23\cdot53$.]
 
 **Risposta:** 192
-[[src_obm_2007_n2_f2__Q08]]
+[[Quesiti/src_obm_2007_n2_f2#q08|src_obm_2007_n2_f2__Q08]]
 
 
 
@@ -269,4 +269,4 @@ level: OBM Nível 2
 > (Parte B, problema 4.) Ogni cella di una scheda $n\times n$ deve essere colorata con una delle lettere $A$ o $V$, in modo che due celle orizzontali o verticalmente consecutive non abbiano la stessa lettera (ogni riga e ogni colonna sono una sequenza alternata). Una volta fissata la prima riga, viene determinato il resto della tavola: dove due lettere consecutive uguali appaiono in una riga, le due celle immediatamente sotto di esse sono costrette all'altra lettera, e così via. Determinare il numero di coloranti validi. [Fonte: scheda delle soluzioni; dichiarazione ricostruita dalla soluzione. Il conteggio generale è $2^{n+1}-2$ in un caso più $2^{n+1}$ nell'altro; per la tabella specifica del problema la risposta è $30+32=62$.]
 
 **Risposta:** 62
-[[src_obm_2007_n2_f2__Q09]]
+[[Quesiti/src_obm_2007_n2_f2#q09|src_obm_2007_n2_f2__Q09]]

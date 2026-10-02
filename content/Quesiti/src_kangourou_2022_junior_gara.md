@@ -46,7 +46,7 @@ level: kangourou
 > On the roof of a square-based building there are some buildings, also square-based, two of which have another on the roof always square-based. All the individual buildings are parallel piers. The bases are of four different sizes: 40, 20, 10 and 5 m2. They want to paint all the roofs in dark gray, as the figure suggests. How many square meters is the area to be painted? A) 1.600 B) 2.100 C) 2.150
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q01]]
+[[Quesiti/src_kangourou_2022_junior_gara#q01|src_kangourou_2022_junior_gara__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: kangourou
 > C) 16
 
 **Answer:** A
-[[src_kangourou_2022_junior_gara__Q02]]
+[[Quesiti/src_kangourou_2022_junior_gara#q02|src_kangourou_2022_junior_gara__Q02]]
 
 
 
@@ -124,7 +124,7 @@ level: kangourou
 > The figure sketches the path of an ant from point A to point B of a cylinder 20 cm high, the base of which has a diameter of 10 cm. The path is highlighted in black on the front (visible) side of the cylinder and in gray on the rear (non-visible). How long is it? A) 15π + 20 B) 20π + 20 C) 10π + 20 E) None of the previous numbers is correct.
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q03]]
+[[Quesiti/src_kangourou_2022_junior_gara#q03|src_kangourou_2022_junior_gara__Q03]]
 
 
 
@@ -178,7 +178,7 @@ level: kangourou
 > E) 16
 
 **Answer:** E
-[[src_kangourou_2022_junior_gara__Q04]]
+[[Quesiti/src_kangourou_2022_junior_gara#q04|src_kangourou_2022_junior_gara__Q04]]
 
 
 
@@ -218,7 +218,7 @@ level: kangourou
 >
 
 **Answer:** E
-[[src_kangourou_2022_junior_gara__Q05]]
+[[Quesiti/src_kangourou_2022_junior_gara#q05|src_kangourou_2022_junior_gara__Q05]]
 
 
 
@@ -259,7 +259,7 @@ level: kangourou
 > E) 2 202,2 × 2,022
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q06]]
+[[Quesiti/src_kangourou_2022_junior_gara#q06|src_kangourou_2022_junior_gara__Q06]]
 
 
 
@@ -296,7 +296,7 @@ level: kangourou
 > D) 10 E) 100
 
 **Answer:** A
-[[src_kangourou_2022_junior_gara__Q07]]
+[[Quesiti/src_kangourou_2022_junior_gara#q07|src_kangourou_2022_junior_gara__Q07]]
 
 
 
@@ -350,7 +350,7 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[src_kangourou_2022_junior_gara__Q08]]
+[[Quesiti/src_kangourou_2022_junior_gara#q08|src_kangourou_2022_junior_gara__Q08]]
 
 
 
@@ -399,7 +399,7 @@ level: kangourou
 > E) 5
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q09]]
+[[Quesiti/src_kangourou_2022_junior_gara#q09|src_kangourou_2022_junior_gara__Q09]]
 
 
 
@@ -450,7 +450,7 @@ level: kangourou
 > (E) 18 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q10]]
+[[Quesiti/src_kangourou_2022_junior_gara#q10|src_kangourou_2022_junior_gara__Q10]]
 
 
 
@@ -579,7 +579,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q11]]
+[[Quesiti/src_kangourou_2022_junior_gara#q11|src_kangourou_2022_junior_gara__Q11]]
 
 
 
@@ -630,7 +630,7 @@ level: kangourou
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q12]]
+[[Quesiti/src_kangourou_2022_junior_gara#q12|src_kangourou_2022_junior_gara__Q12]]
 
 
 
@@ -670,7 +670,7 @@ level: kangourou
 > B) 125 C) 167 D) 205 E) 233
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q13]]
+[[Quesiti/src_kangourou_2022_junior_gara#q13|src_kangourou_2022_junior_gara__Q13]]
 
 
 
@@ -709,7 +709,7 @@ level: kangourou
 > B) 337 C) 674 D) 1011 E) 1348
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q14]]
+[[Quesiti/src_kangourou_2022_junior_gara#q14|src_kangourou_2022_junior_gara__Q14]]
 
 
 
@@ -752,7 +752,7 @@ level: kangourou
 > C) 79 D) 80 E) The information is insufficient to answer.
 
 **Answer:** E
-[[src_kangourou_2022_junior_gara__Q15]]
+[[Quesiti/src_kangourou_2022_junior_gara#q15|src_kangourou_2022_junior_gara__Q15]]
 
 
 
@@ -792,7 +792,7 @@ level: kangourou
 > The figure shows a rectangle divided into 12 rectangles all of the same size. What 's the relationship between the length of the AD side and that of the DC side ? A) 8/9 B) 5/6 C) 7/8 D) 2/3 E) 9/8
 
 **Answer:** A
-[[src_kangourou_2022_junior_gara__Q16]]
+[[Quesiti/src_kangourou_2022_junior_gara#q16|src_kangourou_2022_junior_gara__Q16]]
 
 
 
@@ -832,7 +832,7 @@ level: kangourou
 >
 
 **Answer:** A
-[[src_kangourou_2022_junior_gara__Q17]]
+[[Quesiti/src_kangourou_2022_junior_gara#q17|src_kangourou_2022_junior_gara__Q17]]
 
 
 
@@ -871,7 +871,7 @@ level: kangourou
 > The figure shows a PQRS square of side 1; its center is W, while U is the midpoint of side RS. The TW, UW and VW segments divide it into three regions with the same area. How long is the SV segment? A) 1/2       B) 2/3 C) 3/4              D) 4/5 E) 5/6
 
 **Answer:** E
-[[src_kangourou_2022_junior_gara__Q18]]
+[[Quesiti/src_kangourou_2022_junior_gara#q18|src_kangourou_2022_junior_gara__Q18]]
 
 
 
@@ -927,7 +927,7 @@ level: kangourou
 > E) 5
 
 **Answer:** C
-[[src_kangourou_2022_junior_gara__Q19]]
+[[Quesiti/src_kangourou_2022_junior_gara#q19|src_kangourou_2022_junior_gara__Q19]]
 
 
 
@@ -976,7 +976,7 @@ level: kangourou
 > (C) 24 D) 30 E) 45 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q20]]
+[[Quesiti/src_kangourou_2022_junior_gara#q20|src_kangourou_2022_junior_gara__Q20]]
 
 
 
@@ -1025,7 +1025,7 @@ level: kangourou
 > E) 60
 
 **Answer:** B
-[[src_kangourou_2022_junior_gara__Q21]]
+[[Quesiti/src_kangourou_2022_junior_gara#q21|src_kangourou_2022_junior_gara__Q21]]
 
 
 
@@ -1069,7 +1069,7 @@ level: kangourou
 > C) 18 D) 17 E) 16
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q22]]
+[[Quesiti/src_kangourou_2022_junior_gara#q22|src_kangourou_2022_junior_gara__Q22]]
 
 
 
@@ -1123,7 +1123,7 @@ How many pirates were given the loot?
 > C) 72 D) 80 E) 90
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q23]]
+[[Quesiti/src_kangourou_2022_junior_gara#q23|src_kangourou_2022_junior_gara__Q23]]
 
 
 
@@ -1173,7 +1173,7 @@ How many pirates were given the loot?
 > D) 7 circles, 7 squares, 10 X. E) None of them.
 
 **Answer:** E
-[[src_kangourou_2022_junior_gara__Q24]]
+[[Quesiti/src_kangourou_2022_junior_gara#q24|src_kangourou_2022_junior_gara__Q24]]
 
 
 
@@ -1213,7 +1213,7 @@ How many pirates were given the loot?
 > A) Alberto and Bruna are both positive. B) Alberto and Bruna are both negative. C) Alberto is positive, Bruna is negative. D) Alberto is negative, Bruna is positive. E) I cannot draw any of the above conclusions.
 
 **Answer:** C
-[[src_kangourou_2022_junior_gara__Q25]]
+[[Quesiti/src_kangourou_2022_junior_gara#q25|src_kangourou_2022_junior_gara__Q25]]
 
 
 
@@ -1254,7 +1254,7 @@ How many pirates were given the loot?
 >
 
 **Answer:** C
-[[src_kangourou_2022_junior_gara__Q26]]
+[[Quesiti/src_kangourou_2022_junior_gara#q26|src_kangourou_2022_junior_gara__Q26]]
 
 
 
@@ -1298,7 +1298,7 @@ How many pirates were given the loot?
 > C) 15,75 D) 16,5 E) 17,5 F
 
 **Answer:** E
-[[src_kangourou_2022_junior_gara__Q27]]
+[[Quesiti/src_kangourou_2022_junior_gara#q27|src_kangourou_2022_junior_gara__Q27]]
 
 
 
@@ -1345,7 +1345,7 @@ How many pirates were given the loot?
 > E) 24
 
 **Answer:** D
-[[src_kangourou_2022_junior_gara__Q28]]
+[[Quesiti/src_kangourou_2022_junior_gara#q28|src_kangourou_2022_junior_gara__Q28]]
 
 
 
@@ -1380,7 +1380,7 @@ How many pirates were given the loot?
 > The figure shows five circles of centers A, B, C, D, E, each externally tangent to the two edges, and the convex pentagon whose vertices are the centers of the circles. The lengths of the sides of the pentagon are as follows: AB = 16, BC = 14, CD = 17, DE = 13, AE = 14 (the figure is indicative only, not scale). What?
 
 **Answer:** A
-[[src_kangourou_2022_junior_gara__Q29]]
+[[Quesiti/src_kangourou_2022_junior_gara#q29|src_kangourou_2022_junior_gara__Q29]]
 
 
 
@@ -1501,4 +1501,4 @@ How many pirates were given the loot?
 > E) E A B C D P G
 
 **Answer:** C
-[[src_kangourou_2022_junior_gara__Q30]]
+[[Quesiti/src_kangourou_2022_junior_gara#q30|src_kangourou_2022_junior_gara__Q30]]

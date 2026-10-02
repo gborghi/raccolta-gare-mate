@@ -34,7 +34,7 @@ level: kangourou
 > The sides of a quadrilateral measure $1, 4, 7, 8$. What's your maximum area?
 
 **Answer:** 18
-[[src_kangourou_2018_student_finale__Q01]]
+[[Quesiti/src_kangourou_2018_student_finale#q01|src_kangourou_2018_student_finale__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > From a standard 52-card deck, Chiara discarded some cards, making sure all four axes remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four axes is $\frac{1}{1001}$, how many cards did you throw away?
 
 **Answer:** 38
-[[src_kangourou_2018_student_finale__Q02]]
+[[Quesiti/src_kangourou_2018_student_finale#q02|src_kangourou_2018_student_finale__Q02]]
 
 
 
@@ -92,7 +92,7 @@ Show that the solution of x^5+x=10 is irrational
 > It already considers that the $x^5 + x = 10$ equation admits only one solution (real positive). It shows that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
 
 **Answer:** irrazionale (dim.)
-[[src_kangourou_2018_student_finale__Q03]]
+[[Quesiti/src_kangourou_2018_student_finale#q03|src_kangourou_2018_student_finale__Q03]]
 
 
 
@@ -121,7 +121,7 @@ Show that the solution of x^5+x=10 is irrational
 > It shows that a 20-digit (decimal) integer whose first 11 digits (left) are all $``1"$ cannot be a perfect square.
 
 **Answer:** non quadrato (dim.)
-[[src_kangourou_2018_student_finale__Q04]]
+[[Quesiti/src_kangourou_2018_student_finale#q04|src_kangourou_2018_student_finale__Q04]]
 
 
 
@@ -150,7 +150,7 @@ Show that the solution of x^5+x=10 is irrational
 > Imagine the plane as a square sheet (all on the same side) boundless in every direction and call **node** each vertex of each square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
 
 **Answer:** esiste sempre (dim.)
-[[src_kangourou_2018_student_finale__Q05]]
+[[Quesiti/src_kangourou_2018_student_finale#q05|src_kangourou_2018_student_finale__Q05]]
 
 
 
@@ -183,4 +183,4 @@ Show that the solution of x^5+x=10 is irrational
 > Call each convex equilateral polygon **rumbus** if it is possible to dial it with a finite number of rumbes having the same side of the polygon. It shall characterize as explicitly as possible all convex equilateral polygons.
 
 **Answer:** lati a coppie paralleli
-[[src_kangourou_2018_student_finale__Q06]]
+[[Quesiti/src_kangourou_2018_student_finale#q06|src_kangourou_2018_student_finale__Q06]]

@@ -33,7 +33,7 @@ level: IMO
 
 > Let $f(x) = x^n + 5x^{n-1} + 3$, where $n > 1$ is an integer. Prove that $f(x)$ cannot be expressed as the product of two nonconstant polynomials with integer coefficients.
 
-[[src_imho_1993__Q01]]
+[[Quesiti/src_imho_1993#q01|src_imho_1993__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: IMO
 > 
 > (b) Prove that the tangents at $C$ to the circumcircles of $\triangle ACD$ and $\triangle BCD$ are perpendicular.
 
-[[src_imho_1993__Q02]]
+[[Quesiti/src_imho_1993#q02|src_imho_1993__Q02]]
 
 
 
@@ -99,7 +99,7 @@ Chessboard game: find n for one piece remaining
 > 
 > Find those values of $n$ for which the game can end with only one piece remaining on the board.
 
-[[src_imho_1993__Q03]]
+[[Quesiti/src_imho_1993#q03|src_imho_1993__Q03]]
 
 
 
@@ -131,7 +131,7 @@ Triangle inequality with altitudes of triangle PQR
 > 
 > Prove that for points $A$, $B$, $C$, $X$ in the plane, $$m(ABC) \le m(ABX) + m(AXC) + m(XBC).$$
 
-[[src_imho_1993__Q04]]
+[[Quesiti/src_imho_1993#q04|src_imho_1993__Q04]]
 
 
 
@@ -158,7 +158,7 @@ Triangle inequality with altitudes of triangle PQR
 
 > Does there exist a function $f : \mathbf{N} \to \mathbf{N}$ such that $f(1) = 2$, $f(f(n)) = f(n) + n$ for all $n \in \mathbf{N}$, and $f(n) < f(n+1)$ for all $n \in \mathbf{N}$?
 
-[[src_imho_1993__Q05]]
+[[Quesiti/src_imho_1993#q05|src_imho_1993__Q05]]
 
 
 
@@ -197,4 +197,4 @@ Triangle inequality with altitudes of triangle PQR
 > 
 > (c) If $n = 2^k + 1$, we can take $M(n) = n^2 - n + 1$.
 
-[[src_imho_1993__Q06]]
+[[Quesiti/src_imho_1993#q06|src_imho_1993__Q06]]

@@ -19,7 +19,7 @@ level: China Mathematical Competition (Second Round)
 
 > (40 marks) As shown in Fig. 1.1, in isosceles $\triangle ABC$, $AB = BC$, and $I$ is its incentre. $M$ is the midpoint of $BI$. $P$ lies on side $AC$, satisfying $AP = 3PC$. Point $H$ on the extension of $PI$ satisfy $MH \perp PH$. $Q$ is the midpoint of the minor arc of the circumcircle of $\triangle ABC$. Prove that $BH \perp QH$.
 
-![[src_cn_cmc-second-round_2020__Q01.png]]
+![[src_cn_cmc-second-round_2020__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -37,9 +37,9 @@ level: China Mathematical Competition (Second Round)
 
 > 40 punti) Come mostrato alla figura 1.1, nelle isosceles $\triangle ABC$, $AB = BC$ e $I$ è il suo incentro. $M$ è il punto medio di $BI$. $P$ si trova sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$ sull'estensione di $PI$ soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore del circoncircolo di $\triangle ABC$. Prove che $BH \perp QH$.
 
-![[src_cn_cmc-second-round_2020__Q01.png]]
+![[src_cn_cmc-second-round_2020__q01.png]]
 
-[[src_cn_cmc-second-round_2020__Q01]]
+[[Quesiti/src_cn_cmc-second-round_2020#q01|src_cn_cmc-second-round_2020__Q01]]
 
 
 
@@ -52,7 +52,7 @@ level: China Mathematical Competition (Second Round)
 
 > (40 marks) Given integer $n \ge 3$, let $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ be non-negative real numbers, satisfying $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. And for any $i = 1, 2, \ldots, 2n$, there is $a_i a_{i+2} \ge b_i + b_{i+1}$, where $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Find the minimum of $a_1 + a_2 + \cdots + a_{2n}$.
 
-![[src_cn_cmc-second-round_2020__Q02.png]]
+![[src_cn_cmc-second-round_2020__q02.png]]
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -70,9 +70,9 @@ level: China Mathematical Competition (Second Round)
 
 > (40 marchi) Dato il numero intero $n \ge 3$, $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ sia un numero reale non negativo, soddisfacente $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. E per qualsiasi $i = 1, 2, \ldots, 2n$, c'è $a_i a_{i+2} \ge b_i + b_{i+1}$, dove $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Trova il minimo di $a_1 + a_2 + \cdots + a_{2n}$.
 
-![[src_cn_cmc-second-round_2020__Q02.png]]
+![[src_cn_cmc-second-round_2020__q02.png]]
 
-[[src_cn_cmc-second-round_2020__Q02]]
+[[Quesiti/src_cn_cmc-second-round_2020#q02|src_cn_cmc-second-round_2020__Q02]]
 
 
 
@@ -85,7 +85,7 @@ level: China Mathematical Competition (Second Round)
 
 > (50 marks) Let $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Prove that for integer $n \ge 5$, $a_n$ must have a prime factor that is congruent to 1 modulo 4.
 
-![[src_cn_cmc-second-round_2020__Q03.png]]
+![[src_cn_cmc-second-round_2020__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
@@ -103,9 +103,9 @@ level: China Mathematical Competition (Second Round)
 
 > (50 punti) Let $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Prova che per un intero $n \ge 5$, $a_n$ deve avere un fattore primo congruente a 1 modulo 4.
 
-![[src_cn_cmc-second-round_2020__Q03.png]]
+![[src_cn_cmc-second-round_2020__q03.png]]
 
-[[src_cn_cmc-second-round_2020__Q03]]
+[[Quesiti/src_cn_cmc-second-round_2020#q03|src_cn_cmc-second-round_2020__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: China Mathematical Competition (Second Round)
 > (50 marchi) Con un poligono convexo a 20 lati $P$. Dividendo $P$ in 18 triangoli per le sue 17 diagonali non intersezionate all'interno, il grafico risultante è chiamato grafico di triangolazione di $P$. Per qualsiasi grafico di triangolazione $T$ di $P$, i 20 bordi di $P$ e le 17 diagonali aggiunte sono entrambi chiamati bordi di $T$. L'insieme di qualsiasi 10 bordi di $T$ senza punti di fine comuni tra due bordi è chiamato una corrispondenza perfetta di $T$. Quando $T$ prende tutti i grafici di triangolazione di $P$, trova il numero massimo di abbinamenti perfetti di $T$.
 
 **Risposta:** 89
-[[src_cn_cmc-second-round_2020__Q04]]
+[[Quesiti/src_cn_cmc-second-round_2020#q04|src_cn_cmc-second-round_2020__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: China Mathematical Competition (Second Round)
 
 > 40 punti) Come mostrato alla figura 1.1, $A$, $B$, $C$, $D$, $E$ sono cinque punti in ordine sul cerchio $\Omega$, soddisfacendo $\overset{\frown}{ABC} = \overset{\frown}{BCD} = \overset{\frown}{CDE}$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AD$ e $BE$ e $P$ si trovano sul segmento $CQ$. Prove che $\angle PAQ = \angle PEQ$.
 
-[[src_cn_cmc-second-round_2020__Q05]]
+[[Quesiti/src_cn_cmc-second-round_2020#q05|src_cn_cmc-second-round_2020__Q05]]
 
 
 
@@ -200,7 +200,7 @@ level: China Mathematical Competition (Second Round)
 > (40 punti) Dato che il set $A = \{1, 2, \ldots, 19\}$ non è vuoto, esistono sottosette $S_1$, $S_2$ del set $A$ che soddisfano le seguenti condizioni? (1) $S_1 \cap S_2 = \varnothing$, $S_1 \cup S_2 = A$; (2) $S_1$ e $S_2$ hanno entrambi almeno quattro elementi; (3) la somma di tutti gli elementi di $S_1$ è pari al prodotto di tutti gli elementi di $S_2$. Prova la tua conclusione.
 
 **Risposta:** Yes
-[[src_cn_cmc-second-round_2020__Q06]]
+[[Quesiti/src_cn_cmc-second-round_2020#q06|src_cn_cmc-second-round_2020__Q06]]
 
 
 
@@ -233,7 +233,7 @@ level: China Mathematical Competition (Second Round)
 > (50 marchi) Con un numero intero $n \ge 2$, $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n > 0$, soddisfacente $$a_1 + a_2 + \cdots + a_n = b_1 + b_2 + \cdots + b_n$$ e c'è sempre $a_i a_j \ge b_i + b_j$ per qualsiasi $i, j$ $(1 \le i < j \le n)$. Trova il valore minimo di $a_1 + a_2 + \cdots + a_n$.
 
 **Risposta:** $2n$
-[[src_cn_cmc-second-round_2020__Q07]]
+[[Quesiti/src_cn_cmc-second-round_2020#q07|src_cn_cmc-second-round_2020__Q07]]
 
 
 
@@ -264,4 +264,4 @@ level: China Mathematical Competition (Second Round)
 > (50 marchi) $a, b$ siano integri positivi non superiori a 12 che soddisfino l'esistenza di una costante $C$ tale che $a^n + b^{n+9} \equiv C \pmod{13}$ sia valida per qualsiasi integro positivo $n$. Trova tutte le coppie ordinate $(a, b)$ che soddisfano le condizioni.
 
 **Risposta:** $(1,1),(4,4),(10,10),(12,12)$
-[[src_cn_cmc-second-round_2020__Q08]]
+[[Quesiti/src_cn_cmc-second-round_2020#q08|src_cn_cmc-second-round_2020__Q08]]

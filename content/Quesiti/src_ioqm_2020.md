@@ -35,7 +35,7 @@ level: IOQM
 > Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AB = 3CD$. Il punto medio della diagonale $BD$ è $E$. Se $[ABCD] = n \times [CDE]$, qual è il valore di $n$? (Qui $[\Gamma]$ indica l'area della figura geometrica $\Gamma$.)
 
 **Risposta:** 6
-[[src_ioqm_2020__Q01]]
+[[Quesiti/src_ioqm_2020#q01|src_ioqm_2020__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: IOQM
 > Un numero $N$ nella base 10 è $503$ nella base $b$ e $305$ nella base $b + 2$. Qual è il prodotto delle cifre di $N$?
 
 **Risposta:** 45
-[[src_ioqm_2020__Q02]]
+[[Quesiti/src_ioqm_2020#q02|src_ioqm_2020__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: IOQM
 > Se $\displaystyle\sum_{k=1}^{N} \frac{2k+1}{(k^2+k)^2} = 0.9999$, determinare il valore di $N$.
 
 **Risposta:** 100
-[[src_ioqm_2020__Q03]]
+[[Quesiti/src_ioqm_2020#q03|src_ioqm_2020__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: IOQM
 
 > Il $ABCD$ deve essere un rettangolo in cui $AB + BC + CD = 20$ e $AE = 9$, in cui $E$ è il punto medio del lato $BC$. Trova l'area del rettangolo.
 
-[[src_ioqm_2020__Q04]]
+[[Quesiti/src_ioqm_2020#q04|src_ioqm_2020__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: IOQM
 > Trovare il numero di soluzioni integrali a $\big||x| - 2020\big| < 5$.
 
 **Risposta:** 18
-[[src_ioqm_2020__Q05]]
+[[Quesiti/src_ioqm_2020#q05|src_ioqm_2020__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: IOQM
 > Qual è il numero intero meno positivo per cui $2^3 \cdot 3^6 \cdot 4^5 \cdot 5^7 \cdot 6^8$ deve essere moltiplicato in modo che il prodotto sia un quadrato perfetto?
 
 **Risposta:** 30
-[[src_ioqm_2020__Q06]]
+[[Quesiti/src_ioqm_2020#q06|src_ioqm_2020__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: IOQM
 
 > Che $ABC$ sia un triangolo con $AB = AC$. Il punto $D$ deve essere un punto del segmento $BC$ tale che $BD = 48$ e $DC = 61$. Il $E$ deve essere un punto su $AD$ tale che $CE$ sia perpendicolare a $AD$ e $DC = 61$. Trova $AE$.
 
-[[src_ioqm_2020__Q07]]
+[[Quesiti/src_ioqm_2020#q07|src_ioqm_2020__Q07]]
 
 
 
@@ -230,7 +230,7 @@ level: IOQM
 
 > Un numero a 5 cifre (in base 10) ha cifre $k, k+1, k+2, 3k, k+3$ in quell'ordine, da sinistra a destra. Se questo numero è $m^2$ per un certo numero naturale $m$, trovare la somma delle cifre di $m$.
 
-[[src_ioqm_2020__Q08]]
+[[Quesiti/src_ioqm_2020#q08|src_ioqm_2020__Q08]]
 
 
 
@@ -256,7 +256,7 @@ level: IOQM
 
 > Si deve $ABC$ essere un triangolo con $AB = 5$, $AC = 4$, $BC = 6$. Il bisettore di angolo interno di $C$ interseca il lato $AB$ a $D$. I punti $M$ e $N$ sono presi sui lati $BC$ e $AC$, rispettivamente, in modo tale che $DM \parallel AC$ e $DN \parallel BC$. Se $\frac{(MN)^2}{p} = \frac{p}{q}$ dove $p$ e $q$ sono numeri interi relativamente primi positivi, qual è la somma dei numeri di $p - q$?
 
-[[src_ioqm_2020__Q09]]
+[[Quesiti/src_ioqm_2020#q09|src_ioqm_2020__Q09]]
 
 
 
@@ -283,7 +283,7 @@ level: IOQM
 
 > Cinque studenti fanno un test in cui è possibile ottenere un punteggio di un numero intero da 0 a 100 inclusi. Qual è la differenza più grande possibile tra la media e la media dei punteggi? (La media di un insieme di punteggi è il punteggio più medio quando i dati sono organizzati in ordine crescente. È esattamente il punteggio medio quando ci sono un numero impar di punteggi, ed è la media dei due punteggi medi quando ci sono un numero pari di punteggi.)
 
-[[src_ioqm_2020__Q10]]
+[[Quesiti/src_ioqm_2020#q10|src_ioqm_2020__Q10]]
 
 
 
@@ -310,7 +310,7 @@ level: IOQM
 
 > Let $X = \{-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5\}$ e $S = \{(a, b) \in X \times X : x^2 + ax + b \text{ and } x^2 + bx + a \text{ have at least a common real zero}\}$. Quanti elementi ci sono in $S$?
 
-[[src_ioqm_2020__Q11]]
+[[Quesiti/src_ioqm_2020#q11|src_ioqm_2020__Q11]]
 
 
 
@@ -323,7 +323,7 @@ level: IOQM
 
 > Given a pair of concentric circles, chords $AB, BC, CD, \ldots$ of the outer circle are drawn such that they all touch the inner circle. If $\angle ABC = 75^\circ$, how many chords can be drawn before returning to the starting point?
 
-![[src_ioqm_2020__Q12.png]]
+![[src_ioqm_2020__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
@@ -339,10 +339,10 @@ level: IOQM
 
 > Dato un paio di cerchi concentrici, gli accordi $AB, BC, CD, \ldots$ del cerchio esterno sono disegnati in modo tale che tutti toccino il cerchio interno. Se $\angle ABC = 75^\circ$, quanti accordi possono essere disegnati prima di tornare al punto di partenza?
 
-![[src_ioqm_2020__Q12.png]]
+![[src_ioqm_2020__q12.png]]
 
 **Risposta:** 24
-[[src_ioqm_2020__Q12]]
+[[Quesiti/src_ioqm_2020#q12|src_ioqm_2020__Q12]]
 
 
 
@@ -369,7 +369,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > Trova la somma di tutti gli integri positivi $n$ per i quali $|2^n + 5^n - 65|$ è un quadrato perfetto.
 
-[[src_ioqm_2020__Q13]]
+[[Quesiti/src_ioqm_2020#q13|src_ioqm_2020__Q13]]
 
 
 
@@ -396,7 +396,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > Il prodotto $55 \times 60 \times 65$ è scritto come prodotto di cinque diversi numeri interi positivi. Qual è il minimo valore possibile del più grande di questi interi?
 
-[[src_ioqm_2020__Q14]]
+[[Quesiti/src_ioqm_2020#q14|src_ioqm_2020__Q14]]
 
 
 
@@ -423,7 +423,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > Tre coppie si siedono per una fotografia in due righe di tre persone ciascuna in modo tale che nessuna coppia sia seduta nella stessa fila accanto all'altra o nella stessa colonna una dietro l'altra. Quanti accordi sono possibili?
 
-[[src_ioqm_2020__Q15]]
+[[Quesiti/src_ioqm_2020#q15|src_ioqm_2020__Q15]]
 
 
 
@@ -449,7 +449,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > I lati $x$ e $y$ di un triangolo scaleno soddisfano $x + \dfrac{2\Delta}{x} = y + \dfrac{2\Delta}{y}$, dove $\Delta$ è l'area del triangolo. Se $x = 60$, $y = 63$, qual è la lunghezza del lato più grande del triangolo?
 
-[[src_ioqm_2020__Q16]]
+[[Quesiti/src_ioqm_2020#q16|src_ioqm_2020__Q16]]
 
 
 
@@ -476,7 +476,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > Quanti numeri a due cifre hanno esattamente 4 fattori positivi? (Qui 1 e il numero $n$ sono considerati anche fattori di $n$.)
 
-[[src_ioqm_2020__Q17]]
+[[Quesiti/src_ioqm_2020#q17|src_ioqm_2020__Q17]]
 
 
 
@@ -503,7 +503,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > Se $\displaystyle\sum_{k=0}^{\infty} \left( \sqrt{1 + \frac{1}{k^2} + \frac{1}{(k+1)^2}} \right) = a + \frac{b}{c}$ dove $a, b, c \in \mathbb{N}$, $b < c$, $\gcd(b, c) = 1$, qual è il valore di $a + b$?
 
-[[src_ioqm_2020__Q18]]
+[[Quesiti/src_ioqm_2020#q18|src_ioqm_2020__Q18]]
 
 
 
@@ -529,7 +529,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 
 > $ABCD$ sia un parallelo. $E$ e $F$ siano rispettivamente i punti intermedi di $AB$ e $BC$. Le linee $EC$ e $FD$ si incrociano a $P$ e formano quattro triangoli $APB$, $BPC$, $CPD$ e $DPA$. Se l'area del parallelo è di 100 sq. unità, qual è la superficie massima in sq. unità di un triangolo tra questi quattro triangoli?
 
-[[src_ioqm_2020__Q19]]
+[[Quesiti/src_ioqm_2020#q19|src_ioqm_2020__Q19]]
 
 
 
@@ -555,7 +555,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Un gruppo di donne che lavorano insieme allo stesso ritmo può costruire un muro in 45 ore. Quando l'opera iniziò, non tutte le donne iniziarono a lavorare insieme. Si univano al lavoro nel corso di un periodo di tempo, uno dopo l'altro, a uguali intervalli. Una volta al lavoro, ciascuno rimaneva fino a quando il lavoro era finito. Se la prima donna ha lavorato 5 volte più ore dell'ultima donna, per quante ore ha lavorato la prima donna?
 
-[[src_ioqm_2020__Q20]]
+[[Quesiti/src_ioqm_2020#q20|src_ioqm_2020__Q20]]
 
 
 
@@ -581,7 +581,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Un totale di $N$ mille rupie viene versato ogni anno a tre persone $A, B, C$, a ciascuna una somma proporzionale alla sua età. Nel primo anno, $A$ ha ottenuto il sesto settimo dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ottenuto 1000 rupie in meno rispetto al primo anno; e $C$ ha ottenuto il doppio di quello che aveva nel primo anno. Trova $N$.
 
-[[src_ioqm_2020__Q21]]
+[[Quesiti/src_ioqm_2020#q21|src_ioqm_2020__Q21]]
 
 
 
@@ -609,7 +609,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 > Nel triangolo $ABC$, $P$ e $R$ siano i piedi delle perpendicolari da $A$ ai bisettici esterni e interni di $\angle ABC$, rispettivamente; e $Q$ e $S$ siano i piedi delle perpendicolari da $A$ ai bisettici interni ed esterni di $\angle ACB$, rispettivamente. Se $PQ = 7$, $QR = 6$ e $RS = 8$, qual è la superficie del triangolo $ABC$?
 
 **Risposta:** 84
-[[src_ioqm_2020__Q22]]
+[[Quesiti/src_ioqm_2020#q22|src_ioqm_2020__Q22]]
 
 
 
@@ -635,7 +635,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > L'incircolo $\Gamma$ di un triangolo di scalene $ABC$ tocca $BC$ a $D$, $CA$ a $E$ e $AB$ a $F$. Il $r_A$ deve essere il raggio del cerchio all'interno di $ABC$ che è tangente a $\Gamma$ e ai lati $AB$ e $AC$. Definire $r_B$ e $r_C$ in modo simile. Se $r_A = 16$, $r_B = 25$ e $r_C = 36$, determinare il raggio di $\Gamma$.
 
-[[src_ioqm_2020__Q23]]
+[[Quesiti/src_ioqm_2020#q23|src_ioqm_2020__Q23]]
 
 
 
@@ -662,7 +662,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Una fonte luminosa al punto $(0, 16)$ del piano di coordinate lancia luce in tutte le direzioni. Un disco (un cerchio con il suo interno) di raggio 2 con il centro a $(6, 10)$ lancia un'ombra sull'asse $X$. La lunghezza dell'ombra può essere scritta nella forma $m\sqrt{n}$, dove $m, n$ sono numeri interi positivi e $n$ è quadrato libero. Trova $m + n$.
 
-[[src_ioqm_2020__Q24]]
+[[Quesiti/src_ioqm_2020#q24|src_ioqm_2020__Q24]]
 
 
 
@@ -689,7 +689,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Per un numero intero positivo $n$, $\langle n \rangle$ indica il numero intero quadrato perfetto più vicino a $n$. Ad esempio, $\langle 74 \rangle = 81$, $\langle 18 \rangle = 16$. Se $N$ è il numero intero positivo più piccolo tale che $$\langle 91 \rangle \cdot \langle 120 \rangle \cdot \langle 143 \rangle \cdot \langle 180 \rangle \cdot N = 91 \cdot 120 \cdot 143 \cdot 180 \cdot N,$$ trovi la somma dei quadrati delle cifre di $N$.
 
-[[src_ioqm_2020__Q25]]
+[[Quesiti/src_ioqm_2020#q25|src_ioqm_2020__Q25]]
 
 
 
@@ -702,7 +702,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > In the figure below, 4 of the 6 disks are to be colored black and 2 are to be colored white. Two colorings that can be obtained from one another by a rotation or a reflection of the entire figure are considered the same. There are only four such colorings for the given two colors, as shown in Figure 1. In how many ways can we color the 6 disks such that 2 are colored black, 2 are colored blue with the given identification condition?
 
-![[src_ioqm_2020__Q26.png]]
+![[src_ioqm_2020__q26.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
@@ -718,9 +718,9 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Nella figura seguente, 4 dei 6 dischi devono essere di colore nero e 2 di colore bianco. Due colori che possono essere ottenuti l'uno dall'altro mediante una rotazione o un riflesso dell'intera figura sono considerati uguali. Esistono solo quattro colori di questo tipo per i due colori indicati, come mostrato alla figura 1. In quanti modi possiamo colorare i 6 dischi in modo che 2 siano di colore nero, 2 siano di colore blu con la condizione di identificazione data?
 
-![[src_ioqm_2020__Q26.png]]
+![[src_ioqm_2020__q26.png]]
 
-[[src_ioqm_2020__Q26]]
+[[Quesiti/src_ioqm_2020#q26|src_ioqm_2020__Q26]]
 
 
 
@@ -747,7 +747,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Un bug viaggia nel piano delle coordinate muovendosi solo lungo le linee parallele all'asse $x$ o all'asse $y$. Let $A = (-3, 2)$ e $B = (3, -2)$. Considera tutti i percorsi possibili del bug da $A$ a $B$ di lunghezza massima 14. Quanti punti con coordinate interi si trovano su almeno uno di questi percorsi?
 
-[[src_ioqm_2020__Q27]]
+[[Quesiti/src_ioqm_2020#q27|src_ioqm_2020__Q27]]
 
 
 
@@ -774,7 +774,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Si dice che un numero naturale $n$ sia buono se $n$ è la somma di $r$ interi positivi consecutivi, per alcuni $r \ge 2$. Trova il numero di numeri buoni nell'insieme $\{1, 2, \ldots, 100\}$.
 
-[[src_ioqm_2020__Q28]]
+[[Quesiti/src_ioqm_2020#q28|src_ioqm_2020__Q28]]
 
 
 
@@ -801,7 +801,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > I numeri interi positivi $a, b, c$ soddisfano $\dfrac{ab}{a - b} = c$. Qual è il valore più grande possibile di $a + b + c$ non superiore a 99?
 
-[[src_ioqm_2020__Q29]]
+[[Quesiti/src_ioqm_2020#q29|src_ioqm_2020__Q29]]
 
 
 
@@ -828,4 +828,4 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 
 > Trova il numero di coppie $(a, b)$ di numeri naturali in modo tale che $a + 1$ divida $b - 1$ e $b$ divida $a^2 + 2$.
 
-[[src_ioqm_2020__Q30]]
+[[Quesiti/src_ioqm_2020#q30|src_ioqm_2020__Q30]]

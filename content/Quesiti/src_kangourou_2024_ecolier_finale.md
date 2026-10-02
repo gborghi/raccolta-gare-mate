@@ -34,7 +34,7 @@ level: kangourou
 > Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press the digit 0, otherwise it leaves it unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result?
 
 **Answer:** 1089
-[[src_kangourou_2024_ecolier_finale__QE1]]
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe1|src_kangourou_2024_ecolier_finale__QE1]]
 
 
 
@@ -45,7 +45,7 @@ level: kangourou
 
 *Minimo numero di chiavi e disposizione fra quattro amici*
 
-![[src_kangourou_2024_ecolier_finale__probE2.png]]
+![[src_kangourou_2024_ecolier_finale__probe2.png]]
 
 ```tikz
 \begin{document}
@@ -85,7 +85,7 @@ level: kangourou
 
 *Minimum number of keys and arrangement between four friends*
 
-![[src_kangourou_2024_ecolier_finale__probE2.png]]
+![[src_kangourou_2024_ecolier_finale__probe2.png]]
 
 ```tikz
 \begin{document}
@@ -113,7 +113,7 @@ level: kangourou
 > Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to your own home that each of you must leave to your friends, considering them as a whole? And how are the left keys to be arranged?
 
 **Answer:** 1
-[[src_kangourou_2024_ecolier_finale__QE2]]
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe2|src_kangourou_2024_ecolier_finale__QE2]]
 
 
 
@@ -141,7 +141,7 @@ level: kangourou
 > A liquid gas can is full and weighs 28 kilos. Initially, half of the content is consumed. After some time, half of the remaining contents are consumed, and at that point the weight of the pump and the remaining ones have dropped to 10 pounds. How many pounds does the empty flask weigh?
 
 **Answer:** 4
-[[src_kangourou_2024_ecolier_finale__QE3]]
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe3|src_kangourou_2024_ecolier_finale__QE3]]
 
 
 
@@ -169,7 +169,7 @@ level: kangourou
 > In the strange language of Kangland, the words yes and no are translated into KAB and BAK, but not necessarily in this order. You meet a person you can trust who speaks both Italian and Kangal and ask them: Is it true that KAB means 'yes'? The person replies: KAB. Can you tell if KAB means yes or no?
 
 **Answer:** no
-[[src_kangourou_2024_ecolier_finale__QE4]]
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe4|src_kangourou_2024_ecolier_finale__QE4]]
 
 
 
@@ -198,7 +198,7 @@ What numbers could Bruno have written (maximum sum)
 > Alice wrote a three-digit integer (if greater than 99), Bruno wrote a two-digit integer (if greater than 9) and Carla a one-digit integer. The case decided that the six digits that make up the three numbers should all be different from each other and that the sum of the three numbers should be as large as possible under these conditions. What are the numbers that Bruno could have written?
 
 **Answer:** 86,85,84,76,75,74
-[[src_kangourou_2024_ecolier_finale__QE5]]
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe5|src_kangourou_2024_ecolier_finale__QE5]]
 
 
 
@@ -227,4 +227,4 @@ What numbers could Bruno have written (maximum sum)
 > Eight objects are aligned. They need to be painted four in red, three in blue and one in yellow, but so that adjacent objects receive different colors. How many different colours are eligible?
 
 **Answer:** 14
-[[src_kangourou_2024_ecolier_finale__QE6]]
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe6|src_kangourou_2024_ecolier_finale__QE6]]

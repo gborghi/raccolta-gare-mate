@@ -20,7 +20,7 @@ level: Semifinale di Primavera
 > Sulle facce di un dado compaiono i punti corrispondenti ai numeri naturali da 1 a 6. Le facce visibili in figura mostrano, complessivamente, 13 punti.
 > **Quanti punti non sono visibili ?**
 
-![[src_bocconi_primavera_2008__Q01.png]]
+![[src_bocconi_primavera_2008__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -37,10 +37,10 @@ level: Semifinale di Primavera
 
 > On the faces of a dice, the points corresponding to the natural numbers 1 to 6 appear. The faces shown in the figure show a total of 13 points. **How many dots are not visible? **
 
-![[src_bocconi_primavera_2008__Q01.png]]
+![[src_bocconi_primavera_2008__q01.png]]
 
 **Answer:** 29
-[[src_bocconi_primavera_2008__Q01]]
+[[Quesiti/src_bocconi_primavera_2008#q01|src_bocconi_primavera_2008__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: Semifinale di Primavera
 > The general test of the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the figures for 8.3.2008 is odd. **What is the previous date composed solely of odd numbers? **
 
 **Answer:** 19.11.1999
-[[src_bocconi_primavera_2008__Q02]]
+[[Quesiti/src_bocconi_primavera_2008#q02|src_bocconi_primavera_2008__Q02]]
 
 
 
@@ -83,7 +83,7 @@ level: Semifinale di Primavera
 
 > **Se ponete il numero della figura davanti ad uno specchio, quale numero vedete ?**
 
-![[src_bocconi_primavera_2008__Q03.png]]
+![[src_bocconi_primavera_2008__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
@@ -99,10 +99,10 @@ level: Semifinale di Primavera
 
 > If you put the figure number in front of a mirror, what number do you see?
 
-![[src_bocconi_primavera_2008__Q03.png]]
+![[src_bocconi_primavera_2008__q03.png]]
 
 **Answer:** 2905
-[[src_bocconi_primavera_2008__Q03]]
+[[Quesiti/src_bocconi_primavera_2008#q03|src_bocconi_primavera_2008__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: Semifinale di Primavera
 > From the Math City station at noon, four trains depart simultaneously to Milan, Rome, Bari and Venice. Those to Milan then leave every 40 minutes; those to Rome every 20 minutes; those to Bari every 15 minutes; those to Venice, finally, every 30 minutes. What time (after noon) will the four trains start again simultaneously for the first time?
 
 **Answer:** 14:00
-[[src_bocconi_primavera_2008__Q04]]
+[[Quesiti/src_bocconi_primavera_2008#q04|src_bocconi_primavera_2008__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Semifinale di Primavera
 
 > **Quanti triangoli vedi in figura ?**
 
-![[src_bocconi_primavera_2008__Q05.png]]
+![[src_bocconi_primavera_2008__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -161,10 +161,10 @@ level: Semifinale di Primavera
 
 > How many triangles do you see in the figure?
 
-![[src_bocconi_primavera_2008__Q05.png]]
+![[src_bocconi_primavera_2008__q05.png]]
 
 **Answer:** 7
-[[src_bocconi_primavera_2008__Q05]]
+[[Quesiti/src_bocconi_primavera_2008#q05|src_bocconi_primavera_2008__Q05]]
 
 
 
@@ -194,7 +194,7 @@ level: Semifinale di Primavera
 > There are eight teams competing in the school basketball tournament. Each team only meets the others once. **How many matches will be played in the tournament? **
 
 **Answer:** 28
-[[src_bocconi_primavera_2008__Q06]]
+[[Quesiti/src_bocconi_primavera_2008#q06|src_bocconi_primavera_2008__Q06]]
 
 
 
@@ -223,7 +223,7 @@ level: Semifinale di Primavera
 > **How many diagonals is a hexagon? **
 
 **Answer:** 9
-[[src_bocconi_primavera_2008__Q07]]
+[[Quesiti/src_bocconi_primavera_2008#q07|src_bocconi_primavera_2008__Q07]]
 
 
 
@@ -237,7 +237,7 @@ level: Semifinale di Primavera
 > Sulla calcolatrice, ogni cifra (vedi la figura) si accende grazie all'illuminazione di alcuni trattini.
 > **Qual è il più grande numero intero composto complessivamente da 7 trattini ?**
 
-![[src_bocconi_primavera_2008__Q08.png]]
+![[src_bocconi_primavera_2008__q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -254,10 +254,10 @@ level: Semifinale di Primavera
 
 > On the calculator, each figure (see figure) is lit by illuminating certain lines. What is the largest integer consisting of 7 lines?
 
-![[src_bocconi_primavera_2008__Q08.png]]
+![[src_bocconi_primavera_2008__q08.png]]
 
 **Answer:** 711
-[[src_bocconi_primavera_2008__Q08]]
+[[Quesiti/src_bocconi_primavera_2008#q08|src_bocconi_primavera_2008__Q08]]
 
 
 
@@ -271,7 +271,7 @@ level: Semifinale di Primavera
 > Il perimetro del rettangolo grande misura 34 cm. Lo stesso rettangolo è stato poi diviso in 9 rettangoli più piccoli, come in figura. Sempre in figura, trovate indicato il perimetro di alcuni di questi rettangoli.
 > **Quanto misura (in cm) il perimetro del rettangolo centrale ?**
 
-![[src_bocconi_primavera_2008__Q09.png]]
+![[src_bocconi_primavera_2008__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -287,10 +287,10 @@ level: Semifinale di Primavera
 
 > The perimeter of the large rectangle is 34 cm. The same rectangle was then divided into 9 smaller rectangles, as shown in the figure. Also in the figure, the perimeter of some of these rectangles is shown. **What is the perimeter (in cm) of the central rectangle ?**
 
-![[src_bocconi_primavera_2008__Q09.png]]
+![[src_bocconi_primavera_2008__q09.png]]
 
 **Answer:** 6 cm
-[[src_bocconi_primavera_2008__Q09]]
+[[Quesiti/src_bocconi_primavera_2008#q09|src_bocconi_primavera_2008__Q09]]
 
 
 
@@ -303,7 +303,7 @@ level: Semifinale di Primavera
 
 > Inserite i numeri 2, 2003, 2004, 2005, 2006, 2007 nelle caselle (vuote) della figura in modo che ogni numero scritto nelle caselle rettangolari sia la somma dei due numeri con cui è collegato direttamente.
 
-![[src_bocconi_primavera_2008__Q10.png]]
+![[src_bocconi_primavera_2008__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -319,9 +319,9 @@ level: Semifinale di Primavera
 
 > Enter numbers 2, 2003, 2004, 2005, 2006, 2007 in the boxes (void) of the figure so that each number written in the rectangular boxes is the sum of the two numbers to which it is directly linked.
 
-![[src_bocconi_primavera_2008__Q10.png]]
+![[src_bocconi_primavera_2008__q10.png]]
 
-[[src_bocconi_primavera_2008__Q10]]
+[[Quesiti/src_bocconi_primavera_2008#q10|src_bocconi_primavera_2008__Q10]]
 
 
 
@@ -351,7 +351,7 @@ EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
 > Nando asked S. Luke to help him double the amount of euros he owned; in return, he promised him 6 euros for the poor in the city. That 's what happens . It 's the first miracle ! Not happy, Nando signs a similar "contract" with S. I'm not going to lie. It 's the second miracle . Michele doubles the Euros he had in his pocket (after S. Luca) and Nando from another 6 Euros to the poor of the city. When you do the same thing with S. Desiderio, after giving 6 euros to the poor in the city for the third time, Nando realizes that his pockets are empty! How many euros did you have in your pocket at first, Nando?
 
 **Answer:** 5 Euro e 25 centesimi
-[[src_bocconi_primavera_2008__Q11]]
+[[Quesiti/src_bocconi_primavera_2008#q11|src_bocconi_primavera_2008__Q11]]
 
 
 
@@ -380,7 +380,7 @@ EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
 > Three black cows and four white cows give as much milk in six days as three white cows and four black cows give in seven days. Which cows (individually) give more milk, the black cows or the white cows?
 
 **Answer:** Le nere danno più latte: 3 mucche bianche equivalgono a 10 nere
-[[src_bocconi_primavera_2008__Q12]]
+[[Quesiti/src_bocconi_primavera_2008#q12|src_bocconi_primavera_2008__Q12]]
 
 
 
@@ -409,7 +409,7 @@ Maximum result with digits 1,7,8,9 and operations *
 > What is the greatest result you can get by adding, subtracting, multiplying or dividing the numbers 1, 7, 8, 9 all used once?
 
 **Answer:** $(1+7) \times 8 \times 9 = 576$
-[[src_bocconi_primavera_2008__Q13]]
+[[Quesiti/src_bocconi_primavera_2008#q13|src_bocconi_primavera_2008__Q13]]
 
 
 
@@ -439,7 +439,7 @@ Maximum result with digits 1,7,8,9 and operations *
 > At Math City's post office, they only sell five-euro, one-euro and five-cent stamps. Jacob bought 100 stamps, spending 100 euros. How many Euro stamps did you buy?
 
 **Answer:** 1 francobollo da 1 Euro (e 19 da 5 Euro e 80 da 5 centesimi)
-[[src_bocconi_primavera_2008__Q14]]
+[[Quesiti/src_bocconi_primavera_2008#q14|src_bocconi_primavera_2008__Q14]]
 
 
 
@@ -468,7 +468,7 @@ Maximum result with digits 1,7,8,9 and operations *
 > In Math City, in the last election, 527 mathematicians voted. The new mayor's list received 18, 25 and 98 votes more than each of the other three competing lists. **How many votes did you get? **
 
 **Answer:** 167
-[[src_bocconi_primavera_2008__Q15]]
+[[Quesiti/src_bocconi_primavera_2008#q15|src_bocconi_primavera_2008__Q15]]
 
 
 
@@ -498,7 +498,7 @@ Maximum result with digits 1,7,8,9 and operations *
 > Carla sums all integers, from 1 to 2008, using only the digits 0, 2, 8 (possibly repeated). **What is the result of the addition? **
 
 **Answer:** 16.000
-[[src_bocconi_primavera_2008__Q16]]
+[[Quesiti/src_bocconi_primavera_2008#q16|src_bocconi_primavera_2008__Q16]]
 
 
 
@@ -528,7 +528,7 @@ Maximum result with digits 1,7,8,9 and operations *
 > You've got 10 piles of coins in front of you. One of these stacks consists of counterfeit coins (which weigh, each, 10 coins. One of these stacks consists of counterfeit coins (which weigh, each) 5 g; the others are made up of real coins (which each weigh) 5 g. Describe how the stack of counterfeit coins can be detected with a single weight.
 
 **Answer:** 275 g (la differenza tra il peso effettivo e 275 g assegna il numero di monete false e quindi la pila da cui sono state prese)
-[[src_bocconi_primavera_2008__Q17]]
+[[Quesiti/src_bocconi_primavera_2008#q17|src_bocconi_primavera_2008__Q17]]
 
 
 
@@ -557,7 +557,7 @@ Seeing stars falling, knowing how many are missing at 36*
 > I saw it fall. - How many ? I don't know, but if I subtract from the number of stars I've seen half of the ones that are missing to get to 36, I get 24. So, how many?
 
 **Answer:** 28
-[[src_bocconi_primavera_2008__Q18]]
+[[Quesiti/src_bocconi_primavera_2008#q18|src_bocconi_primavera_2008__Q18]]
 
 
 
@@ -595,7 +595,7 @@ Seeing stars falling, knowing how many are missing at 36*
 > Renato makes three relevant statements: 1) of the three propositions A, B, C only one is true; 2) of the propositions B, C, D only one is true; 3) between A and B, only one is true. His friend Amerigo reiterates to him equally strongly: 1) of A, B, C only one proposition is true; 2) of B, C, D only one proposition is true; 3) of A, C, D only one proposition is true. Keep in mind that one of the two friends lies at least once, while the other always tells the truth. What is (or are) the true proposition?
 
 **Answer:** C è vera
-[[src_bocconi_primavera_2008__Q19]]
+[[Quesiti/src_bocconi_primavera_2008#q19|src_bocconi_primavera_2008__Q19]]
 
 
 
@@ -625,4 +625,4 @@ Arm, legs and eyes of a Martian according to Ignobel
 > A recent study, winner of the prestigious Ignobel Prize, showed that Martians exist and also specified how many arms, legs and eyes they have. To find the number of the arms and legs of each Martian, you just add these two numbers together, and then you add their product to the result: you get 34. The same goes for the number of legs and eyes: adding these two numbers and adding their product again, you get 14. How many arms, legs and eyes does each Martian have?
 
 **Answer:** 6 braccia, 4 gambe e 2 occhi
-[[src_bocconi_primavera_2008__Q20]]
+[[Quesiti/src_bocconi_primavera_2008#q20|src_bocconi_primavera_2008__Q20]]

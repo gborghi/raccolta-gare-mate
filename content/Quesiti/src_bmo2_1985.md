@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > $O$ è un punto fuori da un cerchio. Due linee $OAB$, $OCD$ e $O$ incontrano il cerchio a $A,B,C,D$ con $A,C$ rispettivamente i punti di mezzo di $OB,OD$. Inoltre l'angolo acuto $\theta$ tra le linee è uguale all'angolo acuto in cui ciascuna linea taglia il cerchio. Trova $\cos\theta$ e mostra che le tangenti di $A,D$ al cerchio si incontrano sulla linea $BC$.
 
-[[src_bmo2_1985__Q01]]
+[[Quesiti/src_bmo2_1985#q01|src_bmo2_1985__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Un intero positivo è chiamato male se il numero di cifre $1$ nella sua espansione binaria è pari. Trova la somma dei primi $1985$ numeri interi positivi cattivi.
 
-[[src_bmo2_1985__Q02]]
+[[Quesiti/src_bmo2_1985#q02|src_bmo2_1985__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 
 > Prova che il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto.
 
-[[src_bmo2_1985__Q03]]
+[[Quesiti/src_bmo2_1985#q03|src_bmo2_1985__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 > 
 > Per ottenere il pieno credito dovrai stabilire chiaramente che la tua risposta è l'unica coerente con le condizioni.
 
-[[src_bmo2_1985__Q04]]
+[[Quesiti/src_bmo2_1985#q04|src_bmo2_1985__Q04]]
 
 
 
@@ -149,4 +149,4 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 > 
 > Provare che $AB = CD$, $AC = BD$, $AD = BC$ e che $OH = OH'$.
 
-[[src_bmo2_1985__Q05]]
+[[Quesiti/src_bmo2_1985#q05|src_bmo2_1985__Q05]]

@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Tre mesi consecutivi di un determinato anno non alto hanno esattamente quattro domeniche. Prova che uno di questi mesi è febbraio.
 
-[[src_obm_1999_n2_f2__Q01]]
+[[Quesiti/src_obm_1999_n2_f2#q01|src_obm_1999_n2_f2__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 2
 > 
 > b) $3, 3, 3$ ?
 
-[[src_obm_1999_n2_f2__Q02]]
+[[Quesiti/src_obm_1999_n2_f2#q02|src_obm_1999_n2_f2__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 2
 
 > Lasciate che $ABCD$ sia quadrato. Scegliamo i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo tale che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Prova che $MN + PQ \ge AC$.
 
-[[src_obm_1999_n2_f2__Q03]]
+[[Quesiti/src_obm_1999_n2_f2#q03|src_obm_1999_n2_f2__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: OBM Nível 2
 
 > Determinare il numero naturale più grande per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ (cioè $\{a, b, c, d\} = \{3, 6, 9, 12\}$) tale che il numero $\sqrt[3]{3^a \cdot 6^b \cdot 9^c \cdot 12^d}$ sia un numero intero. Giustifica la tua risposta.
 
-[[src_obm_1999_n2_f2__Q04]]
+[[Quesiti/src_obm_1999_n2_f2#q04|src_obm_1999_n2_f2__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível 2
 
 > Un insegnante di matematica ha dato ai suoi studenti l'aggiunta $\dfrac{A}{B} + \dfrac{C}{D}$, dove $A$, $B$, $C$ e $D$ sono numeri interi positivi e le frazioni sono già semplificate al massimo (cioè i denominatori sono coprime con i rispettivi numeratori). Dopo averlo semplificato al minimo (cioè scrivendo il risultato con il minimo denominatore comune e quindi riducendo il risultato), mostrare che la frazione che gli studenti troveranno come risultato è già semplificata.
 
-[[src_obm_1999_n2_f2__Q05]]
+[[Quesiti/src_obm_1999_n2_f2#q05|src_obm_1999_n2_f2__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: OBM Nível 2
 
 > Determinare tutti i numeri interi positivi $n$ per i quali è possibile assemblare un rettangolo $9 \times 10$ utilizzando pezzi $1 \times n$.
 
-[[src_obm_1999_n2_f2__Q06]]
+[[Quesiti/src_obm_1999_n2_f2#q06|src_obm_1999_n2_f2__Q06]]

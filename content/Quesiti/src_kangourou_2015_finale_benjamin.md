@@ -41,7 +41,7 @@ level: kangourou
 > Anno doesn't believe him. If you think Amedeo is right, point to one of the dice he may have built; if you think it's good for Anno not to believe him, explain why.
 
 **Answer:** ha ragione Anna
-[[src_kangourou_2015_finale_benjamin__QB1]]
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb1|src_kangourou_2015_finale_benjamin__QB1]]
 
 
 
@@ -69,7 +69,7 @@ level: kangourou
 > Sandro and Paolo play the following game: there are $8$ tokens on the table; you play in turns and, when it's your turn, you can take $1$, $2$ or $3$ tokens; the last one who manages to take some tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
 
 **Answer:** secondo (Paolo inizia)
-[[src_kangourou_2015_finale_benjamin__QB2]]
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb2|src_kangourou_2015_finale_benjamin__QB2]]
 
 
 
@@ -80,7 +80,7 @@ level: kangourou
 
 *condizioni per incrocio treni*
 
-![[src_kangourou_2015_finale_benjamin__probB3.png]]
+![[src_kangourou_2015_finale_benjamin__probb3.png]]
 
 > Kang è una stazione su una linea a binario unico. In figura vedi lo schema dei binari di Kang, di ciascuno dei quali è indicata la lunghezza: il binario di corsa è quello superiore, mentre il binario inferiore inizia e termina con due tronchi «morti». Tutti i treni circolanti sulla linea sono composti da una locomotiva, che è in testa, e da alcune carrozze: la lunghezza di ogni locomotiva e di ogni carrozza è $19$ metri. Quali sono le condizioni meno restrittive da imporre sulla composizione di due treni perché possano incrociarsi in Kang? Tieni presente che è ammesso ogni tipo di manovra (in particolare i treni possono fare retromarcia) e di segnalamento compatibile con lo schema della stazione, incluso lo spezzamento dei treni in gruppi di carrozze. (vedi figura)
 
@@ -96,12 +96,12 @@ level: kangourou
 
 *train crossing conditions*
 
-![[src_kangourou_2015_finale_benjamin__probB3.png]]
+![[src_kangourou_2015_finale_benjamin__probb3.png]]
 
 > Kang is a station on a single track line. In the figure you can see the pattern of Kang's tracks, each of which is indicated in length: the running track is the upper one, while the lower track starts and ends with two trunks mort. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is $19$ meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
 
 **Answer:** max 13 carrozze
-[[src_kangourou_2015_finale_benjamin__QB3]]
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb3|src_kangourou_2015_finale_benjamin__QB3]]
 
 
 
@@ -112,7 +112,7 @@ level: kangourou
 
 *misura angolo ABC*
 
-![[src_kangourou_2015_finale_benjamin__probB4.png]]
+![[src_kangourou_2015_finale_benjamin__probb4.png]]
 
 > La figura mostra due quadrati uguali che hanno in comune esattamente un vertice. È possibile precisare la misura dell'angolo $ABC$? (vedi figura)
 
@@ -128,12 +128,12 @@ level: kangourou
 
 The measurement shall be carried out in accordance with the methodology set out in Annex II.
 
-![[src_kangourou_2015_finale_benjamin__probB4.png]]
+![[src_kangourou_2015_finale_benjamin__probb4.png]]
 
 > The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
 
 **Answer:** 45 gradi
-[[src_kangourou_2015_finale_benjamin__QB4]]
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb4|src_kangourou_2015_finale_benjamin__QB4]]
 
 
 
@@ -162,7 +162,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > $51$ corners are aligned on a suspended electrical cable. And when one of them crawls, its neighbour on the right and its neighbour on the left (or just one of the two, if the crankshaft is at one end of the two) take flight and after a minute they return to their place and crawle in turn. Start scratching the first horn in the line. After exactly one hour of this first crack, how many times will the last crack be?
 
 **Answer:** 6
-[[src_kangourou_2015_finale_benjamin__QB5]]
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb5|src_kangourou_2015_finale_benjamin__QB5]]
 
 
 
@@ -195,4 +195,4 @@ The measurement shall be carried out in accordance with the methodology set out 
 > (Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode, but not the $2+2$ mode.)
 
 **Answer:** dimostrazione
-[[src_kangourou_2015_finale_benjamin__QB6]]
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb6|src_kangourou_2015_finale_benjamin__QB6]]

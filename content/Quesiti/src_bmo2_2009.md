@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Trova tutte le soluzioni in numeri interi non negativi $a$, $b$ a $\sqrt{a} + \sqrt{b} = \sqrt{2009}$.
 
-[[src_bmo2_2009__Q01]]
+[[Quesiti/src_bmo2_2009#q01|src_bmo2_2009__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 
 > Il $ABC$ deve essere un triangolo a angolo acuto con circoncircolo $\omega$. Il centro di $\omega$ è $O$ e l'ortocentro è $H$. Prova che il centro del circoncircolo del triangolo $BOH$ (dove $B$ è un vertice) si trova sul cerchio $\omega$.
 
-[[src_bmo2_2009__Q02]]
+[[Quesiti/src_bmo2_2009#q02|src_bmo2_2009__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 
 > Trova tutte le funzioni $f$ dai numeri reali ai numeri reali che soddisfano $$f(x^2) + f(y^2) = (x + y)(f(x) + f(y))$$ per tutti i numeri reali $x$ e $y$.
 
-[[src_bmo2_2009__Q03]]
+[[Quesiti/src_bmo2_2009#q03|src_bmo2_2009__Q03]]
 
 
 
@@ -120,4 +120,4 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 > 
 > Mostrare che se $n \le 2500$, allora $s(n) \le 2b$, dove $b$ è il numero di bit nella rappresentazione binaria di $n$, e trovare i valori di $n$ per i quali l'uguaglianza è valida.
 
-[[src_bmo2_2009__Q04]]
+[[Quesiti/src_bmo2_2009#q04|src_bmo2_2009__Q04]]

@@ -44,7 +44,7 @@ level: INMO
 > 
 > (b) Prove che, in effetti, qualsiasi cinque di queste sei affermazioni implicano anche che l'esagono è ciclico.
 
-[[src_inmo_2002__Q01]]
+[[Quesiti/src_inmo_2002#q01|src_inmo_2002__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: INMO
 
 > Determinare il valore minimo positivo assunto dall'espressione $a^3 + b^3 + c^3 - 3abc$ in quanto $a, b, c$ varia su tutti gli integri positivi. Trova anche tutti i triples $(a, b, c)$ per i quali si ottiene questo valore minimo.
 
-[[src_inmo_2002__Q02]]
+[[Quesiti/src_inmo_2002#q02|src_inmo_2002__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: INMO
 
 > Che $x, y$ siano valori reali positivi tali che $x + y = 2$. Provare che $$x^2 y^2 (x^2 + y^2) \le 2.$$
 
-[[src_inmo_2002__Q03]]
+[[Quesiti/src_inmo_2002#q03|src_inmo_2002__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: INMO
 
 > Esistono 100 linee nel piano, nessuna delle tre contemporaneamente, in modo che si incrociano esattamente nei punti del 2002?
 
-[[src_inmo_2002__Q04]]
+[[Quesiti/src_inmo_2002#q04|src_inmo_2002__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: INMO
 
 > Esistono tre numeri reali positivi distinti $a, b, c$ in modo tale che $a, b, c, b+c-a, c+a-b, a+b-c$ e $a+b+c$ formino una progressione aritmetica a 7 termini in qualche ordine?
 
-[[src_inmo_2002__Q05]]
+[[Quesiti/src_inmo_2002#q05|src_inmo_2002__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: INMO
 
 > Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti per formare un array $n$ da $n$ composto da righe $n$ e colonne $n$ in modo tale che i numeri di ogni riga (da sinistra a destra) e di ogni colonna (da cima a sotto) siano in ordine crescente. Indicare con $a_{jk}$ il numero nella riga $j$-th e nella colonna $k$-th. Supponiamo che $b_j$ sia il numero massimo possibile di voci che possono verificarsi come $a_{jj}$, $1 \le j \le n$. Provare che $$b_1 + b_2 + \cdots + b_n \le \frac{n}{3}(n^2 - 3n + 5).$$
 
-[[src_inmo_2002__Q06]]
+[[Quesiti/src_inmo_2002#q06|src_inmo_2002__Q06]]

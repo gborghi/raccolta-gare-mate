@@ -37,7 +37,7 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 > 
 > Prova che nei primi 60 termini della sequenza, almeno 49 hanno tre o più fattori primi (si ammette i fattori primi ripetuti; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
 
-[[src_bmo_2023-24_round2__Q01]]
+[[Quesiti/src_bmo_2023-24_round2#q01|src_bmo_2023-24_round2__Q01]]
 
 
 
@@ -65,7 +65,7 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 
 > Trova tutte le funzioni $f$ dai numeri interi ai numeri interi in modo che per tutti i numeri interi $n$: $$2f(f(n)) = 5f(n) - 2n.$$
 
-[[src_bmo_2023-24_round2__Q02]]
+[[Quesiti/src_bmo_2023-24_round2#q02|src_bmo_2023-24_round2__Q02]]
 
 
 
@@ -96,7 +96,7 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 > 
 > Provare che il quadrilaterale $AXPY$ è ciclico.
 
-[[src_bmo_2023-24_round2__Q03]]
+[[Quesiti/src_bmo_2023-24_round2#q03|src_bmo_2023-24_round2__Q03]]
 
 
 
@@ -123,4 +123,4 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 
 > Lasciate che $m < n$ siano numeri interi positivi. Inizia con pile $n$, ciascuno degli oggetti $m$. eseguire ripetutamente la seguente operazione: scegliere due pile e rimuovere l'insieme degli oggetti $n$ da queste due pile. Per quale $(m, n)$ è possibile svuotare tutte le pile?
 
-[[src_bmo_2023-24_round2__Q04]]
+[[Quesiti/src_bmo_2023-24_round2#q04|src_bmo_2023-24_round2__Q04]]

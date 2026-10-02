@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 2
 
 > $k,n>1$ siano numeri interi in modo tale che il numero $p=2k-1$ sia primo. Prova che, se il numero $\binom{n}{2}-\binom{k}{2}$ è divisibile da $p$, allora è divisibile da $p^2$.
 
-[[src_pol_2001_r2__Q01]]
+[[Quesiti/src_pol_2001_r2#q01|src_pol_2001_r2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 2
 
 > I punti $A,B,C$ con $AB<BC$ si trovano in questo ordine su una linea. Il valore $ABDE$ deve essere quadrato. Il cerchio di diametro $AC$ interseca la linea $DE$ nei punti $P$ e $Q$ con $P$ tra $D$ e $E$. Le linee $AQ$ e $BD$ si incrociano a $R$. Prove che $DP=DR$.
 
-[[src_pol_2001_r2__Q02]]
+[[Quesiti/src_pol_2001_r2#q02|src_pol_2001_r2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: Olimpiade Polacca Round 2
 
 > $n\ge 3$ sia un numero intero positivo. Prova che un polinomio della forma $$x^n+a_{n-3}x^{n-3}+a_{n-4}x^{n-4}+\cdots+a_1x+a_0,$$ in cui almeno uno dei coefficienti reali $a_0,a_1,\ldots,a_{n-3}$ non è zero, non può avere tutte le radici reali.
 
-[[src_pol_2001_r2__Q03]]
+[[Quesiti/src_pol_2001_r2#q03|src_pol_2001_r2__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Olimpiade Polacca Round 2
 
 > Trova tutti gli enti $n\ge 3$ per i quali è vera la seguente affermazione: Qualsiasi progressione aritmetica $a_1,\ldots,a_n$ con termini $n$ per i quali $a_1+2a_2+\cdots+na_n$ è razionale contiene almeno un termine razionale.
 
-[[src_pol_2001_r2__Q04]]
+[[Quesiti/src_pol_2001_r2#q04|src_pol_2001_r2__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 2
 
 > In un triangolo $ABC$, $I$ è il centro e $D$ il punto di intersezione di $AI$ e $BC$. Indicare che $AI+CD=AC$ se e solo se $\angle B=60^\circ+\frac{1}{2}\angle C$.
 
-[[src_pol_2001_r2__Q05]]
+[[Quesiti/src_pol_2001_r2#q05|src_pol_2001_r2__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 2
 
 > Per un intero positivo $n$, $A_n$ e $B_n$ siano le famiglie dei sottoinsiemi di $n$-elementi di $S_n=\{1,2,\ldots,2n\}$ con rispettivamente somme pari e odd di elementi. Calcolare $|A_n|-|B_n|$.
 
-[[src_pol_2001_r2__Q06]]
+[[Quesiti/src_pol_2001_r2#q06|src_pol_2001_r2__Q06]]

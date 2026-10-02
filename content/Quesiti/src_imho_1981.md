@@ -35,7 +35,7 @@ level: IMO
 
 > $P$ is a point inside a given triangle $ABC$, $D$, $E$, $F$ are the feet of the perpendiculars from $P$ to the lines $BC$, $CA$, $AB$ respectively. Find all $P$ for which $$\frac{BC}{PD} + \frac{CA}{PE} + \frac{AB}{PF}$$ is least.
 
-[[src_imho_1981__Q01]]
+[[Quesiti/src_imho_1981#q01|src_imho_1981__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: IMO
 
 > Let $1 \le r \le n$ and consider the subsets of $r$ elements of the set $\{1, 2, \ldots, n\}$. Each of these subsets has a smallest member. Let $F(n, r)$ denotes the arithmetic mean of these smallest numbers. Prove that $$F(n, r) = \frac{n+1}{r+1}.$$
 
-[[src_imho_1981__Q02]]
+[[Quesiti/src_imho_1981#q02|src_imho_1981__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Maximum value of m^n + n^m with integer constraint
 
 > Determine the maximum value of $m^n + n^m$, where $m$ and $n$ are integers satisfying $m, n \in \{1, 2, \ldots, 1981\}$ and $(n^2 - mn - m^2)^2 = 1$.
 
-[[src_imho_1981__Q03]]
+[[Quesiti/src_imho_1981#q03|src_imho_1981__Q03]]
 
 
 
@@ -121,7 +121,7 @@ Maximum value of m^n + n^m with integer constraint
 > 
 > (b) For which values of $n > 2$ is there exactly one such set having the stated property?
 
-[[src_imho_1981__Q04]]
+[[Quesiti/src_imho_1981#q04|src_imho_1981__Q04]]
 
 
 
@@ -148,7 +148,7 @@ Maximum value of m^n + n^m with integer constraint
 
 > Three congruent circles have a common point $O$ and lie inside a given triangle. Each circle touches a pair of sides of the triangle. Prove that the incenter and the circumcenter of the triangle and the point $O$ are hilly.
 
-[[src_imho_1981__Q05]]
+[[Quesiti/src_imho_1981#q05|src_imho_1981__Q05]]
 
 
 
@@ -179,4 +179,4 @@ Maximum value of m^n + n^m with integer constraint
 
 > The function $f(x, y)$ satisfies (1) $f(0, y) = y + 1$, (2) $f(x + 1, 0) = f(x, 1)$, (3) $f(x + 1, y + 1) = f(x, f(x + 1, y))$, for all non-negative integers $x$, $y$. Determine $f(4, 1981)$.
 
-[[src_imho_1981__Q06]]
+[[Quesiti/src_imho_1981#q06|src_imho_1981__Q06]]

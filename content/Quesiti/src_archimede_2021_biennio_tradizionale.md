@@ -46,7 +46,7 @@ level: biennio
 > - **(D)** 30
 > - **(E)** 31
 
-[[src_archimede_2021_biennio_tradizionale__Q01]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q01|src_archimede_2021_biennio_tradizionale__Q01]]
 
 
 
@@ -84,7 +84,7 @@ level: biennio
 > - **(D)** 3/4
 > - **(E)** 4/7
 
-[[src_archimede_2021_biennio_tradizionale__Q02]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q02|src_archimede_2021_biennio_tradizionale__Q02]]
 
 
 
@@ -124,7 +124,7 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 10
 
-[[src_archimede_2021_biennio_tradizionale__Q03]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q03|src_archimede_2021_biennio_tradizionale__Q03]]
 
 
 
@@ -163,7 +163,7 @@ level: biennio
 > - **(D)** 16°
 > - **(E)** 22°
 
-[[src_archimede_2021_biennio_tradizionale__Q04]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q04|src_archimede_2021_biennio_tradizionale__Q04]]
 
 
 
@@ -202,7 +202,7 @@ level: biennio
 > - **(D)** 779 · 1416 · 2213
 > - **(E)** 779 · 1412 · 2216
 
-[[src_archimede_2021_biennio_tradizionale__Q05]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q05|src_archimede_2021_biennio_tradizionale__Q05]]
 
 
 
@@ -244,7 +244,7 @@ level: biennio
 > - **(D)** It is not possible to establish
 > - **(E)** 40
 
-[[src_archimede_2021_biennio_tradizionale__Q06]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q06|src_archimede_2021_biennio_tradizionale__Q06]]
 
 
 
@@ -283,7 +283,7 @@ level: biennio
 > - **(D)** 15 7 ℓ
 > - **(E)** 32 15ℓ
 
-[[src_archimede_2021_biennio_tradizionale__Q07]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q07|src_archimede_2021_biennio_tradizionale__Q07]]
 
 
 
@@ -323,7 +323,7 @@ level: biennio
 > - **(D)** 415 ml
 > - **(E)** 448 ml
 
-[[src_archimede_2021_biennio_tradizionale__Q08]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q08|src_archimede_2021_biennio_tradizionale__Q08]]
 
 
 
@@ -362,7 +362,7 @@ level: biennio
 > - **(D)** 80 m2
 > - **(E)** 84 m2
 
-[[src_archimede_2021_biennio_tradizionale__Q09]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q09|src_archimede_2021_biennio_tradizionale__Q09]]
 
 
 
@@ -404,7 +404,7 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 13
 
-[[src_archimede_2021_biennio_tradizionale__Q10]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q10|src_archimede_2021_biennio_tradizionale__Q10]]
 
 
 
@@ -444,7 +444,7 @@ level: biennio
 > - **(D)** 9/8
 > - **(E)** 8/5
 
-[[src_archimede_2021_biennio_tradizionale__Q11]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q11|src_archimede_2021_biennio_tradizionale__Q11]]
 
 
 
@@ -492,4 +492,4 @@ level: biennio
 > - **(D)** 112
 > - **(E)** 104 2042 Italian Mathematical Union Mathematics Olympic Project Ministry of Education The Archimedes Games - Competition biennium 2 December 2021  The test consists of 12 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong.  Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded.  For each of the problems, the corresponding letter to the correct answer must be transcribed in the grid below. Cancellations or corrections on the grid are not permitted. No calculator or communication device shall be used during the test. The time you have is 60 minutes. Good work and good fun! COGNOME Class name date of birth: email address: PROBLEMS: 1 2 3 4 5 6 7 8 9 10 11 12 The Games of Archimedes 2021 GARA BENNIO   CODE PROVA: 2042
 
-[[src_archimede_2021_biennio_tradizionale__Q12]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q12|src_archimede_2021_biennio_tradizionale__Q12]]

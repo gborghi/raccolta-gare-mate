@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** There's no such number.
 
 **Answer:** E
-[[src_archimede_2006_2livello__Q01]]
+[[Quesiti/src_archimede_2006_2livello#q01|src_archimede_2006_2livello__Q01]]
 
 
 
@@ -95,7 +95,7 @@ level: 2 livello
 > - **(E)** 4.
 
 **Answer:** E
-[[src_archimede_2006_2livello__Q02]]
+[[Quesiti/src_archimede_2006_2livello#q02|src_archimede_2006_2livello__Q02]]
 
 
 
@@ -135,7 +135,7 @@ level: 2 livello
 > - **(E)** 3xy(1 −z) + 3xz(1 −y) + 3yz(1 −x).
 
 **Answer:** C
-[[src_archimede_2006_2livello__Q03]]
+[[Quesiti/src_archimede_2006_2livello#q03|src_archimede_2006_2livello__Q03]]
 
 
 
@@ -180,7 +180,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** There's no way to tell.
 
 **Answer:** A
-[[src_archimede_2006_2livello__Q04]]
+[[Quesiti/src_archimede_2006_2livello#q04|src_archimede_2006_2livello__Q04]]
 
 
 
@@ -222,7 +222,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** It is possible for all card numbers greater than 12.
 
 **Answer:** C
-[[src_archimede_2006_2livello__Q05]]
+[[Quesiti/src_archimede_2006_2livello#q05|src_archimede_2006_2livello__Q05]]
 
 
 
@@ -268,7 +268,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** 841.
 
 **Answer:** B
-[[src_archimede_2006_2livello__Q06]]
+[[Quesiti/src_archimede_2006_2livello#q06|src_archimede_2006_2livello__Q06]]
 
 
 
@@ -359,7 +359,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** 2(π −3 4 √ 3).
 
 **Answer:** E
-[[src_archimede_2006_2livello__Q07]]
+[[Quesiti/src_archimede_2006_2livello#q07|src_archimede_2006_2livello__Q07]]
 
 
 
@@ -406,7 +406,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** It is not solely determined by the data. (Note: the similarity between DAA′ and ABC should be understood in an orderly manner: DA/AB = AA′/BC = A′D/CA)
 
 **Answer:** D
-[[src_archimede_2006_2livello__Q08]]
+[[Quesiti/src_archimede_2006_2livello#q08|src_archimede_2006_2livello__Q08]]
 
 
 
@@ -452,7 +452,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** 9.
 
 **Answer:** A
-[[src_archimede_2006_2livello__Q09]]
+[[Quesiti/src_archimede_2006_2livello#q09|src_archimede_2006_2livello__Q09]]
 
 
 
@@ -501,7 +501,7 @@ How many knights among Albert, Bruno, Charles
 > - **(E)** 2 3√ 2. Problems with a numerical answer  8 points
 
 **Answer:** B
-[[src_archimede_2006_2livello__Q10]]
+[[Quesiti/src_archimede_2006_2livello#q10|src_archimede_2006_2livello__Q10]]
 
 
 
@@ -532,7 +532,7 @@ How many knights among Albert, Bruno, Charles
 > The members of a tribe have ten fingers on their hands and nine on their feet and so they count indifferently on a base of 10 or 19. In their mathematical culture, a positive integer is called sac if in both bases it is written with the same two digits (included between 1 and 9). How many are the sacred numbers?
 
 **Answer:** 4
-[[src_archimede_2006_2livello__Q11]]
+[[Quesiti/src_archimede_2006_2livello#q11|src_archimede_2006_2livello__Q11]]
 
 
 
@@ -567,7 +567,7 @@ How many knights among Albert, Bruno, Charles
 > On the board is written a 17-digit number composed of only 1 and 2. Paul enters and rewrites the number in reverse sequence, aligning it under the preceding one. Gianni enters and writes under each column the maximum number that appears in that column. Alberto enters and writes under each column the minimum number that appears in that column, then deletes the first two rows. Carla comes in and finds the numbers 12212212221221221 and 1121111111211 written on it and is explained what Paolo, Gianni, and Alberto have done. How many different numbers could be written on the board as the first number?
 
 **Answer:** 16
-[[src_archimede_2006_2livello__Q12]]
+[[Quesiti/src_archimede_2006_2livello#q12|src_archimede_2006_2livello__Q12]]
 
 
 
@@ -602,7 +602,7 @@ How many knights among Albert, Bruno, Charles
 > Let ABCD be a parallelogram. You know that the AB side measures 6, the angle $\widehat{BAD}$ measures 60° and the angle $\widehat{ADB}$ is straight. Let P be the center of the ACD triangle. Calculate the product value of the areas of the triangle ABP and the quadrilateral ACPD.
 
 **Answer:** 27
-[[src_archimede_2006_2livello__Q13]]
+[[Quesiti/src_archimede_2006_2livello#q13|src_archimede_2006_2livello__Q13]]
 
 
 
@@ -636,7 +636,7 @@ How many knights among Albert, Bruno, Charles
 > A square-base pyramid has the base side length √ 3 and all of the lateral faces are length √ 2. How many degrees does the angle between two rods not on the same side measure?
 
 **Answer:** 120
-[[src_archimede_2006_2livello__Q14]]
+[[Quesiti/src_archimede_2006_2livello#q14|src_archimede_2006_2livello__Q14]]
 
 
 
@@ -666,7 +666,7 @@ How many knights among Albert, Bruno, Charles
 > How many five-digit numbers (i.e. between 10000 and 99999) do not contain zeros and are multiples of 12?
 
 **Answer:** 4374
-[[src_archimede_2006_2livello__Q15]]
+[[Quesiti/src_archimede_2006_2livello#q15|src_archimede_2006_2livello__Q15]]
 
 
 
@@ -700,7 +700,7 @@ How many knights among Albert, Bruno, Charles
 > Display Exercise Whether k ≥1 is a natural number. Determine the number of positive integers n with the following properties as a function of k: (a) on base ten are written with k digits, all odd; (b) they are divisible by 5, and the quotient n 5, written on base ten, still has k digits, all odd.
 
 **Answer:** 3^(k-1)
-[[src_archimede_2006_2livello__Q16]]
+[[Quesiti/src_archimede_2006_2livello#q16|src_archimede_2006_2livello__Q16]]
 
 
 
@@ -743,4 +743,4 @@ How many knights among Albert, Bruno, Charles
 > Whether ABCD is a quadrilateral we call E the intersection (different from A) between the circumferences of diameters AB and AC and F the intersection (always distinct from A) between the circumferences of diameters AC and AD. Demonstrate that: (a) if E b AD = 90°then BC is parallel to AD (b) if E b AD = $\widehat{FAB}$ = 90°then ABCD is a parallelogram (c) if ABCD is a parallelogram then E b AD = F b AB = 90°.
 
 **Answer:** dimostrazione
-[[src_archimede_2006_2livello__Q17]]
+[[Quesiti/src_archimede_2006_2livello#q17|src_archimede_2006_2livello__Q17]]

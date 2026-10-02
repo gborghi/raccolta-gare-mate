@@ -33,7 +33,7 @@ level: IMO
 
 > Let $\Gamma$ be the circumcircle of acute-angled triangle $ABC$. Points $D$ and $E$ lie on segments $AB$ and $AC$, respectively, such that $AD = AE$. The perpendicular bisectors of $BD$ and $CE$ intersect the minor arcs $AB$ and $AC$ of $\Gamma$ at points $F$ and $G$, respectively. Prove that the lines $DE$ and $FG$ are parallel (or are the same line).
 
-[[src_imho_2018__Q01]]
+[[Quesiti/src_imho_2018#q01|src_imho_2018__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: IMO
 
 > Find all integers $n \ge 3$ for which there exist real numbers $a_1, a_2, \ldots, a_{n+2}$, such that $a_{n+1} = a_1$ and $a_{n+2} = a_2$, and $$a_i a_{i+1} + 1 = a_{i+2}$$ for $i = 1, 2, \ldots, n$.
 
-[[src_imho_2018__Q02]]
+[[Quesiti/src_imho_2018#q02|src_imho_2018__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: IMO
 > $$\begin{array}{ccccccc} & & & 4 & & & \\ & & 2 & & 6 & & \\ & 5 & & 7 & & 1 & \\ 8 & & 3 & & 10 & & 9 \end{array}$$
 > Does there exist an anti-Pascal triangle with 2018 rows which contains every integer from 1 to $1 + 2 + \cdots + 2018$?
 
-![[src_imho_2018__Q03.png]]
+![[src_imho_2018__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|method_casework]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -93,9 +93,9 @@ level: IMO
 
 > An anti-Pascal triangle is an equilateral triangular array of numbers such that, except for the numbers in the bottom row, each number is the absolute value of the difference of the two numbers immediately below it. The following array is an anti-Pascal triangle with four rows which contains every integer from 1 to 10: $$\begin{array}{ccccccc} & & & 4 & & & \\ & & 2 & & 6 & & \\ & 5 & & 7 & & 1 & \\ 8 & & 3 & & 10 & & 9 \end{array}$$ Does there exist an anti-Pascal triangle with 2018 rows which contains every integer from 1 to $1 + 2 + \cdots + 2018$?
 
-![[src_imho_2018__Q03.png]]
+![[src_imho_2018__q03.png]]
 
-[[src_imho_2018__Q03]]
+[[Quesiti/src_imho_2018#q03|src_imho_2018__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Game on grid sites: find greatest K Amy can guarantee K red stones
 
 > A site is any point $(x, y)$ in the plane such that $x$ and $y$ are both positive integers less than or equal to 20. Initially, each of the 400 sites is unoccupied. Amy and Ben take turns placing stones with Amy going first. On her turn, Amy places a new red stone on an unoccupied site such that the distance between any two sites occupied by red stones is not equal to $\sqrt{5}$. On his turn, Ben places a new blue stone on any unoccupied site. They stop as soon as a player cannot place a stone. Find the greatest $K$ such that Amy can ensure that she places at least $K$ red stones, no matter how Ben places his blue stones.
 
-[[src_imho_2018__Q04]]
+[[Quesiti/src_imho_2018#q04|src_imho_2018__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Game on grid sites: find greatest K Amy can guarantee K red stones
 
 > Let$a_1, a_2, \ldots$be an infinite sequence of positive integers. Suppose that there is an integer $N > 1$ such that, for each $n \ge N$, the number $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1}$$ is an integer. Prove that there is a positive integer $M$ such that $a_m = a_{m+1}$ for all $m \ge M$.
 
-[[src_imho_2018__Q05]]
+[[Quesiti/src_imho_2018#q05|src_imho_2018__Q05]]
 
 
 
@@ -180,4 +180,4 @@ Game on grid sites: find greatest K Amy can guarantee K red stones
 
 > A convex quadrilateral $ABCD$ satisfies $AB \cdot CD = BC \cdot DA$. Point $X$ lies inside $ABCD$ so that $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$ Prove that $\angle BXA + \angle DXC = 180^\circ$.
 
-[[src_imho_2018__Q06]]
+[[Quesiti/src_imho_2018#q06|src_imho_2018__Q06]]

@@ -41,7 +41,7 @@ level: squadre
 > The Predators of Lost Temples An ancient scroll, unearthed by the well-known archaeologist Polynomial Jones in the Vatican archives, reveals that each of the ancient temples dedicated to Atyiahsinger is shaped like a 60-meter-square-sided square. The floor of each temple is covered with 900 square tiles, each of which measures 2 meters on each side. Of these, 450 are white and 450 black. The tiles form 2 white and 2 black rectangles, so that two rectangles of the same colour do not have side parts in common. Knowing that for each of the possible tiles there is exactly one temple with such a floor, how many temples will our hero have to look for?
 
 **Answer:** 0114
-[[src_cesenatico_2005_squadre_finale__Q01]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q01|src_cesenatico_2005_squadre_finale__Q01]]
 
 
 
@@ -74,7 +74,7 @@ Maximum number of collaborators, each 3 fields out of 8
 > The well-known Polynomial Jones archaeologist has been tasked with managing as many as 8 archaeological excavation sites around the world. He then decides to divide the work between his associates. Each co-worker is responsible for 3 fields and no pair of co-worker is responsible for more than one field. What is the maximum number of collaborators that Jones Polynomial has?
 
 **Answer:** 0008
-[[src_cesenatico_2005_squadre_finale__Q02]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q02|src_cesenatico_2005_squadre_finale__Q02]]
 
 
 
@@ -109,7 +109,7 @@ Maximum number of collaborators, each 3 fields out of 8
 > Well-known archaeologist Polynomial Jones is organizing an expedition into the desert and needs 18 pets to transport the equipment. Beasts can be dromedaries or camels. As everyone knows, dromedaries are unsociable and rather irascible animals: when placed in line, they do not tolerate having animals of their own kind in front of them (or behind them). How many different ways can Jones polynomial compose the animal caravan without the animals getting stuck?
 
 **Answer:** 6765
-[[src_cesenatico_2005_squadre_finale__Q03]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q03|src_cesenatico_2005_squadre_finale__Q03]]
 
 
 
@@ -149,7 +149,7 @@ Maximum number of collaborators, each 3 fields out of 8
 > 2005 Team competition  National final  Problem texts  Pag. 2 di 4
 
 **Answer:** 2004
-[[src_cesenatico_2005_squadre_finale__Q04]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q04|src_cesenatico_2005_squadre_finale__Q04]]
 
 
 
@@ -183,7 +183,7 @@ Maximum number of collaborators, each 3 fields out of 8
 > The Polynomial Jones road and his expedition are lost in the desert. His colleague and friend Al Jabr, with a stick, sketches the map on the sand. Al Jabr draws a triangle of ABC vertices, marks the circus O of the triangle and the midpoints M of AB and N of BC. The OM distance is 210km, the ON distance is 176km and OM2 +ON2 = (AC 2 )2. How much is the radius of the circle inscribed in ABC?
 
 **Answer:** 0112
-[[src_cesenatico_2005_squadre_finale__Q05]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q05|src_cesenatico_2005_squadre_finale__Q05]]
 
 
 
@@ -217,7 +217,7 @@ Maximum number of collaborators, each 3 fields out of 8
 > The ancient prophecy of the Couranteni people used to count to 5. Their seer one day prophesied that the kingdom of the Courantenes would last as many years as the numbers of their sacred number. To seal the prophecy, he drew a zero, the last digit of the sacred number. The well-known archaeomathematician Polynomial Jones recently discovered that the sacred number for the Courantenians is 253253. How long, according to prophecy, would the Kingdom of the Courantenes last?
 
 **Answer:** 0870
-[[src_cesenatico_2005_squadre_finale__Q06]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q06|src_cesenatico_2005_squadre_finale__Q06]]
 
 
 
@@ -249,7 +249,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > Recently, the well-known archaeologist Polinomia Jones has discovered a Couranteni burial citadel. The citadel has a circular shape with a radius of 2005 meters and, externally to it, crypts are located. Each crypt has a circular shape with a radius of 1 meter and is tangent to the citadel. What's the largest number of crypts that the Couranteni could have built?
 
 **Answer:** 6302
-[[src_cesenatico_2005_squadre_finale__Q07]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q07|src_cesenatico_2005_squadre_finale__Q07]]
 
 
 
@@ -282,7 +282,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > During their expeditions around the world, the well-known archaeomathematician Polinomia Jones and his collaborator and friend Al Jabr used to spend evenings cramming themselves with simple problems in front of the fire. One night Al Jabr challenges our hero to find all the terns of integers (a,b,c), each of which comprised between 0 and 2005, such that b2 + b = c2 − c and a2 = b + c. How many are there?
 
 **Answer:** 0033
-[[src_cesenatico_2005_squadre_finale__Q08]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q08|src_cesenatico_2005_squadre_finale__Q08]]
 
 
 
@@ -316,7 +316,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > The path of statues The well-known archaeologist Polynomial Jones recently came into possession of an ancient map indicating the secret entrance to Atyiahsinger Temple. Along the road leading to the temple are 2006 statues lined up, each 1 meter away from the other. According to the map, the entrance is located near one of the points that minimize the sum of the distances of the point from each statue. What is the minimum value of this sum?
 
 **Answer:** 6009
-[[src_cesenatico_2005_squadre_finale__Q09]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q09|src_cesenatico_2005_squadre_finale__Q09]]
 
 
 
@@ -350,7 +350,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > The cursed temple The keys of wisdom open the secret hall of Atyiahsinger's temple. Each key is shaped like a rectangular triangle with the sides a, b, c of full lengths such that (a, b, c) = 1 and the hypotenuse c is equal to 3 4a + 4 5b. Calculate the sum of the perimeter of all the keys of wisdom corresponding to unlike triangles.
 
 **Answer:** 0114
-[[src_cesenatico_2005_squadre_finale__Q10]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q10|src_cesenatico_2005_squadre_finale__Q10]]
 
 
 
@@ -385,7 +385,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > The mysterious inscriptions The well-known archaeomathematician Polynomial Jones, exploring Atyiahsinger's temple, finds this mysterious inscription: The false phrases that precede me are more than the true ones that follow me; furthermore the next sentence is false repeated 2005 times in a row, with the exception that the last one says only The false phrases that precede me are more than the true ones that follow me. How many phrases are false?
 
 **Answer:** 1337
-[[src_cesenatico_2005_squadre_finale__Q11]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q11|src_cesenatico_2005_squadre_finale__Q11]]
 
 
 
@@ -426,7 +426,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > 2005 Team competition  National final  Problem texts  Pag. 3 out of 4 red. The first time you press the button, the brain returns the rest of the division of n2 by 2, the second the rest of the division of n3 by 3, the fourth of n4 by 4 and so on. At some point, Jones polynomial is finally confident that it can determine the number. How many times, at least, have you pressed the red button?
 
 **Answer:** 0029
-[[src_cesenatico_2005_squadre_finale__Q12]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q12|src_cesenatico_2005_squadre_finale__Q12]]
 
 
 
@@ -462,7 +462,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > During their expeditions around the world, the renowned archaeomathematician Polinomia Jones and his collaborator and friend Al Jabr used to spend evenings cramming themselves with simple problems in front of the fire. One night Al Jabr challenges our hero to find how many real solutions, including between 1 and 100 (extremes included) has the equation [x2]+[x]2 = 2x[x]. What's the exact answer? [The symbol [x] indicates the whole part of x, i.e. the largest integer n such that n ≤x]
 
 **Answer:** 9901
-[[src_cesenatico_2005_squadre_finale__Q13]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q13|src_cesenatico_2005_squadre_finale__Q13]]
 
 
 
@@ -495,7 +495,7 @@ Maximum number of single crypts tangent to radius circle 2005
 > Numbers in the mirror Ancient people of the Couranteni used to write numbers with the digits ordered both right to left and left to right. Jones polynomial discovered that an integer courantene is a positive integer k such that for every positive integer n divisible by k, the integer obtained from n by inverting the order of the digits is also divisible by k. What's the sum of all the whole currents?
 
 **Answer:** 0156
-[[src_cesenatico_2005_squadre_finale__Q14]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q14|src_cesenatico_2005_squadre_finale__Q14]]
 
 
 
@@ -528,7 +528,7 @@ Calculation 3F3+4F4+ for polyethylene with 2005 pins*
 > The gem of Oseen The gem of Oseen, recently discovered by the renowned archaeologist Polinomia Jones, has the shape of a polyester with 2005 spikes. Whether F3 the number of triangular faces of the gem, F4 the number of quadriangular faces, etc. Calculate 3F3 + 4F4 +...
 
 **Answer:** 4010
-[[src_cesenatico_2005_squadre_finale__Q15]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q15|src_cesenatico_2005_squadre_finale__Q15]]
 
 
 
@@ -569,7 +569,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 > The Jones Polynomial pursuit must transport the Oseen gem from Atyiahsinger Temple, where it was found, to the base camp. Polynomial leaves the temple and reaches base camp in four hours. As soon as you arrive, deposit the gem and return to the temple in three hours. His girlfriend, Claire Petiblanc, accompanies Polynomius for the first hour of his journey, then returns slowly to the temple, where she arrives at the same time as Polynomius returns. Al Jabr, Polynomial's loyal assistant, leaves the temple at the same time as the couple, but much slower. Al Jabr reaches the Friendly Polynomial when he is only one hour away from his return to the temple and accompanies him to the arrival. Dr. Von Kernel, the archaic historian of Polynomial, wants to take over the gem. Led by a band of predators, he leaves the temple some time after Polynomial and, traveling faster, arrives simultaneously at him at base camp. Unusually, along their streets, Claire Petiblanc, Al Jabr and Von Kernel find themselves all in the same place at the same time. Knowing that every person has traveled every single stretch of road at a constant speed, how many minutes after Polynomial did Von Kernel and the prey gang leave?
 
 **Answer:** 0168
-[[src_cesenatico_2005_squadre_finale__Q16]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q16|src_cesenatico_2005_squadre_finale__Q16]]
 
 
 
@@ -601,7 +601,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 > The Polynomial Jones trap is trapped! Von Kernel's body was confined in a 10-meter-wide cube-shaped cell. The only way to get rid of it is to touch the center points of the six faces by following the shortest path possible. How many centimeters is this path?
 
 **Answer:** 3535
-[[src_cesenatico_2005_squadre_finale__Q17]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q17|src_cesenatico_2005_squadre_finale__Q17]]
 
 
 
@@ -637,7 +637,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 > 2005 Team competition  National final  Problem texts  Pag. 4 di 4
 
 **Answer:** 0240
-[[src_cesenatico_2005_squadre_finale__Q18]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q18|src_cesenatico_2005_squadre_finale__Q18]]
 
 
 
@@ -672,7 +672,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 > Old memories Polynomial Jones found an old photo in the attic from his school days, which depicts himself, his girlfriend Claire Petiblanc and Von Kernel, once his friend. Their favourite game was to set up on the edge of the school square, a square of 100m, so that all three were at the same distance from each other. Calculate the difference between the areas of the two triangles, that of maximum area and that of minimum area, of vertices of the three companions.
 
 **Answer:** 0311
-[[src_cesenatico_2005_squadre_finale__Q19]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q19|src_cesenatico_2005_squadre_finale__Q19]]
 
 
 
@@ -717,4 +717,4 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 > Our hero Polynomial Jones has finally arrived at the mysterious mystical city of Agartha. At the door he finds the ten wise men waiting for him. In order to gain the privilege of entering the city, Polynomial Jones will have to guess an integer N through the words of the sages. ⋆The first essay states: At least one of the last two statements is true. ⋆The second essay declares: This is the first true statement or the first false statement. ⋆The third essay states: There are three consecutive false statements. ⋆The fourth essay states: The difference between the number of the last true statement and the number of the first true statement is a factor of N. ⋆The fifth essay states: The sum of the numbers of true statements is N. ⋆The sixth essay states: This is not the last true statement. ⋆The seventh essay states: The order number of each true statement is a factor of N. ⋆The eighth essay states: N is equal to the percentage of true statements. ⋆The ninth essay states: The number of different factors of N (not necessarily prime, but different from 1 and N) is greater than the sum of the numbers of true statements. ⋆Finally, the tenth essay states: There are no three consecutive true statements. What's the number N?
 
 **Answer:** 0420
-[[src_cesenatico_2005_squadre_finale__Q20]]
+[[Quesiti/src_cesenatico_2005_squadre_finale#q20|src_cesenatico_2005_squadre_finale__Q20]]

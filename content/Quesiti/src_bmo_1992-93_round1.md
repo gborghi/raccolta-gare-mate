@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova, mostrando il tuo metodo, un numero intero a sei cifre $n$ con le seguenti proprietà: (i) $n$ è un quadrato perfetto, (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente uno maggiore del numero formato dalle prime tre cifre di $n$. (In questo modo $n$ potrebbe sembrare $123124$, anche se questo non è un quadrato.)
 
-[[src_bmo_1992-93_round1__Q01]]
+[[Quesiti/src_bmo_1992-93_round1#q01|src_bmo_1992-93_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Un pezzo quadrato di torta $ABCD$ di lunghezza laterale $1$ e centro $O$ viene tagliato a metà per formare due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ deve essere tagliato in due parti di superficie uguale, di solito si taglia lungo la linea di simmetria $BO$. Tuttavia, ci sono altri modi di farlo. Trova, con giustificazione, la lunghezza e la posizione del taglio retto più breve che divide il triangolo $ABC$ in due parti di superficie uguale.
 
-[[src_bmo_1992-93_round1__Q02]]
+[[Quesiti/src_bmo_1992-93_round1#q02|src_bmo_1992-93_round1__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 1
 > 
 > (Nota: se $x$ e $y$ sono interi, allora $x$ divide $y$ se e solo se esiste un intero $z$ tale che $y = xz$. Per esempio, $x = 4$ divide $y = -12$, poiché possiamo prendere $z = -3$.)
 
-[[src_bmo_1992-93_round1__Q03]]
+[[Quesiti/src_bmo_1992-93_round1#q03|src_bmo_1992-93_round1__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: BMO Round 1
 
 > Due cerchi si toccano internamente a $M$. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
 
-[[src_bmo_1992-93_round1__Q04]]
+[[Quesiti/src_bmo_1992-93_round1#q04|src_bmo_1992-93_round1__Q04]]
 
 
 
@@ -149,4 +149,4 @@ level: BMO Round 1
 
 > Se $x, y, z$ sono numeri reali positivi che soddisfano $$\frac{1}{3} \le xy + yz + zx \le 3.$$ Determina l'intervallo di valori per (i) $xyz$ e (ii) $x + y + z$.
 
-[[src_bmo_1992-93_round1__Q05]]
+[[Quesiti/src_bmo_1992-93_round1#q05|src_bmo_1992-93_round1__Q05]]

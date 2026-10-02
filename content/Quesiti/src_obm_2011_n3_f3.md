@@ -37,7 +37,7 @@ level: OBM Nível 3
 > 
 > Prova che per ogni intero positivo $n$, esiste un chapa con esattamente $n$ cifre.
 
-[[src_obm_2011_n3_f3__Q01]]
+[[Quesiti/src_obm_2011_n3_f3#q01|src_obm_2011_n3_f3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 3
 
 > Un album composto da adesivi del 2011 è stato raccolto da 33 amici. Una distribuzione tra i 33 amici si chiama *incompleto* quando esiste almeno uno dei 33 amici che ha meno di $m$ adesivi. Determinare il valore minimo di $m$ con la seguente proprietà: ogni distribuzione di adesivi tra i 33 amici è tale che, per due amici, entrambi mancano, per ciascuno di loro, almeno $m$ adesivi in comune.
 
-[[src_obm_2011_n3_f3__Q02]]
+[[Quesiti/src_obm_2011_n3_f3#q02|src_obm_2011_n3_f3__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: OBM Nível 3
 
 > Mostrare che per ogni pentagono convexo $P_1P_2P_3P_4P_5$ dell'area 1, esistono due triangoli $P_iP_{i+1}P_{i+2}$ e $P_jP_{j+1}P_{j+2}$ (dove $P_6 = P_1$ e $P_7 = P_2$), formati da tre vertici consecutivi del pentagono, in modo tale che $$\operatorname{area}(P_iP_{i+1}P_{i+2}) \le \frac{5-\sqrt{5}}{10} \le \operatorname{area}(P_jP_{j+1}P_{j+2}).$$
 
-[[src_obm_2011_n3_f3__Q03]]
+[[Quesiti/src_obm_2011_n3_f3#q03|src_obm_2011_n3_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 
 > Esistono numeri interi positivi del 2011 $a_1 < a_2 < \cdots < a_{2011}$ in modo che, per tutti $1 \le i < j \le 2011$, $$\gcd(a_i,\, a_j) = a_j - a_i\,?$$
 
-[[src_obm_2011_n3_f3__Q04]]
+[[Quesiti/src_obm_2011_n3_f3#q04|src_obm_2011_n3_f3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 
 > Che $ABC$ sia un triangolo acuto e $H$ il suo centro orto. Le linee $BH$ e $CH$ incontrano $AC$ e $AB$ rispettivamente a $D$ e $E$. La circoncirca di $ADE$ incontra la circoncirca di $ABC$ a $F \neq A$. Prove che i bisettori interni di $\angle BFC$ e $\angle BHC$ si incontrano in un punto del segmento $BC$.
 
-[[src_obm_2011_n3_f3__Q05]]
+[[Quesiti/src_obm_2011_n3_f3#q05|src_obm_2011_n3_f3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 
 > $x_1, x_2, x_3, \ldots, x_{2011}$ siano numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Provare che $$\left|\prod_{\text{cyc}}(x_i - x_{i+1})\right| = \left|(x_1-x_2)(x_2-x_3)(x_3-x_4)(x_4-x_5)\cdots(x_{2009}-x_{2010})(x_{2010}-x_{2011})(x_{2011}-x_1)\right| \le \frac{3\sqrt{3}}{16}.$$
 
-[[src_obm_2011_n3_f3__Q06]]
+[[Quesiti/src_obm_2011_n3_f3#q06|src_obm_2011_n3_f3__Q06]]

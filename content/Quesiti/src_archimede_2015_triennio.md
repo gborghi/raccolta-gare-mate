@@ -55,7 +55,7 @@ level: triennio
 > - **(E)** 31
 
 **Answer:** C
-[[src_archimede_2015_triennio__Q15]]
+[[Quesiti/src_archimede_2015_triennio#q15|src_archimede_2015_triennio__Q15]]
 
 
 
@@ -102,7 +102,7 @@ level: triennio
 > - **(E)** There's not enough data to determine that.
 
 **Answer:** A
-[[src_archimede_2015_triennio__Q16]]
+[[Quesiti/src_archimede_2015_triennio#q16|src_archimede_2015_triennio__Q16]]
 
 
 
@@ -144,7 +144,7 @@ level: triennio
 > - **(E)** 28
 
 **Answer:** C
-[[src_archimede_2015_triennio__Q17]]
+[[Quesiti/src_archimede_2015_triennio#q17|src_archimede_2015_triennio__Q17]]
 
 
 
@@ -192,7 +192,7 @@ level: triennio
 > - **(E)** 75
 
 **Answer:** A
-[[src_archimede_2015_triennio__Q18]]
+[[Quesiti/src_archimede_2015_triennio#q18|src_archimede_2015_triennio__Q18]]
 
 
 
@@ -239,7 +239,7 @@ level: triennio
 > - **(E)** 18
 
 **Answer:** B
-[[src_archimede_2015_triennio__Q19]]
+[[Quesiti/src_archimede_2015_triennio#q19|src_archimede_2015_triennio__Q19]]
 
 
 
@@ -284,4 +284,4 @@ level: triennio
 > - **(E)** 24 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Race Triennio 25 November 2015 • The test consists of 20 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 
 **Answer:** D
-[[src_archimede_2015_triennio__Q20]]
+[[Quesiti/src_archimede_2015_triennio#q20|src_archimede_2015_triennio__Q20]]

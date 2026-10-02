@@ -45,7 +45,7 @@ level: OBM Nível 2
 > 
 > (c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente $11$ termini.
 
-[[src_obm_2024_n2_fx__Q01]]
+[[Quesiti/src_obm_2024_n2_fx#q01|src_obm_2024_n2_fx__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 
 > Il $ABC$ sia un triangolo e il $E$ e il $F$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. Il segmento $BC$ deve essere $D$. I cerchi circoscritti dei triangoli $BDF$ e $CDE$ si incrociano a un punto $X \neq D$. Il punto $Y$ si trova sulla linea $DX$ in modo tale che $AY$ sia parallelo a $BC$. Prova che i punti $K$, $L$, $X$ e $Y$ si trovano tutti sullo stesso cerchio, dove $K$ e $L$ sono i secondi punti di intersezione (diversi da $X$) dei circoncircoli di $BDF$ e $CDE$ con la linea $EF$.
 
-[[src_obm_2024_n2_fx__Q02]]
+[[Quesiti/src_obm_2024_n2_fx#q02|src_obm_2024_n2_fx__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: OBM Nível 2
 > 
 > Qual è il più grande intero positivo $k$ in modo che possiamo sempre trovare un percorso crescente di lunghezza $k$, indipendentemente dal modo in cui i numeri $1$ a $100$ sono disposti nella griglia?
 
-[[src_obm_2024_n2_fx__Q03]]
+[[Quesiti/src_obm_2024_n2_fx#q03|src_obm_2024_n2_fx__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: OBM Nível 2
 
 > Un numero è chiamato *trilegal* se tutti i suoi numeri appartengono all'insieme $\{1, 2, 3\}$ ed è divisibile da $99$. Quanti numeri trilegali hanno esattamente $10$ cifre?
 
-[[src_obm_2024_n2_fx__Q04]]
+[[Quesiti/src_obm_2024_n2_fx#q04|src_obm_2024_n2_fx__Q04]]
 
 
 
@@ -170,7 +170,7 @@ level: OBM Nível 2
 > 
 > b) Qual è il maggior numero di equazioni che può scrivere sapendo che uno dei numeri che ha inizialmente scelto è $2024$?
 
-[[src_obm_2024_n2_fx__Q05]]
+[[Quesiti/src_obm_2024_n2_fx#q05|src_obm_2024_n2_fx__Q05]]
 
 
 
@@ -197,4 +197,4 @@ level: OBM Nível 2
 
 > Che $ABC$ sia un triangolo di uguali dimensioni con $AB = BC$. Il $D$ deve essere un punto del segmento $AB$, $E$ un punto del segmento $BC$ e $P$ un punto del segmento $DE$ in modo tale che $AD = DP$ e $CE = PE$. $M$ deve essere il punto medio di $DE$. La linea parallela a $AB$ attraverso $M$ si interseca a $AC$ a $X$, e la linea parallela a $BC$ attraverso $M$ si interseca a $Y$. Le linee $DX$ e $EY$ si incrociano a $F$. Prove che $FP$ è perpendicolare a $DE$.
 
-[[src_obm_2024_n2_fx__Q06]]
+[[Quesiti/src_obm_2024_n2_fx#q06|src_obm_2024_n2_fx__Q06]]

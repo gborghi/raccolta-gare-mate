@@ -19,7 +19,7 @@ level: OBM Nível Universitário
 
 > Let $X \subseteq \mathbb{R}^3$ be the convex polyhedron whose vertices are all points $(x, y, z) \in \mathbb{Z}^3$ with $x^2 + y^2 + z^2 = 2$. Calculate the volume of $X$.
 
-![[src_obm_2003_nu_f1__Q01.png]]
+![[src_obm_2003_nu_f1__q01.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: OBM Nível Universitário
 
 > Il $X \subseteq \mathbb{R}^3$ deve essere il poliedro convexo le cui vertici sono tutti i punti $(x, y, z) \in \mathbb{Z}^3$ con $x^2 + y^2 + z^2 = 2$. Calcolare il volume di $X$.
 
-![[src_obm_2003_nu_f1__Q01.png]]
+![[src_obm_2003_nu_f1__q01.png]]
 
-[[src_obm_2003_nu_f1__Q01]]
+[[Quesiti/src_obm_2003_nu_f1#q01|src_obm_2003_nu_f1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível Universitário
 
 > Un giocatore di tennis ha 30 giorni per prepararsi a un torneo. Se si allenano 3 giorni consecutivi, i giorni successivi soffre di stanchezza muscolare. Decide che durante quei 30 giorni si allenerà esattamente 20 giorni, non si allenerà mai per 3 giorni consecutivi, e riposa i restanti 10 giorni. In quanti modi diversi può scegliere i 10 giorni di riposo?
 
-[[src_obm_2003_nu_f1__Q02]]
+[[Quesiti/src_obm_2003_nu_f1#q02|src_obm_2003_nu_f1__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível Universitário
 
 > Lasciate che $A$ e $B$ siano matrici invertibili $n \times n$ reali. Indicare che se la condizione $(AB)^k = A^k B^k$ è valida per tre valori interi consecutivi di $k$, allora $AB = BA$.
 
-[[src_obm_2003_nu_f1__Q03]]
+[[Quesiti/src_obm_2003_nu_f1#q03|src_obm_2003_nu_f1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível Universitário
 
 > Sappiamo che $\displaystyle\sum_{k=1}^{\infty} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6}$. Definire $f(n) = \displaystyle\sum_{k=1}^{n} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \cdots + \frac{1}{n^2}$. Prove che esiste un numero reale $a > 0$ tale che il limite $$\lim_{n \to \infty} \left( f(n) - \frac{\pi^2}{6} + \frac{a}{n} \right)$$ esista. Trova $a$ e questo limite.
 
-[[src_obm_2003_nu_f1__Q04]]
+[[Quesiti/src_obm_2003_nu_f1#q04|src_obm_2003_nu_f1__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível Universitário
 
 > $a$ e $n$ siano integri con $n > 1$ e $\gcd(a, n) = 1$. Prova che il polinomio $\dfrac{1}{n}\bigl((X + a)^n - X^n - a\bigr)$ ha tutti i coefficienti interi se e solo se $n$ è primo.
 
-[[src_obm_2003_nu_f1__Q05]]
+[[Quesiti/src_obm_2003_nu_f1#q05|src_obm_2003_nu_f1__Q05]]
 
 
 
@@ -172,4 +172,4 @@ level: OBM Nível Universitário
 
 > Definire $a_1 = 3$ e $a_{n+1} = a_n^2 - 2$. Prove che $$\lim_{n \to \infty} \frac{\log \log a_n}{n} = \log 2$$ e calcola $\displaystyle\lim_{n \to \infty} (\log \log a_n - n \log 2)$. (Tutti i logaritmi sono in base $e$.)
 
-[[src_obm_2003_nu_f1__Q06]]
+[[Quesiti/src_obm_2003_nu_f1#q06|src_obm_2003_nu_f1__Q06]]

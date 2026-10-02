@@ -35,7 +35,7 @@ Unit vectors from O: sum of lengths condition with parity
 
 > Point $O$ lies on line $g$. $\overrightarrow{OP_1}$, $\overrightarrow{OP_2}$, $\ldots$, $\overrightarrow{OP_n}$ are unit vectors such that points $P_1, P_2, \ldots, P_n$ all lie in a plane containing $g$. Prove that if $n$ is odd, $$|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}| \geq 1.$$ Here $|\overrightarrow{OM}|$ denotes the length of vector $\overrightarrow{OM}$.
 
-[[src_imho_1973__Q01]]
+[[Quesiti/src_imho_1973#q01|src_imho_1973__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Unit vectors from O: sum of lengths condition with parity
 
 > Determine whether or not there exists a finite set $M$ of points in space not lying in the same plane such that, for any two points $A$ and $B$ of $M$, one can select two other points $C$ and $D$ of $M$ so that lines $AB$ and $CD$ are parallel and not coincident.
 
-[[src_imho_1973__Q02]]
+[[Quesiti/src_imho_1973#q02|src_imho_1973__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Unit vectors from O: sum of lengths condition with parity
 
 > Let $a$ and $b$ be real numbers for which the equation $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$ has at least one real solution. For all such pairs $(a, b)$, find the minimum value of $b$.
 
-[[src_imho_1973__Q03]]
+[[Quesiti/src_imho_1973#q03|src_imho_1973__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Soldier finds path of least distance through equilateral triangle
 
 > A soldier needs to check on the presence of mines in a region having the shape of an equilateral triangle. The radius of action of his detector is equal to half the altitude of the triangle. The soldier leaves from one vertex of the triangle. What path should he follow in order to travel the least possible distance and still accomplish his mission?
 
-[[src_imho_1973__Q04]]
+[[Quesiti/src_imho_1973#q04|src_imho_1973__Q04]]
 
 
 
@@ -163,7 +163,7 @@ Soldier finds path of least distance through equilateral triangle
 > 
 > Prove that there exists a real number $k$ such that $f(k) = k$ for all $f$ in $G$.
 
-[[src_imho_1973__Q05]]
+[[Quesiti/src_imho_1973#q05|src_imho_1973__Q05]]
 
 
 
@@ -202,4 +202,4 @@ Soldier finds path of least distance through equilateral triangle
 > 
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
 
-[[src_imho_1973__Q06]]
+[[Quesiti/src_imho_1973#q06|src_imho_1973__Q06]]

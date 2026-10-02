@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > A figure made of $6$ squares, each of side length $1$, is inscribed in a circle as shown. Find the area of the region indicated by the hatching (the shaded region). Here, take the ratio of the circumference of a circle to its diameter to be $\pi$.
 
-![[src_jjmo13yq_yosen__Q01.png]]
+![[src_jjmo13yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: JJMO Yosen
 
 > Una figura fatta di quadrati $6$, ciascuno di lunghezza laterale $1$, è inserita in un cerchio come mostrato. Trovare l'area della regione indicata dall'incubamento (la regione ombrosa). Prendete qui il rapporto tra la circonferenza di un cerchio e il suo diametro a $\pi$.
 
-![[src_jjmo13yq_yosen__Q01.png]]
+![[src_jjmo13yq_yosen__q01.png]]
 
 **Risposta:** \frac{5\pi}{2}-2
-[[src_jjmo13yq_yosen__Q01]]
+[[Quesiti/src_jjmo13yq_yosen#q01|src_jjmo13yq_yosen__Q01]]
 
 
 
@@ -57,7 +57,7 @@ level: JJMO Yosen
 > \end{itemize}
 > How many such ways are there? Arrangements obtained from one another by rotation or reflection are regarded as the same.
 
-![[src_jjmo13yq_yosen__Q02.png]]
+![[src_jjmo13yq_yosen__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -74,10 +74,10 @@ level: JJMO Yosen
 
 > Ci sono $10$ cerchi di uguale dimensione, disposti come indicato (un pila triangolare con $4$ cerchi nella riga inferiore, quindi $3$, quindi $2$, quindi $1$ in alto; ogni cerchio è tangente ai cerchi che tocca). Scriviamo un intero positivo in ogni cerchio in modo che si applichino entrambe le seguenti condizioni: \begin{itemize} \item Il numero intero $1$ è scritto esattamente in cerchio $1$, $2$ in cerchi esattamente $2$, $3$ in cerchi esattamente $3$, e $4$ in cerchi esattamente $4$. \item Ogni due cerchi reciprocamente tangenti contengono diversi interi. Quanti sono questi modi? Gli accordi ottenuti l'uno dall'altro mediante rotazione o riflessione sono considerati uguali.
 
-![[src_jjmo13yq_yosen__Q02.png]]
+![[src_jjmo13yq_yosen__q02.png]]
 
 **Risposta:** 6
-[[src_jjmo13yq_yosen__Q02]]
+[[Quesiti/src_jjmo13yq_yosen#q02|src_jjmo13yq_yosen__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: JJMO Yosen
 > $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$
 > The multiplication is written in the standard long-multiplication layout (a two-digit number times a two-digit number, with two partial products that are then added). There are exactly $2$ ways to reconstruct the original multiplication; find the original multiplications and, for each, the number written in the bottom row (the final product). Note: a blank place may hold any digit from $0$ to $9$, and the leading (highest-place) digit of each row must not be $0$.
 
-![[src_jjmo13yq_yosen__Q03.png]]
+![[src_jjmo13yq_yosen__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -109,10 +109,10 @@ level: JJMO Yosen
 
 > Taro fece un problema di moltiplicazione lunga, ma perché alcuni dei numeri scritti divennero macchiati e illeggibili, sostituì ogni cifra illeggibile con uno dei simboli di seguito. Un dato simbolo può rappresentare una delle due cifre, secondo la leggenda: $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$ La moltiplicazione è scritta nel layout di moltiplicazione a lungo standard (un numero a due cifre volte un numero a due cifre, con due prodotti parziali che vengono quindi aggiunti). Esistono esattamente $2$ modi per ricostruire la moltiplicazione originale; trovare le moltiplicazioni originali e, per ciascuna, il numero scritto nella riga inferiore (il prodotto finale). Nota: un posto vuoto può contenere qualsiasi cifra da $0$ a $9$, e la cifra principale (in posizione più alta) di ciascuna riga non deve essere $0$.
 
-![[src_jjmo13yq_yosen__Q03.png]]
+![[src_jjmo13yq_yosen__q03.png]]
 
 **Risposta:** 588
-[[src_jjmo13yq_yosen__Q03]]
+[[Quesiti/src_jjmo13yq_yosen#q03|src_jjmo13yq_yosen__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: JJMO Yosen
 > Ci sono carte etichettate $1, 2, \ldots, 12$, una di ciascuna, $12$ carte in totale. Sono distribuite a tre persone A, B e C, ognuna con carte $4$. Per ciascuna persona viene calcolata la somma dei quadrati dei numeri sulle loro carte: la somma di A è $204$, la somma di B è $211$ e la somma di C è $235$. Determinare i numeri delle carte distribuite a A e a B.
 
 **Risposta:** A: \{2,6,8,10\},\ B: \{4,5,7,11\}
-[[src_jjmo13yq_yosen__Q04]]
+[[Quesiti/src_jjmo13yq_yosen#q04|src_jjmo13yq_yosen__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: JJMO Yosen
 
 > In a plane there are three circles $A$, $B$, $O$ (named by their centers). The radius of $A$ is $12$ and the radius of $B$ is $8$. Moreover $A$ and $B$ are mutually external (each lies outside the other), and both lie inside $O$. The center of $O$ is the midpoint of the segment joining the center of $A$ and the center of $B$. (Each of $A$ and $B$ is internally tangent to $O$.) Consider the chords of $O$ that are tangent to both $A$ and $B$; their lengths take $2$ values. Calling these $p$ and $q$ with $p > q$, find $p^2 - q^2$.
 
-![[src_jjmo13yq_yosen__Q05.png]]
+![[src_jjmo13yq_yosen__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -171,10 +171,10 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 
 > In un piano ci sono tre cerchi $A$, $B$, $O$ (chiamati dai loro centri). Il raggio di $A$ è $12$ e il raggio di $B$ è $8$. Inoltre $A$ e $B$ sono reciprocamente esteri (ciascuno è all'esterno dell'altro), e entrambi sono all'interno di $O$. Il centro di $O$ è il punto medio del segmento che unisce il centro di $A$ e il centro di $B$. (Ciascuno di $A$ e $B$ è tangente internamente a $O$.) Considera gli accordi di $O$ che sono tangenti a $A$ e $B$; le loro lunghezze assumono valori $2$. Indicando $p$ e $q$ con $p > q$, si trova $p^2 - q^2$.
 
-![[src_jjmo13yq_yosen__Q05.png]]
+![[src_jjmo13yq_yosen__q05.png]]
 
 **Risposta:** 384
-[[src_jjmo13yq_yosen__Q05]]
+[[Quesiti/src_jjmo13yq_yosen#q05|src_jjmo13yq_yosen__Q05]]
 
 
 
@@ -203,7 +203,7 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 > Le caselle $2015$ sono disposte in fila. In ciascuna scatola mettiamo esattamente una palla, che è rossa, blu o bianca. Inoltre, nelle scatole in posizioni dispari che contano da sinistra non si colloca una palla bianca, e nelle scatole adiacenti non devono contenere palle dello stesso colore. Quanti modi ci sono per mettere le palle?
 
 **Risposta:** 2\cdot 3^{1007}
-[[src_jjmo13yq_yosen__Q06]]
+[[Quesiti/src_jjmo13yq_yosen#q06|src_jjmo13yq_yosen__Q06]]
 
 
 
@@ -233,7 +233,7 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 > Trova il numero reale positivo $x$ che soddisfa la seguente equazione: $$x + \sqrt{x(x+1)} + \sqrt{x(x+2)} + \sqrt{(x+1)(x+2)} = 2.$$
 
 **Risposta:** \frac{1}{24}
-[[src_jjmo13yq_yosen__Q07]]
+[[Quesiti/src_jjmo13yq_yosen#q07|src_jjmo13yq_yosen__Q07]]
 
 
 
@@ -266,7 +266,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Condizione: per ogni colore di palla, ciascuna persona detiene palle $0$ di quel colore o almeno palle $2$ di quel colore.
 
 **Risposta:** 1530
-[[src_jjmo13yq_yosen__Q08]]
+[[Quesiti/src_jjmo13yq_yosen#q08|src_jjmo13yq_yosen__Q08]]
 
 
 
@@ -295,7 +295,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto all'interno di esso. Poiché $\angle BAC = 70^\circ$, $\angle PBC = 30^\circ$ e $\angle APC = 150^\circ$, si trova la misura di $\angle PAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{35}{2}^\circ
-[[src_jjmo13yq_yosen__Q09]]
+[[Quesiti/src_jjmo13yq_yosen#q09|src_jjmo13yq_yosen__Q09]]
 
 
 
@@ -332,7 +332,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Operazione 2: Scegli un numero intero $j$ con $1 \le j \le 100$ e gira ogni moneta nelle celle della colonna $j$ in coda in alto.
 
 **Risposta:** 6\cdot 4^{100}-6\cdot 3^{100}+2^{100}
-[[src_jjmo13yq_yosen__Q10]]
+[[Quesiti/src_jjmo13yq_yosen#q10|src_jjmo13yq_yosen__Q10]]
 
 
 
@@ -361,7 +361,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > In un piano ci sono $5$ punti $A, B, C, D, O$. Tra questi, $A, B, C, D$ si trova in questo ordine sulla stessa linea retta, mentre $O$ non è in quella linea. Si ritiene che $OA = 16$, $OB = 10$, $OC = 9$, $OD = 12$ e $\angle AOB = \angle COD$. Trova il valore di $\dfrac{BC}{AD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \frac{38}{105}
-[[src_jjmo13yq_yosen__Q11]]
+[[Quesiti/src_jjmo13yq_yosen#q11|src_jjmo13yq_yosen__Q11]]
 
 
 
@@ -394,4 +394,4 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 > Operazione: Scegli una delle celle adiacenti (in alto, in basso, a sinistra o a destra) alla cella che contiene il pezzo e scambia il pezzo con la moneta in quella cella (scambia le loro posizioni).
 
 **Risposta:** 47
-[[src_jjmo13yq_yosen__Q12]]
+[[Quesiti/src_jjmo13yq_yosen#q12|src_jjmo13yq_yosen__Q12]]

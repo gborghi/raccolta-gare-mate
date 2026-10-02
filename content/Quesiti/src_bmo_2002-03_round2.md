@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Per ogni numero intero $n > 1$, $p(n)$ indica il più grande fattore primo di $n$. Determinare tutti i triples $(x, y, z)$ di numeri interi positivi distinti che soddisfano: (i) $x, y, z$ sono in progressione aritmetica e (ii) $p(x), p(y), p(z)$ sono in progressione aritmetica.
 
-[[src_bmo_2002-03_round2__Q01]]
+[[Quesiti/src_bmo_2002-03_round2#q01|src_bmo_2002-03_round2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Lasciate che $ABC$ sia un triangolo. $D$ sia il punto medio di $BC$. Il bisettore angolare di $\angle BAC$ incontra $BC$ a $E$. Prove che $\angle AED < 90^\circ$ se $AB > AC$.
 
-[[src_bmo_2002-03_round2__Q02]]
+[[Quesiti/src_bmo_2002-03_round2#q02|src_bmo_2002-03_round2__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: BMO Round 2
 > 
 > (i) Mostra che vi è una progressione aritmetica di integri positivi $a, a+d, a+2d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d).$$ (ii) Deve esserci una progressione aritmetica $a, a+d, a+2d, \ldots, a+2003d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d) < \cdots < f(a+2003d)?$$
 
-[[src_bmo_2002-03_round2__Q03]]
+[[Quesiti/src_bmo_2002-03_round2#q03|src_bmo_2002-03_round2__Q03]]
 
 
 
@@ -123,4 +123,4 @@ level: BMO Round 2
 
 > Let $f$ essere una funzione da $\mathbb{N}$ a $\mathbb{N}$ (dove $\mathbb{N}$ indica l'insieme di interi positivi) tale che $f(f(n)) = n + 2003$ per tutti $n \in \mathbb{N}$. Quanti valori inferiori a $2003$ ci sono nell'immagine di $f$?
 
-[[src_bmo_2002-03_round2__Q04]]
+[[Quesiti/src_bmo_2002-03_round2#q04|src_bmo_2002-03_round2__Q04]]

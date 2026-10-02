@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. Provare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
 
-[[src_bmo2_2000__Q01]]
+[[Quesiti/src_bmo2_2000#q01|src_bmo2_2000__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Dato che $x, y$ sono numeri reali positivi che soddisfano $xy = 32$, trovare il valore minimo di $x^2 + 4xy + 4y^2$.
 
-[[src_bmo2_2000__Q02]]
+[[Quesiti/src_bmo2_2000#q02|src_bmo2_2000__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 2
 
 > Trova i numeri interi positivi $n$ e $k$ tali da $\left(\sqrt{6} + \sqrt{5} - 1\right)^{49} + \left(\sqrt{6} + \sqrt{5} + 1\right)^{49} = 49 + 2\sqrt{6k}$.
 
-[[src_bmo2_2000__Q03]]
+[[Quesiti/src_bmo2_2000#q03|src_bmo2_2000__Q03]]
 
 
 
@@ -114,4 +114,4 @@ level: BMO Round 2
 
 > (a) Trovare un insieme $A$ di dieci elementi distinti in modo tale che sei elementi distinti di $A$ abbiano una somma divisibile per 6. (b) È possibile trovare un tale insieme quando "dieci" viene sostituito da "sette"?
 
-[[src_bmo2_2000__Q04]]
+[[Quesiti/src_bmo2_2000#q04|src_bmo2_2000__Q04]]

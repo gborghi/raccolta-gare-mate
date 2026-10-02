@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Mostrare che non esiste un intero positivo $n$ tale che $2n^2+1$, $3n^2+1$ e $6n^2+1$ siano tutti quadrati perfetti.
 
-[[src_jmo14mq_honsen__Q01]]
+[[Quesiti/src_jmo14mq_honsen#q01|src_jmo14mq_honsen__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: JMO Honsen
 
 > Che $f(x)$ sia una funzione a valore reale definita sui numeri reali in modo tale che, per tutti i numeri reali $x$ e $y$, $$f\left(x f(x) + f(y)\right) = \left(f(x)\right)^2 + y$$ sia valida. Trova tutte le funzioni possibili $f(x)$.
 
-[[src_jmo14mq_honsen__Q02]]
+[[Quesiti/src_jmo14mq_honsen#q02|src_jmo14mq_honsen__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JMO Honsen
 
 > nello spazio, ci sono due piani reciprocamente perpendicolari $\pi_1$ e $\pi_2$. Se $A$ e $B$ sono due punti distinti sulla linea di intersezione di $\pi_1$ e $\pi_2$, e se $C$ è un punto che si trova su $\pi_2$ ma non su $\pi_1$. Il $P$ deve essere l'intersezione del bisettore di $\angle BCA$ con $AB$, e $S$ deve essere il cerchio di $\pi_1$ con $AB$ come diametro. Indicare che, per qualsiasi piano $\pi_3$ contenente $CP$, se $D$ e $E$ indicano i punti di intersezione di $\pi_3$ con $S$, allora $CP$ è il bisettore di $\angle DCE$.
 
-[[src_jmo14mq_honsen__Q03]]
+[[Quesiti/src_jmo14mq_honsen#q03|src_jmo14mq_honsen__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: JMO Honsen
 
 > Per i numeri reali positivi $a$, $b$, $c$ che soddisfano $a + b + c = 1$, dimostrare che $$\frac{1+a}{1-a} + \frac{1+b}{1-b} + \frac{1+c}{1-c} \le 2\left(\frac{b}{a} + \frac{c}{b} + \frac{a}{c}\right).$$ (Non è necessario indicare le condizioni per l'uguaglianza.)
 
-[[src_jmo14mq_honsen__Q04]]
+[[Quesiti/src_jmo14mq_honsen#q04|src_jmo14mq_honsen__Q04]]
 
 
 
@@ -143,4 +143,4 @@ level: JMO Honsen
 
 > Su una certa isola, ogni città è collegata da strade ad esattamente altre tre città. Nel viaggio dell'anno scorso, il viaggiatore ha lasciato una certa città, visitato ogni città dell'isola esattamente una volta e tornato nella città di partenza. Quest'anno, il viaggiatore desidera fare un viaggio che, partendo dalla stessa città, visita di nuovo ogni città dell'isola esattamente una volta e ritorna lì. Tuttavia, il viaggiatore vuole evitare sia l'ordine esatto dello scorso anno che l'ordine che è semplicemente il suo contrario. Mostrate che è possibile.
 
-[[src_jmo14mq_honsen__Q05]]
+[[Quesiti/src_jmo14mq_honsen#q05|src_jmo14mq_honsen__Q05]]

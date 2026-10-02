@@ -52,7 +52,7 @@ level: BMO Round 2
 > 
 > b) dimostrare che se $f$ è differenziabile ovunque, e trovare il $f$ più generale in questo caso.
 
-[[src_bmo2_1975__Q01]]
+[[Quesiti/src_bmo2_1975#q01|src_bmo2_1975__Q01]]
 
 
 
@@ -81,7 +81,7 @@ level: BMO Round 2
 
 > Prova che ogni intero positivo che non è membro del set infinito $$3,\,-2,\,2^2 \cdot 3,\,-2^3,\,\ldots,\,2^{2k} \cdot 3,\,-2^{2k+1},\,\ldots$$ è uguale alla somma di due o più membri del set.
 
-[[src_bmo2_1975__Q02]]
+[[Quesiti/src_bmo2_1975#q02|src_bmo2_1975__Q02]]
 
 
 
@@ -108,7 +108,7 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 
 > Ci sono paesi che partecipano a un concorso internazionale di matematica, con due concorrenti di ciascun paese. Il concorso si svolge in due sale, $A$ e $B$. All'inizio del concorso i concorrenti $2n$ formano una coda, in qualsiasi ordine. Il concorrente in testa alla coda va per primo alla porta della stanza $A$. Ogni concorrente successivo va prima alla porta della stanza $A$. Se il suo compatriota non è già nella stanza, entra; altrimenti entra nell'altra stanza. Se tutti gli ordini di coda sono ugualmente probabili, determinare con prova la probabilità che la stanza $A$ sia riempita di concorrenti $n$ prima della stanza $B$.
 
-[[src_bmo2_1975__Q03]]
+[[Quesiti/src_bmo2_1975#q03|src_bmo2_1975__Q03]]
 
 
 
@@ -123,7 +123,7 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 > 
 > Prove that such a configuration of 12 circles exists on the surface of a sphere with all the 12 circles having equal radii.
 
-![[src_bmo2_1975__Q04.png]]
+![[src_bmo2_1975__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -141,6 +141,6 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 > 
 > Prova che una tale configurazione di 12 cerchi esiste sulla superficie di una sfera con tutti i 12 cerchi con uguali raggi.
 
-![[src_bmo2_1975__Q04.png]]
+![[src_bmo2_1975__q04.png]]
 
-[[src_bmo2_1975__Q04]]
+[[Quesiti/src_bmo2_1975#q04|src_bmo2_1975__Q04]]

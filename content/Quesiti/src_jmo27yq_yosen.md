@@ -35,7 +35,7 @@ level: JMO Yosen
 > Il quadrilaterale $ABCD$ soddisfa $\angle A=\angle B=\angle C=30^\circ$, $AB=4$ e $BC=2\sqrt{3}$. Trova l'area del quadrilaterale $ABCD$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
 **Risposta:** $\dfrac{3\sqrt{3}}{2}$
-[[src_jmo27yq_yosen__Q01]]
+[[Quesiti/src_jmo27yq_yosen#q01|src_jmo27yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Quante coppie di integri positivi $(a,b)$ esistono tali che $a<b$, $ab=29!$, e $a$ e $b$ siano coprime (cioè: $\gcd(a,b)=1$)?
 
 **Risposta:** $512$
-[[src_jmo27yq_yosen__Q02]]
+[[Quesiti/src_jmo27yq_yosen#q02|src_jmo27yq_yosen__Q02]]
 
 
 
@@ -79,7 +79,7 @@ level: JMO Yosen
 > $$AP=269,\quad PQ=292,\quad QB=223,\qquad AR=387,\quad RS=263,\quad SD=176,$$
 > find the value of (total area of the black regions) $-$ (total area of the white regions). (If the answer contains a radical $\sqrt{XY}$, give the value $XY$ under the radical.)
 
-![[src_jmo27yq_yosen__Q03.png]]
+![[src_jmo27yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -96,10 +96,10 @@ level: JMO Yosen
 
 > Come nella figura, il rettangolo $ABCD$ è diviso in regioni $9$ da linee $4$ parallele ai suoi lati, e le regioni sono colorate alternatamente in bianco e nero. Date $$AP=269,\quad PQ=292,\quad QB=223,\qquad AR=387,\quad RS=263,\quad SD=176,$$, si trova il valore di (superficie totale delle regioni nere) $-$ (superficie totale delle regioni bianche). (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
-![[src_jmo27yq_yosen__Q03.png]]
+![[src_jmo27yq_yosen__q03.png]]
 
 **Risposta:** $60000$
-[[src_jmo27yq_yosen__Q03]]
+[[Quesiti/src_jmo27yq_yosen#q03|src_jmo27yq_yosen__Q03]]
 
 
 
@@ -112,7 +112,7 @@ level: JMO Yosen
 
 > Three distinct points $D$, $B$, $C$ are collinear with $DB=BC=2$. Point $A$ satisfies $AB=AC$. Suppose there exists a circle $\Gamma$ tangent to line $AC$ at $A$ and tangent to line $DC$ at $D$. Let $E$ be the intersection of $\Gamma$ and line $AB$ other than $A$, and let $F$ be the intersection of line $CE$ and $\Gamma$ other than $E$. Find the length of segment $EF$. (If the answer contains a radical $\sqrt{XY}$, give the value $XY$ under the radical.)
 
-![[src_jmo27yq_yosen__Q04.png]]
+![[src_jmo27yq_yosen__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -129,10 +129,10 @@ level: JMO Yosen
 
 > Tre punti distinti $D$, $B$ e $C$ sono collineari con $DB=BC=2$. Il punto $A$ soddisfa $AB=AC$. Supponiamo che esista un cerchio $\Gamma$ tangente alla linea $AC$ a $A$ e tangente alla linea $DC$ a $D$. $E$ sia l'intersezione di $\Gamma$ e della linea $AB$ diversa da $A$, e $F$ sia l'intersezione di $CE$ e $\Gamma$ diversa da $E$. Trova la lunghezza del segmento $EF$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
-![[src_jmo27yq_yosen__Q04.png]]
+![[src_jmo27yq_yosen__q04.png]]
 
 **Risposta:** $6$
-[[src_jmo27yq_yosen__Q04]]
+[[Quesiti/src_jmo27yq_yosen#q04|src_jmo27yq_yosen__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: JMO Yosen
 > Quanti tuppi ordinati $(a,b,c,d,e)$ di integri positivi reciprocamente distinti sono tali da $a+b=c+d+e=29$?
 
 **Risposta:** $7392$
-[[src_jmo27yq_yosen__Q05]]
+[[Quesiti/src_jmo27yq_yosen#q05|src_jmo27yq_yosen__Q05]]
 
 
 
@@ -193,7 +193,7 @@ level: JMO Yosen
 > Una sequenza di numeri interi $x_1,x_2,\dots$ è definita da $$x_1=1,\qquad x_2=x_3=\cdots=x_{13}=0,$$ $$x_{n+13}=x_{n+5}+2x_n\qquad(n=1,2,\dots).$$ Trova il valore di $x_{144}$.
 
 **Risposta:** $2888$
-[[src_jmo27yq_yosen__Q06]]
+[[Quesiti/src_jmo27yq_yosen#q06|src_jmo27yq_yosen__Q06]]
 
 
 
@@ -222,7 +222,7 @@ level: JMO Yosen
 > Una riorganizzazione $a_1,a_2,\dots,a_{1000}$ di $1,2,\dots,1000$ è chiamata una buona riorganizzazione se soddisfa: per i numeri interi positivi $m,n\le 1000$, se $n$ è un multiple di $m$ allora $a_n$ è un multiple di $a_m$. Trova il numero intero positivo più piccolo $k$ che soddisfi la seguente condizione: esiste una buona riorganizzazione $b_1,b_2,\dots,b_{1000}$ con $b_k\neq k$.
 
 **Risposta:** $59$
-[[src_jmo27yq_yosen__Q07]]
+[[Quesiti/src_jmo27yq_yosen#q07|src_jmo27yq_yosen__Q07]]
 
 
 
@@ -251,7 +251,7 @@ level: JMO Yosen
 > Sul lato $BC$ del triangolo $ABC$ ci sono due punti $D$ e $E$, con i quattro punti $B,D,E,C$ in questo ordine. Abbiamo $\angle BAD=\angle ACE$ e $\angle ABD=\angle CAE$. $X$ sia il secondo punto di intersezione (diverso da $A$) del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ADC$, e $F$ sia l'intersezione di $AX$ e $BC$. Date $BF=5$, $CF=6$ e $XD=3$, si trova la lunghezza del segmento $XE$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
 **Risposta:** $\dfrac{3\sqrt{30}}{5}$
-[[src_jmo27yq_yosen__Q08]]
+[[Quesiti/src_jmo27yq_yosen#q08|src_jmo27yq_yosen__Q08]]
 
 
 
@@ -280,7 +280,7 @@ level: JMO Yosen
 > Per una permutazione $\sigma=(\sigma(1),\sigma(2),\dots,\sigma(2017))$ di $1,2,\dots,2017$, $F(\sigma)$ indichi il numero di indici $i$ con $1\le i\le 2017$ tale che $\sigma(i)=i$. Trova la somma di $F(\sigma)^4$ su tutte le permutazioni $\sigma$.
 
 **Risposta:** $15\cdot 2017!$
-[[src_jmo27yq_yosen__Q09]]
+[[Quesiti/src_jmo27yq_yosen#q09|src_jmo27yq_yosen__Q09]]
 
 
 
@@ -309,7 +309,7 @@ level: JMO Yosen
 > Il triangolo $ABC$ soddisfa $\angle B=90^\circ$, $AB=8$, $BC=3$. Un punto $P$ si trova sul lato $BC$, un punto $Q$ sul lato $CA$ e un punto $R$ sul lato $AB$, soddisfacendo $\angle CRP=\angle CRQ$ e $\angle BPR=\angle CPQ$. Inoltre, il perimetro del triangolo $PQR$ è $12$. Trova la lunghezza della perpendicolare abbassata da $Q$ a lato $BC$. (Se la risposta contiene un radicale $\sqrt{XY}$, indicare il valore $XY$ sotto il radicale.)
 
 **Risposta:** $\dfrac{9}{2}$
-[[src_jmo27yq_yosen__Q10]]
+[[Quesiti/src_jmo27yq_yosen#q10|src_jmo27yq_yosen__Q10]]
 
 
 
@@ -338,7 +338,7 @@ level: JMO Yosen
 > Una classe ha $30$ studenti assegnati numeri di frequenza $1,2,\dots,30$. A questa classe è stata data una prova composta da diversi problemi. Dopo la valutazione, l'insegnante ha notato che le seguenti due proposizioni su un sottoinsieme $S$ di $\{1,2,\dots,30\}$ sono equivalenti: (1) per ogni problema, esiste un elemento $k$ di $S$ in modo tale che lo studente con numero di frequenza $k$ risponda correttamente a tale problema; (2) $S$ contiene tutti i multipli di $2$ da $1$ a $30$, o tutti i multipli di $3$ da $1$ a $30$, o tutti i multipli di $5$ da $1$ a $30$. Trova il minor numero possibile di problemi nel test.
 
 **Risposta:** $103$
-[[src_jmo27yq_yosen__Q11]]
+[[Quesiti/src_jmo27yq_yosen#q11|src_jmo27yq_yosen__Q11]]
 
 
 
@@ -367,4 +367,4 @@ level: JMO Yosen
 > Un capo e un subordinato giocano il gioco seguente. Indipendentemente dalla cella in cui il subordinato inizia e dalle azioni del subordinato, $a_n$ deve essere il numero intero positivo $X$ più piccolo per il quale il capo può vincere. Qui $n$ è un numero intero positivo, e un token subordinato è su una cellula di una griglia $n\times n$. Il capo e il subordinato ripetono alternativamente le azioni di seguito; il capo vince se il subordinato diventa incapace di agire all'interno della griglia. Azione del capo: il capo conferma su quale cellula si trova il subordinato, sceglie quindi una serie di cellule $X$. Azione del subordinato: il subordinato si sposta in una cella adiacente su/basso/sinistra/destra tra $0$ e $4$ volte, terminando in una cella che non è tra le celle $X$ scelte dal capo. Trova il valore più piccolo di $n$ tale da $a_n=a_{2017}$.
 
 **Risposta:** $23$
-[[src_jmo27yq_yosen__Q12]]
+[[Quesiti/src_jmo27yq_yosen#q12|src_jmo27yq_yosen__Q12]]

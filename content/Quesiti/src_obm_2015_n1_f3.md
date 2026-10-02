@@ -25,7 +25,7 @@ level: OBM Nível 1
 > 
 > c) There exists a cube whose skeleton, once built, requires a number of cubes equal to the number of cubes needed to fill the empty spaces of that skeleton. If Zuleica wants to build the skeleton of this cube, how many cubes will she need to use?
 
-![[src_obm_2015_n1_f3__Q01.png]]
+![[src_obm_2015_n1_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -47,9 +47,9 @@ level: OBM Nível 1
 > 
 > c) Esiste un cubo il cui scheletro, una volta costruito, richiede un numero di cubetti uguale al numero di cubetti necessari per riempire gli spazi vuoti di quel scheletro. Se Zuleica vuole costruire lo scheletro di questo cubo, quanti cubhi avrà bisogno di usare?
 
-![[src_obm_2015_n1_f3__Q01.png]]
+![[src_obm_2015_n1_f3__q01.png]]
 
-[[src_obm_2015_n1_f3__Q01]]
+[[Quesiti/src_obm_2015_n1_f3#q01|src_obm_2015_n1_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > 
 > c) In how many different ways can the situation described in (b) occur (i.e., in how many ways can the $6$ drawn cards be divided into three pairs all having the same sum)?
 
-![[src_obm_2015_n1_f3__Q02.png]]
+![[src_obm_2015_n1_f3__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -90,9 +90,9 @@ level: OBM Nível 1
 > 
 > c) In quanti modi diversi può verificarsi la situazione descritta alla lettera b) (cioè, in quanti modi le carte tirate $6$ possono essere suddivise in tre coppie che hanno tutte la stessa somma)?
 
-![[src_obm_2015_n1_f3__Q02.png]]
+![[src_obm_2015_n1_f3__q02.png]]
 
-[[src_obm_2015_n1_f3__Q02]]
+[[Quesiti/src_obm_2015_n1_f3#q02|src_obm_2015_n1_f3__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 1
 > 
 > b) What is the value of $\ell$?
 
-![[src_obm_2015_n1_f3__Q03.png]]
+![[src_obm_2015_n1_f3__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
@@ -129,9 +129,9 @@ level: OBM Nível 1
 > 
 > b) Qual è il valore di $\ell$?
 
-![[src_obm_2015_n1_f3__Q03.png]]
+![[src_obm_2015_n1_f3__q03.png]]
 
-[[src_obm_2015_n1_f3__Q03]]
+[[Quesiti/src_obm_2015_n1_f3#q03|src_obm_2015_n1_f3__Q03]]
 
 
 
@@ -172,7 +172,7 @@ level: OBM Nível 1
 > 
 > c) Trovare il valore di ciascuna lettera nell'uguaglianza: $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O ) = 1715$$
 
-[[src_obm_2015_n1_f3__Q04]]
+[[Quesiti/src_obm_2015_n1_f3#q04|src_obm_2015_n1_f3__Q04]]
 
 
 
@@ -189,7 +189,7 @@ level: OBM Nível 1
 > 
 > c) In the figure below, there are squares $ABCD$, $EFGH$, $CHIJ$, $LDJM$, and $JGON$. It is known that $AB = 5$ cm, $BI = 5$ cm, $IE = 5$ cm, and $EF = 12$ cm. What is the area of triangle $MNJ$?
 
-![[src_obm_2015_n1_f3__Q05.png]]
+![[src_obm_2015_n1_f3__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -209,6 +209,6 @@ level: OBM Nível 1
 > 
 > c) Nella figura seguente, ci sono quadrati $ABCD$, $EFGH$, $CHIJ$, $LDJM$ e $JGON$. È noto che $AB = 5$ cm, $BI = 5$ cm, $IE = 5$ cm e $EF = 12$ cm. Qual è l'area del triangolo $MNJ$?
 
-![[src_obm_2015_n1_f3__Q05.png]]
+![[src_obm_2015_n1_f3__q05.png]]
 
-[[src_obm_2015_n1_f3__Q05]]
+[[Quesiti/src_obm_2015_n1_f3#q05|src_obm_2015_n1_f3__Q05]]

@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Determinare il punto $P$ all'interno di un triangolo $ABC$ per il quale il prodotto $PL \cdot PM \cdot PN$ è un massimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
 
-[[src_bmo_1977-78_round1__Q01]]
+[[Quesiti/src_bmo_1977-78_round1#q01|src_bmo_1977-78_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Prova che non esiste un numero razionale $\dfrac{p}{q}$, con denominatore $q \leq 100$, la cui espansione decimale contiene il blocco di cifre consecutive $167$ in dieci cifre consecutive.
 
-[[src_bmo_1977-78_round1__Q02]]
+[[Quesiti/src_bmo_1977-78_round1#q02|src_bmo_1977-78_round1__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 1
 
 > Mostrare che esiste una sola e unica sequenza $\{u_n\}$ di integri come $u_1 < u_2$ e $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
 
-[[src_bmo_1977-78_round1__Q03]]
+[[Quesiti/src_bmo_1977-78_round1#q03|src_bmo_1977-78_round1__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: BMO Round 1
 > 
 > Prova che le quattro altitudini di un tetraedro sono simultanee se e solo se ogni bordo del tetraedro è perpendicolare al suo bordo opposto.
 
-[[src_bmo_1977-78_round1__Q04]]
+[[Quesiti/src_bmo_1977-78_round1#q04|src_bmo_1977-78_round1__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: BMO Round 1
 > 
 > Prove che esiste una sfera di raggio unitario all'interno della quale ci sono almeno 6 dei punti dati.
 
-[[src_bmo_1977-78_round1__Q05]]
+[[Quesiti/src_bmo_1977-78_round1#q05|src_bmo_1977-78_round1__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: BMO Round 1
 > 
 > Quindi o altrimenti dimostrare che se $k$ è razionale allora $2\cos k\theta$ è uguale a uno dei numeri $0, \pm 1, \pm 2$, o è irrazionale.
 
-[[src_bmo_1977-78_round1__Q06]]
+[[Quesiti/src_bmo_1977-78_round1#q06|src_bmo_1977-78_round1__Q06]]
