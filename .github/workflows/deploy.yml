@@ -28,6 +28,8 @@ jobs:
         run: npm ci
       - name: Restore Quartz plugins (from quartz.lock.json)
         run: npx quartz plugin restore
+      - name: Boolean search patch (AND/OR/NOT, -parola, "frase", parentesi)
+        run: node scripts/patch-search-boolean.mjs
       - name: Build Quartz
         run: npx quartz build
         env:
