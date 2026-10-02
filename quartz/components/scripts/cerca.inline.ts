@@ -3,6 +3,8 @@
 // abilità, paese) with an AND/OR (TUTTI/QUALSIASI) toggle, rendering matches
 // into a sortable table.
 
+import { makeRowMatcher, loadSynonyms, queryNeedsMeta, type RowFields } from "./searchBoolean"
+
 interface Q {
   href: string
   competition: string
@@ -175,10 +177,14 @@ async function init() {
       searchMode === "content" ? "Filtra nel testo completo dei quesiti…" : "Filtra i risultati (titolo/gara)…"
   }
   setPlaceholder()
+  search.title = 'Operatori: AND, OR, NOT, -parola, "frase", ( ), campo:valore (es. nazione:Japan, anno:2019). Sinonimi in più lingue inclusi.'
   search.addEventListener("input", () => {
     filter = search.value
     page = 1
     renderResults()
+  })
+  void loadSynonyms(prefix).then((ok) => {
+    if (ok && filter.trim()) renderResults()
   })
 
   const modeBtn = document.createElement("button")
@@ -304,17 +310,21 @@ async function init() {
     }
     const q = filter.trim().toLowerCase()
     let rows = data.filter(matches)
-    if (q) {
+    // AND/OR/NOT, "frase", campo:valore (any quesiti.json field), synonyms;
+    // plain queries: same substring test as before (fields joined by "\n", which a
+    // query can never contain) + synonym-only matches
+    const m = q ? makeRowMatcher(filter) : null
+    if (q && m) {
+      const bool = queryNeedsMeta(filter)
       rows = rows.filter((r) => {
+        const f = bool ? (r as unknown as RowFields) : undefined
         if (searchMode === "content") {
           const kw = kwCache?.[r.href]
-          return kw ? kw.includes(q) : false
+          return kw ? m(kw, f) : bool ? m("", f) : false
         }
-        return (
-          String(r.summary).toLowerCase().includes(q) ||
-          String(r.competition).toLowerCase().includes(q) ||
-          String(r.level).toLowerCase().includes(q) ||
-          String(r.country).toLowerCase().includes(q)
+        return m(
+          String(r.summary) + "\n" + String(r.competition) + "\n" + String(r.level) + "\n" + String(r.country),
+          f,
         )
       })
     }

@@ -40,6 +40,14 @@ rm -rf .quartz && npx quartz plugin restore
 #     "Restore Quartz plugins" (run: node scripts/patch-search-boolean.mjs). Since Cloudflare
 #     mirrors GitHub Pages, that step is what puts the boolean search on BOTH hosts.
 node scripts/patch-search-boolean.mjs
+# Ricerca v2 (metadati + sinonimi), nessun passo CI extra:
+#  - campo:valore (nazione:Japan, anno:2019, gara:..., argomento:...) e parole nude che
+#    cercano anche nei metadati: static/searchMeta.json, generato da
+#    scripts/make-search-meta.mjs (chiamato da shrink_build.mjs) da static/quesiti.json.
+#  - sinonimi multilingua: quartz/static/sinonimi.json (committato). Per aggiornarlo dal
+#    dizionario di lavoro: node scripts/sync-sinonimi.mjs   (poi commit)
+#  - vale anche per le caselle di ricerca nelle pagine (elenchi di concetti/aree/argomenti,
+#    /cerca): quartz/components/scripts/searchBoolean.ts (test: searchBoolean.test.ts)
 
 # 3. Build:
 NODE_OPTIONS=--max-old-space-size=13312 npx quartz build
