@@ -81,5 +81,6 @@ await import("./scripts/inject-quesito-search.mjs")   // per-quesito search atom
 await import("./scripts/fix-404.mjs")                 // 404.html works under /<repo>/ and /
 await fs.writeFile(`${PUB}/robots.txt`, "User-agent: *\nAllow: /\n\nSitemap: https://raccolta-gare-mate.pages.dev/sitemap.xml\n")
 await fs.writeFile(`${PUB}/.nojekyll`, "")
+await import("./scripts/make-search-meta.mjs")       // static/searchMeta.json (search: metadata / campo:valore)
 await import("./scripts/write-mirror-manifest.mjs")   // LAST: hashes of every published file
 console.log("shrink_build done")

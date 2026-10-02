@@ -2,6 +2,14 @@
 // replacing the <div class="qtable" data-field data-values> placeholders that
 // preprocess.mjs emitted in place of Obsidian Dataview blocks.
 
+import {
+  makeRowMatcher,
+  loadSynonyms,
+  queryNeedsMeta,
+  synonymAlternatives,
+  type RowFields,
+} from "./searchBoolean"
+
 interface Quesito {
   href: string
   competition: string
@@ -184,9 +192,21 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
 
   function render() {
     const q = filter.toLowerCase()
+    // AND/OR/NOT, "frase", campo:valore (any quesiti.json field), synonyms. Plain
+    // queries without synonyms keep the original test untouched.
+    const bool = !!q.trim() && queryNeedsMeta(filter)
+    const m = q.trim() && (bool || synonymAlternatives(filter.trim()).length > 0) ? makeRowMatcher(filter) : null
     const shown = rows
       .filter((r) => {
         if (!q) return true
+        if (m) {
+          const f = bool ? (r as unknown as RowFields) : undefined
+          if (mode === "content") {
+            const kw = kwCache?.[r.href]
+            return kw ? m(kw, f) : bool ? m("", f) : false
+          }
+          return m(r.summary + "\n" + r.competition, f)
+        }
         if (mode === "content") {
           const kw = kwCache?.[r.href]
           return kw ? kw.includes(q) : false
@@ -281,6 +301,10 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
     filter = search.value
     page = 1
     render()
+  })
+  search.title = 'Operatori: AND, OR, NOT, -parola, "frase", ( ), campo:valore (es. nazione:Japan, anno:2019). Sinonimi in più lingue inclusi.'
+  void loadSynonyms(prefix).then((ok) => {
+    if (ok && filter.trim()) render()
   })
 
   const searchRow = document.createElement("div")
