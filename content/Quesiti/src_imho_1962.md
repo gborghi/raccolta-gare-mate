@@ -39,7 +39,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Reali x con sqrt(3-x)-sqrt(x+1) > 1/2*
@@ -81,14 +81,32 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Reali x con sqrt(3-x)-sqrt(x+1) > 1/2*
 
-*Real x with square x-x-x-sqrt x+1) > 1/2 *
-
-> 1962/3. Consider the ABCDA′B′C′D′ (ABCD and A′B′C′D′ are the upper and lower bases, respectively, and edges AA′, BB′, CC′, DD′ are parallel). The point X moves at constant speed along the perimeter of the square ABCD in the direction ABCDA, and the point Y moves at the same rate along the perimeter of the square B′C′CB in the direction B′C′CBB′. Points X and Y begin their motion at the same instant from the starting positions A and B′, respectively. Determine and draw the locus of the midpoints of the XY segments. 1962/4. Solve the equation cos2 x + cos2 2x + cos2 3x = 1. 1962/5. On the circle K there are given three distinct points A, B, C. Construct (using only straightedge and compasses) a fourth point D on K such that a circle can be inscribed in the quadrilateral thus obtained. 1962/6. Consider an isosceles triangle. Let r be the radius of its circumscribed circle and ρ the radius of its inscribed circle. Prove that the distance d between the centers of these two circles is d = q r(r −2ρ). 1962/7.
+> 1962/3.
+> Sia dato il cubo ABCDA′B′C′D′ (ABCD e A′B′C′D′ sono le basi superiore ed inferiore, rispettivamente, e gli spigoli AA′, BB′, CC′, DD′ sono paralleli). Il punto X si muove con velocità costante lungo il perimetro del quadrato ABCD nel verso ABCDA, e il punto Y si muove con la stessa velocità lungo il perimetro del quadrato B′C′CB nel verso B′C′CBB′. I punti X e Y iniziano il loro moto nello stesso istante, partendo dalle posizioni iniziali A e B′ rispettivamente. Si determini e si disegni il luogo dei punti medi dei segmenti XY.
+>
+> 1962/4.
+> Risolvere l’equazione
+> cos²x + cos²2x + cos²3x = 1.
+>
+> 1962/5.
+> Sulla circonferenza K sono dati tre punti distinti A, B, C. Si costruisca (con riga e compasso) un quarto punto D su K in modo che si possa inscrivere una circonferenza nel quadrilatero così ottenuto.
+>
+> 1962/6.
+> Si consideri un triangolo isoscele. Sia r il raggio della sua circonferenza circoscritta e ρ il raggio della sua circonferenza inscritta. Si dimostri che la distanza d tra i centri di queste due circonferenze è
+> d = √[r(r − 2ρ)].
+>
+> 1962/7.
 > 
-> The tetrahedron SABC has the following property: there exist five spheres, each tangent to the edges SA, SB, SC, BCCA, AB, or to their extensions. Prove that the tetrahedron SABC is regular. (b) Prove conversely that for every regular tetrahedron five such spheres exist.
+> Il tetraedro SABC ha la seguente proprietà: esistono cinque sfere, ciascuna tangente agli spigoli SA, SB, SC, BC, CA, AB o ai loro prolungamenti.
+>
+> (a) Si dimostri che il tetraedro SABC è regolare.
+> (b) Si dimostri viceversa che per ogni tetraedro regolare esistono cinque tali sfere.
+
+
 
 [[Quesiti/src_imho_1962#q02|src_imho_1962__Q02]]
 
