@@ -167,3 +167,7 @@ riallineato da `content/` (punto aperto per Giovanni): la build di GitHub Pages 
 Post-build `scripts/fix-link-case.mjs` corregge la maiuscola dei link interni (Quartz rende minuscoli i link con
 percorso, le cartelle sono `Quesiti/`, `Clusters/`, …) e `scripts/host-urls.mjs` fa puntare sitemap/robots/RSS
 all'URL del proprio host (unici file che differiscono tra GitHub e Cloudflare).
+
+**Regola concordata (Kepler/Plato, 2026-10-02):** finché Kepler non conferma che le PR di contenuto (#6, #8 della
+fisica) e le traduzioni sono nel vault Dropbox con diff zero, **nessuna build o deploy può eseguire `preprocess.mjs`**:
+si costruisce solo dal `content/` committato (i workflow CI non lo chiamano).
