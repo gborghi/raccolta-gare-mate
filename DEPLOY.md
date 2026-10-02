@@ -32,6 +32,12 @@ node --max-old-space-size=13312 preprocess.mjs
 #    The top-level plugins/graph fork is untouched.
 rm -rf .quartz && npx quartz plugin restore
 
+# 2b. Boolean search (AND/OR/NOT, -parola, "frase", parentesi): patch the search fork and
+#     recompile its dist/. Idempotent; re-run after EVERY plugin restore, BEFORE the build.
+#     CI: .github/workflows/deploy.yml needs the same step right after
+#     "Restore Quartz plugins" (run: node scripts/patch-search-boolean.mjs).
+node scripts/patch-search-boolean.mjs
+
 # 3. Build:
 NODE_OPTIONS=--max-old-space-size=13312 npx quartz build
 
