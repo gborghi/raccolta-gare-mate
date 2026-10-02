@@ -34,7 +34,7 @@ level: kangourou
 > Some identical apples have been placed in 5 identical (initially empty) boxes; each box contains the same number of apples as the others. Some pears, in the same number as the total number of apples, have been placed in 7 boxes (initially empty) identical to each other: each box contains the same number of pears as the others. Each box of pears contains six fewer fruits than each box of apples. How many apples (or pears)?
 
 **Answer:** 105
-[[src_kangourou_2025_ecolier_finale__QE1]]
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe1|src_kangourou_2025_ecolier_finale__QE1]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > To each integer between 1 and 9 included, Marta assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. The numbers Marta assigned the red to are 4. Write down one of the assignments that Marta may have made.
 
 **Answer:** esempio assegnazione
-[[src_kangourou_2025_ecolier_finale__QE2]]
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe2|src_kangourou_2025_ecolier_finale__QE2]]
 
 
 
@@ -91,7 +91,7 @@ level: kangourou
 > Write the smallest integer greater than 0 whose sum is 30. Explain how you determined it.
 
 **Answer:** 3999
-[[src_kangourou_2025_ecolier_finale__QE3]]
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe3|src_kangourou_2025_ecolier_finale__QE3]]
 
 
 
@@ -120,7 +120,7 @@ level: kangourou
 > On the fingers of one hand, Silvia counted as follows: 1 inch, 2 index, 3 middle, 4 ring, 5 thumb; then she turned back: 6 ring, 7 middle, 8 index, 9 inches. So it's divided: 10 indices, 11 mean and so on, until it's 2,025. What finger?
 
 **Answer:** pollice
-[[src_kangourou_2025_ecolier_finale__QE4]]
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe4|src_kangourou_2025_ecolier_finale__QE4]]
 
 
 
@@ -131,7 +131,7 @@ level: kangourou
 
 *max e min centesimi di Bob*
 
-![[src_kangourou_2025_ecolier_finale__probE5.png]]
+![[src_kangourou_2025_ecolier_finale__probe5.png]]
 
 > Su un tavolo sono disposte sette monete in fila come in figura: 50 cent, 10 cent, 5 cent, 2 euro, 5 cent, 10 cent, 50 cent (da sinistra a destra).
 > 
@@ -156,7 +156,7 @@ level: kangourou
 
 *max and min cents of Bob*
 
-![[src_kangourou_2025_ecolier_finale__probE5.png]]
+![[src_kangourou_2025_ecolier_finale__probe5.png]]
 
 > Seven coins are placed in a row on a table as shown in the figure: 50 cents, 10 cents, 5 cents, 2 euros, 5 cents, 10 cents, 50 cents (from left to right).
 > 
@@ -169,7 +169,7 @@ level: kangourou
 > (see figure)
 
 **Answer:** a)260 b)60
-[[src_kangourou_2025_ecolier_finale__QE5]]
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe5|src_kangourou_2025_ecolier_finale__QE5]]
 
 
 
@@ -197,4 +197,4 @@ level: kangourou
 > A circular park is surrounded by a path lit by lightning. Simona and Tania counted the lights, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lights are there?
 
 **Answer:** 100
-[[src_kangourou_2025_ecolier_finale__QE6]]
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe6|src_kangourou_2025_ecolier_finale__QE6]]

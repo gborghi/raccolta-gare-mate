@@ -37,7 +37,7 @@ level: squadre
 > Summums Call m the smallest two-digit number whose sum is still a two-digit number. Call M the largest two-digit number whose sum is a single-digit number. How much is m + m?
 
 **Answer:** 109
-[[src_kangourou_2016_squadre_f__Q01]]
+[[Quesiti/src_kangourou_2016_squadre_f#q01|src_kangourou_2016_squadre_f__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: squadre
 > Gertrude's objects Gertrude has five objects: three squares and two circles. If you put them in random rows on the table, how many chances out of 100 are there that the first and last object are two squares?
 
 **Answer:** 30
-[[src_kangourou_2016_squadre_f__Q02]]
+[[Quesiti/src_kangourou_2016_squadre_f#q02|src_kangourou_2016_squadre_f__Q02]]
 
 
 
@@ -141,7 +141,7 @@ level: squadre
 > The broken triangle In the following, we use WZ to denote the length of the general segment of the W and Z extremes. Look at the figure. In triangle ABC the angle in B is straight and the point X is such that BX/XC  5/4 and AB  3CX. The area of the triangle CXA is 54 cm2. What is the length in centimeters of the perimeter of CXA ?
 
 **Answer:** 48
-[[src_kangourou_2016_squadre_f__Q03]]
+[[Quesiti/src_kangourou_2016_squadre_f#q03|src_kangourou_2016_squadre_f__Q03]]
 
 
 
@@ -173,7 +173,7 @@ level: squadre
 > Gianni the cyclist Gianni has to make a certain bike ride. Until now, he has covered a third of it at an average speed of 7 km/h. What must be its average speed in the remaining two thirds if it wants its average speed along the entire route to be 21 km/h? (Write [9999] if you think it's impossible for him to get what he wants.)
 
 **Answer:** 9999
-[[src_kangourou_2016_squadre_f__Q04]]
+[[Quesiti/src_kangourou_2016_squadre_f#q04|src_kangourou_2016_squadre_f__Q04]]
 
 
 
@@ -204,7 +204,7 @@ level: squadre
 > For 35 M it is the smallest multiple (positive integer) of 35 whose digits are all equal to each other. What's the sum of the digits of M?
 
 **Answer:** 30
-[[src_kangourou_2016_squadre_f__Q05]]
+[[Quesiti/src_kangourou_2016_squadre_f#q05|src_kangourou_2016_squadre_f__Q05]]
 
 
 
@@ -244,7 +244,7 @@ level: squadre
 > Drawing cubes Figures show, in perspective, two cubes; the second is obtained by approaching 8 cubes equal to the first. How many segments will it take to draw, with the same kind of perspective, the cube obtained by approaching 1000 cubes equal to the first? To understand what we mean by "section", we'll tell you that to draw the first cube, 9 segments were drawn, to draw the second, 15 were drawn.
 
 **Answer:** 63
-[[src_kangourou_2016_squadre_f__Q06]]
+[[Quesiti/src_kangourou_2016_squadre_f#q06|src_kangourou_2016_squadre_f__Q06]]
 
 
 
@@ -275,7 +275,7 @@ level: squadre
 > A vase contains some confetti. She passes Simone and takes 1/15 of it; then she passes Sarah and takes 1/8 of what Simon left behind. Before Simon arrived, the vessel required the smallest amount of confetti with which it was possible for this to happen. How many confections were there?
 
 **Answer:** 60
-[[src_kangourou_2016_squadre_f__Q07]]
+[[Quesiti/src_kangourou_2016_squadre_f#q07|src_kangourou_2016_squadre_f__Q07]]
 
 
 
@@ -309,7 +309,7 @@ level: squadre
 > Skaters Aldo, Bruno and Carlo enjoy skating on a circular track. They start at the same moment from the same point and in the same direction; each skates at a constant speed: Bruno goes faster than Carlo, but less fast than Aldo. They stop as soon as they find themselves all three together. When they stop, Aldo has overtaken Carlo 10 times. How many overlaps between the three of them took place before that time? (Write [9999] if you think the situation described is impossible.)
 
 **Answer:** 19
-[[src_kangourou_2016_squadre_f__Q08]]
+[[Quesiti/src_kangourou_2016_squadre_f#q08|src_kangourou_2016_squadre_f__Q08]]
 
 
 
@@ -381,7 +381,7 @@ level: squadre
 > A regular hexagon of 12 cm side contains a triangle whose vertices are the midpoints of three two to two non-adjacent sides (see figure). How many centimeters does the perimeter of the triangle measure?
 
 **Answer:** 54
-[[src_kangourou_2016_squadre_f__Q09]]
+[[Quesiti/src_kangourou_2016_squadre_f#q09|src_kangourou_2016_squadre_f__Q09]]
 
 
 
@@ -412,7 +412,7 @@ level: squadre
 > 2016 and the 2016 cubes are expressible as the sum of the third powers of some consecutive positive integers. How much is the sum of these numbers?
 
 **Answer:** 42
-[[src_kangourou_2016_squadre_f__Q10]]
+[[Quesiti/src_kangourou_2016_squadre_f#q10|src_kangourou_2016_squadre_f__Q10]]
 
 
 
@@ -442,7 +442,7 @@ level: squadre
 > 2016 and powers of 2 2016 is expressed as the sum of powers of 2 with exponents that are consecutive positive integers. How much is the sum of these exponents?
 
 **Answer:** 45
-[[src_kangourou_2016_squadre_f__Q11]]
+[[Quesiti/src_kangourou_2016_squadre_f#q11|src_kangourou_2016_squadre_f__Q11]]
 
 
 
@@ -472,7 +472,7 @@ level: squadre
 > Divisors of 2016 How many divisors does the number 2016 have?
 
 **Answer:** 36
-[[src_kangourou_2016_squadre_f__Q12]]
+[[Quesiti/src_kangourou_2016_squadre_f#q12|src_kangourou_2016_squadre_f__Q12]]
 
 
 
@@ -505,7 +505,7 @@ level: squadre
 > When the vertices are colored you have three different colors available to color the ABCD vertices of a square. You want adjacent vertices to receive different colors. How many different ways can you do that? Keep in mind that each vertex has a name, so two colors should be considered different when each vertex receives different colors.
 
 **Answer:** 18
-[[src_kangourou_2016_squadre_f__Q13]]
+[[Quesiti/src_kangourou_2016_squadre_f#q13|src_kangourou_2016_squadre_f__Q13]]
 
 
 
@@ -563,4 +563,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 4
-[[src_kangourou_2016_squadre_f__Q14]]
+[[Quesiti/src_kangourou_2016_squadre_f#q14|src_kangourou_2016_squadre_f__Q14]]

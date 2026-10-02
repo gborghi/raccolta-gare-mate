@@ -35,7 +35,7 @@ level: JMO Yosen
 > Quando $2001$ è diviso da un certo intero positivo $n$, il rimanente è $114$. Tra tali $n$, trova il più piccolo. Si noti che $n > 114$.
 
 **Risposta:** 629
-[[src_jmo11yq_yosen__Q01]]
+[[Quesiti/src_jmo11yq_yosen#q01|src_jmo11yq_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JMO Yosen
 
 > Inside a rectangle of height $8$ and width $7$, five congruent squares are packed as shown in the figure below. Find the length of a side of one of the squares.
 
-![[src_jmo11yq_yosen__Q02.png]]
+![[src_jmo11yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -64,9 +64,9 @@ level: JMO Yosen
 
 > All'interno di un rettangolo di altezza $8$ e larghezza $7$, sono imballati cinque quadrati congruenti come mostrato nella figura seguente. Trova la lunghezza di un lato di uno dei quadrati.
 
-![[src_jmo11yq_yosen__Q02.png]]
+![[src_jmo11yq_yosen__q02.png]]
 
-[[src_jmo11yq_yosen__Q02]]
+[[Quesiti/src_jmo11yq_yosen#q02|src_jmo11yq_yosen__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: JMO Yosen
 > Dalle cifre naturali $2001$ $1, 2, 3, \ldots, 2001$ vengono scelte diverse cifre contemporaneamente. Quanti modi ci sono per sceglierne in modo che la somma totale dei numeri scelti sia strana? Per convenzione, quando nessun numero è scelto, la somma è $0$; inoltre, è consentito scegliere tutti i numeri $2001$.
 
 **Risposta:** 2^{2000}
-[[src_jmo11yq_yosen__Q03]]
+[[Quesiti/src_jmo11yq_yosen#q03|src_jmo11yq_yosen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JMO Yosen
 
 > C'è un triangolo equilaterale $ABC$ con lunghezza laterale $a$. I punti $D, E, F$ si trovano rispettivamente sui lati $BC, CA, AB$ e il triangolo $DEF$ è un triangolo equilaterale con lunghezza laterale $b$ (dove $b < a$). Trova il raggio del cerchio del triangolo $AFE$.
 
-[[src_jmo11yq_yosen__Q04]]
+[[Quesiti/src_jmo11yq_yosen#q04|src_jmo11yq_yosen__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Somma dei poteri del 2001 mod 13
 > Trova il rimanente quando $1^{2001} + 2^{2001} + 3^{2001} + \cdots + 2000^{2001} + 2001^{2001}$ è diviso da $13$.
 
 **Risposta:** 0
-[[src_jmo11yq_yosen__Q05]]
+[[Quesiti/src_jmo11yq_yosen#q05|src_jmo11yq_yosen__Q05]]
 
 
 
@@ -178,7 +178,7 @@ Somma dei poteri del 2001 mod 13
 
 > Sul piano delle coordinate si trovano l'origine $O(0,0)$ e il punto $A(1,0)$. Il punto $P$ si muove lungo la metà $x = 0,\ y \ge 1$ e il punto $Q$ si muove lungo la metà $x = 1,\ y \ge 1$, in modo tale che l'area del quadrilaterale $OAQP$ sia sempre $2$. Trova il valore massimo possibile della distanza dal punto $B\left(\frac{1}{4}, 0\right)$ alla linea $PQ$. Qui, la distanza da $B$ alla linea $PQ$ significa la lunghezza della perpendicolare scesa da $B$ alla linea $PQ$.
 
-[[src_jmo11yq_yosen__Q06]]
+[[Quesiti/src_jmo11yq_yosen#q06|src_jmo11yq_yosen__Q06]]
 
 
 
@@ -195,7 +195,7 @@ Somma dei poteri del 2001 mod 13
 > (iii) When the whole grid is divided into four parts by the bold lines as shown in the figure below (the four $2 \times 2$ blocks), each part contains $1, 2, 3, 4$ each exactly once.
 > How many such ways of writing in the digits are there?
 
-![[src_jmo11yq_yosen__Q07.png]]
+![[src_jmo11yq_yosen__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -212,10 +212,10 @@ Somma dei poteri del 2001 mod 13
 
 > Fare una griglia di celle $4 \times 4$ e scrivere in cifre da $1$ a $4$, quattro di ciascuna (una cifra per cella), fatte salve le seguenti tre condizioni: (i) In ogni riga, $1, 2, 3, 4$ appaiono ciascuna esattamente una volta. (ii) In ogni colonna, $1, 2, 3, 4$ appaiono esattamente una volta. (iii) Quando l'intera griglia è divisa in quattro parti con le linee in grasso come illustrato nella figura seguente (i quattro blocchi $2 \times 2$), ciascuna parte contiene $1, 2, 3, 4$ esattamente una volta. Quanti sono questi modi di scrivere in cifre?
 
-![[src_jmo11yq_yosen__Q07.png]]
+![[src_jmo11yq_yosen__q07.png]]
 
 **Risposta:** 288
-[[src_jmo11yq_yosen__Q07]]
+[[Quesiti/src_jmo11yq_yosen#q07|src_jmo11yq_yosen__Q07]]
 
 
 
@@ -244,7 +244,7 @@ Somma dei poteri del 2001 mod 13
 
 > Trova tutti i numeri reali $x$ che soddisfano contemporaneamente entrambe le seguenti equazioni: $$x^5 + 2x^4 - x^3 - 5x^2 - 10x + 5 = 0$$ $$x^6 + 4x^5 + 3x^4 - 6x^3 - 20x^2 - 15x + 5 = 0$$
 
-[[src_jmo11yq_yosen__Q08]]
+[[Quesiti/src_jmo11yq_yosen#q08|src_jmo11yq_yosen__Q08]]
 
 
 
@@ -271,7 +271,7 @@ Somma dei poteri del 2001 mod 13
 
 > In un triangolo $ABC$ con $\angle ABC = 2\,\angle ACB$, $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Quando $AB = CD$, quanti gradi è $\angle BAC$? Qui, la lunghezza di un segmento $XY$ è indicata da $XY$.
 
-[[src_jmo11yq_yosen__Q09]]
+[[Quesiti/src_jmo11yq_yosen#q09|src_jmo11yq_yosen__Q09]]
 
 
 
@@ -300,7 +300,7 @@ Somma dei poteri del 2001 mod 13
 > Nel spazio ci sono $10$ piani distinti. Ogni $2$ dei piani condivide esattamente una linea, ogni $3$ dei piani condivide esattamente un punto e nessun $4$ dei piani ha un punto comune. In quante parti dividono gli aerei $10$ lo spazio?
 
 **Risposta:** 176
-[[src_jmo11yq_yosen__Q10]]
+[[Quesiti/src_jmo11yq_yosen#q10|src_jmo11yq_yosen__Q10]]
 
 
 
@@ -327,7 +327,7 @@ Somma dei poteri del 2001 mod 13
 
 > Per un intero positivo $n$, $S(n)$ indica la somma dei divisori positivi di $n$. Quanti numeri interi positivi a tre cifre $n$ soddisfano $S(6n) \ge 12\,S(n)$?
 
-[[src_jmo11yq_yosen__Q11]]
+[[Quesiti/src_jmo11yq_yosen#q11|src_jmo11yq_yosen__Q11]]
 
 
 
@@ -357,4 +357,4 @@ Somma dei poteri del 2001 mod 13
 
 > C'è una griglia di cellule $5 \times 9$. In ogni cella si scrive un numero reale non negativo (un numero reale $\ge 0$), in modo che siano soddisfatte le seguenti condizioni: (i) La somma totale dei numeri reali scritti $45$ è $1$. (ii) Tuttavia, se sulla griglia è posta una cornice rettangolare $2 \times 3$ (orientata verticalmente o orizzontalmente, in qualsiasi posizione allineata), la somma dei numeri $6$ all'interno è al massimo $S$. Trova il valore minimo del numero reale $S$ per il quale esiste un tale modo di scrivere i numeri.
 
-[[src_jmo11yq_yosen__Q12]]
+[[Quesiti/src_jmo11yq_yosen#q12|src_jmo11yq_yosen__Q12]]

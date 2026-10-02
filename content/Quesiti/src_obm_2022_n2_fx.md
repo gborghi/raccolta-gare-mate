@@ -57,7 +57,7 @@ level: OBM Nível 2
 > 
 > (c) Mostrare che il numero di pile con esattamente una pietra alla fine della partita è sempre lo stesso, indipendentemente dal modo in cui le mosse sono fatte.
 
-[[src_obm_2022_n2_fx__Q01]]
+[[Quesiti/src_obm_2022_n2_fx#q01|src_obm_2022_n2_fx__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: OBM Nível 2
 
 > I numeri reali $a$, $b$, $c$ sono tutti diversi da zero e soddisfano il seguente sistema di equazioni: $$\begin{cases} a + ab = c \\ b + bc = a \\ c + ca = b \end{cases}$$ Determinare tutti i valori possibili di $abc$.
 
-[[src_obm_2022_n2_fx__Q02]]
+[[Quesiti/src_obm_2022_n2_fx#q02|src_obm_2022_n2_fx__Q02]]
 
 
 
@@ -112,7 +112,7 @@ level: OBM Nível 2
 
 > Il $ABC$ sia un triangolo con incentro $I$ e il $\Gamma$ sia il suo cerchio circonscritto. Il $M$ deve essere il punto medio dell'arco $BC$ non contenente $A$, $K$ il punto medio dell'arco $BC$ contenente $A$ e $L$ il punto medio dell'arco $AC$ non contenente $B$ (o il punto analogo dell'arco definito nell'originale). Il $J$ deve essere il riflesso di $I$ attraverso la linea $KL$. La linea $LJ$ incrocia di nuovo $\Gamma$ in un punto $T \neq L$. La linea $TM$ incrocia di nuovo $\Gamma$ in un punto $S \neq T$. Provare che $S$, $I$, $M$ e $K$ si trovano tutti su un cerchio comune.
 
-[[src_obm_2022_n2_fx__Q03]]
+[[Quesiti/src_obm_2022_n2_fx#q03|src_obm_2022_n2_fx__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: OBM Nível 2
 
 > In the figure, $PQ$ and $BC$ are parallel, $AB = BC$, $MB = MC$. Furthermore, $\angle CQM = \angle MQP$ and $PQ$ is tangent to the circle inscribed in triangle $ABC$. Given that $AQ = 1$, find the perimeter of triangle $ABC$.
 
-![[src_obm_2022_n2_fx__Q04.png]]
+![[src_obm_2022_n2_fx__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -140,9 +140,9 @@ level: OBM Nível 2
 
 > Nella figura $PQ$ e $BC$ sono parallele, $AB = BC$, $MB = MC$. Inoltre, $\angle CQM = \angle MQP$ e $PQ$ sono tangenti al cerchio inscritto nel triangolo $ABC$. Poiché $AQ = 1$, trovare il perimetro del triangolo $ABC$.
 
-![[src_obm_2022_n2_fx__Q04.png]]
+![[src_obm_2022_n2_fx__q04.png]]
 
-[[src_obm_2022_n2_fx__Q04]]
+[[Quesiti/src_obm_2022_n2_fx#q04|src_obm_2022_n2_fx__Q04]]
 
 
 
@@ -169,7 +169,7 @@ level: OBM Nível 2
 
 > Inizialmente, un numero è scritto sulla lavagna. Quindi, ogni minuto, Esmeralda sceglie un divisore $d > 1$ del numero $n$ attualmente sulla scheda, cancella $n$ e scrive $n + d$. Se il numero iniziale è $2022$, quale è il numero più grande che Esmeralda non può mai scrivere sulla lavagna?
 
-[[src_obm_2022_n2_fx__Q05]]
+[[Quesiti/src_obm_2022_n2_fx#q05|src_obm_2022_n2_fx__Q05]]
 
 
 
@@ -196,4 +196,4 @@ level: OBM Nível 2
 
 > Determinare il più grande intero positivo $k$ per il quale è vera la seguente affermazione: data $k$ sottogruppi distinti dell'insieme $\{1, 2, 3, \ldots, 2023\}$, ciascuno con elementi $1011$, è possibile dividere i sottogruppi $k$ in due collezioni in modo tale che due sottogruppi appartenenti alla stessa collezione abbiano almeno un elemento in comune.
 
-[[src_obm_2022_n2_fx__Q06]]
+[[Quesiti/src_obm_2022_n2_fx#q06|src_obm_2022_n2_fx__Q06]]

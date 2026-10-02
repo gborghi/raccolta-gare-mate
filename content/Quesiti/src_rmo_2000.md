@@ -19,7 +19,7 @@ level: RMO
 
 > Let $AC$ be a line segment in the plane and $B$ a point between $A$ and $C$. Construct isosceles triangles $PAB$ and $QBC$ on one side of the segment $AC$ such that $\angle APB = \angle BQC = 120^\circ$, and an isosceles triangle $RAC$ on the other side of $AC$ such that $\angle ARC = 120^\circ$. Show that $PQR$ is an equilateral triangle.
 
-![[src_rmo_2000__Q01.png]]
+![[src_rmo_2000__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Il $AC$ deve essere un segmento di linea nel piano e $B$ un punto tra $A$ e $C$. Costruire triangoli $PAB$ e $QBC$ su un lato del segmento $AC$ in modo tale che $\angle APB = \angle BQC = 120^\circ$, e un triangole $RAC$ su un altro lato di $AC$ in modo tale che $\angle ARC = 120^\circ$. Mostra che $PQR$ è un triangolo equilaterale.
 
-![[src_rmo_2000__Q01.png]]
+![[src_rmo_2000__q01.png]]
 
-[[src_rmo_2000__Q01]]
+[[Quesiti/src_rmo_2000#q01|src_rmo_2000__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Risolvere l'equazione $y^3 = x^3 + 8x^2 - 6x + 8$, per gli integri positivi $x$ e $y$.
 
-[[src_rmo_2000__Q02]]
+[[Quesiti/src_rmo_2000#q02|src_rmo_2000__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: RMO
 
 > Supponiamo che $(x_1, x_2, \ldots, x_n, \ldots)$ sia una sequenza di numeri reali positivi come $x_1 \ge x_2 \ge x_3 \ge \cdots \ge x_n \cdots$, e per tutti $n$ $$\frac{x_1}{1} + \frac{x_4}{2} + \frac{x_9}{3} + \cdots + \frac{x_{n^2}}{n} < 1.$$ Mostri che per tutti $k$ è soddisfatta la seguente disuguaglianza: $$\frac{x_1}{1} + \frac{x_2}{2} + \frac{x_3}{3} + \cdots + \frac{x_k}{k} < 3.$$
 
-[[src_rmo_2000__Q03]]
+[[Quesiti/src_rmo_2000#q03|src_rmo_2000__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: RMO
 
 > Tutti i numeri a 7 cifre contenenti ciascuna delle cifre $1, 2, 3, 4, 5, 6, 7$ esattamente una volta, e non divisibili da $5$, sono disposti nell'ordine crescente. Trova il numero 2000 in questa lista.
 
-[[src_rmo_2000__Q04]]
+[[Quesiti/src_rmo_2000#q04|src_rmo_2000__Q04]]
 
 
 
@@ -134,7 +134,7 @@ level: RMO
 
 > The internal bisector of angle $A$ in a triangle $ABC$ with $AC > AB$, meets the circumcircle $\Gamma$ of the triangle in $D$. Join $D$ to the centre $O$ of the circle $\Gamma$ and suppose $DO$ meets $AC$ in $E$, possibly when extended. Show that $BE$ is perpendicular to $AD$, show that $AO$ is parallel to $BD$.
 
-![[src_rmo_2000__Q05.png]]
+![[src_rmo_2000__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -150,9 +150,9 @@ level: RMO
 
 > Il bisettore interno dell'angolo $A$ in un triangolo $ABC$ con $AC > AB$ incontra il circoncircolo $\Gamma$ del triangolo in $D$. Unire $D$ al centro $O$ del cerchio $\Gamma$ e supporre che $DO$ incontra $AC$ in $E$, eventualmente se esteso. Indicare che $BE$ è perpendicolare a $AD$, indicare che $AO$ è parallelo a $BD$.
 
-![[src_rmo_2000__Q05.png]]
+![[src_rmo_2000__q05.png]]
 
-[[src_rmo_2000__Q05]]
+[[Quesiti/src_rmo_2000#q05|src_rmo_2000__Q05]]
 
 
 
@@ -183,7 +183,7 @@ level: RMO
 > 
 > (ii) Considerare due integri positivi $a$ e $b$ che sono tali che $a^n b^{n+1}$ sia divisibile da $2000$ per qualche integro positivo $n$. Qual è il valore minimo possibile del prodotto $ab$?
 
-[[src_rmo_2000__Q06]]
+[[Quesiti/src_rmo_2000#q06|src_rmo_2000__Q06]]
 
 
 
@@ -210,4 +210,4 @@ level: RMO
 
 > Trova tutti i valori reali di $a$ per i quali l'equazione $x^4 - 2ax^2 + x + a^2 - a = 0$ ha tutte le sue radici reali.
 
-[[src_rmo_2000__Q07]]
+[[Quesiti/src_rmo_2000#q07|src_rmo_2000__Q07]]

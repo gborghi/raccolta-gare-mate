@@ -25,7 +25,7 @@ level: OBM Nível 2
 > 
 > c) Calculate the length of segment $AC$.
 
-![[src_obm_2004_n2_f3__Q01.png]]
+![[src_obm_2004_n2_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -47,9 +47,9 @@ level: OBM Nível 2
 > 
 > c) Calcolare la lunghezza del segmento $AC$.
 
-![[src_obm_2004_n2_f3__Q01.png]]
+![[src_obm_2004_n2_f3__q01.png]]
 
-[[src_obm_2004_n2_f3__Q01]]
+[[Quesiti/src_obm_2004_n2_f3#q01|src_obm_2004_n2_f3__Q01]]
 
 
 
@@ -86,7 +86,7 @@ level: OBM Nível 2
 > 
 > b) Le cifre $1, 2, 3, 4$ riappare successivamente nella sequenza?
 
-[[src_obm_2004_n2_f3__Q02]]
+[[Quesiti/src_obm_2004_n2_f3#q02|src_obm_2004_n2_f3__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: OBM Nível 2
 > 
 > Quali sono i valori possibili della somma di tutti i prodotti scritti nei quadrati?
 
-[[src_obm_2004_n2_f3__Q03]]
+[[Quesiti/src_obm_2004_n2_f3#q03|src_obm_2004_n2_f3__Q03]]
 
 
 
@@ -148,7 +148,7 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 > 
 > In questo gioco, Arnaldo va per primo e inizia con il numero $2$. Quale dei due giocatori ha una strategia vincente  cioè può garantire la scelta del numero $2004$ indipendentemente dalle mosse dell'avversario?
 
-[[src_obm_2004_n2_f3__Q04]]
+[[Quesiti/src_obm_2004_n2_f3#q04|src_obm_2004_n2_f3__Q04]]
 
 
 
@@ -183,7 +183,7 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 > 
 > b) Indicare che $AB$ è tangente al cerchio di diametro $O_1 O_2$.
 
-[[src_obm_2004_n2_f3__Q05]]
+[[Quesiti/src_obm_2004_n2_f3#q05|src_obm_2004_n2_f3__Q05]]
 
 
 
@@ -214,4 +214,4 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 > 
 > Trova il più grande intero $n$ con la proprietà che, in ogni tabella di questo tipo, esiste una riga o una colonna che contiene almeno $n$ cifre distinte.
 
-[[src_obm_2004_n2_f3__Q06]]
+[[Quesiti/src_obm_2004_n2_f3#q06|src_obm_2004_n2_f3__Q06]]

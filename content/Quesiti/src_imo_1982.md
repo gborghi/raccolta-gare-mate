@@ -39,7 +39,7 @@ Definition of the subadditive integer function
 > 
 > Determine $f(1982)$.
 
-[[src_imo_1982__Q01]]
+[[Quesiti/src_imo_1982#q01|src_imo_1982__Q01]]
 
 
 
@@ -66,7 +66,7 @@ Prove three lines through midpoints and reflected touch-points concurrent
 
 > A non-isosceles triangle $A_1A_2A_3$ with sides $a_1, a_2, a_3$ (where $a_i$ is the opposite side to $A_i$) is given. For each $i = 1, 2, 3$, $M_i$ is the middle point of the $a_i$ side and $T_i$ is the point where the inscribed circle touches the $a_i$ side. The reflection of $T_i$ with respect to the inner beam of the angle $A_i$ shall be indicated by $S_i$. Demonstrate that the directions $M_1S_1$, $M_2S_2$ and $M_3S_3$ are competitors.
 
-[[src_imo_1982__Q02]]
+[[Quesiti/src_imo_1982#q02|src_imo_1982__Q02]]
 
 
 
@@ -103,7 +103,7 @@ Prove three lines through midpoints and reflected touch-points concurrent
 > 
 > (b) Find such a succession for which $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4.$$
 
-[[src_imo_1982__Q03]]
+[[Quesiti/src_imo_1982#q03|src_imo_1982__Q03]]
 
 
 
@@ -136,7 +136,7 @@ Cubic Diophantine equation has at least three integer solutions
 > 
 > Also show that the equation has no solutions in integers when $n = 2891$.
 
-[[src_imo_1982__Q04]]
+[[Quesiti/src_imo_1982#q04|src_imo_1982__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Cubic Diophantine equation has at least three integer solutions
 
 > The diagonal $AC$ and $CE$ of the regular hexagon $ABCDEF$ are divided by the interior points $M$ and $N$, respectively, so that $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$ Determine $r$ knowing that $B$, $M$ and $N$ are collinear.
 
-[[src_imo_1982__Q05]]
+[[Quesiti/src_imo_1982#q05|src_imo_1982__Q05]]
 
 
 
@@ -191,4 +191,4 @@ Path covering square boundary has two close far-apart points
 
 > either $S$ a side square $100$, or $L$ a path within $S$ that does not intersect and is composed of segments $A_0A_1, A_1A_2, \ldots, A_{n-1}A_n$ with $A_0 \neq A_n$. For each $P$ point on the edge of $S$ there shall be a point of $L$ at a distance from $P$ not greater than $\tfrac{1}{2}$. Demonstrate that there are two $X$ and $Y$ points on $L$ such that the distance between $X$ and $Y$ is not greater than $1$, and the length of the part of $L$ between $X$ and $Y$ is not less than $198$.
 
-[[src_imo_1982__Q06]]
+[[Quesiti/src_imo_1982#q06|src_imo_1982__Q06]]

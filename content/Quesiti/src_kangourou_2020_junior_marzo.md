@@ -42,7 +42,7 @@ The mother of the daughter of the mother of the mother
 > One of Anna's aunts. E) One of Anna's grandmothers.
 
 **Answer:** E
-[[src_kangourou_2020_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q01|src_kangourou_2020_junior_marzo__Q01]]
 
 
 
@@ -78,7 +78,7 @@ The mother of the daughter of the mother of the mother
 > Five different boxes of candy were emptied into one basket. Now, in this basket, there are 102 candy bars. Which of the following is certainly true? A) There were at least 20 candies in each box. B) At least one of the boxes contained more than 21 candies. C) At least one of the boxes contained less than 21 candies. D) There were more than 21 candies in each box. E) One of the boxes contained exactly 21 candies.
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q02|src_kangourou_2020_junior_marzo__Q02]]
 
 
 
@@ -117,7 +117,7 @@ The mother of the daughter of the mother of the mother
 > E) 1
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q03|src_kangourou_2020_junior_marzo__Q03]]
 
 
 
@@ -170,7 +170,7 @@ The mother of the daughter of the mother of the mother
 > E) 6
 
 **Answer:** A
-[[src_kangourou_2020_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q04|src_kangourou_2020_junior_marzo__Q04]]
 
 
 
@@ -220,7 +220,7 @@ The mother of the daughter of the mother of the mother
 >
 
 **Answer:** B
-[[src_kangourou_2020_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q05|src_kangourou_2020_junior_marzo__Q05]]
 
 
 
@@ -291,7 +291,7 @@ The mother of the daughter of the mother of the mother
 > E) 5/2
 
 **Answer:** A
-[[src_kangourou_2020_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q06|src_kangourou_2020_junior_marzo__Q06]]
 
 
 
@@ -337,7 +337,7 @@ The mother of the daughter of the mother of the mother
 > E) 4
 
 **Answer:** E
-[[src_kangourou_2020_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q07|src_kangourou_2020_junior_marzo__Q07]]
 
 
 
@@ -379,7 +379,7 @@ The mother of the daughter of the mother of the mother
 > By sewing a single wooden stick, Martino obtained six and arranged them as shown in the fat segments in the figure. The vertices of the quadrilateral formed by the four shortest rods are each the middle point of one of the sides of the quadrilateral which has as vertices the ends of the two longest rods; these measure one 120 cm and the other 80 cm. What was the length, in centimeters, of the wand that Martino cut? A) 300 B) 370 C) 400 D) 410 E) 450
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q08|src_kangourou_2020_junior_marzo__Q08]]
 
 
 
@@ -419,7 +419,7 @@ Distance on the broken sign between three cities
 > The shortest road connecting Atown to Cetown runs through Betown. Along the path from Atown to Cetown are in order, but on opposite sides of the road, the two road signs depicted in the figure. What distance was written on the broken sign? A) 1 km B) 2 km C) 3 km D) 4 km E) 5 km
 
 **Answer:** B
-[[src_kangourou_2020_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q09|src_kangourou_2020_junior_marzo__Q09]]
 
 
 
@@ -472,7 +472,7 @@ Distance on the broken sign between three cities
 > (E) 12 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** A
-[[src_kangourou_2020_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q10|src_kangourou_2020_junior_marzo__Q10]]
 
 
 
@@ -512,7 +512,7 @@ Distance on the broken sign between three cities
 >
 
 **Answer:** D
-[[src_kangourou_2020_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q11|src_kangourou_2020_junior_marzo__Q11]]
 
 
 
@@ -550,7 +550,7 @@ Distance on the broken sign between three cities
 > B) 100 C) 200 D) 450 E) 800
 
 **Answer:** B
-[[src_kangourou_2020_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q12|src_kangourou_2020_junior_marzo__Q12]]
 
 
 
@@ -599,7 +599,7 @@ Distance on the broken sign between three cities
 > E) 5
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q13|src_kangourou_2020_junior_marzo__Q13]]
 
 
 
@@ -646,7 +646,7 @@ Distance on the broken sign between three cities
 > E) 7,5
 
 **Answer:** D
-[[src_kangourou_2020_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q14|src_kangourou_2020_junior_marzo__Q14]]
 
 
 
@@ -689,7 +689,7 @@ Distance on the broken sign between three cities
 > D) 18 E) The problem data are insufficient to answer.
 
 **Answer:** A
-[[src_kangourou_2020_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q15|src_kangourou_2020_junior_marzo__Q15]]
 
 
 
@@ -741,7 +741,7 @@ Distance on the broken sign between three cities
 > E) 15
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q16|src_kangourou_2020_junior_marzo__Q16]]
 
 
 
@@ -804,7 +804,7 @@ Distance on the broken sign between three cities
 > 70° ?
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q17|src_kangourou_2020_junior_marzo__Q17]]
 
 
 
@@ -856,7 +856,7 @@ Distance on the broken sign between three cities
 > E) 50
 
 **Answer:** E
-[[src_kangourou_2020_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q18|src_kangourou_2020_junior_marzo__Q18]]
 
 
 
@@ -905,7 +905,7 @@ Distance on the broken sign between three cities
 > E) 95
 
 **Answer:** D
-[[src_kangourou_2020_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q19|src_kangourou_2020_junior_marzo__Q19]]
 
 
 
@@ -945,7 +945,7 @@ The probability that a 9-digit number is divisible by 18*
 > (C) 5/9 D) 1/3 E) 3/4 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2020_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q20|src_kangourou_2020_junior_marzo__Q20]]
 
 
 
@@ -986,7 +986,7 @@ The probability that a 9-digit number is divisible by 18*
 > D) Certainly 78 . E) The data on the problem are insufficient to establish it.
 
 **Answer:** E
-[[src_kangourou_2020_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q21|src_kangourou_2020_junior_marzo__Q21]]
 
 
 
@@ -1036,7 +1036,7 @@ The probability that a 9-digit number is divisible by 18*
 > E) 15
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q22|src_kangourou_2020_junior_marzo__Q22]]
 
 
 
@@ -1066,7 +1066,7 @@ The probability that a 9-digit number is divisible by 18*
 > On a table there are some triangles and some squares. Some of these figures are blue and some are red, some of these figures are cardboard and some are metal. We know that:
 
 **Answer:** E
-[[src_kangourou_2020_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q23|src_kangourou_2020_junior_marzo__Q23]]
 
 
 
@@ -1098,7 +1098,7 @@ The probability that a 9-digit number is divisible by 18*
 > 24. Two identical rectangles measuring 3 cm × 9 cm are partially overlapping as shown in the figure. How many square centimetres is the area of the region on which they lie? A) 12 B) 13,5 C) 14 D) 15 E) 16
 
 **Answer:** D
-[[src_kangourou_2020_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q24|src_kangourou_2020_junior_marzo__Q24]]
 
 
 
@@ -1131,7 +1131,7 @@ The probability that a 9-digit number is divisible by 18*
 > 25. The five vertices of a square base pyramid were randomly numbered from 1 to 5. For each triangle, the sum of the numbers assigned to its JUNIOR three vertices was calculated: for four of the faces the sums are 7, 8, 9 and 10. What's the sum for the fifth face? A) 11 B) 12 C) 13 D) 14 E) 15
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q25|src_kangourou_2020_junior_marzo__Q25]]
 
 
 
@@ -1160,7 +1160,7 @@ The probability that a 9-digit number is divisible by 18*
 > 26. A large cube is obtained by assembling 64 identical cubes. Three of the faces of the large cube are painted. For how many of the cubes, at most, can one face be painted? A) 27 B) 28 C) 32 D) 34 E) 40 1 6 3
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q26|src_kangourou_2020_junior_marzo__Q26]]
 
 
 
@@ -1228,7 +1228,7 @@ The probability that a 9-digit number is divisible by 18*
 > 27. In each of the cells of the square grid in the figure a number must be inserted so that, when the rows and the 2 2 8 columns vary, the sum of the numbers that appear in the grid is always the same. Some numbers have already been entered. What number should you put in the gray cell? 7 A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
-[[src_kangourou_2020_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q27|src_kangourou_2020_junior_marzo__Q27]]
 
 
 
@@ -1257,7 +1257,7 @@ Whoever lost the second day on the iron arm
 > 28. Aldo, Bruno and Carlo are challenging each other for several days in a row. Each day two of them meet while the third rests, waiting to face the winner the next day. The challenge lasts for several days and, at its end, it turns out that Aldo played 10 times, Bruno 15 and Carlo 17. Who lost the second day? A) Certainly Aldo. B) Certainly Bruno. C) Certainly Charles. D) They may have lost both Aldo and Bruno. E) They could have lost both Bruno and Carlo. This is a list of the countries of the European Union.
 
 **Answer:** A
-[[src_kangourou_2020_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q28|src_kangourou_2020_junior_marzo__Q28]]
 
 
 
@@ -1289,7 +1289,7 @@ Whoever lost the second day on the iron arm
 > 29. Look at the figure. A zigzag line starts at the end A of a semicircle diameter and ends at the end B after exactly four peaks on the semicircle. The four triangles that the line forms with the diameter are all isosceles. If, unlike B A as shown in the figure, all their angles at the base were the same size, how much would that size be in degrees? A) 60 B) 72 C) 75 D) 80 E) None of the above is the correct value.
 
 **Answer:** B
-[[src_kangourou_2020_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q29|src_kangourou_2020_junior_marzo__Q29]]
 
 
 
@@ -1318,4 +1318,4 @@ Whoever lost the second day on the iron arm
 > 30. Eight consecutive three-digit positive integers are such that each of them is divisible by its last digit. How much is the sum of the digits of the smallest of these eight integers? JUNIOR A) 10 B) 11 C) 12 D) 13 E) 14
 
 **Answer:** D
-[[src_kangourou_2020_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2020_junior_marzo#q30|src_kangourou_2020_junior_marzo__Q30]]

@@ -31,7 +31,7 @@ level: squadre
 
 > Ludovico is a good shooter and, with every attempt, has a certain chance of hitting the target. Determine the value of $1000p$, knowing that, in three attempts, the probability that Ludovico hits the target at least once is $0{,}992$.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q01]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q01|src_archimede_2026_squadre_gara_cd_rd__Q01]]
 
 
 
@@ -58,7 +58,7 @@ level: squadre
 
 > Given the positive integer $n$, we call $P_n(x) = (3 - 2x - 3x^2)^n$ the polynomial and with $G_n$ the sum of all the coefficients of the degree terms equal to $P_n(x)$, including the known term. For example, $P_2(x) = (3 - 2x - 3x^2)^2 = 9 - 12x - 14x^2 + 12x^3 + 9x^4$ and $G_2 = 9 - 14 + 9 = 4$. Determine the value of $G_{21}$.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q02]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q02|src_archimede_2026_squadre_gara_cd_rd__Q02]]
 
 
 
@@ -84,7 +84,7 @@ level: squadre
 
 > A $C$ circle of centre $O$ and diameter $AB = 6\text{ cm}$ shall be considered, and the two circles of diameter $AO$ and $OB$ shall be $C_1$ and $C_2$. In addition, $C_3$ and $C_4$ are the two tangent circles to all three of the circles $C$, $C_1$ and $C_2$. Calculate the area of the part of $C$, in $\text{mm}^2$, which does not belong to any of the circles $C_1$, $C_2$, $C_3$, $C_4$.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q03]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q03|src_archimede_2026_squadre_gara_cd_rd__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: squadre
 
 > They are $x$ and $y$ positive real numbers with $xy = 5$. What is the minimum value that $(x + y)^2$ can take?
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q04]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q04|src_archimede_2026_squadre_gara_cd_rd__Q04]]
 
 
 
@@ -136,7 +136,7 @@ level: squadre
 
 > Consider a rectangular triangle $ABC$ and be $PQ$ the projection, on the hypotenuse $AB$, of the circle inscribed in the triangle. Determine the angle width $P\hat{C}Q$.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q05]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q05|src_archimede_2026_squadre_gara_cd_rd__Q05]]
 
 
 
@@ -163,7 +163,7 @@ level: squadre
 
 > How many sequences can all eight digits $1, 1, 2, 2, 3, 3, 4, 4$ be arranged so that, in the middle of each pair of equal digits, no lower value figure appears than those two digits? For example, two of the allowed sequences are $3\;3\;4\;4\;1\;2\;2\;1$ and $1\;2\;4\;4\;2\;1\;3\;3$.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q06]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q06|src_archimede_2026_squadre_gara_cd_rd__Q06]]
 
 
 
@@ -189,7 +189,7 @@ level: squadre
 
 > Determine the sum of all $n$ numbers between $1400$ and $1500$ such that $n + 2$ is divisible by $6$ and $n - 5$ is divisible by $7$.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q07]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q07|src_archimede_2026_squadre_gara_cd_rd__Q07]]
 
 
 
@@ -215,7 +215,7 @@ level: squadre
 
 > If $5$ points are chosen (not necessarily distinct) over a segment of length $3$, what is the maximum value of the sum of the distances between all possible pairs of points taken between these $5$?
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q08]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q08|src_archimede_2026_squadre_gara_cd_rd__Q08]]
 
 
 
@@ -242,4 +242,4 @@ level: squadre
 
 > The bearing centre of an equilateral triangle on the side $x$ is impregnated in the centre of a square on the side $1$. Determine the minimum value of $x^2$ so that, by rotating the triangle of $360°$ around the centre, the square always remains entirely contained in the triangle.
 
-[[src_archimede_2026_squadre_gara_cd_rd__Q09]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q09|src_archimede_2026_squadre_gara_cd_rd__Q09]]

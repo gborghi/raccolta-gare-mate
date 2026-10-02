@@ -47,7 +47,7 @@ Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
 > - **(E)** $2017 + 2$
 
 **Risposta:** C
-[[src_smc_2017__Q01]]
+[[Quesiti/src_smc_2017#q01|src_smc_2017__Q01]]
 
 
 
@@ -91,7 +91,7 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(E)** $1.75$ g/cm
 
 **Risposta:** B
-[[src_smc_2017__Q02]]
+[[Quesiti/src_smc_2017#q02|src_smc_2017__Q02]]
 
 
 
@@ -136,7 +136,7 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(E)** $14$
 
 **Risposta:** E
-[[src_smc_2017__Q03]]
+[[Quesiti/src_smc_2017#q03|src_smc_2017__Q03]]
 
 
 
@@ -177,7 +177,7 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(E)** $\dfrac{2018 \times 2016}{2017}$
 
 **Risposta:** E
-[[src_smc_2017__Q04]]
+[[Quesiti/src_smc_2017#q04|src_smc_2017__Q04]]
 
 
 
@@ -221,7 +221,7 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(E)** $8 \times 10^{24}$
 
 **Risposta:** C
-[[src_smc_2017__Q05]]
+[[Quesiti/src_smc_2017#q05|src_smc_2017__Q05]]
 
 
 
@@ -242,7 +242,7 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(D)** $5$
 > - **(E)** $6$
 
-![[src_smc_2017__Q06.png]]
+![[src_smc_2017__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]]
@@ -267,10 +267,10 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(D)** $5$
 > - **(E)** $6$
 
-![[src_smc_2017__Q06.png]]
+![[src_smc_2017__q06.png]]
 
 **Risposta:** B
-[[src_smc_2017__Q06]]
+[[Quesiti/src_smc_2017#q06|src_smc_2017__Q06]]
 
 
 
@@ -315,7 +315,7 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(E)** $288$
 
 **Risposta:** C
-[[src_smc_2017__Q07]]
+[[Quesiti/src_smc_2017#q07|src_smc_2017__Q07]]
 
 
 
@@ -355,7 +355,7 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(E)** $16^{\frac{3}{4}}$
 
 **Risposta:** B
-[[src_smc_2017__Q08]]
+[[Quesiti/src_smc_2017#q08|src_smc_2017__Q08]]
 
 
 
@@ -376,7 +376,7 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(D)** $13$
 > - **(E)** $12$
 
-![[src_smc_2017__Q09.png]]
+![[src_smc_2017__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -401,10 +401,10 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(D)** $13$
 > - **(E)** $12$
 
-![[src_smc_2017__Q09.png]]
+![[src_smc_2017__q09.png]]
 
 **Risposta:** A
-[[src_smc_2017__Q09]]
+[[Quesiti/src_smc_2017#q09|src_smc_2017__Q09]]
 
 
 
@@ -427,7 +427,7 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(D)** $\sqrt{3} : 1$
 > - **(E)** $\sqrt{2} : 1$
 
-![[src_smc_2017__Q10.png]]
+![[src_smc_2017__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -453,10 +453,10 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(D)** $\sqrt{3} : 1$
 > - **(E)** $\sqrt{2} : 1$
 
-![[src_smc_2017__Q10.png]]
+![[src_smc_2017__q10.png]]
 
 **Risposta:** D
-[[src_smc_2017__Q10]]
+[[Quesiti/src_smc_2017#q10|src_smc_2017__Q10]]
 
 
 
@@ -508,7 +508,7 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 > - **(E)** $19$
 
 **Risposta:** D
-[[src_smc_2017__Q11]]
+[[Quesiti/src_smc_2017#q11|src_smc_2017__Q11]]
 
 
 
@@ -529,7 +529,7 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 > - **(D)** $24$
 > - **(E)** $27$
 
-![[src_smc_2017__Q12.png]]
+![[src_smc_2017__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -553,10 +553,10 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 > - **(D)** $24$
 > - **(E)** $27$
 
-![[src_smc_2017__Q12.png]]
+![[src_smc_2017__q12.png]]
 
 **Risposta:** B
-[[src_smc_2017__Q12]]
+[[Quesiti/src_smc_2017#q12|src_smc_2017__Q12]]
 
 
 
@@ -613,7 +613,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(E)** Ulteriori informazioni necessarie
 
 **Risposta:** C
-[[src_smc_2017__Q13]]
+[[Quesiti/src_smc_2017#q13|src_smc_2017__Q13]]
 
 
 
@@ -634,7 +634,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(D)** $115$
 > - **(E)** $120$
 
-![[src_smc_2017__Q14.png]]
+![[src_smc_2017__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -658,10 +658,10 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(D)** $115$
 > - **(E)** $120$
 
-![[src_smc_2017__Q14.png]]
+![[src_smc_2017__q14.png]]
 
 **Risposta:** A
-[[src_smc_2017__Q14]]
+[[Quesiti/src_smc_2017#q14|src_smc_2017__Q14]]
 
 
 
@@ -682,7 +682,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(D)** $8$
 > - **(E)** $9$
 
-![[src_smc_2017__Q15.png]]
+![[src_smc_2017__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -706,10 +706,10 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(D)** $8$
 > - **(E)** $9$
 
-![[src_smc_2017__Q15.png]]
+![[src_smc_2017__q15.png]]
 
 **Risposta:** B
-[[src_smc_2017__Q15]]
+[[Quesiti/src_smc_2017#q15|src_smc_2017__Q15]]
 
 
 
@@ -730,7 +730,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(D)** $154$
 > - **(E)** $160$
 
-![[src_smc_2017__Q16.png]]
+![[src_smc_2017__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -754,10 +754,10 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 > - **(D)** $154$
 > - **(E)** $160$
 
-![[src_smc_2017__Q16.png]]
+![[src_smc_2017__q16.png]]
 
 **Risposta:** D
-[[src_smc_2017__Q16]]
+[[Quesiti/src_smc_2017#q16|src_smc_2017__Q16]]
 
 
 
@@ -802,7 +802,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(E)** $60$
 
 **Risposta:** D
-[[src_smc_2017__Q17]]
+[[Quesiti/src_smc_2017#q17|src_smc_2017__Q17]]
 
 
 
@@ -851,7 +851,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(E)** $4 : 1$
 
 **Risposta:** E
-[[src_smc_2017__Q18]]
+[[Quesiti/src_smc_2017#q18|src_smc_2017__Q18]]
 
 
 
@@ -872,7 +872,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(D)** $\dfrac{5\sqrt{6}}{5}$
 > - **(E)** $2$
 
-![[src_smc_2017__Q19.png]]
+![[src_smc_2017__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -897,10 +897,10 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(D)** $\dfrac{5\sqrt{6}}{5}$
 > - **(E)** $2$
 
-![[src_smc_2017__Q19.png]]
+![[src_smc_2017__q19.png]]
 
 **Risposta:** B
-[[src_smc_2017__Q19]]
+[[Quesiti/src_smc_2017#q19|src_smc_2017__Q19]]
 
 
 
@@ -921,7 +921,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(D)** $(\sqrt{2} - \tfrac{1}{2})\pi$
 > - **(E)** $2\pi$
 
-![[src_smc_2017__Q20.png]]
+![[src_smc_2017__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -945,10 +945,10 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(D)** $(\sqrt{2} - \tfrac{1}{2})\pi$
 > - **(E)** $2\pi$
 
-![[src_smc_2017__Q20.png]]
+![[src_smc_2017__q20.png]]
 
 **Risposta:** B
-[[src_smc_2017__Q20]]
+[[Quesiti/src_smc_2017#q20|src_smc_2017__Q20]]
 
 
 
@@ -989,7 +989,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(E)** un numero infinito
 
 **Risposta:** C
-[[src_smc_2017__Q21]]
+[[Quesiti/src_smc_2017#q21|src_smc_2017__Q21]]
 
 
 
@@ -1010,7 +1010,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $\sqrt{2}$
 > - **(E)** $\dfrac{\sqrt{6}}{2}$
 
-![[src_smc_2017__Q22.png]]
+![[src_smc_2017__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -1034,10 +1034,10 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $\sqrt{2}$
 > - **(E)** $\dfrac{\sqrt{6}}{2}$
 
-![[src_smc_2017__Q22.png]]
+![[src_smc_2017__q22.png]]
 
 **Risposta:** D
-[[src_smc_2017__Q22]]
+[[Quesiti/src_smc_2017#q22|src_smc_2017__Q22]]
 
 
 
@@ -1082,7 +1082,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(E)** $x = y^2 + 2$
 
 **Risposta:** C
-[[src_smc_2017__Q23]]
+[[Quesiti/src_smc_2017#q23|src_smc_2017__Q23]]
 
 
 
@@ -1127,7 +1127,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(E)** $20$
 
 **Risposta:** D
-[[src_smc_2017__Q24]]
+[[Quesiti/src_smc_2017#q24|src_smc_2017__Q24]]
 
 
 
@@ -1148,7 +1148,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $\dfrac{1 - \sin 40^\circ}{1 + \sin 40^\circ}$
 > - **(E)** $\dfrac{1}{9}$
 
-![[src_smc_2017__Q25.png]]
+![[src_smc_2017__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -1173,7 +1173,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $\dfrac{1 - \sin 40^\circ}{1 + \sin 40^\circ}$
 > - **(E)** $\dfrac{1}{9}$
 
-![[src_smc_2017__Q25.png]]
+![[src_smc_2017__q25.png]]
 
 **Risposta:** A
-[[src_smc_2017__Q25]]
+[[Quesiti/src_smc_2017#q25|src_smc_2017__Q25]]

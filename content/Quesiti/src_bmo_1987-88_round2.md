@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > Indicare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
 
-[[src_bmo_1987-88_round2__Q01]]
+[[Quesiti/src_bmo_1987-88_round2#q01|src_bmo_1987-88_round2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 2
 > 
 > Un gruppo di 10 persone composto da 5 coppie sposate sarà diviso in 5 coppie. Una coppia può essere composta da due uomini, due donne o da un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questa disposizione? Spiega attentamente il tuo ragionamento.
 
-[[src_bmo_1987-88_round2__Q02]]
+[[Quesiti/src_bmo_1987-88_round2#q02|src_bmo_1987-88_round2__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: BMO Round 2
 > Usando le prime due equazioni si esprime $z$ in termini di $a$, $b$, $x$, $y$. Prove che $$x^2(1-b^2) = y^2(1-a^2) = xy(ab-c)$$ e quindi trova il valore di $a^4 + b^4 + c^4 - 2a^2b^2 - 2b^2c^2 - 2a^2c^2$ (indipendentemente da $x$, $y$, $z$).
 
 **Risposta:** 1
-[[src_bmo_1987-88_round2__Q03]]
+[[Quesiti/src_bmo_1987-88_round2#q03|src_bmo_1987-88_round2__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: BMO Round 2
 
 > Trova, con prova, tutte le soluzioni di $$\frac{1}{x} + \frac{1}{y} - \frac{1}{z} = 1$$ dove $x$, $y$, $z$ sono integri positivi.
 
-[[src_bmo_1987-88_round2__Q04]]
+[[Quesiti/src_bmo_1987-88_round2#q04|src_bmo_1987-88_round2__Q04]]
 
 
 
@@ -169,7 +169,7 @@ level: BMO Round 2
 > 
 > Indicare che il centro della sfera attraverso $A$, $B$, $P$, $Q$ si trova su un cerchio fisso con il centro il punto medio di $AB$.
 
-[[src_bmo_1987-88_round2__Q05]]
+[[Quesiti/src_bmo_1987-88_round2#q05|src_bmo_1987-88_round2__Q05]]
 
 
 
@@ -198,4 +198,4 @@ Se due triangoli hanno lati a1,b1,c1 e a2,b2,c2, dimostrare che i mezzi geometri
 
 > Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1 a_2}, \quad b = \sqrt{b_1 b_2}, \quad c = \sqrt{c_1 c_2}$$ sono anche le lunghezze dei lati di un triangolo.
 
-[[src_bmo_1987-88_round2__Q06]]
+[[Quesiti/src_bmo_1987-88_round2#q06|src_bmo_1987-88_round2__Q06]]

@@ -44,7 +44,7 @@ level: Coupe Animath Printemps
 > 
 > b) Trovare tutti gli enti $x$ in modo tale che, partendo da $x$ e applicando successivamente due operazioni diverse (tra $A$, $B$, $C$), si ottiene $2015$.
 
-[[src_canimath_2015_printemps__Q01]]
+[[Quesiti/src_canimath_2015_printemps#q01|src_canimath_2015_printemps__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo rettangolo a $A$. Determinare il punto ((s) $P$ sul perimetro di $ABC$ in modo tale che $PA + PB = PC$.
 
-[[src_canimath_2015_printemps__Q02]]
+[[Quesiti/src_canimath_2015_printemps#q02|src_canimath_2015_printemps__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: Coupe Animath Printemps
 > 
 > Trovare tutti gli integri $n$ che hanno esattamente $4$ cifre come $f(n) = 4n + 3$.
 
-[[src_canimath_2015_printemps__Q03]]
+[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: Coupe Animath Printemps
 
 > Lasciate che $ABC$ sia un triangolo. Selezionare $M$ sul lato $[BC]$, $N$ sul lato $[CA]$ e $P$ sul lato $[AB]$. La linea $D_B$ deve essere la linea attraverso $B$ perpendicolare a $[MP]$ e $D_C$ la linea attraverso $C$ perpendicolare a $[MN]$. Supponiamo che le linee $D_B$ e $D_C$ si incontrino in un punto $I$. Prova che gli angoli $\widehat{IPA}$ e $\widehat{INC}$ sono uguali.
 
-[[src_canimath_2015_printemps__Q04]]
+[[Quesiti/src_canimath_2015_printemps#q04|src_canimath_2015_printemps__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: Coupe Animath Printemps
 
 > I numeri interi $2015$ strettamente positivi sono posizionati intorno a un cerchio. Prove che è possibile trovare due integri vicini in modo tale che, dopo averli rimossi, i numeri rimanenti non possano essere divisi in due gruppi con somma uguale.
 
-[[src_canimath_2015_printemps__Q05]]
+[[Quesiti/src_canimath_2015_printemps#q05|src_canimath_2015_printemps__Q05]]
 
 
 
@@ -183,7 +183,7 @@ level: Coupe Animath Printemps
 
 > $\lfloor x \rfloor$ indichi la parte integrale di $x$. Ad esempio, $\lfloor 15/4 \rfloor = 3$. Definire $$f(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor.$$ Trovare tutti gli enti $n$ in modo che $f(n+1) > f(n)$.
 
-[[src_canimath_2015_printemps__Q06]]
+[[Quesiti/src_canimath_2015_printemps#q06|src_canimath_2015_printemps__Q06]]
 
 
 
@@ -210,7 +210,7 @@ level: Coupe Animath Printemps
 
 > I punti $n$ sono posizionati su un cerchio di diametro $n/\pi$ (così la circonferenza $n$). Supponiamo che la lunghezza di ogni arco tra due punti consecutivi (senza contare i punti finali) sia rigorosamente superiore al numero di punti rigorosamente all'interno di tale arco. Prova che è possibile trovare archi $n$ che contengono ciascuno esattamente un punto, dividendo il cerchio.
 
-[[src_canimath_2015_printemps__Q07]]
+[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
 
 
 
@@ -237,4 +237,4 @@ level: Coupe Animath Printemps
 
 > Lasciate che $p$, $q$, $r$ siano numeri primi in modo tale che ciascuno dei tre numeri $pq + 1$, $pr + 1$ e $qr - p$ sia un quadrato perfetto. Prova che $p + 2qr + 2$ è anche un quadrato perfetto.
 
-[[src_canimath_2015_printemps__Q08]]
+[[Quesiti/src_canimath_2015_printemps#q08|src_canimath_2015_printemps__Q08]]

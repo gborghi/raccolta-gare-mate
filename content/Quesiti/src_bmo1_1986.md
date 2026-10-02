@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Riduzione della frazione $\dfrac{N}{D}$ ai suoi termini più bassi quando $$N = 22448511485348514627$$ $$D = 81188118811881188000$$
 
-[[src_bmo1_1986__Q01]]
+[[Quesiti/src_bmo1_1986#q01|src_bmo1_1986__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Un cerchio $S$ di raggio $R$ ha due tangenti paralleli $t_1$ e $t_2$. Un cerchio $S_1$ di raggio $r_1$ tocca $S$ e $t_1$; un cerchio $S_2$ di raggio $r_2$ tocca $S$ e $t_2$; anche $S_1$ tocca $S_2$ e tutti i contatti del cerchio sono esterni. Calcolare $R$ in termini di $r_1$ e $r_2$.
 
-[[src_bmo1_1986__Q02]]
+[[Quesiti/src_bmo1_1986#q02|src_bmo1_1986__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Prova che se $m$, $n$, $r$ sono numeri interi positivi e $$1 + m + n\sqrt{3} = (2 + \sqrt{3})^{2r-1}$$ allora $m$ è un quadrato perfetto.
 
-[[src_bmo1_1986__Q03]]
+[[Quesiti/src_bmo1_1986#q03|src_bmo1_1986__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: BMO Round 1
 
 > Trovare, con prova, il più grande numero reale $K$ (indipendente da $a, b, c$) tale che l'ineguaglianza $$a^2 + b^2 + c^2 \ge K(a + b + c)^2$$ sia valida per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo angolato obtuso.
 
-[[src_bmo1_1986__Q04]]
+[[Quesiti/src_bmo1_1986#q04|src_bmo1_1986__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: BMO Round 1
 
 > Trova, con prova, il numero di permutazioni $$a_1, a_2, \ldots, a_n$$ di $1, 2, \ldots, n$ in modo tale che $$a_i < a_{i+2} \quad \text{for } 1 \le i \le n-2$$ e $$a_i < a_{i+1} \quad \text{for } 1 \le i \le n-3$$ (In una permutazione ogni numero $1, 2, \ldots, n$ appare.)
 
-[[src_bmo1_1986__Q05]]
+[[Quesiti/src_bmo1_1986#q05|src_bmo1_1986__Q05]]
 
 
 
@@ -180,4 +180,4 @@ level: BMO Round 1
 
 > $AB$, $AC$, $AD$ sono tre bordi di un cubo. $AC$ è prodotto a $E$ in modo che $AE = 2AC$ e $AD$ è prodotto a $F$ in modo che $AF = 3AD$. Prova che l'area della sezione del cubo per qualsiasi piano parallelo a $BEF$ è uguale all'area della sezione del tetraedro $ABEF$ per lo stesso piano.
 
-[[src_bmo1_1986__Q06]]
+[[Quesiti/src_bmo1_1986#q06|src_bmo1_1986__Q06]]

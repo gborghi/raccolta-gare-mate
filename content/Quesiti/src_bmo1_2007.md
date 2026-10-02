@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova quattro numeri primi inferiori a $100$ che sono fattori di $3^{10} - 2^{10}$.
 
-[[src_bmo1_2007__Q01]]
+[[Quesiti/src_bmo1_2007#q01|src_bmo1_2007__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Nel quadrilaterale converso $ABCD$, i punti $M$, $N$ si trovano sul lato $AB$ in modo tale che $AM = MN = NB$, e i punti $P$, $Q$ si trovano sul lato $CD$ in modo tale che $CP = PQ = QD$. Provare che $$\text{Area of } MNPQ = \frac{1}{3} \text{ Area of } ABCD.$$
 
-[[src_bmo1_2007__Q02]]
+[[Quesiti/src_bmo1_2007#q02|src_bmo1_2007__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 1
 
 > Il numero $910234857$ è un esempio di un numero di nove cifre che contiene ciascuna delle cifre $1$ a $9$ esattamente una volta. Ha anche la proprietà che le cifre $1$ a $5$ si presentino nel loro ordine naturale, mentre le cifre $1$ a $6$ non lo fanno. Quanti numeri di nove cifre ci sono?
 
-[[src_bmo1_2007__Q03]]
+[[Quesiti/src_bmo1_2007#q03|src_bmo1_2007__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: BMO Round 1
 
 > Due cerchi di tocco $S$ e $T$ condividono una linea tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che $AP = PQ$.
 
-[[src_bmo1_2007__Q04]]
+[[Quesiti/src_bmo1_2007#q04|src_bmo1_2007__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: BMO Round 1
 
 > Per i numeri reali positivi $a$, $b$, $c$, dimostrare che $$(a^2 + b^2)^2(b + c)(c + a) \ge (a + b)^2(a^2 b + b^2 c + c^2 a - a^2 c).$$
 
-[[src_bmo1_2007__Q05]]
+[[Quesiti/src_bmo1_2007#q05|src_bmo1_2007__Q05]]
 
 
 
@@ -170,4 +170,4 @@ level: BMO Round 1
 
 > $n$ sia un numero intero. Mostra che se $2 + \sqrt{3 + \sqrt{12n + 1}}$ è un intero, allora $n$ è un quadrato perfetto.
 
-[[src_bmo1_2007__Q06]]
+[[Quesiti/src_bmo1_2007#q06|src_bmo1_2007__Q06]]

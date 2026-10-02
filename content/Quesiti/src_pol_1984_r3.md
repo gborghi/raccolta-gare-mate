@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova il numero di tutte le funzioni reali $f$ che mappano la somma degli elementi $n$ nella somma delle loro immagini, in modo che $f^{n-1}$ sia una funzione costante e $f^{n-2}$ non lo sia. Qui $f^0(x)=x$ e $f^k=f\circ f^{k-1}$ per $k\ge 1$.
 
-[[src_pol_1984_r3__Q01]]
+[[Quesiti/src_pol_1984_r3#q01|src_pol_1984_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > $n$ sia un numero intero positivo. Per tutti i $i,j\in\{1,2,\ldots,n\}$ definire $a_{j,i}=1$ se $j=i$ e $a_{j,i}=0$ altrimenti. Inoltre, per $i=n+1,\ldots,2n$ definire $a_{j,i}=-\frac{1}{n}$. Prove che per qualsiasi permutazione $p$ del set $\{1,2,\ldots,2n\}$ si verifica la seguente disuguaglianza: $$\sum_{j=1}^{n}\left|\sum_{k=1}^{n}a_{j,p(k)}\right|\ge\frac{n}{2}.$$
 
-[[src_pol_1984_r3__Q02]]
+[[Quesiti/src_pol_1984_r3#q02|src_pol_1984_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 3
 
 > Che il $W$ sia un ottaedro regolare e il $O$ sia il suo centro. In un piano $P$ contenente $O$ si scelgono i cerchi $k_1(O,r_1)$ e $k_2(O,r_2)$ in modo tale che $k_1\subset P\cap W\subset k_2$. Dimostra che $\frac{r_1}{r_2}\le\frac{\sqrt{3}}{2}$.
 
-[[src_pol_1984_r3__Q03]]
+[[Quesiti/src_pol_1984_r3#q03|src_pol_1984_r3__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 3
 
 > Una moneta viene lanciata $n$ volte, e il risultato è scritto nella forma $(a_1,a_2,\ldots,a_n)$, dove $a_i=1$ o $2$ a seconda che il risultato del tiro $i$-th sia la testa o la coda, rispettivamente. Impostare $b_j=a_1+a_2+\cdots+a_j$ per $j=1,2,\ldots,n$, e lasciare $p(n)$ la probabilità che la sequenza $b_1,b_2,\ldots,b_n$ contiene il numero $n$. Esprimere $p(n)$ in termini di $p(n-1)$ e $p(n-2)$.
 
-[[src_pol_1984_r3__Q04]]
+[[Quesiti/src_pol_1984_r3#q04|src_pol_1984_r3__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 3
 
 > Un esagono regolare di lato $1$ è coperto da sei dischi unitari. Prova che nessuno dei vertici dell'esagono è coperto da due (o più) dischi.
 
-[[src_pol_1984_r3__Q05]]
+[[Quesiti/src_pol_1984_r3#q05|src_pol_1984_r3__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: Olimpiade Polacca Round 3
 
 > Le città $P_1,\ldots,P_{1025}$ sono collegate tra loro da compagnie aeree $A_1,\ldots,A_{10}$ in modo che per due città distinte $P_k$ e $P_m$ esiste una compagnia aerea che offre un volo diretto tra di esse. Prova che una delle compagnie aeree può offrire un viaggio di andata e ritorno con un numero imparato di voli.
 
-[[src_pol_1984_r3__Q06]]
+[[Quesiti/src_pol_1984_r3#q06|src_pol_1984_r3__Q06]]

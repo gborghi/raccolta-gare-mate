@@ -19,7 +19,7 @@ level: China Western Mathematical Olympiad
 
 > Put numbers $1, 2, 3, 4, 5, 6, 7$ and $8$ at the vertices of a cube, such that the sum of any three numbers on any face is not less than $10$. Find the minimum sum of the four numbers on a face.
 
-![[src_cn_cwmo_2003__Q01.png]]
+![[src_cn_cwmo_2003__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -36,10 +36,10 @@ level: China Western Mathematical Olympiad
 
 > Mettere i numeri $1, 2, 3, 4, 5, 6, 7$ e $8$ alle vertici di un cubo, in modo che la somma di tutti e tre i numeri su qualsiasi faccia non sia inferiore a $10$. Trova la somma minima dei quattro numeri su una faccia.
 
-![[src_cn_cwmo_2003__Q01.png]]
+![[src_cn_cwmo_2003__q01.png]]
 
 **Risposta:** 16
-[[src_cn_cwmo_2003__Q01]]
+[[Quesiti/src_cn_cwmo_2003#q01|src_cn_cwmo_2003__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: China Western Mathematical Olympiad
 
 > $a_1, a_2, \ldots, a_{2n}$ siano numeri reali con $\sum_{k=1}^{2n-1}(a_{k+1} - a_k)^2 = 1$. Trova il valore massimo di $(a_{n+1} + a_{n+2} + \cdots + a_{2n}) - (a_1 + a_2 + \cdots + a_n)$.
 
-[[src_cn_cwmo_2003__Q02]]
+[[Quesiti/src_cn_cwmo_2003#q02|src_cn_cwmo_2003__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: China Western Mathematical Olympiad
 
 > $n$ sia un dato numero intero positivo. Trova il numero intero meno positivo $d$ in modo tale che in ogni numero pari positivo successivo $n$ il numero di numeri interi non divisibili da $d$ non sia inferiore al numero di numeri interi divisibili da $d$ in $1, 3, 5, \ldots, 2n-1$.
 
-[[src_cn_cwmo_2003__Q03]]
+[[Quesiti/src_cn_cwmo_2003#q03|src_cn_cwmo_2003__Q03]]
 
 
 
@@ -106,7 +106,7 @@ level: China Western Mathematical Olympiad
 
 > Suppose the sum of distances from any point $P$ on a convex quadrilateral $ABCD$ to lines $AB$, $BC$, $CD$ and $DA$ is constant. Prove that $ABCD$ is a parallelogram.
 
-![[src_cn_cwmo_2003__Q04.png]]
+![[src_cn_cwmo_2003__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -122,9 +122,9 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che la somma delle distanze da qualsiasi punto $P$ su un quadrilaterale converso $ABCD$ alle linee $AB$, $BC$, $CD$ e $DA$ sia costante. Provare che $ABCD$ è un parallelo.
 
-![[src_cn_cwmo_2003__Q04.png]]
+![[src_cn_cwmo_2003__q04.png]]
 
-[[src_cn_cwmo_2003__Q04]]
+[[Quesiti/src_cn_cwmo_2003#q04|src_cn_cwmo_2003__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: China Western Mathematical Olympiad
 
 > Se $\{a_n\}$ è una sequenza di numeri con $a_0 = 0$ e $a_{n+1} = \delta a_n - \sqrt{(\delta^2 - 1) \cdot 3 a_n^2 + 1}$, $n = 0, 1, 2, \ldots$ dimostri che la sequenza $\{a_n\}$ è composta da integri e che $a_{n+1} \ge 2a_n - 1$ per tutti $n \ge 0$.
 
-[[src_cn_cwmo_2003__Q05]]
+[[Quesiti/src_cn_cwmo_2003#q05|src_cn_cwmo_2003__Q05]]
 
 
 
@@ -164,7 +164,7 @@ level: China Western Mathematical Olympiad
 
 > Suppose the convex quadrilateral $ABCD$ has an inscribed circle. The circle touches $AB$, $BC$, $CD$, $DA$ at $A_1$, $B_1$, $C_1$, $D_1$ respectively. Let $H$ be the midpoint of $D_1 A_1$, and lines $A_1 B_1$ and $D_1 C_1$ meet at $E$. Let $F$ and $G$ be the midpoints of sides $B_1 C_1$ and $D_1 A_1$ respectively, and lines $A_1 D_1$ and $B_1 C_1$ meet at point $I$. Prove that $E$, $F$, $G$, $H$ lie on one circle if and only if $ABCD$ is a cyclic quadrilateral.
 
-![[src_cn_cwmo_2003__Q06.png]]
+![[src_cn_cwmo_2003__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -180,9 +180,9 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che il quadrilaterale convex $ABCD$ abbia un cerchio inciso. Il cerchio tocca rispettivamente $AB$, $BC$, $CD$, $DA$ a $A_1$, $B_1$, $C_1$ e $D_1$. Il $H$ deve essere il punto medio di $D_1 A_1$ e le linee $A_1 B_1$ e $D_1 C_1$ devono incontrarsi al $E$. Le linee $F$ e $G$ devono essere i punti di mezzo dei lati $B_1 C_1$ e $D_1 A_1$ rispettivamente, e le linee $A_1 D_1$ e $B_1 C_1$ devono incontrarsi al punto $I$. Prova che $E$, $F$, $G$, $H$ si trovano su un cerchio se e solo se $ABCD$ è un quadrilaterale ciclico.
 
-![[src_cn_cwmo_2003__Q06.png]]
+![[src_cn_cwmo_2003__q06.png]]
 
-[[src_cn_cwmo_2003__Q06]]
+[[Quesiti/src_cn_cwmo_2003#q06|src_cn_cwmo_2003__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: China Western Mathematical Olympiad
 
 > $r_1, r_2, \ldots, r_n$ siano numeri reali non negativi con $\sum_{i=1}^{n} \frac{r_i}{i + r_i} = 1$. Prove che $\sum_{i=1}^{n} \frac{r_i}{4i - 1} \le 1$.
 
-[[src_cn_cwmo_2003__Q07]]
+[[Quesiti/src_cn_cwmo_2003#q07|src_cn_cwmo_2003__Q07]]
 
 
 
@@ -236,4 +236,4 @@ level: China Western Mathematical Olympiad
 
 > Organizzare gli studenti $1650$ nelle righe $22$ per colonne $75$. È noto che per due colonne il numero di volte in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di ragazzi non supera $928$.
 
-[[src_cn_cwmo_2003__Q08]]
+[[Quesiti/src_cn_cwmo_2003#q08|src_cn_cwmo_2003__Q08]]

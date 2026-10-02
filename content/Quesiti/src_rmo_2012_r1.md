@@ -33,7 +33,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo e $D$ un punto sul segmento $BC$ tale da $DC = 2BD$. $E$ sia il punto medio di $AC$. Lasciate che $AD$ e $BE$ si incrociano in $P$. Determinare i rapporti $BP/PE$ e $AP/PD$.
 
-[[src_rmo_2012_r1__Q01]]
+[[Quesiti/src_rmo_2012_r1#q01|src_rmo_2012_r1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^3$, $b$ divida $c^3$ e $c$ divida $a^3$. Indicare che $abc$ divide $(a + b + c)^{13}$.
 
-[[src_rmo_2012_r1__Q02]]
+[[Quesiti/src_rmo_2012_r1#q02|src_rmo_2012_r1__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 
 *Apparizioni nelle regioni: Regione 1, Regione 2, Regione 4.*
 
-[[src_rmo_2012_r1__Q03]]
+[[Quesiti/src_rmo_2012_r1#q03|src_rmo_2012_r1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 
 > Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7\}$.
 
-[[src_rmo_2012_r1__Q04]]
+[[Quesiti/src_rmo_2012_r1#q04|src_rmo_2012_r1__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 
 > Lasciate che $ABC$ sia un triangolo. Il $BE$ e il $CF$ siano rispettivamente bisettori di angolo interno di $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Supponiamo che $X$ sia un punto del segmento $CF$ tale che $AX \perp CF$, e $Y$ sia un punto del segmento $BE$ tale che $AY \perp BE$. Prove che $XY = \frac{b + c - a}{2}$ dove $BC = a$, $CA = b$ e $AB = c$.
 
-[[src_rmo_2012_r1__Q05]]
+[[Quesiti/src_rmo_2012_r1#q05|src_rmo_2012_r1__Q05]]
 
 
 
@@ -172,4 +172,4 @@ Prove che non tutte le radici di ax^4+bx^3+x^2+x+1=0 sono reali
 
 > $b$ e $a$ siano numeri reali come $a \neq 0$. Prova che non tutte le radici di $ax^4 + bx^3 + x^2 + x + 1 = 0$ possono essere reali.
 
-[[src_rmo_2012_r1__Q06]]
+[[Quesiti/src_rmo_2012_r1#q06|src_rmo_2012_r1__Q06]]

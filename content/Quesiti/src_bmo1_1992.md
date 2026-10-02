@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > (b) Esiste un numero a tre cifre diverso da 100, 200, 300 il cui quadrato ha lo stesso numero di cifre non zero del numero originale?
 
-[[src_bmo1_1992__Q01]]
+[[Quesiti/src_bmo1_1992#q01|src_bmo1_1992__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > Che il $ABCDE$ sia un pentagono inscritto in un cerchio. Supponiamo che $AC$, $BD$, $CE$, $DA$, $EB$ siano parallele rispettivamente a $AB$, $BC$, $CD$, $DE$, $EA$. Ne consegue che il pentagono deve essere regolare? Giustifica la tua richiesta.
 
-[[src_bmo1_1992__Q02]]
+[[Quesiti/src_bmo1_1992#q02|src_bmo1_1992__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Trova quattro diversi interi positivi in modo tale che il prodotto di uno di essi divida il prodotto dei restanti tre. Puoi trovare un insieme di cinque o più numeri con la stessa proprietà?
 
-[[src_bmo1_1992__Q03]]
+[[Quesiti/src_bmo1_1992#q03|src_bmo1_1992__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: BMO Round 1
 
 > Determinare il valore più piccolo di $x^2 + 5y^2 + 9z^2$, dove $x$, $y$, $z$ sono numeri reali soggetti alla condizione $ax + by + cz = 1$ (per determinate costanti). L'espressione ha un valore maggiore soggetto alla condizione? Giustifica la tua richiesta.
 
-[[src_bmo1_1992__Q04]]
+[[Quesiti/src_bmo1_1992#q04|src_bmo1_1992__Q04]]
 
 
 
@@ -145,4 +145,4 @@ level: BMO Round 1
 
 > Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi ai numeri interi positivi. Supponiamo che $f(n+1) > f(f(n))$ per tutti gli integri positivi $n$. Determinare $f(1992)$.
 
-[[src_bmo1_1992__Q05]]
+[[Quesiti/src_bmo1_1992#q05|src_bmo1_1992__Q05]]

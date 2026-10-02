@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > The figure alongside shows houses of cards of $1$, $2$ and $3$ tiers. To build these houses of cards, $2$, $7$ and $15$ cards were used, respectively. How many cards will be needed to build a house of cards of $5$ tiers?
 
-![[src_obm_2009_n1_f2__Q01.png]]
+![[src_obm_2009_n1_f2__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -35,9 +35,9 @@ level: OBM Nível 1
 
 > La figura accanto mostra le case di carte di livello $1$, $2$ e $3$. Per costruire queste case di carte sono state utilizzate rispettivamente le carte $2$, $7$ e $15$. Quante carte saranno necessarie per costruire una casa di carte di $5$ livelli?
 
-![[src_obm_2009_n1_f2__Q01.png]]
+![[src_obm_2009_n1_f2__q01.png]]
 
-[[src_obm_2009_n1_f2__Q01]]
+[[Quesiti/src_obm_2009_n1_f2#q01|src_obm_2009_n1_f2__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: OBM Nível 1
 
 > In una classe di seconda elementare, di tutti gli studenti di seconda elementare, $4$ sono ragazze. Ci sono più ragazzi che ragazze. Quanti studenti ci sono in questa classe?
 
-[[src_obm_2009_n1_f2__Q02]]
+[[Quesiti/src_obm_2009_n1_f2#q02|src_obm_2009_n1_f2__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: OBM Nível 1
 > 
 > Ogni studente era assente esattamente due giorni. Il giorno del più basso numero di persone presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
 
-[[src_obm_2009_n1_f2__Q03]]
+[[Quesiti/src_obm_2009_n1_f2#q03|src_obm_2009_n1_f2__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: OBM Nível 1
 
 > Mariazinha wants to cover the top of a rectangular table measuring $88$ cm by $95$ cm with square sheets of cardstock of side $10$ cm, starting from one corner, as shown in the figure. The sheets are cut from a roll $10$ cm wide and placed in rows, without superpositions, up to reaching the borders. Since the sheets must not surpass the edges, they are folded over the borders, forming rectangular regions with two thicknesses of sheets (gray region) and a rectangular region with four thicknesses of sheets (dark gray region). What is the area of the region covered by four sheets?
 
-![[src_obm_2009_n1_f2__Q04.png]]
+![[src_obm_2009_n1_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -129,9 +129,9 @@ level: OBM Nível 1
 
 > Mariazinha vuole coprire la parte superiore di una tavola rettangolare di $88$ cm di $95$ cm con fogli quadrati di cartone di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli sono tagliati a partire da un rollo di $10$ cm di larghezza e collocati in file, senza superposizioni, fino a raggiungere i confini. Poiché i fogli non devono superare i bordi, sono piegati sopra i confini, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigia scura). Qual è l'area della regione coperta da quattro fogli?
 
-![[src_obm_2009_n1_f2__Q04.png]]
+![[src_obm_2009_n1_f2__q04.png]]
 
-[[src_obm_2009_n1_f2__Q04]]
+[[Quesiti/src_obm_2009_n1_f2#q04|src_obm_2009_n1_f2__Q04]]
 
 
 
@@ -158,7 +158,7 @@ level: OBM Nível 1
 
 > Il numero $200920092009\ldots 2009$ ha i numeri $2008$. Qual è la quantità più piccola di cifre da cancellare, in modo che la somma delle cifre rimanenti sia $2008$?
 
-[[src_obm_2009_n1_f2__Q05]]
+[[Quesiti/src_obm_2009_n1_f2#q05|src_obm_2009_n1_f2__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: OBM Nível 1
 
 > Diciamo che due o più numeri appartengono alla stessa famiglia quando tutti hanno almeno una cifra in comune. Ad esempio, i numeri $72$, $32$, $25$ e $22$ appartengono alla stessa famiglia, poiché tutti possiedono la cifra $2$, mentre i numeri $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché non esiste una cifra che compare in tutti e tre questi numeri. Determinare il maggior numero di membri di una famiglia i cui elementi hanno almeno una cifra in comune.
 
-[[src_obm_2009_n1_f2__Q06]]
+[[Quesiti/src_obm_2009_n1_f2#q06|src_obm_2009_n1_f2__Q06]]
 
 
 
@@ -202,7 +202,7 @@ level: OBM Nível 1
 > 
 > b) With figures of three triangles, what is the largest perimeter that can be obtained?
 
-![[src_obm_2009_n1_f2__Q07.png]]
+![[src_obm_2009_n1_f2__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -222,9 +222,9 @@ level: OBM Nível 1
 > 
 > b) Con le cifre di tre triangoli, quale è il perimetro più grande che si può ottenere?
 
-![[src_obm_2009_n1_f2__Q07.png]]
+![[src_obm_2009_n1_f2__q07.png]]
 
-[[src_obm_2009_n1_f2__Q07]]
+[[Quesiti/src_obm_2009_n1_f2#q07|src_obm_2009_n1_f2__Q07]]
 
 
 
@@ -259,7 +259,7 @@ level: OBM Nível 1
 > 
 > b) Qual sarebbe il numero $A$ se i numeri di $B$ non fossero consecutivi?
 
-[[src_obm_2009_n1_f2__Q08]]
+[[Quesiti/src_obm_2009_n1_f2#q08|src_obm_2009_n1_f2__Q08]]
 
 
 
@@ -294,4 +294,4 @@ level: OBM Nível 1
 > 
 > b) Al termine del terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Spiegami.
 
-[[src_obm_2009_n1_f2__Q09]]
+[[Quesiti/src_obm_2009_n1_f2#q09|src_obm_2009_n1_f2__Q09]]

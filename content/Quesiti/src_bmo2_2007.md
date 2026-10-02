@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Dato che $\angle BAC = \angle ACD$, determinare $AB$ e $BC$.
 
-[[src_bmo2_2007__Q01]]
+[[Quesiti/src_bmo2_2007#q01|src_bmo2_2007__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Mostrare che ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che $$\frac{m+1}{n} + \frac{n+1}{m}$$ è un intero positivo.
 
-[[src_bmo2_2007__Q02]]
+[[Quesiti/src_bmo2_2007#q02|src_bmo2_2007__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 > 
 > (Nota: il circoncircolo di $\triangle ABC$ è il circolo che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari dai vertici ai lati opposti.)
 
-[[src_bmo2_2007__Q03]]
+[[Quesiti/src_bmo2_2007#q03|src_bmo2_2007__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
 
-[[src_bmo2_2007__Q04]]
+[[Quesiti/src_bmo2_2007#q04|src_bmo2_2007__Q04]]

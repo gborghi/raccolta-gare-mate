@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be a triangle and let $AD$ be the perpendicular from $A$ to $BC$. Let $K$, $L$, $M$ be points on $AD$ such that $AK = KL = LM = MD$. If the sum of the areas of the shaded regions is equal to the sum of the areas of the unshaded regions, prove that $BD = DC$.
 
-![[src_rmo_2014_r1__Q01.png]]
+![[src_rmo_2014_r1__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo e che $AD$ sia la perpendicolare da $A$ a $BC$. I punti $K$, $L$, $M$ siano punti su $AD$ in modo tale che $AK = KL = LM = MD$. Se la somma delle superfici delle regioni ombreggiate è pari alla somma delle superfici delle regioni non ombreggiate, dimostrare che $BD = DC$.
 
-![[src_rmo_2014_r1__Q01.png]]
+![[src_rmo_2014_r1__q01.png]]
 
-[[src_rmo_2014_r1__Q01]]
+[[Quesiti/src_rmo_2014_r1#q01|src_rmo_2014_r1__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: RMO
 
 > $a_1, a_2, \ldots, a_{2n}$ sia una progressione aritmetica dei numeri reali positivi con differenza comune $d$. Per i) $a_1^2 + a_3^2 + \cdots + a_{2n-1}^2 = x$, ii) $a_2^2 + a_4^2 + \cdots + a_{2n}^2 = y$ e iii) $a_n + a_{n+1} = z$. Esprimere $d$ in termini di $x$, $y$, $z$, $n$.
 
-[[src_rmo_2014_r1__Q02]]
+[[Quesiti/src_rmo_2014_r1#q02|src_rmo_2014_r1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: RMO
 
 > Supponiamo che per alcuni integri positivi $r$ e $s$, le cifre di $2^r$ siano ottenute permutando le cifre di $2^s$ in espansione decimale. Prove che $r = s$.
 
-[[src_rmo_2014_r1__Q03]]
+[[Quesiti/src_rmo_2014_r1#q03|src_rmo_2014_r1__Q03]]
 
 
 
@@ -108,7 +108,7 @@ level: RMO
 
 > Is it possible to write the numbers $17, 18, 19, \ldots, 32$ in a $4 \times 4$ grid of unit squares, with one number in each square, such that the product of the numbers in each $2 \times 2$ sub-grid $AMRG$, $GRND$, $MBHR$ and $RHCN$ is divisible by $16$?
 
-![[src_rmo_2014_r1__Q04.png]]
+![[src_rmo_2014_r1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -124,9 +124,9 @@ level: RMO
 
 > È possibile scrivere i numeri $17, 18, 19, \ldots, 32$ in una griglia di quadrati unitari $4 \times 4$, con un numero in ogni quadrato, in modo che il prodotto dei numeri in ciascuna sottogriglia $2 \times 2$ $AMRG$, $GRND$, $MBHR$ e $RHCN$ sia divisibile da $16$?
 
-![[src_rmo_2014_r1__Q04.png]]
+![[src_rmo_2014_r1__q04.png]]
 
-[[src_rmo_2014_r1__Q04]]
+[[Quesiti/src_rmo_2014_r1#q04|src_rmo_2014_r1__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo centro orto. Per ogni punto $P$ sul circoncircolo del triangolo $ABC$, $Q$ deve essere il punto di intersezione della linea $BH$ con la linea $AP$. Indicare che sul circoncircolo di $ABC$ vi è un punto unico $X$ tale che per ogni punto $P \neq A, B$ il circoncircolo di $HQP$ passi attraverso $X$.
 
-[[src_rmo_2014_r1__Q05]]
+[[Quesiti/src_rmo_2014_r1#q05|src_rmo_2014_r1__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: RMO
 
 > $x_1, x_2, \ldots, x_{2014}$ siano numeri reali positivi come $\sum_{j=1}^{2014} x_j = 1$. Determinare con prova la costante più piccola $K$ in modo tale che $$K \sum_{j=1}^{2014} \frac{x_j^2}{1 - x_j} \ge 1.$$
 
-[[src_rmo_2014_r1__Q06]]
+[[Quesiti/src_rmo_2014_r1#q06|src_rmo_2014_r1__Q06]]

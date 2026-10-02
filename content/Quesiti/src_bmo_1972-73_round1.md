@@ -41,7 +41,7 @@ level: BMO Round 1
 > 
 > (ii) Esprimere un vero teorema sulle ellisse o se vi piace su conico in generale di cui (i) è un caso particolare.
 
-[[src_bmo_1972-73_round1__Q01]]
+[[Quesiti/src_bmo_1972-73_round1#q01|src_bmo_1972-73_round1__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: BMO Round 1
 > 
 > Prove che esiste un triangolo di superficie $\le \frac{1}{8}$ la cui verticale sono tre dei punti.
 
-[[src_bmo_1972-73_round1__Q02]]
+[[Quesiti/src_bmo_1972-73_round1#q02|src_bmo_1972-73_round1__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: BMO Round 1
 > 
 > [Si possono assumere formule triangolari sferiche come $\cos a = \cos b \cos c + \sin b \sin c \cos\alpha$, $\sin a \cos\beta = \cos b \sin c - \sin b \cos c \cos\alpha$. In un triangolo sferico i lati $a, b, c$ sono archi di grandi cerchi e sono misurati dagli angoli che essi sottendono al centro della sfera.]
 
-[[src_bmo_1972-73_round1__Q03]]
+[[Quesiti/src_bmo_1972-73_round1#q03|src_bmo_1972-73_round1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: BMO Round 1
 > 
 > Obviously $n$ cannot be any positive integer. The smallest $n$ is $6$, the next smallest is $10$ and the next $13$. Determine conditions for possible $n$.
 
-![[src_bmo_1972-73_round1__Q04.png]]
+![[src_bmo_1972-73_round1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -136,9 +136,9 @@ level: BMO Round 1
 > 
 > Ovviamente $n$ non può essere un intero positivo. Il più piccolo $n$ è $6$, il successivo è $10$ e il successivo $13$. Determinare le condizioni per un possibile $n$.
 
-![[src_bmo_1972-73_round1__Q04.png]]
+![[src_bmo_1972-73_round1__q04.png]]
 
-[[src_bmo_1972-73_round1__Q04]]
+[[Quesiti/src_bmo_1972-73_round1#q04|src_bmo_1972-73_round1__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: BMO Round 1
 > 
 > Date una prova adeguatamente ampliata e motivata che vi sia un insieme infinito di interi positivi della forma $2^k - 3$ con proprietà $Q$.
 
-[[src_bmo_1972-73_round1__Q05]]
+[[Quesiti/src_bmo_1972-73_round1#q05|src_bmo_1972-73_round1__Q05]]
 
 
 
@@ -208,7 +208,7 @@ level: BMO Round 1
 > 
 > Trova il rapporto tra il numero di ragazzi e ragazze in classe.
 
-[[src_bmo_1972-73_round1__Q06]]
+[[Quesiti/src_bmo_1972-73_round1#q06|src_bmo_1972-73_round1__Q06]]
 
 
 
@@ -242,7 +242,7 @@ level: BMO Round 1
 > 
 > N.B. All'età $100$ tutti i draconiani vengono giustiziati.
 
-[[src_bmo_1972-73_round1__Q07]]
+[[Quesiti/src_bmo_1972-73_round1#q07|src_bmo_1972-73_round1__Q07]]
 
 
 
@@ -276,7 +276,7 @@ level: BMO Round 1
 > 
 > (ii) Trovare le condizioni su $a, b, c, d$ in modo che $T^n = I$ ma $T^2 \ne I$.
 
-[[src_bmo_1972-73_round1__Q08]]
+[[Quesiti/src_bmo_1972-73_round1#q08|src_bmo_1972-73_round1__Q08]]
 
 
 
@@ -307,7 +307,7 @@ level: BMO Round 1
 > 
 > Indicare che le linee $L_r = 0$, $r = 1, 2, 3$ sono simultanee e trovare le coordinate della loro concordanza.
 
-[[src_bmo_1972-73_round1__Q09]]
+[[Quesiti/src_bmo_1972-73_round1#q09|src_bmo_1972-73_round1__Q09]]
 
 
 
@@ -338,7 +338,7 @@ level: BMO Round 1
 > 
 > Non c'è bisogno di stampare in ordine ascendente o di evitare ripetizioni.
 
-[[src_bmo_1972-73_round1__Q10]]
+[[Quesiti/src_bmo_1972-73_round1#q10|src_bmo_1972-73_round1__Q10]]
 
 
 
@@ -386,4 +386,4 @@ level: BMO Round 1
 > 
 > [Il momento di inerzia di un cilindro uniforme attorno al suo asse è $\frac{1}{2}\,(\text{mass})(\text{radius})^2$.]
 
-[[src_bmo_1972-73_round1__Q11]]
+[[Quesiti/src_bmo_1972-73_round1#q11|src_bmo_1972-73_round1__Q11]]

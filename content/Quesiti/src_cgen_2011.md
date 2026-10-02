@@ -25,7 +25,7 @@ level: Concours Général
 > 
 > Which values of $a$ are admissible (i.e. for which widths $a$ does the bar fit in this way)?
 
-![[src_cgen_2011__Q01.png]]
+![[src_cgen_2011__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -47,9 +47,9 @@ level: Concours Général
 > 
 > Quali valori di $a$ sono ammissibili (ad es. per quali larghezze $a$ la barra si adatta in questo modo)?
 
-![[src_cgen_2011__Q01.png]]
+![[src_cgen_2011__q01.png]]
 
-[[src_cgen_2011__Q01]]
+[[Quesiti/src_cgen_2011#q01|src_cgen_2011__Q01]]
 
 
 
@@ -104,7 +104,7 @@ level: Concours Général
 > 
 > **2. Con il cambio.** Il commerciante al quale il nostro acquirente va a fare acquisti ha anche una borsa, che gli consente di dare il cambio. Fissamo gli integri $n$ e $p$. Chiamiamo *capacità comune* il numero intero più grande $M$ in modo che si possa pagare (cioè effettuare l'operazione) ogni importo intero da $1$ a $M$. Come si possono scegliere i portafogli $(a_1, \ldots, a_n)$ dell'acquirente e $(v_1, \ldots, v_p)$ del venditore, in modo da offrire la massima capacità comune possibile?
 
-[[src_cgen_2011__Q02]]
+[[Quesiti/src_cgen_2011#q02|src_cgen_2011__Q02]]
 
 
 
@@ -187,4 +187,4 @@ level: Concours Général
 > 
 > **e.** La stessa domanda con $n = 7$ e poi $n = 9$.
 
-[[src_cgen_2011__Q03]]
+[[Quesiti/src_cgen_2011#q03|src_cgen_2011__Q03]]

@@ -45,7 +45,7 @@ level: OBM Nível 2
 > 
 > b) Quante tabelle diverse esistono in totale?
 
-[[src_obm_2003_n2_f3__Q01]]
+[[Quesiti/src_obm_2003_n2_f3#q01|src_obm_2003_n2_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 
 > Determinare il primo positivo più piccolo che divide $x^2 + 5x + 23$ per un intero $x$.
 
-[[src_obm_2003_n2_f3__Q02]]
+[[Quesiti/src_obm_2003_n2_f3#q02|src_obm_2003_n2_f3__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: OBM Nível 2
 > 
 > Prove che $BX = CX$ se e solo se $PQ$ ha un diametro di $S$.
 
-[[src_obm_2003_n2_f3__Q03]]
+[[Quesiti/src_obm_2003_n2_f3#q03|src_obm_2003_n2_f3__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: OBM Nível 2
 
 > Prova che $x^2 + 4y^2 - 4xy + 2x - 4y + 2 > 0$ per tutti i numeri reali $x$ e $y$.
 
-[[src_obm_2003_n2_f3__Q04]]
+[[Quesiti/src_obm_2003_n2_f3#q04|src_obm_2003_n2_f3__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 2
 
 > Data una cerchia $K$ e un punto interno fisso $A$ distinto dal centro, determinare i punti $B$, $C$ e $D$ su $K$ in modo tale che l'area del quadrilaterale $ABCD$ sia il più ampia possibile.
 
-[[src_obm_2003_n2_f3__Q05]]
+[[Quesiti/src_obm_2003_n2_f3#q05|src_obm_2003_n2_f3__Q05]]
 
 
 
@@ -192,4 +192,4 @@ level: OBM Nível 2
 > 
 > Provare che è possibile scegliere l'ordine in cui le città vengono visitate in modo che il turista cambie il mezzo di trasporto al massimo una volta.
 
-[[src_obm_2003_n2_f3__Q06]]
+[[Quesiti/src_obm_2003_n2_f3#q06|src_obm_2003_n2_f3__Q06]]

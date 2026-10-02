@@ -33,7 +33,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 
 > Giovedì 1 gennaio 2015, Anna compra un libro e uno scaffale. Per i prossimi due anni, comprò un libro ogni giorno e uno scaffale ogni giovedì, quindi comprò un scaffale il 15 gennaio 2015. In quanti giorni del periodo Giovedì 1° gennaio 2015 fino (e compreso) sabato 31 dicembre 2016 è possibile per Anna mettere tutti i suoi libri su tutti i suoi scaffali, in modo che ci sia un numero uguale di libri su ogni scaffale?
 
-[[src_bmo1_2016__Q01]]
+[[Quesiti/src_bmo1_2016#q01|src_bmo1_2016__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 
 > Che $ABCD$ sia un quadrilaterale ciclico e che le linee $CD$ e $BA$ si incontrino a $E$. La linea attraverso $D$ che è tangente al cerchio $ADE$ incontra la linea $CB$ a $F$. Provare che il triangolo $CDF$ è uguale.
 
-[[src_bmo1_2016__Q02]]
+[[Quesiti/src_bmo1_2016#q02|src_bmo1_2016__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 
 > Supponiamo che una sequenza $t_0, t_1, t_2, \ldots$ sia definita con una formula $t_n = An^2 + Bn + C$ per tutti gli integri $n \ge 0$. Qui $A$, $B$ e $C$ sono costanti reali con $A \neq 0$. Determinare i valori di $A$, $B$ e $C$ che danno il maggior numero possibile di termini successivi della sequenza che sono anche termini successivi della sequenza di Fibonacci. La sequenza di Fibonacci è definita da $F_0 = 0$, $F_1 = 1$ e $F_m = F_{m-1} + F_{m-2}$ per $m \ge 2$.
 
-[[src_bmo1_2016__Q03]]
+[[Quesiti/src_bmo1_2016#q03|src_bmo1_2016__Q03]]
 
 
 
@@ -126,7 +126,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 > 
 > Qual è il numero massimo di mosse che James può fare?
 
-[[src_bmo1_2016__Q04]]
+[[Quesiti/src_bmo1_2016#q04|src_bmo1_2016__Q04]]
 
 
 
@@ -153,7 +153,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 
 > Il $ABC$ è un triangolo e $D$, $E$ e $F$ sono i piedi delle perpendicolari da $A$, $B$ e $C$ rispettivamente a $BC$, $CA$ e $AB$. I piedi delle perpendicolari da $D$ a $BA$, $BE$, $CF$ e $CA$ siano rispettivamente $P$, $Q$, $R$ e $S$. Provare che $P$, $Q$, $R$ e $S$ sono collineari.
 
-[[src_bmo1_2016__Q05]]
+[[Quesiti/src_bmo1_2016#q05|src_bmo1_2016__Q05]]
 
 
 
@@ -180,4 +180,4 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 
 > Un intero positivo è chiamato $charming$ se è uguale a 2 o è di forma $3^i 5^j$ dove $i$ e $j$ sono interi non negativi. Prove che ogni intero positivo può essere scritto come la somma di diversi numeri interi incantevoli.
 
-[[src_bmo1_2016__Q06]]
+[[Quesiti/src_bmo1_2016#q06|src_bmo1_2016__Q06]]

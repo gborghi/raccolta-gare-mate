@@ -37,7 +37,7 @@ level: IMO
 
 > Chords $AB$ and $CD$ of a circle intersect at a point $E$ inside the circle. Let $M$ be an interior point of the segment $EB$. The tangent line at $E$ to the circle through $D$, $E$, and $M$ intersects the lines $BC$ and $AC$ at $F$ and $G$, respectively. If $$\frac{AM}{AB} = t,$$ find $$\frac{EG}{EF}$$ in terms of $t$.
 
-[[src_imho_1990__Q01]]
+[[Quesiti/src_imho_1990#q01|src_imho_1990__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: IMO
 
 > Let $n \ge 3$ and consider a set $E$ of $2n - 1$ distinct points on a circle. Suppose that exactly $k$ of these points are to be colored black. Such a coloring is ``good' if there is at least one pair of black points such that the interior of one of the arcs between them contains exactly $n$ points from $E$. Find the smallest value of $k$ so that every such coloring of $k$ points of $E$ is good.
 
-[[src_imho_1990__Q02]]
+[[Quesiti/src_imho_1990#q02|src_imho_1990__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: IMO
 
 > Determine all integers $n > 1$ such that $$\frac{2^n + 1}{n^2}$$ is an integer.
 
-[[src_imho_1990__Q03]]
+[[Quesiti/src_imho_1990#q03|src_imho_1990__Q03]]
 
 
 
@@ -122,7 +122,7 @@ The following table shows the results of the evaluation:
 
 > Let$\mathbb{Q}^+$be the set of positive rational numbers. Construct a function $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ such that $$f(x f(y)) = \frac{f(x)}{y}$$ for all $x$, $y$ in $\mathbb{Q}^+$.
 
-[[src_imho_1990__Q04]]
+[[Quesiti/src_imho_1990#q04|src_imho_1990__Q04]]
 
 
 
@@ -158,7 +158,7 @@ Two player integer sequence game; determine winning strategies
 
 > Given an initial integer $n_0 > 1$, two players $\mathcal{A}$ and $\mathcal{B}$ choose integers $n_1$, $n_2$, $n_3$, $\ldots$ alternately according to the following rules: Knowing $n_{2k}$, $\mathcal{A}$ chooses any integer $n_{2k+1}$ such that $$n_{2k} \le n_{2k+1} \le n_{2k}^2.$$ Knowing $n_{2k+1}$, $\mathcal{B}$ chooses any integer $n_{2k+2}$ such that $$\frac{n_{2k+1}}{n_{2k+2}}$$ is a prime raised to a positive integer power. Player $\mathcal{A}$ wins the game by choosing the number 1990; player $\mathcal{B}$ wins by choosing the number 1. For which $n_0$ does: (a) $\mathcal{A}$ have a winning strategy? (b) $\mathcal{B}$ have a winning strategy? (c) Neither player has a winning strategy?
 
-[[src_imho_1990__Q05]]
+[[Quesiti/src_imho_1990#q05|src_imho_1990__Q05]]
 
 
 
@@ -187,4 +187,4 @@ Convex 1990-gon with all angles equal and sides 1^2,2^2,...,1990^2
 
 > Prove that there exists a convex 1990-gon with the following two properties: (a) All angles are equal. (b) The lengths of the 1990 sides are the numbers $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in some order.
 
-[[src_imho_1990__Q06]]
+[[Quesiti/src_imho_1990#q06|src_imho_1990__Q06]]

@@ -67,7 +67,7 @@ level: Concours Général
 > 
 > (Nota: la dichiarazione stampata utilizza diverse etichette di punti/cerchi che sono parzialmente illeggibili nella scansione sorgente; vedi avvertenze.)
 
-[[src_cgen_2010__Q01]]
+[[Quesiti/src_cgen_2010#q01|src_cgen_2010__Q01]]
 
 
 
@@ -140,7 +140,7 @@ level: Concours Général
 > 
 > (Nota: la formulazione precisa delle due condizioni è parzialmente illeggibile nella scansione sorgente; vedere gli avvertimenti.)
 
-[[src_cgen_2010__Q02]]
+[[Quesiti/src_cgen_2010#q02|src_cgen_2010__Q02]]
 
 
 
@@ -253,4 +253,4 @@ level: Concours Général
 > 
 > e. Quale scenario ti sembra più pertinente?
 
-[[src_cgen_2010__Q03]]
+[[Quesiti/src_cgen_2010#q03|src_cgen_2010__Q03]]

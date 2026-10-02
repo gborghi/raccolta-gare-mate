@@ -35,7 +35,7 @@ level: OBM Nível 2
 
 > Nella seguente moltiplicazione, $a$, $b$ e $c$ sono numeri: $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$ Trova $a + b + c$.
 
-[[src_obm_2004_n2_f2__Q01]]
+[[Quesiti/src_obm_2004_n2_f2#q01|src_obm_2004_n2_f2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 2
 
 > In quanti modi possiamo ombrare quattro celle di una griglia $4 \times 4$ in modo che ogni riga e ogni colonna contengano esattamente una cellula ombrata?
 
-[[src_obm_2004_n2_f2__Q02]]
+[[Quesiti/src_obm_2004_n2_f2#q02|src_obm_2004_n2_f2__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível 2
 
 > Qual è la somma delle cifre del numero $\sqrt{2004 \times 2002 \times 1998 \times 1996 + 36}$?
 
-[[src_obm_2004_n2_f2__Q03]]
+[[Quesiti/src_obm_2004_n2_f2#q03|src_obm_2004_n2_f2__Q03]]
 
 
 
@@ -104,7 +104,7 @@ level: OBM Nível 2
 > 
 > Find $x$ such that the area of the polygon equals the area of triangle $ABC$.
 
-![[src_obm_2004_n2_f2__Q04.png]]
+![[src_obm_2004_n2_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -122,9 +122,9 @@ level: OBM Nível 2
 > 
 > Trova $x$ tale che l'area del poligono sia uguale all'area del triangolo $ABC$.
 
-![[src_obm_2004_n2_f2__Q04.png]]
+![[src_obm_2004_n2_f2__q04.png]]
 
-[[src_obm_2004_n2_f2__Q04]]
+[[Quesiti/src_obm_2004_n2_f2#q04|src_obm_2004_n2_f2__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: OBM Nível 2
 
 > Un poligono con 20 lati si chiama icosagono. Collegando tre vertici di un icosagono regolare otteniamo triangoli. Quanti di questi triangoli sono triangoli rettangolari?
 
-[[src_obm_2004_n2_f2__Q05]]
+[[Quesiti/src_obm_2004_n2_f2#q05|src_obm_2004_n2_f2__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: OBM Nível 2
 > 
 > b) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ in due gruppi $C$ e $D$ in modo tale che la somma degli elementi di $C$ sia uguale alla somma degli elementi di $D$? Giustifica la tua risposta.
 
-[[src_obm_2004_n2_f2__Q06]]
+[[Quesiti/src_obm_2004_n2_f2#q06|src_obm_2004_n2_f2__Q06]]
 
 
 
@@ -226,7 +226,7 @@ level: OBM Nível 2
 > 
 > Pedro preme i tasti a turno nell'ordine $A, B, A, B, \ldots$ per un totale di 1000 tastiere. Dopo queste 1000 operazioni, il display ha mostrato il numero $2004$. Quale numero aveva Pedro all'inizio?
 
-[[src_obm_2004_n2_f2__Q07]]
+[[Quesiti/src_obm_2004_n2_f2#q07|src_obm_2004_n2_f2__Q07]]
 
 
 
@@ -266,7 +266,7 @@ level: OBM Nível 2
 > 
 > (a) Trovare la lunghezza del segmento $AB'$. b) Trova la lunghezza del lato $AD$.
 
-[[src_obm_2004_n2_f2__Q08]]
+[[Quesiti/src_obm_2004_n2_f2#q08|src_obm_2004_n2_f2__Q08]]
 
 
 
@@ -302,4 +302,4 @@ level: OBM Nível 2
 > 
 > (a) Qual è il numero legale più piccolo di $2307$? (b) Quanti numeri legali di 4 cifre ci sono?
 
-[[src_obm_2004_n2_f2__Q09]]
+[[Quesiti/src_obm_2004_n2_f2#q09|src_obm_2004_n2_f2__Q09]]

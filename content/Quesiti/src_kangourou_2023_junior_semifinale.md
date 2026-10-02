@@ -37,7 +37,7 @@ level: kangourou
 
 > (Points 2) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the number of hundreds and that of units are exchanged between them, while that of tens is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
 
-[[src_kangourou_2023_junior_semifinale__Q01]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q01|src_kangourou_2023_junior_semifinale__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: kangourou
 
 > (Points 3) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π  3)/4 C) 1  π/4 D) (3π/4)  1 E) (4  π)/2
 
-[[src_kangourou_2023_junior_semifinale__Q02]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q02|src_kangourou_2023_junior_semifinale__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 
 > (Points 3) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
 
-[[src_kangourou_2023_junior_semifinale__Q03]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q03|src_kangourou_2023_junior_semifinale__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: kangourou
 
 > The code of a safe deposit box is a four digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With only this information, how many attempts will it take, at most, to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
 
-[[src_kangourou_2023_junior_semifinale__Q04]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q04|src_kangourou_2023_junior_semifinale__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: kangourou
 
 > (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters are different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
 
-[[src_kangourou_2023_junior_semifinale__Q05]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q05|src_kangourou_2023_junior_semifinale__Q05]]
 
 
 
@@ -190,7 +190,7 @@ level: kangourou
 
 > The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the figures for this product? A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility.
 
-[[src_kangourou_2023_junior_semifinale__Q06]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q06|src_kangourou_2023_junior_semifinale__Q06]]
 
 
 
@@ -220,7 +220,7 @@ level: kangourou
 
 > (Points 5) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle on side 3. What is the largest number of parts in which the three spheres can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            12) 12
 
-[[src_kangourou_2023_junior_semifinale__Q07]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q07|src_kangourou_2023_junior_semifinale__Q07]]
 
 
 
@@ -249,7 +249,7 @@ level: kangourou
 
 > (Points 5) It is known that the three numbers m, n and (8m × 102m) / (5  m  n × 203m) are all integers and not zero. Which of the following statements is true? A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
 
-[[src_kangourou_2023_junior_semifinale__Q08]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q08|src_kangourou_2023_junior_semifinale__Q08]]
 
 
 
@@ -293,7 +293,7 @@ Where lies live.
 > 
 > Open-ended questions
 
-[[src_kangourou_2023_junior_semifinale__Q09]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q09|src_kangourou_2023_junior_semifinale__Q09]]
 
 
 
@@ -324,7 +324,7 @@ Where lies live.
 
 > Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
 
-[[src_kangourou_2023_junior_semifinale__Q10]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q10|src_kangourou_2023_junior_semifinale__Q10]]
 
 
 
@@ -394,7 +394,7 @@ Where lies live.
 
 > In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) must be inserted so that the letters A and B are not in adjacent sectors. How many different ways can integration be carried out?
 
-[[src_kangourou_2023_junior_semifinale__Q11]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q11|src_kangourou_2023_junior_semifinale__Q11]]
 
 
 
@@ -422,7 +422,7 @@ Find n after random operations with result 78*
 
 > Gaia plays like this. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
 
-[[src_kangourou_2023_junior_semifinale__Q12]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q12|src_kangourou_2023_junior_semifinale__Q12]]
 
 
 
@@ -452,7 +452,7 @@ Find n after random operations with result 78*
 
 > (Points 6) The number 7 2 3 1 1 2 3 7 2 1 3 7 2 1 3 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
 
-[[src_kangourou_2023_junior_semifinale__Q13]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q13|src_kangourou_2023_junior_semifinale__Q13]]
 
 
 
@@ -479,7 +479,7 @@ Find n after random operations with result 78*
 
 > (Points 6) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect square?
 
-[[src_kangourou_2023_junior_semifinale__Q14]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q14|src_kangourou_2023_junior_semifinale__Q14]]
 
 
 
@@ -508,7 +508,7 @@ Find n after random operations with result 78*
 
 > (Points 6) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B?
 
-[[src_kangourou_2023_junior_semifinale__Q15]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q15|src_kangourou_2023_junior_semifinale__Q15]]
 
 
 
@@ -537,7 +537,7 @@ Find n after random operations with result 78*
 
 > (Points 7) What is the smallest real number k such that the inequality (x2 + y2 + z2) 2 ≤ k (x4 + y4 + z4) is worth for every tern {x, y, z} of real numbers?
 
-[[src_kangourou_2023_junior_semifinale__Q16]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q16|src_kangourou_2023_junior_semifinale__Q16]]
 
 
 
@@ -566,7 +566,7 @@ Find n after random operations with result 78*
 
 > (Points 7) From the sum of integers 1 to 17, these included, two numbers can be taken so that their product matches the sum of the remaining numbers and there is only one way to do so. How much is that product worth?
 
-[[src_kangourou_2023_junior_semifinale__Q17]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q17|src_kangourou_2023_junior_semifinale__Q17]]
 
 
 
@@ -605,4 +605,4 @@ Find n after random operations with result 78*
 
 > The angles of a square are moved with circular arcs, all of the same radius, as shown in the figure; the straight side of the edge of the new region is as long as the curved side. The ratio of the perimeter of the new figure to the perimeter of the original square is p/100. What is the nearest integer to p? 1 5 2 3 4
 
-[[src_kangourou_2023_junior_semifinale__Q18]]
+[[Quesiti/src_kangourou_2023_junior_semifinale#q18|src_kangourou_2023_junior_semifinale__Q18]]

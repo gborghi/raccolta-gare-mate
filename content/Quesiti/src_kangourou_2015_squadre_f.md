@@ -36,7 +36,7 @@ level: squadre
 > The percentage A number is 25% (compared to itself) exceeded by a number B. By what percentage does number B (compared to itself) exceed number A?
 
 **Answer:** 20
-[[src_kangourou_2015_squadre_f__Q01]]
+[[Quesiti/src_kangourou_2015_squadre_f#q01|src_kangourou_2015_squadre_f__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 > Five odd digits What are the multiples (positive integers) of 9 whose writing consists of five odd digits of which at least four are all different from each other?
 
 **Answer:** 240
-[[src_kangourou_2015_squadre_f__Q02]]
+[[Quesiti/src_kangourou_2015_squadre_f#q02|src_kangourou_2015_squadre_f__Q02]]
 
 
 
@@ -149,7 +149,7 @@ level: squadre
 > Inside a square, look at the figure. ABCD is a square in which the quarter of circumference with center in D passing through A and C and the quarter of circumference with center in C passing through B and D are plotted. The two quarters of the circumference intersect in Q. What is the measurement in degrees of the AQB angle?
 
 **Answer:** 150
-[[src_kangourou_2015_squadre_f__Q03]]
+[[Quesiti/src_kangourou_2015_squadre_f#q03|src_kangourou_2015_squadre_f__Q03]]
 
 
 
@@ -180,7 +180,7 @@ level: squadre
 > Young people and adults The average age of a group of "young" friends is 25 years; that of a group of "adult" friends is 45 years. Each of the two groups is made up of fewer than 20 people. If the two groups meet, the average age is 36. How many members of the "adult" group?
 
 **Answer:** 11
-[[src_kangourou_2015_squadre_f__Q04]]
+[[Quesiti/src_kangourou_2015_squadre_f#q04|src_kangourou_2015_squadre_f__Q04]]
 
 
 
@@ -213,7 +213,7 @@ level: squadre
 > A lucky number Some believe that 17 brings good luck. So let's say that a positive integer is lucky if the sum of its digits is divisible by 17 and, when you add 1 to it, the sum of the digits of the new number you get is still divisible by 17. What's the smallest lucky number?
 
 **Answer:** 8899
-[[src_kangourou_2015_squadre_f__Q05]]
+[[Quesiti/src_kangourou_2015_squadre_f#q05|src_kangourou_2015_squadre_f__Q05]]
 
 
 
@@ -244,7 +244,7 @@ level: squadre
 > Remains and Divisions What's the smallest positive integer that divided by 10 gives a remainder of 9, divided by 9 gives a remainder of 8, divided by 8 gives a remainder of 7 and so on until "divided by 2 gives a remainder of 1"?
 
 **Answer:** 2519
-[[src_kangourou_2015_squadre_f__Q06]]
+[[Quesiti/src_kangourou_2015_squadre_f#q06|src_kangourou_2015_squadre_f__Q06]]
 
 
 
@@ -289,7 +289,7 @@ level: squadre
 > A D B C Q ?
 
 **Answer:** 29
-[[src_kangourou_2015_squadre_f__Q07]]
+[[Quesiti/src_kangourou_2015_squadre_f#q07|src_kangourou_2015_squadre_f__Q07]]
 
 
 
@@ -323,7 +323,7 @@ level: squadre
 > Daniela and prime numbers Daniela chooses 20 prime integers to her liking, all different from each other. It then multiplies them by two to two in every possible way (except the order: for example, product 3 × 5 and product 5 × 3 correspond in one way; it never multiplies a number by itself). Finally, it adds the products thus obtained to two by two in every possible way. What's the maximum number of odd sums you could get?
 
 **Answer:** 3249
-[[src_kangourou_2015_squadre_f__Q08]]
+[[Quesiti/src_kangourou_2015_squadre_f#q08|src_kangourou_2015_squadre_f__Q08]]
 
 
 
@@ -377,7 +377,7 @@ level: squadre
 > Three colors Each segment of the figure should be painted red, green or blue so that each triangle has a red, green or blue side. How many different ways can this be done?
 
 **Answer:** 96
-[[src_kangourou_2015_squadre_f__Q09]]
+[[Quesiti/src_kangourou_2015_squadre_f#q09|src_kangourou_2015_squadre_f__Q09]]
 
 
 
@@ -410,7 +410,7 @@ level: squadre
 > A strange class A strange class is made up of six pairs of twins. The 12 students will be divided into three teams of four students each, who will compete in a competition, so that no team will have either a student or a twin. How many different ways can the three teams be composed?
 
 **Answer:** 960
-[[src_kangourou_2015_squadre_f__Q10]]
+[[Quesiti/src_kangourou_2015_squadre_f#q10|src_kangourou_2015_squadre_f__Q10]]
 
 
 
@@ -444,7 +444,7 @@ level: squadre
 > Cristina's numbers From the numbers 1 to 9, Cristina chooses four of them all different from each other. He then groups them into pairs and orders the two pairs thus obtained, so as to form two two-digit integers from which he calculates the product. After carrying out this operation in all possible ways, it is noticed that the difference between the highest and lowest of the products obtained is exactly 1000. Write in increasing order the four digits chosen by Cristina.
 
 **Answer:** 1234
-[[src_kangourou_2015_squadre_f__Q11]]
+[[Quesiti/src_kangourou_2015_squadre_f#q11|src_kangourou_2015_squadre_f__Q11]]
 
 
 
@@ -477,7 +477,7 @@ level: squadre
 > Franco likes to ride a bicycle, even if he has to travel long distances. Starting at a given moment and cycling at a speed of 20 km/h, you would arrive at an appointment with an hour of delay; leaving at the same moment and cycling at a speed of 30 km/h, you would arrive an hour early. How many miles an hour does he have to cycle if he wants to get there on time?
 
 **Answer:** 24
-[[src_kangourou_2015_squadre_f__Q12]]
+[[Quesiti/src_kangourou_2015_squadre_f#q12|src_kangourou_2015_squadre_f__Q12]]
 
 
 
@@ -509,7 +509,7 @@ level: squadre
 > The cube In a cube, 27 points are selected: all vertices, the middle points of each vertex, the center points of each face, and the center point of the cube. How many different sets of aligned points can be found in this set of 27 points?
 
 **Answer:** 49
-[[src_kangourou_2015_squadre_f__Q13]]
+[[Quesiti/src_kangourou_2015_squadre_f#q13|src_kangourou_2015_squadre_f__Q13]]
 
 
 
@@ -541,7 +541,7 @@ level: squadre
 > ,2015-balanced numbers A positive integer of 7 digits is called 2015-balanced if the product of its first four digits is 20 and the product of its last four digits is 15. How many 2015 balanced numbers are there?
 
 **Answer:** 72
-[[src_kangourou_2015_squadre_f__Q14]]
+[[Quesiti/src_kangourou_2015_squadre_f#q14|src_kangourou_2015_squadre_f__Q14]]
 
 
 
@@ -582,4 +582,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 0
-[[src_kangourou_2015_squadre_f__Q15]]
+[[Quesiti/src_kangourou_2015_squadre_f#q15|src_kangourou_2015_squadre_f__Q15]]

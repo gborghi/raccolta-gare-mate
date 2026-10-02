@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a unit square. Draw a quadrant of a circle with $A$ as centre and $B$, $D$ as end points of the arc. Similarly, draw a quadrant of a circle with $B$ as centre and $A$, $C$ as end points of the arc. Inscribe a circle $\Gamma$ touching the arc $AC$ internally, the arc $BD$ internally and also touching the side $AB$. Find the radius of the circle $\Gamma$.
 
-![[src_rmo_2012_r2__Q01.png]]
+![[src_rmo_2012_r2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi l'arco $AC$ internamente, l'arco $BD$ internamente e anche il lato $AB$. Trova il raggio del cerchio $\Gamma$.
 
-![[src_rmo_2012_r2__Q01.png]]
+![[src_rmo_2012_r2__q01.png]]
 
-[[src_rmo_2012_r2__Q01]]
+[[Quesiti/src_rmo_2012_r2#q01|src_rmo_2012_r2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Lasciate che $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^5$, $b$ divida $c^4$ e $c$ divida $a^3$. Provare che $abc$ divide $(a + b + c)^{21}$.
 
-[[src_rmo_2012_r2__Q02]]
+[[Quesiti/src_rmo_2012_r2#q02|src_rmo_2012_r2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: RMO
 
 > Let $X = \{1, 2, 3, \ldots, 12\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7, 8\}$.
 
-[[src_rmo_2012_r2__Q04]]
+[[Quesiti/src_rmo_2012_r2#q04|src_rmo_2012_r2__Q04]]
 
 
 
@@ -104,7 +104,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $D$, $E$ be points on the segment $BC$ such that $BD = DE = EC$. Let $F$ be the mid-point of $AC$. Let $BF$ intersect $AD$ in $P$ and $AE$ in $Q$ respectively. Determine $BP/PQ$.
 
-![[src_rmo_2012_r2__Q05.png]]
+![[src_rmo_2012_r2__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -120,9 +120,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. Il $F$ deve essere il punto medio di $AC$. In $P$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare $BP/PQ$.
 
-![[src_rmo_2012_r2__Q05.png]]
+![[src_rmo_2012_r2__q05.png]]
 
-[[src_rmo_2012_r2__Q05]]
+[[Quesiti/src_rmo_2012_r2#q05|src_rmo_2012_r2__Q05]]
 
 
 
@@ -149,4 +149,4 @@ level: RMO
 
 > Indicare che per tutti i numeri reali $x, y, z$ tali che $x + y + z = -3$ e $xy + yz + zx = -3$, l'espressione $x^3 y + y^3 z + z^3 x$ è una costante.
 
-[[src_rmo_2012_r2__Q06]]
+[[Quesiti/src_rmo_2012_r2#q06|src_rmo_2012_r2__Q06]]

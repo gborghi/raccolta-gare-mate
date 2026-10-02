@@ -53,7 +53,7 @@ level: BMO Round 2
 > 
 > b) dimostrare che se $f$ è differenziabile ovunque, e trovare il $f$ più generale in questo caso.
 
-[[src_bmo_1974-75_round2__Q01]]
+[[Quesiti/src_bmo_1974-75_round2#q01|src_bmo_1974-75_round2__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: BMO Round 2
 
 > Dimostra che ogni intero positivo che non è un membro dell'insieme infinito $$3,\ 2^2 \cdot 3,\ 2^4 \cdot 3,\ \ldots,\ 2^{2k} \cdot 3,\ \ldots$$ è uguale alla somma di due o più interi positivi consecutivi.
 
-[[src_bmo_1974-75_round2__Q02]]
+[[Quesiti/src_bmo_1974-75_round2#q02|src_bmo_1974-75_round2__Q02]]
 
 
 
@@ -109,7 +109,7 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 
 > Ci sono paesi che partecipano a un concorso internazionale di matematica, con due concorrenti di ciascun paese. Il concorso si svolge in due sale, $A$ e $B$. All'inizio del concorso i concorrenti $2n$ formano una coda, in qualsiasi ordine. Il concorrente in prima fila entra nella stanza $A$. Ogni concorrente successivo va prima alla porta della stanza che il suo immediato predecessore nella coda è entrato, e guarda in. Se nella stanza ci sono già meno di $n$ persone, entra; altrimenti entra nell'altra stanza. Tutti gli ordini della coda sono uguali. Determinare con prova la probabilità che la stanza $A$ sia riempita di concorrenti $n$ prima della stanza $B$.
 
-[[src_bmo_1974-75_round2__Q03]]
+[[Quesiti/src_bmo_1974-75_round2#q03|src_bmo_1974-75_round2__Q03]]
 
 
 
@@ -124,7 +124,7 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 > 
 > Prove that such a configuration of 12 circles exists on the surface of a sphere with all the 12 circles having equal radii.
 
-![[src_bmo_1974-75_round2__Q04.png]]
+![[src_bmo_1974-75_round2__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -142,6 +142,6 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 > 
 > Prova che una tale configurazione di 12 cerchi esiste sulla superficie di una sfera con tutti i 12 cerchi con uguali raggi.
 
-![[src_bmo_1974-75_round2__Q04.png]]
+![[src_bmo_1974-75_round2__q04.png]]
 
-[[src_bmo_1974-75_round2__Q04]]
+[[Quesiti/src_bmo_1974-75_round2#q04|src_bmo_1974-75_round2__Q04]]

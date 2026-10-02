@@ -40,7 +40,7 @@ level: Coupe Animath Automne
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 15
-[[src_canimath_2020_automne__Q01]]
+[[Quesiti/src_canimath_2020_automne#q01|src_canimath_2020_automne__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[src_canimath_2020_automne__Q02]]
+[[Quesiti/src_canimath_2020_automne#q02|src_canimath_2020_automne__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: Coupe Animath Automne
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
-[[src_canimath_2020_automne__Q03]]
+[[Quesiti/src_canimath_2020_automne#q03|src_canimath_2020_automne__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: Coupe Animath Automne
 > 
 > 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
-[[src_canimath_2020_automne__Q04]]
+[[Quesiti/src_canimath_2020_automne#q04|src_canimath_2020_automne__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: Coupe Animath Automne
 
 > Il $ABCD$ deve essere un trapezoide (non auto-crosso) tale che le linee $(AB)$ e $(CD)$ siano parallele. Scriviamo $E$ per il punto di intersezione delle diagonali $[AC]$ e $[BD]$. Indicare che l'area del triangolo $ADE$ è uguale all'area del triangolo $BCE$.
 
-[[src_canimath_2020_automne__Q05]]
+[[Quesiti/src_canimath_2020_automne#q05|src_canimath_2020_automne__Q05]]
 
 
 
@@ -182,7 +182,7 @@ level: Coupe Animath Automne
 
 > Mettiamo $12$ ciottoli su una scacchiera con righe $8$ e colonne $8$. Ciascuna pietra è stata collocata su uno dei quadrati $64$ della scacchiera (con al massimo una pietra per quadrato). Mostrare che è possibile colorare in rosso le righe $4$ e le colonne $4$ in modo tale che ciascuno dei ciottoli $12$ sia su un quadrato rosso.
 
-[[src_canimath_2020_automne__Q06]]
+[[Quesiti/src_canimath_2020_automne#q06|src_canimath_2020_automne__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: Coupe Animath Automne
 
 > $k$ sia un numero intero rigorosamente positivo. Per ogni numero reale $x$, il numero $|x|$ è il valore assoluto di $x$, pari a $x$ se $x$ è positivo e $-x$ se $x$ è negativo. Trova il numero di triples $(x, y, z)$ dove $x, y, z$ sono numeri interi come $x + y + z = 0$ e $|x| + |y| + |z| = 2k$.
 
-[[src_canimath_2020_automne__Q07]]
+[[Quesiti/src_canimath_2020_automne#q07|src_canimath_2020_automne__Q07]]
 
 
 
@@ -240,7 +240,7 @@ level: Coupe Animath Automne
 > 
 > *Nota: diciamo che un insieme $A$ è incluso in un insieme $B$ se ogni elemento di $A$ è anche un elemento di $B$.*
 
-[[src_canimath_2020_automne__Q08]]
+[[Quesiti/src_canimath_2020_automne#q08|src_canimath_2020_automne__Q08]]
 
 
 
@@ -270,7 +270,7 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[src_canimath_2020_automne__Q09]]
+[[Quesiti/src_canimath_2020_automne#q09|src_canimath_2020_automne__Q09]]
 
 
 
@@ -296,7 +296,7 @@ level: Coupe Animath Automne
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
-[[src_canimath_2020_automne__Q10]]
+[[Quesiti/src_canimath_2020_automne#q10|src_canimath_2020_automne__Q10]]
 
 
 
@@ -329,7 +329,7 @@ level: Coupe Animath Automne
 > 
 > 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
-[[src_canimath_2020_automne__Q11]]
+[[Quesiti/src_canimath_2020_automne#q11|src_canimath_2020_automne__Q11]]
 
 
 
@@ -356,7 +356,7 @@ level: Coupe Animath Automne
 
 > Si collocano gli enti $9$ nelle celle di una griglia $3 \times 3$ in modo tale che la somma dei numeri di una colonna o di una riga sia sempre pari. Quali valori possono assumere il numero di cellule pari di tale configurazione?
 
-[[src_canimath_2020_automne__Q12]]
+[[Quesiti/src_canimath_2020_automne#q12|src_canimath_2020_automne__Q12]]
 
 
 
@@ -383,7 +383,7 @@ level: Coupe Animath Automne
 
 > Per ogni numero reale $x$, scriviamo $\lfloor x \rfloor$ per il numero intero più grande inferiore o uguale a $x$, quindi chiamiamo * parte frazionaria* di $x$ il numero $\langle x \rangle$ definito da $\langle x \rangle = x - \lfloor x \rfloor$. Quanti numeri reali $x$ verificano $1 \le x \le 10$ e $\langle x \rangle^2 = \langle x^2 \rangle$?
 
-[[src_canimath_2020_automne__Q13]]
+[[Quesiti/src_canimath_2020_automne#q13|src_canimath_2020_automne__Q13]]
 
 
 
@@ -410,7 +410,7 @@ level: Coupe Animath Automne
 
 > Trova i numeri interi $n$ più grandi o uguali a $2$ in modo che, scrivendo $a$ per il più piccolo divisore primo di $n$, si possa trovare un divisore positivo di $n$ scritto $d$ in modo che $n = a^3 + d^3$.
 
-[[src_canimath_2020_automne__Q14]]
+[[Quesiti/src_canimath_2020_automne#q14|src_canimath_2020_automne__Q14]]
 
 
 
@@ -437,7 +437,7 @@ level: Coupe Animath Automne
 
 > Il $ABCD$ è un parallelo della superficie $1$ e $M$ un punto appartenente al segmento $[BD]$ in modo tale che $MD = 3MB$. Scriviamo $N$ per il punto di intersezione delle linee $(AM)$ e $(CB)$. Calcolare l'area del triangolo $MND$.
 
-[[src_canimath_2020_automne__Q15]]
+[[Quesiti/src_canimath_2020_automne#q15|src_canimath_2020_automne__Q15]]
 
 
 
@@ -464,7 +464,7 @@ level: Coupe Animath Automne
 
 > Suzanne moltiplica due numeri interi la cui differenza è uguale a $5$ e Martin moltiplica due numeri interi la cui differenza è uguale a $8$. Ottieni lo stesso risultato, che scriviamo $C$. Quali sono i valori possibili di $C$?
 
-[[src_canimath_2020_automne__Q16]]
+[[Quesiti/src_canimath_2020_automne#q16|src_canimath_2020_automne__Q16]]
 
 
 
@@ -497,4 +497,4 @@ level: Coupe Animath Automne
 > 
 > - per ogni punto blu, il secondo punto più vicino è rosso; - per ogni punto rosso, il secondo punto più vicino è verde; - per ogni punto verde, il secondo punto più vicino è blu?
 
-[[src_canimath_2020_automne__Q17]]
+[[Quesiti/src_canimath_2020_automne#q17|src_canimath_2020_automne__Q17]]

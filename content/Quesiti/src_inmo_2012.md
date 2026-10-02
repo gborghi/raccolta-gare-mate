@@ -19,7 +19,7 @@ level: INMO
 
 > Let $ABCD$ be a quadrilateral inscribed in a circle. Suppose $AB = \sqrt{2 + \sqrt{2}}$ and $AB$ subtends $135^\circ$ at the centre of the circle. Find the maximum possible area of $ABCD$.
 
-![[src_inmo_2012__Q01.png]]
+![[src_inmo_2012__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
@@ -35,9 +35,9 @@ level: INMO
 
 > Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Supponiamo che $AB = \sqrt{2 + \sqrt{2}}$ e $AB$ subtendano $135^\circ$ al centro del cerchio. Trova la superficie massima possibile di $ABCD$.
 
-![[src_inmo_2012__Q01.png]]
+![[src_inmo_2012__q01.png]]
 
-[[src_inmo_2012__Q01]]
+[[Quesiti/src_inmo_2012#q01|src_inmo_2012__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: INMO
 
 > Che $\{p_1, p_2, p_3, p_4\}$ sia un sottoinsieme di $\{p_1, p_1+2, p_1+4, p_1+6, p_1+8\}$ e $\{q_1, q_2, q_3, q_4\}$ sia un sottoinsieme di $\{q_1, q_1+2, q_1+4, q_1+6, q_1+8\}$ siano due set di numeri primi come $p_4 - p_1 = 8$ e $q_4 - q_1 = 8$. Supponiamo $p_1 > 5$ e $q_1 > 5$. Provare che $30$ divide $p_1 - q_1$.
 
-[[src_inmo_2012__Q02]]
+[[Quesiti/src_inmo_2012#q02|src_inmo_2012__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: INMO
 
 > Definire una sequenza $\{f_0(x), f_1(x), f_2(x), \ldots\}$ di funzioni da $$f_0(x) = 1, \quad f_1(x) = x, \quad (f_n(x))^2 - 1 = f_{n+1}(x)f_{n-1}(x), \quad \text{for } n \ge 1.$$ Prove che ogni $f_n(x)$ è un polinomio con coefficienti interi.
 
-[[src_inmo_2012__Q03]]
+[[Quesiti/src_inmo_2012#q03|src_inmo_2012__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: INMO
 
 > Lasciate che $ABC$ sia un triangolo. Si dice che un punto interno $P$ di $ABC$ sia **buono** se si possono trovare esattamente 27 raggi che emanano da $P$ che intersecano i lati del triangolo $ABC$ in modo tale che il triangolo sia diviso da questi raggi in 27 triangoli più piccoli di superficie uguale. Determinare il numero di punti **good** per un determinato triangolo $ABC$.
 
-[[src_inmo_2012__Q04]]
+[[Quesiti/src_inmo_2012#q04|src_inmo_2012__Q04]]
 
 
 
@@ -133,7 +133,7 @@ level: INMO
 
 > Let $ABC$ be an acute-angled triangle, and let $D$, $E$, $F$ be points on $BC$, $CA$, $AB$ respectively such that $AD$ is the median, $BE$ is the internal angle bisector and $CF$ is the altitude. Suppose $\angle FDE = \angle C$, $\angle DEF = \angle A$ and $\angle EFD = \angle B$. Prove that $ABC$ is equilateral.
 
-![[src_inmo_2012__Q05.png]]
+![[src_inmo_2012__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -149,9 +149,9 @@ level: INMO
 
 > Che $ABC$ sia un triangolo a angolo acuto, e che $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$ in modo tale che $AD$ sia la media, $BE$ sia il bisettore dell'angolo interno e $CF$ sia l'altitudine. Supponiamo $\angle FDE = \angle C$, $\angle DEF = \angle A$ e $\angle EFD = \angle B$. Prove che $ABC$ è equilaterale.
 
-![[src_inmo_2012__Q05.png]]
+![[src_inmo_2012__q05.png]]
 
-[[src_inmo_2012__Q05]]
+[[Quesiti/src_inmo_2012#q05|src_inmo_2012__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: INMO
 
 > Che $f : \mathbb{Z} \to \mathbb{Z}$ sia una funzione che soddisfi $f(0) \neq 0$, $f(1) = 0$ e \begin{itemize} \item[(i)] $f(xy) + f(x)f(y) = f(x) + f(y)$; \item[(ii) $(f(x-y) - f(0))f(x)f(y) = 0$, \end{itemize} per tutti $x, y \in \mathbb{Z}$, contemporaneamente. \begin{enumerate} \item[(a)] Trova l'insieme di tutti i valori possibili della funzione $f$. \item[(b) Se $f(0) \neq 0$ e $f(2) = 0$, trovare l'insieme di tutti gli integri $n$ tale da $f(n) \neq 0$. \end{enumere}
 
-[[src_inmo_2012__Q06]]
+[[Quesiti/src_inmo_2012#q06|src_inmo_2012__Q06]]

@@ -36,7 +36,7 @@ level: squadre
 > Additives The number 56 can be obtained either as a product of 6 factors each equal to 5 or as the sum of N additives each equal to 5. How much is N?
 
 **Answer:** 3125
-[[src_kangourou_2017_squadre_a__Q01]]
+[[Quesiti/src_kangourou_2017_squadre_a#q01|src_kangourou_2017_squadre_a__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: squadre
 > When she left the house, Luisa had only one-euro coins in her purse. She went into three stores and spent half of what she had in her purse when she went in plus 50 cents. She has always paid the exact amount requested without receiving a balance and, after the three purchases, she has 23 euros left. How many coins did Luisa leave home with?
 
 **Answer:** 191
-[[src_kangourou_2017_squadre_a__Q02]]
+[[Quesiti/src_kangourou_2017_squadre_a#q02|src_kangourou_2017_squadre_a__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: squadre
 > A box without a lid has a base of 5 and 6 and a height of 7. There were 210 cubes on side one in the box. Those who touch the box are red, the others are blue. How many blue cubes share at least one face with a red one?
 
 **Answer:** 62
-[[src_kangourou_2017_squadre_a__Q03]]
+[[Quesiti/src_kangourou_2017_squadre_a#q03|src_kangourou_2017_squadre_a__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: squadre
 > Adding the numbers A positive integer n has 90 digits all of which are different from zero; each digit from 1 to 9 is present in n the same number of times. Starting with n we build two more numbers: a obtained by pressing 1 to the sequence of digits that gives n and b obtained by writing 1 after the sequence of digits that gives n. The difference b − a is divisible by 9: what is the sum of the digits of the quotient (b − a): 9?
 
 **Answer:** 360
-[[src_kangourou_2017_squadre_a__Q04]]
+[[Quesiti/src_kangourou_2017_squadre_a#q04|src_kangourou_2017_squadre_a__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: squadre
 > You only know one catheter In a right triangle the dimensions of the sides, expressed in centimeters, are all integers. One of the catheters measures 11 centimeters. How many centimeters does the perimeter measure?
 
 **Answer:** 132
-[[src_kangourou_2017_squadre_a__Q05]]
+[[Quesiti/src_kangourou_2017_squadre_a#q05|src_kangourou_2017_squadre_a__Q05]]
 
 
 
@@ -200,7 +200,7 @@ level: squadre
 > The RETI Peter replaces each letter of the expression AMO + AMO + AMO = RETI with a digit, replacing different letters with different digits, so as to obtain a correct equality. Andrew does the same thing, but Peter gets the greatest possible value for RETI and Andrew the smallest compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrew and Peter?
 
 **Answer:** 3816
-[[src_kangourou_2017_squadre_a__Q06]]
+[[Quesiti/src_kangourou_2017_squadre_a#q06|src_kangourou_2017_squadre_a__Q06]]
 
 
 
@@ -230,7 +230,7 @@ level: squadre
 > The sum In a sequence of six numbers, the first one is 4 and the last one is 47. Each number from the third is the sum of the previous two. What's the sum of all six numbers?
 
 **Answer:** 116
-[[src_kangourou_2017_squadre_a__Q07]]
+[[Quesiti/src_kangourou_2017_squadre_a#q07|src_kangourou_2017_squadre_a__Q07]]
 
 
 
@@ -260,7 +260,7 @@ Percentage of pensioners in the city
 > The bicycle Among retired people in a city 35% have a bicycle. Retired people without bicycles make up 13% of the total population of the city. What's the percentage of retirees in that city?
 
 **Answer:** 20
-[[src_kangourou_2017_squadre_a__Q08]]
+[[Quesiti/src_kangourou_2017_squadre_a#q08|src_kangourou_2017_squadre_a__Q08]]
 
 
 
@@ -292,7 +292,7 @@ Percentage of pensioners in the city
 > Let's say a number of three significant digits is growing if the digits are all different and that of the hundreds is less than that of the tens which is less than that of the units. How many numbers are growing?
 
 **Answer:** 84
-[[src_kangourou_2017_squadre_a__Q09]]
+[[Quesiti/src_kangourou_2017_squadre_a#q09|src_kangourou_2017_squadre_a__Q09]]
 
 
 
@@ -323,7 +323,7 @@ Percentage of pensioners in the city
 > How many couples? For how many pairs (unordered) of integers, different from each other, between 1 and 103, both included, does it happen that the sum of the two numbers that make up the pair is an equal number?
 
 **Answer:** 2601
-[[src_kangourou_2017_squadre_a__Q10]]
+[[Quesiti/src_kangourou_2017_squadre_a#q10|src_kangourou_2017_squadre_a__Q10]]
 
 
 
@@ -358,7 +358,7 @@ Percentage of pensioners in the city
 > Books Four schools have received a total of 144 books as gifts. In absolute terms, the difference between  the number of books received from school A and those received from school B is 4  the number of books received from school B and those received from school C is 3  the number of books received from school C and those received from school D is 2 How many books did school B and school D receive? (Read the number of books received by B further to the left).
 
 **Answer:** 3435
-[[src_kangourou_2017_squadre_a__Q11]]
+[[Quesiti/src_kangourou_2017_squadre_a#q11|src_kangourou_2017_squadre_a__Q11]]
 
 
 
@@ -465,7 +465,7 @@ Percentage of pensioners in the city
 > The two squares look at the figure. The area of the ABCD square is 23 cm2 while the area of the EFGH square is 777 cm2. How many centimeters from point A to point F?
 
 **Answer:** 20
-[[src_kangourou_2017_squadre_a__Q12]]
+[[Quesiti/src_kangourou_2017_squadre_a#q12|src_kangourou_2017_squadre_a__Q12]]
 
 
 
@@ -499,7 +499,7 @@ Percentage of pensioners in the city
 > Product In the product _ _ _  9 _ = _ 3 _ _ the first factor N is a 3-digit number, while the second factor is a 2-digit number with 9 as the number of decimal places. The result is a four-digit number that has three as the number of hundreds. How many numbers can N be the first factor?
 
 **Answer:** 5
-[[src_kangourou_2017_squadre_a__Q13]]
+[[Quesiti/src_kangourou_2017_squadre_a#q13|src_kangourou_2017_squadre_a__Q13]]
 
 
 
@@ -535,7 +535,7 @@ Percentage of pensioners in the city
 > The menu The restaurant of a hotel, open only in the evening, offers a choice of some first and some second dishes, the latter in greater quantity than the former. Last April, a couple of tourists ate dinner at the hotel every night and always wanted to order a different pair of first- and second-hand dishes. In this way all possible pairs were ordered, some even more than once but, during the first week, neither of them ordered the same dish twice. How many possible pairs of firsts and seconds can be obtained from the dishes in the menu?
 
 **Answer:** 56
-[[src_kangourou_2017_squadre_a__Q14]]
+[[Quesiti/src_kangourou_2017_squadre_a#q14|src_kangourou_2017_squadre_a__Q14]]
 
 
 
@@ -586,4 +586,4 @@ Percentage of pensioners in the city
 > Questions and developments
 
 **Answer:** 2049
-[[src_kangourou_2017_squadre_a__Q15]]
+[[Quesiti/src_kangourou_2017_squadre_a#q15|src_kangourou_2017_squadre_a__Q15]]

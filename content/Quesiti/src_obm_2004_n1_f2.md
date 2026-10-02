@@ -36,7 +36,7 @@ level: OBM Nível 1
 > Qual è la somma dei numeri $$\frac{2^2}{2} + \frac{2^2}{2^2} + \frac{2^3}{2^3} + \cdots + \frac{2^{2003}}{2^{2003}} + \frac{2^{2006}}{2^{2006}}?$$
 
 **Risposta:** 6
-[[src_obm_2004_n1_f2__Q01]]
+[[Quesiti/src_obm_2004_n1_f2#q01|src_obm_2004_n1_f2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 1
 > La massa grassa di una determinata persona corrisponde al 20% della sua massa corporea totale. Questa persona, che pesava 100 kg, ha fatto una dieta e ha perso il 40% del grasso, mantenendo gli altri indicatori uguali. Quanti chili ha pesato alla fine della dieta?
 
 **Risposta:** 92
-[[src_obm_2004_n1_f2__Q02]]
+[[Quesiti/src_obm_2004_n1_f2#q02|src_obm_2004_n1_f2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: OBM Nível 1
 > Quanti numeri a due cifre hanno una somma di una cifra uguale a un quadrato perfetto? Si noti che, ad esempio, 09 è un numero a due cifre e $853$ è un numero a tre cifre.
 
 **Risposta:** 14
-[[src_obm_2004_n1_f2__Q03]]
+[[Quesiti/src_obm_2004_n1_f2#q03|src_obm_2004_n1_f2__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 1
 
 > I numeri interi da 1 a 99 sono scritti fianco a fianco: $123456789101112\ldots9899$. Applicheremo quindi la seguente operazione: cancelleremo le cifre che appaiono in posizioni pari, ottenendo $135790112\ldots89$. Ripetendo questa operazione 4 volte in totale, quante cifre resteranno?
 
-[[src_obm_2004_n1_f2__Q04]]
+[[Quesiti/src_obm_2004_n1_f2#q04|src_obm_2004_n1_f2__Q04]]
 
 
 
@@ -133,7 +133,7 @@ level: OBM Nível 1
 
 > Using the highlighted part of a rectangular sheet of paper as a net, one can assemble a cube. If the area of the sheet is $300\,\text{cm}^2$, what is the volume of this cube, in $\text{cm}^3$?
 
-![[src_obm_2004_n1_f2__Q05.png]]
+![[src_obm_2004_n1_f2__q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -149,10 +149,10 @@ level: OBM Nível 1
 
 > Utilizzando la parte evidenziata di un foglio rettangolare di carta come rete, si può assemblare un cubo. Se la superficie del foglio è $300\,\text{cm}^2$, qual è il volume di questo cubo, in $\text{cm}^3$?
 
-![[src_obm_2004_n1_f2__Q05.png]]
+![[src_obm_2004_n1_f2__q05.png]]
 
 **Risposta:** 125
-[[src_obm_2004_n1_f2__Q05]]
+[[Quesiti/src_obm_2004_n1_f2#q05|src_obm_2004_n1_f2__Q05]]
 
 
 
@@ -165,7 +165,7 @@ level: OBM Nível 1
 
 > In the table below, write the numbers from 1 to 9 in each column so that the sum of the numbers written in the 9 rows is the same, equal to $Y$. $X$ is the sum of the numbers in each column. Find $X + Y$.
 
-![[src_obm_2004_n1_f2__Q06.png]]
+![[src_obm_2004_n1_f2__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
@@ -181,9 +181,9 @@ level: OBM Nível 1
 
 > Nella tabella seguente, scrivete i numeri da 1 a 9 in ogni colonna in modo che la somma dei numeri scritti nelle nove righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri di ciascuna colonna. Trova $X + Y$.
 
-![[src_obm_2004_n1_f2__Q06.png]]
+![[src_obm_2004_n1_f2__q06.png]]
 
-[[src_obm_2004_n1_f2__Q06]]
+[[Quesiti/src_obm_2004_n1_f2#q06|src_obm_2004_n1_f2__Q06]]
 
 
 
@@ -218,7 +218,7 @@ level: OBM Nível 1
 > 
 > (b) Tutte le carte sono poste faccia a faccia nella stessa pila e mescolate. Jade disegna le carte una per una, senza guardare quello che sta disegnando. Quante carte deve disegnare Jade per essere sicuro che tra quelle disegnate ci siano almeno due carte blu?
 
-[[src_obm_2004_n1_f2__Q07]]
+[[Quesiti/src_obm_2004_n1_f2#q07|src_obm_2004_n1_f2__Q07]]
 
 
 
@@ -235,7 +235,7 @@ level: OBM Nível 1
 > 
 > (b) By coloring other squares, we can increase the area of this figure without changing its perimeter. What is the maximum area we can achieve?
 
-![[src_obm_2004_n1_f2__Q08.png]]
+![[src_obm_2004_n1_f2__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -255,9 +255,9 @@ level: OBM Nível 1
 > 
 > b) Coloring altri quadrati, possiamo aumentare l'area di questa figura senza cambiare il suo perimetro. Qual è la superficie massima che possiamo raggiungere?
 
-![[src_obm_2004_n1_f2__Q08.png]]
+![[src_obm_2004_n1_f2__q08.png]]
 
-[[src_obm_2004_n1_f2__Q08]]
+[[Quesiti/src_obm_2004_n1_f2#q08|src_obm_2004_n1_f2__Q08]]
 
 
 
@@ -292,4 +292,4 @@ level: OBM Nível 1
 > 
 > (b) A Esmeralda è piaciuto e ha deciso di ripetere il processo su diversi fogli, a partire dal 01 nella prima riga del primo foglio. Quali sono le prime due cifre a sinistra che ha digitato sulla linea $2006^{\text{th}}$?
 
-[[src_obm_2004_n1_f2__Q09]]
+[[Quesiti/src_obm_2004_n1_f2#q09|src_obm_2004_n1_f2__Q09]]

@@ -39,7 +39,7 @@ level: squadre
 
 > The village of Retta I Mateninja live organized in various villages. For example, the Retta road consists of a single long road (absolutely straight), flanked by buildings numbered 1 to 2007. Mateninja consume a lot of paper and in fact all buildings with multiples of 12 are billboards; also many mateninja are affluent, so all buildings with multiples of 18 are luxury shops. Numeruto walks the whole village looking for the best price for square footage: How many shops do you visit in total, if you skip the luxury ones?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q01]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q01|src_cesenatico_2007_squadre_semifinale_a__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: squadre
 
 > Too many graduates The morning prode Numeruto is better off on the field than on the bench. Today there is the task of history and the first question asks the exact number of Grandin's morning diplomats from the village's founding to the present day and he has no idea what the answer is. Fortunately, he manages to intercept a coded suggestion from the beautiful Otenusa directed to his rival Sekante: It is a four-digit number, multiple of 25 which, divided by 25, gives a two-digit number that, exchanged, are the central digits of the same number (such as 54 and 2450, only that 54×25 = 2450). What's the answer?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q02]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q02|src_cesenatico_2007_squadre_semifinale_a__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: squadre
 > 
 > I'm going to pay. 2 out of 4  Team competition 2007  Semifinal A Problem tests
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q03]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q03|src_cesenatico_2007_squadre_semifinale_a__Q03]]
 
 
 
@@ -143,7 +143,7 @@ level: squadre
 
 > The strength of a frog miraculously overcame the task of history, Numeruto must now face that of theoretical magical arts! The most difficult question is what is the maximum level of life force that a frog sign matinee can develop. Numeruto is the sign of the frog and is sure that its vital force depends on its θ concentration according to the function: 252cosθ−275sinθ+298. What is the greatest life force Numeruto can develop?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q04]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q04|src_cesenatico_2007_squadre_semifinale_a__Q04]]
 
 
 
@@ -174,7 +174,7 @@ level: squadre
 
 > Code missions The village council encodes and assigns the missions to morning experts. Each mission is also assigned a numeric code which, for security reasons, is a positive palindrome integer, multiple of 3, and with an odd number of digits. How many missions can be encoded using valid 5-digit codes or less and all different?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q05]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q05|src_cesenatico_2007_squadre_semifinale_a__Q05]]
 
 
 
@@ -210,7 +210,7 @@ level: squadre
 
 > The shuriken is one of the basic weapons used by every morning. Those in the village of Retta have a variable number of points, but they're all made by the same blacksmith. To manufacture a shuriken at n > 1 points, the blacksmith takes a flat metal plate and starts by drawing two concentric circles of radius 9 mat-bu and 31 mat-bu. On the greater sign 2n equidistant points, numbered from 1 to 2n in the anti-clockwise order; from each point it leads the beam and marks a point with the same number corresponding to the intersection with the lesser circumference. It then traces the segments connecting each internal equal point with the two consecutive external odd points (the point 2n is connected to 2n −1 and to 1); finally it cuts along the resulting fracture. What is the smallest integer, greater than the area (in mat-bu2) of any shuriken?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q06]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q06|src_cesenatico_2007_squadre_semifinale_a__Q06]]
 
 
 
@@ -241,7 +241,7 @@ level: squadre
 
 > The corona, the official currency of Mauritania, has exactly the same cuts as the euro and is divided in commas as the euro is divided in cents. Of course, the cutting of comma and crown coins is exactly the same as the euro and euro cents. What is the minimum amount, expressed in commas, that you cannot pay with exactly 10 coins or banknotes without receiving any balance?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q07]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q07|src_cesenatico_2007_squadre_semifinale_a__Q07]]
 
 
 
@@ -274,7 +274,7 @@ level: squadre
 
 > The big dance [⋆] Even at the moreninja academy occasionally the weather is relaxing and tonight the big dance of the little ones is taking place. All the guests have already arrived in the room: n mateninji (the males) and n mateninje (the females) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 19 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q08]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q08|src_cesenatico_2007_squadre_semifinale_a__Q08]]
 
 
 
@@ -310,7 +310,7 @@ level: squadre
 > 
 > Team competition 2007  Semifinal A Problem texts  Pag. 3 di 4
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q09]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q09|src_cesenatico_2007_squadre_semifinale_a__Q09]]
 
 
 
@@ -345,7 +345,7 @@ level: squadre
 
 > The kunai is one of the basic weapons used by all mateninja; its blade has a particular shape: it is a quadrilateral made so that its smaller diagonal divides it into two isosceles triangles, each with the diagonal as its base. We call A, B, C, D the tips of the blade of a kunai, with A and C the extremes of the minor diagonal; then the traditional measures of the village blacksmith of the Retta predict that ABC = 30°, CDA = 90° and that the AC segment is 26 mat-bu long. Numeritus' kunai broke in combat along the straight line passing for A and perpendicular to AD. What is the surface area of the largest blade fragment measured in mat-bu2?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q10]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q10|src_cesenatico_2007_squadre_semifinale_a__Q10]]
 
 
 
@@ -375,7 +375,7 @@ level: squadre
 
 > Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of an illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of number 21038. How long is it?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q11]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q11|src_cesenatico_2007_squadre_semifinale_a__Q11]]
 
 
 
@@ -405,7 +405,7 @@ level: squadre
 
 > The brilliant Sekante has only one dream: when he becomes Grandin he will build himself a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 57 mat-ken and another side of 75 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q12]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q12|src_cesenatico_2007_squadre_semifinale_a__Q12]]
 
 
 
@@ -437,7 +437,7 @@ level: squadre
 
 > Ruined parchment The mathematical formulas of the mateninja are written on long rectangular strips of zero-thick parchment (they are magical too!), which are rolled repeatedly around a ninja pencil. Ninja pencils are similar to ours: they have the shape of a prism whose base is a regular hexagon on the 2 mat-shaku side. The slender Numeritus, in handling his new sword, mistakenly strikes the prism on which the precious formula of Itˆo is preserved, cutting it perfectly in two along a plane passing through its axis. As a result, the scroll with the formula is sliced into 209 square sheets. How many mat-shaku2 measured the surface of the scroll?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q13]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q13|src_cesenatico_2007_squadre_semifinale_a__Q13]]
 
 
 
@@ -474,7 +474,7 @@ level: squadre
 
 > A task too difficult Sekante now thinks only of his future reign and is so taken by the idea of saving money, that he started doing other students' homework in exchange for money. Master Isoshilo discovered it and to put it in line, he presented himself under false pretenses offering him a laudous compensation to find all the positive integers that satisfy a <b, a <4c, bc3 ≤ac3 +b, a,b,c ≤2007. Sekante is squeezing the meningi and Isoshilo doesn't think he can make it, but even if he does, he'll mock him without paying! How many solutions should Sekante find?
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q14]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q14|src_cesenatico_2007_squadre_semifinale_a__Q14]]
 
 
 
@@ -511,4 +511,4 @@ level: squadre
 > 
 > I'm going to pay. 4 out of 4  Team competition 2007  Semifinal A Problem tests
 
-[[src_cesenatico_2007_squadre_semifinale_a__Q15]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q15|src_cesenatico_2007_squadre_semifinale_a__Q15]]

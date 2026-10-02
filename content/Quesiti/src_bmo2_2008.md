@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Trova il valore minimo di $x^2 + y^2 + z^2$ dove $x, y, z$ sono numeri reali come $x^3 + y^3 + z^3 - 3xyz = 1$.
 
-[[src_bmo2_2008__Q01]]
+[[Quesiti/src_bmo2_2008#q01|src_bmo2_2008__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto $AB : BC : CA$.
 
-[[src_bmo2_2008__Q02]]
+[[Quesiti/src_bmo2_2008#q02|src_bmo2_2008__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 2
 
 > Adrian ha disegnato un cerchio nel piano $xy$ il cui raggio è un intero positivo al massimo 2008. L'origine si trova da qualche parte dentro il cerchio. È consentito fargli domande del tipo "Il punto $(x, y)$ è all'interno del suo cerchio?" Dopo ogni domanda egli risponderà con verità "sì" o "no". Mostrare che è sempre possibile dedurre il raggio del cerchio dopo almeno sessanta domande. [Nota: ogni punto che si trova esattamente sul cerchio può essere considerato situato all'interno del cerchio.]
 
-[[src_bmo2_2008__Q03]]
+[[Quesiti/src_bmo2_2008#q03|src_bmo2_2008__Q03]]
 
 
 
@@ -114,4 +114,4 @@ Prova che ci sono infinite coppie di diversi integri positivi x,y con x^3+y^2 di
 
 > Prove che ci sono infinite coppie di integri positivi distinti $x, y$ in modo tale che $x^2 + y^3$ sia divisibile da $x^3 + y^2$.
 
-[[src_bmo2_2008__Q04]]
+[[Quesiti/src_bmo2_2008#q04|src_bmo2_2008__Q04]]

@@ -35,7 +35,7 @@ level: kangourou
 > Which of the following numbers is the largest? A) 2006×2006  B) 2005×2007   C) 2004×2008  D) 2003×2009   E) 2002×2010
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2006_student_marzo#q01|src_kangourou_2006_student_marzo__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: kangourou
 > Note the figure: You can add more to the grey squares without increasing the perimeter of the grey region. How many more can you add? A) 0         B) 7          C) 18          D) 12          E) 16
 
 **Answer:** E
-[[src_kangourou_2006_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2006_student_marzo#q02|src_kangourou_2006_student_marzo__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: kangourou
 > Stefania has two hangings built of the same material, the same thickness and weight. Ignoring thickness, one is shaped like a circular crown with an outer radius of 6 cm and an inner radius of 4 cm, the other is simply shaped like a circle. What's its radius in centimeters? A) 4         B) C) 5 D) E)
 
 **Answer:** D
-[[src_kangourou_2006_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2006_student_marzo#q03|src_kangourou_2006_student_marzo__Q03]]
 
 
 
@@ -166,7 +166,7 @@ level: kangourou
 > a, b, c, d, and are five numbers in arithmetic progression. We know that b is 5.5 and e is 10. How much is it worth? A) 0,5 B) 3 C) 4 D) 4,5 E) 5
 
 **Answer:** C
-[[src_kangourou_2006_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2006_student_marzo#q04|src_kangourou_2006_student_marzo__Q04]]
 
 
 
@@ -199,7 +199,7 @@ level: kangourou
 > If 4a = 9 and 9b = 256, then ab is equal to A) 2006 B) 48 C) 36 D) 10 E) 4
 
 **Answer:** E
-[[src_kangourou_2006_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2006_student_marzo#q05|src_kangourou_2006_student_marzo__Q05]]
 
 
 
@@ -257,7 +257,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 29 29 Kang 2006 Kang 2006 tudent
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2006_student_marzo#q06|src_kangourou_2006_student_marzo__Q06]]
 
 
 
@@ -292,7 +292,7 @@ level: kangourou
 > On the occasion of a particularly important match, the price of the stadium entrance ticket was increased by 20% compared to previous matches. As a result, however, the attendance of spectators decreased by 20%. Compared to the previous batches, the proceeds are A) unchanged. (b) increased by 2%. (c) decreased by 2%. D) increased by 4%. E) decreased by 4%.
 
 **Answer:** E
-[[src_kangourou_2006_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2006_student_marzo#q07|src_kangourou_2006_student_marzo__Q07]]
 
 
 
@@ -326,7 +326,7 @@ level: kangourou
 > Two circumferences lie on the same plane; their radii measure 3 meters and 5 meters, and there are exactly three lines tangent to both. So the distance in meters between their centers is A) less than 2 B) 2 C) 4 D) 8 E) greater than 8
 
 **Answer:** D
-[[src_kangourou_2006_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2006_student_marzo#q08|src_kangourou_2006_student_marzo__Q08]]
 
 
 
@@ -359,7 +359,7 @@ level: kangourou
 > An apple, or a part of it, floating on the surface of a lake emerges from it by 1/3 of its mass. A fish and a crab jump on a floating whole apple at the same time and begin to eat the submerged part and the emerging part, respectively. In equal time, the crab eats twice as much fish. When the whole apple has been eaten, what fraction of the apple has the crab eaten? A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2006_student_marzo#q09|src_kangourou_2006_student_marzo__Q09]]
 
 
 
@@ -392,7 +392,7 @@ level: kangourou
 > A tunnel has a semicircular section with a diameter of 10 meters. The roof (flat) of a bus comes into contact with the tunnel's valve if its right wheels (wheel-drive) are two metres from the right edge of the tunnel. What is the height of the bus in meters? A) 2,70 B) 3,20 C) 3,60 D) 4,00 E) 4,50 The questions from N. 11 al N. Twenty is worth four points.
 
 **Answer:** D
-[[src_kangourou_2006_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2006_student_marzo#q10|src_kangourou_2006_student_marzo__Q10]]
 
 
 
@@ -427,7 +427,7 @@ level: kangourou
 > If you divide 1001 by an appropriate one-digit number, you get 5. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2006_student_marzo#q11|src_kangourou_2006_student_marzo__Q11]]
 
 
 
@@ -468,7 +468,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 30 30 Kang 2006 Kang 2006 tudent
 
 **Answer:** E
-[[src_kangourou_2006_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2006_student_marzo#q12|src_kangourou_2006_student_marzo__Q12]]
 
 
 
@@ -502,7 +502,7 @@ level: kangourou
 > The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the relationship between the sector area and the circle area? A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2006_student_marzo#q13|src_kangourou_2006_student_marzo__Q13]]
 
 
 
@@ -534,7 +534,7 @@ level: kangourou
 > Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many elements does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
 
 **Answer:** B
-[[src_kangourou_2006_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2006_student_marzo#q14|src_kangourou_2006_student_marzo__Q14]]
 
 
 
@@ -567,7 +567,7 @@ level: kangourou
 > Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the oven if you want to be sure that, among the numbers shown on the extract sheets, there are at least two that, in some position, have the same number? A) 20160          B) 40320          C) 72            D) 10                E) 9
 
 **Answer:** D
-[[src_kangourou_2006_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2006_student_marzo#q15|src_kangourou_2006_student_marzo__Q15]]
 
 
 
@@ -605,7 +605,7 @@ level: kangourou
 > A cathedral window has a glass like the one in the figure, where the letters R, G, and B represent glass of red, yellow, and blue colors respectively. The area occupied by the yellow glass measures 400 dm2 . How many dm2 does blue glass cover? A) 396             B) 400           C) 120 π D) 90     π E) 382
 
 **Answer:** B
-[[src_kangourou_2006_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2006_student_marzo#q16|src_kangourou_2006_student_marzo__Q16]]
 
 
 
@@ -635,7 +635,7 @@ level: kangourou
 > If a and b are two numbers greater than 1, which of the following numbers is the largest? A)              B)                   C)                 D)              E)
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2006_student_marzo#q17|src_kangourou_2006_student_marzo__Q17]]
 
 
 
@@ -708,7 +708,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > I'm going to pay. I'm going to pay. 31 31 Kang 2006 Kang 2006 tudent
 
 **Answer:** D
-[[src_kangourou_2006_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2006_student_marzo#q18|src_kangourou_2006_student_marzo__Q18]]
 
 
 
@@ -743,7 +743,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > How many angles of width less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
 
 **Answer:** B
-[[src_kangourou_2006_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2006_student_marzo#q19|src_kangourou_2006_student_marzo__Q19]]
 
 
 
@@ -780,7 +780,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > A rectangular parallel piped is shown in the figure. The dimensions, in centimetres, of the sides of the XYZ triangle are 8, 9 and . What is the size, in centimeters, of the XA diagonal? A) B) 10 C) D) 11 E) Questions from N. 21 al N. 30 is worth 5 points.
 
 **Answer:** B
-[[src_kangourou_2006_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2006_student_marzo#q20|src_kangourou_2006_student_marzo__Q20]]
 
 
 
@@ -818,7 +818,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > Figure 1 shows a grid of 4×4 with white and grey cells. On it we are only allowed to make movements of the following type: exchange between two cells on the same line or column. What is the minimum number of moves that allows us to obtain the figure shown in Figure 2? A) We will never be able to achieve it if we only make authorized moves. B) 2                     C) 3                     D) 4                     E) 5
 
 **Answer:** D
-[[src_kangourou_2006_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2006_student_marzo#q21|src_kangourou_2006_student_marzo__Q21]]
 
 
 
@@ -848,7 +848,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > For how many positive integers n is the power n 300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
 
 **Answer:** B
-[[src_kangourou_2006_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2006_student_marzo#q22|src_kangourou_2006_student_marzo__Q22]]
 
 
 
@@ -879,7 +879,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > How many subsets of the set {1, 2, 3, ..., 12} are such that the sum of the smallest and largest of their elements is 13? A) 1024         B) 1175            C) 1365          D) 1785                E) 4095
 
 **Answer:** C
-[[src_kangourou_2006_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2006_student_marzo#q23|src_kangourou_2006_student_marzo__Q23]]
 
 
 
@@ -936,7 +936,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > I'm going to pay. I'm going to pay. 32 32 Kang 2006 Kang 2006 tudent
 
 **Answer:** E
-[[src_kangourou_2006_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2006_student_marzo#q24|src_kangourou_2006_student_marzo__Q24]]
 
 
 
@@ -967,7 +967,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > From a sequence of ten consecutive integers, one has been removed. The sum of the remaining nine numbers is 2006. What's the number that's been removed? A) 218          B) 219             C) 220               D) 225               E) 227
 
 **Answer:** B
-[[src_kangourou_2006_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2006_student_marzo#q25|src_kangourou_2006_student_marzo__Q25]]
 
 
 
@@ -1036,7 +1036,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > I want to write the numbers 1, 2, 3, 4, 5, 6 inside the squares that make up the figure (one for each square) so that if two squares are adjacent, the difference (positive) of the numbers written in them is not 3. How many different ways can I do this? (Squares having only one vertex in common are not considered adjacent.) A) 3 x 25 B) 36 C) 63 D) 2 x 35 E) 3 x 52
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2006_student_marzo#q26|src_kangourou_2006_student_marzo__Q26]]
 
 
 
@@ -1069,7 +1069,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 > The natural numbers were grouped and summed within each group according to the criterion suggested below 1, 2+3, 4+5+6, 7+8+9+10, 11+12+13+14+15, ... What is the sum of the numbers hosted in the hundredth group? A) 500050        B) 5050        C) 50050      D) 499950         E) 49950
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2006_student_marzo#q27|src_kangourou_2006_student_marzo__Q27]]
 
 
 
@@ -1105,7 +1105,7 @@ Areas in the region? (rectangle divided by M,N) *
 > Note the figure: ABCD is a rectangle, M and N are randomly selected points, respectively, within the AB side and the BC side. The rectangle is divided into eight regions, some of which have an area. What is the area of the quadrilateral region indicated by "?" A) 20 B) 21 C) 25 D) 26 E) The information given is insufficient.
 
 **Answer:** C
-[[src_kangourou_2006_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2006_student_marzo#q28|src_kangourou_2006_student_marzo__Q28]]
 
 
 
@@ -1140,7 +1140,7 @@ Areas in the region? (rectangle divided by M,N) *
 > In the figure you see a side hexagon; XABC and XPQR are squares. How much is the area of the shaded triangle worth? A)              B)           C)        D)             E)
 
 **Answer:** A
-[[src_kangourou_2006_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2006_student_marzo#q29|src_kangourou_2006_student_marzo__Q29]]
 
 
 
@@ -1212,4 +1212,4 @@ Areas in the region? (rectangle divided by M,N) *
 > 1 Student category For students in fourth or fifth grades
 
 **Answer:** E
-[[src_kangourou_2006_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2006_student_marzo#q30|src_kangourou_2006_student_marzo__Q30]]

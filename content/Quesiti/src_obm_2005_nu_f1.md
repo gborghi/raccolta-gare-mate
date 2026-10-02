@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono numeri interi. È noto che $f(1) = f(-1) = 0$. Le linee tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si incrociano al punto $C$. Calcolare l'area del triangolo $ABC$, sapendo che quest'area è un numero intero.
 
-[[src_obm_2005_nu_f1__Q01]]
+[[Quesiti/src_obm_2005_nu_f1#q01|src_obm_2005_nu_f1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: OBM Nível Universitário
 
 > Calcolare l'integrale $$\int_0^{\pi/4} \ln(1 + \tan x)\, dx.$$
 
-[[src_obm_2005_nu_f1__Q02]]
+[[Quesiti/src_obm_2005_nu_f1#q02|src_obm_2005_nu_f1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível Universitário
 
 > Trova il più grande volume possibile di un tetraedro inserito nell'ellipsoide con l'equazione $$\frac{x^2}{9} + \frac{y^2}{16} + \frac{z^2}{25} = 1.$$
 
-[[src_obm_2005_nu_f1__Q03]]
+[[Quesiti/src_obm_2005_nu_f1#q03|src_obm_2005_nu_f1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível Universitário
 
 > Lasciate che $A$ e $B$ siano matrici quadrate reali della stessa dimensione in modo tale che, per ogni intero positivo $k$, $$(A + B)^k = A^k + B^k.$$ dimostri che se $A$ è invertibile allora $B$ è la matrice zero.
 
-[[src_obm_2005_nu_f1__Q04]]
+[[Quesiti/src_obm_2005_nu_f1#q04|src_obm_2005_nu_f1__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível Universitário
 
 > Determinare tutti i valori di $\alpha$ per i quali la matrice $A = (a_{ij})_{n \times n}$, definita da $$a_{ij} = \cos((i-1)\cdot j\alpha),$$ per $1 \le i,\, j \le n$, ha determinante uguale a zero.
 
-[[src_obm_2005_nu_f1__Q05]]
+[[Quesiti/src_obm_2005_nu_f1#q05|src_obm_2005_nu_f1__Q05]]
 
 
 
@@ -174,4 +174,4 @@ level: OBM Nível Universitário
 
 > Prove che esistono meno di 27 potenze distinte del 2005 (cioè numeri della forma $n^{27}$, dove $n$ è un numero intero positivo), tutti con lo stesso numero di cifre, in modo che uno di essi possa essere ottenuto da qualsiasi altro mediante una permutazione delle sue cifre.
 
-[[src_obm_2005_nu_f1__Q06]]
+[[Quesiti/src_obm_2005_nu_f1#q06|src_obm_2005_nu_f1__Q06]]

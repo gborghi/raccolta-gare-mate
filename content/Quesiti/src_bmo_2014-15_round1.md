@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > In ordine crescente di dimensioni, inserire i seguenti numeri e giustificare il ragionamento: $$3^{3^4},\quad 3^{4^3},\quad 3^{4^4},\quad 4^{3^3}\quad\text{and}\quad 4^{3^4}.$$ Nota che $a^{b^c}$ significa $a^{(b^c)}$.
 
-[[src_bmo_2014-15_round1__Q01]]
+[[Quesiti/src_bmo_2014-15_round1#q01|src_bmo_2014-15_round1__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Gli integri positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Prova che se $p$ è un primo maggiore di $3$, allora $a$ è un multiple di $12$ e $2(p + a + 1)$ è un quadrato perfetto.
 
-[[src_bmo_2014-15_round1__Q02]]
+[[Quesiti/src_bmo_2014-15_round1#q02|src_bmo_2014-15_round1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 1
 
 > Un hotel ha dieci camere lungo ogni lato di un corridoio. Un leader di squadra olimpica desidera prenotare sette stanze sul corridoio in modo che non siano adiacenti due stanze riservate sullo stesso lato del corridoio. In quanti modi si può farlo?
 
-[[src_bmo_2014-15_round1__Q03]]
+[[Quesiti/src_bmo_2014-15_round1#q03|src_bmo_2014-15_round1__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: BMO Round 1
 
 > $x$ sia un numero reale tale che $t = x + x^{-1}$ sia un numero intero maggiore di $2$. Prove che $t_n = x^n + x^{-n}$ è un intero per tutti i numeri interi positivi $n$. Determinare i valori di $n$ per i quali $t$ divide $t_n$.
 
-[[src_bmo_2014-15_round1__Q04]]
+[[Quesiti/src_bmo_2014-15_round1#q04|src_bmo_2014-15_round1__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: BMO Round 1
 
 > Che il $ABCD$ sia un quadrilaterale ciclico. Il $F$ deve essere il punto medio dell'arco $AB$ del suo circoncircolo che non contiene $C$ o $D$. Lasciate che le linee $DF$ e $AC$ si incontrino a $P$ e le linee $CF$ e $BD$ si incontrino a $Q$. Prove che le linee $PQ$ e $AB$ sono parallele.
 
-[[src_bmo_2014-15_round1__Q05]]
+[[Quesiti/src_bmo_2014-15_round1#q05|src_bmo_2014-15_round1__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: BMO Round 1
 
 > Determinare tutte le funzioni $f(n)$ dai numeri interi positivi ai numeri interi positivi che soddisfano la seguente condizione: quando $a$, $b$ e $c$ sono numeri interi positivi come $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, allora $$\frac{1}{f(a)} + \frac{1}{f(b)} = \frac{1}{f(c)}.$$
 
-[[src_bmo_2014-15_round1__Q06]]
+[[Quesiti/src_bmo_2014-15_round1#q06|src_bmo_2014-15_round1__Q06]]

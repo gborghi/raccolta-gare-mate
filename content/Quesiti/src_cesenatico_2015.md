@@ -39,7 +39,7 @@ level: nazionale
 > Give a rectangular parallel piped ABCDA′B′C′D′, where ABCD is the lower face with the letters assigned clockwise, and A, B, C, and D are below A′, B′, C′, and D′ respectively. The parallelepiped is divided into eight pieces by three planes orthogonal to each other and parallel to the faces of the parallelepiped. For each vertex P of the parallelepiped, the volume of the piece of parallelepiped containing P shall be indicated by VP. Knowing that VA = 40, VC = 300, VB′ = 360 and VC′ = 90, what is the volume of the ABCDA′B′C′D′ parallel piped?
 
 **Answer:** 2015
-[[src_cesenatico_2015__Q01]]
+[[Quesiti/src_cesenatico_2015#q01|src_cesenatico_2015__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: nazionale
 
 > A music streaming service offers songs classified into 10 music genres, so that each track belongs to one and only one genre. The songs are played one after the other: the first 17 are chosen by the user, but from the eighteenth the service automatically determines which song to play. Elisabetta noted that if one ranks which genres appear more than once during the last 17 tracks played, the new song always belongs to the genre at the top of the chart or, in case of equal merit, to one of the first ex-aequo. To show that no matter what the first 17 tracks are, from a certain point onwards the proposed songs are all the same.
 
-[[src_cesenatico_2015__Q02]]
+[[Quesiti/src_cesenatico_2015#q02|src_cesenatico_2015__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: nazionale
 
 > Either ABC is a triangle, either K is the foot of the bisector relative to BC and either J is the foot of the tri-sector relative to BC nearest to the AC side (i.e. J is the point on BC such that 3 · CAJ = CAB). Then C′ and B′ are two points on the straight AJ, on the side of J with respect to A, such that AC′ = AC and AB = AB′. Demonstrate that the quadrilateral ABB′C can be inscribed in a circumference if and only if the lines C′K and B′B are parallel.
 
-[[src_cesenatico_2015__Q03]]
+[[Quesiti/src_cesenatico_2015#q03|src_cesenatico_2015__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: nazionale
 > Determine all pairs of integers (a, b) that solve the equation a3 + b3 + 3ab = 1.
 
 **Answer:** (-1,-1) e (c+1,-c)
-[[src_cesenatico_2015__Q04]]
+[[Quesiti/src_cesenatico_2015#q04|src_cesenatico_2015__Q04]]
 
 
 
@@ -162,7 +162,7 @@ The following table shows the results of the evaluation:
 
 > If Γ is a circumference, AB is a rope, C is an inner point of AB, r is a straight line for C such that, given D and E the intersections of r with Γ, they are in opposite places to the axis of AB. Then ΓD is the tangent circumference externally at Γ in D and tangent at a point F at AB, ΓE is the tangent circumference externally at Γ in E and tangent at a point G at AB. Prove that CA = CB if and only if CF = CG.
 
-[[src_cesenatico_2015__Q05]]
+[[Quesiti/src_cesenatico_2015#q05|src_cesenatico_2015__Q05]]
 
 
 
@@ -198,4 +198,4 @@ The following table shows the results of the evaluation:
 > Ada and Charles are playing. At the beginning an integer n > 1 is written on the board. In turn, Ada and Charles cancel out the number k they find on the board and replace it with 1  or with a positive divisor of k other than 1 and k itself 2  or with k + 1. Initially, each player has a thousand points. When a player plays move 1, he gains a point; when he plays move 2, he loses a point. The game ends when one of the players gets zero points, and that player loses. Ada plays first. What values does Charles have a winning strategy for?
 
 **Answer:** primi tranne 2,7,13 piu 8,14,26,49,91,169
-[[src_cesenatico_2015__Q06]]
+[[Quesiti/src_cesenatico_2015#q06|src_cesenatico_2015__Q06]]

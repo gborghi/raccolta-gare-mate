@@ -23,7 +23,7 @@ level: OBM Nível 2
 > 
 > **b)** If the diagonal $AC$ is twice the width $AD$, what is the area of the rhombus $AMCN$?
 
-![[src_obm_2001_n2_f3__Q01.png]]
+![[src_obm_2001_n2_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -43,9 +43,9 @@ level: OBM Nível 2
 > 
 > **b) ** Se la diagonale $AC$ è doppia della larghezza $AD$, qual è la superficie del rombo $AMCN$?
 
-![[src_obm_2001_n2_f3__Q01.png]]
+![[src_obm_2001_n2_f3__q01.png]]
 
-[[src_obm_2001_n2_f3__Q01]]
+[[Quesiti/src_obm_2001_n2_f3#q01|src_obm_2001_n2_f3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 2
 > 
 > In Maria's drawing (left), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$. In C\u00e9lia's drawing (right), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$ (placed in a different relative position than in Maria's drawing).
 
-![[src_obm_2001_n2_f3__Q02.png]]
+![[src_obm_2001_n2_f3__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -86,9 +86,9 @@ level: OBM Nível 2
 > 
 > Nel disegno di Maria (a sinistra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$. Nel disegno di C\u00e9lia (a destra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$ (posizionata in una posizione relativa diversa dal disegno di Maria).
 
-![[src_obm_2001_n2_f3__Q02.png]]
+![[src_obm_2001_n2_f3__q02.png]]
 
-[[src_obm_2001_n2_f3__Q02]]
+[[Quesiti/src_obm_2001_n2_f3#q02|src_obm_2001_n2_f3__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: OBM Nível 2
 
 > Given a positive integer $h$, prove that there exists only a finite number of triangles with integer sides $a$, $b$, $c$ and altitude relative to side $c$ equal to $h$.
 
-![[src_obm_2001_n2_f3__Q03.png]]
+![[src_obm_2001_n2_f3__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -117,9 +117,9 @@ level: OBM Nível 2
 
 > Date un intero positivo $h$, dimostrare che esiste solo un numero finito di triangoli con lati interi $a$, $b$, $c$ e altitudine relativa al lato $c$ uguale a $h$.
 
-![[src_obm_2001_n2_f3__Q03.png]]
+![[src_obm_2001_n2_f3__q03.png]]
 
-[[src_obm_2001_n2_f3__Q03]]
+[[Quesiti/src_obm_2001_n2_f3#q03|src_obm_2001_n2_f3__Q03]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 2
 
 > Indicare che non esistono due integri $a$ e $b$ tali da $(a+b)(a^2+b^2)=2001$.
 
-[[src_obm_2001_n2_f3__Q04]]
+[[Quesiti/src_obm_2001_n2_f3#q04|src_obm_2001_n2_f3__Q04]]
 
 
 
@@ -174,7 +174,7 @@ level: OBM Nível 2
 
 > Lasciate che $a$, $b$ e $c$ siano numeri reali non zeri come $a+b+c=0$. Calcolare i possibili valori di $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
 
-[[src_obm_2001_n2_f3__Q05]]
+[[Quesiti/src_obm_2001_n2_f3#q05|src_obm_2001_n2_f3__Q05]]
 
 
 
@@ -201,4 +201,4 @@ level: OBM Nível 2
 
 > In un quadrilaterale convexo, l'altitudine ** rispetto a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile (ciclico), cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
 
-[[src_obm_2001_n2_f3__Q06]]
+[[Quesiti/src_obm_2001_n2_f3#q06|src_obm_2001_n2_f3__Q06]]

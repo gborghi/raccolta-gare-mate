@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > b) Esiste un numero a tre cifre * diverso da * 100, 200, 300 il cui quadrato ha lo stesso numero di cifre non zero del numero originale?
 
-[[src_bmo_1991-92_round1__Q01]]
+[[Quesiti/src_bmo_1991-92_round1#q01|src_bmo_1991-92_round1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > Che il $ABCDE$ sia un pentagono inscritto in un cerchio. Supponiamo che $AC, BD, CE, DA$ e $EB$ siano parallele rispettivamente a $DE, EA, AB, BC$ e $CD$. Ne consegue che il pentagono deve essere regolare? Giustifica la tua richiesta.
 
-[[src_bmo_1991-92_round1__Q02]]
+[[Quesiti/src_bmo_1991-92_round1#q02|src_bmo_1991-92_round1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 > 
 > Puoi trovare un insieme di cinque o più numeri con la stessa proprietà?
 
-[[src_bmo_1991-92_round1__Q03]]
+[[Quesiti/src_bmo_1991-92_round1#q03|src_bmo_1991-92_round1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 > 
 > $x^2 + 5y^2 + 8z^2$ ha un valore maggiore soggetto alla stessa condizione? Giustifica la tua richiesta.
 
-[[src_bmo_1991-92_round1__Q04]]
+[[Quesiti/src_bmo_1991-92_round1#q04|src_bmo_1991-92_round1__Q04]]
 
 
 
@@ -153,4 +153,4 @@ level: BMO Round 1
 
 > Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi in numeri interi positivi. Supponiamo che $f(n + 1) > f(n)$ e $f(f(n)) = 3n$ per tutti gli integri positivi $n$. Determinare $f(1992)$.
 
-[[src_bmo_1991-92_round1__Q05]]
+[[Quesiti/src_bmo_1991-92_round1#q05|src_bmo_1991-92_round1__Q05]]

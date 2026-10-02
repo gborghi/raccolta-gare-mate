@@ -46,7 +46,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(E)** 2008
 
 **Risposta:** C
-[[src_smc_2021__Q01]]
+[[Quesiti/src_smc_2021#q01|src_smc_2021__Q01]]
 
 
 
@@ -87,7 +87,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(E)** 5
 
 **Risposta:** C
-[[src_smc_2021__Q02]]
+[[Quesiti/src_smc_2021#q02|src_smc_2021__Q02]]
 
 
 
@@ -106,7 +106,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 40
 > - **(E)** 45
 
-![[src_smc_2021__Q03.png]]
+![[src_smc_2021__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -128,10 +128,10 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 40
 > - **(E)** 45
 
-![[src_smc_2021__Q03.png]]
+![[src_smc_2021__q03.png]]
 
 **Risposta:** C
-[[src_smc_2021__Q03]]
+[[Quesiti/src_smc_2021#q03|src_smc_2021__Q03]]
 
 
 
@@ -172,7 +172,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(E)** 3
 
 **Risposta:** D
-[[src_smc_2021__Q04]]
+[[Quesiti/src_smc_2021#q04|src_smc_2021__Q04]]
 
 
 
@@ -213,7 +213,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(E)** 7
 
 **Risposta:** E
-[[src_smc_2021__Q05]]
+[[Quesiti/src_smc_2021#q05|src_smc_2021__Q05]]
 
 
 
@@ -232,7 +232,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** $1:4:9$
 > - **(E)** $1:8:27$
 
-![[src_smc_2021__Q06.png]]
+![[src_smc_2021__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -254,10 +254,10 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** $1:4:9$
 > - **(E)** $1:8:27$
 
-![[src_smc_2021__Q06.png]]
+![[src_smc_2021__q06.png]]
 
 **Risposta:** B
-[[src_smc_2021__Q06]]
+[[Quesiti/src_smc_2021#q06|src_smc_2021__Q06]]
 
 
 
@@ -297,7 +297,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(E)** $6^{1000}$
 
 **Risposta:** B
-[[src_smc_2021__Q07]]
+[[Quesiti/src_smc_2021#q07|src_smc_2021__Q07]]
 
 
 
@@ -316,7 +316,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 48
 > - **(E)** more information needed
 
-![[src_smc_2021__Q08.png]]
+![[src_smc_2021__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -338,10 +338,10 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 48
 > - **(E)** ulteriori informazioni necessarie
 
-![[src_smc_2021__Q08.png]]
+![[src_smc_2021__q08.png]]
 
 **Risposta:** B
-[[src_smc_2021__Q08]]
+[[Quesiti/src_smc_2021#q08|src_smc_2021__Q08]]
 
 
 
@@ -382,7 +382,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(E)** 5
 
 **Risposta:** D
-[[src_smc_2021__Q09]]
+[[Quesiti/src_smc_2021#q09|src_smc_2021__Q09]]
 
 
 
@@ -401,7 +401,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 90
 > - **(E)** 180
 
-![[src_smc_2021__Q10.png]]
+![[src_smc_2021__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -423,10 +423,10 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 > - **(D)** 90
 > - **(E)** 180
 
-![[src_smc_2021__Q10.png]]
+![[src_smc_2021__q10.png]]
 
 **Risposta:** D
-[[src_smc_2021__Q10]]
+[[Quesiti/src_smc_2021#q10|src_smc_2021__Q10]]
 
 
 
@@ -467,7 +467,7 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 > - **(E)** 11
 
 **Risposta:** E
-[[src_smc_2021__Q11]]
+[[Quesiti/src_smc_2021#q11|src_smc_2021__Q11]]
 
 
 
@@ -508,7 +508,7 @@ Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
 > - **(E)** 1
 
 **Risposta:** A
-[[src_smc_2021__Q12]]
+[[Quesiti/src_smc_2021#q12|src_smc_2021__Q12]]
 
 
 
@@ -548,7 +548,7 @@ Qual è la media degli altri quattro? *
 > - **(E)** $\sqrt{8}$
 
 **Risposta:** D
-[[src_smc_2021__Q13]]
+[[Quesiti/src_smc_2021#q13|src_smc_2021__Q13]]
 
 
 
@@ -589,7 +589,7 @@ Qual è la media degli altri quattro? *
 > - **(E)** 60
 
 **Risposta:** D
-[[src_smc_2021__Q14]]
+[[Quesiti/src_smc_2021#q14|src_smc_2021__Q14]]
 
 
 
@@ -630,7 +630,7 @@ Qual è la media degli altri quattro? *
 > - **(E)** 21
 
 **Risposta:** C
-[[src_smc_2021__Q15]]
+[[Quesiti/src_smc_2021#q15|src_smc_2021__Q15]]
 
 
 
@@ -649,7 +649,7 @@ Qual è la media degli altri quattro? *
 > - **(D)** 12
 > - **(E)** 24
 
-![[src_smc_2021__Q16.png]]
+![[src_smc_2021__q16.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -672,10 +672,10 @@ Qual è la media degli altri quattro? *
 > - **(D)** 12
 > - **(E)** 24
 
-![[src_smc_2021__Q16.png]]
+![[src_smc_2021__q16.png]]
 
 **Risposta:** C
-[[src_smc_2021__Q16]]
+[[Quesiti/src_smc_2021#q16|src_smc_2021__Q16]]
 
 
 
@@ -694,7 +694,7 @@ Qual è la media degli altri quattro? *
 > - **(D)** $\frac{r^2}{2}$
 > - **(E)** $(\sqrt{2}-1)\pi r^2$
 
-![[src_smc_2021__Q17.png]]
+![[src_smc_2021__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -716,10 +716,10 @@ Qual è la media degli altri quattro? *
 > - **(D)** $\frac{r^2}{2}$
 > - **(E)** $(\sqrt{2}-1)\pi r^2$
 
-![[src_smc_2021__Q17.png]]
+![[src_smc_2021__q17.png]]
 
 **Risposta:** B
-[[src_smc_2021__Q17]]
+[[Quesiti/src_smc_2021#q17|src_smc_2021__Q17]]
 
 
 
@@ -760,7 +760,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(E)** 15
 
 **Risposta:** C
-[[src_smc_2021__Q18]]
+[[Quesiti/src_smc_2021#q18|src_smc_2021__Q18]]
 
 
 
@@ -779,7 +779,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $1:2$
 > - **(E)** $1:3$
 
-![[src_smc_2021__Q19.png]]
+![[src_smc_2021__q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -801,10 +801,10 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $1:2$
 > - **(E)** $1:3$
 
-![[src_smc_2021__Q19.png]]
+![[src_smc_2021__q19.png]]
 
 **Risposta:** D
-[[src_smc_2021__Q19]]
+[[Quesiti/src_smc_2021#q19|src_smc_2021__Q19]]
 
 
 
@@ -844,7 +844,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(E)** $\dfrac{s}{n}$
 
 **Risposta:** A
-[[src_smc_2021__Q20]]
+[[Quesiti/src_smc_2021#q20|src_smc_2021__Q20]]
 
 
 
@@ -884,7 +884,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(E)** $\dfrac{p+q}{p-q}$
 
 **Risposta:** A
-[[src_smc_2021__Q21]]
+[[Quesiti/src_smc_2021#q21|src_smc_2021__Q21]]
 
 
 
@@ -903,7 +903,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $6\sqrt{3}$
 > - **(E)** $3 + \sqrt{3}$
 
-![[src_smc_2021__Q22.png]]
+![[src_smc_2021__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -926,10 +926,10 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $6\sqrt{3}$
 > - **(E)** $3 + \sqrt{3}$
 
-![[src_smc_2021__Q22.png]]
+![[src_smc_2021__q22.png]]
 
 **Risposta:** E
-[[src_smc_2021__Q22]]
+[[Quesiti/src_smc_2021#q22|src_smc_2021__Q22]]
 
 
 
@@ -970,7 +970,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(E)** $16$
 
 **Risposta:** A
-[[src_smc_2021__Q23]]
+[[Quesiti/src_smc_2021#q23|src_smc_2021__Q23]]
 
 
 
@@ -1010,7 +1010,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(E)** 105
 
 **Risposta:** E
-[[src_smc_2021__Q24]]
+[[Quesiti/src_smc_2021#q24|src_smc_2021__Q24]]
 
 
 
@@ -1029,7 +1029,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** 11
 > - **(E)** 12
 
-![[src_smc_2021__Q25.png]]
+![[src_smc_2021__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -1051,7 +1051,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** 11
 > - **(E)** 12
 
-![[src_smc_2021__Q25.png]]
+![[src_smc_2021__q25.png]]
 
 **Risposta:** B
-[[src_smc_2021__Q25]]
+[[Quesiti/src_smc_2021#q25|src_smc_2021__Q25]]

@@ -39,7 +39,7 @@ level: China Mathematical Competition
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3
 
 **Risposta:** C
-[[src_cn_cmc_2008__Q01]]
+[[Quesiti/src_cn_cmc_2008#q01|src_cn_cmc_2008__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: China Mathematical Competition
 > (A) $[-1, 2)$ \quad (B) $[1, 2]$ \quad (C) $[0, 3]$ \quad (D) $[0, 3)$
 
 **Risposta:** D
-[[src_cn_cmc_2008__Q02]]
+[[Quesiti/src_cn_cmc_2008#q02|src_cn_cmc_2008__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: China Mathematical Competition
 > (A) $\dfrac{241}{81}$ \quad (B) $\dfrac{266}{81}$ \quad (C) $\dfrac{374}{81}$ \quad (D) $\dfrac{670}{243}$
 
 **Risposta:** B
-[[src_cn_cmc_2008__Q03]]
+[[Quesiti/src_cn_cmc_2008#q03|src_cn_cmc_2008__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: China Mathematical Competition
 > (A) 764 cm$^3$ o 586 cm$^3$ \quad (B) 764 cm$^3$ \quad (C) 386 cm$^3$ \quad (D) 586 cm$^3$
 
 **Risposta:** A
-[[src_cn_cmc_2008__Q04]]
+[[Quesiti/src_cn_cmc_2008#q04|src_cn_cmc_2008__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: China Mathematical Competition
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad
 
 **Risposta:** B
-[[src_cn_cmc_2008__Q05]]
+[[Quesiti/src_cn_cmc_2008#q05|src_cn_cmc_2008__Q05]]
 
 
 
@@ -206,7 +206,7 @@ level: China Mathematical Competition
 > (A) $(0, +\infty)$ \quad (B) $\left(0, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (C) $\left(\dfrac{\sqrt{5}-1}{2}, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (D) $\left(\dfrac{\sqrt{5}-1}{2}, +\infty\right)$
 
 **Risposta:** C
-[[src_cn_cmc_2008__Q06]]
+[[Quesiti/src_cn_cmc_2008#q06|src_cn_cmc_2008__Q06]]
 
 
 
@@ -235,7 +235,7 @@ level: China Mathematical Competition
 > Se $f(x) = ax + b$, con $a, b$ numeri reali; $f_1(x) = f(x)$, $f_{n+1}(x) = f(f_n(x))$, $n = 1, 2, \ldots$ Se $f_7(x) = 128x + 381$, $a + b = $ ________.
 
 **Risposta:** 5
-[[src_cn_cmc_2008__Q07]]
+[[Quesiti/src_cn_cmc_2008#q07|src_cn_cmc_2008__Q07]]
 
 
 
@@ -264,7 +264,7 @@ level: China Mathematical Competition
 > Supponiamo che il minimo di $f(x) = \cos 2x - 4a(1 + \cos x)$ sia $-\dfrac{1}{2}$. Poi $a = $ ________.
 
 **Risposta:** $-2+\sqrt{3}$
-[[src_cn_cmc_2008__Q08]]
+[[Quesiti/src_cn_cmc_2008#q08|src_cn_cmc_2008__Q08]]
 
 
 
@@ -293,7 +293,7 @@ level: China Mathematical Competition
 > 24 volontari saranno assegnati a tre scuole. La regola è che ogni scuola accetterà almeno un volontario e tutte le scuole accetteranno un numero diverso di volontari. Poi ci sono ________ modi diversi di assegnare i volontari.
 
 **Risposta:** 222
-[[src_cn_cmc_2008__Q09]]
+[[Quesiti/src_cn_cmc_2008#q09|src_cn_cmc_2008__Q09]]
 
 
 
@@ -324,7 +324,7 @@ level: China Mathematical Competition
 > $S_n$ indichi la somma dei primi termini $n$ in una sequenza di numeri $\{a_n\}$, soddisfacendo $$S_n + a_n = \frac{n-1}{n(n+1)}, \quad n = 1, 2, \ldots$$.
 
 **Risposta:** $\dfrac{1}{2^n} - \dfrac{1}{n(n+1)}$
-[[src_cn_cmc_2008__Q10]]
+[[Quesiti/src_cn_cmc_2008#q10|src_cn_cmc_2008__Q10]]
 
 
 
@@ -356,7 +356,7 @@ level: China Mathematical Competition
 > Supponiamo che $f(x)$ sia definito su $\mathbf{R}$, soddisfacendo $f(0) = 2008$, e per qualsiasi $x \in \mathbf{R}$: $$f(x+2) - f(x) \le 3 \times 2^x,$$ $$f(x+6) - f(x) \ge 63 \times 2^x.$$ Poi $f(2008) = $ ________.
 
 **Risposta:** $2^{2008} + 2007$
-[[src_cn_cmc_2008__Q11]]
+[[Quesiti/src_cn_cmc_2008#q11|src_cn_cmc_2008__Q11]]
 
 
 
@@ -385,7 +385,7 @@ level: China Mathematical Competition
 > Supponiamo che una palla di raggio 1 si muova liberamente all'interno di un tetraedro regolare con lunghezza di bordo $4\sqrt{6}$. Quindi l'area della superficie interna del contenitore che la palla non può mai toccare è ________.
 
 **Risposta:** $72\sqrt{3}$
-[[src_cn_cmc_2008__Q12]]
+[[Quesiti/src_cn_cmc_2008#q12|src_cn_cmc_2008__Q12]]
 
 
 
@@ -413,7 +413,7 @@ Prove l'identità dell'intersezione di x di x e della linea tangente attraverso 
 
 > È noto che la curva $f(x) = |\sin x|$ intercetta la linea $y = kx$ ($k > 0$) in esattamente tre punti, la coordinata massima $x$ di questi punti essendo $a$. Provare che $$\frac{\cos a}{\sin a - a\cos a} = \frac{1 - a^2}{4a}.$$
 
-[[src_cn_cmc_2008__Q13]]
+[[Quesiti/src_cn_cmc_2008#q13|src_cn_cmc_2008__Q13]]
 
 
 
@@ -443,7 +443,7 @@ Prove l'identità dell'intersezione di x di x e della linea tangente attraverso 
 > Risolvere la disuguaglianza $$\log_2(x^{12} + 3x^{10} + 5x^8 + 3x^6 + 1) < 1 + \log_2(x^4 + 1).$$
 
 **Risposta:** $\left(-\sqrt{\dfrac{-1+\sqrt{5}}{2}},\, \sqrt{\dfrac{-1+\sqrt{5}}{2}}\right)$
-[[src_cn_cmc_2008__Q14]]
+[[Quesiti/src_cn_cmc_2008#q14|src_cn_cmc_2008__Q14]]
 
 
 
@@ -456,7 +456,7 @@ Prove l'identità dell'intersezione di x di x e della linea tangente attraverso 
 
 > As is shown in the figure, $P$ is a moving point on the parabola $y^2 = 2x$, points $B$, $C$ are on the $y$ axis, and the circle $(x-1)^2 + y^2 = 1$ is internally tangent to $\triangle PBC$. Find the minimum value of the area of $\triangle PBC$.
 
-![[src_cn_cmc_2008__Q15.png]]
+![[src_cn_cmc_2008__q15.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
@@ -472,6 +472,6 @@ Prove l'identità dell'intersezione di x di x e della linea tangente attraverso 
 
 > Come mostra la figura, $P$ è un punto in movimento sulla parabola $y^2 = 2x$, i punti $B$, $C$ sono sull'asse $y$ e il cerchio $(x-1)^2 + y^2 = 1$ è tangente internamente a $\triangle PBC$. Trova il valore minimo della superficie di $\triangle PBC$.
 
-![[src_cn_cmc_2008__Q15.png]]
+![[src_cn_cmc_2008__q15.png]]
 
-[[src_cn_cmc_2008__Q15]]
+[[Quesiti/src_cn_cmc_2008#q15|src_cn_cmc_2008__Q15]]

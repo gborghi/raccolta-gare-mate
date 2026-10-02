@@ -37,7 +37,7 @@ level: OBM Nível 1
 > 
 > b) Quale di questi numeri è più grande: $e^\pi$ o $\pi^e$?
 
-[[src_obm_2009_n1_f1__Q01]]
+[[Quesiti/src_obm_2009_n1_f1#q01|src_obm_2009_n1_f1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 1
 
 > Si deve $\zeta\in\mathbb{C}$ essere una radice di $x^7-1$ con $\zeta\neq 1$. Esiste un polinomio monico $p$ di grado $2$ con coefficienti interi le cui radici sono i numeri $z_1=\zeta+\zeta^2+\zeta^4$ e $z_2=\zeta^3+\zeta^5+\zeta^6$. Calcolare $p(3)$.
 
-[[src_obm_2009_n1_f1__Q02]]
+[[Quesiti/src_obm_2009_n1_f1#q02|src_obm_2009_n1_f1__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 1
 > 
 > b) dimostrare l'esistenza di $p\in(0,1/100)$ tale che, per alcuni $n\in\mathbb{N}$, $P_n=1/\pi$.
 
-[[src_obm_2009_n1_f1__Q03]]
+[[Quesiti/src_obm_2009_n1_f1#q03|src_obm_2009_n1_f1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: OBM Nível 1
 
 > Determinare il numero di integri positivi $n$ inferiori o uguali a $31!$ in modo tale che $3^n+n$ sia divisibile da $31$.
 
-[[src_obm_2009_n1_f1__Q04]]
+[[Quesiti/src_obm_2009_n1_f1#q04|src_obm_2009_n1_f1__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 1
 
 > Dati i numeri reali $a,b,c,d$, considera la matrice $$A=\begin{pmatrix}a&b&c&d\\d&a&b&c\\c&d&a&b\\b&c&d&a\end{pmatrix}.$$ Se $f(x)=a+bx+cx^2+dx^3$, prova che $$\det A=f(1)\,f(i)\,f(-1)\,f(-i).$$ (Qui $i$ indica l'unità immaginaria.)
 
-[[src_obm_2009_n1_f1__Q05]]
+[[Quesiti/src_obm_2009_n1_f1#q05|src_obm_2009_n1_f1__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: OBM Nível 1
 
 > Considera la sequenza $a_0,a_1,a_2,\ldots$ definita da $a_0=0$, $a_1=\pi/3$ e, per $n\geq 1$, $$a_{n+1}=\frac{\pi\,(a_0 a_n+a_1 a_{n-1}+a_2 a_{n-2}+\cdots+a_n a_0)}{3(n+1)}.$$ Calcolo $$\sum_{k=0}^{\infty}\frac{a_k}{2^k}=a_0+\frac{a_1}{2}+\frac{a_2}{4}+\frac{a_3}{8}+\cdots.$$
 
-[[src_obm_2009_n1_f1__Q06]]
+[[Quesiti/src_obm_2009_n1_f1#q06|src_obm_2009_n1_f1__Q06]]

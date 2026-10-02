@@ -33,7 +33,7 @@ level: INMO
 
 > In un triangolo a angolo acuto $ABC$ con $\angle A = 30^\circ$, $H$ è l'ortocentro e $M$ il punto medio di $BC$. Il punto $T$ è simmetrico a $H$ rispetto a $M$. Mostra che $AT = 2BC$.
 
-[[src_inmo_1995__Q01]]
+[[Quesiti/src_inmo_1995#q01|src_inmo_1995__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: INMO
 
 > Mostrare che ci sono infinite coppie $(a,b)$ di integri coprimi in modo tale che sia le equazioni quadratiche $x^2 + ax + b = 0$ che $x^2 + 2ax + b = 0$ abbiano radici di enti.
 
-[[src_inmo_1995__Q02]]
+[[Quesiti/src_inmo_1995#q02|src_inmo_1995__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: INMO
 
 > Indicare che il numero di sottogruppi di tre elementi $\{a,b,c\}$ di $\{1,2,\ldots,65\}$ con $a+b+c < 95$ è inferiore a quello di quelli con $a+b+c > 95$.
 
-[[src_inmo_1995__Q03]]
+[[Quesiti/src_inmo_1995#q03|src_inmo_1995__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: INMO
 
 > Il $\Gamma$ deve essere il cerchio situato all'interno di un triangolo $ABC$ e che tocca i lati $AB$ e $AC$ e l'incircolo $\Gamma'$ del triangolo esternamente. Indicare che il rapporto tra i raggi di $\Gamma$ e $\Gamma'$ è uguale a $\tan^2\!\dfrac{B-C}{4}$.
 
-[[src_inmo_1995__Q04]]
+[[Quesiti/src_inmo_1995#q04|src_inmo_1995__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: INMO
 
 > I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti superiori a $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Provare che $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1} < 2n-1.$$
 
-[[src_inmo_1995__Q05]]
+[[Quesiti/src_inmo_1995#q05|src_inmo_1995__Q05]]
 
 
 
@@ -169,4 +169,4 @@ level: INMO
 
 > Trova tutti i numeri primi $p$ per i quali $\dfrac{2^p - 1}{p}$ è un quadrato perfetto.
 
-[[src_inmo_1995__Q06]]
+[[Quesiti/src_inmo_1995#q06|src_inmo_1995__Q06]]

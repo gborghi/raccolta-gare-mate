@@ -33,7 +33,7 @@ level: China Girls' Mathematical Olympiad
 
 > Trova tutti gli integri positivi $n$ in modo tale che $2$ divida $2003n + 2002$. (Possibile da Wu Weichao)
 
-[[src_cn_cgmo_2002__Q01]]
+[[Quesiti/src_cn_cgmo_2002#q01|src_cn_cgmo_2002__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: China Girls' Mathematical Olympiad
 > 
 > (2) Prove che $n$ è un numero odd.
 
-[[src_cn_cgmo_2002__Q02]]
+[[Quesiti/src_cn_cgmo_2002#q02|src_cn_cgmo_2002__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: China Girls' Mathematical Olympiad
 
 > Trovare tutti i numeri interi positivi $k$ in modo tale che per tutti i numeri positivi $a$, $b$ e $c$ che soddisfano l'ineguaglianza $k(ab + bc + ca) > 5(a^2 + b^2 + c^2)$, debba esistere un triangolo con $a$, $b$ e $c$ come lunghezze dei suoi tre lati rispettivamente. (Posizionato da Qian Zhanwang)
 
-[[src_cn_cgmo_2002__Q03]]
+[[Quesiti/src_cn_cgmo_2002#q03|src_cn_cgmo_2002__Q03]]
 
 
 
@@ -108,7 +108,7 @@ level: China Girls' Mathematical Olympiad
 
 > Circles $O_1$, $O_2$ intersect at two points $B$ and $C$, and $BC$ is the diameter of circle $O_1$. Construct a tangent line of circle $O_1$ at $C$ and intersecting circle $O_2$ at another point $A$. Join $AB$ to intersecting circle $O_1$ at point $E$, then join $CE$ and extend it to intersect circle $O_2$ at point $F$. Assume $H$ is an arbitrary point on line segment $AF$. Extend $HE$ and extend it to intersect circle $O_1$ at point $G$, and extend the line $HG$ to intersect the extension of line $AC$ at point $D$. Prove: $$\frac{AH}{HF} = \frac{CD}{CF}.$$ (posed by Xiong Bin)
 
-![[src_cn_cgmo_2002__Q04.png]]
+![[src_cn_cgmo_2002__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -124,9 +124,9 @@ level: China Girls' Mathematical Olympiad
 
 > I cerchi $O_1$, $O_2$ si incrociano a due punti $B$ e $C$, e $BC$ è il diametro del cerchio $O_1$. Costruire una linea tangente del cerchio $O_1$ a $C$ e un cerchio intersezionante $O_2$ ad un altro punto $A$. Unire $AB$ al cerchio di intersezione $O_1$ al punto $E$, poi unire $CE$ e estendere al cerchio di intersezione $O_2$ al punto $F$. Supponiamo che $H$ sia un punto arbitrario sul segmento $AF$. Estendere $HE$ e estenderlo per incrociare il cerchio $O_1$ al punto $G$, e estendere la linea $HG$ per incrociare l'estensione della linea $AC$ al punto $D$. Prova: $$\frac{AH}{HF} = \frac{CD}{CF}.$$ (postato da Xiong Bin)
 
-![[src_cn_cgmo_2002__Q04.png]]
+![[src_cn_cgmo_2002__q04.png]]
 
-[[src_cn_cgmo_2002__Q04]]
+[[Quesiti/src_cn_cgmo_2002#q04|src_cn_cgmo_2002__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: China Girls' Mathematical Olympiad
 
 > Supponiamo che $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sia una permutazione arbitraria di $1, 2, \ldots, n$. Prove che $$\frac{1}{P_1 + P_2} + \frac{1}{P_2 + P_3} + \cdots + \frac{1}{P_{n-2} + P_{n-1}} + \frac{1}{P_{n-1} + P_n} > \frac{n-1}{n+2}.$$ (posato da Qiu Zonghu)
 
-[[src_cn_cgmo_2002__Q05]]
+[[Quesiti/src_cn_cgmo_2002#q05|src_cn_cgmo_2002__Q05]]
 
 
 
@@ -180,7 +180,7 @@ level: China Girls' Mathematical Olympiad
 
 > Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano $x^y = y^{x-y}$. (Possibile da Pan Chengbiao)
 
-[[src_cn_cgmo_2002__Q06]]
+[[Quesiti/src_cn_cgmo_2002#q06|src_cn_cgmo_2002__Q06]]
 
 
 
@@ -193,7 +193,7 @@ level: China Girls' Mathematical Olympiad
 
 > An acute triangle $ABC$ has three altitudes $AD$, $BE$ and $CF$ respectively. Prove that the perimeter of triangle $DEF$ is not over half of the perimeter of triangle $ABC$. (posed by Qi Jianxin)
 
-![[src_cn_cgmo_2002__Q07.png]]
+![[src_cn_cgmo_2002__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
@@ -209,9 +209,9 @@ level: China Girls' Mathematical Olympiad
 
 > Un triangolo acuto $ABC$ ha rispettivamente tre altitudini $AD$, $BE$ e $CF$. Prova che il perimetro del triangolo $DEF$ non è superiore alla metà del perimetro del triangolo $ABC$. (Posizionato da Qi Jianxin)
 
-![[src_cn_cgmo_2002__Q07.png]]
+![[src_cn_cgmo_2002__q07.png]]
 
-[[src_cn_cgmo_2002__Q07]]
+[[Quesiti/src_cn_cgmo_2002#q07|src_cn_cgmo_2002__Q07]]
 
 
 
@@ -224,7 +224,7 @@ level: China Girls' Mathematical Olympiad
 
 > Assume that $A_1, A_2, \ldots, A_8$ are eight points taken arbitrarily on a plane. For a directed line $l$ taken arbitrarily on the plane, the projections of $A_1, A_2, \ldots, A_8$ on line $l$ are $P_1, P_2, \ldots, P_8$ according to the direction of line $l$. We get one permutation for $1, 2, \ldots, 8$, namely, $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Assume that after these eight points are projected to every directed line on the plane, we get the number of different permutations as $N_8 = N(A_1, \ldots, A_8)$. Find the maximum value of $N_8$. (posed by Su Chun)
 
-![[src_cn_cgmo_2002__Q08.png]]
+![[src_cn_cgmo_2002__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -240,6 +240,6 @@ level: China Girls' Mathematical Olympiad
 
 > Supponiamo che $A_1, A_2, \ldots, A_8$ siano otto punti presi arbitrariamente su un piano. Per una linea diretta $l$ presa arbitrariamente sul piano, le proiezioni di $A_1, A_2, \ldots, A_8$ sulla linea $l$ sono $P_1, P_2, \ldots, P_8$ secondo la direzione della linea $l$. Abbiamo una permutazione per $1, 2, \ldots, 8$, vale a dire, $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Supponiamo che dopo che questi otto punti sono proiettati su ogni linea diretta sul piano, otteniamo il numero di diverse permutazioni come $N_8 = N(A_1, \ldots, A_8)$. Trova il valore massimo di $N_8$. (Posizionato da Su Chun)
 
-![[src_cn_cgmo_2002__Q08.png]]
+![[src_cn_cgmo_2002__q08.png]]
 
-[[src_cn_cgmo_2002__Q08]]
+[[Quesiti/src_cn_cgmo_2002#q08|src_cn_cgmo_2002__Q08]]

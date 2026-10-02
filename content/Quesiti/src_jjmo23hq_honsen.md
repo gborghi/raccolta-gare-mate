@@ -37,7 +37,7 @@ level: JJMO Honsen
 > 
 > Iniziamo con due punti positivi scelti e applichiamo una sequenza di operazioni. Tra tutti i buoni punti trovati (compresi i primi due), considerate quelli che si trovano su una singola linea verticale $x = c$ per un numero intero fisso $c$. Trovare il valore minimo possibile di questo conteggio, su tutte le scelte dei due punti buoni iniziali e su tutte le sequenze finite di operazioni valide, dato che almeno una operazione è stata applicata con successo.
 
-[[src_jjmo23hq_honsen__Q01]]
+[[Quesiti/src_jjmo23hq_honsen#q01|src_jjmo23hq_honsen__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: JJMO Honsen
 > 
 > \begin{itemize} \item C'è almeno un vertice in cui è scritto un numero reale positivo. \item Per due vertici adiacenti, il prodotto dei numeri scritti a quei due vertici è al massimo $1$. # Finire #
 
-[[src_jjmo23hq_honsen__Q02]]
+[[Quesiti/src_jjmo23hq_honsen#q02|src_jjmo23hq_honsen__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: JJMO Honsen
 
 > Che $ABCD$ sia un quadrilaterale convexo e che $E$ sia l'intersezione delle sue diagonali $AC$ e $BD$. Per il triangolo $ABE$, $P$ deve essere il punto in cui l'incircolo tocca il lato $AB$, e $P'$ deve essere il punto in cui l'escircolo opposto al vertice $A$ (l'escircolo $A$) tocca il lato $AB$. Per il triangolo $CDE$, $Q$ deve essere il punto in cui l'incircolo tocca il lato $CD$, e $Q'$ deve essere il punto in cui l'escircolo opposto al vertice $C$ (il $C$-escircolo) tocca il lato $CD$. Provare che $P$, $Q$, $P'$, $Q'$ sono conciclici. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jjmo23hq_honsen__Q03]]
+[[Quesiti/src_jjmo23hq_honsen#q03|src_jjmo23hq_honsen__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: JJMO Honsen
 > 
 > Qui, un \emph{$p$-th potenza} è un intero positivo che può essere espresso come $m^p$ per qualche intero positivo $m$. Inoltre, $p^0 = 1$ è considerato una potenza $p$-th (cioè $1 = 1^p$).
 
-[[src_jjmo23hq_honsen__Q04]]
+[[Quesiti/src_jjmo23hq_honsen#q04|src_jjmo23hq_honsen__Q04]]
 
 
 
@@ -170,4 +170,4 @@ level: JJMO Honsen
 > 
 > Qui, la scheda $n + 1$ si riferisce alla scheda $1$.
 
-[[src_jjmo23hq_honsen__Q05]]
+[[Quesiti/src_jjmo23hq_honsen#q05|src_jjmo23hq_honsen__Q05]]

@@ -32,7 +32,7 @@ level: kangourou
 
 > Andrea and Julius play dice as follows. Together they throw six dice (traditional, equals): if he throws 3 out of at least one dice, Andrew earns a euro from Julius; otherwise, Julius earns two euros from Andrew. Is it a fair game or is it advantageous for either of us? In this second case, for whom?
 
-[[src_kangourou_2023_student_finale__QS1]]
+[[Quesiti/src_kangourou_2023_student_finale#qs1|src_kangourou_2023_student_finale__QS1]]
 
 
 
@@ -43,7 +43,7 @@ level: kangourou
 
 *Massimo numero di mentitori su isola a 15 regioni*
 
-![[src_kangourou_2023_student_finale__probS2.png]]
+![[src_kangourou_2023_student_finale__probs2.png]]
 
 > Un'isola è ripartita in 15 regioni come indicato nella figura. In ogni regione vive uno e un solo abitante che o dice sempre la verità o mente sempre. Ogni abitante afferma: "Tra i miei vicini c'è almeno una persona che mente sempre". Quanti possono essere al massimo gli abitanti che mentono sempre? (Due abitanti si intendono vicini quando le loro regioni condividono un segmento del loro bordo, non necessariamente un intero lato di una delle due.) (vedi figura)
 
@@ -59,11 +59,11 @@ level: kangourou
 
 Maximum number of liars on an island in 15 regions
 
-![[src_kangourou_2023_student_finale__probS2.png]]
+![[src_kangourou_2023_student_finale__probs2.png]]
 
 > One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person in my neighborhood who lies all the time". How many people can be at most lying all the time? (Two inhabitants mean neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
 
-[[src_kangourou_2023_student_finale__QS2]]
+[[Quesiti/src_kangourou_2023_student_finale#qs2|src_kangourou_2023_student_finale__QS2]]
 
 
 
@@ -89,7 +89,7 @@ Maximum number of liars on an island in 15 regions
 
 > Mark claims to have managed to build a polyhedron (not degenerate) such that each of its flat sections is a triangle (eventually degenerate). Can we believe him?
 
-[[src_kangourou_2023_student_finale__QS3]]
+[[Quesiti/src_kangourou_2023_student_finale#qs3|src_kangourou_2023_student_finale__QS3]]
 
 
 
@@ -116,7 +116,7 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 > If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What about$n$?
 
-[[src_kangourou_2023_student_finale__QS4]]
+[[Quesiti/src_kangourou_2023_student_finale#qs4|src_kangourou_2023_student_finale__QS4]]
 
 
 
@@ -127,7 +127,7 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 *Numero coppie di punti a distanza massima fra n punti*
 
-![[src_kangourou_2023_student_finale__probS5.png]]
+![[src_kangourou_2023_student_finale__probs5.png]]
 
 > Assegnati $n$ punti distinti nel piano ($n \geq 2$), che cosa si può dire, al variare di $n$, sul numero delle coppie di tali punti che realizzano la massima distanza possibile?
 
@@ -143,11 +143,11 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 *Maximum number of pairs of points between n points*
 
-![[src_kangourou_2023_student_finale__probS5.png]]
+![[src_kangourou_2023_student_finale__probs5.png]]
 
 > Assigned $n$ distinct points in the plane ($n \geq 2$), what can be said, when $n$ varies, about the number of pairs of such points that reach the maximum possible distance?
 
-[[src_kangourou_2023_student_finale__QS5]]
+[[Quesiti/src_kangourou_2023_student_finale#qs5|src_kangourou_2023_student_finale__QS5]]
 
 
 
@@ -176,4 +176,4 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 > Whether $n$ a fixed positive integer and $\{a_1, a_2, \ldots, a_n\}$, $\{b_1, b_2, \ldots, b_n\}$ two non-negative number sequences such as $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for each $k$ between $1$ and $n$ included. To show that it is not said to have $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$ but that this second inequality is certainly valid if both sequences are non-growing.
 
-[[src_kangourou_2023_student_finale__QS6]]
+[[Quesiti/src_kangourou_2023_student_finale#qs6|src_kangourou_2023_student_finale__QS6]]

@@ -35,7 +35,7 @@ level: China Girls' Mathematical Olympiad
 > Che $n$ sia un numero intero superiore a due, e che $A_1, A_2, \ldots, A_{2n}$ sia in coppia un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$. Determinare il valore massimo di $\sum_{i=1}^{2n} \dfrac{|A_i \cap A_{i+1}|}{|A_i| \cdot |A_{i+1}|}$. (Qui, abbiamo impostato $A_{2n+1} = A_1$. Per un insieme $X$, $|X|$ indica il numero di elementi in $X$.)
 
 **Risposta:** n
-[[src_cn_cgmo_2010__Q01]]
+[[Quesiti/src_cn_cgmo_2010#q01|src_cn_cgmo_2010__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Girls' Mathematical Olympiad
 
 > In triangle $ABC$, $AB = AC$. Point $D$ is the midpoint of side $BC$. Point $E$ lies outside the circle $ABC$ such that $CE \perp AB$ and $BE = BD$. Let $M$ be the midpoint of segment $BE$. Point $F$ lies on the minor arc $AB$ of the circumcircle of triangle $ABD$ such that $MF \perp BE$. Prove that $ED \ge FD$.
 
-![[src_cn_cgmo_b11_w185__Q02.png]]
+![[src_cn_cgmo_b11_w185__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -64,9 +64,9 @@ level: China Girls' Mathematical Olympiad
 
 > In triangolo $ABC$, $AB = AC$. Il punto $D$ è il punto medio del lato $BC$. Il punto $E$ si trova al di fuori del cerchio $ABC$ in modo tale che $CE \perp AB$ e $BE = BD$. Il segmento $BE$ deve essere il punto medio del segmento $M$. Il punto $F$ si trova sull'arco minore $AB$ del circoncircolo del triangolo $ABD$ in modo tale che $MF \perp BE$. Prove che $ED \ge FD$.
 
-![[src_cn_cgmo_b11_w185__Q02.png]]
+![[src_cn_cgmo_b11_w185__q02.png]]
 
-[[src_cn_cgmo_2010__Q02]]
+[[Quesiti/src_cn_cgmo_2010#q02|src_cn_cgmo_2010__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: China Girls' Mathematical Olympiad
 
 > Prove che per ogni dato numero intero positivo $n$ esiste un primo $p$ e un intero $m$ tale che (a) $p \equiv 5 \pmod{6}$; (b) $p \nmid n$; (c) $n \equiv m^2 \pmod{p}$.
 
-[[src_cn_cgmo_2010__Q03]]
+[[Quesiti/src_cn_cgmo_2010#q03|src_cn_cgmo_2010__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: China Girls' Mathematical Olympiad
 
 > $x_1, x_2, \ldots, x_n$ (dove $n \ge 2$) siano numeri reali con $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Provare che $$\sum_{k=1}^{n} \left(1 - \frac{k}{\sum_{i=1}^{n} i x_i^2}\right)^2 \cdot \frac{x_k^2}{k} \le \left(\frac{n-1}{n+1}\right)^2 \sum_{k=1}^{n} \frac{x_k^2}{k}.$$ determina quando la parità è valida.
 
-[[src_cn_cgmo_2010__Q04]]
+[[Quesiti/src_cn_cgmo_2010#q04|src_cn_cgmo_2010__Q04]]
 
 
 
@@ -138,7 +138,7 @@ level: China Girls' Mathematical Olympiad
 
 > In acute triangle $ABC$ with $AB = AC$, let $M$ be the midpoint of side $BC$. The exterior angle bisector of $\angle BAC$ meets ray $BC$ at $P$. Points $K$ and $F$ lie on line $PA$ such that $MF \perp BC$ and $MK \perp PA$. Prove that $BC = PF + AK$.
 
-![[src_cn_cgmo_b11_w193__Q05.png]]
+![[src_cn_cgmo_b11_w193__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -154,9 +154,9 @@ level: China Girls' Mathematical Olympiad
 
 > Nel triangolo acuto $ABC$ con $AB = AC$, $M$ deve essere il punto medio del lato $BC$. Il bisettore di angolo esterno di $\angle BAC$ incontra il raggio $BC$ a $P$. I punti $K$ e $F$ si trovano sulla riga $PA$ in modo tale che $MF \perp BC$ e $MK \perp PA$. Prove che $BC = PF + AK$.
 
-![[src_cn_cgmo_b11_w193__Q05.png]]
+![[src_cn_cgmo_b11_w193__q05.png]]
 
-[[src_cn_cgmo_2010__Q05]]
+[[Quesiti/src_cn_cgmo_2010#q05|src_cn_cgmo_2010__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: China Girls' Mathematical Olympiad
 > $n$ sia un numero intero superiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, diciamo che $j$ si trova tra $i$ e $k$ se $i < j < k$ o $k < j < i$. (Per esempio, nella permutation $(1, 3, 2, 4)$, $3$ si trova tra $1$ e $4$, e $3$ non si trova tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutations distinte di $(1, 2, \ldots, n)$ in modo tale che tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non si trovi tra gli altri due in ogni permutation $p \in S$. Determinare il valore massimo di $m$.
 
 **Risposta:** $2^{n-1}$
-[[src_cn_cgmo_2010__Q06]]
+[[Quesiti/src_cn_cgmo_2010#q06|src_cn_cgmo_2010__Q06]]
 
 
 
@@ -214,4 +214,4 @@ level: China Girls' Mathematical Olympiad
 > Determinare il numero minimo odd $n > 5$ che soddisfa le seguenti condizioni: ci sono interi positivi $m_1, n_1, m_2, n_2$ in modo che $n = m_1^2 + n_1^2 + (n_1 + 1)^2 = m_2^2 + n_2^2 + (n_2 + 1)^2$ e $m_1, n_1, m_2, n_2$ siano tutti diversi tra loro.
 
 **Risposta:** 261
-[[src_cn_cgmo_2010__Q07]]
+[[Quesiti/src_cn_cgmo_2010#q07|src_cn_cgmo_2010__Q07]]

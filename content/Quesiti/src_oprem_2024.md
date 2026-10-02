@@ -47,7 +47,7 @@ level: Olympiades Première
 > 
 > **10.** A table of $n$ rows and $p$ columns contains real numbers. We rearrange each row from left to right in increasing order, then each column in turn from bottom to top in increasing order (here $n=3$ and $p=5$). Demonstrate that after this second operation each row remains sorted, always in increasing order from left to right.
 
-![[src_oprem_2024__Q01.png]]
+![[src_oprem_2024__q01.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]]
@@ -93,9 +93,9 @@ level: Olympiades Première
 > 
 > **10.** Una tabella di righe $n$ e colonne $p$ contiene numeri reali. Riordiniamo ogni riga da sinistra a destra in ordine crescente, poi ogni colonna a sua volta dal basso verso l'alto in ordine crescente (qui $n=3$ e $p=5$). Dimostra che dopo questa seconda operazione ogni riga rimane ordinata, sempre in ordine crescente da sinistra a destra.
 
-![[src_oprem_2024__Q01.png]]
+![[src_oprem_2024__q01.png]]
 
-[[src_oprem_2024__Q01]]
+[[Quesiti/src_oprem_2024#q01|src_oprem_2024__Q01]]
 
 
 
@@ -176,7 +176,7 @@ level: Olympiades Première
 > 
 > **d.** Propose a value of $n\ge 2$ for which this inequality furnishes a lower bound larger than that of question **11.b**.
 
-![[src_oprem_2024__Q02.png]]
+![[src_oprem_2024__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
@@ -258,9 +258,9 @@ level: Olympiades Première
 > 
 > **d.** Proporre un valore di $n\ge 2$ per il quale questa disuguaglianza fornisce un limite inferiore maggiore di quello della domanda **11.b**.
 
-![[src_oprem_2024__Q02.png]]
+![[src_oprem_2024__q02.png]]
 
-[[src_oprem_2024__Q02]]
+[[Quesiti/src_oprem_2024#q02|src_oprem_2024__Q02]]
 
 
 
@@ -305,7 +305,7 @@ level: Olympiades Première
 > 
 > **c.** Conclude by considering the equilateral triangle whose bottom base is composed of the $n-2$ leftmost numbers of the last line.
 
-![[src_oprem_2024__Q03.png]]
+![[src_oprem_2024__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
@@ -355,6 +355,6 @@ level: Olympiades Première
 > 
 > **c.** Concludi considerando il triangolo equilaterale la cui base inferiore è composta dai numeri $n-2$ più a sinistra dell'ultima linea.
 
-![[src_oprem_2024__Q03.png]]
+![[src_oprem_2024__q03.png]]
 
-[[src_oprem_2024__Q03]]
+[[Quesiti/src_oprem_2024#q03|src_oprem_2024__Q03]]

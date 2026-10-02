@@ -34,7 +34,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri positivi $m$, $n$ dove $n$ è odd, che soddisfano $$\frac{1}{m} + \frac{1}{n} = \frac{1}{12}.$$
 
-[[src_bmo1_2002__Q01]]
+[[Quesiti/src_bmo1_2002#q01|src_bmo1_2002__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Il quadrilaterale $ABCD$ è inserito in un cerchio. Le diagonali $AC$, $BD$ si incontrano a $Q$. Le linee $DA$ estese oltre $A$ e $CB$ estese oltre $B$ si incontrano a $P$. Dato che $CD = CP = DQ$, dimostrare che $\angle CAD = 60^\circ$.
 
-[[src_bmo1_2002__Q02]]
+[[Quesiti/src_bmo1_2002#q02|src_bmo1_2002__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 1
 
 > Trova tutte le soluzioni reali positive dell'equazione $$x + \lfloor x \rfloor + \{x\} = \lfloor x + \lfloor x \rfloor \rfloor + \frac{1}{2}$$ dove $\lfloor t \rfloor$ indica il numero intero più grande inferiore o uguale al numero reale $t$.
 
-[[src_bmo1_2002__Q03]]
+[[Quesiti/src_bmo1_2002#q03|src_bmo1_2002__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: BMO Round 1
 
 > Dodici persone sono sedute attorno a un tavolo circolare. In quanti modi sei coppie di persone possono stringersi le mani in modo che non ci siano due persone che si stringeranno le mani sedute accanto? (A nessuno è permesso stringersi la mano di più di una persona contemporaneamente.)
 
-[[src_bmo1_2002__Q04]]
+[[Quesiti/src_bmo1_2002#q04|src_bmo1_2002__Q04]]
 
 
 
@@ -147,4 +147,4 @@ level: BMO Round 1
 
 > $f$ è una funzione da $\mathbb{Z}^+$ a $\mathbb{Z}^+$, dove $\mathbb{Z}^+$ è l'insieme di integri non negativi, che ha le seguenti proprietà: a) $f(n+1) > f(n)$ per ogni $n \in \mathbb{Z}^+$, b) $f(f(n)) = f(n) + n$ per tutti $m$, $n \in \mathbb{Z}^+$. Trova tutti i valori possibili di $f(2001)$.
 
-[[src_bmo1_2002__Q05]]
+[[Quesiti/src_bmo1_2002#q05|src_bmo1_2002__Q05]]

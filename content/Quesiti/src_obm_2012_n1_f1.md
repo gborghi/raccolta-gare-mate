@@ -39,7 +39,7 @@ level: OBM Nível 1
 > (A) 3 \quad (B) 6 \quad (C) 10 \quad (D) 23 \quad (E) 30
 
 **Risposta:** E
-[[src_obm_2012_n1_f1__Q01]]
+[[Quesiti/src_obm_2012_n1_f1#q01|src_obm_2012_n1_f1__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: OBM Nível 1
 > (A) $\dfrac{1}{20}$ \quad (B) $\dfrac{1}{10}$ \quad (C) $\dfrac{1}{5}$ \quad (D) $\dfrac{1}{4}$ \quad (E) $\dfrac{1}{2}$
 
 **Risposta:** A
-[[src_obm_2012_n1_f1__Q02]]
+[[Quesiti/src_obm_2012_n1_f1#q02|src_obm_2012_n1_f1__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: OBM Nível 1
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 9 \quad (E) infinitamente molti
 
 **Risposta:** B
-[[src_obm_2012_n1_f1__Q03]]
+[[Quesiti/src_obm_2012_n1_f1#q03|src_obm_2012_n1_f1__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: OBM Nível 1
 > 
 > (A) 15 cm \quad (B) 18 cm \quad (C) 26 cm \quad (D) 39 cm \quad (E) 81 cm
 
-![[src_obm_2012_n1_f1__Q04.png]]
+![[src_obm_2012_n1_f1__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
@@ -137,10 +137,10 @@ level: OBM Nível 1
 > 
 > (A) 15 cm \quad (B) 18 cm \quad (C) 26 cm \quad (D) 39 cm \quad (E) 81 cm
 
-![[src_obm_2012_n1_f1__Q04.png]]
+![[src_obm_2012_n1_f1__q04.png]]
 
 **Risposta:** C
-[[src_obm_2012_n1_f1__Q04]]
+[[Quesiti/src_obm_2012_n1_f1#q04|src_obm_2012_n1_f1__Q04]]
 
 
 
@@ -172,7 +172,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 15 \quad (E) 18
 
 **Risposta:** A
-[[src_obm_2012_n1_f1__Q05]]
+[[Quesiti/src_obm_2012_n1_f1#q05|src_obm_2012_n1_f1__Q05]]
 
 
 
@@ -205,7 +205,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
 
 **Risposta:** D
-[[src_obm_2012_n1_f1__Q06]]
+[[Quesiti/src_obm_2012_n1_f1#q06|src_obm_2012_n1_f1__Q06]]
 
 
 
@@ -220,7 +220,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 5 cm \quad (B) 9 cm \quad (C) 18 cm \quad (D) 34 cm \quad (E) 36 cm
 
-![[src_obm_2012_n1_f1__Q07.png]]
+![[src_obm_2012_n1_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
@@ -238,10 +238,10 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 5 cm \quad (B) 9 cm \quad (C) 18 cm \quad (D) 34 cm \quad (E) 36 cm
 
-![[src_obm_2012_n1_f1__Q07.png]]
+![[src_obm_2012_n1_f1__q07.png]]
 
 **Risposta:** C
-[[src_obm_2012_n1_f1__Q07]]
+[[Quesiti/src_obm_2012_n1_f1#q07|src_obm_2012_n1_f1__Q07]]
 
 
 
@@ -273,7 +273,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 3 \quad (B) 4 \quad (C) 6 \quad (D) 8 \quad (E) 8
 
 **Risposta:** C
-[[src_obm_2012_n1_f1__Q08]]
+[[Quesiti/src_obm_2012_n1_f1#q08|src_obm_2012_n1_f1__Q08]]
 
 
 
@@ -290,7 +290,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 6 \quad (B) 12 \quad (C) 60 \quad (D) 120 \quad (E) infinitely many
 
-![[src_obm_2012_n1_f1__Q09.png]]
+![[src_obm_2012_n1_f1__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -311,10 +311,10 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 6 \quad (B) 12 \quad (C) 60 \quad (D) 120 \quad (E) infinitamente molti
 
-![[src_obm_2012_n1_f1__Q09.png]]
+![[src_obm_2012_n1_f1__q09.png]]
 
 **Risposta:** C
-[[src_obm_2012_n1_f1__Q09]]
+[[Quesiti/src_obm_2012_n1_f1#q09|src_obm_2012_n1_f1__Q09]]
 
 
 
@@ -329,7 +329,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 5 \quad (B) 10 \quad (C) 12 \quad (D) 20 \quad (E) 20
 
-![[src_obm_2012_n1_f1__Q10.png]]
+![[src_obm_2012_n1_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -347,10 +347,10 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 5 \quad (B) 10 \quad (C) 12 \quad (D) 20 \quad (E) 20
 
-![[src_obm_2012_n1_f1__Q10.png]]
+![[src_obm_2012_n1_f1__q10.png]]
 
 **Risposta:** D
-[[src_obm_2012_n1_f1__Q10]]
+[[Quesiti/src_obm_2012_n1_f1#q10|src_obm_2012_n1_f1__Q10]]
 
 
 
@@ -382,7 +382,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 200 g \quad (B) 208 g \quad (C) 256 g \quad (D) 272 g \quad (E) 280 g
 
 **Risposta:** D
-[[src_obm_2012_n1_f1__Q11]]
+[[Quesiti/src_obm_2012_n1_f1#q11|src_obm_2012_n1_f1__Q11]]
 
 
 
@@ -415,7 +415,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 17 \quad (E) 19
 
 **Risposta:** D
-[[src_obm_2012_n1_f1__Q12]]
+[[Quesiti/src_obm_2012_n1_f1#q12|src_obm_2012_n1_f1__Q12]]
 
 
 
@@ -461,7 +461,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) $32\%+20\%$ \quad (B) $32\%-20\%$ \quad (C) $32\%\times 20\%$ \quad (D) $32\%\div 20\%$ \quad (E) $\dfrac{32\%+20\%}{2}$
 
 **Risposta:** C
-[[src_obm_2012_n1_f1__Q13]]
+[[Quesiti/src_obm_2012_n1_f1#q13|src_obm_2012_n1_f1__Q13]]
 
 
 
@@ -494,7 +494,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 38 \quad (B) 96 \quad (C) 108 \quad (D) 576 \quad (E) 648
 
 **Risposta:** E
-[[src_obm_2012_n1_f1__Q14]]
+[[Quesiti/src_obm_2012_n1_f1#q14|src_obm_2012_n1_f1__Q14]]
 
 
 
@@ -527,7 +527,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 68 \quad (B) 70 \quad (C) 72 \quad (D) 100 \quad (E) 2012
 
 **Risposta:** B
-[[src_obm_2012_n1_f1__Q15]]
+[[Quesiti/src_obm_2012_n1_f1#q15|src_obm_2012_n1_f1__Q15]]
 
 
 
@@ -560,7 +560,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 5 \quad (B) 10 \quad (C) 20 \quad (D) 25 \quad (E) 50
 
 **Risposta:** A
-[[src_obm_2012_n1_f1__Q16]]
+[[Quesiti/src_obm_2012_n1_f1#q16|src_obm_2012_n1_f1__Q16]]
 
 
 
@@ -593,7 +593,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > (A) 13 \quad (B) 14 \quad (C) 15 \quad (D) 16 \quad (E) 20
 
 **Risposta:** D
-[[src_obm_2012_n1_f1__Q17]]
+[[Quesiti/src_obm_2012_n1_f1#q17|src_obm_2012_n1_f1__Q17]]
 
 
 
@@ -608,7 +608,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 100 \quad (B) 102 \quad (C) 104 \quad (D) 106 \quad (E) 108
 
-![[src_obm_2012_n1_f1__Q18.png]]
+![[src_obm_2012_n1_f1__q18.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -627,10 +627,10 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 100 \quad (B) 102 \quad (C) 104 \quad (D) 106 \quad (E) 108
 
-![[src_obm_2012_n1_f1__Q18.png]]
+![[src_obm_2012_n1_f1__q18.png]]
 
 **Risposta:** E
-[[src_obm_2012_n1_f1__Q18]]
+[[Quesiti/src_obm_2012_n1_f1#q18|src_obm_2012_n1_f1__Q18]]
 
 
 
@@ -645,7 +645,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 15
 
-![[src_obm_2012_n1_f1__Q19.png]]
+![[src_obm_2012_n1_f1__q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -664,10 +664,10 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 15
 
-![[src_obm_2012_n1_f1__Q19.png]]
+![[src_obm_2012_n1_f1__q19.png]]
 
 **Risposta:** C
-[[src_obm_2012_n1_f1__Q19]]
+[[Quesiti/src_obm_2012_n1_f1#q19|src_obm_2012_n1_f1__Q19]]
 
 
 
@@ -682,7 +682,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-![[src_obm_2012_n1_f1__Q20.png]]
+![[src_obm_2012_n1_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -701,7 +701,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-![[src_obm_2012_n1_f1__Q20.png]]
+![[src_obm_2012_n1_f1__q20.png]]
 
 **Risposta:** B
-[[src_obm_2012_n1_f1__Q20]]
+[[Quesiti/src_obm_2012_n1_f1#q20|src_obm_2012_n1_f1__Q20]]

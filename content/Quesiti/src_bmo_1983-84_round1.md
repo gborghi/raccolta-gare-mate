@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
 
-[[src_bmo_1983-84_round1__Q01]]
+[[Quesiti/src_bmo_1983-84_round1#q01|src_bmo_1983-84_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Che $a_n$ sia il numero dei coefficienti binomiali $\binom{n}{r}$ ($0 \le r \le n$) che lasciano il rimanente $1$ alla divisione da $3$, e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
 
-[[src_bmo_1983-84_round1__Q02]]
+[[Quesiti/src_bmo_1983-84_round1#q02|src_bmo_1983-84_round1__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 1
 > 
 > (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^4 + \left(\frac{b}{c}\right)^4 + \left(\frac{c}{d}\right)^4 + \left(\frac{d}{e}\right)^4 + \left(\frac{e}{a}\right)^4 \ge \frac{b}{a} + \frac{c}{b} + \frac{d}{c} + \frac{e}{d} + \frac{a}{e}.$$
 
-[[src_bmo_1983-84_round1__Q03]]
+[[Quesiti/src_bmo_1983-84_round1#q03|src_bmo_1983-84_round1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 > 
 > (Per un numero reale $x$ la "parte integrale" $[x]$ è il numero intero più grande che è $\le x$.)
 
-[[src_bmo_1983-84_round1__Q04]]
+[[Quesiti/src_bmo_1983-84_round1#q04|src_bmo_1983-84_round1__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: BMO Round 1
 
 > Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$; $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{AC} \times (\text{area of } E).$$
 
-[[src_bmo_1983-84_round1__Q05]]
+[[Quesiti/src_bmo_1983-84_round1#q05|src_bmo_1983-84_round1__Q05]]
 
 
 
@@ -181,7 +181,7 @@ level: BMO Round 1
 
 > Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $a^2x - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2y - a$ che $ay^2 - y$ siano divisibili da $m$.
 
-[[src_bmo_1983-84_round1__Q06]]
+[[Quesiti/src_bmo_1983-84_round1#q06|src_bmo_1983-84_round1__Q06]]
 
 
 
@@ -211,4 +211,4 @@ level: BMO Round 1
 
 > $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$ dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
 
-[[src_bmo_1983-84_round1__Q07]]
+[[Quesiti/src_bmo_1983-84_round1#q07|src_bmo_1983-84_round1__Q07]]

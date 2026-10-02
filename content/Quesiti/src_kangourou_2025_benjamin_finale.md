@@ -34,7 +34,7 @@ level: kangourou
 > What is the smallest positive integer whose sum is $100$? Explain how you determined it.
 
 **Answer:** 199999999999
-[[src_kangourou_2025_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb1|src_kangourou_2025_benjamin_finale__QB1]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index, $3$ middle, $4$ ring, $5$ short; then she turned back: $6$ ring, $7$ middle, $8$ index, $9$ thumb. Then it divides up: $10$ index, $11$ medium and so on, until it gets to $999$. What finger?
 
 **Answer:** medio
-[[src_kangourou_2025_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb2|src_kangourou_2025_benjamin_finale__QB2]]
 
 
 
@@ -108,7 +108,7 @@ level: kangourou
 > (see figure)
 
 **Answer:** a)260 b)60
-[[src_kangourou_2025_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb3|src_kangourou_2025_benjamin_finale__QB3]]
 
 
 
@@ -136,7 +136,7 @@ level: kangourou
 > A circular park is surrounded by a path lit by lightning. Simona and Tania counted the lights, but separately, starting from different points and moving both in the same direction. What was the $20$-eighth lamp for Simona was the $7$-mo for Tania, what was the $7$-mo for Simona was the $94$-eighth for Tania. How many lights are there?
 
 **Answer:** 100
-[[src_kangourou_2025_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb4|src_kangourou_2025_benjamin_finale__QB4]]
 
 
 
@@ -165,7 +165,7 @@ Maximum red numbers sum of green and blue (1-9)
 > Each integer between $1$ and $9$ included is assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. How many red numbers can be at most?
 
 **Answer:** 4
-[[src_kangourou_2025_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb5|src_kangourou_2025_benjamin_finale__QB5]]
 
 
 
@@ -176,7 +176,7 @@ Maximum red numbers sum of green and blue (1-9)
 
 *Massimo cavalieri su griglia 4x4 con dichiarazioni*
 
-![[src_kangourou_2025_benjamin_finale__probB6.png]]
+![[src_kangourou_2025_benjamin_finale__probb6.png]]
 
 ```tikz
 \begin{document}
@@ -215,7 +215,7 @@ Maximum red numbers sum of green and blue (1-9)
 
 *Maximum riders on 4x4 grid with declarations*
 
-![[src_kangourou_2025_benjamin_finale__probB6.png]]
+![[src_kangourou_2025_benjamin_finale__probb6.png]]
 
 ```tikz
 \begin{document}
@@ -242,4 +242,4 @@ Maximum red numbers sum of green and blue (1-9)
 > **NOTE:** Two bricks are adjacent if they have an entire side in common.
 
 **Answer:** 4
-[[src_kangourou_2025_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb6|src_kangourou_2025_benjamin_finale__QB6]]

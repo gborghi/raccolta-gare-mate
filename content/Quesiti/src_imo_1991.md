@@ -40,7 +40,7 @@ Bound product of incenter-vertex over bisector ratios
 
 > Given a triangle ABC, let me be the center of its inscribed circle. The internal bisectors of the angles A, B, C meet the opposite sides in A′, B′, C′ respectively. Prove that 1 4 < AI · BI · CI AA ′ · BB ′ · CC ′ ≤ 8 27.
 
-[[src_imo_1991__Q01]]
+[[Quesiti/src_imo_1991#q01|src_imo_1991__Q01]]
 
 
 
@@ -69,7 +69,7 @@ Equally spaced totatives imply n prime or power of 2
 
 > Let n > 6 be an integer and a1, a2, . . . , ak be all the natural numbers less than n and relatively prime to n. If a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0, prove that n must be either a prime number or a power of 2.
 
-[[src_imo_1991__Q02]]
+[[Quesiti/src_imo_1991#q02|src_imo_1991__Q02]]
 
 
 
@@ -100,7 +100,7 @@ Equally spaced totatives imply n prime or power of 2
 
 > Let S = {1, 2, 3, . . . , 280}. Find the smallest integer n such that each nelement subset of S contains five numbers which are pairwise relatively prime. Second Day July 18, 1991 Time limit: 41 2 hours
 
-[[src_imo_1991__Q03]]
+[[Quesiti/src_imo_1991#q03|src_imo_1991__Q03]]
 
 
 
@@ -130,7 +130,7 @@ Equally spaced totatives imply n prime or power of 2
 > 
 > [A graph is a set of points, called vertices, together with a set of vertices that connect certain pairs of distinct vertices. Each pair of vertices $u$, $v$ belongs to at most one beam. The graph $G$ is connected if, for each pair of distinct vertices $x$, $y$, there is a succession of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ (with $0 \leq i < m$) is joined by a beam of $G$.]
 
-[[src_imo_1991__Q04]]
+[[Quesiti/src_imo_1991#q04|src_imo_1991__Q04]]
 
 
 
@@ -156,7 +156,7 @@ Equally spaced totatives imply n prime or power of 2
 
 > Whether $ABC$ a triangle and $P$ an internal point at $ABC$. Demonstrate that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30°$.
 
-[[src_imo_1991__Q05]]
+[[Quesiti/src_imo_1991#q05|src_imo_1991__Q05]]
 
 
 
@@ -185,4 +185,4 @@ Equally spaced totatives imply n prime or power of 2
 
 > An infinite sequence $x_0, x_1, x_2, \ldots$ of real numbers is said to be finite if there exists a constant $C$ such that $|x_i| \leq C$ for each $i \geq 0$. Given a real number $a > 1$, construct a finite sequence $x_0, x_1, x_2, \ldots$ such that $$|x_i - x_j| \cdot |i - j|^a \geq 1$$ for each pair of distinct nonnegative integers $i$, $j$.
 
-[[src_imo_1991__Q06]]
+[[Quesiti/src_imo_1991#q06|src_imo_1991__Q06]]

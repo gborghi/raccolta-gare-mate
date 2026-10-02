@@ -35,7 +35,7 @@ level: JJMO Yosen
 > Considerate i numeri interi positivi i cui numeri sono tutti distinti e non zero, in modo che qualunque coppia di numeri adiacenti venga estratta, il numero di due cifre risultante è un multiple di $7$. (Per esempio, da $123$ si possono togliere le coppie adiacenti $12$ e $23$, dando $2$ tali numeri a due cifre.) Tra tutti questi enti, trovare il più grande.
 
 **Risposta:** 98421
-[[src_jjmo15yq_yosen__Q01]]
+[[Quesiti/src_jjmo15yq_yosen#q01|src_jjmo15yq_yosen__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: JJMO Yosen
 > Trova il numero intero più grande che è al massimo $\sqrt{123456789}$.
 
 **Risposta:** 11111
-[[src_jjmo15yq_yosen__Q02]]
+[[Quesiti/src_jjmo15yq_yosen#q02|src_jjmo15yq_yosen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JJMO Yosen
 > Mettete i numeri interi $1, 2, 3, 4, 5, 6$, uno per uno, nelle caselle $\square$ dell'espressione seguente e calcolate il valore risultante. Tra tutti i valori disponibili, indicare quello più vicino a $1$. Qui $2^{\square}$ indica $2$ sollevato alla potenza scritta nella casella. $$\frac{2^{\square}+2^{\square}+2^{\square}}{2^{\square}+2^{\square}+2^{\square}}$$
 
 **Risposta:** 4/5
-[[src_jjmo15yq_yosen__Q03]]
+[[Quesiti/src_jjmo15yq_yosen#q03|src_jjmo15yq_yosen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JJMO Yosen
 > Let $ABCD$ essere un quadrato di lunghezza laterale $2$, e let $E$ essere il punto simmetrico a $B$ rispetto a $C$ (in modo che $C$ sia il punto medio del segmento $BE$). Una linea $l$ interseca il lato $AB$ al punto $P$. Quando la linea $l$ suddivide l'area del quadrato $ABCD$ e suddivide anche l'area del triangolo $CDE$, si trova la lunghezza del segmento $AP$.
 
 **Risposta:** 3-\sqrt{5}
-[[src_jjmo15yq_yosen__Q04]]
+[[Quesiti/src_jjmo15yq_yosen#q04|src_jjmo15yq_yosen__Q04]]
 
 
 
@@ -139,7 +139,7 @@ level: JJMO Yosen
 > \item In the leftmost column, among the three integers written, the integer in the topmost cell is the largest and the integer in the bottommost cell is the smallest.
 > \end{itemize}
 
-![[src_jjmo15yq_yosen__Q05.png]]
+![[src_jjmo15yq_yosen__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -156,10 +156,10 @@ level: JJMO Yosen
 
 > Considerare i modi per scrivere uno dei numeri interi distinti da $1$ a $9$ nelle celle di una griglia $3\times 3$ in modo da soddisfare le seguenti condizioni. Quanti sono questi modi? \begin{itemize} \item In ogni riga, tra i tre numeri interi scritti, il numero intero nella cella più destra è il più grande e il numero intero nella cella più sinistra è il più piccolo. \item Nella colonna più sinistra, tra i tre numeri interi scritti, il numero intero nella cella più alta è il più grande e il numero intero nella cella più bassa è il più piccolo. # Finire #
 
-![[src_jjmo15yq_yosen__Q05.png]]
+![[src_jjmo15yq_yosen__q05.png]]
 
 **Risposta:** 280
-[[src_jjmo15yq_yosen__Q05]]
+[[Quesiti/src_jjmo15yq_yosen#q05|src_jjmo15yq_yosen__Q05]]
 
 
 
@@ -188,7 +188,7 @@ level: JJMO Yosen
 > Nel piano ci sono due linee $l$ e $m$ che si incrociano al punto $S$. C'è un punto $P$ sulla linea $m$ distinto da $S$. Due cerchi distinti $\alpha$ e $\beta$ sono ciascuna tangente alla linea $m$ al punto $P$, e sono tangenti alla linea $l$ rispettivamente ai punti $T$ e $U$. Il $Q$ deve essere l'intersezione della linea $PU$ con $\alpha$ diversa da $P$. Quando il segmento $PT$ passa attraverso il punto medio del segmento $SQ$ e la lunghezza del segmento $PT$ è $1$, trovare la lunghezza del segmento $TU$.
 
 **Risposta:** \sqrt{3}
-[[src_jjmo15yq_yosen__Q06]]
+[[Quesiti/src_jjmo15yq_yosen#q06|src_jjmo15yq_yosen__Q06]]
 
 
 
@@ -217,7 +217,7 @@ level: JJMO Yosen
 > Per un intero positivo $k$, $P(k)$ indica il prodotto delle sue cifre. Trova tutti gli integri positivi $3$ a cifre $n$ soddisfacenti $n = 2P(n) + 27$.
 
 **Risposta:** 279, 587
-[[src_jjmo15yq_yosen__Q07]]
+[[Quesiti/src_jjmo15yq_yosen#q07|src_jjmo15yq_yosen__Q07]]
 
 
 
@@ -246,7 +246,7 @@ level: JJMO Yosen
 > $X$ sia un punto all'interno del triangolo equilaterale $ABC$. Il segmento $AX$ deve essere il punto medio di $M$. Supponiamo $\angle MBC = 54^\circ$ e $\angle MCB = 36^\circ$. Trova la misura di $\angle BXC$.
 
 **Risposta:** 150^\circ
-[[src_jjmo15yq_yosen__Q08]]
+[[Quesiti/src_jjmo15yq_yosen#q08|src_jjmo15yq_yosen__Q08]]
 
 
 
@@ -280,7 +280,7 @@ level: JJMO Yosen
 > $n$ sia un numero intero positivo. Supponiamo che i punti $n$ siano scelti dal piano $xy$ e soddisfino le seguenti condizioni. \begin{itemize} \item Ogni punto ha sia le sue $x$- che $y$-coordinate interi tra $0$ e $2017$ incluse. \item Per due punti distinti scelti $(a,b)$ e $(c,d)$, indipendentemente dal modo in cui i due punti sono scelti, $|a-c| \neq |b-d|$ vale. \end{itemize} $N$ sia il valore più grande di $n$ per il quale si può verificare tale situazione. In quanti modi si possono scegliere i punti $N$ dal piano $xy$ che soddisfano le condizioni?
 
 **Risposta:** 2^{2018}
-[[src_jjmo15yq_yosen__Q09]]
+[[Quesiti/src_jjmo15yq_yosen#q09|src_jjmo15yq_yosen__Q09]]
 
 
 
@@ -297,7 +297,7 @@ level: JJMO Yosen
 > \item For every integer $k$ from $1$ to $6$, the difference of the two numbers written in the $(k+1)$-th column from the left is greater than or equal to the difference of the two numbers written in the $k$-th column.
 > \end{itemize}
 
-![[src_jjmo15yq_yosen__Q10.png]]
+![[src_jjmo15yq_yosen__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -314,10 +314,10 @@ level: JJMO Yosen
 
 > Scrivere uno di ciascuno dei numeri interi distinti da $1$ a $14$ nelle celle di una griglia $2\times 7$ come mostrato di seguito. Quanti metodi di scrittura soddisfano le seguenti condizioni? \begin{itemize} \item In ogni riga, i sette numeri interi scritti sono disposti in ordine crescente da sinistra a destra. \item Per ogni numero intero $k$ da $1$ a $6$, la differenza tra i due numeri scritti nella colonna $(k+1)$ da sinistra è maggiore o uguale alla differenza tra i due numeri scritti nella colonna $k$. # Finire #
 
-![[src_jjmo15yq_yosen__Q10.png]]
+![[src_jjmo15yq_yosen__q10.png]]
 
 **Risposta:** 350
-[[src_jjmo15yq_yosen__Q10]]
+[[Quesiti/src_jjmo15yq_yosen#q10|src_jjmo15yq_yosen__Q10]]
 
 
 
@@ -347,7 +347,7 @@ level: JJMO Yosen
 > Quanti tuppi di numeri interi $(a, b, c, d)$ soddisfano l'equazione $$(a^2 + b^2)(c^2 + d^2) = 4abcd + 106\,?$$
 
 **Risposta:** 128
-[[src_jjmo15yq_yosen__Q11]]
+[[Quesiti/src_jjmo15yq_yosen#q11|src_jjmo15yq_yosen__Q11]]
 
 
 
@@ -382,4 +382,4 @@ level: JJMO Yosen
 > Un totale di giocatori $2^8 = 256$ hanno partecipato a un torneo di tennis di singola eliminazione. In questo torneo il campione è deciso come segue. In primo luogo, tutti i giocatori si allineano in una sola riga. \item Ripetere il seguente fino a quando non rimane solo un giocatore nella fila: prendere i giocatori della fila in ordine, due alla volta da una estremità, formando coppie e avere i due giocatori di ciascuna coppia giocare una partita. Il vincitore di ogni partita rimane in fila, mentre il perdente lascia la fila. Supponiamo che non si verifichino. Quando rimane solo un giocatore in fila, quel giocatore è il campione. A ogni giocatore viene assegnato un numero intero distinto da $1$ a $256$, e il campione di questo torneo aveva il numero $1$. Per un determinato numero intero $a$, è tenuto il seguente: in ogni partita giocata durante il torneo, lasciando $w$ il numero del giocatore vincente e $l$ il numero del giocatore perdente, $l - w \le a$ è tenuto. Trova il valore più piccolo di $a$ che può essere considerato tale.
 
 **Risposta:** 44
-[[src_jjmo15yq_yosen__Q12]]
+[[Quesiti/src_jjmo15yq_yosen#q12|src_jjmo15yq_yosen__Q12]]

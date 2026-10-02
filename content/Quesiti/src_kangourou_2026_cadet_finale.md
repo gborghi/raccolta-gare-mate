@@ -20,7 +20,7 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Cadet-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 <span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -34,7 +34,7 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 280
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Cadet-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 <span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_combinatoria,skill_astrazione"></span>
 
@@ -48,7 +48,7 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 729
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Cadet-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 <span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -62,7 +62,7 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** è un quadrato
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Cadet-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 <span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
@@ -76,7 +76,7 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1 o 2026
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Cadet-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 <span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
@@ -91,5 +91,5 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Cadet-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 

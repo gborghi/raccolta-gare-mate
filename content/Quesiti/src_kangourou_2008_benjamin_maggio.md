@@ -17,7 +17,7 @@ level: kangourou
 
 *Area triangolo equilatero inscritto vs meta cerchio*
 
-![[src_kangourou_2008_benjamin_maggio__probB1.png]]
+![[src_kangourou_2008_benjamin_maggio__probb1.png]]
 
 ```tikz
 \begin{document}
@@ -45,7 +45,7 @@ level: kangourou
 
 *Equilateral triangle area inscribed vs meta circle*
 
-![[src_kangourou_2008_benjamin_maggio__probB1.png]]
+![[src_kangourou_2008_benjamin_maggio__probb1.png]]
 
 ```tikz
 \begin{document}
@@ -62,7 +62,7 @@ level: kangourou
 > In the figure, you see a circle with an equilateral triangle inscribed. Is the area of the triangle larger, smaller or equal to half that of the circle? Reason your claims. (see figure)
 
 **Answer:** minore
-[[src_kangourou_2008_benjamin_maggio__QB1]]
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb1|src_kangourou_2008_benjamin_maggio__QB1]]
 
 
 
@@ -73,7 +73,7 @@ level: kangourou
 
 *Eliminare due caselle per rendere vera l'uguaglianza*
 
-![[src_kangourou_2008_benjamin_maggio__probB2.png]]
+![[src_kangourou_2008_benjamin_maggio__probb2.png]]
 
 > Nella griglia sottostante non si può eliminare il simbolo «$\times$», ma si possono eliminare due caselle, in modo che l'uguaglianza che ne risulta sia verificata. Scrivi tale uguaglianza.
 > 
@@ -91,14 +91,14 @@ level: kangourou
 
 *Remove two boxes to make the equality true*
 
-![[src_kangourou_2008_benjamin_maggio__probB2.png]]
+![[src_kangourou_2008_benjamin_maggio__probb2.png]]
 
 > In the underlying grid the symbol $\times$ cannot be deleted, but two boxes can be deleted, so that the resulting equality is verified. Write that equation.
 > 
 > $$1 \mid 2 \mid 9 \mid \times \mid 5 \mid - \mid 4 \mid \times \mid 3 \mid - \mid 6 \mid 8 \mid 0 \mid 8$$
 
 **Answer:** 129x5+3=648
-[[src_kangourou_2008_benjamin_maggio__QB2]]
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb2|src_kangourou_2008_benjamin_maggio__QB2]]
 
 
 
@@ -127,7 +127,7 @@ level: kangourou
 > Suppose you have randomly extracted ten integers greater than $0$. Can you always choose two so that their sum or their difference is a number divisible by $10$? If so, how? If not, why?
 
 **Answer:** si
-[[src_kangourou_2008_benjamin_maggio__QB3]]
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb3|src_kangourou_2008_benjamin_maggio__QB3]]
 
 
 
@@ -156,7 +156,7 @@ level: kangourou
 > An Isabella number is a palindrome number (whole greater than zero) that is divisible by $27$. What's Isabella's smallest number? (Remember that a palindrome number is a number that can be read indifferently from right to left or from left to right, such as the numbers $6226$ or $97579$.)
 
 **Answer:** 999
-[[src_kangourou_2008_benjamin_maggio__QB4]]
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb4|src_kangourou_2008_benjamin_maggio__QB4]]
 
 
 
@@ -191,7 +191,7 @@ level: kangourou
 > What is the maximum number of flavors that can be present in packages?
 
 **Answer:** 8 gusti
-[[src_kangourou_2008_benjamin_maggio__QB5]]
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb5|src_kangourou_2008_benjamin_maggio__QB5]]
 
 
 
@@ -220,4 +220,4 @@ level: kangourou
 > Let's say an integer greater than zero is LIETO if its square (i.e. the product of the number itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all LIETI numbers less than $1000$.
 
 **Answer:** 420 e 840
-[[src_kangourou_2008_benjamin_maggio__QB6]]
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb6|src_kangourou_2008_benjamin_maggio__QB6]]

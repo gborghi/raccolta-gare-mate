@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > Paulo has three dice with the same markings, such that on each die the sum of the numbers on opposite faces is always $7$. He glues the dice together so that each pair of touching faces has the same number, then places them on a transparent table as shown in the figure. The sum of all numbers on the eleven visible faces is $36$. What is the sum of the numbers on the three faces that are in contact with the table?
 
-![[src_obm_2000_n1_f3__Q01.png]]
+![[src_obm_2000_n1_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -35,9 +35,9 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 
 > Paulo ha tre dadi con le stesse marcature, in modo che su ogni dado la somma dei numeri su facce opposte sia sempre $7$. Colla i dadi insieme in modo che ogni coppia di volti che si toccano abbia lo stesso numero, e poi li pone su un tavolo trasparente come mostrato nella figura. La somma di tutti i numeri sulle undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce che sono in contatto con la tavola?
 
-![[src_obm_2000_n1_f3__Q01.png]]
+![[src_obm_2000_n1_f3__q01.png]]
 
-[[src_obm_2000_n1_f3__Q01]]
+[[Quesiti/src_obm_2000_n1_f3#q01|src_obm_2000_n1_f3__Q01]]
 
 
 
@@ -50,7 +50,7 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 
 > An equilateral triangle can be cut into smaller equilateral triangles. The figure below shows how to cut an equilateral triangle into $7$ smaller equilateral triangles. Show how to cut an equilateral triangle into $20$ smaller equilateral triangles.
 
-![[src_obm_2000_n1_f3__Q02.png]]
+![[src_obm_2000_n1_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -66,9 +66,9 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 
 > Un triangolo equilaterale può essere tagliato in triangoli equilaterali più piccoli. La figura seguente mostra come tagliare un triangolo equilaterale in triangoli equilaterali più piccoli $7$. Indicare come tagliare un triangolo equilaterale in $20$ triangoli equilaterali più piccoli.
 
-![[src_obm_2000_n1_f3__Q02.png]]
+![[src_obm_2000_n1_f3__q02.png]]
 
-[[src_obm_2000_n1_f3__Q02]]
+[[Quesiti/src_obm_2000_n1_f3#q02|src_obm_2000_n1_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 
 > Isabel ha due mazzi, ognuno con carte $50$. In ciascuno dei due mazzi sono scritti i numeri da $1$ a $100$, un numero su ciascuna faccia delle carte (cioè due numeri per carta). A causa di un difetto di stampa, la distribuzione dei numeri delle schede non è uguale in entrambi i mazzi (ad esempio, in un mazzo il numero $1$ appare sulla stessa scheda come $2$; nell'altro, $1$ appare con $0$). Mostrare come Isabel può organizzare le carte $100$ a faccia in giù su un tavolo in modo che, quando le carte sono rivolte a faccia in su, vengono mostrati tutti i numeri da $1$ a $100$.
 
-[[src_obm_2000_n1_f3__Q03]]
+[[Quesiti/src_obm_2000_n1_f3#q03|src_obm_2000_n1_f3__Q03]]
 
 
 
@@ -126,4 +126,4 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 > Considera la seguente tabella $5 \times 5$ con i numeri da $1$ a $25$: $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline 21 & 22 & 23 & 24 & 25 \\ \hline \end{array}$$ In ogni riga orizzontale e in ogni colonna verticale, cambiamo il segno dei numeri $2$, in modo che successivamente ogni riga e ogni colonna contengano esattamente $3$ numeri positivi e $2$ numeri negativi. Calcolare tutti i valori possibili della somma risultante di tutte le voci della tabella.
 
 **Risposta:** 65
-[[src_obm_2000_n1_f3__Q04]]
+[[Quesiti/src_obm_2000_n1_f3#q04|src_obm_2000_n1_f3__Q04]]

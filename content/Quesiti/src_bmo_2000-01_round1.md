@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova tutti i numeri interi a due cifre $N$ per i quali la somma dei numeri di $10^N - 1$ è divisibile da $170$.
 
-[[src_bmo_2000-01_round1__Q01]]
+[[Quesiti/src_bmo_2000-01_round1#q01|src_bmo_2000-01_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (diverso da $A$) su $T$, vengono disegnati gli accordi $PQ$ e $PR$ di $T$ che toccano rispettivamente $S$ a $X$ e $Y$. Mostra che $\angle QAR = 2\angle XAY$.
 
-[[src_bmo_2000-01_round1__Q02]]
+[[Quesiti/src_bmo_2000-01_round1#q02|src_bmo_2000-01_round1__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 1
 
 > Un tetromino è una figura composta da quattro quadrati unitari collegati ai bordi. (i) Se non facciamo distinzione tra le possibili rotazioni di un tetromino all'interno del suo piano, dimostriamo che ci sono sette tetromino distinte. (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
 
-[[src_bmo_2000-01_round1__Q03]]
+[[Quesiti/src_bmo_2000-01_round1#q03|src_bmo_2000-01_round1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: BMO Round 1
 
 > Definire la sequenza $(a_n)$ con $a_0 = 0$, $a_1 = 1$ e $$a_{n+1} = n\,a_n + (n-1)\,a_{n-1}$$ dove $n$ è un intero positivo e dove $r$ indica il numero intero più vicino a $r$. Determinare se i termini $a_0, a_1, a_2, \ldots$ costituiscono una sequenza di numeri interi consecutivi.
 
-[[src_bmo_2000-01_round1__Q04]]
+[[Quesiti/src_bmo_2000-01_round1#q04|src_bmo_2000-01_round1__Q04]]
 
 
 
@@ -145,4 +145,4 @@ level: BMO Round 1
 
 > Un triangolo ha lati di lunghezza $a$, $b$, $c$ e il suo circoncircolo ha raggio $R$. Prove che il triangolo è rettangolare se e solo se $a^2 + b^2 + c^2 = 8R^2$.
 
-[[src_bmo_2000-01_round1__Q05]]
+[[Quesiti/src_bmo_2000-01_round1#q05|src_bmo_2000-01_round1__Q05]]

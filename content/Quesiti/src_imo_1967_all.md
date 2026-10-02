@@ -33,7 +33,7 @@ level: IMO
 
 > Whether $ABCD$ a parallelogram with sides $AB = a$, $AD = 1$ and $\angle BAD = \alpha$. If the $\triangle ABD$ triangle is acutane, prove that the four radius 1 circles with centers $A$, $B$, $C$, $D$ cover the parallelogram if and only if $$a \leq \cos\alpha + \sqrt{3}\,\sin\alpha.$$
 
-[[src_imo_1967_all__Q01]]
+[[Quesiti/src_imo_1967_all#q01|src_imo_1967_all__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: IMO
 
 > Demonstrate that if one and only one vertex of a tetrahedron is greater than $1$, then its volume is $\leq \dfrac{1}{8}$.
 
-[[src_imo_1967_all__Q02]]
+[[Quesiti/src_imo_1967_all#q02|src_imo_1967_all__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: IMO
 
 > If $k$, $m$, $n$ are natural numbers such that $m + k + 1$ is a prime number greater than $n + 1$. It shall be $c_s = s(s+1)$. Demonstrate that the product $$(c_{m+1} - c_k)(c_{m+2} - c_k) \cdots (c_{m+n} - c_k)$$ is divisible by the product $c_1 c_2 \cdots c_n$.
 
-[[src_imo_1967_all__Q03]]
+[[Quesiti/src_imo_1967_all#q03|src_imo_1967_all__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: IMO
 
 > If $A_0B_0C_0$ and $A_1B_1C_1$ are any two acutangular triangles. All $ABC$ triangles are considered to be similar to $\triangle A_1B_1C_1$ (so that the vertices $A_1$, $B_1$, $C_1$ correspond to the vertices $A$, $B$, $C$ respectively) and bounded by the triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$ and $C_0$ on $AB$). Of all these possible triangles, determine the one with the maximum area and build it.
 
-[[src_imo_1967_all__Q04]]
+[[Quesiti/src_imo_1967_all#q04|src_imo_1967_all__Q04]]
 
 
 
@@ -147,7 +147,7 @@ Find all n with c_n=0 given infinitely many zero power sums
 
 > Consider the sequence $\{c_n\}$, where $$c_1 = a_1 + a_2 + \cdots + a_8,$$ $$c_2 = a_1^2 + a_2^2 + \cdots + a_8^2,$$ $$\vdots$$ $$c_n = a_1^n + a_2^n + \cdots + a_8^n,$$ $$\vdots$$ where $a_1, a_2, \ldots, a_8$ are real numbers not all equal to zero. Suppose an infinite number of terms of the sequence $\{c_n\}$ is zero. Find all natural numbers $n$ for which $c_n = 0$.
 
-[[src_imo_1967_all__Q05]]
+[[Quesiti/src_imo_1967_all#q05|src_imo_1967_all__Q05]]
 
 
 
@@ -174,4 +174,4 @@ Find number of days and total medals
 
 > In a sporting event, $m$ medals were awarded in $n$ consecutive days ($n > 1$). On the first day, a medal was awarded and the remaining$m-1$medals were awarded. On the second day, two medals were awarded and the remaining medals were$\dfrac{1}{7}$; and so on. The remaining $n$ medals were awarded on the eighth and final day. How many days did the race last and how many medals were awarded in total?
 
-[[src_imo_1967_all__Q06]]
+[[Quesiti/src_imo_1967_all#q06|src_imo_1967_all__Q06]]

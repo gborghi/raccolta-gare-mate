@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Il punto $D$ è preso sul lato $BC$ di un triangolo $ABC$ in modo tale che $AD > BC$. Il punto $E$ deve essere un punto sul lato $AC$ tale che $\frac{AE}{EC} = \frac{BD}{AD - BC}$. Mostra che $AD > BE$.
 
-[[src_pol_1999_r3__Q01]]
+[[Quesiti/src_pol_1999_r3#q01|src_pol_1999_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > $0 < a_1 < a_2 < \cdots < a_{100} < 5050$ siano numeri interi. Prova che esistono quattro numeri diversi $a_k, a_l, a_m, a_n$ in modo tale che $a_k + a_l - a_m - a_n$ sia divisibile da $5050$.
 
-[[src_pol_1999_r3__Q02]]
+[[Quesiti/src_pol_1999_r3#q02|src_pol_1999_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > $S(x)$ indichi la somma delle cifre di $x$. Indicare che esistono integri positivi $n_1 < n_2 < \cdots < n_{50}$ tali che $$n_1 + S(n_1) = n_2 + S(n_2) = \cdots = n_{50} + S(n_{50}).$$
 
-[[src_pol_1999_r3__Q03]]
+[[Quesiti/src_pol_1999_r3#q03|src_pol_1999_r3__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > Trova tutti i numeri interi $n \ge 2$ per i quali il seguente sistema ha una soluzione in numeri interi: $$\begin{aligned} x_1^2 + x_2^2 + 50 &= 16x_1 + 12x_2, \\ x_2^2 + x_3^2 + 50 &= 16x_2 + 12x_3, \\ &\cdots \\ x_n^2 + x_1^2 + 50 &= 16x_n + 12x_1. \end{aligned}$$
 
-[[src_pol_1999_r3__Q04]]
+[[Quesiti/src_pol_1999_r3#q04|src_pol_1999_r3__Q04]]
 
 
 
@@ -144,7 +144,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > Se $a_i, b_i$ ($i = 1, 2, \ldots, n$) sono numeri interi, dimostrare che $$\sum_{1 \le i < j \le n} \left( |a_i - a_j| + |b_i - b_j| \right) \le \sum_{1 \le i, j \le n} |a_i - b_j|.$$
 
-[[src_pol_1999_r3__Q05]]
+[[Quesiti/src_pol_1999_r3#q05|src_pol_1999_r3__Q05]]
 
 
 
@@ -174,4 +174,4 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 
 > Un esagono converso $ABCDEF$ soddisfa $$\angle A + \angle C + \angle E = 360^\circ \quad \text{and} \quad \frac{AB}{BC} \cdot \frac{CD}{DE} \cdot \frac{EF}{FA} = 1.$$ Prove che $$\frac{AB}{BF} \cdot \frac{FD}{DE} \cdot \frac{EC}{CA} = 1.$$
 
-[[src_pol_1999_r3__Q06]]
+[[Quesiti/src_pol_1999_r3#q06|src_pol_1999_r3__Q06]]

@@ -33,7 +33,7 @@ level: INMO
 
 > I punti $D$, $E$, $F$ sono i punti sui lati $BC$, $CA$ e $AB$ rispettivamente di un triangolo $ABC$ in modo tale che $BD = CE = AF$ e $\angle BDF = \angle CED = \angle AFE$. Provare che $ABC$ è equilaterale.
 
-[[src_inmo_2011__Q01]]
+[[Quesiti/src_inmo_2011#q01|src_inmo_2011__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: INMO
 
 > Chiamare un numero naturale $n$ **fiduo** se esistono numeri naturali $a < b < c$ tali che $a$ divida $b$, $b$ divida $c$ e $n = a + b + c$. (i) Mostrare che tutti, tranne un numero finito di numeri naturali, sono fedeli. (ii) Trova l'insieme di tutti i numeri naturali che sono fedeli ** non **.
 
-[[src_inmo_2011__Q02]]
+[[Quesiti/src_inmo_2011#q02|src_inmo_2011__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: INMO
 
 > Considerate due polinomi $P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0$ e $Q(x) = b_n x^n + b_{n-1} x^{n-1} + \cdots + b_1 x + b_0$ con coefficienti interi come $a_n - b_n = b_0 - a_0 \neq 0$ e $a_0 b_0 - a_n b_n \neq 0$. Supponiamo che esista un numero razionale $r$ tale che $P(r) = Q(r) = 0$. Provare che $r$ non è un numero intero.
 
-[[src_inmo_2011__Q03]]
+[[Quesiti/src_inmo_2011#q03|src_inmo_2011__Q03]]
 
 
 
@@ -102,7 +102,7 @@ level: INMO
 
 > Suppose five of the nine vertices of a regular nine-sided polygon are arbitrarily chosen. Show that one can select four among these five such that they are the vertices of a trapezium.
 
-![[src_inmo_2011__Q04.png]]
+![[src_inmo_2011__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Simmetria]]
@@ -118,9 +118,9 @@ level: INMO
 
 > Supponiamo che cinque dei nove vertici di un poligono regolare a nove lati siano scelti arbitrariamente. Mostrate che si possono scegliere quattro tra questi cinque in modo tale che siano i vertici di un trapezio.
 
-![[src_inmo_2011__Q04.png]]
+![[src_inmo_2011__q04.png]]
 
-[[src_inmo_2011__Q04]]
+[[Quesiti/src_inmo_2011#q04|src_inmo_2011__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: INMO
 
 > $ABCD$ sia un quadrilaterale inciso in un cerchio $\Gamma$. I punti intermedi $E$, $F$, $G$ e $H$ siano rispettivamente i punti intermedi $AB$, $BC$, $CD$ e $DA$ degli archi $\Gamma$. Supponiamo $AC \cdot BD = EG \cdot FH$. Prove che $AC$, $BD$, $EG$, $FH$ sono simultanei.
 
-[[src_inmo_2011__Q05]]
+[[Quesiti/src_inmo_2011#q05|src_inmo_2011__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: INMO
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$, dove $\mathbb{R}$ indica l'insieme di tutti i numeri reali, in modo tale che $$f(x+y)f(x-y) = (f(x)+f(y))^2 - 4x^2 f(y)$$ per tutti $x, y \in \mathbb{R}$.
 
-[[src_inmo_2011__Q06]]
+[[Quesiti/src_inmo_2011#q06|src_inmo_2011__Q06]]

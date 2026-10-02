@@ -19,7 +19,7 @@ level: INMO
 
 > Let $\Gamma_1$ and $\Gamma_2$ be two circles touching each other externally at $R$. Let $l_1$ be a line which is tangent to $\Gamma_2$ at $P$ and passing through the center $O_1$ of $\Gamma_1$. Similarly, let $l_2$ be a line which is tangent to $\Gamma_2$ at $Q$ and passing through the center $O_2$ of $\Gamma_2$. Suppose $l_1$ and $l_2$ are not parallel and intersect at $K$. If $KP = KQ$, prove that the triangle $PQR$ is equilateral.
 
-![[src_inmo_2013__Q01.png]]
+![[src_inmo_2013__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: INMO
 
 > Si deve che $\Gamma_1$ e $\Gamma_2$ siano due cerchi che si toccano a $R$. La linea $l_1$ deve essere tangente a $\Gamma_2$ a $P$ e passare attraverso il centro $O_1$ di $\Gamma_1$. Allo stesso modo, $l_2$ è una linea tangente a $\Gamma_2$ a $Q$ e che attraversa il centro $O_2$ di $\Gamma_2$. Supponiamo che $l_1$ e $l_2$ non siano parallele e si incrociano a $K$. Se $KP = KQ$, dimostrare che il triangolo $PQR$ è equilaterale.
 
-![[src_inmo_2013__Q01.png]]
+![[src_inmo_2013__q01.png]]
 
-[[src_inmo_2013__Q01]]
+[[Quesiti/src_inmo_2013#q01|src_inmo_2013__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: INMO
 
 > Trova tutti gli integri positivi $m$, $n$ e i numeri primi $p \ge 5$ in modo tale che $$m(4m^2 + 12m + 3) = 3(p^n - 1).$$
 
-[[src_inmo_2013__Q02]]
+[[Quesiti/src_inmo_2013#q02|src_inmo_2013__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: INMO
 
 > $a, b, c, d$ siano integri positivi come $a \ge b \ge c \ge d$. Prove che l'equazione $x^4 - ax^3 - bx^2 - cx - d = 0$ non ha una soluzione integrale.
 
-[[src_inmo_2013__Q03]]
+[[Quesiti/src_inmo_2013#q03|src_inmo_2013__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: INMO
 
 > $n$ sia un numero intero positivo. Chiamare valido un sottogruppo non vuoto $S$ di $\{1, 2, \ldots, n\}$ se la media aritmetica degli elementi di $S$ è anche un intero. $t_n$ indica il numero di buoni sottoinsiemi di $\{1, 2, \ldots, n\}$. Prove che $t_n$ e $n$ sono entrambi pari o pari.
 
-[[src_inmo_2013__Q04]]
+[[Quesiti/src_inmo_2013#q04|src_inmo_2013__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: INMO
 
 > In un triangolo acuto $ABC$, $O$ è il circoncentro, $H$ è l'ortocentro e $G$ è il centroide. Il $OD$ deve essere perpendicolare a $BC$ e il $HE$ deve essere perpendicolare a $CA$, con $D$ su $BC$ e $E$ su $CA$. Il $F$ deve essere il punto medio di $AB$. Supponiamo che le superfici dei triangoli $ODC$, $HEA$ e $GFB$ siano uguali. Trova tutti i valori possibili di $\hat{C}$.
 
-[[src_inmo_2013__Q05]]
+[[Quesiti/src_inmo_2013#q05|src_inmo_2013__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: INMO
 
 > $a, b, c, x, y, z$ siano numeri reali positivi come $a + b + c = x + y + z = xyz$. Inoltre, supponiamo che $a \le x < y \le b < c \le z$ e $a < b < c$. Prove che $a = x$, $b = y$ e $c = z$.
 
-[[src_inmo_2013__Q06]]
+[[Quesiti/src_inmo_2013#q06|src_inmo_2013__Q06]]

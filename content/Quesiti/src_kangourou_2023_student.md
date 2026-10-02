@@ -51,7 +51,7 @@ level: kangourou
 > E) 49
 
 **Answer:** C
-[[src_kangourou_2023_student__Q01]]
+[[Quesiti/src_kangourou_2023_student#q01|src_kangourou_2023_student__Q01]]
 
 
 
@@ -97,7 +97,7 @@ level: kangourou
 > E) 4
 
 **Answer:** C
-[[src_kangourou_2023_student__Q02]]
+[[Quesiti/src_kangourou_2023_student#q02|src_kangourou_2023_student__Q02]]
 
 
 
@@ -144,7 +144,7 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2023_student__Q03]]
+[[Quesiti/src_kangourou_2023_student#q03|src_kangourou_2023_student__Q03]]
 
 
 
@@ -210,7 +210,7 @@ level: kangourou
 > B) 27 C) 32 D) 36 E) 64
 
 **Answer:** D
-[[src_kangourou_2023_student__Q04]]
+[[Quesiti/src_kangourou_2023_student#q04|src_kangourou_2023_student__Q04]]
 
 
 
@@ -244,7 +244,7 @@ level: kangourou
 > Let's say a positive integer n is 2prime if it admits exactly 3 distinct divisors, precisely 1, 2 and n itself. How many integers are the first two? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** B
-[[src_kangourou_2023_student__Q05]]
+[[Quesiti/src_kangourou_2023_student#q05|src_kangourou_2023_student__Q05]]
 
 
 
@@ -282,7 +282,7 @@ level: kangourou
 > C) 29 + 1 D)  29 + 2 E) 0
 
 **Answer:** A
-[[src_kangourou_2023_student__Q06]]
+[[Quesiti/src_kangourou_2023_student#q06|src_kangourou_2023_student__Q06]]
 
 
 
@@ -334,7 +334,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2023_student__Q07]]
+[[Quesiti/src_kangourou_2023_student#q07|src_kangourou_2023_student__Q07]]
 
 
 
@@ -423,7 +423,7 @@ level: kangourou
 > D)  35 E) 42
 
 **Answer:** B
-[[src_kangourou_2023_student__Q08]]
+[[Quesiti/src_kangourou_2023_student#q08|src_kangourou_2023_student__Q08]]
 
 
 
@@ -456,7 +456,7 @@ level: kangourou
 > The number can be written as n for an appropriate integer n. How much is n? A) 530 B) 56 C) 55 D) 30 E) 11
 
 **Answer:** C
-[[src_kangourou_2023_student__Q09]]
+[[Quesiti/src_kangourou_2023_student#q09|src_kangourou_2023_student__Q09]]
 
 
 
@@ -501,7 +501,7 @@ level: kangourou
 > E) 6 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2023_student__Q10]]
+[[Quesiti/src_kangourou_2023_student#q10|src_kangourou_2023_student__Q10]]
 
 
 
@@ -552,7 +552,7 @@ level: kangourou
 > E) 13
 
 **Answer:** C
-[[src_kangourou_2023_student__Q11]]
+[[Quesiti/src_kangourou_2023_student#q11|src_kangourou_2023_student__Q11]]
 
 
 
@@ -598,7 +598,7 @@ level: kangourou
 > E) 9
 
 **Answer:** A
-[[src_kangourou_2023_student__Q12]]
+[[Quesiti/src_kangourou_2023_student#q12|src_kangourou_2023_student__Q12]]
 
 
 
@@ -645,7 +645,7 @@ level: kangourou
 > D) 8 E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2023_student__Q13]]
+[[Quesiti/src_kangourou_2023_student#q13|src_kangourou_2023_student__Q13]]
 
 
 
@@ -700,7 +700,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2023_student__Q14]]
+[[Quesiti/src_kangourou_2023_student#q14|src_kangourou_2023_student__Q14]]
 
 
 
@@ -744,7 +744,7 @@ Couples of integers with 2m-2023 dictionary
 > D) 3 E) 4
 
 **Answer:** B
-[[src_kangourou_2023_student__Q15]]
+[[Quesiti/src_kangourou_2023_student#q15|src_kangourou_2023_student__Q15]]
 
 
 
@@ -789,7 +789,7 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2023_student__Q16]]
+[[Quesiti/src_kangourou_2023_student#q16|src_kangourou_2023_student__Q16]]
 
 
 
@@ -832,7 +832,7 @@ Maximum number of koalas with each animal near a kangaroo
 > D) 16 E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2023_student__Q17]]
+[[Quesiti/src_kangourou_2023_student#q17|src_kangourou_2023_student__Q17]]
 
 
 
@@ -882,7 +882,7 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 16
 
 **Answer:** E
-[[src_kangourou_2023_student__Q18]]
+[[Quesiti/src_kangourou_2023_student#q18|src_kangourou_2023_student__Q18]]
 
 
 
@@ -971,7 +971,7 @@ Maximum number of koalas with each animal near a kangaroo
 > (B) 23 C) 24 D) 25 E) Measurement depends on the distance between the bases
 
 **Answer:** C
-[[src_kangourou_2023_student__Q19]]
+[[Quesiti/src_kangourou_2023_student#q19|src_kangourou_2023_student__Q19]]
 
 
 
@@ -1013,7 +1013,7 @@ Maximum number of koalas with each animal near a kangaroo
 > (C) 273 D) 400 E) None of the above. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2023_student__Q20]]
+[[Quesiti/src_kangourou_2023_student#q20|src_kangourou_2023_student__Q20]]
 
 
 
@@ -1076,7 +1076,7 @@ Maximum number of koalas with each animal near a kangaroo
 >
 
 **Answer:** A
-[[src_kangourou_2023_student__Q21]]
+[[Quesiti/src_kangourou_2023_student#q21|src_kangourou_2023_student__Q21]]
 
 
 
@@ -1116,7 +1116,7 @@ Maximum number of koalas with each animal near a kangaroo
 > Thirteen climbers participate in a sport climbing competition involving three different specialties. The final score of each athlete is the product of the placements obtained in each specialty. For example, an athlete who finishes fourth, third and sixth in each of the three specialties will get a score of 72. Of course, the higher the score, the worse the final placement. Anna has already won the first two specialties. Once the last test is completed, what is the worst final placement you can have? A) Second B) Third C) Fourth D) Fifth E) Sixth
 
 **Answer:** B
-[[src_kangourou_2023_student__Q22]]
+[[Quesiti/src_kangourou_2023_student#q22|src_kangourou_2023_student__Q22]]
 
 
 
@@ -1168,7 +1168,7 @@ Maximum number of koalas with each animal near a kangaroo
 > E)
 
 **Answer:** B
-[[src_kangourou_2023_student__Q23]]
+[[Quesiti/src_kangourou_2023_student#q23|src_kangourou_2023_student__Q23]]
 
 
 
@@ -1282,7 +1282,7 @@ Maximum number of koalas with each animal near a kangaroo
 >
 
 **Answer:** E
-[[src_kangourou_2023_student__Q24]]
+[[Quesiti/src_kangourou_2023_student#q24|src_kangourou_2023_student__Q24]]
 
 
 
@@ -1324,7 +1324,7 @@ Maximum number of koalas with each animal near a kangaroo
 > A stain of ink covered part of the formula assigning a fifth degree polynomial, as shown below. It is well known that the polynomial has 5 roots and that they are all integers, not necessarily distinct. What is the highest power of x  1 dividing the polynomial? A) (x – 1)1 B) (x – 1)2 C) (x – 1)3 D) (x – 1)4 E) (x – 1)5
 
 **Answer:** D
-[[src_kangourou_2023_student__Q25]]
+[[Quesiti/src_kangourou_2023_student#q25|src_kangourou_2023_student__Q25]]
 
 
 
@@ -1378,7 +1378,7 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 30
 
 **Answer:** A
-[[src_kangourou_2023_student__Q26]]
+[[Quesiti/src_kangourou_2023_student#q26|src_kangourou_2023_student__Q26]]
 
 
 
@@ -1414,7 +1414,7 @@ Maximum number of koalas with each animal near a kangaroo
 > What is the largest integer that divides all the numbers of the form n3 (n + 1)3(n + 2)3(n + 3)3(n + 4)3 , by varying the strictly positive integer n? A) 29 33 B) 23 33 53 C) 26 33 53 D) 28 32 53 E) 29 33 53
 
 **Answer:** E
-[[src_kangourou_2023_student__Q27]]
+[[Quesiti/src_kangourou_2023_student#q27|src_kangourou_2023_student__Q27]]
 
 
 
@@ -1470,7 +1470,7 @@ Maximum number of koalas with each animal near a kangaroo
 > E) 9
 
 **Answer:** E
-[[src_kangourou_2023_student__Q28]]
+[[Quesiti/src_kangourou_2023_student#q28|src_kangourou_2023_student__Q28]]
 
 
 
@@ -1524,7 +1524,7 @@ Maximum number of koalas with each animal near a kangaroo
 >
 
 **Answer:** C
-[[src_kangourou_2023_student__Q29]]
+[[Quesiti/src_kangourou_2023_student#q29|src_kangourou_2023_student__Q29]]
 
 
 
@@ -1582,4 +1582,4 @@ Maximum number of koalas with each animal near a kangaroo
 > C C B D B A D
 
 **Answer:** C
-[[src_kangourou_2023_student__Q30]]
+[[Quesiti/src_kangourou_2023_student#q30|src_kangourou_2023_student__Q30]]

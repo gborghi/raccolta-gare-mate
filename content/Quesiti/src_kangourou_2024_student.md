@@ -43,7 +43,7 @@ level: kangourou
 > C) 58 D) 38 E) 18
 
 **Answer:** D
-[[src_kangourou_2024_student__Q01]]
+[[Quesiti/src_kangourou_2024_student#q01|src_kangourou_2024_student__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: kangourou
 > Look at the figure: seven congruent pentagons, each with two internal 90 degree angles, surround an eighth white pentagon, similar to the previous ones. Which of the following pentagons can be replaced with the white one (perhaps by rotating it, but not by flipping it) so that only a single black curve that intersects itself is left in place? A)                 B)               C) D)               E)
 
 **Answer:** C
-[[src_kangourou_2024_student__Q02]]
+[[Quesiti/src_kangourou_2024_student#q02|src_kangourou_2024_student__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: kangourou
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2024_student__Q03]]
+[[Quesiti/src_kangourou_2024_student#q03|src_kangourou_2024_student__Q03]]
 
 
 
@@ -176,7 +176,7 @@ level: kangourou
 > D) E)
 
 **Answer:** D
-[[src_kangourou_2024_student__Q04]]
+[[Quesiti/src_kangourou_2024_student#q04|src_kangourou_2024_student__Q04]]
 
 
 
@@ -214,7 +214,7 @@ level: kangourou
 > C) 7/36 D) 2/9 E) 5/18
 
 **Answer:** D
-[[src_kangourou_2024_student__Q05]]
+[[Quesiti/src_kangourou_2024_student#q05|src_kangourou_2024_student__Q05]]
 
 
 
@@ -273,7 +273,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2024_student__Q06]]
+[[Quesiti/src_kangourou_2024_student#q06|src_kangourou_2024_student__Q06]]
 
 
 
@@ -316,7 +316,7 @@ level: kangourou
 > Each of the triangles and each of the squares (not those divided into two triangles) in the figure must be coordinated so that each time two of these figures are in contact, even for a single point (vertical), they receive different colors. What is the minimum number of colours sufficient to achieve the intention? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** A
-[[src_kangourou_2024_student__Q07]]
+[[Quesiti/src_kangourou_2024_student#q07|src_kangourou_2024_student__Q07]]
 
 
 
@@ -365,7 +365,7 @@ level: kangourou
 > E) 7
 
 **Answer:** A
-[[src_kangourou_2024_student__Q08]]
+[[Quesiti/src_kangourou_2024_student#q08|src_kangourou_2024_student__Q08]]
 
 
 
@@ -402,7 +402,7 @@ level: kangourou
 > Suppose you play like this. Starting with a number, you draw a coin. If you hit it, multiply that number by 6, if you cross it, multiply that number by 10. If you start from number 1 and apply this rule to every result you get, you'll never get any of the results listed below. What kind? A) 2100 × 320 × 580 B) 290 × 320 × 580 C) 290 × 320 × 570 D) 2110 × 380 × 530 E) 250 × 550
 
 **Answer:** B
-[[src_kangourou_2024_student__Q09]]
+[[Quesiti/src_kangourou_2024_student#q09|src_kangourou_2024_student__Q09]]
 
 
 
@@ -453,7 +453,7 @@ level: kangourou
 > E) B = 3(A + C) / 5 The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2024_student__Q10]]
+[[Quesiti/src_kangourou_2024_student#q10|src_kangourou_2024_student__Q10]]
 
 
 
@@ -494,7 +494,7 @@ level: kangourou
 > E) n is a prime number.
 
 **Answer:** C
-[[src_kangourou_2024_student__Q11]]
+[[Quesiti/src_kangourou_2024_student#q11|src_kangourou_2024_student__Q11]]
 
 
 
@@ -563,7 +563,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2024_student__Q12]]
+[[Quesiti/src_kangourou_2024_student#q12|src_kangourou_2024_student__Q12]]
 
 
 
@@ -607,7 +607,7 @@ level: kangourou
 > The three smallest squares of the four shown in the figure have sides of lengths a, b, c. The vertex A of the largest square coincides with a vertex of the square on side a, the opposite vertex C with a vertex of the square on side c. The tip B of the side b square lies on one side of the larger square. Which of the following expressions gives the size of the side of the largest square? A) (a + b + c) / 2 B) √a2 + b2 + c2 C)  √(a + b)2 + c2 D) √(b − a)2 + c2 E) √a2  + ab + b2 + c2
 
 **Answer:** C
-[[src_kangourou_2024_student__Q13]]
+[[Quesiti/src_kangourou_2024_student#q13|src_kangourou_2024_student__Q13]]
 
 
 
@@ -650,7 +650,7 @@ level: kangourou
 > The figure shows a neighbourhood in a city where all the streets are in one direction, the one indicated by the arrows. You can still go in from R and you can go out from S or T. At every turn in which it is possible to do so, Arianna chooses at random how to proceed (legally). What is the probability that Arianna will come out of T? A) 3 / 32 B) 3 / 16 C) 1 / 4 D) 3 / 8 E) 1 / 2
 
 **Answer:** D
-[[src_kangourou_2024_student__Q14]]
+[[Quesiti/src_kangourou_2024_student#q14|src_kangourou_2024_student__Q14]]
 
 
 
@@ -696,7 +696,7 @@ level: kangourou
 > C) 6π − 9 D) 10π/3 E) 12
 
 **Answer:** A
-[[src_kangourou_2024_student__Q15]]
+[[Quesiti/src_kangourou_2024_student#q15|src_kangourou_2024_student__Q15]]
 
 
 
@@ -789,7 +789,7 @@ level: kangourou
 > E) None of the above.
 
 **Answer:** D
-[[src_kangourou_2024_student__Q16]]
+[[Quesiti/src_kangourou_2024_student#q16|src_kangourou_2024_student__Q16]]
 
 
 
@@ -833,7 +833,7 @@ level: kangourou
 > E) (3p + q) / 4
 
 **Answer:** A
-[[src_kangourou_2024_student__Q17]]
+[[Quesiti/src_kangourou_2024_student#q17|src_kangourou_2024_student__Q17]]
 
 
 
@@ -874,7 +874,7 @@ level: kangourou
 >
 
 **Answer:** E
-[[src_kangourou_2024_student__Q18]]
+[[Quesiti/src_kangourou_2024_student#q18|src_kangourou_2024_student__Q18]]
 
 
 
@@ -921,7 +921,7 @@ level: kangourou
 > E) 27
 
 **Answer:** B
-[[src_kangourou_2024_student__Q19]]
+[[Quesiti/src_kangourou_2024_student#q19|src_kangourou_2024_student__Q19]]
 
 
 
@@ -960,7 +960,7 @@ level: kangourou
 > E) 47 / 14 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2024_student__Q20]]
+[[Quesiti/src_kangourou_2024_student#q20|src_kangourou_2024_student__Q20]]
 
 
 
@@ -1003,7 +1003,7 @@ level: kangourou
 > There are six cards, each of which has a number pair, a number on each face. The six pairs are (5, 12), (3, 11), (0, 16), (7, 8), (4, 14) and (9, 10). You can choose how to line up the cards and what face each card should show. Choose a provision, the numbers that appear in it, the operations shown in the figure: What is the minimum result that can be achieved? A) – 23 B) – 24 C) – 25 D) – 26 E) – 27
 
 **Answer:** D
-[[src_kangourou_2024_student__Q21]]
+[[Quesiti/src_kangourou_2024_student#q21|src_kangourou_2024_student__Q21]]
 
 
 
@@ -1055,7 +1055,7 @@ level: kangourou
 > E) a + b + c = 0
 
 **Answer:** E
-[[src_kangourou_2024_student__Q22]]
+[[Quesiti/src_kangourou_2024_student#q22|src_kangourou_2024_student__Q22]]
 
 
 
@@ -1114,7 +1114,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2024_student__Q23]]
+[[Quesiti/src_kangourou_2024_student#q23|src_kangourou_2024_student__Q23]]
 
 
 
@@ -1162,7 +1162,7 @@ level: kangourou
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2024_student__Q24]]
+[[Quesiti/src_kangourou_2024_student#q24|src_kangourou_2024_student__Q24]]
 
 
 
@@ -1204,7 +1204,7 @@ level: kangourou
 > D) 40 E) A number different from the previous one
 
 **Answer:** A
-[[src_kangourou_2024_student__Q25]]
+[[Quesiti/src_kangourou_2024_student#q25|src_kangourou_2024_student__Q25]]
 
 
 
@@ -1255,7 +1255,7 @@ level: kangourou
 > E) No line contains only rational points.
 
 **Answer:** D
-[[src_kangourou_2024_student__Q26]]
+[[Quesiti/src_kangourou_2024_student#q26|src_kangourou_2024_student__Q26]]
 
 
 
@@ -1310,7 +1310,7 @@ level: kangourou
 > D) 48 E) None of the above
 
 **Answer:** A
-[[src_kangourou_2024_student__Q27]]
+[[Quesiti/src_kangourou_2024_student#q27|src_kangourou_2024_student__Q27]]
 
 
 
@@ -1360,7 +1360,7 @@ level: kangourou
 >
 
 **Answer:** E
-[[src_kangourou_2024_student__Q28]]
+[[Quesiti/src_kangourou_2024_student#q28|src_kangourou_2024_student__Q28]]
 
 
 
@@ -1407,7 +1407,7 @@ level: kangourou
 > E) 96
 
 **Answer:** D
-[[src_kangourou_2024_student__Q29]]
+[[Quesiti/src_kangourou_2024_student#q29|src_kangourou_2024_student__Q29]]
 
 
 
@@ -1460,4 +1460,4 @@ This is the total value of the securities issued by the issuer.
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 **Answer:** B
-[[src_kangourou_2024_student__Q30]]
+[[Quesiti/src_kangourou_2024_student#q30|src_kangourou_2024_student__Q30]]

@@ -53,7 +53,7 @@ level: kangourou
 > E)
 
 **Answer:** C
-[[src_kangourou_2021_ecolier__Q01]]
+[[Quesiti/src_kangourou_2021_ecolier#q01|src_kangourou_2021_ecolier__Q01]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 > E) 8
 
 **Answer:** C
-[[src_kangourou_2021_ecolier__Q02]]
+[[Quesiti/src_kangourou_2021_ecolier#q02|src_kangourou_2021_ecolier__Q02]]
 
 
 
@@ -152,7 +152,7 @@ level: kangourou
 > E) 33
 
 **Answer:** B
-[[src_kangourou_2021_ecolier__Q03]]
+[[Quesiti/src_kangourou_2021_ecolier#q03|src_kangourou_2021_ecolier__Q03]]
 
 
 
@@ -205,7 +205,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2021_ecolier__Q04]]
+[[Quesiti/src_kangourou_2021_ecolier#q04|src_kangourou_2021_ecolier__Q04]]
 
 
 
@@ -255,7 +255,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2021_ecolier__Q05]]
+[[Quesiti/src_kangourou_2021_ecolier#q05|src_kangourou_2021_ecolier__Q05]]
 
 
 
@@ -306,7 +306,7 @@ level: kangourou
 > E) 69
 
 **Answer:** C
-[[src_kangourou_2021_ecolier__Q06]]
+[[Quesiti/src_kangourou_2021_ecolier#q06|src_kangourou_2021_ecolier__Q06]]
 
 
 
@@ -353,7 +353,7 @@ level: kangourou
 > E) 15
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q07]]
+[[Quesiti/src_kangourou_2021_ecolier#q07|src_kangourou_2021_ecolier__Q07]]
 
 
 
@@ -393,7 +393,7 @@ level: kangourou
 > Rossana has some spheres, three different colors. Spheres of the same colour have the same weight. The balance sheets in the figure show the overall weight of some groups of these spheres. What's the weight of each white sphere? (A) 3 kg B) 4 kg C) 5 kg D) 6 kg E) 7 kg I Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2021_ecolier__Q08]]
+[[Quesiti/src_kangourou_2021_ecolier#q08|src_kangourou_2021_ecolier__Q08]]
 
 
 
@@ -441,7 +441,7 @@ level: kangourou
 > E) 38
 
 **Answer:** E
-[[src_kangourou_2021_ecolier__Q09]]
+[[Quesiti/src_kangourou_2021_ecolier#q09|src_kangourou_2021_ecolier__Q09]]
 
 
 
@@ -504,7 +504,7 @@ level: kangourou
 >
 
 **Answer:** C
-[[src_kangourou_2021_ecolier__Q10]]
+[[Quesiti/src_kangourou_2021_ecolier#q10|src_kangourou_2021_ecolier__Q10]]
 
 
 
@@ -562,7 +562,7 @@ Alignment that prevents Gina from grouping
 > E)
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q11]]
+[[Quesiti/src_kangourou_2021_ecolier#q11|src_kangourou_2021_ecolier__Q11]]
 
 
 
@@ -601,7 +601,7 @@ Alignment that prevents Gina from grouping
 > Sofia wants to take five different ants from these five vessels. You can only take one cup of foam. What form should you take from pot 4? A) B) C) D) E) He can't.
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q12]]
+[[Quesiti/src_kangourou_2021_ecolier#q12|src_kangourou_2021_ecolier__Q12]]
 
 
 
@@ -655,7 +655,7 @@ Alignment that prevents Gina from grouping
 > E)
 
 **Answer:** C
-[[src_kangourou_2021_ecolier__Q13]]
+[[Quesiti/src_kangourou_2021_ecolier#q13|src_kangourou_2021_ecolier__Q13]]
 
 
 
@@ -730,7 +730,7 @@ Box in which Eva attacked the flower
 >
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q14]]
+[[Quesiti/src_kangourou_2021_ecolier#q14|src_kangourou_2021_ecolier__Q14]]
 
 
 
@@ -781,7 +781,7 @@ Box in which Eva attacked the flower
 > E) 22
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q15]]
+[[Quesiti/src_kangourou_2021_ecolier#q15|src_kangourou_2021_ecolier__Q15]]
 
 
 
@@ -838,7 +838,7 @@ Box in which Eva attacked the flower
 > E) Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** B
-[[src_kangourou_2021_ecolier__Q16]]
+[[Quesiti/src_kangourou_2021_ecolier#q16|src_kangourou_2021_ecolier__Q16]]
 
 
 
@@ -892,7 +892,7 @@ Box in which Eva attacked the flower
 > E) 6
 
 **Answer:** A
-[[src_kangourou_2021_ecolier__Q17]]
+[[Quesiti/src_kangourou_2021_ecolier#q17|src_kangourou_2021_ecolier__Q17]]
 
 
 
@@ -944,7 +944,7 @@ Box in which Eva attacked the flower
 > E) G
 
 **Answer:** E
-[[src_kangourou_2021_ecolier__Q18]]
+[[Quesiti/src_kangourou_2021_ecolier#q18|src_kangourou_2021_ecolier__Q18]]
 
 
 
@@ -1016,7 +1016,7 @@ Box in which Eva attacked the flower
 >
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q19]]
+[[Quesiti/src_kangourou_2021_ecolier#q19|src_kangourou_2021_ecolier__Q19]]
 
 
 
@@ -1068,7 +1068,7 @@ Balloon certainly hit to total 30
 > E) 18
 
 **Answer:** A
-[[src_kangourou_2021_ecolier__Q20]]
+[[Quesiti/src_kangourou_2021_ecolier#q20|src_kangourou_2021_ecolier__Q20]]
 
 
 
@@ -1116,7 +1116,7 @@ Balloon certainly hit to total 30
 > E) 48
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q21]]
+[[Quesiti/src_kangourou_2021_ecolier#q21|src_kangourou_2021_ecolier__Q21]]
 
 
 
@@ -1155,7 +1155,7 @@ Balloon certainly hit to total 30
 > Each of the five boxes in the picture contains either apples or bananas but not both types of fruit. The total weight of all bananas is three times the weight of all apples. What kind of boxes are apples in? A) 1 e 2 B) 2 e 3 C) 2 e 4 D) 3 e 4 E) 1 e 4
 
 **Answer:** E
-[[src_kangourou_2021_ecolier__Q22]]
+[[Quesiti/src_kangourou_2021_ecolier#q22|src_kangourou_2021_ecolier__Q22]]
 
 
 
@@ -1209,7 +1209,7 @@ Number in the square? with arrows min->max*
 > E) 8
 
 **Answer:** D
-[[src_kangourou_2021_ecolier__Q23]]
+[[Quesiti/src_kangourou_2021_ecolier#q23|src_kangourou_2021_ecolier__Q23]]
 
 
 
@@ -1274,4 +1274,4 @@ Number in the square? with arrows min->max*
 >
 
 **Answer:** A
-[[src_kangourou_2021_ecolier__Q24]]
+[[Quesiti/src_kangourou_2021_ecolier#q24|src_kangourou_2021_ecolier__Q24]]

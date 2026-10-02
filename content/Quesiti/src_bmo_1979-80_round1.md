@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Prova che l'equazione $x^n + y^n = z^n$, dove $n$ è un numero intero $> 1$, non ha soluzione nei numeri interi $x$, $y$, $z$, con $0 < x \le n$, $0 < y \le n$.
 
-[[src_bmo_1979-80_round1__Q01]]
+[[Quesiti/src_bmo_1979-80_round1#q01|src_bmo_1979-80_round1__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: BMO Round 1
 
 > Trovare un insieme $S = \{n\}$ di 7 integri positivi consecutivi per i quali esiste un polinomio $P(x)$ del quinto grado con le seguenti proprietà: (a) tutti i coefficienti di $P(x)$ sono integri; (b) $P(n) = n$ per 5 membri di $S$, compresi i più piccoli e i più grandi; (c) $P(n) = 0$ per un membro di $S$.
 
-[[src_bmo_1979-80_round1__Q02]]
+[[Quesiti/src_bmo_1979-80_round1#q02|src_bmo_1979-80_round1__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: BMO Round 1
 > 
 > Prova che una linea retta che attraversa uno dei punti $R$ e $S$ e uno dei punti $A$ e $B$ taglia un lato del quadrato al centro del triangolo.
 
-[[src_bmo_1979-80_round1__Q03]]
+[[Quesiti/src_bmo_1979-80_round1#q03|src_bmo_1979-80_round1__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: BMO Round 1
 
 > Trova l'insieme dei numeri reali $a_0$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \qquad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \qquad (n \ge 0).$$
 
-[[src_bmo_1979-80_round1__Q04]]
+[[Quesiti/src_bmo_1979-80_round1#q04|src_bmo_1979-80_round1__Q04]]
 
 
 
@@ -151,4 +151,4 @@ level: BMO Round 1
 
 > In un gruppo di dieci persone, tra tutte e tre persone ci sono almeno due che non si conoscono. Prove che alla festa ci sono quattro persone, nessuna delle quali conosce un'altra delle quattro.
 
-[[src_bmo_1979-80_round1__Q05]]
+[[Quesiti/src_bmo_1979-80_round1#q05|src_bmo_1979-80_round1__Q05]]

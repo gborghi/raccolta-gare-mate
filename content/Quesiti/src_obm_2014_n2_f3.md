@@ -25,7 +25,7 @@ level: OBM Nível 2
 > 
 > *Remark: there exist two ways of assembling the superdado, changing only the faces that carry a $2$ and a $5$, as in the figure below; you may use each of these two ways as many times as necessary.*
 
-![[src_obm_2014_n2_f3__Q01.png]]
+![[src_obm_2014_n2_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -47,9 +47,9 @@ level: OBM Nível 2
 > 
 > *Nota: esistono due modi di assemblare il superdado, cambiando solo le facce che portano un $2$ e un $5$, come nella figura seguente; si può usare ciascuno di questi due modi quante volte è necessario.*
 
-![[src_obm_2014_n2_f3__Q01.png]]
+![[src_obm_2014_n2_f3__q01.png]]
 
-[[src_obm_2014_n2_f3__Q01]]
+[[Quesiti/src_obm_2014_n2_f3#q01|src_obm_2014_n2_f3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 2
 
 > Let $AB$ be a diameter of a circle $\Gamma$ and let $CD$ be a chord perpendicular to that diameter. Let $E$ be the point of intersection of $CD$ and $AB$, and let $P$ be any point on the chord $CD$ different from $E$. The lines $AP$ and $BP$ meet $\Gamma$ again at $F$ and $G$, respectively. If $O$ is the circumcenter of triangle $EFG$, show that the area of triangle $OCD$ is always the same, whatever the chosen point $P$.
 
-![[src_obm_2014_n2_f3__Q02.png]]
+![[src_obm_2014_n2_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -78,9 +78,9 @@ level: OBM Nível 2
 
 > Si deve $AB$ essere un diametro di un cerchio $\Gamma$ e si deve $CD$ essere un accordo perpendicolare a tale diametro. Il $E$ deve essere il punto di intersezione di $CD$ e $AB$, e il $P$ deve essere qualsiasi punto dell'accordo $CD$ diverso da $E$. Le linee $AP$ e $BP$ rientrano in $\Gamma$ rispettivamente a $F$ e $G$. Se $O$ è il centro circundante del triangolo $EFG$, indicare che l'area del triangolo $OCD$ è sempre la stessa, indipendentemente dal punto scelto $P$.
 
-![[src_obm_2014_n2_f3__Q02.png]]
+![[src_obm_2014_n2_f3__q02.png]]
 
-[[src_obm_2014_n2_f3__Q02]]
+[[Quesiti/src_obm_2014_n2_f3#q02|src_obm_2014_n2_f3__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: OBM Nível 2
 
 > Trova tutti gli enti $n$, $n > 1$, con la seguente proprietà: per ogni $k$ con $0 \le k < n$, esiste un multiple di $n$ la cui somma di cifre, nella base dieci, lascia il rimanente $k$ dopo la divisione da $n$.
 
-[[src_obm_2014_n2_f3__Q03]]
+[[Quesiti/src_obm_2014_n2_f3#q03|src_obm_2014_n2_f3__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: OBM Nível 2
 
 > $ABCD$ sia un quadrato con il centro $O$. I punti $E$, $F$, $G$, $H$ siano punti interni sui lati $AB$, $BC$, $CD$, $DA$, rispettivamente, in modo tale che $AE = BF = CG = DH$. Supponiamo che la riga $OA$ incontra $HE$ al punto $X$, la riga $OB$ incontra $EF$ al punto $Y$, la riga $OC$ incontra $FG$ al punto $Z$ e la riga $OD$ incontra $GH$ al punto $W$. Dato che $\text{Area}(EFGH) = 1$, trovare $$\left(\text{Area}\,ABCD\right) \times \left(\text{Area}\,XYZW\right).$$
 
-[[src_obm_2014_n2_f3__Q04]]
+[[Quesiti/src_obm_2014_n2_f3#q04|src_obm_2014_n2_f3__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 2
 
 > Lasciate che $p$ e $q$ siano numeri interi. Sapendo che $x^2 + px + q$ è positivo per ogni numero intero $x$, dimostrare che l'equazione $x^2 + px + q = 0$ non ha soluzione reale.
 
-[[src_obm_2014_n2_f3__Q05]]
+[[Quesiti/src_obm_2014_n2_f3#q05|src_obm_2014_n2_f3__Q05]]
 
 
 
@@ -175,7 +175,7 @@ level: OBM Nível 2
 
 > In each cell of a $2m \times 2n$ board an integer is written. The allowed operation is to choose three cells forming a figure congruent to an L-tromino, as indicated in the figure below, and to add $1$ to each of these three cells. Determine the necessary and sufficient condition, in terms of $m$, $n$ and the initial numbers, for it to be possible to make all the numbers equal.
 
-![[src_obm_2014_n2_f3__Q06.png]]
+![[src_obm_2014_n2_f3__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]]
@@ -191,6 +191,6 @@ level: OBM Nível 2
 
 > In ogni cella di una tabella $2m \times 2n$ viene scritto un numero intero. L'operazione consentita è quella di scegliere tre celle che formano una figura congruente a un L-tromino, come indicato nella figura seguente, e di aggiungere $1$ a ciascuna di queste tre celle. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, per rendere possibile la parità di tutti i numeri.
 
-![[src_obm_2014_n2_f3__Q06.png]]
+![[src_obm_2014_n2_f3__q06.png]]
 
-[[src_obm_2014_n2_f3__Q06]]
+[[Quesiti/src_obm_2014_n2_f3#q06|src_obm_2014_n2_f3__Q06]]

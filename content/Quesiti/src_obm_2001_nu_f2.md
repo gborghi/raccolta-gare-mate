@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > Che $O$ sia un punto e $r$ una linea nel piano. Per ogni punto $P$ di $r$, $r_P$ deve essere perpendicolare a $OP$ che passa attraverso $P$. Prove che l'insieme $\{r_P \mid P \in r\}$ è l'insieme di tutte le linee tangenti di una parabola.
 
-[[src_obm_2001_nu_f2__Q01]]
+[[Quesiti/src_obm_2001_nu_f2#q01|src_obm_2001_nu_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 
 > $\varepsilon$ sia un numero reale positivo arbitrario. Con centro in ogni punto del piano con coordinate interi, disegnare un cerchio di raggio $\varepsilon$. Prove che ogni linea che passa attraverso l'origine incontra infinitamente molti di questi cerchi.
 
-[[src_obm_2001_nu_f2__Q02]]
+[[Quesiti/src_obm_2001_nu_f2#q02|src_obm_2001_nu_f2__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: OBM Nível Universitário
 
 > Definire $SL(2,\mathbb{Z})$ come l'insieme di matrici $2 \times 2$ con voci interi e determinante $1$. Che $A \in SL(2,\mathbb{Z})$ sia una matrice tale che esista $n > 0$ un intero con $A^n = I$. Prova che esiste $X \in SL(2,\mathbb{Z})$ tale che $X^T A X$ sia uguale a una delle seguenti matrici: $$\pm\begin{pmatrix}1 & 0\\0 & 1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 0\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & -1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 1\end{pmatrix}.$$
 
-[[src_obm_2001_nu_f2__Q03]]
+[[Quesiti/src_obm_2001_nu_f2#q03|src_obm_2001_nu_f2__Q03]]
 
 
 
@@ -101,7 +101,7 @@ level: OBM Nível Universitário
 
 > Walking along the unit segments of the figure below, determine how many distinct paths from $A$ to $B$ exist without passing through any point more than once.
 
-![[src_obm_2001_nu_f2__Q04.png]]
+![[src_obm_2001_nu_f2__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
@@ -117,9 +117,9 @@ level: OBM Nível Universitário
 
 > Se si seguono i segmenti unitari della figura di seguito, si può determinare quanti percorsi distinti esistono da $A$ a $B$ senza passare più di una volta attraverso alcun punto.
 
-![[src_obm_2001_nu_f2__Q04.png]]
+![[src_obm_2001_nu_f2__q04.png]]
 
-[[src_obm_2001_nu_f2__Q04]]
+[[Quesiti/src_obm_2001_nu_f2#q04|src_obm_2001_nu_f2__Q04]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível Universitário
 > 
 > b) Calcolare $I(u)$ per tutti $u \in \mathbb{R}$.
 
-[[src_obm_2001_nu_f2__Q05]]
+[[Quesiti/src_obm_2001_nu_f2#q05|src_obm_2001_nu_f2__Q05]]
 
 
 
@@ -185,4 +185,4 @@ level: OBM Nível Universitário
 > 
 > (Notazione: $|(x,y)| = \sqrt{x^2 + y^2}$.)
 
-[[src_obm_2001_nu_f2__Q06]]
+[[Quesiti/src_obm_2001_nu_f2#q06|src_obm_2001_nu_f2__Q06]]

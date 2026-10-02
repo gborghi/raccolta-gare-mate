@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > In un triangolo acuto $ABC$ il punto $O$ è il centro circostante, $CD$ è l'altitudine, $E$ un punto laterale $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ a $M$ incrocia rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prove che $\frac{LM}{MK} = \frac{AD}{DB}$.
 
-[[src_pol_2007_r3__Q01]]
+[[Quesiti/src_pol_2007_r3#q01|src_pol_2007_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Si dice che un intero positivo sia $white$ se è uguale a 1 o a un prodotto di un numero pari di fattori primi (non necessariamente distinti). Altri integri positivi sono denominati $black$. Esiste un numero intero positivo la cui somma dei divisori bianchi è uguale alla somma dei divisori neri?
 
-[[src_pol_2007_r3__Q02]]
+[[Quesiti/src_pol_2007_r3#q02|src_pol_2007_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 3
 
 > Un piano è diviso in unità quadrate. Un intero positivo deve essere scritto in ogni quadrato unitario in modo che ogni intero positivo si verifichi esattamente una volta. Decidi se questo può essere fatto in modo tale che il numero in ogni quadrato divida la somma dei numeri nei quattro quadrati vicini.
 
-[[src_pol_2007_r3__Q03]]
+[[Quesiti/src_pol_2007_r3#q03|src_pol_2007_r3__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 3
 
 > Date un numero intero $n \ge 1$, trovare il numero dei valori possibili del prodotto $km$, dove $k$ e $m$ sono numeri interi con $n^2 \le k \le m \le (n+1)^2$.
 
-[[src_pol_2007_r3__Q04]]
+[[Quesiti/src_pol_2007_r3#q04|src_pol_2007_r3__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 3
 
 > Un tetraedro $ABCD$ è tale che $$\angle BAC + \angle BDC = \angle ABD + \angle ACD,$$ $$\angle BAD + \angle BCD = \angle ABC + \angle ADC.$$ dimostri che il centro della sfera circoscritta del tetraedro si trova sulla linea che attraversa i punti medi di $AB$ e $CD$.
 
-[[src_pol_2007_r3__Q05]]
+[[Quesiti/src_pol_2007_r3#q05|src_pol_2007_r3__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 3
 
 > La sequenza dei numeri reali $a_0, a_1, a_2, \ldots$ è definita da $a_0 = -1$ e $$a_n + \frac{a_{n-1}}{2} + \frac{a_{n-2}}{3} + \cdots + \frac{a_1}{n} + \frac{a_0}{n+1} = 0 \quad \text{for } n \ge 1.$$ Mostra che $a_n > 0$ per $n \ge 1$.
 
-[[src_pol_2007_r3__Q06]]
+[[Quesiti/src_pol_2007_r3#q06|src_pol_2007_r3__Q06]]

@@ -44,7 +44,7 @@ level: squadre
 > Shaded fraction Each side of a regular hexagon has been divided into three segments of equal length. The subdivision points have been connected in pairs by segments as shown in the figure. What fraction of the hexagon is shaded? (Use the first two digits left for the numerator, the other for the denominator: for example, for 3/5 write 0305.)
 
 **Answer:** 0209
-[[src_kangourou_2020_squadre_finale__Q01]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q01|src_kangourou_2020_squadre_finale__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: squadre
 > In place 2020 What is the number in place 2020 of the sequence 1, 3, 3, 5, 5, 5, 5, 5, 7, 7, ... where all and only the odd integers appear, in increasing order and each one a number of times equal to itself?
 
 **Answer:** 0089
-[[src_kangourou_2020_squadre_finale__Q02]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q02|src_kangourou_2020_squadre_finale__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: squadre
 > Carla's conundrum has 100 leaflets, each of which has a number that can only be 1 or -1. Carla asks Darius to guess the sum (algebraic) of all the numbers that appear on her 100 leaflets. How many numbers is Darius forced to guess?
 
 **Answer:** 0101
-[[src_kangourou_2020_squadre_finale__Q03]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q03|src_kangourou_2020_squadre_finale__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: squadre
 > Dispose against even From the set of all integers between 1000 and 9999 included, imagine selecting the subset D of those whose digits are all odd and the subset P of those whose digits are all equal. Now imagine you add all the numbers in D and, separately, all the numbers in P. What are the first four digits to the left of the difference between the two sums?
 
 **Answer:** 7498
-[[src_kangourou_2020_squadre_finale__Q04]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q04|src_kangourou_2020_squadre_finale__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: squadre
 > Trees A March 2017 along an avenue were planted by trees, very far apart. In March 2018, another one was planted between each of the two adjacent ones. The same operation was repeated in March for the next two years. To date, 81 trees have been planted since March 2017 (in addition to the ones we are talking about, no others have been planted). How many trees were planted in March 2017?
 
 **Answer:** 0011
-[[src_kangourou_2020_squadre_finale__Q05]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q05|src_kangourou_2020_squadre_finale__Q05]]
 
 
 
@@ -206,7 +206,7 @@ level: squadre
 > In a theater there are more than 1,000 spectators, but less than 1,500. If they're divided into groups of two, or three, or four, or five, or six, there's always exactly one viewer out. If they are divided into groups of seven people, no one is left out. How many spectators are there?
 
 **Answer:** 1141
-[[src_kangourou_2020_squadre_finale__Q06]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q06|src_kangourou_2020_squadre_finale__Q06]]
 
 
 
@@ -240,7 +240,7 @@ level: squadre
 > The largest triangle You can get an equilateral triangle of 3 cm side by approaching 9 equilateral triangles of 1 cm each side. By approximating a larger number of equilateral triangles, each on side 1, with the same criterion, larger equilateral triangles can be obtained. You want to cover with a rigid thread all the segments that appear in the figure obtained, but you only have 2020 cm of thread (which, if necessary, can be cut). How many centimeters is the length of the side of the largest triangle on which you can do this operation?
 
 **Answer:** 0036
-[[src_kangourou_2020_squadre_finale__Q07]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q07|src_kangourou_2020_squadre_finale__Q07]]
 
 
 
@@ -276,7 +276,7 @@ level: squadre
 > On a rectangular chessboard of 100 × 50 there are 5000 tokens, one on each box. Each token has a black face and a red face, and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to overturn a token you have to overturn all the tokens of the line or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
 
 **Answer:** 0022
-[[src_kangourou_2020_squadre_finale__Q08]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q08|src_kangourou_2020_squadre_finale__Q08]]
 
 
 
@@ -340,7 +340,7 @@ level: squadre
 > The window The figure shows you the pattern of a semi-circular window closed with a window, made up of the glass plates that are highlighted. The bases (horizontal sides) of the plates are all the same length, one tenth of a centimeter in diameter. How many centimetres does the height of each rectangular plate measure?
 
 **Answer:** 0075
-[[src_kangourou_2020_squadre_finale__Q09]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q09|src_kangourou_2020_squadre_finale__Q09]]
 
 
 
@@ -371,7 +371,7 @@ level: squadre
 > Sofia Sofia's age made a calculation: if you multiply the age (in years) she was 55 years old by the age she would be 55 years old if she was still alive, you get a number that is the cube of a prime number. How old is Sofia?
 
 **Answer:** 0066
-[[src_kangourou_2020_squadre_finale__Q10]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q10|src_kangourou_2020_squadre_finale__Q10]]
 
 
 
@@ -401,7 +401,7 @@ level: squadre
 > Sum of cubes Two positive integers a and b are such that a3  b3 = 485. How much is a3 + b3 ?
 
 **Answer:** 0539
-[[src_kangourou_2020_squadre_finale__Q11]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q11|src_kangourou_2020_squadre_finale__Q11]]
 
 
 
@@ -434,7 +434,7 @@ level: squadre
 > Six whole numbers were written in arithmetic progression (i.e. the difference of each, except the first, with the previous one was always the same). In copying them, Sandro the Pasticcio not only forgot one, but he also mistook another. So he wrote, 11, 25, 32, 37, 46. What is the sum of the two numbers in the initial progression that Sandro misread or forgot?
 
 **Answer:** 0057
-[[src_kangourou_2020_squadre_finale__Q12]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q12|src_kangourou_2020_squadre_finale__Q12]]
 
 
 
@@ -469,7 +469,7 @@ level: squadre
 > Tickets Rectangular tickets are used to identify each participant in a competition. One face is gray, equal for all; the other is divided into 5 aligned squares (congruents) which can be coloured with 4 different colours available; these colours can be used in any position, even partially (e.g. it is possible that only one colour is used in a ticket). There's no other marks on the tickets. How many participants can be admitted at most?
 
 **Answer:** 0544
-[[src_kangourou_2020_squadre_finale__Q13]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q13|src_kangourou_2020_squadre_finale__Q13]]
 
 
 
@@ -501,7 +501,7 @@ level: squadre
 > The spoil A spoil of 44,100 gold coins is divided into bags: one of 1, one of 3, one of 5, one of 7 coins ... and so on. One of the bags is then placed in a safe, two of the remaining bags together in another safe, three of the remaining bags together in a third safe and so on. How many safe houses are in total?
 
 **Answer:** 0020
-[[src_kangourou_2020_squadre_finale__Q14]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q14|src_kangourou_2020_squadre_finale__Q14]]
 
 
 
@@ -541,4 +541,4 @@ Maximum cost for roses and tulips 2020 chairs
 > Questions and solutions
 
 **Answer:** 5386
-[[src_kangourou_2020_squadre_finale__Q15]]
+[[Quesiti/src_kangourou_2020_squadre_finale#q15|src_kangourou_2020_squadre_finale__Q15]]

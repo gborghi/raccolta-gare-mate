@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > (ii) Esprimere un vero teorema sulle ellisse o se vi piace su conico in generale di cui (i) è un caso particolare.
 
-[[src_bmo1_1973__Q01]]
+[[Quesiti/src_bmo1_1973#q01|src_bmo1_1973__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > 9 punti sono dati all'interno del quadrato unitario. Prove che esiste un triangolo di superficie $\frac{1}{8}$ la cui verticale sono tre dei punti.
 
-[[src_bmo1_1973__Q02]]
+[[Quesiti/src_bmo1_1973#q02|src_bmo1_1973__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 > 
 > [Si possono assumere formule triangolari sferiche come $\cos a = \cos b\cos c + \sin b\sin c\cos A$ o $\sin c\cot B = \sin b\cot A - \cos b\cos C$. In un triangolo sferico i lati $a$, $b$, $c$ sono archi di grandi cerchi e sono misurati dagli angoli che essi sottendono al centro della sfera.]
 
-[[src_bmo1_1973__Q03]]
+[[Quesiti/src_bmo1_1973#q03|src_bmo1_1973__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: BMO Round 1
 > 
 > Obviously $n$ cannot be any positive integer. The smallest $n$ is 6, and the next 13. Determine conditions for possible $n$.
 
-![[src_bmo1_1973__Q04.png]]
+![[src_bmo1_1973__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -128,9 +128,9 @@ level: BMO Round 1
 > 
 > Ovviamente $n$ non può essere un intero positivo. Il più piccolo $n$ è 6, e il successivo 13. Determinare le condizioni per un possibile $n$.
 
-![[src_bmo1_1973__Q04.png]]
+![[src_bmo1_1973__q04.png]]
 
-[[src_bmo1_1973__Q04]]
+[[Quesiti/src_bmo1_1973#q04|src_bmo1_1973__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > Date una prova adeguatamente ampliata e motivata che vi sia un insieme infinito di interi positivi della forma $2^n - 3$ con proprietà $Q$.
 
-[[src_bmo1_1973__Q05]]
+[[Quesiti/src_bmo1_1973#q05|src_bmo1_1973__Q05]]
 
 
 
@@ -199,7 +199,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > Trova il rapporto tra il numero di ragazzi e ragazze in classe.
 
-[[src_bmo1_1973__Q06]]
+[[Quesiti/src_bmo1_1973#q06|src_bmo1_1973__Q06]]
 
 
 
@@ -235,7 +235,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > N.B. A 100 anni tutti i draconiani vengono giustiziati.
 
-[[src_bmo1_1973__Q07]]
+[[Quesiti/src_bmo1_1973#q07|src_bmo1_1973__Q07]]
 
 
 
@@ -269,7 +269,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > (ii) Trovare condizioni su $a$, $b$, $c$, $d$ in modo che $T^n = I$ ma $T^2 \ne I$.
 
-[[src_bmo1_1973__Q08]]
+[[Quesiti/src_bmo1_1973#q08|src_bmo1_1973__Q08]]
 
 
 
@@ -300,7 +300,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 > 
 > Indicare che le linee $L_r = 0$, $r = 1, 2, 3$ sono simultanee e trovare le coordinate della loro concordanza.
 
-[[src_bmo1_1973__Q09]]
+[[Quesiti/src_bmo1_1973#q09|src_bmo1_1973__Q09]]
 
 
 
@@ -331,7 +331,7 @@ Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2
 > 
 > Non c'è bisogno di stampare in ordine ascendente o di evitare ripetizioni.
 
-[[src_bmo1_1973__Q10]]
+[[Quesiti/src_bmo1_1973#q10|src_bmo1_1973__Q10]]
 
 
 
@@ -367,4 +367,4 @@ Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2
 > 
 > [Il momento di inerzia di un cilindro uniforme attorno al suo asse è $\frac{1}{2}(\text{mass})(\text{radius})^2$.]
 
-[[src_bmo1_1973__Q11]]
+[[Quesiti/src_bmo1_1973#q11|src_bmo1_1973__Q11]]

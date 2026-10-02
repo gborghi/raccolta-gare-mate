@@ -39,7 +39,7 @@ level: kangourou
 > Out of the next five, which is the largest number? A) 20111 B) 12011 C) 1 x 2011 D) 1 + 2011 E) 1 : 2011
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q01]]
+[[Quesiti/src_kangourou_2011_cadet#q01|src_kangourou_2011_cadet__Q01]]
 
 
 
@@ -72,7 +72,7 @@ This is not the case with the manufacturer's products.
 > My calculator divides instead of multiplying and subtracts instead of adding. If I type (12 x 3) + (4 x 2) what do I get? A) 2 B) 6 C) 12 D) 24 E) 30
 
 **Answer:** A
-[[src_kangourou_2011_cadet__Q02]]
+[[Quesiti/src_kangourou_2011_cadet#q02|src_kangourou_2011_cadet__Q02]]
 
 
 
@@ -107,7 +107,7 @@ This is not the case with the manufacturer's products.
 > My digital clock just went off from 8:10 to 8:11. In how many minutes will it again show an hour of the digits 0, 1, 1, 2 arranged in some order? A) 40 B) 45 C) 50 D) 55 E) 60
 
 **Answer:** C
-[[src_kangourou_2011_cadet__Q03]]
+[[Quesiti/src_kangourou_2011_cadet#q03|src_kangourou_2011_cadet__Q03]]
 
 
 
@@ -169,7 +169,7 @@ This is not the case with the manufacturer's products.
 > The figure shows three squares: the intermediate square is obtained by joining the middle points of the sides of the larger square and the smaller square by joining the middle points of the sides of the intermediate square. The area of the smallest square is 6 cm2. What is the difference between the area, in square centimetres, of the large square and that of the middle square? A) 6 B) 9 C) 12 D) 15 E) 18
 
 **Answer:** C
-[[src_kangourou_2011_cadet__Q04]]
+[[Quesiti/src_kangourou_2011_cadet#q04|src_kangourou_2011_cadet__Q04]]
 
 
 
@@ -205,7 +205,7 @@ Score of the game won by the Kang team
 > In a football tournament, the Kang team collectively scored three goals on one goal. In doing so, he won one game, drew one and lost one. What was the score of the game you won? A) 3 - 0 B) 2 - 0 C) 1 - 0 D) 3 - 1 E) 2 - 1
 
 **Answer:** A
-[[src_kangourou_2011_cadet__Q05]]
+[[Quesiti/src_kangourou_2011_cadet#q05|src_kangourou_2011_cadet__Q05]]
 
 
 
@@ -250,7 +250,7 @@ How many mice did Felix take on the third day?
 > I'm going to pay. I'm going to pay. This is a list of official languages of the United Kingdom.
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q06]]
+[[Quesiti/src_kangourou_2011_cadet#q06|src_kangourou_2011_cadet__Q06]]
 
 
 
@@ -284,7 +284,7 @@ How many mice did Felix take on the third day?
 > In a theatre there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
 
 **Answer:** A
-[[src_kangourou_2011_cadet__Q07]]
+[[Quesiti/src_kangourou_2011_cadet#q07|src_kangourou_2011_cadet__Q07]]
 
 
 
@@ -318,7 +318,7 @@ How many mice did Felix take on the third day?
 > Which of the following numbers cannot be the area, in square metres, of a triangle whose two sides are 6 and 8 metres long? A) 20 B) 24 C) 19,1 D) 25 E) 5
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q08]]
+[[Quesiti/src_kangourou_2011_cadet#q08|src_kangourou_2011_cadet__Q08]]
 
 
 
@@ -360,7 +360,7 @@ How many mice did Felix take on the third day?
 > E) 781
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q09]]
+[[Quesiti/src_kangourou_2011_cadet#q09|src_kangourou_2011_cadet__Q09]]
 
 
 
@@ -424,7 +424,7 @@ How many mice did Felix take on the third day?
 > The drawing shows a ELLE formed by four equal squares. You want to add a square so you get a shape that's symmetrical to some straight line. How many ways can the goal be achieved? A) 1 B) 2 C) 3 D) 4 E) 0 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2011_cadet__Q10]]
+[[Quesiti/src_kangourou_2011_cadet#q10|src_kangourou_2011_cadet__Q10]]
 
 
 
@@ -457,7 +457,7 @@ This is the total value of the assets of the institution.
 > This is the total amount of the loan.
 
 **Answer:** C
-[[src_kangourou_2011_cadet__Q11]]
+[[Quesiti/src_kangourou_2011_cadet#q11|src_kangourou_2011_cadet__Q11]]
 
 
 
@@ -493,7 +493,7 @@ This is the total value of the assets of the institution.
 > On the board, I want to draw four circles so that, no matter how you choose two, they have one and only one point in common. What is the largest number of points in the plane that can belong to more than one circumference? A) 1 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q12]]
+[[Quesiti/src_kangourou_2011_cadet#q12|src_kangourou_2011_cadet__Q12]]
 
 
 
@@ -529,7 +529,7 @@ This is the total value of the assets of the institution.
 > On the board, Nadia has mapped a DE segment of length 2. How many different F points can you mark on the board if you want the DEF triangle to be rectangular and have area 1? A) 2 B) 4 C) 6 D) 8 E) 10
 
 **Answer:** C
-[[src_kangourou_2011_cadet__Q13]]
+[[Quesiti/src_kangourou_2011_cadet#q13|src_kangourou_2011_cadet__Q13]]
 
 
 
@@ -570,7 +570,7 @@ This is the total value of the assets of the institution.
 > I'm going to pay. I'm going to pay. 18 18 Kang 201 Kang 2011
 
 **Answer:** E
-[[src_kangourou_2011_cadet__Q14]]
+[[Quesiti/src_kangourou_2011_cadet#q14|src_kangourou_2011_cadet__Q14]]
 
 
 
@@ -613,7 +613,7 @@ This is the total value of the assets of the institution.
 > Each region of the map you see in the figure should be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must be given different colors. Three regions have already been assigned colour. What colour shall be assigned to the region marked with X? A) Only red B) Only blue C) Only green D) Only yellow E) Anything between blue and red
 
 **Answer:** A
-[[src_kangourou_2011_cadet__Q15]]
+[[Quesiti/src_kangourou_2011_cadet#q15|src_kangourou_2011_cadet__Q15]]
 
 
 
@@ -677,7 +677,7 @@ This is the total value of the assets of the institution.
 > A square has been divided into six rectangles as suggested by the figure. The sum of the lengths of the perimeter of the six rectangles is 120 cm. What is the original square's area in square centimeters? A) 48 B) 64 C) 110, 25 D) 144 E) 256
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q16]]
+[[Quesiti/src_kangourou_2011_cadet#q16|src_kangourou_2011_cadet__Q16]]
 
 
 
@@ -712,7 +712,7 @@ This is the total value of the assets of the institution.
 > Four positive numbers a, b, c, d are such that a < b < c < d. You have to add 1 to one of them so that, multiplying between them the three remaining unchanged numbers and the one increased by 1, the result is as small as possible. Which of the four numbers do you have to add 1 to? (a) (b) (c) (d) (e) (b) or (c)
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q17]]
+[[Quesiti/src_kangourou_2011_cadet#q17|src_kangourou_2011_cadet__Q17]]
 
 
 
@@ -751,7 +751,7 @@ This is the total value of the assets of the institution.
 > We built a cube from its development on a cross-cut cardboard like the one drawn next to it. Then we draw a black line on the surface of the cube that divides it into two identical parts (see figure). If we go back to the development of the cube, which of the figures shown below will we see on the cardboard?
 
 **Answer:** A
-[[src_kangourou_2011_cadet__Q18]]
+[[Quesiti/src_kangourou_2011_cadet#q18|src_kangourou_2011_cadet__Q18]]
 
 
 
@@ -816,7 +816,7 @@ This is the total value of the assets of the institution.
 > I'm going to pay. I'm going to pay. 19 19 Kang 201 Kang 2011
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q19]]
+[[Quesiti/src_kangourou_2011_cadet#q19|src_kangourou_2011_cadet__Q19]]
 
 
 
@@ -862,7 +862,7 @@ This is the total value of the assets of the institution.
 > The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes obtained by approaching five equal squares, having the same side as the chessboard boxes. Two of the shapes have already been placed on the chessboard: you want to place a third on the empty boxes so that you can't insert any of the other shapes without overlapping. Which of the five forms below should you use? (Warning: shapes can be turned and/or rotated, but they must always be inserted so that their sides match the sides of the boxes). The questions from N. 21 al N. 30 is worth 5 points each 21. The five-digit number 24X8Y is divisible by 4, 5 and 9. How much is X + Y? A) 13 B) 10 C) 9 D) 5 E) 4
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q20]]
+[[Quesiti/src_kangourou_2011_cadet#q20|src_kangourou_2011_cadet__Q20]]
 
 
 
@@ -903,7 +903,7 @@ This is the total value of the assets of the institution.
 > - **(E)** 4
 
 **Answer:** E
-[[src_kangourou_2011_cadet__Q21]]
+[[Quesiti/src_kangourou_2011_cadet#q21|src_kangourou_2011_cadet__Q21]]
 
 
 
@@ -945,7 +945,7 @@ This is the total value of the assets of the institution.
 > You can cut a cube with a plane so that the section is a regular hexagon. This can be done in 4 different ways and in any case the drying plane intersects 6 different cube branches. Each branch of the cube in the figure is marked by a letter: of the following six branches, which one cannot be affected by a cut giving rise to a regular hexagon? A) k, j, d, a, f, h B) k, l, a, b, e, g C) c, b, h, f, i, l D) g, j, i, c, d, e E) i, k, e, g, a, c
 
 **Answer:** E
-[[src_kangourou_2011_cadet__Q22]]
+[[Quesiti/src_kangourou_2011_cadet#q22|src_kangourou_2011_cadet__Q22]]
 
 
 
@@ -1009,7 +1009,7 @@ Who lies between Ida Mara Olga
 > I'm going to pay. I'm going to pay. 20 20 Kang 201 Kang 2011
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q23]]
+[[Quesiti/src_kangourou_2011_cadet#q23|src_kangourou_2011_cadet__Q23]]
 
 
 
@@ -1045,7 +1045,7 @@ How many shots did Michele take?
 > Michele played point-and-shoot. 25% of his shots went unmarked; with the shots that went unmarked, he hit only 5, 8 and 10, hitting 8 and 10 the same number of times. If he scored 99 points in total, how many shots did Michele take? A) 10 B) 12 C) 16 D) 20 E) 24
 
 **Answer:** D
-[[src_kangourou_2011_cadet__Q24]]
+[[Quesiti/src_kangourou_2011_cadet#q24|src_kangourou_2011_cadet__Q24]]
 
 
 
@@ -1089,7 +1089,7 @@ How many shots did Michele take?
 > During a road trip by car on a rough road, Michela drew the sketch you see in the picture: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, the streets of Arccia, Righello and Chiodo are all straight. Fourth Avenue is Curva Street. Which one of the four friends lives on Curva Street? A) Angela B) White C) Clear D) Donated E) Can not be deduced from the sketch available
 
 **Answer:** C
-[[src_kangourou_2011_cadet__Q25]]
+[[Quesiti/src_kangourou_2011_cadet#q25|src_kangourou_2011_cadet__Q25]]
 
 
 
@@ -1124,7 +1124,7 @@ How many shots did Michele take?
 > In an ABCD convex quadrilateral the AB side and the AC diagonal have the same length. In addition, the BAD angle measures 80°, the ABC angle measures 75°, and the ADC angle measures 65°. How many degrees does the BDC angle measure? A) 10 B) 15 C) 20 D) 30 E) 45
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q26]]
+[[Quesiti/src_kangourou_2011_cadet#q26|src_kangourou_2011_cadet__Q26]]
 
 
 
@@ -1160,7 +1160,7 @@ True statement about the ages of Eva and Rita
 > Eva and Rita are two teachers on duty. Seven years ago, Eve's age was a multiple of eight, and eight years from now, she'll be a multiple of seven. Eight years ago Rita's age was a multiple of 7 and in seven years it will be a multiple of 8. Which of the following statements can be true? A) Rita is two years older than Eva B) Rita is one year older than Eva C) Rita and Eva are the same age D) Rita is one year younger than Eva E) Rita is two years younger than Eva
 
 **Answer:** A
-[[src_kangourou_2011_cadet__Q27]]
+[[Quesiti/src_kangourou_2011_cadet#q27|src_kangourou_2011_cadet__Q27]]
 
 
 
@@ -1211,7 +1211,7 @@ True statement about the ages of Eva and Rita
 > I'm going to pay. I'm going to pay. 21 21 Kang 201 Kang 2011
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q28]]
+[[Quesiti/src_kangourou_2011_cadet#q28|src_kangourou_2011_cadet__Q28]]
 
 
 
@@ -1248,7 +1248,7 @@ True statement about the ages of Eva and Rita
 > An electronic game features a 4x4 chessboard, which, when touched on a cell, lights up by showing its color. The blue cells need to be lit. In each game, there are only two blue cells and they have one side in common. What is the minimum number of cells that you can touch to be sure to illuminate both blue cells? A) 9 B) 10 C) 11 D) 12 E) 13
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q29]]
+[[Quesiti/src_kangourou_2011_cadet#q29|src_kangourou_2011_cadet__Q29]]
 
 
 
@@ -1298,4 +1298,4 @@ True statement about the ages of Eva and Rita
 > 1 2011 Cadet category
 
 **Answer:** B
-[[src_kangourou_2011_cadet__Q30]]
+[[Quesiti/src_kangourou_2011_cadet#q30|src_kangourou_2011_cadet__Q30]]

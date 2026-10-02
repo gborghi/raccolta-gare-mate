@@ -42,7 +42,7 @@ level: Classi Prime
 > Whether n = 255 · 257. In the binary representation of n, how many digits are equal to 1? A 16 B 1 C 2 D 4 E 8 F 7
 
 **Answer:** A
-[[src_garaprime_2017__Q01]]
+[[Quesiti/src_garaprime_2017#q01|src_garaprime_2017__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: Classi Prime
 > Both n and the number whose binary representation is 2017 are all digits equal to 1. What is (based on 10) the remainder you get by dividing n by 16? A 15 B 1 C 3 D 7 E 12 F 0
 
 **Answer:** A
-[[src_garaprime_2017__Q02]]
+[[Quesiti/src_garaprime_2017#q02|src_garaprime_2017__Q02]]
 
 
 
@@ -131,7 +131,7 @@ level: Classi Prime
 > The ABC triangle is equilateral. The four grey triangles in the figure are also equilateral and their areas are 1, 4, 9 and 16. What's the area of ABC? A B C 1 16 4 9 H K P Q R S Figure 1 A 121 B 100 C 101 D 144 E 120 F cannot be determined by the data provided alone
 
 **Answer:** A
-[[src_garaprime_2017__Q03]]
+[[Quesiti/src_garaprime_2017#q03|src_garaprime_2017__Q03]]
 
 
 
@@ -177,7 +177,7 @@ level: Classi Prime
 > The ABCD rectangle has an area of 1000. In addition, the MD arc is centered in A, the MC arc is centered in B and the CD arc is centered in M. How much is the grey area in the figure? A B C D M is shown 2 A 500 B 150π C 125 + 125π D 900 −125π E 450 F 625
 
 **Answer:** A
-[[src_garaprime_2017__Q04]]
+[[Quesiti/src_garaprime_2017#q04|src_garaprime_2017__Q04]]
 
 
 
@@ -215,7 +215,7 @@ level: Classi Prime
 > Three cars, one white, one black and one red, take the same route, starting together. The white car travels at 60 km/h for the first half of the time, then travels at 120 km/h. The black car travels 60 km/h for the first half of its journey, then travels at 120 km/h. The red car, on the other hand, travels 80 km/h for the first half of the journey, then travels at 100 km/h. In what order do they reach the goal? In white, red, black. B's white, black, red. Black, white, red. All of them together. It's red, black, white. Red, white, black.
 
 **Answer:** A
-[[src_garaprime_2017__Q05]]
+[[Quesiti/src_garaprime_2017#q05|src_garaprime_2017__Q05]]
 
 
 
@@ -252,7 +252,7 @@ level: Classi Prime
 > A rectangle has an area of 12120 and sides of full size. What's the minimum value of its perimeter? A 442 B 440 C 444 D 446 E 448 F None of the other answers are correct
 
 **Answer:** A
-[[src_garaprime_2017__Q06]]
+[[Quesiti/src_garaprime_2017#q06|src_garaprime_2017__Q06]]
 
 
 
@@ -288,7 +288,7 @@ level: Classi Prime
 > That's n = 7575 and m = 7755. How many ways can I choose the positive integer k so that MCD(m, n) = MCD(m, n, k) and mcm(m, n) = mcm(m, n, k)? A 16 B 12 C 2 D 181 E 163 F 36
 
 **Answer:** A
-[[src_garaprime_2017__Q07]]
+[[Quesiti/src_garaprime_2017#q07|src_garaprime_2017__Q07]]
 
 
 
@@ -332,7 +332,7 @@ level: Classi Prime
 > On the island of Kenoncè, RivaDritta's beach is famous because the line separating the land from the sea remains perfectly straight for many kilometres. Luca lit a fire on the beach just six feet from the shore and then fell asleep while Claudia went to look for more wood. At some point, while exactly 39 meters in the airline from the fire and 21 meters from the shore, Claudia sees that the fire could burn Luke and then decides to run to a C point on the shore, get some water and run to put out the fire. What is the length of the route Claudia runs, if she chooses C so that it is minimal? A 45 m B 48 m C 42 m D 44 m E 50 m F 49 m
 
 **Answer:** A
-[[src_garaprime_2017__Q08]]
+[[Quesiti/src_garaprime_2017#q08|src_garaprime_2017__Q08]]
 
 
 
@@ -371,7 +371,7 @@ level: Classi Prime
 > I have ten segments of lengths, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 respectively, and I want to build five rectangles, each having one of those segments for base and height. If, in the end, I have to have used all ten segments, what is the minimum value I can get for the sum of the areas of the five rectangles? A 110 B 96 C 120 D 119 E 90 F None of the other answers are correct
 
 **Answer:** A
-[[src_garaprime_2017__Q09]]
+[[Quesiti/src_garaprime_2017#q09|src_garaprime_2017__Q09]]
 
 
 
@@ -409,7 +409,7 @@ level: Classi Prime
 > We know that Claudia's ATM PIN is a 5-digit number of the form n = 41a9b, where a and b indicate the numbers we don't know. But we know that n is divisible by 312. How much is the product a · b? A 24 B 36 C 12 D 10 E 64 F not determined by the data provided alone
 
 **Answer:** A
-[[src_garaprime_2017__Q10]]
+[[Quesiti/src_garaprime_2017#q10|src_garaprime_2017__Q10]]
 
 
 
@@ -448,7 +448,7 @@ level: Classi Prime
 > The height measurements hA and hB, carried out by vertices A and B respectively, are known from an acute triangle ABC. Furthermore, Claudia knows the measure of the AC side, Luke the measure of the AB side and Raffaella the measure of the internal angle bA, but none of the three communicates the information in his possession to the other two. Which of the three has enough data to uniquely determine the triangle? To all B only Luca and Claudia C only Raffaella and Claudia D only Luca and Raffaella E only Claudia F only Luca
 
 **Answer:** A
-[[src_garaprime_2017__Q11]]
+[[Quesiti/src_garaprime_2017#q11|src_garaprime_2017__Q11]]
 
 
 
@@ -482,7 +482,7 @@ level: Classi Prime
 > It is either M = MCD ((4344, 4368). How much is the sum of the digits of M? A 6 B 8 C 9 D 15 E 3 F 7
 
 **Answer:** A
-[[src_garaprime_2017__Q12]]
+[[Quesiti/src_garaprime_2017#q12|src_garaprime_2017__Q12]]
 
 
 
@@ -518,7 +518,7 @@ level: Classi Prime
 > From the non-identically zero polynomial p(x) we only know that by developing (p(x))3 and (x8 −x3) · p(x) we get two polynomials of the same degree. What's this grade? A 12 B 36 C 10 D 9 E 24 F not determined by the data provided alone
 
 **Answer:** A
-[[src_garaprime_2017__Q13]]
+[[Quesiti/src_garaprime_2017#q13|src_garaprime_2017__Q13]]
 
 
 
@@ -554,7 +554,7 @@ How many perfect squares divides 16?
 > Whether N = 16!, i.e. N = 16 · 15 · 14 · . . . · 3 · 2 · 1. How many perfect squares divide N? A 128 B 36 C 144 D 48 E 64 F 96
 
 **Answer:** A
-[[src_garaprime_2017__Q14]]
+[[Quesiti/src_garaprime_2017#q14|src_garaprime_2017__Q14]]
 
 
 
@@ -589,7 +589,7 @@ How many perfect squares divides 16?
 > How many different rectangles with whole sides and area 12600? A 36 B 27 C 12 D 48 E 30 F 92
 
 **Answer:** A
-[[src_garaprime_2017__Q15]]
+[[Quesiti/src_garaprime_2017#q15|src_garaprime_2017__Q15]]
 
 
 
@@ -625,7 +625,7 @@ How many perfect squares divides 16?
 > In a regular polygon the cube of the number of sides is equal to the square of the number of diagonals. What's the number of sides? A 9 B 4 C 25 D 16 E 27 F is not uniquely determined
 
 **Answer:** A
-[[src_garaprime_2017__Q16]]
+[[Quesiti/src_garaprime_2017#q16|src_garaprime_2017__Q16]]
 
 
 
@@ -661,7 +661,7 @@ Sum of 1965 and permutations of its figures
 > Adding the number 1965 and all the other 23 numbers you get by swapping its digits, you get a quantity M. How much is M? A 139986 B 153318 C 126654 D 173316 E 113322 F 106656
 
 **Answer:** A
-[[src_garaprime_2017__Q17]]
+[[Quesiti/src_garaprime_2017#q17|src_garaprime_2017__Q17]]
 
 
 
@@ -708,4 +708,4 @@ Sum of 1965 and permutations of its figures
 > Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
 
 **Answer:** A
-[[src_garaprime_2017__Q18]]
+[[Quesiti/src_garaprime_2017#q18|src_garaprime_2017__Q18]]

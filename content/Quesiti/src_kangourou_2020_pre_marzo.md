@@ -54,7 +54,7 @@ Stairway where kangaroo and rabbit meet
 > - **(E)** 7
 
 **Answer:** D
-[[src_kangourou_2020_pre_marzo__Q01]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q01|src_kangourou_2020_pre_marzo__Q01]]
 
 
 
@@ -102,7 +102,7 @@ What picture of the balloon in front of the castle?
 > - **(E)** E
 
 **Answer:** E
-[[src_kangourou_2020_pre_marzo__Q02]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q02|src_kangourou_2020_pre_marzo__Q02]]
 
 
 
@@ -150,7 +150,7 @@ What picture of the balloon in front of the castle?
 > - **(E)** E
 
 **Answer:** A
-[[src_kangourou_2020_pre_marzo__Q03]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q03|src_kangourou_2020_pre_marzo__Q03]]
 
 
 
@@ -198,7 +198,7 @@ What picture of the balloon in front of the castle?
 > - **(E)** E
 
 **Answer:** E
-[[src_kangourou_2020_pre_marzo__Q04]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q04|src_kangourou_2020_pre_marzo__Q04]]
 
 
 
@@ -246,7 +246,7 @@ What picture of the balloon in front of the castle?
 > - **(E)** E
 
 **Answer:** A
-[[src_kangourou_2020_pre_marzo__Q05]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q05|src_kangourou_2020_pre_marzo__Q05]]
 
 
 
@@ -294,7 +294,7 @@ What picture of the balloon in front of the castle?
 > - **(E)** $8$
 
 **Answer:** D
-[[src_kangourou_2020_pre_marzo__Q06]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q06|src_kangourou_2020_pre_marzo__Q06]]
 
 
 
@@ -342,7 +342,7 @@ Drawing with 3 black triangles and less than 4 squares
 > - **(E)** E
 
 **Answer:** E
-[[src_kangourou_2020_pre_marzo__Q07]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q07|src_kangourou_2020_pre_marzo__Q07]]
 
 
 
@@ -390,7 +390,7 @@ Drawing with 3 black triangles and less than 4 squares
 > - **(E)** One is blue, two is red and three is yellow.
 
 **Answer:** D
-[[src_kangourou_2020_pre_marzo__Q08]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q08|src_kangourou_2020_pre_marzo__Q08]]
 
 
 
@@ -438,7 +438,7 @@ Drawing with 3 black triangles and less than 4 squares
 > - **(E)** E
 
 **Answer:** C
-[[src_kangourou_2020_pre_marzo__Q09]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q09|src_kangourou_2020_pre_marzo__Q09]]
 
 
 
@@ -486,7 +486,7 @@ Where to draw the twelfth village house
 > - **(E)** In E
 
 **Answer:** C
-[[src_kangourou_2020_pre_marzo__Q10]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q10|src_kangourou_2020_pre_marzo__Q10]]
 
 
 
@@ -534,7 +534,7 @@ Where to draw the twelfth village house
 > - **(E)** E
 
 **Answer:** E
-[[src_kangourou_2020_pre_marzo__Q11]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q11|src_kangourou_2020_pre_marzo__Q11]]
 
 
 
@@ -582,7 +582,7 @@ Where to draw the twelfth village house
 > - **(E)** $1$
 
 **Answer:** C
-[[src_kangourou_2020_pre_marzo__Q12]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q12|src_kangourou_2020_pre_marzo__Q12]]
 
 
 
@@ -630,7 +630,7 @@ Where to draw the twelfth village house
 > - **(E)** E
 
 **Answer:** B
-[[src_kangourou_2020_pre_marzo__Q13]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q13|src_kangourou_2020_pre_marzo__Q13]]
 
 
 
@@ -678,7 +678,7 @@ Where to draw the twelfth village house
 > - **(E)** $5$
 
 **Answer:** A
-[[src_kangourou_2020_pre_marzo__Q14]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q14|src_kangourou_2020_pre_marzo__Q14]]
 
 
 
@@ -726,7 +726,7 @@ Where to draw the twelfth village house
 > - **(E)** E
 
 **Answer:** B
-[[src_kangourou_2020_pre_marzo__Q15]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q15|src_kangourou_2020_pre_marzo__Q15]]
 
 
 
@@ -771,7 +771,7 @@ Where to draw the twelfth village house
 > - **(E)** $4$
 
 **Answer:** D
-[[src_kangourou_2020_pre_marzo__Q16]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q16|src_kangourou_2020_pre_marzo__Q16]]
 
 
 
@@ -820,7 +820,7 @@ Where to draw the twelfth village house
 > - **(E)** E
 
 **Answer:** D
-[[src_kangourou_2020_pre_marzo__Q17]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q17|src_kangourou_2020_pre_marzo__Q17]]
 
 
 
@@ -868,7 +868,7 @@ Where to draw the twelfth village house
 > - **(E)** $31$
 
 **Answer:** D
-[[src_kangourou_2020_pre_marzo__Q18]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q18|src_kangourou_2020_pre_marzo__Q18]]
 
 
 
@@ -917,7 +917,7 @@ Where to draw the twelfth village house
 > - **(E)** $7$
 
 **Answer:** C
-[[src_kangourou_2020_pre_marzo__Q19]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q19|src_kangourou_2020_pre_marzo__Q19]]
 
 
 
@@ -966,7 +966,7 @@ Where to draw the twelfth village house
 > - **(E)** The Man and
 
 **Answer:** C
-[[src_kangourou_2020_pre_marzo__Q20]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q20|src_kangourou_2020_pre_marzo__Q20]]
 
 
 
@@ -1010,7 +1010,7 @@ Where to draw the twelfth village house
 > - **(E)** $8$
 
 **Answer:** B
-[[src_kangourou_2020_pre_marzo__Q21]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q21|src_kangourou_2020_pre_marzo__Q21]]
 
 
 
@@ -1091,7 +1091,7 @@ Where to draw the twelfth village house
 > - **(E)** $1$ o $3$ o $5$
 
 **Answer:** E
-[[src_kangourou_2020_pre_marzo__Q22]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q22|src_kangourou_2020_pre_marzo__Q22]]
 
 
 
@@ -1135,7 +1135,7 @@ Where to draw the twelfth village house
 > - **(E)** $9$
 
 **Answer:** C
-[[src_kangourou_2020_pre_marzo__Q23]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q23|src_kangourou_2020_pre_marzo__Q23]]
 
 
 
@@ -1180,4 +1180,4 @@ Where to draw the twelfth village house
 > - **(E)** $6$
 
 **Answer:** B
-[[src_kangourou_2020_pre_marzo__Q24]]
+[[Quesiti/src_kangourou_2020_pre_marzo#q24|src_kangourou_2020_pre_marzo__Q24]]

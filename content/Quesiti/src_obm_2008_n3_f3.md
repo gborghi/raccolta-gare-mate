@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Chiamiamo un intero positivo *gaudy* se ha un multiple le cui prime quattro cifre decimali sono $2008$. Ad esempio, $7$ è gaudy perché $200858$ è un multiple di $7$ e inizia con $2008$ (nota che $200858 = 28694 \times 7$). Prove che ogni intero positivo è goody.
 
-[[src_obm_2008_n3_f3__Q01]]
+[[Quesiti/src_obm_2008_n3_f3#q01|src_obm_2008_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > Su una linea c'è un insieme $S$ di punti $6n$. Di questi, $4n$ sono scelti a caso e colorati in blu; i restanti $2n$ sono colorati in verde. Dimostrare che esiste un segmento contenente esattamente $3n$ punti di $S$, di cui $2n$ blu e $n$ verde.
 
-[[src_obm_2008_n3_f3__Q02]]
+[[Quesiti/src_obm_2008_n3_f3#q02|src_obm_2008_n3_f3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: OBM Nível 3
 
 > $x, y, z$ siano numeri reali che soddisfino $x + y + z = xy + yz + zx$. Trova il valore minimo di $$\frac{x}{x^2+1} + \frac{y}{y^2+1} + \frac{z}{z^2+1}.$$
 
-[[src_obm_2008_n3_f3__Q03]]
+[[Quesiti/src_obm_2008_n3_f3#q03|src_obm_2008_n3_f3__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale ciclico, e che $r$ e $s$ siano i riflessi della linea $AB$ attraverso i bisettori interni degli angoli $\angle CAD$ e $\angle CBD$, rispettivamente. Il $P$ è l'intersezione di $r$ e $s$, e il $O$ è il circoncentro di $ABCD$. Provare che $OP$ è perpendicolare a $CD$.
 
-[[src_obm_2008_n3_f3__Q04]]
+[[Quesiti/src_obm_2008_n3_f3#q04|src_obm_2008_n3_f3__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: OBM Nível 3
 
 > Prova che per tutti gli enti $a > 1$ e $b > 1$ esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che $f(a \cdot f(n)) = b \cdot n$ per ogni intero positivo $n$.
 
-[[src_obm_2008_n3_f3__Q05]]
+[[Quesiti/src_obm_2008_n3_f3#q05|src_obm_2008_n3_f3__Q05]]
 
 
 
@@ -169,4 +169,4 @@ level: OBM Nível 3
 
 > Il profeta venuso Zabruberson inviò ai suoi discepoli una parola di lettere $10000$, ciascuna lettera essendo A o E: la parola Zabrubica *. I suoi seguaci consideravano, per ogni $1 \le k \le 10000$, ogni parola formata da $k$ lettere consecutive della Parola Zabrubica come una parola profetica ** di lunghezza $k$. È noto che ci sono al massimo $7$ parole profetiche di lunghezza $3$. Determinare il numero massimo di parole profetiche di lunghezza $10$.
 
-[[src_obm_2008_n3_f3__Q06]]
+[[Quesiti/src_obm_2008_n3_f3#q06|src_obm_2008_n3_f3__Q06]]

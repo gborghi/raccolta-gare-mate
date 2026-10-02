@@ -97,7 +97,7 @@ level: kangourou
 > E) 5 (all)
 
 **Answer:** C
-[[src_kangourou_2022_student_semifinale__Q01]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q01|src_kangourou_2022_student_semifinale__Q01]]
 
 
 
@@ -143,7 +143,7 @@ level: kangourou
 > E) 1.000
 
 **Answer:** D
-[[src_kangourou_2022_student_semifinale__Q02]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q02|src_kangourou_2022_student_semifinale__Q02]]
 
 
 
@@ -190,7 +190,7 @@ level: kangourou
 > E) 4 (all)
 
 **Answer:** B
-[[src_kangourou_2022_student_semifinale__Q03]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q03|src_kangourou_2022_student_semifinale__Q03]]
 
 
 
@@ -235,7 +235,7 @@ level: kangourou
 > C) 20 D) 40 / π E) None of the proposed numbers.
 
 **Answer:** A
-[[src_kangourou_2022_student_semifinale__Q04]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q04|src_kangourou_2022_student_semifinale__Q04]]
 
 
 
@@ -304,7 +304,7 @@ level: kangourou
 > D) 4π E) 11π/5
 
 **Answer:** D
-[[src_kangourou_2022_student_semifinale__Q05]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q05|src_kangourou_2022_student_semifinale__Q05]]
 
 
 
@@ -344,7 +344,7 @@ level: kangourou
 > D) 1 E) 5
 
 **Answer:** B
-[[src_kangourou_2022_student_semifinale__Q06]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q06|src_kangourou_2022_student_semifinale__Q06]]
 
 
 
@@ -384,7 +384,7 @@ Find n *
 > (B) 12 C) 20 D) 25 E) None of the above.
 
 **Answer:** D
-[[src_kangourou_2022_student_semifinale__Q07]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q07|src_kangourou_2022_student_semifinale__Q07]]
 
 
 
@@ -444,7 +444,7 @@ Find n *
 > K
 
 **Answer:** C
-[[src_kangourou_2022_student_semifinale__Q08]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q08|src_kangourou_2022_student_semifinale__Q08]]
 
 
 
@@ -504,7 +504,7 @@ Find n *
 > Open-ended questions
 
 **Answer:** C
-[[src_kangourou_2022_student_semifinale__Q09]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q09|src_kangourou_2022_student_semifinale__Q09]]
 
 
 
@@ -574,7 +574,7 @@ Find n *
 > (4 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 15
-[[src_kangourou_2022_student_semifinale__Q10]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q10|src_kangourou_2022_student_semifinale__Q10]]
 
 
 
@@ -607,7 +607,7 @@ Find n *
 > (5 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the road results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
 
 **Answer:** 9
-[[src_kangourou_2022_student_semifinale__Q11]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q11|src_kangourou_2022_student_semifinale__Q11]]
 
 
 
@@ -640,7 +640,7 @@ Find n *
 > (5 points) Let's call a rectangle of full size m × n fair if the following happens: when it is divided into m squares on the unit side, the squares along the edge are as many as the remaining ones (i.e. those that are tightly inside). How many, if any, are equal rectangles? (A rectangle m × n shall be considered to be identical to the rectangle n × m; if you believe that there are infinitely many equal rectangles, answer 9999.)
 
 **Answer:** 2
-[[src_kangourou_2022_student_semifinale__Q12]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q12|src_kangourou_2022_student_semifinale__Q12]]
 
 
 
@@ -670,7 +670,7 @@ Find n *
 > (6 points) For how many pairs (x, y) of positive integers does it happen that both integers x2 + y and x + y2 are perfect squares? (Write 9999 if you think there are infinite pairs.)
 
 **Answer:** 0
-[[src_kangourou_2022_student_semifinale__Q13]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q13|src_kangourou_2022_student_semifinale__Q13]]
 
 
 
@@ -707,7 +707,7 @@ Find n *
 > A B C
 
 **Answer:** 4
-[[src_kangourou_2022_student_semifinale__Q14]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q14|src_kangourou_2022_student_semifinale__Q14]]
 
 
 
@@ -747,7 +747,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 > What is the sum of all the numbers S(T?
 
 **Answer:** 0
-[[src_kangourou_2022_student_semifinale__Q15]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q15|src_kangourou_2022_student_semifinale__Q15]]
 
 
 
@@ -778,7 +778,7 @@ This is the total number of subscribers to the programme.
 > (7 points) Any positive integer of 4 digits in decimal notation has the form ABCD, where the digits indicated by the letters may not be distinct and the digit A is different from 0. How many 12-digit integer numbers in the ABCDABCDABCD form are divisible by 2022?
 
 **Answer:** 13
-[[src_kangourou_2022_student_semifinale__Q16]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q16|src_kangourou_2022_student_semifinale__Q16]]
 
 
 
@@ -810,7 +810,7 @@ I'm not going to say anything about it.
 > (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + √2 + √3 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
 
 **Answer:** 33
-[[src_kangourou_2022_student_semifinale__Q17]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q17|src_kangourou_2022_student_semifinale__Q17]]
 
 
 
@@ -853,4 +853,4 @@ I'm not going to say anything about it.
 > 15 9 2 0 4 0 13 33 2
 
 **Answer:** 2
-[[src_kangourou_2022_student_semifinale__Q18]]
+[[Quesiti/src_kangourou_2022_student_semifinale#q18|src_kangourou_2022_student_semifinale__Q18]]

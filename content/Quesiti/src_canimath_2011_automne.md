@@ -32,7 +32,7 @@ level: Coupe Animath Automne
 
 > $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla linea $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla linea $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la linea $(AB)$ a $F$; mostra che le linee $(EF)$ e $(BC)$ sono parallele.
 
-[[src_canimath_2011_automne__Q01]]
+[[Quesiti/src_canimath_2011_automne#q01|src_canimath_2011_automne__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: Coupe Animath Automne
 
 > $a$, $b$ siano due numeri reali e $f$ la funzione da $\mathbb{R}$ a $\mathbb{R}$ che a $x$ associa $x^2 + ax + b$. Supponiamo che esista un numero reale $t$ tale che $f(t) = f(f(f(t))) = 0$. Mostra che $f(0) \times f(1) = 0$.
 
-[[src_canimath_2011_automne__Q02]]
+[[Quesiti/src_canimath_2011_automne#q02|src_canimath_2011_automne__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Coupe Animath Automne
 
 > Dodici candidati al sindaco partecipano a un dibattito televisivo. Dopo un po' uno di loro dichiara: "Finora abbiamo mentito una volta". Un secondo dice: "Ora, questo fa due volte". Un terzo poi esclama "Tre volte, ora", e così via fino al dodicesimo, che afferma che prima di lui ci sono state dodici menzogne. Il presentatore interrompe poi la discussione. Sapendo che almeno uno dei candidati ha annunciato correttamente quante volte ha mentito prima del suo turno di parlare, determinare quante persone hanno mentito in totale.
 
-[[src_canimath_2011_automne__Q03]]
+[[Quesiti/src_canimath_2011_automne#q03|src_canimath_2011_automne__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: Coupe Animath Automne
 
 > Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}^*$ che soddisfano $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ per ogni numero reale non zero $x$.
 
-[[src_canimath_2011_automne__Q04]]
+[[Quesiti/src_canimath_2011_automne#q04|src_canimath_2011_automne__Q04]]
 
 
 
@@ -140,7 +140,7 @@ level: Coupe Animath Automne
 
 > Il $ABC$ deve essere un triangolo rettangolo a $A$ con $AB < AC$, $M$ il punto medio di $[BC]$, $D$ l'intersezione di $(AC)$ con il perpendicolare a $(BC)$ che attraversa $M$, e $E$ il punto di intersezione della linea parallela a $(AC)$ che attraversa $M$ con il perpendicolare a $(BD)$ che attraversa $B$. Indicare che i triangoli $AEM$ e $MCA$ sono simili se e solo se $\angle ABC = 60^\circ$.
 
-[[src_canimath_2011_automne__Q05]]
+[[Quesiti/src_canimath_2011_automne#q05|src_canimath_2011_automne__Q05]]
 
 
 
@@ -167,7 +167,7 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 > A un ballo, nessun ragazzo ha ballato con tutte le ragazze, e ogni ragazza ha ballato con almeno un ragazzo. Prova che si possono trovare ragazzi $g$ e $g'$, e ragazze $f$ e $f'$, in modo tale che $g$ abbia ballato con $f$ ma non con $f'$, e $g'$ abbia ballato con $f'$ ma non con $f$.
 
-[[src_canimath_2011_automne__Q06]]
+[[Quesiti/src_canimath_2011_automne#q06|src_canimath_2011_automne__Q06]]
 
 
 
@@ -194,7 +194,7 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 > Trova tutti i triples di numeri interi positivi $(p, n, m)$ in modo tale che $p$ sia primo e $p^n + 144 = m^2$.
 
-[[src_canimath_2011_automne__Q07]]
+[[Quesiti/src_canimath_2011_automne#q07|src_canimath_2011_automne__Q07]]
 
 
 
@@ -224,4 +224,4 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 > $x$, $y$, $z$ siano tre numeri reali appartenenti all'intervallo $[0, 1]$ che soddisfano $$(1-x)(1-y)(1-z) = xyz.$$ 1. Indicare che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è maggiore o uguale a $\frac{1}{4}$. 2. Mostra che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è inferiore o uguale a $\frac{1}{4}$.
 
-[[src_canimath_2011_automne__Q08]]
+[[Quesiti/src_canimath_2011_automne#q08|src_canimath_2011_automne__Q08]]

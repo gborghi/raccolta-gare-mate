@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Si deve dare un insieme $\{r_1, r_2, \ldots, r_n\}$ di numeri naturali che danno restanti distinti quando diviso da un numero naturale $n$. Prova che se $k \ge n/2$, allora per ogni numero intero $n$ esistono indici $i$ e $j$ (non necessariamente distinti) in modo tale che $r_i + r_j - n$ sia divisibile da $n$.
 
-[[src_pol_1979_r3__Q01]]
+[[Quesiti/src_pol_1979_r3#q01|src_pol_1979_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > Prove che le quattro linee che uniscono i vertici di un tetraedro con gli incentri delle facce opposte hanno un punto comune se e solo se i tre prodotti delle lunghezze dei bordi opposti sono uguali.
 
-[[src_pol_1979_r3__Q02]]
+[[Quesiti/src_pol_1979_r3#q02|src_pol_1979_r3__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 3
 
 > Un esperimento consiste nell'esecuzione di test indipendenti $n$. La prova $i$-è riuscita con probabilità pari a $p_i$. La probabilità di successo dei test $k$ è $p_k$. Provare che $$\sum_{k=0}^{n} k p_k = \sum_{i=1}^{n} p_i.$$
 
-[[src_pol_1979_r3__Q03]]
+[[Quesiti/src_pol_1979_r3#q03|src_pol_1979_r3__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: Olimpiade Polacca Round 3
 
 > $A > 1$ e $B > 1$ siano numeri reali e $(a_n)$ una sequenza di numeri nell'intervallo $[1, AB]$. Prove che esiste una sequenza $(s_n)$ di numeri nell'intervallo $[1, A]$ tale che $$\frac{a_m}{s_m} \le B \cdot \frac{a_n}{s_n} \quad \text{for all } m, n = 1, 2, \ldots$$
 
-[[src_pol_1979_r3__Q04]]
+[[Quesiti/src_pol_1979_r3#q04|src_pol_1979_r3__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: Olimpiade Polacca Round 3
 
 > Provare che il prodotto dei lati di un quadrilaterale inserito in un cerchio di raggio 1 non supera il 4.
 
-[[src_pol_1979_r3__Q05]]
+[[Quesiti/src_pol_1979_r3#q05|src_pol_1979_r3__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: Olimpiade Polacca Round 3
 
 > Un polinomio $w$ di grado $n > 1$ ha $n$ radici distinte $x_1, x_2, \ldots, x_n$. Provare che: $$\frac{1}{w'(x_1)} + \frac{1}{w'(x_2)} + \cdots + \frac{1}{w'(x_n)} = 0.$$
 
-[[src_pol_1979_r3__Q06]]
+[[Quesiti/src_pol_1979_r3#q06|src_pol_1979_r3__Q06]]

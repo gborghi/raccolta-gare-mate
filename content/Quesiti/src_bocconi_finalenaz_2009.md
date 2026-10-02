@@ -36,7 +36,7 @@ Maximum number of children in elevators with 10 adults
 > The Math-City elevator, you know, is a strange city. For example, all adults weigh the same. All children also weigh the same weight (naturally different from adults). It is also true that the elevator at Math-City can support a maximum of 15 adults or, equivalently, 24 children. How many children can climb an elevator with 10 adults?
 
 **Answer:** 8
-[[src_bocconi_finalenaz_2009__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2009#q01|src_bocconi_finalenaz_2009__Q01]]
 
 
 
@@ -71,7 +71,7 @@ Who broke the glass between Angelo, Desiderio and Nando?
 > Angel, Desiderio and Nando play ball, but one of the three throws it with too much fire and breaks a glass. When asked who was behind the mess, he gets these answers: "It was me". Desire: "No, it was Nando who broke the glass". Nando: "It's Angelo who pulled the ball that broke the glass". One of the three always tells the truth, another always lies and the third... you don't know. Who broke the glass?
 
 **Answer:** Desiderio
-[[src_bocconi_finalenaz_2009__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2009#q02|src_bocconi_finalenaz_2009__Q02]]
 
 
 
@@ -88,7 +88,7 @@ Who broke the glass between Angelo, Desiderio and Nando?
 > "Più di 60 ma meno di 66", risponde Amerigo a proposito del suo punteggio.
 > Quante freccette Amerigo ha messo a segno nella zona bianca?
 
-![[src_bocconi_finalenaz_2009__Q03.png]]
+![[src_bocconi_finalenaz_2009__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -105,10 +105,10 @@ How many arrows did Amerigo put in the white area?
 
 > Amerigo, Berto, and Carlo are arrows. They've built themselves a board where there's a black zone of 13 points and a white zone of 11. Amerigo, Berto and Carlo each fired six arrows in this game. "More than 60 but less than 66", Amerigo replies of his score. How many arrows did Amerigo point in the white area?
 
-![[src_bocconi_finalenaz_2009__Q03.png]]
+![[src_bocconi_finalenaz_2009__q03.png]]
 
 **Answer:** 3
-[[src_bocconi_finalenaz_2009__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2009#q03|src_bocconi_finalenaz_2009__Q03]]
 
 
 
@@ -122,7 +122,7 @@ How many arrows did Amerigo put in the white area?
 > DALLA PIÙ PICCOLA ALLA PIÙ GRANDE
 > Queste quattro superfici sono state disegnate su una stessa carta quadrettata. Ordinatele, in ordine crescente, dalla quella di area più piccola a quella di area più grande.
 
-![[src_bocconi_finalenaz_2009__Q04.png]]
+![[src_bocconi_finalenaz_2009__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -139,10 +139,10 @@ How many arrows did Amerigo put in the white area?
 
 > From the smallest to the largest These four surfaces were drawn on the same square sheet of paper. Order them in increasing order from smaller to larger.
 
-![[src_bocconi_finalenaz_2009__Q04.png]]
+![[src_bocconi_finalenaz_2009__q04.png]]
 
 **Answer:** D, B, A, C
-[[src_bocconi_finalenaz_2009__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2009#q04|src_bocconi_finalenaz_2009__Q04]]
 
 
 
@@ -158,7 +158,7 @@ How many arrows did Amerigo put in the white area?
 > Qual è il valore degli altri due sapendo che, con i sei francobolli (e alcuni di loro), si possono ottenere tutti i valori interi consecutivi da 1 Euro a un certo punto in poi (il più grande possibile)?
 > Nota: i due ultimi francobolli possono avere valori diversi.
 
-![[src_bocconi_finalenaz_2009__Q05.png]]
+![[src_bocconi_finalenaz_2009__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -175,10 +175,10 @@ How many arrows did Amerigo put in the white area?
 
 > You have six stamps. Of the first four, two have a value of 1 Euro and two have a value of 3 Euro (as you can see in the figure). What is the value of the other two, knowing that with the six stamps (and some of them), you can get all consecutive integers from 1 Euro at some point in the future (the largest possible)? Note: the last two stamps may have different values.
 
-![[src_bocconi_finalenaz_2009__Q05.png]]
+![[src_bocconi_finalenaz_2009__q05.png]]
 
 **Answer:** 9 - 18
-[[src_bocconi_finalenaz_2009__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2009#q05|src_bocconi_finalenaz_2009__Q05]]
 
 
 
@@ -192,7 +192,7 @@ How many arrows did Amerigo put in the white area?
 > LA GRIGLIA DEI 16 NUMERI
 > Mettete i numeri interi da 1 a 16 nelle caselle della griglia (un numero per casella). In effetti, due hanno già trovato la loro sistemazione. Attenzione, però: per ogni numero diverso da 16, quello immediatamente superiore va collocato in una casella adiacente (che ha cioè, con la precedente, un lato in comune).
 
-![[src_bocconi_finalenaz_2009__Q06.png]]
+![[src_bocconi_finalenaz_2009__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -208,9 +208,9 @@ How many arrows did Amerigo put in the white area?
 
 > The grid of 16 Numbers Put the integers 1 to 16 in the grid boxes (one number per box). In fact, two have already found their accommodation. Note, however: for each number other than 16, the immediately higher one must be placed in an adjacent box (i.e. it has a side in common with the previous one).
 
-![[src_bocconi_finalenaz_2009__Q06.png]]
+![[src_bocconi_finalenaz_2009__q06.png]]
 
-[[src_bocconi_finalenaz_2009__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2009#q06|src_bocconi_finalenaz_2009__Q06]]
 
 
 
@@ -224,7 +224,7 @@ How many arrows did Amerigo put in the white area?
 > I TRIANGOLI
 > 5 punti in un piano sono i vertici, al massimo, di 5 triangoli che non si sovrappongono (come in figura). E 7 punti? Quanti triangoli che non si sovrappongono si possono tracciare, al massimo, nel piano con 7 punti?
 
-![[src_bocconi_finalenaz_2009__Q07.png]]
+![[src_bocconi_finalenaz_2009__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
@@ -241,10 +241,10 @@ How many arrows did Amerigo put in the white area?
 
 > TRIANGOLS 5 points in a plane are the vertices, at most, of 5 triangles that do not overlap (as shown in Figure 1). What about seven points? How many non-overlapping triangles can be plotted, at most, in the seven-point plane?
 
-![[src_bocconi_finalenaz_2009__Q07.png]]
+![[src_bocconi_finalenaz_2009__q07.png]]
 
 **Answer:** 9
-[[src_bocconi_finalenaz_2009__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2009#q07|src_bocconi_finalenaz_2009__Q07]]
 
 
 
@@ -260,7 +260,7 @@ How many arrows did Amerigo put in the white area?
 > Il cerchio centrale, così come il cerchio a destra, deve restare vuoto. La somma dei numeri scritti nei cerchi che toccano un quadrato deve essere uguale al numero scritto in quel quadrato.
 > Indicate la somma dei quattro numeri che compaiono nell'ultima colonna a destra.
 
-![[src_bocconi_finalenaz_2009__Q08.png]]
+![[src_bocconi_finalenaz_2009__q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -277,10 +277,10 @@ How many arrows did Amerigo put in the white area?
 
 > In each of the squares, the result (natural number) must be written, which is obtained by adding the natural numbers written in the circles that touch that square. The central circle, as well as the right circle, must remain empty. The sum of the numbers written in circles touching a square must be equal to the number written in that square. Enter the sum of the four numbers in the last column on the right.
 
-![[src_bocconi_finalenaz_2009__Q08.png]]
+![[src_bocconi_finalenaz_2009__q08.png]]
 
 **Answer:** 33
-[[src_bocconi_finalenaz_2009__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2009#q08|src_bocconi_finalenaz_2009__Q08]]
 
 
 
@@ -311,7 +311,7 @@ How many arrows did Amerigo put in the white area?
 > TEN figures Two natural numbers have the sum of 203. Writing the two numbers, their difference (the largest minus the smallest) and their sum (203) uses the ten digits from 0 to 9, each once. What are the two numbers?
 
 **Answer:** 57 , 146
-[[src_bocconi_finalenaz_2009__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2009#q09|src_bocconi_finalenaz_2009__Q09]]
 
 
 
@@ -326,7 +326,7 @@ How many arrows did Amerigo put in the white area?
 > Un grande quadrato ha l'area di $405 \text{ cm}^2$ e contiene cinque quadrati più piccoli, uguali, disposti come in figura (che presenta un asse di simmetria tratteggiato).
 > Qual è l'area di un quadrato piccolo?
 
-![[src_bocconi_finalenaz_2009__Q10.png]]
+![[src_bocconi_finalenaz_2009__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -343,10 +343,10 @@ How many arrows did Amerigo put in the white area?
 
 > A large square has an area of $405 \text{ cm}^2$ and contains five smaller, equal squares arranged as shown in the figure (which has an axis of stretched symmetry). What's the area of a small square?
 
-![[src_bocconi_finalenaz_2009__Q10.png]]
+![[src_bocconi_finalenaz_2009__q10.png]]
 
 **Answer:** 40 cm²
-[[src_bocconi_finalenaz_2009__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2009#q10|src_bocconi_finalenaz_2009__Q10]]
 
 
 
@@ -377,7 +377,7 @@ At what time did Carla turn off the two candles?
 > Two candles are the same length but the first one burns completely (and regularly) in 5 hours while the second one burns completely (also regularly) in just 4 hours. Carla lights the candles at noon, and when she decides to turn them off, she does so for both at the same time. Then check that the remainder of the first candle is four times longer than the remainder of the second candle. What time did Carla turn off the two candles?
 
 **Answer:** h.15 , min 45
-[[src_bocconi_finalenaz_2009__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2009#q11|src_bocconi_finalenaz_2009__Q11]]
 
 
 
@@ -409,7 +409,7 @@ At what time did Carla turn off the two candles?
 > A number diagram is a number composed of the same digits arranged in (possibly) different order. For example, the number 120 has four anagrams: 102, 120, 201, and 210 (the writing of a number never starts with 0). Now you have a three-digit number that has (at least) an anagram multiple of 2, (at least) an anagram multiple of 4, ... and (at least) an anagram multiple of $N$, with $N$ the largest possible value. What is this three-digit number, knowing that its digits are arranged in descending order?
 
 **Answer:** 630 ; 540 (due soluzioni)
-[[src_bocconi_finalenaz_2009__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2009#q12|src_bocconi_finalenaz_2009__Q12]]
 
 
 
@@ -424,7 +424,7 @@ At what time did Carla turn off the two candles?
 > Il quadrato grande, che ha un'area di $111 \text{ cm}^2$, è stato diviso in nove quadrati uguali. In ogni quadrato così ottenuto è stato disegnato un quadrato più piccolo, anch'esso diviso in nove quadrati uguali. A questo punto è stata disegnata una stella (vedi figura).
 > Quale è (in $\text{cm}^2$) l'area della stella?
 
-![[src_bocconi_finalenaz_2009__Q13.png]]
+![[src_bocconi_finalenaz_2009__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -441,10 +441,10 @@ At what time did Carla turn off the two candles?
 
 > A LIGHTING STAR The large square, which has an area of $111 \text{ cm}^2$, has been divided into nine equal squares. In each square thus obtained, a smaller square was drawn, also divided into nine equal squares. At this point a star was drawn (see figure). What is (in $\text{cm}^2$) the area of the star?
 
-![[src_bocconi_finalenaz_2009__Q13.png]]
+![[src_bocconi_finalenaz_2009__q13.png]]
 
 **Answer:** 37 cm²
-[[src_bocconi_finalenaz_2009__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2009#q13|src_bocconi_finalenaz_2009__Q13]]
 
 
 
@@ -475,7 +475,7 @@ At what time did Carla turn off the two candles?
 > DECOUPAGE OF A TRIANGLE From an inner point in a $ABC$ triangle the three parallels to the sides of the triangle are plotted. Thus, the triangle is divided into three parallelograms and three smaller triangles of area (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$ and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of the triangle $ABC$?
 
 **Answer:** 144 cm²
-[[src_bocconi_finalenaz_2009__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2009#q14|src_bocconi_finalenaz_2009__Q14]]
 
 
 
@@ -507,7 +507,7 @@ At what time did Carla turn off the two candles?
 > The numbers of the Mathematical Lottery tickets are numbered (without interruption) from 1 to 9999. The winning cards are those whose number can be separated by a dash in two parts, so that the sum of the numbers written on the left of the dash is equal to the sum of the numbers on its right. For example, numbers 33, 440 and 2024 are winning because $3=3$; $4 = 4+0$; $2+0=2+4$. Milena buys two tickets with two consecutive 4-digit numbers and with great joy receives two prizes. His two tickets are indeed winning and one of the two numbers is the square of an integer. Which is the smaller of the two numbers?
 
 **Answer:** 3249
-[[src_bocconi_finalenaz_2009__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2009#q15|src_bocconi_finalenaz_2009__Q15]]
 
 
 
@@ -537,7 +537,7 @@ At what time did Carla turn off the two candles?
 > W THE DIVISIbility Write (in increasing order) 7 positive numbers, all different from each other and such that their sum is divisible by each of the 7 numbers, being the smallest possible.
 
 **Answer:** 1-2-3-4-6-8-24 ; 1-2-3-6-8-12-16 (due soluzioni)
-[[src_bocconi_finalenaz_2009__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2009#q16|src_bocconi_finalenaz_2009__Q16]]
 
 
 
@@ -568,7 +568,7 @@ At what time did Carla turn off the two candles?
 > IN PROGRESS The three integers $A$, $B$ and $C$ (with $400 < A < B < C < 5000$) are in arithmetic progression. Furthermore, the numbers $A+B$, $B+C$ and $C+A$ are all three squares. How much are $A$, $B$, $C$?
 
 **Answer:** A = 482, B = 3362, C = 6242
-[[src_bocconi_finalenaz_2009__Q17]]
+[[Quesiti/src_bocconi_finalenaz_2009#q17|src_bocconi_finalenaz_2009__Q17]]
 
 
 
@@ -600,4 +600,4 @@ At what time did Carla turn off the two candles?
 > SQUARE IN SQUARE Choose a natural number that is not more than three digits and write it down. Then you add the squares of its digits, you get a second number. With it, you start the operation again, which is adding the squares of the numbers and writing the result. And so on, until you get a number that's already written. For example: $409 \to 97 \to 130 \to 10 \to 1$ Which number will give the longest list?
 
 **Answer:** 12 soluzioni: 369 – 396 – 629 – 692 – 926 – 962 – 667 – 676 – 766 – 799 – 979 – 997
-[[src_bocconi_finalenaz_2009__Q18]]
+[[Quesiti/src_bocconi_finalenaz_2009#q18|src_bocconi_finalenaz_2009__Q18]]

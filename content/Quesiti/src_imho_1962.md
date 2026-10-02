@@ -33,7 +33,7 @@ level: IMO
 
 > Find the smallest natural number $n$ with the following properties: (a) its decimal representation has 6 as the last digit; (b) if the last digit 6 is deleted and placed before the remaining digits, the resulting number is four times the original number $n$.
 
-[[src_imho_1962__Q01]]
+[[Quesiti/src_imho_1962#q01|src_imho_1962__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: IMO
 > 
 > The tetrahedron SABC has the following property: there exist five spheres, each tangent to the edges SA, SB, SC, BCCA, AB, or to their extensions. Prove that the tetrahedron SABC is regular. (b) Prove conversely that for every regular tetrahedron five such spheres exist.
 
-[[src_imho_1962__Q02]]
+[[Quesiti/src_imho_1962#q02|src_imho_1962__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: IMO
 
 > Consider the $ABCDA'B'C'D'$ cube (the face $ABCD$ is the bottom base, the face $A'B'C'D'$ is the top, $AA', BB', CC', DD'$ are the side tips). The point $X$ moves at a constant speed along the perimeter of the square $ABCD$, and the point $Y$ moves at the same speed along the perimeter of the square $B'C'CB$. Initially $X$ is in $A$ and $Y$ is in $B'$. Determine and map the geometric location of the midpoint of $XY$.
 
-[[src_imho_1962__Q03]]
+[[Quesiti/src_imho_1962#q03|src_imho_1962__Q03]]
 
 
 
@@ -144,7 +144,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 
 > Solve the equation $\cos^2 x + \cos^2 2x + \cos^2 3x = 1$.
 
-[[src_imho_1962__Q04]]
+[[Quesiti/src_imho_1962#q04|src_imho_1962__Q04]]
 
 
 
@@ -170,7 +170,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 
 > Three distinct points $A, B, C$ are given on the $K$ circle. Build (with line and compass) a point $D$ on $K$ such that a circle can be inscribed in the $ABCD$ quadrilateral thus formed.
 
-[[src_imho_1962__Q05]]
+[[Quesiti/src_imho_1962#q05|src_imho_1962__Q05]]
 
 
 
@@ -196,7 +196,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 
 > Consider yourself an isosceles triangle. either $r$ the radius of its circumscribed circle and $\rho$ the radius of its inscribed circle. Show that the $d$ distance between the centers of these two circles is $d = \sqrt{r(r - 2\rho)}$.
 
-[[src_imho_1962__Q06]]
+[[Quesiti/src_imho_1962#q06|src_imho_1962__Q06]]
 
 
 
@@ -222,4 +222,4 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 
 > The tetrahedron $SABC$ has the following property: there are five spheres, each tangent to the $SA, SB, SC, BC, CA, AB$ beams or their extensions. (a) Demonstrate that the tetrahedron $SABC$ is isosceles, i.e. $SA = BC$, $SB = CA$, $SC = AB$. (b) Demonstrate that the five spheres are congruent.
 
-[[src_imho_1962__Q07]]
+[[Quesiti/src_imho_1962#q07|src_imho_1962__Q07]]

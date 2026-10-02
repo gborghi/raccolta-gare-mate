@@ -39,7 +39,7 @@ On what day did you carve the last letter of KANGOUROU?
 > Angelo wants to carve the word KANGOUROU into the wood. He can carve a letter a day and he starts on Thursday. What day of the week will you carve your last letter? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
 
 **Answer:** E
-[[src_kangourou_2011_ecolier__Q01]]
+[[Quesiti/src_kangourou_2011_ecolier#q01|src_kangourou_2011_ecolier__Q01]]
 
 
 
@@ -78,7 +78,7 @@ What number was Elisa departing from?
 > Based on a number, Elisa performed the operations shown in Figure 6. What number did she start from? A) 9 B) 7 C) 4 D) 0 E) 1
 
 **Answer:** C
-[[src_kangourou_2011_ecolier__Q02]]
+[[Quesiti/src_kangourou_2011_ecolier#q02|src_kangourou_2011_ecolier__Q02]]
 
 
 
@@ -112,7 +112,7 @@ What number was Elisa departing from?
 > Charles placed a pedal in a square grid box, as shown in the figure to the right. Now he enjoys moving it, one box at a time, first to the right, then up, then to the left, then down, and finally back to the right. Which of the following figures shows the final position of the foot?
 
 **Answer:** B
-[[src_kangourou_2011_ecolier__Q03]]
+[[Quesiti/src_kangourou_2011_ecolier#q03|src_kangourou_2011_ecolier__Q03]]
 
 
 
@@ -148,7 +148,7 @@ Minutes to decorate cakes and pastries with two people
 > A customer ordered three cream cakes and three pancakes from a bakery. When you get to the bakery, the desserts are almost ready. In order to do it as quickly as possible, the baker has a waitress help him. Each dessert, however, must be decorated by one person: if it takes nine minutes to decorate a cream cake and three minutes to decorate a pancake, how many minutes will the customer have to wait? A) 9 B) 12 C) 15 D) 18 E) 24
 
 **Answer:** D
-[[src_kangourou_2011_ecolier__Q04]]
+[[Quesiti/src_kangourou_2011_ecolier#q04|src_kangourou_2011_ecolier__Q04]]
 
 
 
@@ -212,7 +212,7 @@ Minutes to decorate cakes and pastries with two people
 > I'm going to pay. I'm going to pay. 6 Kang 201 Kang 2011
 
 **Answer:** B
-[[src_kangourou_2011_ecolier__Q05]]
+[[Quesiti/src_kangourou_2011_ecolier#q05|src_kangourou_2011_ecolier__Q05]]
 
 
 
@@ -247,7 +247,7 @@ How much did Sandro pay for ice cream and cake?
 > Anna, Mario and Sandro went to the bakery. Anna paid €1.50 for three ice cream balls, Mario paid €2.40 for two slices of cake. How much did Sandro pay for an ice cream ball and a slice of cake? A) 1 € and 70 cents B) 1 € and 90 cents C) 2 € and 20 cents D) 2 € and 70 cents E) 3 € and 90 cents
 
 **Answer:** A
-[[src_kangourou_2011_ecolier__Q06]]
+[[Quesiti/src_kangourou_2011_ecolier#q06|src_kangourou_2011_ecolier__Q06]]
 
 
 
@@ -285,7 +285,7 @@ How much did Sandro pay for ice cream and cake?
 > The clock of a bell tower at the clock of each hour beats the number of strokes corresponding to the hour (e.g. at 7.00 beats 7 strokes, at 8.00 beats 8 strokes and so on). In addition, it hits one shot every hour full plus 30 minutes (e.g. 7:30 a.m., 8:30 a.m., etc.). How many shots did you hit on the clock between 7:55 and 10:45 on the same day? A) 6 B) 18 C) 27 D) 30 E) 33
 
 **Answer:** D
-[[src_kangourou_2011_ecolier__Q07]]
+[[Quesiti/src_kangourou_2011_ecolier#q07|src_kangourou_2011_ecolier__Q07]]
 
 
 
@@ -320,7 +320,7 @@ How much did Sandro pay for ice cream and cake?
 > Boxing eggs can be done using boxes of 6 eggs and boxes of 12 eggs. What is the minimum number of boxes that can contain 66 eggs? A) 5 B) 6 C) 9 D) 11 E) 13 Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2011_ecolier__Q08]]
+[[Quesiti/src_kangourou_2011_ecolier#q08|src_kangourou_2011_ecolier__Q08]]
 
 
 
@@ -352,7 +352,7 @@ How much did Sandro pay for ice cream and cake?
 > Which of the following figures has the largest area?
 
 **Answer:** C
-[[src_kangourou_2011_ecolier__Q09]]
+[[Quesiti/src_kangourou_2011_ecolier#q09|src_kangourou_2011_ecolier__Q09]]
 
 
 
@@ -390,7 +390,7 @@ How much did Sandro pay for ice cream and cake?
 > The boys in one class have a total of eight cats, six dogs and three fish. Every boy has at least one animal, no one has more than two, and whoever has two certainly has a dog, but he doesn't have two dogs. Exactly two boys have both a dog and a fish and exactly three boys have both a cat and a dog. How many kids are in that class? A) 11 B) 12 C) 13 D) 14 E) 17
 
 **Answer:** B
-[[src_kangourou_2011_ecolier__Q10]]
+[[Quesiti/src_kangourou_2011_ecolier#q10|src_kangourou_2011_ecolier__Q10]]
 
 
 
@@ -426,7 +426,7 @@ How much did Sandro pay for ice cream and cake?
 > Andrea has 13 coins in her pocket, each of which is five cents or ten cents. Which of the following certainly cannot be, in cents, the total amount Andrew has in his pocket? A) 80 B) 60 C) 70 D) 115 E) 125
 
 **Answer:** B
-[[src_kangourou_2011_ecolier__Q11]]
+[[Quesiti/src_kangourou_2011_ecolier#q11|src_kangourou_2011_ecolier__Q11]]
 
 
 
@@ -484,7 +484,7 @@ How much did Sandro pay for ice cream and cake?
 > I'm going to pay. I'm going to pay. 7 Kang 201 Kang 2011
 
 **Answer:** E
-[[src_kangourou_2011_ecolier__Q12]]
+[[Quesiti/src_kangourou_2011_ecolier#q12|src_kangourou_2011_ecolier__Q12]]
 
 
 
@@ -520,7 +520,7 @@ How much did Sandro pay for ice cream and cake?
 > Anna, Bruno, Cecilia, Dario, Enrica, and Franco throw a dice (numbered 1 to 6) and get numbers all different from each other. Anna's number is twice that of Bruno and three times that of Cecilia. Darius' number is four times that of Henry. What's Franco's number? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
-[[src_kangourou_2011_ecolier__Q13]]
+[[Quesiti/src_kangourou_2011_ecolier#q13|src_kangourou_2011_ecolier__Q13]]
 
 
 
@@ -556,7 +556,7 @@ How many answers did Mr Rossi get wrong?
 > A TV quiz is based on the following rules. Each participant has an initial allocation of 10 points and must answer 10 questions: he earns one point for each correct answer he provides and loses one point for each wrong answer. After answering all the questions in the quiz, Mr. Rossi finds himself with 14 points. How many answers did you get wrong? A) 7 B) 4 C) 5 D) 3 E) 6
 
 **Answer:** D
-[[src_kangourou_2011_ecolier__Q14]]
+[[Quesiti/src_kangourou_2011_ecolier#q14|src_kangourou_2011_ecolier__Q14]]
 
 
 
@@ -593,7 +593,7 @@ What grid can't have written Emanuela
 > Emanuela enjoys writing her name on some grids like the ones in the answers. Enter a letter in each box in the order following this rule: it can start from any box but, if a letter is written in a box, the next one must be written in a box that has a side or a vertex in common with the previous one. Which of these grids could not have been filled by Emanuel?
 
 **Answer:** E
-[[src_kangourou_2011_ecolier__Q15]]
+[[Quesiti/src_kangourou_2011_ecolier#q15|src_kangourou_2011_ecolier__Q15]]
 
 
 
@@ -628,7 +628,7 @@ How many people were invited to the party with two cakes?
 > Two cakes were brought to a party. Each was divided into four parts and three pieces were obtained from each of these parts. Each guest had exactly one slice and three slices went forward. How many guests were there? A) 24 B) 21 C) 18 D) 27 E) 13 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** B
-[[src_kangourou_2011_ecolier__Q16]]
+[[Quesiti/src_kangourou_2011_ecolier#q16|src_kangourou_2011_ecolier__Q16]]
 
 
 
@@ -712,7 +712,7 @@ How many people were invited to the party with two cakes?
 > Anna, Bice, Carla and Daria are four friends. They walk to a bench and sit in a certain order. After 10 minutes, Anna switches places with Carla; after another 10 minutes, Carla switches places with Daria. At this point, the four friends are seated, from left to right, in alphabetical order of their names. What was the order, from left to right, in which they sat initially? A) Anna, Bice, Carla, Daria B) Anna, Carla, Daria, Bice C) Carla, Bice, Daria, Anna D) Bice, Anna, Carla, Daria E) Daria, Anna, Bice, Carla and M A A L N E U N N U E E E A L A L E E E E M N A E E A M L E A U N A A A B) C) D) E) E E M A N L A E E E U_11Mat.qxp 19-05-2011 21:20 Page 7
 
 **Answer:** C
-[[src_kangourou_2011_ecolier__Q17]]
+[[Quesiti/src_kangourou_2011_ecolier#q17|src_kangourou_2011_ecolier__Q17]]
 
 
 
@@ -753,7 +753,7 @@ How many people were invited to the party with two cakes?
 > A digital clock shows the time from 00:00 to 23:59, with four digits, as shown in the figure. How many times in a day do the four digits shown are all the same? A) 1 B) 24 C) 3 D) 5 E) 12
 
 **Answer:** C
-[[src_kangourou_2011_ecolier__Q18]]
+[[Quesiti/src_kangourou_2011_ecolier#q18|src_kangourou_2011_ecolier__Q18]]
 
 
 
@@ -787,7 +787,7 @@ How many people were invited to the party with two cakes?
 > Four identical dice have been folded together to form the structure you see in the figure to the right. The sum of the points on two opposite sides of each dice is always 7. What does the building look like from behind?
 
 **Answer:** C
-[[src_kangourou_2011_ecolier__Q19]]
+[[Quesiti/src_kangourou_2011_ecolier#q19|src_kangourou_2011_ecolier__Q19]]
 
 
 
@@ -827,7 +827,7 @@ How many people were invited to the party with two cakes?
 > You have the three cards you see in the figure. So by combining them, you can form different three-digit numbers, like 989 or 986. How many different numbers can you form? A) 4 B) 6 C) 8 D) 9 E) 12
 
 **Answer:** E
-[[src_kangourou_2011_ecolier__Q20]]
+[[Quesiti/src_kangourou_2011_ecolier#q20|src_kangourou_2011_ecolier__Q20]]
 
 
 
@@ -886,7 +886,7 @@ How many people were invited to the party with two cakes?
 > I'm going to pay. I'm going to pay. 9 Kang 201 Kang 2011
 
 **Answer:** D
-[[src_kangourou_2011_ecolier__Q21]]
+[[Quesiti/src_kangourou_2011_ecolier#q21|src_kangourou_2011_ecolier__Q21]]
 
 
 
@@ -929,7 +929,7 @@ How many people were invited to the party with two cakes?
 > In every square cell of the maze you see in the figure, there's a piece of cheese. The mouse Luigi entered the maze from the opening indicated by the upper left arrow and came out of the one indicated by the lower right arrow after taking the largest number of cheese pieces he could take by passing through each cell at most once. How many pieces of cheese did you have? A) 17 B) 33 C) 37 D) 41 E) 49
 
 **Answer:** C
-[[src_kangourou_2011_ecolier__Q22]]
+[[Quesiti/src_kangourou_2011_ecolier#q22|src_kangourou_2011_ecolier__Q22]]
 
 
 
@@ -965,7 +965,7 @@ How many people were invited to the party with two cakes?
 > In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
 
 **Answer:** A
-[[src_kangourou_2011_ecolier__Q23]]
+[[Quesiti/src_kangourou_2011_ecolier#q23|src_kangourou_2011_ecolier__Q23]]
 
 
 
@@ -1016,4 +1016,4 @@ How many people were invited to the party with two cakes?
 > 1 2011 Categories of schools
 
 **Answer:** D
-[[src_kangourou_2011_ecolier__Q24]]
+[[Quesiti/src_kangourou_2011_ecolier#q24|src_kangourou_2011_ecolier__Q24]]

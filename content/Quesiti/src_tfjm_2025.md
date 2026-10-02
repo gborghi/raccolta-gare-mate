@@ -45,7 +45,7 @@ level: TFJM²
 > 
 > 8. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q01.png]]
+![[src_tfjm_2025__q01.png]]
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
@@ -89,9 +89,9 @@ level: TFJM²
 > 
 > 8. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q01.png]]
+![[src_tfjm_2025__q01.png]]
 
-[[src_tfjm_2025__Q01]]
+[[Quesiti/src_tfjm_2025#q01|src_tfjm_2025__Q01]]
 
 
 
@@ -128,7 +128,7 @@ level: TFJM²
 > 
 > 7. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q02.png]]
+![[src_tfjm_2025__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
@@ -168,9 +168,9 @@ level: TFJM²
 > 
 > 7. Proporre e studiare altre linee di ricerca.
 
-![[src_tfjm_2025__Q02.png]]
+![[src_tfjm_2025__q02.png]]
 
-[[src_tfjm_2025__Q02]]
+[[Quesiti/src_tfjm_2025#q02|src_tfjm_2025__Q02]]
 
 
 
@@ -211,7 +211,7 @@ level: TFJM²
 > 
 > 8. Propose and explore other lines of research.
 
-![[src_tfjm_2025__Q03.png]]
+![[src_tfjm_2025__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -253,9 +253,9 @@ level: TFJM²
 > 
 > 8. Proporre e esplorare altre linee di ricerca.
 
-![[src_tfjm_2025__Q03.png]]
+![[src_tfjm_2025__q03.png]]
 
-[[src_tfjm_2025__Q03]]
+[[Quesiti/src_tfjm_2025#q03|src_tfjm_2025__Q03]]
 
 
 
@@ -286,7 +286,7 @@ level: TFJM²
 > 
 > 7. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q04.png]]
+![[src_tfjm_2025__q04.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_probabilita|Probabilità]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -322,9 +322,9 @@ level: TFJM²
 > 
 > 7. Proporre e studiare altre linee di ricerca.
 
-![[src_tfjm_2025__Q04.png]]
+![[src_tfjm_2025__q04.png]]
 
-[[src_tfjm_2025__Q04]]
+[[Quesiti/src_tfjm_2025#q04|src_tfjm_2025__Q04]]
 
 
 
@@ -359,7 +359,7 @@ level: TFJM²
 > 
 > 7. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q05.png]]
+![[src_tfjm_2025__q05.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -399,9 +399,9 @@ level: TFJM²
 > 
 > 7. Proporre e studiare altre linee di ricerca.
 
-![[src_tfjm_2025__Q05.png]]
+![[src_tfjm_2025__q05.png]]
 
-[[src_tfjm_2025__Q05]]
+[[Quesiti/src_tfjm_2025#q05|src_tfjm_2025__Q05]]
 
 
 
@@ -434,7 +434,7 @@ level: TFJM²
 > 
 > 6. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q06.png]]
+![[src_tfjm_2025__q06.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
@@ -472,9 +472,9 @@ level: TFJM²
 > 
 > 6. Proporre e studiare altre linee di ricerca.
 
-![[src_tfjm_2025__Q06.png]]
+![[src_tfjm_2025__q06.png]]
 
-[[src_tfjm_2025__Q06]]
+[[Quesiti/src_tfjm_2025#q06|src_tfjm_2025__Q06]]
 
 
 
@@ -509,7 +509,7 @@ level: TFJM²
 > 
 > 7. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q07.png]]
+![[src_tfjm_2025__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -549,9 +549,9 @@ level: TFJM²
 > 
 > 7. Proporre e studiare altre linee di ricerca.
 
-![[src_tfjm_2025__Q07.png]]
+![[src_tfjm_2025__q07.png]]
 
-[[src_tfjm_2025__Q07]]
+[[Quesiti/src_tfjm_2025#q07|src_tfjm_2025__Q07]]
 
 
 
@@ -598,7 +598,7 @@ level: TFJM²
 > 
 > 8. Propose and study other lines of research.
 
-![[src_tfjm_2025__Q08.png]]
+![[src_tfjm_2025__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
@@ -650,6 +650,6 @@ level: TFJM²
 > 
 > 8. Proporre e studiare altre linee di ricerca.
 
-![[src_tfjm_2025__Q08.png]]
+![[src_tfjm_2025__q08.png]]
 
-[[src_tfjm_2025__Q08]]
+[[Quesiti/src_tfjm_2025#q08|src_tfjm_2025__Q08]]

@@ -33,7 +33,7 @@ Find pair in {2,5,13,d} with ab-1 not perfect square
 
 > Let d be any positive integer not equal to 2, 5, or 13. Show that one can find distinct a, b in the set {2, 5, 13, d} such that ab −1 is not a perfect square.
 
-[[src_imo_1986__Q01]]
+[[Quesiti/src_imo_1986#q01|src_imo_1986__Q01]]
 
 
 
@@ -63,7 +63,7 @@ Find pair in {2,5,13,d} with ab-1 not perfect square
 
 > A triangle A1A2A3 and a point P0 are given in the plane. We define As = As−3 for all s ≥4. We construct a set of points P1, P2, P3, . . . , such that Pk+1 is the image of Pk under a rotation with center Ak+1 through angle 120°clockwise (for k = 0, 1, 2, . . . ). Prove that if P1986 = P0, then the triangle A1A2A3 is equilateral.
 
-[[src_imo_1986__Q02]]
+[[Quesiti/src_imo_1986#q02|src_imo_1986__Q02]]
 
 
 
@@ -102,7 +102,7 @@ Find pair in {2,5,13,d} with ab-1 not perfect square
 > 
 > 27th International Mathematical Olympiad Warsaw, Poland Day II July 10, 1986
 
-[[src_imo_1986__Q03]]
+[[Quesiti/src_imo_1986#q03|src_imo_1986__Q03]]
 
 
 
@@ -132,7 +132,7 @@ Find the locus of X as congruent triangle moves around n-gon
 
 > Let A, B be adjacent vertices of a regular n-gon (n ≥5) in the plane having center at O. A triangle XY Z, which is congruent to and initially conincides with OAB, moves in the plane in such a way that Y and Z each trace out the entire boundary of the polygon, X remaining inside the polygon. Find the locus of X.
 
-[[src_imo_1986__Q04]]
+[[Quesiti/src_imo_1986#q04|src_imo_1986__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Find the locus of X as congruent triangle moves around n-gon
 
 > Find all functions f, defined on the non-negative real numbers and taking non-negative real values, such that: (i) f(xf(y)) f(y) = f(x + y) for all x, y ≥0, (ii) f(2) = 0, (iii) f(x) = 0 for 0 ≤x < 2.
 
-[[src_imo_1986__Q05]]
+[[Quesiti/src_imo_1986#q05|src_imo_1986__Q05]]
 
 
 
@@ -194,4 +194,4 @@ Find the locus of X as congruent triangle moves around n-gon
 
 > One is given a finite set of points in the plane, each point having integer coordinates. Is it always possible to color some of the points in the set red and the remaining points white in such a way that for any straight line L parallel to either of the coordinate axes the difference (in absolute value) between the numbers of white point and red points on L is not greater than 1?
 
-[[src_imo_1986__Q06]]
+[[Quesiti/src_imo_1986#q06|src_imo_1986__Q06]]

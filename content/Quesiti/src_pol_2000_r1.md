@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 1
 
 > Prove che per ogni intero $n \ge 3$ la somma dei cubi di tutti i numeri naturali inferiori a $n$ e coprimo con $n$ è divisibile da $n$.
 
-[[src_pol_2000_r1__Q01]]
+[[Quesiti/src_pol_2000_r1#q01|src_pol_2000_r1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 1
 
 > In un triangolo a angolo acuto $ABC$ con $\angle ACB = 2\angle ABC$, $D$ è il punto laterale $BC$ che soddisfa $2\angle BAD = \angle ABC$. Provare che $$\frac{1}{BD} = \frac{1}{AB} + \frac{1}{AC}.$$
 
-[[src_pol_2000_r1__Q02]]
+[[Quesiti/src_pol_2000_r1#q02|src_pol_2000_r1__Q02]]
 
 
 
@@ -88,7 +88,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > La somma dei numeri positivi $a, b, c$ è $1$. Prove che $a^2 + b^2 + c^2 + 2\sqrt{3abc} \le 1$.
 
-[[src_pol_2000_r1__Q03]]
+[[Quesiti/src_pol_2000_r1#q03|src_pol_2000_r1__Q03]]
 
 
 
@@ -115,7 +115,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Ogni punto di un cerchio è dipinto con uno dei tre colori. Prove che esistono tre punti dello stesso colore sul cerchio che sono vertici di un triangolo di uguale taglia.
 
-[[src_pol_2000_r1__Q04]]
+[[Quesiti/src_pol_2000_r1#q04|src_pol_2000_r1__Q04]]
 
 
 
@@ -142,7 +142,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Trovare tutte le coppie $(a, b)$ di numeri interi positivi in modo tale che i numeri $a^3 + 6ab + 1$ e $b^3 + 6ab + 1$ siano cubetti di numeri interi positivi.
 
-[[src_pol_2000_r1__Q05]]
+[[Quesiti/src_pol_2000_r1#q05|src_pol_2000_r1__Q05]]
 
 
 
@@ -169,7 +169,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Un punto $X$ si trova all'interno o sul confine del triangolo $ABC$ con $\angle C = 90^\circ$. I punti $P, Q, R$ sono le proiezioni di $X$ rispettivamente su $BC$, $CA$ e $AB$. Prova che l'uguaglianza $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ è valida se e solo se $X$ si trova sul lato $AB$.
 
-[[src_pol_2000_r1__Q06]]
+[[Quesiti/src_pol_2000_r1#q06|src_pol_2000_r1__Q06]]
 
 
 
@@ -197,7 +197,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Mostrare che per ogni numero intero positivo $n$ e per ogni numero $t \in \left(\frac{1}{2}, 1\right)$ esistono numeri $a, b \in (1999, 2000)$ tali che $$\frac{1}{2}a^n + \frac{1}{2}b^n < (ta + (1-t)b)^n.$$
 
-[[src_pol_2000_r1__Q07]]
+[[Quesiti/src_pol_2000_r1#q07|src_pol_2000_r1__Q07]]
 
 
 
@@ -226,7 +226,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Le funzioni $c(n, k)$ sono definite per gli integri $n \ge k \ge 0$ da $c(n, 0) = c(n, n) = 1$ per tutti $n \ge 0$ e $$c(n+1, k) = 2^k c(n, k) + c(n, k-1) \quad \text{for} \quad n \ge k \ge 1.$$ Prove che $c(n, k) = c(n, n-k)$ per tutti $n$ e $k$.
 
-[[src_pol_2000_r1__Q08]]
+[[Quesiti/src_pol_2000_r1#q08|src_pol_2000_r1__Q08]]
 
 
 
@@ -253,7 +253,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Supponiamo che gli integri positivi $m$ e $n$ siano tali che $mn$ divida $m^2 + n^2 + m$. Prova che $m$ è un quadrato perfetto.
 
-[[src_pol_2000_r1__Q09]]
+[[Quesiti/src_pol_2000_r1#q09|src_pol_2000_r1__Q09]]
 
 
 
@@ -280,7 +280,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > Lasciate che $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}$ siano vettori unitari ortogonali in coppia nello spazio. Lasciate che $O$ sia un piano variabile attraverso $O$, e lasciate che $A', B', C'$ sia le proiezioni di $A, B, C$ su $O$. Trova l'insieme dei valori di $OA'^2 + OB'^2 + OC'^2$ quando $O$ assume tutte le posizioni possibili.
 
-[[src_pol_2000_r1__Q10]]
+[[Quesiti/src_pol_2000_r1#q10|src_pol_2000_r1__Q10]]
 
 
 
@@ -307,7 +307,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > $M$ sia un insieme di integri positivi $n^2 + 1$ che abbiano la seguente proprietà: in ogni numero $n + 1$ da $M$ ci sono due numeri, uno dei quali divide l'altro. Dimostrare che esistono diversi elementi $a_1, \ldots, a_{n+1}$ di $M$, come $a_{i+1} \mid a_i$ per $i = 1, 2, \ldots, n$.
 
-[[src_pol_2000_r1__Q11]]
+[[Quesiti/src_pol_2000_r1#q11|src_pol_2000_r1__Q11]]
 
 
 
@@ -336,4 +336,4 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 
 > I punti $D, E, F$ sono prelevati sui rispettivi lati $BC, CA, AB$ di un triangolo acuto $ABC$. I circoncircoli dei triangoli $AEF$, $BFD$, $CDE$ si incontrano al punto $P$. Prove che se $$\frac{PD}{PE} = \frac{BD}{AE}, \quad \frac{PE}{PF} = \frac{CE}{BF}, \quad \frac{PF}{PD} = \frac{AF}{CD},$$ allora $AD$, $BE$, $CF$ sono le altitudini del triangolo $ABC$.
 
-[[src_pol_2000_r1__Q12]]
+[[Quesiti/src_pol_2000_r1#q12|src_pol_2000_r1__Q12]]

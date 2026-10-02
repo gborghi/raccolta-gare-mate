@@ -55,7 +55,7 @@ level: kangourou
 > D) 10 E) 11
 
 **Answer:** C
-[[src_kangourou_2018_benjamin_semifinale__Q01]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q01|src_kangourou_2018_benjamin_semifinale__Q01]]
 
 
 
@@ -97,7 +97,7 @@ level: kangourou
 > D) it cannot be 22. E) can be any of the numbers in the previous answers.
 
 **Answer:** E
-[[src_kangourou_2018_benjamin_semifinale__Q02]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q02|src_kangourou_2018_benjamin_semifinale__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: kangourou
 > When the integer 45 × 513 is written in decimal notation, how many digits does it have? A) 18           B) 17 C) 16           	 D) 13 E) 12
 
 **Answer:** D
-[[src_kangourou_2018_benjamin_semifinale__Q03]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q03|src_kangourou_2018_benjamin_semifinale__Q03]]
 
 
 
@@ -160,7 +160,7 @@ level: kangourou
 > (Points 4) A positive integer is said to be modern if the sum of its digits is 2018. What is the first digit of the smallest modern number? A) 1              B) 2 C) 3              	 D) 4                 E) 9
 
 **Answer:** B
-[[src_kangourou_2018_benjamin_semifinale__Q04]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q04|src_kangourou_2018_benjamin_semifinale__Q04]]
 
 
 
@@ -210,7 +210,7 @@ level: kangourou
 > E) Less than 1 euro but not 0.
 
 **Answer:** D
-[[src_kangourou_2018_benjamin_semifinale__Q05]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q05|src_kangourou_2018_benjamin_semifinale__Q05]]
 
 
 
@@ -246,7 +246,7 @@ level: kangourou
 > (Points 4) The seats of a wheelchair are fixed to the rope so that the distance between two consecutive seats is always the same. They are numbered 1, 2, 3, ..., N and after the number N seat count the number 1: Stefania is sitting on the number 42 seat. When Stefania is exactly halfway through the trip, she meets the seat number 120 (which goes the opposite way). How much is N? A) 78 B) 81 C) 102 D) 156 E) 162
 
 **Answer:** D
-[[src_kangourou_2018_benjamin_semifinale__Q06]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q06|src_kangourou_2018_benjamin_semifinale__Q06]]
 
 
 
@@ -278,7 +278,7 @@ level: kangourou
 > (Point 5) Aldo and Bruno compete on a 1000-meter route (starting at the same moment and from the same point) and each runs at a constant speed. When Aldo is 100 metres away from the river, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in meters) that separates Aldo from Bruno when Aldo cuts the finish line? A) 111            	B) 114           	 C) 115         	 D) 120             E) 122
 
 **Answer:** A
-[[src_kangourou_2018_benjamin_semifinale__Q07]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q07|src_kangourou_2018_benjamin_semifinale__Q07]]
 
 
 
@@ -313,7 +313,7 @@ level: kangourou
 > In an ABC triangle the three bisettes meet at a point I. The degree measurements of the AIB, BIC and CIA angles are 110, 130 and 120 respectively. How many degrees does the angle ABC measure? A) 20 B) 30 C) 40 D) 60 E) 80
 
 **Answer:** D
-[[src_kangourou_2018_benjamin_semifinale__Q08]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q08|src_kangourou_2018_benjamin_semifinale__Q08]]
 
 
 
@@ -351,7 +351,7 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** E
-[[src_kangourou_2018_benjamin_semifinale__Q09]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q09|src_kangourou_2018_benjamin_semifinale__Q09]]
 
 
 
@@ -386,7 +386,7 @@ level: kangourou
 > I tiled the floor of my antique with square tiles all equal to each other, without cutting any. The result is what you see in the figure. What's the maximum number of tiles I can use?
 
 **Answer:** 0024
-[[src_kangourou_2018_benjamin_semifinale__Q10]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q10|src_kangourou_2018_benjamin_semifinale__Q10]]
 
 
 
@@ -417,7 +417,7 @@ level: kangourou
 > (Points 5) The product of 10 positive integers (not necessarily different from each other) is 1010. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
 
 **Answer:** 0009
-[[src_kangourou_2018_benjamin_semifinale__Q11]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q11|src_kangourou_2018_benjamin_semifinale__Q11]]
 
 
 
@@ -449,7 +449,7 @@ level: kangourou
 > Twenty-two kangaroos and koalas sit around a round table. Kangaroos seem to tell the truth, koalas always lie. Ten of these animals say, "He who is seated at my right hand is of my own species". The other 12 say, "He who is seated at my right hand is of a different species". How many kangaroos are around the table?
 
 **Answer:** 0010
-[[src_kangourou_2018_benjamin_semifinale__Q12]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q12|src_kangourou_2018_benjamin_semifinale__Q12]]
 
 
 
@@ -526,7 +526,7 @@ level: kangourou
 > (Point 6) Paola has five stripes of 2, 3, 4, 5, and 6 centimeters in length and can choose the length of a sixth stripe so that using all six stripes she can form an equilateral triangle. How many different lengths can the sixth list have? (The figure shows you how you can build the triangle with a sixth row 4 cm long, and this is one of the possible lengths.)
 
 **Answer:** 0004
-[[src_kangourou_2018_benjamin_semifinale__Q13]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q13|src_kangourou_2018_benjamin_semifinale__Q13]]
 
 
 
@@ -559,7 +559,7 @@ level: kangourou
 > (Points 6) Fruits may be exchanged on the market under the following rule: the value of 4 apples is equal to 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows you to carry out your plan?
 
 **Answer:** 0023
-[[src_kangourou_2018_benjamin_semifinale__Q14]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q14|src_kangourou_2018_benjamin_semifinale__Q14]]
 
 
 
@@ -590,7 +590,7 @@ level: kangourou
 > (Points 6) Two circles with the same centre (but different radius) shall be intersected at 8 points by two different diameters of the radius of the circle. How many parallelograms do 4 of these 8 points have for vertices?
 
 **Answer:** 0004
-[[src_kangourou_2018_benjamin_semifinale__Q15]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q15|src_kangourou_2018_benjamin_semifinale__Q15]]
 
 
 
@@ -621,7 +621,7 @@ level: kangourou
 > (Points 7) For each natural number between 1 and 99 included, the product of its digits is calculated (which coincides with the number itself if the number is one digit). All products thus obtained are therefore added. What is the result?
 
 **Answer:** 2070
-[[src_kangourou_2018_benjamin_semifinale__Q16]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q16|src_kangourou_2018_benjamin_semifinale__Q16]]
 
 
 
@@ -652,7 +652,7 @@ level: kangourou
 > (Points 7) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
 
 **Answer:** 0007
-[[src_kangourou_2018_benjamin_semifinale__Q17]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q17|src_kangourou_2018_benjamin_semifinale__Q17]]
 
 
 
@@ -700,4 +700,4 @@ level: kangourou
 > 0024 0009 0010 0004 0023 0004 2070 0007 0011
 
 **Answer:** 0011
-[[src_kangourou_2018_benjamin_semifinale__Q18]]
+[[Quesiti/src_kangourou_2018_benjamin_semifinale#q18|src_kangourou_2018_benjamin_semifinale__Q18]]

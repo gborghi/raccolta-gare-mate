@@ -33,7 +33,7 @@ Two piles of cards always share a perfect square sum
 
 > Let $n \geq 100$ be an integer. Ivan writes the numbers $n, n+1, \ldots, 2n$ each on different cards. He then shuffles these$n+1$ cards, and divides them into two piles. Prove that at least one of the piles contains two cards such that the sum of their numbers is a perfect square.
 
-[[src_imho_2021__Q01]]
+[[Quesiti/src_imho_2021#q01|src_imho_2021__Q01]]
 
 
 
@@ -62,7 +62,7 @@ Two piles of cards always share a perfect square sum
 
 > Show that the inequality $$\sum_{i=1}^{n}\sum_{j=1}^{n}\sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n}\sum_{j=1}^{n}\sqrt{|x_i + x_j|}$$ holds for all real numbers $x_1, \ldots, x_n$.
 
-[[src_imho_2021__Q02]]
+[[Quesiti/src_imho_2021#q02|src_imho_2021__Q02]]
 
 
 
@@ -89,7 +89,7 @@ Two piles of cards always share a perfect square sum
 
 > Let $D$ be an interior point of the acute triangle $ABC$ with $AB > AC$ so that $\angle DAB = \angle CAD$. The point $E$ on the segment $AC$ satisfies $\angle ADE = \angle BCD$, the point $F$ on the segment $AB$ satisfies $\angle FDA = \angle DBC$, and the point $X$ on the line $AC$ satisfies $CX = BX$. Let $O_1$ and $O_2$ be the circumcentres of the triangles $ADC$ and $EXD$, respectively. Prove that the lines $BC$, $EF$, and $O_1O_2$ are concurrent.
 
-[[src_imho_2021__Q03]]
+[[Quesiti/src_imho_2021#q03|src_imho_2021__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Two piles of cards always share a perfect square sum
 
 > Let $\Gamma$ be a circle with center $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. Let $\Omega$ be the circumcircle of the triangle $AIC$. The extension of $BA$ beyond $A$ meets $\Omega$ at $X$, and the extension of $BC$ beyond $C$ meets $\Omega$ at $Z$. The extension of $AD$ beyond $D$ meets $\Omega$ at $Y$, and the extension of $CD$ beyond $D$ meets $\Omega$ at $T$. Prove that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
 
-[[src_imho_2021__Q04]]
+[[Quesiti/src_imho_2021#q04|src_imho_2021__Q04]]
 
 
 
@@ -148,7 +148,7 @@ Jumpy's walnut swaps always allow finding adjacent walnuts
 > 
 > Prove that there exists a value of $k$ such that, on the $k$-th move, Jumpy swaps some walnuts $a$ and $b$ such that $a < k < b$.
 
-[[src_imho_2021__Q05]]
+[[Quesiti/src_imho_2021#q05|src_imho_2021__Q05]]
 
 
 
@@ -175,4 +175,4 @@ Subset sums bound forces large intersecting subset
 
 > Let $m \geq 2$ be an integer, $A$ be a finite set of (not necessarily positive) integers, and $B_1, B_2, \ldots, B_m$ be subsets of $A$. Assumes that for each $k = 1, 2, \ldots, m$ the sum of the elements of $B_k$ is $m^k$. Prove that $A$ contains at least $m/2$ elements.
 
-[[src_imho_2021__Q06]]
+[[Quesiti/src_imho_2021#q06|src_imho_2021__Q06]]

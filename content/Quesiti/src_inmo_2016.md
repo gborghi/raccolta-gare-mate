@@ -33,7 +33,7 @@ level: INMO
 
 > $ABC$ sia un triangolo in cui $AB = AC$. Supponiamo che l'ortocentro del triangolo si trovi sul cerchio interno. Trova il rapporto $AB/BC$.
 
-[[src_inmo_2016__Q01]]
+[[Quesiti/src_inmo_2016#q01|src_inmo_2016__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: INMO
 
 > Per i numeri reali positivi $a, b, c$, quale delle seguenti affermazioni implica necessariamente $a = b = c$: (I) $a(b^3 + c^3) = b(c^3 + a^3)$, (II) $a(b^3 + c^3) = c(a^3 + b^3)$, (III) $a^2(b + c) = b^2(c + a) = c^2(a + b)$? Giustifica la tua risposta.
 
-[[src_inmo_2016__Q02]]
+[[Quesiti/src_inmo_2016#q02|src_inmo_2016__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: INMO
 
 > $\mathbb{N}$ indichi l'insieme di tutti i numeri naturali. Definire una funzione $T : \mathbb{N} \to \mathbb{N}$ da $T(2k) = k$ e $T(2k+1) = 2k + 2$. Scriviamo $T^1(n) = T(T(n))$ e in generale $T^k(n) = T(T^{k-1}(n))$ per qualsiasi $k \ge 1$. (i) Indicare che per ogni $n \in \mathbb{N}$, esiste un $k$ tale che $T^k(n) = 1$. (ii) Per $k \in \mathbb{N}$, $c_k$ indichi il numero di elementi dell'insieme $\{n : T^k(n) = 1\}$. Provare che $c_{k+2} = c_{k+1} + c_k$ per $k \ge 1$.
 
-[[src_inmo_2016__Q03]]
+[[Quesiti/src_inmo_2016#q03|src_inmo_2016__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: INMO
 
 > Supponiamo che i punti 2016 della circonferenza di un cerchio siano di colore rosso e i punti rimanenti di colore blu. Date qualsiasi numero naturale $n \ge 3$, dimostrare che esiste un poligono a lato regolare $n$ i cui vertici sono tutti blu.
 
-[[src_inmo_2016__Q04]]
+[[Quesiti/src_inmo_2016#q04|src_inmo_2016__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: INMO
 
 > Il $ABC$ deve essere un triangolo rettangolare con $\angle B = 90^\circ$. Il $D$ deve essere un punto su $AC$ tale da rendere uguali i radii di in dei triangoli $ABD$ e $CBD$. Se questo valore comune è $r'$ e se $r$ è il raggio di in del triangolo $ABC$, dimostrare che $$\frac{1}{r'} = \frac{1}{r} + \frac{1}{BD}.$$
 
-[[src_inmo_2016__Q05]]
+[[Quesiti/src_inmo_2016#q05|src_inmo_2016__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: INMO
 
 > Considera una progressione aritmetica non costante $a_1, a_2, \ldots, a_n, \ldots$. Supponiamo che esistano numeri interi positivi relativamente primi $p > 1$ e $q > 1$ in modo tale che $a_1^p$, $a_{q+1}^p$ e $a_{q^2+1}^p$ siano anche i termini della stessa progressione aritmetica. Prova che i termini della progressione aritmetica sono tutti interi.
 
-[[src_inmo_2016__Q06]]
+[[Quesiti/src_inmo_2016#q06|src_inmo_2016__Q06]]

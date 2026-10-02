@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Dato che $x$ è un intero positivo risolvere $$\left[\sqrt{x}\right] + \left[\sqrt[3]{x}\right] + \cdots + \left[\sqrt[k]{x}\right] = 400$$ (dove $[z]$ significa la parte integrale di $z$) e dimostrare la soluzione è completa.
 
-[[src_bmo1_1975__Q01]]
+[[Quesiti/src_bmo1_1975#q01|src_bmo1_1975__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 1
 > 
 > Se $d$ divide la differenza tra questi due prodotti si dimostra che $d = 1$ o $d > p_n$.
 
-[[src_bmo1_1975__Q02]]
+[[Quesiti/src_bmo1_1975#q02|src_bmo1_1975__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: BMO Round 1
 > 
 > Prove che se il disco $S$ contiene 7 punti in modo tale che la distanza da uno dei 7 punti a qualsiasi altro sia maggiore o uguale a 1, allora uno dei 7 punti è $O$.
 
-[[src_bmo1_1975__Q03]]
+[[Quesiti/src_bmo1_1975#q03|src_bmo1_1975__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: BMO Round 1
 > 
 > I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di $k$.
 
-[[src_bmo1_1975__Q04]]
+[[Quesiti/src_bmo1_1975#q04|src_bmo1_1975__Q04]]
 
 
 
@@ -168,7 +168,7 @@ Somma trigonometrica, funzione g, condizione limite su a*
 
 > Per ogni intero positivo $n$ viene data quella $$1 + \binom{2n}{1}\cos\theta + \binom{2n}{2}\cos 2\theta + \cdots + \cos 2n\theta = (2\cos\theta)^{2n}\cos n\theta$$ dove ci sono termini $2n+1$ sul lato sinistro. Tutte queste espressioni sono definite come $f(\theta)$. La funzione $g(\theta)$ è definita da $$g(\theta) = 1 + \binom{2n}{1}\cos 2\theta + \binom{2n}{2}\cos 4\theta + \cdots + \cos 2n\theta.$$ Dato che non esiste un $k$ razionale per il quale $g = k f$, trova i valori di $a$ per il quale $$\lim_{n \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
 
-[[src_bmo1_1975__Q05]]
+[[Quesiti/src_bmo1_1975#q05|src_bmo1_1975__Q05]]
 
 
 
@@ -196,7 +196,7 @@ Somma trigonometrica, funzione g, condizione limite su a*
 
 > Prova che se $n$ è un intero positivo superiore a 1 e $x > y > 1$, allora $$\frac{x^{n+1}-1}{x(x^n-1)} > \frac{y^{n+1}-1}{y(y^n-1)}.$$
 
-[[src_bmo1_1975__Q06]]
+[[Quesiti/src_bmo1_1975#q06|src_bmo1_1975__Q06]]
 
 
 
@@ -224,7 +224,7 @@ Somma trigonometrica, funzione g, condizione limite su a*
 
 > Prove che esiste solo un insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che $$(1-x_1)^2 + (x_1-x_2)^2 + \cdots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
 
-[[src_bmo1_1975__Q07]]
+[[Quesiti/src_bmo1_1975#q07|src_bmo1_1975__Q07]]
 
 
 
@@ -251,4 +251,4 @@ Somma trigonometrica, funzione g, condizione limite su a*
 
 > L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
 
-[[src_bmo1_1975__Q08]]
+[[Quesiti/src_bmo1_1975#q08|src_bmo1_1975__Q08]]

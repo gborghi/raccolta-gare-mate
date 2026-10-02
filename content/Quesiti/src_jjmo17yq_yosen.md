@@ -35,7 +35,7 @@ level: JJMO Yosen
 > $a, b, c, d, e, f$ siano integri separati in coppia, ciascuno tra $1$ e $9$ inclusi, soddisfacendo $a\cdot b = c\cdot d = e + f$. Trova tutti i valori possibili di $a + b + c + d + e + f$.
 
 **Risposta:** 23, 27
-[[src_jjmo17yq_yosen__Q01]]
+[[Quesiti/src_jjmo17yq_yosen#q01|src_jjmo17yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JJMO Yosen
 > Un numero ottenuto scrivendo due numeri interi positivi che differiscono di $1$ fianco a fianco in ordine decrescente è chiamato "numero di quest'anno". Ad esempio, scrivendo $20$ e $19$ si dà $2019$, che è un numero di quest'anno. Trova il numero più piccolo di quest'anno divisibile per $17$.
 
 **Risposta:** 1615
-[[src_jjmo17yq_yosen__Q02]]
+[[Quesiti/src_jjmo17yq_yosen#q02|src_jjmo17yq_yosen__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: JJMO Yosen
 
 > Quadrilateral $ABCD$ and quadrilateral $DEFG$ are both rectangles. The three points $A, D, E$ lie on one straight line in this order, and the three points $C, D, G$ lie on one straight line in this order. Given that $\angle GAD = 36^\circ$, $\angle GCF = 15^\circ$ and $BE = CF$ hold, find the measure of $\angle AEB$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo17yq_yosen__Q03.png]]
+![[src_jjmo17yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -94,10 +94,10 @@ level: JJMO Yosen
 
 > I quadrilaterali $ABCD$ e i quadrilaterali $DEFG$ sono entrambi rettangoli. I tre punti $A, D, E$ si trovano su una linea retta in questo ordine, e i tre punti $C, D, G$ si trovano su una linea retta in questo ordine. Considerando che $\angle GAD = 36^\circ$, $\angle GCF = 15^\circ$ e $BE = CF$ si trovano, si trova la misura di $\angle AEB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo17yq_yosen__Q03.png]]
+![[src_jjmo17yq_yosen__q03.png]]
 
 **Risposta:** 33^\circ
-[[src_jjmo17yq_yosen__Q03]]
+[[Quesiti/src_jjmo17yq_yosen#q03|src_jjmo17yq_yosen__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: JJMO Yosen
 > Tra i numeri interi da $1$ a $999$ inclusi, quanti sono tali che il numero di volte che sono divisibili da $2$ sia maggiore del numero di volte che sono divisibili da $5$? (Per un primo $p$, il "numero di volte divisibili per $p$" di un intero $n$ è il più grande $k$ con $p^k \mid n$.)
 
 **Risposta:** 444
-[[src_jjmo17yq_yosen__Q04]]
+[[Quesiti/src_jjmo17yq_yosen#q04|src_jjmo17yq_yosen__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: JJMO Yosen
 > Un quadrilaterale $ABCD$ è inserito in un cerchio e $E$ è un punto laterale $CD$, con $AB = 3$, $EC = 5$, $ED = 1$ e $AE \parallel BC$. Se $F$ è il riflesso di $D$ attraverso la linea $AE$, i tre punti $B, E, F$ sono collineari. Trova la lunghezza del segmento $AF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{3\sqrt{5}}{5}
-[[src_jjmo17yq_yosen__Q05]]
+[[Quesiti/src_jjmo17yq_yosen#q05|src_jjmo17yq_yosen__Q05]]
 
 
 
@@ -184,7 +184,7 @@ level: JJMO Yosen
 > Dieci carte sono allineate in fila. Nelle carte a numeri dispari (conteggiando da sinistra) viene scritto un intero positivo e sulle carte a numeri pari un intero negativo. Quanti modi ci sono per riempire le schede in modo che sia valida la seguente condizione: per ogni numero intero $i$ con $1 \le i \le 10$, il totale dei numeri scritti sulle schede $1$ fino a $i$ è uno di $-1$, $0$, $1$?
 
 **Risposta:** 89
-[[src_jjmo17yq_yosen__Q06]]
+[[Quesiti/src_jjmo17yq_yosen#q06|src_jjmo17yq_yosen__Q06]]
 
 
 
@@ -213,7 +213,7 @@ level: JJMO Yosen
 > Per un intero positivo $x$, $d(x)$ indica il numero di divisori positivi di $x$. Trova il numero intero positivo più piccolo $n$ soddisfacente $d(n^2) = d(n^2 + 7^{2019})$.
 
 **Risposta:** 171 \cdot 7^{1008}
-[[src_jjmo17yq_yosen__Q07]]
+[[Quesiti/src_jjmo17yq_yosen#q07|src_jjmo17yq_yosen__Q07]]
 
 
 
@@ -242,7 +242,7 @@ level: JJMO Yosen
 > Quanti tupli $(a, b, c, d, e)$ di cinque numeri interi, ciascuno tra $1$ e $5$ inclusi, sono tali che $a + 2b + 3c + 4d + 5e$ sia un multiple di $6$?
 
 **Risposta:** 518
-[[src_jjmo17yq_yosen__Q08]]
+[[Quesiti/src_jjmo17yq_yosen#q08|src_jjmo17yq_yosen__Q08]]
 
 
 
@@ -271,7 +271,7 @@ level: JJMO Yosen
 > Il triangolo $ABC$ soddisfa $\angle B = 90^\circ$ e $BC = 8$. Il punto $D$ si trova sul lato $AB$ e il punto $E$ si trova sul lato $AC$; il punto $F$ sia l'intersezione della linea $BE$ e della linea $CD$, con $BF = 6$ e $CF = 7$. Inoltre, il quadrilaterale $ADFE$ ha un cerchio inciso. Trova la lunghezza del segmento $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{63}{2}
-[[src_jjmo17yq_yosen__Q09]]
+[[Quesiti/src_jjmo17yq_yosen#q09|src_jjmo17yq_yosen__Q09]]
 
 
 
@@ -300,7 +300,7 @@ level: JJMO Yosen
 > Un determinato paese dispone di porti $100$ e JJMO Shipping opera rotte dirette bidirezionali tra alcune coppie di porti distinti. JJMO Shipping decide di aggiungere un nuovo percorso diretto bidirezionale per ogni coppia di porti $A, B$ che soddisfi la seguente condizione: si può lasciare il porto $A$, passare attraverso ogni porto esattamente una volta e arrivare al porto $B$, ma non esiste un percorso diretto tra i porti $A$ e $B$. Le rotte dirette sono aggiunte una dopo l'altra fino a quando non rimangono due porti distinti che soddisfino la condizione. Trovare il maggior numero possibile di rotte dirette che possono essere create (aggiunte).
 
 **Risposta:** 4850
-[[src_jjmo17yq_yosen__Q10]]
+[[Quesiti/src_jjmo17yq_yosen#q10|src_jjmo17yq_yosen__Q10]]
 
 
 
@@ -329,7 +329,7 @@ level: JJMO Yosen
 > Che $I$ sia il centro e $H$ l'ortocentro del triangolo $ABC$. Poiché $AI = 5$, $AH = 6$ e $\angle AIH = 90^\circ$ si tengono, si trova la lunghezza del raggio del circolo circumscritto del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{75}{7}
-[[src_jjmo17yq_yosen__Q11]]
+[[Quesiti/src_jjmo17yq_yosen#q11|src_jjmo17yq_yosen__Q11]]
 
 
 
@@ -358,4 +358,4 @@ level: JJMO Yosen
 > Su una lavagna è scritta una stringa fatta delle lettere $A$ e $B$. Considerare la seguente operazione: prendere la stringa corrente $w$, aggiungere un'altra lettera (o $A$ o $B$), e quindi cambiare esattamente una delle $A$ in una $B$ o una delle $B$ in una $A$. Per esempio, se $w = ABA$, le stringhe che possono apparire dopo una sola operazione sono $ABAABA$, $BBAABA$, $AAAABA$, $ABBABA$, $ABABBA$, $ABAAAA$, $ABAABB$ (tra tali risultati). Ora supponiamo che la stringa $A$ sia scritta sulla lavagna. A partire da questo stato, dopo aver eseguito l'operazione esattamente $4$ volte, quante stringhe distinte possono apparire sulla scheda?
 
 **Risposta:** 1099
-[[src_jjmo17yq_yosen__Q12]]
+[[Quesiti/src_jjmo17yq_yosen#q12|src_jjmo17yq_yosen__Q12]]

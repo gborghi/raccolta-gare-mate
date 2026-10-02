@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Un raggio di luce si riflette dai raggi di un determinato angolo. Un raggio che entra nel vertice dell'angolo viene assorbito. Prova che esiste un numero naturale $n$ tale che qualsiasi raggio possa riflettere al massimo $n$ volte.
 
-[[src_pol_1978_r3__Q01]]
+[[Quesiti/src_pol_1978_r3#q01|src_pol_1978_r3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Olimpiade Polacca Round 3
 > 
 > In altre parole, una scacchiera infinita, le cui cellule con entrambe le coordinate divisibili per 4 sono tagliate fuori, non può essere piastrellato da dominò.
 
-[[src_pol_1978_r3__Q02]]
+[[Quesiti/src_pol_1978_r3#q02|src_pol_1978_r3__Q02]]
 
 
 
@@ -93,7 +93,7 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 
 > Prova che se $m$ è un numero naturale e $P,Q,R$ polinomi di gradi inferiori a $m$ soddisfa $$x^{2m}P(x,y)+y^{2m}Q(x,y)=(x+y)^{2m}R(x,y),$$ allora ciascuno dei polinomi è zero.
 
-[[src_pol_1978_r3__Q03]]
+[[Quesiti/src_pol_1978_r3#q03|src_pol_1978_r3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 
 > Si deve $X$ essere un insieme di elementi $n$. Prove che la somma dei numeri di elementi di set $A\cap B$, dove $A$ e $B$ si corrono su tutti i sottoinsiemi di $X$, è uguale a $n\cdot 4^{n-1}$.
 
-[[src_pol_1978_r3__Q04]]
+[[Quesiti/src_pol_1978_r3#q04|src_pol_1978_r3__Q04]]
 
 
 
@@ -149,7 +149,7 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 
 > Per un dato numero reale $a$, definire la sequenza $(a_n)$ da $a_1=a$ e $$a_{n+1}=\begin{cases} \frac{1}{2}\left(a_n-\frac{1}{a_n}\right) & \text{if } a_n\ne 0, \\ 0 & \text{if } a_n=0. \end{cases}$$ Prove che la sequenza $(a_n)$ contiene infiniti termini non positivi.
 
-[[src_pol_1978_r3__Q05]]
+[[Quesiti/src_pol_1978_r3#q05|src_pol_1978_r3__Q05]]
 
 
 
@@ -177,4 +177,4 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 
 > Prova che se $h_1,h_2,h_3,h_4$ sono le altitudini di un tetraedro e $d_1,d_2,d_3$ sono le distanze tra le coppie di bordi opposti del tetraedro, allora $$\frac{1}{h_1^2}+\frac{1}{h_2^2}+\frac{1}{h_3^2}+\frac{1}{h_4^2}=\frac{1}{d_1^2}+\frac{1}{d_2^2}+\frac{1}{d_3^2}.$$
 
-[[src_pol_1978_r3__Q06]]
+[[Quesiti/src_pol_1978_r3#q06|src_pol_1978_r3__Q06]]

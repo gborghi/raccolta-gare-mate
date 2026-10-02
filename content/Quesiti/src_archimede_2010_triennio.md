@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** At least 100.
 
 **Answer:** A
-[[src_archimede_2010_triennio__Q03]]
+[[Quesiti/src_archimede_2010_triennio#q03|src_archimede_2010_triennio__Q03]]
 
 
 
@@ -96,7 +96,7 @@ level: triennio
 > - **(E)** 6.
 
 **Answer:** A
-[[src_archimede_2010_triennio__Q07]]
+[[Quesiti/src_archimede_2010_triennio#q07|src_archimede_2010_triennio__Q07]]
 
 
 
@@ -139,7 +139,7 @@ level: triennio
 > - **(E)** 11.
 
 **Answer:** D
-[[src_archimede_2010_triennio__Q11]]
+[[Quesiti/src_archimede_2010_triennio#q11|src_archimede_2010_triennio__Q11]]
 
 
 
@@ -181,7 +181,7 @@ level: triennio
 > - **(E)** more than five.
 
 **Answer:** A
-[[src_archimede_2010_triennio__Q12]]
+[[Quesiti/src_archimede_2010_triennio#q12|src_archimede_2010_triennio__Q12]]
 
 
 
@@ -221,7 +221,7 @@ level: triennio
 > - **(E)** 29.
 
 **Answer:** C
-[[src_archimede_2010_triennio__Q14]]
+[[Quesiti/src_archimede_2010_triennio#q14|src_archimede_2010_triennio__Q14]]
 
 
 
@@ -264,7 +264,7 @@ Time for the last km with km on the fastest route
 > - **(E)** Three minutes and 15 seconds.
 
 **Answer:** D
-[[src_archimede_2010_triennio__Q15]]
+[[Quesiti/src_archimede_2010_triennio#q15|src_archimede_2010_triennio__Q15]]
 
 
 
@@ -305,7 +305,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 51 · 301.
 
 **Answer:** A
-[[src_archimede_2010_triennio__Q16]]
+[[Quesiti/src_archimede_2010_triennio#q16|src_archimede_2010_triennio__Q16]]
 
 
 
@@ -353,7 +353,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 1 3 m2.
 
 **Answer:** C
-[[src_archimede_2010_triennio__Q17]]
+[[Quesiti/src_archimede_2010_triennio#q17|src_archimede_2010_triennio__Q17]]
 
 
 
@@ -394,7 +394,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 2110.
 
 **Answer:** C
-[[src_archimede_2010_triennio__Q18]]
+[[Quesiti/src_archimede_2010_triennio#q18|src_archimede_2010_triennio__Q18]]
 
 
 
@@ -441,7 +441,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 4.
 
 **Answer:** C
-[[src_archimede_2010_triennio__Q19]]
+[[Quesiti/src_archimede_2010_triennio#q19|src_archimede_2010_triennio__Q19]]
 
 
 
@@ -483,7 +483,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 210 · 5 · 3.
 
 **Answer:** B
-[[src_archimede_2010_triennio__Q20]]
+[[Quesiti/src_archimede_2010_triennio#q20|src_archimede_2010_triennio__Q20]]
 
 
 
@@ -527,7 +527,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 8192.
 
 **Answer:** D
-[[src_archimede_2010_triennio__Q21]]
+[[Quesiti/src_archimede_2010_triennio#q21|src_archimede_2010_triennio__Q21]]
 
 
 
@@ -572,7 +572,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 10 white balls and 10 black balls.
 
 **Answer:** D
-[[src_archimede_2010_triennio__Q22]]
+[[Quesiti/src_archimede_2010_triennio#q22|src_archimede_2010_triennio__Q22]]
 
 
 
@@ -659,7 +659,7 @@ Time for the last km with km on the fastest route
 > - **(E)** √ 3 2 cm.
 
 **Answer:** D
-[[src_archimede_2010_triennio__Q23]]
+[[Quesiti/src_archimede_2010_triennio#q23|src_archimede_2010_triennio__Q23]]
 
 
 
@@ -701,7 +701,7 @@ Time for the last km with km on the fastest route
 > - **(E)** 63 64 m3.
 
 **Answer:** A
-[[src_archimede_2010_triennio__Q24]]
+[[Quesiti/src_archimede_2010_triennio#q24|src_archimede_2010_triennio__Q24]]
 
 
 
@@ -746,4 +746,4 @@ Time for the last km with km on the fastest route
 > - **(E)** 5 9.
 
 **Answer:** D
-[[src_archimede_2010_triennio__Q25]]
+[[Quesiti/src_archimede_2010_triennio#q25|src_archimede_2010_triennio__Q25]]

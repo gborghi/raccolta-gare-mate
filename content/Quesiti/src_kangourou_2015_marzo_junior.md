@@ -45,7 +45,7 @@ level: kangourou
 > C) 1.111.111.111 D) 11.111.111.111 E) 111.111.111.111
 
 **Answer:** D
-[[src_kangourou_2015_marzo_junior__Q01]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q01|src_kangourou_2015_marzo_junior__Q01]]
 
 
 
@@ -89,7 +89,7 @@ level: kangourou
 > D) 15 E) The data are insufficient to answer
 
 **Answer:** D
-[[src_kangourou_2015_marzo_junior__Q02]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q02|src_kangourou_2015_marzo_junior__Q02]]
 
 
 
@@ -169,7 +169,7 @@ The value of the underlying asset shall be reported in accordance with the follo
 > C) π/2 D) 1/4 E) π/4
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q03]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q03|src_kangourou_2015_marzo_junior__Q03]]
 
 
 
@@ -217,7 +217,7 @@ The value of the underlying asset shall be reported in accordance with the follo
 > E) 6
 
 **Answer:** E
-[[src_kangourou_2015_marzo_junior__Q04]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q04|src_kangourou_2015_marzo_junior__Q04]]
 
 
 
@@ -252,7 +252,7 @@ The value of the underlying asset shall be reported in accordance with the follo
 > Many years ago a pirate buried a treasure in a garden and now he wants it back. The garden remained intact, but he only remembers having buried the treasure at least five metres from the fence wall and no more than five metres from an old tree. Which of the following figures indicates the region where the pirate should look for the treasure?
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q05]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q05|src_kangourou_2015_marzo_junior__Q05]]
 
 
 
@@ -305,7 +305,7 @@ This is the total amount of unemployment over the period considered.
 >
 
 **Answer:** C
-[[src_kangourou_2015_marzo_junior__Q06]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q06|src_kangourou_2015_marzo_junior__Q06]]
 
 
 
@@ -353,7 +353,7 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 > E) 23
 
 **Answer:** E
-[[src_kangourou_2015_marzo_junior__Q07]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q07|src_kangourou_2015_marzo_junior__Q07]]
 
 
 
@@ -399,7 +399,7 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 > E) 29
 
 **Answer:** A
-[[src_kangourou_2015_marzo_junior__Q08]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q08|src_kangourou_2015_marzo_junior__Q08]]
 
 
 
@@ -435,7 +435,7 @@ Total days **
 > Louis bought 100 candles. He consumes one candle a day, but as soon as he has the remains of seven candles, he manages to make a new one. How many days will the candles he bought last? A) 112 B) 114 C) 115 D) 116 E) 117
 
 **Answer:** D
-[[src_kangourou_2015_marzo_junior__Q09]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q09|src_kangourou_2015_marzo_junior__Q09]]
 
 
 
@@ -473,7 +473,7 @@ The following table shows the values of the values of the values of the values o
 > If n is the number of right angles of a general convex pentagon, which of the following is the complete list of values that n can assume? (A polygon is said to contain all of the segments that contain two points.) A) 1, 2, 3. B) 0, 1, 2, 3, 4. C) 0, 1, 2, 3. D) 0, 1, 2. E) 1, 2. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2015_marzo_junior__Q10]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q10|src_kangourou_2015_marzo_junior__Q10]]
 
 
 
@@ -522,7 +522,7 @@ The following table shows the values of the values of the values of the values o
 > E) 7
 
 **Answer:** E
-[[src_kangourou_2015_marzo_junior__Q11]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q11|src_kangourou_2015_marzo_junior__Q11]]
 
 
 
@@ -588,7 +588,7 @@ The following table shows the values of the values of the values of the values o
 > The rectangle in the figure is obtained by approximating 8 squares all on side 1. In a rectangle you can only move along the sides or diagonals of the individual squares. With this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (e.g. those marked)? A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6
 
 **Answer:** C
-[[src_kangourou_2015_marzo_junior__Q12]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q12|src_kangourou_2015_marzo_junior__Q12]]
 
 
 
@@ -639,7 +639,7 @@ The following table shows the values of the values of the values of the values o
 >
 
 **Answer:** C
-[[src_kangourou_2015_marzo_junior__Q13]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q13|src_kangourou_2015_marzo_junior__Q13]]
 
 
 
@@ -676,7 +676,7 @@ The following table shows the values of the values of the values of the values o
 > A container is shaped like a rectangular prism and the base is a square side 10 cm. The water is poured into the container up to a height of 1 cm; a 2 cm side stone cubet is then immersed (which therefore does not float and lies on the bottom with one of its faces). The cube is now surrounded by water and its upper face is water-filled. How much is h worth? A) 1,92 B) 1,93 C) 1,90 D) 1,91 E) 1,94
 
 **Answer:** A
-[[src_kangourou_2015_marzo_junior__Q14]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q14|src_kangourou_2015_marzo_junior__Q14]]
 
 
 
@@ -727,7 +727,7 @@ The following table shows the values of the values of the values of the values o
 > E) 40
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q15]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q15|src_kangourou_2015_marzo_junior__Q15]]
 
 
 
@@ -771,7 +771,7 @@ This is the difference between the two.
 > D) 36 E) A number different from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2015_marzo_junior__Q16]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q16|src_kangourou_2015_marzo_junior__Q16]]
 
 
 
@@ -818,7 +818,7 @@ The following table shows the results of the calculations:
 > E) 19
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q17]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q17|src_kangourou_2015_marzo_junior__Q17]]
 
 
 
@@ -865,7 +865,7 @@ The following table shows the results of the calculations:
 > E) 21
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q18]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q18|src_kangourou_2015_marzo_junior__Q18]]
 
 
 
@@ -912,7 +912,7 @@ The following table shows the results of the calculations:
 > E) 27
 
 **Answer:** D
-[[src_kangourou_2015_marzo_junior__Q19]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q19|src_kangourou_2015_marzo_junior__Q19]]
 
 
 
@@ -947,7 +947,7 @@ The following table shows the results of the calculations:
 > The statement If n is a prime integer, then one and only one of the integers n − 2 and n + 2 is prime is false. Which of the following values of n provides a counterexample? A) n = 11 B) n = 19 C) n = 21 D) n = 29 E) n = 37 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2015_marzo_junior__Q20]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q20|src_kangourou_2015_marzo_junior__Q20]]
 
 
 
@@ -996,7 +996,7 @@ The following table shows the results of the calculations:
 >
 
 **Answer:** C
-[[src_kangourou_2015_marzo_junior__Q21]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q21|src_kangourou_2015_marzo_junior__Q21]]
 
 
 
@@ -1044,7 +1044,7 @@ This is the total amount of allowances that can be allocated to the total allowa
 > E) 120
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q22]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q22|src_kangourou_2015_marzo_junior__Q22]]
 
 
 
@@ -1134,7 +1134,7 @@ This appropriation is intended to cover expenditure relating to:
 > D) - 6 E) 6
 
 **Answer:** A
-[[src_kangourou_2015_marzo_junior__Q23]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q23|src_kangourou_2015_marzo_junior__Q23]]
 
 
 
@@ -1245,7 +1245,7 @@ This appropriation is intended to cover expenditure relating to:
 > On the AB side of an ABC triangle, two points X and Y are indicated, and the parallel segment to the AC side, which ends on the BC side, is drawn from each of them. It is known that the areas of the two shaded regions thus separated (a trapezoid and a triangle) are equal and that BX: XA = 4: 1. How much is BY: Ya ? A) 1 : 1 B) 2 : 1 C) 3 : 3 D) 3 : 2 E) 4 : 3
 
 **Answer:** D
-[[src_kangourou_2015_marzo_junior__Q24]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q24|src_kangourou_2015_marzo_junior__Q24]]
 
 
 
@@ -1353,7 +1353,7 @@ This appropriation is intended to cover expenditure relating to:
 > C) CF D) DE E) EF
 
 **Answer:** E
-[[src_kangourou_2015_marzo_junior__Q25]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q25|src_kangourou_2015_marzo_junior__Q25]]
 
 
 
@@ -1413,7 +1413,7 @@ This appropriation is intended to cover expenditure relating to:
 >
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q26]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q26|src_kangourou_2015_marzo_junior__Q26]]
 
 
 
@@ -1457,7 +1457,7 @@ This appropriation is intended to cover expenditure relating to:
 > D) 9 E) The data are insufficient to answer
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q27]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q27|src_kangourou_2015_marzo_junior__Q27]]
 
 
 
@@ -1505,7 +1505,7 @@ This appropriation is intended to cover expenditure relating to:
 > E) 20
 
 **Answer:** D
-[[src_kangourou_2015_marzo_junior__Q28]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q28|src_kangourou_2015_marzo_junior__Q28]]
 
 
 
@@ -1553,7 +1553,7 @@ The value of all the materials used shall be the sum of all the materials used.
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q29]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q29|src_kangourou_2015_marzo_junior__Q29]]
 
 
 
@@ -1604,4 +1604,4 @@ The value of all the materials used shall be the sum of all the materials used.
 > I'm not sure I'm going to make it.
 
 **Answer:** B
-[[src_kangourou_2015_marzo_junior__Q30]]
+[[Quesiti/src_kangourou_2015_marzo_junior#q30|src_kangourou_2015_marzo_junior__Q30]]

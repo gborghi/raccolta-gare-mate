@@ -41,7 +41,7 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero intero positivo più piccolo che è speciale e batte la risposta corretta al punto precedente?
 
-[[src_obm_2024_n1_fx__Q01]]
+[[Quesiti/src_obm_2024_n1_fx#q01|src_obm_2024_n1_fx__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: OBM Nível 1
 > 
 > b) How many different complete configurations exist on a $3 \times 3$ board using exactly one rook and two knights? Configurations obtained from each other by rotations or reflections are considered different. For example, the four configurations shown below are all considered distinct.
 
-![[src_obm_2024_n1_fx__Q02.png]]
+![[src_obm_2024_n1_fx__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -94,9 +94,9 @@ level: OBM Nível 1
 > 
 > b) Quante diverse configurazioni complete esistono su una tavola $3 \times 3$ che utilizza esattamente una torre e due cavalieri? Le configurazioni ottenute tra loro mediante rotazioni o riflessioni sono considerate diverse. Per esempio, le quattro configurazioni riportate di seguito sono tutte considerate diverse.
 
-![[src_obm_2024_n1_fx__Q02.png]]
+![[src_obm_2024_n1_fx__q02.png]]
 
-[[src_obm_2024_n1_fx__Q02]]
+[[Quesiti/src_obm_2024_n1_fx#q02|src_obm_2024_n1_fx__Q02]]
 
 
 
@@ -117,7 +117,7 @@ level: OBM Nível 1
 > 
 > \emph{In this problem, you may wish to use the Pythagorean Theorem: in a right triangle with legs $a$ and $b$ and hypotenuse $c$ (the side opposite the $90^\circ$ angle), the relation $a^2 + b^2 = c^2$ holds.}
 
-![[src_obm_2024_n1_fx__Q03.png]]
+![[src_obm_2024_n1_fx__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -141,9 +141,9 @@ level: OBM Nível 1
 > 
 > \emph{In questo problema, potresti voler usare il teorema di Pitagora: in un triangolo rettangolo con gambe $a$ e $b$ e ipotenusa $c$ (il lato opposto all'angolo $90^\circ$), la relazione $a^2 + b^2 = c^2$ si mantiene.}
 
-![[src_obm_2024_n1_fx__Q03.png]]
+![[src_obm_2024_n1_fx__q03.png]]
 
-[[src_obm_2024_n1_fx__Q03]]
+[[Quesiti/src_obm_2024_n1_fx#q03|src_obm_2024_n1_fx__Q03]]
 
 
 
@@ -186,7 +186,7 @@ level: OBM Nível 1
 > 
 > c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente 10 termini.
 
-[[src_obm_2024_n1_fx__Q04]]
+[[Quesiti/src_obm_2024_n1_fx#q04|src_obm_2024_n1_fx__Q04]]
 
 
 
@@ -213,4 +213,4 @@ level: OBM Nível 1
 
 > Un campionato è giocato tra sei squadre di calcio, con ciascuna squadra che gioca ciascuna delle altre cinque squadre esattamente una volta. Il vincitore di ciascuna partita guadagna 3 punti e il perdente guadagna 0 punti; se la partita termina in pareggio, entrambe le squadre guadagnano 1 punto. È noto che, alla fine del campionato, le sei squadre avevano in coppia punti totali diversi. Qual è il minimo valore possibile per il numero di punti della squadra con più punti?
 
-[[src_obm_2024_n1_fx__Q05]]
+[[Quesiti/src_obm_2024_n1_fx#q05|src_obm_2024_n1_fx__Q05]]

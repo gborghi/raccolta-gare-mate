@@ -23,7 +23,7 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > (2) For an arbitrary point $Q$ ($Q \neq A, T, B$) on arc $\widehat{AB}$ (not containing $C$), denote the inner centers of $\triangle AQC$, $\triangle QCB$ by $I_1$, $I_2$ respectively. Prove that $Q$, $I_1$, $I_2$, $T$ are concyclic.
 
-![[src_cn_cmc-complementary-test_2009__Q01.png]]
+![[src_cn_cmc-complementary-test_2009__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -43,9 +43,9 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > (2) Per un punto arbitrario $Q$ ($Q \neq A, T, B$) su arco $\widehat{AB}$ (non contenente $C$), indicare rispettivamente i centri interni di $\triangle AQC$, $\triangle QCB$ da $I_1$ e $I_2$. Provare che $Q$, $I_1$, $I_2$, $T$ sono conciclici.
 
-![[src_cn_cmc-complementary-test_2009__Q01.png]]
+![[src_cn_cmc-complementary-test_2009__q01.png]]
 
-[[src_cn_cmc-complementary-test_2009__Q01]]
+[[Quesiti/src_cn_cmc-complementary-test_2009#q01|src_cn_cmc-complementary-test_2009__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 marchi) dimostrare che $$-1 < \left(\sum_{k=1}^{n} \frac{k}{k^2+1}\right) - \ln n \leq \frac{1}{2}, \quad n = 1, 2, \ldots$$
 
-[[src_cn_cmc-complementary-test_2009__Q02]]
+[[Quesiti/src_cn_cmc-complementary-test_2009#q02|src_cn_cmc-complementary-test_2009__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (50 punti) Supponiamo che $k$, $l$ siano due numeri interi positivi. Prova che ci sono infiniti interi positivi $m \geq k$ in modo tale che $\binom{m}{k}$ e $l$ siano relativamente primi.
 
-[[src_cn_cmc-complementary-test_2009__Q03]]
+[[Quesiti/src_cn_cmc-complementary-test_2009#q03|src_cn_cmc-complementary-test_2009__Q03]]
 
 
 
@@ -160,4 +160,4 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > Provare che $\widetilde{S}$, la matrice ottenuta riordinando due righe di $S$, ha anche la proprietà (O).
 
-[[src_cn_cmc-complementary-test_2009__Q04]]
+[[Quesiti/src_cn_cmc-complementary-test_2009#q04|src_cn_cmc-complementary-test_2009__Q04]]

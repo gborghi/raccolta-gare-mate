@@ -33,7 +33,7 @@ level: IMO
 
 > Prove that there are infinitely many natural numbers $a$ with the following property: the number $z = n^4 + a$ is not prime for any natural number $n$.
 
-[[src_imho_1969__Q01]]
+[[Quesiti/src_imho_1969#q01|src_imho_1969__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: IMO
 
 > Let $a_1, a_2, \ldots, a_n$ be real constants, $x$ a real variable, and $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$ Given that $f(x_1) = f(x_2) = 0$, prove that $x_2 - x_1 = m\pi$ for some integer $m$.
 
-[[src_imho_1969__Q02]]
+[[Quesiti/src_imho_1969#q02|src_imho_1969__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: IMO
 
 > For each value of $k = 1, 2, 3, 4, 5$, find necessary and sufficient conditions on the number $a > 0$ so that there exists a tetrahedron with $k$ edges of length $a$ and the remaining $6 - k$ edges of length 1.
 
-[[src_imho_1969__Q03]]
+[[Quesiti/src_imho_1969#q03|src_imho_1969__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: IMO
 
 > A semicircular arc $\gamma$ is drawn on $AB$ as diameter. $C$ is a point on $\gamma$ other than $A$ and $B$, and $D$ is the foot of the perpendicular from $C$ to $AB$. We consider three circles $\gamma_1, \gamma_2, \gamma_3$, all tangent to the line $AB$. Of these, $\gamma_1$ is inscribed in $\triangle ABC$, while $\gamma_2$ and $\gamma_3$ are both tangent to $CD$ and to $\gamma$, one on each side of $CD$. Prove that$\gamma_1, \gamma_2$, and$\gamma_3$have a second tangent in common.
 
-[[src_imho_1969__Q04]]
+[[Quesiti/src_imho_1969#q04|src_imho_1969__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: IMO
 
 > Given $n > 4$ points in the plane such that no three are collinear. Prove that there are at least $\binom{n}{2}$ convex quadrilaterals whose vertices are four of the given points.
 
-[[src_imho_1969__Q05]]
+[[Quesiti/src_imho_1969#q05|src_imho_1969__Q05]]
 
 
 
@@ -172,4 +172,4 @@ Inequality for real numbers, find equality conditions
 
 > Prove that for all real numbers $x_1, x_2, y_1, y_2, z_1, z_2$ with $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, the inequality $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \le \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}$$ is satisfied. Give necessary and sufficient conditions for equality.
 
-[[src_imho_1969__Q06]]
+[[Quesiti/src_imho_1969#q06|src_imho_1969__Q06]]

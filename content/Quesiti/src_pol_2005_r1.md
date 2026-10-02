@@ -36,7 +36,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Risolvere in numeri reali il sistema $$x^2 = yz + 1$$ $$y^2 = zx + 2$$ $$z^2 = xy + 4.$$
 
-[[src_pol_2005_r1__Q01]]
+[[Quesiti/src_pol_2005_r1#q01|src_pol_2005_r1__Q01]]
 
 
 
@@ -63,7 +63,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Trova tutti gli enti $n > 1$ per i quali $2^2 + 3^2 + \cdots + n^2$ è una potenza di un primo.
 
-[[src_pol_2005_r1__Q02]]
+[[Quesiti/src_pol_2005_r1#q02|src_pol_2005_r1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > In un angolo acuto $ABC$ punto $D$ è la proiezione di $C$ su $AB$, e $E$ è la proiezione di $D$ su $BC$. Il punto $F$ è preso sul segmento $DE$ in modo che $EF : FD = AD : DB$. Prove che le linee $CF$ e $AE$ sono perpendicolari.
 
-[[src_pol_2005_r1__Q03]]
+[[Quesiti/src_pol_2005_r1#q03|src_pol_2005_r1__Q03]]
 
 
 
@@ -119,7 +119,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Sono dati un numero naturale $n$ e numeri reali positivi $a$ e $b$. Trova il valore più grande possibile dell'espressione $$x_1 y_1 + x_2 y_2 + \cdots + x_n y_n,$$ dove $x_i, y_i$ sono numeri dell'intervallo $[0, 1]$ in modo tale che $x_1 + x_2 + \cdots + x_n \le a$ e $y_1 + y_2 + \cdots + y_n \le b$.
 
-[[src_pol_2005_r1__Q04]]
+[[Quesiti/src_pol_2005_r1#q04|src_pol_2005_r1__Q04]]
 
 
 
@@ -146,7 +146,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Un quadrilaterale $ABCD$ è inserito in un cerchio e le incircoli dei triangoli $ABC$ e $BCD$ hanno uguali radii. Prove che anche gli incircoli dei triangoli $CDA$ e $DAB$ hanno uguali raggi.
 
-[[src_pol_2005_r1__Q05]]
+[[Quesiti/src_pol_2005_r1#q05|src_pol_2005_r1__Q05]]
 
 
 
@@ -175,7 +175,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Determinare se esiste una sequenza infinita $a_0, a_1, a_2, \ldots$ di integri positivi che soddisfa $$\frac{1}{a_n} = \frac{1}{a_{n+1}} + \frac{1}{a_{n+2}}$$ per tutti $n \in \mathbb{N}$.
 
-[[src_pol_2005_r1__Q06]]
+[[Quesiti/src_pol_2005_r1#q06|src_pol_2005_r1__Q06]]
 
 
 
@@ -202,7 +202,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Tre sfere sono in coppia tangenti esternamente e toccano un piano nei punti $A, B, C$. Dato che $BC = a, CA = b, AB = c$, trovare i raggi delle sfere.
 
-[[src_pol_2005_r1__Q07]]
+[[Quesiti/src_pol_2005_r1#q07|src_pol_2005_r1__Q07]]
 
 
 
@@ -229,7 +229,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Su un cerchio ci sono lampade $n$, ognuna delle quali può essere accesa o spenta. Si esegue una sequenza di operazioni: in ogni operazione si selezionano le lampade successive $k$ e si cambia lo stato di ciascuna di esse. Inizialmente tutte le lampade sono accese. Per un dato numero intero positivo $n$, trovare tutti i numeri interi positivi $k$ per i quali si possono spegnere tutte le lampade.
 
-[[src_pol_2005_r1__Q08]]
+[[Quesiti/src_pol_2005_r1#q08|src_pol_2005_r1__Q08]]
 
 
 
@@ -258,7 +258,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Determinare tutti i numeri reali $a$ in modo tale che la sequenza $(x_n)$ data da $$x_0 = \sqrt{3}, \quad x_{n+1} = \frac{1 + a x_n}{a - x_n} \quad \text{for } n = 0, 1, 2, \ldots$$ soddisfi la condizione $x_{n+8} = x_n$ per tutti $n \ge 0$.
 
-[[src_pol_2005_r1__Q09]]
+[[Quesiti/src_pol_2005_r1#q09|src_pol_2005_r1__Q09]]
 
 
 
@@ -285,7 +285,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Sono stati scelti a caso tre sottoinsiemi $A, B, C$ di un dato set $n$-elemento $X$. Si presume che ognuno dei sottoinsiemi $2^n$ di $X$ sia equiprobabile. Trova il numero più probabile di elementi dell'insieme $A \cap B \cap C$.
 
-[[src_pol_2005_r1__Q10]]
+[[Quesiti/src_pol_2005_r1#q10|src_pol_2005_r1__Q10]]
 
 
 
@@ -312,7 +312,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Un cerchio con il centro $I$ è inserito in un quadrilaterale converso $ABCD$, dove $I$ non si trova su $AC$. Le diagonali $AC$ e $BD$ si intersecano a $E$. La linea attraverso $E$ perpendicolare a $BD$ incontra rispettivamente le linee $AI$ e $CI$ a $P$ e $Q$. Prove che $PE = EQ$.
 
-[[src_pol_2005_r1__Q11]]
+[[Quesiti/src_pol_2005_r1#q11|src_pol_2005_r1__Q11]]
 
 
 
@@ -339,4 +339,4 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 
 > Considerate le funzioni $f(x) = 2^x$ e $g(x) = f(f(f(f(f(f(f(x)))))))$ (la settima iterazione di $f$). Indicare che il numero $g(3) - g(0)$ è divisibile per $g(2) - g(0)$.
 
-[[src_pol_2005_r1__Q12]]
+[[Quesiti/src_pol_2005_r1#q12|src_pol_2005_r1__Q12]]

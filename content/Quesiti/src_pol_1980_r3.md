@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Calcolare l'area di un ottagono inscritto in un cerchio, i cui quattro lati hanno lunghezza 1 e gli altri quattro lati hanno lunghezza 2.
 
-[[src_pol_1980_r3__Q01]]
+[[Quesiti/src_pol_1980_r3#q01|src_pol_1980_r3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che per ogni $n$ esiste una soluzione dell'equazione $$a^2 + b^2 + c^2 = 3abc$$ nei numeri naturali $a, b, c$ più grandi di $n$.
 
-[[src_pol_1980_r3__Q02]]
+[[Quesiti/src_pol_1980_r3#q02|src_pol_1980_r3__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: Olimpiade Polacca Round 3
 
 > $k$ sia un numero intero nell'intervallo $[1, 99]$. Una moneta giusta deve essere lanciata cento volte. $$\varepsilon_j = \begin{cases} 1, & \text{if the } j\text{-th flip is a head,} \\ 2, & \text{if the } j\text{-th flip is a tail.} \end{cases}$$ $M_k$ indichi la probabilità che esista un numero $i$ tale da $k + \varepsilon_1 + \varepsilon_2 + \cdots + \varepsilon_i = 100$. Come si sceglie $k$ per massimizzare la probabilità $M_k$?
 
-[[src_pol_1980_r3__Q03]]
+[[Quesiti/src_pol_1980_r3#q03|src_pol_1980_r3__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: Olimpiade Polacca Round 3
 
 > Mostra che per ogni polinomio $W$ in tre variabili esistono polinomi $U$ e $V$ tali che: $$W(x, y, z) = U(x, y, z) + V(x, y, z),$$ $$U(x, y, z) = U(y, x, z),$$ $$V(x, y, z) = -V(y, x, z).$$
 
-[[src_pol_1980_r3__Q04]]
+[[Quesiti/src_pol_1980_r3#q04|src_pol_1980_r3__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: Olimpiade Polacca Round 3
 
 > In un tetraedro, i sei triangoli determinati da un bordo del tetraedro e il punto medio del bordo opposto hanno tutte una superficie uguale. Prove che il tetraedro è regolare.
 
-[[src_pol_1980_r3__Q05]]
+[[Quesiti/src_pol_1980_r3#q05|src_pol_1980_r3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: Olimpiade Polacca Round 3
 
 > Prove che per ogni numero naturale $n$ abbiamo: $$\sum_{k=1}^{n} 2^{2k-1} \binom{n}{k} = 2^{2n}.$$
 
-[[src_pol_1980_r3__Q06]]
+[[Quesiti/src_pol_1980_r3#q06|src_pol_1980_r3__Q06]]

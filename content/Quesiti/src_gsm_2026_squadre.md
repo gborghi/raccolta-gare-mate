@@ -20,7 +20,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4000
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,skill_modellizzazione"></span>
 
@@ -34,7 +34,7 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2500
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_casework_accurato"></span>
 
@@ -48,7 +48,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -62,7 +62,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1931
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -76,7 +76,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0300
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_geometria_piana,skill_conteggio_sistematico"></span>
 
@@ -90,7 +90,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0005
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_astrazione"></span>
 
@@ -104,7 +104,7 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0052
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,skill_conteggio_sistematico"></span>
 
@@ -118,7 +118,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4212
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,skill_conteggio_sistematico"></span>
 
@@ -132,7 +132,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0081
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
 
@@ -146,7 +146,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2026
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
@@ -160,7 +160,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0286
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
 
@@ -174,7 +174,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2118
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_astrazione"></span>
 
@@ -188,7 +188,7 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9850
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_conteggio_sistematico"></span>
 
@@ -202,7 +202,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** 0258
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_insiemi_funzioni,skill_astrazione"></span>
 
@@ -216,7 +216,7 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
@@ -230,7 +230,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0335
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,skill_astrazione"></span>
 
@@ -244,7 +244,7 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0066
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -258,7 +258,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 5520
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,skill_casework_accurato"></span>
 
@@ -272,7 +272,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2781
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,skill_astrazione"></span>
 
@@ -286,7 +286,7 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9998
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,skill_astrazione"></span>
 
@@ -300,5 +300,5 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2764
-**Fonte:** [apri PDF p.2](<../../Archimede/squadre/locale/testi/gmsm_26.pdf#page=2>)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 

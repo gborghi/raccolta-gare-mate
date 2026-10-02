@@ -41,7 +41,7 @@ level: BMO Round 1
 > 
 > b) Se $MP$ divide l'angolo $RPL$, trovare, con la prova, il rapporto tra le superfici di $S_1$ e $S_2$.
 
-[[src_bmo1_1985__Q01]]
+[[Quesiti/src_bmo1_1985#q01|src_bmo1_1985__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 1
 
 > $a, b, c$ sono ciascun numero tra 0 e 1. Provare che non tutti $a(1-b)$, $b(1-c)$, $c(1-a)$ possono essere superiori a $\frac{1}{4}$.
 
-[[src_bmo1_1985__Q02]]
+[[Quesiti/src_bmo1_1985#q02|src_bmo1_1985__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 1
 
 > $n$ e $m$ sono integri non negativi. Prove che $$2 \binom{n+1}{1} + 3 \binom{n+2}{2} + \cdots + (r+1)\binom{n+r}{r} + \cdots + (m+1)\binom{n+m}{m} = \binom{n+m+2}{m},$$ dove $\binom{p}{r}$ è il coefficiente binomio $p(p-1)(p-2)\cdots(p-r+1)/r!$.
 
-[[src_bmo1_1985__Q03]]
+[[Quesiti/src_bmo1_1985#q03|src_bmo1_1985__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 
 > La sequenza $f_n$ è definita da $f_0 = 1$, $f_1 = a$, dove $a$ è un numero intero positivo, e per tutti $n > 1$, $$f_n = 2f_{n-1} - f_{n-2} + 2.$$ dimostra che per ogni $k \geq 0$ esiste $h$ tale che $f_h f_{h+1} = f_k$.
 
-[[src_bmo1_1985__Q04]]
+[[Quesiti/src_bmo1_1985#q04|src_bmo1_1985__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: BMO Round 1
 
 > Un contenitore cilindrico ha un'altezza di 6 cm e un raggio di 4 cm e il cerchio è fissato in un piano orizzontale. Il contenitore si posa con il suo asse orizzontale e con ciascuna delle sue periferie circolari che toccano il cerchio in due punti. Il cilindro è ora spostato in modo che ciascuna delle sue periferie circolari tocchi ancora il cerchio a due punti. Trovare, con prova, il luogo del centro di una delle estremità circolari del cilindro.
 
-[[src_bmo1_1985__Q05]]
+[[Quesiti/src_bmo1_1985#q05|src_bmo1_1985__Q05]]
 
 
 
@@ -180,4 +180,4 @@ L'equazione x^2 + y^2 = z^2 + 2 ha infinite soluzioni
 
 > Mostrare che l'equazione $x^2 + y^2 = z^2 + 2$ ha infinite soluzioni in numeri interi positivi $x, y, z$ in cui nessuno dei due $x, y, z$ ha un fattore comune maggiore di 1.
 
-[[src_bmo1_1985__Q06]]
+[[Quesiti/src_bmo1_1985#q06|src_bmo1_1985__Q06]]

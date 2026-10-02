@@ -46,7 +46,7 @@ level: triennio
 > - **(E)** None of the previous ones.
 
 **Answer:** E
-[[src_archimede_2005_triennio__Q02]]
+[[Quesiti/src_archimede_2005_triennio#q02|src_archimede_2005_triennio__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: triennio
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[src_archimede_2005_triennio__Q04]]
+[[Quesiti/src_archimede_2005_triennio#q04|src_archimede_2005_triennio__Q04]]
 
 
 
@@ -128,7 +128,7 @@ level: triennio
 > - **(E)** More than four.
 
 **Answer:** D
-[[src_archimede_2005_triennio__Q06]]
+[[Quesiti/src_archimede_2005_triennio#q06|src_archimede_2005_triennio__Q06]]
 
 
 
@@ -169,7 +169,7 @@ level: triennio
 > - **(E)** 8.
 
 **Answer:** D
-[[src_archimede_2005_triennio__Q09]]
+[[Quesiti/src_archimede_2005_triennio#q09|src_archimede_2005_triennio__Q09]]
 
 
 
@@ -211,7 +211,7 @@ level: triennio
 > - **(E)** there is no pair (a, b) that verifies the condition.
 
 **Answer:** B
-[[src_archimede_2005_triennio__Q10]]
+[[Quesiti/src_archimede_2005_triennio#q10|src_archimede_2005_triennio__Q10]]
 
 
 
@@ -260,7 +260,7 @@ level: triennio
 > - **(E)** 1/20800.
 
 **Answer:** B
-[[src_archimede_2005_triennio__Q12]]
+[[Quesiti/src_archimede_2005_triennio#q12|src_archimede_2005_triennio__Q12]]
 
 
 
@@ -301,7 +301,7 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 > - **(E)** More than four.
 
 **Answer:** B
-[[src_archimede_2005_triennio__Q14]]
+[[Quesiti/src_archimede_2005_triennio#q14|src_archimede_2005_triennio__Q14]]
 
 
 
@@ -345,7 +345,7 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 > - **(E)** 1610.
 
 **Answer:** D
-[[src_archimede_2005_triennio__Q16]]
+[[Quesiti/src_archimede_2005_triennio#q16|src_archimede_2005_triennio__Q16]]
 
 
 
@@ -388,7 +388,7 @@ Girls who lied at a round table
 > - **(E)** the information provided is not sufficient to provide a response.
 
 **Answer:** A
-[[src_archimede_2005_triennio__Q17]]
+[[Quesiti/src_archimede_2005_triennio#q17|src_archimede_2005_triennio__Q17]]
 
 
 
@@ -429,7 +429,7 @@ Girls who lied at a round table
 > - **(E)** for no values of a and b.
 
 **Answer:** E
-[[src_archimede_2005_triennio__Q18]]
+[[Quesiti/src_archimede_2005_triennio#q18|src_archimede_2005_triennio__Q18]]
 
 
 
@@ -521,7 +521,7 @@ Girls who lied at a round table
 > - **(E)** None of the previous ones.
 
 **Answer:** A
-[[src_archimede_2005_triennio__Q19]]
+[[Quesiti/src_archimede_2005_triennio#q19|src_archimede_2005_triennio__Q19]]
 
 
 
@@ -564,7 +564,7 @@ Girls who lied at a round table
 > - **(E)** 8.
 
 **Answer:** A
-[[src_archimede_2005_triennio__Q20]]
+[[Quesiti/src_archimede_2005_triennio#q20|src_archimede_2005_triennio__Q20]]
 
 
 
@@ -609,7 +609,7 @@ Colours of balloons purchased by four girls
 > - **(E)** None of the above statements are certainly true.
 
 **Answer:** B
-[[src_archimede_2005_triennio__Q21]]
+[[Quesiti/src_archimede_2005_triennio#q21|src_archimede_2005_triennio__Q21]]
 
 
 
@@ -650,7 +650,7 @@ Colours of balloons purchased by four girls
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[src_archimede_2005_triennio__Q22]]
+[[Quesiti/src_archimede_2005_triennio#q22|src_archimede_2005_triennio__Q22]]
 
 
 
@@ -694,7 +694,7 @@ Colours of balloons purchased by four girls
 > - **(E)** 54.
 
 **Answer:** D
-[[src_archimede_2005_triennio__Q23]]
+[[Quesiti/src_archimede_2005_triennio#q23|src_archimede_2005_triennio__Q23]]
 
 
 
@@ -740,7 +740,7 @@ Colours of balloons purchased by four girls
 > - **(E)** None of the previous ones.
 
 **Answer:** C
-[[src_archimede_2005_triennio__Q24]]
+[[Quesiti/src_archimede_2005_triennio#q24|src_archimede_2005_triennio__Q24]]
 
 
 
@@ -784,4 +784,4 @@ Colours of balloons purchased by four girls
 > - **(E)** x > 2006.
 
 **Answer:** D
-[[src_archimede_2005_triennio__Q25]]
+[[Quesiti/src_archimede_2005_triennio#q25|src_archimede_2005_triennio__Q25]]

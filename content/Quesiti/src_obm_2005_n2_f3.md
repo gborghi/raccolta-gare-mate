@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Su una tavola $5 \times 5$ devono essere posizionati tre pulsanti identici, ciascuno al centro di una cella, determinando un triangolo. In quanti modi si possono posizionare i pulsanti per formare un triangolo rettangolo con gambe parallele ai lati della tavola?
 
-[[src_obm_2005_n2_f3__Q01]]
+[[Quesiti/src_obm_2005_n2_f3#q01|src_obm_2005_n2_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 2
 > 
 > b) Calcolare l'area del quadrilaterale $ABDC$.
 
-[[src_obm_2005_n2_f3__Q02]]
+[[Quesiti/src_obm_2005_n2_f3#q02|src_obm_2005_n2_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 2
 
 > Dato che $$\frac{(a-b)(b-c)(c-a)}{(a+b)(b+c)(c+a)} = \frac{1}{11},$$ qual è il valore di $$\frac{a}{a+b} + \frac{b}{b+c} + \frac{c}{c+a}\,?$$
 
-[[src_obm_2005_n2_f3__Q03]]
+[[Quesiti/src_obm_2005_n2_f3#q03|src_obm_2005_n2_f3__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: OBM Nível 2
 
 > Nella sua allenamento quotidiano di nuoto, Esmeraldinho nuota più volte tra due punti $A$ e $B$ situati sulla stessa riva di un fiume, con un tasso di accumulo costante. La corrente del fiume scorre da $A$ a $B$, e la corrente nella direzione opposta è contro Esmeraldinho. Un registro trasportato dal punto di passaggio corrente $A$ al momento esatto in cui Esmeraldinho parte da $A$. Esmeraldinho raggiunge $B$ e ritorna immediatamente verso $A$. Nel viaggio di ritorno, attraversa il tronco 6 minuti dopo aver lasciato il$A$. Esmeraldinho raggiunge quindi $A$ e immediatamente parte di nuovo verso $B$, raggiungendo $B$ 5 minuti dopo aver superato il registro per la seconda volta mentre passa da $B$ a $A$. Quanti minuti ci vogliono per spostare il registro da $A$ a $B$?
 
-[[src_obm_2005_n2_f3__Q04]]
+[[Quesiti/src_obm_2005_n2_f3#q04|src_obm_2005_n2_f3__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: OBM Nível 2
 
 > Provare che il numero $1^{2005} + 2^{2005} + 3^{2005} + \cdots + 2005^{2005}$ è un multiple di $1 + 2 + 3 + \cdots + 2005$.
 
-[[src_obm_2005_n2_f3__Q05]]
+[[Quesiti/src_obm_2005_n2_f3#q05|src_obm_2005_n2_f3__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: OBM Nível 2
 
 > La misura dell'angolo $B$ del triangolo $ABC$ è $120^\circ$. Il $M$ deve essere un punto sul lato $AC$ e $K$ un punto sull'estensione del lato $AB$ oltre $B$, in modo tale che $BM$ sia il bisettore interno dell'angolo $\angle ABC$ e $CK$ sia il bisettore esterno corrispondente all'angolo $\angle ACB$. Il segmento $MK$ si interseca con $BC$ al punto $P$. Prove che $\angle APM = 30^\circ$.
 
-[[src_obm_2005_n2_f3__Q06]]
+[[Quesiti/src_obm_2005_n2_f3#q06|src_obm_2005_n2_f3__Q06]]

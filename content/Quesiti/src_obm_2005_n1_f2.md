@@ -33,7 +33,7 @@ level: OBM Nível 1
 
 > Il serbatoio della macchina di Esmeralda ha una capacità di 60 litri e contiene una miscela di alcol del 20% e benzina dell'80%, a metà piena. Esmeralda chiese di aggiungere alcolici al serbatoio fino a che la miscela non diventasse uguale quantità di alcol e benzina. Quanti litri di alcol dovrebbero essere aggiunti?
 
-[[src_obm_2005_n1_f2__Q01]]
+[[Quesiti/src_obm_2005_n1_f2#q01|src_obm_2005_n1_f2__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 1
 
 > Nella sequenza di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. È noto che questa sequenza ha termini del 2005 e che ogni termine, dal terzo in poi, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (2005) di questa sequenza?
 
-[[src_obm_2005_n1_f2__Q02]]
+[[Quesiti/src_obm_2005_n1_f2#q02|src_obm_2005_n1_f2__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Natasha è superstiziosa e, a partire dalla pagina 1 del suo diario di 200 pagine, ha incrociato tutti i numeri in cui i numeri 1 e 3 appaiono insieme (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non figurano nel diario, ma 103 invece. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
 
-[[src_obm_2005_n1_f2__Q03]]
+[[Quesiti/src_obm_2005_n1_f2#q03|src_obm_2005_n1_f2__Q03]]
 
 
 
@@ -104,7 +104,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 > 
 > (The arrangement is a staircase: row $k$ has $k$ squares, and she surrounds groups of rows with adhesive tape strips.)
 
-![[src_obm_2005_n1_f2__Q04.png]]
+![[src_obm_2005_n1_f2__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -124,9 +124,9 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 > 
 > (La disposizione è una scala: la riga $k$ ha quadrati $k$ e circonda gruppi di righe con nastri adesivi.)
 
-![[src_obm_2005_n1_f2__Q04.png]]
+![[src_obm_2005_n1_f2__q04.png]]
 
-[[src_obm_2005_n1_f2__Q04]]
+[[Quesiti/src_obm_2005_n1_f2#q04|src_obm_2005_n1_f2__Q04]]
 
 
 
@@ -153,7 +153,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Lara ha cubi uguali e vuole dipingere in modi diversi, usando il colore arancione per dipingere ciascuno dei 6 volti. Per due cubi che non possono essere confusi (cioè uno non può essere rotato per apparire identico all'altro), ad esempio, c'è solo un modo per dipingere un cubo con una faccia arancione. Quanti cubetti dipinti diversamente può ottenere?
 
-[[src_obm_2005_n1_f2__Q05]]
+[[Quesiti/src_obm_2005_n1_f2#q05|src_obm_2005_n1_f2__Q05]]
 
 
 
@@ -166,7 +166,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > A carpenter makes wooden open boxes (open at the top) using two rectangular planks of $600\,\text{cm}^2$ each, two rectangular planks of $1200\,\text{cm}^2$ each, and one rectangular plank of $800\,\text{cm}^2$, as shown in the figure. What is the volume, in litres, of the box? Note that $1\,\text{litre} = 1000\,\text{cm}^3$.
 
-![[src_obm_2005_n1_f2__Q06.png]]
+![[src_obm_2005_n1_f2__q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -182,9 +182,9 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Un falegname fa scatole aperte in legno (aperte in alto) utilizzando due tavole rettangolari di $600\,\text{cm}^2$ ciascuno, due tavole rettangolari di $1200\,\text{cm}^2$ ciascuno e una tavole rettangolare di $800\,\text{cm}^2$, come mostrato nella figura. Qual è il volume, in litri, della scatola? Si noti che $1\,\text{litre} = 1000\,\text{cm}^3$.
 
-![[src_obm_2005_n1_f2__Q06.png]]
+![[src_obm_2005_n1_f2__q06.png]]
 
-[[src_obm_2005_n1_f2__Q06]]
+[[Quesiti/src_obm_2005_n1_f2#q06|src_obm_2005_n1_f2__Q06]]
 
 
 
@@ -197,7 +197,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Four equal pieces, each in the shape of a right triangle, were arranged in two different ways, as shown in the figures. The squares $ABCD$ and $EFGH$ have sides equal to $3\,\text{cm}$ and $9\,\text{cm}$ respectively. Calculate the areas of squares $IJKL$ and $MNOP$.
 
-![[src_obm_2005_n1_f2__Q07.png]]
+![[src_obm_2005_n1_f2__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -213,9 +213,9 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Quattro pezzi uguali, ognuno a forma di triangolo rettangolo, erano disposti in due modi diversi, come mostrato nelle figure. I quadrati $ABCD$ e $EFGH$ hanno lati uguali rispettivamente a $3\,\text{cm}$ e $9\,\text{cm}$. Calcolare le superfici dei quadrati $IJKL$ e $MNOP$.
 
-![[src_obm_2005_n1_f2__Q07.png]]
+![[src_obm_2005_n1_f2__q07.png]]
 
-[[src_obm_2005_n1_f2__Q07]]
+[[Quesiti/src_obm_2005_n1_f2#q07|src_obm_2005_n1_f2__Q07]]
 
 
 
@@ -242,7 +242,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 
 > Considerate tre numeri interi positivi consecutivi di tre cifre in modo tale che il più piccolo sia un multiple di $7$, il medio è un multiple di $9$, e il più grande è un multiple di $11$. Scrivi tutte le sequenze di numeri che soddisfano queste proprietà.
 
-[[src_obm_2005_n1_f2__Q08]]
+[[Quesiti/src_obm_2005_n1_f2#q08|src_obm_2005_n1_f2__Q08]]
 
 
 
@@ -259,7 +259,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 > 
 > (b) Explain why it is not possible to do the same with all 10 pieces formed only by the numbers 1, 2, 3 and 4.
 
-![[src_obm_2005_n1_f2__Q09.png]]
+![[src_obm_2005_n1_f2__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -279,6 +279,6 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 > 
 > (b) Spiegate perché non è possibile fare lo stesso con tutti i 10 pezzi formati solo dai numeri 1, 2, 3 e 4.
 
-![[src_obm_2005_n1_f2__Q09.png]]
+![[src_obm_2005_n1_f2__q09.png]]
 
-[[src_obm_2005_n1_f2__Q09]]
+[[Quesiti/src_obm_2005_n1_f2#q09|src_obm_2005_n1_f2__Q09]]

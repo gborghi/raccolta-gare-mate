@@ -33,7 +33,7 @@ level: IMO
 
 > A circle has center on the side $AB$ of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Prove that$AD + BC = AB$.
 
-[[src_imho_1985__Q01]]
+[[Quesiti/src_imho_1985#q01|src_imho_1985__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: IMO
 
 > Let $n$ and $k$ be given relatively prime natural numbers, $k < n$. Each number in the set $M = \{1, 2, \ldots, n-1\}$ is colored either blue or white. It is given that (i) for each $i \in M$, both $i$ and $n - i$ have the same color; (ii) for each $i \in M$, $i \neq k$, both $i$ and $|i - k|$ have the same color. Prove that all numbers in $M$ must have the same color.
 
-[[src_imho_1985__Q02]]
+[[Quesiti/src_imho_1985#q02|src_imho_1985__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: IMO
 
 > For any polynomial $P(x) = a_0 + a_1 x + \cdots + a_k x^k$ with integer coefficients, the number of coefficients which are odd is denoted by $w(P)$. For $i = 0, 1, \ldots$, let $Q_i(x) = (1 + x)^i$. Prove that if $i_1, i_2, \ldots, i_n$ are integers such that $0 \le i_1 < i_2 < \cdots < i_n$, then $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \ge w(Q_{i_n}).$$
 
-[[src_imho_1985__Q03]]
+[[Quesiti/src_imho_1985#q03|src_imho_1985__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: IMO
 
 > Given a set $M$ of 1985 distinct positive integers, none of which has a prime divisor greater than 26. Prove that $M$ contains at least one subset of four distinct elements whose product is the fourth power of an integer.
 
-[[src_imho_1985__Q04]]
+[[Quesiti/src_imho_1985#q04|src_imho_1985__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: IMO
 
 > A circle with center $O$ passes through the vertices $A$ and $C$ of triangle $ABC$ and intersects the segments $AB$ and $BC$ again at distinct points $K$ and $N$, respectively. The circumscribed circles of the triangles $ABC$ and $KBN$ intersect at exactly two distinct points $B$ and $M$. Prove that angle is a right angle.
 
-[[src_imho_1985__Q05]]
+[[Quesiti/src_imho_1985#q05|src_imho_1985__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: IMO
 
 > For every real number $x_1$, construct the sequence $x_1, x_2, \ldots$ by setting $$x_{n+1} = x_n \left( x_n + \frac{1}{n} \right)$$ for each $n \ge 1$. Prove that there exists exactly one value of $x_1$ for which $$0 < x_n < x_{n+1} < 1$$ for every $n$.
 
-[[src_imho_1985__Q06]]
+[[Quesiti/src_imho_1985#q06|src_imho_1985__Q06]]

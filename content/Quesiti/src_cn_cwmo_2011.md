@@ -35,7 +35,7 @@ level: China Western Mathematical Olympiad
 > Dato che $0 < x$, $y < 1$ determinano, con prova, il valore massimo di $\frac{xy(1-x-y)}{(x+y)(1-x)(1-y)}$.
 
 **Risposta:** \frac{1}{8}
-[[src_cn_cwmo_2011__Q01]]
+[[Quesiti/src_cn_cwmo_2011#q01|src_cn_cwmo_2011__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: China Western Mathematical Olympiad
 > Se $M \subseteq \{1, 2, \ldots, 2011\}$ è un sottoinsieme che soddisfa la seguente condizione: Per tutti e tre gli elementi di $M$, esistono due di essi $a$ e $b$, quali $a \mid b$ o $b \mid a$. Determinare, con prova, il valore massimo di $|M|$, dove $|M|$ indica il numero di elementi di $M$.
 
 **Risposta:** 21
-[[src_cn_cwmo_2011__Q02]]
+[[Quesiti/src_cn_cwmo_2011#q02|src_cn_cwmo_2011__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: China Western Mathematical Olympiad
 > (2) Determinare, con la prova, tutti i valori possibili della somma $\displaystyle\sum_{i=1}^{2^n} (-1)^{|S|} S(A_i)$, dove $S(A_i) = \displaystyle\sum_{x \in A_i} x$ e $S(\emptyset) = 0$ per qualsiasi sequenza del sottogruppo $A_1, A_2, \ldots, A_{2^n}$ che soddisfi la condizione di (1).
 
 **Risposta:** 0
-[[src_cn_cwmo_2011__Q03]]
+[[Quesiti/src_cn_cwmo_2011#q03|src_cn_cwmo_2011__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in the figure, $AB$ and $CD$ are two chords in the circle $\odot O$, meeting at point $E$, and $AB \perp CD$. $\odot I$ is tangent to $\odot O$ internally at point $F$, and is tangent to the chords $AB$ and $CD$ at points $G$ and $H$, respectively. $l$ is a line passing through $O$, meeting $AB$, $CD$ at points $P$, $Q$, respectively, such that $EP = EQ$. Line $l$ meets the line $EF$ at point $M$. Prove that the line through $M$ and parallel to the line $AB$ is tangent to the circle $\odot O$.
 
-![[src_cn_cwmo_b11_w244__Q04.png]]
+![[src_cn_cwmo_b11_w244__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -130,9 +130,9 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella figura, $AB$ e $CD$ sono due accordi nel cerchio $\odot O$, che si incontrano al punto $E$ e $AB \perp CD$. $\odot I$ è tangente a $\odot O$ internamente al punto $F$, ed è tangente agli accordi $AB$ e $CD$ rispettivamente ai punti $G$ e $H$. $l$ è una linea che attraversa $O$, che incontra $AB$, $CD$ rispettivamente nei punti $P$ e $Q$, in modo tale che $EP = EQ$. La linea $l$ incontra la linea $EF$ al punto $M$. Prove che la linea attraverso $M$ e parallela alla linea $AB$ è tangente al cerchio $\odot O$.
 
-![[src_cn_cwmo_b11_w244__Q04.png]]
+![[src_cn_cwmo_b11_w244__q04.png]]
 
-[[src_cn_cwmo_2011__Q04]]
+[[Quesiti/src_cn_cwmo_2011#q04|src_cn_cwmo_2011__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: China Western Mathematical Olympiad
 > Determinare se ci sono numeri interi unici $n \ge 3$ e $n$ distinti prime $p_1, p_2, \ldots, p_n$, in modo che tutti $p_i \cdot p_{i+1}$ ($1 \le i \le n$ e $p_{n+1} = p_1$) siano quadrati perfetti.
 
 **Risposta:** No
-[[src_cn_cwmo_2011__Q05]]
+[[Quesiti/src_cn_cwmo_2011#q05|src_cn_cwmo_2011__Q05]]
 
 
 
@@ -188,4 +188,4 @@ level: China Western Mathematical Olympiad
 
 > Determinare, con la prova, tutte le coppie $(a, b)$ di enti interi, in modo tale che per qualsiasi numero intero positivo $n$ si abbia $n \mid (a^n + b^{n+1})$. (Possibile da Chen Yonggao)
 
-[[src_cn_cwmo_2011__Q06]]
+[[Quesiti/src_cn_cwmo_2011#q06|src_cn_cwmo_2011__Q06]]

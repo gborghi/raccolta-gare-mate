@@ -47,7 +47,7 @@ level: triennio
 > - **(E)** e < d < f
 
 **Answer:** B
-[[src_archimede_2019_triennio__Q01]]
+[[Quesiti/src_archimede_2019_triennio#q01|src_archimede_2019_triennio__Q01]]
 
 
 
@@ -90,7 +90,7 @@ level: triennio
 > - **(E)** 62, 00 e
 
 **Answer:** A
-[[src_archimede_2019_triennio__Q02]]
+[[Quesiti/src_archimede_2019_triennio#q02|src_archimede_2019_triennio__Q02]]
 
 
 
@@ -135,7 +135,7 @@ level: triennio
 > - **(E)** 360
 
 **Answer:** C
-[[src_archimede_2019_triennio__Q03]]
+[[Quesiti/src_archimede_2019_triennio#q03|src_archimede_2019_triennio__Q03]]
 
 
 
@@ -178,7 +178,7 @@ level: triennio
 > - **(E)** 16
 
 **Answer:** E
-[[src_archimede_2019_triennio__Q04]]
+[[Quesiti/src_archimede_2019_triennio#q04|src_archimede_2019_triennio__Q04]]
 
 
 
@@ -220,7 +220,7 @@ level: triennio
 > - **(E)** 11/8
 
 **Answer:** E
-[[src_archimede_2019_triennio__Q05]]
+[[Quesiti/src_archimede_2019_triennio#q05|src_archimede_2019_triennio__Q05]]
 
 
 
@@ -263,7 +263,7 @@ level: triennio
 > - **(E)** m > 800
 
 **Answer:** D
-[[src_archimede_2019_triennio__Q06]]
+[[Quesiti/src_archimede_2019_triennio#q06|src_archimede_2019_triennio__Q06]]
 
 
 
@@ -305,7 +305,7 @@ level: triennio
 > - **(E)** 16 sides
 
 **Answer:** C
-[[src_archimede_2019_triennio__Q07]]
+[[Quesiti/src_archimede_2019_triennio#q07|src_archimede_2019_triennio__Q07]]
 
 
 
@@ -346,7 +346,7 @@ level: triennio
 > - **(E)** 6
 
 **Answer:** B
-[[src_archimede_2019_triennio__Q08]]
+[[Quesiti/src_archimede_2019_triennio#q08|src_archimede_2019_triennio__Q08]]
 
 
 
@@ -386,7 +386,7 @@ level: triennio
 > - **(E)** 122
 
 **Answer:** D
-[[src_archimede_2019_triennio__Q09]]
+[[Quesiti/src_archimede_2019_triennio#q09|src_archimede_2019_triennio__Q09]]
 
 
 
@@ -429,7 +429,7 @@ level: triennio
 > - **(E)** 7
 
 **Answer:** E
-[[src_archimede_2019_triennio__Q10]]
+[[Quesiti/src_archimede_2019_triennio#q10|src_archimede_2019_triennio__Q10]]
 
 
 
@@ -473,7 +473,7 @@ level: triennio
 > - **(E)** 1/12
 
 **Answer:** C
-[[src_archimede_2019_triennio__Q11]]
+[[Quesiti/src_archimede_2019_triennio#q11|src_archimede_2019_triennio__Q11]]
 
 
 
@@ -521,7 +521,7 @@ level: triennio
 > - **(E)** 20
 
 **Answer:** A
-[[src_archimede_2019_triennio__Q12]]
+[[Quesiti/src_archimede_2019_triennio#q12|src_archimede_2019_triennio__Q12]]
 
 
 
@@ -563,7 +563,7 @@ level: triennio
 > - **(E)** 180
 
 **Answer:** D
-[[src_archimede_2019_triennio__Q13]]
+[[Quesiti/src_archimede_2019_triennio#q13|src_archimede_2019_triennio__Q13]]
 
 
 
@@ -608,7 +608,7 @@ level: triennio
 > - **(E)** 129
 
 **Answer:** E
-[[src_archimede_2019_triennio__Q14]]
+[[Quesiti/src_archimede_2019_triennio#q14|src_archimede_2019_triennio__Q14]]
 
 
 
@@ -659,7 +659,7 @@ level: triennio
 > - **(E)** It 's definitely five .
 
 **Answer:** B
-[[src_archimede_2019_triennio__Q15]]
+[[Quesiti/src_archimede_2019_triennio#q15|src_archimede_2019_triennio__Q15]]
 
 
 
@@ -705,7 +705,7 @@ level: triennio
 > - **(E)** 3 2 + 3 4 √ 3 A A′ A′′ B B′ B′′ C C′ C′′
 
 **Answer:** A
-[[src_archimede_2019_triennio__Q16]]
+[[Quesiti/src_archimede_2019_triennio#q16|src_archimede_2019_triennio__Q16]]
 
 
 
@@ -747,7 +747,7 @@ level: triennio
 > - **(E)** 5/144
 
 **Answer:** D
-[[src_archimede_2019_triennio__Q17]]
+[[Quesiti/src_archimede_2019_triennio#q17|src_archimede_2019_triennio__Q17]]
 
 
 
@@ -797,7 +797,7 @@ level: triennio
 > - **(E)** 5 4 + √ 2
 
 **Answer:** E
-[[src_archimede_2019_triennio__Q18]]
+[[Quesiti/src_archimede_2019_triennio#q18|src_archimede_2019_triennio__Q18]]
 
 
 
@@ -840,7 +840,7 @@ level: triennio
 > - **(E)** If the total number of pieces is odd, the number of pieces that do not have flat sides must also be odd.
 
 **Answer:** C
-[[src_archimede_2019_triennio__Q19]]
+[[Quesiti/src_archimede_2019_triennio#q19|src_archimede_2019_triennio__Q19]]
 
 
 
@@ -886,4 +886,4 @@ level: triennio
 > - **(E)** 28° Italian Mathematical Union Olympic Project of Mathematics Ministry of Education, University and Research The Archimedean Games - Triennial Competition 21 November 2019 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). Only one of these answers is correct. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each of the problems, type the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections are not allowed. • Completely list your month of birth, gender, class. Write the other information required in the STANDARD next to the arrows, with the utmost care and precision. The use of calculators or communication tools shall not be permitted. You have 110 minutes. - Good work. Good work. Name → COGNOM → Year of birth → Month of birth GEN FEB MAR APR MAG GIU LUG AGO SEVEN OTT NEW DAY of birth → Gender F M Class 3 4 5 Section → GROUP of the respondents T2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 
 **Answer:** A
-[[src_archimede_2019_triennio__Q20]]
+[[Quesiti/src_archimede_2019_triennio#q20|src_archimede_2019_triennio__Q20]]

@@ -36,7 +36,7 @@ level: Coupe Animath Automne
 > Calcolare il numero $$(1+11+21+31+41+51+61+71+81+91)+(9+19+29+39+49+59+69+79+89+99).$$ Qui si aspetta solo una risposta numerica.
 
 **Risposta:** 1000
-[[src_canimath_2021_automne__Q01]]
+[[Quesiti/src_canimath_2021_automne#q01|src_canimath_2021_automne__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Coupe Animath Automne
 
 > $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
 
-[[src_canimath_2021_automne__Q02]]
+[[Quesiti/src_canimath_2021_automne#q02|src_canimath_2021_automne__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Coupe Animath Automne
 
 > Un villaggio è composto da 5 edifici. Nei 5 edifici vivono rispettivamente 5, 15, 25, 35 e 45 persone. Ogni persona conta almeno due membri della propria famiglia (esclusi se stessi) tra gli abitanti del villaggio. Mostrate che esiste una persona che conta un membro della sua famiglia tra gli abitanti del proprio edificio.
 
-[[src_canimath_2021_automne__Q03]]
+[[Quesiti/src_canimath_2021_automne#q03|src_canimath_2021_automne__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: Coupe Animath Automne
 
 > Consideriamo una scacchiera $8 \times 8$ i cui quadrati sono di colore alternato bianco e nero. Una torre infernale ** è un pezzo che può attaccare tutti i quadrati del suo colore situati sulla sua riga, così come i quadrati dell'altro colore situati sulla sua colonna. Qual è il numero massimo di corde infernali che si possono mettere sulla scacchiera in modo che due corde infernali non possano attaccarsi l'una l'altra?
 
-[[src_canimath_2021_automne__Q04]]
+[[Quesiti/src_canimath_2021_automne#q04|src_canimath_2021_automne__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: Coupe Animath Automne
 
 > Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Indicare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
 
-[[src_canimath_2021_automne__Q05]]
+[[Quesiti/src_canimath_2021_automne#q05|src_canimath_2021_automne__Q05]]
 
 
 
@@ -171,7 +171,7 @@ level: Coupe Animath Automne
 
 > Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB > BC$ e $AC > BC$. Il punto $X$ deve essere il punto della metà della linea $[BC)$ in modo tale che $BX = BA$. Il punto $Y$ deve essere il punto della semilinea $[BA)$ in modo tale che $BY = BC$. Il punto $P$ deve essere il punto distinto da $A$ sulla semilinea $[AX)$ in modo tale che $CP = CA$. Il punto $Q$ deve essere il punto distinto da $A$ sulla semilinea $[AY)$ in modo tale che $BQ = BA$. Supponiamo che le linee $(BQ)$ e $(CP)$ si incontrino in un punto $Z$. Indicare che $Z$ si trova sul bisettore perpendicolare di $[BC]$.
 
-[[src_canimath_2021_automne__Q06]]
+[[Quesiti/src_canimath_2021_automne#q06|src_canimath_2021_automne__Q06]]
 
 
 
@@ -198,7 +198,7 @@ level: Coupe Animath Automne
 
 > Sul tavolo nero, Maena ha scritto i numeri interi 2021 su una singola riga. Quindi, ogni minuto, a partire dall'ultima riga $\ell$ che ha scritto, scrive una nuova riga $\ell'$ di interi 2021 secondo la seguente regola: appena sotto ogni intero della riga $\ell$, scrive il numero di volte che l'intero appare nella riga $\ell$. Mostrate che Maena finirà per scrivere la stessa riga per due minuti di fila.
 
-[[src_canimath_2021_automne__Q07]]
+[[Quesiti/src_canimath_2021_automne#q07|src_canimath_2021_automne__Q07]]
 
 
 
@@ -229,7 +229,7 @@ level: Coupe Animath Automne
 > Calcolare il numero $$\frac{1000^{7}}{252^{2}-248^{2}}.$$ Qui si aspetta solo una risposta numerica.
 
 **Risposta:** $\frac{1000^6}{2}$
-[[src_canimath_2021_automne__Q08]]
+[[Quesiti/src_canimath_2021_automne#q08|src_canimath_2021_automne__Q08]]
 
 
 
@@ -256,7 +256,7 @@ level: Coupe Animath Automne
 
 > $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
 
-[[src_canimath_2021_automne__Q09]]
+[[Quesiti/src_canimath_2021_automne#q09|src_canimath_2021_automne__Q09]]
 
 
 
@@ -283,7 +283,7 @@ level: Coupe Animath Automne
 
 > Un villaggio è composto da 5 edifici. Nei 5 edifici vivono rispettivamente 5, 15, 25, 35 e 45 persone. Ogni persona conta almeno due membri della propria famiglia (esclusi se stessi) tra gli abitanti del villaggio. Mostrate che esiste una persona che conta un membro della sua famiglia tra gli abitanti del proprio edificio.
 
-[[src_canimath_2021_automne__Q10]]
+[[Quesiti/src_canimath_2021_automne#q10|src_canimath_2021_automne__Q10]]
 
 
 
@@ -310,7 +310,7 @@ level: Coupe Animath Automne
 
 > Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Indicare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
 
-[[src_canimath_2021_automne__Q11]]
+[[Quesiti/src_canimath_2021_automne#q11|src_canimath_2021_automne__Q11]]
 
 
 
@@ -337,7 +337,7 @@ level: Coupe Animath Automne
 
 > Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB = BC$. Il punto $S$ deve essere il punto della metà della linea $[BC)$ in modo tale che $AS = BS$. $T$ deve essere il punto della metà della linea $[BA)$ in modo tale che $BT = BC$. Il $D$ deve essere l'intersezione delle linee $(AS)$ e $(CT)$. Il punto $E$ deve essere il punto del segmento $[BA]$ in modo tale che $BE = CD$. Indicare che la linea $(CE)$ è il bisettore angolare di $\widehat{DCB}$.
 
-[[src_canimath_2021_automne__Q12]]
+[[Quesiti/src_canimath_2021_automne#q12|src_canimath_2021_automne__Q12]]
 
 
 
@@ -364,7 +364,7 @@ level: Coupe Animath Automne
 
 > Anna scrive un numero $N$ di 100 cifre sulla tavola, dove la prima cifra non è zero. Queste 100 cifre formano $100 \times 99$ coppie ordinate, e Anna calcola la somma delle due cifre in ciascuna coppia. Infine, calcola il prodotto di tutte le somme $100 \times 99$ così ottenute. È possibile che questo prodotto sia uguale al numero $N$ con cui ha iniziato?
 
-[[src_canimath_2021_automne__Q13]]
+[[Quesiti/src_canimath_2021_automne#q13|src_canimath_2021_automne__Q13]]
 
 
 
@@ -391,7 +391,7 @@ level: Coupe Animath Automne
 
 > $n$ sia un numero intero rigorosamente positivo. $T$ sia un sottogruppo non vuoto di $\{1, \ldots, n\}$. Un numero $m$ (non necessariamente un numero intero) è chiamato *mediano* di $T$ se ci sono almeno quegli elementi di $T$ inferiori o uguali a $m$ come ci sono elementi di $T$ superiori o uguali a $m$. L'insieme $T$ è chiamato *equilibrato * se la media degli elementi di $T$ è uguale a una media di $T$. Indicare che il numero dei sottogruppi bilanciati non vuoti di $\{1, \ldots, n\}$ è pari.
 
-[[src_canimath_2021_automne__Q14]]
+[[Quesiti/src_canimath_2021_automne#q14|src_canimath_2021_automne__Q14]]
 
 
 
@@ -426,4 +426,4 @@ level: Coupe Animath Automne
 > 
 > b) Supponiamo invece che solo 40 studenti facciano l'esame. Mostrare che Tristan può ancora trovare uno studente $A$ e uno studente $B$ in modo tale che $A$ abbia ricevuto un punteggio superiore o uguale a quello di $B$ su ciascuno dei tre problemi.
 
-[[src_canimath_2021_automne__Q15]]
+[[Quesiti/src_canimath_2021_automne#q15|src_canimath_2021_automne__Q15]]

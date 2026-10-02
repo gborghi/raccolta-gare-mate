@@ -33,7 +33,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 
 > Si deve indicare una parabola e un punto $A$ al di fuori di essa. Per ogni punto $P$ della parabola, $t$ è la tangente della parabola a $P$ e $r$ la linea parallela all'asse della parabola attraverso $P$. La perpendicolare a $t$ attraverso $A$ incontra $r$ a $Q$. Prove che, poiché $P$ varia sulla parabola, $Q$ traccia un iperbola.
 
-[[src_obm_2003_nu_f2__Q01]]
+[[Quesiti/src_obm_2003_nu_f2#q01|src_obm_2003_nu_f2__Q01]]
 
 
 
@@ -69,7 +69,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > b) Prove che non esistono polinomi non costanti $r, s, t, u \in \mathbb{C}[x]$ come $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$ e $$f^2 = g(g-1)(g-a), \quad a \in \mathbb{C},\; a \neq 0,\; a \neq 1.$$
 
-[[src_obm_2003_nu_f2__Q02]]
+[[Quesiti/src_obm_2003_nu_f2#q02|src_obm_2003_nu_f2__Q02]]
 
 
 
@@ -102,7 +102,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > **Remark.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ è il campo finito con elementi $p$. L'aggiunta e il prodotto sono definiti modulo $p$; ad esempio, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
 
-[[src_obm_2003_nu_f2__Q03]]
+[[Quesiti/src_obm_2003_nu_f2#q03|src_obm_2003_nu_f2__Q03]]
 
 
 
@@ -135,7 +135,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > **Remark.** $P(a = c \mid a = b)$ è la probabilità condizionale $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$ Un dado è giusto se la probabilità di ciascuna faccia è $\dfrac{1}{6}$.
 
-[[src_obm_2003_nu_f2__Q04]]
+[[Quesiti/src_obm_2003_nu_f2#q04|src_obm_2003_nu_f2__Q04]]
 
 
 
@@ -168,7 +168,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > **Remarchi.** Definimmo $f^{(m)} = f$ per $m \ge 0$ (che significa $f^{(0)} = f$), e $(f^{(m)})' = f^{(m+1)}$.
 
-[[src_obm_2003_nu_f2__Q05]]
+[[Quesiti/src_obm_2003_nu_f2#q05|src_obm_2003_nu_f2__Q05]]
 
 
 
@@ -202,4 +202,4 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 > 
 > Se $B = (b_{ij})_{1 \le i,j \le n}$ è una matrice quadrata, allora $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ indica la traccia di $B$.
 
-[[src_obm_2003_nu_f2__Q06]]
+[[Quesiti/src_obm_2003_nu_f2#q06|src_obm_2003_nu_f2__Q06]]

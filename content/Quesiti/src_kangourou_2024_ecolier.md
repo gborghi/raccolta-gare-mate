@@ -52,7 +52,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q01]]
+[[Quesiti/src_kangourou_2024_ecolier#q01|src_kangourou_2024_ecolier__Q01]]
 
 
 
@@ -105,7 +105,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 > E) 4
 
 **Answer:** B
-[[src_kangourou_2024_ecolier__Q02]]
+[[Quesiti/src_kangourou_2024_ecolier#q02|src_kangourou_2024_ecolier__Q02]]
 
 
 
@@ -144,7 +144,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 > Look at the figure. The fire broke out on a very high level: the firefighter reached four floors below, at the point indicated, but could not make any jump. What's the minimum number of stairs you'll use to reach the fire? A) 4 B) 5	               C) 6 D) 7 E) 8
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q03]]
+[[Quesiti/src_kangourou_2024_ecolier#q03|src_kangourou_2024_ecolier__Q03]]
 
 
 
@@ -182,7 +182,7 @@ What the building might have looked like before the accident
 > Look at the picture: a cat dropped a cubit of Felice's building. Before this incident, which of the following aspects could the construction of Felice have had? A) B) C) D)
 
 **Answer:** E
-[[src_kangourou_2024_ecolier__Q04]]
+[[Quesiti/src_kangourou_2024_ecolier#q04|src_kangourou_2024_ecolier__Q04]]
 
 
 
@@ -233,7 +233,7 @@ What the building might have looked like before the accident
 >
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q05]]
+[[Quesiti/src_kangourou_2024_ecolier#q05|src_kangourou_2024_ecolier__Q05]]
 
 
 
@@ -277,7 +277,7 @@ What the building might have looked like before the accident
 > Players on a football team are arranged in a circle to respect the order of their jerseys, as the figure suggests. Each player, starting with number 1, throws the ball to the third player to his left. This series of pitches ends when the receiving player should throw the ball a second time. What is the name of the last player to throw the ball? A) 7 B) 8 C) 9 D) 10 E) 11
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q06]]
+[[Quesiti/src_kangourou_2024_ecolier#q06|src_kangourou_2024_ecolier__Q06]]
 
 
 
@@ -324,7 +324,7 @@ What the building might have looked like before the accident
 > C) 25 D) 30 E) 35
 
 **Answer:** B
-[[src_kangourou_2024_ecolier__Q07]]
+[[Quesiti/src_kangourou_2024_ecolier#q07|src_kangourou_2024_ecolier__Q07]]
 
 
 
@@ -380,7 +380,7 @@ What the building might have looked like before the accident
 > Emma likes pears and kiwis. What kind of fruit does Bianca eat? A) Orange. B) Banana. C) apple. (d) Kiwi. (e) the pen. The questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q08]]
+[[Quesiti/src_kangourou_2024_ecolier#q08|src_kangourou_2024_ecolier__Q08]]
 
 
 
@@ -468,7 +468,7 @@ What the building might have looked like before the accident
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q09]]
+[[Quesiti/src_kangourou_2024_ecolier#q09|src_kangourou_2024_ecolier__Q09]]
 
 
 
@@ -532,7 +532,7 @@ What the building might have looked like before the accident
 > E) 5
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q10]]
+[[Quesiti/src_kangourou_2024_ecolier#q10|src_kangourou_2024_ecolier__Q10]]
 
 
 
@@ -582,7 +582,7 @@ What the building might have looked like before the accident
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2024_ecolier__Q11]]
+[[Quesiti/src_kangourou_2024_ecolier#q11|src_kangourou_2024_ecolier__Q11]]
 
 
 
@@ -630,7 +630,7 @@ What the building might have looked like before the accident
 > E) 31
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q12]]
+[[Quesiti/src_kangourou_2024_ecolier#q12|src_kangourou_2024_ecolier__Q12]]
 
 
 
@@ -685,7 +685,7 @@ What the building might have looked like before the accident
 > E) 7
 
 **Answer:** A
-[[src_kangourou_2024_ecolier__Q13]]
+[[Quesiti/src_kangourou_2024_ecolier#q13|src_kangourou_2024_ecolier__Q13]]
 
 
 
@@ -738,7 +738,7 @@ What the building might have looked like before the accident
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2024_ecolier__Q14]]
+[[Quesiti/src_kangourou_2024_ecolier#q14|src_kangourou_2024_ecolier__Q14]]
 
 
 
@@ -813,7 +813,7 @@ What the building might have looked like before the accident
 >
 
 **Answer:** B
-[[src_kangourou_2024_ecolier__Q15]]
+[[Quesiti/src_kangourou_2024_ecolier#q15|src_kangourou_2024_ecolier__Q15]]
 
 
 
@@ -867,7 +867,7 @@ What the building might have looked like before the accident
 > E) 7 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q16]]
+[[Quesiti/src_kangourou_2024_ecolier#q16|src_kangourou_2024_ecolier__Q16]]
 
 
 
@@ -934,7 +934,7 @@ Which tower Ada sees after removing disks
 > E)
 
 **Answer:** B
-[[src_kangourou_2024_ecolier__Q17]]
+[[Quesiti/src_kangourou_2024_ecolier#q17|src_kangourou_2024_ecolier__Q17]]
 
 
 
@@ -987,7 +987,7 @@ Which tower Ada sees after removing disks
 > E) 12
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q18]]
+[[Quesiti/src_kangourou_2024_ecolier#q18|src_kangourou_2024_ecolier__Q18]]
 
 
 
@@ -1029,7 +1029,7 @@ Which tower Ada sees after removing disks
 > B) 100 C) 120 D) 150 E) 170
 
 **Answer:** E
-[[src_kangourou_2024_ecolier__Q19]]
+[[Quesiti/src_kangourou_2024_ecolier#q19|src_kangourou_2024_ecolier__Q19]]
 
 
 
@@ -1099,7 +1099,7 @@ Which tower Ada sees after removing disks
 >
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q20]]
+[[Quesiti/src_kangourou_2024_ecolier#q20|src_kangourou_2024_ecolier__Q20]]
 
 
 
@@ -1154,7 +1154,7 @@ Which tower Ada sees after removing disks
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q21]]
+[[Quesiti/src_kangourou_2024_ecolier#q21|src_kangourou_2024_ecolier__Q21]]
 
 
 
@@ -1207,7 +1207,7 @@ Which tower Ada sees after removing disks
 > E) 8
 
 **Answer:** C
-[[src_kangourou_2024_ecolier__Q22]]
+[[Quesiti/src_kangourou_2024_ecolier#q22|src_kangourou_2024_ecolier__Q22]]
 
 
 
@@ -1270,7 +1270,7 @@ What set of candy was taken by a girl?
 > E)
 
 **Answer:** E
-[[src_kangourou_2024_ecolier__Q23]]
+[[Quesiti/src_kangourou_2024_ecolier#q23|src_kangourou_2024_ecolier__Q23]]
 
 
 
@@ -1333,4 +1333,4 @@ What set of candy was taken by a girl?
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
 
 **Answer:** D
-[[src_kangourou_2024_ecolier__Q24]]
+[[Quesiti/src_kangourou_2024_ecolier#q24|src_kangourou_2024_ecolier__Q24]]

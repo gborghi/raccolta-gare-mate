@@ -51,7 +51,7 @@ level: kangourou
 > E) 19:50
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_semifinale__Q01]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q01|src_kangourou_2022_benjamin_semifinale__Q01]]
 
 
 
@@ -93,7 +93,7 @@ level: kangourou
 > B) 36 C) 48 D) 66 E) 82
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_semifinale__Q02]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q02|src_kangourou_2022_benjamin_semifinale__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: kangourou
 > (3 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_semifinale__Q03]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q03|src_kangourou_2022_benjamin_semifinale__Q03]]
 
 
 
@@ -187,7 +187,7 @@ level: kangourou
 > 1 2 3 4 5
 
 **Answer:** B
-[[src_kangourou_2022_benjamin_semifinale__Q04]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q04|src_kangourou_2022_benjamin_semifinale__Q04]]
 
 
 
@@ -236,7 +236,7 @@ level: kangourou
 > E) 8
 
 **Answer:** A
-[[src_kangourou_2022_benjamin_semifinale__Q05]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q05|src_kangourou_2022_benjamin_semifinale__Q05]]
 
 
 
@@ -276,7 +276,7 @@ level: kangourou
 > C) 12 D) 16 E) 18
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_semifinale__Q06]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q06|src_kangourou_2022_benjamin_semifinale__Q06]]
 
 
 
@@ -314,7 +314,7 @@ level: kangourou
 > B) 12 C) 15 D) 20 E) 30
 
 **Answer:** E
-[[src_kangourou_2022_benjamin_semifinale__Q07]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q07|src_kangourou_2022_benjamin_semifinale__Q07]]
 
 
 
@@ -399,7 +399,7 @@ level: kangourou
 > E) 5 (all)
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_semifinale__Q08]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q08|src_kangourou_2022_benjamin_semifinale__Q08]]
 
 
 
@@ -449,7 +449,7 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** D
-[[src_kangourou_2022_benjamin_semifinale__Q09]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q09|src_kangourou_2022_benjamin_semifinale__Q09]]
 
 
 
@@ -479,7 +479,7 @@ level: kangourou
 > (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
 
 **Answer:** 0002
-[[src_kangourou_2022_benjamin_semifinale__Q10]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q10|src_kangourou_2022_benjamin_semifinale__Q10]]
 
 
 
@@ -511,7 +511,7 @@ level: kangourou
 > (5 points) In the desert, two oases A and B are at the end of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many miles apart are the two oases?
 
 **Answer:** 0012
-[[src_kangourou_2022_benjamin_semifinale__Q11]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q11|src_kangourou_2022_benjamin_semifinale__Q11]]
 
 
 
@@ -547,7 +547,7 @@ level: kangourou
 > (5 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many miles can the car go?
 
 **Answer:** 0250
-[[src_kangourou_2022_benjamin_semifinale__Q12]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q12|src_kangourou_2022_benjamin_semifinale__Q12]]
 
 
 
@@ -577,7 +577,7 @@ level: kangourou
 > (6 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 
 **Answer:** 0025
-[[src_kangourou_2022_benjamin_semifinale__Q13]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q13|src_kangourou_2022_benjamin_semifinale__Q13]]
 
 
 
@@ -654,7 +654,7 @@ level: kangourou
 > (6 points) The figure shows some angles and their measurements in degrees. How many degrees does the angle a + b measure?
 
 **Answer:** 0048
-[[src_kangourou_2022_benjamin_semifinale__Q14]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q14|src_kangourou_2022_benjamin_semifinale__Q14]]
 
 
 
@@ -688,7 +688,7 @@ How many cherries did Donatella eat in total
 > (6 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without advancing any. One kept it for himself and the others gave it to his friends. Donatella ate all her cherries right away. Then three of her friends gave her, each, exactly one-quarter the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
 
 **Answer:** 0189
-[[src_kangourou_2022_benjamin_semifinale__Q15]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q15|src_kangourou_2022_benjamin_semifinale__Q15]]
 
 
 
@@ -778,7 +778,7 @@ How many cherries did Donatella eat in total
 > (7 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 0015
-[[src_kangourou_2022_benjamin_semifinale__Q16]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q16|src_kangourou_2022_benjamin_semifinale__Q16]]
 
 
 
@@ -823,7 +823,7 @@ How many cherries did Donatella eat in total
 > (7 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are to be considered different if at least one of the car seats is occupied by different persons.) a a 2a b 2b 2b 4b V P A B C
 
 **Answer:** 0016
-[[src_kangourou_2022_benjamin_semifinale__Q17]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q17|src_kangourou_2022_benjamin_semifinale__Q17]]
 
 
 
@@ -861,4 +861,4 @@ How many cherries did Donatella eat in total
 > D D D 0002 0012 0250 0025 0048 0189 0015 0016 0009
 
 **Answer:** 0009
-[[src_kangourou_2022_benjamin_semifinale__Q18]]
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q18|src_kangourou_2022_benjamin_semifinale__Q18]]

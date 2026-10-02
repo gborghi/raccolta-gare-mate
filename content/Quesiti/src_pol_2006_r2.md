@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 2
 
 > I numeri interi positivi $a,b,c$ e $x,y,z$ soddisfano $|x-a|\le 1$, $|y-b|\le 1$ e $$a^2+b^2=c^2, \quad x^2+y^2=z^2.$$ Prove che gli insiemi $\{a,b\}$ e $\{x,y\}$ coincidono.
 
-[[src_pol_2006_r2__Q01]]
+[[Quesiti/src_pol_2006_r2#q01|src_pol_2006_r2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 2
 
 > In un triangolo $ABC$ con $AC+BC=3AB$, l'incircolo è centrato a $I$ e tocca $BC$ a $D$ e $AC$ a $E$. I punti $K$ e $L$ siano simetrici a $D$ e $E$ rispetto a $I$. Provare che i punti $A,B,K,L$ si trovano su un cerchio.
 
-[[src_pol_2006_r2__Q02]]
+[[Quesiti/src_pol_2006_r2#q02|src_pol_2006_r2__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 2
 
 > I numeri positivi $a,b,c$ soddisfano la condizione $ab+bc+ca=abc$. Provare che $$\frac{a^4+b^4}{ab(a^3+b^3)}+\frac{b^4+c^4}{bc(b^3+c^3)}+\frac{c^4+a^4}{ca(c^3+a^3)}\ge 1.$$
 
-[[src_pol_2006_r2__Q03]]
+[[Quesiti/src_pol_2006_r2#q03|src_pol_2006_r2__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: Olimpiade Polacca Round 2
 
 > Dato un numero naturale $c$, definiamo la sequenza $(a_n)$ da $a_1=1$ e $$a_{n+1}=d(a_n)+c \quad \text{for } n=1,2,\ldots,$$ dove $d(m)$ indica il numero di divisori positivi di $m\in\mathbb{N}$. Indicare che esiste un intero positivo $k$ tale che la sequenza $a_k, a_{k+1}, a_{k+2}, \ldots$ sia periodica.
 
-[[src_pol_2006_r2__Q04]]
+[[Quesiti/src_pol_2006_r2#q04|src_pol_2006_r2__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: Olimpiade Polacca Round 2
 
 > Il segmento $C$ deve essere il punto medio di un segmento $AB$. Un cerchio $o_1$ che attraversa $A$ e $C$ e un cerchio $o_2$ che attraversa $B$ e $C$ si incrociano in due punti diversi $C$ e $D$. Il punto $P$ è il punto medio dell'arco $AD$ di $o_1$ che non contiene $C$, e il punto $Q$ è il punto medio dell'arco $BD$ di $o_2$ che non contiene $C$. Provare che $PQ$ è perpendicolare a $CD$.
 
-[[src_pol_2006_r2__Q05]]
+[[Quesiti/src_pol_2006_r2#q05|src_pol_2006_r2__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 2
 
 > Un numero primo $p$ e un numero intero $n$ con $p\ge n\ge 3$ sono dati. Che $A$ sia un insieme di sequenze di lunghezza $n$ con termini nel insieme $\{0,1,2,\ldots,p-1\}$ ha la seguente proprietà: Eventuali due sequenze $(x_1,\ldots,x_n)$ e $(y_1,\ldots,y_n)$ da $A$ differiscono in almeno tre posizioni. Trova la più grande cardinalità possibile di $A$.
 
-[[src_pol_2006_r2__Q06]]
+[[Quesiti/src_pol_2006_r2#q06|src_pol_2006_r2__Q06]]

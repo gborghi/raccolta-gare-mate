@@ -52,7 +52,7 @@ level: kangourou
 > E) 0
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_semif__Q01]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q01|src_kangourou_2019_benjamin_semif__Q01]]
 
 
 
@@ -89,7 +89,7 @@ level: kangourou
 > (Points 3) By tracing in a plane 5 semicircles all originating in the same point O, we divided the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by approximating (with vertices at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plan be divided? A) 12 B) 15 C) 18 D) 20 E) 24
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_semif__Q02]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q02|src_kangourou_2019_benjamin_semif__Q02]]
 
 
 
@@ -133,7 +133,7 @@ level: kangourou
 > C) The restaurant room D) The bridge room E) The bar
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_semif__Q03]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q03|src_kangourou_2019_benjamin_semif__Q03]]
 
 
 
@@ -202,7 +202,7 @@ level: kangourou
 > E) None of the above answers is correct
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_semif__Q04]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q04|src_kangourou_2019_benjamin_semif__Q04]]
 
 
 
@@ -246,7 +246,7 @@ level: kangourou
 > D) 10 E) 12
 
 **Answer:** A
-[[src_kangourou_2019_benjamin_semif__Q05]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q05|src_kangourou_2019_benjamin_semif__Q05]]
 
 
 
@@ -309,7 +309,7 @@ level: kangourou
 > B) 10 C) 11 D) 12 E) 16
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_semif__Q06]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q06|src_kangourou_2019_benjamin_semif__Q06]]
 
 
 
@@ -349,7 +349,7 @@ level: kangourou
 > B) 10 C) 11 D) 12 E) 20
 
 **Answer:** D
-[[src_kangourou_2019_benjamin_semif__Q07]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q07|src_kangourou_2019_benjamin_semif__Q07]]
 
 
 
@@ -392,7 +392,7 @@ level: kangourou
 > E) 1
 
 **Answer:** E
-[[src_kangourou_2019_benjamin_semif__Q08]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q08|src_kangourou_2019_benjamin_semif__Q08]]
 
 
 
@@ -479,7 +479,7 @@ level: kangourou
 > Open-ended questions
 
 **Answer:** B
-[[src_kangourou_2019_benjamin_semif__Q09]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q09|src_kangourou_2019_benjamin_semif__Q09]]
 
 
 
@@ -511,7 +511,7 @@ This is the total number of units of measurement for each unit of measurement.
 > (Points 4) Alternatively approaching the numbers 2018 and 9102 you can get a sequence of numbers as long as you want: 20189102201891022018910220189102201891022018910220189102201201201220189102201... What is the figure that is at the 2019-th place of this sequence (if you start with 2018)?
 
 **Answer:** 63
-[[src_kangourou_2019_benjamin_semif__Q10]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q10|src_kangourou_2019_benjamin_semif__Q10]]
 
 
 
@@ -541,7 +541,7 @@ This is the total number of units of measurement for each unit of measurement.
 > David wrote a two-digit positive integer M (significant). He noted that, when many people ask for another positive integer less than M, he gets the number 2331. How much is M ?
 
 **Answer:** 63
-[[src_kangourou_2019_benjamin_semif__Q11]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q11|src_kangourou_2019_benjamin_semif__Q11]]
 
 
 
@@ -573,7 +573,7 @@ This is the total number of units of measurement for each unit of measurement.
 > Luisa wrote some numbers on the tips of a cube. If you count the sum of the numbers that are in the vertices of the face you see on the right, you get 14, if you count the numbers that are in the vertices of the face you see on the left, you get 22; if you count the numbers that are in the vertices of the top face, you get 18. What's the sum of the numbers at the top of the bottom face?
 
 **Answer:** 18
-[[src_kangourou_2019_benjamin_semif__Q12]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q12|src_kangourou_2019_benjamin_semif__Q12]]
 
 
 
@@ -604,7 +604,7 @@ This is the total number of units of measurement for each unit of measurement.
 > (Points 6) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and enough) are needed to fill the tank?
 
 **Answer:** 48
-[[src_kangourou_2019_benjamin_semif__Q13]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q13|src_kangourou_2019_benjamin_semif__Q13]]
 
 
 
@@ -633,7 +633,7 @@ This is the total number of units of measurement for each unit of measurement.
 > (Points 6) What is the smallest positive integer that is not equal, is not a perfect square, is not a prime number and is not a multiple of 3?
 
 **Answer:** 35
-[[src_kangourou_2019_benjamin_semif__Q14]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q14|src_kangourou_2019_benjamin_semif__Q14]]
 
 
 
@@ -666,7 +666,7 @@ This is the total number of units of measurement for each unit of measurement.
 > From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What paper hasn't been caught? Give 9999 as an answer if you think it's impossible to establish for sure.
 
 **Answer:** 4
-[[src_kangourou_2019_benjamin_semif__Q15]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q15|src_kangourou_2019_benjamin_semif__Q15]]
 
 
 
@@ -696,7 +696,7 @@ This is the total number of units of measurement for each unit of measurement.
 > (Points 7) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeter of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
 
 **Answer:** 30
-[[src_kangourou_2019_benjamin_semif__Q16]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q16|src_kangourou_2019_benjamin_semif__Q16]]
 
 
 
@@ -774,7 +774,7 @@ This is the total number of units of measurement for each unit of measurement.
 > (Points 7) In the figure you see a regular polygon of 21 sides. Andrea has a lot of pedals that she wants to place on the vertices of this polygon so that, for each pair of pedal-covered vertices, the distances between the vertices are all different. How many pedals can he place?
 
 **Answer:** 5
-[[src_kangourou_2019_benjamin_semif__Q17]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q17|src_kangourou_2019_benjamin_semif__Q17]]
 
 
 
@@ -816,4 +816,4 @@ This is the total number of units of measurement for each unit of measurement.
 > 0001 0063 0018 0048 0035 0004 0030 0005 0004
 
 **Answer:** 4
-[[src_kangourou_2019_benjamin_semif__Q18]]
+[[Quesiti/src_kangourou_2019_benjamin_semif#q18|src_kangourou_2019_benjamin_semif__Q18]]

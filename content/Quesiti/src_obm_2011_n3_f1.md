@@ -21,7 +21,7 @@ level: OBM Nível 3
 > 
 > (A) 11 (B) 9 (C) 12 (D) 10 (E) 15
 
-![[src_obm_2011_n3_f1__Q01.png]]
+![[src_obm_2011_n3_f1__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
@@ -41,9 +41,9 @@ level: OBM Nível 3
 > 
 > (A) 11 (B) 9 (C) 12 (D) 10 (E) 15
 
-![[src_obm_2011_n3_f1__Q01.png]]
+![[src_obm_2011_n3_f1__q01.png]]
 
-[[src_obm_2011_n3_f1__Q01]]
+[[Quesiti/src_obm_2011_n3_f1#q01|src_obm_2011_n3_f1__Q01]]
 
 
 
@@ -58,7 +58,7 @@ level: OBM Nível 3
 > 
 > (A) 1:2 (B) 1:1 (C) 2:1 (D) 1:3 (E) 2:3
 
-![[src_obm_2011_n3_f1__Q02.png]]
+![[src_obm_2011_n3_f1__q02.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -78,9 +78,9 @@ level: OBM Nível 3
 > 
 > (A) 1:2 (B) 1:1 (C) 2:1 (D) 1:3 (E) 2:3
 
-![[src_obm_2011_n3_f1__Q02.png]]
+![[src_obm_2011_n3_f1__q02.png]]
 
-[[src_obm_2011_n3_f1__Q02]]
+[[Quesiti/src_obm_2011_n3_f1#q02|src_obm_2011_n3_f1__Q02]]
 
 
 
@@ -121,7 +121,7 @@ level: OBM Nível 3
 > - **(D)** 2 lattine di 200 g e 1 lattina di 800 g
 > - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
 
-[[src_obm_2011_n3_f1__Q03]]
+[[Quesiti/src_obm_2011_n3_f1#q03|src_obm_2011_n3_f1__Q03]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível 3
 > 
 > (A) 60 (B) 30 (C) $30 \cdot 72$ (D) 360 (E) 6
 
-[[src_obm_2011_n3_f1__Q04]]
+[[Quesiti/src_obm_2011_n3_f1#q04|src_obm_2011_n3_f1__Q04]]
 
 
 
@@ -187,7 +187,7 @@ level: OBM Nível 3
 > 
 > (A) 12 (B) 14 (C) 16 (D) 18 (E) 20
 
-[[src_obm_2011_n3_f1__Q05]]
+[[Quesiti/src_obm_2011_n3_f1#q05|src_obm_2011_n3_f1__Q05]]
 
 
 
@@ -220,7 +220,7 @@ level: OBM Nível 3
 > 
 > (A) Ventiquattro. (B) Trenta e sei. (C) Quarantasei. (D) Cinquanta e uno. (E) Cinquanta e sei.
 
-[[src_obm_2011_n3_f1__Q06]]
+[[Quesiti/src_obm_2011_n3_f1#q06|src_obm_2011_n3_f1__Q06]]
 
 
 
@@ -253,7 +253,7 @@ level: OBM Nível 3
 > 
 > (A) 0 (B) $\dfrac{1}{4}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{1}{2}$ (E) 1
 
-[[src_obm_2011_n3_f1__Q07]]
+[[Quesiti/src_obm_2011_n3_f1#q07|src_obm_2011_n3_f1__Q07]]
 
 
 
@@ -286,7 +286,7 @@ level: OBM Nível 3
 > 
 > (A) 28% (B) 30% (C) 35% (D) 38% (E) 70%
 
-[[src_obm_2011_n3_f1__Q08]]
+[[Quesiti/src_obm_2011_n3_f1#q08|src_obm_2011_n3_f1__Q08]]
 
 
 
@@ -319,7 +319,7 @@ Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 > 
 > (A) $2 \times 2011^{2}$ (B) $2 \times 2011 \cdot 2003^{2}$ (C) $2 \times 2011 \cdot 2007$ (D) $2 \times 2011 \cdot 2003$ (E) $2 \times 2011 \cdot 2011^{2}$
 
-[[src_obm_2011_n3_f1__Q09]]
+[[Quesiti/src_obm_2011_n3_f1#q09|src_obm_2011_n3_f1__Q09]]
 
 
 
@@ -352,7 +352,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 10 (B) 12 (C) 15 (D) 24 (E) 30
 
-[[src_obm_2011_n3_f1__Q10]]
+[[Quesiti/src_obm_2011_n3_f1#q10|src_obm_2011_n3_f1__Q10]]
 
 
 
@@ -385,7 +385,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 6 (B) 7 (C) 8 (D) 9 (E) 10
 
-[[src_obm_2011_n3_f1__Q11]]
+[[Quesiti/src_obm_2011_n3_f1#q11|src_obm_2011_n3_f1__Q11]]
 
 
 
@@ -418,7 +418,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 25° (B) 30° (C) 40° (D) 45° (E) 50°
 
-[[src_obm_2011_n3_f1__Q12]]
+[[Quesiti/src_obm_2011_n3_f1#q12|src_obm_2011_n3_f1__Q12]]
 
 
 
@@ -451,7 +451,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
-[[src_obm_2011_n3_f1__Q13]]
+[[Quesiti/src_obm_2011_n3_f1#q13|src_obm_2011_n3_f1__Q13]]
 
 
 
@@ -484,7 +484,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > 
 > (A) 1 (B) 2 (C) 4 (D) 5 (E) 7
 
-[[src_obm_2011_n3_f1__Q14]]
+[[Quesiti/src_obm_2011_n3_f1#q14|src_obm_2011_n3_f1__Q14]]
 
 
 
@@ -528,7 +528,7 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 > 
 > (A) 0 (B) 1 (C) 2 (D) 3 (E) 4
 
-[[src_obm_2011_n3_f1__Q15]]
+[[Quesiti/src_obm_2011_n3_f1#q15|src_obm_2011_n3_f1__Q15]]
 
 
 
@@ -543,7 +543,7 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 > 
 > (A) $\dfrac{4}{3}$ (B) $\dfrac{3}{2}$ (C) $\dfrac{8}{5}$ (D) $\dfrac{18}{5}$ (E) $\dfrac{24}{5}$
 
-![[src_obm_2011_n3_f1__Q16.png]]
+![[src_obm_2011_n3_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -563,9 +563,9 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 > 
 > (A) $\dfrac{4}{3}$ (B) $\dfrac{3}{2}$ (C) $\dfrac{8}{5}$ (D) $\dfrac{18}{5}$ (E) $\dfrac{24}{5}$
 
-![[src_obm_2011_n3_f1__Q16.png]]
+![[src_obm_2011_n3_f1__q16.png]]
 
-[[src_obm_2011_n3_f1__Q16]]
+[[Quesiti/src_obm_2011_n3_f1#q16|src_obm_2011_n3_f1__Q16]]
 
 
 
@@ -598,7 +598,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
 
-[[src_obm_2011_n3_f1__Q17]]
+[[Quesiti/src_obm_2011_n3_f1#q17|src_obm_2011_n3_f1__Q17]]
 
 
 
@@ -631,7 +631,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 2 (B) 4 (C) 5 (D) 8 (E) 9
 
-[[src_obm_2011_n3_f1__Q18]]
+[[Quesiti/src_obm_2011_n3_f1#q18|src_obm_2011_n3_f1__Q18]]
 
 
 
@@ -674,7 +674,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 59 (B) 60 (C) 61 (D) 62 (E) 63
 
-[[src_obm_2011_n3_f1__Q19]]
+[[Quesiti/src_obm_2011_n3_f1#q19|src_obm_2011_n3_f1__Q19]]
 
 
 
@@ -707,7 +707,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 10 (B) 11 (C) 12 (D) 13 (E) 14
 
-[[src_obm_2011_n3_f1__Q20]]
+[[Quesiti/src_obm_2011_n3_f1#q20|src_obm_2011_n3_f1__Q20]]
 
 
 
@@ -722,7 +722,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 15 (B) 22,5 (C) 30 (D) 37,5 (E) 45
 
-![[src_obm_2011_n3_f1__Q21.png]]
+![[src_obm_2011_n3_f1__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -742,9 +742,9 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 15 (B) 22,5 (C) 30 (D) 37,5 (E) 45
 
-![[src_obm_2011_n3_f1__Q21.png]]
+![[src_obm_2011_n3_f1__q21.png]]
 
-[[src_obm_2011_n3_f1__Q21]]
+[[Quesiti/src_obm_2011_n3_f1#q21|src_obm_2011_n3_f1__Q21]]
 
 
 
@@ -777,7 +777,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) $a + 2b + (a-b)\sqrt{2}$ (B) $a - 2b + (a-b)\sqrt{2}$ (C) $a + 2b + (b-a)\sqrt{2}$ (D) $2b - a + (b-a)\sqrt{2}$ (E) $a + (b-a)\sqrt{2}$
 
-[[src_obm_2011_n3_f1__Q22]]
+[[Quesiti/src_obm_2011_n3_f1#q22|src_obm_2011_n3_f1__Q22]]
 
 
 
@@ -810,7 +810,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 2011 (B) 2012 (C) 2013 (D) 2014 (E) 2011-2012
 
-[[src_obm_2011_n3_f1__Q23]]
+[[Quesiti/src_obm_2011_n3_f1#q23|src_obm_2011_n3_f1__Q23]]
 
 
 
@@ -843,7 +843,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) 20 (B) 24 (C) 26 (D) 28 (E) 30
 
-[[src_obm_2011_n3_f1__Q24]]
+[[Quesiti/src_obm_2011_n3_f1#q24|src_obm_2011_n3_f1__Q24]]
 
 
 
@@ -876,4 +876,4 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > 
 > (A) $\dfrac{12\sqrt{3}}{7}$ (B) $\dfrac{13\sqrt{3}}{7}$ (C) $2\sqrt{3}$ (D) $\dfrac{15\sqrt{3}}{7}$ (E) $\dfrac{16\sqrt{3}}{7}$
 
-[[src_obm_2011_n3_f1__Q25]]
+[[Quesiti/src_obm_2011_n3_f1#q25|src_obm_2011_n3_f1__Q25]]

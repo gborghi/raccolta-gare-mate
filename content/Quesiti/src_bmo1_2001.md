@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova tutti i numeri interi a due cifre $N$ per i quali la somma dei numeri di $10^N - N$ è divisibile da $170$.
 
-[[src_bmo1_2001__Q01]]
+[[Quesiti/src_bmo1_2001#q01|src_bmo1_2001__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (distinto da $A$) su $T$, gli accordi $PQ$ e $PR$ di $T$ sono tangenti a $S$. Indicare che $\angle QAR = 2\angle XAV$, dove $X$ e $V$ sono i punti in cui $S$ tocca rispettivamente $PQ$ e $PR$.
 
-[[src_bmo1_2001__Q02]]
+[[Quesiti/src_bmo1_2001#q02|src_bmo1_2001__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 > 
 > (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
 
-[[src_bmo1_2001__Q03]]
+[[Quesiti/src_bmo1_2001#q03|src_bmo1_2001__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: BMO Round 1
 
 > Definire la sequenza $a_1, a_2, \ldots$ per $$a_1 = n, \quad a_{k+1} = a_k + \left\lfloor \sqrt{a_k} \right\rfloor,$$ in cui $n$ è un intero positivo e $\lfloor x \rfloor$ indica il numero intero più vicino a $x$ inferiore o uguale a $x$; se necessario i numeri interi sono arrotondati. Mostrare che per alcuni interi positivi $n$, i termini $a_1, a_2, \ldots, a_{2001}$ formano una sequenza di interi consecutivi $2001$.
 
-[[src_bmo1_2001__Q04]]
+[[Quesiti/src_bmo1_2001#q04|src_bmo1_2001__Q04]]
 
 
 
@@ -151,4 +151,4 @@ level: BMO Round 1
 
 > Un triangolo ha lati di lunghezza $a$, $b$, $c$ e il suo circoncircolo ha raggio $R$. Prove che il triangolo è rettangolare se e solo se $a^2 + b^2 + c^2 = 8R^2$.
 
-[[src_bmo1_2001__Q05]]
+[[Quesiti/src_bmo1_2001#q05|src_bmo1_2001__Q05]]

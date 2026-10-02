@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Ciascuno di loro ha un gran numero di chili. Le dice: "Se mi dai $\pounds 3$, avrò $n$ volte quanto te". Le dice: "Se mi dai $\pounds n$, avrò $3$ volte quanto te". Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili per $n$?
 
-[[src_bmo1_2005__Q01]]
+[[Quesiti/src_bmo1_2005#q01|src_bmo1_2005__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Il $ABC$ è un triangolo acuto, e il $D$, $E$ sono i piedi delle altitudini da $A$, $B$ a $BC$, $CA$ rispettivamente. $P$ è il punto in cui la linea $AD$ incontra il semicircolo costruito verso l'esterno su $BC$, e $Q$ è il punto in cui la linea $BE$ incontra il semicircolo costruito verso l'esterno su $AC$. Prove che $CP = CQ$.
 
-[[src_bmo1_2005__Q02]]
+[[Quesiti/src_bmo1_2005#q02|src_bmo1_2005__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Determinare il numero naturale minimo $n$ per il quale è valido il seguente risultato: Indipendentemente dal colore rosso o blu degli elementi del set $\{1, 2, \ldots, n\}$, nel set (non necessariamente distinto) ci sono enti $x, y, z$ dello stesso colore, come $x + y + z = w$.
 
-[[src_bmo1_2005__Q03]]
+[[Quesiti/src_bmo1_2005#q03|src_bmo1_2005__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: BMO Round 1
 
 > Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di sette numeri primi distinti.
 
-[[src_bmo1_2005__Q04]]
+[[Quesiti/src_bmo1_2005#q04|src_bmo1_2005__Q04]]
 
 
 
@@ -144,4 +144,4 @@ level: BMO Round 1
 
 > Se $S$ è un insieme di numeri razionali con le seguenti proprietà: (i) $\frac{1}{2} \in S$, (ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ che $\frac{x}{x+1} \in S$. Prova che $S$ contiene tutti i numeri razionali nell'intervallo $0 < x < 1$.
 
-[[src_bmo1_2005__Q05]]
+[[Quesiti/src_bmo1_2005#q05|src_bmo1_2005__Q05]]

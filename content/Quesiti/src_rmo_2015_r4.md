@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $B'$ denote the reflection of $B$ in the internal angle bisector $\ell$ of $\angle A$. Show that the circumcentre of the triangle $CB'I$ lies on the line $\ell$, where $I$ is the incentre of $ABC$.
 
-![[src_rmo_2015_r4__Q01.png]]
+![[src_rmo_2015_r4__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo. $B'$ indica il riflesso di $B$ nel bisettore angolare interno $\ell$ di $\angle A$. Indicare che il circoncentro del triangolo $CB'I$ si trova sulla linea $\ell$, dove $I$ è l'incentro di $ABC$.
 
-![[src_rmo_2015_r4__Q01.png]]
+![[src_rmo_2015_r4__q01.png]]
 
-[[src_rmo_2015_r4__Q01]]
+[[Quesiti/src_rmo_2015_r4#q01|src_rmo_2015_r4__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: RMO
 
 > Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ è reale e $b \neq 2$ è razionale. Supponiamo che $P(0)^2$, $P(1)^2$, $P(2)^2$ siano numeri interi. Provare che $a$ e $b$ sono numeri interi.
 
-[[src_rmo_2015_r4__Q02]]
+[[Quesiti/src_rmo_2015_r4#q02|src_rmo_2015_r4__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: RMO
 
 > Trova tutti gli integri $a, b, c$ in modo che $$a^2 = bc + 4, \quad b^2 = ca + 4.$$
 
-[[src_rmo_2015_r4__Q03]]
+[[Quesiti/src_rmo_2015_r4#q03|src_rmo_2015_r4__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: RMO
 
 > Supponiamo che 40 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
 
-[[src_rmo_2015_r4__Q04]]
+[[Quesiti/src_rmo_2015_r4#q04|src_rmo_2015_r4__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: RMO
 
 > Two circles $\Gamma$ and $\Sigma$ intersect at two distinct points $A$ and $B$. A line through $B$ intersects $\Gamma$ again at $C$ and $\Sigma$ again at $D$, respectively. Suppose that $CA = CD$. Show that the centre of $\Sigma$ lies on $\Gamma$.
 
-![[src_rmo_2015_r4__Q05.png]]
+![[src_rmo_2015_r4__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -146,9 +146,9 @@ level: RMO
 
 > Due cerchi $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una linea attraverso $B$ incrocia $\Gamma$ di nuovo a $C$ e $\Sigma$ di nuovo a $D$, rispettivamente. Supponiamo che $CA = CD$. Indicare che il centro di $\Sigma$ si trova su $\Gamma$.
 
-![[src_rmo_2015_r4__Q05.png]]
+![[src_rmo_2015_r4__q05.png]]
 
-[[src_rmo_2015_r4__Q05]]
+[[Quesiti/src_rmo_2015_r4#q05|src_rmo_2015_r4__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: RMO
 > 
 > (Qui $[x]$ indica il più grande numero intero non superiore a $x$, per qualsiasi numero reale $x$.)
 
-[[src_rmo_2015_r4__Q06]]
+[[Quesiti/src_rmo_2015_r4#q06|src_rmo_2015_r4__Q06]]

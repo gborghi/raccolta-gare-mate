@@ -36,7 +36,7 @@ level: squadre
 > Multiple of 5 For how many integers n between  2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?
 
 **Answer:** 0809
-[[src_kangourou_2023_junior_squadre__Q01]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q01|src_kangourou_2023_junior_squadre__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: squadre
 > Perimeter Two triangles are similar but not congruent. For each of the two sides, two sides have lengths of 12 and 18. How much is the sum of their perimeter?
 
 **Answer:** 0095
-[[src_kangourou_2023_junior_squadre__Q02]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q02|src_kangourou_2023_junior_squadre__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: squadre
 > Average Number For each 3-digit integer (therefore with the number of hundreds other than 0), consider the five numbers that are obtained by exchanging its digits (for example, for the number 120, the five numbers to be considered are: 102, 210, 201, 012 and 021; instead for the number 121 are: 211, 211, 121, 112 and 112, in this case not all distinct and one equal to the number considered). The number in question shall be said to be half if it is the average of the other five. How much is the sum of all the MID numbers?
 
 **Answer:** 7992
-[[src_kangourou_2023_junior_squadre__Q03]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q03|src_kangourou_2023_junior_squadre__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: squadre
 > Four axes From a deck of 52 playing cards, some are removed, but none of the four axes are then left in the deck. At this point, the probability that, by extracting 4 cards from the remaining ones, the exact four axes will be extracted is 1/1.001. How many cards have been removed from the deck?
 
 **Answer:** 0038
-[[src_kangourou_2023_junior_squadre__Q04]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q04|src_kangourou_2023_junior_squadre__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: squadre
 > The cube of a positive integer n, we know that there are exactly 2,023 natural numbers less than or equal to n whose cube ends with the number 1. What's the maximum possible value for n/10?
 
 **Answer:** 2023
-[[src_kangourou_2023_junior_squadre__Q05]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q05|src_kangourou_2023_junior_squadre__Q05]]
 
 
 
@@ -199,7 +199,7 @@ level: squadre
 > The spider On a bell tower there is a large traditional circular clock. Moving at a constant speed on its edge, at 06:00 a spider sets out in an anti-clockwise direction corresponding to the tip of the hour's clock, reaches the tip of the minute's clock, reverses the direction of travel and reaches, moving now clockwise, for the second time the tip of the minute's clock after 20 minutes from the first time. What time is it? (Write the answer using only 4 digits, without the two dots: for example at 07:56 write 0756.)
 
 **Answer:** 0626
-[[src_kangourou_2023_junior_squadre__Q06]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q06|src_kangourou_2023_junior_squadre__Q06]]
 
 
 
@@ -297,7 +297,7 @@ level: squadre
 > F G D B A C E
 
 **Answer:** 0216
-[[src_kangourou_2023_junior_squadre__Q07]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q07|src_kangourou_2023_junior_squadre__Q07]]
 
 
 
@@ -328,7 +328,7 @@ level: squadre
 > Different divisors Among the three-digit positive integers, one, let's call it n, has the most divisors all different from each other. How much is n?
 
 **Answer:** 0840
-[[src_kangourou_2023_junior_squadre__Q08]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q08|src_kangourou_2023_junior_squadre__Q08]]
 
 
 
@@ -360,7 +360,7 @@ level: squadre
 > WHEREAS, by removing at least one letter, but not all, from the word WHEREAS, and leaving the order of the remaining letters unchanged, how many different letter alignments can be obtained? (For example, A, NCO, ACOA are three of these alignments.)
 
 **Answer:** 0057
-[[src_kangourou_2023_junior_squadre__Q09]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q09|src_kangourou_2023_junior_squadre__Q09]]
 
 
 
@@ -390,7 +390,7 @@ level: squadre
 > Six consecutive integers A 10-digit integer is the product of six consecutive positive integers and is the largest 10-digit integer that enjoys this property. Which is the smallest of the six consecutive integers?
 
 **Answer:** 0043
-[[src_kangourou_2023_junior_squadre__Q10]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q10|src_kangourou_2023_junior_squadre__Q10]]
 
 
 
@@ -421,7 +421,7 @@ level: squadre
 > An equality How many pairs (ordered) (x, y) of relative integers is the equality 10xy  x2  9y2 = 2023 satisfied?
 
 **Answer:** 0012
-[[src_kangourou_2023_junior_squadre__Q11]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q11|src_kangourou_2023_junior_squadre__Q11]]
 
 
 
@@ -452,7 +452,7 @@ level: squadre
 > Divisable by 75 There are positive integers divisible by 75 that have exactly 75 divisors (positive). Be the smallest of them. How much is 100?
 
 **Answer:** 0324
-[[src_kangourou_2023_junior_squadre__Q12]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q12|src_kangourou_2023_junior_squadre__Q12]]
 
 
 
@@ -486,7 +486,7 @@ level: squadre
 > On a base price of 50 cents for a box, a hardware store offers a discount of 5% for those who buy less than 36, a discount of 12% for those who buy between 36 and 55 (included), a discount of 20% for those who buy at least 56. Yesterday I bought some of these bags and got a 5% discount; today I bought others and got a 12% discount. If I had bought today's with yesterday's, I would have gotten a 20% discount on 3 euros and 90 cents. How many baskets did I buy today?
 
 **Answer:** 0045
-[[src_kangourou_2023_junior_squadre__Q13]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q13|src_kangourou_2023_junior_squadre__Q13]]
 
 
 
@@ -518,7 +518,7 @@ level: squadre
 > The withdrawal on Caesar's bank account is 250 euros. On that account Caesar can operate as many times as he wants, but without going red and only in two ways: withdraw 150 euros or deposit 99. Caesar has no other money at his disposal right now. How many euros can you get the most out of your account?
 
 **Answer:** 0249
-[[src_kangourou_2023_junior_squadre__Q14]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q14|src_kangourou_2023_junior_squadre__Q14]]
 
 
 
@@ -596,4 +596,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 0084
-[[src_kangourou_2023_junior_squadre__Q15]]
+[[Quesiti/src_kangourou_2023_junior_squadre#q15|src_kangourou_2023_junior_squadre__Q15]]

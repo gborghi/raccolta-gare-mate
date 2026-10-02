@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Attraverso un punto $P$ all'interno di un triangolo fisso $ABC$ le linee $PL$, $PM$, $PN$ sono disegnate parallele alle medie rispettivamente attraverso $A$, $B$, $C$ per raggiungere $BC$, $CA$, $AB$ rispettivamente a $L$, $M$ e $N$. Provare che $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$ è costante (indipendente da $P$).
 
-[[src_bmo_1975-76_round2__Q01]]
+[[Quesiti/src_bmo_1975-76_round2#q01|src_bmo_1975-76_round2__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: BMO Round 2
 > 
 > Provare che $$-(1 + \sqrt{5}) \leq t \leq \frac{1}{2}(1 + \sqrt{5}).$$
 
-[[src_bmo_1975-76_round2__Q02]]
+[[Quesiti/src_bmo_1975-76_round2#q02|src_bmo_1975-76_round2__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: BMO Round 2
 > 
 > Prove che $x^3 - 3y^3 - 3z^3 + 7t^3 = 0$ ha infinite soluzioni in numeri interi positivi $x_0, y_0, z_0, t_0$ in nessuno dei quali il rapporto $x:y:z:t$ sia lo stesso.
 
-[[src_bmo_1975-76_round2__Q03]]
+[[Quesiti/src_bmo_1975-76_round2#q03|src_bmo_1975-76_round2__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: BMO Round 2
 
 > Prove che non è possibile trovare integri positivi $p$ e $q$ con la proprietà che $$\left|\sqrt{2} - \frac{p}{q}\right| \leq \frac{1}{4q^2}.$$
 
-[[src_bmo_1975-76_round2__Q04]]
+[[Quesiti/src_bmo_1975-76_round2#q04|src_bmo_1975-76_round2__Q04]]
 
 
 
@@ -167,4 +167,4 @@ level: BMO Round 2
 > 
 > (c) Nessun esagono può essere ottenuto dall'altro con una singola traduzione, una singola rotazione o un singolo riflesso.
 
-[[src_bmo_1975-76_round2__Q05]]
+[[Quesiti/src_bmo_1975-76_round2#q05|src_bmo_1975-76_round2__Q05]]

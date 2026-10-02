@@ -35,7 +35,7 @@ level: Giochi d'Autunno
 > I wrote a two-digit number (which doesn't end with zero). Then I deleted the first number, the number of tens. Finally, I multiplied the remaining number (of a single digit) by 9. Surprise: I find the number I started from! What was that number?
 
 **Answer:** 45
-[[src_bocconi_autunno_2008__Q01]]
+[[Quesiti/src_bocconi_autunno_2008#q01|src_bocconi_autunno_2008__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: Giochi d'Autunno
 
 > Il puzzle che vedete in figura è formato da due pezzi identici. Evidenziate il contorno di divisione tra i due pezzi (sapendo che uno è stato ribaltato).
 
-![[src_bocconi_autunno_2008__Q02.png]]
+![[src_bocconi_autunno_2008__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -65,10 +65,10 @@ level: Giochi d'Autunno
 
 > The puzzle you see in the figure is made up of two identical pieces. Highlight the dividing contour between the two pieces (knowing that one has been overturned).
 
-![[src_bocconi_autunno_2008__Q02.png]]
+![[src_bocconi_autunno_2008__q02.png]]
 
 **Answer:** Vedere figura nella soluzione
-[[src_bocconi_autunno_2008__Q02]]
+[[Quesiti/src_bocconi_autunno_2008#q02|src_bocconi_autunno_2008__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: Giochi d'Autunno
 > On 20 August 2008, Sara will be 11 years, 11 months and 11 days old. How old will you be on August 20, 2009?
 
 **Answer:** Sara avrà 13 anni e 11 giorni
-[[src_bocconi_autunno_2008__Q03]]
+[[Quesiti/src_bocconi_autunno_2008#q03|src_bocconi_autunno_2008__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: Giochi d'Autunno
 > - la somma dei numeri scritti nei tre dischi grigi sia uguale a quella dei tre numeri scritti nei dischi bianchi collegati dalle linee tratteggiate.
 > Completa il disegno, scrivendo i numeri da 3 a 7.
 
-![[src_bocconi_autunno_2008__Q04.png]]
+![[src_bocconi_autunno_2008__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -130,10 +130,10 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 
 > The 7 discs in the figure must contain all the integers 1 to 7 (1 and 2 have already been inserted) so that: - the sum of the numbers written on each side of the great triangle is always the same; - the sum of the numbers written on the three gray discs is equal to that of the three numbers written on the white discs connected by the lines drawn. Complete the drawing by writing the numbers from 3 to 7.
 
-![[src_bocconi_autunno_2008__Q04.png]]
+![[src_bocconi_autunno_2008__q04.png]]
 
 **Answer:** Vedere figura nella soluzione
-[[src_bocconi_autunno_2008__Q04]]
+[[Quesiti/src_bocconi_autunno_2008#q04|src_bocconi_autunno_2008__Q04]]
 
 
 
@@ -164,7 +164,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 > In a six-pointed star, we wrote the number 2 in a point, and in a nearby point, the number 3. Put in each of the other points an integer such that: - the six numbers written are all different; - each number is equal to the number of units of the sum of the four that appear in the two adjacent points.
 
 **Answer:** Vedere figura nella soluzione
-[[src_bocconi_autunno_2008__Q05]]
+[[Quesiti/src_bocconi_autunno_2008#q05|src_bocconi_autunno_2008__Q05]]
 
 
 
@@ -193,7 +193,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 > On a calculator, you can only do two things: double or add 1. With how many of these operations, at least, can we turn 0 into 2009?
 
 **Answer:** 18 operazioni
-[[src_bocconi_autunno_2008__Q06]]
+[[Quesiti/src_bocconi_autunno_2008#q06|src_bocconi_autunno_2008__Q06]]
 
 
 
@@ -222,7 +222,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 > We paint all the faces of a big cube. Then, with a saw, we make 9 cuts so that we divide it into smaller cubes all the same size. We don't move any pieces until we've completed the cuts. Of the small cubes thus obtained, some are colored (in the sense that they have at least one painted face); others have no trace of color. How many small, colorful cubes are there?
 
 **Answer:** 56
-[[src_bocconi_autunno_2008__Q07]]
+[[Quesiti/src_bocconi_autunno_2008#q07|src_bocconi_autunno_2008__Q07]]
 
 
 
@@ -251,7 +251,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 > On December 29th, at 12 o'clock, a plane leaves Rome. It shall reach its destination, Mathcity Airport, on 30 December at 11 a.m. local time. Meanwhile, another plane, flying at the same speed, takes off from Mathcity on 29 December at 12 noon (local time) to land in Rome on 29 December at 23 pm (Italian time). How long is the Rome-Mathcity flight?
 
 **Answer:** 17 ore
-[[src_bocconi_autunno_2008__Q08]]
+[[Quesiti/src_bocconi_autunno_2008#q08|src_bocconi_autunno_2008__Q08]]
 
 
 
@@ -280,7 +280,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 > Carla and Milena have to go to Mathville. From Milan they decide to take a Eurostar to the Central Station. Here they consult the timetable and note that, every hour, there is a train departing for Mathville and also one arriving from Mathville (in the direction of Milan). The journey, in both directions, takes exactly five hours. How many trains go in the opposite direction (from Mathville to Milan) meet Carla and Milena during their journey? (Don't count the trains they see at departure and arrival.)
 
 **Answer:** 9 treni
-[[src_bocconi_autunno_2008__Q09]]
+[[Quesiti/src_bocconi_autunno_2008#q09|src_bocconi_autunno_2008__Q09]]
 
 
 
@@ -309,7 +309,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 > Two polygons (without points in common) have a total of 25 diagonals. How many sides do they have in total?
 
 **Answer:** 13 lati
-[[src_bocconi_autunno_2008__Q10]]
+[[Quesiti/src_bocconi_autunno_2008#q10|src_bocconi_autunno_2008__Q10]]
 
 
 
@@ -322,7 +322,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 
 > Completa la tabella in modo che tutte le operazioni indicate risultino esatte. La prima riga inizia con $6$, $6$, $6$ e il segno $-$; la seconda riga contiene una moltiplicazione con il fattore $3$; le colonne e righe devono essere consistenti con i segni dati.
 
-![[src_bocconi_autunno_2008__Q11.png]]
+![[src_bocconi_autunno_2008__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -339,10 +339,10 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 
 > Complete the table so that all the operations indicated are accurate. The first row begins with $6$, $6$, $6$ and the $-$ sign; the second row contains a multiplication by the $3$ factor; the columns and rows must be consistent with the data signs.
 
-![[src_bocconi_autunno_2008__Q11.png]]
+![[src_bocconi_autunno_2008__q11.png]]
 
 **Answer:** $666 - 191 = 475$; $18 \times 13 = 234$; $37 + 204 = 241$
-[[src_bocconi_autunno_2008__Q11]]
+[[Quesiti/src_bocconi_autunno_2008#q11|src_bocconi_autunno_2008__Q11]]
 
 
 
@@ -371,7 +371,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 > Jacob puts the first nine digits of the casket (from 1 to 9) in a bag. He pulls out four numbers in one go. From these four numbers, respecting the order of the digits on the edge of the casing, Jacob enjoys constructing all possible four-digit numbers. Then he adds them up and he gets 93324. What are the four numbers Jacob pulled out of the bag?
 
 **Answer:** $1, 2, 3, 8$
-[[src_bocconi_autunno_2008__Q12]]
+[[Quesiti/src_bocconi_autunno_2008#q12|src_bocconi_autunno_2008__Q12]]
 
 
 
@@ -384,7 +384,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 
 > Tracciate dei segmenti che colleghino i vertici dei quadratini della figura, in modo da dividerla in due parti identiche (le due parti identiche possono sovrapporsi anche mediante una rotazione).
 
-![[src_bocconi_autunno_2008__Q13.png]]
+![[src_bocconi_autunno_2008__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -401,10 +401,10 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 
 > Draw a diagram of the segments that connect the vertices of the squares of the figure so as to divide it into two identical parts (the two identical parts can overlap even by rotation).
 
-![[src_bocconi_autunno_2008__Q13.png]]
+![[src_bocconi_autunno_2008__q13.png]]
 
 **Answer:** Vedere figura nella soluzione
-[[src_bocconi_autunno_2008__Q13]]
+[[Quesiti/src_bocconi_autunno_2008#q13|src_bocconi_autunno_2008__Q13]]
 
 
 
@@ -433,7 +433,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 > Find a number that is twice the square of the sum of its digits plus the sum of its digits.
 
 **Answer:** 171, 465, 666
-[[src_bocconi_autunno_2008__Q14]]
+[[Quesiti/src_bocconi_autunno_2008#q14|src_bocconi_autunno_2008__Q14]]
 
 
 
@@ -446,7 +446,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 
 > Qual è il numero massimo di caselle che si possono annerire, nella griglia $7 \times 7$ della figura, senza mai formare tre caselle consecutive, allineate orizzontalmente o verticalmente?
 
-![[src_bocconi_autunno_2008__Q15.png]]
+![[src_bocconi_autunno_2008__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
@@ -463,10 +463,10 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 
 > What is the maximum number of boxes that can be blackened in the $7 \times 7$ grid of the figure without ever forming three consecutive boxes, aligned horizontally or vertically?
 
-![[src_bocconi_autunno_2008__Q15.png]]
+![[src_bocconi_autunno_2008__q15.png]]
 
 **Answer:** 33 caselle
-[[src_bocconi_autunno_2008__Q15]]
+[[Quesiti/src_bocconi_autunno_2008#q15|src_bocconi_autunno_2008__Q15]]
 
 
 
@@ -495,7 +495,7 @@ Civil number of the house demolished in Via Pitagora
 > In Via Pitagora the civil numbers of the houses leave (without interruptions, the bissi numbers on one side and the even numbers on the other side of the road). One day, one of them gets knocked down by the mayor for abusing. The arithmetic mean of the civil numbers of the houses, in this way, is an integer. What was the civilian number for the house that was torn down?
 
 **Answer:** 48
-[[src_bocconi_autunno_2008__Q16]]
+[[Quesiti/src_bocconi_autunno_2008#q16|src_bocconi_autunno_2008__Q16]]
 
 
 
@@ -524,4 +524,4 @@ Civil number of the house demolished in Via Pitagora
 > What is the smallest natural number of four digits (not starting with 0) that has the following property: 'if you change any of its digits (other than 0) by replacing it with 1, you get a prime number'?
 
 **Answer:** 1070
-[[src_bocconi_autunno_2008__Q17]]
+[[Quesiti/src_bocconi_autunno_2008#q17|src_bocconi_autunno_2008__Q17]]

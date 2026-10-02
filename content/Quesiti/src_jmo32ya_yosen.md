@@ -35,7 +35,7 @@ level: JMO Yosen
 > Trova il numero intero più piccolo di $2022$ che è (i) un numero a 4 cifre, (ii) un multiple di $3$, e (iii) utilizza esattamente $2$ cifre distinte tra i suoi migliaia, centinaia, decine e unità posti.
 
 **Risposta:** 2112
-[[src_jmo32ya_yosen__Q01]]
+[[Quesiti/src_jmo32ya_yosen#q01|src_jmo32ya_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Il trapezoide $ABCD$ ha $AD \parallel BC$, con angoli acuti a $B$ e $C$. Ha un cerchio di raggio $3$. Date $AB = 7$ e $CD = 8$, si trova l'area del trapezoide $ABCD$.
 
 **Risposta:** 45
-[[src_jmo32ya_yosen__Q02]]
+[[Quesiti/src_jmo32ya_yosen#q02|src_jmo32ya_yosen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JMO Yosen
 > Etichettare le vertici di un esagono regolare $A, B, C, D, E, F$ in ordine. Da qualsiasi vertice, si può spostare verso un vertice adiacente o verso il vertice diametralmente opposto. Quanti percorsi chiusi esistono che iniziano a $A$, visitano ciascuno degli altri cinque vertici esattamente una volta (senza tornare a $A$ fino alla fine), e poi ritornano a $A$?
 
 **Risposta:** 12
-[[src_jmo32ya_yosen__Q03]]
+[[Quesiti/src_jmo32ya_yosen#q03|src_jmo32ya_yosen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JMO Yosen
 > Che $ABCD$ sia un quadrilaterale convex e che $P$ sia un punto interno tale che $AP \perp AD$ e $BP \perp CD$. Date $AB = 7$, $AP = 3$, $BP = 6$, $AD = 5$ e $CD = 10$, si trova l'area del triangolo $ABC$.
 
 **Risposta:** \dfrac{245}{6}
-[[src_jmo32ya_yosen__Q04]]
+[[Quesiti/src_jmo32ya_yosen#q04|src_jmo32ya_yosen__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: JMO Yosen
 > Trovare il numero di coppie $(m, n)$ di integri positivi con $1 \le m, n \le 2022$ in modo tale che: per ogni integro positivo $N$, esiste un intero non negativo $k$ e un intero $d > N$ in modo tale che $d$ divida sia $m - k^2$ che $n + 2k$.
 
 **Risposta:** 44
-[[src_jmo32ya_yosen__Q05]]
+[[Quesiti/src_jmo32ya_yosen#q05|src_jmo32ya_yosen__Q05]]
 
 
 
@@ -180,7 +180,7 @@ level: JMO Yosen
 > Una tavola è costituita da piastrelle triangolari equilaterali $36$ disposte in una griglia triangolare con vertici interni contrassegnati $30$. Colora ogni piastrella di colore rosso o blu in modo che a ogni vertice segnato, il numero di piastrelle rosse che condividono quel vertice sia uguale al numero di piastrelle blu che condividono quel vertice. Quante sono queste colorazioni?
 
 **Risposta:** 68
-[[src_jmo32ya_yosen__Q06]]
+[[Quesiti/src_jmo32ya_yosen#q06|src_jmo32ya_yosen__Q06]]
 
 
 
@@ -209,7 +209,7 @@ level: JMO Yosen
 > $ABC$ sia un triangolo a destra con $\angle BAC = 90^\circ$ e $AB = AC = 7$. I punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$ e $AB$ e soddisfano $\angle EDF = 90^\circ$, $DE = 5$ e $DF = 3$. Trova la lunghezza del segmento $BD$.
 
 **Risposta:** \dfrac{21\sqrt{2}}{8}
-[[src_jmo32ya_yosen__Q07]]
+[[Quesiti/src_jmo32ya_yosen#q07|src_jmo32ya_yosen__Q07]]
 
 
 
@@ -238,7 +238,7 @@ level: JMO Yosen
 > Quante sequenze di numeri interi positivi in aumento rigoroso $(a_1, a_2, \ldots, a_{2022})$ soddisfano $$a_1^2 - 6^2 \ge a_2^2 - 7^2 \ge \cdots \ge a_{2022}^2 - 2027^2\,?$$
 
 **Risposta:** 10
-[[src_jmo32ya_yosen__Q08]]
+[[Quesiti/src_jmo32ya_yosen#q08|src_jmo32ya_yosen__Q08]]
 
 
 
@@ -267,7 +267,7 @@ level: JMO Yosen
 > Quante permutazioni $(p_1, p_2, \ldots, p_{1000})$ di $1, 2, \ldots, 1000$ esistono tali che per ogni numero intero $i$ con $1 \le i \le 999$, $p_i$ sia un multiple di $i$?
 
 **Risposta:** 504
-[[src_jmo32ya_yosen__Q09]]
+[[Quesiti/src_jmo32ya_yosen#q09|src_jmo32ya_yosen__Q09]]
 
 
 
@@ -296,7 +296,7 @@ level: JMO Yosen
 > Quanti modi ci sono per scegliere $25$ numeri interi distinti da $\{1, 2, \ldots, 50\}$ in modo tale che tra due numeri interi scelti, nessuno divida l'altro?
 
 **Risposta:** 1632
-[[src_jmo32ya_yosen__Q10]]
+[[Quesiti/src_jmo32ya_yosen#q10|src_jmo32ya_yosen__Q10]]
 
 
 
@@ -325,7 +325,7 @@ level: JMO Yosen
 > Per ogni intero positivo $n$, definire $$f(n) = \begin{cases} n^{100} & \text{if the sum of the digits of } n \text{ is even,} \\ -n^{100} & \text{if the sum of the digits of } n \text{ is odd.} \end{cases}$$ Let $S = f(1) + f(2) + \cdots + f(10^{100} - 1)$. Trova il più grande intero non negativo $m$ tale che $5^m$ divida $S$ (si dà che $S \ne 0$).
 
 **Risposta:** 5074
-[[src_jmo32ya_yosen__Q11]]
+[[Quesiti/src_jmo32ya_yosen#q11|src_jmo32ya_yosen__Q11]]
 
 
 
@@ -354,4 +354,4 @@ level: JMO Yosen
 > In triangolo acuto $ABC$, $AB = 11$ e $AC = 10$. $H$ sia il centro ortografico e $M$ il punto medio di $BC$. Un punto $P$ all'interno del triangolo $ABC$ si trova sul circoncircolo del triangolo $BHC$ e soddisfa $\angle ABP = \angle CPM$ e $PM = 3$. Trova la lunghezza del lato $BC$.
 
 **Risposta:** 2\sqrt{21}
-[[src_jmo32ya_yosen__Q12]]
+[[Quesiti/src_jmo32ya_yosen#q12|src_jmo32ya_yosen__Q12]]

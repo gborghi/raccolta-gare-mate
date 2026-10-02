@@ -33,7 +33,7 @@ level: JMO Honsen
 
 > Che $ABC$ sia un triangolo acuto con $AB < AC$, che $O$ sia il suo centro circundante, e che $D$ sia il punto di intersezione del bisettore di $\angle BAC$ con il lato $BC$. Sul raggio $DO$ prendere due punti distinti $P, Q$, entrambi situati sul lato opposto della linea $AC$ da $B$ e sullo stesso lato della linea $AB$ come $C$, in modo che i tre punti $D, P, Q$ si trovino in questo ordine. Inoltre, $AB = BP$, $AC = CQ$ e $\angle ABP = \angle ACQ$ sono tenuti. Trova il valore di $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_jmo36hq_honsen__Q01]]
+[[Quesiti/src_jmo36hq_honsen#q01|src_jmo36hq_honsen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JMO Honsen
 > 
 > Prove that there exists a positive integer $C$ such that $|a_n - 2n| \leq C$ holds for every positive integer $n$.
 
-[[src_jmo36hq_honsen__Q02]]
+[[Quesiti/src_jmo36hq_honsen#q02|src_jmo36hq_honsen__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: JMO Honsen
 > 
 > Determinare, in termini di $n$, il minimo valore possibile di $m$ per il quale esiste un tale colorante.
 
-[[src_jmo36hq_honsen__Q03]]
+[[Quesiti/src_jmo36hq_honsen#q03|src_jmo36hq_honsen__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: JMO Honsen
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che, per tutti i numeri reali $x, y$, $$f\!\left(x^2 + f(y)^2\right) + 2f(x)\,y = f\!\left(x + f(y)\right)^2$$ si trova.
 
-[[src_jmo36hq_honsen__Q04]]
+[[Quesiti/src_jmo36hq_honsen#q04|src_jmo36hq_honsen__Q04]]
 
 
 
@@ -169,4 +169,4 @@ level: JMO Honsen
 > 
 > Qui $UV$ indica la lunghezza del segmento $UV$.
 
-[[src_jmo36hq_honsen__Q05]]
+[[Quesiti/src_jmo36hq_honsen#q05|src_jmo36hq_honsen__Q05]]

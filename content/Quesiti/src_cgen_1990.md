@@ -40,7 +40,7 @@ level: Concours Général
 > 
 > 1. Calcolare $u_{100}$. 2. Determinare il numero di indici $n$, inferiori o uguali a $1990$, in modo tale che $u_n = 0$. 3. $p$ sia un intero naturale parziale e $N = (2p-1)^2$. Calcolare $u_N$.
 
-[[src_cgen_1990__Q01]]
+[[Quesiti/src_cgen_1990#q01|src_cgen_1990__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: Concours Général
 > 
 > Determinare il numero massimo di pezzi nel gioco, sapendo che non ci sono due pezzi identici.
 
-[[src_cgen_1990__Q02]]
+[[Quesiti/src_cgen_1990#q02|src_cgen_1990__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: Concours Général
 > 
 > 2. Determinare tutti i numeri naturali $n$ $x_1, x_2, \ldots, x_n$, distinti o meno, verificando: $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
 
-[[src_cgen_1990__Q03]]
+[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
 
 
 
@@ -139,7 +139,7 @@ level: Concours Général
 > 
 > 2. Qual è il volume massimo di un tetraedro il cui vertice si trovano tutti in un determinato cubo?
 
-[[src_cgen_1990__Q04]]
+[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: Concours Général
 > 
 > For such a triangle, give an approximate value, to the nearest degree, of the measure of angle $A$ of triangle $ABC$.
 
-![[src_cgen_1990__Q05.png]]
+![[src_cgen_1990__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
@@ -183,6 +183,6 @@ level: Concours Général
 > 
 > Per tale triangolo, indicare un valore approssimativo, al grado più vicino, della misura dell'angolo $A$ del triangolo $ABC$.
 
-![[src_cgen_1990__Q05.png]]
+![[src_cgen_1990__q05.png]]
 
-[[src_cgen_1990__Q05]]
+[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]

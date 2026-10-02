@@ -34,7 +34,7 @@ level: China Mathematical Olympiad
 
 > Date le cifre complesse $a$, $b$, $c$, lasciamo $|a + b| = m$, $|a - b| = n$, e supponiamo $mn \neq 0$. Provare che $$\max\{|ac + b|,\ |a + bc|\} \ge \frac{mn}{\sqrt{m^2 + n^2}}.$$
 
-[[src_cn_cmo_2007__Q01]]
+[[Quesiti/src_cn_cmo_2007#q01|src_cn_cmo_2007__Q01]]
 
 
 
@@ -53,7 +53,7 @@ level: China Mathematical Olympiad
 > 
 > Here $(x, y)$ denotes the greatest common divisor of positive integers $x$ and $y$.
 
-![[src_cn_b07_w62__Q02.png]]
+![[src_cn_b07_w62__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
@@ -75,9 +75,9 @@ level: China Mathematical Olympiad
 > 
 > Qui $(x, y)$ indica il più grande divisore comune degli integri positivi $x$ e $y$.
 
-![[src_cn_b07_w62__Q02.png]]
+![[src_cn_b07_w62__q02.png]]
 
-[[src_cn_cmo_2007__Q02]]
+[[Quesiti/src_cn_cmo_2007#q02|src_cn_cmo_2007__Q02]]
 
 
 
@@ -116,7 +116,7 @@ level: China Mathematical Olympiad
 > 
 > (Nota: supponiamo che $x_1, x_2, \cdots, x_{2007}$ sia una permutazione di $1, 2, \cdots, 2007$. Lo chiamiamo una permutazione pari se $\prod_{1 \leq i < j \leq 2007}(x_i - x_j) > 0$ ($< 0$), e altrimenti una permutazione pari.)
 
-[[src_cn_cmo_2007__Q03]]
+[[Quesiti/src_cn_cmo_2007#q03|src_cn_cmo_2007__Q03]]
 
 
 
@@ -143,7 +143,7 @@ level: China Mathematical Olympiad
 
 > Supponiamo che i punti $O$ e $I$ siano rispettivamente il circoncentro e l'incentro di $\triangle ABC$, e che il cerchio di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ rispettivamente ai punti $D$, $E$ e $F$. Le linee $FD$ e $CA$ sono intercettate al punto $P$, mentre le linee $DE$ e $AB$ sono intercettate al punto $Q$. E i punti $M$ e $N$ sono il punto medio dei segmenti $PE$ e $QF$ rispettivamente. Provare che $OI \perp MN$.
 
-[[src_cn_cmo_2007__Q04]]
+[[Quesiti/src_cn_cmo_2007#q04|src_cn_cmo_2007__Q04]]
 
 
 
@@ -170,7 +170,7 @@ level: China Mathematical Olympiad
 
 > Supponiamo che una sequenza di numeri limitata $\{a_n\}$ soddisfi $$a_n \leq \sum_{k=n}^{2n+2006} \frac{a_k}{k+1}, \quad n = 1, 2, 3, \cdots.$$ Provi che $a_n < \frac{1}{n}$, $n = 1, 2, 3, \cdots$.
 
-[[src_cn_cmo_2007__Q05]]
+[[Quesiti/src_cn_cmo_2007#q05|src_cn_cmo_2007__Q05]]
 
 
 
@@ -199,4 +199,4 @@ level: China Mathematical Olympiad
 > Trovare il più piccolo intero positivo $n \geq 9$ che soddisfi che per qualsiasi gruppo di numeri interi $a_1, a_2, \cdots, a_n$, esiste sempre $b_1, b_2, \cdots, b_n \in \{4, 7\}$ tale che $9 \mid (a_1 b_1 + a_2 b_2 + \cdots + a_n b_n)$.
 
 **Risposta:** 13
-[[src_cn_cmo_2007__Q06]]
+[[Quesiti/src_cn_cmo_2007#q06|src_cn_cmo_2007__Q06]]

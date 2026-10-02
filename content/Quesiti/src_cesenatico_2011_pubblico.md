@@ -40,7 +40,7 @@ level: gara del pubblico
 > Concerto in D minor [15] The bardo Assuranceturing, as he cannot sing in public without ending up tied up like a salami, is locked in his hut to play dice. If he throws 9 Roman dice (common dice with 6 faces numbered 1 to 6), what is the probability that the sum of the outcome values is less than or equal to 31? As a response, provide the first four digits after the comma.
 
 **Answer:** 5000
-[[src_cesenatico_2011_pubblico__Q01]]
+[[Quesiti/src_cesenatico_2011_pubblico#q01|src_cesenatico_2011_pubblico__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: gara del pubblico
 > On the boat for Britannia, when Abelix asks him for information about the type of coins used on his land, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. Also, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 25 and a half pieces of copper, how many pieces of bronze does he need to reach the value of an iron barrel?
 
 **Answer:** 0006
-[[src_cesenatico_2011_pubblico__Q02]]
+[[Quesiti/src_cesenatico_2011_pubblico#q02|src_cesenatico_2011_pubblico__Q02]]
 
 
 
@@ -109,7 +109,7 @@ How to pay 4027 ingots with bronze and copper
 > An unmissable match [20] In Britannia a strange game is fashionable that is played between two teams, using balls, clubs and small arrows planted on the ground. The ticket for the final between Londinium and Cambridges costs 4027 ingots of iron (for the equivalence between the pieces see Problem 2). How many different ways, using only pieces of bronze and pieces of copper, can Cantorax pay for a ticket without having to receive the rest?
 
 **Answer:** 8906
-[[src_cesenatico_2011_pubblico__Q03]]
+[[Quesiti/src_cesenatico_2011_pubblico#q03|src_cesenatico_2011_pubblico__Q03]]
 
 
 
@@ -145,7 +145,7 @@ How to pay 4027 ingots with bronze and copper
 > An error of measurement [20] The Roman legion's camp in Britannia is an ABCD rectangle of sides BC = 250 cubits and CD = 500 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 62500 cubic metres2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
 
 **Answer:** 0500
-[[src_cesenatico_2011_pubblico__Q04]]
+[[Quesiti/src_cesenatico_2011_pubblico#q04|src_cesenatico_2011_pubblico__Q04]]
 
 
 
@@ -180,7 +180,7 @@ How to pay 4027 ingots with bronze and copper
 > Coincidence at the rock [25] The fishing village of Lessicografix received a particularly poor batch of fish from Lutezia, so much so that these fish are red, yellow, blue, green... But often they are one color on one side and another on the other (while the individual sides are monochrome). The village children made fun of him, stealing 24 fish to hide them: 4 red and green, 3 green and blue, 5 yellow and blue, 5 yellow and red, 4 yellow and green and 3 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish emerge from a bush not far away: what is the probability that the fish is completely yellow? As a response, provide the first four digits after the comma.
 
 **Answer:** 3000
-[[src_cesenatico_2011_pubblico__Q05]]
+[[Quesiti/src_cesenatico_2011_pubblico#q05|src_cesenatico_2011_pubblico__Q05]]
 
 
 
@@ -213,7 +213,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > The seventh sesterce [30] The bardo Assuranceturing composed a new ballad to celebrate the departure for Britannia. Since he loves to overdo it, instead of the classic stanza 44 Galli in line for 6 with the rest of 2 he decided to sing 1!+2!+3!+4!+·+2011! Britons in line for 4800 with the rest of the k. Obviously, he's tied up and beaten up before he can finish, and Borelix wonders, who knows what the value of k would have been?
 
 **Answer:** 1113
-[[src_cesenatico_2011_pubblico__Q06]]
+[[Quesiti/src_cesenatico_2011_pubblico#q06|src_cesenatico_2011_pubblico__Q06]]
 
 
 
@@ -248,7 +248,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > A quick deception [35] Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she does not believe them and subjects them to the terrible Fatiches. If they overcome them with the grace of the gods, they'll have the Queen's too. Fatica I is a 200-lap race on the track. Abelix, the Greek champion Velocipedos and the Roman champion Dopatus are taking part. On the way, they all start together from the same point on the track, running counter-clockwise at a constant speed. Abelix takes 120 seconds, Velocipedos 75 seconds and Dopatus (who secretly stole and drank some magic potion and will be disqualified after arrival) only 39 seconds. How many seconds from the start will all three athletes be back side by side for the first time?
 
 **Answer:** 2600
-[[src_cesenatico_2011_pubblico__Q07]]
+[[Quesiti/src_cesenatico_2011_pubblico#q07|src_cesenatico_2011_pubblico__Q07]]
 
 
 
@@ -289,7 +289,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > 2/2 Team competition 2011  Public competition  Problem texts
 
 **Answer:** 0039
-[[src_cesenatico_2011_pubblico__Q08]]
+[[Quesiti/src_cesenatico_2011_pubblico#q08|src_cesenatico_2011_pubblico__Q08]]
 
 
 
@@ -323,7 +323,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > A wonder of the world, Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of 125 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 235 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
 
 **Answer:** 1214
-[[src_cesenatico_2011_pubblico__Q09]]
+[[Quesiti/src_cesenatico_2011_pubblico#q09|src_cesenatico_2011_pubblico__Q09]]
 
 
 
@@ -357,7 +357,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > An unusual climb [40] The third and final difficulty imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Wise Man of the Mountain. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=2(1+x2i)−1 and burns it asking him what the sum of the digits on the base 2 of p(128 is worth. How should Abelix respond?
 
 **Answer:** 0511
-[[src_cesenatico_2011_pubblico__Q10]]
+[[Quesiti/src_cesenatico_2011_pubblico#q10|src_cesenatico_2011_pubblico__Q10]]
 
 
 
@@ -399,7 +399,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > Differences of opinion [45] The work on the construction of Cleopatra's monument has been accelerated and now there are the beauty of 12624 Egyptian workers, among whom unfortunately many Roman spies are feared to have infiltrated (but fortunately there is no longer any saboteur). When Abelix asks each of the workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the th worker speaks of Egyptians or n workers. Clearly the Egyptian workers will always tell him the truth while the Roman spies will always lie to him. How many Roman spies have infiltrated the workers?
 
 **Answer:** 5049
-[[src_cesenatico_2011_pubblico__Q11]]
+[[Quesiti/src_cesenatico_2011_pubblico#q11|src_cesenatico_2011_pubblico__Q11]]
 
 
 
@@ -434,7 +434,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 > Who told you to stop? [45] At about the time of the pennyhill, pirates spotted a ship stationed in the middle of the Mediterranean, 14 miles away from them. Tosto, they're headed there to loot her. However, in fear that (by chance) it will be populated by the usual Gauls, they proceed with extreme caution. Their approach route consists of two straight lines, orthogonal to each other, the first at 1/5 miles per hour, the second at 1/10 miles per hour. Moreover, of all the routes of this kind, they choose the slowest. How many minutes will it take the pirate ship to intercept each other (where, of course, the usual Gauls are crushing a little bit)?
 
 **Answer:** 9391
-[[src_cesenatico_2011_pubblico__Q12]]
+[[Quesiti/src_cesenatico_2011_pubblico#q12|src_cesenatico_2011_pubblico__Q12]]
 
 
 
@@ -473,7 +473,7 @@ It's likely to return to office 73 (shift)
 > With no way out [50] Abelix has to get past one of the Facies imposed by Cleopatra, he has to get a pass A-38 issued from office 73, at the palace of the Roman prefect, where the mad bureaucracy forces him to turn from one to the other of the 100 offices there (numbered 1 to 100). In fact, the prefect had previously prepared a day with tickets numbered from 1 to 100 and had one drawn from each office. Whenever Abelix asks an office for a document, the employees explain that he needs another document first, to be obtained at another office whose number they read from the ticket. Abelix regularly starts by asking for the A-38 passport at the 73 office and for a while follows the instructions, but after 900 times he is discouraged and decides to go to the tough manners with the employees of the office in front of him. What are the odds that I'll end up getting into trouble with the very employees of office 73? As a response, provide the first four digits after the comma.
 
 **Answer:** 2100
-[[src_cesenatico_2011_pubblico__Q13]]
+[[Quesiti/src_cesenatico_2011_pubblico#q13|src_cesenatico_2011_pubblico__Q13]]
 
 
 
@@ -507,7 +507,7 @@ It's likely to return to office 73 (shift)
 > A teacher in the kitchen [35] Bonferrina, the wife of the village chief, when she has to prepare the outing for the big banquet always drinks a little magic potion. Thanks to its magical effect, it is thus able to stretch it evenly with a thickness of 0.1 mm. After laying it down, he wraps it over his beloved mattress so that he can carry it comfortably to the village oven. Knowing that the paste makes a whole number of turns around the matrix, that the diameter of this roll is 65 cm and that initially the diameter of the matrix was 4 cm, find out how long the fold is in decameters.
 
 **Answer:** 0330
-[[src_cesenatico_2011_pubblico__Q14]]
+[[Quesiti/src_cesenatico_2011_pubblico#q14|src_cesenatico_2011_pubblico__Q14]]
 
 
 
@@ -541,7 +541,7 @@ The following information shall be provided for the purposes of this Regulation:
 > These Romans are First [50] In each of the four Roman encampments, Razionalorum, Realorum, Complessorum and Ciclotomicum, there is an odd first number of legionaries: S a Razionalorum, P a Realorum, Q a Complessorum and R a Ciclotomicum. To increase the efficiency of military operations, the four numbers were chosen so that S−1 has P divisors, P−1 has Q divisors and Q−1 has R divisors. Knowing that, in total, the Roman legionaries are the smallest possible number, what are the last four digits of the SPQR product?
 
 **Answer:** 1935
-[[src_cesenatico_2011_pubblico__Q15]]
+[[Quesiti/src_cesenatico_2011_pubblico#q15|src_cesenatico_2011_pubblico__Q15]]
 
 
 
@@ -586,4 +586,4 @@ The following information shall be provided for the purposes of this Regulation:
 > This year's event is the 12th national team competition. Problem Points
 
 **Answer:** 1167
-[[src_cesenatico_2011_pubblico__Q16]]
+[[Quesiti/src_cesenatico_2011_pubblico#q16|src_cesenatico_2011_pubblico__Q16]]

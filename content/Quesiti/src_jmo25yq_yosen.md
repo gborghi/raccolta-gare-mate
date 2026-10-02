@@ -35,7 +35,7 @@ level: JMO Yosen
 > Quanti divisori positivi di $6000$ non sono quadrati perfetti?
 
 **Risposta:** 34
-[[src_jmo25yq_yosen__Q01]]
+[[Quesiti/src_jmo25yq_yosen#q01|src_jmo25yq_yosen__Q01]]
 
 
 
@@ -50,7 +50,7 @@ level: JMO Yosen
 > 
 > (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jmo25yq_yosen__Q02.png]]
+![[src_jmo25yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -69,10 +69,10 @@ level: JMO Yosen
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo25yq_yosen__Q02.png]]
+![[src_jmo25yq_yosen__q02.png]]
 
 **Risposta:** 2\sqrt{3}
-[[src_jmo25yq_yosen__Q02]]
+[[Quesiti/src_jmo25yq_yosen#q02|src_jmo25yq_yosen__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: JMO Yosen
 > I numeri interi positivi $a, b, c, d, e$ soddisfano $$a < b < c < d < e < a^2 < b^2 < c^2 < d^2 < e^2 < b^3 < c^3 < d^3 < e^3.$$ Trovare il valore minimo possibile di $a + b + c + d + e$.
 
 **Risposta:** 35
-[[src_jmo25yq_yosen__Q03]]
+[[Quesiti/src_jmo25yq_yosen#q03|src_jmo25yq_yosen__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: JMO Yosen
 > In quanti modi possiamo scrivere i numeri interi $1, 2, \ldots, 9$ (ciascuno esattamente una volta) nelle celle di una griglia $3 \times 3$ in modo che la somma dei tre numeri in ogni riga e ogni colonna sia divisibile da $3$? (Le disposizioni relative alla rotazione o alla riflessione si contano come distinte.)
 
 **Risposta:** 5184
-[[src_jmo25yq_yosen__Q04]]
+[[Quesiti/src_jmo25yq_yosen#q04|src_jmo25yq_yosen__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: JMO Yosen
 > Esprimere la seguente quantità nella forma $a + b\sqrt{2}$, dove $a$ e $b$ sono numeri razionali: $$\frac{(1 \times 4 + \sqrt{2})(2 \times 5 + \sqrt{2}) \cdots (10 \times 13 + \sqrt{2})}{(2 \times 2 - 2)(3 \times 3 - 2) \cdots (11 \times 11 - 2)}.$$
 
 **Risposta:** 11 + 5\sqrt{2}
-[[src_jmo25yq_yosen__Q05]]
+[[Quesiti/src_jmo25yq_yosen#q05|src_jmo25yq_yosen__Q05]]
 
 
 
@@ -198,7 +198,7 @@ level: JMO Yosen
 > I numeri interi positivi $a, b, c$ soddisfano tutte e quattro le seguenti condizioni: \begin{itemize} \item $\gcd(a, b, c) = 1$, \item $\gcd(a, b) + c > 1$, \item $\gcd(b, c) + a > 1$, \item $\gcd(c, a) + b > 1$. \end{itemize} Trova il valore minimo di $a + b + c$.
 
 **Risposta:** 30
-[[src_jmo25yq_yosen__Q06]]
+[[Quesiti/src_jmo25yq_yosen#q06|src_jmo25yq_yosen__Q06]]
 
 
 
@@ -227,7 +227,7 @@ level: JMO Yosen
 > Considerare i punti della griglia $(m, n)$ con $m = 1, 2, \ldots, 20$ e $n = 1, 2, \ldots, 15$. Per ciascun punto, si considera il segmento di linea dall'origine $O = (0, 0)$ a $(m, n)$. Chiamare tale segmento \emph{good} se il segmento aperto da $O$ a $(m,n)$ contiene al massimo un punto reticolo (cioè\ un punto con entrambe le coordinate interi positivi). Quanti buoni segmenti ci sono? (Qui un punto di laminazione è un punto le cui coordinate sono enteri; i segmenti paralleli agli assi di coordinate sono esclusi.)
 
 **Risposta:** 212
-[[src_jmo25yq_yosen__Q07]]
+[[Quesiti/src_jmo25yq_yosen#q07|src_jmo25yq_yosen__Q07]]
 
 
 
@@ -260,7 +260,7 @@ level: JMO Yosen
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{55\sqrt{7}}{14}
-[[src_jmo25yq_yosen__Q08]]
+[[Quesiti/src_jmo25yq_yosen#q08|src_jmo25yq_yosen__Q08]]
 
 
 
@@ -289,7 +289,7 @@ level: JMO Yosen
 > Considera una sequenza di integri $3 \times 2015 = 6030$ in cui ciascuno degli integri $1, 2, \ldots, 2015$ appare esattamente tre volte. Una \emph{half-sequence} è una selezione ordinata dei termini $2015$ di questa sequenza (ordine conservante) pensato come una subsequenza. Due semiseguenze sono considerate uguali se sono costituite dagli stessi numeri interi nello stesso ordine (anche se scelte da posizioni diverse). Su tutte le scelte della sequenza originale, trovare il numero massimo di semissequenze distinte.
 
 **Risposta:** \binom{4030}{2015} - 2015
-[[src_jmo25yq_yosen__Q09]]
+[[Quesiti/src_jmo25yq_yosen#q09|src_jmo25yq_yosen__Q09]]
 
 
 
@@ -318,7 +318,7 @@ level: JMO Yosen
 > Considerare la seguente operazione sui numeri interi positivi: rimuovere la cifra unità $d$ del numero e aggiungere $4d$ al numero rimanente (cioè, se $n = 10q + d$ con $0 \le d \le 9$, sostituire $n$ con $q + 4d$). Ad esempio, $7 \mapsto 0 + 4 \times 7 = 28$ e $139 \mapsto 13 + 4 \times 9 = 49$. A partire da $25^{2015}$, applicare successivamente questa operazione $10000$ volte. Tra i numeri $10001$ della sequenza (compreso il valore di partenza $25^{2015}$), quanti sono uguali $25^{2015}$?
 
 **Risposta:** 4
-[[src_jmo25yq_yosen__Q10]]
+[[Quesiti/src_jmo25yq_yosen#q10|src_jmo25yq_yosen__Q10]]
 
 
 
@@ -347,7 +347,7 @@ level: JMO Yosen
 > Che $\triangle ABC$ sia un triangolo inciso in un cerchio. Il $A'$ deve essere il punto medio dell'arco $BC$ senza $A$, il $B'$ deve essere il punto medio dell'arco $CA$ senza $B$ e il $C'$ deve essere il punto medio dell'arco $AB$ senza $C$. Le superfici di $\triangle A'B'C'$, $\triangle AB'C'$ e $\triangle A'BC'$ sono rispettivamente $2$, $3$ e $4$. Trova la superficie di $\triangle ABC$.
 
 **Risposta:** \dfrac{288}{35}
-[[src_jmo25yq_yosen__Q11]]
+[[Quesiti/src_jmo25yq_yosen#q11|src_jmo25yq_yosen__Q11]]
 
 
 
@@ -380,4 +380,4 @@ level: JMO Yosen
 > (Qui $[r]$ indica il più grande numero intero non superiore al numero reale $r$.)
 
 **Risposta:** \dfrac{1}{36}
-[[src_jmo25yq_yosen__Q12]]
+[[Quesiti/src_jmo25yq_yosen#q12|src_jmo25yq_yosen__Q12]]

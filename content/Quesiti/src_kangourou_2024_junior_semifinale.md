@@ -54,7 +54,7 @@ level: kangourou
 > C) B = (A + C) / 2 D) B = 2 (A + C) / 3 E) B = 3 (A + C) / 5 Answer B). I'm not alone. The areas for which the letters are not indicated must be B + D = A + E + C = B + E (each kangaroo has half of the park available). From the second equation it follows that it is still true B). It is trivial to find examples in which A) is false.
 
 **Answer:** B
-[[src_kangourou_2024_junior_semifinale__Q01]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q01|src_kangourou_2024_junior_semifinale__Q01]]
 
 
 
@@ -136,7 +136,7 @@ level: kangourou
 > (Points 3) The figure shows a regular octagon and a square inscribed in it, whose vertices are four of the vertices of the octagon. The area of the square is 2. How much is the area of the octagon? (A) 1 + √2 B) 5/2 C) 2√2 D) 3 E) 3√2  1 Answer C). The solution. The side of the square measures √2 and its diagonal measures 2. The octagon can be expressed as the union of the eight isosceles triangles that are obtained by joining the vertices with the center, whose congruent sides are half the square's diagonal and so measure 1 and whose height relative to those sides is half the square's side and so is √2/2. The area of each triangle is then √2/4.
 
 **Answer:** C
-[[src_kangourou_2024_junior_semifinale__Q02]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q02|src_kangourou_2024_junior_semifinale__Q02]]
 
 
 
@@ -169,7 +169,7 @@ level: kangourou
 > (Points 3) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). The solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
 
 **Answer:** D
-[[src_kangourou_2024_junior_semifinale__Q03]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q03|src_kangourou_2024_junior_semifinale__Q03]]
 
 
 
@@ -207,7 +207,7 @@ Maximum number of Spaniards with 143 handshakes
 > (Point 4) At a party at the Italian Embassy a number of Spaniards and some Frenchmen were invited, more than one for each nationality and more than one Italianman was also present. Every Italian welcomes every foreign guest once and only once with a handshake and there are no other handshakes: in the end, the handshakes total 143. How many Spaniards could there be at most? A) 7 B) 8 C) 9 D) 10 E) 11 Answer: E). The solution. The number of handshakes is the product of the number of Italians with the sum of the number of Spaniards and the number of Frenchmen. If we want to express 143 as the product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first is to be ruled out as a hypothesis. So the foreigners could be a maximum of 13 and then the Spanish a maximum of 13  2 = 11.
 
 **Answer:** E
-[[src_kangourou_2024_junior_semifinale__Q04]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q04|src_kangourou_2024_junior_semifinale__Q04]]
 
 
 
@@ -242,7 +242,7 @@ Maximum number of Spaniards with 143 handshakes
 > A father divides between his three children, aged 8, 12 and 18, the sum of $380 into parts that are inversely proportional to their age. The three children agree to give a gift to the mother and divide the cost of the €304 into parts directly proportional to the figures received from the father. How much is left for the eldest son? (A) 16 (B) 15 (C) 12 (D) 18 (E) 20 Answer A) The solution. If 1 is made, the amount for a 12-year-old child, for an 8-year-old child, it is 3/2, and for an 18-year-old, it is 2/3, so in increasing age order, it is 180, 120 and 80 euros. The breakdown of EUR 304, now in parts directly proportional to these amounts, is therefore in the same order as EUR 144, 96 and 64.
 
 **Answer:** A
-[[src_kangourou_2024_junior_semifinale__Q05]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q05|src_kangourou_2024_junior_semifinale__Q05]]
 
 
 
@@ -284,7 +284,7 @@ The probability that the diamond is in box 9
 > (Points 4) 10 numbered boxes are lined up in front of me, each containing a diamond. From the information I received, box no. 10 has a 2/5 chance of containing the diamond, the remaining boxes all have the same chance. I just opened the first three boxes and I couldn't find the diamond. At this point, what is the probability that the diamond is in box n? 9? (a) 1/15 (b) 3/5 (c) 1/10 (d) 1/5 (e) None of the above. Answer: C) or E). The solution. The announcement, with the choice to open three boxes which are part of the block of the first nine equally likely, allows the tenth box to be excluded from the effect of the information obtained. The 3/5 probability that the diamond is not in box n. 10 is therefore now concentrated in the 6 boxes from the fourth to the ninth inclusive, and equally distributed among them. However, it is also advisable to ignore the above consideration and consider the alternative model which provides for a mass of 15/15 to be spread on the boxes as follows: 1/15 in each of the boxes from the first to the ninth and 6/15 in the tenth. Thus the opening of the first three boxes reduces to 6/15 the mass present in the fourth to the ninth boxes. Events The diamond is in some box from the fourth to the ninth and The diamond is in the tenth box are therefore equally likely, disjoint and exhaustive: the answer is then (1/6) × (1/2) = 1/12.
 
 **Answer:** C
-[[src_kangourou_2024_junior_semifinale__Q06]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q06|src_kangourou_2024_junior_semifinale__Q06]]
 
 
 
@@ -318,7 +318,7 @@ This is the total amount of unemployment in the Union as defined in point (a) of
 > (Points 5) What is the unit number of the number 20232024  20232023? A) 0 B) 2 C) 4 D) 6 E) 8 Answer: C). The solution. This number corresponds to 2022 × 20232023. The units of the positive integers of 3, starting with the first, follow each other with a period of 3, 9, 7, 1 of length four: the same is evidently true for the positive integers of any number whose unit number is 3. You have 2023 = 505 × 4 + 3: so that of 20232023 is 7.
 
 **Answer:** C
-[[src_kangourou_2024_junior_semifinale__Q07]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q07|src_kangourou_2024_junior_semifinale__Q07]]
 
 
 
@@ -354,7 +354,7 @@ Because a square of whole coordinates cannot have an area of 27
 > In the Cartesian plane, consider a square Q whose vertices have, each, both integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is a whole odd. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason. Answer: B). The solution. For Pythagoras' theorem, the square of the measure of the side of Q must be the sum of two perfect squares. The other four statements are easily refutable (to refute C it is enough, for example, to assume that two adjacent vertices of Q are the points (0, 2) and (2, 0)).
 
 **Answer:** B
-[[src_kangourou_2024_junior_semifinale__Q08]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q08|src_kangourou_2024_junior_semifinale__Q08]]
 
 
 
@@ -383,7 +383,7 @@ What day does Charles' birthday fall on?
 > On alternate days, Charles tells the truth or lies for the whole day. On the day of his fifteenth birthday, Charles made the following three statements:
 
 **Answer:** E
-[[src_kangourou_2024_junior_semifinale__Q09]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q09|src_kangourou_2024_junior_semifinale__Q09]]
 
 
 
@@ -412,7 +412,7 @@ What day does Charles' birthday fall on?
 > 10. (Points 4) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? The answer is: 0001. The solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are required: (18, 7), (17, 8), (16, 9); furthermore, since 9  2 = 7, coupling (2, 14) is also required. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
 
 **Answer:** 0001
-[[src_kangourou_2024_junior_semifinale__Q10]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q10|src_kangourou_2024_junior_semifinale__Q10]]
 
 
 
@@ -444,7 +444,7 @@ What day does Charles' birthday fall on?
 > In the figure you can see an isolated L-shaped brick obtained from a 1 cm side cube by removing a parallel piped, in centimetres, $\frac{1}{2}$, $\frac{1}{2}$ and $1$. By joining 4 of these bricks with 10 cubes on side 1, you get the centrally symmetrical solid you see in the figure. What is its surface area in square centimeters? (see figure)
 
 **Answer:** 0042
-[[src_kangourou_2024_junior_semifinale__Q11]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q11|src_kangourou_2024_junior_semifinale__Q11]]
 
 
 
@@ -473,7 +473,7 @@ What day does Charles' birthday fall on?
 > 12. (Points 5) Three integers a, b, c are such that 1 ≤ a ≤ b ≤ c and ab + ac + bc = abc. How much can c be worth at most? The answer is: 0006. The solution. Since the three numbers are different from 0, dividing the two members by abc the second condition can be written in the form (1/c) + (1/b) + (1/a) = 1. So it's clear that for c to be as big as possible, a and b have to be as small as possible. Neither can be 1 and a = b = 2 is not acceptable, but they are a = 2 and b = 3 or vice versa: in both cases c must be 6.
 
 **Answer:** 0006
-[[src_kangourou_2024_junior_semifinale__Q12]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q12|src_kangourou_2024_junior_semifinale__Q12]]
 
 
 
@@ -501,7 +501,7 @@ What day does Charles' birthday fall on?
 > 13. (Points 6) I want to express as many integers as possible using only the number 4 and exactly four times. I can approach the number 4 several times, use the four arithmetic operations, and arrange brackets in the ways that I think are appropriate. For example, I can write 0 = 4  4 + 4  4, or 15 = 44/4 + 4, or 160 = (44  4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
 **Answer:** 0011
-[[src_kangourou_2024_junior_semifinale__Q13]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q13|src_kangourou_2024_junior_semifinale__Q13]]
 
 
 
@@ -529,7 +529,7 @@ For how many seconds Aldo is waiting for Bernardo
 > 14. The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle have a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. How many seconds will you have to wait for him? The answer is 0225. The solution. The ratio of the lengths of the beams (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
 
 **Answer:** 0225
-[[src_kangourou_2024_junior_semifinale__Q14]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q14|src_kangourou_2024_junior_semifinale__Q14]]
 
 
 
@@ -558,7 +558,7 @@ For how many seconds Aldo is waiting for Bernardo
 > 15. (Points 6) Of how many positive integers is the number 17 the greatest proper divisor? The answer is: 0007. The solution. 17 is the divisor of any integer of type 17 × k with positive integer k. For it to be the largest divisor, it is clear that k ≤ 17 must be. It is also clear that all prime numbers not greater than 17 are acceptable. No other k can be: every non-prime divisor greater than 1 would give a divisor of 17 × k greater than 17.
 
 **Answer:** 0007
-[[src_kangourou_2024_junior_semifinale__Q15]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q15|src_kangourou_2024_junior_semifinale__Q15]]
 
 
 
@@ -587,7 +587,7 @@ For how many seconds Aldo is waiting for Bernardo
 > 16. (Points 7) Assigned to a convex polygon of n sides (n > 3), we indicate with Sn the number of its diagonal. What is the smallest value of n such that Sn + Sn  1 > 2024? The answer is 0048. The solution. For each n > 3 we have Sn = n(n  3)/2, where Sn + Sn  1 = $n^{2}$ 4n + 2. In order to have $n^{2}$ 4n  2022 > 0 must be n > 2 + √2026. The first perfect square greater than 2026 is 2116 = $46^{2}$.
 
 **Answer:** 0048
-[[src_kangourou_2024_junior_semifinale__Q16]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q16|src_kangourou_2024_junior_semifinale__Q16]]
 
 
 
@@ -616,7 +616,7 @@ For how many seconds Aldo is waiting for Bernardo
 > 17. (Points 7) Adding the cubes of some consecutive positive integers gives us a result of 2024. How much is the product of the first with the last of these integers? The answer is 0018. The solution. A well-known theorem states that, for every positive integer n, the sum of the cubes of the first positive integers coincides with the square of the sum of these first n integers. The sum of the first n positive integers is n(n + 1)/2: quickly finds then that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers 2 through 9.
 
 **Answer:** 0018
-[[src_kangourou_2024_junior_semifinale__Q17]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q17|src_kangourou_2024_junior_semifinale__Q17]]
 
 
 
@@ -644,4 +644,4 @@ For how many seconds Aldo is waiting for Bernardo
 > In a bag there are some green and some red balls. The probability that they are both of the same colour is $\dfrac{13}{24}$. How many eggs can there be in the bag at least?
 
 **Answer:** 0016
-[[src_kangourou_2024_junior_semifinale__Q18]]
+[[Quesiti/src_kangourou_2024_junior_semifinale#q18|src_kangourou_2024_junior_semifinale__Q18]]

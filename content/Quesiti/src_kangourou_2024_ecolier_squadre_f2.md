@@ -39,7 +39,7 @@ level: squadre
 > Adam's Age Today, May 5, 2024, is Adam's birthday and, by filling out a form in which he was required to indicate his year of birth, Adam mistakenly reversed the last two digits of the year. Thus, it turns out that Adam would be 30 years old. How old is Adam? The answer is 0075.
 
 **Answer:** 0075
-[[src_kangourou_2024_ecolier_squadre_f2__Q01]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q01|src_kangourou_2024_ecolier_squadre_f2__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: squadre
 > We say a 4-digit integer is weekly if it has the following property: the product of two of its digits is equal to the sum of 7 with the product of the other two. For example, the number 2701 is weekly: in fact 7 × 1 = 7 + 2 × 0. What's the largest number of weeks? The answer is 9877.
 
 **Answer:** 9877
-[[src_kangourou_2024_ecolier_squadre_f2__Q02]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q02|src_kangourou_2024_ecolier_squadre_f2__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: squadre
 > 2024 times 2024 Consider the alignment of figures 202420242024...20242024 where the fourth order 2024 appears 2.024 times. Any block formed by any number of consecutive digits in this alignment and not beginning with 0, identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth, and so on, identifies the number 4.202.420). How many whole numbers, all different from each other, determined by allowable blocks, are divisible by 5? The answer is 6070.
 
 **Answer:** 6070
-[[src_kangourou_2024_ecolier_squadre_f2__Q03]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q03|src_kangourou_2024_ecolier_squadre_f2__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: squadre
 > Today in my dressing room there are 15 euros. Starting tomorrow, I'll give you three euros every day, but every day my brother will take four. When, at the end of a certain day, there will be 8 euros left in the savings account, how many euros will my brother have taken in? The answer is 0028.
 
 **Answer:** 0028
-[[src_kangourou_2024_ecolier_squadre_f2__Q04]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q04|src_kangourou_2024_ecolier_squadre_f2__Q04]]
 
 
 
@@ -175,7 +175,7 @@ level: squadre
 > We call the mean of two numbers half their sum. How many three-digit integers (therefore with the number of hundreds different from 0) are such that the number of tens is the average of the other two digits? The answer is 0045. The solution.
 
 **Answer:** 0045
-[[src_kangourou_2024_ecolier_squadre_f2__Q05]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q05|src_kangourou_2024_ecolier_squadre_f2__Q05]]
 
 
 
@@ -209,7 +209,7 @@ level: squadre
 > Clotilde wrote all the whole numbers from 1 to 2,024, including each one on a different note. Then he had Sandro extract one of the 2,024 tickets and Chiara one of the 2,023 remaining tickets. Finally, she added the two numbers on the extracted tickets and asked Elsa to guess the amount she got. How many numbers do you have to guess Elsa out of? Answer: 4045.
 
 **Answer:** 4045
-[[src_kangourou_2024_ecolier_squadre_f2__Q06]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q06|src_kangourou_2024_ecolier_squadre_f2__Q06]]
 
 
 
@@ -284,7 +284,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 > The gasoline with my car is at a gas station located in point A shown in the figure. Starting from A with only 6 liters of gasoline, I would stop at point B, which is 54 km from point C. Instead, with nine and a half litres, I would stop, always for lack of gasoline, at point D which is 23 km beyond point C. How many miles does my car travel with a gallon of gasoline? The answer is 0022.
 
 **Answer:** 0022
-[[src_kangourou_2024_ecolier_squadre_f2__Q07]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q07|src_kangourou_2024_ecolier_squadre_f2__Q07]]
 
 
 
@@ -316,7 +316,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 > For how many of the numbers between 10 and 99 (inclusive) does the sum of their two digits happen to be an equal number? The answer is 0045.
 
 **Answer:** 0045
-[[src_kangourou_2024_ecolier_squadre_f2__Q08]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q08|src_kangourou_2024_ecolier_squadre_f2__Q08]]
 
 
 
@@ -348,7 +348,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 > So many multiples I wrote an integer and then double that number, and then triple, quadruple, and so on until, adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. How many numbers could I have written at most? The answer is 0127.
 
 **Answer:** 0127
-[[src_kangourou_2024_ecolier_squadre_f2__Q09]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q09|src_kangourou_2024_ecolier_squadre_f2__Q09]]
 
 
 
@@ -379,7 +379,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 > Novelist One has published seven novels, one every two years. Adding up the years in which his novels were published, you get 13,804. In what year did you publish your first novel? The answer is 1966.
 
 **Answer:** 1966
-[[src_kangourou_2024_ecolier_squadre_f2__Q10]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q10|src_kangourou_2024_ecolier_squadre_f2__Q10]]
 
 
 
@@ -410,7 +410,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 > Odd numbers How many integers between 1,000 and 4,000 are composed of odd numbers only? The answer is 0250.
 
 **Answer:** 0250
-[[src_kangourou_2024_ecolier_squadre_f2__Q11]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q11|src_kangourou_2024_ecolier_squadre_f2__Q11]]
 
 
 
@@ -455,4 +455,4 @@ The amount of fuel used shall be calculated on the basis of the following inform
 > So, out of these, determine the smallest one that's divisible by 3 and write the first four digits on the left. The answer is 3703.
 
 **Answer:** 3703
-[[src_kangourou_2024_ecolier_squadre_f2__Q12]]
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q12|src_kangourou_2024_ecolier_squadre_f2__Q12]]

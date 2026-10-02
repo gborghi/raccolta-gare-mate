@@ -34,7 +34,7 @@ level: IMO
 
 > Determine all values of $x$ in the $0 \leq x \leq 2\pi$ range that satisfy the inequality $$2\cos x \leq \left|\sqrt{1+\sin 2x} - \sqrt{1-\sin 2x}\right| \leq \sqrt{2}.$$
 
-[[src_imo_1965_all__Q01]]
+[[Quesiti/src_imo_1965_all#q01|src_imo_1965_all__Q01]]
 
 
 
@@ -99,7 +99,7 @@ level: IMO
 > 
 > 1965/6. In a plane a set of n points (n ≥3) is given. Each pair of points is connected by a segment. Let d be the length of the longest of these segments. We define a diameter of the set to be any connecting segment of length d. Prove that the number of diameters of the given set is at most n.
 
-[[src_imo_1965_all__Q02]]
+[[Quesiti/src_imo_1965_all#q02|src_imo_1965_all__Q02]]
 
 
 
@@ -125,7 +125,7 @@ level: IMO
 
 > Given the tetrahedron $ABCD$ whose beams $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the straight lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. The $ABCD$ tetrahedron is divided into two solids by the $\varepsilon$ plane, parallel to the $AB$ and $CD$ lines. The ratio of $\varepsilon$ to $AB$ and $CD$ is equal to $k$. Calculate the ratio of the volumes of the two solids obtained.
 
-[[src_imo_1965_all__Q03]]
+[[Quesiti/src_imo_1965_all#q03|src_imo_1965_all__Q03]]
 
 
 
@@ -151,7 +151,7 @@ level: IMO
 
 > Find all sets of four real numbers $x_1, x_2, x_3, x_4$ such that the sum of each of them and the product of the other three is $2$.
 
-[[src_imo_1965_all__Q04]]
+[[Quesiti/src_imo_1965_all#q04|src_imo_1965_all__Q04]]
 
 
 
@@ -178,7 +178,7 @@ level: IMO
 
 > Consider the $OAB$ triangle with a sharp angle $AOB$. For a point $M \neq O$ the perpendiculars to $OA$ and to $OB$ shall be drawn, the feet of which are $P$ and $Q$ respectively. The height intersection point of the $OPQ$ triangle is $H$. What is the geometric location of $H$ if $M$ varies on: (a) the side $AB$; (b) the inside of the $OAB$ triangle?
 
-[[src_imo_1965_all__Q05]]
+[[Quesiti/src_imo_1965_all#q05|src_imo_1965_all__Q05]]
 
 
 
@@ -204,4 +204,4 @@ level: IMO
 
 > A set of $n$ points ($n \geq 3$) is given in a plane. Each pair of points is connected by a segment. Whether $d$ the length of the longest of these segments. The diameter of the assembly of any length $d$ link segment is defined. Demonstrate that the number of diameters of the given set is at most $n$.
 
-[[src_imo_1965_all__Q06]]
+[[Quesiti/src_imo_1965_all#q06|src_imo_1965_all__Q06]]

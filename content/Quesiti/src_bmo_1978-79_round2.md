@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > $a$, $b$, $c$, $d$ sono diversi numeri reali positivi. Prove che se almeno uno dei numeri $a$ e $b$ si trova tra i numeri $c$ e $d$, o almeno uno dei numeri $c$ e $d$ si trova tra i numeri $a$ e $b$, allora $$(*) \quad \sqrt{(a+b)(c+d)} > \sqrt{ac} + \sqrt{bd}.$$ dimostra altrimenti che i quattro numeri possono essere scelti in modo tale che $(*)$ sia falso.
 
-[[src_bmo_1978-79_round2__Q01]]
+[[Quesiti/src_bmo_1978-79_round2#q01|src_bmo_1978-79_round2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > Due triangoli equilaterali hanno un vertice comune $C$. Attorno a ciascun triangolo in direzione contraria al senso orario, i vertici sono scritti $C$, $A$, $B$ e $C$, $A'$, $B'$. $O$ è il centro del triangolo $CAB$ e né $A'$ né $B'$ coincidono con $O$. $M$ è il punto medio di $AB'$. Prove che i triangoli $CB'O$ e $CA'M$ sono simili.
 
-[[src_bmo_1978-79_round2__Q02]]
+[[Quesiti/src_bmo_1978-79_round2#q02|src_bmo_1978-79_round2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 2
 
 > Considera la sequenza $a_n$ ($n \ge 1$) definita da $$a_1 = 1979, \quad a_{n+1} = \left[\tfrac{1}{2}(a_1 + a_2 + \cdots + a_n)\right] \quad (n \ge 1),$$ dove $[x]$ indica il numero intero più grande non superiore a $x$. (ad esempio $[3] = 3$ e $[5] = 5$.) Determinare $a_{1979}$.
 
-[[src_bmo_1978-79_round2__Q03]]
+[[Quesiti/src_bmo_1978-79_round2#q03|src_bmo_1978-79_round2__Q03]]
 
 
 
@@ -119,4 +119,4 @@ level: BMO Round 2
 
 > $b(k)$ indichi il numero di $1$ nell'espansione binaria del numero intero non negativo $k$. Ad esempio $b(13) = 3$ poiché $13$ è $1101$ in notazione binaria. Prova che per tutti gli integri positivi $n$, $$\sum_{k=0}^{2^n - 1} (-1)^{b(k)} k^n = (-1)^n (n!).$$
 
-[[src_bmo_1978-79_round2__Q04]]
+[[Quesiti/src_bmo_1978-79_round2#q04|src_bmo_1978-79_round2__Q04]]

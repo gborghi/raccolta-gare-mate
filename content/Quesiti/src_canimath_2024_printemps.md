@@ -38,7 +38,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista.*
 
 **Risposta:** 42
-[[src_canimath_2024_printemps__Q01]]
+[[Quesiti/src_canimath_2024_printemps#q01|src_canimath_2024_printemps__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: Coupe Animath Printemps
 
 > $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
 
-[[src_canimath_2024_printemps__Q02]]
+[[Quesiti/src_canimath_2024_printemps#q02|src_canimath_2024_printemps__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: Coupe Animath Printemps
 > Determinare il più piccolo intero positivo $n$ in modo tale che il prodotto di $n$ interi positivi consecutivi sia sempre divisibile per 45.
 
 **Risposta:** 6
-[[src_canimath_2024_printemps__Q03]]
+[[Quesiti/src_canimath_2024_printemps#q03|src_canimath_2024_printemps__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-[[src_canimath_2024_printemps__Q04]]
+[[Quesiti/src_canimath_2024_printemps#q04|src_canimath_2024_printemps__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: Coupe Animath Printemps
 > 
 > Mostrare che tra due città è sempre possibile viaggiare da una ad un'altra utilizzando solo strade di cemento e passando per un massimo di due città intermedi.
 
-[[src_canimath_2024_printemps__Q05]]
+[[Quesiti/src_canimath_2024_printemps#q05|src_canimath_2024_printemps__Q05]]
 
 
 
@@ -191,7 +191,7 @@ level: Coupe Animath Printemps
 
 > Lasciate che $x, y, z$ siano tre numeri reali non zero (non necessariamente positivi) in modo tale che $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$ Trova tutti i valori che il numero $$\frac{(x+y)(y+z)(z+x)}{xyz}$$ può prendere.
 
-[[src_canimath_2024_printemps__Q06]]
+[[Quesiti/src_canimath_2024_printemps#q06|src_canimath_2024_printemps__Q06]]
 
 
 
@@ -222,7 +222,7 @@ level: Coupe Animath Printemps
 > 
 > Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GBA}$.
 
-[[src_canimath_2024_printemps__Q07]]
+[[Quesiti/src_canimath_2024_printemps#q07|src_canimath_2024_printemps__Q07]]
 
 
 
@@ -255,7 +255,7 @@ level: Coupe Animath Printemps
 > *Solo una risposta numerica è prevista.*
 
 **Risposta:** 1
-[[src_canimath_2024_printemps__Q08]]
+[[Quesiti/src_canimath_2024_printemps#q08|src_canimath_2024_printemps__Q08]]
 
 
 
@@ -281,7 +281,7 @@ level: Coupe Animath Printemps
 
 > Che $a$, $b$ e $c$ siano tre reali che soddisfano entrambe le equazioni $4a + 3b = c$ e $3a - 4b = 7c$. Mostra che $a^2 + b^2 = 2c^2$.
 
-[[src_canimath_2024_printemps__Q09]]
+[[Quesiti/src_canimath_2024_printemps#q09|src_canimath_2024_printemps__Q09]]
 
 
 
@@ -308,7 +308,7 @@ level: Coupe Animath Printemps
 
 > Lasciate che $ABC$ sia un triangolo non piatto. $I$ sia il centro del suo cerchio inscritto e $D$ il punto di intersezione del bisettore di angolo $\widehat{BAC}$ con il segmento $[BC]$. Mostra che $\widehat{BID} \ge 90^\circ$.
 
-[[src_canimath_2024_printemps__Q10]]
+[[Quesiti/src_canimath_2024_printemps#q10|src_canimath_2024_printemps__Q10]]
 
 
 
@@ -343,7 +343,7 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-[[src_canimath_2024_printemps__Q11]]
+[[Quesiti/src_canimath_2024_printemps#q11|src_canimath_2024_printemps__Q11]]
 
 
 
@@ -370,7 +370,7 @@ level: Coupe Animath Printemps
 
 > Determinare tutti i numeri primi $p$ che soddisfano la seguente proprietà: se si scrivono i numeri interi da $1$ a $p$ su una tavola, si possono separare in diversi gruppi in cui la somma dei numeri interi in ogni gruppo è la stessa, e all'interno di ciascun gruppo i numeri interi formano un insieme di numeri interi consecutivi.
 
-[[src_canimath_2024_printemps__Q12]]
+[[Quesiti/src_canimath_2024_printemps#q12|src_canimath_2024_printemps__Q12]]
 
 
 
@@ -401,7 +401,7 @@ level: Coupe Animath Printemps
 > 
 > Un *colore di scacchiatura* è un colore in cui due celle che condividono un lato hanno sempre colori diversi.
 
-[[src_canimath_2024_printemps__Q13]]
+[[Quesiti/src_canimath_2024_printemps#q13|src_canimath_2024_printemps__Q13]]
 
 
 
@@ -436,7 +436,7 @@ level: Coupe Animath Printemps
 > 
 > 2) Che $F$ sia il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Indicare che le linee $(EF)$ e $(BH)$ sono parallele.
 
-[[src_canimath_2024_printemps__Q14]]
+[[Quesiti/src_canimath_2024_printemps#q14|src_canimath_2024_printemps__Q14]]
 
 
 
@@ -467,4 +467,4 @@ level: Coupe Animath Printemps
 > 
 > Determinare, come funzione di $n$, il più grande reale $c > 0$ che soddisfi la seguente proprietà: per qualsiasi numero intero positivo $x_1, x_2, \ldots, x_n$ tale che $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, Théo può sempre organizzare le cose in modo che ogni studente riceva un regalo che gli piace (con ogni regalo che va a un studente al massimo).
 
-[[src_canimath_2024_printemps__Q15]]
+[[Quesiti/src_canimath_2024_printemps#q15|src_canimath_2024_printemps__Q15]]

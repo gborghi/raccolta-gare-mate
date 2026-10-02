@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** 40
 
 **Answer:** C
-[[src_archimede_2023_2livello__Q01]]
+[[Quesiti/src_archimede_2023_2livello#q01|src_archimede_2023_2livello__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: 2 livello
 > - **(E)** 23
 
 **Answer:** B
-[[src_archimede_2023_2livello__Q02]]
+[[Quesiti/src_archimede_2023_2livello#q02|src_archimede_2023_2livello__Q02]]
 
 
 
@@ -146,7 +146,7 @@ level: 2 livello
 > - **(E)** None of the above
 
 **Answer:** A
-[[src_archimede_2023_2livello__Q03]]
+[[Quesiti/src_archimede_2023_2livello#q03|src_archimede_2023_2livello__Q03]]
 
 
 
@@ -189,7 +189,7 @@ level: 2 livello
 > - **(E)** None of the above
 
 **Answer:** D
-[[src_archimede_2023_2livello__Q04]]
+[[Quesiti/src_archimede_2023_2livello#q04|src_archimede_2023_2livello__Q04]]
 
 
 
@@ -232,7 +232,7 @@ level: 2 livello
 > - **(E)** 39
 
 **Answer:** E
-[[src_archimede_2023_2livello__Q05]]
+[[Quesiti/src_archimede_2023_2livello#q05|src_archimede_2023_2livello__Q05]]
 
 
 
@@ -276,7 +276,7 @@ level: 2 livello
 > - **(E)** 16
 
 **Answer:** A
-[[src_archimede_2023_2livello__Q06]]
+[[Quesiti/src_archimede_2023_2livello#q06|src_archimede_2023_2livello__Q06]]
 
 
 
@@ -319,7 +319,7 @@ level: 2 livello
 > - **(E)** 25
 
 **Answer:** B
-[[src_archimede_2023_2livello__Q07]]
+[[Quesiti/src_archimede_2023_2livello#q07|src_archimede_2023_2livello__Q07]]
 
 
 
@@ -362,7 +362,7 @@ level: 2 livello
 > - **(E)** There is no plan with the required properties.
 
 **Answer:** C
-[[src_archimede_2023_2livello__Q08]]
+[[Quesiti/src_archimede_2023_2livello#q08|src_archimede_2023_2livello__Q08]]
 
 
 
@@ -407,7 +407,7 @@ level: 2 livello
 > - **(E)** 81
 
 **Answer:** C
-[[src_archimede_2023_2livello__Q09]]
+[[Quesiti/src_archimede_2023_2livello#q09|src_archimede_2023_2livello__Q09]]
 
 
 
@@ -450,7 +450,7 @@ level: 2 livello
 > - **(E)** 2 √ 22
 
 **Answer:** C
-[[src_archimede_2023_2livello__Q10]]
+[[Quesiti/src_archimede_2023_2livello#q10|src_archimede_2023_2livello__Q10]]
 
 
 
@@ -495,7 +495,7 @@ level: 2 livello
 > - **(E)** None of the above
 
 **Answer:** C
-[[src_archimede_2023_2livello__Q11]]
+[[Quesiti/src_archimede_2023_2livello#q11|src_archimede_2023_2livello__Q11]]
 
 
 
@@ -540,7 +540,7 @@ level: 2 livello
 > - **(E)** 1716 Problems with numerical answers  5 points
 
 **Answer:** D
-[[src_archimede_2023_2livello__Q12]]
+[[Quesiti/src_archimede_2023_2livello#q12|src_archimede_2023_2livello__Q12]]
 
 
 
@@ -573,7 +573,7 @@ level: 2 livello
 > Philip's living room is rectangular. Filippo noted that if he attaches the vacuum cleaner to the socket near the entrance door he can clean the entire floor: this means that all the floor points are less than 5m away from the wall where the socket is located. What is the maximum value of the living area (in m2)?
 
 **Answer:** 25
-[[src_archimede_2023_2livello__Q13]]
+[[Quesiti/src_archimede_2023_2livello#q13|src_archimede_2023_2livello__Q13]]
 
 
 
@@ -605,7 +605,7 @@ level: 2 livello
 > On one island there are 2023 Indian people in line, each of whom is a con man or a knight: the knights always tell the truth, while the con men always lie. If they are odd, the person in the eighth position exclaims: There are at least thieves; if they are even, the person in the eighth position exclaims: There are exactly thieves. How many thieves are there?
 
 **Answer:** 1348
-[[src_archimede_2023_2livello__Q14]]
+[[Quesiti/src_archimede_2023_2livello#q14|src_archimede_2023_2livello__Q14]]
 
 
 
@@ -636,7 +636,7 @@ level: 2 livello
 
 > Demonstrative Exercise Whether ABCD is an isosceles trapezoid of base major AB such that the angle bisector in D passes through B. Let's say that the intersection of the angle in A intersects the side of BC at the point P. Demonstrate that AB = AP if and only if the biset of ÷ PAD passes through C.
 
-[[src_archimede_2023_2livello__Q15]]
+[[Quesiti/src_archimede_2023_2livello#q15|src_archimede_2023_2livello__Q15]]
 
 
 
@@ -668,7 +668,7 @@ level: 2 livello
 
 > A positive integer n is said to be twice reversible of type l if there are two consecutive bases b and b + 1 such that n is represented by numeric palindromes on both base b and base b + 1. For example, 104 is double reversible type 3 because 10410 = 4045 = 2526. (a) Demonstrate that there are no double reversible type 2 numbers. (b) Demonstrate that there are infinitely many double reversibles of type 3.
 
-[[src_archimede_2023_2livello__Q16]]
+[[Quesiti/src_archimede_2023_2livello#q16|src_archimede_2023_2livello__Q16]]
 
 
 
@@ -707,4 +707,4 @@ level: 2 livello
 
 > DEMOSTRATIVE EXERCISE Given a table 2n×2n, a subset S of its boxes is said to be labyrinthine if it has the following properties: • from each S box it is possible to move to any other S box by moving only from S boxes to adjacent S boxes (horizontal or vertical, i.e. having a side in common with the box of origin); • it is not possible, starting from an S box, to return to the same box by moving only to adjacent S boxes and never crossing the same side twice. (a) Demonstrate that if S is labyrinthine then it cannot have more than 3n2 boxes; (b) Exhibit a set of 12 labyrinthine boxes for n = 2. (c) We call the perimeter of S the number of sides adjacent to at least one S box, but not to two S boxes. If S is labyrinthine and consists of k boxes, how much is its perimeter? (d) Demonstrate that there is no set of 300 labyrinth boxes if n = 10.
 
-[[src_archimede_2023_2livello__Q17]]
+[[Quesiti/src_archimede_2023_2livello#q17|src_archimede_2023_2livello__Q17]]

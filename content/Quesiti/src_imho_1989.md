@@ -41,7 +41,7 @@ Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 > 
 > (ii) The sum of all the elements in each $A_i$ is the same.
 
-[[src_imho_1989__Q01]]
+[[Quesiti/src_imho_1989#q01|src_imho_1989__Q01]]
 
 
 
@@ -76,7 +76,7 @@ Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 > 
 > (ii) The area of the triangle $A_0B_0C_0$ is at least four times the area of the triangle $ABC$.
 
-[[src_imho_1989__Q02]]
+[[Quesiti/src_imho_1989#q02|src_imho_1989__Q02]]
 
 
 
@@ -116,7 +116,7 @@ Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 > 
 > Prove that: $$k < \frac{1}{2} + \sqrt{2n}.$$
 
-[[src_imho_1989__Q03]]
+[[Quesiti/src_imho_1989#q03|src_imho_1989__Q03]]
 
 
 
@@ -144,7 +144,7 @@ Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 
 > Let $ABCD$ be a convex quadrilateral such that the sides $AB$, $AD$, $BC$ satisfy $AB = AD + BC$. There exists a point $P$ inside the quadrilateral at a distance $h$ from the line $CD$ such that $AP = h + AD$ and $BP = h + BC$. Show that:
 
-[[src_imho_1989__Q04]]
+[[Quesiti/src_imho_1989#q04|src_imho_1989__Q04]]
 
 
 
@@ -171,7 +171,7 @@ Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 
 > Prove that for every positive integer $n$ there exist $n$ consecutive positive integers none of which is an integral power of a prime number.
 
-[[src_imho_1989__Q05]]
+[[Quesiti/src_imho_1989#q05|src_imho_1989__Q05]]
 
 
 
@@ -198,4 +198,4 @@ Permutations of {1,...,2n} with property P outnumber those without*
 
 > A permutation $(x_1, x_2, \ldots, x_{2n})$ of the set $\{1, 2, \ldots, 2n\}$, where $n$ is a positive integer, is said to have property $P$ if $|x_i - x_{i+1}| = n$ for at least one $i$ in $\{1, 2, \ldots, 2n-1\}$. Show that, for each $n$, there are more permutations with property $P$ than without.
 
-[[src_imho_1989__Q06]]
+[[Quesiti/src_imho_1989#q06|src_imho_1989__Q06]]

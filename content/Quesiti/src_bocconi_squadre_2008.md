@@ -35,7 +35,7 @@ level: Gara a Squadre
 > There are 5 children in our family (not all twins). All of them were born on 1 January 2008 and, as of 1 January 2008, the sum of their ages is equal to their product. How old are the five children in our family?
 
 **Answer:** Le età dei figli sono: 1; 1; 1; 2; 5
-[[src_bocconi_squadre_2008__Q01]]
+[[Quesiti/src_bocconi_squadre_2008#q01|src_bocconi_squadre_2008__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: Gara a Squadre
 
 > Quanti triangoli vedi in figura?
 
-![[src_bocconi_squadre_2008__Q02.png]]
+![[src_bocconi_squadre_2008__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -65,10 +65,10 @@ level: Gara a Squadre
 
 > How many triangles do you see in the figure?
 
-![[src_bocconi_squadre_2008__Q02.png]]
+![[src_bocconi_squadre_2008__q02.png]]
 
 **Answer:** 21 triangoli
-[[src_bocconi_squadre_2008__Q02]]
+[[Quesiti/src_bocconi_squadre_2008#q02|src_bocconi_squadre_2008__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: Gara a Squadre
 > Write the whole numbers from 1 to 20 one after another: 123...101112...1920. At this point, from the previous list, 20 digits are deleted. What's the largest number you can have left?
 
 **Answer:** 95617181920
-[[src_bocconi_squadre_2008__Q03]]
+[[Quesiti/src_bocconi_squadre_2008#q03|src_bocconi_squadre_2008__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: Gara a Squadre
 > What's the smallest natural number whose square ends in 2001?
 
 **Answer:** 249
-[[src_bocconi_squadre_2008__Q04]]
+[[Quesiti/src_bocconi_squadre_2008#q04|src_bocconi_squadre_2008__Q04]]
 
 
 
@@ -158,7 +158,7 @@ level: Gara a Squadre
 > Replace the digits 1 to 9 (use once and only) instead of the dots. $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
 
 **Answer:** 1 + 7 = 8; 5 + 4 = 9; 6 : 3 = 2 (vedi griglia soluzione)
-[[src_bocconi_squadre_2008__Q05]]
+[[Quesiti/src_bocconi_squadre_2008#q05|src_bocconi_squadre_2008__Q05]]
 
 
 
@@ -187,7 +187,7 @@ level: Gara a Squadre
 > It happened on a Monday last winter. Every morning, the company's driver left the offices to pick up the mega-director at 8 a.m. in his villa outside the city and take him to his mega-office (where he arrived, with timing, always at the same time). That Monday, the mega-manager didn't see his driver coming. Forgetting that during the weekend the legal time had been abolished and wishing to exceed it, at exactly 8 o'clock he sets out on foot on his motorcycle heading to the office. The driver (who had left at the usual time and was moving at the same speed) meets him along the route, takes him up, immediately returns and "deposits" his precious mega-director 8 minutes earlier than usual. How many minutes did the mega-director walk before he was picked up by his driver?
 
 **Answer:** 56 minuti
-[[src_bocconi_squadre_2008__Q06]]
+[[Quesiti/src_bocconi_squadre_2008#q06|src_bocconi_squadre_2008__Q06]]
 
 
 
@@ -200,7 +200,7 @@ level: Gara a Squadre
 
 > A partire dal rettangolo della figura di dimensioni $A$ e $B$, sono state disegnate tre circonferenze – tutte centrate in uno dei suoi vertici – che passano rispettivamente per un altro dei vertici del rettangolo. Quanto vale il quadrato della differenza tra le aree delle due regioni più scure?
 
-![[src_bocconi_squadre_2008__Q07.png]]
+![[src_bocconi_squadre_2008__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -217,10 +217,10 @@ level: Gara a Squadre
 
 > Starting from the rectangle of the figure of dimensions $A$ and $B$, three circumferences  all centered at one of its vertices  passing through another of the vertices of the rectangle respectively have been drawn. What is the square of the difference between the areas of the two darkest regions?
 
-![[src_bocconi_squadre_2008__Q07.png]]
+![[src_bocconi_squadre_2008__q07.png]]
 
 **Answer:** 0
-[[src_bocconi_squadre_2008__Q07]]
+[[Quesiti/src_bocconi_squadre_2008#q07|src_bocconi_squadre_2008__Q07]]
 
 
 
@@ -257,7 +257,7 @@ level: Gara a Squadre
 > Renato makes three peremptory statements: 1) of the three propositions A, B, C, only one is true; 2) of B, C, D only one is true; 3) of A, D only one is true. His friend Amerigo rebukes him alternately saying: 1) of A, B, C only one proposition is true; 2) of B, C, D only one proposition is true; 3) of A, C, D only one proposition is true. Keep in mind that one of the two friends lies once, while the other always tells the truth. What is (or are) between A, B, C, D the true propositions?
 
 **Answer:** C
-[[src_bocconi_squadre_2008__Q08]]
+[[Quesiti/src_bocconi_squadre_2008#q08|src_bocconi_squadre_2008__Q08]]
 
 
 
@@ -286,7 +286,7 @@ level: Gara a Squadre
 > Divide 1 by 2008. What (in order) is the $2007$-exis, $2008$-exis and $2009$-exis after the comma of the quotient thus obtained?
 
 **Answer:** 0, 0, 7
-[[src_bocconi_squadre_2008__Q09]]
+[[Quesiti/src_bocconi_squadre_2008#q09|src_bocconi_squadre_2008__Q09]]
 
 
 
@@ -315,7 +315,7 @@ level: Gara a Squadre
 > Desiderio is Italian and, to indicate a day of the year, writes first the date of the day and then the month (for example, writes 03.01 to indicate January 3). His English friend, Jacob, is instead accustomed to writing first the month and then the day (for him, 03.01 means $1^\circ$ March). For this reason, a real mess has happened. On 7 January 2007, Desiderio had given Jacob an appointment for a certain day of the first half of the year (written "in Italian"). Jacob read it "in English" and the two didn't meet. What (possible) day (s) did Desiderio write, because the difference with how much "capita" from Jacob is the maximum possible (but less than half a year)?
 
 **Answer:** 9/3 e 11/5
-[[src_bocconi_squadre_2008__Q10]]
+[[Quesiti/src_bocconi_squadre_2008#q10|src_bocconi_squadre_2008__Q10]]
 
 
 
@@ -344,7 +344,7 @@ level: Gara a Squadre
 > That's the case with Nando. When Luke cuts the 100-meter mark, Nando has only walked 95. If now Luca gives Nando a certain edge and makes him go four meters. before him, after how many meters will he reach him (assuming of course that the two athletes are running at a constant speed, the same as before)?
 
 **Answer:** 80 metri
-[[src_bocconi_squadre_2008__Q11]]
+[[Quesiti/src_bocconi_squadre_2008#q11|src_bocconi_squadre_2008__Q11]]
 
 
 
@@ -373,7 +373,7 @@ level: Gara a Squadre
 > From the ground, a ball is thrown vertically upwards at a speed of 25 m/s. Assuming nothing of the air resistance and $g = 10$ m/s$^2$, after how many seconds will the ball be at a height of 20 m from the ground?
 
 **Answer:** 1 e 4 secondi
-[[src_bocconi_squadre_2008__Q12]]
+[[Quesiti/src_bocconi_squadre_2008#q12|src_bocconi_squadre_2008__Q12]]
 
 
 
@@ -403,7 +403,7 @@ level: Gara a Squadre
 > In this sum, each letter represents a number and different letters represent different numbers. We also know that $R$ $M$ $Z$ $A$ indicates a multiple of 23. What number indicates the word $E$ $X$ $T$ $R$ $A$? $$\begin{array}{cccccc} & R & M & Z & A & \\ + & & & & & \\ E & X & T & R & A & \end{array}$$
 
 **Answer:** EXTRA = 13658
-[[src_bocconi_squadre_2008__Q13]]
+[[Quesiti/src_bocconi_squadre_2008#q13|src_bocconi_squadre_2008__Q13]]
 
 
 
@@ -432,7 +432,7 @@ level: Gara a Squadre
 > Carla gives Milena a number of chocolates. Adding this number to the sum of its digits, you get 2008. How many chocolates did Carla give Milena?
 
 **Answer:** Carla ha regalato a Milena 2003 oppure 1985 cioccolatini
-[[src_bocconi_squadre_2008__Q14]]
+[[Quesiti/src_bocconi_squadre_2008#q14|src_bocconi_squadre_2008__Q14]]
 
 
 
@@ -463,7 +463,7 @@ level: Gara a Squadre
 > In the above string, however, not the one marked "="  so as to obtain a correct equality, as in the example below: $$1 \; 5 \; 3 \; 6 \; \mathbf{X} \; 1 \; 2 \; \Box \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$$ The original string is: $1 \; 5 \; 3 \; 6 \; 1 \; 2 \; + \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$
 
 **Answer:** 153 X 12 [·] 9 - 17729 = 2008, con X = moltiplicazione e [·] appropriato (vedi griglia)
-[[src_bocconi_squadre_2008__Q15]]
+[[Quesiti/src_bocconi_squadre_2008#q15|src_bocconi_squadre_2008__Q15]]
 
 
 
@@ -476,7 +476,7 @@ level: Gara a Squadre
 
 > Inserite tutti i numeri naturali da 3 a 11 nei tre cerchi concentrici liberi, in modo che la somma dei numeri segnati in ogni quadrante sia uguale al numero della regione. Quale (i) numero (i) è (sono) scritto (i) nel cerchio più in alto?
 
-![[src_bocconi_squadre_2008__Q16.png]]
+![[src_bocconi_squadre_2008__q16.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -493,10 +493,10 @@ level: Gara a Squadre
 
 > Insert all natural numbers from 3 to 11 into the three free concentric circles, so that the sum of the numbers marked in each quadrant is equal to the number in the region. Which number (s) is (are) written (s) in the upper circle?
 
-![[src_bocconi_squadre_2008__Q16.png]]
+![[src_bocconi_squadre_2008__q16.png]]
 
 **Answer:** 6; 7; 8; 11
-[[src_bocconi_squadre_2008__Q16]]
+[[Quesiti/src_bocconi_squadre_2008#q16|src_bocconi_squadre_2008__Q16]]
 
 
 
@@ -509,7 +509,7 @@ level: Gara a Squadre
 
 > Un cerchio è diviso in tre parti uguali dai raggi (di misura unitaria). Quanto misura il perimetro delle tre parti? (Si ponga $\pi = 3{,}141$ e si esprima il risultato con un numero decimale, con tre cifre dopo la virgola.)
 
-![[src_bocconi_squadre_2008__Q17.png]]
+![[src_bocconi_squadre_2008__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -525,10 +525,10 @@ level: Gara a Squadre
 
 > A circle is divided into three equal parts by the beams (in unit measure). What is the perimeter of the three sides? (Put $\pi = 3{,}141$ and express the result by a decimal number, with three digits after the comma.)
 
-![[src_bocconi_squadre_2008__Q17.png]]
+![[src_bocconi_squadre_2008__q17.png]]
 
 **Answer:** 4,094
-[[src_bocconi_squadre_2008__Q17]]
+[[Quesiti/src_bocconi_squadre_2008#q17|src_bocconi_squadre_2008__Q17]]
 
 
 
@@ -557,7 +557,7 @@ level: Gara a Squadre
 > Determine the pairs $(a, b)$ of positive integers, with $a$ greater than or equal to $b$, where $(b^3 + 1)/(ab - 1)$ is an integer.
 
 **Answer:** 2-1; 3-1; 2-2; 5-2; 5-3
-[[src_bocconi_squadre_2008__Q18]]
+[[Quesiti/src_bocconi_squadre_2008#q18|src_bocconi_squadre_2008__Q18]]
 
 
 
@@ -586,7 +586,7 @@ level: Gara a Squadre
 > What is the product number $7^7 \cdot 4^{11} \cdot 5^{11}$?
 
 **Answer:** 34
-[[src_bocconi_squadre_2008__Q19]]
+[[Quesiti/src_bocconi_squadre_2008#q19|src_bocconi_squadre_2008__Q19]]
 
 
 
@@ -615,4 +615,4 @@ level: Gara a Squadre
 > After a thorough study, an incredible dig and entrance into the bank, the Bassotti Band finds it difficult to open the precious safe. In the institute's papers, there is only the indication that the correct combination is given by three non-zero digits (ordered in increasing order) such that their sum is equal to 17 while the product of two of them, added to the third, is always a perfect square. Please, can you help the Bassotti Gang rob the bank?
 
 **Answer:** Le cifre della combinazione (scritte in ordine crescente) sono: 179
-[[src_bocconi_squadre_2008__Q20]]
+[[Quesiti/src_bocconi_squadre_2008#q20|src_bocconi_squadre_2008__Q20]]

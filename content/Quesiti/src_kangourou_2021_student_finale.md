@@ -34,7 +34,7 @@ level: kangourou
 > (**5 points**) When you look at two different spheres of rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
 **Answer:** 1000000
-[[src_kangourou_2021_student_finale__QS1]]
+[[Quesiti/src_kangourou_2021_student_finale#qs1|src_kangourou_2021_student_finale__QS1]]
 
 
 
@@ -45,7 +45,7 @@ level: kangourou
 
 *Numero massimo di travasi per ripristinare i recipienti*
 
-![[src_kangourou_2021_student_finale__probS2.png]]
+![[src_kangourou_2021_student_finale__probs2.png]]
 
 > (**7 punti**) Dieci recipienti, non necessariamente della stessa capacità, che possiamo considerare illimitata, contengono ciascuno acqua, non necessariamente nella stessa quantità. Effettuiamo dei travasi tra i recipienti; per ogni recipiente, ad ogni travaso, annotiamo la quantità di acqua immessa o prelevata. Ad esempio denotati i recipienti con A, B ecc. e usando sempre la stessa unità di misura potremmo avere un'annotazione come:
 > 
@@ -68,7 +68,7 @@ level: kangourou
 
 *Maximum number of bars to restore containers*
 
-![[src_kangourou_2021_student_finale__probS2.png]]
+![[src_kangourou_2021_student_finale__probs2.png]]
 
 > (**7 points**) Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We make a loop between the containers; for each container, at each loop, we write down the amount of water that's in or out. For example, mark the containers with A, B, etc. And using the same unit of measurement all the time, we could have an annotation like:
 > 
@@ -77,7 +77,7 @@ level: kangourou
 > At the end of these operations, the initial amount of water in each container is to be restored, thus minimizing the number of transis. If we adopt a proper strategy, how many frames will be needed, at most?
 
 **Answer:** 9
-[[src_kangourou_2021_student_finale__QS2]]
+[[Quesiti/src_kangourou_2021_student_finale#qs2|src_kangourou_2021_student_finale__QS2]]
 
 
 
@@ -88,7 +88,7 @@ level: kangourou
 
 *Numero di sviluppi piani distinti di un cubo*
 
-![[src_kangourou_2021_student_finale__probS3.png]]
+![[src_kangourou_2021_student_finale__probs3.png]]
 
 ```tikz
 \begin{document}
@@ -123,7 +123,7 @@ level: kangourou
 
 *Number of distinct plane developments of a cube*
 
-![[src_kangourou_2021_student_finale__probS3.png]]
+![[src_kangourou_2021_student_finale__probs3.png]]
 
 ```tikz
 \begin{document}
@@ -147,7 +147,7 @@ level: kangourou
 > (see figure)
 
 **Answer:** 11
-[[src_kangourou_2021_student_finale__QS3]]
+[[Quesiti/src_kangourou_2021_student_finale#qs3|src_kangourou_2021_student_finale__QS3]]
 
 
 
@@ -184,7 +184,7 @@ level: kangourou
 > b) $m = 2020$ e $n = 2021$?
 
 **Answer:** a) No; b) Si
-[[src_kangourou_2021_student_finale__QS4]]
+[[Quesiti/src_kangourou_2021_student_finale#qs4|src_kangourou_2021_student_finale__QS4]]
 
 
 
@@ -218,7 +218,7 @@ level: kangourou
 > 'Assigned $n$ positive real numbers $a_1, a_2, \ldots, a_n$, for each rearrangement of $b_1, b_2, \ldots, b_n$ $$\frac{a_1}{b_1} + \frac{a_2}{b_2} + \cdots + \frac{a_n}{b_n} \geq n.$$'
 
 **Answer:** VERA
-[[src_kangourou_2021_student_finale__QS5]]
+[[Quesiti/src_kangourou_2021_student_finale#qs5|src_kangourou_2021_student_finale__QS5]]
 
 
 
@@ -245,4 +245,4 @@ level: kangourou
 
 > (**22 points**) Demonstrates that there exists a positive integer divisible by $2021$ and expressible, in significant binary notation (i.e. the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
 
-[[src_kangourou_2021_student_finale__QS6]]
+[[Quesiti/src_kangourou_2021_student_finale#qs6|src_kangourou_2021_student_finale__QS6]]

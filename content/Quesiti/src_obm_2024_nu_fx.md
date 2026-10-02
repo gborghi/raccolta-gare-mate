@@ -34,7 +34,7 @@ level: OBM Nível Universitário
 
 > Un intero positivo $n$ si chiama *perfetto* se la somma dei suoi divisori positivi $\sigma(n)$ è uguale al doppio $n$, cioè\ $\sigma(n) = 2n$. Ad esempio, $6$ è un numero perfetto, poiché la somma dei suoi divisori positivi è $1+2+3+6=12$, che è il doppio di $6$. Prova che se $n$ è un intero perfetto positivo, allora $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
 
-[[src_obm_2024_nu_fx__Q01]]
+[[Quesiti/src_obm_2024_nu_fx#q01|src_obm_2024_nu_fx__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: OBM Nível Universitário
 > 
 > c) Prove che $\lambda_{jk} = \lambda_{kj}$ per tutti gli integri $j, k \ge 2$.
 
-[[src_obm_2024_nu_fx__Q02]]
+[[Quesiti/src_obm_2024_nu_fx#q02|src_obm_2024_nu_fx__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: OBM Nível Universitário
 
 > Considerate un gioco su una tavola $n \times n$, dove ogni cella inizia con esattamente una pietra. Un *movimento* consiste nel scegliere $5$ cellule consecutive nella stessa riga o colonna della lavagna e scambiare lo stato di tali cellule (rilevando una pietra da una cellula che ne ha una e inserendo una nella cellula che non ne ha una). Per quali integri positivi $n \ge 5$ è possibile far rimanere esattamente una pietra alla tavola dopo un numero finito di mosse?
 
-[[src_obm_2024_nu_fx__Q03]]
+[[Quesiti/src_obm_2024_nu_fx#q03|src_obm_2024_nu_fx__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: OBM Nível Universitário
 > 
 > (b) Trova tutti i polinomi $P$ con coefficienti reali in modo tale che la funzione polinomica corrispondente $P : \mathbb{R} \to \mathbb{R}$ sia morficamente pari.
 
-[[src_obm_2024_nu_fx__Q04]]
+[[Quesiti/src_obm_2024_nu_fx#q04|src_obm_2024_nu_fx__Q04]]
 
 
 
@@ -164,7 +164,7 @@ level: OBM Nível Universitário
 
 > La matrice $A$ deve essere una matrice di entrata interi $2 \times 2$ con $\det(A) \ne 0$. La sequenza $(A^n)$, $n = 1, 2, 3, \ldots$, soddisfa $$A^{12} = I \quad \text{or} \quad (A^2 - I)^2 = O.$$ Qui $I$ e $O$ indicano rispettivamente la matrice di identità e la matrice di zero, e $\operatorname{tr}$ indica la traccia della matrice (somma degli elementi diagonali). Indicare che $A$ è limitato (limitato).
 
-[[src_obm_2024_nu_fx__Q05]]
+[[Quesiti/src_obm_2024_nu_fx#q05|src_obm_2024_nu_fx__Q05]]
 
 
 
@@ -201,4 +201,4 @@ level: OBM Nível Universitário
 > 
 > *Per esempio *, se $n=4$, l'elenco è $$\frac{0}{1} < \frac{1}{4} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{3}{4} < \frac{1}{1},$$ dove $p_0=0,\ p_1=1,\ p_2=1,\ p_3=1,\ p_4=2,\ p_5=3,\ p_6=1$ e $q_0=1,\ q_1=4,\ q_2=3,\ q_3=2,\ q_4=3,\ q_5=4,\ q_6=1$. In questo caso, $f_1(4)=1$, $f_2(4)=5$, $f_3(4)=8$, $f_4(4)=10$, $f_5(4)=13$, $f_6(4)=17$ e $f_7(4)=18$.
 
-[[src_obm_2024_nu_fx__Q06]]
+[[Quesiti/src_obm_2024_nu_fx#q06|src_obm_2024_nu_fx__Q06]]

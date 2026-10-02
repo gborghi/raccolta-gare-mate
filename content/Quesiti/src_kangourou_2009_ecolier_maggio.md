@@ -34,7 +34,7 @@ level: kangourou
 > (*5 points*) To prepare 4 liters of syrup, exactly 3 liters of water, 1 litre of concentrated juice and 500 grams of sugar are needed. You have 18 liters of water, 5 liters of concentrated juice and 2 kilos of sugar. How many liters of syrup can you make?
 
 **Answer:** 16
-[[src_kangourou_2009_ecolier_maggio__QE1]]
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe1|src_kangourou_2009_ecolier_maggio__QE1]]
 
 
 
@@ -45,7 +45,7 @@ level: kangourou
 
 *Minimo numero di carte rimaste levandone due*
 
-![[src_kangourou_2009_ecolier_maggio__probE2.png]]
+![[src_kangourou_2009_ecolier_maggio__probe2.png]]
 
 ```tikz
 \begin{document}
@@ -92,7 +92,7 @@ level: kangourou
 
 *Minimum number of cards remaining by two *
 
-![[src_kangourou_2009_ecolier_maggio__probE2.png]]
+![[src_kangourou_2009_ecolier_maggio__probe2.png]]
 
 ```tikz
 \begin{document}
@@ -128,7 +128,7 @@ level: kangourou
 > If a card (other than the first card at the top) disappears from the table, the cards that are in contact with it in the top row must also disappear. He pulled two cards so that the fewest possible cards remained: what is this number? (see figure)
 
 **Answer:** 3
-[[src_kangourou_2009_ecolier_maggio__QE2]]
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe2|src_kangourou_2009_ecolier_maggio__QE2]]
 
 
 
@@ -139,7 +139,7 @@ level: kangourou
 
 *Quanti modi di sistemare 4 monete su scacchiera 4x4*
 
-![[src_kangourou_2009_ecolier_maggio__probE3.png]]
+![[src_kangourou_2009_ecolier_maggio__probe3.png]]
 
 ```tikz
 \begin{document}
@@ -178,7 +178,7 @@ level: kangourou
 
 How many ways to place 4 coins on a 4x4 chessboard
 
-![[src_kangourou_2009_ecolier_maggio__probE3.png]]
+![[src_kangourou_2009_ecolier_maggio__probe3.png]]
 
 ```tikz
 \begin{document}
@@ -204,7 +204,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 > How many different ways can you do the project?
 
 **Answer:** 2
-[[src_kangourou_2009_ecolier_maggio__QE3]]
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe3|src_kangourou_2009_ecolier_maggio__QE3]]
 
 
 
@@ -232,7 +232,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 > (*14 points*) One company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24 or 16. Each pack must bear a label indicating the net weight of the contents; labels indicating 630 grams and other indicating 360 grams have already been prepared. What weights will the labels still have to indicate?
 
 **Answer:** 810,540
-[[src_kangourou_2009_ecolier_maggio__QE4]]
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe4|src_kangourou_2009_ecolier_maggio__QE4]]
 
 
 
@@ -264,7 +264,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 > What is the product of the three numbers in the shaded triangles that, combined with the white ones, form an hexagon? (see figure)
 
 **Answer:** 40
-[[src_kangourou_2009_ecolier_maggio__QE5]]
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe5|src_kangourou_2009_ecolier_maggio__QE5]]
 
 
 
@@ -292,4 +292,4 @@ How many ways to place 4 coins on a 4x4 chessboard
 > (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one rudder is available. A boat may drag at most another boat, but in this case the movement of the two boats takes the slower boat's crossing time between the two. Once a cruise has been made, the rudder can return to the starting point only using one of the four boats. Find the shorter time (in minutes) to perform the operation, neglecting the time needed to attach and unload the boats and transfer them from one to the other.
 
 **Answer:** 30
-[[src_kangourou_2009_ecolier_maggio__QE6]]
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe6|src_kangourou_2009_ecolier_maggio__QE6]]

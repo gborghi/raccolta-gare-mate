@@ -25,7 +25,7 @@ level: OBM Nível 1
 > 
 > (The pattern consists of a staircase-shaped border along the top and right side of the grid, as shown in the accompanying figure.)
 
-![[src_obm_2007_n1_f3__Q01.png]]
+![[src_obm_2007_n1_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -47,9 +47,9 @@ level: OBM Nível 1
 > 
 > (Il modello è costituito da un confine a forma di scala lungo il lato superiore e destro della griglia, come mostrato nella figura che lo accompagna.)
 
-![[src_obm_2007_n1_f3__Q01.png]]
+![[src_obm_2007_n1_f3__q01.png]]
 
-[[src_obm_2007_n1_f3__Q01]]
+[[Quesiti/src_obm_2007_n1_f3#q01|src_obm_2007_n1_f3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 1
 > 
 > Knowing that the area of rug B is double the area of rug A, calculate the area (in $\text{m}^2$) of the part of the floor that became uncovered after rug B was moved.
 
-![[src_obm_2007_n1_f3__Q02.png]]
+![[src_obm_2007_n1_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -82,9 +82,9 @@ level: OBM Nível 1
 > 
 > Sapendo che l'area del tappeto B è doppia dell'area del tappeto A, calcolare l'area (in $\text{m}^2$) della parte del pavimento che è diventata scoperta dopo che il tappeto B è stato spostato.
 
-![[src_obm_2007_n1_f3__Q02.png]]
+![[src_obm_2007_n1_f3__q02.png]]
 
-[[src_obm_2007_n1_f3__Q02]]
+[[Quesiti/src_obm_2007_n1_f3#q02|src_obm_2007_n1_f3__Q02]]
 
 
 
@@ -139,7 +139,7 @@ level: OBM Nível 1
 > 
 > Sapendo che tutti e tre sentono quello che gli altri dicono, ma non vedono la carta che l'altra persona sta guardando, quale numero è scritto sulla carta centrale?
 
-[[src_obm_2007_n1_f3__Q03]]
+[[Quesiti/src_obm_2007_n1_f3#q03|src_obm_2007_n1_f3__Q03]]
 
 
 
@@ -198,7 +198,7 @@ level: OBM Nível 1
 > 
 > **Nota: ** Se non è possibile costruire una tabella, è necessario spiegare il motivo.
 
-[[src_obm_2007_n1_f3__Q04]]
+[[Quesiti/src_obm_2007_n1_f3#q04|src_obm_2007_n1_f3__Q04]]
 
 
 
@@ -225,4 +225,4 @@ level: OBM Nível 1
 
 > Let $A = \underbrace{555\!\cdots\!5}_{2007 \text{ fives}} \times \underbrace{222\!\cdots\!2}_{2007 \text{ twos}}$. Calcolare la somma delle cifre di $9 \times A$. Non dimenticate di giustificare la vostra risposta.
 
-[[src_obm_2007_n1_f3__Q05]]
+[[Quesiti/src_obm_2007_n1_f3#q05|src_obm_2007_n1_f3__Q05]]

@@ -41,7 +41,7 @@ level: OBM Nível 1
 > [Fonte: la chiave di risposta ufficiale (GABARITO); la dichiarazione di scelta pluriennale originale e le opzioni non sono riprodotte. Dalla soluzione: $\dfrac{2016^2-1}{2015}=\dfrac{(2016+1)(2016-1)}{2015}=\dfrac{2017\times 2015}{2015}=2017$. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
 
 **Risposta:** E
-[[src_obm_2016_n1_f1__Q01]]
+[[Quesiti/src_obm_2016_n1_f1#q01|src_obm_2016_n1_f1__Q01]]
 
 
 
@@ -75,7 +75,7 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la superficie del quadrato più grande $ABCD$ è $(9\times 1)\times 4 = 36\ \text{cm}^2$.]
 
 **Risposta:** D
-[[src_obm_2016_n1_f1__Q02]]
+[[Quesiti/src_obm_2016_n1_f1#q02|src_obm_2016_n1_f1__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ci sono $5$ numeri unici: $1,3,5,7,9$. Quindi ci sono $5\cdot 5 = 25$ numeri di esattamente cinque cifre tutti strani e con una somma pari di cifre. Pertanto, al massimo le case $25-18 = 7$ non hanno ricevuto il giornale.]
 
 **Risposta:** D
-[[src_obm_2016_n1_f1__Q03]]
+[[Quesiti/src_obm_2016_n1_f1#q03|src_obm_2016_n1_f1__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: the faces meeting at the vertex with number $2$ give $2+x+7$ and $2+7+y$; for all faces to be equal the face values lead to $2+7+7=16$, and one deduces the bottom vertex equals $2$. The sum over all vertices is $2+7+7+7+2+2 = 25$.]
 
-![[src_obm_2016_n1_f1__Q04.png]]
+![[src_obm_2016_n1_f1__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -142,10 +142,10 @@ level: OBM Nível 1
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: le facce che si incontrano al vertice con il numero $2$ danno $2+x+7$ e $2+7+y$; per tutte le facce essere uguali i valori delle facce portano a $2+7+7=16$, e si deduce il vertice inferiore uguale $2$. La somma di tutti i vertici è $2+7+7+7+2+2 = 25$.]
 
-![[src_obm_2016_n1_f1__Q04.png]]
+![[src_obm_2016_n1_f1__q04.png]]
 
 **Risposta:** C
-[[src_obm_2016_n1_f1__Q04]]
+[[Quesiti/src_obm_2016_n1_f1#q04|src_obm_2016_n1_f1__Q04]]
 
 
 
@@ -176,7 +176,7 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: con $x$ il numero di settimane, $29+3x = 12+4x \Leftrightarrow x = 17$ settimane. Contando $17\times 7 = 119$ giorni dall'inizio della seconda settimana di febbraio, e dal momento che $31+30+31$ (marzo, aprile, maggio) più i giorni di febbraio rimanenti totali $21+31+30+31 = 113$ giorni, si conclude che il ragazzo equivale alla ragazza nel numero di riviste solo alla fine della prima settimana di giugno.]
 
 **Risposta:** D
-[[src_obm_2016_n1_f1__Q05]]
+[[Quesiti/src_obm_2016_n1_f1#q05|src_obm_2016_n1_f1__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: the following examples show that any of the letters can appear in the shaded (gray) cell:
 > $\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&O\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&M\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&M\\\hline O&M&B\\\hline\end{array}$ ]
 
-![[src_obm_2016_n1_f1__Q06.png]]
+![[src_obm_2016_n1_f1__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -213,10 +213,10 @@ level: OBM Nível 1
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: i seguenti esempi mostrano che qualsiasi delle lettere può apparire nella cella ombrata (grigio): $\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&O\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&M\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&M\\\hline O&M&B\\\hline\end{array}$ ]
 
-![[src_obm_2016_n1_f1__Q06.png]]
+![[src_obm_2016_n1_f1__q06.png]]
 
 **Risposta:** E
-[[src_obm_2016_n1_f1__Q06]]
+[[Quesiti/src_obm_2016_n1_f1#q06|src_obm_2016_n1_f1__Q06]]
 
 
 
@@ -250,7 +250,7 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutti i pezzi sono uguali e possono essere divisi in gruppi di $2$, $3$ o $5$, il numero di pezzi deve essere un multiple del più piccolo comune di questi numeri, ovvero un multiple di $30$. Con $30$ pezzi uguali la divisione desiderata è effettivamente possibile.]
 
 **Risposta:** D
-[[src_obm_2016_n1_f1__Q07]]
+[[Quesiti/src_obm_2016_n1_f1#q07|src_obm_2016_n1_f1__Q07]]
 
 
 
@@ -284,7 +284,7 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $x-1$ persone sono arrivate prima di Josias e $2016-x$ persone sono arrivate dopo di lui, con $\dfrac{2016-x}{4} = 4(x-1)$, cioè $2016-x = 16(x-1)$, con $x = 404$.]
 
 **Risposta:** A
-[[src_obm_2016_n1_f1__Q08]]
+[[Quesiti/src_obm_2016_n1_f1#q08|src_obm_2016_n1_f1__Q08]]
 
 
 
@@ -319,7 +319,7 @@ level: OBM Nível 1
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $2x+2y = 58$ quindi $x+y = 29$; le possibili coppie $(x,y)$ sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Di questi, solo $(4,25)$ dà un prodotto che è un quadrato perfetto, $4\cdot 25 = 100$, quindi $n = \sqrt{4\cdot 25} = \sqrt{100} = 10$.]
 
 **Risposta:** C
-[[src_obm_2016_n1_f1__Q09]]
+[[Quesiti/src_obm_2016_n1_f1#q09|src_obm_2016_n1_f1__Q09]]
 
 
 
@@ -334,7 +334,7 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: one erases certain points of the $12$, leaving $4$. Examining the segments, every group of points joined by a segment lies over a square configuration; eliminating one point of each such pair removes exactly $8$ points. Reasoning through the items, the answer is $12$.]
 
-![[src_obm_2016_n1_f1__Q10.png]]
+![[src_obm_2016_n1_f1__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -355,10 +355,10 @@ level: OBM Nível 1
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: si cancella alcuni punti del $12$, lasciando $4$. Esaminando i segmenti, ogni gruppo di punti uniti da un segmento si trova su una configurazione quadrata; eliminando un punto di ciascuna di tali coppie rimuove esattamente $8$ punti. Ragionando attraverso le voci, la risposta è $12$.]
 
-![[src_obm_2016_n1_f1__Q10.png]]
+![[src_obm_2016_n1_f1__q10.png]]
 
 **Risposta:** D
-[[src_obm_2016_n1_f1__Q10]]
+[[Quesiti/src_obm_2016_n1_f1#q10|src_obm_2016_n1_f1__Q10]]
 
 
 
@@ -393,7 +393,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la prima persona a rispondere non può dire la verità; la seconda ha detto la verità, la terza ha mentito, la quarta ha detto la verità, e così via, quindi i bugiardi e le persone oneste si alternano. Quindi ci sono mentitori nella fila.]
 
 **Risposta:** C
-[[src_obm_2016_n1_f1__Q11]]
+[[Quesiti/src_obm_2016_n1_f1#q11|src_obm_2016_n1_f1__Q11]]
 
 
 
@@ -427,7 +427,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ogni faccia verde degli otto blocchi più piccoli ottenuti dopo aver tagliato il cubo è opposta a quella rossa e viceversa. Pertanto il rapporto tra superficie verde totale e superficie rossa totale è $1:1$.]
 
 **Risposta:** A
-[[src_obm_2016_n1_f1__Q12]]
+[[Quesiti/src_obm_2016_n1_f1#q12|src_obm_2016_n1_f1__Q12]]
 
 
 
@@ -462,7 +462,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: in un insieme di elementi $n$ il numero di sottoinsiemi di due elementi è $\dfrac{n(n-1)}{2}$. Con $x+y = 10$ e la condizione $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (dal momento che la somma di due numeri con la stessa parità è pari e una coppia mista è impar). Substituendo $y = 10-x$ si ottiene $x^2-9x+10 = 0$, con soluzioni $x = 1$ o $x = 9$. Poiché $(x,y) = (9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$.]
 
 **Risposta:** E
-[[src_obm_2016_n1_f1__Q13]]
+[[Quesiti/src_obm_2016_n1_f1#q13|src_obm_2016_n1_f1__Q13]]
 
 
 
@@ -498,7 +498,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione, la tabella è: $\begin{array}{|l|c|c|}\hline & \text{Class A} & \text{Class B}\\\hline \text{Mathematics} & 6\cdot 20 = 120 & 9\cdot 30 = 270\\\hline \text{Portuguese} & 8\cdot 20 = 160 & 5\cdot 30 = 150\\\hline\end{array}$ L'analisi del grafico mostra immediatamente che i punti (a) e (b) sono falsi. La media matematica delle due classi insieme è $\dfrac{120+270}{50} = 7.8$, quindi anche il punto (c) è vero. Le medie delle due prove delle classi A e B sono rispettivamente $280/40 = 7$ e $420/60 = 7$. La media complessiva di tutte le classi è $\dfrac{120+160+270+150}{20+20+30+30} = 7$, quindi la lettera d) è vera.]
 
 **Risposta:** E
-[[src_obm_2016_n1_f1__Q14]]
+[[Quesiti/src_obm_2016_n1_f1#q14|src_obm_2016_n1_f1__Q14]]
 
 
 
@@ -513,7 +513,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: a third column already has the repeated arrangement so needs no movement; the first and a second column each need a move; a single move is not enough because two tokens lie in different rows. Two moves are sufficient, as illustrated.]
 
-![[src_obm_2016_n1_f1__Q15.png]]
+![[src_obm_2016_n1_f1__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -534,10 +534,10 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: una terza colonna ha già la disposizione ripetuta quindi non ha bisogno di movimento; la prima e la seconda colonna hanno bisogno di un movimento ciascuno; un solo movimento non è sufficiente perché due token si trovano in diverse righe. Due mosse sono sufficienti, come illustrato.]
 
-![[src_obm_2016_n1_f1__Q15.png]]
+![[src_obm_2016_n1_f1__q15.png]]
 
 **Risposta:** B
-[[src_obm_2016_n1_f1__Q15]]
+[[Quesiti/src_obm_2016_n1_f1#q15|src_obm_2016_n1_f1__Q15]]
 
 
 
@@ -571,7 +571,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la pagina $1$ ha la pagina $2$ sul retro e le pagine $59$ e $60$ sull'altra parte. Quindi la pagina $7$ (che è $1+6$) ha sulla sua pagina posteriore $8$ (che è $2+6$) e le pagine $53$ ($=59-6$) e $54$ ($=60-6$) dall'altra parte.]
 
 **Risposta:** E
-[[src_obm_2016_n1_f1__Q16]]
+[[Quesiti/src_obm_2016_n1_f1#q16|src_obm_2016_n1_f1__Q16]]
 
 
 
@@ -586,7 +586,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: dividing or gluing the parts as shown, the requested length is $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
 
-![[src_obm_2016_n1_f1__Q17.png]]
+![[src_obm_2016_n1_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -606,10 +606,10 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: divisione o incollazione delle parti come mostrato, la lunghezza richiesta è $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
 
-![[src_obm_2016_n1_f1__Q17.png]]
+![[src_obm_2016_n1_f1__q17.png]]
 
 **Risposta:** A
-[[src_obm_2016_n1_f1__Q17]]
+[[Quesiti/src_obm_2016_n1_f1#q17|src_obm_2016_n1_f1__Q17]]
 
 
 
@@ -624,7 +624,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: the area of triangle $AEB$ is $\dfrac{2\times 2}{2} = 2$. The area of triangle $OGH$ is $\dfrac{2\times 3}{2} = 3$ (with $OF = 3$, $F$ the midpoint of side $BF$ and $O$ the center of the square). The area of triangle $AGC$ is $\dfrac{4\times 4}{2} = 8$ and the area of triangle $DAH$ is $\dfrac{6\times 6}{2} = 18$, so quadrilateral $CGHD$ has area $18 - 8 = 10$; by symmetry, triangle $CGO$ has area $10 - 2\times 3 = 4$. It remains to find the areas of triangles $BEI$ and $IGC$. Splitting $IGC$ into four triangles like $BEI$ gives $s + 4x + 2(2-x) = 6 \Rightarrow 3x = 2 \Rightarrow x = \dfrac{2}{3}$. The gray area inside triangle $AHD$ is $5x + 4 = 5\cdot\dfrac{2}{3} + 4 = \dfrac{22}{3}$, so by symmetry the total gray area is $2\times\dfrac{22}{3} = \dfrac{44}{3}$.]
 
-![[src_obm_2016_n1_f1__Q18.png]]
+![[src_obm_2016_n1_f1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -645,10 +645,10 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > 
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: l'area del triangolo $AEB$ è $\dfrac{2\times 2}{2} = 2$. L'area del triangolo $OGH$ è $\dfrac{2\times 3}{2} = 3$ (con $OF = 3$, $F$ il punto medio del lato $BF$ e $O$ il centro del quadrato). La superficie del triangolo $AGC$ è $\dfrac{4\times 4}{2} = 8$ e la superficie del triangolo $DAH$ è $\dfrac{6\times 6}{2} = 18$, quindi il quadrilaterale $CGHD$ ha superficie $18 - 8 = 10$; per simmetria, il triangolo $CGO$ ha superficie $10 - 2\times 3 = 4$. Resta da trovare le aree dei triangoli $BEI$ e $IGC$. Dividere $IGC$ in quattro triangoli come $BEI$ dà $s + 4x + 2(2-x) = 6 \Rightarrow 3x = 2 \Rightarrow x = \dfrac{2}{3}$. L'area grigia all'interno del triangolo $AHD$ è $5x + 4 = 5\cdot\dfrac{2}{3} + 4 = \dfrac{22}{3}$, quindi per simmetria l'area grigia totale è $2\times\dfrac{22}{3} = \dfrac{44}{3}$.]
 
-![[src_obm_2016_n1_f1__Q18.png]]
+![[src_obm_2016_n1_f1__q18.png]]
 
 **Risposta:** B
-[[src_obm_2016_n1_f1__Q18]]
+[[Quesiti/src_obm_2016_n1_f1#q18|src_obm_2016_n1_f1__Q18]]
 
 
 
@@ -683,7 +683,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: inizialmente ciascuna delle persone $x$ pagherebbe $\dfrac{6000}{x}$ reais; dopo tre uscite, ciascuna delle persone $x-3$ pagherebbe $\dfrac{6000}{x-3}$, che è $100$ reais in più, quindi $\dfrac{6000}{x}+100 = \dfrac{6000}{x-3} \Leftrightarrow 60(x-3)+x(x-3) = 60x \Leftrightarrow 60x-180+x^2-3x = 60x \Leftrightarrow x^2-3x-180 = 0$.]
 
 **Risposta:** B
-[[src_obm_2016_n1_f1__Q19]]
+[[Quesiti/src_obm_2016_n1_f1#q19|src_obm_2016_n1_f1__Q19]]
 
 
 
@@ -718,4 +718,4 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutte le cifre non sono zero, annullare i termini ripetuti dà $Z = S^3\times I^2$. Poiché $Z$ è una cifra, sia $Z = 1$ che $S = 2$. Nel primo caso $I^2 = 4$ o $I^2 = 9$; nel secondo caso le possibilità sono $(S,I) = (1,2),(1,3)$ o $(2,1)$. Poiché $E$ differisce da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Se si elencano i possibili prodotti $P = S\times E\times I\times S\times E\times Z$ ed escludono le combinazioni che danno un $Z$ già scelto, ci sono valori $12$ distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28$ e $36$.]
 
 **Risposta:** A
-[[src_obm_2016_n1_f1__Q20]]
+[[Quesiti/src_obm_2016_n1_f1#q20|src_obm_2016_n1_f1__Q20]]

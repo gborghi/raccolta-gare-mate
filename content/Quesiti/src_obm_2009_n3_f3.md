@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Esmeralda scrive $2009^2$ numeri interi in una tabella con righe 2009 e colonne 2009, inserendo un numero in ogni cella. Somma correttamente i numeri in ogni riga e in ogni colonna, ottenendo risultati 4018. Si accorge che tutti i risultati sono diversi. È possibile che tutti questi risultati siano quadrati perfetti?
 
-[[src_obm_2009_n3_f3__Q01]]
+[[Quesiti/src_obm_2009_n3_f3#q01|src_obm_2009_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > $q$ sia un primo della forma $2p + 1$, dove $p > 0$ è anche un primo. Prova che esiste un multiple di $q$ la cui somma di cifre nella base dieci è inferiore o uguale a 3.
 
-[[src_obm_2009_n3_f3__Q02]]
+[[Quesiti/src_obm_2009_n3_f3#q02|src_obm_2009_n3_f3__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: OBM Nível 3
 > 
 > Mostrare che, dopo un numero finito di operazioni, ogni punto avrà al massimo tre pietre. Inoltre, dimostrare che la configurazione finale non dipende dall'ordine di esecuzione delle operazioni.
 
-[[src_obm_2009_n3_f3__Q03]]
+[[Quesiti/src_obm_2009_n3_f3#q03|src_obm_2009_n3_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 3
 
 > Mostrare che esiste un intero positivo $n_0$ con la seguente proprietà: per qualsiasi intero $n \ge n_0$, è possibile dividere un cubo in cubi $n$ più piccoli (non necessariamente uguali).
 
-[[src_obm_2009_n3_f3__Q04]]
+[[Quesiti/src_obm_2009_n3_f3#q04|src_obm_2009_n3_f3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 3
 
 > Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ incontrano di nuovo il circoncircolo del triangolo $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ incontrano di nuovo il circoncircolo del triangolo $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; e le linee $CA$ e $CB$ incontrano di nuovo il circoncircolo del triangolo $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le linee $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
 
-[[src_obm_2009_n3_f3__Q05]]
+[[Quesiti/src_obm_2009_n3_f3#q05|src_obm_2009_n3_f3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: OBM Nível 3
 
 > Che $n > 3$ sia un numero intero fisso e che $x_1, x_2, \ldots, x_n$ sia un numero reale positivo. Trova, in termini di $n$, tutti i possibili valori reali di $$S = \frac{x_1}{x_n + x_1 + x_2} + \frac{x_2}{x_1 + x_2 + x_3} + \frac{x_3}{x_2 + x_3 + x_4} + \cdots + \frac{x_{n-1}}{x_{n-2} + x_{n-1} + x_n} + \frac{x_n}{x_{n-1} + x_n + x_1}.$$
 
-[[src_obm_2009_n3_f3__Q06]]
+[[Quesiti/src_obm_2009_n3_f3#q06|src_obm_2009_n3_f3__Q06]]

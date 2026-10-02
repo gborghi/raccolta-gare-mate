@@ -33,7 +33,7 @@ level: OBM Nível Universitário
 
 > Determinare tutti i valori interi di $n$ per i quali l'equazione $x^3 - 13x + n = 0$ ha tre radici interi.
 
-[[src_obm_2008_nu_f1__Q01]]
+[[Quesiti/src_obm_2008_nu_f1#q01|src_obm_2008_nu_f1__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: OBM Nível Universitário
 
 > Considerate le linee indicate dalle equazioni parametriche $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$ $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$ Quante linee intersecano tutte e quattro contemporaneamente?
 
-[[src_obm_2008_nu_f1__Q02]]
+[[Quesiti/src_obm_2008_nu_f1#q02|src_obm_2008_nu_f1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: OBM Nível Universitário
 
 > Esmeralda cammina attraverso i punti con le coordinate interi del piano. Se in un determinato momento si trova al punto $(a, b)$, in un solo passo può passare a uno dei due seguenti punti: $(a+1, b)$, $(a-1, b)$, $(a, b+1)$ o $(a, b-1)$. In quanti modi Esmeralda può partire da $(0, 0)$ e camminare esattamente $2008$ passi, finendo a $(0, 0)$?
 
-[[src_obm_2008_nu_f1__Q03]]
+[[Quesiti/src_obm_2008_nu_f1#q03|src_obm_2008_nu_f1__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: OBM Nível Universitário
 
 > Supponiamo che esistano le matrici $n \times n$ $A$ e $B$, diverse dalla matrice di identità $I$ e soddisfacente $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$ Mostri che esiste un intero $k > 0$ tale che $B^k = I$, e determina il più piccolo $k$ con questa proprietà.
 
-[[src_obm_2008_nu_f1__Q04]]
+[[Quesiti/src_obm_2008_nu_f1#q04|src_obm_2008_nu_f1__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível Universitário
 
 > Diciamo che un iperbola copre un punto se il punto appartiene a una delle due regioni infinite determinate dall'iperbola che contiene i suoi foci. Qual è il più piccolo numero di iperbole necessario per coprire tutti i punti del piano?
 
-[[src_obm_2008_nu_f1__Q05]]
+[[Quesiti/src_obm_2008_nu_f1#q05|src_obm_2008_nu_f1__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: OBM Nível Universitário
 
 > Let $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Calcolare $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
 
-[[src_obm_2008_nu_f1__Q06]]
+[[Quesiti/src_obm_2008_nu_f1#q06|src_obm_2008_nu_f1__Q06]]

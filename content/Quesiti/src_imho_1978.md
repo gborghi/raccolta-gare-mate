@@ -33,7 +33,7 @@ Find m,n with equal last three digits of 78^m and 78^n*
 
 > $m$ and $n$ are natural numbers with $1 \le m < n$. In their decimal representations, the last three digits of $1978^m$ are equal, respectively, to the last three digits of $1978^n$. Find $m$ and $n$ such that $m + n$ has its least value.
 
-[[src_imho_1978__Q01]]
+[[Quesiti/src_imho_1978#q01|src_imho_1978__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Find m,n with equal last three digits of 78^m and 78^n*
 
 > $P$ is a given point on a sphere. Three mutually perpendicular rays from $P$ intersect the sphere at points $U$, $V$, $W$. Prove that for all such triples of rays, the plane of triangle $UVW$ passes through a fixed point, and find the locus of $Q$ for all such triangles $UVW$.
 
-[[src_imho_1978__Q02]]
+[[Quesiti/src_imho_1978#q02|src_imho_1978__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Find m,n with equal last three digits of 78^m and 78^n*
 
 > The set of all positive integers is the union of two disjoint subsets $\{f(1), f(2), \ldots, f(n), \ldots\}$, $\{g(1), g(2), \ldots, g(n), \ldots\}$, where $$f(1) < f(2) < \cdots < f(n) < \cdots,$$ $$g(1) < g(2) < \cdots < g(n) < \cdots,$$ and $g(n) = f(f(n)) + 1$ for all $n \ge 1$. Determine $f(240)$.
 
-[[src_imho_1978__Q03]]
+[[Quesiti/src_imho_1978#q03|src_imho_1978__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Find m,n with equal last three digits of 78^m and 78^n*
 
 > In the $ABC$ triangle, $AB = AC$. A circle is tangent internally to the circumcircle of triangle $ABC$ and also to sides $AB$, $AC$ at $P$, $Q$ respectively. Prove that the midpoint of segment $PQ$ is the center of the incircle of triangle $ABC$.
 
-[[src_imho_1978__Q04]]
+[[Quesiti/src_imho_1978#q04|src_imho_1978__Q04]]
 
 
 
@@ -146,7 +146,7 @@ Find m,n with equal last three digits of 78^m and 78^n*
 
 > Let $\{a_k\}$ $(k = 1, 2, 3, \ldots, n, \ldots)$ be a sequence of distinct positive integers. Prove that for all natural numbers
 
-[[src_imho_1978__Q05]]
+[[Quesiti/src_imho_1978#q05|src_imho_1978__Q05]]
 
 
 
@@ -173,4 +173,4 @@ Find m,n with equal last three digits of 78^m and 78^n*
 
 > An international society has its members from six different countries. The list of members contains $1978$ names, numbered $1, 2, \ldots, 1978$. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.
 
-[[src_imho_1978__Q06]]
+[[Quesiti/src_imho_1978#q06|src_imho_1978__Q06]]

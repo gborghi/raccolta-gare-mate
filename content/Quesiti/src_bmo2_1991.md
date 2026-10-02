@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Nel triangolo $ABC$, $B$ è un angolo rettangolo e $\alpha$ è l'angolo tra $AC$ e la media da $C$ a $AB$. Trova $\sin \alpha$.
 
-[[src_bmo2_1991__Q01]]
+[[Quesiti/src_bmo2_1991#q01|src_bmo2_1991__Q01]]
 
 
 
@@ -72,7 +72,7 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 > 
 > (Le amicizie sono reciproche e non cambiano.)
 
-[[src_bmo2_1991__Q02]]
+[[Quesiti/src_bmo2_1991#q02|src_bmo2_1991__Q02]]
 
 
 
@@ -100,7 +100,7 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 
 > Prova che se il perimetro di un triangolo con lati $a$, $b$, $c$ è $2$, allora $$a^2 + b^2 + c^2 + 2abc < 2.$$
 
-[[src_bmo2_1991__Q03]]
+[[Quesiti/src_bmo2_1991#q03|src_bmo2_1991__Q03]]
 
 
 
@@ -135,4 +135,4 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 > 
 > $N$ sia il numero intero positivo più piccolo in modo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots\ ,\ Nx$$ contenga la cifra $2$ nella sua espansione decimale. Trova i limiti inferiori e superiori per $N$ e, se possibile, trova esattamente $N$.
 
-[[src_bmo2_1991__Q04]]
+[[Quesiti/src_bmo2_1991#q04|src_bmo2_1991__Q04]]

@@ -35,7 +35,7 @@ level: squadre
 > Consider a regular dodecagon of vertices $A_1 A_2 \ldots A_{12}$ and side length $13$. Tracing the segments $A_1 A_6$, $A_5 A_{10}$ and $A_9 A_7$ forms four triangles within the dodecahedron. Calculate the sum of the areas of these four triangles.
 
 **Answer:** 0439
-[[src_cesenatico_2005_squadre_semifinale_b__Q01]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q01|src_cesenatico_2005_squadre_semifinale_b__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: squadre
 > On a chessboard of the type shown in the figure (but the central row has 21 boxes), how many ways are there to go from the central box to an edge in exactly $n$ moves, moving each time into an adjacent box horizontally or vertically? (see figure)
 
 **Answer:** 4092
-[[src_cesenatico_2005_squadre_semifinale_b__Q02]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q02|src_cesenatico_2005_squadre_semifinale_b__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: squadre
 > An ultraprime is a prime number such that, by exchanging its digits, the number obtained remains prime. What's the greatest number of three ultraprime digits?
 
 **Answer:** 0991
-[[src_cesenatico_2005_squadre_semifinale_b__Q03]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q03|src_cesenatico_2005_squadre_semifinale_b__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: squadre
 > A parallel piped $150$, $84$ and $105$ sides is made of $1$ side cubes. How many cubes are traversed inside by the diagonal of the parallelepiped?
 
 **Answer:** 0300
-[[src_cesenatico_2005_squadre_semifinale_b__Q04]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q04|src_cesenatico_2005_squadre_semifinale_b__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: squadre
 > $2005$ participants in a basketball tournament want to divide into $401$ teams, of $5$ players each, to play in a tournament. Write the last $2$ digits of the number of different ways they can be divided.
 
 **Answer:** 0076
-[[src_cesenatico_2005_squadre_semifinale_b__Q05]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q05|src_cesenatico_2005_squadre_semifinale_b__Q05]]
 
 
 
@@ -183,7 +183,7 @@ level: squadre
 > A $ABC$ isosceles triangle in $C$ and a $A'$ point on the $AC$ side so that the $AA'B$ triangle is isosceles in $B$ shall be given. Then $B'$ a point on the $BC$ side and $C'$ the intersection point between $AB'$ and $A'B$. Since the $ABB'$, $AB'C$ and $A'BC$ triangles are also isosceles, calculate the value (in degrees) of the angle $A'C'B'$.
 
 **Answer:** 0108
-[[src_cesenatico_2005_squadre_semifinale_b__Q06]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q06|src_cesenatico_2005_squadre_semifinale_b__Q06]]
 
 
 
@@ -215,7 +215,7 @@ level: squadre
 > The $ABCD$ quadrilateral in the figure has the angles $\angle ABD = 30°$, $\angle DBC = 50°$, $\angle BCA = 60°$ and $\angle ACD = 20°$. What is the angle $\angle CAD$? (see figure)
 
 **Answer:** 0030
-[[src_cesenatico_2005_squadre_semifinale_b__Q07]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q07|src_cesenatico_2005_squadre_semifinale_b__Q07]]
 
 
 
@@ -244,7 +244,7 @@ level: squadre
 > Rectangular data, how many finite parts can the plane be divided into at most?
 
 **Answer:** 0081
-[[src_cesenatico_2005_squadre_semifinale_b__Q08]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q08|src_cesenatico_2005_squadre_semifinale_b__Q08]]
 
 
 
@@ -273,7 +273,7 @@ level: squadre
 > Andrea, Bernardo and Chiara want to share a pack of candy. The pack contains $9$ strawberry candy, $9$ lemon and $9$ mint. How many ways can the $27$ candies (even in unequal parts) be distributed between the three, so that each has exactly two candies?
 
 **Answer:** 7104
-[[src_cesenatico_2005_squadre_semifinale_b__Q09]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q09|src_cesenatico_2005_squadre_semifinale_b__Q09]]
 
 
 
@@ -304,7 +304,7 @@ level: squadre
 > How many pairs of integers are ordered $(a, b)$ so $$\frac{a^2 + 4044}{12ab - 9}$$ is a prime number?
 
 **Answer:** 0004
-[[src_cesenatico_2005_squadre_semifinale_b__Q10]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q10|src_cesenatico_2005_squadre_semifinale_b__Q10]]
 
 
 
@@ -333,7 +333,7 @@ level: squadre
 > Calculate the remainder of the division of $3^{2^{10}}$ by $2^{13}$.
 
 **Answer:** 4097
-[[src_cesenatico_2005_squadre_semifinale_b__Q11]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q11|src_cesenatico_2005_squadre_semifinale_b__Q11]]
 
 
 
@@ -362,7 +362,7 @@ level: squadre
 > A rectangular triangle is given where the encounter is equidistant from the top of the right angle and the middle point of the hypotenuse. Knowing that the hypotenuse measures $1000$, calculate the major square of the triangle.
 
 **Answer:** 0866
-[[src_cesenatico_2005_squadre_semifinale_b__Q12]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q12|src_cesenatico_2005_squadre_semifinale_b__Q12]]
 
 
 
@@ -391,7 +391,7 @@ level: squadre
 > Find the maximum positive integer that cannot be expressed as $23k + 17h$, with $h, k > 0$.
 
 **Answer:** 0351
-[[src_cesenatico_2005_squadre_semifinale_b__Q13]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q13|src_cesenatico_2005_squadre_semifinale_b__Q13]]
 
 
 
@@ -420,7 +420,7 @@ level: squadre
 > A tile-maker wants to cover a rectangular room $462 \times 390$ with rectangular tiles measuring $c \times d$. For how many pairs (orders) of size $(c, d)$ is this possible?
 
 **Answer:** 0074
-[[src_cesenatico_2005_squadre_semifinale_b__Q14]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q14|src_cesenatico_2005_squadre_semifinale_b__Q14]]
 
 
 
@@ -449,4 +449,4 @@ Maximum area of two semicircles of fabric 140x70*
 > Two semicircles are to be made from a piece of fabric $140$ cm long and $70$ cm wide so as to use as much fabric as possible. What is the total area of the fabric used?
 
 **Answer:** 8357
-[[src_cesenatico_2005_squadre_semifinale_b__Q15]]
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q15|src_cesenatico_2005_squadre_semifinale_b__Q15]]

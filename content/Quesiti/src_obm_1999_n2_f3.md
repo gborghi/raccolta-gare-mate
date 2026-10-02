@@ -19,7 +19,7 @@ level: OBM Nível 2
 
 > Let $ABCDE$ be a regular pentagon with area $1$. Let $P$ be the intersection of $AC$ and $BD$, and let $Q$ be the intersection of $BD$ and $CE$. Determine the area of $APQD$.
 
-![[src_obm_1999_n2_f3__Q01.png]]
+![[src_obm_1999_n2_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: OBM Nível 2
 
 > Che $ABCDE$ sia un pentagono regolare con superficie $1$. Il $P$ è l'intersezione di $AC$ e $BD$, e il $Q$ è l'intersezione di $BD$ e $CE$. Determinare la superficie di $APQD$.
 
-![[src_obm_1999_n2_f3__Q01.png]]
+![[src_obm_1999_n2_f3__q01.png]]
 
-[[src_obm_1999_n2_f3__Q01]]
+[[Quesiti/src_obm_1999_n2_f3#q01|src_obm_1999_n2_f3__Q01]]
 
 
 
@@ -68,7 +68,7 @@ Un cittadino esiliato può mai tornare nella sua città originaria?
 > 
 > **Nota: ** Tutte le distanze tra le città sono distinte.
 
-[[src_obm_1999_n2_f3__Q02]]
+[[Quesiti/src_obm_1999_n2_f3#q02|src_obm_1999_n2_f3__Q02]]
 
 
 
@@ -95,7 +95,7 @@ Quante volte Adriano e Bruno si sono affrontati a ping-pong?
 
 > Adriano, Bruno e Carlos giocarono una serie di partite di table tennis. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita è stata giocata tra Adriano e Bruno. È noto che Adriano ha vinto 12 partite e Bruno 21 partite. Quante volte Adriano e Bruno hanno giocato l'uno contro l'altro?
 
-[[src_obm_1999_n2_f3__Q03]]
+[[Quesiti/src_obm_1999_n2_f3#q03|src_obm_1999_n2_f3__Q03]]
 
 
 
@@ -122,4 +122,4 @@ Quante volte Adriano e Bruno si sono affrontati a ping-pong?
 
 > Prove che c'è almeno una cifra decimale diversa da zero tra i punti decimali $1{,}000{,}000$-th a $3{,}000{,}000$-th di $\sqrt{2}$ dopo il punto decimale.
 
-[[src_obm_1999_n2_f3__Q04]]
+[[Quesiti/src_obm_1999_n2_f3#q04|src_obm_1999_n2_f3__Q04]]

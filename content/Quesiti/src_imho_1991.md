@@ -34,7 +34,7 @@ level: IMO
 
 > Given a triangle $ABC$, let $I$ be the center of its inscribed circle. The internal bisectors of the $A$, $B$, $C$ meet the opposite sides in $A'$, $B'$, $C'$ respectively. Prove that $$\frac{1}{4} < \frac{AI \cdot BI \cdot CI}{AA' \cdot BB' \cdot CC'} \le \frac{8}{27}.$$
 
-[[src_imho_1991__Q01]]
+[[Quesiti/src_imho_1991#q01|src_imho_1991__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: IMO
 
 > Let $n > 0$ be an integer and let $a_1, a_2, \ldots, a_k$ be all the natural numbers less than and relatively prime to $n$. If $$a_2 - a_1 = a_3 - a_2 = \cdots = a_k - a_{k-1} > 0,$$ proves that $n$ must be either $1$, $2$, $4$, a power of an odd prime, or twice a power of an odd prime.
 
-[[src_imho_1991__Q02]]
+[[Quesiti/src_imho_1991#q02|src_imho_1991__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: IMO
 
 > Let $S = \{1, 2, 3, \ldots, 280\}$. Find the smallest integer $n$ such that each $n$-element subset of $S$ contains five numbers which are pairwise relatively prime.
 
-[[src_imho_1991__Q03]]
+[[Quesiti/src_imho_1991#q03|src_imho_1991__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: IMO
 > 
 > [A graph consists of a set of points, called vertices, together with a set of edges joining certain pairs of distinct vertices. Each pair of distinct vertices $u$, $v$ belongs to at most one edge. The graph $G$ is connected if for each pair of distinct vertices $x$, $y$ there is some sequence of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ $(0 \le i < m)$ is joined by an edge of $G$.]
 
-[[src_imho_1991__Q04]]
+[[Quesiti/src_imho_1991#q04|src_imho_1991__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: IMO
 
 > Let $ABC$ be a triangle and $P$ an interior point of $ABC$. Show that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30^\circ$.
 
-[[src_imho_1991__Q05]]
+[[Quesiti/src_imho_1991#q05|src_imho_1991__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: IMO
 > 
 > Given any real number $a > 1$, construct a bounded infinite sequence $x_0, x_1, x_2, \ldots$ such that $$|x_i - x_j| \cdot |i - j|^a \ge 1$$ for every pair of distinct nonnegative integers $i$, $j$.
 
-[[src_imho_1991__Q06]]
+[[Quesiti/src_imho_1991#q06|src_imho_1991__Q06]]

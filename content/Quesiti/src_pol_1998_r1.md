@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere il sistema di equazioni: $$|x - y| - \frac{|y|}{x} = -1,$$ $$|2x - y| + |x + y - 1| + |x - y| - y + x - 1 = 0.$$
 
-[[src_pol_1998_r1__Q01]]
+[[Quesiti/src_pol_1998_r1#q01|src_pol_1998_r1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 1
 
 > Che $H$ sia l'ortocentro di un triangolo inciso in un cerchio con centro $O$. Poiché $AO = AH$, trovare la misura di $\angle CAB$.
 
-[[src_pol_1998_r1__Q02]]
+[[Quesiti/src_pol_1998_r1#q02|src_pol_1998_r1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 1
 
 > Le sequenze $(a_n)$, $(b_n)$, $(x_n)$ sono indicate da $a_1 = 4$ e per $n \ge 1$, $$a_{n+1} = a_n(a_n - 1), \quad 2^{b_n} = a_n, \quad 2^{x_n - x_{n-1}} = b_n.$$ Provare che la sequenza $(x_n)$ è delimitata.
 
-[[src_pol_1998_r1__Q03]]
+[[Quesiti/src_pol_1998_r1#q03|src_pol_1998_r1__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: Olimpiade Polacca Round 1
 
 > Il numero $a$ è positivo. Determinare tutti i numeri reali $c$ con la proprietà che, per qualsiasi numero positivo $x$, $y$, ha la seguente disuguaglianza: $$(c - 1)x^{c+1} \le (cy - x)y^a.$$
 
-[[src_pol_1998_r1__Q04]]
+[[Quesiti/src_pol_1998_r1#q04|src_pol_1998_r1__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere l'equazione $|\tan^2 x - \cot^2 x| = 2n|\cot 2x|$, dove $n$ è un dato numero intero positivo.
 
-[[src_pol_1998_r1__Q05]]
+[[Quesiti/src_pol_1998_r1#q05|src_pol_1998_r1__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: Olimpiade Polacca Round 1
 
 > In un triangolo $ABC$ con $AB > AC$, $D$ è il punto medio di $BC$ e $E$ è un punto arbitrario sul lato $AC$. I punti $P$ e $Q$ sono rispettivamente le proiezioni ortogonali di $B$ e $E$ su $AD$. Indicare che $BE = AE + AC$ se e solo se $AD = PQ$.
 
-[[src_pol_1998_r1__Q06]]
+[[Quesiti/src_pol_1998_r1#q06|src_pol_1998_r1__Q06]]
 
 
 
@@ -200,7 +200,7 @@ level: Olimpiade Polacca Round 1
 
 > Si devono dare $m, n$ integri positivi e $A = \{1, 2, \ldots, n\}$. Determinare il numero di funzioni $f : A \to A$ che assumono esattamente i valori $m$ in modo tale che $$f(f(k)) = f(k) \le f(l) \quad \text{for all } k, l \in A \text{ with } k \le l.$$
 
-[[src_pol_1998_r1__Q07]]
+[[Quesiti/src_pol_1998_r1#q07|src_pol_1998_r1__Q07]]
 
 
 
@@ -227,7 +227,7 @@ level: Olimpiade Polacca Round 1
 
 > Determinare se esiste un poliedro converso con bordi $k$ e un piano che non attraversa alcuna vertice e taglia bordi $r$ in modo tale da $3r > 2k$.
 
-[[src_pol_1998_r1__Q08]]
+[[Quesiti/src_pol_1998_r1#q08|src_pol_1998_r1__Q08]]
 
 
 
@@ -254,7 +254,7 @@ level: Olimpiade Polacca Round 1
 
 > Definire $a_0 = 0.91$ e $a_n = 0.99\underbrace{9\ldots9}_{n}00$ per $k > 0$. Calcolare $\lim a_0 a_1 \cdots a_n$.
 
-[[src_pol_1998_r1__Q09]]
+[[Quesiti/src_pol_1998_r1#q09|src_pol_1998_r1__Q09]]
 
 
 
@@ -281,7 +281,7 @@ level: Olimpiade Polacca Round 1
 
 > I media $AD$, $BE$, $CF$ di un triangolo $ABC$ si incontrano a $G$. Prova che se i quadrilaterali $AFGE$ e $BDGF$ sono ciclici, il triangolo $ABC$ è equilaterale.
 
-[[src_pol_1998_r1__Q10]]
+[[Quesiti/src_pol_1998_r1#q10|src_pol_1998_r1__Q10]]
 
 
 
@@ -308,7 +308,7 @@ Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite
 
 > In un torneo di tennis $n$ parteciparono giocatori. Qualsiasi due giocatori hanno giocato una partita (senza pareggio). Prove che esiste un giocatore $A$ tale che per qualsiasi altro giocatore $B$, sia $A$ sconfitto $B$ o che vi sia un giocatore $C$ che $A$ ha sconfitto e $B$ perso a $C$.
 
-[[src_pol_1998_r1__Q11]]
+[[Quesiti/src_pol_1998_r1#q11|src_pol_1998_r1__Q11]]
 
 
 
@@ -335,4 +335,4 @@ Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite
 
 > $g(k)$ indichi il più grande primo divisore di un intero $k$ se $|k| \ge 2$, e $g(0) = g(1) = 1$. Trova se esiste un polinomio non costante $W$ con coefficienti interi in modo che l'insieme $\{g(W(x)) \mid x \in \mathbb{Z}\}$ sia finito.
 
-[[src_pol_1998_r1__Q12]]
+[[Quesiti/src_pol_1998_r1#q12|src_pol_1998_r1__Q12]]

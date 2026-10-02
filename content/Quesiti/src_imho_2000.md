@@ -33,7 +33,7 @@ level: IMO
 
 > $AB$ is tangent to the circles $CAMN$ and $NMBD$. $M$ lies between $C$ and $D$ on the line $CD$, and $CD$ is parallel to $AB$. The chords $NA$ and $CM$ meet at $P$; the chords $NB$ and $DM$ meet at $Q$. The rays $CA$ and $DB$ meet at $E$. Prove that$PE = QE$.
 
-[[src_imho_2000__Q01]]
+[[Quesiti/src_imho_2000#q01|src_imho_2000__Q01]]
 
 
 
@@ -61,7 +61,7 @@ Inequality for positive reals with product 1
 
 > Let $a, b, c$ be positive reals with product 1. Prove that $$\left(a - 1 + \frac{1}{b}\right)\left(b - 1 + \frac{1}{c}\right)\left(c - 1 + \frac{1}{a}\right) \le 1.$$
 
-[[src_imho_2000__Q02]]
+[[Quesiti/src_imho_2000#q02|src_imho_2000__Q02]]
 
 
 
@@ -88,7 +88,7 @@ Game of moving points on a line, periodicity question
 
 > $k$ is a positive real. $N$ is an integer greater than 1. $N$ points are placed on a line, not by coincidence. A move is carried out as follows. Pick any two points $A$ and $B$ which are not at the same location. Replace $B$ by another point $B'$ to the right of $B$. Replace $A$ by another point $A'$ to the left of $A$ such that $A'B' = kAB$. For what values of $k$ can we move the points arbitrarily far to the right by repeated moves?
 
-[[src_imho_2000__Q03]]
+[[Quesiti/src_imho_2000#q03|src_imho_2000__Q03]]
 
 
 
@@ -115,7 +115,7 @@ Game of moving points on a line, periodicity question
 
 > 100 cards are numbered 1 to 100 (each card different) and placed in 3 boxes (at least one card in each box). How many ways can this be done so that if two boxes are selected and a card is taken from each, then the knowledge of their sum alone is always sufficient to identify the third box?
 
-[[src_imho_2000__Q04]]
+[[Quesiti/src_imho_2000#q04|src_imho_2000__Q04]]
 
 
 
@@ -142,7 +142,7 @@ Game of moving points on a line, periodicity question
 
 > Can we find $N$ divisible by just 2000 different primes, so that $N$ divides $2^N + 1$? [N may be divisible by a prime power.]
 
-[[src_imho_2000__Q05]]
+[[Quesiti/src_imho_2000#q05|src_imho_2000__Q05]]
 
 
 
@@ -169,4 +169,4 @@ Altitude feet reflected in angle bisectors lie on incircle
 
 > Let $A_1A_2A_3$ be an acute-angled triangle. The foot of the altitude from $A_i$ is $K_i$, and the incircle touches the opposite side $A_i$ at $L_i$. The line $K_1K_2$ is reflected in the line $L_1L_2$. Similarly, the line $K_2K_3$ is reflected in the line $L_2L_3$, and the line $K_3K_1$ is reflected in $L_3L_1$. Show that the three new lines form a triangle with vertices on the incircle.
 
-[[src_imho_2000__Q06]]
+[[Quesiti/src_imho_2000#q06|src_imho_2000__Q06]]

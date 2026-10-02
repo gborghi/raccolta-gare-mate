@@ -35,7 +35,7 @@ level: China Southeastern Mathematical Olympiad
 > Che $a_1, a_2, \ldots, a_{17}$ sia una permutazione di $1, 2, \ldots, 17$, soddisfacendo tale $(a_1 - a_2)(a_2 - a_3) \cdots (a_{16} - a_{17})(a_{17} - a_1) = 2^t$. Trova il valore massimo del numero intero $t$.
 
 **Risposta:** 38
-[[src_cn_csmo_2020__Q01]]
+[[Quesiti/src_cn_csmo_2020#q01|src_cn_csmo_2020__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As illustrated in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ are tangent to the circumcircle $O$ of $\triangle ABC$. Let $R$ be a point on $\widehat{AC}$ with $AR \parallel BC$, and $Q$ be the other intersection of $PR$ and circle $O$. Let $I$ be the incenter of $\triangle ABC$, $ID \perp BC$ with foot $D$, and $G$ be the other intersection of $QD$ and circle $O$. Suppose that the line through $I$ and perpendicular to $AI$ intersects the lines $AG$, $AC$ at the points $M$, $N$, respectively. Let $S$ be the midpoint of $\widehat{AR}$, $T$ be the other intersection of the line $SN$ and circle $O$. Prove that $M$, $B$, $T$ are collinear.
 
-![[src_cn_csmo_2020__Q02.png]]
+![[src_cn_csmo_2020__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -64,9 +64,9 @@ level: China Southeastern Mathematical Olympiad
 
 > Come illustrato in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti al circoncircolo $O$ di $\triangle ABC$. $R$ sia un punto su $\widehat{AC}$ con $AR \parallel BC$, e $Q$ sia l'altra intersezione di $PR$ e di $O$. Che $I$ sia l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$ e $G$ sia l'altra intersezione di $QD$ e di cerchio $O$. Supponiamo che la linea attraverso $I$ e perpendicolare a $AI$ incroci le linee $AG$, $AC$ rispettivamente nei punti $M$ e $N$. $S$ sia il punto medio di $\widehat{AR}$, $T$ sia l'altra intersezione della linea $SN$ e del cerchio $O$. Provare che $M$, $B$, $T$ sono collineari.
 
-![[src_cn_csmo_2020__Q02.png]]
+![[src_cn_csmo_2020__q02.png]]
 
-[[src_cn_csmo_2020__Q02]]
+[[Quesiti/src_cn_csmo_2020#q02|src_cn_csmo_2020__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: China Southeastern Mathematical Olympiad
 > Che $f(x) = x^{2020} + \sum_{k=0}^{2019} c_k x^k$, $c_k \in \{-1, 0, 1\}$ siano polinomi e $N$ il numero di radici interi positive di $f(x)$ (conteggiate con le loro moltiplicità). Dato che $f(x)$ non ha radici interi negative, trovare il valore massimo di $N$.
 
 **Risposta:** 10
-[[src_cn_csmo_2020__Q03]]
+[[Quesiti/src_cn_csmo_2020#q03|src_cn_csmo_2020__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: China Southeastern Mathematical Olympiad
 
 > Una stampante a getto di inchiostro è utilizzata per stampare su una striscia di carta con griglie $1 \times n$. Quando la nozzola stampa sulla griglia $i$th ($1 \le i \le n$), diventa nera; inoltre, ciascuna delle griglie adiacenti, la griglia $(i-1)$th e la griglia $(i+1)$th (se esistono), ha indipendentemente la probabilità che $\dfrac{1}{2}$ diventi nera. Il numero previsto di stampe deve essere il $T(n)$ per rendere tutte le griglie nere, a condizione che sia adottata la strategia ottimale (fare il minor numero possibile di stampe). Trova la formula di $T(n)$.
 
-[[src_cn_csmo_2020__Q04]]
+[[Quesiti/src_cn_csmo_2020#q04|src_cn_csmo_2020__Q04]]

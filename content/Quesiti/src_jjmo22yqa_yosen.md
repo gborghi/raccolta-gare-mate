@@ -35,7 +35,7 @@ level: JJMO Yosen
 > Un intero positivo è chiamato un numero **di quest'anno** se la somma digitali è uguale a $8$ e aggiungendo $1$ a esso si ottiene un quadrato perfetto. Ad esempio, $2024$ è un tale numero. Trova il numero a 5 cifre più piccolo di quest'anno.
 
 **Risposta:** 10403
-[[src_jjmo22yqa_yosen__Q01]]
+[[Quesiti/src_jjmo22yqa_yosen#q01|src_jjmo22yqa_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JJMO Yosen
 
 > As shown in the figure below, there are two circles $\Gamma_1$ and $\Gamma_2$ with center $O$. Let $A$ and $B$ be two distinct points on $\Gamma_1$. The segment $AB$ meets $\Gamma_2$ at two distinct points; let $C$ be the one closer to $B$. There is also a point $D$ on $\Gamma_2$ such that the line $AD$ is tangent to $\Gamma_2$. Given that $AC = 9$ and $AD = 6$, find the length $BC$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo22yqa_yosen__Q02.png]]
+![[src_jjmo22yqa_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -65,10 +65,10 @@ level: JJMO Yosen
 
 > Come mostrato nella figura seguente, ci sono due cerchi $\Gamma_1$ e $\Gamma_2$ con centro $O$. I punti $A$ e $B$ siano due punti distinti su $\Gamma_1$. Il segmento $AB$ incontra $\Gamma_2$ in due punti distinti; $C$ sia quello più vicino a $B$. C'è anche un punto $D$ su $\Gamma_2$ tale che la riga $AD$ sia tangente a $\Gamma_2$. Dato che $AC = 9$ e $AD = 6$, trovare la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo22yqa_yosen__Q02.png]]
+![[src_jjmo22yqa_yosen__q02.png]]
 
 **Risposta:** 4
-[[src_jjmo22yqa_yosen__Q02]]
+[[Quesiti/src_jjmo22yqa_yosen#q02|src_jjmo22yqa_yosen__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: JJMO Yosen
 > Un totale di pietre $2024$  bianche e nere  sono disposte in fila. Si è scoperto che il numero di pietre nere che hanno una pietra bianca a destra è maggiore del numero di pietre nere che hanno una pietra bianca a sinistra. Trova il numero di tali accordi.
 
 **Risposta:** 2^{2022}
-[[src_jjmo22yqa_yosen__Q03]]
+[[Quesiti/src_jjmo22yqa_yosen#q03|src_jjmo22yqa_yosen__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: JJMO Yosen
 > (Un **terminante decimale** è un decimale con finitamente molte cifre non zero dopo il punto decimale, come $2.024$ o $5$. Per un numero reale positivo $r$, la parte integrale **** di $r$ è il numero intero più grande non superiore a $r$, e la parte frazionaria **** di $r$ è $r$ meno la sua parte integrale. Ad esempio, la parte integrale di $2.024$ è $2$, la parte frazionaria è $0.024$; la parte integrale di $5$ è $5$, la parte frazionaria è $0$.)
 
 **Risposta:** 48.875
-[[src_jjmo22yqa_yosen__Q04]]
+[[Quesiti/src_jjmo22yqa_yosen#q04|src_jjmo22yqa_yosen__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: JJMO Yosen
 > C'è un quadrilaterale $ABCD$ che soddisfa $BC = 1$, $\angle BCD = 90^\circ$ e $AC = AD$. Dato che i triangoli $ABD$ e $BCD$ sono simili, si trova l'area del quadrilaterale $ABCD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \dfrac{5\sqrt{2}}{4}
-[[src_jjmo22yqa_yosen__Q05]]
+[[Quesiti/src_jjmo22yqa_yosen#q05|src_jjmo22yqa_yosen__Q05]]
 
 
 
@@ -190,7 +190,7 @@ level: JJMO Yosen
 > Trova il numero di 6 doppi $(a_1, a_2, a_3, a_4, a_5, a_6)$ di numeri interi positivi con $\gcd(a_1, a_2, a_3, a_4, a_5, a_6) = 1$ in modo tale che tutte le sei quantità $$\frac{a_1}{a_2},\quad \frac{2a_2}{a_3},\quad \frac{3a_3}{a_4},\quad \frac{4a_4}{a_5},\quad \frac{5a_5}{a_6},\quad \frac{6a_6}{a_1}$$ siano numeri interi.
 
 **Risposta:** 15876
-[[src_jjmo22yqa_yosen__Q06]]
+[[Quesiti/src_jjmo22yqa_yosen#q06|src_jjmo22yqa_yosen__Q06]]
 
 
 
@@ -227,7 +227,7 @@ level: JJMO Yosen
 > Trovare il numero di valori di $n$ per i quali i numeri $3$ rimangono sulla lavagna quando l'operazione termina.
 
 **Risposta:** 18 \cdot 10^{49}
-[[src_jjmo22yqa_yosen__Q07]]
+[[Quesiti/src_jjmo22yqa_yosen#q07|src_jjmo22yqa_yosen__Q07]]
 
 
 
@@ -265,7 +265,7 @@ level: JJMO Yosen
 > (I dispositivi che coincidono dopo la rotazione o la riflessione sono considerati come distinti.)
 
 **Risposta:** 3 \cdot 2^{1013} - 6
-[[src_jjmo22yqa_yosen__Q08]]
+[[Quesiti/src_jjmo22yqa_yosen#q08|src_jjmo22yqa_yosen__Q08]]
 
 
 
@@ -287,7 +287,7 @@ level: JJMO Yosen
 > 
 > (Here cells $0$ and $2025$ represent cells $2024$ and $1$, respectively.)
 
-![[src_jjmo22yqa_yosen__Q09.png]]
+![[src_jjmo22yqa_yosen__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_conteggio|Conteggio]]
@@ -310,10 +310,10 @@ level: JJMO Yosen
 > 
 > (Qui le celle $0$ e $2025$ rappresentano le celle $2024$ e $1$, rispettivamente.)
 
-![[src_jjmo22yqa_yosen__Q09.png]]
+![[src_jjmo22yqa_yosen__q09.png]]
 
 **Risposta:** 2026
-[[src_jjmo22yqa_yosen__Q09]]
+[[Quesiti/src_jjmo22yqa_yosen#q09|src_jjmo22yqa_yosen__Q09]]
 
 
 
@@ -342,7 +342,7 @@ level: JJMO Yosen
 > Nel triangolo $ABC$ con $BC = 16$, i punti $D$ e $E$ si trovano sul lato $BC$ con $BD = 1$ e $EC = 7$. Il $F$ è l'intersezione della linea attraverso $D$ parallela a $AC$ e la linea attraverso $E$ parallela a $AB$. È dato che $F$ si trova sul circoncircolo del triangolo $ABC$. Quando il circoncircolo del triangolo $DEF$ è tangente a lato $AB$, si trova la lunghezza $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** 3 + 3\sqrt{15}
-[[src_jjmo22yqa_yosen__Q10]]
+[[Quesiti/src_jjmo22yqa_yosen#q10|src_jjmo22yqa_yosen__Q10]]
 
 
 
@@ -377,7 +377,7 @@ level: JJMO Yosen
 > (Una permutazione di $1, 2, \ldots, 100$ è una sequenza di lunghezza $100$ in cui ciascuno dei numeri interi $1$ attraverso $100$ appare esattamente una volta.)
 
 **Risposta:** \dfrac{3^{100} - 197}{4}
-[[src_jjmo22yqa_yosen__Q11]]
+[[Quesiti/src_jjmo22yqa_yosen#q11|src_jjmo22yqa_yosen__Q11]]
 
 
 
@@ -417,4 +417,4 @@ level: JJMO Yosen
 > (Per i numeri interi positivi $s$ e $t$, aggiungere $t$ alla fine di $s$ significa scrivere la rappresentazione decimale di $s$ immediatamente seguita dalla rappresentazione decimale di $t$. Ad esempio, aggiungendo $22$ a $2024$ si ottiene $202422$.)
 
 **Risposta:** 805
-[[src_jjmo22yqa_yosen__Q12]]
+[[Quesiti/src_jjmo22yqa_yosen#q12|src_jjmo22yqa_yosen__Q12]]

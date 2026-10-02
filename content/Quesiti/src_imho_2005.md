@@ -33,7 +33,7 @@ level: IMO
 
 > Six points are chosen on the sides of an equilateral triangle $ABC$: $A_1$, $A_2$ on $BC$; $B_1$, $B_2$ on $CA$; and $C_1$, $C_2$ on $AB$, such that they are the vertices of a convex hexagon $A_1A_2B_1B_2C_1C_2$ with equal side lengths. Prove that the lines $A_1B_2$, $B_1C_2$ and $C_1A_2$ are concurrent.
 
-[[src_imho_2005__Q01]]
+[[Quesiti/src_imho_2005#q01|src_imho_2005__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: IMO
 
 > Let $a_1, a_2, \ldots$ be a sequence of integers with infinitely many positive and infinitely many negative terms. Suppose that for every positive integer $n$ the numbers $a_1, a_2, \ldots, a_n$ leave $n$ different remainders upon division by $n$. Prove that every integer occurs exactly once in the sequence.
 
-[[src_imho_2005__Q02]]
+[[Quesiti/src_imho_2005#q02|src_imho_2005__Q02]]
 
 
 
@@ -88,7 +88,7 @@ Inequality for x,y,z >= 1 involving fractional expressions
 
 > Let $x, y, z$ be real numbers each greater than $1$. Prove that $$\frac{x^5-x^2}{x^5+y^3+z^3}+\frac{y^5-y^2}{y^5+z^3+x^3}+\frac{z^5-z^2}{z^5+x^3+y^3}\ge 0.$$
 
-[[src_imho_2005__Q03]]
+[[Quesiti/src_imho_2005#q03|src_imho_2005__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Inequality for x,y,z >= 1 involving fractional expressions
 
 > Determine the positive integers relatively prime to all the terms of the infinite sequence $$a_n = 2^n + 3^n + 6^n - 1, \quad n \ge 1.$$
 
-[[src_imho_2005__Q04]]
+[[Quesiti/src_imho_2005#q04|src_imho_2005__Q04]]
 
 
 
@@ -143,7 +143,7 @@ Inequality for x,y,z >= 1 involving fractional expressions
 
 > Let $ABCD$ be a fixed convex quadrilateral with $BC = DA$ and $BC$ not parallel with $DA$. Let two variable points $E$ and $F$ lie on the sides $BC$ and $DA$, respectively, and satisfy $BE = DF$. The lines $AC$ and $BD$ meet at $P$, the lines $BD$ and $EF$ meet at $Q$, the lines $EF$ and $AC$ meet at $R$. Prove that the circumcircles of the triangles $PQB$, $QRE$, and $PRA$ have a common point other than $P$.
 
-[[src_imho_2005__Q05]]
+[[Quesiti/src_imho_2005#q05|src_imho_2005__Q05]]
 
 
 
@@ -170,4 +170,4 @@ Math competition: at least 2 contestants solved exactly 5 problems each
 
 > In a mathematical competition, in which $6$ problems were posed to the participants, every two of these problems were solved by more than $\frac{2}{5}$ of the contestants. Moreover, no contestant solved all the $6$ problems. Prove that there are at least $2$ contestants who solved exactly $5$ problems each.
 
-[[src_imho_2005__Q06]]
+[[Quesiti/src_imho_2005#q06|src_imho_2005__Q06]]

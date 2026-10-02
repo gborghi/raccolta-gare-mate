@@ -48,7 +48,7 @@ level: Concours Général
 > 
 > Indicare che esiste un numero naturale $N$ tale che la funzione $f$ sia di tipo $T_N$.
 
-[[src_cgen_2007__Q01]]
+[[Quesiti/src_cgen_2007#q01|src_cgen_2007__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: Concours Général
 > 
 > **2.** In considerazione di un array di questo tipo, indicare che ha almeno una riga o una colonna il cui prodotto degli elementi è maggiore o uguale a $90$.
 
-[[src_cgen_2007__Q02]]
+[[Quesiti/src_cgen_2007#q02|src_cgen_2007__Q02]]
 
 
 
@@ -283,4 +283,4 @@ level: Concours Général
 > 
 > **b.** Cosa si può dire dei fattori primi di $b$?
 
-[[src_cgen_2007__Q03]]
+[[Quesiti/src_cgen_2007#q03|src_cgen_2007__Q03]]

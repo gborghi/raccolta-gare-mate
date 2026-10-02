@@ -47,7 +47,7 @@ level: OBM Nível 1
 > 
 > b) Presenta un insieme il cui elemento più grande è il più piccolo possibile.
 
-[[src_obm_2002_n1_f3__Q01]]
+[[Quesiti/src_obm_2002_n1_f3#q01|src_obm_2002_n1_f3__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 1
 > 
 > Compute the area of triangle $X'Y'Z'$.
 
-![[src_obm_2002_n1_f3__Q02.png]]
+![[src_obm_2002_n1_f3__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -86,9 +86,9 @@ level: OBM Nível 1
 > 
 > Calcolare l'area del triangolo $X'Y'Z'$.
 
-![[src_obm_2002_n1_f3__Q02.png]]
+![[src_obm_2002_n1_f3__q02.png]]
 
-[[src_obm_2002_n1_f3__Q02]]
+[[Quesiti/src_obm_2002_n1_f3#q02|src_obm_2002_n1_f3__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: OBM Nível 1
 
 > The park below has the shape of a quadrilateral and possesses several gates (entrances): one at each vertex of the quadrilateral and one on each side. The gates are to be numbered, four by four, so that on each side the sum $T$ of the numbers is the same. Number the points so that the sum is always the same number, equal to $T$. Present below an example of a numbering of the points that gives one of the possible values of $T$.
 
-![[src_obm_2002_n1_f3__Q03.png]]
+![[src_obm_2002_n1_f3__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -119,9 +119,9 @@ level: OBM Nível 1
 
 > Il parco di sotto ha la forma di un quadrilaterale e possiede diversi cancelli (ingressi): uno ad ogni vertice del quadrilaterale e uno su ogni lato. I cancelli devono essere numerati, quattro per quattro, in modo che su ogni lato la somma $T$ dei numeri sia la stessa. Numerare i punti in modo che la somma sia sempre lo stesso numero, pari a $T$. Presenta qui di seguito un esempio di numerazione dei punti che fornisce uno dei possibili valori di $T$.
 
-![[src_obm_2002_n1_f3__Q03.png]]
+![[src_obm_2002_n1_f3__q03.png]]
 
-[[src_obm_2002_n1_f3__Q03]]
+[[Quesiti/src_obm_2002_n1_f3#q03|src_obm_2002_n1_f3__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: OBM Nível 1
 > 
 > b) Is it possible, turning over four consecutive coins each time, to make all of them show face down (tails)?
 
-![[src_obm_2002_n1_f3__Q04.png]]
+![[src_obm_2002_n1_f3__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -160,9 +160,9 @@ level: OBM Nível 1
 > 
 > b) È possibile, girando ogni volta quattro monete consecutive, farli tutti mostrare a faccia in giù?
 
-![[src_obm_2002_n1_f3__Q04.png]]
+![[src_obm_2002_n1_f3__q04.png]]
 
-[[src_obm_2002_n1_f3__Q04]]
+[[Quesiti/src_obm_2002_n1_f3#q04|src_obm_2002_n1_f3__Q04]]
 
 
 
@@ -191,4 +191,4 @@ level: OBM Nível 1
 
 > Due giocatori giocano su una scacchiera ($8 \times 8$) composta da quadrati della dimensione dei pezzi. I due giocatori giocano alternativamente, e a ciascuna partita un giocatore pone un pedone $1 \times 1$ su un quadrato vuoto della tavola. Il giocatore che non riesce a mettere un pedone sulla tavola perde. Un giocatore può vincere indipendentemente dal modo in cui l'avversario gioca  cioè, uno dei giocatori ha una strategia vincente?
 
-[[src_obm_2002_n1_f3__Q05]]
+[[Quesiti/src_obm_2002_n1_f3#q05|src_obm_2002_n1_f3__Q05]]

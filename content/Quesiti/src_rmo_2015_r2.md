@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $B'$ and $C'$ denote respectively the reflection of $B$ and $C$ in the internal angle bisector of $\angle A$. Show that the triangles $ABC$ and $AB'C'$ have the same incentre.
 
-![[src_rmo_2015_r2__Q01.png]]
+![[src_rmo_2015_r2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Lasciate che $ABC$ sia un triangolo. $B'$ e $C'$ indicano rispettivamente il riflesso di $B$ e $C$ nel bisettore angolare interno di $\angle A$. Indicare che i triangoli $ABC$ e $AB'C'$ hanno lo stesso incentro.
 
-![[src_rmo_2015_r2__Q01.png]]
+![[src_rmo_2015_r2__q01.png]]
 
-[[src_rmo_2015_r2__Q01]]
+[[Quesiti/src_rmo_2015_r2#q01|src_rmo_2015_r2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico con coefficienti reali. Supponiamo che ci siano numeri reali $s \neq t$ come $P(s) = t$ e $P(t) = s$. Provare che $b - st$ è una radice dell'equazione $x^2 + ax - b - at = 0$.
 
-[[src_rmo_2015_r2__Q02]]
+[[Quesiti/src_rmo_2015_r2#q02|src_rmo_2015_r2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: RMO
 
 > Trova tutti gli integri $a, b, c$ in modo tale che $a^2 = bc + 1$, $b^2 = ca + 1$.
 
-[[src_rmo_2015_r2__Q03]]
+[[Quesiti/src_rmo_2015_r2#q03|src_rmo_2015_r2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: RMO
 
 > Supponiamo che 32 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
 
-[[src_rmo_2015_r2__Q04]]
+[[Quesiti/src_rmo_2015_r2#q04|src_rmo_2015_r2__Q04]]
 
 
 
@@ -131,7 +131,7 @@ level: RMO
 
 > Two circles $\Gamma$ and $\Sigma$ in the plane intersect at two distinct points $A$ and $B$, and the centre of $\Sigma$ lies on $\Gamma$. Let points $C$ and $D$ be on $\Gamma$ and $\Sigma$, respectively, such that $C$, $B$ and $D$ are collinear. Let point $E$ on $\Sigma$ be such that $DE$ is parallel to $AC$. Show that $AE = AB$.
 
-![[src_rmo_2015_r2__Q05.png]]
+![[src_rmo_2015_r2__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -147,9 +147,9 @@ level: RMO
 
 > Due cerchi $\Gamma$ e $\Sigma$ nel piano si incrociano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ si trova su $\Gamma$. I punti $C$ e $D$ devono essere rispettivamente $\Gamma$ e $\Sigma$ in modo tale che $C$, $B$ e $D$ siano collineari. Il punto $E$ su $\Sigma$ deve essere tale che $DE$ sia parallelo a $AC$. Mostra che $AE = AB$.
 
-![[src_rmo_2015_r2__Q05.png]]
+![[src_rmo_2015_r2__q05.png]]
 
-[[src_rmo_2015_r2__Q05]]
+[[Quesiti/src_rmo_2015_r2#q05|src_rmo_2015_r2__Q05]]
 
 
 
@@ -176,4 +176,4 @@ level: RMO
 
 > Trova tutti i numeri reali $a$ in modo tale che $4 < a < 5$ e $a(a - 3\{a\})$ siano un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Per esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
 
-[[src_rmo_2015_r2__Q06]]
+[[Quesiti/src_rmo_2015_r2#q06|src_rmo_2015_r2__Q06]]

@@ -33,7 +33,7 @@ level: INMO
 
 > $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. $BD$ sia l'altitudine da $B$ a $AC$. I segmenti $P$, $Q$ e $I$ siano rispettivamente gli incentri dei triangoli $ABD$, $CBD$ e $ABC$. Indicare che il circoncentro del triangolo $PIQ$ si trova sull'ipotenuza $AC$.
 
-[[src_inmo_2015__Q01]]
+[[Quesiti/src_inmo_2015#q01|src_inmo_2015__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: INMO
 
 > Per qualsiasi numero naturale $n > 1$, scrivete l'espansione decimale infinita di $1/n$ (ad esempio, scriviamo $1/2 = 0.\overline{49}$ come la sua espansione decimale infinita, non $0.5$). Determinare la lunghezza della parte non periodica dell'espansione decimale (infinita) di $1/n$.
 
-[[src_inmo_2015__Q02]]
+[[Quesiti/src_inmo_2015#q02|src_inmo_2015__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: INMO
 
 > Trova tutte le funzioni reali $f$ da $\mathbb{R} \to \mathbb{R}$ che soddisfano la relazione $$f(x^2 + yf(x)) = xf(x + y).$$
 
-[[src_inmo_2015__Q03]]
+[[Quesiti/src_inmo_2015#q03|src_inmo_2015__Q03]]
 
 
 
@@ -115,7 +115,7 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 
 > Ci sono quattro giocatori di basket $A$, $B$, $C$, $D$. Inizialmente, la palla è con $A$. La palla viene sempre passata da una persona a un'altra. In quanti modi la palla può tornare a $A$ dopo sette passaggi? (Ad esempio $A \to C \to B \to D \to A \to B \to C \to A$ e $A \to D \to A \to D \to A \to B \to C \to A$ sono due modi in cui la palla può tornare a $A$ dopo sette passaggi.)
 
-[[src_inmo_2015__Q04]]
+[[Quesiti/src_inmo_2015#q04|src_inmo_2015__Q04]]
 
 
 
@@ -143,7 +143,7 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 
 > Che $ABCD$ sia un quadrilaterale convex. Lasciate che le diagonali $AC$ e $BD$ si incrociano in $P$. Le altitudini $PE$, $PF$, $PG$ e $PH$ siano rispettivamente le altitudini da $P$ ai lati $AB$, $BC$, $CD$ e $DA$. Indicare che $ABCD$ ha un incircolo se e solo se $$\frac{1}{PE} + \frac{1}{PG} = \frac{1}{PF} + \frac{1}{PH}.$$
 
-[[src_inmo_2015__Q05]]
+[[Quesiti/src_inmo_2015#q05|src_inmo_2015__Q05]]
 
 
 
@@ -171,4 +171,4 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 
 > Da un insieme di 11 numeri interi quadrati, mostrare che si può scegliere 6 numeri $a^2, b^2, c^2, d^2, e^2, f^2$ in modo che $$a^2 + b^2 + c^2 \equiv d^2 + e^2 + f^2 \pmod{12}.$$
 
-[[src_inmo_2015__Q06]]
+[[Quesiti/src_inmo_2015#q06|src_inmo_2015__Q06]]

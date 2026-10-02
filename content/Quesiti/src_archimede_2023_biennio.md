@@ -47,7 +47,7 @@ level: biennio
 > - **(E)** 1/14
 
 **Answer:** C
-[[src_archimede_2023_biennio__Q01]]
+[[Quesiti/src_archimede_2023_biennio#q01|src_archimede_2023_biennio__Q01]]
 
 
 
@@ -89,7 +89,7 @@ level: biennio
 > - **(E)** 14
 
 **Answer:** A
-[[src_archimede_2023_biennio__Q02]]
+[[Quesiti/src_archimede_2023_biennio#q02|src_archimede_2023_biennio__Q02]]
 
 
 
@@ -130,7 +130,7 @@ level: biennio
 > - **(E)** 41°
 
 **Answer:** E
-[[src_archimede_2023_biennio__Q03]]
+[[Quesiti/src_archimede_2023_biennio#q03|src_archimede_2023_biennio__Q03]]
 
 
 
@@ -174,7 +174,7 @@ level: biennio
 > - **(E)** 576
 
 **Answer:** B
-[[src_archimede_2023_biennio__Q04]]
+[[Quesiti/src_archimede_2023_biennio#q04|src_archimede_2023_biennio__Q04]]
 
 
 
@@ -217,7 +217,7 @@ level: biennio
 > - **(E)** 4
 
 **Answer:** E
-[[src_archimede_2023_biennio__Q05]]
+[[Quesiti/src_archimede_2023_biennio#q05|src_archimede_2023_biennio__Q05]]
 
 
 
@@ -262,7 +262,7 @@ level: biennio
 > - **(E)** None of them.
 
 **Answer:** B
-[[src_archimede_2023_biennio__Q06]]
+[[Quesiti/src_archimede_2023_biennio#q06|src_archimede_2023_biennio__Q06]]
 
 
 
@@ -315,7 +315,7 @@ level: biennio
 > - **(E)** 84°
 
 **Answer:** A
-[[src_archimede_2023_biennio__Q07]]
+[[Quesiti/src_archimede_2023_biennio#q07|src_archimede_2023_biennio__Q07]]
 
 
 
@@ -360,7 +360,7 @@ level: biennio
 > - **(E)** 2674
 
 **Answer:** C
-[[src_archimede_2023_biennio__Q08]]
+[[Quesiti/src_archimede_2023_biennio#q08|src_archimede_2023_biennio__Q08]]
 
 
 
@@ -407,7 +407,7 @@ level: biennio
 > - **(E)** 3a + 2b + c + 4d
 
 **Answer:** A
-[[src_archimede_2023_biennio__Q09]]
+[[Quesiti/src_archimede_2023_biennio#q09|src_archimede_2023_biennio__Q09]]
 
 
 
@@ -453,7 +453,7 @@ level: biennio
 > - **(E)** 1
 
 **Answer:** E
-[[src_archimede_2023_biennio__Q10]]
+[[Quesiti/src_archimede_2023_biennio#q10|src_archimede_2023_biennio__Q10]]
 
 
 
@@ -498,7 +498,7 @@ level: biennio
 > - **(E)** 84
 
 **Answer:** C
-[[src_archimede_2023_biennio__Q11]]
+[[Quesiti/src_archimede_2023_biennio#q11|src_archimede_2023_biennio__Q11]]
 
 
 
@@ -595,7 +595,7 @@ level: biennio
 > - **(E)** 126
 
 **Answer:** B
-[[src_archimede_2023_biennio__Q12]]
+[[Quesiti/src_archimede_2023_biennio#q12|src_archimede_2023_biennio__Q12]]
 
 
 
@@ -637,7 +637,7 @@ level: biennio
 > - **(E)** 300
 
 **Answer:** E
-[[src_archimede_2023_biennio__Q13]]
+[[Quesiti/src_archimede_2023_biennio#q13|src_archimede_2023_biennio__Q13]]
 
 
 
@@ -680,7 +680,7 @@ level: biennio
 > - **(E)** 193
 
 **Answer:** D
-[[src_archimede_2023_biennio__Q14]]
+[[Quesiti/src_archimede_2023_biennio#q14|src_archimede_2023_biennio__Q14]]
 
 
 
@@ -726,7 +726,7 @@ level: biennio
 > - **(E)** 48
 
 **Answer:** A
-[[src_archimede_2023_biennio__Q15]]
+[[Quesiti/src_archimede_2023_biennio#q15|src_archimede_2023_biennio__Q15]]
 
 
 
@@ -780,4 +780,4 @@ level: biennio
 > - **(E)** 72 211
 
 **Answer:** B
-[[src_archimede_2023_biennio__Q16]]
+[[Quesiti/src_archimede_2023_biennio#q16|src_archimede_2023_biennio__Q16]]

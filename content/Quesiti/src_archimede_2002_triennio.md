@@ -46,7 +46,7 @@ level: triennio
 > - **(D)** 4
 > - **(E)** 9.
 
-[[src_archimede_2002_triennio__Q01]]
+[[Quesiti/src_archimede_2002_triennio#q01|src_archimede_2002_triennio__Q01]]
 
 
 
@@ -85,7 +85,7 @@ level: triennio
 > - **(D)** 50%
 > - **(E)** 60%.
 
-[[src_archimede_2002_triennio__Q02]]
+[[Quesiti/src_archimede_2002_triennio#q02|src_archimede_2002_triennio__Q02]]
 
 
 
@@ -123,7 +123,7 @@ level: triennio
 > - **(D)** 1000,5
 > - **(E)** 10000,1.
 
-[[src_archimede_2002_triennio__Q08]]
+[[Quesiti/src_archimede_2002_triennio#q08|src_archimede_2002_triennio__Q08]]
 
 
 
@@ -165,7 +165,7 @@ level: triennio
 > - **(D)** 300 cm3
 > - **(E)** the data provided are insufficient.
 
-[[src_archimede_2002_triennio__Q09]]
+[[Quesiti/src_archimede_2002_triennio#q09|src_archimede_2002_triennio__Q09]]
 
 
 
@@ -208,7 +208,7 @@ level: triennio
 > - **(D)** 301
 > - **(E)** 574.
 
-[[src_archimede_2002_triennio__Q10]]
+[[Quesiti/src_archimede_2002_triennio#q10|src_archimede_2002_triennio__Q10]]
 
 
 
@@ -250,7 +250,7 @@ level: triennio
 > - **(D)** Never
 > - **(E)** I always do.
 
-[[src_archimede_2002_triennio__Q11]]
+[[Quesiti/src_archimede_2002_triennio#q11|src_archimede_2002_triennio__Q11]]
 
 
 
@@ -289,7 +289,7 @@ level: triennio
 > - **(D)** 1 2
 > - **(E)** 7 12.
 
-[[src_archimede_2002_triennio__Q12]]
+[[Quesiti/src_archimede_2002_triennio#q12|src_archimede_2002_triennio__Q12]]
 
 
 
@@ -360,7 +360,7 @@ level: triennio
 > - **(D)** √ 3 + π 6
 > - **(E)** 3 √ 3 −π.
 
-[[src_archimede_2002_triennio__Q13]]
+[[Quesiti/src_archimede_2002_triennio#q13|src_archimede_2002_triennio__Q13]]
 
 
 
@@ -400,7 +400,7 @@ level: triennio
 > - **(D)** 35%
 > - **(E)** 50%.
 
-[[src_archimede_2002_triennio__Q14]]
+[[Quesiti/src_archimede_2002_triennio#q14|src_archimede_2002_triennio__Q14]]
 
 
 
@@ -441,7 +441,7 @@ level: triennio
 > - **(D)** He can 't do it .
 > - **(E)** depending on the length of the road.
 
-[[src_archimede_2002_triennio__Q15]]
+[[Quesiti/src_archimede_2002_triennio#q15|src_archimede_2002_triennio__Q15]]
 
 
 
@@ -484,7 +484,7 @@ level: triennio
 > - **(D)** three
 > - **(E)** Four of them.
 
-[[src_archimede_2002_triennio__Q16]]
+[[Quesiti/src_archimede_2002_triennio#q16|src_archimede_2002_triennio__Q16]]
 
 
 
@@ -525,7 +525,7 @@ level: triennio
 > - **(D)** 3; 6; 48
 > - **(E)** 3; 5; 9.
 
-[[src_archimede_2002_triennio__Q18]]
+[[Quesiti/src_archimede_2002_triennio#q18|src_archimede_2002_triennio__Q18]]
 
 
 
@@ -564,7 +564,7 @@ level: triennio
 > - **(D)** 180
 > - **(E)** 190.
 
-[[src_archimede_2002_triennio__Q20]]
+[[Quesiti/src_archimede_2002_triennio#q20|src_archimede_2002_triennio__Q20]]
 
 
 
@@ -608,7 +608,7 @@ level: triennio
 > - **(D)** 700
 > - **(E)** 825.
 
-[[src_archimede_2002_triennio__Q22]]
+[[Quesiti/src_archimede_2002_triennio#q22|src_archimede_2002_triennio__Q22]]
 
 
 
@@ -652,7 +652,7 @@ level: triennio
 > - **(D)** 4
 > - **(E)** There's no way to deduce that.
 
-[[src_archimede_2002_triennio__Q23]]
+[[Quesiti/src_archimede_2002_triennio#q23|src_archimede_2002_triennio__Q23]]
 
 
 
@@ -692,7 +692,7 @@ level: triennio
 > - **(D)** only tetrahedra with a height of 6 √ 3
 > - **(E)** Only if the tetrahedron is straight.
 
-[[src_archimede_2002_triennio__Q24]]
+[[Quesiti/src_archimede_2002_triennio#q24|src_archimede_2002_triennio__Q24]]
 
 
 
@@ -732,4 +732,4 @@ level: triennio
 > - **(D)** There are arbitrarily large figures that are not exactly payable
 > - **(E)** None of the above answers are correct.
 
-[[src_archimede_2002_triennio__Q25]]
+[[Quesiti/src_archimede_2002_triennio#q25|src_archimede_2002_triennio__Q25]]

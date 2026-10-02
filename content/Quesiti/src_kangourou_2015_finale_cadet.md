@@ -34,7 +34,7 @@ level: kangourou
 > Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turn and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
 
 **Answer:** secondo (Paolo inizia)
-[[src_kangourou_2015_finale_cadet__QC1]]
+[[Quesiti/src_kangourou_2015_finale_cadet#qc1|src_kangourou_2015_finale_cadet__QC1]]
 
 
 
@@ -45,7 +45,7 @@ level: kangourou
 
 *condizioni per incrocio treni*
 
-![[src_kangourou_2015_finale_cadet__probC2.png]]
+![[src_kangourou_2015_finale_cadet__probc2.png]]
 
 > Kang è una stazione su una linea a binario unico. In figura vedi lo schema dei binari di Kang, di ciascuno dei quali è indicata la lunghezza: il binario di corsa è quello superiore, mentre il binario inferiore inizia e termina con due tronchi "morti". Tutti i treni circolanti sulla linea sono composti da una locomotiva, che è in testa, e da alcune carrozze: la lunghezza di ogni locomotiva e di ogni carrozza è 19 metri. Quali sono le condizioni meno restrittive da imporre sulla composizione di due treni perché possano incrociarsi in Kang? Tieni presente che è ammesso ogni tipo di manovra (in particolare i treni possono fare retromarcia) e di segnalamento compatibile con lo schema della stazione, incluso lo spezzamento dei treni in gruppi di carrozze. (vedi figura)
 
@@ -61,12 +61,12 @@ level: kangourou
 
 *train crossing conditions*
 
-![[src_kangourou_2015_finale_cadet__probC2.png]]
+![[src_kangourou_2015_finale_cadet__probc2.png]]
 
 > Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead" logs. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
 
 **Answer:** max 13 carrozze
-[[src_kangourou_2015_finale_cadet__QC2]]
+[[Quesiti/src_kangourou_2015_finale_cadet#qc2|src_kangourou_2015_finale_cadet__QC2]]
 
 
 
@@ -77,7 +77,7 @@ level: kangourou
 
 *misura angolo ABC*
 
-![[src_kangourou_2015_finale_cadet__probC3.png]]
+![[src_kangourou_2015_finale_cadet__probc3.png]]
 
 > La figura mostra due quadrati uguali che hanno in comune esattamente un vertice. È possibile precisare la misura dell'angolo $ABC$? (vedi figura)
 
@@ -93,12 +93,12 @@ level: kangourou
 
 The measurement shall be carried out in accordance with the methodology set out in Annex II.
 
-![[src_kangourou_2015_finale_cadet__probC3.png]]
+![[src_kangourou_2015_finale_cadet__probc3.png]]
 
 > The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
 
 **Answer:** 45 gradi
-[[src_kangourou_2015_finale_cadet__QC3]]
+[[Quesiti/src_kangourou_2015_finale_cadet#qc3|src_kangourou_2015_finale_cadet__QC3]]
 
 
 
@@ -127,7 +127,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > In the usual A4 (rectangular) sheets, the ratio between the length of the longest side and the length of the shortest side is $\sqrt{2}$. You want to draw on one of these sheets a grid of$(n+1) \times n$size made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of $n$?
 
 **Answer:** 1 e 2
-[[src_kangourou_2015_finale_cadet__QC4]]
+[[Quesiti/src_kangourou_2015_finale_cadet#qc4|src_kangourou_2015_finale_cadet__QC4]]
 
 
 
@@ -156,7 +156,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 > In Kangland, the currency used is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that, for each positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in a strictly higher number than the different possible ways to realize the amount of $N$ kang. Note: to obtain, for example, 4 kang, the $1+1+2$ mode must be considered equal to the $1+2+1$ mode (but not the $2+2$ mode).
 
 **Answer:** dimostrazione
-[[src_kangourou_2015_finale_cadet__QC5]]
+[[Quesiti/src_kangourou_2015_finale_cadet#qc5|src_kangourou_2015_finale_cadet__QC5]]
 
 
 
@@ -185,4 +185,4 @@ The measurement shall be carried out in accordance with the methodology set out 
 > Fifty-one ravens are lined up on a branch of a large tree. Whenever one of them crawls, his right and his left, if they exist, are in flight. Every crow that takes flight flies for exactly one minute, then takes its place by immediately making a crackling sound. This morning the first to crawl was the raven at the end of the branch and then they continued, according to the described rule, for exactly one hour: at the end of the hour all the ravens in flight returned to the branch making each one one one last crawl sound. How many were there at that hour, from the first to the last moment included, the scratches made?
 
 **Answer:** 931
-[[src_kangourou_2015_finale_cadet__QC6]]
+[[Quesiti/src_kangourou_2015_finale_cadet#qc6|src_kangourou_2015_finale_cadet__QC6]]

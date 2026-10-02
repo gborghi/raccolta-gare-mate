@@ -32,7 +32,7 @@ level: RMO
 
 > Il $ABC$ sia un triangolo a angolo acuto; $D$, $F$ siano rispettivamente i punti medi di $BC$ e $AB$. La perpendicolare da $F$ a $AC$ e la perpendicolare da $B$ a $BC$ si incontrano in $N$. Provare che $ND$ è il radio circostante di $ABC$.
 
-[[src_rmo_2008__Q01]]
+[[Quesiti/src_rmo_2008#q01|src_rmo_2008__Q01]]
 
 
 
@@ -63,7 +63,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Dimostrare che esistono due sequenze infinite $(a_n)_{n \ge 1}$ e $(b_n)_{n \ge 1}$ di numeri interi positivi in modo tale che le seguenti condizioni si applichino contemporaneamente: (i) $1 < a_1 < a_2 < a_3 < \cdots$; (ii) $a_n < b_n < a_n^2$, per tutti $n \ge 1$; (iii) $a_n - 1$ divide $b_n - 1$, per tutti $n \ge 1$; (iv) $a_n^2 - 1$ divide $b_n^2 - 1$, per tutti $n \ge 1$.
 
-[[src_rmo_2008__Q02]]
+[[Quesiti/src_rmo_2008#q02|src_rmo_2008__Q02]]
 
 
 
@@ -91,7 +91,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Supponiamo che $a$ e $b$ siano numeri reali in modo tale che le radici dell'equazione cubica $ax^3 - x^2 + bx - 1 = 0$ siano tutti numeri reali positivi. Prove che: i) $0 < 3ab \le 1$ e ii) $b \ge \sqrt{3}$.
 
-[[src_rmo_2008__Q03]]
+[[Quesiti/src_rmo_2008#q03|src_rmo_2008__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Trova il numero di tutti i numeri naturali a 6 cifre in modo tale che la somma dei loro numeri sia 10 e ognuno dei numeri $0, 1, 2, 3$ si verifichi almeno una volta in essi.
 
-[[src_rmo_2008__Q04]]
+[[Quesiti/src_rmo_2008#q04|src_rmo_2008__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Si dice che tre numeri reali non zero $a$, $b$, $c$ siano in progressione armonica se $\frac{1}{a} + \frac{1}{c} = \frac{2}{b}$. Trovare tutte le progressioni armoniche a tre termini $a$, $b$, $c$ di enti interi positivi in aumento rigoroso in cui $a = 20$ e $b$ dividono $c$.
 
-[[src_rmo_2008__Q05]]
+[[Quesiti/src_rmo_2008#q05|src_rmo_2008__Q05]]
 
 
 
@@ -172,4 +172,4 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 
 > Trova il numero di tutti i triangoli con angolo obtuso con perimetro $2008$.
 
-[[src_rmo_2008__Q06]]
+[[Quesiti/src_rmo_2008#q06|src_rmo_2008__Q06]]

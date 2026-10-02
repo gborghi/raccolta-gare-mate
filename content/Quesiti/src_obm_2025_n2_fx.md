@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Determinare il valore minimo possibile per la somma delle cifre di una potenza di $2$ che ha almeno due cifre e giustificare perché non è possibile trovare una potenza di $2$ con una somma di cifre più piccola. Trova una potenza di $2$ la cui somma digitali è uguale alla risposta trovata.
 
-[[src_obm_2025_n2_fx__Q01]]
+[[Quesiti/src_obm_2025_n2_fx#q01|src_obm_2025_n2_fx__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 2
 
 > $m$ sia un numero intero positivo. Ana e Banana giocano il seguente gioco su una tavola $5 \times 5$, inizialmente riempita di $0$ in ogni cella. In alternativa, essi scelgono una cella della scheda e aggiungono al numero scritto in quella cella un numero intero dell'insieme $\{1, 2, 3, 4, 5\}$, in modo tale che il numero scritto in quella cella non superi mai $m$. Il giocatore che completa tutte le cinque celle di una riga, una colonna o una delle due diagonali principali con il numero $m$ vince. Per quali integri positivi $m$ Ana, la prima a giocare, ha una strategia vincente?
 
-[[src_obm_2025_n2_fx__Q02]]
+[[Quesiti/src_obm_2025_n2_fx#q02|src_obm_2025_n2_fx__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 2
 
 > $ABC$ sia un triangolo acuto con $AB < AC$. I metri $D$, $E$ e $F$ siano i piedi delle altitudini rispettivamente da $A$, $B$ e $C$, e $M$ sia il punto medio di $BC$. Che $H$ sia l'ortocentro di $ABC$. $P$ sia l'intersezione delle linee $EF$ e $BC$. La linea $PH$ incontra nuovamente il cerchio di diametro $AH$ al punto $J$. Il $R$ deve essere il riflesso di $A$ su $BC$. Le linee $JD$ e $PR$ si incontrano a $K$. Provare che il quadrilaterale $KDMR$ è ciclico.
 
-[[src_obm_2025_n2_fx__Q03]]
+[[Quesiti/src_obm_2025_n2_fx#q03|src_obm_2025_n2_fx__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: OBM Nível 2
 > 
 > \textit{Remember:} \begin{itemize} \item L'incentro di $ABC$ è l'intersezione dei bisettori interni di $\angle A$, $\angle B$ e $\angle C$. \item Il $A$-excentro di $ABC$ è l'intersezione del bisector interno di $\angle A$ con i bisector esterni di $\angle B$ e $\angle C$. # Finire #
 
-[[src_obm_2025_n2_fx__Q04]]
+[[Quesiti/src_obm_2025_n2_fx#q04|src_obm_2025_n2_fx__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: OBM Nível 2
 > 
 > b) dimostrare che almeno uno dei numeri $a$, $b$ o $c$ ha un valore assoluto superiore o uguale a $2025$.
 
-[[src_obm_2025_n2_fx__Q05]]
+[[Quesiti/src_obm_2025_n2_fx#q05|src_obm_2025_n2_fx__Q05]]
 
 
 
@@ -196,4 +196,4 @@ level: OBM Nível 2
 > 
 > Determinare, come funzione di $n$, il numero minimo possibile di elementi di un insieme ostruzionale.
 
-[[src_obm_2025_n2_fx__Q06]]
+[[Quesiti/src_obm_2025_n2_fx#q06|src_obm_2025_n2_fx__Q06]]

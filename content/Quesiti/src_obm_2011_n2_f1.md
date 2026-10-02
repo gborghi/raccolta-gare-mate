@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > (A) $11$ \quad (B) $14$ \quad (C) $12$ \quad (D) $10$ \quad (E) $15$
 
-![[src_obm_2011_n2_f1__Q01.png]]
+![[src_obm_2011_n2_f1__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -39,9 +39,9 @@ level: OBM Nível 2
 > 
 > (A) $11$ \quad (B) $14$ \quad (C) $12$ \quad (D) $10$ \quad (E) $15$
 
-![[src_obm_2011_n2_f1__Q01.png]]
+![[src_obm_2011_n2_f1__q01.png]]
 
-[[src_obm_2011_n2_f1__Q01]]
+[[Quesiti/src_obm_2011_n2_f1#q01|src_obm_2011_n2_f1__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: OBM Nível 2
 > 
 > (A) $6\,\text{m}$ \quad (B) $8\,\text{m}$ \quad (C) $10\,\text{m}$ \quad (D) $16\,\text{m}$ \quad (E) $24\,\text{m}$
 
-![[src_obm_2011_n2_f1__Q02.png]]
+![[src_obm_2011_n2_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -73,9 +73,9 @@ level: OBM Nível 2
 > 
 > (A) $6\,\text{m}$ \quad (B) $8\,\text{m}$ \quad (C) $10\,\text{m}$ \quad (D) $16\,\text{m}$ \quad (E) $24\,\text{m}$
 
-![[src_obm_2011_n2_f1__Q02.png]]
+![[src_obm_2011_n2_f1__q02.png]]
 
-[[src_obm_2011_n2_f1__Q02]]
+[[Quesiti/src_obm_2011_n2_f1#q02|src_obm_2011_n2_f1__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: OBM Nível 2
 > 
 > (A) $6$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $12$
 
-![[src_obm_2011_n2_f1__Q03.png]]
+![[src_obm_2011_n2_f1__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -108,9 +108,9 @@ level: OBM Nível 2
 > 
 > (A) $6$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $12$
 
-![[src_obm_2011_n2_f1__Q03.png]]
+![[src_obm_2011_n2_f1__q03.png]]
 
-[[src_obm_2011_n2_f1__Q03]]
+[[Quesiti/src_obm_2011_n2_f1#q03|src_obm_2011_n2_f1__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível 2
 > 
 > (A) $2 \times 20112007^2$ \quad (B) $2 \times 20112003^2$ \quad (C) $2 \times 20112007$ \quad (D) $2 \times 20112003$ \quad (E) $2 \times 20112011^2$
 
-[[src_obm_2011_n2_f1__Q04]]
+[[Quesiti/src_obm_2011_n2_f1#q04|src_obm_2011_n2_f1__Q04]]
 
 
 
@@ -172,7 +172,7 @@ level: OBM Nível 2
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-[[src_obm_2011_n2_f1__Q05]]
+[[Quesiti/src_obm_2011_n2_f1#q05|src_obm_2011_n2_f1__Q05]]
 
 
 
@@ -187,7 +187,7 @@ level: OBM Nível 2
 > 
 > (A) $12$ cm \quad (B) $16$ cm \quad (C) $18$ cm \quad (D) $24$ cm \quad (E) $36$ cm
 
-![[src_obm_2011_n2_f1__Q06.png]]
+![[src_obm_2011_n2_f1__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -205,9 +205,9 @@ level: OBM Nível 2
 > 
 > (A) $12$ cm \quad (B) $16$ cm \quad (C) $18$ cm \quad (D) $24$ cm \quad (E) $36$ cm
 
-![[src_obm_2011_n2_f1__Q06.png]]
+![[src_obm_2011_n2_f1__q06.png]]
 
-[[src_obm_2011_n2_f1__Q06]]
+[[Quesiti/src_obm_2011_n2_f1#q06|src_obm_2011_n2_f1__Q06]]
 
 
 
@@ -238,7 +238,7 @@ level: OBM Nível 2
 > 
 > (A) Vinte e quattro. Quad (B) Trinta e sei. Quarenta e due. Quarenta e otto. Quad (E) Cinquanta e sei. (Piccento sei.)
 
-[[src_obm_2011_n2_f1__Q07]]
+[[Quesiti/src_obm_2011_n2_f1#q07|src_obm_2011_n2_f1__Q07]]
 
 
 
@@ -269,7 +269,7 @@ level: OBM Nível 2
 > 
 > (A) $10$ \quad (B) $12$ \quad (C) $15$ \quad (D) $24$ \quad (E) $25$
 
-[[src_obm_2011_n2_f1__Q08]]
+[[Quesiti/src_obm_2011_n2_f1#q08|src_obm_2011_n2_f1__Q08]]
 
 
 
@@ -300,7 +300,7 @@ level: OBM Nível 2
 > 
 > (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
-[[src_obm_2011_n2_f1__Q09]]
+[[Quesiti/src_obm_2011_n2_f1#q09|src_obm_2011_n2_f1__Q09]]
 
 
 
@@ -330,7 +330,7 @@ level: OBM Nível 2
 > 
 > (A) $25^\circ$ \quad (B) $30^\circ$ \quad (C) $40^\circ$ \quad (D) $45^\circ$ \quad (E) $50^\circ$
 
-[[src_obm_2011_n2_f1__Q10]]
+[[Quesiti/src_obm_2011_n2_f1#q10|src_obm_2011_n2_f1__Q10]]
 
 
 
@@ -361,7 +361,7 @@ level: OBM Nível 2
 > 
 > (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
 
-[[src_obm_2011_n2_f1__Q11]]
+[[Quesiti/src_obm_2011_n2_f1#q11|src_obm_2011_n2_f1__Q11]]
 
 
 
@@ -392,7 +392,7 @@ level: OBM Nível 2
 > 
 > (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$ \quad (E) $0$
 
-[[src_obm_2011_n2_f1__Q12]]
+[[Quesiti/src_obm_2011_n2_f1#q12|src_obm_2011_n2_f1__Q12]]
 
 
 
@@ -423,7 +423,7 @@ level: OBM Nível 2
 > 
 > (A) $24$ \quad (B) $26$ \quad (C) $28$ \quad (D) $30$ \quad (E) $32$
 
-[[src_obm_2011_n2_f1__Q13]]
+[[Quesiti/src_obm_2011_n2_f1#q13|src_obm_2011_n2_f1__Q13]]
 
 
 
@@ -454,7 +454,7 @@ level: OBM Nível 2
 > 
 > (A) $15$ \quad (B) $26$ \quad (C) $28$ \quad (D) $33$ \quad (E) $36$
 
-[[src_obm_2011_n2_f1__Q14]]
+[[Quesiti/src_obm_2011_n2_f1#q14|src_obm_2011_n2_f1__Q14]]
 
 
 
@@ -485,7 +485,7 @@ level: OBM Nível 2
 > 
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
-[[src_obm_2011_n2_f1__Q15]]
+[[Quesiti/src_obm_2011_n2_f1#q15|src_obm_2011_n2_f1__Q15]]
 
 
 
@@ -498,7 +498,7 @@ level: OBM Nível 2
 
 > Topazio drew the figures shown below, except for one, lifting the pencil from the paper exactly once and never passing over the same line twice. Which of the figures below is the one he did NOT draw?
 
-![[src_obm_2011_n2_f1__Q16.png]]
+![[src_obm_2011_n2_f1__q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -514,9 +514,9 @@ level: OBM Nível 2
 
 > Topazio disegnò le figure riportate di seguito, tranne una, sollevando la matita dalla carta esattamente una volta e non superando mai la stessa linea due volte. Quale di queste figure è quella che non ha disegnato?
 
-![[src_obm_2011_n2_f1__Q16.png]]
+![[src_obm_2011_n2_f1__q16.png]]
 
-[[src_obm_2011_n2_f1__Q16]]
+[[Quesiti/src_obm_2011_n2_f1#q16|src_obm_2011_n2_f1__Q16]]
 
 
 
@@ -531,7 +531,7 @@ level: OBM Nível 2
 > 
 > (A) $80$ \quad (B) $90$ \quad (C) $100$ \quad (D) $110$ \quad (E) $120$
 
-![[src_obm_2011_n2_f1__Q17.png]]
+![[src_obm_2011_n2_f1__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -548,9 +548,9 @@ level: OBM Nível 2
 > 
 > (A) $80$ \quad (B) $90$ \quad (C) $100$ \quad (D) $110$ \quad (E) $120$
 
-![[src_obm_2011_n2_f1__Q17.png]]
+![[src_obm_2011_n2_f1__q17.png]]
 
-[[src_obm_2011_n2_f1__Q17]]
+[[Quesiti/src_obm_2011_n2_f1#q17|src_obm_2011_n2_f1__Q17]]
 
 
 
@@ -581,7 +581,7 @@ level: OBM Nível 2
 > 
 > (A) $14$ \quad (B) $15$ \quad (C) $16$ \quad (D) $17$ \quad (E) $18$
 
-[[src_obm_2011_n2_f1__Q18]]
+[[Quesiti/src_obm_2011_n2_f1#q18|src_obm_2011_n2_f1__Q18]]
 
 
 
@@ -612,7 +612,7 @@ level: OBM Nível 2
 > 
 > (A) $2$ \quad (B) $4$ \quad (C) $5$ \quad (D) $8$ \quad (E) $9$
 
-[[src_obm_2011_n2_f1__Q19]]
+[[Quesiti/src_obm_2011_n2_f1#q19|src_obm_2011_n2_f1__Q19]]
 
 
 
@@ -627,7 +627,7 @@ level: OBM Nível 2
 > 
 > (A) $3^4$ \quad (B) $246$ \quad (C) $178$ \quad (D) $150$ \quad (E) $120$
 
-![[src_obm_2011_n2_f1__Q20.png]]
+![[src_obm_2011_n2_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -645,9 +645,9 @@ level: OBM Nível 2
 > 
 > (A) $3^4$ \quad (B) $246$ \quad (C) $178$ \quad (D) $150$ \quad (E) $120$
 
-![[src_obm_2011_n2_f1__Q20.png]]
+![[src_obm_2011_n2_f1__q20.png]]
 
-[[src_obm_2011_n2_f1__Q20]]
+[[Quesiti/src_obm_2011_n2_f1#q20|src_obm_2011_n2_f1__Q20]]
 
 
 
@@ -689,7 +689,7 @@ level: OBM Nível 2
 > 
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
 
-[[src_obm_2011_n2_f1__Q21]]
+[[Quesiti/src_obm_2011_n2_f1#q21|src_obm_2011_n2_f1__Q21]]
 
 
 
@@ -719,7 +719,7 @@ level: OBM Nível 2
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $5$ \quad (E) $7$
 
-[[src_obm_2011_n2_f1__Q22]]
+[[Quesiti/src_obm_2011_n2_f1#q22|src_obm_2011_n2_f1__Q22]]
 
 
 
@@ -750,7 +750,7 @@ level: OBM Nível 2
 > 
 > (A) $1$ \quad (B) $2$ \quad (C) $5$ \quad (D) $7$ \quad (E) $11$
 
-[[src_obm_2011_n2_f1__Q23]]
+[[Quesiti/src_obm_2011_n2_f1#q23|src_obm_2011_n2_f1__Q23]]
 
 
 
@@ -780,7 +780,7 @@ level: OBM Nível 2
 > 
 > (A) $10$ \quad (B) $20$ \quad (C) $\dfrac{5\sqrt{3}}{2}$ \quad (D) $10\sqrt{3}$ \quad (E) $15$
 
-[[src_obm_2011_n2_f1__Q24]]
+[[Quesiti/src_obm_2011_n2_f1#q24|src_obm_2011_n2_f1__Q24]]
 
 
 
@@ -795,7 +795,7 @@ level: OBM Nível 2
 > 
 > (A) $69$ \quad (B) $58$ \quad (C) $59$ \quad (D) $61$ \quad (E) $57$
 
-![[src_obm_2011_n2_f1__Q25.png]]
+![[src_obm_2011_n2_f1__q25.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -813,6 +813,6 @@ level: OBM Nível 2
 > 
 > (A) $69$ \quad (B) $58$ \quad (C) $59$ \quad (D) $61$ \quad (E) $57$
 
-![[src_obm_2011_n2_f1__Q25.png]]
+![[src_obm_2011_n2_f1__q25.png]]
 
-[[src_obm_2011_n2_f1__Q25]]
+[[Quesiti/src_obm_2011_n2_f1#q25|src_obm_2011_n2_f1__Q25]]

@@ -37,7 +37,7 @@ Partition 1..1989 into 117 equal-sum 17-element subsets
 
 > Prove that the set {1, 2, . . . , 1989} can be expressed as the disjoint union of subsets Ai (i = 1, 2, . . . , 117) such that: (i) Each Ai contains 17 elements; (ii) The sum of all the elements in each Ai is the same.
 
-[[src_imo_1989__Q01]]
+[[Quesiti/src_imo_1989#q01|src_imo_1989__Q01]]
 
 
 
@@ -72,7 +72,7 @@ Partition 1..1989 into 117 equal-sum 17-element subsets
 
 > In an acute-angled triangle ABC the internal bisector of angle A meets the circumcircle of the triangle again at A1. Points B1 and C1 are defined similarly. Let A0 be the point of intersection of the line AA1 with the external bisectors of angles B and C. Points B0 and C0 are defined similarly. Prove that: (i) The area of the triangle A0B0C0 is twice the area of the hexagon AC1BA1CB1. (ii) The area of triangle A0B0C0 is at least four times the area of triangle ABC.
 
-[[src_imo_1989__Q02]]
+[[Quesiti/src_imo_1989#q02|src_imo_1989__Q02]]
 
 
 
@@ -114,7 +114,7 @@ The following information is provided by the manufacturer:
 > 
 > 30th International Mathematical Olympiad Braunschweig, Germany Day II
 
-[[src_imo_1989__Q03]]
+[[Quesiti/src_imo_1989#q03|src_imo_1989__Q03]]
 
 
 
@@ -154,7 +154,7 @@ Convex quadrilateral distance inequality with interior point P*
 
 > Let ABCD be a convex quadrilateral such that the sides AB, AD, BC satisfy AB = AD + BC. There exists a point P inside the quadrilateral at a distance h from the line CD such that AP = h + AD and BP = h + BC. Show that: 1 √ h ≥ 1 √ AD + 1 √ BC .
 
-[[src_imo_1989__Q04]]
+[[Quesiti/src_imo_1989#q04|src_imo_1989__Q04]]
 
 
 
@@ -181,7 +181,7 @@ Convex quadrilateral distance inequality with interior point P*
 
 > Prove that for every positive integer n there exist n consecutive positive integers none of which is an integral power of a prime number.
 
-[[src_imo_1989__Q05]]
+[[Quesiti/src_imo_1989#q05|src_imo_1989__Q05]]
 
 
 
@@ -210,4 +210,4 @@ Convex quadrilateral distance inequality with interior point P*
 
 > A permutation (x1, x2, . . . , xm) of the set {1, 2, . . . , 2n}, where n is a positive integer, is said to have property P if xxi −xi+1 = n for at least one i in {1, 2, . . . , 2n −1}. Show that, for each n, there are more permutations with property P than without.
 
-[[src_imo_1989__Q06]]
+[[Quesiti/src_imo_1989#q06|src_imo_1989__Q06]]

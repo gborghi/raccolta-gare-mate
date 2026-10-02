@@ -38,7 +38,7 @@ level: squadre
 > Special We call a special number a positive integer of four digits (significant) such that the product of the first two digits is equal to the sum of the last two. For example, 2351 is a special number (2 × 3 = 5 + 1); another special number is 5387. What's the smallest special number?
 
 **Answer:** 1000
-[[src_kangourou_2017_squadre_f__Q01]]
+[[Quesiti/src_kangourou_2017_squadre_f#q01|src_kangourou_2017_squadre_f__Q01]]
 
 
 
@@ -70,7 +70,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Peter have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children) does Grandma Anna have?
 
 **Answer:** 10
-[[src_kangourou_2017_squadre_f__Q02]]
+[[Quesiti/src_kangourou_2017_squadre_f#q02|src_kangourou_2017_squadre_f__Q02]]
 
 
 
@@ -101,7 +101,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Double denotes with a, b, c, d four different digits. If the four-digit dcba number is twice the three-digit abb number what is dcba?
 
 **Answer:** 1798
-[[src_kangourou_2017_squadre_f__Q03]]
+[[Quesiti/src_kangourou_2017_squadre_f#q03|src_kangourou_2017_squadre_f__Q03]]
 
 
 
@@ -131,7 +131,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Whole division What is the sum of the positive integers n such that n2 + 12 is divisible by n + 4?
 
 **Answer:** 37
-[[src_kangourou_2017_squadre_f__Q04]]
+[[Quesiti/src_kangourou_2017_squadre_f#q04|src_kangourou_2017_squadre_f__Q04]]
 
 
 
@@ -161,7 +161,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the odds of blindly catching a blue cap are 9/11. How many blue caps are in the box?
 
 **Answer:** 225
-[[src_kangourou_2017_squadre_f__Q05]]
+[[Quesiti/src_kangourou_2017_squadre_f#q05|src_kangourou_2017_squadre_f__Q05]]
 
 
 
@@ -201,7 +201,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul had forgotten the pattern of pressing the keys to unlock it. Just remember that the keys were the vertices of a parallelogram and were struck clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
 
 **Answer:** 176
-[[src_kangourou_2017_squadre_f__Q06]]
+[[Quesiti/src_kangourou_2017_squadre_f#q06|src_kangourou_2017_squadre_f__Q06]]
 
 
 
@@ -233,7 +233,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Three cubes I have glued three cubes of volume 1 cm3, 8 cm3 and 27 cm3 along their faces so that the total surface of the resulting solid is as small as possible. How many square inches does that area measure?
 
 **Answer:** 72
-[[src_kangourou_2017_squadre_f__Q07]]
+[[Quesiti/src_kangourou_2017_squadre_f#q07|src_kangourou_2017_squadre_f__Q07]]
 
 
 
@@ -266,7 +266,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > My jacket has four pockets, each containing a different number of one-euro coins. Pocket A contains less than B, B less than C and C less than D. In addition, the content of D is less than that of A and B together and that of B and C together is less than that of A and D together. How much do I have in my jacket at least?
 
 **Answer:** 23
-[[src_kangourou_2017_squadre_f__Q08]]
+[[Quesiti/src_kangourou_2017_squadre_f#q08|src_kangourou_2017_squadre_f__Q08]]
 
 
 
@@ -299,7 +299,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Arithmetic progressions Consider the sum of the first 100 positive integers. From this set we form all subsets consisting of 7 numbers which, when ordered in increasing order, form an arithmetic progression (e.g. This is the first time I have heard of this. How many distinct sets of this form exist?
 
 **Answer:** 784
-[[src_kangourou_2017_squadre_f__Q09]]
+[[Quesiti/src_kangourou_2017_squadre_f#q09|src_kangourou_2017_squadre_f__Q09]]
 
 
 
@@ -332,7 +332,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > I have five boxes, each containing a single color, red or blue. In the first box there are 112 seeds, in the second 105, in the third 100, in the fourth 115 and in the fifth 128. After Martino took away a box, the remaining 4 boxes have three times the number of blue beads as many red beads. How many balls were in the box that Martino took away?
 
 **Answer:** 100
-[[src_kangourou_2017_squadre_f__Q10]]
+[[Quesiti/src_kangourou_2017_squadre_f#q10|src_kangourou_2017_squadre_f__Q10]]
 
 
 
@@ -362,7 +362,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Sum of cubes What is the unit number 13 + 23 + 33 + ... + 20163 + 20173 ?
 
 **Answer:** 9
-[[src_kangourou_2017_squadre_f__Q11]]
+[[Quesiti/src_kangourou_2017_squadre_f#q11|src_kangourou_2017_squadre_f__Q11]]
 
 
 
@@ -464,7 +464,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Hexagons The figure shows two regular hexagons contained in each other, which have parallel sides and the two edges without points in common. The smallest has a side of 1 cm, the largest 3 cm. What is the square of the sum of the areas of trapezoids S1 and S4 ?
 
 **Answer:** 48
-[[src_kangourou_2017_squadre_f__Q12]]
+[[Quesiti/src_kangourou_2017_squadre_f#q12|src_kangourou_2017_squadre_f__Q12]]
 
 
 
@@ -495,7 +495,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > The rest of you find the rest in the division 9 of 122,333,444,455,555,666,666,777,788,888,999,999.
 
 **Answer:** 6
-[[src_kangourou_2017_squadre_f__Q13]]
+[[Quesiti/src_kangourou_2017_squadre_f#q13|src_kangourou_2017_squadre_f__Q13]]
 
 
 
@@ -529,7 +529,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them below; for example, to indicate the fraction 1/2 write 0102.
 
 **Answer:** 907
-[[src_kangourou_2017_squadre_f__Q14]]
+[[Quesiti/src_kangourou_2017_squadre_f#q14|src_kangourou_2017_squadre_f__Q14]]
 
 
 
@@ -584,4 +584,4 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 > Questions and developments
 
 **Answer:** 179
-[[src_kangourou_2017_squadre_f__Q15]]
+[[Quesiti/src_kangourou_2017_squadre_f#q15|src_kangourou_2017_squadre_f__Q15]]

@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > **Note:** Each walks at constant speed.
 
-![[src_obm_2002_n2_f2__Q01.png]]
+![[src_obm_2002_n2_f2__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
@@ -39,9 +39,9 @@ level: OBM Nível 2
 > 
 > **Nota:** Ciascuno cammina a velocità costante.
 
-![[src_obm_2002_n2_f2__Q01.png]]
+![[src_obm_2002_n2_f2__q01.png]]
 
-[[src_obm_2002_n2_f2__Q01]]
+[[Quesiti/src_obm_2002_n2_f2#q01|src_obm_2002_n2_f2__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: OBM Nível 2
 
 > A large panel in the shape of a quarter circle was composed of $4$ colors, as indicated in the figure alongside, where the segment divides the sector into two equal parts and the inner arc is a semicircle. What is the color that covers the largest area?
 
-![[src_obm_2002_n2_f2__Q02.png]]
+![[src_obm_2002_n2_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -70,9 +70,9 @@ level: OBM Nível 2
 
 > Un grande pannello a forma di quartiere era composto da colori $4$, come indicato nella figura accanto, dove il segmento divide il settore in due parti uguali e l'arco interno è un semicircolo. Qual è il colore che copre l'area più grande?
 
-![[src_obm_2002_n2_f2__Q02.png]]
+![[src_obm_2002_n2_f2__q02.png]]
 
-[[src_obm_2002_n2_f2__Q02]]
+[[Quesiti/src_obm_2002_n2_f2#q02|src_obm_2002_n2_f2__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 2
 
 > Nelle celle di una tabella $8 \times 8$, i numeri interi positivi sono scritti in modo tale che la differenza tra i numeri scritti nelle celle vicine (cellule che condividono un lato comune) è $1$. È noto che in una delle celle è scritto il numero $17$ e in un'altra è scritto il numero $3$. Calcolare la somma di tutti i numeri scritti sulle due diagonali principali della tabella.
 
-[[src_obm_2002_n2_f2__Q03]]
+[[Quesiti/src_obm_2002_n2_f2#q03|src_obm_2002_n2_f2__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 2
 > 
 > All the nests and the observation post are at the same height above the ground. The distance from $B$ to $D$ is $16$ metres, and $\widehat{BAD} = 45^\circ$. Determine the distance from the post to each bird.
 
-![[src_obm_2002_n2_f2__Q04.png]]
+![[src_obm_2002_n2_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -132,9 +132,9 @@ level: OBM Nível 2
 > 
 > Tutti i nidi e il posto d'osservazione si trovano alla stessa altezza. La distanza da $B$ a $D$ è $16$ metri e $\widehat{BAD} = 45^\circ$. Determina la distanza dal palo a ciascun uccello.
 
-![[src_obm_2002_n2_f2__Q04.png]]
+![[src_obm_2002_n2_f2__q04.png]]
 
-[[src_obm_2002_n2_f2__Q04]]
+[[Quesiti/src_obm_2002_n2_f2#q04|src_obm_2002_n2_f2__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: OBM Nível 2
 
 > Il primo numero di una sequenza è $7$. La seguente si ottiene nel seguente modo: calcoliamo il quadrato del numero precedente, $7^2 = 49$, e poi prendiamo la somma delle sue cifre e aggiungiamo $1$, cioè il secondo numero è $4 + 9 + 1 = 14$. Ripetiamo questo processo, ottenendo $14^2 = 196$ e il terzo numero della sequenza è $1 + 9 + 6 + 1 = 17$, e così via. Qual è l'elemento $2002^\circ$ di questa sequenza?
 
-[[src_obm_2002_n2_f2__Q05]]
+[[Quesiti/src_obm_2002_n2_f2#q05|src_obm_2002_n2_f2__Q05]]
 
 
 
@@ -200,4 +200,4 @@ level: OBM Nível 2
 > 
 > c) L'ultimo anno di palindrome primario è avvenuto più di $1000$ anni fa, in $929$. Determina quale sarà il prossimo primo palindromo.
 
-[[src_obm_2002_n2_f2__Q06]]
+[[Quesiti/src_obm_2002_n2_f2#q06|src_obm_2002_n2_f2__Q06]]

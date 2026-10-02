@@ -42,7 +42,7 @@ level: squadre
 > The envelope The figure shows how, by folding a sheet of paper in the shape of a roll, an envelope can be obtained. If the sides of the envelope thus obtained are 12 and 16 cm long, how many centimeters is the length of the rim side?
 
 **Answer:** 20
-[[src_kangourou_2015_squadre_a__Q01]]
+[[Quesiti/src_kangourou_2015_squadre_a#q01|src_kangourou_2015_squadre_a__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: squadre
 > Four odd numbers What are the multiples (positive integers) of 9 whose writing consists of four odd numbers all different from each other?
 
 **Answer:** 24
-[[src_kangourou_2015_squadre_a__Q02]]
+[[Quesiti/src_kangourou_2015_squadre_a#q02|src_kangourou_2015_squadre_a__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: squadre
 > The angles of the polygon For a polygon consider the following property (P): each of its internal angles measures 168 or 169 degrees. Write in the order the minimum and maximum number of sides for a polygon having the property (P). Write 0000 if there are no polygons with the property (P).
 
 **Answer:** 3032
-[[src_kangourou_2015_squadre_a__Q03]]
+[[Quesiti/src_kangourou_2015_squadre_a#q03|src_kangourou_2015_squadre_a__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: squadre
 > The triangle Observe the figure (which does not necessarily respect the data, it is only indicative). The triangles ABC and AXY are rectangles in C and Y respectively, the segments AX and BX have the same length, the segment AX bisects the BAC angle and the measure of the angle AXY is 7 times that of the angle XBC. What is the measure in degrees of the angle ABC?
 
 **Answer:** 36
-[[src_kangourou_2015_squadre_a__Q04]]
+[[Quesiti/src_kangourou_2015_squadre_a#q04|src_kangourou_2015_squadre_a__Q04]]
 
 
 
@@ -177,7 +177,7 @@ level: squadre
 > Twins in a race A weird class is made up of six pairs of twins. The 12 students are to be split into two teams of six elements each, who will compete in a competition, so that no team has either a student or a twin among its members. How many different ways can the two teams be composed?
 
 **Answer:** 32
-[[src_kangourou_2015_squadre_a__Q05]]
+[[Quesiti/src_kangourou_2015_squadre_a#q05|src_kangourou_2015_squadre_a__Q05]]
 
 
 
@@ -209,7 +209,7 @@ level: squadre
 > Using his game-trapper, Joseph can manufacture square wooden tablets of any size (reasonable), provided the side measures an integer number of centimeters. One of these tablets must be inserted inside a circular metal ring with a radius of 8 cm. How many centimeters is the side of the largest tablet Joseph can make for the purpose?
 
 **Answer:** 11
-[[src_kangourou_2015_squadre_a__Q06]]
+[[Quesiti/src_kangourou_2015_squadre_a#q06|src_kangourou_2015_squadre_a__Q06]]
 
 
 
@@ -247,7 +247,7 @@ level: squadre
 > ) unbiased numbers Let's say with the CDU the three-digit number where C is the number of hundreds, D is the number of tens and U is the number of units. Let's say CDU is "fair" if it happens that C > D > U > 0 and all the digits of the sum CDU + UDC are odd. They are M and m respectively the largest and smallest of the odd numbers. How much is M + m? A B C X Y
 
 **Answer:** 1785
-[[src_kangourou_2015_squadre_a__Q07]]
+[[Quesiti/src_kangourou_2015_squadre_a#q07|src_kangourou_2015_squadre_a__Q07]]
 
 
 
@@ -281,7 +281,7 @@ level: squadre
 > Two circles The centers of two circles of radius 1 meter are 3 meters apart. Consider any of the points at which the circumferences meet and, for each of them, trace the line to it tangent at that point. How many degrees does the largest of the four corners formed by these two lines measure?
 
 **Answer:** 120
-[[src_kangourou_2015_squadre_a__Q08]]
+[[Quesiti/src_kangourou_2015_squadre_a#q08|src_kangourou_2015_squadre_a__Q08]]
 
 
 
@@ -311,7 +311,7 @@ level: squadre
 > The Cecilia bricks have 100 identical bricks: each has the shape of a 3 cm long, 2 cm wide and 1 cm high parallel-piped. After he approached some of them and formed a cube, how many of them remained?
 
 **Answer:** 64
-[[src_kangourou_2015_squadre_a__Q09]]
+[[Quesiti/src_kangourou_2015_squadre_a#q09|src_kangourou_2015_squadre_a__Q09]]
 
 
 
@@ -345,7 +345,7 @@ level: squadre
 > Dogs, cats and chickens An area of 900 square metres is fenced. The owner wants to let you run some dogs, some cats, and some chickens, but he wants to keep animals of different species from coming into contact with each other. He then decides to divide it into three rectangular parcels all of the same area, each separated from the others by a net. It wants to minimize the length of the network to be used (which can be cut in the most appropriate way). How many yards of network will he buy?
 
 **Answer:** 50
-[[src_kangourou_2015_squadre_a__Q10]]
+[[Quesiti/src_kangourou_2015_squadre_a#q10|src_kangourou_2015_squadre_a__Q10]]
 
 
 
@@ -379,7 +379,7 @@ level: squadre
 > Forward and backward To train, one day Ernesto decides to do an experiment: starting from a certain point on a straight road, he starts to take a step forward, then he takes two steps forward and one step backward, then three steps forward and two steps backward, then four steps forward and three steps backward and so on. An Ernesto's step is always exactly one meter long. When he reaches a distance of 80 meters from where he had left off, he decides to stop. How many yards did Ernesto walk before he stopped?
 
 **Answer:** 1640
-[[src_kangourou_2015_squadre_a__Q11]]
+[[Quesiti/src_kangourou_2015_squadre_a#q11|src_kangourou_2015_squadre_a__Q11]]
 
 
 
@@ -411,7 +411,7 @@ level: squadre
 > The lengths of the sides of a rectangular parallelepiped are expressed by integer numbers of centimeters. The areas of two faces are 24 and 30 square centimeters. How many cubic centimeters can the volume of the parallelepiped be worth at most?
 
 **Answer:** 720
-[[src_kangourou_2015_squadre_a__Q12]]
+[[Quesiti/src_kangourou_2015_squadre_a#q12|src_kangourou_2015_squadre_a__Q12]]
 
 
 
@@ -442,7 +442,7 @@ level: squadre
 > A number and its square Consider the number 999...999 in which the writing appears only the number 9 repeated 99 times. How much is the sum of the digits squared of this number?
 
 **Answer:** 891
-[[src_kangourou_2015_squadre_a__Q13]]
+[[Quesiti/src_kangourou_2015_squadre_a#q13|src_kangourou_2015_squadre_a__Q13]]
 
 
 
@@ -480,7 +480,7 @@ level: squadre
 > In the figure an anagon is shaded entirely in an equilateral triangle on side 15. Each side of the triangle is parallel to some side of the triangle. As indicated, three of its sides have dimensions 1, 2 and 3 (the figure is not in scale). What is the perimeter of the nest?
 
 **Answer:** 39
-[[src_kangourou_2015_squadre_a__Q14]]
+[[Quesiti/src_kangourou_2015_squadre_a#q14|src_kangourou_2015_squadre_a__Q14]]
 
 
 
@@ -525,4 +525,4 @@ level: squadre
 > Questions and solutions
 
 **Answer:** 33
-[[src_kangourou_2015_squadre_a__Q15]]
+[[Quesiti/src_kangourou_2015_squadre_a#q15|src_kangourou_2015_squadre_a__Q15]]

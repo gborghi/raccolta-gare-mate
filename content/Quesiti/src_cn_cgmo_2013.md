@@ -19,7 +19,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 2.1, in a trapezoid $ABCD$, $AB \parallel CD$, $\odot O_1$ is tangent to the segments $DA$, $AB$, $BC$, $\odot O_2$ is tangent to the segments $BC$, $CD$, $DA$. Let $P$ be the tangent point of $\odot O_1$ with $AB$, and $Q$ be the tangent point of $\odot O_2$ with $CD$. Prove that $AC$, $BD$, $PQ$ are concurrent.
 
-![[src_cn_cgmo_b11_w225__Q02.png]]
+![[src_cn_cgmo_b11_w225__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura. 2.1, in un trapezoide $ABCD$, $AB \parallel CD$, $\odot O_1$ è tangente ai segmenti $DA$, $AB$, $BC$, $\odot O_2$ è tangente ai segmenti $BC$, $CD$, $DA$. Il $P$ è il punto tangente di $\odot O_1$ con $AB$ e $Q$ è il punto tangente di $\odot O_2$ con $CD$. Provare che $AC$, $BD$, $PQ$ sono simultanei.
 
-![[src_cn_cgmo_b11_w225__Q02.png]]
+![[src_cn_cgmo_b11_w225__q02.png]]
 
-[[src_cn_cgmo_2013__Q02]]
+[[Quesiti/src_cn_cgmo_2013#q02|src_cn_cgmo_2013__Q02]]
 
 
 
@@ -64,7 +64,7 @@ level: China Girls' Mathematical Olympiad
 
 > In un gruppo di ragazze $n$ e di ragazzi $n$, entrambi si conoscono o non si conoscono. Per ogni due ragazzi e due ragazze, almeno un ragazzo e una ragazza non si conoscono. Prova che il numero di coppie di ragazzi e ragazze che si conoscono è massimo $\dfrac{n(n-1)}{2}$.
 
-[[src_cn_cgmo_2013__Q03]]
+[[Quesiti/src_cn_cgmo_2013#q03|src_cn_cgmo_2013__Q03]]
 
 
 
@@ -99,7 +99,7 @@ level: China Girls' Mathematical Olympiad
 > 
 > (2) la differenza di due numeri tra $f(1), f(2), \ldots, f(2013)$ non è un multiple di $2013$.
 
-[[src_cn_cgmo_2013__Q04]]
+[[Quesiti/src_cn_cgmo_2013#q04|src_cn_cgmo_2013__Q04]]
 
 
 
@@ -127,7 +127,7 @@ level: China Girls' Mathematical Olympiad
 
 > Date cifre reali positive $a_1, a_2, \ldots, a_n$. Prove che esistono numeri reali positivi $x_1, x_2, \ldots, x_n$ in modo tale che $\displaystyle\sum_{k=1}^{n} x_k = 1$ e che per tutti i numeri reali positivi $y_1, y_2, \ldots, y_n$ che soddisfano $\displaystyle\sum_{k=1}^{n} y_k = 1$, si ha $$\sum_{k=1}^{n} \frac{a_k}{x_k} \le \sum_{k=1}^{n} \frac{a_k}{y_k}.$$
 
-[[src_cn_cgmo_2013__Q05]]
+[[Quesiti/src_cn_cgmo_2013#q05|src_cn_cgmo_2013__Q05]]
 
 
 
@@ -154,7 +154,7 @@ level: China Girls' Mathematical Olympiad
 
 > Il $S$ deve essere un sottoinsieme di $m$ elementi di $\{0, 1, 2, \ldots, 99\}$, $m \ge 3$, in modo tale che per qualsiasi $x, y \in S$ esista $z \in S$ con $x + y \equiv 2z \pmod{99}$. Trova tutti i valori possibili di $m$.
 
-[[src_cn_cgmo_2013__Q06]]
+[[Quesiti/src_cn_cgmo_2013#q06|src_cn_cgmo_2013__Q06]]
 
 
 
@@ -167,7 +167,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 7.1 and Fig. 7.2, $\odot O_1$ and $\odot O_2$ are tangent externally at point $T$. The quadrilateral $ABCD$ is inscribed in $\odot O_1$. The lines $DA$ and $CB$ intersect $\odot O_2$ at points $E$ and $F$, respectively. $BN$, the bisector of $\angle ABF$, intersects the segment $EF$ at point $N$. Line $FT$ intersects the arc $AT$ (which does not contain $B$) at point $M$. Prove that $M$ is the excenter of $\triangle BCN$.
 
-![[src_cn_cgmo_b11_w225__Q07.png]]
+![[src_cn_cgmo_b11_w225__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -183,9 +183,9 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura. 7.1 e Figura 7.2, $\odot O_1$ e $\odot O_2$ sono tangenti esternamente al punto $T$. Il quadrilaterale $ABCD$ è inserito in $\odot O_1$. Le linee $DA$ e $CB$ si incrociano rispettivamente $\odot O_2$ ai punti $E$ e $F$. $BN$, il bisettore di $\angle ABF$, interseca il segmento $EF$ al punto $N$. La linea $FT$ interseca l'arco $AT$ (che non contiene $B$) al punto $M$. Provare che $M$ è l'escentro di $\triangle BCN$.
 
-![[src_cn_cgmo_b11_w225__Q07.png]]
+![[src_cn_cgmo_b11_w225__q07.png]]
 
-[[src_cn_cgmo_2013__Q07]]
+[[Quesiti/src_cn_cgmo_2013#q07|src_cn_cgmo_2013__Q07]]
 
 
 
@@ -212,4 +212,4 @@ level: China Girls' Mathematical Olympiad
 
 > $n \ge 4$ sia un numero pari. Al vertice di un normale $n$-gon scriviamo in modo arbitrario $n$ numeri reali distinti. Partendo da un bordo, chiamiamo tutti i bordi in senso orario con $e_1, e_2, \ldots, e_n$. Un bordo è chiamato \textit{positivo} se la differenza dei numeri al suo punto di fine e al suo punto di partenza è positiva. Un insieme di due bordi $\{e_i, e_j\}$ ($1 \le i < j \le n$) viene chiamato \textit{crossing} se $j - i$ è strano, i due bordi non hanno un vertice comune, e le quattro vertici di $e_i$ e $e_j$ si alternano intorno al poligono. Prove che il numero di incroci tra i bordi positivi e il numero di bordi positivi hanno parità diversa.
 
-[[src_cn_cgmo_2013__Q08]]
+[[Quesiti/src_cn_cgmo_2013#q08|src_cn_cgmo_2013__Q08]]

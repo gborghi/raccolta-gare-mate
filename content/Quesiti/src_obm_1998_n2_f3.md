@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Prove che in qualsiasi pentagono converso esistono due angoli interni consecutivi la cui somma è maggiore o uguale a $216^\circ$.
 
-[[src_obm_1998_n2_f3__Q01]]
+[[Quesiti/src_obm_1998_n2_f3#q01|src_obm_1998_n2_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 2
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $ADC$ e $BAE$ sono uguali, trovare l'angolo $BAC$.
 
-[[src_obm_1998_n2_f3__Q02]]
+[[Quesiti/src_obm_1998_n2_f3#q02|src_obm_1998_n2_f3__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: OBM Nível 2
 > 
 > Determinare il numero massimo di pin che possono essere posizionati.
 
-[[src_obm_1998_n2_f3__Q03]]
+[[Quesiti/src_obm_1998_n2_f3#q03|src_obm_1998_n2_f3__Q03]]
 
 
 
@@ -124,4 +124,4 @@ level: OBM Nível 2
 
 > Si devono dare 15 numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano copriemi. Prova che almeno uno di questi 15 numeri è primo.
 
-[[src_obm_1998_n2_f3__Q04]]
+[[Quesiti/src_obm_1998_n2_f3#q04|src_obm_1998_n2_f3__Q04]]

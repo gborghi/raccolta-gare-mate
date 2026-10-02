@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** 363
 
 **Answer:** E
-[[src_archimede_2017_febb_2livello__Q01]]
+[[Quesiti/src_archimede_2017_febb_2livello#q01|src_archimede_2017_febb_2livello__Q01]]
 
 
 
@@ -94,7 +94,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** Albert and Cyrus, in equal numbers.
 
 **Answer:** D
-[[src_archimede_2017_febb_2livello__Q02]]
+[[Quesiti/src_archimede_2017_febb_2livello#q02|src_archimede_2017_febb_2livello__Q02]]
 
 
 
@@ -136,7 +136,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** The only perfect square that divides abcde is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
 
 **Answer:** C
-[[src_archimede_2017_febb_2livello__Q03]]
+[[Quesiti/src_archimede_2017_febb_2livello#q03|src_archimede_2017_febb_2livello__Q03]]
 
 
 
@@ -178,7 +178,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** 125 2
 
 **Answer:** D
-[[src_archimede_2017_febb_2livello__Q04]]
+[[Quesiti/src_archimede_2017_febb_2livello#q04|src_archimede_2017_febb_2livello__Q04]]
 
 
 
@@ -221,7 +221,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** 421
 
 **Answer:** E
-[[src_archimede_2017_febb_2livello__Q05]]
+[[Quesiti/src_archimede_2017_febb_2livello#q05|src_archimede_2017_febb_2livello__Q05]]
 
 
 
@@ -265,7 +265,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** 504
 
 **Answer:** C
-[[src_archimede_2017_febb_2livello__Q06]]
+[[Quesiti/src_archimede_2017_febb_2livello#q06|src_archimede_2017_febb_2livello__Q06]]
 
 
 
@@ -306,7 +306,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** 23
 
 **Answer:** D
-[[src_archimede_2017_febb_2livello__Q07]]
+[[Quesiti/src_archimede_2017_febb_2livello#q07|src_archimede_2017_febb_2livello__Q07]]
 
 
 
@@ -350,7 +350,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 > - **(E)** 2016 · 2018
 
 **Answer:** B
-[[src_archimede_2017_febb_2livello__Q08]]
+[[Quesiti/src_archimede_2017_febb_2livello#q08|src_archimede_2017_febb_2livello__Q08]]
 
 
 
@@ -392,7 +392,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** Infinite
 
 **Answer:** B
-[[src_archimede_2017_febb_2livello__Q09]]
+[[Quesiti/src_archimede_2017_febb_2livello#q09|src_archimede_2017_febb_2livello__Q09]]
 
 
 
@@ -434,7 +434,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** The data are not sufficient to determine this.
 
 **Answer:** B
-[[src_archimede_2017_febb_2livello__Q10]]
+[[Quesiti/src_archimede_2017_febb_2livello#q10|src_archimede_2017_febb_2livello__Q10]]
 
 
 
@@ -479,7 +479,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** 1 6
 
 **Answer:** A
-[[src_archimede_2017_febb_2livello__Q11]]
+[[Quesiti/src_archimede_2017_febb_2livello#q11|src_archimede_2017_febb_2livello__Q11]]
 
 
 
@@ -522,7 +522,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(E)** Dipende da n Problemi a risposta numerica – 5 punti
 
 **Answer:** A
-[[src_archimede_2017_febb_2livello__Q12]]
+[[Quesiti/src_archimede_2017_febb_2livello#q12|src_archimede_2017_febb_2livello__Q12]]
 
 
 
@@ -554,7 +554,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > The rich Creso buys 88 identical vessels. The price of each of them, expressed in drachmas, is an integer (the same for all 88 vessels). We know that Creso pays a total of a1211b drachmas, where a, b are figures to be determined (and which may or may not be distinct). How many drachmas does a single vessel cost?
 
 **Answer:** 1274
-[[src_archimede_2017_febb_2livello__Q13]]
+[[Quesiti/src_archimede_2017_febb_2livello#q13|src_archimede_2017_febb_2livello__Q13]]
 
 
 
@@ -590,7 +590,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > Whether ABCD is a convex quadrilateral, F a point on the CD segment, and AC's intersection point with BF. It is known that AB = FC, AE = 14, BE = 10 √ 2, \ BAC = \ BFD, \ BEA = 45°. How large is the EF segment?
 
 **Answer:** 6
-[[src_archimede_2017_febb_2livello__Q14]]
+[[Quesiti/src_archimede_2017_febb_2livello#q14|src_archimede_2017_febb_2livello__Q14]]
 
 
 
@@ -623,7 +623,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
 > DEMOSTRATIVE EXERCISE (a) Demonstrate that there are infinite numbers (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square. (b) Demonstrate that there are infinite numbers (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square and with the property that the maximum common divisor of the three numbers (x,y,z) is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
 
-[[src_archimede_2017_febb_2livello__Q15]]
+[[Quesiti/src_archimede_2017_febb_2livello#q15|src_archimede_2017_febb_2livello__Q15]]
 
 
 
@@ -656,7 +656,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
 > DEMOSTRATIVE EXERCISE Given a circumference ω of diameter AB and P an inner point of the AB segment, both M and the middle point of PB. If r, s two parallel lines passing through M, P respectively, do not coincide with the straight AB and are orthogonal to it. Then either H is the orthogonal projection of A over s and K is the point of intersection (different from A) between ω and the straight AH. Finally X, Y are the intersections of r with ω, where X is on the opposite side of H to AB. (a) Demonstrate that the triangle HY K is isosceles. (b) Demonstrate that BXHY is a parallelogram.
 
-[[src_archimede_2017_febb_2livello__Q16]]
+[[Quesiti/src_archimede_2017_febb_2livello#q16|src_archimede_2017_febb_2livello__Q16]]
 
 
 
@@ -757,4 +757,4 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
 > DEMOSTRATIVE EXERCISE An equilateral triangle is divided into 9 triangles as shown in the figure, and the number 0 is initially written on each triangle. Marco, to pass the time, plays the following game: at each move he chooses 2 triangles with one side in common and sums or subtracts 1 from both numbers written on these triangles (it is understood that the operation carried out on the two triangles is the same). After a while you notice that the numbers written on the 9 triangles are, in some order, n, n+1, . . . , n+8, where n is a nonnegative integer. Prove that n can only be 0 or 2. The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1. The cases n = 0 and n = 2 can actually occur, but this claim is not required to be proven.
 
-[[src_archimede_2017_febb_2livello__Q17]]
+[[Quesiti/src_archimede_2017_febb_2livello#q17|src_archimede_2017_febb_2livello__Q17]]

@@ -34,7 +34,7 @@ level: Olimpiade Polacca Round 2
 
 > Se $x,y,u,v$ sono numeri reali positivi, dimostrare la disuguaglianza $$\frac{xu+xv+yu+yv}{x+y+u+v} \ge \frac{xy}{x+y}+\frac{uv}{u+v}.$$
 
-[[src_pol_1993_r2__Q01]]
+[[Quesiti/src_pol_1993_r2#q01|src_pol_1993_r2__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 2
 
 > Si deve dare un cerchio con il centro $O$ e un punto $P$ al di fuori del cerchio. Una linea $l$ passa attraverso $P$ e taglia il cerchio a $A$ e $B$. $C$ sia il punto simmetrico di $A$ rispetto a $OP$, e $m$ sia la linea $BC$. Prova che tutte le righe $m$ hanno un punto comune in quanto $l$ varia.
 
-[[src_pol_1993_r2__Q02]]
+[[Quesiti/src_pol_1993_r2#q02|src_pol_1993_r2__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 2
 
 > Si dà un tetraedro $OA_1B_1C_1$. I punti $A_2,A_3 \in OA_1$, $A_2,A_3 \in OA_1$, $A_2,A_3 \in OA_1$ siano punti tali che i piani $A_1B_1C_1$, $A_2B_2C_2$ e $A_3B_3C_3$ siano paralleli e $OA_1 > OA_2 > OA_3 > 0$. $V_i$ sia il volume del tetraedro $OA_iB_iC_i$ ($i=1,2,3$) e $V$ sia il volume di $OA_1B_2C_3$. Prove che $V_1+V_2+V_3 \ge 3V$.
 
-[[src_pol_1993_r2__Q03]]
+[[Quesiti/src_pol_1993_r2#q03|src_pol_1993_r2__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 2
 
 > $(x_n)$ sia la sequenza di integri positivi come $x_1=1$ e $x_n < x_{n+1} \le 2n$ per ciascuna $n \in \mathbb{N}$. Indicare che per ogni intero positivo $k$ esistono indici $r,s$ tali da $x_r-x_s=k$.
 
-[[src_pol_1993_r2__Q04]]
+[[Quesiti/src_pol_1993_r2#q04|src_pol_1993_r2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 2
 
 > $D,E,F$ siano punti sui lati $BC,CA,AB$ di un triangolo $ABC$, rispettivamente. Supponiamo che le inradii dei triangoli $AEF, BFD, CDE$ siano tutte uguali a $r_1$. Se $r_2$ e $r$ sono rispettivamente gli inradii dei triangoli $DEF$ e $ABC$, dimostrare che $r_1+r_2=r$.
 
-[[src_pol_1993_r2__Q05]]
+[[Quesiti/src_pol_1993_r2#q05|src_pol_1993_r2__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: Olimpiade Polacca Round 2
 
 > Una funzione continua $f:\mathbb{R} \to \mathbb{R}$ soddisfa le condizioni $f(1000)=999$ e $f(x)f(f(x))=1$ per tutte le $x$ reali. Determinare $f(500)$.
 
-[[src_pol_1993_r2__Q06]]
+[[Quesiti/src_pol_1993_r2#q06|src_pol_1993_r2__Q06]]

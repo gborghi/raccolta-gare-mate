@@ -35,7 +35,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > What is the result of the sum 2001 + 2002 + 2003 + 2004 + 2005 = ? A) 1015       B) 5010       C) 10150     D) 11005     E) 10015
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q01]]
+[[Quesiti/src_kangourou_2004_ecolier#q01|src_kangourou_2004_ecolier__Q01]]
 
 
 
@@ -103,7 +103,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > In the drawing below, you can see the road between town A and town B, shown by a continuous line, and the deviation for ongoing work in section A' B, shown by a drawn line. How many kilometers does the path from A to B extend because of the deviation? A) 4 B) 8 C) 6 D) 10 E) cannot be answered without further information
 
 **Answer:** C
-[[src_kangourou_2004_ecolier__Q02]]
+[[Quesiti/src_kangourou_2004_ecolier#q02|src_kangourou_2004_ecolier__Q02]]
 
 
 
@@ -137,7 +137,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > There were some swirls on the light strings. At some point, five of those squirrels flew away, and three new squirrels landed. Now we're counting the swallows on the light strings, they're 12. How many squirrels were on the wires at the beginning? A)  8           B)  9 C)  10 D)  12         E)  14
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q03]]
+[[Quesiti/src_kangourou_2004_ecolier#q03|src_kangourou_2004_ecolier__Q03]]
 
 
 
@@ -172,7 +172,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > What numbers are written inside the rectangle and the circle but not inside the triangle? A) 5 e 11 B) 1 e 10     C) 13 D) 3 e 9      E) 6, 7 e 4
 
 **Answer:** B
-[[src_kangourou_2004_ecolier__Q04]]
+[[Quesiti/src_kangourou_2004_ecolier#q04|src_kangourou_2004_ecolier__Q04]]
 
 
 
@@ -223,7 +223,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > I'm going to pay. I'm going to pay. 6 Kang 2004 Kang
 
 **Answer:** B
-[[src_kangourou_2004_ecolier__Q05]]
+[[Quesiti/src_kangourou_2004_ecolier#q05|src_kangourou_2004_ecolier__Q05]]
 
 
 
@@ -258,7 +258,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > A cube (the one in the figure to the right) is painted so that each face and its opposite face have the same color, different from the colors of the other faces. Which of the following developments is that of the surface of the cube? A)                B)                    C)                  D)               E)
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q06]]
+[[Quesiti/src_kangourou_2004_ecolier#q06|src_kangourou_2004_ecolier__Q06]]
 
 
 
@@ -299,7 +299,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > In the drawing below you can see four clocks represented at the same time. Only one indicates the exact time; another marks a delay of 20 minutes, a third is 20 minutes ahead, and finally a fourth is still. What's the exact time? A) 4 and 45 minutes B) 5 and 5 minutes C) 5 and 25 minutes D) 5 and 40 minutes E) cannot be answered without further information
 
 **Answer:** B
-[[src_kangourou_2004_ecolier__Q07]]
+[[Quesiti/src_kangourou_2004_ecolier#q07|src_kangourou_2004_ecolier__Q07]]
 
 
 
@@ -335,7 +335,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > The illustrated rectangles are all the same size. Only one of the rectangles A, B, C, D, E is the negative (eventually rotated) of the one on the right (i.e. it has white squares in the positions where the one on the right has them black and vice versa). What kind? (A) B) C) D) E) Questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q08]]
+[[Quesiti/src_kangourou_2004_ecolier#q08|src_kangourou_2004_ecolier__Q08]]
 
 
 
@@ -374,7 +374,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > I'm going to pay. I'm going to pay. 7 Kang 2004 Kang 2004
 
 **Answer:** D
-[[src_kangourou_2004_ecolier__Q09]]
+[[Quesiti/src_kangourou_2004_ecolier#q09|src_kangourou_2004_ecolier__Q09]]
 
 
 
@@ -404,7 +404,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > To make concrete, you must mix 4 stone slabs, 2 sand slabs and 1 concrete slab. How many stone slabs are required to produce 350 concrete slabs ? A) 200        B) 150         C)  100       D)  87,5      E)  50
 
 **Answer:** A
-[[src_kangourou_2004_ecolier__Q10]]
+[[Quesiti/src_kangourou_2004_ecolier#q10|src_kangourou_2004_ecolier__Q10]]
 
 
 
@@ -438,7 +438,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > Elizabeth brings Clement a basket of apples and oranges. Clemente eats half the apples and a third of the oranges. What part of the fruit remains in the basket? (a) half of all fruit B) more than half of all fruit C) two fifths of all fruit D) less than one third of all fruit E) one third of all fruit
 
 **Answer:** B
-[[src_kangourou_2004_ecolier__Q11]]
+[[Quesiti/src_kangourou_2004_ecolier#q11|src_kangourou_2004_ecolier__Q11]]
 
 
 
@@ -472,7 +472,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 > Simonetta found an old book missing a few pages. The book is open and the left page is numbered "page 24" while the right page is numbered "page 45". How many sheets are missing between page 24 and page 45? A) 9 B) 10 C) 11 D) 20         E) 21
 
 **Answer:** B
-[[src_kangourou_2004_ecolier__Q12]]
+[[Quesiti/src_kangourou_2004_ecolier#q12|src_kangourou_2004_ecolier__Q12]]
 
 
 
@@ -506,7 +506,7 @@ This is Sandro's birthday.
 > Angelo, born in March, is 52 days older than his classmate Sandro. This year, Angelo celebrated his birthday on Tuesday. What day of the week will Sandro celebrate his birthday this year? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q13]]
+[[Quesiti/src_kangourou_2004_ecolier#q13|src_kangourou_2004_ecolier__Q13]]
 
 
 
@@ -535,7 +535,7 @@ This is Sandro's birthday.
 > What difference isn't equal to 671 minus 389? A)  771 −489     B)  681 −399    C) 669 −391     D) 1871 −1589    E) 600 −318
 
 **Answer:** C
-[[src_kangourou_2004_ecolier__Q14]]
+[[Quesiti/src_kangourou_2004_ecolier#q14|src_kangourou_2004_ecolier__Q14]]
 
 
 
@@ -575,7 +575,7 @@ This is Sandro's birthday.
 > There are five houses on Rainbow Street: one blue, one red, one yellow, one pink and one green. The houses are numbered from 1 to 5 (as shown in Figure 1). We know that: - the blue house and the yellow house have equal numbers; - the red house is only near the blue house; - the blue house is between the green house and the red house. What color is the house number 3 ? A) blue B) red C) yellow D) pink E) green
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q15]]
+[[Quesiti/src_kangourou_2004_ecolier#q15|src_kangourou_2004_ecolier__Q15]]
 
 
 
@@ -621,7 +621,7 @@ This is Sandro's birthday.
 > I'm going to pay. I'm going to pay. 8 Kang 2004 Kang 2004 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** A
-[[src_kangourou_2004_ecolier__Q16]]
+[[Quesiti/src_kangourou_2004_ecolier#q16|src_kangourou_2004_ecolier__Q16]]
 
 
 
@@ -660,7 +660,7 @@ This is Sandro's birthday.
 > Figures A, B, D are constructed by approximating 7 cubes (equal to each other), C by approximating 8. Which of these figures cannot be constructed using two different pieces from those shown next to each other ? A) A B) B C) C D) D E) None, all figures can be constructed in this way
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q17]]
+[[Quesiti/src_kangourou_2004_ecolier#q17|src_kangourou_2004_ecolier__Q17]]
 
 
 
@@ -742,7 +742,7 @@ This is Sandro's birthday.
 > Here you see three triangles in succession. The second and third are obtained by approximating 4 and 9 triangles equal to the first respectively. Imagine continuing to build triangles like this. How many triangles equal to the first will make up the seventh triangle of the series (i.e. the fourth you build)? A) 21 B) 25 C) 35 D) 49                 E) 64
 
 **Answer:** D
-[[src_kangourou_2004_ecolier__Q18]]
+[[Quesiti/src_kangourou_2004_ecolier#q18|src_kangourou_2004_ecolier__Q18]]
 
 
 
@@ -772,7 +772,7 @@ This is Sandro's birthday.
 > A number divided by 2004 provides as a quotient 10001 and as a residual 1. What 's the number ? A) 2006005    B) 2004005     C) 20032004      D) 20042005     E) 20052005
 
 **Answer:** D
-[[src_kangourou_2004_ecolier__Q19]]
+[[Quesiti/src_kangourou_2004_ecolier#q19|src_kangourou_2004_ecolier__Q19]]
 
 
 
@@ -824,7 +824,7 @@ This is Sandro's birthday.
 > I'm going to pay. I'm going to pay. 9 Kang 2004 Kang 2004
 
 **Answer:** A
-[[src_kangourou_2004_ecolier__Q20]]
+[[Quesiti/src_kangourou_2004_ecolier#q20|src_kangourou_2004_ecolier__Q20]]
 
 
 
@@ -858,7 +858,7 @@ This is Sandro's birthday.
 > Consider the following sequence of numbers: 11, 18, 25, 32, 39, ... (each number, starting with the second, is obtained by adding 7 to the number preceding it). If we subtract 3 from each number in this sequence, we get another one. Which of the following numbers appears in the latter? A) 221 B) 222 C) 223 D) 224       E) 225
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q21]]
+[[Quesiti/src_kangourou_2004_ecolier#q21|src_kangourou_2004_ecolier__Q21]]
 
 
 
@@ -894,7 +894,7 @@ This is Sandro's birthday.
 > In each box of a 2 x 2 grid of 4 squares, a number is written. The sum of the numbers in the first row is 11, the sum of the numbers in the second row is 13, and the sum of the numbers in the first column is 14. What is the sum of the numbers in the second column? A) 8 B) 10 C) 11 D) 14          E) 15
 
 **Answer:** B
-[[src_kangourou_2004_ecolier__Q22]]
+[[Quesiti/src_kangourou_2004_ecolier#q22|src_kangourou_2004_ecolier__Q22]]
 
 
 
@@ -931,7 +931,7 @@ This is Sandro's birthday.
 > After three football championship games, one team scored three goals and suffered one. In the championship, three points are awarded for each win, one point for each draw and zero points for each defeat. What score, among those listed, can't that team have in the standings today? A) 7 B) 6 C) 5 D) 4 E) 3
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q23]]
+[[Quesiti/src_kangourou_2004_ecolier#q23|src_kangourou_2004_ecolier__Q23]]
 
 
 
@@ -987,4 +987,4 @@ This is Sandro's birthday.
 > ECOLIER solutions 2004
 
 **Answer:** E
-[[src_kangourou_2004_ecolier__Q24]]
+[[Quesiti/src_kangourou_2004_ecolier#q24|src_kangourou_2004_ecolier__Q24]]

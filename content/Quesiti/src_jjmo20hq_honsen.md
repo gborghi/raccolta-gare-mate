@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Trova tutte le coppie di prime $(p,q)$ in modo tale che $p^3 + 3q^3 - 32$ sia primo.
 
-[[src_jjmo20hq_honsen__Q01]]
+[[Quesiti/src_jjmo20hq_honsen#q01|src_jjmo20hq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Honsen
 
 > $n$ sia un numero intero con $n \ge 3$. Ci sono cellule $n$ disposte su un cerchio, e una pietra è posta su ogni cellula. Si esegue la seguente operazione: scegli una cella $A$ che contenga almeno una pietra e un numero intero $k$ con $1 \le k \le n-1$. Poi spostare tutte le pietre sulla cella che è $k$ passi in senso contrario all'orologio da $A$ alla cella che è $k$ passi in senso orologio da $A$. Trovare tutte le $n$ per le quali è possibile, eseguendo questa operazione esattamente $n-2$ volte in modo appropriato, ottenere una cella contenente pietre $n-1$.
 
-[[src_jjmo20hq_honsen__Q02]]
+[[Quesiti/src_jjmo20hq_honsen#q02|src_jjmo20hq_honsen__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: JJMO Honsen
 
 > Ci sono sei numeri reali distinti $a, b, c, x, y, z$. Tra le sei espressioni $$ax+by+cz,\quad ax+bz+cy,\quad ay+bx+cz,\quad ay+bz+cx,\quad az+bx+cy,\quad az+by+cx,$$ trovi il numero più grande possibile di esse che può essere uguale a $1$.
 
-[[src_jjmo20hq_honsen__Q03]]
+[[Quesiti/src_jjmo20hq_honsen#q03|src_jjmo20hq_honsen__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: JJMO Honsen
 
 > $ABC$ sia un triangolo acuto con $AB < AC$. Il bisettore perpendicolare del segmento $BC$ incontra le linee $AB$ e $AC$ rispettivamente nei punti $D$ e $E$, e $M$ sia il punto medio del segmento $DE$. Il circoncircolo del triangolo $ABC$ e la linea $AM$ si incontrano in un punto $P$ diverso da $A$, e i tre punti $M, A, P$ si trovano in questo ordine. Prove che $\angle BPE = 90^\circ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jjmo20hq_honsen__Q04]]
+[[Quesiti/src_jjmo20hq_honsen#q04|src_jjmo20hq_honsen__Q04]]
 
 
 
@@ -145,4 +145,4 @@ level: JJMO Honsen
 
 > $n$ sia un intero positivo e $k$ sia l'intero non negativo che soddisfa $2^k \le n < 2^{k+1}$. Trova tutti $n$ in modo che $$\left[\frac{n}{2^0}\right]\left[\frac{n}{2^1}\right]\cdots\left[\frac{n}{2^k}\right] + 2\cdot 4^{\left[\frac{k}{2}\right]}$$ sia un quadrato perfetto. Qui, per un numero reale $r$, $[r]$ indica il più grande intero non superiore a $r$, e per un intero positivo $a$ imponiamo $a^0 = 1$.
 
-[[src_jjmo20hq_honsen__Q05]]
+[[Quesiti/src_jjmo20hq_honsen#q05|src_jjmo20hq_honsen__Q05]]

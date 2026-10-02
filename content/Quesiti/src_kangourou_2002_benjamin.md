@@ -44,7 +44,7 @@ level: kangourou
 > A. 1991 B. 2323 C. 2112 D. 2222 E. 2332
 
 **Answer:** B
-[[src_kangourou_2002_benjamin__Q01]]
+[[Quesiti/src_kangourou_2002_benjamin#q01|src_kangourou_2002_benjamin__Q01]]
 
 
 
@@ -79,7 +79,7 @@ level: kangourou
 > In the figure you can see the profile of a castle. Which of the following lines cannot be included in the profile?
 
 **Answer:** C
-[[src_kangourou_2002_benjamin__Q02]]
+[[Quesiti/src_kangourou_2002_benjamin#q02|src_kangourou_2002_benjamin__Q02]]
 
 
 
@@ -116,7 +116,7 @@ The euro that John gives to Stephen
 > A. 23 B. 32 C. 33 D. 43 E. 46
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q03]]
+[[Quesiti/src_kangourou_2002_benjamin#q03|src_kangourou_2002_benjamin__Q03]]
 
 
 
@@ -160,7 +160,7 @@ The euro that John gives to Stephen
 > I'm not going to lie to you. This item is not intended to be used. 2
 
 **Answer:** D
-[[src_kangourou_2002_benjamin__Q04]]
+[[Quesiti/src_kangourou_2002_benjamin#q04|src_kangourou_2002_benjamin__Q04]]
 
 
 
@@ -200,7 +200,7 @@ The euro that John gives to Stephen
 > A. 23 B. 22 C. 21 D. 15 E. 9
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q05]]
+[[Quesiti/src_kangourou_2002_benjamin#q05|src_kangourou_2002_benjamin__Q05]]
 
 
 
@@ -237,7 +237,7 @@ This is a list of the countries of the European Union.
 > A. Monday B. Tuesday C. Wednesday D. Thursday E. Friday
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q06]]
+[[Quesiti/src_kangourou_2002_benjamin#q06|src_kangourou_2002_benjamin__Q06]]
 
 
 
@@ -269,7 +269,7 @@ This is a list of the countries of the European Union.
 > In which of the following collars are two-thirds of the total blackhearts?
 
 **Answer:** D
-[[src_kangourou_2002_benjamin__Q07]]
+[[Quesiti/src_kangourou_2002_benjamin#q07|src_kangourou_2002_benjamin__Q07]]
 
 
 
@@ -311,7 +311,7 @@ This is a list of the countries of the European Union.
 > B. 9 C. 6 D. 8 E. 7
 
 **Answer:** B
-[[src_kangourou_2002_benjamin__Q08]]
+[[Quesiti/src_kangourou_2002_benjamin#q08|src_kangourou_2002_benjamin__Q08]]
 
 
 
@@ -354,7 +354,7 @@ This is a list of the countries of the European Union.
 > A. 6 B. 7 C. 8 D. 9 E. 10
 
 **Answer:** C
-[[src_kangourou_2002_benjamin__Q09]]
+[[Quesiti/src_kangourou_2002_benjamin#q09|src_kangourou_2002_benjamin__Q09]]
 
 
 
@@ -401,7 +401,7 @@ This is a list of the countries of the European Union.
 > I'm not going to lie to you. This item is not intended to be used. 3 Questions from N. 11 al N. Twenty is worth four points.
 
 **Answer:** E
-[[src_kangourou_2002_benjamin__Q10]]
+[[Quesiti/src_kangourou_2002_benjamin#q10|src_kangourou_2002_benjamin__Q10]]
 
 
 
@@ -466,7 +466,7 @@ This is a list of the countries of the European Union.
 > A. 1 / 3 B. 1 / 4 C. 2 / 5 D. 3 / 8 E. 1 / 8
 
 **Answer:** E
-[[src_kangourou_2002_benjamin__Q11]]
+[[Quesiti/src_kangourou_2002_benjamin#q11|src_kangourou_2002_benjamin__Q11]]
 
 
 
@@ -508,7 +508,7 @@ This is a list of the countries of the European Union.
 > A. 56 m. B. 60 m. C. 64 m. D. 72 m. E. 80 m.
 
 **Answer:** C
-[[src_kangourou_2002_benjamin__Q12]]
+[[Quesiti/src_kangourou_2002_benjamin#q12|src_kangourou_2002_benjamin__Q12]]
 
 
 
@@ -552,7 +552,7 @@ This is a list of the countries of the European Union.
 > A. A B. B C. C D. D E. E
 
 **Answer:** B
-[[src_kangourou_2002_benjamin__Q13]]
+[[Quesiti/src_kangourou_2002_benjamin#q13|src_kangourou_2002_benjamin__Q13]]
 
 
 
@@ -589,7 +589,7 @@ This is a list of the countries of the European Union.
 > A. 3 m. B. 4 m. C. 5 m. D. 12 m. E. 20 m.
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q14]]
+[[Quesiti/src_kangourou_2002_benjamin#q14|src_kangourou_2002_benjamin__Q14]]
 
 
 
@@ -655,7 +655,7 @@ This is a list of the countries of the European Union.
 > I'm not going to lie to you. This item is not intended to be used. 4
 
 **Answer:** B
-[[src_kangourou_2002_benjamin__Q15]]
+[[Quesiti/src_kangourou_2002_benjamin#q15|src_kangourou_2002_benjamin__Q15]]
 
 
 
@@ -694,7 +694,7 @@ This is a list of the countries of the European Union.
 > A. Fabio has a dog B. Nadia has a C-canary. Julia has a D-fish. Fabio has an E cat. Mauro has a dog.
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q16]]
+[[Quesiti/src_kangourou_2002_benjamin#q16|src_kangourou_2002_benjamin__Q16]]
 
 
 
@@ -731,7 +731,7 @@ This is a list of the countries of the European Union.
 > A. 17.6% B. 17% C. 16% D. 15% E. 6%
 
 **Answer:** D
-[[src_kangourou_2002_benjamin__Q17]]
+[[Quesiti/src_kangourou_2002_benjamin#q17|src_kangourou_2002_benjamin__Q17]]
 
 
 
@@ -770,7 +770,7 @@ This is a list of the countries of the European Union.
 > A. 14 B. 16 C. 18 D. 20 E. 22
 
 **Answer:** D
-[[src_kangourou_2002_benjamin__Q18]]
+[[Quesiti/src_kangourou_2002_benjamin#q18|src_kangourou_2002_benjamin__Q18]]
 
 
 
@@ -809,7 +809,7 @@ This is a list of the countries of the European Union.
 > A. Red B. Blue C. black D. Green E. yellow
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q19]]
+[[Quesiti/src_kangourou_2002_benjamin#q19|src_kangourou_2002_benjamin__Q19]]
 
 
 
@@ -853,7 +853,7 @@ This is a list of the countries of the European Union.
 > The questions from N. 21 al N. 30 is worth 5 points.
 
 **Answer:** C
-[[src_kangourou_2002_benjamin__Q20]]
+[[Quesiti/src_kangourou_2002_benjamin#q20|src_kangourou_2002_benjamin__Q20]]
 
 
 
@@ -897,7 +897,7 @@ This is a list of the countries of the European Union.
 > I'm not going to lie to you. This item is not intended to be used. 5
 
 **Answer:** E
-[[src_kangourou_2002_benjamin__Q21]]
+[[Quesiti/src_kangourou_2002_benjamin#q21|src_kangourou_2002_benjamin__Q21]]
 
 
 
@@ -936,7 +936,7 @@ This is a list of the countries of the European Union.
 > A. 30 B. 33 C. 36 D. 39 E. 43
 
 **Answer:** D
-[[src_kangourou_2002_benjamin__Q22]]
+[[Quesiti/src_kangourou_2002_benjamin#q22|src_kangourou_2002_benjamin__Q22]]
 
 
 
@@ -976,7 +976,7 @@ This is a list of the countries of the European Union.
 > A. 3(a + b) B. 3a + b C. 3a + 2b D. 2a + 3b E. It 's impossible to answer .
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q23]]
+[[Quesiti/src_kangourou_2002_benjamin#q23|src_kangourou_2002_benjamin__Q23]]
 
 
 
@@ -1015,7 +1015,7 @@ This is a list of the countries of the European Union.
 > A. 8 km B. 10 km C. 12 km D. 14 km E. It 's impossible to answer .
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q24]]
+[[Quesiti/src_kangourou_2002_benjamin#q24|src_kangourou_2002_benjamin__Q24]]
 
 
 
@@ -1056,7 +1056,7 @@ This is a list of the countries of the European Union.
 > (A) the last plate must be between P and Q (B) the last plate must be between Q and R (C) the last plate must be before P (D) the last plate must be after R (E) the last plate has the same weight as R.
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q25]]
+[[Quesiti/src_kangourou_2002_benjamin#q25|src_kangourou_2002_benjamin__Q25]]
 
 
 
@@ -1109,7 +1109,7 @@ This is a list of the countries of the European Union.
 > I'm not going to lie to you. This item is not intended to be used. 6
 
 **Answer:** B
-[[src_kangourou_2002_benjamin__Q26]]
+[[Quesiti/src_kangourou_2002_benjamin#q26|src_kangourou_2002_benjamin__Q26]]
 
 
 
@@ -1152,7 +1152,7 @@ This is a list of the countries of the European Union.
 > A. 3 B. 4 C. 5 D. 6 E. 7
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q27]]
+[[Quesiti/src_kangourou_2002_benjamin#q27|src_kangourou_2002_benjamin__Q27]]
 
 
 
@@ -1196,7 +1196,7 @@ This is a list of the countries of the European Union.
 > A. 24,6 kg B. 24,4 kg C. 26,4 kg D. 30,4 kg E. 28,6 kg
 
 **Answer:** A
-[[src_kangourou_2002_benjamin__Q28]]
+[[Quesiti/src_kangourou_2002_benjamin#q28|src_kangourou_2002_benjamin__Q28]]
 
 
 
@@ -1238,7 +1238,7 @@ This is a list of the countries of the European Union.
 > A. 49 B. 89 C. 91 D. 97 E. 181
 
 **Answer:** C
-[[src_kangourou_2002_benjamin__Q29]]
+[[Quesiti/src_kangourou_2002_benjamin#q29|src_kangourou_2002_benjamin__Q29]]
 
 
 
@@ -1334,4 +1334,4 @@ This is a list of the countries of the European Union.
 > Kangourou Italy Competition of 21 March 2002 Category Benjamin For first and secondary school students Solutions The correct answer is indicated in square brackets after the question number.
 
 **Answer:** D
-[[src_kangourou_2002_benjamin__Q30]]
+[[Quesiti/src_kangourou_2002_benjamin#q30|src_kangourou_2002_benjamin__Q30]]

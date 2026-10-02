@@ -34,7 +34,7 @@ This is the case for the manufacturer of the product.
 
 > Prove that for any pair of positive integers $k$ and $n$, there exist $k$ positive integers $m_1, m_2, \ldots, m_k$ (not necessarily different) such that $$1 + \frac{2^k - 1}{n} = \left(1 + \frac{1}{m_1}\right)\left(1 + \frac{1}{m_2}\right)\cdots\left(1 + \frac{1}{m_k}\right).$$
 
-[[src_imho_2013__Q01]]
+[[Quesiti/src_imho_2013#q01|src_imho_2013__Q01]]
 
 
 
@@ -66,7 +66,7 @@ This is the case for the manufacturer of the product.
 
 > A configuration of $4027$ points in the plane is called Colombian if it consists of $2013$ red points and $2014$ blue points, and no three of the points are collinear. By drawing some lines, the plane is divided into several regions. An arrangement of lines is good for a Colombian configuration if the following two conditions are satisfied: \begin{itemize} \item no line passes through any point of the configuration; \item no region contains points of both colors. Find the least value of $k$ such that for any Colombian configuration of $4027$ points, there is a good arrangement of $k$ lines.
 
-[[src_imho_2013__Q02]]
+[[Quesiti/src_imho_2013#q02|src_imho_2013__Q02]]
 
 
 
@@ -97,7 +97,7 @@ This is the case for the manufacturer of the product.
 > 
 > \textit{The excircle of triangle $ABC$ opposite the vertex $A$ is the circle that is tangent to the line segment $BC$, to the ray $AB$ beyond $B$, and to the ray $AC$ beyond $C$. The opposite excircles $B$ and $C$ are similarly defined.}
 
-[[src_imho_2013__Q03]]
+[[Quesiti/src_imho_2013#q03|src_imho_2013__Q03]]
 
 
 
@@ -124,7 +124,7 @@ This is the case for the manufacturer of the product.
 
 > Let $ABC$ be an acute-angled triangle with orthocentre $H$, and let $W$ be a point on the side $BC$, lying strictly between $B$ and $C$. The points $M$ and $N$ are the feet of the altitudes from $B$ and $C$, respectively. Denote by $\omega_1$ the circumcircle of $BWN$, and let $X$ be the point on $\omega_1$ such that $WX$ is a diameter of $\omega_1$. Denote by $\omega_2$ the circumcircle of $CWM$, and let $Y$ be the point on $\omega_2$ such that $WY$ is a diameter of $\omega_2$. Prove that $X$, $Y$ and $H$ are collinear.
 
-[[src_imho_2013__Q04]]
+[[Quesiti/src_imho_2013#q04|src_imho_2013__Q04]]
 
 
 
@@ -157,7 +157,7 @@ Functional equation on positive rationals with f(x)=x*
 
 > Let$\mathbb{Q}_{>0}$be the set of positive rational numbers. Let $f : \mathbb{Q}_{>0} \to \mathbb{R}$ be a function satisfying the following three conditions: \begin{itemize} \item[(i) ] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x) \cdot f(y) \ge f(xy)$; \item[(ii)] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x + y) \ge f(x) + f(y)$; \item[(iii)] there exists a rational number $a > 1$ such that $f(a) = a$. \end{itemize} Prove that for all $x \in \mathbb{Q}_{>0}$.
 
-[[src_imho_2013__Q05]]
+[[Quesiti/src_imho_2013#q05|src_imho_2013__Q05]]
 
 
 
@@ -189,4 +189,4 @@ Functional equation on positive rationals with f(x)=x*
 > 
 > Let $M$ be the number of beautiful labelling, and let $N$ be the number of ordered pairs $(x, y)$ of positive integers such that $x + y \le n$ and $\gcd(x, y) = 1$. Prove that $$M = N + 1.$$
 
-[[src_imho_2013__Q06]]
+[[Quesiti/src_imho_2013#q06|src_imho_2013__Q06]]

@@ -35,7 +35,7 @@ level: China Mathematical Competition
 > Supponiamo che $f(x) = \dfrac{x}{\sqrt{1+x^2}}$ e $f^{(99)}(x) = f[f[\cdots f(x)\cdots]]$ (99 composizioni). Poi $f^{(99)}(1) = $ \_\_\_\__.
 
 **Risposta:** \dfrac{1}{10}
-[[src_cn_cmc_2009__Q01]]
+[[Quesiti/src_cn_cmc_2009#q01|src_cn_cmc_2009__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: China Mathematical Competition
 > Data la linea $L: x + y - 9 = 0$ e il cerchio $M: 2x^2 + 2y^2 - 8x - 8y - 1 = 0$, il punto $A$ si trova su $L$ e i punti $B$, $C$ si trovano sul cerchio $M$. Se $\angle BAC = 45^\circ$ e le linee $AB$, $AC$ sono tangenti al cerchio $M$ dal punto $A$, l'intervallo delle coordinate $x$ del punto $A$ è \_\_\_\__.
 
 **Risposta:** 3 \le a \le 6
-[[src_cn_cmc_2009__Q02]]
+[[Quesiti/src_cn_cmc_2009#q02|src_cn_cmc_2009__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: China Mathematical Competition
 
 > On a coordinate plane there are two regions $M$ and $N$. Region $M$ is confined by $\begin{cases} y \ge 0 \\ y \le x \end{cases}$, and region $N$ is determined by the inequalities $t \le x \le t + 1$, $0 \le t \le 1$. Then the size of the common area of $M$ and $N$ is given by $f(t) = $ \_\_\_\_.
 
-![[src_cn_cmc_2009__Q03.png]]
+![[src_cn_cmc_2009__q03.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -94,10 +94,10 @@ level: China Mathematical Competition
 
 > In un piano di coordinate ci sono due regioni $M$ e $N$. La regione $M$ è limitata da $\begin{cases} y \ge 0 \\ y \le x \end{cases}$ e la regione $N$ è determinata dalle disuguaglianze $t \le x \le t + 1$, $0 \le t \le 1$. Poi la dimensione della superficie comune di $M$ e $N$ viene data da $f(t) = $ \_\_\_\__.
 
-![[src_cn_cmc_2009__Q03.png]]
+![[src_cn_cmc_2009__q03.png]]
 
 **Risposta:** f(t) = -t^2 + t + \dfrac{1}{2}
-[[src_cn_cmc_2009__Q03]]
+[[Quesiti/src_cn_cmc_2009#q03|src_cn_cmc_2009__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: China Mathematical Competition
 > La disuguaglianza $$\frac{1}{a+1} + \frac{1}{a+2} + \cdots + \frac{1}{2a+1} \le a - 2007\tfrac{1}{2}$$ vale per ogni intero positivo $a$. Quindi il numero intero meno positivo $a$ che soddisfa l'ineguaglianza è \_\_\_\__.
 
 **Risposta:** 2009
-[[src_cn_cmc_2009__Q04]]
+[[Quesiti/src_cn_cmc_2009#q04|src_cn_cmc_2009__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: China Mathematical Competition
 > Se si considerano i punti $P$, $Q$ su un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) che soddisfano $OP \perp OQ$, il valore minimo di $|OP| \times |OQ|$ è \_\_\_\__.
 
 **Risposta:** \dfrac{\sqrt{2}\,a^2 b^2}{a^2+b^2}
-[[src_cn_cmc_2009__Q05]]
+[[Quesiti/src_cn_cmc_2009#q05|src_cn_cmc_2009__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: China Mathematical Competition
 > Supponiamo che l'equazione $\lg(kx) - 2\lg(x + 1) = 0$ abbia esattamente una radice reale. Quindi l'intervallo di $k$ è \_\_\_\___.
 
 **Risposta:** 0 < k < 4 \text{ or } k = 4
-[[src_cn_cmc_2009__Q06]]
+[[Quesiti/src_cn_cmc_2009#q06|src_cn_cmc_2009__Q06]]
 
 
 
@@ -215,7 +215,7 @@ level: China Mathematical Competition
 > Considera una disposizione di numeri a forma di triangolo: la prima riga è composta dai numeri da 1 a 100 ordinati in ordine; ogni numero della seconda riga è la somma di due numeri direttamente al di sotto della prima riga; ogni numero della terza riga è la somma dei due numeri direttamente al di sotto della seconda riga; e così via. Ci sono 100 righe in totale. Il numero nell'ultima riga è \_\_\_\__.
 
 **Risposta:** 101 \times 2^{99}
-[[src_cn_cmc_2009__Q07]]
+[[Quesiti/src_cn_cmc_2009#q07|src_cn_cmc_2009__Q07]]
 
 
 
@@ -258,7 +258,7 @@ level: China Mathematical Competition
 > Supponiamo che gli eventi dei due treni siano indipendenti l'uno dall'altro. Ora, un viaggiatore arriva alla stazione alle 8:20. Allora l'aspettativa matematica del suo tempo di attesa è \_\_\_\_ (rondo al minuto più vicino).
 
 **Risposta:** 27
-[[src_cn_cmc_2009__Q08]]
+[[Quesiti/src_cn_cmc_2009#q08|src_cn_cmc_2009__Q08]]
 
 
 
@@ -287,7 +287,7 @@ level: China Mathematical Competition
 > Supponiamo che la linea $l$: $y = -kx + m$ (dove $k$ e $m$ sono numeri interi) intercetta l'ellisse $\dfrac{x^2}{4} + \dfrac{y^2}{12} = 1$ a due punti diversi $A$, $B$, e intercetta l'iperbola $\dfrac{x^2}{4} - \dfrac{y^2}{12} = 1$ a due punti diversi $C$, $D$. Se $\overrightarrow{AC} = \overrightarrow{BD}$, quante diverse possibilità ci sono per la riga $l$? Spiega il motivo.
 
 **Risposta:** 9
-[[src_cn_cmc_2009__Q09]]
+[[Quesiti/src_cn_cmc_2009#q09|src_cn_cmc_2009__Q09]]
 
 
 
@@ -322,7 +322,7 @@ level: China Mathematical Competition
 > 
 > (2) Se $p = 1$, $q = \dfrac{1}{4}$, si trova la somma dei primi termini $n$ di $\{a_n\}$.
 
-[[src_cn_cmc_2009__Q10]]
+[[Quesiti/src_cn_cmc_2009#q10|src_cn_cmc_2009__Q10]]
 
 
 
@@ -353,4 +353,4 @@ level: China Mathematical Competition
 > Trova il massimo e il minimo della funzione $$y = \sqrt{x} + \sqrt{x + 27} + \sqrt{13 - x}$$ per $x \in [0, 13]$.
 
 **Risposta:** \max = 11,\ \min = 3\sqrt{3} + \sqrt{13}
-[[src_cn_cmc_2009__Q11]]
+[[Quesiti/src_cn_cmc_2009#q11|src_cn_cmc_2009__Q11]]

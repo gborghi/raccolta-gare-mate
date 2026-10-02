@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Determinare con prova il punto $P$ all'interno di un determinato triangolo $ABC$ per il quale il prodotto $PL \cdot PM \cdot PN$ è ridotto al minimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
 
-[[src_bmo1_1978__Q01]]
+[[Quesiti/src_bmo1_1978#q01|src_bmo1_1978__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Prove che non esiste una frazione corretta $\frac{p}{q}$, con denominatore $q \le 100$, la cui espansione decimale contiene il blocco di cifre consecutive $167$ in tale ordine.
 
-[[src_bmo1_1978__Q02]]
+[[Quesiti/src_bmo1_1978#q02|src_bmo1_1978__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 1
 
 > Mostrare che esiste una sola e unica sequenza $\{u_n\}$ di integri come $u_1 = 1$, $u_1 < u_2$ e $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
 
-[[src_bmo1_1978__Q03]]
+[[Quesiti/src_bmo1_1978#q03|src_bmo1_1978__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: BMO Round 1
 
 > Prova che le quattro altitudini di un tetraedro sono simultanee se e solo se ogni bordo del tetraedro è perpendicolare al suo bordo opposto.
 
-[[src_bmo1_1978__Q04]]
+[[Quesiti/src_bmo1_1978#q04|src_bmo1_1978__Q04]]
 
 
 
@@ -142,7 +142,7 @@ level: BMO Round 1
 
 > All'interno di un cubo di unità laterali $15$ ci sono dati $13000$. Prove che esiste una sfera di raggio unitario all'interno della quale ci sono almeno $6$ dei punti dati.
 
-[[src_bmo1_1978__Q05]]
+[[Quesiti/src_bmo1_1978#q05|src_bmo1_1978__Q05]]
 
 
 
@@ -169,4 +169,4 @@ level: BMO Round 1
 
 > Mostra che se $n$ è un intero non zero, $2\cos n\theta$ è un polinomio del grado $n$th in $2\cos\theta$. In tal modo o in altro modo dimostrare che se $k$ è razionale, allora $\cos k\pi$ è uguale a uno dei numeri $0$, $\pm\frac{1}{2}$, $\pm 1$, o è irrazionale.
 
-[[src_bmo1_1978__Q06]]
+[[Quesiti/src_bmo1_1978#q06|src_bmo1_1978__Q06]]

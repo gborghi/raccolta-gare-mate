@@ -34,7 +34,7 @@ level: kangourou
 > A circular park is surrounded by a path lit by lightning. Simona and Tania counted the lights, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lights are there?
 
 **Answer:** 100
-[[src_kangourou_2025_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2025_junior_finale#qj1|src_kangourou_2025_junior_finale__QJ1]]
 
 
 
@@ -62,7 +62,7 @@ level: kangourou
 > A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Within the garden the plots are separated by lattices; the overall length of the lattices is $1172$ meters. How many square plots are there?
 
 **Answer:** 312
-[[src_kangourou_2025_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2025_junior_finale#qj2|src_kangourou_2025_junior_finale__QJ2]]
 
 
 
@@ -91,7 +91,7 @@ level: kangourou
 > How many different ways can $270$ be obtained by adding consecutive positive integers?
 
 **Answer:** 7
-[[src_kangourou_2025_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2025_junior_finale#qj3|src_kangourou_2025_junior_finale__QJ3]]
 
 
 
@@ -102,7 +102,7 @@ level: kangourou
 
 *piu lungo del diametro?*
 
-![[src_kangourou_2025_junior_finale__probJ4.png]]
+![[src_kangourou_2025_junior_finale__probj4.png]]
 
 > Due punti sulla circonferenza di un cerchio $\Gamma$ sono estremi di un arco $\delta$ di un'altra circonferenza. L'arco $\delta$ ripartisce il cerchio $\Gamma$ in due regioni di uguale area. È necessariamente vero che $\delta$ è più lungo del diametro di $\Gamma$? (vedi figura)
 
@@ -118,12 +118,12 @@ level: kangourou
 
 *longer than the diameter?*
 
-![[src_kangourou_2025_junior_finale__probJ4.png]]
+![[src_kangourou_2025_junior_finale__probj4.png]]
 
 > Two points on the circumference of a circle $\Gamma$ are extremes of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$? (see figure)
 
 **Answer:** Si
-[[src_kangourou_2025_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2025_junior_finale#qj4|src_kangourou_2025_junior_finale__QJ4]]
 
 
 
@@ -159,7 +159,7 @@ level: kangourou
 > (b) If we can both choose the deck to play with (and the choice must be made before playing), should I be the first or the second to choose?
 
 **Answer:** a)terzo b)secondo
-[[src_kangourou_2025_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2025_junior_finale#qj5|src_kangourou_2025_junior_finale__QJ5]]
 
 
 
@@ -188,4 +188,4 @@ level: kangourou
 > Proves or refutes the following statement: For each whole $n \geq 3$ there exist $n$ whole numbers all different from each other such that each of them divides the sum of the remaining $n - 1$.
 
 **Answer:** vera
-[[src_kangourou_2025_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2025_junior_finale#qj6|src_kangourou_2025_junior_finale__QJ6]]

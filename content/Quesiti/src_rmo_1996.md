@@ -33,7 +33,7 @@ level: RMO
 
 > I lati di un triangolo sono tre numeri interi consecutivi e il suo raggio è di quattro unità. Determina il circondario.
 
-[[src_rmo_1996__Q01]]
+[[Quesiti/src_rmo_1996#q01|src_rmo_1996__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: RMO
 
 > Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 3.$$
 
-[[src_rmo_1996__Q02]]
+[[Quesiti/src_rmo_1996#q02|src_rmo_1996__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: RMO
 
 > Risolvere per i numeri reali $x$ e $y$: $$xy^2 = 15x^2 + 17xy + 15y^2$$ $$x^2 y = 20x^2 + 3y^2.$$
 
-[[src_rmo_1996__Q03]]
+[[Quesiti/src_rmo_1996#q03|src_rmo_1996__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: RMO
 > 
 > Provare che $n$ è massimo di 6. Inoltre, mostrare che a partire da qualsiasi cifra si può trovare un numero a sei cifre con queste proprietà.
 
-[[src_rmo_1996__Q04]]
+[[Quesiti/src_rmo_1996#q04|src_rmo_1996__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo e $h_a$ l'altitudine attraverso $A$. Prove che $$(b + c)^2 \ge a^2 + 4h_a^2.$$ (Come al solito $a$, $b$, $c$ indicano rispettivamente i lati $BC$, $CA$ e $AB$.)
 
-[[src_rmo_1996__Q05]]
+[[Quesiti/src_rmo_1996#q05|src_rmo_1996__Q05]]
 
 
 
@@ -179,7 +179,7 @@ level: RMO
 
 > Dato qualsiasi numero intero positivo $n$ mostrano che ci sono due numeri razionali positivi $a$ e $b$, $a \ne b$, che non sono interi e che sono tali che $a - b$, $a^2 - b^2$, $\ldots$, $a^n - b^n$ sono tutti interi.
 
-[[src_rmo_1996__Q06]]
+[[Quesiti/src_rmo_1996#q06|src_rmo_1996__Q06]]
 
 
 
@@ -206,4 +206,4 @@ level: RMO
 
 > Se $A$ è un sottoinsieme di cinquanta elementi del set $\{1, 2, 3, \ldots, 100\}$ in modo tale che non ci siano due numeri da $A$ sommati fino a 100, indicare che $A$ contiene un quadrato.
 
-[[src_rmo_1996__Q07]]
+[[Quesiti/src_rmo_1996#q07|src_rmo_1996__Q07]]

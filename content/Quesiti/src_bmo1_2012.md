@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri $n$ (positivi o negativi) per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
 
-[[src_bmo1_2012__Q01]]
+[[Quesiti/src_bmo1_2012#q01|src_bmo1_2012__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Considerate i numeri $1, 2, \ldots, n$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i termini consecutivi differiscano almeno $t$.
 
-[[src_bmo1_2012__Q02]]
+[[Quesiti/src_bmo1_2012#q02|src_bmo1_2012__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Dimostrare che la differenza tra i raggi di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
 
-[[src_bmo1_2012__Q03]]
+[[Quesiti/src_bmo1_2012#q03|src_bmo1_2012__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: BMO Round 1
 > 
 > È ora sempre possibile svuotare entrambe le sacche dopo una sequenza finita di operazioni?
 
-[[src_bmo1_2012__Q04]]
+[[Quesiti/src_bmo1_2012#q04|src_bmo1_2012__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: BMO Round 1
 
 > Prove che il prodotto di quattro numeri interi positivi consecutivi non può essere uguale al prodotto di due numeri interi positivi consecutivi.
 
-[[src_bmo1_2012__Q05]]
+[[Quesiti/src_bmo1_2012#q05|src_bmo1_2012__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: BMO Round 1
 > 
 > L'altitudine da $A$ è la linea attraverso $A$ che è perpendicolare a $BC$. Il piede di questa altitudine è il punto $D$ dove incontra $BC$. Le altre altitudini sono definite in modo simile.
 
-[[src_bmo1_2012__Q06]]
+[[Quesiti/src_bmo1_2012#q06|src_bmo1_2012__Q06]]

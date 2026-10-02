@@ -35,7 +35,7 @@ level: kangourou
 > Be $n$ the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the unit number of $n$?
 
 **Answer:** 9
-[[src_kangourou_2020_student_settembre__Q01]]
+[[Quesiti/src_kangourou_2020_student_settembre#q01|src_kangourou_2020_student_settembre__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: kangourou
 > (c) for each method of filling the grid there is at most a special number.
 
 **Answer:** a)F b)V c)V
-[[src_kangourou_2020_student_settembre__Q02]]
+[[Quesiti/src_kangourou_2020_student_settembre#q02|src_kangourou_2020_student_settembre__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: kangourou
 > How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
 
 **Answer:** 6
-[[src_kangourou_2020_student_settembre__Q03]]
+[[Quesiti/src_kangourou_2020_student_settembre#q03|src_kangourou_2020_student_settembre__Q03]]
 
 
 
@@ -134,7 +134,7 @@ Comparison between 129^29 and 4095^17
 > Which of the two numbers $129^{29}$ and $4095^{17}$ is greater?
 
 **Answer:** il secondo
-[[src_kangourou_2020_student_settembre__Q04]]
+[[Quesiti/src_kangourou_2020_student_settembre#q04|src_kangourou_2020_student_settembre__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Comparison between 129^29 and 4095^17
 
 > A center circumference $I$ is inscribed in a triangle $ABC$: denotes with $D$ and $E$ its tangent points on the sides $BC$ and $AC$ respectively. Also denote with $M$ and $N$ the mean points of $BC$ and $AB$ respectively and with $P$ the intersection between the connecting line $A$ with $I$ and the connecting line $D$ with $E$. It shows that $M$, $N$ and $P$ are aligned.
 
-[[src_kangourou_2020_student_settembre__Q05]]
+[[Quesiti/src_kangourou_2020_student_settembre#q05|src_kangourou_2020_student_settembre__Q05]]
 
 
 
@@ -206,4 +206,4 @@ Comparison between 129^29 and 4095^17
 > (It may be useful to know that if a positive $a$ number is set, there is a $M = M(a)$ number such that for each $n \in \mathbb{N}$ $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ $a > 1$ $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ exists.)
 
 **Answer:** FALSA
-[[src_kangourou_2020_student_settembre__Q06]]
+[[Quesiti/src_kangourou_2020_student_settembre#q06|src_kangourou_2020_student_settembre__Q06]]

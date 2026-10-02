@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Prova che l'equazione $x^8 + y^8 + z^8 = n^8$, dove $n$ è un intero $> 1$, non ha soluzione in numeri interi $x, y, z$, con $0 \le y \le n$.
 
-[[src_bmo1_1980__Q01]]
+[[Quesiti/src_bmo1_1980#q01|src_bmo1_1980__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: BMO Round 1
 
 > Trovare un insieme $S = \{a_1, a_2, a_3, a_4, a_5, a_6, a_7\}$ di 7 integri positivi consecutivi per i quali esiste un polinomio $P(x)$ di grado 5 con le seguenti proprietà: (a) tutti i coefficienti di $P(x)$ sono integri; (b) $P(n) = n$ per 3 membri di $S$, compresi i più piccoli e i più grandi; (c) $P(n) = 0$ per un membro di $S$.
 
-[[src_bmo1_1980__Q02]]
+[[Quesiti/src_bmo1_1980#q02|src_bmo1_1980__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 1
 
 > Sul diametro $AB$ che confina una regione semicircolare ci sono due punti $P$ e $Q$, e sull'arco ci sono punti $R$ e $S$ in modo tale che $PQRS$ sia quadrato. $C$ è un punto sul semicircolo tale che le superfici del triangolo $ABC$ e del quadrato $PQRS$ siano uguali. Prova che una linea retta che attraversa uno dei punti $P$ e $Q$ e uno dei punti $A$ e $B$ taglia al centro del triangolo $ABC$.
 
-[[src_bmo1_1980__Q03]]
+[[Quesiti/src_bmo1_1980#q03|src_bmo1_1980__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: BMO Round 1
 
 > Trova l'insieme dei numeri reali $a_n$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \quad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \quad (n \ge 0).$$
 
-[[src_bmo1_1980__Q04]]
+[[Quesiti/src_bmo1_1980#q04|src_bmo1_1980__Q04]]
 
 
 
@@ -147,4 +147,4 @@ level: BMO Round 1
 
 > In un gruppo di dieci persone, tra tutte e tre persone ci sono almeno due che non si conoscono. Dimostra che alla festa ci sono quattro persone di cui non due si conoscono.
 
-[[src_bmo1_1980__Q05]]
+[[Quesiti/src_bmo1_1980#q05|src_bmo1_1980__Q05]]

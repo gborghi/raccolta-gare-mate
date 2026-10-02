@@ -43,7 +43,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > Supponendo che esattamente uno dei quattro bambini abbia detto la verità, quale di loro ha rotto la finestra?
 
 **Risposta:** Cédric
-[[src_canimath_2016_automne__Q01]]
+[[Quesiti/src_canimath_2016_automne#q01|src_canimath_2016_automne__Q01]]
 
 
 
@@ -56,7 +56,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 > In the figure below, the triangles $ABO$, $BCO$, $CDO$, $DEO$ and $FEO$ are isosceles right triangles. We are given that $OA = 8$ cm. Determine the area of triangle $AOF$ in cm$^2$.
 
-![[src_canimath_2016_automne__Q02.png]]
+![[src_canimath_2016_automne__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -73,10 +73,10 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 > Nella figura di seguito, i triangoli $ABO$, $BCO$, $CDO$, $DEO$ e $FEO$ sono triangoli rettangolari a pieghe uguali. Ci viene data quella $OA = 8$ cm. Determinare la superficie del triangolo $AOF$ in cm$^2$.
 
-![[src_canimath_2016_automne__Q02.png]]
+![[src_canimath_2016_automne__q02.png]]
 
 **Risposta:** 32
-[[src_canimath_2016_automne__Q02]]
+[[Quesiti/src_canimath_2016_automne#q02|src_canimath_2016_automne__Q02]]
 
 
 
@@ -105,7 +105,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > I punti 2016 sono allineati su una linea. In quanti modi si possono colorare rosso, verde o blu, in modo che due punti adiacenti siano di colori diversi e ogni colore venga utilizzato almeno una volta?
 
 **Risposta:** 6
-[[src_canimath_2016_automne__Q03]]
+[[Quesiti/src_canimath_2016_automne#q03|src_canimath_2016_automne__Q03]]
 
 
 
@@ -131,7 +131,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 > Due cerchi $C_1$ e $C_2$ sono tangenti esternamente in un punto $X$. Un tangente comune a entrambi i cerchi incontra $C_1$ a $Y$ e $C_2$ a $Z$ (con $Y \neq Z$). Il $T$ deve essere un punto tale che $[YT]$ abbia un diametro di $C_2$. Indicare che $T$, $X$ e $Z$ sono collineari.
 
-[[src_canimath_2016_automne__Q04]]
+[[Quesiti/src_canimath_2016_automne#q04|src_canimath_2016_automne__Q04]]
 
 
 
@@ -162,7 +162,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > 
 > *Nota: un palindromo non può iniziare con uno zero. Ad esempio, il 0770 non è un palindromo.*
 
-[[src_canimath_2016_automne__Q05]]
+[[Quesiti/src_canimath_2016_automne#q05|src_canimath_2016_automne__Q05]]
 
 
 
@@ -189,7 +189,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 > Determinare tutti i numeri interi $n \geq 3$ in modo tale che si possano posizionare $n$ numeri reali distinti su un cerchio in modo che ciascuno di questi numeri sia uguale al prodotto dei suoi due vicini.
 
-[[src_canimath_2016_automne__Q06]]
+[[Quesiti/src_canimath_2016_automne#q06|src_canimath_2016_automne__Q06]]
 
 
 
@@ -220,7 +220,7 @@ Gioco: sostituire n a bordo; chi vince?
 > 
 > Determinare quale giocatore abbia una strategia vincente e descrivere quella strategia.
 
-[[src_canimath_2016_automne__Q07]]
+[[Quesiti/src_canimath_2016_automne#q07|src_canimath_2016_automne__Q07]]
 
 
 
@@ -249,4 +249,4 @@ Gioco: sostituire n a bordo; chi vince?
 > Un elenco di numeri è chiamato *jolie* se è costituito da integri rigorosamente positivi in modo tale che la somma di questi integri sia pari al loro prodotto. Determinare il numero più piccolo di numeri interi uguali a 1 che una lista di 100 numeri può contenere.
 
 **Risposta:** 95
-[[src_canimath_2016_automne__Q08]]
+[[Quesiti/src_canimath_2016_automne#q08|src_canimath_2016_automne__Q08]]

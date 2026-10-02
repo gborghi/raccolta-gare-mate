@@ -123,7 +123,7 @@ level: Concours Général
 > 
 > 9. Let $A$ essere nuovamente il punto delle coordinate $(3\,;\,9)$ e let $(A_n)$ essere la sequenza ricorrente associata a $A$. Per ogni intero naturale $n$, un insieme $t_n = \frac{h(A_n)}{2^n}$. Indicare che la sequenza $(t_n)$ converge.
 
-[[src_cgen_2025__Q01]]
+[[Quesiti/src_cgen_2025#q01|src_cgen_2025__Q01]]
 
 
 
@@ -229,7 +229,7 @@ level: Concours Général
 > 
 > 9. Quali sono i reals $\alpha$ che verificano la proprietà $\mathscr{B}$?
 
-[[src_cgen_2025__Q02]]
+[[Quesiti/src_cgen_2025#q02|src_cgen_2025__Q02]]
 
 
 
@@ -275,4 +275,4 @@ level: Concours Général
 > 
 > 3. Proporre un'infinità di funzioni continue $f$ che verificano $\mathscr{E}$ e che $f(0) = \frac{1}{2}$.
 
-[[src_cgen_2025__Q03]]
+[[Quesiti/src_cgen_2025#q03|src_cgen_2025__Q03]]

@@ -34,7 +34,7 @@ level: Coupe Animath Printemps
 
 > Calcolare $$\frac{13}{6} + \frac{7}{10} + \frac{2}{15}.$$ Qui si prevede una risposta numerica semplificata.
 
-[[src_canimath_2025_printemps__Q01]]
+[[Quesiti/src_canimath_2025_printemps#q01|src_canimath_2025_printemps__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Coupe Animath Printemps
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
-[[src_canimath_2025_printemps__Q02]]
+[[Quesiti/src_canimath_2025_printemps#q02|src_canimath_2025_printemps__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: Coupe Animath Printemps
 
 > Trovare tutti i numeri reali $a$ e $b$ in modo tale che $a + b \neq 0$, $3a - b \neq 0$, e entrambe le seguenti equazioni siano valide: $$a = \frac{2}{a+b} \qquad \text{and} \qquad b = \frac{2}{3a-b}.$$
 
-[[src_canimath_2025_printemps__Q03]]
+[[Quesiti/src_canimath_2025_printemps#q03|src_canimath_2025_printemps__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: Coupe Animath Printemps
 > 
 > Indicare che il prodotto $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$ è pari.
 
-[[src_canimath_2025_printemps__Q04]]
+[[Quesiti/src_canimath_2025_printemps#q04|src_canimath_2025_printemps__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: Coupe Animath Printemps
 > 
 > Mostra che $PY = QX$.
 
-[[src_canimath_2025_printemps__Q05]]
+[[Quesiti/src_canimath_2025_printemps#q05|src_canimath_2025_printemps__Q05]]
 
 
 
@@ -187,7 +187,7 @@ level: Coupe Animath Printemps
 > 
 > Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
 
-[[src_canimath_2025_printemps__Q06]]
+[[Quesiti/src_canimath_2025_printemps#q06|src_canimath_2025_printemps__Q06]]
 
 
 
@@ -218,7 +218,7 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
-[[src_canimath_2025_printemps__Q07]]
+[[Quesiti/src_canimath_2025_printemps#q07|src_canimath_2025_printemps__Q07]]
 
 
 
@@ -246,7 +246,7 @@ level: Coupe Animath Printemps
 
 > Calcolare $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$ Qui si prevede una risposta numerica semplificata.
 
-[[src_canimath_2025_printemps__Q08]]
+[[Quesiti/src_canimath_2025_printemps#q08|src_canimath_2025_printemps__Q08]]
 
 
 
@@ -276,7 +276,7 @@ level: Coupe Animath Printemps
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
-[[src_canimath_2025_printemps__Q09]]
+[[Quesiti/src_canimath_2025_printemps#q09|src_canimath_2025_printemps__Q09]]
 
 
 
@@ -307,7 +307,7 @@ level: Coupe Animath Printemps
 > 
 > Quante persone possono esserci nella stanza al massimo?
 
-[[src_canimath_2025_printemps__Q10]]
+[[Quesiti/src_canimath_2025_printemps#q10|src_canimath_2025_printemps__Q10]]
 
 
 
@@ -338,7 +338,7 @@ level: Coupe Animath Printemps
 > 
 > Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
 
-[[src_canimath_2025_printemps__Q11]]
+[[Quesiti/src_canimath_2025_printemps#q11|src_canimath_2025_printemps__Q11]]
 
 
 
@@ -367,7 +367,7 @@ level: Coupe Animath Printemps
 
 > Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
 
-[[src_canimath_2025_printemps__Q12]]
+[[Quesiti/src_canimath_2025_printemps#q12|src_canimath_2025_printemps__Q12]]
 
 
 
@@ -398,7 +398,7 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
-[[src_canimath_2025_printemps__Q13]]
+[[Quesiti/src_canimath_2025_printemps#q13|src_canimath_2025_printemps__Q13]]
 
 
 
@@ -435,7 +435,7 @@ level: Coupe Animath Printemps
 > 
 > (Qui $\lfloor x \rfloor$ indica il più grande numero intero inferiore o uguale a $x$.)
 
-[[src_canimath_2025_printemps__Q14]]
+[[Quesiti/src_canimath_2025_printemps#q14|src_canimath_2025_printemps__Q14]]
 
 
 
@@ -466,4 +466,4 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero minimo di spie che Martin deve mettere per poter sempre determinare quale quadrato Aurélien ha scelto?
 
-[[src_canimath_2025_printemps__Q15]]
+[[Quesiti/src_canimath_2025_printemps#q15|src_canimath_2025_printemps__Q15]]

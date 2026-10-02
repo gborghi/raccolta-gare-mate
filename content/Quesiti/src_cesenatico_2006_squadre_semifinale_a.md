@@ -38,7 +38,7 @@ level: squadre
 > At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment they must perform an exercise: given sequence 2, 3, 5, 6, 7, 10, 11, .. . , composed of all positive integers other than n squares and n cubes of other integers, for the 2006th term.
 
 **Answer:** 2060
-[[src_cesenatico_2006_squadre_semifinale_a__Q01]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q01|src_cesenatico_2006_squadre_semifinale_a__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: squadre
 > The first test of the tournament finally came the big day of the Triangle tournament, which compares the best math students. Here's the first test: Find how many pairs (a,b) of positive integers are such as a ≤222 and a 2 < b < 2 3a.
 
 **Answer:** 4033
-[[src_cesenatico_2006_squadre_semifinale_a__Q02]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q02|src_cesenatico_2006_squadre_semifinale_a__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: squadre
 > The only way to make visible what has been written about the construction of the malander is to solve a geometric problem: in an ABC triangle the lengths of the sides coming out of A are 1358 and 2006, and the median coming out of A is 1358. What's the length of BC?
 
 **Answer:** 2088
-[[src_cesenatico_2006_squadre_semifinale_a__Q03]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q03|src_cesenatico_2006_squadre_semifinale_a__Q03]]
 
 
 
@@ -135,7 +135,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > For a strange, mathematical coincidence, in the Middle Ages the director of the Higher Mathematical School was appointed only in the years with the following peculiar property: it was all the years N between 476 and 1492 for which the equation x4 −y4 = N has solution in positive integers. What's the sum of these years?
 
 **Answer:** 8383
-[[src_cesenatico_2006_squadre_semifinale_a__Q04]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q04|src_cesenatico_2006_squadre_semifinale_a__Q04]]
 
 
 
@@ -169,7 +169,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing on the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and hence m·n = 20!.
 
 **Answer:** 0128
-[[src_cesenatico_2006_squadre_semifinale_a__Q05]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q05|src_cesenatico_2006_squadre_semifinale_a__Q05]]
 
 
 
@@ -202,7 +202,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Selection of the rose Quamditch is a sport that combines shot, agility and power of thought and action. For this reason, Hardy, captain of the Quamditch team of the House of Rapporteur, subjects aspiring mathematicians to the following test: while performing a triple capriola carpiata, they must consider all the ordered pairs of positive integers (a,b) such that a2 + b2 = 1105. What is the sum of the different values of a?
 
 **Answer:** 0168
-[[src_cesenatico_2006_squadre_semifinale_a__Q06]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q06|src_cesenatico_2006_squadre_semifinale_a__Q06]]
 
 
 
@@ -239,7 +239,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > I'm going to pay. 2 out of 2  Team competition 2006  Semifinal A Problem tests
 
 **Answer:** 0210
-[[src_cesenatico_2006_squadre_semifinale_a__Q07]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q07|src_cesenatico_2006_squadre_semifinale_a__Q07]]
 
 
 
@@ -273,7 +273,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Uncovered impostors Often one wonders how it is possible to recognize a mathematician from a mateban, that is, someone fasting in mathematics. The method is very simple! Try asking a mattress the following question. In an ABC triangle, straight to A, be AB = 7 and AC = 24. P is the intersection of height from A to median from B. Determine the AP. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 
 **Answer:** 2437
-[[src_cesenatico_2006_squadre_semifinale_a__Q08]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q08|src_cesenatico_2006_squadre_semifinale_a__Q08]]
 
 
 
@@ -305,7 +305,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Dunque si ritrova costretta a tenere spesso d’occhio l’orologio. Sia N il numero di volte che, in una settimana, la lancetta dei secondi sorpassa la lancetta dei minuti. Quanto vale N?
 
 **Answer:** 9912
-[[src_cesenatico_2006_squadre_semifinale_a__Q09]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q09|src_cesenatico_2006_squadre_semifinale_a__Q09]]
 
 
 
@@ -338,7 +338,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > In geomancy class, Hardy and Hermita are in the geomancy lab, practicing to create magical symbols. Starting from a circumference on which six equidistant points mark, Hermita proposes to complete the figure by joining the six points to form a star of David, of area A. Hardy, on the other hand, proposes to join them to the hexagon, of area B. To measure the power of the two spells, the two measure the two areas. Say what 360B/A is worth.
 
 **Answer:** 0540
-[[src_cesenatico_2006_squadre_semifinale_a__Q10]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q10|src_cesenatico_2006_squadre_semifinale_a__Q10]]
 
 
 
@@ -370,7 +370,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Competitors in the dreadful Triangle Tournament who have passed the first test are now facing the second. They have to find the smallest number of exactly four digits so that, adding the last four digits of its square to the initial number, you get 10,000.
 
 **Answer:** 9375
-[[src_cesenatico_2006_squadre_semifinale_a__Q11]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q11|src_cesenatico_2006_squadre_semifinale_a__Q11]]
 
 
 
@@ -404,7 +404,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > As all mathematicians know, a domestic elf can regain his freedom if he manages to solve a problem that his master poses to him. Recently an alphas was asked what is the smallest integer of 4 distinct and non-zero digits such that each of its digits (except the first and last) is strictly greater than the arithmetic mean of the two adjacent digits. What is the answer that gives freedom back to the alpha?
 
 **Answer:** 1342
-[[src_cesenatico_2006_squadre_semifinale_a__Q12]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q12|src_cesenatico_2006_squadre_semifinale_a__Q12]]
 
 
 
@@ -450,7 +450,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Hardy's hunting lodge, Ron and Hermita enjoy spending the afternoon in front of a smoking cup of tea with the hunting lodge. On these occasions the meticulous Hermit has always a new problem of geomancy, her favorite subject, to propose to friends. Points B, C, D and E lie on the same circumference and both A the intersection between the straight BE and the straight CD (see figure). We know that DE = AE and that d ACB = 40°. Determine the DAE. A B D E C
 
 **Answer:** 0070
-[[src_cesenatico_2006_squadre_semifinale_a__Q13]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q13|src_cesenatico_2006_squadre_semifinale_a__Q13]]
 
 
 
@@ -485,7 +485,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > The collector Professor Primon makes a strange collection of dark mathematics artifacts. These are regular tetrahedra that have all colored faces of a single color (different for each face), and colors are chosen from a range of 20 different colors. Professor Primon already owns an item from this collection and buys another one, then he goes home and turns it upside down, turns it on the base, and he realizes that it's actually a duplicate. How many pieces are in total in the collection (two pieces obtained by rotation are to be considered the same)?
 
 **Answer:** 9690
-[[src_cesenatico_2006_squadre_semifinale_a__Q14]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q14|src_cesenatico_2006_squadre_semifinale_a__Q14]]
 
 
 
@@ -527,4 +527,4 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 > Cesenatico Competition in teams 2 6 VII NATIONAL GARA A Semifinal Team A  Solution  5 May 2006 Nr. The problem
 
 **Answer:** 2006
-[[src_cesenatico_2006_squadre_semifinale_a__Q15]]
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q15|src_cesenatico_2006_squadre_semifinale_a__Q15]]

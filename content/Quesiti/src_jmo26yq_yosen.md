@@ -38,7 +38,7 @@ level: JMO Yosen
 > Calcolare il valore della seguente espressione e dare la risposta come numero intero: $$\sqrt{\dfrac{11^4 + 100^4 + 111^4}{2}}.$$
 
 **Risposta:** 11221
-[[src_jmo26yq_yosen__Q01]]
+[[Quesiti/src_jmo26yq_yosen#q01|src_jmo26yq_yosen__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: JMO Yosen
 > Tra i numeri interi da $1$ a $2016$, quanti sono i cui restanti dopo la divisione da $20$ sono inferiori alla metà di $16$ (cioè il restante del modulo intero $20$ è inferiore a $\tfrac{16}{2} = 8$)?
 
 **Risposta:** 600
-[[src_jmo26yq_yosen__Q02]]
+[[Quesiti/src_jmo26yq_yosen#q02|src_jmo26yq_yosen__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: JMO Yosen
 > Il $ABCDEF$ deve essere un esagono inciso in un cerchio. $P$ è l'intersezione della linea $AB$ e della linea $DC$, $Q$ l'intersezione della linea $BC$ e della linea $ED$, $R$ l'intersezione della linea $CD$ e della linea $FE$, $S$ l'intersezione della linea $DE$ e della linea $AF$, e $T$ l'intersezione della linea $FE$ e della linea $CB$. È dato che $\angle BPC = 50^\circ$, $\angle CQD = 45^\circ$, $\angle DRE = 40^\circ$ e $\angle ESF = 35^\circ$. Trova la dimensione dell'angolo formato dall'intersezione della linea $BE$ e della linea $CF$.
 
 **Risposta:** 95^\circ
-[[src_jmo26yq_yosen__Q03]]
+[[Quesiti/src_jmo26yq_yosen#q03|src_jmo26yq_yosen__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: JMO Yosen
 > Una griglia $11 \times 11$ di celle di unità è suddivisa lungo le linee della griglia in rettangoli $5$. Tra queste partizioni, si possono considerare quelle in cui esattamente uno dei rettangoli risultanti non tocca il confine esterno della griglia (nessuno dei suoi lati si trova sul confine esterno). Quante partizioni di questo tipo ci sono? Due partizioni che coincidono sotto rotazione o riflessione sono contate come distinte.
 
 **Risposta:** 32400
-[[src_jmo26yq_yosen__Q04]]
+[[Quesiti/src_jmo26yq_yosen#q04|src_jmo26yq_yosen__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: JMO Yosen
 > In quadrilaterali $ABCD$, $AC = 20$ e $AD = 16$. Prendi un punto $P$ sul lato $CD$. Supponiamo che il triangolo $ABP$ e il triangolo $ACD$ siano simili (hanno la stessa forma). Quando l'area del triangolo $APD$ è $28$, si trova l'area del triangolo $BCP$.
 
 **Risposta:** \dfrac{63}{4}
-[[src_jmo26yq_yosen__Q05]]
+[[Quesiti/src_jmo26yq_yosen#q05|src_jmo26yq_yosen__Q05]]
 
 
 
@@ -193,7 +193,7 @@ level: JMO Yosen
 > I numeri interi da $1$ a $200$ sono scritti esattamente una volta su biglietti di lotteria separati, e esattamente $100$ di essi sono circolati (scelti). Per una tale scelta, il punteggio è definito come la somma dei numeri interi circondati meno la somma dei numeri interi $100$ non circondati. Calcola la media di questo punteggio su tutte le possibili scelte.
 
 **Risposta:** 670000
-[[src_jmo26yq_yosen__Q06]]
+[[Quesiti/src_jmo26yq_yosen#q06|src_jmo26yq_yosen__Q06]]
 
 
 
@@ -226,7 +226,7 @@ level: JMO Yosen
 > Numeri reali $a, b, c, d$ soddisfano $$\begin{cases}(a+b)(c+d) = 2,\\ (a+c)(b+d) = 3,\\ (a+d)(b+c) = 4.\end{cases}$$ Trovare il valore minimo possibile di $a^2 + b^2 + c^2 + d^2$.
 
 **Risposta:** 7
-[[src_jmo26yq_yosen__Q07]]
+[[Quesiti/src_jmo26yq_yosen#q07|src_jmo26yq_yosen__Q07]]
 
 
 
@@ -257,7 +257,7 @@ level: JMO Yosen
 > $\omega$ sia l'incircolo del triangolo $ABC$. $D$ sia il punto in cui il lato $BC$ tocca $\omega$, e $X$ sia il secondo incrocio della linea $AD$ con $\omega$ (diversi da $D$). Dato che $AX : XD : BC = 1 : 3 : 16$ e che il raggio di $\omega$ è $1$, si trova la lunghezza del segmento $XD$.
 
 **Risposta:** \dfrac{3\sqrt{10}}{5}
-[[src_jmo26yq_yosen__Q08]]
+[[Quesiti/src_jmo26yq_yosen#q08|src_jmo26yq_yosen__Q08]]
 
 
 
@@ -288,7 +288,7 @@ level: JMO Yosen
 > Quante coppie di integri $(a, b)$ con $1 \le a, b \le 2015$ esistono tali che $a$ sia un multiple di $b + 1$ e $2016 - a$ sia un multiple di $b$?
 
 **Risposta:** 1980
-[[src_jmo26yq_yosen__Q09]]
+[[Quesiti/src_jmo26yq_yosen#q09|src_jmo26yq_yosen__Q09]]
 
 
 
@@ -319,7 +319,7 @@ level: JMO Yosen
 > Su un cerchio ci sono bandiere $2016$ posizionate in posizioni spaziali uguali (punti $2016$, quelli adiacenti a distanza d'arco $1$). La persona A si muove lungo il cerchio e vuole abbattere tutte le bandiere. Per il peggiore caso sopra la posizione di partenza di A, trovare la distanza totale minima A deve percorrere in modo da poter abbattere tutte le bandiere. A non deve tornare al punto di partenza. (La risposta è riportata sotto.)
 
 **Risposta:** 1 - \dfrac{1}{3 \cdot 2^{1008} - 2}
-[[src_jmo26yq_yosen__Q10]]
+[[Quesiti/src_jmo26yq_yosen#q10|src_jmo26yq_yosen__Q10]]
 
 
 
@@ -350,7 +350,7 @@ level: JMO Yosen
 > Quante coppie di integri $(a, b)$ con $a, b \ge 2$ esistono tali che esista una sequenza $x_1, x_2, \ldots, x_{1000}$ che soddisfa entrambe le seguenti condizioni? (i) $x_1, x_2, \ldots, x_{1000}$ è una riorganizzazione di $1, 2, \ldots, 1000$. (ii) Per ogni numero intero $i$ con $1 \le i \le 1000$ (indici presi ciclicamente), $x_{i+1} = x_i + a$ o $x_{i+1} = x_i - b$ è tenuto.
 
 **Risposta:** 2940
-[[src_jmo26yq_yosen__Q11]]
+[[Quesiti/src_jmo26yq_yosen#q11|src_jmo26yq_yosen__Q11]]
 
 
 
@@ -381,4 +381,4 @@ level: JMO Yosen
 > Ci sono abitanti di villaggio numerati da $1$ a $2015$ che vivono in un villaggio; tra i abitanti di villaggio $2016$ alcuni sono onesti e altri sono bugiardi, con almeno un abitante onesto. Un cittadino onesto dice sempre la verità, mentre un bugiardo può dire la verità o la menzogna (non sai cosa fa ogni bugiardo, né chi è onesto). Sapete che il numero di abitanti onesti è esattamente $T$. Ogni cittadino sa, per ogni cittadino, se quel cittadino è onesto o un bugiardo. Ogni giorno potete dare segretamente un'istruzione a un abitante del villaggio scelto; il giorno successivo quel abitante scrive il numero di bugiardi tra un gruppo specifico di abitanti del villaggio e, la sera del $i$-th giorno, consegna la carta al abitante del villaggio $i - k_i$ (con $1 \le i \le 2016$). Un abitante onesto scrive il conto vero; un bugiardo può scrivere qualsiasi numero. Determina il valore massimo di $T$ per il quale esiste una strategia che, non importa come si comportino i bugiardi, ti permette di identificare correttamente tutti i villaggieri onesti. (Nota: alcune parti della meccanica di questo problema sono parzialmente illeggibili nella scansione; la risposta finale è $503$.)
 
 **Risposta:** 503
-[[src_jmo26yq_yosen__Q12]]
+[[Quesiti/src_jmo26yq_yosen#q12|src_jmo26yq_yosen__Q12]]

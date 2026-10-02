@@ -59,7 +59,7 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2021_cadet_semifinale__Q01]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q01|src_kangourou_2021_cadet_semifinale__Q01]]
 
 
 
@@ -110,7 +110,7 @@ level: kangourou
 > E) 32
 
 **Answer:** B
-[[src_kangourou_2021_cadet_semifinale__Q02]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q02|src_kangourou_2021_cadet_semifinale__Q02]]
 
 
 
@@ -196,7 +196,7 @@ level: kangourou
 > E) 1
 
 **Answer:** D
-[[src_kangourou_2021_cadet_semifinale__Q03]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q03|src_kangourou_2021_cadet_semifinale__Q03]]
 
 
 
@@ -243,7 +243,7 @@ level: kangourou
 > C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
 
 **Answer:** C
-[[src_kangourou_2021_cadet_semifinale__Q04]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q04|src_kangourou_2021_cadet_semifinale__Q04]]
 
 
 
@@ -315,7 +315,7 @@ level: kangourou
 > 1
 
 **Answer:** D
-[[src_kangourou_2021_cadet_semifinale__Q05]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q05|src_kangourou_2021_cadet_semifinale__Q05]]
 
 
 
@@ -363,7 +363,7 @@ level: kangourou
 > E) 1,5
 
 **Answer:** A
-[[src_kangourou_2021_cadet_semifinale__Q06]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q06|src_kangourou_2021_cadet_semifinale__Q06]]
 
 
 
@@ -405,7 +405,7 @@ This is the total amount of the loan.
 > E) 681754
 
 **Answer:** B
-[[src_kangourou_2021_cadet_semifinale__Q07]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q07|src_kangourou_2021_cadet_semifinale__Q07]]
 
 
 
@@ -452,7 +452,7 @@ This is the total amount of the loan.
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2021_cadet_semifinale__Q08]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q08|src_kangourou_2021_cadet_semifinale__Q08]]
 
 
 
@@ -510,7 +510,7 @@ This is the total amount of the loan.
 > Open-ended questions
 
 **Answer:** E
-[[src_kangourou_2021_cadet_semifinale__Q09]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q09|src_kangourou_2021_cadet_semifinale__Q09]]
 
 
 
@@ -540,7 +540,7 @@ Max tosses to make sure a number goes out 3 times
 > (4 points) What is the maximum number of times it may be necessary to roll a dice for at least one number to come out 3 times?
 
 **Answer:** 13
-[[src_kangourou_2021_cadet_semifinale__Q10]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q10|src_kangourou_2021_cadet_semifinale__Q10]]
 
 
 
@@ -569,7 +569,7 @@ Max tosses to make sure a number goes out 3 times
 > (5 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
 **Answer:** 101
-[[src_kangourou_2021_cadet_semifinale__Q11]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q11|src_kangourou_2021_cadet_semifinale__Q11]]
 
 
 
@@ -598,7 +598,7 @@ Max tosses to make sure a number goes out 3 times
 > (5 points) What is the greatest number of 4 digits divisible by 6 whose digits are in (strictly) increasing order from left to right?
 
 **Answer:** 4578
-[[src_kangourou_2021_cadet_semifinale__Q12]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q12|src_kangourou_2021_cadet_semifinale__Q12]]
 
 
 
@@ -629,7 +629,7 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest amount you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 
 **Answer:** 356
-[[src_kangourou_2021_cadet_semifinale__Q13]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q13|src_kangourou_2021_cadet_semifinale__Q13]]
 
 
 
@@ -665,7 +665,7 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) A rectangular strip of paper is folded to obtain the hexagonal shape in the figure, which surrounds an equilateral triangle of side 8 cm (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures √ 3 cm. How long is the strip?
 
 **Answer:** 33
-[[src_kangourou_2021_cadet_semifinale__Q14]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q14|src_kangourou_2021_cadet_semifinale__Q14]]
 
 
 
@@ -703,7 +703,7 @@ Max tosses to make sure a number goes out 3 times
 > (6 points) The figure sketches the rim of a half-circle whose wheels have a radius of 1/π meters with a centre distance of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
 
 **Answer:** 40
-[[src_kangourou_2021_cadet_semifinale__Q15]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q15|src_kangourou_2021_cadet_semifinale__Q15]]
 
 
 
@@ -735,7 +735,7 @@ Max tosses to make sure a number goes out 3 times
 > (7 points) We have 90 tokens, half black and half white. We want to align them so that the consecutive blocks of white tokens are as many as possible and that no pair of these blocks have the same number of tokens. What is the number of tokens in the largest possible block of consecutive black tokens?
 
 **Answer:** 38
-[[src_kangourou_2021_cadet_semifinale__Q16]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q16|src_kangourou_2021_cadet_semifinale__Q16]]
 
 
 
@@ -811,7 +811,7 @@ Max tosses to make sure a number goes out 3 times
 > (7 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. When choosing the appropriate room to leave, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
 
 **Answer:** 9901
-[[src_kangourou_2021_cadet_semifinale__Q17]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q17|src_kangourou_2021_cadet_semifinale__Q17]]
 
 
 
@@ -852,4 +852,4 @@ Max tosses to make sure a number goes out 3 times
 > P Welding √ 3 cm
 
 **Answer:** 1
-[[src_kangourou_2021_cadet_semifinale__Q18]]
+[[Quesiti/src_kangourou_2021_cadet_semifinale#q18|src_kangourou_2021_cadet_semifinale__Q18]]

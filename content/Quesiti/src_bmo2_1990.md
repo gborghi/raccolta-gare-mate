@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Prova che se il polinomio $$p(x) = a_0x^n + a_1x^{n-1} + \ldots + a_{n-1}x + a_n,$$ i cui coefficienti sono interi, prende il valore $1990$ per quattro valori interi distinti di $x$, allora non può prendere il valore $1997$ per qualsiasi valore interi di $x$.
 
-[[src_bmo2_1990__Q01]]
+[[Quesiti/src_bmo2_1990#q01|src_bmo2_1990__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 2
 
 > La parte \textit{integer} $[x]$ di un numero $x$ è il numero intero più grande non superiore a $x$. La \textit{frazione} $f(x)$ è definita da $f(x) = x - [x]$. Trova un numero positivo $x$ tale che $$f(x) + f\left(\frac{1}{x}\right) = 1.$$ Ci sono soluzioni \textit{razionali}?
 
-[[src_bmo2_1990__Q02]]
+[[Quesiti/src_bmo2_1990#q02|src_bmo2_1990__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 2
 
 > Indicare la regola cosina per un triangolo. Prove che per i numeri reali positivi arbitrari $a$, $b$, $c$, $$\sqrt{a^2 + b^2 - ab} + \sqrt{b^2 + c^2 - bc} \ge \sqrt{a^2 + c^2 + ac}.$$
 
-[[src_bmo2_1990__Q03]]
+[[Quesiti/src_bmo2_1990#q03|src_bmo2_1990__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: BMO Round 2
 
 > $d$ indica la lunghezza della più piccola diagonale di tutti i rettangoli inseriti in un triangolo $T$. (Per inciso intendiamo che tutti i vertici del rettangolo si trovano sul confine di $T$). Determinare il valore massimo di $d^2/\mathrm{area}(T)$ preso su tutti i triangoli.
 
-[[src_bmo2_1990__Q04]]
+[[Quesiti/src_bmo2_1990#q04|src_bmo2_1990__Q04]]
 
 
 
@@ -141,4 +141,4 @@ level: BMO Round 2
 
 > $I$ è il centro del cerchio inscritto al triangolo $ABC$; $J$ è il centro del cerchio inscritto che tocca rispettivamente $AB$ e $AC$ prodotti oltre $B$ e $C$. Provare che $$AI \cdot AJ = AB \cdot AC$$ e che $$AI \cdot BJ \cdot CJ = AJ \cdot BI \cdot CI.$$
 
-[[src_bmo2_1990__Q05]]
+[[Quesiti/src_bmo2_1990#q05|src_bmo2_1990__Q05]]

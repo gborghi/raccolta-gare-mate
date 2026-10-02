@@ -73,7 +73,7 @@ level: Concours Général
 > 
 > **6.** $n$ sia un numero intero maggiore o uguale a $4$, e $(a_1, a_2, \ldots, a_n)$ sia una sequenza finita, non necessariamente superba, di numeri interi strettamente positivi separati in coppia. **a.** Mostrare che è possibile estendere la sequenza per ottenere una sequenza superba. **b.** Mostrare che è possibile estendere la sequenza in modo da ottenere una sequenza superba i cui termini sono tutti distinti.
 
-[[src_cgen_2013__Q01]]
+[[Quesiti/src_cgen_2013#q01|src_cgen_2013__Q01]]
 
 
 
@@ -129,7 +129,7 @@ level: Concours Général
 > 
 > **6.** $D_4$ deve essere una riga che non risponde a nessuna delle linee $D_1, D_2, D_3$ e non è contenuta in $\mathscr{S}$. Mostrare che esistono al massimo due linee di spazio che tagliano le quattro linee $D_1, D_2, D_3, D_4$.
 
-[[src_cgen_2013__Q02]]
+[[Quesiti/src_cgen_2013#q02|src_cgen_2013__Q02]]
 
 
 
@@ -192,4 +192,4 @@ Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cell
 > 
 > Dotato di una calcolatrice non abbastanza potente da eseguire l'algoritmo precedente, Sisyphe cerca di stimare la sua probabilità di guadagno. A tal fine, dato due numeri primi consecutivi $p < p'$, egli considera $\alpha_p$ la probabilità condizionale dell'evento $X = p'$ dato l'evento $X > p$. **a.** Quali sono i valori di $\alpha_2$ e $\alpha_3$? **b.** Indicare l'espressione della probabilità di guadagno, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in termini di numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$ **c.** Indicare un allegato (quadramento) dei numeri $\alpha_p$ e dedurre da esso un allegato di $\mathbb{P}(G)$. (In questa domanda, il criterio di valutazione sarà la qualità dell'allegato.)
 
-[[src_cgen_2013__Q03]]
+[[Quesiti/src_cgen_2013#q03|src_cgen_2013__Q03]]

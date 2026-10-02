@@ -21,7 +21,7 @@ level: Coupe Animath Printemps
 > 
 > Knowing that the small square has side $x$ and that the triangles are equilateral, determine the side length of the large square.
 
-![[src_canimath_2014_printemps__Q01.png]]
+![[src_canimath_2014_printemps__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -40,10 +40,10 @@ level: Coupe Animath Printemps
 > 
 > Sapendo che il piccolo quadrato ha lato $x$ e che i triangoli sono equilaterali, determinare la lunghezza laterale del grande quadrato.
 
-![[src_canimath_2014_printemps__Q01.png]]
+![[src_canimath_2014_printemps__q01.png]]
 
 **Risposta:** $x\sqrt{3}$
-[[src_canimath_2014_printemps__Q01]]
+[[Quesiti/src_canimath_2014_printemps#q01|src_canimath_2014_printemps__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: Coupe Animath Printemps
 > Trovare tutte le coppie di cifre $(a, b)$ in modo tale che il numero intero di cui quattro cifre sono $ab32$ (cioè il numero $1000a + 100b + 32$) sia divisibile da $99$.
 
 **Risposta:** $(a,b)=(3,6)$ and $(a,b)=(6,9)$
-[[src_canimath_2014_printemps__Q02]]
+[[Quesiti/src_canimath_2014_printemps#q02|src_canimath_2014_printemps__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: Coupe Animath Printemps
 > 
 > (4) Calcolare la lunghezza $DD'$ in termini di $R$ e $R'$.
 
-[[src_canimath_2014_printemps__Q03]]
+[[Quesiti/src_canimath_2014_printemps#q03|src_canimath_2014_printemps__Q03]]
 
 
 
@@ -146,7 +146,7 @@ level: Coupe Animath Printemps
 > 
 > b) È possibile dividere i numeri interi $1, 2, 3, \ldots, 20$ in dieci coppie in modo tale che le dieci somme in coppia siano dieci diversi numeri primi?
 
-[[src_canimath_2014_printemps__Q04]]
+[[Quesiti/src_canimath_2014_printemps#q04|src_canimath_2014_printemps__Q04]]
 
 
 
@@ -173,7 +173,7 @@ level: Coupe Animath Printemps
 
 > In un torneo di calcio, ogni squadra gioca contro ogni altra squadra esattamente due volte. Non ci sono pareggi; una vittoria guadagna due punti e una perdita guadagna zero punti. Si scopre che solo una squadra ha vinto il torneo con $26$ punti, e le due squadre in ultima posizione sono pari con $20$ punti ciascuno. Determinare il numero di squadre e dare un esempio di torneo in cui si verificano questi risultati.
 
-[[src_canimath_2014_printemps__Q05]]
+[[Quesiti/src_canimath_2014_printemps#q05|src_canimath_2014_printemps__Q05]]
 
 
 
@@ -204,7 +204,7 @@ level: Coupe Animath Printemps
 > 
 > Dati quattro punti non conciclici $A, B, C, D$, qual è il numero massimo di cerchi che si trovano a distanza uguale da tutti e quattro i punti?
 
-[[src_canimath_2014_printemps__Q06]]
+[[Quesiti/src_canimath_2014_printemps#q06|src_canimath_2014_printemps__Q06]]
 
 
 
@@ -234,4 +234,4 @@ level: Coupe Animath Printemps
 
 > Determinare tutte le sequenze interi $x_1, x_2, \ldots, x_{10}$ in modo tale che $$0 < x_1 < x_2 < \cdots < x_{10}$$ e $$x_{10} \le 2(x_1 + x_2 + \cdots + x_9).$$
 
-[[src_canimath_2014_printemps__Q07]]
+[[Quesiti/src_canimath_2014_printemps#q07|src_canimath_2014_printemps__Q07]]

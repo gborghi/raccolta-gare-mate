@@ -35,7 +35,7 @@ level: JJMO Yosen
 > Trova il valore più grande possibile di $\gcd(m, n)$, dove $m$ e $n$ sono interi positivi che soddisfano $m + n = 2025$.
 
 **Risposta:** 675
-[[src_jjmo23yqa_yosen__Q01]]
+[[Quesiti/src_jjmo23yqa_yosen#q01|src_jjmo23yqa_yosen__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: JJMO Yosen
 
 > As shown in the figure, there are 6 lines and 8 points (marked with $\bullet$). Assign a distinct positive integer to each point (not necessarily consecutive). Count the number of ways to do this such that, for each of the 6 lines, the sum of the integers at the 3 points lying on that line equals $10$. Assignments that differ by a rotation or reflection of the figure are counted as different.
 
-![[src_jjmo23yqa_yosen__Q02.png]]
+![[src_jjmo23yqa_yosen__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -65,10 +65,10 @@ level: JJMO Yosen
 
 > Come mostrato nella figura, ci sono 6 righe e 8 punti (marcati con $\bullet$). Assegna a ciascun punto un numero intero positivo distinto (non necessariamente consecutivo). Conteggi il numero di modi per farlo in modo tale che, per ciascuna delle 6 righe, la somma dei numeri interi nei 3 punti che si trovano su quella linea sia uguale a $10$. Le assegnazioni che si differenziano per rotazione o riflessione della figura sono conteggiate come diverse.
 
-![[src_jjmo23yqa_yosen__Q02.png]]
+![[src_jjmo23yqa_yosen__q02.png]]
 
 **Risposta:** 36
-[[src_jjmo23yqa_yosen__Q02]]
+[[Quesiti/src_jjmo23yqa_yosen#q02|src_jjmo23yqa_yosen__Q02]]
 
 
 
@@ -81,7 +81,7 @@ level: JJMO Yosen
 
 > Triangle $ABC$ has $AC = 5$. Point $D$ lies on side $BC$ (excluding the endpoints) with $CD = 4$. Let $E$ be the second intersection of line $AD$ with the circumcircle of triangle $ABC$ (i.e., the intersection other than $A$). Let $F$ be the intersection of the line through $D$ parallel to $BE$ with side $AB$. Given $DE = 3$ and $DF = 2$, find the length of segment $BD$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo23yqa_yosen__Q03.png]]
+![[src_jjmo23yqa_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -98,10 +98,10 @@ level: JJMO Yosen
 
 > Il triangolo $ABC$ ha $AC = 5$. Il punto $D$ si trova sul lato $BC$ (esclusi i punti terminali) con $CD = 4$. $E$ sia la seconda intersezione della linea $AD$ con il circoncircolo del triangolo $ABC$ (cioè l'intersezione diversa da $A$). $F$ sia l'intersezione della linea attraverso $D$ parallela a $BE$ con lato $AB$. Se si dà $DE = 3$ e $DF = 2$, si trova la lunghezza del segmento $BD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo23yqa_yosen__Q03.png]]
+![[src_jjmo23yqa_yosen__q03.png]]
 
 **Risposta:** \frac{18}{7}
-[[src_jjmo23yqa_yosen__Q03]]
+[[Quesiti/src_jjmo23yqa_yosen#q03|src_jjmo23yqa_yosen__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: JJMO Yosen
 
 > Consider a figure composed of $48$ equilateral triangles of side length $1$, arranged as shown (forming a larger regular hexagonal shape). Count the number of ways to tile this figure with non-overlapping regular hexagons of side length $1$ (each composed of 6 unit triangles), so that every unit triangle is covered by exactly one hexagon. Tilings that differ by a rotation or reflection of the entire figure are counted as different.
 
-![[src_jjmo23yqa_yosen__Q04.png]]
+![[src_jjmo23yqa_yosen__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -131,10 +131,10 @@ level: JJMO Yosen
 
 > Considera una figura composta da triangoli equilaterali $48$ di lunghezza laterale $1$, disposti come indicato (formando una forma esagonale regolare più grande). Conteggi il numero di modi di tessitura di questa figura con esagoni regolari non sovrapposti di lunghezza laterale $1$ (ciascuno composto da 6 triangoli unitari), in modo che ogni triangolo unitario sia coperto da esattamente un esagono. Le filatiche che differiscono per rotazione o riflessione dell'intera figura sono contate come diverse.
 
-![[src_jjmo23yqa_yosen__Q04.png]]
+![[src_jjmo23yqa_yosen__q04.png]]
 
 **Risposta:** 24
-[[src_jjmo23yqa_yosen__Q04]]
+[[Quesiti/src_jjmo23yqa_yosen#q04|src_jjmo23yqa_yosen__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: JJMO Yosen
 > C'è una scatola contenente pietre $50^{25}$. Si ripete la seguente operazione: scegliere una scatola non vuota, rimuovere le sue pietre una per una, inserendo ogni pietra in una scatola (vuota) appena creata; quindi scartare la scatola originale (ora vuota). Dopo aver eseguito l'operazione $50^{25}$ in totale, quante scatole non vuote rimangono?
 
 **Risposta:** 10 \cdot 50^{12} - 1
-[[src_jjmo23yqa_yosen__Q05]]
+[[Quesiti/src_jjmo23yqa_yosen#q05|src_jjmo23yqa_yosen__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: JJMO Yosen
 > Trova il numero di triples di numeri interi $(a, b, c)$ con $1 \le a, b, c \le 80000$ che soddisfano sia $a + b^2 + c^3 = b(c+1)^2$ che $2b = a + c$.
 
 **Risposta:** 80197
-[[src_jjmo23yqa_yosen__Q06]]
+[[Quesiti/src_jjmo23yqa_yosen#q06|src_jjmo23yqa_yosen__Q06]]
 
 
 
@@ -221,7 +221,7 @@ level: JJMO Yosen
 > Nel triangolo $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$ e $AB$. I cevi $BE$ e $CF$ si intersecano al punto $P$. Le superfici dei triangoli $AFD$, $FPD$, $PED$, $EAD$ sono rispettivamente $10$, $7$, $5$ e $13$. Trova $\dfrac{BD}{DC}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{5}{6}
-[[src_jjmo23yqa_yosen__Q07]]
+[[Quesiti/src_jjmo23yqa_yosen#q07|src_jjmo23yqa_yosen__Q07]]
 
 
 
@@ -250,7 +250,7 @@ level: JJMO Yosen
 > Se $n$ è un numero intero maggiore di $1$. Un numero intero è scritto su ciascuna delle carte $n$. Supponiamo che si verifichi la seguente condizione: indipendentemente dalle carte $n - 4$ scelte (dalle carte $n$), la media dei numeri interi su tali carte è un numero intero. Trova il valore più piccolo di $n$ per il quale è necessariamente vero anche che: non importa quali schede $n - 3$ siano scelte, la media dei numeri interi su tali schede è anche un intero.
 
 **Risposta:** 36
-[[src_jjmo23yqa_yosen__Q08]]
+[[Quesiti/src_jjmo23yqa_yosen#q08|src_jjmo23yqa_yosen__Q08]]
 
 
 
@@ -279,7 +279,7 @@ level: JJMO Yosen
 > Il quadrilaterale $ABCD$ è inserito in un cerchio con $AB = 7$ e $BC = 6$. Il $E$ deve essere l'intersezione delle diagonali $AC$ e $BD$. La linea $BE$ incontra nuovamente il cerchio al punto $F$. I tre punti $A$, $D$, $F$ sono collineari e $AF = 11$, $DF = 7$. Trova la lunghezza del segmento $CD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 **Risposta:** \frac{63}{8}
-[[src_jjmo23yqa_yosen__Q09]]
+[[Quesiti/src_jjmo23yqa_yosen#q09|src_jjmo23yqa_yosen__Q09]]
 
 
 
@@ -318,7 +318,7 @@ level: JJMO Yosen
 > Contare il numero di modi per colorare una configurazione del genere. I colori collegati a rotazione o riflessione sono considerati diversi.
 
 **Risposta:** 1136
-[[src_jjmo23yqa_yosen__Q10]]
+[[Quesiti/src_jjmo23yqa_yosen#q10|src_jjmo23yqa_yosen__Q10]]
 
 
 
@@ -356,7 +356,7 @@ level: JJMO Yosen
 > Trova il valore minimo possibile del punteggio totale di A (cioè $\sum_{i \in S} a_i$ dove $S$ è l'insieme dei problemi risolti da A).
 
 **Risposta:** 62
-[[src_jjmo23yqa_yosen__Q11]]
+[[Quesiti/src_jjmo23yqa_yosen#q11|src_jjmo23yqa_yosen__Q11]]
 
 
 
@@ -389,4 +389,4 @@ level: JJMO Yosen
 > Per ogni numero intero $m \ge 3$, $f(m)$ deve essere il numero minimo di vittorie sufficiente a garantire che tra i giocatori esista un buon gruppo di dimensioni esatte $m$. $N$ sia il numero totale di assegnazioni dei risultati del torneo (cioè, per ogni partita, scegliendo un vincitore) in modo tale che $f(m) \le m$ per ogni $m \ge 3$. Trova il valore di $\dfrac{N}{1003!} \pmod{\dfrac{1}{5^{197}}}$, dove $1003! = 1 \times 2 \times \cdots \times 1003$.
 
 **Risposta:** \frac{1206}{5^{197}}
-[[src_jjmo23yqa_yosen__Q12]]
+[[Quesiti/src_jjmo23yqa_yosen#q12|src_jjmo23yqa_yosen__Q12]]

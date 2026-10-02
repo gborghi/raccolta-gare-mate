@@ -32,7 +32,7 @@ level: kangourou
 
 > In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
 
-[[src_kangourou_2024_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2024_cadet_finale#qc1|src_kangourou_2024_cadet_finale__QC1]]
 
 
 
@@ -59,7 +59,7 @@ level: kangourou
 
 > Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are these more reducing fractions or irreducible fractions?
 
-[[src_kangourou_2024_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2024_cadet_finale#qc2|src_kangourou_2024_cadet_finale__QC2]]
 
 
 
@@ -70,7 +70,7 @@ level: kangourou
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti*
 
-![[src_kangourou_2024_cadet_finale__probC3.png]]
+![[src_kangourou_2024_cadet_finale__probc3.png]]
 
 ```tikz
 \begin{document}
@@ -104,7 +104,7 @@ level: kangourou
 
 *Two triangles with two sides and equal height are congruent*
 
-![[src_kangourou_2024_cadet_finale__probC3.png]]
+![[src_kangourou_2024_cadet_finale__probc3.png]]
 
 ```tikz
 \begin{document}
@@ -126,7 +126,7 @@ level: kangourou
 
 > Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent? (see figure)
 
-[[src_kangourou_2024_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2024_cadet_finale#qc3|src_kangourou_2024_cadet_finale__QC3]]
 
 
 
@@ -152,7 +152,7 @@ level: kangourou
 
 > Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. In metres, what is the minimum distance the antenna can have from the home that will make it the furthest away?
 
-[[src_kangourou_2024_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2024_cadet_finale#qc4|src_kangourou_2024_cadet_finale__QC4]]
 
 
 
@@ -179,7 +179,7 @@ Because the result of Marco is always 1089
 
 > Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco.
 
-[[src_kangourou_2024_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2024_cadet_finale#qc5|src_kangourou_2024_cadet_finale__QC5]]
 
 
 
@@ -206,4 +206,4 @@ Because the result of Marco is always 1089
 
 > On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
 
-[[src_kangourou_2024_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2024_cadet_finale#qc6|src_kangourou_2024_cadet_finale__QC6]]

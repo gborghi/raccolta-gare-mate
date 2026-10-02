@@ -34,7 +34,7 @@ level: BMO Round 2
 
 > Trovare tutti i triples di numeri interi positivi $(a, b, c)$ in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
 
-[[src_bmo2_1995__Q01]]
+[[Quesiti/src_bmo2_1995#q01|src_bmo2_1995__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 2
 
 > $ABC$ sia un triangolo, e $D$, $E$, $F$ siano i punti medi di $BC$, $CA$, $AB$ rispettivamente. Prova che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
 
-[[src_bmo2_1995__Q02]]
+[[Quesiti/src_bmo2_1995#q02|src_bmo2_1995__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 2
 
 > $a$, $b$, $c$ siano numeri reali che soddisfino $a < b < c$, $a + b + c = 6$ e $ab + bc + ca = 9$. Prove che $0 < a < 1 < b < 3 < c < 4$.
 
-[[src_bmo2_1995__Q03]]
+[[Quesiti/src_bmo2_1995#q03|src_bmo2_1995__Q03]]
 
 
 
@@ -119,4 +119,4 @@ level: BMO Round 2
 > 
 > b) dimostrare che $(n!)^{n+1}$ è divisibile per $(n+1)!^{n}$ per tutti gli integri positivi $n$.
 
-[[src_bmo2_1995__Q04]]
+[[Quesiti/src_bmo2_1995#q04|src_bmo2_1995__Q04]]

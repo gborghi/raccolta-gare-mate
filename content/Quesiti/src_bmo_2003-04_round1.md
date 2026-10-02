@@ -37,7 +37,7 @@ level: BMO Round 1
 
 > Risolvere le equazioni simultanee $$a + b = c + d,$$ $$b + c = 2a + b,$$ $$a + c = b + d,$$ $$a + b + c = 6$$ dove $a, b, c, d$ sono numeri reali.
 
-[[src_bmo_2003-04_round1__Q01]]
+[[Quesiti/src_bmo_2003-04_round1#q01|src_bmo_2003-04_round1__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 1
 
 > $ABCD$ è un rettangolo, $P$ è il punto medio di $AB$, e $Q$ è il punto su $PD$ in modo tale che $CQ$ sia perpendicolare a $PD$. Prove che il triangolo $BQC$ è uguale.
 
-[[src_bmo_2003-04_round1__Q02]]
+[[Quesiti/src_bmo_2003-04_round1#q02|src_bmo_2003-04_round1__Q02]]
 
 
 
@@ -92,7 +92,7 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 
 > Alice e Barbara giocano a un gioco con un pacchetto di carte $26$, su ciascuna delle quali è scritto un intero positivo. Il pacchetto è mescolato e le carte disposte in fila, con i numeri rivolti verso l'alto. Alice inizia, e le ragazze si alternano per togliere una carta da entrambe le estremità della fila, fino a quando Barbara prende l'ultima carta. Il punteggio di ogni ragazza è la somma dei numeri sulle carte scelte. Dimostra che Alice può sempre ottenere un punteggio almeno grande come Barbara.
 
-[[src_bmo_2003-04_round1__Q03]]
+[[Quesiti/src_bmo_2003-04_round1#q03|src_bmo_2003-04_round1__Q03]]
 
 
 
@@ -119,7 +119,7 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 
 > Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi come elementi; l'insieme vuoto è un insieme cattivo. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
 
-[[src_bmo_2003-04_round1__Q04]]
+[[Quesiti/src_bmo_2003-04_round1#q04|src_bmo_2003-04_round1__Q04]]
 
 
 
@@ -146,4 +146,4 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 
 > Lasciate che $p$, $q$ e $r$ siano numeri primi. È dato che $q$ divide $p - 1$ e $r$ divide $p - 1$. Determinare tutti i possibili valori di $pq$.
 
-[[src_bmo_2003-04_round1__Q05]]
+[[Quesiti/src_bmo_2003-04_round1#q05|src_bmo_2003-04_round1__Q05]]

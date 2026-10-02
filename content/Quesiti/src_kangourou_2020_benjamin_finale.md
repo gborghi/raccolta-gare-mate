@@ -35,7 +35,7 @@ level: kangourou
 > Luisa has many pens: 29 red, 13 blue, and 20 black. He wants to pack bags containing four pens each, so that no bag contains more than two pens of the same color. How many bags can you pack?
 
 **Answer:** 15
-[[src_kangourou_2020_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb1|src_kangourou_2020_benjamin_finale__QB1]]
 
 
 
@@ -46,7 +46,7 @@ level: kangourou
 
 *Area della regione delimitata da quattro archi uguali*
 
-![[src_kangourou_2020_benjamin_finale__probB2.png]]
+![[src_kangourou_2020_benjamin_finale__probb2.png]]
 
 > I quattro archi che delimitano la regione ombreggiata hanno tutti la stessa lunghezza, uguale alla lunghezza dei due archi tratteggiati. Questa lunghezza è un quarto della lunghezza di una circonferenza di raggio 1 cm. Quanti centimetri quadrati misura l'area della regione ombreggiata? (vedi figura)
 
@@ -62,12 +62,12 @@ level: kangourou
 
 *Area of the region bounded by four equal arcs*
 
-![[src_kangourou_2020_benjamin_finale__probB2.png]]
+![[src_kangourou_2020_benjamin_finale__probb2.png]]
 
 > The four arches that border the shaded region are all the same length, equal to the length of the two drawn arches. This length is a quarter of the length of a radius of 1 cm. How many square inches is the area of the shaded region? (see figure)
 
 **Answer:** 2
-[[src_kangourou_2020_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb2|src_kangourou_2020_benjamin_finale__QB2]]
 
 
 
@@ -78,7 +78,7 @@ level: kangourou
 
 *Riempire griglia 6x6 con/senza numero in posizione speciale*
 
-![[src_kangourou_2020_benjamin_finale__probB3.png]]
+![[src_kangourou_2020_benjamin_finale__probb3.png]]
 
 > Qui a lato vedi due griglie quadrate di 6 righe e 6 colonne ciascuna: puoi riempirle in molti modi diversi inserendo, uno per ogni casella, tutti i numeri interi da 1 a 36. Se, dopo aver riempito la griglia, accade che uno dei numeri inseriti è il più grande fra tutti quelli nella sua riga e contemporaneamente il più piccolo fra tutti quelli nella sua colonna, dirai che quel numero è in posizione speciale relativamente al modo in cui hai riempito la griglia. Riempi la prima griglia in modo che ci sia almeno un numero in posizione speciale e la seconda in modo che non ci siano numeri in posizione speciale. Basta che tu riempia le griglie (cerchiando nella prima il numero in posizione speciale), non sono richieste spiegazioni. (vedi figura)
 
@@ -94,11 +94,11 @@ level: kangourou
 
 *Fill the 6x6 grid with/without special position number*
 
-![[src_kangourou_2020_benjamin_finale__probB3.png]]
+![[src_kangourou_2020_benjamin_finale__probb3.png]]
 
 > Here on the side you see two square grids of 6 rows and 6 columns each: you can fill them in many different ways by entering, one for each box, all the integers from 1 to 36. If, after filling the grid, it happens that one of the numbers you entered is the largest of all those in its row and at the same time the smallest of all those in its column, you'll say that number is in a special position relative to the way you filled the grid. Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers. As long as you fill in the grids (searching the number in a special position in the first one), no explanation is required. (see figure)
 
-[[src_kangourou_2020_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb3|src_kangourou_2020_benjamin_finale__QB3]]
 
 
 
@@ -109,7 +109,7 @@ level: kangourou
 
 *Somma dei numeri delle candeline per porzione (due tagli)*
 
-![[src_kangourou_2020_benjamin_finale__probB4.png]]
+![[src_kangourou_2020_benjamin_finale__probb4.png]]
 
 > Sulla torta di compleanno di Rita sono disposte in modo regolare 12 candeline, ciascuna denotata con il suo numero (come se fossero le ore su un orologio, come suggerito dalla figura). Rita fa due tagli rettilinei distinti, che attraversano la torta completamente, e la suddividono in alcune porzioni. Se ogni candelina sta su una sola porzione e le somme dei numeri sulle candeline di ciascuna porzione sono tutte uguali, qual è la somma dei numeri delle candeline su ciascuna porzione? (vedi figura)
 
@@ -125,12 +125,12 @@ level: kangourou
 
 *Summary of the number of candlesticks per serving (two cuts) *
 
-![[src_kangourou_2020_benjamin_finale__probB4.png]]
+![[src_kangourou_2020_benjamin_finale__probb4.png]]
 
 > On Rita's birthday cake, 12 candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candlestick is on a single serving and the sum of the numbers on the candlesticks of each serving are all the same, what is the sum of the numbers on the candlesticks of each serving? (see figure)
 
 **Answer:** 26
-[[src_kangourou_2020_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb4|src_kangourou_2020_benjamin_finale__QB4]]
 
 
 
@@ -141,7 +141,7 @@ level: kangourou
 
 *Distanza di P da A per tragitto minimo C-M (riflessione)*
 
-![[src_kangourou_2020_benjamin_finale__probB5.png]]
+![[src_kangourou_2020_benjamin_finale__probb5.png]]
 
 ```tikz
 \begin{document}
@@ -175,7 +175,7 @@ level: kangourou
 
 *Distance of P from A by minimum route C-M (reflection) *
 
-![[src_kangourou_2020_benjamin_finale__probB5.png]]
+![[src_kangourou_2020_benjamin_finale__probb5.png]]
 
 ```tikz
 \begin{document}
@@ -197,7 +197,7 @@ level: kangourou
 > In the figure see a rectangle $ABCD$ of sides of 12 mm and 24 mm where a median intersects in $M$ the side $AB$. I have to go from $C$ to $M$ by touching the $AD$ segment at a $P$ point: if I want to go the shortest route possible, how many millimeters must I take away from $P$? (see figure)
 
 **Answer:** 8 mm
-[[src_kangourou_2020_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb5|src_kangourou_2020_benjamin_finale__QB5]]
 
 
 
@@ -226,4 +226,4 @@ level: kangourou
 > If $n$ is the smallest positive integer such that the number $7 \times n$ has 2021 digits. What is the unit number of $n$?
 
 **Answer:** 9
-[[src_kangourou_2020_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb6|src_kangourou_2020_benjamin_finale__QB6]]

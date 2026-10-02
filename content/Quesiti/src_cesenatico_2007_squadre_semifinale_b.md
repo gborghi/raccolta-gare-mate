@@ -38,7 +38,7 @@ level: squadre
 
 > The task in the history classroom The prode Numeruto is a morning apprentice: he still attends the academy but is better on the field than on the benches. Today there is the task of history and the first question asks the exact number of Grandin's morning diplomats from the village's founding to the present day and he has no idea what the answer is. Fortunately, he manages to intercept a coded suggestion from the beautiful Otenusa directed to his rival Sekante: It is a four-digit number, multiple of 25 which, divided by 25, gives a two-digit number that are the central digits of the same number (like 45 and 2450, only that 45×25 = 2450). What's the answer?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q01]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q01|src_cesenatico_2007_squadre_semifinale_b__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: squadre
 
 > The morning ninja live organized in various villages. For example, the Retta road consists of a single long road (absolutely straight), flanked by buildings numbered 1 to 2007. Mateninja consume a lot of paper and in fact all buildings with multiple numbers of 18 are cartels; also many mateninja are affluent, so all buildings with multiple numbers of 24 are luxury shops. Numeruto walks the whole village looking for the best price for square footage: How many shops do you visit in total, if you skip the luxury ones?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q02]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q02|src_cesenatico_2007_squadre_semifinale_b__Q02]]
 
 
 
@@ -111,7 +111,7 @@ level: squadre
 > 
 > I'm going to pay. 2 out of 4  Team competition 2007  Semifinal B Problem Tests
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q03]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q03|src_cesenatico_2007_squadre_semifinale_b__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: squadre
 
 > Even at the moreninja academy, the weather is relaxing and tonight the Big Little Dance is taking place. All the guests have already arrived in the room: n mateninji (the boys) and n mateninje (the girls) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 17 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q04]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q04|src_cesenatico_2007_squadre_semifinale_b__Q04]]
 
 
 
@@ -174,7 +174,7 @@ level: squadre
 
 > Otenusa's test Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of number 28310. How long is it?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q05]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q05|src_cesenatico_2007_squadre_semifinale_b__Q05]]
 
 
 
@@ -207,7 +207,7 @@ level: squadre
 
 > Geometric security measures The village of Binomio occupies a convex polygon-shaped desert area with 2007 sides. Within the territory there are 1492 oases that are very important for the survival of the mateninja. Noting that, if one considers the set of points A, consisting of the vertices of the polygon and the oases, there are never three points aligned, the village chief decided to increase security by building some walls. Walls are erected along segments with vertices at two points of A, so that the territory is divided exclusively into triangles and the walls intersect only at points of A. What is the maximum number of closed triangular zones that can be obtained?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q06]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q06|src_cesenatico_2007_squadre_semifinale_b__Q06]]
 
 
 
@@ -237,7 +237,7 @@ level: squadre
 
 > The brilliant Sekante has only one dream: when he becomes Grandin he will build a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 59 mat-ken and another side of 95 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q07]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q07|src_cesenatico_2007_squadre_semifinale_b__Q07]]
 
 
 
@@ -269,7 +269,7 @@ level: squadre
 
 > The mathematical formulas of the mateninja are written on long rectangular strips of zero-thick parchment (they are also magical!), which are rolled repeatedly around a ninja pencil. Ninja pencils are similar to ours: they have the shape of a prism whose base is a regular hexagon on the 3 side mat-shaku. The slender Numeritus, in handling his new sword, mistakenly strikes the prism on which the precious formula of Itˆo is preserved, cutting it perfectly in two along a plane passing through its axis. As a result, the scroll with the formula is sliced into 93 square sheets. How many mat-shaku2 measured the surface of the scroll?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q08]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q08|src_cesenatico_2007_squadre_semifinale_b__Q08]]
 
 
 
@@ -302,7 +302,7 @@ level: squadre
 
 > The secret numbering technique is an expert in the superior technique of multiplication, a magical art that allows him to instantly obtain the product of any set of integers. However, Master Isoshilo entrusted him with a very difficult training: given the integers from 1 to 2007, he must calculate the product of each subset with two or more elements of the numbers assigned and add up all the products obtained. Are you able to help him (even without morning powers), by calculating at least the last 4 digits of the result?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q09]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q09|src_cesenatico_2007_squadre_semifinale_b__Q09]]
 
 
 
@@ -337,7 +337,7 @@ level: squadre
 > 
 > Team competition 2007  Semifinal B Problem texts  Pag. 3 di 4
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q10]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q10|src_cesenatico_2007_squadre_semifinale_b__Q10]]
 
 
 
@@ -373,7 +373,7 @@ level: squadre
 
 > The blacksmith and the star The shuriken is one of the basic weapons used by all morning fighters. Those in the village of Retta have a variable number of points, but they're all made by the same blacksmith. To manufacture a shuriken at n > 1 points, the blacksmith takes a flat metal plate and starts by drawing two concentric circles of radius 14 mat-bu and 28 mat-bu. On the greater sign 2n equidistant points, numbered from 1 to 2n in the anti-clockwise order; from each it leads the beam and marks a point with the same number in correspondence to the intersection with the smaller circumference. It then traces the segments that connect each internal equal point with the two consecutive external odd points (the point 2n is joined with 2n −1 and 1); finally it cuts along the resulting fracture. What is the smallest integer, greater than the area (in mat-bu2) of any shuriken?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q11]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q11|src_cesenatico_2007_squadre_semifinale_b__Q11]]
 
 
 
@@ -406,7 +406,7 @@ Maximum of 105 cos t -208sin t +103
 
 > Miraculously overcoming the task of history, Numeruto must now face that of theoretical magic arts! The most difficult question is what is the maximum level of life force that a frog sign matinee can develop. Numeruto is the sign of the frog and it is certain that its vital force depends on its θ concentration according to the function: 105cosθ−208sinθ+103. What is the greatest life force Numeruto can develop?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q12]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q12|src_cesenatico_2007_squadre_semifinale_b__Q12]]
 
 
 
@@ -437,7 +437,7 @@ Maximum of 105 cos t -208sin t +103
 
 > A sum that cannot be paid The corona, the official currency of the morning, has exactly the same cuts as the euro and is divided in commas as the euro is divided in cents. Of course, the cutting of comma and crown coins is exactly the same as the euro and euro cents. What is the minimum amount, expressed in commas, that you cannot pay with exactly 7 coins or banknotes without receiving any balance?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q13]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q13|src_cesenatico_2007_squadre_semifinale_b__Q13]]
 
 
 
@@ -469,7 +469,7 @@ Maximum of 105 cos t -208sin t +103
 
 > The third test is finally the practical test! Numeruto can do his best; however, in order to succeed perfectly in the difficult technique of transformation, he must knead his magical strength according to very delicate balances. The useable magical force levels are all positive integers a for which the polynomial x2 −ax+4a has only positive integers. If Numeruto performs the technique well, his score on the exam will be the sum of all the distinct roots that can be obtained in this way. How much will it take?
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q14]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q14|src_cesenatico_2007_squadre_semifinale_b__Q14]]
 
 
 
@@ -510,4 +510,4 @@ Maximum of 105 cos t -208sin t +103
 > 
 > I'm going to pay. 4 out of 4  Team competition 2007  Semifinal B Problem tests
 
-[[src_cesenatico_2007_squadre_semifinale_b__Q15]]
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q15|src_cesenatico_2007_squadre_semifinale_b__Q15]]

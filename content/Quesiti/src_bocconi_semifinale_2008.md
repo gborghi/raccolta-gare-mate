@@ -19,7 +19,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Quanti quadrati si possono contare nel disegno?
 
-![[src_bocconi_semifinale_2008__Q01.png]]
+![[src_bocconi_semifinale_2008__q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -36,10 +36,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > How many squares can you count on the drawing?
 
-![[src_bocconi_semifinale_2008__Q01.png]]
+![[src_bocconi_semifinale_2008__q01.png]]
 
 **Answer:** 10
-[[src_bocconi_semifinale_2008__Q01]]
+[[Quesiti/src_bocconi_semifinale_2008#q01|src_bocconi_semifinale_2008__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Mary must guess a whole number that Luke chose in great secrecy. Here's the information that it collects, out of order, disorderly: The number to be found is smaller than 39; larger than 25; smaller than 29; larger than 23; smaller than 31; larger than 27 and smaller than 35. What's the number that Luca thought of?
 
 **Answer:** 28
-[[src_bocconi_semifinale_2008__Q02]]
+[[Quesiti/src_bocconi_semifinale_2008#q02|src_bocconi_semifinale_2008__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Carla sent her friend Milena a package with a birthday present. For shipping expenses, it only put stamps of $0{,}60$ Euro and $0{,}80$ Euro on the package for a total value of $6{,}60$ Euro. Carla used less than $10$ stamps overall. How many stamps from $0{,}80$ Euro did you use?
 
 **Answer:** 6
-[[src_bocconi_semifinale_2008__Q03]]
+[[Quesiti/src_bocconi_semifinale_2008#q03|src_bocconi_semifinale_2008__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > This calculator has only two keys: the $\text{``-1''}$ key (minus 1) and the $\text{``3''}$ key (section 3). When switched on, the number $2008$ appears on the screen. How many times do you have to press the $\text{``-1''}$ and $\text{``3''}$ keys to read the $\text{``1''}$ result on the screen?
 
 **Answer:** 13
-[[src_bocconi_semifinale_2008__Q04]]
+[[Quesiti/src_bocconi_semifinale_2008#q04|src_bocconi_semifinale_2008__Q04]]
 
 
 
@@ -139,7 +139,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Guardate che strano pesce ha trovato Desiderio tra i suoi vecchi giocattoli! Sulle squame, sono riportate le cifre da 1 a 7. Desiderio nota che, quelle figure che sono direttamente collegate da una linea (retta o curva), non sono mai consecutive (come, per esempio, 1 e 2 o 5 e 4). Mettete le cifre da $1$ a $5$.
 
-![[src_bocconi_semifinale_2008__Q05.png]]
+![[src_bocconi_semifinale_2008__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -156,10 +156,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Look what a strange fish Desiderio found among his old toys! On the squares, the numbers from 1 to 7 are shown. Desiderio notes that those figures that are directly connected by a line (straight or curved) are never consecutive (such as, for example, 1 and 2 or 5 and 4). Enter the numbers from $1$ to $5$.
 
-![[src_bocconi_semifinale_2008__Q05.png]]
+![[src_bocconi_semifinale_2008__q05.png]]
 
 **Answer:** Sopra 2 7 4 6 1, sotto 5 3
-[[src_bocconi_semifinale_2008__Q05]]
+[[Quesiti/src_bocconi_semifinale_2008#q05|src_bocconi_semifinale_2008__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Questo grande cubo è formato da $4 \times 4 \times 4$ cubetti incollati tra di loro. Partendo dalle tre facce visibili, abbiamo attraversato il cubo da una parte all'altra, levando delle file intere di cubetti (nella direzione indicata dalle frecce). Se questo cubo bucato pesa $10$ grammi, qual è il peso del "cubo bucato" (cioè dei cubetti rimasti)?
 
-![[src_bocconi_semifinale_2008__Q06.png]]
+![[src_bocconi_semifinale_2008__q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -189,10 +189,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > This large cube is made up of $4 \times 4 \times 4$ cubes glued together. Starting from the three faces visible, we crossed the cube from one side to the other, lifting entire rows of cubes (in the direction indicated by the arrows). If this washing cube weighs $10$ grams, what is the weight of the 'washing cube' (i.e. the remaining cubes)?
 
-![[src_bocconi_semifinale_2008__Q06.png]]
+![[src_bocconi_semifinale_2008__q06.png]]
 
 **Answer:** 440
-[[src_bocconi_semifinale_2008__Q06]]
+[[Quesiti/src_bocconi_semifinale_2008#q06|src_bocconi_semifinale_2008__Q06]]
 
 
 
@@ -220,7 +220,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > The base of a rectangle is twice its height. We can divide this rectangle into $200$ equal squares each having an area of $4 \text{ cm}^2$. What is the perimeter of the rectangle?
 
 **Answer:** 120
-[[src_bocconi_semifinale_2008__Q07]]
+[[Quesiti/src_bocconi_semifinale_2008#q07|src_bocconi_semifinale_2008__Q07]]
 
 
 
@@ -249,7 +249,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > The number $55$ has the following properties: if you subtract 1 from it, you get a multiple of 9; if you add 1 to it, you get a multiple of 8. What is the smallest three-digit number that has the same properties?
 
 **Answer:** 127
-[[src_bocconi_semifinale_2008__Q08]]
+[[Quesiti/src_bocconi_semifinale_2008#q08|src_bocconi_semifinale_2008__Q08]]
 
 
 
@@ -278,7 +278,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Surely you have considered two equal rectangular parallel pipes, each with a total area of $448 \text{ cm}^2$. A rectangular (non-cubic) parallelepiped with a total area of $448 \text{ cm}^2$ can also be obtained. What would be the volume of this cube?
 
 **Answer:** $512 \text{ cm}^3$
-[[src_bocconi_semifinale_2008__Q09]]
+[[Quesiti/src_bocconi_semifinale_2008#q09|src_bocconi_semifinale_2008__Q09]]
 
 
 
@@ -307,7 +307,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > What figures are behind the symbols of this equality? $\heartsuit\heartsuit\heartsuit - \clubsuit\clubsuit + \diamondsuit\heartsuit + \spadesuit\clubsuit = 1234$
 
 **Answer:** $\heartsuit=2;\; \clubsuit=9;\; \diamondsuit=1;\; \spadesuit=0$
-[[src_bocconi_semifinale_2008__Q10]]
+[[Quesiti/src_bocconi_semifinale_2008#q10|src_bocconi_semifinale_2008__Q10]]
 
 
 
@@ -336,7 +336,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > A blacksmith has $5$ separate pieces of chain, each consisting of two rings inserted into each other. It takes a blacksmith a quarter of an hour to open a ring and a quarter of an hour to close it. How long does it take, at least, to form a single-piece chain of $10$ rings (closed)?
 
 **Answer:** 90 minuti
-[[src_bocconi_semifinale_2008__Q11]]
+[[Quesiti/src_bocconi_semifinale_2008#q11|src_bocconi_semifinale_2008__Q11]]
 
 
 
@@ -365,7 +365,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Let's start with a two-digit number. If we put a zero between its two digits, we get a three digit number. Now let's subtract the initial two-digit number from the three-digit number. The result is divisible by a positive number. How many different values can this positive number take (including $\text{``}1\text{''}$)?
 
 **Answer:** 58
-[[src_bocconi_semifinale_2008__Q12]]
+[[Quesiti/src_bocconi_semifinale_2008#q12|src_bocconi_semifinale_2008__Q12]]
 
 
 
@@ -378,7 +378,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Una formica si sposta su questo schema a maglie quadrate per andare dal punto $D$ al punto $A$, seguendo il percorso più breve. Deve però evitare ad ogni costo la trappola rappresentata, in nero, in figura. In quanti modi diversi può effettuare questo spostamento? Nota: la formica si sposta unicamente sui segmenti (trattini) orizzontali e verticali.
 
-![[src_bocconi_semifinale_2008__Q13.png]]
+![[src_bocconi_semifinale_2008__q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -395,10 +395,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > An ant moves on this square mesh pattern to go from $D$ to $A$, following the shortest path. However, you must avoid the trap depicted in the picture in black at all costs. How many different ways can you make this move? Note: the ant moves only on horizontal and vertical segments (tracks).
 
-![[src_bocconi_semifinale_2008__Q13.png]]
+![[src_bocconi_semifinale_2008__q13.png]]
 
 **Answer:** 84
-[[src_bocconi_semifinale_2008__Q13]]
+[[Quesiti/src_bocconi_semifinale_2008#q13|src_bocconi_semifinale_2008__Q13]]
 
 
 
@@ -427,7 +427,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > In a square sheet, the side of which measures an integer of centimetres greater than or equal to 3, the largest possible number of rectangles of cm $2$ per cm $3$ shall be cut. If one or more pieces remain, what is their total area? Note: the question allows for more than one solution. We have to point them all out.
 
 **Answer:** $1 - 3 - 4 \text{ cm}^2$
-[[src_bocconi_semifinale_2008__Q14]]
+[[Quesiti/src_bocconi_semifinale_2008#q14|src_bocconi_semifinale_2008__Q14]]
 
 
 
@@ -456,7 +456,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > When in a race there are only two horses, there are three possible placements: two in which there is a start and one in which the two horses arrive at equal merit. This is the race is between three horses, there are the following possible placements: six where there is no equality, six where two horses are equal (being the third in front or behind them) and one where the three horses are all equal. When five horses race, how many possible places are there?
 
 **Answer:** 541
-[[src_bocconi_semifinale_2008__Q15]]
+[[Quesiti/src_bocconi_semifinale_2008#q15|src_bocconi_semifinale_2008__Q15]]
 
 
 
@@ -469,7 +469,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Abbiamo a disposizione delle piastrelle rettangolari la cui larghezza e lunghezza misurano, rispettivamente, $7$ e $10$ centimetri. La figura illustra come la più piccola superficie quadrata che può contenere tre piastrelle può contenere anche una in più. Qual è il minimo numero dispari (maggiore di 1) tale che la più piccola superficie quadrata che può contenere questo numero di piastrelle non possa contenerne anche una in più?
 
-![[src_bocconi_semifinale_2008__Q16.png]]
+![[src_bocconi_semifinale_2008__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -486,7 +486,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > We have rectangular tiles measuring, respectively, $7$ and $10$ centimetres in width and length. The figure illustrates how the smallest square surface that can contain three tiles can also contain one more. What is the minimum odd number (greater than 1) such that the smallest square surface that can contain this number of tiles cannot contain even one more?
 
-![[src_bocconi_semifinale_2008__Q16.png]]
+![[src_bocconi_semifinale_2008__q16.png]]
 
 **Answer:** 9
-[[src_bocconi_semifinale_2008__Q16]]
+[[Quesiti/src_bocconi_semifinale_2008#q16|src_bocconi_semifinale_2008__Q16]]

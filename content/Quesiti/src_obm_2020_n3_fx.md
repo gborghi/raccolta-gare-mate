@@ -34,7 +34,7 @@ level: OBM Nível 3
 
 > Prove che esistono integri positivi $a_1, a_2, \ldots, a_{2020}$ tali che $$\frac{1}{a_1} + \frac{1}{2a_2} + \frac{1}{3a_3} + \cdots + \frac{1}{2020\,a_{2020}} = 1.$$
 
-[[src_obm_2020_n3_fx__Q01]]
+[[Quesiti/src_obm_2020_n3_fx#q01|src_obm_2020_n3_fx__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: OBM Nível 3
 
 > Per un intero positivo $n$, definire $F^{(0)}_n = n$, $F^{(1)}_n = n$ e, per $p > 2$: $$F^{(p)}_n = F^{(p-1)}_n + F^{(p-1)}_{n+1}.$$ Un intero positivo $a$ si chiama *fibonacciano* se $F^{(p)}_a = a$ per un intero positivo $p$ e per un certo $n > 3$. Prove che esistono infiniti interi positivi che non sono fibonacciani.
 
-[[src_obm_2020_n3_fx__Q02]]
+[[Quesiti/src_obm_2020_n3_fx#q02|src_obm_2020_n3_fx__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: OBM Nível 3
 
 > Che $r_A$, $r_B$, $r_C$ siano le radici mistilineari del triangolo $XYZ$ centrato a $P$ all'interno del triangolo. Il cerchio $\omega_A$ (centro $X$) è interno tangente a $r_B r_C$; il cerchio $\omega_B$ (centro $Y$) è interno tangente a $r_C r_A$; e il cerchio $\omega_C$ (centro $Z$) è interno tangente a $r_A r_B$. Il punto $P$ si trova all'interno del triangolo $XYZ$ in modo tale che le linee $r_A$, $r_B$, $r_C$ siano le tangenti interne comuni delle coppie di cerchi corrispondenti. La linea $s_A$ deve essere la linea interna tangente a $\omega_B$ e $\omega_C$ che non contiene $r_A$; la linea $s_B$ deve essere la linea interna tangente a $\omega_A$ e $\omega_C$ che non contiene $r_B$; la linea $s_C$ deve essere la linea interna tangente a $\omega_A$ e $\omega_B$ che non contiene $r_C$. Prove che $s_A$, $s_B$ e $s_C$ si incontrano in un punto comune $Q$, e che $P$ e $Q$ sono coniugati isogonali in triangolo $XYZ$ , cioè che le linee $XP$ e $XQ$ sono simmetriche rispetto al bisettore angolare di $\angle YXZ$, e allo stesso modo per i vertici $Y$ e $Z$.
 
-[[src_obm_2020_n3_fx__Q03]]
+[[Quesiti/src_obm_2020_n3_fx#q03|src_obm_2020_n3_fx__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: OBM Nível 3
 
 > Lasciate che $ABC$ sia un triangolo. Gli escircoli (ciascuno tangente ad un lato e le estensioni degli altri due lati) toccano i lati $BC$, $CA$ e $AB$ rispettivamente ai punti $U$, $V$ e $W$. Il $r_u$ deve essere la linea attraverso $U$ perpendicolare a $BC$, $r_v$ la linea attraverso $V$ perpendicolare a $CA$ e $r_w$ la linea attraverso $W$ perpendicolare a $AB$. Provare che le linee $r_u$, $r_v$ e $r_w$ passano attraverso un punto comune.
 
-[[src_obm_2020_n3_fx__Q04]]
+[[Quesiti/src_obm_2020_n3_fx#q04|src_obm_2020_n3_fx__Q04]]
 
 
 
@@ -152,7 +152,7 @@ level: OBM Nível 3
 > 
 > (b) (6 punti) Qual è il numero minimo di domande necessario per fare questa determinazione, quando è possibile?
 
-[[src_obm_2020_n3_fx__Q05]]
+[[Quesiti/src_obm_2020_n3_fx#q05|src_obm_2020_n3_fx__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: OBM Nível 3
 > 
 > b) (8 punti) Determinare, per ogni intero non negativo $n$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
 
-[[src_obm_2020_n3_fx__Q06]]
+[[Quesiti/src_obm_2020_n3_fx#q06|src_obm_2020_n3_fx__Q06]]

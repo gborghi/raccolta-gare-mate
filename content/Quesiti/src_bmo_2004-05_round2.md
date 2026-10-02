@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Il numero intero $N$ è positivo. Esistono esattamente coppie ordinate 2005 $(x, y)$ di integri positivi che soddisfano $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$ Prove che $N$ è un quadrato perfetto.
 
-[[src_bmo_2004-05_round2__Q01]]
+[[Quesiti/src_bmo_2004-05_round2#q01|src_bmo_2004-05_round2__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 2
 
 > In triangolo $ABC$, $\angle BAC = 120^\circ$. I bisettori angolari degli angoli $A$, $B$ e $C$ devono incontrare i lati opposti rispettivamente in $D$, $E$ e $F$. Provare che il cerchio di diametro $EF$ passa attraverso $D$.
 
-[[src_bmo_2004-05_round2__Q02]]
+[[Quesiti/src_bmo_2004-05_round2#q02|src_bmo_2004-05_round2__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: BMO Round 2
 
 > $a, b$ siano numeri reali positivi con $a + b = 1$. Provare che $$a^a b^b + a^b b^a \le 1.$$
 
-[[src_bmo_2004-05_round2__Q03]]
+[[Quesiti/src_bmo_2004-05_round2#q03|src_bmo_2004-05_round2__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Il $X = \{A_1, A_2, \ldots, A_n\}$ deve essere una raccolta di sottoinsiemi di 3 elementi di $\{1, 2, \ldots, 36\}$ in modo tale che: (i) $A_i$ e $A_j$ abbiano un intersezione non vuota per ogni $i, j$; (ii) l'intersezione di tutti gli insiemi di $X$ sia vuota. Mostra che $n \le 100$. Quante serie $X$ esistono quando $n = 100$?
 
-[[src_bmo_2004-05_round2__Q04]]
+[[Quesiti/src_bmo_2004-05_round2#q04|src_bmo_2004-05_round2__Q04]]

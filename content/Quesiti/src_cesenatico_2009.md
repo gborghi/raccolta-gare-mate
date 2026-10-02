@@ -36,7 +36,7 @@ level: nazionale
 > They are a < b < c < d < and real numbers. Calculate all possible sums of two to two of these five numbers. Of these 10 sums, the three smallest ones are 32, 36, 37, while the two largest ones are 48 and 51. Let us determine all the possible values that can be assumed.
 
 **Answer:** e=27.5
-[[src_cesenatico_2009__Q01]]
+[[Quesiti/src_cesenatico_2009#q01|src_cesenatico_2009__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: nazionale
 > Whether ABCD is a square of center O. Two isosceles BCJ and CDK, external to the square, of base BC and CD respectively and congruent to each other, are constructed. Let M be the middle point of CJ. It is proved that the OM and BK lines are perpendicular.
 
 **Answer:** dimostrato (rotazione 90 gradi)
-[[src_cesenatico_2009__Q02]]
+[[Quesiti/src_cesenatico_2009#q02|src_cesenatico_2009__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: nazionale
 > A natural number n is said to be pleasing if it has the following properties: • its decimal expression is 4 digits; • the first and third digits of n are equal; • the second and fourth digits of n are equal; • the product of the digits of n divides n2. Let's get all the pleasant numbers.
 
 **Answer:** 1111,1212,2424,3636,1515
-[[src_cesenatico_2009__Q03]]
+[[Quesiti/src_cesenatico_2009#q03|src_cesenatico_2009__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: nazionale
 > A flea is initially located at the point (0, 0) of the Cartesian plane. Then he makes a leap. Each jump is made in one of the four cardinal directions. The first jump is length 1, the second is length 2, the third is length 4, and so on, until the n-jump, which is length 2n−1. Demonstrate that if you know the final position of the fly, then you can uniquely determine its position after each of the n jumps.
 
 **Answer:** dimostrato
-[[src_cesenatico_2009__Q04]]
+[[Quesiti/src_cesenatico_2009#q04|src_cesenatico_2009__Q04]]
 
 
 
@@ -166,7 +166,7 @@ level: nazionale
 > Whether ABC is a scalene triangle and acutangol, Γ its circumscribed circumference, K the foot of the vertex relative to vertex A. Be M the middle point of the BC arc containing A. This is the second intersection of MK with Γ, and T is the intersection of the tangents at Γ in A and in A′. The intersection of the perpendicular to AK for A and the perpendicular to A′K for A′ shall also be R. Prove that T, R and K are aligned.
 
 **Answer:** dimostrato
-[[src_cesenatico_2009__Q05]]
+[[Quesiti/src_cesenatico_2009#q05|src_cesenatico_2009__Q05]]
 
 
 
@@ -197,4 +197,4 @@ level: nazionale
 > A natural number k is said to be n-squared if, by coloring the boxes of a chessboard 2n × k with n different colors, there are 4 distinct boxes of the same color whose centers are verticals of a rectangle having the sides parallel to the sides of the chessboard. Determine, as a function of n, the smallest natural k that is n-squared.
 
 **Answer:** minimo k in funzione di n
-[[src_cesenatico_2009__Q06]]
+[[Quesiti/src_cesenatico_2009#q06|src_cesenatico_2009__Q06]]

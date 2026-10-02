@@ -40,7 +40,7 @@ level: IMO
 
 > Let pn(k) be the number of permutations of the set {1, . . . , n}, n ≥1, which have exactly k fixed points. Prove that n x k=0 k · pn(k) = n!. (Note: A permutation f of a set S is a one-to-one mapping of S onto itself. An element i in S is called a fixed point of the permutation f if f(i) = i.)
 
-[[src_imo_1987__Q01]]
+[[Quesiti/src_imo_1987#q01|src_imo_1987__Q01]]
 
 
 
@@ -70,7 +70,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 > In an acute-angled triangle ABC the interior bisector of the angle A intersects BC at L and intersects the circumcircle of ABC again at N. From point L perpendiculars are drawn to AB and AC, the feet of these perpendiculars being K and M respectively. Prove that the quadrilateral AKNM and the triangle ABC have equal areas.
 
-[[src_imo_1987__Q02]]
+[[Quesiti/src_imo_1987#q02|src_imo_1987__Q02]]
 
 
 
@@ -111,7 +111,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 > 
 > 28th International Mathematical Olympiad Havana, Cuba Day II July 11, 1987
 
-[[src_imo_1987__Q03]]
+[[Quesiti/src_imo_1987#q03|src_imo_1987__Q03]]
 
 
 
@@ -138,7 +138,7 @@ This is a list of the countries of the European Economic Area.
 
 > Prove that there is no function f from the set of non-negative integers into itself such that f(f(n)) = n + 1987 for every n.
 
-[[src_imo_1987__Q04]]
+[[Quesiti/src_imo_1987#q04|src_imo_1987__Q04]]
 
 
 
@@ -167,7 +167,7 @@ This is a list of the countries of the European Economic Area.
 
 > Let n be an integer greater than or equal to 3. Prove that there is a set of n points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.
 
-[[src_imo_1987__Q05]]
+[[Quesiti/src_imo_1987#q05|src_imo_1987__Q05]]
 
 
 
@@ -197,4 +197,4 @@ This is a list of the countries of the European Economic Area.
 
 > Let n be an integer greater than or equal to 2. Prove that if k2 + k + n is prime for all integers k such that 0 ≤k ≤ p n/3, then k2 + k + n is prime for all integers k such that 0 ≤k ≤n −2.
 
-[[src_imo_1987__Q06]]
+[[Quesiti/src_imo_1987#q06|src_imo_1987__Q06]]

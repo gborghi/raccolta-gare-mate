@@ -35,7 +35,7 @@ level: JMO Yosen
 > Un quadrilaterale converso $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 5$, $DA = 6$ e $\angle ABC = 90^\circ$. Trova la superficie di $ABCD$.
 
 **Risposta:** 18
-[[src_jmo17yq_yosen__Q01]]
+[[Quesiti/src_jmo17yq_yosen#q01|src_jmo17yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Trova la cifra di unità di $11^{12^{13}}$. Qui $11^{12^{13}}$ indica $11$ sollevato alla potenza $12^{13}$ (non $(11^{12}) \cdot 13$), e $11^{12}$ indica $11$ sollevato alla potenza $12^{13}$, non il $13$th multiplo di $11^{12}$.
 
 **Risposta:** 1
-[[src_jmo17yq_yosen__Q02]]
+[[Quesiti/src_jmo17yq_yosen#q02|src_jmo17yq_yosen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JMO Yosen
 > Un segmento $AB$ di lunghezza $7$ si trova su un piano. Il $P$ deve essere un punto del piano tale che la distanza da $P$ alla linea $AB$ sia $3$. Trova il valore minimo di $AP \times BP$.
 
 **Risposta:** $\dfrac{85}{4}$
-[[src_jmo17yq_yosen__Q03]]
+[[Quesiti/src_jmo17yq_yosen#q03|src_jmo17yq_yosen__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: JMO Yosen
 
 > Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Considera il numero intero $p$ formato dalle centinaia e migliaia di cifre di $n$ (le due cifre superiori) e il numero intero $q$ formato dalle decine e dalle cifre di unità di $n$ (le due cifre inferiori), dove sia $p$ che $q$ sono numeri interi a 2 cifre. Il prodotto $p \cdot q$ è uguale al numero di divisori positivi di $n$. Trova tutte le $n$.
 
-[[src_jmo17yq_yosen__Q04]]
+[[Quesiti/src_jmo17yq_yosen#q04|src_jmo17yq_yosen__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: JMO Yosen
 
 > Tre rettangoli sono posizionati su un piano in modo che due di essi abbiano lati reciprocamente paralleli (cioè, tutti i lati sono paralleli a una delle due direzioni perpendicolari fisse). In quante regioni al massimo questi tre rettangoli possono dividere il piano? L'interno e il confine di ogni rettangolo sono considerati, e una regione non contenuta in alcun rettangolo è anche considerata come una regione. (Per esempio, un singolo rettangolo divide il piano in regioni $2$.)
 
-[[src_jmo17yq_yosen__Q05]]
+[[Quesiti/src_jmo17yq_yosen#q05|src_jmo17yq_yosen__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: JMO Yosen
 > Ci sono carte $15$, ciascuna con un numero intero distinto scritto su di essa, una da ciascuna di $1, 2, \ldots, 15$. Si selezionano una o più carte e si sommano i numeri. Quanti valori distinti può contenere questa somma?
 
 **Risposta:** 120
-[[src_jmo17yq_yosen__Q06]]
+[[Quesiti/src_jmo17yq_yosen#q06|src_jmo17yq_yosen__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: JMO Yosen
 > In quanti modi $100$ può essere espresso come somma di un certo numero positivo di integri non negativi, ognuno dei quali è al massimo $3$? Due espressioni che differiscono solo nell'ordine dei loro termini sono considerate uguali.
 
 **Risposta:** 884
-[[src_jmo17yq_yosen__Q07]]
+[[Quesiti/src_jmo17yq_yosen#q07|src_jmo17yq_yosen__Q07]]
 
 
 
@@ -236,7 +236,7 @@ level: JMO Yosen
 
 > Lasciate che $S$ sia un cubo. In quanti modi $S$ può essere suddiviso in una raccolta di tetraedri $\{T_1, \ldots, T_k\}$ che soddisfano le seguenti due condizioni? \begin{itemize} \item[(1)] I vertici di ogni tetraedro $T_i$ sono tutti vertici di $S$. \item[(2)] Per qualsiasi $i \neq j$, se $T_i$ e $T_j$ condividono una parte comune, allora quella parte comune è una faccia comune, un bordo comune o un vertice comune di $T_i$ e $T_j$. # Finire #
 
-[[src_jmo17yq_yosen__Q08]]
+[[Quesiti/src_jmo17yq_yosen#q08|src_jmo17yq_yosen__Q08]]
 
 
 
@@ -264,7 +264,7 @@ level: JMO Yosen
 
 > Trova tutte le coppie di integri $(a, b)$ soddisfacenti $$a^2 b^2 = 4a^3 + b^3.$$
 
-[[src_jmo17yq_yosen__Q09]]
+[[Quesiti/src_jmo17yq_yosen#q09|src_jmo17yq_yosen__Q09]]
 
 
 
@@ -291,7 +291,7 @@ level: JMO Yosen
 
 > Ci sono alcune carte, ognuna con un intero positivo scritto su di essa, e la somma di tutti i numeri scritti è $2007$. Per ogni numero intero $n$ con $1 \le n \le 2006$, si possono scegliere carte $n$ in modo tale che la somma dei numeri sulle carte scelte sia divisibile da $n$, e inoltre questa scelta è unica (in cui le carte con lo stesso numero scritto su di esse sono trattate come indistinguibili). Quante tali collezioni di carte sono possibili?
 
-[[src_jmo17yq_yosen__Q10]]
+[[Quesiti/src_jmo17yq_yosen#q10|src_jmo17yq_yosen__Q10]]
 
 
 
@@ -318,7 +318,7 @@ level: JMO Yosen
 
 > In una competizione di matematica, ogni partecipante riceve al massimo una medaglia: oro, argento o bronzo. Quando partecipano persone $n$, il numero di medaglie d'oro assegnate è $\left\lfloor \dfrac{n}{a} \right\rfloor$, il numero di medaglie d'argento è $\left\lfloor \dfrac{n}{b} \right\rfloor$, e il numero di medaglie di bronzo è $\left\lfloor \dfrac{n}{c} \right\rfloor$, dove $a, b, c$ sono numeri interi positivi con $a \ge b \ge c$. Nessuna persona riceve più di una medaglia. Per un dato numero intero non negativo $k$, supponiamo che per ogni numero intero $n \ge 3$, il numero di valori di $n$ per i quali esattamente $k$ le persone non ricevono medaglie è esattamente $2$. Trova tutti i triples $(a, b, c)$ di numeri interi positivi che soddisfano questa condizione. (Qui $\lfloor r \rfloor$ indica il più grande numero intero non superiore al numero reale $r$.)
 
-[[src_jmo17yq_yosen__Q11]]
+[[Quesiti/src_jmo17yq_yosen#q11|src_jmo17yq_yosen__Q11]]
 
 
 
@@ -354,4 +354,4 @@ level: JMO Yosen
 > 
 > Più precisamente, le due regole sono: alla fine del processo, ogni persona onesta invia al dio una lettera, e tutte le persone oneste inviano lo stesso candidato. Se tutte le persone oneste, dopo aver calcolato indipendentemente, concordano sullo stesso nome del candidato, allora questo è il nome che ogni persona onesta invia al dio. \end{itemize} Trova il valore massimo di $k$.
 
-[[src_jmo17yq_yosen__Q12]]
+[[Quesiti/src_jmo17yq_yosen#q12|src_jmo17yq_yosen__Q12]]

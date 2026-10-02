@@ -37,7 +37,7 @@ level: RMO
 
 > Risolvere il seguente sistema di equazioni in numeri interi non negativi $a_1, a_2, \ldots, a_8$ dove $a_i \neq 1$ per $i = 1, \ldots, 8$: $$a_1 a_2 = a_3 + a_4,$$ $$a_3 a_4 = a_5 + a_6,$$ $$a_5 a_6 = a_7 + a_8,$$ $$a_7 a_8 = a_1 + a_2.$$
 
-[[src_rmo_2025_kv__Q01]]
+[[Quesiti/src_rmo_2025_kv#q01|src_rmo_2025_kv__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: RMO
 
 > $a, b, c$ siano numeri reali positivi che soddisfino $abc = 1$. Provare che $$\frac{2a^2}{a^2+1} + \frac{2b^2}{b^2+1} + \frac{2c^2}{c^2+1} \le a^2 + b^2 + c^2.$$
 
-[[src_rmo_2025_kv__Q02]]
+[[Quesiti/src_rmo_2025_kv#q02|src_rmo_2025_kv__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: RMO
 
 > Il $ABCDE$ deve essere un pentagono convexo in cui $AB = AE$, $CB = CE$ e $\angle CBD = 90^\circ$. Lasciate che i bisettori interni di $\angle EAB$ e $\angle DCB$ si intersecano a $I$, e lasciate che $M$ sia il punto medio di $AC$. Prove che $\angle MIC = 90^\circ$.
 
-[[src_rmo_2025_kv__Q03]]
+[[Quesiti/src_rmo_2025_kv#q03|src_rmo_2025_kv__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: RMO
 > 
 > (Per esempio, per $n = 3$, $RDUR$, $DRD$ sono percorsi ammissibili, mentre $DDR$, $RUURR$ non lo sono.)
 
-[[src_rmo_2025_kv__Q04]]
+[[Quesiti/src_rmo_2025_kv#q04|src_rmo_2025_kv__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: RMO
 
 > Il $ABC$ deve essere un triangolo acuto con $\angle BAC = 60^\circ$ e $AB < BC < AC$. $M$ e $N$ siano i piedi delle altitudini rispettivamente da $B$ e $C$. Supponiamo che $BE$, $CF$ siano le altitudini, con $E$ su $CA$ e $F$ su $AB$. L'immagine $X$ deve essere l'immagine di $M$ riflessa nel punto medio di $BF$, e l'immagine $Y$ deve essere l'immagine di $N$ riflessa nel punto medio di $CE$. Provare che $XY$ divide $BC$.
 
-[[src_rmo_2025_kv__Q05]]
+[[Quesiti/src_rmo_2025_kv#q05|src_rmo_2025_kv__Q05]]
 
 
 
@@ -183,4 +183,4 @@ level: RMO
 
 > Definire la sequenza $\{a_n\}$ come segue: $a_0 = 49$ e $a_n = 10^{a_{n-1}} \cdot a_{n-1} - 1$ per $n \ge 1$. Indicare che $s(a_n^2) = n^2 + n + 7$ per tutti $n \ge 0$, dove $s(m)$ indica la somma di cifre nella rappresentazione di base $10$ di un intero non negativo $m$.
 
-[[src_rmo_2025_kv__Q06]]
+[[Quesiti/src_rmo_2025_kv#q06|src_rmo_2025_kv__Q06]]

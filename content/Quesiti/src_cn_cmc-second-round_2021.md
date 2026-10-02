@@ -34,7 +34,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A, Problema 1) Date le cifre reali positive $k$ ($k \geq 2$) e $k$ non-zero $a_1, a_2, \ldots, a_k$, dimostrare che ci sono al massimo finitamente molte matrici di numeri interi $k$-elemento $(n_1, n_2, \ldots, n_k)$ che soddisfano che $n_1, n_2, \ldots, n_k$ sono parimenti distinte e $$a_1 \cdot n_1! + a_2 \cdot n_2! + \cdots + a_k \cdot n_k! = 0.$$
 
-[[src_cn_cmc-second-round_2021__Q01]]
+[[Quesiti/src_cn_cmc-second-round_2021#q01|src_cn_cmc-second-round_2021__Q01]]
 
 
 
@@ -47,7 +47,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A, Problem 2) As shown in the figure, in $\triangle ABC$, $M$ is the midpoint of side $AC$. $D$, $E$ are two points on the tangent of the circumcircle of $\triangle ABC$ at point $A$, satisfying $HD \parallel AB$ and $A$ is the midpoint of segment $DE$. The circle passing through points $A$, $B$, $E$ intersects side $AC$ at point $P$. The circle passing through points $A$, $D$, $P$ intersects the extension of $DM$ at point $Q$. Prove that $\angle BCQ = \angle BAC$.
 
-![[src_cn_cmc-second-round_2021__Q02.png]]
+![[src_cn_cmc-second-round_2021__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -63,9 +63,9 @@ level: China Mathematical Competition (Second Round)
 
 > (Test paper A, problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente del circoncircolo di $\triangle ABC$ al punto $A$, che soddisfano $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. Il cerchio che attraversa i punti $A$, $B$, $E$ incrocia il lato $AC$ al punto $P$. Il cerchio che attraversa i punti $A$, $D$, $P$ interseca l'estensione di $DM$ al punto $Q$. Provare che $\angle BCQ = \angle BAC$.
 
-![[src_cn_cmc-second-round_2021__Q02.png]]
+![[src_cn_cmc-second-round_2021__q02.png]]
 
-[[src_cn_cmc-second-round_2021__Q02]]
+[[Quesiti/src_cn_cmc-second-round_2021#q02|src_cn_cmc-second-round_2021__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test paper A, problema 3) Supponiamo un numero intero $n \geq 4$. Prova che se $n$ divide $2^n - 2$, allora $\dfrac{2^n - 2}{n}$ è composto.
 
-[[src_cn_cmc-second-round_2021__Q03]]
+[[Quesiti/src_cn_cmc-second-round_2021#q03|src_cn_cmc-second-round_2021__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper A, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti finali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti finali di ogni segmento sono dello stesso colore.
 
 **Risposta:** 50
-[[src_cn_cmc-second-round_2021__Q04]]
+[[Quesiti/src_cn_cmc-second-round_2021#q04|src_cn_cmc-second-round_2021__Q04]]
 
 
 
@@ -134,7 +134,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A1, Problem 1) As shown in the figure, in $\triangle ABC$, $AB > AC$. Two points $X$, $Y$ in $\triangle ABC$ are on the bisector of $\angle BAC$ and satisfy $\angle ABX = \angle ACY$. Let the extension of $BX$ and segment $CY$ intersect at point $P$. The circumcircle $\omega_1$ of $\triangle BPY$ and the circumcircle $\omega_2$ of $\triangle CPX$ intersect at $P$ and another point $Q$. Prove that points $A$, $P$, $Q$ are collinear.
 
-![[src_cn_cmc-second-round_2021__Q05.png]]
+![[src_cn_cmc-second-round_2021__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -150,9 +150,9 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A1, Problema 1) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. Due punti $X$ e $Y$ di $\triangle ABC$ sono situati sul bisettore di $\angle BAC$ e soddisfano $\angle ABX = \angle ACY$. L'estensione di $BX$ e del segmento $CY$ si intersecano al punto $P$. Il circoncircolo $\omega_1$ di $\triangle BPY$ e il circoncircolo $\omega_2$ di $\triangle CPX$ si incrociano a $P$ e un altro punto $Q$. Provare che i punti $A$, $P$, $Q$ sono collineari.
 
-![[src_cn_cmc-second-round_2021__Q05.png]]
+![[src_cn_cmc-second-round_2021__q05.png]]
 
-[[src_cn_cmc-second-round_2021__Q05]]
+[[Quesiti/src_cn_cmc-second-round_2021#q05|src_cn_cmc-second-round_2021__Q05]]
 
 
 
@@ -181,7 +181,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A1, Problem 3) Lasciate che le sequenze di numeri reali positivi $\{a_n\}$, $\{b_n\}$ soddisfino: $$a_n = \sqrt{\frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}^2}, \quad b_n = \frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}.$$ Prove che esiste un intero positivo $k$ tale che $|a_m - b_m| < 0.001$ per tutti $m \geq k$.
 
-[[src_cn_cmc-second-round_2021__Q06]]
+[[Quesiti/src_cn_cmc-second-round_2021#q06|src_cn_cmc-second-round_2021__Q06]]
 
 
 
@@ -210,7 +210,7 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper A1, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti terminali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti terminali di ogni segmento sono dello stesso colore.
 
 **Risposta:** 50
-[[src_cn_cmc-second-round_2021__Q07]]
+[[Quesiti/src_cn_cmc-second-round_2021#q07|src_cn_cmc-second-round_2021__Q07]]
 
 
 
@@ -223,7 +223,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B, Problem 1) As shown in the figure, $I$ is the incentre of $\triangle ABC$, $AB > AC$. Points $P$, $Q$ are the projections of $I$ on sides $AB$, $AC$, respectively. Line $PQ$ intersects the circumcircle of $\triangle ABC$ at points $X$, $Y$ ($P$ is between $X$ and $Y$). Given that points $B$, $I$, $P$, $X$ are concyclic, prove that points $C$, $I$, $Q$, $Y$ are concyclic.
 
-![[src_cn_cmc-second-round_2021__Q08.png]]
+![[src_cn_cmc-second-round_2021__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -239,9 +239,9 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B, Problem 1) Come mostrato nella figura, $I$ è l'incentro di $\triangle ABC$, $AB > AC$. I punti $P$ e $Q$ sono le proiezioni di $I$ sui lati $AB$ e $AC$, rispettivamente. La linea $PQ$ interseca il circoncircolo di $\triangle ABC$ nei punti $X$, $Y$ ($P$ è tra $X$ e $Y$). Dato che i punti $B$, $I$, $P$, $X$ sono conciclici, dimostrare che i punti $C$, $I$, $Q$, $Y$ sono conciclici.
 
-![[src_cn_cmc-second-round_2021__Q08.png]]
+![[src_cn_cmc-second-round_2021__q08.png]]
 
-[[src_cn_cmc-second-round_2021__Q08]]
+[[Quesiti/src_cn_cmc-second-round_2021#q08|src_cn_cmc-second-round_2021__Q08]]
 
 
 
@@ -271,7 +271,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B, Problem 2) Con un numero intero $n \geq 2$, lasciate che i numeri reali non negativi $a_1, a_2, \ldots, a_n$ soddisfino $$a_1 \geq a_2 \geq \cdots \geq a_n.$$ Trovare il minimo di $$a_1 + a_1 a_2 + a_1 a_2 a_3 + \cdots + a_1 a_2 \cdots a_n.$$
 
-[[src_cn_cmc-second-round_2021__Q09]]
+[[Quesiti/src_cn_cmc-second-round_2021#q09|src_cn_cmc-second-round_2021__Q09]]
 
 
 
@@ -300,7 +300,7 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper B, Problem 3) Cerca di trovare il numero positivo più grande $M > 1$ con la seguente proprietà: per qualsiasi 10 diversi numeri reali scelti dall'intervallo $[1, M]$, tre di essi possono essere selezionati, indicati dal più piccolo al più grande da $a < b < c$, in modo che l'equazione quadrata $ax^2 + bx + c = 0$ non abbia radici reali.
 
 **Risposta:** $4^{405}$
-[[src_cn_cmc-second-round_2021__Q10]]
+[[Quesiti/src_cn_cmc-second-round_2021#q10|src_cn_cmc-second-round_2021__Q10]]
 
 
 
@@ -331,7 +331,7 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper B1, Problema 1) Lasciate che $a$, $b$, $c$ siano numeri reali non negativi. Denote $S = a + 2b + 3c$, $T = a + b^2 + c^3$. (1) Trovare il minimo di $T - S$. (2) Se $S = 4$, trovare il massimo di $T$.
 
 **Risposta:** (1) $-3$; (2) $4$
-[[src_cn_cmc-second-round_2021__Q11]]
+[[Quesiti/src_cn_cmc-second-round_2021#q11|src_cn_cmc-second-round_2021__Q11]]
 
 
 
@@ -344,7 +344,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B1, Problem 2) As shown in the figure, in $\triangle ABC$, $AB > AC$. Points $X$, $Y$ in $\triangle ABC$ are on the bisector of $\angle BAC$, satisfying $\angle ABX = \angle ACY$. Let the extension of $BX$ and segment $CY$ intersect at point $P$. The circumcircle $\omega_1$ of $\triangle BPY$ and the circumcircle $\omega_2$ of $\triangle CPX$ intersect at $P$ and another point $Q$. Prove that points $A$, $P$, $Q$ are collinear.
 
-![[src_cn_cmc-second-round_2021__Q12.png]]
+![[src_cn_cmc-second-round_2021__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -360,9 +360,9 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B1, Problema 2) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. I punti $X$ e $Y$ di $\triangle ABC$ sono sul bisettore di $\angle BAC$, soddisfacendo $\angle ABX = \angle ACY$. L'estensione di $BX$ e del segmento $CY$ si intersecano al punto $P$. Il circoncircolo $\omega_1$ di $\triangle BPY$ e il circoncircolo $\omega_2$ di $\triangle CPX$ si incrociano a $P$ e un altro punto $Q$. Provare che i punti $A$, $P$, $Q$ sono collineari.
 
-![[src_cn_cmc-second-round_2021__Q12.png]]
+![[src_cn_cmc-second-round_2021__q12.png]]
 
-[[src_cn_cmc-second-round_2021__Q12]]
+[[Quesiti/src_cn_cmc-second-round_2021#q12|src_cn_cmc-second-round_2021__Q12]]
 
 
 
@@ -390,7 +390,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B1, Problem 3) Lasciate che $m$, $n$ siano numeri interi superiori a $1$, e $n$ non è un quadrato perfetto. Se $n^2 + n + 1$ è divisibile per $m$, dimostrare che $$|m - n| > \sqrt{3n} - 2.$$
 
-[[src_cn_cmc-second-round_2021__Q13]]
+[[Quesiti/src_cn_cmc-second-round_2021#q13|src_cn_cmc-second-round_2021__Q13]]
 
 
 
@@ -421,4 +421,4 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper B1, Problem 4) 9 squadre di calcio giocano un singolo torneo di round-robin (ogni due squadre giocano una volta). In ogni partita, il vincitore ottiene 1 punto, il perdente ottiene 0 punti e ogni squadra ottiene 0,5 punti per un pareggio. Dopo il torneo, si scopre che le 9 squadre hanno punti diversi l'una dall'altra. Le 9 squadre sono registrate come $T_1, T_2, \ldots, T_9$, in ordine decrescente di punti. È noto che la squadra $T_1$ ha un record di 1 vittoria, 3 pareggio e 5 perdite. (1) È possibile che $T_3$ vinca contro $T_4$? (2) È possibile che $T_4$ vinca contro $T_3$?
 
 **Risposta:** (1) No; (2) Yes
-[[src_cn_cmc-second-round_2021__Q14]]
+[[Quesiti/src_cn_cmc-second-round_2021#q14|src_cn_cmc-second-round_2021__Q14]]

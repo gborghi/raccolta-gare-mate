@@ -41,7 +41,7 @@ level: IMO
 > 
 > (b) Determine all integers $n \geq 3$ for which there exists a balanced centre-free set having $n$ points.
 
-[[src_imo_2015__Q01]]
+[[Quesiti/src_imo_2015#q01|src_imo_2015__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: IMO
 > 
 > (A **power of 2** is an integer of the form $2^n$, where $n$ is a non-negative integer.)
 
-[[src_imo_2015__Q02]]
+[[Quesiti/src_imo_2015#q02|src_imo_2015__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: IMO
 > 
 > Prove that the circumcircles of triangles $KQH$ and $FKM$ are tangent to each other.
 
-[[src_imo_2015__Q03]]
+[[Quesiti/src_imo_2015#q03|src_imo_2015__Q03]]
 
 
 
@@ -134,7 +134,7 @@ level: IMO
 > 
 > Suppose that the lines $FK$ and $GL$ are different and intersect at the point $X$. Prove that $X$ lies on the line $AO$.
 
-[[src_imo_2015__Q04]]
+[[Quesiti/src_imo_2015#q04|src_imo_2015__Q04]]
 
 
 
@@ -163,7 +163,7 @@ This is the functional equation f(x+f(x+y))+f(xy) =...*
 
 > Let $\mathbb{R}$ denotes the set of real numbers. Determine the functions $f : \mathbb{R} \to \mathbb{R}$ satisfying the equation $$f(x + f(x + y)) + f(xy) = x + f(x + y) + y f(x)$$ for all real numbers $x$ and $y$.
 
-[[src_imo_2015__Q05]]
+[[Quesiti/src_imo_2015#q05|src_imo_2015__Q05]]
 
 
 
@@ -204,4 +204,4 @@ This is the functional equation f(x+f(x+y))+f(xy) =...*
 > 
 > Prove that there exist two positive integers $b$ and $N$ such that $$\left|\sum_{j=m+1}^{n}(a_j - b)\right| \leq 1007^2$$ for all integers $m$ and $n$ satisfying $n > m \geq N$.
 
-[[src_imo_2015__Q06]]
+[[Quesiti/src_imo_2015#q06|src_imo_2015__Q06]]

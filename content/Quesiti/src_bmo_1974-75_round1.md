@@ -35,7 +35,7 @@ level: BMO Round 1
 
 > Dato che $x$ è un intero positivo risolvere $$[\sqrt{1}] + [\sqrt{2}] + \ldots + [\sqrt{x^2-1}] = 400$$ (dove $[z]$ significa la parte integrale di $z$) e dimostrare la soluzione è completa.
 
-[[src_bmo_1974-75_round1__Q01]]
+[[Quesiti/src_bmo_1974-75_round1#q01|src_bmo_1974-75_round1__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 1
 > 
 > Se $d$ divide la differenza tra questi prodotti, indicare che $d = 1$ o $d \ge p_n$.
 
-[[src_bmo_1974-75_round1__Q02]]
+[[Quesiti/src_bmo_1974-75_round1#q02|src_bmo_1974-75_round1__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: BMO Round 1
 > 
 > Prova che se il disco $S$ contiene punti $7$ in modo tale che la distanza da uno dei punti $7$ a un altro punto sia superiore o pari a $1$, allora uno dei punti $7$ è $O$.
 
-[[src_bmo_1974-75_round1__Q03]]
+[[Quesiti/src_bmo_1974-75_round1#q03|src_bmo_1974-75_round1__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: BMO Round 1
 > 
 > I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di $k$.
 
-[[src_bmo_1974-75_round1__Q04]]
+[[Quesiti/src_bmo_1974-75_round1#q04|src_bmo_1974-75_round1__Q04]]
 
 
 
@@ -168,7 +168,7 @@ level: BMO Round 1
 
 > Per ogni intero positivo $m$ viene data quella $$1 + \binom{2m}{1}\cos\theta + \binom{2m}{2}\cos 2\theta + \ldots + \cos 2m\theta = \left(2\cos\tfrac{1}{2}\theta\right)^{2m}\cos m\theta$$ dove ci sono termini $2m+1$ sul lato sinistro. La funzione $f(\theta)$ è definita da una di queste espressioni. La funzione $g(\theta)$ è definita da $$g(\theta) = 1 + \binom{2m}{1}\cos 2\theta + \binom{2m}{2}\cos 4\theta + \ldots + \cos 2m\theta.$$ Dato che non esiste un $k$ razionale per il quale $a = k\pi$ trova i valori di $a$ per il quale $$\lim_{m \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
 
-[[src_bmo_1974-75_round1__Q05]]
+[[Quesiti/src_bmo_1974-75_round1#q05|src_bmo_1974-75_round1__Q05]]
 
 
 
@@ -196,7 +196,7 @@ level: BMO Round 1
 
 > Prova che se $n$ è un numero intero superiore a $1$ e $x > y > 1$, allora $$\frac{x^{n+1}-1}{x(x^{n-1}-1)} > \frac{y^{n+1}-1}{y(y^{n-1}-1)}.$$
 
-[[src_bmo_1974-75_round1__Q06]]
+[[Quesiti/src_bmo_1974-75_round1#q06|src_bmo_1974-75_round1__Q06]]
 
 
 
@@ -224,7 +224,7 @@ level: BMO Round 1
 
 > Prove che esiste solo un insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che $$(1-x_1)^2 + (x_1-x_2)^2 + \ldots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
 
-[[src_bmo_1974-75_round1__Q07]]
+[[Quesiti/src_bmo_1974-75_round1#q07|src_bmo_1974-75_round1__Q07]]
 
 
 
@@ -251,4 +251,4 @@ level: BMO Round 1
 
 > L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
 
-[[src_bmo_1974-75_round1__Q08]]
+[[Quesiti/src_bmo_1974-75_round1#q08|src_bmo_1974-75_round1__Q08]]

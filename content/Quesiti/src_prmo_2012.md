@@ -34,7 +34,7 @@ level: PRMO
 > Rama fu chiesto dal suo insegnante di sottrarre 3 da un certo numero e poi dividere il risultato per 9. Invece, ha sottratto 9 e poi diviso il risultato per 3. Ha ricevuto 43 come risposta. Che risposta avrebbe dato se avesse risolto correttamente il problema?
 
 **Risposta:** 3
-[[src_prmo_2012__Q01]]
+[[Quesiti/src_prmo_2012#q01|src_prmo_2012__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: PRMO
 > Un triangolo con perimetro 7 ha lunghezze laterali interi. Qual è l'area massima possibile di un triangolo simile?
 
 **Risposta:** \frac{3\sqrt{7}}{4}
-[[src_prmo_2012__Q02]]
+[[Quesiti/src_prmo_2012#q02|src_prmo_2012__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: PRMO
 > Per quante coppie di integri positivi $(x, y)$ è $x + 3y = 1007$?
 
 **Risposta:** 335
-[[src_prmo_2012__Q03]]
+[[Quesiti/src_prmo_2012#q03|src_prmo_2012__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: PRMO
 
 > Le lettere $R$, $M$ e $O$ rappresentano numeri interi. Se $R \times M \times O = 240$, $R \times Q \times M = 46$ e $R + M \times Q = 64$, qual è il valore di $R + M + O$?
 
-[[src_prmo_2012__Q04]]
+[[Quesiti/src_prmo_2012#q04|src_prmo_2012__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: PRMO
 > Che $S_n = n^2 + 20n + 12$, $n$ sia un intero positivo. Qual è la somma di tutti i valori possibili di $n$ per i quali $S_n$ è un quadrato perfetto?
 
 **Risposta:** 16
-[[src_prmo_2012__Q05]]
+[[Quesiti/src_prmo_2012#q05|src_prmo_2012__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: PRMO
 > Un postino deve consegnare cinque lettere a cinque case diverse. In modo ingannevole, posta una lettera attraverso ogni porta senza cercare di vedere se è l'indirizzo corretto. In quanti modi diversi avrebbe potuto farlo in modo che esattamente due delle cinque case ricevessero le lettere corrette?
 
 **Risposta:** 20
-[[src_prmo_2012__Q06]]
+[[Quesiti/src_prmo_2012#q06|src_prmo_2012__Q06]]
 
 
 
@@ -206,7 +206,7 @@ level: PRMO
 > In $\triangle ABC$, abbiamo $AC = BC = 7$ e $AB = 2$. Supponiamo che $D$ sia un punto sulla linea $AB$ tale che $B$ sia tra $A$ e $D$ e $CD = 8$. Qual è la lunghezza del segmento $BD$?
 
 **Risposta:** 3
-[[src_prmo_2012__Q07]]
+[[Quesiti/src_prmo_2012#q07|src_prmo_2012__Q07]]
 
 
 
@@ -235,7 +235,7 @@ level: PRMO
 > In rettangolo $ABCD$, $AB = 5$ e $BC = 3$. I punti $F$ e $G$ sono sul segmento di linea $CD$ in modo che $DF = 1$ e $GC = 2$. Le linee $AF$ e $BG$ si incrociano a $E$. Qual è la superficie di $\triangle AEB$?
 
 **Risposta:** \frac{25}{2}
-[[src_prmo_2012__Q08]]
+[[Quesiti/src_prmo_2012#q08|src_prmo_2012__Q08]]
 
 
 
@@ -264,7 +264,7 @@ level: PRMO
 > Supponiamo che $4^{x_1} = 5$, $5^{x_2} = 6$, $6^{x_3} = 7$, $\ldots$, $126^{x_{123}} = 127$, $127^{x_{124}} = 128$. Qual è il valore di $x_1 x_2 x_3 \cdots x_{124}$?
 
 **Risposta:** \frac{7}{2}
-[[src_prmo_2012__Q09]]
+[[Quesiti/src_prmo_2012#q09|src_prmo_2012__Q09]]
 
 
 
@@ -292,7 +292,7 @@ level: PRMO
 > $ABCD$ è quadrato e $AB = 1$. I triangoli equilaterali $AYB$ e $CXD$ sono disegnati in modo tale che $X$ e $Y$ siano all'interno del quadrato. Qual è la lunghezza di $XY$?
 
 **Risposta:** \sqrt{3}-1
-[[src_prmo_2012__Q10]]
+[[Quesiti/src_prmo_2012#q10|src_prmo_2012__Q10]]
 
 
 
@@ -321,7 +321,7 @@ level: PRMO
 > Let $P(n) = (n+1)(n+3)(n+5)(n+7)(n+9)$. Qual è il numero intero più grande che è un divisore di $P(n)$ per tutti i numeri interi pari positivi $n$?
 
 **Risposta:** 15
-[[src_prmo_2012__Q11]]
+[[Quesiti/src_prmo_2012#q11|src_prmo_2012__Q11]]
 
 
 
@@ -349,7 +349,7 @@ level: PRMO
 > Se $\dfrac{1}{\sqrt{2011 + \sqrt{2011^2 - 1}}} = \sqrt{m} - \sqrt{n}$, dove $m$ e $n$ sono integri positivi, qual è il valore di $m + n$?
 
 **Risposta:** 2011
-[[src_prmo_2012__Q12]]
+[[Quesiti/src_prmo_2012#q12|src_prmo_2012__Q12]]
 
 
 
@@ -376,7 +376,7 @@ level: PRMO
 
 > Se $a = b - c$, $b = c - d$, $c = d - a$ e $abcd \neq 0$, qual è il valore di $\dfrac{a}{b} + \dfrac{b}{c} + \dfrac{c}{d} + \dfrac{d}{a}$?
 
-[[src_prmo_2012__Q13]]
+[[Quesiti/src_prmo_2012#q13|src_prmo_2012__Q13]]
 
 
 
@@ -404,7 +404,7 @@ level: PRMO
 > $O$ e $I$ sono rispettivamente il circoncentro e l'incentro di $\triangle ABC$. Supponiamo che $O$ si trovi all'interno di $\triangle ABC$ e $I$ si trova sul cerchio che attraversa $B$, $O$ e $C$. Qual è la magnitudine di $\angle BAC$ in gradi?
 
 **Risposta:** 60
-[[src_prmo_2012__Q14]]
+[[Quesiti/src_prmo_2012#q14|src_prmo_2012__Q14]]
 
 
 
@@ -433,7 +433,7 @@ level: PRMO
 > Quanti valori interi negativi di $x$ soddisfano l'equazione $\left[\dfrac{x}{3}\right] = \left[\dfrac{x}{5}\right]$? (Qui $[z]$ indica il più grande numero intero inferiore o uguale a $z$. Ad esempio $[3.4] = 3$ e $[-2.3] = -3$.)
 
 **Risposta:** 8
-[[src_prmo_2012__Q15]]
+[[Quesiti/src_prmo_2012#q15|src_prmo_2012__Q15]]
 
 
 
@@ -466,7 +466,7 @@ level: PRMO
 > $N$ sia l'insieme dei numeri naturali. Supponiamo che $f : N \to N$ sia una funzione che soddisfa le seguenti condizioni: a) $f(mn) = f(m)f(n)$; b) $f(m) < f(n)$ se $m < n$; c) $f(2) = 2$. Qual è il valore di $\displaystyle\sum_{k=1}^{20} f(k)$?
 
 **Risposta:** 210
-[[src_prmo_2012__Q16]]
+[[Quesiti/src_prmo_2012#q16|src_prmo_2012__Q16]]
 
 
 
@@ -494,7 +494,7 @@ level: PRMO
 > $x_1, x_2, x_3$ siano le radici dell'equazione $x^3 + 3x + 5 = 0$. Qual è il valore dell'espressione $\left(x_1 + \dfrac{1}{x_1}\right)\left(x_2 + \dfrac{1}{x_2}\right)\left(x_3 + \dfrac{1}{x_3}\right)$?
 
 **Risposta:** -\frac{18}{5}
-[[src_prmo_2012__Q17]]
+[[Quesiti/src_prmo_2012#q17|src_prmo_2012__Q17]]
 
 
 
@@ -521,7 +521,7 @@ level: PRMO
 
 > Qual è la somma dei quadrati delle radici dell'equazione $x^2 - 7[x] + 5 = 0$? (Qui $[x]$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio $[3.4] = 3$ e $[-2.3] = -3$.)
 
-[[src_prmo_2012__Q18]]
+[[Quesiti/src_prmo_2012#q18|src_prmo_2012__Q18]]
 
 
 
@@ -550,7 +550,7 @@ level: PRMO
 > Quante coppie di numeri interi $(x, y)$ soddisfano $x^2 + 4y^2 - 2xy - 2x - 4y - 8 = 0$?
 
 **Risposta:** 6
-[[src_prmo_2012__Q19]]
+[[Quesiti/src_prmo_2012#q19|src_prmo_2012__Q19]]
 
 
 
@@ -578,4 +578,4 @@ level: PRMO
 > $PS$ è un segmento di linea di lunghezza 4 e $O$ è il punto medio di $PS$. Un arco semicircolare è disegnato con $PS$ diametro. Che $X$ sia il punto medio di questo arco. $Q$ e $R$ sono punti sull'arco $PXS$ in modo tale che $QR$ sia parallelo a $PS$ e l'arco semicircolare disegnato con $QR$ come diametro sia tangente a $PS$. Qual è l'area della regione $QXROQ$ delimitata dai due archi semicircolari?
 
 **Risposta:** \pi - 2
-[[src_prmo_2012__Q20]]
+[[Quesiti/src_prmo_2012#q20|src_prmo_2012__Q20]]

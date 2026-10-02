@@ -49,7 +49,7 @@ level: 2 livello
 > - **(E)** None of the previous ones.
 
 **Answer:** B
-[[src_archimede_2010_2livello__Q01]]
+[[Quesiti/src_archimede_2010_2livello#q01|src_archimede_2010_2livello__Q01]]
 
 
 
@@ -91,7 +91,7 @@ level: 2 livello
 > - **(E)** 2
 
 **Answer:** E
-[[src_archimede_2010_2livello__Q02]]
+[[Quesiti/src_archimede_2010_2livello#q02|src_archimede_2010_2livello__Q02]]
 
 
 
@@ -139,7 +139,7 @@ level: 2 livello
 > - **(E)** I mean, everybody.
 
 **Answer:** C
-[[src_archimede_2010_2livello__Q03]]
+[[Quesiti/src_archimede_2010_2livello#q03|src_archimede_2010_2livello__Q03]]
 
 
 
@@ -181,7 +181,7 @@ Who is most likely to have 7 denarii?
 > - **(E)** Two or more players are equally likely to have it.
 
 **Answer:** D
-[[src_archimede_2010_2livello__Q04]]
+[[Quesiti/src_archimede_2010_2livello#q04|src_archimede_2010_2livello__Q04]]
 
 
 
@@ -224,7 +224,7 @@ Who is most likely to have 7 denarii?
 > - **(E)** more than eight.
 
 **Answer:** C
-[[src_archimede_2010_2livello__Q05]]
+[[Quesiti/src_archimede_2010_2livello#q05|src_archimede_2010_2livello__Q05]]
 
 
 
@@ -268,7 +268,7 @@ Who is most likely to have 7 denarii?
 > - **(E)** 2π + 1 km.
 
 **Answer:** B
-[[src_archimede_2010_2livello__Q06]]
+[[Quesiti/src_archimede_2010_2livello#q06|src_archimede_2010_2livello__Q06]]
 
 
 
@@ -309,7 +309,7 @@ Who is most likely to have 7 denarii?
 > - **(E)** 4.
 
 **Answer:** B
-[[src_archimede_2010_2livello__Q07]]
+[[Quesiti/src_archimede_2010_2livello#q07|src_archimede_2010_2livello__Q07]]
 
 
 
@@ -353,7 +353,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(E)** 30.
 
 **Answer:** C
-[[src_archimede_2010_2livello__Q08]]
+[[Quesiti/src_archimede_2010_2livello#q08|src_archimede_2010_2livello__Q08]]
 
 
 
@@ -458,7 +458,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(E)** Every dot of the red area is within the green's range.
 
 **Answer:** A
-[[src_archimede_2010_2livello__Q09]]
+[[Quesiti/src_archimede_2010_2livello#q09|src_archimede_2010_2livello__Q09]]
 
 
 
@@ -502,7 +502,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(E)** 105.
 
 **Answer:** C
-[[src_archimede_2010_2livello__Q10]]
+[[Quesiti/src_archimede_2010_2livello#q10|src_archimede_2010_2livello__Q10]]
 
 
 
@@ -545,7 +545,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(E)** 18.
 
 **Answer:** D
-[[src_archimede_2010_2livello__Q11]]
+[[Quesiti/src_archimede_2010_2livello#q11|src_archimede_2010_2livello__Q11]]
 
 
 
@@ -587,7 +587,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(E)** 2010 Problems with a numerical answer  5 points
 
 **Answer:** D
-[[src_archimede_2010_2livello__Q12]]
+[[Quesiti/src_archimede_2010_2livello#q12|src_archimede_2010_2livello__Q12]]
 
 
 
@@ -623,7 +623,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > To steal a precious jewel, a thief must discover the code that allows him to open the safe door. The information that he managed to find is as follows:  the code is a number  any subsequence of consecutive digits of the code (so either each digit taken individually, or each pair of digits, etc.). up to the whole number) is a prime number (for example, 217 is not good, because 1 is not a prime and 21 is not a prime)  the code is the largest number that has this property. What's the secret code to open the safe?
 
 **Answer:** 373
-[[src_archimede_2010_2livello__Q13]]
+[[Quesiti/src_archimede_2010_2livello#q13|src_archimede_2010_2livello__Q13]]
 
 
 
@@ -661,7 +661,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > The monument at Mathenkamen is in the shape of a pyramid which rests on its 18 m square side base. Its height is 15 m, and the foot of height falls in the center of the square. The pyramid is oriented so that, when the sun's rays come from the south inclined by 45° towards the ground, the area of the ground on which it spreads its shadow is as small as possible. What is the value of this area in m2? (Note: the ground covered by the base of the pyramid is not to be counted as shady ground.)
 
 **Answer:** 27
-[[src_archimede_2010_2livello__Q14]]
+[[Quesiti/src_archimede_2010_2livello#q14|src_archimede_2010_2livello__Q14]]
 
 
 
@@ -692,7 +692,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > DEMOSTRATIVE EXERCISE Find all the ordered sets of positive integers (p, q, n) such that p, q are prime and p2 + q2 = pqn + 1.
 
 **Answer:** (2,3,2) e (3,2,2)
-[[src_archimede_2010_2livello__Q15]]
+[[Quesiti/src_archimede_2010_2livello#q15|src_archimede_2010_2livello__Q15]]
 
 
 
@@ -732,7 +732,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > A triangle isosceles ABC of base AC is given. Within this triangle, a point M is given on the side of C with respect to the AC axis, such that C c MA = 2$\widehat{CBA}$, and a point N within the segment AM, such that B b NM = $\widehat{CBA}$.  Demonstrate that $\widehat{CBN}$ = $\widehat{BAM}$.  Demonstrate that CM + MN = BN.
 
 **Answer:** dimostrazione
-[[src_archimede_2010_2livello__Q16]]
+[[Quesiti/src_archimede_2010_2livello#q16|src_archimede_2010_2livello__Q16]]
 
 
 
@@ -763,4 +763,4 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > How many different ways can the numbers {21, 31, 41, 51, 61, 71, 81} be arranged so that, however, if four of them are chosen in successive places, their sum is divisible by three?
 
 **Answer:** 144
-[[src_archimede_2010_2livello__Q17]]
+[[Quesiti/src_archimede_2010_2livello#q17|src_archimede_2010_2livello__Q17]]

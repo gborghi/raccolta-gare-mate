@@ -32,7 +32,7 @@ Infinitely many a making n^4+a never prime
 
 > Prove that there are infinitely many natural numbers $a$ with the following property: the number $z = n^4 + a$ is not prime for any natural number $n$.
 
-[[src_imo_1969_all__Q01]]
+[[Quesiti/src_imo_1969_all#q01|src_imo_1969_all__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Infinitely many a making n^4+a never prime
 
 > Let $a_1, a_2, \ldots, a_n$ be real constants, $x$ be a real variable, and $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$ Given that $f(x_1) = f(x_2) = 0$, prove that $x_2 - x_1$ is a rational multiple of $\pi$.
 
-[[src_imo_1969_all__Q02]]
+[[Quesiti/src_imo_1969_all#q02|src_imo_1969_all__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Infinitely many a making n^4+a never prime
 
 > For each value of $k = 1, 2, 3, 4, 5$, find necessary and sufficient conditions on the number $a > 0$ such that there exists a tetrahedron with $k$ edges having length $a$ and the remaining $6 - k$ edges having length $1$.
 
-[[src_imo_1969_all__Q03]]
+[[Quesiti/src_imo_1969_all#q03|src_imo_1969_all__Q03]]
 
 
 
@@ -113,7 +113,7 @@ Infinitely many a making n^4+a never prime
 
 > A semicircular arc $\gamma$ is drawn on $AB$ as diameter. $C$ is a point on $\gamma$ other than $A$ and $B$, and $D$ is the midpoint of arc $AC$. Let $M$ be the foot of the perpendicular from $D$ to line $BC$. Prove that $BM = MA + MC$.
 
-[[src_imo_1969_all__Q04]]
+[[Quesiti/src_imo_1969_all#q04|src_imo_1969_all__Q04]]
 
 
 
@@ -139,7 +139,7 @@ Infinitely many a making n^4+a never prime
 
 > Given $n > 4$ points in the plane such that no three are collinear. Prove that there are at least $\binom{n-3}{2}$ convex quadrilaterals whose vertices are four of the given $n$ points.
 
-[[src_imo_1969_all__Q05]]
+[[Quesiti/src_imo_1969_all#q05|src_imo_1969_all__Q05]]
 
 
 
@@ -167,4 +167,4 @@ Infinitely many a making n^4+a never prime
 
 > Prove that for all real numbers $x_1, x_2, y_1, y_2, z_1, z_2$ with $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, the following inequality is satisfied: $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \leq \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}.$$
 
-[[src_imo_1969_all__Q06]]
+[[Quesiti/src_imo_1969_all#q06|src_imo_1969_all__Q06]]

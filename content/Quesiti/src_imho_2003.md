@@ -33,7 +33,7 @@ level: IMO
 
 > $S$ is the set $\{1, 2, 3, \ldots, 1000000\}$. Show that for any subset $A$ of $S$ with $101$ elements we can find $100$ distinct elements $x_i$ of $S$, such that the sets $\{a + x_i \mid a \in A\}$ are all pairwise disjoint.
 
-[[src_imho_2003__Q01]]
+[[Quesiti/src_imho_2003#q01|src_imho_2003__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: IMO
 
 > Find all pairs $(m, n)$ of positive integers such that $\dfrac{m^2}{2mn^2 - n^3 + 1}$ is a positive integer.
 
-[[src_imho_2003__Q02]]
+[[Quesiti/src_imho_2003#q02|src_imho_2003__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: IMO
 
 > A convex hexagon has the property that for any pair of opposite sides the distance between their midpoints is $\dfrac{\sqrt{3}}{2}$ times the sum of their lengths. Show that all the hexagons are equal.
 
-[[src_imho_2003__Q03]]
+[[Quesiti/src_imho_2003#q03|src_imho_2003__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Cyclic quadrilateral: angle bisectors meet on AC iff RP=RQ*
 
 > $ABCD$ is cyclic. The feet of the perpendicular from $D$ to the lines $AB$, $BC$, $CA$ are $P$, $Q$, $R$ respectively. Show that the angle bisectors of $\angle ABC$ and $\angle CDA$ meet on the line $AC$ iff $RP = RQ$.
 
-[[src_imho_2003__Q04]]
+[[Quesiti/src_imho_2003#q04|src_imho_2003__Q04]]
 
 
 
@@ -141,7 +141,7 @@ Inequality for ordered reals with equality iff arithmetic progression
 
 > Given $n > 2$ and reals $x_1 \le x_2 \le \cdots \le x_n$, show that $$\left(\sum_{i,j} |x_i - x_j|\right)^2 \le \frac{2}{3}(n^2 - 1) \sum_{i,j} (x_i - x_j)^2.$$ Show that we have equality if the sequence is an arithmetic progression.
 
-[[src_imho_2003__Q05]]
+[[Quesiti/src_imho_2003#q05|src_imho_2003__Q05]]
 
 
 
@@ -168,4 +168,4 @@ For each prime p, find prime q such that p - p not divisible by q*
 
 > Show that for each prime $p$, there exists a prime $q$ such that $n^p - p$ is not divisible by $q$ for any positive integer $n$.
 
-[[src_imho_2003__Q06]]
+[[Quesiti/src_imho_2003#q06|src_imho_2003__Q06]]

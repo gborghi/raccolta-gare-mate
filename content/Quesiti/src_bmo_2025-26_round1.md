@@ -33,7 +33,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 
 > Una rampa è una sequenza di tre diversi integri positivi $a, b, c$ in modo tale che $a$ è un fattore di $b$ e $b$ è un fattore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determinare con prova se $p^n$ può essere espresso come la somma di una rampa.
 
-[[src_bmo_2025-26_round1__Q01]]
+[[Quesiti/src_bmo_2025-26_round1#q01|src_bmo_2025-26_round1__Q01]]
 
 
 
@@ -61,7 +61,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 
 > Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 4.$$
 
-[[src_bmo_2025-26_round1__Q02]]
+[[Quesiti/src_bmo_2025-26_round1#q02|src_bmo_2025-26_round1__Q02]]
 
 
 
@@ -96,7 +96,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > 
 > Quanti modi si possono fare?
 
-[[src_bmo_2025-26_round1__Q03]]
+[[Quesiti/src_bmo_2025-26_round1#q03|src_bmo_2025-26_round1__Q03]]
 
 
 
@@ -127,7 +127,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > 
 > Prove che $MA \times MD = MB \times MC$.
 
-[[src_bmo_2025-26_round1__Q04]]
+[[Quesiti/src_bmo_2025-26_round1#q04|src_bmo_2025-26_round1__Q04]]
 
 
 
@@ -167,7 +167,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > 
 > Questa sequenza contiene tutti i numeri interi positivi?
 
-[[src_bmo_2025-26_round1__Q05]]
+[[Quesiti/src_bmo_2025-26_round1#q05|src_bmo_2025-26_round1__Q05]]
 
 
 
@@ -210,4 +210,4 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 > 
 > Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
 
-[[src_bmo_2025-26_round1__Q06]]
+[[Quesiti/src_bmo_2025-26_round1#q06|src_bmo_2025-26_round1__Q06]]

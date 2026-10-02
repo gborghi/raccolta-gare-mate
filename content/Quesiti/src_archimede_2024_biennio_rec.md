@@ -45,7 +45,7 @@ level: biennio
 > - **(D)** 7
 > - **(E)** 6
 
-[[src_archimede_2024_biennio_rec__Q01]]
+[[Quesiti/src_archimede_2024_biennio_rec#q01|src_archimede_2024_biennio_rec__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: biennio
 > - **(D)** 3
 > - **(E)** 2
 
-[[src_archimede_2024_biennio_rec__Q02]]
+[[Quesiti/src_archimede_2024_biennio_rec#q02|src_archimede_2024_biennio_rec__Q02]]
 
 
 
@@ -138,7 +138,7 @@ level: biennio
 > - **(D)** 62°
 > - **(E)** 58°
 
-[[src_archimede_2024_biennio_rec__Q03]]
+[[Quesiti/src_archimede_2024_biennio_rec#q03|src_archimede_2024_biennio_rec__Q03]]
 
 
 
@@ -178,7 +178,7 @@ level: biennio
 > - **(D)** 15
 > - **(E)** 23
 
-[[src_archimede_2024_biennio_rec__Q04]]
+[[Quesiti/src_archimede_2024_biennio_rec#q04|src_archimede_2024_biennio_rec__Q04]]
 
 
 
@@ -217,7 +217,7 @@ level: biennio
 > - **(D)** 5n4+84
 > - **(E)** 8n3+75
 
-[[src_archimede_2024_biennio_rec__Q05]]
+[[Quesiti/src_archimede_2024_biennio_rec#q05|src_archimede_2024_biennio_rec__Q05]]
 
 
 
@@ -269,7 +269,7 @@ level: biennio
 > - **(D)** 45
 > - **(E)** 60
 
-[[src_archimede_2024_biennio_rec__Q06]]
+[[Quesiti/src_archimede_2024_biennio_rec#q06|src_archimede_2024_biennio_rec__Q06]]
 
 
 
@@ -310,7 +310,7 @@ level: biennio
 > - **(D)** 22
 > - **(E)** 21
 
-[[src_archimede_2024_biennio_rec__Q07]]
+[[Quesiti/src_archimede_2024_biennio_rec#q07|src_archimede_2024_biennio_rec__Q07]]
 
 
 
@@ -356,7 +356,7 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 1/3
 
-[[src_archimede_2024_biennio_rec__Q08]]
+[[Quesiti/src_archimede_2024_biennio_rec#q08|src_archimede_2024_biennio_rec__Q08]]
 
 
 
@@ -396,7 +396,7 @@ level: biennio
 > - **(D)** 450
 > - **(E)** 576
 
-[[src_archimede_2024_biennio_rec__Q09]]
+[[Quesiti/src_archimede_2024_biennio_rec#q09|src_archimede_2024_biennio_rec__Q09]]
 
 
 
@@ -449,7 +449,7 @@ level: biennio
 > - **(D)** 2− √ 2
 > - **(E)** 1 2
 
-[[src_archimede_2024_biennio_rec__Q10]]
+[[Quesiti/src_archimede_2024_biennio_rec#q10|src_archimede_2024_biennio_rec__Q10]]
 
 
 
@@ -490,7 +490,7 @@ level: biennio
 > - **(D)** 13
 > - **(E)** 10
 
-[[src_archimede_2024_biennio_rec__Q11]]
+[[Quesiti/src_archimede_2024_biennio_rec#q11|src_archimede_2024_biennio_rec__Q11]]
 
 
 
@@ -533,7 +533,7 @@ level: biennio
 > - **(D)** 16
 > - **(E)** 24
 
-[[src_archimede_2024_biennio_rec__Q12]]
+[[Quesiti/src_archimede_2024_biennio_rec#q12|src_archimede_2024_biennio_rec__Q12]]
 
 
 
@@ -574,7 +574,7 @@ level: biennio
 > - **(D)** 4/45
 > - **(E)** 1/10
 
-[[src_archimede_2024_biennio_rec__Q13]]
+[[Quesiti/src_archimede_2024_biennio_rec#q13|src_archimede_2024_biennio_rec__Q13]]
 
 
 
@@ -615,7 +615,7 @@ level: biennio
 > - **(D)** 5
 > - **(E)** 6
 
-[[src_archimede_2024_biennio_rec__Q14]]
+[[Quesiti/src_archimede_2024_biennio_rec#q14|src_archimede_2024_biennio_rec__Q14]]
 
 
 
@@ -655,7 +655,7 @@ How to sit 3 pairs of siblings next to each other
 > - **(D)** 36
 > - **(E)** 42
 
-[[src_archimede_2024_biennio_rec__Q15]]
+[[Quesiti/src_archimede_2024_biennio_rec#q15|src_archimede_2024_biennio_rec__Q15]]
 
 
 
@@ -708,4 +708,4 @@ How to sit 3 pairs of siblings next to each other
 > - **(D)** 18/5
 > - **(E)** 5 411
 
-[[src_archimede_2024_biennio_rec__Q16]]
+[[Quesiti/src_archimede_2024_biennio_rec#q16|src_archimede_2024_biennio_rec__Q16]]

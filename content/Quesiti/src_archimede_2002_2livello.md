@@ -41,7 +41,7 @@ level: 2 livello
 > (A) 2 and (B) 4 and (C) 6 and (D) 7 and (E) 8
 
 **Answer:** D
-[[src_archimede_2002_2livello__Q01]]
+[[Quesiti/src_archimede_2002_2livello#q01|src_archimede_2002_2livello__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: 2 livello
 > (A) $5p$ &ensp; (B) $4p$ &ensp; (C) $2p$ &ensp; (D) $\dfrac{7}{2}p$ &ensp;
 
 **Answer:** C
-[[src_archimede_2002_2livello__Q02]]
+[[Quesiti/src_archimede_2002_2livello#q02|src_archimede_2002_2livello__Q02]]
 
 
 
@@ -105,7 +105,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) between $0{,}25\%$ and $0{,}5\%$ &ensp; (B) between $0{,}5\%$ and $1\%$ &ensp; (C) between $1\%$ and $5\%$ &ensp; (D) between $5\%$ and $20\%$ &ensp; (E) between $20\%$ and $50\%$
 
 **Answer:** E
-[[src_archimede_2002_2livello__Q03]]
+[[Quesiti/src_archimede_2002_2livello#q03|src_archimede_2002_2livello__Q03]]
 
 
 
@@ -150,7 +150,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > - **(E)** Planet and sex of both.
 
 **Answer:** C
-[[src_archimede_2002_2livello__Q04]]
+[[Quesiti/src_archimede_2002_2livello#q04|src_archimede_2002_2livello__Q04]]
 
 
 
@@ -186,7 +186,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) $\dfrac{1}{8}$ &ensp; (B) $\dfrac{\pi}{8}$ &ensp; (C) $\dfrac{\pi}{2}$ &ensp; (D) $2$ &ensp; (E) cannot be determined (see figure)
 
 **Answer:** A
-[[src_archimede_2002_2livello__Q05]]
+[[Quesiti/src_archimede_2002_2livello#q05|src_archimede_2002_2livello__Q05]]
 
 
 
@@ -218,7 +218,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) 9 and so on; (B) 10 and so on; (C) 19 and so on; (D) 30 and so on; (E) 31
 
 **Answer:** D
-[[src_archimede_2002_2livello__Q06]]
+[[Quesiti/src_archimede_2002_2livello#q06|src_archimede_2002_2livello__Q06]]
 
 
 
@@ -250,7 +250,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) 2 &ensp; (B) $\dfrac{\sqrt{3}}{2}$ &ensp; (C) $\dfrac{\sqrt{2}}{2}$ &ensp; (D) 1 &ensp; (E) None of the above
 
 **Answer:** D
-[[src_archimede_2002_2livello__Q07]]
+[[Quesiti/src_archimede_2002_2livello#q07|src_archimede_2002_2livello__Q07]]
 
 
 
@@ -281,7 +281,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) 60 and so on; (B) 70 and so on; (C) 90 and so on; (D) 110 and so on; (E) 120
 
 **Answer:** B
-[[src_archimede_2002_2livello__Q08]]
+[[Quesiti/src_archimede_2002_2livello#q08|src_archimede_2002_2livello__Q08]]
 
 
 
@@ -313,7 +313,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) 2000 and others; (B) 2001 and others; (C) 2002 and others; (D) 2003 and others; (E) 2004
 
 **Answer:** B
-[[src_archimede_2002_2livello__Q09]]
+[[Quesiti/src_archimede_2002_2livello#q09|src_archimede_2002_2livello__Q09]]
 
 
 
@@ -345,7 +345,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 > (A) $60°\,20'$ &ensp; (B) $60°\,00'$ &ensp; (C) $45°$ &ensp; (D) $37°\,20'$ &ensp; (E) cannot be determined
 
 **Answer:** B
-[[src_archimede_2002_2livello__Q10]]
+[[Quesiti/src_archimede_2002_2livello#q10|src_archimede_2002_2livello__Q10]]
 
 
 
@@ -377,7 +377,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 > (A) 999
 
 **Answer:** 999
-[[src_archimede_2002_2livello__Q11]]
+[[Quesiti/src_archimede_2002_2livello#q11|src_archimede_2002_2livello__Q11]]
 
 
 
@@ -413,7 +413,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 > (A) $16r$ &ensp; (B) $16r + 4$ &ensp; (C) $20r - 4$ &ensp; (D) $19r$ &ensp; (E) cannot be determined
 
 **Answer:** 11
-[[src_archimede_2002_2livello__Q12]]
+[[Quesiti/src_archimede_2002_2livello#q12|src_archimede_2002_2livello__Q12]]
 
 
 
@@ -445,7 +445,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 > (A) 1 and (B) 2 and (C) 3 and (D) 4 and (E) 5
 
 **Answer:** 6
-[[src_archimede_2002_2livello__Q13]]
+[[Quesiti/src_archimede_2002_2livello#q13|src_archimede_2002_2livello__Q13]]
 
 
 
@@ -478,7 +478,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 > (A) 9 and (B) 19 and (C) 30 and (D) 31 and (E) 32
 
 **Answer:** 4
-[[src_archimede_2002_2livello__Q14]]
+[[Quesiti/src_archimede_2002_2livello#q14|src_archimede_2002_2livello__Q14]]
 
 
 
@@ -510,7 +510,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 > Determine the number of parallel-piped rectangles with a square base having all beads of full length and volume equal to $270\,000$.
 
 **Answer:** (6,10,14)
-[[src_archimede_2002_2livello__Q15]]
+[[Quesiti/src_archimede_2002_2livello#q15|src_archimede_2002_2livello__Q15]]
 
 
 
@@ -542,7 +542,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 > 
 > A triangle $ABC$ is given. The mean points of the sides $AC$ and $BC$ shall be indicated with $M$ and $N$ respectively. Also $S$ and $T$ shall be points on the sides $AC$ and $BC$ respectively, such that: $$AS = \frac{1}{3}AC \qquad BT = \frac{1}{3}BC.$$ Demonstrate that the angles $\widehat{AST}$ and $\widehat{BTS}$ meet on a point $P$ of the $AB$ side if and only if the quadrilateral $AMNB$ is circular.
 
-[[src_archimede_2002_2livello__Q16]]
+[[Quesiti/src_archimede_2002_2livello#q16|src_archimede_2002_2livello__Q16]]
 
 
 
@@ -574,4 +574,4 @@ Minimum number of moves to compose the 1000 piece puzzle
 > 
 > Determine all positive integers $(x, y, z)$ that meet the following system: $$\begin{cases} 45xy^2 = 8z^3 \\ xyz < 1000 \end{cases}$$
 
-[[src_archimede_2002_2livello__Q17]]
+[[Quesiti/src_archimede_2002_2livello#q17|src_archimede_2002_2livello__Q17]]

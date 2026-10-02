@@ -45,7 +45,7 @@ level: BMO Round 1
 > 
 > Determinare, con la prova, quali integri positivi $n$ nell'intervallo $3 \le n \le 12$ sono soddisfatti.
 
-[[src_bmo1_2025__Q01]]
+[[Quesiti/src_bmo1_2025#q01|src_bmo1_2025__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: BMO Round 1
 > 
 > Determina per quali numeri naturali il mago può eseguire il trucco. Dovete entrambi dimostrare che il trucco è possibile per i numeri che richiedete, e dimostrare che non è possibile per altri numeri.
 
-[[src_bmo1_2025__Q02]]
+[[Quesiti/src_bmo1_2025#q02|src_bmo1_2025__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: BMO Round 1
 > 
 > Determina, con la prova, quale giocatore ha una strategia vincente.
 
-[[src_bmo1_2025__Q03]]
+[[Quesiti/src_bmo1_2025#q03|src_bmo1_2025__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: BMO Round 1
 > 
 > Prove che $\angle CPB = 90^\circ$.
 
-[[src_bmo1_2025__Q04]]
+[[Quesiti/src_bmo1_2025#q04|src_bmo1_2025__Q04]]
 
 
 
@@ -169,7 +169,7 @@ level: BMO Round 1
 > 
 > Provare che almeno uno di $(n+1)^p - 1$ e $(n+1)^{p-1} - 1$ è divisibile per $p$.
 
-[[src_bmo1_2025__Q05]]
+[[Quesiti/src_bmo1_2025#q05|src_bmo1_2025__Q05]]
 
 
 
@@ -200,4 +200,4 @@ level: BMO Round 1
 > 
 > Provare che devono esserci 12 cubetti di zucchero dello stesso sapore che possono essere messi in 6 coppie disgiunte in modo che la distanza tra i centri dei cubetti in ciascuna coppia sia uguale.
 
-[[src_bmo1_2025__Q06]]
+[[Quesiti/src_bmo1_2025#q06|src_bmo1_2025__Q06]]

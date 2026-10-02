@@ -37,7 +37,7 @@ level: OBM Nível 2
 > 
 > Ad esempio, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ e $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ sono due ordini diversi di scrivere 169 come somma di quadrati.
 
-[[src_obm_2015_n2_f3__Q01]]
+[[Quesiti/src_obm_2015_n2_f3#q01|src_obm_2015_n2_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 > 
 > b) Dimostra che il circoncircolo del triangolo $RST$ è tangente al circoncircolo del triangolo $QRB$.
 
-[[src_obm_2015_n2_f3__Q02]]
+[[Quesiti/src_obm_2015_n2_f3#q02|src_obm_2015_n2_f3__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: OBM Nível 2
 
 > Che $ABC$ sia un triangolo e $n$ un intero positivo. Al lato $BC$ si considerano i punti $A_1, A_2, \ldots, A_{2^n - 1}$ che dividono $BC$ in $2^n$ parti uguali, in modo che $BA_1 = A_1A_2 = \cdots = A_{2^n-1}C$. Definire analogamente i punti $B_1, B_2, \ldots, B_{2^n-1}$ sui lati $CA$ e $AB$. Disegnare i segmenti $AA_1, AA_2, \ldots, AA_{2^n-1}$, $BB_1, BB_2, \ldots, BB_{2^n-1}$, $CC_1, CC_2, \ldots, CC_{2^n-1}$. Determinare, in funzione di $n$, in quante regioni la regione delimitata dal triangolo $ABC$ è divisa da questi segmenti.
 
-[[src_obm_2015_n2_f3__Q03]]
+[[Quesiti/src_obm_2015_n2_f3#q03|src_obm_2015_n2_f3__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 2
 > 
 > Suppose now that $n = 230$ and there are initially 69 leaves. Determine the number of days in which the number of leaves is not altered during any reform process involving all roads in the first 229 days.
 
-![[src_obm_2015_n2_f3__Q04.png]]
+![[src_obm_2015_n2_f3__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -140,9 +140,9 @@ level: OBM Nível 2
 > 
 > Supponiamo ora che $n = 230$ e ci sono inizialmente 69 foglie. Determinare il numero di giorni in cui il numero delle foglie non viene modificato durante qualsiasi processo di riforma che coinvolga tutte le strade nei primi 229 giorni.
 
-![[src_obm_2015_n2_f3__Q04.png]]
+![[src_obm_2015_n2_f3__q04.png]]
 
-[[src_obm_2015_n2_f3__Q04]]
+[[Quesiti/src_obm_2015_n2_f3#q04|src_obm_2015_n2_f3__Q04]]
 
 
 
@@ -180,7 +180,7 @@ level: OBM Nível 2
 > 
 > b) Determinare i tre numeri interi più piccoli $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
 
-[[src_obm_2015_n2_f3__Q05]]
+[[Quesiti/src_obm_2015_n2_f3#q05|src_obm_2015_n2_f3__Q05]]
 
 
 
@@ -207,4 +207,4 @@ level: OBM Nível 2
 
 > Il $ABC$ deve essere un triangolo di scalene con $AD$, $BE$ e $CF$ come bisettori interni, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che $\angle AFE = \angle ADC$. Calcolare la misura dell'angolo $\angle BCA$.
 
-[[src_obm_2015_n2_f3__Q06]]
+[[Quesiti/src_obm_2015_n2_f3#q06|src_obm_2015_n2_f3__Q06]]

@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Si noti che $M$ e $N$ sono entrambi quadrati perfetti, con cifre uguali in due posti e cifre diverse nei due posti rimanenti. Inoltre, quando le cifre differiscono, la cifra di $M$ è esattamente una maggiore della cifra corrispondente di $N$. Trova tutte le coppie di interi positivi a quattro cifre $(M, N)$ con queste proprietà.
 
-[[src_bmo1_1996__Q01]]
+[[Quesiti/src_bmo1_1996#q01|src_bmo1_1996__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 1
 
 > Una funzione $f$ è definita sull'insieme di integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2 f(n) \quad \text{for all } n > 1.$$ Calcola il valore di $f(1996)$.
 
-[[src_bmo1_1996__Q02]]
+[[Quesiti/src_bmo1_1996#q02|src_bmo1_1996__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 1
 > 
 > (Per qualsiasi triangolo $XYZ$, il suo **circumcentro** è il centro del cerchio che attraversa i vertici $X$, $Y$ e $Z$.)
 
-[[src_bmo1_1996__Q03]]
+[[Quesiti/src_bmo1_1996#q03|src_bmo1_1996__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: BMO Round 1
 > 
 > Determinare tutti i $n$ per i quali $g(n) = n + 1$.
 
-[[src_bmo1_1996__Q04]]
+[[Quesiti/src_bmo1_1996#q04|src_bmo1_1996__Q04]]
 
 
 
@@ -165,4 +165,4 @@ level: BMO Round 1
 > 
 > (ii) Dimostra che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
 
-[[src_bmo1_1996__Q05]]
+[[Quesiti/src_bmo1_1996#q05|src_bmo1_1996__Q05]]

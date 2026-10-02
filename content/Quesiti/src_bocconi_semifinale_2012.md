@@ -23,7 +23,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quale era il numero di targa della macchina rossa?
 
-![[src_bocconi_semifinale_2012__Q01.png]]
+![[src_bocconi_semifinale_2012__q01.png]]
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -44,10 +44,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > What was the license plate number on the red car?
 
-![[src_bocconi_semifinale_2012__Q01.png]]
+![[src_bocconi_semifinale_2012__q01.png]]
 
 **Answer:** 5105
-[[src_bocconi_semifinale_2012__Q01]]
+[[Quesiti/src_bocconi_semifinale_2012#q01|src_bocconi_semifinale_2012__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Nota: ci sono due possibili soluzioni; basta che ne indichiate una.
 
-![[src_bocconi_semifinale_2012__Q02.png]]
+![[src_bocconi_semifinale_2012__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -85,10 +85,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Note: There are two possible solutions; just point out one.
 
-![[src_bocconi_semifinale_2012__Q02.png]]
+![[src_bocconi_semifinale_2012__q02.png]]
 
 **Answer:** Una soluzione (ne esistono due), con i dischi neri uguali a 11.
-[[src_bocconi_semifinale_2012__Q02]]
+[[Quesiti/src_bocconi_semifinale_2012#q02|src_bocconi_semifinale_2012__Q02]]
 
 
 
@@ -125,7 +125,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > How many cell phones did they sell in December, before Marco paid his bills?
 
 **Answer:** 200
-[[src_bocconi_semifinale_2012__Q03]]
+[[Quesiti/src_bocconi_semifinale_2012#q03|src_bocconi_semifinale_2012__Q03]]
 
 
 
@@ -142,7 +142,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quante volte, allora, era passato a fianco della tribuna (indicata con un pallino nero in figura)?
 
-![[src_bocconi_semifinale_2012__Q04.png]]
+![[src_bocconi_semifinale_2012__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -163,10 +163,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > How many times, then, had he passed by the tribune (indicated with a black ball in the figure)?
 
-![[src_bocconi_semifinale_2012__Q04.png]]
+![[src_bocconi_semifinale_2012__q04.png]]
 
 **Answer:** 16
-[[src_bocconi_semifinale_2012__Q04]]
+[[Quesiti/src_bocconi_semifinale_2012#q04|src_bocconi_semifinale_2012__Q04]]
 
 
 
@@ -203,7 +203,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > What was the number originally conceived by Peter?
 
 **Answer:** 312
-[[src_bocconi_semifinale_2012__Q05]]
+[[Quesiti/src_bocconi_semifinale_2012#q05|src_bocconi_semifinale_2012__Q05]]
 
 
 
@@ -220,7 +220,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Qual è il numero minimo di uova complessivamente depositate perché ciascuna delle otto cassette abbia almeno un uovo e ciascun lato del pollaio contenga esattamente 10 uova?
 
-![[src_bocconi_semifinale_2012__Q06.png]]
+![[src_bocconi_semifinale_2012__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -241,10 +241,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > What is the minimum total number of eggs deposited so that each of the eight boxes has at least one egg and each side of the hen house contains exactly 10 eggs?
 
-![[src_bocconi_semifinale_2012__Q06.png]]
+![[src_bocconi_semifinale_2012__q06.png]]
 
 **Answer:** 22
-[[src_bocconi_semifinale_2012__Q06]]
+[[Quesiti/src_bocconi_semifinale_2012#q06|src_bocconi_semifinale_2012__Q06]]
 
 
 
@@ -261,7 +261,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quante, al massimo?
 
-![[src_bocconi_semifinale_2012__Q07.png]]
+![[src_bocconi_semifinale_2012__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -282,10 +282,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > How many, at most?
 
-![[src_bocconi_semifinale_2012__Q07.png]]
+![[src_bocconi_semifinale_2012__q07.png]]
 
 **Answer:** 15
-[[src_bocconi_semifinale_2012__Q07]]
+[[Quesiti/src_bocconi_semifinale_2012#q07|src_bocconi_semifinale_2012__Q07]]
 
 
 
@@ -322,7 +322,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > After turning it on, how many times did Luca press at least the keys on Dad's calculator (the ones that work) to see how 2012 was written?
 
 **Answer:** 16
-[[src_bocconi_semifinale_2012__Q08]]
+[[Quesiti/src_bocconi_semifinale_2012#q08|src_bocconi_semifinale_2012__Q08]]
 
 
 
@@ -339,7 +339,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Trovate quella della terza riga.
 
-![[src_bocconi_semifinale_2012__Q09.png]]
+![[src_bocconi_semifinale_2012__q09.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -360,10 +360,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Find the one in the third row.
 
-![[src_bocconi_semifinale_2012__Q09.png]]
+![[src_bocconi_semifinale_2012__q09.png]]
 
 **Answer:** 11
-[[src_bocconi_semifinale_2012__Q09]]
+[[Quesiti/src_bocconi_semifinale_2012#q09|src_bocconi_semifinale_2012__Q09]]
 
 
 
@@ -404,7 +404,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Complete the box (writing, in digits, the missing numbers) so that the sentence is true.
 
 **Answer:** Due soluzioni: '15 numeri … 4 multipli di 5' e '15 numeri … 5 multipli di 5'.
-[[src_bocconi_semifinale_2012__Q10]]
+[[Quesiti/src_bocconi_semifinale_2012#q10|src_bocconi_semifinale_2012__Q10]]
 
 
 
@@ -421,7 +421,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Qual è l'ultimo numero (che indicherete con le ordinarie cifre decimali) che Milena è riuscita a scrivere completamente?
 
-![[src_bocconi_semifinale_2012__Q11.png]]
+![[src_bocconi_semifinale_2012__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -442,10 +442,10 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > What is the last number (which you will indicate with ordinary decimal digits) that Milena managed to write completely?
 
-![[src_bocconi_semifinale_2012__Q11.png]]
+![[src_bocconi_semifinale_2012__q11.png]]
 
 **Answer:** 56
-[[src_bocconi_semifinale_2012__Q11]]
+[[Quesiti/src_bocconi_semifinale_2012#q11|src_bocconi_semifinale_2012__Q11]]
 
 
 
@@ -462,7 +462,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > Quali sono i numeri della prima riga?
 
-![[src_bocconi_semifinale_2012__Q12.png]]
+![[src_bocconi_semifinale_2012__q12.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -483,10 +483,10 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > What are the numbers on the first line?
 
-![[src_bocconi_semifinale_2012__Q12.png]]
+![[src_bocconi_semifinale_2012__q12.png]]
 
 **Answer:** Due soluzioni: $1 - 7 - 8$ e $2 - 6 - 9$.
-[[src_bocconi_semifinale_2012__Q12]]
+[[Quesiti/src_bocconi_semifinale_2012#q12|src_bocconi_semifinale_2012__Q12]]
 
 
 
@@ -503,7 +503,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > Qual è al minimo la superficie del quadrato (in cm$^2$)?
 
-![[src_bocconi_semifinale_2012__Q13.png]]
+![[src_bocconi_semifinale_2012__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
@@ -524,10 +524,10 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > What is the minimum area of the square (in cm$^2$)?
 
-![[src_bocconi_semifinale_2012__Q13.png]]
+![[src_bocconi_semifinale_2012__q13.png]]
 
 **Answer:** 20
-[[src_bocconi_semifinale_2012__Q13]]
+[[Quesiti/src_bocconi_semifinale_2012#q13|src_bocconi_semifinale_2012__Q13]]
 
 
 
@@ -564,7 +564,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > What is the minimum value of the sum of the digits of the number N+P?
 
 **Answer:** 9
-[[src_bocconi_semifinale_2012__Q14]]
+[[Quesiti/src_bocconi_semifinale_2012#q14|src_bocconi_semifinale_2012__Q14]]
 
 
 
@@ -581,7 +581,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > Quanto vale al massimo questo numero?
 
-![[src_bocconi_semifinale_2012__Q15.png]]
+![[src_bocconi_semifinale_2012__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -602,10 +602,10 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > How much is this number worth at most?
 
-![[src_bocconi_semifinale_2012__Q15.png]]
+![[src_bocconi_semifinale_2012__q15.png]]
 
 **Answer:** 10
-[[src_bocconi_semifinale_2012__Q15]]
+[[Quesiti/src_bocconi_semifinale_2012#q15|src_bocconi_semifinale_2012__Q15]]
 
 
 
@@ -624,7 +624,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > Nota: se necessario, per scrivere il risultato finale si prenderà $1{,}414$ per $\sqrt{2}$ ; $1{,}732$ per $\sqrt{3}$ ; $2{,}236$ per $\sqrt{5}$.
 
-![[src_bocconi_semifinale_2012__Q16.png]]
+![[src_bocconi_semifinale_2012__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -647,10 +647,10 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > Note: if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$ will be used to write the final result.
 
-![[src_bocconi_semifinale_2012__Q16.png]]
+![[src_bocconi_semifinale_2012__q16.png]]
 
 **Answer:** 505
-[[src_bocconi_semifinale_2012__Q16]]
+[[Quesiti/src_bocconi_semifinale_2012#q16|src_bocconi_semifinale_2012__Q16]]
 
 
 
@@ -667,7 +667,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > Per N=2012, qual è la carta eliminata subito dopo quella che ha il numero 2012? (Rispondete 0 se pensate che la carta 2012 sia quella che rimane alla fine del gioco).
 
-![[src_bocconi_semifinale_2012__Q17.png]]
+![[src_bocconi_semifinale_2012__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -688,7 +688,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 > 
 > For N=2012, what's the paper that's deleted right after the one with the number 2012? (Answer 0 if you think the 2012 card is the one left at the end of the game).
 
-![[src_bocconi_semifinale_2012__Q17.png]]
+![[src_bocconi_semifinale_2012__q17.png]]
 
 **Answer:** 14
-[[src_bocconi_semifinale_2012__Q17]]
+[[Quesiti/src_bocconi_semifinale_2012#q17|src_bocconi_semifinale_2012__Q17]]

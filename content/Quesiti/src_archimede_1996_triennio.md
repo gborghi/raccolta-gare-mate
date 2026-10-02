@@ -48,7 +48,7 @@ level: triennio
 > - **(E)** None of the previous ones.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q01]]
+[[Quesiti/src_archimede_1996_triennio#q01|src_archimede_1996_triennio__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: triennio
 > - **(E)** The dog will never reach the hare.
 
 **Answer:** C
-[[src_archimede_1996_triennio__Q02]]
+[[Quesiti/src_archimede_1996_triennio#q02|src_archimede_1996_triennio__Q02]]
 
 
 
@@ -139,7 +139,7 @@ level: triennio
 > - **(E)** Depends on the location.
 
 **Answer:** B
-[[src_archimede_1996_triennio__Q03]]
+[[Quesiti/src_archimede_1996_triennio#q03|src_archimede_1996_triennio__Q03]]
 
 
 
@@ -181,7 +181,7 @@ level: triennio
 > - **(E)** This is a decrease of 10%.
 
 **Answer:** B
-[[src_archimede_1996_triennio__Q04]]
+[[Quesiti/src_archimede_1996_triennio#q04|src_archimede_1996_triennio__Q04]]
 
 
 
@@ -227,7 +227,7 @@ level: triennio
 > - **(E)** 210 cm. b
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q05]]
+[[Quesiti/src_archimede_1996_triennio#q05|src_archimede_1996_triennio__Q05]]
 
 
 
@@ -267,7 +267,7 @@ level: triennio
 > - **(E)** 264.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q06]]
+[[Quesiti/src_archimede_1996_triennio#q06|src_archimede_1996_triennio__Q06]]
 
 
 
@@ -307,7 +307,7 @@ level: triennio
 > - **(E)** −b c.
 
 **Answer:** E
-[[src_archimede_1996_triennio__Q07]]
+[[Quesiti/src_archimede_1996_triennio#q07|src_archimede_1996_triennio__Q07]]
 
 
 
@@ -350,7 +350,7 @@ level: triennio
 > - **(E)** I can get all the precedents.
 
 **Answer:** B
-[[src_archimede_1996_triennio__Q08]]
+[[Quesiti/src_archimede_1996_triennio#q08|src_archimede_1996_triennio__Q08]]
 
 
 
@@ -392,7 +392,7 @@ level: triennio
 > - **(E)** It is not possible to determine with certainty.
 
 **Answer:** B
-[[src_archimede_1996_triennio__Q09]]
+[[Quesiti/src_archimede_1996_triennio#q09|src_archimede_1996_triennio__Q09]]
 
 
 
@@ -435,7 +435,7 @@ level: triennio
 > - **(E)** 1 2.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q10]]
+[[Quesiti/src_archimede_1996_triennio#q10|src_archimede_1996_triennio__Q10]]
 
 
 
@@ -476,7 +476,7 @@ level: triennio
 > - **(E)** 8.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q11]]
+[[Quesiti/src_archimede_1996_triennio#q11|src_archimede_1996_triennio__Q11]]
 
 
 
@@ -518,7 +518,7 @@ level: triennio
 > - **(E)** 4 −π.      x2 + y2 ≤1 (x −1)2 + (y −1)2 ≥1 (x + 1)2 + (y + 1)2 ≥1
 
 **Answer:** C
-[[src_archimede_1996_triennio__Q12]]
+[[Quesiti/src_archimede_1996_triennio#q12|src_archimede_1996_triennio__Q12]]
 
 
 
@@ -563,7 +563,7 @@ level: triennio
 > - **(E)** X is equal to the sum of all positive integers.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q13]]
+[[Quesiti/src_archimede_1996_triennio#q13|src_archimede_1996_triennio__Q13]]
 
 
 
@@ -606,7 +606,7 @@ level: triennio
 > - **(E)** The previous answers are all wrong.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q15]]
+[[Quesiti/src_archimede_1996_triennio#q15|src_archimede_1996_triennio__Q15]]
 
 
 
@@ -650,7 +650,7 @@ level: triennio
 > - **(E)** 1 6.
 
 **Answer:** B
-[[src_archimede_1996_triennio__Q16]]
+[[Quesiti/src_archimede_1996_triennio#q16|src_archimede_1996_triennio__Q16]]
 
 
 
@@ -692,7 +692,7 @@ level: triennio
 > - **(E)** n3. 1 2 3 · · n 2 3 4 · · n + 1 3 4 5 · · n + 2 · · · · · · · · n n + 1 n + 2 · · 2n −1
 
 **Answer:** E
-[[src_archimede_1996_triennio__Q18]]
+[[Quesiti/src_archimede_1996_triennio#q18|src_archimede_1996_triennio__Q18]]
 
 
 
@@ -732,7 +732,7 @@ level: triennio
 > - **(E)** 54.
 
 **Answer:** C
-[[src_archimede_1996_triennio__Q20]]
+[[Quesiti/src_archimede_1996_triennio#q20|src_archimede_1996_triennio__Q20]]
 
 
 
@@ -775,7 +775,7 @@ level: triennio
 > - **(E)** 128.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q22]]
+[[Quesiti/src_archimede_1996_triennio#q22|src_archimede_1996_triennio__Q22]]
 
 
 
@@ -817,7 +817,7 @@ level: triennio
 > - **(E)** the sum of fractions greater than 100 with denominator less than 100.
 
 **Answer:** C
-[[src_archimede_1996_triennio__Q23]]
+[[Quesiti/src_archimede_1996_triennio#q23|src_archimede_1996_triennio__Q23]]
 
 
 
@@ -859,7 +859,7 @@ level: triennio
 > - **(E)** 27.
 
 **Answer:** D
-[[src_archimede_1996_triennio__Q24]]
+[[Quesiti/src_archimede_1996_triennio#q24|src_archimede_1996_triennio__Q24]]
 
 
 
@@ -931,4 +931,4 @@ level: triennio
 > - **(E)** 50%.
 
 **Answer:** C
-[[src_archimede_1996_triennio__Q25]]
+[[Quesiti/src_archimede_1996_triennio#q25|src_archimede_1996_triennio__Q25]]

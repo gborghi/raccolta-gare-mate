@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Che $ABCDE$ sia un pentagono tale che il quadrilaterale $ABCD$ sia quadrato. Supponiamo $\angle AEC + \angle BED = 180^\circ$. Prova che il triangolo $\triangle AEC$ è un triangolo acuto. (Un poligono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
 
-[[src_jjmo10mq_honsen__Q01]]
+[[Quesiti/src_jjmo10mq_honsen#q01|src_jjmo10mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Honsen
 
 > $n$ è un numero di 7 cifre che è un multiple di $7$. Supponiamo che non importa come i numeri di $n$ siano riordinati, il numero risultante è sempre un multiple di $7$. Trova tutte queste $n$.
 
-[[src_jjmo10mq_honsen__Q02]]
+[[Quesiti/src_jjmo10mq_honsen#q02|src_jjmo10mq_honsen__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: JJMO Honsen
 > 
 > Trovare, in termini di $N$, il valore minimo di $a$ (con appropriato $b$) in modo tale che, per alcuni posizionamenti iniziali di monete $N$, si possa infine inserire una moneta in ogni cella applicando ripetutamente l'operazione.
 
-[[src_jjmo10mq_honsen__Q03]]
+[[Quesiti/src_jjmo10mq_honsen#q03|src_jjmo10mq_honsen__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: JJMO Honsen
 
 > Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $\angle BAC = 30^\circ$. Il punto $X$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Per il segmento $BX$, prendere il punto $P$ in modo che $AP = BP$; per il segmento $CX$, prendere il punto $Q$ in modo che $AQ = CQ$. Il $M$ deve essere il punto medio di $BC$. Prove che $\angle PMQ = 90^\circ$.
 
-[[src_jjmo10mq_honsen__Q04]]
+[[Quesiti/src_jjmo10mq_honsen#q04|src_jjmo10mq_honsen__Q04]]
 
 
 
@@ -153,4 +153,4 @@ level: JJMO Honsen
 > 
 > **Condizione: ** Per ogni numero intero positivo $k$, la somma dei numeri scritti sulle carte $2012$ tirate al tiro $k$-th è sempre pari.
 
-[[src_jjmo10mq_honsen__Q05]]
+[[Quesiti/src_jjmo10mq_honsen#q05|src_jjmo10mq_honsen__Q05]]

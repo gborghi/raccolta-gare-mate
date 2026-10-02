@@ -38,7 +38,7 @@ level: China Mathematical Olympiad
 
 > Il modulo di misurazione deve essere il modulo di misurazione del modulo di misurazione. Dimostrare l'esistenza di $x \in \mathbb{R}$ in modo tale che le due disuguaglianze $$\cos^2\theta_1 \cos^2\theta_2 - (\sin\theta_1 \sin\theta_2 - x)^2 \geq 0,$$ $$\cos^2\theta_3 \cos^2\theta_4 - (\sin\theta_3 \sin\theta_4 - x)^2 \geq 0$$ si verifichino contemporaneamente se e solo se $$\sum_{i=1}^{4} \sin^2\theta_i \leq 2\left(1 + \prod_{i=1}^{4} \sin\theta_i + \prod_{i=1}^{4} \cos\theta_i\right).$$ (Posizionato da Li Shenghong)
 
-[[src_cn_cmo_2005__Q01]]
+[[Quesiti/src_cn_cmo_2005#q01|src_cn_cmo_2005__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: China Mathematical Olympiad
 
 > A circle intersects sides $BC$, $CA$, $AB$ of $\triangle ABC$ at two points for each side in the following order: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. Line segments $E_1F_2$ and $E_2F_1$ intersect at point $L$, $F_1D_2$ and $F_2D_1$ intersect at point $M$, $D_1E_2$ and $D_2E_1$ intersect at point $N$. Prove that $AL$, $BM$ and $CN$ are concurrent. (Posed by Ye Zhonghao)
 
-![[src_cn_cmo_2005__Q02.png]]
+![[src_cn_cmo_2005__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -67,9 +67,9 @@ level: China Mathematical Olympiad
 
 > Un cerchio incrocia i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di linea $E_1F_2$ e $E_2F_1$ si incrociano al punto $L$, $F_1D_2$ e $F_2D_1$ si incrociano al punto $M$, $D_1E_2$ e $D_2E_1$ si incrociano al punto $N$. Provare che $AL$, $BM$ e $CN$ sono simultanei. (Posato da Ye Zhonghao)
 
-![[src_cn_cmo_2005__Q02.png]]
+![[src_cn_cmo_2005__q02.png]]
 
-[[src_cn_cmo_2005__Q02]]
+[[Quesiti/src_cn_cmo_2005#q02|src_cn_cmo_2005__Q02]]
 
 
 
@@ -82,7 +82,7 @@ level: China Mathematical Olympiad
 
 > As seen in Figure 3, a circular pool is divided into $2n$ ($n \geq 5$) "grids". Two grids are said to be neighbors if they have a common side or an arc. When frogs jump simultaneously into the grids (with at least one frog per grid), an "eruption" occurs in a grid if there are at least three frogs in it. After an eruption in a grid, one frog jumps from that grid into each of its neighboring grids. Prove that after finitely many steps, the distribution of frogs will be in equilibrium (i.e., no eruption occurs). (Posed by Su Chun)
 
-![[src_cn_cmo_2005__Q03.png]]
+![[src_cn_cmo_2005__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
@@ -98,9 +98,9 @@ level: China Mathematical Olympiad
 
 > Come illustrato nella figura 3, un pool circolare è diviso in $2n$ ($n \geq 5$) "griglie". Si dice che due griglie siano vicine se hanno un lato comune o un arco. Quando le rane saltano contemporaneamente nelle griglie (con almeno una rane per griglia), si verifica una "erupzione" in una griglia se ci sono almeno tre rane in essa. Dopo un'eruzione in una griglia, una rana salta da quella griglia in ciascuna delle sue griglie vicine. Prova che dopo numerosi passi finiti, la distribuzione delle rane sarà in equilibrio (cioè non si verifica alcuna eruzione). (Posato da Su Chun)
 
-![[src_cn_cmo_2005__Q03.png]]
+![[src_cn_cmo_2005__q03.png]]
 
-[[src_cn_cmo_2005__Q03]]
+[[Quesiti/src_cn_cmo_2005#q03|src_cn_cmo_2005__Q03]]
 
 
 
@@ -131,7 +131,7 @@ level: China Mathematical Olympiad
 
 > Let $\{a_n\}$ essere una sequenza tale che $a_1 = \dfrac{21}{16}$ e $$2a_n - 3a_{n-1} = \frac{3}{2^{n+1}}, \quad n \geq 2.$$ Let $m$ essere un intero positivo e $m \geq 2$. Prove che per $n \leq m$, $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$ (Posato da Zhu Huawei)
 
-[[src_cn_cmo_2005__Q04]]
+[[Quesiti/src_cn_cmo_2005#q04|src_cn_cmo_2005__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: China Mathematical Olympiad
 > In un rettangolo $ABCD$ (compreso il suo confine) ci sono 5 punti con superficie unitaria tale che nessuno di essi sia collineare. Trova il numero minimo di triangoli con superficie non superiore a $\dfrac{1}{4}$ e vertici scelti da questi 5 punti. (Posato da Leng Gangsong)
 
 **Risposta:** 2
-[[src_cn_cmo_2005__Q05]]
+[[Quesiti/src_cn_cmo_2005#q05|src_cn_cmo_2005__Q05]]
 
 
 
@@ -191,4 +191,4 @@ level: China Mathematical Olympiad
 > Trovare tutte le soluzioni di numeri interi non negativi $(x, y, z, w)$ della seguente equazione $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$ (Posizionato da Chen Yonggao)
 
 **Risposta:** $(1,0,0,0),(3,0,1,0),(1,1,0,1),(5,1,1,0)$
-[[src_cn_cmo_2005__Q06]]
+[[Quesiti/src_cn_cmo_2005#q06|src_cn_cmo_2005__Q06]]

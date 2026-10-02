@@ -33,7 +33,7 @@ level: JJMO Yosen
 
 > $z$ sia un intero positivo a 2 cifre, $y$ un intero positivo a 1 cifre e $x$ un intero positivo a 1 cifre. Le decine di $z$, le unità di $z$ e $y$ sono tutte diverse tra loro. Trova il valore massimo di $xy$.
 
-[[src_jjmo9yq_yosen__Q01]]
+[[Quesiti/src_jjmo9yq_yosen#q01|src_jjmo9yq_yosen__Q01]]
 
 
 
@@ -46,7 +46,7 @@ level: JJMO Yosen
 
 > In quadrilateral $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Find $BC$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo9yq_yosen__Q02.png]]
+![[src_jjmo9yq_yosen__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -62,9 +62,9 @@ level: JJMO Yosen
 
 > In quadrilaterali $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trova $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo9yq_yosen__Q02.png]]
+![[src_jjmo9yq_yosen__q02.png]]
 
-[[src_jjmo9yq_yosen__Q02]]
+[[Quesiti/src_jjmo9yq_yosen#q02|src_jjmo9yq_yosen__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: JJMO Yosen
 
 > Tra i numeri interi positivi le cui ultime quattro cifre sono $9999$, trova il più piccolo che sia divisibile da $2011$.
 
-[[src_jjmo9yq_yosen__Q03]]
+[[Quesiti/src_jjmo9yq_yosen#q03|src_jjmo9yq_yosen__Q03]]
 
 
 
@@ -104,7 +104,7 @@ level: JJMO Yosen
 
 > In triangle $ABC$, let $D$ be a point on side $AB$ and $E$ a point on side $AC$ such that line $DE$ is parallel to $BC$. Let $M$ be the midpoint of $BD$ and $N$ the midpoint of $CE$. Given that the area of quadrilateral $DMNE$ is $1$ and the area of quadrilateral $MBCN$ is $2$, find the area of triangle $ADE$.
 
-![[src_jjmo9yq_yosen__Q04.png]]
+![[src_jjmo9yq_yosen__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -120,9 +120,9 @@ level: JJMO Yosen
 
 > Nel triangolo $ABC$, $D$ sia un punto sul lato $AB$ e $E$ un punto sul lato $AC$ in modo tale che la linea $DE$ sia parallela a $BC$. Il $M$ deve essere il punto medio di $BD$ e $N$ il punto medio di $CE$. Poiché l'area del quadrilaterale $DMNE$ è $1$ e l'area del quadrilaterale $MBCN$ è $2$, trovare l'area del triangolo $ADE$.
 
-![[src_jjmo9yq_yosen__Q04.png]]
+![[src_jjmo9yq_yosen__q04.png]]
 
-[[src_jjmo9yq_yosen__Q04]]
+[[Quesiti/src_jjmo9yq_yosen#q04|src_jjmo9yq_yosen__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: JJMO Yosen
 
 > Un mago può utilizzare uno dei seguenti tre incantesimi in qualsiasi numero di volte:\n\nL'incantesimo A: Cambia 1 mandarino e 1 uva in 2 mele.\nL'incantesimo B: Cambia 1 uva e 1 mela in 3 mandarini.\nL'incantesimo C: Cambia 1 mela e 1 mandarino in 4 uve.\n\nA partire da uno stato con mele $2011$, mandarini $2011$ e uve $2011$, il mago utilizza gli incantesimi (ogni una almeno una volta) e termina con mele $2011$, esattamente $2011$ uve, e almeno $2011$ mandarini. Qual è il numero minimo di mandarini alla fine?
 
-[[src_jjmo9yq_yosen__Q05]]
+[[Quesiti/src_jjmo9yq_yosen#q05|src_jjmo9yq_yosen__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: JJMO Yosen
 
 > Ci sono 4 carte, ognuna con un numero intero positivo singolo-cifrato scritto su di essa. Quando si scelgono due delle quattro carte e si aggiungono i loro numeri, possono essere ottenute somme distinte esattamente $4$ in totale. Quando si scelgono due delle quattro carte e si moltiplicano i loro numeri, si possono ottenere esattamente $3$ prodotti distinti in totale. Trova tutte le possibili serie di 4 enti che potrebbero essere scritte sulle carte.
 
-[[src_jjmo9yq_yosen__Q06]]
+[[Quesiti/src_jjmo9yq_yosen#q06|src_jjmo9yq_yosen__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: JJMO Yosen
 
 > Trova il più piccolo intero positivo $n \ge 11$ in modo che tra gli interi $n, n+1, n+2, \ldots, n+2011$, ci siano esattamente $23$ quadrati perfetti.
 
-[[src_jjmo9yq_yosen__Q07]]
+[[Quesiti/src_jjmo9yq_yosen#q07|src_jjmo9yq_yosen__Q07]]
 
 
 
@@ -216,7 +216,7 @@ level: JJMO Yosen
 
 > Triangle $ABC$ and triangle $PQR$ are both right isosceles triangles with $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. The three points $B$, $Q$, $R$ are collinear, and the three points $A$, $P$, $C$ are collinear. Find the area of triangle $ABQ$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo9yq_yosen__Q08.png]]
+![[src_jjmo9yq_yosen__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -232,9 +232,9 @@ level: JJMO Yosen
 
 > Il triangolo $ABC$ e il triangolo $PQR$ sono entrambi triangoli a destra con $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. I tre punti $B$, $Q$, $R$ sono collineari e i tre punti $A$, $P$, $C$ sono collineari. Trova l'area del triangolo $ABQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo9yq_yosen__Q08.png]]
+![[src_jjmo9yq_yosen__q08.png]]
 
-[[src_jjmo9yq_yosen__Q08]]
+[[Quesiti/src_jjmo9yq_yosen#q08|src_jjmo9yq_yosen__Q08]]
 
 
 
@@ -261,7 +261,7 @@ level: JJMO Yosen
 
 > Per un intero positivo $k$, $S(k)$ indica la somma di tutti i divisori positivi di $k$. Trova il numero intero positivo più piccolo $n$ tale da $S(n^2) = S(n) - 7$.
 
-[[src_jjmo9yq_yosen__Q09]]
+[[Quesiti/src_jjmo9yq_yosen#q09|src_jjmo9yq_yosen__Q09]]
 
 
 
@@ -288,7 +288,7 @@ level: JJMO Yosen
 
 > Quanti integri positivi non superiori $1000$ hanno la proprietà che la somma delle loro cifre non cambia quando il numero è moltiplicato per $5$?
 
-[[src_jjmo9yq_yosen__Q10]]
+[[Quesiti/src_jjmo9yq_yosen#q10|src_jjmo9yq_yosen__Q10]]
 
 
 
@@ -315,7 +315,7 @@ level: JJMO Yosen
 
 > I quadrati di unità di lunghezza laterale $1$ sono disposti in righe $8$ e colonne $8$ per formare un quadrato $8 \times 8$ $ABCD$. Alcuni di questi quadrati unitari devono essere colorati (pintati) soggetti alle seguenti tre condizioni:\n\n$\bullet$ L'arrangiamento dei quadrati colorati è simmetrico rispetto a entrambe le diagonali $AC$ e $BD$ del quadrato.\n$\bullet$ In ogni riga, al massimo un quadrato unitario è colorato.\n$\bullet$ In ogni colonna, al massimo un quadrato unitario è colorato.\n\nQuante colorazioni sono possibili (compresa la colorazione in cui nessun quadrato è colorato)?
 
-[[src_jjmo9yq_yosen__Q11]]
+[[Quesiti/src_jjmo9yq_yosen#q11|src_jjmo9yq_yosen__Q11]]
 
 
 
@@ -342,4 +342,4 @@ level: JJMO Yosen
 
 > $I$ sia l'incentro e $O$ il circoncentro del triangolo $ABC$. Date $AB = 2$, $AC = 3$ e $\angle AIO = 90^\circ$, si trova l'area del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_jjmo9yq_yosen__Q12]]
+[[Quesiti/src_jjmo9yq_yosen#q12|src_jjmo9yq_yosen__Q12]]

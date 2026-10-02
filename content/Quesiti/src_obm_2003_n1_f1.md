@@ -21,7 +21,7 @@ level: OBM Nível 1
 > 
 > (A) 48 \quad (B) 49 \quad (C) 52 \quad (D) 53 \quad (E) 56
 
-![[src_obm_2003_n1_f1__Q01.png]]
+![[src_obm_2003_n1_f1__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,10 +40,10 @@ level: OBM Nível 1
 > 
 > (A) 48 \quad (B) 49 \quad (C) 52 \quad (D) 53 \quad (E) 56
 
-![[src_obm_2003_n1_f1__Q01.png]]
+![[src_obm_2003_n1_f1__q01.png]]
 
 **Risposta:** D
-[[src_obm_2003_n1_f1__Q01]]
+[[Quesiti/src_obm_2003_n1_f1#q01|src_obm_2003_n1_f1__Q01]]
 
 
 
@@ -95,7 +95,7 @@ level: OBM Nível 1
 > (A) $11.3\ \text{m}^3$ \quad (B) $11.7\ \text{m}^3$ \quad (C) $12.7\ \text{m}^3$ \quad (D) $63.5\ \text{m}^3$ \quad (E) $317.5\ \text{m}^3$
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q02]]
+[[Quesiti/src_obm_2003_n1_f1#q02|src_obm_2003_n1_f1__Q02]]
 
 
 
@@ -128,7 +128,7 @@ level: OBM Nível 1
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Risposta:** A
-[[src_obm_2003_n1_f1__Q03]]
+[[Quesiti/src_obm_2003_n1_f1#q03|src_obm_2003_n1_f1__Q03]]
 
 
 
@@ -151,7 +151,7 @@ level: OBM Nível 1
 > 
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
-![[src_obm_2003_n1_f1__Q04.png]]
+![[src_obm_2003_n1_f1__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -172,10 +172,10 @@ level: OBM Nível 1
 > 
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
-![[src_obm_2003_n1_f1__Q04.png]]
+![[src_obm_2003_n1_f1__q04.png]]
 
 **Risposta:** E
-[[src_obm_2003_n1_f1__Q04]]
+[[Quesiti/src_obm_2003_n1_f1#q04|src_obm_2003_n1_f1__Q04]]
 
 
 
@@ -215,7 +215,7 @@ level: OBM Nível 1
 > - **(E)** un numero la cui somma digitali è 9.
 
 **Risposta:** A
-[[src_obm_2003_n1_f1__Q05]]
+[[Quesiti/src_obm_2003_n1_f1#q05|src_obm_2003_n1_f1__Q05]]
 
 
 
@@ -230,7 +230,7 @@ level: OBM Nível 1
 > 
 > (A) 19 \quad (B) 21 \quad (C) 23 \quad (D) 24 \quad (E) 25
 
-![[src_obm_2003_n1_f1__Q06.png]]
+![[src_obm_2003_n1_f1__q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -249,10 +249,10 @@ level: OBM Nível 1
 > 
 > (A) 19 \quad (B) 21 \quad (C) 23 \quad (D) 24 \quad (E) 25
 
-![[src_obm_2003_n1_f1__Q06.png]]
+![[src_obm_2003_n1_f1__q06.png]]
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q06]]
+[[Quesiti/src_obm_2003_n1_f1#q06|src_obm_2003_n1_f1__Q06]]
 
 
 
@@ -267,7 +267,7 @@ level: OBM Nível 1
 > 
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
-![[src_obm_2003_n1_f1__Q07.png]]
+![[src_obm_2003_n1_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -286,10 +286,10 @@ level: OBM Nível 1
 > 
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
-![[src_obm_2003_n1_f1__Q07.png]]
+![[src_obm_2003_n1_f1__q07.png]]
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q07]]
+[[Quesiti/src_obm_2003_n1_f1#q07|src_obm_2003_n1_f1__Q07]]
 
 
 
@@ -322,7 +322,7 @@ level: OBM Nível 1
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q08]]
+[[Quesiti/src_obm_2003_n1_f1#q08|src_obm_2003_n1_f1__Q08]]
 
 
 
@@ -354,7 +354,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > (A) 80 reais (B) 90 reais (C) 100 reais (D) 120 reais (E) 130 reais
 
 **Risposta:** B
-[[src_obm_2003_n1_f1__Q09]]
+[[Quesiti/src_obm_2003_n1_f1#q09|src_obm_2003_n1_f1__Q09]]
 
 
 
@@ -394,7 +394,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > - **(E)** 336 tavoli e 1344 sedie
 
 **Risposta:** E
-[[src_obm_2003_n1_f1__Q10]]
+[[Quesiti/src_obm_2003_n1_f1#q10|src_obm_2003_n1_f1__Q10]]
 
 
 
@@ -411,7 +411,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-![[src_obm_2003_n1_f1__Q11.png]]
+![[src_obm_2003_n1_f1__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -432,10 +432,10 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-![[src_obm_2003_n1_f1__Q11.png]]
+![[src_obm_2003_n1_f1__q11.png]]
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q11]]
+[[Quesiti/src_obm_2003_n1_f1#q11|src_obm_2003_n1_f1__Q11]]
 
 
 
@@ -468,7 +468,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > (A) 20 \quad (B) 30 \quad (C) 45 \quad (D) 60 \quad (E) 75
 
 **Risposta:** D
-[[src_obm_2003_n1_f1__Q12]]
+[[Quesiti/src_obm_2003_n1_f1#q12|src_obm_2003_n1_f1__Q12]]
 
 
 
@@ -485,7 +485,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
-![[src_obm_2003_n1_f1__Q13.png]]
+![[src_obm_2003_n1_f1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -506,10 +506,10 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
-![[src_obm_2003_n1_f1__Q13.png]]
+![[src_obm_2003_n1_f1__q13.png]]
 
 **Risposta:** B
-[[src_obm_2003_n1_f1__Q13]]
+[[Quesiti/src_obm_2003_n1_f1#q13|src_obm_2003_n1_f1__Q13]]
 
 
 
@@ -524,7 +524,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) $\dfrac{2}{5}$ \quad (B) $\dfrac{11}{25}$ \quad (C) $\dfrac{12}{25}$ \quad (D) $\dfrac{13}{25}$ \quad (E) $\dfrac{3}{5}$
 
-![[src_obm_2003_n1_f1__Q14.png]]
+![[src_obm_2003_n1_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -543,10 +543,10 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) $\dfrac{2}{5}$ \quad (B) $\dfrac{11}{25}$ \quad (C) $\dfrac{12}{25}$ \quad (D) $\dfrac{13}{25}$ \quad (E) $\dfrac{3}{5}$
 
-![[src_obm_2003_n1_f1__Q14.png]]
+![[src_obm_2003_n1_f1__q14.png]]
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q14]]
+[[Quesiti/src_obm_2003_n1_f1#q14|src_obm_2003_n1_f1__Q14]]
 
 
 
@@ -561,7 +561,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 1.5 \quad (B) 2.5 \quad (C) 2.7 \quad (D) 2.75 \quad (E) 3
 
-![[src_obm_2003_n1_f1__Q15.png]]
+![[src_obm_2003_n1_f1__q15.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -579,10 +579,10 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 1,5 \quad (B) 2,5 \quad (C) 2,7 \quad (D) 2,75 \quad (E) 3
 
-![[src_obm_2003_n1_f1__Q15.png]]
+![[src_obm_2003_n1_f1__q15.png]]
 
 **Risposta:** C
-[[src_obm_2003_n1_f1__Q15]]
+[[Quesiti/src_obm_2003_n1_f1#q15|src_obm_2003_n1_f1__Q15]]
 
 
 
@@ -614,7 +614,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > (A) 1 min 20 s \quad (B) 1 min 24 s \quad (C) 1 min 30 s \quad (D) 1 min 40 s \quad (E) 2 min
 
 **Risposta:** B
-[[src_obm_2003_n1_f1__Q16]]
+[[Quesiti/src_obm_2003_n1_f1#q16|src_obm_2003_n1_f1__Q16]]
 
 
 
@@ -629,7 +629,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
-![[src_obm_2003_n1_f1__Q17.png]]
+![[src_obm_2003_n1_f1__q17.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -648,10 +648,10 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > 
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
-![[src_obm_2003_n1_f1__Q17.png]]
+![[src_obm_2003_n1_f1__q17.png]]
 
 **Risposta:** D
-[[src_obm_2003_n1_f1__Q17]]
+[[Quesiti/src_obm_2003_n1_f1#q17|src_obm_2003_n1_f1__Q17]]
 
 
 
@@ -692,7 +692,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > - **(E)** 41 32 33 24 15 16 18
 
 **Risposta:** D
-[[src_obm_2003_n1_f1__Q18]]
+[[Quesiti/src_obm_2003_n1_f1#q18|src_obm_2003_n1_f1__Q18]]
 
 
 
@@ -743,7 +743,7 @@ Quante cellule ha segnato Camila nel gioco da tavolo con Lara
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Risposta:** B
-[[src_obm_2003_n1_f1__Q19]]
+[[Quesiti/src_obm_2003_n1_f1#q19|src_obm_2003_n1_f1__Q19]]
 
 
 
@@ -784,4 +784,4 @@ Quante cellule ha segnato Camila nel gioco da tavolo con Lara
 > - **(E)** la distanza dalla Terra alla Luna, che è molto maggiore di tutte le alternative precedenti.
 
 **Risposta:** D
-[[src_obm_2003_n1_f1__Q20]]
+[[Quesiti/src_obm_2003_n1_f1#q20|src_obm_2003_n1_f1__Q20]]

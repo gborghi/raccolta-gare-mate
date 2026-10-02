@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri $n$ (positivi o negativi) per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
 
-[[src_bmo_2011-12_round1__Q01]]
+[[Quesiti/src_bmo_2011-12_round1#q01|src_bmo_2011-12_round1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: BMO Round 1
 
 > Considerate i numeri $1, 2, \ldots, k$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i numeri adiacenti si dividano tra loro.
 
-[[src_bmo_2011-12_round1__Q02]]
+[[Quesiti/src_bmo_2011-12_round1#q02|src_bmo_2011-12_round1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: BMO Round 1
 
 > Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Indicare che l'intersezione (diversi da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
 
-[[src_bmo_2011-12_round1__Q03]]
+[[Quesiti/src_bmo_2011-12_round1#q03|src_bmo_2011-12_round1__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: BMO Round 1
 > 
 > È ora sempre possibile svuotare entrambe le sacche dopo una sequenza finita di operazioni utilizzando solo le operazioni a) e b)?
 
-[[src_bmo_2011-12_round1__Q04]]
+[[Quesiti/src_bmo_2011-12_round1#q04|src_bmo_2011-12_round1__Q04]]
 
 
 
@@ -155,7 +155,7 @@ Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato
 
 > Prova che il prodotto di quattro numeri interi positivi consecutivi non può essere un quadrato perfetto.
 
-[[src_bmo_2011-12_round1__Q05]]
+[[Quesiti/src_bmo_2011-12_round1#q05|src_bmo_2011-12_round1__Q05]]
 
 
 
@@ -182,4 +182,4 @@ Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato
 
 > Che il $ABC$ sia un triangolo acuto. Il piede dell'altitudine da $A$ a $BC$ è $D$. Il piede dell'altitudine da $B$ a $AC$ è $E$. Il piede dell'altitudine da $C$ a $AB$ è $F$. Il punto $P$ è il piede della perpendicolare da $D$ a $EF$. Indicare che $AP$ bisecta $BC$.
 
-[[src_bmo_2011-12_round1__Q06]]
+[[Quesiti/src_bmo_2011-12_round1#q06|src_bmo_2011-12_round1__Q06]]

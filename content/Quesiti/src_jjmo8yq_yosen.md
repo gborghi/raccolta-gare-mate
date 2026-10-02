@@ -33,7 +33,7 @@ level: JJMO Yosen
 
 > C'è un intero positivo a due cifre. Quando viene moltiplicato per $7$, diventa un numero a tre cifre. Quando viene moltiplicato di nuovo per $7$, è ancora un numero a tre cifre. Quanti valori sono possibili per il numero intero originale?
 
-[[src_jjmo8yq_yosen__Q01]]
+[[Quesiti/src_jjmo8yq_yosen#q01|src_jjmo8yq_yosen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Yosen
 
 > Ci sono le schede di spade $4$ etichettate con i numeri $1, 2, 3, 4$ (una ciascuna), le schede di cuore $6$ etichettate con i numeri $1, 2, 3, \ldots, 6$ (una ciascuna) e le schede di diamante $8$ etichettate con i numeri $1, 2, 3, \ldots, 8$ (una ciascuna). Quando una carta viene scelta da ciascuna combinazione, per un totale di carte $3$, in quanti modi può essere fatta la scelta in modo che la somma dei numeri sulle carte $3$ scelte sia un multiple di $7$?
 
-[[src_jjmo8yq_yosen__Q02]]
+[[Quesiti/src_jjmo8yq_yosen#q02|src_jjmo8yq_yosen__Q02]]
 
 
 
@@ -73,7 +73,7 @@ level: JJMO Yosen
 
 > There is a square $ABCD$ with side length $3$. Let $P$ be the point dividing $AB$ in the ratio $2:1$. Let $Q, R$ be the points dividing $CD$ in the ratios $1:2$ and $2:1$ respectively. Let $S, T$ be the points dividing $DA$ in the ratios $1:2$ and $2:1$ respectively. Let $U$ be the intersection of line $PR$ and line $QT$, and let $V$ be the intersection of line $SU$ and line $BC$. Find the length of segment $BV$.
 
-![[src_jjmo8yq_yosen__Q03.png]]
+![[src_jjmo8yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -89,9 +89,9 @@ level: JJMO Yosen
 
 > C'è un quadrato $ABCD$ con lunghezza laterale $3$. $P$ sia il punto di divisione $AB$ nel rapporto $2:1$. $Q, R$ siano i punti che dividono $CD$ nei rapporti $1:2$ e $2:1$ rispettivamente. $S, T$ siano i punti che dividono $DA$ nei rapporti $1:2$ e $2:1$ rispettivamente. Il $U$ è l'intersezione della linea $PR$ e della linea $QT$, e il $V$ è l'intersezione della linea $SU$ e della linea $BC$. Trova la lunghezza del segmento $BV$.
 
-![[src_jjmo8yq_yosen__Q03.png]]
+![[src_jjmo8yq_yosen__q03.png]]
 
-[[src_jjmo8yq_yosen__Q03]]
+[[Quesiti/src_jjmo8yq_yosen#q03|src_jjmo8yq_yosen__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: JJMO Yosen
 
 > Esistono numeri interi positivi a tre cifre $m, n$ in modo tale che $m$ e $n$ differiscono esattamente in una cifra (nella stessa posizione). Inoltre, $n$ è un multiple di $m$. Quante coppie $(m, n)$ sono possibili?
 
-[[src_jjmo8yq_yosen__Q04]]
+[[Quesiti/src_jjmo8yq_yosen#q04|src_jjmo8yq_yosen__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: JJMO Yosen
 
 > È noto che il numero di coppie $(m, n)$ di integri positivi al massimo $100$ soddisfa $m < \sqrt{2}\,n < 2m$ è esattamente $2958$. Quante coppie $(m, n)$ di integri positivi al massimo $100$ soddisfano $\sqrt{2}\,n < m$?
 
-[[src_jjmo8yq_yosen__Q05]]
+[[Quesiti/src_jjmo8yq_yosen#q05|src_jjmo8yq_yosen__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: JJMO Yosen
 
 > C'è una scala di equilibrio. Sul pannello sinistro ci sono pesi di massa $22, 24, 26, 28$ (uno ciascuno) e sul pannello destro ci sono pesi di massa $23, 25, 27, 29$ (uno ciascuno). La padella la cui massa totale dei pesi su di essa è più grande punta verso il basso; quando i totali sono uguali, la scala si bilancia. A ogni momento, un peso viene rimosso dalla padella che è attualmente inclinata verso il basso; questo viene ripetuto fino a quando la scala si bilancia. In quanti modi si possono effettuare le rimozioni in modo che, al momento in cui le bilanci della bilancia sono state eliminate tutte le pesate?
 
-[[src_jjmo8yq_yosen__Q06]]
+[[Quesiti/src_jjmo8yq_yosen#q06|src_jjmo8yq_yosen__Q06]]
 
 
 
@@ -185,7 +185,7 @@ level: JJMO Yosen
 
 > There is a regular heptagon $ABCDEFG$ with side length $1$. The points $P, Q, R, S$ lie on segments $AB, BC, CD, EF$ respectively, and satisfy $BP = CQ = DR = FS = \frac{1}{3}$. Let $T$ be the intersection of segment $PR$ and segment $QS$. Find the measure of $\angle PTS$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo8yq_yosen__Q07.png]]
+![[src_jjmo8yq_yosen__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -201,9 +201,9 @@ level: JJMO Yosen
 
 > C' è un heptagone regolare $ABCDEFG$ con lunghezza laterale $1$. I punti $P, Q, R, S$ si trovano rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Il segmento $T$ è l'intersezione del segmento $PR$ e del segmento $QS$. Trova la misura di $\angle PTS$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jjmo8yq_yosen__Q07.png]]
+![[src_jjmo8yq_yosen__q07.png]]
 
-[[src_jjmo8yq_yosen__Q07]]
+[[Quesiti/src_jjmo8yq_yosen#q07|src_jjmo8yq_yosen__Q07]]
 
 
 
@@ -221,7 +221,7 @@ level: JJMO Yosen
 > \end{itemize}
 > How many possible results of the filling are there? (Note: a number may be written two or more times in the right grid, and some numbers need not be written at all.)
 
-![[src_jjmo8yq_yosen__Q08.png]]
+![[src_jjmo8yq_yosen__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -237,9 +237,9 @@ level: JJMO Yosen
 
 > A sinistra è una griglia di righe $4$ e colonne $3$, e a destra è una griglia di righe $3$ e colonne $4$. La griglia sinistra è riempita di numeri come mostrato di seguito, riga per riga: $1,2,3$ / $4,5,6$ / $7,8,9$ / $10,11,12$. La griglia destra è inizialmente vuota. In ogni cella della griglia destra scrivere un intero tra $1$ e $12$ inclusi, in modo che si applichino le seguenti due condizioni: \begin{itemize} \item Se $n$ e $m$ sono scritte nella stessa riga della griglia destra, allora nella griglia sinistra $n$ è anche scritto nella stessa riga come $m$. \item Se $n$ e $m$ sono scritte nella stessa colonna della griglia destra, nella griglia sinistra $n$ è anche scritta nella stessa colonna di $m$. Quanti possibili risultati del riempimento ci sono? (Nota: un numero può essere scritto due o più volte nella griglia destra, e alcuni numeri non devono essere scritti affatto.)
 
-![[src_jjmo8yq_yosen__Q08.png]]
+![[src_jjmo8yq_yosen__q08.png]]
 
-[[src_jjmo8yq_yosen__Q08]]
+[[Quesiti/src_jjmo8yq_yosen#q08|src_jjmo8yq_yosen__Q08]]
 
 
 
@@ -266,7 +266,7 @@ level: JJMO Yosen
 
 > Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di integri positivi $n$ al massimo $999$ che soddisfano $S(9n) = 27$.
 
-[[src_jjmo8yq_yosen__Q09]]
+[[Quesiti/src_jjmo8yq_yosen#q09|src_jjmo8yq_yosen__Q09]]
 
 
 
@@ -293,7 +293,7 @@ level: JJMO Yosen
 
 > Trenta studenti hanno fatto un test composto da problemi $3$. Risolvere correttamente i problemi vale rispettivamente $1$ punti, $2$ punti e $4$ punti, e una risposta errata vale $0$ punti. Dato che, nei risultati dei test, ciascuno dei problemi $3$ è stato risolto correttamente da studenti $10$, quante possibilità ci sono per la raccolta dei punteggi $30$ degli studenti? (Le collezioni che differiscono solo nell'ordine dei punteggi sono considerate uguali.)
 
-[[src_jjmo8yq_yosen__Q10]]
+[[Quesiti/src_jjmo8yq_yosen#q10|src_jjmo8yq_yosen__Q10]]
 
 
 
@@ -320,7 +320,7 @@ level: JJMO Yosen
 
 > Quanti triples $(a, b, c)$ di numeri interi positivi al massimo $2010$ esistono tali che $a + b + c$ sia un multiple di ciascuno di $a$, $b$ e $c$? (I tre numeri in cui i tre numeri figurano in ordini diversi vengono contati come distinti.)
 
-[[src_jjmo8yq_yosen__Q11]]
+[[Quesiti/src_jjmo8yq_yosen#q11|src_jjmo8yq_yosen__Q11]]
 
 
 
@@ -347,4 +347,4 @@ level: JJMO Yosen
 
 > C'è un triangolo $ABC$ con $\angle BAC = 60^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ incontrano la parte $AC$ e $AB$ rispettivamente ai punti $P$ e $Q$. Il $r_1$ deve essere il raggio del triangolo $ABC$ e il $r_2$ deve essere il raggio del triangolo $APQ$. Esprimere il radio circundante del triangolo $APQ$ in termini di $r_1$ e $r_2$.
 
-[[src_jjmo8yq_yosen__Q12]]
+[[Quesiti/src_jjmo8yq_yosen#q12|src_jjmo8yq_yosen__Q12]]

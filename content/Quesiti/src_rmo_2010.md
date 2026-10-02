@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCDEF$ be a convex hexagon in which the diagonals $AD$, $BE$, $CF$ are concurrent at $O$. Suppose the area of triangle $OAF$ is the geometric mean of those of $OAB$ and $OEF$; and the area of triangle $OBC$ is the geometric mean of those of $OAB$ and $OCD$. Prove that the area of triangle $OED$ is the geometric mean of those of $OCD$ and $OEF$.
 
-![[src_rmo_2010__Q01.png]]
+![[src_rmo_2010__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,9 +35,9 @@ level: RMO
 
 > Il $ABCDEF$ deve essere un esagono converso in cui le diagonali $AD$, $BE$, $CF$ sono simultanee a $O$. Supponiamo che la superficie del triangolo $OAF$ sia la media geometrica di quelle di $OAB$ e $OEF$; e che la superficie del triangolo $OBC$ sia la media geometrica di quelle di $OAB$ e $OCD$. Prova che l'area del triangolo $OED$ è la media geometrica di quelle di $OCD$ e $OEF$.
 
-![[src_rmo_2010__Q01.png]]
+![[src_rmo_2010__q01.png]]
 
-[[src_rmo_2010__Q01]]
+[[Quesiti/src_rmo_2010#q01|src_rmo_2010__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: RMO
 
 > Lasciate che $P_1(x) = ax^2 - bx - c$, $P_2(x) = bx^2 - cx - a$, $P_3(x) = cx^2 - ax - b$ siano tre polinomi quadratici dove $a, b, c$ sono numeri reali non zero. Supponiamo che esista un numero reale $\alpha$ tale che $P_1(\alpha) = P_2(\alpha) = P_3(\alpha)$. Prove che $a = b = c$.
 
-[[src_rmo_2010__Q02]]
+[[Quesiti/src_rmo_2010#q02|src_rmo_2010__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: RMO
 > Trova il numero di numeri a 4 cifre (in base 10) che non hanno cifre zero e che sono divisibili per 4 ma non per 8.
 
 **Risposta:** 729
-[[src_rmo_2010__Q03]]
+[[Quesiti/src_rmo_2010#q03|src_rmo_2010__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: RMO
 
 > Trovare tre diversi interi positivi con la somma minima possibile in modo tale che la somma dei reciproci di due interi tra loro sia un multiple integrale del reciproco del terzo intero.
 
-[[src_rmo_2010__Q04]]
+[[Quesiti/src_rmo_2010#q04|src_rmo_2010__Q04]]
 
 
 
@@ -133,7 +133,7 @@ level: RMO
 
 > Let $ABC$ be a triangle in which $\angle A = 60^\circ$. Let $BE$ and $CF$ be the bisectors of the angles $\angle B$ and $\angle C$ with $E$ on $AC$ and $F$ on $AB$. Let $M$ be the reflection of $A$ in the line $EF$. Prove that $M$ lies on $BC$.
 
-![[src_rmo_2010__Q05.png]]
+![[src_rmo_2010__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -149,9 +149,9 @@ level: RMO
 
 > $ABC$ sia un triangolo in cui $\angle A = 60^\circ$. I segmenti $BE$ e $CF$ siano i bisettori degli angoli $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Il $M$ deve essere il riflesso di $A$ nella riga $EF$. Provare che $M$ si trova su $BC$.
 
-![[src_rmo_2010__Q05.png]]
+![[src_rmo_2010__q05.png]]
 
-[[src_rmo_2010__Q05]]
+[[Quesiti/src_rmo_2010#q05|src_rmo_2010__Q05]]
 
 
 
@@ -178,4 +178,4 @@ level: RMO
 
 > Per ogni numero intero $n \ge 1$, definire $a_n = \left[\dfrac{n}{[\sqrt{n}]}\right]$, dove $[x]$ indica il numero intero più grande non superiore a $x$. Trova il numero di tutti $n$ nell'insieme $\{1, 2, 3, \ldots, 2010\}$ per il quale $a_n = a_{n+1}$.
 
-[[src_rmo_2010__Q06]]
+[[Quesiti/src_rmo_2010#q06|src_rmo_2010__Q06]]

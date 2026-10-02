@@ -52,7 +52,7 @@ level: kangourou
 > E) 10
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q01|src_kangourou_2018_junior_marzo__Q01]]
 
 
 
@@ -99,7 +99,7 @@ level: kangourou
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2018_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q02|src_kangourou_2018_junior_marzo__Q02]]
 
 
 
@@ -150,7 +150,7 @@ level: kangourou
 > E) 100
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q03|src_kangourou_2018_junior_marzo__Q03]]
 
 
 
@@ -183,7 +183,7 @@ level: kangourou
 > The sum of five consecutive numbers is 102018. What's the third of the five numbers? A) 102013 B) 52017 C) 102017 D) 22018 E) 2 × 102017
 
 **Answer:** E
-[[src_kangourou_2018_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q04|src_kangourou_2018_junior_marzo__Q04]]
 
 
 
@@ -229,7 +229,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 > E) 42
 
 **Answer:** B
-[[src_kangourou_2018_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q05|src_kangourou_2018_junior_marzo__Q05]]
 
 
 
@@ -278,7 +278,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 > E) 24
 
 **Answer:** B
-[[src_kangourou_2018_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q06|src_kangourou_2018_junior_marzo__Q06]]
 
 
 
@@ -311,7 +311,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 > Adding the 25% from 2018 to the 2018% of 25 what do you get? A) 1009 B) 2016 C) 2018 D) 3027 E) 5045
 
 **Answer:** A
-[[src_kangourou_2018_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q07|src_kangourou_2018_junior_marzo__Q07]]
 
 
 
@@ -360,7 +360,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 > E) 8
 
 **Answer:** B
-[[src_kangourou_2018_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q08|src_kangourou_2018_junior_marzo__Q08]]
 
 
 
@@ -406,7 +406,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 > E) d > 1
 
 **Answer:** E
-[[src_kangourou_2018_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q09|src_kangourou_2018_junior_marzo__Q09]]
 
 
 
@@ -451,7 +451,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 > D) 10 E) 7 and 8 have the same probability. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** A
-[[src_kangourou_2018_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q10|src_kangourou_2018_junior_marzo__Q10]]
 
 
 
@@ -506,7 +506,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 > E) Anywhere between the two buildings.
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q11|src_kangourou_2018_junior_marzo__Q11]]
 
 
 
@@ -558,7 +558,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 >
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q12|src_kangourou_2018_junior_marzo__Q12]]
 
 
 
@@ -605,7 +605,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 > C) 6+ π D) 3π – 2 E) 12
 
 **Answer:** B
-[[src_kangourou_2018_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q13|src_kangourou_2018_junior_marzo__Q13]]
 
 
 
@@ -668,7 +668,7 @@ How many trains to or from Z between 40 trains and 5 cities
 > E) 40
 
 **Answer:** E
-[[src_kangourou_2018_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q14|src_kangourou_2018_junior_marzo__Q14]]
 
 
 
@@ -704,7 +704,7 @@ How many trains to or from Z between 40 trains and 5 cities
 > In a training centre you can study foreign languages, programming and accounting. 35% of those studying a language study English; 13% of the students study a language other than English. No student studies more than one language. What percentage of pupils at the centre study a language? A) 13% B) 20% C) 22% D) 48% E) 65%
 
 **Answer:** B
-[[src_kangourou_2018_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q15|src_kangourou_2018_junior_marzo__Q15]]
 
 
 
@@ -752,7 +752,7 @@ How many trains to or from Z between 40 trains and 5 cities
 > E) 32
 
 **Answer:** A
-[[src_kangourou_2018_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q16|src_kangourou_2018_junior_marzo__Q16]]
 
 
 
@@ -799,7 +799,7 @@ How many trains to or from Z between 40 trains and 5 cities
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q17|src_kangourou_2018_junior_marzo__Q17]]
 
 
 
@@ -842,7 +842,7 @@ How many trains to or from Z between 40 trains and 5 cities
 > D) 20188 E) A number different from the previous one
 
 **Answer:** E
-[[src_kangourou_2018_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q18|src_kangourou_2018_junior_marzo__Q18]]
 
 
 
@@ -883,7 +883,7 @@ How many trains to or from Z between 40 trains and 5 cities
 > D) 190/3 E) 260/3
 
 **Answer:** B
-[[src_kangourou_2018_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q19|src_kangourou_2018_junior_marzo__Q19]]
 
 
 
@@ -920,7 +920,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q20|src_kangourou_2018_junior_marzo__Q20]]
 
 
 
@@ -966,7 +966,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > E) 37, 983, 1002
 
 **Answer:** A
-[[src_kangourou_2018_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q21|src_kangourou_2018_junior_marzo__Q21]]
 
 
 
@@ -1014,7 +1014,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > E) 29
 
 **Answer:** C
-[[src_kangourou_2018_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q22|src_kangourou_2018_junior_marzo__Q22]]
 
 
 
@@ -1063,7 +1063,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2018_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q23|src_kangourou_2018_junior_marzo__Q23]]
 
 
 
@@ -1107,7 +1107,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > The smaller radius of a circular crown is 1, the larger is 9. They want to draw N circles within the circular crown so that • each is tangent to both the circles that delimit the circular crown and • the circles do not have more than one point in common at two to two. The figure next to it, not in scale, illustrates a possible position for one of the N circumferences. What's the greatest possible value for N?
 
 **Answer:** C
-[[src_kangourou_2018_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q24|src_kangourou_2018_junior_marzo__Q24]]
 
 
 
@@ -1176,7 +1176,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 >
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q25|src_kangourou_2018_junior_marzo__Q25]]
 
 
 
@@ -1219,7 +1219,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > Look at the picture: Diana drew a rectangular grid of 12 squares on a square sheet, then blacked out some of the squares, and on each remaining white square she wrote down the number of black squares that share a side with it. Now it does the same thing with a rectangular grid of 2018 squares. What is the maximum value you can get if you add up all the numbers in the grid? A) 1262 B) 2017 C) 2018 D) 3025 E) 3027
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q26|src_kangourou_2018_junior_marzo__Q26]]
 
 
 
@@ -1285,7 +1285,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > E) 4
 
 **Answer:** C
-[[src_kangourou_2018_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q27|src_kangourou_2018_junior_marzo__Q27]]
 
 
 
@@ -1331,7 +1331,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > D) E)
 
 **Answer:** A
-[[src_kangourou_2018_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q28|src_kangourou_2018_junior_marzo__Q28]]
 
 
 
@@ -1376,7 +1376,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > D) 45 E) A different number from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2018_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q29|src_kangourou_2018_junior_marzo__Q29]]
 
 
 
@@ -1444,4 +1444,4 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 > D C D E B B A B
 
 **Answer:** D
-[[src_kangourou_2018_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2018_junior_marzo#q30|src_kangourou_2018_junior_marzo__Q30]]

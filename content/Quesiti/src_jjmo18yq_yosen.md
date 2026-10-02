@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > In right triangle $ABC$, a square is inscribed as shown in the figure. The three numbers written inside the figure represent the areas of the three right triangles formed by the sides of the square. Find $\dfrac{AB}{AC}$. Here $XY$ denotes the length of segment $XY$.
 
-![[src_jjmo18yq_yosen__Q01.png]]
+![[src_jjmo18yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -36,10 +36,10 @@ level: JJMO Yosen
 
 > Nel triangolo rettangolo $ABC$, è inserito un quadrato come mostrato nella figura. I tre numeri scritti all'interno della figura rappresentano le aree dei tre triangoli rettangolari formati dai lati del quadrato. Trova $\dfrac{AB}{AC}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jjmo18yq_yosen__Q01.png]]
+![[src_jjmo18yq_yosen__q01.png]]
 
 **Risposta:** \dfrac{3}{5}
-[[src_jjmo18yq_yosen__Q01]]
+[[Quesiti/src_jjmo18yq_yosen#q01|src_jjmo18yq_yosen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JJMO Yosen
 > Lasciate che $a, b$ siano numeri interi positivi. Tra tutte le coppie $(a, b)$ in modo tale che la somma di tutti gli integri da $a$ a $b$ (inclusivo) sia uguale a $2020$, si trovano tutte le coppie $(a, b)$ per le quali $a$ è il più piccolo possibile.
 
 **Risposta:** (31,\,70)
-[[src_jjmo18yq_yosen__Q02]]
+[[Quesiti/src_jjmo18yq_yosen#q02|src_jjmo18yq_yosen__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: JJMO Yosen
 > Tra i numeri interi positivi, un numero è chiamato palindromo (回文数) se si legge lo stesso avanti e indietro. Tra i palindromi tra $1$ e $10000$ (inclusi), si contano quelli che non sono multipli di $10$.
 
 **Risposta:** 107
-[[src_jjmo18yq_yosen__Q03]]
+[[Quesiti/src_jjmo18yq_yosen#q03|src_jjmo18yq_yosen__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: JJMO Yosen
 
 > A right isosceles triangle is circumscribed about four unit squares (each with side length $1$) arranged in a $2 \times 2$ square, as shown in the figure. Find the area of the right isosceles triangle.
 
-![[src_jjmo18yq_yosen__Q04.png]]
+![[src_jjmo18yq_yosen__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -127,10 +127,10 @@ level: JJMO Yosen
 
 > Un triangolo a destra è circoscritto in circa quattro quadrati unitari (ciascuno con lunghezza laterale $1$) disposti in un quadrato $2 \times 2$, come mostrato nella figura. Trova l'area del triangolo a destra.
 
-![[src_jjmo18yq_yosen__Q04.png]]
+![[src_jjmo18yq_yosen__q04.png]]
 
 **Risposta:** \dfrac{169}{20}
-[[src_jjmo18yq_yosen__Q04]]
+[[Quesiti/src_jjmo18yq_yosen#q04|src_jjmo18yq_yosen__Q04]]
 
 
 
@@ -159,7 +159,7 @@ level: JJMO Yosen
 > In isoceles trapezoide $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. $P$ e $Q$ siano rispettivamente i punti medi delle diagonali $AC$ e $BD$. Trova la lunghezza $PQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** \dfrac{7}{2}
-[[src_jjmo18yq_yosen__Q05]]
+[[Quesiti/src_jjmo18yq_yosen#q05|src_jjmo18yq_yosen__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: JJMO Yosen
 
 > Consider the solid $Q$ obtained from a $5 \times 5 \times 5$ cube by removing one unit cube from each of its $8$ corners. Also consider the L-shaped block $L$ made of $4$ unit cubes (as shown) and individual unit cubes (side length $1$). When $Q$ is partitioned into copies of $L$ and individual unit cubes, find the maximum possible number of $L$-blocks used.
 
-![[src_jjmo18yq_yosen__Q06.png]]
+![[src_jjmo18yq_yosen__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -189,10 +189,10 @@ level: JJMO Yosen
 
 > Considera il solido $Q$ ottenuto da un cubo $5 \times 5 \times 5$ rimuovendo un cubo unitario da ciascun angolo $8$. Considera inoltre il blocco a forma di L $L$ costituito da cubetti unitari $4$ (come mostrato) e singoli cubetti unitari (lenghezza laterale $1$). Quando $Q$ è suddiviso in copie di $L$ e singoli cubetti unitari, trovare il numero massimo possibile di blocchi $L$ utilizzati.
 
-![[src_jjmo18yq_yosen__Q06.png]]
+![[src_jjmo18yq_yosen__q06.png]]
 
 **Risposta:** 27
-[[src_jjmo18yq_yosen__Q06]]
+[[Quesiti/src_jjmo18yq_yosen#q06|src_jjmo18yq_yosen__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: JJMO Yosen
 
 > Consider two types of tiles: tile $L$ consisting of $3$ unit squares in an L-shape, and tile $X$ consisting of $5$ unit squares in a plus ($+$) shape. There are $12$ copies of $L$ and $4$ copies of $X$ available. A certain figure consisting of $30$ unit squares (shaded region shown) is to be covered completely without overlapping using these tiles. Tiles may be rotated or flipped; however, arrangements that would coincide after rotating or flipping the entire board are counted as distinct. Find the number of ways to tile the figure.
 
-![[src_jjmo18yq_yosen__Q07.png]]
+![[src_jjmo18yq_yosen__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
@@ -222,10 +222,10 @@ level: JJMO Yosen
 
 > Consideriamo due tipi di piastrelle: piastrelle $L$ costituite da quadrati di unità $3$ in forma L e piastrelle $X$ costituite da quadrati di unità $5$ in forma più ($+$). Sono disponibili $12$ copie di $L$ e $4$ copie di $X$. Una certa figura costituita da quadrati unitari $30$ (regione ombrata mostrata) deve essere completamente coperta senza sovrapposizioni utilizzando queste piastrelle. Le piastrelle possono essere ruotate o volte; tuttavia, le disposizioni che coincidono dopo aver ruotato o volto l'intera lavagna sono considerate come distinte. Trova il numero di modi per tessere la figura.
 
-![[src_jjmo18yq_yosen__Q07.png]]
+![[src_jjmo18yq_yosen__q07.png]]
 
 **Risposta:** 24
-[[src_jjmo18yq_yosen__Q07]]
+[[Quesiti/src_jjmo18yq_yosen#q07|src_jjmo18yq_yosen__Q07]]
 
 
 
@@ -255,7 +255,7 @@ level: JJMO Yosen
 > Trovare tutti i tripli di numeri interi positivi $(l, m, n)$ con $1 \le m \le n$ soddisfacente $$l^2 + mn = m^2 + ln \quad \text{and} \quad n^2 + lm = 2020.$$
 
 **Risposta:** (16,16,42),\;(24,24,38),\;(2,42,44)
-[[src_jjmo18yq_yosen__Q08]]
+[[Quesiti/src_jjmo18yq_yosen#q08|src_jjmo18yq_yosen__Q08]]
 
 
 
@@ -271,7 +271,7 @@ level: JJMO Yosen
 > (ii) Exactly one pair of adjacent tiles together forms an equilateral triangle of side $\tfrac{1}{2}$ (i.e., exactly $2$ tiles share a longest edge).
 > Tiles may be rotated or flipped; tilings that differ by a rotation or reflection of the whole hexagon are counted as distinct.
 
-![[src_jjmo18yq_yosen__Q09.png]]
+![[src_jjmo18yq_yosen__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]]
@@ -288,10 +288,10 @@ level: JJMO Yosen
 
 > Un esagono regolare con lunghezza laterale $1$ è diviso in triangoli equilaterali di lunghezza laterale $\tfrac{1}{2}$. I punti $10$ segnati nella figura sono chiamati punti buoni. Ci sono piastrelle $12$ ciascuna con forma di triangolo obtuso (occupando una piccola cella triangolare), che insieme coprono l'esagono senza lacune o sovrapposizioni. Tra tutte queste piastrelle si contano quelle che soddisfano entrambe le seguenti condizioni: (i) almeno una piastrella ha un buon punto in uno dei suoi vertici acuti. (ii) Esattamente una coppia di piastrelle adiacenti insieme forma un triangolo equilaterale di lato $\tfrac{1}{2}$ (cioè, esattamente $2$ piastrelle condividono il bordo più lungo). Le piastrelle possono essere ruotate o volte; le piastrelle che differiscono per rotazione o riflessione dell'intero esagono sono considerate distinte.
 
-![[src_jjmo18yq_yosen__Q09.png]]
+![[src_jjmo18yq_yosen__q09.png]]
 
 **Risposta:** 22
-[[src_jjmo18yq_yosen__Q09]]
+[[Quesiti/src_jjmo18yq_yosen#q09|src_jjmo18yq_yosen__Q09]]
 
 
 
@@ -320,7 +320,7 @@ level: JJMO Yosen
 > Il triangolo $ABC$ ha lunghezze laterali interi. I punti $B$, $D$, $E$, $C$ si trovano in questo ordine sul lato $BC$, con $BD = 4$ e $EC = 7$. Un cerchio passa attraverso $D$ e $E$ ed è tangente a lato $AB$ e lato $AC$. Trova il valore minimo possibile del perimetro $AB + BC + CA$ del triangolo $ABC$.
 
 **Risposta:** 66
-[[src_jjmo18yq_yosen__Q10]]
+[[Quesiti/src_jjmo18yq_yosen#q10|src_jjmo18yq_yosen__Q10]]
 
 
 
@@ -349,7 +349,7 @@ level: JJMO Yosen
 > C'è una griglia $8 \times 8$; ogni cella contiene una moneta. Ogni moneta mostra bianco (faccia in su) o nero (faccia in su). Inizialmente tutte le monete mostrano nero. Una operazione avviene come segue: il giocatore $A$ seleziona i quadrati $5$ in una singola riga; il giocatore $B$ seleziona quindi $1$ di quei quadrati $5$, e tutte le monete $8$ della riga contenente quel quadrato e tutte le monete $8$ della colonna contenente quel quadrato vengono volte (la moneta all'incrocio viene volta una volta). Dopo $2020$ tali operazioni, trovare il numero massimo possibile di monete attese mostrando nero (faccia su), dove il giocatore $A$ sceglie la propria strategia per massimizzare questo valore atteso.
 
 **Risposta:** 50
-[[src_jjmo18yq_yosen__Q11]]
+[[Quesiti/src_jjmo18yq_yosen#q11|src_jjmo18yq_yosen__Q11]]
 
 
 
@@ -378,4 +378,4 @@ level: JJMO Yosen
 > Trova tutti i quadrupli $(a, b, c, d)$ di numeri interi positivi che soddisfano $1 \le a < b < c < d \le 9$ in modo tale che nessuna delle somme del sottoinsieme $\binom{4}{1} + \binom{4}{2} + \binom{4}{3} + \binom{4}{4} = 15$ formate scegliendo gli elementi $1$, $2$, $3$ o $4$ da $\{a, b, c, d\}$ sia un multiple di $24$.
 
 **Risposta:** (1,2,3,8),\;(1,3,8,9),\;(2,4,6,9)
-[[src_jjmo18yq_yosen__Q12]]
+[[Quesiti/src_jjmo18yq_yosen#q12|src_jjmo18yq_yosen__Q12]]

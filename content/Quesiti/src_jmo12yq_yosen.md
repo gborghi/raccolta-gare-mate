@@ -35,7 +35,7 @@ level: JMO Yosen
 > Considerate i numeri naturali a 3 cifre da $100$ a $999$. Tra questi, quanti numeri, come $202$ o $999$, hanno la cifra centinaia uguale alla cifra di unità?
 
 **Risposta:** 90
-[[src_jmo12yq_yosen__Q01]]
+[[Quesiti/src_jmo12yq_yosen#q01|src_jmo12yq_yosen__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: JMO Yosen
 > Tra i numeri interi tra $1$ e $14$ inclusi, scegliere due numeri distinti. Quante coppie di due numeri esistono tali che il valore assoluto della loro differenza sia al massimo $3$? Qui, scegliere i due numeri in entrambi gli ordini è considerato come la stessa coppia.
 
 **Risposta:** 36
-[[src_jmo12yq_yosen__Q02]]
+[[Quesiti/src_jmo12yq_yosen#q02|src_jmo12yq_yosen__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: JMO Yosen
 > Considerate i numeri naturali a 5 cifre in cui ogni cifra è uno di $1, 2, 3$. Tra questi numeri naturali, quanti in totale sono divisibili per $3$?
 
 **Risposta:** 81
-[[src_jmo12yq_yosen__Q03]]
+[[Quesiti/src_jmo12yq_yosen#q03|src_jmo12yq_yosen__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: JMO Yosen
 > Quante volte il volume di un tetraedro regolare con lunghezza di bordo $1$ è il volume di un ottaedro regolare con lunghezza di bordo $1$?
 
 **Risposta:** 4
-[[src_jmo12yq_yosen__Q04]]
+[[Quesiti/src_jmo12yq_yosen#q04|src_jmo12yq_yosen__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: JMO Yosen
 
 > $m$ sia un numero naturale. Sia $(m-2)^2$ che $m^2-1$ sono numeri naturali a 3 cifre, e scambiando la cifra di centinaia e la cifra di unità di uno di essi si ottiene l'altro. Trova tutti i valori possibili di $m$.
 
-[[src_jmo12yq_yosen__Q05]]
+[[Quesiti/src_jmo12yq_yosen#q05|src_jmo12yq_yosen__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: JMO Yosen
 
 > Per i numeri reali positivi $x, y$, trovare il valore minimo della seguente espressione: $$x+y+\frac{2}{x+y}+\frac{1}{2xy}.$$
 
-[[src_jmo12yq_yosen__Q06]]
+[[Quesiti/src_jmo12yq_yosen#q06|src_jmo12yq_yosen__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: JMO Yosen
 
 > Esprimere la seguente espressione come una singola frazione irriducibile (una frazione che non può essere ridotta ulteriormente). Quando il suo numeratore è diviso per $2002$, trova il rimanente. Qui, per un numero naturale $n$, $n!$ indica $1\times 2\times\cdots\times(n-1)\times n$.
 
-[[src_jmo12yq_yosen__Q07]]
+[[Quesiti/src_jmo12yq_yosen#q07|src_jmo12yq_yosen__Q07]]
 
 
 
@@ -232,7 +232,7 @@ level: JMO Yosen
 
 > C'è un triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Abbiamo $\angle BAC : \angle BCA = 2 : 3$, e inoltre $AB + CD = AC$. Trova la misura di $\angle BAC$ in gradi. Qui, per due punti $X, Y$, la lunghezza del segmento $XY$ è indicata da $XY$.
 
-[[src_jmo12yq_yosen__Q08]]
+[[Quesiti/src_jmo12yq_yosen#q08|src_jmo12yq_yosen__Q08]]
 
 
 
@@ -260,7 +260,7 @@ level: JMO Yosen
 
 > Quante coppie di integri $x, y$ soddisfano l'equazione $$xy^2 + xy + x^2 - 2y - 1 = 0?$$
 
-[[src_jmo12yq_yosen__Q09]]
+[[Quesiti/src_jmo12yq_yosen#q09|src_jmo12yq_yosen__Q09]]
 
 
 
@@ -287,7 +287,7 @@ level: JMO Yosen
 
 > Quando le persone $14$ giocano a un torneo rotondo di shogi (ogni persona gioca esattamente una partita contro ciascuna delle altre persone $13$), quante "cicli a tre vie" (sansukumi) possono esserci al massimo? Qui, un "ciclo a tre vie" significa un insieme di persone $3$ che soddisfano la seguente condizione: tra queste persone $3$, i risultati sono tali che ciascuna delle $3$ ha esattamente una vittoria e una sconfitta. Supponiamo che nessuna partita finisca in pareggio.
 
-[[src_jmo12yq_yosen__Q10]]
+[[Quesiti/src_jmo12yq_yosen#q10|src_jmo12yq_yosen__Q10]]
 
 
 
@@ -332,7 +332,7 @@ level: JMO Yosen
 \end{tikzpicture}
 ```
 
-[[src_jmo12yq_yosen__Q11]]
+[[Quesiti/src_jmo12yq_yosen#q11|src_jmo12yq_yosen__Q11]]
 
 
 
@@ -376,4 +376,4 @@ level: JMO Yosen
 > 
 > In queste condizioni, trovare tutti i numeri razionali $x$ che soddisfano $f(x) = 2002$.
 
-[[src_jmo12yq_yosen__Q12]]
+[[Quesiti/src_jmo12yq_yosen#q12|src_jmo12yq_yosen__Q12]]

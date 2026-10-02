@@ -84,7 +84,7 @@ level: kangourou
 > In the figure, O is the center of the circle and the area of the shaded area is. What is the area of the triangle ABC? A) B) 2 C) 5 D) 4 E)
 
 **Answer:** A
-[[src_kangourou_2007_student_marzo__Q01]]
+[[Quesiti/src_kangourou_2007_student_marzo#q01|src_kangourou_2007_student_marzo__Q01]]
 
 
 
@@ -121,7 +121,7 @@ level: kangourou
 > According to some historians, the ancient Egyptians used a rope with two knots to build a right angle. If the length of the rope is 12 meters and one of the knots is at the point X, which is 3 meters from one of the rope heads, how many meters from the other end must the second knot be made to have a right angle in X? A) 3 B) 4 C) 5 D) 6 E) more than 6
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q02]]
+[[Quesiti/src_kangourou_2007_student_marzo#q02|src_kangourou_2007_student_marzo__Q02]]
 
 
 
@@ -159,7 +159,7 @@ level: kangourou
 > For an entrance exam, a student must correctly answer at least 80% of the questions on a questionnaire. So far, Peter has examined 15 questions. He has not answered 5 of them, but he is sure that he has answered the other 10 exactly. If you answer all the remaining questions correctly, you will get exactly 80% of the correct answers. How many questions are in the questionnaire? A) 20 B) 25 C) 30 D) 35 E) 40
 
 **Answer:** B
-[[src_kangourou_2007_student_marzo__Q03]]
+[[Quesiti/src_kangourou_2007_student_marzo#q03|src_kangourou_2007_student_marzo__Q03]]
 
 
 
@@ -193,7 +193,7 @@ level: kangourou
 > How many distinct divisors does 10n have, if you also count 1 and 10n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
 
 **Answer:** A
-[[src_kangourou_2007_student_marzo__Q04]]
+[[Quesiti/src_kangourou_2007_student_marzo#q04|src_kangourou_2007_student_marzo__Q04]]
 
 
 
@@ -241,7 +241,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 29 29 Kang 2007 Kang
 
 **Answer:** E
-[[src_kangourou_2007_student_marzo__Q05]]
+[[Quesiti/src_kangourou_2007_student_marzo#q05|src_kangourou_2007_student_marzo__Q05]]
 
 
 
@@ -331,7 +331,7 @@ level: kangourou
 > The AE segment is divided into 4 equal parts by the points B, C and D. A semicircular of diameter AE shall be drawn above the AE segment while two semicirculars of diameter AD and DE shall be drawn below the same segment respectively (v. (Figure 1). Consider the path from A to E along the upper semicircle and the path along the junction of the two lower semicircles: what is the ratio of the lengths of the two paths, taken in the order? A) 1:2 B) 2:3 C) 1:1 D) 3:2 E)2:1
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q06]]
+[[Quesiti/src_kangourou_2007_student_marzo#q06|src_kangourou_2007_student_marzo__Q06]]
 
 
 
@@ -365,7 +365,7 @@ level: kangourou
 > A cone and a circular cylinder, both of height h and with the bases of radius r, are in such a position that the volume of the portion of the cone contained in the cylinder is exactly half the volume of the cone. What fraction of the volume of the cylinder provides the volume of the part of the cylinder contained in the cone? A) 1/2 B) 1/3 C) 1/4 D) 1/5 E) 1/6
 
 **Answer:** E
-[[src_kangourou_2007_student_marzo__Q07]]
+[[Quesiti/src_kangourou_2007_student_marzo#q07|src_kangourou_2007_student_marzo__Q07]]
 
 
 
@@ -407,7 +407,7 @@ level: kangourou
 > Of the four walls that delimit a cone, the two sides (opposite) are vertical while the floor and ceiling are parallel to each other, but not perpendicular to the side walls: consequently the vertical section is not a rectangle, but a parallelogram which, observed from the entrance, presents the lowest part on the right. In the middle of the cone, a barrier door is to be constructed which consists of two sections, upper and lower, open one independently of the other. Looking at the entrance, how are the two sections to be anchored? A) Both on the left side. B) Both on the right side. C) The upper one on the left side and the lower one on the right side. D) The upper one on the right side and the lower one on the left side. E) The project is not feasible.
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q08]]
+[[Quesiti/src_kangourou_2007_student_marzo#q08|src_kangourou_2007_student_marzo__Q08]]
 
 
 
@@ -454,7 +454,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 30 30 Kang 2007 Kang
 
 **Answer:** B
-[[src_kangourou_2007_student_marzo__Q09]]
+[[Quesiti/src_kangourou_2007_student_marzo#q09|src_kangourou_2007_student_marzo__Q09]]
 
 
 
@@ -491,7 +491,7 @@ level: kangourou
 > Note the figure: A spider with mathematical skills has woven a spiderweb made up of straight segments, all of whose lengths are whole numbers. How much is x? A) 11 B) 13 C) 15 D) 17 E) 19 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2007_student_marzo__Q10]]
+[[Quesiti/src_kangourou_2007_student_marzo#q10|src_kangourou_2007_student_marzo__Q10]]
 
 
 
@@ -526,7 +526,7 @@ level: kangourou
 > Thomas was born on the day his mother turned 20 and so they celebrate their birthday together. If they both live long enough, how many times will Thomas' age (in years) be a divider of his mother's age? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q11]]
+[[Quesiti/src_kangourou_2007_student_marzo#q11|src_kangourou_2007_student_marzo__Q11]]
 
 
 
@@ -562,7 +562,7 @@ level: kangourou
 > Assigned to a square ABCD of side 1, all squares having at least two vertices in common with ABCD shall be considered. The area of the region of the plane formed by the points belonging to at least one of these squares is A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q12]]
+[[Quesiti/src_kangourou_2007_student_marzo#q12|src_kangourou_2007_student_marzo__Q12]]
 
 
 
@@ -596,7 +596,7 @@ level: kangourou
 > The measure of angle β is 25% less than the measure of angle γ and 50% more than the measure of angle α. We can deduce that the angle γ is A. 25% more than α B. 50% more than α C. 75% more than α D. 100% more than α E. 125% more than α
 
 **Answer:** D
-[[src_kangourou_2007_student_marzo__Q13]]
+[[Quesiti/src_kangourou_2007_student_marzo#q13|src_kangourou_2007_student_marzo__Q13]]
 
 
 
@@ -630,7 +630,7 @@ level: kangourou
 > Assigned the equation 2x +1 + 2x = 3y + 2 - 3y , where x and y are integers, the value x of the solution (x, y) is A) 0 B) 3 C) -1 D) 1 E) 2
 
 **Answer:** B
-[[src_kangourou_2007_student_marzo__Q14]]
+[[Quesiti/src_kangourou_2007_student_marzo#q14|src_kangourou_2007_student_marzo__Q14]]
 
 
 
@@ -693,7 +693,7 @@ level: kangourou
 > I'm going to pay. I'm going to pay. 31 31 Kang 2007 Kang
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q15]]
+[[Quesiti/src_kangourou_2007_student_marzo#q15|src_kangourou_2007_student_marzo__Q15]]
 
 
 
@@ -721,7 +721,7 @@ level: kangourou
 > 16. Answer D . If x is the first of the integers considered we have 5 x + (1+2+3+4) = 3 x +(5+6+7) so 2x = 8 and the number required is x +7 = 11.
 
 **Answer:** D
-[[src_kangourou_2007_student_marzo__Q16]]
+[[Quesiti/src_kangourou_2007_student_marzo#q16|src_kangourou_2007_student_marzo__Q16]]
 
 
 
@@ -757,7 +757,7 @@ Knights and Liars (at least one liar)
 > An island is inhabited only by knights and liars. All knights always tell the truth and all liars always tell the lie. A resident of the island, who we will indicate with A, when asked whether he and another resident of the island, called B, are knights or liars, answers that at least one of them is a liar. Which of the following statements is true? A and B are both liars C A and B are both knights D A is a liar and B is a knight E A is a knight and B is a liar
 
 **Answer:** E
-[[src_kangourou_2007_student_marzo__Q17]]
+[[Quesiti/src_kangourou_2007_student_marzo#q17|src_kangourou_2007_student_marzo__Q17]]
 
 
 
@@ -793,7 +793,7 @@ Knights and Liars (at least one liar)
 > Consider a sphere of radius 3 centered at the origin of an orthogonal three-axis Cartesian system. How many points are on the surface of the sphere that have all the whole coordinates? A) 30 B) 24 C) 12 D) 6 E) 3
 
 **Answer:** A
-[[src_kangourou_2007_student_marzo__Q18]]
+[[Quesiti/src_kangourou_2007_student_marzo#q18|src_kangourou_2007_student_marzo__Q18]]
 
 
 
@@ -825,7 +825,7 @@ Knights and Liars (at least one liar)
 > Which of the following is the graph of the function f defined by
 
 **Answer:** D
-[[src_kangourou_2007_student_marzo__Q19]]
+[[Quesiti/src_kangourou_2007_student_marzo#q19|src_kangourou_2007_student_marzo__Q19]]
 
 
 
@@ -863,7 +863,7 @@ Knights and Liars (at least one liar)
 > Marco and George go to the pool; they dive together and each swims at a constant speed. At the end of the eighth pool Mark reaches George for the first time and overtakes him; if they stop swimming simultaneously, but at the two opposite ends of the pool, which of the following can be the number of pools that Marco has traveled through? A) 36 B) 41 C) 30 D) 40 E) 27 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2007_student_marzo__Q20]]
+[[Quesiti/src_kangourou_2007_student_marzo#q20|src_kangourou_2007_student_marzo__Q20]]
 
 
 
@@ -894,7 +894,7 @@ Knights and Liars (at least one liar)
 > If and f (g (x)) = x, then g (x) = A) B) C) D) E) other function
 
 **Answer:** D
-[[src_kangourou_2007_student_marzo__Q21]]
+[[Quesiti/src_kangourou_2007_student_marzo#q21|src_kangourou_2007_student_marzo__Q21]]
 
 
 
@@ -928,7 +928,7 @@ Knights and Liars (at least one liar)
 > Which of the following numbers can't be written as x? A) 870 B) 110 C) 90 D) 60 E) 30
 
 **Answer:** D
-[[src_kangourou_2007_student_marzo__Q22]]
+[[Quesiti/src_kangourou_2007_student_marzo#q22|src_kangourou_2007_student_marzo__Q22]]
 
 
 
@@ -983,7 +983,7 @@ Knights and Liars (at least one liar)
 > I'm going to pay. I'm going to pay. 32 32 Kang 2007 Kang
 
 **Answer:** B
-[[src_kangourou_2007_student_marzo__Q23]]
+[[Quesiti/src_kangourou_2007_student_marzo#q23|src_kangourou_2007_student_marzo__Q23]]
 
 
 
@@ -1014,7 +1014,7 @@ Knights and Liars (at least one liar)
 > How many real a are such that the quadratic equation x 2 + ax + 2007 = 0 has two whole solutions? A) 3 B) 4 C) 6 D) 8 E) None of the other answers are correct
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q24]]
+[[Quesiti/src_kangourou_2007_student_marzo#q24|src_kangourou_2007_student_marzo__Q24]]
 
 
 
@@ -1048,7 +1048,7 @@ How to exchange gifts without one's own (5 friends)
 > At a party, five friends exchange gifts so that each one makes and receives exactly one gift (and, of course, no one receives their own gift). How many different ways can they do this? A) 5 B) 10 C) 44 D) 50 E) 120
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q25]]
+[[Quesiti/src_kangourou_2007_student_marzo#q25|src_kangourou_2007_student_marzo__Q25]]
 
 
 
@@ -1083,7 +1083,7 @@ How to exchange gifts without one's own (5 friends)
 > The sum is equal to A) 999/1000 B) 99/100 C) 9/10 D) 9 E) 1
 
 **Answer:** C
-[[src_kangourou_2007_student_marzo__Q26]]
+[[Quesiti/src_kangourou_2007_student_marzo#q26|src_kangourou_2007_student_marzo__Q26]]
 
 
 
@@ -1125,7 +1125,7 @@ How to exchange gifts without one's own (5 friends)
 > The sequence numbers 1234512345123451 ... fill the cells on a sheet with a spiral type law, starting from the cell marked (v. (Figure 1). What figure do you find on the cell that is exactly 100 cells above that shaded one? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** A
-[[src_kangourou_2007_student_marzo__Q27]]
+[[Quesiti/src_kangourou_2007_student_marzo#q27|src_kangourou_2007_student_marzo__Q27]]
 
 
 
@@ -1162,7 +1162,7 @@ How to exchange gifts without one's own (5 friends)
 > A positive integer of 5 digits is called a disposable number if it cannot be expressed as the product of two integers of 3 digits each. How long can a sequence of consecutive numbers that are all odd be at most? (a) 11 (b) 49 (c) 51 (d) 101 (e) a value different from the previous one
 
 **Answer:** E
-[[src_kangourou_2007_student_marzo__Q28]]
+[[Quesiti/src_kangourou_2007_student_marzo#q28|src_kangourou_2007_student_marzo__Q28]]
 
 
 
@@ -1199,7 +1199,7 @@ How to exchange gifts without one's own (5 friends)
 > The sequence 1, 3, 4, 9, 10, 12, 13, ... consists of all and only the numbers that are powers of 3 or that can be written as the sum of powers of 3 different from each other, placed in increasing order. What's the hundredth item in the succession? A) 130 B)  981 C) 1234 D) 2401 E) 3100
 
 **Answer:** B
-[[src_kangourou_2007_student_marzo__Q29]]
+[[Quesiti/src_kangourou_2007_student_marzo#q29|src_kangourou_2007_student_marzo__Q29]]
 
 
 
@@ -1267,4 +1267,4 @@ The probability of Carlo winning (given in turns)
 > 1 Student category For students of the last two years of secondary school
 
 **Answer:** D
-[[src_kangourou_2007_student_marzo__Q30]]
+[[Quesiti/src_kangourou_2007_student_marzo#q30|src_kangourou_2007_student_marzo__Q30]]

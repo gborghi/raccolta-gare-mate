@@ -25,7 +25,7 @@ level: OBM Nível 3
 > 
 > Show that lines $AA'$ and $AB'$ divide the angle $\alpha$ into three equal parts.
 
-![[src_obm_2000_n3_f3__Q01.png]]
+![[src_obm_2000_n3_f3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -47,9 +47,9 @@ level: OBM Nível 3
 > 
 > Indicare che le linee $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
 
-![[src_obm_2000_n3_f3__Q01.png]]
+![[src_obm_2000_n3_f3__q01.png]]
 
-[[src_obm_2000_n3_f3__Q01]]
+[[Quesiti/src_obm_2000_n3_f3#q01|src_obm_2000_n3_f3__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: OBM Nível 3
 > 
 > Provare che $n$ è quasi perfetto se e solo se $s(n) = s(n-1)$.
 
-[[src_obm_2000_n3_f3__Q02]]
+[[Quesiti/src_obm_2000_n3_f3#q02|src_obm_2000_n3_f3__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: OBM Nível 3
 > Determinare il numero intero positivo più piccolo $n$ tale che $f(1) + f(2) + \cdots + f(n) \ge 123456$.
 
 **Risposta:** 24710
-[[src_obm_2000_n3_f3__Q03]]
+[[Quesiti/src_obm_2000_n3_f3#q03|src_obm_2000_n3_f3__Q03]]
 
 
 
@@ -148,7 +148,7 @@ level: OBM Nível 3
 > Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrario di semafori senza fermarsi in nessuno di essi?
 
 **Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
-[[src_obm_2000_n3_f3__Q04]]
+[[Quesiti/src_obm_2000_n3_f3#q04|src_obm_2000_n3_f3__Q04]]
 
 
 
@@ -177,7 +177,7 @@ level: OBM Nível 3
 > $X$ sia l'insieme di tutte le sequenze $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ in modo tale che $a_i \in \{0,1,2\}$ per $1 \le i \le 1000$ e $a_i \in \{0,1\}$ per $1001 \le i \le 2000$. Date $\underline{a}$ e $\underline{b}$ in $X$, definire la distanza $d(\underline{a},\underline{b})$ tra $\underline{a}$ e $\underline{b}$ come il numero degli indici $i$, $1 \le i \le 2000$, in modo tale che $a_i \ne b_i$. Determinare il numero di funzioni $f : X \to X$ che preservano la distanza, cioè tale che $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ per tutte le $\underline{a}$ e $\underline{b}$ di $X$.
 
 **Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
-[[src_obm_2000_n3_f3__Q05]]
+[[Quesiti/src_obm_2000_n3_f3#q05|src_obm_2000_n3_f3__Q05]]
 
 
 
@@ -210,4 +210,4 @@ Quanti pezzi un cubo si divide in 28 piani perpendicolari?
 > **Nota:** Dati due punti $A$ e $B$ nello spazio, il piano bisettore perpendicolare di $A$ e $B$ è l'insieme di punti nello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ che attraversa il punto medio di $AB$.
 
 **Risposta:** 96
-[[src_obm_2000_n3_f3__Q06]]
+[[Quesiti/src_obm_2000_n3_f3#q06|src_obm_2000_n3_f3__Q06]]

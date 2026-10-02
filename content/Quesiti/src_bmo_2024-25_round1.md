@@ -41,7 +41,7 @@ level: BMO Round 1
 > 
 > Trova tutte le $n$ nella gamma $3 \le n \le 12$ che sono soddisfatte.
 
-[[src_bmo_2024-25_round1__Q01]]
+[[Quesiti/src_bmo_2024-25_round1#q01|src_bmo_2024-25_round1__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: BMO Round 1
 
 > I numeri $1, 2, \dots, n$ sono scritti su carte $n$, un numero su ciascuna carta. Le carte sono posizionate in un cerchio. (i) Se le carte sono disposte in un ordine particolare, la somma dei numeri su ciascuna coppia di carte vicine è divisibile per $3$. ii) Determinare tutti i valori di $n$ per i quali le carte possono essere posizionate in un cerchio in modo che la somma dei numeri su ciascuna coppia di carte vicine sia divisibile da $3$.
 
-[[src_bmo_2024-25_round1__Q02]]
+[[Quesiti/src_bmo_2024-25_round1#q02|src_bmo_2024-25_round1__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: BMO Round 1
 > 
 > Determine, with proof, who wins the game.
 
-[[src_bmo_2024-25_round1__Q03]]
+[[Quesiti/src_bmo_2024-25_round1#q03|src_bmo_2024-25_round1__Q03]]
 
 
 
@@ -136,7 +136,7 @@ level: BMO Round 1
 > 
 > Prove che $\angle CPB = 90^\circ$.
 
-[[src_bmo_2024-25_round1__Q04]]
+[[Quesiti/src_bmo_2024-25_round1#q04|src_bmo_2024-25_round1__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: BMO Round 1
 
 > Che $p$ sia un numero primo, e che $n$ sia il numero intero positivo più piccolo, strettamente maggiore di $1$, che non è un divisore di $p - 1$. Prova che $(n+1)^k - 1$ e $(n+1)^k - n$ sono divisibili da $p$ per un intero positivo $k$.
 
-[[src_bmo_2024-25_round1__Q05]]
+[[Quesiti/src_bmo_2024-25_round1#q05|src_bmo_2024-25_round1__Q05]]
 
 
 
@@ -194,4 +194,4 @@ level: BMO Round 1
 
 > Bjork ha cubetti di zucchero $64$, ciascuno di dimensioni $1 \times 1 \times 1$. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Ha accumulato i cubetti di zucchero in un cubo $4 \times 4 \times 4$. Dovere che tra i cubetti i cui centri si trovano su una sottolattice allineata all'asse $1 \times 1 \times 1$ devono esistere cubetti di zucchero $12$ dello stesso sapore, che possono essere suddivisi in coppie disgiunte $9$ in modo che i cubetti di ciascuna coppia siano dello stesso colore.
 
-[[src_bmo_2024-25_round1__Q06]]
+[[Quesiti/src_bmo_2024-25_round1#q06|src_bmo_2024-25_round1__Q06]]

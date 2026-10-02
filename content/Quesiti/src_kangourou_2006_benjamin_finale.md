@@ -35,7 +35,7 @@ level: kangourou
 > *(5 points) * The letters of the word "MALE" are all distinct from each other. He makes each letter of this word correspond to a digit so that the word "BLE" represents the smallest number of four digits all distinct from each other. While maintaining this choice of numbers, what number is represented by the word "MALE"?
 
 **Answer:** 1320
-[[src_kangourou_2006_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb1|src_kangourou_2006_benjamin_finale__QB1]]
 
 
 
@@ -63,7 +63,7 @@ level: kangourou
 > *(7 points) * What is the sum of the first 40 numbers of the sequence: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$? (The rule by which the sequence is constructed is as follows: every positive integer, starting with $1$, is repeated consecutively as many times as its value.)
 
 **Answer:** 240
-[[src_kangourou_2006_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb2|src_kangourou_2006_benjamin_finale__QB2]]
 
 
 
@@ -74,7 +74,7 @@ level: kangourou
 
 *Misura angolo NYC tra CM e BN nel quadrato*
 
-![[src_kangourou_2006_benjamin_finale__probB3.png]]
+![[src_kangourou_2006_benjamin_finale__probb3.png]]
 
 ```tikz
 \begin{document}
@@ -115,7 +115,7 @@ level: kangourou
 
 *Measuring the angle NYC between CM and BN in square*
 
-![[src_kangourou_2006_benjamin_finale__probB3.png]]
+![[src_kangourou_2006_benjamin_finale__probb3.png]]
 
 ```tikz
 \begin{document}
@@ -145,7 +145,7 @@ level: kangourou
 > *(11 points) * Note the figure: $ABCD$ is a square, $M$ is the mean point of $AB$ and $N$ is the mean point of $BC$. The segments $AN$ and $BM$ cross in $Y$. What is the angle $NYC$? (see figure)
 
 **Answer:** 90 gradi
-[[src_kangourou_2006_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb3|src_kangourou_2006_benjamin_finale__QB3]]
 
 
 
@@ -174,7 +174,7 @@ level: kangourou
 > *(14 points) * How many 3-digit numbers (significant, i.e. the first digit of which is not 0) are such that 2 of them are not less than 4?
 
 **Answer:** 18
-[[src_kangourou_2006_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb4|src_kangourou_2006_benjamin_finale__QB4]]
 
 
 
@@ -185,7 +185,7 @@ level: kangourou
 
 *Minimo numero di colori per gli spicchi del cerchio*
 
-![[src_kangourou_2006_benjamin_finale__probB5.png]]
+![[src_kangourou_2006_benjamin_finale__probb5.png]]
 
 > *(18 punti)* Un cerchio è stato diviso in un certo numero di spicchi (almeno 4), ad esempio come in figura. Sei stato chiesto di colorare l'interno di ogni spicchio in modo che tra due spicchi di ugual colore ce ne siano sempre almeno due di colore diverso, ma non conosci il numero degli spicchi del cerchio (in figura ne sono 5, solo un esempio). Qual è il più piccolo numero di colori che ti garantisce di riuscire indipendentemente dal numero degli spicchi? (vedi figura)
 
@@ -202,12 +202,12 @@ level: kangourou
 
 *Minimum number of colours for spikes of the circle*
 
-![[src_kangourou_2006_benjamin_finale__probB5.png]]
+![[src_kangourou_2006_benjamin_finale__probb5.png]]
 
 > *(18 points) * A circle has been divided into a number of points (at least 4), for example as shown in Figure 1. You've been asked to color the inside of each spike so that between two spikes of the same color there are always at least two of different color, but you don't know the number of spikes in the circle (in the figure there are 5, just an example). What is the smallest number of colors that guarantees you'll succeed regardless of the number of spots? (see figure)
 
 **Answer:** 5
-[[src_kangourou_2006_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb5|src_kangourou_2006_benjamin_finale__QB5]]
 
 
 
@@ -218,7 +218,7 @@ level: kangourou
 
 *Risultato della somma ORE+ORE+ORE=VIVE*
 
-![[src_kangourou_2006_benjamin_finale__probB6.png]]
+![[src_kangourou_2006_benjamin_finale__probb6.png]]
 
 > *(22 punti)* Nell'operazione indicata a lato ogni lettera rappresenta una cifra; lettere uguali rappresentano cifre uguali e lettere diverse rappresentano cifre diverse; inoltre nessuna lettera rappresenta la cifra 0. Quanto vale il risultato?
 > 
@@ -237,11 +237,11 @@ level: kangourou
 
 *Result of the sum of ORE+ORE+ORE=VIVE*
 
-![[src_kangourou_2006_benjamin_finale__probB6.png]]
+![[src_kangourou_2006_benjamin_finale__probb6.png]]
 
 > *(22 points) * In the side operation each letter represents a digit; equal letters represent equal numbers and different letters represent different numbers; furthermore, no letter represents the digit 0. How much is the result worth?
 > 
 > $$\begin{array}{r} ORE \\ + ORE \\ + ORE \\ \hline VIVE \end{array}$$
 
 **Answer:** 2625
-[[src_kangourou_2006_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb6|src_kangourou_2006_benjamin_finale__QB6]]

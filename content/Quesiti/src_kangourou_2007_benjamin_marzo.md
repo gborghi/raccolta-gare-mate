@@ -39,7 +39,7 @@ This is the total value of the input data for each of the following categories:
 > (2 + 0 + 0 + 7) x 2 x 0 x 0 x 7 = A) 9 B) 1 C) 81 D) 0 E) 2007
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q01]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q01|src_kangourou_2007_benjamin_marzo__Q01]]
 
 
 
@@ -73,7 +73,7 @@ This is the total value of the input data for each of the following categories:
 > Which of the following numbers is exactly divisible by the sum of its digits? A) 2008 B) 2009 C) 2010 D) 2011 E) 2012
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q02]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q02|src_kangourou_2007_benjamin_marzo__Q02]]
 
 
 
@@ -108,7 +108,7 @@ This is the total value of the input data for each of the following categories:
 > Matteo is building a route for the cars by approaching three sections. In order for the cars to finally be ordered as arriving, which of the following elements must replace the central section X?
 
 **Answer:** A
-[[src_kangourou_2007_benjamin_marzo__Q03]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q03|src_kangourou_2007_benjamin_marzo__Q03]]
 
 
 
@@ -143,7 +143,7 @@ This is the total value of the input data for each of the following categories:
 > Elisa has a lot of side cubes. Using all of them, he could build a cube of volume 1 dm3. Instead, if he wanted to build a tower and put them on top of each other, how tall would the tower be? (a) 1 (b) 5 (c) 10 (d) 100 (e) a value different from the previous one
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q04]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q04|src_kangourou_2007_benjamin_marzo__Q04]]
 
 
 
@@ -201,7 +201,7 @@ This is the total value of the input data for each of the following categories:
 > I'm going to pay. I'm going to pay. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
 
 **Answer:** B
-[[src_kangourou_2007_benjamin_marzo__Q05]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q05|src_kangourou_2007_benjamin_marzo__Q05]]
 
 
 
@@ -244,7 +244,7 @@ This is the total value of the input data for each of the following categories:
 > In a factory, two machines A and B deal with square objects. As shown in the figure next to you, machine A places a horizontal line on the squares with respect to the work plan, machine B rotates the squares 45 degrees clockwise. Starting from a square  white in this position , you want to get a product like this . What is the shortest sequence of use of the two machines to achieve this? (a) AB B) BABBB C) BAB D) BBA E) BA
 
 **Answer:** B
-[[src_kangourou_2007_benjamin_marzo__Q06]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q06|src_kangourou_2007_benjamin_marzo__Q06]]
 
 
 
@@ -278,7 +278,7 @@ This is the total value of the input data for each of the following categories:
 > Ada has a cardboard square with a perimeter of 20 centimeters. He cuts it and gets two rectangles, the perimeter of one of which measures 16 centimeters. How many centimetres does the perimeter of the other measure? A) 8 B) 9 C) 12 D) 14 E) 16
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q07]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q07|src_kangourou_2007_benjamin_marzo__Q07]]
 
 
 
@@ -312,7 +312,7 @@ This is the total value of the input data for each of the following categories:
 > 5 letters are removed from the word KANGAROO (some may be repeated), then the remaining letters are written in reverse order. What may be the result? (a) RANK B) OGR C) RNO D) RAN E) ANG
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q08]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q08|src_kangourou_2007_benjamin_marzo__Q08]]
 
 
 
@@ -350,7 +350,7 @@ This is the total value of the input data for each of the following categories:
 > Two squares whose sides measure 9 cm are partially superimposed, as shown in the figure, to form a rectangle whose sides measure 9 cm and 13 cm. How many square centimetres measure the area of the region where the two squares are overlapping? A) 36 B) 45 C) 54 D) 63 E) 72
 
 **Answer:** B
-[[src_kangourou_2007_benjamin_marzo__Q09]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q09|src_kangourou_2007_benjamin_marzo__Q09]]
 
 
 
@@ -399,7 +399,7 @@ This is the total value of the input data for each of the following categories:
 > I'm going to pay. I'm going to pay. 12 12 Kang 2007 Kang 2007 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q10]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q10|src_kangourou_2007_benjamin_marzo__Q10]]
 
 
 
@@ -477,7 +477,7 @@ This is the total value of the input data for each of the following categories:
 > The rows and columns of a 4 x 4 square grid were numbered with the numbers 1, 2, 3 and 4, as shown in the figure. Colour some of the grid boxes in black so that the number of black boxes in each row and column is equal to the number of the corresponding row and column. How many black boxes meet on the diagonal that goes from A to B? A) 1, 2, 3 or 4 depending on how you colored the boxes. B) Exactly 1 C) Exactly 2 D) Exactly 3 E) 1, 2 or 3 depending on how you colored the boxes, but never 4
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q11]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q11|src_kangourou_2007_benjamin_marzo__Q11]]
 
 
 
@@ -518,7 +518,7 @@ This is the total value of the input data for each of the following categories:
 > Cristina has a 27 cm long paper tape. It divides it into 4 rectangles of different sizes and traces two segments so that each of the segments connects the centers of two adjacent rectangles, as shown in the figure. Find the sum of the lengths of the two segments. A) 12 cm B) 13.5 cm C) 14 cm D) 14.5 cm E) the number depends on how the tape is divided
 
 **Answer:** B
-[[src_kangourou_2007_benjamin_marzo__Q12]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q12|src_kangourou_2007_benjamin_marzo__Q12]]
 
 
 
@@ -560,7 +560,7 @@ Where the robot stops in the grid
 > A robot moves by walking inside the figure grid. It starts from position A2 moving in the direction indicated by the arrow and always walks straight until it encounters an obstacle (gray box or edge of the grid): at this point it can only continue by turning to its right and, if it does not find the path open, it must stop. Which box will you stop in? A) B2 B) A1 C) E1 D) D1 E) in none
 
 **Answer:** E
-[[src_kangourou_2007_benjamin_marzo__Q13]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q13|src_kangourou_2007_benjamin_marzo__Q13]]
 
 
 
@@ -596,7 +596,7 @@ Where the robot stops in the grid
 > In the sum represented here next to the same letter it corresponds to the same figure. Find the value corresponding to the letter C A) 0 B) 2 C) 3 D) 6 E) 7
 
 **Answer:** E
-[[src_kangourou_2007_benjamin_marzo__Q14]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q14|src_kangourou_2007_benjamin_marzo__Q14]]
 
 
 
@@ -659,7 +659,7 @@ Where the robot stops in the grid
 > I'm going to pay. I'm going to pay. 13 13 Kang 2007 Kang
 
 **Answer:** E
-[[src_kangourou_2007_benjamin_marzo__Q15]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q15|src_kangourou_2007_benjamin_marzo__Q15]]
 
 
 
@@ -721,7 +721,7 @@ Where the robot stops in the grid
 > A "small" square is inscribed in a "large" as shown in the figure, where the lengths are indicated in meters. The area in square metres of the small square is A) 16 B) 28 C) 34 D) 36 E) 49
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q16]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q16|src_kangourou_2007_benjamin_marzo__Q16]]
 
 
 
@@ -757,7 +757,7 @@ Where the robot stops in the grid
 > EUR 1005 was distributed among the competitors who placed in the top four places of a race. The prize doubles with each placement, so for example the third-placed person wins twice as much as the fourth-placed person. How much does the second-placed person receive? A) 138 B) 140 C) 268 D) 300 E) 301,50
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q17]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q17|src_kangourou_2007_benjamin_marzo__Q17]]
 
 
 
@@ -798,7 +798,7 @@ Where the robot stops in the grid
 > The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken ABC...OP line. How long is the broken ABC...OP? (a) the data are insufficient to answer B) 72 C) 96 D) 56 E) 106
 
 **Answer:** B
-[[src_kangourou_2007_benjamin_marzo__Q18]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q18|src_kangourou_2007_benjamin_marzo__Q18]]
 
 
 
@@ -835,7 +835,7 @@ Where the robot stops in the grid
 > The collection of numbers 1, 2, 3, 4, 5, 6, 7, 8 is divided into two groups that have the same number of elements. You know the sum of the elements is the same in both groups. If numbers 1 and 3 are in the same group, then that group must necessarily contain number A) 2 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q19]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q19|src_kangourou_2007_benjamin_marzo__Q19]]
 
 
 
@@ -871,7 +871,7 @@ Where the robot stops in the grid
 > How long in total, for 24 hours, does at least a digit 2 appear on my digital clock where the hours are from 00:00 to 23:59? A) 3 hours 45 min B) 6 hours 45 min C) 10 hours 30 min D) 6 hours 00 min E) 5 hours 30 min The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q20]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q20|src_kangourou_2007_benjamin_marzo__Q20]]
 
 
 
@@ -930,7 +930,7 @@ Where the robot stops in the grid
 > I'm going to pay. I'm going to pay. 14 14 Kang 2007 Kang 2007
 
 **Answer:** E
-[[src_kangourou_2007_benjamin_marzo__Q21]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q21|src_kangourou_2007_benjamin_marzo__Q21]]
 
 
 
@@ -972,7 +972,7 @@ Where the robot stops in the grid
 > On the long side of a room whose short side measures 10 dm, a door of 10 dm width opens. In the corner adjacent to the one where the door is inserted, a box with a length of 4, 5 and 6 dm is to be placed. Four of the possible positions are outlined in the figure. In which of them must the box be placed so that the door can be opened as much as possible? (a) (b) (c) (d) (e) (c) and (d) are both optimal positions
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q22]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q22|src_kangourou_2007_benjamin_marzo__Q22]]
 
 
 
@@ -1011,7 +1011,7 @@ Where the robot stops in the grid
 > We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3
 
 **Answer:** E
-[[src_kangourou_2007_benjamin_marzo__Q23]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q23|src_kangourou_2007_benjamin_marzo__Q23]]
 
 
 
@@ -1046,7 +1046,7 @@ Where the robot stops in the grid
 > It is assigned a 2-digit number. On your right, we rewrite the same number, so you get a 4-digit number. How many times is the four-digit number so obtained greater than the initial two-digit number? A) 100 B) 101 C) 1000 D) 1001 E) 10
 
 **Answer:** B
-[[src_kangourou_2007_benjamin_marzo__Q24]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q24|src_kangourou_2007_benjamin_marzo__Q24]]
 
 
 
@@ -1087,7 +1087,7 @@ Where the robot stops in the grid
 > In Figure A you can see 4 strips of paper attached, each of which (starting from the second) is more than 25 centimetres longer than the one on the left. The strips are restored as shown in Figure B. How many centimetres is the perimeter of Figure B longer than the perimeter of Figure A? A) 0 B) 25 C) 40 D) 50 E) 75
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q25]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q25|src_kangourou_2007_benjamin_marzo__Q25]]
 
 
 
@@ -1148,7 +1148,7 @@ Where the robot stops in the grid
 > I'm going to pay. I'm going to pay. 15 15 Kang 2007 Kang 2007
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q26]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q26|src_kangourou_2007_benjamin_marzo__Q26]]
 
 
 
@@ -1189,7 +1189,7 @@ Number on the face? (closed data) *
 > A dice is a cube whose faces have been numbered from 1 to 6. The sum of the numbers on two opposite sides is always 7. Using 4 of these dice, all of them equal to each other, Nicholas composes a parallelpipedo as shown in the figure: if two faces match, their two numbers are equal. Figures also show the numbers on some faces. What number shall appear on the face indicated with the question mark? A) 5 B) 6 C) 2 D) 3 E) The data are insufficient
 
 **Answer:** A
-[[src_kangourou_2007_benjamin_marzo__Q27]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q27|src_kangourou_2007_benjamin_marzo__Q27]]
 
 
 
@@ -1230,7 +1230,7 @@ Number on the face? (closed data) *
 > Roberta drew an ABC equilateral triangle with a side of 5 cm as shown in the figure. Her teacher asks her to draw a second triangle, each side parallel to one side of the original triangle and exactly one centimeter away from it. How many different ways can Roberta draw the new triangle she wants? A) 2 B) 3 C) 4 D) 8 E) 10
 
 **Answer:** D
-[[src_kangourou_2007_benjamin_marzo__Q28]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q28|src_kangourou_2007_benjamin_marzo__Q28]]
 
 
 
@@ -1268,7 +1268,7 @@ Number on the face? (closed data) *
 > The two squares ABCD and EFGH shown are equal. The shaded part has area 1. What is the area of the square ABCD? A) 1 B) 2 C) 5/2 D) 3 E) The data are insufficient to answer.
 
 **Answer:** A
-[[src_kangourou_2007_benjamin_marzo__Q29]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q29|src_kangourou_2007_benjamin_marzo__Q29]]
 
 
 
@@ -1327,4 +1327,4 @@ Number on the face? (closed data) *
 > 1 Kangourou of Mathematics 2007 Category Benjamin For first or secondary school students of first grade
 
 **Answer:** C
-[[src_kangourou_2007_benjamin_marzo__Q30]]
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q30|src_kangourou_2007_benjamin_marzo__Q30]]

@@ -37,7 +37,7 @@ level: squadre
 > Decades and units What is the number of decades and the number of units in the result of the sum 92017 + 92018 ?
 
 **Answer:** 0090
-[[src_kangourou_2018_squadre_finale__Q01]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q01|src_kangourou_2018_squadre_finale__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: squadre
 > The quadrilateral In an ABCD quadrilateral, the angles ABD, CBD and CAD all measure 40 degrees. How many degrees does the angle ADC measure?
 
 **Answer:** 0100
-[[src_kangourou_2018_squadre_finale__Q02]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q02|src_kangourou_2018_squadre_finale__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: squadre
 > How many digits Consider all the integers of type 5, 55, 555, 5555, 55555, ... , which is all positive integers whose decimal digit only shows up as 5. How many digits does the smallest of these numbers have that is divisible by 495?
 
 **Answer:** 0018
-[[src_kangourou_2018_squadre_finale__Q03]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q03|src_kangourou_2018_squadre_finale__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: squadre
 > Excessive discount To sell a product in abundance, a retailer reduces its price by 60%. But now he realizes that the discount is too high: the price he should impose is the average between the original and the discounted. By what percentage should the discounted price be increased? (Just write the number, for example, 0003 to indicate 3%.)
 
 **Answer:** 0075
-[[src_kangourou_2018_squadre_finale__Q04]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q04|src_kangourou_2018_squadre_finale__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: squadre
 > Divisors What is the sum of all the positive integers of 2 digits of the number 216  1?
 
 **Answer:** 0168
-[[src_kangourou_2018_squadre_finale__Q05]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q05|src_kangourou_2018_squadre_finale__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: squadre
 > Thirty-four times What is the greatest three-digit integer that is equal to 34 times the sum of its digits?
 
 **Answer:** 0408
-[[src_kangourou_2018_squadre_finale__Q06]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q06|src_kangourou_2018_squadre_finale__Q06]]
 
 
 
@@ -280,7 +280,7 @@ level: squadre
 > 2
 
 **Answer:** 0089
-[[src_kangourou_2018_squadre_finale__Q07]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q07|src_kangourou_2018_squadre_finale__Q07]]
 
 
 
@@ -310,7 +310,7 @@ level: squadre
 > At product zero What are the numbers (positive integers) of 4 significant digits whose product is 0?
 
 **Answer:** 2439
-[[src_kangourou_2018_squadre_finale__Q08]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q08|src_kangourou_2018_squadre_finale__Q08]]
 
 
 
@@ -342,7 +342,7 @@ level: squadre
 > The trapezoid An ABCD isosceles trapezoid has bases AB and CD of 7 cm and 3 cm respectively. Its AC and BD diagonals intersect at an H-point. What percentage of the trapezoid area is occupied by the AHD triangle? Please note: % should be used in the answer.
 
 **Answer:** 0021
-[[src_kangourou_2018_squadre_finale__Q09]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q09|src_kangourou_2018_squadre_finale__Q09]]
 
 
 
@@ -375,7 +375,7 @@ level: squadre
 > Competition In a singing competition 41 contestants are numbered from 1 to 41. They can be performed in pairs (each pair only once), but only if the sum of the numbers assigned to the competitors that make up the pair is narrowly greater than 41. How many different couples can perform during the contest? (Two pairs are different if they differ by at least one of the components.)
 
 **Answer:** 0420
-[[src_kangourou_2018_squadre_finale__Q10]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q10|src_kangourou_2018_squadre_finale__Q10]]
 
 
 
@@ -416,7 +416,7 @@ level: squadre
 > The sum Daniel used a magnetic board and magnetic numbers to perform an addition between two two-digit numbers. Then the numbers of additions and sums were rearranged in increasing order and now on the board you can see the following alignment of numbers and symbols: 2 3 6 7 8 9 + = What was the result of the addition?
 
 **Answer:** 0067
-[[src_kangourou_2018_squadre_finale__Q11]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q11|src_kangourou_2018_squadre_finale__Q11]]
 
 
 
@@ -448,7 +448,7 @@ level: squadre
 > Reducing to a single digit Francis plays this game: multiply between them the numbers of a two-digit number and, if the result is a two-digit number, multiply the numbers again. He continues in this way until he gets a single digit number. From how many numbers can you get zero as the end result?
 
 **Answer:** 0024
-[[src_kangourou_2018_squadre_finale__Q12]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q12|src_kangourou_2018_squadre_finale__Q12]]
 
 
 
@@ -480,7 +480,7 @@ level: squadre
 > Relative numbers Let's say that two positive integers are relative if they have the same sum of the squares of the digits. For example, the numbers 1111, 20 and 2 are related. How many are the relative positive integers of 2018 and narrowly smaller ones of 2018?
 
 **Answer:** 0021
-[[src_kangourou_2018_squadre_finale__Q13]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q13|src_kangourou_2018_squadre_finale__Q13]]
 
 
 
@@ -514,7 +514,7 @@ level: squadre
 > Two odd dice Nicola has two unmade, but not traditional dice: in one there is a face with 1 point, two faces with 2 points and three faces with 3 points; in the other a face with 6 points, two faces with 5 points and three faces with 4 points. What is the probability that, by throwing the two dice, the sum of the points that Nicholas gets is 7? Write the numerator of the fraction, reduced to the minimum terms, followed by the denominator: for example, if the result was 3/23, write 0323.
 
 **Answer:** 0718
-[[src_kangourou_2018_squadre_finale__Q14]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q14|src_kangourou_2018_squadre_finale__Q14]]
 
 
 
@@ -560,4 +560,4 @@ level: squadre
 > Questions and developments
 
 **Answer:** 0504
-[[src_kangourou_2018_squadre_finale__Q15]]
+[[Quesiti/src_kangourou_2018_squadre_finale#q15|src_kangourou_2018_squadre_finale__Q15]]

@@ -33,7 +33,7 @@ level: RMO
 
 > Si deve $ABC$ essere un triangolo in cui $AB = AC$ e $\angle CAB = 90^\circ$. Supponiamo che $M$ e $N$ siano punti sull'ipotenusa $BC$ in modo tale che $BM^2 + CN^2 = MN^2$. Dimostra che $\angle MAN = 45^\circ$.
 
-[[src_rmo_2003__Q01]]
+[[Quesiti/src_rmo_2003#q01|src_rmo_2003__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Se $n$ è un numero intero superiore a 7, dimostrare che $\binom{n}{7} - \left\lfloor \frac{n}{7} \right\rfloor$ è divisibile per 7. [Qui $\binom{n}{7}$ indica il numero di modi per scegliere 7 oggetti tra gli oggetti $n$; inoltre, per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$.]
 
-[[src_rmo_2003__Q02]]
+[[Quesiti/src_rmo_2003#q02|src_rmo_2003__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > $a, b, c$ siano tre numeri reali positivi come $a + b + c = 1$. Prova che tra i tre numeri $a - ab$, $b - bc$, $c - ca$ c'è uno che è al massimo $\frac{1}{4}$ e c'è uno che è almeno $\frac{2}{9}$.
 
-[[src_rmo_2003__Q03]]
+[[Quesiti/src_rmo_2003#q03|src_rmo_2003__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: RMO
 
 > Trova il numero di triples ordinati $(x, y, z)$ di enti interi non negativi che soddisfano le condizioni: (i) $x \le y \le z$; (ii) $x + y + z \le 100$.
 
-[[src_rmo_2003__Q04]]
+[[Quesiti/src_rmo_2003#q04|src_rmo_2003__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: RMO
 
 > Supponiamo che $P$ sia un punto interno di un triangolo $ABC$ tale che i rapporti $$\frac{d(A,BC)}{d(P,BC)}, \quad \frac{d(B,CA)}{d(P,CA)}, \quad \frac{d(C,AB)}{d(P,AB)}$$ siano tutti uguali. Trova il valore comune di questi rapporti. [Qui $d(X, YZ)$ indica la distanza perpendicolare da un punto $X$ alla linea $YZ$.]
 
-[[src_rmo_2003__Q05]]
+[[Quesiti/src_rmo_2003#q05|src_rmo_2003__Q05]]
 
 
 
@@ -174,7 +174,7 @@ level: RMO
 
 > Trova tutti i numeri reali $a$ per i quali l'equazione $$x^2 + (a-2)x + 1 = 3|x|$$ ha esattamente tre soluzioni reali distinte in $x$.
 
-[[src_rmo_2003__Q06]]
+[[Quesiti/src_rmo_2003#q06|src_rmo_2003__Q06]]
 
 
 
@@ -204,4 +204,4 @@ level: RMO
 
 > Considera l'insieme $X = \{1, 2, 3, \ldots, 9, 10\}$. Trova due sottinsiemi non vuoti $A$ e $B$ di $X$ in modo tale che: (a) $A \cup B = X$; (b) $\mathrm{prod}(A)$ sia divisibile da $\mathrm{prod}(B)$, dove per qualsiasi insieme finito di numeri $C$, $\mathrm{prod}(C)$ indica il prodotto di tutti i numeri di $C$; (c) il quotiente $\mathrm{prod}(A)/\mathrm{prod}(B)$ è il più piccolo possibile.
 
-[[src_rmo_2003__Q07]]
+[[Quesiti/src_rmo_2003#q07|src_rmo_2003__Q07]]

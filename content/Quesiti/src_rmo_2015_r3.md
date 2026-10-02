@@ -19,7 +19,7 @@ level: RMO
 
 > Two circles $\Gamma$ and $\Sigma$, with centres $O$ and $O'$, respectively, are such that $O'$ lies on $\Gamma$. Let $A$ be a point on $\Sigma$ and $M$ the midpoint of the segment $AO'$. If $B$ is a point on $\Sigma$ different from $A$ such that $AB$ is parallel to $OM$, show that the midpoint of $AB$ lies on $\Gamma$.
 
-![[src_rmo_2015_r3__Q01.png]]
+![[src_rmo_2015_r3__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,9 +34,9 @@ level: RMO
 
 > Due cerchi $\Gamma$ e $\Sigma$, con centri $O$ e $O'$, rispettivamente, sono tali che $O'$ si trova su $\Gamma$. Il $A$ deve essere un punto sul $\Sigma$ e $M$ il punto medio del segmento $AO'$. Se $B$ è un punto su $\Sigma$ diverso da $A$ in modo tale che $AB$ sia parallelo a $OM$, indicare che il punto medio di $AB$ si trova su $\Gamma$.
 
-![[src_rmo_2015_r3__Q01.png]]
+![[src_rmo_2015_r3__q01.png]]
 
-[[src_rmo_2015_r3__Q01]]
+[[Quesiti/src_rmo_2015_r3#q01|src_rmo_2015_r3__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: RMO
 
 > Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ e $b$ sono numeri reali. Supponiamo che $P(-1)^2$, $P(0)^2$, $P(1)^2$ sia una progressione aritmetica degli enti. Provare che $a$ e $b$ sono numeri interi.
 
-[[src_rmo_2015_r3__Q02]]
+[[Quesiti/src_rmo_2015_r3#q02|src_rmo_2015_r3__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: RMO
 
 > Mostrare che ci sono infinitamente molti triples $(x, y, z)$ di numeri interi come $x^2 + y^2 = z^{2^l}$ per tutti $l$.
 
-[[src_rmo_2015_r3__Q03]]
+[[Quesiti/src_rmo_2015_r3#q03|src_rmo_2015_r3__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: RMO
 
 > Supponiamo che 36 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
 
-[[src_rmo_2015_r3__Q04]]
+[[Quesiti/src_rmo_2015_r3#q04|src_rmo_2015_r3__Q04]]
 
 
 
@@ -130,7 +130,7 @@ level: RMO
 
 > Let $ABC$ be a triangle with circumcircle $\Gamma$ and incentre $I$. Let the internal angle bisectors of $\angle A$, $\angle B$ and $\angle C$ meet $\Gamma$ in $A'$, $B'$ and $C'$ respectively. Let $B'C'$ intersect $AA'$ in $P$, and $AC$ in $Q$. Let $BB'$ intersect $AC$ in $R$. Suppose the quadrilateral $PIRQ$ is a kite; that is, $IP = IR$ and $QP = QR$. Prove that $ABC$ is an equilateral triangle.
 
-![[src_rmo_2015_r3__Q05.png]]
+![[src_rmo_2015_r3__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -146,9 +146,9 @@ level: RMO
 
 > Il $ABC$ deve essere un triangolo con circoncircolo $\Gamma$ e incentro $I$. I bisettori di angolo interno di $\angle A$, $\angle B$ e $\angle C$ devono incontrare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. In $P$ $AA'$ e in $Q$ $AC$ si intersecano. Lasciate che $BB'$ si incroci $AC$ in $R$. Supponiamo che il quadrilaterale $PIRQ$ sia un aquilone; cioè $IP = IR$ e $QP = QR$. Prova che $ABC$ è un triangolo equilaterale.
 
-![[src_rmo_2015_r3__Q05.png]]
+![[src_rmo_2015_r3__q05.png]]
 
-[[src_rmo_2015_r3__Q05]]
+[[Quesiti/src_rmo_2015_r3#q05|src_rmo_2015_r3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: RMO
 
 > Mostrare che ci sono infinitamente molti numeri reali positivi $a$ che non sono interi tali che $a(a - 3\{a\})$ è un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
 
-[[src_rmo_2015_r3__Q06]]
+[[Quesiti/src_rmo_2015_r3#q06|src_rmo_2015_r3__Q06]]

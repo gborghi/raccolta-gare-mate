@@ -42,7 +42,7 @@ How many pages are missing (231 ... (*)
 > A) 3 e 5 B) 4 e 1 C) 2 e 4 D) 7 e 2 E) 9 e 7
 
 **Answer:** 0082
-[[src_kangourou_2022_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q01|src_kangourou_2022_ecolier_finale__Q01]]
 
 
 
@@ -79,7 +79,7 @@ How many pages are missing (231 ... (*)
 > A) 3 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** 4041
-[[src_kangourou_2022_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q02|src_kangourou_2022_ecolier_finale__Q02]]
 
 
 
@@ -115,7 +115,7 @@ How many pages are missing (231 ... (*)
 > A) $\rightarrow \rightarrow \downarrow \downarrow \downarrow$ B) $\downarrow \downarrow \rightarrow \downarrow \downarrow$ C) $\rightarrow \downarrow \rightarrow \downarrow \rightarrow$ D) $\rightarrow \downarrow \rightarrow \downarrow \downarrow \rightarrow$ E) $\downarrow \rightarrow \rightarrow \downarrow \downarrow \downarrow$
 
 **Answer:** 0030
-[[src_kangourou_2022_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q03|src_kangourou_2022_ecolier_finale__Q03]]
 
 
 
@@ -152,7 +152,7 @@ How many pages are missing (231 ... (*)
 > A) A B) B C) C D) D E) E
 
 **Answer:** 0045
-[[src_kangourou_2022_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q04|src_kangourou_2022_ecolier_finale__Q04]]
 
 
 
@@ -188,7 +188,7 @@ How many pages are missing (231 ... (*)
 > A) 4 B) 7 C) 8 D) 9 E) 12
 
 **Answer:** 0157
-[[src_kangourou_2022_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q05|src_kangourou_2022_ecolier_finale__Q05]]
 
 
 
@@ -225,7 +225,7 @@ How many pages are missing (231 ... (*)
 > A) A B) B C) C D) D E) E
 
 **Answer:** 3444
-[[src_kangourou_2022_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q06|src_kangourou_2022_ecolier_finale__Q06]]
 
 
 
@@ -262,7 +262,7 @@ How many pages are missing (231 ... (*)
 > (A) (Figure A) (B) (Figure B) (C) (Figure C) (D) (E) (Figure E)
 
 **Answer:** 0018
-[[src_kangourou_2022_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q07|src_kangourou_2022_ecolier_finale__Q07]]
 
 
 
@@ -298,7 +298,7 @@ How many pages are missing (231 ... (*)
 > (A) (Figure A) (B) (Figure B) (C) (D) (Figure D) (E) (Figure E)
 
 **Answer:** 0015
-[[src_kangourou_2022_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q08|src_kangourou_2022_ecolier_finale__Q08]]
 
 
 
@@ -334,7 +334,7 @@ How many pages are missing (231 ... (*)
 > A) 1 B) 3 C) One of two 4 D) 5 E) One of two 7
 
 **Answer:** 1650
-[[src_kangourou_2022_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q09|src_kangourou_2022_ecolier_finale__Q09]]
 
 
 
@@ -371,7 +371,7 @@ How many pages are missing (231 ... (*)
 > (a) (part A) (b) (part B) (c) (part C) (d) (d) (e) (e)
 
 **Answer:** 2025
-[[src_kangourou_2022_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q10|src_kangourou_2022_ecolier_finale__Q10]]
 
 
 
@@ -408,7 +408,7 @@ How many pages are missing (231 ... (*)
 > A) 2 e 8 B) 4 e 5 C) 5 e 8 D) 6 e 8 E) 6 e 10
 
 **Answer:** 0506
-[[src_kangourou_2022_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q11|src_kangourou_2022_ecolier_finale__Q11]]
 
 
 
@@ -444,7 +444,7 @@ How many pages are missing (231 ... (*)
 > A) 24 B) 27 C) 32 D) 35 E) 36
 
 **Answer:** 0090
-[[src_kangourou_2022_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q12|src_kangourou_2022_ecolier_finale__Q12]]
 
 
 
@@ -481,7 +481,7 @@ How many pages are missing (231 ... (*)
 > A) 20 B) 24 C) 28 D) 32 E) 36
 
 **Answer:** 0019
-[[src_kangourou_2022_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q13|src_kangourou_2022_ecolier_finale__Q13]]
 
 
 
@@ -518,7 +518,7 @@ How many pages are missing (231 ... (*)
 > A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
 
 **Answer:** 6144
-[[src_kangourou_2022_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q14|src_kangourou_2022_ecolier_finale__Q14]]
 
 
 
@@ -557,7 +557,7 @@ How many pages are missing (231 ... (*)
 > A) 8 B) 9 C) 11 D) 13 E) 14
 
 **Answer:** 0024
-[[src_kangourou_2022_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#q15|src_kangourou_2022_ecolier_finale__Q15]]
 
 
 
@@ -568,7 +568,7 @@ How many pages are missing (231 ... (*)
 
 *Minimo mosse per uniformare i 9 gettoni bicolori*
 
-![[src_kangourou_2022_ecolier_finale__probE1.png]]
+![[src_kangourou_2022_ecolier_finale__probe1.png]]
 
 ```tikz
 \begin{document}
@@ -600,7 +600,7 @@ How many pages are missing (231 ... (*)
 
 *Minimum moves to unify the 9 bicolor tokens*
 
-![[src_kangourou_2022_ecolier_finale__probE1.png]]
+![[src_kangourou_2022_ecolier_finale__probe1.png]]
 
 ```tikz
 \begin{document}
@@ -621,7 +621,7 @@ How many pages are missing (231 ... (*)
 > On a table, there are nine tokens, white on one face and black on the other. The icons are arranged squarely over three rows and show their faces as shown in the figure. A game consists of trying to get all the tokens to show the same colour, white or black faces, performing only moves that consist of flipping all three tokens of the same line or column or diagonal, and being able to choose from move to move. What's the smallest number of moves to finish the game? (see figure)
 
 **Answer:** 2
-[[src_kangourou_2022_ecolier_finale__QE1]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe1|src_kangourou_2022_ecolier_finale__QE1]]
 
 
 
@@ -649,7 +649,7 @@ How many pages are missing (231 ... (*)
 > A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stephen enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
 
 **Answer:** 2 minuti
-[[src_kangourou_2022_ecolier_finale__QE2]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe2|src_kangourou_2022_ecolier_finale__QE2]]
 
 
 
@@ -677,7 +677,7 @@ How many pages are missing (231 ... (*)
 > Three students per class of the school participate in a country marching race. In the final ranking, Sara is exactly in the middle of the ranking (i.e. there is the same number of participants who precede and follow her), while Gino follows her to 19th place and Pino follows her to 28th place. Knowing there were no equal, what place does Sara occupy?
 
 **Answer:** 17
-[[src_kangourou_2022_ecolier_finale__QE3]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe3|src_kangourou_2022_ecolier_finale__QE3]]
 
 
 
@@ -688,7 +688,7 @@ How many pages are missing (231 ... (*)
 
 *Quali cassette contengono banane dai pesi*
 
-![[src_kangourou_2022_ecolier_finale__probE4.png]]
+![[src_kangourou_2022_ecolier_finale__probe4.png]]
 
 > Un fruttivendolo vende solo mele, banane e arance. Ha ricevuto l'ordine di comporre 5 cassette, nessuna delle quali contenga sia mele sia banane. Ha usato complessivamente 4 arance, ciascuna del peso di due etti e mezzo; il peso complessivo delle mele che ha usato è tre volte quello delle banane che ha usato. Ecco il peso del contenuto delle 5 cassette: cassetta 1: 8 kg, cassetta 2: 5 kg, cassetta 3: 6 kg, cassetta 4: 2 kg, cassetta 5: 16 kg. Quale o quali cassette contengono banane?
 
@@ -704,12 +704,12 @@ How many pages are missing (231 ... (*)
 
 *Tasks containing bananas by weight *
 
-![[src_kangourou_2022_ecolier_finale__probE4.png]]
+![[src_kangourou_2022_ecolier_finale__probe4.png]]
 
 > A fruit vendor only sells apples, bananas and oranges. He was ordered to compose five cassettes, none of which contained either apples or bananas. He used a total of four oranges, each weighing two and a half hectares; the total weight of the apples he used was three times that of the bananas he used. Here's the weight of the contents of the five boxes: box 1:8 kg, box 2:5 kg, box 3:6 kg, box 4:2 kg, box 5:16 kg. Which or which cassette contains bananas?
 
 **Answer:** la 1 e la 4
-[[src_kangourou_2022_ecolier_finale__QE4]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe4|src_kangourou_2022_ecolier_finale__QE4]]
 
 
 
@@ -738,7 +738,7 @@ How many pages are missing (231 ... (*)
 > Giulia has calculated correctly how many Sundays there can be in three consecutive months. What are the possible outcomes?
 
 **Answer:** 12 o 13 o 14
-[[src_kangourou_2022_ecolier_finale__QE5]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe5|src_kangourou_2022_ecolier_finale__QE5]]
 
 
 
@@ -767,4 +767,4 @@ How many cyclists have at least lied if sum and 36
 > Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, obviously with a number between 1 and 10. The reporter sums up the answers you give him and gets 36. He concludes that some certainly lied - how many, at least?
 
 **Answer:** 3
-[[src_kangourou_2022_ecolier_finale__QE6]]
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe6|src_kangourou_2022_ecolier_finale__QE6]]

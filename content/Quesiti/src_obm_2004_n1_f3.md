@@ -38,7 +38,7 @@ level: OBM Nível 1
 
 > Trova tutti i numeri naturali a tre cifre $n$ che soddisfano tutte le seguenti proprietà: \begin{itemize} \item $n$ è odd; \item $n$ è un quadrato perfetto; \item la somma delle cifre di $n$ è un quadrato perfetto. # Finire #
 
-[[src_obm_2004_n1_f3__Q01]]
+[[Quesiti/src_obm_2004_n1_f3#q01|src_obm_2004_n1_f3__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: OBM Nível 1
 
 > With four equilateral triangles of side $1$ it is possible to form a piece in the shape of an equilateral triangle of side $2$, as shown in the figure. The four small triangles making up the piece are colored in three possible colors: white, black, and gray. Two pieces are considered equal when one can be obtained from the other by rotation. How many different pieces can be formed under the given conditions?
 
-![[src_obm_2004_n1_f3__Q02.png]]
+![[src_obm_2004_n1_f3__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -67,9 +67,9 @@ level: OBM Nível 1
 
 > Con quattro triangoli equilaterali di lato $1$ è possibile formare un pezzo a forma di triangolo equilaterale di lato $2$, come mostrato nella figura. I quattro piccoli triangoli che compongono il pezzo sono colorati in tre possibili colori: bianco, nero e grigio. Due pezzi sono considerati uguali quando uno può essere ottenuto dall'altro mediante rotazione. Quanti pezzi diversi si possono formare alle condizioni indicate?
 
-![[src_obm_2004_n1_f3__Q02.png]]
+![[src_obm_2004_n1_f3__q02.png]]
 
-[[src_obm_2004_n1_f3__Q02]]
+[[Quesiti/src_obm_2004_n1_f3#q02|src_obm_2004_n1_f3__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: OBM Nível 1
 > 
 > Provare che il numero $$\frac{1}{2}\!\left(2^{2004}+2\right)+1$$ è composto.
 
-[[src_obm_2004_n1_f3__Q03]]
+[[Quesiti/src_obm_2004_n1_f3#q03|src_obm_2004_n1_f3__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: OBM Nível 1
 > \item[(b)] $n = 2005$?
 > \end{enumerate}
 
-![[src_obm_2004_n1_f3__Q04.png]]
+![[src_obm_2004_n1_f3__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -139,9 +139,9 @@ level: OBM Nível 1
 > 
 > Quale dei due giocatori ha una strategia vincente  cioè, una strategia che porta alla vittoria non importa quali mosse fa l'avversario  per: \begin{enumerate} \item[(a)] $n = 2004$? \item[(b)] $n = 2005$? \end{enumere}
 
-![[src_obm_2004_n1_f3__Q04.png]]
+![[src_obm_2004_n1_f3__q04.png]]
 
-[[src_obm_2004_n1_f3__Q04]]
+[[Quesiti/src_obm_2004_n1_f3#q04|src_obm_2004_n1_f3__Q04]]
 
 
 
@@ -158,7 +158,7 @@ level: OBM Nível 1
 > 
 > Is there a $13$-sided polygon with which it is possible to tile the entire plane using its copies without overlaps? If yes, exhibit such a polygon. If not, explain why not.
 
-![[src_obm_2004_n1_f3__Q05.png]]
+![[src_obm_2004_n1_f3__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
@@ -178,6 +178,6 @@ level: OBM Nível 1
 > 
 > Esiste un poligono laterale $13$ con il quale è possibile tessere l'intero piano utilizzando le sue copie senza sovrapposizioni? In caso affermativo, mostrare un poligono del genere. Se no, spiegate perché no.
 
-![[src_obm_2004_n1_f3__Q05.png]]
+![[src_obm_2004_n1_f3__q05.png]]
 
-[[src_obm_2004_n1_f3__Q05]]
+[[Quesiti/src_obm_2004_n1_f3#q05|src_obm_2004_n1_f3__Q05]]

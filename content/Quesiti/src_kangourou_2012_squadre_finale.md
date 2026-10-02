@@ -38,7 +38,7 @@ level: squadre
 > Paola and Enrico Consider all positive integers up to and including 2012: Paola calculates the sum of all odd numbers and Enrico the sum of all even numbers. How much more money did Enrico get than Paola?
 
 **Answer:** 1006
-[[src_kangourou_2012_squadre_finale__Q01]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q01|src_kangourou_2012_squadre_finale__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: squadre
 > Greener than that! A park occupies a triangular area. To increase its area, it is decided to increase the length of each side by 20%. What percentage of the area is increased?
 
 **Answer:** 44
-[[src_kangourou_2012_squadre_finale__Q02]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q02|src_kangourou_2012_squadre_finale__Q02]]
 
 
 
@@ -98,7 +98,7 @@ level: squadre
 > Multiplication From how many digits is the number 85 × 517 × 73?
 
 **Answer:** 19
-[[src_kangourou_2012_squadre_finale__Q03]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q03|src_kangourou_2012_squadre_finale__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: squadre
 > In the village of Marco, the bell tower has a large traditional clock and only plays at full hours. At a certain hour in the afternoon, when the bell rings, the lancet forms a 90-degree angle. How many degrees does the sharp angle the lancet forms 10 minutes later?
 
 **Answer:** 35
-[[src_kangourou_2012_squadre_finale__Q04]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q04|src_kangourou_2012_squadre_finale__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: squadre
 > Multiply all divisors A positive integer n is such that, if you multiply all its divisors, including n, you get a number whose writing (decimal) ends with 15 zeros. With how many zeros at most can you finish writing (decimal) of n?
 
 **Answer:** 2
-[[src_kangourou_2012_squadre_finale__Q05]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q05|src_kangourou_2012_squadre_finale__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: squadre
 > Cube and cubes A cube is less than a meter high and is obtained by approaching more than 300 cubes one-tenth of a metre each side. One-eighth of these are red, a quarter are white and the rest are green. How many cubes is the cube made of?
 
 **Answer:** 512
-[[src_kangourou_2012_squadre_finale__Q06]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q06|src_kangourou_2012_squadre_finale__Q06]]
 
 
 
@@ -223,7 +223,7 @@ Total tournament matches 16 tennis players all against all
 > How many games? Sixteen tennis players participate in a tournament where each is expected to meet each other once and only once. How many matches will be played in that tournament overall?
 
 **Answer:** 120
-[[src_kangourou_2012_squadre_finale__Q07]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q07|src_kangourou_2012_squadre_finale__Q07]]
 
 
 
@@ -253,7 +253,7 @@ Total tournament matches 16 tennis players all against all
 > Large divisors What is the largest divisor of the number 214  1 distinct from the number itself?
 
 **Answer:** 5461
-[[src_kangourou_2012_squadre_finale__Q08]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q08|src_kangourou_2012_squadre_finale__Q08]]
 
 
 
@@ -284,7 +284,7 @@ Total tournament matches 16 tennis players all against all
 > Roberto's book to read must read a 630-page book. Yesterday he read a third of it and the sum of the page numbers he will read today is 5106. After today's reading, how many pages of the book will he have left to read?
 
 **Answer:** 397
-[[src_kangourou_2012_squadre_finale__Q09]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q09|src_kangourou_2012_squadre_finale__Q09]]
 
 
 
@@ -314,7 +314,7 @@ This is the total value of all final goods and services produced within the Unio
 > How many factors! Find the value of the following product (2012  0) × (2011  1) × (2010  2) × ... × (2  2010) × (1  2011) × (0  2012).
 
 **Answer:** 0
-[[src_kangourou_2012_squadre_finale__Q10]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q10|src_kangourou_2012_squadre_finale__Q10]]
 
 
 
@@ -348,7 +348,7 @@ This is the total value of all final goods and services produced within the Unio
 > The train passes. James and Luke are both standing in the middle of the sidewalk of a station where a freight train is arriving, which is traveling at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they begin to walk at the same speed along the sidewalk, James in the same direction as the train and Luke in the opposite direction. They both stop when they are reached by the train's tail: James walked 45 meters, Luke walked 30 meters. How long is the train?
 
 **Answer:** 180
-[[src_kangourou_2012_squadre_finale__Q11]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q11|src_kangourou_2012_squadre_finale__Q11]]
 
 
 
@@ -381,7 +381,7 @@ This is the total value of all final goods and services produced within the Unio
 > Marta buys a computer Marta wants to buy a computer and visits two shops, A and B, where the basic price of the computer is the same. In A they offer a 15% discount on the base price and an additional €90 discount; in B they simply offer a 25% discount on the base price. Marta decides to buy the computer in A, because doing so saves 15 euros. What is the basic computer price in euros?
 
 **Answer:** 750
-[[src_kangourou_2012_squadre_finale__Q12]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q12|src_kangourou_2012_squadre_finale__Q12]]
 
 
 
@@ -415,7 +415,7 @@ This is the total value of all final goods and services produced within the Unio
 > Reducing a positive integer greater than or equal to 10 means that we multiply its digits by them. Of course, the reduction operation can be iterated (i.e. repeated on the result obtained): for example, doing it twice consecutively on number 57, you get 15. How many positive integers of two digits are such that, iterating on them the reduction operation, at some point you get 0?
 
 **Answer:** 24
-[[src_kangourou_2012_squadre_finale__Q13]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q13|src_kangourou_2012_squadre_finale__Q13]]
 
 
 
@@ -446,7 +446,7 @@ This is the total value of all final goods and services produced within the Unio
 > Inscribed triangles How many equilateral triangles can be constructed whose vertices are vertices of the same regular polygon of 2012 sides?
 
 **Answer:** 0
-[[src_kangourou_2012_squadre_finale__Q14]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q14|src_kangourou_2012_squadre_finale__Q14]]
 
 
 
@@ -500,4 +500,4 @@ This is the total value of all final goods and services produced within the Unio
 > Questions and Answers
 
 **Answer:** 22
-[[src_kangourou_2012_squadre_finale__Q15]]
+[[Quesiti/src_kangourou_2012_squadre_finale#q15|src_kangourou_2012_squadre_finale__Q15]]

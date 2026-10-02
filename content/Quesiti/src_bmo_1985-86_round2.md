@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Gli assi cartesiani rettangolari a piano sono dati con uguale lunghezza unitaria lungo ogni asse. Un punto razionale è definito come un punto le cui coordinate sono entrambi numeri razionali. $A, B, A', B'$ sono quattro punti razionali distinti; $A$ e $B$ sono sull'asse $x$. Prova che $\overline{AB} = \overline{A'B'}$, esiste solo un punto $P$ tale che i triangoli $PAB$, $PA'B'$ siano direttamente simili, ovvero ciascuno può essere ottenuto dall'altro mediante ingrandimento (e traduzione) e rotazione di circa $P$. Prova anche che $P$ è un punto razionale.
 
-[[src_bmo_1985-86_round2__Q01]]
+[[Quesiti/src_bmo_1985-86_round2#q01|src_bmo_1985-86_round2__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 2
 
 > Trovare, con prova, il valore massimo di $x^2 y + y^2 z + z^2 x$ dove $x, y, z$ sono numeri reali che soddisfano le condizioni $$x + y + z = 0, \quad x^2 + y^2 + z^2 = 1.$$
 
-[[src_bmo_1985-86_round2__Q02]]
+[[Quesiti/src_bmo_1985-86_round2#q02|src_bmo_1985-86_round2__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 2
 
 > $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sono set che hanno ciascuno due elementi. $P_i$ e $P_j$ ($i \ne j$) hanno un elemento in comune se e solo se $\{i, j\}$ è uno degli insiemi $P_k$. Prove che uno di $1, 2, \ldots, n$ si trova esattamente in due dei set $P_k$.
 
-[[src_bmo_1985-86_round2__Q03]]
+[[Quesiti/src_bmo_1985-86_round2#q03|src_bmo_1985-86_round2__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: BMO Round 2
 
 > Mostrare che se $m, n$ sono integri positivi con $2 \le m \le n-1$, il prodotto $k = \dbinom{n}{1}\dbinom{n}{2}\cdots\dbinom{n}{m}$ dei coefficienti binomiali è divisibile da $n^2$. Per questo $k$, dato $n$, determinare il più grande divisore comune degli interi $\dfrac{1}{n^2}\dbinom{n}{1}\dbinom{n}{2}\cdots\dbinom{n}{m}$, $2 \le m \le n-1$.
 
-[[src_bmo_1985-86_round2__Q04]]
+[[Quesiti/src_bmo_1985-86_round2#q04|src_bmo_1985-86_round2__Q04]]
 
 
 
@@ -142,4 +142,4 @@ level: BMO Round 2
 
 > $C_1$ e $C_2$ sono due cerchi; $A_1$ e $A_2$ sono rispettivamente i loro centri. $A_1P_1$, $A_2P_2$ sono accordi paralleli rispettivamente di $C_1$ e $C_2$. Trova il locus del punto medio di $P_1 P_2$.
 
-[[src_bmo_1985-86_round2__Q05]]
+[[Quesiti/src_bmo_1985-86_round2#q05|src_bmo_1985-86_round2__Q05]]

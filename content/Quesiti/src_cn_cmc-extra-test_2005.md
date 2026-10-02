@@ -19,7 +19,7 @@ level: China Mathematical Competition (Extra Test)
 
 > In $\triangle ABC$, $AB > AC$, $l$ is a tangent line of the circumscribed circle of $\triangle ABC$. The circle, centered at $A$ with radius $AC$, intersects $AB$ at $D$, and $l$ at $E$, $F$ (see the diagram). Prove that lines $DE$, $DF$ pass through the incenter and excenter of $\triangle ABC$ respectively.
 
-![[src_cn_cmc-extra-test_2005__Q01.png]]
+![[src_cn_cmc-extra-test_2005__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: China Mathematical Competition (Extra Test)
 
 > In $\triangle ABC$, $AB > AC$, $l$ è una linea tangente del cerchio circoscritto di $\triangle ABC$. Il cerchio, incentrato a $A$ con raggio $AC$, si interseca con $AB$ a $D$ e $l$ a $E$, $F$ (vedere il diagramma). Provare che le linee $DE$ e $DF$ passano rispettivamente attraverso l'incentro e l'eccentro di $\triangle ABC$.
 
-![[src_cn_cmc-extra-test_2005__Q01.png]]
+![[src_cn_cmc-extra-test_2005__q01.png]]
 
-[[src_cn_cmc-extra-test_2005__Q01]]
+[[Quesiti/src_cn_cmc-extra-test_2005#q01|src_cn_cmc-extra-test_2005__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: China Mathematical Competition (Extra Test)
 > Supponiamo che i numeri positivi $a$, $b$, $c$, $x$, $y$, $z$ soddisfino $cy + bz = a$, $az + cx = b$, $bx + ay = c$. Trova il valore minimo della funzione $$f(x, y, z) = \frac{x^2}{1+x} + \frac{y^2}{1+y} + \frac{z^2}{1+z}.$$
 
 **Risposta:** \frac{1}{2}
-[[src_cn_cmc-extra-test_2005__Q02]]
+[[Quesiti/src_cn_cmc-extra-test_2005#q02|src_cn_cmc-extra-test_2005__Q02]]
 
 
 
@@ -98,4 +98,4 @@ level: China Mathematical Competition (Extra Test)
 > Per ogni intero positivo $n$, definire una funzione $$f(n) = \begin{cases} 0, & \text{if } n \text{ is the square of an integer,} \\ \left[\dfrac{1}{\{\sqrt{n}\}}\right], & \text{if } n \text{ is not the square of an integer.} \end{cases}$$ (qui $[x]$ indica il numero intero massimo non superiore a $x$, e $\{x\} = x - [x]$.) Trova il valore di $\displaystyle\sum_{k=1}^{200} f(k)$.
 
 **Risposta:** 768
-[[src_cn_cmc-extra-test_2005__Q03]]
+[[Quesiti/src_cn_cmc-extra-test_2005#q03|src_cn_cmc-extra-test_2005__Q03]]

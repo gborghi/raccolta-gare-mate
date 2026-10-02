@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > $A, B, A', B'$ sono quattro punti razionali distinti; $A$ e $B$ sono sull'asse $x$. Prove che se $AB = A'B'$, esiste solo un punto $P$ tale che i triangoli $PAB$, $PA'B'$ siano direttamente simili, cioè ciascuno può essere ottenuto dall'altro mediante ingrandimento (dilatazione) e rotazione di circa $P$. Prova anche che $P$ è un punto razionale.
 
-[[src_bmo2_1986__Q01]]
+[[Quesiti/src_bmo2_1986#q01|src_bmo2_1986__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: BMO Round 2
 
 > Trovare, con prova, il valore massimo di $$x^2 y + y^2 z + z^2 x$$ dove $x, y, z$ sono numeri reali che soddisfano le condizioni $$x + y + z = 0, \quad x^2 + y^2 + z^2 = 6.$$
 
-[[src_bmo2_1986__Q02]]
+[[Quesiti/src_bmo2_1986#q02|src_bmo2_1986__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: BMO Round 2
 
 > $P_1, P_2, \ldots, P_n$ sono $n$ sottogruppi distinti di $\{1, 2, \ldots, n\}$, ognuno dei quali ha due elementi. $P_i$ e $P_j$ ($i \neq j$) hanno un elemento in comune se e solo se $\{i, j\}$ è uno dei sottogruppi $P_k$. Prova che ciascuna delle $1, 2, \ldots, n$ appartiene esattamente a due delle $P_k$.
 
-[[src_bmo2_1986__Q03]]
+[[Quesiti/src_bmo2_1986#q03|src_bmo2_1986__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: BMO Round 2
 
 > Indicare che se $m, n$ sono integri positivi con $m \le n$, il prodotto $\binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$ è divisibile da $n$. Trova con prova il più piccolo intero positivo $k$ in modo tale che il prodotto $k \binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$ sia divisibile da $n^2$ per tutti gli integri $m, n$ con $2 \le m \le n$. [$k$ deve essere indipendente da $m, n$.] Per questo $k$ e dato $m$, determinare, con prova, il più grande divisore comune degli interi $\frac{k}{n^2} \binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$, $2 \le m \le n$.
 
-[[src_bmo2_1986__Q04]]
+[[Quesiti/src_bmo2_1986#q04|src_bmo2_1986__Q04]]
 
 
 
@@ -148,4 +148,4 @@ level: BMO Round 2
 
 > $C_1$ e $C_2$ sono due cerchi; $A_1$, $A_2$ sono punti fissi rispettivamente su $C_1$ e $C_2$. $A_1 P_1$, $A_2 P_2$ sono accordi paralleli rispettivamente di $C_1$ e $C_2$. Trova il locus del punto medio di $P_1 P_2$.
 
-[[src_bmo2_1986__Q05]]
+[[Quesiti/src_bmo2_1986#q05|src_bmo2_1986__Q05]]

@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Dimostra che se un polinomio con coefficienti interi prende un valore pari a 1 in valore assoluto a tre diversi punti interi, allora non ha zero interi.
 
-[[src_pol_1968_r3__Q01]]
+[[Quesiti/src_pol_1968_r3#q01|src_pol_1968_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Mostrate che, se almeno cinque persone sono sedute a un tavolo rotondo, è possibile riorganizzarle in modo che ognuno abbia due nuovi vicini.
 
-[[src_pol_1968_r3__Q02]]
+[[Quesiti/src_pol_1968_r3#q02|src_pol_1968_r3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Dato un numero intero $n \ge 2$, dare un esempio di un insieme di numeri $n$ reciprocamente diversi $a_1, \ldots, a_n$ per i quali l'insieme delle loro somme in coppia $a_i + a_j$ ($i \ne j$) contiene il minor numero possibile di numeri diversi; dare anche un esempio di un insieme di numeri diversi $n$ $b_1, \ldots, b_n$ per i quali l'insieme delle somme in coppia $b_i + b_j$ ($i \ne j$) contiene il maggior numero possibile di numeri diversi.
 
-[[src_pol_1968_r3__Q03]]
+[[Quesiti/src_pol_1968_r3#q03|src_pol_1968_r3__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Sul piano ci sono punti $n \ge 3$, non tutti sulla stessa linea. Tracciando tutte le linee che attraversano due di questi punti si ottengono $k$ diverse linee. Prove che $k \ge n$.
 
-[[src_pol_1968_r3__Q04]]
+[[Quesiti/src_pol_1968_r3#q04|src_pol_1968_r3__Q04]]
 
 
 
@@ -141,7 +141,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Dati i punti $n \ge 4$ del piano in modo tale che tutti e quattro di essi siano i vertici di un quadrilaterale converso, dimostrare che questi punti sono i vertici di un poligono converso.
 
-[[src_pol_1968_r3__Q05]]
+[[Quesiti/src_pol_1968_r3#q05|src_pol_1968_r3__Q05]]
 
 
 
@@ -170,4 +170,4 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 
 > Considera un insieme di punti $a > 3$ nel piano, di cui non ci sono tre collineari, e un numero naturale $4 < c$. Provare le seguenti affermazioni: (a) Se $4 \le \frac{c}{2}$, allora ogni punto può essere collegato con almeno altri 4 punti da segmenti in modo che non formino tre segmenti un triangolo. (b) Se $4 > \frac{c}{2}$, ogni punto è collegato con almeno altri 4 punti da segmenti, allora alcuni tre segmenti formano un triangolo.
 
-[[src_pol_1968_r3__Q06]]
+[[Quesiti/src_pol_1968_r3#q06|src_pol_1968_r3__Q06]]

@@ -33,7 +33,7 @@ level: IMO
 
 > Determine all three digit numbers $N$ such that $N$ is divisible by 11 and $N/11$ is equal to the sum of the squares of the digits $N$.
 
-[[src_imho_1960__Q01]]
+[[Quesiti/src_imho_1960#q01|src_imho_1960__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: IMO
 
 > For which values of the variable $x$ is the following inequality: $$\frac{4x^2}{\left(1 - \sqrt{1 + 2x}\right)^2} < 2x + 9\,?$$
 
-[[src_imho_1960__Q02]]
+[[Quesiti/src_imho_1960#q02|src_imho_1960__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: IMO
 
 > In a given $ABC$ rectangle, the hypotenuse $BC$, of length $a$, is divided into $n$ equal parts ($n$ odd integer). Either $\alpha$ the acute angle below $A$ to the segment containing the midpoint of the hypotenuse. Either $h$ the length of the height relative to the hypotenuse of the triangle. Provide proof that: $$\tan \alpha = \frac{4nh}{(n^2 - 1)a}.$$
 
-[[src_imho_1960__Q03]]
+[[Quesiti/src_imho_1960#q03|src_imho_1960__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: IMO
 
 > Construct the triangle $ABC$, data $h_a$, $h_b$ (heights from $A$ and from $B$) and $m_a$, the median from the vertex $A$.
 
-[[src_imho_1960__Q04]]
+[[Quesiti/src_imho_1960#q04|src_imho_1960__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: IMO
 > 
 > (b) Find the geometric location of the $Z$ points lying on the $XY$ segments of part (a) with $ZY = 2XZ$.
 
-[[src_imho_1960__Q05]]
+[[Quesiti/src_imho_1960#q05|src_imho_1960__Q05]]
 
 
 
@@ -185,7 +185,7 @@ level: IMO
 > 
 > (b) Find the smallest number $k$ for which $V_1 = k V_2$; in this case, construct the angle below a diameter of the base of the cone to the top of the cone.
 
-[[src_imho_1960__Q06]]
+[[Quesiti/src_imho_1960#q06|src_imho_1960__Q06]]
 
 
 
@@ -224,4 +224,4 @@ level: IMO
 > 
 > (c) Determine under what conditions such$P$points actually exist (discuss the various cases that may arise).
 
-[[src_imho_1960__Q07]]
+[[Quesiti/src_imho_1960#q07|src_imho_1960__Q07]]

@@ -34,7 +34,7 @@ level: IMO
 
 > Let $ABCD$ be a parallelogram with side lengths $AB = a$, $AD = 1$, and $\angle BAD = \alpha$. If $\triangle ABD$ is acute, prove that the four circles of radius 1 with centers $A$, $B$, $C$, $D$ cover the parallelogram if and only if $$a \le \cos\alpha + \sqrt{3}\sin\alpha.$$
 
-[[src_imho_1967__Q01]]
+[[Quesiti/src_imho_1967#q01|src_imho_1967__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: IMO
 
 > Prove that if one and only one edge of a tetrahedron is greater than 1, then its volume is $\le 1/8$.
 
-[[src_imho_1967__Q02]]
+[[Quesiti/src_imho_1967#q02|src_imho_1967__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: IMO
 
 > Let $k$, $m$, $n$ be natural numbers such that $m + k + 1$ is a prime greater than $n + 1$. Let $c_s = s(s+1)$. Prove that the product $$(c_{m+1} - c_k)(c_{m+2} - c_k)\cdots(c_{m+n} - c_k)$$ is divisible by $c_1 c_2 \cdots c_n$.
 
-[[src_imho_1967__Q03]]
+[[Quesiti/src_imho_1967#q03|src_imho_1967__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: IMO
 
 > Let $A_0B_0C_0$ and $A_1B_1C_1$ be any two acute-angled triangles. Consider all $ABC$ triangles that are similar to $\triangle A_1B_1C_1$ (so that vertices $A_1$, $B_1$, $C_1$ correspond to vertices $A$, $B$, $C$ respectively) and circumscribed about triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$, and $C_0$ on $AB$). Of all such possible triangles, determine the one with maximum area, and construct it.
 
-[[src_imho_1967__Q04]]
+[[Quesiti/src_imho_1967#q04|src_imho_1967__Q04]]
 
 
 
@@ -149,7 +149,7 @@ Sequence of power sums vanishing infinitely often
 
 > Consider the sequence $\{c_n\}$, where $$c_1 = a_1 + a_2 + \cdots + a_k,$$ $$c_2 = a_1^2 + a_2^2 + \cdots + a_k^2,$$ $$\vdots$$ $$c_n = a_1^n + a_2^n + \cdots + a_k^n,$$ in which $a_1, a_2, \ldots, a_k$ are real numbers not all equal to zero. Suppose that an infinite number of terms of the sequence $\{c_n\}$ are equal to zero. Find all natural numbers $n$ for which $c_n = 0$.
 
-[[src_imho_1967__Q05]]
+[[Quesiti/src_imho_1967#q05|src_imho_1967__Q05]]
 
 
 
@@ -176,4 +176,4 @@ Medal distribution over n days with 1/7 rule
 
 > In a sports competition, there were $m$ medals awarded on $n$ subsequent days ($n > 1$). On the first day, one medal and $1/7$ of the remaining $m - 1$ medals were awarded. On the second day, two medals and $1/7$ of the now remaining medals were awarded; and so on. On the $n$-th and last day, the remaining $n$ medals were awarded. How many days did the contest last, and how many medals were awarded altogether?
 
-[[src_imho_1967__Q06]]
+[[Quesiti/src_imho_1967#q06|src_imho_1967__Q06]]

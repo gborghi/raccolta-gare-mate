@@ -35,7 +35,7 @@ level: IMO
 
 > Find all the real roots of the equation $$\sqrt{x^2 - p + 2\sqrt{x^2 - 1}} = x,$$ where $p$ is a real parameter.
 
-[[src_imho_1963__Q01]]
+[[Quesiti/src_imho_1963#q01|src_imho_1963__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: IMO
 
 > 1963/6. Five students, A, B, C, D, E, took part in a contest. One prediction was that the contestants would finish in the ABCDE order. This prediction was very poor. In fact no contestant finished in the position predicted, and no two contestants predicted to finish consecutively actually did so. A second prediction had the contestants finishing in the DAECB order. This prediction was better. Exactly two of the contestants finished in the places predicted, and two disjoint pairs of students predicted to finish consecutively actually did so. Determine the order in which the contestants finished.
 
-[[src_imho_1963__Q02]]
+[[Quesiti/src_imho_1963#q02|src_imho_1963__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: IMO
 
 > In an $n$-gon all of whose interior angles are equal, the lengths of consecutive sides satisfy the relation $$a_1 \geq a_2 \geq \cdots \geq a_n.$$ Prove that $a_1 = a_2 = \cdots = a_n$.
 
-[[src_imho_1963__Q03]]
+[[Quesiti/src_imho_1963#q03|src_imho_1963__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: IMO
 
 > Find all solutions $x_1, x_2, x_3, x_4, x_5$ of the system $$\begin{cases} x_5 + x_2 = y x_1 \\ x_1 + x_3 = y x_2 \\ x_2 + x_4 = y x_3 \\ x_3 + x_5 = y x_4 \\ x_4 + x_1 = y x_5, \end{cases}$$ where $y$ is a parameter.
 
-[[src_imho_1963__Q04]]
+[[Quesiti/src_imho_1963#q04|src_imho_1963__Q04]]
 
 
 
@@ -153,7 +153,7 @@ This is the total number of samples taken from the sample.
 
 > Prove that $\cos \dfrac{\pi}{7} - \cos \dfrac{2\pi}{7} + \cos \dfrac{3\pi}{7} = \dfrac{1}{2}$.
 
-[[src_imho_1963__Q05]]
+[[Quesiti/src_imho_1963#q05|src_imho_1963__Q05]]
 
 
 
@@ -180,4 +180,4 @@ This is the total number of samples taken from the sample.
 
 > Five students, $A$, $B$, $C$, $D$, $E$, took part in a contest. One prediction was that the contestants would finish in the order $ABCDE$. This prediction was very poor. In fact no contestant finished in the position predicted, and no two contestants predicted to finish consecutively actually did so. A second prediction had the contestants finishing in the order $DAECB$. This prediction was better. Exactly two of the contestants finished in the places predicted, and two disjoint pairs of students predicted to finish consecutively actually did so. Determine the order in which the contestants finished.
 
-[[src_imho_1963__Q06]]
+[[Quesiti/src_imho_1963#q06|src_imho_1963__Q06]]

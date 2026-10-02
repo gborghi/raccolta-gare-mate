@@ -33,7 +33,7 @@ Cyclic quadrilateral if two triangles have equal areas
 
 > In the convex quadrilateral $ABCD$, the diagonals $AC$ and $BD$ are perpendicular and the opposite sides $AB$ and $DC$ are not parallel. Suppose that the point $P$, where the perpendicular bisectors of $AB$ and $DC$ meet, is inside $ABCD$. Prove that $ABCD$ is a cyclic quadrilateral if and only if the triangles $ABP$ and $CDP$ have equal areas.
 
-[[src_imho_1998__Q01]]
+[[Quesiti/src_imho_1998#q01|src_imho_1998__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 
 > In a competition, there are $a$ contestants and $b$ judges, where $b \ge 3$ is an odd integer. Each judge rates each contestant as either "pass" or "fail". Suppose $k$ is a number such that, for any two judges, their ratings coincide for at most $k$ contestants. Prove that $k/a \ge (b-1)/(2b)$.
 
-[[src_imho_1998__Q02]]
+[[Quesiti/src_imho_1998#q02|src_imho_1998__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 
 > For any positive integer $n$, let $d(n)$ denote the number of positive divisors of $n$ (including $1$ and $n$ itself). Determine the positive integers $k$ such that $d(n^2)/d(n) = k$ for some $n$.
 
-[[src_imho_1998__Q03]]
+[[Quesiti/src_imho_1998#q03|src_imho_1998__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 
 > Determine the pairs $(a, b)$ of positive integers such that $ab^2 + b + 7$ divides $a^2 b + a + b$.
 
-[[src_imho_1998__Q04]]
+[[Quesiti/src_imho_1998#q04|src_imho_1998__Q04]]
 
 
 
@@ -141,7 +141,7 @@ Incircle touch points construction: angle RIS is acute
 
 > Let $I$ be the incenter of triangle $ABC$. Let the incircle of $ABC$ touch the sides $BC$, $CA$, and $AB$ at $K$, $L$, and $M$, respectively. The line through $B$ parallel to $MK$ meets the lines $LM$ and $LK$ at $R$ and $S$, respectively. Prove that angle $RIS$ is sharp.
 
-[[src_imho_1998__Q05]]
+[[Quesiti/src_imho_1998#q05|src_imho_1998__Q05]]
 
 
 
@@ -168,4 +168,4 @@ Incircle touch points construction: angle RIS is acute
 
 > Consider the functions $f$ from the set $N$ of all positive integers in itself satisfying $f(t^2 f(s)) = s(f(t))^2$ for all $s$ and $t$ in $N$. Determine the least possible value of $f(1998)$.
 
-[[src_imho_1998__Q06]]
+[[Quesiti/src_imho_1998#q06|src_imho_1998__Q06]]

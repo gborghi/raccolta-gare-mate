@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Una sequenza $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa $$a_{n+1} = \frac{a_n(a_n - 1)}{a_n + 1}$$ per tutti gli integri positivi $n$. Per quali valori di $a_1$ tutti i termini della sequenza sono numeri interi pari?
 
-[[src_bmo_2019-20_round2__Q01]]
+[[Quesiti/src_bmo_2019-20_round2#q01|src_bmo_2019-20_round2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > (Il circonradio di un triangolo è il raggio del cerchio che attraversa tutti e tre i suoi vertici.)
 
-[[src_bmo_2019-20_round2__Q02]]
+[[Quesiti/src_bmo_2019-20_round2#q02|src_bmo_2019-20_round2__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: BMO Round 2
 > 
 > (Due colorazioni sono diverse se in una di esse c'è almeno una cellula di colore nero.)
 
-[[src_bmo_2019-20_round2__Q03]]
+[[Quesiti/src_bmo_2019-20_round2#q03|src_bmo_2019-20_round2__Q03]]
 
 
 
@@ -126,4 +126,4 @@ level: BMO Round 2
 
 > Una sequenza $b_1, b_2, b_3, \ldots$ di numeri reali non zero ha la proprietà che $$b_{n+1} = \frac{b_n^2 - 1}{b_n}$$ per tutti gli enti interi positivi $n$. Supponiamo che $b_1 = 1$ e $b_7 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare inoltre che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
 
-[[src_bmo_2019-20_round2__Q04]]
+[[Quesiti/src_bmo_2019-20_round2#q04|src_bmo_2019-20_round2__Q04]]

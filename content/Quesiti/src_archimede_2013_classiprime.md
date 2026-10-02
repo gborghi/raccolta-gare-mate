@@ -41,7 +41,7 @@ level: Classi Prime
 > So a is 2255 and b is 2256. What is the number of units of the common multiple of a and b? A 0 B 2 C 4 D 8 E 5 F 6
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q01]]
+[[Quesiti/src_archimede_2013_classiprime#q01|src_archimede_2013_classiprime__Q01]]
 
 
 
@@ -80,7 +80,7 @@ level: Classi Prime
 > In the restaurant At the Zoo meals are made up of a second, a contour and a glass of wine. The second dish can be chosen from catfish, fishcake and steak; the outline between toasted potatoes, salad and peppers; the wine from white, red and pink. Whoever orders fish can't drink red wine. How many possible compositions of a meal? A 21 B 27 C 9 D 14 E 24 F 32
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q02]]
+[[Quesiti/src_archimede_2013_classiprime#q02|src_archimede_2013_classiprime__Q02]]
 
 
 
@@ -116,7 +116,7 @@ level: Classi Prime
 > In an ABC triangle we know that AB is 109.7 cm and AC is 112.6 cm and that the size of the side BC, expressed in cm, is whole. What are the possible different values for the length of the BC side? A 220 B 256 C 108 D 276 E 144 F 193
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q03]]
+[[Quesiti/src_archimede_2013_classiprime#q03|src_archimede_2013_classiprime__Q03]]
 
 
 
@@ -154,7 +154,7 @@ level: Classi Prime
 > Albert forgot the combination of his safe, but he remembers that it was a four-digit number, all different from zero and not necessarily different from each other, and that the sum of the first and last digits is 9, while the sum of the second and third is 7. How many attempts will you have to make to open the safe? A 48 B 24 C 14 D 96 E 72 F 63
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q04]]
+[[Quesiti/src_archimede_2013_classiprime#q04|src_archimede_2013_classiprime__Q04]]
 
 
 
@@ -201,7 +201,7 @@ level: Classi Prime
 > Given a convex quadrilateral ABCD, consider the following statements: (a) if the AC diagonal is a bisector of the angles in A and C and AB = BC, then ABCD is a rim; (b) if the AC diagonal is a bisector of the angle in A and AB = BC, then ABCD is a rim; (c) if the AC diagonal is a bisector of the angles in A and C and AB = AD, then ABCD is a rim. So those corrections are: A only (a) B no C all D only (c) E only (a) and (b) F only (a) and (c)
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q05]]
+[[Quesiti/src_archimede_2013_classiprime#q05|src_archimede_2013_classiprime__Q05]]
 
 
 
@@ -238,7 +238,7 @@ level: Classi Prime
 > In a enclosure there are ostriches, bulls and unicorns ( unicorns are animals with 4 legs and only one horn on the head). We know that there are 100 heads, 364 legs and 141 horns. How many unicorns are there? A 23 B 31 C 29 D 45 E 19 F There is not enough data to establish this
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q06]]
+[[Quesiti/src_archimede_2013_classiprime#q06|src_archimede_2013_classiprime__Q06]]
 
 
 
@@ -281,7 +281,7 @@ Maximum number of students with distinct binary words for 5 tests
 > The IB class math teacher, in classroom assignments, has the habit of preparing two different tests (A and B) and having exactly half of the students take the type A test and the other half the type B test. At the end of the quarter, it is noted with pleasure that no student has ever been absent during classroom assignments. Note also that, however two students are taken, there is at least one of the 5 classroom tasks in which they have taken different tests. How many kids are there? There is no maximum at 32 B 10 C 24 D 36 E 16 F because it is possible to satisfy the requirements with an arbitrarily high number of students
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q07]]
+[[Quesiti/src_archimede_2013_classiprime#q07|src_archimede_2013_classiprime__Q07]]
 
 
 
@@ -318,7 +318,7 @@ Maximum number of students with distinct binary words for 5 tests
 > It would take Luke eight hours to paint a wall, while Paul, who is slower, would take twice as long to do the same work. If they decide to work together, how long will it take them to paint the wall? Five hours and 20 minutes. B 6 hours C 4 hours and 30 minutes. D 5 hours and 15 minutes. And four hours and 40 minutes. F 5 hours
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q08]]
+[[Quesiti/src_archimede_2013_classiprime#q08|src_archimede_2013_classiprime__Q08]]
 
 
 
@@ -355,7 +355,7 @@ Maximum number of students with distinct binary words for 5 tests
 > Given an ABCD rectangle, increasing both the base and height by 1 cm, the area increases by 187 cm2. What is the perimeter of ABCD? At 372 cm B 187 cm C 186 cm D 748 cm E 558 cm F there are not enough data to establish it
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q09]]
+[[Quesiti/src_archimede_2013_classiprime#q09|src_archimede_2013_classiprime__Q09]]
 
 
 
@@ -398,7 +398,7 @@ Maximum number of students with distinct binary words for 5 tests
 > Luke has many balls (more than 100 but less than 1000) and tries to put them in boxes of the capacity of 6 balls each. However, he discovers that, in doing so, the last box is not filled in its entirety, but only with 5 balls. The same thing happens if, instead of using six-ball boxes, you use all seven-ball boxes, or all eight-ball boxes, or all nine-ball boxes: in the last box you always end up with exactly five balls. How many balls does Luca have? A 509 B 341 C 439 D 383 E 677 F There are not enough data to establish this
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q10]]
+[[Quesiti/src_archimede_2013_classiprime#q10|src_archimede_2013_classiprime__Q10]]
 
 
 
@@ -435,7 +435,7 @@ Maximum number of students with distinct binary words for 5 tests
 > To the polynomial x8 + x4 you want to add a monomial (of degree different from 4 and 8) so that the trinomial you get is the square of a binomial. How many different ways can this be done? A 4 B 1 C 2 D 3 E 5 F more than 5
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q11]]
+[[Quesiti/src_archimede_2013_classiprime#q11|src_archimede_2013_classiprime__Q11]]
 
 
 
@@ -474,7 +474,7 @@ Maximum number of students with distinct binary words for 5 tests
 > A positive integer is said to be good if it satisfies both of the following properties: (a) it contains only the digits 1, 2, 3 and 4, each at least once; (b) by permuting its digits one can never get a smaller number. How many are the six-digit numbers? A 10 B 25 C 12 D 6 E 24 F 32
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q12]]
+[[Quesiti/src_archimede_2013_classiprime#q12|src_archimede_2013_classiprime__Q12]]
 
 
 
@@ -516,7 +516,7 @@ Maximum number of students with distinct binary words for 5 tests
 > Kenoncè Island has no less than 2013 inhabitants and each of them can be either a Fante or a Knight. The Fairies always lie while the Knights always tell the truth. In the evening, they all sit together at a huge round table with exactly as many seats as the inhabitants, sitting so that they can all say the following sentence together: The first 5 people on my right are all Fanti What is the minimum number of inhabitants the island can have? A 2016 B 2013 C 2014 D 2015 E 2017 F 2018
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q13]]
+[[Quesiti/src_archimede_2013_classiprime#q13|src_archimede_2013_classiprime__Q13]]
 
 
 
@@ -551,7 +551,7 @@ Maximum number of students with distinct binary words for 5 tests
 > So p is the largest prime number that divides 251001. In the case of the first subparagraph of Article 2 (1) of Regulation (EC) No 1408/71 the Commission shall adopt delegated acts in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71 and in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71.';
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q14]]
+[[Quesiti/src_archimede_2013_classiprime#q14|src_archimede_2013_classiprime__Q14]]
 
 
 
@@ -610,7 +610,7 @@ Maximum number of students with distinct binary words for 5 tests
 > How many ways, in a chessboard 8 × 8, can I choose a non-empty subset of rectangular boxes? A 1296 B 1440 C 1024 D 1600 E 1225 F 1156
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q15]]
+[[Quesiti/src_archimede_2013_classiprime#q15|src_archimede_2013_classiprime__Q15]]
 
 
 
@@ -647,7 +647,7 @@ Maximum number of students with distinct binary words for 5 tests
 > How many different ways can I put together the amount of 1 euro using only 1, 2 and 5 cent coins? A 541 B 520 C 495 D 512 E 496 F None of the other answers is correct
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q16]]
+[[Quesiti/src_archimede_2013_classiprime#q16|src_archimede_2013_classiprime__Q16]]
 
 
 
@@ -685,7 +685,7 @@ Maximum number of students with distinct binary words for 5 tests
 > N is the product of all positive integers divided by 576 (including the number itself). What is 21√n worth? A 24 B 32 C 144 D 12 E 18 F is not an integer
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q17]]
+[[Quesiti/src_archimede_2013_classiprime#q17|src_archimede_2013_classiprime__Q17]]
 
 
 
@@ -725,7 +725,7 @@ Maximum number of students with distinct binary words for 5 tests
 > A rectangular trapezoid is divided by the diagonals into 4 triangles: the smallest has an area of 396 cm2 and the largest has an area of 539 cm2. What's the area of the trapezoid? A 1859 cm2 B 1757 cm2 C 1911 cm2 D 2013 cm2 E 1835 cm2 F there are not enough data to establish it
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q18]]
+[[Quesiti/src_archimede_2013_classiprime#q18|src_archimede_2013_classiprime__Q18]]
 
 
 
@@ -765,7 +765,7 @@ Maximum for which Claudia wins (positions lost)
 > Claudia and Luca play the following game: at the beginning Claudia puts on the table a stack of no more than 200 coins, then in turn, starting with Luca, each player, at his choice, removes 7 coins or adds 4 coins to the stack. He loses whoever finds himself having to move with the pile empty. What is the maximum number of coins Claudia can put on the table if she wants to be sure she can win the game, whatever moves Luca makes? A 198 B 200 C 199 D 197 E 194 F 3
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q19]]
+[[Quesiti/src_archimede_2013_classiprime#q19|src_archimede_2013_classiprime__Q19]]
 
 
 
@@ -812,4 +812,4 @@ Maximum number of Euclidean reductions per pair < 1000*
 > Solutions
 
 **Answer:** A
-[[src_archimede_2013_classiprime__Q20]]
+[[Quesiti/src_archimede_2013_classiprime#q20|src_archimede_2013_classiprime__Q20]]

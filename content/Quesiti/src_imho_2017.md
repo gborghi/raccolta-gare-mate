@@ -35,7 +35,7 @@ level: IMO
 
 > For each integer $a_0 > 1$, define the sequence $a_0, a_1, a_2, \ldots$ by: $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{if } \sqrt{a_n} \text{ is an integer,} \\ a_n + 3 & \text{otherwise,} \end{cases} \quad \text{for each } n \ge 0.$$ Determine all values of $a_0$ for which there is a number $A$ such that $a_n = A$ for infinitely many values of $n$.
 
-[[src_imho_2017__Q01]]
+[[Quesiti/src_imho_2017#q01|src_imho_2017__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: IMO
 
 > Let $\mathbb{R}$ be the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$, $$f(f(x)f(y)) = f(x + y).$$
 
-[[src_imho_2017__Q02]]
+[[Quesiti/src_imho_2017#q02|src_imho_2017__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: IMO
 > 
 > Is it always possible, no matter how the rabbit moves, and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after $10^9$ rounds she can ensure that the distance between her and the rabbit is at most $100$?
 
-[[src_imho_2017__Q03]]
+[[Quesiti/src_imho_2017#q03|src_imho_2017__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: IMO
 
 > Let $R$ and $S$ be different points on a circle $\Omega$ such that $RS$ is not a diameter. Let $\ell$ be the tangent line to $\Omega$ at $R$. Point $T$ is such that $S$ is the midpoint of the line segment $RT$. Point $J$ is on the shorter arc $RS$ of $\Omega$ so that the circumcircle $\Gamma$ of triangle $JST$ intersects $\ell$ at two distinct points. Let $A$ be the common point of $\Gamma$ and $\ell$ that is closer to $R$. Line $AJ$ meets $\Omega$ again at $K$. Prove that the line $KT$ is tangent to $\Gamma$.
 
-[[src_imho_2017__Q04]]
+[[Quesiti/src_imho_2017#q04|src_imho_2017__Q04]]
 
 
 
@@ -180,7 +180,7 @@ level: IMO
 > 
 > Show that this is always possible.
 
-[[src_imho_2017__Q05]]
+[[Quesiti/src_imho_2017#q05|src_imho_2017__Q05]]
 
 
 
@@ -208,4 +208,4 @@ level: IMO
 
 > An ordered pair $(x, y)$ of integers is called a primitive point if the greatest common divisor of $x$ and $y$ is $1$. Given a finite set $S$ of primitive points, prove that there exist a positive integer $n$ and integers $a_0, a_1, \ldots, a_n$ such that, for each $(x, y)$ in $S$, we have: $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
 
-[[src_imho_2017__Q06]]
+[[Quesiti/src_imho_2017#q06|src_imho_2017__Q06]]

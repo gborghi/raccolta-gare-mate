@@ -35,7 +35,7 @@ level: China Girls' Mathematical Olympiad
 > Trovare tutti gli integri positivi $z$ in modo che l'equazione $\frac{1}{x} + \frac{1}{y} = \frac{1}{z}$ abbia esattamente $2011$ soluzioni di integri positivi $(x, y)$ con $x \leq y$.
 
 **Risposta:** $z = p^{4021}$ for any prime $p$
-[[src_cn_cgmo_2011__Q01]]
+[[Quesiti/src_cn_cgmo_2011#q01|src_cn_cgmo_2011__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 2.1, the diagonals $AC$, $BD$ of quadrilateral $ABCD$ intersect at point $E$, the midperpendiculars of $AB$ and $CD$ intersect at point $F$, and line $EF$ intersects with $BC$ and $AD$ at points $P$ and $Q$ respectively. Prove that $FP = FQ$.
 
-![[src_cn_cgmo_b11_w193__Q02.png]]
+![[src_cn_cgmo_b11_w193__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -64,9 +64,9 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura. 2.1, le diagonali $AC$, $BD$ del quadrilaterale $ABCD$ si intersecano al punto $E$, le perpendicolari medie di $AB$ e $CD$ si intersecano al punto $F$, e la linea $EF$ si interseca con $BC$ e $AD$ rispettivamente ai punti $P$ e $Q$. Prove che $FP = FQ$.
 
-![[src_cn_cgmo_b11_w193__Q02.png]]
+![[src_cn_cgmo_b11_w193__q02.png]]
 
-[[src_cn_cgmo_2011__Q02]]
+[[Quesiti/src_cn_cgmo_2011#q02|src_cn_cgmo_2011__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: China Girls' Mathematical Olympiad
 
 > Supponiamo che i numeri positivi reali $a$, $b$, $c$, $d$ soddisfino $abcd = 1$. Prova $$\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d} + \frac{9}{a+b+c+d} \ge \frac{25}{4}.$$
 
-[[src_cn_cgmo_2011__Q03]]
+[[Quesiti/src_cn_cgmo_2011#q03|src_cn_cgmo_2011__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: China Girls' Mathematical Olympiad
 > $n$ ($n \ge 3$) i giocatori di tennis da tavolo hanno un torneo di round-robin  ogni giocatore giocherà tutti gli altri esattamente una volta, e non vi è alcun gioco di pareggio. Supponiamo che, dopo il torneo, tutti i giocatori possano essere organizzati in un cerchio in modo tale che: per tutti e tre i giocatori $A$, $B$, $C$ se $A$, $B$ sono adiacenti, allora almeno uno di loro ha sconfitto $C$. Si prega di trovare tutti i possibili valori di $n$. (posta da Fu Yunhao)
 
 **Risposta:** all odd $n \ge 3$
-[[src_cn_cgmo_2011__Q04]]
+[[Quesiti/src_cn_cgmo_2011#q04|src_cn_cgmo_2011__Q04]]
 
 
 
@@ -136,7 +136,7 @@ level: China Girls' Mathematical Olympiad
 
 > Given a real number $s$, please find the minimum real number $\lambda = \lambda(s)$, such that for any complex numbers $z_1$, $z_2$, $z$, if $|z_1| \le s|z - z_1|$, then $|z_1 - z_2| \le \lambda |z - z_2|$. (posed by Li Shenghong)
 
-![[src_cn_cgmo_b11_w201__Q05.png]]
+![[src_cn_cgmo_b11_w201__q05.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
@@ -153,10 +153,10 @@ level: China Girls' Mathematical Olympiad
 
 > Data una cifra reale $s$, si prega di trovare la cifra reale minima $\lambda = \lambda(s)$, in modo che per qualsiasi numero complesso $z_1$, $z_2$, $z$, se $|z_1| \le s|z - z_1|$, allora $|z_1 - z_2| \le \lambda |z - z_2|$. (Posizionato da Li Shenghong)
 
-![[src_cn_cgmo_b11_w201__Q05.png]]
+![[src_cn_cgmo_b11_w201__q05.png]]
 
 **Risposta:** $\lambda(s) = \max(s, 1)$
-[[src_cn_cgmo_2011__Q05]]
+[[Quesiti/src_cn_cgmo_2011#q05|src_cn_cgmo_2011__Q05]]
 
 
 
@@ -183,7 +183,7 @@ Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 
 > Esistono numeri interi positivi $m$, $n$ in modo che $m^n + 1$ sia un quadrato perfetto? Prova la tua conclusione. (Posizionato da Yuan Hanhua)
 
-[[src_cn_cgmo_2011__Q06]]
+[[Quesiti/src_cn_cgmo_2011#q06|src_cn_cgmo_2011__Q06]]
 
 
 
@@ -214,7 +214,7 @@ Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 
 > Supponiamo che le piccole palle $n$ siano state inserite nelle scatole $n$ numerate $B_1, B_2, \ldots, B_n$. Ogni volta possiamo selezionare una casella $B_k$ e eseguire le seguenti operazioni: (1) Se $k = 1$ e c'è almeno una palla in $B_1$, spostare una palla da $B_1$ a $B_2$. (2) Se $k = n$ e c'è almeno una palla in $B_n$, spostare una palla da $B_n$ a $B_{n-1}$. (3) Se $2 \le k \le n-1$ e ci sono almeno due palle in $B_k$, spostare una palla da $B_k$ a $B_{k-1}$ e una palla a $B_{k+1}$. Prova quanto segue: non importa come le palle siano distribuite tra le scatole originariamente, è sempre possibile lasciare che ciascuna scatola contenga esattamente una palla con operazioni finite. (Posizionato da Wang Xinmao)
 
-[[src_cn_cgmo_2011__Q07]]
+[[Quesiti/src_cn_cgmo_2011#q07|src_cn_cgmo_2011__Q07]]
 
 
 
@@ -227,7 +227,7 @@ Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 
 > As shown in Fig. 8.1, $\odot O$ is the escribed circle touching side $BC$ of $\triangle ABC$ at point $M$, and points $D$, $E$ are on the segments $AB$, $AC$, respectively, satisfying $DE \parallel BC$; $\odot O_1$ is the inscribed circle of $\triangle ADE$ tangent to side $DE$ at point $N$; $O_1B$, $DO$ intersect at point $F$, and $O_1C$, $DO$ intersect at point $G$. Please prove that $MN$ divides segment $FG$ equally. (posed by Bian Hongping)
 
-![[src_cn_cgmo_b11_w209__Q08.png]]
+![[src_cn_cgmo_b11_w209__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -243,6 +243,6 @@ Esistenza di integri positivi m,n che rendono m^n+1 un quadrato perfetto
 
 > Come mostrato nella figura. 8.1, $\odot O$ è il lato di contatto del cerchio inciso $BC$ di $\triangle ABC$ al punto $M$, e i punti $D$, $E$ sono sui segmenti $AB$ e $AC$, rispettivamente, soddisfacendo $DE \parallel BC$; $\odot O_1$ è il cerchio inciso di $\triangle ADE$ tangente al lato $DE$ al punto $N$; $O_1B$, $DO$ si intersecano al punto $F$, e $O_1C$, $DO$ si intersecano al punto $G$. Provare che $MN$ divide ugualmente il segmento $FG$. (Posizionato da Bian Hongping)
 
-![[src_cn_cgmo_b11_w209__Q08.png]]
+![[src_cn_cgmo_b11_w209__q08.png]]
 
-[[src_cn_cgmo_2011__Q08]]
+[[Quesiti/src_cn_cgmo_2011#q08|src_cn_cgmo_2011__Q08]]

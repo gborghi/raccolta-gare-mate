@@ -39,7 +39,7 @@ level: OBM Nível 2
 > A) $1{,}000$ \quad B) $10{,}000$ \quad C) $50{,}000$ \quad D) $100{,}000$ \quad E) $500{,}000$
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q01]]
+[[Quesiti/src_obm_2000_n2_f1#q01|src_obm_2000_n2_f1__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 > A) $576$ \quad B) $4{,}608$ \quad C) $2{,}304$ \quad D) $720$ \quad E) $144$
 
 **Risposta:** A
-[[src_obm_2000_n2_f1__Q02]]
+[[Quesiti/src_obm_2000_n2_f1#q02|src_obm_2000_n2_f1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 2
 > 
 > (Options A through E show different flag positions on the right gear.)
 
-![[src_obm_2000_n2_f1__Q03.png]]
+![[src_obm_2000_n2_f1__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -106,10 +106,10 @@ level: OBM Nível 2
 > 
 > (Le opzioni da A a E mostrano posizioni di bandiera diverse sul marciapiede destro.)
 
-![[src_obm_2000_n2_f1__Q03.png]]
+![[src_obm_2000_n2_f1__q03.png]]
 
 **Risposta:** A
-[[src_obm_2000_n2_f1__Q03]]
+[[Quesiti/src_obm_2000_n2_f1#q03|src_obm_2000_n2_f1__Q03]]
 
 
 
@@ -151,7 +151,7 @@ level: OBM Nível 2
 > A) Mario \quad B) Pedro \quad C) Benjamim \quad D) Carlos
 
 **Risposta:** B
-[[src_obm_2000_n2_f1__Q04]]
+[[Quesiti/src_obm_2000_n2_f1#q04|src_obm_2000_n2_f1__Q04]]
 
 
 
@@ -188,7 +188,7 @@ level: OBM Nível 2
 > A) La media della classe A è migliorata, ma la classe B è peggiorata. B) La media della classe A è peggiorata, ma la classe B è migliorata. C) Le medie di entrambe le classi sono migliorate. D) Le medie di entrambe le classi sono peggiorate. E) Le medie delle classi possono migliorare o peggiorare, a seconda dei punteggi dei candidati.
 
 **Risposta:** B
-[[src_obm_2000_n2_f1__Q05]]
+[[Quesiti/src_obm_2000_n2_f1#q05|src_obm_2000_n2_f1__Q05]]
 
 
 
@@ -221,7 +221,7 @@ level: OBM Nível 2
 > A) $50^\circ$ \quad B) $30^\circ$ \quad C) $40^\circ$ \quad D) $80^\circ$ \quad E) $70^\circ$
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q06]]
+[[Quesiti/src_obm_2000_n2_f1#q06|src_obm_2000_n2_f1__Q06]]
 
 
 
@@ -236,7 +236,7 @@ level: OBM Nível 2
 > 
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $8$
 
-![[src_obm_2000_n2_f1__Q07.png]]
+![[src_obm_2000_n2_f1__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -255,10 +255,10 @@ level: OBM Nível 2
 > 
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $8$
 
-![[src_obm_2000_n2_f1__Q07.png]]
+![[src_obm_2000_n2_f1__q07.png]]
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q07]]
+[[Quesiti/src_obm_2000_n2_f1#q07|src_obm_2000_n2_f1__Q07]]
 
 
 
@@ -291,7 +291,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $105$ \quad B) $630$ \quad C) $1{,}050$ \quad D) $1{,}575$ \quad E) non determinato
 
 **Risposta:** B
-[[src_obm_2000_n2_f1__Q08]]
+[[Quesiti/src_obm_2000_n2_f1#q08|src_obm_2000_n2_f1__Q08]]
 
 
 
@@ -323,7 +323,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $9^\circ$ \quad B) $12^\circ$ \quad C) $15^\circ$ \quad D) $18^\circ$ \quad E) $21^\circ$
 
 **Risposta:** A
-[[src_obm_2000_n2_f1__Q09]]
+[[Quesiti/src_obm_2000_n2_f1#q09|src_obm_2000_n2_f1__Q09]]
 
 
 
@@ -356,7 +356,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $0$ \quad B) $1$ \quad C) $2$ \quad D) $3$ \quad E) $4$
 
 **Risposta:** B
-[[src_obm_2000_n2_f1__Q10]]
+[[Quesiti/src_obm_2000_n2_f1#q10|src_obm_2000_n2_f1__Q10]]
 
 
 
@@ -389,7 +389,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $406$ \quad B) $376$ \quad C) $392$ \quad D) $384$ \quad E) $400$
 
 **Risposta:** E
-[[src_obm_2000_n2_f1__Q11]]
+[[Quesiti/src_obm_2000_n2_f1#q11|src_obm_2000_n2_f1__Q11]]
 
 
 
@@ -422,7 +422,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $51$ \quad B) $52$ \quad C) $53$ \quad D) $54$ \quad E) $55$
 
 **Risposta:** C
-[[src_obm_2000_n2_f1__Q12]]
+[[Quesiti/src_obm_2000_n2_f1#q12|src_obm_2000_n2_f1__Q12]]
 
 
 
@@ -455,7 +455,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $x + y$ \quad B) $x^2 + y^2$ \quad C) $(x + y)^2$ \quad D) $x^2 + y(x + y)$ \quad E) $\dfrac{x^2 + y^2}{x + y}$
 
 **Risposta:** C
-[[src_obm_2000_n2_f1__Q13]]
+[[Quesiti/src_obm_2000_n2_f1#q13|src_obm_2000_n2_f1__Q13]]
 
 
 
@@ -470,7 +470,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > 
 > A) $\dfrac{9}{10}$ \quad B) $\dfrac{15}{16}$ \quad C) $\dfrac{8}{9}$ \quad D) $\dfrac{11}{12}$ \quad E) $\dfrac{14}{15}$
 
-![[src_obm_2000_n2_f1__Q14.png]]
+![[src_obm_2000_n2_f1__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -489,10 +489,10 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > 
 > A) $\dfrac{9}{10}$ \quad B) $\dfrac{15}{16}$ \quad C) $\dfrac{8}{9}$ \quad D) $\dfrac{11}{12}$ \quad E) $\dfrac{14}{15}$
 
-![[src_obm_2000_n2_f1__Q14.png]]
+![[src_obm_2000_n2_f1__q14.png]]
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q14]]
+[[Quesiti/src_obm_2000_n2_f1#q14|src_obm_2000_n2_f1__Q14]]
 
 
 
@@ -529,7 +529,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 > A) $\dfrac{a+1}{b+1}$ = $\dfrac{a}{b}$. B) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b} + 1$. C) $\dfrac{a+1}{b+1}$ è inferiore a $\dfrac{a}{b}$. D) $\dfrac{a+1}{b+1}$ è maggiore di $\dfrac{a}{b}$ ma inferiore a $1$. E) $\dfrac{a+1}{b+1}$ può essere inferiore a $\dfrac{a}{b}$.
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q15]]
+[[Quesiti/src_obm_2000_n2_f1#q15|src_obm_2000_n2_f1__Q15]]
 
 
 
@@ -562,7 +562,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) Nessuno; il primo giocatore non può garantire una vittoria.
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q16]]
+[[Quesiti/src_obm_2000_n2_f1#q16|src_obm_2000_n2_f1__Q16]]
 
 
 
@@ -577,7 +577,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > 
 > A) $3$ \quad B) $4$ \quad C) $7$ \quad D) $2$ \quad E) $5$
 
-![[src_obm_2000_n2_f1__Q17.png]]
+![[src_obm_2000_n2_f1__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -596,10 +596,10 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > 
 > A) $3$ \quad B) $4$ \quad C) $7$ \quad D) $2$ \quad E) $5$
 
-![[src_obm_2000_n2_f1__Q17.png]]
+![[src_obm_2000_n2_f1__q17.png]]
 
 **Risposta:** E
-[[src_obm_2000_n2_f1__Q17]]
+[[Quesiti/src_obm_2000_n2_f1#q17|src_obm_2000_n2_f1__Q17]]
 
 
 
@@ -632,7 +632,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > A) $75$ \quad B) $48$ \quad C) $51$ \quad D) $1{,}050$ \quad E) $111$
 
 **Risposta:** C
-[[src_obm_2000_n2_f1__Q18]]
+[[Quesiti/src_obm_2000_n2_f1#q18|src_obm_2000_n2_f1__Q18]]
 
 
 
@@ -665,7 +665,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > A) $10\text{h}43\text{min}$ \quad B) $10\text{h}17\text{min}$ \quad C) $10\text{h}48\text{min}$ \quad D) $10\text{h}53\text{min}$ \quad E) $11\text{h}01\text{min}$
 
 **Risposta:** A
-[[src_obm_2000_n2_f1__Q19]]
+[[Quesiti/src_obm_2000_n2_f1#q19|src_obm_2000_n2_f1__Q19]]
 
 
 
@@ -680,7 +680,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > 
 > A) $3931$ \quad B) $3933$ \quad C) $3935$ \quad D) $3937$ \quad E) $3939$
 
-![[src_obm_2000_n2_f1__Q20.png]]
+![[src_obm_2000_n2_f1__q20.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
@@ -699,7 +699,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 > 
 > A) $3931$ \quad B) $3933$ \quad C) $3935$ \quad D) $3937$ \quad E) $3939$
 
-![[src_obm_2000_n2_f1__Q20.png]]
+![[src_obm_2000_n2_f1__q20.png]]
 
 **Risposta:** D
-[[src_obm_2000_n2_f1__Q20]]
+[[Quesiti/src_obm_2000_n2_f1#q20|src_obm_2000_n2_f1__Q20]]

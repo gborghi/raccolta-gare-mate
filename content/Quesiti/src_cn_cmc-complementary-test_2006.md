@@ -21,7 +21,7 @@ level: China Mathematical Competition (Complementary Test)
 > (1) $P_0'$ and $P_0$ are coincident, and arcs $\widehat{P_0Q_0}$ and $\widehat{Q_1P_0'}$ are tangent to each other at $P_0$;
 > (2) Points $P_0$, $Q_0$, $Q_1$, $P_1$ are concyclic.
 
-![[src_cn_b07_w54__Q01.png]]
+![[src_cn_b07_w54__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -39,9 +39,9 @@ level: China Mathematical Competition (Complementary Test)
 
 > Supponiamo un'ellisse con i punti $B_0$ e $B_1$ come i foci intercettano il lato $AB_i$ di $\triangle AB_0B_1$ a $C_i$ ($i = 0, 1$). Prendendo un punto arbitrario $P_0$ sulla linea di estensione di $AB_0$, tracciare un arco $\widehat{P_0Q_0}$ con $B_0$, $B_0P_0$ rispettivamente come centro e raggio, intercettando la linea di estensione di $C_1B_0$ a $Q_0$. Tracciare un arco $\widehat{Q_0P_1}$ con $C_1$, $C_1Q_0$ rispettivamente come centro e raggio, intercettando la linea di estensione di $B_1A$ a $P_1$. Tracciare un arco $\widehat{P_1Q_1}$ con $B_1$, $B_1P_1$ rispettivamente come centro e raggio, intercettando la linea di estensione di $C_0B_1$ a $Q_1$. Tracciare un arco $\widehat{Q_1P_0'}$ con $C_0$, $C_0Q_1$ rispettivamente come centro e raggio, intercettando la linea di estensione di $AB_0$ a $P_0'$. Prove che (1) $P_0'$ e $P_0$ coincidono e che gli archi $\widehat{P_0Q_0}$ e $\widehat{Q_1P_0'}$ sono tangenti tra loro a $P_0$; (2) i punti $P_0$, $Q_0$, $Q_1$, $P_1$ sono conciclici.
 
-![[src_cn_b07_w54__Q01.png]]
+![[src_cn_b07_w54__q01.png]]
 
-[[src_cn_cmc-complementary-test_2006__Q01]]
+[[Quesiti/src_cn_cmc-complementary-test_2006#q01|src_cn_cmc-complementary-test_2006__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > What is the least number of pieces to be removed from the board to ensure that no group of 5 pieces on the board which has Property A? You must prove your answer.
 
-![[src_cn_b07_w62__Q02.png]]
+![[src_cn_b07_w62__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -75,10 +75,10 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > Qual è il numero minimo di pezzi da rimuovere dalla lavagna per garantire che nessun gruppo di 5 pezzi sulla lavagna abbia la proprietà A? Devi provare la tua risposta.
 
-![[src_cn_b07_w62__Q02.png]]
+![[src_cn_b07_w62__q02.png]]
 
 **Risposta:** 11
-[[src_cn_cmc-complementary-test_2006__Q02]]
+[[Quesiti/src_cn_cmc-complementary-test_2006#q02|src_cn_cmc-complementary-test_2006__Q02]]
 
 
 
@@ -110,4 +110,4 @@ Risolvere un sistema di quattro equazioni simmetriche di potenza-somma in x,y,z,
 > Risolvi il seguente sistema di equazioni. $$\begin{cases} x - y + z - w = 2, \\ x^2 - y^2 + z^2 - w^2 = 6, \\ x^3 - y^3 + z^3 - w^3 = 20, \\ x^4 - y^4 + z^4 - w^4 = 66. \end{cases}$$
 
 **Risposta:** $(x,y,z,w)$: $(3,2,1,0)$, $(3,0,1,2)$, $(1,2,3,0)$, $(1,0,3,2)$
-[[src_cn_cmc-complementary-test_2006__Q03]]
+[[Quesiti/src_cn_cmc-complementary-test_2006#q03|src_cn_cmc-complementary-test_2006__Q03]]

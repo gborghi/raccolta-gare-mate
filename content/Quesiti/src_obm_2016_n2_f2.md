@@ -19,7 +19,7 @@ level: OBM Nível 2
 
 > In the figure below, $ABCDE$ is a regular pentagon and $EFG$ is an equilateral triangle. Determine the measure, in degrees, of angle $A\widehat{E}G$.
 
-![[src_obm_2016_n2_f2__Q01.png]]
+![[src_obm_2016_n2_f2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -34,9 +34,9 @@ level: OBM Nível 2
 
 > Nella figura seguente, $ABCDE$ è un pentagono regolare e $EFG$ è un triangolo equilaterale. Determinare la misura, in gradi, dell'angolo $A\widehat{E}G$.
 
-![[src_obm_2016_n2_f2__Q01.png]]
+![[src_obm_2016_n2_f2__q01.png]]
 
-[[src_obm_2016_n2_f2__Q01]]
+[[Quesiti/src_obm_2016_n2_f2#q01|src_obm_2016_n2_f2__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: OBM Nível 2
 
 > In una classe, l'insegnante ha tenuto un voto per decidere se l'esame di matematica sarebbe stato rinviato o meno. Tutti gli studenti hanno votato e, di conseguenza, un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e poi hanno votato di nuovo; 8 studenti hanno cambiato idea, così che $\frac{5}{9}$ degli studenti hanno finito per essere contro il rinvio. Quanti studenti hanno partecipato al voto?
 
-[[src_obm_2016_n2_f2__Q02]]
+[[Quesiti/src_obm_2016_n2_f2#q02|src_obm_2016_n2_f2__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: OBM Nível 2
 
 > Si calcola la somma degli elementi di ciascun sottoinsieme $2$ di elementi di un insieme $S$ di $5$ di integri distinti. Qual è il numero massimo di queste somme che possono essere divisibili per $3$?
 
-[[src_obm_2016_n2_f2__Q03]]
+[[Quesiti/src_obm_2016_n2_f2#q03|src_obm_2016_n2_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 2
 
 > Determinare il numero di soluzioni con $x$ e $y$ integri positivi dell'equazione $$x^2 - y^4 = 36.$$
 
-[[src_obm_2016_n2_f2__Q04]]
+[[Quesiti/src_obm_2016_n2_f2#q04|src_obm_2016_n2_f2__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 
 > Nel Super Bola, una nuova partita di calcio, il giocatore compete in stagioni. Ogni stagione è composta da sette partite, e in ogni partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punti per un pareggio, o $0$ punti per una perdita. In quanti modi diversi un giocatore può guadagnare esattamente $15$ punti in una stagione?
 
-[[src_obm_2016_n2_f2__Q05]]
+[[Quesiti/src_obm_2016_n2_f2#q05|src_obm_2016_n2_f2__Q05]]
 
 
 
@@ -172,7 +172,7 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 
 > $ABCD$ sia un quadrato di lato $4$. L'insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ interamente contenuto in $ABCD$ (anche sul suo confine) contiene almeno un punto $S$. Qual è il numero minimo di punti di $S$?
 
-[[src_obm_2016_n2_f2__Q06]]
+[[Quesiti/src_obm_2016_n2_f2#q06|src_obm_2016_n2_f2__Q06]]
 
 
 
@@ -213,7 +213,7 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 > 
 > b) Sapendo che il prodotto dei numeri $a$, $b$, $c$ è $144$, determinare il valore di $ab + bc + ac$.
 
-[[src_obm_2016_n2_f2__Q07]]
+[[Quesiti/src_obm_2016_n2_f2#q07|src_obm_2016_n2_f2__Q07]]
 
 
 
@@ -226,7 +226,7 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 
 > In the figure below, triangle $ABC$ is equilateral and $BD = CE = AF = \frac{AB}{3}$. Determine the ratio $\dfrac{EG}{GD}$.
 
-![[src_obm_2016_n2_f2__Q08.png]]
+![[src_obm_2016_n2_f2__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -242,9 +242,9 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 
 > Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Determinare il rapporto $\dfrac{EG}{GD}$.
 
-![[src_obm_2016_n2_f2__Q08.png]]
+![[src_obm_2016_n2_f2__q08.png]]
 
-[[src_obm_2016_n2_f2__Q08]]
+[[Quesiti/src_obm_2016_n2_f2#q08|src_obm_2016_n2_f2__Q08]]
 
 
 
@@ -281,4 +281,4 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 > 
 > b) Determinare il numero di soluzioni reali distinte dell'equazione $$p(p(x)) = p(x).$$
 
-[[src_obm_2016_n2_f2__Q09]]
+[[Quesiti/src_obm_2016_n2_f2#q09|src_obm_2016_n2_f2__Q09]]

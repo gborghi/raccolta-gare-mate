@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > In rectangle $ABCD$ there is a point $P$ on side $AB$ and a point $R$ on side $CD$ such that $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ Let $Q$ be the intersection of line $BR$ with line $CP$, and let $S$ be the intersection of line $AR$ with line $DP$. Find the area of quadrilateral $PQRS$. Here $\overline{XY}$ denotes the length of segment $XY$.
 
-![[src_jjmo11yq_yosen__Q01.png]]
+![[src_jjmo11yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,10 +36,10 @@ level: JJMO Yosen
 
 > Nel rettangolo $ABCD$ c'è un punto $P$ sul lato $AB$ e un punto $R$ sul lato $CD$ in modo tale che $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ $Q$ sia l'intersezione della linea $BR$ con la linea $CP$, e $S$ sia l'intersezione della linea $AR$ con la linea $DP$. Trova l'area del quadrilaterale $PQRS$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
 
-![[src_jjmo11yq_yosen__Q01.png]]
+![[src_jjmo11yq_yosen__q01.png]]
 
 **Risposta:** 8/3
-[[src_jjmo11yq_yosen__Q01]]
+[[Quesiti/src_jjmo11yq_yosen#q01|src_jjmo11yq_yosen__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: JJMO Yosen
 > Tra i numeri interi tra $1$ e $20$ inclusi, sono stati scelti numeri $10$ reciprocamente distinti e il prodotto di tali numeri $10$ è risultato essere $45405360000$. Indicare i numeri scelti $10$. L'ordine dei numeri $10$ non importa.
 
 **Risposta:** 5, 7, 10, 11, 12, 13, 14, 15, 18, 20
-[[src_jjmo11yq_yosen__Q02]]
+[[Quesiti/src_jjmo11yq_yosen#q02|src_jjmo11yq_yosen__Q02]]
 
 
 
@@ -81,7 +81,7 @@ level: JJMO Yosen
 
 > A heptagon $PABCDEF$ is inscribed in a circle, and $$AB=BC=CD=DE=EF$$ holds. If $\angle PAB=100^\circ$ and $\angle PFE=120^\circ$, find $\angle FPA$. Here $\overline{XY}$ denotes the length of segment $XY$.
 
-![[src_jjmo11yq_yosen__Q03.png]]
+![[src_jjmo11yq_yosen__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -97,10 +97,10 @@ level: JJMO Yosen
 
 > Un eptagone $PABCDEF$ è inserito in un cerchio, e $$AB=BC=CD=DE=EF$$ si tiene. Se $\angle PAB=100^\circ$ e $\angle PFE=120^\circ$, trovare $\angle FPA$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
 
-![[src_jjmo11yq_yosen__Q03.png]]
+![[src_jjmo11yq_yosen__q03.png]]
 
 **Risposta:** 200/3 degrees
-[[src_jjmo11yq_yosen__Q03]]
+[[Quesiti/src_jjmo11yq_yosen#q03|src_jjmo11yq_yosen__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: JJMO Yosen
 
 > As shown below, $10$ points are arranged, and among them $5$ mutually distinct points are marked. Concerning the $5$ straight lines, each passing through $4$ of these $10$ points (the lines actually drawn as solid lines in the figure), it turned out that, for each line, the number of marked points among the $4$ points lying on it was exactly $2$. In total, how many such ways of marking are there? Note that markings coinciding under rotation or reflection are also counted as distinct.
 
-![[src_jjmo11yq_yosen__Q04.png]]
+![[src_jjmo11yq_yosen__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -130,10 +130,10 @@ level: JJMO Yosen
 
 > Come mostrato di seguito, i punti $10$ sono disposti e tra loro $5$ sono contrassegnati punti reciprocamente distinti. Per quanto riguarda le linee rette $5$, ciascuna che attraversa $4$ di questi punti $10$ (le linee in realtà disegnate come linee solide nella figura), si è scoperto che, per ciascuna linea, il numero di punti segnati tra i punti $4$ che si trovano su di essa era esattamente $2$. In totale, quante sono queste modalità di marcatura? Si noti che anche i segni che coincidono sotto rotazione o riflessione sono considerati come distinti.
 
-![[src_jjmo11yq_yosen__Q04.png]]
+![[src_jjmo11yq_yosen__q04.png]]
 
 **Risposta:** 12
-[[src_jjmo11yq_yosen__Q04]]
+[[Quesiti/src_jjmo11yq_yosen#q04|src_jjmo11yq_yosen__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: JJMO Yosen
 > C'è un triangolo di uguali dimensioni $ABC$ in cui $\angle BAC$ è un angolo retto. C'è un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$ con $\angle ADE=45^\circ$. Se $BD:DC=1:5$ viene dato, si trova $AE:EC$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
 
 **Risposta:** 13:5
-[[src_jjmo11yq_yosen__Q05]]
+[[Quesiti/src_jjmo11yq_yosen#q05|src_jjmo11yq_yosen__Q05]]
 
 
 
@@ -191,7 +191,7 @@ level: JJMO Yosen
 > $a,b,c$ siano tre integri positivi reciprocamente distinti. Poiché le ultime due cifre del prodotto $abc$ sono $99$, si trova il valore più piccolo possibile di $a+b+c$.
 
 **Risposta:** 269
-[[src_jjmo11yq_yosen__Q06]]
+[[Quesiti/src_jjmo11yq_yosen#q06|src_jjmo11yq_yosen__Q06]]
 
 
 
@@ -224,7 +224,7 @@ level: JJMO Yosen
 > Condizione: la linea attraverso i due vertici rossi e la linea attraverso i due vertici blu sono perpendicolari l'una all'altra.
 
 **Risposta:** 235250
-[[src_jjmo11yq_yosen__Q07]]
+[[Quesiti/src_jjmo11yq_yosen#q07|src_jjmo11yq_yosen__Q07]]
 
 
 
@@ -253,7 +253,7 @@ level: JJMO Yosen
 > Quante coppie $(a,b)$ di numeri interi positivi esistono tali che $$\frac{201}{a}+\frac{3}{b}$$ sia un intero?
 
 **Risposta:** 34
-[[src_jjmo11yq_yosen__Q08]]
+[[Quesiti/src_jjmo11yq_yosen#q08|src_jjmo11yq_yosen__Q08]]
 
 
 
@@ -282,7 +282,7 @@ level: JJMO Yosen
 > Quanti triples $(a,b,c)$ di numeri interi positivi sono tali che $a+b+c=2013$ e ciascuno di $a,b,c$ sia coprimo a $2013$?
 
 **Risposta:** 318600
-[[src_jjmo11yq_yosen__Q09]]
+[[Quesiti/src_jjmo11yq_yosen#q09|src_jjmo11yq_yosen__Q09]]
 
 
 
@@ -311,7 +311,7 @@ level: JJMO Yosen
 > Si consideri un esagono regolare $ABCDEF$ con lunghezza laterale $1$. C'è un cerchio che attraversa i due punti $A$ e $C$, e un cerchio che attraversa i due punti $B$ e $D$; questi due cerchi si incrociano a un punto $P$ e a un punto $Q$. Trovare il minimo valore possibile della lunghezza del segmento $PQ$. Qui, si presume che i due cerchi siano distinti.
 
 **Risposta:** (2/3)*sqrt(6)
-[[src_jjmo11yq_yosen__Q10]]
+[[Quesiti/src_jjmo11yq_yosen#q10|src_jjmo11yq_yosen__Q10]]
 
 
 
@@ -349,7 +349,7 @@ level: JJMO Yosen
 > Si noti che una cellula può essere una cellula buona e una cattiva allo stesso tempo. Qual è il valore più grande possibile di (numero di cellule buone) $-$ (numero di cellule cattive)?
 
 **Risposta:** 5050
-[[src_jjmo11yq_yosen__Q11]]
+[[Quesiti/src_jjmo11yq_yosen#q11|src_jjmo11yq_yosen__Q11]]
 
 
 
@@ -378,4 +378,4 @@ level: JJMO Yosen
 > Nel piano c'è un cerchio di raggio inferiore a $1$. Sulla circonferenza di questo cerchio, si prendono i punti $2013$ reciprocamente distinti e si disegna un cerchio di raggio $1$ centrato su ciascuno di essi. Il confine della regione costituita da tutti i punti contenuti in ciascuno di questi cerchi unitari $2013$ aveva lunghezza $1$. Trova la lunghezza del confine della regione costituita da tutti i punti contenuti in almeno uno di questi cerchi unitari $2013$.
 
 **Risposta:** 4*pi - 1
-[[src_jjmo11yq_yosen__Q12]]
+[[Quesiti/src_jjmo11yq_yosen#q12|src_jjmo11yq_yosen__Q12]]

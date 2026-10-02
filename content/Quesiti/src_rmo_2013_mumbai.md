@@ -32,7 +32,7 @@ level: RMO
 
 > Let $ABC$ essere un triangolo di uguali dimensioni con $AB = AC$ e let $\Gamma$ denotare il suo circoncircolo. Un punto $D$ è sull'arco $AB$ di $\Gamma$ che non contiene $C$ e un punto $E$ è sull'arco $AC$ di $\Gamma$ che non contiene $B$ in modo tale che $AD = CE$. Provare che $BE$ è parallelo a $AD$.
 
-[[src_rmo_2013_mumbai__Q01]]
+[[Quesiti/src_rmo_2013_mumbai#q01|src_rmo_2013_mumbai__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: RMO
 
 > Trova tutti i triples $(p, q, r)$ di numeri primi come $pq = r + 1$ e $2p^2 + q^2 = r^2 + 1$.
 
-[[src_rmo_2013_mumbai__Q02]]
+[[Quesiti/src_rmo_2013_mumbai#q02|src_rmo_2013_mumbai__Q02]]
 
 
 
@@ -86,7 +86,7 @@ level: RMO
 
 > Un insieme finito non vuoto $S$ di numeri interi è chiamato $3$-buono se la somma degli elementi di $S$ è divisibile da $3$. Trova il numero di $3$-buoni sottoinsiemi non vuoti di $\{0, 1, 2, \ldots, 9\}$.
 
-[[src_rmo_2013_mumbai__Q03]]
+[[Quesiti/src_rmo_2013_mumbai#q03|src_rmo_2013_mumbai__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: RMO
 
 > In un triangolo $ABC$, i punti $D$ e $E$ si trovano sui segmenti $BC$ e $AC$ in modo tale che $BD = 3DC$ e $AE = 4EC$. Il punto $P$ è in linea $ED$ in modo tale che $D$ sia il punto medio del segmento $EP$. Le linee $AP$ e $BC$ si incrociano al punto $S$. Trova il rapporto $BS/SD$.
 
-[[src_rmo_2013_mumbai__Q04]]
+[[Quesiti/src_rmo_2013_mumbai#q04|src_rmo_2013_mumbai__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: RMO
 
 > $a_1, b_1, c_1$ siano numeri naturali. Definire $$a_2 = \gcd(b_1, c_1), \quad b_2 = \gcd(c_1, a_1), \quad c_2 = \gcd(a_1, b_1),$$ e $$a_3 = \operatorname{lcm}(b_2, c_2), \quad b_3 = \operatorname{lcm}(c_2, a_2), \quad c_3 = \operatorname{lcm}(a_2, b_2).$$ Mostra che $\gcd(b_3, c_3) = a_2$.
 
-[[src_rmo_2013_mumbai__Q05]]
+[[Quesiti/src_rmo_2013_mumbai#q05|src_rmo_2013_mumbai__Q05]]
 
 
 
@@ -171,4 +171,4 @@ level: RMO
 
 > $a, b$ siano numeri reali e $P(x) = x^3 + ax^2 + b$ e $Q(x) = x^3 + bx + a$. Supponiamo che le radici dell'equazione $P(x) = 0$ siano le reciprocità delle radici dell'equazione $Q(x) = 0$. Trova il divisore comune di $P(2013! + 1)$ e $Q(2013! + 1)$.
 
-[[src_rmo_2013_mumbai__Q06]]
+[[Quesiti/src_rmo_2013_mumbai#q06|src_rmo_2013_mumbai__Q06]]

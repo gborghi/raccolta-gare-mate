@@ -41,7 +41,7 @@ level: kangourou
 > Kangourou Day is celebrated every year on the third Thursday of March. The following are the dates of Kangourou Day for the next five years. Four are right, but one is wrong. What kind? This appropriation is intended to cover the expenditure incurred by the Member States in connection with the implementation of the budget of the European Union.
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q01|src_kangourou_2021_junior_marzo__Q01]]
 
 
 
@@ -103,7 +103,7 @@ level: kangourou
 > E)
 
 **Answer:** B
-[[src_kangourou_2021_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q02|src_kangourou_2021_junior_marzo__Q02]]
 
 
 
@@ -153,7 +153,7 @@ level: kangourou
 > E) P = Q = R
 
 **Answer:** B
-[[src_kangourou_2021_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q03|src_kangourou_2021_junior_marzo__Q03]]
 
 
 
@@ -221,7 +221,7 @@ level: kangourou
 >
 
 **Answer:** B
-[[src_kangourou_2021_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q04|src_kangourou_2021_junior_marzo__Q04]]
 
 
 
@@ -258,7 +258,7 @@ level: kangourou
 > At the end of the first half of a handball match the score was 9  14, so the host team was in advantage of 5 nets. Respecting the instructions received from the coach during the interval, the home team in the second half dominated, scoring twice the opponents' net and thus winning the game by one net. What was the final score of the game? A) 20 – 19 B) 21 – 20 C) 22 – 21 D) 23 – 22 E) 24 – 23
 
 **Answer:** B
-[[src_kangourou_2021_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q05|src_kangourou_2021_junior_marzo__Q05]]
 
 
 
@@ -352,7 +352,7 @@ level: kangourou
 > Look at the figure. Six congruent combs, each 5 cm2 in area, are joined together to form a star whose tips are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon? A) 36 B) 40 C) 45 D) 48 E) 60
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q06|src_kangourou_2021_junior_marzo__Q06]]
 
 
 
@@ -399,7 +399,7 @@ level: kangourou
 > E) 24
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q07|src_kangourou_2021_junior_marzo__Q07]]
 
 
 
@@ -473,7 +473,7 @@ level: kangourou
 > C) 18 D) 21 E) 24
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q08|src_kangourou_2021_junior_marzo__Q08]]
 
 
 
@@ -525,7 +525,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2021_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q09|src_kangourou_2021_junior_marzo__Q09]]
 
 
 
@@ -563,7 +563,7 @@ level: kangourou
 > The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2021_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q10|src_kangourou_2021_junior_marzo__Q10]]
 
 
 
@@ -605,7 +605,7 @@ level: kangourou
 > (A) certainly A < B. B) certainly A > B. (c) certainly A × B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q11|src_kangourou_2021_junior_marzo__Q11]]
 
 
 
@@ -653,7 +653,7 @@ How to climb 8 steps by skipping 6
 > E) 10
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q12|src_kangourou_2021_junior_marzo__Q12]]
 
 
 
@@ -708,7 +708,7 @@ Number in place of ? with equal sums on the circumferences*
 > E) 5
 
 **Answer:** A
-[[src_kangourou_2021_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q13|src_kangourou_2021_junior_marzo__Q13]]
 
 
 
@@ -756,7 +756,7 @@ Number in place of ? with equal sums on the circumferences*
 > (e) no one
 
 **Answer:** A
-[[src_kangourou_2021_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q14|src_kangourou_2021_junior_marzo__Q14]]
 
 
 
@@ -798,7 +798,7 @@ Number in place of ? with equal sums on the circumferences*
 > E) 16
 
 **Answer:** D
-[[src_kangourou_2021_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q15|src_kangourou_2021_junior_marzo__Q15]]
 
 
 
@@ -848,7 +848,7 @@ Number in place of ? with equal sums on the circumferences*
 > E) 21
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q16|src_kangourou_2021_junior_marzo__Q16]]
 
 
 
@@ -916,7 +916,7 @@ Number in place of ? with equal sums on the circumferences*
 >
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q17|src_kangourou_2021_junior_marzo__Q17]]
 
 
 
@@ -973,7 +973,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > E) 19
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q18|src_kangourou_2021_junior_marzo__Q18]]
 
 
 
@@ -1011,7 +1011,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > What is the sum of the six angles measured in degrees shown in the picture? A) 360 B) 900 C) 1080 D) 1120 E) 1440
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q19|src_kangourou_2021_junior_marzo__Q19]]
 
 
 
@@ -1055,7 +1055,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > The figure shows a sequence of eight boxes, in the first and last of which the number 2021 appears. Each empty box can be filled with a number so that, for an appropriate number a, the sum of the two numbers in two adjacent boxes is alternately a and a + 1, as shown in the figure. What 's the value of a ? A) 4041 B) 4042 C) 4043 D) 4044 E) 4045 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q20|src_kangourou_2021_junior_marzo__Q20]]
 
 
 
@@ -1098,7 +1098,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > B) 1 / 2 C) 1 / 3 D) √2 / 2 E) √3 / 3
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q21|src_kangourou_2021_junior_marzo__Q21]]
 
 
 
@@ -1136,7 +1136,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > D) 156 E) None of the above.
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q22|src_kangourou_2021_junior_marzo__Q22]]
 
 
 
@@ -1176,7 +1176,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > E) 2021
 
 **Answer:** A
-[[src_kangourou_2021_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q23|src_kangourou_2021_junior_marzo__Q23]]
 
 
 
@@ -1220,7 +1220,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > There's exactly one red, one yellow, and one blue ball. After each red ball, the next one is yellow. Consider the following additional information:
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q24|src_kangourou_2021_junior_marzo__Q24]]
 
 
 
@@ -1249,7 +1249,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > 25. Consider the positive integers that have five digits in decimal writing. How many of them are such that the product of their numbers is equal to 1,000? A) 10 B) 20 C) 30 D) 40 E) 60
 
 **Answer:** D
-[[src_kangourou_2021_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q25|src_kangourou_2021_junior_marzo__Q25]]
 
 
 
@@ -1278,7 +1278,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > 26. Three boys wrote 10 words each. Each boy, for every word he wrote, gained three points if none of the other boys wrote the same word, gained one point if exactly one of the other boys wrote the same JUNIOR word, no point if the word was also written by the other two. When they compared the three scores they got, they found that they were all different. Paolo had the lowest score, 19 points, while Enrico's score was the highest. How many points did Henry get? A) 20 B) 21 C) 23 D) 24 E) 25
 
 **Answer:** E
-[[src_kangourou_2021_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q26|src_kangourou_2021_junior_marzo__Q26]]
 
 
 
@@ -1310,7 +1310,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > 27. The smallest square in the figure has area 16 and the grey triangle has area 1. How much is the area of the largest square? A) 17 B) 18 C) 19 D) 20 E) 21
 
 **Answer:** B
-[[src_kangourou_2021_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q27|src_kangourou_2021_junior_marzo__Q27]]
 
 
 
@@ -1339,7 +1339,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > 28. Each of the two numbers a and b, a > b, is the square of an integer. The difference at  b is a prime number. Which of the following numbers could be b ? A) 100 B) 144 C) 256 D) 900 E) 10.000 2
 
 **Answer:** D
-[[src_kangourou_2021_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q28|src_kangourou_2021_junior_marzo__Q28]]
 
 
 
@@ -1372,7 +1372,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > 29. In Table 4 × 4 some cells must be painted black. The numbers to the right of each row and below each column specify how many black cells should be in the respective row or column. What are the different ways in which black cells can be placed in compliance with the prescriptions? A) 2 B) 3 C) 4 D) 5 E) In more than five ways.
 
 **Answer:** D
-[[src_kangourou_2021_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q29|src_kangourou_2021_junior_marzo__Q29]]
 
 
 
@@ -1401,4 +1401,4 @@ What's the number? in the 3x3 grid after 2x2 moves*
 > 30. Cristina has eight coins whose weight in grams is given by positive integers all different from each other. When Cristina puts any two coins on one of the two plates of a balance sheet and any two coins on the other, the plate containing the heaviest coin of the four coins is always the heaviest plate. What is the smallest possible weight for the heaviest coin? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning, Conservation and Law-enforcement.
 
 **Answer:** C
-[[src_kangourou_2021_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2021_junior_marzo#q30|src_kangourou_2021_junior_marzo__Q30]]

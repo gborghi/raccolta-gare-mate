@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Provare che le circondazioni dei triangoli $EPQ$, $EQR$, $ERS$ e $ESP$ sono tutte uguali.
 
-[[src_bmo_2011-12_round2__Q01]]
+[[Quesiti/src_bmo_2011-12_round2#q01|src_bmo_2011-12_round2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > [Questi sono esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor 3.729 \rfloor = 3$; $\lfloor 1729 \rfloor = 1729$]
 
-[[src_bmo_2011-12_round2__Q02]]
+[[Quesiti/src_bmo_2011-12_round2#q02|src_bmo_2011-12_round2__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > L'insieme dei numeri reali è diviso in due sottinsiemi non vuoti. Prova che per ogni coppia $(m, n)$ di integri positivi, ci sono $x < y$ nello stesso sottoinsieme in modo tale che $m(y - x) < n$.
 
-[[src_bmo_2011-12_round2__Q03]]
+[[Quesiti/src_bmo_2011-12_round2#q03|src_bmo_2011-12_round2__Q03]]
 
 
 
@@ -120,4 +120,4 @@ level: BMO Round 2
 
 > Mostrare che se $a$, $b$, $c$, $d$ sono interi e $a$ è un divisore di $b^n + c^n + d^n - b - c - d$ per tutti gli interi positivi $n$, allora $a$ divide $b + c + d$.
 
-[[src_bmo_2011-12_round2__Q04]]
+[[Quesiti/src_bmo_2011-12_round2#q04|src_bmo_2011-12_round2__Q04]]

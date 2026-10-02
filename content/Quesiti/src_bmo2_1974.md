@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > (ii) Se $O$ è il circoncentro e $G$ il centroide di $\triangle ABC$, dimostrare che $9OG^2 = R^2(1 - 8\cos A \cos B \cos C)$.
 
-[[src_bmo2_1974__Q01]]
+[[Quesiti/src_bmo2_1974#q01|src_bmo2_1974__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: BMO Round 2
 > 
 > In un quadrato di lato 50, una linea poligonale $L$ è costruita in modo tale che la distanza di qualsiasi punto all'interno del quadrato da $L$ (cioè dal punto più vicino su $L$) è inferiore a 1. Prova che la lunghezza di $L$ è superiore a 1248.
 
-[[src_bmo2_1974__Q02]]
+[[Quesiti/src_bmo2_1974#q02|src_bmo2_1974__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 2
 
 > Un cerchio circolare di raggio 1 è posizionato nell'angolo della stanza. (L'angolo è costituito da un pavimento orizzontale e due pareti verticali perpendicolari e il cerchio tocca tutti e tre i piani).
 
-[[src_bmo2_1974__Q03]]
+[[Quesiti/src_bmo2_1974#q03|src_bmo2_1974__Q03]]
 
 
 
@@ -134,4 +134,4 @@ level: BMO Round 2
 > 
 > b) $x + y + z = 3$, $x^3 + y^3 + z^3 = 15$ e $x^8 + y^8 + z^8 = 35$. Dato che $x^2 + y^2 + z^2$ è inferiore a 10, si trova $x^8 + y^8 + z^8$.
 
-[[src_bmo2_1974__Q04]]
+[[Quesiti/src_bmo2_1974#q04|src_bmo2_1974__Q04]]

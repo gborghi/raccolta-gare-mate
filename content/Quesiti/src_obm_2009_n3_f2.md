@@ -30,7 +30,7 @@ level: OBM Nível 3
 > 
 > Certain cells in the table are highlighted (shaded). What is the sum of the highlighted numbers?
 
-![[src_obm_2009_n3_f2__Q01.png]]
+![[src_obm_2009_n3_f2__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -52,9 +52,9 @@ level: OBM Nível 3
 > 
 > Alcune celle della tabella sono evidenziate (ombrate). Qual è la somma dei numeri evidenziati?
 
-![[src_obm_2009_n3_f2__Q01.png]]
+![[src_obm_2009_n3_f2__q01.png]]
 
-[[src_obm_2009_n3_f2__Q01]]
+[[Quesiti/src_obm_2009_n3_f2#q01|src_obm_2009_n3_f2__Q01]]
 
 
 
@@ -81,7 +81,7 @@ level: OBM Nível 3
 
 > In triangolo $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm e $BC = 9$ cm. Che $I$ sia il centro di $ABC$. Determinare la lunghezza del segmento $CI$.
 
-[[src_obm_2009_n3_f2__Q02]]
+[[Quesiti/src_obm_2009_n3_f2#q02|src_obm_2009_n3_f2__Q02]]
 
 
 
@@ -110,7 +110,7 @@ level: OBM Nível 3
 
 > $c$ sia la costante reale più grande tale che $$x^2 + 3y^2 \ge c\,(x^2 + xy + 4y^2)$$ per tutti i numeri reali $x$ e $y$. Determinare il numero intero più vicino a $2009c$.
 
-[[src_obm_2009_n3_f2__Q03]]
+[[Quesiti/src_obm_2009_n3_f2#q03|src_obm_2009_n3_f2__Q03]]
 
 
 
@@ -137,7 +137,7 @@ level: OBM Nível 3
 
 > Nel game show *Toto Bola*, l'host Ciço Magalhães ha due scatole identiche. Un volontario del pubblico è invitato a partecipare al seguente gioco: riceve dieci palle verdi e due palle rosse e le distribuisce tra le due scatole (senza che l'ospite veda), in modo che ciascuna scatola contenga almeno una palla. Poi l'ospite sceglie una delle scatole e disegna una palla. Se la palla è RED, il volontario vince una macchina. Se è VERDE, il volontario vince una banana. La probabilità massima di vincere una vettura è pari a $\dfrac{m}{n}$, dove $m$ e $n$ sono numeri interi positivi con $\gcd(m, n) = 1$. Determinare il valore di $m + n$.
 
-[[src_obm_2009_n3_f2__Q04]]
+[[Quesiti/src_obm_2009_n3_f2#q04|src_obm_2009_n3_f2__Q04]]
 
 
 
@@ -164,7 +164,7 @@ level: OBM Nível 3
 
 > Determinare il numero intero più grande $n$ inferiore a $10000$ in modo tale che $2^n + n$ sia divisibile da $5$.
 
-[[src_obm_2009_n3_f2__Q05]]
+[[Quesiti/src_obm_2009_n3_f2#q05|src_obm_2009_n3_f2__Q05]]
 
 
 
@@ -195,7 +195,7 @@ level: OBM Nível 3
 
 > Determinare il numero di enti enti a 6 cifre $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ che possono essere formati utilizzando sei cifre distinte da $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che siano soddisfatte contemporaneamente le seguenti condizioni: \begin{enumerate} \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$; \item[(ii) $n$ è divisibile per $9$. \end{enumere}
 
-[[src_obm_2009_n3_f2__Q06]]
+[[Quesiti/src_obm_2009_n3_f2#q06|src_obm_2009_n3_f2__Q06]]
 
 
 
@@ -223,7 +223,7 @@ level: OBM Nível 3
 
 > Trova tutti gli integri $a > 0$ e $b > 0$ in modo tale che $$4 \cdot 3^a = 11 + 5^b.$$
 
-[[src_obm_2009_n3_f2__Q07]]
+[[Quesiti/src_obm_2009_n3_f2#q07|src_obm_2009_n3_f2__Q07]]
 
 
 
@@ -257,7 +257,7 @@ level: OBM Nível 3
 > 
 > Determinare il numero di elementi del set $$A_1 \cup A_2 \cup A_3 \cup \cdots \cup A_{2009}.$$
 
-[[src_obm_2009_n3_f2__Q08]]
+[[Quesiti/src_obm_2009_n3_f2#q08|src_obm_2009_n3_f2__Q08]]
 
 
 
@@ -284,4 +284,4 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, abbiamo $\angle A = 120^\circ$ e $BC = 12$ cm. Il cerchio (cerchio) inscritto del triangolo $ABC$ è tangente ai lati $AB$ e $AC$ rispettivamente nei punti $D$ e $E$. $K$ e $L$ siano i punti in cui la linea $DE$ interseca il cerchio con il diametro $BC$. Determinare la distanza tra i punti medi dei segmenti $BC$ e $KL$.
 
-[[src_obm_2009_n3_f2__Q09]]
+[[Quesiti/src_obm_2009_n3_f2#q09|src_obm_2009_n3_f2__Q09]]

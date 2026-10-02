@@ -30,7 +30,7 @@ level: IMO
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](../../Archimede/individuale/imho/all/2026_eng.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
 
 
 <span class="qlang-split" data-lang="en"></span>
@@ -48,7 +48,7 @@ level: IMO
 > 
 > (Note that $\gcd(x,y)$ denotes the greatest common divisor of positive integers $x$ and $y$, and $\mathrm{lcm}(x,y)$ denotes the least common multiple of $x$ and $y$.)
 
-[[src_imho_2026__Q01]]
+[[Quesiti/src_imho_2026#q01|src_imho_2026__Q01]]
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -66,7 +66,7 @@ level: IMO
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-**Fonte:** [apri PDF p.1](../../Archimede/individuale/imho/all/2026_eng.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
 
 
 <span class="qlang-split" data-lang="en"></span>
@@ -78,7 +78,7 @@ level: IMO
 > $$\angle KBA = \angle ACL,\qquad \angle LBK = \angle LNC,\qquad \text{and}\qquad \angle LCK = \angle BMK.$$
 > Let $O$ be the circumcentre of triangle $AKL$. Prove that $OM = ON$.
 
-[[src_imho_2026__Q02]]
+[[Quesiti/src_imho_2026#q02|src_imho_2026__Q02]]
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_disuguaglianze,method_casework,method_invarianti,skill_astrazione,skill_lettura_attenta"></span>
@@ -96,7 +96,7 @@ level: IMO
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](../../Archimede/individuale/imho/all/2026_eng.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
 
 
 <span class="qlang-split" data-lang="en"></span>
@@ -108,7 +108,7 @@ level: IMO
 > 
 > For each $n$, determine the largest value $c$ such that Liu may guarantee a total length of at least $c$, regardless of Xiang's play.
 
-[[src_imho_2026__Q03]]
+[[Quesiti/src_imho_2026#q03|src_imho_2026__Q03]]
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -130,7 +130,7 @@ level: IMO
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.2](../../Archimede/individuale/imho/all/2026_eng.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
 
 
 <span class="qlang-split" data-lang="en"></span>
@@ -146,7 +146,7 @@ level: IMO
 > 
 > For which real values of $\theta$ can Mulan guarantee her victory in finitely many steps, no matter how Shan-Yu plays?
 
-[[src_imho_2026__Q04]]
+[[Quesiti/src_imho_2026#q04|src_imho_2026__Q04]]
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_disuguaglianze,method_sostituzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -161,10 +161,10 @@ level: IMO
 > for every $x,y\in\mathbb{R}_{>0}$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_sostituzione|Sostituzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** Sostituzione, [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** [apri PDF p.2](../../Archimede/individuale/imho/all/2026_eng.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
 
 
 <span class="qlang-split" data-lang="en"></span>
@@ -176,7 +176,7 @@ level: IMO
 > $$\frac{x^2 + f(y)^2}{2} \ge \frac{f(x)+y}{2} \ge \sqrt{x f(y)}$$
 > for every $x,y\in\mathbb{R}_{>0}$.
 
-[[src_imho_2026__Q05]]
+[[Quesiti/src_imho_2026#q05|src_imho_2026__Q05]]
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_funzionali,method_invarianti,method_fattorizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -194,7 +194,7 @@ level: IMO
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.2](../../Archimede/individuale/imho/all/2026_eng.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
 
 
 <span class="qlang-split" data-lang="en"></span>
@@ -206,5 +206,5 @@ level: IMO
 > $$a_{n+T}=a_n+L$$
 > for every positive integer $n$.
 
-[[src_imho_2026__Q06]]
+[[Quesiti/src_imho_2026#q06|src_imho_2026__Q06]]
 

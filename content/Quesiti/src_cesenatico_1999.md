@@ -37,7 +37,7 @@ level: nazionale
 
 > Given a rectangular sheet of $a$ and $b$ sides, with $a > b$, determine the area of the triangle resulting from the overlap of the two sides obtained by folding the sheet along a diagonal (the triangle coloured in grey in the figure). (see figure)
 
-[[src_cesenatico_1999__Q01]]
+[[Quesiti/src_cesenatico_1999#q01|src_cesenatico_1999__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: nazionale
 
 > Let's say a natural number is *balanced* if you write with as many digits as its distinct prime divisors (for example, $15$ is balanced, while $49$ is not). Prove that there is only a finite number of balanced numbers.
 
-[[src_cesenatico_1999__Q02]]
+[[Quesiti/src_cesenatico_1999#q02|src_cesenatico_1999__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: nazionale
 
 > Three radial circumferences of $\gamma_1, \gamma_2, \gamma_3$ and $0 < r_1 < r_2 < r_3$ respectively shall be $r_1, r_2, r_3$. The circumferences $\gamma_1$ and $\gamma_2$ are tangent internally to $\gamma_3$ at two distinct points $A$ and $B$ and intersect each other at two distinct points. Demonstrate that the $AB$ segment passes through one of the intersection points between $\gamma_1$ and $\gamma_2$ if and only if $r_1 + r_2 = r_3$.
 
-[[src_cesenatico_1999__Q03]]
+[[Quesiti/src_cesenatico_1999#q03|src_cesenatico_1999__Q03]]
 
 
 
@@ -122,7 +122,7 @@ level: nazionale
 
 > Alberto and Barbara play the following game. On a table there are $1999$ dice: in turn each player must remove from the table a number of dice of his choice, provided that it is greater than or equal to one, and less than or equal to half the number of dice that are on the table at that time. The player who leaves one cherry on the table loses. Barbara's the first to play. Determine for which of the two players there is a winning strategy and describe that strategy.
 
-[[src_cesenatico_1999__Q04]]
+[[Quesiti/src_cesenatico_1999#q04|src_cesenatico_1999__Q04]]
 
 
 
@@ -149,7 +149,7 @@ level: nazionale
 
 > On a lake there is a village of huts placed on pallets in the nodes of a rectangular lattice $m \times n$ (see example in figure). From the platform of each shed exactly $p$ bridges start, which connect it to one or more of the adjacent sheds (as opposed to the lattice, so not diagonally). For which positive integers $m$, $n$ and $p$ can bridges be placed so that any other hut is reached from each hut? (Of course, between two adjacent huts, more bridges can be placed.) (see figure)
 
-[[src_cesenatico_1999__Q05]]
+[[Quesiti/src_cesenatico_1999#q05|src_cesenatico_1999__Q05]]
 
 
 
@@ -179,4 +179,4 @@ level: nazionale
 
 > (a) Determine all pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^3.$$ equation. (b) Demonstrate that if $n$ is an integer greater than $1$ and different from $3$ there are no pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^n.$$ equation.
 
-[[src_cesenatico_1999__Q06]]
+[[Quesiti/src_cesenatico_1999#q06|src_cesenatico_1999__Q06]]

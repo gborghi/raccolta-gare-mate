@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 1
 
 > Trova tutti gli integri positivi $n$ per i quali l'equazione $\tan x + \cot x = 2\sin nx$ ha una soluzione reale.
 
-[[src_pol_1996_r1__Q01]]
+[[Quesiti/src_pol_1996_r1#q01|src_pol_1996_r1__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 1
 
 > Un numero naturale è \emph{palindromic} se è uguale al numero ottenuto leggendo la sua rappresentazione decimale da destra a sinistra. Lasciate che $x_1, x_2, x_3, \ldots$ sia la sequenza crescente di tutti i numeri palindromici. Trova tutti i numeri primi che dividono almeno una delle differenze $x_{k+1} - x_k$.
 
-[[src_pol_1996_r1__Q02]]
+[[Quesiti/src_pol_1996_r1#q02|src_pol_1996_r1__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: Olimpiade Polacca Round 1
 
 > In un gruppo di persone $kn$ ($k, n \in \mathbb{N}$), tutti conoscono più di $(k-1)n$ degli altri. dimostrare che esiste un gruppo di persone $k+1$ che si conoscono tutte.
 
-[[src_pol_1996_r1__Q03]]
+[[Quesiti/src_pol_1996_r1#q03|src_pol_1996_r1__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 1
 
 > Una linea tangente all'incircolo di un triangolo equilaterale $ABC$ si interseca rispettivamente a $AB$ e $AC$ a $D$ e $E$. Prove che $\frac{AD}{DB} + \frac{AE}{EC} = 1$.
 
-[[src_pol_1996_r1__Q04]]
+[[Quesiti/src_pol_1996_r1#q04|src_pol_1996_r1__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 1
 
 > In un triangolo $ABC$, l'angolo $\angle CAB$ è obtuso. Il segmento $PQ$ deve essere qualsiasi segmento il cui punto medio è $A$. Mostrare che $BP + CQ \ge \tan\frac{\angle CAB}{2}\cdot BC$.
 
-[[src_pol_1996_r1__Q05]]
+[[Quesiti/src_pol_1996_r1#q05|src_pol_1996_r1__Q05]]
 
 
 
@@ -168,7 +168,7 @@ level: Olimpiade Polacca Round 1
 
 > Sono date due sequenze in aumento: una progressione aritmetica con differenza $r > 0$ e una progressione geometrica con rapporto $q > 1$, dove $q$ e $r$ sono coprime. Prova che se queste due sequenze hanno un termine comune, allora hanno infinitamente molti termini comuni.
 
-[[src_pol_1996_r1__Q06]]
+[[Quesiti/src_pol_1996_r1#q06|src_pol_1996_r1__Q06]]
 
 
 
@@ -195,7 +195,7 @@ level: Olimpiade Polacca Round 1
 
 > $a, b, c$ e $p, q, r$ siano numeri non negativi che soddisfino $a + b + c = p + q + r = 1$ e $p, q, r \le 1/2$. Prove che $$8abc \le pa + qb + rc$$ e trova quando si verifica l'uguaglianza.
 
-[[src_pol_1996_r1__Q07]]
+[[Quesiti/src_pol_1996_r1#q07|src_pol_1996_r1__Q07]]
 
 
 
@@ -222,7 +222,7 @@ level: Olimpiade Polacca Round 1
 
 > Un raggio di luce parte dal centro di un quadrato e si riflette dai suoi lati (gli angoli di riflessione e di incidenza sono sempre uguali). Il raggio non raggiunge mai il vertice del quadrato e, dopo un po', ritorna al centro per la prima volta. Prove che il raggio si riflette dai lati del quadrato un numero imparato di volte.
 
-[[src_pol_1996_r1__Q08]]
+[[Quesiti/src_pol_1996_r1#q08|src_pol_1996_r1__Q08]]
 
 
 
@@ -249,7 +249,7 @@ level: Olimpiade Polacca Round 1
 
 > Un polinomio con coefficienti interi, quando diviso da $x^2 - 12x + 11$, dà il rimanente $990x - 889$. Prova che questo polinomio non ha radici interi.
 
-[[src_pol_1996_r1__Q09]]
+[[Quesiti/src_pol_1996_r1#q09|src_pol_1996_r1__Q09]]
 
 
 
@@ -276,7 +276,7 @@ level: Olimpiade Polacca Round 1
 
 > Prova che l'equazione $x^9 = y^3 + z^3$ ha infinite soluzioni in numeri interi positivi $x, y, z$.
 
-[[src_pol_1996_r1__Q10]]
+[[Quesiti/src_pol_1996_r1#q10|src_pol_1996_r1__Q10]]
 
 
 
@@ -303,7 +303,7 @@ level: Olimpiade Polacca Round 1
 
 > In una competizione di salto sciistico $65$ i concorrenti saltano in un ordine predeterminato, ognuno di loro esattamente una volta. Supponiamo che i loro risultati siano tutti diversi e che tutte le possibili classifiche finali siano ugualmente probabili. In ogni momento della competizione chiamiamo leader la persona con il miglior punteggio (in quel momento). Che la probabilità di $p$ sia quella che durante l'intero concorso ci sia stato esattamente un solo cambio di leader. Prove che $p > 1/16$.
 
-[[src_pol_1996_r1__Q11]]
+[[Quesiti/src_pol_1996_r1#q11|src_pol_1996_r1__Q11]]
 
 
 
@@ -330,4 +330,4 @@ level: Olimpiade Polacca Round 1
 
 > Trova se esistono due cubi congruenti con un centro comune in modo tale che ogni faccia di un cubo e ogni faccia dell'altro cubo abbiano un punto comune.
 
-[[src_pol_1996_r1__Q12]]
+[[Quesiti/src_pol_1996_r1#q12|src_pol_1996_r1__Q12]]

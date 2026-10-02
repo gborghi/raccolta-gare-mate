@@ -39,7 +39,7 @@ level: kangourou
 > Discount The management of a museum intends to grant a discount of k% on the price of the entrance ticket to groups of k people who will purchase a cumulative ticket. However, it does not want the amount of the discount to exceed the equivalent of 4 free entries for each group of people. What's the greatest possible value of N?
 
 **Answer:** 0020
-[[src_kangourou_2020_junior_finale__Q01]]
+[[Quesiti/src_kangourou_2020_junior_finale#q01|src_kangourou_2020_junior_finale__Q01]]
 
 
 
@@ -111,7 +111,7 @@ level: kangourou
 > The square In the triangle in Figure D is the midpoint of the AC side, the angles and are equal and the AB side measures 12. What is the square of the size of the BD segment?
 
 **Answer:** 0072
-[[src_kangourou_2020_junior_finale__Q02]]
+[[Quesiti/src_kangourou_2020_junior_finale#q02|src_kangourou_2020_junior_finale__Q02]]
 
 
 
@@ -148,7 +148,7 @@ level: kangourou
 > Competitors A Kangourou competition consisted of 12 numbered questions. The report sent to the manager provided the following two information: - each participant answered all questions; - no participant gave the correct answer to two consecutive questions. The person responsible, without knowing the details but knowing the number of participants, concludes that at least two candidates answered the same way, that is, correctly and incorrectly to the same questions. At least, how many competitors took part in the competition?
 
 **Answer:** 0378
-[[src_kangourou_2020_junior_finale__Q03]]
+[[Quesiti/src_kangourou_2020_junior_finale#q03|src_kangourou_2020_junior_finale__Q03]]
 
 
 
@@ -180,7 +180,7 @@ level: kangourou
 > On a long street in my town, the houses were numbered, without skipping any number, from first to last. One day one of these houses was torn down. The mean of the remaining numbers then became 995.8. What was the number of the house that was torn down?
 
 **Answer:** 1394
-[[src_kangourou_2020_junior_finale__Q04]]
+[[Quesiti/src_kangourou_2020_junior_finale#q04|src_kangourou_2020_junior_finale__Q04]]
 
 
 
@@ -256,7 +256,7 @@ level: kangourou
 > The longest in an ABC triangle the measure of AB is 123 that of BC is 27 and that of CA is 120. Consider the two points D and E that divide the AB side into three segments of equal length. What is the length of the longest of the CD and EC segments? (Answer by writing the nearest whole).
 
 **Answer:** 0081
-[[src_kangourou_2020_junior_finale__Q05]]
+[[Quesiti/src_kangourou_2020_junior_finale#q05|src_kangourou_2020_junior_finale__Q05]]
 
 
 
@@ -288,7 +288,7 @@ level: kangourou
 > My grandfather My grandfather's birth year number has the following peculiarity: it is divisible by 2, by 3 if you take 1, by 5 if you take 2, by 7 if you take 3, and by 11 if you take 4. What year was my grandfather born, knowing that he was always a good Christian?
 
 **Answer:** 1522
-[[src_kangourou_2020_junior_finale__Q06]]
+[[Quesiti/src_kangourou_2020_junior_finale#q06|src_kangourou_2020_junior_finale__Q06]]
 
 
 
@@ -326,7 +326,7 @@ level: kangourou
 > Coincidences Consider the number (not whole) obtained by dividing 1990 by 19 and that (also not whole) obtained by dividing 1990 by 17, both written in decimal notation. Imagine then that you are colonising the two numbers (with the two commas in correspondence); if in the same position after the comma both numbers present the figure 5 we say that there is a coincidence. What is the position after the comma of the 90th coincidence? Write 0000 if the 90th coincidence does not occur. A B C D
 
 **Answer:** 6471
-[[src_kangourou_2020_junior_finale__Q07]]
+[[Quesiti/src_kangourou_2020_junior_finale#q07|src_kangourou_2020_junior_finale__Q07]]
 
 
 
@@ -362,7 +362,7 @@ level: kangourou
 > Three parallels is given a square ABCD. Three parallel lines a, b, c pass through the vertices A, B and C of the square respectively. The distance from a to b is 7, while the distance from b to c is 9. What is the area of the square?
 
 **Answer:** 0130
-[[src_kangourou_2020_junior_finale__Q08]]
+[[Quesiti/src_kangourou_2020_junior_finale#q08|src_kangourou_2020_junior_finale__Q08]]
 
 
 
@@ -394,7 +394,7 @@ level: kangourou
 > Divisors For a positive integer n we denote with d(n) the number of its divisors and with s(n) their sum (e.g. d(8) = 4 because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Determine the sum of all integers such that n = 96.
 
 **Answer:** 0076
-[[src_kangourou_2020_junior_finale__Q09]]
+[[Quesiti/src_kangourou_2020_junior_finale#q09|src_kangourou_2020_junior_finale__Q09]]
 
 
 
@@ -426,7 +426,7 @@ level: kangourou
 > Flexible numbers Let's say a two-digit (positive) integer AB is flexible if, when added to (A + B) 2, that is, squared of the sum of its digits, it gives the resulting number BA. How much is the sum of all the flexible numbers?
 
 **Answer:** 0027
-[[src_kangourou_2020_junior_finale__Q10]]
+[[Quesiti/src_kangourou_2020_junior_finale#q10|src_kangourou_2020_junior_finale__Q10]]
 
 
 
@@ -460,7 +460,7 @@ level: kangourou
 > Rearranged prime Consider the 9 smallest prime integers of two digits (significant). A rearrangement of these numbers is said to be admissible if the difference between the greater and the lesser of its two consecutive numbers is a power of 2. For each eligible reorganisation, add up the first and last number of the reorganisation; then add up all the sums thus obtained from the variation of all eligible reorganisations. What value do you get?
 
 **Answer:** 0220
-[[src_kangourou_2020_junior_finale__Q11]]
+[[Quesiti/src_kangourou_2020_junior_finale#q11|src_kangourou_2020_junior_finale__Q11]]
 
 
 
@@ -491,7 +491,7 @@ level: kangourou
 > The roots Consider all solutions of the equation x6  16x4 + 16x2 = 1 and raise to the sixth each of them. Then add up the results obtained. How much do you get?
 
 **Answer:** 6662
-[[src_kangourou_2020_junior_finale__Q12]]
+[[Quesiti/src_kangourou_2020_junior_finale#q12|src_kangourou_2020_junior_finale__Q12]]
 
 
 
@@ -526,7 +526,7 @@ How many times did Martino win in 7 days?
 > At the casino, Martino plays in a casino. He developed a method that consisted of playing 5 times in a row one euro on the first day, 5 times in a row 5 € on the second day, 5 times in a row 25 € on the third day, 5 times in a row 125 € on the fourth day and so on, continuing to multiply the bet by 5 until the seventh day. If he wins a game, he's given the bet twice the same bet, while if he loses, he loses the bet. He's never seen him win or lose. After 7 days of playing, Martino earned €22,066. How many times have you won in the last seven days?
 
 **Answer:** 0015
-[[src_kangourou_2020_junior_finale__Q13]]
+[[Quesiti/src_kangourou_2020_junior_finale#q13|src_kangourou_2020_junior_finale__Q13]]
 
 
 
@@ -557,7 +557,7 @@ How many times did Martino win in 7 days?
 > The mean be S = {1, 2, 3, ..., 100, 101} the sum of the first one hundred and one natural numbers. How many terns {a, b, c} with a < c exist in S such that b = (a + c)/2?
 
 **Answer:** 2500
-[[src_kangourou_2020_junior_finale__Q14]]
+[[Quesiti/src_kangourou_2020_junior_finale#q14|src_kangourou_2020_junior_finale__Q14]]
 
 
 
@@ -603,4 +603,4 @@ How many times did Martino win in 7 days?
 > Questions and solutions
 
 **Answer:** 0016
-[[src_kangourou_2020_junior_finale__Q15]]
+[[Quesiti/src_kangourou_2020_junior_finale#q15|src_kangourou_2020_junior_finale__Q15]]

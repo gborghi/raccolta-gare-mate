@@ -17,7 +17,7 @@ level: kangourou
 
 *Minimo numero di chiavi e disposizione fra quattro amici*
 
-![[src_kangourou_2024_benjamin_finale__probB1.png]]
+![[src_kangourou_2024_benjamin_finale__probb1.png]]
 
 ```tikz
 \begin{document}
@@ -57,7 +57,7 @@ level: kangourou
 
 *Minimum number of keys and arrangement between four friends*
 
-![[src_kangourou_2024_benjamin_finale__probB1.png]]
+![[src_kangourou_2024_benjamin_finale__probb1.png]]
 
 ```tikz
 \begin{document}
@@ -85,7 +85,7 @@ level: kangourou
 
 > Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to your own home that each of you must leave to your friends, considering them as a whole? And how are the left keys to be arranged?
 
-[[src_kangourou_2024_benjamin_finale__QB1]]
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb1|src_kangourou_2024_benjamin_finale__QB1]]
 
 
 
@@ -111,7 +111,7 @@ level: kangourou
 
 > In the strange language of Kangland, the words "yes" and "no" translate into "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
 
-[[src_kangourou_2024_benjamin_finale__QB2]]
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb2|src_kangourou_2024_benjamin_finale__QB2]]
 
 
 
@@ -138,7 +138,7 @@ level: kangourou
 
 > Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colours are eligible?
 
-[[src_kangourou_2024_benjamin_finale__QB3]]
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb3|src_kangourou_2024_benjamin_finale__QB3]]
 
 
 
@@ -165,7 +165,7 @@ level: kangourou
 
 > Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are these more reducing fractions or irreducible fractions?
 
-[[src_kangourou_2024_benjamin_finale__QB4]]
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb4|src_kangourou_2024_benjamin_finale__QB4]]
 
 
 
@@ -191,7 +191,7 @@ level: kangourou
 
 > Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. What is, in metres, the minimum distance that the antenna can have from the dwelling that will make it the furthest away?
 
-[[src_kangourou_2024_benjamin_finale__QB5]]
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb5|src_kangourou_2024_benjamin_finale__QB5]]
 
 
 
@@ -218,4 +218,4 @@ Because the result of Marco is always 1089
 
 > Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco.
 
-[[src_kangourou_2024_benjamin_finale__QB6]]
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb6|src_kangourou_2024_benjamin_finale__QB6]]

@@ -35,7 +35,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che se i numeri reali $a, b, c$ soddisfano l'uguaglianza $$\frac{a}{m+2} + \frac{b}{m+1} + \frac{c}{m} = 0$$ per un certo numero positivo $m$, allora l'equazione $ax^2 + bx + c = 0$ ha una radice tra 0 e 1.
 
-[[src_pol_1969_r3__Q01]]
+[[Quesiti/src_pol_1969_r3#q01|src_pol_1969_r3__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: Olimpiade Polacca Round 3
 
 > Date i numeri reali $a_1, a_2, \ldots, a_n$ distinti, trovare il valore minimo della funzione $$y = |x - a_1| + |x - a_2| + \cdots + |x - a_n|, \quad x \in \mathbb{R}.$$
 
-[[src_pol_1969_r3__Q02]]
+[[Quesiti/src_pol_1969_r3#q02|src_pol_1969_r3__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: Olimpiade Polacca Round 3
 
 > Indicare che se i numeri naturali $a, b, p, q, r, s$ soddisfano le condizioni $$qr - ps = 1 \quad \text{and} \quad \frac{p}{q} < \frac{a}{b} < \frac{r}{s},$$ $b \ge q + s$.
 
-[[src_pol_1969_r3__Q03]]
+[[Quesiti/src_pol_1969_r3#q03|src_pol_1969_r3__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che se una figura ha esattamente $n$ assi di simmetria nello spazio, allora $n$ deve essere impar.
 
-[[src_pol_1969_r3__Q04]]
+[[Quesiti/src_pol_1969_r3#q04|src_pol_1969_r3__Q04]]
 
 
 
@@ -146,7 +146,7 @@ level: Olimpiade Polacca Round 3
 
 > Prova che un ottagono, i cui angoli sono tutti uguali e tutti i lati hanno una lunghezza razionale, ha un centro di simmetria.
 
-[[src_pol_1969_r3__Q05]]
+[[Quesiti/src_pol_1969_r3#q05|src_pol_1969_r3__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: Olimpiade Polacca Round 3
 
 > Per quali valori di $n$ esiste un poliedro con bordi $n$?
 
-[[src_pol_1969_r3__Q06]]
+[[Quesiti/src_pol_1969_r3#q06|src_pol_1969_r3__Q06]]

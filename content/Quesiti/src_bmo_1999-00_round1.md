@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. La linea $PN$ incontra nuovamente il cerchio $C_2$ a $R$. Provare che $MQ$ divide l'angolo $PMR$.
 
-[[src_bmo_1999-00_round1__Q01]]
+[[Quesiti/src_bmo_1999-00_round1#q01|src_bmo_1999-00_round1__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
 
-[[src_bmo_1999-00_round1__Q02]]
+[[Quesiti/src_bmo_1999-00_round1#q02|src_bmo_1999-00_round1__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: BMO Round 1
 
 > Il triangolo $ABC$ ha angoli $60^\circ$, $75^\circ$, $45^\circ$ rispettivamente a $A$, $B$ e $C$. Un punto $P$ sul perimetro del triangolo è tale da ridurre al minimo $$AP + BP + CP$$. Trova la posizione di $P$.
 
-[[src_bmo_1999-00_round1__Q03]]
+[[Quesiti/src_bmo_1999-00_round1#q03|src_bmo_1999-00_round1__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: BMO Round 1
 
 > Per ogni numero intero positivo $n$ definire $a_n$ come segue: $a_1 = k$, e per $n \geq 1$ $$a_{n+1} = \begin{cases} \dfrac{a_n}{2} & \text{if } a_n \text{ is even,} \\ 3a_n + 1 & \text{if } a_n \text{ is odd.} \end{cases}$$ determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza $(a_n)_{n \geq 1}$.
 
-[[src_bmo_1999-00_round1__Q04]]
+[[Quesiti/src_bmo_1999-00_round1#q04|src_bmo_1999-00_round1__Q04]]
 
 
 
@@ -151,4 +151,4 @@ level: BMO Round 1
 > 
 > Supponiamo che anche Biancaneve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
 
-[[src_bmo_1999-00_round1__Q05]]
+[[Quesiti/src_bmo_1999-00_round1#q05|src_bmo_1999-00_round1__Q05]]

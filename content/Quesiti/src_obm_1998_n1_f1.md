@@ -47,7 +47,7 @@ level: OBM Nível 1
 > - **(E)** $81^{11}$
 
 **Risposta:** E
-[[src_obm_1998_n1_f1__Q01]]
+[[Quesiti/src_obm_1998_n1_f1#q01|src_obm_1998_n1_f1__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: OBM Nível 1
 > - **(E)** $15$
 
 **Risposta:** D
-[[src_obm_1998_n1_f1__Q02]]
+[[Quesiti/src_obm_1998_n1_f1#q02|src_obm_1998_n1_f1__Q02]]
 
 
 
@@ -129,7 +129,7 @@ level: OBM Nível 1
 > - **(E)** $27$
 
 **Risposta:** A
-[[src_obm_1998_n1_f1__Q03]]
+[[Quesiti/src_obm_1998_n1_f1#q03|src_obm_1998_n1_f1__Q03]]
 
 
 
@@ -169,7 +169,7 @@ level: OBM Nível 1
 > - **(E)** $75$
 
 **Risposta:** E
-[[src_obm_1998_n1_f1__Q04]]
+[[Quesiti/src_obm_1998_n1_f1#q04|src_obm_1998_n1_f1__Q04]]
 
 
 
@@ -209,7 +209,7 @@ level: OBM Nível 1
 > - **(E)** Il numero meno $1$
 
 **Risposta:** E
-[[src_obm_1998_n1_f1__Q05]]
+[[Quesiti/src_obm_1998_n1_f1#q05|src_obm_1998_n1_f1__Q05]]
 
 
 
@@ -250,7 +250,7 @@ level: OBM Nível 1
 > - **(E)** $10$
 
 **Risposta:** C
-[[src_obm_1998_n1_f1__Q06]]
+[[Quesiti/src_obm_1998_n1_f1#q06|src_obm_1998_n1_f1__Q06]]
 
 
 
@@ -291,7 +291,7 @@ level: OBM Nível 1
 > - **(E)** Impossibile determinare dalle informazioni fornite
 
 **Risposta:** C
-[[src_obm_1998_n1_f1__Q07]]
+[[Quesiti/src_obm_1998_n1_f1#q07|src_obm_1998_n1_f1__Q07]]
 
 
 
@@ -314,7 +314,7 @@ level: OBM Nível 1
 > - **(D)** $4$
 > - **(E)** $7$
 
-![[src_obm_1998_n1_f1__Q08.png]]
+![[src_obm_1998_n1_f1__q08.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
@@ -341,10 +341,10 @@ level: OBM Nível 1
 > - **(D)** $4$
 > - **(E)** $7$
 
-![[src_obm_1998_n1_f1__Q08.png]]
+![[src_obm_1998_n1_f1__q08.png]]
 
 **Risposta:** A
-[[src_obm_1998_n1_f1__Q08]]
+[[Quesiti/src_obm_1998_n1_f1#q08|src_obm_1998_n1_f1__Q08]]
 
 
 
@@ -363,7 +363,7 @@ level: OBM Nível 1
 > - **(D)** $8$
 > - **(E)** $10$
 
-![[src_obm_1998_n1_f1__Q09.png]]
+![[src_obm_1998_n1_f1__q09.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -386,10 +386,10 @@ level: OBM Nível 1
 > - **(D)** $8$
 > - **(E)** $10$
 
-![[src_obm_1998_n1_f1__Q09.png]]
+![[src_obm_1998_n1_f1__q09.png]]
 
 **Risposta:** D
-[[src_obm_1998_n1_f1__Q09]]
+[[Quesiti/src_obm_1998_n1_f1#q09|src_obm_1998_n1_f1__Q09]]
 
 
 
@@ -429,7 +429,7 @@ level: OBM Nível 1
 > - **(E)** $10{,}000\,\text{m}^2$
 
 **Risposta:** A
-[[src_obm_1998_n1_f1__Q10]]
+[[Quesiti/src_obm_1998_n1_f1#q10|src_obm_1998_n1_f1__Q10]]
 
 
 
@@ -469,7 +469,7 @@ level: OBM Nível 1
 > - **(E)** $3.75$
 
 **Risposta:** B
-[[src_obm_1998_n1_f1__Q11]]
+[[Quesiti/src_obm_1998_n1_f1#q11|src_obm_1998_n1_f1__Q11]]
 
 
 
@@ -510,7 +510,7 @@ level: OBM Nível 1
 > - **(E)** $42$
 
 **Risposta:** B
-[[src_obm_1998_n1_f1__Q12]]
+[[Quesiti/src_obm_1998_n1_f1#q12|src_obm_1998_n1_f1__Q12]]
 
 
 
@@ -529,7 +529,7 @@ level: OBM Nível 1
 > - **(D)** $301$
 > - **(E)** $28$
 
-![[src_obm_1998_n1_f1__Q13.png]]
+![[src_obm_1998_n1_f1__q13.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -552,10 +552,10 @@ level: OBM Nível 1
 > - **(D)** $301$
 > - **(E)** $28$
 
-![[src_obm_1998_n1_f1__Q13.png]]
+![[src_obm_1998_n1_f1__q13.png]]
 
 **Risposta:** D
-[[src_obm_1998_n1_f1__Q13]]
+[[Quesiti/src_obm_1998_n1_f1#q13|src_obm_1998_n1_f1__Q13]]
 
 
 
@@ -596,7 +596,7 @@ level: OBM Nível 1
 > - **(E)** $48$
 
 **Risposta:** C
-[[src_obm_1998_n1_f1__Q14]]
+[[Quesiti/src_obm_1998_n1_f1#q14|src_obm_1998_n1_f1__Q14]]
 
 
 
@@ -636,7 +636,7 @@ level: OBM Nível 1
 > - **(E)** $3{,}917$
 
 **Risposta:** A
-[[src_obm_1998_n1_f1__Q15]]
+[[Quesiti/src_obm_1998_n1_f1#q15|src_obm_1998_n1_f1__Q15]]
 
 
 
@@ -677,7 +677,7 @@ level: OBM Nível 1
 > - **(E)** $18$
 
 **Risposta:** D
-[[src_obm_1998_n1_f1__Q16]]
+[[Quesiti/src_obm_1998_n1_f1#q16|src_obm_1998_n1_f1__Q16]]
 
 
 
@@ -717,7 +717,7 @@ level: OBM Nível 1
 > - **(E)** $98$
 
 **Risposta:** B
-[[src_obm_1998_n1_f1__Q17]]
+[[Quesiti/src_obm_1998_n1_f1#q17|src_obm_1998_n1_f1__Q17]]
 
 
 
@@ -758,7 +758,7 @@ level: OBM Nível 1
 > - **(E)** In questa città ci sono più auto che persone .
 
 **Risposta:** D
-[[src_obm_1998_n1_f1__Q18]]
+[[Quesiti/src_obm_1998_n1_f1#q18|src_obm_1998_n1_f1__Q18]]
 
 
 
@@ -777,7 +777,7 @@ level: OBM Nível 1
 > - **(D)** $48$
 > - **(E)** $60$
 
-![[src_obm_1998_n1_f1__Q19.png]]
+![[src_obm_1998_n1_f1__q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -800,10 +800,10 @@ level: OBM Nível 1
 > - **(D)** $48$
 > - **(E)** $60$
 
-![[src_obm_1998_n1_f1__Q19.png]]
+![[src_obm_1998_n1_f1__q19.png]]
 
 **Risposta:** C
-[[src_obm_1998_n1_f1__Q19]]
+[[Quesiti/src_obm_1998_n1_f1#q19|src_obm_1998_n1_f1__Q19]]
 
 
 
@@ -844,4 +844,4 @@ Determina il giorno in cui sia un bugiardo che uno che dice la verità diranno: 
 > - **(E)** Domenica
 
 **Risposta:** B
-[[src_obm_1998_n1_f1__Q20]]
+[[Quesiti/src_obm_1998_n1_f1#q20|src_obm_1998_n1_f1__Q20]]

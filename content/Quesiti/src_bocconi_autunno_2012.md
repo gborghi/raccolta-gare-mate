@@ -35,7 +35,7 @@ level: Giochi d'Autunno
 > What is the smallest (positive integer) of four digits, all equal and all different from each other? Note: 0 is considered an even number and no number starts with 0.
 
 **Answer:** 2046
-[[src_bocconi_autunno_2012__Q01]]
+[[Quesiti/src_bocconi_autunno_2012#q01|src_bocconi_autunno_2012__Q01]]
 
 
 
@@ -69,7 +69,7 @@ Who among the four athletes didn't tell the truth?
 > Here are the statements made by our four athletes, right after the end of the race (only they participated): Jacopo: I cut the finish line first  Luke: I am neither the first nor the last  Michele: I am not the last  Nando: I came fourth  Only one of them did not tell the truth. Who's that?
 
 **Answer:** Jacopo non ha detto la verità
-[[src_bocconi_autunno_2012__Q02]]
+[[Quesiti/src_bocconi_autunno_2012#q02|src_bocconi_autunno_2012__Q02]]
 
 
 
@@ -98,7 +98,7 @@ Who among the four athletes didn't tell the truth?
 > January 13, 2012 is written as January 13, 2012. Ilaria finds it more interesting on 20 December 2012 that it is written as 20.12.2012, with the four digits repeating in the same order. What will be the first date after 20 December 2012 to be written with the four digits repeating the same order?
 
 **Answer:** 21-01-2101
-[[src_bocconi_autunno_2012__Q03]]
+[[Quesiti/src_bocconi_autunno_2012#q03|src_bocconi_autunno_2012__Q03]]
 
 
 
@@ -111,7 +111,7 @@ Who among the four athletes didn't tell the truth?
 
 > Angelo si diverte con questo gioco dove l'unico movimento autorizzato è quello di spostare un gettone alla volta dalla casella dove si trova ad una casella adiacente vuota (che ha un lato in comune). In quante mosse, al minimo, Angelo potrà scambiare tra loro i gettoni bianchi con quelli neri?
 
-![[src_bocconi_autunno_2012__Q04.png]]
+![[src_bocconi_autunno_2012__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
@@ -128,10 +128,10 @@ Who among the four athletes didn't tell the truth?
 
 > Angelo enjoys this game where the only movement authorized is to move a token at a time from the box where it is located to an adjacent empty box (which has one side in common). How many moves, at least, will Angelo be able to swap the white chips with the black ones?
 
-![[src_bocconi_autunno_2012__Q04.png]]
+![[src_bocconi_autunno_2012__q04.png]]
 
 **Answer:** 36
-[[src_bocconi_autunno_2012__Q04]]
+[[Quesiti/src_bocconi_autunno_2012#q04|src_bocconi_autunno_2012__Q04]]
 
 
 
@@ -144,7 +144,7 @@ Who among the four athletes didn't tell the truth?
 
 > Le caselle del triangolo in figura contengono tutti i numeri interi da 1 a 9. Come vedete, due numeri sono stati già scritti. Si sa anche che la somma dei numeri scritti su uno stesso lato del triangolo è sempre uguale a 20. Quale numero bisogna scrivere allora nel vertice in basso a sinistra?
 
-![[src_bocconi_autunno_2012__Q05.png]]
+![[src_bocconi_autunno_2012__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -161,10 +161,10 @@ Who among the four athletes didn't tell the truth?
 
 > The triangle boxes in the figure contain all integers from 1 to 9. As you can see, two numbers have already been written. You also know that the sum of the numbers written on the same side of the triangle is always equal to 20. So what number do you have to write in the bottom left corner?
 
-![[src_bocconi_autunno_2012__Q05.png]]
+![[src_bocconi_autunno_2012__q05.png]]
 
 **Answer:** 9
-[[src_bocconi_autunno_2012__Q05]]
+[[Quesiti/src_bocconi_autunno_2012#q05|src_bocconi_autunno_2012__Q05]]
 
 
 
@@ -192,7 +192,7 @@ Who among the four athletes didn't tell the truth?
 > If six loggers harvest six cypresses in six hours, how long will it take ten loggers to harvest ten cypresses?
 
 **Answer:** 6 ore
-[[src_bocconi_autunno_2012__Q06]]
+[[Quesiti/src_bocconi_autunno_2012#q06|src_bocconi_autunno_2012__Q06]]
 
 
 
@@ -221,7 +221,7 @@ Who among the four athletes didn't tell the truth?
 > Carla takes a two-digit number (a positive integer), multiplies it by 4 and then subtracts 3 from the result thus obtained. It's magic! The number Carla finally finds is written with the same numbers as the starting number, but in reverse order. What was the departure number?
 
 **Answer:** 16
-[[src_bocconi_autunno_2012__Q07]]
+[[Quesiti/src_bocconi_autunno_2012#q07|src_bocconi_autunno_2012__Q07]]
 
 
 
@@ -234,7 +234,7 @@ Who among the four athletes didn't tell the truth?
 
 > Quante volte compreso l'esempio già tracciato in figura riuscite a leggere la parola «TESTS» seguendo un percorso che vi fa passare da una casella ad un'altra per un loro lato comune, senza però mai passare due volte per una stessa casella?
 
-![[src_bocconi_autunno_2012__Q08.png]]
+![[src_bocconi_autunno_2012__q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -251,10 +251,10 @@ Who among the four athletes didn't tell the truth?
 
 > How many times, including in the example above, can you read the word TESTS by following a path that leads you from one box to another on their common side, but never going through the same box twice?
 
-![[src_bocconi_autunno_2012__Q08.png]]
+![[src_bocconi_autunno_2012__q08.png]]
 
 **Answer:** 23
-[[src_bocconi_autunno_2012__Q08]]
+[[Quesiti/src_bocconi_autunno_2012#q08|src_bocconi_autunno_2012__Q08]]
 
 
 
@@ -267,7 +267,7 @@ Who among the four athletes didn't tell the truth?
 
 > Milena sostituisce a ogni simbolo sempre una stessa cifra, facendo in modo che ai simboli diversi corrispondano però cifre diverse. Come vedete, ottiene come risultato dell'addizione un numero di tre cifre in cui le cifre delle centinaia e delle unità sono uguali tra loro. Qual è il più grande valore possibile del primo addendo $\square\!\heartsuit\!\Upsilon\!\Upsilon$?
 
-![[src_bocconi_autunno_2012__Q09.png]]
+![[src_bocconi_autunno_2012__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -283,9 +283,9 @@ Who among the four athletes didn't tell the truth?
 
 > Milena always replaces each symbol with the same number, making sure that different symbols correspond to different numbers. As you can see, you get as a result of the addition of a three-digit number where the digits of the hundreds and the units are equal to each other. What is the greatest possible value of the first by adding $\square\!\heartsuit\!\Upsilon\!\Upsilon$?
 
-![[src_bocconi_autunno_2012__Q09.png]]
+![[src_bocconi_autunno_2012__q09.png]]
 
-[[src_bocconi_autunno_2012__Q09]]
+[[Quesiti/src_bocconi_autunno_2012#q09|src_bocconi_autunno_2012__Q09]]
 
 
 
@@ -298,7 +298,7 @@ Who among the four athletes didn't tell the truth?
 
 > Quanti quadrati riuscite a vedere in questa griglia di 64 caselle?
 
-![[src_bocconi_autunno_2012__Q10.png]]
+![[src_bocconi_autunno_2012__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -315,10 +315,10 @@ Who among the four athletes didn't tell the truth?
 
 > How many squares can you see in this grid of 64 boxes?
 
-![[src_bocconi_autunno_2012__Q10.png]]
+![[src_bocconi_autunno_2012__q10.png]]
 
 **Answer:** 204
-[[src_bocconi_autunno_2012__Q10]]
+[[Quesiti/src_bocconi_autunno_2012#q10|src_bocconi_autunno_2012__Q10]]
 
 
 
@@ -331,7 +331,7 @@ Who among the four athletes didn't tell the truth?
 
 > Dividete la superficie in figura, seguendo le linee della quadrettatura, in cinque parti sovrapponibili (eventualmente mediante qualche rotazione).
 
-![[src_bocconi_autunno_2012__Q11.png]]
+![[src_bocconi_autunno_2012__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -347,9 +347,9 @@ Who among the four athletes didn't tell the truth?
 
 > Divide the area in the figure, following the lines of the square, into five overlapping parts (possibly by some rotation).
 
-![[src_bocconi_autunno_2012__Q11.png]]
+![[src_bocconi_autunno_2012__q11.png]]
 
-[[src_bocconi_autunno_2012__Q11]]
+[[Quesiti/src_bocconi_autunno_2012#q11|src_bocconi_autunno_2012__Q11]]
 
 
 
@@ -378,7 +378,7 @@ Who among the four athletes didn't tell the truth?
 > You remove a small part of a wooden cube from the area around each vertex and you get a solid with 14 faces. How many faces will you get if you take out a small part of the 14-faced solid in the area around each vertex?
 
 **Answer:** 38
-[[src_bocconi_autunno_2012__Q12]]
+[[Quesiti/src_bocconi_autunno_2012#q12|src_bocconi_autunno_2012__Q12]]
 
 
 
@@ -408,7 +408,7 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 > As always, you have to replace a letter with the same number and, two different letters, two different digits; no number starts with 0. To say how much DEUX is worth for equality to be true: $$\text{UN} \times \text{UN} + \text{UN} = \text{DEUX}$$
 
 **Answer:** 7482
-[[src_bocconi_autunno_2012__Q13]]
+[[Quesiti/src_bocconi_autunno_2012#q13|src_bocconi_autunno_2012__Q13]]
 
 
 
@@ -421,7 +421,7 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 
 > Il quadrato grande è stato ottenuto da quello più piccolo (scuro) prolungando i suoi lati di un segmento, come vedete in figura, e poi congiungendo i punti così trovati. Qual è la lunghezza del lato minore nei quattro triangoli rettangoli, sapendo che l'area del quadrato piccolo (scuro) vale $1\,\text{m}^2$ e che l'area di ciascun triangolo rettangolo è di $0{,}5\,\text{m}^2$? Date la risposta in $\text{cm}$ eventualmente sostituendo $\sqrt{2}$ con $1{,}414$; $\sqrt{3}$ con $1{,}732$; $\sqrt{5}$ con $2{,}236$ e arrotondando poi il risultato al più vicino.
 
-![[src_bocconi_autunno_2012__Q14.png]]
+![[src_bocconi_autunno_2012__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -438,10 +438,10 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 
 > The large square was obtained from the smaller one (dark) by extending its sides of a segment, as you can see in the figure, and then by connecting the points found. What is the length of the minor side in the four rectangular triangles, knowing that the area of the small (dark) square is $1\,\text{m}^2$ and that the area of each rectangular triangle is $0{,}5\,\text{m}^2$? Give the answer in $\text{cm}$ if possible by replacing $\sqrt{2}$ with $1{,}414$; $\sqrt{3}$ with $1{,}732$; $\sqrt{5}$ with $2{,}236$ and then rounding the result to the nearest.
 
-![[src_bocconi_autunno_2012__Q14.png]]
+![[src_bocconi_autunno_2012__q14.png]]
 
 **Answer:** 62 cm o $100\sqrt{5}-\frac{1}{2}$
-[[src_bocconi_autunno_2012__Q14]]
+[[Quesiti/src_bocconi_autunno_2012#q14|src_bocconi_autunno_2012__Q14]]
 
 
 
@@ -470,4 +470,4 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 > As soon as Renato retired, he gave in to his passion and opened a restaurant. Last night, 32 customers took (at least) the starter and the first; the $\frac{8}{6}$ of all customers chose (at least) the first and the sweet; half took everything: starter, first and sweet. The first one was taken by everyone and nobody the gourmets:) he was confined to one scope. How many sweets were served in total?
 
 **Answer:** 40
-[[src_bocconi_autunno_2012__Q15]]
+[[Quesiti/src_bocconi_autunno_2012#q15|src_bocconi_autunno_2012__Q15]]

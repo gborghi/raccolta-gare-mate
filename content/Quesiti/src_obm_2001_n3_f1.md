@@ -39,7 +39,7 @@ level: OBM Nível 3
 > **A) ** 1 $\quad$ **B) ** 3 $\quad$ **C) ** 2 $\quad$ **D) ** 4 $\quad$ **E) ** più di 4
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q01]]
+[[Quesiti/src_obm_2001_n3_f1#q01|src_obm_2001_n3_f1__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: OBM Nível 3
 > 
 > **A)** $75^\circ$ $\quad$ **B)** $65^\circ$ $\quad$ **C)** $70^\circ$ $\quad$ **D)** $45^\circ$ $\quad$ **E)** $55^\circ$
 
-![[src_obm_2001_n3_f1__Q02.png]]
+![[src_obm_2001_n3_f1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -73,10 +73,10 @@ level: OBM Nível 3
 > 
 > **A)** $75^\circ$ $\quad$ **B)** $65^\circ$ $\quad$ **C)** $70^\circ$ $\quad$ **D)** $45^\circ$ $\quad$ **E)** $55^\circ$
 
-![[src_obm_2001_n3_f1__Q02.png]]
+![[src_obm_2001_n3_f1__q02.png]]
 
 **Risposta:** E
-[[src_obm_2001_n3_f1__Q02]]
+[[Quesiti/src_obm_2001_n3_f1#q02|src_obm_2001_n3_f1__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 3
 > **A) ** è uguale a 11 $\quad$ **B) ** è uguale a 4 $\quad$ **C) ** è inferiore a 3 $\quad$ **D) ** è maggiore di 4 e inferiore a 11 $\quad$ **E) ** è 3
 
 **Risposta:** D
-[[src_obm_2001_n3_f1__Q03]]
+[[Quesiti/src_obm_2001_n3_f1#q03|src_obm_2001_n3_f1__Q03]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível 3
 > **A) ** 15 litri $\quad$ **B) ** 45 litri $\quad$ **C) ** 75 litri $\quad$ **D) ** 80 litri $\quad$ **E) ** 30 litri
 
 **Risposta:** C
-[[src_obm_2001_n3_f1__Q04]]
+[[Quesiti/src_obm_2001_n3_f1#q04|src_obm_2001_n3_f1__Q04]]
 
 
 
@@ -174,7 +174,7 @@ level: OBM Nível 3
 > **A)** 98 $\quad$ **B)** 32 $\quad$ **C)** 22 $\quad$ **D)** 89 $\quad$ **E)** 21
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q05]]
+[[Quesiti/src_obm_2001_n3_f1#q05|src_obm_2001_n3_f1__Q05]]
 
 
 
@@ -189,7 +189,7 @@ level: OBM Nível 3
 > 
 > **A)** 30 $\quad$ **B)** 35 $\quad$ **C)** 40 $\quad$ **D)** 45 $\quad$ **E)** 50
 
-![[src_obm_2001_n3_f1__Q06.png]]
+![[src_obm_2001_n3_f1__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -208,10 +208,10 @@ level: OBM Nível 3
 > 
 > **A)** 30 $\quad$ **B)** 35 $\quad$ **C)** 40 $\quad$ **D)** 45 $\quad$ **E)** 50
 
-![[src_obm_2001_n3_f1__Q06.png]]
+![[src_obm_2001_n3_f1__q06.png]]
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q06]]
+[[Quesiti/src_obm_2001_n3_f1#q06|src_obm_2001_n3_f1__Q06]]
 
 
 
@@ -244,7 +244,7 @@ level: OBM Nível 3
 > **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
 
 **Risposta:** C
-[[src_obm_2001_n3_f1__Q07]]
+[[Quesiti/src_obm_2001_n3_f1#q07|src_obm_2001_n3_f1__Q07]]
 
 
 
@@ -277,7 +277,7 @@ level: OBM Nível 3
 > **A)** 37 $\quad$ **B)** 73 $\quad$ **C)** 109 $\quad$ **D)** 141 $\quad$ **E)** 361
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q08]]
+[[Quesiti/src_obm_2001_n3_f1#q08|src_obm_2001_n3_f1__Q08]]
 
 
 
@@ -309,7 +309,7 @@ level: OBM Nível 3
 > **A)** $38^\circ$ $\quad$ **B)** $40^\circ$ $\quad$ **C)** $42^\circ$ $\quad$ **D)** $44^\circ$ $\quad$ **E)** $46^\circ$
 
 **Risposta:** C
-[[src_obm_2001_n3_f1__Q09]]
+[[Quesiti/src_obm_2001_n3_f1#q09|src_obm_2001_n3_f1__Q09]]
 
 
 
@@ -342,7 +342,7 @@ level: OBM Nível 3
 > **A)** $3n$ $\quad$ **B)** $3n + 1$ $\quad$ **C)** $3n + 2$ $\quad$ **D)** $4n$ $\quad$ **E)** $4n + 1$
 
 **Risposta:** D
-[[src_obm_2001_n3_f1__Q10]]
+[[Quesiti/src_obm_2001_n3_f1#q10|src_obm_2001_n3_f1__Q10]]
 
 
 
@@ -375,7 +375,7 @@ level: OBM Nível 3
 > **A) ** Non supera i 200 km/h. $\quad$ **B) ** Non supera i 250 km/h, ma può superare i 200 km/h. $\quad$ **C) ** Non supera i 2000 km/h, ma può superare i 250 km/h. $\quad$ **D) ** Non supera i 20000 km/h, ma può superare i 2000 km/h. $\quad$ **E) ** Può superare i 20000 km/h.
 
 **Risposta:** D
-[[src_obm_2001_n3_f1__Q11]]
+[[Quesiti/src_obm_2001_n3_f1#q11|src_obm_2001_n3_f1__Q11]]
 
 
 
@@ -408,7 +408,7 @@ level: OBM Nível 3
 > **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 3 $\quad$ **E)** 4
 
 **Risposta:** D
-[[src_obm_2001_n3_f1__Q12]]
+[[Quesiti/src_obm_2001_n3_f1#q12|src_obm_2001_n3_f1__Q12]]
 
 
 
@@ -441,7 +441,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** $\dfrac{1}{29}$ $\quad$ **B)** $\dfrac{1}{30}$ $\quad$ **C)** $\dfrac{1}{31}$ $\quad$ **D)** $\dfrac{1}{60}$ $\quad$ **E)** $\dfrac{2}{31}$
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q13]]
+[[Quesiti/src_obm_2001_n3_f1#q13|src_obm_2001_n3_f1__Q13]]
 
 
 
@@ -474,7 +474,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** 1 $\quad$ **B)** 2 $\quad$ **C)** 3 $\quad$ **D)** 4 $\quad$ **E)** 5
 
 **Risposta:** D
-[[src_obm_2001_n3_f1__Q14]]
+[[Quesiti/src_obm_2001_n3_f1#q14|src_obm_2001_n3_f1__Q14]]
 
 
 
@@ -507,7 +507,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** 6882 $\quad$ **B)** 5994 $\quad$ **C)** 4668 $\quad$ **D)** 7224 $\quad$ **E)** 3448
 
 **Risposta:** A
-[[src_obm_2001_n3_f1__Q15]]
+[[Quesiti/src_obm_2001_n3_f1#q15|src_obm_2001_n3_f1__Q15]]
 
 
 
@@ -522,7 +522,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > 
 > **A)** $a + b$ $\quad$ **B)** $(a + b)\,\dfrac{\sqrt{2}}{2}$ $\quad$ **C)** $(a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **D)** $(2a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **E)** $(a + 2b)\,\dfrac{\sqrt{2}}{4}$
 
-![[src_obm_2001_n3_f1__Q16.png]]
+![[src_obm_2001_n3_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -541,10 +541,10 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > 
 > **A)** $a + b$ $\quad$ **B)** $(a + b)\,\dfrac{\sqrt{2}}{2}$ $\quad$ **C)** $(a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **D)** $(2a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **E)** $(a + 2b)\,\dfrac{\sqrt{2}}{4}$
 
-![[src_obm_2001_n3_f1__Q16.png]]
+![[src_obm_2001_n3_f1__q16.png]]
 
 **Risposta:** D
-[[src_obm_2001_n3_f1__Q16]]
+[[Quesiti/src_obm_2001_n3_f1#q16|src_obm_2001_n3_f1__Q16]]
 
 
 
@@ -559,7 +559,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > 
 > **A)**, **B)**, **C)**, **D)**, **E)** [five cube-net diagrams shown in the figure]
 
-![[src_obm_2001_n3_f1__Q17.png]]
+![[src_obm_2001_n3_f1__q17.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
@@ -577,10 +577,10 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > 
 > **A) **, **B) **, **C) **, **D) **, **E) ** [cinque diagrammi di rete cubica mostrati nella figura]
 
-![[src_obm_2001_n3_f1__Q17.png]]
+![[src_obm_2001_n3_f1__q17.png]]
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q17]]
+[[Quesiti/src_obm_2001_n3_f1#q17|src_obm_2001_n3_f1__Q17]]
 
 
 
@@ -613,7 +613,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 2001 $\quad$ **E)** $2^{2001}$
 
 **Risposta:** C
-[[src_obm_2001_n3_f1__Q18]]
+[[Quesiti/src_obm_2001_n3_f1#q18|src_obm_2001_n3_f1__Q18]]
 
 
 
@@ -646,7 +646,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** 9 $\quad$ **B)** 5 $\quad$ **C)** 6 $\quad$ **D)** 7 $\quad$ **E)** 8
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q19]]
+[[Quesiti/src_obm_2001_n3_f1#q19|src_obm_2001_n3_f1__Q19]]
 
 
 
@@ -679,7 +679,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A) ** $\alpha < \beta$ $\quad$ **B) ** $\alpha > \beta$ $\quad$ **C) ** $\alpha = \beta$ $\quad$ **D) ** può verificarsi una qualsiasi delle situazioni nelle alternative A), B) e C). $\quad$ **E) ** l'angolo $\alpha$ è giusto.
 
 **Risposta:** A
-[[src_obm_2001_n3_f1__Q20]]
+[[Quesiti/src_obm_2001_n3_f1#q20|src_obm_2001_n3_f1__Q20]]
 
 
 
@@ -712,7 +712,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** 13 $\quad$ **B)** 6 $\quad$ **C)** $-1$ $\quad$ **D)** $-2$ $\quad$ **E)** $-6$
 
 **Risposta:** C
-[[src_obm_2001_n3_f1__Q21]]
+[[Quesiti/src_obm_2001_n3_f1#q21|src_obm_2001_n3_f1__Q21]]
 
 
 
@@ -745,7 +745,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A) ** la media aritmetica delle 3 altitudini del triangolo. $\quad$ **B) ** il lato più lungo del triangolo. $\quad$ **C) ** l'altitudine più alta del triangolo. $\quad$ **D) ** tre volte il raggio del cerchio inscritto nel triangolo. $\quad$ **E) ** il diametro del cerchio circondato intorno al triangolo.
 
 **Risposta:** C
-[[src_obm_2001_n3_f1__Q22]]
+[[Quesiti/src_obm_2001_n3_f1#q22|src_obm_2001_n3_f1__Q22]]
 
 
 
@@ -778,7 +778,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A) ** 20 $\quad$ **B) ** 38 $\quad$ **C) ** 93 $\quad$ **D) ** 2000 $\quad$ **E) ** $a_n$ non è mai uguale a 1
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q23]]
+[[Quesiti/src_obm_2001_n3_f1#q23|src_obm_2001_n3_f1__Q23]]
 
 
 
@@ -793,7 +793,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > 
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** $\dfrac{15}{8}$ $\quad$ **D)** 6 $\quad$ **E)** 9
 
-![[src_obm_2001_n3_f1__Q24.png]]
+![[src_obm_2001_n3_f1__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -811,10 +811,10 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > 
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** $\dfrac{15}{8}$ $\quad$ **D)** 6 $\quad$ **E)** 9
 
-![[src_obm_2001_n3_f1__Q24.png]]
+![[src_obm_2001_n3_f1__q24.png]]
 
 **Risposta:** B
-[[src_obm_2001_n3_f1__Q24]]
+[[Quesiti/src_obm_2001_n3_f1#q24|src_obm_2001_n3_f1__Q24]]
 
 
 
@@ -847,4 +847,4 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 > **A)** 15 $\quad$ **B)** $5\sqrt{7}$ $\quad$ **C)** $\dfrac{7\sqrt{7}}{2}$ $\quad$ **D)** $3\sqrt{11}$ $\quad$ **E)** $\dfrac{5\sqrt{11}}{2}$
 
 **Risposta:** E
-[[src_obm_2001_n3_f1__Q25]]
+[[Quesiti/src_obm_2001_n3_f1#q25|src_obm_2001_n3_f1__Q25]]

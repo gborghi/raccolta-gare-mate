@@ -65,7 +65,7 @@ level: Concours Général
 > 
 > **3.** Indicare che in entrambi i casi 2.b. e 2.c., i confini di $\Delta$ e $\delta_A(\Delta)$ hanno la stessa lunghezza.
 
-[[src_cgen_1992__Q01]]
+[[Quesiti/src_cgen_1992#q01|src_cgen_1992__Q01]]
 
 
 
@@ -104,7 +104,7 @@ level: Concours Général
 > 
 > **2.** Determinare i quadrilaterali $ABCD$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$ è massima. Rappresenta un quadrilaterale.
 
-[[src_cgen_1992__Q02]]
+[[Quesiti/src_cgen_1992#q02|src_cgen_1992__Q02]]
 
 
 
@@ -143,7 +143,7 @@ level: Concours Général
 > 
 > **3.** I due punti $O$ e $I$ coincidono.
 
-[[src_cgen_1992__Q03]]
+[[Quesiti/src_cgen_1992#q03|src_cgen_1992__Q03]]
 
 
 
@@ -179,7 +179,7 @@ level: Concours Général
 > 
 > **2.** Mostra che da alcuni indici $n_0$ in poi, la sequenza $(u_n)$ è monotona (non è richiesto di determinare $n_0$, che dipende dai valori iniziali $u_0$ e $u_1$).
 
-[[src_cgen_1992__Q04]]
+[[Quesiti/src_cgen_1992#q04|src_cgen_1992__Q04]]
 
 
 
@@ -206,4 +206,4 @@ level: Concours Général
 
 > Qual è la cifra di unità del più grande intero inferiore o uguale a $\dfrac{10^{1992}}{10^{83}+7}$?
 
-[[src_cgen_1992__Q05]]
+[[Quesiti/src_cgen_1992#q05|src_cgen_1992__Q05]]

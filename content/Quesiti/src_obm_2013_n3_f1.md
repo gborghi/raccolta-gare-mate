@@ -39,7 +39,7 @@ level: OBM Nível 3
 > (A) $2$ \quad (B) $9$ \quad (C) $18$ \quad (D) $90$ \quad (E) $1800$
 
 **Risposta:** C
-[[src_obm_2013_n3_f1__Q01]]
+[[Quesiti/src_obm_2013_n3_f1#q01|src_obm_2013_n3_f1__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: OBM Nível 3
 > (A) Niente, visto che pagherà la stessa somma. Quad (B) Perderà reais. \quad (C) Otterrà $105$ reais. Quad (D) Perderà i reais. Quad (E) Perderà $105$ reais.
 
 **Risposta:** D
-[[src_obm_2013_n3_f1__Q02]]
+[[Quesiti/src_obm_2013_n3_f1#q02|src_obm_2013_n3_f1__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: OBM Nível 3
 > 
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
 
-[[src_obm_2013_n3_f1__Q03]]
+[[Quesiti/src_obm_2013_n3_f1#q03|src_obm_2013_n3_f1__Q03]]
 
 
 
@@ -133,7 +133,7 @@ level: OBM Nível 3
 > 
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
-[[src_obm_2013_n3_f1__Q04]]
+[[Quesiti/src_obm_2013_n3_f1#q04|src_obm_2013_n3_f1__Q04]]
 
 
 
@@ -164,7 +164,7 @@ level: OBM Nível 3
 > 
 > (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
 
-[[src_obm_2013_n3_f1__Q05]]
+[[Quesiti/src_obm_2013_n3_f1#q05|src_obm_2013_n3_f1__Q05]]
 
 
 
@@ -197,7 +197,7 @@ level: OBM Nível 3
 > (A) $4$ \quad (B) $3+\sqrt{3}$ \quad (C) $2+2\sqrt{2}$ \quad (D) $2+\sqrt{5}$ \quad (E) $5$
 
 **Risposta:** E
-[[src_obm_2013_n3_f1__Q06]]
+[[Quesiti/src_obm_2013_n3_f1#q06|src_obm_2013_n3_f1__Q06]]
 
 
 
@@ -229,7 +229,7 @@ level: OBM Nível 3
 > (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
 
 **Risposta:** D
-[[src_obm_2013_n3_f1__Q07]]
+[[Quesiti/src_obm_2013_n3_f1#q07|src_obm_2013_n3_f1__Q07]]
 
 
 
@@ -273,7 +273,7 @@ level: OBM Nível 3
 > (A) $45$ \quad (B) $46$ \quad (C) $62$ \quad (D) $63$ \quad (E) $64$
 
 **Risposta:** A
-[[src_obm_2013_n3_f1__Q08]]
+[[Quesiti/src_obm_2013_n3_f1#q08|src_obm_2013_n3_f1__Q08]]
 
 
 
@@ -306,7 +306,7 @@ level: OBM Nível 3
 > (A) $6$ \quad (B) $8$ \quad (C) $12$ \quad (D) $24$ \quad (E) $36$
 
 **Risposta:** B
-[[src_obm_2013_n3_f1__Q09]]
+[[Quesiti/src_obm_2013_n3_f1#q09|src_obm_2013_n3_f1__Q09]]
 
 
 
@@ -339,7 +339,7 @@ level: OBM Nível 3
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** C
-[[src_obm_2013_n3_f1__Q10]]
+[[Quesiti/src_obm_2013_n3_f1#q10|src_obm_2013_n3_f1__Q10]]
 
 
 
@@ -370,7 +370,7 @@ level: OBM Nível 3
 > 
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
-[[src_obm_2013_n3_f1__Q11]]
+[[Quesiti/src_obm_2013_n3_f1#q11|src_obm_2013_n3_f1__Q11]]
 
 
 
@@ -385,7 +385,7 @@ level: OBM Nível 3
 > 
 > (A) $35^\circ$ \quad (B) $10^\circ$ \quad (C) $20^\circ$ \quad (D) $30^\circ$ \quad (E) $55^\circ$
 
-![[src_obm_2013_n3_f1__Q12.png]]
+![[src_obm_2013_n3_f1__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -402,9 +402,9 @@ level: OBM Nível 3
 > 
 > (A) $35^\circ$ \quad (B) $10^\circ$ \quad (C) $20^\circ$ \quad (D) $30^\circ$ \quad (E) $55^\circ$
 
-![[src_obm_2013_n3_f1__Q12.png]]
+![[src_obm_2013_n3_f1__q12.png]]
 
-[[src_obm_2013_n3_f1__Q12]]
+[[Quesiti/src_obm_2013_n3_f1#q12|src_obm_2013_n3_f1__Q12]]
 
 
 
@@ -419,7 +419,7 @@ level: OBM Nível 3
 > 
 > (A) $15\,\text{km/h}$ \quad (B) $30\,\text{km/h}$ \quad (C) $30\sqrt{2}\,\text{km/h}$ \quad (D) $30\sqrt{3}\,\text{km/h}$ \quad (E) $60\,\text{km/h}$
 
-![[src_obm_2013_n3_f1__Q13.png]]
+![[src_obm_2013_n3_f1__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
@@ -438,10 +438,10 @@ level: OBM Nível 3
 > 
 > (A) $15\,\text{km/h}$ \quad (B) $30\,\text{km/h}$ \quad (C) $30\sqrt{2}\,\text{km/h}$ \quad (D) $30\sqrt{3}\,\text{km/h}$ \quad (E) $60\,\text{km/h}$
 
-![[src_obm_2013_n3_f1__Q13.png]]
+![[src_obm_2013_n3_f1__q13.png]]
 
 **Risposta:** B
-[[src_obm_2013_n3_f1__Q13]]
+[[Quesiti/src_obm_2013_n3_f1#q13|src_obm_2013_n3_f1__Q13]]
 
 
 
@@ -482,7 +482,7 @@ level: OBM Nível 3
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $12$ \quad (E) $24$
 
 **Risposta:** D
-[[src_obm_2013_n3_f1__Q14]]
+[[Quesiti/src_obm_2013_n3_f1#q14|src_obm_2013_n3_f1__Q14]]
 
 
 
@@ -513,7 +513,7 @@ level: OBM Nível 3
 > 
 > (A) $64\%$ \quad (B) $72\%$ \quad (C) $81\%$ \quad (D) $90\%$ \quad (E) $96\%$
 
-[[src_obm_2013_n3_f1__Q15]]
+[[Quesiti/src_obm_2013_n3_f1#q15|src_obm_2013_n3_f1__Q15]]
 
 
 
@@ -528,7 +528,7 @@ level: OBM Nível 3
 > 
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $90$ \quad (E) $n$ can be arbitrarily large
 
-![[src_obm_2013_n3_f1__Q16.png]]
+![[src_obm_2013_n3_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -546,9 +546,9 @@ level: OBM Nível 3
 > 
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $90$ \quad (E) $n$ può essere arbitrariamente grande
 
-![[src_obm_2013_n3_f1__Q16.png]]
+![[src_obm_2013_n3_f1__q16.png]]
 
-[[src_obm_2013_n3_f1__Q16]]
+[[Quesiti/src_obm_2013_n3_f1#q16|src_obm_2013_n3_f1__Q16]]
 
 
 
@@ -579,7 +579,7 @@ level: OBM Nível 3
 > 
 > (A) $12$ \quad (B) $24$ \quad (C) $36$ \quad (D) $48$ \quad (E) $100$
 
-[[src_obm_2013_n3_f1__Q17]]
+[[Quesiti/src_obm_2013_n3_f1#q17|src_obm_2013_n3_f1__Q17]]
 
 
 
@@ -610,7 +610,7 @@ Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scato
 > 
 > (A) $330$ \quad (B) $348$ \quad (C) $512$ \quad (D) $676$ \quad (E) $900$
 
-[[src_obm_2013_n3_f1__Q18]]
+[[Quesiti/src_obm_2013_n3_f1#q18|src_obm_2013_n3_f1__Q18]]
 
 
 
@@ -642,7 +642,7 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $100$ \quad (B) $150$ \quad (C) $200$ \quad (D) $240$ \quad (E) $300$
 
 **Risposta:** C
-[[src_obm_2013_n3_f1__Q19]]
+[[Quesiti/src_obm_2013_n3_f1#q19|src_obm_2013_n3_f1__Q19]]
 
 
 
@@ -674,7 +674,7 @@ Numero più vicino al numero di cifre di 3^400*
 > 
 > (A) $43$ \quad (B) $44$ \quad (C) $87$ \quad (D) $88$ \quad (E) $89$
 
-[[src_obm_2013_n3_f1__Q20]]
+[[Quesiti/src_obm_2013_n3_f1#q20|src_obm_2013_n3_f1__Q20]]
 
 
 
@@ -704,7 +704,7 @@ Numero più vicino al numero di cifre di 3^400*
 > 
 > (A) $76^\circ$ \quad (B) $77^\circ$ \quad (C) $78^\circ$ \quad (D) $79^\circ$ \quad (E) $80^\circ$
 
-[[src_obm_2013_n3_f1__Q21]]
+[[Quesiti/src_obm_2013_n3_f1#q21|src_obm_2013_n3_f1__Q21]]
 
 
 
@@ -735,7 +735,7 @@ Numero più vicino al numero di cifre di 3^400*
 > 
 > (A) Meno di $1000$ \quad (B) Più di $1000$ e meno di $2000$ \quad (C) Più di $2000$ e meno di $3000$ \quad (D) Più di $3000$ e meno di $4000$ \quad (E) Più di $4000$
 
-[[src_obm_2013_n3_f1__Q22]]
+[[Quesiti/src_obm_2013_n3_f1#q22|src_obm_2013_n3_f1__Q22]]
 
 
 
@@ -768,7 +768,7 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** C
-[[src_obm_2013_n3_f1__Q23]]
+[[Quesiti/src_obm_2013_n3_f1#q23|src_obm_2013_n3_f1__Q23]]
 
 
 
@@ -801,7 +801,7 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $4$ \quad (E) $n$, dove $n$ è il grado di $p(x)$
 
 **Risposta:** C
-[[src_obm_2013_n3_f1__Q24]]
+[[Quesiti/src_obm_2013_n3_f1#q24|src_obm_2013_n3_f1__Q24]]
 
 
 
@@ -834,4 +834,4 @@ Numero più vicino al numero di cifre di 3^400*
 > (A) $\dfrac{1+\sqrt{5}}{2}$ \quad (B) $\sqrt{5}$ \quad (C) $\dfrac{3+\sqrt{5}}{2}$ \quad (D) $1+\sqrt{5}$ \quad (E) $2+\sqrt{5}$
 
 **Risposta:** E
-[[src_obm_2013_n3_f1__Q25]]
+[[Quesiti/src_obm_2013_n3_f1#q25|src_obm_2013_n3_f1__Q25]]

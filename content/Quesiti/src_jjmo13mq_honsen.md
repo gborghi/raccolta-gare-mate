@@ -33,7 +33,7 @@ level: JJMO Honsen
 
 > Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Il punto $P$ deve essere diverso da $A$ e $B$, in modo tale che $\angle PAC = \angle PBD = 90^\circ$. Prove che la linea perpendicolare a$CD$passa attraverso il centro circostante del triangolo $PAB$.
 
-[[src_jjmo13mq_honsen__Q01]]
+[[Quesiti/src_jjmo13mq_honsen#q01|src_jjmo13mq_honsen__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: JJMO Honsen
 
 > Come $x,y$ intervallo su tutti i numeri reali, trovare il valore massimo di $$\frac{(xy+x+y-1)^2}{(x^2+1)(y^2+1)}.$$
 
-[[src_jjmo13mq_honsen__Q02]]
+[[Quesiti/src_jjmo13mq_honsen#q02|src_jjmo13mq_honsen__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: JJMO Honsen
 
 > $n,k$ siano integri positivi con $n \ge k$. C'è una griglia di cellule $n \times n$, e ogni cellula è colorata in bianco o nero. Ci sono formiche $k$. Ogni formica si trasferisce ripetutamente in una cella adiacente. Su una cellula bianca una formica può solo muoversi dritta in avanti, mentre su una cellula nera una formica può scegliere liberamente quale cellula adiacente spostarsi dopo. Supponiamo che colorando alcune cellule $m$ in nero e il resto in bianco, e scegliendo correttamente il posizionamento iniziale delle formiche e le loro direzioni iniziali di movimento, si possa organizzare che ogni cellula della griglia venga visitata da almeno una formica. Trovare il minimo valore possibile di $m$ per il quale tale disposizione è possibile.
 
-[[src_jjmo13mq_honsen__Q03]]
+[[Quesiti/src_jjmo13mq_honsen#q03|src_jjmo13mq_honsen__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: JJMO Honsen
 
 > Nel piano ci sono un cerchio $C$ e due punti $A,B$, dove $A$ si trova all'interno del cerchio $C$ (non sulla circonferenza). Prendi una linea $l$ che passa attraverso $A$ ma non attraverso $B$, e lasci che $P,Q$ siano i due punti di intersezione di $l$ con il cerchio $C$. Lasciate che $O$ sia il centro circundante del triangolo $BPQ$. Dimostrare che esiste una riga $m$ tale che, indipendentemente dal modo in cui $l$ è scelto, $O$ si trova su $m$.
 
-[[src_jjmo13mq_honsen__Q04]]
+[[Quesiti/src_jjmo13mq_honsen#q04|src_jjmo13mq_honsen__Q04]]
 
 
 
@@ -141,4 +141,4 @@ level: JJMO Honsen
 
 > Nel piano, prendere $2015$ punti distinti, e unire alcune coppie di loro per bordi. Supponiamo che due bordi distinte che condividono un punto di fine comune formino un angolo maggiore di $90^\circ$. Trova il massimo valore possibile del numero di bordi.
 
-[[src_jjmo13mq_honsen__Q05]]
+[[Quesiti/src_jjmo13mq_honsen#q05|src_jjmo13mq_honsen__Q05]]

@@ -35,7 +35,7 @@ level: OBM Nível 1
 > Quante volte appare la cifra $9$ nel risultato dell'operazione $10^{100} - 2003$?
 
 **Risposta:** 98
-[[src_obm_2003_n1_f2__Q01]]
+[[Quesiti/src_obm_2003_n1_f2#q01|src_obm_2003_n1_f2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 1
 > Quanti integri positivi superiori a $2003^2$ e inferiori a $2004^2$ sono multipli di $100$?
 
 **Risposta:** 40
-[[src_obm_2003_n1_f2__Q02]]
+[[Quesiti/src_obm_2003_n1_f2#q02|src_obm_2003_n1_f2__Q02]]
 
 
 
@@ -77,7 +77,7 @@ level: OBM Nível 1
 
 > How many triangles are there whose sides lie on some of the segments drawn in the figure to the side?
 
-![[src_obm_2003_n1_f2__Q03.png]]
+![[src_obm_2003_n1_f2__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -94,10 +94,10 @@ level: OBM Nível 1
 
 > Quanti triangoli ci sono i cui lati si trovano su alcuni dei segmenti disegnati nella figura laterale?
 
-![[src_obm_2003_n1_f2__Q03.png]]
+![[src_obm_2003_n1_f2__q03.png]]
 
 **Risposta:** 17
-[[src_obm_2003_n1_f2__Q03]]
+[[Quesiti/src_obm_2003_n1_f2#q03|src_obm_2003_n1_f2__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: OBM Nível 1
 
 > A student with lots of free time and curiosity decided to do the following: every minute, when changing the hour on his digital clock, he would mark an $X$ in his notebook for each digit $7$ that appeared on the display. So if his clock showed $\mathbf{02{:}07}$ he marked $X$, and when it showed $\mathbf{07{:}17}$ he marked $XX$. He started doing this when the clock showed $\mathbf{01{:}00}$ and stopped almost twelve hours later, when the clock showed $\mathbf{12{:}59}$. Calculate half the number of $X$'s he marked in his notebook.
 
-![[src_obm_2003_n1_f2__Q04.png]]
+![[src_obm_2003_n1_f2__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -127,10 +127,10 @@ level: OBM Nível 1
 
 > Uno studente con molto tempo libero e curiosità decise di fare il seguente: ogni minuto, quando cambiava l'ora sul suo orologio digitale, segnava un $X$ nel suo quaderno per ogni cifra $7$ che appareva sul display. Quindi, se il suo orologio mostrava $\mathbf{02{:}07}$ ha segnato $X$, e quando mostrava $\mathbf{07{:}17}$ ha segnato $XX$. Ha iniziato a farlo quando l'orologio mostrava $\mathbf{01{:}00}$ e si è fermato quasi dodici ore dopo, quando l'orologio mostrava $\mathbf{12{:}59}$. Calcola la metà del numero di $X$ che ha segnato nel suo quaderno.
 
-![[src_obm_2003_n1_f2__Q04.png]]
+![[src_obm_2003_n1_f2__q04.png]]
 
 **Risposta:** 66
-[[src_obm_2003_n1_f2__Q04]]
+[[Quesiti/src_obm_2003_n1_f2#q04|src_obm_2003_n1_f2__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: OBM Nível 1
 
 > The great attraction of OBM Park is a giant Ferris wheel (the figure shows a giant Ferris wheel, but with a smaller number of cabins). The cabins are numbered $1, 2, 3, \ldots$ in clockwise order. When cabin $25$ is at the lowest position of the Ferris wheel, cabin $8$ is at the highest position. How many cabins does the Ferris wheel have?
 
-![[src_obm_2003_n1_f2__Q05.png]]
+![[src_obm_2003_n1_f2__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -160,10 +160,10 @@ level: OBM Nível 1
 
 > La grande attrazione di OBM Park è una gigantesca ruota di Ferris (la figura mostra una gigantesca ruota di Ferris, ma con un numero minore di cabine). Le cabine sono numerate $1, 2, 3, \ldots$ in ordine orario. Quando la cabina $25$ si trova nella posizione più bassa della ruota del Ferris, la cabina $8$ si trova nella posizione più alta. Quante cabine ha la ruota del Ferris?
 
-![[src_obm_2003_n1_f2__Q05.png]]
+![[src_obm_2003_n1_f2__q05.png]]
 
 **Risposta:** 34
-[[src_obm_2003_n1_f2__Q05]]
+[[Quesiti/src_obm_2003_n1_f2#q05|src_obm_2003_n1_f2__Q05]]
 
 
 
@@ -192,7 +192,7 @@ level: OBM Nível 1
 > Gli anni bisesti sono multipli di $4$, ad eccezione di quelli che sono multipli di $100$ ma non di $400$. Quanti anni a salto sono passati dalla Proclamazione della Repubblica del Brasile in $1889$ fino ad oggi (2003)?
 
 **Risposta:** 27
-[[src_obm_2003_n1_f2__Q06]]
+[[Quesiti/src_obm_2003_n1_f2#q06|src_obm_2003_n1_f2__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: OBM Nível 1
 
 > On a standard die the sum of dots on opposite faces is always $7$. Beatriz built a tower with $4$ identical dice, gluing the faces together as shown in the figure. What is the minimum number of dots that Beatriz can obtain by summing all the dots on the exposed faces of the tower?
 
-![[src_obm_2003_n1_f2__Q07.png]]
+![[src_obm_2003_n1_f2__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -222,10 +222,10 @@ level: OBM Nível 1
 
 > Su un dado standard la somma dei punti su facce opposte è sempre $7$. Beatriz costruì una torre con $4$ dadi identici, incollare le facce insieme come mostrato nella figura. Qual è il numero minimo di punti che Beatriz può ottenere sommando tutti i punti sulle facce esposte della torre?
 
-![[src_obm_2003_n1_f2__Q07.png]]
+![[src_obm_2003_n1_f2__q07.png]]
 
 **Risposta:** 58
-[[src_obm_2003_n1_f2__Q07]]
+[[Quesiti/src_obm_2003_n1_f2#q07|src_obm_2003_n1_f2__Q07]]
 
 
 
@@ -256,7 +256,7 @@ level: OBM Nível 1
 > Nella seguente moltiplicazione, $a$, $b$, $c$ e $d$ sono cifre: $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$ Calcolare $b + c + d$.
 
 **Risposta:** 15
-[[src_obm_2003_n1_f2__Q08]]
+[[Quesiti/src_obm_2003_n1_f2#q08|src_obm_2003_n1_f2__Q08]]
 
 
 
@@ -285,7 +285,7 @@ level: OBM Nível 1
 > La media di cinque diversi interi positivi è $11$. Determinare il valore massimo possibile del più grande dei cinque integri.
 
 **Risposta:** 45
-[[src_obm_2003_n1_f2__Q09]]
+[[Quesiti/src_obm_2003_n1_f2#q09|src_obm_2003_n1_f2__Q09]]
 
 
 
@@ -298,7 +298,7 @@ level: OBM Nível 1
 
 > Nine different domino pieces are placed on a table, partially covered by a piece of paper. The dominoes touch each other so that $1$ dot is adjacent to $1$ dot, $2$ dots are adjacent to $2$ dots, etc. What is the total number of dots hidden by the paper?
 
-![[src_obm_2003_n1_f2__Q10.png]]
+![[src_obm_2003_n1_f2__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -315,10 +315,10 @@ level: OBM Nível 1
 
 > Sono posti su un tavolo nove pezzi diversi di domino, parzialmente coperti da un pezzo di carta. I dominosi si toccano in modo che il punto $1$ sia adiacente al punto $1$, i punti $2$ siano adiacenti ai punti $2$, ecc. Qual è il numero totale di punti nascosti dalla carta?
 
-![[src_obm_2003_n1_f2__Q10.png]]
+![[src_obm_2003_n1_f2__q10.png]]
 
 **Risposta:** 22
-[[src_obm_2003_n1_f2__Q10]]
+[[Quesiti/src_obm_2003_n1_f2#q10|src_obm_2003_n1_f2__Q10]]
 
 
 
@@ -345,7 +345,7 @@ level: OBM Nível 1
 
 > Quali integri positivi inferiori a $120$ possono essere scritti come somma di due o più potenze distinte di $3$ con esponenti non negativi? Ad esempio, $12 = 3^1 + 3^2$ è uno di tali numeri, ma $18 = 3^1 + 3^2 + 3^1$ non lo è (l'esponente $1$ viene ripetuto). Trova tutti questi numeri.
 
-[[src_obm_2003_n1_f2__Q11]]
+[[Quesiti/src_obm_2003_n1_f2#q11|src_obm_2003_n1_f2__Q11]]
 
 
 
@@ -358,7 +358,7 @@ level: OBM Nível 1
 
 > In the figure, square $ABCD$ has area $64\text{ cm}^2$ and square $FHIJ$ has area $36\text{ cm}^2$. The vertices $A$, $D$, $E$, $H$, and $I$ lie on the same straight line. Calculate the area of square $BEFG$.
 
-![[src_obm_2003_n1_f2__Q12.png]]
+![[src_obm_2003_n1_f2__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -375,10 +375,10 @@ level: OBM Nível 1
 
 > Nella figura, il quadrato $ABCD$ ha superficie $64\text{ cm}^2$ e il quadrato $FHIJ$ ha superficie $36\text{ cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ si trovano sulla stessa linea retta. Calcolare la superficie del quadrato $BEFG$.
 
-![[src_obm_2003_n1_f2__Q12.png]]
+![[src_obm_2003_n1_f2__q12.png]]
 
 **Risposta:** 100
-[[src_obm_2003_n1_f2__Q12]]
+[[Quesiti/src_obm_2003_n1_f2#q12|src_obm_2003_n1_f2__Q12]]
 
 
 
@@ -405,4 +405,4 @@ level: OBM Nível 1
 
 > Considera il prodotto di tutti i divisori positivi di un intero positivo $N$, diverso da $N$ stesso. Diciamo $N$ è \emph{potente} se il prodotto di questi divisori è uguale al quadrato di $N$. Ad esempio, $12$ è potente, poiché i suoi divisori positivi diversi da $12$ sono $1, 2, 3, 4, 6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Trova tutti i numeri potenti inferiori a $100$.
 
-[[src_obm_2003_n1_f2__Q13]]
+[[Quesiti/src_obm_2003_n1_f2#q13|src_obm_2003_n1_f2__Q13]]

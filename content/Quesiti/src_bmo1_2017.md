@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti in base $10$, apparendo uno dopo l'altro. Ciascuna delle cifre da $0$ a $9$ appare molte volte. Una cifra $d$ viene chiamata odd se il numero di volte $d$ appare nell'elenco $1, 2, 3, \ldots, 2016$ è odd. Trova tutte le possibilità per l'insieme di cifre rare.
 
-[[src_bmo1_2017__Q01]]
+[[Quesiti/src_bmo1_2017#q01|src_bmo1_2017__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Per ogni numero reale positivo $x$, definire $\{x\}$ come il più grande di $x$ e $\dfrac{1}{x}$. Trova, con la prova, tutti i numeri reali positivi $y$ in modo tale che $$\{y\}\{2y\} = 1.$$
 
-[[src_bmo1_2017__Q02]]
+[[Quesiti/src_bmo1_2017#q02|src_bmo1_2017__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: BMO Round 1
 
 > Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$m^6 - 66 = n^2 + 5n - 10.$$
 
-[[src_bmo1_2017__Q03]]
+[[Quesiti/src_bmo1_2017#q03|src_bmo1_2017__Q03]]
 
 
 
@@ -116,7 +116,7 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 
 > Naomi e Tom giocano a un gioco. Lo scelgono a turno per scegliere un numero intero positivo, con Naomi prima. Un giocatore perde la partita se, dopo il turno, la somma di tutti i numeri interi scelti dall'inizio della partita (da entrambi) non può essere espressa come la differenza di due quadrati. Determina se uno dei giocatori ha una strategia vincente e, se sì, quale.
 
-[[src_bmo1_2017__Q04]]
+[[Quesiti/src_bmo1_2017#q04|src_bmo1_2017__Q04]]
 
 
 
@@ -145,7 +145,7 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 
 > $ABC$ sia un triangolo con $\angle A < \angle B < \angle C$. Il circolo $\Gamma$ deve essere il circolo che attraversa $A$, $B$ e $C$. Le tangenti di $\Gamma$ a $A$ e $C$ si incontrano a $P$. Il segmento di linea $AP$ incontra di nuovo $\Gamma$ a $Q$. È dato che $$[ACP] = [ABC] = [BQC].$$ dimostra che $\angle BCA = 90^\circ$. Qui $[XYZ]$ indica l'area del triangolo $XYZ$.
 
-[[src_bmo1_2017__Q05]]
+[[Quesiti/src_bmo1_2017#q05|src_bmo1_2017__Q05]]
 
 
 
@@ -172,4 +172,4 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 
 > I numeri interi positivi consecutivi $n$, $n + 2$ e $n + 4$ sono entrambi esattamente divisibili rispettivamente da numeri interi positivi odd $m$, $m + 2$ e $m + 4$. Determinare il minimo valore possibile di $m$.
 
-[[src_bmo1_2017__Q06]]
+[[Quesiti/src_bmo1_2017#q06|src_bmo1_2017__Q06]]

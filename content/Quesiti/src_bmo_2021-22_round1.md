@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > (Due espressioni sono considerate diverse se contengono numeri diversi. L'ordine dei numeri che formano una somma è irrilevante.)
 
-[[src_bmo_2021-22_round1__Q01]]
+[[Quesiti/src_bmo_2021-22_round1#q01|src_bmo_2021-22_round1__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: BMO Round 1
 
 > Un giorno Arun e Disha giocarono diverse partite di tennis da tavolo. A cinque punti durante il giorno, Arun calcola la percentuale di partite giocate fino ad ora che ha vinto. I risultati di questi calcoli sono stati esattamente $30\%$, esattamente $40\%$, esattamente $50\%$, esattamente $60\%$ e esattamente $70\%$ in qualche ordine. Qual è il numero minimo di giochi che avrebbero potuto giocare?
 
-[[src_bmo_2021-22_round1__Q02]]
+[[Quesiti/src_bmo_2021-22_round1#q02|src_bmo_2021-22_round1__Q02]]
 
 
 
@@ -95,7 +95,7 @@ level: BMO Round 1
 > 
 > (Due pile sono diverse se contengono numeri diversi di pezzi d'oro di un certo peso. La disposizione dei pezzi nelle pile è irrilevante.)
 
-[[src_bmo_2021-22_round1__Q03]]
+[[Quesiti/src_bmo_2021-22_round1#q03|src_bmo_2021-22_round1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 > 
 > (Un arco minore di un cerchio è il più breve dei due archi con determinati punti terminali.)
 
-[[src_bmo_2021-22_round1__Q04]]
+[[Quesiti/src_bmo_2021-22_round1#q04|src_bmo_2021-22_round1__Q04]]
 
 
 
@@ -153,7 +153,7 @@ level: BMO Round 1
 
 > Un insieme $N$ è un insieme di diversi integri positivi compresi un dato intero positivo $N$. La media $m(N)$ deve essere la più piccola possibile di qualsiasi set $N$. Per quanti valori $N$ inferiori a $2021$ $m(N)$ è un numero intero?
 
-[[src_bmo_2021-22_round1__Q05]]
+[[Quesiti/src_bmo_2021-22_round1#q05|src_bmo_2021-22_round1__Q05]]
 
 
 
@@ -196,4 +196,4 @@ level: BMO Round 1
 > 
 > Quando Marvin sarà finito, quante delle liste avranno una somma uguale a $999{,}999$?
 
-[[src_bmo_2021-22_round1__Q06]]
+[[Quesiti/src_bmo_2021-22_round1#q06|src_bmo_2021-22_round1__Q06]]

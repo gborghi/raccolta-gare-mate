@@ -51,7 +51,7 @@ level: triennio
 > - **(E)** None of the above.
 
 **Answer:** B
-[[src_archimede_1997_triennio__Q01]]
+[[Quesiti/src_archimede_1997_triennio#q01|src_archimede_1997_triennio__Q01]]
 
 
 
@@ -94,7 +94,7 @@ level: triennio
 > - **(E)** 2128.
 
 **Answer:** E
-[[src_archimede_1997_triennio__Q04]]
+[[Quesiti/src_archimede_1997_triennio#q04|src_archimede_1997_triennio__Q04]]
 
 
 
@@ -138,7 +138,7 @@ level: triennio
 > - **(E)** 12.
 
 **Answer:** D
-[[src_archimede_1997_triennio__Q06]]
+[[Quesiti/src_archimede_1997_triennio#q06|src_archimede_1997_triennio__Q06]]
 
 
 
@@ -178,7 +178,7 @@ level: triennio
 > - **(E)** (0, 0001)2.
 
 **Answer:** E
-[[src_archimede_1997_triennio__Q07]]
+[[Quesiti/src_archimede_1997_triennio#q07|src_archimede_1997_triennio__Q07]]
 
 
 
@@ -219,7 +219,7 @@ level: triennio
 > - **(E)** 4.
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q08]]
+[[Quesiti/src_archimede_1997_triennio#q08|src_archimede_1997_triennio__Q08]]
 
 
 
@@ -260,7 +260,7 @@ level: triennio
 > - **(E)** If I don't eat too much in the evening, then I didn't play tennis in the afternoon.
 
 **Answer:** D
-[[src_archimede_1997_triennio__Q09]]
+[[Quesiti/src_archimede_1997_triennio#q09|src_archimede_1997_triennio__Q09]]
 
 
 
@@ -304,7 +304,7 @@ level: triennio
 > - **(E)** 20.
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q10]]
+[[Quesiti/src_archimede_1997_triennio#q10|src_archimede_1997_triennio__Q10]]
 
 
 
@@ -344,7 +344,7 @@ level: triennio
 > - **(E)** there are no pairs of numbers (x, y) that verify the given conditions.
 
 **Answer:** D
-[[src_archimede_1997_triennio__Q11]]
+[[Quesiti/src_archimede_1997_triennio#q11|src_archimede_1997_triennio__Q11]]
 
 
 
@@ -389,7 +389,7 @@ level: triennio
 > - **(E)** 4(π −1) cm2.
 
 **Answer:** D
-[[src_archimede_1997_triennio__Q12]]
+[[Quesiti/src_archimede_1997_triennio#q12|src_archimede_1997_triennio__Q12]]
 
 
 
@@ -433,7 +433,7 @@ level: triennio
 > - **(E)** It's just a matter of luck.
 
 **Answer:** D
-[[src_archimede_1997_triennio__Q13]]
+[[Quesiti/src_archimede_1997_triennio#q13|src_archimede_1997_triennio__Q13]]
 
 
 
@@ -475,7 +475,7 @@ level: triennio
 > - **(E)** The result depends on the number of pupils in the class.
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q14]]
+[[Quesiti/src_archimede_1997_triennio#q14|src_archimede_1997_triennio__Q14]]
 
 
 
@@ -519,7 +519,7 @@ level: triennio
 > - **(E)** 20√ 4.
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q15]]
+[[Quesiti/src_archimede_1997_triennio#q15|src_archimede_1997_triennio__Q15]]
 
 
 
@@ -567,7 +567,7 @@ level: triennio
 > - **(E)** an irrational number greater than 2. b A b B b C bD bE
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q16]]
+[[Quesiti/src_archimede_1997_triennio#q16|src_archimede_1997_triennio__Q16]]
 
 
 
@@ -612,7 +612,7 @@ level: triennio
 > - **(E)** 29.
 
 **Answer:** D
-[[src_archimede_1997_triennio__Q17]]
+[[Quesiti/src_archimede_1997_triennio#q17|src_archimede_1997_triennio__Q17]]
 
 
 
@@ -653,7 +653,7 @@ Maximum number of Fridays 13 in a non-biest year
 > - **(E)** more than four.
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q18]]
+[[Quesiti/src_archimede_1997_triennio#q18|src_archimede_1997_triennio__Q18]]
 
 
 
@@ -695,7 +695,7 @@ Maximum number of Fridays 13 in a non-biest year
 > - **(E)** It is not possible to obtain 1997.
 
 **Answer:** E
-[[src_archimede_1997_triennio__Q19]]
+[[Quesiti/src_archimede_1997_triennio#q19|src_archimede_1997_triennio__Q19]]
 
 
 
@@ -736,7 +736,7 @@ Maximum number of Fridays 13 in a non-biest year
 > - **(E)** I'm not going to end it.
 
 **Answer:** B
-[[src_archimede_1997_triennio__Q20]]
+[[Quesiti/src_archimede_1997_triennio#q20|src_archimede_1997_triennio__Q20]]
 
 
 
@@ -780,7 +780,7 @@ Maximum number of Fridays 13 in a non-biest year
 > - **(E)** The data on the problem is insufficient.
 
 **Answer:** B
-[[src_archimede_1997_triennio__Q21]]
+[[Quesiti/src_archimede_1997_triennio#q21|src_archimede_1997_triennio__Q21]]
 
 
 
@@ -824,7 +824,7 @@ The probability of 13 being mined in one city
 > - **(E)** p ≥1 4.
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q22]]
+[[Quesiti/src_archimede_1997_triennio#q22|src_archimede_1997_triennio__Q22]]
 
 
 
@@ -871,7 +871,7 @@ The probability of 13 being mined in one city
 > - **(E)** None of the above is true.
 
 **Answer:** B
-[[src_archimede_1997_triennio__Q23]]
+[[Quesiti/src_archimede_1997_triennio#q23|src_archimede_1997_triennio__Q23]]
 
 
 
@@ -913,7 +913,7 @@ The probability of 13 being mined in one city
 > - **(E)** There is a minimum value, but it is not one of them.
 
 **Answer:** B
-[[src_archimede_1997_triennio__Q24]]
+[[Quesiti/src_archimede_1997_triennio#q24|src_archimede_1997_triennio__Q24]]
 
 
 
@@ -960,4 +960,4 @@ The probability of 13 being mined in one city
 > - **(E)**
 
 **Answer:** C
-[[src_archimede_1997_triennio__Q25]]
+[[Quesiti/src_archimede_1997_triennio#q25|src_archimede_1997_triennio__Q25]]

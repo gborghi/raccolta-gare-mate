@@ -35,7 +35,7 @@ level: kangourou
 > 1) A polygonal tiles of the plane (i.e. each tiles is a polygon) are assigned. Proves or refutes each of the following statements. (a) If every circle with a center at a point P intersects infinite tiles, then P belongs to infinite tiles. (b) If each tile contains a circle of radius 1 and there is a positive number M such that each tile is contained in a circle of radius M, then each point belongs to a finite number of tiles.
 
 **Answer:** 63
-[[src_kangourou_2016_student_finale__QS1]]
+[[Quesiti/src_kangourou_2016_student_finale#qs1|src_kangourou_2016_student_finale__QS1]]
 
 
 
@@ -63,7 +63,7 @@ Additional holidays by adding bridges, year 3000 days
 > 2) A generic plan tiles are now assigned. It demonstrates or refutes the following statement: if every circle with a center at a point P intersects infinite tiles, there exists a straight line passing through P such that every segment of r containing P within it intersects infinite tiles. N.B. To provide some answers, you can simply trace sufficiently explanatory figures.
 
 **Answer:** 2
-[[src_kangourou_2016_student_finale__QS2]]
+[[Quesiti/src_kangourou_2016_student_finale#qs2|src_kangourou_2016_student_finale__QS2]]
 
 
 
@@ -92,7 +92,7 @@ Additional holidays by adding bridges, year 3000 days
 > Compared to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4,0,3)$, $(6,4,1)$ and $(2,8,5)$. Determine, as quickly as you can, the coordinates (as compared to the same system) of one of the remaining vertices of the cube.
 
 **Answer:** (0,4,7)
-[[src_kangourou_2016_student_finale__QS3]]
+[[Quesiti/src_kangourou_2016_student_finale#qs3|src_kangourou_2016_student_finale__QS3]]
 
 
 
@@ -121,7 +121,7 @@ Additional holidays by adding bridges, year 3000 days
 > Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subsets is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
 
 **Answer:** 2016
-[[src_kangourou_2016_student_finale__QS4]]
+[[Quesiti/src_kangourou_2016_student_finale#qs4|src_kangourou_2016_student_finale__QS4]]
 
 
 
@@ -132,7 +132,7 @@ Additional holidays by adding bridges, year 3000 days
 
 *Massimo rapporto area parallelogramma su esagono regolare*
 
-![[src_kangourou_2016_student_finale__probS5.png]]
+![[src_kangourou_2016_student_finale__probs5.png]]
 
 ```tikz
 \begin{document}
@@ -171,7 +171,7 @@ Additional holidays by adding bridges, year 3000 days
 
 *Most parallelogram area ratio over regular hexagon*
 
-![[src_kangourou_2016_student_finale__probS5.png]]
+![[src_kangourou_2016_student_finale__probs5.png]]
 
 ```tikz
 \begin{document}
@@ -198,7 +198,7 @@ Additional holidays by adding bridges, year 3000 days
 > A parallelogram is inscribed in a regular hexagon (i.e. its vertices are points on some side of the hexagon) and the centers (of symmetry) of the two polygons coincide. What is the maximum value of the ratio between the area of the parallelogram and the area of the hexagon?
 
 **Answer:** 2/3
-[[src_kangourou_2016_student_finale__QS5]]
+[[Quesiti/src_kangourou_2016_student_finale#qs5|src_kangourou_2016_student_finale__QS5]]
 
 
 
@@ -209,7 +209,7 @@ Additional holidays by adding bridges, year 3000 days
 
 *Affermazioni su piastrellamenti del piano (convesse)*
 
-![[src_kangourou_2016_student_finale__probS6.png]]
+![[src_kangourou_2016_student_finale__probs6.png]]
 
 > Per **piastrellamento del piano** intendiamo una famiglia di figure convesse (eventualmente diverse tra loro per forma e dimensione), ciascuna comprensiva del proprio bordo, contenuta in qualche cerchio e contenente qualche cerchio, tale che ogni punto del piano appartenga a qualche figura, ma figure diverse abbiano in comune al più solo punti dei loro bordi. Le figure vengono dette **piastrelle**.
 > 
@@ -236,7 +236,7 @@ Additional holidays by adding bridges, year 3000 days
 
 *Statements on plan tiles (conveyance) *
 
-![[src_kangourou_2016_student_finale__probS6.png]]
+![[src_kangourou_2016_student_finale__probs6.png]]
 
 > For ** plane tiles ** we mean a family of convex figures (possibly different from each other in shape and size), each comprising its own edge, contained in some circle and containing some circle, such that each point of the plane belongs to some figure, but different figures have in common only points of their edges at most. The figures are called **tiles**.
 > 
@@ -251,4 +251,4 @@ Additional holidays by adding bridges, year 3000 days
 > *N.B. To provide some answers, you can simply trace sufficiently explanatory figures.*
 
 **Answer:** 1a falsa, 1b vera, 2 falsa
-[[src_kangourou_2016_student_finale__QS6]]
+[[Quesiti/src_kangourou_2016_student_finale#qs6|src_kangourou_2016_student_finale__QS6]]

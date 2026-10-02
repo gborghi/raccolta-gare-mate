@@ -33,7 +33,7 @@ level: INMO
 
 > $ABC$ sia un triangolo, $I$ il suo centro; $A_1$, $B_1$, $C_1$ siano rispettivamente i riflessi di $I$ in $BC$, $CA$ e $AB$. Supponiamo che il circoncircolo del triangolo $A_1B_1C_1$ passi attraverso $A$. Provare che $B_1$, $C_1$, $I$, $I_1$ sono conciclici, dove $I_1$ è il centro del triangolo $A_1B_1C_1$.
 
-[[src_inmo_2008__Q01]]
+[[Quesiti/src_inmo_2008#q01|src_inmo_2008__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: INMO
 
 > Trova tutti i triples $(p, x, y)$ in modo tale che $p^x = y^4 + 4$, dove $p$ e $x$ sono numeri primi e $x$, $y$ sono numeri naturali.
 
-[[src_inmo_2008__Q02]]
+[[Quesiti/src_inmo_2008#q02|src_inmo_2008__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: INMO
 
 > $A$ sia un insieme di numeri reali tale che $A$ abbia almeno quattro elementi. Supponiamo che $A$ abbia la proprietà che $a^2 + bc$ è un numero razionale per tutti i numeri distinti $a, b, c$ in $A$. Prova che esiste un intero positivo $M$ tale che $a\sqrt{M}$ sia un numero razionale per ogni $a$ in $A$.
 
-[[src_inmo_2008__Q03]]
+[[Quesiti/src_inmo_2008#q03|src_inmo_2008__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: INMO
 
 > Tutti i punti con coordinate interi del piano $xy$ sono colorati utilizzando tre colori, rosso, blu e verde, ogni colore utilizzato almeno una volta. È noto che il punto $(0, 0)$ è di colore rosso e il punto $(0, 1)$ di colore blu. Prova che esistono tre punti con coordinate interi di colori distinti che formano le vertici di un triangolo rettangolo.
 
-[[src_inmo_2008__Q04]]
+[[Quesiti/src_inmo_2008#q04|src_inmo_2008__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: INMO
 
 > Che $ABC$ sia un triangolo; $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ siano tre cerchi uguali e disconnessi all'interno di $ABC$ in modo tale che $\Gamma_A$ tocchi $AB$ e $AC$; $\Gamma_B$ tocchi $AB$ e $BC$; e $\Gamma_C$ tocchi $BC$ e $CA$. Il $\Gamma$ deve essere un cerchio che tocchi i cerchi $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ all'esterno. Prova che la linea che unisce il centro circostante $O$ e il centro interno $I$ del triangolo $ABC$ passa attraverso il centro di $\Gamma$.
 
-[[src_inmo_2008__Q05]]
+[[Quesiti/src_inmo_2008#q05|src_inmo_2008__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: INMO
 
 > Che $P(x)$ sia un dato polinomio con coefficienti interi. Prove che esistono due polinomi $Q(x)$ e $R(x)$, di nuovo con coefficienti interi, in modo tale che (i) $P(x)Q(x)$ sia un polinomio in $x^2$; e (ii) $P(x)R(x)$ sia un polinomio in $x^3$.
 
-[[src_inmo_2008__Q06]]
+[[Quesiti/src_inmo_2008#q06|src_inmo_2008__Q06]]

@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > A domino set is formed by 28 distinct rectangular pieces, each with two parts, each part containing 0 to 6 dots. For example, here are three of these pieces (showing 0|1, 1|3, and 4|6). What is the total number of dots on all the pieces?
 
-![[src_obm_2001_n1_f2__Q01.png]]
+![[src_obm_2001_n1_f2__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -36,10 +36,10 @@ level: OBM Nível 1
 
 > Un set di domino è formato da 28 pezzi rettangolari distinti, ciascuno con due parti, ciascuna parte contenente da 0 a 6 punti. Per esempio, ecco tre di questi pezzi (mostrando 0 di 1, 1 di 3 e 4 di 6). Qual è il numero totale di punti su tutti i pezzi?
 
-![[src_obm_2001_n1_f2__Q01.png]]
+![[src_obm_2001_n1_f2__q01.png]]
 
 **Risposta:** 168
-[[src_obm_2001_n1_f2__Q01]]
+[[Quesiti/src_obm_2001_n1_f2#q01|src_obm_2001_n1_f2__Q01]]
 
 
 
@@ -52,7 +52,7 @@ level: OBM Nível 1
 
 > The pieces of a game called Tangram are constructed by cutting a square into seven parts, as shown in the figure: two large right triangles, one medium right triangle, two small right triangles, one square, and one parallelogram. If the area of the large square is 1, what is the area of the parallelogram?
 
-![[src_obm_2001_n1_f2__Q02.png]]
+![[src_obm_2001_n1_f2__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -68,10 +68,10 @@ level: OBM Nível 1
 
 > I pezzi di un gioco chiamato Tangram sono costruiti tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangolari, un triangolo rettangolo medio, due piccoli triangoli rettangolari, un quadrato e un parallelo. Se l'area del grande quadrato è 1, quale è l'area del parallelo?
 
-![[src_obm_2001_n1_f2__Q02.png]]
+![[src_obm_2001_n1_f2__q02.png]]
 
 **Risposta:** 1/8
-[[src_obm_2001_n1_f2__Q02]]
+[[Quesiti/src_obm_2001_n1_f2#q02|src_obm_2001_n1_f2__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: OBM Nível 1
 > Carlitos fa un buco in un foglio di carta rettangolare. Si piega il foglio a metà e fa un buco; poi si piega di nuovo il foglio già piegato a metà e fa un buco. Può ripetere questa procedura tutte le volte che vuole, evitando sempre di colpire dove ci sono già buchi. Quando si apre il foglio, viene contato il numero totale di buchi. Quante pieghe deve fare almeno per ottenere più di 100 buchi nel foglio?
 
 **Risposta:** 6
-[[src_obm_2001_n1_f2__Q03]]
+[[Quesiti/src_obm_2001_n1_f2#q03|src_obm_2001_n1_f2__Q03]]
 
 
 
@@ -113,7 +113,7 @@ level: OBM Nível 1
 
 > The points of the grid below are numbered starting from the bottom-left vertex, following the polygonal path suggested in the figure. The path visits: $1, 2$ on the bottom, then $3, 4, 5, 6, 7$ up the left side and across, then $8, 9, 10$ etc., spiralling inward. Consider the point corresponding to the number $2001$. What are the numbers of the points located immediately below and immediately to the left of it?
 
-![[src_obm_2001_n1_f2__Q04.png]]
+![[src_obm_2001_n1_f2__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -130,10 +130,10 @@ level: OBM Nível 1
 
 > I punti della griglia di seguito sono numerati a partire dal vertice di basso sinistro, seguendo il percorso poligonale suggerito nella figura. Il percorso visita: $1, 2$ in basso, poi $3, 4, 5, 6, 7$ verso l'alto sul lato sinistro e oltre, poi $8, 9, 10$ ecc., in spirale verso l'interno. Considerare il punto corrispondente al numero $2001$. Quali sono i numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
 
-![[src_obm_2001_n1_f2__Q04.png]]
+![[src_obm_2001_n1_f2__q04.png]]
 
 **Risposta:** 1850 (below) and 1874 (left)
-[[src_obm_2001_n1_f2__Q04]]
+[[Quesiti/src_obm_2001_n1_f2#q04|src_obm_2001_n1_f2__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: OBM Nível 1
 > Elenca tutti gli enti positivi inferiori a 1000 che hanno esattamente tre divisori positivi. Ad esempio, il numero 4 ha esattamente tre divisori positivi: 1, 2 e 4.
 
 **Risposta:** 4, 9, 25, 49, 121, 169, 289, 361, 529, 841, 961
-[[src_obm_2001_n1_f2__Q05]]
+[[Quesiti/src_obm_2001_n1_f2#q05|src_obm_2001_n1_f2__Q05]]
 
 
 
@@ -191,4 +191,4 @@ level: OBM Nível 1
 > $N$ sia il numero intero positivo dato da $N = 1^2 + 2^2 + 3^2 + 4^2 + \ldots + (196883)^2$. Qual è la cifra di unità di $N$?
 
 **Risposta:** 4
-[[src_obm_2001_n1_f2__Q06]]
+[[Quesiti/src_obm_2001_n1_f2#q06|src_obm_2001_n1_f2__Q06]]

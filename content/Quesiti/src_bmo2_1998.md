@@ -41,7 +41,7 @@ level: BMO Round 2
 > 
 > - la dichiarazione di cui alla lettera i) diventa falsa se "6" viene sostituito da "7".
 
-[[src_bmo2_1998__Q01]]
+[[Quesiti/src_bmo2_1998#q01|src_bmo2_1998__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: BMO Round 2
 > 
 > Prova che il circoncircolo di $\triangle ABC$ tocca anche il circoncircolo di $\triangle PQR$.
 
-[[src_bmo2_1998__Q02]]
+[[Quesiti/src_bmo2_1998#q02|src_bmo2_1998__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: BMO Round 2
 > 
 > Prova anche che $k(y - x)$ è un quadrato perfetto.
 
-[[src_bmo2_1998__Q03]]
+[[Quesiti/src_bmo2_1998#q03|src_bmo2_1998__Q03]]
 
 
 
@@ -143,4 +143,4 @@ level: BMO Round 2
 > 
 > Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
 
-[[src_bmo2_1998__Q04]]
+[[Quesiti/src_bmo2_1998#q04|src_bmo2_1998__Q04]]

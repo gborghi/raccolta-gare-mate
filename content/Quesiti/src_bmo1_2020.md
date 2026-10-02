@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Indicare che ci sono almeno tre numeri primi $p$ inferiori a 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Indicare inoltre che esiste un solo numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti numeri primi.
 
-[[src_bmo1_2020__Q01]]
+[[Quesiti/src_bmo1_2020#q01|src_bmo1_2020__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: BMO Round 1
 
 > Una sequenza di integri $a_1, a_2, a_3, \ldots$ soddisfa la relazione: $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$ per tutti gli integri positivi $n$. Quali sono i valori possibili di $a_1$?
 
-[[src_bmo1_2020__Q02]]
+[[Quesiti/src_bmo1_2020#q02|src_bmo1_2020__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 1
 > 
 > Prova che $AC$ è perpendicolare a $BD$.
 
-[[src_bmo1_2020__Q03]]
+[[Quesiti/src_bmo1_2020#q03|src_bmo1_2020__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: BMO Round 1
 > 
 > (b) Quali sono i numeri sui biglietti che i pinguini tengono proprio davanti e proprio dietro al pinguino che detiene il biglietto 33?
 
-[[src_bmo1_2020__Q04]]
+[[Quesiti/src_bmo1_2020#q04|src_bmo1_2020__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: BMO Round 1
 
 > Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte a loro. Un sistema si chiama $\textit{perfect}$ se vi è una sequenza di movimenti che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
 
-[[src_bmo1_2020__Q05]]
+[[Quesiti/src_bmo1_2020#q05|src_bmo1_2020__Q05]]
 
 
 
@@ -187,4 +187,4 @@ level: BMO Round 1
 > 
 > Trova tutte le buone funzioni.
 
-[[src_bmo1_2020__Q06]]
+[[Quesiti/src_bmo1_2020#q06|src_bmo1_2020__Q06]]

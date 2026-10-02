@@ -39,7 +39,7 @@ level: BMO Round 1
 > 
 > b) Trova, con prova, tutte le soluzioni integrali di $$35a^4 + 46a^2b^2 + 13b^4 = 9.$$
 
-[[src_bmo_1986-87_round1__Q01]]
+[[Quesiti/src_bmo_1986-87_round1#q01|src_bmo_1986-87_round1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 1
 
 > In un triangolo $ABC$, $\angle BAC = 100^\circ$ e $AB = AC$. Un punto $D$ è scelto sul lato $AC$ in modo che $\angle ABD = \angle CBD$. Prove che $AD + DB = BC$.
 
-[[src_bmo_1986-87_round1__Q02]]
+[[Quesiti/src_bmo_1986-87_round1#q02|src_bmo_1986-87_round1__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 1
 > 
 > Qui $\dbinom{2r}{r}$ indica un coefficiente binomio.
 
-[[src_bmo_1986-87_round1__Q03]]
+[[Quesiti/src_bmo_1986-87_round1#q03|src_bmo_1986-87_round1__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: BMO Round 1
 
 > Che $P(x)$ sia qualsiasi polinomio con coefficienti interi tali che $$P(21) = 17, \quad P(32) = -247, \quad P(37) = 33.$$ dimostri che se $P(N) = N + 51$ per un certo numero intero $N$, allora $N = 26$.
 
-[[src_bmo_1986-87_round1__Q04]]
+[[Quesiti/src_bmo_1986-87_round1#q04|src_bmo_1986-87_round1__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: BMO Round 1
 
 > Una linea parallela al lato $BC$ di un triangolo acuto $ABC$ taglia il lato $AB$ a $F$ e il lato $AC$ a $E$. Prova che i cerchi di $BE$ e $CF$ come diametri si intersecano sull'altitudine del triangolo tracciato da $A$ perpendicolare a $BC$.
 
-[[src_bmo_1986-87_round1__Q05]]
+[[Quesiti/src_bmo_1986-87_round1#q05|src_bmo_1986-87_round1__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: BMO Round 1
 > Trova, con prova, il valore massimo di $$\frac{xyz}{(1+x)(x+y)(y+z)(z+16)}$$ per i numeri reali positivi $x$, $y$, $z$.
 
 **Risposta:** $\dfrac{1}{256}$
-[[src_bmo_1986-87_round1__Q06]]
+[[Quesiti/src_bmo_1986-87_round1#q06|src_bmo_1986-87_round1__Q06]]
 
 
 
@@ -213,4 +213,4 @@ level: BMO Round 1
 
 > Prova che se $n$ e $k$ sono interi positivi allora esiste un intero positivo $x$ tale che $\tfrac{1}{2}x(x+1) - k$ sia divisibile da $2^n$.
 
-[[src_bmo_1986-87_round1__Q07]]
+[[Quesiti/src_bmo_1986-87_round1#q07|src_bmo_1986-87_round1__Q07]]

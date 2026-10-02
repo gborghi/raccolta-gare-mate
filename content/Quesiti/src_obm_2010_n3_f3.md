@@ -35,7 +35,7 @@ level: OBM Nível 3
 
 > Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo tale che $$f(a+b)=f(ab)$$ per tutte le $a,b$ irrazionali.
 
-[[src_obm_2010_n3_f3__Q01]]
+[[Quesiti/src_obm_2010_n3_f3#q01|src_obm_2010_n3_f3__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: OBM Nível 3
 
 > Lasciate che $P(x)$ sia un polinomio con coefficienti reali. Prove che esistono integri positivi $n$ e $k$ in modo tale che $k$ abbia numeri $n$ e più di $P(n)$ divisori positivi.
 
-[[src_obm_2010_n3_f3__Q02]]
+[[Quesiti/src_obm_2010_n3_f3#q02|src_obm_2010_n3_f3__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: OBM Nível 3
 > 
 > *Nota: * "La più grande ombra di una figura nella luce solare diretta aerea" è intesa come la più grande area possibile della proiezione ortogonale della figura su un piano.
 
-[[src_obm_2010_n3_f3__Q03]]
+[[Quesiti/src_obm_2010_n3_f3#q03|src_obm_2010_n3_f3__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: OBM Nível 3
 
 > Che $ABCD$ sia un quadrilaterale convesso, e che $M$ e $N$ siano rispettivamente i punti medi dei lati $CD$ e $AD$. La linea perpendicolare a $AB$ che attraversa $M$ e la linea perpendicolare a $BC$ che attraversa $N$ si incontrano in un punto $P$. Dimostra che $P$ si trova sulla diagonale $BD$ se e solo se le diagonali $AC$ e $BD$ sono perpendicolari.
 
-[[src_obm_2010_n3_f3__Q04]]
+[[Quesiti/src_obm_2010_n3_f3#q04|src_obm_2010_n3_f3__Q04]]
 
 
 
@@ -147,7 +147,7 @@ level: OBM Nível 3
 
 > Determinare tutti i valori di $n$ per i quali esiste un insieme $S$ di punti $n$, senza tre colineari, che hanno la seguente proprietà: è possibile colorare tutti i punti di $S$ in modo che ogni angolo determinato da tre punti di $S$ , sia che siano tutti e tre dello stesso colore o di tre diversi colori , non sia obtusoso. Il numero di colori disponibili è illimitato.
 
-[[src_obm_2010_n3_f3__Q05]]
+[[Quesiti/src_obm_2010_n3_f3#q05|src_obm_2010_n3_f3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: OBM Nível 3
 
 > Trova tutte le coppie $(a,b)$ di integri positivi tali che $$3^{a}=2b^{2}+1.$$
 
-[[src_obm_2010_n3_f3__Q06]]
+[[Quesiti/src_obm_2010_n3_f3#q06|src_obm_2010_n3_f3__Q06]]

@@ -41,7 +41,7 @@ level: kangourou
 > Consider the equation 1 + 1 1  2 = 100. Which of the following signs or numbers do you need to replace with the symbol  to make it true? A) + B) – C) x D) 0 E) 1
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q01]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q01|src_kangourou_2008_ecolier_marzo__Q01]]
 
 
 
@@ -78,7 +78,7 @@ level: kangourou
 > How many stars are in the figure? A) 100 B) 90 C) 95 D) 85 E) 105
 
 **Answer:** C
-[[src_kangourou_2008_ecolier_marzo__Q02]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q02|src_kangourou_2008_ecolier_marzo__Q02]]
 
 
 
@@ -116,7 +116,7 @@ What a flower the mother receives
 > Miriam brings her mother, grandmother, aunt, and two sisters a flower for each. Do you know that • the flowers for the sisters and the aunt are the same color; • the grandmother does not receive a rose. What flower does the mother receive, if Miriam's gift is the one listed below? A) A yellow tulip. B) A red rose. C) A red carnation. D) A yellow rose. E) A yellow carnation.
 
 **Answer:** B
-[[src_kangourou_2008_ecolier_marzo__Q03]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q03|src_kangourou_2008_ecolier_marzo__Q03]]
 
 
 
@@ -233,7 +233,7 @@ What a flower the mother receives
 > I'm going to pay. I'm going to pay. 6 Kang 2008 Kang 2008 in smaller squares, in the first figure there are 4 squares, in the second 7, in the third 10. In this way, how many squares will there be in the sixth figure (always excluding squares containing others)? A) 16 B) 17 C) 18 D) 19 E) 20
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q04]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q04|src_kangourou_2008_ecolier_marzo__Q04]]
 
 
 
@@ -270,7 +270,7 @@ What a flower the mother receives
 > Lucia's digital clock is flawed: sometimes it shows the digit 8 instead of the digit 0, and sometimes it shows the digit 0 instead of the digit 8. At the beginning of a phone call, Lucia looked at her watch and read 20:08. How many different times could that phone call have started? A) 1 B) 2 C) 3 D) 4 E) 8
 
 **Answer:** B
-[[src_kangourou_2008_ecolier_marzo__Q05]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q05|src_kangourou_2008_ecolier_marzo__Q05]]
 
 
 
@@ -326,7 +326,7 @@ What a flower the mother receives
 > In the figure you see a sheet of paper marked with a dot. If you draw on the sheet four lines, all of which are different from each other, but all of which pass through that point, how many parts does the sheet divide? A) 4                B) 6 C) 5 D) 8 E) 12
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q06]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q06|src_kangourou_2008_ecolier_marzo__Q06]]
 
 
 
@@ -359,7 +359,7 @@ Who is the tallest of all
 > Aldo is taller than Bruno, but lower than Enrico. Darius is taller than Charles, but lower than Aldo. Who's the tallest of them all? (A) Aldo B) Bruno C) Charles D) Darius E) Henry
 
 **Answer:** E
-[[src_kangourou_2008_ecolier_marzo__Q07]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q07|src_kangourou_2008_ecolier_marzo__Q07]]
 
 
 
@@ -395,7 +395,7 @@ Who can build a full cube
 > Andrea has eight cubes, Bernardo has 12, Caesar has 16, Diana has 20. Every boy's cubes are all the same. Of these guys, who can build a big full cube using all its cubes? A) Just Andrew. B) Only Caesar. C) Both Diana and Bernardo. D) Both Andrea and Diana. E) None of the four. The questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** A
-[[src_kangourou_2008_ecolier_marzo__Q08]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q08|src_kangourou_2008_ecolier_marzo__Q08]]
 
 
 
@@ -438,7 +438,7 @@ Who can build a full cube
 > I'm going to pay. I'm going to pay. 7 Kang 2008 Kang 2008
 
 **Answer:** A
-[[src_kangourou_2008_ecolier_marzo__Q09]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q09|src_kangourou_2008_ecolier_marzo__Q09]]
 
 
 
@@ -474,7 +474,7 @@ Who can build a full cube
 > On a CD, some pieces of music are recorded: the first takes 6 minutes and 25 seconds, the second 12 minutes and 25 seconds, the third 10 minutes and 13 seconds. Each piece is separated from the next by an interval of 5 seconds. Listening to the CD, how much time passes between the beginning of the first piece and the end of the third? A) 28 minutes and 3 seconds B) 28 minutes and 18 seconds C) 29 minutes and 13 seconds D) 29 minutes and 3 seconds E) 29 minutes and 18 seconds
 
 **Answer:** C
-[[src_kangourou_2008_ecolier_marzo__Q10]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q10|src_kangourou_2008_ecolier_marzo__Q10]]
 
 
 
@@ -507,7 +507,7 @@ Who can build a full cube
 > The construction you see on the right is done using 5 equal cubes. You can move only one, put it in the position you want. Which of the underlying constructions (seen from different angles) cannot be realized ?
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q11]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q11|src_kangourou_2008_ecolier_marzo__Q11]]
 
 
 
@@ -580,7 +580,7 @@ Who can build a full cube
 > Joan throws two arrows at the target, and she's sure to hit him. The resulting score is the sum of the scores achieved with the individual arrows: for example, in the figure we see a situation in which the resulting score is 5. How many different scores among them can Giovanna get (5 included)? A) 4 B) 6 C) 8 D) 9 E) 10
 
 **Answer:** B
-[[src_kangourou_2008_ecolier_marzo__Q12]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q12|src_kangourou_2008_ecolier_marzo__Q12]]
 
 
 
@@ -615,7 +615,7 @@ Who can build a full cube
 > How many different 4-digit numbers can you write if you want every digit (except the unit number) to be double the one immediately to your right? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** B
-[[src_kangourou_2008_ecolier_marzo__Q13]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q13|src_kangourou_2008_ecolier_marzo__Q13]]
 
 
 
@@ -666,7 +666,7 @@ Who can build a full cube
 > You have a number of bricks that are 1cm x 2cm x 4cm. You want to put as many of them as possible in a cubic box whose dimensions are 4 cm x 4 cm x 4 cm, so that the box can be closed by a lid. How many bricks can you put in the box at most? A) 6 B) 7 C) 8 D) 9 E) 10 6 3 2 A) B) C) D) E) Text_08.qxp
 
 **Answer:** C
-[[src_kangourou_2008_ecolier_marzo__Q14]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q14|src_kangourou_2008_ecolier_marzo__Q14]]
 
 
 
@@ -735,7 +735,7 @@ Who can build a full cube
 > In the figure you can see the plant of a square garden, divided into a swimming pool (P), a rooftop (A), a play area (G) and a greenhouse (S). The roof and the play area are both square. The perimeter of the roof measures 12 metres, the perimeter of the play area 20 metres. What is the perimeter of the pool in meters? A) 10 B) 12 C) 14 D) 16 E) 18
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q15]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q15|src_kangourou_2008_ecolier_marzo__Q15]]
 
 
 
@@ -770,7 +770,7 @@ Who can build a full cube
 > On the fast-moving planet, a year lasts three months, a month lasts 10 days, and a day lasts as long as a day on planet Earth. Joan on Earth has 360 days. How old would she be on "Friday"? A) 4 B) 6 C) 10 D) 12 E) Another number. The questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q16]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q16|src_kangourou_2008_ecolier_marzo__Q16]]
 
 
 
@@ -805,7 +805,7 @@ Who can build a full cube
 > A kangaroo gets 5 pounds in winter and 4 pounds in summer. Her weight is monitored in spring and autumn. In the spring of 2008, the kangaroo weighed 100 pounds. How many pounds did he weigh in the fall of 2004? A) 92 B) 93 C) 95 D) 96 E) 98
 
 **Answer:** A
-[[src_kangourou_2008_ecolier_marzo__Q17]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q17|src_kangourou_2008_ecolier_marzo__Q17]]
 
 
 
@@ -840,7 +840,7 @@ Who can build a full cube
 > William has as many sisters as brothers. For his sister Anna, the number of brothers is twice that of sisters. How many children are there in that family? A) 3 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** E
-[[src_kangourou_2008_ecolier_marzo__Q18]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q18|src_kangourou_2008_ecolier_marzo__Q18]]
 
 
 
@@ -874,7 +874,7 @@ Who can build a full cube
 > A pear, an apple, and a plum are on the plate of a scale. If we remove the pear, the balance is 230 grams; if we remove the apple, the balance is 200 grams; if we remove the plum, the balance is 290 grams. How many grams weigh all three fruits? A) 200 B) 250 C) 300 D) 360 E) 420
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q19]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q19|src_kangourou_2008_ecolier_marzo__Q19]]
 
 
 
@@ -929,7 +929,7 @@ Who can build a full cube
 > I'm going to pay. I'm going to pay. 9 Kang 2008 Kang 2008 A) Square B) Trapezoid C) Triangle D) Pentagon E) All the shapes listed are possible
 
 **Answer:** E
-[[src_kangourou_2008_ecolier_marzo__Q20]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q20|src_kangourou_2008_ecolier_marzo__Q20]]
 
 
 
@@ -963,7 +963,7 @@ Who can build a full cube
 > How many two- or three-digit natural integers are greater than the sum of their digits? A) 1 B) 100 C) 989 D) 990 E) 999
 
 **Answer:** D
-[[src_kangourou_2008_ecolier_marzo__Q21]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q21|src_kangourou_2008_ecolier_marzo__Q21]]
 
 
 
@@ -999,7 +999,7 @@ Who can build a full cube
 > If you read the date 21.02 (February 21) from right to left, you get 20.12 and in this case it is still a possible date (December 20). However, the date 10.09 (10 September) does not have this property (there is no date 90 January). How many dates in a year do they have this property (i.e. are like February 21st)? A) 30 B) 18 C) 36 D) 35 E) Depends on the year
 
 **Answer:** 34
-[[src_kangourou_2008_ecolier_marzo__Q22]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q22|src_kangourou_2008_ecolier_marzo__Q22]]
 
 
 
@@ -1035,7 +1035,7 @@ Who can build a full cube
 > In a square, 2008 people gathered. None of them are over 50. What is the largest number for which the following is true: Are we sure that there are at least that number of people in the square who are the same age? A) 39 B) 40 C) 41 D) 42 E) None of the above.
 
 **Answer:** B
-[[src_kangourou_2008_ecolier_marzo__Q23]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q23|src_kangourou_2008_ecolier_marzo__Q23]]
 
 
 
@@ -1082,4 +1082,4 @@ Who can build a full cube
 > 1 Kangourou of Mathematics 2008 Category Écolier For fourth or fifth graders of primary school
 
 **Answer:** B
-[[src_kangourou_2008_ecolier_marzo__Q24]]
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q24|src_kangourou_2008_ecolier_marzo__Q24]]

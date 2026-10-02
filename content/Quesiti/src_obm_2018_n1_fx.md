@@ -23,7 +23,7 @@ level: OBM Nível 1
 > 
 > b) Consider the cases in which the side of the inner square is a whole number of centimeters. How many such measurements are there?
 
-![[src_obm_2018_n1_fx__Q01.png]]
+![[src_obm_2018_n1_fx__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -43,9 +43,9 @@ level: OBM Nível 1
 > 
 > b) Considerare i casi in cui il lato del quadrato interno è un numero intero di centimetri. Quante misure di questo tipo ci sono?
 
-![[src_obm_2018_n1_fx__Q01.png]]
+![[src_obm_2018_n1_fx__q01.png]]
 
-[[src_obm_2018_n1_fx__Q01]]
+[[Quesiti/src_obm_2018_n1_fx#q01|src_obm_2018_n1_fx__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: OBM Nível 1
 > 
 > c) Presenta due sequenze il cui termine $2018$ è uguale a 1.
 
-[[src_obm_2018_n1_fx__Q02]]
+[[Quesiti/src_obm_2018_n1_fx#q02|src_obm_2018_n1_fx__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: OBM Nível 1
 > 
 > b) What is the minimum number of links Pablo should cut to make the daily payment?
 
-![[src_obm_2018_n1_fx__Q03.png]]
+![[src_obm_2018_n1_fx__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
@@ -137,9 +137,9 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero minimo di collegamenti che Pablo deve tagliare per effettuare il pagamento giornaliero?
 
-![[src_obm_2018_n1_fx__Q03.png]]
+![[src_obm_2018_n1_fx__q03.png]]
 
-[[src_obm_2018_n1_fx__Q03]]
+[[Quesiti/src_obm_2018_n1_fx#q03|src_obm_2018_n1_fx__Q03]]
 
 
 
@@ -182,7 +182,7 @@ level: OBM Nível 1
 > 
 > In quanti modi distinti la palla può tornare a Ana dopo ciascuno dei seguenti lanci totali?
 
-[[src_obm_2018_n1_fx__Q04]]
+[[Quesiti/src_obm_2018_n1_fx#q04|src_obm_2018_n1_fx__Q04]]
 
 
 
@@ -202,7 +202,7 @@ level: OBM Nível 1
 > 
 > c) In an $n \times n \times n$ cube, which number appears most often in the numbering of the unit cubes? (Your answer may depend on $n$.)
 
-![[src_obm_2018_n1_fx__Q05.png]]
+![[src_obm_2018_n1_fx__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
@@ -224,6 +224,6 @@ level: OBM Nível 1
 > 
 > c) In un cubo $n \times n \times n$, quale numero appare più spesso nella numerazione dei cubetti unitari? (La risposta può dipendere da $n$.)
 
-![[src_obm_2018_n1_fx__Q05.png]]
+![[src_obm_2018_n1_fx__q05.png]]
 
-[[src_obm_2018_n1_fx__Q05]]
+[[Quesiti/src_obm_2018_n1_fx#q05|src_obm_2018_n1_fx__Q05]]

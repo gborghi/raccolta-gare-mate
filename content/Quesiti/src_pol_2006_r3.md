@@ -38,7 +38,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 
 > Risolvere in numeri reali $a, b, c, d, e$ il sistema di equazioni: $$a^2 = b^3 + c^3,$$ $$b^2 = c^3 + d^3,$$ $$c^2 = d^3 + e^3,$$ $$d^2 = e^3 + a^3,$$ $$e^2 = a^3 + b^3.$$
 
-[[src_pol_2006_r3__Q01]]
+[[Quesiti/src_pol_2006_r3#q01|src_pol_2006_r3__Q01]]
 
 
 
@@ -65,7 +65,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 
 > Trova tutti gli integri positivi $k$ per i quali il numero $3^k + 5^k$ è una potenza di un intero con l'esponente maggiore di 1.
 
-[[src_pol_2006_r3__Q02]]
+[[Quesiti/src_pol_2006_r3#q02|src_pol_2006_r3__Q02]]
 
 
 
@@ -92,7 +92,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 
 > Si dà un esagono convexo $ABCDEF$ con $AC = DF$, $CE = FB$ e $EA = BD$. Prove che le linee che uniscono i punti medi dei lati opposti di questo esagono si incontrano in un punto.
 
-[[src_pol_2006_r3__Q03]]
+[[Quesiti/src_pol_2006_r3#q03|src_pol_2006_r3__Q03]]
 
 
 
@@ -119,7 +119,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 
 > La seguente operazione viene eseguita su un triplo di numeri. Due dei numeri vengono scelti e sostituiti dalla loro somma e dal loro prodotto, mentre il terzo numero resta invariato. Decidi se, partendo dal triplo $(3, 4, 5)$ e eseguendo finitamente molte di queste operazioni, possiamo ottenere un altro triplo di numeri che sono le lunghezze laterali di un triangolo rettangolo.
 
-[[src_pol_2006_r3__Q04]]
+[[Quesiti/src_pol_2006_r3#q04|src_pol_2006_r3__Q04]]
 
 
 
@@ -146,7 +146,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 
 > La sfera incentrata di un tetraedro $ABCD$ con $AB = CD$ tocca rispettivamente le facce $ABC$ e $ABD$ a $K$ e $L$. Prova che se $K$ e $L$ sono i centroidi delle facce corrispondenti, allora $ABCD$ è un tetraedro regolare.
 
-[[src_pol_2006_r3__Q05]]
+[[Quesiti/src_pol_2006_r3#q05|src_pol_2006_r3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 
 > Trovare tutte le coppie di integri $(a, b)$ per le quali esiste un polinomio $P(x)$ con coefficienti interi in modo tale che il prodotto $(x^2 + ax + b)P(x)$ sia un polinomio della forma $$x^n + c_{n-1}x^{n-1} + \cdots + c_1 x + c_0,$$ dove ognuno di $c_0, \ldots, c_{n-1}$ è uguale a $1$ o $-1$.
 
-[[src_pol_2006_r3__Q06]]
+[[Quesiti/src_pol_2006_r3#q06|src_pol_2006_r3__Q06]]

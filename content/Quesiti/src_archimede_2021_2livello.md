@@ -48,7 +48,7 @@ level: 2 livello
 > - **(E)** None of the above.
 
 **Answer:** C
-[[src_archimede_2021_2livello__Q01]]
+[[Quesiti/src_archimede_2021_2livello#q01|src_archimede_2021_2livello__Q01]]
 
 
 
@@ -93,7 +93,7 @@ level: 2 livello
 > - **(E)** √ 21
 
 **Answer:** B
-[[src_archimede_2021_2livello__Q02]]
+[[Quesiti/src_archimede_2021_2livello#q02|src_archimede_2021_2livello__Q02]]
 
 
 
@@ -133,7 +133,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** A number greater than 100.
 
 **Answer:** D
-[[src_archimede_2021_2livello__Q03]]
+[[Quesiti/src_archimede_2021_2livello#q03|src_archimede_2021_2livello__Q03]]
 
 
 
@@ -182,7 +182,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 2025
 
 **Answer:** A
-[[src_archimede_2021_2livello__Q04]]
+[[Quesiti/src_archimede_2021_2livello#q04|src_archimede_2021_2livello__Q04]]
 
 
 
@@ -224,7 +224,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 6
 
 **Answer:** A
-[[src_archimede_2021_2livello__Q05]]
+[[Quesiti/src_archimede_2021_2livello#q05|src_archimede_2021_2livello__Q05]]
 
 
 
@@ -269,7 +269,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 2022
 
 **Answer:** B
-[[src_archimede_2021_2livello__Q06]]
+[[Quesiti/src_archimede_2021_2livello#q06|src_archimede_2021_2livello__Q06]]
 
 
 
@@ -316,7 +316,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** Such a configuration cannot be achieved.
 
 **Answer:** B
-[[src_archimede_2021_2livello__Q07]]
+[[Quesiti/src_archimede_2021_2livello#q07|src_archimede_2021_2livello__Q07]]
 
 
 
@@ -362,7 +362,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 28
 
 **Answer:** C
-[[src_archimede_2021_2livello__Q08]]
+[[Quesiti/src_archimede_2021_2livello#q08|src_archimede_2021_2livello__Q08]]
 
 
 
@@ -406,7 +406,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 4043
 
 **Answer:** E
-[[src_archimede_2021_2livello__Q09]]
+[[Quesiti/src_archimede_2021_2livello#q09|src_archimede_2021_2livello__Q09]]
 
 
 
@@ -448,7 +448,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 86
 
 **Answer:** E
-[[src_archimede_2021_2livello__Q10]]
+[[Quesiti/src_archimede_2021_2livello#q10|src_archimede_2021_2livello__Q10]]
 
 
 
@@ -500,7 +500,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** None of the above.
 
 **Answer:** A
-[[src_archimede_2021_2livello__Q11]]
+[[Quesiti/src_archimede_2021_2livello#q11|src_archimede_2021_2livello__Q11]]
 
 
 
@@ -543,7 +543,7 @@ This is the sum of the amounts reported in the report.
 > - **(E)** 4 Problems with numerical answer  5 points
 
 **Answer:** C
-[[src_archimede_2021_2livello__Q12]]
+[[Quesiti/src_archimede_2021_2livello#q12|src_archimede_2021_2livello__Q12]]
 
 
 
@@ -577,7 +577,7 @@ This is the sum of the amounts reported in the report.
 > The number 144 is very particular in that it enjoys the specular property: not only is it true that 144 = 122 (i.e. it is a perfect square), but it is also true that 441 = 212, that is, by inverting the order of its digits you get precisely the square of the number obtained by inverting the digits of its square root. The number 100 also has the property of speculation, as does the number 1, whereas the number 49 does not. How many positive integers with a maximum of three digits have the speculative property?
 
 **Answer:** 12
-[[src_archimede_2021_2livello__Q13]]
+[[Quesiti/src_archimede_2021_2livello#q13|src_archimede_2021_2livello__Q13]]
 
 
 
@@ -609,7 +609,7 @@ This is the sum of the amounts reported in the report.
 > A slide moves on the plane and from the coordinate point (x,y) it can jump at its choice either over (x + y,y) or over (x,x + y). Started from a coordinate point (n.9) with positive integer n, but does not recall the value of n. He just knows that after a number of moves it came in (2021, 2050). What are the possible values of n?
 
 **Answer:** 3
-[[src_archimede_2021_2livello__Q14]]
+[[Quesiti/src_archimede_2021_2livello#q14|src_archimede_2021_2livello__Q14]]
 
 
 
@@ -647,7 +647,7 @@ This is the sum of the amounts reported in the report.
 
 > DEMOSTRATIVE EXERCISE Whether ABCD is a rectangle and whether E is an arbitrary point other than C on the DC side. Both H the projection of E on the AC diagonal and K the projection of C on the AE semicircle. (a) Demonstrate that K lies on the circumference circumscribed at ABCD and that the quadrilateral CKEH is cyclic, i.e. inscrutable in a circumference. (b) Show that \ CKB + \ CKH = 90°. (c) Demonstrate that K, H, B are aligned if and only if ABCD is a square.
 
-[[src_archimede_2021_2livello__Q15]]
+[[Quesiti/src_archimede_2021_2livello#q15|src_archimede_2021_2livello__Q15]]
 
 
 
@@ -690,7 +690,7 @@ This is the sum of the amounts reported in the report.
 
 > DIMOSTRATIVE EXERCISE Ambra constructs a sequence of numbers, starting from a positive real number x0, as follows: given the first term xn, the next term is xn+1 = n 1 − 1 xn or , where {α} represents the fractional part of α, that is, the difference between α and the maximum integer less than or equal to α. As soon as Ambra gets a term equal to 0, it interrupts the sequence. (a) Demonstrate that if the starting number x0 is of the form p q, where p and q are positive integers, sooner or later the sequence stops. (b) Show that if the sequence is interrupted, then the starting point x0 was of the form p q, where p and q are positive integers.
 
-[[src_archimede_2021_2livello__Q16]]
+[[Quesiti/src_archimede_2021_2livello#q16|src_archimede_2021_2livello__Q16]]
 
 
 
@@ -738,4 +738,4 @@ This is the sum of the amounts reported in the report.
 
 > It 's a demonstration exercise . . . A treasure map consists of a map of an island (infinitely extended in all directions) to which a square grid is overlaid. The grid boxes are numbered in a spiral as shown in the figure. The pirates have hidden their treasure by dividing it into forcibles who have buried it in some of the boxes, those numbered with the n containing the directions to reach them from box 1. By this phrase, pirates mean the following: by writing the number n in base ten, we call it a1, . . . , with its digits, read from left to right; in box n, there is a forcer with part of the treasure if (and only if) it can be reached starting from box 1 and taking steps in a certain direction (North, South, West or East), a2 steps in a certain direction (possibly the same as before). . . And finally, we move in one of the four directions. For example, in box 12 there's a forcer, because starting from 1 and taking 1 step north and 2 steps east you get right into 12. In box 1, on the other hand, there's no forcing, because in any direction you take a step from 1, you end up in a box other than 1. Demonstrate that there are only a finite number of boxes in which a forcer is buried.
 
-[[src_archimede_2021_2livello__Q17]]
+[[Quesiti/src_archimede_2021_2livello#q17|src_archimede_2021_2livello__Q17]]

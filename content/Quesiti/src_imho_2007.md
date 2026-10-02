@@ -39,7 +39,7 @@ level: IMO
 
 > Real numbers $a_1, a_2, \ldots, a_n$ are given. For each $i$ ($1 \le i \le n$) define $$d_i = \max\{a_j : 1 \le j \le i\} - \min\{a_j : 1 \le j \le i\}$$ and let $$d = \max\{d_i : 1 \le i \le n\}.$$ (a) Prove that, for any real numbers $x_1 \le x_2 \le \cdots \le x_n$, $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$ (b) Show that there are real numbers $x_1 \le x_2 \le \cdots \le x_n$ such that equality holds in $(*)$.
 
-[[src_imho_2007__Q01]]
+[[Quesiti/src_imho_2007#q01|src_imho_2007__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: IMO
 
 > Consider five points $A$, $B$, $C$, $D$ and $E$ such that $ABCD$ is a parallelogram and $BCED$ is a cyclic quadrilateral. Suppose that a line $\ell$ passing through $A$ intersects the interior of the segment $DC$ at $F$ and intersects line $BC$ at $G$. Suppose also that $EF = EG = EC$. Prove that $\ell$ is the bisector of angle $DAB$.
 
-[[src_imho_2007__Q02]]
+[[Quesiti/src_imho_2007#q02|src_imho_2007__Q02]]
 
 
 
@@ -97,7 +97,7 @@ Click sizes in two-room partition of friendship graph
 > 
 > Given that, in this competition, the largest size of a clique is even, prove that the competitors can be arranged in two rooms such that the largest size of a clique contained in one room is the same as the largest size of a clique contained in the other room.
 
-[[src_imho_2007__Q03]]
+[[Quesiti/src_imho_2007#q03|src_imho_2007__Q03]]
 
 
 
@@ -124,7 +124,7 @@ Click sizes in two-room partition of friendship graph
 
 > In triangle $ABC$ the bisector of angle $BCA$ intersects the circumcircle again at $R$, the perpendicular bisector of $BC$ at $P$, and the perpendicular bisector of $AC$ at $Q$. The midpoint of $BC$ is $K$ and the midpoint of $AC$ is $L$. Prove that the $RPK$ and $RQL$ triangles have the same area.
 
-[[src_imho_2007__Q04]]
+[[Quesiti/src_imho_2007#q04|src_imho_2007__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Click sizes in two-room partition of friendship graph
 
 > Let $a$ and $b$ be positive integers. Show that if $4ab - 1$ divides $(4a^2 - 1)^2$, then $a = b$.
 
-[[src_imho_2007__Q05]]
+[[Quesiti/src_imho_2007#q05|src_imho_2007__Q05]]
 
 
 
@@ -180,4 +180,4 @@ Click sizes in two-room partition of friendship graph
 
 > Let $n$ be a positive integer. Consider $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ as a set of $(n+1)^3 - 1$ points in three-dimensional space. Determine the smallest possible number of planes, the union of which contains $S$ but does not include $(0, 0, 0)$.
 
-[[src_imho_2007__Q06]]
+[[Quesiti/src_imho_2007#q06|src_imho_2007__Q06]]

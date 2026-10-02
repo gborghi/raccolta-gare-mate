@@ -33,7 +33,7 @@ level: BMO Round 2
 
 > Circoli di raggio $r_1$, $r_2$ e $r_3$ si toccano a livello esterno e toccano una linea tangente comune rispettivamente nei punti $A$, $B$ e $C$, dove $B$ si trova tra $A$ e $C$. Prove che $16(r_1 + r_2 + r_3) \ge 9(AB + BC + CA)$.
 
-[[src_bmo2_2016__Q01]]
+[[Quesiti/src_bmo2_2016#q01|src_bmo2_2016__Q01]]
 
 
 
@@ -60,7 +60,7 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 
 > Alison ha i token di fortuna $N$, etichettati $1$ a $N$. Lei pensa che siano buone, ma rifiuta di condividerle. Benjamin può menzionare una squadra di tre segni per lei; lei sceglierà quindi di dirgli quale pensa sia il segno più debole dei tre, o quale pensa sia il segno più forte dei tre. Benjamin usa queste informazioni quante volte vuole. Determinare il più grande $N$ in modo che Benjamin possa garantire di essere in grado di trovare una sequenza $T_1, T_2, \ldots, T_N$ di token con la proprietà che sa che Alison pensa che $T_i$ è migliore di $T_{i+1}$ per ogni $1 \le i < N$.
 
-[[src_bmo2_2016__Q02]]
+[[Quesiti/src_bmo2_2016#q02|src_bmo2_2016__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 
 > Che il $ABCD$ sia un quadrilaterale ciclico. Le diagonali $AC$ e $BD$ si incontrano a $Q$, e le $DA$ e $CB$ prodotte si incontrano a $P$. Il punto medio di $AB$ è $E$. Se $AB$ è perpendicolare a $PQ$, dimostrare che $PE$ è perpendicolare a $BC$.
 
-[[src_bmo2_2016__Q03]]
+[[Quesiti/src_bmo2_2016#q03|src_bmo2_2016__Q03]]
 
 
 
@@ -114,4 +114,4 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 
 > Supponiamo che $p$ sia un primo e che $a$ e $b$ siano integri positivi in modo tale che $p^2$ sia la media di $a^2$ e $b^2$. Prova che $2p - a - b$ è un quadrato perfetto o due volte un quadrato perfetto.
 
-[[src_bmo2_2016__Q04]]
+[[Quesiti/src_bmo2_2016#q04|src_bmo2_2016__Q04]]

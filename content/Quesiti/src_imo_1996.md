@@ -41,7 +41,7 @@ level: IMO
 
 > We are given a positive integer r and a rectangular board ABCD with dimensions =AB = 20, The rectangle is divided into a grid of 20 × 12 unit squares. The following moves are allowed on the board: one can move from one square to another only if the distance between the centers of the two squares is √r. The task is to find a sequence of moves leading from the square with A as a vertex to the square with B as a vertex. (a) Show that the task cannot be done if r is divisible by 2 or 3. (b) Prove that the task is possible when r = 73. (c) Can the task be done when r = 97?
 
-[[src_imo_1996__Q01]]
+[[Quesiti/src_imo_1996#q01|src_imo_1996__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: IMO
 
 > Let P be a point inside triangle ABC such that  APB − ACB =  APC − ABC. Let D, E be the incenters of triangles APB, APC, respectively. Show that AP, BD, CE meet at a point.
 
-[[src_imo_1996__Q02]]
+[[Quesiti/src_imo_1996#q02|src_imo_1996__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: IMO
 
 > Let S denotes the set of nonnegative integers. Find all functions f from S to itself such that f(m + f(n)) = f(f(m)) + f(n) ∀m, n ∈S. 37th International Mathematical Olympiad Mumbai, India Day II at 9 am - 1:30 p.m. July 11, 1996
 
-[[src_imo_1996__Q03]]
+[[Quesiti/src_imo_1996#q03|src_imo_1996__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: IMO
 
 > The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What's the smallest possible value that the least of these two squares can take?
 
-[[src_imo_1996__Q04]]
+[[Quesiti/src_imo_1996#q04|src_imo_1996__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: IMO
 
 > If $ABCDEF$ is a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. The radii of the circles surrounding the triangles $FAB$, $BCD$, $DEF$, respectively, and $P$ are the perimeter of the hexagon. Show that $$R_A + R_C + R_E \geq \frac{P}{2}.$$
 
-[[src_imo_1996__Q05]]
+[[Quesiti/src_imo_1996#q05|src_imo_1996__Q05]]
 
 
 
@@ -198,4 +198,4 @@ level: IMO
 > 
 > Demonstrate the existence of $i < j$ indexes with $(i, j) \neq (0, n)$, such as $x_i = x_j$.
 
-[[src_imo_1996__Q06]]
+[[Quesiti/src_imo_1996#q06|src_imo_1996__Q06]]

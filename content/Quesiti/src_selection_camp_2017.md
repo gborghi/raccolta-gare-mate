@@ -43,7 +43,7 @@ level: CAMP Selection Camp
 > 
 > Qui una stringa binaria $n$-cifre è una sequenza di simboli $n$ ognuno uguale a $0$ o $1$. Ad esempio, le stringhe binarie $3$ a cifre sono $000, 001, 010, 011, 100, 101, 110, 111$, dando stringhe $8$ in totale.
 
-[[src_selection_camp_2017__Q01]]
+[[Quesiti/src_selection_camp_2017#q01|src_selection_camp_2017__Q01]]
 
 
 
@@ -74,7 +74,7 @@ level: CAMP Selection Camp
 > 
 > (Qui $UV$ indica la lunghezza del segmento $UV$.)
 
-[[src_selection_camp_2017__Q02]]
+[[Quesiti/src_selection_camp_2017#q02|src_selection_camp_2017__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: CAMP Selection Camp
 > 
 > - $a_1 < a_2 < a_3 < \cdots$; - Per ogni numero intero positivo $n$, $$a_1^k + a_2^k + \cdots + a_n^k = (a_1 + a_2 + \cdots + a_n)^{r_n}.$$
 
-[[src_selection_camp_2017__Q03]]
+[[Quesiti/src_selection_camp_2017#q03|src_selection_camp_2017__Q03]]
 
 
 
@@ -138,7 +138,7 @@ level: CAMP Selection Camp
 > 
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-[[src_selection_camp_2017__Q04]]
+[[Quesiti/src_selection_camp_2017#q04|src_selection_camp_2017__Q04]]
 
 
 
@@ -165,7 +165,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero $\ge 5$ che sia coprimo a $6$. I vertici di un normale $n$-gon sono colorati con $3$ colori in modo tale che per ogni colore il numero di vertici di quel colore sia strano. Prove che si possono scegliere le vertici $3$ del normale $n$-gon formando un triangolo di uguali stelle le cui tre vertici hanno tutti colori diversi.
 
-[[src_selection_camp_2017__Q05]]
+[[Quesiti/src_selection_camp_2017#q05|src_selection_camp_2017__Q05]]
 
 
 
@@ -193,7 +193,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite sui reali assumendo valori reali quali $f(0) \neq 0$ e, per tutti i numeri reali $x, y$, $$f(x+y)^2 = 2f(x)f(y) + \max\{f(x^2) + f(y^2),\, f(x^2 + y^2)\}.$$
 
-[[src_selection_camp_2017__Q06]]
+[[Quesiti/src_selection_camp_2017#q06|src_selection_camp_2017__Q06]]
 
 
 
@@ -220,7 +220,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le coppie di integri positivi $(n, k)$ in modo tale che $n^4 + 10n^2 + 2^k$ sia un quadrato perfetto.
 
-[[src_selection_camp_2017__Q07]]
+[[Quesiti/src_selection_camp_2017#q07|src_selection_camp_2017__Q07]]
 
 
 
@@ -249,7 +249,7 @@ level: CAMP Selection Camp
 
 > Che $a_1, a_2, \ldots$ sia una sequenza di interi positivi che soddisfi, per ogni intero positivo $n$, $$a_n > \frac{a_{n+1} + a_{n+2} + \cdots + a_{2n}}{n + 2016}.$$ Prove che esiste una costante reale positiva $C$ tale che $a_n < C$ per tutti gli interi positivi $n$.
 
-[[src_selection_camp_2017__Q08]]
+[[Quesiti/src_selection_camp_2017#q08|src_selection_camp_2017__Q08]]
 
 
 
@@ -295,7 +295,7 @@ level: CAMP Selection Camp
 > 
 > Prove che esiste un anno e un'isola in modo tale che in quell'anno un traghetto opera tra quell'isola e ogni altra isola.
 
-[[src_selection_camp_2017__Q09]]
+[[Quesiti/src_selection_camp_2017#q09|src_selection_camp_2017__Q09]]
 
 
 
@@ -323,7 +323,7 @@ level: CAMP Selection Camp
 
 > Trovare tutti i numeri interi positivi $n \ge 3$ in modo tale che si verifichi quanto segue: per qualsiasi numero reale $2n$ $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfacente $|a_k| + |b_k| = 1$ per $k = 1, 2, \ldots, n$, si possono scegliere numeri reali $x_1, x_2, \ldots, x_n$ con $|x_k| = 1$ per $k = 1, 2, \ldots, n$ in modo tale che $$\left|\sum_{k=1}^n x_k a_k\right| + \left|\sum_{k=1}^n x_k b_k\right| \le 1.$$
 
-[[src_selection_camp_2017__Q10]]
+[[Quesiti/src_selection_camp_2017#q10|src_selection_camp_2017__Q10]]
 
 
 
@@ -350,7 +350,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che per qualsiasi numero intero positivo $m, n$, si abbia $f(m) + f(n) - mn \neq 0$ e $\dfrac{mf(m) + nf(n)}{f(m) + f(n) - mn}$ è un numero intero.
 
-[[src_selection_camp_2017__Q11]]
+[[Quesiti/src_selection_camp_2017#q11|src_selection_camp_2017__Q11]]
 
 
 
@@ -377,4 +377,4 @@ level: CAMP Selection Camp
 
 > Il $ABCD$ deve essere un quadrilaterale converso con $\angle ABC = \angle ADC < 90^\circ$. I bisettori angolari di $\angle ABC$ e $\angle ADC$ incontrano la linea $AC$ rispettivamente in punti distinti $E$ e $F$ e si incontrano a punto $P$. Let $M$ essere il punto medio del segmento $AC$, e let $\omega$ essere il circoncircolo del triangolo $BPD$. La linea $BM$ incontra di nuovo $\omega$ a un punto $X \neq B$ e la linea $DM$ incontra di nuovo $\omega$ a un punto $Y \neq D$. Se le linee $XE$ e $YF$ si incontrano al punto $Q$, dimostrare che le linee $PQ$ e $AC$ sono perpendicolari.
 
-[[src_selection_camp_2017__Q12]]
+[[Quesiti/src_selection_camp_2017#q12|src_selection_camp_2017__Q12]]

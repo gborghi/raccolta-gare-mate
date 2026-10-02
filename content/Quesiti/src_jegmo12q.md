@@ -35,7 +35,7 @@ level: JEGMO
 
 > Trova tutte le coppie $(p, q)$ di numeri primi con $p \le q$ in modo tale che $$\frac{p^2 - 3q + q^2}{p + q}$$ sia un numero intero.
 
-[[src_jegmo12q__Q01]]
+[[Quesiti/src_jegmo12q#q01|src_jegmo12q__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: JEGMO
 
 > Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Prendi un punto $P$ (diverso da $H$) sul circoncircolo di $\triangle AHB$, e un punto $Q$ (diverso da $H$) sul circoncircolo di $\triangle AHC$, in modo tale che $P$, $H$, $Q$ siano collineari in questo ordine. Indicare che il punto medio del segmento $PQ$ si trova sul circoncircolo di $\triangle ABC$.
 
-[[src_jegmo12q__Q02]]
+[[Quesiti/src_jegmo12q#q02|src_jegmo12q__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: JEGMO
 > 
 > Trova tutti i valori di $n$ per i quali esiste un tale sistema.
 
-[[src_jegmo12q__Q03]]
+[[Quesiti/src_jegmo12q#q03|src_jegmo12q__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: JEGMO
 > 
 > (Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande inferiore o uguale a $r$. Ad esempio, $\lfloor 3.14 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$.)
 
-[[src_jegmo12q__Q04]]
+[[Quesiti/src_jegmo12q#q04|src_jegmo12q__Q04]]
 
 
 
@@ -168,4 +168,4 @@ level: JEGMO
 > 
 > Quando è possibile rendere tutte le cellule nere ripetendo questa operazione finitamente molte volte, trovare il numero minimo di cellule che devono essere inizialmente di colore nero.
 
-[[src_jegmo12q__Q05]]
+[[Quesiti/src_jegmo12q#q05|src_jegmo12q__Q05]]

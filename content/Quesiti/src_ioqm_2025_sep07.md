@@ -34,7 +34,7 @@ level: IOQM
 > Se $60\%$ di un numero $x$ è 40, allora cosa è $x\%$ di 60?
 
 **Risposta:** 40
-[[src_ioqm_2025_sep07__Q01]]
+[[Quesiti/src_ioqm_2025_sep07#q01|src_ioqm_2025_sep07__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: IOQM
 > Trova il numero di interi positivi $n$ inferiori o uguali a 100, divisibili per 3 ma non divisibili per 2.
 
 **Risposta:** 17
-[[src_ioqm_2025_sep07__Q02]]
+[[Quesiti/src_ioqm_2025_sep07#q02|src_ioqm_2025_sep07__Q02]]
 
 
 
@@ -92,7 +92,7 @@ level: IOQM
 > L'area di un rettangolo a lato intero è 20. Qual è il valore minimo possibile del suo perimetro?
 
 **Risposta:** 18
-[[src_ioqm_2025_sep07__Q03]]
+[[Quesiti/src_ioqm_2025_sep07#q03|src_ioqm_2025_sep07__Q03]]
 
 
 
@@ -121,7 +121,7 @@ level: IOQM
 > Quanti triangoli a lato intero hanno il perimetro 23?
 
 **Risposta:** 11
-[[src_ioqm_2025_sep07__Q04]]
+[[Quesiti/src_ioqm_2025_sep07#q04|src_ioqm_2025_sep07__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: IOQM
 > Quanti numeri a 3 cifre $\overline{abc}$ nella base 10 ci sono con $a \neq 0$ e $c = a + b$?
 
 **Risposta:** 45
-[[src_ioqm_2025_sep07__Q05]]
+[[Quesiti/src_ioqm_2025_sep07#q05|src_ioqm_2025_sep07__Q05]]
 
 
 
@@ -177,7 +177,7 @@ level: IOQM
 
 > L'età di una persona (in anni) nel 2025 è un quadrato perfetto. La sua età (in anni) era anche un quadrato perfetto nel 2012. La sua età (in anni) sarà un cubo perfetto $m$ anni dopo il 2025. Determinare il valore più piccolo di $m$.
 
-[[src_ioqm_2025_sep07__Q06]]
+[[Quesiti/src_ioqm_2025_sep07#q06|src_ioqm_2025_sep07__Q06]]
 
 
 
@@ -206,7 +206,7 @@ level: IOQM
 > La somma di due numeri reali è un intero positivo $n$ e la somma dei loro quadrati è $n + 1012$. Trova il valore massimo possibile di $n$.
 
 **Risposta:** 2025
-[[src_ioqm_2025_sep07__Q07]]
+[[Quesiti/src_ioqm_2025_sep07#q07|src_ioqm_2025_sep07__Q07]]
 
 
 
@@ -233,7 +233,7 @@ level: IOQM
 
 > Un quadrilaterale ha quattro vertici $A, B, C, D$. Vogliamo colorare ogni vertice in uno dei quattro colori rosso, blu, verde o giallo, in modo che ogni lato del quadrilaterale e la diagonale $AC$ abbiano punti terminali di diversi colori. In quanti modi possiamo farlo?
 
-[[src_ioqm_2025_sep07__Q08]]
+[[Quesiti/src_ioqm_2025_sep07#q08|src_ioqm_2025_sep07__Q08]]
 
 
 
@@ -262,7 +262,7 @@ level: IOQM
 > Quattro lati e una diagonale di un quadrilaterale hanno lunghezze 10, 20, 28, 50, 75, non necessariamente in quell'ordine. Quale tra loro è l'unica lunghezza possibile della diagonale?
 
 **Risposta:** 28
-[[src_ioqm_2025_sep07__Q09]]
+[[Quesiti/src_ioqm_2025_sep07#q09|src_ioqm_2025_sep07__Q09]]
 
 
 
@@ -289,7 +289,7 @@ level: IOQM
 
 > L'altezza e il raggio di base di un cilindro circolare a destra chiuso sono numeri interi positivi e la sua superficie totale è numericamente pari al suo volume. Se il suo volume è $k\pi$ e $k$ è un intero positivo, quale è il valore più piccolo possibile di $k$?
 
-[[src_ioqm_2025_sep07__Q10]]
+[[Quesiti/src_ioqm_2025_sep07#q10|src_ioqm_2025_sep07__Q10]]
 
 
 
@@ -316,7 +316,7 @@ level: IOQM
 
 > Considera una frazione $\dfrac{a}{b} \neq \dfrac{3}{4}$, dove $a, b$ sono integri positivi con $\gcd(a, b) = 1$ e $b \le 15$. Se questa frazione è scelta più vicina a $\dfrac{3}{4}$ tra tutte queste frazioni, qual è il valore di $a + b$?
 
-[[src_ioqm_2025_sep07__Q11]]
+[[Quesiti/src_ioqm_2025_sep07#q11|src_ioqm_2025_sep07__Q11]]
 
 
 
@@ -343,7 +343,7 @@ level: IOQM
 
 > Considera gli integri positivi a cinque cifre della forma $\overline{abcab}$ divisibili dal numero a due cifre $\overline{ab}$ ma non divisibili per 13. Qual è la somma più grande possibile dei numeri di un tale numero?
 
-[[src_ioqm_2025_sep07__Q12]]
+[[Quesiti/src_ioqm_2025_sep07#q12|src_ioqm_2025_sep07__Q12]]
 
 
 
@@ -370,7 +370,7 @@ level: IOQM
 
 > I tre lati di un quadrilaterale sono $a = 4\sqrt{3}$, $b = 9$ e $c = \sqrt{3}$. I lati $a$ e $b$ contengono un angolo di $30^\circ$, e i lati $b$ e $c$ contengono un angolo di $90^\circ$. Se l'angolo acuto tra le diagonali è $x^\circ$, qual è il valore di $x$?
 
-[[src_ioqm_2025_sep07__Q13]]
+[[Quesiti/src_ioqm_2025_sep07#q13|src_ioqm_2025_sep07__Q13]]
 
 
 
@@ -399,7 +399,7 @@ level: IOQM
 
 > Una funzione $f$ è definita sull'insieme di integri in modo tale che per due integri $m$ e $n$, $$f(mn + 1) = f(m)f(n) - f(n) - m + 2$$ è mantenuta e $f(0) = 1$. Determinare il più grande intero positivo $N$ tale che $\displaystyle\sum_{k=1}^{N} f(k) < 100$.
 
-[[src_ioqm_2025_sep07__Q14]]
+[[Quesiti/src_ioqm_2025_sep07#q14|src_ioqm_2025_sep07__Q14]]
 
 
 
@@ -426,7 +426,7 @@ level: IOQM
 
 > Esistono sei cuponi numerati da 1 a 6 e sei buste, anche numerati da 1 a 6. I primi due coupon sono messi insieme in una sola busta. Allo stesso modo, il terzo e il quarto sono messi insieme in una busta diversa, e gli ultimi due sono messi insieme in un'altra busta diversa. Quanti modi si può fare se non si inserisce un coupon nella busta con lo stesso numero del coupon?
 
-[[src_ioqm_2025_sep07__Q15]]
+[[Quesiti/src_ioqm_2025_sep07#q15|src_ioqm_2025_sep07__Q15]]
 
 
 
@@ -455,7 +455,7 @@ level: IOQM
 
 > Lasciate che $f(x)$ e $g(x)$ siano due polinomi di grado 2 in modo tale che $$\frac{f(-2)}{g(-2)} = \frac{f(3)}{g(3)} = 4.$$ Se $g(5) = 2$, $f(7) = 12$, $g(7) = -6$, qual è il valore di $f(5)$?
 
-[[src_ioqm_2025_sep07__Q16]]
+[[Quesiti/src_ioqm_2025_sep07#q16|src_ioqm_2025_sep07__Q16]]
 
 
 
@@ -482,7 +482,7 @@ level: IOQM
 
 > $MTAI$ è un parallelogramma di unità quadrate di superficie $\dfrac{40}{41}$ tale che $MI = 1/MT$. Se $d$ è la lunghezza minima possibile della diagonale $MA$ e $d^2 = \dfrac{a}{b}$, dove $a, b$ sono interi positivi con $\gcd(a, b) = 1$, trovare $|a - b|$.
 
-[[src_ioqm_2025_sep07__Q17]]
+[[Quesiti/src_ioqm_2025_sep07#q17|src_ioqm_2025_sep07__Q17]]
 
 
 
@@ -509,7 +509,7 @@ level: IOQM
 
 > $N$ sia il numero di numeri interi a nove cifre che possono essere ottenuti permutando i numeri di 223334444 e che hanno almeno un 3 a destra della frequenza più a destra di 4. Qual è il rimanente quando $N$ è diviso per 100?
 
-[[src_ioqm_2025_sep07__Q18]]
+[[Quesiti/src_ioqm_2025_sep07#q18|src_ioqm_2025_sep07__Q18]]
 
 
 
@@ -536,7 +536,7 @@ level: IOQM
 
 > In triangolo $ABC$, $\angle B = 90^\circ$, $AB = 1$ e $BC = 2$. Sul lato $BC$ ci sono due punti $D$ e $E$ in modo tale che $E$ si trova tra $C$ e $D$ e $DEFG$ è un quadrato, dove $F$ si trova su $AC$ e $G$ si trova sul cerchio attraverso $B$ con il centro $A$. Se l'area di $DEFG$ è $\dfrac{m}{n}$, dove $m$ e $n$ sono integri positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
 
-[[src_ioqm_2025_sep07__Q19]]
+[[Quesiti/src_ioqm_2025_sep07#q19|src_ioqm_2025_sep07__Q19]]
 
 
 
@@ -567,7 +567,7 @@ level: IOQM
 > $f$ sia la funzione definita da $$f(n) = \text{remainder when } n^n \text{ is divided by } 7,$$ per tutti gli integri positivi $n$. Trova il numero intero positivo $T$ più piccolo tale che $f(n + T) = f(n)$ per tutti i numeri interi positivi $n$.
 
 **Risposta:** 42
-[[src_ioqm_2025_sep07__Q20]]
+[[Quesiti/src_ioqm_2025_sep07#q20|src_ioqm_2025_sep07__Q20]]
 
 
 
@@ -594,7 +594,7 @@ level: IOQM
 
 > Per alcuni numeri reali $m$, $n$ e un intero positivo $a$, l'elenco $(a+1)n^2, m^2, a(n+1)^2$ è composto da tre numeri interi consecutivi scritti in ordine crescente. Qual è il valore più grande possibile di $m^2$?
 
-[[src_ioqm_2025_sep07__Q21]]
+[[Quesiti/src_ioqm_2025_sep07#q21|src_ioqm_2025_sep07__Q21]]
 
 
 
@@ -621,7 +621,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Su un tavolo ci sono marmi blu $m$ e marmi rossi $n$. Armaan e Babita giocano a turni. In ogni turno il giocatore deve scegliere un marmo del colore di sua scelta. Armaan inizia per primo, e il giocatore che sceglie l'ultimo marmo rosso vince. Per quante scelte di $(m, n)$ con $1 \le m, n \le 11$ Armaan può forzare una vittoria?
 
-[[src_ioqm_2025_sep07__Q22]]
+[[Quesiti/src_ioqm_2025_sep07#q22|src_ioqm_2025_sep07__Q22]]
 
 
 
@@ -648,7 +648,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Il $ABCD$ è un rettangolo e il $M$, il $N$ sono punti che si trovano rispettivamente sui lati $AB$ e $BC$. Supponiamo che $MC = CD$ e $MD = MN$, e che i punti $C$, $D$, $M$, $N$ si trovino su un cerchio. Se $(AB/BC)^2 = m/n$ dove $m$ e $n$ sono integri positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
 
-[[src_ioqm_2025_sep07__Q23]]
+[[Quesiti/src_ioqm_2025_sep07#q23|src_ioqm_2025_sep07__Q23]]
 
 
 
@@ -675,7 +675,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Per esempio, $P(x) = x^{2025}$, $Q(x) = x^4 + x^3 + 2x^2 + x + 1$. $R(x)$ sia il residuo polinomial quando il polinomial $P(x)$ è diviso dal polinomial $Q(x)$. Trova $R(3)$.
 
-[[src_ioqm_2025_sep07__Q24]]
+[[Quesiti/src_ioqm_2025_sep07#q24|src_ioqm_2025_sep07__Q24]]
 
 
 
@@ -702,7 +702,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Per quanti numeri $n$ nel set $\{1, 2, 3, \ldots, 37\}$ possiamo dividere i numeri $2n$ $1, 2, \ldots, 2n$ in coppie $n$ $\{a_i, b_i\}$, $1 \le i \le n$, in modo che $\displaystyle\prod_{i=1}^{n}(a_i + b_i)$ sia un quadrato?
 
-[[src_ioqm_2025_sep07__Q25]]
+[[Quesiti/src_ioqm_2025_sep07#q25|src_ioqm_2025_sep07__Q25]]
 
 
 
@@ -729,7 +729,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Considerate una sequenza di numeri reali di lunghezza finita. Le medie consecutive di quattro termini di questa sequenza aumentano strettamente, ma le medie di sette termini consecutivi diminuiscono strettamente. Qual è la lunghezza massima possibile di tale sequenza?
 
-[[src_ioqm_2025_sep07__Q26]]
+[[Quesiti/src_ioqm_2025_sep07#q26|src_ioqm_2025_sep07__Q26]]
 
 
 
@@ -758,7 +758,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Trova il numero di triples ordinati $(a, b, c)$ di enti interi positivi come $1 \le a, b, c \le 50$ che soddisfano la relazione $$\frac{\text{lcm}(a, c) + \text{lcm}(b, c)}{a + b} = \frac{26c}{27}.$$ Qui, con $\text{lcm}(x, y)$ intendiamo il LCM, cioè il più piccolo comune multiple di $x$ e $y$.
 
-[[src_ioqm_2025_sep07__Q27]]
+[[Quesiti/src_ioqm_2025_sep07#q27|src_ioqm_2025_sep07__Q27]]
 
 
 
@@ -785,7 +785,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Supponiamo che $a$ sia un intero positivo che non sia un quadrato perfetto. $x, y$ siano integri non negativi come $\sqrt{x - \sqrt{x + a}} = \sqrt{a} - y$. Qual è il più grande valore possibile di $a$ tale che $a < 100$?
 
-[[src_ioqm_2025_sep07__Q28]]
+[[Quesiti/src_ioqm_2025_sep07#q28|src_ioqm_2025_sep07__Q28]]
 
 
 
@@ -812,7 +812,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 
 > Si dice che un poligono regolare con vertici $n \ge 5$ sia colorato se è possibile colorare i vertici utilizzando al massimo 6 colori in modo tale che ogni vertice sia colorato esattamente con un colore e in modo tale che ogni 5 vertici consecutivi abbiano colori diversi. Trova il numero più grande $n$ per il quale un poligono regolare con vertici $n$ è \textbf{not} colorato.
 
-[[src_ioqm_2025_sep07__Q29]]
+[[Quesiti/src_ioqm_2025_sep07#q29|src_ioqm_2025_sep07__Q29]]
 
 
 
@@ -841,4 +841,4 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 > Il $S$ deve essere un cerchio di raggio 10 con il centro $O$. Supponiamo che $S_1$ e $S_2$ siano due cerchi che toccano $S$ internamente e si incrociano a due punti distinti $A$ e $B$. Se $\angle OAB = 90^\circ$, qual è la somma dei raggi di $S_1$ e $S_2$?
 
 **Risposta:** 10
-[[src_ioqm_2025_sep07__Q30]]
+[[Quesiti/src_ioqm_2025_sep07#q30|src_ioqm_2025_sep07__Q30]]

@@ -45,7 +45,7 @@ level: nazionale
 > 
 > (see figure)
 
-[[src_cesenatico_1997__Q01]]
+[[Quesiti/src_cesenatico_1997#q01|src_cesenatico_1997__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: nazionale
 > 
 > Please note that $f$ is said to be odd if $f(-x) = -f(x)$ for each $x$; $f$ is said to be periodic if $T > 0$ exists such that $f(x + T) = f(x)$ for each $x$.
 
-[[src_cesenatico_1997__Q02]]
+[[Quesiti/src_cesenatico_1997#q02|src_cesenatico_1997__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: nazionale
 > 
 > (see figure)
 
-[[src_cesenatico_1997__Q03]]
+[[Quesiti/src_cesenatico_1997#q03|src_cesenatico_1997__Q03]]
 
 
 
@@ -167,7 +167,7 @@ level: nazionale
 > 
 > Determine the volume of the tetrahedron.
 
-[[src_cesenatico_1997__Q04]]
+[[Quesiti/src_cesenatico_1997#q04|src_cesenatico_1997__Q04]]
 
 
 
@@ -206,7 +206,7 @@ level: nazionale
 > 
 > The maximum possible value of $d_n$ shall be determined.
 
-[[src_cesenatico_1997__Q05]]
+[[Quesiti/src_cesenatico_1997#q05|src_cesenatico_1997__Q05]]
 
 
 
@@ -245,4 +245,4 @@ level: nazionale
 > 
 > (see figure)
 
-[[src_cesenatico_1997__Q06]]
+[[Quesiti/src_cesenatico_1997#q06|src_cesenatico_1997__Q06]]

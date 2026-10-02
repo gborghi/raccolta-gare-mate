@@ -33,7 +33,7 @@ level: IMO
 
 > Demonstrate that the fraction $\dfrac{21n+4}{14n+3}$ is irreducible for any natural number $n$.
 
-[[src_imho_1959__Q01]]
+[[Quesiti/src_imho_1959#q01|src_imho_1959__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: IMO
 
 > For which real values of $x$ is the equation $$\sqrt{x + \sqrt{2x-1}} + \sqrt{x - \sqrt{2x-1}} = A,$$ given (a) $A = \sqrt{2}$, (b) $A = 1$, (c) $A = 2$ satisfied, where only square roots of non-negative real numbers are allowed?
 
-[[src_imho_1959__Q02]]
+[[Quesiti/src_imho_1959#q02|src_imho_1959__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: IMO
 
 > They shall be $a$, $b$, $c$ real numbers. Consider the second degree equation in $\cos x$: $$a \cos^2 x + b \cos x + c = 0.$$ Using the numbers $a$, $b$, $c$, form a second degree equation in $\cos 2x$ that has the same roots as the original equation. Compare the equations in $\cos x$ and in $\cos 2x$ for $a = 4$, $b = 2$, $c = -1$.
 
-[[src_imho_1959__Q03]]
+[[Quesiti/src_imho_1959#q03|src_imho_1959__Q03]]
 
 
 
@@ -117,7 +117,7 @@ level: IMO
 
 > Build a rectangular triangle with a given $c$ hypotenuse, such that the median relative to the hypotenuse is the geometric mean of the two cathetes of the triangle.
 
-[[src_imho_1959__Q04]]
+[[Quesiti/src_imho_1959#q04|src_imho_1959__Q04]]
 
 
 
@@ -156,7 +156,7 @@ level: IMO
 > 
 > (c) Find the geometric location of the mean points of the $PQ$ segments when $M$ varies between $A$ and $B$.
 
-[[src_imho_1959__Q05]]
+[[Quesiti/src_imho_1959#q05|src_imho_1959__Q05]]
 
 
 
@@ -182,4 +182,4 @@ level: IMO
 
 > Two planes, $P$ and $Q$, intersect along the straight $p$. The point $A$ is given in the plane $P$ and the point $C$ in the plane $Q$; neither of these points lies on the straight $p$. Build an isosceles trapezoid $ABCD$ (with $AB$ parallel to $CD$) into which a circle can be inscribed, with the vertices $B$ and $D$ lying in the planes $P$ and $Q$ respectively.
 
-[[src_imho_1959__Q06]]
+[[Quesiti/src_imho_1959#q06|src_imho_1959__Q06]]

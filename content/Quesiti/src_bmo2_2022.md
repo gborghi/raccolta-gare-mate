@@ -45,7 +45,7 @@ level: BMO Round 2
 > 
 > Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
 
-[[src_bmo2_2022__Q01]]
+[[Quesiti/src_bmo2_2022#q01|src_bmo2_2022__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: BMO Round 2
 
 > Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y f(f(x^2) + x) = f(x+1) f(2xy).$$
 
-[[src_bmo2_2022__Q02]]
+[[Quesiti/src_bmo2_2022#q02|src_bmo2_2022__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: BMO Round 2
 
 > Le carte provenienti da mazzi di carte identiche $n$ vengono messe in scatole. Ogni mazzo contiene 50 carte, etichettate da 1 a 50. Ogni scatola può contenere al massimo 2022 carte. Si dice che una pila di scatole sia regolare se contiene uguali numeri di carte con ciascuna etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
 
-[[src_bmo2_2022__Q03]]
+[[Quesiti/src_bmo2_2022#q03|src_bmo2_2022__Q03]]
 
 
 
@@ -135,4 +135,4 @@ level: BMO Round 2
 > 
 > Un arco minore di un cerchio è il più corto dei due archi con determinati punti di fine.)
 
-[[src_bmo2_2022__Q04]]
+[[Quesiti/src_bmo2_2022#q04|src_bmo2_2022__Q04]]

@@ -32,7 +32,7 @@ level: nazionale
 
 > Determine all the positive integers of three digits that are equal to 34 times the sum of their digits.
 
-[[src_archimede_2002_individuale__Q01]]
+[[Quesiti/src_archimede_2002_individuale#q01|src_archimede_2002_individuale__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: nazionale
 > (see figure)
 
 **Answer:** 2750/3 m^3
-[[src_archimede_2002_individuale__Q02]]
+[[Quesiti/src_archimede_2002_individuale#q02|src_archimede_2002_individuale__Q02]]
 
 
 
@@ -106,7 +106,7 @@ level: nazionale
 > 
 > (see figure)
 
-[[src_archimede_2002_individuale__Q03]]
+[[Quesiti/src_archimede_2002_individuale#q03|src_archimede_2002_individuale__Q03]]
 
 
 
@@ -135,7 +135,7 @@ level: nazionale
 > Determine for which values of $n$ all solutions to the equation $X^3 - 3X + n = 0$ are integers.
 
 **Answer:** n=2 e n=-2
-[[src_archimede_2002_individuale__Q04]]
+[[Quesiti/src_archimede_2002_individuale#q04|src_archimede_2002_individuale__Q04]]
 
 
 
@@ -162,7 +162,7 @@ level: nazionale
 
 > Whether $m = 5^n + 3^n + 1$, where $n$ is a natural number. Show that if $m$ is prime then $n$ is multiple 12.
 
-[[src_archimede_2002_individuale__Q05]]
+[[Quesiti/src_archimede_2002_individuale#q05|src_archimede_2002_individuale__Q05]]
 
 
 
@@ -205,4 +205,4 @@ level: nazionale
 > 
 > **Note:** Two boxes are considered adjacent if they have one side in common.
 
-[[src_archimede_2002_individuale__Q06]]
+[[Quesiti/src_archimede_2002_individuale#q06|src_archimede_2002_individuale__Q06]]

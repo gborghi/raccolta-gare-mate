@@ -17,7 +17,7 @@ level: kangourou
 
 *Tessere 2×1 al massimo su regione di 36 quadratini*
 
-![[src_kangourou_2022_student_finale__probS1.png]]
+![[src_kangourou_2022_student_finale__probs1.png]]
 
 ```tikz
 \begin{document}
@@ -52,7 +52,7 @@ level: kangourou
 
 *Table 2×1 at most on a 36-square region*
 
-![[src_kangourou_2022_student_finale__probS1.png]]
+![[src_kangourou_2022_student_finale__probs1.png]]
 
 ```tikz
 \begin{document}
@@ -75,7 +75,7 @@ level: kangourou
 > In the figure, you see a region of the plane obtained by joining 36 squares all equal to each other and a card obtained by joining two squares identical to those of the region. How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the cards, but remember that you also have to justify why you can't place a larger number. (see figure)
 
 **Answer:** 15
-[[src_kangourou_2022_student_finale__QS1]]
+[[Quesiti/src_kangourou_2022_student_finale#qs1|src_kangourou_2022_student_finale__QS1]]
 
 
 
@@ -86,7 +86,7 @@ level: kangourou
 
 *lati rossi=verdi*
 
-![[src_kangourou_2022_student_finale__probS2.png]]
+![[src_kangourou_2022_student_finale__probs2.png]]
 
 > Due quadrati congruenti, uno con bordo rosso e l'altro con bordo verde, sono disposti nel piano in modo tale che la loro intersezione sia un ottagono (i centri dei due quadrati possono non coincidere). Dimostra che la somma delle lunghezze dei lati rossi dell'ottagono coincide con la somma delle lunghezze dei lati verdi. (vedi figura)
 
@@ -103,12 +103,12 @@ level: kangourou
 
 *reds=greens*
 
-![[src_kangourou_2022_student_finale__probS2.png]]
+![[src_kangourou_2022_student_finale__probs2.png]]
 
 > Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). It shows that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides. (see figure)
 
 **Answer:** dimostrazione
-[[src_kangourou_2022_student_finale__QS2]]
+[[Quesiti/src_kangourou_2022_student_finale#qs2|src_kangourou_2022_student_finale__QS2]]
 
 
 
@@ -137,7 +137,7 @@ level: kangourou
 > Consider the number $20232022$ in decimal notation; subtract its first digit from the right (the number of units) and add it to the number obtained with the remaining digits. Continue this way until you get a 10-digit number. It shows that this number you got has at least two digits equal.
 
 **Answer:** dimostrazione
-[[src_kangourou_2022_student_finale__QS3]]
+[[Quesiti/src_kangourou_2022_student_finale#qs3|src_kangourou_2022_student_finale__QS3]]
 
 
 
@@ -148,7 +148,7 @@ level: kangourou
 
 *Area punti del pentagono a distanza >1 da un vertice*
 
-![[src_kangourou_2022_student_finale__probS4.png]]
+![[src_kangourou_2022_student_finale__probs4.png]]
 
 ```tikz
 \begin{document}
@@ -190,7 +190,7 @@ level: kangourou
 
 *Area of pentagon points at a distance >1 from a vertex*
 
-![[src_kangourou_2022_student_finale__probS4.png]]
+![[src_kangourou_2022_student_finale__probs4.png]]
 
 ```tikz
 \begin{document}
@@ -221,7 +221,7 @@ level: kangourou
 > Determine the area of the region where the interior points on a regular pentagon on side 1 are more than 1 distance from at least one of the vertices. (see figure)
 
 **Answer:** √3/2 - π/3
-[[src_kangourou_2022_student_finale__QS4]]
+[[Quesiti/src_kangourou_2022_student_finale#qs4|src_kangourou_2022_student_finale__QS4]]
 
 
 
@@ -232,7 +232,7 @@ level: kangourou
 
 *Asse di un segmento con metrica del max (distanza Chebyshev)*
 
-![[src_kangourou_2022_student_finale__probS5.png]]
+![[src_kangourou_2022_student_finale__probs5.png]]
 
 ```tikz
 \begin{document}
@@ -275,7 +275,7 @@ level: kangourou
 
 *Axis of a segment with max (chebyshev distance) metric *
 
-![[src_kangourou_2022_student_finale__probS5.png]]
+![[src_kangourou_2022_student_finale__probs5.png]]
 
 ```tikz
 \begin{document}
@@ -306,7 +306,7 @@ level: kangourou
 > In the plane with a monometric orthogonal cartesian system $Oxy$, we introduce a new notion of distance: the distance from the point $(x, y)$ to the point $(a, b)$ is the largest of the numbers $|x-a|$ and $|y-b|$ (which may coincide). The axis of a segment is defined, in relation to this new concept of distance, in the usual way, that is, as the place of the points equidistant from the ends of the segment. Describe the axis of the $(-1, 0)$ and $(1, 0)$ extreme segment with respect to the new concept of distance (NON with respect to Euclidean distance). (see figure)
 
 **Answer:** descrizione luogo
-[[src_kangourou_2022_student_finale__QS5]]
+[[Quesiti/src_kangourou_2022_student_finale#qs5|src_kangourou_2022_student_finale__QS5]]
 
 
 
@@ -335,4 +335,4 @@ level: kangourou
 > It shows that it is possible to express the set of non-negative integers as a union $\bigcup_{n=0}^{\infty} A_n$, where the $A_n$ are two-to-two disjoint subsets, each consisting of infinite elements, and such that, for each $n \geq 1$, $A_n$ is obtained by adding the same constant, dependent on $n$, to each element of $A_0$.
 
 **Answer:** dimostrazione
-[[src_kangourou_2022_student_finale__QS6]]
+[[Quesiti/src_kangourou_2022_student_finale#qs6|src_kangourou_2022_student_finale__QS6]]

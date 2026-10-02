@@ -37,7 +37,7 @@ level: OBM Nível 1
 > 
 > Quanti cubetti avrà bisogno?
 
-[[src_obm_2005_n1_f3__Q01]]
+[[Quesiti/src_obm_2005_n1_f3#q01|src_obm_2005_n1_f3__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 1
 > 
 > Un triangolo rettangolo è qualsiasi triangolo che abbia un angolo $90^\circ$. I lati che formano questo angolo sono chiamati gambe (catetos).
 
-[[src_obm_2005_n1_f3__Q02]]
+[[Quesiti/src_obm_2005_n1_f3#q02|src_obm_2005_n1_f3__Q02]]
 
 
 
@@ -89,7 +89,7 @@ level: OBM Nível 1
 > 
 > b) In which line and column will the number $2005$ appear?
 
-![[src_obm_2005_n1_f3__Q03.png]]
+![[src_obm_2005_n1_f3__q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -109,9 +109,9 @@ level: OBM Nível 1
 > 
 > b) In quale riga e colonna apparirà il numero $2005$?
 
-![[src_obm_2005_n1_f3__Q03.png]]
+![[src_obm_2005_n1_f3__q03.png]]
 
-[[src_obm_2005_n1_f3__Q03]]
+[[Quesiti/src_obm_2005_n1_f3#q03|src_obm_2005_n1_f3__Q03]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 1
 > 
 > b) Indicare che il segmento $BD$ è parallelo al segmento $EC$.
 
-[[src_obm_2005_n1_f3__Q04]]
+[[Quesiti/src_obm_2005_n1_f3#q04|src_obm_2005_n1_f3__Q04]]
 
 
 
@@ -181,4 +181,4 @@ Proprietà P (numero perfetto) definita come somma di divisori positivi uguali a
 > 
 > Un intero positivo è un quadrato perfetto se è uguale al quadrato di un intero. Ad esempio, $1 = 1^2$, $4 = 2^2$ e $9 = 3^2$ sono quadrati perfetti.
 
-[[src_obm_2005_n1_f3__Q05]]
+[[Quesiti/src_obm_2005_n1_f3#q05|src_obm_2005_n1_f3__Q05]]

@@ -35,7 +35,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Lasciate che $a$, $b$ siano numeri reali in modo tale che l'equazione $x^3 - ax^2 + bx - a = 0$ abbia solo radici reali. Trova il minimo di $\dfrac{2a^3 - 3ab + 3a}{b + 1}$.
 
-[[src_cn_csmo_2013__Q01]]
+[[Quesiti/src_cn_csmo_2013#q01|src_cn_csmo_2013__Q01]]
 
 
 
@@ -48,7 +48,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $\odot I$ be the incircle of $\triangle ABC$ with $AB > AC$. $\odot I$ tangent to $BC$ and $AD$ at $D$ and $E$, respectively. The tangent line $EP$ of $\odot I$ intersects the extended line of $BC$ at $P$. Segment $CF$ is parallel to $PE$ and intersects $AD$ at point $F$. Line $BF$ intersects $\odot I$ at points $M$ and $N$ such that $M$ is on segment $BF$. Segment $PM$ intersects $\odot I$ at the other point $Q$. Prove that $\angle ENP = \angle ENQ$.
 
-![[src_cn_csmo_b11_w309__Q02.png]]
+![[src_cn_csmo_b11_w309__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -66,9 +66,9 @@ level: China Southeastern Mathematical Olympiad
 
 > $\odot I$ sia l'incircolo di $\triangle ABC$ con $AB > AC$. $\odot I$ tangente a $BC$ e $AD$ rispettivamente a $D$ e $E$. La linea tangente $EP$ di $\odot I$ interseca la linea estesa di $BC$ a $P$. Il segmento $CF$ è parallelo a $PE$ e si interseca con $AD$ al punto $F$. La linea $BF$ interseca $\odot I$ nei punti $M$ e $N$ in modo tale che $M$ sia sul segmento $BF$. Il segmento $PM$ interseca $\odot I$ all'altro punto $Q$. Provare che $\angle ENP = \angle ENQ$.
 
-![[src_cn_csmo_b11_w309__Q02.png]]
+![[src_cn_csmo_b11_w309__q02.png]]
 
-[[src_cn_csmo_2013__Q02]]
+[[Quesiti/src_cn_csmo_2013#q02|src_cn_csmo_2013__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: China Southeastern Mathematical Olympiad
 
 > La sequenza $\{a_n\}$ deve essere definita da $a_1 = 1$, $a_2 = 2$, $a_{n+1} = \dfrac{a_n^2 + (-1)^n}{a_{n-1}}$ $(n = 2, 3, \ldots)$. Prova che la somma dei quadrati di due termini adiacenti della sequenza è anche nella sequenza.
 
-[[src_cn_csmo_2013__Q03]]
+[[Quesiti/src_cn_csmo_2013#q03|src_cn_csmo_2013__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Suppose that 12 acrobats labeled $1$-$12$ divided into two circles $A$ and $B$, with six persons in each. Let each acrobat in $B$ stand on the shoulders of two adjacent acrobats of $A$. We call it a tower if the label of each acrobat of $B$ is equal to the sum of the labels of the acrobats under his feet. How many different towers can they make? (Remark. We treat two towers as the same if one can be obtained by rotation or reflection of the other.)
 
-![[src_cn_csmo_b11_w309__Q04.png]]
+![[src_cn_csmo_b11_w309__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -129,10 +129,10 @@ level: China Southeastern Mathematical Olympiad
 
 > Supponiamo che 12 acrobati etichettati $1$-$12$ siano divisi in due cerchi $A$ e $B$, con sei persone in ciascuno. Ogni acrobata di $B$ deve stare sulle spalle di due acrobati adiacenti di $A$. Lo chiamiamo una torre se l'etichetta di ogni acrobata di $B$ è uguale alla somma delle etichette degli acrobati sotto i suoi piedi. Quante torri possono costruire? (Ricorda. Trattiamo due torri come uguali se una può essere ottenuta per rotazione o riflessione dell'altra.)
 
-![[src_cn_csmo_b11_w309__Q04.png]]
+![[src_cn_csmo_b11_w309__q04.png]]
 
 **Risposta:** 6
-[[src_cn_csmo_2013__Q04]]
+[[Quesiti/src_cn_csmo_2013#q04|src_cn_csmo_2013__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: China Southeastern Mathematical Olympiad
 > Let $f(x) = \left[\frac{x}{1!}\right] + \left[\frac{x}{2!}\right] + \cdots + \left[\frac{x}{2013!}\right]$, dove $[x]$ è il numero intero più grande non superiore a $x$. Chiamare un numero intero $n$ un *buono numero* se l'equazione $f(x) = n$ ha una soluzione reale $x$. Trova il numero dei numeri buoni nell'insieme $\{1, 3, 5, \ldots, 2013\}$.
 
 **Risposta:** 587
-[[src_cn_csmo_2013__Q05]]
+[[Quesiti/src_cn_csmo_2013#q05|src_cn_csmo_2013__Q05]]
 
 
 
@@ -174,7 +174,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Cut off a corner of $2 \times 2$ unit squares from a $3 \times 3$ unit square; the remaining figure is called a *horn* (Fig. 7.1 is a horn). Now, put some horns without overlapping on a board of $10 \times 10$ unit squares (Fig. 7.2) such that the boundaries of the horn coincide with the grid of the board. Find the maximum of $k$ such that whatever the $k$ horns put on the board, one can always put another horn on the board.
 
-![[src_cn_csmo_b11_w317__Q07.png]]
+![[src_cn_csmo_b11_w317__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
@@ -191,10 +191,10 @@ level: China Southeastern Mathematical Olympiad
 
 > Tagliare un angolo di $2 \times 2$ quadrati di unità da un quadrato di unità $3 \times 3$; la figura rimanente è chiamata un corno ** (Fig. 7.1 è un corno). Ora, mettete alcuni corni senza sovrapposizioni su una tavola di $10 \times 10$ quadrati unitari (Fig. 7.2) in modo tale che i confini del corno coincidano con la griglia della lavagna. Trovare il massimo di $k$ in modo che, qualunque sia il corno $k$ messo sulla lavagna, si possa sempre mettere un altro corno sulla lavagna.
 
-![[src_cn_csmo_b11_w317__Q07.png]]
+![[src_cn_csmo_b11_w317__q07.png]]
 
 **Risposta:** 7
-[[src_cn_csmo_2013__Q07]]
+[[Quesiti/src_cn_csmo_2013#q07|src_cn_csmo_2013__Q07]]
 
 
 
@@ -225,4 +225,4 @@ level: China Southeastern Mathematical Olympiad
 > Che $m$ sia un intero positivo, $n = 2^m - 1$, e $P_n = \{1, 2, \ldots, n\}$ sia l'insieme dei punti $n$ su un asse numerico. Un agaro salta tra i punti adiacenti su $P_n$. Trovare il numero massimo di $m$ in modo tale che per qualsiasi $x, y \in P_n$, il numero di modi in cui un salto da $x$ a $y$ da $2012$ passi è pari (passando $x$ o $y$ in viaggio è consentito).
 
 **Risposta:** m = 10
-[[src_cn_csmo_2013__Q08]]
+[[Quesiti/src_cn_csmo_2013#q08|src_cn_csmo_2013__Q08]]

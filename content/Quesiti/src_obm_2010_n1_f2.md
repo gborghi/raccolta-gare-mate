@@ -35,7 +35,7 @@ level: OBM Nível 1
 > Un vaso contiene $\frac{1}{4}$ della sua capacità in acqua. Versa una tazza piena di acqua nel vaso, il volume raggiunge $\frac{1}{3}$ della sua capacità. Quanti altri bicchieri pieni sono ancora necessari per riempire completamente il vaso?
 
 **Risposta:** 8
-[[src_obm_2010_n1_f2__Q01]]
+[[Quesiti/src_obm_2010_n1_f2#q01|src_obm_2010_n1_f2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: OBM Nível 1
 > Joãozinho vuole fare una moltiplicazione per i compiti, ma ha cancellato alcune cifre dal suo quaderno, che sono rappresentate da $\square$ (ogni cifra cancellata può essere diversa dalle altre). I prodotti parziali e il risultato finale sono come mostrato: $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$ Qual è la somma dei numeri cancellati?
 
 **Risposta:** 14
-[[src_obm_2010_n1_f2__Q02]]
+[[Quesiti/src_obm_2010_n1_f2#q02|src_obm_2010_n1_f2__Q02]]
 
 
 
@@ -79,7 +79,7 @@ level: OBM Nível 1
 
 > Soninha painted six faces of a cube in the following way: one face preta (black) and the opposite face vermelha (red), one face amarela (yellow) and the opposite face azul (blue), one face branca (white) and the opposite face verde (green). Looking at the cube so as to see three faces at once, and considering only the set of colors of the three visible faces, in how many different ways can this cube be seen?
 
-![[src_obm_2010_n1_f2__Q03.png]]
+![[src_obm_2010_n1_f2__q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -96,10 +96,10 @@ level: OBM Nível 1
 
 > Soninha dipinse sei facce di un cubo nel modo seguente: una faccia preta (nera) e la faccia opposta vermelha (rosso), una faccia amarela (giallo) e la faccia opposta azzurra (blu), una faccia branca (bianca) e la faccia opposta verde (verde). Guardando il cubo in modo da vedere tre volti contemporaneamente, e considerando solo l'insieme di colori dei tre volti visibili, in quanti modi diversi si può vedere questo cubo?
 
-![[src_obm_2010_n1_f2__Q03.png]]
+![[src_obm_2010_n1_f2__q03.png]]
 
 **Risposta:** 4
-[[src_obm_2010_n1_f2__Q03]]
+[[Quesiti/src_obm_2010_n1_f2#q03|src_obm_2010_n1_f2__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: OBM Nível 1
 > Esmeralda scrisse i numeri interi positivi uno dopo l'altro formando una sequenza: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ e si fermò quando raggiunse la $149{,}162{,}536$th cifra. Qual e' stata l'ultima cifra che ha scritto?
 
 **Risposta:** 6
-[[src_obm_2010_n1_f2__Q04]]
+[[Quesiti/src_obm_2010_n1_f2#q04|src_obm_2010_n1_f2__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: OBM Nível 1
 > Carlinhos scrive diversi numeri interi positivi inferiori a $1000$ su diverse palle e li colloca in una scatola, in modo che Mariazinha possa disegnare palle successive casuali dalla scatola. Quante palle Carlinhos deve mettere nella scatola come minimo in modo che Mariazinha sia garantita, quando traccia al massimo $\frac{1}{7}$ delle palle totali nella scatola, di tracciare due palle il cui numero ha un divisore comune maggiore di $1$?
 
 **Risposta:** 162
-[[src_obm_2010_n1_f2__Q05]]
+[[Quesiti/src_obm_2010_n1_f2#q05|src_obm_2010_n1_f2__Q05]]
 
 
 
@@ -186,7 +186,7 @@ level: OBM Nível 1
 > Un concorso ha domande $10$; ogni risposta corretta punta $3$ punti, ogni risposta sbagliata punta $-1$ punti e ogni domanda senza risposta punta $0$ punti. Nessun candidato ha dato le stesse risposte, e le correzioni sono state fatte con lo stesso foglio di punteggio. Quanti candidati al massimo avrebbero potuto ottenere il punteggio più alto in questo concorso?
 
 **Risposta:** 14
-[[src_obm_2010_n1_f2__Q06]]
+[[Quesiti/src_obm_2010_n1_f2#q06|src_obm_2010_n1_f2__Q06]]
 
 
 
@@ -205,7 +205,7 @@ level: OBM Nível 1
 > 
 > b) In the $5$th figure, what is the area of the gray square?
 
-![[src_obm_2010_n1_f2__Q07.png]]
+![[src_obm_2010_n1_f2__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -227,9 +227,9 @@ level: OBM Nível 1
 > 
 > b) Nella figura $5$, quale è l'area del quadrato grigio?
 
-![[src_obm_2010_n1_f2__Q07.png]]
+![[src_obm_2010_n1_f2__q07.png]]
 
-[[src_obm_2010_n1_f2__Q07]]
+[[Quesiti/src_obm_2010_n1_f2#q07|src_obm_2010_n1_f2__Q07]]
 
 
 
@@ -256,7 +256,7 @@ level: OBM Nível 1
 
 > Maria ha carte $90$ numerate da $10$ a $99$ su una faccia; sull'altra faccia di ogni carta ha scritto la somma dei numeri del numero sul fronte. Ad esempio, la scheda con $43$ sul fronte ha $7$ scritto sul retro. In quante carte il numero su una faccia è esattamente il doppio del numero sull'altra faccia?
 
-[[src_obm_2010_n1_f2__Q08]]
+[[Quesiti/src_obm_2010_n1_f2#q08|src_obm_2010_n1_f2__Q08]]
 
 
 
@@ -273,7 +273,7 @@ level: OBM Nível 1
 > 
 > b) What is the minimum number of cuts to transform three squares of areas $4\,\text{cm}^2$, $9\,\text{cm}^2$, and $36\,\text{cm}^2$ respectively into a single square?
 
-![[src_obm_2010_n1_f2__Q09.png]]
+![[src_obm_2010_n1_f2__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -293,6 +293,6 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero minimo di tagli per trasformare tre quadrati di aree $4\,\text{cm}^2$, $9\,\text{cm}^2$ e $36\,\text{cm}^2$ rispettivamente in un unico quadrato?
 
-![[src_obm_2010_n1_f2__Q09.png]]
+![[src_obm_2010_n1_f2__q09.png]]
 
-[[src_obm_2010_n1_f2__Q09]]
+[[Quesiti/src_obm_2010_n1_f2#q09|src_obm_2010_n1_f2__Q09]]

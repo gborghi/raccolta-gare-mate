@@ -17,7 +17,7 @@ level: kangourou
 
 *Frazione grigia tra cerchi concentrici*
 
-![[src_kangourou_2006_cadet_finale__probC1.png]]
+![[src_kangourou_2006_cadet_finale__probc1.png]]
 
 ```tikz
 \begin{document}
@@ -48,7 +48,7 @@ level: kangourou
 
 *Gray fraction between concentric circles*
 
-![[src_kangourou_2006_cadet_finale__probC1.png]]
+![[src_kangourou_2006_cadet_finale__probc1.png]]
 
 ```tikz
 \begin{document}
@@ -68,7 +68,7 @@ level: kangourou
 > The radius of the two small circles is one sixth of the radius of the large circle. The radius of the medium-sized circle is twice that of the small circles. What fraction of the large circle is colored gray? (see figure)
 
 **Answer:** 5/6
-[[src_kangourou_2006_cadet_finale__QC1]]
+[[Quesiti/src_kangourou_2006_cadet_finale#qc1|src_kangourou_2006_cadet_finale__QC1]]
 
 
 
@@ -79,7 +79,7 @@ level: kangourou
 
 *Traiettoria del punto medio della sbarra che scivola*
 
-![[src_kangourou_2006_cadet_finale__probC2.png]]
+![[src_kangourou_2006_cadet_finale__probc2.png]]
 
 ```tikz
 \begin{document}
@@ -109,7 +109,7 @@ level: kangourou
 
 *Trajectory of the midpoint of the sliding bar*
 
-![[src_kangourou_2006_cadet_finale__probC2.png]]
+![[src_kangourou_2006_cadet_finale__probc2.png]]
 
 ```tikz
 \begin{document}
@@ -127,7 +127,7 @@ level: kangourou
 > A metal bar, which for simplicity's sake is assumed to be threaded and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall makes an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does$M$describe on the wall? Reason for your statement. (see figure)
 
 **Answer:** quarto di circonferenza
-[[src_kangourou_2006_cadet_finale__QC2]]
+[[Quesiti/src_kangourou_2006_cadet_finale#qc2|src_kangourou_2006_cadet_finale__QC2]]
 
 
 
@@ -138,7 +138,7 @@ level: kangourou
 
 *Relazione area e perimetro del rettangolo con quadrato*
 
-![[src_kangourou_2006_cadet_finale__probC3.png]]
+![[src_kangourou_2006_cadet_finale__probc3.png]]
 
 ```tikz
 \begin{document}
@@ -165,7 +165,7 @@ level: kangourou
 
 *Relation area and perimeter of rectangle to square*
 
-![[src_kangourou_2006_cadet_finale__probC3.png]]
+![[src_kangourou_2006_cadet_finale__probc3.png]]
 
 ```tikz
 \begin{document}
@@ -180,7 +180,7 @@ level: kangourou
 > The figure shows a base rectangle $a$ and height $b$, and a square with a vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that provide (with respect to appropriate units of measurement) the area and perimeter of the rectangle if the square has sides $2$? (see figure)
 
 **Answer:** sono uguali
-[[src_kangourou_2006_cadet_finale__QC3]]
+[[Quesiti/src_kangourou_2006_cadet_finale#qc3|src_kangourou_2006_cadet_finale__QC3]]
 
 
 
@@ -191,7 +191,7 @@ level: kangourou
 
 *Minimo numero di colori per gli spicchi del cerchio*
 
-![[src_kangourou_2006_cadet_finale__probC4.png]]
+![[src_kangourou_2006_cadet_finale__probc4.png]]
 
 > Un cerchio è stato diviso in un certo numero di spicchi (almeno 4), ad esempio come in figura. Sei stato incaricato di colorare l'interno di ogni spicchio in modo che tra due spicchi di ugual colore ce ne siano sempre almeno due di colore diverso, ma non conosci il numero degli spicchi del cerchio (quello in figura è solo un esempio!). Qual è il più piccolo numero di colori che ti garantirà di riuscirci, indipendentemente dal numero degli spicchi? (vedi figura)
 
@@ -208,12 +208,12 @@ level: kangourou
 
 *Minimum number of colours for spikes of the circle*
 
-![[src_kangourou_2006_cadet_finale__probC4.png]]
+![[src_kangourou_2006_cadet_finale__probc4.png]]
 
 > A circle has been divided into a number of points (at least 4), for example as shown in Figure 1. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
 
 **Answer:** 5
-[[src_kangourou_2006_cadet_finale__QC4]]
+[[Quesiti/src_kangourou_2006_cadet_finale#qc4|src_kangourou_2006_cadet_finale__QC4]]
 
 
 
@@ -224,7 +224,7 @@ level: kangourou
 
 *Risultato della somma ORE+ORE+ORE=VIVE*
 
-![[src_kangourou_2006_cadet_finale__probC5.png]]
+![[src_kangourou_2006_cadet_finale__probc5.png]]
 
 > Nell'operazione indicata, ogni lettera rappresenta una cifra: lettere uguali rappresentano cifre uguali e lettere diverse rappresentano cifre diverse; inoltre nessuna lettera rappresenta la cifra $0$. Quanto vale il risultato?
 > 
@@ -243,14 +243,14 @@ level: kangourou
 
 *Result of the sum of ORE+ORE+ORE=VIVE*
 
-![[src_kangourou_2006_cadet_finale__probC5.png]]
+![[src_kangourou_2006_cadet_finale__probc5.png]]
 
 > In the operation indicated, each letter represents a digit: equal letters represent equal numbers and different letters represent different numbers; furthermore, no letter represents the $0$ digit. How much is the result worth?
 > 
 > $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
 
 **Answer:** 2625
-[[src_kangourou_2006_cadet_finale__QC5]]
+[[Quesiti/src_kangourou_2006_cadet_finale#qc5|src_kangourou_2006_cadet_finale__QC5]]
 
 
 
@@ -279,4 +279,4 @@ level: kangourou
 > It considers the numbers of $3$ digits whose digits can be rearranged to form sets of consecutive digits (e.g. the digits of $786$ may be rearranged in the row $678$, consisting of consecutive digits). How many of these numbers have a odd number of divisors (different between them)?
 
 **Answer:** due
-[[src_kangourou_2006_cadet_finale__QC6]]
+[[Quesiti/src_kangourou_2006_cadet_finale#qc6|src_kangourou_2006_cadet_finale__QC6]]

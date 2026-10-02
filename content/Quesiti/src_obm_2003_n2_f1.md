@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
-![[src_obm_2003_n2_f1__Q01.png]]
+![[src_obm_2003_n2_f1__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,10 +40,10 @@ level: OBM Nível 2
 > 
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
-![[src_obm_2003_n2_f1__Q01.png]]
+![[src_obm_2003_n2_f1__q01.png]]
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q01]]
+[[Quesiti/src_obm_2003_n2_f1#q01|src_obm_2003_n2_f1__Q01]]
 
 
 
@@ -76,7 +76,7 @@ level: OBM Nível 2
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Risposta:** A
-[[src_obm_2003_n2_f1__Q02]]
+[[Quesiti/src_obm_2003_n2_f1#q02|src_obm_2003_n2_f1__Q02]]
 
 
 
@@ -109,7 +109,7 @@ level: OBM Nível 2
 > (A) 39 \quad (B) 43 \quad (C) 47 \quad (D) 50 \quad (E) 53
 
 **Risposta:** A
-[[src_obm_2003_n2_f1__Q03]]
+[[Quesiti/src_obm_2003_n2_f1#q03|src_obm_2003_n2_f1__Q03]]
 
 
 
@@ -146,7 +146,7 @@ level: OBM Nível 2
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
 **Risposta:** D
-[[src_obm_2003_n2_f1__Q04]]
+[[Quesiti/src_obm_2003_n2_f1#q04|src_obm_2003_n2_f1__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: OBM Nível 2
 > 
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
-![[src_obm_2003_n2_f1__Q05.png]]
+![[src_obm_2003_n2_f1__q05.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -183,10 +183,10 @@ level: OBM Nível 2
 > 
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
-![[src_obm_2003_n2_f1__Q05.png]]
+![[src_obm_2003_n2_f1__q05.png]]
 
 **Risposta:** E
-[[src_obm_2003_n2_f1__Q05]]
+[[Quesiti/src_obm_2003_n2_f1#q05|src_obm_2003_n2_f1__Q05]]
 
 
 
@@ -219,7 +219,7 @@ level: OBM Nível 2
 > (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 6 \quad (E) 8
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q06]]
+[[Quesiti/src_obm_2003_n2_f1#q06|src_obm_2003_n2_f1__Q06]]
 
 
 
@@ -236,7 +236,7 @@ level: OBM Nível 2
 > 
 > (A) 7 \quad (B) 3 \quad (C) 5 \quad (D) 4 \quad (E) 6
 
-![[src_obm_2003_n2_f1__Q07.png]]
+![[src_obm_2003_n2_f1__q07.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -256,10 +256,10 @@ level: OBM Nível 2
 > 
 > (A) 7 \quad (B) 3 \quad (C) 5 \quad (D) 4 \quad (E) 6
 
-![[src_obm_2003_n2_f1__Q07.png]]
+![[src_obm_2003_n2_f1__q07.png]]
 
 **Risposta:** E
-[[src_obm_2003_n2_f1__Q07]]
+[[Quesiti/src_obm_2003_n2_f1#q07|src_obm_2003_n2_f1__Q07]]
 
 
 
@@ -299,7 +299,7 @@ level: OBM Nível 2
 > - **(E)** un numero la cui somma digitali è 9.
 
 **Risposta:** A
-[[src_obm_2003_n2_f1__Q08]]
+[[Quesiti/src_obm_2003_n2_f1#q08|src_obm_2003_n2_f1__Q08]]
 
 
 
@@ -331,7 +331,7 @@ level: OBM Nível 2
 > (A) 0 \quad (B) 1 \quad (C) $2a + b$ \quad (D) $2a + c$ \quad (E) $2b + c$
 
 **Risposta:** E
-[[src_obm_2003_n2_f1__Q09]]
+[[Quesiti/src_obm_2003_n2_f1#q09|src_obm_2003_n2_f1__Q09]]
 
 
 
@@ -368,7 +368,7 @@ level: OBM Nível 2
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** E
-[[src_obm_2003_n2_f1__Q10]]
+[[Quesiti/src_obm_2003_n2_f1#q10|src_obm_2003_n2_f1__Q10]]
 
 
 
@@ -406,7 +406,7 @@ level: OBM Nível 2
 > (A) 0,1 \quad (B) 0,2 \quad (C) 0,3 \quad (D) 0,4 \quad (E) 0,5
 
 **Risposta:** B
-[[src_obm_2003_n2_f1__Q11]]
+[[Quesiti/src_obm_2003_n2_f1#q11|src_obm_2003_n2_f1__Q11]]
 
 
 
@@ -439,7 +439,7 @@ level: OBM Nível 2
 > (A) 21 32 33 16 Quad (B) 31 12 33 18 Quad (C) 31 22 33 17 Quad (D) 21 32 33 17 Quad (E) 41 32 24 15 16 18
 
 **Risposta:** D
-[[src_obm_2003_n2_f1__Q12]]
+[[Quesiti/src_obm_2003_n2_f1#q12|src_obm_2003_n2_f1__Q12]]
 
 
 
@@ -472,7 +472,7 @@ level: OBM Nível 2
 > (A) 34 \quad (B) 36 \quad (C) 42 \quad (D) 55 \quad (E) 45
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q13]]
+[[Quesiti/src_obm_2003_n2_f1#q13|src_obm_2003_n2_f1__Q13]]
 
 
 
@@ -505,7 +505,7 @@ level: OBM Nível 2
 > (A) Quarto Quadrato (B) Decimo Quadrato (C) Sesto Quadrato (D) Nona Quadrato (E) Settimo
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q14]]
+[[Quesiti/src_obm_2003_n2_f1#q14|src_obm_2003_n2_f1__Q14]]
 
 
 
@@ -546,7 +546,7 @@ level: OBM Nível 2
 > - **(E)** È impossibile determinare senza un dizionario LucianêsPortuguese.
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q15]]
+[[Quesiti/src_obm_2003_n2_f1#q15|src_obm_2003_n2_f1__Q15]]
 
 
 
@@ -563,7 +563,7 @@ level: OBM Nível 2
 > 
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
-![[src_obm_2003_n2_f1__Q16.png]]
+![[src_obm_2003_n2_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -584,10 +584,10 @@ level: OBM Nível 2
 > 
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
-![[src_obm_2003_n2_f1__Q16.png]]
+![[src_obm_2003_n2_f1__q16.png]]
 
 **Risposta:** B
-[[src_obm_2003_n2_f1__Q16]]
+[[Quesiti/src_obm_2003_n2_f1#q16|src_obm_2003_n2_f1__Q16]]
 
 
 
@@ -602,7 +602,7 @@ level: OBM Nível 2
 > 
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-![[src_obm_2003_n2_f1__Q17.png]]
+![[src_obm_2003_n2_f1__q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -621,10 +621,10 @@ level: OBM Nível 2
 > 
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-![[src_obm_2003_n2_f1__Q17.png]]
+![[src_obm_2003_n2_f1__q17.png]]
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q17]]
+[[Quesiti/src_obm_2003_n2_f1#q17|src_obm_2003_n2_f1__Q17]]
 
 
 
@@ -659,7 +659,7 @@ level: OBM Nível 2
 > (A) $\dfrac{1}{3}$ \quad (B) $\dfrac{2}{3}$ \quad (C) $1$ \quad (D) $\dfrac{4}{3}$ \quad (E) $2$
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q18]]
+[[Quesiti/src_obm_2003_n2_f1#q18|src_obm_2003_n2_f1__Q18]]
 
 
 
@@ -692,7 +692,7 @@ level: OBM Nível 2
 > (A) $X < Z < Y$ \quad (B) $Y < X < Z$ \quad (C) $X < Y < Z$ \quad (D) $Z < X < Y$ \quad (E) $Z < Y < X$
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q19]]
+[[Quesiti/src_obm_2003_n2_f1#q19|src_obm_2003_n2_f1__Q19]]
 
 
 
@@ -725,7 +725,7 @@ level: OBM Nível 2
 > (A) Beatriz \quad (B) Isabele \quad (C) Nicole \quad (D) Beatriz e Nicole \quad (E) Tutti e tre hanno la stessa probabilità.
 
 **Risposta:** B
-[[src_obm_2003_n2_f1__Q20]]
+[[Quesiti/src_obm_2003_n2_f1#q20|src_obm_2003_n2_f1__Q20]]
 
 
 
@@ -766,7 +766,7 @@ level: OBM Nível 2
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Risposta:** B
-[[src_obm_2003_n2_f1__Q21]]
+[[Quesiti/src_obm_2003_n2_f1#q21|src_obm_2003_n2_f1__Q21]]
 
 
 
@@ -799,7 +799,7 @@ level: OBM Nível 2
 > (A) 10 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q22]]
+[[Quesiti/src_obm_2003_n2_f1#q22|src_obm_2003_n2_f1__Q22]]
 
 
 
@@ -832,7 +832,7 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 > (A) 5 \quad (B) 7 \quad (C) 15 \quad (D) 25 \quad (E) 45
 
 **Risposta:** A
-[[src_obm_2003_n2_f1__Q23]]
+[[Quesiti/src_obm_2003_n2_f1#q23|src_obm_2003_n2_f1__Q23]]
 
 
 
@@ -847,7 +847,7 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 > 
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{\sqrt{3}}{4}$ \quad (C) $\dfrac{\sqrt{3}}{4}$ \quad (D) $\dfrac{\sqrt{3}}{12}$ \quad (E) $\dfrac{3}{10}$
 
-![[src_obm_2003_n2_f1__Q24.png]]
+![[src_obm_2003_n2_f1__q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -866,10 +866,10 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 > 
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{\sqrt{3}}{4}$ \quad (C) $\dfrac{\sqrt{3}}{4}$ \quad (D) $\dfrac{\sqrt{3}}{12}$ \quad (E) $\dfrac{3}{10}$
 
-![[src_obm_2003_n2_f1__Q24.png]]
+![[src_obm_2003_n2_f1__q24.png]]
 
 **Risposta:** D
-[[src_obm_2003_n2_f1__Q24]]
+[[Quesiti/src_obm_2003_n2_f1#q24|src_obm_2003_n2_f1__Q24]]
 
 
 
@@ -884,7 +884,7 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 > 
 > (A) $30^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $60^\circ$ \quad (E) $75^\circ$
 
-![[src_obm_2003_n2_f1__Q25.png]]
+![[src_obm_2003_n2_f1__q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -903,7 +903,7 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 > 
 > (A) $30^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $60^\circ$ \quad (E) $75^\circ$
 
-![[src_obm_2003_n2_f1__Q25.png]]
+![[src_obm_2003_n2_f1__q25.png]]
 
 **Risposta:** C
-[[src_obm_2003_n2_f1__Q25]]
+[[Quesiti/src_obm_2003_n2_f1#q25|src_obm_2003_n2_f1__Q25]]

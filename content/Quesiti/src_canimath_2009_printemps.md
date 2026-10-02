@@ -21,7 +21,7 @@ level: Coupe Animath Printemps
 > 
 > Calculate the width $x$ of the ribbon.
 
-![[src_canimath_2009_printemps__Q02.png]]
+![[src_canimath_2009_printemps__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -39,9 +39,9 @@ level: Coupe Animath Printemps
 > 
 > Calcolare la larghezza $x$ del nastro.
 
-![[src_canimath_2009_printemps__Q02.png]]
+![[src_canimath_2009_printemps__q02.png]]
 
-[[src_canimath_2009_printemps__Q02]]
+[[Quesiti/src_canimath_2009_printemps#q02|src_canimath_2009_printemps__Q02]]
 
 
 
@@ -72,7 +72,7 @@ level: Coupe Animath Printemps
 > 
 > b) Considerate 41 diversi numeri a due cifre. Prove che si possono sempre scegliere cinque di essi in modo che due dei cinque abbiano cifre di unità distinte e decine di cifre distinte.
 
-[[src_canimath_2009_printemps__Q03]]
+[[Quesiti/src_canimath_2009_printemps#q03|src_canimath_2009_printemps__Q03]]
 
 
 
@@ -99,7 +99,7 @@ level: Coupe Animath Printemps
 
 > A una festa di Capodanno a casa dei miei nonni, ogni ospite stringeva la mano con esattamente altri 7 ospiti, e baciava tutti gli altri sulla guancia. Prove che il numero degli ospiti sia pari.
 
-[[src_canimath_2009_printemps__Q04]]
+[[Quesiti/src_canimath_2009_printemps#q04|src_canimath_2009_printemps__Q04]]
 
 
 
@@ -130,7 +130,7 @@ level: Coupe Animath Printemps
 > 
 > Prove che $\angle ABC + \angle CDA = 180^\circ$.
 
-[[src_canimath_2009_printemps__Q05]]
+[[Quesiti/src_canimath_2009_printemps#q05|src_canimath_2009_printemps__Q05]]
 
 
 
@@ -166,4 +166,4 @@ level: Coupe Animath Printemps
 > 
 > (In sintesi: $0 < G - H < Q - A \le A - G$.)
 
-[[src_canimath_2009_printemps__Q06]]
+[[Quesiti/src_canimath_2009_printemps#q06|src_canimath_2009_printemps__Q06]]

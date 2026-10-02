@@ -42,7 +42,7 @@ level: kangourou
 > This year the attendance recorded at 1 p.m. was $24\%$. What is the final outcome if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
 
 **Answer:** 84%
-[[src_kangourou_2008_cadet_maggio__QC1]]
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc1|src_kangourou_2008_cadet_maggio__QC1]]
 
 
 
@@ -75,7 +75,7 @@ level: kangourou
 > If so, how? If not, why?
 
 **Answer:** si
-[[src_kangourou_2008_cadet_maggio__QC2]]
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc2|src_kangourou_2008_cadet_maggio__QC2]]
 
 
 
@@ -86,7 +86,7 @@ level: kangourou
 
 *Eliminare due caselle per rendere vera l'uguaglianza*
 
-![[src_kangourou_2008_cadet_maggio__probC3.png]]
+![[src_kangourou_2008_cadet_maggio__probc3.png]]
 
 > Nella griglia sottostante non si può eliminare il simbolo $=$, ma si possono eliminare due caselle, in modo che l'uguaglianza che ne risulta sia verificata.
 > 
@@ -106,7 +106,7 @@ level: kangourou
 
 *Remove two boxes to make the equality true*
 
-![[src_kangourou_2008_cadet_maggio__probC3.png]]
+![[src_kangourou_2008_cadet_maggio__probc3.png]]
 
 > In the underlying grid the $=$ symbol cannot be removed, but two boxes can be removed so that the resulting equality is verified.
 > 
@@ -115,7 +115,7 @@ level: kangourou
 > $$1 \;\; 7 \;\; 3 \times ( 4 \;\; 5 + 2 \;\; 4 ) = 2 \;\; 0 \;\; 0 \;\; 7 + 3 \;\; 7$$
 
 **Answer:** 2044
-[[src_kangourou_2008_cadet_maggio__QC3]]
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc3|src_kangourou_2008_cadet_maggio__QC3]]
 
 
 
@@ -149,7 +149,7 @@ level: kangourou
 > Find at least one perfect set.
 
 **Answer:** {2^(2k+1)}
-[[src_kangourou_2008_cadet_maggio__QC4]]
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc4|src_kangourou_2008_cadet_maggio__QC4]]
 
 
 
@@ -182,7 +182,7 @@ level: kangourou
 > (Note: both the given set and the empty set are to be considered among the sub-sets, the empty set of which is obviously made up of an equal number of elements.)
 
 **Answer:** dimostrazione
-[[src_kangourou_2008_cadet_maggio__QC5]]
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc5|src_kangourou_2008_cadet_maggio__QC5]]
 
 
 
@@ -193,7 +193,7 @@ level: kangourou
 
 *Rapporto area triangolo T su quadrato C*
 
-![[src_kangourou_2008_cadet_maggio__probC6.png]]
+![[src_kangourou_2008_cadet_maggio__probc6.png]]
 
 > Cinque quadrati sono disposti come in figura: nota in particolare che esiste una retta che ospita un lato di ciascuno dei due quadrati più piccoli e un vertice del quadrato $C$.
 > 
@@ -211,11 +211,11 @@ level: kangourou
 
 *T triangle area ratio by square C*
 
-![[src_kangourou_2008_cadet_maggio__probC6.png]]
+![[src_kangourou_2008_cadet_maggio__probc6.png]]
 
 > Five squares are arranged as shown in the figure: note in particular that there is a straight line that houses one side of each of the two smaller squares and a vertex of the square $C$.
 > 
 > What is the ratio of the area of the $T$ triangle to that of the $C$ square? (see figure)
 
 **Answer:** 1
-[[src_kangourou_2008_cadet_maggio__QC6]]
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc6|src_kangourou_2008_cadet_maggio__QC6]]

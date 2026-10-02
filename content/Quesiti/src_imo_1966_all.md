@@ -33,7 +33,7 @@ How many solved only problem B
 
 > In a mathematical competition three problems are proposed $A$, $B$, $C$. Among the participants were 25 students who solved at least one of the problems. Of all the competitors who did not solve the $A$ problem, the number of those who solved $B$ was twice the number of those who solved $C$. The number of students who solved only the $A$ problem was one more than the number of students who solved $A$ and at least one other problem. Of all the students who solved exactly one problem, half didn't solve the$A$problem. How many students have solved only the$B$problem?
 
-[[src_imo_1966_all__Q01]]
+[[Quesiti/src_imo_1966_all#q01|src_imo_1966_all__Q01]]
 
 
 
@@ -61,7 +61,7 @@ How many solved only problem B
 
 > The lengths of the sides of a triangle are $a, b, c$ and the angles opposite those sides are $\alpha, \beta, \gamma$ respectively. Prove that if $$a + b = \tan\frac{\gamma}{2}\,(a\tan\alpha + b\tan\beta),$$ then the triangle is isosceles.
 
-[[src_imo_1966_all__Q02]]
+[[Quesiti/src_imo_1966_all#q02|src_imo_1966_all__Q02]]
 
 
 
@@ -87,7 +87,7 @@ How many solved only problem B
 
 > Demonstrate that the sum of the distances of the vertices of a regular tetrahedron from the center of its circumscribed sphere is less than the sum of the distances of those vertices from any other point in space.
 
-[[src_imo_1966_all__Q03]]
+[[Quesiti/src_imo_1966_all#q03|src_imo_1966_all__Q03]]
 
 
 
@@ -114,7 +114,7 @@ How many solved only problem B
 
 > Demonstrate that for each natural number $n$ and for each real number $x \neq \dfrac{k\pi}{2^t}$ ($k$ any integer, $t = 0, 1, \ldots, n$): $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
 
-[[src_imo_1966_all__Q04]]
+[[Quesiti/src_imo_1966_all#q04|src_imo_1966_all__Q04]]
 
 
 
@@ -145,7 +145,7 @@ How many solved only problem B
 
 > Solve the system of equations $$\sum_{\substack{j=1 \\ j\neq i}}^{4} |a_i - a_j|\, x_j = 1, \quad i = 1, 2, 3, 4,$$ or: $$\begin{cases} |a_1 - a_2|\,x_2 + |a_1 - a_3|\,x_3 + |a_1 - a_4|\,x_4 = 1 \\ |a_2 - a_1|\,x_1 + |a_2 - a_3|\,x_3 + |a_2 - a_4|\,x_4 = 1 \\ |a_3 - a_1|\,x_1 + |a_3 - a_2|\,x_2 + |a_3 - a_4|\,x_4 = 1 \\ |a_4 - a_1|\,x_1 + |a_4 - a_2|\,x_2 + |a_4 - a_3|\,x_3 = 1 \end{cases}$$ where $a_1, a_2, a_3, a_4$ are four distinct real numbers.
 
-[[src_imo_1966_all__Q05]]
+[[Quesiti/src_imo_1966_all#q05|src_imo_1966_all__Q05]]
 
 
 
@@ -171,4 +171,4 @@ How many solved only problem B
 
 > Within the $BC$, $CA$, $AB$ sides of the $ABC$ triangle, any $K$, $L$, $M$ points are selected, respectively. Show that the area of at least one of the $AML$, $BKM$, $CLK$ triangles is less than or equal to one quarter of the area of the $ABC$ triangle.
 
-[[src_imo_1966_all__Q06]]
+[[Quesiti/src_imo_1966_all#q06|src_imo_1966_all__Q06]]

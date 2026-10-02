@@ -41,7 +41,7 @@ level: OBM Nível 2
 > 
 > b) Determinare il rapporto tra la superficie del triangolo $XYZ$ e la superficie del triangolo $ABC$.
 
-[[src_obm_2017_n2_f3__Q01]]
+[[Quesiti/src_obm_2017_n2_f3#q01|src_obm_2017_n2_f3__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: OBM Nível 2
 > 
 > b) Trova almeno una soluzione $(x, y, z)$ per l'equazione data.
 
-[[src_obm_2017_n2_f3__Q02]]
+[[Quesiti/src_obm_2017_n2_f3#q02|src_obm_2017_n2_f3__Q02]]
 
 
 
@@ -104,7 +104,7 @@ level: OBM Nível 2
 
 > $n > 1$ sia un numero intero positivo. Si consideri una tabella $n \times n$ in cui alcune delle celle $n^2$ sono dipinte in nero e le altre in bianco. Prove che è possibile scegliere le celle $(n-1)^2$ dalla tabella in modo tale che, dopo aver rimosso la riga e la colonna contenenti ciascuna cellula scelta, il numero di celle nere e celle bianche rimanenti sia diverso.
 
-[[src_obm_2017_n2_f3__Q03]]
+[[Quesiti/src_obm_2017_n2_f3#q03|src_obm_2017_n2_f3__Q03]]
 
 
 
@@ -144,7 +144,7 @@ level: OBM Nível 2
 > 
 > c) Scrivere, nella lingua Imp, il numero la cui rappresentazione decimale standard è $2017$.
 
-[[src_obm_2017_n2_f3__Q04]]
+[[Quesiti/src_obm_2017_n2_f3#q04|src_obm_2017_n2_f3__Q04]]
 
 
 
@@ -183,7 +183,7 @@ level: OBM Nível 2
 > 
 > *Osservazione: L'incentro di un triangolo è l'intersezione dei suoi bisettici di angolo interno, e il circoncircolo è il cerchio che attraversa tutti e tre i vertici.*
 
-[[src_obm_2017_n2_f3__Q05]]
+[[Quesiti/src_obm_2017_n2_f3#q05|src_obm_2017_n2_f3__Q05]]
 
 
 
@@ -210,4 +210,4 @@ Per tutti gli integri positivi n, a^n + 2017b^n ha fattori primi più distinti d
 
 > Prova che per ogni intero positivo $n$ esistono interi positivi $a$ e $b$, con $\gcd(a, b) = 1$, in modo tale che $a^n + 2017b^n$ abbia più di $n$ fattori primi distinti.
 
-[[src_obm_2017_n2_f3__Q06]]
+[[Quesiti/src_obm_2017_n2_f3#q06|src_obm_2017_n2_f3__Q06]]

@@ -39,7 +39,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > How many rankings will there be at the end of the race (bearing in mind that the 3 teams reach the finish line and no ex-equals are allowed)?
 
 **Answer:** 6
-[[src_bocconi_semifinale_2013__Q01]]
+[[Quesiti/src_bocconi_semifinale_2013#q01|src_bocconi_semifinale_2013__Q01]]
 
 
 
@@ -56,7 +56,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > I gettoni mostrano i numeri 1, 2, 3, 4, 5.
 
-![[src_bocconi_semifinale_2013__Q02.png]]
+![[src_bocconi_semifinale_2013__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -77,10 +77,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > The tokens show the numbers 1, 2, 3, 4, 5.
 
-![[src_bocconi_semifinale_2013__Q02.png]]
+![[src_bocconi_semifinale_2013__q02.png]]
 
 **Answer:** 4
-[[src_bocconi_semifinale_2013__Q02]]
+[[Quesiti/src_bocconi_semifinale_2013#q02|src_bocconi_semifinale_2013__Q02]]
 
 
 
@@ -113,7 +113,7 @@ Maximum number of equal parts from a pizza with 3 cuts
 > How many parts (not necessarily of the same shape or weight) will you get at most?
 
 **Answer:** 7
-[[src_bocconi_semifinale_2013__Q03]]
+[[Quesiti/src_bocconi_semifinale_2013#q03|src_bocconi_semifinale_2013__Q03]]
 
 
 
@@ -146,7 +146,7 @@ Nice days in 2013
 > How many "beautiful" days are there in 2013, from January 1 to December 31, including March 12?
 
 **Answer:** 7
-[[src_bocconi_semifinale_2013__Q04]]
+[[Quesiti/src_bocconi_semifinale_2013#q04|src_bocconi_semifinale_2013__Q04]]
 
 
 
@@ -163,7 +163,7 @@ Nice days in 2013
 > 
 > I tetramini in figura sono etichettati A, B, C, D, E.
 
-![[src_bocconi_semifinale_2013__Q05.png]]
+![[src_bocconi_semifinale_2013__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
@@ -184,10 +184,10 @@ Nice days in 2013
 > 
 > The tetramins in the figure are labelled A, B, C, D, E.
 
-![[src_bocconi_semifinale_2013__Q05.png]]
+![[src_bocconi_semifinale_2013__q05.png]]
 
 **Answer:** A
-[[src_bocconi_semifinale_2013__Q05]]
+[[Quesiti/src_bocconi_semifinale_2013#q05|src_bocconi_semifinale_2013__Q05]]
 
 
 
@@ -204,7 +204,7 @@ Nice days in 2013
 > 
 > La configurazione di sinistra mostra le lettere A-I-L-A-T-I e quella di destra mostra I-T-A-L-I-A, ciascuna in una casella di una griglia orizzontale.
 
-![[src_bocconi_semifinale_2013__Q06.png]]
+![[src_bocconi_semifinale_2013__q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
@@ -225,10 +225,10 @@ Nice days in 2013
 > 
 > The configuration on the left shows the letters A-I-L-A-T-I and the one on the right shows I-T-A-L-I-A, each in a box of a horizontal grid.
 
-![[src_bocconi_semifinale_2013__Q06.png]]
+![[src_bocconi_semifinale_2013__q06.png]]
 
 **Answer:** 22
-[[src_bocconi_semifinale_2013__Q06]]
+[[Quesiti/src_bocconi_semifinale_2013#q06|src_bocconi_semifinale_2013__Q06]]
 
 
 
@@ -261,7 +261,7 @@ Nice days in 2013
 > How many ways can Nando train his team?
 
 **Answer:** 9
-[[src_bocconi_semifinale_2013__Q07]]
+[[Quesiti/src_bocconi_semifinale_2013#q07|src_bocconi_semifinale_2013__Q07]]
 
 
 
@@ -290,7 +290,7 @@ Nice days in 2013
 > Find a two-digit number such that twice its opposite (the opposite of a number is the same number, written in the opposite direction of the drawing) is equal to the initial number increased by 1.
 
 **Answer:** 73
-[[src_bocconi_semifinale_2013__Q08]]
+[[Quesiti/src_bocconi_semifinale_2013#q08|src_bocconi_semifinale_2013__Q08]]
 
 
 
@@ -307,7 +307,7 @@ Nice days in 2013
 > 
 > (In figura si vede una stella a 6 punte con un nodo centrale e nodi alle punte, dove ogni linea passante per il centro contiene 3 numeri.)
 
-![[src_bocconi_semifinale_2013__Q09.png]]
+![[src_bocconi_semifinale_2013__q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -328,10 +328,10 @@ Nice days in 2013
 > 
 > (In the figure you can see a 6-pointed star with a central node and nodes at the points, where each line passing through the center contains 3 numbers.)
 
-![[src_bocconi_semifinale_2013__Q09.png]]
+![[src_bocconi_semifinale_2013__q09.png]]
 
 **Answer:** tre soluzioni: 13, 14, 15
-[[src_bocconi_semifinale_2013__Q09]]
+[[Quesiti/src_bocconi_semifinale_2013#q09|src_bocconi_semifinale_2013__Q09]]
 
 
 
@@ -363,7 +363,7 @@ Nice days in 2013
 > What is the radius of this particular circle?
 
 **Answer:** 2
-[[src_bocconi_semifinale_2013__Q10]]
+[[Quesiti/src_bocconi_semifinale_2013#q10|src_bocconi_semifinale_2013__Q10]]
 
 
 
@@ -378,7 +378,7 @@ Nice days in 2013
 > 
 > Trovate le misure degli angoli del piccolo triangolo grigio.
 
-![[src_bocconi_semifinale_2013__Q11.png]]
+![[src_bocconi_semifinale_2013__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -397,10 +397,10 @@ Nice days in 2013
 > 
 > Find the measurements of the angles of the small gray triangle.
 
-![[src_bocconi_semifinale_2013__Q11.png]]
+![[src_bocconi_semifinale_2013__q11.png]]
 
 **Answer:** $9^\circ$, $63^\circ$, $108^\circ$
-[[src_bocconi_semifinale_2013__Q11]]
+[[Quesiti/src_bocconi_semifinale_2013#q11|src_bocconi_semifinale_2013__Q11]]
 
 
 
@@ -430,7 +430,7 @@ Nice days in 2013
 > Help Liliana  her calculator is defective and she writes only the figure "4"  to complete the following writing, replacing appropriate digits instead of the $*$ symbol: $$\frac{* * 4 \times}{* *} = \frac{4}{4 * 4}$$
 
 **Answer:** due soluzioni: $124 \times 36$ e $214 \times 21$
-[[src_bocconi_semifinale_2013__Q12]]
+[[Quesiti/src_bocconi_semifinale_2013#q12|src_bocconi_semifinale_2013__Q12]]
 
 
 
@@ -445,7 +445,7 @@ Nice days in 2013
 > 
 > (In figura si vede un grafo con nodi collegati da segmenti, dove ogni tripletta allineata deve sommare a 24.)
 
-![[src_bocconi_semifinale_2013__Q13.png]]
+![[src_bocconi_semifinale_2013__q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -464,10 +464,10 @@ Nice days in 2013
 > 
 > (The figure shows a graph with nodes connected by segments, where each aligned triangle must add up to 24.)
 
-![[src_bocconi_semifinale_2013__Q13.png]]
+![[src_bocconi_semifinale_2013__q13.png]]
 
 **Answer:** (vedi figura nella soluzione)
-[[src_bocconi_semifinale_2013__Q13]]
+[[Quesiti/src_bocconi_semifinale_2013#q13|src_bocconi_semifinale_2013__Q13]]
 
 
 
@@ -500,7 +500,7 @@ Nice days in 2013
 > What are the dimensions of the particular rectangle?
 
 **Answer:** due soluzioni: $5 \times 20$ e $6 \times 12$
-[[src_bocconi_semifinale_2013__Q14]]
+[[Quesiti/src_bocconi_semifinale_2013#q14|src_bocconi_semifinale_2013__Q14]]
 
 
 
@@ -537,7 +537,7 @@ Nice days in 2013
 > How many competitors didn't cheat?
 
 **Answer:** 15
-[[src_bocconi_semifinale_2013__Q15]]
+[[Quesiti/src_bocconi_semifinale_2013#q15|src_bocconi_semifinale_2013__Q15]]
 
 
 
@@ -552,7 +552,7 @@ Nice days in 2013
 > 
 > Trovate il rapporto tra l'area della stella bianca e l'area della stella grigia.
 
-![[src_bocconi_semifinale_2013__Q16.png]]
+![[src_bocconi_semifinale_2013__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -571,7 +571,7 @@ Nice days in 2013
 > 
 > Find the relationship between the area of the white star and the area of the grey star.
 
-![[src_bocconi_semifinale_2013__Q16.png]]
+![[src_bocconi_semifinale_2013__q16.png]]
 
 **Answer:** $\sqrt{2} - 1$
-[[src_bocconi_semifinale_2013__Q16]]
+[[Quesiti/src_bocconi_semifinale_2013#q16|src_bocconi_semifinale_2013__Q16]]

@@ -35,7 +35,7 @@ level: BMO Round 2
 
 > Un ufficio di prenotazione di una stazione ferroviaria vende biglietti per 200 destinazioni. Un giorno furono rilasciati biglietti a 3.800 passeggeri. Indicare che i) ci sono (almeno) 6 destinazioni in cui i numeri di arrivo dei passeggeri sono gli stessi; ii) la dichiarazione diventa falsa se "6" viene sostituito da "7".
 
-[[src_bmo_1997-98_round2__Q01]]
+[[Quesiti/src_bmo_1997-98_round2#q01|src_bmo_1997-98_round2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 > 
 > Dimostrare che il circoncircolo di $ABC$ tocca il circoncircolo di $PQR$.
 
-[[src_bmo_1997-98_round2__Q02]]
+[[Quesiti/src_bmo_1997-98_round2#q02|src_bmo_1997-98_round2__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: BMO Round 2
 > 
 > Prova anche che $h(y - x)$ è un quadrato perfetto.
 
-[[src_bmo_1997-98_round2__Q03]]
+[[Quesiti/src_bmo_1997-98_round2#q03|src_bmo_1997-98_round2__Q03]]
 
 
 
@@ -137,4 +137,4 @@ level: BMO Round 2
 > 
 > Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
 
-[[src_bmo_1997-98_round2__Q04]]
+[[Quesiti/src_bmo_1997-98_round2#q04|src_bmo_1997-98_round2__Q04]]

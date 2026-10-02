@@ -34,7 +34,7 @@ level: kangourou
 > All the boys in Louis and Michele's class lined up. Behind Luigi are 16 boys, and Michael is one of them. There are 14 boys in front of Michele, and Luigi is one of them. Between Luigi and Michele there are 7 boys (without counting Luigi and Michele). How many kids are in that class?
 
 **Answer:** 23
-[[src_kangourou_2012_ecolier_finale__QE1]]
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe1|src_kangourou_2012_ecolier_finale__QE1]]
 
 
 
@@ -62,7 +62,7 @@ level: kangourou
 > In one photograph, four clocks appear: one marks 4:45, another 5:05, another at 5:25, and the last at 5:40. It is known that when the photograph was taken, two of them were stationary, while the other two, while marching at the right speed, were one 20 minutes ahead and the other 20 minutes back. What time was the photo taken?
 
 **Answer:** 5:05
-[[src_kangourou_2012_ecolier_finale__QE2]]
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe2|src_kangourou_2012_ecolier_finale__QE2]]
 
 
 
@@ -90,7 +90,7 @@ level: kangourou
 > Elena has 20 balls, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many brown balls are there?
 
 **Answer:** 4
-[[src_kangourou_2012_ecolier_finale__QE3]]
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe3|src_kangourou_2012_ecolier_finale__QE3]]
 
 
 
@@ -119,7 +119,7 @@ level: kangourou
 > If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
 
 **Answer:** 5
-[[src_kangourou_2012_ecolier_finale__QE4]]
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe4|src_kangourou_2012_ecolier_finale__QE4]]
 
 
 
@@ -130,7 +130,7 @@ level: kangourou
 
 *Minimo numero di triangoli per ritagliare il canguro*
 
-![[src_kangourou_2012_ecolier_finale__probE5.png]]
+![[src_kangourou_2012_ecolier_finale__probe5.png]]
 
 > La figura, tracciata su un foglio a quadretti, rappresenta un canguro. Vuoi ritagliarlo in modo da ottenere soltanto triangoli. Qual è il minimo numero di triangoli che puoi ottenere? (vedi figura)
 
@@ -146,12 +146,12 @@ level: kangourou
 
 *Minimum number of triangles to cut the kangaroo*
 
-![[src_kangourou_2012_ecolier_finale__probE5.png]]
+![[src_kangourou_2012_ecolier_finale__probe5.png]]
 
 > The figure, drawn on a square sheet, represents a kangaroo. You want to cut it so you only get triangles. What's the minimum number of triangles you can get? (see figure)
 
 **Answer:** 6
-[[src_kangourou_2012_ecolier_finale__QE5]]
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe5|src_kangourou_2012_ecolier_finale__QE5]]
 
 
 
@@ -162,7 +162,7 @@ level: kangourou
 
 *Si puo ottenere somma 100 sulle facce visibili dei dadi*
 
-![[src_kangourou_2012_ecolier_finale__probE6.png]]
+![[src_kangourou_2012_ecolier_finale__probe6.png]]
 
 > Pietro vuole mettere in fila un certo numero di dadi tradizionali (la somma dei punti su facce opposte è sempre 7), come mostra la figura. Incolla due facce insieme solo se il numero di punti sulle due facce è uguale, e vuole ottenere una fila in modo che la somma dei punti su tutte le facce visibili sia 100. Può riuscirci? Se sì, quanti dadi deve usare? Se no, perché? (vedi figura)
 
@@ -179,9 +179,9 @@ level: kangourou
 
 *A sum of 100 can be obtained on the visible faces of the dice*
 
-![[src_kangourou_2012_ecolier_finale__probE6.png]]
+![[src_kangourou_2012_ecolier_finale__probe6.png]]
 
 > Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as shown in the figure. He joins two faces together only if the number of points on both faces is the same, and he wants to get a row so that the sum of points on all the faces that are visible is 100. Can he do it? If so, how many dice does he have to use? If not, why? (see figure)
 
 **Answer:** no
-[[src_kangourou_2012_ecolier_finale__QE6]]
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe6|src_kangourou_2012_ecolier_finale__QE6]]

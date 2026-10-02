@@ -47,7 +47,7 @@ level: triennio
 > - **(D)** 294
 > - **(E)** 326
 
-[[src_archimede_2020_riserva_triennio__Q01]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q01|src_archimede_2020_riserva_triennio__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: triennio
 > - **(D)** 14
 > - **(E)** 26
 
-[[src_archimede_2020_riserva_triennio__Q02]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q02|src_archimede_2020_riserva_triennio__Q02]]
 
 
 
@@ -127,7 +127,7 @@ level: triennio
 > - **(D)** 14
 > - **(E)** 16
 
-[[src_archimede_2020_riserva_triennio__Q03]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q03|src_archimede_2020_riserva_triennio__Q03]]
 
 
 
@@ -166,7 +166,7 @@ level: triennio
 > - **(D)** 23
 > - **(E)** 19
 
-[[src_archimede_2020_riserva_triennio__Q04]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q04|src_archimede_2020_riserva_triennio__Q04]]
 
 
 
@@ -204,7 +204,7 @@ level: triennio
 > - **(D)** 80
 > - **(E)** 83
 
-[[src_archimede_2020_riserva_triennio__Q05]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q05|src_archimede_2020_riserva_triennio__Q05]]
 
 
 
@@ -243,7 +243,7 @@ level: triennio
 > - **(D)** 7/216
 > - **(E)** 7/144
 
-[[src_archimede_2020_riserva_triennio__Q06]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q06|src_archimede_2020_riserva_triennio__Q06]]
 
 
 
@@ -284,7 +284,7 @@ level: triennio
 > - **(D)** 7/12
 > - **(E)** 9/16
 
-[[src_archimede_2020_riserva_triennio__Q07]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q07|src_archimede_2020_riserva_triennio__Q07]]
 
 
 
@@ -324,7 +324,7 @@ level: triennio
 > - **(D)** 15
 > - **(E)** 20
 
-[[src_archimede_2020_riserva_triennio__Q08]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q08|src_archimede_2020_riserva_triennio__Q08]]
 
 
 
@@ -366,7 +366,7 @@ level: triennio
 > - **(D)** 88
 > - **(E)** 72
 
-[[src_archimede_2020_riserva_triennio__Q09]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q09|src_archimede_2020_riserva_triennio__Q09]]
 
 
 
@@ -405,7 +405,7 @@ level: triennio
 > - **(D)** 1 4A
 > - **(E)** 5 14A
 
-[[src_archimede_2020_riserva_triennio__Q10]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q10|src_archimede_2020_riserva_triennio__Q10]]
 
 
 
@@ -444,7 +444,7 @@ level: triennio
 > - **(D)** 104
 > - **(E)** 102
 
-[[src_archimede_2020_riserva_triennio__Q11]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q11|src_archimede_2020_riserva_triennio__Q11]]
 
 
 
@@ -484,4 +484,4 @@ level: triennio
 > - **(D)** 19
 > - **(E)** 31 The Archimedean Games 2020/2021 Third Reserve Games   PROOF Codes: TT02
 
-[[src_archimede_2020_riserva_triennio__Q12]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q12|src_archimede_2020_riserva_triennio__Q12]]

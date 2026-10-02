@@ -37,7 +37,7 @@ level: BMO Round 2
 
 > Mostrare come assegnare ai vertici di un poligono regolare con vertici $2^n$ numeri in modo che (a) vengano utilizzate solo le cifre 1 e 2 (b) ogni numero abbia cifre $n$ (c) ogni vertice abbia un numero diverso e (d) i vertici vicini abbiano numeri diversi in un solo e solo luogo di una cifra.
 
-[[src_bmo2_1972__Q01]]
+[[Quesiti/src_bmo2_1972#q01|src_bmo2_1972__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 
 > $a, b, c, d$ sono numeri positivi e $$S = \frac{a+b}{a+b+c} + \frac{b+c}{b+c+d} + \frac{c+d}{c+d+a} + \frac{d+a}{d+a+b}.$$ Provare che $S$ non è inferiore a 2, e ottenere le condizioni necessarie per $S = 4$.
 
-[[src_bmo2_1972__Q02]]
+[[Quesiti/src_bmo2_1972#q02|src_bmo2_1972__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: BMO Round 2
 
 > Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha lo stesso numero di amici in riunione. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è 5, trova $n$.
 
-[[src_bmo2_1972__Q03]]
+[[Quesiti/src_bmo2_1972#q03|src_bmo2_1972__Q03]]
 
 
 
@@ -122,4 +122,4 @@ level: BMO Round 2
 
 > Quando $k = 1$ trovi tutti i punti $P$ nello spazio in modo tale che $$a \cdot PA + b \cdot PB + c \cdot PC = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$, e prova il risultato. Qual è l' effetto di alterare $k$?
 
-[[src_bmo2_1972__Q04]]
+[[Quesiti/src_bmo2_1972#q04|src_bmo2_1972__Q04]]

@@ -33,7 +33,7 @@ level: RMO
 
 > Una foglia è strappata da un romanzo di carta. La somma dei numeri sulle pagine restanti è di 15000. Trova i numeri delle pagine sulla foglia strappata.
 
-[[src_rmo_1994__Q01]]
+[[Quesiti/src_rmo_1994#q01|src_rmo_1994__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Nel triangolo $ABC$, l'incircolo tocca i lati $BC$, $CA$ e $AB$ rispettivamente a $D$, $E$ e $F$. Se il raggio dell'incircolo è di 4 unità e se $BD$, $CE$ e $AF$ sono numeri interi consecutivi, trovare i lati del triangolo $ABC$.
 
-[[src_rmo_1994__Q02]]
+[[Quesiti/src_rmo_1994#q02|src_rmo_1994__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Trova tutti i numeri naturali a 6 cifre $a_1 a_2 a_3 a_4 a_5 a_6$ formati utilizzando i numeri $1, 2, 3, 4, 5, 6$ una volta che ciascuno sia tale che il numero $a_1 a_2 \cdots a_k$ sia divisibile da $k$, per $1 \le k \le 6$.
 
-[[src_rmo_1994__Q03]]
+[[Quesiti/src_rmo_1994#q03|src_rmo_1994__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: RMO
 
 > Risolvere il sistema di equazioni per $x$ e $y$ reali: $$5x\!\left(1 + \frac{1}{x^2 + y^2}\right) = 12$$ $$5y\!\left(1 - \frac{1}{x^2 + y^2}\right) = 4.$$
 
-[[src_rmo_1994__Q04]]
+[[Quesiti/src_rmo_1994#q04|src_rmo_1994__Q04]]
 
 
 
@@ -143,7 +143,7 @@ level: RMO
 
 > $A$ sia un insieme di 16 integri positivi con la proprietà che il prodotto di due numeri distinti di $A$ non supererà il 1994. Mostrare che ci sono due numeri $a$ e $b$ in $A$ che non sono relativamente primi.
 
-[[src_rmo_1994__Q05]]
+[[Quesiti/src_rmo_1994#q05|src_rmo_1994__Q05]]
 
 
 
@@ -170,7 +170,7 @@ level: RMO
 
 > Che $AC$ e $BD$ siano due accordi di un cerchio con centro $O$ in modo tale che si intersecano a angolo retto all'interno del cerchio al punto $M$. Supponiamo che $K$ e $L$ siano rispettivamente i punti di mezzo dell'accordo $AB$ e $CD$. Prova che $OKML$ è un parallelo.
 
-[[src_rmo_1994__Q06]]
+[[Quesiti/src_rmo_1994#q06|src_rmo_1994__Q06]]
 
 
 
@@ -197,7 +197,7 @@ level: RMO
 
 > Trova il numero di tutti i numeri razionali $m/n$ in modo tale che (a) $0 < m/n < 1$, (b) $m$ e $n$ siano relativamente primi, (c) $mn = 25!$.
 
-[[src_rmo_1994__Q07]]
+[[Quesiti/src_rmo_1994#q07|src_rmo_1994__Q07]]
 
 
 
@@ -225,4 +225,4 @@ level: RMO
 
 > Se $a$, $b$ e $c$ sono numeri reali positivi come $a + b + c = 1$, dimostrare che $$(1+a)(1+b)(1+c) \ge 8(1-a)(1-b)(1-c).$$
 
-[[src_rmo_1994__Q08]]
+[[Quesiti/src_rmo_1994#q08|src_rmo_1994__Q08]]

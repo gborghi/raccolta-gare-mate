@@ -47,7 +47,7 @@ level: biennio
 > - **(E)** 6
 
 **Answer:** C
-[[src_archimede_2017_biennio__Q01]]
+[[Quesiti/src_archimede_2017_biennio#q01|src_archimede_2017_biennio__Q01]]
 
 
 
@@ -92,7 +92,7 @@ level: biennio
 > - **(E)** the information provided is insufficient to establish it;
 
 **Answer:** E
-[[src_archimede_2017_biennio__Q02]]
+[[Quesiti/src_archimede_2017_biennio#q02|src_archimede_2017_biennio__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: biennio
 > - **(E)** 4
 
 **Answer:** D
-[[src_archimede_2017_biennio__Q03]]
+[[Quesiti/src_archimede_2017_biennio#q03|src_archimede_2017_biennio__Q03]]
 
 
 
@@ -176,7 +176,7 @@ The following table shows the results of the calculation:
 > - **(E)** 1015
 
 **Answer:** B
-[[src_archimede_2017_biennio__Q04]]
+[[Quesiti/src_archimede_2017_biennio#q04|src_archimede_2017_biennio__Q04]]
 
 
 
@@ -217,7 +217,7 @@ The following table shows the results of the calculation:
 > - **(E)** None of the above.
 
 **Answer:** E
-[[src_archimede_2017_biennio__Q05]]
+[[Quesiti/src_archimede_2017_biennio#q05|src_archimede_2017_biennio__Q05]]
 
 
 
@@ -265,7 +265,7 @@ The following table shows the results of the calculation:
 > - **(E)** 38
 
 **Answer:** A
-[[src_archimede_2017_biennio__Q06]]
+[[Quesiti/src_archimede_2017_biennio#q06|src_archimede_2017_biennio__Q06]]
 
 
 
@@ -311,7 +311,7 @@ The following table shows the results of the calculation:
 > - **(E)** 10 + π/6
 
 **Answer:** D
-[[src_archimede_2017_biennio__Q07]]
+[[Quesiti/src_archimede_2017_biennio#q07|src_archimede_2017_biennio__Q07]]
 
 
 
@@ -353,7 +353,7 @@ The following table shows the results of the calculation:
 > - **(E)** 6
 
 **Answer:** B
-[[src_archimede_2017_biennio__Q08]]
+[[Quesiti/src_archimede_2017_biennio#q08|src_archimede_2017_biennio__Q08]]
 
 
 
@@ -402,7 +402,7 @@ The following table shows the results of the calculation:
 > - **(E)** ABC is a right triangle.
 
 **Answer:** E
-[[src_archimede_2017_biennio__Q09]]
+[[Quesiti/src_archimede_2017_biennio#q09|src_archimede_2017_biennio__Q09]]
 
 
 
@@ -446,7 +446,7 @@ The following table shows the results of the calculation:
 > - **(E)** 10
 
 **Answer:** D
-[[src_archimede_2017_biennio__Q10]]
+[[Quesiti/src_archimede_2017_biennio#q10|src_archimede_2017_biennio__Q10]]
 
 
 
@@ -490,7 +490,7 @@ The following table shows the results of the calculation:
 > - **(E)** 24 m2
 
 **Answer:** C
-[[src_archimede_2017_biennio__Q11]]
+[[Quesiti/src_archimede_2017_biennio#q11|src_archimede_2017_biennio__Q11]]
 
 
 
@@ -533,7 +533,7 @@ The following table shows the results of the calculation:
 > - **(E)** 1/5
 
 **Answer:** A
-[[src_archimede_2017_biennio__Q12]]
+[[Quesiti/src_archimede_2017_biennio#q12|src_archimede_2017_biennio__Q12]]
 
 
 
@@ -577,7 +577,7 @@ The following table shows the results of the calculation:
 > - **(E)** 350
 
 **Answer:** C
-[[src_archimede_2017_biennio__Q13]]
+[[Quesiti/src_archimede_2017_biennio#q13|src_archimede_2017_biennio__Q13]]
 
 
 
@@ -620,7 +620,7 @@ The following table shows the results of the calculation:
 > - **(E)** 340 m2
 
 **Answer:** B
-[[src_archimede_2017_biennio__Q14]]
+[[Quesiti/src_archimede_2017_biennio#q14|src_archimede_2017_biennio__Q14]]
 
 
 
@@ -662,7 +662,7 @@ The following table shows the results of the calculation:
 > - **(E)** 2
 
 **Answer:** D
-[[src_archimede_2017_biennio__Q15]]
+[[Quesiti/src_archimede_2017_biennio#q15|src_archimede_2017_biennio__Q15]]
 
 
 
@@ -713,4 +713,4 @@ The following table shows the results of the calculation:
 > - **(E)** 14 1 2 3 4 5 6 7 2 6 12 ... ... ... 12 ... ... ... ... ... ... ... ... ... ... ... ... ... ... T2 Italian Mathematical Union PROJECT OLYMPIADS OF MATHEMATICS Ministry of Education, University and Research The Archimedes Games - Race Biennio 23 November 2017 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: email (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 **Answer:** A
-[[src_archimede_2017_biennio__Q16]]
+[[Quesiti/src_archimede_2017_biennio#q16|src_archimede_2017_biennio__Q16]]

@@ -48,7 +48,7 @@ level: kangourou
 > - **(E)** 14.
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q01]]
+[[Quesiti/src_kangourou_2001_junior#q01|src_kangourou_2001_junior__Q01]]
 
 
 
@@ -95,7 +95,7 @@ level: kangourou
 > - **(E)** This provision is possible, but the position of A cannot be determined uniquely.
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q02]]
+[[Quesiti/src_kangourou_2001_junior#q02|src_kangourou_2001_junior__Q02]]
 
 
 
@@ -136,7 +136,7 @@ level: kangourou
 > - **(E)** cannot be determined without further information.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q03]]
+[[Quesiti/src_kangourou_2001_junior#q03|src_kangourou_2001_junior__Q03]]
 
 
 
@@ -183,7 +183,7 @@ level: kangourou
 > - **(E)** 125.
 
 **Answer:** D
-[[src_kangourou_2001_junior__Q04]]
+[[Quesiti/src_kangourou_2001_junior#q04|src_kangourou_2001_junior__Q04]]
 
 
 
@@ -225,7 +225,7 @@ level: kangourou
 > - **(E)** m is divisible by 5 or by 7, but not by both Note: MCD (a, b) indicates the maximum common divisor between a and b.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q05]]
+[[Quesiti/src_kangourou_2001_junior#q05|src_kangourou_2001_junior__Q05]]
 
 
 
@@ -271,7 +271,7 @@ level: kangourou
 > - **(E)** 6.
 
 **Answer:** A
-[[src_kangourou_2001_junior__Q06]]
+[[Quesiti/src_kangourou_2001_junior#q06|src_kangourou_2001_junior__Q06]]
 
 
 
@@ -312,7 +312,7 @@ level: kangourou
 > - **(E)** More than four. Kangourou 15 March 2001. Junior class. This item is not intended to be used. 3
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q07]]
+[[Quesiti/src_kangourou_2001_junior#q07|src_kangourou_2001_junior__Q07]]
 
 
 
@@ -397,7 +397,7 @@ level: kangourou
 > - **(E)** 59 cm.
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q08]]
+[[Quesiti/src_kangourou_2001_junior#q08|src_kangourou_2001_junior__Q08]]
 
 
 
@@ -439,7 +439,7 @@ level: kangourou
 > - **(E)** 14.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q09]]
+[[Quesiti/src_kangourou_2001_junior#q09|src_kangourou_2001_junior__Q09]]
 
 
 
@@ -484,7 +484,7 @@ Cutting a ring to free them
 > - **(E)** no. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q10]]
+[[Quesiti/src_kangourou_2001_junior#q10|src_kangourou_2001_junior__Q10]]
 
 
 
@@ -526,7 +526,7 @@ Cutting a ring to free them
 > - **(E)** 6.
 
 **Answer:** D
-[[src_kangourou_2001_junior__Q11]]
+[[Quesiti/src_kangourou_2001_junior#q11|src_kangourou_2001_junior__Q11]]
 
 
 
@@ -570,7 +570,7 @@ Cutting a ring to free them
 > - **(E)** 50°. Kangourou 15 March 2001. Junior class. This item is not intended to be used. 4
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q12]]
+[[Quesiti/src_kangourou_2001_junior#q12|src_kangourou_2001_junior__Q12]]
 
 
 
@@ -599,7 +599,7 @@ Cutting a ring to free them
 > A clock lags by X minutes every Y hour. How many hours, in terms of X and Y, will you delay that clock in a week?
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q13]]
+[[Quesiti/src_kangourou_2001_junior#q13|src_kangourou_2001_junior__Q13]]
 
 
 
@@ -643,7 +643,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** 68.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q14]]
+[[Quesiti/src_kangourou_2001_junior#q14|src_kangourou_2001_junior__Q14]]
 
 
 
@@ -711,7 +711,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** 20 inches square.
 
 **Answer:** A
-[[src_kangourou_2001_junior__Q15]]
+[[Quesiti/src_kangourou_2001_junior#q15|src_kangourou_2001_junior__Q15]]
 
 
 
@@ -754,7 +754,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** 750 kg.
 
 **Answer:** E
-[[src_kangourou_2001_junior__Q16]]
+[[Quesiti/src_kangourou_2001_junior#q16|src_kangourou_2001_junior__Q16]]
 
 
 
@@ -796,7 +796,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** 6.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q17]]
+[[Quesiti/src_kangourou_2001_junior#q17|src_kangourou_2001_junior__Q17]]
 
 
 
@@ -887,7 +887,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** S 4 = 12 ⋅ S 1 . . The Commission shall adopt delegated acts in accordance with the procedure referred to in paragraph 1 of this Article. Junior class. This item is not intended to be used. 5
 
 **Answer:** D
-[[src_kangourou_2001_junior__Q18]]
+[[Quesiti/src_kangourou_2001_junior#q18|src_kangourou_2001_junior__Q18]]
 
 
 
@@ -930,7 +930,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** 30.
 
 **Answer:** E
-[[src_kangourou_2001_junior__Q19]]
+[[Quesiti/src_kangourou_2001_junior#q19|src_kangourou_2001_junior__Q19]]
 
 
 
@@ -972,7 +972,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(E)** 9. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2001_junior__Q20]]
+[[Quesiti/src_kangourou_2001_junior#q20|src_kangourou_2001_junior__Q20]]
 
 
 
@@ -1017,7 +1017,7 @@ Candies eaten by Cristina
 > - **(E)** 15.
 
 **Answer:** D
-[[src_kangourou_2001_junior__Q21]]
+[[Quesiti/src_kangourou_2001_junior#q21|src_kangourou_2001_junior__Q21]]
 
 
 
@@ -1097,7 +1097,7 @@ Candies eaten by Cristina
 > An ABC rectangle triangle as in the figure, with AB = c, AX = p and XC = q, represents a terrain. Jenny and Vicky walk at the same speed in opposite directions on the edge of the ground, both starting at the same moment from position X. The two girls meet in B. What's the value of q as a function of p and c?
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q22]]
+[[Quesiti/src_kangourou_2001_junior#q22|src_kangourou_2001_junior__Q22]]
 
 
 
@@ -1191,7 +1191,7 @@ Candies eaten by Cristina
 > Kangourou 15 March 2001. Junior class. This item is not intended to be used. 6
 
 **Answer:** D
-[[src_kangourou_2001_junior__Q23]]
+[[Quesiti/src_kangourou_2001_junior#q23|src_kangourou_2001_junior__Q23]]
 
 
 
@@ -1232,7 +1232,7 @@ Candies eaten by Cristina
 > - **(E)** 5.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q24]]
+[[Quesiti/src_kangourou_2001_junior#q24|src_kangourou_2001_junior__Q24]]
 
 
 
@@ -1267,7 +1267,7 @@ Candies eaten by Cristina
 > ABCDEFGH is a 2 cm side cube. P, Q and R are the mean points of AD, GH and BF respectively. What is the area of the PQR triangle?
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q25]]
+[[Quesiti/src_kangourou_2001_junior#q25|src_kangourou_2001_junior__Q25]]
 
 
 
@@ -1339,7 +1339,7 @@ Candies eaten by Cristina
 > - **(E)** 36.
 
 **Answer:** E
-[[src_kangourou_2001_junior__Q26]]
+[[Quesiti/src_kangourou_2001_junior#q26|src_kangourou_2001_junior__Q26]]
 
 
 
@@ -1380,7 +1380,7 @@ Candies eaten by Cristina
 > - **(E)** 4.
 
 **Answer:** C
-[[src_kangourou_2001_junior__Q27]]
+[[Quesiti/src_kangourou_2001_junior#q27|src_kangourou_2001_junior__Q27]]
 
 
 
@@ -1425,7 +1425,7 @@ Candies eaten by Cristina
 > - **(E)** 16 – 4π + √5 π.
 
 **Answer:** D
-[[src_kangourou_2001_junior__Q28]]
+[[Quesiti/src_kangourou_2001_junior#q28|src_kangourou_2001_junior__Q28]]
 
 
 
@@ -1468,7 +1468,7 @@ Candies eaten by Cristina
 > - **(E)** 34.
 
 **Answer:** E
-[[src_kangourou_2001_junior__Q29]]
+[[Quesiti/src_kangourou_2001_junior#q29|src_kangourou_2001_junior__Q29]]
 
 
 
@@ -1511,4 +1511,4 @@ Candies eaten by Cristina
 > - **(E)** 101. . This is the total number of participants in the contested competition.
 
 **Answer:** B
-[[src_kangourou_2001_junior__Q30]]
+[[Quesiti/src_kangourou_2001_junior#q30|src_kangourou_2001_junior__Q30]]

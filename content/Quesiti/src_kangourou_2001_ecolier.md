@@ -52,7 +52,7 @@ level: kangourou
 > - **(E)**
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q01]]
+[[Quesiti/src_kangourou_2001_ecolier#q01|src_kangourou_2001_ecolier__Q01]]
 
 
 
@@ -93,7 +93,7 @@ level: kangourou
 > - **(E)** 9
 
 **Answer:** D
-[[src_kangourou_2001_ecolier__Q02]]
+[[Quesiti/src_kangourou_2001_ecolier#q02|src_kangourou_2001_ecolier__Q02]]
 
 
 
@@ -129,7 +129,7 @@ level: kangourou
 > Jimmy buys his mom a nice present: a chocolate heart like the one in the picture. If each square contains 10 grams of chocolate, what is the weight of the whole heart of chocolate? (A) 340 gr. (B) 360 gr. (C) 380 gr. (D) 400 gr. (E) 420 gr.
 
 **Answer:** D
-[[src_kangourou_2001_ecolier__Q03]]
+[[Quesiti/src_kangourou_2001_ecolier#q03|src_kangourou_2001_ecolier__Q03]]
 
 
 
@@ -187,7 +187,7 @@ level: kangourou
 > - **(E)** 8 Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 3
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q04]]
+[[Quesiti/src_kangourou_2001_ecolier#q04|src_kangourou_2001_ecolier__Q04]]
 
 
 
@@ -234,7 +234,7 @@ level: kangourou
 > - **(E)** 3
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q05]]
+[[Quesiti/src_kangourou_2001_ecolier#q05|src_kangourou_2001_ecolier__Q05]]
 
 
 
@@ -274,7 +274,7 @@ level: kangourou
 > - **(E)** 18 – 6 : 3 = 16
 
 **Answer:** E
-[[src_kangourou_2001_ecolier__Q06]]
+[[Quesiti/src_kangourou_2001_ecolier#q06|src_kangourou_2001_ecolier__Q06]]
 
 
 
@@ -317,7 +317,7 @@ level: kangourou
 > - **(E)** 5
 
 **Answer:** E
-[[src_kangourou_2001_ecolier__Q07]]
+[[Quesiti/src_kangourou_2001_ecolier#q07|src_kangourou_2001_ecolier__Q07]]
 
 
 
@@ -354,7 +354,7 @@ level: kangourou
 > The drawing below represents the map of the neighborhood where Peter lives. Each block is a square whose sides measure 100 meters. What is the minimum distance that Peter must travel to school (if the width of the streets is considered negligible)? (A) 100 m. (B) 200 m. (C) 350 m. (D) 450 m. (E) 500 m. The questions from N. 9 al N. 16 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2001_ecolier__Q08]]
+[[Quesiti/src_kangourou_2001_ecolier#q08|src_kangourou_2001_ecolier__Q08]]
 
 
 
@@ -395,7 +395,7 @@ Roberta's age when Cristina has the double
 > - **(E)** Ten years. Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 4
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q09]]
+[[Quesiti/src_kangourou_2001_ecolier#q09|src_kangourou_2001_ecolier__Q09]]
 
 
 
@@ -441,7 +441,7 @@ Roberta's age when Cristina has the double
 > - **(E)** 4.
 
 **Answer:** D
-[[src_kangourou_2001_ecolier__Q10]]
+[[Quesiti/src_kangourou_2001_ecolier#q10|src_kangourou_2001_ecolier__Q10]]
 
 
 
@@ -485,7 +485,7 @@ Roberta's age when Cristina has the double
 > - **(E)** 5.
 
 **Answer:** E
-[[src_kangourou_2001_ecolier__Q11]]
+[[Quesiti/src_kangourou_2001_ecolier#q11|src_kangourou_2001_ecolier__Q11]]
 
 
 
@@ -529,7 +529,7 @@ Roberta's age when Cristina has the double
 > - **(E)** 52.
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q12]]
+[[Quesiti/src_kangourou_2001_ecolier#q12|src_kangourou_2001_ecolier__Q12]]
 
 
 
@@ -571,7 +571,7 @@ Roberta's age when Cristina has the double
 > Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 5
 
 **Answer:** E
-[[src_kangourou_2001_ecolier__Q13]]
+[[Quesiti/src_kangourou_2001_ecolier#q13|src_kangourou_2001_ecolier__Q13]]
 
 
 
@@ -614,7 +614,7 @@ How many more stamps does Arthur have?
 > - **(E)** It depends on the number of stamps each holds.
 
 **Answer:** B
-[[src_kangourou_2001_ecolier__Q14]]
+[[Quesiti/src_kangourou_2001_ecolier#q14|src_kangourou_2001_ecolier__Q14]]
 
 
 
@@ -656,7 +656,7 @@ How many more stamps does Arthur have?
 > - **(E)** 5.
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q15]]
+[[Quesiti/src_kangourou_2001_ecolier#q15|src_kangourou_2001_ecolier__Q15]]
 
 
 
@@ -702,7 +702,7 @@ How many more stamps does Arthur have?
 > - **(E)** 6. The questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** A
-[[src_kangourou_2001_ecolier__Q16]]
+[[Quesiti/src_kangourou_2001_ecolier#q16|src_kangourou_2001_ecolier__Q16]]
 
 
 
@@ -746,7 +746,7 @@ How many more stamps does Arthur have?
 > - **(E)** 11.
 
 **Answer:** D
-[[src_kangourou_2001_ecolier__Q17]]
+[[Quesiti/src_kangourou_2001_ecolier#q17|src_kangourou_2001_ecolier__Q17]]
 
 
 
@@ -794,7 +794,7 @@ How many more stamps does Arthur have?
 > - **(E)** 30.
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q18]]
+[[Quesiti/src_kangourou_2001_ecolier#q18|src_kangourou_2001_ecolier__Q18]]
 
 
 
@@ -842,7 +842,7 @@ How many more stamps does Arthur have?
 > - **(E)** 22. Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 6
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q19]]
+[[Quesiti/src_kangourou_2001_ecolier#q19|src_kangourou_2001_ecolier__Q19]]
 
 
 
@@ -883,7 +883,7 @@ How many more stamps does Arthur have?
 > - **(E)** 6.
 
 **Answer:** A
-[[src_kangourou_2001_ecolier__Q20]]
+[[Quesiti/src_kangourou_2001_ecolier#q20|src_kangourou_2001_ecolier__Q20]]
 
 
 
@@ -923,7 +923,7 @@ How many more stamps does Arthur have?
 > Five friends spread their beachcloths out to form a large square (see figure next to it). Anna and Betty have their square-shaped fabrics of equal size, each with a perimeter of 720 cm. Carla, Debora, and Elsa have rectangular-shaped fabrics, which are also the same size. What's the perimeter of Elsa's canvas? (A) 600 cm (B) 560 cm (C) 440 cm (D) 360 cm (E) 300 cm.
 
 **Answer:** A
-[[src_kangourou_2001_ecolier__Q21]]
+[[Quesiti/src_kangourou_2001_ecolier#q21|src_kangourou_2001_ecolier__Q21]]
 
 
 
@@ -967,7 +967,7 @@ How many more stamps does Arthur have?
 > - **(E)** Eight hours.
 
 **Answer:** C
-[[src_kangourou_2001_ecolier__Q22]]
+[[Quesiti/src_kangourou_2001_ecolier#q22|src_kangourou_2001_ecolier__Q22]]
 
 
 
@@ -1009,7 +1009,7 @@ This is the total amount of the loan.
 > - **(E)** 20.
 
 **Answer:** B
-[[src_kangourou_2001_ecolier__Q23]]
+[[Quesiti/src_kangourou_2001_ecolier#q23|src_kangourou_2001_ecolier__Q23]]
 
 
 
@@ -1060,4 +1060,4 @@ This is the total amount of the loan.
 > - **(E)** None of the previous scores. The Commission has not yet taken a decision on the compatibility of the aid. This item is not intended to be used. 1 Answers Category Ecolier Competition of 15 March 2001
 
 **Answer:** E
-[[src_kangourou_2001_ecolier__Q24]]
+[[Quesiti/src_kangourou_2001_ecolier#q24|src_kangourou_2001_ecolier__Q24]]

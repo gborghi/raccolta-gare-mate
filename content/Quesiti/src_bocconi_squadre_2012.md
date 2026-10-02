@@ -39,7 +39,7 @@ level: Gara a Squadre
 > Write down the arrival order of the country race.
 
 **Answer:** FAUSTA, ANNA, CARLA, DEBORA, MILENA
-[[src_bocconi_squadre_2012__Q01]]
+[[Quesiti/src_bocconi_squadre_2012#q01|src_bocconi_squadre_2012__Q01]]
 
 
 
@@ -54,7 +54,7 @@ level: Gara a Squadre
 > 
 > **Nei dodici cerchi "liberi" della figura, scrivete tutti i numeri naturali da 1 a 12.** Le somme dei numeri appartenenti ai dodici segmenti congiungenti tre cerchi devono essere sempre uguali.
 
-![[src_bocconi_squadre_2012__Q02.png]]
+![[src_bocconi_squadre_2012__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -73,10 +73,10 @@ level: Gara a Squadre
 > 
 > **In the 12 'free' circles in the figure, write all natural numbers from 1 to 12. ** The sums of the numbers belonging to the 12 segments connecting three circles must always be equal.
 
-![[src_bocconi_squadre_2012__Q02.png]]
+![[src_bocconi_squadre_2012__q02.png]]
 
 **Answer:** Una possibile soluzione (a meno di simmetrie) è mostrata nella figura delle soluzioni
-[[src_bocconi_squadre_2012__Q02]]
+[[Quesiti/src_bocconi_squadre_2012#q02|src_bocconi_squadre_2012__Q02]]
 
 
 
@@ -108,7 +108,7 @@ level: Gara a Squadre
 > How many jumps does she take in the 100 meters?
 
 **Answer:** 40 salti
-[[src_bocconi_squadre_2012__Q03]]
+[[Quesiti/src_bocconi_squadre_2012#q03|src_bocconi_squadre_2012__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: Gara a Squadre
 > 
 > **Quanto vale la misura del segmento FG?**
 
-![[src_bocconi_squadre_2012__Q04.png]]
+![[src_bocconi_squadre_2012__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -142,10 +142,10 @@ level: Gara a Squadre
 > 
 > **What is the size of the FG segment?**
 
-![[src_bocconi_squadre_2012__Q04.png]]
+![[src_bocconi_squadre_2012__q04.png]]
 
 **Answer:** $\dfrac{4 - \sqrt{2}}{28}$
-[[src_bocconi_squadre_2012__Q04]]
+[[Quesiti/src_bocconi_squadre_2012#q04|src_bocconi_squadre_2012__Q04]]
 
 
 
@@ -178,7 +178,7 @@ level: Gara a Squadre
 > Find all integers greater than 1,000 that satisfy this property.
 
 **Answer:** 1998, 1999
-[[src_bocconi_squadre_2012__Q05]]
+[[Quesiti/src_bocconi_squadre_2012#q05|src_bocconi_squadre_2012__Q05]]
 
 
 
@@ -211,7 +211,7 @@ level: Gara a Squadre
 > What is this last figure?
 
 **Answer:** 7 oppure 0
-[[src_bocconi_squadre_2012__Q06]]
+[[Quesiti/src_bocconi_squadre_2012#q06|src_bocconi_squadre_2012__Q06]]
 
 
 
@@ -244,7 +244,7 @@ level: Gara a Squadre
 > **How many triangles are these? **
 
 **Answer:** 120
-[[src_bocconi_squadre_2012__Q07]]
+[[Quesiti/src_bocconi_squadre_2012#q07|src_bocconi_squadre_2012__Q07]]
 
 
 
@@ -276,7 +276,7 @@ level: Gara a Squadre
 > (The length of a single ant is considered negligible)
 
 **Answer:** $50(1 + \sqrt{2})$
-[[src_bocconi_squadre_2012__Q08]]
+[[Quesiti/src_bocconi_squadre_2012#q08|src_bocconi_squadre_2012__Q08]]
 
 
 
@@ -297,7 +297,7 @@ level: Gara a Squadre
 > 
 > Colonne (somme): $10, 11, 12, 13, 14, 15$. Elementi già inseriti: in riga $25$ col $1$: $2$; in riga $21$ col $3$: $3$; in riga $25$ col $6$: $6$; in riga $39$ col $6$: apparentemente $6$.
 
-![[src_bocconi_squadre_2012__Q09.png]]
+![[src_bocconi_squadre_2012__q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -318,10 +318,10 @@ level: Gara a Squadre
 > 
 > Columns (sum): $10, 11, 12, 13, 14, 15$. Elements already entered: in line $25$ with $1$: $2$; in line $21$ with $3$: $3$; in line $25$ with $6$: $6$; in line $39$ with $6$: apparently $6$.
 
-![[src_bocconi_squadre_2012__Q09.png]]
+![[src_bocconi_squadre_2012__q09.png]]
 
 **Answer:** Le due righe centrali possono essere diverse; una soluzione è: riga 21: 1,2,3,4,5,6; riga 25: 2,3,1,9,6,4; riga 28: 3,1,2,8,9,5; riga 39: 4,5,6,7,8,9
-[[src_bocconi_squadre_2012__Q09]]
+[[Quesiti/src_bocconi_squadre_2012#q09|src_bocconi_squadre_2012__Q09]]
 
 
 
@@ -354,7 +354,7 @@ level: Gara a Squadre
 > What is the price of the second dress?
 
 **Answer:** 638 oppure 29
-[[src_bocconi_squadre_2012__Q10]]
+[[Quesiti/src_bocconi_squadre_2012#q10|src_bocconi_squadre_2012__Q10]]
 
 
 
@@ -387,7 +387,7 @@ level: Gara a Squadre
 > **What is the minimum number of operations needed to get from 1 to 2000 and multiply by 3?**
 
 **Answer:** 13
-[[src_bocconi_squadre_2012__Q11]]
+[[Quesiti/src_bocconi_squadre_2012#q11|src_bocconi_squadre_2012__Q11]]
 
 
 
@@ -419,7 +419,7 @@ level: Gara a Squadre
 > What time did Chiara leave home?
 
 **Answer:** alle 10,00
-[[src_bocconi_squadre_2012__Q12]]
+[[Quesiti/src_bocconi_squadre_2012#q12|src_bocconi_squadre_2012__Q12]]
 
 
 
@@ -448,7 +448,7 @@ level: Gara a Squadre
 > **Write all multiplication of two natural numbers that have the same number to represent the units and whose product is $2001$.**
 
 **Answer:** $29 \times 69$ e $2001 \times 1$
-[[src_bocconi_squadre_2012__Q13]]
+[[Quesiti/src_bocconi_squadre_2012#q13|src_bocconi_squadre_2012__Q13]]
 
 
 
@@ -481,7 +481,7 @@ level: Gara a Squadre
 > What is the weight of the lightest and heaviest eggs?
 
 **Answer:** Le uova più leggere pesano 126 g ciascuna e quelle più pesanti pesano 147 g ciascuna
-[[src_bocconi_squadre_2012__Q14]]
+[[Quesiti/src_bocconi_squadre_2012#q14|src_bocconi_squadre_2012__Q14]]
 
 
 
@@ -507,7 +507,7 @@ level: Gara a Squadre
 > 
 > **Quale numero figurerà nell'intersezione tra la 1001.esima riga e la 2002.esima colonna?**
 
-![[src_bocconi_squadre_2012__Q15.png]]
+![[src_bocconi_squadre_2012__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -530,10 +530,10 @@ level: Gara a Squadre
 > 
 > **What number will appear at the intersection between the 1001st row and the 2002th column?**
 
-![[src_bocconi_squadre_2012__Q15.png]]
+![[src_bocconi_squadre_2012__q15.png]]
 
 **Answer:** 1081
-[[src_bocconi_squadre_2012__Q15]]
+[[Quesiti/src_bocconi_squadre_2012#q15|src_bocconi_squadre_2012__Q15]]
 
 
 
@@ -566,7 +566,7 @@ level: Gara a Squadre
 > Write a triangular number equal to its three decimal places.
 
 **Answer:** 666
-[[src_bocconi_squadre_2012__Q16]]
+[[Quesiti/src_bocconi_squadre_2012#q16|src_bocconi_squadre_2012__Q16]]
 
 
 
@@ -599,7 +599,7 @@ level: Gara a Squadre
 > **What is the maximum area of Polygon Island in $\text{km}^2$? **
 
 **Answer:** $364 \text{ km}^2$
-[[src_bocconi_squadre_2012__Q17]]
+[[Quesiti/src_bocconi_squadre_2012#q17|src_bocconi_squadre_2012__Q17]]
 
 
 
@@ -636,7 +636,7 @@ level: Gara a Squadre
 > **Find the square root of the number $444\ldots44111\ldots11 - 555\ldots55$.**
 
 **Answer:** 6 ripetuto 2006 volte
-[[src_bocconi_squadre_2012__Q18]]
+[[Quesiti/src_bocconi_squadre_2012#q18|src_bocconi_squadre_2012__Q18]]
 
 
 
@@ -669,7 +669,7 @@ level: Gara a Squadre
 > **If this is not possible, type $0$. If possible, indicate the fourth fraction (always in descending order).**
 
 **Answer:** $\dfrac{1}{12}$
-[[src_bocconi_squadre_2012__Q19]]
+[[Quesiti/src_bocconi_squadre_2012#q19|src_bocconi_squadre_2012__Q19]]
 
 
 
@@ -698,4 +698,4 @@ level: Gara a Squadre
 > The $21$ February of this year was a palindrome date ($21.02.2012$). Also considering eight-digit alignments, ** what was the last palindrome date in past centuries? **
 
 **Answer:** 29/11/1192
-[[src_bocconi_squadre_2012__Q20]]
+[[Quesiti/src_bocconi_squadre_2012#q20|src_bocconi_squadre_2012__Q20]]

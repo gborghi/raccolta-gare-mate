@@ -41,7 +41,7 @@ level: IMO
 > 
 > (b) Determine the integers $n \ge 3$ for which there exists a balanced centre-free set consisting of $n$ points.
 
-[[src_imho_2015__Q01]]
+[[Quesiti/src_imho_2015#q01|src_imho_2015__Q01]]
 
 
 
@@ -74,7 +74,7 @@ All triples where ab-c, bc-a, ca-b are powers of 2
 > 
 > (A power of $2$ is an integer of the form $2^n$, where $n$ is a non-negative integer.)
 
-[[src_imho_2015__Q02]]
+[[Quesiti/src_imho_2015#q02|src_imho_2015__Q02]]
 
 
 
@@ -105,7 +105,7 @@ Circumcircles of KQH and FKM are tangent to each other
 > 
 > Prove that the circumcircles of triangles $KQH$ and $FKM$ are tangent to each other.
 
-[[src_imho_2015__Q03]]
+[[Quesiti/src_imho_2015#q03|src_imho_2015__Q03]]
 
 
 
@@ -136,7 +136,7 @@ Lines FK and GL meet at X lying on line AO*
 > 
 > Suppose that the lines $FK$ and $GL$ are different and intersect at the point $X$. Prove that $X$ lies on the line $AO$.
 
-[[src_imho_2015__Q04]]
+[[Quesiti/src_imho_2015#q04|src_imho_2015__Q04]]
 
 
 
@@ -165,7 +165,7 @@ Lines FK and GL meet at X lying on line AO*
 
 > Let $\mathbb{R}$ be the set of real numbers. Determine the functions $f : \mathbb{R} \to \mathbb{R}$ satisfying the equation $$f(x + f(x + y)) + f(xy) = x + f(x + y) + yf(x)$$ for all real numbers $x$ and $y$.
 
-[[src_imho_2015__Q05]]
+[[Quesiti/src_imho_2015#q05|src_imho_2015__Q05]]
 
 
 
@@ -206,4 +206,4 @@ Lines FK and GL meet at X lying on line AO*
 > 
 > Prove that there exist two positive integers $b$ and $N$ such that $$\left| \sum_{j=m+1}^{n} (a_j - b) \right| \le 1007^2$$ for all integers $m$ and $n$ satisfying $n > m \ge N$.
 
-[[src_imho_2015__Q06]]
+[[Quesiti/src_imho_2015#q06|src_imho_2015__Q06]]

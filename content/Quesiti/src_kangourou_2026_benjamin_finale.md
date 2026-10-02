@@ -20,7 +20,7 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Benjamin-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 <span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
@@ -34,7 +34,7 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Benjamin-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 <span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
 
@@ -48,7 +48,7 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Benjamin-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 <span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -62,7 +62,7 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 280
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Benjamin-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 <span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
@@ -76,7 +76,7 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** è un quadrato
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Benjamin-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 <span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
@@ -91,5 +91,5 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 46, tutte
-**Fonte:** [apri PDF p.1](<../../Kangaroo/kangourou_individuali/2026/F2026-Benjamin-testi-e-soluzioni.pdf#page=1>)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 

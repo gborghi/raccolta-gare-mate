@@ -35,7 +35,7 @@ level: IOQM
 > Un triangolo $ABC$ con $AC = 20$ è inserito in un cerchio $\omega$. Una tangente $t$ a $\omega$ viene tracciata attraverso $B$. La distanza di $t$ da $A$ è 25 e quella da $C$ è 16. Se $S$ indica l'area del triangolo $ABC$, si trova il numero intero più grande non superiore a $S/29$.
 
 **Risposta:** 10
-[[src_ioqm_2022__Q01]]
+[[Quesiti/src_ioqm_2022#q01|src_ioqm_2022__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: IOQM
 > In un parallelogramma $ABCD$, si prende un punto $P$ sul segmento $AB$ in modo tale che $\frac{AP}{AB} = \frac{61}{2022}$ e un punto $Q$ sul segmento $AD$ in modo tale che $\frac{AQ}{AD} = \frac{61}{2065}$. Se $PQ$ interseca $AC$ a $T$, trovare $\frac{AC}{AT}$ al numero intero più vicino.
 
 **Risposta:** 67
-[[src_ioqm_2022__Q02]]
+[[Quesiti/src_ioqm_2022#q02|src_ioqm_2022__Q02]]
 
 
 
@@ -93,7 +93,7 @@ level: IOQM
 > In un trapezoide $ABCD$, il bisettore interno dell'angolo $A$ interseca la base $BC$ (o la sua estensione) al punto $E$. Nel triangolo $ABE$ è inciso un cerchio che tocca il lato $AB$ al punto $M$ e il lato $BE$ al punto $P$. Trova l'angolo $DAE$ in gradi, se $AB \cdot MP = 2$.
 
 **Risposta:** 60
-[[src_ioqm_2022__Q03]]
+[[Quesiti/src_ioqm_2022#q03|src_ioqm_2022__Q03]]
 
 
 
@@ -122,7 +122,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > A partire da un numero intero positivo $M$ scritto sulla tavola, Alice gioca il seguente gioco: in ogni mossa, se $x$ è il numero sulla tavola, la sostituisce con $3x + 2$. Allo stesso modo, partendo da un numero intero positivo $N$ scritto sulla tavola, Bob gioca il seguente gioco: in ogni mossa, se $x$ è il numero sulla tavola, lo sostituisce con $2x + 27$. Dato che Alice e Bob raggiungono lo stesso numero dopo aver giocato 4 mosse ciascuno, trovare il valore più piccolo di $M + N$.
 
 **Risposta:** 10
-[[src_ioqm_2022__Q04]]
+[[Quesiti/src_ioqm_2022#q04|src_ioqm_2022__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > $m$ sia il numero intero positivo più piccolo tale che $m^2 + (m+1)^2 + \cdots + (m+10)^2$ sia il quadrato di un numero intero positivo $n$. Trova $m + n$.
 
 **Risposta:** 95
-[[src_ioqm_2022__Q05]]
+[[Quesiti/src_ioqm_2022#q05|src_ioqm_2022__Q05]]
 
 
 
@@ -180,7 +180,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > $a, b$ siano integri positivi che soddisfino $a^3 - b^3 - ab = 25$. Trova il valore più grande possibile di $a^2 + b^3$.
 
 **Risposta:** 43
-[[src_ioqm_2022__Q06]]
+[[Quesiti/src_ioqm_2022#q06|src_ioqm_2022__Q06]]
 
 
 
@@ -209,7 +209,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Trova il numero di coppie ordinate $(a, b)$ in modo tale che $a, b \in \{10, 11, \ldots, 29, 30\}$ e $\gcd(a, b) = \text{lcm}(a, b) - a - b$.
 
 **Risposta:** 35
-[[src_ioqm_2022__Q07]]
+[[Quesiti/src_ioqm_2022#q07|src_ioqm_2022__Q07]]
 
 
 
@@ -238,7 +238,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Supponiamo che i numeri primi $p$ e $q$ soddisfino $q^2 + 3p = 197p^2 + q$. Scrivere $\frac{q}{p} = l + \frac{m}{n}$ dove $l, m, n$ sono numeri interi positivi, $m < n$ e $\gcd(m, n) = 1$. Trova il valore massimo di $l + m + n$.
 
 **Risposta:** 32
-[[src_ioqm_2022__Q08]]
+[[Quesiti/src_ioqm_2022#q08|src_ioqm_2022__Q08]]
 
 
 
@@ -267,7 +267,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Due lati di un triangolo a lato intero hanno lunghezze 18 e $x$ dove $x < 100$. Se ci sono esattamente 35 possibili valori interi $y$ in modo che $18, x, y$ siano i lati di un triangolo non degenerato, trovare il numero di possibili valori interi $x$ può avere.
 
 **Risposta:** 82
-[[src_ioqm_2022__Q09]]
+[[Quesiti/src_ioqm_2022#q09|src_ioqm_2022__Q09]]
 
 
 
@@ -296,7 +296,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Considera il numero di 10 cifre $M = 9876543210$. Ottieniamo un nuovo numero di 10 cifre da $M$ secondo la seguente regola: scegliamo una o più coppie di cifre adiacenti in $M$ e scambiamo le cifre in queste coppie scelte, mantenendo le altre al loro posto, otteniamo $M_1 = 9876543210$. Si noti che qualsiasi numero di coppie (disconseguite) può essere scambiato. Trova il numero di nuovi numeri che si possono ottenere così da $M$.
 
 **Risposta:** 88
-[[src_ioqm_2022__Q10]]
+[[Quesiti/src_ioqm_2022#q10|src_ioqm_2022__Q10]]
 
 
 
@@ -325,7 +325,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Il $AB$ deve essere un diametro di un cerchio $\omega$ e il $C$ deve essere un punto su $\omega$, diverso da $A$ e $B$. La perpendicolare di $C$ si interseca tra $\omega$ a $D$ e $\omega$ a $E$ ($E \neq C$). Il cerchio con centro a $C$ e raggio $CD$ si interseca con $\omega$ a $P$ e $Q$. Se il perimetro del triangolo $PEQ$ è 24, si trova la lunghezza del lato $PQ$.
 
 **Risposta:** 08
-[[src_ioqm_2022__Q11]]
+[[Quesiti/src_ioqm_2022#q11|src_ioqm_2022__Q11]]
 
 
 
@@ -354,7 +354,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Dato che $\triangle ABC$ con $\angle B = 60^\circ$ e $\angle C = 30^\circ$, $P, Q, R$ devono essere punti sui lati $BA$, $AC$ e $CB$ rispettivamente in modo tale che $BPQR$ sia un trapezio di trapezium con $PQ \parallel BR$ e $BP = QR$. Trova il valore minimo possibile di $\frac{[ABC]}{[BPQR]}$, dove $[S]$ indica l'area di qualsiasi poligono $S$.
 
 **Risposta:** 03
-[[src_ioqm_2022__Q12]]
+[[Quesiti/src_ioqm_2022#q12|src_ioqm_2022__Q12]]
 
 
 
@@ -383,7 +383,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Che $ABC$ sia un triangolo e che $D$ sia un punto sul segmento $BC$ tale che $AD = BC$. Supponiamo che $\angle CAD = x^\circ$, $\angle ABC = y^\circ$ e $\angle ACB = z^\circ$ e $x, y, z$ siano in una progressione aritmetica in quell'ordine in cui la differenza comune è positiva. Trovare il più grande valore possibile di $\angle ABC$ in gradi.
 
 **Risposta:** 59
-[[src_ioqm_2022__Q13]]
+[[Quesiti/src_ioqm_2022#q13|src_ioqm_2022__Q13]]
 
 
 
@@ -416,7 +416,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Se $x, y, z$ sono numeri interi non zeri con $\gcd(m, n) = 1$, trovi $m + n$.
 
 **Risposta:** 16
-[[src_ioqm_2022__Q14]]
+[[Quesiti/src_ioqm_2022#q14|src_ioqm_2022__Q14]]
 
 
 
@@ -447,7 +447,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > $x, y$ siano numeri reali come $xy = 1$. Se $T + t$ può essere espresso nella forma $\frac{m}{n}$ dove $m, n$ sono numeri interi non zero con $\gcd(m, n) = 1$, trovare il valore di $m + n$.
 
 **Risposta:** 25
-[[src_ioqm_2022__Q15]]
+[[Quesiti/src_ioqm_2022#q15|src_ioqm_2022__Q15]]
 
 
 
@@ -478,7 +478,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Lasciate che $a, b, c$ siano reali che soddisfino $$3ab + 2 = 6b, \quad 3bc + 2 = 5c, \quad 3ca + 2 = 4a.$$ Lasciate che $\mathbb{Q}$ denotino l'insieme di tutti i numeri razionali. Poiché il prodotto $abc$ può assumere due valori $\frac{r}{s} \in \mathbb{Q}$ e $\frac{t}{u} \in \mathbb{Q}$, nella forma più bassa, trova $r + s + t + u$.
 
 **Risposta:** 18
-[[src_ioqm_2022__Q16]]
+[[Quesiti/src_ioqm_2022#q16|src_ioqm_2022__Q16]]
 
 
 
@@ -507,7 +507,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 > Per un intero positivo $n > 1$, $g(n)$ indichi il più grande divisore primo di $n$ e $f(n) = n - g(n)$. Ad esempio, $g(10) = 5$, $f(10) = 5$ e $g(13) = 1$, $f(13) = 1$. $N$ sia il numero intero positivo più piccolo tale che $f(f(f(N))) = 97$. Trova il numero intero più grande non superiore a $\sqrt{N}$.
 
 **Risposta:** 09
-[[src_ioqm_2022__Q17]]
+[[Quesiti/src_ioqm_2022#q17|src_ioqm_2022__Q17]]
 
 
 
@@ -538,7 +538,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 > $m, n$ siano numeri naturali in modo tale che $$m + 3n - 5 = 2\,\text{lcm}(m, n) - 11\,\gcd(m, n).$$ trovi il valore massimo possibile di $m + n$.
 
 **Risposta:** 70
-[[src_ioqm_2022__Q18]]
+[[Quesiti/src_ioqm_2022#q18|src_ioqm_2022__Q18]]
 
 
 
@@ -567,7 +567,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 > Considera una stringa di $n$ $1$s. Vogliamo inserire segni $+$ in mezzo in modo che la somma sia di 1000. Per esempio, se $n = 190$, si può mettere $+$ segni in modo da ottenere $11$ novanta volte, e ottenere la somma di 1000. Se $a$ è il numero di integri positivi $n$ per i quali è possibile posizionare segni $+$ per ottenere la somma di 1000, si trova la somma delle cifre di $a$.
 
 **Risposta:** 09
-[[src_ioqm_2022__Q19]]
+[[Quesiti/src_ioqm_2022#q19|src_ioqm_2022__Q19]]
 
 
 
@@ -596,7 +596,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 > Per un intero $n \geq 3$ e per una permutazione $\sigma = (p_1, p_2, \ldots, p_n)$ di $\{1, 2, \ldots, n\}$, diciamo $p_i$ è un punto di riferimento se $2 \leq i \leq n-1$ e $(p_{i-1} - p_i)(p_{i+1} - p_i) > 0$. Per esempio, per $n = 7$, la permutazione $(2, 7, 6, 4, 5, 1, 3)$ ha 4 punti di riferimento: $p_2 = 7$, $p_4 = 4$, $p_5 = 5$ e $p_6 = 1$. Per un dato $n \geq 3$, $L(n)$ indica il numero di permutazioni di $\{1, 2, \ldots, n\}$ con esattamente un punto di riferimento. Trova il massimo $n \geq 3$ per il quale $L(n)$ è un quadrato perfetto.
 
 **Risposta:** 03
-[[src_ioqm_2022__Q20]]
+[[Quesiti/src_ioqm_2022#q20|src_ioqm_2022__Q20]]
 
 
 
@@ -625,7 +625,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 > Una formica è al vertice di un cubo. Ogni 10 minuti si sposta verso un vertice adiacente lungo un bordo. Se $N$ è il numero di viaggi di un'ora che terminano al vertice di partenza, trovare la somma dei quadrati delle cifre di $N$.
 
 **Risposta:** 74
-[[src_ioqm_2022__Q21]]
+[[Quesiti/src_ioqm_2022#q21|src_ioqm_2022__Q21]]
 
 
 
@@ -654,7 +654,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 > Una sequenza binaria è una sequenza in cui ogni termine è uguale a 0 o 1. Una sequenza binaria è chiamata amichevole se ogni termine è adiacente ad almeno un termine che è uguale a 1. Ad esempio, la sequenza $0, 1, 1, 0, 0, 1, 1, 1$ è amichevole. $F_n$ indichi il numero di sequenze binarie amichevoli con termini $n$. Trova il numero intero positivo più piccolo $n \geq 2$ tale da $F_n > 100$.
 
 **Risposta:** 11
-[[src_ioqm_2022__Q22]]
+[[Quesiti/src_ioqm_2022#q22|src_ioqm_2022__Q22]]
 
 
 
@@ -683,7 +683,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 > In un triangolo $ABC$, la media $AD$ divide $\angle BAC$ nel rapporto $1 : 2$. Estendere il $AD$ a $E$ in modo tale che $EB$ sia perpendicolare a $AB$. Dato che $BE = 3$, $BA = 4$, trovare il numero intero più vicino a $BC$.
 
 **Risposta:** 29
-[[src_ioqm_2022__Q23]]
+[[Quesiti/src_ioqm_2022#q23|src_ioqm_2022__Q23]]
 
 
 
@@ -712,4 +712,4 @@ Distribuire 52 palle identiche in 4 scatole, nessuna scatola vuota, differenze i
 > Il numero $N$ deve essere il numero di modi di distribuire 52 palle identiche in 4 scatole distinguibili in modo tale che nessuna scatola sia vuota e la differenza tra il numero di palle in due delle scatole non sia un multiple di 6. Se $N = 100a + b$, dove $a, b$ sono numeri interi positivi inferiori a 100, trovare $a + b$.
 
 **Risposta:** 81
-[[src_ioqm_2022__Q24]]
+[[Quesiti/src_ioqm_2022#q24|src_ioqm_2022__Q24]]

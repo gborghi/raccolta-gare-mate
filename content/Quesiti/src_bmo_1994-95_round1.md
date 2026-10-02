@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Trova tutti gli integri positivi i cui quadrati finiscono in quattro $4$s.
 
-[[src_bmo_1994-95_round1__Q01]]
+[[Quesiti/src_bmo_1994-95_round1#q01|src_bmo_1994-95_round1__Q01]]
 
 
 
@@ -50,7 +50,7 @@ level: BMO Round 1
 
 > $ABCDEFGH$ is a regular octagon with side $2$. $M$ is the midpoint of $BC$, and $N$ is the midpoint of $EF$. The lines $AM$, $CH$, $EF$ and $GN$ are drawn. Let $X$ be the intersection of $AM$ and $CH$, and let $Y$ be the intersection of $GN$ and $EF$ [exact auxiliary lines partially unclear in source]. Find the length of $XY$.
 
-![[src_bmo_1994-95_round1__Q02.png]]
+![[src_bmo_1994-95_round1__q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -66,9 +66,9 @@ level: BMO Round 1
 
 > $ABCDEFGH$ è un ottagono regolare con lato $2$. $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$. Le linee $AM$, $CH$, $EF$ e $GN$ sono disegnate. La $X$ è l'intersezione di $AM$ e $CH$, e la $Y$ è l'intersezione di $GN$ e $EF$ [linee ausiliarie esatte parzialmente non chiare nella fonte]. Trova la lunghezza di $XY$.
 
-![[src_bmo_1994-95_round1__Q02.png]]
+![[src_bmo_1994-95_round1__q02.png]]
 
-[[src_bmo_1994-95_round1__Q02]]
+[[Quesiti/src_bmo_1994-95_round1#q02|src_bmo_1994-95_round1__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 1
 > 
 > b) Trova il valore minimo dell'espressione $x^2 y + y^2 z + z^2 x$ quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
 
-[[src_bmo_1994-95_round1__Q03]]
+[[Quesiti/src_bmo_1994-95_round1#q03|src_bmo_1994-95_round1__Q03]]
 
 
 
@@ -126,7 +126,7 @@ level: BMO Round 1
 
 > $ABC$ è un triangolo, angolato a destra a $C$. I bisettori interni degli angoli $BAC$ e $ABC$ incontrano $BC$ e $CA$ rispettivamente a $P$ e $Q$. I punti $M$ e $N$ sono i piedi delle perpendicolari da $P$ e $Q$ a $AB$. Trova $MN$ in termini di lunghezze dei lati del triangolo.
 
-[[src_bmo_1994-95_round1__Q04]]
+[[Quesiti/src_bmo_1994-95_round1#q04|src_bmo_1994-95_round1__Q04]]
 
 
 
@@ -157,4 +157,4 @@ level: BMO Round 1
 > 
 > E se anche Biancaneve viene sempre?
 
-[[src_bmo_1994-95_round1__Q05]]
+[[Quesiti/src_bmo_1994-95_round1#q05|src_bmo_1994-95_round1__Q05]]

@@ -41,7 +41,7 @@ level: China Girls' Mathematical Olympiad
 > (2) Si può suddividere l'insieme $\{1, 2, \ldots, 99\}$ in 33 sottoinsiemi, ognuno contenente tre elementi, e le somme dei tre elementi di ciascun sottoinsieme sono tutte uguali? (Posato da Liu Shixiong)
 
 **Risposta:** (1) No; (2) Yes
-[[src_cn_cgmo_2008__Q01]]
+[[Quesiti/src_cn_cgmo_2008#q01|src_cn_cgmo_2008__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: China Girls' Mathematical Olympiad
 
 > Il polinomio reale $\varphi(x) = ax^3 + bx^2 + cx + d$ ha tre radici positive e $\varphi(0) < 0$. Prove che $$2b^3 + 9a^2 d - 7abc \le 0.$$ (Posato da Zhu Huawei)
 
-[[src_cn_cgmo_2008__Q02]]
+[[Quesiti/src_cn_cgmo_2008#q02|src_cn_cgmo_2008__Q02]]
 
 
 
@@ -85,7 +85,7 @@ level: China Girls' Mathematical Olympiad
 
 > Find the smallest constant $a > 1$, such that for any point $P$ inside a square $ABCD$ there exist two triangles among $\triangle PAB$, $\triangle PBC$, $\triangle PCD$, $\triangle PDA$ with the ratio between their areas belonging to the interval $[a^{-1}, a]$. (Posed by Li Weigu)
 
-![[src_cn_cgmo_2008__Q03.png]]
+![[src_cn_cgmo_2008__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -104,10 +104,10 @@ level: China Girls' Mathematical Olympiad
 
 > Trova la costante più piccola $a > 1$, in modo che per qualsiasi punto $P$ all'interno di un quadrato $ABCD$ esistano due triangoli tra $\triangle PAB$, $\triangle PBC$, $\triangle PCD$, $\triangle PDA$ con il rapporto tra le loro aree appartenenti all'intervallo $[a^{-1}, a]$. (Posato da Li Weigu)
 
-![[src_cn_cgmo_2008__Q03.png]]
+![[src_cn_cgmo_2008__q03.png]]
 
 **Risposta:** $\dfrac{1+\sqrt{5}}{2}$
-[[src_cn_cgmo_2008__Q03]]
+[[Quesiti/src_cn_cgmo_2008#q03|src_cn_cgmo_2008__Q03]]
 
 
 
@@ -120,7 +120,7 @@ level: China Girls' Mathematical Olympiad
 
 > Outside a convex quadrilateral $ABCD$ we construct equilateral triangles $ABQ$, $BCR$, $CDS$ and $DAP$. Denoting by $x$ the sum of the diagonals of $ABCD$, and by $y$ the sum of line segments joining the midpoints of opposite sides of $PQRS$, we find the maximum value of $\dfrac{y}{x}$. (Posed by Xiong Bin)
 
-![[src_cn_cgmo_2008__Q04.png]]
+![[src_cn_cgmo_2008__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
@@ -139,10 +139,10 @@ level: China Girls' Mathematical Olympiad
 
 > Al di fuori di un quadrilaterale converso $ABCD$ costruiamo triangoli equilaterali $ABQ$, $BCR$, $CDS$ e $DAP$. Indicando con $x$ la somma delle diagonali di $ABCD$, e con $y$ la somma dei segmenti di linea che uniscono i punti di mezzo dei lati opposti di $PQRS$, troviamo il valore massimo di $\dfrac{y}{x}$. (Posato da Xiong Bin)
 
-![[src_cn_cgmo_2008__Q04.png]]
+![[src_cn_cgmo_2008__q04.png]]
 
 **Risposta:** $\dfrac{1+\sqrt{3}}{2}$
-[[src_cn_cgmo_2008__Q04]]
+[[Quesiti/src_cn_cgmo_2008#q04|src_cn_cgmo_2008__Q04]]
 
 
 
@@ -155,7 +155,7 @@ level: China Girls' Mathematical Olympiad
 
 > Suppose that the convex quadrilateral $ABCD$ satisfies $AB = BC$, $AD = DC$. $E$ is a point on $AB$, and $F$ on $AD$, such that $B$, $E$, $F$, $D$ are concyclic. Draw $\triangle DPE$ directly similar to $\triangle ADC$, and draw $\triangle BQF$ directly similar to $\triangle ABC$. Prove that $A$, $P$, $Q$ are collinear. (Posed by Pao Zhonghao)
 
-![[src_cn_cgmo_2008__Q05.png]]
+![[src_cn_cgmo_2008__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -173,9 +173,9 @@ level: China Girls' Mathematical Olympiad
 
 > Supponiamo che il quadrilaterale convex $ABCD$ soddisfi $AB = BC$, $AD = DC$. $E$ è un punto su $AB$ e $F$ su $AD$, in modo che $B$, $E$, $F$, $D$ siano conciclici. Disegnare $\triangle DPE$ direttamente simile a $\triangle ADC$ e disegnare $\triangle BQF$ direttamente simile a $\triangle ABC$. Provare che $A$, $P$, $Q$ sono collineari. (Posato da Pao Zhonghao)
 
-![[src_cn_cgmo_2008__Q05.png]]
+![[src_cn_cgmo_2008__q05.png]]
 
-[[src_cn_cgmo_2008__Q05]]
+[[Quesiti/src_cn_cgmo_2008#q05|src_cn_cgmo_2008__Q05]]
 
 
 
@@ -208,7 +208,7 @@ level: China Girls' Mathematical Olympiad
 > Supponiamo che la sequenza dei numeri positivi $x_1, x_2, \ldots, x_n, \ldots$ soddisfi $(8x_2 - 7x_1)x_1^7 = 8$ e $$x_{k+1}x_{k-1} - x_k^2 = \frac{x_{k-1}^8 - x_k^8}{x_k^7 x_{k-1}^7}, \quad k \ge 2.$$ Trova un numero reale positivo $a$ in modo tale che quando $x_1 > a$ si ha $x_1 > x_2 > \cdots > x_n > \cdots$, e quando $0 < x_1 < a$ non si ha tale monotonia. (Posato da Li Shenghong)
 
 **Risposta:** $a = 8^{1/8}$
-[[src_cn_cgmo_2008__Q06]]
+[[Quesiti/src_cn_cgmo_2008#q06|src_cn_cgmo_2008__Q06]]
 
 
 
@@ -239,7 +239,7 @@ level: China Girls' Mathematical Olympiad
 > Per una scacchiera delle dimensioni $2008 \times 2008$, in ogni caso (tutti hanno colori diversi) scrivere una delle lettere $C$, $G$, $M$, $O$. Se ogni quadrato $2 \times 2$ contiene tutte queste quattro lettere, lo chiamiamo una scacchiera armonica. (Posato da Zuming Feng)
 
 **Risposta:** $12 \times 2^{2008} - 24$
-[[src_cn_cgmo_2008__Q07]]
+[[Quesiti/src_cn_cgmo_2008#q07|src_cn_cgmo_2008__Q07]]
 
 
 
@@ -268,4 +268,4 @@ level: China Girls' Mathematical Olympiad
 
 > Per un intero positivo $n$, $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Prove che ci sono infiniti numeri odd e numeri pari nella sequenza $f_1, f_2, \ldots$ ($\lfloor x \rfloor$ rappresenta il più grande numero intero che non supera $x$.) (Posato da Zuming Feng)
 
-[[src_cn_cgmo_2008__Q08]]
+[[Quesiti/src_cn_cgmo_2008#q08|src_cn_cgmo_2008__Q08]]

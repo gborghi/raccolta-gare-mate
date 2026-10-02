@@ -38,7 +38,7 @@ level: Coupe Animath Automne
 > *Solo una risposta numerica è prevista qui.*
 
 **Risposta:** 140 degrees
-[[src_canimath_2025_automne__Q01]]
+[[Quesiti/src_canimath_2025_automne#q01|src_canimath_2025_automne__Q01]]
 
 
 
@@ -51,7 +51,7 @@ level: Coupe Animath Automne
 
 > In the following figure there are $9$ circles. We say that two of these circles are connected if they are joined by a segment that passes through no other circle. Eva colors each of the circles either green or red. Once all the circles are colored, she wins one candy for each pair of two connected circles of different colors. Determine the maximal number of candies that Eva can obtain in this way.
 
-![[src_canimath_2025_automne__Q02.png]]
+![[src_canimath_2025_automne__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -67,9 +67,9 @@ level: Coupe Animath Automne
 
 > Nella figura seguente ci sono cerchi $9$. Diciamo che due di questi cerchi sono collegati se sono uniti da un segmento che non passa attraverso nessun altro cerchio. Eva colora ciascuna delle cerchie in verde o rosso. Una volta che tutti i cerchi sono colorati, vince un caramello per ogni coppia di due cerchi collegati di colori diversi. Determina il numero massimo di caramelle che Eva può ottenere in questo modo.
 
-![[src_canimath_2025_automne__Q02.png]]
+![[src_canimath_2025_automne__q02.png]]
 
-[[src_canimath_2025_automne__Q02]]
+[[Quesiti/src_canimath_2025_automne#q02|src_canimath_2025_automne__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: Coupe Animath Automne
 
 > Che $ABC$ sia un triangolo il cui lato più piccolo è $[BC]$, e che $D$ sia un punto sul segmento $[BC]$. Il segmento $E$ deve essere $[AC]$ in modo tale che $CD = CE$ e $F$ nel segmento $[AB]$ in modo tale che $BD = BF$. Infine $P$ è il punto simmetrico di $D$ rispetto a $B$ e $Q$ il punto simmetrico di $D$ rispetto a $C$. Il punto di intersezione delle linee $(QE)$ e $(PF)$ è $X$. Indicare che i punti $D$, $E$, $F$ e $X$ si trovano sullo stesso cerchio.
 
-[[src_canimath_2025_automne__Q03]]
+[[Quesiti/src_canimath_2025_automne#q03|src_canimath_2025_automne__Q03]]
 
 
 
@@ -123,7 +123,7 @@ level: Coupe Animath Automne
 
 > Hadriel ha scelto due enti rigorosamente positivi $a$ e $b$. Quando fa la divisione euclidica di $a$ per $b$, il rimanente è $2$. Quando fa la divisione euclidica di $b$ per $a$, il rimanente è $4$. Determinare tutti i valori possibili che $b$ può assumere.
 
-[[src_canimath_2025_automne__Q04]]
+[[Quesiti/src_canimath_2025_automne#q04|src_canimath_2025_automne__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: Coupe Animath Automne
 
 > Mostrate che tra quattro numeri reali rigorosamente positivi, esistono sempre due di essi la cui differenza (cioè la più grande delle due meno la più piccola) è rigorosamente inferiore a un terzo della somma delle altre due.
 
-[[src_canimath_2025_automne__Q05]]
+[[Quesiti/src_canimath_2025_automne#q05|src_canimath_2025_automne__Q05]]
 
 
 
@@ -176,7 +176,7 @@ level: Coupe Animath Automne
 
 > $ABCD$ sia un parallelo. Il punto $E$ deve essere un punto del segmento $[BC]$. Tracciamo il parallelo alla linea $(AE)$ che attraversa $D$, su cui posizionamo due punti, $F$ e $G$, in modo tale che $D$ si trova sul segmento $[FG]$ e in modo tale che il quadrilaterale $AEFG$ sia un parallelo. Indicare che le superfici dei due parallelogrammi $ABCD$ e $AEFG$ sono uguali.
 
-[[src_canimath_2025_automne__Q06]]
+[[Quesiti/src_canimath_2025_automne#q06|src_canimath_2025_automne__Q06]]
 
 
 
@@ -203,7 +203,7 @@ level: Coupe Animath Automne
 
 > Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
 
-[[src_canimath_2025_automne__Q07]]
+[[Quesiti/src_canimath_2025_automne#q07|src_canimath_2025_automne__Q07]]
 
 
 
@@ -233,7 +233,7 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[src_canimath_2025_automne__Q08]]
+[[Quesiti/src_canimath_2025_automne#q08|src_canimath_2025_automne__Q08]]
 
 
 
@@ -259,7 +259,7 @@ level: Coupe Animath Automne
 
 > $B$, $C$ siano due punti del piano, $K_1$ un semicircolo di diametro $[BC]$ e $A$ un punto su $K_1$. Il $K_2$ deve essere il semicircolo di diametro $[CA]$ e $K_3$ il semicircolo di diametro $[AB]$, situato al di fuori del triangolo $ABC$. Indichiamo con $S$ la superficie del triangolo $ABC$, con $S_1$ la superficie compresa tra l'arco $\widehat{AB}$ di $K_1$ e l'arco $\widehat{AB}$ di $K_3$, e con $S_2$ la superficie compresa tra l'arco $\widehat{AC}$ di $K_1$ e l'arco $\widehat{AC}$ di $K_2$. Mostra che $S = S_1 + S_2$.
 
-[[src_canimath_2025_automne__Q09]]
+[[Quesiti/src_canimath_2025_automne#q09|src_canimath_2025_automne__Q09]]
 
 
 
@@ -290,7 +290,7 @@ level: Coupe Animath Automne
 > 
 > Diciamo che i numeri reali $a$, $b$, $c$ sono in progressione geometrica se esiste un numero reale non zero $k$ tale che $c = kb = k^2 a$.*
 
-[[src_canimath_2025_automne__Q10]]
+[[Quesiti/src_canimath_2025_automne#q10|src_canimath_2025_automne__Q10]]
 
 
 
@@ -317,7 +317,7 @@ level: Coupe Animath Automne
 
 > Ci sono isole $20$ in Animatland; alcune sono collegate tra loro da rotte di traghetto che vanno in entrambe le direzioni. Ogni coppia di isole è collegata da un percorso massimo e ci sono in totale percorsi $172$. Mostrare che è possibile viaggiare da un'isola a un'altra cambiando il traghetto una volta al massimo (cioè passando per un'altra isola al massimo).
 
-[[src_canimath_2025_automne__Q11]]
+[[Quesiti/src_canimath_2025_automne#q11|src_canimath_2025_automne__Q11]]
 
 
 
@@ -344,7 +344,7 @@ level: Coupe Animath Automne
 
 > Marie scrive il numero $2$ su una lavagna. Poi, ogni minuto, calcola il prodotto di tutti i numeri scritti sulla lavagna e aggiunge $1$. Se $n$ è il risultato di questa operazione, Marie scrive sulla lavagna il più grande divisore primo di $n$. Marie non cancella mai i numeri dalla lavagna. Mostrare che Marie non scriverà mai il numero $5$ sulla lavagna.
 
-[[src_canimath_2025_automne__Q12]]
+[[Quesiti/src_canimath_2025_automne#q12|src_canimath_2025_automne__Q12]]
 
 
 
@@ -371,7 +371,7 @@ level: Coupe Animath Automne
 
 > Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
 
-[[src_canimath_2025_automne__Q13]]
+[[Quesiti/src_canimath_2025_automne#q13|src_canimath_2025_automne__Q13]]
 
 
 
@@ -398,7 +398,7 @@ level: Coupe Animath Automne
 
 > Che $ABC$ sia un triangolo che non è uguale a $A$. $D$, $E$ e $F$ siano i punti di mezzo dei lati $[BC]$, $[AC]$ e $[AB]$ rispettivamente. Il cerchio di diametro $[BC]$ taglia rispettivamente le metà linee $[DE)$ e $[DF)$ a $P$ e $Q$. Le linee $(BP)$ e $(CQ)$ si tagliano a $X$. La riga $(AX)$ taglia rispettivamente le righe $(DE)$ e $(DF)$ a $Y$ e $Z$. Indicare che il triangolo $DYZ$ è uguale.
 
-[[src_canimath_2025_automne__Q14]]
+[[Quesiti/src_canimath_2025_automne#q14|src_canimath_2025_automne__Q14]]
 
 
 
@@ -425,4 +425,4 @@ level: Coupe Animath Automne
 
 > $n \ge 2$ sia un numero intero fisso. Gaëtan sceglie i numeri reali $x_1, x_2, \ldots, x_n$ in modo tale che tra i numeri $n$ $$\frac{x_1}{1},\ \frac{x_1 + x_2}{2},\ \frac{x_1 + x_2 + x_3}{3},\ \ldots,\ \frac{x_1 + \cdots + x_n}{n},$$ il valore più grande preso sia $1$ e il valore più piccolo preso sia $0$. Tra i numeri $x_1, x_2, \ldots, x_n$, indichiamo con $a$ il più grande e con $b$ il più piccolo. Gaëtan calcola $a - b$ e scrive questa differenza sulla lavagna. Qual è il numero più grande che Gaëtan può scrivere sulla lavagna? Qual è il più piccolo?
 
-[[src_canimath_2025_automne__Q15]]
+[[Quesiti/src_canimath_2025_automne#q15|src_canimath_2025_automne__Q15]]

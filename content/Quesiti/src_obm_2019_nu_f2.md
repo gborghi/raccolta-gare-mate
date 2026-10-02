@@ -41,7 +41,7 @@ level: OBM Nível Universitário
 > 
 > (b) $A^4 + 6A^3 - 2I = 0$?
 
-[[src_obm_2019_nu_f2__Q01]]
+[[Quesiti/src_obm_2019_nu_f2#q01|src_obm_2019_nu_f2__Q01]]
 
 
 
@@ -78,7 +78,7 @@ level: OBM Nível Universitário
 > 
 > Prove che esiste una funzione continua e crescente $f : (0, +\infty) \to \mathbb{R}$ tale che per ogni $n \in \mathbb{N}$ abbiamo: $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n]}(\log^{[n]}(x) + 1)} = +\infty$$ $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n+1]}(\log^{[n+1]}(x) - 1)} = 0.$$
 
-[[src_obm_2019_nu_f2__Q02]]
+[[Quesiti/src_obm_2019_nu_f2#q02|src_obm_2019_nu_f2__Q02]]
 
 
 
@@ -107,7 +107,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 
 > Si devono dare i numeri reali $a$, $b$, $c$. Prova che il sistema di equazioni $$\begin{cases} 2x + y + z = \sqrt{c^2 + x^2} + \sqrt{c^2 + y^2} \\ x + 2y + z = \sqrt{b^2 + x^2} + \sqrt{b^2 + z^2} \\ x + y + 2z = \sqrt{a^2 + x^2} + \sqrt{a^2 + y^2} \end{cases}$$ ha esattamente una soluzione $(x, y, z)$ con $x, y, z \geq 0$.
 
-[[src_obm_2019_nu_f2__Q03]]
+[[Quesiti/src_obm_2019_nu_f2#q03|src_obm_2019_nu_f2__Q03]]
 
 
 
@@ -135,7 +135,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$: $$f(x f(y) + f(x)) + f(y^2) = f(x) + y f(x + y).$$
 
-[[src_obm_2019_nu_f2__Q04]]
+[[Quesiti/src_obm_2019_nu_f2#q04|src_obm_2019_nu_f2__Q04]]
 
 
 
@@ -164,7 +164,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 
 > Lasciate che $M$, $k$ siano numeri interi positivi. $X_{M,k}$ sia l'insieme dei multipli di numeri della forma $p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$ in cui $p_1, p_2, \ldots, p_k$ sono numeri primi in modo tale che $M \leq p_1 < p_2 < \cdots < p_k$ e $a_1, a_2, \ldots, a_k$ siano integri superiori o uguali a $k$. Prove che esistono numeri reali positivi $c(M, k)$ e $\beta(M, k)$ tali da $$\lim_{n \to \infty} \frac{|X_{M,k} \cap \{0, 1, \ldots, n\}|}{n^{\beta(M,k)}} = c(M, k),$$ e determina il valore di $\beta(M, k)$.
 
-[[src_obm_2019_nu_f2__Q05]]
+[[Quesiti/src_obm_2019_nu_f2#q05|src_obm_2019_nu_f2__Q05]]
 
 
 
@@ -204,4 +204,4 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 > 
 > Determinare il limite $$\lim_{n \to +\infty} \frac{f(n)}{n!}.$$
 
-[[src_obm_2019_nu_f2__Q06]]
+[[Quesiti/src_obm_2019_nu_f2#q06|src_obm_2019_nu_f2__Q06]]

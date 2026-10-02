@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > Prove che nei primi 60 termini della sequenza, almeno 49 hanno tre o più fattori primi (sono ammessi fattori primi ripetuti; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
 
-[[src_bmo2_2024__Q01]]
+[[Quesiti/src_bmo2_2024#q01|src_bmo2_2024__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: BMO Round 2
 
 > Trova tutte le funzioni $f$ dai numeri interi ai numeri interi in modo che per tutti i numeri interi $n$: $$2f(f(n)) = 5f(n) - 2n.$$
 
-[[src_bmo2_2024__Q02]]
+[[Quesiti/src_bmo2_2024#q02|src_bmo2_2024__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: BMO Round 2
 > 
 > Provare che il quadrilaterale $AXYP$ è ciclico.
 
-[[src_bmo2_2024__Q03]]
+[[Quesiti/src_bmo2_2024#q03|src_bmo2_2024__Q03]]
 
 
 
@@ -147,4 +147,4 @@ Quesiti
 
 > Lasciate che $m < n$ siano numeri interi positivi. Inizia con pile $n$, ciascuno degli oggetti $m$. eseguire ripetutamente la seguente operazione: scegliere due pile e rimuovere l'insieme degli oggetti $n$ da queste due pile. Per quale $(m, n)$ è possibile svuotare tutte le pile?
 
-[[src_bmo2_2024__Q04]]
+[[Quesiti/src_bmo2_2024#q04|src_bmo2_2024__Q04]]

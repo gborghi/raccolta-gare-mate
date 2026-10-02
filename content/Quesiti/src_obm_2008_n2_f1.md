@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{4}{5}$ \quad (C) $1$ \quad (D) $\dfrac{5}{4}$ \quad (E) $\dfrac{5}{3}$
 
-![[src_obm_2008_n2_f1__Q01.png]]
+![[src_obm_2008_n2_f1__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -39,10 +39,10 @@ level: OBM Nível 2
 > 
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{4}{5}$ \quad (C) $1$ \quad (D) $\dfrac{5}{4}$ \quad (E) $\dfrac{5}{3}$
 
-![[src_obm_2008_n2_f1__Q01.png]]
+![[src_obm_2008_n2_f1__q01.png]]
 
 **Risposta:** E
-[[src_obm_2008_n2_f1__Q01]]
+[[Quesiti/src_obm_2008_n2_f1#q01|src_obm_2008_n2_f1__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: OBM Nível 2
 > Quanti dei seguenti numeri sono superiori a $10$? $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$ (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Risposta:** C
-[[src_obm_2008_n2_f1__Q02]]
+[[Quesiti/src_obm_2008_n2_f1#q02|src_obm_2008_n2_f1__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: OBM Nível 2
 > $\sqrt{12^{12}}$ è uguale a: (A) $6^{6}$ \quad (B) $12^{2\sqrt{3}}$ \quad (C) $2^{12}\cdot 3^{3}$ \quad (D) $6^{12}$ \quad (E) $\sqrt{12}^{\sqrt{12}}$
 
 **Risposta:** C
-[[src_obm_2008_n2_f1__Q03]]
+[[Quesiti/src_obm_2008_n2_f1#q03|src_obm_2008_n2_f1__Q03]]
 
 
 
@@ -132,7 +132,7 @@ level: OBM Nível 2
 > Una grande impresa ha dipendenti $84$, che parlano almeno una delle due lingue, il portoghese e l'inglese. Inoltre, $20\%$ di chi parla portoghese parla anche inglese, e $80\%$ di chi parla inglese parla anche portoghese. Quanti dipendenti parlano entrambe le lingue? (A) $12$ \quad (B) $14$ \quad (C) $15$ \quad (D) $16$ \quad (E) $18$
 
 **Risposta:** D
-[[src_obm_2008_n2_f1__Q04]]
+[[Quesiti/src_obm_2008_n2_f1#q04|src_obm_2008_n2_f1__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: OBM Nível 2
 
 > Edmilson, Carlos ed Eduardo hanno guadagnato un totale di R\$150.00 washing cars. They earned the amounts in dimes (moedas de dez centavos). Since none of them had change to divide the equal amounts among the three, Carlos and Eduardo gave their dimes to Edmilson, who then had more money in dimes, and they divided the dimes among themselves. In the end, each one could divide his original amount of dimes; Eduardo received R\$10.00 in dime e gli altri divisi ugualmente, in modo che ognuno finisse con un numero intero di dime. Quanto guadagnava Eduardo prima della divisione? (A) R\$76.00 \quad (B) R\$51.00 \quad (C) R\$23.00 \quad (D) R\$50.00 \quad (E) R\$100.00
 
-[[src_obm_2008_n2_f1__Q05]]
+[[Quesiti/src_obm_2008_n2_f1#q05|src_obm_2008_n2_f1__Q05]]
 
 
 
@@ -187,7 +187,7 @@ level: OBM Nível 2
 
 > Alcune cifre sono scritte sulla lavagna. La media aritmetica del $5$ più grande è $68$ e la media aritmetica del $5$ più piccolo è $44$. La somma di tutti i numeri è: (A) $560$ \quad (B) $504$ \quad (C) $112$ \quad (D) $56$ \quad (E) $70$
 
-[[src_obm_2008_n2_f1__Q06]]
+[[Quesiti/src_obm_2008_n2_f1#q06|src_obm_2008_n2_f1__Q06]]
 
 
 
@@ -201,7 +201,7 @@ level: OBM Nível 2
 > How many squares have as vertices the points of the dotted grid (reticulado) shown beside?
 > (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
-![[src_obm_2008_n2_f1__Q07.png]]
+![[src_obm_2008_n2_f1__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -217,9 +217,9 @@ level: OBM Nível 2
 
 > Quanti quadrati hanno come vertici i punti della griglia puntata (reticulado) mostrati accanto? (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
-![[src_obm_2008_n2_f1__Q07.png]]
+![[src_obm_2008_n2_f1__q07.png]]
 
-[[src_obm_2008_n2_f1__Q07]]
+[[Quesiti/src_obm_2008_n2_f1#q07|src_obm_2008_n2_f1__Q07]]
 
 
 
@@ -247,7 +247,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > La prima fase dell'OBM si svolge il 14 giugno, sabato dell'anno bisto $2008$. Da ora in poi, tra quanti anni il 14 giugno sarà di nuovo sabato? (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
-[[src_obm_2008_n2_f1__Q08]]
+[[Quesiti/src_obm_2008_n2_f1#q08|src_obm_2008_n2_f1__Q08]]
 
 
 
@@ -275,7 +275,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Le cifre $a$, $b$ e $c$ sono tali che i numeri a due cifre $\overline{aa}$, $\overline{bc}$ e $\overline{cb}$ siano numeri primi e $\overline{aa}+\overline{bc}+\overline{cb}=\overline{aaa}$. Se $c<a$, allora $\overline{bc}$ è uguale a: (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
 
-[[src_obm_2008_n2_f1__Q09]]
+[[Quesiti/src_obm_2008_n2_f1#q09|src_obm_2008_n2_f1__Q09]]
 
 
 
@@ -309,7 +309,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Cinque integri positivi $a, b, c, d, e$ superiori a uno soddisfano le seguenti condizioni: $$a(b+c+d+e)=128$$ $$b(a+c+d+e)=155$$ $$c(a+b+d+e)=203$$ $$d(a+b+c+e)=243$$ $$e(a+b+c+d)=275$$ Quanto è $a+b+c+d+e$? (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
 
-[[src_obm_2008_n2_f1__Q10]]
+[[Quesiti/src_obm_2008_n2_f1#q10|src_obm_2008_n2_f1__Q10]]
 
 
 
@@ -340,7 +340,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > 
 > \textit{Osservazione:} Il triangolo ortico di un triangolo è il triangolo le cui vertici sono le intersezioni delle altitudini del triangolo con i rispettivi lati. Si può dimostrare che le altitudini di qualsiasi triangolo sono sempre i bisettori del suo triangolo ortico (l'ortocentro è il punto di incontro delle altitudini del triangolo originale). (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
 
-[[src_obm_2008_n2_f1__Q11]]
+[[Quesiti/src_obm_2008_n2_f1#q11|src_obm_2008_n2_f1__Q11]]
 
 
 
@@ -368,7 +368,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Quanti numeri interi positivi più piccoli di $500$ hanno esattamente $15$ distinti divisori di numeri interi positivi? (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
 
-[[src_obm_2008_n2_f1__Q12]]
+[[Quesiti/src_obm_2008_n2_f1#q12|src_obm_2008_n2_f1__Q12]]
 
 
 
@@ -396,7 +396,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > $P(n)$ sia la somma delle cifre del numero $n$. Per esempio, $P(1234)=1+2+3+4=10$. Qual è il valore di $P(1)+P(2)+P(3)+\ldots+P(1000)$? (A) $200$ \quad (B) $500$ \quad (C) $400$ \quad (D) $900$ \quad (E) $2250$
 
-[[src_obm_2008_n2_f1__Q13]]
+[[Quesiti/src_obm_2008_n2_f1#q13|src_obm_2008_n2_f1__Q13]]
 
 
 
@@ -424,7 +424,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > In quanti modi possiamo dividere R\$10.00 into coins of $10$ centavos and of $25$ centavos, using at least one coin of each type? (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
 
-[[src_obm_2008_n2_f1__Q14]]
+[[Quesiti/src_obm_2008_n2_f1#q14|src_obm_2008_n2_f1__Q14]]
 
 
 
@@ -452,7 +452,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > I numeri $a$, $b$, $c$, $d$ sono numeri interi come $a<2b$, $b<3c$, $c<4d$. Se $d<40$, il valore più grande possibile di $a$ sarà: (A) $960$ \quad (B) $959$ \quad (C) $951$ \quad (D) $934$ \quad (E) $927$
 
-[[src_obm_2008_n2_f1__Q15]]
+[[Quesiti/src_obm_2008_n2_f1#q15|src_obm_2008_n2_f1__Q15]]
 
 
 
@@ -479,7 +479,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > La figura seguente è un esempio di quadrato magico di ordine $4$. La somma dei numeri $4$ in ogni riga, colonna o diagonale è $34$. Quindi diciamo che la somma magica di questo quadrato magico è $34$. Supponiamo che esista un quadrato magico dell'ordine $7$, formato dai numeri interi da $1$ a $49$. Determina la sua somma magica. (A) $175$ \quad (B) $2450$ \quad (C) $1225$ \quad (D) $190$ \quad (E) $100$
 
-[[src_obm_2008_n2_f1__Q16]]
+[[Quesiti/src_obm_2008_n2_f1#q16|src_obm_2008_n2_f1__Q16]]
 
 
 
@@ -511,7 +511,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Si noti che: $$3^{2}+4^{2}=5^{2},$$ $$3^{3}+4^{3}+12^{2}=13^{2},$$ $$3^{4}+4^{4}+12^{2}+84^{2}=85^{2}.$$ Qual è il valore più piccolo possibile della somma $x+y$ con $x$, $y$ interi positivi come $3^{5}+4^{5}+12^{2}+84^{2}+x^{2}=y^{2}$? (A) $289$ \quad (B) $250$ \quad (C) $425$ \quad (D) $795$ \quad (E) $103$
 
-[[src_obm_2008_n2_f1__Q17]]
+[[Quesiti/src_obm_2008_n2_f1#q17|src_obm_2008_n2_f1__Q17]]
 
 
 
@@ -538,7 +538,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Un certo numero a tre cifre è $629$ volte inferiore alla somma di tutti gli altri numeri a tre cifre. Questo numero è: (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
 
-[[src_obm_2008_n2_f1__Q18]]
+[[Quesiti/src_obm_2008_n2_f1#q18|src_obm_2008_n2_f1__Q18]]
 
 
 
@@ -552,7 +552,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > Soninha has cards in the shape of cubes, all equal, with a different design on each of the six faces. She will use five colors (green, yellow, blue, vermilion and orange) to paint each card, in such a way that no two faces of the same card are painted the same color. The figure below, for example, shows two cards that are equal, but appear different because one of them was rotated to be obtained from the other. How many different cards can Soninha produce?
 > (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
 
-![[src_obm_2008_n2_f1__Q19.png]]
+![[src_obm_2008_n2_f1__q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -568,9 +568,9 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Soninha ha carte a forma di cubi, tutte uguali, con un design diverso su ciascuno dei sei volti. Utilizzerà cinque colori (verde, gialle, azzurre, rosso e arancione) per dipingere ogni scheda, in modo tale che due facce della stessa scheda non siano dipinte dello stesso colore. La figura qui sotto, ad esempio, mostra due carte che sono uguali, ma sembrano diverse perché una di loro è stata girata per essere ottenuta dall'altra. Quante carte diverse può produrre Soninha? (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
 
-![[src_obm_2008_n2_f1__Q19.png]]
+![[src_obm_2008_n2_f1__q19.png]]
 
-[[src_obm_2008_n2_f1__Q19]]
+[[Quesiti/src_obm_2008_n2_f1#q19|src_obm_2008_n2_f1__Q19]]
 
 
 
@@ -597,7 +597,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > In un triangolo $ABC$, $\angle A=20^\circ$ e $\angle B=110^\circ$. Se $I$ è l'incentro (centro del cerchio inciso) e $O$ è il circumcentro (centro del cerchio circoscritto) del triangolo $ABC$, qual è la misura dell'angolo $\angle IAO$? (A) $20^\circ$ \quad (B) $25^\circ$ \quad (C) $30^\circ$ \quad (D) $40^\circ$ \quad (E) $35^\circ$
 
-[[src_obm_2008_n2_f1__Q20]]
+[[Quesiti/src_obm_2008_n2_f1#q20|src_obm_2008_n2_f1__Q20]]
 
 
 
@@ -625,7 +625,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Una classe ha ragazzi e ragazze. Durante le vacanze, $60\%$ di tutti gli studenti di quella classe sono andati a fare lavori comunitari. Almeno quante ragazze hanno partecipato a questo lavoro? (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
 
-[[src_obm_2008_n2_f1__Q21]]
+[[Quesiti/src_obm_2008_n2_f1#q21|src_obm_2008_n2_f1__Q21]]
 
 
 
@@ -639,7 +639,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > In the figure below the points $A$, $B$, $C$ are collinear, as are the points $D$, $E$, $F$. The two lines $ABC$ and $DEF$ are parallel. Letting $A_1$, $A_2$ and $A_3$ be the areas of the highlighted regions in the figure, we may state that:
 > (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
 
-![[src_obm_2008_n2_f1__Q22.png]]
+![[src_obm_2008_n2_f1__q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -654,9 +654,9 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Nella figura seguente i punti $A$, $B$, $C$ sono collineari, così come i punti $D$, $E$, $F$. Le due linee $ABC$ e $DEF$ sono parallele. Lasciando $A_1$, $A_2$ e $A_3$ essere le aree delle regioni evidenziate nella figura, possiamo affermare che: (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
 
-![[src_obm_2008_n2_f1__Q22.png]]
+![[src_obm_2008_n2_f1__q22.png]]
 
-[[src_obm_2008_n2_f1__Q22]]
+[[Quesiti/src_obm_2008_n2_f1#q22|src_obm_2008_n2_f1__Q22]]
 
 
 
@@ -676,7 +676,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > \textit{Observation:} In the group, each team plays the others once; a victory gives $3$ points, a tie gives $1$ point to each, and the loser gains nothing; or, if there is a tie, each team gains $1$ point.
 > (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) It is not possible to know.
 
-![[src_obm_2008_n2_f1__Q23.png]]
+![[src_obm_2008_n2_f1__q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -698,9 +698,9 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > 
 > \textit{Osservazione:} Nel gruppo, ciascuna squadra gioca con le altre una volta; una vittoria dà $3$ punti, un pareggio dà $1$ punti a ciascuna, e il perdente non guadagna nulla; o, se c'è un pareggio, ogni squadra guadagna $1$ punti. (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) Non è possibile saperlo.
 
-![[src_obm_2008_n2_f1__Q23.png]]
+![[src_obm_2008_n2_f1__q23.png]]
 
-[[src_obm_2008_n2_f1__Q23]]
+[[Quesiti/src_obm_2008_n2_f1#q23|src_obm_2008_n2_f1__Q23]]
 
 
 
@@ -714,7 +714,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 > Below we have a multiplicative magic square, that is, the product of the numbers in each line, column and diagonal is the same. $\overline{ABCD}$ is a four-digit number, each letter representing a one-digit number, and $\overline{AC}$ represents the two-digit number whose digits are $A$ and $C$. Some cells of the square contain the given entries $4$, $\overline{AC}$, $C$ and $24$. The sum $A+B+C+D$ is:
 > (A) $17$ \quad (B) $18$ \quad (C) $19$ \quad (D) $20$ \quad (E) $21$
 
-![[src_obm_2008_n2_f1__Q24.png]]
+![[src_obm_2008_n2_f1__q24.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -730,9 +730,9 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Di seguito abbiamo un quadrato magico moltiplicativo, cioè il prodotto dei numeri in ogni riga, colonna e diagonale è lo stesso. $\overline{ABCD}$ è un numero a quattro cifre, ciascuna lettera rappresenta un numero a una cifra e $\overline{AC}$ rappresenta il numero a due cifre i cui numeri sono $A$ e $C$. Alcune celle del quadrato contengono le voci $4$, $\overline{AC}$, $C$ e $24$. La somma $A+B+C+D$ è: (A) $17$ \quad (B) $18$ \quad (C) $19$ \quad (D) $20$ \quad (E) $21$
 
-![[src_obm_2008_n2_f1__Q24.png]]
+![[src_obm_2008_n2_f1__q24.png]]
 
-[[src_obm_2008_n2_f1__Q24]]
+[[Quesiti/src_obm_2008_n2_f1#q24|src_obm_2008_n2_f1__Q24]]
 
 
 
@@ -760,4 +760,4 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 
 > Ho un cubo di legno con tre facce rosse e tre facce blu. È tagliato in cubetti $3\times 3\times 3=27$ più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu? (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
 
-[[src_obm_2008_n2_f1__Q25]]
+[[Quesiti/src_obm_2008_n2_f1#q25|src_obm_2008_n2_f1__Q25]]

@@ -51,7 +51,7 @@ level: 2 livello
 > - **(E)** None of the above
 
 **Answer:** A
-[[src_archimede_2020_2livello__Q01]]
+[[Quesiti/src_archimede_2020_2livello#q01|src_archimede_2020_2livello__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: 2 livello
 > Alberto and Barbara write numbers on the board. Alberto leaves and writes the real number x. Then Barbara writes number one. The two then alternate, and each turn they write a number. Albert in his turn multiplies the last number written for x2 and writes the result. Barbara in her turn sums up the last number written x + 1 and writes the result. They stop when they have 2020 numbers written on the board. Which of the following statements is always true? (A) There is at least one negative number written on the board (B) All numbers written on the board are positive (C) Alberto wrote only positive numbers (D) Alberto wrote only negative numbers (E) Barbara wrote only positive numbers
 
 **Answer:** E
-[[src_archimede_2020_2livello__Q02]]
+[[Quesiti/src_archimede_2020_2livello#q02|src_archimede_2020_2livello__Q02]]
 
 
 
@@ -131,7 +131,7 @@ level: 2 livello
 > - **(E)** 67
 
 **Answer:** B
-[[src_archimede_2020_2livello__Q03]]
+[[Quesiti/src_archimede_2020_2livello#q03|src_archimede_2020_2livello__Q03]]
 
 
 
@@ -175,7 +175,7 @@ level: 2 livello
 > - **(E)** √ 2 2
 
 **Answer:** B
-[[src_archimede_2020_2livello__Q04]]
+[[Quesiti/src_archimede_2020_2livello#q04|src_archimede_2020_2livello__Q04]]
 
 
 
@@ -218,7 +218,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(E)** None of the above
 
 **Answer:** C
-[[src_archimede_2020_2livello__Q05]]
+[[Quesiti/src_archimede_2020_2livello#q05|src_archimede_2020_2livello__Q05]]
 
 
 
@@ -265,7 +265,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(E)** 69
 
 **Answer:** C
-[[src_archimede_2020_2livello__Q06]]
+[[Quesiti/src_archimede_2020_2livello#q06|src_archimede_2020_2livello__Q06]]
 
 
 
@@ -308,7 +308,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(E)** 2
 
 **Answer:** B
-[[src_archimede_2020_2livello__Q07]]
+[[Quesiti/src_archimede_2020_2livello#q07|src_archimede_2020_2livello__Q07]]
 
 
 
@@ -350,7 +350,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(E)** 5005
 
 **Answer:** C
-[[src_archimede_2020_2livello__Q08]]
+[[Quesiti/src_archimede_2020_2livello#q08|src_archimede_2020_2livello__Q08]]
 
 
 
@@ -400,7 +400,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(E)** 5
 
 **Answer:** E
-[[src_archimede_2020_2livello__Q09]]
+[[Quesiti/src_archimede_2020_2livello#q09|src_archimede_2020_2livello__Q09]]
 
 
 
@@ -438,7 +438,7 @@ Playing with stacks of coins, who loses?
 > Agnese, Beatrice, Claudius and Darius play with 53 piles of coins. Anyway, he took two piles, these have a different number of coins. In each turn, a player picks a stack and removes a coin from it. He loses who by removing a coin from a stack makes this stack equal to another one on the table. A stack can have 0 coins and two stacks with 0 coins are considered equal. Agnese begins, then in order play Beatrice, Claudius and Darius, after which he touches Agnese again and it always proceeds in this order. If at the start of the game there are 2020 coins in total and everyone plays their best, who loses? (A) Agnese (B) Beatrice (C) Claudius (D) Darius (E) It is not possible to determine this with these data
 
 **Answer:** C
-[[src_archimede_2020_2livello__Q10]]
+[[Quesiti/src_archimede_2020_2livello#q10|src_archimede_2020_2livello__Q10]]
 
 
 
@@ -480,7 +480,7 @@ Playing with stacks of coins, who loses?
 > - **(E)** 102
 
 **Answer:** C
-[[src_archimede_2020_2livello__Q11]]
+[[Quesiti/src_archimede_2020_2livello#q11|src_archimede_2020_2livello__Q11]]
 
 
 
@@ -526,7 +526,7 @@ Playing with stacks of coins, who loses?
 > - **(E)** 5100 Problems with numerical answer  5 points
 
 **Answer:** D
-[[src_archimede_2020_2livello__Q12]]
+[[Quesiti/src_archimede_2020_2livello#q12|src_archimede_2020_2livello__Q12]]
 
 
 
@@ -561,7 +561,7 @@ Playing with stacks of coins, who loses?
 > The burglar Fabio is grappling with a safe guarded by a combination of five digits, each between 1 and 9. Fortunately for him, the poor housewives left a note with some indication: They are a, b, c, d and e, in order, the five digits of the combination. So both ae and abe and abde, read as numbers in base 10, are divisible by 11, but abcde is not. How many attempts will Fabio have to make to be sure he can open the safe?
 
 **Answer:** 64
-[[src_archimede_2020_2livello__Q13]]
+[[Quesiti/src_archimede_2020_2livello#q13|src_archimede_2020_2livello__Q13]]
 
 
 
@@ -594,7 +594,7 @@ Playing with stacks of coins, who loses?
 > How many polynomials are p(x) with real coefficients, of degree between 1 and 2020 (extremes included), for which there exists a real number α such that the equation p(x) 2 = p x2 + αp(x) is verified for each real number x?
 
 **Answer:** 4040
-[[src_archimede_2020_2livello__Q14]]
+[[Quesiti/src_archimede_2020_2livello#q14|src_archimede_2020_2livello__Q14]]
 
 
 
@@ -627,7 +627,7 @@ Playing with stacks of coins, who loses?
 
 > Demonstrative Exercise (a) Suppose n = k2 is a perfect square. Show that the number of positive divisors of n strictly less than k is equal to the number of n strictly greater than k divisors. (b) Suppose n = k2 is a perfect square. Prove that n has a maximum of 2k −1 positive divisors. (c) Find all positive integers k such that k2 has exactly 2k −1 positive divisors.
 
-[[src_archimede_2020_2livello__Q15]]
+[[Quesiti/src_archimede_2020_2livello#q15|src_archimede_2020_2livello__Q15]]
 
 
 
@@ -663,7 +663,7 @@ Playing with stacks of coins, who loses?
 
 > On a huge square sheet, Marco considers a rectangle with a length of 2020 squares and height 2. At this point it wants to combine with 20202 segments each of the 2020 square centers in the lower row of the rectangle to each of the square centers of the upper row. In addition, he wants that if two of these segments intersect (possibly only at one end) they are plotted with different-colored pens. (a) Demonstrate that it is impossible to satisfy Marco's requests if you have only 4038 different coloured pens. (b) Demonstrate that it is possible to draw the segments according to Marco's requests using 4039 colours.
 
-[[src_archimede_2020_2livello__Q16]]
+[[Quesiti/src_archimede_2020_2livello#q16|src_archimede_2020_2livello__Q16]]
 
 
 
@@ -700,4 +700,4 @@ Playing with stacks of coins, who loses?
 
 > Whether ABC is a slope triangle with BC > CA > AB. The circumferences passing through A of the centre are ω and γ, respectively, B and C. They intersect the BC segment in M and N, respectively. We construct Z as the symmetrical of A with respect to the mean point of MN. (a) Called P the intersection of ZM with AC, showing that CPM is isosceles. (b) This X is the intersection of ZM with ω distinct from M, showing that BX and AC are parallel. (c) This Y is the intersection of ZN with γ distinct from N, showing that A, X and Y are aligned.
 
-[[src_archimede_2020_2livello__Q17]]
+[[Quesiti/src_archimede_2020_2livello#q17|src_archimede_2020_2livello__Q17]]

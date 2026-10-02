@@ -47,7 +47,7 @@ level: OBM Nível 1
 > - **(E)** alle nove del giorno successivo
 
 **Risposta:** A
-[[src_obm_2006_n1_f1__Q01]]
+[[Quesiti/src_obm_2006_n1_f1#q01|src_obm_2006_n1_f1__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: OBM Nível 1
 > - **(D)** Maize needs double the water of soya.
 > - **(E)** Sugar cane is the crop that needs the most water to grow.
 
-![[src_obm_2006_n1_f1__Q02.png]]
+![[src_obm_2006_n1_f1__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -89,10 +89,10 @@ level: OBM Nível 1
 > - **(D)** Il mais ha bisogno del doppio dell'acqua di soia.
 > - **(E)** La canna da zucchero è il raccolto che ha più bisogno di acqua per crescere.
 
-![[src_obm_2006_n1_f1__Q02.png]]
+![[src_obm_2006_n1_f1__q02.png]]
 
 **Risposta:** E
-[[src_obm_2006_n1_f1__Q02]]
+[[Quesiti/src_obm_2006_n1_f1#q02|src_obm_2006_n1_f1__Q02]]
 
 
 
@@ -132,7 +132,7 @@ level: OBM Nível 1
 > - **(E)** 23
 
 **Risposta:** B
-[[src_obm_2006_n1_f1__Q03]]
+[[Quesiti/src_obm_2006_n1_f1#q03|src_obm_2006_n1_f1__Q03]]
 
 
 
@@ -175,7 +175,7 @@ level: OBM Nível 1
 > - **(E)** 8
 
 **Risposta:** B
-[[src_obm_2006_n1_f1__Q04]]
+[[Quesiti/src_obm_2006_n1_f1#q04|src_obm_2006_n1_f1__Q04]]
 
 
 
@@ -216,7 +216,7 @@ level: OBM Nível 1
 > - **(E)** 48
 
 **Risposta:** B
-[[src_obm_2006_n1_f1__Q05]]
+[[Quesiti/src_obm_2006_n1_f1#q05|src_obm_2006_n1_f1__Q05]]
 
 
 
@@ -257,7 +257,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 14
 
 **Risposta:** D
-[[src_obm_2006_n1_f1__Q06]]
+[[Quesiti/src_obm_2006_n1_f1#q06|src_obm_2006_n1_f1__Q06]]
 
 
 
@@ -276,7 +276,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 20
 > - **(E)** 25
 
-![[src_obm_2006_n1_f1__Q07.png]]
+![[src_obm_2006_n1_f1__q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -299,10 +299,10 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 20
 > - **(E)** 25
 
-![[src_obm_2006_n1_f1__Q07.png]]
+![[src_obm_2006_n1_f1__q07.png]]
 
 **Risposta:** B
-[[src_obm_2006_n1_f1__Q07]]
+[[Quesiti/src_obm_2006_n1_f1#q07|src_obm_2006_n1_f1__Q07]]
 
 
 
@@ -343,7 +343,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 1680
 
 **Risposta:** E
-[[src_obm_2006_n1_f1__Q08]]
+[[Quesiti/src_obm_2006_n1_f1#q08|src_obm_2006_n1_f1__Q08]]
 
 
 
@@ -384,7 +384,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 18 minuti
 
 **Risposta:** C
-[[src_obm_2006_n1_f1__Q09]]
+[[Quesiti/src_obm_2006_n1_f1#q09|src_obm_2006_n1_f1__Q09]]
 
 
 
@@ -425,7 +425,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(E)** 240
 
 **Risposta:** D
-[[src_obm_2006_n1_f1__Q10]]
+[[Quesiti/src_obm_2006_n1_f1#q10|src_obm_2006_n1_f1__Q10]]
 
 
 
@@ -444,7 +444,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 100
 > - **(E)** 120
 
-![[src_obm_2006_n1_f1__Q11.png]]
+![[src_obm_2006_n1_f1__q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -466,10 +466,10 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 100
 > - **(E)** 120
 
-![[src_obm_2006_n1_f1__Q11.png]]
+![[src_obm_2006_n1_f1__q11.png]]
 
 **Risposta:** C
-[[src_obm_2006_n1_f1__Q11]]
+[[Quesiti/src_obm_2006_n1_f1#q11|src_obm_2006_n1_f1__Q11]]
 
 
 
@@ -510,7 +510,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(E)** André va in treno e Alexandre in macchina.
 
 **Risposta:** D
-[[src_obm_2006_n1_f1__Q12]]
+[[Quesiti/src_obm_2006_n1_f1#q12|src_obm_2006_n1_f1__Q12]]
 
 
 
@@ -529,7 +529,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(D)** 100
 > - **(E)** 121
 
-![[src_obm_2006_n1_f1__Q13.png]]
+![[src_obm_2006_n1_f1__q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -552,10 +552,10 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(D)** 100
 > - **(E)** 121
 
-![[src_obm_2006_n1_f1__Q13.png]]
+![[src_obm_2006_n1_f1__q13.png]]
 
 **Risposta:** D
-[[src_obm_2006_n1_f1__Q13]]
+[[Quesiti/src_obm_2006_n1_f1#q13|src_obm_2006_n1_f1__Q13]]
 
 
 
@@ -576,7 +576,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(D)** 36104
 > - **(E)** 36108
 
-![[src_obm_2006_n1_f1__Q14.png]]
+![[src_obm_2006_n1_f1__q14.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
@@ -599,10 +599,10 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(D)** 36104
 > - **(E)** 36108
 
-![[src_obm_2006_n1_f1__Q14.png]]
+![[src_obm_2006_n1_f1__q14.png]]
 
 **Risposta:** C
-[[src_obm_2006_n1_f1__Q14]]
+[[Quesiti/src_obm_2006_n1_f1#q14|src_obm_2006_n1_f1__Q14]]
 
 
 
@@ -621,7 +621,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(D)** 640
 > - **(E)** 900
 
-![[src_obm_2006_n1_f1__Q15.png]]
+![[src_obm_2006_n1_f1__q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -643,10 +643,10 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 > - **(D)** 640
 > - **(E)** 900
 
-![[src_obm_2006_n1_f1__Q15.png]]
+![[src_obm_2006_n1_f1__q15.png]]
 
 **Risposta:** E
-[[src_obm_2006_n1_f1__Q15]]
+[[Quesiti/src_obm_2006_n1_f1#q15|src_obm_2006_n1_f1__Q15]]
 
 
 
@@ -687,7 +687,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** 6
 
 **Risposta:** E
-[[src_obm_2006_n1_f1__Q16]]
+[[Quesiti/src_obm_2006_n1_f1#q16|src_obm_2006_n1_f1__Q16]]
 
 
 
@@ -727,7 +727,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** 108
 
 **Risposta:** C
-[[src_obm_2006_n1_f1__Q17]]
+[[Quesiti/src_obm_2006_n1_f1#q17|src_obm_2006_n1_f1__Q17]]
 
 
 
@@ -746,7 +746,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(D)** 12
 > - **(E)** 21.3
 
-![[src_obm_2006_n1_f1__Q18.png]]
+![[src_obm_2006_n1_f1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -768,10 +768,10 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(D)** 12
 > - **(E)** 21.3
 
-![[src_obm_2006_n1_f1__Q18.png]]
+![[src_obm_2006_n1_f1__q18.png]]
 
 **Risposta:** B
-[[src_obm_2006_n1_f1__Q18]]
+[[Quesiti/src_obm_2006_n1_f1#q18|src_obm_2006_n1_f1__Q18]]
 
 
 
@@ -812,7 +812,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** LABIRS
 
 **Risposta:** D
-[[src_obm_2006_n1_f1__Q19]]
+[[Quesiti/src_obm_2006_n1_f1#q19|src_obm_2006_n1_f1__Q19]]
 
 
 
@@ -853,4 +853,4 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(E)** 256
 
 **Risposta:** A
-[[src_obm_2006_n1_f1__Q20]]
+[[Quesiti/src_obm_2006_n1_f1#q20|src_obm_2006_n1_f1__Q20]]

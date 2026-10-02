@@ -41,7 +41,7 @@ level: CAMP Selection Camp
 > 
 > Prova che ci sono solo finitamente molti interi positivi che non sono $n$-colorati, e trova il più grande tale intero.
 
-[[src_selection_camp_2022__Q01]]
+[[Quesiti/src_selection_camp_2022#q01|src_selection_camp_2022__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo che per tutti i numeri reali $x, y$, $$f(xf(y) + f(f(y))) + yf(f(x)) = f\!\left((f(f(x))+1)f(y)\right) + xy.$$
 
-[[src_selection_camp_2022__Q02]]
+[[Quesiti/src_selection_camp_2022#q02|src_selection_camp_2022__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: CAMP Selection Camp
 
 > Che $a_1, a_2, \ldots$ sia una sequenza di integri positivi tale che per tutti gli integri positivi $n$ e $m$, $a_{n+2m}$ sia divisibile da $a_n + a_{n+m}$. Dimostrare che esistono integri positivi $N$ e $d$ in modo tale che $a_n = a_{n+d}$ sia valido per tutti gli integri $n \ge N$.
 
-[[src_selection_camp_2022__Q03]]
+[[Quesiti/src_selection_camp_2022#q03|src_selection_camp_2022__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un numero intero positivo. Quando $a_1, a_2, \ldots, a_n$ è una permutazione di $1, 2, \ldots, n$, trovare il valore minimo possibile di $$\left\lfloor \frac{a_1}{1} \right\rfloor + \left\lfloor \frac{a_2}{2} \right\rfloor + \cdots + \left\lfloor \frac{a_n}{n} \right\rfloor.$$ Qui una permutazione di $1, 2, \ldots, n$ è una sequenza di lunghezza $n$ in cui ogni numero intero da $1$ a $n$ appare esattamente una volta, e $\lfloor r \rfloor$ indica il numero intero più grande non superiore al numero reale $r$.
 
-[[src_selection_camp_2022__Q04]]
+[[Quesiti/src_selection_camp_2022#q04|src_selection_camp_2022__Q04]]
 
 
 
@@ -160,7 +160,7 @@ level: CAMP Selection Camp
 > 
 > Trovare tutti i valori di $r$ in modo tale che Taro possa spostare il marchio rosso a $B$ in un massimo di $2021$ operazioni. Qui $PQ$ indica la lunghezza del segmento $PQ$.
 
-[[src_selection_camp_2022__Q05]]
+[[Quesiti/src_selection_camp_2022#q05|src_selection_camp_2022__Q05]]
 
 
 
@@ -187,7 +187,7 @@ level: CAMP Selection Camp
 
 > Il $\Gamma$ deve essere un cerchio di diametro $MN$ e $A$ deve essere un punto all'interno di $\Gamma$ (non su $\Gamma$). Il cerchio centrato a $N$ che passa attraverso $A$ deve incontrare $\Gamma$ nei punti $B$ e $C$. Il $P$ e il $Q$ devono essere punti distinti sul segmento $BC$ (esclusi i punti finali) in modo tale che $\angle BAP = \angle QAC$. Tra le intersezioni della linea $NP$ e $\Gamma$, $X$ sia quella diversa da $N$; tra le intersezioni della linea $NQ$ e $\Gamma$, $Y$ sia quella diversa da $N$. Prove che le tre linee $AM$, $PY$ e $QX$ sono simultanee.
 
-[[src_selection_camp_2022__Q06]]
+[[Quesiti/src_selection_camp_2022#q06|src_selection_camp_2022__Q06]]
 
 
 
@@ -214,7 +214,7 @@ level: CAMP Selection Camp
 
 > $ABCD$ sia un parallelo con $AC = BC$ e $P$ sia un punto nell'estensione laterale $AB$ oltre $B$. Il circoncircolo del triangolo $ACD$ incontra il segmento $PD$ in un punto $Q$ diverso da $D$, e il circoncircolo del triangolo $APQ$ incontra il segmento $PC$ in un punto $R$ diverso da $P$. Prove che le tre linee $CD$, $AQ$ e $BR$ sono simultanee. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_selection_camp_2022__Q07]]
+[[Quesiti/src_selection_camp_2022#q07|src_selection_camp_2022__Q07]]
 
 
 
@@ -257,7 +257,7 @@ level: CAMP Selection Camp
 > 
 > > Per due numeri interi distinti $x, y$ con $1 \le x, y \le n$, esiste un numero intero $s \ge 2$ e una sequenza $p_1, p_2, \ldots, p_s$ di numeri interi da $1$ a $n$ con $p_1 = x$ e $p_s = y$, in modo tale che per ogni numero intero $t$ con $1 \le t \le s-1$, almeno $\dfrac{m+1}{2}$ i delegati hanno un punteggio di preferenza strettamente superiore per il problema $p_{t+1}$ rispetto al problema $p_t$.
 
-[[src_selection_camp_2022__Q08]]
+[[Quesiti/src_selection_camp_2022#q08|src_selection_camp_2022__Q08]]
 
 
 
@@ -286,7 +286,7 @@ level: CAMP Selection Camp
 
 > Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutti i numeri reali $x, y$, $$f(x)f(y) - f(x+y) = yf(x) - f(x+f(y))$$ e $f(-1) = -1$.
 
-[[src_selection_camp_2022__Q09]]
+[[Quesiti/src_selection_camp_2022#q09|src_selection_camp_2022__Q09]]
 
 
 
@@ -313,7 +313,7 @@ level: CAMP Selection Camp
 
 > $n$ sia un intero positivo e $d(n)$ indichi il numero di divisori positivi di $n$. Trova tutti gli integri positivi $n$ per i quali esiste una sequenza $a_1, a_2, \ldots, a_{d(n)}$ composta da tutti i divisiori positivi distinti di $n$ in modo tale che per ogni intero positivo $i \le d(n)$, $a_1 + a_2 + \cdots + a_i$ sia un quadrato perfetto.
 
-[[src_selection_camp_2022__Q10]]
+[[Quesiti/src_selection_camp_2022#q10|src_selection_camp_2022__Q10]]
 
 
 
@@ -340,7 +340,7 @@ level: CAMP Selection Camp
 
 > $ABCD$ sia un quadrilaterale inciso in un cerchio $\Omega$. La tangente di $\Omega$ a $D$ incontra i raggi $BA$ e $BC$ rispettivamente ai punti $E$ e $F$. Il $T$ deve essere un punto all'interno del triangolo $ABC$ (non al suo confine) tale che $TE \parallel CD$ e $TF \parallel AD$. Inoltre, $K$ deve essere un punto del segmento $DF$ diverso da $D$ in modo tale che $TD = TK$. Prove che le tre linee $AC$, $DT$ e $BK$ sono simultanee. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-[[src_selection_camp_2022__Q11]]
+[[Quesiti/src_selection_camp_2022#q11|src_selection_camp_2022__Q11]]
 
 
 
@@ -383,4 +383,4 @@ Giocatore di coniglio su una griglia infinita. Il coniglio può evitare di esser
 > 
 > È possibile che il coniglio scelga la sua cella di partenza e continui a giocare senza che il gioco finisca, indipendentemente dal modo in cui il cacciatore sceglie $k$ e l'assegnazione di numeri interi?
 
-[[src_selection_camp_2022__Q12]]
+[[Quesiti/src_selection_camp_2022#q12|src_selection_camp_2022__Q12]]

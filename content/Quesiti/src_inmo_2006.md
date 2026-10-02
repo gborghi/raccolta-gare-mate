@@ -23,7 +23,7 @@ level: INMO
 > 
 > (ii) Suppose $BI$ extended meets $AC$ in $K$, and $D$, $E$ are the midpoints of $BC$, $BA$ respectively. Prove that $I$ is the circumcentre of triangle $DKE$.
 
-![[src_inmo_2006__Q01.png]]
+![[src_inmo_2006__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -43,9 +43,9 @@ level: INMO
 > 
 > (ii) Supponiamo che $BI$ si estenda a $AC$ in $K$, e $D$, $E$ sono rispettivamente i punti medi di $BC$ e $BA$. Prova che $I$ è il circoncentro del triangolo $DKE$.
 
-![[src_inmo_2006__Q01.png]]
+![[src_inmo_2006__q01.png]]
 
-[[src_inmo_2006__Q01]]
+[[Quesiti/src_inmo_2006#q01|src_inmo_2006__Q01]]
 
 
 
@@ -73,7 +73,7 @@ level: INMO
 
 > Prove che per ogni intero positivo $n$ esiste una coppia unica **** ordinata $(a, b)$ di interi positivi in modo tale che $$n = \frac{1}{2}(a + b - 1)(a + b - 2) + a.$$
 
-[[src_inmo_2006__Q02]]
+[[Quesiti/src_inmo_2006#q02|src_inmo_2006__Q02]]
 
 
 
@@ -102,7 +102,7 @@ level: INMO
 
 > $X$ indichi l'insieme di tutti i triples $(a, b, c)$ di numeri interi. Definire una funzione $f : X \to X$ da $$f(a, b, c) = (a + b + c,\; ab + bc + ca,\; abc).$$ Trovare tutti i triples $(a, b, c)$ in $X$ in modo tale che $f(f(a, b, c)) = (a, b, c)$.
 
-[[src_inmo_2006__Q03]]
+[[Quesiti/src_inmo_2006#q03|src_inmo_2006__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: INMO
 
 > Some 46 squares of a $9 \times 9$ board are coloured red. Show that there exists a $2 \times 2$ block of 4 squares of which at least 3 are coloured red.
 
-![[src_inmo_2006__Q04.png]]
+![[src_inmo_2006__q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -131,9 +131,9 @@ level: INMO
 
 > Circa 46 quadrati di una lavagna $9 \times 9$ sono di colore rosso. Indicare che esiste un blocco $2 \times 2$ di 4 quadrati di cui almeno 3 di colore rosso.
 
-![[src_inmo_2006__Q04.png]]
+![[src_inmo_2006__q04.png]]
 
-[[src_inmo_2006__Q04]]
+[[Quesiti/src_inmo_2006#q04|src_inmo_2006__Q04]]
 
 
 
@@ -150,7 +150,7 @@ level: INMO
 > 
 > (ii) $|\sqrt{c + a} - \sqrt{c + b}| = \sqrt{c - a - b}$.
 
-![[src_inmo_2006__Q05.png]]
+![[src_inmo_2006__q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
@@ -170,9 +170,9 @@ level: INMO
 > 
 > (ii) $|\sqrt{c + a} - \sqrt{c + b}| = \sqrt{c - a - b}$.
 
-![[src_inmo_2006__Q05.png]]
+![[src_inmo_2006__q05.png]]
 
-[[src_inmo_2006__Q05]]
+[[Quesiti/src_inmo_2006#q05|src_inmo_2006__Q05]]
 
 
 
@@ -205,4 +205,4 @@ level: INMO
 > 
 > (b) Trovare il numero intero positivo $M$ più piccolo per il quale ogni volta che un numero intero $n$ è tale che $n \ge M$, esiste un numero intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
 
-[[src_inmo_2006__Q06]]
+[[Quesiti/src_inmo_2006#q06|src_inmo_2006__Q06]]

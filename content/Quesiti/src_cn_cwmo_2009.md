@@ -32,7 +32,7 @@ level: China Western Mathematical Olympiad
 
 > $M$ sia un sottoinsieme di $\mathbb{R}$ ottenuto eliminando finitamente molti numeri reali da $\mathbb{R}$. Prova che per un dato numero positivo $n$ esiste un polinomio $f(x)$ di grado $n$ tale che tutti i suoi coefficienti e le sue radici reali $n$ siano in $M$.
 
-[[src_cn_cwmo_2009__Q01]]
+[[Quesiti/src_cn_cwmo_2009#q01|src_cn_cwmo_2009__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: China Western Mathematical Olympiad
 > $n \geq 3$ sia un dato numero intero. Determinare il numero intero positivo $k$ più piccolo per il quale esiste un insieme $A$ di numeri reali $k$ e $n$ di numeri reali $x_1, x_2, \ldots, x_n$ che sono distinti l'uno dall'altro in modo tale che $x_1 + x_2,\ x_2 + x_3,\ \ldots,\ x_{n-1} + x_n,\ x_n + x_1$ siano tutti nel insieme $A$.
 
 **Risposta:** 3
-[[src_cn_cwmo_2009__Q02]]
+[[Quesiti/src_cn_cwmo_2009#q02|src_cn_cwmo_2009__Q02]]
 
 
 
@@ -74,7 +74,7 @@ level: China Western Mathematical Olympiad
 
 > Let $H$ be the orthocenter of an acute triangle $ABC$, and $D$ be the midpoint of the side $BC$. A line passing through the point $H$ meets the sides $AB$, $AC$ at the points $F$, $E$ respectively, such that $AE = AF$. The line $EF$ meets the circumcircle of $\triangle ABC$ at the point $P$. Prove that $P$, $A$, $E$, $F$ are concyclic.
 
-![[src_cn_cwmo_2009__Q03.png]]
+![[src_cn_cwmo_2009__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -90,9 +90,9 @@ level: China Western Mathematical Olympiad
 
 > Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e $D$ sia il punto medio del lato $BC$. Una linea che attraversa il punto $H$ incontra i lati $AB$, $AC$ rispettivamente nei punti $F$ e $E$, in modo tale che $AE = AF$. La linea $EF$ incontra il circoncircolo di $\triangle ABC$ al punto $P$. Provare che $P$, $A$, $E$, $F$ sono conciclici.
 
-![[src_cn_cwmo_2009__Q03.png]]
+![[src_cn_cwmo_2009__q03.png]]
 
-[[src_cn_cwmo_2009__Q03]]
+[[Quesiti/src_cn_cwmo_2009#q03|src_cn_cwmo_2009__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: China Western Mathematical Olympiad
 
 > Prova che per un dato intero positivo $k$, esistono infinitamente molti interi positivi $n$ in modo che i numeri $$2^n + 3^n - 1,\ 2^n + 3^n - 2,\ \ldots,\ 2^n + 3^n - k$$ siano tutti composti.
 
-[[src_cn_cwmo_2009__Q04]]
+[[Quesiti/src_cn_cwmo_2009#q04|src_cn_cwmo_2009__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: China Western Mathematical Olympiad
 > Se $x_n$ è una sequenza tale da $x_0 \in \{5, 7\}$ e $x_{n+1} \in \left\{\frac{1}{2}x_n,\ 7x_n\right\}$ per $n = 1, 2, \ldots$. Determinare tutti i possibili casi delle ultime due cifre di $x_{2009}$.
 
 **Risposta:** 07, 25, 43
-[[src_cn_cwmo_2009__Q05]]
+[[Quesiti/src_cn_cwmo_2009#q05|src_cn_cwmo_2009__Q05]]
 
 
 
@@ -161,7 +161,7 @@ level: China Western Mathematical Olympiad
 
 > Let $D$ be a point on the side $BC$ of an acute triangle $ABC$. The circle with diameter $BD$ meets the lines $AB$ and $AD$ respectively at the points $Y$ and $Q$, which are different from the points $B$ and $D$. The circle with diameter $CD$ meets the lines $AC$ and $AD$ respectively at the points $P$ and $X$, which are different from the points $C$ and $D$. Through the point $A$ draw two lines which are perpendicular to $PX$ and $QY$ with the feet of perpendicular $M$ and $N$ respectively. Prove that $\triangle AMN \odot \triangle ABC$ if and only if $AD$ passes through the circumcenter of $\triangle ABC$.
 
-![[src_cn_cwmo_2009__Q06.png]]
+![[src_cn_cwmo_2009__q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -177,9 +177,9 @@ level: China Western Mathematical Olympiad
 
 > Il $D$ deve essere un punto sul lato $BC$ di un triangolo acuto $ABC$. Il cerchio di diametro $BD$ incontra rispettivamente le linee $AB$ e $AD$ nei punti $Y$ e $Q$, differenti dai punti $B$ e $D$. Il cerchio di diametro $CD$ incontra rispettivamente le linee $AC$ e $AD$ nei punti $P$ e $X$, differenti dai punti $C$ e $D$. Attraverso il punto $A$ disegnare due linee perpendicolari a $PX$ e $QY$ con i piedi perpendicolari $M$ e $N$ rispettivamente. Prove che $\triangle AMN \odot \triangle ABC$ se e solo se $AD$ passa attraverso il circondario di $\triangle ABC$.
 
-![[src_cn_cwmo_2009__Q06.png]]
+![[src_cn_cwmo_2009__q06.png]]
 
-[[src_cn_cwmo_2009__Q06]]
+[[Quesiti/src_cn_cwmo_2009#q06|src_cn_cwmo_2009__Q06]]
 
 
 
@@ -208,7 +208,7 @@ level: China Western Mathematical Olympiad
 > Ci sono studenti $s$ ($s > 12$) che partecipano a un concorso di matematica. Il documento di esame è composto da 15 domande complete. Per ogni domanda, il punteggio di una risposta corretta è di 1 punto e nessun punto verrà assegnato se la risposta è errata o lasciata in bianco. Dopo aver analizzato tutti i possibili casi di distribuzione dei punteggi di questi studenti $s$, si scopre che se la somma dei punteggi totali di qualsiasi 12 studenti non è inferiore a 16 punti, allora ci sono almeno 3 studenti tra questi studenti $s$ che rispondono correttamente ad almeno 4 domande identiche. Determinare il minimo valore possibile di $s$.
 
 **Risposta:** 911
-[[src_cn_cwmo_2009__Q07]]
+[[Quesiti/src_cn_cwmo_2009#q07|src_cn_cwmo_2009__Q07]]
 
 
 
@@ -237,4 +237,4 @@ level: China Western Mathematical Olympiad
 > $a_1, a_2, \ldots, a_n$ ($n \geq 3$) siano numeri reali che soddisfino $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$, in modo che per qualsiasi $k \in \{1, 2, \ldots, n\}$ si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
 
 **Risposta:** \frac{n+1}{n-1}
-[[src_cn_cwmo_2009__Q08]]
+[[Quesiti/src_cn_cwmo_2009#q08|src_cn_cwmo_2009__Q08]]

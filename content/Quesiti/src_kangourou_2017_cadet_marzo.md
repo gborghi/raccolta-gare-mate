@@ -39,7 +39,7 @@ level: kangourou
 > What time is it 17 hours after 5:00? A) 8:00 B) 10:00 C) 11:00 D) 12:00 E) 13:00
 
 **Answer:** B
-[[src_kangourou_2017_cadet_marzo__Q01]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q01|src_kangourou_2017_cadet_marzo__Q01]]
 
 
 
@@ -81,7 +81,7 @@ level: kangourou
 > C) 2/3 D) 3/4 E) 2/5
 
 **Answer:** A
-[[src_kangourou_2017_cadet_marzo__Q02]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q02|src_kangourou_2017_cadet_marzo__Q02]]
 
 
 
@@ -120,7 +120,7 @@ level: kangourou
 > E) 50
 
 **Answer:** C
-[[src_kangourou_2017_cadet_marzo__Q03]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q03|src_kangourou_2017_cadet_marzo__Q03]]
 
 
 
@@ -199,7 +199,7 @@ level: kangourou
 > E) 24
 
 **Answer:** E
-[[src_kangourou_2017_cadet_marzo__Q04]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q04|src_kangourou_2017_cadet_marzo__Q04]]
 
 
 
@@ -245,7 +245,7 @@ level: kangourou
 > E) 13
 
 **Answer:** C
-[[src_kangourou_2017_cadet_marzo__Q05]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q05|src_kangourou_2017_cadet_marzo__Q05]]
 
 
 
@@ -297,7 +297,7 @@ level: kangourou
 > E) 45
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q06]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q06|src_kangourou_2017_cadet_marzo__Q06]]
 
 
 
@@ -337,7 +337,7 @@ level: kangourou
 >
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q07]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q07|src_kangourou_2017_cadet_marzo__Q07]]
 
 
 
@@ -391,7 +391,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q08]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q08|src_kangourou_2017_cadet_marzo__Q08]]
 
 
 
@@ -442,7 +442,7 @@ level: kangourou
 > E) 13
 
 **Answer:** B
-[[src_kangourou_2017_cadet_marzo__Q09]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q09|src_kangourou_2017_cadet_marzo__Q09]]
 
 
 
@@ -483,7 +483,7 @@ level: kangourou
 > Federica the ant started from the left end of the stick depicted in the figure and walked 2/3 of its length. Ornella the little one started from the right end of the same stick and walked about 3/4 of its length. What fraction of the length of the stick now separates Federica from Ornella? A) 3/8 B) 1/12 C) 5/7 D) 1/2 E) 5/12 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2017_cadet_marzo__Q10]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q10|src_kangourou_2017_cadet_marzo__Q10]]
 
 
 
@@ -530,7 +530,7 @@ level: kangourou
 > E) 45
 
 **Answer:** B
-[[src_kangourou_2017_cadet_marzo__Q11]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q11|src_kangourou_2017_cadet_marzo__Q11]]
 
 
 
@@ -569,7 +569,7 @@ level: kangourou
 >
 
 **Answer:** A
-[[src_kangourou_2017_cadet_marzo__Q12]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q12|src_kangourou_2017_cadet_marzo__Q12]]
 
 
 
@@ -646,7 +646,7 @@ level: kangourou
 > E) 10
 
 **Answer:** B
-[[src_kangourou_2017_cadet_marzo__Q13]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q13|src_kangourou_2017_cadet_marzo__Q13]]
 
 
 
@@ -681,7 +681,7 @@ level: kangourou
 > This year exactly 35% of the participants in the Kangourou marathon were women and the men were 252 times more than the women. Between men and women, how many were in all the marathons? A) 802 B) 810 C) 822 D) 824 E) 840
 
 **Answer:** E
-[[src_kangourou_2017_cadet_marzo__Q14]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q14|src_kangourou_2017_cadet_marzo__Q14]]
 
 
 
@@ -728,7 +728,7 @@ level: kangourou
 > D) 3 E) There is not enough data to establish this.
 
 **Answer:** A
-[[src_kangourou_2017_cadet_marzo__Q15]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q15|src_kangourou_2017_cadet_marzo__Q15]]
 
 
 
@@ -811,7 +811,7 @@ level: kangourou
 > E) 39
 
 **Answer:** A
-[[src_kangourou_2017_cadet_marzo__Q16]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q16|src_kangourou_2017_cadet_marzo__Q16]]
 
 
 
@@ -860,7 +860,7 @@ Maximum networks of Michele, the other three make 20
 > E) 6
 
 **Answer:** C
-[[src_kangourou_2017_cadet_marzo__Q17]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q17|src_kangourou_2017_cadet_marzo__Q17]]
 
 
 
@@ -906,7 +906,7 @@ Maximum networks of Michele, the other three make 20
 >
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q18]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q18|src_kangourou_2017_cadet_marzo__Q18]]
 
 
 
@@ -954,7 +954,7 @@ Maximum networks of Michele, the other three make 20
 > E) 8
 
 **Answer:** B
-[[src_kangourou_2017_cadet_marzo__Q19]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q19|src_kangourou_2017_cadet_marzo__Q19]]
 
 
 
@@ -1029,7 +1029,7 @@ Maximum networks of Michele, the other three make 20
 > E) 23 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2017_cadet_marzo__Q20]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q20|src_kangourou_2017_cadet_marzo__Q20]]
 
 
 
@@ -1063,7 +1063,7 @@ Maximum networks of Michele, the other three make 20
 > Which of the following statements is true? A) Intersecting two triangles does not give a triangle. B) Intersecting two triangles does not give a quadrilateral. C) Intersecting two triangles does not give a pentagon. D) Intersecting two triangles does not give a hexagon. E) None of the above statements are true.
 
 **Answer:** C
-[[src_kangourou_2017_cadet_marzo__Q21]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q21|src_kangourou_2017_cadet_marzo__Q21]]
 
 
 
@@ -1116,7 +1116,7 @@ Maximum networks of Michele, the other three make 20
 > E) 21
 
 **Answer:** C
-[[src_kangourou_2017_cadet_marzo__Q22]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q22|src_kangourou_2017_cadet_marzo__Q22]]
 
 
 
@@ -1158,7 +1158,7 @@ Maximum networks of Michele, the other three make 20
 > D) 120 E) 121
 
 **Answer:** B
-[[src_kangourou_2017_cadet_marzo__Q23]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q23|src_kangourou_2017_cadet_marzo__Q23]]
 
 
 
@@ -1208,7 +1208,7 @@ Maximum networks of Michele, the other three make 20
 >
 
 **Answer:** A
-[[src_kangourou_2017_cadet_marzo__Q24]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q24|src_kangourou_2017_cadet_marzo__Q24]]
 
 
 
@@ -1258,7 +1258,7 @@ Maximum networks of Michele, the other three make 20
 > E) 13
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q25]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q25|src_kangourou_2017_cadet_marzo__Q25]]
 
 
 
@@ -1311,7 +1311,7 @@ Maximum networks of Michele, the other three make 20
 > E) 21
 
 **Answer:** A
-[[src_kangourou_2017_cadet_marzo__Q26]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q26|src_kangourou_2017_cadet_marzo__Q26]]
 
 
 
@@ -1360,7 +1360,7 @@ Maximum networks of Michele, the other three make 20
 > E) 8
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q27]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q27|src_kangourou_2017_cadet_marzo__Q27]]
 
 
 
@@ -1439,7 +1439,7 @@ Maximum networks of Michele, the other three make 20
 > E) 11
 
 **Answer:** E
-[[src_kangourou_2017_cadet_marzo__Q28]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q28|src_kangourou_2017_cadet_marzo__Q28]]
 
 
 
@@ -1475,7 +1475,7 @@ Maximum networks of Michele, the other three make 20
 > Two friends are training on a 720-meter-long circular track. They run in opposite directions, both at constant speed. The first takes four minutes to complete a lap, the second takes five. How many yards does the second run between two consecutive meetings with his friend? A) 355 B) 350 C) 340 D) 330 E) 320
 
 **Answer:** E
-[[src_kangourou_2017_cadet_marzo__Q29]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q29|src_kangourou_2017_cadet_marzo__Q29]]
 
 
 
@@ -1594,4 +1594,4 @@ Maximum networks of Michele, the other three make 20
 >
 
 **Answer:** D
-[[src_kangourou_2017_cadet_marzo__Q30]]
+[[Quesiti/src_kangourou_2017_cadet_marzo#q30|src_kangourou_2017_cadet_marzo__Q30]]

@@ -47,7 +47,7 @@ level: OBM Nível 1
 > (A) $1001$ \quad (B) $2007$ \quad (C) $2009$ \quad (D) $4008$ \quad (E) $4014$
 
 **Risposta:** E
-[[src_obm_2007_n1_f1__Q01]]
+[[Quesiti/src_obm_2007_n1_f1#q01|src_obm_2007_n1_f1__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: OBM Nível 1
 > (A) 4 \quad (B) 6 \quad (C) 7 \quad (D) 10 \quad (E) 12
 
 **Risposta:** D
-[[src_obm_2007_n1_f1__Q02]]
+[[Quesiti/src_obm_2007_n1_f1#q02|src_obm_2007_n1_f1__Q02]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 1
 > 
 > (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
 
-[[src_obm_2007_n1_f1__Q03]]
+[[Quesiti/src_obm_2007_n1_f1#q03|src_obm_2007_n1_f1__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: OBM Nível 1
 > 
 > (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
 
-![[src_obm_2007_n1_f1__Q04.png]]
+![[src_obm_2007_n1_f1__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -148,9 +148,9 @@ level: OBM Nível 1
 > 
 > (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
 
-![[src_obm_2007_n1_f1__Q04.png]]
+![[src_obm_2007_n1_f1__q04.png]]
 
-[[src_obm_2007_n1_f1__Q04]]
+[[Quesiti/src_obm_2007_n1_f1#q04|src_obm_2007_n1_f1__Q04]]
 
 
 
@@ -185,7 +185,7 @@ level: OBM Nível 1
 > (A) 1003 \quad (B) 1004 \quad (C) 2005 \quad (D) 2006 \quad (E) 2007
 
 **Risposta:** B
-[[src_obm_2007_n1_f1__Q05]]
+[[Quesiti/src_obm_2007_n1_f1#q05|src_obm_2007_n1_f1__Q05]]
 
 
 
@@ -218,7 +218,7 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > 
 > (A) $9\text{h}\,30\text{min}$ \quad (B) $9\text{h}\,50\text{min}$ \quad (C) $10\text{h}$ \quad (D) $10\text{h}\,10\text{min}$ \quad (E) $10\text{h}\,15\text{min}$
 
-[[src_obm_2007_n1_f1__Q06]]
+[[Quesiti/src_obm_2007_n1_f1#q06|src_obm_2007_n1_f1__Q06]]
 
 
 
@@ -233,7 +233,7 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-![[src_obm_2007_n1_f1__Q07.png]]
+![[src_obm_2007_n1_f1__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -253,9 +253,9 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-![[src_obm_2007_n1_f1__Q07.png]]
+![[src_obm_2007_n1_f1__q07.png]]
 
-[[src_obm_2007_n1_f1__Q07]]
+[[Quesiti/src_obm_2007_n1_f1#q07|src_obm_2007_n1_f1__Q07]]
 
 
 
@@ -289,7 +289,7 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
 
 **Risposta:** B
-[[src_obm_2007_n1_f1__Q08]]
+[[Quesiti/src_obm_2007_n1_f1#q08|src_obm_2007_n1_f1__Q08]]
 
 
 
@@ -321,7 +321,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) $5:1$ \quad (B) $16:1$ \quad (C) $12:1$ \quad (D) $40:3$ \quad (E) $13:1$
 
-[[src_obm_2007_n1_f1__Q09]]
+[[Quesiti/src_obm_2007_n1_f1#q09|src_obm_2007_n1_f1__Q09]]
 
 
 
@@ -336,7 +336,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
 
-![[src_obm_2007_n1_f1__Q10.png]]
+![[src_obm_2007_n1_f1__q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -355,9 +355,9 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
 
-![[src_obm_2007_n1_f1__Q10.png]]
+![[src_obm_2007_n1_f1__q10.png]]
 
-[[src_obm_2007_n1_f1__Q10]]
+[[Quesiti/src_obm_2007_n1_f1#q10|src_obm_2007_n1_f1__Q10]]
 
 
 
@@ -391,7 +391,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > (A) $68\%$ \quad (B) $6.8\%$ \quad (C) $0.68\%$ \quad (D) $3.2\%$ \quad (E) $32\%$
 
 **Risposta:** E
-[[src_obm_2007_n1_f1__Q11]]
+[[Quesiti/src_obm_2007_n1_f1#q11|src_obm_2007_n1_f1__Q11]]
 
 
 
@@ -424,7 +424,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
 
-[[src_obm_2007_n1_f1__Q12]]
+[[Quesiti/src_obm_2007_n1_f1#q12|src_obm_2007_n1_f1__Q12]]
 
 
 
@@ -439,7 +439,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
 
-![[src_obm_2007_n1_f1__Q13.png]]
+![[src_obm_2007_n1_f1__q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -459,9 +459,9 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
 
-![[src_obm_2007_n1_f1__Q13.png]]
+![[src_obm_2007_n1_f1__q13.png]]
 
-[[src_obm_2007_n1_f1__Q13]]
+[[Quesiti/src_obm_2007_n1_f1#q13|src_obm_2007_n1_f1__Q13]]
 
 
 
@@ -493,7 +493,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{5}{7}$ \quad (C) $\dfrac{7}{10}$ \quad (D) $\dfrac{5}{9}$ \quad (E) $\dfrac{3}{7}$
 
-[[src_obm_2007_n1_f1__Q14]]
+[[Quesiti/src_obm_2007_n1_f1#q14|src_obm_2007_n1_f1__Q14]]
 
 
 
@@ -508,7 +508,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
 
-![[src_obm_2007_n1_f1__Q15.png]]
+![[src_obm_2007_n1_f1__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -528,9 +528,9 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
 
-![[src_obm_2007_n1_f1__Q15.png]]
+![[src_obm_2007_n1_f1__q15.png]]
 
-[[src_obm_2007_n1_f1__Q15]]
+[[Quesiti/src_obm_2007_n1_f1#q15|src_obm_2007_n1_f1__Q15]]
 
 
 
@@ -545,7 +545,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
 
-![[src_obm_2007_n1_f1__Q16.png]]
+![[src_obm_2007_n1_f1__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -565,9 +565,9 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
 
-![[src_obm_2007_n1_f1__Q16.png]]
+![[src_obm_2007_n1_f1__q16.png]]
 
-[[src_obm_2007_n1_f1__Q16]]
+[[Quesiti/src_obm_2007_n1_f1#q16|src_obm_2007_n1_f1__Q16]]
 
 
 
@@ -600,7 +600,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 7 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 11
 
-[[src_obm_2007_n1_f1__Q17]]
+[[Quesiti/src_obm_2007_n1_f1#q17|src_obm_2007_n1_f1__Q17]]
 
 
 
@@ -632,7 +632,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) $90\text{ km/h}$ \quad (B) $95\text{ km/h}$ \quad (C) $100\text{ km/h}$ \quad (D) $110\text{ km/h}$ \quad (E) $120\text{ km/h}$
 
-[[src_obm_2007_n1_f1__Q18]]
+[[Quesiti/src_obm_2007_n1_f1#q18|src_obm_2007_n1_f1__Q18]]
 
 
 
@@ -647,7 +647,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
 
-![[src_obm_2007_n1_f1__Q19.png]]
+![[src_obm_2007_n1_f1__q19.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -667,9 +667,9 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
 
-![[src_obm_2007_n1_f1__Q19.png]]
+![[src_obm_2007_n1_f1__q19.png]]
 
-[[src_obm_2007_n1_f1__Q19]]
+[[Quesiti/src_obm_2007_n1_f1#q19|src_obm_2007_n1_f1__Q19]]
 
 
 
@@ -702,4 +702,4 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > 
 > (A) 1 \quad (B) 3 \quad (C) 5 \quad (D) 7 \quad (E) 9
 
-[[src_obm_2007_n1_f1__Q20]]
+[[Quesiti/src_obm_2007_n1_f1#q20|src_obm_2007_n1_f1__Q20]]

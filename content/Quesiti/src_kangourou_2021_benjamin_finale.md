@@ -35,7 +35,7 @@ level: kangourou
 > The amoeba are protozoa that reproduce in three minutes, that is, every three minutes each amoeba generates another identical one. No amoeba dies as long as it has room to reproduce. Two vessels of equal capacity initially contain one amoeba, the second eight amoeba. The second container is filled with amoeba after exactly three hours. How many minutes does it take to fill the first container?
 
 **Answer:** 189
-[[src_kangourou_2021_benjamin_finale__Q01]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q01|src_kangourou_2021_benjamin_finale__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: kangourou
 > The $25 \times 2 = 211$ equation is false, but you can turn it into a correct equation by adding 1 to some of its digits and subtracting 1 from the others. Write this new correct equation, motivating.
 
 **Answer:** 34x3=102
-[[src_kangourou_2021_benjamin_finale__Q02]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q02|src_kangourou_2021_benjamin_finale__Q02]]
 
 
 
@@ -118,7 +118,7 @@ level: kangourou
 > The small square in the figure has two consecutive vertices on two consecutive sides of the large square and the opposite side on its diagonal. If the area of the small square is 18, what is the area of the large square? (see figure)
 
 **Answer:** 81
-[[src_kangourou_2021_benjamin_finale__Q03]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q03|src_kangourou_2021_benjamin_finale__Q03]]
 
 
 
@@ -152,7 +152,7 @@ level: kangourou
 > Based on this experiment, what is a reliable number for the coriander in the bag?
 
 **Answer:** 1750
-[[src_kangourou_2021_benjamin_finale__Q04]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q04|src_kangourou_2021_benjamin_finale__Q04]]
 
 
 
@@ -179,7 +179,7 @@ level: kangourou
 
 > The numbers 1 to 7 are arranged in a clockwise direction on a circumference. You can change them as many times as you want, but each time just by adding 1 to two numbers that are in adjacent positions. Explain how it is possible, by following this rule, to get seven numbers that are all the same.
 
-[[src_kangourou_2021_benjamin_finale__Q05]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q05|src_kangourou_2021_benjamin_finale__Q05]]
 
 
 
@@ -208,4 +208,4 @@ level: kangourou
 > Consider the set of integers from 2 to 2021 inclusive. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. How many do you want to take away?
 
 **Answer:** 43
-[[src_kangourou_2021_benjamin_finale__Q06]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q06|src_kangourou_2021_benjamin_finale__Q06]]

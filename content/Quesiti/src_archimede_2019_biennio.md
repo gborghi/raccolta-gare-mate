@@ -47,7 +47,7 @@ level: biennio
 > - **(E)** 2
 
 **Answer:** D
-[[src_archimede_2019_biennio__Q01]]
+[[Quesiti/src_archimede_2019_biennio#q01|src_archimede_2019_biennio__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: biennio
 > - **(E)** f < e < d
 
 **Answer:** A
-[[src_archimede_2019_biennio__Q02]]
+[[Quesiti/src_archimede_2019_biennio#q02|src_archimede_2019_biennio__Q02]]
 
 
 
@@ -133,7 +133,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** Friday
 
 **Answer:** B
-[[src_archimede_2019_biennio__Q03]]
+[[Quesiti/src_archimede_2019_biennio#q03|src_archimede_2019_biennio__Q03]]
 
 
 
@@ -176,7 +176,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 127
 
 **Answer:** E
-[[src_archimede_2019_biennio__Q04]]
+[[Quesiti/src_archimede_2019_biennio#q04|src_archimede_2019_biennio__Q04]]
 
 
 
@@ -220,7 +220,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 19°
 
 **Answer:** E
-[[src_archimede_2019_biennio__Q05]]
+[[Quesiti/src_archimede_2019_biennio#q05|src_archimede_2019_biennio__Q05]]
 
 
 
@@ -264,7 +264,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 13
 
 **Answer:** C
-[[src_archimede_2019_biennio__Q06]]
+[[Quesiti/src_archimede_2019_biennio#q06|src_archimede_2019_biennio__Q06]]
 
 
 
@@ -307,7 +307,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 30
 
 **Answer:** A
-[[src_archimede_2019_biennio__Q07]]
+[[Quesiti/src_archimede_2019_biennio#q07|src_archimede_2019_biennio__Q07]]
 
 
 
@@ -351,7 +351,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 61, 50 e
 
 **Answer:** D
-[[src_archimede_2019_biennio__Q08]]
+[[Quesiti/src_archimede_2019_biennio#q08|src_archimede_2019_biennio__Q08]]
 
 
 
@@ -396,7 +396,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 30°
 
 **Answer:** D
-[[src_archimede_2019_biennio__Q09]]
+[[Quesiti/src_archimede_2019_biennio#q09|src_archimede_2019_biennio__Q09]]
 
 
 
@@ -437,7 +437,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 1
 
 **Answer:** C
-[[src_archimede_2019_biennio__Q10]]
+[[Quesiti/src_archimede_2019_biennio#q10|src_archimede_2019_biennio__Q10]]
 
 
 
@@ -482,7 +482,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 31
 
 **Answer:** A
-[[src_archimede_2019_biennio__Q11]]
+[[Quesiti/src_archimede_2019_biennio#q11|src_archimede_2019_biennio__Q11]]
 
 
 
@@ -524,7 +524,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 3/4
 
 **Answer:** B
-[[src_archimede_2019_biennio__Q12]]
+[[Quesiti/src_archimede_2019_biennio#q12|src_archimede_2019_biennio__Q12]]
 
 
 
@@ -568,7 +568,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 1/8
 
 **Answer:** B
-[[src_archimede_2019_biennio__Q13]]
+[[Quesiti/src_archimede_2019_biennio#q13|src_archimede_2019_biennio__Q13]]
 
 
 
@@ -608,7 +608,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** 70
 
 **Answer:** A
-[[src_archimede_2019_biennio__Q14]]
+[[Quesiti/src_archimede_2019_biennio#q14|src_archimede_2019_biennio__Q14]]
 
 
 
@@ -659,7 +659,7 @@ The day Barbara has to start to win the challenge
 > - **(E)** It could be 0 or 4, but not 2, 6 or 8.
 
 **Answer:** C
-[[src_archimede_2019_biennio__Q15]]
+[[Quesiti/src_archimede_2019_biennio#q15|src_archimede_2019_biennio__Q15]]
 
 
 
@@ -707,4 +707,4 @@ The day Barbara has to start to win the challenge
 > - **(E)** 50 Italian Mathematical Union Olympic Mathematics Project Ministry of Education, University and Research The Archimedes Games - Race Biennio 21 November 2019 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). Only one of these answers is correct. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each of the problems, type the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections are not allowed. • Completely list your month of birth, gender, class. Write the other information required in the STANDARD next to the arrows, with the utmost care and precision. The use of calculators or communication tools shall not be permitted. You have 110 minutes. - Good work. Good work. Name → COGNOM → Year of birth → Month of birth GEN FEB MAR APR MAG GIU LUG AGO SEVEN OTT NEW DAY of birth → Gender F M Class 1 2 Section → GROUP of the respondents T2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 **Answer:** E
-[[src_archimede_2019_biennio__Q16]]
+[[Quesiti/src_archimede_2019_biennio#q16|src_archimede_2019_biennio__Q16]]

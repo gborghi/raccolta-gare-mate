@@ -47,7 +47,7 @@ level: biennio
 > - **(E)** 37
 
 **Answer:** E
-[[src_archimede_2026_biennio__Q01]]
+[[Quesiti/src_archimede_2026_biennio#q01|src_archimede_2026_biennio__Q01]]
 
 
 
@@ -87,7 +87,7 @@ level: biennio
 > - **(E)** 7
 
 **Answer:** B
-[[src_archimede_2026_biennio__Q02]]
+[[Quesiti/src_archimede_2026_biennio#q02|src_archimede_2026_biennio__Q02]]
 
 
 
@@ -129,7 +129,7 @@ level: biennio
 > - **(E)** 6
 
 **Answer:** D
-[[src_archimede_2026_biennio__Q03]]
+[[Quesiti/src_archimede_2026_biennio#q03|src_archimede_2026_biennio__Q03]]
 
 
 
@@ -170,7 +170,7 @@ level: biennio
 > - **(E)** 115
 
 **Answer:** A
-[[src_archimede_2026_biennio__Q04]]
+[[Quesiti/src_archimede_2026_biennio#q04|src_archimede_2026_biennio__Q04]]
 
 
 
@@ -212,7 +212,7 @@ level: biennio
 > - **(E)** 60
 
 **Answer:** C
-[[src_archimede_2026_biennio__Q05]]
+[[Quesiti/src_archimede_2026_biennio#q05|src_archimede_2026_biennio__Q05]]
 
 
 
@@ -254,7 +254,7 @@ level: biennio
 > - **(E)** 145
 
 **Answer:** A
-[[src_archimede_2026_biennio__Q06]]
+[[Quesiti/src_archimede_2026_biennio#q06|src_archimede_2026_biennio__Q06]]
 
 
 
@@ -299,7 +299,7 @@ level: biennio
 > - **(E)** 28
 
 **Answer:** D
-[[src_archimede_2026_biennio__Q07]]
+[[Quesiti/src_archimede_2026_biennio#q07|src_archimede_2026_biennio__Q07]]
 
 
 
@@ -342,7 +342,7 @@ level: biennio
 > - **(E)** 124
 
 **Answer:** E
-[[src_archimede_2026_biennio__Q08]]
+[[Quesiti/src_archimede_2026_biennio#q08|src_archimede_2026_biennio__Q08]]
 
 
 
@@ -384,7 +384,7 @@ level: biennio
 > - **(E)** 448
 
 **Answer:** E
-[[src_archimede_2026_biennio__Q09]]
+[[Quesiti/src_archimede_2026_biennio#q09|src_archimede_2026_biennio__Q09]]
 
 
 
@@ -484,7 +484,7 @@ level: biennio
 > - **(E)** 304
 
 **Answer:** B
-[[src_archimede_2026_biennio__Q10]]
+[[Quesiti/src_archimede_2026_biennio#q10|src_archimede_2026_biennio__Q10]]
 
 
 
@@ -526,7 +526,7 @@ level: biennio
 > - **(E)** 1/64
 
 **Answer:** C
-[[src_archimede_2026_biennio__Q11]]
+[[Quesiti/src_archimede_2026_biennio#q11|src_archimede_2026_biennio__Q11]]
 
 
 
@@ -572,7 +572,7 @@ level: biennio
 > - **(E)** 11
 
 **Answer:** D
-[[src_archimede_2026_biennio__Q12]]
+[[Quesiti/src_archimede_2026_biennio#q12|src_archimede_2026_biennio__Q12]]
 
 
 
@@ -613,7 +613,7 @@ Ordination of k, k^2, k^3 by -1
 > - **(E)** k3 < k < k2
 
 **Answer:** A
-[[src_archimede_2026_biennio__Q13]]
+[[Quesiti/src_archimede_2026_biennio#q13|src_archimede_2026_biennio__Q13]]
 
 
 
@@ -655,7 +655,7 @@ Ordination of k, k^2, k^3 by -1
 > - **(E)** la 68a
 
 **Answer:** E
-[[src_archimede_2026_biennio__Q14]]
+[[Quesiti/src_archimede_2026_biennio#q14|src_archimede_2026_biennio__Q14]]
 
 
 
@@ -701,7 +701,7 @@ Ordination of k, k^2, k^3 by -1
 > - **(E)** 100
 
 **Answer:** B
-[[src_archimede_2026_biennio__Q15]]
+[[Quesiti/src_archimede_2026_biennio#q15|src_archimede_2026_biennio__Q15]]
 
 
 
@@ -761,4 +761,4 @@ Ordination of k, k^2, k^3 by -1
 > - **(E)** 42 211
 
 **Answer:** C
-[[src_archimede_2026_biennio__Q16]]
+[[Quesiti/src_archimede_2026_biennio#q16|src_archimede_2026_biennio__Q16]]

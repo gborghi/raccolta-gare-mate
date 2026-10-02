@@ -49,7 +49,7 @@ level: kangourou
 > - **(E)** 99.
 
 **Answer:** B
-[[src_kangourou_2001_student__Q01]]
+[[Quesiti/src_kangourou_2001_student#q01|src_kangourou_2001_student__Q01]]
 
 
 
@@ -90,7 +90,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 128. Kangourou 15 March 2001. Class of students. This item is not intended to be used. 2 = −1 999999999 9999 ... 9999 numbers 18 4 48 4 47 6
 
 **Answer:** A
-[[src_kangourou_2001_student__Q02]]
+[[Quesiti/src_kangourou_2001_student#q02|src_kangourou_2001_student__Q02]]
 
 
 
@@ -118,7 +118,7 @@ Maximum number of balls in a cubic box
 > If log 2 10 = then log 10 2 is valid.
 
 **Answer:** E
-[[src_kangourou_2001_student__Q03]]
+[[Quesiti/src_kangourou_2001_student#q03|src_kangourou_2001_student__Q03]]
 
 
 
@@ -151,7 +151,7 @@ Maximum number of balls in a cubic box
 > How many positive integers are prime numbers not less than 1000 whose sum of digits (in decimal form) is 2? (A) 2 (B) 4 (C) 6 (D) 7 (E) a number different from the previous ones.
 
 **Answer:** E
-[[src_kangourou_2001_student__Q04]]
+[[Quesiti/src_kangourou_2001_student#q04|src_kangourou_2001_student__Q04]]
 
 
 
@@ -181,7 +181,7 @@ Maximum number of balls in a cubic box
 > What is the probability that, if you randomly choose a 3-digit number (significant), it is equal to or greater than 399?
 
 **Answer:** B
-[[src_kangourou_2001_student__Q05]]
+[[Quesiti/src_kangourou_2001_student#q05|src_kangourou_2001_student__Q05]]
 
 
 
@@ -217,7 +217,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 10 10.
 
 **Answer:** D
-[[src_kangourou_2001_student__Q06]]
+[[Quesiti/src_kangourou_2001_student#q06|src_kangourou_2001_student__Q06]]
 
 
 
@@ -263,7 +263,7 @@ Maximum number of balls in a cubic box
 > - **(E)** e it is impossible to determine with these data alone, what is the relationship between x and y.
 
 **Answer:** A
-[[src_kangourou_2001_student__Q07]]
+[[Quesiti/src_kangourou_2001_student#q07|src_kangourou_2001_student__Q07]]
 
 
 
@@ -305,7 +305,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 1.
 
 **Answer:** B
-[[src_kangourou_2001_student__Q08]]
+[[Quesiti/src_kangourou_2001_student#q08|src_kangourou_2001_student__Q08]]
 
 
 
@@ -347,7 +347,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . The Commission's proposal for a regulation on the protection of the environment in the Member States of the European Communities is to be adopted by the Council on 15 March 2001. Class of students. This item is not intended to be used. 3
 
 **Answer:** D
-[[src_kangourou_2001_student__Q09]]
+[[Quesiti/src_kangourou_2001_student#q09|src_kangourou_2001_student__Q09]]
 
 
 
@@ -382,7 +382,7 @@ Maximum number of balls in a cubic box
 > m is a positive integer such that MCD (m, 35) > 10. Which of the following is certainly true? (A) the decimal representation of m has at least 3 digits (B) m is multiple of 35 (C) m is divisible by 15 (D) m is divisible by 25 (E) m is divisible by either 5 or 7 but not both. Note: MCD (a, b) indicates the maximum common divisor between a and b. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
-[[src_kangourou_2001_student__Q10]]
+[[Quesiti/src_kangourou_2001_student#q10|src_kangourou_2001_student__Q10]]
 
 
 
@@ -429,7 +429,7 @@ Maximum number of balls in a cubic box
 > - **(E)** None of the statements (A), (B), (C), (D) are true.
 
 **Answer:** C
-[[src_kangourou_2001_student__Q11]]
+[[Quesiti/src_kangourou_2001_student#q11|src_kangourou_2001_student__Q11]]
 
 
 
@@ -487,7 +487,7 @@ Maximum number of balls in a cubic box
 > The figure below shows the flat development of a solid bounded by three 4 cm side squares and two equilateral triangles. What is the volume of the solid?
 
 **Answer:** A
-[[src_kangourou_2001_student__Q12]]
+[[Quesiti/src_kangourou_2001_student#q12|src_kangourou_2001_student__Q12]]
 
 
 
@@ -531,7 +531,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 25. . In the case of the Commission, the Commission considers that it is appropriate to take the necessary measures in order to ensure that the measures are implemented in accordance with the principle of proportionality. Class of students. This item is not intended to be used. 4
 
 **Answer:** E
-[[src_kangourou_2001_student__Q13]]
+[[Quesiti/src_kangourou_2001_student#q13|src_kangourou_2001_student__Q13]]
 
 
 
@@ -571,7 +571,7 @@ Maximum number of balls in a cubic box
 > - **(D)** (10 8 )² (E) (10 4 )² + 1.
 
 **Answer:** A
-[[src_kangourou_2001_student__Q14]]
+[[Quesiti/src_kangourou_2001_student#q14|src_kangourou_2001_student__Q14]]
 
 
 
@@ -644,7 +644,7 @@ Maximum number of balls in a cubic box
 > ABCDEF is a regular hexagon. So the vector matches the vector.
 
 **Answer:** E
-[[src_kangourou_2001_student__Q15]]
+[[Quesiti/src_kangourou_2001_student#q15|src_kangourou_2001_student__Q15]]
 
 
 
@@ -689,7 +689,7 @@ Maximum number of balls in a cubic box
 > - **(E)** Depends on the outcome of the challenge between A and C.
 
 **Answer:** A
-[[src_kangourou_2001_student__Q16]]
+[[Quesiti/src_kangourou_2001_student#q16|src_kangourou_2001_student__Q16]]
 
 
 
@@ -734,7 +734,7 @@ Maximum number of balls in a cubic box
 > - **(E)** π √2 / 2 + 1.
 
 **Answer:** D
-[[src_kangourou_2001_student__Q17]]
+[[Quesiti/src_kangourou_2001_student#q17|src_kangourou_2001_student__Q17]]
 
 
 
@@ -776,7 +776,7 @@ Maximum number of balls in a cubic box
 > - **(E)** ab.
 
 **Answer:** E
-[[src_kangourou_2001_student__Q18]]
+[[Quesiti/src_kangourou_2001_student#q18|src_kangourou_2001_student__Q18]]
 
 
 
@@ -824,7 +824,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 8 e 16. AF AD BC ⋅ + − 2 . This appropriation is intended to cover expenditure relating to the implementation of the common agricultural policy. Class of students. This item is not intended to be used. 5
 
 **Answer:** E
-[[src_kangourou_2001_student__Q19]]
+[[Quesiti/src_kangourou_2001_student#q19|src_kangourou_2001_student__Q19]]
 
 
 
@@ -865,7 +865,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 60°. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** C
-[[src_kangourou_2001_student__Q20]]
+[[Quesiti/src_kangourou_2001_student#q20|src_kangourou_2001_student__Q20]]
 
 
 
@@ -899,7 +899,7 @@ Maximum number of balls in a cubic box
 > Find the length of the larger side of the rectangle shown in Figure 1 (the smaller side measures 1), knowing that the round figures are all circles.
 
 **Answer:** D
-[[src_kangourou_2001_student__Q21]]
+[[Quesiti/src_kangourou_2001_student#q21|src_kangourou_2001_student__Q21]]
 
 
 
@@ -947,7 +947,7 @@ Maximum number of balls in a cubic box
 > - **(E)** I don't know.
 
 **Answer:** C
-[[src_kangourou_2001_student__Q22]]
+[[Quesiti/src_kangourou_2001_student#q22|src_kangourou_2001_student__Q22]]
 
 
 
@@ -991,7 +991,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 9.
 
 **Answer:** E
-[[src_kangourou_2001_student__Q23]]
+[[Quesiti/src_kangourou_2001_student#q23|src_kangourou_2001_student__Q23]]
 
 
 
@@ -1033,7 +1033,7 @@ Maximum number of balls in a cubic box
 > - **(E)** more than four.
 
 **Answer:** B
-[[src_kangourou_2001_student__Q24]]
+[[Quesiti/src_kangourou_2001_student#q24|src_kangourou_2001_student__Q24]]
 
 
 
@@ -1074,7 +1074,7 @@ Maximum number of balls in a cubic box
 > - **(E)** 189.
 
 **Answer:** D
-[[src_kangourou_2001_student__Q25]]
+[[Quesiti/src_kangourou_2001_student#q25|src_kangourou_2001_student__Q25]]
 
 
 
@@ -1118,7 +1118,7 @@ Minimum crossings for two men and boys
 > - **(E)** 13. .5 2 (E) 5 (D) 2.5 (C) 2 5 2 (B) 5 2) A (+ − + − Kangourou 15 March 2001. Class of students. This item is not intended to be used. 6
 
 **Answer:** C
-[[src_kangourou_2001_student__Q26]]
+[[Quesiti/src_kangourou_2001_student#q26|src_kangourou_2001_student__Q26]]
 
 
 
@@ -1152,7 +1152,7 @@ Minimum crossings for two men and boys
 > If ABCD is a rectangle and k is a circumference centered on A and passing through C, what is the length of the EF string? (see figure).
 
 **Answer:** C
-[[src_kangourou_2001_student__Q27]]
+[[Quesiti/src_kangourou_2001_student#q27|src_kangourou_2001_student__Q27]]
 
 
 
@@ -1195,7 +1195,7 @@ Minimum crossings for two men and boys
 > - **(E)** 6001.
 
 **Answer:** B
-[[src_kangourou_2001_student__Q28]]
+[[Quesiti/src_kangourou_2001_student#q28|src_kangourou_2001_student__Q28]]
 
 
 
@@ -1240,7 +1240,7 @@ Minimum crossings for two men and boys
 > - **(E)** 12.
 
 **Answer:** C
-[[src_kangourou_2001_student__Q29]]
+[[Quesiti/src_kangourou_2001_student#q29|src_kangourou_2001_student__Q29]]
 
 
 
@@ -1394,4 +1394,4 @@ Minimum crossings for two men and boys
 > 1 Answers Category Student Competition of 15 March 2001
 
 **Answer:** C
-[[src_kangourou_2001_student__Q30]]
+[[Quesiti/src_kangourou_2001_student#q30|src_kangourou_2001_student__Q30]]

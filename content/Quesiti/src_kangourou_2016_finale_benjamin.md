@@ -35,7 +35,7 @@ level: kangourou
 > Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
 
 **Answer:** 0,2,4
-[[src_kangourou_2016_finale_benjamin__QB1]]
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb1|src_kangourou_2016_finale_benjamin__QB1]]
 
 
 
@@ -46,7 +46,7 @@ level: kangourou
 
 *lato del triangolo piu grande*
 
-![[src_kangourou_2016_finale_benjamin__probB2.png]]
+![[src_kangourou_2016_finale_benjamin__probb2.png]]
 
 > Osserva la figura. Tutti i triangoli che puoi vedere sono equilateri: i lati di quello nero (il più piccolo) sono lunghi $2$ cm, i lati di quelli grigi sono lunghi tutti $5$ cm. Quanto sono lunghi i lati del triangolo più grande (quello che li contiene tutti)? Come suggerisce la figura, i lati dei triangoli grigi e di quello nero che hanno vertici in comune stanno su una stessa retta. (vedi figura)
 
@@ -62,12 +62,12 @@ level: kangourou
 
 *side of the largest triangle *
 
-![[src_kangourou_2016_finale_benjamin__probB2.png]]
+![[src_kangourou_2016_finale_benjamin__probb2.png]]
 
 > Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of grey triangles and black triangles that have vertices in common are on the same straight line. (see figure)
 
 **Answer:** 19
-[[src_kangourou_2016_finale_benjamin__QB2]]
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb2|src_kangourou_2016_finale_benjamin__QB2]]
 
 
 
@@ -95,7 +95,7 @@ level: kangourou
 > In the strange Kang Republic, the year is divided into the same months as ours, with the same length, but the holidays are those whose number is divisible by $6$ or it is a prime number: the others are working days. If the holidays were to be added to each day of the week, i.e. a working day preceding and followed by a holiday, how many more holidays would there be in each year? (Remember that $1$ is not a prime number.)
 
 **Answer:** 23 o 24
-[[src_kangourou_2016_finale_benjamin__QB3]]
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb3|src_kangourou_2016_finale_benjamin__QB3]]
 
 
 
@@ -129,7 +129,7 @@ level: kangourou
 > Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
 **Answer:** busta A
-[[src_kangourou_2016_finale_benjamin__QB4]]
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb4|src_kangourou_2016_finale_benjamin__QB4]]
 
 
 
@@ -158,7 +158,7 @@ level: kangourou
 > A circular park is surrounded by a network of $2016$ meters. Each $8$ meter of network has a plant and each $64$ meter the plants are of the same type. How many different types of plants can be on the network at most?
 
 **Answer:** 4
-[[src_kangourou_2016_finale_benjamin__QB5]]
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb5|src_kangourou_2016_finale_benjamin__QB5]]
 
 
 
@@ -186,4 +186,4 @@ level: kangourou
 > The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 
 **Answer:** si, 40
-[[src_kangourou_2016_finale_benjamin__QB6]]
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb6|src_kangourou_2016_finale_benjamin__QB6]]

@@ -19,7 +19,7 @@ level: China National Team Selection Test
 
 > Let $H$ be the orthocenter of an acute-angled $\triangle ABC$ with $\angle A = 60^\circ$. Let points $M$ and $N$ be on sides $AB$ and $AC$ respectively, such that $\angle HMB = 60^\circ = \angle HNC$. Let $O$ be the circumcenter of $\triangle HMN$. Let points $D$ and $A$ be on the same side of line $BC$, such that $\triangle DBH$ is equilateral (see Fig. 5.1). Prove that points $H$, $O$ and $D$ are collinear.
 
-![[src_cn_ctst_b11_w142__Q01.png]]
+![[src_cn_ctst_b11_w142__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: China National Team Selection Test
 
 > Che $H$ sia l'ortocentro di un $\triangle ABC$ angolato acuto con $\angle A = 60^\circ$. I punti $M$ e $N$ siano rispettivamente sui lati $AB$ e $AC$, in modo che $\angle HMB = 60^\circ = \angle HNC$. Il $O$ deve essere il centro circundante di $\triangle HMN$. I punti $D$ e $A$ devono essere sullo stesso lato della riga $BC$, in modo che $\triangle DBH$ sia equilaterale (vedere figura 1). 5.1). Provare che i punti $H$, $O$ e $D$ sono collineari.
 
-![[src_cn_ctst_b11_w142__Q01.png]]
+![[src_cn_ctst_b11_w142__q01.png]]
 
-[[src_cn_ctst_2012__Q01]]
+[[Quesiti/src_cn_ctst_2012#q01|src_cn_ctst_2012__Q01]]
 
 
 
@@ -67,7 +67,7 @@ level: China National Team Selection Test
 
 > Prove che, per qualsiasi dato intero $k \ge 2$, esistono $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$, in modo tale che per qualsiasi numero reale $b_1, b_2, \ldots, b_k$ soddisfa $a_i \le b_i \le 2a_i$, $1 \le i \le k$, e qualsiasi intero non negativo $c_1, c_2, \ldots, c_k$, abbiamo fornito $$k \prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i,$$ $\prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i$. (Possibile da Chen Yonggao)
 
-[[src_cn_ctst_2012__Q02]]
+[[Quesiti/src_cn_ctst_2012#q02|src_cn_ctst_2012__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: China National Team Selection Test
 > $P(x) = x^{2012} + a_{2011}x^{2011} + a_{2010}x^{2010} + \cdots + a_1 x + a_0$ sia un polinomio di grado $2012$ di coefficienti reali con $1$ come suo coefficiente principale. Trovare il minimo del numero reale $c$ in modo tale che $|\operatorname{Im} z| \le c\,|\operatorname{Re} z|$, dove $\operatorname{Re} z$ e $\operatorname{Im} z$ sono rispettivamente le parti reali e immaginarie di qualsiasi radice di un polinomio ottenuta cambiando alcuni dei coefficienti di $P(x)$ ai loro numeri opposti. (postato da Zhu Huawei)
 
 **Risposta:** \cot\dfrac{\pi}{4022}
-[[src_cn_ctst_2012__Q03]]
+[[Quesiti/src_cn_ctst_2012#q03|src_cn_ctst_2012__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: China National Team Selection Test
 > 
 > (Posizionato da Xiong Bin)
 
-[[src_cn_ctst_2012__Q04]]
+[[Quesiti/src_cn_ctst_2012#q04|src_cn_ctst_2012__Q04]]
 
 
 
@@ -161,4 +161,4 @@ level: China National Team Selection Test
 > (Posizionato da Qu Zhenhua)
 
 **Risposta:** $2 \times 1006^3$
-[[src_cn_ctst_2012__Q05]]
+[[Quesiti/src_cn_ctst_2012#q05|src_cn_ctst_2012__Q05]]

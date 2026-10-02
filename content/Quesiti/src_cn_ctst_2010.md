@@ -33,7 +33,7 @@ level: China National Team Selection Test
 
 > Per il triangolo acuto $ABC$ con $AB > AC$, $M$ deve essere il punto medio del lato $BC$ e $P$ un punto all'interno di $\triangle AMC$ tale che $\angle MAB = \angle PAC$. $O_1$, $O_2$, $O_3$ siano rispettivamente i circoncentri di $\triangle ABC$, $\triangle ABP$ e $\triangle ACP$. Prova che la riga $AO_1$ divide il segmento $O_2O_3$.
 
-[[src_cn_ctst_2010__Q01]]
+[[Quesiti/src_cn_ctst_2010#q01|src_cn_ctst_2010__Q01]]
 
 
 
@@ -62,7 +62,7 @@ level: China National Team Selection Test
 
 > Che $A = \{a_1, a_2, \ldots, a_{2010}\}$ e $B = \{b_1, b_2, \ldots, b_{2010}\}$ siano due insieme di numeri complessi in modo tale che l'uguaglianza $$\sum_{1 \le i < j \le 2010}(a_i + a_j)^n = \sum_{1 \le i < j \le 2010}(b_i + b_j)^n$$ sia mantenuta per ogni $n = 1, 2, \ldots, 2010$. Prove che $A = B$.
 
-[[src_cn_ctst_2010__Q02]]
+[[Quesiti/src_cn_ctst_2010#q02|src_cn_ctst_2010__Q02]]
 
 
 
@@ -94,7 +94,7 @@ level: China National Team Selection Test
 > Lasciate che $n_1, n_2, \ldots, n_k$ siano integri positivi separati in coppia che soddisfino: (1) Nella rappresentazione decimale di ogni $n_i$, ogni cifra appartiene a $\{1, 2\}$. (2) Per qualsiasi $i \ne j$, $n_i$ non può essere ottenuto da $n_j$ aggiungendo alcune cifre sulla destra. Trovare il valore minimo di $\displaystyle\sum_{i=1}^{k} S(n_i)$, dove $S(m)$ indica la somma dei numeri di $m$ in rappresentazione decimale.
 
 **Risposta:** 179
-[[src_cn_ctst_2010__Q03]]
+[[Quesiti/src_cn_ctst_2010#q03|src_cn_ctst_2010__Q03]]
 
 
 
@@ -124,7 +124,7 @@ level: China National Team Selection Test
 
 > $G = G(V, E)$ sia un grafico semplice con insieme verticale $V$ e insieme di bordi $E$, e supponiamo che $|V| = n$. Una mappa $f: V \to \mathbb{Z}$ si dice buona se soddisfa: (1) $\displaystyle\sum_{v \in V} f(v) = |E|$; (2) Se si colorano arbitrariamente alcuni vertici in rosso, esiste un vertice rosso $v$ tale che $f(v)$ non è maggiore del numero di vertici adiacenti a $v$ che non sono colorati in rosso. Let $m(G) = \min\{\displaystyle\sum_{v} |f(v)| : f \text{ is good}\}$. Mostra che $m(G) \le n!$.
 
-[[src_cn_ctst_2010__Q04]]
+[[Quesiti/src_cn_ctst_2010#q04|src_cn_ctst_2010__Q04]]
 
 
 
@@ -151,7 +151,7 @@ level: China National Team Selection Test
 
 > Per $n \ge 2$, definire $a_n$ come il numero intero meno positivo non coprimo a $a_{n-1}$ e non uguale a $a_1, a_2, \ldots, a_{n-1}$. Provare che ogni numero intero tranne $1$ appare nella sequenza $\{a_n\}$.
 
-[[src_cn_ctst_2010__Q05]]
+[[Quesiti/src_cn_ctst_2010#q05|src_cn_ctst_2010__Q05]]
 
 
 
@@ -181,4 +181,4 @@ level: China National Team Selection Test
 
 > Date le cifre interi $n \ge 2$ e reali $r_1, r_2, \ldots, r_n$ nell'intervallo $[0, 1)$, dimostrare che esistono numeri reali $a_1, a_2, \ldots, a_n$ che soddisfano contemporaneamente le seguenti condizioni: (1) $a_0 = a_n = 0$; (2) $|a_i| \le 1$ per ogni $i = 0, 1, \ldots, n$; (3) $|a_i - a_{i-1}| = r_i$ per ogni $i = 1, 2, \ldots, n$.
 
-[[src_cn_ctst_2010__Q06]]
+[[Quesiti/src_cn_ctst_2010#q06|src_cn_ctst_2010__Q06]]

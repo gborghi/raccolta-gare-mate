@@ -43,7 +43,7 @@ level: kangourou
 > E) 3
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q01]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q01|src_kangourou_2016_junior_marzo__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: kangourou
 > 2. Dividing by 6 the positive integer x gets the remaining 3. What 's the rest of the JUNIOR division by 6 of 3x ? A) 4 B) 3 C) 2 D) 1 E) 0
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q02]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q02|src_kangourou_2016_junior_marzo__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: kangourou
 > 3. How many weeks is 2016 hours? A) 6 B) 8 C) 10 D) 12 E) 16
 
 **Answer:** D
-[[src_kangourou_2016_junior_marzo__Q03]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q03|src_kangourou_2016_junior_marzo__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: kangourou
 > 4. The Kangourou contest involves 30 questions in which each answer is either right or wrong. Last year Rossana took part, answering all questions and her correct answers were 50% more than those wrong. How many correct answers did Rossana give ? A) 10 B) 12 C) 15 D) 18 E) 20
 
 **Answer:** D
-[[src_kangourou_2016_junior_marzo__Q04]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q04|src_kangourou_2016_junior_marzo__Q04]]
 
 
 
@@ -157,7 +157,7 @@ level: kangourou
 > 5. Four of the ordered pairs you find in the answers, in a Cartesian reference system, represent the vertices of a square. Which one is not a vertex of this square? A) (-1, 3) C) (-2, -1) D) (1, 1) E) (3, -2) B) (0, -4)
 
 **Answer:** A
-[[src_kangourou_2016_junior_marzo__Q05]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q05|src_kangourou_2016_junior_marzo__Q05]]
 
 
 
@@ -185,7 +185,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 6. Luke, who has not yet learned the ordinary notation of negative numbers, has devised his own way of representing integers before zero; considering the relative integers closest to zero he would write: 0000, 000, 00, 0, 1, 2, 3, ... . Using its notation, what is the result of 000000  00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q06]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q06|src_kangourou_2016_junior_marzo__Q06]]
 
 
 
@@ -214,7 +214,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 7. I have odd dice. On each of their faces there's a number from 1 to 6, but every odd number has the minus sign pressed on it, so the corresponding number is negative. By rolling two of these dice and adding up the numbers on the upper faces, which of the following numbers can never be obtained? A) 3 B) 4 C) 5 D) 7 E) 8
 
 **Answer:** D
-[[src_kangourou_2016_junior_marzo__Q07]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q07|src_kangourou_2016_junior_marzo__Q07]]
 
 
 
@@ -242,7 +242,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 8. How many times do I have to swap two adjacent letters to change, step by step, the word VELO into the word LOVE? A) 3 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q08]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q08|src_kangourou_2016_junior_marzo__Q08]]
 
 
 
@@ -271,7 +271,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 9. Sonia wrote five different positive integers to one digit on the board. He discovered that the sum of two of any of them is never 10. Which of these numbers is Sonia sure wrote on the board? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** E
-[[src_kangourou_2016_junior_marzo__Q09]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q09|src_kangourou_2016_junior_marzo__Q09]]
 
 
 
@@ -299,7 +299,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 10. Which of the following geometric figures is not inserted into a square of 1 dm side? A) A circle with a radius of 5 cm. (b) A regular octagon on the side of 3.5 cm. C) A rectangular triangle with a hypotenuse of 1 dm. JUNIOR D) An equilateral triangle with a perimeter of 3 dm. E) None of them. The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** E
-[[src_kangourou_2016_junior_marzo__Q10]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q10|src_kangourou_2016_junior_marzo__Q10]]
 
 
 
@@ -327,7 +327,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 11. Four real numbers a, b, c, d prove these equality: a + 5 = $b^{2}$  1 = $c^{2}$ + 3 = d  4. Which of them is greater? (a) (b) (c) (d) (e) It is impossible to establish.
 
 **Answer:** D
-[[src_kangourou_2016_junior_marzo__Q11]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q11|src_kangourou_2016_junior_marzo__Q11]]
 
 
 
@@ -379,7 +379,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > 12. In the figure you see a square divided into nine side squares.
 
 **Answer:** A
-[[src_kangourou_2016_junior_marzo__Q12]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q12|src_kangourou_2016_junior_marzo__Q12]]
 
 
 
@@ -433,7 +433,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 >
 
 **Answer:** E
-[[src_kangourou_2016_junior_marzo__Q13]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q13|src_kangourou_2016_junior_marzo__Q13]]
 
 
 
@@ -527,7 +527,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 > What percentage of the area of the triangle is shaded? A) 80% B) 85% C) 88% D) 90% E) None of the above.
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q14]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q14|src_kangourou_2016_junior_marzo__Q14]]
 
 
 
@@ -602,7 +602,7 @@ Number in place of ? in the magic square multiplied by *
 > E) 25
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q15]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q15|src_kangourou_2016_junior_marzo__Q15]]
 
 
 
@@ -645,7 +645,7 @@ Number in place of ? in the magic square multiplied by *
 > Andrea has twelve identical cylinders, a circular section 2 cm in diameter; she has them in two groups of six, wrapping each group with plastic film. He thus obtained two solids whose bases are shown in the figures, which we will call for short parallelogram and triangle. As regards the perimeter of the two bases, it can be stated that A) the parallelogram is shorter than π cm. (b) the parallelogram is shorter than 4 cm. (c) that of the triangle is shorter than π cm. D) the triangle is shorter than 4 cm. E) are of the same length.
 
 **Answer:** E
-[[src_kangourou_2016_junior_marzo__Q16]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q16|src_kangourou_2016_junior_marzo__Q16]]
 
 
 
@@ -693,7 +693,7 @@ Number in place of ? in the magic square multiplied by *
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2016_junior_marzo__Q17]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q17|src_kangourou_2016_junior_marzo__Q17]]
 
 
 
@@ -747,7 +747,7 @@ Number in place of ? in the magic square multiplied by *
 >
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q18]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q18|src_kangourou_2016_junior_marzo__Q18]]
 
 
 
@@ -785,7 +785,7 @@ Number in place of ? in the magic square multiplied by *
 > The figure shows a cube in which four corners have been highlighted. What is the sum of their measurements in degrees? A) 315 B) 330 C) 345 D) 360 E) 375
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q19]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q19|src_kangourou_2016_junior_marzo__Q19]]
 
 
 
@@ -823,7 +823,7 @@ Number in place of ? in the magic square multiplied by *
 > There are 2016 kangaroos; each of them is either gray or red and there's at least one gray and at least one red. For each kangaroo K we write the ratio between the number of kangaroos that have a different color than K and the number of kangaroos that have the same color as K (K included). What's the sum of all these fractions? The Commission therefore concludes that the Commission is not in a position to take any further action. The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2016_junior_marzo__Q20]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q20|src_kangourou_2016_junior_marzo__Q20]]
 
 
 
@@ -866,7 +866,7 @@ Number in place of ? in the magic square multiplied by *
 > C) 1,25 D) 1,5 E) 1,75
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q21]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q21|src_kangourou_2016_junior_marzo__Q21]]
 
 
 
@@ -908,7 +908,7 @@ Maximum remaining two digits divided by the sum of its digits
 > D) 16
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q22]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q22|src_kangourou_2016_junior_marzo__Q22]]
 
 
 
@@ -1009,7 +1009,7 @@ Maximum remaining two digits divided by the sum of its digits
 > E) 15
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q23]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q23|src_kangourou_2016_junior_marzo__Q23]]
 
 
 
@@ -1065,7 +1065,7 @@ Maximum remaining two digits divided by the sum of its digits
 >
 
 **Answer:** E
-[[src_kangourou_2016_junior_marzo__Q24]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q24|src_kangourou_2016_junior_marzo__Q24]]
 
 
 
@@ -1100,7 +1100,7 @@ Maximum remaining two digits divided by the sum of its digits
 > If we list all the seven-digit numbers in increasing order that we can write using all the numbers from 1 to 7 for each, what's the number in place of 2016 on the list? A) 3547612 B) 3547621 C) 3657421 D) 4125673 E) 4125736
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q25]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q25|src_kangourou_2016_junior_marzo__Q25]]
 
 
 
@@ -1135,7 +1135,7 @@ Maximum remaining two digits divided by the sum of its digits
 > Two of the heights of a triangle measure 10 cm and 11 cm. Which of the following cannot be the centimetre measure of the third height? A) 5 B) 6 C) 7 D) 10 E) 100
 
 **Answer:** A
-[[src_kangourou_2016_junior_marzo__Q26]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q26|src_kangourou_2016_junior_marzo__Q26]]
 
 
 
@@ -1171,7 +1171,7 @@ Maximum remaining two digits divided by the sum of its digits
 > James wrote four consecutive positive integers. Adding three to three of these numbers in four possible ways never gets a prime number. What's the smallest whole James could have written? A) 12 B) 10 C) 7 D) 6 E) 3
 
 **Answer:** C
-[[src_kangourou_2016_junior_marzo__Q27]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q27|src_kangourou_2016_junior_marzo__Q27]]
 
 
 
@@ -1208,7 +1208,7 @@ Eva's sport, four round-table athletes
 > Four athletes sit around a round table; each of them practices one sport, judo, swimming, fencing, and volleyball. The swimmer sits to Ada's left; the judo player stands in front of Bruno; Eve and Philip sit side by side. There's a woman to the left of the volleyball player. What sport does Eva play? A) Judo B) Swimming C) Volley D) Scherm E) The information is insufficient.
 
 **Answer:** A
-[[src_kangourou_2016_junior_marzo__Q28]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q28|src_kangourou_2016_junior_marzo__Q28]]
 
 
 
@@ -1244,7 +1244,7 @@ Next month with a surprising date (eight digits apart)
 > A date may be written as GG.MM.AAAA: e.g. The date today is 17.03.2016. Let's say it's a "surprising" date if the eight digits that appear in it are two to two distinct. What month will the next "surprising" date fall? (a) March (b) June (c) July (d) August (e) December
 
 **Answer:** B
-[[src_kangourou_2016_junior_marzo__Q29]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q29|src_kangourou_2016_junior_marzo__Q29]]
 
 
 
@@ -1289,4 +1289,4 @@ Next month with a surprising date (eight digits apart)
 > Category
 
 **Answer:** D
-[[src_kangourou_2016_junior_marzo__Q30]]
+[[Quesiti/src_kangourou_2016_junior_marzo#q30|src_kangourou_2016_junior_marzo__Q30]]

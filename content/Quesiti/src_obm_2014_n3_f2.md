@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > In the figure below, triangle $ABC$ is equilateral and $BD = CE = AF = \frac{AB}{3}$. The ratio $\frac{EG}{GD}$ can be written in the form $\frac{m}{n}$ with $\gcd(m,n) = 1$. What is the value of $m + n$?
 
-![[src_obm_2014_n3_f2__Q01.png]]
+![[src_obm_2014_n3_f2__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,9 +35,9 @@ level: OBM Nível 3
 
 > Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Il rapporto $\frac{EG}{GD}$ può essere scritto nella forma $\frac{m}{n}$ con $\gcd(m,n) = 1$. Qual è il valore di $m + n$?
 
-![[src_obm_2014_n3_f2__Q01.png]]
+![[src_obm_2014_n3_f2__q01.png]]
 
-[[src_obm_2014_n3_f2__Q01]]
+[[Quesiti/src_obm_2014_n3_f2#q01|src_obm_2014_n3_f2__Q01]]
 
 
 
@@ -64,7 +64,7 @@ level: OBM Nível 3
 
 > La parte impar di $n$ è definita come il prodotto di tutti i numeri naturali impar meno o uguali a $n$. Quali sono le ultime due cifre della parte impar di $2014$?
 
-[[src_obm_2014_n3_f2__Q02]]
+[[Quesiti/src_obm_2014_n3_f2#q02|src_obm_2014_n3_f2__Q02]]
 
 
 
@@ -91,7 +91,7 @@ level: OBM Nível 3
 
 > La sequenza $a_1, a_2, a_3, \ldots$ soddisfa $a_1 = 1$ e $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. Qual è il numero intero più vicino a $a_{2014}$?
 
-[[src_obm_2014_n3_f2__Q03]]
+[[Quesiti/src_obm_2014_n3_f2#q03|src_obm_2014_n3_f2__Q03]]
 
 
 
@@ -118,7 +118,7 @@ level: OBM Nível 3
 
 > La media di un insieme $\{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$ è definita come la media dei due termini centrali $\dfrac{a_{n/2} + a_{n/2+1}}{2}$ quando $n$ è pari, e come $a_{(n+1)/2}$ quando $n$ è pari. $M$ è il numero di sottoinsiemi di $\{1, 2, \ldots, 2014\}$ con media pari a $2012$. Trova il resto della divisione di $M$ per $2014$.
 
-[[src_obm_2014_n3_f2__Q04]]
+[[Quesiti/src_obm_2014_n3_f2#q04|src_obm_2014_n3_f2__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: OBM Nível 3
 
 > Una scatola di legno in forma di parallelepipedone rettangolare con dimensioni $3 \times 4 \times 6$ si posa sul pavimento e una delle sue facce è completamente piatta sul pavimento. Una fonte luminosa emette raggi paralleli al pavimento a $45^\circ$. Considerando solo la luce proveniente da questa fonte, qual è la superficie massima possibile dell'ombra gettata sul pavimento (esclusa la superficie direttamente sotto la scatola)?
 
-[[src_obm_2014_n3_f2__Q05]]
+[[Quesiti/src_obm_2014_n3_f2#q05|src_obm_2014_n3_f2__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: OBM Nível 3
 
 > Un insieme è chiamato \emph{completamente divisibile} se per due elementi $a < b$ nel insieme, $a$ divide $b$. Un insieme di integri positivi $A$ è completamente divisibile, contiene $2016$ come uno dei suoi elementi e tutti gli elementi di $A$ sono inferiori a $2{,}000{,}000$. Qual è il numero massimo di elementi che $A$ può contenere?
 
-[[src_obm_2014_n3_f2__Q06]]
+[[Quesiti/src_obm_2014_n3_f2#q06|src_obm_2014_n3_f2__Q06]]
 
 
 
@@ -199,7 +199,7 @@ level: OBM Nível 3
 
 > In una classe, un insegnante ha votato se rinviare l'esame di matematica. Un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e l'insegnante ha tenuto un nuovo voto, in cui esattamente $8$ gli studenti hanno cambiato idea, in modo che $\dfrac{3}{4}$ degli studenti hanno votato contro il rinvio. Qual è il numero massimo di studenti che avrebbero potuto partecipare al voto?
 
-[[src_obm_2014_n3_f2__Q07]]
+[[Quesiti/src_obm_2014_n3_f2#q07|src_obm_2014_n3_f2__Q07]]
 
 
 
@@ -226,7 +226,7 @@ level: OBM Nível 3
 
 > Il $ABCD$ deve essere quadrato con lunghezza laterale $4$. Un insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ contenuto interamente all'interno di $ABCD$ (cioè contenuto all'interno o al suo confine) contiene almeno un punto di $S$. Qual è il numero minimo di punti in $S$?
 
-[[src_obm_2014_n3_f2__Q08]]
+[[Quesiti/src_obm_2014_n3_f2#q08|src_obm_2014_n3_f2__Q08]]
 
 
 
@@ -253,4 +253,4 @@ level: OBM Nível 3
 
 > Un cerchio è tangente ai quattro lati del quadrilaterale $ABCD$. I punti di tangenza sono $R$ su $AB$, $S$ su $BC$, $T$ su $CD$ e $U$ su $DA$. Dato che $AU = 1$, $DU = 2$, $BS = 2$ e $CS = 4$, si trova la lunghezza $SU$.
 
-[[src_obm_2014_n3_f2__Q09]]
+[[Quesiti/src_obm_2014_n3_f2#q09|src_obm_2014_n3_f2__Q09]]

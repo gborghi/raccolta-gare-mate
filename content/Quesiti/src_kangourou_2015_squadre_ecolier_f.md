@@ -37,7 +37,7 @@ level: squadre
 > The newspaper with the insert A newspaper with the insert costs 1 euro 70 cents. Daily and insert can be purchased separately and the daily costs 70 cents more than the insert. How many cents does a daily cost?
 
 **Answer:** 120
-[[src_kangourou_2015_squadre_ecolier_f__Q01]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q01|src_kangourou_2015_squadre_ecolier_f__Q01]]
 
 
 
@@ -69,7 +69,7 @@ level: squadre
 > Isabella Isabella's coins have 20 coins in her purse, for a total value of 5 euros. Some coins are 10 cents, others 20 cents, others 50 cents. Fifty-cent coins are more than ten-cent coins. How much are those 10 cents?
 
 **Answer:** 2
-[[src_kangourou_2015_squadre_ecolier_f__Q02]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q02|src_kangourou_2015_squadre_ecolier_f__Q02]]
 
 
 
@@ -101,7 +101,7 @@ level: squadre
 > One by one Alberto writes down the whole numbers starting from 1, this way: 1 2 3 4 5 6 7 8 9 10 11 12... . When you write 1788 digits, you get tired and stop. What are the last four digits you wrote?
 
 **Answer:** 1632
-[[src_kangourou_2015_squadre_ecolier_f__Q03]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q03|src_kangourou_2015_squadre_ecolier_f__Q03]]
 
 
 
@@ -181,7 +181,7 @@ The longest route in the nine park alleys
 > In the figure, you can see the layout of nine park avenues, each 100 meters long. Caesar wants to walk from point A to point B without going through any avenue twice, even passing more than once by any of the points where two or more avenues meet. How many meters is the longest path you can take?
 
 **Answer:** 700
-[[src_kangourou_2015_squadre_ecolier_f__Q04]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q04|src_kangourou_2015_squadre_ecolier_f__Q04]]
 
 
 
@@ -214,7 +214,7 @@ The longest route in the nine park alleys
 > My way In the street where I live, the houses are numbered, starting at one end of the street, on one side with consecutive odd integers starting at 1, on the other side with consecutive even integers starting at 2. My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are on the same side as mine, including mine?
 
 **Answer:** 111
-[[src_kangourou_2015_squadre_ecolier_f__Q05]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q05|src_kangourou_2015_squadre_ecolier_f__Q05]]
 
 
 
@@ -252,7 +252,7 @@ The longest route in the nine park alleys
 > The rectangles In the figure you see a grid with 6 rows and 5 columns, formed by approaching 30 squares all of the same size. Five of these squares are blackened. How many rectangles that do not contain any black squares can be found in the grid? Attention: among rectangles should also be considered squares, regardless of their size!
 
 **Answer:** 99
-[[src_kangourou_2015_squadre_ecolier_f__Q06]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q06|src_kangourou_2015_squadre_ecolier_f__Q06]]
 
 
 
@@ -283,7 +283,7 @@ The longest route in the nine park alleys
 > A cyclist climbs a mountain road constantly maintaining a speed of 21 kilometers per hour. When it goes down the same road, it doubles its speed, taking 50 minutes less time to climb. How many miles is that road?
 
 **Answer:** 35
-[[src_kangourou_2015_squadre_ecolier_f__Q07]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q07|src_kangourou_2015_squadre_ecolier_f__Q07]]
 
 
 
@@ -317,7 +317,7 @@ The longest route in the nine park alleys
 > The difference Emma exchanges between them two of the digits of the number 4129. Luigi does the same thing, not knowing what numbers Emma traded. What is the maximum difference between Emma's number and Luigi's? B A
 
 **Answer:** 7695
-[[src_kangourou_2015_squadre_ecolier_f__Q08]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q08|src_kangourou_2015_squadre_ecolier_f__Q08]]
 
 
 
@@ -352,7 +352,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > The ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to pack an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors, including lemon and pistachio, told her that she can put up to 13 of them in her cake. Roberta's mom doesn't want the lemon and pistachio flavours in the cake. How many different cakes with 13 flavors can each choose Roberta's mom? (Two cakes are different if one has at least one taste that is not in the other.)
 
 **Answer:** 27
-[[src_kangourou_2015_squadre_ecolier_f__Q09]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q09|src_kangourou_2015_squadre_ecolier_f__Q09]]
 
 
 
@@ -387,7 +387,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > How old is the teacher? An integer greater than 1 is said to be prime if it is divisible only by 1 and for itself (e.g., 13 is prime and 15 is not). Two prime numbers are called consecutive if there are no other prime numbers between them (e.g., 31 and 37 are consecutive prime numbers). To Angelo, who asked his age, the teacher replied: "I am over 30 years old and my age is the product of two prime numbers that are not consecutive: in fact, there is exactly one prime number between them that is different from them". Of course, Angelo's teacher is not retired yet. How old is he?
 
 **Answer:** 55
-[[src_kangourou_2015_squadre_ecolier_f__Q10]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q10|src_kangourou_2015_squadre_ecolier_f__Q10]]
 
 
 
@@ -420,7 +420,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > The sugar container Giulia can fill with sugar by pouring a sugar container into it - 6 small spoons, 3 medium spoons and 1 large spoon, - or 2 small spoons, 1 medium spoon and 3 large spoons, - or 4 medium spoons and 2 large spoons, all filled with sugar. How many small spoons full of sugar do you need to fill the jar?
 
 **Answer:** 16
-[[src_kangourou_2015_squadre_ecolier_f__Q11]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q11|src_kangourou_2015_squadre_ecolier_f__Q11]]
 
 
 
@@ -453,7 +453,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > What a carelessness! At Christmas, Alexander received a notebook of 365 pages. Every day, starting from the first of January last year and starting on the first page, Alexander wrote the date of the day (without the year) on the first page he found free: he started by writing 0101, then 0201 and so on (in some days of February he wrote for example 1302). To his hesitation, however, he wrote the dates as if every month had 30 days. What date did you write this morning?
 
 **Answer:** 805
-[[src_kangourou_2015_squadre_ecolier_f__Q12]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q12|src_kangourou_2015_squadre_ecolier_f__Q12]]
 
 
 
@@ -492,7 +492,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > The mosaic you see in the figure is a mosaic formed by joining white square sheets and black square sheets, all of the same size. The outer edge of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but the outer edge of which, however, is made up of 4,000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
 
 **Answer:** 2001
-[[src_kangourou_2015_squadre_ecolier_f__Q13]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q13|src_kangourou_2015_squadre_ecolier_f__Q13]]
 
 
 
@@ -526,7 +526,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > In this millennium, for a year between 2010 and 2999, we call the product of the year the quotient of the first with the last digit of the year divided by the sum of the two central digits. For example, this year's coefficient is 2 × 5: (0 + 1) = 10. In some of the next few years, the annual rate will be higher than 10. What will be the last year of this third millennium in which the annual rate will be as high as possible?
 
 **Answer:** 2109
-[[src_kangourou_2015_squadre_ecolier_f__Q14]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q14|src_kangourou_2015_squadre_ecolier_f__Q14]]
 
 
 
@@ -581,4 +581,4 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 > Questions and solutions
 
 **Answer:** 250
-[[src_kangourou_2015_squadre_ecolier_f__Q15]]
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q15|src_kangourou_2015_squadre_ecolier_f__Q15]]

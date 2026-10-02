@@ -40,7 +40,7 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 
 > 1. Esprimere $p$ come funzione di $b$, $n$, $r$ e $s$. 2. In questa domanda, il valore di $s$ è fissato; come si deve scegliere $r$ per aumentare $p$? 3. Risolvi l'esercizio. 4. Quali generalizzazioni proponi aumentando il numero dei colori e delle urne?
 
-[[src_cgen_2000__Q01]]
+[[Quesiti/src_cgen_2000#q01|src_cgen_2000__Q01]]
 
 
 
@@ -76,7 +76,7 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 
 > 1. Indicando con $H$ il suo centro ortogonale, proiettato ortogonalmente a $(U, V, W)$ sui tre lati, si determina quale dei seguenti numeri razionali sia: $AU$, $BV$, $CW$, $HA$, $HB$, $HC$, $HU$, $HV$, $HW$, $AW$, $AV$, $BU$, $BW$, $CV$ e $CU$. 2. Indicando con $I$ il suo centro incircolare, $J$ l'intersezione del bisettore interno a $A$ con i bisettori esterni agli altri vertici, e $P$, $Q$ le intersezioni della linea $BC$ con i due bisettori a $A$, determinare quali dei seguenti numeri razionali sono: $PB$, $PC$, $QB$, $QC$, $AI$, $AJ$, $AP$ e $AQ$. 3. Ora supponiamo che $b$ e $c$ siano coprime. Indicare che, fino a scambiare $b$ e $c$, $a+b-c$ è un multiple di $3$ e $a-b+c$ non lo è. 4. Abbiamo impostato $\dfrac{a+b-c}{3c} = \dfrac{p}{q}$ dove $p$ e $q$ sono numeri interi di copriamo rigorosamente positivi. Indicando con $d$ il GCD di $p(3p+2q)$ e di $q(2p+q)$, calcolare $a$, $b$, $c$ come funzioni di $p$, $q$ e $d$. 5. Indicare che $q$ non è un multiple di $3$, quindi che $d=1$. 6. Deduci una condizione necessaria e sufficiente per un triangolo di essere cartesiano con lati copriemi, quindi, con osservazioni geometriche, una caratterizzazione analogica dei triangoli con lati interi copriemi $BC = a$, $CA = b$ e $AB = c$ il cui angolo a $A$ misura $\dfrac{\pi}{3}$ radiani.
 
-[[src_cgen_2000__Q02]]
+[[Quesiti/src_cgen_2000#q02|src_cgen_2000__Q02]]
 
 
 
@@ -109,4 +109,4 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 
 > 1. In questa domanda, $B$ e $C$ sono allineati e strettamente esterni a $(A)$. Indicare che $E$ non è vuoto e che è limitato sopra. Calcolare il più piccolo dei suoi limiti superiori come funzione dei dati. 2. Determinare una condizione necessaria e sufficiente affinché il $E$ non sia vuoto e sia limitato sopra. 3. Calcolare, quando esiste, il minimo dei limiti superiori di $E$.
 
-[[src_cgen_2000__Q03]]
+[[Quesiti/src_cgen_2000#q03|src_cgen_2000__Q03]]

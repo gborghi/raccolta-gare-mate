@@ -39,7 +39,7 @@ level: Giochi di Rosi
 > Write down the arrival order of the country race.
 
 **Answer:** Fausta, Anna, Carla, Debora, Milena
-[[src_bocconi_rosi_2012__Q01]]
+[[Quesiti/src_bocconi_rosi_2012#q01|src_bocconi_rosi_2012__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: Giochi di Rosi
 > Find **an equal number ** (greater than 1,000) that satisfies this property: subtracting 1,000 from it, you get the integer immediately before its half.
 
 **Answer:** 1998
-[[src_bocconi_rosi_2012__Q02]]
+[[Quesiti/src_bocconi_rosi_2012#q02|src_bocconi_rosi_2012__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: Giochi di Rosi
 > Find **a odd number ** (greater than 1,000) that satisfies this property: subtracting 1,000 from it, you get the integer immediately before its half.
 
 **Answer:** 1999
-[[src_bocconi_rosi_2012__Q03]]
+[[Quesiti/src_bocconi_rosi_2012#q03|src_bocconi_rosi_2012__Q03]]
 
 
 
@@ -129,7 +129,7 @@ level: Giochi di Rosi
 > What time did Chiara leave home?
 
 **Answer:** 10.00
-[[src_bocconi_rosi_2012__Q04]]
+[[Quesiti/src_bocconi_rosi_2012#q04|src_bocconi_rosi_2012__Q04]]
 
 
 
@@ -163,7 +163,7 @@ level: Giochi di Rosi
 > Can you find another palindrome date?
 
 **Answer:** Un esempio: 30-12-2103. Possono essere scritte molte altre date palindrome
-[[src_bocconi_rosi_2012__Q05]]
+[[Quesiti/src_bocconi_rosi_2012#q05|src_bocconi_rosi_2012__Q05]]
 
 
 
@@ -195,7 +195,7 @@ level: Giochi di Rosi
 > What will be next year's palindrome?
 
 **Answer:** 2112
-[[src_bocconi_rosi_2012__Q06]]
+[[Quesiti/src_bocconi_rosi_2012#q06|src_bocconi_rosi_2012__Q06]]
 
 
 
@@ -224,7 +224,7 @@ level: Giochi di Rosi
 > In my closet there are seven pairs of black shoes, five white shoes and two red shoes. If I take my shoes out of the closet without looking, how many shoes do I have to take at least to make sure I have a pair (a left shoe and a right shoe) of the same color?
 
 **Answer:** 15
-[[src_bocconi_rosi_2012__Q07]]
+[[Quesiti/src_bocconi_rosi_2012#q07|src_bocconi_rosi_2012__Q07]]
 
 
 
@@ -256,7 +256,7 @@ Euro in Luke's pocket before he went into the bakery
 > How many euros did Luca have in his pocket before he went into the bakery?
 
 **Answer:** $410$€
-[[src_bocconi_rosi_2012__Q08]]
+[[Quesiti/src_bocconi_rosi_2012#q08|src_bocconi_rosi_2012__Q08]]
 
 
 
@@ -289,7 +289,7 @@ Euro in Luke's pocket before he went into the bakery
 > Knowing that mint candies aren't in the smallest pot, where are tamarind?
 
 **Answer:** Vaso piccolo
-[[src_bocconi_rosi_2012__Q09]]
+[[Quesiti/src_bocconi_rosi_2012#q09|src_bocconi_rosi_2012__Q09]]
 
 
 
@@ -302,7 +302,7 @@ Euro in Luke's pocket before he went into the bakery
 
 > **Quanti rettangoli riuscite a vedere in figura?**
 
-![[src_bocconi_rosi_2012__Q10.png]]
+![[src_bocconi_rosi_2012__q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -319,10 +319,10 @@ Euro in Luke's pocket before he went into the bakery
 
 > **How many rectangles can you see in the figure? **
 
-![[src_bocconi_rosi_2012__Q10.png]]
+![[src_bocconi_rosi_2012__q10.png]]
 
 **Answer:** 18 rettangoli
-[[src_bocconi_rosi_2012__Q10]]
+[[Quesiti/src_bocconi_rosi_2012#q10|src_bocconi_rosi_2012__Q10]]
 
 
 
@@ -335,7 +335,7 @@ Euro in Luke's pocket before he went into the bakery
 
 > **Quanti triangoli riuscite a vedere in figura?**
 
-![[src_bocconi_rosi_2012__Q11.png]]
+![[src_bocconi_rosi_2012__q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -352,10 +352,10 @@ Euro in Luke's pocket before he went into the bakery
 
 > **How many triangles can you see in the figure? **
 
-![[src_bocconi_rosi_2012__Q11.png]]
+![[src_bocconi_rosi_2012__q11.png]]
 
 **Answer:** 7 triangoli
-[[src_bocconi_rosi_2012__Q11]]
+[[Quesiti/src_bocconi_rosi_2012#q11|src_bocconi_rosi_2012__Q11]]
 
 
 
@@ -388,7 +388,7 @@ Euro in Luke's pocket before he went into the bakery
 > Can you give an example of two numbers related to two "friendly" families?
 
 **Answer:** 16-61, 27-72, 38-83, 49-94
-[[src_bocconi_rosi_2012__Q12]]
+[[Quesiti/src_bocconi_rosi_2012#q12|src_bocconi_rosi_2012__Q12]]
 
 
 
@@ -421,7 +421,7 @@ Euro in Luke's pocket before he went into the bakery
 > What will be the next number that, increased by the sum of its digits, is 2002?
 
 **Answer:** $1982 + 1 + 9 + 8 + 2 = 2002$
-[[src_bocconi_rosi_2012__Q13]]
+[[Quesiti/src_bocconi_rosi_2012#q13|src_bocconi_rosi_2012__Q13]]
 
 
 
@@ -454,7 +454,7 @@ Euro in Luke's pocket before he went into the bakery
 > **How many keys, at least, does poor Jacopo have to beat to get 2000? **
 
 **Answer:** 39
-[[src_bocconi_rosi_2012__Q14]]
+[[Quesiti/src_bocconi_rosi_2012#q14|src_bocconi_rosi_2012__Q14]]
 
 
 
@@ -487,7 +487,7 @@ Euro in Luke's pocket before he went into the bakery
 > **Can you give another example (more than 24) of a two-digit number that is "trunk-divisible"?**
 
 **Answer:** Vedi tutte le soluzioni al numero 16
-[[src_bocconi_rosi_2012__Q15]]
+[[Quesiti/src_bocconi_rosi_2012#q15|src_bocconi_rosi_2012__Q15]]
 
 
 
@@ -522,7 +522,7 @@ Euro in Luke's pocket before he went into the bakery
 >
 
 **Answer:** Sono 32: 10,11,12,13,14,15,16,17,18,19, 20,22,24,26,28, 30,33,36,39, 40,44,48, 50,55, 60,66, 70,77, 80,88, 90,99
-[[src_bocconi_rosi_2012__Q16]]
+[[Quesiti/src_bocconi_rosi_2012#q16|src_bocconi_rosi_2012__Q16]]
 
 
 
@@ -555,7 +555,7 @@ Maximum number of cakes Carla can make
 > How many cakes can Carla make at most?
 
 **Answer:** 3
-[[src_bocconi_rosi_2012__Q17]]
+[[Quesiti/src_bocconi_rosi_2012#q17|src_bocconi_rosi_2012__Q17]]
 
 
 
@@ -570,7 +570,7 @@ Maximum number of cakes Carla can make
 > 
 > **Sapreste ricoprire di cioccolato (annerendoli) 6 triangoli della stella?** Attenzione, però: due triangoli che hanno un lato in comune non possono essere ricoperti entrambi di cioccolato.
 
-![[src_bocconi_rosi_2012__Q18.png]]
+![[src_bocconi_rosi_2012__q18.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -589,10 +589,10 @@ Maximum number of cakes Carla can make
 > 
 > **Can you cover 6 triangles of the star with chocolate (by adding them)?** Attention, however: two triangles that have one side in common cannot both be covered with chocolate.
 
-![[src_bocconi_rosi_2012__Q18.png]]
+![[src_bocconi_rosi_2012__q18.png]]
 
 **Answer:** Un esempio di soluzione (vedi figura nelle soluzioni)
-[[src_bocconi_rosi_2012__Q18]]
+[[Quesiti/src_bocconi_rosi_2012#q18|src_bocconi_rosi_2012__Q18]]
 
 
 
@@ -625,7 +625,7 @@ Maximum number of cakes Carla can make
 > How many secondary school students were there, knowing that they were the majority and even more than twice the number of elementary school students?
 
 **Answer:** 81 (3 liceo, 81 medie, 16 elementari)
-[[src_bocconi_rosi_2012__Q19]]
+[[Quesiti/src_bocconi_rosi_2012#q19|src_bocconi_rosi_2012__Q19]]
 
 
 
@@ -658,4 +658,4 @@ Maximum number of cakes Carla can make
 > What is this result?
 
 **Answer:** $2^1 + 3^4 = 83$
-[[src_bocconi_rosi_2012__Q20]]
+[[Quesiti/src_bocconi_rosi_2012#q20|src_bocconi_rosi_2012__Q20]]

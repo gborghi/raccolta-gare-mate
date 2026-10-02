@@ -34,7 +34,7 @@ level: IMO
 
 > Let $\mathbb{Z}$ be the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
 
-[[src_imho_2019__Q01]]
+[[Quesiti/src_imho_2019#q01|src_imho_2019__Q01]]
 
 
 
@@ -65,7 +65,7 @@ level: IMO
 > 
 > Prove that points $P$, $Q$, $P_1$, and $Q_1$ are concyclic.
 
-[[src_imho_2019__Q02]]
+[[Quesiti/src_imho_2019#q02|src_imho_2019__Q02]]
 
 
 
@@ -100,7 +100,7 @@ level: IMO
 > 
 > Initially, 1010 users have 1009 friends each, and 1009 users have 1010 friends each. Prove that there exists a sequence of such events after which each user is friends with at most one other user.
 
-[[src_imho_2019__Q03]]
+[[Quesiti/src_imho_2019#q03|src_imho_2019__Q03]]
 
 
 
@@ -128,7 +128,7 @@ level: IMO
 
 > Find all pairs $(k, n)$ of positive integers such that $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
 
-[[src_imho_2019__Q04]]
+[[Quesiti/src_imho_2019#q04|src_imho_2019__Q04]]
 
 
 
@@ -163,7 +163,7 @@ Bank of Bath coins problem: show process terminates and find average
 > 
 > (b) For each initial configuration $C$, let $L(C)$ be the number of operations before Harry stops. For example, $L(THT) = 3$. Determine the average value of $L(C)$ over all possible initial configurations $C$.
 
-[[src_imho_2019__Q05]]
+[[Quesiti/src_imho_2019#q05|src_imho_2019__Q05]]
 
 
 
@@ -194,4 +194,4 @@ Bank of Bath coins problem: show process terminates and find average
 > 
 > Prove that lines $DI$ and $PQ$ meet on the line through $A$ perpendicular to $AI$.
 
-[[src_imho_2019__Q06]]
+[[Quesiti/src_imho_2019#q06|src_imho_2019__Q06]]

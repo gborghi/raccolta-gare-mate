@@ -33,7 +33,7 @@ level: RMO
 
 > Determinare il numero di numeri a 3 cifre nella base 10 che hanno almeno un 5 e un 2 al massimo.
 
-[[src_rmo_2015_r5__Q02]]
+[[Quesiti/src_rmo_2015_r5#q02|src_rmo_2015_r5__Q02]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Che $P(x)$ sia un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n)) - 2015$ per ogni numero naturale $n$, provare che $P(-2015) = 0$.
 
-[[src_rmo_2015_r5__Q03]]
+[[Quesiti/src_rmo_2015_r5#q03|src_rmo_2015_r5__Q03]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Trovare tutti i numeri naturali a tre cifre della forma $(abc)_{10}$ in modo tale che $(abc)_{10} = (abc)_b \cdot (acb)_b$. (Qui $(abc)_{10}$ è il numero nella base 10.)
 
-[[src_rmo_2015_r5__Q04]]
+[[Quesiti/src_rmo_2015_r5#q04|src_rmo_2015_r5__Q04]]
 
 
 
@@ -114,7 +114,7 @@ level: RMO
 
 > Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Supponiamo che $P$, $Q$, $R$, $S$, $D$ siano collineari. Provare che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
 
-[[src_rmo_2015_r5__Q05]]
+[[Quesiti/src_rmo_2015_r5#q05|src_rmo_2015_r5__Q05]]
 
 
 
@@ -143,4 +143,4 @@ level: RMO
 
 > $S = \{1, 2, \ldots, n\}$ e $T$ siano l'insieme di tutti i triples ordinati dei sottogruppi di $S$, ad esempio $(A_1, A_2, A_3)$, in modo tale che $A_1 \cup A_2 \cup A_3 = S$. Determinare, in termini di $n$, $$\sum_{(A_1,\, A_2,\, A_3)\, \in\, T} |A_1 \cap A_2 \cap A_3|,$$ dove $|X|$ indica il numero di elementi nell'insieme $X$. (Ad esempio, se $S = \{1, 2, 3\}$ uno degli elementi di $T$ è $A_1 = \{1, 2\}$, $A_2 = \{2, 3\}$, $A_3 = \{3\}$.)
 
-[[src_rmo_2015_r5__Q06]]
+[[Quesiti/src_rmo_2015_r5#q06|src_rmo_2015_r5__Q06]]

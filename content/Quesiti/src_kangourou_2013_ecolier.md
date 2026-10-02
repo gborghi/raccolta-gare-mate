@@ -49,7 +49,7 @@ How many more bricks in the right pyramid
 >       	
 > E) 2
 
-[[src_kangourou_2013_ecolier__Q01]]
+[[Quesiti/src_kangourou_2013_ecolier#q01|src_kangourou_2013_ecolier__Q01]]
 
 
 
@@ -83,7 +83,7 @@ In which image there are more black than white kangaroos
 
 > Look at the figure. 43+53=104. The addition written by Gianna is correct, but her brother Luke, in spite, covered two of the figures written by Gianna with two opaque sheets. The two numbers covered are the same. What's the number? A) 2 B) 4 C) 5 D) 7 E) 8
 
-[[src_kangourou_2013_ecolier__Q02]]
+[[Quesiti/src_kangourou_2013_ecolier#q02|src_kangourou_2013_ecolier__Q02]]
 
 
 
@@ -112,7 +112,7 @@ In which image there are more black than white kangaroos
 
 > Samuel invited some friends to his home at 3:45 p.m. Julia arrived 25 minutes late, Gino arrived a quarter of an hour ahead of Julia. What time did Gino arrive? A) 15:05                B) 15:30              C) 15:55               D) 16:05             E) 16:20
 
-[[src_kangourou_2013_ecolier__Q03]]
+[[Quesiti/src_kangourou_2013_ecolier#q03|src_kangourou_2013_ecolier__Q03]]
 
 
 
@@ -157,7 +157,7 @@ In which image there are more black than white kangaroos
 >          	
 > E) 12
 
-[[src_kangourou_2013_ecolier__Q04]]
+[[Quesiti/src_kangourou_2013_ecolier#q04|src_kangourou_2013_ecolier__Q04]]
 
 
 
@@ -205,7 +205,7 @@ Who made the wrong statement on the number 325?
 > E) 26
 >
 
-[[src_kangourou_2013_ecolier__Q05]]
+[[Quesiti/src_kangourou_2013_ecolier#q05|src_kangourou_2013_ecolier__Q05]]
 
 
 
@@ -252,7 +252,7 @@ Who made the wrong statement on the number 325?
 > E) 6
 
 **Answer:** D
-[[src_kangourou_2013_ecolier__Q06]]
+[[Quesiti/src_kangourou_2013_ecolier#q06|src_kangourou_2013_ecolier__Q06]]
 
 
 
@@ -296,7 +296,7 @@ Who made the wrong statement on the number 325?
 > E)
 
 **Answer:** B
-[[src_kangourou_2013_ecolier__Q07]]
+[[Quesiti/src_kangourou_2013_ecolier#q07|src_kangourou_2013_ecolier__Q07]]
 
 
 
@@ -328,7 +328,7 @@ Who made the wrong statement on the number 325?
 
 > Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All his figures are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The number of units is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Charles D) Darius E) Ennio I Questions from N. 9 al N. 16 is worth 4 points each.
 
-[[src_kangourou_2013_ecolier__Q08]]
+[[Quesiti/src_kangourou_2013_ecolier#q08|src_kangourou_2013_ecolier__Q08]]
 
 
 
@@ -371,7 +371,7 @@ Who made the wrong statement on the number 325?
 >       	
 > E) 9
 
-[[src_kangourou_2013_ecolier__Q09]]
+[[Quesiti/src_kangourou_2013_ecolier#q09|src_kangourou_2013_ecolier__Q09]]
 
 
 
@@ -405,7 +405,7 @@ Who made the wrong statement on the number 325?
 
 > When Pinocchio answers a question with a lie, his nose lengthens by 6 cm; when he answers telling the truth, his nose shortens by 2 cm. At 8 this morning, his nose was 9 cm long; from that moment on Pinocchio has told three lies and twice the truth: how long is his nose now? A) 14 cm B) 15 cm C) 19 cm D) 23 cm E) 31 cm
 
-[[src_kangourou_2013_ecolier__Q10]]
+[[Quesiti/src_kangourou_2013_ecolier#q10|src_kangourou_2013_ecolier__Q10]]
 
 
 
@@ -452,7 +452,7 @@ How many siblings can you have by dividing 36 candy
 > E) 4
 >
 
-[[src_kangourou_2013_ecolier__Q11]]
+[[Quesiti/src_kangourou_2013_ecolier#q11|src_kangourou_2013_ecolier__Q11]]
 
 
 
@@ -487,7 +487,7 @@ Where Anna arrives following the turns.
 > The figure represents the map of the city of Anna. Anna begins to walk in the point and direction indicated by the arrow: at each intersection she does not go straight, but turns right or left. Exactly, at the first intersection you meet turn right, turn second and third to left, turn fourth to right, turn fifth and sixth to left. Where's Anna coming from? A) B) 	           C)              D) E)
 
 **Answer:** A
-[[src_kangourou_2013_ecolier__Q12]]
+[[Quesiti/src_kangourou_2013_ecolier#q12|src_kangourou_2013_ecolier__Q12]]
 
 
 
@@ -520,7 +520,7 @@ Where Anna arrives following the turns.
 > Ada, Bruna, Cecilia and Dora were born in the same year. Their birthdays are, by date but not by name, on 20 February, 12 April, 12 May and 25 May. Bruna and Ada were born in the same month. Ada and Cecilia were born on the same day in different months. Who's the oldest? A) Ada B) Bruna C) Cecilia D) Dora E) It is not possible to establish it.
 
 **Answer:** D
-[[src_kangourou_2013_ecolier__Q13]]
+[[Quesiti/src_kangourou_2013_ecolier#q13|src_kangourou_2013_ecolier__Q13]]
 
 
 
@@ -557,7 +557,7 @@ Where Anna arrives following the turns.
 > Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Parttenza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first jumps three times, then L second jumps three times, then M third jumps two times, then N fourth jumps two times, and finally O jumps one time. When O also arrived, in what order are the five kangaroos? (a) the number of persons who have been identified in the report; (b) the number of persons who have been identified;
 
 **Answer:** E
-[[src_kangourou_2013_ecolier__Q14]]
+[[Quesiti/src_kangourou_2013_ecolier#q14|src_kangourou_2013_ecolier__Q14]]
 
 
 
@@ -598,7 +598,7 @@ Where Anna arrives following the turns.
 >
 
 **Answer:** B
-[[src_kangourou_2013_ecolier__Q15]]
+[[Quesiti/src_kangourou_2013_ecolier#q15|src_kangourou_2013_ecolier__Q15]]
 
 
 
@@ -632,7 +632,7 @@ Nadia's best friends (girls and boys)
 > At her birthday party, Nadia invited some friends, boys and girls. He doesn't know how many will accept the invitation, but he does know that the boys invited are more than the girls, that the invited boys named Franco are three and that they make up more than a third of the boys invited. How many of Nadia's friends, boys and girls, are going to be at the party? (a) 12 (b) 13 (c) 14 (d) 15 (e) 16 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** D
-[[src_kangourou_2013_ecolier__Q16]]
+[[Quesiti/src_kangourou_2013_ecolier#q16|src_kangourou_2013_ecolier__Q16]]
 
 
 
@@ -676,7 +676,7 @@ Nadia's best friends (girls and boys)
 >     	
 > E) 32
 
-[[src_kangourou_2013_ecolier__Q17]]
+[[Quesiti/src_kangourou_2013_ecolier#q17|src_kangourou_2013_ecolier__Q17]]
 
 
 
@@ -713,7 +713,7 @@ Nadia's best friends (girls and boys)
 > E) 103
 
 **Answer:** B
-[[src_kangourou_2013_ecolier__Q18]]
+[[Quesiti/src_kangourou_2013_ecolier#q18|src_kangourou_2013_ecolier__Q18]]
 
 
 
@@ -745,7 +745,7 @@ Nadia's best friends (girls and boys)
 > Last January, Trippa slept for exactly three weeks. How many minutes were you awake in January? A) 24 × 3 × 24 × 60 B) 10 × 24 × 60	               	        C) 9 × 24 × 60 D) 24 × 24 × 60 E) 10 × 24 × 60 × 60
 
 **Answer:** B
-[[src_kangourou_2013_ecolier__Q19]]
+[[Quesiti/src_kangourou_2013_ecolier#q19|src_kangourou_2013_ecolier__Q19]]
 
 
 
@@ -790,7 +790,7 @@ Nadia's best friends (girls and boys)
 > E) 7
 
 **Answer:** C
-[[src_kangourou_2013_ecolier__Q20]]
+[[Quesiti/src_kangourou_2013_ecolier#q20|src_kangourou_2013_ecolier__Q20]]
 
 
 
@@ -833,7 +833,7 @@ Nadia's best friends (girls and boys)
 >
 
 **Answer:** E
-[[src_kangourou_2013_ecolier__Q21]]
+[[Quesiti/src_kangourou_2013_ecolier#q21|src_kangourou_2013_ecolier__Q21]]
 
 
 
@@ -877,7 +877,7 @@ Nadia's best friends (girls and boys)
 > E) 60
 
 **Answer:** B
-[[src_kangourou_2013_ecolier__Q22]]
+[[Quesiti/src_kangourou_2013_ecolier#q22|src_kangourou_2013_ecolier__Q22]]
 
 
 
@@ -924,7 +924,7 @@ Nadia's best friends (girls and boys)
 > E) 204
 
 **Answer:** B
-[[src_kangourou_2013_ecolier__Q23]]
+[[Quesiti/src_kangourou_2013_ecolier#q23|src_kangourou_2013_ecolier__Q23]]
 
 
 
@@ -967,4 +967,4 @@ Nadia's best friends (girls and boys)
 > STRINGA ECOLIER 2013 Question 17 écolier has been annulled because of incomplete wording of the text.
 
 **Answer:** C
-[[src_kangourou_2013_ecolier__Q24]]
+[[Quesiti/src_kangourou_2013_ecolier#q24|src_kangourou_2013_ecolier__Q24]]

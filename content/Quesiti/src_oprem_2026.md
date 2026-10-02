@@ -35,7 +35,7 @@ Esercizio 1, Q1: logica grafica d'amore su chi ama chi
 
 > Esercizio 1 (tutti i candidati) - I giochi d'amore. Se Alice non ama Jordan, allora Brenda ama Jordan. Se Brenda ama Jordan, allora Brenda ama Dan. Se Alice ama Jordan, allora Brenda non ama Dan. Brenda ama Jordan, così Brenda ama Dan. Dan ama Alice?
 
-[[src_oprem_2026__Q01]]
+[[Quesiti/src_oprem_2026#q01|src_oprem_2026__Q01]]
 
 
 
@@ -64,7 +64,7 @@ Esercizio 1, Q1: logica grafica d'amore su chi ama chi
 
 > Esercizio 1 (tutti i candidati) - Ritorno al futuro. Tuo zio ha $54$ anni. Con un trucco si fece $9$ anni più giovane. Più in generale, si consideri una persona di età $ab$ anni, con $a \ge 5$ e $b = 6$. (a) Con quante anni, al massimo, questa persona malvagia può rendersi più giovane con la procedura descritta? b) Può questa persona diventare più giovane di esattamente $30$ anni?
 
-[[src_oprem_2026__Q02]]
+[[Quesiti/src_oprem_2026#q02|src_oprem_2026__Q02]]
 
 
 
@@ -92,7 +92,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 1 (tutti i candidati) - Informazioni amministrative. Le elezioni di un consiglio sono condotte da persone $4$. Tutti i voti sono validi ed espressi. I risultati ottenuti sono: Johanna ottiene $\frac{1}{4}$ dei voti, Jason $\frac{1}{15}$ dei voti, Jasmine $\frac{3}{20}$ dei voti e Julie $\frac{1}{3}$ dei voti. Chi vince e per quanto si può vincere? Quanti elettori ci possono essere?
 
-[[src_oprem_2026__Q03]]
+[[Quesiti/src_oprem_2026#q03|src_oprem_2026__Q03]]
 
 
 
@@ -105,7 +105,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Exercise 1 (all candidates) - Half is not stupid. A bucket has the shape of a truncated cone of small radius $r$, large radius $R > r$ and total height $h$. (a) Justify that the total volume is $\mathcal{V} = \frac{\pi h}{3}(r^2 + Rr + R^2)$. (b) One fills the bucket up to height $x$; let $\rho$ be the real number belonging to the interval $[0,h]$ such that the surface of the water at this height $x$ is a disc of radius $\rho$. Determine $\rho$ in terms of $x$, $r$, $R$ and $h$. (c) Suppose that $r = 1$, $R = 1.2$ and $h = 2$. Using your calculator, give an approximate value of $x$ so that the bucket is filled to half of its capacity. Why can one not limit the search around the value $x = 1$?
 
-![[src_oprem_2026__Q04.png]]
+![[src_oprem_2026__q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
@@ -122,9 +122,9 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 1 (tutti i candidati) - La metà non è stupida. Un secchio ha la forma di un cono troncato di piccolo raggio $r$, grande raggio $R > r$ e altezza totale $h$. a) giustificare che il volume totale sia $\mathcal{V} = \frac{\pi h}{3}(r^2 + Rr + R^2)$. b) Si riempie il secchio fino ad un'altezza $x$; $\rho$ sia il numero reale appartenente all'intervallo $[0,h]$ in modo tale che la superficie dell'acqua a questa altezza $x$ sia un disco di raggio $\rho$. Determinare $\rho$ in termini di $x$, $r$, $R$ e $h$. c) Supponiamo che $r = 1$, $R = 1.2$ e $h = 2$. Utilizzando la calcolatrice, indicare un valore approssimativo di $x$ in modo che il secchio sia riempito a metà della sua capacità. Perché non si può limitare la ricerca intorno al valore $x = 1$?
 
-![[src_oprem_2026__Q04.png]]
+![[src_oprem_2026__q04.png]]
 
-[[src_oprem_2026__Q04]]
+[[Quesiti/src_oprem_2026#q04|src_oprem_2026__Q04]]
 
 
 
@@ -137,7 +137,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Exercise 1 (all candidates) - Triominoes. The following polygons, formed of three squares, are called triominoes. We are interested in tilings by triominoes of grids (or, in (b) and (c), of pieces of grids) of format $a \times b$, where $a$ denotes their number of lines and $b$ their number of columns. The figure opposite shows an example of a tiling of a grid in which one sets $a = 2$ and $b = 6$. Let $n$ be a non-zero natural integer. (a) Is it possible to tile a grid of format $2^n \times 2^n$? (b) One removes the top-left square of such a grid; is it then possible to tile this so modified grid (one starts from the grid of size $n = 1$ then $n = 2$ in order to generalize)? (c) Show that the preceding result remains true when one removes whichever of the cells of the complete grid $2^n \times 2^n$ at the start.
 
-![[src_oprem_2026__Q05.png]]
+![[src_oprem_2026__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_induzione|Induzione]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -155,9 +155,9 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 1 (tutti i candidati) - Triomini. I seguenti poligoni, costituiti da tre quadrati, sono chiamati triomini. Ci interessano i tessuti per triomino di griglie (o, nelle lettere b) e c), di pezzi di griglie) di formato $a \times b$, dove $a$ indica il loro numero di linee e $b$ il loro numero di colonne. La figura opposta mostra un esempio di tessitura di una griglia in cui si impone $a = 2$ e $b = 6$. Che $n$ sia un intero naturale non zero. (a) È possibile costruire una griglia di formato $2^n \times 2^n$? (b) Si rimuove il quadrato superiore sinistro di tale griglia; è quindi possibile tessere questa griglia così modificata (si parte dalla griglia di dimensioni $n = 1$ e poi $n = 2$ per generalizzare)? c) Indicare che il risultato precedente rimane vero quando si rimuove qualunque delle celle della griglia completa $2^n \times 2^n$ all'inizio.
 
-![[src_oprem_2026__Q05.png]]
+![[src_oprem_2026__q05.png]]
 
-[[src_oprem_2026__Q05]]
+[[Quesiti/src_oprem_2026#q05|src_oprem_2026__Q05]]
 
 
 
@@ -188,7 +188,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > Esercizio 1 (tutti i candidati) - Somme armoniche. Per $n$ un intero naturale, $n \ge 1$, si calcola la somma (chiamata armonica) $H_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$. Quindi $H_1 = 1$, $H_2 = 1 + \frac{1}{2} = \frac{3}{2}$, $H_3 = 1 + \frac{1}{2} + \frac{1}{3} = \frac{11}{6}$. (a) giustificare tale $H_4 = \frac{25}{12}$. b) Proporre un codice in Python che permetta di ottenere $H_n$ per qualsiasi numero intero naturale $n \ge 1$. (c) Si chiama peso binario la potenza più grande di due apparsi tra i termini da sommare. Quindi il peso binario di $H_2$ è $\frac{1}{2}$, quello di $H_3$ anche; il peso binario di $H_8$ è $\frac{1}{8}$, quello di $H_9, H_{10}, \dots, H_{15}$ anche, ecc. Qual è il peso binario di $H_3$? Of $H_8$? Of $H_{20}$? (d) Si osserva, dopo alcuni tentativi, che i valori di $H_n$ non sembrano mai essere numeri interi non appena $n \ge 2$. dimostrarlo con l'aiuto, in particolare, del peso binario di $H_n$.
 
 **Risposta:** H_4 = 25/12
-[[src_oprem_2026__Q06]]
+[[Quesiti/src_oprem_2026#q06|src_oprem_2026__Q06]]
 
 
 
@@ -219,7 +219,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > Esercizio 2 (traccia generale seguendo la specialità matematica) - Super prime. Ricordiamo che un numero primo è un intero naturale non zero che ha esattamente due divisioni positive distinte: $1$ e se stesso. Quindi $1$ non è primo poiché ha solo $1$ divisore. Ricordiamo anche che esistono infiniti numeri primi, che si possono enumerare; i numeri primi più piccoli sono $2$, indicato $p_1$; poi $3$, indicato $p_2$, e così via. Uno indica quindi $p_n$ il $n$-th numero primo. Uno dà, per esempio, l'elenco ordinato dei primi quindici numeri primi: $p_1 = 2$; $p_2 = 3$; $p_3 = 5$; $p_4 = 7$; $p_5 = 11$; $p_6 = 13$; $p_8 = 19$; $p_9 = 23$; $p_{10} = 29$; $p_{11} = 31$; $p_{12} = 37$; $p_{13} = 41$; $p_{14} = 43$; $p_{15} = 47$. Per ogni intero naturale $n$, si indica $\pi(n)$ il numero di numeri primi inferiori o uguali a $n$. Si osserva che questa notazione, $\pi(n)$ o $\pi_n$, è normale e chiara nel contesto, ma non ha nulla a che fare con la $\pi$ della geometria a piatto. Studio della sequenza $(\pi_n)_{n \ge 0}$. (1) giustificare che $\pi_0 = 0$ e $\pi_3 = 3$. Calcolare $\pi_1$, $\pi_2$, $\pi_6$, $\pi_{47}$ e $\pi_{49}$.
 
 **Risposta:** pi_0=0, pi_3=3
-[[src_oprem_2026__Q07]]
+[[Quesiti/src_oprem_2026#q07|src_oprem_2026__Q07]]
 
 
 
@@ -247,7 +247,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - (2) Dimostra che la sequenza $(\pi_n)_{n \ge 0}$ aumenta, cioè per ogni intero naturale $n$, $\pi_n \le \pi_{n+1}$.
 
-[[src_oprem_2026__Q08]]
+[[Quesiti/src_oprem_2026#q08|src_oprem_2026__Q08]]
 
 
 
@@ -275,7 +275,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - (3) Dimostra che se $p$ e $q$ indicano due integri naturali distinti come $p < q$, allora $\pi_p = \pi_q$ se e solo se non esiste un numero primo $r$ come $p < r \le q$.
 
-[[src_oprem_2026__Q09]]
+[[Quesiti/src_oprem_2026#q09|src_oprem_2026__Q09]]
 
 
 
@@ -303,7 +303,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - (4) Dimostra che per ogni intero naturale $n$, $\pi_n \le n$. Per quale numero intero ((s) $n$ si dispone di $\pi_n = n$?
 
-[[src_oprem_2026__Q10]]
+[[Quesiti/src_oprem_2026#q10|src_oprem_2026__Q10]]
 
 
 
@@ -332,7 +332,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - Sequenza di iterazioni di $m$ da $n$. Per $m$ un intero naturale, si chiama la sequenza di iterazioni di $m$ da $n$ la sequenza di numeri formata da $m$; il numero di numeri primi inferiori o uguali a $m$; quindi il numero di numeri primi inferiori o uguali a quello; ecc. Così la sequenza di iterazioni di $m$ da $n$ viene scritta $(m;\ \pi(m);\ \pi(\pi(m));\ \pi(\pi(\pi(m)));\ \dots)$. (5) Calcolare i primi termini $7$ della sequenza di iterazioni di $m$ nel caso particolare in cui $m = 5$ e nel caso in cui $m = 11$.
 
-[[src_oprem_2026__Q11]]
+[[Quesiti/src_oprem_2026#q11|src_oprem_2026__Q11]]
 
 
 
@@ -361,7 +361,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - (6) Dimostra che, in modo generale, la sequenza di iterazioni di un numero intero $m$ diminuisce sempre e diventa costante partendo da un certo grado.
 
-[[src_oprem_2026__Q12]]
+[[Quesiti/src_oprem_2026#q12|src_oprem_2026__Q12]]
 
 
 
@@ -390,7 +390,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - Super numeri interi primi. Un intero naturale $m$ tale che $m \ge 2$ si dice super primo se, nella sequenza di iterazioni di $m$ da $n$, tutti i suoi termini sono numeri primi. In particolare, un numero intero super primo è stesso primo. (7) Tra i numeri $2$, $3$, $5$, $7$ e $11$, quali sono super prime?
 
-[[src_oprem_2026__Q13]]
+[[Quesiti/src_oprem_2026#q13|src_oprem_2026__Q13]]
 
 
 
@@ -418,7 +418,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
 > Esercizio 2 - (8) Si suppone che esistano infinitamente molti integri naturali superprimi non zero. Supponiamo che si costruiscano i più piccoli integri superprimi $s_1 < \cdots < s_n$. Indicare che il super primo più piccolo $s_n$ verifica $\pi(s_n) = s_n$.
 
-[[src_oprem_2026__Q14]]
+[[Quesiti/src_oprem_2026#q14|src_oprem_2026__Q14]]
 
 
 
@@ -447,7 +447,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 2 - (9) Date il quinto super primo più piccolo.
 
-[[src_oprem_2026__Q15]]
+[[Quesiti/src_oprem_2026#q15|src_oprem_2026__Q15]]
 
 
 
@@ -476,7 +476,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 2 - Comportamento asimptotico della sequenza di superprime. Naturalmente, la sequenza ordinata $(s_n)$ dei numeri primi super tende a $+\infty$, ma si desidera dimostrare che tende molto velocemente all'infinito, nel senso che il quotiente $\left(\frac{s_{n+1}}{s_n}\right)$ tende a $+\infty$. Più esplicitamente, fisseremo un intero naturale non zero $M$, e mostreremo che esiste un grado $n_0$ tale che, per ogni $n \ge n_0$, uno ha $\frac{s_{n+1}}{s_n} \ge M$. Per fare questo, ammettiamo il seguente risultato, che è quindi inutile dimostrare: per ogni intero naturale non zero $N$, si ha $Q_N \le 4^N$, dove $Q_N$ è il prodotto dei numeri primi compresi (nel senso ampio) tra $1$ e $N$. (10) Indicare che per ogni numero intero $N \ge 4^{2(M+1)}$, uno ha $4^{(M+1)\left(\pi(N) - \pi(\sqrt{N})\right)} \le 4^N$. Si può considerare il prodotto dei numeri primi compresi tra $\sqrt{N}$ (non incluso) e $N$.
 
-[[src_oprem_2026__Q16]]
+[[Quesiti/src_oprem_2026#q16|src_oprem_2026__Q16]]
 
 
 
@@ -505,7 +505,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > L'esercizio 2 - (11) Riduce, quindi, che $\pi(N) \le \frac{N}{M+1} + \sqrt{N}$.
 
-[[src_oprem_2026__Q17]]
+[[Quesiti/src_oprem_2026#q17|src_oprem_2026__Q17]]
 
 
 
@@ -534,7 +534,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 2 - (12) Infine dimostri che per $N$ sufficientemente grande, $\frac{N}{\pi(N)} \ge M$.
 
-[[src_oprem_2026__Q18]]
+[[Quesiti/src_oprem_2026#q18|src_oprem_2026__Q18]]
 
 
 
@@ -562,7 +562,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 2 - (13) Conclusione.
 
-[[src_oprem_2026__Q19]]
+[[Quesiti/src_oprem_2026#q19|src_oprem_2026__Q19]]
 
 
 
@@ -575,7 +575,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Exercise 3 (general-track candidate NOT following the maths specialty, and ALL candidates of the technological track) - Triominoes (bis). We come back here on the tilings by triominoes (cf. question 5 of exercise 1) of grids (here, complete) $a \times b$, rectangular, possibly square, on which some complementary questions are posed. It is recommended not to draw the grids with a pen, but the triominoes with a pencil. One may, to help oneself, as a rough draft, draw the already traced grids shown opposite. (1) Represent a tiling of the grid in the case where $a = 3$ and $b = 6$.
 
-![[src_oprem_2026__Q20.png]]
+![[src_oprem_2026__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
@@ -593,9 +593,9 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 3 (candidato di pista generale NON seguendo la specialità di matematica, e TUTTI i candidati della pista tecnologica) - Triominoes (bis). Ritorniamo qui sulle piastrelle con triomini (cfr. domanda 5 dell'esercizio 1) delle griglie (qui, complete) $a \times b$, rettangolare, eventualmente quadrata, su cui sono poste alcune domande complementari. Si consiglia di disegnare le griglie non con una penna, ma i triomini con una matita. Per aiutarsi, si possono disegnare le griglie già tracciate mostrate di fronte. (1) Rappresentano una piastrella della griglia nel caso in cui $a = 3$ e $b = 6$.
 
-![[src_oprem_2026__Q20.png]]
+![[src_oprem_2026__q20.png]]
 
-[[src_oprem_2026__Q20]]
+[[Quesiti/src_oprem_2026#q20|src_oprem_2026__Q20]]
 
 
 
@@ -624,7 +624,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 3 - (2a) Si suppone che si possa tessere una griglia $a \times a$ (si dice quindi che la griglia di dimensioni $a \times a$ è pavabile). Indicare che il numero intero $a \times a$ è divisibile da $3$. (2b) Trovare le griglie di dimensioni $a \times a$ che siano passabili.
 
-[[src_oprem_2026__Q21]]
+[[Quesiti/src_oprem_2026#q21|src_oprem_2026__Q21]]
 
 
 
@@ -653,7 +653,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 3 - (3) Si suppone $a = 2$. In quali condizioni necessarie e sufficienti per $b$ è possibile utilizzare la griglia di dimensioni $2 \times b$?
 
-[[src_oprem_2026__Q22]]
+[[Quesiti/src_oprem_2026#q22|src_oprem_2026__Q22]]
 
 
 
@@ -666,7 +666,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Exercise 3 - Manual works. On the bands $2 \times 16$ shown opposite, a symmetry of a triomino drawn in black with respect to the axis $\Delta_1$ gave the triomino tinted in light at the other end. By symmetry of this new triomino with respect to the axis $\Delta_2$, then of the new-new triomino with respect to $\Delta_3$, and so on. (4a) Draw your copy at scale $1/2$ of band 1) of the statement, then replace each symmetry by a light plane, making sure that the triominoes remain visible. Finally cut along your traits. One obtains a garland of $8$ identical triominoes. Why? The second band also furnishes $8$ of them. (4b) Discover the bandeau (with the question on the $2 \times 16$ band) following the related complementary parts.
 
-![[src_oprem_2026__Q23.png]]
+![[src_oprem_2026__q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -684,9 +684,9 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 3 - Lavoro manuale. Nelle bande $2 \times 16$ mostrate di fronte, una simmetria di un triomino disegnata in nero rispetto all'asse $\Delta_1$ ha dato il triomino tintato di luce all'altra estremità. Per simmetria di questo nuovo triomino rispetto all'asse $\Delta_2$, poi del nuovo nuovo triomino rispetto al $\Delta_3$, e così via. (4a) Disegnare la copia in scala $1/2$ della banda 1) della dichiarazione, quindi sostituire ogni simmetria con un piano leggero, assicurandosi che i triomino rimangano visibili. Finalmente tagliati i tuoi tratti. Si ottiene una ghirlanda di $8$ triomini identici. - Perché? - Perché? La seconda fascia ne fornisce anche $8$. (4b) Scopri la bande (con la domanda sulla banda $2 \times 16$) seguendo le relative parti complementari.
 
-![[src_oprem_2026__Q23.png]]
+![[src_oprem_2026__q23.png]]
 
-[[src_oprem_2026__Q23]]
+[[Quesiti/src_oprem_2026#q23|src_oprem_2026__Q23]]
 
 
 
@@ -715,7 +715,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > L'esercizio 3 - (5) Si suppone qui che $a = 5$. Se necessario, si potrà aiutare con i piccoli triomini $16$ a disposizione per le prove su disegno grosso. (5a) Rappresentano un conveniente rivestimento di una griglia quando $b = 6$. (5b) Rappresentano un conveniente rivestimento di una griglia quando $b = 9$. (5c) Si suppone che $b$ dividibile da $3$, $b \ge 6$. Mostrare che si può tessere una griglia di dimensioni $5 \times b$.
 
-[[src_oprem_2026__Q24]]
+[[Quesiti/src_oprem_2026#q24|src_oprem_2026__Q24]]
 
 
 
@@ -744,7 +744,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 
 > Esercizio 3 - (6) Si suppone che $ab$ sia divisibile da $3$ e che si possa tessere una griglia di dimensioni $a \times b$. Mostrare che si può tessere una griglia di dimensioni $(a + 2) \times b$.
 
-[[src_oprem_2026__Q25]]
+[[Quesiti/src_oprem_2026#q25|src_oprem_2026__Q25]]
 
 
 
@@ -773,4 +773,4 @@ Esercizio 3, Q7: completa caratterizzazione, a x b (a,b>=4) pavable if 3
 
 > Esercizio 3 - (7) Si suppone $a \ge 4$, $b \ge 4$. Indicare che si può tessere una griglia di dimensioni $a \times b$ se, e solo se, $ab$ è divisibile da $3$. Ridurre le griglie quadrate che si possono piastrellare.
 
-[[src_oprem_2026__Q26]]
+[[Quesiti/src_oprem_2026#q26|src_oprem_2026__Q26]]

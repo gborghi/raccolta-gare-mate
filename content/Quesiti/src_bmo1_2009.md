@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Si consideri una scacchiera standard $8 \times 8$ costituita da 64 piccoli quadrati colorati nel solito modello, quindi 32 in nero e 32 in bianco. Un percorso in zigzag attraverso il bordo è una raccolta di otto quadrati bianchi, uno in ogni riga, che si incontrano negli angoli. Quanti percorsi zigzag ci sono?
 
-[[src_bmo1_2009__Q01]]
+[[Quesiti/src_bmo1_2009#q01|src_bmo1_2009__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Trova tutti i valori di $x$, $y$ e $z$ in modo tale che $$(x+1)z = 12, \quad (y+1)z = 4 \quad \text{and} \quad (z+1)x = 4.$$
 
-[[src_bmo1_2009__Q02]]
+[[Quesiti/src_bmo1_2009#q02|src_bmo1_2009__Q02]]
 
 
 
@@ -88,7 +88,7 @@ level: BMO Round 1
 
 > Il $ABPC$ deve essere un parallelo tale che $\angle ABC$ sia un angolo acuto. Il circoncircolo del triangolo $ABC$ incontra di nuovo la linea $CP$ a $Q$. Prova che $PQ = AC$ se e solo se $\angle BAC = 60^\circ$.
 
-[[src_bmo1_2009__Q03]]
+[[Quesiti/src_bmo1_2009#q03|src_bmo1_2009__Q03]]
 
 
 
@@ -115,7 +115,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri positivi $n$ in modo tale che $2008$ divida $n^2 + 2008$ e $2009$ divida $n^2 + 2009$.
 
-[[src_bmo1_2009__Q04]]
+[[Quesiti/src_bmo1_2009#q04|src_bmo1_2009__Q04]]
 
 
 
@@ -145,7 +145,7 @@ level: BMO Round 1
 
 > Determinare le sequenze $a_1, a_2, a_3, \ldots$ che soddisfano tutte le seguenti condizioni: a) $a_{n+1} = 2a_n^2 - 1$ per ogni numero intero $n \geq 0$; b) $a_0$ è un numero razionale; c) $a_i = a_j$ per alcuni $i \neq j$.
 
-[[src_bmo1_2009__Q05]]
+[[Quesiti/src_bmo1_2009#q05|src_bmo1_2009__Q05]]
 
 
 
@@ -173,4 +173,4 @@ level: BMO Round 1
 
 > Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
 
-[[src_bmo1_2009__Q06]]
+[[Quesiti/src_bmo1_2009#q06|src_bmo1_2009__Q06]]

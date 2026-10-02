@@ -33,7 +33,7 @@ level: BMO Round 1
 
 > Un *ramp* è una sequenza di tre diversi integri positivi $a, b, c$ in modo tale che $a$ è un fattore di $b$ e $b$ è un fattore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determinare con prova se $p^n$ può essere espresso come la somma di una rampa.
 
-[[src_bmo1_2026__Q01]]
+[[Quesiti/src_bmo1_2026#q01|src_bmo1_2026__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: BMO Round 1
 
 > Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 1.$$
 
-[[src_bmo1_2026__Q02]]
+[[Quesiti/src_bmo1_2026#q02|src_bmo1_2026__Q02]]
 
 
 
@@ -96,7 +96,7 @@ level: BMO Round 1
 > 
 > Quanti modi si possono fare?
 
-[[src_bmo1_2026__Q03]]
+[[Quesiti/src_bmo1_2026#q03|src_bmo1_2026__Q03]]
 
 
 
@@ -127,7 +127,7 @@ level: BMO Round 1
 > 
 > Prove che $MA \times MD = MB \times MC$.
 
-[[src_bmo1_2026__Q04]]
+[[Quesiti/src_bmo1_2026#q04|src_bmo1_2026__Q04]]
 
 
 
@@ -164,7 +164,7 @@ level: BMO Round 1
 > 
 > In primo luogo impone $t_1 = 1$. Quindi, per $n \ge 1$: \begin{itemize} \item Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$. \item Se $t_n$ è pari e superiore a 1, allora $t_{n+1} = t_n / 3$ arrotondato al numero intero più vicino. \item Se $t_n = 1$, allora $t_{n+1} = 2025k$ dove $k$ è il numero di termini uguali a $1$ tra $t_1, t_2, \ldots, t_n$. Questa sequenza contiene ogni intero positivo?
 
-[[src_bmo1_2026__Q05]]
+[[Quesiti/src_bmo1_2026#q05|src_bmo1_2026__Q05]]
 
 
 
@@ -207,4 +207,4 @@ level: BMO Round 1
 > 
 > Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
 
-[[src_bmo1_2026__Q06]]
+[[Quesiti/src_bmo1_2026#q06|src_bmo1_2026__Q06]]

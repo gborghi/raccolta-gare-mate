@@ -34,7 +34,7 @@ level: IMO
 
 > The $O$ point lies on the straight $g$; $\overrightarrow{OP_1}, \overrightarrow{OP_2}, \ldots, \overrightarrow{OP_n}$ are unit vectors such that the $P_1, P_2, \ldots, P_n$ points lie all in a plane containing $g$ and on one side of $g$. Show that if $n$ is odd, then $$\left|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}\right| \geq 1.$$ Here $\left|\overrightarrow{OM}\right|$ denotes the length of the $\overrightarrow{OM}$ vector.
 
-[[src_imo_1973_all__Q01]]
+[[Quesiti/src_imo_1973_all#q01|src_imo_1973_all__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: IMO
 
 > Determine whether or not there is a finite set $M$ of points in space, not lying on the same plane, such that for any pair of points $A$ and $B$ of $M$ two other points $C$ and $D$ of $M$ may be chosen so that the lines $AB$ and $CD$ are parallel and not coincident.
 
-[[src_imo_1973_all__Q02]]
+[[Quesiti/src_imo_1973_all#q02|src_imo_1973_all__Q02]]
 
 
 
@@ -87,7 +87,7 @@ Minimize a^2+b^2 for quartic with a real root
 
 > They are $a$ and $b$ real numbers for which the equation $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$ has at least one real solution. For all pairs $(a, b)$ with this property, find the minimum value of $a^2 + b^2$.
 
-[[src_imo_1973_all__Q03]]
+[[Quesiti/src_imo_1973_all#q03|src_imo_1973_all__Q03]]
 
 
 
@@ -114,7 +114,7 @@ Minimize a^2+b^2 for quartic with a real root
 
 > A soldier must check for mines in an equilateral triangle region. The radius of action of its detector is half the height of the triangle. The soldier starts at the top of the triangle. What path must he follow to cover the shortest possible distance and still complete his mission?
 
-[[src_imo_1973_all__Q04]]
+[[Quesiti/src_imo_1973_all#q04|src_imo_1973_all__Q04]]
 
 
 
@@ -159,7 +159,7 @@ Minimize a^2+b^2 for quartic with a real root
 > 
 > Demonstrate that there is a real number $k$ such that $f(k) = k$ for each $f \in G$.
 
-[[src_imo_1973_all__Q05]]
+[[Quesiti/src_imo_1973_all#q05|src_imo_1973_all__Q05]]
 
 
 
@@ -197,4 +197,4 @@ Minimize a^2+b^2 for quartic with a real root
 > 
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
 
-[[src_imo_1973_all__Q06]]
+[[Quesiti/src_imo_1973_all#q06|src_imo_1973_all__Q06]]

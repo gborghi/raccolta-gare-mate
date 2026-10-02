@@ -60,7 +60,7 @@ level: kangourou
 > 	
 > E) 8
 
-[[src_kangourou_2014_benjamin__Q01]]
+[[Quesiti/src_kangourou_2014_benjamin#q01|src_kangourou_2014_benjamin__Q01]]
 
 
 
@@ -92,7 +92,7 @@ Weight of the largest piece of cake
 
 > A cake weighs 900 grams. Luisa slices it into four slices, the largest of which weighs as much as the other three put together. How many grams does the largest slice weigh? A) 250 B) 300 C) 400 D) 450 E) 600
 
-[[src_kangourou_2014_benjamin__Q02]]
+[[Quesiti/src_kangourou_2014_benjamin#q02|src_kangourou_2014_benjamin__Q02]]
 
 
 
@@ -136,7 +136,7 @@ Weight of the largest piece of cake
 >    	
 > E)
 
-[[src_kangourou_2014_benjamin__Q03]]
+[[Quesiti/src_kangourou_2014_benjamin#q03|src_kangourou_2014_benjamin__Q03]]
 
 
 
@@ -180,7 +180,7 @@ Weight of the largest piece of cake
 > 	
 > E) 10
 
-[[src_kangourou_2014_benjamin__Q04]]
+[[Quesiti/src_kangourou_2014_benjamin#q04|src_kangourou_2014_benjamin__Q04]]
 
 
 
@@ -218,7 +218,7 @@ Weight of the largest piece of cake
 > 	
 > C) 1111 D) 9000 E) 9900
 
-[[src_kangourou_2014_benjamin__Q05]]
+[[Quesiti/src_kangourou_2014_benjamin#q05|src_kangourou_2014_benjamin__Q05]]
 
 
 
@@ -296,7 +296,7 @@ Weight of the largest piece of cake
 > E) 72
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q06]]
+[[Quesiti/src_kangourou_2014_benjamin#q06|src_kangourou_2014_benjamin__Q06]]
 
 
 
@@ -344,7 +344,7 @@ Weight of the largest piece of cake
 > E) You cannot answer without knowing the number of triangles.
 
 **Answer:** E
-[[src_kangourou_2014_benjamin__Q07]]
+[[Quesiti/src_kangourou_2014_benjamin#q07|src_kangourou_2014_benjamin__Q07]]
 
 
 
@@ -396,7 +396,7 @@ Weight of the largest piece of cake
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2014_benjamin__Q08]]
+[[Quesiti/src_kangourou_2014_benjamin#q08|src_kangourou_2014_benjamin__Q08]]
 
 
 
@@ -448,7 +448,7 @@ Weight of the largest piece of cake
 > 	
 > E) 152
 
-[[src_kangourou_2014_benjamin__Q09]]
+[[Quesiti/src_kangourou_2014_benjamin#q09|src_kangourou_2014_benjamin__Q09]]
 
 
 
@@ -489,7 +489,7 @@ Weight of the largest piece of cake
 
 > Bianca's digital clock is partially damaged: all three horizontal lines of the figure to the right (minutes) are not illuminated. The clock has just been taken from the picture shown on the left to the one shown on the right. What time is it right now? (A) 12:40 B) 12:44 C) 12:47 D) 12:48 E) 12:49 Questions from n. 11 al n. 20 is worth 4 points each.
 
-[[src_kangourou_2014_benjamin__Q10]]
+[[Quesiti/src_kangourou_2014_benjamin#q10|src_kangourou_2014_benjamin__Q10]]
 
 
 
@@ -532,7 +532,7 @@ How many children eat ice cream today
 > Guido has composed the small mosaic you see in the figure and can choose one of the four remaining tiles to complete it. He wants the black part to have the same area as the white part once it's done. What is the plaster to replace the question mark? (A) B) C) D) E) E) Any of the four tiles placed cannot make the two areas equal. + x ?
 >
 
-[[src_kangourou_2014_benjamin__Q11]]
+[[Quesiti/src_kangourou_2014_benjamin#q11|src_kangourou_2014_benjamin__Q11]]
 
 
 
@@ -581,7 +581,7 @@ How many children eat ice cream today
 > D) More than 1 km north-west. E) 1 km west.
 
 **Answer:** B
-[[src_kangourou_2014_benjamin__Q12]]
+[[Quesiti/src_kangourou_2014_benjamin#q12|src_kangourou_2014_benjamin__Q12]]
 
 
 
@@ -628,7 +628,7 @@ How many kids are gonna eat ice cream today?
 > E) It is impossible to know.
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q13]]
+[[Quesiti/src_kangourou_2014_benjamin#q13|src_kangourou_2014_benjamin__Q13]]
 
 
 
@@ -676,7 +676,7 @@ How many kids are gonna eat ice cream today?
 > E) 24
 
 **Answer:** E
-[[src_kangourou_2014_benjamin__Q14]]
+[[Quesiti/src_kangourou_2014_benjamin#q14|src_kangourou_2014_benjamin__Q14]]
 
 
 
@@ -726,7 +726,7 @@ How many kids are gonna eat ice cream today?
 > E) E
 
 **Answer:** B
-[[src_kangourou_2014_benjamin__Q15]]
+[[Quesiti/src_kangourou_2014_benjamin#q15|src_kangourou_2014_benjamin__Q15]]
 
 
 
@@ -773,7 +773,7 @@ How many kids are gonna eat ice cream today?
 > E) 18
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q16]]
+[[Quesiti/src_kangourou_2014_benjamin#q16|src_kangourou_2014_benjamin__Q16]]
 
 
 
@@ -818,7 +818,7 @@ How many kids are gonna eat ice cream today?
 >  
 > E) A different number from the previous ones.
 
-[[src_kangourou_2014_benjamin__Q17]]
+[[Quesiti/src_kangourou_2014_benjamin#q17|src_kangourou_2014_benjamin__Q17]]
 
 
 
@@ -864,7 +864,7 @@ How many kids are gonna eat ice cream today?
 > (b) Bise C) Carla D) Dina E) Enrica D and C B A
 >
 
-[[src_kangourou_2014_benjamin__Q18]]
+[[Quesiti/src_kangourou_2014_benjamin#q18|src_kangourou_2014_benjamin__Q18]]
 
 
 
@@ -913,7 +913,7 @@ How many kids are gonna eat ice cream today?
 > E) 13
 
 **Answer:** E
-[[src_kangourou_2014_benjamin__Q19]]
+[[Quesiti/src_kangourou_2014_benjamin#q19|src_kangourou_2014_benjamin__Q19]]
 
 
 
@@ -962,7 +962,7 @@ How many kids are gonna eat ice cream today?
 > E) Further information is needed to answer. Questions from n. 21 al n. 30 is worth 5 points each.
 
 **Answer:** A
-[[src_kangourou_2014_benjamin__Q20]]
+[[Quesiti/src_kangourou_2014_benjamin#q20|src_kangourou_2014_benjamin__Q20]]
 
 
 
@@ -1018,7 +1018,7 @@ How many kids are gonna eat ice cream today?
 > E) 9
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q21]]
+[[Quesiti/src_kangourou_2014_benjamin#q21|src_kangourou_2014_benjamin__Q21]]
 
 
 
@@ -1068,7 +1068,7 @@ What song was playing on the way home after an hour?
 > E) E
 
 **Answer:** A
-[[src_kangourou_2014_benjamin__Q22]]
+[[Quesiti/src_kangourou_2014_benjamin#q22|src_kangourou_2014_benjamin__Q22]]
 
 
 
@@ -1114,7 +1114,7 @@ What song was playing on the way home after an hour?
 > E) 6
 
 **Answer:** B
-[[src_kangourou_2014_benjamin__Q23]]
+[[Quesiti/src_kangourou_2014_benjamin#q23|src_kangourou_2014_benjamin__Q23]]
 
 
 
@@ -1202,7 +1202,7 @@ What song was playing on the way home after an hour?
 > The ABC triangle in the figure is divided into four triangles ADC, DEC, FED and FBE all having the same area (the figure is indicative only). The FB segment is 15 m long. How many meters does the AD segment measure ? A) 7             B) 8              C) 9              D) 10            E) 11
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q24]]
+[[Quesiti/src_kangourou_2014_benjamin#q24|src_kangourou_2014_benjamin__Q24]]
 
 
 
@@ -1259,7 +1259,7 @@ What song was playing on the way home after an hour?
 >
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q25]]
+[[Quesiti/src_kangourou_2014_benjamin#q25|src_kangourou_2014_benjamin__Q25]]
 
 
 
@@ -1303,7 +1303,7 @@ What song was playing on the way home after an hour?
 > Look at the figure. On a transparent plastic cube a decorative line is drawn, retracting some of the beads and some of the diagonals of some faces. For each of its faces, imagine flattening the cube by squeezing it perpendicular to that face (thus, of the five moving faces, only the opposite face will remain intact, while the other four will be compressed, each on one side of that face). Any of the following images can then be obtained, except one. What kind? A) B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2014_benjamin__Q26]]
+[[Quesiti/src_kangourou_2014_benjamin#q26|src_kangourou_2014_benjamin__Q26]]
 
 
 
@@ -1342,7 +1342,7 @@ What song was playing on the way home after an hour?
 > B) 7 or 8, and both are possible. C) Surely 6. D) Surely 7. E) Surely 8.
 
 **Answer:** B
-[[src_kangourou_2014_benjamin__Q27]]
+[[Quesiti/src_kangourou_2014_benjamin#q27|src_kangourou_2014_benjamin__Q27]]
 
 
 
@@ -1391,7 +1391,7 @@ What song was playing on the way home after an hour?
 > E) 4
 
 **Answer:** C
-[[src_kangourou_2014_benjamin__Q28]]
+[[Quesiti/src_kangourou_2014_benjamin#q28|src_kangourou_2014_benjamin__Q28]]
 
 
 
@@ -1438,7 +1438,7 @@ What song was playing on the way home after an hour?
 > D) We cannot even predict tomorrow. E) We can predict the weather for any day starting tomorrow.
 
 **Answer:** C
-[[src_kangourou_2014_benjamin__Q29]]
+[[Quesiti/src_kangourou_2014_benjamin#q29|src_kangourou_2014_benjamin__Q29]]
 
 
 
@@ -1490,4 +1490,4 @@ What song was playing on the way home after an hour?
 > I'm going to take a look.
 
 **Answer:** E
-[[src_kangourou_2014_benjamin__Q30]]
+[[Quesiti/src_kangourou_2014_benjamin#q30|src_kangourou_2014_benjamin__Q30]]

@@ -40,7 +40,7 @@ level: kangourou
 > On the train journey to Mirabilandia, Lisa sits in the seventh carriage from the train's head, while Marco sits in the sixth carriage from the tail; Marco is closer than Lisa to the train's head and among their carriages there is another carriage. How many carriages is the train made of? (a) 15 (b) 14 (c) 13 (d) 10 (e) indefinite reply
 
 **Answer:** D
-[[src_kangourou_2003_student__Q01]]
+[[Quesiti/src_kangourou_2003_student#q01|src_kangourou_2003_student__Q01]]
 
 
 
@@ -77,7 +77,7 @@ level: kangourou
 > The area of the square in Figure 1 is a; we call b the area of each of the circles in Figures 1 and 2. In Figure 2, the three aligned circles are enclosed by a rubber band. If the elastic is shortened so that it is in tension, without changing the position of the three circles, what is the area of the figure bounded by the elastic? A) 3b B) 2a+b C) a+2b D) 3a E) a+b
 
 **Answer:** B
-[[src_kangourou_2003_student__Q02]]
+[[Quesiti/src_kangourou_2003_student#q02|src_kangourou_2003_student__Q02]]
 
 
 
@@ -112,7 +112,7 @@ level: kangourou
 > Andrea calculated the volume of a sphere, but, in applying the known formula, he mistakenly used the diameter instead of the radius. What should you do with the result to get the right answer? A) Divide it by two B) Divide it by four. C) Divide it by six. D) Divide it by eight. E) Divide it by 16. n+2003        n+2003
 
 **Answer:** D
-[[src_kangourou_2003_student__Q03]]
+[[Quesiti/src_kangourou_2003_student#q03|src_kangourou_2003_student__Q03]]
 
 
 
@@ -144,7 +144,7 @@ The following table summarizes the results of the calculations:
 > 2 + 2           = n+2004               2n+4006             2n+4006                  2n+2003                 n+2003 A) 2             B)  2 C) 4                D)  4                 E) 4
 
 **Answer:** B
-[[src_kangourou_2003_student__Q04]]
+[[Quesiti/src_kangourou_2003_student#q04|src_kangourou_2003_student__Q04]]
 
 
 
@@ -188,7 +188,7 @@ The following table summarizes the results of the calculations:
 > I'm going to pay. I'm going to pay. 29 29 Kang 2003 Kang
 
 **Answer:** E
-[[src_kangourou_2003_student__Q05]]
+[[Quesiti/src_kangourou_2003_student#q05|src_kangourou_2003_student__Q05]]
 
 
 
@@ -224,7 +224,7 @@ The following table summarizes the results of the calculations:
 > The average number of students promoted by a particular school in the four years 1999 to 2002 was 325 students per year, while in the five years 1999 to 2003 the average was more than 20%. How many students were promoted from the school in 2003? A)  650 B)  600 C)  455 D)  390 E)  345
 
 **Answer:** A
-[[src_kangourou_2003_student__Q06]]
+[[Quesiti/src_kangourou_2003_student#q06|src_kangourou_2003_student__Q06]]
 
 
 
@@ -256,7 +256,7 @@ The following table summarizes the results of the calculations:
 > Let's draw two dice (with the faces numbered 1 to 6, as in use), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equal B) 0 C) 1 D) 2 E) 3
 
 **Answer:** C
-[[src_kangourou_2003_student__Q07]]
+[[Quesiti/src_kangourou_2003_student#q07|src_kangourou_2003_student__Q07]]
 
 
 
@@ -291,7 +291,7 @@ The following table summarizes the results of the calculations:
 > The sum of all the values of the parameter m for which the curves of equations x2+y2 = 1 and y = x2+m have exactly one point in common is A) {-5/4, -1, 1} B) {-5/4, 1} C) {-1, 1} D) {-5/4} E) {1}
 
 **Answer:** E
-[[src_kangourou_2003_student__Q08]]
+[[Quesiti/src_kangourou_2003_student#q08|src_kangourou_2003_student__Q08]]
 
 
 
@@ -329,7 +329,7 @@ How to cover a chessboard with dominoes
 > How many distinct ways are there to cover all the white boxes on the chessboard in the figure, using the usual 1 x 2 dominoes? A) 8 B) 16 C) 32 D) 64 E) 128
 
 **Answer:** B
-[[src_kangourou_2003_student__Q09]]
+[[Quesiti/src_kangourou_2003_student#q09|src_kangourou_2003_student__Q09]]
 
 
 
@@ -370,7 +370,7 @@ How to cover a chessboard with dominoes
 > We build a numerical triangle by putting a whole number greater than 1 in each box, following the instructions below. Which of the following numbers cannot appear in the shadow box? Instructions A) 60 B) 88 C) 90 D) 100 E) 154 Questions from N. 11 al N. Twenty is worth four points.
 
 **Answer:** E
-[[src_kangourou_2003_student__Q10]]
+[[Quesiti/src_kangourou_2003_student#q10|src_kangourou_2003_student__Q10]]
 
 
 
@@ -423,7 +423,7 @@ How to cover a chessboard with dominoes
 > I'm going to pay. I'm going to pay. 30 30 Kang 2003 Kang
 
 **Answer:** C
-[[src_kangourou_2003_student__Q11]]
+[[Quesiti/src_kangourou_2003_student#q11|src_kangourou_2003_student__Q11]]
 
 
 
@@ -459,7 +459,7 @@ How to cover a chessboard with dominoes
 > Two white crab and eight gray crab are flying over a river. Suddenly they land on one of the banks of the river, arranged in a straight line in random order. What is the probability that the two white cabbages are next to each other? A) 1/5 B) 1/6 C) 1/7 D) 1/8 E) 1/9
 
 **Answer:** A
-[[src_kangourou_2003_student__Q12]]
+[[Quesiti/src_kangourou_2003_student#q12|src_kangourou_2003_student__Q12]]
 
 
 
@@ -491,7 +491,7 @@ How to cover a chessboard with dominoes
 > A) 2000 B) 2001 C) 2002 D) 2003 E) 2004
 
 **Answer:** B
-[[src_kangourou_2003_student__Q13]]
+[[Quesiti/src_kangourou_2003_student#q13|src_kangourou_2003_student__Q13]]
 
 
 
@@ -527,7 +527,7 @@ How to cover a chessboard with dominoes
 > 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acutangle triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
 
 **Answer:** C
-[[src_kangourou_2003_student__Q14]]
+[[Quesiti/src_kangourou_2003_student#q14|src_kangourou_2003_student__Q14]]
 
 
 
@@ -562,7 +562,7 @@ How to cover a chessboard with dominoes
 > A computer prints the list of the seventh powers of the natural numbers, namely the sequence 17, 27, 37, ... and so on. How many terms in this sequence are strictly understood between the numbers 521 and 249? A)  13 B)  8 C)  5 D)  3 E)  2
 
 **Answer:** E
-[[src_kangourou_2003_student__Q15]]
+[[Quesiti/src_kangourou_2003_student#q15|src_kangourou_2003_student__Q15]]
 
 
 
@@ -597,7 +597,7 @@ How to cover a chessboard with dominoes
 > Now, since 10n+1 is a multiple of 101 and n is a two-digit number, what's the maximum possible value for n? A) 92 B) 94 C)  96 D)  98 E) 99
 
 **Answer:** D
-[[src_kangourou_2003_student__Q16]]
+[[Quesiti/src_kangourou_2003_student#q16|src_kangourou_2003_student__Q16]]
 
 
 
@@ -635,7 +635,7 @@ How to cover a chessboard with dominoes
 > The figure shows two squares, with sides of 2 m and 1 m respectively. What's the area of the shaded region? A) 1 m2 B) 2 m2 C) 2 m2 D) 4 m2 E) Depends on the position of the two squares
 
 **Answer:** A
-[[src_kangourou_2003_student__Q17]]
+[[Quesiti/src_kangourou_2003_student#q17|src_kangourou_2003_student__Q17]]
 
 
 
@@ -665,7 +665,7 @@ How to cover a chessboard with dominoes
 > The sum of 1002 - 992 + 982 - ... + 22 - 12 is equal to A) 2002; B) 2020; C) 4040; D) 5050; E) 8008
 
 **Answer:** D
-[[src_kangourou_2003_student__Q18]]
+[[Quesiti/src_kangourou_2003_student#q18|src_kangourou_2003_student__Q18]]
 
 
 
@@ -728,7 +728,7 @@ How to cover a chessboard with dominoes
 > I'm going to pay. I'm going to pay. 31 31 Kang 2003 Kang
 
 **Answer:** B
-[[src_kangourou_2003_student__Q19]]
+[[Quesiti/src_kangourou_2003_student#q19|src_kangourou_2003_student__Q19]]
 
 
 
@@ -770,7 +770,7 @@ How to cover a chessboard with dominoes
 > So let's first draw an equilateral triangle, then let's draw the circumference of the circle around it; now let's circle this circle around a square, and the square around another circle; this new circle around a regular pentagon, and so on. We repeat this construction, with new circumferences and new regular polygons (each having one side more than the previous one) until we trace the regular polygon of 16 sides. How many segregated regions are contained within the last polygon? A) 232 B) 240 C) 248 D) 264 E) 272 Questions from N. 21 al N. 30 is worth 5 points.
 
 **Answer:** C
-[[src_kangourou_2003_student__Q20]]
+[[Quesiti/src_kangourou_2003_student#q20|src_kangourou_2003_student__Q20]]
 
 
 
@@ -809,7 +809,7 @@ How to cover a chessboard with dominoes
 > The graph of the function f, illustrated by the figure, consists of a segment and two semirettes. What is the sum of all solutions of the equation f (f (f (x)))=0? A) {-4, 0} B) {-8, -4, 0} C) {-12, -8, -4, 0} D) Together empty E) {-16, -12, -8, -4, 0}
 
 **Answer:** C
-[[src_kangourou_2003_student__Q21]]
+[[Quesiti/src_kangourou_2003_student#q21|src_kangourou_2003_student__Q21]]
 
 
 
@@ -845,7 +845,7 @@ How to cover a chessboard with dominoes
 > A point P(x, r) belongs to the center circumference (2,2) and radius r. Now, knowing that r > 2 and both x and r are positive integers, what's the smallest possible value for x? A) 1 B) 2 C) 4 D) 6 E) 8
 
 **Answer:** D
-[[src_kangourou_2003_student__Q22]]
+[[Quesiti/src_kangourou_2003_student#q22|src_kangourou_2003_student__Q22]]
 
 
 
@@ -880,7 +880,7 @@ How to cover a chessboard with dominoes
 > Let's say that A>B>1, and B is a positive integer such that A, B, A-B, A+B are all prime numbers. So S=A+B+(A-B)+(A+B) A) is equal to B) is a multiple of 3 C) is a multiple of 5 D) is a multiple of 7 E) is a prime number
 
 **Answer:** E
-[[src_kangourou_2003_student__Q23]]
+[[Quesiti/src_kangourou_2003_student#q23|src_kangourou_2003_student__Q23]]
 
 
 
@@ -933,7 +933,7 @@ Price that maximizes profit
 > I'm going to pay. I'm going to pay. 32 32 Kang 2003 Kang
 
 **Answer:** E
-[[src_kangourou_2003_student__Q24]]
+[[Quesiti/src_kangourou_2003_student#q24|src_kangourou_2003_student__Q24]]
 
 
 
@@ -1044,7 +1044,7 @@ Price that maximizes profit
 > In an ABCD rectangle, P, Q and R are the midpoints of the sides BC, CD and AD, respectively, and M is the midpoint of the QR segment. What fraction of the area of ABCD is covered by the APM triangle? A) 1/4 B) 1/6 C) 3/8 D) 1/3 E) 5/16
 
 **Answer:** E
-[[src_kangourou_2003_student__Q25]]
+[[Quesiti/src_kangourou_2003_student#q25|src_kangourou_2003_student__Q25]]
 
 
 
@@ -1082,7 +1082,7 @@ Price that maximizes profit
 > The sequence (an) is defined as follows: a0 = 4 a1 = 6 an+1 = (an) / (an-1), with n > 1. So 2003 is equal to: A) 3/2 B) 2/3 C) 4 D) 1/4 E) 1/6
 
 **Answer:** B
-[[src_kangourou_2003_student__Q26]]
+[[Quesiti/src_kangourou_2003_student#q26|src_kangourou_2003_student__Q26]]
 
 
 
@@ -1123,7 +1123,7 @@ Price that maximizes profit
 > ABCD is a rectangle, where AB = 16, BC = 12. ACE is a right triangle with a right angle in C and CE = 15. If F is the intersection point of AE and CD, then the area of the ACF triangle is A) 75 B) 80 C) 96 D) 72 E) 48
 
 **Answer:** A
-[[src_kangourou_2003_student__Q27]]
+[[Quesiti/src_kangourou_2003_student#q27|src_kangourou_2003_student__Q27]]
 
 
 
@@ -1159,7 +1159,7 @@ Price that maximizes profit
 > By associating a verse with it, Peter transforms each vertex of a cube into a vector of equal length; thus adding up all 12 vectors thus obtained. How many different results can Peter achieve in this way (using all possible choices on the verses)? A) 25 B) 27 C) 64 D) 100 E) 125
 
 **Answer:** E
-[[src_kangourou_2003_student__Q28]]
+[[Quesiti/src_kangourou_2003_student#q28|src_kangourou_2003_student__Q28]]
 
 
 
@@ -1193,7 +1193,7 @@ Price that maximizes profit
 > Let's consider the six vertices of a regular hexagon, and all the segments that connect any two of these points. We call two of these segments "foreign" if they have nothing in common (including the extremes). How many pairs of "foreign" segments are there? A) 26 B) 28 C) 30 D) 34 E) 36
 
 **Answer:** C
-[[src_kangourou_2003_student__Q29]]
+[[Quesiti/src_kangourou_2003_student#q29|src_kangourou_2003_student__Q29]]
 
 
 
@@ -1241,4 +1241,4 @@ Price that maximizes profit
 > If f is a polynomial such that f (x2 + 1) = x4 + 4x2 . So f (x2 - 1) is the polynomial A) x4 - 4x2 B) x4 C) x4 + 4x2 - 4 D) x4 - 4 E) None of the previous answers is correct A B C D P Q R M A D E B C F
 
 **Answer:** D
-[[src_kangourou_2003_student__Q30]]
+[[Quesiti/src_kangourou_2003_student#q30|src_kangourou_2003_student__Q30]]

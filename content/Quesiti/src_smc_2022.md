@@ -47,7 +47,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 6
 
 **Risposta:** D
-[[src_smc_2022__Q01]]
+[[Quesiti/src_smc_2022#q01|src_smc_2022__Q01]]
 
 
 
@@ -88,7 +88,7 @@ level: Senior Mathematical Challenge
 > - **(E)** 53
 
 **Risposta:** C
-[[src_smc_2022__Q02]]
+[[Quesiti/src_smc_2022#q02|src_smc_2022__Q02]]
 
 
 
@@ -107,7 +107,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** more than 8
 
-![[src_smc_2022__Q03.png]]
+![[src_smc_2022__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -130,10 +130,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** più di 8
 
-![[src_smc_2022__Q03.png]]
+![[src_smc_2022__q03.png]]
 
 **Risposta:** C
-[[src_smc_2022__Q03]]
+[[Quesiti/src_smc_2022#q03|src_smc_2022__Q03]]
 
 
 
@@ -152,7 +152,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $8:21$
 > - **(E)** $1:2$
 
-![[src_smc_2022__Q04.png]]
+![[src_smc_2022__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -175,10 +175,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $8:21$
 > - **(E)** $1:2$
 
-![[src_smc_2022__Q04.png]]
+![[src_smc_2022__q04.png]]
 
 **Risposta:** D
-[[src_smc_2022__Q04]]
+[[Quesiti/src_smc_2022#q04|src_smc_2022__Q04]]
 
 
 
@@ -219,7 +219,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 3.1
 
 **Risposta:** C
-[[src_smc_2022__Q05]]
+[[Quesiti/src_smc_2022#q05|src_smc_2022__Q05]]
 
 
 
@@ -260,7 +260,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $2^{400}$
 
 **Risposta:** E
-[[src_smc_2022__Q06]]
+[[Quesiti/src_smc_2022#q06|src_smc_2022__Q06]]
 
 
 
@@ -301,7 +301,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 2
 
 **Risposta:** C
-[[src_smc_2022__Q07]]
+[[Quesiti/src_smc_2022#q07|src_smc_2022__Q07]]
 
 
 
@@ -320,7 +320,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 84
 > - **(E)** 72
 
-![[src_smc_2022__Q08.png]]
+![[src_smc_2022__q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -343,10 +343,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 84
 > - **(E)** 72
 
-![[src_smc_2022__Q08.png]]
+![[src_smc_2022__q08.png]]
 
 **Risposta:** E
-[[src_smc_2022__Q08]]
+[[Quesiti/src_smc_2022#q08|src_smc_2022__Q08]]
 
 
 
@@ -386,7 +386,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 300 m
 
 **Risposta:** B
-[[src_smc_2022__Q09]]
+[[Quesiti/src_smc_2022#q09|src_smc_2022__Q09]]
 
 
 
@@ -427,7 +427,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $-1$
 
 **Risposta:** E
-[[src_smc_2022__Q10]]
+[[Quesiti/src_smc_2022#q10|src_smc_2022__Q10]]
 
 
 
@@ -446,7 +446,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 6
 > - **(E)** 33
 
-![[src_smc_2022__Q11.png]]
+![[src_smc_2022__q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -469,10 +469,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 6
 > - **(E)** 33
 
-![[src_smc_2022__Q11.png]]
+![[src_smc_2022__q11.png]]
 
 **Risposta:** A
-[[src_smc_2022__Q11]]
+[[Quesiti/src_smc_2022#q11|src_smc_2022__Q11]]
 
 
 
@@ -513,7 +513,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 63
 
 **Risposta:** E
-[[src_smc_2022__Q12]]
+[[Quesiti/src_smc_2022#q12|src_smc_2022__Q12]]
 
 
 
@@ -554,7 +554,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $12\text{ m}^2$
 
 **Risposta:** C
-[[src_smc_2022__Q13]]
+[[Quesiti/src_smc_2022#q13|src_smc_2022__Q13]]
 
 
 
@@ -573,7 +573,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $\frac{20}{81}$
 > - **(E)** $\frac{1}{3}$
 
-![[src_smc_2022__Q14.png]]
+![[src_smc_2022__q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -596,10 +596,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $\frac{20}{81}$
 > - **(E)** $\frac{1}{3}$
 
-![[src_smc_2022__Q14.png]]
+![[src_smc_2022__q14.png]]
 
 **Risposta:** A
-[[src_smc_2022__Q14]]
+[[Quesiti/src_smc_2022#q14|src_smc_2022__Q14]]
 
 
 
@@ -640,7 +640,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 72
 
 **Risposta:** B
-[[src_smc_2022__Q15]]
+[[Quesiti/src_smc_2022#q15|src_smc_2022__Q15]]
 
 
 
@@ -659,7 +659,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** [diagram D]
 > - **(E)** [diagram E]
 
-![[src_smc_2022__Q16.png]]
+![[src_smc_2022__q16.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casework|Casework]]
@@ -682,10 +682,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** [Diagramma D]
 > - **(E)** [Diagramma E]
 
-![[src_smc_2022__Q16.png]]
+![[src_smc_2022__q16.png]]
 
 **Risposta:** B
-[[src_smc_2022__Q16]]
+[[Quesiti/src_smc_2022#q16|src_smc_2022__Q16]]
 
 
 
@@ -704,7 +704,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $3 - 2\sqrt{2} - \sqrt{3}$
 > - **(E)** $2\sqrt{2} - \sqrt{3}$
 
-![[src_smc_2022__Q17.png]]
+![[src_smc_2022__q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -727,10 +727,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $3 - 2\sqrt{2} - \sqrt{3}$
 > - **(E)** $2\sqrt{2} - \sqrt{3}$
 
-![[src_smc_2022__Q17.png]]
+![[src_smc_2022__q17.png]]
 
 **Risposta:** B
-[[src_smc_2022__Q17]]
+[[Quesiti/src_smc_2022#q17|src_smc_2022__Q17]]
 
 
 
@@ -771,7 +771,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $5\sqrt{3}$
 
 **Risposta:** B
-[[src_smc_2022__Q18]]
+[[Quesiti/src_smc_2022#q18|src_smc_2022__Q18]]
 
 
 
@@ -812,7 +812,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** 4
 
 **Risposta:** E
-[[src_smc_2022__Q19]]
+[[Quesiti/src_smc_2022#q19|src_smc_2022__Q19]]
 
 
 
@@ -831,7 +831,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 40
 > - **(E)** $10\sqrt{2}$
 
-![[src_smc_2022__Q20.png]]
+![[src_smc_2022__q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -854,10 +854,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 40
 > - **(E)** $10\sqrt{2}$
 
-![[src_smc_2022__Q20.png]]
+![[src_smc_2022__q20.png]]
 
 **Risposta:** D
-[[src_smc_2022__Q20]]
+[[Quesiti/src_smc_2022#q20|src_smc_2022__Q20]]
 
 
 
@@ -876,7 +876,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $4 + \pi$
 > - **(E)** 12
 
-![[src_smc_2022__Q21.png]]
+![[src_smc_2022__q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -899,10 +899,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $4 + \pi$
 > - **(E)** 12
 
-![[src_smc_2022__Q21.png]]
+![[src_smc_2022__q21.png]]
 
 **Risposta:** D
-[[src_smc_2022__Q21]]
+[[Quesiti/src_smc_2022#q21|src_smc_2022__Q21]]
 
 
 
@@ -943,7 +943,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** infinitamente molti
 
 **Risposta:** B
-[[src_smc_2022__Q22]]
+[[Quesiti/src_smc_2022#q22|src_smc_2022__Q22]]
 
 
 
@@ -962,7 +962,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $\frac{11}{2}\sqrt{40}$
 > - **(E)** 441
 
-![[src_smc_2022__Q23.png]]
+![[src_smc_2022__q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -985,10 +985,10 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $\frac{11}{2}\sqrt{40}$
 > - **(E)** 441
 
-![[src_smc_2022__Q23.png]]
+![[src_smc_2022__q23.png]]
 
 **Risposta:** A
-[[src_smc_2022__Q23]]
+[[Quesiti/src_smc_2022#q23|src_smc_2022__Q23]]
 
 
 
@@ -1029,7 +1029,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(E)** $(p+1)(q+1)$
 
 **Risposta:** D
-[[src_smc_2022__Q24]]
+[[Quesiti/src_smc_2022#q24|src_smc_2022__Q24]]
 
 
 
@@ -1048,7 +1048,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $\frac{11}{3}\sqrt{5}$
 > - **(E)** $\frac{1}{3}\sqrt{6}$
 
-![[src_smc_2022__Q25.png]]
+![[src_smc_2022__q25.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -1071,7 +1071,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $\frac{11}{3}\sqrt{5}$
 > - **(E)** $\frac{1}{3}\sqrt{6}$
 
-![[src_smc_2022__Q25.png]]
+![[src_smc_2022__q25.png]]
 
 **Risposta:** A
-[[src_smc_2022__Q25]]
+[[Quesiti/src_smc_2022#q25|src_smc_2022__Q25]]

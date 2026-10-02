@@ -63,7 +63,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > **4.** Determina tutte le scatole perfette di pesi di massa totale $1993$ grammi.
 
-[[src_cgen_1993__Q01]]
+[[Quesiti/src_cgen_1993#q01|src_cgen_1993__Q01]]
 
 
 
@@ -115,7 +115,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
 
-[[src_cgen_1993__Q02]]
+[[Quesiti/src_cgen_1993#q02|src_cgen_1993__Q02]]
 
 
 
@@ -144,7 +144,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 
 > $f$ sia un'applicazione da $\mathbb{Z}$ all'insieme $\mathbb{R}$ di numeri reali. Supponiamo che $f$ sia delimitato di seguito e soddisfi: per ogni numero intero relativo $n$, $$f(n) > \frac{1}{2}|f(n+1) + f(n-1)|.$$ Mostri che l'applicazione $f$ è costante.
 
-[[src_cgen_1993__Q03]]
+[[Quesiti/src_cgen_1993#q03|src_cgen_1993__Q03]]
 
 
 
@@ -179,7 +179,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > **2.** Indicare che, per alcuni valori di $r < 1$, è possibile coprire il disco $D$ con tre dischi dello stesso raggio $r$. Qual è il valore minimo di $r$ che consente tale copertura?
 
-[[src_cgen_1993__Q04]]
+[[Quesiti/src_cgen_1993#q04|src_cgen_1993__Q04]]
 
 
 
@@ -226,4 +226,4 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > Determinare il valore massimo del quotiente $\dfrac{V}{L^3}$.
 
-[[src_cgen_1993__Q05]]
+[[Quesiti/src_cgen_1993#q05|src_cgen_1993__Q05]]

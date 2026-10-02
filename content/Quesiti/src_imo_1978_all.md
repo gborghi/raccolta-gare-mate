@@ -32,7 +32,7 @@ Minimize m+n with equal last three digits of 1978^m,1978^n*
 
 > Let $m$ and $n$ be natural numbers with $1 \leq m < n$. In their decimal representations, the last three digits of $1978^m$ are equal, respectively, to the last three digits of $1978^n$. Find $m$ and $n$ such that $m + n$ has its least value.
 
-[[src_imo_1978_all__Q01]]
+[[Quesiti/src_imo_1978_all#q01|src_imo_1978_all__Q01]]
 
 
 
@@ -58,7 +58,7 @@ Minimize m+n with equal last three digits of 1978^m,1978^n*
 
 > $P$ is a given point inside a given sphere. Three mutually perpendicular rays from $P$ intersect the sphere at points $U$, $V$, and $W$; $Q$ denotes the vertex diagonally opposite to $P$ in the parallelpiped determined by $PU$, $PV$, and $PW$. Find the locus of $Q$ for all such triads of rays from $P$.
 
-[[src_imo_1978_all__Q02]]
+[[Quesiti/src_imo_1978_all#q02|src_imo_1978_all__Q02]]
 
 
 
@@ -89,7 +89,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 
 > The set of all positive integers is the union of two disjoint subsets $\{f(1), f(2), \ldots, f(n), \ldots\}$ and $\{g(1), g(2), \ldots, g(n), \ldots\}$, where $$f(1) < f(2) < \cdots < f(n) < \cdots,$$ $$g(1) < g(2) < \cdots < g(n) < \cdots,$$ and $$g(n) = f(f(n)) + 1 \quad \text{for all } n \geq 1.$$ Determine $f(240)$.
 
-[[src_imo_1978_all__Q03]]
+[[Quesiti/src_imo_1978_all#q03|src_imo_1978_all__Q03]]
 
 
 
@@ -116,7 +116,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 
 > In the $ABC$ triangle, $AB = AC$. A circle is tangent internally to the circumcircle of triangle $ABC$ and also to sides $AB$, $AC$ at $P$, $Q$, respectively. Prove that the midpoint of segment $PQ$ is the center of the incircle of triangle $ABC$.
 
-[[src_imo_1978_all__Q04]]
+[[Quesiti/src_imo_1978_all#q04|src_imo_1978_all__Q04]]
 
 
 
@@ -143,7 +143,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 
 > Let $\{a_k\}$ ($k = 1, 2, 3, \ldots$) be a sequence of distinct positive integers. Prove that for all natural numbers
 
-[[src_imo_1978_all__Q05]]
+[[Quesiti/src_imo_1978_all#q05|src_imo_1978_all__Q05]]
 
 
 
@@ -169,4 +169,4 @@ Member whose number is sum/double of same-country members
 
 > An international society has its members from six different countries. The list of members contains 1978 names, numbered $1, 2, \ldots, 1978$. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.
 
-[[src_imo_1978_all__Q06]]
+[[Quesiti/src_imo_1978_all#q06|src_imo_1978_all__Q06]]

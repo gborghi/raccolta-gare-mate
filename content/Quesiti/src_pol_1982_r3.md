@@ -33,7 +33,7 @@ level: Olimpiade Polacca Round 3
 
 > Trovare un modo per organizzare le ragazze e i ragazzi su una tavola rotonda per la quale il massimo è $d_n - c_n$, dove $d_n$ è il numero di ragazze sedute tra due ragazzi e $c_n$ il numero di ragazzi seduti tra due ragazze.
 
-[[src_pol_1982_r3__Q01]]
+[[Quesiti/src_pol_1982_r3#q01|src_pol_1982_r3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: Olimpiade Polacca Round 3
 
 > In un quadrilaterale ciclico $ABCD$ la linea che attraversa il punto medio di $AB$ e il punto di intersezione dei diagonali è perpendicolare a $CD$. Prova che i lati $AB$ e $CD$ sono paralleli o che i diagonali sono perpendicolari.
 
-[[src_pol_1982_r3__Q02]]
+[[Quesiti/src_pol_1982_r3#q02|src_pol_1982_r3__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: Olimpiade Polacca Round 3
 
 > Trova tutte le coppie di numeri positivi $(x, y)$ che soddisfano il sistema di equazioni $$x^2 + y^2 = a^2 + b^2,$$ $$x^3 + y^3 = a^3 + b^3,$$ dove $a$ e $b$ sono dati numeri positivi.
 
-[[src_pol_1982_r3__Q03]]
+[[Quesiti/src_pol_1982_r3#q03|src_pol_1982_r3__Q03]]
 
 
 
@@ -119,7 +119,7 @@ level: Olimpiade Polacca Round 3
 
 > In un piano viene dato un insieme finito di punti. Prova che i punti possono essere coperti da quadrati aperti $Q_1, Q_2, \ldots, Q_n$ in modo tale che $$1 \le \frac{N_j}{S_j} \le 4 \quad \text{for } j = 1, \ldots, n,$$, dove $N_j$ è il numero di punti del set all'interno del quadrato $Q_j$ e $S_j$ è l'area di $Q_j$.
 
-[[src_pol_1982_r3__Q04]]
+[[Quesiti/src_pol_1982_r3#q04|src_pol_1982_r3__Q04]]
 
 
 
@@ -148,7 +148,7 @@ level: Olimpiade Polacca Round 3
 
 > Gli integri $x_0, x_1, \ldots, x_{n-1}, x_n = x_0, x_{n+1} = x_1$ soddisfano la disuguaglianza $(-1)^k x_{k-1} x_{k+1} > 0$ per $k = 1, 2, \ldots, n$. Prova che la differenza $$\sum_{k=0}^{n-1} x_k - \sum_{k=0}^{n-1} |x_k|$$ è divisibile per $4$.
 
-[[src_pol_1982_r3__Q05]]
+[[Quesiti/src_pol_1982_r3#q05|src_pol_1982_r3__Q05]]
 
 
 
@@ -175,4 +175,4 @@ level: Olimpiade Polacca Round 3
 
 > Prova che la somma degli angoli diedrali in un tetraedro arbitrario è maggiore di $2\pi$.
 
-[[src_pol_1982_r3__Q06]]
+[[Quesiti/src_pol_1982_r3#q06|src_pol_1982_r3__Q06]]

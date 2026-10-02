@@ -44,7 +44,7 @@ level: kangourou
 > Which of the parallel pipes shown in the answers can be composed using these six identical-sized bricks? A) B) C) D) E)
 
 **Answer:** D
-[[src_kangourou_2021_benjamin__Q01]]
+[[Quesiti/src_kangourou_2021_benjamin#q01|src_kangourou_2021_benjamin__Q01]]
 
 
 
@@ -82,7 +82,7 @@ level: kangourou
 > In this picture, all the children are holding hands. How many times does it happen that both hands that are holding together are left hands? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** A
-[[src_kangourou_2021_benjamin__Q02]]
+[[Quesiti/src_kangourou_2021_benjamin#q02|src_kangourou_2021_benjamin__Q02]]
 
 
 
@@ -120,7 +120,7 @@ level: kangourou
 > By correctly inserting the five cards in the puzzle, you get a rectangle in which you read an addition. What is the result? A) 22 B) 32 C) 41 D) 122 E) 203
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q03]]
+[[Quesiti/src_kangourou_2021_benjamin#q03|src_kangourou_2021_benjamin__Q03]]
 
 
 
@@ -170,7 +170,7 @@ level: kangourou
 >
 
 **Answer:** E
-[[src_kangourou_2021_benjamin__Q04]]
+[[Quesiti/src_kangourou_2021_benjamin#q04|src_kangourou_2021_benjamin__Q04]]
 
 
 
@@ -221,7 +221,7 @@ level: kangourou
 > E) 81
 
 **Answer:** C
-[[src_kangourou_2021_benjamin__Q05]]
+[[Quesiti/src_kangourou_2021_benjamin#q05|src_kangourou_2021_benjamin__Q05]]
 
 
 
@@ -272,7 +272,7 @@ level: kangourou
 > E) He can't.
 
 **Answer:** D
-[[src_kangourou_2021_benjamin__Q06]]
+[[Quesiti/src_kangourou_2021_benjamin#q06|src_kangourou_2021_benjamin__Q06]]
 
 
 
@@ -316,7 +316,7 @@ level: kangourou
 > C) C D) D E) E
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q07]]
+[[Quesiti/src_kangourou_2021_benjamin#q07|src_kangourou_2021_benjamin__Q07]]
 
 
 
@@ -357,7 +357,7 @@ level: kangourou
 > Mary had a sheet of paper. He folded it exactly in half and then folded it in half again and got the figure to the right. Of the P, Q and R shapes you see on the left, which could have been the original paper? A) Only P. B) Only Q. C) Only R. D) Only P or Q. E) Any one of the three forms.
 
 **Answer:** E
-[[src_kangourou_2021_benjamin__Q08]]
+[[Quesiti/src_kangourou_2021_benjamin#q08|src_kangourou_2021_benjamin__Q08]]
 
 
 
@@ -390,7 +390,7 @@ level: kangourou
 > In one box were 20 apples and 20 pears. Carlo accidentally took 20 fruits from the box and Luca took all the rest. Which of the following is certainly true? A) Charles took at least one pear. B) Charles took the same number of apples and pears. C) Charles took the same number of apples as Luke. D) Charles took as many pears as the apples that Luke took. E) Charles took the same number of pears as Luke.
 
 **Answer:** D
-[[src_kangourou_2021_benjamin__Q09]]
+[[Quesiti/src_kangourou_2021_benjamin#q09|src_kangourou_2021_benjamin__Q09]]
 
 
 
@@ -467,7 +467,7 @@ level: kangourou
 > The questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2021_benjamin__Q10]]
+[[Quesiti/src_kangourou_2021_benjamin#q10|src_kangourou_2021_benjamin__Q10]]
 
 
 
@@ -503,7 +503,7 @@ level: kangourou
 > Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip into two dots; thus he got three numbers that he then went to add up. What's the smallest sum that Julius could have gotten? A) 3244 B) 3444 C) 5172 D) 5217 E) 5444
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q11]]
+[[Quesiti/src_kangourou_2021_benjamin#q11|src_kangourou_2021_benjamin__Q11]]
 
 
 
@@ -554,7 +554,7 @@ level: kangourou
 > C) 25 D) 35 E) 50
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q12]]
+[[Quesiti/src_kangourou_2021_benjamin#q12|src_kangourou_2021_benjamin__Q12]]
 
 
 
@@ -611,7 +611,7 @@ level: kangourou
 > E)
 
 **Answer:** D
-[[src_kangourou_2021_benjamin__Q13]]
+[[Quesiti/src_kangourou_2021_benjamin#q13|src_kangourou_2021_benjamin__Q13]]
 
 
 
@@ -664,7 +664,7 @@ Number at the top? with sums of 30 in hexagons*
 > E) 7
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q14]]
+[[Quesiti/src_kangourou_2021_benjamin#q14|src_kangourou_2021_benjamin__Q14]]
 
 
 
@@ -710,7 +710,7 @@ Number at the top? with sums of 30 in hexagons*
 > D) 8,2 E) 8,5
 
 **Answer:** C
-[[src_kangourou_2021_benjamin__Q15]]
+[[Quesiti/src_kangourou_2021_benjamin#q15|src_kangourou_2021_benjamin__Q15]]
 
 
 
@@ -796,7 +796,7 @@ The color of the sphere? in the spherical pyramid*
 > E) E
 
 **Answer:** A
-[[src_kangourou_2021_benjamin__Q16]]
+[[Quesiti/src_kangourou_2021_benjamin#q16|src_kangourou_2021_benjamin__Q16]]
 
 
 
@@ -849,7 +849,7 @@ The color of the sphere? in the spherical pyramid*
 > E)
 
 **Answer:** E
-[[src_kangourou_2021_benjamin__Q17]]
+[[Quesiti/src_kangourou_2021_benjamin#q17|src_kangourou_2021_benjamin__Q17]]
 
 
 
@@ -904,7 +904,7 @@ The color of the sphere? in the spherical pyramid*
 > E)
 
 **Answer:** C
-[[src_kangourou_2021_benjamin__Q18]]
+[[Quesiti/src_kangourou_2021_benjamin#q18|src_kangourou_2021_benjamin__Q18]]
 
 
 
@@ -939,7 +939,7 @@ The color of the sphere? in the spherical pyramid*
 > Carla wants to paint the walls of her room green. The green tempera you bought in the store is too dark, so think about mixing it with white tempera. It makes several test mixes: which of the following will give the darker green color? A) 1 part green and 2 parts white. B) 2 parts green and 3 parts white. C) 2 parts green and 5 parts white. D) 4 parts green and 7 parts white. E) 4 parts green and 9 parts white.
 
 **Answer:** C
-[[src_kangourou_2021_benjamin__Q19]]
+[[Quesiti/src_kangourou_2021_benjamin#q19|src_kangourou_2021_benjamin__Q19]]
 
 
 
@@ -1028,7 +1028,7 @@ The color of the sphere? in the spherical pyramid*
 > The questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q20]]
+[[Quesiti/src_kangourou_2021_benjamin#q20|src_kangourou_2021_benjamin__Q20]]
 
 
 
@@ -1067,7 +1067,7 @@ The color of the sphere? in the spherical pyramid*
 > C) Dani and Eva. D) Eve and Anna. E) There is insufficient information to establish this.
 
 **Answer:** A
-[[src_kangourou_2021_benjamin__Q21]]
+[[Quesiti/src_kangourou_2021_benjamin#q21|src_kangourou_2021_benjamin__Q21]]
 
 
 
@@ -1115,7 +1115,7 @@ Maximum number of pancakes with ingredients given
 > E) 15
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q22]]
+[[Quesiti/src_kangourou_2021_benjamin#q22|src_kangourou_2021_benjamin__Q22]]
 
 
 
@@ -1164,7 +1164,7 @@ Maximum number of pancakes with ingredients given
 > D) E)
 
 **Answer:** A
-[[src_kangourou_2021_benjamin__Q23]]
+[[Quesiti/src_kangourou_2021_benjamin#q23|src_kangourou_2021_benjamin__Q23]]
 
 
 
@@ -1203,7 +1203,7 @@ Maximum number of pancakes with ingredients given
 > (b) Orange. (c) Fishing. D) The pear. E) There is insufficient data to establish this.
 
 **Answer:** C
-[[src_kangourou_2021_benjamin__Q24]]
+[[Quesiti/src_kangourou_2021_benjamin#q24|src_kangourou_2021_benjamin__Q24]]
 
 
 
@@ -1256,7 +1256,7 @@ Maximum number of pancakes with ingredients given
 > E) 21
 
 **Answer:** E
-[[src_kangourou_2021_benjamin__Q25]]
+[[Quesiti/src_kangourou_2021_benjamin#q25|src_kangourou_2021_benjamin__Q25]]
 
 
 
@@ -1313,7 +1313,7 @@ Maximum number of pancakes with ingredients given
 >
 
 **Answer:** C
-[[src_kangourou_2021_benjamin__Q26]]
+[[Quesiti/src_kangourou_2021_benjamin#q26|src_kangourou_2021_benjamin__Q26]]
 
 
 
@@ -1365,7 +1365,7 @@ Maximum number of pancakes with ingredients given
 > E) 14
 
 **Answer:** D
-[[src_kangourou_2021_benjamin__Q27]]
+[[Quesiti/src_kangourou_2021_benjamin#q27|src_kangourou_2021_benjamin__Q27]]
 
 
 
@@ -1414,7 +1414,7 @@ Maximum number of pancakes with ingredients given
 > E) 86
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q28]]
+[[Quesiti/src_kangourou_2021_benjamin#q28|src_kangourou_2021_benjamin__Q28]]
 
 
 
@@ -1462,7 +1462,7 @@ Maximum number of pancakes with ingredients given
 > E) 55
 
 **Answer:** A
-[[src_kangourou_2021_benjamin__Q29]]
+[[Quesiti/src_kangourou_2021_benjamin#q29|src_kangourou_2021_benjamin__Q29]]
 
 
 
@@ -1520,4 +1520,4 @@ Minimum number of witches given the sum of 36*
 >
 
 **Answer:** B
-[[src_kangourou_2021_benjamin__Q30]]
+[[Quesiti/src_kangourou_2021_benjamin#q30|src_kangourou_2021_benjamin__Q30]]

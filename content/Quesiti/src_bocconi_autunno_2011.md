@@ -19,7 +19,7 @@ level: Giochi d'Autunno
 
 > Debora vuole dividere il cartone della figura in tante parti quadrate e rettangolari. Quante ne ottiene al minimo?
 
-![[src_bocconi_autunno_2011__Q01.png]]
+![[src_bocconi_autunno_2011__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -36,10 +36,10 @@ level: Giochi d'Autunno
 
 > Deborah wants to divide the cartoon of the figure into many square and rectangular parts. How much do you get at least?
 
-![[src_bocconi_autunno_2011__Q01.png]]
+![[src_bocconi_autunno_2011__q01.png]]
 
 **Answer:** 4
-[[src_bocconi_autunno_2011__Q01]]
+[[Quesiti/src_bocconi_autunno_2011#q01|src_bocconi_autunno_2011__Q01]]
 
 
 
@@ -52,7 +52,7 @@ level: Giochi d'Autunno
 
 > Nella sottrazione della figura ad ogni simbolo corrisponde sempre una stessa cifra, diversa da quelle corrispondenti agli altri simboli. Quale simbolo (il computer, l'orologio, il telefono) nasconde la cifra più grande?
 
-![[src_bocconi_autunno_2011__Q02.png]]
+![[src_bocconi_autunno_2011__q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -69,10 +69,10 @@ level: Giochi d'Autunno
 
 > In subtracting the figure from each symbol, there is always the same figure, different from those corresponding to the other symbols. What symbol (computer, watch, phone) hides the largest number?
 
-![[src_bocconi_autunno_2011__Q02.png]]
+![[src_bocconi_autunno_2011__q02.png]]
 
 **Answer:** Orologio
-[[src_bocconi_autunno_2011__Q02]]
+[[Quesiti/src_bocconi_autunno_2011#q02|src_bocconi_autunno_2011__Q02]]
 
 
 
@@ -85,7 +85,7 @@ level: Giochi d'Autunno
 
 > Un filo di ferro è stato piegato in modo da assumere la forma di ferro di cavallo (che vedete in figura). Se tracciate due rette, in quanti pezzi al massimo potete suddividere il vostro filo di ferro? (I pezzi ottenuti dopo aver tracciato la prima retta non possono essere spostati)
 
-![[src_bocconi_autunno_2011__Q03.png]]
+![[src_bocconi_autunno_2011__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -102,10 +102,10 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 
 > An iron wire was folded to take the form of horse iron (see figure). If you draw two lines, how many pieces can you split your iron wire into? (Parts obtained after tracing the first straight line cannot be moved)
 
-![[src_bocconi_autunno_2011__Q03.png]]
+![[src_bocconi_autunno_2011__q03.png]]
 
 **Answer:** 5
-[[src_bocconi_autunno_2011__Q03]]
+[[Quesiti/src_bocconi_autunno_2011#q03|src_bocconi_autunno_2011__Q03]]
 
 
 
@@ -118,7 +118,7 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 
 > È una sveglia che, illuminandosi, segnala tutte le ore e i minuti a partire da 00:00 fino a 23:59. Quante volte in 24 ore, illuminandosi, indica contemporaneamente uno "0", un "1" e due "2"?
 
-![[src_bocconi_autunno_2011__Q04.png]]
+![[src_bocconi_autunno_2011__q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -135,10 +135,10 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 
 > It's an alarm clock that lights up and records every hour and minute from 00:00 until 11:59. How many times in 24 hours, when lit up, does it simultaneously indicate a "0", a "1" and two "2"?
 
-![[src_bocconi_autunno_2011__Q04.png]]
+![[src_bocconi_autunno_2011__q04.png]]
 
 **Answer:** 12
-[[src_bocconi_autunno_2011__Q04]]
+[[Quesiti/src_bocconi_autunno_2011#q04|src_bocconi_autunno_2011__Q04]]
 
 
 
@@ -151,7 +151,7 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 
 > Disponendo 14 quadratini bianchi lungo tutto il perimetro di un rettangolo, si possono "accerchiare" 4 oppure 6 quadratini grigi (come si vede in figura). Adesso Liliana, di quadratini bianchi da disporre lungo il perimetro di un rettangolo di opportune dimensioni, ne ha ben 20. Quanti quadratini grigi può "accerchiare" al massimo?
 
-![[src_bocconi_autunno_2011__Q05.png]]
+![[src_bocconi_autunno_2011__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -168,10 +168,10 @@ Maximum number of grey squares rounded with 20 whites
 
 > With 14 white squares along the perimeter of a rectangle, 4 or 6 grey squares can be "circled" (as shown in the figure). Now Liliana, of white squares to be arranged along the perimeter of a right-angled rectangle of appropriate size, has as many as 20. How many grey squares can you "circle" at most?
 
-![[src_bocconi_autunno_2011__Q05.png]]
+![[src_bocconi_autunno_2011__q05.png]]
 
 **Answer:** 16
-[[src_bocconi_autunno_2011__Q05]]
+[[Quesiti/src_bocconi_autunno_2011#q05|src_bocconi_autunno_2011__Q05]]
 
 
 
@@ -200,7 +200,7 @@ The age of Angelo by the speeches of partially correct friends
 > Carla and Milena have three friends: Angelo, Nando, and Pietro, who are three different ages (9, 10, and 11). Carla says, "I think Nando is 11 and Angelo is 10". For Milena, Peter is 11 and Nando is 10. Each of them guessed the age of one friend, while the other three friends got it wrong. How old is Angelo?
 
 **Answer:** 10 anni
-[[src_bocconi_autunno_2011__Q06]]
+[[Quesiti/src_bocconi_autunno_2011#q06|src_bocconi_autunno_2011__Q06]]
 
 
 
@@ -229,7 +229,7 @@ The age of Angelo by the speeches of partially correct friends
 > The date 29/09/2011 (29 September 2011) is written using four digits, each of which is used twice. What will be the next date (written like the previous one, as day/month/year) that has the same property of being written with four digits, each used twice?
 
 **Answer:** 13-03-2012
-[[src_bocconi_autunno_2011__Q07]]
+[[Quesiti/src_bocconi_autunno_2011#q07|src_bocconi_autunno_2011__Q07]]
 
 
 
@@ -242,7 +242,7 @@ The age of Angelo by the speeches of partially correct friends
 
 > Utilizzando i cinque gettoni della figura (tutti o in parte), scrivete un multiplo di 2012.
 
-![[src_bocconi_autunno_2011__Q08.png]]
+![[src_bocconi_autunno_2011__q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -259,10 +259,10 @@ The age of Angelo by the speeches of partially correct friends
 
 > Using the five tokens in the figure (all or part), write a multiple of 2012.
 
-![[src_bocconi_autunno_2011__Q08.png]]
+![[src_bocconi_autunno_2011__q08.png]]
 
 **Answer:** 74444
-[[src_bocconi_autunno_2011__Q08]]
+[[Quesiti/src_bocconi_autunno_2011#q08|src_bocconi_autunno_2011__Q08]]
 
 
 
@@ -275,7 +275,7 @@ The age of Angelo by the speeches of partially correct friends
 
 > Jacub ha trovato sette pezzi di carta identici tra loro, tutti a forma di Y (come in figura a destra). Li vuole sistemare, ruotandoli e capovolgerli, in una griglia (come in figura a sinistra) stessa che si sovrappongono. Come fare?
 
-![[src_bocconi_autunno_2011__Q09.png]]
+![[src_bocconi_autunno_2011__q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -292,10 +292,10 @@ The age of Angelo by the speeches of partially correct friends
 
 > Jacub found seven identical pieces of paper, all Y-shaped (as shown on the right). He wants to fix them, rotate them and turn them over, into a grid (as in the figure to the left) itself that overlaps. How do you do that?
 
-![[src_bocconi_autunno_2011__Q09.png]]
+![[src_bocconi_autunno_2011__q09.png]]
 
 **Answer:** Vedere la suddivisione in figura
-[[src_bocconi_autunno_2011__Q09]]
+[[Quesiti/src_bocconi_autunno_2011#q09|src_bocconi_autunno_2011__Q09]]
 
 
 
@@ -308,7 +308,7 @@ The age of Angelo by the speeches of partially correct friends
 
 > Il rettangolo della figura contiene tutti i numeri interi da 1 a 21. Il rettangolo è "magico" perché la somma dei numeri scritti sulle varie righe sia sempre la stessa e che anche le somme dei numeri nelle stesse colonne stiano tra di loro. Trovate i tredici numeri cancellati.
 
-![[src_bocconi_autunno_2011__Q10.png]]
+![[src_bocconi_autunno_2011__q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -325,10 +325,10 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > The rectangle of the figure contains all integers from 1 to 21. The rectangle is "magical" because the sum of the numbers written on the various lines is always the same and that the sums of the numbers in the same columns are also between them. Find the 13 deleted numbers.
 
-![[src_bocconi_autunno_2011__Q10.png]]
+![[src_bocconi_autunno_2011__q10.png]]
 
 **Answer:** Riga 1: 10, 21, 9, 16, 5, 14, 2; Riga 2: 3, 4, 7, 11, 15, 18, 19; Riga 3: 20, 8, 17, 6, 13, 1, 12
-[[src_bocconi_autunno_2011__Q10]]
+[[Quesiti/src_bocconi_autunno_2011#q10|src_bocconi_autunno_2011__Q10]]
 
 
 
@@ -357,7 +357,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 > They're linear numbers where the sum of the digits is equal to 5. An example of a quintal number is 5, 32, 11, 111, 20. How many quintals are there between 1 and 1000?
 
 **Answer:** 21
-[[src_bocconi_autunno_2011__Q11]]
+[[Quesiti/src_bocconi_autunno_2011#q11|src_bocconi_autunno_2011__Q11]]
 
 
 
@@ -370,7 +370,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > In figura vedete, all'interno di un quadrato, due triangoli equilateri con il lato che misura 16 cm. Qual è l'area del quadrato?
 
-![[src_bocconi_autunno_2011__Q12.png]]
+![[src_bocconi_autunno_2011__q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -387,10 +387,10 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > In the figure you see, inside a square, two equilateral triangles with the side measuring 16 cm. What's the area of the square?
 
-![[src_bocconi_autunno_2011__Q12.png]]
+![[src_bocconi_autunno_2011__q12.png]]
 
 **Answer:** $384 \text{ cm}^2$
-[[src_bocconi_autunno_2011__Q12]]
+[[Quesiti/src_bocconi_autunno_2011#q12|src_bocconi_autunno_2011__Q12]]
 
 
 
@@ -403,7 +403,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > In figura vedete due quadrati della stessa dimensione, che delimitano nove regioni. Quante regioni complessivamente al massimo si possono avere, aggiungendo sulla figura un terzo quadrato della stessa dimensione?
 
-![[src_bocconi_autunno_2011__Q13.png]]
+![[src_bocconi_autunno_2011__q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -420,10 +420,10 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > In the figure you can see two squares of the same size, which delimit nine regions. How many regions in total can one have by adding to the figure a third of a square of the same size?
 
-![[src_bocconi_autunno_2011__Q13.png]]
+![[src_bocconi_autunno_2011__q13.png]]
 
 **Answer:** 25
-[[src_bocconi_autunno_2011__Q13]]
+[[Quesiti/src_bocconi_autunno_2011#q13|src_bocconi_autunno_2011__Q13]]
 
 
 
@@ -452,7 +452,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 > Subtracting the digit 0 from the number 405, you get 45 which is its ninth (which is still divisible by 9). Find another four-digit number (only the number is enough) so that, by subtracting a 0, you get a ninth.
 
 **Answer:** 2025 oppure 4050 oppure 6075
-[[src_bocconi_autunno_2011__Q14]]
+[[Quesiti/src_bocconi_autunno_2011#q14|src_bocconi_autunno_2011__Q14]]
 
 
 
@@ -481,7 +481,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 > Give an example of a positive integer whose square has four digits, all equal.
 
 **Answer:** 68 oppure 78 oppure 80 oppure 92
-[[src_bocconi_autunno_2011__Q15]]
+[[Quesiti/src_bocconi_autunno_2011#q15|src_bocconi_autunno_2011__Q15]]
 
 
 
@@ -494,7 +494,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > La figura di vertici F, O, I, N è un parallelogramma la cui base misura 1001 m e la cui altezza misura 2012 m. Il punto S è situato sulla base NI a 905 m dal vertice I. Qual è l'area del quadrilatero BOIS?
 
-![[src_bocconi_autunno_2011__Q16.png]]
+![[src_bocconi_autunno_2011__q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -511,10 +511,10 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > The figure of vertices F, O, I, N is a parallelogram whose base measures 1001 m and whose height measures 2012 m. Point S is located at base NI 905 m from summit I. What's the area of the BOIS quadrilateral?
 
-![[src_bocconi_autunno_2011__Q16.png]]
+![[src_bocconi_autunno_2011__q16.png]]
 
 **Answer:** $608630 \text{ m}^2$
-[[src_bocconi_autunno_2011__Q16]]
+[[Quesiti/src_bocconi_autunno_2011#q16|src_bocconi_autunno_2011__Q16]]
 
 
 
@@ -543,7 +543,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 > In a large clock, the hour hand measures 20 cm while the minute hand measures 30 cm. At four o'clock, what is the square of the distance between the ends of the two hands?
 
 **Answer:** 1900
-[[src_bocconi_autunno_2011__Q17]]
+[[Quesiti/src_bocconi_autunno_2011#q17|src_bocconi_autunno_2011__Q17]]
 
 
 
@@ -556,7 +556,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > Dividete la superficie della figura in quattro parti uguali della stessa forma (e ribaltamenti).
 
-![[src_bocconi_autunno_2011__Q18.png]]
+![[src_bocconi_autunno_2011__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -573,7 +573,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 > Divide the surface of the figure into four equal parts of the same shape (and turns).
 
-![[src_bocconi_autunno_2011__Q18.png]]
+![[src_bocconi_autunno_2011__q18.png]]
 
 **Answer:** Vedere la suddivisione in figura
-[[src_bocconi_autunno_2011__Q18]]
+[[Quesiti/src_bocconi_autunno_2011#q18|src_bocconi_autunno_2011__Q18]]

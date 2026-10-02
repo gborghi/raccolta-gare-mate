@@ -21,7 +21,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quale risultato ottenete (tenendo presenti le condizioni)?
 
-![[src_bocconi_finalenaz_2013__Q01.png]]
+![[src_bocconi_finalenaz_2013__q01.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,10 +40,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > What is the result (taking into account the conditions)?
 
-![[src_bocconi_finalenaz_2013__Q01.png]]
+![[src_bocconi_finalenaz_2013__q01.png]]
 
 **Answer:** 1-2-4-3-6-5
-[[src_bocconi_finalenaz_2013__Q01]]
+[[Quesiti/src_bocconi_finalenaz_2013#q01|src_bocconi_finalenaz_2013__Q01]]
 
 
 
@@ -58,7 +58,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quale numero leggerà Milena, leggendo le cifre riportate nelle facce opposte a quelle visibili a Carla?
 
-![[src_bocconi_finalenaz_2013__Q02.png]]
+![[src_bocconi_finalenaz_2013__q02.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -77,10 +77,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Which number will Milena read, reading the figures shown on the faces opposite those seen by Carla?
 
-![[src_bocconi_finalenaz_2013__Q02.png]]
+![[src_bocconi_finalenaz_2013__q02.png]]
 
 **Answer:** 2453
-[[src_bocconi_finalenaz_2013__Q02]]
+[[Quesiti/src_bocconi_finalenaz_2013#q02|src_bocconi_finalenaz_2013__Q02]]
 
 
 
@@ -113,7 +113,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > What is the result (given that a number cannot start with "0")?
 
 **Answer:** 43199865
-[[src_bocconi_finalenaz_2013__Q03]]
+[[Quesiti/src_bocconi_finalenaz_2013#q03|src_bocconi_finalenaz_2013__Q03]]
 
 
 
@@ -146,7 +146,7 @@ Anne's gift for four gifts with memory constraints
 > How much did Anna spend on her first cousin?
 
 **Answer:** 515 Euro
-[[src_bocconi_finalenaz_2013__Q04]]
+[[Quesiti/src_bocconi_finalenaz_2013#q04|src_bocconi_finalenaz_2013__Q04]]
 
 
 
@@ -161,7 +161,7 @@ Anne's gift for four gifts with memory constraints
 > 
 > Quale numero Luca vede allo specchio? (Tenete presente che i fabbricanti di t-shirt non sono molto competenti in matematica e tra l'altro non sanno che un numero con più cifre non può cominciare con uno "0".)
 
-![[src_bocconi_finalenaz_2013__Q05.png]]
+![[src_bocconi_finalenaz_2013__q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -180,10 +180,10 @@ Anne's gift for four gifts with memory constraints
 > 
 > What number does Luke see in the mirror? (Please note that t-shirt manufacturers are not very good at math and, by the way, they don't know that a number with more than one digit can't start with a "0".)
 
-![[src_bocconi_finalenaz_2013__Q05.png]]
+![[src_bocconi_finalenaz_2013__q05.png]]
 
 **Answer:** 220
-[[src_bocconi_finalenaz_2013__Q05]]
+[[Quesiti/src_bocconi_finalenaz_2013#q05|src_bocconi_finalenaz_2013__Q05]]
 
 
 
@@ -216,7 +216,7 @@ Anne's gift for four gifts with memory constraints
 > How many birthdays (day and month) can be written under the same condition?
 
 **Answer:** 75
-[[src_bocconi_finalenaz_2013__Q06]]
+[[Quesiti/src_bocconi_finalenaz_2013#q06|src_bocconi_finalenaz_2013__Q06]]
 
 
 
@@ -231,7 +231,7 @@ Anne's gift for four gifts with memory constraints
 > 
 > Quale è la distanza tra due aeroporti vicini sapendo che Desiderio, quando è tornato in A per la prima volta, ha percorso 45.000 km?
 
-![[src_bocconi_finalenaz_2013__Q07.png]]
+![[src_bocconi_finalenaz_2013__q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -250,10 +250,10 @@ Anne's gift for four gifts with memory constraints
 > 
 > What is the distance between two nearby airports knowing that Desiderio, when he returned to A for the first time, traveled 45,000 km?
 
-![[src_bocconi_finalenaz_2013__Q07.png]]
+![[src_bocconi_finalenaz_2013__q07.png]]
 
 **Answer:** 7500 km
-[[src_bocconi_finalenaz_2013__Q07]]
+[[Quesiti/src_bocconi_finalenaz_2013#q07|src_bocconi_finalenaz_2013__Q07]]
 
 
 
@@ -266,7 +266,7 @@ Anne's gift for four gifts with memory constraints
 
 > Amerigo vuole dividere il blocco che vediamo in figura nei suoi 21 cubetti (tutti uguali tra loro). Con quanti tagli ottiene il minimo, sapendo che tra un taglio e l'altro può riassemblare i pezzi ottenuti come vuole?
 
-![[src_bocconi_finalenaz_2013__Q08.png]]
+![[src_bocconi_finalenaz_2013__q08.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -283,10 +283,10 @@ Anne's gift for four gifts with memory constraints
 
 > Amerigo wants to divide the block we see in the figure into his 21 cubes (all equal to each other). With how many cuts does he get the minimum, knowing that between one cut and the other he can assemble the pieces he gets as he pleases?
 
-![[src_bocconi_finalenaz_2013__Q08.png]]
+![[src_bocconi_finalenaz_2013__q08.png]]
 
 **Answer:** 5
-[[src_bocconi_finalenaz_2013__Q08]]
+[[Quesiti/src_bocconi_finalenaz_2013#q08|src_bocconi_finalenaz_2013__Q08]]
 
 
 
@@ -319,7 +319,7 @@ Measures of square meadows with total area of 222 dams
 > How much do the sides of the meadows measure? (On the answer sheet, write the smallest possible answer, if not unique.)
 
 **Answer:** 1-5-14, 1-10-11, 2-7-13
-[[src_bocconi_finalenaz_2013__Q09]]
+[[Quesiti/src_bocconi_finalenaz_2013#q09|src_bocconi_finalenaz_2013__Q09]]
 
 
 
@@ -352,7 +352,7 @@ Measures of square meadows with total area of 222 dams
 > How much is Deborah's number worth?
 
 **Answer:** 121 e 264
-[[src_bocconi_finalenaz_2013__Q10]]
+[[Quesiti/src_bocconi_finalenaz_2013#q10|src_bocconi_finalenaz_2013__Q10]]
 
 
 
@@ -385,7 +385,7 @@ Measures of square meadows with total area of 222 dams
 > How many tokens did Nando use at most?
 
 **Answer:** 10
-[[src_bocconi_finalenaz_2013__Q11]]
+[[Quesiti/src_bocconi_finalenaz_2013#q11|src_bocconi_finalenaz_2013__Q11]]
 
 
 
@@ -418,7 +418,7 @@ Measures of square meadows with total area of 222 dams
 > How tall is he?
 
 **Answer:** 4,8 cm e 5 cm
-[[src_bocconi_finalenaz_2013__Q12]]
+[[Quesiti/src_bocconi_finalenaz_2013#q12|src_bocconi_finalenaz_2013__Q12]]
 
 
 
@@ -455,7 +455,7 @@ Mysterious positive number less than 2013 with three conditions
 > What number is this?
 
 **Answer:** 1513
-[[src_bocconi_finalenaz_2013__Q13]]
+[[Quesiti/src_bocconi_finalenaz_2013#q13|src_bocconi_finalenaz_2013__Q13]]
 
 
 
@@ -488,7 +488,7 @@ Mysterious positive number less than 2013 with three conditions
 > How many coin tosses did Gian Italo make?
 
 **Answer:** 12
-[[src_bocconi_finalenaz_2013__Q14]]
+[[Quesiti/src_bocconi_finalenaz_2013#q14|src_bocconi_finalenaz_2013__Q14]]
 
 
 
@@ -521,7 +521,7 @@ Mysterious positive number less than 2013 with three conditions
 > What are the first three consecutive natural integers that have the same number of divisors? (On the answer sheet, write the smallest of these three numbers.)
 
 **Answer:** 33
-[[src_bocconi_finalenaz_2013__Q15]]
+[[Quesiti/src_bocconi_finalenaz_2013#q15|src_bocconi_finalenaz_2013__Q15]]
 
 
 
@@ -554,7 +554,7 @@ Mysterious positive number less than 2013 with three conditions
 > What are these three numbers?
 
 **Answer:** 3, 11, 19
-[[src_bocconi_finalenaz_2013__Q16]]
+[[Quesiti/src_bocconi_finalenaz_2013#q16|src_bocconi_finalenaz_2013__Q16]]
 
 
 
@@ -593,7 +593,7 @@ Mysterious positive number less than 2013 with three conditions
 > After how many operations, at least, will the bulbs all be turned on again?
 
 **Answer:** 73
-[[src_bocconi_finalenaz_2013__Q17]]
+[[Quesiti/src_bocconi_finalenaz_2013#q17|src_bocconi_finalenaz_2013__Q17]]
 
 
 
@@ -626,4 +626,4 @@ Mysterious positive number less than 2013 with three conditions
 > What is the minimum size of this radius in centimetres?
 
 **Answer:** 25 cm
-[[src_bocconi_finalenaz_2013__Q18]]
+[[Quesiti/src_bocconi_finalenaz_2013#q18|src_bocconi_finalenaz_2013__Q18]]

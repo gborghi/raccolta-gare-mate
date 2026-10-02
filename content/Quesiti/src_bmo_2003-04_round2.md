@@ -37,7 +37,7 @@ level: BMO Round 2
 > 
 > Mostra che $BD + AM + AN = CD + AP + AQ$.
 
-[[src_bmo_2003-04_round2__Q01]]
+[[Quesiti/src_bmo_2003-04_round2#q01|src_bmo_2003-04_round2__Q01]]
 
 
 
@@ -66,7 +66,7 @@ level: BMO Round 2
 
 > Indicare che esiste un intero $n$ con le seguenti proprietà: (i) l'espansione binaria di $n$ ha precisamente $2004$ $0$s e $2004$ $1$s; (ii) $2004$ divide $n$.
 
-[[src_bmo_2003-04_round2__Q02]]
+[[Quesiti/src_bmo_2003-04_round2#q02|src_bmo_2003-04_round2__Q02]]
 
 
 
@@ -99,7 +99,7 @@ level: BMO Round 2
 > 
 > b) Con i numeri reali $a, b, c, d$, con $a + b + c + d = 0$, dimostrare che $$a^3 + b^3 + c^3 + d^3 > 0 \quad\text{if and only if}\quad a^5 + b^5 + c^5 + d^5 > 0.$$
 
-[[src_bmo_2003-04_round2__Q03]]
+[[Quesiti/src_bmo_2003-04_round2#q03|src_bmo_2003-04_round2__Q03]]
 
 
 
@@ -134,4 +134,4 @@ level: BMO Round 2
 > 
 > Provare che $x$ è razionale.
 
-[[src_bmo_2003-04_round2__Q04]]
+[[Quesiti/src_bmo_2003-04_round2#q04|src_bmo_2003-04_round2__Q04]]

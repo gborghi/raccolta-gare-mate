@@ -33,7 +33,7 @@ level: OBM Nível 3
 
 > Sono dati quindici numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano relativamente primi. Mostrare che almeno uno di questi quindici numeri è primo.
 
-[[src_obm_1998_n3_f3__Q01]]
+[[Quesiti/src_obm_1998_n3_f3#q01|src_obm_1998_n3_f3__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: OBM Nível 3
 
 > Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $\widehat{ADC}$ e $\widehat{BAE}$ sono uguali, trovare l'angolo $\widehat{BAC}$.
 
-[[src_obm_1998_n3_f3__Q02]]
+[[Quesiti/src_obm_1998_n3_f3#q02|src_obm_1998_n3_f3__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 3
 
 > Due persone giocano a un gioco descritto come segue. Inizialmente scelgono due numeri naturali $n \ge 2$ (numero di round) e $t \ge 1$ (incremento massimo). Nel primo round, il giocatore $A$ sceglie un numero naturale $m_1 > 0$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_1$ con $0 < n_1 < m_1$. Nel round $k$, per $2 \le k \le n$, il giocatore $A$ sceglie un numero naturale $m_k$ con $n_{k-1} < m_k \le n_{k-1} + t$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_k$ con $m_k < n_k \le m_k + t$. Dopo queste scelte, nel round $k$, il giocatore $A$ guadagna $\mathrm{mdc}(m_k, n_{k-1})$ punti e il giocatore $B$ guadagna $\mathrm{mdc}(m_k, n_k)$ punti. Il giocatore che guadagna il maggior numero totale di punti alla fine dei round $n$ è considerato vincitore. In caso di punteggi totali uguali, il giocatore $A$ è considerato vincitore. Per ciascuna scelta di $n$ e $t$, determinare quale dei due giocatori ha una strategia vincente.
 
-[[src_obm_1998_n3_f3__Q03]]
+[[Quesiti/src_obm_1998_n3_f3#q03|src_obm_1998_n3_f3__Q03]]
 
 
 
@@ -114,7 +114,7 @@ level: OBM Nível 3
 
 > Due ragazzi giocano il seguente gioco. Il primo sceglie due diversi enti non zeri e il secondo scrive un'equazione di secondo grado utilizzando come coefficienti i due numeri scelti dal primo giocatore insieme a $1998$, in qualsiasi ordine desideri (ad esempio, con $a$ e $b$ può scrivere l'equazione $1998x^2 + ax + b = 0$, o $bx^2 + 1998x + a = 0$, ecc.). Il primo giocatore è considerato vincitore se l'equazione ha due radici razionali distinte. Dimostra che il primo giocatore può sempre vincere.
 
-[[src_obm_1998_n3_f3__Q04]]
+[[Quesiti/src_obm_1998_n3_f3#q04|src_obm_1998_n3_f3__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível 3
 
 > Determinare tutte le funzioni $f : \mathbb{N} \to \mathbb{N}$ che soddisfano $f(2f(x)) = x + 1998$ per ogni $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
 
-[[src_obm_1998_n3_f3__Q05]]
+[[Quesiti/src_obm_1998_n3_f3#q05|src_obm_1998_n3_f3__Q05]]
 
 
 
@@ -168,4 +168,4 @@ level: OBM Nível 3
 
 > Due matematici, persi a Berlino, arrivano all'angolo di Barbarossa Street e Martin Luther Street, e devono raggiungere l'angolo di Meininger Street e Martin Luther Street. Purtroppo non sanno su quale lato di Martin Luther Street si trova l'angolo con Meininger Street, né a quale distanza si trova; cioè non sanno se sono obbligati a girare a destra o a sinistra e quanto a piedi lungo Martin Luther Street finché non raggiungono l'angolo desiderato. Qual è il minimo valore positivo $X$ tale da poter essere certo di raggiungere l'angolo di Barbarossa Street e Meininger Street percorrendo al massimo $X$ blocchi (quarti)?
 
-[[src_obm_1998_n3_f3__Q06]]
+[[Quesiti/src_obm_1998_n3_f3#q06|src_obm_1998_n3_f3__Q06]]

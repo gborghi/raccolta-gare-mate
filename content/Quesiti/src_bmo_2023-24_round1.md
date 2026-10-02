@@ -37,7 +37,7 @@ level: BMO Round 1
 > 
 > Determinare, con la prova, il numero di possibili ortografie di OLYMPIADS che potrebbero essere digitate.
 
-[[src_bmo_2023-24_round1__Q01]]
+[[Quesiti/src_bmo_2023-24_round1#q01|src_bmo_2023-24_round1__Q01]]
 
 
 
@@ -72,7 +72,7 @@ level: BMO Round 1
 > 
 > (Nota che 6 e 7 sono numeri interi consecutivi, così come 7 e 6.)
 
-[[src_bmo_2023-24_round1__Q02]]
+[[Quesiti/src_bmo_2023-24_round1#q02|src_bmo_2023-24_round1__Q02]]
 
 
 
@@ -103,7 +103,7 @@ level: BMO Round 1
 > 
 > Prova che $BZ$ è perpendicolare a $AC$.
 
-[[src_bmo_2023-24_round1__Q03]]
+[[Quesiti/src_bmo_2023-24_round1#q03|src_bmo_2023-24_round1__Q03]]
 
 
 
@@ -130,7 +130,7 @@ level: BMO Round 1
 
 > Trova tutti gli integri positivi $n$ in modo tale che $n \times 2^n + 1$ sia un quadrato.
 
-[[src_bmo_2023-24_round1__Q04]]
+[[Quesiti/src_bmo_2023-24_round1#q04|src_bmo_2023-24_round1__Q04]]
 
 
 
@@ -161,7 +161,7 @@ level: BMO Round 1
 > 
 > Qual è il minor numero di difetti che il critico potrebbe trovare?
 
-[[src_bmo_2023-24_round1__Q05]]
+[[Quesiti/src_bmo_2023-24_round1#q05|src_bmo_2023-24_round1__Q05]]
 
 
 
@@ -192,4 +192,4 @@ level: BMO Round 1
 > 
 > Per quale $n$ è necessariamente il caso che il poligono abbia angoli uguali?
 
-[[src_bmo_2023-24_round1__Q06]]
+[[Quesiti/src_bmo_2023-24_round1#q06|src_bmo_2023-24_round1__Q06]]

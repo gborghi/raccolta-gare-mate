@@ -35,7 +35,7 @@ level: kangourou
 > Imagine a list in which all positive integers appear in increasing order whose sum is divisible by $5$ (the list will begin thus: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the one before it in this list?
 
 **Answer:** 1
-[[src_kangourou_2011_junior_finale__QJ1]]
+[[Quesiti/src_kangourou_2011_junior_finale#qj1|src_kangourou_2011_junior_finale__QJ1]]
 
 
 
@@ -64,7 +64,7 @@ level: kangourou
 > A positive integer, written in decimal notation, has the digits two to two different from each other and is divisible by each of its digits. How many digits can he have at most?
 
 **Answer:** 7
-[[src_kangourou_2011_junior_finale__QJ2]]
+[[Quesiti/src_kangourou_2011_junior_finale#qj2|src_kangourou_2011_junior_finale__QJ2]]
 
 
 
@@ -92,7 +92,7 @@ Who skips a circuit with a ditch without falling and why
 > Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them performs jumps of the same length; the lengths are $70, 80, 85, 90$ and $95$ cm respectively. They all follow, starting from the same point and moving in the same direction, the same circular circuit length $400$ meters, which is traversed by a wide trench $73$ cm. It happens that only one of them can make full laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on ropes.)
 
 **Answer:** Bruna
-[[src_kangourou_2011_junior_finale__QJ3]]
+[[Quesiti/src_kangourou_2011_junior_finale#qj3|src_kangourou_2011_junior_finale__QJ3]]
 
 
 
@@ -103,7 +103,7 @@ Who skips a circuit with a ditch without falling and why
 
 *numero di C sempre uguale*
 
-![[src_kangourou_2011_junior_finale__probJ4.png]]
+![[src_kangourou_2011_junior_finale__probj4.png]]
 
 > Hai una griglia $7 \times 7$. Vuoi inserire in ogni casella una e una sola delle lettere $A$, $B$, $C$ in modo che:
 > - in ogni riga il numero delle caselle con la lettera $A$ sia non minore del numero delle caselle con la lettera $B$ e del numero delle caselle con la lettera $C$;
@@ -124,14 +124,14 @@ Who skips a circuit with a ditch without falling and why
 
 *number of C always equal*
 
-![[src_kangourou_2011_junior_finale__probJ4.png]]
+![[src_kangourou_2011_junior_finale__probj4.png]]
 
 > You have a grid. You want to enter in each box one and only one of the letters $A$, $B$, $C$ so that: - in each row the number of boxes with the letter $A$ is not less than the number of boxes with the letter $B$ and the number of boxes with the letter $C$; - in each column the number of boxes with the letter $B$ is not less than the number of boxes with the letter $A$ and the number of boxes with the letter $C$.
 > 
 > It shows that you can achieve your goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why? Why?
 
 **Answer:** 7
-[[src_kangourou_2011_junior_finale__QJ4]]
+[[Quesiti/src_kangourou_2011_junior_finale#qj4|src_kangourou_2011_junior_finale__QJ4]]
 
 
 
@@ -160,7 +160,7 @@ Who skips a circuit with a ditch without falling and why
 > There are several ways of dividing a square of a side $1$ into $4$ triangles each of an area $\frac{1}{4}$ (to divide  is to decompose without overlapping if not, possibly, of sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
 
 **Answer:** 5
-[[src_kangourou_2011_junior_finale__QJ5]]
+[[Quesiti/src_kangourou_2011_junior_finale#qj5|src_kangourou_2011_junior_finale__QJ5]]
 
 
 
@@ -193,4 +193,4 @@ Who skips a circuit with a ditch without falling and why
 > Are there values of $m$ for which the ant will be able to get out of the box? If so, what are they?
 
 **Answer:** m=1+k(k+1)/2
-[[src_kangourou_2011_junior_finale__QJ6]]
+[[Quesiti/src_kangourou_2011_junior_finale#qj6|src_kangourou_2011_junior_finale__QJ6]]

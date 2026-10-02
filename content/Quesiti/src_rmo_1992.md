@@ -33,7 +33,7 @@ level: RMO
 
 > Determinare l'insieme di enti $n$ per il quale $n^2 + 19n + 92$ è un quadrato di un intero.
 
-[[src_rmo_1992__Q01]]
+[[Quesiti/src_rmo_1992#q01|src_rmo_1992__Q01]]
 
 
 
@@ -60,7 +60,7 @@ level: RMO
 
 > Se $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, dove $a$, $b$, $c$ sono numeri interi positivi senza fattore comune, dimostrare che $(a + b)$ è il quadrato di un intero.
 
-[[src_rmo_1992__Q02]]
+[[Quesiti/src_rmo_1992#q02|src_rmo_1992__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: RMO
 
 > Determinare il più grande fattore primo a 3 cifre del numero intero $\binom{2000}{1000}$.
 
-[[src_rmo_1992__Q03]]
+[[Quesiti/src_rmo_1992#q03|src_rmo_1992__Q03]]
 
 
 
@@ -116,7 +116,7 @@ level: RMO
 
 > $ABCD$ è un quadrilaterale ciclico con $AC \perp BD$, $AC$ incontra $BD$ a $E$. Prove che $$EA^2 + EB^2 + EC^2 + ED^2 = 4R^2,$$ dove $R$ è il raggio del cerchio circumscribente.
 
-[[src_rmo_1992__Q04]]
+[[Quesiti/src_rmo_1992#q04|src_rmo_1992__Q04]]
 
 
 
@@ -144,7 +144,7 @@ level: RMO
 
 > $ABCD$ è un quadrilaterale ciclico; $x$, $y$, $z$ sono le distanze di $A$ dalle linee $BD$, $BC$ e $CD$ rispettivamente. Provare che $$\frac{BD}{x} = \frac{BC}{y} + \frac{CD}{z}.$$
 
-[[src_rmo_1992__Q05]]
+[[Quesiti/src_rmo_1992#q05|src_rmo_1992__Q05]]
 
 
 
@@ -172,7 +172,7 @@ level: RMO
 
 > $ABCD$ è un quadrilaterale e $P$, $Q$ sono i punti medi rispettivamente di $CD$ e $AB$. Lasciate che $AP$, $DQ$ si incontrino a $X$, e $BP$, $CQ$ si incontrino a $Y$. Provare che $$\text{area of } ADX + \text{area of } BCY = \text{area of quadrilateral } PXQY.$$
 
-[[src_rmo_1992__Q06]]
+[[Quesiti/src_rmo_1992#q06|src_rmo_1992__Q06]]
 
 
 
@@ -200,7 +200,7 @@ level: RMO
 
 > Provare che $$1 < \frac{1}{1001} + \frac{1}{1002} + \frac{1}{1003} + \cdots + \frac{1}{3001} < \frac{4}{3}.$$
 
-[[src_rmo_1992__Q07]]
+[[Quesiti/src_rmo_1992#q07|src_rmo_1992__Q07]]
 
 
 
@@ -229,7 +229,7 @@ level: RMO
 
 > Risolvere il sistema $$\begin{cases} (x + y)(x + y + z) = 18 \\ (y + z)(x + y + z) = 30 \\ (z + x)(x + y + z) = 24 \end{cases}$$ in termini di parametro $A$.
 
-[[src_rmo_1992__Q08]]
+[[Quesiti/src_rmo_1992#q08|src_rmo_1992__Q08]]
 
 
 
@@ -256,4 +256,4 @@ level: RMO
 
 > L'ottagono ciclico $ABCDEFGH$ ha rispettivamente lati $a, a, a, a, b, b, b, b$. Trova il raggio del cerchio che circumscrive $ABCDEFGH$ in termini di $a$ e $b$.
 
-[[src_rmo_1992__Q09]]
+[[Quesiti/src_rmo_1992#q09|src_rmo_1992__Q09]]

@@ -35,7 +35,7 @@ level: nazionale
 
 > Let's say that three odd numbers are consecutive if they're$c - b = b - a = 2$. We call "special" those integers that have all the same digits and that can be written as the sum of the squares of three consecutive odd numbers. (a) Determine all special four-digit numbers. (b) Are there special numbers of 2000 digits?
 
-[[src_cesenatico_2000__Q01]]
+[[Quesiti/src_cesenatico_2000#q01|src_cesenatico_2000__Q01]]
 
 
 
@@ -63,7 +63,7 @@ level: nazionale
 
 > Whether $ABCD$ is a convex quadrilateral; let's put $\widehat{DAB} = \alpha$, $\widehat{ADB} = \beta$, $\widehat{ACB} = \gamma$, $\widehat{DBA} = \delta$. Knowing that $\alpha < 90°$, $\beta + \gamma = 90°$, $\delta + 2\alpha = 180°$, prove that $$(DB + BC)^2 = AB^2 + AC^2.$$
 
-[[src_cesenatico_2000__Q02]]
+[[Quesiti/src_cesenatico_2000#q02|src_cesenatico_2000__Q02]]
 
 
 
@@ -89,7 +89,7 @@ This is a list of geocaching sequences in alphabetical order.
 
 > It is given a pyramid having a base $ABCD$ quadrilateral and a vertex $V$, inscribed in a sphere. Both $AD = 2BC$ and the lines obtained by extending $AB$ and $CD$ meet at a point $E$ on the part of the $BC$ segment. Calculate the ratio between the volume of the pyramid having the base $AED$ triangle and summit $V$ and the volume of the given pyramid.
 
-[[src_cesenatico_2000__Q03]]
+[[Quesiti/src_cesenatico_2000#q03|src_cesenatico_2000__Q03]]
 
 
 
@@ -145,7 +145,7 @@ This is a list of geocaching sequences in alphabetical order.
 > 
 > The game continues by alternately repeating steps 2 and 3. Barbara wins if she can pick $n$ within 50 moves. For what values of$n$can Barbara win against any strategy of Alberto?
 
-[[src_cesenatico_2000__Q04]]
+[[Quesiti/src_cesenatico_2000#q04|src_cesenatico_2000__Q04]]
 
 
 
@@ -172,7 +172,7 @@ This is a list of geocaching sequences in alphabetical order.
 
 > A welder has length 2 metal bars, and wants to build a grid consisting of $n \times n$ squares on side 1 (e.g. $5 \times 5$ side by side). They are allowed to mark the bars in half and weld them together, but without overlapping or crossing them. What is the minimum number of bars to mark to get the grid? (see figure)
 
-[[src_cesenatico_2000__Q05]]
+[[Quesiti/src_cesenatico_2000#q05|src_cesenatico_2000__Q05]]
 
 
 
@@ -203,4 +203,4 @@ This is a list of geocaching sequences in alphabetical order.
 > 
 > (Note: note that 1999 is a prime number.)
 
-[[src_cesenatico_2000__Q06]]
+[[Quesiti/src_cesenatico_2000#q06|src_cesenatico_2000__Q06]]

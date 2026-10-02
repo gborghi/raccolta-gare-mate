@@ -33,7 +33,7 @@ level: Coupe Animath Printemps
 
 > Che $ABC$ sia un triangolo con tre angoli acuti, e che $O$ sia il centro del suo cerchio circoscritto $\Gamma$. Le linee $(AO)$, $(BO)$ e $(CO)$ rientrano in $\Gamma$ rispettivamente a $A'$, $B'$ e $C'$. Prove che l'area dell'esagono $ACB'A'C'B$ è doppia dell'area del triangolo $ABC$.
 
-[[src_canimath_2011_printemps__Q03]]
+[[Quesiti/src_canimath_2011_printemps#q03|src_canimath_2011_printemps__Q03]]
 
 
 
@@ -62,7 +62,7 @@ level: Coupe Animath Printemps
 
 > L'agricoltore possiede un terreno quadrato di lato $33$ m, circondato lungo l'intero perimetro. Vuole dividerla in tre partigi rettangolari di superficie uguale. Una tale partizione è possibile con: a) al massimo $55$ m di recinzione aggiuntiva? b) al massimo $54$ m di recinzione aggiuntiva?
 
-[[src_canimath_2011_printemps__Q04]]
+[[Quesiti/src_canimath_2011_printemps#q04|src_canimath_2011_printemps__Q04]]
 
 
 
@@ -89,7 +89,7 @@ level: Coupe Animath Printemps
 
 > Diciassette persone cenano ogni sabato sera intorno a una tavola rotonda. Quanti sabati è possibile cenare insieme se ognuno desidera avere due nuovi vicini ogni volta? Qual è il risultato per diciotto persone?
 
-[[src_canimath_2011_printemps__Q05]]
+[[Quesiti/src_canimath_2011_printemps#q05|src_canimath_2011_printemps__Q05]]
 
 
 
@@ -116,4 +116,4 @@ level: Coupe Animath Printemps
 
 > Lasciate che $p$ e $q$ siano due numeri reali in modo tale che l'equazione di grado-$2$ $x^2 + px + q = 0$ abbia due radici reali distinte $u$ e $v$ (con $u > v$). I coefficienti $p$ e $q$ sono modificati di meno di $0.01$: supponiamo che l'equazione $x^2 + p' x + q' = 0$ (dove $|p' - p| < 0.01$ e $|q' - q| < 0.01$) abbia anche due radici reali distinte $u'$ e $v'$ (con $u' > v'$). Esistono valori $p$, $q$, $p'$, $q'$ per i quali $|u' - u| > 10000$?
 
-[[src_canimath_2011_printemps__Q06]]
+[[Quesiti/src_canimath_2011_printemps#q06|src_canimath_2011_printemps__Q06]]

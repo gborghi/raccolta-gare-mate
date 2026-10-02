@@ -38,7 +38,7 @@ level: nazionale
 > An equilateral hexagon has four consecutive sides of length in the order $5$, $3$, $6$ and $7$. Determine the lengths of the other two sides.
 
 **Answer:** f=8, e=1
-[[src_archimede_2001_individuale__Q01]]
+[[Quesiti/src_archimede_2001_individuale#q01|src_archimede_2001_individuale__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: nazionale
 > (Remember that in basketball $2$ points are awarded to the winning team and $0$ to the losing team, while it is not possible for a match to end in a draw.)
 
 **Answer:** 12
-[[src_archimede_2001_individuale__Q02]]
+[[Quesiti/src_archimede_2001_individuale#q02|src_archimede_2001_individuale__Q02]]
 
 
 
@@ -115,7 +115,7 @@ level: nazionale
 > (Remember that$2001 = 3 \cdot 23 \cdot 29$.)
 
 **Answer:** 8 coppie; con x primo: (3,3^667),(23,23^87),(29,29^69)
-[[src_archimede_2001_individuale__Q03]]
+[[Quesiti/src_archimede_2001_individuale#q03|src_archimede_2001_individuale__Q03]]
 
 
 
@@ -159,7 +159,7 @@ level: nazionale
 > (b) Determine how many zeros the common minimum multiple of all monotonous numbers ends with (without restrictions on the number of digits).
 
 **Answer:** somma=13999860; mcm termina con 3 zeri
-[[src_archimede_2001_individuale__Q04]]
+[[Quesiti/src_archimede_2001_individuale#q04|src_archimede_2001_individuale__Q04]]
 
 
 
@@ -190,7 +190,7 @@ level: nazionale
 
 > If $ABC$ is a triangle and $\omega$ is the circumference inscribed in $ABC$. The circumference $\omega$ is tangent to the side $AB$ in $T$. either $D$ the point of $\omega$ diametrically opposite to $T$, or $S$ the point of intersection of the passing straight line for $C$ and $D$ with the side $AB$. Show that $AT = SB$.
 
-[[src_archimede_2001_individuale__Q05]]
+[[Quesiti/src_archimede_2001_individuale#q05|src_archimede_2001_individuale__Q05]]
 
 
 
@@ -227,4 +227,4 @@ level: nazionale
 > (b) What is the answer to the previous question if the lamps are $81$, arranged to form a panel of $9$ rows and $9$ columns?
 
 **Answer:** 10x10: da qualsiasi configurazione; 9x9: condizione di parita per righe/colonne
-[[src_archimede_2001_individuale__Q06]]
+[[Quesiti/src_archimede_2001_individuale#q06|src_archimede_2001_individuale__Q06]]

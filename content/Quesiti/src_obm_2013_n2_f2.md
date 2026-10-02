@@ -33,7 +33,7 @@ level: OBM Nível 2
 
 > Dato l'insieme $\{1, 2, 3, \ldots, 18\}$, qual è il numero minimo di interi che dobbiamo scegliere in modo che tra i numeri scelti ci siano almeno 3 numeri consecutivi?
 
-[[src_obm_2013_n2_f2__Q01]]
+[[Quesiti/src_obm_2013_n2_f2#q01|src_obm_2013_n2_f2__Q01]]
 
 
 
@@ -70,7 +70,7 @@ level: OBM Nível 2
 > 
 > Abel sa che la sua combinazione e' il numero piu' piccolo che soddisfi tutti gli indizi. Qual è la combinazione sicura di Abele?
 
-[[src_obm_2013_n2_f2__Q02]]
+[[Quesiti/src_obm_2013_n2_f2#q02|src_obm_2013_n2_f2__Q02]]
 
 
 
@@ -97,7 +97,7 @@ level: OBM Nível 2
 
 > Una \textit{hora potência} (ora di potenza) è un'ora il cui formato rappresenta una potenza perfetta di un intero positivo con esponente maggiore di $1$; cioè qualcosa nel formato $a^b$ dove $a$ e $b$ sono interi positivi e $b > 1$. Ad esempio, $03{:}43$ è un'ora di potenza perché $343 = 7^3$, ma $01{:}10$ non è un'ora di potenza perché $110$ non è una potenza perfetta. Inoltre, $02{:}89$ non è un'ora di potenza perché non c'è tempo $02{:}89$. Quanti minuti di orario di potenza ci sono da $00{:}00$ a $02{:}59$?
 
-[[src_obm_2013_n2_f2__Q03]]
+[[Quesiti/src_obm_2013_n2_f2#q03|src_obm_2013_n2_f2__Q03]]
 
 
 
@@ -110,7 +110,7 @@ level: OBM Nível 2
 
 > The square $ABCD$ is inscribed in a circle of radius $30$. The chord $AM$ intersects the diagonal $BD$ at point $P$. If $AM = 50$, determine the length of segment $AP$.
 
-![[src_obm_2013_n2_f2__Q04.png]]
+![[src_obm_2013_n2_f2__q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -126,9 +126,9 @@ level: OBM Nível 2
 
 > Il quadrato $ABCD$ è inserito in un cerchio di raggio $30$. L'accordo $AM$ interseca la diagonale $BD$ al punto $P$. Se $AM = 50$, determinare la lunghezza del segmento $AP$.
 
-![[src_obm_2013_n2_f2__Q04.png]]
+![[src_obm_2013_n2_f2__q04.png]]
 
-[[src_obm_2013_n2_f2__Q04]]
+[[Quesiti/src_obm_2013_n2_f2#q04|src_obm_2013_n2_f2__Q04]]
 
 
 
@@ -141,7 +141,7 @@ level: OBM Nível 2
 
 > A \textit{bispo} (bishop) is a chess piece that can only make diagonal moves; that is, it can move any number of squares diagonally. In the figure below, the possible directions of movement of a bishop from a given square of the board are indicated. We say that two bishops \textit{attack each other} when one of them is in a square that can be reached by the other. What is the maximum number of bishops that can be placed on an $8 \times 8$ chessboard such that no two bishops attack each other?
 
-![[src_obm_2013_n2_f2__Q05.png]]
+![[src_obm_2013_n2_f2__q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -157,9 +157,9 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 
 > Un \textit{bispo} (vescovo) è un pezzo di scacchi che può fare solo mosse diagonali; cioè può spostare qualsiasi numero di quadrati diagonalmente. Nella figura seguente sono indicate le possibili indicazioni di movimento di un vescovo da un determinato quadrato della lavagna. Diciamo che due vescovi si attaccano quando uno di loro è in una piazza che l'altro può raggiungere. Qual è il numero massimo di vescovi che può essere posto su una scacchiera in modo tale che due vescovi non si attaccino a vicenda?
 
-![[src_obm_2013_n2_f2__Q05.png]]
+![[src_obm_2013_n2_f2__q05.png]]
 
-[[src_obm_2013_n2_f2__Q05]]
+[[Quesiti/src_obm_2013_n2_f2#q05|src_obm_2013_n2_f2__Q05]]
 
 
 
@@ -206,7 +206,7 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 > 
 > b) Qual è la somma dei numeri che figurano nella riga $21$?
 
-[[src_obm_2013_n2_f2__Q06]]
+[[Quesiti/src_obm_2013_n2_f2#q06|src_obm_2013_n2_f2__Q06]]
 
 
 
@@ -234,7 +234,7 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 
 > Determinare il numero di quadrupli ordinati di enti interi $(x, y, z, w)$ che soddisfano $$x \cdot y \cdot z \cdot w = 2013.$$
 
-[[src_obm_2013_n2_f2__Q07]]
+[[Quesiti/src_obm_2013_n2_f2#q07|src_obm_2013_n2_f2__Q07]]
 
 
 
@@ -261,7 +261,7 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 
 > Led, un famoso eroe del gioco, ha una nuova sfida: aprire il portale del drago. Il portale dispone di $10$ lucchetti distinti. Per aprire il portale, Led deve avere almeno una chiave per ogni lucchetto. Ci sono scatole $45$ nel gioco, e ciascuna scatola contiene esattamente $2$ chiavi distinte, con le chiavi nella stessa scatola che aprono lo stesso lucchetto. Inoltre, le serrature $10$ hanno tutte chiavi diverse e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare per garantire l'apertura del portale?
 
-[[src_obm_2013_n2_f2__Q08]]
+[[Quesiti/src_obm_2013_n2_f2#q08|src_obm_2013_n2_f2__Q08]]
 
 
 
@@ -288,4 +288,4 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 
 > $M$ sia il punto medio del segmento $AC$ nel triangolo $ABC$. Se $\angle ABM = 2\,\angle BAM$ e $BC = 2 \cdot BM$, determinare la misura dell'angolo più grande del triangolo $ABC$.
 
-[[src_obm_2013_n2_f2__Q09]]
+[[Quesiti/src_obm_2013_n2_f2#q09|src_obm_2013_n2_f2__Q09]]

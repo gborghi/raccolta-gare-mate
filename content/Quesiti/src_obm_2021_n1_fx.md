@@ -41,7 +41,7 @@ level: OBM Nível 1
 > 
 > b) Qual è il numero quadrato più grande senza numeri ripetuti?
 
-[[src_obm_2021_n1_fx__Q01]]
+[[Quesiti/src_obm_2021_n1_fx#q01|src_obm_2021_n1_fx__Q01]]
 
 
 
@@ -68,7 +68,7 @@ level: OBM Nível 1
 
 > Quanti triples di integri positivi $(a, b, c)$ con $a < b < c$ sono tali che $a$ sia un divisore di $b$, $b$ sia un divisore di $c$ e $a + b + c \le 20$?
 
-[[src_obm_2021_n1_fx__Q02]]
+[[Quesiti/src_obm_2021_n1_fx#q02|src_obm_2021_n1_fx__Q02]]
 
 
 
@@ -87,7 +87,7 @@ level: OBM Nível 1
 > 
 > c) Pedro wants to give the lots to his two sons, José and João. Since José does not want the lawn, but João wants a passage of width $x$ through José's lot, as indicated in the figure, leaving the rest of the lawn to João. Pedro will build a fence, calculating $x$ in such a way that the areas of the two lots remain equal. What should the value of $x$ be?
 
-![[src_obm_2021_n1_fx__Q03.png]]
+![[src_obm_2021_n1_fx__q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -109,9 +109,9 @@ level: OBM Nível 1
 > 
 > c) Pedro vuole dare il lotto ai suoi due figli, José e João. Poiché José non vuole il prato, ma João vuole un passaggio di larghezza $x$ attraverso il terreno di José, come indicato nella figura, lasciando il resto del prato a João. Pedro costruirà una recinzione, calcolando $x$ in modo tale che le superfici dei due lotti rimangano uguali. Qual è il valore di $x$?
 
-![[src_obm_2021_n1_fx__Q03.png]]
+![[src_obm_2021_n1_fx__q03.png]]
 
-[[src_obm_2021_n1_fx__Q03]]
+[[Quesiti/src_obm_2021_n1_fx#q03|src_obm_2021_n1_fx__Q03]]
 
 
 
@@ -154,7 +154,7 @@ level: OBM Nível 1
 > 
 > c) Dopo che tutti gli studenti del 2021 sono passati, quanti armadietti sono aperti?
 
-[[src_obm_2021_n1_fx__Q04]]
+[[Quesiti/src_obm_2021_n1_fx#q04|src_obm_2021_n1_fx__Q04]]
 
 
 
@@ -205,4 +205,4 @@ level: OBM Nível 1
 > 
 > b) Per $n = 4$, qual è il numero minimo di volte che è necessario premere i pulsanti $C$, 1, 2, 3 e 4 per garantire l'apertura della cassaforte?
 
-[[src_obm_2021_n1_fx__Q05]]
+[[Quesiti/src_obm_2021_n1_fx#q05|src_obm_2021_n1_fx__Q05]]

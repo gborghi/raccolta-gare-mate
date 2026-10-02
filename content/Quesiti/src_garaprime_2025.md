@@ -84,7 +84,7 @@ level: Classi Prime
 > - **(E)** 13
 
 **Answer:** A
-[[src_garaprime_2025__Q01]]
+[[Quesiti/src_garaprime_2025#q01|src_garaprime_2025__Q01]]
 
 
 
@@ -128,7 +128,7 @@ level: Classi Prime
 > - **(E)** 2048
 
 **Answer:** C
-[[src_garaprime_2025__Q02]]
+[[Quesiti/src_garaprime_2025#q02|src_garaprime_2025__Q02]]
 
 
 
@@ -169,7 +169,7 @@ level: Classi Prime
 > - **(E)** 192 cm2
 
 **Answer:** A
-[[src_garaprime_2025__Q03]]
+[[Quesiti/src_garaprime_2025#q03|src_garaprime_2025__Q03]]
 
 
 
@@ -212,7 +212,7 @@ level: Classi Prime
 > - **(E)** 12
 
 **Answer:** B
-[[src_garaprime_2025__Q04]]
+[[Quesiti/src_garaprime_2025#q04|src_garaprime_2025__Q04]]
 
 
 
@@ -254,7 +254,7 @@ level: Classi Prime
 > - **(E)** 422
 
 **Answer:** E
-[[src_garaprime_2025__Q05]]
+[[Quesiti/src_garaprime_2025#q05|src_garaprime_2025__Q05]]
 
 
 
@@ -296,7 +296,7 @@ level: Classi Prime
 > - **(E)** 19
 
 **Answer:** E
-[[src_garaprime_2025__Q06]]
+[[Quesiti/src_garaprime_2025#q06|src_garaprime_2025__Q06]]
 
 
 
@@ -337,7 +337,7 @@ level: Classi Prime
 > - **(E)** 64
 
 **Answer:** C
-[[src_garaprime_2025__Q07]]
+[[Quesiti/src_garaprime_2025#q07|src_garaprime_2025__Q07]]
 
 
 
@@ -389,7 +389,7 @@ level: Classi Prime
 > - **(E)** 21°
 
 **Answer:** A
-[[src_garaprime_2025__Q08]]
+[[Quesiti/src_garaprime_2025#q08|src_garaprime_2025__Q08]]
 
 
 
@@ -430,7 +430,7 @@ level: Classi Prime
 > - **(E)** 450
 
 **Answer:** B
-[[src_garaprime_2025__Q09]]
+[[Quesiti/src_garaprime_2025#q09|src_garaprime_2025__Q09]]
 
 
 
@@ -473,7 +473,7 @@ level: Classi Prime
 > - **(E)** 6
 
 **Answer:** B
-[[src_garaprime_2025__Q10]]
+[[Quesiti/src_garaprime_2025#q10|src_garaprime_2025__Q10]]
 
 
 
@@ -514,7 +514,7 @@ level: Classi Prime
 > - **(E)** infinitesimal
 
 **Answer:** B
-[[src_garaprime_2025__Q11]]
+[[Quesiti/src_garaprime_2025#q11|src_garaprime_2025__Q11]]
 
 
 
@@ -554,7 +554,7 @@ level: Classi Prime
 > - **(E)** 500
 
 **Answer:** E
-[[src_garaprime_2025__Q12]]
+[[Quesiti/src_garaprime_2025#q12|src_garaprime_2025__Q12]]
 
 
 
@@ -597,7 +597,7 @@ level: Classi Prime
 > - **(E)** 216 cm2
 
 **Answer:** A
-[[src_garaprime_2025__Q13]]
+[[Quesiti/src_garaprime_2025#q13|src_garaprime_2025__Q13]]
 
 
 
@@ -639,7 +639,7 @@ level: Classi Prime
 > - **(E)** 96
 
 **Answer:** D
-[[src_garaprime_2025__Q14]]
+[[Quesiti/src_garaprime_2025#q14|src_garaprime_2025__Q14]]
 
 
 
@@ -681,7 +681,7 @@ level: Classi Prime
 > - **(E)** 9
 
 **Answer:** A
-[[src_garaprime_2025__Q15]]
+[[Quesiti/src_garaprime_2025#q15|src_garaprime_2025__Q15]]
 
 
 
@@ -722,7 +722,7 @@ level: Classi Prime
 > - **(E)** more than 49
 
 **Answer:** C
-[[src_garaprime_2025__Q16]]
+[[Quesiti/src_garaprime_2025#q16|src_garaprime_2025__Q16]]
 
 
 
@@ -763,7 +763,7 @@ level: Classi Prime
 > - **(E)** 28
 
 **Answer:** C
-[[src_garaprime_2025__Q17]]
+[[Quesiti/src_garaprime_2025#q17|src_garaprime_2025__Q17]]
 
 
 
@@ -805,4 +805,4 @@ level: Classi Prime
 > - **(E)** 46656 Test n. 1 Italian Mathematical Union Mathematical Olympiad Project X National Competition for the First Classes Wednesday 5 February 2025 Name: Cognome: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. The letter corresponding to the correct answer shall be shown, for each question, on this page in the window at the bottom. Every right answer is worth 5 points, every wrong answer is worth 0 points, and every problem left unanswered is worth 1 point. Cancellations on the grid are not allowed. The use of electronic devices, compass and goniometer shall not be permitted. The problems are not in order of difficulty, but alternate randomly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test number 2
 
 **Answer:** D
-[[src_garaprime_2025__Q18]]
+[[Quesiti/src_garaprime_2025#q18|src_garaprime_2025__Q18]]

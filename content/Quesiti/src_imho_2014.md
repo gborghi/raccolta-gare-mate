@@ -34,7 +34,7 @@ level: IMO
 
 > Let$a_0 < a_1 < a_2 < \cdots$be an infinite sequence of positive integers. Prove that there exists a unique integer $n \ge 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
 
-[[src_imho_2014__Q01]]
+[[Quesiti/src_imho_2014#q01|src_imho_2014__Q01]]
 
 
 
@@ -61,7 +61,7 @@ level: IMO
 
 > Let $n \ge 2$ be an integer. Consider a $n \times n$ chessboard consisting of $n^2$ unit squares. A configuration of $n$ rooks on this board is called peaceful if every row and every column contains exactly one rook. Find the greatest positive integer $k$ such that, for each peaceful configuration of $n$ rooks, there is a $k \times k$ square which does not contain a rook on any of its $k^2$ unit squares.
 
-[[src_imho_2014__Q02]]
+[[Quesiti/src_imho_2014#q02|src_imho_2014__Q02]]
 
 
 
@@ -90,7 +90,7 @@ level: IMO
 
 > The convex quadrilateral $ABCD$ has $\angle ABC = \angle CDA = 90^\circ$. Point $H$ is the foot of the perpendicular from $A$ to $BD$. Points $S$ and $T$ lie on sides $AB$ and $AD$, respectively, such that $H$ lies inside triangle $SCT$ and $$\angle CHS - \angle CSB = 90^\circ, \quad \angle THC - \angle DTC = 90^\circ.$$ Prove that line $BD$ is tangent to the circumcircle of triangle $TSH$.
 
-[[src_imho_2014__Q03]]
+[[Quesiti/src_imho_2014#q03|src_imho_2014__Q03]]
 
 
 
@@ -117,7 +117,7 @@ Lines BM and CN concur on circumcircle of triangle ABC
 
 > Points $P$ and $Q$ lie on side $BC$ of acute-angled triangle $ABC$ so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. Points $M$ and $N$ lie on lines $AP$ and $AQ$, respectively, such that $P$ is the midpoint of $AM$, and $Q$ is the midpoint of $AN$. Prove that lines $BM$ and $CN$ intersect on the circumcircle of triangle $ABC$.
 
-[[src_imho_2014__Q04]]
+[[Quesiti/src_imho_2014#q04|src_imho_2014__Q04]]
 
 
 
@@ -144,7 +144,7 @@ Bank of Cape Town coins split into groups of at most 1
 
 > For each positive integer $n$, the Bank of Cape Town issues coins of denomination $\frac{1}{n}$. Given a finite collection of such coins (of not necessarily different denominations) with total value at most $99 + \frac{1}{2}$, prove that it is possible to split this collection into at most $100$ groups, such that each group has total value at most $1$.
 
-[[src_imho_2014__Q05]]
+[[Quesiti/src_imho_2014#q05|src_imho_2014__Q05]]
 
 
 
@@ -175,4 +175,4 @@ Bank of Cape Town coins split into groups of at most 1
 > 
 > \textit{Note:} Results with $\sqrt{n}$ replaced by $c\sqrt{n}$ will be awarded points depending on the value of the constant $c$.
 
-[[src_imho_2014__Q06]]
+[[Quesiti/src_imho_2014#q06|src_imho_2014__Q06]]

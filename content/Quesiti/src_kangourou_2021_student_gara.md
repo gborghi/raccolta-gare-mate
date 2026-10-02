@@ -64,7 +64,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2021_student_gara__Q01]]
+[[Quesiti/src_kangourou_2021_student_gara#q01|src_kangourou_2021_student_gara__Q01]]
 
 
 
@@ -109,7 +109,7 @@ level: kangourou
 > E) 13
 
 **Answer:** A
-[[src_kangourou_2021_student_gara__Q02]]
+[[Quesiti/src_kangourou_2021_student_gara#q02|src_kangourou_2021_student_gara__Q02]]
 
 
 
@@ -155,7 +155,7 @@ level: kangourou
 > E) 5
 
 **Answer:** D
-[[src_kangourou_2021_student_gara__Q03]]
+[[Quesiti/src_kangourou_2021_student_gara#q03|src_kangourou_2021_student_gara__Q03]]
 
 
 
@@ -207,7 +207,7 @@ level: kangourou
 > E)
 
 **Answer:** E
-[[src_kangourou_2021_student_gara__Q04]]
+[[Quesiti/src_kangourou_2021_student_gara#q04|src_kangourou_2021_student_gara__Q04]]
 
 
 
@@ -290,7 +290,7 @@ level: kangourou
 > x y 0
 
 **Answer:** A
-[[src_kangourou_2021_student_gara__Q05]]
+[[Quesiti/src_kangourou_2021_student_gara#q05|src_kangourou_2021_student_gara__Q05]]
 
 
 
@@ -326,7 +326,7 @@ level: kangourou
 > A rectangular sheet of paper has sides of length x and y, with x > y. The rectangle can be rolled to form a cylinder (without the paper overlapping) in two different ways. What is the ratio of the volume of the longest cylinder to the volume of the shortest cylinder? A) y2 : x2 B) y : x C) 1 : 1 D) x : y E) x2 : y2
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q06]]
+[[Quesiti/src_kangourou_2021_student_gara#q06|src_kangourou_2021_student_gara__Q06]]
 
 
 
@@ -371,7 +371,7 @@ The largest of the powers and roots of x=root
 > E) √x
 
 **Answer:** E
-[[src_kangourou_2021_student_gara__Q07]]
+[[Quesiti/src_kangourou_2021_student_gara#q07|src_kangourou_2021_student_gara__Q07]]
 
 
 
@@ -419,7 +419,7 @@ The largest of the powers and roots of x=root
 > E) 27
 
 **Answer:** C
-[[src_kangourou_2021_student_gara__Q08]]
+[[Quesiti/src_kangourou_2021_student_gara#q08|src_kangourou_2021_student_gara__Q08]]
 
 
 
@@ -460,7 +460,7 @@ The largest of the powers and roots of x=root
 > C) 2pq D) 3pq E) 4pq
 
 **Answer:** C
-[[src_kangourou_2021_student_gara__Q09]]
+[[Quesiti/src_kangourou_2021_student_gara#q09|src_kangourou_2021_student_gara__Q09]]
 
 
 
@@ -500,7 +500,7 @@ The largest of the powers and roots of x=root
 > The parabola in the figure is represented by an equation of the form y = ax2 + bx + c with distinct real numbers a, b and c. Which of the following equations can represent the line drawn in the figure? A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a I questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
-[[src_kangourou_2021_student_gara__Q10]]
+[[Quesiti/src_kangourou_2021_student_gara#q10|src_kangourou_2021_student_gara__Q10]]
 
 
 
@@ -546,7 +546,7 @@ The largest of the powers and roots of x=root
 > E)
 
 **Answer:** D
-[[src_kangourou_2021_student_gara__Q11]]
+[[Quesiti/src_kangourou_2021_student_gara#q11|src_kangourou_2021_student_gara__Q11]]
 
 
 
@@ -581,7 +581,7 @@ The largest of the powers and roots of x=root
 > Both A = (0, 1) ∪ (2, 3) the union of the real intervals (0, 1) and (2, 3); and B = (1, 2) ∪ (3, 4). What is the sum of the numbers a + b with a in A and b in B ? A) (1, 7) B) (1, 5) ∪ (5, 7) C) (1, 3) ∪ (3, 7) D) (1, 3) ∪ (3, 5) ∪ (5, 7) E) None of the above answers are correct.
 
 **Answer:** D
-[[src_kangourou_2021_student_gara__Q12]]
+[[Quesiti/src_kangourou_2021_student_gara#q12|src_kangourou_2021_student_gara__Q12]]
 
 
 
@@ -647,7 +647,7 @@ The largest of the powers and roots of x=root
 >
 
 **Answer:** D
-[[src_kangourou_2021_student_gara__Q13]]
+[[Quesiti/src_kangourou_2021_student_gara#q13|src_kangourou_2021_student_gara__Q13]]
 
 
 
@@ -683,7 +683,7 @@ The largest of the powers and roots of x=root
 > We want to align, in any order, the first 1000 positive integers and, for each set of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
 
 **Answer:** A
-[[src_kangourou_2021_student_gara__Q14]]
+[[Quesiti/src_kangourou_2021_student_gara#q14|src_kangourou_2021_student_gara__Q14]]
 
 
 
@@ -735,7 +735,7 @@ The largest of the powers and roots of x=root
 > E) None of the above answers is correct.
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q15]]
+[[Quesiti/src_kangourou_2021_student_gara#q15|src_kangourou_2021_student_gara__Q15]]
 
 
 
@@ -771,7 +771,7 @@ The largest of the powers and roots of x=root
 > Given a positive integer N, written in decimal form, we denote the product of its digits with p(N: for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)? A) 2025 B) 4500 C) 5005 D) 5050 E) None of the above answers are correct.
 
 **Answer:** A
-[[src_kangourou_2021_student_gara__Q16]]
+[[Quesiti/src_kangourou_2021_student_gara#q16|src_kangourou_2021_student_gara__Q16]]
 
 
 
@@ -824,7 +824,7 @@ The largest of the powers and roots of x=root
 > E) 23
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q17]]
+[[Quesiti/src_kangourou_2021_student_gara#q17|src_kangourou_2021_student_gara__Q17]]
 
 
 
@@ -879,7 +879,7 @@ The largest of the powers and roots of x=root
 > E)
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q18]]
+[[Quesiti/src_kangourou_2021_student_gara#q18|src_kangourou_2021_student_gara__Q18]]
 
 
 
@@ -972,7 +972,7 @@ The largest of the powers and roots of x=root
 >
 
 **Answer:** C
-[[src_kangourou_2021_student_gara__Q19]]
+[[Quesiti/src_kangourou_2021_student_gara#q19|src_kangourou_2021_student_gara__Q19]]
 
 
 
@@ -1025,7 +1025,7 @@ The largest of the powers and roots of x=root
 > E) Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** E
-[[src_kangourou_2021_student_gara__Q20]]
+[[Quesiti/src_kangourou_2021_student_gara#q20|src_kangourou_2021_student_gara__Q20]]
 
 
 
@@ -1075,7 +1075,7 @@ The largest of the powers and roots of x=root
 > E) 8
 
 **Answer:** E
-[[src_kangourou_2021_student_gara__Q21]]
+[[Quesiti/src_kangourou_2021_student_gara#q21|src_kangourou_2021_student_gara__Q21]]
 
 
 
@@ -1123,7 +1123,7 @@ The largest of the powers and roots of x=root
 > E) 19
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q22]]
+[[Quesiti/src_kangourou_2021_student_gara#q22|src_kangourou_2021_student_gara__Q22]]
 
 
 
@@ -1215,7 +1215,7 @@ This is the total value of the product (s) of the product concerned.
 >
 
 **Answer:** E
-[[src_kangourou_2021_student_gara__Q23]]
+[[Quesiti/src_kangourou_2021_student_gara#q23|src_kangourou_2021_student_gara__Q23]]
 
 
 
@@ -1268,7 +1268,7 @@ Of whom and of whom the kangaroo s*
 > E) E
 
 **Answer:** D
-[[src_kangourou_2021_student_gara__Q24]]
+[[Quesiti/src_kangourou_2021_student_gara#q24|src_kangourou_2021_student_gara__Q24]]
 
 
 
@@ -1325,7 +1325,7 @@ Of whom and of whom the kangaroo s*
 > E) 120
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q25]]
+[[Quesiti/src_kangourou_2021_student_gara#q25|src_kangourou_2021_student_gara__Q25]]
 
 
 
@@ -1378,7 +1378,7 @@ Of whom and of whom the kangaroo s*
 > D) 455 E) 23
 
 **Answer:** A
-[[src_kangourou_2021_student_gara__Q26]]
+[[Quesiti/src_kangourou_2021_student_gara#q26|src_kangourou_2021_student_gara__Q26]]
 
 
 
@@ -1459,7 +1459,7 @@ Of whom and of whom the kangaroo s*
 >
 
 **Answer:** A
-[[src_kangourou_2021_student_gara__Q27]]
+[[Quesiti/src_kangourou_2021_student_gara#q27|src_kangourou_2021_student_gara__Q27]]
 
 
 
@@ -1516,7 +1516,7 @@ Of whom and of whom the kangaroo s*
 > D) 5,5 E) 6
 
 **Answer:** C
-[[src_kangourou_2021_student_gara__Q28]]
+[[Quesiti/src_kangourou_2021_student_gara#q28|src_kangourou_2021_student_gara__Q28]]
 
 
 
@@ -1571,7 +1571,7 @@ Of whom and of whom the kangaroo s*
 > E) 8
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q29]]
+[[Quesiti/src_kangourou_2021_student_gara#q29|src_kangourou_2021_student_gara__Q29]]
 
 
 
@@ -1636,4 +1636,4 @@ Of whom and of whom the kangaroo s*
 >
 
 **Answer:** B
-[[src_kangourou_2021_student_gara__Q30]]
+[[Quesiti/src_kangourou_2021_student_gara#q30|src_kangourou_2021_student_gara__Q30]]
