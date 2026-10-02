@@ -15,6 +15,8 @@ if (mirror) {
     env: { ...process.env, MIRROR_SOURCE: process.env.MIRROR_SOURCE || "https://gborghi.github.io/raccolta-gare-mate/",
       MIRROR_EXPECT_REPO: process.env.MIRROR_EXPECT_REPO ?? "gborghi/raccolta-gare-mate" },
   })
+  // sitemap/robots/RSS advertise the Cloudflare base URL on Cloudflare (all else byte-identical)
+  execFileSync(process.execPath, ["scripts/host-urls.mjs"], { stdio: "inherit", env: { ...process.env, HOST: "cloudflare" } })
 }
 const EXTS = ["js", "css", "woff2", "svg", "png", "jpg", "jpeg", "webp", "avif"]
 const headers = [

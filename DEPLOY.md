@@ -158,3 +158,12 @@ Se in futuro una figura superasse i limiti, deve restare un `<img>` identico, in
    (non `uc?export=view`); aggiungere il dominio a `img-src`.
 3. Cloudflare R2 solo come ultima scelta.
 Annotare qui ogni figura che usa uno di questi meccanismi.
+
+## content/ = fonte di verità (dal 2026-10-02)
+
+`content/` di questo repo contiene correzioni fatte direttamente qui (link, nomi allegati, PDF → Drive, future PR di
+contenuto/traduzioni). **Non rigenerarlo con `preprocess.mjs` dal vault Dropbox** finché il vault non è stato
+riallineato da `content/` (punto aperto per Giovanni): la build di GitHub Pages (CI) usa solo il `content/` committato.
+Post-build `scripts/fix-link-case.mjs` corregge la maiuscola dei link interni (Quartz rende minuscoli i link con
+percorso, le cartelle sono `Quesiti/`, `Clusters/`, …) e `scripts/host-urls.mjs` fa puntare sitemap/robots/RSS
+all'URL del proprio host (unici file che differiscono tra GitHub e Cloudflare).
