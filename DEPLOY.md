@@ -37,7 +37,8 @@ rm -rf .quartz && npx quartz plugin restore
 # 2b. Boolean search (AND/OR/NOT, -parola, "frase", parentesi): patch the search fork and
 #     recompile its dist/. Idempotent; re-run after EVERY plugin restore, BEFORE the build.
 #     CI: .github/workflows/deploy.yml needs the same step right after
-#     "Restore Quartz plugins" (run: node scripts/patch-search-boolean.mjs).
+#     "Restore Quartz plugins" (run: node scripts/patch-search-boolean.mjs). Since Cloudflare
+#     mirrors GitHub Pages, that step is what puts the boolean search on BOTH hosts.
 node scripts/patch-search-boolean.mjs
 
 # 3. Build:
