@@ -79,8 +79,10 @@ await stubFolderPage("Quesiti/index.html", "../cerca/", "Cerca quesiti")
 // before mirroring; its own build output is then discarded).
 await import("./scripts/inject-quesito-search.mjs")   // per-quesito search atoms
 await import("./scripts/fix-404.mjs")                 // 404.html works under /<repo>/ and /
+await import("./scripts/fix-link-case.mjs")           // Quartz lower-cases path links; folders are Capitalised
 await fs.writeFile(`${PUB}/robots.txt`, "User-agent: *\nAllow: /\n\nSitemap: https://raccolta-gare-mate.pages.dev/sitemap.xml\n")
 await fs.writeFile(`${PUB}/.nojekyll`, "")
 await import("./scripts/make-search-meta.mjs")       // static/searchMeta.json (search: metadata / campo:valore)
+process.env.HOST = "github"; await import("./scripts/host-urls.mjs") // sitemap/robots/RSS -> GitHub base URL
 await import("./scripts/write-mirror-manifest.mjs")   // LAST: hashes of every published file
 console.log("shrink_build done")

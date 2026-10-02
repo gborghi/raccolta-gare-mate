@@ -98,7 +98,10 @@ async function init() {
   root.dataset.rendered = "1"
 
   const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  // absolute site root from the runtime base path (renderPage BASEPATH_RUNTIME, kept across
+  // SPA navigations); the slug-depth "../" prefix breaks on SPA navigation
+  const bp = document.body.dataset.basepath
+  const prefix = bp !== undefined ? bp + "/" : "../".repeat((slug.match(/\//g) || []).length)
   let data: Q[]
   try {
     data = await (await fetch(prefix + "static/quesiti.json")).json()
