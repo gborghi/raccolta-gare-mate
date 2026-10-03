@@ -10,6 +10,43 @@ import { promises as fs } from "node:fs"
 const PUB = "public"
 const SNIPPET = 150
 
+// Quartz lower-cases path-form link targets ("quesiti/x", "clusters/") in contentIndex
+// "links", while the slugs/keys keep the real folder case ("Quesiti/x", "Clusters/index").
+// Hosts are case-sensitive, and the graph drops (or would navigate to 404) any link that
+// is not a known slug. Rewrite each unknown target to the real-case simplified slug when
+// exactly one slug matches case-insensitively (same rule as scripts/fix-link-case.mjs).
+const simplify = (s) => (s === "index" ? "/" : s.endsWith("/index") ? s.slice(0, -5) : s)
+function fixIndexLinkCase(idx) {
+  const known = new Set(), lower = new Map()
+  for (const k of Object.keys(idx)) {
+    if (k.includes("#")) continue
+    const s = simplify(k)
+    known.add(s)
+    const l = s.toLowerCase()
+    lower.set(l, lower.has(l) && lower.get(l) !== s ? null : s)
+  }
+  let fixed = 0, left = 0, selfDropped = 0
+  for (const k of Object.keys(idx)) {
+    const e = idx[k]
+    if (!e || !Array.isArray(e.links)) continue
+    const self = simplify(k)
+    e.links = e.links.map((t) => {
+      if (typeof t !== "string" || known.has(simplify(t))) return t
+      const real = lower.get(simplify(t).toLowerCase())
+      if (real) { fixed++; return real }
+      left++
+      return t
+    }).filter((t) => {
+      // a page linking to itself (gara pages' own [[Quesiti/x]]) was dropped by the graph
+      // while it was lower-case; keep it out now that it would resolve (no self-loops)
+      if (t !== self) return true
+      selfDropped++
+      return false
+    })
+  }
+  console.log(`contentIndex links: ${fixed} case-fixed, ${left} still unknown, ${selfDropped} self-links dropped`)
+}
+
 async function shrinkIndex() {
   const p = `${PUB}/static/contentIndex.json`
   let before, idx
@@ -18,6 +55,7 @@ async function shrinkIndex() {
     before = raw.length
     idx = JSON.parse(raw)
   } catch (e) { console.log("contentIndex: skip -", e.message); return }
+  fixIndexLinkCase(idx)
   for (const k of Object.keys(idx)) {
     if (k.includes("#")) continue
     const e = idx[k]
