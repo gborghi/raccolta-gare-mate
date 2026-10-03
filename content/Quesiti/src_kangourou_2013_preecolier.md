@@ -652,19 +652,22 @@ How many cubes did Peter use for the podium?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who is the eldest of five children?
+*Who is the oldest among the five children?*
 
-> There are five children in a family. Daniela is 2 years older than Betta, but 2 years younger than Caterina. Edward is three years older than Anna. Betta and Anna are twins. Who is the oldest of the five children? (A) Anna
+> In a family there are five children. Daniela is 2 years older than Betta, but 2 years younger than Caterina. Edoardo is 3 years older than Anna. Betta and Anna are twins. Who is the oldest among the five children?
+>
+> (A) Anna
 > 	
-> B) Betta
+> (B) Beta
 > 	
-> C) Catherine
+> C) Caterina
 > 	
-> (d) the Commission
+> D) Daniela
 > 	
-> (e) Edward
+> E) Edoardo
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2013_preecolier#q15|src_kangourou_2013_preecolier__Q15]]
 
 

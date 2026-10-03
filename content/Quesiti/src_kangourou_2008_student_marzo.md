@@ -199,15 +199,35 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Part of water in B (river forks) *
+*Water part in B (river bifurcations)*
 
 ![[src_kangourou_2008_student_marzo__prob5.png]]
 
-> A river starts at point A. In its course it is divided into two parts; the first branch receives 2/3 of the water and the second the rest. Later the first branch is divided into three sub-branches, of which the first receives 1/8 of the water, the second 5/8 and the third the rest. Finally, the latter sub-region encounters the second branch of the first river fork: the map below illustrates the situation. What part of the initial water flows to point B? The Commission has decided to extend the scope of this Regulation to the following areas:
+> A river starts at point A. Along its course, it splits into two branches; the first branch receives 2/3 of the water and the second receives the remainder. Further downstream, the first branch splits into three tributaries, of which the first receives 1/8 of the water, the second 5/8, and the third the remainder. Finally, this last tributary meets the second branch from the river's first fork: the diagram below illustrates the situation. What fraction of the initial water flows into point B?
+>
+> x2008
+> y2008
+> A
+> B
+> 2/3
+> 1/8
+> 5/8
+>
+> Testi_08.qxp 9-03-2008 14:56 Pagina 28
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 2008 Kang 2008 A) B) C) D) E)
+> Page
+> Page 29
+> 29
+> Kang 2008
+> Kang 2008
+> A)
+> B)
+> C)
+> D)
+> E)
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2008_student_marzo#q05|src_kangourou_2008_student_marzo__Q05]]
 
 
@@ -1086,15 +1106,52 @@ Product of the two divisions of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of product figures (asterisked multiplication) *
+*Sum of digits of the product (multiplication with asterisks)*
 
 ![[src_kangourou_2008_student_marzo__prob23.png]]
 
-> The figure represents a multiplication performed manually in the usual way. Each asterisk replaces a number. The sum of the product figures is A) 16 B) 20 C) 26 D) 30 E) none of the values indicated. The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and with the opinion of the Committee on Budgetary Control and the Committee on Budgetary Control.
+> The figure shows a multiplication performed manually in the usual way. Each asterisk represents a digit. The sum of the digits of the product is
+>
+> A) 16
+> B) 20
+> C) 26
+> D) 30
+> E) none of the above.
+>
+> 1
+> 9
+> 1
+> 6
+> 1
+> 4
+> 1
+> 3
+> 1
+> 2
+> 3
+> 12
+> 1
+> 8
+> 1
+> 16
+> 1
+> 11
+> 1
+> 12
+> * * *
+> × 1 * *
+> 2 2 * *
+> 9 0 *
+> * * 2
+> 5 6 * * *
 > 
-> I'm going to pay. I'm going to pay. 32 32 Kang 2008 Kang
+> Page
+> Page 32
+> Kang 2008
+> Kang 2008
 
 **Answer:** A
+
 [[Quesiti/src_kangourou_2008_student_marzo#q23|src_kangourou_2008_student_marzo__Q23]]
 
 

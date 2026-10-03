@@ -382,15 +382,18 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Assignment of subjects to teachers (logic) *
+*Assignment of subjects to teachers (logic)*
 
-> The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Development.
+> **Books** (40 points)
 > 
-> Alan, Bob, Claire and Duncan are classmates. They study three scientific subjects: Science, Physics, Geometry, and five humanities: Latin, Greek, Literature, History, and Philosophy. Since the folders are too heavy, they agree to bring each four books of four subjects with different initials, of which at least one is scientific, and so that in total they have two books for each subject. It is also known that:
+> Alan, Bob, Claire, and Duncan are schoolmates. They study three scientific subjects: Science, Physics, Geometry, and five humanities subjects: Latin, Greek, Literature, History, Philosophy. Since their backpacks are too heavy, they agree to each carry four books—four subjects with different initial letters—of which at least one is scientific, and such that in total they have exactly two books for each subject. Additionally, it is known that:
 > 
-> - Alan and Duncan have at least two subjects in common; - Bob brings Philosophy and Letters; - Claire has all the science subjects; - Alan and Bob have only Greek in common.
+> - Alan and Duncan share at least two subjects;
+> - Bob takes Philosophy and Literature;
+> - Claire has all the science subjects;
+> - Alan and Bob share only Greek.
 > 
-> Write in alphabetical order the subjects Duncan brings, indicating the subjects in alphabetical order, with digits from $1$ to $8$.
+> Write, in alphabetical order, the subjects that Duncan takes, indicating the subjects, in alphabetical order, with the digits from $1$ to $8$.
 
 [[Quesiti/src_gs_2010_squadre#q12|src_gs_2010_squadre__Q12]]
 

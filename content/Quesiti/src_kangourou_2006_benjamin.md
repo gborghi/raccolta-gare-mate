@@ -420,15 +420,34 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White part paint after removal of cubes*
+*Paint for white part after removal of cubes*
 
 ![[src_kangourou_2006_benjamin__prob10.png]]
 
-> It takes nine kilograms of paint to paint the entire surface of a cube. Let's remove 8 cubes from the cube, as shown in the figure. How many pounds of paint do you need to paint the white part? The Commission has therefore decided to take the necessary measures to ensure that the Community's financial contribution to the programme is not exceeded by the amount of the appropriations entered in the budget.
+> It takes 9 kilograms of paint to cover the entire surface of a cube. We remove 8 small cubes from the cube, as indicated in the figure.
+> How many kilograms of paint are needed to paint the remaining white part?
+>
+> (A) 1.5
+> (B) 2
+> (C) 2.5
+> (D) 3
+> (E) 4.5
+>
+> A)
+> B)
+> C)
+> D)
+> E)
+> 2
+> Benjamin_06.qxp  20/02/2006  23.56  Pagina 11
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2006 Kang 2006 Questions from N. 11 al N. 20 is worth 4 points each.
+> Page
+> Page 12
+> Kang 2006
+> Questions 11 to 20 are worth 4 points each
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2006_benjamin#q10|src_kangourou_2006_benjamin__Q10]]
 
 
@@ -638,13 +657,39 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time for two trains to come back 140 km away
+*Time for two trains to be 140 km apart*
 
-> Along a double-track railway line two trains travel to meet each other, one at a constant speed of 80 km/h, the other at R G B V N R G B V N R B V N R R V N R V N The Commission has also adopted a number of proposals for a directive on the protection of workers' rights.
+> Along a double-track railway line, two trains travel toward each other; one at a constant speed of 80 km/h, the other at
+> R
+> G
+> B
+> V N
+> R
+> G
+> B
+> V N
+> R
+> B
+> V N
+> R
+> V N
+> R
+> N
+> R
+> R
+> ?
 > 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2006 Kang 2006 constant speed of 60 km/h. Right now they're 140 kilometers away. In how long, after crossing, will their distance return to 140 km, if they continue to travel at the same speed? A) 1 hour B) 2 hours C) 1 hour and a half D) 2 hours and a half E) half an hour
+> Page 13
+> Kang 2006
+> Two cars are moving toward each other on a straight road at constant speeds of 60 km/h each. At this moment, they are 140 km apart. After they have crossed each other, how much time will pass until their distance becomes 140 km again, if they continue to travel at the same speed?
+> (A) 1 hour
+> (B) 2 hours
+> (C) 1.5 hours
+> (D) 2.5 hours
+> (E) 0.5 hour
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2006_benjamin#q15|src_kangourou_2006_benjamin__Q15]]
 
 
@@ -1025,17 +1070,40 @@ Time for two trains to come back 140 km away
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray fraction of the three-blade flag*
+*Gray fraction of the three-stripe flag*
 
 ![[src_kangourou_2006_benjamin__prob24.png]]
 
-> A flag consists of three stripes of equal width, divided into two equal parts, three equal parts and four equal parts, as shown in the figure. What part of the flag's surface is gray? (a) (b) (c) (d) (e) figure 1 figure 2
+> A flag consists of three stripes of equal width, divided respectively into two equal parts, three equal parts, and four equal parts, as shown in the figure. What fraction of the flag's surface area is shaded gray?
+>
+> (A)
+> (B)
+> (C)
+> (D)
+> (E)
+>
+> Figure 1
+> Figure 2
 >  
-> The Commission has also adopted a number of proposals for a directive on the protection of workers' rights.
+> 2
+> 1
+> 3
+> 2
+> 5
+> 3
+> 7
+> 4
+> 9
+> 5
+> Benjamin_06.qxp  20/02/2006  23.56  Pagina 14
 > 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2006 Kang
+> Page
+> Page 15
+> Kang 2006
+> Kang 2006
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2006_benjamin#q24|src_kangourou_2006_benjamin__Q24]]
 
 
@@ -1225,13 +1293,24 @@ Time for two trains to come back 140 km away
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair of M and T with M(A-T+A) odd*
+*Parity of M and T with M(A - T + A) odd*
 
-> The letters M, A and T represent as many integers as possible. You know that the expression M x (A - T + A) results in an odd number. Which of the following statements is true? A) Both M and T are even numbers. B) Both M and T are odd numbers. C) Of the two numbers M, T, one is even and the other is odd. D) M is odd, T could be either even or odd. E) M is equal, T could be either equal or odd. The Commission has therefore decided to extend the scope of this Regulation to the following areas:
+> The letters M, A, and T represent integers. You know that the expression M × (A − T + A) yields an odd number. Which of the following statements is true?
+>
+> (A) Both M and T are even numbers.
+> (B) Both M and T are odd numbers.
+> (C) Of the two numbers M, T, one is even and the other is odd.
+> (D) M is odd, T could be either even or odd.
+> (E) M is even, T could be either even or odd.
 > 
-> I'm going to pay. I'm going to pay. 16 16 Kang 2006 Kang
+> Page
+> Page 16
+> 16
+> Kang 2006
+> Kang 2006
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2006_benjamin#q28|src_kangourou_2006_benjamin__Q28]]
 
 
@@ -1308,12 +1387,20 @@ Time for two trains to come back 140 km away
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers highlighted exactly twice between 1 and 2006*
+*Underlined numbers exactly 2 times between 1 and 2006*
 
-> On the board are all the natural numbers from 1 to 2006. So let's first underline all the numbers that are divisible by 2, then all the numbers that are divisible by 3, and finally all the numbers that are divisible by 4. Some numbers will be highlighted several times. How many numbers will be highlighted exactly twice? A) 1003             B) 1002        C) 501           D) 334              E) 167 D B C E F A F D ? The Commission has also adopted a number of proposals for a directive on the protection of workers' rights.
+> On the board are written all natural numbers from 1 to 2006.
+> First, we underline all numbers divisible by 2, then all divisible by 3, and finally all divisible by 4.
+> Some numbers will be underlined more than once.
+> How many numbers will be underlined exactly 2 times?
+>
+> (A) 1003 (B) 1002 (C) 501 (D) 334 (E) 167
 > 
 >  
-> 1 Category Benjamin For first or secondary school students
+> 1
+> Benjamin Category
+> For students in first or second year of middle school
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2006_benjamin#q30|src_kangourou_2006_benjamin__Q30]]

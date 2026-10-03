@@ -366,11 +366,20 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First year after 2016 with sum of 9 figures*
+*First year after 2016 with digit sum 9*
 
-> The sum of the figures for 2016 is 9. What will be the first year after 2016 when the sum of the digits will still be 9? The Commission has therefore decided to take the necessary measures to ensure that the measures are implemented in accordance with Article 107 (1) TFEU. 9 al N. 16 is worth 4 points each.
+> The sum of the digits of the year 2016 is 9. What will be the first year after 2016 in which the sum of the digits is again 9?
+>
+> A) 2106
+> B) 2061
+> C) 2043
+> D) 2025
+> E) 2023
+>
+> Questions 9 to 16 are worth 4 points each.
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2016_ecolier_marzo#q08|src_kangourou_2016_ecolier_marzo__Q08]]
 
 

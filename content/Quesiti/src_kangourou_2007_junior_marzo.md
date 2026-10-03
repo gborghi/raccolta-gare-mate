@@ -1053,15 +1053,31 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max population of the city (number of hairs) *
+*Maximum number of inhabitants in the city (number of hairs)*
 
-> In a city, there are no two people with the same number of hairs, and no one has exactly 9999 hairs. The number of inhabitants of the city is greater than the number of hairs of the person who has more. How many people can that town be? A) 1 B) 9997 C) 9998 D) 9999 E) 10000 1 2
+> In a city, no two people have the same number of hairs, and nobody has exactly 9999 hairs. The number of inhabitants in the city is greater than the number of hairs on the person with the most hair. What is the maximum possible number of inhabitants in this city?
+>
+> (A) 1
+> (B) 9997
+> (C) 9998
+> (D) 9999
+> (E) 10000
 >  
-> The Commission has decided to extend the scope of this Regulation to the following areas:
+> 1
+> 2
+> 2 − 1
+> 2 − 2
+>
+> Testi_07.qxp 16-04-2007 12:06 Pagina 26
 > 
-> I'm going to pay. I'm going to pay. 27 27 Kang 2007 Kang
+> Page
+> Page 27
+> 27
+> Kang 2007
+> Kang 2007
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2007_junior_marzo#q24|src_kangourou_2007_junior_marzo__Q24]]
 
 

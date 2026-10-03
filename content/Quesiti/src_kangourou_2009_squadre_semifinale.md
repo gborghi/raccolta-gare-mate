@@ -61,9 +61,10 @@ level: squadre
 
 *Percentage of perfect squares from 1 to 10000*
 
-> pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs
+> pairs of squares occupied by pieces do not share a common side (although they may share a vertex);
 
 **Answer:** 1
+
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q02|src_kangourou_2009_squadre_semifinale__Q02]]
 
 

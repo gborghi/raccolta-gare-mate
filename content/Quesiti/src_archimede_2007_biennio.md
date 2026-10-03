@@ -284,17 +284,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Enhanced area by increasing base by 20% and height by 50%*
+*Area increase by increasing base by 20% and height by 50%*
 
-> By increasing the base of a rectangle by 20% and its height by 50%, how much does it increase its area?
+> By increasing the base of a rectangle by 20% and its height by 50%, by how much
+> does its area increase?
 >
-> - **(A)** Of 70%,
-> - **(B)** of 72%,
-> - **(C)** of 75%,
-> - **(D)** of 78%,
-> - **(E)** The Commission's proposal for a directive on the protection of workers' rights
+> - **(A)** 70%,
+> - **(B)** 72%,
+> - **(C)** 75%,
+> - **(D)** 78%,
+> - **(E)** 80%.
 
 **Answer:** E
+
 [[Quesiti/src_archimede_2007_biennio#q07|src_archimede_2007_biennio__Q07]]
 
 

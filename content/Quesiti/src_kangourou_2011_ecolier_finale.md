@@ -145,11 +145,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First future year in which 9 May falls on Monday*
+*First future year in which May 9 falls on a Monday*
 
-> Today, May, is Monday. What is the first of the next few years in which May will fall on Monday?
+> Today, $9$ May $2011$ is a Monday. What is the first of the upcoming years in which $9$ May will again fall on a Monday?
 
 **Answer:** 2016
+
 [[Quesiti/src_kangourou_2011_ecolier_finale#qe5|src_kangourou_2011_ecolier_finale__QE5]]
 
 

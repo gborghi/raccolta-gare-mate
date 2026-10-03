@@ -35,11 +35,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Produced by the three numbers conceived by Adele, Beatrice, Cecilia
+*Product of the three numbers thought of by Adele, Beatrice, and Cecilia*
 
-> Adele, Beatrice and Cecilia each thought of a number. Adding Adele's number to Beatrice's number gets 20, adding Adele's number to Cecilia's number gets 24, adding Adele's number to Beatrice's number and Cecilia's number gets 44. What do you get when you multiply the three numbers by each other? The Commission has not yet decided whether to proceed with this procedure. The solution. The sum of the three numbers coincides with the sum of the double of Adele's number and the other two: then Adele's number must be 0.
+> (2 points) Adele, Beatrice, and Cecilia each thought of a number. Adding Adele's number to Beatrice's gives 20; adding Adele's number to Cecilia's gives 24; adding all three numbers together gives 44. What is the result when multiplying the three numbers together?
+>
+> A) 2024             B) 1012             C) 880             D) 440            E) 0
+> Answer: E). Solution. The sum of the three numbers equals twice Adele's number plus the other two; thus, Adele's number must be 0.
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2024_benjamin_semifinale#q01|src_kangourou_2024_benjamin_semifinale__Q01]]
 
 

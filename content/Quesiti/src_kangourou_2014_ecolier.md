@@ -1111,19 +1111,31 @@ What toys Heinzi brought home given the coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum gray squares without 2x2 gray squares*
+*Maximum number of gray 1×1 squares without a 2×2 gray square*
 
 ![[src_kangourou_2014_ecolier__prob24.png]]
 
-> You want to colour some squares in gray among those shown in the figure to the right, but you don't want to make gray squares like the one shown on the left, obtained by attaching 4 gray squares. How many squares can you color? A) 16
+> You want to color some of the small squares shown on the right figure gray, but you don't want any gray 2×2 squares—like the one shown on the left—to appear, formed by joining four gray small squares.
+>
+> What is the maximum number of small squares you can color?
+>
+> (A) 16
 > 	
-> B) 18
+> B) 18	
 > 	
-> C) 20 D) 21
+> C) 20
+> D) 21	
 > 	
-> E) 22 + 2 4 1 6 7
+> E) 22
+> +
+> 2
+> 4
+> 1
+> 6
+> 7
 > 
-> This appropriation is intended to cover expenditure on research and technological development in the Member States.
+> CATERPILLAR ECOLIER 2014
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2014_ecolier#q24|src_kangourou_2014_ecolier__Q24]]

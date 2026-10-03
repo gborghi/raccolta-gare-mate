@@ -340,19 +340,22 @@ This is the total amount of unemployment over the period considered.
 <div class="qlang-split" data-lang="en"></div>
 
 
-The Commission shall adopt delegated acts in accordance with the opinion of the European Parliament and of the Council.
+*english*
 
-> A class is made up of 33 students, each of whom likes to study at least one of the subjects between Italian and Mathematics. Exactly three of them like to study both Mathematics and Italian, and students who like to study only Italian are twice as many as those who like to study only Mathematics. How many students like to study Italian? A) 15
+> A class consists of 33 students, each of whom likes studying at least one of the subjects: Italian or Mathematics. Exactly 3 students like studying both Mathematics and Italian, and the number of students who like studying only Italian is double the number of those who like studying only Mathematics. How many students like studying Italian?
+>
+> (A) 15
 > 	
-> B) 18
+> B) 18	
 > 	
-> C) 20
+> C) 20	
 > 	
-> D) 22
+> D) 22	
 > 	
 > E) 23
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2015_marzo_junior#q07|src_kangourou_2015_marzo_junior__Q07]]
 
 

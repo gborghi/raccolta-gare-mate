@@ -190,17 +190,35 @@ This is the total value of the input data for each of the following categories:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is true on P1 and P2 (parallelogram) *
+*Which true statement about P1 and P2 (parallelogram)?*
 
 ![[src_kangourou_2007_benjamin_marzo__prob5.png]]
 
-> A parallelogram is divided into two parts P1 and P2, as shown in the figure. What statement is true? A) P1 and P2 have the same area. B) P1 and P2 have the same perimeter. C) P2 has an area less than P1. D) P2 has a perimeter greater than P1. E) None of the above. P1 P2
+> A parallelogram is divided into two parts P1 and P2, as shown in the figure. Which statement is true?
+> (A) P1 and P2 have the same area.
+> (B) P1 and P2 have the same perimeter.
+> (C) P2 has smaller area than P1.
+> (D) P2 has greater perimeter than P1.
+> (E) None of the above.
+>
+> P1
+> P2
 >  
-> A) B) C) D) E) arrival of the text
+> A)
+> B)
+> C)
+> D)
+> E)
+> arrival
+> Texts_07.qxp  16-04-2007  12:03 Page 10
 > 
-> I'm going to pay. I'm going to pay. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+> Page
+> Page 11
+> Kang 2007
+> Kang 2007
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q05|src_kangourou_2007_benjamin_marzo__Q05]]
 
 

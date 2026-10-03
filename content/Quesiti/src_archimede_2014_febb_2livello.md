@@ -245,18 +245,18 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Potenze di 4 che in base 3 usano solo 0 e al piu due 1*
+*Powers of 4 that in base 3 use only 0 and at most two 1s*
 
-> Quanti interi positivi sono una potenza di 4 e si scrivono in base 3 usando solo le cifre 0 e 1, lo
-> 0 quante volte si vuole (anche nessuna) e l’1 al più due volte?
+> How many positive integers are powers of 4 and, when written in base 3, use only the digits 0 and 1, with 0 appearing any number of times (including zero times) and 1 appearing at most twice?
 >
 > - **(A)** 4
 > - **(B)** 2
 > - **(C)** 1
 > - **(D)** 0
-> - **(E)** Infiniti.
+> - **(E)** Infiniti
 
 **Answer:** B
+
 [[Quesiti/src_archimede_2014_febb_2livello#q06|src_archimede_2014_febb_2livello__Q06]]
 
 

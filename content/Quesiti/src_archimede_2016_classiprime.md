@@ -725,13 +725,29 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intermediate square area with aligned vertices*
+*Area of the middle square with aligned vertices*
 
 ![[src_archimede_2016_classiprime__prob18.png]]
 
-> Three squares, drawn as shown, have the vertices P, Q and R aligned. We also know that the side of the smallest one measures one meter and that of the largest one measures 120 centimeters. P Q R What is the area in cm2 of the average size? A 12000 B 14400 C 12200 D 11000 E 12100 F 12400 1
+> Three squares, drawn as in the figure, have vertices P, Q, and R aligned.
+> We also know that the side of the smallest square is 1 meter and the side of the largest square is 120 cm.
+> P
+> Q
+> R
+>
+> What is the area of the middle-sized square, expressed in cm²?
+> A 12000
+> B 14400
+> C 12200
+> D 11000
+> E 12100
+> F 12400
 > 
-> Solutions Below you will find the solutions in written form. The video solutions will be posted a bit at a time on my YouTube channel: problemisoluti.it. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+> Solutions
+> Below you will find the written solutions. The video solutions will be published gradually on my YouTube channel:
+> problemisvolti.it.
+> Emanuele Callegari
 
 **Answer:** A
+
 [[Quesiti/src_archimede_2016_classiprime#q18|src_archimede_2016_classiprime__Q18]]

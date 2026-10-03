@@ -159,11 +159,20 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Autoreference: how many of the sentences given are true.*
+*Self-reference: how many of the given statements are true.*
 
-> This box contains exactly one false phrase. This box contains exactly two false sentences. This box contains exactly three false sentences. This box contains exactly four true sentences. This box contains exactly five true sentences. This box contains exactly six true sentences. This box contains exactly seven false sentences. In the box above, how many sentences are true?
+> $\bullet$ This box contains exactly one false statement.
+> $\bullet$ This box contains exactly two false statements.
+> $\bullet$ This box contains exactly three false statements.
+> $\bullet$ This box contains exactly four true statements.
+> $\bullet$ This box contains exactly five true statements.
+> $\bullet$ This box contains exactly six true statements.
+> $\bullet$ This box contains exactly seven false statements.
+>
+> How many of the statements in the above boxes are true?
 
 **Answer:** 2 frasi vere
+
 [[Quesiti/src_bocconi_finaleint_2008_g2#q05|src_bocconi_finaleint_2008_g2__Q05]]
 
 

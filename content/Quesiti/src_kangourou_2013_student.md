@@ -1424,23 +1424,36 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of exit of five cars from the roundabout*
+*Ways for five cars to exit the roundabout*
 
 ![[src_kangourou_2013_student__prob30.png]]
 
-> Five cars enter at the same time, from five different directions, into the roundabout shown in the figure. Each car takes less than a full lap, and no pair of cars exits the roundabout in the same direction. How many different ways can the group of five cars leave the roundabout? A) 24
+> Five cars enter a roundabout simultaneously from five different directions, as shown in the figure.
+> Each car travels a distance less than one full lap, and no two cars exit in the same direction.
+> In how many different ways can the group of five cars leave the roundabout?
+> (A) 24
 > 	
-> B) 44
+> B) 44	
 > 	
-> C) 60
+> C) 60	
 > 	
-> D) 81
+> D) 81	
 > 	
 > E) 120
 > 
-> The scientific committee of KANGOUROU of mathematics Prof. A. In addition, the Commission has also adopted a number of proposals for a directive on the protection of workers' rights. Hair (Ligurian Regional Directorate) Prof. S. He is also a member of the European Parliament. G. L. Forti (University of Milan) Prof. M. Gobbino (University of Pisa) Prof. A. It is also important to note that the Commission has not yet adopted a proposal for a regulation on the protection of the environment. Maluta (Milan Polytechnic) Prof. A. The Commission has also adopted a number of proposals for a directive on the approximation of the laws of the Member States relating to the protection of the environment. C. Zanco (University of Milan)
+> SCIENTIFIC COMMITTEE OF KANGOUROU DE LA MATEMATICA
+> Prof. A. Arosio (University of Parma)
+> Prof.ssa L. Capelli (Liguria Regional Directorate)
+> Prof.ssa S. De Stefano (University of Milano)
+> Prof. G. L. Forti (University of Milano)
+> Prof. M. Gobbino (University of Pisa)
+> Prof. A. Lissoni (Kangourou Italia)
+> Prof.ssa E. Maluta (Politecnico di Milano)
+> Prof.ssa A. Rossi (Leonardo High School, Brescia)
+> Prof. C. Zanco (University of Milano)
 > 
-> I'm going to be a student.
+> STUDENT STRING 2013
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2013_student#q30|src_kangourou_2013_student__Q30]]

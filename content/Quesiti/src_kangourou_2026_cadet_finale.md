@@ -12,6 +12,9 @@ level: kangourou
 
 <span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
 *Differenza di peso tra sacchi da terne 50 o 60*
 
 > Ci sono 4 sacchi e ognuno pesa un numero intero di chili. Se ne scegliamo 3 in ognuno dei quattro modi possibili, il peso complessivo dei 3 scelti è o 50 o 60 chili. Quante sono le possibili differenze di peso tra il sacco più pesante e quello più leggero?
@@ -23,8 +26,23 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Weight difference between 50 or 60 triple bags*
+
+> There are 4 sacks and each weighs an integer number of kilograms. If we choose 3 of them in each of the four possible ways, the total weight of the 3 chosen is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest one?
+
+**Answer:** 1
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc1|src_kangourou_2026_cadet_finale__QC1]]
+
+
 
 <span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quarto quadrilatero in un quadrato*
 
@@ -37,8 +55,23 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of the fourth quadrilateral in a square*
+
+> In a square, four segments have been drawn from an internal point to the midpoints of the sides. The areas of three regions are indicated as $200$, $320$, $160$. What is the area of the fourth region?
+
+**Answer:** 280
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc2|src_kangourou_2026_cadet_finale__QC2]]
+
+
 
 <span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_combinatoria,skill_astrazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Moneta falsa piu leggera con 6 pesate*
 
@@ -51,8 +84,23 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Counterfeit coin lighter with 6 weighings*
+
+> There is a pile of coins that all look alike: they all have the same weight except one, which is the only fake one and weighs slightly less. I can identify the fake coin using a two-pan balance. If with at most 6 weighings I am certain I can identify the fake coin, what is the maximum number of coins that can be in the pile?
+
+**Answer:** 729
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc3|src_kangourou_2026_cadet_finale__QC3]]
+
+
 
 <span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centri dei quadrati esterni a un rettangolo*
 
@@ -65,8 +113,23 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Centers of external squares on a rectangle*
+
+> A rectangle $R$ is given. Externally to $R$, on each side a square is constructed. What can be said about the polygon whose vertices are the centers of the four squares?
+
+**Answer:** è un quadrato
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc4|src_kangourou_2026_cadet_finale__QC4]]
+
+
 
 <span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Levare un intero da 1 a 2026 per media intera*
 
@@ -79,8 +142,23 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Remove an integer from 1 to 2026 for integer average*
+
+> Consider the integers from 1 to 2026 inclusive. You want to remove one so that the average of the remaining ones is an integer. List the numbers you can choose.
+
+**Answer:** 1 o 2026
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc5|src_kangourou_2026_cadet_finale__QC5]]
+
+
 
 <span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di palindromi di 4 cifre con somma palindroma*
 
@@ -92,3 +170,15 @@ level: kangourou
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four-digit palindrome pairs with palindromic sum*
+
+> How many unordered pairs of positive integer palindromes with 4 digits are there such that the sum of the two numbers is a 5-digit palindrome?
+
+**Answer:** 36
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc6|src_kangourou_2026_cadet_finale__QC6]]

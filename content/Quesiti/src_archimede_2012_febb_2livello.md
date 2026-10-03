@@ -530,17 +530,23 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Half sheet x^2 y^2, maximum number of jokes *
+*Folletto halves x^2 - y^2, maximum number of pranks*
 
-> A booklet chooses two odd numbers x, y such that 0 < y < x < 2012, calculates x2 −y2 and writes the result on a sheet. Every morning (starting the next day) he wakes up, reads the number written on the paper, and if that number is even, he replaces it with his half and goes to make a joke to someone. The day he first reads a strange number, he disappears back into the fairy world. How many jokes does a puppeteer make at most?
+> A fairy chooses two odd numbers x, y such that 0 < y < x < 2012, computes x² − y², and writes the result on a sheet of paper. Every morning (starting from the day after), she wakes up, reads the number written on the paper, and if this number is even, replaces it with half of itself and goes to play a prank on someone.
+>
+> The day she first reads an odd number, she disappears, returning to the fairy world.
+>
+> What is the maximum number of pranks the fairy can perform?
 >
 > - **(A)** 11
 > - **(B)** 12
 > - **(C)** 14
 > - **(D)** 21
-> - **(E)** 22. Problems with numerical answer  5 points
+> - **(E)** 22
+> Numerical answer problems – 5 points
 
 **Answer:** B
+
 [[Quesiti/src_archimede_2012_febb_2livello#q12|src_archimede_2012_febb_2livello__Q12]]
 
 

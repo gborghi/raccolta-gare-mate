@@ -505,11 +505,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which calculation with 8 does not work by changing the number *
+*Which calculation with 8 does not work by swapping the digit*
 
-> A positive integer of four digits (in decimal notation) is called number tris if the number of hundreds is 3 and the sum of the remaining digits is still 3. How many tri-numbers are there? A) 2 B) 3 C) 4 D) 5 E) 6 g A B C D E M N 3 3 6 ?
+> A four-digit positive integer (in decimal notation) is called a "tris number" if the hundreds digit is 3 and the sum of the remaining digits is still 3. How many tris numbers exist?
+>
+> (A) 2
+> (B) 3
+> (C) 4
+> (D) 5
+> (E) 6
 > 
-> I'm going to pay. I'm going to pay. The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament and of the Council.
+> Page
+> Page 24
+> 24
+> Kang 2012
+> Kang 2012
 
 [[Quesiti/src_kangourou_2012_junior#q11|src_kangourou_2012_junior__Q11]]
 

@@ -710,13 +710,24 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BEG square triangle area with mean points*
+*Area of triangle BEG in square with midpoints*
 
-> A square ABCD has sides of length 2. E and F are the midpoints of the sides AB and AD respectively. G is the point on CF such that 3CG=2GF. The area of the BEG triangle is A) 7/10. B) 4/5. C) 8/5. D) 3/5. E) 6/5. 16 m 16 m A B C D M N D′ D N B A N M D C D C
+> Square ABCD has sides of length 2. Points E and F are the midpoints of sides AB and AD, respectively. Point G lies on segment CF such that 3CG = 2GF. The area of triangle BEG is
+>
+> (A) 7/10
+> (B) 4/5
+> (C) 8/5
+> (D) 3/5
+> (E) 6/5
 > 
-> I'm going to pay. I'm going to pay. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+> Page
+> Page 30
+> 30
+> Kang 2012
+> Kang 2012
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2012_student#q18|src_kangourou_2012_student__Q18]]
 
 

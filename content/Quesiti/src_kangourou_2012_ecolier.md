@@ -1222,11 +1222,18 @@ Which number was Michele started from?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most games lost with 80 points in 38 games*
+*Maximum number of games lost with 80 points in 38 games*
 
-> In the game of football, the winner of a match earns 3 points in the standings and the loser 0 points. If a match ends in a draw, both teams earn a point. After 38 games, a team has 80 points in the standings. How many games can he have lost at most? A) 12 B) 11 C) 10 D) 9 E) 8
+> In football, a team earns 3 points for a win and 0 points for a loss. If a match ends in a draw, both teams earn 1 point. After playing 38 matches, a team has 80 points in the standings. What is the maximum number of matches the team could have lost?
+>
+> (A) 12
+> (B) 11
+> (C) 10
+> (D) 9
+> (E) 8
 > 
-> The Commission has also adopted a number of measures.
+> ANSWERS ECOLIER 2012
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2012_ecolier#q24|src_kangourou_2012_ecolier__Q24]]

@@ -170,17 +170,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who is most likely to have 7 denarii?
+*Who is more likely to have the 7 of coins*
 
-> Antonio, Beppe, Carlo and Duccio randomly hand out the 40 cards of a deck, 10 each. Antonio has the ace, the second and the third of the denarii. Beppe has the axe of swords and the axe of sticks. Carlo has a cup of tea. Who's more likely to have the seven denarii?
+> Antonio, Beppe, Carlo and Duccio randomly distribute the 40 cards of a deck among themselves, 10 each.
+> Antonio has the ace, the two and the three of coins. Beppe has the ace of spades and the ace of clubs. Carlo has
+> the ace of cups. Who is more likely to have the 7 of coins?
 >
-> - **(A)** The Commission shall adopt implementing acts.
-> - **(B)** Beep
-> - **(C)** Charles
-> - **(D)** I'm not sure.
-> - **(E)** Two or more players are equally likely to have it.
+> - **(A)** Antonio
+> - **(B)** Beppe
+> - **(C)** Carlo
+> - **(D)** Duccio
+> - **(E)** two or more players have the same probability of having it.
 
 **Answer:** D
+
 [[Quesiti/src_archimede_2010_2livello#q04|src_archimede_2010_2livello__Q04]]
 
 

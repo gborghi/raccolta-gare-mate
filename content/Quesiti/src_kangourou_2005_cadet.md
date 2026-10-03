@@ -210,11 +210,17 @@ Percentage of students with bicycles and rollerblades
 
 *Angle A with relations between angles of the triangle*
 
-> In an ABC triangle the angle in A has three times the size of the angle in B and half the size of the angle in C. How many degrees does the angle in A measure? The Commission has not yet decided on the application of this Regulation.
+> In triangle ABC, the angle at A is three times the angle at B and half the angle at C. How many degrees does the angle at A measure?
+>
+> (A) 30 (B) 36 (C) 54 (D) 60 (E) 72
 > 
-> I'm going to pay. I'm going to pay. 17 17 Kang 2005 Kang
+> Page
+> Page 17
+> Kang 2005
+> Kang 2005
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2005_cadet#q06|src_kangourou_2005_cadet__Q06]]
 
 
@@ -1126,13 +1132,23 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 10 and 99 more than tripled by exchanging digits*
+*Two-digit numbers between 10 and 99 that are more than tripled when digits are swapped*
 
-> How many positive integers between 10 and 99 are more than tripled when you exchange their numbers ? The Commission has therefore decided to extend the period of validity of this Regulation to the following three years:
+> How many positive integers between 10 and 99 become more than tripled when their digits are swapped?
+>
+> (A) 6
+> (B) 10
+> (C) 15
+> (D) 22
+> (E) 33
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 2005 Kang
+> Page
+> Page 21
+> Kang 2005
+> Kang 2005
 
 **Answer:** A
+
 [[Quesiti/src_kangourou_2005_cadet#q26|src_kangourou_2005_cadet__Q26]]
 
 

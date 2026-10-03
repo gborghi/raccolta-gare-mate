@@ -162,17 +162,19 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Original price after 15% discount*
+*Original price after a 15% discount*
 
-> Paolo bought an item at a 15% discount on the original price and paid 106.25 euros for it. What was the original price?
+> Paolo bought an item getting a 15% discount on the original price and
+> paid 106.25 Euros for it. What was the original price?
 >
-> - **(A)** Less than EUR 123,
-> - **(B)** EUR 124
-> - **(C)** The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1.
-> - **(D)** EUR 127
-> - **(E)** more than EUR 128.
+> - **(A)** Less than 123 Euros,
+> - **(B)** 124 Euros,
+> - **(C)** 125 Euros,
+> - **(D)** 127 Euros,
+> - **(E)** more than 128 Euros.
 
 **Answer:** C
+
 [[Quesiti/src_archimede_2006_biennio#q04|src_archimede_2006_biennio__Q04]]
 
 

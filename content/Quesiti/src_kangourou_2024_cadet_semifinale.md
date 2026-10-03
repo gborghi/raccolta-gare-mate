@@ -318,11 +318,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blocks of 2024...2024 divided by 4 *
+*How many blocks of 2024...2024 divisible by 4*
 
-> (Points 5) Consider the alignment of figures 202420242024...20242024 where the fourth order 2024 appears 1,012 times. Each block that is made up of any number of consecutive digits in this alignment and does not start with 0 identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth and so on, identifies the number 4.202.420). How many integers, all different from each other, determined by eligible blocks, are divisible by 4? The Commission has not yet decided whether to proceed with a decision on the application of this Regulation. The solution. All the numbers that matter to us cannot end in 2 (in fact, no number of at least three digits that you end in 02 or 42 is divisible by 4), but they can end in 0 (that is, for us, with 20) or with 4. Each acceptable block that terminates with 0 must start with 20 or 2420 or 420 and may be followed by a sequence of 2420s ranging from 0 to 1,011 for 20 and from 0 to 1,010 for 2420 and 420, for a total of 3,034 possibilities. Each acceptable block that ends with 4 must start with 2024 or 24 or 4 and the odds are 1,012 in each case, for a total of 3,036.
+> (5 points) Consider the alignment of digits
+> 202420242024…20242024
+> in which the ordered quadruple 2024 appears 1,012 times. Any block formed by any number of consecutive digits in this alignment that does not start with 0 defines an integer (for example, the block 4202420, starting from the fourth digit and ending at the tenth, or from the eighth to the fourteenth, defines the number 4.202.420). How many distinct integers determined by valid blocks are divisible by 4?
+>
+> A) 2021             B) 2024             C) 2025             D) 6067            E) 6070
+> Answer: E). Solution. Only those numbers we are interested in cannot end with 2 (indeed, no number of at least three digits ending in 02 or 42 is divisible by 4), but they may end with 0 (i.e., for us, ending in 20) or with 4. Every valid block ending in 0 must start with 20, or with 2420, or with 420, and may be followed by a number of consecutive 2420 blocks ranging from 0 to 1,011 for 20, and from 0 to 1,010 for 2420 and 420, giving a total of 3,034 possibilities. Every valid block ending in 4 must start with 2024, or with 24, or with 4, and there are 1,012 possibilities in each case, for a total of 3,036.
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2024_cadet_semifinale#q07|src_kangourou_2024_cadet_semifinale__Q07]]
 
 
