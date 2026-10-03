@@ -351,17 +351,18 @@ level: nazionale
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Sum |coeff| polynomial max degree with integer roots*
 
-*Somma |coeff| polinomio max grado con radici intere*
-
-> Tentare la sorte
-> Nessuno ricorda più la parola d’ordine per disattivare il robot Gort, che tra 9 giorni si accenderà e distruggerà la vita sulla Terra.
-> Tuttavia esiste una seconda procedura d’arresto. In ciascuno di questi giorni l’eroico Ash Williams lancerà un dado a 6 facce. Se
-> ogni lancio sarà diverso sia dal numero uscito due giorni prima sia da quello che uscirà quattro giorni dopo, Gort si disattiverà.
-> (Se in uno dei giorni richiesti Ash non ha tirato il dado, ad esempio due giorni prima del primo giorno, il numero uscito viene
-> considerato diverso.) Qual è la probabilità che il Mondo non finisca? Come risposta fornire le prime 4 cifre dopo la virgola.
+> Trying your luck
+> No one remembers anymore the password to deactivate the robot Gort, which in 9 days will turn on and destroy life on Earth.
+> However, there is a second shutdown procedure. On each of these days the heroic Ash Williams will roll a 6-sided die. If
+> every roll is different both from the number that came up two days before and from the one that will come up four days later, Gort will be deactivated.
+> (If on one of the required days Ash did not roll the die, for example two days before the first day, the number that came up is
+> considered different.) What is the probability that the World will not end? As your answer, provide the first 4 digits after the decimal point.
 
 **Answer:** 1700
+
+
 [[Quesiti/src_cesenatico_2012_semifinale_c#q10|src_cesenatico_2012_semifinale_c__Q10]]
 
 

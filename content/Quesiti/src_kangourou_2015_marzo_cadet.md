@@ -323,7 +323,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *spigolo che coincide con UV*
@@ -376,10 +376,9 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<div class="qlang-split" data-lang="en"></div>
+<div class="qlang-split" data-lang="it"></div>
 
-
-* mirror that coincides with UV*
+*spigolo che coincide con UV*
 
 ![[src_kangourou_2015_marzo_cadet__prob7.png]]
 
@@ -412,11 +411,18 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> The figure shows the plane development of a triangular-based prism. Which beam matches the UV beam when you fold the development to reconstruct the prism? A) WV B) XW C) XY
+> Nella figura è rappresentato lo sviluppo piano di un prisma a base triangolare. Quale spigolo coincide con lo spigolo UV quando si piega lo sviluppo in modo da ricostruire il prisma?
+>
+> A) WV
+> B) XW
+> C) XY
 > 	
-> D) QR E) RS
+> D) QR
+> E) RS
 
-**Answer:** C
+**Risposta:** C
+
+
 [[Quesiti/src_kangourou_2015_marzo_cadet#q07|src_kangourou_2015_marzo_cadet__Q07]]
 
 

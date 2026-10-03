@@ -297,14 +297,15 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 
 <div class="qlang-split" data-lang="en"></div>
 
+*How many times does the second hand overtake the minute hand in a week*
 
-*Volte che lancetta secondi sorpassa minuti in una settimana*
-
-> La giratempo
-> La valente Hermita è piuttosto confusa dall’uso della Giratempo, che le permette di viaggiare nel tempo.
-> Dunque si ritrova costretta a tenere spesso d’occhio l’orologio. Sia N il numero di volte che, in una settimana, la lancetta dei secondi sorpassa la lancetta dei minuti. Quanto vale N?
+> The Time Turner
+> The brave Hermita is rather confused by the use of the Time Turner, which allows her to travel through time.
+> Thus, she often finds herself keeping a close eye on the clock. Let N be the number of times in one week that the second hand overtakes the minute hand. What is the value of N?
 
 **Answer:** 9912
+
+
 [[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q09|src_cesenatico_2006_squadre_semifinale_a__Q09]]
 
 

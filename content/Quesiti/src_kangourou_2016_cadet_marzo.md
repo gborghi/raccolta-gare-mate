@@ -406,20 +406,25 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+*paths*
 
 ![[src_kangourou_2016_cadet_marzo__prob10.png]]
 
-> Four squares P, Q, R, S are connected to each other by some paths according to the pattern you see in the figure. You want to organize a race that goes through each road exactly once, starting from P and ending in R. How many trails are possible for the race? A) 10
+> Four squares P, Q, R, S are connected to each other by some roads according to the pattern shown in the figure. We want to organize a race that passes through each road exactly once, starting at P and finishing at R. How many possible routes are there for the race?
+>
+> (A) 10
 > 	
-> B) 8
+> B) 8	
 > 	
-> C) 6 D) 4
+> C) 6
+> D) 4	
 > 	
-> E) 2 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 2
+> Questions 11 to 20 are worth 4 points each.
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2016_cadet_marzo#q10|src_kangourou_2016_cadet_marzo__Q10]]
 
 
@@ -1138,20 +1143,23 @@ The manufacturer shall provide the manufacturer with the following information:
 
 <div class="qlang-split" data-lang="en"></div>
 
+*sum*
 
-The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
-
-> On the board are written some positive integers two to two different. The product of the smaller two is 16; the product of the larger two is 225. What is the sum of the numbers written on the board? A) 38
+> Some positive integers, all distinct, are written on the board. The product of the two smallest is 16; the product of the two largest is 225. What is the sum of the numbers written on the board?
+>
+> (A) 38
 > 	
-> B) 42
+> B) 42	
 > 	
-> C) 44
+> C) 44	
 > 	
-> D) 48
+> D) 48	
 > 	
 > E) 243
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2016_cadet_marzo#q26|src_kangourou_2016_cadet_marzo__Q26]]
 
 

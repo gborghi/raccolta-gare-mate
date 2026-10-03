@@ -242,14 +242,24 @@ Score of the game won by the Kang team
 
 <div class="qlang-split" data-lang="en"></div>
 
+*How many mice did Felix catch on the third day?*
 
-How many mice did Felix take on the third day?
-
-> Cat Felix caught 14 mice in three days. Every day after that, the first one caught more mice than the day before. On the third day he caught less than the previous two combined. How many mice did Felix take on the third day? The Commission has not yet decided whether to proceed with the implementation of this Regulation.
+> Felix the cat caught 14 mice in 3 days. Each day after the first, he caught more mice than on the previous day. On the third day, he caught fewer mice than the total from the first two days combined. How many mice did Felix catch on the third day?
+>
+> (A) 5
+> (B) 6
+> (C) 7
+> (D) 8
+> (E) 9
 > 
-> I'm going to pay. I'm going to pay. This is a list of official languages of the United Kingdom.
+> Page
+> Page 17
+> 17
+> Kang 2011
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2011_cadet#q06|src_kangourou_2011_cadet__Q06]]
 
 
@@ -347,19 +357,19 @@ How many mice did Felix take on the third day?
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Sum of the largest and smallest three-digit numbers with digit sum 8*
 
-*Somma del piu grande e piu piccolo numero di 3 cifre somma cifre 8*
-
-> Tra tutti i numeri interi positivi di tre cifre significative (cioè la cui cifra
-> delle centinaia non sia 0) tali che la somma delle cifre sia 8, scegliamo il più
-> grande e il più piccolo. Quanto vale la loro somma? 
-> A) 709
-> B) 916
-> C) 808
-> D) 907
-> E) 781
+> Among all three-digit positive integers (i.e., numbers whose hundreds digit is not 0) such that the sum of the digits is 8, choose the largest and the smallest. What is their sum?
+>
+> (A) 709
+> (B) 916
+> (C) 808
+> (D) 907
+> (E) 781
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2011_cadet#q09|src_kangourou_2011_cadet__Q09]]
 
 
@@ -808,14 +818,44 @@ This is the total value of the assets of the institution.
 
 <div class="qlang-split" data-lang="en"></div>
 
+*The largest of 11 consecutive numbers with sum p*
 
-*Greatest of 11 consecutive numbers to sum p*
-
-> The sum of eleven consecutive numbers is p. So the largest of these numbers is A . B) . C) . D) . E) . The Commission has decided to extend the scope of this Regulation to the following areas:
+> The sum of eleven consecutive integers is p. Then the largest of these numbers is
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> p
+> 6 + 10
+> p
+> 11 + 10
+> p
+> 5 + 10
+> p
+> 11 + 5
+> p
+> 5 + 5
+>
+> R
+> V
+> B
+> X
+> A)
+> B)
+> C)
+> D)
+> E)
 > 
-> I'm going to pay. I'm going to pay. 19 19 Kang 201 Kang 2011
+> Page
+> Page 19
+> 19
+> Kang 2011
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2011_cadet#q19|src_kangourou_2011_cadet__Q19]]
 
 
@@ -1288,14 +1328,26 @@ True statement about the ages of Eva and Rita
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Length of the x side of the triangle obtained by reconstituting*
+*Length of side x of the triangle obtained by reassembling*
 
 ![[src_kangourou_2011_cadet__prob30.png]]
 
-> The figure shows a plane region with two rectangles and shows the lengths of the two sides of the rectangles: 11 and 13. By dividing the region into three parts and approaching them as indicated by the arrows, you get the triangle represented on the side. What is the length of the side denoted by x? The Commission has therefore decided to extend the period of validity of this Regulation to the following areas:
+> In the figure, a region of the plane is shown formed by joining two rectangles, and the lengths of two sides of the rectangles are indicated: 11 and 13. By dividing the region into three parts and arranging them as indicated by the arrows, a triangle is obtained, shown on the side. What is the length of the side denoted by x?
+> A) 36
+> B) 37
+> C) 38
+> D) 39
+> E) 40
+>
+> 11
+> 13
+> x
 > 
-> 1 2011 Cadet category
+> 1
+> 2011
+> Cadet Category
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2011_cadet#q30|src_kangourou_2011_cadet__Q30]]

@@ -1046,18 +1046,25 @@ This is the total amount of the loan.
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Points on the upper face of the dice*
+*Points on the top face of the die*
 
 ![[src_kangourou_2001_ecolier__prob24.png]]
 
-> A dice is placed on a square plane as shown in the figure (the squares are the same size as the dice faces). By rotating the dice on a spike, we move it from the box in which it is in the adjacent box indicated by the arrow and continue with this operation always following the path indicated by the arrows. How many dots can we see on the upper face of the die when the die occupies the box indicated with " * " ? (In a dice, the sum of the points on opposite sides is always equal to 7).
+> A die is placed on a squared plane as shown in the figure (the squares
+> have the same size as the faces of the die). By rotating the die on an edge,
+> we move it from the square in which it is located to the adjacent square indicated by the
+> arrow, and we continue with this operation always following the path indicated
+> by the arrows. How many pips will we be able to see on the top face of the die, when
+> the die occupies the square indicated by " * " ? (In a die the sum of the pips on
+> opposite faces is always 7).
 >
 > - **(A)** 5
 > - **(B)** 4
 > - **(C)** 3
 > - **(D)** 1
-> - **(E)** None of the previous scores. The Commission has not yet taken a decision on the compatibility of the aid. This item is not intended to be used. 1 Answers Category Ecolier Competition of 15 March 2001
+> - **(E)** none of the previous scores. Answers Ecolier category, 15 March 2001. Page No. 1 Answers Ecolier Category Competition of 15 March 2001
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2001_ecolier#q24|src_kangourou_2001_ecolier__Q24]]

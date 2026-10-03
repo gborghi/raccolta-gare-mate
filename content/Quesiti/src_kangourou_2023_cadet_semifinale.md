@@ -220,10 +220,14 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*attempts*
 
-This is the main reason why the Commission is not able to take any further action.
+> (5 points) The code of a safe is a four-digit number. The sum of the last two is
+> a two-digit prime number which, read in order, are the first two digits of the code. Having only
+> this information, how many attempts will be needed, at most, to open the safe?
+> A) 4           B) 8            C) 12           D) 16           E) 20
 
-> (Points 5) The code of a safe deposit box is a four digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With only this information, how many attempts will it take, at most, to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
+
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q07|src_kangourou_2023_cadet_semifinale__Q07]]
 

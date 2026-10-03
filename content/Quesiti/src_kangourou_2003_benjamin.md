@@ -66,12 +66,19 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Euros available to Tommaso*
 
-The Commission's proposal for a regulation on the protection of the environment
-
-> Tom has nine hundred-euro tickets, nine ten-euro tickets and ten one-euro coins. How many euros do you have? A) 1000 B) 991     C) 9910 D) 9901 E) 99010
+> Tommaso has 9 hundred-euro bills, 9 ten-euro bills, and 10 one-euro coins. How many euros does he have?
+>
+> A) 1000
+> B) 991
+> C) 9910
+> D) 9901
+> E) 99010
 
 **Answer:** A
+
+
 [[Quesiti/src_kangourou_2003_benjamin#q02|src_kangourou_2003_benjamin__Q02]]
 
 

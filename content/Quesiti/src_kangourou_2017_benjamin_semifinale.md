@@ -781,12 +781,48 @@ Tickets sold together with number 374 (650 tickets)
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Number of pool inlets given filling times*
 
-*Number of pool pipes data filling times*
-
-> (Points 8) A swimming pool is powered by various pipes. If the pool is empty and everyone is open, the pool fills up in an hour. If, in an empty pool, everyone opens and closes after 10 minutes, it takes 10 more minutes to recall the pool. How many pipes does the pool have? 1 2 3 4
+> (Points 8) A swimming pool is fed by various pipes. If, with the pool empty, all are opened, the pool
+> fills in one hour. If, with the pool empty, all are opened and after 10 minutes 10 of them are closed, to
+> fill the pool takes 10 more minutes. How many pipes is the pool equipped with?
+> 1
+> 2
+> 3
+> 4
 > 
-> Question No. The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and the opinion of the Committee on Budgetary Control.
+> Question N.
+> score
+> 2
+> 3
+> 3
+> 4
+> 4
+> 4
+> 5
+> 5
+> 6
+> 4
+> 5
+> 5
+> 6
+> 6
+> 6
+> 7
+> 7
+> 8
+> answer
+> 0277
+> 0019
+> 0105
+> 0010
+> 0005
+> 0250
+> 0343
+> 2346
+> 0060
 
 **Answer:** 60
+
+
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q18|src_kangourou_2017_benjamin_semifinale__Q18]]

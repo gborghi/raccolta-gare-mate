@@ -1617,8 +1617,7 @@ How many coins were in the fortress
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Minimum gray spikes on the edge of the tiled square*
+*Minimum gray edges on the border of the tiled square*
 
 ![[src_kangourou_2014_cadet__prob30.png]]
 
@@ -1632,17 +1631,21 @@ How many coins were in the fortress
 \end{document}
 ```
 
-> A square on side 5 shall be tiled with square square pilasters on side 1, all with the same drawing as shown in Figure 1. It is desirable that two adjacent tiles always have the same colour, black or gray, contact pin. On the edge of the square some tiles will turn out with their black spike and some with one of their gray spike: what is the smallest number of gray spikes that must necessarily appear on the edge of the square? A) 4
+> A square of side length 5 must be tiled with square tiles of side length 1, all bearing the same pattern shown in the figure. It is required that two adjacent tiles always have contacting edges of the same color, black or gray. On the border of the square, some tiles will abut with their black edge and others with one of their gray edges. What is the smallest number of gray edges that must necessarily appear on the border of the square?
+>
+> (A) 4
 > 	
-> B) 5
+> B) 5	
 > 	
-> C) 6
+> C) 6	
 > 	
-> D) 7
+> D) 7	
 > 	
 > E) 8
 > 
-> The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+> CADET STRING 2014
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2014_cadet#q30|src_kangourou_2014_cadet__Q30]]

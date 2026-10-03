@@ -184,12 +184,30 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Position of 2011 among 4-digit numbers with digit sum 4*
 
-*2011 position among 4-digit numbers with sum of 4 digits *
-
-> Three drivers, Michael, Fernando and Sebastian, are taking part in a Formula One race. As soon as you start, Michael leads, Fernando is second and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order do they finish the race? This is the first time that the Commission has made a proposal for a regulation on the protection of the environment.
+> Three drivers, Michael, Fernando and Sebastian, take part in a
+> Formula 1 race. Right after the start Michael is in the lead, Fernando is second and Sebastian
+> third. During the race Michael and Fernando swap positions 9 times,
+> Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order
+> do they finish the race?
+> A) Michael, Fernando, Sebastian     B)  Fernando, Sebastian, Michael
+> C) Sebastian, Michael, Fernando      D) Sebastian, Fernando, Michael
+> E) Fernando, Michael, Sebastian
+> √47
+> Donata
+> Chiara
+> Bianca
+> Angela
+> Testi_11Mat.qxp  19-05-2011  21:27  Pagina 27
 > 
-> I'm going to pay. I'm going to pay. 28 28 Kang 201 Kang 2011
+> Pag.
+> Pag. 28
+> 28
+> Kang 201
+> Kang 2011
+
+
 
 [[Quesiti/src_kangourou_2011_student#q05|src_kangourou_2011_student__Q05]]
 
@@ -1040,14 +1058,24 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Maximum luggage weight without extra charge*
 
-*Maximum weight of luggage without overhead*
-
-> The price of an airline's ticket includes carrying luggage up to a certain weight limit, while an additional charge is charged for each kilogram or fraction of a kilogram of luggage exceeding the limit. Mr Viaggio and his wife had, in two, 60 kg of luggage and paid 3 euros while Mr Girovago, for a luggage of the same weight, paid 10.50 euros. In kilograms, what is the maximum weight of luggage that each passenger can carry without overpayment? The Commission considers that the Commission's decision on the application of this Regulation to the Member States is inadequate and that it is unlikely that the Commission will take any further action.
+> In the price of an airline ticket, baggage transport up to a certain weight limit is included, while an additional payment is charged for every kilogram or fraction thereof exceeding the limit. Mr. Viaggio and his wife together had 60 kg of baggage and paid 3 euros, while Mr. Girovago, with the same total weight of baggage, paid 10.50 euros. What is, in kilograms, the maximum weight of baggage each passenger may carry without extra charge?
+>
+> (A) 10
+> (B) 18
+> (C) 20
+> (D) 25
+> (E) 39
 > 
-> I'm going to pay. I'm going to pay. 32 32 Kang 201 Kang 2011
+> Page
+> Page 32
+> 32
+> Kang 2011
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2011_student#q25|src_kangourou_2011_student__Q25]]
 
 
@@ -1243,10 +1271,13 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 <div class="qlang-split" data-lang="en"></div>
 
+*How many unit cubes are intersected by the plane through the center of the cube?*
 
-*Number of cubes intersected from the plane to the center of the cube*
-
-> 30. A 3x3x3 cube is obtained by bringing 27 identical cubes together. Let's consider a plane perpendicular to one of the diagonal sides of the cube and it goes through the center of the cube. How many of the cubes are intersected by the floor? The Commission has therefore considered that the Commission's decision to grant the aid is compatible with the internal market in accordance with Article 107 (1) TFEU. 32 32 Kang 201
+> 30. A 3×3×3 cube is formed by joining 27 identical small cubes together. Consider a plane perpendicular to one of the cube's space diagonals and passing through the center of the cube. How many of the small cubes are intersected by this plane?
+> (A) 17 (B) 18 (C) 19 (D) 20 (E) 21
+> Kang 2011 Page 32
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2011_student#q30|src_kangourou_2011_student__Q30]]

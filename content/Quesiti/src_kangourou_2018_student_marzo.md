@@ -1052,12 +1052,13 @@ Sum of Nadia cards if sum of products and before*
 
 <div class="qlang-split" data-lang="en"></div>
 
+*How many positive real solutions does ||x^3-2|-3|=2 have*
 
-*How many positive real solutions of the equation *
-
-> 25. How many real positive solutions does this equation have? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Development.
+> 25. How many positive real solutions does the equation ||$x^{3}$- 2| - 3 | = 2 have? A) 2 B) 3 C) 4 D) 5 E) 6 Kangourou 2018 page 30
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2018_student_marzo#q25|src_kangourou_2018_student_marzo__Q25]]
 
 

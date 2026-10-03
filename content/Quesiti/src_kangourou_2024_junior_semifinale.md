@@ -312,12 +312,15 @@ The probability that the diamond is in box 9
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Units digit of 2023^2024 - 2023^2023*
 
-This is the total amount of unemployment in the Union as defined in point (a) of Article 21 (1) of Regulation (EU) No 575/2013.
-
-> (Points 5) What is the unit number of the number 20232024  20232023? A) 0 B) 2 C) 4 D) 6 E) 8 Answer: C). The solution. This number corresponds to 2022 × 20232023. The units of the positive integers of 3, starting with the first, follow each other with a period of 3, 9, 7, 1 of length four: the same is evidently true for the positive integers of any number whose unit number is 3. You have 2023 = 505 × 4 + 3: so that of 20232023 is 7.
+> (5 points) What is the units digit of the number 20232024 – 20232023?
+> A) 0          B) 2           C) 4            D) 6            E) 8
+> Answer: C). Solution. The number in question equals 2022 × 20232023. The units digits of positive integer powers of 3, starting from the first, repeat every four terms in the cycle 3, 9, 7, 1. The same pattern clearly holds for positive integer powers of any number whose units digit is 3. We have 2023 = 505 × 4 + 3; thus, the units digit of 20232023 is 7.
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2024_junior_semifinale#q07|src_kangourou_2024_junior_semifinale__Q07]]
 
 

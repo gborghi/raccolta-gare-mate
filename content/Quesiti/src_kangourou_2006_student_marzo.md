@@ -460,14 +460,24 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Value of abc (three primes with sum and difference)*
 
-*Abc value (three prime with sum and difference) *
-
-> Of three positive integers a, b, c we know that they are prime, that a > b > c, that a + b + c = 90 and that a - b - c = 28. How much is ABC ? The Commission has therefore decided to extend the scope of this Regulation to the following areas:
+> Three positive integers a, b, c are known to be prime, with
+> a > b > c,
+> a + b + c = 90,
+> and a - b - c = 28.
+> What is the value of abc?
+>
+> (A) 590 (B) 1062 (C) 1239 (D) 2006 (E) 3422
 > 
-> I'm going to pay. I'm going to pay. 30 30 Kang 2006 Kang 2006 tudent
+> Page
+> Page 30
+> Kang 2006
+> Student
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2006_student_marzo#q12|src_kangourou_2006_student_marzo__Q12]]
 
 

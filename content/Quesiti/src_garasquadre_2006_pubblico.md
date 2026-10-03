@@ -319,12 +319,19 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 
 <div class="qlang-split" data-lang="en"></div>
 
+*sum*
 
-The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
-
-> The Triangle tournament [45] In years that have at least 36 divisors, the Higher School of Mathematics organizes the Triangle tournament. From its foundation in 1006 to this year in 2006, in which years has the tournament been organized? Answer with the sum of those years.
+> The TreAngoli Tournament
+> [45]
+>
+> In years that have at least 36 divisors, the Superior Mathematical School organizes the TreAngoli Tournament.
+>
+> From its founding in year 1006 up to this year, 2006, in which years was the tournament held?
+> Answer with the sum of those years.
 
 **Answer:** 8160
+
+
 [[Quesiti/src_garasquadre_2006_pubblico#q09|src_garasquadre_2006_pubblico__Q09]]
 
 
@@ -909,96 +916,95 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 
 <div class="qlang-split" data-lang="en"></div>
 
+*probability that Hardy wins the ninth game*
 
-*probabilita Hardy vinca la nona partita*
-
-> Un illecito sportivo
+> A sporting foul
 > [60]
-> Un matemago non troppo onesto ha stregato tutti i dadi di Hortona. Per decidere allora a chi toccherà il
-> possesso della palla nella finale di Quamditch, i due capitani Hardy e Fracto giocano in questa maniera: i
-> due tirano a turno una moneta, ed il primo a cui esce testa vince. A questo punto i due ripetono il gioco, ma
-> questa volta tira per primo chi ha perso. Se Hardy ha tirato per primo la prima volta, calcolare la probabilità
-> che Hardy vinca la nona partita. Dare come risultato il numeratore della frazione ridotta ai minimi termini.
+> An unscrupulous mathemagician has enchanted all the dice of Horton. To decide who will possess the ball in the Quamditch final, the two team captains, Hardy and Fracto, play as follows: they take turns flipping a coin, and the first one to get heads wins. Then they repeat the game, but this time the player who lost the previous game goes first. Given that Hardy flipped first in the initial round, calculate the probability that Hardy wins the ninth match. Provide as the answer the numerator of the fraction reduced to lowest terms.
 > 
 > Cesenatico
-> Gara a Squadre
+> Team Competition
 > 2
 > 6
-> VII GARA NAZIONALE A SQUADRE
-> Gara del pubblico – SOLUZIONI – 6 maggio 2006
-> Nr. Problema
-> Pti Soluzione
-> 1 Una pausa di svago
+> VII NATIONAL TEAM COMPETITION
+> Audience Round – SOLUTIONS – May 6, 2006
+>
+> Nr. Problem
+> Pts Solution
+> 1 A recreational break
 > 15
 > 0793
-> 2 Impostori svelati
+> 2 Exposed impostors
 > 40
 > 2912
-> 3 Rapporti burrascosi
+> 3 Turbulent ratios
 > 35
 > 0052
-> 4 La prima prova
+> 4 The first test
 > 60
 > 0004
-> 5 Questione di posizioni
+> 5 A matter of positions
 > 40
 > 0015
-> 6 Seduttore da strapazzo
+> 6 A troublesome seducer
 > 35
 > 0064
-> 7 Allenamento di Quamditch
+> 7 Quamditch training session
 > 20
 > 0118
-> 8 Meritate vacanze
+> 8 Well-earned holidays
 > 80
 > 4862
-> 9 Il torneo TreAngoli
+> 9 The TreAngoli tournament
 > 45
 > 8160
-> 10 Alla lezione di pozioni
+> 10 During the potion class
 > 65
 > 0594
-> 11 Un espediente truffaldino
+> 11 A deceitful trick
 > 15
 > 2143
-> 12 La squadra di Quamditch
+> 12 The Quamditch team
 > 40
 > 0175
-> 13 L’esame di divinazione
+> 13 The divination exam
 > 70
 > 2547
-> 14 La seconda prova
+> 14 The second test
 > 50
 > 0000
-> 15 La finale di Quamditch
+> 15 The Quamditch final
 > 60
 > 0027
-> 16 Uno schema di Quamditch
+> 16 A Quamditch pattern
 > 25
 > 3025
-> 17 Situazione di pericolo
+> 17 Dangerous situation
 > 40
 > 0020
-> 18 La bella ingannatrice
+> 18 The beautiful deceiver
 > 40
 > 0101
-> 19 Alla lezione di divinazione
+> 19 During the divination class
 > 10
 > 9768
-> 20 Difesa contro la matemagia oscura 25
+> 20 Defense against dark mathemagics
+> 25
 > 1000
-> 21 Matricole ambiziose
+> 21 Ambitious freshmen
 > 20
 > 0400
-> 22 Una condanna da evitare
+> 22 A sentence to avoid
 > 10
 > 0502
-> 23 Matricole allo sbando
+> 23 Lost freshmen
 > 20
 > 0728
-> 24 Un illecito sportivo
+> 24 An illegal sport activity
 > 60
 > 9842
 
 **Answer:** 9842
+
+
 [[Quesiti/src_garasquadre_2006_pubblico#q24|src_garasquadre_2006_pubblico__Q24]]

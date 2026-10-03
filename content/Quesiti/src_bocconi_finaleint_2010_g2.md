@@ -33,12 +33,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Count the dominoes with exactly 6 pips in a set from 0-0 to 6-6.*
 
-*Conta i domino con esattamente 6 punti in un set 0-0 a 6-6.*
-
-> Matilde ha ritrovato un gioco di domino di suo nonno. Questo gioco completo contiene i 28 domino da $0$-$0$ a $6$-$6$. Matilde si diverte a sommare i punti che compaiono su ciascun domino. Per esempio i due domino $\boxed{3|2}$ e $\boxed{5|2}$ portano esattamente $4$ punti. Quanti domino portano esattamente $6$ punti?
+> Matilde has found a domino game belonging to her grandfather. This complete set contains the 28 dominoes from $0$-$0$ to $6$-$6$. Matilde enjoys adding up the pips appearing on each domino. For example, the two dominoes $\boxed{3|2}$ and $\boxed{5|2}$ have exactly $4$ pips altogether. How many dominoes have exactly $6$ pips?
 
 **Answer:** 4
+
+
 [[Quesiti/src_bocconi_finaleint_2010_g2#q01|src_bocconi_finaleint_2010_g2__Q01]]
 
 

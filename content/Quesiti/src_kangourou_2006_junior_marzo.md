@@ -1173,8 +1173,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*What sum of areas is S8 (square divided) *
+*Which sum of areas equals S8 (square divided)?*
 
 ![[src_kangourou_2006_junior_marzo__prob30.png]]
 
@@ -1212,10 +1211,35 @@ Minimum minutes for numbers to be multiplied by 5
 \end{document}
 ```
 
-> Note the figure: ABCD is a square; points M and N, chosen at random within the AD and DC sides respectively, are joined to B and C and to A and B respectively. The square is thus divided into eight regions to which are assigned, as indicated, the symbols S1, S2, ..., S8. Which of the following sums is S8? The Commission has decided to adopt a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy (OJ L 282, 15.7.2006, p. 1).
+> Observe the figure: ABCD is a square; points M and N, chosen at random respectively inside side AD and side DC, are connected respectively to B and C, and to A and B. The square is thus divided into eight regions whose areas are labeled as indicated: S1, S2, ..., S8. Which of the following sums equals S8?
+>
+> (A) S2 + S4 + S6
+> (B) S1 + S3 + S5 + S7
+> (C) S1 + S4 + S7
+> (D) S2 + S5 + S7
+> (E) S3 + S4 + S5
+>
+> S8
+> S1
+> S2
+> S3
+> S7
+> S4
+> S5
+> S6
+> B
+> C
+> A
+> M
+> D
+> N
 > 
 >  
-> 1 Junior category For secondary or tertiary students
+> 1
+> Junior Category
+> For students in second or third year of high school
 
 **Answer:** A
+
+
 [[Quesiti/src_kangourou_2006_junior_marzo#q30|src_kangourou_2006_junior_marzo__Q30]]

@@ -478,12 +478,14 @@ Who's telling the truth
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Number of integer solutions to |x| + 2|y| = 4900*
 
-*Number of whole solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of
-
-> Banquet under the stars Another adventure is over, and the village is bound to gather for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions of the equation x x x x + 2 y = 4900. How many pigs were needed?
+> Starry Banquet
+> Another adventure has ended, and inevitably the village gathers for the traditional banquet. The number of boars gobbled up by our ravenous Gallic friends equals the number of integer solutions to |x| + 2|y| = 4900. How many pigs were required?
 
 **Answer:** 9800
+
+
 [[Quesiti/src_cesenatico_2011_semifinale_b#q14|src_cesenatico_2011_semifinale_b__Q14]]
 
 

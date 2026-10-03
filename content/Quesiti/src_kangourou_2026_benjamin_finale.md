@@ -12,6 +12,8 @@ level: kangourou
 
 <span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
 *Tre sospettati, uno dice il vero*
 
 > Un commissario di polizia ha interrogato tre persone A, B, C sospettate di aver commesso un furto. A: «Io non sono il ladro, il ladro è C». B: «Il ladro è A e C è innocente». C: «Io non sono il ladro e B è innocente». Uno ha detto la verità, un altro due cose false, un terzo una cosa vera e una falsa. Chi è il ladro?
@@ -23,8 +25,21 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+*Three suspects, one tells the truth*
+
+> A police commissioner questioned three people A, B, C suspected of having committed a theft. A: «I am not the thief, the thief is C». B: «The thief is A and C is innocent». C: «I am not the thief and B is innocent». One told the truth, another two false things, a third one true thing and one false. Who is the thief?
+
+**Answer:** C
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb1|src_kangourou_2026_benjamin_finale__QB1]]
+
+
 
 <span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
 
 *Differenza di peso tra sacchi da terne 50 o 60*
 
@@ -37,8 +52,21 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+*Weight difference between 50 or 60 triple bags*
+
+> There are 4 sacks and each weighs an integer number of kilograms. If we choose 3 of them in each of the four possible ways, the total weight of the 3 chosen is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest one?
+
+**Answer:** 1
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb2|src_kangourou_2026_benjamin_finale__QB2]]
+
+
 
 <span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+
+<div class="qlang-switch" data-default="it"></div>
 
 *Resto modulo 10 dati resti modulo 5 e 4*
 
@@ -51,8 +79,21 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+*Remainder modulo 10 given remainders modulo 5 and 4*
+
+> The remainder of the division by 5 of a positive integer is 3; the remainder of the division by 4 of that same number is 2. What is the remainder of the division by 10 of that number?
+
+**Answer:** 8
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb3|src_kangourou_2026_benjamin_finale__QB3]]
+
+
 
 <span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
 
 *Area del quarto quadrilatero in un quadrato*
 
@@ -65,8 +106,21 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+*Area of the fourth quadrilateral in a square*
+
+> In a square, four segments have been drawn, each having one endpoint at the same interior point of the square and the other endpoint at the midpoint of one of the sides. The areas (in square centimeters) of three of the four resulting quadrilaterals are given as $200$, $320$, and $160$. What is the area of the fourth quadrilateral, in square centimeters?
+
+**Answer:** 280
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb4|src_kangourou_2026_benjamin_finale__QB4]]
+
+
 
 <span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
 
 *Centri dei quadrati esterni a un rettangolo*
 
@@ -79,8 +133,21 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+*Centers of external squares on a rectangle*
+
+> A rectangle $R$ is given. Externally to $R$, on each side of $R$ a square is constructed, one side of which coincides with that side of $R$. What can be said about the polygon whose vertices are the centers of the four squares?
+
+**Answer:** è un quadrato
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb5|src_kangourou_2026_benjamin_finale__QB5]]
+
+
 
 <span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
 
 *Estrazione di biglie per almeno 20 dello stesso colore*
 
@@ -92,3 +159,16 @@ level: kangourou
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 46, tutte
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+*Drawing balls to get at least 20 of the same color*
+
+> In a bag there are 46 green, red or yellow marbles. I know that, by drawing them at random, to be certain of having at least 10 of the same color I must draw 26. How many must I plan to draw to be certain of having at least 20 of the same color?
+
+**Answer:** 46, tutte
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb6|src_kangourou_2026_benjamin_finale__QB6]]
+
+

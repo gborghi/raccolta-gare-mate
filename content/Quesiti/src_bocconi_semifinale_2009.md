@@ -31,12 +31,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Digits erased from a vertical addition*
 
-*Deleted figures in a vertical addition*
-
-> Some figures in this addendum have been deleted. You find them! Enter the full number of the first line.
+> Some digits in this addition have been erased. Your task is to find them!
+> $$\begin{array}{r} \_\; 8 \\ +\; \_\; 7 \\ \hline 2\;0\;0\;9 \end{array}$$
+> Write down the complete number of the first row.
 
 **Answer:** 1283
+
+
 [[Quesiti/src_bocconi_semifinale_2009#q01|src_bocconi_semifinale_2009__Q01]]
 
 

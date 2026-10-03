@@ -436,18 +436,71 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 <div class="qlang-split" data-lang="en"></div>
 
-
 *Isosceles triangle with non-acute angle*
 
 ![[src_kangourou_2008_benjamin_marzo__prob10.png]]
 
-> Pierino believes that if a triangle is isosceles (i.e. has 2 equal angles), then all its angles are sharp (i.e. less than 90°). Which of the following figures can convince you otherwise? A B C D E F H N T O I J P M L K S R Q X 4 3 5 20 15 7 28 21 X 35 63 30 ? 4 cm
+> Pierino believes that if a triangle is isosceles (i.e., has 2 equal angles), then all its angles are acute (i.e., less than 90°). Which of the following figures can convince him otherwise?
+>
+> A
+> B
+> C
+> D
+> E
+> F
+> H
+> N
+> T
+> O
+> I
+> J
+> P
+> M
+> L
+> K
+> S
+> R
+> Q
+> X
+> 4
+> 3
+> 5 20 15
+> 7 28 21
+> X
+> 35 63
+> 30
+> ?
+> 4 cm
 >  
-> The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and with the opinion of the Committee on Budgetary Control and the Committee on Budgetary Control.
+> 60°
+> 80°
+> 40°
+> 50°
+> 80°
+> 50°
+> 150°
+> 20°
+> 10°
+> 30°
+> 120°
+> 30°
+> 60°
+> 60°
+> 60°
+> A)
+> B)
+> C)
+> D)
+> E)
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2008 Kang 2008 Questions from N. 11 al N. 20 is worth 4 points each.
+> Page
+> Page 12
+> Kang 2008
+> Questions 11 to 20 are worth 4 points each
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q10|src_kangourou_2008_benjamin_marzo__Q10]]
 
 
@@ -921,14 +974,34 @@ With so many matches, it's impossible to make a triangle.
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Guess the professions of the three friends*
 
-*Guessing the professions of the three friends*
-
-> A doctor, an engineer and a musician are friends. Their names, not necessarily in order, are: George, Mark, and Nicholas. The doctor has no sisters or even brothers and is the youngest of the three. Nicola is older than the engineer and is married to George's sister. What are the names of the doctor, engineer and musician? The Commission has decided to extend the scope of this Regulation to the following areas:
+> A doctor, an engineer, and a musician are friends. Their names, not necessarily in that order, are: Giorgio, Marco, and Nicola. The doctor has no sisters or brothers and is the youngest of the three. Nicola is older than the engineer and is married to the sister of Giorgio. What are their names, in order: doctor, engineer, musician?
+>
+> (A) Giorgio, Marco, Nicola
+> (B) Giorgio, Nicola, Marco
+> (C) Marco, Giorgio, Nicola
+> (D) Marco, Nicola, Giorgio
+> (E) Nicola, Giorgio, Marco
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2008 Kang 2008 A) George, Mark, Nicholas B) Nicholas, George, Mark C) Marcus, George, Nicholas D) Marcus, Nicholas, George E) George, Nicholas, Mark 23.Here next to you is a chessboard: you must visit each box without ever going back from a previously visited one, but you can only move horizontally or vertically, not diagonally. Where can you start? A) Only from the central box. B) Only from a box to the top. C) From a white box. D) From any grey box. E) From any box.
+> Page 14
+> Kangaroo 2008
+> A) Giorgio, Marco, Nicola
+> B) Nicola, Giorgio, Marco
+> C) Marco, Giorgio, Nicola
+> D) Marco, Nicola, Giorgio
+> E) Giorgio, Nicola, Marco
+>
+> 23. The adjacent figure shows a chessboard: you must visit each square exactly once, without revisiting any previously visited square, and you may only move horizontally or vertically, not diagonally. From where can you start?
+> A) Only from the central square.
+> B) Only from a corner square.
+> C) From a white square.
+> D) From any gray square.
+> E) From any square.
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q22|src_kangourou_2008_benjamin_marzo__Q22]]
 
 

@@ -1306,15 +1306,35 @@ Product of the two divisions of 3^32-1 between 75 and 85
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*PQ segment length (squared arcs) *
+*Length of segment PQ (arcs in the square)*
 
 ![[src_kangourou_2008_junior_marzo__prob30.png]]
 
-> In the figure, ABCD is a square on side 1 and the arc of circumference is centered each at one of the vertices of the square with extremes at adjacent vertices. How long is the PQ segment? The Commission has decided to extend the scope of this Regulation to the following areas:
+> In the figure, ABCD is a square with side length 1, and the circular arcs are each centered at one of the square's vertices, with endpoints at the adjacent vertices. What is the length of segment PQ?
+>
+> (A)
+> (B)
+> (C)
+> (D)
+> (E) √3 - 1
+> √3
+> 3
+> √5 - √2
+> 3
+> 4
+> 2 - √2
+>
+> A    B
+> C    D
+> Q    P
 > 
 >  
-> 1 Kangourou of Mathematics 2008 Junior category For secondary or tertiary secondary school students
+> 1
+> Kangaroo Mathematics 2008
+> Junior Category
+> For students in second or third year of secondary school
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2008_junior_marzo#q30|src_kangourou_2008_junior_marzo__Q30]]

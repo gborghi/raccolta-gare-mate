@@ -938,14 +938,20 @@ Who won the contest (sum of placements)
 
 <div class="qlang-split" data-lang="en"></div>
 
+*How many times does the digit 2 appear in the room numbers?*
 
-*How many times the number 2 in the room numbers*
-
-> The rooms of a hotel are numbered with three-digit numbers: the first indicates the floor and the remaining two indicate the number of the room on that floor. For example, room 124 is room 24 on the first floor. The hotel has 5 floors numbered from 1 to 5 and each floor has 35 rooms numbered from 01 to 35. How many times has the number 2 been used to count all the rooms? The Commission has decided to extend the scope of this Regulation to the following areas:
+> Hotel rooms are numbered with three-digit numbers: the first digit indicates the floor, and the remaining two digits indicate the room number on that floor. For example, room 124 is room 24 on the first floor. The hotel has 5 floors, numbered from 1 to 5, and each floor has 35 rooms numbered from 01 to 35. How many times is the digit 2 used in numbering all the rooms?
+>
+> (A) 105                (B) 100                (C) 95               (D) 65               (E) 60
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2009 Kang 2009
+> Page
+> Page 14
+> Kang 2009
+> Kang 2009
 
 **Answer:** A
+
+
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q23|src_kangourou_2009_benjamin_marzo__Q23]]
 
 

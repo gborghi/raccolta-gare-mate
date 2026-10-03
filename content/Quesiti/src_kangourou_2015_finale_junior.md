@@ -44,7 +44,7 @@ level: kangourou
 
 <span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *misura angolo ABC*
@@ -79,10 +79,9 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<div class="qlang-split" data-lang="en"></div>
+<div class="qlang-split" data-lang="it"></div>
 
-
-The measurement shall be carried out in accordance with the methodology set out in Annex II.
+*misura dell'angolo ABC*
 
 ![[src_kangourou_2015_finale_junior__probj2.png]]
 
@@ -105,9 +104,11 @@ The measurement shall be carried out in accordance with the methodology set out 
 \end{document}
 ```
 
-> The figure shows two equal squares that have exactly one vertex $A$ in common. Is it possible to specify the angle $ABC$? (see figure)
+> La figura mostra due quadrati uguali che hanno in comune esattamente un vertice $A$. Si può determinare la misura dell'angolo $ABC$? (vedi figura)
 
-**Answer:** 45 gradi
+**Risposta:** 45 gradi
+
+
 [[Quesiti/src_kangourou_2015_finale_junior#qj2|src_kangourou_2015_finale_junior__QJ2]]
 
 

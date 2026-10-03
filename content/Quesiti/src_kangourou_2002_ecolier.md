@@ -349,20 +349,16 @@ Members of the club when boys = girls
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Unobtainable tile from the square*
 
-*Table not available from square*
-
-> The square you see on the right is cut in the lines. Which of the following rates cannot be obtained in this way?
->  
->  
->  
->  
->  
->  
-> 
-> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. 3 Questions from N. 9 al N. 16 is worth 4 points each.
+> The square shown on the right is cut along the indicated lines. Which of the following tiles cannot be obtained in this way?
+> Ecolier 2002. Page N.
+> 3
+> Questions from No. 9 to No. 16 are worth 4 points each
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2002_ecolier#q08|src_kangourou_2002_ecolier__Q08]]
 
 
@@ -578,20 +574,26 @@ Who was born on 17 May
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Matches for the side of the rectangle*
 
-*Flammable on the side of the rectangle*
-
-> Alexandra and Viviana have 60 matches together. Using some of those matches, Alexandra builds a triangle in which each side is made up of six
+> Alessandra and Viviana together have 60 matches. Using some of these matches, Alessandra builds a triangle in which each side is made up of 6 matches.
 > 
-> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. Four matches lined up. Using all the remaining matches, Viviana builds a rectangle in which two sides are still each made up of 6 aligned matches. How many aligned matches is each made of the other sides of the rectangle?
+> Ecolier 2002. Page N.
+> 4
+> matches in a row. Using all the remaining matches, Viviana builds a rectangle in which two sides are still each made of 6 matches in a row.
+> How many matches in a row form each of the other two sides of the rectangle?
 >  
-> A. 30 B. 18
+> A. 30 
+>       B. 18 
 >  
-> C. 15 D. 12
+> C. 15  
+>   D. 12 
 >  
 > E. 9
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2002_ecolier#q14|src_kangourou_2002_ecolier__Q14]]
 
 
@@ -715,25 +717,25 @@ What time does Matthew leave the house?
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Total biscuits with re-impasted slices*
+*Total cookies with re-kneading of the scraps*
 
 ![[src_kangourou_2002_ecolier__prob17.png]]
 
-> Rosalia's mom is making heart-shaped cookies. She slices them from a doughnut using a mold that provides her with one cookie at a time. For every four biscuits you get from the dough, the re-roasted slices are enough to get another biscuit. After the first pass with the mold, he got 16 cookies. How many cookies can you make in total?
+> Rosalia's mother is preparing heart-shaped cookies. She cuts them from a dough using a mold that gives her one cookie at a time. For every 4 cookies she gets from the dough, the re-kneaded scraps are enough to get another cookie. After the first pass with the mold she got 16 cookies. How many cookies can she make in total?
 >  
-> A. 16 B. 17
+> A. 16 
+>    B. 17 
 >  
-> C. 18 D. 20
+> C. 18  
+>   D. 20 
 >  
 > E. 21
->  
->  
->  
-> 
-> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. 5
+> Ecolier 2002. Page No.
+> 5
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2002_ecolier#q17|src_kangourou_2002_ecolier__Q17]]
 
 
@@ -973,17 +975,24 @@ Kilometers to the next digit all different *
 
 <div class="qlang-split" data-lang="en"></div>
 
-
 *Maximum intersection points of three figures*
 
-> Draw on a sheet a circle, a square and a triangle so that their contours intersect (two to two) in as many points as possible. What's this number?
+> Draw on a sheet of paper a circle, a square and a triangle so that their
+> outlines intersect (pairwise) in the largest possible number of points. What
+> is this number?
 >  
 > 
-> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. 6
+> Ecolier 2002. Page No.
+> 6
 >  
-> A. 14 B. 16       C. 18 D. 20 E. 22
+> A. 14   
+> B. 16       C. 18 
+>   D. 20 
+> E. 22
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2002_ecolier#q23|src_kangourou_2002_ecolier__Q23]]
 
 
@@ -1026,20 +1035,33 @@ Kilometers to the next digit all different *
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Last three letters of the 2002 sequence*
 
-*The last three letters of the 2002 sequence*
-
-> Using the letters A, B, C you make up the sequence formed by 2002 letters starting with A B C B A B C B A B C B B A A....... And he keeps repeating this block of letters. What are the last three letters?
+> Using the letters A, B, C, compose the sequence made up of 2002 letters that
+> begins with
+>            A B C B A B C B A B C B A B C B A…….
+>        and continues by repeating this block of letters. What are the last three letters?
 >  
-> A. ABC B. BCB C. CBA D BAB
+> A. ABC
+> B. BCB
+> C. CBA
+> D. BAB
 >  
 > E. CAB
 >  
 > 
-> The Commission has not yet taken any further action. This item is not intended to be used. 1 Kangourou Italy Competition of 21 March 2002 Category Schools For fourth and fifth graders Solutions
+> Ecolier Answers 2002. Page No. 1
+> Kangourou Italia
+> Contest of 21 March 2002
+> Category Ecolier
+> For fourth and fifth grade elementary students
+> Solutions
 >  
 >  
-> The correct answer is indicated in round brackets after the question number.
+> The correct answer is indicated in round brackets
+> after the question number.
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2002_ecolier#q24|src_kangourou_2002_ecolier__Q24]]

@@ -1292,12 +1292,23 @@ How many people were dancing at that moment?
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Number in the central cell of the 3×3 grid with products*
 
-*Number in the centre cell of the 3x3 grid with products*
-
-> In each cell of a 3x3 grid a positive number has been inserted so that O for each row and for each column, the product of the numbers contained (in the row or column) is 1 and O for each 2x2 square grid obtained by adjoining cells of the 3x3 grid, the product of the numbers contained in the grid is 2. What number is in the central cell? A) 16 B) 8 C) 4 D) 1/4 E) 1/8
+> In each cell of a 3×3 grid, a positive number has been placed such that
+> - for each row and each column, the product of the numbers in that row or column is 1,
+> and
+> - for each 2×2 square formed by adjoining adjacent cells in the 3×3 grid, the product of the numbers in that square is 2.
+> What number appears in the central cell?
+>
+> (A) 16
+> (B) 8
+> (C) 4
+> (D) 1/4
+> (E) 1/8
 > 
-> The Commission has not yet taken any further action.
+> SOLUTIONS CAYLEY 2012
 
 **Answer:** A
+
+
 [[Quesiti/src_kangourou_2012_cadet#q30|src_kangourou_2012_cadet__Q30]]

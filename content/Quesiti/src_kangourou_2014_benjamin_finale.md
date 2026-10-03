@@ -72,7 +72,7 @@ Minimum shifts for every boy to dance with every girl
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_algebra,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Perimetro del tavolo con panni sovrapposti*
@@ -104,10 +104,9 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<div class="qlang-split" data-lang="en"></div>
+<div class="qlang-split" data-lang="it"></div>
 
-
-*Perimeter of the table with overlapping fabrics*
+*Perimetro del tavolo con panni sovrapposti*
 
 ![[src_kangourou_2014_benjamin_finale__prob3.png]]
 
@@ -124,9 +123,14 @@ Minimum shifts for every boy to dance with every girl
 \end{document}
 ```
 
-> AT BU CV DZ
+> AT
+> BU
+> CV
+> DZ
 
-**Answer:** 4
+**Risposta:** 4
+
+
 [[Quesiti/src_kangourou_2014_benjamin_finale#q03|src_kangourou_2014_benjamin_finale__Q03]]
 
 

@@ -200,18 +200,44 @@ Minutes to decorate cakes and pastries with two people
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*What figure is Marina talking about (round or triangular grey) *
+*Which shape is Marina referring to (gray round or triangular)?*
 
 ![[src_kangourou_2011_ecolier__prob5.png]]
 
-> Referring to one of the figures here, Marina says: It's gray, it's round or triangular. What figure is this? A) A B) B C) C D) D E) E
+> Referring to one of the figures shown here, Marina states:
+> “It is gray, round, or triangular.”
+> Which figure is it?
+>
+> (A) A
+> (B) B
+> (C) C
+> (D) D
+> (E) E
 >  
-> A) B) C) D) E) E A C D B ? This is the main reason why the Commission has decided to extend the period of validity of this Decision.
+> A)
+> B)
+> C)
+> D)
+> E)
+> E
+> A
+> C
+> D
+> B
+> ?
+> 6
+> +1
+> -2
+> +3
+> Texts_11Mat.qxp  19-05-2011  21:20 Page 5
 > 
-> I'm going to pay. I'm going to pay. 6 Kang 201 Kang 2011
+> Page
+> Page 6
+> Kangaroo 2011
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2011_ecolier#q05|src_kangourou_2011_ecolier__Q05]]
 
 
@@ -876,16 +902,40 @@ How many people were invited to the party with two cakes?
 
 <div class="qlang-split" data-lang="en"></div>
 
-
 *Which piece is certainly not used in the mosaic*
 
 ![[src_kangourou_2011_ecolier__prob21.png]]
 
-> Stephen formed the mosaic you see in the figure on the right by drawing, without overlapping them even in part, pieces all equal to each other. Which of the following did you not use? I'm going to pay. I'm going to pay. The Commission has therefore decided to take the necessary measures to ensure that the Commission is able to take appropriate measures to ensure that it is able to fulfil its obligations under Article 107 (1) of the Treaty.
+> Stefano has assembled the mosaic shown in the figure on the right
+> by joining identical pieces, without overlapping or even partially overlapping.
+> Which of the following pieces could certainly not have been used?
+>
+> Page
+> Page 8
+> Kang 201
+> Kang 2011
+> A)
+> B)
+> C)
+> D)
+> E)
+> 9
+> 9
+> 8
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_11Mat.qxp  19-05-2011  21:20  Page 8
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 201 Kang 2011
+> Page
+> Page 9
+> Kangaroo 2011
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2011_ecolier#q21|src_kangourou_2011_ecolier__Q21]]
 
 
@@ -1005,15 +1055,24 @@ How many people were invited to the party with two cakes?
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*From how many hexagons and formed the fifth figure*
+*How many hexagons is the fifth figure made of?*
 
 ![[src_kangourou_2011_ecolier__prob24.png]]
 
-> Using identical hexagon-shaped cards, Silvia built five figures. Here we show you the first three, telling you that Silvia built the fourth and fifth based on the same rule with which she built the ones you see (i.e. each figure is built by surrounding the previous figure with hexagons). How many hexagons is the fifth figure? The Commission has therefore decided to extend the period of validity of this Regulation to the following areas:
+> Using identical hexagonal tiles, Silvia has built five figures. Here we show the first three, and you are told that Silvia constructed the fourth and fifth figures following the same rule used to build the ones you see (i.e., each figure is built by "surrounding hexagons" around the previous figure).
+> How many hexagons form the fifth figure?
+> (A) 37
+> (B) 49
+> (C) 57
+> (D) 61
+> (E) 64
 > 
 >  
-> 1 2011 Categories of schools
+> 1
+> 2011
+> Category Écolier
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2011_ecolier#q24|src_kangourou_2011_ecolier__Q24]]

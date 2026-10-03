@@ -183,14 +183,17 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Maximum flavors for 12 different packages (10 flavors)*
 
-*Max tastes for 12 different packs (10 tastes) *
-
-> The confectionery shop has candies of different tastes; I want to pack candy packages so that: - the number of tastes present in each package is the same; - different packages differ by at least one taste.
+> The candy shop has $10$ different flavors of candies; I want to pack $12$ candy packages such that:
+> - the number of flavors present is the same in each package;
+> - different packages differ by at least one flavor.
 > 
-> What is the maximum number of flavors that can be present in packages?
+> What is the maximum number of flavors that can be present in the packages?
 
 **Answer:** 8 gusti
+
+
 [[Quesiti/src_kangourou_2008_benjamin_maggio#qb5|src_kangourou_2008_benjamin_maggio__QB5]]
 
 

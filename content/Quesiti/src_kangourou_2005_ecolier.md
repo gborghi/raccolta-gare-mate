@@ -169,14 +169,21 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Tigers leaving the scene (5-file)*
 
-*Tigers leaving the scene (five rows) *
-
-> In a circus, after the tamer's first whip, the tigers are arranged in three rows: there are exactly four tigers in each row. The tamer wants the tigers to stand in complete rows of 5 tigers each with the second whip and keep as many tigers on the scene as possible. How many tigers will have to leave the scene? The Commission has not yet decided on the application of this Regulation.
+> In a circus, after the trainer's first crack of the whip, the tigers
+> arrange themselves in 3 rows: in each row there are exactly 4 tigers. The trainer wants that, at the second crack of the whip, the tigers arrange themselves in complete rows of 5 tigers each and that as many tigers as possible remain on stage. How many tigers will have to leave the stage?
+> A) 1                B) 2              C) 3              D) 4              E) 5
+> Ecolier_05_D.qxp  21/02/2005  15.54  Pagina 5
 > 
-> I'm going to pay. I'm going to pay. 6 Kang 2005 Kang
+> Pag.
+> Pag. 6
+> Kang 2005
+> Kang 2005
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2005_ecolier#q05|src_kangourou_2005_ecolier__Q05]]
 
 
@@ -373,14 +380,27 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Even number with digit conditions*
 
-*Equal number with conditions on the digits*
-
-> Of the five numbers listed below, the one I chose is equal; all the numbers that make it are different from each other; the number of hundreds is twice that of the units; the number of tens is greater than the number of hundreds. What number did I pick? The Commission has decided to extend the period of validity of this Regulation to the following three years:
+> Among the 5 numbers listed below, the one I chose is even; all
+> the digits that form it are different from one another; the hundreds digit
+> is double the units digit; the tens digit is greater than the
+> hundreds digit. Which number did I choose?
+> A) 1246       B) 3874         C) 4683          D) 4894             E) 8462
+> 8 cm
+> 11 cm
+> 4 cm
+> 6 cm
+> Ecolier_05_D.qxp  21/02/2005  15.54  Pagina 6
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2005 Kang
+> Pag.
+> Pag. 7
+> Kang 2005
+> Kang 2005
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2005_ecolier#q10|src_kangourou_2005_ecolier__Q10]]
 
 
@@ -588,14 +608,23 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*False statement about cats and dogs with fears*
 
-*False claim on cats and dogs with fears*
-
-> There's two cats in the house, Tiny and Tony, and two dogs, Dim and Dill. Tiny's afraid of both dogs, while Tony's afraid of Dim, but not Dill. What statement (referring to these cats and dogs) is false? A) Every cat is afraid of some dog. B) There is a cat that is not afraid of at least one dog. C) There's a dog that scares both cats. D) Every dog scares at least one cat. E) There's a dog that doesn't scare any of the cats. P 1 2 ... The Commission has not yet decided whether to proceed with the adoption of a decision on the application of this Regulation.
+> In the house there are two cats, Tiny and Tony, and two dogs, Dim and Dill. Tiny is afraid of both dogs, while Tony is afraid of Dim, but not of Dill.
+>
+> Which statement (about these cats and dogs) is false?
+>
+> A) Every cat is afraid of at least one dog.
+> B) There is a cat that is not afraid of at least one dog.
+> C) There is a dog that frightens both cats.
+> D) Every dog frightens at least one cat.
+> E) There is a dog that does not frighten either of the two cats.
 > 
-> The questions from N. 17 al N. Twenty-four is worth five points each.
+> Questions 17 to 24 are worth 5 points each.
 
 **Answer:** E
+
+
 [[Quesiti/src_kangourou_2005_ecolier#q16|src_kangourou_2005_ecolier__Q16]]
 
 
@@ -798,14 +827,20 @@ How many games did Edward win by cards?
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Sum of two numbers with difference 989*
 
-*sum of two numbers with difference 989*
-
-> Libor chose two integers greater than zero, one three-digit and one two-digit. Their difference is 989. How much is their sum? The Commission has not yet adopted a proposal for a regulation on the protection of the environment. I'm going to pay. 8 Kang 2005 Kang 2005 28 m 24 m Ecolier_05_D.qxp 21/02/2005
+> Libor has chosen two positive integers, one with three digits and one with two digits. Their difference is 989. What is their sum?
+>
+> (A) 1000 (B) 1001 (C) 1009 (D) 1010 (E) 2005
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2005 Kang
+> Page
+> Page 9
+> Kang 2005
+> Kang 2005
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2005_ecolier#q21|src_kangourou_2005_ecolier__Q21]]
 
 

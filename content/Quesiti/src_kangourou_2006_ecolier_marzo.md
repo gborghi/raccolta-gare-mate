@@ -984,15 +984,25 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Weight of the circular suspension (mobile balance) *
+*Weight of a circular pendulum (mobile equilibrium)*
 
 ![[src_kangourou_2006_ecolier_marzo__prob24.png]]
 
-> Miriam hung the mobile game you see in the picture on the ceiling of her room. The same weight of bars and hangers, and the whole structure is in perfect balance. Each square hanger weighs 30 grams. What's the weight of each circle hanging? A) 10 B) 20 C) 30 D) 40 E) 50 1 ceiling 30 ? The Commission has also adopted a number of proposals for a directive on the protection of workers' rights.
+> Miriam has hung in the ceiling of her room the mobile shown in the figure. Bars and pendants of identical shape have the same weight, and the entire structure is in perfect equilibrium. Each square-shaped pendant weighs 30 grams. What is the weight of each circular pendant?
+>
+> (A) 10 (B) 20 (C) 30 (D) 40 (E) 50
+>
+> 1
+> ceiling
+> 30
+> ?
 > 
 >  
-> 1 Ecolier Category For fourth or fifth graders
+> 1
+> Ecolier Category
+> For students in fourth or fifth grade
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q24|src_kangourou_2006_ecolier_marzo__Q24]]

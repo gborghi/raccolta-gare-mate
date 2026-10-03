@@ -729,10 +729,11 @@ Question No 21 of February 2005
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*area report *
+*ratio of the areas*
 
 > [problem not present in the document]
 
 **Answer:** 36/350 (cioe 36 al numeratore della frazione ridotta)
+
+
 [[Quesiti/src_febbraio_2005#q23|src_febbraio_2005__Q23]]

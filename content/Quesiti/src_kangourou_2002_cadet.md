@@ -759,20 +759,25 @@ Maximum number of plums
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Who lied among the four sons*
 
-Who lied among the four children?
-
-> The mother wants to know which of her four children hid the birthday present from Dad. They make the following statements:
+> Mom wants to know which of her 4 children hid the gift for Dad's birthday.
+> They make the following statements:
+> Aldo: "It wasn't me"
 >  
 >  
-> It wasn't me. It was Dino.
+> Bruno: "it wasn't me"
+> Carlo: "it was Dino"
 >  
 >  
-> It was Bruno. If everyone but one told the truth, who lied?
+> Dino: "it was Bruno."
+> If everyone except one told the truth, who lied?
 >  
-> A. Aldo B. This is the case. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. Dino E. It is not possible to determine with certainty.
+> A. Aldo   B. Bruno   C. Carlo   D. Dino   E. it cannot be determined with certainty.
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2002_cadet#q18|src_kangourou_2002_cadet__Q18]]
 
 
@@ -1261,27 +1266,37 @@ Minimum coins on the 2x9 grid
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Second number in the sequence up to 1000*
 
-*Second number in succession up to 1000*
-
-> Consider a sequence of positive integers such that every number from the third to the next is the sum of all the numbers before it, the first number is 1 and the last number is 1000. In the longest succession you can build with this law, how much is the second number worth?
+> Consider a sequence of positive integers, such that every number from the
+> third onward is the sum of all those that precede it, the first number is 1 and
+> the last is 1000. In the longest sequence that can be constructed with this
+> law, what is the second number?
 >  
-> A. 124
+> A. 124 
 >  
-> B. 125
+> B. 125 
 >  
-> C. 225
+> C. 225 
 >  
-> D. 224
+> D. 224 
 >  
-> E. 120.
+> E. 120.  
 > 
-> The Commission has not yet taken any further action. This item is not intended to be used.
+> Cadet Answers 2002.     Page No.
 >  
-> 1 Kangourou Italy Competition of 21 March 2002 Cadet category For third and first year students Solutions
+> 1
+> Kangourou Italia
+> Contest of 21 March 2002
+> Cadet Category
+> For students in the third year of middle school and the first year of high school
+> Solutions
 >  
 >  
-> The correct answer is indicated in square brackets after the question number.
+> The correct answer is indicated in square brackets
+> after the question number.
 
 **Answer:** A
+
+
 [[Quesiti/src_kangourou_2002_cadet#q30|src_kangourou_2002_cadet__Q30]]

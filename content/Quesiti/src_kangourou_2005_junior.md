@@ -868,14 +868,26 @@ Maximum KANGOUROU number with bell code *
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Valore a_2005 in successione a_n=a_{n-1}-a_{n-2}*
 
-The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
-
-> A sequence of numbers is defined as follows: a1 = 2005, a2 = 21 and, for each n > 2, an = an−1 −an−2. In the case of the Commission, the Commission considers that it is appropriate to take the necessary measures to ensure that the Commission is able to take the necessary measures in order to ensure that it is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+> A sequence of numbers is defined as follows: a₁ = 2005,
+> a₂ = 21, and for every n > 2, aₙ = aₙ₋₁ − aₙ₋₂.
+> Then a₂₀₀₅ equals
+>
+> (A) 2005
+> (B) 21
+> (C) 1984
+> (D) 2004
+> (E) 0
 > 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2005 Kang 2005 Questions from N. 21 al N. 30 is worth 5 points each.
+> Page
+> Page 26
+> Kang 2005
+> Questions 21 to 30 are worth 5 points each
 
 **Answer:** A
+
+
 [[Quesiti/src_kangourou_2005_junior#q20|src_kangourou_2005_junior__Q20]]
 
 

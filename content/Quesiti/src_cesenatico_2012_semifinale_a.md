@@ -449,12 +449,14 @@ Sum of exponents of 2 in n! for n=1.63*
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Aliens at the Round Table (statement on 2 sides)*
 
-The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1 of this Article. on two sides)*
-
-> Knights of other shores The alien invasion of the Uru System is complete! At the peace conference, called in a hurry, around the round table sit 8595 creatures, who may be aliens or terrestrials (the former always tell the truth, the latter always lie to save themselves). We know that the aliens at the conference are more than 2012 and less than 8,000, and that each creature claims that between the two creatures on its left there are as many aliens as between the two creatures on its right. How many aliens are out there?
+> Cavalieri from Other Shores
+> The invasion by the aliens of the Uru System is complete! At the hastily convened peace conference, 8595 beings sit around a round table. Each being is either an alien or a terrestrial (aliens always tell the truth, terrestrials always lie to save themselves). It is known that there are more than 2012 but fewer than 8000 aliens at the conference, and each being claims that the number of aliens between the two beings to their left is equal to the number of aliens between the two beings to their right. How many aliens are there in total?
 
 **Answer:** 5157
+
+
 [[Quesiti/src_cesenatico_2012_semifinale_a#q13|src_cesenatico_2012_semifinale_a__Q13]]
 
 

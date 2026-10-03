@@ -177,12 +177,15 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Product of digits of a 10-digit number = 15, sum of digits*
 
-*Product number 10 digits = 15, sum of digits*
-
-> 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+> 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number?
+> (A) 8 (B) 12 (C) 15 (D) 16 (E) 20
+> page 26 Kangourou 2022
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2022_student#q04|src_kangourou_2022_student__Q04]]
 
 

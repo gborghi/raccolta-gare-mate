@@ -1015,7 +1015,7 @@ Waiting for mother kangaroo at the tree
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Misura angolo BAC in figura*
@@ -1060,10 +1060,9 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<div class="qlang-split" data-lang="en"></div>
+<div class="qlang-split" data-lang="it"></div>
 
-
-*Measure the BAC angle in Figure *
+*Misura dell'angolo BAC nella figura*
 
 ![[src_kangourou_2000_studenti__prob27.png]]
 
@@ -1091,9 +1090,16 @@ Waiting for mother kangaroo at the tree
 \end{document}
 ```
 
-> In the figure, the angle BÂC is measured: A) 15° B) 12° C) 30° D) 20° E) Other
+> Nella figura, l'angolo BÂC misura:
+> A) 15°
+> B) 12°
+> C) 30°
+> D) 20°
+> E) altro
 
-**Answer:** A
+**Risposta:** A
+
+
 [[Quesiti/src_kangourou_2000_studenti#q27|src_kangourou_2000_studenti__Q27]]
 
 
@@ -1197,14 +1203,22 @@ Waiting for mother kangaroo at the tree
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Types of vermette with 3 yellow and 2 green *
+*Types of worm with 3 yellow and 2 green*
 
 ![[src_kangourou_2000_studenti__prob30.png]]
 
-> A vermette's body is made of circles. How many different types of this vertebrate exist, if 3 of the 5 body parts have to be yellow and 2 have to be green? A) 6 B) 8 C) 9 D) 10 E) 12
+> A worm's body consists of circles. How many different types of this worm exist, if 3 out of the 5 body parts must be yellow and 2 must be green?
+>
+> (A) 6
+> (B) 8
+> (C) 9
+> (D) 10
+> (E) 12
 > 
-> The Commission has already adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the protection of the environment.
+> Answers:
+> 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2000_studenti#q30|src_kangourou_2000_studenti__Q30]]

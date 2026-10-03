@@ -568,7 +568,7 @@ level: kangourou
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Massimo pedine sul 21-agono con distanze tutte diverse*
@@ -637,10 +637,9 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
 
 
-<div class="qlang-split" data-lang="en"></div>
+<div class="qlang-split" data-lang="it"></div>
 
-
-*Major pedals on the 21-axle with all different distances*
+*Massimo pedine sul 21-agono con distanze tutte diverse*
 
 ![[src_kangourou_2019_cadet_semif__prob14.png]]
 
@@ -693,9 +692,11 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) In the figure you see a regular polygon of 21 sides. Andrea has a lot of pedals that she wants to place on the vertices of this polygon so that, for each pair of pedal-covered vertices, the distances between the vertices are all different. How many pedals can he place?
+> (6 punti) Nella figura è mostrato un poligono regolare di 21 lati. Andrea ha molte pedine che vuole disporre sui vertici di tale poligono in modo tale che, per ogni coppia di vertici coperti da pedine, le distanze tra i vertici siano tutte diverse. Quante pedine al massimo può posizionare?
 
-**Answer:** 5
+**Risposta:** 5
+
+
 [[Quesiti/src_kangourou_2019_cadet_semif#q14|src_kangourou_2019_cadet_semif__Q14]]
 
 

@@ -756,14 +756,55 @@ How many times does Daria overtake Baldo by 12 km?
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*FD length in the triangle divided into five equal areas*
+*Length FD in triangle divided into five equal areas*
 
 ![[src_kangourou_2017_cadet_semifinale__prob18.png]]
 
-> (Points 8) In the triangle ABC shown in the side figure, AB is 30 long and the D and F points on AB and E and G on AC are selected so that the triangles BCD, CDE, DEF, EFG and FGA have the same area. Determine the length of FD. (Note: the figure is purely indicative) A F D B G E C
+> (8 points) In triangle ABC shown in the figure below, AB is 30 units long and points D and F lie on AB, while points E and G lie on AC, chosen so that triangles BCD, CDE, DEF, EFG, and FGA all have equal area. Determine the length of FD.
+> (Note: The figure is purely indicative.)
+>
+> A
+> F
+> D
+> B
+> G
+> E
+> C
 > 
-> Question No. Question No 6 by Mr Croux, on behalf of the Committee on the Environment, Public Health and Consumer Protection, on the proposal from the Commission to the Council (COM (98) 040 final) 3 cancelled
+> Problem N.
+> Score
+> 2
+> 3
+> 4
+> 4
+> 4
+> 5
+> 5
+> 6
+> 4
+> 5
+> 5
+> 6
+> 6
+> 6
+> 7
+> 7
+> 8
+>
+> Answer
+> 0099
+> 0010
+> 0240
+> 0072
+> 2060
+> 0009
+> 0009
+> 0075
+> 0008
+>
+> Problem N. 3 canceled
 
 **Answer:** 8
+
+
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q18|src_kangourou_2017_cadet_semifinale__Q18]]

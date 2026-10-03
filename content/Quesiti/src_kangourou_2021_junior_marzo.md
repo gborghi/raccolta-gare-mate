@@ -35,12 +35,19 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Kangaroo Day Date Error (third Thursday in March)*
 
-*Errored date of Kangourou Day (third Thursday of March) *
-
-> Kangourou Day is celebrated every year on the third Thursday of March. The following are the dates of Kangourou Day for the next five years. Four are right, but one is wrong. What kind? This appropriation is intended to cover the expenditure incurred by the Member States in connection with the implementation of the budget of the European Union.
+> Every year, Kangaroo Day is the third Thursday of March. Below are listed what should be the dates for Kangaroo Day in the next 5 years. Four of them are correct, but one is wrong. Which one?
+>
+> A) March 17, 2022
+> B) March 16, 2023
+> C) March 14, 2024
+> D) March 20, 2025
+> E) March 19, 2026
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2021_junior_marzo#q01|src_kangourou_2021_junior_marzo__Q01]]
 
 
@@ -206,21 +213,33 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Height of the lower right rectangle from the areas*
+*Height of the bottom-right rectangle from the areas*
 
 ![[src_kangourou_2021_junior_marzo__prob4.png]]
 
-> Six rectangles are aligned as shown in the figure. For each rectangle, the number inside indicates the area in 3 cm2; the upper left rectangle is 6 cm high. How much is the height in centimetres of the rectangle at the bottom right? A) 4
+> Two rectangles are joined as shown in the figure. For each rectangle, the number inside indicates its area in square centimeters; the top-left rectangle has height 6 cm. What is the height, in centimeters, of the bottom-right rectangle?
+> (A) 4
 > 	
-> B) 5
+> B) 5	
 > 	
-> C) 6
+> C) 6	
 > 	
-> (D) 7.5 E) 10 Compared to the previous year's figures, the Commission has adopted a number of proposals for a number of measures.
+> D) 7.5
+> E) 10
 >
+> Ven   Sab   Dom
+> Lun   Mar
+> −1 °C −2 °C 0 °C
+> 6 °C
+> 2 °C
+> P   Q   R
+> 12  16  18
+> 32  30  48
+> 6   ?
 
 **Answer:** B
+
+
 [[Quesiti/src_kangourou_2021_junior_marzo#q04|src_kangourou_2021_junior_marzo__Q04]]
 
 
@@ -1395,10 +1414,11 @@ What's the number? in the 3x3 grid after 2x2 moves*
 
 <div class="qlang-split" data-lang="en"></div>
 
+*Minimum possible weight for the heaviest coin*
 
-*Minimum weight possible for the heaviest coin*
-
-> 30. Cristina has eight coins whose weight in grams is given by positive integers all different from each other. When Cristina puts any two coins on one of the two plates of a balance sheet and any two coins on the other, the plate containing the heaviest coin of the four coins is always the heaviest plate. What is the smallest possible weight for the heaviest coin? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning, Conservation and Law-enforcement.
+> 30. Cristina has eight coins whose weights in grams are given by positive integers all different from each other. When Cristina puts any two coins on one of the two pans of a balance and any two coins on the other, the pan containing the heaviest coin of the four coins is always the heavier pan. What is the smallest possible weight for the heaviest coin? A) 8 B) 12 C) 34 D) 128 E) 256 2 0 2 1 2021 Answers JUNIOR C C C C D B E C A A D E E C C E E E A C D E B D D C
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2021_junior_marzo#q30|src_kangourou_2021_junior_marzo__Q30]]

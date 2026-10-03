@@ -851,8 +851,7 @@ This appropriation is intended to cover expenditure on research and technologica
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-*Relation between S4 and S1 areas in the trapezoid*
+*Relation between areas S4 and S1 in the trapezoid*
 
 ![[src_kangourou_2001_junior__prob18.png]]
 
@@ -878,15 +877,19 @@ This appropriation is intended to cover expenditure on research and technologica
 \end{document}
 ```
 
-> The trapezoid ABCD is divided by its diagonal into four triangles of area S 1, S2, S 3, S 4 (see figure). If S2 is equal to 3 ⋅ S1, then
+> Trapezoid ABCD is divided by its diagonals into four triangles with areas S₁, S₂, S₃, S₄ (see figure). If S₂ = 3 ⋅ S₁, then
 >
-> - **(A)** S 4 = 3 ⋅ S 1
-> - **(B)** S 4 = 4 ⋅ S 1
-> - **(C)** S 4 = 6 ⋅ S 1
-> - **(D)** S 4 = 9 ⋅ S 1
-> - **(E)** S 4 = 12 ⋅ S 1 . . The Commission shall adopt delegated acts in accordance with the procedure referred to in paragraph 1 of this Article. Junior class. This item is not intended to be used. 5
+> - **(A)** S₄ = 3 ⋅ S₁
+> - **(B)** S₄ = 4 ⋅ S₁
+> - **(C)** S₄ = 6 ⋅ S₁
+> - **(D)** S₄ = 9 ⋅ S₁
+> - **(E)** S₄ = 12 ⋅ S₁
+>
+> . . Y₁₆₈X (E) 14X 5Y (D) 5Y 14X (C) 2X 5Y (B) 5Y 2X ) A ( Kangourou 15 March 2001. Junior Category. Page N. 5
 
 **Answer:** D
+
+
 [[Quesiti/src_kangourou_2001_junior#q18|src_kangourou_2001_junior__Q18]]
 
 

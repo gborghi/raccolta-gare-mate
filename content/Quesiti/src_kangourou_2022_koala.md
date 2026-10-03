@@ -737,8 +737,7 @@ level: kangourou
 
 <div class="qlang-split" data-lang="en"></div>
 
-
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 182/2011 and shall adopt implementing acts in accordance with Article 21 thereof.
+*?*
 
 ![[src_kangourou_2022_koala__prob21.png]]
 
@@ -765,9 +764,11 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 \end{document}
 ```
 
-> In the drawing, the same figures cover the same numbers, different figures cover different numbers. What number should be written in place of the question mark? (see figure)
+> In the diagram, equal shapes cover equal numbers, and different shapes cover different numbers. Which number should be written in place of the question mark? (See figure)
 
 **Answer:** C
+
+
 [[Quesiti/src_kangourou_2022_koala#q21|src_kangourou_2022_koala__Q21]]
 
 
