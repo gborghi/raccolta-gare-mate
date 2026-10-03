@@ -81,7 +81,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_trigonometria,method_casework,method_trigonometria,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Risolvere cos^n x - sin^n x = 1*
@@ -95,12 +95,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19oKHAdph4sJuaxtpEyXIRuF3vBNV2I4p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Risolvere cos^n x - sin^n x = 1*
+
+> Risolvere l'equazione $\cos^n x - \sin^n x = 1$, dove $n$ è un numero naturale.
 
 
-Resolving cos^n x - sin^n x = 1
-
-> Solve the equation $\cos^n x - \sin^n x = 1$, where $n$ is a natural number.
 
 [[Quesiti/src_imho_1961#q03|src_imho_1961__Q03]]
 

@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Cyclic quadrilateral iff two triangles have equal areas*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Quadrilatero ciclico se e solo se due triangoli hanno aree uguali*
+
+> Nel quadrilatero convesso $ABCD$, le diagonali $AC$ e $BD$ sono perpendicolari e i lati opposti $AB$ e $DC$ non sono paralleli. Si supponga che il punto $P$, in cui si incontrano gli assi dei segmenti $AB$ e $DC$, sia interno a $ABCD$. Si dimostri che $ABCD$ è ciclico se e solo se i triangoli $ABP$ e $CDP$ hanno la stessa area.
 
 
-Cyclic quadrilateral if two triangles have equal areas
-
-> In the convex quadrilateral $ABCD$, the diagonals $AC$ and $BD$ are perpendicular and the opposite sides $AB$ and $DC$ are not parallel. Suppose that the point $P$, where the perpendicular bisectors of $AB$ and $DC$ meet, is inside $ABCD$. Prove that $ABCD$ is a cyclic quadrilateral if and only if the triangles $ABP$ and $CDP$ have equal areas.
 
 [[Quesiti/src_imho_1998#q01|src_imho_1998__Q01]]
 
@@ -39,7 +40,7 @@ Cyclic quadrilateral if two triangles have equal areas
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_disuguaglianze,method_doppio_conteggio,method_cassetti,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Judges rating contestants: prove k/a >= (b-1)/(2b)*
@@ -53,12 +54,13 @@ Cyclic quadrilateral if two triangles have equal areas
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Valutazione dei giudici ai concorrenti: si dimostri che k/a ≥ (b−1)/(2b)*
+
+> In una gara vi sono $a$ partecipanti e $b$ giudici, dove $b \ge 3$ è un numero dispari. Ogni giudice valuta ciascun partecipante con "superato" o "bocciato". Si supponga che $k$ sia un numero tale che, per ogni coppia di giudici, le loro valutazioni coincidano al più per $k$ partecipanti. Si dimostri che $k/a \ge (b-1)/(2b)$.
 
 
-Judges rating contestants: evidence k/a >= (b-1)/(2b)
-
-> In a competition, there are $a$ contestants and $b$ judges, where $b \ge 3$ is an odd integer. Each judge rates each contestant as either "pass" or "fail". Suppose $k$ is a number such that, for any two judges, their ratings coincide for at most $k$ contestants. Prove that $k/a \ge (b-1)/(2b)$.
 
 [[Quesiti/src_imho_1998#q02|src_imho_1998__Q02]]
 
@@ -66,7 +68,7 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all positive integers k with d(n^2)/d(n)=k for some n*
@@ -80,12 +82,13 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutti gli interi positivi k tali che d(n²)/d(n) = k per qualche n*
+
+> Per ogni intero positivo $n$, sia $d(n)$ il numero dei divisori positivi di $n$ (inclusi $1$ e $n$ stesso). Determinare tutti gli interi positivi $k$ tali che $d(n^2)/d(n) = k$ per qualche $n$.
 
 
-*Find the positive integers k with d(n^2)/d(n)=k for some n*
-
-> For any positive integer $n$, let $d(n)$ denote the number of positive divisors of $n$ (including $1$ and $n$ itself). Determine the positive integers $k$ such that $d(n^2)/d(n) = k$ for some $n$.
 
 [[Quesiti/src_imho_1998#q03|src_imho_1998__Q03]]
 
@@ -93,7 +96,7 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all pairs (a,b) of positive integers with given divisibility*
@@ -107,12 +110,13 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le coppie (a,b) di interi positivi con divisibilità data*
+
+> Determinare tutte le coppie $(a, b)$ di interi positivi tali che $ab^2 + b + 7$ divide $a^2 b + a + b$.
 
 
-*Find all pairs (a,b) of positive integers with given divisibility*
-
-> Determine the pairs $(a, b)$ of positive integers such that $ab^2 + b + 7$ divides $a^2 b + a + b$.
 
 [[Quesiti/src_imho_1998#q04|src_imho_1998__Q04]]
 
@@ -120,7 +124,7 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Incircle touch points construction: angle RIS is acute*
@@ -134,12 +138,13 @@ Judges rating contestants: evidence k/a >= (b-1)/(2b)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Costruzione dei punti di tangenza della circonferenza inscritta: l'angolo RIS è acuto*
+
+> Sia $I$ l'incentro del triangolo $ABC$. Sia la circonferenza inscritta nel triangolo $ABC$ tangente ai lati $BC$, $CA$ e $AB$ rispettivamente nei punti $K$, $L$ e $M$. La retta passante per $B$ parallela a $MK$ incontra le rette $LM$ e $LK$ nei punti $R$ e $S$, rispettivamente. Si dimostri che l'angolo $RIS$ è acuto.
 
 
-Incircle touch points construction: angle RIS is acute
-
-> Let $I$ be the incenter of triangle $ABC$. Let the incircle of $ABC$ touch the sides $BC$, $CA$, and $AB$ at $K$, $L$, and $M$, respectively. The line through $B$ parallel to $MK$ meets the lines $LM$ and $LK$ at $R$ and $S$, respectively. Prove that angle $RIS$ is sharp.
 
 [[Quesiti/src_imho_1998#q05|src_imho_1998__Q05]]
 
@@ -147,7 +152,7 @@ Incircle touch points construction: angle RIS is acute
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Functional equation on positive integers; find least f(1998)*
@@ -161,11 +166,12 @@ Incircle touch points construction: angle RIS is acute
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Equazione funzionale sugli interi positivi; determinare il minimo valore di f(1998)*
+
+> Si considerino tutte le funzioni $f$ dall'insieme $N$ di tutti gli interi positivi in sé stessa che soddisfano $f(t^2 f(s)) = s(f(t))^2$ per ogni $s$ e $t$ in $N$. Determinare il valore minimo possibile di $f(1998)$.
 
 
-*Functional equation on positive integers; find at least f(1998) *
-
-> Consider the functions $f$ from the set $N$ of all positive integers in itself satisfying $f(t^2 f(s)) = s(f(t))^2$ for all $s$ and $t$ in $N$. Determine the least possible value of $f(1998)$.
 
 [[Quesiti/src_imho_1998#q06|src_imho_1998__Q06]]

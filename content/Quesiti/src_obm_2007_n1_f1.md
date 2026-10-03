@@ -415,14 +415,15 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Coda: 7 persone, separarle, 6 dietro Esmeralda, 2 entrano tra loro; trovare la posizione di Esmeralda*
 
-*Queue: 7 people separate them, 6 behind Esmeralda, 2 enter between; find Esmeralda's position*
-
-> Esmeralda and Perola are in a queue. Perola notices that $7$ people separate them and that there are $6$ people behind Esmeralda. Two extra people then enter the queue between Esmeralda and Perola. The numbers below could be Esmeralda's position counting from the front of the queue, except:
+> Esmeralda e Perola si trovano in una coda. Perola osserva che tra loro ci sono $7$ persone e che dietro Esmeralda ci sono $6$ persone. Due persone aggiuntive poi entrano nella coda tra Esmeralda e Perola. Quale dei numeri seguenti non potrebbe essere la posizione di Esmeralda contando dal fronte della coda?
 > 
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
+
+
 
 [[Quesiti/src_obm_2007_n1_f1#q12|src_obm_2007_n1_f1__Q12]]
 

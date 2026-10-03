@@ -57,16 +57,17 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Successione di numeri dispari definita dalla coprimialità; limitazione |a_n - 2n|*
 
-*Sequence of odd numbers defined by coprimality; bound |a_n - 2n|*
-
-> A sequence $a_1, a_2, \ldots$ consisting of positive odd integers satisfies, for every positive integer $n$, the following condition:
+> Una successione $a_1, a_2, \ldots$ costituita da interi positivi dispari soddisfa, per ogni numero naturale $n$, la seguente condizione:
 > 
-> The smallest odd integer that is greater than $a_{n+1}$ and coprime to $a_n$ is $a_{n+2}$.
+> Il più piccolo intero dispari maggiore di $a_{n+1}$ e coprimo con $a_n$ è $a_{n+2}$.
 > 
-> Prove that there exists a positive integer $C$ such that $|a_n - 2n| \leq C$ holds for every positive integer $n$.
+> Si dimostri che esiste un intero positivo $C$ tale che $|a_n - 2n| \leq C$ vale per ogni intero positivo $n$.
+
+
 
 [[Quesiti/src_jmo36hq_honsen#q02|src_jmo36hq_honsen__Q02]]
 

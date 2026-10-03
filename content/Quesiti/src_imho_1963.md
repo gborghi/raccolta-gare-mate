@@ -109,7 +109,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_simmetria,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Sistema ciclico di 5 equazioni con parametro y*
@@ -125,12 +125,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Sistema ciclico di 5 equazioni con parametro y*
+
+> Determinare tutte le soluzioni $x_1, x_2, x_3, x_4, x_5$ del sistema
+> $$\begin{cases} x_5 + x_2 = y x_1 \\ x_1 + x_3 = y x_2 \\ x_2 + x_4 = y x_3 \\ x_3 + x_5 = y x_4 \\ x_4 + x_1 = y x_5, \end{cases}$$
+> dove $y$ è un parametro.
 
 
-*Cyclic system of 5 equations with parameter y*
-
-> Find all solutions $x_1, x_2, x_3, x_4, x_5$ of the system $$\begin{cases} x_5 + x_2 = y x_1 \\ x_1 + x_3 = y x_2 \\ x_2 + x_4 = y x_3 \\ x_3 + x_5 = y x_4 \\ x_4 + x_1 = y x_5, \end{cases}$$ where $y$ is a parameter.
 
 [[Quesiti/src_imho_1963#q04|src_imho_1963__Q04]]
 

@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_induzione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Sum of k times permutations with k fixed points equals n!*
@@ -28,12 +28,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Somma di k volte i numeri di permutazioni con k punti fissi uguale a n!*
+
+> Sia $p_n(k)$ il numero di permutazioni dell'insieme $\{1, \ldots, n\}$, $n \ge 1$, che hanno esattamente $k$ punti fissi. Si dimostri che
+> $$\sum_{k=0}^{n} k \cdot p_n(k) = n!.$$
+> (Osservazione: Una permutazione $f$ di un insieme $S$ è un'applicazione biunivoca da $S$ in sé stesso. Un elemento $i$ nell'insieme $S$ si dice punto fisso della permutazione $f$ se $f(i) = i$.)
 
 
-*Sum of k times permutations with k fixed points equals n!*
-
-> Let $p_n(k)$ be the number of permutations of the set $\{1, \ldots, n\}$, $n \ge 1$, which have exactly $k$ fixed points. Prove that $$\sum_{k=0}^{n} k \cdot p_n(k) = n!.$$ (Remark: A permutation $f$ of a set $S$ is a one-to-one mapping of $S$ onto itself. An element $i$ in $S$ is called a fixed point of the permutation $f$ if $f(i) = i$.)
 
 [[Quesiti/src_imho_1987#q01|src_imho_1987__Q01]]
 
@@ -41,7 +44,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Quadrilateral AKNM and triangle ABC have equal areas*
@@ -55,12 +58,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*I quadrilatero AKNM e il triangolo ABC hanno aree uguali*
+
+> In un triangolo acutangolo $ABC$, la bisettrice interna dell'angolo $A$ incontra il lato $BC$ in $L$ e interseca nuovamente la circonferenza circoscritta al triangolo $ABC$ nel punto $N$. Dall'punto $L$ si conducono le perpendicolari ai lati $AB$ e $AC$, i piedi di tali perpendicolari essendo rispettivamente $K$ e $M$. Si dimostri che il quadrilatero $AKNM$ e il triangolo $ABC$ hanno la stessa area.
 
 
-Quadrilateral AKNM and triangle ABC have equal areas
-
-> In an acute-angled triangle $ABC$ the interior bisector of the angle $A$ intersects $BC$ at $L$ and intersects the circumcircle of $ABC$ again at $N$. From point $L$ perpendiculars are drawn to $AB$ and $AC$, the feet of these perpendiculars being $K$ and $M$ respectively. Prove that the quadrilateral $AKNM$ and the triangle $ABC$ have equal areas.
 
 [[Quesiti/src_imho_1987#q02|src_imho_1987__Q02]]
 
@@ -68,7 +72,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_disuguaglianze,method_cassetti,method_disuguaglianze,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Approximating zero by integer linear combination with bounded coefficients*
@@ -83,12 +87,14 @@ Quadrilateral AKNM and triangle ABC have equal areas
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Approssimare lo zero con combinazione lineare intera a coefficienti limitati*
+
+> Siano $x_1, x_2, \ldots, x_n$ numeri reali che soddisfano $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Si dimostri che per ogni intero $k \ge 2$ esistono interi $a_1, a_2, \ldots, a_n$, non tutti $0$, tali che $|a_i| \le k-1$ per ogni $i$ e
+> $$|a_1 x_1 + a_2 x_2 + \cdots + a_n x_n| \le \frac{(k-1)\sqrt{n}}{k^n - 1}.$$
 
 
-*Approximating zero by integer linear combination with bounded coefficients*
-
-> Let $x_1, x_2, \ldots, x_n$ be real numbers satisfying $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Prove that for every integer $k \ge 2$ there are integers $a_1, a_2, \ldots, a_n$, not all $0$, such that $|a_i| \le k-1$ for all $i$ and $$|a_1 x_1 + a_2 x_2 + \cdots + a_n x_n| \le \frac{(k-1)\sqrt{n}}{k^n - 1}.$$
 
 [[Quesiti/src_imho_1987#q03|src_imho_1987__Q03]]
 
@@ -96,7 +102,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *No function on non-negative integers satisfies f(f(n))=n+1987*
@@ -110,12 +116,13 @@ Quadrilateral AKNM and triangle ABC have equal areas
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Non esiste alcuna funzione sui numeri interi non negativi tale che f(f(n)) = n + 1987*
+
+> Si dimostri che non esiste una funzione $f$ dall'insieme degli interi non negativi in sé stesso tale che $f(f(n)) = n + 1987$ per ogni $n$.
 
 
-*No function on non-negative integers satisfies f(f(n))=n+1987*
-
-> Prove that there is no function $f$ from the set of non-negative integers into itself such that $f(f(n)) = n + 1987$ for every $n$.
 
 [[Quesiti/src_imho_1987#q04|src_imho_1987__Q04]]
 
@@ -123,7 +130,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_coordinate,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *n points with all pairwise distances irrational but every triple rational-area triangle*
@@ -137,12 +144,13 @@ Quadrilateral AKNM and triangle ABC have equal areas
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*n punti con tutte le distanze a coppie irrazionali ma ogni triangolo formato da tre punti di area razionale*
+
+> Sia $n$ un intero maggiore o uguale a $3$. Si dimostri che esiste un insieme di $n$ punti nel piano tali che la distanza tra ogni coppia di punti sia irrazionale e ciascun insieme di tre punti formi un triangolo non degenere con area razionale.
 
 
-*n points with all pairwise distances irrational but every triple rational-area triangle*
-
-> Let $n$ be an integer greater than or equal to $3$. Prove that there is a set of $n$ points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.
 
 [[Quesiti/src_imho_1987#q05|src_imho_1987__Q05]]
 
@@ -150,7 +158,7 @@ Quadrilateral AKNM and triangle ABC have equal areas
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Primality of k^2+k+n for all k up to n-2 follows from small cases*
@@ -164,11 +172,12 @@ Quadrilateral AKNM and triangle ABC have equal areas
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*La primalità di k^2+k+n per ogni k fino a n-2 segue dai casi piccoli*
+
+> Sia $n$ un intero maggiore o uguale a $2$. Si dimostri che se $k^2 + k + n$ è primo per ogni intero $k$ tale che $0 \le k \le \sqrt{n/3}$, allora $k^2 + k + n$ è primo per ogni intero $k$ tale che $0 \le k \le n - 2$.
 
 
-*Primality of k^2+k+n for all k up to n-2 follows from small cases*
-
-> Let $n$ be an integer greater than or equal to $2$. Prove that if $k^2 + k + n$ is prime for all integers $k$ such that $0 \le k \le \sqrt{n/3}$, then $k^2 + k + n$ is prime for all integers $k$ such that $0 \le k \le n - 2$.
 
 [[Quesiti/src_imho_1987#q06|src_imho_1987__Q06]]

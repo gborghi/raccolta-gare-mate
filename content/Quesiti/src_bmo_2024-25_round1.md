@@ -94,14 +94,15 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Gioco che sostituisce n con |a-b| partendo da 10^6*
 
-*Game replacing n by |a-b| starting at 10^6*
-
-> Rhian and Jack are playing a game in which initially the number $10^6$ is written on a blackboard. If the number $n$ on the blackboard can be written as $a + b$ for two different positive integers $a$ and $b$, a move consists of choosing such $a$ and $b$ and replacing $n$ with $|a - b|$. Rhian starts, then the players make moves alternately. A player who is unable to move loses.
+> Rhian e Jack stanno giocando a un gioco in cui all'inizio sul quaderno nero è scritto il numero $10^6$. Se il numero $n$ presente sul quaderno può essere espresso come $a + b$ per due diversi interi positivi $a$ e $b$, un giocatore può effettuare una mossa scegliendo tali $a$ e $b$ e sostituire $n$ con $|a - b|$. Rhian inizia, e i giocatori effettuano le mosse alternativamente. Perde chi non riesce a muovere.
 > 
-> Determine, with proof, who wins the game.
+> Determinare, con dimostrazione, chi vince la partita.
+
+
 
 [[Quesiti/src_bmo_2024-25_round1#q03|src_bmo_2024-25_round1__Q03]]
 

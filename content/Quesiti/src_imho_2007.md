@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Inequality for real sequences with defined differences*
@@ -32,12 +32,21 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Disuguaglianza per successioni reali con differenze definite*
+
+> Siano dati numeri reali $a_1, a_2, \ldots, a_n$. Per ogni $i$ ($1 \le i \le n$) si definisca
+> $$d_i = \max\{a_j : 1 \le j \le i\} - \min\{a_j : 1 \le j \le i\}$$
+> e si ponga
+> $$d = \max\{d_i : 1 \le i \le n\}.$$
+>
+> (a) Si dimostri che, per ogni numero reale $x_1 \le x_2 \le \cdots \le x_n$,
+> $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$
+>
+> (b) Si mostri che esistono numeri reali $x_1 \le x_2 \le \cdots \le x_n$ tali che valga l'uguaglianza in $(*)$.
 
 
-*Inequality for real sequences with defined differences*
-
-> Real numbers $a_1, a_2, \ldots, a_n$ are given. For each $i$ ($1 \le i \le n$) define $$d_i = \max\{a_j : 1 \le j \le i\} - \min\{a_j : 1 \le j \le i\}$$ and let $$d = \max\{d_i : 1 \le i \le n\}.$$ (a) Prove that, for any real numbers $x_1 \le x_2 \le \cdots \le x_n$, $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$ (b) Show that there are real numbers $x_1 \le x_2 \le \cdots \le x_n$ such that equality holds in $(*)$.
 
 [[Quesiti/src_imho_2007#q01|src_imho_2007__Q01]]
 
@@ -45,7 +54,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Line through vertex of parallelogram meets cyclic quadrilateral*
@@ -59,12 +68,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Retta passante per vertice del parallelogramma incontra quadrilatero ciclico*
+
+> Siano dati cinque punti $A$, $B$, $C$, $D$ e $E$ tali che $ABCD$ sia un parallelogramma e $BCED$ sia un quadrilatero ciclico. Si supponga che una retta $\ell$ passante per $A$ intersechi l'interno del segmento $DC$ nel punto $F$ e intersechi la retta $BC$ nel punto $G$. Si supponga inoltre che $EF = EG = EC$. Si dimostri che $\ell$ è la bisettrice dell'angolo $DAB$.
 
 
-*Line through vertex of parallelogram meets cyclic quadrilateral*
-
-> Consider five points $A$, $B$, $C$, $D$ and $E$ such that $ABCD$ is a parallelogram and $BCED$ is a cyclic quadrilateral. Suppose that a line $\ell$ passing through $A$ intersects the interior of the segment $DC$ at $F$ and intersects line $BC$ at $G$. Suppose also that $EF = EG = EC$. Prove that $\ell$ is the bisector of angle $DAB$.
 
 [[Quesiti/src_imho_2007#q02|src_imho_2007__Q02]]
 
@@ -72,7 +82,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Clique sizes in two-room partition of friendship graph*
@@ -88,14 +98,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Dimensioni dei clique in una partizione a due stanze del grafo degli amici*
 
-Click sizes in two-room partition of friendship graph
-
-> In a mathematical competition some competitors are friends. Friendship is always mutual. Call a group of competitors a clique if each of them are friends. The number of members of a clique is called its size.
+> In una gara matematica alcuni partecipanti sono amici. L'amicizia è sempre reciproca. Si chiama gruppo di amicizie un insieme di partecipanti tale che ogni due di essi siano amici. (In particolare, ogni insieme di meno di due partecipanti è un gruppo di amicizie.) Il numero di membri di un gruppo di amicizie si chiama la sua dimensione.
 > 
-> Given that, in this competition, the largest size of a clique is even, prove that the competitors can be arranged in two rooms such that the largest size of a clique contained in one room is the same as the largest size of a clique contained in the other room.
+> Si dimostri che, dato che in questa gara la massima dimensione di una clique è pari, i concorrenti possono essere disposti in due stanze in modo tale che la massima dimensione di una clique contenuta in una stanza sia uguale alla massima dimensione di una clique contenuta nell'altra stanza.
+
+
 
 [[Quesiti/src_imho_2007#q03|src_imho_2007__Q03]]
 
@@ -103,7 +114,7 @@ Click sizes in two-room partition of friendship graph
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Angle bisector, circumcircle, perpendicular bisectors, equal areas*
@@ -117,12 +128,13 @@ Click sizes in two-room partition of friendship graph
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Bisettrice angolare, circonferenza circoscritta, assi perpendicolari, aree uguali*
+
+> Nel triangolo $ABC$ la bisettrice dell'angolo $BCA$ interseca nuovamente la circonferenza circoscritta in $R$, l'asse del segmento $BC$ in $P$ e l'asse del segmento $AC$ in $Q$. Il punto medio di $BC$ è $K$ e il punto medio di $AC$ è $L$. Si dimostri che i triangoli $RPK$ e $RQL$ hanno la stessa area.
 
 
-*Angle bisector, circumcircle, perpendicular bisectors, equal areas*
-
-> In triangle $ABC$ the bisector of angle $BCA$ intersects the circumcircle again at $R$, the perpendicular bisector of $BC$ at $P$, and the perpendicular bisector of $AC$ at $Q$. The midpoint of $BC$ is $K$ and the midpoint of $AC$ is $L$. Prove that the $RPK$ and $RQL$ triangles have the same area.
 
 [[Quesiti/src_imho_2007#q04|src_imho_2007__Q04]]
 
@@ -130,7 +142,7 @@ Click sizes in two-room partition of friendship graph
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Divisibility condition forces a equals b*
@@ -144,12 +156,13 @@ Click sizes in two-room partition of friendship graph
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Condizione di divisibilità implica a uguale a b*
+
+> Siano $a$ e $b$ numeri interi positivi. Si dimostri che se $4ab - 1$ divide $(4a^2 - 1)^2$, allora $a = b$.
 
 
-*Divisibility condition forces at equals b*
-
-> Let $a$ and $b$ be positive integers. Show that if $4ab - 1$ divides $(4a^2 - 1)^2$, then $a = b$.
 
 [[Quesiti/src_imho_2007#q05|src_imho_2007__Q05]]
 
@@ -157,7 +170,7 @@ Click sizes in two-room partition of friendship graph
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_solida,method_estremalita,method_induzione,method_doppio_conteggio,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Minimum planes covering lattice points with positive coordinate sum*
@@ -173,11 +186,12 @@ Click sizes in two-room partition of friendship graph
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Piani minimi che coprono punti reticolari con somma delle coordinate positiva*
+
+> Sia $n$ un intero positivo. Si consideri $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ come insieme di $(n+1)^3 - 1$ punti nello spazio tridimensionale. Si determini il numero minimo possibile di piani la cui unione contenga $S$ ma non includa $(0, 0, 0)$.
 
 
-*Minimum planes covering lattice points with positive coordinate sum*
-
-> Let $n$ be a positive integer. Consider $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ as a set of $(n+1)^3 - 1$ points in three-dimensional space. Determine the smallest possible number of planes, the union of which contains $S$ but does not include $(0, 0, 0)$.
 
 [[Quesiti/src_imho_2007#q06|src_imho_2007__Q06]]

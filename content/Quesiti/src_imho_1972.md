@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Two disjoint subsets of ten two-digit numbers with equal sums*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Due sottoinsiemi disgiunti di dieci numeri da due cifre con somme uguali*
+
+> Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
 
 
-*Two disjoint subsets of ten two-digit numbers with equal sums*
-
-> Prove that from a set of ten distinct two-digit numbers (in the decimal system), it is possible to select two disjoint subsets whose members have the same sum.
 
 [[Quesiti/src_imho_1972#q01|src_imho_1972__Q01]]
 
@@ -39,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_induzione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Quadrilateral inscribed in circle can be dissected into inscribable quadrilaterals*
@@ -53,12 +54,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Un quadrilatero inscritto in una circonferenza può essere scomposto in quadrilateri anch'essi inscrivibili*
+
+> Si dimostri che se $n \ge 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali è anch'esso inscrivibile in una circonferenza.
 
 
-*Quadrilateral inscribed in circle can be dissected into inscribable quadrilaterals*
-
-> Prove that if $n \ge 4$, every quadrilateral that can be inscribed in a circle can be dissected into $n$ quadrilaterals each of which is inscribable in a circle.
 
 [[Quesiti/src_imho_1972#q02|src_imho_1972__Q02]]
 
@@ -66,7 +68,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove expression involving binomial coefficients is an integer*
@@ -82,12 +84,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Si dimostri che l'espressione contenente coefficienti binomiali è un intero*
+
+> Siano $m$ e $n$ due interi non negativi arbitrari. Si dimostri che
+> $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
+> è un numero intero. ($0! = 1$.)
 
 
-*Prove expression involving binomial coefficients is an integer*
-
-> Let $m$ and $n$ be arbitrary non-negative integers. Prove that $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$ is an integer. ($0! = 1$.)
 
 [[Quesiti/src_imho_1972#q03|src_imho_1972__Q03]]
 
@@ -95,7 +100,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all solutions of a system of four inequalities*
@@ -116,12 +121,20 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le soluzioni di un sistema di quattro disuguaglianze*
+
+> Determinare tutte le soluzioni $(x_1, x_2, x_3, x_4)$ del sistema di disuguaglianze
+> $$\begin{aligned}
+> (x_1^2 - x_3 x_1)(x_2^2 - x_3 x_2) &\le 0 \\
+> (x_2^2 - x_4 x_2)(x_3^2 - x_4 x_3) &\le 0 \\
+> (x_3^2 - x_1 x_3)(x_4^2 - x_1 x_4) &\le 0 \\
+> (x_4^2 - x_2 x_4)(x_1^2 - x_2 x_1) &\le 0
+> \end{aligned}$$
+> dove $x_1, x_2, x_3, x_4$ sono numeri reali positivi.
 
 
-*Find all solutions of a system of four inequalities*
-
-> Find all solutions $(x_1, x_2, x_3, x_4)$ of the system of inequalities $$\begin{aligned} (x_1^2 - x_3 x_1)(x_2^2 - x_3 x_2) &\le 0 \\ (x_2^2 - x_4 x_2)(x_3^2 - x_4 x_3) &\le 0 \\ (x_3^2 - x_1 x_3)(x_4^2 - x_1 x_4) &\le 0 \\ (x_4^2 - x_2 x_4)(x_1^2 - x_2 x_1) &\le 0 \end{aligned}$$ where $x_1, x_2, x_3, x_4$ are positive real numbers.
 
 [[Quesiti/src_imho_1972#q04|src_imho_1972__Q04]]
 
@@ -129,7 +142,7 @@ level: IMO
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_backward,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Functional equation f(x+y)+f(x-y)=2f(x)g(y) with bounds*
@@ -145,12 +158,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Equazione funzionale f(x+y)+f(x-y)=2f(x)g(y) con vincoli*
+
+> Siano $f$ e $g$ funzioni a valori reali definite per tutti i numeri reali $x$ e $y$, e soddisfacenti l'equazione
+> $$f(x + y) + f(x - y) = 2f(x)g(y)$$
+> per tutti gli $x, y$. Si dimostri che se $f(x)$ non è identicamente nulla, e se $|f(x)| \le 1$ per tutti gli $x$, allora $|g(y)| \le 1$ per tutti gli $y$.
 
 
-*Functional equation f(x+y)+f(x-y)=2f(x)g(y) with bounds*
-
-> Let $f$ and $g$ be real-valued functions defined for all real values of $x$ and $y$, and satisfying the equation $$f(x + y) + f(x - y) = 2f(x)g(y)$$ for all $x, y$. Prove that if $f(x)$ is not identically zero, and if $|f(x)| \le 1$ for all $x$, then $|g(y)| \le 1$ for all $y$.
 
 [[Quesiti/src_imho_1972#q05|src_imho_1972__Q05]]
 
@@ -158,7 +174,7 @@ level: IMO
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Four distinct parallel planes imply a regular tetrahedron with vertex on each*
@@ -172,11 +188,12 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Quattro piani paralleli distinti implicano un tetraedro regolare con un vertice su ciascuno*
+
+> Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
 
 
-*Four distinct parallel planes imply a regular tetrahedron with vertex on each*
-
-> Given four distinct parallel planes, prove that there exists a regular tetrahedron with a vertex on each plane.
 
 [[Quesiti/src_imho_1972#q06|src_imho_1972__Q06]]

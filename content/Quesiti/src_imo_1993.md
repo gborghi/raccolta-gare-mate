@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove x^n+5x^(n-1)+3 is irreducible over integers*
@@ -27,12 +27,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Dimostrare che x^n+5x^(n-1)+3 è irriducibile sugli interi*
+
+> Sia f(x) = xn + 5xn−1 + 3, dove n > 1 è un intero. Si dimostri che f(x)
+> non può essere espresso come prodotto di due polinomi non costanti
+> a coefficienti interi.
 
 
-*Prove x^n+5x^(n-1) +3 is irreducible over integers*
-
-> Let f(x) = xn + 5xn−1 + 3, where n > 1 is an integer. Prove that f(x) cannot be expressed as the product of two nonconstant polynomials with integer coefficients.
 
 [[Quesiti/src_imo_1993#q01|src_imo_1993__Q01]]
 
@@ -40,7 +43,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Compute ratio and prove tangents perpendicular for interior D*
@@ -58,12 +61,17 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Calcolare il rapporto e dimostrare che le tangenti sono perpendicolari per D interno*
+
+> Sia D un punto interno al triangolo acutangolo ABC tale che
+> ∠ADB = ∠ACB + π/2 e AC · BD = AD · BC.
+>
+> (a) Calcolare il rapporto (AB · CD)/(AC · BD).
+> (b) Dimostrare che le tangenti in C alle circonferenze circoscritte ai triangoli ACD e BCD sono perpendicolari.
 
 
-*Compute ratio and prove tangents perpendicular to interior D*
-
-> Let D be a point inside acute triangle ABC such that  ADB =  ACB + π/2 and AC · BD = AD · BC. (a) Calculate the ratio (AB · CD)/(AC · BD). (b) Prove that the tangents at C to the circumcircles of △ACD and △BCD are perpendicular.
 
 [[Quesiti/src_imo_1993#q02|src_imo_1993__Q02]]
 
@@ -71,7 +79,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,method_invarianti"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *which n leave one piece*
@@ -95,12 +103,19 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*per quali n rimane un pezzo*
+
+> Su una scacchiera infinita si svolge un gioco nel modo seguente. All'inizio, n² pezzi sono disposti sulla scacchiera formando un blocco di n per n di caselle adiacenti, con un pezzo in ogni casella. Una mossa nel gioco consiste nel saltare orizzontalmente o verticalmente sopra una casella adiacente occupata, per atterrare su una casella vuota immediatamente oltre. Il pezzo sopra cui si è saltato viene rimosso.
+>
+> Determinare per quali valori di n il gioco può terminare con un solo pezzo rimasto sulla scacchiera.
+>
+> Secondo Giorno
+> 19 luglio 1993
+> Tempo a disposizione: 4½ ore
 
 
-*which n leave one piece*
-
-> On an infinite chessboard, a game is played as follows. At the start, n2 pieces are arranged on the chessboard in an n by n block of adjoining squares, one piece in each square. A move in the game is a jump in a horizontal or vertical direction over an adjacent occupied square to an unoccupied square immediately beyond. The piece which has been jumped over is removed. Find those values of n for which the game can end with only one piece remaining on the board. Second Day July 19, 1993 Time limit: 41 2 hours
 
 [[Quesiti/src_imo_1993#q03|src_imo_1993__Q03]]
 
@@ -140,7 +155,7 @@ level: IMO
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_ricorsione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
@@ -154,12 +169,14 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Esistenza di una funzione f con f(1)=2, f(f(n))=f(n)+n, crescente*
+
+> Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che
+> $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
 
 
-*Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
-
-> There is a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
 
 [[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 

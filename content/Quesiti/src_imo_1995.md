@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove AM, DN, XY concurrent in two-diameter-circles config*
@@ -31,12 +31,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Si dimostri che AM, DN, XY sono concorrenti nella configurazione delle circonferenze di diametro doppio*
+
+> Siano A, B, C, D quattro punti distinti su una retta, in quest'ordine. Le circonferenze di diametri AC e BD si intersecano nei punti X e Y. La retta XY incontra BC in Z. Sia P un punto sulla retta XY diverso da Z. La retta CP interseca la circonferenza di diametro AC nei punti C e M, mentre la retta BP interseca la circonferenza di diametro BD nei punti B e N. Si dimostri che le rette AM, DN ed XY sono concorrenti.
 
 
-*Prove AM, DN, XY concurrent in two-diameter-circles config*
-
-> Let A, B, C, D be four distinct points on a line, in that order. The circles with diameters AC and BD intersect at X and Y . The line XY meets BC at Z. Let P be a point on the line XY other than Z. The line CP intersects the circle with diameter AC at C and M, and the line BP intersects the circle with diameter BD at B and N. Prove that the lines AM, DN, XY are concurrent.
 
 [[Quesiti/src_imo_1995#q01|src_imo_1995__Q01]]
 
@@ -44,7 +45,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove sum of 1/(a^3(b+c)) at least 3/2 for abc=1*
@@ -64,12 +65,20 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Dimostrare che la somma di 1/(a^3(b+c)) è almeno 3/2 se abc=1*
+
+> Siano a, b, c numeri reali positivi tali che abc = 1. Si dimostri che
+> 1
+> a3(b + c) +
+> 1
+> b3(c + a) +
+> 1
+> c3(a + b) ≥3
+> 2.
 
 
-*Prove sum of 1/(a^3(b+c)) at least 3/2 for abc=1*
-
-> Let a, b, c be positive real numbers such that abc = 1. Prove that 1 a3(b + c) + 1 b3(c + a) + 1 c3(a + b) ≥3 2.
 
 [[Quesiti/src_imo_1995#q02|src_imo_1995__Q02]]
 
@@ -77,7 +86,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,method_coordinate"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Determine n with point areas equal to ri+rj+rk*
@@ -96,12 +105,19 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare n con aree dei punti uguali a ri+rj+rk*
+
+> Determinare tutti gli interi n > 3 per cui esistono n punti A1, . . . , An
+> nel piano, di cui non tre allineati, e numeri reali r1, . . . , rn tali che
+> per 1 ≤i < j < k ≤n l'area di △AiAjAk sia ri + rj + rk.
+> 36th International Mathematical Olympiad
+> Secondo giorno - Toronto - 20 luglio 1995
+> Tempo: 41
+> 2 ore
 
 
-*Determinate n with point areas equal to ri+rj+rk*
-
-> Determine all integers n > 3 for which there exist n points A1, . . . , An in the plane, no three collinear, and real numbers r1, . . . , rn such that for 1 ≤i < j < k ≤n, the area of △AiAjAk is ri + rj + rk. 36th International Mathematical Olympiad Second Day - Toronto - July 20, 1995 Time limit: 41 2 hours
 
 [[Quesiti/src_imo_1995#q03|src_imo_1995__Q03]]
 

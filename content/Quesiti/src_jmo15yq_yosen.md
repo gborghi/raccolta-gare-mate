@@ -312,12 +312,19 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Coseno minimo dell'angolo QPR al variare del punto di divisione k nel triangolo ABC*
+
+> In un triangolo $ABC$ con lati $BC = 12$, $CA = 11$, $AB = 5$, sia $k$ un numero reale tale che $0 < k < 1$. Si definiscano i seguenti sei punti:
+>
+> - Sul lato $BC$: sia $P_1$ il punto che divide $BC$ nel rapporto $k : (1-k)$ a partire da $B$, e sia $P_2$ il punto che divide $BC$ nel rapporto $(1-k) : k$ a partire da $B$.
+> - Sul lato $CA$: sia $Q_1$ il punto che divide $CA$ nel rapporto $6 : 1$ a partire da $C$, e sia $Q_2$ il punto che divide $CA$ nel rapporto $1 : 6$ a partire da $C$.
+> - Sul lato $AB$: sia $R_1$ il punto che divide $AB$ nel rapporto $2 : 5$ a partire da $A$, e sia $R_2$ il punto che divide $AB$ nel rapporto $5 : 2$ a partire da $A$.
+>
+> Quando esiste un triangolo $PQR$ con lati $Q = Q_1$, $R = R_1$, $P = P_2$; $QR = Q_1 R_0$, $RP = R_1 P_2$, $PQ = P_1 Q_2$ (cioè i lati del triangolo $PQR$ sono uguali a $|Q_1 R_0|$, $|R_1 P_2|$, $|P_1 Q_2|$ per opportuni valori di $k$), determinare il valore minimo di $\cos \angle QPR$.
 
 
-*Minimum cos(angle QPR) for varying division point k in triangle ABC*
-
-> In triangle $ABC$ with $BC = 12$, $CA = 11$, $AB = 5$, let $k$ be a real number with $0 < k < 1$. Define the following six points:\n\n- On side $BC$: let $P_1$ be the point dividing $BC$ in the ratio $k : (1-k)$ from $B$, and $P_2$ the point dividing $BC$ in the ratio $(1-k) : k$ from $B$.\n- On side $CA$: let $Q_1$ be the point dividing $CA$ in the ratio $6 : 1$ from $C$, and $Q_2$ the point dividing $CA$ in the ratio $1 : 6$ from $C$.\n- On side $AB$: let $R_1$ be the point dividing $AB$ in the ratio $2 : 5$ from $A$, and $R_2$ the point dividing $AB$ in the ratio $5 : 2$ from $A$.\n\nWhen there exists a triangle $PQR$ with $Q = Q_1$, $R = R_1$, $P = P_2$; $QR = Q_1 R_0$, $RP = R_1 P_2$, $PQ = P_1 Q_2$ (i.e., the side lengths of triangle $PQR$ equal $|Q_1 R_0|$, $|R_1 P_2|$, $|P_1 Q_2|$ for varying $k$), find the minimum value of $\cos \angle QPR$.
 
 [[Quesiti/src_jmo15yq_yosen#q11|src_jmo15yq_yosen__Q11]]
 

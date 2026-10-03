@@ -89,16 +89,18 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Da una tabella delle presenze di 5 giorni in cui ogni studente è stato assente esattamente 2 giorni, trovare quale percentuale delle assenze totali è avvenuta nel giorno con meno presenti*
 
-*Da un tavolo di frequenza di 5 giorni in cui ogni studente ha perso esattamente 2 giorni, scopri quale percentuale delle assenze totali è diminuita il giorno di frequenza più basso*
-
-> Nel corso di cinque giorni, la frequenza degli studenti è stata registrata nella tabella seguente:
+> In un corso di cinque giorni, le presenze degli studenti sono state registrate nella tabella seguente:
 > 
-> Il primo giorno della lezione Il secondo giorno Il terzo giorno Il quarto giorno Il quinto giorno Il quinto giorno Il numero degli studenti Presenti Il numero degli studenti Presenti
+> | Giorno di lezione | 1º giorno | 2º giorno | 3º giorno | 4º giorno | 5º giorno |
+> |---|---|---|---|---|---|
+> | Numero di studenti presenti | $271$ | $296$ | $325$ | $380$ | $168$ |
 > 
-> Ogni studente era assente esattamente due giorni. Il giorno del più basso numero di persone presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
+> Ogni studente era assente esattamente due giorni. Nel giorno con meno presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
+
 
 [[Quesiti/src_obm_2009_n1_f2#q03|src_obm_2009_n1_f2__Q03]]
 

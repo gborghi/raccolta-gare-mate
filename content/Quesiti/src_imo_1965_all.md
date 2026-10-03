@@ -40,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove diagonally-dominant 3x3 system has only zero solution*
@@ -90,14 +90,34 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Si dimostri che un sistema 3x3 diagonalmente dominante ha solo la soluzione nulla*
 
-*Prove diagonally-dominant 3x3 system has only zero solution*
-
-> 1965/2. Consider the system of equations a11x1 + a12x2 + a13x3 = 0 a21x1 + a22x2 + a23x3 = 0 a31x1 + a32x2 + a33x3 = 0 with unknowns x1, x2, x3. The coefficients satisfy the conditions: (a) a11, a22, a33 are positive numbers; (b) the remaining coefficients are negative numbers; (c) in each equation, the sum of the coefficients is positive. Prove that the given system has only the solution x1 = x2 = x3 = 0. 1965/3. Given the tetrahedron ABCD whose edges AB and CD have lengths a and b respectively. The distance between the skew lines AB and CD is d, and the angle between them is ω. Tetrahedron ABCD is divided into two solids by plane ε, parallel to lines AB and CD. The ratio of the distances of ε from AB and CD is equal to k. Calculate the ratio of the volumes of the two solids obtained. 1965/4. Find all sets of four real numbers x1, x2, x3, x4 such that the sum of any one and the product of the other three is equal to 2. 1965/5. Consider ∆OAB with acute angle AOB. Through a point M = O perpendiculars are drawn to OA and OB, the feet of which are P and Q respectively. The point of intersection of the altitudes of ∆OPQ is H. What is the locus of H if M is allowed to range over (a) the side AB, (b) the interior of ∆OAB?
+> 1965/2.
+> Si consideri il sistema di equazioni
+> a₁₁x₁ + a₁₂x₂ + a₁₃x₃ = 0
+> a₂₁x₁ + a₂₂x₂ + a₂₃x₃ = 0
+> a₃₁x₁ + a₃₂x₂ + a₃₃x₃ = 0
+> nelle incognite x₁, x₂, x₃. I coefficienti soddisfano le seguenti condizioni:
+> (a) a₁₁, a₂₂, a₃₃ sono numeri positivi;
+> (b) i coefficienti rimanenti sono numeri negativi;
+> (c) in ogni equazione, la somma dei coefficienti è positiva.
+> Si dimostri che il sistema dato ammette unicamente la soluzione x₁ = x₂ = x₃ = 0.
+>
+> 1965/3.
+> Sia dato il tetraedro ABCD le cui spigoli AB e CD hanno lunghezze a e b rispettivamente. La distanza tra le rette sghembe AB e CD è d, e l’angolo tra esse è ω. Il tetraedro ABCD viene diviso in due solidi da un piano ε parallelo alle rette AB e CD. Il rapporto tra le distanze di ε da AB e da CD è uguale a k. Si calcoli il rapporto tra i volumi dei due solidi ottenuti.
+>
+> 1965/4.
+> Trovare tutti gli insiemi di quattro numeri reali x₁, x₂, x₃, x₄ tali che la somma di ciascuno e il prodotto degli altri tre sia uguale a 2.
+>
+> 1965/5.
+> Si consideri il triangolo acutangolo OAB con angolo acuto AOB. Da un punto M ≠ O si conducono le perpendicolari a OA e OB, i piedi delle quali sono rispettivamente P e Q. Sia H il punto di incontro delle altezze del triangolo OPQ. Qual è il luogo descritto da H quando M percorre (a) il lato AB, (b) l’interno del triangolo OAB?
 > 
-> 1965/6. In a plane a set of n points (n ≥3) is given. Each pair of points is connected by a segment. Let d be the length of the longest of these segments. We define a diameter of the set to be any connecting segment of length d. Prove that the number of diameters of the given set is at most n.
+> 1965/6.
+> In un piano è dato un insieme di n punti (n ≥ 3). Ogni coppia di punti è congiunta da un segmento. Sia d la lunghezza del più lungo di questi segmenti. Chiamiamo diametro dell'insieme ogni segmento che congiunge due punti e ha lunghezza d. Si dimostri che il numero di diametri dell'insieme dato è al più n.
+
+
 
 [[Quesiti/src_imo_1965_all#q02|src_imo_1965_all__Q02]]
 

@@ -236,47 +236,68 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
-
-*More than one chance in two for everyone: non-transitive dice and urns; compute and compare winning probabilities, analyze a choosing game, use the Fibonacci sequence and prove a non-transitive distribution exists for every n by induction.*
+*Più di una possibilità su due per tutti: dadi e urne non transitivi; calcolare e confrontare le probabilità di vittoria, analizzare un gioco di scelta, usare la successione di Fibonacci e dimostrare per induzione che esiste una distribuzione non transitiva per ogni n.*
 
 > $\textbf{3.1 Dice and urns}$
-> $\textbf{1.}$ In this question, one supposes that one has three urns $A$, $B$ and $C$ that contain each tokens indistinguishable by touch. The tokens of $A$ bear the numbers $11$, $6$, $10$, $3$ and $1$; those of $B$ bear the numbers $9$, $8$, $7$, $2$ and $5$; those of $C$ bear the numbers $11$, $5$, $4$, $3$ and $4$. One draws independently one token from each of the urns, one denotes respectively by $X_A$, $X_B$ and $X_C$ the numbers of the tokens drawn in $A$, $B$ and $C$.
-> $\textbf{a.}$ One supposes here that the three urns contain each five tokens numbered such as above. Calculate the three probabilities $\mathbb{P}(X_A > X_B)$, $\mathbb{P}(X_B > X_C)$ and $\mathbb{P}(X_C > X_A)$.
-> $\textbf{b.}$ Claire and Paul play at the following game: one of them begins by choosing a die, then the other chooses one of the two remaining dice that she contests. They each throw their die and the one who obtains the larger number wins. Does Claire have an interest in choosing her die before Paul or in letting him choose first?
-> $\textbf{c.}$ Finally, it is decided that it is Paul who chooses first. Which die or dice does he have an interest in choosing?
-> $\textbf{d.}$ Claire and Paul then decide to modify the rules. One of them chooses one of the three dice. Then the other takes die $D_2$ first. Which die does Claire have an interest in choosing, and in letting choose first?
+> $\textbf{1.}$ In questo problema si suppone di avere tre urne $A$, $B$ e $C$ contenenti ciascuna gettoni indistinguibili al tatto. I gettoni dell’urna $A$ portano i numeri $11$, $6$, $10$, $3$ e $1$; quelli dell’urna $B$ portano i numeri $9$, $8$, $7$, $2$ e $5$; quelli dell’urna $C$ portano i numeri $11$, $5$, $4$, $3$ e $4$. Si estrae indipendentemente un gettone da ciascuna urna, e si indica con $X_A$, $X_B$ e $X_C$ rispettivamente i numeri dei gettoni estratti dall’urna $A$, $B$ e $C$.
+>
+> $\textbf{a.}$ Si suppone ora che ciascuna delle tre urne contenga cinque gettoni numerati come sopra. Calcolare le tre probabilità $\mathbb{P}(X_A > X_B)$, $\mathbb{P}(X_B > X_C)$ e $\mathbb{P}(X_C > X_A)$.
+>
+> $\textbf{b.}$ Claire e Paul giocano a un gioco nel seguente modo: uno dei due inizia scegliendo un dado, poi l’altro sceglie uno dei due dadi rimanenti con cui giocare. Ognuno lancia il proprio dado, e vince chi ottiene il numero più alto. Claire ha interesse a scegliere il suo dado prima di Paul, oppure conviene lasciare che sia Paul a scegliere per primo?
+>
+> $\textbf{c.}$ Infine si decide che è Paul a scegliere per primo. Quali dadi ha interesse a scegliere?
+>
+> $\textbf{d.}$ Claire e Paul decidono allora di modificare le regole. Uno dei due sceglie uno dei tre dadi. Poi l’altro prende il dado $D_2$ per primo. Quale dado ha interesse a scegliere Claire, e conviene lasciare che sia l’altro a scegliere per primo?
 > 
-> $\textbf{2.}$ In this question, one supposes that one has three balanced six-faced dice $D_1$, $D_2$ and $D_3$, where the faces of $D_1$ bear the numbers $0$, $0$, $4$, $4$, $4$, $4$; those of $D_2$ bear the numbers $3$, $3$, $3$, $3$, $3$, $3$; and those of $D_3$ bear the numbers $6$, $6$, $2$, $2$, $2$, $2$.
-> $\textbf{a.}$ One throws independently each of the three dice and one denotes respectively by $X_1$, $X_2$ and $X_3$ the numbers indicated by the upper face of the dice $D_1$, $D_2$ and $D_3$. Calculate the three probabilities $\mathbb{P}(X_1 > X_2)$, $\mathbb{P}(X_2 > X_3)$ and $\mathbb{P}(X_3 > X_1)$.
-> $\textbf{b.}$ Claire and Paul play at the following game: one of them begins by choosing a die, then the other chooses one of the two remaining dice. They each throw their die and the one who obtains the larger number wins. Does Claire have an interest in choosing her die before Paul or in letting him choose first?
-> $\textbf{c.}$ Finally, it is decided that it is Paul who chooses first. Which die or dice does he have an interest in choosing?
-> $\textbf{d.}$ Claire and Paul then decide to modify the rules: one of them chooses one of the three dice, then the other takes die $D_2$. Which die does Claire have an interest in choosing?
+> $\textbf{2.}$ In questo problema si suppone di avere tre dadi bilanciati a sei facce $D_1$, $D_2$ e $D_3$, dove le facce di $D_1$ portano i numeri $0$, $0$, $4$, $4$, $4$, $4$; quelle di $D_2$ portano i numeri $3$, $3$, $3$, $3$, $3$, $3$; e quelle di $D_3$ portano i numeri $6$, $6$, $2$, $2$, $2$, $2$.
+>
+> $\textbf{a.}$ Si lanciano indipendentemente i tre dadi e si indicano rispettivamente con $X_1$, $X_2$ e $X_3$ i numeri mostrati dalla faccia superiore dei dadi $D_1$, $D_2$ e $D_3$. Si calcolino le tre probabilità $\mathbb{P}(X_1 > X_2)$, $\mathbb{P}(X_2 > X_3)$ e $\mathbb{P}(X_3 > X_1)$.
+>
+> $\textbf{b.}$ Claire e Paul giocano a un gioco nel seguente modo: uno di loro inizia scegliendo un dado, poi l’altro sceglie uno dei due dadi rimanenti. Ognuno lancia il proprio dado e vince chi ottiene il numero più alto. Claire ha interesse a scegliere il suo dado prima di Paul o preferisce lasciare che sia Paul a scegliere per primo?
+>
+> $\textbf{c.}$ Infine si decide che è Paul a scegliere per primo. Quale dado o dadi ha interesse a scegliere?
+>
+> $\textbf{d.}$ Claire e Paul decidono poi di modificare le regole: uno di loro sceglie uno dei tre dadi, poi l’altro prende il dado $D_2$. Quale dado ha interesse a scegliere Claire?
 > 
 > $\textbf{3.2 The Fibonacci sequence and the urns}$
-> The Fibonacci sequence $(F_n)_{n \ge 0}$ is defined by $F_0 = 0$, $F_1 = 1$ and, for every integer $n \ge 0$,
+> La successione di Fibonacci $(F_n)_{n \ge 0}$ è definita da $F_0 = 0$, $F_1 = 1$ e, per ogni intero $n \ge 0$,
 > $$F_{n+2} = F_{n+1} + F_n.$$
-> $\textbf{1.}$ Show, for every integer $n \ge 3$, that $\sqrt{2}\, F_n < F_{n+1} < 2 F_n$.
-> $\textbf{2.}$ Let $k \ge 4$ be an integer. In this question, one supposes that one has three urns $A$, $B$ and $C$ as well as $3 F_k$ tokens indistinguishable by touch, numbered from $1$ to $3 F_k$. One distributes these tokens in the following manner:
-> $\bullet$ the $F_{k-2}$ tokens of largest numbers are placed in $A$;
-> $\bullet$ the $F_{k-1}$ tokens of largest numbers remaining are placed in $B$;
-> $\bullet$ the $F_k$ tokens of largest numbers remaining are placed in $C$;
-> $\bullet$ the $F_{k-1}$ tokens of largest numbers remaining are placed in $A$;
-> $\bullet$ the $F_{k-2}$ last tokens are placed in $B$.
-> One draws independently one token from each of the urns $A$, $B$ and $C$, one denotes respectively by $X_A$, $X_B$ and $X_C$ the numbers of the tokens drawn in $A$, $B$ and $C$.
-> $\textbf{a.}$ Show the two inequalities $\mathbb{P}(X_A > X_B) \ge \frac{1}{2}$ and $\mathbb{P}(X_B > X_C) \ge \frac{1}{2}$.
-> $\textbf{b.}$ Claire and Paul play at the following game: one of them begins by choosing one of the three urns; then the other player chooses one of the two remaining urns that he contests. They each draw a token from their urn and the one who draws the larger number wins. Does Claire have an interest in choosing her urn before Paul or in letting him choose first?
+> $\textbf{1.}$ Si dimostri che, per ogni intero $n \ge 3$, vale $\sqrt{2}\, F_n < F_{n+1} < 2 F_n$.
+> $\textbf{2.}$ Sia $k \ge 4$ un numero intero. In questo problema si suppone di avere tre urne $A$, $B$ e $C$, nonché $3 F_k$ gettoni indistinguibili al tatto, numerati da $1$ a $3 F_k$. Si distribuiscono i gettoni nel modo seguente:
+> $\bullet$ i $F_{k-2}$ gettoni con i numeri più grandi vengono posti in $A$;
+> $\bullet$ i $F_{k-1}$ gettoni con i numeri più grandi rimanenti vengono posti in $B$;
+> $\bullet$ i $F_k$ gettoni con i numeri più grandi rimanenti vengono posti in $C$;
+> $\bullet$ i $F_{k-1}$ gettoni con i numeri più grandi rimanenti vengono posti in $A$;
+> $\bullet$ gli ultimi $F_{k-2}$ gettoni vengono posti in $B$.
+> Si estrae indipendentemente un gettone da ciascuna delle urne $A$, $B$ e $C$; si indichino rispettivamente con $X_A$, $X_B$ e $X_C$ i numeri dei gettoni estratti da $A$, $B$ e $C$.
+> $\textbf{a.}$ Si dimostrino le due disuguaglianze $\mathbb{P}(X_A > X_B) \ge \frac{1}{2}$ e $\mathbb{P}(X_B > X_C) \ge \frac{1}{2}$.
+> $\textbf{b.}$ Claire e Paul giocano a un gioco nel seguente modo: uno dei due inizia scegliendo una delle tre urne; poi il secondo giocatore sceglie una delle due urne rimanenti che gli si oppone. Ognuno estrae un gettone dalla propria urna e vince chi ha estratto il numero più alto. Claire ha interesse a scegliere la propria urna prima di Paul, oppure conviene lasciare che sia Paul a scegliere per primo?
 > 
 > $\textbf{3.3 Non-transitive urns}$
-> Let $n \ge 3$ be an integer. One has three urns $A$, $B$ and $C$ and $3n$ tokens indistinguishable by touch, numbered from $1$ to $3n$. One distributes the tokens in the three urns so that each urn contains $n$ tokens. One draws then independently one token from each of the three urns, and one denotes respectively by $X_A$, $X_B$ and $X_C$ the numbers of the tokens drawn in $A$, $B$ and $C$. One says that such a distribution is non-transitive when the probabilities $\mathbb{P}(X_A > X_B)$, $\mathbb{P}(X_B > X_C)$ and $\mathbb{P}(X_C > X_A)$ are all strictly greater than $\frac{1}{2}$.
-> $\textbf{1.}$ In this question, one considers a non-transitive distribution of the $3n$ tokens numbered from $1$ to $3n$. One forms three new urns $D$, $E$, $F$: urn $D$ contains the content of the urn $A$, as well as the tokens numbered $3n+1$ and $3n+6$; urn $E$ contains the content of the urn $B$, as well as the tokens numbered $3n+4$ and $3n+5$; urn $F$ contains the content of the urn $C$, as well as the tokens numbered $3n+2$ and $3n+3$. Each of the urns $D$, $E$ and $F$ thus contains $n+2$ tokens. One draws then independently one token from each of the urns $D$, $E$ and $F$, and one denotes respectively by $X_D$, $X_E$ and $X_F$ the numbers of the tokens drawn in $D$, $E$ and $F$.
-> $\textbf{a.}$ Show that the probabilities $\mathbb{P}(X_D > X_E)$, $\mathbb{P}(X_E > X_F)$ and $\mathbb{P}(X_F > X_D)$ are strictly greater than $\frac{1}{2}$.
-> $\textbf{b.}$ Show that each of the probabilities $\mathbb{P}(X_D > X_E)$, $\mathbb{P}(X_E > X_F)$ and $\mathbb{P}(X_F > X_D)$ is strictly greater than $\frac{1}{2}$.
-> $\textbf{2.}$ Let $n \ge 3$ be an integer. One denotes by $\mathscr{N}_n$ the following property: it is possible to distribute $3n$ tokens indistinguishable by touch, numbered from $1$ to $3n$, in three urns $A$, $B$ and $C$ so that the two conditions below are simultaneously satisfied:
-> $\bullet$ Each of the three urns contains $n$ tokens.
-> $\bullet$ If one draws independently one token from each of the urns and denotes respectively by $X_A$, $X_B$ and $X_C$ the numbers of the tokens drawn in $A$, $B$ and $C$, then the probabilities $\mathbb{P}(X_A > X_B)$, $\mathbb{P}(X_B > X_C)$ and $\mathbb{P}(X_C > X_A)$ are strictly greater than $\frac{1}{2}$.
-> $\textbf{a.}$ Show that the properties $\mathscr{N}_3$ and $\mathscr{N}_4$ are true.
-> $\textbf{b.}$ Show, for every integer $n \ge 3$, that the assertion $\mathscr{N}_n$ is true.
+> Sia $n \ge 3$ un intero positivo. Si hanno tre urne $A$, $B$ e $C$ e $3n$ gettoni indistinguibili al tatto, numerati da $1$ a $3n$. Si distribuiscono i gettoni nelle tre urne in modo che ciascuna contenga $n$ gettoni. Si estrae poi indipendentemente un gettone da ciascuna delle tre urne, e si indicano rispettivamente con $X_A$, $X_B$ e $X_C$ i numeri dei gettoni estratti da $A$, $B$ e $C$. Si dice che tale distribuzione è non transitiva quando le probabilità $\mathbb{P}(X_A > X_B)$, $\mathbb{P}(X_B > X_C)$ e $\mathbb{P}(X_C > X_A)$ sono tutte strettamente maggiori di $\frac{1}{2}$.
+>
+> $\textbf{1.}$
+> In questo quesito si considera una distribuzione non transitiva dei $3n$ gettoni numerati da $1$ a $3n$. Si formano tre nuove urne $D$, $E$ e $F$: l’urna $D$ contiene il contenuto dell’urna $A$, nonché i gettoni numerati $3n+1$ e $3n+6$; l’urna $E$ contiene il contenuto dell’urna $B$, nonché i gettoni numerati $3n+4$ e $3n+5$; l’urna $F$ contiene il contenuto dell’urna $C$, nonché i gettoni numerati $3n+2$ e $3n+3$. Ognuna delle urne $D$, $E$ e $F$ contiene quindi $n+2$ gettoni. Si estrae poi indipendentemente un gettone da ciascuna delle urne $D$, $E$ e $F$, e si indicano rispettivamente con $X_D$, $X_E$ e $X_F$ i numeri dei gettoni estratti da $D$, $E$ e $F$.
+>
+> $\textbf{a.}$
+> Si dimostri che le probabilità $\mathbb{P}(X_D > X_E)$, $\mathbb{P}(X_E > X_F)$ e $\mathbb{P}(X_F > X_D)$ sono strettamente maggiori di $\frac{1}{2}$.
+>
+> $\textbf{b.}$
+> Si dimostri che ciascuna delle probabilità $\mathbb{P}(X_D > X_E)$, $\mathbb{P}(X_E > X_F)$ e $\mathbb{P}(X_F > X_D)$ è strettamente maggiore di $\frac{1}{2}$.
+>
+> $\textbf{2.}$
+> Sia $n \ge 3$ un intero positivo. Si indica con $\mathscr{N}_n$ la seguente proprietà: è possibile distribuire $3n$ gettoni indistinguibili al tatto, numerati da $1$ a $3n$, in tre urne $A$, $B$ e $C$ in modo che siano soddisfatte simultaneamente le due condizioni seguenti:
+> $\bullet$ Ognuna delle tre urne contiene $n$ gettoni.
+> $\bullet$ Se si estrae indipendentemente un gettone da ciascuna delle urne e si indicano rispettivamente con $X_A$, $X_B$ e $X_C$ i numeri dei gettoni estratti da $A$, $B$ e $C$, allora le probabilità $\mathbb{P}(X_A > X_B)$, $\mathbb{P}(X_B > X_C)$ e $\mathbb{P}(X_C > X_A)$ sono strettamente maggiori di $\frac{1}{2}$.
+>
+> $\textbf{a.}$
+> Si dimostri che le proprietà $\mathscr{N}_3$ e $\mathscr{N}_4$ sono vere.
+>
+> $\textbf{b.}$
+> Si dimostri, per ogni intero positivo $n \ge 3$, che l’affermazione $\mathscr{N}_n$ è vera.
+
+
 
 [[Quesiti/src_cgen_2019#q03|src_cgen_2019__Q03]]

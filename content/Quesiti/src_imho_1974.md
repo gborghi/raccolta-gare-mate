@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,method_invarianti,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Card game: who received r counters in last round?*
@@ -28,14 +28,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Gioco delle carte: chi ha ricevuto r gettoni nell'ultimo turno?*
 
-Card game: who received r counters in last round?
-
-> Three players $A$, $B$ and $C$ play the following game. On each of three cards an integer is written. These three numbers $p$, $q$, $r$ satisfy $0 < p < q < r$. The three cards are shuffled and one is dealt to each player. Each then receives the number of counters indicated by the card. Then the cards are shuffled again; the counters remaining with the players.
+> Tre giocatori $A$, $B$ e $C$ giocano il seguente gioco. Su ciascuna di tre carte è scritto un numero intero. Questi tre numeri $p$, $q$, $r$ soddisfano $0 < p < q < r$. Le tre carte vengono mescolate e una viene distribuita a ciascun giocatore. Ognuno riceve poi il numero di gettoni indicato dalla carta. Successivamente le carte vengono mescolate nuovamente; i gettoni rimasti con i giocatori.
 > 
-> This process (shuffling, dealing, giving out counters) takes place for at least two rounds. After the last round $A$ has 20 counters in all, $B$ has 10 and $C$ has 9. At the last round $B$ received $r$ counters. Who received $r$ counters on the first round?
+> Questo processo (mescolamento, distribuzione, consegna dei gettoni) si svolge per almeno due turni. Dopo l'ultimo turno, $A$ ha in totale 20 gettoni, $B$ ne ha 10 e $C$ ne ha 9. Nell'ultimo turno, $B$ ha ricevuto $r$ gettoni. Chi ha ricevuto $r$ gettoni nel primo turno?
+
+
 
 [[Quesiti/src_imho_1974#q01|src_imho_1974__Q01]]
 
@@ -43,7 +44,7 @@ Card game: who received r counters in last round?
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Geometric mean condition via sine inequality in triangle ABC*
@@ -58,12 +59,14 @@ Card game: who received r counters in last round?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Condizione della media geometrica tramite disuguaglianza seno nel triangolo ABC*
+
+> Nel triangolo $ABC$, si dimostri che esiste un punto $D$ sul lato $AB$ tale che $CD$ sia la media geometrica di $AD$ e $DB$ se e solo se
+> $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
 
 
-*Geometric mean condition by sine inequality in triangle ABC*
-
-> In the $ABC$ triangle, prove that there is a point $D$ on side $AB$ such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
 
 [[Quesiti/src_imho_1974#q02|src_imho_1974__Q02]]
 
@@ -71,7 +74,7 @@ Card game: who received r counters in last round?
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Sum involving binomial coefficients not divisible by 5*
@@ -85,12 +88,13 @@ Card game: who received r counters in last round?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Somma con coefficienti binomiali non divisibili per 5*
+
+> Si dimostri che il numero $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ non è divisibile per 5 per nessun intero $n \ge 0$.
 
 
-Sum involving binomial coefficients not divisible by 5
-
-> Prove that the number $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ is not divisible by 5 for any integer $n \ge 0$.
 
 [[Quesiti/src_imho_1974#q03|src_imho_1974__Q03]]
 
@@ -98,7 +102,7 @@ Sum involving binomial coefficients not divisible by 5
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Chessboard decomposition into rectangles, maximum white squares*
@@ -115,12 +119,16 @@ Sum involving binomial coefficients not divisible by 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Scomposizione della scacchiera in rettangoli, massimo numero di caselle bianche*
+
+> Si considerino le decomposizioni di una scacchiera $8 \times 8$ in $p$ rettangoli non sovrapposti, soggette alle seguenti condizioni:
+> (i) Ogni rettangolo ha lo stesso numero di caselle bianche e nere.
+> (ii) Se $a_i$ è il numero di caselle bianche nel rettangolo $i$-esimo, allora $a_1 < a_2 < \cdots < a_p$.
+> Determinare il massimo valore di $p$ per cui tale decomposizione è possibile. Per questo valore di $p$, determinare tutte le possibili successioni $a_1, a_2, \ldots, a_p$.
 
 
-Chessboard decomposition into rectangles, maximum white squares
-
-> Consider decompositions of an $8 \times 8$ chessboard into $p$ non-overlapping rectangles subject to the following conditions: (i) Each rectangle has as many white squares as black squares. If $a_i$ is the number of white squares in the $i$-th rectangle, then $a_1 < a_2 < \cdots < a_p$. Find the maximum value of $p$ for which such a decomposition is possible. For this value of $p$, determine all possible sequences $a_1, a_2, \ldots, a_p$.
 
 [[Quesiti/src_imho_1974#q04|src_imho_1974__Q04]]
 
@@ -128,7 +136,7 @@ Chessboard decomposition into rectangles, maximum white squares
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all possible values of a cyclic sum of four fractions*
@@ -144,12 +152,15 @@ Chessboard decomposition into rectangles, maximum white squares
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutti i possibili valori di una somma ciclica di quattro frazioni*
+
+> Determinare tutti i possibili valori di
+> $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$
+> dove $a, b, c, d$ sono numeri positivi arbitrari.
 
 
-Find all possible values of a cyclic sum of four fractions
-
-> Determine all possible values of $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$ where $a, b, c, d$ are arbitrary positive numbers.
 
 [[Quesiti/src_imho_1974#q05|src_imho_1974__Q05]]
 
@@ -157,7 +168,7 @@ Find all possible values of a cyclic sum of four fractions
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Bound on integers where polynomial squares equal 1*
@@ -171,11 +182,12 @@ Find all possible values of a cyclic sum of four fractions
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Limite sugli interi per cui il quadrato del polinomio vale 1*
+
+> Sia $P$ un polinomio non costante a coefficienti interi. Se $n(P)$ è il numero di interi distinti $k$ tali che $(P(k))^2 = 1$, si dimostri che $n(P) - \deg(P) \le 2$, dove $\deg(P)$ indica il grado del polinomio $P$.
 
 
-*Bound on integers where polynomial squares equal 1*
-
-> Let $P$ be a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such that $(P(k))^2 = 1$, prove that $n(P) - \deg(P) \le 2$, where $\deg(P)$ denotes the degree of the polynomial $P$.
 
 [[Quesiti/src_imho_1974#q06|src_imho_1974__Q06]]

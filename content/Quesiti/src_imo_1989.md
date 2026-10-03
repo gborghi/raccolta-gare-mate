@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Partition 1..1989 into 117 equal-sum 17-element subsets*
@@ -30,12 +30,16 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Suddividere l'insieme 1..1989 in 117 sottoinsiemi di 17 elementi ciascuno con la stessa somma*
+
+> Si dimostri che l'insieme {1, 2, ..., 1989} può essere espresso come unione disgiunta di sottoinsiemi Ai (i = 1, 2, ..., 117) tali che:
+>
+> (i) ciascun Ai contiene 17 elementi;
+> (ii) la somma di tutti gli elementi in ciascun Ai è la stessa.
 
 
-Partition 1..1989 into 117 equal-sum 17-element subsets
-
-> Prove that the set {1, 2, . . . , 1989} can be expressed as the disjoint union of subsets Ai (i = 1, 2, . . . , 117) such that: (i) Each Ai contains 17 elements; (ii) The sum of all the elements in each Ai is the same.
 
 [[Quesiti/src_imo_1989#q01|src_imo_1989__Q01]]
 
@@ -43,7 +47,7 @@ Partition 1..1989 into 117 equal-sum 17-element subsets
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Bisector-defined triangle area at least four times ABC*
@@ -65,12 +69,17 @@ Partition 1..1989 into 117 equal-sum 17-element subsets
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Area del triangolo definito dalla bisettrice almeno quattro volte ABC*
+
+> In un triangolo acutangolo ABC, la bisettrice interna dell’angolo A incontra nuovamente la circonferenza circoscritta del triangolo in A₁. I punti B₁ e C₁ sono definiti analogamente. Sia A₀ il punto di intersezione della retta AA₁ con le bisettrici esterne degli angoli B e C. I punti B₀ e C₀ sono definiti analogamente. Si dimostri che:
+>
+> (i) L’area del triangolo A₀B₀C₀ è il doppio dell’area dell’esagono AC₁BA₁CB₁.
+>
+> (ii) L’area del triangolo A₀B₀C₀ è almeno quattro volte l’area del triangolo ABC.
 
 
-*Bisector-defined triangle area at least four times ABC*
-
-> In an acute-angled triangle ABC the internal bisector of angle A meets the circumcircle of the triangle again at A1. Points B1 and C1 are defined similarly. Let A0 be the point of intersection of the line AA1 with the external bisectors of angles B and C. Points B0 and C0 are defined similarly. Prove that: (i) The area of the triangle A0B0C0 is twice the area of the hexagon AC1BA1CB1. (ii) The area of triangle A0B0C0 is at least four times the area of triangle ABC.
 
 [[Quesiti/src_imo_1989#q02|src_imo_1989__Q02]]
 
@@ -78,7 +87,7 @@ Partition 1..1989 into 117 equal-sum 17-element subsets
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_doppio_conteggio"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Equidistant-points configuration bound k<1/2+sqrt(2n)*
@@ -105,14 +114,27 @@ Partition 1..1989 into 117 equal-sum 17-element subsets
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Limite per configurazioni con punti equidistanti: k<1/2+sqrt(2n)*
 
-The following information is provided by the manufacturer:
-
-> Let n and k be positive integers and let S be a set of n points in the plane such that (i) No three points of S are collinear, and (ii) For any point P of S there are at least k points of S equidistant from P. Prove that: k < 1 2 + √ 2n.
+> Siano n e k interi positivi e sia S un insieme di n punti del piano tale
+> che
+> (i)
+> non vi siano tre punti di S allineati, e
+> (ii)
+> per ogni punto P di S vi siano almeno k punti di S equidistanti da P.
+> Si dimostri che:
+> k < 1
+> 2 +
+> √
+> 2n.
 > 
-> 30th International Mathematical Olympiad Braunschweig, Germany Day II
+> XXX Olimpiade Internazionale di Matematica
+> Braunschweig, Germania
+> Giorno II
+
+
 
 [[Quesiti/src_imo_1989#q03|src_imo_1989__Q03]]
 
@@ -120,7 +142,7 @@ The following information is provided by the manufacturer:
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Convex quadrilateral distance inequality with interior point P*
@@ -147,12 +169,27 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Disuguaglianza sulle distanze in un quadrilatero convesso con punto interno P*
+
+> Sia ABCD un quadrilatero convesso tale che i lati AB, AD, BC soddisfino
+> AB = AD + BC. Esiste un punto P interno al quadrilatero, a distanza
+> h dalla retta CD, tale che AP = h + AD e BP = h + BC. Si dimostri che:
+> 1
+> √
+> h
+> ≥
+> 1
+> √
+> AD
+> +
+> 1
+> √
+> BC
+> .
 
 
-Convex quadrilateral distance inequality with interior point P*
-
-> Let ABCD be a convex quadrilateral such that the sides AB, AD, BC satisfy AB = AD + BC. There exists a point P inside the quadrilateral at a distance h from the line CD such that AP = h + AD and BP = h + BC. Show that: 1 √ h ≥ 1 √ AD + 1 √ BC .
 
 [[Quesiti/src_imo_1989#q04|src_imo_1989__Q04]]
 
@@ -160,7 +197,7 @@ Convex quadrilateral distance inequality with interior point P*
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *n consecutive integers none a prime power*
@@ -174,12 +211,14 @@ Convex quadrilateral distance inequality with interior point P*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*n interi consecutivi nessuno potenza di primo*
+
+> Si dimostri che per ogni intero positivo n esistono n interi positivi consecutivi
+> nessuno dei quali è una potenza (con esponente intero) di un numero primo.
 
 
-*n consecutive integers none at prime power *
-
-> Prove that for every positive integer n there exist n consecutive positive integers none of which is an integral power of a prime number.
 
 [[Quesiti/src_imo_1989#q05|src_imo_1989__Q05]]
 
@@ -187,7 +226,7 @@ Convex quadrilateral distance inequality with interior point P*
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_bigezione,method_conteggio"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *More permutations of 1..2n with property P than without*
@@ -203,11 +242,15 @@ Convex quadrilateral distance inequality with interior point P*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Più permutazioni di 1..2n con proprietà P che senza*
+
+> Una permutazione (x1, x2, . . . , xm) dell'insieme {1, 2, . . . , 2n}, dove n è un intero
+> positivo, si dice che ha la proprietà P se |xi −xi+1| = n per almeno un i in
+> {1, 2, . . . , 2n −1}. Si dimostri che, per ogni n, le permutazioni con la
+> proprietà P sono più di quelle senza.
 
 
-*More permutations of 1..2n with property P than without*
-
-> A permutation (x1, x2, . . . , xm) of the set {1, 2, . . . , 2n}, where n is a positive integer, is said to have property P if xxi −xi+1 = n for at least one i in {1, 2, . . . , 2n −1}. Show that, for each n, there are more permutations with property P than without.
 
 [[Quesiti/src_imo_1989#q06|src_imo_1989__Q06]]

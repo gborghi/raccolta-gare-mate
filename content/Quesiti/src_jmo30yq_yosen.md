@@ -27,14 +27,15 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Contare i multipli di 7 che sono 4 volte un quadrato perfetto, fino a 10^9*
 
-*Count multiples of 7 that are 4 times a perfect square up to 10^9*
-
-> How many positive multiples of $7$ that do not exceed $10^9$ are of the form $4k^2$ for some positive integer $k$?
+> Quanti multipli positivi di $7$ che non superano $10^9$ sono della forma $4k^2$ per qualche intero positivo $k$?
 
 **Risposta:** 14
+
+
 [[Quesiti/src_jmo30yq_yosen#q01|src_jmo30yq_yosen__Q01]]
 
 

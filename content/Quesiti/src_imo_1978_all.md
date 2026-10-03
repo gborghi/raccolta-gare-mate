@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Minimize m+n with equal last three digits of 1978^m,1978^n*
@@ -25,12 +25,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Minimizzare m+n con gli ultimi tre cifre uguali di 1978^m, 1978^n*
+
+> Siano $m$ e $n$ numeri naturali con $1 \leq m < n$. Nelle rispettive rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono uguali, rispettivamente, alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ abbia il valore minimo.
 
 
-Minimize m+n with equal last three digits of 1978^m,1978^n*
-
-> Let $m$ and $n$ be natural numbers with $1 \leq m < n$. In their decimal representations, the last three digits of $1978^m$ are equal, respectively, to the last three digits of $1978^n$. Find $m$ and $n$ such that $m + n$ has its least value.
 
 [[Quesiti/src_imo_1978_all#q01|src_imo_1978_all__Q01]]
 
@@ -38,7 +39,7 @@ Minimize m+n with equal last three digits of 1978^m,1978^n*
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Locus of opposite vertex Q of perpendicular rays in sphere*
@@ -51,12 +52,13 @@ Minimize m+n with equal last three digits of 1978^m,1978^n*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Luogo del vertice opposto Q di raggi perpendicolari nella sfera*
+
+> Sia $P$ un punto fisso interno a una sfera data. Tre raggi mutuamente perpendicolari uscenti da $P$ intersecano la sfera nei punti $U$, $V$ e $W$; sia $Q$ il vertice diagonalmente opposto a $P$ nel parallelepipedo individuato da $PU$, $PV$ e $PW$. Si determini il luogo descritto da $Q$ al variare di tali terne di raggi uscenti da $P$.
 
 
-*Locus of opposite vertex Q of perpendicular rays in sphere*
-
-> $P$ is a given point inside a given sphere. Three mutually perpendicular rays from $P$ intersect the sphere at points $U$, $V$, and $W$; $Q$ denotes the vertex diagonally opposite to $P$ in the parallelpiped determined by $PU$, $PV$, and $PW$. Find the locus of $Q$ for all such triads of rays from $P$.
 
 [[Quesiti/src_imo_1978_all#q02|src_imo_1978_all__Q02]]
 
@@ -64,7 +66,7 @@ Minimize m+n with equal last three digits of 1978^m,1978^n*
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_aritmetica,method_fattorizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *find f(240)*
@@ -82,12 +84,18 @@ Minimize m+n with equal last three digits of 1978^m,1978^n*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare f(240)*
+
+> L'insieme di tutti gli interi positivi è l'unione di due sottoinsiemi disgiunti $\{f(1), f(2), \ldots, f(n), \ldots\}$ e $\{g(1), g(2), \ldots, g(n), \ldots\}$, dove
+> $$f(1) < f(2) < \cdots < f(n) < \cdots,$$
+> $$g(1) < g(2) < \cdots < g(n) < \cdots,$$
+> e
+> $$g(n) = f(f(n)) + 1 \quad \text{for all } n \geq 1.$$
+> Determinare $f(240)$.
 
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-
-> The set of all positive integers is the union of two disjoint subsets $\{f(1), f(2), \ldots, f(n), \ldots\}$ and $\{g(1), g(2), \ldots, g(n), \ldots\}$, where $$f(1) < f(2) < \cdots < f(n) < \cdots,$$ $$g(1) < g(2) < \cdots < g(n) < \cdots,$$ and $$g(n) = f(f(n)) + 1 \quad \text{for all } n \geq 1.$$ Determine $f(240)$.
 
 [[Quesiti/src_imo_1978_all#q03|src_imo_1978_all__Q03]]
 
@@ -95,7 +103,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Midpoint of tangency chord PQ is incircle center*
@@ -109,12 +117,13 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Punto medio della corda dei punti di tangenza PQ è il centro della circonferenza inscritta*
+
+> Nel triangolo $ABC$, $AB = AC$. Una circonferenza è tangente internamente alla circonferenza circoscritta al triangolo $ABC$ e inoltre tangente ai lati $AB$, $AC$ nei punti $P$, $Q$ rispettivamente. Si dimostri che il punto medio del segmento $PQ$ è l'incentro del triangolo $ABC$.
 
 
-*Midpoint of tangency chord PQ is incircle center*
-
-> In the $ABC$ triangle, $AB = AC$. A circle is tangent internally to the circumcircle of triangle $ABC$ and also to sides $AB$, $AC$ at $P$, $Q$, respectively. Prove that the midpoint of segment $PQ$ is the center of the incircle of triangle $ABC$.
 
 [[Quesiti/src_imo_1978_all#q04|src_imo_1978_all__Q04]]
 
@@ -122,7 +131,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *sum a_k/k^2 >= sum 1/k*
@@ -136,12 +145,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*somma da k=1 a n di a_k / k^2 >= somma da k=1 a n di 1/k*
+
+> Siano $\{a_k\}$ ($k = 1, 2, 3, \ldots$) due successioni di interi positivi distinti. Si dimostri che per ogni numero naturale $n$,
+> $$\sum_{k=1}^{n} \frac{a_k}{k^2} \geq \sum_{k=1}^{n} \frac{1}{k}.$$
 
 
-*sum a_k/k^2 >= sum 1/k*
-
-> Let $\{a_k\}$ ($k = 1, 2, 3, \ldots$) be a sequence of distinct positive integers. Prove that for all natural numbers
 
 [[Quesiti/src_imo_1978_all#q05|src_imo_1978_all__Q05]]
 
@@ -149,7 +160,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_cassetti"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Member whose number is sum/double of same-country members*
@@ -162,11 +173,12 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Membro il cui numero è somma/doppio dei membri dello stesso paese*
+
+> Un'associazione internazionale ha membri provenienti da sei paesi diversi. L'elenco dei membri contiene 1978 nomi, numerati $1, 2, \ldots, 1978$. Si dimostri che esiste almeno un membro il cui numero è uguale alla somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro dello stesso paese.
 
 
-Member whose number is sum/double of same-country members
-
-> An international society has its members from six different countries. The list of members contains 1978 names, numbered $1, 2, \ldots, 1978$. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.
 
 [[Quesiti/src_imo_1978_all#q06|src_imo_1978_all__Q06]]

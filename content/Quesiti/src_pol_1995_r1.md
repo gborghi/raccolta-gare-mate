@@ -195,13 +195,15 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Esistenza di una funzione differenziabile f tale che 2f·f'=0 oppure |2f·f'|≤1*
+
+> (a) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $2f(x) \cdot f'(x) = 0$ per ogni numero reale $x$?
+>
+> (b) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $-1 \le 2f(x) \cdot f'(x) \le 1$ per ogni numero reale $x$?
 
 
-*Existence of differentiable f with 2f·f'=0 or |2f·f'|≤1*
-
-> (a) Does there exist a differentiable function $f : \mathbb{R} \to \mathbb{R}$, not identically equal to $0$, such that $2f(x) \cdot f'(x) = 0$ for all real $x$?
-> (b) Does there exist a differentiable function $f : \mathbb{R} \to \mathbb{R}$, not identically equal to $0$, such that $-1 \le 2f(x) \cdot f'(x) \le 1$ for all real $x$?
 
 [[Quesiti/src_pol_1995_r1#q07|src_pol_1995_r1__Q07]]
 

@@ -84,12 +84,12 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Massimo numero di membri della tribù rossa in un cerchio in cui 48 persone su 100 dicono che il vicino di destra è un bugiardo*
 
-Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il vicino giusto è un bugiardo
+> Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, $100$ persone si sono radunate in cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" In seguito si è verificato che $48$ persone avevano risposto "sì". Al massimo, quante persone della tribù rossa (i bugiardi) potrebbero esserci nel cerchio?
 
-> Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, le persone si sono radunate in un cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" Quante persone della tribù rossa (i bugiardi) potrebbero essere nel cerchio?
 
 [[Quesiti/src_obm_2011_n1_f2#q03|src_obm_2011_n1_f2__Q03]]
 

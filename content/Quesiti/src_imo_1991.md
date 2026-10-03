@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Bound product of incenter-vertex over bisector ratios*
@@ -33,12 +33,21 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Prodotto limitato dei rapporti tra distanza incentro-vertice e bisettrice*
+
+> Dato un triangolo ABC, sia I il centro della sua circonferenza inscritta.
+> Le bisettrici interne degli angoli A, B, C incontrano i lati opposti in
+> A′, B′, C′ rispettivamente. Si dimostri che
+> 1
+> 4 <
+> AI · BI · CI
+> AA′ · BB′ · CC′ ≤
+> 8
+> 27.
 
 
-Bound product of incenter-vertex over bisector ratios
-
-> Given a triangle ABC, let me be the center of its inscribed circle. The internal bisectors of the angles A, B, C meet the opposite sides in A′, B′, C′ respectively. Prove that 1 4 < AI · BI · CI AA ′ · BB ′ · CC ′ ≤ 8 27.
 
 [[Quesiti/src_imo_1991#q01|src_imo_1991__Q01]]
 
@@ -46,7 +55,7 @@ Bound product of incenter-vertex over bisector ratios
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Equally-spaced totatives imply n prime or power of 2*
@@ -62,12 +71,16 @@ Bound product of incenter-vertex over bisector ratios
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Totativi equamente spaziati implicano n primo o potenza di 2*
+
+> Sia n > 6 un intero e siano a1, a2, . . . , ak tutti i numeri naturali
+> minori di n e primi con n. Se
+> a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0,
+> si dimostri che n è un numero primo oppure una potenza di 2.
 
 
-Equally spaced totatives imply n prime or power of 2
-
-> Let n > 6 be an integer and a1, a2, . . . , ak be all the natural numbers less than n and relatively prime to n. If a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0, prove that n must be either a prime number or a power of 2.
 
 [[Quesiti/src_imo_1991#q02|src_imo_1991__Q02]]
 
@@ -75,7 +88,7 @@ Equally spaced totatives imply n prime or power of 2
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_cassetti,method_estremalita"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Smallest n forcing five pairwise coprime numbers in subset*
@@ -93,12 +106,17 @@ Equally spaced totatives imply n prime or power of 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Più piccolo n che forza cinque numeri a due a due coprimi in un sottoinsieme*
+
+> Sia S = {1, 2, 3, ..., 280}. Determinare il più piccolo intero n tale che ogni sottoinsieme di S formato da n elementi contenga cinque numeri a due a due primi tra loro.
+>
+> Secondo giorno
+> 18 luglio 1991
+> Tempo a disposizione: 4½ ore
 
 
-*Smallest n forcing five pairwise coprime numbers in subset*
-
-> Let S = {1, 2, 3, . . . , 280}. Find the smallest integer n such that each nelement subset of S contains five numbers which are pairwise relatively prime. Second Day July 18, 1991 Time limit: 41 2 hours
 
 [[Quesiti/src_imo_1991#q03|src_imo_1991__Q03]]
 

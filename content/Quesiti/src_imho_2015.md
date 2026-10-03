@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Balanced and centre-free finite point sets in the plane*
@@ -30,16 +30,17 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Insinsiemi finiti bilanciati e senza centro nel piano*
 
-*Balanced and centre-free finite point sets in the plane*
-
-> We say that a finite set of points in the plane is balanced if, for any two different points $A$ and $B$ in $\mathcal{S}$, there is a point $C$ in $\mathcal{S}$ such that $AC = BC$. We say that $\mathcal{S}$ is centre-free if for any three different points $A$, $B$ and $C$ in $\mathcal{S}$, there is no point $P$ in $\mathcal{S}$ such that $PA = PB = PC$.
+> Chiamiamo un insieme finito $\mathcal{S}$ di punti nel piano bilanciato se, per ogni coppia di punti distinti $A$ e $B$ in $\mathcal{S}$, esiste un punto $C$ in $\mathcal{S}$ tale che $AC = BC$. Chiamiamo invece $\mathcal{S}$ privo di centro se, per ogni terna di punti distinti $A$, $B$ e $C$ in $\mathcal{S}$, non esiste alcun punto $P$ in $\mathcal{S}$ tale che $PA = PB = PC$.
 > 
-> (a) Show that for all integers $n \ge 3$, there exists a balanced centre-free set consisting of $n$ points.
+> (a) Si dimostri che per ogni intero $n \ge 3$ esiste un insieme bilanciato e privo di centro formato da $n$ punti.
 > 
-> (b) Determine the integers $n \ge 3$ for which there exists a balanced centre-free set consisting of $n$ points.
+> (b) Determinare tutti gli interi $n \ge 3$ per i quali esiste un insieme bilanciato privo di centro formato da $n$ punti.
+
+
 
 [[Quesiti/src_imho_2015#q01|src_imho_2015__Q01]]
 
@@ -47,7 +48,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *All triples where ab-c, bc-a, ca-b are powers of 2*
@@ -65,14 +66,17 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Tutte le terne in cui ab−c, bc−a, ca−b sono potenze di 2*
 
-All triples where ab-c, bc-a, ca-b are powers of 2
-
-> Determine the triples $(a, b, c)$ of positive integers such that each of the numbers $$ab - c, \quad bc - a, \quad ca - b$$ is a power of $2$.
+> Determinare tutte le terne $(a, b, c)$ di interi positivi tali che ciascuno dei numeri
+> $$ab - c, \quad bc - a, \quad ca - b$$
+> sia una potenza di $2$.
 > 
-> (A power of $2$ is an integer of the form $2^n$, where $n$ is a non-negative integer.)
+> (Potenza di $2$ è un intero della forma $2^n$, dove $n$ è un numero intero non negativo.)
+
+
 
 [[Quesiti/src_imho_2015#q02|src_imho_2015__Q02]]
 
@@ -80,7 +84,7 @@ All triples where ab-c, bc-a, ca-b are powers of 2
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Circumcircles of KQH and FKM are tangent to each other*
@@ -96,14 +100,15 @@ All triples where ab-c, bc-a, ca-b are powers of 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Le circonferenze circoscritte ai triangoli KQH e FKM sono tangenti tra loro*
 
-Circumcircles of KQH and FKM are tangent to each other
-
-> Let $ABC$ be an acute triangle with $AB > AC$. Let $\Gamma$ be its circumcircle, $H$ its orthocentre, and $F$ the foot of the altitude from $A$. Let $M$ be the midpoint of $BC$. Let $Q$ be the point on $\Gamma$ such that $\angle HQA = 90^\circ$, and let $K$ be the point on $\Gamma$ such that $\angle HKQ = 90^\circ$. Assumes that the points $A$, $B$, $C$, $K$ and $Q$ are all different, and lie on $\Gamma$ in this order.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $\Gamma$ la sua circonferenza circoscritta, $H$ il suo ortocentro e $F$ il piede dell'altezza da $A$. Sia $M$ il punto medio di $BC$. Sia $Q$ il punto su $\Gamma$ tale che $\angle HQA = 90^\circ$, e sia $K$ il punto su $\Gamma$ tale che $\angle HKQ = 90^\circ$. Si assuma che i punti $A$, $B$, $C$, $K$ e $Q$ siano tutti distinti e giacciano su $\Gamma$ in quest'ordine.
 > 
-> Prove that the circumcircles of triangles $KQH$ and $FKM$ are tangent to each other.
+> Si dimostri che le circonferenze circoscritte ai triangoli $KQH$ e $FKM$ sono tangenti tra loro.
+
+
 
 [[Quesiti/src_imho_2015#q03|src_imho_2015__Q03]]
 
@@ -111,7 +116,7 @@ Circumcircles of KQH and FKM are tangent to each other
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Lines FK and GL meet at X lying on line AO*
@@ -127,14 +132,15 @@ Circumcircles of KQH and FKM are tangent to each other
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Le rette FK e GL si incontrano in X, che appartiene alla retta AO*
 
-Lines FK and GL meet at X lying on line AO*
-
-> Triangle $ABC$ has circumcircle $\Omega$ and circumcentre $O$. A circle $\Gamma$ with centre $A$ intersects the segment $BC$ at points $D$ and $E$, such that $B$, $D$, $E$ and $C$ are all different and lie on line $BC$ in this order. Let $F$ and $G$ be the points of intersection of $\Gamma$ and $\Omega$, such that $A$, $F$, $B$, $C$ and $G$ lie on $\Omega$ in this order. Let $K$ be the second point of intersection of the circumcircle of triangle $BDF$ and the segment $AB$. Let $L$ be the second point of intersection of the circumcircle of triangle $CGE$ and the segment $CA$.
+> Il triangolo $ABC$ ha circonferenza circoscritta $\Omega$ e circocentro $O$. Una circonferenza $\Gamma$ di centro $A$ interseca il segmento $BC$ nei punti $D$ e $E$, tali che $B$, $D$, $E$ e $C$ siano tutti distinti e giacciano sulla retta $BC$ in quest'ordine. Siano $F$ e $G$ i punti di intersezione delle circonferenze $\Gamma$ e $\Omega$, tali che $A$, $F$, $B$, $C$ e $G$ giacciano sulla circonferenza $\Omega$ in quest'ordine. Sia $K$ il secondo punto di intersezione della circonferenza circoscritta al triangolo $BDF$ e del segmento $AB$. Sia $L$ il secondo punto di intersezione della circonferenza circoscritta al triangolo $CGE$ e del segmento $CA$.
 > 
-> Suppose that the lines $FK$ and $GL$ are different and intersect at the point $X$. Prove that $X$ lies on the line $AO$.
+> Siano le rette $FK$ e $GL$ diverse tra loro e che si intersechino nel punto $X$. Si dimostri che il punto $X$ appartiene alla retta $AO$.
+
+
 
 [[Quesiti/src_imho_2015#q04|src_imho_2015__Q04]]
 
@@ -142,7 +148,7 @@ Lines FK and GL meet at X lying on line AO*
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all real functions satisfying f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
@@ -158,12 +164,16 @@ Lines FK and GL meet at X lying on line AO*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le funzioni reali che soddisfano
+f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
+
+> Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano l'equazione
+> $$f(x + f(x + y)) + f(xy) = x + f(x + y) + yf(x)$$
+> per tutti i numeri reali $x$ e $y$.
 
 
-*Find the real functions satisfying f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
-
-> Let $\mathbb{R}$ be the set of real numbers. Determine the functions $f : \mathbb{R} \to \mathbb{R}$ satisfying the equation $$f(x + f(x + y)) + f(xy) = x + f(x + y) + yf(x)$$ for all real numbers $x$ and $y$.
 
 [[Quesiti/src_imho_2015#q05|src_imho_2015__Q05]]
 
@@ -171,7 +181,7 @@ Lines FK and GL meet at X lying on line AO*
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_induzione,skill_stima,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Integer sequence satisfying two conditions; bound sum of deviations*
@@ -193,17 +203,20 @@ Lines FK and GL meet at X lying on line AO*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Successione di interi che soddisfa due condizioni; limite della somma delle deviazioni*
+
+> La successione $a_1, a_2, \ldots$ di interi soddisfa le seguenti condizioni:
+> 
+> (i) $1 \le a_j \le 2015$ per ogni $j \ge 1$;
+> 
+> (ii) $k + a_k \ne \ell + a_\ell$ per ogni $1 \le k < \ell$.
+> 
+> Si dimostri che esistono due numeri interi positivi $b$ e $N$ tali che
+> $$\left| \sum_{j=m+1}^{n} (a_j - b) \right| \le 1007^2$$
+> per ogni coppia di numeri interi $m$ e $n$ che soddisfano $n > m \ge N$.
 
 
-*Integer sequence satisfying two conditions; bound sum of deviations*
-
-> The sequence $a_1, a_2, \ldots$ of integers satisfies the following conditions:
-> 
-> (i) $1 \le a_j \le 2015$ for all $j \ge 1$;
-> 
-> (ii) $k + a_k \ne \ell + a_\ell$ for all $1 \le k < \ell$.
-> 
-> Prove that there exist two positive integers $b$ and $N$ such that $$\left| \sum_{j=m+1}^{n} (a_j - b) \right| \le 1007^2$$ for all integers $m$ and $n$ satisfying $n > m \ge N$.
 
 [[Quesiti/src_imho_2015#q06|src_imho_2015__Q06]]
