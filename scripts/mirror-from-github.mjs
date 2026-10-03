@@ -22,16 +22,17 @@ if (SRC.startsWith("git:")) {
   fs.rmSync(path.join(tmp, ".git"), { recursive: true, force: true })
 } else {
   const base = SRC.replace(/\/?$/, "/")
-  const get = async (rel, tries = 4) => {
+  const get = async (rel, tries = 10) => {
     const [rp, q] = rel.split("?")
     const url = base + rp.split("/").map(encodeURIComponent).join("/") + (q ? "?" + q : "")
     for (let i = 0; i < tries; i++) {
       try {
         const r = await fetch(url, { headers: { "Accept-Encoding": "identity", "Cache-Control": "no-cache" } })
         if (r.ok) return Buffer.from(await r.arrayBuffer())
-        if (r.status === 404) throw new Error(`404 ${url}`)
-      } catch (e) { if (i === tries - 1) throw e }
-      await new Promise((s) => setTimeout(s, 1500 * (i + 1)))
+        if (r.status === 404 && i >= 2) throw new Error(`404 ${url}`)
+        if (i >= 3) console.log(`[mirror] retry ${i + 1}/${tries} HTTP ${r.status} ${url}`)
+      } catch (e) { if (i === tries - 1 || String(e.message).startsWith("404 ")) throw e }
+      await new Promise((s) => setTimeout(s, Math.min(30000, 2000 * 2 ** i)))
     }
     throw new Error(`failed ${url}`)
   }
@@ -69,7 +70,7 @@ if (SRC.startsWith("git:")) {
       if (++done % 500 === 0) console.log(`[mirror] ${done} files`)
     }
   }
-  await Promise.all(Array.from({ length: 16 }, worker))
+  await Promise.all(Array.from({ length: 8 }, worker))
   if (bad.length) { console.error(`[mirror] ${bad.length} files changed while copying (GitHub mid-deploy?):`, bad.slice(0, 10)); process.exit(1) }
   fs.writeFileSync(path.join(tmp, "mirror-manifest.json"), manBuf)
   console.log(`[mirror] ${done} files verified from ${base}`)
