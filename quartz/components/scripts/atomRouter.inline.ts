@@ -154,6 +154,25 @@ function build(reader: HTMLElement) {
   }
   toc.append(tocList)
 
+  // Problems moved out of this gara (e.g. 2026-10: Kangourou team finals split out of
+  // the individual finals) keep their old deep links: static/redirects.json "atoms"
+  // maps "<gara stem>" -> { qNN: "<new gara stem>#qMM" }. Fetched only when the URL
+  // asks for an atom this page does not have. Gara pages sit next to each other in
+  // Quesiti/, so the target is a sibling-relative URL.
+  function redirectMoved(id: string) {
+    const stem = (reader.dataset.gara || "").split("/").pop() || ""
+    if (!stem) return
+    const slug = document.body.dataset.slug || ""
+    const prefix = "../".repeat((slug.match(/\//g) || []).length)
+    fetch(prefix + "static/redirects.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((m) => {
+        const to = m?.atoms?.[stem]?.[id]
+        if (to && decodeURIComponent(location.hash.slice(1)) === id) location.replace(to)
+      })
+      .catch(() => {})
+  }
+
   // ---- rendering ----
   let shownId = order[0] // the atom currently displayed (drives prev/next)
   function idx(id: string) {
@@ -194,8 +213,12 @@ function build(reader: HTMLElement) {
   }
   function go(id: string, push: boolean) {
     // atom ids are flat (q01) -- there is no chapter/aggregate id to resolve, so
-    // an unknown id just lands on the first atom.
-    if (!byId.has(id)) id = order[0]
+    // an unknown id just lands on the first atom (and, if the problem was moved to
+    // another gara, the page then forwards there -- see redirectMoved()).
+    if (!byId.has(id)) {
+      if (id && !push) redirectMoved(id)
+      id = order[0]
+    }
     render(id)
     if (push && location.hash.slice(1) !== id) history.pushState(null, "", `#${id}`)
     shell.classList.remove("toc-open")

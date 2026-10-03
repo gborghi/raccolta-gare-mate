@@ -1,12 +1,12 @@
 ---
-title: Kangourou 2019 Finale Nazionale Ecolier
+title: Kangourou Coppa Squadre Ecolier 2019 Finale
 tipo: gara
-competition: Kangourou 2019 Finale Nazionale Ecolier
+competition: Kangourou Coppa Squadre Ecolier 2019 Finale
 family: kangourou
 year: '2019'
-level: kangourou
+level: squadre
 ---
-<div class="atom-reader" data-gara="Quesiti/src_kangourou_2019_ecolier_finale"></div>
+<div class="atom-reader" data-gara="Quesiti/src_kangourou_2019_squadre_ecolier_f"></div>
 
 
 
@@ -36,7 +36,7 @@ level: kangourou
 > How many positive integers are such that the product of their digits is 33?
 
 **Answer:** 0000
-[[Quesiti/src_kangourou_2019_ecolier_finale#q01|src_kangourou_2019_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q01|src_kangourou_2019_squadre_ecolier_f__Q01]]
 
 
 
@@ -71,7 +71,7 @@ level: kangourou
 > two colorings are equal if one can be obtained from the other by rotating the cube?
 
 **Answer:** 0008
-[[Quesiti/src_kangourou_2019_ecolier_finale#q02|src_kangourou_2019_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q02|src_kangourou_2019_squadre_ecolier_f__Q02]]
 
 
 
@@ -105,7 +105,7 @@ level: kangourou
 > Measuring the road in jumps, how many jumps is the kangaroo away from the starting point after 2019 jumps?
 
 **Answer:** 1011
-[[Quesiti/src_kangourou_2019_ecolier_finale#q03|src_kangourou_2019_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q03|src_kangourou_2019_squadre_ecolier_f__Q03]]
 
 
 
@@ -140,7 +140,7 @@ level: kangourou
 > the outcome of six consecutive tosses turn out to be winning?
 
 **Answer:** 0012
-[[Quesiti/src_kangourou_2019_ecolier_finale#q04|src_kangourou_2019_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q04|src_kangourou_2019_squadre_ecolier_f__Q04]]
 
 
 
@@ -186,7 +186,7 @@ level: kangourou
 > What number must she have thought of in order to make the bracelet that you see below?
 
 **Answer:** 0150
-[[Quesiti/src_kangourou_2019_ecolier_finale#q05|src_kangourou_2019_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q05|src_kangourou_2019_squadre_ecolier_f__Q05]]
 
 
 
@@ -221,7 +221,7 @@ level: kangourou
 > centimetres. What number is ABC?
 
 **Answer:** 0164
-[[Quesiti/src_kangourou_2019_ecolier_finale#q06|src_kangourou_2019_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q06|src_kangourou_2019_squadre_ecolier_f__Q06]]
 
 
 
@@ -254,7 +254,7 @@ level: kangourou
 > whose last six digits are all equal to each other?
 
 **Answer:** 1235
-[[Quesiti/src_kangourou_2019_ecolier_finale#q07|src_kangourou_2019_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q07|src_kangourou_2019_squadre_ecolier_f__Q07]]
 
 
 
@@ -286,7 +286,7 @@ level: kangourou
 > the sides of all the stickers gives 2019. How many square stickers are there?
 
 **Answer:** 0060
-[[Quesiti/src_kangourou_2019_ecolier_finale#q08|src_kangourou_2019_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q08|src_kangourou_2019_squadre_ecolier_f__Q08]]
 
 
 
@@ -322,7 +322,7 @@ level: kangourou
 > its perimeter long?
 
 **Answer:** 0080
-[[Quesiti/src_kangourou_2019_ecolier_finale#q09|src_kangourou_2019_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q09|src_kangourou_2019_squadre_ecolier_f__Q09]]
 
 
 
@@ -349,7 +349,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many wonderful years in the 21st century
+*How many wonderful years in the 21st century*
 
 > Wonderful years
 > Let us say that a year is wonderful if with its digits one can compose two
@@ -357,7 +357,7 @@ How many wonderful years in the 21st century
 > for example, 1330 was a wonderful year. How many wonderful years are there in the 21st century?
 
 **Answer:** 0006
-[[Quesiti/src_kangourou_2019_ecolier_finale#q10|src_kangourou_2019_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q10|src_kangourou_2019_squadre_ecolier_f__Q10]]
 
 
 
@@ -368,20 +368,16 @@ How many wonderful years in the 21st century
 
 *Massimo intero 4 cifre distinte divisibile per ogni cifra*
 
-> Osserva le bilance in figura dove compaiono tre cani identici e due pesi, uno da $12$ e l'altro da $20$ chili. Il peso in chili di ognuno dei cani è espresso da un numero intero. Quale?
->
-> - **(A)** $7$
-> - **(B)** $8$
-> - **(C)** $9$
-> - **(D)** $10$
-> - **(E)** $11$ (vedi figura)
+> Quattro cifre
+> Determinate il più grande intero di quattro cifre tutte diverse tra loro che sia divisibile (senza resto)
+> per ciascuna delle sue quattro cifre.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9864
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -389,16 +385,12 @@ How many wonderful years in the 21st century
 
 *Largest 4-digit integer with distinct digits divisible by each digit*
 
-> Observe the scales in the figure where three identical dogs and two weights appear, one of $12$ and the other of $20$ kilograms. The weight in kilograms of each of the dogs is expressed by a positive integer. Which one?
->
-> - **(A)** $7$
-> - **(B)** $8$
-> - **(C)** $9$
-> - **(D)** $10$
-> - **(E)** $11$ (see figure)
+> Four digits
+> Find the largest integer with four distinct digits that is divisible (without remainder)
+> by each of its four digits.
 
 **Answer:** 9864
-[[Quesiti/src_kangourou_2019_ecolier_finale#q11|src_kangourou_2019_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q11|src_kangourou_2019_squadre_ecolier_f__Q11]]
 
 
 
@@ -433,7 +425,7 @@ How many wonderful years in the 21st century
 > sum of the numbers written at the midpoints?
 
 **Answer:** 0009
-[[Quesiti/src_kangourou_2019_ecolier_finale#q12|src_kangourou_2019_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q12|src_kangourou_2019_squadre_ecolier_f__Q12]]
 
 
 
@@ -471,7 +463,7 @@ How many wonderful years in the 21st century
 > How many of these roars were not responses to other roars?
 
 **Answer:** 0058
-[[Quesiti/src_kangourou_2019_ecolier_finale#q13|src_kangourou_2019_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q13|src_kangourou_2019_squadre_ecolier_f__Q13]]
 
 
 
@@ -510,7 +502,7 @@ How many wonderful years in the 21st century
 > smallest cube that also boxes this new cube: how many small cubes do I have to add?
 
 **Answer:** 0098
-[[Quesiti/src_kangourou_2019_ecolier_finale#q14|src_kangourou_2019_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q14|src_kangourou_2019_squadre_ecolier_f__Q14]]
 
 
 
@@ -546,4 +538,4 @@ How many wonderful years in the 21st century
 > are opened simultaneously, in how many hours is the tank filled?
 
 **Answer:** 0006
-[[Quesiti/src_kangourou_2019_ecolier_finale#q15|src_kangourou_2019_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q15|src_kangourou_2019_squadre_ecolier_f__Q15]]

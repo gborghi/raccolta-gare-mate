@@ -1,12 +1,12 @@
 ---
-title: Kangourou Coppa Ecolier squadre 2018 Finale
+title: Kangourou Coppa Squadre Ecolier 2018 Finale
 tipo: gara
-competition: Kangourou Coppa Ecolier squadre 2018 Finale
+competition: Kangourou Coppa Squadre Ecolier 2018 Finale
 family: kangourou
 year: '2018'
-level: kangourou
+level: squadre
 ---
-<div class="atom-reader" data-gara="Quesiti/src_kangourou_2018_ecolier_finale"></div>
+<div class="atom-reader" data-gara="Quesiti/src_kangourou_2018_squadre_ecolier_f"></div>
 
 
 
@@ -37,7 +37,7 @@ level: kangourou
 > Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many as boys?
 
 **Answer:** 0028
-[[Quesiti/src_kangourou_2018_ecolier_finale#q01|src_kangourou_2018_ecolier_finale__Q01]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q01|src_kangourou_2018_squadre_ecolier_f__Q01]]
 
 
 
@@ -65,12 +65,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time of departure of the last couple from the castle
+*Time of departure of the last couple from the castle*
 
 > The Ghost Castle One of the attractions of an amusement park is the Ghost Castle: to get around it you have to take a two-seater carriage; one passes every 2 minutes and the complete tour lasts 26 minutes. A group of 12 friends shows up at 11:40 a.m. and the first couple leaves immediately. If everyone gets on the wagons in pairs and doesn't lose a single wagon, what time does the last couple leave the castle? To give the answer, type in a row the hours and minutes; e.g. 11:40 is 1140.
 
 **Answer:** 1216
-[[Quesiti/src_kangourou_2018_ecolier_finale#q02|src_kangourou_2018_ecolier_finale__Q02]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q02|src_kangourou_2018_squadre_ecolier_f__Q02]]
 
 
 
@@ -151,7 +151,7 @@ Time of departure of the last couple from the castle
 > MATE I marked on a circle 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels one point yes and one point no I do several complete turns, clockwise, around the circle until I read the word MATE for 2018 times: here I stop. How many times have I done a complete turn?
 
 **Answer:** 1345
-[[Quesiti/src_kangourou_2018_ecolier_finale#q03|src_kangourou_2018_ecolier_finale__Q03]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q03|src_kangourou_2018_squadre_ecolier_f__Q03]]
 
 
 
@@ -173,7 +173,7 @@ Time of departure of the last couple from the castle
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1798
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -188,7 +188,7 @@ Time of departure of the last couple from the castle
 > What number is C D B A ?
 
 **Answer:** 1798
-[[Quesiti/src_kangourou_2018_ecolier_finale#q04|src_kangourou_2018_ecolier_finale__Q04]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q04|src_kangourou_2018_squadre_ecolier_f__Q04]]
 
 
 
@@ -219,7 +219,7 @@ Time of departure of the last couple from the castle
 > From the bakery Three friends are from the bakery: Alda spends 18 euros for 10 small pizzas, 4 small cakes and an orange, Bianca spends 13.50 euros for 7 small pizzas, 3 small cakes and an orange. How many cents does Carla spend on a small pizza, a small cake and an orange?
 
 **Answer:** 0450
-[[Quesiti/src_kangourou_2018_ecolier_finale#q05|src_kangourou_2018_ecolier_finale__Q05]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q05|src_kangourou_2018_squadre_ecolier_f__Q05]]
 
 
 
@@ -290,7 +290,7 @@ Time of departure of the last couple from the castle
 > 2
 
 **Answer:** 1408
-[[Quesiti/src_kangourou_2018_ecolier_finale#q06|src_kangourou_2018_ecolier_finale__Q06]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q06|src_kangourou_2018_squadre_ecolier_f__Q06]]
 
 
 
@@ -316,12 +316,12 @@ Time of departure of the last couple from the castle
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many games have A and C played?
+*How many games have A and C played?*
 
 > Basketball Three basketball teams have played some training matches. Team A played 11 games, team B played 9 games and team C played 12 games. How many times have teams A and C played together?
 
 **Answer:** 0007
-[[Quesiti/src_kangourou_2018_ecolier_finale#q07|src_kangourou_2018_ecolier_finale__Q07]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q07|src_kangourou_2018_squadre_ecolier_f__Q07]]
 
 
 
@@ -342,7 +342,7 @@ How many games have A and C played?
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0015
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -357,7 +357,7 @@ How many games have A and C played?
 > in this game of rewards and taxes he has neither lost nor gained. How many times did he guess correctly?
 
 **Answer:** 0015
-[[Quesiti/src_kangourou_2018_ecolier_finale#q08|src_kangourou_2018_ecolier_finale__Q08]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q08|src_kangourou_2018_squadre_ecolier_f__Q08]]
 
 
 
@@ -390,7 +390,7 @@ How many games have A and C played?
 > number does she get?
 
 **Answer:** 2310
-[[Quesiti/src_kangourou_2018_ecolier_finale#q09|src_kangourou_2018_ecolier_finale__Q09]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q09|src_kangourou_2018_squadre_ecolier_f__Q09]]
 
 
 
@@ -427,7 +427,7 @@ How many games have A and C played?
 > The garden A square garden contains five square flowerbeds (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flowerbed are exactly on the horizontal and vertical lines). If the total area of the flowerbeds is 25 square meters, how many meters does the perimeter of the garden measure?
 
 **Answer:** 0040
-[[Quesiti/src_kangourou_2018_ecolier_finale#q10|src_kangourou_2018_ecolier_finale__Q10]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q10|src_kangourou_2018_squadre_ecolier_f__Q10]]
 
 
 
@@ -459,7 +459,7 @@ How many games have A and C played?
 > The Clara Alice sequence has written the ABCAABBCCAAABBBCCC letter sequence. Biagio rewrote Alice's sequence by replacing each letter A with a pair of letters BB. Finally Clara rewrote Biagio's sequence replacing each letter B with the letter CCC. How many letters are in Clara's sequence?
 
 **Answer:** 0060
-[[Quesiti/src_kangourou_2018_ecolier_finale#q11|src_kangourou_2018_ecolier_finale__Q11]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q11|src_kangourou_2018_squadre_ecolier_f__Q11]]
 
 
 
@@ -490,7 +490,7 @@ How many games have A and C played?
 > Cube Let's say a natural number A other than zero is a cube if there's another natural number B such that A = B×B×B: for example 8 is a cube. What is the smallest number that is a cube and is the sum of three cubes?
 
 **Answer:** 0216
-[[Quesiti/src_kangourou_2018_ecolier_finale#q12|src_kangourou_2018_ecolier_finale__Q12]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q12|src_kangourou_2018_squadre_ecolier_f__Q12]]
 
 
 
@@ -512,7 +512,7 @@ How many games have A and C played?
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -527,7 +527,7 @@ How many games have A and C played?
 > How many 4-digit numbers does Bice love?
 
 **Answer:** 0024
-[[Quesiti/src_kangourou_2018_ecolier_finale#q13|src_kangourou_2018_ecolier_finale__Q13]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q13|src_kangourou_2018_squadre_ecolier_f__Q13]]
 
 
 
@@ -563,7 +563,7 @@ How many games have A and C played?
 > The rectangles Elena wants to draw three rectangles on a square sheet, each of which has sides on the lines that delimit the squares and none of which touches the edge of the sheet. What is the maximum number of parts that rectangles can divide the page into?
 
 **Answer:** 0014
-[[Quesiti/src_kangourou_2018_ecolier_finale#q14|src_kangourou_2018_ecolier_finale__Q14]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q14|src_kangourou_2018_squadre_ecolier_f__Q14]]
 
 
 
@@ -614,4 +614,4 @@ How many games have A and C played?
 > Questions and developments
 
 **Answer:** 0001
-[[Quesiti/src_kangourou_2018_ecolier_finale#q15|src_kangourou_2018_ecolier_finale__Q15]]
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q15|src_kangourou_2018_squadre_ecolier_f__Q15]]
