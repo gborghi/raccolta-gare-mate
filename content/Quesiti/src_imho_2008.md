@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Orthocenter circle configuration on acute triangle*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Configurazione del cerchio dell'ortocentro in un triangolo acutangolo*
+
+> Sia $ABC$ un triangolo acutangolo con ortocentro $H$. La circonferenza passante per $H$ e avente centro nel punto medio di $BC$ interseca la retta $BC$ nei punti $A_1$ e $A_2$. Analogamente, la circonferenza passante per $H$ e avente centro nel punto medio di $CA$ interseca la retta $CA$ nei punti $B_1$ e $B_2$, e la circonferenza passante per $H$ e avente centro nel punto medio di $AB$ interseca la retta $AB$ nei punti $C_1$ e $C_2$. Si dimostri che i punti $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ appartengono a una stessa circonferenza.
 
 
-*Orthocenter circle configuration on acute triangle*
-
-> An acute-angled triangle $ABC$ has orthocentre $H$. The circle passing through $H$ with centre the midpoint of $BC$ intersects the line $BC$ at $A_1$ and $A_2$. Similarly, the circle passing through $H$ with centre the midpoint of $CA$ intersects the line $CA$ at $B_1$ and $B_2$, and the circle passing through $H$ with centre the midpoint of $AB$ intersects the line $AB$ at $C_1$ and $C_2$. Show that $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ lie on a circle.
 
 [[Quesiti/src_imho_2008#q01|src_imho_2008__Q01]]
 
@@ -39,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Inequality for real numbers with xyz=1, then prove sum ≥1*
@@ -57,14 +58,17 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Disuguaglianza per numeri reali con xyz=1, dimostrare che la somma è almeno 1*
 
-*Inequality for real numbers with xyz=1, then prove sum ≥1*
-
-> (a) Prove that $$\frac{x^2}{(x-1)^2} + \frac{y^2}{(y-1)^2} + \frac{z^2}{(z-1)^2} \ge 1$$ for all real numbers $x$, $y$, $z$, each different from $1$, and satisfying $xyz = 1$.
+> (a) Si dimostri che
+> $$\frac{x^2}{(x-1)^2} + \frac{y^2}{(y-1)^2} + \frac{z^2}{(z-1)^2} \ge 1$$
+> per tutti i numeri reali $x$, $y$, $z$, ciascuno diverso da $1$, e tali che $xyz = 1$.
 > 
-> (b) Prove that equality holds above for infinitely many triples of rational numbers $x$, $y$, $z$, each different from $1$, and satisfying $xyz = 1$.
+> (b) Si dimostri che l'uguaglianza vale sopra per infiniti triple di numeri razionali $x$, $y$, $z$, ciascuno diverso da $1$, e che soddisfano $xyz = 1$.
+
+
 
 [[Quesiti/src_imho_2008#q02|src_imho_2008__Q02]]
 
@@ -72,7 +76,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Infinitely many n with n²+1 having a prime divisor > 2n+√(2n)*
@@ -86,12 +90,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Infiniti n tali che n²+1 abbia un divisore primo > 2n+√(2n)*
+
+> Si dimostri che esistono infiniti interi positivi $n$ tali che $n^2 + 1$ ha un divisore primo maggiore di $2n + \sqrt{2n}$.
 
 
-*Infinitely many n with n2+1 having a prime divisor > 2n+√(2n)*
-
-> Prove that there exist infinitely many positive integers $n$ such that $n^2 + 1$ has a prime divisor which is greater than $2n + \sqrt{2n}$.
 
 [[Quesiti/src_imho_2008#q03|src_imho_2008__Q03]]
 
@@ -99,7 +104,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Functional equation on positive reals with condition wx=yz*
@@ -115,12 +120,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Equazione funzionale sui reali positivi con condizione wx=yz*
+
+> Determinare tutte le funzioni $f : (0, \infty) \to (0, \infty)$ (in modo che $f$ sia una funzione dai numeri reali positivi ai numeri reali positivi) tali che
+> $$\frac{\left(f(w)\right)^2 + \left(f(x)\right)^2}{f(y^2) + f(z^2)} = \frac{w^2 + x^2}{y^2 + z^2}$$
+> per tutti i numeri reali positivi $w$, $x$, $y$, $z$, che soddisfano $wx = yz$.
 
 
-Functional equation on positive reals with condition wx=yz*
-
-> Find all functions $f : (0, \infty) \to (0, \infty)$ (so $f$ is a function from the positive real numbers to the positive real numbers) such that $$\frac{\left(f(w)\right)^2 + \left(f(x)\right)^2}{f(y^2) + f(z^2)} = \frac{w^2 + x^2}{y^2 + z^2}$$ for all positive real numbers $w$, $x$, $y$, $z$, satisfying $wx = yz$.
 
 [[Quesiti/src_imho_2008#q04|src_imho_2008__Q04]]
 
@@ -128,7 +136,7 @@ Functional equation on positive reals with condition wx=yz*
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Count ratio N/M for lamp-switching sequences*
@@ -148,18 +156,19 @@ Functional equation on positive reals with condition wx=yz*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Rapporto di conteggio N/M per le sequenze di commutazione delle lampade*
+
+> Siano $n$ e $k$ interi positivi con $k \ge n$ e $k - n$ un numero pari. Siano dati $2n$ lampade etichettate con $1, 2, \ldots, 2n$, ciascuna delle quali può essere accesa o spenta. Inizialmente tutte le lampade sono spente. Si considerino sequenze di passi: in ogni passo si commuta una delle lampade (da accesa a spenta o da spenta ad accesa).
+> 
+> Sia $N$ il numero di tali successioni costituite da $k$ passi e che portano allo stato in cui le lampade da $1$ a $n$ sono tutte accese, e le lampade da $n+1$ a $2n$ sono tutte spente.
+> 
+> Sia $M$ il numero di tali successioni costituite da $k$ passi, che portano allo stato in cui le lampade $1$ fino a $n$ sono tutte accese, e le lampade $n+1$ fino a $2n$ sono tutte spente, ma tali che nessuna delle lampade $n+1$ fino a $2n$ viene mai accesa.
+> 
+> Determinare il rapporto $N/M$.
 
 
-*Count ratio N/M for lamp-switching sequences*
-
-> Let $n$ and $k$ be positive integers with $k \ge n$ and $k - n$ an even number. Let $2n$ lamps labelled $1, 2, \ldots, 2n$ be given, each of which can be either on or off. Initially all the lamps are off. We consider sequences of steps: at each step one of the lamps is switched (from on to off or from off to on).
-> 
-> Let $N$ be the number of such sequences consisting of $k$ steps and resulting in the state where lamps $1$ through $n$ are all on, and lamps $n+1$ through $2n$ are all off.
-> 
-> Let $M$ be the number of such sequences consisting of $k$ steps, resulting in the state where lamps $1$ through $n$ are all on, and lamps $n+1$ through $2n$ are all off, but where none of the lamps $n+1$ through $2n$ is ever switched on.
-> 
-> Determine the ratio $N/M$.
 
 [[Quesiti/src_imho_2008#q05|src_imho_2008__Q05]]
 
@@ -167,7 +176,7 @@ Functional equation on positive reals with condition wx=yz*
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Tangent circle to sides of convex quadrilateral ABCD*
@@ -181,11 +190,12 @@ Functional equation on positive reals with condition wx=yz*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Circonferenza tangente ai lati del quadrilatero convesso ABCD*
+
+> Sia $ABCD$ un quadrilatero convesso con $|BA| \ne |BC|$. Siano $\omega_1$ e $\omega_2$ rispettivamente le circonferenze inscritte nei triangoli $ABC$ e $ADC$. Si supponga che esista una circonferenza $\omega$ tangente al raggio $BA$ oltre $A$ e al raggio $BC$ oltre $C$, e tangente anche alle rette $AD$ e $CD$. Si dimostri che le tangenti esterne comuni alle circonferenze $\omega_1$ e $\omega_2$ si intersecano su $\omega$.
 
 
-*Tangent circle to sides of convex quadrilateral ABCD*
-
-> Let $ABCD$ be a convex quadrilateral with $|BA| \ne |BC|$. Denote the incircles of triangles $ABC$ and $ADC$ by $\omega_1$ and $\omega_2$ respectively. Suppose that there exists a circle $\omega$ tangent to the ray $BA$ beyond $A$ and to the ray $BC$ beyond $C$, which is also tangent to the lines $AD$ and $CD$. Prove that the common external tangents of $\omega_1$ and $\omega_2$ intersect on $\omega$.
 
 [[Quesiti/src_imho_2008#q06|src_imho_2008__Q06]]

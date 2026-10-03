@@ -237,28 +237,29 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Derivare i teoremi di Wilson e di Fermat mediante l'identità del prodotto polinomiale*
 
-*Derive Wilson's and Fermat's theorems via polynomial product identity*
-
-> Let $n$ be an odd prime number. It is necessary to write the product
+> Sia $n$ un numero primo dispari. È necessario scrivere il prodotto
 > $$\prod_{i=1}^{n-1}(x+i)$$
-> as a polynomial
-> $$\sum_{j=0}^{n-1} a_j x^j.$$
-> By considering the product $\prod_{i=1}^{n-1}(x+i)$ in two ways, establish the relations
+> come un polinomio
+> $$\sum_{j=0}^{n-1} a_j x^j.$$.
+> Considerando il prodotto $\prod_{i=1}^{n-1}(x+i)$ in due modi, stabilire le relazioni
 > $$a_{n-1} = 1,$$
 > $$a_{n-2} = n(n-1)/2,$$
 > $$2a_{n-3} = n(n-1)(n-2)/3! + a_{n-2}(n-1)(n-2)/2!,$$
 > $$\ldots$$
 > $$(n-2)a_1 = n \cdot a_{n-2}(n-1) + a_{n-3}(n-2) + \cdots + 3a_2,$$
-> $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$
-> Prove $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) and that $a_0 = n-1$; and prove also that when $x$ is an integer
-> $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$
-> Hence deduce Wilson's Theorem and Fermat's Theorem, namely, that when $n$ is prime and $x$ is not a multiple of $n$:
+> $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$.
+> Si dimostri che $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) e che $a_0 = n-1$; e si dimostri inoltre che quando $x$ è un numero intero
+> $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$.
+> Dedurre pertanto il teorema di Wilson e il piccolo teorema di Fermat, ossia che quando $n$ è primo e $x$ non è multiplo di $n$:
 > $$(i) \quad n \mid (n-1)! + 1;$$
-> $$(ii) \quad n \mid x^{n-1} - 1.$$
-> ($p \mid q$ means $p$ divides $q$ leaving no remainder.)
+> $$(ii) \quad n \mid x^{n-1} - 1.$$.
+> ($p \mid q$ significa che $p$ divide $q$ senza resto.)
+
+
 
 [[Quesiti/src_bmo1_1974#q08|src_bmo1_1974__Q08]]
 

@@ -137,20 +137,22 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
-
+<div class="qlang-split" data-lang="it"></div>
 
 *Puzzle logico: identificare chi ha pagato l'ingresso al museo*
 
-> Quattro amici vogliono visitare un museo e uno di loro decide di pagare tutti i biglietti di ingresso. Un indizio appare:
+> Quattro amici vogliono visitare un museo e uno di loro decide di pagare tutti i biglietti di ingresso. Nasce una discussione:
 > 
-> Non sono stato io, dice Benjamim. È stato Carlos, dice Mário. È stato Mário, dice Carlos. Mario non ha pagato, dice Pedro.
+> $-$ Non sono stato io, dice Benjamim. $\quad$ $-$ È stato Carlos, dice Mário.
+> $-$ È stato Mário, dice Carlos. $\quad$ $-$ Mário non ha pagato, dice Pedro.
 > 
 > Solo uno di loro sta mentendo. Chi ha pagato l'ingresso al museo?
 > 
-> A) Mario \quad B) Pedro \quad C) Benjamim \quad D) Carlos
+> A) Mário \quad B) Pedro \quad C) Benjamim \quad D) Carlos
 
 **Risposta:** B
+
+
 [[Quesiti/src_obm_2000_n2_f1#q04|src_obm_2000_n2_f1__Q04]]
 
 

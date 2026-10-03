@@ -57,12 +57,13 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Partite minime giocate dati quattro percentuali cumulative di vittoria esattamente 30,40,50,60,70*
+
+> Un giorno Arun e Disha hanno giocato diverse partite di ping-pong. In cinque momenti della giornata, Arun ha calcolato la percentuale delle partite giocate finora che lui aveva vinto. I risultati di questi calcoli sono stati esattamente il 30%, il 40%, il 50%, il 60% e il 70%, in un certo ordine. Qual è il numero minimo possibile di partite che hanno giocato?
 
 
-*Minimum games played given four cumulative win percentages exactly 30,40,50,60,70*
-
-> One day Arun and Disha played several games of table tennis. At five points during the day, Arun calculated the percentage of the games played so far that he had won. The results of these calculations were exactly 30%, exactly 40%, exactly 50%, exactly 60% and exactly 70% in some order. What is the smallest possible number of games they played?
 
 [[Quesiti/src_bmo1_2022#q02|src_bmo1_2022__Q02]]
 

@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find a,b,c with (a-1)(b-1)(c-1) dividing abc-1*
@@ -27,12 +27,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutti gli interi positivi a,b,c tali che (a-1)(b-1)(c-1) divide abc-1*
+
+> Determinare tutti gli interi a, b, c con 1 < a < b < c tali che
+> (a −1)(b −1)(c −1)
+> sia un divisore di abc −1.
 
 
-Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
-
-> Find all integers a, b, c with 1 < a < b < c such that (a −1)(b −1)(c −1) is a divisor of abc −1.
 
 [[Quesiti/src_imo_1992#q01|src_imo_1992__Q01]]
 
@@ -40,7 +43,7 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all f with f(x^2+f(y))=y+f(x)^2*
@@ -60,12 +63,20 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le funzioni f tali che
+f(x² + f(y)) = y + f(x)²*
+
+> Sia R l'insieme di tutti i numeri reali. Determinare tutte le funzioni f : R → R tali che
+> f
+> ³
+> x² + f(y)
+> ´
+> = y + (f(x))²
+> per ogni x, y ∈ R.
 
 
-*Find all f with f(x^2+f(y))=y+f(x)^2*
-
-> Let R denotes the set of all real numbers. Find all functions f: R →R such that f 3 x2 + f(y) ' = y + (f(x))2 for all x, y ∈R.
 
 [[Quesiti/src_imo_1992#q02|src_imo_1992__Q02]]
 
@@ -73,7 +84,7 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_grafi"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Smallest n of colored edges forcing monochromatic triangle*
@@ -95,12 +106,22 @@ Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Più piccolo n di archi colorati che forzano un triangolo monocolore*
+
+> Si considerino nove punti nello spazio, di cui non quattro complanari. Ogni coppia
+> di punti è congiunta da uno spigolo (cioè un segmento) e ogni spigolo è
+> colorato di blu o di rosso oppure lasciato senza colore. Determinare il minimo valore di
+> n tale che, ogni volta che esattamente n spigoli sono colorati, l'insieme degli spigoli
+> colorati contiene necessariamente un triangolo con tutti i lati dello stesso
+> colore.
+> 33rd International Mathematical Olympiad
+> Secondo giorno - Mosca - 15 luglio 1992
+> Tempo: 41
+> 2 ore
 
 
-*Smallest n of colored edges forcing monochromatic triangle*
-
-> Consider nine points in space, no four of which are coplanar. Each pair of points is joined by an edge (that is, a line segment) and each edge is either colored blue or red or left uncolored. Find the smallest value of n such that whenever exactly n edges are colored, the set of colored edges necessarily contains a triangle all of whose edges have the same color. 33rd International Mathematical Olympiad Second Day - Moscow - July 15, 1992 Time limit: 41 2 hours
 
 [[Quesiti/src_imo_1992#q03|src_imo_1992__Q03]]
 

@@ -307,12 +307,12 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Contare le configurazioni dei posti che consentono uno scambio circolare completo dei regali*
 
-*Configurazioni del sedile da contare che consentono uno scambio completo di regali circolari*
+> $2008$ ragazzi e $2008$ ragazze si riuniscono per fare uno scambio di regali. Ogni ragazzo prepara un bouquet e ogni ragazza prepara una cioccolata come regalo, e tutti si siedono su sedie disposte in cerchio, tutte rivolte verso l'interno. Ripetono poi l'azione "ogni persona trasmette contemporaneamente il regalo che tiene alla persona immediatamente alla sua destra" un certo numero di volte, dopo di che succede che ogni ragazzo tiene una cioccolata e ogni ragazza tiene un bouquet. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
 
-> I ragazzi e le ragazze si riuniscono per fare uno scambio presente. Ogni ragazzo prepara un bouquet e ogni ragazza prepara un cioccolato come regalo, e tutti si siedono su sedie disposte in cerchio, tutte rivolte verso l'interno. Ripetono poi l'azione "ogni persona trasmette contemporaneamente il regalo che tiene alla persona di sua destra immediata" un certo numero di volte, dopo di che succede che ogni ragazzo tiene un cioccolato e ogni ragazza tiene un bouquet. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
 
 [[Quesiti/src_jmo18yq_yosen#q10|src_jmo18yq_yosen__Q10]]
 

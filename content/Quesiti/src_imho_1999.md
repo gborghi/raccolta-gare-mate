@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_combinatoria,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Finite point sets symmetric under all perpendicular bisectors*
@@ -28,14 +28,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Insinsiemi finiti di punti simmetrici rispetto a tutti gli assi perpendicolari*
 
-*Finite point sets symmetric under all perpendicular bisectors*
-
-> Determine the finite sets $S$ of at least three points in the plane which satisfy the following condition:
+> Determinare tutti gli insiemi finiti $S$ di almeno tre punti nel piano che soddisfano la seguente condizione:
 > 
-> For any two distinct points $A$ and $B$ in $S$, the perpendicular bisector of the line segment $AB$ is an axis of symmetry for $S$.
+> Per ogni coppia di punti distinti $A$ e $B$ in $S$, l'asse del segmento $AB$ è un asse di simmetria per $S$.
+
+
 
 [[Quesiti/src_imho_1999#q01|src_imho_1999__Q01]]
 
@@ -43,7 +44,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Least constant for symmetric sum inequality*
@@ -63,16 +64,19 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Minima costante per disuguaglianza simmetrica di somma*
 
-*Least constant for symmetric sum inequality*
-
-> Let $n$ be a fixed integer, with $n \ge 2$.
+> Sia $n$ un intero fisso, con $n \ge 2$.
 > 
-> (a) Determine the least constant $C$ such that the inequality $$\sum_{1 \le i < j \le n} x_i x_j (x_i^2 + x_j^2) \le C \left( \sum_{1 \le i \le n} x_i \right)^4$$ holds for all real numbers $x_1, \cdots, x_n \ge 0$.
+> (a) Determinare la minima costante $C$ tale che la disuguaglianza
+> $$\sum_{1 \le i < j \le n} x_i x_j (x_i^2 + x_j^2) \le C \left( \sum_{1 \le i \le n} x_i \right)^4$$
+> sia verificata per tutti i numeri reali $x_1, \cdots, x_n \ge 0$.
 > 
-> (b) For this constant $C$, determine when equality holds.
+> (b) Per questo valore costante $C$, determinare in quali casi si ha l'uguaglianza.
+
+
 
 [[Quesiti/src_imho_1999#q02|src_imho_1999__Q02]]
 
@@ -80,7 +84,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Minimum marked squares so every square is adjacent to one*
@@ -98,16 +102,17 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Quadrati segnati minimi in modo che ogni quadrato sia adiacente a uno segnato*
 
-*Minimum marked squares so every square is adjacent to one*
-
-> Consider a $n \times n$ square board, where $n$ is a fixed even positive integer. The board is divided into $n^2$ unit squares. We say that two different squares on the board are adjacent if they have a common side.
+> Si consideri un tabellone quadro di dimensione $n \times n$, dove $n$ è un intero positivo fisso pari. Il tabellone è suddiviso in $n^2$ quadratini unitari. Si dice che due quadratini diversi del tabellone sono adiacenti se condividono un lato in comune.
 > 
-> $N$ unit squares on the board are marked in such a way that every square (marked or unmarked) on the board is adjacent to at least one marked square.
+> $N$ quadratini unitari sulla scacchiera sono segnati in modo tale che ogni casella (segna o non segnata) sulla scacchiera sia adiacente a almeno un quadratino segnato.
 > 
-> Determine the smallest possible value of $N$.
+> Determinare il più piccolo valore possibile di $N$.
+
+
 
 [[Quesiti/src_imho_1999#q03|src_imho_1999__Q03]]
 
@@ -115,7 +120,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Pairs of positive integers with divisibility condition involving prime*
@@ -133,14 +138,17 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Coppie di interi positivi con condizione di divisibilità coinvolgente un numero primo*
 
-*Pairs of positive integers with divisibility condition involving prime*
-
-> Determine the pairs $(n, p)$ of positive integers such that
+> Determinare tutte le coppie $(n, p)$ di interi positivi tali che
 > 
-> $p$ is a prime, $n$ not exceeded $2p$, and $(p-1)^n + 1$ is divisible by $n^{p-1}$.
+> $p$ è un numero primo,
+> $n$ non supera $2p$, e
+> $(p-1)^n + 1$ è divisibile per $n^{p-1}$.
+
+
 
 [[Quesiti/src_imho_1999#q04|src_imho_1999__Q04]]
 
@@ -148,7 +156,7 @@ level: IMO
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Tangent line CD to circle G2 via intersecting circles configuration*
@@ -164,14 +172,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Retta tangente CD alla circonferenza G2 nella configurazione di circonferenze secanti*
 
-*Tangent line CD to circle G2 via intersecting circles configuration*
-
-> Two circles $G_1$ and $G_2$ are contained inside the circle $G$, and are tangent to $G$ at the distinct points $M$ and $N$, respectively. $G_1$ passes through the center of $G_2$. The line passing through the two points of intersection of $G_1$ and $G_2$ meets $G$ at $A$ and $B$. The lines $MA$ and $MB$ meet $G_1$ at $C$ and $D$, respectively.
+> Due circonferenze $G_1$ e $G_2$ sono contenute all'interno della circonferenza $G$, e sono tangenti a $G$ rispettivamente nei punti distinti $M$ e $N$. La retta $G_1$ passa per il centro di $G_2$. La retta che passa per i due punti di intersezione tra $G_1$ e $G_2$ incontra $G$ nei punti $A$ e $B$. Le rette $MA$ e $MB$ incontrano $G_1$ rispettivamente nei punti $C$ e $D$.
 > 
-> Prove that $CD$ is tangent to $G_2$.
+> Si dimostri che $CD$ è tangente a $G_2$.
+
+
 
 [[Quesiti/src_imho_1999#q05|src_imho_1999__Q05]]
 
@@ -179,7 +188,7 @@ level: IMO
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all real functions satisfying given functional equation*
@@ -195,11 +204,14 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le funzioni reali che soddisfano l'equazione funzionale data*
+
+> Determinare tutte le funzioni $f : \mathbf{R} \longrightarrow \mathbf{R}$ tali che
+> $$f(x - f(y)) = f(f(y)) + xf(y) + f(x) - 1$$
+> per ogni numero reale $x, y$.
 
 
-*Find the real functions satisfying given functional equation*
-
-> Determine all functions $f : \mathbf{R} \longrightarrow \mathbf{R}$ such that $$f(x - f(y)) = f(f(y)) + xf(y) + f(x) - 1$$ for all real numbers $x, y$.
 
 [[Quesiti/src_imho_1999#q06|src_imho_1999__Q06]]

@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_bigezione,method_simmetria,skill_astrazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Coloring pairs in a set, equal type-1 and type-2 subsets*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Colorazione di coppie in un insieme, sottoinsiemi di tipo 1 e tipo 2 uguali*
+
+> Sia $S$ l'insieme di tutti gli $(h,k)$ con $h,k$ interi non negativi tali che $h+k < n$. Ogni elemento di $S$ è colorato di rosso o blu, in modo che se $(h,k)$ è rosso e $h' \le h$, $k' \le k$, allora anche $(h',k')$ è rosso. Un sottoinsieme di tipo 1 di $S$ ha $n$ elementi blu con primi membri diversi, mentre un sottoinsieme di tipo 2 di $S$ ha $n$ elementi blu con secondi membri diversi. Si dimostri che il numero di sottoinsiemi di tipo 1 è uguale al numero di sottoinsiemi di tipo 2.
 
 
-*Coloring pairs in a set, equal type-1 and type-2 subsets*
-
-> $S$ is the set of all $(h,k)$ with $h,k$ non-negative integers such that $h+k < n$. Each element of $S$ is colored red or blue, so that if $(h,k)$ is red and $h' \le h$, $k' \le k$, then $(h',k')$ is also red. A type 1 subset of $S$ has $n$ blue elements with different first members and a type 2 subset of $S$ has $n$ blue elements with different second members. Show that there are the same number of type 1 and type 2 subsets.
 
 [[Quesiti/src_imho_2002#q01|src_imho_2002__Q01]]
 
@@ -39,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Geometry: incenter lies on chord of circumcircle*
@@ -53,12 +54,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Geometria: l'incentro giace su una corda della circonferenza circoscritta*
+
+> $BC$ è un diametro di una circonferenza di centro $O$. Sia $A$ un punto qualsiasi sulla circonferenza diverso da $\angle AOC > 60^\circ$. Sia $EF$ la corda che è l'asse perpendicolare del segmento $AO$. Sia $D$ il punto medio dell'arco minore $AB$. La retta passante per $OD$ incontra $AC$ nel punto $J$. Si dimostri che $J$ è l'incentro del triangolo $CEF$.
 
 
-*Geometry: incenter lies on chord of circumcircle*
-
-> $BC$ is a diameter of a circle center $O$. $A$ is any point on the circle with $\angle AOC > 60^\circ$. $EF$ is the chord which is the perpendicular bisector of $AO$. $D$ is the midpoint of the minor arc $AB$. The line through $OD$ meets $AC$ at $J$. Show that $J$ is the incenter of triangle $CEF$.
 
 [[Quesiti/src_imho_2002#q02|src_imho_2002__Q02]]
 
@@ -66,7 +68,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
@@ -80,12 +82,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le coppie di interi m>2, n>2 tali che k^n-1 divide k^m-1*
+
+> Determinare tutte le coppie di interi $m > 2$, $n > 2$ tali che esistano infiniti numeri interi positivi $k$ per cui $k^n - 1$ divide $k^m - 1$.
 
 
-Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
-
-> Find all pairs of integers $m > 2$, $n > 2$ such that there are infinitely many positive integers $k$ for which $k^n - 1$ divides $k^m - 1$.
 
 [[Quesiti/src_imho_2002#q03|src_imho_2002__Q03]]
 
@@ -93,7 +96,7 @@ Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Positive divisors of n>1 in sequence with divisibility condition*
@@ -107,12 +110,13 @@ Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Divisori positivi di n>1 in successione con condizione di divisibilità*
+
+> I divisori positivi di un intero $n > 1$ sono $d_1 < d_2 < \cdots < d_k$, in modo che $d_1 = 1$, $d_k = n$. Sia $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Si dimostri che $d < n^2$ e si determinino tutti gli $n$ per cui $d$ divide $n^2$.
 
 
-*Positive divisors of n>1 in sequence with divisibility condition*
-
-> The positive divisors of an integer $n > 1$ are $d_1 < d_2 < \cdots < d_k$, so that $d_1 = 1$, $d_k = n$. Let $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Show that $d < n^2$ and find the $n$ for which $d$ divides $n^2$.
 
 [[Quesiti/src_imho_2002#q04|src_imho_2002__Q04]]
 
@@ -120,7 +124,7 @@ Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Real functions satisfying (f(x)+f(y))(f(u)+f(v))=f(xu-yv)+f(xv+yu)*
@@ -134,12 +138,13 @@ Find all pairs of integers m>2, n>2 with k^n-1 divides k^m-1*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Funzioni reali che soddisfano (f(x)+f(y))(f(u)+f(v))=f(xu-yv)+f(xv+yu)*
+
+> Determinare tutte le funzioni reali definite sui numeri reali tali che $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ per ogni $x, y, u, v$.
 
 
-This is the total number of functions that are satisfying (f(x) +f(y))
-
-> Find all real-valued functions on the reals such that $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ for all $x, y, u, v$.
 
 [[Quesiti/src_imho_2002#q05|src_imho_2002__Q05]]
 
@@ -147,7 +152,7 @@ This is the total number of functions that are satisfying (f(x) +f(y))
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_doppio_conteggio,method_disuguaglianze,method_simmetria,skill_stima,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *n>2 circles of radius 1, no line meets more than two*
@@ -161,11 +166,12 @@ This is the total number of functions that are satisfying (f(x) +f(y))
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*n>2 circonferenze di raggio 1, nessuna retta incontra più di due*
+
+> $n > 2$ circonferenze di raggio 1 sono disegnate nel piano in modo che nessuna retta intersechi più di due di esse. I loro centri sono $O_1, O_2, \ldots, O_n$. Si dimostri che $\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
 
 
-*n>2 circles of radius 1, no line meets more than two*
-
-> $n > 2$ circles of radius 1 are drawn in the plane so that no line meets more than two of the circles. Their centres are $O_1, O_2, \ldots, O_n$. Show that$\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
 
 [[Quesiti/src_imho_2002#q06|src_imho_2002__Q06]]

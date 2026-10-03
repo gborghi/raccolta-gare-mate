@@ -40,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *top and bottom edges all same color*
@@ -56,12 +56,16 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*bordo superiore e bordo inferiore tutti dello stesso colore*
+
+> Nota. Un percorso di n salti è una sequenza di vertici (P₀, ..., Pₙ) tale che
+> (i) P₀ = A, Pₙ = E;
+> (ii) per ogni i, 0 ≤ i ≤ n−1, Pi è diverso da E;
+> (iii) per ogni i, 0 ≤ i ≤ n−1, Pi e Pi+1 sono adiacenti.
 
 
-*top and bottom edges all the same colour*
-
-> Notes. A path of n jumps is a sequence of vertices (P0, ..., Pn) such that (i) P0 = A, Pn = E; (ii) for every i, 0 ≤i ≤n −1, Pi is distinct from E; (iii) for every i, 0 ≤i ≤n −1, Pi and Pi+1 are adjacent.
 
 [[Quesiti/src_imo_1979_all#q02|src_imo_1979_all__Q02]]
 

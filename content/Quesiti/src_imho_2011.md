@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Maximize value of s4 over four-element subsets of positive integers*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Massimizzare il valore di s4 su sottoinsiemi di quattro elementi di interi positivi*
+
+> Dato un qualunque insieme $A = \{a_1, a_2, a_3, a_4\}$ di quattro interi positivi distinti, indichiamo la somma $a_1 + a_2 + a_3 + a_4$ con $s_A$. Sia $n_A$ il numero delle coppie $(i,j)$ con $1 \le i < j \le 4$ per cui $a_i + a_j$ divide $s_A$. Determinare tutti gli insiemi $A$ di quattro interi positivi distinti per cui $n_A$ assume il valore massimo possibile.
 
 
-*Maximize value of s4 over four-element sub-sets of positive integers*
-
-> Given any set $A = \{a_1, a_2, a_3, a_4\}$ of four distinct positive integers, we denote the sum $a_1 + a_2 + a_3 + a_4$ by $s_A$. Let $n_A$ denote the number of pairs $(i,j)$ with $1 \le i < j \le 4$ for which $a_i + a_j$ divides $s_A$. Find all sets $A$ of four distinct positive integers which achieve the largest possible value of $n_A$.
 
 [[Quesiti/src_imho_2011#q01|src_imho_2011__Q01]]
 
@@ -39,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_invarianti,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Windmill process uses each point as pivot infinitely often*
@@ -53,12 +54,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Il processo a mulino a vento utilizza ciascun punto come centro infinite volte*
+
+> Sia $\mathcal{S}$ un insieme finito di almeno due punti nel piano. Si assuma che nessuni tre punti di $\mathcal{S}$ siano allineati. Un mulino a vento è un processo che inizia con una retta $\ell$ passante per un solo punto $P \in \mathcal{S}$. La retta ruota in senso orario intorno al punto $P$ fino al primo istante in cui incontra un altro punto appartenente a $\mathcal{S}$. Questo punto, $Q$, diventa il nuovo centro di rotazione e la retta ora ruota in senso orario intorno a $Q$ fino al successivo incontro con un punto di $\mathcal{S}$. Il processo continua all'infinito. Si dimostri che è possibile scegliere un punto $P$ in $\mathcal{S}$ e una retta $\ell$ passante per $P$ in modo che il mulino a vento risultante utilizzi ciascun punto di $\mathcal{S}$ come centro di rotazione un numero infinito di volte.
 
 
-The windmill process uses each point as pivot infinitely often
-
-> Let $\mathcal{S}$ be a finite set of at least two points in the plane. Assumes that no three points of $\mathcal{S}$ are collinear. A windmill is a process that starts with a line $\ell$ going through a single point $P \in \mathcal{S}$. The line rotates clockwise about the point $P$ until the first time that the line meets some other point belonging to $\mathcal{S}$. This point, $Q$, takes over as the new pivot, and the line now rotates clockwise about $Q$ until it next meets a point of $\mathcal{S}$. This process continues indefinitely. Show that we can choose a point $P$ in $\mathcal{S}$ and a line $\ell$ going through $P$ such that the resulting windmill uses each point of $\mathcal{S}$ as a pivot infinitely many times.
 
 [[Quesiti/src_imho_2011#q02|src_imho_2011__Q02]]
 
@@ -66,7 +68,7 @@ The windmill process uses each point as pivot infinitely often
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_algebra,method_backward,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Functional inequality implying f(x)=0 for x<=0*
@@ -82,12 +84,15 @@ The windmill process uses each point as pivot infinitely often
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Disuguaglianza funzionale che implica f(x)=0 per x<=0*
+
+> Sia $f : \mathbb{R} \to \mathbb{R}$ una funzione a valori reali definita sull'insieme dei numeri reali che soddisfa
+> $$f(x+y) \le yf(x) + f(f(x))$$
+> per tutti i numeri reali $x$ e $y$. Si dimostri che $f(x) = 0$ per tutti gli $x \le 0$.
 
 
-*Functional inequality implying f(x)=0 for x<=0*
-
-> Let $f : \mathbb{R} \to \mathbb{R}$ be a real-valued function defined on the set of real numbers that satisfies $$f(x+y) \le yf(x) + f(f(x))$$ for all real numbers $x$ and $y$. Prove that $f(x) = 0$ for all $x \le 0$.
 
 [[Quesiti/src_imho_2011#q03|src_imho_2011__Q03]]
 
@@ -95,7 +100,7 @@ The windmill process uses each point as pivot infinitely often
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_induzione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Count ways to place weights on balance without right pan heavier*
@@ -109,12 +114,13 @@ The windmill process uses each point as pivot infinitely often
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Contare i modi per posizionare pesi su una bilancia in modo che il piatto destro non sia più pesante*
+
+> Sia $n > 0$ un intero. Ci viene dato una bilancia e $n$ pesi ciascuno di massa $2^0, 2^1, \ldots, 2^{n-1}$. Dobbiamo posizionare ciascuno dei $n$ pesi sulla bilancia, uno dopo l'altro, in modo che il piatto destro non sia mai più pesante di quello sinistro. A ciascun passo scegliamo uno dei pesi ancora non posizionati e lo poniamo sul piatto sinistro o su quello destro, fino a quando tutti i pesi non siano stati posizionati. Si determini il numero di modi in cui ciò può essere fatto.
 
 
-Count ways to place weights on balance without right pan heavier
-
-> Let $n > 0$ be an integer. We are given a balance and $n$ weights of weight $2^0, 2^1, \ldots, 2^{n-1}$. We are to place each of the weights on the balance, one after the other, in such a way that the right pan is never heavier than the left pan. At each step we choose one of the weights that has not yet been placed on the balance, and place it on either the left pan or the right pan, until all of the weights have been placed. Determine the number of ways this can be done.
 
 [[Quesiti/src_imho_2011#q04|src_imho_2011__Q04]]
 
@@ -122,7 +128,7 @@ Count ways to place weights on balance without right pan heavier
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Divisibility property of f(m)-f(n) by f(m-n) for positive integer function*
@@ -136,12 +142,13 @@ Count ways to place weights on balance without right pan heavier
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Proprietà di divisibilità di f(m)−f(n) per f(m−n) in una funzione su interi positivi*
+
+> Sia $f$ una funzione dall'insieme degli interi all'insieme dei numeri positivi. Si supponga che, per ogni due interi $m$ e $n$, la differenza $f(m) - f(n)$ sia divisibile per $f(m-n)$. Si dimostri che, per tutti gli interi $m$ e $n$ tali che $f(m) \le f(n)$, il numero $f(n)$ è divisibile per $f(m)$.
 
 
-*Divisibility property of f(m) -f(n) by f(m-n) for positive integer function*
-
-> Let $f$ be a function from the set of integers to the set of positive integers. Suppose that, for any two integers $m$ and $n$, the difference $f(m) - f(n)$ is divisible by $f(m-n)$. Prove that, for all integers $m$ and $n$ with $f(m) \le f(n)$, the number $f(n)$ is divisible by $f(m)$.
 
 [[Quesiti/src_imho_2011#q05|src_imho_2011__Q05]]
 
@@ -149,7 +156,7 @@ Count ways to place weights on balance without right pan heavier
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Reflections of tangent line through vertices meet circumcircle tangentially*
@@ -163,11 +170,12 @@ Count ways to place weights on balance without right pan heavier
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Le riflessioni della tangente in un vertice incontrano la circonferenza circoscritta tangenzialmente*
+
+> Sia $ABC$ un triangolo acutangolo con circonferenza circoscritta $\Gamma$. Sia $\ell$ una retta tangente a $\Gamma$, e siano $\ell_a$, $\ell_b$, $\ell_c$ le rette ottenute riflettendo $\ell$ rispettivamente rispetto alle rette $BC$, $CA$, $AB$. Si dimostri che la circonferenza circoscritta al triangolo individuato dalle rette $\ell_a$, $\ell_b$, $\ell_c$ è tangente alla circonferenza $\Gamma$.
 
 
-*Reflections of tangent line through vertices meet circumcircle tangentially*
-
-> Let $ABC$ be an acute triangle with circumcircle $\Gamma$. Let $\ell$ be a tangent line to $\Gamma$, and let $\ell_a$, $\ell_b$, $\ell_c$ be the lines obtained by reflecting $\ell$ in the lines $BC$, $CA$, $AB$, respectively. Show that the circumcircle of the triangle determined by the lines $\ell_a$, $\ell_b$, $\ell_c$ is tangent to the circle $\Gamma$.
 
 [[Quesiti/src_imho_2011#q06|src_imho_2011__Q06]]

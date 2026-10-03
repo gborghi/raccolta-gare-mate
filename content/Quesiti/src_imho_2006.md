@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Point in triangle interior with angle and equality condition*
@@ -28,12 +28,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Punto nel triangolo interno con angolo e condizione di uguaglianza*
+
+> Sia $ABC$ un triangolo con incentro $I$. Un punto $P$ interno al triangolo soddisfa
+> $$\angle PBA + \angle PCA = \angle PBC + \angle PCB.$$
+> Si dimostri che $AP \ge AI$, e che l'uguaglianza ha luogo se e solo se $P = I$.
 
 
-*Point in triangle interior with angle and equality condition*
-
-> Let $ABC$ be a triangle with incentre $I$. A point $P$ in the interior of the triangle satisfies $$\angle PBA + \angle PCA = \angle PBC + \angle PCB.$$ Show that $AP \ge AI$, and that equality holds if and only if $P = I$.
 
 [[Quesiti/src_imho_2006#q01|src_imho_2006__Q01]]
 
@@ -41,7 +44,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Regular 2006-gon diagonals: max isosceles triangles in dissection*
@@ -57,14 +60,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Diagonali di un 2006-ago regolare: massimo numero di triangoli isosceli nella scomposizione*
 
-*Regular 2006-gon diagonals: max isosceles triangles in dissection*
-
-> Let $P$ be a regular 2006-gon. A diagonal of $P$ is called good if its endpoints divide the boundary of $P$ into two parts, each composed of an odd number of sides of $P$. The sides of $P$ are also called good.
+> Sia $P$ un 2006-ago regolare. Una diagonale di $P$ si dice buona se i suoi estremi dividono il bordo di $P$ in due parti, ciascuna delle quali è composta da un numero dispari di lati di $P$. I lati di $P$ si dicono anch'essi buoni.
 > 
-> Suppose $P$ has been dissected into triangles by 2003 diagonals, no two of which have a common point in the interior of $P$. Find the maximum number of isosceles triangles having two good sides that could appear in such a configuration.
+> Sia $P$ stato suddiviso in triangoli da 2003 diagonali, nessuna delle quali ha punti interni in comune con un'altra all'interno di $P$. Si determini il massimo numero di triangoli isosceli con due lati buoni che potrebbero comparire in tale configurazione.
+
+
 
 [[Quesiti/src_imho_2006#q02|src_imho_2006__Q02]]
 
@@ -72,7 +76,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find least real M for an algebraic inequality in a, b, c*
@@ -88,12 +92,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare il minimo numero reale M per un'ineguaglianza algebrica in a, b, c*
+
+> Determinare il minimo numero reale $M$ tale che la disuguaglianza
+> $$\left|ab(a^2 - b^2) + bc(b^2 - c^2) + ca(c^2 - a^2)\right| \le M(a^2 + b^2 + c^2)^2$$
+> sia verificata per tutti i numeri reali $a$, $b$ e $c$.
 
 
-Find the least real M for an algebraic inequality in a, b, c
-
-> Determine the least real number $M$ such that the inequality $$\left|ab(a^2 - b^2) + bc(b^2 - c^2) + ca(c^2 - a^2)\right| \le M(a^2 + b^2 + c^2)^2$$ holds for all real numbers $a$, $b$ and $c$.
 
 [[Quesiti/src_imho_2006#q03|src_imho_2006__Q03]]
 
@@ -101,7 +108,7 @@ Find the least real M for an algebraic inequality in a, b, c
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all integer pairs satisfying an exponential Diophantine equation*
@@ -116,12 +123,14 @@ Find the least real M for an algebraic inequality in a, b, c
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le coppie di interi che soddisfano un'equazione diofantea esponenziale*
+
+> Determinare tutte le coppie $(x, y)$ di interi tali che
+> $$1 + 2^x + 2^{2x+1} = y^2.$$
 
 
-Find the integer pairs satisfying an exponential Diophantine equation
-
-> Determine to pairs $(x, y)$ of integers such that $$1 + 2^x + 2^{2x+1} = y^2.$$
 
 [[Quesiti/src_imho_2006#q04|src_imho_2006__Q04]]
 
@@ -129,7 +138,7 @@ Find the integer pairs satisfying an exponential Diophantine equation
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Iterated polynomial has at most n integer fixed points*
@@ -143,12 +152,13 @@ Find the integer pairs satisfying an exponential Diophantine equation
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Un polinomio iterato ha al più n punti fissi interi*
+
+> Sia $P(x)$ un polinomio di grado $n > 1$ a coefficienti interi e sia $k$ un numero intero positivo. Si consideri il polinomio $Q(x) = P(P(\ldots P(P(x)) \ldots))$, in cui $P$ compare $k$ volte. Si dimostri che vi sono al più $n$ numeri interi $t$ tali che $Q(t) = t$.
 
 
-*Iterated polynomial has at most n integer fixed points*
-
-> Let $P(x)$ be a polynomial of degree $n > 1$ with integer coefficients and let $k$ be a positive integer. Consider the polynomial $Q(x) = P(P(\ldots P(P(x)) \ldots))$, where $P$ occurs $k$ times. Prove that there are at most $n$ integers $t$ such that $Q(t) = t$.
 
 [[Quesiti/src_imho_2006#q05|src_imho_2006__Q05]]
 
@@ -156,7 +166,7 @@ Find the integer pairs satisfying an exponential Diophantine equation
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_stima,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Sum of max-triangle areas over sides is at least twice polygon area*
@@ -170,11 +180,12 @@ Find the integer pairs satisfying an exponential Diophantine equation
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*La somma delle aree massime dei triangoli sui lati è almeno il doppio dell'area del poligono*
+
+> Assegnare a ciascun lato $b$ di un poligono convesso $P$ l'area massima di un triangolo che ha $b$ come lato e sia contenuto in $P$. Si dimostri che la somma delle aree così assegnate ai lati di $P$ è almeno il doppio dell'area di $P$.
 
 
-*Sum of max-triangle areas over sides is at least twice polygon area*
-
-> Assign to each side $b$ of a convex polygon $P$ the maximum area of a triangle that has $b$ as a side and is contained in $P$. Show that the sum of the areas assigned to the sides of $P$ is at least twice the area of $P$.
 
 [[Quesiti/src_imho_2006#q06|src_imho_2006__Q06]]

@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove inequality for arbitrary real numbers, true for n=3,5 false otherwise*
@@ -29,14 +29,16 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Dimostrare la disuguaglianza per numeri reali arbitrari, vera per n=3,5 e falsa in caso contrario*
 
-*Prove inequality for arbitrary real numbers, true for n=3,5 false otherwise*
-
-> Prove that the following statement is true for $n = 3$ and $n = 5$, and that it is false for every other $n > 2$.
+> Si dimostri che l'affermazione seguente è vera per $n = 3$ e $n = 5$, e falsa per ogni altro $n > 2$.
 > 
-> If $a_1, a_2, \ldots, a_n$ are arbitrary real numbers, then $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \ge 0$$
+> Se $a_1, a_2, \ldots, a_n$ sono numeri reali arbitrari, allora
+> $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \ge 0$$
+
+
 
 [[Quesiti/src_imho_1971#q01|src_imho_1971__Q01]]
 
@@ -44,7 +46,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,method_invarianti,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Nine-vertex convex polyhedra sharing a common point*
@@ -58,12 +60,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Poliedri convessi con nove vertici che condividono un punto comune*
+
+> Sia $P_1$ un poliedro convesso con nove vertici $A_1, A_2, \ldots, A_9$; sia $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che porta il vertice $A_1$ in $A_i$ $(i = 2, 3, \ldots, 9)$. Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
 
 
-The value of the underlying assets shall be the sum of the assets of the underlying assets of the underlying assets.
-
-> Consider a convex polyhedron $P_1$ with nine vertices $A_1, A_2, \ldots, A_9$; let $P_i$ be the polyhedron obtained from $P_1$ by a translation that moves vertex $A_1$ to $A_i$ $(i = 2, 3, \ldots, 9)$. Prove that at least two of the polyhedra $P_1, P_2, \ldots, P_9$ have an interior point in common.
 
 [[Quesiti/src_imho_1971#q02|src_imho_1971__Q02]]
 
@@ -71,7 +74,7 @@ The value of the underlying assets shall be the sum of the assets of the underly
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Integers of form 2^3k-2 contain infinite subset with pairwise coprime elements*
@@ -85,12 +88,13 @@ The value of the underlying assets shall be the sum of the assets of the underly
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Gli interi della forma 2^{3k}-2 contengono un sottoinsieme infinito con elementi a due a due coprimi*
+
+> Si dimostri che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni due elementi sono tra loro primi.
 
 
-*Integers of form 2^3k-2 contain infinite subset with pairwise coprime elements*
-
-> Prove that the set of integers of the form $2^k - 3$ $(k = 2, 3, \ldots)$ contains an infinite subset in which every two members are relatively prime.
 
 [[Quesiti/src_imho_1971#q03|src_imho_1971__Q03]]
 
@@ -98,7 +102,7 @@ The value of the underlying assets shall be the sum of the assets of the underly
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Acute-angled triangles and minimal geodesic on tetrahedron ABCD*
@@ -116,16 +120,17 @@ The value of the underlying assets shall be the sum of the assets of the underly
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Triangoli acutangoli e geodetica minima sul tetraedro ABCD*
 
-*Acute-angled triangles and minimal geodesic on tetrahedron ABCD*
-
-> All the faces of tetrahedron $ABCD$ are acute-angled triangles. We consider all closed polygonal paths of the form $XYZТX$ defined as follows: $X$ is a point on edge $AB$ distinct from $A$ and $B$; similarly, $Y$, $Z$, $T$ are interior points of edges $BC$, $CD$, $DA$, respectively. Proofs:
+> Tutte le facce del tetraedro $ABCD$ sono triangoli acutangoli. Consideriamo tutte le spezzate chiuse del tipo $XYZТX$ definite nel modo seguente: $X$ è un punto sullo spigolo $AB$ diverso da $A$ e $B$; analogamente, $Y$, $Z$, $T$ sono punti interni agli spigoli $BC$, $CD$, $DA$, rispettivamente. Si dimostri che
 > 
-> (a) If $\angle DAB + \angle BCD \ne \angle ABC + \angle CDA$, then among the polygonal paths, there is none of minimum length.
+> (a) Se $\angle DAB + \angle BCD \ne \angle ABC + \angle CDA$, allora tra i percorsi poligonali non esiste alcuno di lunghezza minima.
 > 
-> (b) If $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, then there are infinitely many shortest polygonal paths, their common length being $2AC \sin(\alpha/2)$, where $\alpha = \angle BAC + \angle CAD + \angle DAB$.
+> (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti percorsi poligonali minimi, la loro lunghezza comune essendo $2AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle DAB$.
+
+
 
 [[Quesiti/src_imho_1971#q04|src_imho_1971__Q04]]
 
@@ -133,7 +138,7 @@ The value of the underlying assets shall be the sum of the assets of the underly
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_induzione,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Finite set S in plane with exactly n points at unit distance from each point*
@@ -147,12 +152,13 @@ The value of the underlying assets shall be the sum of the assets of the underly
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Insinsieme finito S nel piano con esattamente n punti ad distanza unitaria da ciascun punto*
+
+> Si dimostri che per ogni numero naturale $m$, esiste un insieme finito $S$ di punti nel piano con la seguente proprietà: per ogni punto $A$ in $S$, esattamente $m$ punti in $S$ si trovano a distanza unitaria da $A$.
 
 
-Finite set S in plane with exactly n points at unit distance from each point
-
-> Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: for every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
 
 [[Quesiti/src_imho_1971#q05|src_imho_1971__Q05]]
 
@@ -160,7 +166,7 @@ Finite set S in plane with exactly n points at unit distance from each point
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_combinatoria,topic_disuguaglianze,method_doppio_conteggio,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Square matrix with row/column sums >= n implies sum of all elements >= n^2/2*
@@ -174,11 +180,12 @@ Finite set S in plane with exactly n points at unit distance from each point
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Matrice quadrata con somma di righe e colonne >= n implica che la somma di tutti gli elementi sia >= n^2/2*
+
+> Sia $A = (a_{ij})$ $(i, j = 1, 2, \ldots, n)$ una matrice quadrata i cui elementi sono interi non negativi. Si supponga che, ogni volta che un elemento $a_{ij} = 0$ è uguale a zero, la somma degli elementi della riga $i$ e della colonna $j$ sia uguale a $\ge n$. Si dimostri che la somma di tutti gli elementi della matrice è $\ge n^2/2$.
 
 
-*Square matrix with row/column sums >= n implies sum of all elements >= n^2/2*
-
-> Let $A = (a_{ij})$ $(i, j = 1, 2, \ldots, n)$ be a square matrix whose elements are non-negative integers. Suppose that whenever an element $a_{ij} = 0$, the sum of the elements in the $i$th row and the $j$th column is $\ge n$. Prove that the sum of all the elements of the matrix is $\ge n^2/2$.
 
 [[Quesiti/src_imho_1971#q06|src_imho_1971__Q06]]

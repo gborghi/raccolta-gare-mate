@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Composite integers n>1 with divisibility condition on divisors*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Interi composti n>1 con condizione di divisibilità sui divisori*
+
+> Determinare tutti gli interi positivi composti $n > 1$ che soddisfano la seguente proprietà: se $d_1, d_2, \ldots, d_k$ sono tutti i divisori positivi di $n$ minori di $1 = d_1 < d_2 < \cdots < d_k = n$, allora $d_i$ divide $d_{i+1} + d_{i+2}$ per ogni $1 \le i \le k - 2$.
 
 
-*Composite integers n>1 with divisibility condition on divisors*
-
-> Determine the composite integers $n > 1$ that satisfy the following property: if $d_1, d_2, \ldots, d_k$ are all the positive divisors of $n$ with $1 = d_1 < d_2 < \cdots < d_k = n$, then $d_i$ divides $d_{i+1} + d_{i+2}$ for every $1 \le i \le k - 2$.
 
 [[Quesiti/src_imho_2023#q01|src_imho_2023__Q01]]
 
@@ -39,7 +40,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Circumcircle tangent line meets angle bisector on internal bisector*
@@ -53,12 +54,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*La tangente alla circonferenza circoscritta incontra la bisettrice interna nell'angolo*
+
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $\Omega$ la circonferenza circoscritta a $ABC$. Sia $S$ il punto medio dell'arco $CB$ della circonferenza $\Omega$ che contiene $A$. La perpendicolare da $A$ alla retta $BC$ incontra $BS$ in $D$ e $\Omega$ in $E \ne A$. La retta passante per $D$ parallela a $BC$ incontra la retta $BE$ in $L$. Si indichi con $\omega$ la circonferenza circoscritta al triangolo $BDL$. Sia $\omega$ l'altro punto di intersezione tra $\Omega$ e $P \ne B$. Si dimostri che la tangente a $\omega$ nel punto $P$ incontra la retta $BS$ sulla bisettrice interno dell'angolo $\angle BAC$.
 
 
-*Circumcircle tangent line meets angle bisector on internal bisector*
-
-> Let $ABC$ be an acute-angled triangle with $AB < AC$. Let $\Omega$ be the circumcircle of $ABC$. Let $S$ be the midpoint of the arc $CB$ of $\Omega$ containing $A$. The perpendicular from $A$ to $BC$ meets $BS$ at $D$ and meets $\Omega$ at $E \ne A$. The line through $D$ parallel to $BC$ meets line $BE$ at $L$. Denote the circumcircle of triangle $BDL$ by $\omega$. Let $\omega$ meet $\Omega$ again at $P \ne B$. Prove that the line tangent to $\omega$ at $P$ meets line $BS$ on the internal angle bisector of $\angle BAC$.
 
 [[Quesiti/src_imho_2023#q02|src_imho_2023__Q02]]
 
@@ -66,7 +68,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Infinite sequences of positive integers admitting a polynomial recurrence*
@@ -82,12 +84,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Successioni infinite di interi positivi che ammettono una ricorrenza polinomiale*
+
+> Per ogni intero positivo $k \ge 2$, determinare tutte le successioni infinite di interi positivi $a_1, a_2, \ldots$ per cui esiste un polinomio $P$ della forma $P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0$, dove gli $c_0, c_1, \ldots, c_{k-1}$ sono interi non negativi, tale che
+> $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$
+> per ogni intero $n \ge 1$.
 
 
-*Infinite sequences of positive integers admitting a polynomial recurrence*
-
-> For each integer $k \ge 2$, determine the infinite sequences of positive integers $a_1, a_2, \ldots$ for which there exists a polynomial $P$ of the form $P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0$, where $c_0, c_1, \ldots, c_{k-1}$ are non-negative integers, such that $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$ for each integer $n \ge 1$.
 
 [[Quesiti/src_imho_2023#q03|src_imho_2023__Q03]]
 
@@ -95,7 +100,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Sum involving reciprocals is always an integer*
@@ -111,12 +116,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Somma di reciproci è sempre un intero*
+
+> Siano $x_1, x_2, \ldots, x_{2023}$ numeri reali positivi a due a due distinti tali che
+> $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$
+> sia un numero intero per ogni $n = 1, 2, \ldots, 2023$. Si dimostri che $a_{2023} \ge 3034$.
 
 
-Sum involving reciprocals is always an integer
-
-> Let $x_1, x_2, \ldots, x_{2023}$ be pairwise different positive real numbers such that $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$ is an integer for every $n = 1, 2, \ldots, 2023$. Prove that $a_{2023} \ge 3034$.
 
 [[Quesiti/src_imho_2023#q04|src_imho_2023__Q04]]
 
@@ -124,7 +132,7 @@ Sum involving reciprocals is always an integer
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_estremalita,method_casework,method_induzione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Ninja path with k red circles in Japanese triangle*
@@ -142,16 +150,17 @@ Sum involving reciprocals is always an integer
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Percorso del ninja con k cerchi rossi nel triangolo giapponese*
 
-Ninja path with k red circles in Japanese triangle
-
-> Let $n$ be a positive integer. A Norwegian triangle is a triangle of $1 + 2 + \cdots + n$ circles arranged in an equilateral triangular shape such that for each $i = 1, 2, \ldots, n$, the $i^{\text{th}}$ row contains exactly $i$ circles, exactly one of which is coloured red. A ninja path in a Norwegian triangle is a sequence of $n$ circles obtained by starting in the top row, then repeatedly going from a circle to one of the two circles immediately below it and finishing in the bottom row. Here is an example of a Norwegian triangle with $n = 6$, along with a ninja path in that triangle containing two red circles.
+> Sia $n$ un intero positivo. Un triangolo norvegese è un triangolo formato da $1 + 2 + \cdots + n$ cerchi disposti in una configurazione equilatera tale che, per ogni $i = 1, 2, \ldots, n$, la riga $i^{\text{th}}$ contiene esattamente $i$ cerchi, di cui esattamente uno è colorato di rosso. Un percorso ninja in un triangolo norvegese è una sequenza di $n$ cerchi ottenuta partendo dalla riga in alto, poi passando ripetutamente da un cerchio a uno dei due cerchi immediatamente sottostanti, e terminando nella riga in basso. Di seguito è riportato un esempio di triangolo norvegese con $n = 6$, insieme a un percorso ninja in tale triangolo che contiene due cerchi rossi.
 > 
-> In terms of $n$, find the greatest $k$ such that in each Norwegian triangle there is a ninja path containing at least $k$ red circles.
+> In termini di $n$, si determini il massimo valore di $k$ tale che in ogni triangolo norvegese esista un percorso del ninja contenente almeno $k$ circoli rossi.
 
 ![[src_imho_2023__q05.png]]
+
+
 
 [[Quesiti/src_imho_2023#q05|src_imho_2023__Q05]]
 
@@ -159,7 +168,7 @@ Ninja path with k red circles in Japanese triangle
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Interior points of equilateral triangle with angle sum condition*
@@ -177,13 +186,16 @@ Ninja path with k red circles in Japanese triangle
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Punti interni di un triangolo equilatero con condizione sulla somma degli angoli*
 
-*Interior points of equilateral triangle with angle sum condition*
-
-> Let $ABC$ be an equilateral triangle. Let $A_1, B_1, C_1$ be interior points of $ABC$ such that $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$, and $$\angle BA_1C + \angle CB_1A + \angle AC_1B = 480^\circ.$$ Let $BC_1$ and $CB_1$ meet at $A_2$; let $CA_1$ and $AC_1$ meet at $B_2$; and let $AB_1$ and $BA_1$ meet at $C_2$. Prove that if the triangle $A_1B_1C_1$ is scalene, then the three lines $A_1A_2$, $B_1B_2$, $C_1C_2$ all pass through two common points.
+> Sia $ABC$ un triangolo equilatero. Siano $A_1, B_1, C_1$ punti interni a $ABC$ tali che $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$ e
+> $$\angle BA_1C + \angle CB_1A + \angle AC_1B = 480^\circ.$$
+> Le rette $BC_1$ e $CB_1$ si incontrano in $A_2$, le rette $CA_1$ e $AC_1$ si incontrano in $B_2$ e le rette $AB_1$ e $BA_1$ si incontrano in $C_2$. Si dimostri che se il triangolo $A_1B_1C_1$ è scaleno, allora le tre rette $A_1A_2$, $B_1B_2$, $C_1C_2$ passano tutte per due punti comuni.
 > 
-> (Note: a scalene triangle is one where no two sides have equal length.)
+> (Nota: un triangolo scaleno è un triangolo in cui nessun due lati ha lunghezza uguale.)
+
+
 
 [[Quesiti/src_imho_2023#q06|src_imho_2023__Q06]]

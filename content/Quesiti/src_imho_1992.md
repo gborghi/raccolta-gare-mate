@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find integers a,b,c with divisibility condition*
@@ -28,12 +28,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare interi a,b,c con condizione di divisibilità*
+
+> Determinare tutti gli interi $a, b, c$ con $1 < a < b < c$ tali che
+> $$(a-1)(b-1)(c-1)$$
+> sia divisore di $abc - 1$.
 
 
-*Find integers a,b,c with divisibility condition*
-
-> Find all integers $a, b, c$ with $1 < a < b < c$ such that $$(a-1)(b-1)(c-1)$$ is a divisor of $abc - 1$.
 
 [[Quesiti/src_imho_1992#q01|src_imho_1992__Q01]]
 
@@ -41,7 +44,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_backward,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all functions satisfying a functional equation*
@@ -56,12 +59,14 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le funzioni che soddisfano un'equazione funzionale*
+
+> Sia $\mathbf{R}$ l'insieme di tutti i numeri reali. Determinare tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ tali che
+> $$f\left(x^2 + f(y)\right) = y + \left(f(x)\right)^2 \quad \text{for all } x, y \in \mathbf{R}.$$
 
 
-Find all functions satisfying a functional equation
-
-> Let $\mathbf{R}$ denotes the set of all real numbers. Find all functions $f : \mathbf{R} \to \mathbf{R}$ such that $$f\left(x^2 + f(y)\right) = y + \left(f(x)\right)^2 \quad \text{for all } x, y \in \mathbf{R}.$$
 
 [[Quesiti/src_imho_1992#q02|src_imho_1992__Q02]]
 
@@ -69,7 +74,7 @@ Find all functions satisfying a functional equation
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_colorazione,method_grafi,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Nine coplanar points, colored edges, monochromatic triangle*
@@ -83,12 +88,13 @@ Find all functions satisfying a functional equation
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Nove punti complanari, lati colorati, triangolo monocromatico*
+
+> Si considerino nove punti nello spazio, nessuno dei quali quattro complanari. Ogni coppia di punti è congiunta da un segmento che viene colorato o di blu, o di rosso, oppure lasciato non colorato. Si determini il più piccolo valore di $n$ tale che, ogni volta che esattamente $n$ spigoli sono colorati, l'insieme degli spigoli colorati contiene necessariamente un triangolo i cui tre lati siano dello stesso colore.
 
 
-*Nine coplanar points, colored edges, monochromatic triangle*
-
-> Consider nine points in space, no four of which are coplanar. Each pair of points is joined by a line segment which is colored either blue or red or left uncolored. Find the smallest value of $n$ such that whenever exactly $n$ edges are colored, the set of colored edges necessarily contains a triangle all of whose edges have the same color.
 
 [[Quesiti/src_imho_1992#q03|src_imho_1992__Q03]]
 
@@ -96,7 +102,7 @@ Find all functions satisfying a functional equation
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Locus of midpoint on circumscribed circle configuration*
@@ -110,12 +116,13 @@ Find all functions satisfying a functional equation
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Luogo del punto medio nella configurazione della circonferenza circoscritta*
+
+> Nel piano sia $C$ una circonferenza, $L$ una retta tangente alla circonferenza $C$, e $M$ un punto su $L$. Si determini il luogo dei punti $P$ con la seguente proprietà: esistono due punti $Q, R$ su $L$ tali che $M$ sia il punto medio del segmento $QR$ e $C$ sia la circonferenza inscritta del triangolo $PQR$.
 
 
-*Locus of midpoint on circumscribed circle configuration*
-
-> In the plane let $C$ be a circle, $L$ a line tangent to the circle $C$, and $M$ a point on $L$. Find the locus of all points $P$ with the following property: there exist two points $Q, R$ on $L$ such that $M$ is the midpoint of $QR$ and $C$ is the inscribed circle of triangle $PQR$.
 
 [[Quesiti/src_imho_1992#q04|src_imho_1992__Q04]]
 
@@ -123,7 +130,7 @@ Find all functions satisfying a functional equation
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_disuguaglianze,method_doppio_conteggio,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Orthogonal projections of a finite set onto coordinate planes*
@@ -139,12 +146,16 @@ Find all functions satisfying a functional equation
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Proiezioni ortogonali di un insieme finito sui piani coordinati*
+
+> Siano $S$ un insieme finito di punti nello spazio tridimensionale. Siano $S_x$, $S_y$, $S_z$ gli insiemi formati rispettivamente dalle proiezioni ortogonali dei punti di $S$ sui piani $yz$, $zx$, $xy$. Si dimostri che
+> $$|S|^2 \leq |S_x| \cdot |S_y| \cdot |S_z|,$$
+> dove $|A|$ indica il numero di elementi dell'insieme finito $|A|$.
+> (Nota: La proiezione ortogonale di un punto su un piano è il piede della perpendicolare condotta da quel punto al piano.)
 
 
-*Orthogonal projections of a finite set on coordinate planes*
-
-> Let $S$ be a finite set of points in three-dimensional space. Let $S_x$, $S_y$, $S_z$ be the sets consisting of the orthogonal projections of the points of $S$ onto the $yz$-plane, $zx$-plane, $xy$-plane, respectively. Prove that $$|S|^2 \leq |S_x| \cdot |S_y| \cdot |S_z|,$$ where $|A|$ denotes the number of elements in the finite set $|A|$. (Note: The orthogonal projection of a point onto a plane is the foot of the perpendicular from that point to the plane.)
 
 [[Quesiti/src_imho_1992#q05|src_imho_1992__Q05]]
 
@@ -152,7 +163,7 @@ Find all functions satisfying a functional equation
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *S(n) greatest integer for sum of k positive squares*
@@ -172,17 +183,18 @@ Find all functions satisfying a functional equation
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*S(n) massimo intero tale che la somma di k quadrati positivi sia n*
+
+> Per ogni intero positivo $n$, $S(n)$ è definito come il massimo intero tale che, per ogni intero positivo $k \leq S(n)$, $n^2$ può essere scritto come somma di $k$ quadrati positivi.
+> 
+> **(a)** Si dimostri che $S(n) \leq n^2 - 14$ per ogni $n \geq 4$.
+> 
+> **(b)** Determinare un intero $n$ tale che $S(n) = n^2 - 14$.
+> 
+> **(c)** Si dimostri che esistono infiniti interi $n$ tali che $S(n) = n^2 - 14$.
 
 
-*S(n) greatest integer for sum of k positive squares*
-
-> For every positive integer $n$, $S(n)$ is defined to be the greatest integer such that, for every positive integer $k \leq S(n)$, $n^2$ can be written as the sum of $k$ positive squares.
-> 
-> Prove that for each $n \geq 4$.
-> 
-> **(b) ** Find an integer $n$ such that $S(n) = n^2 - 14$.
-> 
-> Prove that there are infinitely many integers such that $S(n) = n^2 - 14$.
 
 [[Quesiti/src_imho_1992#q06|src_imho_1992__Q06]]

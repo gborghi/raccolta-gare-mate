@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Infinite sequence of positive integers with a ratio bound*
@@ -27,12 +27,14 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Successione infinita di interi positivi con un vincolo sul rapporto*
+
+> Sia $a_0 < a_1 < a_2 < \cdots$ una successione infinita di interi positivi. Si dimostri che esiste un unico numero intero $n \ge 1$ tale che
+> $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
 
 
-*Infinite sequence of positive integers with a ratio bound*
-
-> Let$a_0 < a_1 < a_2 < \cdots$be an infinite sequence of positive integers. Prove that there exists a unique integer $n \ge 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
 
 [[Quesiti/src_imho_2014#q01|src_imho_2014__Q01]]
 
@@ -40,7 +42,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Peaceful rook configurations on n×n board with no k×k empty square*
@@ -54,12 +56,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Configurazioni pacifiche di torre su una scacchiera n×n senza quadrati k×k vuoti*
+
+> Sia $n \ge 2$ un numero intero. Si consideri una scacchiera di dimensione $n \times n$ composta da $n^2$ quadratini unitari. Una configurazione di $n$ torri su questa scacchiera si dice pacifica se ogni riga e ogni colonna contiene esattamente una torre. Si determini il massimo intero positivo $k$ tale che, per ogni configurazione pacifica di $n$ torri, esista un quadrato di lato $k \times k$ che non contiene alcuna torre nei suoi $k^2$ quadratini unitari.
 
 
-*Peaceful rook configurations on n×n board with no k×k empty square*
-
-> Let $n \ge 2$ be an integer. Consider a $n \times n$ chessboard consisting of $n^2$ unit squares. A configuration of $n$ rooks on this board is called peaceful if every row and every column contains exactly one rook. Find the greatest positive integer $k$ such that, for each peaceful configuration of $n$ rooks, there is a $k \times k$ square which does not contain a rook on any of its $k^2$ unit squares.
 
 [[Quesiti/src_imho_2014#q02|src_imho_2014__Q02]]
 
@@ -67,7 +70,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *BD tangent to circumcircle of triangle TSH in convex quadrilateral*
@@ -83,12 +86,15 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*BD tangente alla circonferenza circoscritta al triangolo TSH nel quadrilatero convesso*
+
+> Sia il quadrilatero convesso $ABCD$ tale che $\angle ABC = \angle CDA = 90^\circ$. Sia $H$ il piede della perpendicolare da $A$ a $BD$. Siano i punti $S$ e $T$ rispettivamente sui lati $AB$ e $AD$, in modo che $H$ sia interno al triangolo $SCT$ e valga
+> $$\angle CHS - \angle CSB = 90^\circ, \quad \angle THC - \angle DTC = 90^\circ.$$.
+> Si dimostri che la retta $BD$ è tangente alla circonferenza circoscritta al triangolo $TSH$.
 
 
-*BD tangent to circumcircle of triangle TSH in convex quadrilateral*
-
-> The convex quadrilateral $ABCD$ has $\angle ABC = \angle CDA = 90^\circ$. Point $H$ is the foot of the perpendicular from $A$ to $BD$. Points $S$ and $T$ lie on sides $AB$ and $AD$, respectively, such that $H$ lies inside triangle $SCT$ and $$\angle CHS - \angle CSB = 90^\circ, \quad \angle THC - \angle DTC = 90^\circ.$$ Prove that line $BD$ is tangent to the circumcircle of triangle $TSH$.
 
 [[Quesiti/src_imho_2014#q03|src_imho_2014__Q03]]
 
@@ -96,7 +102,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Lines BM and CN concur on circumcircle of triangle ABC*
@@ -110,12 +116,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Le rette BM e CN si incontrano sulla circonferenza circoscritta al triangolo ABC*
+
+> I punti $P$ e $Q$ giacciono sul lato $BC$ del triangolo acutangolo $ABC$ in modo che $\angle PAB = \angle BCA$ e $\angle CAQ = \angle ABC$. I punti $M$ e $N$ giacciono rispettivamente sulle rette $AP$ e $AQ$, in modo che $P$ sia il punto medio di $AM$ e $Q$ sia il punto medio di $AN$. Si dimostri che le rette $BM$ e $CN$ si intersecano sulla circonferenza circoscritta al triangolo $ABC$.
 
 
-Lines BM and CN concur on circumcircle of triangle ABC
-
-> Points $P$ and $Q$ lie on side $BC$ of acute-angled triangle $ABC$ so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. Points $M$ and $N$ lie on lines $AP$ and $AQ$, respectively, such that $P$ is the midpoint of $AM$, and $Q$ is the midpoint of $AN$. Prove that lines $BM$ and $CN$ intersect on the circumcircle of triangle $ABC$.
 
 [[Quesiti/src_imho_2014#q04|src_imho_2014__Q04]]
 
@@ -123,7 +130,7 @@ Lines BM and CN concur on circumcircle of triangle ABC
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_induzione,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Bank of Cape Town coins split into groups of at most 1*
@@ -137,12 +144,13 @@ Lines BM and CN concur on circumcircle of triangle ABC
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Monete della Banca di Città del Capo divise in gruppi di al più 1*
+
+> Per ogni intero positivo $n$, la Banca di Città del Capo emette monete del valore $\frac{1}{n}$. Dato un insieme finito di tali monete (non necessariamente con valori diversi), la cui somma totale sia al più $99 + \frac{1}{2}$, si dimostri che è possibile suddividere questo insieme in al più $100$ gruppi, ciascuno dei quali abbia somma totale al più $1$.
 
 
-Bank of Cape Town coins split into groups of at most 1
-
-> For each positive integer $n$, the Bank of Cape Town issues coins of denomination $\frac{1}{n}$. Given a finite collection of such coins (of not necessarily different denominations) with total value at most $99 + \frac{1}{2}$, prove that it is possible to split this collection into at most $100$ groups, such that each group has total value at most $1$.
 
 [[Quesiti/src_imho_2014#q05|src_imho_2014__Q05]]
 
@@ -150,7 +158,7 @@ Bank of Cape Town coins split into groups of at most 1
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_colorazione,method_grafi,method_estremalita,method_induzione,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Coloring sqrt(n) lines blue with completely blue finite region*
@@ -166,13 +174,14 @@ Bank of Cape Town coins split into groups of at most 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Colorare di blu sqrt(n) rette con una regione finita tutta blu*
 
-*Coloring sqrt(n) lines blue with completely blue finite region*
-
-> A set of lines in the plane is in general position if no two are parallel and no three pass through the same point. A set of lines in general position cuts the plane into regions, some of which have finite area; we call these its finite regions. Prove that for all sufficiently large $n$, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ of the lines blue in such a way that none of its finite regions has a completely blue boundary.
+> Un insieme di rette nel piano è in posizione generale se nessuna coppia è parallela e nessuna terna passa per lo stesso punto. Un insieme di rette in posizione generale suddivide il piano in regioni, alcune delle quali hanno area finita; chiamiamo queste ultime le sue regioni finite. Si dimostri che per ogni $n$ sufficientemente grande, in qualsiasi insieme di $n$ rette in posizione generale è possibile colorare almeno $\sqrt{n}$ di esse di blu in modo tale che nessuna delle sue regioni finite abbia tutto il confine colorato di blu.
 > 
-> \textit{Note:} Results with $\sqrt{n}$ replaced by $c\sqrt{n}$ will be awarded points depending on the value of the constant $c$.
+> \textit{Nota:} I punteggi attribuiti ai risultati con $\sqrt{n}$ sostituito da $c\sqrt{n}$ dipenderanno dal valore della costante $c$.
+
+
 
 [[Quesiti/src_imho_2014#q06|src_imho_2014__Q06]]

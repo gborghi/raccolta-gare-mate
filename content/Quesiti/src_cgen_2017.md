@@ -73,30 +73,73 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Sottoinsiemi finiti A di C di 'tipo S' (ogni due elementi z1, z2 soddisfano z1*z2 = z1^2 + z2^2); studio di b(A), il minimo modulo strettamente maggiore di 1 di un elemento di A (o infinito); esempi, i reticoli Z[j] e insiemi correlati, e determinazione di tutti i possibili valori di b(A).*
 
-*Subinsiemi finiti A di C di "tipo S" (qualsiasi due elementi z1, z2 soddisfano z1*z2 = z1^2 + z2^2); studio di b(A), il modulo più piccolo strettamente superiore a 1 di un elemento di A (o infinito); esempi, le griglie Z[j] e i set correlati, e determinazione di tutti i valori possibili di b(A).*
-
-> Un sottogruppo finito $\mathscr{A}$ di $\mathbb{C}$ (l'insieme dei numeri complessi) è detto di tipo $S$ se, per due elementi $z_1$ e $z_2$ di $\mathscr{A}$, il prodotto $z_1 z_2$ è uguale alla somma $z_1^2 + z_2^2$ dei loro quadrati.
+> Un sottoinsieme finito $\mathscr{A}$ di $\mathbb{C}$ (l'insieme dei numeri complessi) si dice di tipo $S$ se, per ogni coppia di elementi $z_1$ e $z_2$ appartenenti a $\mathscr{A}$, il prodotto $z_1 z_2$ è uguale alla somma $z_1^2 + z_2^2$ dei loro quadrati.
 > 
-> In tutto questo problema, $\mathscr{A}$ indica un sottoinsieme finito di $\mathbb{C}$ del tipo $S$.
+> In tutto questo problema, $\mathscr{A}$ indica un sottoinsieme finito di $\mathbb{C}$ di tipo $S$.
 > 
-> Indichiamo con $b(\mathscr{A})$ il più piccolo dei moduli $|z|$ dei numeri complessi $z$ di $\mathscr{A}$ il cui modulo $|z|$ è strettamente superiore a $1$. Si imposta $b(\mathscr{A}) = \infty$ se non esiste un tale numero.
+> Indichiamo con $b(\mathscr{A})$ il più piccolo tra i moduli $|z|$ dei numeri complessi $z$ di $\mathscr{A}$ i cui moduli $|z|$ siano strettamente maggiori di $1$. Poniamo $b(\mathscr{A}) = \infty$ se non esiste alcun tale numero.
 > 
 > \textbf{1.1 Alcuni semplici esempi.}
 > 
-> \textbf{1.} I seguenti sottoinsiemi di $\mathbb{C}$ sono di tipo $S$ (questo non è necessario verificare); specificare per ciascuno il valore di $b(\mathscr{A})$. Il numero di persone che si trovano in questo paese è inferiore a quello di tutti gli Stati membri. Il numero di persone che hanno il diritto di soggiornare è indicato nella tabella di riferimento. Il numero di persone che hanno il diritto di soggiornare è inferiore a quello di chi ha il diritto di soggiornare. L'esercizio di questo tipo di attività è stato completato nel corso della durata di un anno.
+> \textbf{1.} I seguenti sottoinsiemi di $\mathbb{C}$ sono di tipo $S$ (non è richiesto verificarlo); per ciascuno indicare il valore di $b(\mathscr{A})$.
+> \textbf{a.} $\mathscr{A} = \{0\}$.
+> \textbf{b.} $\mathscr{A} = \mathbb{C}$.
+> \textbf{c.} $\mathscr{A} = \mathbb{N}$.
+> \textbf{d.} $\mathscr{A} = \mathbb{N}^*$.
 > 
-> - Sì, signore. a.} Fornire un esempio di un sottoinsieme $\mathscr{A}$ di tipo $S$ tale da $b(\mathscr{A}) = 0$. \textbf{b.} Fornire un esempio di un sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) = \infty$. \textbf{3.} $\overline{\mathscr{A}}$ sia il sottogruppo di $\mathbb{C}$ costituito dai numeri complessi coniugati a quelli di $\mathscr{A}$. Indicare che $\overline{\mathscr{A}}$ è di tipo $S$ e determinare $b(\overline{\mathscr{A}})$.
+> \textbf{2. a.} Si dia un esempio di un sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) = 0$.
+> \textbf{b.} Si dia un esempio di un sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) = \infty$.
+> \textbf{3.} Sia $\overline{\mathscr{A}}$ il sottoinsieme di $\mathbb{C}$ formato dai numeri complessi coniugati a quelli di $\mathscr{A}$. Si dimostri che $\overline{\mathscr{A}}$ è di tipo $S$ e si determini $b(\overline{\mathscr{A}})$.
 > 
-> \textbf{1.2 Due esempi di sottoinsiemi di $\mathbb{C}$ di tipo $S$.}
+> \textbf{1.2 Due esempi di sottoinsiemi di $\mathbb{C}$ del tipo $S$.}
 > 
-> \textbf{1.} Definitiamo il numero complesso $j$ da $j = e^{2i\pi/3} = -\frac{1}{2} + \frac{1}{2} i\sqrt{3}$, e denonizziamo $\mathbb{Z}[j] = \{a + bj \;;\; (a,b) \in \mathbb{Z}^2\}$, cioè il sottogruppo di $\mathbb{C}$ costituito dai numeri complessi della forma $a + bj$ con $a$ e $b$ in $\mathbb{Z}$. \textbf{a.} Calcolare $1 + j + j^2$. \textbf{b.} Indicare che $\mathbb{Z}[j]$ è di tipo $S$. Determinazione $b(\mathbb{Z}[j])$. \textbf{d.} Let $\mathbb{Z}[j]^* = \mathbb{Z}[j] \setminus \{0\}$ (gli elementi non zero di $\mathbb{Z}[j]$). giustificare che $\mathbb{Z}[j]^*$ sia di tipo $S$ e determinare $b(\mathbb{Z}[j]^*)$. \textbf{2.} Definiamo il sottogruppo $\mathscr{B}$ di $\mathbb{C}$ da $$\mathscr{B} = \{ z \in \mathbb{C} \;;\; z^2 \in \mathbb{Z}[j] \}.$$ Così il numero complesso $z$ appartiene a $\mathscr{B}$ se e solo se il suo quadrato è un elemento di $\mathbb{Z}[j]$. \textbf{a.} Mostra che $\mathscr{B}$ è di tipo $S$. Determinare $b(\mathscr{B})$.
+> **1.** Definiamo il numero complesso $j$ mediante $j = e^{2i\pi/3} = -\frac{1}{2} + \frac{1}{2} i\sqrt{3}$, e indichiamo con $\mathbb{Z}[j] = \{a + bj \;;\; (a,b) \in \mathbb{Z}^2\}$ il sottoinsieme di $\mathbb{C}$ formato dai numeri complessi della forma $a + bj$ con $a$ e $b$ in $\mathbb{Z}$.
+>
+> **a.** Calcolare $1 + j + j^2$.
+> **b.** Dimostrare che $\mathbb{Z}[j]$ è di tipo $S$.
+> **c.** Determinare $b(\mathbb{Z}[j])$.
+> **d.** Sia $\mathbb{Z}[j]^* = \mathbb{Z}[j] \setminus \{0\}$ (gli elementi non nulli di $\mathbb{Z}[j]$). Giustificare che $\mathbb{Z}[j]^*$ è di tipo $S$ e determinare $b(\mathbb{Z}[j]^*)$.
+>
+> **2.** Definiamo il sottoinsieme $\mathscr{B}$ di $\mathbb{C}$ mediante
+> $$\mathscr{B} = \{ z \in \mathbb{C} \;;\; z^2 \in \mathbb{Z}[j] \}.$$
+> Pertanto, il numero complesso $z$ appartiene a $\mathscr{B}$ se e solo se il suo quadrato è un elemento di $\mathbb{Z}[j]$.
+>
+> **a.** Dimostrare che $\mathscr{B}$ è di tipo $S$.
+> **b.** Determinare $b(\mathscr{B})$.
 > 
-> \textbf{1.3 sulla ricerca dei possibili valori di $b(\mathscr{A})$.}
+> \textbf{1.3 Alla ricerca dei possibili valori di $b(\mathscr{A})$.}
 > 
-> \textbf{1.} Supponiamo che esista $a \in \mathscr{A}$ tale che $0 < |a| < 1$. Mostra che $b(\mathscr{A}) = \infty$. In questa domanda consideriamo un numero complesso $a$ del modulo $1$. Indichiamo con $\arg(a)$ l'argomento unico di $a$ nell'intervallo $[-\pi, \pi[$. Supponiamo inoltre che nessun multiple di $\frac{\pi}{2}$ sia un argomento di $a$. \textbf{a.} Mostrare che si può ottenere un argomento di $a^2 + a^4$ (o di $a^4 + a^8$), di modulo non zero e di un numero reale strettamente inferiore a $1$. [Nota: questa sottoquestione è parzialmente illeggibile nella fonte.] \textbf{b.} Deduce che se un argomento di $a$ è in $[0, \frac{\pi}{4}]$, allora esiste $n \in \mathbb{N}^*$ tale che $0 < |a^{2n} + a^{4n}| < 1$. \textbf{c.} Mostra che se un argomento di $a$ è in $]-\frac{3\pi}{4}, 0]$, allora esiste $n \in \mathbb{N}^*$ tale che $0 < |a^{2n} + a^{4n}| < 1$. \textbf{d.} Concludere che esiste sempre $n \in \mathbb{N}^*$ tale che $0 < |a^{2n} + a^{4n}| < 1$. \textbf{3.} Supponiamo, in questa domanda, che $b(\mathscr{A})$ sia finito e strettamente maggiore di $2$. \textbf{a.} Mostra che esiste $z$ in $\mathscr{A}$ tale che $|z| > 1$. Quali sono i valori possibili per $\arg(z)$? \textbf{c.} Deduce che $b(\mathscr{A}) \le 17$. \textbf{4.} Date un esempio di un sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) > 2$. \textbf{5.} Date un esempio di un sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) > 8$. Quali sono i valori possibili per $b(\mathscr{A})$?
+> \textbf{1.} Si supponga che esista $a \in \mathscr{A}$ tale che $0 < |a| < 1$. Si dimostri che $b(\mathscr{A}) = \infty$.
+>
+> \textbf{2.} In questo quesito consideriamo un numero complesso $a$ di modulo $1$. Indichiamo con $\arg(a)$ l'unico argomento di $a$ nell'intervallo $[-\pi, \pi[$. Supponiamo inoltre che nessun multiplo di $\frac{\pi}{2}$ sia un argomento di $a$.
+>
+> \textbf{a.} Si mostri che un argomento di $a^2 + a^4$ (oppure di $a^4 + a^8$) può essere ottenuto con modulo non nullo e numero reale strettamente minore di $1$. [Nota: questo sottopunto è parzialmente illeggibile nella fonte.]
+>
+> \textbf{b.} Si deduca che, se un argomento di $a$ appartiene a $[0, \frac{\pi}{4}]$, allora esiste $n \in \mathbb{N}^*$ tale che $0 < |a^{2n} + a^{4n}| < 1$.
+>
+> \textbf{c.} Si mostri che, se un argomento di $a$ appartiene a $]-\frac{3\pi}{4}, 0]$, allora esiste $n \in \mathbb{N}^*$ tale che $0 < |a^{2n} + a^{4n}| < 1$.
+>
+> \textbf{d.} Si concluda che esiste sempre $n \in \mathbb{N}^*$ tale che $0 < |a^{2n} + a^{4n}| < 1$.
+>
+> \textbf{3.} Si supponga, in questo quesito, che $b(\mathscr{A})$ sia finito e strettamente maggiore di $2$.
+>
+> \textbf{a.} Si mostri che esiste $z$ in $\mathscr{A}$ tale che $|z| > 1$.
+>
+> \textbf{b.} Quali sono i possibili valori di $\arg(z)$?
+>
+> \textbf{c.} Si deduca che $b(\mathscr{A}) \le 17$.
+>
+> \textbf{4.} Si dia un esempio di sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) > 2$.
+>
+> \textbf{5.} Si dia un esempio di sottoinsieme $\mathscr{A}$ di tipo $S$ tale che $b(\mathscr{A}) > 8$.
+>
+> \textbf{6.} Quali sono i possibili valori di $b(\mathscr{A})$?
+
+
 
 [[Quesiti/src_cgen_2017#q01|src_cgen_2017__Q01]]
 

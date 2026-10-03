@@ -609,14 +609,14 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Numero di soluzioni reali di x|x|+y|y|=1 e floor(x)+floor(y)=1*
 
-*Numero di soluzioni reali di x) di x) di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di x) di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di
-
-> Qual è il numero di soluzioni reali del sistema $$x \cdot |x| + y \cdot |y| = 1 \quad \text{and} \quad \lfloor x \rfloor + \lfloor y \rfloor = 1,$$ in cui $\lfloor x \rfloor$ rappresenta la parte integrale di $x$?
+> Qual è il numero di soluzioni reali del sistema $$x \cdot |x| + y \cdot |y| = 1 \quad \text{and} \quad \lfloor x \rfloor + \lfloor y \rfloor = 1,$$ in cui $\lfloor x \rfloor$ rappresenta la parte intera di $x$?
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$
+
 
 [[Quesiti/src_obm_2008_n3_f1#q19|src_obm_2008_n3_f1__Q19]]
 

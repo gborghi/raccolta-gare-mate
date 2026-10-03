@@ -83,14 +83,15 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SJ0WulkahJ1owyeufg6sr3eDO1pnnUeb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Determinare tutti gli interi positivi n tali che se p | x^n-1 allora p^2 | x^n-1*
 
-*Find positive integers n such that p | x^n-1 implies p^2 | x^n-1*
-
-> Let $p$ be a prime. Find all positive integers $n$ satisfying the following condition:
+> Sia $p$ un numero primo. Determinare tutti gli interi positivi $n$ che soddisfano la seguente condizione:
 > 
-> **Condition:** For every integer $x$, if $p$ divides $x^n - 1$ then $p^2$ also divides $x^n - 1$.
+> **Condizione:** Per ogni intero $x$, se $p$ divide $x^n - 1$ allora $p^2$ divide anche $x^n - 1$.
+
+
 
 [[Quesiti/src_jmo22mq_honsen#q03|src_jmo22mq_honsen__Q03]]
 

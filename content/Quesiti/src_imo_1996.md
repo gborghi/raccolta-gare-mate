@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_congruenze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Knight-like moves of distance sqrt(r) across board corners*
@@ -34,12 +34,22 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Mosse da alfiere di distanza √r attraverso gli angoli della scacchiera*
+
+> Sono dati un intero positivo r e una tavola rettangolare ABCD di
+> dimensioni |AB| = 20, |BC| = 12. Il rettangolo è suddiviso in una griglia
+> di 20 × 12 quadratini unitari. Sulla tavola sono consentite le mosse
+> seguenti: si può passare da un quadratino a un altro solo se la distanza
+> tra i centri dei due quadratini è √r. Si tratta di trovare una
+> successione di mosse che porti dal quadratino che ha A come vertice al
+> quadratino che ha B come vertice.
+> (a) Si dimostri che ciò è impossibile se r è divisibile per 2 o per 3.
+> (b) Si dimostri che ciò è possibile per r = 73.
+> (c) È possibile per r = 97?
 
 
-*Knight-like moves of distance sqrt(r) across board corners*
-
-> We are given a positive integer r and a rectangular board ABCD with dimensions =AB = 20, The rectangle is divided into a grid of 20 × 12 unit squares. The following moves are allowed on the board: one can move from one square to another only if the distance between the centers of the two squares is √r. The task is to find a sequence of moves leading from the square with A as a vertex to the square with B as a vertex. (a) Show that the task cannot be done if r is divisible by 2 or 3. (b) Prove that the task is possible when r = 73. (c) Can the task be done when r = 97?
 
 [[Quesiti/src_imo_1996#q01|src_imo_1996__Q01]]
 
@@ -47,7 +57,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Show AP, BD, CE concurrent with incenter angle condition*
@@ -64,12 +74,16 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Si dimostri che AP, BD, CE sono concorrenti sotto la condizione sugli angoli dell'incentro*
+
+> Sia P un punto interno al triangolo ABC tale che
+> ∠APB − ∠ACB = ∠APC − ∠ABC.
+> Siano D ed E gli incentri dei triangoli APB e APC, rispettivamente.
+> Si dimostri che le rette AP, BD ed EC si incontrano in un punto.
 
 
-*Show AP, BD, CE concurrent with incenter angle condition*
-
-> Let P be a point inside triangle ABC such that  APB − ACB =  APC − ABC. Let D, E be the incenters of triangles APB, APC, respectively. Show that AP, BD, CE meet at a point.
 
 [[Quesiti/src_imo_1996#q02|src_imo_1996__Q02]]
 
@@ -77,7 +91,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,method_invarianti,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all f with f(m+f(n))=f(f(m))+f(n)*
@@ -99,12 +113,23 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le funzioni f tali che f(m+f(n))=f(f(m))+f(n)*
+
+> Sia S l'insieme degli interi non negativi. Determinare tutte le funzioni f da S a sé stesso tali che
+>
+> f(m + f(n)) = f(f(m)) + f(n)
+>
+> per ogni m, n ∈ S.
+>
+> XXXVII Olimpiade Internazionale di Matematica
+> Mumbai, India
+> Giorno II
+> ore 9:00 - 13:30
+> 11 luglio 1996
 
 
-*Find all f with f(m+f(n))=f(f(m))+f(n) *
-
-> Let S denotes the set of nonnegative integers. Find all functions f from S to itself such that f(m + f(n)) = f(f(m)) + f(n) ∀m, n ∈S. 37th International Mathematical Olympiad Mumbai, India Day II at 9 am - 1:30 p.m. July 11, 1996
 
 [[Quesiti/src_imo_1996#q03|src_imo_1996__Q03]]
 

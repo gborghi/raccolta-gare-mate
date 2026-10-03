@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_colorazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Chessboard triangle black-white area difference function f(m,n)*
@@ -40,12 +40,28 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Funzione della differenza delle aree nere e bianche in un triangolo sulla scacchiera f(m,n)*
+
+> Nel piano i punti a coordinate intere sono i vertici di quadratini unitari.
+> I quadratini sono colorati alternativamente di bianco e di nero (come in una scacchiera).
+> Per ogni coppia di interi positivi m e n, si consideri un triangolo rettangolo i cui
+> vertici hanno coordinate intere e i cui cateti, di lunghezze m e n, giacciono lungo
+> lati dei quadratini.
+> Sia S1 l'area totale della parte nera del triangolo e S2 l'area totale
+> della parte bianca. Sia
+> f(m, n) = |S1 −S2|.
+> (a)
+> Calcolare f(m, n) per tutti gli interi positivi m e n che siano entrambi
+> pari o entrambi dispari.
+> (b)
+> Si dimostri che f(m, n) ≤1
+> 2 max{m, n} per ogni m e n.
+> (c)
+> Si dimostri che non esiste alcuna costante C tale che f(m, n) < C per ogni m e n.
 
 
-Chessboard triangle black-white area difference function f(m,n)
-
-> In the plane the points with integers are the vertices of unit squares. The squares are alternately colored black and white (as on a chessboard). For any pair of positive integers m and n, consider a right-angled triangle whose vertices have integer coordinates and whose legs, of lengths m and n, lie along edges of the squares. Let S1 be the total area of the black part of the triangle and S2 be the total area of the white part. Let f, m, n = S1 − S2 be the same. (a) Calculate f ((m, n) for all positive integers m and n which are either even or both odd. (b) Prove that f (m, n) ≤1 2 max{m, n} for all m and n. (c) Show that there is no constant C such that f ((m, n) < C for all m and n.
 
 [[Quesiti/src_imo_1997#q01|src_imo_1997__Q01]]
 
@@ -53,7 +69,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Prove AU=TB+TC with perpendicular-bisector construction*
@@ -72,12 +88,18 @@ Chessboard triangle black-white area difference function f(m,n)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Si dimostri che AU = TB + TC con la costruzione dell'asse perpendicolare*
+
+> L'angolo in A è il minore degli angoli del triangolo ABC. I punti B e C
+> dividono la circonferenza circoscritta al triangolo in due archi. Sia U un punto interno
+> all'arco tra B e C che non contiene A. Gli assi
+> di AB e AC incontrano la retta AU in V e W rispettivamente. Le rette
+> BV e CW si incontrano in T. Si dimostri che
+> AU = TB + TC.
 
 
-*Prove AU=TB+TC with perpendicular-bisector construction*
-
-> The angle at A is the smallest angle of triangle ABC. The points B and C divide the circumcircle of the triangle into two arcs. Let U be an interior point of the arc between B and C which does not contain A. The perpendicular bisectors of AB and AC meet the line AU at V and W, respectively. The lines BV and CW meet at T. Show that AU is TB + TC.
 
 [[Quesiti/src_imo_1997#q02|src_imo_1997__Q02]]
 
@@ -85,7 +107,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_estremalita"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Permutation making weighted sum small under coefficient bounds*
@@ -112,26 +134,27 @@ Chessboard triangle black-white area difference function f(m,n)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Permutazione che rende piccolo un prodotto ponderato con vincoli sui coefficienti*
 
-*Permutation making weighted sum small under coefficient bounds*
-
-> Let x1, x2, . . . , xn be real numbers satisfying the conditions
+> Siano x1, x2, . . . , xn numeri reali che soddisfano le condizioni
 > |x1 + x2 + · · + xn| = 1
-> and
+> e
 > |xi| ≤n + 1
 > 2
 > i = 1, 2, . . . , n.
-> Show that there exists a permutation y1, y2, . . . , yn of x1, x2, . . . , xn such that
+> Si dimostri che esiste una permutazione y1, y2, . . . , yn di x1, x2, . . . , xn tale che
 > |y1 + 2y2 + · · + nyn| ≤n + 1
 > 2
 > .
 > 
-> 38th International Mathematical Olympiad
+> LXXXVIII Olimpiade Internazionale di Matematica
 > Mar del Plata, Argentina
-> Day II
-> July 25, 1997
+> Giorno II
+> 25 luglio 1997
+
+
 
 [[Quesiti/src_imo_1997#q03|src_imo_1997__Q03]]
 
@@ -139,7 +162,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_colorazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *none for n=1997, exist for infinitely many n*
@@ -158,12 +181,19 @@ Chessboard triangle black-white area difference function f(m,n)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*non esiste per n=1997, esiste per infiniti n*
+
+> Una matrice n × n i cui elementi appartengono all'insieme S = {1, 2, . . . , 2n −1} si
+> dice matrice d'argento se, per ogni i = 1, 2, . . . , n, la i-esima riga e la i-esima colonna
+> insieme contengono tutti gli elementi di S. Si dimostri che
+> (a)
+> non esiste alcuna matrice d'argento per n = 1997;
+> (b)
+> esistono matrici d'argento per infiniti valori di n.
 
 
-*none for n=1997, exist for infinitely many n*
-
-> An n × n matrix whose entries come from the set S = {1, 2, . . . , 2n −1} is called a silver matrix if, for each i = 1, 2, . . . , n, the ith row and the ith column together contain all elements of S. Show that (a) there is no silver matrix for n = 1997; (b) silver matrices exist for infinitely many values of n.
 
 [[Quesiti/src_imo_1997#q04|src_imo_1997__Q04]]
 
@@ -171,7 +201,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all integer pairs with a^(b^2)=b^a*
@@ -185,12 +215,14 @@ Chessboard triangle black-white area difference function f(m,n)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutte le coppie di interi tali che a^(b^2) = b^a*
+
+> Determinare tutte le coppie (a, b) di interi a, b ≥1 che soddisfano l'equazione
+> ab2 = ba.
 
 
-*Find the integer pairs with a^(b^2)=b^a*
-
-> Find all pairs (a, b) of integers a, b ≥1 that satisfy the equation ab2 = ba.
 
 [[Quesiti/src_imo_1997#q05|src_imo_1997__Q05]]
 
@@ -198,7 +230,7 @@ Chessboard triangle black-white area difference function f(m,n)
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_ricorsione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Bound f(2^n), partitions of n into powers of 2*
@@ -218,11 +250,19 @@ Chessboard triangle black-white area difference function f(m,n)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Stimare f(2^n), partizioni di n in potenze di 2*
+
+> Per ogni intero positivo n, sia f(n) il numero dei modi di rappresentare
+> n come somma di potenze di 2 con esponenti interi non negativi. Rappresentazioni
+> che differiscono solo per l'ordine degli addendi sono considerate
+> uguali. Per esempio, f(4) = 4, perché il numero 4 si può rappresentare nei
+> quattro modi seguenti:
+> 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1.
+> Si dimostri che, per ogni intero n ≥3,
+> 2n2/4 < f(2n) < 2n2/2.
 
 
-*Bound f(2^n), partitions of n into powers of 2 *
-
-> For each positive integer n , let f(n) denotes the number of ways of representing n as a sum of powers of 2 with nonnegative integer exponents. Representations which differ only in the ordering of their summands are considered to be the same. For example, f(4) = 4, because the number 4 can be represented in the following four ways: 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1. Prove that, for any integer n ≥3, 2n2/4 < f(2n) < 2n2/2.
 
 [[Quesiti/src_imo_1997#q06|src_imo_1997__Q06]]

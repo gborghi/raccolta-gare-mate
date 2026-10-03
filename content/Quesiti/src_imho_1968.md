@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Unique triangle with consecutive integer sides, one angle double another*
@@ -26,12 +26,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Triangolo unico con lati interi consecutivi, un angolo doppio di un altro*
+
+> Si dimostri che esiste uno e un solo triangolo i cui lati sono numeri interi consecutivi, e tale che uno dei suoi angoli sia il doppio di un altro.
 
 
-Unique triangle with consecutive integer sides, one angle double another
-
-> Prove that there is one and only one triangle whose side lengths are consecutive integers, and one of whose angles is twice as large as another.
 
 [[Quesiti/src_imho_1968#q01|src_imho_1968__Q01]]
 
@@ -39,7 +40,7 @@ Unique triangle with consecutive integer sides, one angle double another
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Find all real x where digit product equals x^2 - 10x - 22*
@@ -53,12 +54,13 @@ Unique triangle with consecutive integer sides, one angle double another
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutti i numeri reali x tali che il prodotto delle cifre di x sia uguale a x² - 10x - 22*
+
+> Determinare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (nella notazione decimale) è uguale a $x^2 - 10x - 22$.
 
 
-Find the real x where digit product equals x^2 - 10x - 22
-
-> Find all natural numbers $x$ such that the product of their digits (in decimal notation) is equal to $x^2 - 10x - 22$.
 
 [[Quesiti/src_imho_1968#q02|src_imho_1968__Q02]]
 
@@ -66,7 +68,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_invarianti,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *System of equations: analyze solutions based on discriminant Delta*
@@ -90,14 +92,23 @@ Find the real x where digit product equals x^2 - 10x - 22
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Sistema di equazioni: analizzare le soluzioni in base al discriminante Delta*
 
-*System of equations: analyze solutions based on discriminant Delta*
-
-> Consider the system of equations $$ax_1^2 + bx_1 + c = x_2$$ $$ax_2^2 + bx_2 + c = x_3$$ $$\vdots$$ $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$ $$ax_n^2 + bx_n + c = x_1$$ with unknowns $x_1, x_2, \ldots, x_n$, where $a, b, c$ are real and $a \neq 0$. Let $\Delta = (b-1)^2 - 4ac$.
+> Si consideri il sistema di equazioni
+> $$ax_1^2 + bx_1 + c = x_2$$
+> $$ax_2^2 + bx_2 + c = x_3$$
+> $$\vdots$$
+> $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$
+> $$ax_n^2 + bx_n + c = x_1$$
+> con incognite $x_1, x_2, \ldots, x_n$, dove $a, b, c$ sono numeri reali e $a \neq 0$. Sia $\Delta = (b-1)^2 - 4ac$.
 > 
-> (a) If $\Delta < 0$, there is no solution. (b) If $\Delta = 0$, there is exactly one solution. (c) If $\Delta > 0$, there is more than one solution.
+> (a) Se $\Delta < 0$, non esiste alcuna soluzione.
+> (b) Se $\Delta = 0$, esiste esattamente una soluzione.
+> (c) Se $\Delta > 0$, esistono più di una soluzione.
+
+
 
 [[Quesiti/src_imho_1968#q03|src_imho_1968__Q03]]
 
@@ -105,7 +116,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Tetrahedron with a vertex whose three edges are triangle sides*
@@ -119,12 +130,13 @@ Find the real x where digit product equals x^2 - 10x - 22
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Tetraedro con un vertice le cui tre spigoli sono lati di un triangolo*
+
+> Si dimostri che in ogni tetraedro esiste un vertice tale che i tre spigoli che vi si incontrano hanno lunghezze che possono essere i lati di un triangolo.
 
 
-*Tetrahedron with a vertex whose three edges are triangle sides*
-
-> Prove that in every tetrahedron there is a vertex such that the three edges meeting there have lengths which are the sides of a triangle.
 
 [[Quesiti/src_imho_1968#q04|src_imho_1968__Q04]]
 
@@ -132,7 +144,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_funzionali,method_invarianti,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Real-valued function satisfying f(x+a) = 1/2 + sqrt(f(x) - f(x)^2)*
@@ -151,14 +163,18 @@ Find the real x where digit product equals x^2 - 10x - 22
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Funzione a valori reali che soddisfa f(x+a) = 1/2 + sqrt(f(x) - f(x)^2)*
 
-*Real-valued function satisfying f(x+a) = 1/2 + sqrt(f(x) - f(x) ^2) *
-
-> Let $f$ be a real-valued function defined for all real numbers $x$ such that, for some positive constant $a$, the equation $$f(x + a) = \frac{1}{2} + \sqrt{f(x) - [f(x)]^2}$$ holds for all $x$.
+> Sia $f$ una funzione a valori reali definita per tutti i numeri reali $x$ tale che, per qualche costante positiva $a$, l'equazione
+> $$f(x + a) = \frac{1}{2} + \sqrt{f(x) - [f(x)]^2}$$
+> sia verificata per tutti gli $x$.
 > 
-> (a) Prove that the function $f$ is periodic (i.e., there exists a positive number $b$ such that $f(x + b) = f(x)$ for all $x$). For $a = 1$, give an example of a non-constant function with the required properties.
+> (a) Si dimostri che la funzione $f$ è periodica (cioè esiste un numero positivo $b$ tale che $f(x + b) = f(x)$ per ogni $x$).
+> (b) Per $a = 1$, si dia un esempio di una funzione non costante con le proprietà richieste.
+
+
 
 [[Quesiti/src_imho_1968#q05|src_imho_1968__Q05]]
 
@@ -166,7 +182,7 @@ Find the real x where digit product equals x^2 - 10x - 22
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Evaluate infinite sum of floor((n+2^k)/2^(k+1)) for all natural n*
@@ -182,11 +198,14 @@ Find the real x where digit product equals x^2 - 10x - 22
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Valutare la somma infinita di floor((n+2^k)/2^(k+1)) per tutti i numeri naturali n*
+
+> Per ogni numero naturale $n$, si valuti la somma
+> $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$
+> (Il simbolo $[x]$ indica il massimo intero non superiore a $x$.)
 
 
-(*Evaluate infinite sums of floor n+2^k)/2^(k+1)) for the natural n*
-
-> For every natural number $n$, evaluate the sum $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$ (The symbol $[x]$ denotes the greatest integer not exceeding $x$.)
 
 [[Quesiti/src_imho_1968#q06|src_imho_1968__Q06]]

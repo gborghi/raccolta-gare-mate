@@ -12,7 +12,7 @@ level: IMO
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Rectangle grid moves from A to B vertex*
@@ -32,18 +32,19 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Spostamenti su una griglia rettangolare da A al vertice B*
+
+> Sia dato un intero positivo $r$ e una scacchiera rettangolare $ABCD$ di dimensioni $|AB| = 20$ per $|BC| = 12$. Il rettangolo è suddiviso in una griglia di $20 \times 12$ quadratini unitari. Sono consentiti i seguenti movimenti sulla scacchiera: si può passare da un quadratino a un altro solo se la distanza tra i centri dei due quadratini è $\sqrt{r}$. Si richiede di trovare una sequenza di mosse che porti dal quadratino avente $A$ come vertice a quello avente $B$ come vertice.
+> 
+> (a) Si dimostri che l'operazione non può essere eseguita se $r$ è divisibile per 2 o per 3.
+> 
+> (b) Si dimostri che il compito è possibile quando $r = 73$.
+> 
+> (c) Il compito può essere eseguito quando $r = 97$?
 
 
-*Rectangle grid moves from A to B vertex*
-
-> We are given a positive integer $r$ and a rectangular board $ABCD$ with dimensions $|AB| = 20$, $|BC| = 12$. The rectangle is divided into a grid of $20 \times 12$ unit squares. The following moves are allowed on the board: one can move from one square to another only if the distance between the centers of the two squares is $\sqrt{r}$. The task is to find a sequence of moves leading from the square with $A$ as a vertex to the square with $B$ as a vertex.
-> 
-> (a) Show that the task cannot be done if $r$ is divisible by 2 or 3.
-> 
-> (b) Prove that the task is possible when $r = 73$.
-> 
-> (c) Can the task be done when $r = 97$?
 
 [[Quesiti/src_imho_1996#q01|src_imho_1996__Q01]]
 
@@ -51,7 +52,7 @@ level: IMO
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Incenter concurrence in triangle with interior point*
@@ -67,12 +68,16 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Concorrenza degli incentri in un triangolo con punto interno*
+
+> Sia $P$ un punto interno al triangolo $ABC$ tale che
+> $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$.
+> Siano $D$ e $E$ gli incentri dei triangoli $APB$ e $APC$, rispettivamente.
+> Si dimostri che le rette $AP$, $BD$ e $CE$ si incontrano in un punto.
 
 
-*Incenter concurrence in triangle with interior point*
-
-> Let $P$ be a point inside triangle $ABC$ such that $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$ Let $D$, $E$ be the incenters of triangles $APB$, $APC$, respectively. Show that$AP$,$BD$,$CE$ meet at a point.
 
 [[Quesiti/src_imho_1996#q02|src_imho_1996__Q02]]
 
@@ -80,7 +85,7 @@ level: IMO
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_funzionali,method_invarianti,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Functional equation on nonneg integers with sum*
@@ -95,12 +100,14 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Equazione funzionale sugli interi non negativi con somma*
+
+> Sia $S$ l'insieme degli interi non negativi. Determinare tutte le funzioni $f$ da $S$ a sé stessa tali che
+> $$f(m + f(n)) = f(f(m)) + f(n) \quad \forall m, n \in S.$$
 
 
-*Functional equation on nonnegative integers with sum*
-
-> Let $S$ denotes the set of nonnegative integers. Find all functions $f$ from $S$ to itself such that $$f(m + f(n)) = f(f(m)) + f(n) \quad \forall m, n \in S.$$
 
 [[Quesiti/src_imho_1996#q03|src_imho_1996__Q03]]
 
@@ -108,7 +115,7 @@ level: IMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Least value of smaller of two squares from linear combos*
@@ -122,12 +129,13 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Minimo valore del minore dei due quadrati da combinazioni lineari*
+
+> I numeri interi positivi $a$ e $b$ sono tali che i numeri $15a + 16b$ e $16a - 15b$ sono entrambi quadrati di interi positivi. Qual è il minimo valore possibile che può assumere il più piccolo di questi due quadrati?
 
 
-*Least value of smaller of two squares from linear combos*
-
-> The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What is the least possible value that can be taken on by the smaller of these two squares?
 
 [[Quesiti/src_imho_1996#q04|src_imho_1996__Q04]]
 
@@ -135,7 +143,7 @@ level: IMO
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Circumradii sum inequality for hexagon with parallel sides*
@@ -150,12 +158,14 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
+
+*Disuguaglianza sulla somma dei circoraggi per un esagono con lati paralleli*
+
+> Sia $ABCDEF$ un esagono convesso tale che $AB$ sia parallelo a $DE$, $BC$ sia parallelo a $EF$ e $CD$ sia parallelo a $FA$. Siano $R_A, R_C, R_E$ i circoraggi dei triangoli $FAB$, $BCD$, $DEF$ rispettivamente, e sia $P$ il perimetro dell'esagono. Si dimostri che
+> $$R_A + R_C + R_E \ge \frac{P}{2}.$$
 
 
-Circumradii sum inequality for hexagon with parallel sides
-
-> Let $ABCDEF$ be a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. Let $R_A, R_C, R_E$ denote the circumradii of triangles $FAB$, $BCD$, $DEF$, respectively, and let $P$ denote the perimeter of the hexagon. Prove that $$R_A + R_C + R_E \ge \frac{P}{2}.$$
 
 [[Quesiti/src_imho_1996#q05|src_imho_1996__Q05]]
 
@@ -163,7 +173,7 @@ Circumradii sum inequality for hexagon with parallel sides
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_invarianti,method_congruenze,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 *Equal values in integer sequence with two-step increments*
@@ -183,17 +193,18 @@ Circumradii sum inequality for hexagon with parallel sides
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="it"></div>
 
+*Valori uguali in una successione di interi con incrementi biannuali*
 
-*Equal values in integer sequence with two-step increments*
-
-> Let $p$, $q$, $n$ be three positive integers with $p + q < n$. Let $(x_0, x_1, \ldots, x_n)$ be an $(n+1)$-tuple of integers satisfying the following conditions:
+> Siano $p$, $q$, $n$ tre interi positivi con $p + q < n$. Sia $(x_0, x_1, \ldots, x_n)$ una tupla di interi di lunghezza $(n+1)$ che soddisfa le seguenti condizioni:
 > 
 > (a) $x_0 = x_n = 0$.
 > 
-> (b) For each $i$ with $1 \le i \le n$, either $x_i - x_{i-1} = p$ or $x_i - x_{i-1} = -q$.
+> (b) Per ogni $i$ con $1 \le i \le n$, vale $x_i - x_{i-1} = p$ oppure $x_i - x_{i-1} = -q$.
 > 
-> Show that there exist indices $i < j$ with $(i, j) \ne (0, n)$, such that $x_i = x_j$.
+> Si dimostri che esistono degli indici $i < j$ con $(i, j) \ne (0, n)$, tali che $x_i = x_j$.
+
+
 
 [[Quesiti/src_imho_1996#q06|src_imho_1996__Q06]]
